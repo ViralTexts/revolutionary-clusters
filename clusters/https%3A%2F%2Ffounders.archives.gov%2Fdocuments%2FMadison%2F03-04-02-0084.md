@@ -89,7 +89,7 @@ will doubtless engage the favorable attention
 of congress.  
 JAMES MADISON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216146:1811122401:0536/pct:8.538398018166804,6.425507020280811,21.420313790255985,34.53588143525741/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216146:1811122401:0536/pct:8.536988110964334,6.424880569367262,21.422280933509466,34.53576419355887/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -149,7 +149,7 @@ flict, will doubtless engage the favorable at­
 tention of Congress.  
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811122601:0267/pct:41.865115433557534,44.885590599876316,17.651336120705327,26.58008658008658/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811122601:0267/pct:41.85750636132315,44.88003957457334,17.654186356476433,26.580921757770632/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -207,7 +207,7 @@ flict, will doubtless engage the favorable at­
 tention of Congress.  
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811122601:0421/pct:58.643206965354615,13.228884438685357,34.31888264103029,78.1128519260219/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811122601:0421/pct:58.63257163583605,13.227326266195524,34.31870390521098,78.10757754220651/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -389,7 +389,7 @@ jiict, will doubtless engage the favourable
 attention of Congress.  
 “ JAMES MADISOy.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1812010301:0187/pct:2.979427760699929,2.3185045645558615,94.25396074722157,39.400086943921174/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1812010301:0187/pct:2.978723404255319,2.3181686467690525,94.23758865248227,39.39800057954216/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -545,7 +545,7 @@ citizens who bave fallen in this severe conflict,
 wili doubtless engage the Livourable cttention  
 of Congress JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812010801:0545/pct:3.984974685611628,18.85568226504129,22.031683815123305,18.56075501376327/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812010801:0545/pct:3.984974685611628,18.85568226504129,22.042571724100387,18.564031983221916/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -564,7 +564,7 @@ the particulars and the issue of the expe­
 diti n under Ids command against the Itns­  
 tile Indians on the Wabash, and to who
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1812011601:0304/pct:6.8313953488372094,75.62994071146245,16.424418604651162,2.7791501976284585/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1812011601:0304/pct:6.830154405086285,75.62060022230456,16.427490160460188,2.782923716602857/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -642,7 +642,7 @@ their commander on an occasion re­
 quiring the utmost exertion of valour  
 and discipline.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_queen_ver01:data:sn84026826:00393349414:1836050701:0329/pct:50.012397718819734,15.133333333333333,31.192660550458715,81.45/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_queen_ver01:data:sn84026826:00393349414:1836050701:0329/pct:50.0,15.130811531411432,31.191125433812594,81.44059323446092/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -720,7 +720,7 @@ their commander, on an occasion require
 ing the wtmost exestion of valor and dig~  
 ciplne. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152755:1836091501:0157/pct:81.11661260030732,72.13216957605985,15.058903875704285,5.024937655860349/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152755:1836091501:0157/pct:81.12230379602755,72.1404821280133,15.053212679984064,5.024937655860349/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -805,7 +805,7 @@ dations committed on our frontier, but in thi pre­
 vention of any hoslile incursions otherwise to have  
 been apprehended.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840012301:0046/pct:18.62377122430742,40.99666067300283,15.728328865058087,12.959157462111483/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840012301:0046/pct:18.635686624962766,41.005223049918655,15.722371164730413,12.959157462111483/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -826,7 +826,7 @@ which distinguished their Commander on
 an occasion requiring the utmost cxer- i  
 tions of valor and discipline.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348963:1840013001:0439/pct:49.059895328552045,21.31416837782341,15.332428765264586,4.421629021218344/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348963:1840013001:0439/pct:49.05038759689923,21.311251026553517,15.334302325581396,4.424445661100465/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -848,7 +848,7 @@ gaged, at well as the collected firmness which dis
 tingnithed Ikeir commander on an occasion requi­  
 ring the utmost exertions of valor and discipline. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348963:1840020601:0444/pct:20.34198113207547,21.82649667405765,15.389150943396226,3.9634146341463414/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348963:1840020601:0444/pct:20.337983886814698,21.823472356935014,15.391039496954216,3.9663294997921574/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -874,7 +874,7 @@ gaged, as well as the collected firmness which distin
 the unmost exertion of valor and discipline.&quot;  
 And the Legislature of Kentucky adopted the fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348872:1840021301:0226/pct:196.0223981463603,122.24472085623373,62.11623865611122,24.081573618744578/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348872:1840021301:0226/pct:48.996138996138995,30.556760665220533,15.526061776061775,6.019522776572668/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -901,7 +901,7 @@ on our Irontier, but hi the prevention of any hostile in­
 cursions otherwise to have been apprehended.*&#x27;  
 Ihe Legislature of Indiana, in their ad
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840022501:0098/pct:48.56730942512164,75.84794573147319,15.750585691115516,6.62997568155638/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840022501:0098/pct:48.56730942512164,75.84794573147319,15.756592779479787,6.638508468791331/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -927,7 +927,7 @@ firmness which distinguished their com­
 mander on an occasion requiring the ut­  
 most exertions of valor and discipline.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn86074078:0029587885A:1840022901:0714/pct:11.875,50.755682494347255,16.598837209302324,7.199809591812448/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn86074078:0029587885A:1840022901:0714/pct:8.91247455655714,38.06973699869094,12.460017446932248,5.402832321789837/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -955,7 +955,7 @@ action which took piace on the 7th ultimo.
 Congress Will see with satisfaction the  
 dauntless spirit and fortitude displayed bv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85026141:00296026827:1840022901:0655/pct:73.25268817204301,45.57025623848602,16.397849462365592,7.65365935354212/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85026141:00296026827:1840022901:0655/pct:54.98767092580139,34.18187908223078,12.30665770006725,5.74443141852286/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1012,7 +1012,7 @@ their commander on an occasion requiring
   
 the utmost exertions of valor and diciplme
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn87065543:0029587823A:1840030701:0713/pct:0.79963789981895,51.527900797165636,20.986722993361496,7.3294951284322405/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn87065543:0029587823A:1840030701:0713/pct:0.6036824630244492,38.651461470327725,15.741020223362511,5.50265721877768/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1035,7 +1035,7 @@ which distinguished their commander on an occa­
 sion requiring the utmost exertions of valor and  
 dis cipline
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296187:1840031001:0552/pct:160.94808126410834,190.22346368715083,70.05267118133935,20.391061452513966/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296187:1840031001:0552/pct:40.237020316027085,47.555865921787706,17.513167795334837,5.097765363128492/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1058,7 +1058,7 @@ firmness which distinguished their&#x27;commander
 on an occasion requiring tho utmost exertions  
 of valor and discipline.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016942:00295878204:1840031201:1006/pct:81.25,52.89129830414234,23.623251748251747,7.186544342507645/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016942:00295878204:1840031201:1006/pct:60.988410233982066,39.671948846260776,17.734528755740214,5.393383375034751/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1091,7 +1091,7 @@ which distinguished their commander on an occa­
 sion requiring the ulmost exertions of valor and  
 discipline
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296187:1840031701:0559/pct:100.98335854765507,218.26355717898286,71.10438729198185,20.567575161562235/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296187:1840031701:0559/pct:25.260170293282876,54.565889294745716,17.786187322611163,5.141893790390559/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1115,7 +1115,7 @@ firmness winch distinguished their commander
 on an occasion requiring ihe utmost exertions  
 of valor and discipline.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215671:1840032301:0284/pct:67.95239144809345,19.272618870174394,14.800528983910073,4.48651065732598/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215671:1840032301:0284/pct:67.94490358126721,19.27118265146434,14.80257116620753,4.488660357204958/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1179,7 +1179,7 @@ hended.&quot;
 The Legislature of Indiana, in their address,  
 said
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1840040601:0086/pct:91.0581222056632,327.4501603234351,56.70640834575261,30.78209953994145/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1840040601:0086/pct:22.76877212595491,81.86254008085878,14.179243525246878,7.695524884985362/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1242,7 +1242,7 @@ firmness which distinguished their commander
 on an occasion requiring the utmost exertions  
 of valor and discipline.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016474:00296026402:1840041501:0023/pct:54.373177842565596,10.81570996978852,16.389004581424405,9.516616314199396/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016474:00296026402:1840041501:0023/pct:54.373177842565596,10.8257804632427,16.40288768568652,9.516616314199396/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1320,7 +1320,7 @@ zens who have fallen in this severe conflict, will
 do l itless engage the favorable attention of Con­  
 gre s. JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016475:00296026402:1840050501:0087/pct:67.30885009030705,44.89003880983182,14.46919526389725,21.676009774328016/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016475:00296026402:1840050501:0087/pct:67.31553950096996,44.89003880983182,14.475884674560172,21.685592448852475/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1348,7 +1348,7 @@ most exertions of valor and discipline.&quot;
 Thus speaks Mr Madison, of Gen. Harri&#x27;  
 son&#x27;s conduct at he Battle of Tippecanoe. I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_danby_ver01:data:sn98060050:00280777328:1840050801:0630/pct:8.367181153533712,98.3619344773791,19.740048740861088,11.294851794071763/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_danby_ver01:data:sn98060050:00280777328:1840050801:0630/pct:6.27666057282145,73.77535101404057,14.82835669307333,8.471138845553822/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1372,7 +1372,7 @@ gniihed their commander on an occasion re­
 quiring the utmost exertions of valor and  
 discipline. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85026141:00296026827:1840051601:0694/pct:57.39750445632799,99.3933265925177,16.555258467023172,7.010448264239973/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85026141:00296026827:1840051601:0694/pct:43.06732055283103,74.55342096393663,12.43869817209095,5.25783619817998/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1420,7 +1420,7 @@ ted on our frontier, but in the prevention of any hos­
 tile incursions otherwise to have been apprehend  
 ed.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348872:1840052801:0347/pct:140.41805040046884,296.82144426541674,61.82848212541512,50.637175919144575/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348872:1840052801:0347/pct:35.09765625,74.19449326303456,15.4541015625,12.657439953134153/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1448,7 +1448,7 @@ occasion requiring:; the&#x27; utmost exertion of
 valor and discipline.&quot; ,  
 The Legislature of Kentucky, at their e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn87065694:00295877595:1840060501:0514/pct:69.04904306220095,20.52792835258072,19.407894736842106,10.134338911147772/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn87065694:00295877595:1840060501:0514/pct:51.80975172001197,15.401838321942023,14.552796889021836,7.60075418336083/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1481,7 +1481,7 @@ exertion of valor and discipline.
 Who then deserves the title of the British par  
 ty--the Whigs or the Loco IFocos? Let th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296187:1840060901:0606/pct:14.372623574144487,202.9075511644319,72.54752851711027,47.08539167254764/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296187:1840060901:0606/pct:3.594522632179536,50.72688779110798,18.14378090528718,11.77134791813691/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1579,7 +1579,7 @@ spirit and fortitude displayed by
 every description of the troops en­  
 gaged, as well as their collected
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn86053954:00237281846:1840062001:0069/pct:4.054054054054054,14.42208165612421,24.17600527356625,47.889591719378956/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn86053954:00237281846:1840062001:0069/pct:3.050288540807914,10.822311673375504,18.136850783182194,35.91719378953422/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1668,7 +1668,7 @@ the 7th ultimo, Congress will see
 with satisfaction the dauntless  
 spirit and fortitude displayed b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn86053954:00237281846:1840062701:0073/pct:3.3647375504710633,16.853154919829276,24.730820995962315,44.307301880263005/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn86053954:00237281846:1840062701:0073/pct:2.524402558061259,12.642750028838389,18.56277347694379,33.23336024916369/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1733,7 +1733,7 @@ the 7th ultimo, Congress will see
 with satisfaction the dauntless  
 spirit and fortitude displayed b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn86053954:00237281846:1840070401:0077/pct:7.758620689655173,43.55287569573284,23.8939492517892,17.428107606679035/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn86053954:00237281846:1840070401:0077/pct:5.825874694873881,32.66465677179963,17.933279088689993,13.079777365491651/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1767,7 +1767,7 @@ j S!(,n requiring the utmost exertions of valor
 , more, are the testimonials which history af­  
 i lords of the worth and qualifications of Har
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183682:1840072301:0288/pct:21.880038697194454,52.12364915807992,14.89841986455982,5.6546871073133955/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183682:1840072301:0288/pct:21.87651136546832,52.117100138208315,14.901391799666827,5.658164761067136/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1806,7 +1806,7 @@ James Monroe.
   
 Washington, Bee.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn86053954:00237281846:1840072401:0081/pct:8.69987063389392,44.42368328856709,23.722509702457955,27.53707812682471/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn86053954:00237281846:1840072401:0081/pct:6.535101908767389,33.31776246642532,17.793594306049823,20.65864767020904/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1934,7 +1934,7 @@ MANDER on an occasion requiring the u&#x27;tr.ost
 exertions oi&#x27;valor and discipline.  
 JAMES M ADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215671:1840081701:0743/pct:33.83566164338357,82.92153977228719,14.585854141458585,8.341724111222987/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215671:1840081701:0743/pct:33.83194016717994,82.91511771995043,14.587916116732659,8.343659644774887/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1957,7 +1957,7 @@ distinguished their commander on an occasion re­
 quiring the utmost exertions of valor and disci-  
 pline
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1840082401:0163/pct:197.26735598227475,69.1834451901566,56.27769571639586,16.498881431767337/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1840082401:0163/pct:49.33505725895826,17.29586129753915,14.07462135205024,4.124720357941834/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1994,7 +1994,7 @@ their commander on every trying
 occasion requiring the utmost ex­  
 ertion of valor and discipline
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn86053954:00237281846:1840082801:0101/pct:7.44750656167979,44.06818705367427,24.196194225721786,24.487445289103892/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn86053954:00237281846:1840082801:0101/pct:5.596586246512391,33.056899331951165,18.15197767930412,18.371343008523382/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2057,7 +2057,7 @@ their commander on every trying
 occasion requiring the utmost ex­  
 ertion of valor and discipline
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn86053954:00237281846:1840090401:0105/pct:11.415155440414507,17.360147942672214,23.656088082901555,51.93018955154877/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn86053954:00237281846:1840090401:0105/pct:8.568189180434079,13.025889967637541,17.751862649821835,38.95053166897827/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2130,7 +2130,7 @@ their commander on every trying
 occasion requiring the utmost ex­  
 ertion of valor and discipline
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn86053954:00237281846:1840091101:0109/pct:10.521235521235521,17.271993543179985,24.066924066924066,51.896690879741726/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn86053954:00237281846:1840091101:0109/pct:7.902784484146145,12.959760175256543,18.058908739739255,38.92540066874207/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2154,7 +2154,7 @@ as the collected firmness which distinguished
 their commander on an occasion requiring  
 the utmost exertions of valor and dicipline.1
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_kingsombra_ver01:data:sn87065543:00415662026:1840091201:0033/pct:74.2314930991217,61.05263157894737,21.31430363864492,7.5203472599023335/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_kingsombra_ver01:data:sn87065543:00415662026:1840091201:0033/pct:55.703750196139964,45.79489962018448,16.005021183116273,5.642973412913728/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2265,7 +2265,7 @@ the utmost exertion of valor and discipline.&quot;
 McAfee, in his History of the War, remarks that?  
 &quot; The common opinion seemed to be that the army ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661617:1854102801:0323/pct:34.551308973820525,56.17715617715618,15.301693966120677,8.036408036408037/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661617:1854102801:0323/pct:34.560642120490925,56.184556184556186,15.297027392785477,8.036408036408037/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

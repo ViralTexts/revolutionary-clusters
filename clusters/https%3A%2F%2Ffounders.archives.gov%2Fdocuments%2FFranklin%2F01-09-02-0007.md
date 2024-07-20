@@ -340,7 +340,7 @@ er rather increase.&quot; in one of her
 later letters the sister recurred to this,  
 writing: &quot;You once told
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_hessel_ver01:data:sn82015104:00280768832:1898112901:0252/pct:56.305909033639914,68.45292714259497,12.44802822225022,4.083318040007341/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_hessel_ver01:data:sn82015104:00280768832:1898112901:0252/pct:56.31010877325606,68.45292714259497,12.460627441098652,4.089435370404355/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -363,7 +363,7 @@ other rather increase.” In one of her
 later letters the sister recurred to this,  
 writing: “You once told me, my Hea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588496:1898120101:0380/pct:46.82419249945805,83.53316132948854,17.429004985909387,6.374260130520565/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588496:1898120101:0380/pct:36.299490395923165,64.73770877440602,13.49610796886375,4.9439347604485215/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -419,7 +419,7 @@ other rather Increase.&quot; In one of her
 later letters the sister recurred to this,  
 writing: &quot;You once told me, my flen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_navy_ver01:data:sn95079154:00175031236:1899031601:0451/pct:37.808300103382074,80.34089720798913,12.110471126864569,4.642894489177037/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_navy_ver01:data:sn95079154:00175031236:1899031601:0451/pct:37.808300103382074,80.34786852103593,12.120317038349825,4.642894489177037/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -75,7 +75,7 @@ to these presents, and signed
 the fame with my hand. Done  
 at the city of Washington, th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800120101:0003/pct:41.66866458882762,48.033618775769106,16.59074562455047,28.052648271487474/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800120101:0003/pct:41.68065212179334,48.04154773231843,16.596739391033324,28.05661274976213/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -126,7 +126,7 @@ _hje_._ of dili ulll &gt;n mentioned in the
 d fifth articles wi the co-.iv.n­  
 ot the fl&#x27;.h \ ire an. 9, i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803110201:0001/pct:1.2098548174219095,0.8297607523164154,93.97272327320721,42.580555939704055/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803110201:0001/pct:1.2098548174219095,0.8297607523164154,93.98005572664614,42.59899506753331/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -182,7 +182,7 @@ dence of the United States, the
 twenty- eighth.  
 TH : JEFFERSON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803110201:0002/pct:1.8257809062912451,1.4935693541695478,18.631764188297403,33.05213663393722/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803110201:0002/pct:1.8331133597301656,1.5027889180841747,18.639096641736327,33.05674641589453/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -249,7 +249,7 @@ hundred and three, and of the fgv­
 United States, the twenty-eighth,  
 TH: JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1803111701:0409/pct:30.419508162843563,3.817933092898893,43.955362678239304,92.71234921029723/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1803111701:0409/pct:30.426396638423917,3.817933092898893,43.96913962940001,92.71649463167931/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -331,7 +331,7 @@ year of our Lord, ©ne thoufandebj *
 ruled States, the Uventv-eighth I  
 Th: JFFFERoON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016081:00332895060:1803111901:0016/pct:51.92173305380852,2.417263201576927,46.9601677148847,95.73607220666044/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016081:00332895060:1803111901:0016/pct:51.91266375545852,2.41701244813278,46.956331877729255,95.72873443983403/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -391,7 +391,7 @@ the Jovereignty and independence
 eighth.  
 : TH : JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1803112201:0391/pct:58.650190114068444,38.59526426216405,16.85678073510773,31.301828354480968/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1803112201:0391/pct:58.65547106041403,38.59526426216405,16.8673426277989,31.308489026542777/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -422,7 +422,7 @@ ty-eighth,
 : Tu: JEFFERSON,  
 By the President. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804011701:0424/pct:76.05787181082763,4.974578805702323,17.22153080273802,10.547303359585285/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804011701:0424/pct:76.06824310309065,4.97790183763666,17.22153080273802,10.547303359585285/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

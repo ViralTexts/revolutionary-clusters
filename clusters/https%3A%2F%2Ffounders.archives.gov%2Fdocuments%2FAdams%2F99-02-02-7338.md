@@ -110,7 +110,7 @@ sition of this work must have cost you much la
 bor of resenrch, and of thought, which merit;  
 well of the public.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184157:1823032401:0137/pct:3.549618320610687,76.24173258980677,17.15648854961832,5.809881986772144/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184157:1823032401:0137/pct:3.548941041785919,76.23184647302905,17.15957514469249,5.813450899031812/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -136,7 +136,7 @@ bave cost you much labor of research, and
 ot thought, which merits well ot the pub­  
 lic.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025001:00414216328:1823032501:0297/pct:55.462624150548876,36.79564032697548,16.65795434744729,6.801089918256131/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025001:00414216328:1823032501:0297/pct:55.45296167247387,36.791630340017434,16.660859465737513,6.803981400755594/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -161,7 +161,7 @@ pilationand composition of this work, must
 have cost you much&#x27; labor ot research, and  
 ot thought, which merits well ot the pub
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025001:00414216328:1823032701:0301/pct:56.15288444365065,81.86306780776827,17.37810323272013,6.484529295589203/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025001:00414216328:1823032701:0301/pct:56.142857142857146,81.85408667032364,17.38095238095238,6.487474858292193/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -188,7 +188,7 @@ ot thought, which merits well of tb« pub­
 lic.”  
 Extract of a note from the Hon. Thoma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025001:00414216328:1823032901:0306/pct:25.484616752623154,79.84344422700588,17.588475902543127,7.51250271798217/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025001:00414216328:1823032901:0306/pct:25.4800853485064,79.83476464833134,17.59127548601233,7.5153096351052655/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

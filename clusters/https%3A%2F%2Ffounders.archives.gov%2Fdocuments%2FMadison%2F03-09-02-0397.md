@@ -54,7 +54,7 @@ with its strength.”
 which grows with its growth and strength­  
 ens with its strength, is the promotion o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:0041418392A:1818020501:0314/pct:81.70751768382958,40.43715846994535,14.9037670669518,1.1414693381906498/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:0041418392A:1818020501:0314/pct:81.69407894736842,40.43224866440019,14.906798245614034,1.1453780152177433/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -161,7 +161,7 @@ lin, grows with its growth and strengthens with its
 strength. We should be deaf to the teachings of all  
 past experience and blind to the momentous events tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040303:00514151313:1840081801:0037/pct:64.03458213256484,20.371543170783195,14.72622478386167,1.3194004644289634/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040303:00514151313:1840081801:0037/pct:64.03458213256484,20.378579973260152,14.73102785782901,1.3158820631904862/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -236,7 +236,7 @@ strengthens with its strength. Asa propen
 strength&quot;-but in no two human beings is it alike,  
 or can be made alike. To take a full grow
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743191:1844053001:0659/pct:60.83086053412463,98.12764014156868,46.653478404220245,5.1261559538760135/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743191:1844053001:0659/pct:20.276953511374877,32.70921338052289,15.551159468073415,1.7087186512920045/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -302,7 +302,7 @@ principle of liberty enters the system of existence
 along with vitality, grows with its growth  
 and strengthens with its strength, and disorde
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1852082601:0602/pct:44.76394849785408,22.37993389072526,14.13447782546495,2.323546568150885/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1852082601:0602/pct:44.76394849785408,22.37993389072526,14.139246542680018,2.32678721887355/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -338,7 +338,7 @@ holding it, a desire for its exercise, that
 grows with its growth, and strengthens  
 with its strength, until they come t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn84028880:00296027558:1854041101:0250/pct:29.9625468164794,256.2526920315865,49.21348314606742,13.38119167264896/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn84028880:00296027558:1854041101:0250/pct:7.492039707810451,64.06317300789662,12.305675220078667,3.34529791816224/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -505,7 +505,7 @@ This is the deadly foe and savage monster
 wo now have to contend with.  
 There is now raging in our midat, civi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn84028083:00280775241:1862082201:0787/pct:67.380073800738,155.8636626227614,49.66789667896679,15.424610051993067/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn84028083:00280775241:1862082201:0787/pct:16.851236618678477,38.96591565569035,12.42155777039498,3.856152512998267/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -692,7 +692,7 @@ while its appetite for real estate grows
 with its growth and strengthens with  
 its strength. There ought to be an en
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn85033153:00271769738:1878013101:0847/pct:49.67159277504105,42.72241790705602,11.15216201423098,4.056357232132712/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn85033153:00271769738:1878013101:0847/pct:47.18779790276454,40.59295506062678,10.60317185198024,3.857086316698449/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -744,7 +744,7 @@ great question of &quot; To be or not to be
 for Governor, grows with its growth and  
 strengthens with Its strength.&#x27;1
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_asburypark_ver01:data:sn84026089:00514155884:1882061401:0098/pct:27.354336043360433,93.13007588869658,10.433604336043361,0.865397417121555/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_asburypark_ver01:data:sn84026089:00514155884:1882061401:0098/pct:27.34970364098222,93.11767838125665,10.436071126164267,0.8686102236421726/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -761,7 +761,7 @@ The Camden Courier says: The boom’ of Major
 Yard of the Monmouth Democrat, for Governor grows  
 with its growth and strengthens with its strength
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685294:1882061501:0313/pct:16.09583534330278,54.12900073295871,10.998552821997105,1.0139262154898607/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685294:1882061501:0313/pct:16.093247588424436,54.12238915353609,11.0008038585209,1.01685599120557/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -881,7 +881,7 @@ bed i shows a light greenish yellow
 hue which grows with its growth and  
 strengthens with its strength until a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:206534631:1896111501:0159/pct:25.206349206349206,87.16595939901364,19.238095238095237,3.7733685055625643/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:206534631:1896111501:0159/pct:16.81219241149389,58.11446266773713,12.827432925861247,2.51940207210307/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -899,7 +899,7 @@ with Its strength.
 &quot;Kansas Citj the marvelous joung giant­  
 ess, -its at the receipt of custom at th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_edwards_ver01:data:sn86063615:00211109129:1897091901:0362/pct:22.78072837632777,43.10801393728223,16.67298937784522,1.8954703832752613/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_edwards_ver01:data:sn86063615:00211109129:1897091901:0362/pct:17.100018978933385,32.33449477351916,12.526096033402922,1.421602787456446/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

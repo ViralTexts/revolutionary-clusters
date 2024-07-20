@@ -241,7 +241,7 @@ veflels belonging io any fubjeéts ot the Unit­
 ed S:ates, which shall have c-me into any  
 port of Great-Britain since (a time to be Ipe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1783051701:0356/pct:39.8307896483079,43.802609427609426,26.80822826808228,8.186026936026936/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1783051701:0356/pct:39.84184914841849,43.809624017957354,26.802698518026986,8.186026936026936/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -567,7 +567,7 @@ the United States of America, and no other goods
 &lt;vr merchandizes, might (until further order) be  
 imported
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790011501:0002/pct:3.7086535248914134,17.1047391477499,29.46876044102907,13.978494623655914/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790011501:0002/pct:3.7086535248914134,17.119673436877736,29.47711326428333,13.973516527279967/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -602,7 +602,7 @@ conimiffioners of the Admiralty are to give the
 jiecetlary directions herein, as to them may re­  
 flectively appertain. W. FAWKENER.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790011501:0002/pct:4.17641162712997,71.38590203106332,29.46876044102907,17.124651533253683/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790011501:0002/pct:4.18476445038423,71.40083632019116,29.47711326428333,17.124651533253683/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -633,7 +633,7 @@ the United States of America, and no other goods
 &lt;vr merchandizes, might (until further order) be  
 imported
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791011501:0002/pct:3.7086535248914134,17.1047391477499,29.46876044102907,13.978494623655914/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791011501:0002/pct:3.7086535248914134,17.119673436877736,29.47711326428333,13.973516527279967/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -668,7 +668,7 @@ conimiffioners of the Admiralty are to give the
 jiecetlary directions herein, as to them may re­  
 flectively appertain. W. FAWKENER.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791011501:0002/pct:4.17641162712997,71.38590203106332,29.46876044102907,17.124651533253683/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791011501:0002/pct:4.18476445038423,71.40083632019116,29.47711326428333,17.124651533253683/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -995,7 +995,7 @@ tieth da&gt; of August, in the year of our Lord
 one thn /sand eight hundred and rix, afid of  
 our reign the forty-sixth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808051001:0010/pct:2.5465953127883374,37.47304325764303,18.693485883004243,45.883546873017885/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808051001:0010/pct:2.5461254612546127,37.468290208016235,18.696186961869618,45.88195501437511/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

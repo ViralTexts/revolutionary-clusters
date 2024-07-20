@@ -64,7 +64,7 @@ whether he be able with ten&#x27; thousand to meet
 him that cometh against hint with twenty thou­  
 sand ? Which is being interpreted, whethe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811101701:0340/pct:58.701250919793964,34.79635719706552,17.40250183958793,2.820642549962054/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811101701:0340/pct:58.690454294647786,34.7919564942456,17.40543191711115,2.824501496564226/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -97,7 +97,7 @@ ther he be able with ten thousand to meet him
 that comrth against him with twenty thou  
 sand?&quot; Which is being interpreted, whethe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1811101801:0168/pct:28.077651515151516,59.3768115942029,22.53787878787879,15.202898550724637/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1811101801:0168/pct:28.071005917159763,59.36820750615853,22.53846153846154,15.204318214751485/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -135,7 +135,7 @@ sitteth not down first and consulteth, whether
 he be able with ten thousand, to meet him  
 that coir.eth against him with twenty thousan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812061601:0552/pct:76.6984505363528,17.573297248534054,22.28843861740167,3.4641407307171854/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812061601:0552/pct:76.68702517503351,17.571712069276565,22.29008391677839,3.466835047206687/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -171,7 +171,7 @@ have consulted this good old law book
 before they proclaimed war? and to  
 have considered that there is vas
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:0041421616A:1812111901:0187/pct:56.918003297856394,16.8978005476548,16.6092040173887,14.504019079586609/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:0041421616A:1812111901:0187/pct:56.90947242206235,16.896308072778663,16.611710631494805,14.505682152740976/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -241,7 +241,7 @@ sider, whether he be able with ten thousand,
 to meet him who cometh against him with  
 twenty thousand.” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021202:00517171980:1824041401:0126/pct:24.93411717007906,29.357021996615906,18.79181025744983,3.313592780597857/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021202:00517171980:1824041401:0126/pct:19.324430479183032,22.751611845699923,14.569258968316314,2.578953119877609/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -423,9 +423,9 @@ But being at length convinced of the desirableness an
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1839-03_5_15/page/n54/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1839-03_5_15/page/n54/mode/1up?view=theater)
 
-#### 1839-03-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1839-03-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -544,7 +544,7 @@ ed!, whether he be able with ten thousand to meet
 him that cometh against him with twenty thou­  
 sand.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_angelou_ver01:data:sn83030362:print00211110028:1847050901:0002/pct:17.452600875060767,85.26823387582881,10.727596823853508,2.061482820976492/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_angelou_ver01:data:sn83030362:print00211110028:1847050901:0002/pct:17.45665208232053,85.27426160337552,10.735699238373035,2.0644966847498494/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -611,7 +611,7 @@ whether he be able with ten thousand to
 meet him that coraeth against him with  
 twenty thousand ? Here were&#x27;wlvol
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn82006863:00212472827:1855072801:0123/pct:9.05980739989863,64.19553868058851,16.345666497719208,3.7588989084005697/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn82006863:00212472827:1855072801:0123/pct:6.0456273764258555,42.800189843379215,10.899873257287705,2.5059326056003797/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -776,7 +776,7 @@ consolation in the safety of our forees and
 the impregnability of our Monitors. Be­  
 sides, though Charleston may be the nes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kalmia_ver01:data:sn82002197:00332898759:1863050501:0100/pct:47.578589634664404,48.37928464977645,38.855848201642594,11.7548435171386/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kalmia_ver01:data:sn82002197:00332898759:1863050501:0100/pct:36.881767632426104,37.49458587997498,30.136084284460054,9.11497184657587/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -795,7 +795,7 @@ hi be able with ten thousand to meet him
 that cometh against him with twenty thou­  
 sand. Or else, while the other is *a grea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84027060:00415668910:1864021301:0077/pct:48.56340819022457,27.48697031497847,14.531043593130779,2.311352821210061/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84027060:00415668910:1864021301:0077/pct:48.574416556583,27.48697031497847,14.542051959489212,2.311352821210061/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -815,7 +815,7 @@ be able with ten thousand to meet
 him that cometh against him with twen­  
 ty thousand. Or else, while the othe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn87058348:00279529376:1864022301:1166/pct:82.0488073900455,34.83685220729367,12.450020681097477,3.305608871827682/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn87058348:00279529376:1864022301:1166/pct:82.05799898892413,34.83685220729367,12.445424881658164,3.305608871827682/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -852,7 +852,7 @@ King, sitteth not down first, and consulteth wheth­
 - er he be able with ten thousand to - meet him that  
 eometh against him with twenty thousand 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045706:00296022664:1865021501:0609/pct:2.211394302848576,121.523221407436,20.78335832083958,3.3449118744371544/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045706:00296022664:1865021501:0609/pct:1.66854143232096,91.14884857841245,15.598050243719536,2.5086839058278656/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -968,7 +968,7 @@ down first, and consulteth whether he be
 able with ten thousand to meet him that  
 Cometh against him with twenty thousand 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn84022548:00202194965:1870110801:0373/pct:9.35960591133005,110.82196128213266,12.64367816091954,2.560033851687295/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn84022548:00202194965:1870110801:0373/pct:7.02258726899384,83.11647096159949,9.486652977412732,1.9253147149053211/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1080,7 +1080,7 @@ sitteth not down first, and consulteth whether
 he be able with ten thousand to meet him that  
 cometh against him with twenty thousand?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777663:1873052801:0500/pct:155.07020280811233,89.02043692741367,44.14976599063962,7.2727272727272725/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777663:1873052801:0500/pct:38.79024390243902,22.255109231853417,11.04390243902439,1.8181818181818181/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1130,7 +1130,7 @@ Him that comet Ii against him with
 twenty thousand.  
 Guildhall of the Present
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ira_ver01:data:sn84023416:00202197498:1876052001:0666/pct:78.71959942775393,73.18223503209747,16.273247496423462,4.401938949299096/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ira_ver01:data:sn84023416:00202197498:1876052001:0666/pct:59.08033637502236,54.893226778461944,12.220432993379854,3.301454211974322/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1391,7 +1391,7 @@ thousand to meet him that cometb
 against Tfm -with, twenty thousand.&quot;  
 For a moment look at the contendin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_beatles_ver01:data:sn84027718:00271762689:1886032401:0058/pct:6.627842484747643,43.86866205048023,14.753189129229062,4.377931650658923/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_beatles_ver01:data:sn84027718:00271762689:1886032401:0058/pct:4.9785050617112745,32.901496537860176,11.066426293163223,3.2946169309805673/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1435,7 +1435,7 @@ ten thousand to meet him that
 cometh against him with twenty  
 thousand&quot;--that something whic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn85034374:00295878009:1887051401:1156/pct:235.6259659969088,120.5464480874317,43.81761978361669,9.398907103825136/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn85034374:00295878009:1887051401:1156/pct:58.92926169308079,30.136612021857925,10.95863935059915,2.349726775956284/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1453,7 +1453,7 @@ siot her king Bitten not down hrst and
 consulteth whether he be able with ten  
 thousand to meet him that cometh wit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_kingsombra_ver01:data:sn83016925:00415661988:1887070601:0545/pct:62.31721034870641,17.036098796706778,13.329583802024747,1.984378298501161/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_kingsombra_ver01:data:sn83016925:00415661988:1887070601:0545/pct:46.75105485232068,12.782351699387798,10.0,1.4882837238758708/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1565,7 +1565,7 @@ and oonsulteth whether he be able.&quot; etc. I
 against another king, sitteth not down first  
 and consul teth whether he be able,&quot; etc. I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_beatles_ver01:data:sn84027718:00271762707:1890071601:0136/pct:5.161555312157722,66.24805512336074,14.389375684556407,1.6336963769726607/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_beatles_ver01:data:sn84027718:00271762707:1890071601:0136/pct:3.8756505067104903,49.68881973771949,10.7915639550808,1.2224938875305624/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1582,7 +1582,7 @@ and consul teth whether he be able,&quot; etc. I
 against another king, sitteth not down first  
 and consul to th whether ho be able,&quot; etc. I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287356:1890071601:0307/pct:69.62940181454714,52.90523156089194,13.132400430570506,1.4579759862778732/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287356:1890071601:0307/pct:69.63452765390333,52.90523156089194,13.14777794863909,1.4651229273870783/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1650,7 +1650,7 @@ meet him that cometh against him
 with twenty?&quot; Our school house  
 and our schools are monuments t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_kauai_ver01:data:sn84022137:00279523039:1891061901:0509/pct:17.22196152041295,83.21342925659472,11.090254966369466,4.292565947242206/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_kauai_ver01:data:sn84022137:00279523039:1891061901:0509/pct:17.232389592783775,83.21342925659472,11.090254966369466,4.30855315747402/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1676,7 +1676,7 @@ State debt seem to infer that because the
 editor of the Landmark is a friend of the  
 Governor, the Landmark has special oppor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ironmaiden_ver02:data:sn85038614:00175031054:1891090501:0282/pct:46.04294939180057,203.37459007722416,36.25168944285929,16.418068338093725/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ironmaiden_ver02:data:sn85038614:00175031054:1891090501:0282/pct:15.347649797266858,67.79153002574138,12.083896480953095,5.472689446031242/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1750,7 +1750,7 @@ first and consulteth whether he be able
 with ten thousand to meet him that com­  
 eth against him with twenty thousan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777110:1895122601:1244/pct:114.77716966379984,376.961271102284,50.742767787333854,8.171371825790892/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777110:1895122601:1244/pct:28.71112849599061,94.240317775571,12.693135145707021,2.042842956447723/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1819,7 +1819,7 @@ Yet this is the cause of the Christion
 people today and the time will come  
 when the forces of the devil are defeat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_ogilby_ver01:data:sn85042461:0028076968A:1896072001:0238/pct:31.529778123783572,74.61515689757253,12.534059945504087,5.017761989342806/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_ogilby_ver01:data:sn85042461:0028076968A:1896072001:0238/pct:31.539509536784742,74.61515689757253,12.529194239003504,5.036264061574896/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1842,7 +1842,7 @@ and consulteth whether he be able with ten
 thousand to meet him that cometh against  
 him with twenty thousand?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:00175042908:1896110401:0065/pct:124.79338842975207,337.6990087113247,49.812171299774604,19.044758185641335/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:00175042908:1896110401:0065/pct:31.215936853974817,84.42475217783118,12.460063897763579,4.761189546410334/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2019,7 +2019,7 @@ first and consulteth whether he be able
 with 10,000 to meet him that comelh  
 against him with 20,000? 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_hartville_ver01:data:sn92067235:00514150527:1898033001:1036/pct:64.52738990332975,5.00316656111463,12.567132116004297,3.145450707198649/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_hartville_ver01:data:sn92067235:00514150527:1898033001:1036/pct:64.54081632653062,5.013721764830061,12.560418904403868,3.1665611146295123/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2040,7 +2040,7 @@ with twenty thousand?”
 “The text is an illustration of the neces­  
 sity of counting the cost before determin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:00271740505:1898040401:0325/pct:17.76402422965499,45.436566795214084,12.694232288648934,3.3224562444378525/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:00271740505:1898040401:0325/pct:17.7728030901589,45.43986288275816,12.68984285839698,3.3323445070701077/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2059,7 +2059,7 @@ whether he is able with ten thou
 sand to meet him that cometh against  
 him with twenty thousand? Or els
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_griffith_ver01:data:sn83045555:206534710:1898041801:1176/pct:103.8109756097561,45.59471365638767,35.44207317073171,6.247496996395675/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_griffith_ver01:data:sn83045555:206534710:1898041801:1176/pct:34.63005339435546,15.198237885462555,11.823035850495804,2.0824989987985583/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

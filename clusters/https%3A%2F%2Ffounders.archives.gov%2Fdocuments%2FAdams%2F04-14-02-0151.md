@@ -177,7 +177,7 @@ country have been tlie firft to dilcover t&gt; it.
 &quot; An habitation giidy and unsure,  
 « Hutu be fltat buddtth on the vulgar ktart.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800111201:0003/pct:6.522274181639183,4.827586206896552,17.548609401919762,90.31275060144347/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800111201:0003/pct:6.540733448190992,4.831595829991981,17.530150135367954,90.3167602245389/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -237,7 +237,7 @@ awoke no general protest anywhere.
 &quot;An habitation giddy and unsure,  
 Hath he that buildeth on the vulgar heart.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530492:1856040501:0658/pct:150.7442716173273,15.648535564853557,48.58672018732229,24.47101016138673/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530492:1856040501:0658/pct:50.24809053910911,5.216178521617852,16.195573395774097,8.15700338712891/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -306,7 +306,7 @@ he that buildeth on the vulgar heart.
 If a couch disturbs vour sleert. take  
 Fiso&#x27;s Care tor Consumption and rest weiu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn86053634:00280776701:1886042801:0483/pct:85.14747191011236,124.74345818368394,14.85252808988764,3.694202154951257/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn86053634:00280776701:1886042801:0483/pct:63.88059701492537,93.56080041046691,11.132572431957858,2.770651616213443/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -336,7 +336,7 @@ Hen. IV.&quot; 1. lii, 89-90):
 An habitation giddy and unsure  
 Hath he that buildeth on the vulgar heart
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_joshuaTree_ver01:data:sn85066387:00175037895:1899101601:0267/pct:29.670846394984327,17.885329619312905,13.16614420062696,6.70844939647168/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_joshuaTree_ver01:data:sn85066387:00175037895:1899101601:0267/pct:29.670846394984327,17.89306716186939,13.176593521421108,6.70844939647168/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

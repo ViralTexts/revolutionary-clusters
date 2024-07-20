@@ -80,7 +80,7 @@ l it with the highest satisfaction.&quot;
   
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1806032701:0356/pct:31.27578546493177,75.60538961650806,23.008568708346555,19.54207104494488/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1806032701:0356/pct:31.270823417420274,75.59826644055022,23.01020677984029,19.54337039130708/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -111,7 +111,7 @@ ii.st.ad of sixty thousand dollars, and raise tiie duferei.ee b
 tween the two sums from the officers of the naW, who 1  
 sXfaction ” aSSUrei ’ &#x27;V0;‘!J “•‘tributc to 11 the high
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806040201:1039/pct:74.29689410613842,73.98255813953489,20.224993886035705,10.174418604651162/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806040201:1039/pct:74.27872860635696,73.97061198126917,20.226161369193154,10.176812530276118/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -149,7 +149,7 @@ of the navy, who he w as perfectly allured
 would contribute to it with the hightff  
 is4 tactio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895060:1806040701:0808/pct:78.38903170522708,9.09184302445038,18.37189374464439,13.868913088144648/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895060:1806040701:0808/pct:78.37559972583962,9.090909090909092,18.37302947224126,13.870056497175142/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -188,7 +188,7 @@ two famsfiom the ofiicers of the navy,
 who he was perfe@ly assured, would  
 contribute to it with the highest fatis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1806042201:0273/pct:76.83158896289248,52.501733874962845,16.714240405962574,17.725156048746655/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1806042201:0273/pct:76.84216090495823,52.50503649393969,16.708954434929698,17.72185342976981/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -361,7 +361,7 @@ quished the. command ofthe sciuadrou lo
 cnpzam Rodgers. On the 24th l embark.  
 ed on board me Uniced Staces&#x27; {signe Es
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1806042401:0452/pct:5.33397405093705,14.272474513438368,24.07496395963479,79.70342910101947/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1806042401:0452/pct:5.333119795003203,14.271151885830784,24.07644672218663,79.69913199270998/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -530,7 +530,7 @@ fsiwaiting lhc arrival of the &#x27;l&#x27;ripolincs from
   
 i ( To be continued.)
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1806042401:0452/pct:29.52106359122217,5.922150139017609,46.067595707192055,88.00741427247452/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1806042401:0452/pct:29.516335682254965,5.921601334445371,46.06555626734999,88.00234763537516/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -629,7 +629,7 @@ ctthefe were; only 48 and 41&#x27; blacke. &#x27;chcn had
   
 been camcd xo thc&#x27;Unitcd S
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1806042501:0456/pct:29.34150557912934,7.136176580621025,23.18088951752318,52.17919940142163/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1806042501:0456/pct:29.33689503456945,7.135509211633779,23.182484810391788,52.17743695252346/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -662,7 +662,7 @@ office of good faith; and will sccclc our account!
   
 soi one—siycar at least. - 1
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1806042501:0456/pct:52.632406097752636,3.8439955106621775,22.55225522552255,10.895997007108118/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1806042501:0456/pct:52.624135763670644,3.843636023566819,22.553949298135343,10.898095327161071/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -777,7 +777,7 @@ within a short distance from the battery hoisted the
 white flag, which was immediately answered by the  
 same from the Bashaw’s castle. In half an hour *
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806043001:1086/pct:70.7533234859675,36.58810325476992,22.501230920728705,59.82042648709315/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806043001:1086/pct:70.73590942653212,36.58223789676178,22.501845926655182,59.81484450144277/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1103,7 +1103,7 @@ of friendship and an evidence of good faith : and will
 settle our accounts for one year at least.  
 For Sclr at this Office,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806043001:1087/pct:8.578371810449575,2.2901985906470212,43.30498177399757,93.93017296604741/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806043001:1087/pct:8.576287657920311,2.2898318654923937,43.30053449951409,93.9191353082466/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1262,7 +1262,7 @@ flavery ; hut won’d at all hazards take a boat j
 p. m. Mr. N. came ofT again with  
 * Bifbaw to the preliminary arti |
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1806050601:0448/pct:1.4191106906338695,0.7591353576942872,19.394512771996215,68.4251158003088/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1806050601:0448/pct:1.4188422247446084,0.7590376945838158,19.397149703619625,68.42060122646768/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1406,7 +1406,7 @@ i cei&#x27;tfd as intended, as a proof of fricndlliip and
 j an evidence of good faith ; &amp; will fettle our ac­  
 t&#x27;»tjtt!4 for one year at lealt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1806050601:0448/pct:20.605487228003785,0.5018013381369018,18.845789971617787,75.1672671127123/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1806050601:0448/pct:20.601589103291715,0.5017367811655732,18.84853071005171,75.16188515802564/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

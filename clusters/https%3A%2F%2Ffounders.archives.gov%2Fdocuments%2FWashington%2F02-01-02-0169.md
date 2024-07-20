@@ -302,7 +302,7 @@ me, yet I escaped unhurt, although death was
 levelling my companions on every side of  
 me.&quot; Well did the eloquent pastor of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296199:1848080501:1183/pct:136.54781199351703,294.204425711275,59.886547811993516,50.69998494656029/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296199:1848080501:1183/pct:34.13695299837926,73.55110642781875,14.971636952998379,12.674996236640073/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -366,7 +366,7 @@ through mv coat and two horses shot Tinder
 me, yet escaped, unhurt, although death was levelling  
 my companions on every side of me.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn93067980:00295862270:1852112301:0201/pct:39.464944649446494,72.17693598657397,20.940959409594097,4.219611603931911/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn93067980:00295862270:1852112301:0201/pct:39.464944649446494,72.18093183089587,20.94710947109471,4.223607448253816/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -428,7 +428,7 @@ horses killed under me, yet escaped unhurt,
 although death was leveling my companions  
 . on every side of me.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82014751:00513688246:1855082201:0113/pct:44.30731792108465,86.5342729019859,14.183904050060837,3.9590006406149905/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82014751:00513688246:1855082201:0113/pct:44.318906077988295,86.53854366858852,14.178109971609016,3.954729874012385/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -487,7 +487,7 @@ probability or expectation, for I liad four
 bullets through my coat, and two horses  
 shot under me.” Twenty-five years after
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348720:1877012501:0239/pct:60.88702636633491,40.98148387932151,10.651300855596299,3.3018257153955717/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348720:1877012501:0239/pct:60.87639664804469,40.97617814603832,10.653805865921788,3.304634904194718/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -524,7 +524,7 @@ beyond all probability or expectation, for I had
 four bullets through my coat and two horses  
 shot under me and yet escaped unhurt.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_forks_ver01:data:sn83045604:0020219915A:1893032601:0396/pct:135.8863771564545,102.15581643543223,38.35514574657942,6.243329775880469/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_forks_ver01:data:sn83045604:0020219915A:1893032601:0396/pct:45.2954590521515,34.05193881181074,12.78504858219314,2.08110992529349/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -592,7 +592,7 @@ the all powerful protection of Provi­
 dence I have been protected beyond all  
 human probability or expectation, al
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_garwood_ver02:data:sn83040340:00237285293:1897040201:0318/pct:53.81799163179916,123.05610236220473,20.69386331938633,8.403051181102363/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_garwood_ver02:data:sn83040340:00237285293:1897040201:0318/pct:35.8974358974359,82.03740157480316,13.814756671899529,5.610236220472441/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -635,7 +635,7 @@ yet escaped unhurt, although death
 was leveling my companions on every  
 side of me.&quot; Yet this experience onl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_evadeestruction_ver01:data:sn84026965:00294550835:1899030101:0002/pct:43.66671342404264,15.696374769170959,13.536260345069435,3.4891631839828943/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_evadeestruction_ver01:data:sn84026965:00294550835:1899030101:0002/pct:43.66671342404264,15.70285418084038,13.545611820264646,3.4891631839828943/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

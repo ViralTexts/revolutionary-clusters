@@ -428,7 +428,7 @@ but 1 tmlK submit all my hopes and tears to an
 over-ruling Providence, in which, unfashion­  
 able as it may he, I hrinly believe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1826080301:0131/pct:22.343921139101862,10.897709489258785,36.078860898138004,85.73054488547446/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1826080301:0131/pct:22.339027595269382,10.896159317211948,36.076434515987735,85.72190611664296/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -675,7 +675,7 @@ The People will have unbounded power; and
 the People are extremely addicted to cocruption and ve­  
 nality, as well as the grest.&quot; Holy Writ says the same
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_buttery_ver01:data:sn83030213:0020653025A:1847032301:0288/pct:132.94869795727428,236.37729742226333,40.85451426789334,20.552537278927293/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_buttery_ver01:data:sn83030213:0020653025A:1847032301:0288/pct:44.31623265242476,78.79243247408778,13.618171422631114,6.85084575964243/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -737,7 +737,7 @@ and venality, as well as the great. Hut I must submit all
 my hopes and fears to an overruling Providence, in which,  
 unfashionable as the faith may be, 1 firmly believe. * ? 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854050501:0642/pct:31.01761252446184,22.341908503358255,15.720808871493803,15.587378025598783/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854050501:0642/pct:31.02848445314199,22.341908503358255,15.715372907153728,15.595826468973092/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -810,7 +810,7 @@ peace, establish commerce, and do all other
 &quot;acts and things which other States may  
 &quot;rightfully do.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_harrison_ver01:data:sn82015672:00296021908:1857070401:0531/pct:15.821058374249864,47.91541990823858,50.57283142389525,28.326351486136048/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_harrison_ver01:data:sn82015672:00296021908:1857070401:0531/pct:3.9558041194925657,11.978854977059646,12.64493247851589,7.081587871534012/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -865,7 +865,7 @@ impelled us to this mighty revolution, and the
 reasons which justify it in the eyes of God and  
 man.&quot; To meet this popular demand, and i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84020712:00295879178:1859071901:0537/pct:69.4633730834753,80.95928611266035,20.272572402044293,8.890128276631344/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84020712:00295879178:1859071901:0537/pct:52.115876171542176,60.725041829336305,15.208747514910536,6.670384829894032/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -885,7 +885,7 @@ jthis mighty revolution, and the ..reasons
 -which justify it in the eyes of God and  
 .man.&#x27; &#x27;J&#x27;o meet this popular demand, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_idacox_ver02:data:sn85026945:00202194278:1859072101:0912/pct:3.3504419731964643,84.27515633882888,13.501568291987454,3.524729960204662/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_idacox_ver02:data:sn85026945:00202194278:1859072101:0912/pct:3.359946773120426,84.27894637104416,13.492063492063492,3.5323100246352093/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -902,7 +902,7 @@ jthis mighty revolution, and the ..reasons
 ever was debated in America, and a greater, perhaps,  
 never was nor will be decided among men. * ♦ * 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026372:1860070401:0017/pct:4.635856345686078,23.99838936984095,11.045929317498928,0.8556472719951681/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026372:1860070401:0017/pct:4.640625745218677,24.00174484933897,11.045929317498928,0.8556472719951681/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -920,7 +920,7 @@ was debated in America, and a greater perhaps
 never was nor will be decided among men.&quot;  
 The preparations for the celebration of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664382:1860070601:0227/pct:3.9433637686912797,45.695754716981135,11.843324070398307,2.0440251572327046/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664382:1860070601:0227/pct:3.9477746901327686,45.702306079664574,11.856556834722774,2.0440251572327046/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1000,7 +1000,7 @@ has passed without one dissenting colony;
 to be, free and independent States. The  
 day is passed. The fourth day of July
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_grace_ver01:data:sn85033139:00271769325:1867072601:0114/pct:29.181294761971632,74.35183201199914,12.835275944389833,5.249625026783801/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_grace_ver01:data:sn85033139:00271769325:1867072601:0114/pct:29.190656742966812,74.35183201199914,12.830594953892243,5.263909720734233/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1022,7 +1022,7 @@ senting colony, &#x27;that these United Colo?
 nies are, and of right ought to bo, Freo  
 aud Independent States.&#x27; Tho secou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_alexiavalentine_ver01:data:sn84027008:00294551530:1870071501:0366/pct:19.076406381192275,24.14541508410201,15.734676742233418,5.154639175257732/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_alexiavalentine_ver01:data:sn84027008:00294551530:1870071501:0366/pct:19.076406381192275,24.154458310725268,15.745871816400784,5.150117561946102/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1043,7 +1043,7 @@ without one dissenting colony, &#x27;that these
 United Colonies are, and of right ought to be,  
 Free and Independent States.&#x27; The second da
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551268:1870072101:0339/pct:49.90406140070355,8.53819139596137,15.87783818356252,3.9288849868305533/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551268:1870072101:0339/pct:49.909391322886684,8.53819139596137,15.872508261379384,3.936201346210126/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1118,7 +1118,7 @@ t am surprised at tho suddenness as well as greatness
 of this revolution, «... It is the will of Heaven  
 that the two countries should be sundered forever.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fullerton_ver02:data:sn84031492:no_reel:1874032101:0003/pct:4.0227272727272725,50.46388939421502,12.704545454545455,2.164817173003456/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fullerton_ver02:data:sn84031492:no_reel:1874032101:0003/pct:4.028409090909091,50.47298526468983,12.721590909090908,2.1693651082408585/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1320,7 +1320,7 @@ hopes and fears to an overraling Providence in
 which, unfashionable as the faith may be, I firmly  
 believe.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:00206531265:1876070401:0028/pct:248.39664528860385,238.9378478664193,48.49531327084361,36.0621521335807/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:00206531265:1876070401:0028/pct:82.79888176286795,79.64594928880643,16.165104423614537,12.020717377860235/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1340,7 +1340,7 @@ ca, and a greater, perhaps, never was nor
 will be decided among men.” After  
 mentioning the events which had preced
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_dyerbrook_ver01:data:sn82014248:00332895928:1876070401:0965/pct:6.064492488090876,52.943692088382036,12.532063026749725,3.649322879543835/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_dyerbrook_ver01:data:sn82014248:00332895928:1876070401:0965/pct:6.063381571716431,52.93614595210946,12.53434694999084,3.652366020524515/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1375,7 +1375,7 @@ be, free and independent States.&quot;
 ay  
 od
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_lapras_ver01:data:sn84027398:00279528438:1876070601:0954/pct:109.83913790410745,101.92076830732293,36.31110416992035,72.33438830077486/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_lapras_ver01:data:sn84027398:00279528438:1876070601:0954/pct:36.61304596803582,33.97358943577431,12.10370138997345,24.11146276692495/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1393,7 +1393,7 @@ cided which ever was debated iu America,
 and a greater, perhaps, never was nor will  
 be decided among men. The Fourth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340676:1876070601:0316/pct:15.959821428571429,31.181455633100697,10.825892857142858,1.6699900299102692/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340676:1876070601:0316/pct:15.957277219831022,31.177570093457945,10.828152399171051,1.6728971962616823/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1427,7 +1427,7 @@ mit all my hopes and fears to an over­
 ruling providence, in which, unfasbion­  
 abln as tbe faith may be, I firmly believe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_ely_ver01:data:sn86076199:00415668363:1876070601:0185/pct:26.975806451612904,109.54577218728163,18.81048387096774,13.724668064290706/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_ely_ver01:data:sn86076199:00415668363:1876070601:0185/pct:20.24601734220609,82.16631726065688,14.115749142972373,10.300489168413696/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1561,7 +1561,7 @@ ever was debated hi America and a
 greaterperhapsnever was nor never  
 will be decided among men Tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_eaton_ver01:data:sn85058130:00206535908:1880070701:0023/pct:54.022627278441234,66.11801589967529,16.13764927718416,3.504646736087784/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_eaton_ver01:data:sn85058130:00206535908:1880070701:0023/pct:36.0320704291778,44.08240958459299,10.768747052350259,2.336431157391856/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1609,7 +1609,7 @@ which which will justify it in the sight
 of God and man,*&#x27;  
 On tlie 4th of July, the declaration
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_americanrobin_ver01:data:2010270509:00517013870:1886071501:0791/pct:49.43089430894309,15.031826342418801,14.587688734030197,7.0834013383385015/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_americanrobin_ver01:data:2010270509:00517013870:1886071501:0791/pct:49.41941477008825,15.029373368146214,14.590106827682304,7.086325065274152/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1632,7 +1632,7 @@ was passed without one dissenting colony
 that these United States are, and of a right  
 ought to be, free and independent states.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_fencing_ver02:data:sn83016589:00393340691:1887062401:0080/pct:58.5748987854251,12.10152772765548,14.364372469635628,4.944063514976543/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_fencing_ver02:data:sn83016589:00393340691:1887062401:0080/pct:51.25879741155354,10.592239141112904,12.564356903311133,4.326012209669497/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1665,7 +1665,7 @@ was passed without one dissenting colony
 that these United States are, and of a right  
 ought to be, free, and independent states.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_hairspray_ver01:data:sn87060189:00206533699:1887070401:0630/pct:99.08821034775234,55.43135568930926,21.0559796437659,6.49183147033534/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_hairspray_ver01:data:sn87060189:00206533699:1887070401:0630/pct:74.36876723955018,41.573516766981946,15.80734139613834,4.872456291200917/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1705,7 +1705,7 @@ was passed without one dissenting colony
 that these United States are, and of a right  
 ought to be, free and independent states.-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059533:00393349098:1887070901:0123/pct:49.44407008086253,82.69280706310049,10.61320754716981,2.9083354972734354/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059533:00393349098:1887070901:0123/pct:49.43574195721745,82.68207192003116,10.61563078996126,2.9112034272361416/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1769,7 +1769,7 @@ cided which ever was debated in Amer­
 ica, and a greater perhaps never was nor  
 will be decided among men. Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665556:1895070401:0047/pct:40.140845070422536,49.74605954465849,16.56065424806906,1.9614711033274956/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665556:1895070401:0047/pct:30.118154964780732,37.31173380035026,12.417632356282663,1.4711033274956218/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1789,7 +1789,7 @@ America, and a greater perhaps
 never was nor will be decided among  
 men.” In the other: 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00542865982:1896070201:0426/pct:19.987077320697825,3.9781936054221307,13.934955847512384,2.991012229261824/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00542865982:1896070201:0426/pct:19.982773471145563,3.9776075427224513,13.93733850129199,2.9942545668827343/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1810,7 +1810,7 @@ America, and a greater perhaps never
 nor never will be decided among  
 me
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_grace_ver02:data:sn83045604:00202199422:1897070101:0372/pct:22.457937088514996,100.06297229219143,37.542062911485004,10.652812762384551/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_grace_ver02:data:sn83045604:00202199422:1897070101:0372/pct:7.485979029504999,33.354324097397146,12.514020970495002,3.550937587461517/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1830,7 +1830,7 @@ America and a greater perhaps never
 was nor never will be decided among  
 menThe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:206534643:1897070401:0317/pct:46.786723163841806,9.766373037150517,18.802966101694917,5.208732286480275/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:206534643:1897070401:0317/pct:31.20805369127517,6.510915358100345,12.53973860826563,3.4724881909868506/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1923,7 +1923,7 @@ In another part of the same letter he be­
 comes still more enthusiastic and says:  
 &quot;But the great day is past. The 2
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_beveridge_ver01:data:sn82015679:00295871945:1899121701:0482/pct:75.63694267515923,104.57572135905754,17.333939945404914,14.060099026805531/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_beveridge_ver01:data:sn82015679:00295871945:1899121701:0482/pct:56.74630261660978,78.43605941608332,13.003412969283277,10.542940071709067/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

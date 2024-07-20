@@ -336,7 +336,7 @@ I have the honer to be, your Excellency’s
 Most obedient and most humble servant,  
 - (Addrefled) G. WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1780120401:0436/pct:66.3771988421287,64.83239394838327,28.969049209530173,27.78107386532186/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1780120401:0436/pct:66.3771988421287,64.84228221101553,28.99873821717509,27.776129734005735/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -706,7 +706,7 @@ and that, agreeably to the law and usage
 of nations, he ought to suffer death.&quot;—  
 After this report of the Court of Inquir
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021201:00517172108:1822010201:0132/pct:77.22090772209077,14.275687815833802,21.854162185416218,5.291970802919708/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021201:00517172108:1822010201:0132/pct:59.857746165814625,11.067193675889328,16.931540342298288,4.112122420857961/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -789,7 +789,7 @@ board of general officers.&quot; Among the members
 of this board, besides many distinguished Ame­  
 rican officers, were the Marquis de Lafayette
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82014594:00415661046:1851083001:0585/pct:3.6166072007784624,21.91543438077634,15.585468699318845,6.677449168207024/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82014594:00415661046:1851083001:0585/pct:3.6166072007784624,21.91543438077634,15.596280678992324,6.689001848428836/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -898,7 +898,7 @@ On the Ist of October, 1780, a vast concourse of peo-­
 ple assembled to witness the solemn and affecting  
 seene, when the exscution was postponed, in cons
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_flavory_ver01:data:sn83030213:00206530613:1859020401:0235/pct:102.90969899665552,93.76777251184834,48.46153846153846,17.21563981042654/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_flavory_ver01:data:sn83030213:00206530613:1859020401:0235/pct:34.30323299888517,31.255924170616115,16.153846153846153,5.7385466034755135/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1070,7 +1070,7 @@ enemy, and that, agreeably to the law
 and usage of nations, it is their opinion he  
 ought to suffer death.” On the followin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524676:1876042701:0287/pct:72.33796296296296,19.47239263803681,11.127645502645503,2.638036809815951/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524676:1876042701:0287/pct:72.32600429823111,19.470003680529995,11.129938832864937,2.6407802723592195/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1156,7 +1156,7 @@ prevent the decision ol the board ot gen­
 eral officers from lieing put in forces but  
 their applications were ineffectual. Maj
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_eddington_ver01:data:sn82014248:00332895989:1880102601:0400/pct:82.34738234738235,36.250358063592095,12.795312795312796,13.06215983958751/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_eddington_ver01:data:sn82014248:00332895989:1880102601:0400/pct:82.33182161753591,36.24516683373908,12.797619047619047,13.063869397107261/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1189,7 +1189,7 @@ as they wero never meant to authorize.&quot;
 Bancroft tbon narrates as follows tho  
 events immediately subsequent: &quot;A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_gaylord_ver02:data:sn85033781:00296023772:1884051501:0957/pct:79.83870967741936,48.406619385342786,20.99507927829415,15.063829787234043/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_gaylord_ver02:data:sn85033781:00296023772:1884051501:0957/pct:53.24036095159967,32.274231678487,14.000546896363138,10.042553191489361/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

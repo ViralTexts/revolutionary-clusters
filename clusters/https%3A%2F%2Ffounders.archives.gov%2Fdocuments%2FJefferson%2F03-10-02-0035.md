@@ -52,7 +52,7 @@ equal inheritance to all in equal degree
 and the better, as this enforces the law of  
 nature, while extra-taxation violates i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_india_ver02:data:sn86071158:00206536494:1892090101:0005/pct:159.44751381215468,125.02057613168725,50.05524861878453,43.95061728395062/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_india_ver02:data:sn86071158:00206536494:1892090101:0005/pct:39.872893064382424,31.255144032921812,12.517269964078475,10.987654320987655/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -93,7 +93,7 @@ heritance to all in equal degree; and
 the better, as this enforces a law of  
 nature, while extra taxation violate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_audi_ver01:data:sn86088296:00200297696:1892090801:0940/pct:7.12719298245614,42.44956772334294,19.42982456140351,18.314121037463977/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_audi_ver01:data:sn86088296:00200297696:1892090801:0940/pct:5.3532250987275125,31.844380403458214,14.589732338745064,13.73198847262248/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -114,7 +114,7 @@ trarily the firs; principles of association, the guarantes
 to avery one of a free exercise of his industry and the  
 frults acquired by i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_neruda_ver01:data:sn83030272:00175045132:1894041801:0722/pct:176.96456086286594,363.58081271005193,51.2326656394453,8.73816070882982/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_neruda_ver01:data:sn83030272:00175045132:1894041801:0722/pct:44.25818882466281,90.89520317751298,12.8131021194605,2.184540177207455/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -141,7 +141,7 @@ The people in the time of Jefferson ac­
 cepted this view of the income tax, and  
 while Jefferson was President the incom
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drew_ver02:data:sn86063034:00414182124:1894042001:0460/pct:39.901942296813125,77.44832501781896,16.217235527060154,7.811831789023521/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drew_ver02:data:sn86063034:00414182124:1894042001:0460/pct:30.93335931410756,60.022095378383355,12.568199532346064,6.05413367703922/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -199,7 +199,7 @@ late arbitrarily the first principle of association, the
 guaranty to every one of a free exercise of his indus­  
 try and the fruits acquired by it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:00175042933:1897050401:0671/pct:236.6464339908953,195.58128904464422,50.910470409711685,45.95459393570014/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:00175042933:1897050401:0671/pct:59.19529322452078,48.895322261161056,12.734864300626304,11.488648483925035/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -280,7 +280,7 @@ De guurantee to every one of a free exercise of his in
  dustry and the fruits acquired by it.&quot;  
  The influence of JerFerson has descende
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:00175042933:1897051201:0773/pct:3.2233307751343054,254.23059395412426,67.76669224865695,26.370955491417288/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:00175042933:1897051201:0773/pct:0.8059873344847438,63.557648488531065,16.94492419881021,6.592738872854322/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -315,7 +315,7 @@ tion, a guarantee to every one of a free ex-
 ercise of his industry and the fruits acquired  
 by it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn86071719:00280777729:1897051901:0587/pct:123.55588897224307,47.218934911242606,49.887471867966994,23.076923076923077/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn86071719:00280777729:1897051901:0587/pct:30.906361418652654,11.804733727810651,12.478889097391631,5.769230769230769/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -339,7 +339,7 @@ for the benefit of the many, the admission
 of the abhorrent doctrine that property is  
 the result of pillage and the provision of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042945:1897070201:0408/pct:126.42526964560862,207.3041369904531,51.15562403697997,17.88149719654493/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042945:1897070201:0408/pct:31.624590479861244,51.82603424761327,12.796299865099249,4.470374299136233/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -368,7 +368,7 @@ equal Inheritance to all In equal degree ;
 and the better , as this enforces a laxv of  
 nature , xvhilo extra taxation violates It. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_beatrice_ver01:data:sn99021999:0020653896A:1897071301:0611/pct:94.84705025491624,86.10956618464961,17.061179898033505,8.42602892102336/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_beatrice_ver01:data:sn99021999:0020653896A:1897071301:0611/pct:71.16575591985428,64.58565072302558,12.805100182149362,6.326473859844271/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -58,7 +58,7 @@ and acknowledged the above Letter of Attorney to be
 Act and Deed. In te&amp;imony whereof I have hereunto set my  
 Hand an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790100201:0003/pct:63.71282667467708,26.75808031341822,26.374286572544307,11.400587659157688/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790100201:0003/pct:63.72033643736858,26.767874632713028,26.396815860618805,11.410381978452497/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -138,7 +138,7 @@ Sealed and Delivered
 in prfence of,  
 BE IT Kl\VW2*,that on the day of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796072601:0001/pct:67.07616707616708,34.49575871819039,20.294840294840295,6.534715677034244/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796072601:0001/pct:67.0945945945946,34.507540056550425,20.282555282555283,6.534715677034244/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -165,7 +165,7 @@ bis qfl cad deed. h
 In teflimony whereof I have hereunto set my Hand and affix -  
 ed Seal the day and year last aforefaid, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796080301:0004/pct:13.987217305801376,32.73203823620105,20.52605703048181,7.369719395621338/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796080301:0004/pct:13.993362831858407,32.739747147702744,20.532202556538838,7.377428307123035/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -196,7 +196,7 @@ bit aft-and deed. T Kirge,
 In tefimony whereof 1 have hereunto set my Hand and affix- none  
 ed, Seal tbt day an iyear las afotvfaid. door
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796080401:0004/pct:6.887486855941114,31.92090395480226,23.922187171398527,9.587902957793286/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796080401:0004/pct:6.8940588853838065,31.93336656696577,23.941903259726605,9.575440345629778/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -227,7 +227,7 @@ kil aft and ditd.
 ■In tejlintony whereof I have hereunto set my Hand and affix­  
 ed Seal the day ■ and year last afbrefaid.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796081001:0004/pct:10.366465863453815,31.0619055044441,20.95883534136546,9.106502416965538/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796081001:0004/pct:10.379016064257028,31.06970216747232,20.95883534136546,9.098705753937315/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -253,7 +253,7 @@ bis att and deed.
 In tejlimony tvheretf I have hereunto set my Hand *nd affix­  
 ed Seal fbe day and year left afortfaiJ
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796082701:0004/pct:6.459083890890375,33.13034891375905,20.483787956767884,7.290980908492429/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796082701:0004/pct:6.471950591868245,33.14269256089533,20.49022130725682,7.290980908492429/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -281,7 +281,7 @@ within named and acknowledged the above letter cf attorney to be j
 In teflimany whereof I have hereunto set my Hand and affix*   
 ed • Seal the day andyear la(I a for (said
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796091401:0004/pct:10.235235235235235,32.03776553894571,22.2972972972973,8.151062155782848/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796091401:0004/pct:10.254004004004004,32.041699449252555,22.284784784784783,8.158929976396537/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -308,7 +308,7 @@ bis. a6l and deed.
 In teflimony whereof I have hereunto set my Hand and affix­  
 ed Seal the day and year la (I aforefaid
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796091701:0004/pct:9.171443460135487,36.21837549933422,20.531526836894216,7.9560585885486015/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796091701:0004/pct:9.171443460135487,36.23085885486019,20.557582073996873,7.960219707057257/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -335,7 +335,7 @@ O bis aft and deed.
 6 In tefli mony whereof 1 have hereunto set my Hand and affix*  
 3 | ed Seal the day and year lafi aforefaid
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796092001:0003/pct:70.35214914552046,30.2210491586935,21.905748316934233,7.934675024744309/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796092001:0003/pct:70.37156913516313,30.2210491586935,21.89927498705334,7.947047179148796/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -361,7 +361,7 @@ his and died.
 lc t&#x27;fiwny irfjcreof 1 bare hereunto set my Hand and affix­  
 - ScnJ the day and year lafi rforefaid
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796092401:0004/pct:27.690700104493207,84.67593367945068,22.570532915360502,7.452687991961145/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796092401:0004/pct:27.710292580982237,84.68012058281695,22.577063740856843,7.456874895327416/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -388,7 +388,7 @@ bis a£i and dt/ed.
 In tejiimony whereof I have hereunto set my Hand and affix- j  
 td Seal the day and year last afor said. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796093001:0004/pct:30.825549103761677,86.37355260949823,20.929058318606412,8.004698774962241/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796093001:0004/pct:30.83186064125221,86.37774794428596,20.935369856096944,8.008894109749958/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -415,7 +415,7 @@ tnd -within named and acknowledged ihe above letter of attorney to be
 aid In teflitnony whereof I have hereunto set my Hind - -id ajfix­  
 on N ed Seal the day and year lafi afi eft *1
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796101001:0004/pct:33.065497930362795,82.21387192735243,20.745069393718044,6.951620479098168/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796101001:0004/pct:33.071585098612125,82.21778612807265,20.763330898466034,6.951620479098168/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -443,7 +443,7 @@ emy, or bit aSi and deed.
 be paid In teflimony whereof I have hereunto set my Han i and affix­  
 yed, on ed Seal the day and year lajt afor^aid
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796101201:0004/pct:32.080078125,80.921875,23.0712890625,7.921875/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796101201:0004/pct:32.09228515625,80.92578125,23.0712890625,7.91796875/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -474,7 +474,7 @@ or his aSt and deed.
 lid In tefimony whereof I have hereunto set my Hani and affix­  
 on *d Seal the day and year lap of errcjaid
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796101501:0004/pct:33.50083752093802,79.08035153797866,21.08159846853314,9.212178279974891/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796101501:0004/pct:33.51878439818138,79.09212178279975,21.087580760947596,9.212178279974891/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -495,7 +495,7 @@ or bis nSI and deed.
 id In teJHmony whereof I have hereunto set my Han i and ajfix­  
 3rt od Seal the day and year lap afortjaid
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796101701:0004/pct:32.77511961722488,84.8314606741573,20.311004784688997,3.682896379525593/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796101701:0004/pct:32.77511961722488,84.8392634207241,20.34688995215311,3.6906991260923845/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -522,7 +522,7 @@ riy, or his a£i and deed. I
 - paid In teflimony whereof I have hereunto set my Han i and affix- j  
 d, on ed Seal the day andysafila// afor.Jeeid
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796101901:0004/pct:30.35363457760314,81.98874296435272,22.888015717092337,7.020012507817386/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796101901:0004/pct:30.36591355599214,81.98874296435272,22.888015717092337,7.0356472795497185/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -575,7 +575,7 @@ dn teflimony wheresf I &#x27;bave bereunto
 Jet miy band and affived Seal  
 - -the day and year las
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796102201:0172/pct:59.253523308037785,61.710552365868146,16.261421712869755,25.93545832508414/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796102201:0172/pct:59.26384802023644,61.71715171913152,16.266584068969077,25.94205767834752/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -610,7 +610,7 @@ bis a&amp; and dyed.
 In tefimhny whereof I have btrtuntofet my Hani ,nd cjjix-  
 Seal the day and year Up. afory&#x27;aid
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796110501:0003/pct:69.12948061448427,78.91059234556138,20.11704462326262,11.799269493409561/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796110501:0003/pct:69.14776883686906,78.91059234556138,20.104852475006098,11.799269493409561/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -641,7 +641,7 @@ his a£l and died. ga
 In tejlimony ¾of I have hereunto fei my Han i *nd ajfix­  
 ed Seal the day and year lap iiffre/aid
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796111001:0004/pct:8.759311584895967,30.323846908734055,21.808374004623683,9.519136408243376/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796111001:0004/pct:8.765733367582841,30.327935884854433,21.81479578731056,9.527314360484135/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -664,7 +664,7 @@ his afi and deed. N
 Jn Ujlimony whereof 1 have hereunto set my Han i *md&gt;qffuc- £  
 id Seal the day and year lap ufortjuid. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796112301:0004/pct:9.139375476009139,72.9034359224882,21.756791063721757,4.982901807523205/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796112301:0004/pct:9.145722264534145,72.91157791890572,21.76948464077177,4.982901807523205/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -691,7 +691,7 @@ bis aH and deed.
 Jli tefiimony whereof 1 have hereunto set my Han i end affix- &lt;  
 gj Seal the day andycar la/i aforyaid. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796120901:0004/pct:14.971617786187323,81.0488302716282,19.5600756859035,7.53650494583137/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796120901:0004/pct:14.971617786187323,81.05668079761344,19.5837275307474,7.52865441984613/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -717,7 +717,7 @@ within named and acknowledged the above letter of attorney to be
 Jn tejlimeny wherlof I have hereunto set my Han imnd affix­  
 ed Seal the day and year lap iifotcjaid
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796121401:0004/pct:13.618290258449305,81.33825417201541,19.309145129224653,6.9801026957638/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796121401:0004/pct:13.618290258449305,81.34226572528883,19.315357852882705,6.976091142490373/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -740,7 +740,7 @@ iu aSI and d.ed.
 In teflimony voberaf J have hereunto set my Han i end affix­  
 ed Seal the day andyear lap afonjaid
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796121501:0004/pct:13.844893500819225,84.19078242229368,19.497542326597486,4.912468738835298/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796121501:0004/pct:13.865374112506826,84.20418006430869,19.48388858547242,4.916934619506967/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -771,7 +771,7 @@ his a(7 and deed.
 In teflmony whereof I have hereunto set my Han f tnd affix­  
 ed Seal the day and year Lip afcrtjaid
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796121601:0004/pct:11.8732782369146,78.62331373227256,19.77961432506887,9.045313040470425/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796121601:0004/pct:11.8732782369146,78.62331373227256,19.786501377410467,9.049636803874092/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -797,7 +797,7 @@ kis ail and d*£d.
 In tefiimony whereof I have hereunto set my Han i nnd affix­  
 ed Seal the day and year last afortjaid
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796122101:0004/pct:12.934701025769327,81.48919135308246,19.5896922692019,6.917534027221778/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796122101:0004/pct:12.94095571678759,81.49319455564452,19.595946960220164,6.925540432345877/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -828,7 +828,7 @@ his aft and deed.
 In tejlimeny whereof J have hereunto set my Han i ind affix­  
 ed Seal the day and year lajr afortjuid
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796122201:0004/pct:12.434717731907485,79.33843897669871,19.44789853270331,9.304220303079681/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796122201:0004/pct:12.453369808505347,79.35065993156265,19.44789853270331,9.296072999837055/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -855,7 +855,7 @@ tit aCi and deed.
 In tejiimony -whereof I have hereunto set my Han Itnd affix­  
 ed Seal the day and year tap afcrtjaid
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796123101:0004/pct:12.945871788475928,32.857372051981386,21.15240708406086,7.588641103802343/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796123101:0004/pct:12.964579695684709,32.857372051981386,21.15240708406086,7.596662923150971/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -910,7 +910,7 @@ l have hereunto set mv hand and cause to
 lie affixed the seal of, See. the day and year  
 last aforesaid
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804042501:0108/pct:76.80480030001875,38.82012114827496,21.28258016126008,29.431129839346852/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804042501:0108/pct:76.79040119985002,38.815009874917706,21.284839395075615,29.431643625192013/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1158,7 +1158,7 @@ and affixed my Seal Notarial, at Marion C. H-,
 in the State aforesaid, the day and year last  
 mentioned. Morris Clarkk
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_frankenbatch_ver01:data:sn92073231:00295879695:1886050601:0083/pct:102.22953216374269,102.94409058740268,18.019005847953217,7.218683651804671/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_frankenbatch_ver01:data:sn92073231:00295879695:1886050601:0083/pct:76.69530250411259,77.21160651096957,13.507585450557485,5.421089879688606/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -235,7 +235,7 @@ parchment, and has been transcribed in the en­
 graved copies, since made, of this document.  
 It has been recently slated that the final vot
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826072801:0613/pct:79.83193277310924,44.57991576147196,17.54621848739496,8.37951673686544/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826072801:0613/pct:79.8185178961519,44.574975063726036,17.54887133815045,8.382282315563929/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -283,7 +283,7 @@ for your honored uncle, Casar Rodney Esq., the
 remaining member for Delaware, whom I met at  
 the State House door, in his boots and spurs, as th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn85054702:00280776002:1842052101:0376/pct:144.1947565543071,76.69066779613158,58.57677902621723,28.518989128900184/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn85054702:00280776002:1842052101:0376/pct:36.06895259509088,19.172666949032894,14.652426456810943,7.129747282225046/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -385,7 +385,7 @@ Humphries weru utfulnst It.” As the vote was
 taken by (States, the Congressional Journal was  
 mode up to this effect, although, according t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1876070401:0002/pct:71.90860215053763,71.47123233127613,13.279569892473118,2.9265379255425046/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1876070401:0002/pct:71.91532258064517,71.48118654190722,13.306451612903226,2.94146924148915/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -419,7 +419,7 @@ thus sought posthumous fume were not up*
 pointed to Congress till tbo lAJtb of July, and  
 Air. Thornton took his scat for the tint tune o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1876070401:0002/pct:71.90860215053763,77.20485765478797,13.36021505376344,8.182361138761696/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1876070401:0002/pct:71.91532258064517,77.21978897073463,13.366935483870968,8.182361138761696/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -445,7 +445,7 @@ lion did not approve of the policy of carrying
 their political opposition to the point of rebel­  
 lion and separation. He accepts the belief o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:00175042933:1897050901:0737/pct:66.76899462778204,80.52503052503053,51.18956254796623,23.38217338217338/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:00175042933:1897050901:0737/pct:16.69224865694551,20.131257631257633,12.797390636991558,5.845543345543345/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

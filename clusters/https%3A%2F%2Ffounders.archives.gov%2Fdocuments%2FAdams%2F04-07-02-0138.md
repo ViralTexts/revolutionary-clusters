@@ -152,7 +152,7 @@ WY VirTUE OF An ORDer OF
 WD Sale issued out of the office of the  
 Clerk of the Court of Common Pleas o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn82014296:00296022123:1867103001:0054/pct:200.0,94.80369515011547,56.03759942154736,24.653579676674365/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn82014296:00296022123:1867103001:0054/pct:50.009039956608206,23.70092378752887,14.011932742722834,6.163394919168591/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -188,7 +188,7 @@ I rom the fair forchead of an innocent love,
 And set a blister there; make marriage vows  
 As false as dicer&#x27;s oaths
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_montpelier_ver01:data:sn84023253:0020029628A:1874073101:0121/pct:103.13829787234043,227.1368715083799,31.54255319148936,6.829608938547486/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_montpelier_ver01:data:sn84023253:0020029628A:1874073101:0121/pct:34.3977292886287,75.7122905027933,10.519780024835905,2.276536312849162/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

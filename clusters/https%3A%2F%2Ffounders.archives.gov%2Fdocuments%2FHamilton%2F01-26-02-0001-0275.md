@@ -75,7 +75,7 @@ conduct us the parties, in thisintervicw,
 sssiW_&#x27;-\s pcxf.-ctl_v proper as suited the occa  
 ss mon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:0041421602A:1804072501:0317/pct:1.4392715523571744,19.275479859421466,22.33808195035982,30.692980084707578/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:0041421602A:1804072501:0317/pct:1.4390602055800295,19.273743016759777,22.33969652471855,30.69321799723674/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -132,7 +132,7 @@ tarned 1o the city, We conceive it proper to
 add that the condoét of the parties in this inter­  
 view was perfeéiiy proper as fuited the cccafion
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1804072601:0529/pct:34.22894985808893,8.473428861559292,41.0406811731315,84.64402572492384/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1804072601:0529/pct:34.23525701671397,8.47718981533717,41.03437401450646,84.64402572492384/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -189,7 +189,7 @@ ceive it proper to add that the conduct of the
 parties in this interview was perfectly proper as  
 fuited the occafioi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804072801:0102/pct:58.069164265129686,29.07439661607365,17.759365994236312,24.13535705399353/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804072801:0102/pct:58.0587070052224,29.070779947754694,17.762170598475297,24.13650122320355/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -253,7 +253,7 @@ it proper to add that the conduct of the
 parlies in this inlet view was perfectly pYo*  
 pei a; suited the occasion
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804072801:0226/pct:23.315363881401616,3.4796156842378605,37.10050057758953,92.52142300701117/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804072801:0226/pct:23.31087584215592,3.479163962092691,37.099775425088225,92.51373923579558/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -396,7 +396,7 @@ to add that the condu&amp; of the parties in thid
 interview was perfe&amp;ly proper as {uited the  
 occasion, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804073101:0535/pct:76.17642491070042,39.4105222734255,16.322410312160272,26.04646697388633/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804073101:0535/pct:76.18677848527204,39.416922683051716,16.31205673758865,26.049667178699437/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -593,7 +593,7 @@ took place between the principals and !
 the barge that carried Cob Burr irntne­  
 ha‘eiy returned to the city.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215610:1837120101:0232/pct:22.261564820102798,47.22393109812366,15.68246716162193,25.599815441402644/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215610:1837120101:0232/pct:22.259022384650525,47.220299884659745,15.684483021166438,25.600410098679994/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -734,7 +734,7 @@ fion t &gt;&#x27; k place bet ween the prim ipals
 and the I . v that carried ( o|. Bun  
 irnmedi it&lt; I . returned to the city
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187122:1837122301:0104/pct:15.921540908287684,61.46857498444306,15.197031277610884,30.86496577473553/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187122:1837122301:0104/pct:15.918727915194346,61.460925833748135,15.200235571260306,30.86527293844367/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -765,7 +765,7 @@ the affirmative, he shall say—present! After
 this the parties shall present and fire when  
 they please. If one fires before the other,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn82015686:00415668818:1838021001:0281/pct:33.11407304829496,54.20007887472065,14.090358317465812,9.241488103062968/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn82015686:00415668818:1838021001:0281/pct:33.119843055795975,54.20884273257088,14.096128324966822,9.245870031988082/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -799,7 +799,7 @@ turned about and withdrew, being urged from could enable thern to form an opinio
 the field by his friend, as had been subsequent- event. One of the gentlemen then accompa­  
 ly stated, with a view to prevent his being rc- i nied mc to the bedside. The result was aeon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn82015686:00415668818:1838021001:0281/pct:33.14869309330102,64.65097936111476,28.578847152501297,7.571973182594978/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn82015686:00415668818:1838021001:0281/pct:33.16023310830304,64.65097936111476,28.578847152501297,7.576355111520091/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1140,7 +1140,7 @@ one fires before the other, the opposite sec- 811
 tion shall siy one, titx&gt;, lAree, fire, and he shall *  
 then fire, or lose his fire.&quot; Such were the sh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_irmookrastrut_ver01:data:sn84026900:00295862634:1853042701:0259/pct:2.2433002107798856,60.18414551987424,14.950316169828366,6.714574444194925/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_irmookrastrut_ver01:data:sn84026900:00295862634:1853042701:0259/pct:2.2433002107798856,60.19163111011303,14.965371875940981,6.714574444194925/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1174,7 +1174,7 @@ order, the parties shall present and fire
 when they please. If one fires before the  
 other,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn96027384:00393349451:1859030501:0244/pct:30.8334473792254,71.64331731260864,12.604351991241275,10.502096328867982/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn96027384:00393349451:1859030501:0244/pct:30.829228243021348,71.6359918200409,12.607188469257435,10.504430811179278/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1198,7 +1198,7 @@ wecthcr they are ready, being answered in the
 parties shall present and fire when they  
 please. If one fires before the other,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290070:1859090401:0226/pct:23.88228636106395,26.208908336138226,68.02490096208263,358.8466285201391/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290070:1859090401:0226/pct:5.970571590265988,6.5522270840345564,17.006225240520656,89.71165713003478/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1237,7 +1237,7 @@ then tire or lose his fire.”
 1 Vndletou.  
 Both how&quot;d in the affirmative.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn82014282:00414212438:1859091401:0588/pct:72.07969041135158,26.445161962295593,11.437580622043859,11.311321737319028/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn82014282:00414212438:1859091401:0588/pct:72.06936084838063,26.44240783170173,11.439524218973919,11.31274734430327/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1359,7 +1359,7 @@ was involuntary. Colonel Burr&#x27;s shot
 took effect, and Hamilton fell almost in­  
 stantly against tho bowlder, his pisto
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_animals_ver01:data:sn84027718:00271763815:1875111901:0419/pct:95.5950991831972,43.973788907091034,14.55659276546091,17.4584600982916/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_animals_ver01:data:sn84027718:00271763815:1875111901:0419/pct:71.71407731582786,32.98619237069974,10.911743253099926,13.093845073718699/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1452,7 +1452,7 @@ Burr then advanced toward Ham.­
 ilton with with an air and gesture  
 expressive of regret. But bein
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_drinksmall_ver01:data:sn84026923:0023728835A:1875122201:0883/pct:8.910610568069131,173.75415282392026,40.18982858761864,61.097417211445716/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_drinksmall_ver01:data:sn84026923:0023728835A:1875122201:0883/pct:2.9702035226897103,57.91805094130675,13.396609529206215,20.365805737148573/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1480,7 +1480,7 @@ Upon being answered, be gave the word:
 &quot;Present 1&quot; Both parties presented, and  
 i fired in succession. The seconds did no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551293:1875122301:0034/pct:2.186588921282799,24.510108864696733,12.682215743440233,6.770347330222913/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551293:1875122301:0034/pct:2.186588921282799,24.510108864696733,12.687074829931973,6.773803352341455/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1576,7 +1576,7 @@ sent!&quot; After this the parties shaall present and
 fire when they please. If one fires before the  
 other,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:00206533481:1876081701:0506/pct:288.0664652567976,141.57236450268016,50.37764350453172,33.948779035139964/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:00206533481:1876081701:0506/pct:72.0166163141994,35.39309112567004,12.59441087613293,8.487194758784991/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1602,7 +1602,7 @@ with a view to prevent his being recognized by
 the surgeon and bargemen who were then ap­  
 proaching. This is given on the authority o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_milosz_ver01:data:sn83030272:00175045016:1892050201:0606/pct:114.9618320610687,362.68542590610184,50.458015267175576,17.984401284600093/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_milosz_ver01:data:sn83030272:00175045016:1892050201:0606/pct:28.74594388242031,90.67135647652546,12.616911624355794,4.496100321150023/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1690,7 +1690,7 @@ principals, and the barge that carried
 Colonel Burr immediately returned to  
 the city.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_betelgeuse_ver01:data:sn90059959:00271742848:1895062201:0465/pct:30.838103625421986,71.07384012197778,12.755027153970351,11.359181006316707/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_betelgeuse_ver01:data:sn90059959:00271742848:1895062201:0465/pct:30.838103625421986,71.07747041312713,12.769704975781593,11.362811297466056/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

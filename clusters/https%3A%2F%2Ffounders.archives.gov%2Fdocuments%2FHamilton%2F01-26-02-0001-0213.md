@@ -90,7 +90,7 @@ withO &quot;r. Zur&#x27;r s !(leaso! wroprictȝ&#x27;, can he
 done m no nay but thrt which he has :siz­  
 dopted. !!e !5 inmnzhhsi- ()! revenge,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:0041421602A:1804072501:0316/pct:50.06739553691778,45.483957940145594,24.636812939943088,50.98409274737126/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:0041421602A:1804072501:0316/pct:50.05989817310572,45.479870596693026,24.63811520415294,50.982506589983224/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -139,7 +139,7 @@ milton, by committing fecret depredations on
 his fame and character ; but thefe things muft  
 have an end
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804072801:0102/pct:40.345821325648416,32.433441154516046,17.52521613832853,19.594426474247324/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804072801:0102/pct:40.338555735638394,32.42940664261724,17.52806290893811,19.596135506074553/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -196,7 +196,7 @@ ting secret depredations on his fame and
 character ; but these things must have an  
 end
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804072801:0226/pct:4.0623796688486715,46.06595689431317,18.867924528301888,26.811217865489482/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804072801:0226/pct:4.0615976900866215,46.059976632480854,18.870709015078603,26.812064563589942/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

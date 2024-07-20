@@ -323,7 +323,7 @@ be contiguous to your own settlement
 as such a body of good land can be  
 found.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_corsair_ver06:data:sn96090259:0041562315A:1894022301:0281/pct:22.15120123429579,20.9243829586543,14.040114613180515,5.046376355918881/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_corsair_ver06:data:sn96090259:0041562315A:1894022301:0281/pct:22.162221732422307,20.936173557616726,14.051135111307032,5.0385159566105955/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -346,7 +346,7 @@ ing several entries to the same amount
 if the expenses of doing Ht are not too  
 heavy.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_corsair_ver06:data:sn96090259:0041562315A:1894022301:0281/pct:22.239365219307913,43.074988209401035,13.885827639409301,4.51186920295551/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_corsair_ver06:data:sn96090259:0041562315A:1894022301:0281/pct:22.24487546837117,43.07891840905518,13.89133788847256,4.51186920295551/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -370,7 +370,7 @@ be contiguous to your own settlement
 as such a body of good land can be  
 found.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_earhart_ver01:data:sn82015485:00237283326:1894022401:0479/pct:96.64399763453578,29.89680291380008,21.289178001182734,7.345204370700121/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_earhart_ver01:data:sn82015485:00237283326:1894022401:0479/pct:64.44838805087252,19.931201942533388,14.19698314108252,4.896802913800081/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -393,7 +393,7 @@ ing several entries to the same amount
 if the expenses of doing it are not too  
 heavy.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_earhart_ver01:data:sn82015485:00237283326:1894022401:0479/pct:96.59964518036665,63.830433023067584,21.200473092844472,6.808984216916229/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_earhart_ver01:data:sn82015485:00237283326:1894022401:0479/pct:64.41881100266194,42.55362201537839,14.137829044661343,4.542695265074869/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -422,7 +422,7 @@ contiguous, to your own settlement aa
 such a body of good land .can be  
 found.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_almont_ver01:data:sn88076741:00295863572:1894030201:0047/pct:55.21108179419525,3.4939759036144578,19.40963060686016,92.23560910307899/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_almont_ver01:data:sn88076741:00295863572:1894030201:0047/pct:55.21520448548813,3.504016064257028,19.41787598944591,92.24564926372155/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -446,7 +446,7 @@ ranged by making several entries to
 Hie same amount If tho expenses of  
 doing it are not too heavy.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_almont_ver01:data:sn88076741:00295863572:1894030201:0047/pct:65.13852242744063,11.579651941097724,9.515171503957784,3.6144578313253013/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_almont_ver01:data:sn88076741:00295863572:1894030201:0047/pct:65.13852242744063,11.589692101740294,9.535784960422163,3.6144578313253013/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

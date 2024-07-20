@@ -167,7 +167,7 @@ its intention is to observe a conduct conform­
 able with it, and to perform towards each the  
 duties of neutrality ; and. as a consequence
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793062901:0002/pct:75.08438171218165,45.26780572086773,20.497084995397362,48.70416586676905/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793062901:0002/pct:75.09205277692544,45.282203877903626,20.512427124884933,48.70416586676905/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -599,7 +599,7 @@ the citizens of wh««t the laws previously ellab­
 thein that thefc laws will be put in executiou  
 against the infra&amp;ors of them.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793062901:0003/pct:4.3478260869565215,1.3353977162763693,63.860622880049334,92.37468550416102/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793062901:0003/pct:4.37095282146161,1.3499129088445907,63.87604070305273,92.36984710663828/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -641,7 +641,7 @@ hind, it is, on the ot/ier, the d&quot;ty of the
 Executive to preserve peace till w*r is  
 declared.&quot; Again, m the fame de
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804111201:0001/pct:1.5296803652968036,81.87633262260128,18.515981735159816,4.406538734896944/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804111201:0001/pct:1.5449010654490107,81.88580904998815,18.515981735159816,4.411276948590381/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -671,7 +671,7 @@ en interrupt thofe bleffings, by placing
 the nation in a ftate of war.&quot;  
 Peace is andalway. has bcea the pre.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804111201:0001/pct:1.3242009132420092,87.03624733475479,18.926940639269407,11.74129353233831/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804111201:0001/pct:1.3318112633181127,87.03624733475479,18.949771689497716,11.750769959725183/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -699,7 +699,7 @@ ion the blessings of peace. The legisla­
 I lure alone,Jean interrupt those blessings,by  
 placing the natio i in a slate of war.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804112401:0361/pct:40.35421824414397,79.21635434412266,17.86326414016378,9.330362993054646/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804112401:0361/pct:40.34653465346535,79.20597484276729,17.866209697892867,9.333508036338225/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -730,7 +730,7 @@ of the U. States.” Andin time of peace, we should
 prepare the means necessary for defence in future  
 wars. Ifignorance of the military duties in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1828062401:0520/pct:39.9442206383638,78.7649080250657,16.39293461419275,3.5779260157671318/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1828062401:0520/pct:39.9442206383638,78.77164611549087,16.398099369899803,3.5812950609797185/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -766,7 +766,7 @@ tion and debate; ok which the power ok
 REMOVAL FROM OFFICE IS AIV IMPORTANT  
 iirsTAjvcE.” H**re he not only disrloses hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1829062301:0057/pct:3.268783888458559,71.67568839726995,15.259488768396592,10.473052482937161/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1829062301:0057/pct:3.268277571251549,71.66725497117308,15.262288310615448,10.475742244185591/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -811,7 +811,7 @@ by Congress, in formal acts upon full considera­
 tion and debate ;or WHICH TUE POWER OF RE­  
 MOVAL FROM OFFICE IS AN j.&#x27;\l PORTANT INSTANCE.&quot;”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1829072801:0118/pct:61.26843657817109,69.02823836800322,15.79646017699115,10.14973369510602/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1829072801:0118/pct:61.273352999016716,69.0315881150973,15.791543756145526,10.159782936388302/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -858,7 +858,7 @@ with Gen. Hamilton, that &quot;he who is to execute
 the laws must first judge for himself of their  
 meaning.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82014039:00415660972:1841082101:0108/pct:65.73629888065126,22.27908919991644,16.761157144933858,4.459995822017965/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82014039:00415660972:1841082101:0108/pct:65.73629888065126,22.28605250330757,16.775694141590346,4.459995822017965/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -900,7 +900,7 @@ same conclusion is reached, that the Pres­
 ident assumed a prerogative not guaran­  
 teed by the Constitution, and whic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:0041562444A:1848072901:0217/pct:65.20782933802508,10.445178543338052,18.7156366835276,17.052068585810918/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:0041562444A:1848072901:0217/pct:50.542582807795014,8.103055916775032,14.521902164649736,13.22334200260078/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -995,7 +995,7 @@ may establish an antecedent state of things,
 which ought to weigh in the legislative de­  
 cision.&quot; Jefferson thought these doctrine
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_goethe_ver01:data:sn83030272:00175042878:1896070901:0505/pct:171.72256097560975,175.13283740701382,50.30487804878049,31.638074996204647/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_goethe_ver01:data:sn83030272:00175042878:1896070901:0505/pct:42.94700724361418,43.783209351753456,12.581014105985513,7.909518749051162/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1028,7 +1028,7 @@ the exercise of its constitutional powers, may
 establish an antecedent state of things which  
 ought to weigh in the legislative decisions.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:00175042908:1896122301:0727/pct:284.63219227967954,145.34480156933756,48.36125273124545,36.155122981741364/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:00175042908:1896122301:0727/pct:71.17100710253142,36.33620039233439,12.092515024585685,9.038780745435341/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1061,7 +1061,7 @@ tiotis which the treaties of the coun?
 try impose on the government.&quot; He  
 admitted also that the exercise of the 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_danastjames_ver01:data:sn93067846:00294551414:1896123001:0488/pct:33.98000298462916,59.33994016454749,16.146843754663482,12.350411368735976/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_danastjames_ver01:data:sn93067846:00294551414:1896123001:0488/pct:33.984977366562205,59.34305659436549,16.146843754663482,12.356644228371977/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1087,7 +1087,7 @@ things which ought to weigh in the
 legislative decisions *&#x27;  
 Thomas Jefferson, who, as secre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_danastjames_ver01:data:sn93067846:00294551414:1896123001:0488/pct:33.93523354723175,71.96148092744951,16.042381734069544,7.731862378459237/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_danastjames_ver01:data:sn93067846:00294551414:1896123001:0488/pct:33.93523354723175,71.96771378708551,16.057304879868678,7.731862378459237/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1104,7 +1104,7 @@ ries with it among other things the right of judging
 in the case of a revolution in a foreign country,  
 whether the newrruier ought to be recognized. Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:0017504291A:1897010401:0060/pct:287.9179331306991,162.69076900281524,50.53191489361702,4.7414431767669285/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:0017504291A:1897010401:0060/pct:71.99315979479384,40.67269225070381,12.635379061371841,1.1853607941917321/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

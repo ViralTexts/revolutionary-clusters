@@ -388,7 +388,7 @@ garni we know not enough of die perti­
 colaro to pronounce upon U. It ie under­  
 wood generally, that we are t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1803072201:0112/pct:33.461644212262854,4.835049746901728,60.571899917514436,90.9757374759993/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1803072201:0112/pct:33.4524463991204,4.834205933682373,60.56212204507971,90.96422338568935/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -493,7 +493,7 @@ culation to the American statesmen.
   
 By the PRESIDENT of the UNITED
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1803072201:0113/pct:3.202650469353948,4.830241512075604,22.363335173937053,58.540427021351064/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1803072201:0113/pct:3.2017664918575766,4.829396325459317,22.364062931272425,58.53455818022747/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -699,7 +699,7 @@ quiyocal, that thes e tieaties are: Ist. That every treaty of
 which cedes to Great Britain all the country east and  
 south east of the Mi elsrippl. 2d. The treaty of 1784
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743014:1850022401:0255/pct:109.87229862475442,50.998307952622675,45.79240340537001,5.26790750141004/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743014:1850022401:0255/pct:36.624099541584805,16.999435984207558,15.26413446845667,1.7559691671366797/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -780,7 +780,7 @@ cede, and did retrocede, to the French republic the province
 of Louisiana to the extent of the Spanish interest  
 and ownership at the time? that is, all of the Louisian
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82006534:00415661101:1859022701:0206/pct:4.269186899136386,50.354609929078016,16.897506925207757,6.876899696048632/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82006534:00415661101:1859022701:0206/pct:4.280049970126555,50.36305302262749,16.902938460702842,6.881121242823371/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

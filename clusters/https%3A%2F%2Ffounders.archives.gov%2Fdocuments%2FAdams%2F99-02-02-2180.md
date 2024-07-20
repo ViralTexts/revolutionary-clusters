@@ -316,7 +316,7 @@ of the speech that had given the offence,
   
 ed that the deuceur for thé pocket wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798041901:0483/pct:23.42998914560397,15.680298859614629,34.16033493564894,77.83130161226897/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798041901:0483/pct:23.440326665632913,15.683575829073273,34.16550369566341,77.8411325206449/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

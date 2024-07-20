@@ -326,7 +326,7 @@ gives unbounded scope to arbitrary will. It
 is an emphatical phrase in fashion among  
 the patriots that terror is the order of the day.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042957:1897101701:0789/pct:332.52647503782146,204.1249620867455,67.0196671709531,38.33788292387018/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042957:1897101701:0789/pct:83.17880794701986,51.03124052168638,16.764427625354777,9.584470730967546/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

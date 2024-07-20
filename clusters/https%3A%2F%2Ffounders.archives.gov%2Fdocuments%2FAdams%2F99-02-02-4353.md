@@ -199,7 +199,7 @@ can only perceive fcdit.ou, iiot, and
 re leu c.  
 XVol.b.s. 109. 8. Such, UVrVus-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804030901:0002/pct:59.56145899219903,2.5083836351441984,18.954248366013072,92.09926224010731/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804030901:0002/pct:59.56848689296507,2.5128549072211044,18.954248366013072,92.09926224010731/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -252,7 +252,7 @@ riling had been to fupprefs all be
 in the principle, as the riiin;-; to  
 4. 81. Com. fli. prefs all nve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804030901:0002/pct:78.05186590765338,8.799463447350771,18.36390470166561,27.458081824279006/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804030901:0002/pct:78.05889380841943,8.808405991504584,18.35687680089957,27.462553096355915/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -301,7 +301,7 @@ been a caoital one,
 2 Hale, 2?5. it wa3 a ca.  
 pital one, the jury were difrharged, i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804031201:0001/pct:5.994872806152633,18.79212369499141,17.018339577992506,25.545130170477073/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804031201:0001/pct:5.994872806152633,18.79212369499141,17.018339577992506,25.55834544733712/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -349,7 +349,7 @@ not exr;&#x27;uded t* a feparation of the ju&lt;y.
 Accoidingly in nnic of the initances did  
 the jury feparate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804031201:0001/pct:6.113192664168803,45.526628782873004,16.545060145927824,23.496762257169287/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804031201:0001/pct:6.119765989614145,45.53543896744637,16.55163347137317,23.496762257169287/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -404,7 +404,7 @@ ment of the court in relatlon to the law,
 we had not the vanity to suppose, that any  
 essort on our part, could do more&#x27;than give
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:0041421602A:1804031401:0040/pct:28.165337200870194,62.82039989430107,22.95866569978245,32.54646348982648/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:0041421602A:1804031401:0040/pct:28.161252900232018,62.81486700722213,22.96017014694509,32.54653279314192/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -448,7 +448,7 @@ _. son. _ i
 1 mLþ. 67. .9. 29. 1. By thejndicmryssact  
 &#x27;z—tsifwfft&#x27;s Edit. - it: is.-declared _**- that
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:0041421602A:1804031401:0040/pct:28.629441624365484,1.8321148595085,46.77302393038433,94.30106579758655/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:0041421602A:1804031401:0040/pct:28.625290023201856,1.8319534965650872,46.77107501933488,94.29569608361224/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -575,7 +575,7 @@ and when an ofi&#x27;achk Llssssed under a
 siK&#x27;cz/l, 75, ent 10 search for it, fill—.  
 Foxsi&#x27;t. 200. 201. der another head,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:0041421602A:1804031401:0040/pct:51.8346627991298,1.664758213688012,45.51124002900653,94.57412137760944/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:0041421602A:1804031401:0040/pct:51.827146171693734,1.6646115906288532,45.509474091260635,94.56872761435031/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -621,7 +621,7 @@ si-Fost 58. -&quot;Hale, B&#x27;lackstone, &amp;c,
 ; history of England, have gone so far as the  
 ! present case. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:0041421602A:1804031501:0044/pct:27.244490459991127,3.8543328017012226,24.28634817334714,24.419634945950737/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:0041421602A:1804031501:0044/pct:27.240461401952086,3.853991317444848,24.287686088928325,24.42042467735743/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -739,7 +739,7 @@ corruþtzan, which is much stronger than.
 the case of separaiing chare they have  
 agyeed . . 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:0041421602A:1804031501:0044/pct:27.244490459991127,15.91352117667907,24.27155746191392,74.61456671982988/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:0041421602A:1804031501:0044/pct:27.240461401952086,15.912111278461948,24.27289756482303,74.61090930569091/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -820,7 +820,7 @@ called for it—to &#x27;an adjournment of the
 Ejury. According-ly in noneefthe instances  
 ; did the jury separate.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:0041421602A:1804031501:0044/pct:51.42730365330572,7.611199716462874,23.82783611891732,30.940988835725676/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:0041421602A:1804031501:0044/pct:51.41969831410825,7.610525383184195,23.829241841664203,30.941200791471015/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -872,7 +872,7 @@ the etience was committed, or where that cannot be
 done without great inconvenience, twelve jurors at  
 least shall be summoned from thence.”—buosequen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807070101:0601/pct:51.01244205903879,49.48822095857027,20.663576482068798,7.489845653939886/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807070101:0601/pct:51.0,49.48018193632229,20.664634146341463,7.492690058479532/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -934,7 +934,7 @@ to be levying war against the United States,
 or giving aid and comfort to its enemies.—  
 The wearing of the humblest coin of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027238:00279529431:1863051301:0438/pct:3.4982060481804202,65.95336630665186,11.07124551512045,2.7960028262844454/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027238:00279529431:1863051301:0438/pct:3.5024773620365623,65.96009555533125,11.084059456688877,2.7892735776050603/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -952,7 +952,7 @@ be &quot;levying war against the United
 States.&quot; Language may be libelous, but  
 not treasonable, according to this. Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280775022:1877022201:0931/pct:26.514486391571555,89.29090188828734,18.217734855136083,2.8390334081605704/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280775022:1877022201:0931/pct:19.898967713595432,66.9747788194903,13.6832857456622,2.125973854483032/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

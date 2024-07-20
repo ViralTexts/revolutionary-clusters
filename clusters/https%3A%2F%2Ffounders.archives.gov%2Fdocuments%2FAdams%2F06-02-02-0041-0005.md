@@ -2400,7 +2400,7 @@ persons, to-the subversion of his Majesty’s
 ‘Government, and to the utter destruction of  
 the public peace, and gnod order of the sai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774052001:0252/pct:7.44920993227991,18.484179543782194,27.742663656884876,14.40765268579838/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774052001:0252/pct:7.4642588412340105,18.49399067942114,27.735139202407826,14.417463821437332/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2421,7 +2421,7 @@ Good., Wares and Merchandise, at the Town# and within
 the Harbour of Bofton# in the Province of Mailachufctts-  
 Bay, in North-America. &gt;. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1774052601:0593/pct:99.19803965248384,44.54302210956203,27.3334818445088,5.421771581467399/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1774052601:0593/pct:76.8889911952581,34.52779394644936,21.177418426655926,4.209109429569266/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2464,7 +2464,7 @@ Goods, Wares and Merchandise, at the Town, and withm
 the Harbour of Boston, in the Province of Mariachufetts-  
 Bay, in North-America
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1774060201:0595/pct:7.918149466192171,72.78382581648522,27.55782918149466,5.683585465856073/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1774060201:0595/pct:6.136520340151689,56.40819606267577,21.362905079292116,4.415793126118558/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2482,7 +2482,7 @@ of Pc?om questioned for any Aéts done by them in the Execu­
 ‘tion of the Law. or for the Suppression of Riots and Tumults,  
 .. in the Prowince of the Mqﬂ&#x27;a:bufetu-ﬂay in New-England
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774061001:0264/pct:9.19965202261853,9.468723221936589,26.489778164419313,2.8706083976006855/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774061001:0264/pct:9.214151080179787,9.468723221936589,26.475279106858054,2.8801294868132916/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2501,7 +2501,7 @@ done by them 1n the Execution of the law, or for the fupprefiion
 of Riots and Tumults in the Province of Maflachufetts-Bay, in  
 New-England,&quot;” being read, Sir-Charles Whitworth reported th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774070801:0278/pct:36.48193852367063,7.249372508489591,26.991249719542292,3.46965893990846/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774070801:0278/pct:36.49689626804278,7.254294010532014,26.998728591728366,3.4647374378660367/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2521,7 +2521,7 @@ Yesterday Morning an Ezprefs was received at Loid Roch­
 fora’s Office, ag seven o&#x27;Clock, from Lord Stormont at the Court  
 of Versailles, and another from Boston at nine, both which wer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774070801:0278/pct:36.459501907112404,31.55174959397608,26.923939869867624,4.089768197253802/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774070801:0278/pct:36.46698077929848,31.55174959397608,26.923939869867624,4.094689699296225/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2807,7 +2807,7 @@ colony in which such army iskept, is against
 Law.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774111801:0352/pct:7.195975503062117,4.668854415274463,86.39545056867891,90.33412887828162/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774111801:0352/pct:7.195975503062117,4.673826571201273,86.42461358996792,90.34407319013525/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3104,7 +3104,7 @@ a memorial to the innabitants of Briiiih America.
 And 1. &#x27;1 o prepare a loyal address to his Ma­  
 jcity .agreeable co resolutions already entered into
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1774121601:0678/pct:41.04461371055495,36.217192056658796,27.247007616974972,23.455075683932787/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1774121601:0678/pct:31.8209928599539,28.06816143497758,21.116545791870468,18.1847533632287/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4045,7 +4045,7 @@ next, there be no importation into Britith
 America, from Great-Britain or Ireland, of  
 any goods, wares
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775011301:0384/pct:6.027645592567414,65.51827441581786,28.325402220711535,8.852606351108449/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775011301:0384/pct:6.027645592567414,65.52826043539045,28.340509101895915,8.847613341322148/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4073,7 +4073,7 @@ Resolved unanimously,
 That a loyal address to his Majesty be  
 prepared,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775012001:0388/pct:4.700564971751413,10.50696890794915,28.384180790960453,15.607290549854495/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775012001:0388/pct:4.700564971751413,10.517179762087098,28.39924670433145,15.60218512278552/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4154,7 +4154,7 @@ Britith America, and 3d, to prepare a loyal
 address to his Majesty agreeable to resolu­  
 tions already entered into. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775020301:0395/pct:8.443271767810026,5.285476298652128,28.056288478452068,16.492503407542028/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775020301:0395/pct:8.450600996775139,5.295572719470948,28.048959249486956,16.482406986723205/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4175,7 +4175,7 @@ the better providing suitable quarters sot of­
 ficers and soldiers in. his Majesty’s service in  
 North-America. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775021001:0399/pct:38.12568908489526,40.32672818030555,27.122381477398015,6.852216003630313/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775021001:0399/pct:38.12568908489526,40.32672818030555,27.122381477398015,6.862300206726164/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4193,7 +4193,7 @@ diction of courts of admiralty and vice~admi­
 ralty in the colonies, to matters arising within  
 the body of a county, direéted the ﬁ!mem
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775030301:0411/pct:37.695527649261955,5.012757016358997,27.230667547918042,3.9171544349392167/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775030301:0411/pct:37.71021517221121,5.012757016358997,27.23801130939267,3.922157186452549/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6370,7 +6370,7 @@ and Mcrchandize, at the Town and within the
 Harbour ig Boston, in the Privince of Mafla­  
 chufett’s Bay ; and also Two Aéls, madei
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1783060701:0369/pct:6.229564618826363,41.95566286215979,27.878162106350025,5.805531167690957/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1783060701:0369/pct:6.2353008661733496,41.96297922153936,27.88389835369701,5.805531167690957/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6936,7 +6936,7 @@ ed, &#x27;&#x27; 1 hat by the immutable laws of nature, the
 a right in the people, to participate in their  
 &quot; legislative council. That you were entitle
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790072401:0001/pct:9.342144788224692,26.394638281095997,26.4343646740763,11.27537945988567/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790072401:0001/pct:9.364674076299188,26.399566331559235,26.4343646740763,11.29016361127538/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6956,7 +6956,7 @@ a right in the people, to participate in their
 you then claimed, demanded and infilled on, as  
 your indubitable rights and liberties. Thes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790072401:0001/pct:9.432261940522679,40.80425783560024,26.374286572544307,4.849201655824956/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790072401:0001/pct:9.439771703214179,40.81411393652671,26.396815860618805,4.844273605361719/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6976,7 +6976,7 @@ the English constitution ; when the glorious COll­
 &quot; laws of nature, the principles of the English Con­  
 &quot; flitutior., and the several charters or compacts,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791062501:0001/pct:8.039906103286384,48.17208271787297,26.1443661971831,4.523633677991137/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791062501:0001/pct:8.039906103286384,48.17208271787297,26.16637323943662,4.53748153618907/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7148,7 +7148,7 @@ not be legally taken froi» them, altered, or abridg­
 ed by any power whatever, without their own con­  
 sent by th? tr reprefcntatives in their provwcial
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1796021801:0002/pct:74.28341816233592,25.579785392869503,20.707206000535763,5.7632398753894085/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1796021801:0002/pct:74.29011518885615,25.592765662859122,20.727297080096438,5.7632398753894085/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7169,7 +7169,7 @@ and to the benefit of such of the En­
 glish Statutes as existed at the time of  
 their firft emigration, and which b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1799041001:0057/pct:42.8927680798005,27.051106324652437,16.47443890274314,4.7679655374975525/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1799041001:0057/pct:42.90315876974231,27.057633313752365,16.469243557772238,4.7679655374975525/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7212,7 +7212,7 @@ in the people, to participaze in xheif L&#x27;glf­
 lative council,_and that as the English 0?­  
 100ies were not, and could nor be yrosincn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802070801:0208/pct:75.70712784871505,67.64067305952597,20.171326975917246,19.27808937941017/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802070801:0208/pct:75.69489334195217,67.63455450022614,20.173453996983408,19.279360771898084/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7243,7 +7243,7 @@ and that the repeal of them, was essentialiy
 necessary, in order to refiore hatmvnv be.  
 tween Great Britain and the cnicnieiz. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802070801:0209/pct:1.21012101210121,22.536611824263243,20.03771805752004,13.785933827517628/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802070801:0209/pct:1.2099308610936519,22.534574708487753,20.039807249109575,13.787700744222484/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7273,7 +7273,7 @@ And 3d. To prepare a loyal address sito
 _&#x27; majesty.  
 Congress also addressed the French inha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802070801:0209/pct:1.162973440201163,37.145181703127825,20.556341348420556,12.845778340263967/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802070801:0209/pct:1.1627906976744187,37.141824098345836,20.55834904672114,12.847630238934586/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7419,7 +7419,7 @@ Thatjlie foundation of Kir^lith Liberty and of all
 fire Government, is, a light in the people to partici­  
 pate in their legislative council.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1811060701:0096/pct:6.690058479532164,74.32745154758462,22.45614035087719,5.814289846687879/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1811060701:0096/pct:6.688493919550982,74.31670281995662,22.4567352666043,5.81706435285611/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7757,7 +7757,7 @@ bers; excluding every idea of taxation for raising
 a revenue on the subjects r.l America, without  
 their consent.”—Journals vf Congress, Oct. i lib
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184339:1831111001:0373/pct:34.624009567947375,77.40825688073394,15.368515473164898,5.905963302752293/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184339:1831111001:0373/pct:34.61883408071749,77.39938080495357,15.371200797209767,5.909108282689294/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7791,7 +7791,7 @@ mercial benefits of its respective members; excluding
 . very idea ol taxation for raising a revenue on the sub­  
 jects ot America, wiihout their consent. — Journals o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184054:1831111501:0223/pct:22.324671696004472,55.58013494082513,14.459346186085499,4.391107178409468/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184054:1831111501:0223/pct:22.321553289565582,55.57398805573988,14.461982586022256,4.394308043943081/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8201,7 +8201,7 @@ life, liberty, and properti, and they have never red- ,
 i d t &gt; any sovereign power whatever a rigl.t to di?|&gt;ose  
 ol either w ithout thoir content.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661332:1844012301:0081/pct:66.30181230934865,47.652970360005085,16.5619953346492,13.268032056990204/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661332:1844012301:0081/pct:66.30181230934865,47.652970360005085,16.567976553621627,13.27227239960989/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8237,7 +8237,7 @@ life, liberty, and propertv, and lliey have never red- ,|
 rd to any sovereign power whatever a right to dispose ?  
 ol either w itliout their consent.&quot; |
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82015015:00415661319:1844012401:0302/pct:63.57403355215171,71.82861353826719,16.11962071480671,9.769449415727971/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82015015:00415661319:1844012401:0302/pct:63.57403355215171,71.82861353826719,16.12934597617311,9.776467698354212/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8258,7 +8258,7 @@ Siewex, on Delaware, Maryland, Virginia, .V rtli v
 Carolina, and Souk Carolirn?justly alarmed at the  
 u t.ilr at v nriirt-etiiiies of Parliament. and Adnnrii-- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82015015:00415661319:1844012401:0302/pct:63.646973012399705,68.64933150857985,15.769511305616339,3.2003368775660594/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82015015:00415661319:1844012401:0302/pct:63.646973012399705,68.6563497912061,15.774373936299538,3.2003368775660594/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8280,7 +8280,7 @@ com se of that law.”
 Soeh was the teial by Jury claimed and- de­  
 manded by Rhode Island, in their Resolutions o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153267:1844081001:0157/pct:30.389201939457475,50.601171513719045,12.55405582492465,3.041825095057034/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153267:1844081001:0157/pct:30.397938234394793,50.60459699242969,12.54968767745599,3.041825095057034/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8510,7 +8510,7 @@ nied as coolly as if they were heard of for the Arst time
 upon this occasion; ana the process of argument is well  
 worthy of the doctrine advocated. &quot;The major include
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850012301:0097/pct:37.581543357199685,70.54057475629827,15.354017501988862,4.000506393214331/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850012301:0097/pct:37.581543357199685,70.54479469975102,15.37523203394325,4.004726336667089/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8532,15 +8532,15 @@ as coolly as if they were heard of for tbe first time upon this
 occasion ; and the process of argument is well worthy of the  
 doctrine advocated. &quot; The mijor includes the minor,&quot; say
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1850012601:0068/pct:64.09563690395785,75.81034301898667,15.345130352559773,3.912724221126613/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1850012601:0068/pct:64.09563690395785,75.81733627049897,15.345130352559773,3.912724221126613/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1850-03_26_141/page/n52/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1850-03_26_141/page/n52/mode/1up?view=theater)
 
-#### 1850-03-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1850-03-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8700,7 +8700,7 @@ xisted at the time of their colonization; that
 heir privileges are defined by their charters, or  
 secured by their several codes of provincia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661484:1851101301:0984/pct:58.700117370892016,30.064289888953827,14.14319248826291,13.080070134424313/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661484:1851101301:0984/pct:58.70989827856025,30.068186245860122,14.138302034428795,13.083966491330607/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8742,7 +8742,7 @@ u secured by their several codes of provincial
 laws and that to keep ?n army in any colony  
 without the consent of the legislature of tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014763:00415661460:1851101501:0190/pct:57.02776578909509,33.16594130119406,15.66681053085887,14.217163263028679/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014763:00415661460:1851101501:0190/pct:57.03735673524193,33.16594130119406,15.66681053085887,14.224602908901536/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8763,7 +8763,7 @@ During the year 1775, the Virginia convention
 assumed a tone constantly increasing in boldness,  
 and still asserting for the dominion of Virgini
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014763:00415661460:1851101501:0190/pct:57.142857142857146,49.63731726369825,16.04085743058553,4.720455306327419/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014763:00415661460:1851101501:0190/pct:57.14765261593056,49.641037086634675,16.050448376732366,4.720455306327419/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8795,7 +8795,7 @@ peers of the vicinage according to the course of
 (hat law.&quot; Thus, amidst the troubles which  
 heralded the devolution, the common law wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1852090201:0608/pct:71.42235123367199,32.25994180407371,15.413642960812773,3.889427740058196/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1852090201:0608/pct:71.42235123367199,32.25994180407371,15.413642960812773,3.8958939540898805/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8819,7 +8819,7 @@ that from defenders we are urged to beoome offonders,
 and with the practice, to adopt the princig es of Lord  
 North in this orusade againat human rights; for ther
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743099:1854030101:0499/pct:190.90280179868557,107.60843517852864,46.333448633690764,11.86196980589504/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743099:1854030101:0499/pct:63.63426726622853,35.86947839284288,15.444482877896922,3.9539899352983463/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8841,7 +8841,7 @@ their several provincial, lijSlatures where
 their right of representation:, ean aloae be  
 preserved, in all caafsof internal poliey. &#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn84028794:00296026670:1854030801:0741/pct:108.31589958158996,119.37116973088196,16.753835425383542,5.72875033306688/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn84028794:00296026670:1854030801:0741/pct:81.28379556950985,89.52837729816147,12.576312576312576,4.3032240873967496/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8861,7 +8861,7 @@ uent blanches ,f the, Legislature be . inde,&#x27; &#x27;-,
 pendent of each other that therefore, th ?  
 exercise of legislative power; tit several eol-j
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn84028794:00296026670:1854030801:0741/pct:108.31589958158996,124.91340261124434,17.119944211994422,4.343192112976285/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn84028794:00296026670:1854030801:0741/pct:81.28379556950985,93.68505195843325,12.855398569684285,3.2640554223288034/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8885,7 +8885,7 @@ that from defenders we aie urged to become offend re, and,
 with Lite practice, to adopt the principle of Lord North in  
 tins crusade against human rights. For there ia scarcel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854031101:0392/pct:36.001322970067804,77.52577319587628,15.677195303456259,5.09020618556701/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854031101:0392/pct:36.001322970067804,77.53006872852234,15.699244804586296,5.09020618556701/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8923,7 +8923,7 @@ there was the^ollowing resolution: 1 Resolntd,
 That the respective Colonies are entitled to the  
 common law of England,&#x27; &quot; &amp;c., &amp;c.?Weld&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1854061501:0103/pct:3.4840265220012054,8.703825547513864,14.092827004219409,6.767553341479462/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1854061501:0103/pct:3.488045007032349,8.710091800607827,14.096845489250553,6.770686468026444/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9018,7 +9018,7 @@ power to establish governments and the power of
 interpal legialation. They found, to use the words  
 of the great Earl of Chatham, &quot;the principles o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743208:1854110901:1078/pct:151.0089315249752,115.13745898857337,46.70856764803175,12.116755289059848/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743208:1854110901:1078/pct:50.33631050832506,38.379152996191124,15.569522549343919,4.038918429686616/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9057,7 +9057,7 @@ and superintend our governments; but when you under­
 take to tax ns and to regulate our internal concerns you  
 pass the bounds of just authority, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661617:1854111801:0349/pct:49.94973430992388,17.677547419497134,15.682895303748385,7.31142479047199/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661617:1854111801:0349/pct:49.959308727081236,17.677547419497134,15.682895303748385,7.318776650492574/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9080,7 +9080,7 @@ iicuitiiiuu tou oiuud uc |iic?er?eu, ill ail cases Ol
 h wise patriots did not rack their brains to discover  
 11 a marked boundary?a stone wall?between th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn84020104:0041566154A:1854121401:0582/pct:44.29460580912863,35.98374322634431,13.822614107883817,3.1992496873697376/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn84020104:0041566154A:1854121401:0582/pct:44.298928077455045,35.99069056551341,13.831258644536653,3.1957760177851884/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9103,7 +9103,7 @@ several territorial legislatures, where their right of representation
 can alone be preserved in all eases of taxation  
 and INTERNAL POLICY.&quot; Yes, we say to the distant
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:0041566123A:1854122901:0622/pct:62.71838435646738,57.70287141073658,17.15018432441096,4.107365792759051/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:0041566123A:1854122901:0622/pct:62.71838435646738,57.71119434040782,17.171555270609606,4.107365792759051/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9119,7 +9119,7 @@ and INTERNAL POLICY.&quot; Yes, we say to the distant
 ilAnd another statute was then made &quot;for making  
 more effectual provision for the government o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn85054616:00212477771:1855062001:0191/pct:28.282514001244554,49.72591058594226,18.886123210952086,1.193811670118163/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn85054616:00212477771:1855062001:0191/pct:21.22296561381671,37.300523815324645,14.174576007468492,0.9014496284565721/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9136,7 +9136,7 @@ colonists &quot;are entitled to a free and exclusive
 power of legilation in their several provincial legis­  
 latures, where their right of representation can
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743221:1855082701:0458/pct:252.8608027327071,289.42170395049976,45.584970111016226,4.569252736792004/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743221:1855082701:0458/pct:84.2869342442357,96.47390131683325,15.19499003700541,1.5230842455973346/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9166,7 +9166,7 @@ their several provincial legislatures, where their
 right of representation can alone be preserved,  
 in nil cases of taxation and internal policy, Sic.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82014835:00415661514:1855083001:0306/pct:70.99016393442623,77.71767398314782,12.760655737704917,2.995942993862478/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82014835:00415661514:1855083001:0306/pct:70.99453551912568,77.72114150976108,12.756284153005465,2.999410520475745/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9207,7 +9207,7 @@ in their several provincial legislatures, where their
 right of representation can alone be preserved, in  
 all cases of taxation and internal polity,&quot; &amp;e. I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293204:1855090401:0222/pct:82.04005006257822,306.70804487944616,49.37421777221527,7.448078300310336/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293204:1855090401:0222/pct:20.5196431366411,76.67701121986154,12.349350446079198,1.862019575077584/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9276,7 +9276,7 @@ colonial governments, but denied their right to touch
 the internal polity of the people. And for the sup­  
 port of that great principle, denied and derided a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022743:1855090501:0303/pct:46.15151515151515,108.85106382978724,19.803030303030305,6.541033434650456/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022743:1855090501:0303/pct:34.63170657775083,81.64133738601824,14.852985753258563,4.911854103343465/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9315,7 +9315,7 @@ cial legislatures, where their right of representation
 can atone De preserved, in all cases of taxation and m  
 ternal polity,&quot; &amp;c. In that great struggle, the patri
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879087:1855090701:0365/pct:69.31818181818181,104.98147787093001,20.37433155080214,3.3242347436147397/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879087:1855090701:0365/pct:52.012839374080514,78.73854552544356,15.286879764611475,2.4956131799571066/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9347,7 +9347,7 @@ ligent gentleman, Gov. Hunt, ofXew York, in
 a letter just published, speaks of the Nebraska  
 bill as &quot;based on the absurd theory of territoria
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn82005159:00296028435:1855090701:0182/pct:16.81947518178944,62.29624379872431,14.71704078406576,9.142452161587526/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn82005159:00296028435:1855090701:0182/pct:16.83001370007377,62.29624379872431,14.711771524923595,9.154264115284668/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9367,7 +9367,7 @@ where their rights of representation can
 alone be preserved, in all eases of taxation  
 and internal policy,” die. In that grea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024652:00393348689:1855090801:0328/pct:70.7185122569738,33.35100742311771,11.98647506339814,3.1283138918345705/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024652:00393348689:1855090801:0328/pct:70.70655848546315,33.346587143803845,11.98867478025693,3.131212723658052/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9386,7 +9386,7 @@ vincial legislatures, where their , right of
 repreenitation cafl alone bei- preserved,, in  
 all cases of taxation,&quot; internal polity,&#x27; (fee.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn84028794:00296026682:1855091201:0049/pct:22.612156295224313,47.037134579931525,16.642547033285094,4.029496971293126/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn84028794:00296026682:1855091201:0049/pct:16.974303293521533,35.277850934948646,12.48642779587405,3.0287068738477747/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9406,7 +9406,7 @@ al provincial legislatures, where there might
 of representation can alone be preserved, in  
 alt cases of taxation and internal polity, &amp;c.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hershey_ver01:data:sn85025182:00296028393:1855091301:0527/pct:18.11210516706226,73.40441285354657,12.141683403322988,3.524359543906412/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hershey_ver01:data:sn85025182:00296028393:1855091301:0527/pct:18.11210516706226,73.40934893133915,12.166027630698071,3.524359543906412/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9469,7 +9469,7 @@ alone be preserved in all cases of taxation and
 internal policy, etc.” In that great struggle,  
 the patriots who conducted it conceded to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn84022882:00414212426:1855092501:0270/pct:73.14629258517034,43.54806739345887,11.422845691382765,2.5470763131813676/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn84022882:00414212426:1855092501:0270/pct:73.13652150681271,43.54375185809137,11.424659364146407,2.5493013576454264/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9532,7 +9532,7 @@ wonld relinquish tbe right of representation
   
 }in the Legislature, * * * a right inesti
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hershey_ver01:data:sn85025182:00296028393:1855092701:0535/pct:31.885111797854936,15.432372505543237,24.468278494819124,82.26164079822617/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hershey_ver01:data:sn85025182:00296028393:1855092701:0535/pct:31.89117130218748,15.432372505543237,24.480397503484216,82.26656812022665/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9630,7 +9630,7 @@ tion in their several prov iaeia! legislatures, v. here j
 their right of representation can : lona be pre­  
 served. in all cases of taxation and internal poli
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn85025134:00279556720:1855101301:0004/pct:36.49531884826003,31.3953488372093,16.14555732202791,5.988372093023256/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn85025134:00279556720:1855101301:0004/pct:36.49531884826003,31.4031007751938,16.169110286757345,5.988372093023256/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9649,7 +9649,7 @@ islatures, where their right of representation
 can alone he preserved, in all cases of tax­  
 ation and internal policy, A-e.” fn that grea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn82014998:00279557955:1855101301:0232/pct:32.652668079368134,55.58941681673362,14.659988441533423,2.8674331624878793/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn82014998:00279557955:1855101301:0232/pct:32.652668079368134,55.596342983792766,14.674436524754382,2.8639700789583045/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9679,7 +9679,7 @@ best men the worid ever saw- the foun lers of this repub-­
 licis sound doctrine to day, and I firmly believe its ine­  
 herent virtue is proof against the rot of time. But th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743233:1856020101:0255/pct:37.98910351659237,145.17668446767414,56.87634142314677,18.49789796614021/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743233:1856020101:0255/pct:12.66303450553079,48.392228155891374,18.95878047438226,6.1659659887134035/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9710,7 +9710,7 @@ In these davs of political metaphysics, it has been ob­
 jected to this view of the relation* subsisting t vet ween the  
 general government and its Territories, Unit 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82003410:00415661071:1856052001:0584/pct:34.95881383855025,54.49722081859525,17.331136738056014,8.287013643254168/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82003410:00415661071:1856052001:0584/pct:34.96430532674355,54.501431699511535,17.331136738056014,8.295435405086744/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9988,7 +9988,7 @@ where their representation could alone be
 preserved, in ail cases of taxation and internal  
 polity This right pertains to the people collec*&#x27;l
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_leonberger_ver03:data:sn83045462:00280654139:1859082501:0646/pct:3.965183752417795,83.2424922517901,16.827852998065765,4.007694773966015/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_leonberger_ver03:data:sn83045462:00280654139:1859082501:0646/pct:3.9692134107027726,83.24783584482206,16.827852998065765,4.01303836699797/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10017,7 +10017,7 @@ vincial legislatures, where their right of repre- i
 sentatlon can alone be preserved, in all cases of  
 taxation aad internal polity.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_belmont_ver02:data:sn82014511:no_reel:1859082701:0002/pct:23.86871237133424,72.19654959950708,9.80772965624393,5.345040049291436/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_belmont_ver02:data:sn82014511:no_reel:1859082701:0002/pct:23.878422994756264,72.20810227972889,9.817440279665954,5.348890942698706/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10036,7 +10036,7 @@ islatures, where their representation couldalone
 be preseaved, in all cases of taxation and inter­  
 nal polity. This rfcbt pertains the people col
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_belmont_ver02:data:sn82014511:no_reel:1859082701:0002/pct:34.27850067974364,67.4060382008626,9.730044668867741,1.8022181146025877/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_belmont_ver02:data:sn82014511:no_reel:1859082701:0002/pct:34.29306661487667,67.4060382008626,9.72518935715673,1.8176216882316698/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10066,7 +10066,7 @@ vincial Legislatures, where their representation
 could alone be preserved, in all cases of taxation  
 and internal policy This right pertains to the peo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293289:1859083001:0207/pct:25.529603476371538,156.0242823335734,43.346007604562736,8.64286449223171/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293289:1859083001:0207/pct:6.383267689800353,39.00607058339335,10.837973652044004,2.1607161230579277/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10186,7 +10186,7 @@ right of representation can alone be preserved,
 in a I cases of taxation and internal polity.&quot;  
 Having thus defined the principle for which
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290070:1859090901:0239/pct:95.18958687040181,222.95523392797037,34.63497453310696,15.168854482216986/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290070:1859090901:0239/pct:23.80750176928521,55.73880848199259,8.662420382165605,3.7922136205542465/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10203,7 +10203,7 @@ their several provincial Legislatures, where their tight ?&gt;f &#x27;
 !vp-nehl:iti*&#x27;fi tan alone he preserved, in all cases of taxation  
 and Internal polity.&quot; Having thus defined ihc prinvi- j 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664370:1859090901:0527/pct:28.067203162501766,78.48849482795018,12.254694338557108,1.1821828161283512/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664370:1859090901:0527/pct:28.071909266318414,78.48849482795018,12.254694338557108,1.192738019843783/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10250,7 +10250,7 @@ tation could be preserved, in all cases of taxa
 tion and internal polity. This right pertains  
 to the people collectively as a law-abiding and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290070:1859091001:0243/pct:204.839617332583,51.60716271827383,34.32751828925155,7.474140807474141/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290070:1859091001:0243/pct:51.23152709359606,12.901790679568457,8.585503166783955,1.8685352018685353/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10366,7 +10366,7 @@ incial legi latures, where their representation could alone
 be preserved, in all cases of taxation and nturnai polity.  
 This right pertains to the people collectively as a law
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn84026881:00279557268:1859092801:0682/pct:36.79349833764315,48.13822662737744,14.203915773919467,2.330565229038307/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn84026881:00279557268:1859092801:0682/pct:36.80273365349095,48.13822662737744,14.203915773919467,2.3406107688186446/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10392,7 +10392,7 @@ their right of representation can alone be pre
 served, in all cases of taxation and internal  
 polity;&quot; while, in the other case, it was pro-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027480:1859092801:0334/pct:75.79436450839329,30.4,16.336930455635493,5.745454545454545/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027480:1859092801:0334/pct:56.85804227252286,22.8,12.26202968070754,4.315151515151515/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10424,7 +10424,7 @@ tation could be preserved, in all cases of
 taxation and internal polity. This right  
 pertains to the people collectively as a la
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472074:1859100101:0251/pct:340.21075984470326,161.30255380840862,42.98391569606212,14.006914241106278/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472074:1859100101:0251/pct:85.06448481486618,40.325638452102154,10.747469144362778,3.5017285602765695/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10656,7 +10656,7 @@ clusive power of legislation in their several
 provincial legislatures in all cases of taxa­  
 tion and internal polity,” a serious an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347282:1859110401:0084/pct:35.76327962992503,35.8974358974359,13.032381560057425,8.968557837336117/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347282:1859110401:0084/pct:35.77391396820333,35.901303322117805,13.032381560057425,8.972425262018023/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10736,7 +10736,7 @@ vincinl legislatures, where their rights of rep­
 resentation can alone he preserved, in all  
 cases of taxation and internal polity,” die
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn84038814:00279557190:1860022101:0814/pct:31.978704525288375,58.50941221667307,12.404614019520851,2.7276219746446406/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn84038814:00279557190:1860022101:0814/pct:31.983141082519964,58.519016519400694,12.40905057675244,2.7340248431297223/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10778,7 +10778,7 @@ tures in all cases of internal polity. This
   
 was refused by the Crown, but reasserted by
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290069:1860041001:0307/pct:23.135547087642895,267.1348622846483,34.131736526946106,25.28256337100845/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290069:1860041001:0307/pct:5.783886771910724,66.78371557116208,8.532934131736527,6.320640842752113/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10798,7 +10798,7 @@ legislation in their several provincial legisla-
 tures in all cases of internal polity.&quot; This  
 was refused by the crown, and reasserted b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290057:1860071001:0010/pct:169.58733747880157,81.4583108618272,35.048049745619,4.789127386473951/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290057:1860071001:0010/pct:42.40882103477524,20.3645777154568,8.764489680520215,1.1972818466184878/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10842,7 +10842,7 @@ noble sires demanded of the crown, and won
 tion toward the Territories that George the  
 III did to the colonies
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290057:1860081101:0118/pct:54.815229563269874,75.75119192815168,36.11422172452408,40.758398935580445/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290057:1860081101:0118/pct:13.705725885482291,18.93779798203792,9.029819403611928,10.189599733895111/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10864,7 +10864,7 @@ That the people of the several Colonies &quot;are
 entitled to a free and exclusive power of leg  
 islation in their several provincial legislature
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn85026002:00280775228:1860081401:1301/pct:84.20208500400962,160.91408220804274,49.23817161186849,13.058317257753377/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn85026002:00280775228:1860081401:1301/pct:21.050521251002404,40.228520552010686,12.309542902967122,3.264579314438344/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10889,7 +10889,7 @@ alone be preserved, in all cases of taxation
 and internal polity.” Having thus defined  
 the principle for which they were contending
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347282:1860083101:0476/pct:62.33442418575658,67.28395061728395,12.903225806451612,5.757575757575758/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347282:1860083101:0476/pct:62.33442418575658,67.28769173213618,12.91361487714924,5.761316872427984/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10915,7 +10915,7 @@ tures, where their right of representation
 can alone be preserved, in all cases of taxa  
 tion and internal polity while in the othe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347282:1860083101:0477/pct:52.36091631603553,41.245791245791246,13.012311048776686,6.217732884399551/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347282:1860083101:0477/pct:52.371305386733155,41.253273475495696,13.007116513427874,6.217732884399551/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10938,7 +10938,7 @@ alone be preserved, in all cases of taxation
 and internal polity. This right pertains to  
 the people collectively as a law-abiding an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347282:1860083101:0478/pct:61.64874551971326,10.650953984287318,26.61679912731806,79.43883277216611/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347282:1860083101:0478/pct:61.64874551971326,10.65843621399177,26.627188198015688,79.44631500187056/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10958,7 +10958,7 @@ their representation could alone be preserved,
 In all cases of taxation and Internal politv. Thin right  
 pertains to the people collectively as a law-abiding an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664382:1860090401:0291/pct:74.88328664799253,45.76354679802956,14.859277044150994,2.2167487684729066/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664382:1860090401:0291/pct:74.88328664799253,45.770114942528735,14.863723267084612,2.220032840722496/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11047,7 +11047,7 @@ to establish which--after it had been de-
 nied to them by the British Government  
 they fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472074:1860092201:0425/pct:291.0497237569061,287.06145251396646,60.110497237569064,76.9608938547486/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472074:1860092201:0425/pct:72.77248238707004,71.76536312849161,15.029700234839066,19.24022346368715/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11083,7 +11083,7 @@ Parliament, claiming a power, of right, to
 bind the people of America by statutes in all  
 cases whatsoever,&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027238:0027952942A:1860092601:0850/pct:73.56336582863007,27.550095660054374,11.12108773730118,2.3361192226361895/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027238:0027952942A:1860092601:0850/pct:73.57191722250727,27.556808646326317,11.116812040362579,2.3361192226361895/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11134,7 +11134,7 @@ hended the true policy, in reference to tha
 objects of general and local governments,  
 which the Democratic party maintain a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027238:0027952942A:1860092601:0850/pct:73.57619291944587,30.349410935454635,11.159569009748589,17.99415970194341/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027238:0027952942A:1860092601:0850/pct:73.57619291944587,30.35276742859061,11.159569009748589,18.000872688215352/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11251,7 +11251,7 @@ people of the colonies. But where then was sover­
 eignty vested--in the people of the several colonies,  
 as distinct political communities, or in all the pe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293320:1861080801:0134/pct:138.276299112801,156.07675906183368,51.07731305449936,37.24235963041933/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293320:1861080801:0134/pct:34.58551275954985,39.01918976545842,12.775400221905215,9.310589907604832/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11374,7 +11374,7 @@ the exercise and cnjovit or fill such of
 thera sis tUr.r hiccl and other circumstances  
 enable them to exercise and enjoy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_ireland_ver01:data:sn84022644:0029586753A:1866021701:0066/pct:25.342669845053635,25.2776492364646,16.22467222884386,17.81582600647848/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_ireland_ver01:data:sn84022644:0029586753A:1866021701:0066/pct:19.01922790281711,18.961129106894955,12.177671784170517,13.361869504858861/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11403,7 +11403,7 @@ any sovereign power whatever a
 right to dispose of either without  
 their consent.&quot;-Hurd, on habca
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn87076793:00280775101:1866041901:0896/pct:250.62362435803374,266.8558456299659,43.8004402054292,32.86038592508513/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn87076793:00280775101:1866041901:0896/pct:62.6674004769767,66.71396140749148,10.952118877270225,8.215096481271283/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11426,7 +11426,7 @@ which cannot be legally taken from them, altered
   
 consent by their representatives. It was affirmed to b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743567:1866100801:0098/pct:2.774869109947644,82.2708919613361,58.97033158813264,10.803866389330723/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743567:1866100801:0098/pct:0.924956369982548,27.4236306537787,19.65677719604421,3.6012887964435745/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11570,7 +11570,7 @@ of that law, and to the benefit of such of the English
 statutes as existed on the fourth day of July, seventeen  
 hundred and seventy-six, and which by experience hav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743580:1867052301:0270/pct:151.71508288199573,71.2484237074401,45.675365173149515,18.525736558523445/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743580:1867052301:0270/pct:50.571694293998576,23.7494745691467,15.225121724383172,6.175245519507815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11646,7 +11646,7 @@ of all tree government, is based on theg
 right of the people to participate in their  
 legislative assemblies, and to have a voic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vnstcsc:batch_vnstcsc_adelphi_ver01:data:sn84037526:00414219883:1870071901:0220/pct:47.12175241976566,79.91377621007251,34.58991339786042,18.851655888692925/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vnstcsc:batch_vnstcsc_adelphi_ver01:data:sn84037526:00414219883:1870071901:0220/pct:36.52694610778443,61.941885187810065,26.827663354609463,14.614761567277514/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11690,7 +11690,7 @@ And, as theinterests of St. Thomas are
 entirely different to those of the sister  
 Colony ot St. Croix,—those of the forme
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vnstcsc:batch_vnstcsc_adelphi_ver01:data:sn84037526:00414219883:1870071901:0220/pct:47.19816607233826,7.799333725259651,71.39582272032604,111.20909269057417/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vnstcsc:batch_vnstcsc_adelphi_ver01:data:sn84037526:00414219883:1870071901:0220/pct:36.59274856879647,6.049407714893186,55.33328946502599,86.19520097195505/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11860,7 +11860,7 @@ same gentleman for the same position. It is
   
 signed by John Hancock, President, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777663:1875051901:0923/pct:160.81386586284853,48.26606026151222,42.6525998492841,15.747583854462762/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777663:1875051901:0923/pct:40.20346646571213,12.066515065378056,10.663149962321025,3.9368959636156906/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11878,7 +11878,7 @@ importation, non consumption and nos-exporta-­
 tion agreement or association.&quot; This was sson  
 after adopted by all the colonies. One section fro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:00271743932:1875061601:1049/pct:59.73516429622364,215.53142857142856,46.166421448422426,5.3028571428571425/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:00271743932:1875061601:1049/pct:19.911721432074547,71.84380952380953,15.388807149474143,1.7676190476190476/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11895,7 +11895,7 @@ be a loyal address to His Majesty; another to the peo-
 ple of Great Britain, and a memorial to the inhabit­  
 ants of British America. The most important
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:00206531228:1875070301:0031/pct:3.5465587044534415,103.05736860185503,48.11336032388664,5.2101225237604485/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:00206531228:1875070301:0031/pct:1.1821862348178138,34.35245620061834,16.03778677462888,1.7367075079201497/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11913,7 +11913,7 @@ importation, non-consumption, and non-exportation
 agreement or association. Adams describes the de-  
 bates as characterized by &quot;a moderation,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:00206531228:1875070301:0031/pct:3.3522267206477734,108.02702393221115,48.89068825910931,6.63002404671934/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:00206531228:1875070301:0031/pct:1.1174089068825912,36.00900797740372,16.29689608636977,2.2100080155731137/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12012,7 +12012,7 @@ structive to the interests of the English subjects
 in America.  
 not ought not to have toler
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_hera_ver01:data:sn83021205:00517171530:1876070601:0626/pct:80.51498847040737,11.300639658848613,14.008455034588778,14.555792466240227/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_hera_ver01:data:sn83021205:00517171530:1876070601:0626/pct:62.40754529659965,8.761750881316098,10.856291883842145,11.277173913043478/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12137,7 +12137,7 @@ uncoustitutionul, ami most dangerous&#x27;
 and destructive of American rights.”i  
 There was also a protest, in this
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_baggs_ver01:data:sn84022149:00393349931:1879032201:1058/pct:16.213788457219852,45.33595425303788,11.36312598248372,4.413867047891351/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_baggs_ver01:data:sn84022149:00393349931:1879032201:1058/pct:16.23063103525713,45.33595425303788,11.357511789804626,4.4317369549678345/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12157,7 +12157,7 @@ province of Quebec; abolishing the
 equitable system of English laws, and  
 erecting a tyranny there,” etc. Bu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_baggs_ver01:data:sn84022149:00393349931:1879032201:1058/pct:16.213788457219852,49.83917083631165,11.295755670334605,3.3238027162258756/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_baggs_ver01:data:sn84022149:00393349931:1879032201:1058/pct:16.23063103525713,49.85257326661901,11.278913092297328,3.314867762687634/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12176,7 +12176,7 @@ nature, the principles of the English
 constitution, and tn-sir several pbarters  
 or compacts were &#x27;&#x27;entitled to the f**,e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762325:1880051101:0207/pct:28.125,83.58806404657933,10.714285714285714,2.049975739932072/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762325:1880051101:0207/pct:28.132971938775512,83.5971615720524,10.714285714285714,2.049975739932072/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12284,7 +12284,7 @@ of local government by the people and
 are as old as our government itself  
 The one thing in Utah against whic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_layden_ver01:data:sn85058117:206534886:1885040901:0138/pct:12.333333333333334,75.18488085456039,17.930555555555557,12.623253903040263/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_layden_ver01:data:sn85058117:206534886:1885040901:0138/pct:8.22564957621231,50.123253903040265,11.963318049187162,8.422350041084634/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12596,7 +12596,7 @@ of the council by the king is destruc­
 tive of the freedom of American legis­  
 lation. In May, 1776, the congres
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_jamaica_ver01:data:sn97065761:00279523532:1887100501:0073/pct:31.17603550295858,53.972525138082425,12.16715976331361,16.62654015012038/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_jamaica_ver01:data:sn97065761:00279523532:1887100501:0073/pct:31.180658284023668,53.972525138082425,12.190273668639053,16.633621300099136/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12617,7 +12617,7 @@ as that their religion, laws, and lib­
 erties may not be subverted.&quot; And  
 these deputies, among other things
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn96061108:no_reel:1887120101:0321/pct:45.88953114964676,198.31144465290808,32.62684649967887,10.056285178236397/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn96061108:no_reel:1887120101:0321/pct:15.296510383215585,66.1038148843027,10.875615499892957,3.3520950594121324/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12727,7 +12727,7 @@ represented in parliament they are entitled
 to a free and exclusive power of legislation  
 in their several provincial legislature
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_fisher_ver01:data:sn85058130:00206535775:1889050101:0477/pct:66.46341463414635,97.6763258611263,18.643754619364376,5.098414434117004/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_fisher_ver01:data:sn85058130:00206535775:1889050101:0477/pct:44.317131768619475,65.1175505740842,12.437627055997043,3.4034991798797156/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12778,7 +12778,7 @@ treasure time said country was conquered from
 France Thin protest l which tho BritishGov­  
 ernment took earn to circulate among th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_borges_ver01:data:sn83030272:00175044851:1889071401:0722/pct:175.17619420516837,22.891748675246024,52.23179326546594,23.07342922028766/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_borges_ver01:data:sn83030272:00175044851:1889071401:0722/pct:43.81978452497552,5.722937168811506,13.06562193927522,5.768357305071915/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12852,7 +12852,7 @@ so called Liberal party to rob the majority
 of the citizens of our territory of every  
 right that is dear to all Americans an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_griffith_ver01:data:sn85058130:00206535131:1889110801:0191/pct:6.996336996336996,95.27382833070037,18.956043956043956,6.595576619273301/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_griffith_ver01:data:sn85058130:00206535131:1889110801:0191/pct:4.67204104067424,63.5202738283307,12.641993404177354,4.397051079515535/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13035,7 +13035,7 @@ refer was that &quot; for the suppression of
 riots and tumults in the province of tho  
 Massachusetts Bay in New England.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn91068247:00296023048:1890121201:0208/pct:20.652770159078443,49.52997702109881,17.04607789358201,5.525381240860664/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn91068247:00296023048:1890121201:0208/pct:15.500685871056241,37.15270524336746,12.784636488340192,4.146647169417172/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

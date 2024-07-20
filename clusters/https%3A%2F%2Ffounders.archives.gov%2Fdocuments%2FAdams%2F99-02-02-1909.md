@@ -176,7 +176,7 @@ be dactned meet for the fafety and welfare of ihft
 faid United States,  
 In teltimony whereof, I have canfed tb* fe.i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_zarley_ver01:data:sn84038410:01000424529:1797040601:0243/pct:56.792383742218966,49.60593416782569,25.265470523617722,14.39499304589708/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_zarley_ver01:data:sn84038410:01000424529:1797040601:0243/pct:56.77159590043924,49.594438006952494,25.26537335285505,14.397450753186558/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -254,7 +254,7 @@ for the fafety and welfare of the United
 States. :  
 {n testimony whereef, I have canfed the fia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797040801:0266/pct:60.57573891625616,8.248643315244204,33.051108374384235,85.77207696102614/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797040801:0266/pct:60.58087027914614,8.251932247985529,33.04597701149425,85.77207696102614/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -519,7 +519,7 @@ In their wisdom, shall bo deemed meet
 for tlio safety and welfare of tho United  
 States. In testimony whereof, qtc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_harry_ver01:data:sn82000195:00100492866:1889010101:0245/pct:78.37423312883436,62.91806630641157,47.92944785276074,44.574266101942456/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_harry_ver01:data:sn82000195:00100492866:1889010101:0245/pct:19.59355828220859,15.729516576602892,11.982361963190185,11.143566525485614/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -553,7 +553,7 @@ United States.
 &quot;In testlmony whereof, etc.  
 &quot;Bv the President. JOHN ADAM
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_montpelier_ver01:data:sn84022639:00200296321:1889010301:0221/pct:24.894217207334275,118.82732651963421,38.928067700987306,30.930607853684776/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_montpelier_ver01:data:sn84022639:00200296321:1889010301:0221/pct:6.224651736907071,29.706831629908553,9.733733027684712,7.732651963421194/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -591,7 +591,7 @@ tho United States.
 In testimony whereof, Ac. .  
 I&#x27;.y tho-l&#x27;n-Hident Joiim Adams
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn84024448:00296020771:1889010701:0052/pct:231.86467348544454,94.81026785714286,50.35405192761605,44.698660714285715/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn84024448:00296020771:1889010701:0052/pct:57.966168371361135,23.702566964285715,12.588512981904012,11.174665178571429/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -628,7 +628,7 @@ the United States. In testimony
 whereof, etc. Jonl ADAMr.&quot;  
 The directory had then possession o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_angel_ver01:data:sn85034336:00211101040:1889011201:0758/pct:152.33033524121015,77.46118136705618,46.48405560098119,41.5879622218665/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_angel_ver01:data:sn85034336:00211101040:1889011201:0758/pct:50.776778413736714,25.82039378901873,15.494685200327064,13.862654073955499/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

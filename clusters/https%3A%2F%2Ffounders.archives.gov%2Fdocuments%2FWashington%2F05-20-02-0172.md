@@ -238,7 +238,7 @@ of the lawn thy the Ivise is racked, and scarcely to
 bt ore ned I wish you would order a new one thke  
 the old one to be immediately made, Cia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chrysler_ver01:data:sn83030214:00175039946:1883022301:0469/pct:195.77967416602016,228.5125348189415,45.27540729247479,28.434540389972145/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chrysler_ver01:data:sn83030214:00175039946:1883022301:0469/pct:65.2598913886734,76.17084493964717,15.091802430824929,9.478180129990715/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -257,7 +257,7 @@ or ten horses of my own wita me and there will be
 many others with visitors.  
 This letter-a long one-concludes with the fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chrysler_ver01:data:sn83030214:00175039946:1883022301:0469/pct:195.68657874321178,255.73259052924791,44.99612102404965,8.167130919220055/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chrysler_ver01:data:sn83030214:00175039946:1883022301:0469/pct:65.2288595810706,85.24419684308263,14.99870700801655,2.722376973073352/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -279,7 +279,7 @@ I wish you well and am
 Your friend  
 G. WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chrysler_ver01:data:sn83030214:00175039946:1883022301:0469/pct:195.6400310318076,263.3091922005571,45.18231186966641,11.442896935933147/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chrysler_ver01:data:sn83030214:00175039946:1883022301:0469/pct:65.21334367726921,87.76973073351904,15.060770623222137,3.8142989786443824/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -356,7 +356,7 @@ I wish you well and am
 Your friend,  
 Geo. Washington.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:0027952533A:1883031301:0618/pct:27.531697678247983,8.099352051835853,11.13123662110983,16.786657067434604/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:0027952533A:1883031301:0618/pct:27.527164965426408,8.098380323935213,11.133519920974646,16.7876424715057/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -375,7 +375,7 @@ me to do before I cun leave the seat of gov
 ernmeut. My present expectation however Is,  
 that 1 shall l&gt;e able to do thia on to morro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_diamondville_ver05:data:sn84022149:00514150072:1883031501:0454/pct:39.10891089108911,86.0469281748164,10.76194575979337,1.755328676338886/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_diamondville_ver05:data:sn84022149:00514150072:1883031501:0454/pct:39.1250538097288,86.06036181264552,10.751183814033578,1.755328676338886/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -417,7 +417,7 @@ have eight or ten horses of my own with me
 and there will l&gt;e many others with visitors. . .  
 This letter—a long one—concludes with th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_diamondville_ver05:data:sn84022149:00514150072:1883031501:0454/pct:50.55962117950926,5.677950922443131,10.783469651312958,9.743865305391367/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_diamondville_ver05:data:sn84022149:00514150072:1883031501:0454/pct:50.565002152389155,5.6913845602722555,10.804993542832545,9.734909546838617/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -439,7 +439,7 @@ withstanding.
 Your friend  
 Go Washing ion
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_diamondville_ver05:data:sn84022149:00514150072:1883031501:0454/pct:50.55962117950926,15.797958087049974,10.783469651312958,2.8121081855633174/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_diamondville_ver05:data:sn84022149:00514150072:1883031501:0454/pct:50.565002152389155,15.802435966326348,10.804993542832545,2.816586064839692/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -531,7 +531,7 @@ ened, I wish you would order a new one
 dike the old one) to bo immediately  
 made
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_galactic_ver01:data:sn84022982:00513688659:1883040701:0189/pct:17.03798005516656,54.343434343434346,12.624655208996392,14.094794094794095/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_galactic_ver01:data:sn84022982:00513688659:1883040701:0189/pct:17.03798005516656,54.353794353794356,12.63172784496782,14.0999740999741/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -552,7 +552,7 @@ with lisitors. «»■»**
 This letter—a long one—concludes  
 with the following gentle retiection upo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_galactic_ver01:data:sn84022982:00513688659:1883040701:0189/pct:17.03798005516656,68.54700854700855,12.539783577339275,3.2944832944832947/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_galactic_ver01:data:sn84022982:00513688659:1883040701:0189/pct:17.03798005516656,68.54700854700855,12.568074121224981,3.304843304843305/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -574,7 +574,7 @@ I wish you well and am
 Your friend  
 Go Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_galactic_ver01:data:sn84022982:00513688659:1883040701:0189/pct:17.03798005516656,71.82595182595183,12.561001485253554,3.682983682983683/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_galactic_ver01:data:sn84022982:00513688659:1883040701:0189/pct:17.03798005516656,71.82595182595183,12.568074121224981,3.6985236985236987/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -617,7 +617,7 @@ trash of every s.ctani ki&#x27;id about th.­
 hot ses, and iu the L es and corn r-, au i  
 as the frouf gate ot t!.c iawti fly th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_grandfather_ver01:data:sn85042098:00415667449:1883042501:0271/pct:33.5112205801861,5.1819065097700525,30.336617405582924,121.52650329266976/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_grandfather_ver01:data:sn85042098:00415667449:1883042501:0271/pct:25.14027644724237,3.8864298823275396,22.758998220884084,91.14757637914282/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

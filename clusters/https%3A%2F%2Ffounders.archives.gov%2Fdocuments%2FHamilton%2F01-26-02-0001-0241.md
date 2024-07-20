@@ -795,7 +795,7 @@ tvith some falsehoods. &#x27;He may have sup­
 posed himself under a necessity of acting n»  
 he has done. I hope , the grounds of his f
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804072401:0017/pct:72.35308703198612,28.09148264984227,22.98537069179271,66.26182965299685/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804072401:0017/pct:72.33515121467526,28.087052515376122,22.985870104115023,66.25532250433686/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -857,7 +857,7 @@ seem likely to happen, would probably be
 inseparable from a conformity with publick  
 prejudice in this particular.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804072401:0018/pct:3.0125095736533063,5.193352508788751,22.236405412305334,34.244167465643976/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804072401:0018/pct:3.0117406840224605,5.19252276721521,22.23711077080143,34.24269052564308/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1017,7 +1017,7 @@ itrtepafable from a cohf.irfriity with oub­
 lic prejudice iv this particular.  
 A. H
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804072501:0001/pct:20.673400673400675,9.043891529214426,41.21212121212121,90.1174168297456/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804072501:0001/pct:20.680882903105125,9.048550927220203,41.21212121212121,90.12207622775138/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1151,7 +1151,7 @@ conformity with public prejudice in this parti­
 cular.  
 A. H
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804072501:0099/pct:7.2750362844702465,2.173373075012419,34.905660377358494,93.6040735221063/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804072501:0099/pct:7.273716669689824,2.1731031913572583,34.90537517383155,93.5965892628006/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1299,7 +1299,7 @@ se*m likely to happen, would probably he
 inseparable from u conformity with public  
 prejudice in this particular. A. II
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804072501:0224/pct:2.1651657405633262,2.1884418817979294,38.819697260011495,94.2995675534006/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804072501:0224/pct:2.164750957854406,2.188155136268344,38.818646232439335,94.29157931516423/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1432,7 +1432,7 @@ cnifefes of our public afftirs, .hiﬁ ?«m likely to
 happen, woald probably be infeparable from a  
 copformity with public prejodice in this par
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1804072601:0529/pct:34.07757805108798,13.42660498702471,20.22705771050142,71.44307796457181/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1804072601:0529/pct:34.090192368338066,13.434126894580466,20.233364869126458,71.4468389183497/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1872,7 +1872,7 @@ itivcly nffenAvc. Yet I wished, a* fax as might ^
 be pfaftiCrtblc, io leave tlr* doot op&#x27;p to afccor?.- &#x27;  
 .mcd
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016081:00332895060:1804073001:0160/pct:5.8193979933110365,4.8892490545650995,45.90858416945373,89.69475958941113/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016081:00332895060:1804073001:0160/pct:5.818100757913509,4.888588791357191,45.90392331698618,89.68602295746118/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1937,7 +1937,7 @@ happen, would probably be infeparable from a ■
 conformity, with public prejudice in this partic-&#x27;  
 \ utar. A. H
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016081:00332895060:1804073001:0160/pct:28.494983277591974,21.82603997839006,23.210702341137125,36.49378714208536/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016081:00332895060:1804073001:0160/pct:28.488631297369594,21.823092505064146,23.211101203744985,36.49223497636732/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2097,7 +2097,7 @@ to happen, would probably be infcparablé
 from a conformity vi:h public prejudice in  
 this particular, AH
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804073101:0535/pct:58.47181239322876,8.20852534562212,34.16679608634881,87.05837173579108/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804073101:0535/pct:58.47698918051457,8.20852534562212,34.16679608634881,87.07117255504352/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2302,7 +2302,7 @@ pen, would probably be inseparable from
 a conformity with public prejudice in this  
 particular. A.H
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1804080301:0312/pct:31.655266757865938,4.305386090291093,40.902872777017784,90.58741502527454/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1804080301:0312/pct:31.64660831509847,4.304635761589404,40.89852297592998,90.57598466364587/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2660,7 +2660,7 @@ Col. Jiztrr. —Vet In reply to C d. Hun ’s,
 first note, which anv g« ntlcman might  
 iVith propriety have written, and which 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804081801:0249/pct:40.68216463414634,39.20779220779221,18.42606707317073,12.623376623376624/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804081801:0249/pct:40.67441417412841,39.20270094792884,18.42890709341462,12.626065878890188/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2681,7 +2681,7 @@ happen, would probably be inseparable
 bom a conformity with public prejudice in  
 this particular.”—Of what crises cues th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804081801:0249/pct:77.59146341463415,60.324675324675326,17.53048780487805,4.584415584415584/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804081801:0249/pct:77.57668127262336,60.31684196857551,17.53349844414809,4.588148725273774/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3288,7 +3288,7 @@ accompanied by some falsehoods. He may
 aave supposed himself under a necessity of act­  
 ngas he has done. I hope the grounds of hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025007:00414216493:1834051401:0465/pct:42.636268343815516,53.228388473852725,19.051362683438157,40.661686232657416/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025007:00414216493:1834051401:0465/pct:42.63068256255732,53.223654957759,19.053233765666622,40.6610345338669/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3346,7 +3346,7 @@ of our public affairs which seem likely to hap- j
 pen, would probably be inseparable from a con­  
 formity to public prejudice, in this particular
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025007:00414216493:1834051401:0465/pct:61.7793501048218,3.04162219850587,19.156184486373167,24.759871931696907/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025007:00414216493:1834051401:0465/pct:61.771256386741776,3.041351711871943,19.15804183588803,24.76063435601008/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3981,7 +3981,7 @@ Burr.&quot;
 It will be seen from this, that Hamilton was  
 fully aware of the folly and criminality of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1838032401:0157/pct:21.282177406132153,35.554788213627994,18.396458435809148,20.108195211786374/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1838032401:0157/pct:21.287642782969886,35.56246163290362,18.390993058971414,20.108195211786374/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4840,7 +4840,7 @@ public atfairs w hich seem likij&#x27; to happen, would
 probably be inseparable frouti conformity with  
 a public prejudice in this parfcular.” A. If. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00279550304:1846092501:0512/pct:37.7082079068834,35.810764484058964,15.2317880794702,56.1124442920809/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00279550304:1846092501:0512/pct:37.70442460118391,35.808309337721106,15.233604227283369,56.11088258147082/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5099,7 +5099,7 @@ fairs which seem likely to happen, would prob­
 ably be inseparable from a conformity with a  
 public proludicn in this partienla
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776956:1846101601:0333/pct:34.27091043671354,29.342277964124253,97.55736491487787,339.09873122356714/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776956:1846101601:0333/pct:8.570899666790078,7.335569491031063,24.39837097371344,84.77468280589179/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5129,7 +5129,7 @@ public affairs which are likely to happen, would
 probably be inseparable from a conformity with  
 prejudice in this particulal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530352:1851091301:0510/pct:58.5213467545991,196.24985212350646,46.71988892745574,8.352064355849993/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530352:1851091301:0510/pct:19.507115584866366,65.41661737450215,15.573296309151916,2.784021451949998/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5160,7 +5160,7 @@ ses ot our public affairs which are likely to
 happen, would probably be inseparable from a  
 conformity with prejudice in this particular
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851091601:0462/pct:32.44950703551259,50.74678950307091,12.61606202737628,8.242601898380792/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851091601:0462/pct:32.446401225114855,50.74324795868518,12.618044920877999,8.244352943913276/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5194,7 +5194,7 @@ The grounds of YVeehawK, on tne Jersey
 shore, opposite New ^ork were at that time  
 the usual field of these single combats, the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851091601:0462/pct:32.39207427969752,62.953657174762704,12.606489901407102,8.563651591289782/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851091601:0462/pct:32.388973966309344,62.94926373089539,12.60847371107708,8.565380231232698/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5326,7 +5326,7 @@ ses of our public affairs which scctn likely to
 happen, would probably be inseparable from a  
 conformity with prcjudico in this particular.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85026466:0020219798A:1851120301:0089/pct:62.828947368421055,66.36021267168807,25.422932330827066,6.357997341603899/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85026466:0020219798A:1851120301:0089/pct:41.89252702490992,44.24014178112539,16.951276829077237,4.242357111209571/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5352,7 +5352,7 @@ general principles and temper in relation to such
 affairs, had he come to the resolution which he  
 left on record, and communicated also to his sec
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85026466:0020219798A:1851120301:0089/pct:62.75062656641604,80.81524147097917,25.454260651629074,10.788657509968985/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85026466:0020219798A:1851120301:0089/pct:41.84552718157606,53.87682764731945,16.966943443521856,7.199822773593265/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5383,7 +5383,7 @@ seems likely to happen, would probably
 be inseparable from a conformity with pre­  
 judice in this particular.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1852012901:0356/pct:248.15650865312264,97.59683347469607,46.896162528216706,13.867684478371501/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1852012901:0356/pct:62.027459093473766,24.395759717314487,11.721835621591122,3.4664310954063606/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5418,7 +5418,7 @@ The grounds of Wechawk on the Jer­
 sey shore, opposite New York, were at  
 that time the usual field of these singl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1852012901:0356/pct:248.45748683220467,131.41080011309018,45.84273890142965,39.82188295165395/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1852012901:0356/pct:62.10268948655257,32.84805653710247,11.45852924581531,9.954063604240282/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5475,7 +5475,7 @@ which seem likely to happen, would
 probably be ins eparable from a confor  
 mity with prejudice in this particular.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777791:1852021101:0449/pct:105.96330275229357,50.30750307503075,87.8440366972477,334.44034440344404/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777791:1852021101:0449/pct:26.490825688073393,12.576875768757688,21.961009174311926,83.61008610086101/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5609,7 +5609,7 @@ which seem likely to happen, would proba­
 bly be inseparable from a conformity with  
 prejudice in this particular.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83021380:00279523878:1855071301:0295/pct:218.74048442906573,229.30644165466146,33.60553633217993,32.45523770323112/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83021380:00279523878:1855071301:0295/pct:72.90340437309715,76.42761600987755,11.200295230187287,10.81729944781699/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5628,7 +5628,7 @@ ever give me pain to be obliged to shed the blood of
 a fellow-creature in a private combat forbidden by  
 the laws.&quot; Such were no doubt the views and sen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022640:1856051401:0080/pct:43.47701149425287,62.73906353044625,20.0,3.7700593537041107/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022640:1856051401:0080/pct:32.619629257077165,47.05429764783469,15.0021554821095,2.835788085293471/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5647,7 +5647,7 @@ ever give me pain to be obliged to shed the blood of
 a fellow-creature in a private combat forbidden by  
 the laws.&quot; Such were no doubt the views and sen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022755:1856051401:0159/pct:43.614219881500986,64.97718584289062,19.947333772218563,3.7982488592921446/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022755:1856051401:0159/pct:32.72966743496872,48.73597237637193,14.965426407639118,2.8486866444691086/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5907,7 +5907,7 @@ those crises of our public affairs which seem likely to hap-
 pen would probably be inseparable from a conformity  
 with prejudice in this particular. The mecting too
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_euclid_ver01:data:sn83030214:00206530893:1868071301:0504/pct:150.6544094733562,170.2717570689845,47.74072919912745,7.73462427109693/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_euclid_ver01:data:sn83030214:00206530893:1868071301:0504/pct:50.21813649111873,56.75725235632816,15.913576399709152,2.5782080903656435/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5948,7 +5948,7 @@ affairs which seem, likely to happen, would
 probably be inseparable from a conformity  
 with prejudice in this particular.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416157108:1868120901:0183/pct:186.65413533834587,133.72194695424074,83.55263157894737,18.53686971728359/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416157108:1868120901:0183/pct:46.685472496473906,33.430486738560184,20.89797837329572,4.6342174293208975/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5969,7 +5969,7 @@ Burr a double opportunity to pause and reflect.&quot;
 Burr wrote an equally long farewell letter to his &quot;dear  
 Thesdosas.  Merd rrar wil be colsbrated the cent
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crowfoot_ver01:data:sn83030313:00271743907:1875080901:0459/pct:151.33958472873408,198.8193892609831,52.09310113864702,12.464524917697808/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crowfoot_ver01:data:sn83030313:00271743907:1875080901:0459/pct:50.44652824291136,66.27312975366102,17.364367046215673,4.154841639232603/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6022,7 +6022,7 @@ would probably be inseparable from a
 conformity with prejudice in this par  
 ticular.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_oddish_ver01:data:sn88064616:00295878605:1876052201:0107/pct:67.03194650817237,41.16889804325438,43.62927191679049,17.224510813594232/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_oddish_ver01:data:sn88064616:00295878605:1876052201:0107/pct:22.343982169390788,13.722966014418125,14.543090638930163,5.7415036045314105/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6048,7 +6048,7 @@ happen, would probably be inseparable
 from a conformity with prejudice in thi  
 particular.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_juliet_ver01:data:sn85033413:00211101179:1876052301:1342/pct:150.96525096525096,80.95170655714487,51.58301158301158,25.548789123353632/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_juliet_ver01:data:sn85033413:00211101179:1876052301:1342/pct:37.74131274131274,20.23792663928622,12.895752895752896,6.387197280838408/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6084,7 +6084,7 @@ would probably be inseparable from a
 conformity with prejudice in this par­  
 ticular.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_engledinger_ver02:data:sn85033123:00514151258:1876060101:0444/pct:36.028714614655286,47.23993622957354,14.235405661655154,6.596253487445197/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_engledinger_ver02:data:sn85033123:00514151258:1876060101:0444/pct:36.028714614655286,47.24657898233028,14.244435414691408,6.5896107346884545/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6133,7 +6133,7 @@ crises of onr public affairs which seem likely to
 happen, noulil probably be inseparable from a  
 conformity with prejudice in this particular.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555651:1876060801:0627/pct:58.63570391872279,96.47897163616041,16.50943396226415,4.904289506776582/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555651:1876060801:0627/pct:44.000726084588855,72.36272181081459,12.39789435469232,3.6747240463881514/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6246,7 +6246,7 @@ wife and children are extremely dear
 to me,*and my life is the utmost im­  
 portance to them in various views,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quiring_ver01:data:sn89064939:00206537929:1879122401:0224/pct:27.44874715261959,23.065792012348062,10.895975702353834,5.074281304263939/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quiring_ver01:data:sn89064939:00206537929:1879122401:0224/pct:27.44874715261959,23.072223294102514,10.895975702353834,5.080712586018393/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6270,7 +6270,7 @@ our public affairs which seem likely to hap­
 pen, would probably be inseparable from a  
 conformity with public prejudice in this mat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_asburypark_ver01:data:sn84026089:00514155872:1880070701:0690/pct:18.546323153045556,75.88131210017694,12.028664050503327,4.478018238736899/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_asburypark_ver01:data:sn84026089:00514155872:1880070701:0690/pct:18.54315933128625,75.87098530212303,12.030876833845104,4.480811105062602/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6311,7 +6311,7 @@ wen likely to happen, &gt;*ould probably
 be inseparable from a conform tv with  
 public prejudice in this particular
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_duwamish_ver01:data:sn87093109:00200291001:1880080501:0264/pct:21.59313725490196,69.90258649647296,16.397058823529413,10.749076251259657/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_duwamish_ver01:data:sn87093109:00200291001:1880080501:0264/pct:21.59313725490196,69.9067853543836,16.415441176470587,10.770070540812899/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6357,7 +6357,7 @@ seem likely to happen, would probably
 be inseparable from a conform ty with  
 public prejudice in this particular
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn84022761:no_reel:1880080601:1821/pct:120.0371920037192,176.983035304906,50.86006508600651,65.78022313923277/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn84022761:no_reel:1880080601:1821/pct:40.012397334573066,58.99434510163533,16.953355028668835,21.92674104641092/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6460,7 +6460,7 @@ crises of our public affairs which seem likely
 to happen, would probably be inseparable from  
 a conformity with public prejudice in this par
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044796:1882090301:0020/pct:130.9433962264151,119.3466207103252,49.886792452830186,8.991458114790948/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044796:1882090301:0020/pct:32.735849056603776,29.8366551775813,12.471698113207546,2.247864528697737/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6596,7 +6596,7 @@ others, have made very unfavorable criticisms
 on particular instances of the private conduct  
 of this &quot;(the sarcasm of it) gentleman.&quot; Ham
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_rumi_ver01:data:sn83030272:00206539021:1899090401:0268/pct:334.4286781179985,191.17468046256846,50.03734129947722,11.868533171028606/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_rumi_ver01:data:sn83030272:00206539021:1899090401:0268/pct:83.63840119536795,47.793670115642115,12.51400821815465,2.9671332927571514/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

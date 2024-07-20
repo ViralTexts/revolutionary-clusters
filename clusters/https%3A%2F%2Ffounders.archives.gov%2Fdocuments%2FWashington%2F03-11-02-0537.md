@@ -56,7 +56,7 @@ this article permit, I would transcribe the
 entire letter, as one of the most extraordi­  
 nary documents relating to the war of In
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026050:00280775782:1855042701:0074/pct:40.931189229618546,52.768189976529065,16.884816753926703,6.516636752726771/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026050:00280775782:1855042701:0074/pct:30.720299345182415,39.58304569929587,12.684752104770814,4.887477564545078/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -83,7 +83,7 @@ letter to Francis Hopkinson, the signer of
 Declaration, and also a brother-in-law  
 Duche, Washington shows that he fear
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026050:00280775782:1855042701:0074/pct:40.6320119670905,100.64890238851305,16.73522812266268,9.415987850338258/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026050:00280775782:1855042701:0074/pct:30.495790458372312,75.49358000828386,12.572497661365762,7.0688941046527685/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

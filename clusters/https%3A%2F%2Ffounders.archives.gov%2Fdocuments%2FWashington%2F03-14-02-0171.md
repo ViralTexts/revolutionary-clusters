@@ -48,7 +48,7 @@ cution of them. As the General&#x27;s guard is com­
 posed of Virginians, the hundred draught will  
 be taken from the troops of the other States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215750:1844111501:0268/pct:69.68641114982579,10.717437046087015,14.444997511199603,3.92995316636123/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215750:1844111501:0268/pct:69.67947441767868,10.716709651147006,14.446877695932045,3.9319487805981628/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -70,7 +70,7 @@ them. As the General&#x27;s Guard is composed of
 Virginians, tho hundred drafts will be taken from  
 the troops of the other States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855051801:0638/pct:80.99388095679585,27.936587192610162,15.483033562024847,3.8322306828111348/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855051801:0638/pct:80.99388095679585,27.944909083343735,15.489214413746215,3.8322306828111348/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -138,7 +138,7 @@ and cerve as models for the execution of them. As the
 eneral&#x27;s Guard is composed of Virginians, the hundred  
 drafts will be taken from the troops of the other States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_pearse_ver01:data:sn82015753:00212475373:1855090401:0225/pct:94.75,108.26005025125629,38.1875,7.396356783919598/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_pearse_ver01:data:sn82015753:00212475373:1855090401:0225/pct:31.583333333333332,36.086683417085425,12.729166666666666,2.465452261306533/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -182,7 +182,7 @@ into the army and serve as models for the execution of
 them.&quot;  
 In the description of the men to be selected, we find
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184674:1856040301:0180/pct:92.97250109122653,83.74021188392446,38.07653135457588,6.955320128972824/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184674:1856040301:0180/pct:30.986325283677626,27.91018998272884,12.690330714770633,2.318173095375168/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

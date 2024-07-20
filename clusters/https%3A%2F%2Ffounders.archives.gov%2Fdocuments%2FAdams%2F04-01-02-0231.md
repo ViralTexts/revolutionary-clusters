@@ -98,7 +98,7 @@ And wo must take the current when it serves,
 Our lose our ventures.  
 Shakespeare
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184340:1832091801:0314/pct:21.45506419400856,60.37487668530089,13.366619115549215,3.7926120793598597/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184340:1832091801:0314/pct:21.452003993724148,60.368259535291536,13.369467028003614,3.7958497734911587/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -400,7 +400,7 @@ And we must take the current when it serves,
 Or lose our ventures.  
 Shaks. Julius Casar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn87065704:00295877571:1850082901:0693/pct:89.76231386025201,4.608246335547823,18.699885452462773,5.704945692291469/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn87065704:00295877571:1850082901:0693/pct:67.34460040103123,3.4588210481915005,14.03609281008307,4.281345565749236/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

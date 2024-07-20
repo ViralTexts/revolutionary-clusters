@@ -208,7 +208,7 @@ an important resource ; and that tberelore the said States
 be earnestly pressed, by immediate and liberal cessions,  
 to forward these necessary ends, and to promote the har
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn82015677:00202191629:1852052001:0345/pct:27.97043010752688,42.27282310773772,19.247311827956988,10.120177103099305/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn82015677:00202191629:1852052001:0345/pct:20.984003226240088,31.70988825637782,14.437424384997984,7.590132827324478/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

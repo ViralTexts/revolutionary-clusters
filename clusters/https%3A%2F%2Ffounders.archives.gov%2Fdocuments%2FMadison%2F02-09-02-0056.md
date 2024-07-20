@@ -44,7 +44,7 @@ office subsequent to the 23-1 d:.y of January 1805,
 with the dates and general objects of such pa­  
 tents 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810121101:0262/pct:22.493175614194723,31.29836629406707,17.306642402183805,3.9552880481513326/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810121101:0262/pct:22.489082969432314,31.29452223041022,17.309558466763708,3.9588962580856464/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

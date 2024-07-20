@@ -94,7 +94,7 @@ ladies, we are determined a wkrtt.un
 and will not hold ourselves bound by auy laws  
 in which we have no voice or representation.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_farmington_ver01:data:sn83016025:00279525401:1876011301:0071/pct:84.28451882845188,58.323266489490216,11.297071129707113,5.77434162841266/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_farmington_ver01:data:sn83016025:00279525401:1876011301:0071/pct:84.27041499330656,58.31622176591376,11.299364123159304,5.776663848290856/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -128,7 +128,7 @@ will not hold ourselves bound by any
 laws in which we have no voice or  
 representation.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_bentley_ver01:data:sn83025733:00200297556:1876011601:0587/pct:132.69867549668874,375.60275545350174,50.66225165562914,18.82893226176808/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_bentley_ver01:data:sn83025733:00200297556:1876011601:0587/pct:33.18153591388946,93.90068886337544,12.668184640861105,4.70723306544202/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -166,7 +166,7 @@ mined to foment a rebellion and will nor
 bold ourselves bound by any laws in which  
 we have no voice or representation.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:00332895382:1876012001:0220/pct:84.81494292632307,55.209690023443606,10.861293670010378,5.652513675436311/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:00332895382:1876012001:0220/pct:84.80027667300709,55.20250032556322,10.8637385440083,5.655033207448887/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -214,7 +214,7 @@ foment a rebellion, and will not Inld our­
 selves bound by any laws in which we  
 have no voice or representation.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quasar_ver01:data:sn85025431:00212479731:1876012701:0018/pct:54.276568501920615,95.10901591043017,11.382842509603073,3.987428795914359/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quasar_ver01:data:sn85025431:00212479731:1876012701:0018/pct:51.563070186108746,90.35889780431673,10.825933584722053,3.7849101200472726/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -321,7 +321,7 @@ ment a rebellion, and will not hold our­
 selves bound by any laws in which we  
 have no voice or representation.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_palisade_ver02:data:sn84022046:00279553858:1876021701:0164/pct:113.08586426696662,320.8494208494208,42.76340457442819,44.13954771097628/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_palisade_ver02:data:sn84022046:00279553858:1876021701:0164/pct:28.266166822867852,80.20129601544188,10.688847235238988,11.033365503929408/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -345,7 +345,7 @@ have no voice or representation.&quot;
   
 The llartofd Times tells of a stnar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn84027186:00279528918:1876021801:0028/pct:86.76405489154493,80.15028901734104,10.078205695735576,3.953757225433526/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn84027186:00279528918:1876021801:0028/pct:86.77389208597708,80.15414258188825,10.073287098519502,3.9576107899807322/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -419,7 +419,7 @@ Agaiu, in tho following May, she says: &quot;I
 canhot say that I think you are very goneroai  
 to the ladies, for whifo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1876030301:0002/pct:85.88453389830508,60.54054054054054,13.188559322033898,9.70970970970971/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1876030301:0002/pct:85.89115466101696,60.55555555555556,13.201800847457626,9.694694694694695/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -454,7 +454,7 @@ will be necessary for you to m ike. I desire
 you would remember the ladies, and be  
 more generous and favorable to them than
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202197620:1876030801:0032/pct:80.20892151326935,104.7975352112676,29.64426877470356,2.8829225352112675/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202197620:1876030801:0032/pct:60.18923880807795,78.5981514084507,22.24262109871487,2.167693661971831/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -491,7 +491,7 @@ which we have no voice or representation. of ink, and by appropriate treatment a
 That vo ir sax are naturally tyrannical j bottle of ink was made from one of the  
 is ti truth so thoroughly established tis to samples of tea in question. What ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202197620:1876030801:0032/pct:65.40090344438171,107.71346830985915,59.61321287408244,19.014084507042252/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202197620:1876030801:0032/pct:49.07498940827567,80.78785211267606,44.73944358141505,14.26056338028169/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -511,7 +511,7 @@ and endearing one of friend. Why, then, iron filing tea has been received. Iron
 not put il out of the tower of the vicious &#x27; slowlv dissolved by the acid of the tea  
 and the lawless to use us with cruelty and &#x27; forms tannate of iron, and the color of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202197620:1876030801:0032/pct:80.1948051948052,113.38028169014085,29.71485036702428,3.5651408450704225/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202197620:1876030801:0032/pct:60.17511650896766,85.03521126760563,22.29911029515605,2.6848591549295775/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -606,7 +606,7 @@ lawless to use us with cruelty and
 indignity with impunity ?&quot;  
 Again in the following May, sh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_floydcouncil_ver01:data:sn84026909:00237287058:1876031501:0042/pct:73.94055825517007,28.348323793949305,11.865747542095152,18.887980376124286/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_floydcouncil_ver01:data:sn84026909:00237287058:1876031501:0042/pct:73.94809206313332,28.35377487053693,11.869514446076769,18.8907059144181/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -645,7 +645,7 @@ of the vicious and tbe lawless to use us
 with Cruelty and indignity with im­  
 punity ?&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_lyonsport_ver02:data:sn84022673:0020029841A:1876032401:0121/pct:75.42372881355932,28.619153674832962,16.672807663964626,15.590200445434299/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_lyonsport_ver02:data:sn84022673:0020029841A:1876032401:0121/pct:56.597862145226685,21.464365256124722,12.513822336896425,11.692650334075724/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -727,7 +727,7 @@ cruelty and indignity with impu­
 nity?&quot;  
 Again in the following May, sh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dorothea_ver01:data:sn86063984:00200292819:1876041901:1182/pct:239.93871297242083,81.10882956878851,66.9050051072523,67.14579055441479/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dorothea_ver01:data:sn86063984:00200292819:1876041901:1182/pct:59.98467824310521,20.277207392197127,16.726251276813073,16.786447638603697/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -748,7 +748,7 @@ beilion, and will not hold ourseives bound by laws in
 which we have no voice or representation.&quot;  
 evolted, That the men of this nation are politica
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:00206533481:1876051201:0057/pct:218.2089552238806,208.60023724792407,48.80597014925373,8.659549228944247/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:00206533481:1876051201:0057/pct:54.58278887436998,52.15005931198102,12.208325555348143,2.1648873072360617/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -768,7 +768,7 @@ their fellow creatures of liberty;&quot; that,
 as Abigail Adams predicted, &quot;We are  
 determined to foment a rebellion, au
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_lyonsport_ver02:data:sn84022673:0020029841A:1876060901:0165/pct:75.8029197080292,111.54753643303262,16.33211678832117,3.7196391394864676/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_lyonsport_ver02:data:sn84022673:0020029841A:1876060901:0165/pct:56.871691914582954,83.66412213740458,12.246760357729512,2.7897293546148507/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -972,7 +972,7 @@ frlena. Why, thou, not put it out of tno power
 of the vicious and lawless to use us with cruelty  
 and Indignity, with Impunity!” In &amp; later lette
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pulaski_ver01:data:sn84031492:no_reel:1879010401:0010/pct:29.499866274404923,37.55528749497386,13.265579031826691,6.3731403297145155/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pulaski_ver01:data:sn84031492:no_reel:1879010401:0010/pct:29.506552554158866,37.5653397667873,13.265579031826691,6.3681141938078/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1053,7 +1053,7 @@ to foment a rebellion, and will not hold ourseives
 bound to ebey any laws in which we have no voice  
 or representation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_rolls_ver01:data:sn83030214:00175039867:1881070301:0030/pct:106.59634526816224,79.20735861912333,45.68414797206953,18.328412446059506/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_rolls_ver01:data:sn83030214:00175039867:1881070301:0030/pct:35.53211508938741,26.40245287304111,15.228049324023177,6.109470815353168/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1089,7 +1089,7 @@ a rebellion, and will not hold ourselves
 bound by any laws in which we have  
 no voice or representation. While
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_dayton_ver01:data:sn86076999:00415627373:1881111501:0053/pct:6.448247078464107,38.54545454545455,22.725375626043405,10.377622377622378/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_dayton_ver01:data:sn86076999:00415627373:1881111501:0053/pct:4.842412857441035,28.90909090909091,17.052807347109162,7.79020979020979/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1190,7 +1190,7 @@ to foment a rebellion, and will not hold
 ourselves bound to obey any law in which  
 we have no voice or representation.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_dunning_ver01:data:sn84022835:00237285025:1882090101:0096/pct:93.13984168865436,170.01739130434783,55.27704485488127,35.66376811594203/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_dunning_ver01:data:sn84022835:00237285025:1882090101:0096/pct:23.29648572842765,42.504347826086956,13.826101303415278,8.915942028985507/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1370,7 +1370,7 @@ rons of the Revolution, the wife of one
 President and the mother of another,  
 pleading for those rights which ou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_dole_ver01:data:sn83040340:00237283211:1889051701:0269/pct:63.72077028885832,49.563014566181124,18.019257221458048,19.07536415452818/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_dole_ver01:data:sn83040340:00237283211:1889051701:0269/pct:42.50085999312005,33.04623179227359,12.022703818369454,12.716909436352122/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1414,7 +1414,7 @@ rons of the Revolution, the wife of one
 President and the mother of another,  
 pleading for those rights which ou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_hubble_ver01:data:sn84022982:00513688660:1889052501:0078/pct:84.5210403890886,33.30696202531646,12.412772256290971,13.00632911392405/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_hubble_ver01:data:sn84022982:00513688660:1889052501:0078/pct:84.5210403890886,33.31751054852321,12.419820962853317,13.00632911392405/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1439,7 +1439,7 @@ lion, and will not hold ourselves bound t© obey any
 laws in which we have no voice or representation.”  
 Thus Miss Smith comes honestly by her belief i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_blackhole_ver01:data:sn90050094:00513687886:1889113001:0685/pct:38.284985655084476,81.67043818144414,27.382849856550845,12.363711170541041/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_blackhole_ver01:data:sn90050094:00513687886:1889113001:0685/pct:38.30623738178727,81.67043818144414,27.36159812984805,12.377425769731879/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1472,7 +1472,7 @@ sessed of &quot;inalienable rights,&quot; so they
 ignored their claims. Mrs. Adams was one  
 of the strong-minded revolutionary women
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_eisenhower_ver01:data:sn84024546:0023728205A:1891071201:0128/pct:51.277624309392266,92.70876899484176,15.037983425414364,11.152934615920815/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_eisenhower_ver01:data:sn84024546:0023728205A:1891071201:0128/pct:38.47349335175272,69.53854733026628,11.276118114315317,8.36470096194061/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1526,7 +1526,7 @@ would remember the ladies and be more
 generous and be more favorable to them  
 than your ancestors.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_faribault_ver01:data:sn90059522:00206538685:1893021201:0444/pct:14.809096013475575,70.72963199319294,10.654126895002808,2.818549244841523/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_faribault_ver01:data:sn90059522:00206538685:1893021201:0444/pct:14.809096013475575,70.733177338155,10.654126895002808,2.8291852797277177/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1641,7 +1641,7 @@ lawless to use us with cruelty and indignity
 with impunity?&quot;  
 Does any one suppose that if the advic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_havanese_ver01:data:sn83045462:0028065498A:1895022201:0598/pct:15.096557514693535,79.11757332664828,13.333333333333334,2.4442216094259215/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_havanese_ver01:data:sn83045462:0028065498A:1895022201:0598/pct:15.104953820319059,79.11757332664828,13.337531486146096,2.447355226873903/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1671,7 +1671,7 @@ the vicious and tho lawless to uso us with
 cruelty and indignity with impnnity.&quot;  
 Docs nnyono snppose that if tho advico o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_franklin_ver01:data:sn82016187:00211102342:1895022801:0102/pct:74.73219068023568,31.819095477386934,17.005891805034814,7.49748743718593/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_franklin_ver01:data:sn82016187:00211102342:1895022801:0102/pct:56.059997321548146,23.86934673366834,12.762823088254988,5.628140703517588/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1723,7 +1723,7 @@ you to make I desire that you will remem
 her the women and he more generous and  
 honorable to them than your ancestor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_lucretia_ver01:data:sn86086852:00271768953:1895072501:0649/pct:6.22680412371134,78.0936684521357,18.68041237113402,3.831891223733004/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_lucretia_ver01:data:sn86086852:00271768953:1895072501:0649/pct:4.831149462021945,60.52864999113003,14.472142324491317,2.9661167287564307/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1752,7 +1752,7 @@ and will not hold ourselves hound by any
 laws in which we have no voice or repre­  
 sentation.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_ogilby_ver01:data:sn85042461:00280769642:1895112801:0381/pct:31.436837029893926,16.44542772861357,12.131147540983607,6.135693215339233/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_ogilby_ver01:data:sn85042461:00280769642:1895112801:0381/pct:31.436837029893926,16.44542772861357,12.14079074252652,6.146755162241888/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1809,7 +1809,7 @@ mined to foment a rebrllion, and will
 not hold ourselves bound to obey any  
 laws in which we have no voice and rep
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_isner_ver01:data:sn86092523:00414186877:1896090601:0739/pct:59.34997644842205,9.412015793405185,13.361595226880201,6.338704513925942/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_isner_ver01:data:sn86092523:00414186877:1896090601:0739/pct:59.34065934065934,9.41101152368758,13.36473050758765,6.341584862711623/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1956,7 +1956,7 @@ will not hold ourselves bound to obey
 laws in which- we have no voice or  
 representation.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lydia_ver01:data:sn87080287:00296028794:1898082901:0079/pct:17.11149375807146,90.0017208742041,12.204046491605682,5.024952675959387/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lydia_ver01:data:sn87080287:00296028794:1898082901:0079/pct:17.118668388577987,90.0017208742041,12.204046491605682,5.0364251706533585/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1979,7 +1979,7 @@ paid the ladies . . . we will not hold
 ourselves bound to obey laws in which  
 we have no voice or representation.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_belair_ver01:data:sn89060136:00279522576:1898090201:0615/pct:39.268680445151034,32.060957910014515,16.47456279809221,5.950653120464441/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_belair_ver01:data:sn89060136:00279522576:1898090201:0615/pct:30.437907490117563,24.850961718720708,12.782997073771755,4.608001199805032/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2054,7 +2054,7 @@ und by any laws in which we have no voice
 of representation.&quot;  
 brlard lenry lee of Virginia, wrote to he
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_rumi_ver01:data:sn83030272:00206539045:1899111901:0280/pct:3.218390804597701,318.72939766257116,48.65900383141762,24.27329937069224/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_rumi_ver01:data:sn83030272:00206539045:1899111901:0280/pct:0.8050603795284647,79.68234941564279,12.171746214299406,6.06832484267306/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

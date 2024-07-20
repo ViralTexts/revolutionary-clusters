@@ -132,7 +132,7 @@ of mankind, GEORGE WASHINGTON.—
 If it were a sceptre, he has merited it, and  
 would become it.”—[ Last clause in Dr. Frank
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152743:1834092501:0948/pct:84.13245946878234,10.793415026612205,15.350120731286651,4.072286174031439/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152743:1834092501:0948/pct:84.14395768655858,10.797540949787514,15.350120731286651,4.07641209720675/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -217,7 +217,7 @@ ited it, and would become it.”
 Mr. Samuel Washington has loth the  
 stronl ami llie cane in an excellent state o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348975:1842112401:0396/pct:84.84570168993388,73.92675901796736,13.041880969875091,4.279248388424085/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348975:1842112401:0396/pct:84.83011937557391,73.91662095447066,13.044077134986226,4.282089961601756/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -246,7 +246,7 @@ stronl ami llie cane in an excellent state o
 &quot; Wellington. If ii were a sceptre, he has merited it,  
 &quot;and wouid become it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664266:1842112501:0320/pct:65.91394568202624,63.85818145603027,16.12755569118096,2.380241011851409/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664266:1842112501:0320/pct:65.91394568202624,63.86482090097268,16.13264164377988,2.3769212893802076/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -267,7 +267,7 @@ he has merited it, and would become it.&quot;
 Mr. Samuel Washington has both the srrord and  
 the cane in an excellent stntc of preservation, ns 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_larrybird_ver01:data:sn86058217:00271744742:1842112601:0584/pct:52.7972027972028,30.38182564664021,23.111888111888113,5.501573833310524/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_larrybird_ver01:data:sn86058217:00271744742:1842112601:0584/pct:39.60482601853471,22.786369234980157,17.345689805910123,4.1330231285069114/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -315,7 +315,7 @@ Mr. Samuel B&#x27;ashington has both the
   
 ssard and the cane in an excellent stute o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn85025180:00237287939:1842121001:0224/pct:92.66331658291458,267.2866157422783,73.36683417085428,20.458319495184323/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn85025180:00237287939:1842121001:0224/pct:23.165829145728644,66.82165393556957,18.34170854271357,5.114579873796081/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -367,7 +367,7 @@ Liberty, I give to my friend, and the friend of mankind,
 General Washsngtcn. If it were a sceptre, he  
 has merited it, and would become it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661307:1843020801:0135/pct:3.2854919591907317,80.92229943145925,15.908697907660384,4.459886291850916/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661307:1843020801:0135/pct:3.2854919591907317,80.93072225731733,15.920225949622457,4.459886291850916/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -390,7 +390,7 @@ Liberty, I give to my friend, and the friend of j
 mankind, General Washington. If it were a i  
 sceptre, he has merited it, and would become it.” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215725:1843020901:0141/pct:17.244796828543112,80.52574378481185,15.12388503468781,4.4355386496399944/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215725:1843020901:0141/pct:17.243087900109007,80.5202744005977,15.125689558352327,4.437501415019584/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -412,7 +412,7 @@ give to my friend, and the friend of mankind, Gen. Wash
 ington. If it were a sceptre he has merited it, and would  
 become it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743178:1843021001:0180/pct:145.97626402211023,251.50086256469234,45.69988619736628,9.522714203565267/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743178:1843021001:0180/pct:48.65875467403674,83.83362085489745,15.233295399122094,3.174238067855089/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -452,7 +452,7 @@ rously wrought in the form of the Capot hibeny, I give to
 my friend, and the friend of mankind, Gen. Washington  
 If it were a sceptre, he has merited it, and would become it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530170:1843021101:0674/pct:52.966288826733404,30.429805390779478,48.932724863830416,12.248933291705693/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530170:1843021101:0674/pct:17.655429608911135,10.14326846359316,16.31090828794347,4.082977763901898/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -473,7 +473,7 @@ wrought in the form of the cap of liberty. I give to my friend, and
 the friend of mankind, General Washington. If it were a sceptre,  
 he has merited it, and would become it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184613:1843021101:0144/pct:90.85285019885109,157.26337686351553,38.9453527765503,7.188258407488732/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184613:1843021101:0144/pct:30.27982326951399,52.41506817656575,12.97987236131566,2.395809259687235/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -494,7 +494,7 @@ I give to my friend, and the friend of mankind, Gen.
 Washington. If it were a sceptre, he has merited it,  
 and would become it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664266:1843021101:0453/pct:52.06054248463959,44.81348493915819,15.690094410310206,3.1617793736285655/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664266:1843021101:0453/pct:52.06054248463959,44.82013431744132,15.70008491932664,3.1584546844870003/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -517,7 +517,7 @@ liberty, I give to my friend, and the friend of man­
 kind, General Washington. If it were a scepire,  
 he has merited it, and would become it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186439:1843021101:0128/pct:57.34189104571071,239.89077669902912,43.31559173450219,13.446601941747574/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186439:1843021101:0128/pct:19.110971983095947,79.95388909112971,14.436270673553503,4.481656756866077/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -599,7 +599,7 @@ the friend of mankind, George Washington.
 It it were a sceptre, he has merited it, and  
 would become it.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153255:1843021501:0059/pct:31.672363923218512,46.38085742771685,12.647909545095978,4.795613160518445/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153255:1843021501:0059/pct:31.676746428258394,46.38085742771685,12.652292050135857,4.805583250249252/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -637,7 +637,7 @@ oo e ee o o
 only son of Charles Washington, the  
 isee, from whom he derived, by inner
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1843021601:0030/pct:123.01158301158301,178.41227484989994,59.45945945945946,48.725817211474315/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1843021601:0030/pct:30.752895752895753,44.603068712474986,14.864864864864865,12.181454302868579/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -680,7 +680,7 @@ Liberty, I give to my friend, and the friend of mian­
 kind, Gena Washington. If it were a scepire, he  
 has merited it and would become it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1843021701:0698/pct:322.6356589147287,142.9389859639072,56.35658914728682,18.218275565740477/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1843021701:0698/pct:80.65891472868218,35.7347464909768,14.089147286821705,4.554568891435119/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -746,7 +746,7 @@ of mankind, General Washington. If it were
 a sceptre, he has merited it, and would become  
 it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn85054702:00280776002:1843021801:0532/pct:133.1373989713446,187.7842940924045,57.3842762674504,26.662852238592475/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn85054702:00280776002:1843021801:0532/pct:33.28434974283615,46.94607352310113,14.3460690668626,6.665713059648119/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -800,7 +800,7 @@ give to my friend and the friend of mankind General
 Washington. if it were a sceptre, he has merited it,  
 and would becothe it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347892:1843022001:0644/pct:202.1174205967276,337.80129335684893,61.23195380173244,17.47501469723692/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347892:1843022001:0644/pct:50.519630484988454,84.43791329904482,15.305042340261739,4.368111682586334/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -824,7 +824,7 @@ Liberty, I give to my friend, and the friend of
 mankind, Gen Washington. If it were a sceptre,  
 he has merited it, and would become it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84022355:00200290112:1843022101:0460/pct:181.8926296633303,182.46034121520503,72.24749772520474,18.377731218198143/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84022355:00200290112:1843022101:0460/pct:45.4835039817975,45.61508530380126,18.06598407281001,4.594432804549536/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -854,7 +854,7 @@ and the friend of mankind, Gen. Wasbing­
 son. If it were a sceptre. ho has merited  
 it, and would become it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn84026897:00237288324:1843022201:0343/pct:76.13482384823848,22.98086836980181,14.939024390243903,3.5284683239775463/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn84026897:00237288324:1843022201:0343/pct:76.13482384823848,22.988505747126435,14.950316169828366,3.5284683239775463/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -907,7 +907,7 @@ tre, he has merited it and would become it.&quot;
 General Washington, in  
 &quot;Item. To my brother, Charles Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:0041566770A:1843022301:0247/pct:63.748894783377544,22.11524434719183,118.47922192749779,355.5361050328228/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:0041566770A:1843022301:0247/pct:15.940747291620605,5.528811086797957,29.626354189697103,88.8840262582057/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -929,7 +929,7 @@ Liberty, I give to my friend and the friend of man­
 kind, George Washington. If it were a sceptre,  
 he has merited it, and would become it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023294:00200296096:1843022401:0590/pct:23.89830508474576,178.38642453111044,59.49152542372882,16.135754688895506/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023294:00200296096:1843022401:0590/pct:5.97457627118644,44.59660613277761,14.872881355932204,4.033938672223877/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -995,7 +995,7 @@ the friend of mankind, Gen. Washington—
 If it were a sceptre, he has merited it, and  
 would become it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182951:1843030201:0626/pct:43.49011588275392,51.93651718112988,17.677800499886388,5.198019801980198/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182951:1843030201:0626/pct:43.48023625624716,51.92895617993886,17.67946388005452,5.2009026059106125/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1141,7 +1141,7 @@ kind, General Washington. If it were a
 sceptre ho has merited it, and would become  
 it.” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393349001:1851061701:0071/pct:53.878406708595385,38.72871127799383,12.700908455625436,3.6341692369585625/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393349001:1851061701:0071/pct:53.86899563318777,38.723518369536066,12.703056768558952,3.6370340573880395/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1176,7 +1176,7 @@ adding, “ that if it had been a sceptre, he has
 merited it, and would become it.” General  
 Washington has a fame beyond the price o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn84026882:00279557414:1853121501:0020/pct:38.491432609079666,72.52000970167354,15.809927574633457,6.148435605141887/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn84026882:00279557414:1853121501:0020/pct:38.49584878996644,72.52000970167354,15.814343755520227,6.157530924084405/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1204,7 +1204,7 @@ had been a sceptre he has merited it,
 and would become it,’ General Wash­  
 ington has a fame beyond ihe price o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn93052998:00279557347:1853122401:0028/pct:59.58482829318298,57.764078640453185,17.478216299333674,8.847050983005666/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn93052998:00279557347:1853122401:0028/pct:59.59764223475141,57.77657447517494,17.471809328549462,8.834555148283906/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1271,7 +1271,7 @@ and would become it. Thrope’s “ Catalogue of Au­
 tographs, ” (1843,) includes a letter from Miss Smith,  
 of Arundale, forwarding to the Earl of Buchan “ 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_collins_ver01:data:sn83030364:print00211110077:1857051701:0006/pct:44.907245362268114,36.731287713442036,11.98809940497025,3.9671331364745153/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_collins_ver01:data:sn83030364:print00211110077:1857051701:0006/pct:44.91599579978999,36.74091667736552,11.992474623731187,3.960713827192194/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1296,7 +1296,7 @@ and -would become it. Thrope’s “ Catalogue of Au­
 tographs,” (1843,) includes a letter from Miss Smith,  
 of Arundale, forwarding to the Earl of Buchan “ 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_collins_ver01:data:sn83030364:print00211110077:1857052401:0006/pct:44.69803370786517,36.54422788605697,12.043539325842696,3.8605697151424287/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_collins_ver01:data:sn83030364:print00211110077:1857052401:0006/pct:44.706811797752806,36.55047476261869,12.047928370786517,3.866816591704148/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1315,7 +1315,7 @@ franklin to his &quot;friend, and the friend of mankind, Geniral
 Washington. If it were a sceptre, he has merited it,  
 ind would become it.&quot; The cose containing these relic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82006534:00415661113:1858062701:0880/pct:32.596245625198854,70.22592452353906,15.987909640470887,3.0670200681560016/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82006534:00415661113:1858062701:0880/pct:32.596245625198854,70.22592452353906,16.00381800827235,3.071227228743321/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1358,7 +1358,7 @@ ilocil to his will, &quot;to the friend of mankind, Gen.
 Washington ;&quot; adding, &quot;that if it were a sceptre,  
 be has merited it and would become it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015486:0029455564A:1872031401:0405/pct:73.54014598540147,72.61887863733143,16.751824817518248,4.854506742370475/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015486:0029455564A:1872031401:0405/pct:55.174301879905094,54.46415897799858,12.557035955466326,3.6479772888573456/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1420,7 +1420,7 @@ friend, and the friend of mankind, Gen. Washing­
 ton. If it were a sceptre he has merited it and  
 would become it.” This eano Gen. Washingto
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_indianhead_ver01:data:sn83016368:00415627567:1884042601:0075/pct:38.947669430940806,17.488508148767238,11.080926508435802,2.95653990806519/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_indianhead_ver01:data:sn83016368:00415627567:1884042601:0075/pct:38.952435420836906,17.488508148767238,11.080926508435802,2.963504666388076/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1446,7 +1446,7 @@ has merited it, and would becomo it.&quot;
 The noble tributes of othor ominent men  
 were then mentioned in the oration. L
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn82014424:00211102834:1885022101:0184/pct:273.71475953565505,281.5447926559038,47.8441127694859,16.967394745172523/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn82014424:00211102834:1885022101:0184/pct:68.45707175445872,70.38619816397595,11.965989216092908,4.241848686293131/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1467,7 +1467,7 @@ friend aud the friend of mankiud, George
 Washington. If it were a sceptre, he has  
 merited it, and would become It
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_newfoundland_ver04:data:sn83045462:00280654632:1885022101:0630/pct:82.11403980634749,54.239314536216,14.21463152232383,2.61034173557836/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_newfoundland_ver04:data:sn83045462:00280654632:1885022101:0630/pct:82.11740182894029,54.239314536216,14.217993544916622,2.620304871973697/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1488,7 +1488,7 @@ friend and the fritnd ot mankind,
 George Washington. It it were a scep­  
 ter, be has merited It, and would become it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_hotel_ver01:data:sn87076916:00237289262:1885022101:0241/pct:43.96417445482866,45.78784202722739,16.082554517133957,4.097587275913196/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_hotel_ver01:data:sn87076916:00237289262:1885022101:0241/pct:32.98928919182084,34.34425124679876,12.074001947419669,3.073190456934897/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1513,7 +1513,7 @@ tre he has merited it, and would
 come it.&quot;  
 &quot;Happy, happy America. w
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_tesla_ver01:data:sn85038614:00175030876:1885022201:0193/pct:220.19446522064322,9.048898441698011,66.49214659685863,286.43739924771626/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_tesla_ver01:data:sn85038614:00175030876:1885022201:0193/pct:73.39815507354774,3.016299480566004,22.164048865619545,95.47913308257209/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1538,7 +1538,7 @@ the friend of mankind, General Washing
 ton. If it were a sceptre, he has merited it,  
 and would become it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_ferrari_ver02:data:sn86088181:00200296953:1885091701:0068/pct:216.89814814814815,192.97487165630912,49.92283950617284,21.615779519048907/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_ferrari_ver02:data:sn86088181:00200296953:1885091701:0068/pct:54.22453703703704,48.24371791407728,12.48070987654321,5.403944879762227/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1562,7 +1562,7 @@ ton. If it were a sceptre, he has
 merited it, and w’ould become it.”  
 The Post of Friday has the follow
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_corinth_ver01:data:sn86090439:0051717662A:1889020901:0259/pct:23.968656372436044,26.104830421377184,17.21594837520166,5.740713551607693/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_corinth_ver01:data:sn86090439:0051717662A:1889020901:0259/pct:23.980179764922795,26.115842020261343,17.20442498271491,5.740713551607693/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

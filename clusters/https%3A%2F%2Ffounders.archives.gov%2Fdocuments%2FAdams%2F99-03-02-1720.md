@@ -461,7 +461,7 @@ I can easier teach twenty what were
 good to be done than to be one of the  
 twenty to follow my own teaching.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_hazen_ver01:data:sn85042404:00212478702:1880121401:0538/pct:35.99110546378653,30.68695032089375,13.516518424396443,1.711433325410031/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_hazen_ver01:data:sn85042404:00212478702:1880121401:0538/pct:31.501899379227275,26.858014420410427,11.827110163995181,1.497504159733777/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -534,7 +534,7 @@ structions. I can easier teach twenty what
 were good to be done than to be one of the  
 twenty to follow my own teaching
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_chevy_ver01:data:sn83025733:00200294725:1881102301:0573/pct:87.3320537428023,204.23088546388638,58.061420345489445,5.318827440314294/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_chevy_ver01:data:sn83025733:00200294725:1881102301:0573/pct:21.833013435700575,51.057721365971595,14.515355086372361,1.3297068600785735/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -684,7 +684,7 @@ twenty what were good to be done, than
 to be one of the twenty to follow our  
 own teaching
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775307:1891011501:0270/pct:6.585120643431635,63.26478149100257,14.896112600536194,2.506426735218509/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775307:1891011501:0270/pct:4.944686557157224,47.455012853470436,11.180020113979216,1.8766066838046271/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -730,7 +730,7 @@ I can easier teach twenty what were
 good to be done than to be one of the  
 twenty to follow my own teaching.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_fourtusker_ver01:data:sn94056415:00332899508:1894070601:0629/pct:78.08807733619764,21.65671641791045,14.242749731471536,1.6417910447761195/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_fourtusker_ver01:data:sn94056415:00332899508:1894070601:0629/pct:78.0713058419244,21.653484554544097,14.245060137457045,1.645276824354574/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -860,7 +860,7 @@ twenty to follow mine own instruct­
 ions. The brain may devise laws  
 for the blood, but a hot tempe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_baseball_ver02:data:sn89064489:00393340174:1898033101:0123/pct:52.7122641509434,30.810348514004705,13.295990566037736,3.05751550138978/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_baseball_ver02:data:sn89064489:00393340174:1898033101:0123/pct:52.71717767295598,30.810348514004705,13.300904088050315,3.064642577150595/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -902,7 +902,7 @@ ier teach twenty what were good
 to be done than to be - one of the  
 twenty to folio mine own &#x27;teach
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_black_ver02:data:sn84020751:00415667851:1898050501:0516/pct:8.486238532110091,61.77006191574603,14.148509174311927,3.848488527376472/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_black_ver02:data:sn84020751:00415667851:1898050501:0516/pct:6.367417180553564,46.32754643680952,10.626702997275205,2.8894014811217676/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

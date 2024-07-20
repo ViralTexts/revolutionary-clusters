@@ -44,7 +44,7 @@ ol peace, will be the subjerl ui ai.oilier com­
 rtiuni cation.  
 J \f&gt;. MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1814101301:0181/pct:40.661337209302324,24.021441037147845,17.38735465116279,6.681625529793069/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1814101301:0181/pct:40.653950953678475,24.018446964975695,17.390251286709052,6.684947442768706/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -68,7 +68,7 @@ to negoctaie and conclude a treaty of peace, will
 be the subject of another communication.  
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1814101501:0095/pct:7.215447154471545,7.763006729033317,21.54471544715447,6.712621040538322/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1814101501:0095/pct:7.213614427228855,7.76173285198556,21.54559309118618,6.715621923203151/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -93,7 +93,7 @@ iatithoriicdto negotiate and conclude atrea*
 ty of peace, wilt be tlte subject of another  
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814101501:0270/pct:5.1548303356202485,19.4331983805668,17.522714630076024,6.971153846153846/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814101501:0270/pct:5.153874675565443,19.430740037950663,17.525645779260905,6.974488720219271/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -179,7 +179,7 @@ on which they were authorized 1o negotiate and con­
 clude atreaty of peace, will be the subject of anoth­  
 er communication : J. giADla\)N 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1814101701:1125/pct:3.7395886452490226,13.847811184017237,22.692503824579298,5.190480853981001/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1814101701:1125/pct:3.745254688650915,13.85107563738452,22.70383591138308,5.197009760715568/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -225,7 +225,7 @@ peace, wili be the subject of another commmuni­
 cation.  
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814101801:0170/pct:8.30738748938579,15.512682401331897,16.85536371355788,20.497502693174027/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814101801:0170/pct:8.312104915558072,15.51594685469918,16.8506462873856,20.497502693174027/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -278,7 +278,7 @@ treaty of peat e, will be the subject of ano­
 ther communication.  
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1814102001:0577/pct:3.3536585365853657,4.544802867383512,89.54033771106941,30.00716845878136/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1814102001:0577/pct:3.3528722157092616,4.544151376146789,89.52520515826495,30.006450688073393/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

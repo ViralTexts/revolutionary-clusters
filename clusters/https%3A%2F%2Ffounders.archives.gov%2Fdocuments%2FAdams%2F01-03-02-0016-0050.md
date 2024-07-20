@@ -69,7 +69,7 @@ ly secure peace and good order in+the province,
 durirg ¢ * continuance of the present dispute  
 &#x27; between Great Britain and the colonies.” I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795092201:0509/pct:47.17730079388415,17.77643868635131,19.523669508967952,8.627096515014562/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795092201:0509/pct:47.18220131333921,17.77643868635131,19.51876898951289,8.637139700713066/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -126,7 +126,7 @@ hand, the assemblies of Pennsylvania, Xew
 Jersey and Maryland, were instructing  
 their delegates in Congress to 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn85054845:00212477667:1861072501:0096/pct:22.89734075448361,68.46463212680388,20.098948670377244,6.612254554057251/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn85054845:00212477667:1861072501:0096/pct:17.179526828513993,51.34847409510291,15.076542446265657,4.9680624556423/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

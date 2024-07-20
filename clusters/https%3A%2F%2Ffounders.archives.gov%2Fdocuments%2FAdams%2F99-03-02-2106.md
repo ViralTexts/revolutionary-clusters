@@ -933,7 +933,7 @@ Who would not be that youth? What pity
 is it  
 That we can die but once to serve our coun
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186476:1847040701:0317/pct:129.34272300469485,98.96492236917769,53.38419405320814,23.76365727429557/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186476:1847040701:0317/pct:32.329356542147465,24.737674284892915,13.34343829454332,5.940060370849504/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -979,7 +979,7 @@ CongrOeSIOnaI District.
 No. VIII.  
 Fellow Citizens: What is the end of war? Is it not t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184649:1847041701:0364/pct:52.59086264778865,10.562398326748779,77.12742665304336,278.15477573785734/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184649:1847041701:0364/pct:17.52772913018097,3.520390379923318,25.705390153726405,92.7074861546803/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1032,7 +1032,7 @@ country.&quot;
 PhiladelThia North American.  
 InCIdeNTs oF ThE WAR.  A writer to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn84023649:0028077778A:1847042701:0290/pct:176.05011053795135,310.2960288808664,48.34193072955048,23.509025270758123/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn84023649:0028077778A:1847042701:0290/pct:44.02875046074456,77.5740072202166,12.089937338739404,5.877256317689531/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1058,7 +1058,7 @@ UNusUAt PHENOMENA. The LivINg.
 ston County W&#x27;hig published at Mr. Mor­  
 ris, relates the following
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn89080032:00415668132:1847051101:0180/pct:56.67264344262295,257.7068277424226,36.69313524590164,20.612663143134505/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn89080032:00415668132:1847051101:0180/pct:18.89572124007174,85.90227591414087,12.23417883679221,6.870887714378169/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1126,7 +1126,7 @@ How beautiful is death when earned by virtue!
 Who would not be that youth? What pity &#x27;tis  
 That we can die but once to save our country
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn86059058:00296022007:1862092901:0243/pct:174.54789015405225,133.35083344270902,47.68921634293369,6.3000393752460955/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn86059058:00296022007:1862092901:0243/pct:43.64428069000167,33.337708360677254,11.924300787137833,1.5750098438115239/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1158,7 +1158,7 @@ who live on the labor, of Olliers, and the
 masses who work. The negro is a second­  
 ary Consideration, and is made to phy f
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033221:00514152342:1862100801:0285/pct:41.306292872054875,77.91749393337746,12.600656128839844,9.58526362232517/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033221:00514152342:1862100801:0285/pct:41.306292872054875,77.92484741525112,12.610597474898102,9.588940363262004/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1226,7 +1226,7 @@ How beautiful is death when earned by virtue!
 Who would not be that youth? What pity &#x27;tis  
 That we can die but once to save our countr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280777006:1863010901:0217/pct:341.8486171761281,339.43483762125686,43.304221251819506,8.041613946295515/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280777006:1863010901:0217/pct:85.493265380415,84.85870940531422,10.829996359665088,2.0104034865738787/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1245,7 +1245,7 @@ How beautiful is death when earned by virtue !
 Who would not be that youth ? What pity &#x27;tis  
 lhat we can die but once to save ourceuutry 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85033611:00202198016:1863073001:0514/pct:103.82432432432432,126.03191489361703,18.216216216216218,3.9361702127659575/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85033611:00202198016:1863073001:0514/pct:69.23492835901595,84.02127659574468,12.151932954852663,2.627659574468085/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1263,7 +1263,7 @@ How beautiful is death when earned by virtue
 Who would not be that youth ? What pity ’t;  
 That we can die but once to save our countr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn86086769:00271769787:1863091601:0212/pct:4.395457581830327,7.069616837560712,12.464929859719438,1.4786832164058283/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn86086769:00271769787:1863091601:0212/pct:4.175656809239751,6.716111832661152,11.854296230486103,1.4081618702577072/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1281,7 +1281,7 @@ How beautiful is death when earned by virtue.
 ■Who would not be that youth ! What pity tia  
 That we can die but once to save our country 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271769428:1863091701:0270/pct:5.170833878779945,7.184736162178277,11.886372561853646,1.4806717678624666/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271769428:1863091701:0270/pct:5.17519745167343,7.184736162178277,11.890736134747131,1.4872966974725894/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1301,7 +1301,7 @@ tue. Who would not be that youth? What
 a pity &#x27;tis that we can die but once to save  
 our country! Why sits this sadness o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279524007:1864072901:0343/pct:194.3634596695821,65.01436781609195,43.21347586653709,11.326628352490422/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279524007:1864072901:0343/pct:64.77732793522267,21.668861486890936,14.402159244264507,3.77509078574564/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1319,7 +1319,7 @@ How beautiful is death when earned by virtue!
 Who would not be that youth? &#x27;What pity ’tis  
 That wo can die but once to save our country! * „ 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:00279525206:1865083001:0454/pct:17.806451612903224,77.82799748901444,11.080645161290322,1.6572504708097928/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:00279525206:1865083001:0454/pct:17.803580067731012,77.81822746673362,11.082889856474763,1.6601807682651268/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1408,7 +1408,7 @@ Thy life is not thine own when Rome de
 Whatpityisit  
 That we can die but once to save our country ? 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685300:1883060701:0094/pct:60.16195617656399,56.95411962527024,10.3207367418228,0.9248138361758347/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685300:1883060701:0094/pct:60.1524051436736,56.94727993274889,10.323067153516432,0.9277050558424402/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -51,7 +51,7 @@ lay what sentiments be pleases before the
 public: To forbid this, is to destroy the  
 freedom of the Press; but if he publilhc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1773072201:0437/pct:37.250056167153446,69.8842788597234,27.499438328465512,8.735534857465424/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1773072201:0437/pct:28.874056877539175,54.16697047028801,21.30586186883343,6.769959897921983/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -73,7 +73,7 @@ lay what sentiments he pleases before
 the public : to forbid this, is to destroy  
 the freedom of the press : but if h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791030501:0760/pct:10.709219858156029,37.420685279187815,19.88179669030733,6.519670050761421/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791030501:0760/pct:10.724980299448385,37.420685279187815,19.88179669030733,6.519670050761421/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -94,7 +94,7 @@ doubted right to lay what sentiments he
 pleases before the public : To forbid this is  
 to destroy the freedom of the press ; but i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798120101:0002/pct:60.64546087764105,47.96091758708581,16.415138147202228,4.233928065703767/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798120101:0002/pct:60.65706988623172,47.96799773435288,16.426747155792896,4.230387992070235/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -167,7 +167,7 @@ i Every freeman has an undoubted right to lay
 what sentiments he pleases before the public ;  
 &#x27; to forbid this, is to destroy the liberty ot th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799052001:0002/pct:44.467689446768944,18.393930718580016,16.387726638772662,3.5785857429144/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799052001:0002/pct:44.479311947931194,18.393930718580016,16.387726638772662,3.585742914400229/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -206,7 +206,7 @@ lay what sentiments he pleases besore the
 lpusihlic; to forbid this is to destroythe  
 l freedom osthe press ;, but is he publishe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803011101:0036/pct:52.416705771938055,34.720393292950575,23.056468011888004,12.940040382758317/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803011101:0036/pct:52.40850797622771,34.71734550561798,23.05807527890731,12.941830524344569/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -517,7 +517,7 @@ timsrits h.e pleases before the public to
   
 &quot; forbid this is to destroy the freedom o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lydia_ver01:data:sn84009409:00295869045:1861082901:0206/pct:57.925813777441334,7.436979582525379,24.632853898561695,86.95106649937264/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lydia_ver01:data:sn84009409:00295869045:1861082901:0206/pct:57.935907141054756,7.436979582525379,24.632853898561695,86.95867077297441/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -540,7 +540,7 @@ M-timvnts he pleases before the public ;to
 &quot; forbid this is to destroy the freedom of  
 &quot; the press ; but if he publish what is itn 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lydia_ver01:data:sn84009409:00295869045:1861082901:0207/pct:58.168054504163514,7.391353940914794,24.466313398940198,87.0879434242044/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lydia_ver01:data:sn84009409:00295869045:1861082901:0207/pct:58.178147867776936,7.398958214516559,24.461266717133483,87.08414128740353/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -562,7 +562,7 @@ ments he pleases bobore the public; to
 forbid this is to destroy the freedom of  
 the press; but if he publish what is im
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477837:1861100201:0612/pct:126.04690117252932,253.185828315362,59.96649916247906,17.196471082481445/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477837:1861100201:0612/pct:31.51172529313233,63.2964570788405,14.991624790619765,4.299117770620361/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -584,7 +584,7 @@ ments he pleases bofore the public; to
 forbid this is to destroy the freedom of  
 the press; but if he publish what is im
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477849:1861100202:0440/pct:127.83595113438045,252.7930535455861,61.16928446771379,17.3082489146165/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477849:1861100202:0440/pct:31.97991704867933,63.198263386396526,15.302335734555774,4.327062228654125/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -674,7 +674,7 @@ press In advance from publishing tho truth
 and tho facts about matters of general pub­  
 lic interest Liberty of the press mean
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_borges_ver01:data:sn83030272:00175044851:1889061001:0405/pct:126.45502645502646,289.2086330935252,51.02040816326531,16.72661870503597/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_borges_ver01:data:sn83030272:00175044851:1889061001:0405/pct:31.62570888468809,72.3021582733813,12.759924385633271,4.181654676258993/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -758,7 +758,7 @@ lay what sentiments he pleases before the
 public: to forbid this is to destroy the free- j  
 dom of the press. But if be publishe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_dogtown_ver01:data:sn85066387:00175037354:1896032501:0435/pct:1.8974751338944147,66.14969656102495,13.114001530221882,4.888739042481457/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_dogtown_ver01:data:sn85066387:00175037354:1896032501:0435/pct:1.9025758735016578,66.15718888139656,13.108900790614639,4.884992882295647/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

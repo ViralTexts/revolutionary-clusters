@@ -86,7 +86,7 @@ aom commumquoient a Thorloge elle fondit ces
 cordes metalligucs sans faire d&#x27;autres desordres  
 dans tout le trajet.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530340:1851061701:0543/pct:1.3617021276595744,62.158662900188325,47.98297872340426,66.85499058380414/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530340:1851061701:0543/pct:0.45390070921985815,20.719554300062775,15.994326241134752,22.28499686126805/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -119,7 +119,7 @@ being 70 loot in height above tho Belfry was split &lt;
 all to piecea and thrown about the Street in Frag- I  
 ineut; from the Rrll down to the Clock, pUc&#x27;d in 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661393:1851061701:0650/pct:67.69427475493679,88.5495296713506,14.59014064497798,8.291719893159911/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661393:1851061701:0650/pct:67.69901027608088,88.5572717067317,14.59014064497798,8.295590910850462/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -169,7 +169,7 @@ dea hi* d srschfli qui coininunitjuoient a I&#x27;horlogc;
 tile fondit eta cordcs mctalligue* sans faire  
 d&#x27;autrcs desordres dans toot le irajet.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661393:1851061701:0650/pct:80.96320500071033,12.68145395424457,13.851399346498082,14.841481825571943/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661393:1851061701:0650/pct:80.96320500071033,12.68145395424457,13.856134867642185,14.849223860953044/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -243,7 +243,7 @@ taken from the Journal des Scavans, for 1C7G, page 113
 “quoient a I’horloge; elie I&#x27;ondit cos cordes tnetalliques  
 “sans taire d’amres desordres dans tout le trojet.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348367:1851062001:0573/pct:20.351362021318593,29.78874237912945,14.923016186340307,20.91308662980292/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348367:1851062001:0573/pct:20.347345569370436,29.784519421604763,14.925004933885928,20.913666005103487/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -409,7 +409,7 @@ le long des fils d&#x27;aschal &lt;]ui communKjuoient a
 I’horloge; elle fondit ces cordesmetalliques sane  
 faire d’autres desordres dans tout le trajet.’’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851062601:0179/pct:78.89127792839113,17.317933467044746,12.741890249602692,25.95615187772322/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851062601:0179/pct:78.88390353337073,17.31673582295989,12.743815043310276,25.95666205624712/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -485,7 +485,7 @@ e Your very humble Servant, |
   
 B. FRANKLIN.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021169:00514152780:1851070301:0516/pct:69.63633708193369,26.40171858216971,12.516430553527092,35.76799140708915/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021169:00514152780:1851070301:0516/pct:69.64607370624604,26.40529896168994,12.511562241370918,35.77515216612961/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -520,7 +520,7 @@ Enough of it could be carried by a wire the
 size of a knitting needle to make a ragged  
 hole in a wall and make fragments of som
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159191:1879051501:0291/pct:12.284942414332432,79.89633877370974,10.13792122849424,10.200705778561977/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159191:1879051501:0291/pct:12.294421536565714,79.90369063373033,10.13792122849424,10.19335391854139/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -497,7 +497,7 @@ el - GEO. WASHINGTON.
 By the President, g =  
 Edm. Randolph. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795012001:0369/pct:6.91251119737235,18.78750890041705,19.901463123320394,63.045468416234364/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795012001:0369/pct:6.91251119737235,18.790899535482996,19.916392953120333,63.04885905130031/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -618,7 +618,7 @@ Amcrica, more and more, an asylum for the
 unfortunate of every clime under heaven,  
 , Reverend and refpefted 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795020301:0377/pct:29.27914565410857,24.89234324125617,19.727083951349748,12.645730490494696/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795020301:0377/pct:29.289033916740827,24.89234324125617,19.717195688717492,12.656233588908728/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -665,7 +665,7 @@ civil and religious privileges; that He would
 extend among us true and useful knowledge,  
 habits of sobriety, order, morality and piety
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn87082162:00514159324:1846111401:0746/pct:66.1931272797082,51.936026936026934,19.523900940679592,9.175084175084175/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn87082162:00514159324:1846111401:0746/pct:51.30926403491371,40.25442157146999,15.135885736956952,7.121629457813859/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -715,7 +715,7 @@ continuance of our civil and religious priv­
 ileges; devoutly lhaking Him for the fruits  
 |&lt; f the earth the past season,and ferventl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn86086768:0027176974A:1847111201:0043/pct:18.65424103617122,49.78093546477206,15.89006476070131,11.166370633510953/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn86086768:0027176974A:1847111201:0043/pct:17.7212024208473,47.30013499325034,15.100285099784925,10.611969401529924/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -744,7 +744,7 @@ blessings of our Heavenly Father, and the
 ; lieges: devoutly tbakingHim for the fruits  
 |tf the earth the past seasonalnd ferventl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn86086768:0027176974A:1847111901:0047/pct:32.95593635250918,51.83879685113383,15.315177478580171,9.58759252731759/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn86086768:0027176974A:1847111901:0047/pct:31.31298449612403,49.254009003981096,14.554263565891473,9.104438739442646/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -763,7 +763,7 @@ mgs to imprint on our hearts a deep anti
 solemn sense of our duty to H unwind above  
 all,for the redemption of the world by ou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn86086768:0027176974A:1847111901:0050/pct:77.80004453351147,76.31842456608811,21.955021153417945,4.4559412550066755/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn86086768:0027176974A:1847111901:0050/pct:73.91764208151177,72.50819152309481,20.857424904808912,4.243737448472677/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -839,7 +839,7 @@ GEORGE WASHINGTON.
 By the President:  
 Edm. Randolph
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851112301:1231/pct:32.869910625620655,6.259407927747115,31.39688844753393,90.07777220270948/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851112301:1231/pct:32.87542756261723,6.259407927747115,31.39688844753393,90.08613480515136/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -993,7 +993,7 @@ GO: W ASHINGTON.
 By the President:  
 Fdm Randolph.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215877:1851112601:0011/pct:82.52454952807703,20.71379547014413,12.622747640385166,32.59437199725463/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215877:1851112601:0011/pct:82.51668255481411,20.712373893349806,12.624721957419764,32.5944227117791/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1077,7 +1077,7 @@ niin teenth. GO. WASHINGTON*
 By tlio President :  
 EoM. Randolph
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:0041566140A:1851112701:0569/pct:29.478394630121663,55.77201380385172,14.725213256887148,28.11978181008572/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:0041566140A:1851112701:0569/pct:29.48305598284622,55.77943522950759,14.72987460961171,28.11978181008572/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1157,7 +1157,7 @@ G FORGE WASHINGTON.
 By the President :  
 Edji Randolph
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879075:1851112801:0205/pct:110.25338833235121,14.697569248162804,20.10901591043017,41.68456755228943/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879075:1851112801:0205/pct:82.70222484160895,11.023176936122104,15.087667599823192,31.271905031091013/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1257,7 +1257,7 @@ habits of sobriety, order, morality and piety, a mi,
 iually, to iin.eirt nil &quot;the blessings wo posaosa, or a?k  
 for ourselves- &#x27; thu whole family of uumkiud. &#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1855051501:0636/pct:30.45447902966535,39.198773241326435,16.630132982609965,12.670116925436075/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1855051501:0636/pct:30.45447902966535,39.198773241326435,16.630132982609965,12.67650629352757/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1297,7 +1297,7 @@ and from hazarding the advantages we enjoy by de­
 lusive pursuits to dispose us to merit the continu­  
 ance of His favor,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879087:1855051801:0299/pct:88.93354769560557,30.512468093461614,20.712754555198284,16.7779304928333/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879087:1855051801:0299/pct:66.73368181208953,22.884351070096212,15.534110709020238,12.585902218731592/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1354,7 +1354,7 @@ morality and piety; and, tiually, to impart
 all the blessings we possess, or ask for our­  
 selves, fo the whole family of mankind.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024652:00393348689:1855051901:0264/pct:69.04886106764042,47.48633151086812,12.623891497130934,22.789705294039205/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024652:00393348689:1855051901:0264/pct:69.03685674547984,47.48,12.626043115438108,22.79/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1638,7 +1638,7 @@ sobriety, order, morality and piety, and finally to
 impart all the blessings we possess or ask for our­  
 sit selves to the whole family of mankind.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202191010:1857120101:0525/pct:16.809815950920246,65.58300823580407,40.58282208588957,46.12050281751192/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202191010:1857120101:0525/pct:5.603271983640082,21.861002745268024,13.52760736196319,15.37350093917064/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1697,7 +1697,7 @@ al thanksgiving, &quot;for the seasonable control
 which had been given to a spirit of disorder in  
 the suppression of the insurrection.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774662:1861052301:0506/pct:215.35714285714286,229.1174518911745,49.142857142857146,4.990046449900465/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774662:1861052301:0506/pct:53.86814364838306,57.27936297279363,12.292299446131857,1.2475116124751162/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1830,7 +1830,7 @@ pendence of the United States of America the nin
 GEO. WASHINGTON.  
 By the President, ED. RaYnOLPH
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basic_ver01:data:sn83030213:00206530753:1863100701:0270/pct:151.01045296167248,6.822974817020221,96.53310104529616,286.76342885498076/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basic_ver01:data:sn83030213:00206530753:1863100701:0270/pct:50.336817653890826,2.2743249390067404,32.177700348432055,95.58780961832693/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2022,7 +2022,7 @@ United States of America the nincteonth.
 GEO. WASHINGTON.  
 By the PrEsIdENT EDN. RANDOLPe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_american_ver01:data:sn86053570:00237288865:1863100901:0352/pct:30.634146341463413,180.35074486139922,50.73170731707317,123.40184801056006/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_american_ver01:data:sn86053570:00237288865:1863100901:0352/pct:7.664144495972663,45.087686215349805,12.692213814986575,30.850462002640015/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2206,7 +2206,7 @@ Amenta tho nineteenth.
   
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn84022367:0041562833A:1863101501:0705/pct:93.90350877192982,24.009223231013113,37.93859649122807,66.75313445741462/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn84022367:0041562833A:1863101501:0705/pct:70.46950416849495,18.014123072488832,28.47740236946029,50.06485084306096/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2391,7 +2391,7 @@ independence of the U. S. of America
 the nineteenth. Geo. Washington.  
 By the President, Edm. Dandolph
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_naomi_ver01:data:sn85033019:00271769118:1863111201:0029/pct:62.08064019698369,20.42797264504743,13.758079409048937,48.88594749613942/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_naomi_ver01:data:sn85033019:00271769118:1863111201:0029/pct:62.090899764029956,20.42797264504743,13.768338976095208,48.89697771894992/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2501,7 +2501,7 @@ Ily the President, Ednt. Itnndolph.
 Intelicities in Hiaii Lite. The New York  
 correspondent of the Hartford Times says
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_eden_ver01:data:sn98060050:00280777389:1877113001:0909/pct:66.46795827123697,16.646706586826348,29.750372578241432,113.35329341317366/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_eden_ver01:data:sn98060050:00280777389:1877113001:0909/pct:49.86025712688653,12.48502994011976,22.3215949319918,85.02994011976048/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2607,7 +2607,7 @@ teal of the United Slalw of America to
 he wntne with my hand. Done at the  
 :ity of Philadelphia, the 1st day of January
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_denmark_ver01:data:sn84026844:00202193420:1877113001:1143/pct:13.415258576548899,9.562313236069608,26.830517153097798,88.43381965195992/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_denmark_ver01:data:sn84026844:00202193420:1877113001:1143/pct:13.415258576548899,9.575496572332572,26.85611879160266,88.44700298822289/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2681,7 +2681,7 @@ the United States of America to be affixed to chest
 presents, and signed the same with my hand. Don#  
 at the City of Philadelphia, the Ist day of January
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1877120201:0009/pct:82.95616717635066,58.37739839854963,12.477064220183486,20.697990633026137/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1877120201:0009/pct:82.95616717635066,58.384952409729564,12.497451580020387,20.701767638616104/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2931,7 +2931,7 @@ Philadelphia, the 1st of Jaimnry, 1795.
 GeoEQE WASHINGTON.  
 By the president: EDM. RANDOLPH
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_dunbar_ver01:data:sn83025287:00280768121:1878112501:0264/pct:31.337241764377442,39.268142681426816,13.930764935790062,31.478064780647806/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_dunbar_ver01:data:sn83025287:00280768121:1878112501:0264/pct:31.337241764377442,39.268142681426816,13.935417829890191,31.478064780647806/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3024,7 +3024,7 @@ ca to be affixed to these presents, and
 signed the same with my hand. Done  
 at tne city ot jrnuadeipuia, the 1st o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn87076843:00280775733:1878112901:0816/pct:68.03861788617886,31.723509502733663,14.786585365853659,47.44858109867222/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn87076843:00280775733:1878112901:0816/pct:51.0504913588614,23.795886487893778,11.097932904100306,35.5896901848477/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3099,7 +3099,7 @@ these presents, and sigued the samo with my
 hand. Done at the City of Philadelphia, the 1st  
 day of January, 1795
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555663:1879112701:0653/pct:110.26392961876833,39.910376697941466,16.64222873900293,32.65649068757877/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555663:1879112701:0653/pct:82.71310724106324,29.93978434392942,12.483959670027497,24.49236801568408/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3212,7 +3212,7 @@ of America the nins&#x27;eenth.
 O Washington.  
 By the President, Kdm Randolph
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187183:1887120201:0192/pct:68.46473029045643,12.464737227040017,25.230892785437025,82.666388047226/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187183:1887120201:0192/pct:68.45556745182013,12.463435018804848,25.23197715917202,82.66123415517481/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3309,7 +3309,7 @@ affixed to these presents and signed the
 same with my hand. Done at the city of  
 Philadelphia the first day of January, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn86071719:00280777699:1888031401:0926/pct:140.68965517241378,124.46824334374536,58.275862068965516,149.1596013684367/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn86071719:00280777699:1888031401:0926/pct:35.1875808538163,31.11706083593634,14.57524795170332,37.28990034210918/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3332,7 +3332,7 @@ at that time was ona naturalization bill,dur­
 ing which an interesting discussion arose  
 over the word “republican,” that appeare
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_fox_ver01:data:sn82016399:00517173472:1888092101:0302/pct:5.204835460040296,36.50310208685843,14.775016789791806,5.109983079526227/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_fox_ver01:data:sn82016399:00517173472:1888092101:0302/pct:5.203961725700856,36.49898488608166,14.778132169436518,5.113166403488984/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3442,7 +3442,7 @@ many other natious,&quot; he said, &quot;tho present con­
 dition of the United States affords much matter  
 of consolation and satisfaction.&quot; Three year
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_entiat_ver01:data:sn83045604:00202199100:1891112601:0149/pct:41.99316329213779,93.8404648705758,34.4596371285827,5.039619651347068/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_entiat_ver01:data:sn83045604:00202199100:1891112601:0149/pct:13.997721097379262,31.280154956858603,11.486545709527565,1.6798732171156894/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3505,7 +3505,7 @@ gifts of God: &quot;He has given us more
 love for the free, civil institutions, in  
 the creation of which Hia directin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_audi_ver01:data:sn86088296:00200297696:1892120101:1040/pct:85.52166224580017,53.84842229430846,19.20866489832007,10.925980536714833/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_audi_ver01:data:sn86088296:00200297696:1892120101:1040/pct:64.16095511828432,40.38631672073135,14.415211143046651,8.198171630787378/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3541,7 +3541,7 @@ flim for them; to teach us rightly
 to estimate their immense value.*’  
 There was, perhaps, never a tim
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187195:1892120201:0395/pct:14.798372179060303,10.50498753117207,11.160439018374646,15.024937655860349/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187195:1892120201:0395/pct:14.796547472256474,10.503896103896103,11.163173037402384,15.026839826839828/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3660,7 +3660,7 @@ j ing the advantages we enjoy by delusive
 : tinuance of his favor 3 by not abusing  
 | them, by our gratitude for them, and by a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_dogtown_ver01:data:sn85066387:00175037317:1895112801:0206/pct:29.547511312217196,38.77005347593583,13.438914027149321,25.790998217468804/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_dogtown_ver01:data:sn85066387:00175037317:1895112801:0206/pct:29.547511312217196,38.77376708259061,13.443941679235797,25.790998217468804/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3687,7 +3687,7 @@ selves to the whole family of mankind.&quot;
 In that proclamation the immortal  
 Washington voiced the feeling of the peo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_dogtown_ver01:data:sn85066387:00175037317:1895112801:0206/pct:43.484162895927604,34.53654188948307,13.10708898944193,5.659536541889483/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_dogtown_ver01:data:sn85066387:00175037317:1895112801:0206/pct:43.48919054801408,34.54396910279263,13.112116641528406,5.666963755199049/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3769,7 +3769,7 @@ affixed to the?e cresents and .signed the i
 same with my hand. Done at the city of  
 Philadelphia the hrst day of January, imo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn85038102:00202197279:1895112901:0954/pct:107.87304204451773,12.149532710280374,19.29101401483924,39.5072217502124/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn85038102:00202197279:1895112901:0954/pct:80.94845360824742,9.119229679977343,14.474226804123711,29.637496459926368/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3805,7 +3805,7 @@ many other nations the present condition
 of the United States offers much  
 matter of consolation and satisfaction.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_france_ver01:data:sn84026844:00202193687:1897112401:1032/pct:18.61604409063074,21.198475926567372,17.7893447642376,2.390024246622792/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_france_ver01:data:sn84026844:00202193687:1897112401:1032/pct:18.61604409063074,21.198475926567372,17.812308634415185,2.4160027710426046/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3823,7 +3823,7 @@ stitutions of the government which &#x27;
 unite and by their union establish lib- i  
 erty with order.&quot; This sentence he un- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_france_ver01:data:sn84026844:00202193687:1897112401:1032/pct:18.799755052051438,31.19154832005542,16.656460502143293,2.009005888465535/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_france_ver01:data:sn84026844:00202193687:1897112401:1032/pct:18.799755052051438,31.204537582265328,16.70238824249847,2.013335642535504/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3882,7 +3882,7 @@ for the &#x27; ii&quot;.inali|e eon-tr.Mil which hue
 been slveii to Die support of this order In  
 Hi&#x27;* lupprei^on of ill- late insurrection,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_france_ver01:data:sn84026844:00202193687:1897112401:1032/pct:18.799755052051438,77.88361621059924,19.932639314145742,20.297887080013854/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_france_ver01:data:sn84026844:00202193687:1897112401:1032/pct:18.799755052051438,77.89227571873917,19.97091243110839,20.306546588153793/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3932,7 +3932,7 @@ United States of America, the nineteenth.
 &quot;By the President,  
 &quot;RDW. RANDOLPH.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_france_ver01:data:sn84026844:00202193687:1897112401:1032/pct:34.935701163502756,30.82784897817804,18.46295162278016,15.725666782126774/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_france_ver01:data:sn84026844:00202193687:1897112401:1032/pct:34.951010410287815,30.840838240387946,18.493570116350277,15.729996536196744/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4019,7 +4019,7 @@ gk&lt;&gt;k&lt;;v Washington.
 By the President  
 Ei»M. Kanik)L|&#x27;H
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:00332895485:1898111601:0369/pct:3.3405431386685893,3.489750974080976,29.96875751021389,92.10570896154498/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:00332895485:1898111601:0369/pct:3.339740509370495,3.489159891598916,29.96756367131187,92.09434281842819/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4110,7 +4110,7 @@ United States of America the nineteenth.
 &quot;By the President :  
 &quot;EDW. RANDOLPH 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_beatrice_ver01:data:sn99021999:00206538909:1898112001:0142/pct:74.30362116991644,31.195019623765056,16.974233983286908,49.15414805792394/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_beatrice_ver01:data:sn99021999:00206538909:1898112001:0142/pct:55.756836788016024,23.396264717823794,12.750391917784357,36.86899445121126/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4160,7 +4160,7 @@ within the United States to set apart
 a e    
 day of February next as a day of pu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_hornacek_ver01:data:sn83045555:206534710:1898112301:0027/pct:42.891891891891895,139.93268659671352,39.16216216216216,49.47535141556128/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_hornacek_ver01:data:sn83045555:206534710:1898112301:0027/pct:14.297297297297296,46.64422886557117,13.054054054054054,16.49178380518709/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4227,7 +4227,7 @@ hundred and ninety-five, and of the
 indepondence of the United States of  
 America the nineteenth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_hornacek_ver01:data:sn83045555:206534710:1898112301:0027/pct:83.43243243243244,30.884973272619284,38.75675675675676,63.908137002573746/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_hornacek_ver01:data:sn83045555:206534710:1898112301:0027/pct:27.81081081081081,10.294991090873095,12.91891891891892,21.30271233419125/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4266,7 +4266,7 @@ hostilities with a forelgn Power butt
 e to danger with respect to forelgr  
 tlities is now cloesed, and we may indul
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_universal_ver01:data:sn83030214:00175036933:1898112401:0395/pct:104.37885176775868,84.69627475109073,48.44307492701914,54.692918670992285/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_universal_ver01:data:sn83030214:00175036933:1898112401:0395/pct:34.79295058925289,28.23209158369691,16.147691642339712,18.23097289033076/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4340,7 +4340,7 @@ a ot an o in
 knowlenge, to ditruse and estahdisn hlt  
 its bf sobriety, order, morality an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_hornacek_ver01:data:sn83045555:206534710:1898112601:0049/pct:6.370967741935484,29.850746268656717,74.91935483870968,269.0149253731343/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_hornacek_ver01:data:sn83045555:206534710:1898112601:0049/pct:2.1247982786444326,9.950248756218905,24.986551909628833,89.67164179104478/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4447,7 +4447,7 @@ GEORGE WAsHinGToN.
 By the President:  
 EDM. RANDOLpH.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jamaica_ver01:data:sn93063557:00280777894:1898122301:1265/pct:137.36462093862815,85.99409295818437,60.288808664259925,173.79138815482668/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jamaica_ver01:data:sn93063557:00280777894:1898122301:1265/pct:34.34115523465704,21.498523239546092,15.072202166064981,43.44784703870667/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4466,7 +4466,7 @@ suppression of a recent insurrection
 which so wantonly threatened the  
 happy course of our public affairs 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_griffin_ver01:data:sn85042104:00332892058:1899112601:0502/pct:6.280909990108803,78.18342737028432,14.144411473788328,2.157318287421175/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_griffin_ver01:data:sn85042104:00332892058:1899112601:0502/pct:6.280909990108803,78.1908028174208,14.149906583141005,2.157318287421175/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4518,7 +4518,7 @@ Done at the City of Philadelphia, the 1-t day
 of Jamiaiy, lTflTi, and of tlie indejiendrncc ot the  
 United States of America, tlie nineteenth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dutch_ver02:data:sn84024441:211102809:1899113001:0242/pct:26.008064516129032,96.36672850958566,16.169354838709676,18.552875695732837/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dutch_ver02:data:sn84024441:211102809:1899113001:0242/pct:19.524001613553853,72.27891156462584,12.121823315853167,13.91465677179963/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4538,7 +4538,7 @@ which so wantonly threatened the hap­
 py course of our public affairs.&quot;  
 President Madison felt that the bles
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jesse_ver01:data:sn82016014:00295871453:1899113001:0443/pct:111.10518834399431,52.66697233684854,16.577825159914713,3.423506036986092/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jesse_ver01:data:sn82016014:00295871453:1899113001:0443/pct:83.34814288253065,39.50787100718325,12.440021325750845,2.567629527739569/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4583,7 +4583,7 @@ April for the same purpose
 it is a very easy thing to answer a  
 question, if one does not care whethe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_iavaroni_ver01:data:sn83045555:206534692:1899121601:0290/pct:78.8864388092613,105.4054054054054,36.63175303197354,48.585304054054056/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_iavaroni_ver01:data:sn83045555:206534692:1899121601:0290/pct:26.317241379310346,35.13513513513514,12.220689655172414,16.19510135135135/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

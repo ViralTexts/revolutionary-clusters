@@ -293,7 +293,7 @@ pence; and if wc give th&lt; m, we sh ill
 have a right to receive them in our  
 turn.— Frankhn&#x27;e Familiar Letter*.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:0039334894A:1834011601:0442/pct:69.26450069762807,65.76125804145819,15.04883396452063,12.122944960686205/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:0039334894A:1834011601:0442/pct:69.25069748903945,65.75185820468839,15.050817058589079,12.124785591766724/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -478,7 +478,7 @@ it. Old folks and old trees, if you re­
 move them, it is ten to one that you kill  
 I them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_freeport_ver01:data:sn82014248:00332895874:1886042101:0383/pct:18.090926240332013,39.37422123771286,13.035276362950388,6.922331441229406/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_freeport_ver01:data:sn82014248:00332895874:1886042101:0383/pct:18.087514145605432,39.3687707641196,13.037533006412675,6.92483388704319/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

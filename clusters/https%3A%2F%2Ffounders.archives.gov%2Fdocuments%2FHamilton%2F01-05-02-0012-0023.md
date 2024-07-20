@@ -327,7 +327,7 @@ sidered as essential component parts of
 the onon eo   
 course, these were the views of Wash
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn82000205:00211103589:1888022501:0228/pct:65.17922457937088,166.70053708811147,44.330651060716896,9.754681376106838/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn82000205:00211103589:1888022501:0228/pct:16.300768386388583,41.67513427202787,11.086717892425906,2.4386703440267095/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

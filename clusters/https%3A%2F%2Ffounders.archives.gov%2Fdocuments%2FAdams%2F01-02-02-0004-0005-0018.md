@@ -62,7 +62,7 @@ egate to the First Continental Congress:
 elegant house. There we had much con!  
 versation with Mr Charles Thomson, wh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_lapras_ver01:data:sn83025167:00279528414:1887122201:0662/pct:242.79577810505646,137.32674227003974,31.52920962199313,5.137152272947563/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_lapras_ver01:data:sn83025167:00279528414:1887122201:0662/pct:80.93192603501882,45.775580756679915,10.509736540664376,1.7123840909825208/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -85,7 +85,7 @@ Six days later, the delegates marched to
 Carpenter&#x27;s Hall, inspected it, agreed that it  
 should serve the purpose, and helped them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_fireant_ver01:data:sn84021912:00211104296:1887123101:0489/pct:61.778066190785204,109.97442455242967,17.91044776119403,6.0528559249786875/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_fireant_ver01:data:sn84021912:00211104296:1887123101:0489/pct:41.210842395714984,73.31628303495312,11.94611264405129,4.043356473023993/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -149,7 +149,7 @@ egate to the First Continental Congress:
 elegant house. There we had much con­  
 versation with Mr. Charles Thomson, wh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_earhart_ver01:data:sn85032814:00237283247:1888010501:0572/pct:76.07449856733524,102.46305418719211,21.740687679083095,2.9064039408866993/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_earhart_ver01:data:sn85032814:00237283247:1888010501:0572/pct:50.74359433793227,68.3128078817734,14.51352804156961,1.9334975369458127/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

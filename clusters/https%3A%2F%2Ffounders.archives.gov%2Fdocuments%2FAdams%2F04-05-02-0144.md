@@ -754,7 +754,7 @@ tomb.
 &quot;Sweet peace, and heavenly hope, and humble joy  
 Divinely beam on his exalted soul
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296187:1840090801:0659/pct:45.57620817843866,296.5891688709453,66.6914498141264,12.473896700542948/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296187:1840090801:0659/pct:11.396170291875814,74.14729221773632,16.675962074735082,3.118474175135737/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -810,7 +810,7 @@ him.
 Divinely beam on her exalted soul.&quot;  
 a i v K u;r I S E TI E IV T s 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn84020019:00295877583:1845011701:0647/pct:108.36722835560721,30.37739965095986,18.550261475886114,2.7923211169284468/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn84020019:00295877583:1845011701:0647/pct:81.28722940578237,22.785776614310645,13.918349556879267,2.094240837696335/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -980,7 +980,7 @@ Distruction gild and crown him for the skey
 He still remembered that he once was young.  
 His easy presence checked no decent Joy.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn85038180:00296029014:1874120301:0335/pct:51.96017423771002,108.12368972746332,12.741132545115121,0.8778825995807128/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn85038180:00296029014:1874120301:0335/pct:38.98225957049486,81.09276729559748,9.570494864612511,0.6682389937106918/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1066,7 +1066,7 @@ A graceful looseness when he pleased
 put on,  
 And laughing could instinct
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn92072977:00416156815:1891032401:0294/pct:31.85595567867036,75.4968128983877,17.90858725761773,4.846269216347957/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn92072977:00416156815:1891032401:0294/pct:23.898586866167914,56.62729658792651,13.43862565807703,3.637045369328834/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -49,7 +49,7 @@ egislature, from the 15th of April to the 21th of May,
 thirty-eight days. Neither the President of the  
 Senate nor the Speaker of the House will certify to an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743075:1853063001:1374/pct:5.163770053475936,138.66530241018646,47.30949197860963,15.040927694406548/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743075:1853063001:1374/pct:1.7212566844919786,46.22176747006215,15.769830659536542,5.013642564802183/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -112,7 +112,7 @@ with an article, five columns long, to prove that
 neither the President of the Senate nor the  
 Speaker of the House of Representatives, is con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_hera_ver01:data:sn83021205:00517171554:1868041101:0346/pct:7.310267857142857,17.845117845117844,13.69047619047619,1.6975308641975309/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_hera_ver01:data:sn83021205:00517171554:1868041101:0346/pct:5.675156174915906,13.833719918817048,10.605478135511774,1.3192229631777326/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -185,7 +185,7 @@ the President of the Senate nor the
 Speaker of the House are Federal offi  
 cers, in the usual acceptation of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00383342065:1881122201:0602/pct:13.938584779706275,42.16805512701841,9.986648865153539,1.9849840584181837/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00383342065:1881122201:0602/pct:13.938584779706275,42.174911721348,9.986648865153539,1.9781274640885873/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -246,7 +246,7 @@ it. &quot; had it enrolled, but nei­
 ther the president of the senate nor the  
 speaker of the house would sign it, but Gov
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_chaska_ver01:data:sn90059522:00175035278:1885080901:0416/pct:70.84355828220859,72.42616033755274,12.94478527607362,5.727848101265823/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_chaska_ver01:data:sn90059522:00175035278:1885080901:0416/pct:70.84355828220859,72.42616033755274,12.94478527607362,5.731364275668073/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -276,7 +276,7 @@ ployed in the Constitution and that, there­
 fore, neither the president of the Senate nor  
 the speaker of the House would be eligible i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_elliot_ver01:data:sn87068079:00332896465:1885122401:0203/pct:37.66255700050667,12.553439564710455,10.99476439790576,6.088871615494235/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_elliot_ver01:data:sn87068079:00332896465:1885122401:0203/pct:37.65619723066531,12.55181347150259,10.997129348193178,6.091321243523316/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -309,7 +309,7 @@ Senate nor the Speaker of the
 House of Representatives was an  
 officer, and then the Constitution whic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777079:1885122501:1067/pct:259.8047914818101,24.977155041120927,117.3913043478261,358.69631434663415/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777079:1885122501:1067/pct:64.95119787045253,6.244288760280232,29.347826086956523,89.67407858665854/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -339,7 +339,7 @@ ployed in the Constitution and that, there­
 fore, neither the President of the Senate nor  
 the speaker of the House would be eligible i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn98060001:00280777857:1885122501:0834/pct:131.7822651448639,151.34151887221464,57.41878841088674,27.588297711080795/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn98060001:00280777857:1885122501:0834/pct:32.96727432462113,37.83537971805366,14.3641555018669,6.897074427770199/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -355,7 +355,7 @@ the speaker of the House would be eligible i
 fore, neither the president of the Senate nor  
 the speaker of the Housa would be eligible i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00202194059:1885123001:0322/pct:71.22634898388227,38.68905638774926,13.314646110721794,1.078141398721496/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00202194059:1885123001:0322/pct:71.22634898388227,38.69541710396591,13.328661527680449,1.081321756829819/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -371,7 +371,7 @@ the speaker of the Housa would be eligible i
 ment. Neither the president of the sen­  
 ate nor the speaker of the hous
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:fu:batch_fu_frenchfries_ver01:data:sn82015289:00414180590:1891060301:0036/pct:52.3794108125607,25.152651312265668,15.393331175137584,1.1890733797536155/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:fu:batch_fu_frenchfries_ver01:data:sn82015289:00414180590:1891060301:0036/pct:52.38480630193158,25.152651312265668,15.393331175137584,1.1997857525441886/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -404,7 +404,7 @@ night.
 the President of t he Senate nor the Speaker  
 of the House would mime tho Standin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_gum_ver01:data:sn94053256:00271762938:1893011701:0062/pct:95.6782334384858,32.45023628812831,14.400630914826499,11.814406415580695/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_gum_ver01:data:sn94053256:00271762938:1893011701:0062/pct:71.77788294683704,24.344837462408705,10.806120839249093,8.864384934841759/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

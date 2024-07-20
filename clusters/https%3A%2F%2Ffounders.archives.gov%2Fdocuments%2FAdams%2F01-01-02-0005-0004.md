@@ -135,7 +135,7 @@ Long had he liv’d, the scorn of every Greek,
 Vcxt when he spoke, yet still they heard him  
 speak
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812052701:0484/pct:76.28214769138216,52.65884919552768,21.431794254775156,3.7542041632578855/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812052701:0484/pct:76.27067669172932,52.654062897654974,21.43358395989975,3.7568926861782708/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -198,7 +198,7 @@ To lash the great, and monarchs to revile.
 Spleen to mankind hieenvious heart possest,  
 And much he hated all, but most the best.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021201:00517172108:1823031201:0378/pct:103.32728372655778,56.00218758545255,20.629159104658196,19.319114027891715/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021201:00517172108:1823031201:0378/pct:80.08439258178787,43.40209098615428,15.998124609293603,14.983046058208533/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -253,7 +253,7 @@ Long h- d he lived, the scorn of every Greek,
 Vext when he spoke, yet mill they beard him speak.”  
 1 X
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216377:1827013001:0096/pct:60.59314811658429,92.5189611583544,18.28873359468212,4.952884394392094/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216377:1827013001:0096/pct:60.58282208588957,92.50833046076066,18.291297432401727,4.956145390478379/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -298,7 +298,7 @@ Greek;
 Vexed when he spoke, yet still they heard  
 him speak.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn83016788:00295877935:1841012901:0268/pct:75.85470085470085,4.821624254231097,54.0986790986791,118.98210154632899/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn83016788:00295877935:1841012901:0268/pct:56.917994558880686,3.616218190673323,40.59463661095997,89.23657615974675/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -342,7 +342,7 @@ Rnlpen to mankind his envious heart noaspssed.
   
 And much he hated all, but most the beat.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661472:1850070801:0081/pct:53.890175773266115,32.139420506789264,15.492573920152608,9.120068427242597/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661472:1850070801:0081/pct:53.89925966298769,32.146548344559676,15.48349003043103,9.120068427242597/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -408,7 +408,7 @@ To lash the great--the virtuous to revile.
 His figure such as might his soul proclaim  
 One eye was blinking--and one leg was lame.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn88077244:00280775083:1867020601:0669/pct:36.59889094269871,330.7042253521127,50.64695009242144,11.205007824726135/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn88077244:00280775083:1867020601:0669/pct:9.15606936416185,82.67605633802818,12.670520231213873,2.8012519561815337/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -434,7 +434,7 @@ Long hid he lived the scorn of every Greek;
 Vexed when hv spoke, yet still they heard him  
 speak
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn82006687:00415623513:1871042701:0224/pct:53.116266070430406,50.87961000423908,11.961989938513137,4.885544722339975/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn82006687:00415623513:1871042701:0224/pct:53.1255822619713,50.88667514483538,11.971306130054034,4.889077292638124/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

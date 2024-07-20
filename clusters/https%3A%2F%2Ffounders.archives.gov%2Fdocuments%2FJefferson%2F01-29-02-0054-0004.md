@@ -211,7 +211,7 @@ towards France, from which&quot;&#x27; would
 .alienate us, to briiagus undtr.B.lft&#x27;iJh influ­  
 ence, &amp;C. &#x27; &#x27; ; ,-••*&#x27; &#x27; VV 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797052001:0002/pct:77.84571966133583,30.048896132760408,16.39228598306679,28.018965772707066/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797052001:0002/pct:77.86335841956726,30.048896132760408,16.386406396989653,28.033782782634464/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -232,7 +232,7 @@ circulating in Europe, we deem it j&#x27;uft, if a
 forgery, to give Mr. Jefferfon an ojtoirtunity  
 to difovow it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797052001:0002/pct:77.96331138287864,58.023410875685286,16.01599247412982,4.193213809453252/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797052001:0002/pct:77.96919096895579,58.030819380648985,16.027751646284102,4.20062231441695/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -611,7 +611,7 @@ to serve the enemies of France.&quot;
 The effects intended to be produced by  
 your letter in the United States,, and .the ef
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797053101:0002/pct:45.073078736445076,6.2592264540891644,32.88543140028288,86.00531443755536/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797053101:0002/pct:45.07897218293258,6.2592264540891644,32.88543140028288,86.01269560082669/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -719,7 +719,7 @@ us to the British model in itscorrupt parts.]&quot;
 This is one of the parts of the letter so  
 injurious to America—one of those ver
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797090701:0002/pct:42.88782816229117,23.97342995169082,17.37470167064439,11.865942028985508/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797090701:0002/pct:42.90572792362769,23.980978260869566,17.36276849642005,11.87349033816425/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -757,7 +757,7 @@ is at once annihilated !I&quot; This is the fair
 declaration made in this part of the letter,  
 aud the absolute proposals made to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797090701:0002/pct:43.12649164677804,42.632850241545896,17.20763723150358,14.870169082125605/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797090701:0002/pct:43.12649164677804,42.632850241545896,17.225536992840095,14.870169082125605/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -801,7 +801,7 @@ Can it be imagined that these sentiments
 ever flowed from the pen of an Ameriean ?  
 And yet, that they did, I have not th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797090801:0002/pct:23.770293191180034,31.083535108958838,17.324933365640902,18.719733656174334/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797090801:0002/pct:23.782408529197966,31.083535108958838,17.318875696631935,18.731083535108958/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -821,7 +821,7 @@ of that system of ingratitude and injuflice to­
 wards France, from which,they would alien­  
 ate us, to bring us under British influence.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797090801:0002/pct:23.72183183910831,56.068401937046005,16.93724254906712,3.7378934624697338/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797090801:0002/pct:23.727889508117276,56.068401937046005,16.967530894111945,3.7530266343825667/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -840,7 +840,7 @@ lands, and the mass of men of talents, were
 opposed to our government,&quot; and that those  
 * At the commencement of the revolution i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797090801:0002/pct:59.09861885146596,75.272397094431,16.93724254906712,3.4957627118644066/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797090801:0002/pct:59.09861885146596,75.28374697336562,16.943300218076086,3.503329297820823/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -902,7 +902,7 @@ justice toward* France, fronj which they ft
 would alienate us, to bring us under Eritifti tl  
 influence, See.&quot; t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797123001:0003/pct:58.17964071856287,15.021135265700483,18.20359281437126,29.74033816425121/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797123001:0003/pct:58.191616766467064,15.032457729468598,18.191616766467067,29.74033816425121/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -923,7 +923,7 @@ letter is cireulating in Europe, we deem it
 just, if a forgery, to give Mr. Jefferfon an y  
 opportunity to disavow it.] f
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797123001:0003/pct:58.58682634730539,44.83695652173913,17.79640718562874,4.3478260869565215/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797123001:0003/pct:58.58682634730539,44.84450483091788,17.79640718562874,4.351600241545894/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1106,7 +1106,7 @@ j | 1 lilliputian ties by which they have bound us
 all in the firft (lumbers which succeeded our la- j  
 lc_ boiirs.&quot; What does this mean ? What ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798012701:0003/pct:39.92580570368653,56.487646101494306,18.015302573614655,4.897174138186122/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798012701:0003/pct:39.92580570368653,56.49504364550969,18.021099003014143,4.908270454209203/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1171,7 +1171,7 @@ can.t arrefl the progress of that system of in­
 j gratitride and injnftice towards France,  
 which these confpiraten have been DMtluirig
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798030701:0002/pct:10.474631751227497,5.8538798971411286,34.41664718260463,89.50234457721979/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798030701:0002/pct:10.492167407061023,5.861443049463016,34.41080196399346,89.50612615338073/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1279,7 +1279,7 @@ prove cnly whai is too evident, that th.y ufe
 the liberty cf the preis, to fer ve the enemies of  
 Fr ance.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83045634:00332895059:1799012101:0154/pct:1.570783428234832,11.684782608695652,47.830355389750636,83.80198487712666/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83045634:00332895059:1799012101:0154/pct:1.5704750687082842,11.683402244536326,47.82587357675697,83.79503839338453/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1340,7 +1340,7 @@ j towards France, from which they would ajien­
 . at- us&gt; t0 bring us uiider Britilh influence,  
 f &amp;C\ 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799012201:0003/pct:23.314943631566322,17.19255040788056,17.91796593907412,30.84500538710174/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799012201:0003/pct:23.314943631566322,17.19639833769432,17.93595586471576,30.85270124672926/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1357,7 +1357,7 @@ f &amp;C\
 &quot; you left us fnftead cf that noble love of liberty, and  
 •l lhar republican government which carried us throug
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83045634:00332895059:1799012801:0158/pct:1.6056393185823379,34.05488526141472,22.537693362052085,1.7861367400047314/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83045634:00332895059:1799012801:0158/pct:1.6053249804228662,34.0508574807806,22.538175411119813,1.7888823181549378/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1394,7 +1394,7 @@ i IAN riES by which they have bound us nthefirfl
 . [“ &#x27;They!&#x27;—who are “they”?—I have fhewn  
 who nve are—now let us examine a little Lette
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83045634:00332895059:1799012801:0158/pct:25.0636381437243,23.65744026496333,22.792245936949286,15.140761769576532/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83045634:00332895059:1799012801:0158/pct:25.05873140172279,23.65464222353637,22.792678151918558,15.141927853341219/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1413,7 +1413,7 @@ ceed. “ Our majs of weight and richer are fo pow­
 “ guard curfetves and BREAK the idlipmian ties  
 “ by which they have bound usHe; e is an a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83045634:00332895059:1799030401:0178/pct:27.59368836291913,31.404375441072688,22.386587771203157,3.5403434486003293/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83045634:00332895059:1799030401:0178/pct:27.588246894103726,31.400682112195696,22.387103135476238,3.5428672233329412/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1479,7 +1479,7 @@ tude and iijullice, towards France, from
 whom they would alienate us, to brinjj us  
 under British influence, &amp;c.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1800021301:0003/pct:7.371869880645916,4.035664007508212,33.62976831266089,91.25606131706554/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1800021301:0003/pct:7.377720571027381,4.047395588925387,33.64146969342382,91.24432973564836/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1498,7 +1498,7 @@ but we shall preserve it. It is fufficient that
 we guard ourselves, and that we break the  
 Li&#x27;liputian ties by which they have bound us,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800071701:0002/pct:59.84443364122509,38.39343206696716,16.820612542537678,3.34835801674179/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800071701:0002/pct:59.85658726300438,38.40550547327753,16.826689353427323,3.34835801674179/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1575,7 +1575,7 @@ lienate us, to bring us under Bri­
 tish inilueace, See.  
 Strictures upon tbs Utter imputed t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184169:1800091601:0106/pct:6.203896349536599,13.672496025437201,36.29657650841687,84.14149443561209/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184169:1800091601:0106/pct:6.202723146747353,13.670684858921712,36.29601613716591,84.13476398639996/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2024,7 +2024,7 @@ would strike &amp; tcrrihiy blow at tsi:
 &#x27;cotnmcrcc of the Ictl&#x27;ig lish,\ &quot;OU&#x27;JZW  
 them uneasiness for the 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802061401:0144/pct:77.54452926208651,41.606581623220556,19.27480916030534,23.43316694398225/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802061401:0144/pct:77.53219907775481,41.602735927534894,19.277044575184185,23.43408201620606/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2043,7 +2043,7 @@ and and prove only what is to.)
 ;: evident, that they use the liberty of  
 .: the press to serve the enemicsss Qf
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802061401:0145/pct:1.789423230548011,5.744077563340346,21.441124780316343,4.445257477362115/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802061401:0145/pct:1.7891373801916932,5.743552222425462,21.443024494142705,4.447899518322053/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2101,7 +2101,7 @@ the progrefs of that {yem «f ingratitude oc!.j
 #njofice towands ¥ rance, from whom they wou  
 ahizoate us 19 briog us under Bridilli influence.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1802082801:0178/pct:4.533956022572485,69.19115064965469,19.809301420509826,15.193725857427133/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1802082801:0178/pct:4.533956022572485,69.19895430957119,19.828760459233315,15.193725857427133/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2219,7 +2219,7 @@ tion! And now the partizans of him who
   
 , wrote this very letter have the brazens
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802100901:0441/pct:1.1940773762139787,3.4338581976692466,43.91020538130871,91.83346677341873/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802100901:0441/pct:1.1938872970391594,3.4335527486212416,43.908521702217975,91.82826306113978/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2239,7 +2239,7 @@ msin who were Solomons in council and
 53 -z.}&gt;siz&#x27;is m combat, but wiinse hair has  
 be*&#x27;*-&#x27;1150sf—&quot;)) the Wizse Of England. -
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802101501:0460/pct:7.943485086342229,90.63390313390313,21.993720565149136,4.896723646723647/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802101501:0460/pct:7.9422382671480145,90.62583459449836,21.995500444723486,4.899255170776581/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2258,7 +2258,7 @@ wards France from whith they [the ansi&#x27;silo­
 monarchisharistoetazu sia&#x27;ly] wou.d ci  
 si-ette us to bring us under-British itctslu 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802101501:0460/pct:31.381475667189953,38.96011396011396,22.135007849293565,4.335826210826211/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802101501:0460/pct:31.37654999215194,38.95664559779222,22.13676555224193,4.33840766788332/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2317,7 +2317,7 @@ break the LilllPJlian ties by which THE,­
 have bound us in the first llumbcrs whisi-h  
 sttcce-siied out labours.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802101901:0472/pct:54.788909892879644,4.376012965964343,43.557025834908636,91.62614802809293/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802101901:0472/pct:54.78028035911167,4.375618979022239,43.55541555100541,91.62089973290118/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2386,7 +2386,7 @@ Seed9
   
 Frem the Recorder, printed at Richmond. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016072:00332895060:1802120601:0111/pct:42.51148004238785,42.765869744435285,18.77428470505122,37.05688375927453/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016072:00332895060:1802120601:0111/pct:42.50397315910295,42.76146316331788,18.77538407204662,37.05564142194745/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2425,7 +2425,7 @@ council and Sampfons in combat, but
 whole hair has been cut off by the whore  
 of England.” Now, I afk, will any ma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016081:00332895060:1803120301:0024/pct:28.37837837837838,4.184659675097676,23.492723492723492,18.455685790664198/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016081:00332895060:1803120301:0024/pct:28.37346267105491,4.1842294643775055,23.49298458340551,18.456358589493163/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2443,7 +2443,7 @@ cluding period is in these words—“ it suffices that we arrest
 44 wards France, from which they would alienate 111 to brin-r  
 “ us under British influence.”. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805021801:0357/pct:4.4779938587512795,88.46153846153847,21.95496417604913,2.0772476468679/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805021801:0357/pct:4.476848298797647,88.44718481259127,21.9557431568176,2.0809670614960245/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2499,7 +2499,7 @@ lished in the United .States&#x27;, about the 4th Ma:j
 4 us to the British model iu all its corrupt  
 4 Darts.’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805052201:0517/pct:3.2349896480331264,2.4584825789645066,46.350931677018636,94.90394008466298/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805052201:0517/pct:3.2341526520051747,2.4580823701774377,46.34540750323415,94.89256063812469/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2524,7 +2524,7 @@ peril; but We shall preserve it. ()un mass of
 liqvcnﬄhmg tofear f rom any attempt against  
 usby sorctcess It; izct sufficient that we guard
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808081901:0268/pct:3.670982482863671,75.69909765031716,23.427265803503428,7.4242830340391315/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808081901:0268/pct:3.670423393237892,75.69233517956047,23.428774494872577,7.426597582037997/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2543,7 +2543,7 @@ had testtlcd iu resentment by break­
 ful and faithless ally until she rsutrOs  
 tp .a more just and benevolent conduct
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808100701:1041/pct:46.99034639409427,60.497187443295225,19.50596252129472,3.937579386681183/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808100701:1041/pct:46.97700823162078,60.48621190130624,19.507521998296905,3.941400580551524/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2600,7 +2600,7 @@ the liuputian tics, by which they have bound
 us in the first slumbers which succeeded  
 our labors.&#x27;* Three things are to be notice
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016082:00332895084:1814052301:0043/pct:20.611459809678074,63.1216633885923,17.31119659850172,3.975835908963192/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016082:00332895084:1814052301:0043/pct:20.60728744939271,63.112796741115325,17.312753036437247,3.9787891557803063/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2622,7 +2622,7 @@ dential letter wiiiten by a Mr. Marbois to
 the Count de Vergenes, the French Minis*  
 ter of foreign affairs, which fell into th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016082:00332895084:1814053001:0047/pct:20.79269557999585,54.185948674800166,17.659265407760945,6.366568503716169/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016082:00332895084:1814053001:0047/pct:20.78838174273859,54.178351093662364,17.660788381742737,6.3691811553561415/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2704,7 +2704,7 @@ ty of the press (0 serve the enemies of France.”
 The effects intended to be produced by your  
 letter in the United States, and the effect* whic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1816071101:1049/pct:51.8974358974359,43.58020698576973,21.871794871794872,44.51811125485123/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1816071101:1049/pct:51.884132273775954,43.573160873080035,21.87259677005896,44.51495553759094/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2916,7 +2916,7 @@ wter from, us that liberty, which we have obtained by so
 mruch sabor and perd but we shall preserve it. Our mass  
 eight and riches is so powerful, that we have nothin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530303:1850020501:0359/pct:88.24659727782226,23.33058532563891,41.809447558046436,18.136850783182194/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530303:1850020501:0359/pct:29.415532425940754,7.7768617752129705,13.936482519348813,6.045616927727398/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3046,7 +3046,7 @@ laws were aimed when passed
 and he was one of the first arrested  
 and punished under their provision
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_echo_ver03:data:sn86064205:00206536524:1884012101:0684/pct:266.9877408056042,48.75562218890555,113.66024518388791,337.7961019490255/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_echo_ver03:data:sn86064205:00206536524:1884012101:0684/pct:66.76155025180644,12.188905547226387,28.421283118020582,84.44902548725638/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

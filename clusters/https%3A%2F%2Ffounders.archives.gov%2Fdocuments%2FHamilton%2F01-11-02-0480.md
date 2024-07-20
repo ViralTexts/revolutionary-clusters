@@ -44,7 +44,7 @@ breadth at the broadest part above the main wales, and half such
 breadth shall be accounted the depth of every double decked ves­  
 sel; he shall then deduct from the length three-fifths of the breadth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789092601:0004/pct:18.830242510699,44.170959740507534,25.278174037089872,3.186414806334669/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789092601:0004/pct:18.83737517831669,44.170959740507534,25.271041369472183,3.2007250524709026/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -66,7 +66,7 @@ be accounted the depth of every double
 decked veflel ; he thall then deduét from  
 the length three-fifths of the breadth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789102201:0477/pct:28.50264805007222,80.1501795625204,20.847376023110254,6.888671237349004/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789102201:0477/pct:28.51067244423046,80.15562085101752,20.847376023110254,6.888671237349004/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -93,7 +93,7 @@ United Srates of America, in Congress alTembled, That from
 and after the firft day of June next, the following road* be cftab­  
 lifhed as port-roads, namely : From Wifcaffet in the diftrif&#x27;t o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792030301:0001/pct:8.844596698847711,25.976331360946745,27.77950794145126,8.481262327416173/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792030301:0001/pct:8.867953908439738,25.976331360946745,27.76393646838991,8.500986193293885/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -147,7 +147,7 @@ are provided hv the act, entitled &quot; a n
 act imposing duties on the tonnage* of  
 ships or vessels,&quot; passed on the twentiet
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1816121701:0280/pct:37.14566606586924,52.452782355178094,14.746845813534327,2.3957409050576755/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1816121701:0280/pct:37.139580602883356,52.446134347275034,14.749890782000874,2.3996620194338827/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -541,7 +541,7 @@ the product by the depth, and shall divide this last produc
 
 ---
 
-## [From _Scientific American (1845-1908)_](https://archive.org/details/sim_scientific-american_1860-04-21_2_17/page/n1/mode/1up?view=theater)
+## [From _Scientific American_](https://archive.org/details/sim_scientific-american_1860-04-21_2_17/page/n1/mode/1up?view=theater)
 
 #### 1860-04-21 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -605,7 +605,7 @@ of the stern post abaft is fifty-six feet four inches;
 her breadth at the broadest part taken above the  
 main wales is seventeen feet two inches and 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn88085145:no_reel:1862111301:0922/pct:153.458942632171,57.291666666666664,43.7007874015748,7.666666666666667/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn88085145:no_reel:1862111301:0922/pct:51.15298087739033,19.09722222222222,14.566929133858268,2.5555555555555554/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

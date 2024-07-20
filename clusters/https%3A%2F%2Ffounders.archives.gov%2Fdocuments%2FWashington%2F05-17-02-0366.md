@@ -116,7 +116,7 @@ to succeed to the office. All which is most respect­
 fully submitted. OLIVER WOLCOTT,  
 Secretary of the Treasury
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348860:1839042901:1130/pct:82.22748815165876,49.31425163983304,15.738546603475513,11.180679785330948/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348860:1839042901:1130/pct:82.21125370187562,49.30690117752273,15.740375123395854,11.182739603517662/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -157,7 +157,7 @@ I to succeed to the office.&#x27;
 OLIVER AOLCOTT,  
 Secretary of the Treasury
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_hookandcook_ver03:data:sn88084131:00295861800:1839050301:0099/pct:19.8698421489892,59.656528830471075,16.82359457214068,14.75582845629857/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_hookandcook_ver03:data:sn88084131:00295861800:1839050301:0099/pct:19.87907320225238,59.66292494163549,16.82359457214068,14.75582845629857/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -285,7 +285,7 @@ All which is respectfully submitted.
 OLIVER WOLCOTT,  
 , x - Secretary of the Treasury
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016884:00295877662:1839050701:0639/pct:90.95744680851064,27.357097658721788,17.401215805471125,19.658299936722212/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016884:00295877662:1839050701:0639/pct:68.23225414196686,20.523096393166,13.056695546435629,14.743724952541658/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -416,7 +416,7 @@ All which is respectfully submitted.
 OLIVER WOLCOTT.  
 Secretary of the Treasury
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016942:00295878204:1839053001:0864/pct:29.84375,44.04173531026908,25.200892857142858,21.11477210323998/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016942:00295878204:1839053001:0864/pct:22.403395130667857,33.031301482701814,18.91891891891892,15.84294343767161/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -458,7 +458,7 @@ All which is respectfully submitted.
 OLIVER WOLCOTT  
 Secretary of the Treasury
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016942:00295878204:1839060601:0867/pct:53.389830508474574,14.364488558036944,49.7992863514719,111.29032258064517/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016942:00295878204:1839060601:0867/pct:40.07139669790272,10.780259167355942,37.37170905845605,83.47118830989798/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

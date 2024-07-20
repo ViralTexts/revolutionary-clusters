@@ -223,7 +223,7 @@ contiguity to the seat of government, which,
 more than probable will be fixed at the mouth  
 ot the Great Kanhawa.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mastiff_ver01:data:sn83045462:00280654401:1873082001:0172/pct:1.2059369202226344,30.152990264255912,13.821892393320965,7.357440890125174/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mastiff_ver01:data:sn83045462:00280654401:1873082001:0172/pct:1.2105751391465678,30.156467315716274,13.840445269016698,7.357440890125174/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -258,7 +258,7 @@ Kanawha, he proposes to divide the tract 1
 into lots and lease them, allowing a reason- .  
 able number of years rent free, li
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_forego_ver01:data:sn84024670:00280762428:1873082101:0201/pct:5.129224652087475,3.2238982549541557,26.202783300198806,93.5226264418811/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_forego_ver01:data:sn84024670:00280762428:1873082101:0201/pct:5.144135188866799,3.2312925170068025,26.202783300198806,93.51892931085477/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -290,7 +290,7 @@ great state of that name resulted from tho
 movement. Ohio then belonged to Vir­  
 ginia, and now (he child surpasses th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_forego_ver01:data:sn84024670:00280762428:1873082101:0201/pct:18.05168986083499,12.703342206447797,13.280318091451292,8.85832593907128/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_forego_ver01:data:sn84024670:00280762428:1873082101:0201/pct:18.056660039761432,12.714433599526767,13.295228628230616,8.85832593907128/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -677,7 +677,7 @@ dress, shows that there was some good sense in old
 tunes :  
 &quot;That a plain dress is the best ornament of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84020713:00296022986:1873091601:0364/pct:42.56535947712418,31.260865119132834,19.730392156862745,16.01390735249003/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84020713:00296022986:1873091601:0364/pct:31.935176358436607,23.448205337969117,14.803213945253983,12.015543511606504/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -783,7 +783,7 @@ tosether, we are constrained to belleve that
 the father of his country,&quot; at the time he  
 wrote this, must have kept out of view th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn83045160:00200293095:1874030401:0258/pct:111.6800920598389,213.076839943802,40.96662830840046,32.98389711444937/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn83045160:00200293095:1874030401:0258/pct:27.928057553956833,53.2692099859505,10.244604316546763,8.245974278612342/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -844,7 +844,7 @@ the great ease and convenience of the
 settlers in transporting the produce of  
 their lands to market.&quot; Taking th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn85038088:00296028903:1874030601:0093/pct:114.14020371479928,31.056536198516245,12.747153984421809,33.05193144026605/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn85038088:00296028903:1874030601:0093/pct:85.64363854338379,23.292402148887184,9.57590289225236,24.80173957533896/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -909,7 +909,7 @@ tine Mi and wild fowls of various kinds,
 of which (by tho bounlifpl band tif- nalarej)  
 are, In tbeir*present state, al&#x27;moW-fit fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn84026817:00202193778:1874060401:0253/pct:48.267654059772546,18.49283402681461,16.133298069293836,31.329942980428417/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn84026817:00202193778:1874060401:0253/pct:48.28087807458344,18.500539374325783,16.12668606188839,31.33764832793959/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -957,7 +957,7 @@ probable will be fixed at the mouth of the
 Great Knnlimca.  
 GEOitOE WASHINGTON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn84026817:00202193778:1874060401:0253/pct:48.16186194128537,52.24225612575127,16.265538217402803,26.0748959778086/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn84026817:00202193778:1874060401:0253/pct:48.18169796350172,52.24225612575127,16.27215022480825,26.090306672830945/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1187,7 +1187,7 @@ ble will be flxi-d at the mouth of the
 Great Kanhawn.  
 G K? &gt; KG K W A S111N GTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_enterprise_ver02:data:sn84026847:00415665234:1876070401:0015/pct:14.197440047079594,16.600501462599247,15.197881418272768,48.01504387797743/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_enterprise_ver02:data:sn84026847:00415665234:1876070401:0015/pct:14.197440047079594,16.60398384176069,15.212593791378549,48.01504387797743/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1212,7 +1212,7 @@ it is more thun probable,
 will be fixed at the mouth of the Great  
 Kanawha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_belgium_ver01:data:sn84026844:00202193419:1876082601:0820/pct:13.607760880964866,31.464063886424135,16.046145778710017,5.270629991126886/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_belgium_ver01:data:sn84026844:00202193419:1876082601:0820/pct:13.614315679077084,31.4773735581189,16.078919769271106,5.270629991126886/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1230,7 +1230,7 @@ Kanawha
 them upon moderate terms, allowing a rea  
 sonablc number of years free of rent.’’ H
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348720:1877032901:0277/pct:48.89123548046462,3.7460978147762747,11.246040126715945,1.8470343392299688/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348720:1877032901:0277/pct:48.88263241245821,3.7456106125634023,11.248460320253388,1.8500455195734167/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1255,7 +1255,7 @@ ment, which, more than probable, will b&lt;
 fixed at tlie mouth of the Great Kanawha.’  
 The Hebrew Passover.—To-day is ti
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348720:1877032901:0277/pct:48.89123548046462,6.165452653485952,11.246040126715945,5.697190426638918/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348720:1877032901:0277/pct:48.88263241245821,6.164650799843933,11.248460320253388,5.6997008713746915/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1379,7 +1379,7 @@ from their contiguity to the seat of gov­
 ernment, which more &quot;&quot;nprobabe wUl  
 be fixed at the mouth of the Great Ka
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_eritrea_ver01:data:sn84026844:00202193432:1878061401:0577/pct:33.580705009276436,39.54359065787128,13.331566392790883,39.49010518809057/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_eritrea_ver01:data:sn84026844:00202193432:1878061401:0577/pct:33.60058309037901,39.548047780353,13.338192419825074,39.49901943305402/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1490,7 +1490,7 @@ NOTICE to PHYSICIANS!
 At r. meeting of the Overseers of the Poor.  
 of Lev.-is county, held nt the Cou.t lloii
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn84038198:00202192506:1878062201:0599/pct:30.490874764002516,1.553191489361702,26.651982378854626,97.55319148936171/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn84038198:00202192506:1878062201:0599/pct:30.490874764002516,1.5585106382978724,26.69131529263688,97.56382978723404/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1591,7 +1591,7 @@ will be fixed at the mouth of the Great
 Kanhawa.  
 GEOROE WASHINTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_funston_ver01:data:sn84027670:00237283387:1879011601:0247/pct:223.50103376981392,65.63122262046993,49.20744314266023,183.45944510819064/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_funston_ver01:data:sn84027670:00237283387:1879011601:0247/pct:55.87525844245348,16.407805655117482,12.301860785665058,45.86486127704766/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1689,7 +1689,7 @@ more than probable will be fixed at the
 mouth of the Great Kanhawa.  
 GEOrGE WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ike_ver01:data:sn82014424:0021110286a:1883012901:0107/pct:82.78546712802768,146.36408812324,48.78892733564014,147.4904754016896/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ike_ver01:data:sn82014424:0021110286a:1883012901:0107/pct:20.70084360804672,36.59102203081,12.199870214146658,36.8726188504224/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1739,7 +1739,7 @@ been surveyed in the part of tho country they
 lie iu. it is needless to premise that noun cau  
 exceed them in luxuriauceof soilorconteuieuc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555675:1883022201:0631/pct:68.67732558139535,44.277394013273735,14.91642441860465,15.752404171745903/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555675:1883022201:0631/pct:51.52671755725191,33.211431667343895,11.195928753180661,11.810916971420832/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1761,7 +1761,7 @@ compass of a few miles, to the great ease and
 contenienco of the settler iu transporting the  
 prodncA of their lauds to market. To thich
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555675:1883022201:0631/pct:68.62281976744185,64.43180279019369,14.625726744186046,3.5351483136936204/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555675:1883022201:0631/pct:51.4903671392221,48.327238250033865,10.977826245001818,2.6547473926588108/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1800,7 +1800,7 @@ Great Kanbaws.
 Washington&#x27;s Boyhood.  
 It (Stratford Honse) is ouly a mile from th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555675:1883022201:0631/pct:68.67732558139535,69.32141405932548,29.742005813953487,11.011783827712312/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555675:1883022201:0631/pct:51.52671755725191,51.9978328592713,22.31915667030171,8.26222402817283/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1829,7 +1829,7 @@ hemd be contiguans to the seat of government, wid
 more than probable will be fixed at the mouth of the  
 Great Kanawha.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mazda_ver01:data:sn83030214:00175039971:1883082201:0458/pct:248.33792767958488,51.231415276359094,46.521809631911786,5.992509363295881/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mazda_ver01:data:sn83030214:00175039971:1883082201:0458/pct:82.7793092265283,17.077138425453033,15.50726987730393,1.9975031210986267/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1902,7 +1902,7 @@ ucti.aily pa--, d ihe -eals for the sew r d
 . &#x27;in may eii.fi vale aid enjoy the la.ids  
 in pi a. e and s ifity, notwithstandin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_nova_ver02:data:sn86092523:00383341681:1883090201:0082/pct:52.550796667153925,36.32305194805195,11.504166057593919,24.81737012987013/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_nova_ver02:data:sn86092523:00383341681:1883090201:0082/pct:52.5431160479392,36.31936694734706,11.507356523433694,24.81823408068716/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2102,7 +2102,7 @@ amateur philosopher, was not at all astonished
 at the recent earthquake. He is only surprised  
 that they have not occurred sooner. “My the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:00414210181:1886090901:0073/pct:3.4542085759661196,37.98646362098139,14.650608787718369,22.024816694867457/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:00414210181:1886090901:0073/pct:3.458620081171696,37.98646362098139,14.655020292923945,22.024816694867457/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2288,7 +2288,7 @@ THIERS.
 All tho Year Round.  
 Though small in body, Thiers wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_neely_ver01:data:sn85059778:00340582135:1887110401:0165/pct:55.35168195718654,12.75612695861792,24.589936057825966,83.71836078746485/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_neely_ver01:data:sn85059778:00340582135:1887110401:0165/pct:55.343988881167476,12.754845837099529,24.591151262450776,83.71330052559338/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2335,7 +2335,7 @@ before the 1st of October next , in order that
 sufficient number of lots may bo laid off tq  
 answer the demand.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_dewitt_ver01:data:sn99021999:00206539616:1888102801:1006/pct:81.82599724896836,48.82571075401731,12.293672627235214,13.624502128828457/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_dewitt_ver01:data:sn99021999:00206539616:1888102801:1006/pct:81.83889270976616,48.8360115368768,12.293672627235214,13.624502128828457/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2375,7 +2375,7 @@ settl-* on these lands maybe morn fully in
 formed ot tlieeo terms bv apply to the ante  
 • rll-f.nw Alexandria, or, In bis abaenoe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_floyd_ver01:data:sn86092245:00279550316:1888110101:0179/pct:31.38419986495611,85.46834901625321,12.329507089804187,10.511120615911034/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_floyd_ver01:data:sn86092245:00279550316:1888110101:0179/pct:31.379962192816635,85.45921094835882,12.332343145197587,10.51356071135821/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2422,7 +2422,7 @@ first of October next. in order that suficient
 number of lots may be laid off to answer the  
 demand.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_fleshgolem_ver02:data:sn92063989:00514153577:1888110301:0298/pct:13.874715014656388,73.54833319408472,10.074910433177722,11.17052385328766/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_fleshgolem_ver02:data:sn92063989:00514153577:1888110301:0298/pct:13.88195273766873,73.54833319408472,10.071291571671551,11.17052385328766/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2537,7 +2537,7 @@ number of lots may be laid off to answer thi
 demand.  
 Prince Eugene, youngest son of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_elk_ver01:data:sn91068084:00202197887:1888110901:0508/pct:57.70082226438963,104.0461170328475,22.67552182163188,22.351533608875354/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_elk_ver01:data:sn91068084:00202197887:1888110901:0508/pct:43.28641467657757,78.04002610398086,17.017238652538353,16.760931041983902/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2604,7 +2604,7 @@ a disposition to improve the opportu­
 nities he has.  
 The great secret of getting on i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_hobbs_ver01:data:sn84024283:00294556849:1888111501:0380/pct:59.17107583774251,8.090353808920133,32.833627278071724,118.23210787138412/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_hobbs_ver01:data:sn84024283:00294556849:1888111501:0380/pct:44.39870626286386,6.073527716952864,24.625110261687738,88.6711997234067/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2642,7 +2642,7 @@ down in good ciu-jj for meadow: and, inore­
 ! over, that at lea-t tilt v nood fruit trees for  
 &#x27; every like quantity of Inud .hull be plante
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn84026497:00280776142:1888112101:0319/pct:58.5,111.79195934837841,16.96,12.942758929905844/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn84026497:00280776142:1888112101:0319/pct:43.897559023609446,83.84396951128382,12.725090036014405,9.714541921984756/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2698,7 +2698,7 @@ Those who wish to succeed must be­
 gin by putting the idea of &quot;luck&quot; be­  
 hind them. If they will inquire int
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_earhart_ver01:data:sn85032814:00237283259:1888120601:0375/pct:8.396946564885496,82.24332772301034,21.28730048577377,38.903582591969226/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_earhart_ver01:data:sn85032814:00237283259:1888120601:0375/pct:5.605692467893093,54.832892522240925,14.196459562651857,25.93171435441212/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2977,7 +2977,7 @@ them on moderate terms, allowing a rea­
 sonable number of years rent free, pro­  
 vided within the space of two years thre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_hairspray_ver01:data:sn87060190:0021110384A:1889021401:0161/pct:35.30172413793103,97.22262404166064,21.70258620689655,7.391870389121944/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_hairspray_ver01:data:sn87060190:0021110384A:1889021401:0161/pct:26.4984907287624,72.92058440619124,16.278568348426045,5.540286416895704/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3140,7 +3140,7 @@ more than probable will be fixed at the
 mouth of the Great Kanhawa.  
 Georoe Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_jaeger_ver01:data:sn93051669:0020029886A:1890010401:0086/pct:33.03938859494415,4.653895874955929,27.23398001175779,120.55470678105536/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_jaeger_ver01:data:sn93051669:0020029886A:1890010401:0086/pct:24.78318388946053,3.490421906216947,20.432162281346464,90.42190621694677/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3249,7 +3249,7 @@ the month of the Great Kanhawa,
 GCORQE WASIEDiGTOK.  
 II You Like a Good Ciffnr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_jones_ver01:data:sn96061150:00200298408:1890010801:0048/pct:77.61943539630836,21.859951845906902,16.978827361563518,64.857544141252/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_jones_ver01:data:sn96061150:00200298408:1890010801:0048/pct:51.764865598696716,14.576645264847512,11.32229161010046,43.23836276083467/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3468,7 +3468,7 @@ most excellent meadows, many of which (by
 the bountiful hand of nature) are In their  
 present state almost fit for the scythe.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_franco_ver01:data:sn84024546:00237280192:1891062501:0594/pct:37.177309782608695,54.810250665172944,15.09850543478261,9.606497689399244/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_franco_ver01:data:sn84024546:00237280192:1891062501:0594/pct:27.901444350042482,41.11468981935303,11.333899745114698,7.1978714465761096/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3559,7 +3559,7 @@ uotwithftanding the unfettled coun­
 fels refpccting a new colony on the  
 Ohio-, und us no right money is to be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kite_ver01:data:sn86092182:00514157492:1891072501:0716/pct:65.22044616195328,62.545405623570566,10.170384682943967,36.17651015740616/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kite_ver01:data:sn86092182:00514157492:1891072501:0716/pct:65.20899192132069,62.536992198009145,10.172989111345276,36.17500672585418/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3594,7 +3594,7 @@ more than probable will be fixed at
 the mouth of the Great Kanhaum.  
 GEORGE WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kite_ver01:data:sn86092182:00514157492:1891072501:0716/pct:75.75970490075531,76.94066998520113,9.994730370630599,9.29638100363245/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kite_ver01:data:sn86092182:00514157492:1891072501:0716/pct:75.74639971900245,76.93032015065913,9.997365648050579,9.2984934086629/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3611,7 +3611,7 @@ obtained patents to &quot;upwards of 20,000
 Acres of Land on the Ohio and Great  
 Kanhawa, which he propofes to divid
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_jamaica_ver01:data:sn97065761:00279523544:1891091001:0375/pct:45.25832056816599,47.06754181664196,11.920345355800027,1.5138683040440397/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_jamaica_ver01:data:sn97065761:00279523544:1891091001:0375/pct:45.25832056816599,47.06754181664196,11.929629113865293,1.517397134589597/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3642,7 +3642,7 @@ nature) are in their preient ftate almost
 fit for the fcythe.&quot; Among the adver­  
 tisers in the paper are &quot;Christophe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_jamaica_ver01:data:sn97065761:00279523544:1891091001:0375/pct:45.25832056816599,48.53906415413932,12.017824815485309,7.982214694050391/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_jamaica_ver01:data:sn97065761:00279523544:1891091001:0375/pct:45.25832056816599,48.53906415413932,12.022466694517941,7.985743524595949/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3672,7 +3672,7 @@ nature) are in their prefent f tate almost
 fit for the fcythe.&quot; Among the adver­  
 tisers in the paper are &quot;Christophe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_abbott_ver01:data:sn95073194:00206539264:1891091601:0650/pct:53.91076115485564,40.67726615734049,13.884514435695538,9.725376832541812/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_abbott_ver01:data:sn95073194:00206539264:1891091601:0650/pct:40.44899566758566,30.50794961800537,10.424051463830905,7.299194714020236/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3795,7 +3795,7 @@ tint from their contiguity to tbo mat of th
 government , which mot ot him probable wil  
 bo llxed at the mouth of the Great Kuuhaw
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_alliance_ver01:data:sn99021999:0020653882A:1892022201:0281/pct:22.676912080057182,71.66204986149584,16.994281629735525,52.96398891966759/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_alliance_ver01:data:sn99021999:0020653882A:1892022201:0281/pct:17.02127659574468,53.75346260387812,12.74807795458609,39.71952908587257/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3817,7 +3817,7 @@ sonable number of years rent free,&quot; provid
 ed the lessee makes certain improvements  
 on the land
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777110:1893060101:0258/pct:71.15531752104054,90.81539860563807,49.5026778882938,15.15610791148833/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777110:1893060101:0258/pct:17.788829380260136,22.703849651409516,12.37566947207345,3.7890269778720826/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3891,7 +3891,7 @@ contiguity to the scat of government,
 which more than probably will bellied  
 at the mouth of thoOrent Kanawha.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kite_ver01:data:sn86092182:00514157509:1893090901:0140/pct:87.52359704822379,29.67972438433074,10.073794405354384,5.014673982391221/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kite_ver01:data:sn86092182:00514157509:1893090901:0140/pct:87.50857927247769,29.67593773921919,10.076355525051476,5.0172237815769325/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3966,7 +3966,7 @@ auts and rent on most favorable
 terms, allowing a reasonable  
 number of years free. He add
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jones_ver02:data:sn84037844:00415664850:1895022201:0562/pct:36.51537335285505,66.74782608695652,16.45680819912152,10.052173913043479/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jones_ver02:data:sn84037844:00415664850:1895022201:0562/pct:36.53733528550512,66.76086956521739,16.45680819912152,10.052173913043479/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4034,7 +4034,7 @@ mouth of the t»rcut Kanhawa.
   
 OLOW! 12 ASIIlNflTON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_interceptor_ver01:data:sn98062890:00415624761:1895052301:0224/pct:39.143468950749465,15.765422696115765,14.11134903640257,20.60929169840061/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_interceptor_ver01:data:sn98062890:00415624761:1895052301:0224/pct:39.14882226980728,15.776846915460776,14.127408993576017,20.60929169840061/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4061,7 +4061,7 @@ trees planted. The advertisement is
 signed by Washington and states that  
 should be not be at his home appli
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_irwin_ver01:data:sn86092518:00340582226:1898011001:0060/pct:62.0353806400318,27.044265850236,15.20572450805009,7.628524046434494/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_irwin_ver01:data:sn86092518:00340582226:1898011001:0060/pct:62.02305246422893,27.040816326530614,15.207670906200319,7.630739795918367/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4092,7 +4092,7 @@ by &#x27;Washington and states that
 should he not be at his home ap­  
 plicants should apply to Lun
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jones_ver02:data:sn84037844:00415664862:1898011401:0410/pct:16.430358632193496,17.40423298933007,16.152349179872115,12.419100927059647/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jones_ver02:data:sn84037844:00415664862:1898011401:0410/pct:16.444259104809564,17.40423298933007,16.15929941618015,12.445338464229492/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4120,7 +4120,7 @@ advertisements of slaves, for white
 serving men who have strayed from  
 their masters, and one of these Is de
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_earl_ver02:data:sn85054468:211102147:1898060401:0240/pct:30.443305186972257,119.12846632710809,18.154402895054282,10.888511601584607/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_earl_ver02:data:sn85054468:211102147:1898060401:0240/pct:20.30472167747775,79.42275042444821,12.11344094131845,7.255234861346915/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4142,7 +4142,7 @@ ject to &quot;a quit-rent of two shillings ster-­
 ling per hundred, demandable some.  
 hence only.&quot; Another advertiser pro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_rollingstone_ver01:data:sn85038614:00175032940:1898061801:0425/pct:89.1530226700252,191.42217006294678,39.65680100755667,10.57292222340766/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_rollingstone_ver01:data:sn85038614:00175032940:1898061801:0425/pct:29.717674223341728,63.807390020982254,13.218933669185558,3.5243074078025534/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4160,7 +4160,7 @@ formed of the terms by applying to the
 subscriber near Alexandria, or in his ab­  
 sence to Mr. LuND WASHINGTON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043020:1898082401:0108/pct:121.88217291507269,155.66139191888155,50.344299923488904,8.173298509755723/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043020:1898082401:0108/pct:30.48803827751196,38.91534797972039,12.5933014354067,2.0433246274389307/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4180,7 +4180,7 @@ fUlly informed Jf the terms by applyins
 to the subscriber near Alexandria or  
 fv 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:00206534783:1898082601:0521/pct:45.61626429479034,140.4966243277263,19.05972045743329,8.71953312736011/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:00206534783:1898082601:0521/pct:30.430637215954235,93.66823053743754,12.712537740346416,5.8130220849067396/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4204,7 +4204,7 @@ upon moderate terms, allowing a rea­
 sonable number of years rent free, pro­  
 vided the tenant would make certai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_hoquiam_ver01:data:sn83045604:00202199598:1898090401:0218/pct:58.34547043402272,109.30390492359932,37.98427031750656,18.70967741935484/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_hoquiam_ver01:data:sn83045604:00202199598:1898090401:0218/pct:19.448490144674242,36.434634974533104,12.661423439168852,6.236559139784946/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4240,7 +4240,7 @@ tiguity to the seat of Government which
 more than probable will be fixed at the  
 mouth of the Great Kanawha.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_hoquiam_ver01:data:sn83045604:00202199598:1898090401:0218/pct:58.34547043402272,132.72212790039615,37.99883483833382,41.70911148839841/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_hoquiam_ver01:data:sn83045604:00202199598:1898090401:0218/pct:19.448490144674242,44.24070930013205,12.666278279444606,13.903037162799471/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4292,7 +4292,7 @@ more than probably will be fixed
 at the mouth of the Great Ka­  
 nawha.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jones_ver02:data:sn84037844:00415664862:1898092301:0713/pct:15.235992271598123,85.04526462395543,15.677615235992272,12.27367688022284/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jones_ver02:data:sn84037844:00415664862:1898092301:0713/pct:15.242892630416781,85.04961699164346,15.691415953629589,12.27367688022284/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4323,7 +4323,7 @@ more than probably will be fixed
 at the mouth of the Great Ka­  
 nawha.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jones_ver02:data:sn84037844:00415664862:1898092301:0717/pct:13.781417678621859,87.70910371544286,15.871222818412878,12.378939954217293/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jones_ver02:data:sn84037844:00415664862:1898092301:0717/pct:13.795537983620447,87.72231026589188,15.871222818412878,12.392146504666314/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4346,7 +4346,7 @@ rent free, provided that within two
 years three acres of every fifty shall be  
 cleared, fenced and tilled, and that fiv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_gmc_ver02:data:sn86064199:00212477503:1899082301:0372/pct:45.255212077641986,71.54449181680648,18.90726096333573,6.01017741713657/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_gmc_ver02:data:sn86064199:00212477503:1899082301:0372/pct:33.96260338007911,53.66524549580525,14.18554476806904,4.51107137945262/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4398,7 +4398,7 @@ next, in order that a sufficient number
 of lots may be laid off to answer the  
 demand.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_betelgeuse_ver01:data:sn90059959:00271742861:1899090901:0965/pct:82.3343261355175,5.301307561114269,12.248696947133284,22.24275156338829/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_betelgeuse_ver01:data:sn90059959:00271742861:1899090901:0965/pct:82.34828741623231,5.308413871517908,12.248696947133284,22.249857873791928/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4497,7 +4497,7 @@ will be fixed the mouth of the
 &#x27; Great Kenhaioa.  
 &#x27;* GEORGE WASHINGTON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_duval_ver01:data:sn84038206:00393349281:1899121601:0203/pct:85.17943409247756,38.148512417015,11.922015182884747,50.184411113843126/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_duval_ver01:data:sn84038206:00393349281:1899121601:0203/pct:85.16474038295671,38.14382298709281,11.924271174745558,50.18131530424093/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

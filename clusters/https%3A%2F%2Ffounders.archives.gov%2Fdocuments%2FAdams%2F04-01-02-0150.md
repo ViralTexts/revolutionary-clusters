@@ -963,7 +963,7 @@ Charlestown affects them no more than a drop of the
 bucket.  
 I am most sincerely your
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186427:1840102901:0450/pct:174.9190938511327,169.15887850467288,39.374325782092775,79.35331399720701/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186427:1840102901:0450/pct:58.29850343804773,56.380236305048335,13.123005707608646,26.448263515932688/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1354,7 +1354,7 @@ lines of Collias continnally soand is
 mny cars.  
 &quot;How sleep the brave
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156347:1840110501:0900/pct:36.53543307086614,78.61334789136072,60.78740157480315,186.9796642554934/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156347:1840110501:0900/pct:9.133858267716535,19.65333697284018,15.196850393700787,46.74491606387335/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1377,7 +1377,7 @@ affects them no more than a drap
 of the DucEes.  
 I am most sincerely yours
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156347:1840110501:0900/pct:35.74803149606299,265.5930121468541,56.37795275590551,23.420226559301216/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156347:1840110501:0900/pct:8.937007874015748,66.39825303671353,14.094488188976378,5.855056639825304/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1515,7 +1515,7 @@ ally sound in my ears,
   
 How sleep the brave,&quot; &amp;.&amp;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_kingsombra_ver01:data:sn83016884:0041566199A:1840111201:0281/pct:84.05620036652412,25.52722694365754,17.974954184483813,56.96149407197566/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_kingsombra_ver01:data:sn83016884:0041566199A:1840111201:0281/pct:63.051779440965326,19.148043227363342,13.487093325187109,42.72374357360193/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1543,7 +1543,7 @@ of the bucket. ,
   
 I am most sincerely yours
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_kingsombra_ver01:data:sn83016884:0041566199A:1840111201:0281/pct:84.45326817348808,82.56216556499842,17.51679902260232,7.271010387157696/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_kingsombra_ver01:data:sn83016884:0041566199A:1840111201:0281/pct:63.357262868489386,61.924247193369006,13.135787383534444,5.455880809988459/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1620,7 +1620,7 @@ good; the loss of Gharlostown effects them no
 more than a drop of a bucket.  
 1 nm most sincerely yours
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840112101:0138/pct:68.88361045130641,8.448753462603879,39.21219319081552,121.9144352108341/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840112101:0138/pct:51.69340463458111,6.34041243459526,29.431570608041195,91.44352108341027/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1991,7 +1991,7 @@ counsel and understanding. Job, 12, 13
 The God of Israel is He that giveth strength  
 and power unto His people. Psa 68:2
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_johnhenry_ver01:data:sn84024738:00280778059:1861091101:0254/pct:19.223553182277385,185.75748097174434,36.96060037523452,6.79803982900636/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_johnhenry_ver01:data:sn84024738:00280778059:1861091101:0254/pct:6.407851060759128,61.91916032391478,12.320200125078173,2.2660132763354532/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2026,7 +2026,7 @@ To bless the turf that wraps their clay,
 And Freedom shall awhile repair,  
 To dwell a weeping hermit there.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn84028083:00280775241:1862020701:0671/pct:25.389755011135858,202.94331924814222,48.923533778767634,50.473553839428824/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn84028083:00280775241:1862020701:0671/pct:6.349795766802822,50.735829812035554,12.235425176383215,12.618388459857206/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2168,7 +2168,7 @@ to decorate the grav6a of our deceased
 comrades with the choicest flowers : and  
 let us ever Keep them and their brav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn84022367:00415628377:1870060201:0172/pct:18.884369552585706,3.5327886950761758,59.81987216734457,122.65400750717598/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn84022367:00415628377:1870060201:0172/pct:14.165334883045183,2.6495915213071317,44.87868661920674,91.99602561271804/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2229,7 +2229,7 @@ his courage and fortitude, by animating the
 soldiers, and leading them on by his own ex­  
 ample.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eliot_ver01:data:sn85026214:print00205958198:1872111001:0003/pct:42.17085064114141,33.0668042300748,11.883691529709228,5.0425586793912816/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eliot_ver01:data:sn85026214:print00205958198:1872111001:0003/pct:42.17085064114141,33.070028372452924,11.906266931551382,5.0425586793912816/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2250,7 +2250,7 @@ tinually sound in my ears :
 ** * How sleep the brave who sink to rest  
 .With all tbeir country’s wishes bloat?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eliot_ver01:data:sn85026214:print00205958198:1872111001:0003/pct:42.18891096261513,38.444673716791335,11.865631208235506,2.566417332989425/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eliot_ver01:data:sn85026214:print00205958198:1872111001:0003/pct:42.19342604298357,38.444673716791335,11.883691529709228,2.5728656177456797/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2283,7 +2283,7 @@ congregation from Psalms s, &quot;Trust in him at
 all times; ye people, pour out your hearts before  
 him: God is a refuge for us
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_american_ver01:data:sn86053573:00237288920:1873082301:0190/pct:120.79021636876764,52.64248704663213,43.65004703668862,4.6286701208981/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_american_ver01:data:sn86053573:00237288920:1873082301:0190/pct:30.204657727593506,13.160621761658032,10.915078804987061,1.157167530224525/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2311,7 +2311,7 @@ the close of the action, the conflict might scarcely
 have arrested the attention of the historian.&quot;  
 Nothing strikes the student of the history of thos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hugo_ver01:data:sn83030214:00206531216:1875061201:0745/pct:201.68393782383419,23.355565777368906,48.04080310880829,23.666053357865685/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hugo_ver01:data:sn83030214:00206531216:1875061201:0745/pct:67.2279792746114,7.785188592456302,16.01360103626943,7.888684452621895/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2334,7 +2334,7 @@ self in every engagement by his courage
 and fortitude, by animating the soldiers  
 and lending them on by his own exampl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_felice_ver01:data:sn87052128:00200292170:1875100101:0974/pct:50.80563947633434,20.21497919556172,22.406847935548843,6.362690707350901/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_felice_ver01:data:sn87052128:00200292170:1875100101:0974/pct:38.12641651976832,15.169902912621358,16.821959204230673,4.767683772538142/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2379,7 +2379,7 @@ shell tarry
 te and thon I have secured myself a retreat  
 me par
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:0020653123A:1875123101:0720/pct:54.44839857651245,92.25184344866705,48.44710449692656,49.903573454339195/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:0020653123A:1875123101:0720/pct:18.14946619217082,30.750614482889016,16.149034832308853,16.634524484779732/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2430,7 +2430,7 @@ mighty. I Cor.1:8..
 The God of Israel is he that giveth  
 strength and power unto his people
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_montpelier_ver01:data:sn84023253:00200296291:1878020101:0231/pct:12.114989733059549,53.844114528101805,33.7782340862423,8.589607635206788/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_montpelier_ver01:data:sn84023253:00200296291:1878020101:0231/pct:4.040404040404041,17.948038176033933,11.265194316041773,2.863202545068929/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2519,7 +2519,7 @@ To bless the turf that wraps their clay;
 And freedom shall awhne repair,  
 To dwell a weeping hermit there,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_apachetrout_ver01:data:sn82014897:00211105525:1881070801:0383/pct:140.69640914036998,132.06187751642298,41.62132752992383,20.131383767747405/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_apachetrout_ver01:data:sn82014897:00211105525:1881070801:0383/pct:35.188461015104096,33.015469379105745,10.409579534630563,5.032845941936851/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2721,7 +2721,7 @@ Trost in Him at all times; ye people, pour
 out your hearts before Him; God is a refuge  
 for us.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_heart_ver01:data:sn85038614:00175030979:1888113001:0625/pct:77.64277035236938,261.91826872570647,36.2089914945322,5.357705641348881/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_heart_ver01:data:sn85038614:00175030979:1888113001:0625/pct:25.880923450789794,87.30608957523549,12.069663831510733,1.7859018804496272/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2838,7 +2838,7 @@ making Him our dwelling place at all times.
 out your hearts before Him; God is a refuge  
 for us.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_islandbeach_ver03:data:sn87068108:00513685737:1893081901:0177/pct:80.24402473675414,33.1451157538114,13.989637305699482,2.9474872953133824/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_islandbeach_ver03:data:sn87068108:00513685737:1893081901:0177/pct:80.23061497326204,33.14137308039747,13.992869875222816,2.9509183980728695/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2859,7 +2859,7 @@ making Him our dwelling place at all times.
 out your hearts before Him: God is a refuge  
 for us.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn86081895:00280776592:1893082401:0820/pct:249.57337883959045,121.86018957345972,57.93515358361775,12.381516587677725/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn86081895:00280776592:1893082401:0820/pct:62.39334470989761,30.46504739336493,14.483788395904437,3.095379146919431/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2886,7 +2886,7 @@ And freedom shall awhile repair
 To dwell a weeping hermit, there.”  
 After the “Suwanee River,” by th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_halfwayrock_ver01:data:sn83016025:00414210855:1894053101:0163/pct:30.742049469964666,33.98455247614721,12.54416961130742,6.512191428138725/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_halfwayrock_ver01:data:sn83016025:00414210855:1894053101:0163/pct:30.736015701668304,33.9794064203513,12.546614327772327,6.514990914597214/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2970,7 +2970,7 @@ hearts before Him; God is a refuge
 for us.” “God is our refuge and  
 strength, a very present help i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00542865969:1898012701:0069/pct:21.683841262880946,43.709771796372145,14.163560622670467,6.158572264482153/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00542865969:1898012701:0069/pct:21.679088119245943,43.70337867485739,14.165935992985533,6.161328067866023/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

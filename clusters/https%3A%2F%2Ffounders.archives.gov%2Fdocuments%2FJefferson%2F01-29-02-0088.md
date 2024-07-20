@@ -197,7 +197,7 @@ that of their representatives. Republicanism must he on
 ars, and retign the veasel to its pilot and themreives to  
 the course he thinks best for trem
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530303:1850030201:0461/pct:87.22267206477733,229.45917532998482,41.73279352226721,6.623058053965658/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530303:1850030201:0461/pct:29.074224021592443,76.4863917766616,13.910931174089068,2.2076860179885527/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -325,7 +325,7 @@ here get from a dollar to a dollar
 and half a day, yet are much  
 worse otT than at tho old prices.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_irmookrastrut_ver01:data:sn84026900:0029586199A:1899040801:0210/pct:63.49698254770837,35.55790960451977,16.375795139455228,12.5/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_irmookrastrut_ver01:data:sn84026900:0029586199A:1899040801:0210/pct:63.49698254770837,35.55790960451977,16.381231990431143,12.507846829880728/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

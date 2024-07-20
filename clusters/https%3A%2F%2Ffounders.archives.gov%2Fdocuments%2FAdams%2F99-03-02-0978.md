@@ -230,7 +230,7 @@ eavored to practice them in his daily life.
 Deeply imbued with these Christian vir?  
 tues who shall say that he had not in hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:0029455113A:1888062101:0300/pct:76.57282741738067,49.00120784167983,10.660954712362301,5.2680479420236/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:0029455113A:1888062101:0300/pct:76.58098735210119,49.00740190157639,10.660954712362301,5.2680479420236/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

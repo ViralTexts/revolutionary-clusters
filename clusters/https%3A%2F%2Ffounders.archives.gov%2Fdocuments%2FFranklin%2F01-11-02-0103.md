@@ -208,7 +208,7 @@ any account at any time whatsoever, difclofc or difcovcr the vo e
 of opinion of any particular member of the court-martial, uulefs  
 required by a due course of law.&quot; And the president of the sai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790071701:0004/pct:11.052138620043708,79.182156133829,26.91226974711208,3.776169047153199/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790071701:0004/pct:11.059943802684982,79.19683036587752,26.920074929753355,3.790843279201722/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -228,7 +228,7 @@ ever, disclose or discover the vote or opinion of any particular
 member of the court-martial, unlcfs required in a due course of  
 law ; and that vou will not divulge the sentence of this court, un
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790071701:0004/pct:10.989697158913518,84.21052631578948,26.974711208242272,3.8153003326159265/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790071701:0004/pct:10.989697158913518,84.21052631578948,26.998126756166094,3.8348659753472902/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -366,7 +366,7 @@ nion of any particular member of the
 court martial, unless required to give  
 evidence thereof as a witness, by a cour
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806042101:0001/pct:59.520207477847414,65.40008320621273,17.916576615517613,2.5516571904035503/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806042101:0001/pct:59.52741156977163,65.40932834096057,17.938188891290253,2.5562797577774696/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -583,7 +583,7 @@ shall, according to the nature of the offence, be in­
 flicted upon him by the sentence of a court mar­  
 tiel ecause, Mr Van Buren, instend of acting as th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296187:1840110301:0688/pct:143.64051789794365,257.05606186136424,70.14470677837015,10.218171775752555/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296187:1840110301:0688/pct:35.91696819653399,64.26401546534106,17.539516282612837,2.554542943938139/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -671,7 +671,7 @@ You do swear that you will not disclose or discover the
 te or opinion of any particular momber of the court mag­  
 tial, unless required to give evidence thereof, as a witnefs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743099:1854050401:1016/pct:10.62144947495266,112.24271267102915,46.73782062317094,20.80904223676383/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743099:1854050401:1016/pct:3.5404831583175533,37.41423755700971,15.579273541056981,6.9363474122546105/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -817,7 +817,7 @@ neither will you disclose or discover the vote or opinion
 of any particular member of the court martial, unless  
 required to give evidence thereof as a witness by a cour
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743245:1856071601:0137/pct:142.52585919252587,78.58111161319476,58.09142475809143,16.109353818346136/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743245:1856071601:0137/pct:47.50861973084195,26.19370387106492,19.36380825269714,5.3697846061153784/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -844,7 +844,7 @@ of Ohio, (as the case may be) but shall so
 far consider himself as counsel for the per­  
 son accused, as lo object to any illega
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296027546:1857042101:0034/pct:92.00782661047562,50.782700981692756,17.14328717639976,9.034226585301141/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296027546:1857042101:0034/pct:69.0200210748156,38.08702573626957,12.870690952882734,6.7789864685592995/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -866,7 +866,7 @@ court, unless required to give evidence
 thereof in a court of justice, in a due  
 oourseoflaw. The judge advocate shal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn83035173:00296027285:1857042901:0178/pct:95.75556893437688,92.93485216946115,14.644792293798917,5.375655958018687/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn83035173:00296027285:1857042901:0178/pct:71.8458295694068,69.70433892230898,10.990665462210178,4.031741968514015/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -908,7 +908,7 @@ of the court, until it shall be published by proper
 uniuut mil juu uisciose tne opinion ol  
 any particular member of the court, unless re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775381:1857043001:0082/pct:69.3337687785761,108.1630078223568,14.565643370346178,1.9682059046177138/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775381:1857043001:0082/pct:52.016985138004245,81.12541004289679,10.926016658500735,1.4761544284632855/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1007,7 +1007,7 @@ the court until it shall bepublished by the proper authority; neither will
 you disclose or discover the vote or opinion of any particular member  
 of the court-martial, unless required to give evidence thereof, as a wit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn82014282:0041421244A:1861062701:0244/pct:24.122425297360024,22.36799655876976,18.798955613577025,5.161845359716098/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn82014282:0041421244A:1861062701:0244/pct:24.11892675852067,22.365591397849464,18.799854967367658,5.163978494623656/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1330,7 +1330,7 @@ vote or opinion oi any particular
 member of this court-martial, unless  
 thereunto required in due course o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_carbon_ver01:data:sn88076144:00199918023:1889022201:0087/pct:9.725114535610162,27.278028867181806,13.536026655560184,3.076250182242309/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_carbon_ver01:data:sn88076144:00199918023:1889022201:0087/pct:9.735526863806747,27.285318559556785,13.546438983756769,3.0871847208047822/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1351,7 +1351,7 @@ or discover the vote or opinion of any par­
 ticular member of this court-martial, unless  
 thereunto required in the due course of law
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_hula_ver01:data:sn91059392:00383348092:1889031401:0072/pct:60.683419758010906,29.20553562275756,10.862917165270575,3.054843669912865/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_hula_ver01:data:sn91059392:00383348092:1889031401:0072/pct:60.68785179275805,29.208952673842475,10.867349200017728,3.058260720997779/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1457,7 +1457,7 @@ artial shall
 re than nine  
 Iat th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_vanhalen_ver01:data:sn85034438:00175049216:1893071801:0519/pct:170.5276111367482,30.056148849499063,77.38809413936318,262.23714631729604/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_vanhalen_ver01:data:sn85034438:00175049216:1893071801:0519/pct:56.84253704558273,10.018716283166354,25.796031379787724,87.41238210576535/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1532,7 +1532,7 @@ the vote or opinion of any particular member of the
 court-martial, unless required to give evidence there.­  
 of as a witness, by a court of justice in a due cours
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_stein_ver01:data:sn83030272:00175042994:1898032001:0071/pct:119.33488012374323,285.6282919488337,51.353441608662024,18.660647103085026/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_stein_ver01:data:sn83030272:00175042994:1898032001:0071/pct:29.845261121856865,71.40707298720842,12.843326885880078,4.6651617757712565/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -250,7 +250,7 @@ unto the said Walter Clark, William Gray,
 illiam Wilson, in trust as afores&#x27;d.  
 their H
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn85055197:00280776361:1853093001:0092/pct:12.666666666666666,321.0939773057899,48.51851851851852,30.54989816700611/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn85055197:00280776361:1853093001:0092/pct:3.1666666666666665,80.27349432644748,12.12962962962963,7.637474541751527/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -272,7 +272,7 @@ bargained, sold, assigned, transferred, ast over, and re-­
 lease, and do hereby grant, bargain, sell, assign, trans-­  
 fer, and set over, and release unto the sald parties of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743208:1854070701:0060/pct:99.16244983423486,106.48570742253183,54.00453673006456,9.680518856593803/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743208:1854070701:0060/pct:33.05414994474496,35.49523580751061,18.001512243354853,3.226839618864601/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -322,7 +322,7 @@ do grant, bargain, sell, alien, remise, release, convey and
 confirm unto the said parties of the second part for  
 ever
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743579:1867041101:0999/pct:148.3464309102816,80.01592356687898,45.44859201047806,19.131028207461327/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743579:1867041101:0999/pct:49.4488103034272,26.671974522292995,15.149530670159354,6.37700940248711/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -495,7 +495,7 @@ and singular the upuitcnauccs thereunto
 belonging, to wit, the one-half of the  
 northwest fractiouul quarter ol sectio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_felice_ver01:data:sn87052128:00200292170:1874020601:0267/pct:27.834525025536262,25.60996416993687,22.982635342185905,12.506398225558778/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_felice_ver01:data:sn87052128:00200292170:1874020601:0267/pct:20.904676718630206,19.211738611158506,17.25019166879632,9.384064152874936/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -657,7 +657,7 @@ In witness whereof the said party of the first
 part has caused these presents to be signed by i  
 its major and its corporate seal t be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_griffith_ver01:data:sn85058130:00206535131:1889120601:0419/pct:32.68525311812179,54.3913507741591,19.020542920029346,13.25413774693006/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_griffith_ver01:data:sn85058130:00206535131:1889120601:0419/pct:21.798165137614678,36.26534970635344,12.697247706422019,8.836091831286705/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -716,7 +716,7 @@ special trust to and for the uses and purposes
 following.  
 1. fl&#x27;o divide the same into five trust funds a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_garberville_ver01:data:sn94052989:00175037238:1895022001:0070/pct:29.556420233463037,72.82734646581692,13.089494163424124,3.105446118192352/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_garberville_ver01:data:sn94052989:00175037238:1895022001:0070/pct:29.561608300907913,72.82734646581692,13.089494163424124,3.105446118192352/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

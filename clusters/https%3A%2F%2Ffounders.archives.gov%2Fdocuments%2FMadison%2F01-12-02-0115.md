@@ -106,7 +106,7 @@ his right, by some neglect or overt act, be bad con­
 tinued a citizen until the day of his election to a  
 seat in this House.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1814100101:0082/pct:73.20278278794125,7.345658633212281,21.721205874774544,12.462859029382635/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1814100101:0082/pct:73.1839258114374,7.34444627826374,21.722050489438434,12.464928205974584/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -127,7 +127,7 @@ irom parentage; but iu general, place is the most
 cerlain criterion ; it is what applies in the United  
 States.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1814100101:0082/pct:73.22854934295285,20.287223506107626,21.721205874774544,4.5559590623968305/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1814100101:0082/pct:73.20968572900567,20.283875226935137,21.722050489438434,4.559333223304176/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -157,7 +157,7 @@ ral indissoluble allegiance as Lr as any pretension
 of the British government, yea further? There  
 was a change of government, a revolution, tb
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1814100101:0082/pct:73.17701623292966,25.239352921756357,22.365369750064417,13.436777814460218/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1814100101:0082/pct:73.15816589386914,25.23518732464103,22.36604842864503,13.438686251856742/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -275,7 +275,7 @@ be owed allegiance to Great Britain.&quot;
 Mr. Speaker, should the Senate reject this second  
 resolution, it will be virtually admitting that the Stat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024517:00296022706:1850121401:0055/pct:90.99378881987577,31.231884057971016,20.217391304347824,20.99033816425121/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024517:00296022706:1850121401:0055/pct:68.27714773963027,23.429951690821255,15.177877893428615,15.748792270531402/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -316,7 +316,7 @@ it was through his membership of that society of
 South Carolina that he owed allegiance to Great  
 Britain.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661472:1850121601:0629/pct:58.07403433476395,61.83222257484397,15.49087982832618,11.647096159949223/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661472:1850121601:0629/pct:58.078505007153076,61.8392750096971,15.49087982832618,11.65062237737579/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -549,7 +549,7 @@ that society should set up ; because it was through his
 membership of that society of South Carolina that  
 he owed allegiance to Great Britain.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022627:1850121801:0228/pct:89.81429375351716,30.155683514608658,20.272931907709623,20.34548944337812/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022627:1850121801:0228/pct:67.37019839594765,22.616762635956494,15.210355987055015,15.26978033695884/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

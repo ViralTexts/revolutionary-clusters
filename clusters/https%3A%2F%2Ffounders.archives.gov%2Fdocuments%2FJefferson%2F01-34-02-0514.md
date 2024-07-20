@@ -318,7 +318,7 @@ Given under my hand at the City of
 and one. -  
 | Tu 3 JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1801090101:0561/pct:7.281925494404415,8.336579664978574,16.41882569369922,43.86443319049474/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1801090101:0561/pct:7.2921457407123516,8.343072328269056,16.41882569369922,43.86443319049474/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

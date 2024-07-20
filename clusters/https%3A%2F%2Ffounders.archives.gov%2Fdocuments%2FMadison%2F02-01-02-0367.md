@@ -38,7 +38,7 @@ AN ENQUIRY
 Concerning Political Justice,  
 And its Influence on Morals and Happiness,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797012401:0003/pct:67.2874295515805,40.90909090909091,17.446704239157068,2.121212121212121/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797012401:0003/pct:67.2874295515805,40.91307814992025,17.452830188679247,2.1331738437001593/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -56,7 +56,7 @@ Concerning Political Justice,
 And its Influence on Morals and Happiness,  
 By William Godwin.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797012601:0001/pct:8.257333004683263,23.979107312440647,17.52526497411881,2.722380500158278/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797012601:0001/pct:8.269657382302194,23.98306426084204,17.52526497411881,2.730294396961064/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -74,7 +74,7 @@ Concerning Political Justice,
 And its Influence on Morals and Happirtefs,  
 By William Godwin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797013001:0004/pct:74.6294466403162,64.02175651895696,17.58893280632411,2.7515597504399296/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797013001:0004/pct:74.63562252964427,64.03375459926411,17.595108695652176,2.7555591105423134/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -92,7 +92,7 @@ Concerning Political Justice,
 And its Influence on Morals and Happiness,  
 By William Godwin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797013101:0004/pct:74.42766682903068,24.60279248916707,17.462250365319047,2.74434280211844/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797013101:0004/pct:74.44593278129567,24.60279248916707,17.456161714564054,2.768415984593163/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -110,7 +110,7 @@ Concerning Political Justice,
 And its Influence on Morals and Happiness,  
 By William Godwin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797020301:0004/pct:75.71053260090757,14.479924122668352,17.41103415333174,2.797976604489409/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797020301:0004/pct:75.71053260090757,14.4878280113816,17.41103415333174,2.8019285488460324/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -128,7 +128,7 @@ Concerning Political Justice,
 And its Influence on Morals and Happiness,  
 By William GqnwiN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797020401:0004/pct:75.79250720461096,9.94023277760302,17.627281460134487,2.9097200377477193/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797020401:0004/pct:75.79250720461096,9.94023277760302,17.639289145052835,2.917584145957848/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

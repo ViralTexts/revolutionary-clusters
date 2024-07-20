@@ -174,7 +174,7 @@ keep the nation quiet. Instead of a few ol the paper*
 formerly engaged, they now engaged every one.&quot;?(Thoa.  
 Jetlerson, 10 Hogendorp, Works, vol 1, p. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661216:1853110801:1212/pct:20.802741067058246,12.655679959743363,15.679556208190569,9.170964901245439/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661216:1853110801:1212/pct:20.802741067058246,12.65987335933241,15.68499483330614,9.175158300834486/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -203,7 +203,7 @@ paper comes out without a dose of paragraphs against
 America.&quot;  
 This policy has been ever since invariably pursued, ex
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854031201:0397/pct:33.142201834862384,15.692347399664472,15.530799475753604,7.420312298361079/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854031201:0397/pct:33.153123634775014,15.700950660300254,15.54172127566623,7.416010668043189/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -236,7 +236,7 @@ per, therefore, comes out without a dose of paragraphs
 against America.&quot;  
 This system hae be*n pursued ever sine*, and has becom
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82003410:00415661071:1856041801:0476/pct:67.04693611473273,77.4943167466532,15.775749674054758,11.87168476888103/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82003410:00415661071:1856041801:0476/pct:67.04693611473273,77.49852656394712,15.797479356801391,11.88010440346889/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -335,7 +335,7 @@ expediency of encouraging our States to be commer
 Were I to indulge my own theory, I should wisa them to  
 ier conimerce nor navigation, but to sran
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_buick_ver01:data:sn83030214:00175039910:1882071301:0117/pct:243.82666879082365,171.99456644781526,46.53496893420424,4.709078560108671/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_buick_ver01:data:sn83030214:00175039910:1882071301:0117/pct:81.27555626360788,57.331522149271755,15.511656311401413,1.569692853369557/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -397,7 +397,7 @@ practice neither commerce nor navigation
 but to stand with respect to Europe pre  
 cisely on the footing of Unina
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_animals_ver01:data:sn92051501:00271763633:1890111301:0377/pct:26.160941475826974,61.155305348182594,16.396310432569976,3.145269856810672/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_animals_ver01:data:sn92051501:00271763633:1890111301:0377/pct:19.630925867006045,45.86953861216497,12.313076678332804,2.3620119936360298/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -441,7 +441,7 @@ great rebellion, was father of most of the
 silly and pernicious socialistic nonsense  
 now running throughout the country. Ba
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_beveridge_ver01:data:sn82015679:00295870473:1891101301:0427/pct:109.02988306626246,42.26295087455017,16.17583369423993,10.645242279688677/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_beveridge_ver01:data:sn82015679:00295870473:1891101301:0427/pct:81.78668110449378,31.701397606494268,12.12777476989713,7.983931709766508/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -475,7 +475,7 @@ author of the nullification resolutions
 of 1798!  
 Jefferson, besides being father of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_grouse_ver02:data:sn84036228:0029455029A:1891102201:0172/pct:280.2076970067196,124.30238457635718,41.661576053756875,34.90613901572806/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_grouse_ver02:data:sn84036228:0029455029A:1891102201:0172/pct:70.0519242516799,31.075596144089296,10.415394013439219,8.726534753932015/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -511,7 +511,7 @@ great Rebellion, was father of most of
 the silly and pernicious Socialistic non­  
 sense now running throughout th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_faribault_ver01:data:sn90059522:00206538612:1891111501:0152/pct:60.87128191629376,82.79503105590062,10.700184259015531,8.540372670807454/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_faribault_ver01:data:sn90059522:00206538612:1891111501:0152/pct:60.875669035711155,82.79848171152518,10.69579713959814,8.543823326432022/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -549,7 +549,7 @@ great rebellion, was father of most of
 the silly and pernicious socialistic non­  
 sense now runwving throughout th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_heron_ver02:data:sn88085722:0041418991A:1892110601:0608/pct:20.82330284063553,66.71140939597315,14.516129032258064,11.86241610738255/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_heron_ver02:data:sn88085722:0041418991A:1892110601:0608/pct:20.841357727491573,66.7239932885906,14.528165623495426,11.870805369127517/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -621,7 +621,7 @@ obliged to adopt a system which may
 shaeklo them in our ports, as they do us  
 in theirs.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665507:1894101501:0433/pct:46.95393759286775,104.31526087326581,18.202080237741455,17.192952591709933/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665507:1894101501:0433/pct:35.224176368590534,78.23644565494936,13.661134505821154,12.89471444378245/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

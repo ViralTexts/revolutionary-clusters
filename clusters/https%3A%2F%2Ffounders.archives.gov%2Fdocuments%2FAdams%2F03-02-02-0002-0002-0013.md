@@ -269,7 +269,7 @@ To be imprisoned in the viewless winds,
 And blown with restless violence round about  
 The pendent worl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1839022301:0820/pct:64.21432082582336,52.3876404494382,15.156480419465836,5.969101123595506/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1839022301:0820/pct:64.21978262056912,52.3876404494382,15.16194221421159,5.976903870162297/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -315,7 +315,7 @@ To be imprisoned in the viewless winds,
 And blown with restless violence round about  
 The penitent world.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016942:00295878204:1839040401:0832/pct:5.07380073800738,63.32958380202475,22.532287822878228,5.089988751406074/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016942:00295878204:1839040401:0832/pct:3.8079852296330485,47.49718785151856,16.9166858989153,3.824521934758155/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -430,7 +430,7 @@ To be imprisoned in the viewles* wind*,
 And blown with resile** violence about  
 The pendant world.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1841090401:0876/pct:66.96349065004452,45.90413390819173,11.95013357079252,4.336799391326402/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1841090401:0876/pct:66.96349065004452,45.912587708174826,11.962006530127635,4.336799391326402/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -446,9 +446,9 @@ The pendant world.
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1843-02_12_56/page/n63/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1843-02_12_56/page/n63/mode/1up?view=theater)
 
-#### 1843-02-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1843-02-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -586,7 +586,7 @@ That age, ache, penury and imprisonment
 t’an lay on nature, is a paradise  
 To what we fear of death.”—Shhketpeare
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn86071753:00414184376:1846021901:0624/pct:4.455533772945999,64.9722289302101,17.768668686508644,7.957015213716494/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn86071753:00414184376:1846021901:0624/pct:4.454739843193157,64.9643848847036,17.77144214777857,7.9600788764135375/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1456,7 +1456,7 @@ And blown with restless violence about
 The pendent world; or to be worse than worst  
 of those that awless and uncertain thought
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_fredsplace_ver01:data:sn85066387:00175037585:1897082901:0443/pct:2.4085079762277135,93.21403671856844,12.105098529871755,4.2179874506158495/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_fredsplace_ver01:data:sn85066387:00175037585:1897082901:0443/pct:2.4137211969554793,93.21403671856844,12.115524971327286,4.225733984042141/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

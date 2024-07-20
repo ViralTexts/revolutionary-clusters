@@ -38,7 +38,7 @@ from such Seminary, or oilier satisfactory evidence, to
 the Faculty, with respect to his general good conduct.  
 The whole necessary expenses, exclusive of rlotlies
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664291:1846091801:0115/pct:14.726979944371248,59.80816249764905,13.394817742643829,2.6612751551626856/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664291:1846091801:0115/pct:14.736739374420534,59.81443169707229,13.389938027619188,2.6612751551626856/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -60,7 +60,7 @@ from such Seminary, or other satisfactory evidence, to
 the Faculty, with respect to his general good conduct.  
 The whole necessary expenses, exclusive of clothes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664291:1847072301:0471/pct:14.110061478482532,64.21886936592819,13.585245164192532,2.750190985485103/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664291:1847072301:0471/pct:14.120057979707102,64.22205245734658,13.575248662967962,2.750190985485103/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -82,7 +82,7 @@ from such Seminary, or other satisfactory evidence, Co
 the Faculty, with respect to his general good conduct.  
 The whole necessary expenses, exclusive of clothes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664291:1847072701:0475/pct:13.75809299587993,48.521722597205056,13.39022954679223,2.690369807015876/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664291:1847072701:0475/pct:13.762997841867765,48.5248914662357,13.39022954679223,2.693538676046519/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -104,7 +104,7 @@ from such Seminary, or other satisfactory evidence, to
 the Faculty, with respect to his ceneral good conduct.  
 The whole necessary expenses, exclusive of clothes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664291:1847073001:0479/pct:54.82430017867778,21.076573161485975,13.415723645026802,2.7103866565579984/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664291:1847073001:0479/pct:54.83422672225531,21.082891079100328,13.41076037323804,2.707227697750821/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -159,7 +159,7 @@ seminary, or other satisfactory evidence to the Faculty, with
 respect to his general good conduct.  
 The whole necessary expenses, exclusive of clothes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661150:1847081901:0801/pct:67.84140969162996,77.30267246737104,16.504090623033353,4.599129894344313/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661150:1847081901:0801/pct:67.85189846863855,77.30267246737104,16.493601846024752,4.611559975139839/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -181,7 +181,7 @@ from such Seminary, or other satisfactory evidence, to
 the Faculty, with respect to his general good conduct.  
 The whole necessaiy expenses, exclusive of clothes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664291:1847082401:0507/pct:27.60011954572624,21.008642796087,13.538553496712492,2.6783170291575646/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664291:1847082401:0507/pct:27.60510061765292,21.01497451483205,13.538553496712492,2.675151169785038/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -201,7 +201,7 @@ from such Seminary, or other satisfactory evidence.to
 the Faculty, with respect to his general good conduct.  
 The whole necessaiy expenses, exclusive of clothes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664291:1847082701:0509/pct:14.163596168017687,37.47498808956646,13.603537214443625,2.096236303001429/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664291:1847082701:0509/pct:14.173421763694424,37.478164205177066,13.598624416605256,2.0994124186120375/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -221,7 +221,7 @@ from such Seminary, or oilier satisfactory evidence, lo
 the Faculty, with respect to his general good conduct.  
 The whole necessary expense*, exclusive of cloth&quot;*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664291:1847091001:0525/pct:27.70171861345762,28.638453598573708,13.34110107777454,2.1019048512714646/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664291:1847091001:0525/pct:27.706573453733373,28.638453598573708,13.345955918050295,2.1081605204716776/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -256,7 +256,7 @@ Board, including furniture and attendance, tor nino
 months ft loo  
 Fees, if u single professor be attended, ft50 ; if two
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661150:1847092701:0932/pct:31.378114159571112,22.514836795252226,15.421002838221382,4.611770524233433/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661150:1847092701:0932/pct:31.388626090612846,22.523079459281238,15.421002838221382,4.61589185624794/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -276,7 +276,7 @@ seminary, or other satisfactory evidence to the Faculty, with
 respect to his general good conduct.  
 The whole necessary expenses, exclusive of clothes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661150:1847100701:0969/pct:38.41141793360224,77.79159413081324,14.861929878994726,2.685899030092017/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661150:1847100701:0969/pct:38.42176026476368,77.79988394263451,14.861929878994726,2.690043936002653/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -298,7 +298,7 @@ from such .Seminary, or other satisfactory evidence, lo
 the Faculty, with respect to his general good conduct.  
 The whole nece-sary expen?es, exclusive of clothes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664308:1848081101:0278/pct:55.33196239717979,11.917494270435446,13.23443008225617,2.9411764705882355/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664308:1848081101:0278/pct:55.34175479827654,11.917494270435446,13.229533881707795,2.9475426534250064/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -340,7 +340,7 @@ from such Seminary, or other satisfactory evidence, to
 the Faculty,with respectto Iiis general good conduct.  
 The whole necessary expenses, exclusive of clothes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664308:1848081801:0286/pct:55.72870287919264,12.449645117974296,13.386761650341347,2.8870132361404184/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664308:1848081801:0286/pct:55.7385970119719,12.449645117974296,13.386761650341347,2.893407506873841/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -371,7 +371,7 @@ the university unless he produce a certificate from such
 seininaty, or other satisfactory evidence to the faculty, with  
 respect to his general good conduc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848090501:0890/pct:53.04306372159542,37.775816416593116,15.302717304941998,3.000882612533098/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848090501:0890/pct:53.05365750304571,37.78001933341739,15.297420414216855,3.00928844618165/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -393,7 +393,7 @@ from such Seminary, or other satisfactory evidence, to
 the Faculty, With respect to his general iiood conduct.  
 The whole necessary expenses, exclusive of clothes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664308:1848091501:0318/pct:27.849588719153935,20.606936416184972,13.351938895417156,2.8227360308285165/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664308:1848091501:0318/pct:27.849588719153935,20.61335902376365,13.35683509596553,2.819524727039178/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -418,7 +418,7 @@ froc such Semlnaiy, or other satisfactory evidence, to
 the Faculty, with respect to his general good conduct.  
 The whole necessary expenses, exclusive of clothes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566431A:1849080301:0025/pct:14.450354609929079,12.738061058474495,13.44562647754137,3.7611254665518232/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566431A:1849080301:0025/pct:14.450354609929079,12.738061058474495,13.450551615445232,3.7643155644878297/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -440,7 +440,7 @@ from such Seminary, or other satislactory evidence, to
 the Faculty, with respect to his general good conduct.  
 The whole ti?cessary expenses, exclusive of clothes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566431A:1849081401:0037/pct:29.70742685671418,13.022277464384741,13.473368342085521,2.724925901137776/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566431A:1849081401:0037/pct:29.712428107026756,13.025464512222328,13.473368342085521,2.728112948975364/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -474,7 +474,7 @@ the tame room, at 15
 Ra a: of tin entire uoiruiuny, $10; lor half, If occu­  
 pied* by two students. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566431A:1849082101:0045/pct:27.216220216072223,30.84049665711557,13.437916235015539,6.67621776504298/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566431A:1849082101:0045/pct:27.216220216072223,30.84368035657434,13.442849390755265,6.679401464501751/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -497,7 +497,7 @@ I.to the University unless he produces a certificate
 H? Faculty, with respect to his general good conduct.  
 The whole necessary expenses, exclusive of rl(&lt;lhe?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566431A:1849082401:0047/pct:0.6263048016701461,35.232513451191394,13.25678496868476,3.132205995388163/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566431A:1849082401:0047/pct:0.6312754746992743,35.23571611580835,13.25678496868476,3.132205995388163/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -516,7 +516,7 @@ I ito the Cniversity unless he produces a rertillc te
 from such Seminary, or other satisiactory evidence, to i  
 the Faculty, with respect to his general conduct, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566431A:1849090401:0061/pct:12.821265971508298,31.91285152125924,13.482155970039653,1.785200115174201/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566431A:1849090401:0061/pct:12.831056934449503,31.916050804619765,13.477260488569051,1.785200115174201/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -538,7 +538,7 @@ lci&quot;s he produces a certificate Irom such Seminary, or oilier niiti.if.ic­
 lory evidence to the Faculty, with respect to his general good con­  
 duc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566431A:1850092701:0509/pct:48.90205143022248,67.48860147017773,15.67466050274487,2.6705127012189447/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566431A:1850092701:0509/pct:48.90205143022248,67.49170311094569,15.68910719445247,2.673614341986911/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -556,7 +556,7 @@ corpora ted seminary, he cannot be received into the University uu
 less he produce a certificate from such seminary, or other satisfactory  
 evidence, to the Faculty, of general good conduct
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851081901:0841/pct:64.33786923332227,52.08970438328237,15.731828742117491,1.5417940876656473/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851081901:0841/pct:64.348932404027,52.09395174991505,15.72629715676513,1.5502888209310228/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -584,7 +584,7 @@ corporated seminary, he cannot be received into the University lin­
 es* he produce a certificate from such seminary, or other satisfactory  
 vidence, to the Faculty, of general good conduct
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851082301:0857/pct:63.49337748344371,50.87006223802871,15.447019867549669,1.5623015368982598/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851082301:0857/pct:63.49337748344371,50.87852999703628,15.45253863134658,1.5623015368982598/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -605,7 +605,7 @@ porated Seminary, he cannot be received into ihe University, unless
 lie produce a certificate from such Seminary, or other satisfactory  
 evidence to the Faculty of general good conduct
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851091901:0435/pct:16.125715964165074,29.092824983235943,16.052283742106034,2.394865408564039/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851091901:0435/pct:16.125715964165074,29.099211290992113,16.066970186517842,2.3916722546859535/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -634,7 +634,7 @@ corporated seminary, he cannot be received into the University un
 less he produce a certificate from such seminary, or other satisfactory  
 evidence, to the Faculty, of general good conduct
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851112201:1225/pct:48.00852319291919,21.41235813366961,15.423701032617604,1.9167717528373267/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851112201:1225/pct:48.00852319291919,21.420765027322403,15.429164617822215,1.9209751996637243/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -657,7 +657,7 @@ Board, including furniture aud attendance for 0 mouths........ ? 100
 Fuel and caudles, to be furnished by the Proctor at cost and 5  
 per cent, commission, estimated, if only one student in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661204:1852010401:0019/pct:32.925619834710744,20.58303886925795,15.933884297520661,3.5714285714285716/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661204:1852010401:0019/pct:32.925619834710744,20.591452128554604,15.93939393939394,3.575635201076897/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

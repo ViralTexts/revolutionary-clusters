@@ -117,7 +117,7 @@ luring which 1 lhaii difeominue writing let -
 c&#x27;lait; vkh be vifed to get hold of what mav be  
 perverted i;&gt; the eyes of the public- Milieu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024678:00414184352:1802100601:0134/pct:28.33178005591799,5.799293998991427,41.28611369990681,86.56076651538073/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024678:00414184352:1802100601:0134/pct:28.326500186358555,5.798562964830455,41.28463163125854,86.55405689314676/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -261,7 +261,7 @@ ble, knowing that every snare will be us.
 ed to get hold of what may be perverted ss  
 in the eyes ofthe public. si Adieu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802100901:0440/pct:53.95706002194014,15.551163417482705,22.58266729352766,80.49591231695265/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802100901:0440/pct:53.9486054528361,15.549766439094503,22.584351822835057,80.49167564977841/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -798,7 +798,7 @@ of the nation—and these again, supported by
 the Tux-GathererC) (is their voucher. ^ sit the  
 pc;,&#x27; te to n f
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805051701:0509/pct:49.09496652615918,77.22504767959313,21.398462682866352,4.322949777495232/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805051701:0509/pct:49.08279623202776,77.21277610042905,21.399355478433318,4.32623549976164/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -820,7 +820,7 @@ the thinking part of the nation, and&#x27;these
 again supported by the ct tax-gatherers as  
 their vouchers, set the people tight,&quot; Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1806021201:0212/pct:29.286061194754737,69.65470808887179,22.48664400194269,6.107531018563047/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1806021201:0212/pct:29.281320815797994,69.64800923254472,22.488399697852596,6.110149387702763/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -929,7 +929,7 @@ u«ft fail te produce the bcst etfect. They inform the think
 log pert of the nation } and these again supported by the  
 their.vouchers set the-people, to rights.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811052401:0533/pct:51.942941465814066,92.12004493660729,21.05263157894737,2.1986839993580483/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811052401:0533/pct:51.930169658224735,92.10526315789474,21.05360216375707,2.2023427471116817/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -970,7 +970,7 @@ fect. They inform the thinking part of the nat’on ;
 and these again supported by the tax gatherers as their  
 vouchers set the people to rights.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1811060701:0096/pct:6.947368421052632,81.47237489152444,22.22222222222222,3.514608041654614/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1811060701:0096/pct:6.9457436856875585,81.46059291395517,22.22287184284378,3.517715112075199/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1010,7 +1010,7 @@ form the thinking part of the nation ;
 GATHERERS, as their vouchers, set  
 the people i&lt;» rights.”- J&#x27;tferson&#x27;8 Ut
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813073101:0439/pct:47.77777777777778,28.576560395150427,16.08108108108108,4.149079479119893/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813073101:0439/pct:47.770605014262124,28.573994252873565,16.083671120452383,4.151700191570881/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

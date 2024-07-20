@@ -36,7 +36,7 @@ mc.it thereof.&quot;
 Mr. John C. Smith in the chair.  
 [This hill was inf.rted in our paper o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803102801:0003/pct:75.2510336680449,48.588039867109636,16.420555227406968,7.198228128460687/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803102801:0003/pct:75.2510336680449,48.59265411590993,16.440244142547744,7.212070874861572/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -72,7 +72,7 @@ Be it enacted, by the Senate end
 House of Representatives of the United  
 States of America, in Congress as.ient
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803112801:0001/pct:1.6655413009228,21.893822664238687,18.906144496961513,8.628659476117104/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803112801:0001/pct:1.6655413009228,21.903161040295092,18.928651811838847,8.623990288088901/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -116,7 +116,7 @@ OE/7 enabled by the Senate and Houfe of
 • - Sfrefentati-ves of the United Slates of  
 | America in Congrefs AJfembled, That th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804050901:0010/pct:61.96049743964887,49.798081776880366,16.587417702999268,7.01665825340737/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804050901:0010/pct:61.949168038032546,49.791798107255524,16.590479673310174,7.019978969505783/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -135,7 +135,7 @@ the United States, by the treaty concluded at Pari*,on
 the 30th day of April laft, and for the temporary go­  
 vernment thereof,” (hall continue in force until theiu-f
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804071401:0088/pct:76.4907842428623,61.05013719131953,17.256956993133358,2.706410576203542/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804071401:0088/pct:76.4769647696477,61.04252400548697,17.259861487503763,2.710229870723698/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -157,7 +157,7 @@ Paris, on the thirtieth of April last,
 ‘and for the temporary government  
 thereof.” 4 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1806072201:0325/pct:57.6660082054399,83.48474705938605,16.243731955629844,5.307449555321794/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1806072201:0325/pct:57.67107329179962,83.49112237416722,16.243731955629844,5.301074240540626/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -178,7 +178,7 @@ treaty concluded at Paris on the SOth day
 of April, 1803 ; and for the temporary go­  
 wrnment thereos,&#x27; shall continue in forc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216134:1811011801:0050/pct:54.18212478920742,56.21126894842216,21.770657672849914,4.890838020783678/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216134:1811011801:0050/pct:54.17298937784522,56.20591039084843,21.77260720508065,4.893549412138545/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

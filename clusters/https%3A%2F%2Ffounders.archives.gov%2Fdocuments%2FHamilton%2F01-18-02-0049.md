@@ -36,7 +36,7 @@ improvement and management of the
 revenue, and for the support of public  
 credit 5
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789110501:0485/pct:68.4450853160298,18.079739625711962,21.172795001201635,7.4206672091131/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789110501:0485/pct:68.4611071056637,18.090588554380254,21.15677321156773,7.4098182804448065/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -112,7 +112,7 @@ the Secretary of the Treasury to digest and pre­
 pare plans for the improvement and management of  
 the revenue, and for the support of public credit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184601:1842040101:0424/pct:89.67954759660698,173.86402852870125,38.56424756519007,6.430461290693661/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184601:1842040101:0424/pct:29.888487513742735,57.94801012192317,12.852730223548505,2.1432405490376505/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -176,7 +176,7 @@ meeting the public expenditures. It is
 true that the law does not, in terms, com­  
 mand the Treasury to prepare and pre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_echo_ver03:data:sn86064205:00206535611:1887100901:0020/pct:61.37413394919169,211.31998780611727,52.77136258660508,39.711411441926636/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_echo_ver03:data:sn86064205:00206535611:1887100901:0020/pct:15.345748520282951,52.82999695152932,13.194745199942256,9.927852860481659/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

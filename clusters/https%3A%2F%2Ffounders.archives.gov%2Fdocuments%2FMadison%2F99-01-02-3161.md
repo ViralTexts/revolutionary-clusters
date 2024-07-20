@@ -172,7 +172,7 @@ pre&#x27;ei nity with that of the
 President ; but if it were other  
 I should in ike is view, and not my
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808112101:0001/pct:6.640471512770137,35.79989577905159,16.797642436149314,30.354351224596144/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808112101:0001/pct:6.653569089718402,35.79989577905159,16.797642436149314,30.363036303630363/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -225,7 +225,7 @@ you know, in precise rouf»rmity * th that of the
 {resident; bat If it were otherwise, i.shoJd make  
 is view, and not my own. the rale of my conduct.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808112501:0227/pct:11.147540983606557,12.199142762940982,21.16015132408575,25.45334652159578/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808112501:0227/pct:11.144730206757439,12.197132025712873,21.161119515885023,25.453271798252842/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -282,7 +282,7 @@ with that of the President; but if it were o­
 therwise, 1 should make his view, and not my  
 :&gt;wn, the rule of my conduct.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808112901:0244/pct:24.458204334365327,64.75297060662915,17.44673101438718,24.652908067542214/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808112901:0244/pct:24.45375091041515,64.7448724362181,17.44962369507162,24.653993663498415/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -347,7 +347,7 @@ j;a precise conformity with that of the
 should make his v»s w, and not my own,  
 | die rule of my conduct.&#x27;**
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808120601:0397/pct:41.99475065616798,12.98058622002284,35.35808023997,81.24603476716153/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808120601:0397/pct:41.986879100281165,12.97893935549353,35.35770071852546,81.23995601793115/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -163,7 +163,7 @@ plat es subject to the jurisdiction of esu.h
 other, as well with respect to the con  
 hignmint ind sale ol their goods an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1825062201:0632/pct:55.52387740555952,71.79941002949853,17.60513186029936,11.882005899705014/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1825062201:0632/pct:55.52387740555952,71.80334316617503,17.611071513423617,11.885939036381513/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -282,7 +282,7 @@ wrecks of the sea shall be entirely abolished wit h j
 respect to the property belonging to the citizens  
 or subjects of the Contracting Parties
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197978:1841051201:0080/pct:48.32110609480813,91.73412381712461,20.80981941309255,4.594687036825904/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197978:1841051201:0080/pct:36.24947086214195,68.80629346710751,15.620149569634542,3.443164975487402/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -342,7 +342,7 @@ wrecks of the soa shall remain entirely abolished
 with respect to til* property belonging to the cl i­  
 uat or subjects of the high contracting parties
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82007022:00393342894:1848102401:0383/pct:15.157276183892153,51.52052366016637,12.945039751123401,2.7683076503477433/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82007022:00393342894:1848102401:0383/pct:15.154656989804735,51.51349877283883,12.947122861586314,2.7713389691846197/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -359,7 +359,7 @@ which the most favored nation does or shall enjoy; sub­
 mitting themselves, nevertheless, to the laws and usages  
 there established, and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_lorca_ver01:data:sn83030272:00175044875:1885112001:0024/pct:68.45794392523365,176.34079068342015,51.71339563862929,6.61967514557156/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_lorca_ver01:data:sn83030272:00175044875:1885112001:0024/pct:17.12448860315605,44.08519767085504,12.935904928891487,1.65491878639289/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -197,7 +197,7 @@ authorised to make the offer He said he wasatithoria
 ed. Smith told this to Livingston, and to W. C. Nich­  
 olas, who confirms it to ine,” kc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216420:1830013001:0412/pct:43.868677905944985,57.55997092318876,18.385093167701864,6.699781923915677/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216420:1830013001:0412/pct:43.860894251242016,57.552998182919445,18.38774544594275,6.703008277811428/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -229,7 +229,7 @@ therefore, aware of its import. Ilo hud not the most
 distant recollection that Mr. Bavard had over made !  
 such a proposition to him. Mr. Uavard, said lie, and 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830020101:0108/pct:59.80061103071233,19.49122600400424,18.15404405853031,4.35755505829702/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830020101:0108/pct:59.79099678456592,19.48893075836081,18.156484458735264,4.360967184801382/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -265,7 +265,7 @@ aad Louisiana, referred to in this passage to disprove
 the statement here mads.  
 Sir. Smith of Md. rose and said, that he had read 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830020201:0051/pct:58.72916011324316,57.28468899521531,17.945894935514314,10.681818181818182/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830020201:0051/pct:58.7199245164334,57.27783757923693,17.9483147245374,10.684527369134473/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -283,7 +283,7 @@ therefore, aware of its import. Hohad not the most
 distant recollection that Mr. Bayard had ever made !  
 such a proposition to him. Mr. Bayard, said he, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830020201:0051/pct:58.807801195344446,67.96650717703349,17.74142812205096,2.1770334928229667/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830020201:0051/pct:58.79855323164019,67.9583781844277,17.743880064999736,2.1807598772076706/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -300,7 +300,7 @@ Senator from Delaware, he must say, that having
 taxed his recollection ns far as it could go. on so re­  
 mote a transaction, he had no rcmembcrance of it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830020201:0051/pct:59.09090909090909,74.95215311004785,17.1280276816609,1.5191387559808613/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830020201:0051/pct:59.08161660638465,74.94318861380218,17.13057608638675,1.522943826496033/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -474,7 +474,7 @@ and was, therefore nwate of its import. He
 had not the most distant recollection that Mr.  
 Bayard hod ever made such a proposition to him
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830020501:0137/pct:4.0803613144370035,59.60770897479758,14.37470798940975,1.6991675219523321/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830020501:0137/pct:4.07972594207412,59.60091220068415,14.377660126647982,1.7027746104142911/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -491,7 +491,7 @@ by the Senator from Delaware, lie must say,
 that having taxed his recollection as far as it  
 could go on so remote a transaction, ho had n
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830020501:0137/pct:4.204952499610653,67.19124187478617,14.32798629496963,1.6991675219523321/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830020501:0137/pct:4.204297726564933,67.1835803876853,14.330945707463925,1.7027746104142911/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -677,7 +677,7 @@ made.
 Mr. Smith nt Maryland rose and said,  
 that he had read the paragraph before h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83020243:00517172194:1830020901:0314/pct:95.88523131672598,56.012879742405154,21.152135231316727,15.469690606187877/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83020243:00517172194:1830020901:0314/pct:74.32199494369111,43.41772151898734,16.398529073776142,11.992766726943943/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -695,7 +695,7 @@ of its import. He had not the most distant
 recollection that Mr. Bayard had ever made  
 such a proposition to him. Mr. Bayard
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83020243:00517172194:1830020901:0314/pct:95.97419928825623,71.49657006859863,20.974199288256226,2.7859442811143778/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83020243:00517172194:1830020901:0314/pct:74.3794529993105,55.41048824593128,16.260629740289588,2.1699819168173597/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -715,7 +715,7 @@ must say. that having taxed his recollection
 as far as it could go, on so remote a trans­  
 action, he had no remembrance of it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83020243:00517172194:1830020901:0314/pct:95.88523131672598,80.59638807223855,21.129893238434164,4.157916841663167/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83020243:00517172194:1830020901:0314/pct:74.32199494369111,62.46654611211573,16.369800045966443,3.2296564195298374/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -835,7 +835,7 @@ to make, the offer. lie said he was authoriz­
 ed. Smith told this to Livingston, and to  
 W. (’• Nicholas, who confirms it to me, kc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182938:1830022501:0226/pct:5.860880146015007,11.669481981981981,16.852565402555264,7.136824324324325/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182938:1830022501:0226/pct:5.859691808596918,11.667839549612948,16.854217356042174,7.139338494018297/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1002,7 +1002,7 @@ the offer. He said he was authorised. Smith
 told this to Livingston and to W. C. Nicholas,  
 who confirms it to me.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661551:1855020401:0132/pct:5.002050020500205,34.38705529361337,13.284132841328413,8.079725675096443/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661551:1855020401:0132/pct:5.011161222723338,34.394199171310184,13.279577240216847,8.079725675096443/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1020,7 +1020,7 @@ import. He hfd not the most distant recollec
 lion that Mr. Bayard had ever made such a  
 proposition to him. Mr. Bayard, said he, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661551:1855020401:0132/pct:5.289052890528906,59.408486926703816,13.133798004646714,2.2931847406772397/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661551:1855020401:0132/pct:5.289052890528906,59.408486926703816,13.142909206869847,2.3003286183740532/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1040,7 +1040,7 @@ sav, that having taxed his recollection, as far as
 it could be on so remote a transaction, he had  
 no remembrance of it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661551:1855020401:0132/pct:5.179718463851305,65.42006000857265,13.174798414650812,3.204029147021003/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661551:1855020401:0132/pct:5.188829666074438,65.42006000857265,13.174798414650812,3.2147449635662237/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1075,7 +1075,7 @@ In refutation of this charge Senator Bayard
 read the deposition of his father in the case of  
 Oillespie against Smith made on the 3d day o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661551:1855020401:0132/pct:4.9473828071614045,72.97471067295328,13.407134071340714,11.273039005572224/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661551:1855020401:0132/pct:4.9473828071614045,72.9818545506501,13.41168967245228,11.273039005572224/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1125,7 +1125,7 @@ ticularly mentioned the Secretaryship of
 the Navy. Smith said he was author­  
 ized to make the offer. To Dr. Linn, o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_engledinger_ver02:data:sn85033123:0051415126A:1878062001:0639/pct:48.692856144275126,12.0327900849029,14.050048930518663,8.880647994534986/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_engledinger_ver02:data:sn85033123:0051415126A:1878062001:0639/pct:48.69751619367165,12.0327900849029,14.050048930518663,8.883900979148368/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1156,7 +1156,7 @@ surances, saying &quot;that he had it in his power
 and was so disposed) to terminate the elee­  
 tio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_dante_ver01:data:sn83030272:00175044863:1885061401:0238/pct:124.40521872601688,73.38563669281835,50.575594781273985,31.864815932407968/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_dante_ver01:data:sn83030272:00175044863:1885061401:0238/pct:31.119216740257247,18.346409173204588,12.651180648876943,7.966203983101992/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1193,7 +1193,7 @@ ship of the Navy. Smirn asked him if he was authorized
 to make the offer. He said he was authorized. Swirn  
 told this to LivinGston, and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_dante_ver01:data:sn83030272:00175044863:1885062801:0310/pct:123.5385814497272,165.05211526670755,52.68901013250195,41.69221336603311/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_dante_ver01:data:sn83030272:00175044863:1885062801:0310/pct:30.896686159844055,41.263028816676886,13.17738791423002,10.423053341508277/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1211,7 +1211,7 @@ Gena SMith said that &quot;he had not the most
 distant recollection that Mr. BAYard had  
 ever made such a proposition to him;&quot; an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_dante_ver01:data:sn83030272:00175044863:1885062801:0310/pct:123.46063912704598,224.21827099938687,51.597817614964924,8.338442673206622/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_dante_ver01:data:sn83030272:00175044863:1885062801:0310/pct:30.87719298245614,56.05456774984672,12.904483430799221,2.0846106683016554/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1235,7 +1235,7 @@ ate did not take place until twenty-nine
 years later.  
 There is no doubt, at any rate, that th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_dante_ver01:data:sn83030272:00175044863:1885062801:0310/pct:123.46063912704598,232.7866339668915,51.36399064692128,21.474555487431022/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_dante_ver01:data:sn83030272:00175044863:1885062801:0310/pct:30.87719298245614,58.19665849172287,12.846003898635477,5.368638871857756/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1260,7 +1260,7 @@ Exirn, after converaing with me, gave answers from me
 This is absolutely false. No proposition of any kind was  
 ver
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_dante_ver01:data:sn83030272:00175044863:1885062801:0310/pct:123.38269680436477,273.9423666462293,51.28604832424006,23.175965665236053/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_dante_ver01:data:sn83030272:00175044863:1885062801:0310/pct:30.857699805068226,68.48559166155732,12.826510721247564,5.793991416309013/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1380,7 +1380,7 @@ him the t points mentioned and wasAuthorized
 by him to say tbat they corresponded with his  
 views 0 &lt; Intentions and that we mlht co
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_borges_ver01:data:sn83030272:00175044942:1891021801:0230/pct:232.58859784283513,121.96382428940568,50.92449922958397,9.30232558139535/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_borges_ver01:data:sn83030272:00175044942:1891021801:0230/pct:58.16955684007707,30.49095607235142,12.736030828516377,2.3255813953488373/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1408,7 +1408,7 @@ And vot the Intrepid Mr Lodge coolly writes
 down Jefferson and Smith as tar and In­  
 forms he readers of the herald that Jeffer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_borges_ver01:data:sn83030272:00175044942:1891021801:0230/pct:232.74268104776579,155.7075543395653,51.84899845916795,20.671834625322997/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_borges_ver01:data:sn83030272:00175044942:1891021801:0230/pct:58.20809248554913,38.92688858489132,12.967244701348747,5.167958656330749/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

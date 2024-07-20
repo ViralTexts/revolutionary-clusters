@@ -36,7 +36,7 @@ No, Henry, no ! one sacred oath has tied A
 Our loves, one destiny our lives shall guide, C  
 Nor wild, nor deep, our common way divide, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805010701:0295/pct:28.92967942088935,38.96645803241855,20.087900723888314,1.82956186807896/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805010701:0295/pct:28.922202119410702,38.9602053915276,20.089170328250194,1.8332798459563544/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -71,7 +71,7 @@ Nor wild nor deep our common way divide.’
 
 ---
 
-## [From _The American review : a Whig journal of politics, literature, art, and science_](https://archive.org/details/sim_american-whig-review_1847-07_6_1/page/n24/mode/1up?view=theater)
+## [From _The American Review: a Whig Journal Devoted to Politics and Literature (1848-1850)_](https://archive.org/details/sim_american-whig-review_1847-07_6_1/page/n24/mode/1up?view=theater)
 
 #### 1847-07-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -120,7 +120,7 @@ One sacred oath has tied
 Our loves; one destiny our life shall guide,  
 Nor wild, nor deep, our common life divide.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191253:1847092901:0346/pct:26.189455636519504,96.93791236677382,57.00814402057437,31.500592116393165/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191253:1847092901:0346/pct:6.54946939650552,24.234478091693454,14.256619144602851,7.875148029098291/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -151,7 +151,7 @@ One sacred oath has tied
 Our loves ; one destiny our life shall guide,  
 Nor wild, nor deep, our common life divide.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn82015677:00296029798:1847093001:0184/pct:5.913091309130913,32.189750105887335,19.485698569856986,10.853451927149512/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn82015677:00296029798:1847093001:0184/pct:4.442305047448769,24.142312579415503,14.619722184018704,8.142736128759001/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -203,7 +203,7 @@ One sacred oath has tied
 Our loves; ono destiny our life shall guide.  
 Nor wild, nor deep, our common way divide
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293423:1870120401:0540/pct:21.26537785588752,3.3892799133730374,25.805506736965437,125.01353546291283/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293423:1870120401:0540/pct:15.956043956043956,2.5446670276123444,19.36996336996337,93.76285868976719/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

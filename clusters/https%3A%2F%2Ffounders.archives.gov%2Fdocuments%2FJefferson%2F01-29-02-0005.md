@@ -106,7 +106,7 @@ the said States, to the completion of the
 31st degree of latitude north of the equa­  
 tor.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1803031801:0047/pct:7.694444444444445,51.977793199167245,20.583333333333332,6.57529493407356/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1803031801:0047/pct:7.6923076923076925,51.96877710320902,20.584559844487643,6.578490893321769/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -131,7 +131,7 @@ of the thtrty-(k|t drgree of latitude north uf the
 v^lttjlc bread;h fro^i its source to the ocean, shall  
 , be freeonly to his sul jrcts and the rkixnis of&#x27; th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811011601:0313/pct:7.190676915447558,61.66450356911097,22.390280188445328,8.111615833874108/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811011601:0313/pct:7.188894397620228,61.654501216545015,22.39092711948438,8.114355231143552/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -234,7 +234,7 @@ lecl&quot;, hlit 1 die cilutnuof llio United States, miters he should w.
 ixtrud tins privilege to the subjects of other powers by  
 special convention
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848012701:0108/pct:31.818914129208956,12.13226049786271,31.73835991622362,84.42293185818455/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848012701:0108/pct:31.818914129208956,12.13226049786271,31.73835991622362,84.43131338529881/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -280,7 +280,7 @@ extend this privilege to the subjects of
 othr powers by special convention.&quot;  
 ROYALBakfng Powder
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033429:00280779337:1896061701:0856/pct:25.714285714285715,107.28236968050705,15.087108013937282,17.824343551933772/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033429:00280779337:1896061701:0856/pct:19.29243638898571,80.46824472901307,11.327988846287905,13.374725132583107/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -35,7 +35,7 @@ Philadelphia merchant John Leamy (d. 1839) was a native of Ireland who had emigr
 AN adjourned meeting of the Hibernian Society, for the relief  
 of Emigrants from Ireland, will be held jit Mr. Patrick Byrne&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790120901:0003/pct:62.364010585122024,67.86302874931332,25.87474272272861,1.3550631752426296/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790120901:0003/pct:62.37136136430462,67.86760666544589,25.87474272272861,1.3642190075077825/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -52,7 +52,7 @@ of Emigrants from Ireland, will be held jit Mr. Patrick Byrne&#x27;
 (tST A slated mating of the HIBERNIAN SOCIETY, for the  
 relief of Emigrants from Ireland, will be held at Mr. Patrirk Byrne&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791030501:0004/pct:10.521739130434783,88.0925925925926,25.73913043478261,1.2407407407407407/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791030501:0004/pct:10.543478260869565,88.10185185185185,25.746376811594203,1.2453703703703705/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -70,7 +70,7 @@ HIBERNIAN SOCIETY.
 A QUARTERLY MEETING of the Hibernian  
 Society for the Relief of Emigrants from Ireland
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796091301:0003/pct:69.94452849218357,54.44225074037512,20.297528996469996,4.491609081934847/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796091301:0003/pct:69.95713565305093,54.45047713063508,20.310136157337368,4.508061862454755/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -86,7 +86,7 @@ Society for the Relief of Emigrants from Ireland
 A stated meeting of the Hibernian So­  
 ciety, for the relief of Emigrants from Ire
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797121801:0002/pct:77.60115606936417,23.939393939393938,16.28131021194605,1.2878787878787878/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797121801:0002/pct:77.60115606936417,23.943181818181817,16.299373795761078,1.2916666666666667/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -227,7 +227,7 @@ Ireland, held the 3d day of September, 1792, Dr. James Hutchinson, one o
 and of the Hibernian Society for the Relief of  
 Emigrants from Ireland,&quot; by Mr. John H
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_neruda_ver01:data:sn83030272:00175045028:1892070201:0427/pct:116.38461538461539,38.88133030990174,50.69230769230769,5.98639455782313/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_neruda_ver01:data:sn83030272:00175045028:1892070201:0427/pct:29.101750336603192,9.720332577475435,12.675514522023466,1.4965986394557824/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -243,7 +243,7 @@ Emigrants from Ireland,&quot; by Mr. John H
 the title of &quot;The Hibernian Society,&quot; for  
 the relief of emigrants from Ireland
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_betelgeuse_ver01:data:sn90059959:00271742836:1894041401:0627/pct:36.29349250254768,72.40821280469304,14.150531372834473,1.2339435622534642/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_betelgeuse_ver01:data:sn90059959:00271742836:1894041401:0627/pct:36.29834522249721,72.41158423519099,14.145678652884943,1.2339435622534642/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -259,7 +259,7 @@ the relief of emigrants from Ireland
 ner of the Hibernian Society for the Relief  
 of Emigrants from Ireland was hell at th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665532:1895031901:0176/pct:75.15051997810619,121.65766560123443,16.174055829228244,1.1131929901906756/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665532:1895031901:0176/pct:56.38603696098563,91.24876005731291,12.14236824093087,0.837650170836548/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -276,7 +276,7 @@ of Emigrants from Ireland was hell at th
 bernian Society for the Relief of Emi­  
 grants from Ireland was held at th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_onamia_ver01:data:sn90059522:00206536822:1895031901:0187/pct:62.06013212889308,74.80058774139378,10.556828906565997,1.2594458438287153/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_onamia_ver01:data:sn90059522:00206536822:1895031901:0187/pct:62.06013212889308,74.8075846627484,10.556828906565997,1.2559473831514134/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -293,7 +293,7 @@ anniversary dinner of the Hibernian so­
 ciety for the relief of emigrants from  
 Ireland was held at the Continenta
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_crane_ver01:data:sn84020107:00517014102:1895031901:0674/pct:55.5668016194332,53.945035460992905,12.246963562753036,1.4184397163120568/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_crane_ver01:data:sn84020107:00517014102:1895031901:0674/pct:55.55555555555556,53.937066036342145,12.249544626593806,1.421923474663909/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

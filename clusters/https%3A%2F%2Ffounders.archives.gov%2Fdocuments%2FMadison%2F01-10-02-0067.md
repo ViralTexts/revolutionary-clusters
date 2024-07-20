@@ -66,7 +66,7 @@ tations.”’
 T&#x27;he Fedoralist—Kent and Story, are full of the  
 same elementary principle, a 8 expressed by the latier
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015209:1842042601:0269/pct:34.788980070339974,40.86433827339621,14.712778429073857,4.22841745258576/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015209:1842042601:0269/pct:34.79874951152794,40.867792862818256,14.72254787026182,4.22841745258576/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -91,7 +91,7 @@ ar:ued by the laiter, that *‘the tendenoy of
 publican Governmet, is to the aggrandise  
 ment of the Legislature at the expense of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153243:1842050401:0680/pct:7.758026732809701,24.580106607663684,14.275871572275046,5.662274967313688/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153243:1842050401:0680/pct:7.767213265352993,24.580106607663684,14.28046483854669,5.672332294076234/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -163,9 +163,9 @@ we dui not blend the departmeuU togeiher. .-O
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1849-01_24_127/page/n14/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1849-01_24_127/page/n14/mode/1up?view=theater)
 
-#### 1849-01-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1849-01-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -184,9 +184,9 @@ ence, and would commit the judiciary against the constitutionality of th
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1849-01_24_127/page/n15/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1849-01_24_127/page/n15/mode/1up?view=theater)
 
-#### 1849-01-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1849-01-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -205,9 +205,9 @@ rity to the other departments that was consistent with republican prince iples.�
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1849-01_24_127/page/n16/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1849-01_24_127/page/n16/mode/1up?view=theater)
 
-#### 1849-01-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1849-01-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -226,9 +226,9 @@ withstanding the precautions taken in the constitution of the legislature, it wo
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1849-01_24_127/page/n18/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1849-01_24_127/page/n18/mode/1up?view=theater)
 
-#### 1849-01-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1849-01-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -242,7 +242,7 @@ nity at large as an additional check against unwise and unjust measures ;”
 
 ---
 
-## [From _The American review : a Whig journal of politics, literature, art, and science_](https://archive.org/details/sim_american-whig-review_1849-08_10_20/page/n6/mode/1up?view=theater)
+## [From _The American Review: a Whig Journal Devoted to Politics and Literature (1848-1850)_](https://archive.org/details/sim_american-whig-review_1849-08_10_20/page/n6/mode/1up?view=theater)
 
 #### 1849-08-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -316,7 +316,7 @@ advantages from it. The legislature must be expected
 frequently to pass unjutt and jjcrniciout lawt. This re­  
 st raining power, therefore, was ettentially nscessnry. It woul
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855022701:0253/pct:36.823222439660796,50.09504498796097,15.900195694716242,13.73716892662527/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855022701:0253/pct:36.82865840400087,50.09504498796097,15.900195694716242,13.749841591686732/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -356,7 +356,7 @@ ness, perspicuity, and technical propriety pr:ncipiei of free government, that u
 in the laws, qualities pecuhurly necessary, compared, in instruction and intrinsic val­  
 and yet shamefully wanting in our repabli- ue, lo the small and unpretending volume o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn86063325:00200292479:1856012401:0017/pct:93.88679245283019,55.650060753341435,33.77358490566038,3.3110571081409477/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn86063325:00200292479:1856012401:0017/pct:70.44167610419026,41.73754556500607,25.349188372970932,2.490886998784933/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -434,7 +434,7 @@ the other departments, that was
 consistent with Republican princi-­  
 ples.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn83025167:00279529352:1868031301:0074/pct:95.61091340450771,48.95678092399404,36.83274021352313,39.89780711092187/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn83025167:00279529352:1868031301:0074/pct:31.870304468169238,16.31892697466468,12.277580071174377,13.299269036973955/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -456,7 +456,7 @@ in the Logislaturo to absorb all power
 into its vortox. This was the real source  
 of danger to the Amorican Constitution
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038521:0020029337A:1868031701:0264/pct:22.454915648632927,69.5704845814978,14.048865619546248,5.79295154185022/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038521:0020029337A:1868031701:0264/pct:16.843636363636364,52.180616740088105,10.545454545454545,4.350220264317181/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -504,7 +504,7 @@ sity of giving every defensive authority
 to the other departments that was con  
 sistent with republican principles.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774765:1868081201:0474/pct:179.91602519244228,181.3299556681444,49.755073477956614,48.43571880937302/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774765:1868081201:0474/pct:44.97900629811057,45.3324889170361,12.438768369489154,12.108929702343255/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -538,7 +538,7 @@ of the great men who made the consti­
 tution, Governeur Morris said: &quot;The  
 most virtuous citizens will often, as me
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774765:1868081201:0474/pct:180.8257522743177,275.8708043065231,48.565430370888734,39.92400253324889/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774765:1868081201:0474/pct:45.20643806857942,68.96770107663077,12.141357592722184,9.981000633312222/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -578,7 +578,7 @@ sive authority to the other depart­
 ments that was consistent with re­  
 publish principles.&quot; (2 Vol. Madiso
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280775009:1868081901:0044/pct:46.63299663299663,67.33380986418871,13.51010101010101,17.512508934953537/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280775009:1868081901:0044/pct:34.98456357002526,50.50035739814153,10.145944428852092,13.140338336907314/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -609,7 +609,7 @@ ence to the opinions of the gn at men
 who made the Constitution, Govern-  
 Mcrris said : &quot;The most virtuou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280775009:1868081901:0044/pct:47.053872053872055,104.7891350964975,13.285634118967453,9.280438408386942/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280775009:1868081901:0044/pct:35.30732528767892,78.59185132237312,9.963513892786978,6.969263759828449/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -631,7 +631,7 @@ of giving every defensive authority to the
 other departments that was consistent  
 with republican principles.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200293010:1870011101:0044/pct:142.82393957001744,32.9781004801499,38.17547937245787,14.053167818245695/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200293010:1870011101:0044/pct:35.70598489250436,8.244525120037475,9.543869843114468,3.513291954561424/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

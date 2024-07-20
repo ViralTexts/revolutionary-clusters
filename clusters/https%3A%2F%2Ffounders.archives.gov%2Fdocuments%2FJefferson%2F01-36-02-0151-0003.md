@@ -178,7 +178,7 @@ Yobn Wells, jun. J
 P.S. The Cheefe was made, July 20,  
 1801.—~Weight 1234 Ibs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1802012301:0058/pct:6.477032481260811,5.752882263887272,40.49586776859504,84.76767206241993/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1802012301:0058/pct:6.477032481260811,5.756764100772486,40.502274328912804,84.76767206241993/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -597,7 +597,7 @@ JOHN WILLS, jum )
 . • ! he Checte was made,  
 **7 8o, l8ot.—Weight, 1135 »bs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1802020101:0746/pct:1.7721986339302196,43.93754844424759,20.232601070703343,33.274277488650206/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1802020101:0746/pct:1.7718715393133997,43.932683790965456,20.233480989294943,33.273361381753766/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -785,7 +785,7 @@ ted States, and . the wotld .at; large.
 Signed by order of all Ch &#x27;w.&#x27;g ¥  
 DANIEL BROWN, } 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802020201:0018/pct:63.22678843226788,13.843137254901961,16.377473363774733,69.2843137254902/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802020201:0018/pct:63.23186199898529,13.84967320261438,16.37239979705733,69.27777777777777/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

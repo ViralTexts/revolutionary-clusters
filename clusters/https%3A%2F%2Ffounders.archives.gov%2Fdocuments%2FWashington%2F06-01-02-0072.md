@@ -118,7 +118,7 @@ American Revolution, with autograph of Rd.
 Bland Lee--(very scArcE- $2.  
 INGErsoll.&#x27;s HiSTorical sKetch O
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_indy_ver01:data:sn84024738:00280777961:1860030201:0214/pct:219.06502208009746,121.29491813735913,40.140094411451194,23.867743993195834/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_indy_ver01:data:sn84024738:00280777961:1860030201:0214/pct:73.02167402669916,40.43163937911971,13.380031470483733,7.955914664398611/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

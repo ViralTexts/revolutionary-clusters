@@ -97,7 +97,7 @@ jesty’s Command, EGREMONT.
 To Our Trusty and Well- Beloved  
 Servants, the Kings, Heralds
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025581:00517015052:1762040201:0810/pct:36.64569320893903,44.86550750482984,28.574528097201128,9.838014563828207/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025581:00517015052:1762040201:0810/pct:36.6601576625443,44.86550750482984,28.567295870398496,9.852875613018279/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -307,7 +307,7 @@ sembled. and by the authority of the fame._ that
 it (hall and may be lawfal for bis Majesiv 16  
 treat, consult of agree and concli ¢
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1782051801:0149/pct:63.416652872041055,14.219991635299039,27.34646581691773,20.765370138017566/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1782051801:0149/pct:63.422170722286594,14.226962219433988,27.34646581691773,20.76188484595009/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -904,7 +904,7 @@ nominated and appointed, and by these presents
 do nominate and appoint the following named  
 persons residing in said city of St. &#x27; Paul, viz.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_dassel_ver01:data:sn83025287:00100493913:1881040801:0036/pct:74.8029197080292,61.68173401590241,11.474452554744525,1.9823548633046508/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_dassel_ver01:data:sn83025287:00100493913:1881040801:0036/pct:74.80778588807786,61.68173401590241,11.474452554744525,1.989616236430309/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

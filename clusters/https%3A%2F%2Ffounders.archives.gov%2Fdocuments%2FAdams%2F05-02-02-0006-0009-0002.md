@@ -316,7 +316,7 @@ of them, and navigated with the masters and 3
 fourths of the mariners of ‘the said places only,  
 under pain of forfeiture of ships and goods : An
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015064:1763101401:0121/pct:9.950556242274413,44.365910017670245,27.667902760609806,14.63911920619818/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015064:1763101401:0121/pct:9.957423430847411,44.37497168229804,27.681637137755803,14.63911920619818/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -402,7 +402,7 @@ mains to fame of the fubjedb of Great-Bri­
 tain, if any dispute ariie* concerning the  
 fame.” , 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1773010701:0349/pct:7.071799307958478,38.84163628999595,26.881487889273355,16.281895504252734/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1773010701:0349/pct:5.491926923291804,30.1025390625,20.822392312419687,12.6220703125/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -431,7 +431,7 @@ entire Property in such Ship remains to some
 of the Subjects of Great-Britain, if any Dis­  
 pute arises concerning the fame.” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1773010801:0005/pct:5.944798301486199,26.598173515981735,26.581740976645435,13.998287671232877/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1773010801:0005/pct:5.9518754423213025,26.607686453576864,26.581740976645435,13.998287671232877/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -461,7 +461,7 @@ mains to fooie of the fuhjtfts of Great-Bri­
 tain, if my dispute antes coiccrning the  
 fame.” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1773011401:0356/pct:36.67927887825506,66.91361476097288,27.375918094814157,16.466312552418227/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1773011401:0356/pct:28.43836246550138,51.86148124074676,21.216651333946643,12.764958653811432/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -490,7 +490,7 @@ entire Property in such Ship remains to some
 of the Subjects of Great-Britain, if any Dis­  
 pute arises concerning the lame.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1773011501:0010/pct:69.61841559518872,10.69458197764889,25.839900456242223,13.77846937332013/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1773011501:0010/pct:69.62532835614545,10.69458197764889,25.832987695285496,13.787900221624936/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -520,7 +520,7 @@ mains to some of the fubjeds ofGreiti-Bri­
 tain, if any difputc antes concerning the  
 fame.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1773012101:0360/pct:68.03613680361369,82.23738062755798,26.607872660787265,15.893587994542974/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1773012101:0360/pct:52.73949766614803,63.73792909001198,20.610135585685708,12.321139070980475/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -549,7 +549,7 @@ entire Property in such Ship remains to some
 of the Subjeéts of Great-Britain, if any Dis­  
 pute arifés concerning the fame.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1773012201:0014/pct:68.49916387959867,11.117405466647783,26.484113712374583,13.808242458575272/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1773012201:0014/pct:68.49916387959867,11.126846999952793,26.505016722408026,13.808242458575272/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

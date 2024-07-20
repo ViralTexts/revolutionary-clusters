@@ -276,7 +276,7 @@ ing to correspondent triumphs there
 also, but the discipline and habits  
 which are in daily progress
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:0041421616A:1813030501:0512/pct:8.999305072967339,5.497757847533633,62.24808895066018,88.84304932735427/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:0041421616A:1813030501:0512/pct:8.997741879451103,5.497264819298717,62.24306641190435,88.83807132394703/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -296,7 +296,7 @@ lie.&#x27;*
 We learn also, that a general prosper­  
 ity is visible in the public countenance 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:0041421616A:1813030601:0516/pct:32.460732984293195,24.89842783960431,18.966390812362775,4.610492845786964/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:0041421616A:1813030601:0516/pct:32.45525160418777,24.896228914598606,18.968816841157267,4.613029526921605/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -708,7 +708,7 @@ us that nothing is wanting to correspondent
 triumphs there also, but the discipline and  
 habits which are in daily progress
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813030801:0073/pct:39.143514422226154,5.8183538315988645,34.13555122987082,87.5473036896878/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813030801:0073/pct:39.13658881811748,5.817665838949982,34.135409294644965,87.54089314571755/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -740,7 +740,7 @@ reflect on the characters by which this
 war is distinguished ? Dees he mean  
 the military “ characters’* that hare il
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:0041421616A:1813030901:0524/pct:10.652022315202231,10.777797736662475,19.36889818688982,6.412789653314173/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:0041421616A:1813030901:0524/pct:10.650165591772703,10.776829815895823,19.37133228749056,6.415207304295764/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -763,7 +763,7 @@ been infringed ” Stick a pin there,
 proclamation. We 6nd him there  
 trying to do a deed so repugnant t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:0041421616A:1813030901:0524/pct:9.86750348675035,21.564576971438836,20.101115760111576,7.2570504760194/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:0041421616A:1813030901:0524/pct:9.865783510545581,21.562640323304894,20.103422229969205,7.259392306540937/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -800,7 +800,7 @@ terms on which it wonld be re-sheath­
 ed.** I suppose however he has refer­  
 ence to Mr. Russel telling lord Castle
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:0041421616A:1813030901:0524/pct:10.355648535564853,62.107059457517515,19.50836820083682,18.37614514100952/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:0041421616A:1813030901:0524/pct:10.353843472198013,62.101481814099685,19.510777990819825,18.37748839994013/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -828,7 +828,7 @@ ed them into those of the United Stales.”
 I think the perversion in this paragraph  
 consists in shifting the names, wher
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:0041421616A:1813030901:0524/pct:31.29358437935844,5.002694449434165,19.525801952580196,9.682054966768456/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:0041421616A:1813030901:0524/pct:31.288129684504096,5.002245172878312,19.528208703735984,9.684179015117497/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1025,7 +1025,7 @@ is wanting to correspondent triumphs there !
 also, but the discipline and habits which are  
 in daily progress
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1813030901:0392/pct:5.35681186283596,4.127100073046019,36.4967562557924,89.53007061115169/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1813030901:0392/pct:5.355819125277984,4.126597687157639,36.49617000247097,89.52322986406979/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1123,7 +1123,7 @@ which was never surpassed.
 How little ha* been theeffeet of thisyjumple  
 on the conduct of the enemy 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813031001:0394/pct:48.52160727824109,42.47957712638155,21.65782158200657,55.03764215921832/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813031001:0394/pct:48.50934815563416,42.47277386290839,21.65866599292572,55.032831518257524/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1223,7 +1223,7 @@ enterprize assure us that nothing is wanting to
 correspondent triumph# th\e also, hot the dis- &#x27;  
 cipline anu habits which are in daily progress- ,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813031001:0394/pct:70.73540561031083,12.061508889956752,24.437705332322466,52.41069998398206/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813031001:0394/pct:70.71753410813542,12.059577194106343,24.437847397675593,52.40631005765535/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1396,7 +1396,7 @@ enierprize assure us that nothing is wuminj to cor.
 respondent triumphs there also, but the disciplive  
 and habits which are in daily progress
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1813031101:0790/pct:27.83313629454484,3.8692527321059367,46.86708326296234,93.43310032489909/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1813031101:0790/pct:27.844395653887293,3.8758163499721046,46.86708326296234,93.429818515966/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2024,7 +2024,7 @@ sure us that nothing is wanting to corres­
 pondent triumphs there also, but the dis­  
 cipline and habits which are in daily pro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1813031201:0378/pct:25.790467201510147,5.240998838559814,43.25153374233129,92.5232288037166/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1813031201:0378/pct:25.784383109223874,5.2402380606764405,43.24722811983958,92.51342720278706/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2512,7 +2512,7 @@ that nothing is wanting to correspondent
 triamphs there also, but the dicipline and  
 habits which are in daily progiefs. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1813031601:0470/pct:10.665478312537136,4.110387717422991,37.938205585264406,90.0301234088038/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1813031601:0470/pct:10.665478312537136,4.116865869853918,37.94810853634383,90.02688433258835/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3321,7 +3321,7 @@ the precions mc’als from British circu­
 lation and British vaults, have poured  
 them into&#x27;those of the United States 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813041701:0084/pct:52.36291783303145,36.07230178134824,18.63988144245019,3.746070555361509/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813041701:0084/pct:52.354297003621994,36.06915218719986,18.64230051585995,3.748653918914986/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3699,7 +3699,7 @@ and drait in , or diverting the pr, cious metals from
 British circulation and British vaults, have pour­  
 ed them into those of the Hinted Stales
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1815021801:0227/pct:4.963805584281283,59.6248766041461,21.871768355739402,5.429417571569595/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1815021801:0227/pct:4.962522615662962,59.6150682678072,21.87257689325407,5.4326369468662605/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3723,7 +3723,7 @@ ers, on the element common to all * and
 to violate the sacred title which ev. ry  
 member of society has to its protectio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016082:00332895096:1815040301:0043/pct:56.528537920250194,38.260009886307465,18.326817826426897,7.0588235294117645/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016082:00332895096:1815040301:0043/pct:56.51969981238274,38.256227758007114,18.327861163227016,7.06059707394227/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3797,7 +3797,7 @@ of permitting but compelling them to fightitabattles egainst
 their native country.&quot;  
 At that time, General Sheafe, Chief Magistrate of Uye
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530248:1846070401:0113/pct:213.5041660116334,238.56975381008206,41.14132997956296,15.099648300117233/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530248:1846070401:0113/pct:71.16805533721113,79.52325127002736,13.71377665985432,5.033216100039078/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3833,7 +3833,7 @@ traitors and deeertere, persons emigratin&#x27;; without
 restraint to the United States; incorporated by  
 naturalization into our political family, Ac.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn84038814:00279557190:1859071901:0062/pct:18.665720369056068,60.29599387598877,12.508871540099362,2.092370502679255/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn84038814:00279557190:1859071901:0062/pct:18.67015613910575,60.305562643531516,12.508871540099362,2.092370502679255/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3905,7 +3905,7 @@ noror before soon, HrUlsh commanders have ex­
 torted victory over tho unconquerable valor of  
 our troops, by presenting to tholr Chief, await
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ogden_ver03:data:sn84031492:no_reel:1881010501:0006/pct:70.4724409448819,2.164762477450391,13.595800524934383,22.0485067147725/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ogden_ver03:data:sn84031492:no_reel:1881010501:0006/pct:70.49212598425197,2.179795550210463,13.582677165354331,22.063539787532573/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3942,7 +3942,7 @@ stamped with that justice which invites the
 smiles of heaven on the means of conducting it  
 to a successful terminatio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044851:1885030501:0735/pct:17.851739788199698,17.45127436281859,99.3948562783661,371.1994002998501/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044851:1885030501:0735/pct:4.465468306527909,4.362818590704648,24.862819299905393,92.79985007496252/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

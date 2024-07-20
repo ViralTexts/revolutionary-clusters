@@ -192,7 +192,7 @@ we be cheated of it by thém ¢ but as it was gained by the fiern vir­
 tue of our ancestors, by the v‘ix?uc of their descendants, it shall be  
 preserved. , T R
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015076:1770050401:0459/pct:7.536350604136802,61.02029312288613,27.19639565840672,5.157835400225479/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015076:1770050401:0459/pct:7.550003413202266,61.02968808718527,27.182742849341253,5.148440435926344/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -325,7 +325,7 @@ only, in three weeks; but I remember
 nothing like what I have seen these six  
 months past.” Frothingham says tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_isleboro_ver01:data:sn83016025:00414210673:1897070801:0136/pct:38.63755458515284,16.66924385340962,11.213973799126638,7.484150301530849/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_isleboro_ver01:data:sn83016025:00414210673:1897070801:0136/pct:38.63080684596577,16.666666666666668,11.21638141809291,7.486858379715523/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

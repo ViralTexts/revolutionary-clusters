@@ -296,7 +296,7 @@ no labor away.
   
 From the Independent L&#x27;oin+r, [.Maine. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1830051301:0722/pct:17.664233576642335,9.962242230612837,30.552659019812303,86.14580307871043/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1830051301:0722/pct:17.660550458715598,9.960795702047335,30.551501251042534,86.13692464062727/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

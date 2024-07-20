@@ -84,7 +84,7 @@ i. g a .r(&#x27;. eral » filter, he earned into ex­
 ecution, until after the whole proceedings  
 Shall have been transmitted to the set re 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806082301:0281/pct:6.032350142721218,31.204663212435232,17.716460513796385,8.419689119170984/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806082301:0281/pct:6.031202435312024,31.200621681129387,17.71943176052765,8.42291585718603/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -176,7 +176,7 @@ ing the coart 1o aflemble, or the command.-
 ing officer for the time being, 25 the caic  
 may be. &lt; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1806090201:0349/pct:25.11336982017201,12.03173646680727,34.33932759968726,84.7745304810686/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1806090201:0349/pct:25.11858222569716,12.03508419537344,34.34975241073756,84.7745304810686/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -336,7 +336,7 @@ c*&#x27;f —other sentences may be confmned and executed by the officer orJeiin
 tn • c &gt;u:t to aiscmbltf, or the commanding officer for Ihe tin e being as tbo ca,c  
 In ay t e. e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186944:1840072301:0538/pct:29.884885633129016,16.23594854560204,26.02780684706234,3.1869278015992584/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186944:1840072301:0538/pct:29.880418535127056,16.23406720741599,26.02889885401096,3.190421011973735/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -390,7 +390,7 @@ troops for the time being; neither shall the sentence of
 court martial, in time of peace, invoiving lite or the dis-­  
 missal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743245:1856071601:0137/pct:154.60460460460462,38.78219611387257,46.76343009676343,8.269317668323543/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743245:1856071601:0137/pct:51.53486820153487,12.92739870462419,15.587810032254477,2.7564392227745143/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -407,7 +407,7 @@ ed and ordered to be carried into execution by the officer
 ordering the court or the commanding officer for the time  
 being
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743245:1856071601:0137/pct:154.75475475475474,50.92634432896521,46.22956289622956,3.8974243108901945/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743245:1856071601:0137/pct:51.58491825158492,16.97544810965507,15.409854298743188,1.299141436963398/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -434,7 +434,7 @@ or disapproval, and orders in tin; ease. All other sentences may be I
 confirmed and executed by the officer ordering the court to assemble, or  
 the commanding officer for the time being, as the case may he
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn82014282:0041421244A:1861062701:0244/pct:4.8883086742094575,5.312399182707818,38.19263127357122,92.95623185288741/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn82014282:0041421244A:1861062701:0244/pct:4.887599709934736,5.311827956989247,38.19071791153009,92.9489247311828/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -510,7 +510,7 @@ the general commanding in the trans Missigel af
   
 department, acting under the authority of t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_kings_ver01:data:sn83025813:00415667115:1864061801:0254/pct:22.801635991820042,63.67822573066441,119.98977505112474,75.40644676252232/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_kings_ver01:data:sn83025813:00415667115:1864061801:0254/pct:5.702595576013297,15.919556432666102,30.00895026211482,18.85161169063058/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -613,7 +613,7 @@ by the officer ordering the court to
 the commanding officer for the time  
 case may be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_monroe_ver01:data:sn82014371:00212470168:1864070101:0145/pct:305.187969924812,138.29649735039422,49.92481203007519,39.91211063719788/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_monroe_ver01:data:sn82014371:00212470168:1864070101:0145/pct:76.34004137671619,34.574124337598555,12.488245251081437,9.97802765929947/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -697,7 +697,7 @@ by the officer ordering the court to assemble, or
 the commanding officer for the time being, as the  
 case may be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_monroe_ver01:data:sn82014371:00212470211:1864072101:0751/pct:298.3485193621868,138.94785955908083,53.98633257403189,29.581243438702906/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_monroe_ver01:data:sn82014371:00212470211:1864072101:0751/pct:74.61900014242985,34.736964889770206,13.502350092579405,7.395310859675726/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -730,7 +730,7 @@ shall have been laid before the officer ordering the
 same, or the officer commanding the troops for the time  
 being; neither shall any sentence of a general cour
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_eiffel_ver02:data:sn83016892:00295878794:1864080101:0564/pct:133.9516129032258,163.22388059701493,48.79032258064516,12.656716417910447/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_eiffel_ver02:data:sn83016892:00295878794:1864080101:0564/pct:33.501411859620816,40.80597014925373,12.202501008471158,3.1641791044776117/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -752,7 +752,7 @@ confirmed and executed by the officer orerinn the
 court to assemble, or the commanding officer for the  
 time being as the case may b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_eiffel_ver02:data:sn83016892:00295878794:1864080101:0564/pct:133.8709677419355,178.2089552238806,49.11290322580645,12.537313432835822/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_eiffel_ver02:data:sn83016892:00295878794:1864080101:0564/pct:33.48124243646632,44.55223880597015,12.283178701089149,3.1343283582089554/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -789,7 +789,7 @@ All other sentences may be confirmed and executed by
 the officer ordering the&#x27;eourt to assemble, or&#x27;the com­  
 manding officer for the time&#x27;being, as the case may be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84020712:00295879191:1864080201:0339/pct:26.61334804191947,34.934117390830885,20.022062879205738,13.92791026897528/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84020712:00295879191:1864080201:0339/pct:19.969659357330023,26.20058804312316,15.018618121638395,10.454099967330938/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -864,7 +864,7 @@ All other sentences mayT)e confirmed and executed by
 the officer ordering the court to assemble, or the com­  
 manding officer for tlxe time being, as the case may be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84020712:00295879191:1864081601:0347/pct:27.131782945736433,34.78539397821909,20.099667774086377,13.75186846038864/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84020712:00295879191:1864081601:0347/pct:20.351654437214453,26.094383941917574,15.090682541880104,10.31390134529148/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -270,7 +270,7 @@ Chronicles OF BaltiMore, being a com
 plete history of Baltimore Town and Ealtimore  
 City. By Col. . Thomas Scharf. MEmoIrs o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558329:1874093001:0327/pct:298.95104895104896,258.34408047459374,43.63636363636363,30.7970079958731/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558329:1874093001:0327/pct:74.77698093405633,64.58602011864843,10.91481546265524,7.699251998968275/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -322,7 +322,7 @@ ChroniCles OF BaltiMOre, being a com
 plete history of Baltimore Town and Baltimore  
 City. By Col. J. Thomas Scharf. Memolks o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558329:1874100301:0340/pct:245.15027322404373,177.85157746838678,42.759562841530055,23.757823476816963/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558329:1874100301:0340/pct:61.3189817187767,44.462894367096695,10.695369895779942,5.939455869204241/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -354,7 +354,7 @@ EWBOOKS.
 Chronicles oF BaltiMorE, being a com  
 plete history of Baltimore Town and Baltimor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558329:1874100601:0348/pct:246.0,194.9243783645219,43.44827586206897,22.660856190720327/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558329:1874100601:0348/pct:61.510605276771855,48.73109459113048,10.863942058975686,5.665214047680082/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -388,7 +388,7 @@ ChrOniCles oF BaltiMore, being a com­
 plete history of Baltimore Town and Baltimore  
 City. By Col.J. Thomas Scharf. MEMOirs O
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558329:1874101001:0363/pct:148.40277777777777,36.22854214706636,43.541666666666664,23.31539841147835/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558329:1874101001:0363/pct:37.10069444444444,9.05713553676659,10.885416666666666,5.828849602869587/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -422,7 +422,7 @@ CHrONiCles OF BalTiMOre, being a com
 plete history of Baltimore Town and Baltimore  
 City. By Co1.J. Thomas Scharf. MeMoirs O
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558329:1874101201:0367/pct:150.0,130.8253358925144,43.60222531293463,23.49328214971209/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558329:1874101201:0367/pct:37.50652060511216,32.7063339731286,10.90245174752217,5.873320537428023/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -545,7 +545,7 @@ evening,&quot; says one of the guests, &quot;an
 elegant band of music played an in­  
 troductive part of a French opera
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_funston_ver01:data:sn84027670:00237283399:1881072101:0117/pct:343.1833910034602,192.41507103150093,43.59861591695502,6.5719579987646695/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_funston_ver01:data:sn84027670:00237283399:1881072101:0117/pct:85.81069389167676,48.10376775787523,10.901540058833708,1.6429894996911674/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -792,7 +792,7 @@ fire from the exemy--a matter of specitlation. Thet
 determined to return no fire upon the enemy till  
 our batteries are all ready to play to some purpose
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_rolls_ver01:data:sn83030214:00175039879:1881101801:0159/pct:152.0595690747782,262.24673570463756,45.32636248415716,3.737055380459253/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_rolls_ver01:data:sn83030214:00175039879:1881101801:0159/pct:50.68652302492607,87.41557856821251,15.108787494719053,1.2456851268197509/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -849,7 +849,7 @@ artillery, etc., writing letters. Country
 through which we have parsed much pleased i  
 with the prospect of our expedition
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624578:1881102201:0136/pct:43.274392169245345,47.345870030945015,13.467003473318599,11.3306355629612/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624578:1881102201:0136/pct:33.545413760756965,36.69290370188169,10.44496105061381,8.787357028655762/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -907,7 +907,7 @@ the evening says one of the guests
 an elegant band of music played an in  
 troductive part of a French opera sig
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_ishtar_ver01:data:sn86069124:00206534242:1882011201:0180/pct:100.82612116443745,72.65042979942693,26.06215578284815,19.255014326647565/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_ishtar_ver01:data:sn86069124:00206534242:1882011201:0180/pct:75.6740799055304,54.49498567335244,19.563078134225545,14.444842406876791/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1100,7 +1100,7 @@ band of music played an introductive part of
 a French opera, signifying the happiness of the  
 family when blessed with the prosence of thei
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_stein_ver01:data:sn83030272:00175042994:1898032001:0071/pct:338.2830626450116,148.38224228743417,51.27610208816705,5.959367945823928/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_stein_ver01:data:sn83030272:00175042994:1898032001:0071/pct:84.60348162475822,37.09556057185854,12.823984526112186,1.489841986455982/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -40,7 +40,7 @@ ate the persons whose names are stated in the list
 annexed to the enclosed letter from the Secretary  
 of War, for the promotions and appointments res
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840050901:0032/pct:49.8804780876494,68.78453038674033,19.50199203187251,3.023327194597913/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840050901:0032/pct:37.42526903148665,51.59607120933088,14.64726982861698,2.271332105586249/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -97,7 +97,7 @@ stated in the lists, annexed to th* enclosed let­
 ters of the Secretary of War, for the appoint­  
 ments and promotions respectively proposed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664308:1848061601:0212/pct:68.21659799882283,36.783363540971095,13.213655091230136,2.3466564914623675/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664308:1848061601:0212/pct:68.21659799882283,36.783363540971095,13.218559937217972,2.3561957454927023/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -116,7 +116,7 @@ closed letters of the Secretary of War, for
 the appointments and promotions respective-.  
 ly proposed. . JAMti3 MAUW&quot;&quot;. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035101:00296027042:1848062101:0764/pct:92.64364480557168,97.03788748564868,16.729541497388276,3.5591274397244548/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035101:00296027042:1848062101:0764/pct:69.51662069966613,72.77841561423651,12.556249092756568,2.675086107921929/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -145,7 +145,7 @@ in the lists, annexed to the enclosed letters of the
 Secretary of War, for the appointments and promo­  
 tions respectively proposed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022615:1848070501:0321/pct:65.26770775237033,51.9185923256307,20.287228109314,3.095187619249523/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022615:1848070501:0321/pct:48.97475240619333,38.944244223023105,15.232249965127632,2.3213907144371424/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

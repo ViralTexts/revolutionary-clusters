@@ -305,7 +305,7 @@ questionable ami unalienable rights, acqui­
 red by it ; and which it is found, can no o­  
 therwise be maintained
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812081801:0120/pct:58.99747565813199,20.043758356630608,17.832672196177427,54.55208459948948/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812081801:0120/pct:58.986839733189115,20.041322314049587,17.835466618592633,54.54950575271431/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -418,7 +418,7 @@ questionable and unalienable rights, acquir­
 ed by it; and which it is found, can no other­  
 wise be maintained
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812082001:0225/pct:22.591362126245848,21.044689495066745,16.786151425074312,52.095182820661634/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812082001:0225/pct:22.587412587412587,21.042246982358403,16.789044289044288,52.09300526152894/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

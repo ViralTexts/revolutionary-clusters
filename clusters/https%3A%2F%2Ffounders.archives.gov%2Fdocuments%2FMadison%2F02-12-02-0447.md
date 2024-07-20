@@ -217,7 +217,7 @@ s)i ul 1 not be ailbfded ( y ,,(C inteHcrei.ee of u.e
 »a iu .1 power, m whose port thy unlawful iyfti«»v  
 * Old! I).. attempted, could not be soasidered a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808051001:0007/pct:3.027488855869242,21.635650082288898,18.443536404160476,72.59146727433853/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808051001:0007/pct:3.0269266480965644,21.632911392405063,18.446301454658002,72.58649789029536/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -544,7 +544,7 @@ health of this morning is, that the symptoms
 have encreased to so alarming a degree, that he  
 is not expected to survive many hours
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808051001:0007/pct:21.74962852897474,10.355741233067477,36.905646359583955,86.98569439169515/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808051001:0007/pct:21.745589600742804,10.354430379746836,36.90498297740638,86.9789029535865/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -571,7 +571,7 @@ would preserve unimpaired, that firm anddigni­
 fied attitude which it becomes us at all times, but  
 especially now, to maintain.” This signal proo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808062401:0067/pct:59.015193117334796,11.794291462341254,18.195130880468607,7.00364642273356/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808062401:0067/pct:59.004392386530014,11.792808649735981,18.197901415324548,7.006956667504819/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -607,7 +607,7 @@ cils, would preserve unimpaired, that fi,n.
 u* at -li oine.s bui especially now, to  
 m man*.” This signal proof of the 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808062801:0213/pct:22.226450999048524,16.851497769279796,18.039961941008563,14.314850223072021/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808062801:0213/pct:22.22222222222222,16.84934998725465,18.04287163876205,14.317274194918854/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -635,7 +635,7 @@ publick councils, would preserve unimpaired, that
 firm and dignified attitude which it becomes us at  
 all tunes, but especially now, to maintain.” Thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808062901:1203/pct:50.37955465587044,54.32276657060519,22.115384615384617,9.398014729426833/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808062901:1203/pct:50.36681001770807,54.3140707539619,22.116114343536555,9.400512245878021/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -707,7 +707,7 @@ act upon am. enforce it, as soon as negocia­
 tion *.rm!l hare been sufficiently and unsuc­  
 cessfully tried.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809010701:0305/pct:41.05948291448201,55.29471159914174,17.410956427409147,32.7906096175691/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809010701:0305/pct:41.052060737527114,55.28773346794548,17.413834658953967,32.79067810869931/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -789,7 +789,7 @@ to every part of the world.”
 In a despatch of November 11, 1806, speaking of  
 the negotiation with lords Holland and Auckland
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809090401:0655/pct:29.62221666249687,5.164169588779088,21.491118338754067,27.79725852725534/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809090401:0655/pct:29.61480740370185,5.163346613545817,21.491995997999,27.796812749003983/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -834,7 +834,7 @@ and form of which should be settled by
 1 lia» UIWOV UWCUIUWlUf Olftxuiu  
 completely protect the seamen; bur th.i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813040801:0052/pct:33.354838709677416,32.117873382301504,19.096774193548388,5.552640783490731/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813040801:0052/pct:33.349459764554105,32.115065139459645,19.09907004246627,5.555069802687185/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -858,7 +858,7 @@ ral, was as friendly and respectful to ou,
 government and country, as could be  
 desired.” (See A&#x27;o 54 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813040801:0052/pct:33.32258064516129,39.53305351521511,19.129032258064516,6.112277019937041/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813040801:0052/pct:33.31720690211256,39.529596922269825,19.13132290490781,6.114657107050217/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -880,7 +880,7 @@ tions here, as well as by the public in general,
 is ns friendly and respectful to our government  
 and country as could be desired.” Mr. Fox, al
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813101301:0638/pct:26.059050064184852,53.89449313709277,21.976893453145056,5.424177277989085/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813101301:0638/pct:26.0523613963039,53.88558201058201,21.977669404517453,5.427414021164021/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -925,7 +925,7 @@ cession upon their maritime strength, on which
 Great Bi itain depended, not only for her pros-i  
 pet ity lijAher safely, might be fatal.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813101301:0638/pct:25.77663671373556,61.3692740201753,22.259306803594352,20.539110302629403/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813101301:0638/pct:25.770020533880903,61.35912698412698,22.26001026694045,20.539847883597883/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1100,7 +1100,7 @@ implied--a claim as plainly inadmissible in its
 principle, and derogating from the unquestionable rights of  
 our soverclgnty, as it was pexatious in ite practleal conse
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271743403:1862011001:0088/pct:189.01771336553946,103.26061731260152,53.20450885668277,7.5307495938732885/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271743403:1862011001:0088/pct:63.00590445517982,34.42020577086718,17.734836285560924,2.5102498646244293/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

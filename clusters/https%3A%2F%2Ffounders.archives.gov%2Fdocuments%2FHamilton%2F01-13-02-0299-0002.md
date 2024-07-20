@@ -393,7 +393,7 @@ this nature are of course. It is at the
 fame time fatisfaftory to obt&#x27;erve, that the  
 estimates wiiichhave been heretofore com
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793020901:0001/pct:28.54833494988684,14.628297362110311,65.9877141933398,80.23581135091926/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793020901:0001/pct:28.564500484966054,14.633293365307754,65.9877141933398,80.25079936051159/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -754,7 +754,7 @@ agreeing in the result with the itatement
 rB.l is herewith also fubmittcd, market  
 [Ha.]
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793020901:0002/pct:5.51257253384913,3.4392598551890585,65.63507414571244,90.22526146419952/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793020901:0002/pct:5.520631850419084,3.4442880128720836,65.64313346228239,90.24537409493162/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1258,7 +1258,7 @@ paying it, which were to be derived row
 the foreign fund, and ofcourfe were  
 to be in the Tieafury before payment
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793020901:0002/pct:11.63658991910392,6.029028656494232,85.7809583074051,86.86267212504652/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793020901:0002/pct:11.652146857498444,6.042984741347228,85.77317983820784,86.85802009676219/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1370,7 +1370,7 @@ And molt humble Servant,
   
 The Hon. the Speaker of the House
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793020901:0003/pct:9.215627796003579,5.655722148415259,19.475096928124067,73.84702979692541/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793020901:0003/pct:9.230539815090964,5.6699563484532165,19.48255293766776,73.86126399696337/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1391,7 +1391,7 @@ exhibit a general view of the public mo­
 lies and funds, Or to shew the amount anii  
 ituation of such as were unapplied.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793022001:0002/pct:29.044708909617242,67.7309918180004,20.7462206497266,4.829375374176811/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793022001:0002/pct:29.060791251206176,67.74096986629415,20.7462206497266,4.829375374176811/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1415,7 +1415,7 @@ that it is one ti/fue of error.*1
 I do not fay there was malic*, and a delibe­  
 rate wicked design in.the mover of the la«e in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793042001:0001/pct:70.06843201428147,57.954757898672646,19.131210949122284,6.038511871377827/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793042001:0001/pct:70.06843201428147,57.96410544026921,19.160963998809876,6.047859412974388/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1436,7 +1436,7 @@ forcing the sense, be drawn from them.
 it is not proposed lo attempt a fyftema  
 tic refutation of Pacificu . the attemp
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793092501:0001/pct:28.369704749679077,35.82716543308662,20.69961489088575,4.780956191238247/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793092501:0001/pct:28.39377406931964,35.84216843368674,20.691591784338897,4.795959191838367/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1453,7 +1453,7 @@ rected to furnish, at the commencement of the
 next session, a detailed account of the Re­  
 ceipts into, and Expenditures from the Treas
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021201:00517172108:1821062001:0018/pct:99.80489919791893,89.85405557114791,22.089746368957293,2.245298905416784/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021201:00517172108:1821062001:0018/pct:77.35901887215098,69.63567156063078,17.119336954695637,1.7509516041326807/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1497,7 +1497,7 @@ error.&quot;
 Soon after this report was made, Mr. Giles in.  
 troduced on the 28th February, 1793, a scries o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530182:1843052501:0300/pct:104.29107276819205,244.48924731182797,47.996999249812454,17.84532671629446/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530182:1843052501:0300/pct:34.76369092273068,81.49641577060932,15.998999749937484,5.9484422387648195/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

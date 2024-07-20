@@ -93,7 +93,7 @@ pendent yeomanry of our country in equal
 Tuilt. How long Mr. Jefferfon has been diftin­  
 riufhed as the Cataline of the day, or as th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792090801:0001/pct:74.07174323473883,58.13457436494086,21.428571428571427,5.972464611208067/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792090801:0001/pct:74.07174323473883,58.14911770409152,21.44430459408433,5.957921272057398/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -494,7 +494,7 @@ the place which has been amgne &lt;&gt;
 The American, it ought to he corf &#x27;■ i   
 this instance drawn larger than f c 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792091901:0002/pct:28.739205526770295,3.0338389731621938,68.67012089810017,92.74601322442629/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792091901:0002/pct:28.76511226252159,3.0338389731621938,68.6614853195164,92.77032283158304/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -527,7 +527,7 @@ lively jufit CATULLUS.
 P. S. Some additional observations are re­  
 served for another paper. j
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792091901:0003/pct:5.365223012281835,4.270670826833073,21.71945701357466,13.026521060842434/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792091901:0003/pct:5.381383322559794,4.285296411856474,21.72753716871364,13.011895475819033/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -550,7 +550,7 @@ much netd, to the breads of a private
 company.&quot; Soir.e concessions. have it i*  
 true, been h terly made, thou h reluc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792121201:0001/pct:69.21641791044776,30.080987273428462,21.766169154228855,7.134593135364443/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792121201:0001/pct:69.23196517412936,30.08580794446587,21.77394278606965,7.129772464327035/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -609,7 +609,7 @@ lint mcafuies ft the governmeßt. , M
 It Mr. Jed 1 Ton&#x27;s opposition to the measures  
 which are scfloeaed with the admißiftration cf the the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796110301:0002/pct:10.755377688844423,62.94726930320151,21.610805402701352,28.93910860012555/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796110301:0002/pct:10.755377688844423,62.94726930320151,21.623311655827916,28.954802259887007/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -683,7 +683,7 @@ own spontaneous emotions, pronounce for itfelf
 upon the reflitudeof such a suggestion.  
 An effort, fcatcely plausible, has been heretofor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796110801:0002/pct:29.307692307692307,16.563517915309447,21.384615384615383,40.13029315960912/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796110801:0002/pct:29.314102564102566,16.563517915309447,21.378205128205128,40.14250814332247/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -709,7 +709,7 @@ Refpeflable fellow-citizens,
 WHATEVER may be the relult of your ap­  
 proaching deliberations, the interetts of this coun
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796110901:0002/pct:70.97268317589992,80.54596283506002,20.679091141179473,9.422792303897385/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796110901:0002/pct:70.97906561143732,80.54596283506002,20.685473576716877,9.439236967604012/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -767,7 +767,7 @@ then will lour {lates be sound to reject,
 if we adOPt it ?  
 Mr. Madison said in r-sply to this
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802101801:0468/pct:9.005419190309212,3.2164799421756416,45.329933057060884,93.35019877123239/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802101801:0468/pct:9.00398406374502,3.2161893576655523,45.32802124833997,93.34477670370705/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -805,7 +805,7 @@ formed me, but, I will venture to stint,
 that the clause narw dycct&#x27;gﬄcssd is not ob.  
 jected to by him
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802101801:0468/pct:33.23238763149506,13.182146729309721,21.676761236850496,17.365377665341526/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802101801:0468/pct:33.22709163346614,13.180955822567531,21.678618857901725,17.366820248742734/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

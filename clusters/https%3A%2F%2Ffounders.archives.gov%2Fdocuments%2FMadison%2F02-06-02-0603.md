@@ -65,7 +65,7 @@ first section of the “ act further to protect the com­
 merce and seamen of the United States against the  
 Barbary powers”, passed March 25th, 1M;4, upo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804112601:0234/pct:26.883384932920535,64.87443657437218,21.981424148606813,1.9156471345782358/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804112601:0234/pct:26.876450864070158,64.8639948495091,21.982202734072736,1.919362626750362/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -156,7 +156,7 @@ with the same extent that it now has in the
 handsoF Spain, and-hat it had when France  
 possessed it; and such as it sh u.d be afte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1811011201:0316/pct:76.03064574972638,62.94659300184162,17.29295877417001,2.4432166973603437/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1811011201:0316/pct:76.01677913550975,62.93886570095753,17.29588424828257,2.4470087568540797/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -190,7 +190,7 @@ time the first section of the act further to pro­
 tect the commerce and seamen of the United  
 States against the Barbary powers, was rea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812020601:0048/pct:8.125560538116591,29.178470254957507,16.789237668161434,1.6643059490084986/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812020601:0048/pct:8.124103299856529,29.17502655493922,16.79220468675275,1.6680435894409693/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -265,7 +265,7 @@ ther to protect the commerce and seamen of
 the United States against the Barbary pow­  
 ers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1823021501:0016/pct:4.410973641742872,6.850518180221324,36.417428725121034,89.89987704198138/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1823021501:0016/pct:4.409787577305727,6.8493150684931505,36.41435869857489,89.88847910080787/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -305,7 +305,7 @@ authorities for the delivery of all the posts on the
 west side of the Mississipp.&quot; And in his letter of  
 the 31st January, 1804, Mr. Madison declares tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743191:1844030701:0284/pct:191.9799092676604,279.17563129883365,50.567077122488655,10.02151511720077/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743191:1844030701:0284/pct:63.993303089220134,93.05854376627788,16.855692374162885,3.3405050390669233/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -342,7 +342,7 @@ the Spanish authorities for the delivery of
 all posts on the west side-of the Mississip­  
 pi.&quot; Mr. Monroe, the then Minister t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn84026897:00237288312:1844040301:0090/pct:67.64808362369338,68.22395706269822,15.209059233449477,4.2937301780922175/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn84026897:00237288312:1844040301:0090/pct:67.65969802555169,68.22802309506383,15.203252032520325,4.297796210457835/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -368,7 +368,7 @@ dary.&#x27;&quot;&#x27; Here, then in the delivery of the posses­
 sion of Louisiana by Spain to France, and France  
 to us, Texas is included. In the letter of Mr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022603:1844041001:0061/pct:43.83047210300429,116.42375462257995,19.90343347639485,9.136393299978247/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022603:1844041001:0061/pct:32.88608613980947,87.31781596693496,14.933583791761707,6.863171633674136/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -421,7 +421,7 @@ cordingly obtained from the Spanish authorities for
 the del.very of am. the posts on the West side of ilia  
 Mississippi.&quot; And in bis letter of the 31st January
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664278:1844052401:0406/pct:79.61379716981132,85.90126070638053,15.654481132075471,2.4251756327591183/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664278:1844052401:0406/pct:79.61379716981132,85.90767651493279,15.66430817610063,2.4251756327591183/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -440,7 +440,7 @@ vince of Louisiana, with the same extent that it had
 m the hands of Spain, nnd that it had when France  
 possessed it. France first possessed it by discover
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664278:1844052401:0408/pct:31.694482032777024,67.94797687861272,15.967523680649526,2.398843930635838/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664278:1844052401:0408/pct:31.694482032777024,67.95439948619139,15.977547236004611,2.398843930635838/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -481,7 +481,7 @@ if&#x27;i authorities for the delivery ofall the po&gt;is on
 Ihe West side of Ihe Mississippi.&quot; And in his  
 letter ofthe 31st January, 1^01, Mr. Madison de
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1845011001:0032/pct:31.101190476190474,66.65376427327269,13.4375,3.0675440294174567/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1845011001:0032/pct:31.101190476190474,66.65698987162119,13.452380952380953,3.0675440294174567/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -544,7 +544,7 @@ vince of Louisiana, with iIip same extent that it now
 has in the hand* of Spain, and that it had when  
 France possessed if, and such as it should lie alte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn84020566:00414187468:1845051901:0439/pct:56.82257441051411,18.36476217281171,12.601468882875919,2.7723050942865184/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn84020566:00414187468:1845051901:0439/pct:56.81159420289855,18.362178134233854,12.603864734299517,2.775432672013508/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -631,7 +631,7 @@ Sfiaiu to France, and France to us, Texas is included.
 In the letter of Mr. Madison of the 8th  
 July, 1604, lie declares the opposition of Mr. Jefferso
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661125:1845080801:0344/pct:4.191812102430273,50.540880503144656,15.91909965747839,6.440251572327044/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661125:1845080801:0344/pct:4.191812102430273,50.54926624737946,15.940847061382048,6.440251572327044/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -697,7 +697,7 @@ posts on tiie west.side of the .Mississippi;1
 and in a letter of the 31st January, 1804,  
 Mr. Madison slates that M. Lausse.t, the com
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82007022:00393342882:1845112601:0436/pct:63.20838514833896,22.079424238529754,13.306093444661574,4.780876494023905/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82007022:00393342882:1845112601:0436/pct:63.19715808170515,22.076586995630944,13.308170515097691,4.783474685170908/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -741,7 +741,7 @@ e west side of the Mississippi.&quot; 1
 &quot;And in a letter of Rhe 31st January, 1801, Mr. Madison \
 stes that Mr. Laussat, the commissioner by whom the 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846053001:0569/pct:14.335553441167143,71.96950762309423,13.447510307643514,2.7118220444888776/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846053001:0569/pct:14.335553441167143,71.97783887361493,13.46336822074215,2.7118220444888776/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -774,7 +774,7 @@ ana by Spain to France and by
 France to us, Texas is included.  
 In the letter of Mr. Madison, of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472037:1846070301:0559/pct:225.38343558282207,170.73583309839302,51.91717791411043,44.6574570059205/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472037:1846070301:0559/pct:56.367472190257,42.683958274598254,12.984273110855389,11.164364251480125/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -823,7 +823,7 @@ ited. part, particularly of the seat of government, was a virtual diction
 nen, justinent ol the question with tlio government of Spain.&quot; reach  
 And the Spanish minister Onis, in 1S10, upon a renewal Texa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661150:1847031101:0252/pct:60.42949628927838,37.54945598417409,19.13784936049266,14.230959446092978/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661150:1847031101:0252/pct:60.43475972419601,37.553577316188594,19.148376230327912,14.239202110121992/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -863,7 +863,7 @@ been transferred by the French commissioner to our com
 intssioner, on the 20th December. Tnat Mr. Lausatt (the K  
 commissioner) had said it extended wrstwardly to the Ki
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848021201:0178/pct:63.22590938098277,84.80472183850307,16.320995532865346,1.8585960065302023/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848021201:0178/pct:63.231227398425865,84.81309389258655,16.331631567751543,1.8585960065302023/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -883,7 +883,7 @@ cember That Mr. Lausatt (the commissioner)
 had said it extended westwardly to the Rio Bravo,  
 otherwise called Rio del Norte.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879063:1848022501:0034/pct:77.77777777777777,24.387266409991547,17.74020397208803,3.5308479669452533/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879063:1848022501:0034/pct:58.35682641965364,18.292797445769555,13.317223788427977,2.6481359752089397/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -917,7 +917,7 @@ the province of Louisiana, &quot;with the same extent that it
 now has in the hands of Spain, and that it had when.  
 France possessed it,&quot; which included Alabama and Mis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743373:1861013101:0279/pct:249.2342414960503,165.66190529749184,47.6382395615025,14.958947250028118/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743373:1861013101:0279/pct:83.07808049868343,55.22063509916395,15.879413187167499,4.986315750009373/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -936,7 +936,7 @@ retroceded to France &quot;the province of
 Louisiana with the same extent that it  
 now has in the hands of Spain.” an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jupiter_ver01:data:sn90050272:00513688787:1879052901:0497/pct:30.877742946708462,82.25900116144018,12.245297805642632,3.2665505226480835/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jupiter_ver01:data:sn90050272:00513688787:1879052901:0497/pct:30.884273772204807,82.25900116144018,12.251828631138975,3.2713898567557105/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1095,7 +1095,7 @@ first premising that it has been argued that
 the sending of the expedition under Lewis and  
 Clarke to the Pacific is
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043056:1899022601:0776/pct:335.97842835130973,153.03350437669786,51.69491525423729,37.91125867793541/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043056:1899022601:0776/pct:84.01078790213832,38.258376094174466,12.9262184550183,9.477814669483852/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

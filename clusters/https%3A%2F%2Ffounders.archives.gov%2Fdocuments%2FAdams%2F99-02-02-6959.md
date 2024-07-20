@@ -414,7 +414,7 @@ relief be g.ven tothem from Great Britain : For rE
 MEDY WHEREOF, AND FOR THE GOOD AND WELFARE  
 OF YOUR MAJESTY&#x27;S SUBJEETS, &amp;c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015076:1768012901:0017/pct:35.24590163934426,75.70701357466064,27.566867989646248,9.601244343891402/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015076:1768012901:0017/pct:35.26028185217141,75.7117269984917,27.552487776819095,9.596530920060331/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -432,7 +432,7 @@ unto your Majesty, the several rates and duties
 herein after mentioned,” &amp;%, . i |  
 A few months after came thﬂamp ai?, whic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015076:1768012901:0017/pct:64.47368421052632,33.865950226244344,27.782571182053495,3.6623303167420813/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015076:1768012901:0017/pct:64.47368421052632,33.870663650075414,27.78976128846707,3.676470588235294/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -583,7 +583,7 @@ eqnal footing with the foreign {ngar colonies,
 withotit some advantage and relief be given to  
 them from Great-Britain,” &amp;c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015076:1769030301:0244/pct:9.871063200169097,16.086051353226924,27.837666455294865,9.96530187369882/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015076:1769030301:0244/pct:9.885154653702529,16.086051353226924,27.830620728528146,9.969928290538977/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1016,7 +1016,7 @@ ter the passing of this act, there shall be
 raised, levied, collected, and paid unto his  
 majesty, his heirs and successors, upon al
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808122201:0280/pct:23.48457993619284,47.92884687150143,16.572137539879474,5.734544097524568/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808122201:0280/pct:23.480418217260322,47.9228855721393,16.57510780317798,5.737976782752902/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1211,7 +1211,7 @@ ielder Adams remerks, “I know not why we
 essential ingredient in American Indepen­  
 {dence.” The feelings of jealousy that wer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1836011901:0218/pct:22.281639928698752,40.313692242475625,14.245395127748068,2.2891055532005087/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1836011901:0218/pct:22.291542879778174,40.32075738307192,14.25034660328778,2.2855729829023597/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

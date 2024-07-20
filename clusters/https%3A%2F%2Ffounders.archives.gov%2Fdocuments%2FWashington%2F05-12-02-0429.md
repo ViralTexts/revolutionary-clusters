@@ -74,7 +74,7 @@ state pifles successively to all its conjurors,
 tn proportion as they aflume the public au­  
 thority. Puft’.ndorf law of nature and nati
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021193:00517172169:1772071601:0275/pct:8.268156424581006,111.37128435221537,27.441340782122904,11.441390914189569/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021193:00517172169:1772071601:0275/pct:6.40766610864169,86.31556070704144,21.27229694625642,8.877861489423356/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -102,7 +102,7 @@ ty. It is the fame with the rights acquired
 by these treaties ; They are acquired the ।  
 Mate and pa/i Jucceffively to all iti eondsfyers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1773111101:0494/pct:9.949372661237067,20.80176332828213,26.986572749284612,14.616338338614135/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1773111101:0494/pct:7.710678949164108,16.125129008149756,20.925736381212328,11.33136410548418/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -295,7 +295,7 @@ the Constitutions of Government, and revolutions in States
 
 ---
 
-## [From _The American Whig review_](https://archive.org/details/sim_american-whig-review_1851-02_13_74/page/n25/mode/1up?view=theater)
+## [From _The American Whig Review (1850-1852)_](https://archive.org/details/sim_american-whig-review_1851-02_13_74/page/n25/mode/1up?view=theater)
 
 #### 1851-02-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 

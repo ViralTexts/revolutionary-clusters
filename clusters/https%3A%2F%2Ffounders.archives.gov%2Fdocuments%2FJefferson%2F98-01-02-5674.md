@@ -116,7 +116,7 @@ strength with time, may, one day, give imaginary
 to this relic, for its association with the birth of the Grea  
 r of our Independence.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:00206531265:1876070501:0042/pct:53.3069437572159,79.6823914058851,47.02292594425202,14.864549276039234/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:00206531265:1876070501:0042/pct:17.7689812524053,26.560797135295033,15.674308648084008,4.954849758679745/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -192,7 +192,7 @@ time, may ono day give Imaginary value to this
 relic for Its association with tho birth of tho  
 great charter of our tmlcpcndcnco
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_north_ver02:data:sn84031492:no_reel:1880041601:0003/pct:58.26315789473684,40.93191403896365,13.052631578947368,4.438642297650131/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_north_ver02:data:sn84031492:no_reel:1880041601:0003/pct:58.276315789473685,40.941956216107656,13.05921052631579,4.438642297650131/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -220,7 +220,7 @@ give imaginarv value to thia relic for its
 issociation with the birth of the great  
 barter of our independence.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_eritrea_ver01:data:sn84026844:00202193456:1880041901:0379/pct:60.29265873015873,45.467372134038804,12.32638888888889,6.455026455026455/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_eritrea_ver01:data:sn84026844:00202193456:1880041901:0379/pct:60.31125992063492,45.47178130511464,12.344990079365079,6.468253968253968/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -276,7 +276,7 @@ imaginary value to this relio for its
 association with the birth ot the great  
 narter ot our independence
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033673:00280779489:1880042301:0385/pct:59.93377483443709,36.57844990548204,16.908112582781456,10.140426681069403/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033673:00280779489:1880042301:0385/pct:44.96894409937888,27.43721307048339,12.691511387163562,7.601944369430192/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -336,7 +336,7 @@ may one day give imaginary value to this
 relic for its association with the birth of  
 the great charter of our independence
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777675:1880051201:0753/pct:71.51655119322555,358.8975265017668,42.80215550423403,25.215547703180214/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777675:1880051201:0753/pct:17.879137798306388,89.7243816254417,10.700538876058507,6.303886925795053/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -439,7 +439,7 @@ may one day give imaginary value to
 this relic for its association w ith the birth  
 of the great charter of our independ
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn86053488:0021247003A:1880051301:0168/pct:75.88652482269504,57.07285622179239,16.27659574468085,9.168278529980658/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn86053488:0021247003A:1880051301:0168/pct:56.935083362894645,42.81108961960026,12.220645619013835,6.872985170857511/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -466,7 +466,7 @@ with time, may one day give imaginary
 value to this relic for its association with  
 tlie birth of the great charter of our inde
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn86053634:00280776683:1880051901:0712/pct:62.70579813886901,86.328125,14.85325697924123,7.682291666666667/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn86053634:00280776683:1880051901:0712/pct:47.037766243064254,64.75260416666667,11.150885985323072,5.755208333333333/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -494,7 +494,7 @@ may one day give imaginary value .to
 this relic for its association With the birth  
 of the great charter of our independ
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_hobbs_ver01:data:sn84024283:00294556801:1880052001:0164/pct:85.27815468113975,107.6490438695163,17.995251017639077,9.5488063992001/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_hobbs_ver01:data:sn84024283:00294556801:1880052001:0164/pct:63.969465648854964,80.73990751156106,13.502968617472435,7.161604799400075/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -567,7 +567,7 @@ day give imaginary value to this relic
 for its association with the birth of the  
 (treat charter of our independence.&quot; I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn84009409:00296028757:1880052701:0583/pct:30.998829496683573,58.233098299460806,14.163090128755364,15.318678280105074/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn84009409:00296028757:1880052701:0583/pct:30.998829496683573,58.24231531406977,14.163090128755364,15.323286787409558/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -595,7 +595,7 @@ give* imaginary value to this rein- for im
 association wnh the birth of the great  
 charte r of our indejiendence.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_galactic_ver01:data:sn84022982:00513688647:1880060501:0924/pct:3.697259678120922,36.40746500777605,12.570682905611136,6.578538102643857/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_galactic_ver01:data:sn84022982:00513688647:1880060501:0924/pct:3.697259678120922,36.41783307413167,12.577932434391764,6.568170036288232/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -622,7 +622,7 @@ time may one day jive imaiuary value to
 thW relic for it asoelatious with the hirth of  
 the Great Charter of our Independenc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_angelou_ver03:data:sn89066097:00211109725:1880060501:0022/pct:66.97830964846672,54.33460613774572,15.239341810022438,5.402347617027295/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_angelou_ver03:data:sn89066097:00211109725:1880060501:0022/pct:50.25247802506078,40.75449017112148,11.426968393491677,4.062367416207043/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -649,7 +649,7 @@ ike with time, may one dtay give imagtia
 value to this relic for its association wit  
 li.s .thie birth of thie great charter of our lnd
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_drinksmall_ver01:data:sn93067705:00237288427:1880060801:0005/pct:28.815205327413985,85.90809628008753,13.859600443951166,6.980306345733042/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_drinksmall_ver01:data:sn93067705:00237288427:1880060801:0005/pct:28.815205327413985,85.90809628008753,13.868849426563077,6.991247264770241/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -710,7 +710,7 @@ of the greatl charter I ofj. dur jlridt pen
  imaginary value to this relic for its as sociation with the  
  birth of the great charter of our Independenc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_kobayashi_ver01:data:sn83030272:00175044784:1882070401:0587/pct:2.5544703230653645,78.17183558391453,70.17280240420736,7.063362516693871/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_kobayashi_ver01:data:sn83030272:00175044784:1882070401:0587/pct:0.6388575723412251,19.542958895978632,17.549793310785418,1.7658406291734678/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -737,7 +737,7 @@ time, may one day give imaginary value to
 this relic for its association with the birth  
 of the great charter of our independence
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282292:1882080501:0117/pct:228.10499359795134,232.90115380040442,49.10371318822023,25.93077197573451/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282292:1882080501:0117/pct:57.03537698095086,58.225288450101104,12.277893388826637,6.482692993933627/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -766,7 +766,7 @@ value to this relic for its association with
 the birth of the great charter of our  
 independence
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn84009409:00296028769:1882082401:0384/pct:66.85884691848906,32.72752691178526,14.433399602385686,8.150426394519782/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn84009409:00296028769:1882082401:0384/pct:66.87210072895958,32.73684701057831,14.433399602385686,8.145766345123258/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -790,7 +790,7 @@ These gaining strength with time may one day give im
 aginary value to this relie for its association with the  
 irth of the great charter of our independenc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044814:1883052101:0653/pct:286.344696969697,108.22393239776672,50.378787878787875,12.675418741511997/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044814:1883052101:0653/pct:71.59973479825724,27.05598309944168,12.597082780829703,3.1688546853779993/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -825,7 +825,7 @@ imaginary value this relic for its association
 with the birth of the great charter of our  
 Independence
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_hobbs_ver01:data:sn84024283:00294556813:1883053101:0612/pct:13.39527027027027,97.18753941228402,18.41216216216216,9.458948164964056/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_hobbs_ver01:data:sn84024283:00294556813:1883053101:0612/pct:10.055771505830657,72.89696052465632,13.824573263478113,7.0879051582797326/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -845,7 +845,7 @@ vtlue to this relic for its association with
 the birth of the great charter of our In­  
 dependence
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_dungeness_ver03:data:sn83045611:00202198910:1884070401:0210/pct:209.6280447662936,99.11253106141285,44.94733377221856,10.010649627263046/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_dungeness_ver03:data:sn83045611:00202198910:1884070401:0210/pct:52.4070111915734,24.778132765353213,11.23683344305464,2.5026624068157615/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -878,7 +878,7 @@ this relic for its associations with the
 the birth of the groat charter of our  
 independence.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_lucretia_ver01:data:sn86086852:00271768916:1884121201:0484/pct:35.767713858289135,16.374722838137473,9.778321773425812,3.891352549889135/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_lucretia_ver01:data:sn86086852:00271768916:1884121201:0484/pct:35.767713858289135,16.374722838137473,9.787388367559727,3.895048041389505/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -937,7 +937,7 @@ value to this relic for its associations
 with the birth of the great charter of  
 our independence.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_grace_ver01:data:sn85033139:00271769362:1885010801:0111/pct:71.91296222133226,20.88365851140704,10.652783340008009,10.622483741096314/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_grace_ver01:data:sn85033139:00271769362:1885010801:0111/pct:71.91741200551773,20.890540587041052,10.657233124193477,10.615601665462304/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -974,7 +974,7 @@ value to this relic for its associations
 with the birth of the great charter of  
 our independence.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_fencing_ver02:data:sn83016589:0039334068A:1885020601:0019/pct:65.11761992619927,21.63639733135656,9.294280442804428,9.710896960711638/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_fencing_ver02:data:sn83016589:0039334068A:1885020601:0019/pct:65.12146371463714,21.639486039041266,9.298124231242312,9.720163083765753/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1084,7 +1084,7 @@ give imaginary value to this relic for its
 associations with tho birth of tho great  
 charter of our independenc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_batman_ver01:data:sn86063242:00206533201:1885042901:0045/pct:32.26112920738328,44.80963855421687,17.752442996742673,5.474698795180723/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_batman_ver01:data:sn86063242:00206533201:1885042901:0045/pct:24.20252477263472,33.609638554216865,13.31613954119723,4.113253012048193/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1106,7 +1106,7 @@ give imaginary value to this relic for its
 associations with the birth of the great  
 charter of our independence.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291104:1885052901:0371/pct:33.722989727240524,29.980756895445797,11.778250088558272,3.7075048107761384/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291104:1885052901:0371/pct:33.722989727240524,29.987171263630533,11.79596174282678,3.7107119948685057/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1138,7 +1138,7 @@ value to this relic for its associations
 with tho birth of the great charter of  
 cur independence.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_echo_ver01:data:sn85038119:00237282656:1885073001:0336/pct:8.965696465696466,39.54008954008954,12.824844074844075,4.415954415954416/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_echo_ver01:data:sn85038119:00237282656:1885073001:0336/pct:6.733393994540491,29.66015466015466,9.619134277914988,3.306878306878307/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1170,7 +1170,7 @@ time, may one day give imaginary value to
 this relic for its association with birth of  
 the great charter of our independenc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279524093:1886072001:0121/pct:218.15217391304347,197.7394240690367,33.641304347826086,10.702560735390676/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279524093:1886072001:0121/pct:72.70751256622742,65.90695929469143,11.212244713127745,3.567185643719127/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1198,7 +1198,7 @@ gaining strength with time may one day
 issociatious witli the birth of the great  
 charter of our independence. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_chadron_ver01:data:sn99021999:0020653817A:1887070301:1095/pct:61.34129213483146,28.552097428958053,16.46769662921348,8.294993234100135/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_chadron_ver01:data:sn99021999:0020653817A:1887070301:1095/pct:46.030909729539864,21.42083897158322,12.359501229364243,6.2246278755074425/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1225,7 +1225,7 @@ may one day give imaginary value to this
 relic for its associations with the birth of  
 the great charter of our independence
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn84024448:00296020746:1887101501:0897/pct:22.274143302180686,112.70169631774928,50.545171339563865,23.941525306854228/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn84024448:00296020746:1887101501:0897/pct:5.569620253164557,28.17542407943732,12.638753651411879,5.985381326713557/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1273,7 +1273,7 @@ in May 1T76 and is the Identical one on which
 he wrote the Declaration of Independence.  
 Politics as wel as ahas Its sperstitions
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pug_ver01:data:sn83045462:00280654814:1891070401:0080/pct:49.835958005249346,69.8490466101695,12.188320209973753,3.469279661016949/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pug_ver01:data:sn83045462:00280654814:1891070401:0080/pct:49.835958005249346,69.85897775423729,12.19242125984252,3.4792108050847457/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

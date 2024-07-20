@@ -407,7 +407,7 @@ mercial ratio of gold and silver should con­
 trol their money ratio. When an Ignorant  
 &#x27;squire rebuked an attorney for quotin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665611:1896081001:0410/pct:22.198469846984697,74.24629535002555,16.56165616561656,9.223300970873787/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665611:1896081001:0410/pct:16.657287563308948,55.6889797308806,12.425436128306133,6.915346618974621/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -426,7 +426,7 @@ liy Hamilton is that &quot;the overvaluing of
 either in respect to the other is the banish­  
 ment of that which is undervalued,&quot; wit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_havanese_ver01:data:sn83045462:00280655089:1896092601:0513/pct:29.735525375268047,46.30674187483213,13.759828448892065,2.1488047273704/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_havanese_ver01:data:sn83045462:00280655089:1896092601:0513/pct:29.74446032880629,46.313456889605156,13.750893495353823,2.1521622347569163/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -354,7 +354,7 @@ vy 1,, it here, already carried
 into execution, of which a copy is  
 , that I 1 ha&lt;s 1 &gt;tely b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808111601:0002/pct:24.82799292313741,9.44060503325075,16.414389620601533,6.154648585213196/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808111601:0002/pct:24.82799292313741,9.444951536488894,16.43404757224297,6.1589950884513405/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -430,7 +430,7 @@ lavK on tin Chesapeake, ail express eri.a^eiiient that
 ihe Si.aiiien relaitieu bli.il oe lunn oiati ly restored,  
 jnd Ural the ^mliy olhrtr expcilcnce an exemplar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808112301:0222/pct:47.178963492468725,19.331037875061487,21.291804952769976,40.49844236760124/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808112301:0222/pct:47.166921898928024,19.327868852459016,21.292751403777437,40.49590163934426/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -502,7 +502,7 @@ oi sa&#x27;i i&#x27;H&#x27; turv I&#x27;lrtlges fur repairing the oggnssioa
 mi tin Ciw-s ipeakt, to enter info intnrui.il arrange­  
 ments i»r al.wltshuii impressments uliogethor, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808112301:0222/pct:47.102374266019915,14.87129037547139,44.29410262956344,80.9476963436629/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808112301:0222/pct:47.09035222052067,14.868852459016393,44.289178152118424,80.93852459016394/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -633,7 +633,7 @@ sidercd ent: nly prOPcr, that the )) pamt&#x27;u­
 should he &quot;(sizﬂcrcd nere. rather than 1). Lo&quot;  
 don ; and 1); 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808112401:0596/pct:52.320316921335596,0.759493670886076,43.20882852292021,94.18625678119349/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808112401:0596/pct:52.31291554675343,0.7594250067805804,43.20743150846419,94.18075520597897/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -683,7 +683,7 @@ oft-he former against the latter coolsi] bct:
 c0n\-&#x27;er-&#x27;c:d into anrmuhtion, as ]zohnc as  
 it would be magnanimous in both, to (nisi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808112401:0596/pct:75.35370684776457,38.46292947558771,20.741369552914545,25.515370705244123/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808112401:0596/pct:75.34304710708729,38.45945212910225,20.743150846418636,25.516077509568152/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -701,7 +701,7 @@ does not maintain the principle,
   
 &#x27;board our-ships of war. The princhks r
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808112401:0596/pct:74.61799660441426,84.36708860759494,20.09054895302773,7.188065099457504/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808112401:0596/pct:74.6074409393125,84.35946116987614,20.08770688923469,7.190428834041527/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -745,7 +745,7 @@ on, ofWhich a c0py is enclosed, that it has
 list?]? beﬂ decided that no foreign scamm,  
 whether- deserters or- not, shall serve on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808112401:0596/pct:75.0,69.69258589511755,21.519524617996606,20.904159132007234/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808112401:0596/pct:74.98939029565709,69.6862851460085,21.52119583156505,20.9052828255432/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -924,7 +924,7 @@ contended for by the United States.”
 Extract of a letter from the same to the  
 same
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808112501:0238/pct:5.3031674208144794,1.3284412955465588,35.56561085972851,94.47115384615384/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808112501:0238/pct:5.302207745204488,1.3282732447817838,35.565206900711786,94.46341977651275/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -950,7 +950,7 @@ j M the removal of the existing restrje­
 “ Stales with Great Britain, may be  
 “ justly expected.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808112801:0509/pct:79.72835314091681,58.730804434048615,17.99660441426146,9.274890674260144/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808112801:0509/pct:79.71481921575284,58.7248322147651,17.997793243931422,9.276489729509864/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -975,7 +975,7 @@ alternative of “a renewal of the proclamati­
 on, immediately after having rescinded it.  
 ( This Report in our next.)
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808120201:0247/pct:58.636281425212516,72.50219932135226,17.381081569904143,6.509991202714591/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808120201:0247/pct:58.625678119349004,72.49308871575772,17.383966244725737,6.5133618162017255/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1163,7 +1163,7 @@ States.”
 . Extract of a letter fro-n the same to the  
 same, dated Ant&#x27;d
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808120201:0393/pct:23.188946975354742,12.409500825606504,35.4555638536221,80.82052584783438/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808120201:0393/pct:23.18461825648684,12.407924815849631,35.455167693360714,80.81449496232325/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1575,7 +1575,7 @@ is contended for by the U. S.”
 Extract of a letter from the tame  
 to the tame, date
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808123001:1090/pct:5.294759825327511,5.984490896830748,36.95414847161572,90.93054619015508/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808123001:1090/pct:5.2933151432469305,5.98348221810214,36.950886766712145,90.91943367604921/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

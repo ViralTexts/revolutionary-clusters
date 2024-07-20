@@ -42,7 +42,7 @@ do not, the fundamental right to labor
 on the earth returns to the unem-  
 ployed.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_isahakyan_ver01:data:sn83030193:00206535428:1893021702:0396/pct:252.13803450862716,95.1440329218107,45.61140285071268,24.691358024691358/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_isahakyan_ver01:data:sn83030193:00206535428:1893021702:0396/pct:63.05816135084428,23.786008230452676,11.407129455909944,6.172839506172839/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -71,7 +71,7 @@ cluded from the appropriation. If
 do not, the fundamental right to labor  
 on the earth returns to the unem
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_isahakyan_ver01:data:sn83030193:00206535428:1893021704:0408/pct:296.4012251148545,291.66255550074,45.09954058192955,22.95675053445157/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_isahakyan_ver01:data:sn83030193:00206535428:1893021704:0408/pct:74.10030627871363,72.915638875185,11.274885145482388,5.739187633612892/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -153,7 +153,7 @@ The above is an extract from, a letter
 written from France by .left&#x27;erson, when  
 ia that country. .We clip it fr.uu th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_douglas_ver01:data:sn84029671:00212473273:1893031001:0686/pct:97.31060606060606,25.578519696166754,14.56439393939394,41.4767708885356/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_douglas_ver01:data:sn84029671:00212473273:1893031001:0686/pct:73.02008336491095,19.183889772125067,10.932171276998863,31.107578166401694/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -311,7 +311,7 @@ shall be without a little portion of land
 The small land owners are the most  
 precious part of the State.&quot; (See B i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_johns_ver01:data:sn92073049:00295879300:1893032101:0108/pct:26.928571428571427,63.90778917436783,19.928571428571427,55.80379811109983/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_johns_ver01:data:sn92073049:00295879300:1893032101:0108/pct:20.208660854651995,47.93338072509394,14.949263970272973,41.86046511627907/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -538,7 +538,7 @@ comb by their burrowing. I think
 there is uo Instance of ours burrow­  
 ing,—Bancroft’s History of the Con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_disco_ver01:data:sn90059299:00383346861:1893032401:0240/pct:22.312824314306894,18.136097711177257,13.328391401037806,68.9418043723699/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_disco_ver01:data:sn90059299:00383346861:1893032401:0240/pct:22.322708178897948,18.136097711177257,13.333333333333334,68.95206815149338/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -585,7 +585,7 @@ ciojs part of the state.
   
 The New York Sun thinks tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn92072978:00416156876:1893032401:0288/pct:13.230429988974642,47.24571900144419,16.000551267916208,15.607592325149577/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn92072978:00416156876:1893032401:0288/pct:9.925558312655086,35.43428925108314,12.007168458781361,11.708273158654839/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -696,7 +696,7 @@ moderate rent; but it is not too soon to provide by every possible means
 that as few as possible shall be without a little portion of land. The small  
 landholders are the most precious part of a state.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_disco_ver01:data:sn90059299:00383346861:1893040701:0258/pct:64.41808747220163,48.70163194088063,27.14603409933284,19.193266960895002/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_disco_ver01:data:sn90059299:00383346861:1893040701:0258/pct:64.41808747220163,48.70163194088063,27.150976031628367,19.20010948031065/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -715,7 +715,7 @@ it is clear that the laws of property
 have been so far extended as to violate  
 natural right.&quot;-Thomas Jefferso
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_isahakyan_ver01:data:sn83030193:0020653543A:1893041803:0562/pct:288.301043219076,89.09292385626088,45.156482861400896,7.915149596327371/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_isahakyan_ver01:data:sn83030193:0020653543A:1893041803:0562/pct:72.075260804769,22.27323096406522,11.289120715350224,1.9787873990818428/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -734,7 +734,7 @@ t is clear that the laws of property
 have been so far extended as to violate  
 natural right.&quot;-Thomas Jefferson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_isahakyan_ver01:data:sn83030193:0020653543A:1893041804:0570/pct:294.8987246811703,88.87476160203433,46.58664666166542,8.010171646535284/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_isahakyan_ver01:data:sn83030193:0020653543A:1893041804:0570/pct:73.76618502533309,22.21869040050858,11.653218239819854,2.002542911633821/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -754,7 +754,7 @@ certain point, and to tax the higher
 portions of property in geometrical  
 progression aa they rise.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_eridanus_ver02:data:sn83016235:00393344520:1893070701:0212/pct:81.50438659571408,49.87752025626531,14.065870847116352,3.457697380817788/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_eridanus_ver02:data:sn83016235:00393344520:1893070701:0212/pct:81.51397478306725,49.880660762514914,14.065870847116352,3.457697380817788/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -774,7 +774,7 @@ and to tax the higher portions of
 property in geometrical progression as  
 they rise.’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_belair_ver01:data:sn89060136:00279522564:1893071401:0357/pct:6.523855890944499,104.78545454545454,15.949367088607595,5.076363636363636/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_belair_ver01:data:sn89060136:00279522564:1893071401:0357/pct:5.061125924435277,81.21594709352573,12.36102027468934,3.941682636305565/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -900,7 +900,7 @@ employment be furnished to those excluded from
 the appropriation.  
 But we do not *llow the land to hr thus appro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:fu:batch_fu_edugator_ver01:data:sn88074815:00271765812:1894030201:0042/pct:26.602141076404166,71.6072255673923,10.94002053086963,4.666512274201019/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:fu:batch_fu_edugator_ver01:data:sn88074815:00271765812:1894030201:0042/pct:26.60702937869678,71.6110853790335,10.944908833162243,4.666512274201019/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -955,7 +955,7 @@ point, and to tax tbe higher por­
 tions of property in geometrical  
 progression as they rise.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn84022991:00513688088:1894033101:0897/pct:57.935425193269666,42.42283232511245,13.233287858117325,24.460989607569413/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn84022991:00513688088:1894033101:0897/pct:57.935425193269666,42.42800268858901,13.248446263453085,24.45581924409286/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1015,7 +1015,7 @@ property have lieen so far extended as to
 violate natural rights.&quot;  
 &quot;Without interfering with the exclusiv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_ogilby_ver01:data:sn85042461:00280769605:1895041401:0620/pct:20.3125,32.383236912656976,14.611486486486486,8.508536757443206/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_ogilby_ver01:data:sn85042461:00280769605:1895041401:0620/pct:20.32305743243243,32.383236912656976,14.616765202702704,8.512064343163539/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1065,7 +1065,7 @@ employed.”—Jefferson.
 “This institution (national bank) is  
 one of the most deadly hostilitie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346812:1895051501:0191/pct:81.54917319408182,12.534030273331155,12.32956193791703,21.376456495698573/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346812:1895051501:0191/pct:81.54917319408182,12.537660169153146,12.334397060245625,21.383716287342555/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1192,7 +1192,7 @@ fEcd,.mental right to labor on the
 .earth returns to the unemployed.&quot;  
 ft! Jefferson were living today an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_goodnow_ver01:data:sn85032801:00212473662:1895092601:0228/pct:12.984336356141798,114.77667345228116,21.187139323990106,9.53179259968866/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_goodnow_ver01:data:sn85032801:00212473662:1895092601:0228/pct:8.661579707156115,76.51778230152078,14.147246855021654,6.358519937732008/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1214,7 +1214,7 @@ men, it is clear tbat the laws ol property
 have been so far extended as to violate  
 natural rights.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_ogilby_ver01:data:sn85042461:00280769630:1895101401:0540/pct:4.843875100080064,84.36119993908939,12.42994395516413,3.487132632861276/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_ogilby_ver01:data:sn85042461:00280769630:1895101401:0540/pct:4.848879103282626,84.36881376579869,12.42994395516413,3.487132632861276/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1309,7 +1309,7 @@ these comes the most numerous of all
 the classes—that Is the poor who caa­  
 not find work.’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346812:1896042901:0542/pct:16.335049394740505,81.79371231696813,11.993877834979825,6.319982773471145/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346812:1896042901:0542/pct:16.34432540234683,81.79371231696813,11.989239831176661,6.323571633649153/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1344,7 +1344,7 @@ mental right to labor on the earth re­
 turns to the unemployed.&quot;  
 Upon the money question he wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_curry_ver01:data:sn85030687:00212473133:1896051401:0552/pct:86.14081996434938,8.309164733178655,37.63368983957219,118.79350348027842/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_curry_ver01:data:sn85030687:00212473133:1896051401:0552/pct:64.65997770345597,6.2354988399071924,28.249721293199553,89.09512761020882/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1366,7 +1366,7 @@ rise. J ffrsorl.
 I believe the struggle now goinp on  
 in tbis&#x27;country. and m other countries
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_johns_ver01:data:sn92073049:00295879336:1896060201:0176/pct:106.62596783799881,35.05933117583603,19.72900536033353,7.162891046386192/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_johns_ver01:data:sn92073049:00295879336:1896060201:0176/pct:79.99702114983616,26.299892125134843,14.804885314268692,5.372168284789644/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1465,7 +1465,7 @@ Two thirds of the whole land of the
 country was in the possession of tbe  
 nobility and clergy who, not conten
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_eigg_ver01:data:sn99062034:00279523349:1896092501:0755/pct:37.23196881091618,17.260243385061962,14.457439896036387,18.34319526627219/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_eigg_ver01:data:sn99062034:00279523349:1896092501:0755/pct:37.242798353909464,17.260243385061962,14.452025124539745,18.35063823452793/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1611,7 +1611,7 @@ care that other employment be given
 those debarred from the land or else the  
 right to the land returns again to the un
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_nicasio_ver01:data:sn85042461:00280769757:1897101301:0532/pct:83.33333333333333,56.01155190758474,12.545899632802938,5.71515427876577/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_nicasio_ver01:data:sn85042461:00280769757:1897101301:0532/pct:83.34353325173399,56.01155190758474,12.556099551203591,5.726554187566499/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1635,7 +1635,7 @@ as Jefferson.
 The &quot;anarchist&quot; whom we need  
 to fear in these days is the man wh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_goodnow_ver01:data:sn83040052:00212473728:1897120301:0792/pct:12.66907123534716,64.49768160741885,18.575293056807936,10.340030911901081/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_goodnow_ver01:data:sn83040052:00212473728:1897120301:0792/pct:9.519512745319197,48.37712519319938,13.940897811865554,7.758887171561051/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1806,7 +1806,7 @@ ural rights. The earth is given as a
 common stock for man to labor and  
 live on. Thomas Jefferson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn85030821:0021247289A:1898021801:0057/pct:47.61499148211244,127.5421796625627,18.49801249290176,5.255357957136343/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn85030821:0021247289A:1898021801:0057/pct:31.747834729518672,85.03191974464204,12.338492119835298,3.4997720018239855/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1851,7 +1851,7 @@ meet her must play Moharame&#x27;&#x27; to the
 mountain. No matter who he &#x27; she  
 never rises or changes her position.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_curry_ver01:data:sn85030687:00212473133:1898051201:1384/pct:108.69856887298748,108.215791769667,18.62701252236136,17.071397411662062/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_curry_ver01:data:sn85030687:00212473133:1898051201:1384/pct:81.5477521807202,81.1691144394358,13.978975620666517,12.796277446561/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1955,7 +1955,7 @@ violate, natural i right , , The earth, is
 &#x27;given as a common stock for. man to  
 labor and live on. Thomas Jefferson, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_curry_ver01:data:sn85030687:00212473145:1899060801:0435/pct:86.67778836987607,99.78586723768737,19.494756911344137,23.00397675130009/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_curry_ver01:data:sn85030687:00212473145:1899060801:0435/pct:65.06081564512283,74.83940042826552,14.643453374672072,17.25298256347507/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

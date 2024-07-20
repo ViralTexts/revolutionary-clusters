@@ -64,7 +64,7 @@ opening a road from the foot of the Ra­
 pids of Miami of the Lake, to the w est­  
 ern line of the Connecticut Reserve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn83026170:00414216274:1820031001:0244/pct:62.48733169248588,54.18786337209303,17.90936730852758,2.062136627906977/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn83026170:00414216274:1820031001:0244/pct:62.47828604516503,54.18294122990281,17.911600077205172,2.0649771399158263/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -174,7 +174,7 @@ to the western line of the Connecticat West­
 ern reserve be, and the same is hereby, granted  
 to the State of Ohio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1838082901:0925/pct:10.341820718521102,83.46263253167831,14.03906522497384,2.973881561934316/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1838082901:0925/pct:10.35344727357284,83.46263253167831,14.03325194744797,2.973881561934316/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -205,7 +205,7 @@ in the markets of this or of any foreign country, as
 upon inquiry he shall find most for the interest of  
 the United States, the iwo bonds held by the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1838090401:0141/pct:77.9145654108573,60.325018114066864,14.164936220706021,7.908084049270262/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1838090401:0141/pct:77.92445367348957,60.32846841251768,14.155047958073766,7.908084049270262/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -237,7 +237,7 @@ Approved, July 7th, 1833.
 Pdblic No. 69.  
 AN ACT to authorize the sale of certain bond
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197966:1838111401:0184/pct:28.345166575641727,121.61188653759568,19.907154560349536,5.44799639801891/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197966:1838111401:0184/pct:21.267586395301187,91.20891490319676,14.94331375495151,4.09725348941918/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

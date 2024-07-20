@@ -83,7 +83,7 @@ rest upon irrefutable justice.
 A highly respectful and most earnest appeal  
 was submitted to the President twelve month
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216432:1830120201:0640/pct:20.6431343559416,74.93893502686859,19.10922195527629,9.35515388373229/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216432:1830120201:0640/pct:20.639320029563933,74.92978385639272,19.111850209411184,9.358081979891725/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -102,7 +102,7 @@ the release was for a valuable, ;ynndmr
 t | lien in a correspondent release of the Uni­  
 b [tod States (rom certain claims on them ;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021520:00340588046:1830122501:0193/pct:23.377132771131595,12.871415596211236,18.807609335163757,4.165044764499806/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021520:00340588046:1830122501:0193/pct:23.377132771131595,12.871415596211236,18.814146564685885,4.169369836944769/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -122,7 +122,7 @@ correspondent release of the United States from cer­
 tain claims on than.”  
 The article thus concludes.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn87062070:0039334295A:1831011901:0177/pct:31.6793893129771,82.0280984837947,22.092501122586437,4.228682709695368/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn87062070:0039334295A:1831011901:0177/pct:31.672278338945006,82.01668984700973,22.09502431724654,4.232730644413538/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -265,7 +265,7 @@ After reporting in favor of their payment, he says, —
 ernment free from debt, as well as to the just com­  
 placency which the citizens of a country may feel i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1838050801:0075/pct:18.698817106460417,79.5315576743704,14.51319381255687,6.166442118354234/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1838050801:0075/pct:18.698817106460417,79.5315576743704,14.523304013749874,6.169896707776281/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -443,7 +443,7 @@ and the release was for a valuable consideration
 in a correspondent release of Ihe United Stales  
 from certain claims on them.&#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_jalapeno_ver02:data:sn83009567:00296026141:1846081801:0813/pct:32.172211350293544,54.03101858320525,14.892367906066536,4.177728098365237/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_jalapeno_ver02:data:sn83009567:00296026141:1846081801:0813/pct:32.172211350293544,54.040333473056684,14.918460534898891,4.182385543290951/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -472,7 +472,7 @@ own Government m money to France to get rid
 of the ti r.»ty stipulations of 1778; which, if ac­  
 cepted bv France, w ould at simple interest to thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00279550304:1846081801:0381/pct:2.634955097207145,52.86624203821656,14.21099378269022,7.243528933459818/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00279550304:1846081801:0381/pct:2.634695085849615,52.862660071820585,14.21288073153082,7.245296655148271/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -532,7 +532,7 @@ claims we make on Spain ware never admitted by Francs, nor made
 on France by the United States; they made no part of the bargain  
 with her, and could not he included ia the releaes.&quot;?Doc. 109,1s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851020401:0143/pct:63.72389033942559,56.61745991346399,15.51892950391645,2.2906592008144564/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851020401:0143/pct:63.72389033942559,56.62594383642997,15.529808529155787,2.2906592008144564/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -573,7 +573,7 @@ mm. IMA Cong , ptl 5,p 796 M
 I John Marshall, in the extract from his journal trans­  
 mitted to the Secretary of Stata, dated 17th of Decaaber
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661204:1852050601:0440/pct:80.74928917879244,54.33171479683108,16.24017394213079,3.3478149757219526/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661204:1852050601:0440/pct:80.74928917879244,54.335974103415964,16.245749010425378,3.3563335888917285/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -599,7 +599,7 @@ inade arose out of the spoliations, tinder eolor of French authority
 in contravention to law and existing treaties. Those of Franc*  
 spiting from the treaty of alliance of the fiih of February, 1776, (I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:0041566123A:1854120301:0540/pct:47.11445976274447,52.20322057171389,15.261301699262583,4.930720259642991/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:0041566123A:1854120301:0540/pct:47.11445976274447,52.207381517080684,15.271988885326493,4.939042150376565/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -640,7 +640,7 @@ certain claim-1 on thom.&quot;
 I Mr. Hsnto.v] bs ridiculing the idea that any value was  
 ever attached by France to the stipulations of the treat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855020101:0137/pct:80.78681031668299,27.451471509079525,16.079007508978126,3.3813400125234816/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855020101:0137/pct:80.79769289367722,27.451471509079525,16.068124931983895,3.385514506366103/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -688,7 +688,7 @@ admitted by Ks a.ico, and the release war for a valuable
 consideration, in a correspondent release of the V ntted  
 ritatea from certain claim* on them.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664369:1858021601:0493/pct:45.02519798416127,93.2683203938648,13.434125269978402,1.4485892823328914/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664369:1858021601:0493/pct:45.02519798416127,93.27147636180017,13.443724502039837,1.4517452502682573/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -790,7 +790,7 @@ these private rights of property, had been applied to p
 lie uses. Mr. Madison lrere declares, unequivocally, t  
 these claims had been admitted by Prance ; that 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82006534:00415661101:1859020101:0112/pct:4.400779473855148,9.353334173704777,14.793764209158818,15.756964578343627/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82006534:00415661101:1859020101:0112/pct:4.406192486738118,9.353334173704777,14.788351196275848,15.769570150006302/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -812,7 +812,7 @@ of Mr. MADISON : &quot;The claims from which France
 THE OPERA.  
 Last night at the Hollidav Street Theatre ther
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026347:1859020301:0122/pct:16.11952861952862,64.92905303411493,10.95679012345679,3.8039649793700314/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026347:1859020301:0122/pct:16.128881406659186,64.92905303411493,10.95679012345679,3.8039649793700314/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

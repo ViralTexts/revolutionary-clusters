@@ -89,7 +89,7 @@ cent traders and their families, whose substance
 was employed in serving the common interest of  
 mankind. B. F
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789111101:0001/pct:32.148148148148145,34.72485768500949,26.45925925925926,23.738140417457306/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789111101:0001/pct:32.162962962962965,34.739089184060724,26.451851851851853,23.73339658444023/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -404,7 +404,7 @@ trader?, and their families, kc.
 Again, in another letter to Mr. Hartley,  
 the Doctor observes.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216249:1818101701:0304/pct:46.3571889103804,43.140865447849535,17.279174725983236,21.46521110088123/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216249:1818101701:0304/pct:46.34722819080361,43.135192004208314,17.282624265864488,21.466771874452043/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

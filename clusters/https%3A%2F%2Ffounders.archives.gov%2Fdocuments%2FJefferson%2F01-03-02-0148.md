@@ -63,7 +63,7 @@ such unappropriated lands, or granting (lie same during
 the continuance ol (he present war.”  
 Ill March, 1780, the Legislature of New York passe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1833121201:0259/pct:48.89255743568579,63.471330529112244,14.802586325491815,2.235997343369493/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1833121201:0259/pct:48.88583218707015,63.464305478693966,14.80513525905548,2.239439217856484/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -105,7 +105,7 @@ war.”
   
 In March, 1780, the Legislature of New-Yor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1833121701:0321/pct:50.30381944444444,72.53612249299115,14.105902777777779,3.5475522967435844/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1833121701:0321/pct:50.30381944444444,72.5433110488103,14.105902777777779,3.5475522967435844/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -149,7 +149,7 @@ granting the same during the continuance
 of the present war.”  
 In March, 17SO. the legislature of N
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn82015332:00332897925:1834010101:0267/pct:5.27906976744186,59.17510024823372,14.55813953488372,6.645025778117243/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn82015332:00332897925:1834010101:0267/pct:5.277842362241339,59.16380297823597,14.560567309927924,6.648529973272241/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

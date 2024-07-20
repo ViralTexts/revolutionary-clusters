@@ -52,7 +52,7 @@ power to fill {ugh vacancy, by granting a
 comm:flion which shall expire at the end of  
 the next session of the icgiffature
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1803011101:0212/pct:60.898323334871556,33.962450592885375,15.81295185356099,4.812252964426878/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1803011101:0212/pct:60.898323334871556,33.96903820816864,15.81807926985592,4.808959156785244/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -289,7 +289,7 @@ vacancy created by the death of tht in­
 cumbent, or hi3 office must have becomo  
 vacant by other means. The word &#x27;• va
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898036:1826012101:0160/pct:76.07894736842105,75.9222333000997,17.789473684210527,18.311731472249917/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898036:1826012101:0160/pct:76.05893186003684,75.90961953812926,17.791370691923177,18.3128426648945/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -310,7 +310,7 @@ is by the constitution vested in the Gene­
 ral Assembly, or in the Governor and  
 Senate ; can the right then to fill such a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898036:1826012101:0161/pct:6.8009416688464555,9.508033791618354,17.420873659429766,4.522113632598973/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898036:1826012101:0161/pct:6.799163179916318,9.506459092414707,17.422855648535563,4.525505134150381/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -401,7 +401,7 @@ ing the recess, die, or his office by other
 means become vacant, the Governor shall  
 have power,&quot; &amp;c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1843010501:0005/pct:334.62145110410097,134.6297282898242,57.570977917981075,44.80554075652637/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1843010501:0005/pct:83.68836291913215,33.65743207245605,14.398422090729783,11.201385189131592/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -427,7 +427,7 @@ ei e ee i o i oie  ae aoi e ae e oe e e io o o e eee
   
 means become vacant, the Governor shall question of boundary would be left precise tatives of Missouri, but if we left the ques-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84037932:00415668946:1844102601:0192/pct:125.26073619631902,127.36996172033327,157.94478527607362,26.412970051790136/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84037932:00415668946:1844102601:0192/pct:41.75357873210634,42.45665390677775,52.648261758691206,8.804323350596713/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -457,7 +457,7 @@ contingencies contemplated by the constitution, had arsien, I filled the
 vacancies thus occasioned, by granting commissions, which will &quot;ex­  
 pire at the end of the next session of the General Assembly.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn82014116:00279528530:1848010501:0164/pct:49.319568277803846,5.290383258876087,21.852025653058032,9.322830942863861/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn82014116:00279528530:1848010501:0164/pct:49.32478231398926,5.29430206129007,21.862453725428853,9.322830942863861/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -494,7 +494,7 @@ session of the General Assembly.&quot;
   
 represented by two Senators
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_flareon_ver02:data:sn82014073:00279529194:1848011301:0077/pct:12.480810561866749,22.90358744394619,89.79121891311023,164.39461883408072/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_flareon_ver02:data:sn82014073:00279529194:1848011301:0077/pct:4.1602701872889165,7.634529147982063,29.930406304370074,54.7982062780269/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -519,7 +519,7 @@ the Legislature.
 That is decisive, that we shall have an An­  
 ditor of State, and other officers necessary t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186488:1848121601:1045/pct:119.89720998531571,85.45407233931824,50.23861967694567,19.320843091334893/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186488:1848121601:1045/pct:29.968801614975224,21.360738909847797,12.557349972472013,4.829582411864187/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -570,7 +570,7 @@ Governor shall have power to fill such vacan­
 cy by granting a commission, which shall ex­  
 pire at the end of the next session of ihe L
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn83035366:00296029099:1848122201:0647/pct:87.3094512195122,110.42203826842177,19.016768292682926,5.183878409553535/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn83035366:00296029099:1848122201:0647/pct:65.52907530981888,82.8199212918985,14.261201143946616,3.894693988329488/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -594,7 +594,7 @@ shall have been convened.
 lo, lre shall communicate by mes age to the Leglsla  
 ture, at every session, the candition of the State, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271743002:1849111201:0577/pct:107.77741620566222,47.82461295061589,45.94858444516759,11.662334727087806/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271743002:1849111201:0577/pct:35.92580540188741,15.941537650205296,15.316194815055862,3.8874449090292686/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -619,7 +619,7 @@ for which they shall have been convened.
 Sre. 10. He shall communicate by message to  
 the Legislature, at every session, the conditio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271743002:1849120801:0685/pct:149.74309569685292,229.6292096609593,46.13037893384714,14.559473863249801/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271743002:1849120801:0685/pct:49.914365232284304,76.54306988698643,15.376792977949048,4.8531579544166/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -669,7 +669,7 @@ sion, which shall expire a. the end of the next
   
 session of the Legislature.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn84028793:00296026669:1850061901:0497/pct:23.13891020721412,8.519437551695615,34.036838066001536,4.948993658671078/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn84028793:00296026669:1850061901:0497/pct:17.370441458733204,6.396470912599945,25.527831094049905,3.7082988695891923/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -711,7 +711,7 @@ the people.
 Houzes of the legislature as to the time of adjourn  
 ment, the Governor shall have poter to adjour
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_buttery_ver01:data:sn83030213:00206530315:1850072901:0607/pct:242.0353982300885,225.7764350453172,46.93805309734513,25.643504531722055/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_buttery_ver01:data:sn83030213:00206530315:1850072901:0607/pct:80.67846607669617,75.2588116817724,15.646017699115044,8.547834843907351/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -754,7 +754,7 @@ to expire at the end of the session ?
 The object ot this clause seems to be  
 to enable the Legislature to make th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn84026884:00279557487:1851102501:0066/pct:77.70073808991278,6.795052450289651,14.64996645045851,13.198684828558008/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn84026884:00279557487:1851102501:0066/pct:77.70073808991278,6.805490318876886,14.657421904122867,13.193465894264392/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -812,7 +812,7 @@ pire at the end ol&quot; tho next session of the General
 Assembly.&quot;  
 The vacancy will not occur till afier the 4th o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024518:0029602272A:1853010501:0011/pct:3.2104637336504163,53.72460496613996,19.500594530321045,8.969941784483783/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024518:0029602272A:1853010501:0011/pct:2.408921933085502,40.29939408340264,14.646840148698885,6.724486158964002/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -878,7 +878,7 @@ One of the ablest Jurists of this or of any country,
 Chief Justice Marshall, in speaking of the federal  
 government, states that this will be the mode b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024518:0029602272A:1853012601:0034/pct:91.15798922800718,31.870752354834863,20.032914422501495,12.304757362584953/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024518:0029602272A:1853012601:0034/pct:68.38246296573395,23.906045069750803,15.023193176717044,9.228568021938715/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -907,7 +907,7 @@ a position peculiar. He still recognized the doctrine
 and the practice of the whig party, but contemned  
 the want of consistency in democratic eulogiums o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293241:1857102201:0391/pct:204.26356589147287,157.62693972342447,43.85382059800664,22.16826770822337/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293241:1857102201:0391/pct:51.080033231791745,39.40673493085612,10.966491276654667,5.542066927055843/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -937,7 +937,7 @@ pointment of United States Senators is not devole­
 ed on the Legislature by the State Constitution at  
 I, but by the Constitution of the United States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn96091000:00212470223:1857102701:0407/pct:73.05483028720627,279.2308466727071,48.56396866840731,25.893486358602637/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn96091000:00212470223:1857102701:0407/pct:18.268477409245232,69.80771166817678,12.144162966832072,6.473371589650659/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -960,7 +960,7 @@ express provision «.&#x27;.f the Constitution. The
 Judges are not to Le appointed, but elected.  
 After an election i.as been held, and the of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn84038814:00279557189:1859021501:0156/pct:21.746724890829693,52.77954458720264,12.192139737991265,4.973921892888946/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn84038814:00279557189:1859021501:0156/pct:21.746724890829693,52.78272484416741,12.192139737991265,4.973921892888946/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1015,7 +1015,7 @@ State, to fill such vacancy, by granting a temporary - com­
 mission, which shall expire at the end of the next session of  
 the General Assembly
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn85042146:00296022822:1866070301:0189/pct:32.70884520884521,49.346807986196694,26.827395577395578,7.08651713088489/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn85042146:00296022822:1866070301:0189/pct:24.546850998463903,37.01010598964752,20.122887864823348,5.324131131377865/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1042,7 +1042,7 @@ mission; which shalTexpire at the end pf the next session of
   
 the General Assembly. -4 t - , &#x27; &#x27;7 &#x27; . 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn85042148:00296022676:1866070401:0110/pct:103.00711743772241,28.378547318414803,26.227758007117437,6.900862607825978/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn85042148:00296022676:1866070401:0110/pct:77.27353621640862,21.29016127015877,19.6832176543869,5.1756469558694835/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1105,7 +1105,7 @@ nor Courts of law and Courts of Kquity; io .
 County Courts; and in Justices of the Peace;  
 and in such other Courts as by the Constitutio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84020712:00295879208:1866071001:0110/pct:109.76084538375973,65.30260607365928,19.813681868743046,12.976523799267715/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84020712:00295879208:1866071001:0110/pct:82.36194185561274,48.976954555244454,14.869940186395883,9.735085074305406/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1171,7 +1171,7 @@ State, which shall be kept by the Gover­
 nor and used by him officially, and shall  
 be called the Great Seal of the Slate o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293411:1870022401:0190/pct:102.54833040421792,13.068311628969614,13.195664909197422,7.870687685629426/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293411:1870022401:0190/pct:76.94110753003223,9.801233721727211,9.903310870202167,5.905871601553575/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1212,7 +1212,7 @@ State, which shall be kept by the Gover­
 nor and used by him officially, and shall  
 be called the Great Seal oF the Stat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200293010:1870022601:0212/pct:140.43173862310385,119.17195953893201,38.2147024504084,37.82639378969654/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200293010:1870022601:0212/pct:35.1233036626295,29.792989884733004,9.557857872464615,9.456598447424135/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1258,7 +1258,7 @@ Sec, 16. All grants and commisions
 hall be in the name and by the au­  
 thority of the State of Tennessee, b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn85026955:0020029354A:1870031101:0343/pct:9.143686502177069,169.06878162176946,46.589259796806964,55.626965677560506/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn85026955:0020029354A:1870031101:0343/pct:2.285921625544267,42.267195405442365,11.647314949201741,13.906741419390126/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1300,7 +1300,7 @@ State, which shall be kept by the Governor
 and used by him officially, and shall be called  
 the Ureat Seal or the dtate of Te
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn89058302:00212470417:1872070401:0680/pct:156.8917018284107,258.05112235629946,41.70182841068917,45.20565719475801/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn89058302:00212470417:1872070401:0680/pct:39.23672177277524,64.51278058907486,10.429124164614844,11.301414298689503/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1377,7 +1377,7 @@ by granting a commission, which shall
   
 avpire at the next election.&quot; Whether
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn85034039:00294559929:1876120101:0406/pct:285.5245683930943,112.36183458264516,43.42629482071713,39.99491805361453/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn85034039:00294559929:1876120101:0406/pct:71.41670818800864,28.09045864566129,10.861983059292477,9.998729513403633/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1404,7 +1404,7 @@ piro at the eud of the next sessiou of
 tho legislature, or at the next election  
 by tho people.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_avenger_ver01:data:sn91099608:00415665398:1883092201:0805/pct:37.94545092574159,90.86623453152622,15.13040015926737,6.349440188568061/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_avenger_ver01:data:sn91099608:00415665398:1883092201:0805/pct:30.367381609683584,72.69691612649774,12.104480781482268,5.087409153407975/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1425,7 +1425,7 @@ shall expire at the end of the next ses­
 sion of the legislature, or at the next  
 election by the people.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_volvo_ver01:data:sn83025440:00295876499:1883111501:0171/pct:68.42105263157895,69.73963868225292,14.51976244112226,3.5201912858660998/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_volvo_ver01:data:sn83025440:00295876499:1883111501:0171/pct:68.42105263157895,69.74406659582004,14.54024165472046,3.5201912858660998/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1446,7 +1446,7 @@ shall expire at the end of the next ses­
 sion of the legislature, or at the next  
 election by the people.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_mustang_ver01:data:sn99067997:00415625066:1885092501:0328/pct:84.54545454545455,87.12482468443197,18.05785123966942,4.516129032258065/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_mustang_ver01:data:sn99067997:00415625066:1885092501:0328/pct:67.64738292011019,69.70603635275637,14.446280991735538,3.609095669085197/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1476,7 +1476,7 @@ ever exceed four years. A statute was
 in these words: Each of said commis­  
 sioners shall hold his office for th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_james_ver01:data:sn83045555:00206534060:1891092301:0829/pct:98.60655737704919,20.875490398513318,36.0655737704918,22.36217220730952/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_james_ver01:data:sn83045555:00206534060:1891092301:0829/pct:32.89581624282199,6.95849679950444,12.031719989062072,7.454057402436506/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1499,7 +1499,7 @@ ple nor shall the duration of any office not
 fixed by the constitution ever exceed four  
 years A statute was in these word
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_boozer_ver01:data:sn85058130:175048716:1891092401:0340/pct:2.4290220820189274,131.11633635651103,23.84858044164038,5.632068077482924/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_boozer_ver01:data:sn85058130:175048716:1891092401:0340/pct:1.6251183338592616,87.41462322248348,15.904070684758599,3.7584443697980814/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1547,7 +1547,7 @@ President may fill such vacancy by granting a com-
 mission which shall expire at the end of the next  
 session of the Senate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_cardinal_ver01:data:sn83025121:00211108988:1894060501:0353/pct:87.63972484952708,112.49624060150376,33.55546001719691,9.218045112781954/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_cardinal_ver01:data:sn83025121:00211108988:1894060501:0353/pct:65.76344086021506,84.37218045112782,25.182795698924732,6.917293233082707/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1578,7 +1578,7 @@ may fill such vacancy by granting a
 commission which shall expire at the  
 end of the next session of the Senate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_cardinal_ver01:data:sn83025121:00211108988:1894060801:0360/pct:65.5541012216405,76.94904849600982,14.070680628272251,9.4536525475752/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_cardinal_ver01:data:sn83025121:00211108988:1894060801:0360/pct:65.5541012216405,76.96055862492327,14.070680628272251,9.442142418661756/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1604,7 +1604,7 @@ up such vacancy by granting a temporary com­
 mission, which shall expire at the end of the  
 next session of the General Assembly.&quot; Thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175045181:1895011301:0158/pct:232.5546345139412,114.09771592799879,50.489826676714394,19.255785811526245/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175045181:1895011301:0158/pct:58.16057293629853,28.524428981999698,12.627214474180173,4.813946452881561/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1624,7 +1624,7 @@ sion of the Legislature or at the next election
   
 by the people.&quot; .Section 999 of the Politica
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_dogtown_ver01:data:sn85066387:00175037354:1896031501:0259/pct:29.232178293390323,51.775114794489866,26.820332773622347,46.488968529510586/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_dogtown_ver01:data:sn85066387:00175037354:1896031501:0259/pct:29.232178293390323,51.78258110277373,26.825421055309622,46.488968529510586/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1666,7 +1666,7 @@ the coming election, and that it is the
 duty of the Governor to call an election  
 for that office
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_firebaugh_ver01:data:sn82015104:00280768716:1896082001:0568/pct:35.36920342543222,18.631545133311917,13.556309581515592,13.202698361708963/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_firebaugh_ver01:data:sn82015104:00280768716:1896082001:0568/pct:35.36920342543222,18.631545133311917,13.561695481230139,13.206267623228754/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1702,7 +1702,7 @@ phrase &#x27;the next election,&#x27; and we as­
 sume that It was Intended thereby to  
 create the election by which such va
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_plasse_ver01:data:sn85042461:00280769691:1896090401:0037/pct:20.394870751068595,65.20662436155393,12.19214329330348,10.927101067946138/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_plasse_ver01:data:sn85042461:00280769691:1896090401:0037/pct:20.410136372888257,65.20662436155393,12.19214329330348,10.946447918278905/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1761,7 +1761,7 @@ Theee conditions are delith or resig­
 nation. None others are mentiomd,  
 . and as Justico Bristol said in 1831, Ne
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_bronte_ver01:data:sn86063592:0041562671A:1898030901:0049/pct:9.326858673811119,90.71428571428571,14.886135298057603,14.464285714285714/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_bronte_ver01:data:sn86063592:0041562671A:1898030901:0049/pct:7.001675041876047,68.03571428571429,11.17252931323283,10.851648351648352/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -105,7 +105,7 @@ posers of the Constitution, and with the nic
 of them will break up the party.  
 Yours, affectionately. A. HAMILTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661484:1851050501:0440/pct:6.12367120826471,45.772904138662895,14.298547686779457,13.323900483433558/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661484:1851050501:0440/pct:6.12367120826471,45.78076484691271,14.308529220941258,13.31997012930865/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -145,7 +145,7 @@ and honest opposers o: the Constitution, and
 with the aid of them will break up the party.  
 Yours, affectionately, A. HAMILION
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215853:1851050501:0687/pct:47.011339611762445,57.07553707553708,12.733038631558717,11.76022176022176/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215853:1851050501:0687/pct:47.00682233112328,57.07158201094865,12.735018096793825,11.761716674751115/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -209,7 +209,7 @@ tion of the laws of nations, and expressly pro having been taken, I fear the foo
   
 hibited by our own Statutes, which declare Duer, is the best upon which it can be placed; but ment, to ai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667711:1851050601:0665/pct:214.80865224625623,214.20604637511008,139.10149750415974,13.560316994423246/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667711:1851050601:0665/pct:53.73569198751301,53.55151159377752,34.79708636836629,3.3900792486058116/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -250,7 +250,7 @@ posers of the Constitution, u h the aid
 of them will break up the party.  
 Yours, affectionately. A. HAMILTON&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014763:00415661460:1851050701:0096/pct:2.867383512544803,43.94275571333481,14.89605734767025,13.02418460173064/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014763:00415661460:1851050701:0096/pct:2.867383512544803,43.95015161600473,14.89605734767025,13.02418460173064/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -269,7 +269,7 @@ the post. Yesterday, I communicated to
   
 Duer our situation, which I presume he sales only for shipmen Prim
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156360:1851050701:0489/pct:187.48091603053436,276.1226866830594,106.18320610687023,9.576808593244467/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156360:1851050701:0489/pct:46.87022900763359,69.03067167076485,26.545801526717558,2.3942021483111167/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -288,7 +288,7 @@ mains exactly the same. No further ques
   
 tion having been taken, I fear the footing
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156360:1851050701:0489/pct:187.63358778625954,286.0618610068591,56.94656488549618,6.781415814675812/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156360:1851050701:0489/pct:46.908396946564885,71.51546525171477,14.236641221374045,1.695353953668953/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -311,7 +311,7 @@ fied ratification. Let me know your idea
   
 upon the possibility of our being received nominally at 112 a 115e.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156360:1851050701:0489/pct:187.78625954198472,292.89504335447134,113.66412213740458,14.287563090462017/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156360:1851050701:0489/pct:46.94656488549618,73.22376083861784,28.416030534351144,3.5718907726155043/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -348,7 +348,7 @@ break up the party.
 Yours, affectionately.  
 A. HAMILTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156360:1851050701:0489/pct:187.86259541984734,307.07907337906045,56.412213740458014,42.0861912773392/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156360:1851050701:0489/pct:46.965648854961835,76.76976834476511,14.103053435114504,10.5215478193348/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -385,7 +385,7 @@ honest opposers of the Constitution, and with the aid of
 them will break up the party.  
 Yours, affectionately, A. HAMILTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348367:1851050701:0425/pct:64.65517241379311,36.10478359908884,14.655172413793103,9.624145785876992/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348367:1851050701:0425/pct:64.64250734573947,36.09964412811388,14.657198824681684,9.626334519572953/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -429,7 +429,7 @@ break up the party.
 Yours affectionately,  
 A HAMILTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851051201:0086/pct:148.7584650112867,297.4388000566011,46.369450714823174,59.38870807980756/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851051201:0086/pct:37.1826217791988,74.34917940011319,11.590182433703216,14.845076400679117/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -458,7 +458,7 @@ island loan unqualified i ataieati n.
   
 lou win understand that the et.&#x27;v
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn86063325:00200292455:1851052201:0559/pct:109.3289371605896,55.51696921862668,17.688130333591932,10.52880820836622/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn86063325:00200292455:1851052201:0559/pct:82.03337213814513,41.64167324388319,13.271245634458673,7.892659826361484/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -495,7 +495,7 @@ tlte Constitution, and with the aid of them will break
 up the party.  
 Yours, affectionately, A. HAMILTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348379:1851101101:0345/pct:50.891818534315625,24.14517937219731,14.424195424583171,9.52914798206278/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348379:1851101101:0345/pct:50.88195386702849,24.141796272943814,14.42624539639465,9.531315678856663/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -539,7 +539,7 @@ break up the party.
 Yours, affectionately,  
 A. HAMILTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851101601:0261/pct:297.33183013904545,134.31234114656877,46.392333709131904,58.867551539113244/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851101601:0261/pct:74.3189930490325,33.57334462798249,11.595904565094871,14.714810108710997/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -580,7 +580,7 @@ of them will break up the party.
 Yours, affectionately,  
 A. HAMILTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn83025725:00212470284:1860111501:0470/pct:70.45092838196287,161.9743671221269,44.03183023872679,49.23207287363627/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn83025725:00212470284:1860111501:0470/pct:17.612732095490717,40.49359178053172,11.007957559681698,12.308018218409067/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -607,7 +607,7 @@ siderate and honest oppsers of the Constitution, and
 with the aid of them willbreak up the party.  
 &quot;Yours, affectionatly. A. HAMIlroN.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024656:00414184704:1860111901:0483/pct:132.08430913348946,183.9539607312119,37.34582357533177,15.278718122320019/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024656:00414184704:1860111901:0483/pct:44.021230096784265,61.311068486968296,12.44666458528463,5.092331415246907/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -636,7 +636,7 @@ and honest opposers of the Constitntion, and
 with the aid of them will break up the party.  
 Yours, affectionately, A. HAMILTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347282:1860112301:0561/pct:49.33105164903547,19.27427483480793,12.741132545115121,5.8797177735468695/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347282:1860112301:0561/pct:49.34142294129848,19.278007988949863,12.741132545115121,5.890917235972673/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -684,7 +684,7 @@ Yours affectionately.
   
 A. HAMILTOs.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn87076793:00280775095:1860113001:0899/pct:247.7968633308439,169.05460951262478,46.00448095593727,61.009982384028184/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn87076793:00280775095:1860113001:0899/pct:61.98393424248085,42.263652378156195,11.507565850924715,15.252495596007046/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

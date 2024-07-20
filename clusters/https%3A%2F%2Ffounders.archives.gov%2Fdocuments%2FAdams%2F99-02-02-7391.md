@@ -260,7 +260,7 @@ ing of&#x27;it. He told us indeed, that ‘God s
 a epirit,) but he has not defined what o  
 apirit is, nor said that it is not matler.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153188:1830040801:0458/pct:67.74895701070197,33.74461645908509,16.50643932523127,7.950180421371202/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153188:1830040801:0458/pct:67.75500332547313,33.748496488573316,16.512485640002417,7.954060450859426/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -291,7 +291,7 @@ things which are, without tormenting or
 troubling myself about those which may  
 indeed be, but of which | have no evidence.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153188:1830040801:0459/pct:13.002364066193854,24.329920625790866,16.712129478086926,9.68595421603589/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153188:1830040801:0459/pct:13.002364066193854,24.329920625790866,16.72425289446566,9.6936232217493/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -345,7 +345,7 @@ immaterial, is to say, they are nothings,
 or that there is no God, no angels, no­  
 soul. 1 canuot remson otherwise: but 1
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1834080601:0125/pct:81.32387706855792,69.47201270345376,15.130023640661939,24.387984649993385/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1834080601:0125/pct:81.32993877674728,69.47642362489525,15.123961932472572,24.401217414317852/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

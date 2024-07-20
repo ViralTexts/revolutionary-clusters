@@ -223,7 +223,7 @@ measures to dispatch to this citv such force as
 he may deem expedient for suppressing any  
 disturbances that may ensue.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025001:0041421633A:1824050401:0197/pct:4.389985895627644,29.02177445563861,17.577574047954865,25.59852670349908/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025001:0041421633A:1824050401:0197/pct:4.389212057112639,29.018630849220106,17.580351371996006,25.599364529173886/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -431,7 +431,7 @@ may take immediate measures to despatch to this city
 auch force as he may judge expedient, for suppressing  
 any disturbances that may en»ue.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216420:1830031501:0560/pct:5.017857142857143,68.6258079961695,19.0,16.949964089059133/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216420:1830031501:0560/pct:5.016961256918408,68.61759425493716,19.002559066833303,16.951924995012966/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -458,7 +458,7 @@ was immediately apprized of the situation, and desired
 to despatch such lorce as he may judge &lt;  
 Expedient for suppressing any disturbance that 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ellis_ver01:data:sn85025007:00415663602:1866110101:0007/pct:0.6807773239262285,46.442986881937436,16.722366629533358,1.8247561385805584/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ellis_ver01:data:sn85025007:00415663602:1866110101:0007/pct:0.6890291702768494,46.44859289157977,16.72649255270867,1.8275591434017266/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

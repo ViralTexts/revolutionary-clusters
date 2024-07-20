@@ -224,7 +224,7 @@ e their goods, though found in our -vessels, andconfc-
 U quently, from circuraftauces over, which ws  
 H AVE NO CONTROOt. --I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796110701:0002/pct:28.690662493479394,5.548172757475083,42.82733437663015,91.94352159468438/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796110701:0002/pct:28.710224308815857,5.5523255813953485,42.82733437663015,91.95598006644518/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -322,7 +322,7 @@ law of nations, and therefore taking eifeét
 between such nations only as have so a­  
 ~greed to control it.”” And itis plain, tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797021101:0234/pct:8.060729378619502,6.29426433915212,33.63593676631711,86.24438902743142/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797021101:0234/pct:8.060729378619502,6.297589359933499,33.64637136745448,86.24438902743142/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -680,7 +680,7 @@ them, that enemy’s bottoms should make
 enemy’s goods, and friend&#x27;y botioms friend­  
 ly goods ;—buat that i 3 altogether thees- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1801051201:0496/pct:6.034349373356027,42.09083790133125,17.128268605910566,8.134299138606108/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1801051201:0496/pct:6.044664500489969,42.09736361263378,17.128268605910566,8.127773427303577/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -769,7 +769,7 @@ British armed vessels have raken the property of
 French citizens in our vessels ; and I confess I  
 should be at a loss on what principle to reclaim i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807110901:0818/pct:50.45395590142672,57.01313442516621,22.308690012970168,6.178044430030809/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807110901:0818/pct:50.440871369294605,57.00389105058366,22.30938796680498,6.18109597924773/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -789,7 +789,7 @@ solemn manner declared to the world that “ by the
 general law ol nations, the goods of an enemy  
 found in the vessel of a friend, are lawful prize.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808041801:1087/pct:50.0385109114249,42.42424242424242,22.0795892169448,4.991087344028521/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808041801:1087/pct:50.025667351129364,42.41736876215165,22.080338809034906,4.994329228775113/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -133,7 +133,7 @@ him into it. 1 have no ambition to govern men; no
 passion which would lead me to dehght to ride in a  
 storm. Flumina amo sylvasyue inglorius.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664278:1844040601:0349/pct:36.862511184014316,33.43482958452019,15.851476289889652,8.47657401041155/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664278:1844040601:0349/pct:36.87245253007257,33.43482958452019,15.846505616860522,8.47984808303048/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -160,7 +160,7 @@ no passion which would IcaJ ma to delight
 to lide in a storm. Flumind a mo syhus-  
 1 que xngiortom .
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_kingsombra_ver01:data:sn83016863:00415662051:1844041301:0276/pct:84.64285714285714,115.36996336996337,20.58823529411765,10.68131868131868/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_kingsombra_ver01:data:sn83016863:00415662051:1844041301:0276/pct:63.50073544862366,86.53479853479854,15.44442109686909,8.014652014652015/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -185,7 +185,7 @@ carries him into it. « have no ambt-L
 non to govern men; no passion which would load f  
 me t» delight to ride in ■ storm. Ftartfae «
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82016488:00513688040:1844051801:0247/pct:66.48841354723707,71.79527069072806,15.983363042186571,5.7249533291848165/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82016488:00513688040:1844051801:0247/pct:66.49501551462336,71.80564198299108,15.97676107480029,5.730138975316325/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -229,7 +229,7 @@ ing. I have no ambition to govern men.
 My attachment is my home.” There is no  
 reason tor doubting his sincerity, althoug
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_bobbsey_ver02:data:sn86063034:00414181971:1888071301:1077/pct:3.39014110317024,73.69870559074636,15.722924683892249,3.9658496282015974/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_bobbsey_ver02:data:sn86063034:00414181971:1888071301:1077/pct:2.6368112099981063,57.12354594286934,12.189926150350312,3.077087261214471/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -275,7 +275,7 @@ politics to their purse, nor pursue meas­
 ures by which they may profit, and then  
 profit by their measures
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_atherton_ver01:data:sn84026355:00211100229:1897061101:0672/pct:55.82365747460087,72.53347909264826,15.910740203193033,2.6509975403115607/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_atherton_ver01:data:sn84026355:00211100229:1897061101:0672/pct:41.89508077691051,54.4001093194862,11.944091486658195,1.9950806231210714/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -311,7 +311,7 @@ Congress and Its Work.&quot; &quot;There Is a Debt
 of Service Due From Every Man to His  
 w&quot;nlry&#x27; Proportioned to the Bountie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ibizanhound_ver01:data:sn83045462:00280655193:1898040901:0373/pct:14.529597327890146,25.790788013318537,13.805900909259602,1.637069922308546/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ibizanhound_ver01:data:sn83045462:00280655193:1898040901:0373/pct:14.529597327890146,25.794256381798004,13.824457227686027,1.637069922308546/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -351,7 +351,7 @@ which Nature and Fortune have
 ured to Him,&quot; an aphorism of Jefe­  
 on&#x27;s; &quot;I Am Not Among Those Wh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_rollingstone_ver01:data:sn85038614:00175032939:1898041201:0383/pct:90.0,244.10504340182396,41.139240506329116,10.075815844412702/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_rollingstone_ver01:data:sn85038614:00175032939:1898041201:0383/pct:30.0,81.36834780060799,13.713080168776372,3.3586052814709006/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -369,7 +369,7 @@ due from every man to his country, pro­
 portionate to the bounties which nature  
 and fortune have measured to him,&quot; wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_franklin_ver01:data:sn85054468:211102135:1898041301:0428/pct:103.22721962616822,33.8590492996581,17.815420560747665,2.415352376750855/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_franklin_ver01:data:sn85054468:211102135:1898041301:0428/pct:68.84312007011394,22.576375868534246,11.875547765118318,1.6102349178339033/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -399,7 +399,7 @@ govern, men; no passion which
 woald lead me to delight to ride in  
 a storm; mv attachment is m
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_charlie_ver01:data:sn84024055:00280761023:1898042301:0266/pct:8.596278317152104,77.61679079214625,19.41747572815534,12.376438727149628/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_charlie_ver01:data:sn84024055:00280761023:1898042301:0266/pct:6.453570706048958,58.21259309410968,14.566053004248433,9.289099526066352/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -421,7 +421,7 @@ actions.
 Evil, as well as good actions,  
 recoil on the doers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_coldplay_ver02:data:sn83007654:00393342754:1898082601:0051/pct:13.156469951272333,16.446590461174615,11.28857606930157,5.5774536854552625/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_coldplay_ver02:data:sn83007654:00393342754:1898082601:0051/pct:13.15468940316687,16.444969947778105,11.290431722831235,5.579367425362105/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -441,7 +441,7 @@ proportioned to the bounties
 which nature and fortune have  
 measured to him
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_coldplay_ver02:data:sn83007654:00393342754:1898082601:0051/pct:12.953438007579859,42.018131651556956,11.275040606388739,4.57232952305873/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_coldplay_ver02:data:sn83007654:00393342754:1898082601:0051/pct:12.951684937068615,42.01399152625874,11.276898091758019,4.574342299733964/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -461,7 +461,7 @@ pursue measures by which they may
 profit* and then proflfe iiy their meas  
 *yes.v
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_hawk_ver01:data:2015270501:00415623069:1899080401:0408/pct:49.96133023975251,83.12106180453144,14.11446249033256,3.351655717924655/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_hawk_ver01:data:2015270501:00415623069:1899080401:0408/pct:49.96616395978345,83.13111677168521,14.128963650425368,3.351655717924655/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -644,7 +644,7 @@ Presidency the reputation which car­
 ries him into it.  
 Corruption of morals in the mas
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068402:00295878691:1899120701:0404/pct:80.41428571428571,46.19512718686273,14.8,3.13405602661801/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068402:00295878691:1899120701:0404/pct:60.32290327189599,34.64634539014704,11.101585940848693,2.3505420199635076/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -664,7 +664,7 @@ pursue measures by which they may
 profit and they profit by their  
 measures. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068402:00295878691:1899120701:0404/pct:95.88571428571429,53.21455404100032,14.957142857142857,4.2824943651389935/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068402:00295878691:1899120701:0404/pct:71.92456065152165,39.916282065042395,11.230175739391342,3.209187506708168/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

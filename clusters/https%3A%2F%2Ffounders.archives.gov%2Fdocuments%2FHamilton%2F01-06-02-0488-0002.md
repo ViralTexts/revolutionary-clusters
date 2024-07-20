@@ -91,7 +91,7 @@ And whereas it is desirable to adapt
 the nature of the provision to be made  
 for the domestic debt, to the presen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790081901:0645/pct:3.8517091959557055,63.886585972475544,21.2084737602311,24.539877300613497/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790081901:0645/pct:3.8677579842721874,63.8976399712596,21.224522548547586,24.539877300613497/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -124,7 +124,7 @@ And whereas it is expedient that the said doubt be removed
 Be it enaftcd and declared by the Senate and House of Repre­  
 sentatives of the United States of America in Congress, Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791041301:0004/pct:8.290155440414507,15.465695668838636,28.756476683937823,10.099655040245304/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791041301:0004/pct:8.298251295336788,15.480068991950938,28.764572538860104,10.099655040245304/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -165,7 +165,7 @@ said doubt be removed : :
 Be it enalted and declared, by the Senate  
 and House of Representatives of the Uhite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791052601:0807/pct:6.840705825477399,15.659777424483307,42.03529127386995,78.12400635930048/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791052601:0807/pct:6.848763193940859,15.670376258611553,42.0272339054065,78.11870694223636/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -197,7 +197,7 @@ to be made fucb other contract refpeftittg ihe ftitd
 debt as should be found for the interest of the  
 laid dates.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793032001:0001/pct:29.461426491994178,80.51656372824256,19.03930131004367,11.491671345685944/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793032001:0001/pct:29.468704512372636,80.53060078607524,19.046579330422126,11.496350364963504/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -322,7 +322,7 @@ public debt of the United Slates, as my he wanted
 for that purpose, after satisfying the sums ncccssa- %  
 ry for the payment of the interest and such part i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812042001:0134/pct:78.86995515695067,9.532288698955366,18.00896860986547,7.122507122507122/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812042001:0134/pct:78.8558106169297,9.531157270029674,18.0117168818747,7.125618199802176/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -384,7 +384,7 @@ President of the United Slates do cause to be
 lai«l before Congress, on the first Monday in  
 I ebruary, eighteen hundred and fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813030401:0067/pct:40.87431693989071,13.34963325183374,35.28233151183971,81.98044009779952/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813030401:0067/pct:40.86687306501548,13.348001466813349,35.28197656771687,81.97449374567087/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -465,7 +465,7 @@ pal and interest of the public debt of the Uiwfced States,
 (is may be wanted for that purpose, after satisfying the  
 sums necessary forthepayment of thelnterest s[n&lt;l suc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813031301:0396/pct:47.09230388517694,20.182604517059108,21.108636476119774,6.6154092583693735/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813031301:0396/pct:47.080653142008906,20.179372197309416,21.109599208312716,6.6183536194746955/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -487,7 +487,7 @@ USited States,* sum not &#x27;exceeding in the whole sixteVn
 millions of dollars, and,to make tie necessary contract*  
 for thgsame, pursuant to the act of congress above re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813031301:0396/pct:47.09230388517694,30.978696139676437,21.059143776293,4.485023226013134/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813031301:0396/pct:47.080653142008906,30.97373478539398,21.060118753092528,4.488308776425368/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -505,7 +505,7 @@ contract shall be entered inte which [hail
 precinde the United States from reimburs­  
 ing any sum. or sums, thus borrowed, a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1813033001:0477/pct:57.4351371386212,24.987531172069826,15.6412157153447,2.3541147132169575/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1813033001:0477/pct:57.4351371386212,24.994181213632586,15.646157647640228,2.3541147132169575/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -542,7 +542,7 @@ disadvantageous to the United Slates than the
 teruM upou which the monies obtained upon loan  
 under the authority contained in the act passe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813073101:0554/pct:26.25981261078754,32.49835201054713,21.92960243099519,15.029663810151614/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813073101:0554/pct:26.253164556962027,32.49299719887955,21.930379746835442,15.03130664030318/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -571,7 +571,7 @@ Sec. 2. And be it,/uriher enacted, i lint !
 the secrcta. y ol&#x27; the treasury, with the ap­  
 probation oi‘ the president of the United 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024513:00414184121:1813120301:0113/pct:3.7218631602406953,26.06095960332507,22.398038778694005,10.266880560011668/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024513:00414184121:1813120301:0113/pct:3.7210338680926918,26.05715952172645,22.400475341651813,10.270243997278119/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -615,7 +615,7 @@ Sec. 2. JAnd be it further enacted, That the
 Secretary of the Treasury, with the approba­  
 tion of the President of the United States, be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1815041801:0273/pct:24.868626615537565,53.64434362363152,16.16247692089192,11.253575303284348/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1815041801:0273/pct:24.87336079155423,53.64763125883552,16.167211096908584,11.260150573692343/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -648,7 +648,7 @@ Sec. 2. Jnd be i further enacted, That the
 Secretary of the Treasury with the approbation  
 of the President of the U. 8. be and he is here
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1816031901:0481/pct:42.447916666666664,23.82716049382716,17.248774509803923,10.462962962962964/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1816031901:0481/pct:42.45812908496732,23.834019204389573,17.248774509803923,10.462962962962964/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -804,7 +804,7 @@ shall preclude the United States from re-
 mbursins anv sum or sums thus borrowed  
 after the expiration of five years from th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_kingsombra_ver01:data:sn87065337:00415662002:1839033001:0165/pct:58.91089108910891,45.73478607494021,23.942394239423944,12.901939941536009/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_kingsombra_ver01:data:sn87065337:00415662002:1839033001:0165/pct:44.22427381220446,34.307733191602445,17.96892591758613,9.673133138453363/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -834,7 +834,7 @@ ceed five per cent. payable semi-annually.
 Sec. 6. And be it further enacted, That the sum of  
 eighteen thousand dollars be, and the same is hereby
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1839043001:0277/pct:19.017062855476155,41.023777385525904,14.729473530698556,7.662755684767937/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1839043001:0277/pct:19.017062855476155,41.02723843145399,14.739195955471294,7.669677776624096/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

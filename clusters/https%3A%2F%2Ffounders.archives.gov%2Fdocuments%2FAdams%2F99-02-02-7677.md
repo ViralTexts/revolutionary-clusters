@@ -272,7 +272,7 @@ cept none. We d?rnande.I it as a right, and we d- maud
 ad an explicit acknowledgment ot that rtght as an indis­  
 pensable condition of peace
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661204:1852080501:0754/pct:63.41463414634146,60.25835866261398,15.81273530856114,12.727963525835866/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661204:1852080501:0754/pct:63.41463414634146,60.26680175616346,15.8236481693676,12.732185072610605/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -293,7 +293,7 @@ and ;&lt;ritri/fg? was right, but the won! rigSt might be more
 dispttieiiig to the people ol fcnglau I than Ubn ly ; an 1 we  
 did not think il necessary to oomend lor a wor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661204:1852080501:0755/pct:35.25870484868207,70.61375526349369,15.70126911812561,3.036876355748373/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661204:1852080501:0755/pct:35.25870484868207,70.61800859172303,15.70126911812561,3.0411296839777124/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -336,7 +336,7 @@ grant, and would acoept none. Wo demanded it as a right,
 and we demanded an explicit acknowledgment of that right as  
 an indispensable condition of peace
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1852080701:0295/pct:49.51089994410285,15.957676527747786,15.623253214086082,12.49190239689052/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1852080701:0295/pct:49.52021613564375,15.96127546246311,15.618595118315632,12.495501331605844/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -356,7 +356,7 @@ sS:;Lrigbt&#x27; ,but.^ ?d ri?Lt n&gt;i*ht * KS ?­
 01 England than liberty, and we did  
 not think it necessary to contend for a word.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1852080701:0296/pct:17.606220494307138,19.7715763387566,15.801166342682588,3.1031138885895917/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1852080701:0296/pct:17.606220494307138,19.778759472757965,15.805794686661113,3.1031138885895917/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

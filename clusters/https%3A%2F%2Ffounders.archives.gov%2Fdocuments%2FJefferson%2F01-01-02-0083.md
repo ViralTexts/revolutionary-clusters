@@ -101,7 +101,7 @@ gaind our Wills, to avoid 2li commercial [ntercour(e with Brix
 tain., Wishing them and eur People free and happy, we sre’  
 eic iffs Rignate Fricads the late Reprefeatatives of Virginia&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774061701:0268/pct:10.409889394925179,55.483776244310675,27.044025157232703,39.42152400528557/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774061701:0268/pct:10.417118484782765,55.493564332207704,27.05125424709029,39.42152400528557/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -119,7 +119,7 @@ Jlony, who, after having maturely considered the Contents of the
 ‘Aflociation, did most cordially approve and accede thereto,  
 Rilielialeolcliolol
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774061701:0268/pct:38.625027109086965,6.812509176332403,26.501843417913683,3.5090295110850094/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774061701:0268/pct:38.625027109086965,6.822297264229433,26.509072507771272,3.513923555033524/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -438,7 +438,7 @@ those general measures, which the unit­
 ed interest of America might from time  
 to time rentier necessary.&quot; (c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805090201:0001/pct:42.02024553090674,86.59256209688486,18.307129011415032,9.564978729243858/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805090201:0001/pct:42.02742479718573,86.59713645304423,18.31430827769402,9.5741274415626/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -462,7 +462,7 @@ vince*, on the expediency of appointing Deputies
 front the difiV-reor Colonies to meet annually in gene­  
 mi Cnngrv&#x27;s. and to deliberate on thole general tnca
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1805090601:0144/pct:21.150971599402094,8.90207715133531,18.06801195814649,5.521868146045671/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1805090601:0144/pct:21.1470203624136,8.90092879256966,18.0708636901426,5.525455796353629/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -610,7 +610,7 @@ harbor and the commrce of the town of Bestun, in our
 lassachusetis Bay, until the rep&#x27;e  
 t the payment of such unconstitutional
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347910:1847082601:0033/pct:331.11240989674656,260.74118710454957,61.659848042080654,27.07140705031636/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347910:1847082601:0033/pct:82.76197896377094,65.1754782346739,15.411959485781068,6.766832354270221/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -645,7 +645,7 @@ find in act of the British Parliament, lately pansed, for* the
 in oar aister colony of Massachusetts Bay, until the people  
 there submit to the payment of such unconstitutional taxes,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1847090401:0651/pct:49.59097320169253,60.75505821182322,15.557122708039492,5.583813722165706/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1847090401:0651/pct:49.59097320169253,60.762593722919256,15.557122708039492,5.583813722165706/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -675,7 +675,7 @@ all Hritish America, and threatens ruin to
 tho lights of all, unless the united wisdom  
 of tho whole be applied.&quot; Ye men o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_idacox_ver02:data:sn85026945:00202194278:1857091001:0665/pct:43.69555904612309,30.91529277998863,13.36570041410824,4.195565662308129/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_idacox_ver02:data:sn85026945:00202194278:1857091001:0665/pct:43.69555904612309,30.91529277998863,13.375220143747917,4.206935758953951/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

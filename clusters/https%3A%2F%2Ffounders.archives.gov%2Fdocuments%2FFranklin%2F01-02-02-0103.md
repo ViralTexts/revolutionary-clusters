@@ -865,7 +865,7 @@ but incorrectly, &quot;this first translation of a
 classic in this Western World.&quot; Sandys&#x27;s trans­  
 lation of Ovid wan made in Virginia nearl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:00206533481:1876111501:0917/pct:222.07407407407408,114.8544266191325,48.666666666666664,5.822935234699941/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:00206533481:1876111501:0917/pct:55.54937928478785,28.713606654783124,12.173429683157309,1.4557338086749851/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -892,7 +892,7 @@ lowed with many others performed with equal
 Judgment and Success; and be a happy Omen  
 that FAiludely h may become the Seat of the meri
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_willys_ver01:data:sn83030214:00175039855:1881040301:0030/pct:199.50867998689813,167.91623278954066,47.36324926301998,21.57815573296309/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_willys_ver01:data:sn83030214:00175039855:1881040301:0030/pct:66.50289332896604,55.97207759651356,15.787749754339993,7.192718577654364/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -776,7 +776,7 @@ I heir part and thine inverted see !
 Thou wert their guardian angel here,  
 I’hey guardian angels now to thee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184157:1823052101:0215/pct:19.40814757878555,12.224683956731395,35.0499615680246,83.09657239671576/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184157:1823052101:0215/pct:19.404418828049952,12.223090956476414,35.04963176432917,83.09008774215967/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -888,7 +888,7 @@ Their part md thine inverted see !
 Thou wert ftfir guardian angel here,  
 They guardian angeis now to thee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025001:00414216328:1823052201:0390/pct:3.965149359886202,13.850145961725591,20.69701280227596,67.86679641042275/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025001:00414216328:1823052201:0390/pct:3.9644444444444447,13.848648648648648,20.69925925925926,67.86306306306307/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1089,7 +1089,7 @@ Their &quot;part and thine inverted set !
 Thou wert their guardian angel here,  
 They guardian angela now to thee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348914:1823052901:0090/pct:4.155356024222176,22.77021394831898,21.59114637711422,53.43150875243123/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348914:1823052901:0090/pct:4.154488517745302,22.76705097930268,21.591858037578287,53.427559383247676/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1235,7 +1235,7 @@ Their part and thine inverted see!
 Thou wert their guardian angt 1 here,  
 They guardian angels now to thee.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn83026162:00542866561:1823053001:0143/pct:6.066536203522505,3.9333805811481217,21.778026279004752,72.90928419560595/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn83026162:00542866561:1823053001:0143/pct:6.06484069312465,3.932683790965456,21.77892677473449,72.9007971656333/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1349,7 +1349,7 @@ Their part and thine inverted see !
 Thou wert their gdardiun angel hete,  
 They guardian angels now to ilee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1823060401:0497/pct:7.722385141739981,11.703939153138835,19.19843597262952,53.683732546259506/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1823060401:0497/pct:7.7289019224503095,11.707723161917736,19.20495275333985,53.68751655503841/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1776,7 +1776,7 @@ Amid iinnoHib«*r*d sniitl* *l*o\t\
 in ilie iro*oia of t Licit C««hU  
 f&gt;r their short •»», earth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183979:1823061301:0050/pct:6.870474658085278,13.539420081476155,11.214802896218826,16.750539180445724/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183979:1823061301:0050/pct:6.86936936936937,13.53779801126153,11.218361218361219,16.752525857593547/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1824,7 +1824,7 @@ Then dry henceforth the hitter tear,
 lit &gt;ti wert thtif guardian angel here.  
 They, guardian ungel* fmw to thet
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183979:1823061301:0050/pct:7.015285599356396,32.59046249700455,11.906677393403058,13.491492930745267/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183979:1823061301:0050/pct:7.014157014157014,32.586558044806516,11.91012441012441,13.493870053112895/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2049,7 +2049,7 @@ I heir part and thine inverted sec 1
 ! bou wort their guardian angel hcic ;  
 They, guardian angels now to thee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_lyle_ver01:data:sn85059803:00514157832:1824071701:0098/pct:9.111049570756023,7.447735191637631,82.0825256161728,83.38414634146342/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_lyle_ver01:data:sn85059803:00514157832:1824071701:0098/pct:9.108527131782946,7.4461136512083606,82.06902916205242,83.37324914725306/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2434,7 +2434,7 @@ Their part and thine inverted see:—
 Thou weit th?ir guardian angel here,  
 They gimdian angels nou to thee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215634:1836091301:0323/pct:10.797174571140262,13.835283391581827,16.672272676309003,32.32791369092843/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215634:1836091301:0323/pct:10.795964125560538,13.83423231786067,16.674140508221225,32.327990073184935/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2590,7 +2590,7 @@ Their part and thine inverted see :
 Thou wcrt Iheir guardian nnjl hire.  
 They guardian angels are to thee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00200290173:1836092301:0127/pct:8.31963845521775,27.004808438033194,15.797041906327033,37.8780828292229/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00200290173:1836092301:0127/pct:6.247431154952733,20.25748410113231,11.857788738183313,28.416317667132/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2634,7 +2634,7 @@ Htill teudn image* rein un :
 Bull. still tin v bless thee foi their both,  
 Hull filial gratitude letam
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348860:1836092901:0073/pct:5.603617774282344,10.514673352012977,14.471097129374755,16.48724376935555/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348860:1836092901:0073/pct:5.602516217810104,10.513122972574461,14.473166896009436,16.48849896785609/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2669,7 +2669,7 @@ Then paitanl thine inverted see
 Thou vvert their gum fimn angel here  
 &#x27;They guardian angels //«*//• to tht
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348860:1836092901:0073/pct:5.760912308297287,26.972422946468072,14.313802595359812,11.001327237870521/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348860:1836092901:0073/pct:5.759779830941616,26.96844588616927,14.315903282877924,11.003391329991153/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2946,7 +2946,7 @@ Their part and thine inverted see
 Thou wert their guardian angel here,  
 They guardian angels now to thee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:0041418294A:1836112401:0403/pct:40.121262805770435,7.677329624478443,14.69788835458917,27.872044506258693/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:0041418294A:1836112401:0403/pct:40.112876254180605,7.676261994159366,14.700041806020067,27.871645111945487/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3188,7 +3188,7 @@ Has quenched the radiance of the flame;
 Back to its God the living fire  
 Returns, unsullied, as it came
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn85054702:00280776002:1842110501:0471/pct:16.7816091954023,20.115606936416185,362.60536398467434,133.17919075144508/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn85054702:00280776002:1842110501:0471/pct:4.197814836112708,5.028901734104046,90.70346942687368,33.29479768786127/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3288,7 +3288,7 @@ Returns, unsullied, as it came.
 FrOM THE AlDuNy GeeNiNg JourNeL  
 eLAREDE EITCHEN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184601:1842111101:1171/pct:171.35938004520503,35.68904593639576,33.53245075879884,48.244994110718494/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184601:1842111101:1171/pct:57.11057304277643,11.894947591567542,11.175679311272532,16.07977073764378/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3343,7 +3343,7 @@ flame ;
 Back to its God the living fire  
 Returns, unsullied, as it came
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215713:1842111801:0403/pct:64.6374829001368,17.44332077467116,15.301934727379324,17.859739573005488/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215713:1842111801:0403/pct:64.63116756228628,17.44216787838731,15.303696466373555,17.860762282441065/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3440,7 +3440,7 @@ lias ipi ni’lied the radiance of the flame;
 Burk to its tied tile living lire  
 Returns, unsullied, as it came
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183694:1842112401:0351/pct:33.49695076602707,16.965105601469237,12.881154246616093,15.851698806244261/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183694:1842112401:0351/pct:33.49196906603213,16.963158498794904,12.884195915129883,15.853705191476338/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3482,7 +3482,7 @@ lias quenched the radiance of the flame;
 Hack to its God the living lire  
 Heturns, unsullied, as it came.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_danby_ver01:data:sn98060050:00280777328:1842120201:0761/pct:9.705159705159705,12.561834807375206,17.936117936117935,19.907060410733024/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_danby_ver01:data:sn98060050:00280777328:1842120201:0761/pct:7.2920934043424825,9.428871233698096,13.45759934453093,14.930295308049768/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3713,7 +3713,7 @@ Has quenched the radiance of the flame:
 Back to its God the living fire  
 Returns, unsullied, as it came.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_arbok_ver04:data:sn82003383:00295874442:1842121001:0406/pct:128.3126631853786,35.39408866995074,73.7761096605744,258.1773399014778/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_arbok_ver04:data:sn82003383:00295874442:1842121001:0406/pct:42.77088772845953,11.798029556650246,24.592036553524803,86.05911330049261/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3883,7 +3883,7 @@ Jtfaek to its God the living fire
   
 Returns, unsullied as it came.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn85050801:00279528499:1842122301:0222/pct:4.569807752915223,8.633093525179856,12.82697762369997,19.5818345323741/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn85050801:00279528499:1842122301:0222/pct:4.580313058094338,8.636840527577938,12.821724971110411,19.589328537170264/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4080,7 +4080,7 @@ Back to its God the living fire
 Returns, unsullied, as it came.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347892:1843011201:0603/pct:4.318806438947782,15.898719269836597,58.12720848056537,83.57132342116886/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347892:1843011201:0603/pct:1.0794896957801767,3.974094789520165,14.528949950932287,20.889755666764792/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4232,7 +4232,7 @@ Has quenched the radience of the flame;
 Back to its God the living fire  
 Returns, unsullied, as it came.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1843050501:0743/pct:203.81970970206265,255.3324789975794,39.037433155080215,10.992453367506764/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1843050501:0743/pct:50.98413911714122,63.83311974939485,9.76495318173132,2.748113341876691/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4485,7 +4485,7 @@ Their part and thine inverted see :
 Thou wert their guardian angel here,  
 They guardian angels now to thee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn86053954:0023728236A:1845071701:0317/pct:2.5227750525578134,43.212966273388155,23.49334267694464,75.72398998927422/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn86053954:0023728236A:1845071701:0317/pct:1.8927444794952681,32.415683470384934,17.63056431826148,56.798951257299485/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4686,7 +4686,7 @@ Returns, unsullied, as it came.
 TO MY CIGAR.  
 Yos, social friend, 1 love thee well
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348987:1846021901:0455/pct:43.182711198428294,22.50536864710093,13.595284872298624,31.166785969935574/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348987:1846021901:0455/pct:43.174229031624435,22.502147151445747,13.59752504419564,31.16590323504151/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4790,7 +4790,7 @@ Has quenched the radiance of the flame;
 Back to its God the living fire  
 Returns, unsullied, as it cam
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1847071501:0899/pct:10.59551430781129,75.11563367252543,115.46790409899458,125.49226906303687/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1847071501:0899/pct:2.6499032882011604,18.77890841813136,28.87814313346228,31.373067265759218/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4939,7 +4939,7 @@ Their part and thine inverted see:
 Thou wert their guardian angel here,  
 Thy guardian angels n w to thee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035045:00296027145:1863070101:0064/pct:68.0818570555895,107.43115805356469,14.599877825290164,9.983653967056457/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035045:00296027145:1863070101:0064/pct:51.08463183623587,80.57336854017352,10.953253895508707,7.494027411039859/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4993,7 +4993,7 @@ Her part and thine inverted see;
 Thou wert her guardian ahgel here,  
 She guardian angel now to thee.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn83045586:00200293605:1865110801:0048/pct:65.36273115220483,125.33818938605619,38.83357041251778,24.661810613943807/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn83045586:00200293605:1865110801:0048/pct:16.340682788051208,31.330472103004293,9.708392603129445,6.164650799843933/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5042,7 +5042,7 @@ Nearest the throne of living light.
 Behold the infant seraph stand,  
 And dazzling shine where all are bright.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84020712:00295879208:1868032401:0476/pct:7.2504182933630785,9.223811527135044,41.24372559955382,116.71224232225494/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84020712:00295879208:1868032401:0476/pct:5.439330543933054,6.9204880100967605,30.94839609483961,87.53681110643669/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5084,7 +5084,7 @@ Has quenched the radiance of the flame.
 Sack to its God the living fire  
 Returns, unsullied, as it came
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777043:1874122501:0210/pct:339.8174157303371,78.66065679330329,32.514044943820224,37.141017385705084/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777043:1874122501:0210/pct:84.99912172843844,19.665164198325822,8.132794660108905,9.285254346426271/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5126,7 +5126,7 @@ Has quenced the radiance of the flame:
 Tack to its God the livine fire  
 Keturns, unsullied, aa It came
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_gary_ver01:data:sn87056600:00202191575:1875021601:0077/pct:50.784615384615385,10.459444129325014,17.046153846153846,17.266023823028927/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_gary_ver01:data:sn87056600:00202191575:1875021601:0077/pct:38.104032009849185,7.850255246738514,12.788550323176361,12.943845717526942/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5172,7 +5172,7 @@ Returns, unsullied as it came.
   
 The Han Who invented the Circuiar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn87076794:00280775137:1875040101:0407/pct:206.6704675028506,193.3601828670948,36.431014823261116,50.07075214977686/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn87076794:00280775137:1875040101:0407/pct:51.674982181040626,48.3400457167737,9.109052031361369,12.517688037444215/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5196,7 +5196,7 @@ Tlieir part and thine inverted see.
 Thou wert their Kuni-dinn nnyel here;  
 They guni-dinn unjcels now to thee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jay_ver01:data:sn87091094:00202197462:1877080101:0180/pct:83.70917573872472,117.16025463603654,13.005443234836703,4.5945197896484915/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jay_ver01:data:sn87091094:00202197462:1877080101:0180/pct:62.81602489303773,87.87711043454193,9.762738234150136,3.445889842236369/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5228,7 +5228,7 @@ When infant innocence ascends,
 Some angel, brighter than the rest,  
 The spotless spirit&#x27;s flight attends.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_ferrari_ver02:data:sn86088181:00200296941:1884120401:1091/pct:223.2540291634689,65.33733952472002,48.96392939370683,13.38432122370937/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_ferrari_ver02:data:sn86088181:00200296941:1884120401:1091/pct:55.83493282149712,16.334334881180006,12.245681381957773,3.3460803059273423/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5259,7 +5259,7 @@ Let hope her healing charm impart,
 And soothe, with melodies divine,  
 The anguish of a mother&#x27;s heart.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_ferrari_ver02:data:sn86088181:00200296953:1885112601:0114/pct:118.47085541256624,281.5721474228206,49.43224829674489,21.705426356589147/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_ferrari_ver02:data:sn86088181:00200296953:1885112601:0114/pct:29.634538913084643,70.39303685570515,12.365082370763114,5.426356589147287/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

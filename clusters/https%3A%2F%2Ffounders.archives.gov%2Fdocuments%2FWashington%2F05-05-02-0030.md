@@ -1091,7 +1091,7 @@ sense of Gouverneur Morris&#x27; definition:
 for its object the happiness of mankind.&#x27;  
 Last Monday, July 1, the Governmen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775290:1889070401:0459/pct:5.724932249322493,105.01885320504486,14.718834688346883,4.12170068911715/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775290:1889070401:0459/pct:4.304355194034909,78.76739045637758,11.048974750042365,3.0945260694318035/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1108,7 +1108,7 @@ Last Monday, July 1, the Governmen
 for its object the happiness of man­  
 kind.&quot; If one were to hunt aroun
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_edina_ver01:data:sn90059522:00175033427:1889070601:0049/pct:5.594405594405594,91.73359032016276,10.601398601398602,1.2956419316843346/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_edina_ver01:data:sn90059522:00175033427:1889070601:0049/pct:5.594405594405594,91.73359032016276,10.615384615384615,1.2992111932041261/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1214,7 +1214,7 @@ made to endure.”
 “That iswbatl think,” said Mrs. Har­  
 rison, “and _ I am interested in bringin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016159:1892022501:0239/pct:13.385214007782102,83.73629463030643,11.264591439688717,7.3235872926623555/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016159:1892022501:0239/pct:13.382610387084226,83.72452565003513,11.267263178369967,7.326071679550246/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1564,7 +1564,7 @@ lieve in anything.&quot;
 embraces for its object the happiness  
 of mankin 1.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_elk_ver01:data:sn84020558:00202192658:1898111401:0118/pct:7.84789644012945,120.60377358490567,18.709546925566343,2.520754716981132/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_elk_ver01:data:sn84020558:00202192658:1898111401:0118/pct:5.887113089217075,90.46037735849056,14.040056645761684,1.8867924528301887/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1591,7 +1591,7 @@ eckers financial writings teem with
 that sort of sensibility which make  
 the fortune of modern romances H
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_dantley_ver01:data:sn85058130:00206534266:1899111001:0094/pct:86.3620199146515,86.78256423366994,19.292318634423896,1.7895947846094848/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_dantley_ver01:data:sn85058130:00206534266:1899111001:0094/pct:57.584919082340384,57.855042822446634,12.87568913391428,1.1973241297030124/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1608,7 +1608,7 @@ credit for serving at his own expense
 In an office which others seek for the  
 purpose of enrIching themselves I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_dantley_ver01:data:sn85058130:00206534266:1899111001:0094/pct:86.32645803698435,89.92713792662661,19.34566145092461,2.249776300651924/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_dantley_ver01:data:sn85058130:00206534266:1899111001:0094/pct:57.567134981326696,59.951425284417745,12.893473234927974,1.5041118070646384/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

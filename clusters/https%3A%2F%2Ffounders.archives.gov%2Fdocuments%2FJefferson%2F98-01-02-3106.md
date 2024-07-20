@@ -230,7 +230,7 @@ wards myself, 1 salute you with as­
 surances of great esteem and respect.  
 THOMAS JEFFKRSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216341:1825092401:0452/pct:3.3472803347280333,14.428523825391537,14.828451882845188,30.645340442074865/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216341:1825092401:0452/pct:3.3467202141900936,14.426921368280764,14.831548415885765,30.64563897527025/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -343,7 +343,7 @@ kind expression of your letter towards myself, I sa­
 lute you vvilh assurance of great esteem and r**pect  
 THOMAS JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183992:1825093001:0155/pct:47.07480818414322,35.33285440613027,14.977621483375959,19.659961685823756/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183992:1825093001:0155/pct:47.06728464120185,35.32862444630672,14.980555111608332,19.661598627239716/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -394,7 +394,7 @@ your letter towards t vself, 1 salute you with assurances
 of great esteem and respect,  
 THOMAS JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184534:1825093001:0220/pct:42.6668755875901,34.82598607888631,17.596364775932308,19.640371229698374/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184534:1825093001:0220/pct:42.66019113269623,34.82194640992924,17.598830226121468,19.641959556122647/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -658,7 +658,7 @@ culaily lor tins kind express! u of your
 l«tter towards my self, I salute you with  
 assurances ofi a l esteem and respect
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:0039334880A:1825100301:0458/pct:32.01754385964912,26.33298678152384,15.309106098579782,25.976533491757017/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:0039334880A:1825100301:0458/pct:32.01085821674671,26.32907632907633,15.311129672165379,25.976388476388475/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -896,7 +896,7 @@ present spirit of extending to the great
 t:  
 fii2pp:ness of the human race, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn87065188:00295877935:1839060101:0066/pct:0.1803968731208659,69.6999031945789,18.971737823211065,6.572012477143164/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn87065188:00295877935:1839060101:0066/pct:0.13531799729364005,52.27492739593417,14.23846038189746,4.937076476282672/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -991,7 +991,7 @@ the kind rxprrssionsolyoor letter towards my self.
 I salute you with assurances of great esteem and  
 respect. TH JI.FFKRSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852042901:0433/pct:2.5762428631109873,52.23062589060616,16.084110848071298,15.948701085169352/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852042901:0433/pct:2.5762428631109873,52.23062589060616,16.093394606136563,15.959662391757098/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1142,7 +1142,7 @@ ginia, and permit me to say, that I 12ok to the diffusion of light and
 education as the resource most to be relied on for ameliorating the  
 condition, promoting the virtue, and advancing the happiness o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184716:1861040501:0323/pct:220.16782818944674,254.20475319926874,38.0742426397383,11.954093032703636/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184716:1861040501:0323/pct:73.37883959044369,84.72631258251243,12.68960940462647,3.9842930164855623/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1221,7 +1221,7 @@ that “ th.e parent who sends his son into
 the world uneducated defrauds the com­  
 munity of a lawful citizen, and be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn85033153:00271769726:1873061201:0508/pct:37.03751617076326,84.57700650759219,10.064683053040104,8.66594360086768/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn85033153:00271769726:1873061201:0508/pct:35.18495760108148,80.3510097540871,9.577649420343288,8.242890506937766/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1267,7 +1267,7 @@ lied on for ameliorating the condition,
 promoting the virtue, and advancing  
 the happiness of man. . . A systern
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_floydcouncil_ver01:data:sn93067777:00237287034:1893112201:0276/pct:13.664596273291925,52.649129307150794,11.736542443064183,6.317154501667284/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_floydcouncil_ver01:data:sn93067777:00237287034:1893112201:0276/pct:13.668909592822637,52.649129307150794,11.745169082125605,6.3264171915524265/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1292,7 +1292,7 @@ be relied on for ameliorating the condi­
 tion, promoting the virtue and advanc­  
 ing the happiness of man.&quot; In re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_beaver_ver01:data:sn92070477:00280773505:1894091201:0062/pct:51.80635838150289,40.83475713937027,31.177745664739884,13.20478398828411/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_beaver_ver01:data:sn92070477:00280773505:1894091201:0062/pct:38.88688109866281,30.632169880400294,23.38272497289483,9.909690017085673/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

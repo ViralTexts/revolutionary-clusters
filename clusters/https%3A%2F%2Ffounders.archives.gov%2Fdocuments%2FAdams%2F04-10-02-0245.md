@@ -331,7 +331,7 @@ Soon after the American revolutionary war com­
 menced, very rapid fortunes were made in a certain  
 commercial city, tiie name of which it would be in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_lyle_ver01:data:sn85059803:00514157832:1825022601:0221/pct:7.44006613392119,70.86019115358968,26.81179388261229,18.13736385863525/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_lyle_ver01:data:sn85059803:00514157832:1825022601:0221/pct:7.43801652892562,70.84444444444445,26.813590449954088,18.14074074074074/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

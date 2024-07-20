@@ -237,7 +237,7 @@ of Washington, that men may find enough to do in
 the service of God and their country, without  
 abandoning themselves to vice and immorality
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:00271743427:1862111701:0637/pct:14.656415185007209,162.99697744710534,45.60307544449784,6.1032318065566145/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:00271743427:1862111701:0637/pct:4.885471728335736,54.33232581570177,15.201025148165947,2.034410602185538/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -255,7 +255,7 @@ ton in 1776, &quot;Mon may find enough to do in the service of
 God and their country without abandoning themselves to  
 vice and immorality.&quot; The first general order issued b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:00271743427:1862111701:0638/pct:55.38535184298708,45.163130276066624,46.19435136428913,6.331279945242985/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:00271743427:1862111701:0638/pct:18.461783947662358,15.054376758688873,15.398117121429712,2.110426648414328/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -274,7 +274,7 @@ ington in 1776, &quot;men may find enough to do
 in the service of God and their country with­  
 out abandoning themselves to vice and im
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deltaair_ver01:data:sn86053570:00237288889:1862111701:0032/pct:120.68014705882354,134.5500089461442,49.724264705882355,10.878511361603149/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deltaair_ver01:data:sn86053570:00237288889:1862111701:0032/pct:30.183908045977013,33.63750223653605,12.436781609195402,2.719627840400787/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -293,7 +293,7 @@ enough to do in the service of God and their
 country, without abandoning themselves to  
 vice and immorality. The first general orde
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172157:1862111701:1091/pct:6.597152596751554,113.29309583394671,16.08181271305394,2.9442072721919623/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172157:1862111701:1091/pct:5.112665112665113,87.80376497432972,12.483812483812484,2.2856056284464725/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -312,7 +312,7 @@ ton in 1778, “Men may ttnd enough to do m
 the service of Hod and their country, without  
 abandoning themselves to vice and .immorali
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_damariscotta_ver02:data:sn83016025:00279525152:1862111701:0484/pct:30.854747585201384,52.07341944255609,12.192454893384364,2.107409925220938/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_damariscotta_ver02:data:sn83016025:00279525152:1862111701:0484/pct:30.849125364431487,52.066340402392605,12.194788629737609,2.110522022838499/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -331,7 +331,7 @@ enough to do in the service of God and their
 country without abandoning themselves to vice  
 I and immorality.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dior_ver01:data:sn85025007:00415663535:1862111701:0063/pct:40.75283869964225,25.87495936721205,28.806968424327266,5.53689457145953/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dior_ver01:data:sn85025007:00415663535:1862111701:0063/pct:40.75802353917146,25.878571170585474,28.812153263856484,5.544118178206379/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -379,7 +379,7 @@ IVashirgtoD in 1770, “men-may find enough
 to do in the service ct God and their country  
 without absndonißg fnem-srives to vice an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1862111901:0001/pct:34.59248232229252,42.79149913842619,9.936732415333084,1.3641585295807008/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1862111901:0001/pct:34.59248232229252,42.79149913842619,9.959992556754745,1.3713383113153361/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -398,7 +398,7 @@ enough to do in the service of God and their
 country, without abandoning themselves to  
 vice and immorality. The first general orde
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_hera_ver01:data:sn83021295:0051717158A:1862111901:0154/pct:5.346224939570596,61.622412241224126,10.336982795393146,1.9464446444644465/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_hera_ver01:data:sn83021295:0051717158A:1862111901:0154/pct:5.350964500687236,61.622412241224126,10.341722356509788,1.9501950195019502/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -427,7 +427,7 @@ may find enough to do in the service of
 God and their country, without abandon­  
 ing themselves to vice and immorality.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775629:1862112001:0284/pct:105.84795321637426,259.77945443993036,43.64035087719298,9.34416715031921/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775629:1862112001:0284/pct:26.461988304093566,64.94486360998259,10.910087719298245,2.3360417875798025/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -445,7 +445,7 @@ Washington in 1776, &quot;Men may find enough
 to do in the service of God and their country  
 without abandoning themselves to vice and i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774686:1862112001:0311/pct:126.15384615384616,338.00446956750363,48.32167832167832,7.2038911528855/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774686:1862112001:0311/pct:31.54949282966072,84.50111739187591,12.084644980762505,1.800972788221375/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -463,7 +463,7 @@ sei vice of God and their country
 without abandoning themselves to vice  
 and immorality.” &#x27; The first genera
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85033123:00514151386:1862112001:0239/pct:26.099210822998874,41.9458418067002,11.189402480270575,2.0550144493203466/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85033123:00514151386:1862112001:0239/pct:26.099210822998874,41.952977273538124,11.208192408868847,2.058582182739306/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -522,7 +522,7 @@ may find enough to do in the service of God
 and their country, without abandoning  
 themselves to vice and immorality.&quot; Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009571:00279523891:1862112101:0608/pct:212.45535020965988,155.25317867499442,37.05544339183103,7.372295337943341/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009571:00279523891:1862112101:0608/pct:70.80745341614907,51.745288279246125,12.349896480331262,2.45715772647857/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -541,7 +541,7 @@ the service of God and their c entry,
 without abandoning themselves to v:  
 ami immorality.” The first G ne-nl or
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:00332895035:1862112101:0609/pct:3.536067892503536,27.231818841631586,12.851081026469993,2.728988242125127/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:00332895035:1862112101:0609/pct:3.5353535353535355,27.227866473149493,12.853535353535353,2.7322206095791/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -560,7 +560,7 @@ may find enough to do in the service of
 God and their country, without abandon­  
 ing themselves to vice and immorality.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn85038443:00280776385:1862112101:0672/pct:22.300263388937665,213.87992253066494,50.39508340649693,11.29761136216914/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn85038443:00280776385:1862112101:0672/pct:5.57628979143798,53.469980632666235,12.601536772777168,2.824402840542285/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -579,7 +579,7 @@ may find enough to do in the service of God and
 their country without abandoning themselves to  
 vice and profanity. The first general order is
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280777006:1862112101:0187/pct:255.4909090909091,345.27981910684,42.90909090909091,7.518371961560203/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280777006:1862112101:0187/pct:63.872727272727275,86.31995477671,10.727272727272727,1.8795929903900508/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -596,7 +596,7 @@ in 1776, men may find enough to do in the
 ervice of God and their country without  
 abandoning themselves to vice and profanity
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:0028077764A:1862112101:0424/pct:328.04597701149424,95.2179815960175,49.11877394636015,5.913410770855332/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:0028077764A:1862112101:0424/pct:82.01149425287356,23.804495399004374,12.279693486590038,1.478352692713833/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -615,7 +615,7 @@ may find enough to do in the service of
 God and their country without abandon­  
 ing themselves to vice and immorality.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jay_ver01:data:sn84023428:00202197413:1862112101:0434/pct:108.87358184764992,89.82952903785034,18.456239870340358,5.027448714244438/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jay_ver01:data:sn84023428:00202197413:1862112101:0434/pct:81.71498074194203,67.37937012424155,13.845530103385364,3.7705865356833286/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -651,7 +651,7 @@ Washington in 1776, &#x27;&#x27;men may find enough to
 do in the service of God and tbeir country with­  
 out abandoning themselves to vice and immorali
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84027060:00415668909:1862112201:0466/pct:81.85668304252076,58.893138895529525,14.009825512451297,1.960315562993067/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84027060:00415668909:1862112201:0466/pct:81.86232988875713,58.893138895529525,14.02111920492405,1.972268706669854/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -671,7 +671,7 @@ may find enough to do in the service of
 God and their country, without abandon-  
 ing themseives to vice and immortant
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn86059058:00296022007:1862112201:0434/pct:124.1891891891892,72.55570117955439,48.445945945945944,12.634338138925294/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn86059058:00296022007:1862112201:0434/pct:31.057789793849274,18.138925294888598,12.115579587698546,3.1585845347313235/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -694,7 +694,7 @@ to do in the service of God and their
 country, without abandoning themselves  
 to vice and immortality.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn85025181:00237287952:1862112201:0209/pct:283.7837837837838,174.5237418254194,51.424397370343314,20.415126528291157/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn85025181:00237287952:1862112201:0209/pct:70.95890410958904,43.63093545635485,12.858447488584474,5.103781632072789/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -732,7 +732,7 @@ may- find enough to do in the service of God
 and their country without abandoning  
 themselves to vice and immorality.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kalmia_ver01:data:sn82002197:00332898759:1862112401:0009/pct:43.03900325027086,67.57548032936872,37.29685807150596,7.429094236047575/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kalmia_ver01:data:sn82002197:00332898759:1862112401:0009/pct:33.354324097397146,52.370597967383596,28.92527287993283,5.762231151028126/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -810,7 +810,7 @@ to o in the service of God and their
 country, without abandoning themselves  
 to vice and immorality.&quot; The first orde
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293757:1862112501:0764/pct:204.18250950570342,85.65656565656566,56.045627376425855,15.084175084175085/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293757:1862112501:0764/pct:51.05533371363377,21.414141414141415,14.014071116181784,3.771043771043771/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -830,7 +830,7 @@ the service of God and their country
 without abandoning themselves to vice  
 and immorality.&quot; The first general or
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528293:1862112601:1168/pct:55.06571285975711,218.00291545189503,43.33721510563966,10.65354713313897/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528293:1862112601:1168/pct:18.355237619919038,72.66763848396502,14.445738368546554,3.55118237771299/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -849,7 +849,7 @@ ing on in 177G, &quot;Me may find enough to
 do in the service of God and their country  
 without abandoning themselves to vice an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_datsun_ver01:data:sn89064562:00212472591:1862112601:0161/pct:56.228140973903685,18.23434015811879,12.34866828087167,2.3312385972025136/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_datsun_ver01:data:sn89064562:00212472591:1862112601:0161/pct:56.228140973903685,18.237718764781405,12.366603892027621,2.3413744171903508/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -868,7 +868,7 @@ may find enough to do in the service of
 God and their country, without abandon­  
 ing themselves to vice and immorality
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn85026002:00280775058:1862112601:0282/pct:20.220588235294116,270.8310895709926,56.61764705882353,14.862681744749596/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn85026002:00280775058:1862112601:0282/pct:5.057471264367816,67.70777239274815,14.160919540229886,3.715670436187399/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -887,7 +887,7 @@ men may find enough to do in the service of
 God and their country without abandoning  
 themselves to vice and immorality.&quot; The frs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200290021:1862112601:0615/pct:68.12396236856668,246.62397483428828,42.833425567238514,8.088978766430738/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200290021:1862112601:0615/pct:17.038062283737023,61.65599370857207,10.71280276816609,2.0222446916076846/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -937,7 +937,7 @@ in the service of God and their
 country without abandoning them­  
 selves to vice and immorality.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn88077265:00280774819:1862112701:0425/pct:255.58510638297872,165.07162450472416,55.141843971631204,15.665955501371533/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn88077265:00280774819:1862112701:0425/pct:63.910441143870536,41.26790612618104,13.788516958545777,3.9164888753428833/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -956,7 +956,7 @@ enough to do in the service of God and their
 country without abandoning themselves to  
 vice and immorality.&quot; Tho first genera
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027253:00279528529:1862112801:0361/pct:15.977765108323831,82.9526082509376,11.046180159635119,2.238890783043528/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027253:00279528529:1862112801:0361/pct:15.987267198783732,82.9526082509376,11.046180159635119,2.2540440201538052/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -978,7 +978,7 @@ toils in the service of God and their coun­
 try, without abandoning themselves to vice  
 and immorality.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn82016419:00212472931:1862112901:0015/pct:97.55929398786542,54.685696295518945,21.387203530060674,6.66386819183545/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn82016419:00212472931:1862112901:0015/pct:65.07104428196993,36.457130863679296,14.264036418816389,4.449574981635009/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -997,7 +997,7 @@ may find enough to do in the service of
 God and their country, without abandon­  
 ing themselves to vice and immorality,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271769428:1862112901:0104/pct:80.86246491451901,47.10508208001573,11.584587905077825,2.3591860808021234/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271769428:1862112901:0104/pct:80.87097048566811,47.10508208001573,11.588840690652377,2.3690160228054653/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1074,7 +1074,7 @@ to do in the service of God and their
 country without abandoning themsalves  
 to vice and immorality.” The first genera
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_naomi_ver01:data:sn85033019:0027176912A:1862120401:0035/pct:79.26608523942735,28.544254224012533,14.842850090505184,2.450486740516952/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_naomi_ver01:data:sn85033019:0027176912A:1862120401:0035/pct:79.27157040206242,28.54798403640297,14.848335253140256,2.4467569281265154/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1136,7 +1136,7 @@ vice of their God and their country,
 without abandoning themselves to vice  
 and inhumanity
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293769:1863012301:0054/pct:87.32600732600733,289.1992808740147,53.772893772893774,17.867514866546813/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293769:1863012301:0054/pct:21.83950164895566,72.29982021850367,13.448149505313301,4.466878716636703/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1160,7 +1160,7 @@ God and their country, without
 abandoning themselves to vice and  
 inhumanity.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn88077265:00280774819:1863012901:0459/pct:206.09756097560975,337.3341375150784,55.05226480836237,21.89384800965018/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn88077265:00280774819:1863012901:0459/pct:51.55807365439094,84.3335343787696,13.77206363042057,5.473462002412545/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1182,7 +1182,7 @@ of their God and their country, without
 abandoning themselves to vice and inhu  
 manity.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014487:00279557244:1863030701:0251/pct:70.34234915831284,37.87671232876713,12.105163608851901,3.9863013698630136/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014487:00279557244:1863030701:0251/pct:70.34707773784756,37.87671232876713,12.105163608851901,3.993150684931507/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1203,7 +1203,7 @@ country, without abandoning themselves to
   
 vice and immorality.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156384:1863080501:0523/pct:56.75675675675676,240.9315866084425,81.46718146718146,14.38136826783115/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156384:1863080501:0523/pct:14.192614047791455,60.232896652110625,20.3717113202993,3.5953420669577874/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1247,7 +1247,7 @@ ington iTtr??&#x27; met may And enough to do in#
 the service of God and their country without .  
 abandoning themselves to vice and immorality
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kershawhogjam_ver03:data:sn84027012:00415620202:1864060201:0023/pct:70.12409271833295,60.97141964704045,23.4605478810583,3.389036389192566/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kershawhogjam_ver03:data:sn84027012:00415620202:1864060201:0023/pct:70.13970186529306,60.981831433182364,23.46835245453836,3.3838304961216097/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1316,7 +1316,7 @@ God and their country, without aban­
 doning themselves to vice and immoral­  
 ity.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_cardinal_ver01:data:sn85052141:00202195192:1876092901:0185/pct:145.2887537993921,236.01659751037346,39.10840932117528,15.435684647302905/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_cardinal_ver01:data:sn85052141:00202195192:1876092901:0185/pct:36.32218844984803,59.004149377593365,9.77710233029382,3.858921161825726/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1490,7 +1490,7 @@ enough to do in the service of God and their
 country without abandoning themselves to  
 vice and immorality.’ The first general orde
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:00414210193:1886111401:0116/pct:5.241605241605241,46.90837824595786,14.4007644007644,2.439980401763841/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:00414210193:1886111401:0116/pct:5.246155246155246,46.91164461865099,14.4007644007644,2.439980401763841/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1536,7 +1536,7 @@ ington in 1776] men may find enough to’ do in the
 service of their God and their countryfwithout aban­  
 doning themselves to vice and immorality.’ Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_engledinger_ver02:data:sn85040310:00514152111:1889080101:0494/pct:37.60636071976566,24.666604495010723,14.116334216766633,1.4921197426093444/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_engledinger_ver02:data:sn85040310:00514152111:1889080101:0494/pct:37.60636071976566,24.67282166060493,14.125633514669643,1.49833690820355/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1582,7 +1582,7 @@ of Wanhintrton la 1776.1 men may find enough to
 do in the eervice of their God and their country  
 without abandoning themselves to vice and ini
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_ashbel_ver01:data:sn82015679:00295870345:1889081801:0446/pct:87.67857142857143,113.32519332519333,18.285714285714285,1.8884818884818886/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_ashbel_ver01:data:sn82015679:00295870345:1889081801:0446/pct:65.7775660871636,84.997964997965,13.717551798047154,1.4163614163614164/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1600,7 +1600,7 @@ may find enough to do in the service of their j
 God und their country without abandoning n  
 themselves to vlco und immorality. &#x27; The 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_dewitt_ver01:data:sn99021999:00206539641:1889090801:0557/pct:84.82709950599859,64.49404354374914,13.832039520112914,1.6979323565657949/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_dewitt_ver01:data:sn99021999:00206539641:1889090801:0557/pct:84.82709950599859,64.49404354374914,13.832039520112914,1.7082021087224428/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1636,7 +1636,7 @@ ing the words of Washington in 1776, &quot;men may find
 enough to do in the service of God and their country  
 without abandoning themselves to vice and immoral
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:00175045156:1894082701:0210/pct:285.3252647503782,196.66513691295702,50.22692889561271,5.262352761205446/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:00175045156:1894082701:0210/pct:71.3448080196709,49.166284228239256,12.559107244183847,1.3155881903013615/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

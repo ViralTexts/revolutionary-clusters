@@ -165,7 +165,7 @@ nies, should become interested, by their 4
 own engagements, in the preservation of  
 these islands. Citizen Genet will find th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794010601:0001/pct:68.51426697277796,47.726349979699556,20.07215480485405,6.59764514819326/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794010601:0001/pct:68.52246638242046,47.73650020300447,20.063955395211543,6.59764514819326/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -217,7 +217,7 @@ to receive him, it was intended that he
 French. Republic ; and verbal anlwers  
 were given, that such was the intention o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797052301:0293/pct:24.27259996888128,5.81,15.99502100513459,6.41/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797052301:0293/pct:24.282972874850888,5.81,15.99502100513459,6.41/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2128,7 +2128,7 @@ whom nature had placed so near her rich
 own engagements in the prefervanon of  
 those lflands.”” But at this time, France
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798050101:0491/pct:41.578125,22.754961682059342,17.078125,22.106504224798584/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798050101:0491/pct:41.583333333333336,22.76151175738521,17.078125,22.106504224798584/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2169,7 +2169,7 @@ rantee allows a Jatitude for the exercile of
 5 judémcm and discretion.  
 ] n the part of the U. S. instead of troop
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798050101:0491/pct:41.578125,52.86893299272942,17.0625,15.897032815877383/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798050101:0491/pct:41.583333333333336,52.86893299272942,17.078125,15.906857928866183/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2212,7 +2212,7 @@ Art, 8. The flipulation of doing us good
 offices to secure peace to the United States  
 with the Barbary powers, has never ye
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798050101:0491/pct:59.71875,17.233248182354096,16.578125,16.781292984869324/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798050101:0491/pct:59.71875,17.23652322001703,16.583333333333332,16.787843060195193/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2230,7 +2230,7 @@ France during the prefest&#x27;war. = .~
 8. That no engagement ‘be made incon­  
 filent with the obligations of any prio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798050101:0492/pct:6.661442006269592,84.9848083896893,16.598746081504704,2.3718514162501223/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798050101:0492/pct:6.666666666666667,84.9848083896893,16.60919540229885,2.375118429220164/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2254,7 +2254,7 @@ tenth article of the treaty with Great Brit­
 ain ; which therefore may very properly  
 be introduced into the Treaty with France
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798050101:0492/pct:24.435736677115987,7.978045672841321,16.41065830721003,5.812016073703813/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798050101:0492/pct:24.435736677115987,7.981312685811362,16.415882967607107,5.818550099643896/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2292,7 +2292,7 @@ of language, and be calculated to, impress
 an idea of inflexible perseverance, rather  
 than of distrust and confidence
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798050101:0492/pct:24.435736677115987,13.731255513084387,16.567398119122256,13.750857590904635/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798050101:0492/pct:24.435736677115987,13.73778953902447,16.567398119122256,13.750857590904635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2451,7 +2451,7 @@ tentiary from the United States until
 grievances of which France has complained  
 have been redressed.&quot; &quot;The i&#x27;xeeutivo Di
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn83035487:00211100473:1848011401:0510/pct:28.208773354995937,93.2274638019617,17.831031681559708,4.779697960454616/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn83035487:00211100473:1848011401:0510/pct:21.17455801666328,69.92059785147127,13.391587075797602,3.596450256889304/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2471,7 +2471,7 @@ burdens on the people; and
 W hereas, Of all modes of raising revenue, that which  
 would tax domestic industry, while admitting the come
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fortran_ver01:data:sn83030214:00206530947:1870032301:0594/pct:151.35532331809276,23.9572561185798,48.154800783801434,9.617373319544985/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fortran_ver01:data:sn83030214:00206530947:1870032301:0594/pct:50.45177443936425,7.9857520395266,16.051600261267147,3.2057911065149947/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2493,7 +2493,7 @@ dcons on the people: and
 Whereat, Of all modes of raising revenue,  
 that which would tax domestic industry
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn87058333:00279528943:1870091501:0149/pct:35.46006944444444,80.73006064767137,10.691550925925926,3.089598352214212/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn87058333:00279528943:1870091501:0149/pct:35.46971450617284,80.73768928557806,10.691550925925926,3.089598352214212/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

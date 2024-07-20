@@ -159,7 +159,7 @@ the beginning of each month, and to return
 in 24 days. To him all merchants, &amp;c. may  
 confide their letters and other business, h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn84021903:00414187432:1831070901:0104/pct:2.2456461961503207,76.10428429093325,15.123739688359304,5.330454998339422/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn84021903:00414187432:1831070901:0104/pct:2.245131729667812,76.09164868005978,15.126002290950744,5.333720737174166/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -203,7 +203,7 @@ carefully e;onveyed, and business faithfully transacted ‘
 Honorable Col. Spotswood, Postmaster General of all i  
 His Majesty’s dominions in America
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barnes_ver02:data:sn83030362:print00211110041:1853050801:0004/pct:4.45959380769777,81.8369789966264,9.955972163045022,3.3627162912177604/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barnes_ver02:data:sn83030362:print00211110041:1853050801:0004/pct:4.463144439710269,81.8369789966264,9.963073427070018,3.3681575797148766/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -230,7 +230,7 @@ rity for same to the Honorable Cola Spotswood,
 Postmaster general of all His Majesty&#x27;s domin­  
 ions in America.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202190923:1853052101:0475/pct:193.68457780879274,82.01946472019465,41.974877878576415,17.63990267639903/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202190923:1853052101:0475/pct:64.56152593626425,27.339821573398215,13.991625959525472,5.879967558799676/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -280,7 +280,7 @@ ness carefully transacted,--he having given
 Col Spotswood, Postmaster General of all hi  
 Majesty&#x27;s dominions in America
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777626:1853052601:0506/pct:339.29903057419835,257.6648586925492,51.30499627143922,24.322009705966316/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777626:1853052601:0506/pct:84.84057430542607,64.4162146731373,12.828640686183107,6.080502426491579/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -306,7 +306,7 @@ good security for the same to the Honorable Colg
 Spotswood, Postmaster General of His Majesty&#x27;s  
 dominions in America.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn86092535:00202190534:1853052601:0443/pct:66.77425479400038,267.4222222222222,57.2242263147902,27.096296296296295/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn86092535:00202190534:1853052601:0443/pct:16.693563698500096,66.85555555555555,14.30605657869755,6.774074074074074/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -355,7 +355,7 @@ same to the - Honorable Col. Spotswood,
 Postmaster. General :.of His Majesty&#x27; do:  
 minions in America. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027509:1853060101:0185/pct:40.92128801431127,99.63143502556177,16.532498509242696,29.663535845916062/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027509:1853060101:0185/pct:30.708426547352722,74.72357626917132,12.408650260999254,22.256568778979908/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -408,7 +408,7 @@ carefully conveyed, and business falthfully transacted,
 he having given good scourity for the same to the hanors.  
 ble Col Spotswood, Postmaster General of all his Majesty&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743075:1853060801:1203/pct:105.92083193559208,271.54830671650245,47.01442468970144,8.517385887416468/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743075:1853060801:1203/pct:35.3069439785307,90.51610223883415,15.671474896567148,2.839128629138823/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -440,7 +440,7 @@ Spotswood, Postmaster General of all his Ma
   
 jesty&#x27;s dominions in America.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_imogen_ver01:data:sn87091069:00280779714:1853060901:0261/pct:96.44707623982235,204.22297297297297,57.88304959289415,26.126126126126128/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_imogen_ver01:data:sn87091069:00280779714:1853060901:0261/pct:24.125162007035733,51.05574324324324,14.478800222181077,6.531531531531532/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -528,7 +528,7 @@ rity for the same to the lion. Col. Spotswood,
 IVstinnster General of all His Majesty’s do­  
 minions in America
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624475:1854110401:0171/pct:5.892481346852879,99.33323670097116,16.12779797206811,9.798521524858675/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624475:1854110401:0171/pct:4.576455470989424,76.99018947053096,12.493822279331818,7.5863101924661125/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -555,7 +555,7 @@ the same to the Hon. Col. Spotswood,
 Postmaster General of all His Majesty&#x27;s  
 dominions in America
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85038078:00296026815:1854112401:0439/pct:41.69456066945607,101.39555822328931,17.803347280334727,12.079831932773109/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85038078:00296026815:1854112401:0439/pct:31.29579233828763,76.05042016806723,13.355662549717396,9.063625450180073/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -583,7 +583,7 @@ for the same to the Hon. Col. Spotswpod,
 Postmaster General of all His Majesty’s  
 dominions in America.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn86058097:00279557529:1854121601:0204/pct:79.86757055021283,81.38894770273131,14.31499290556519,9.199661232267626/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn86058097:00279557529:1854121601:0204/pct:79.86757055021283,81.39247653327688,14.325503179357822,9.203190062813183/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -777,7 +777,7 @@ most beautiful and Intelligent boy, four
 years of age. So engaging was he, and  
 so rooted In the hearts of his parents
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028821:00280775484:1872021501:0408/pct:74.44289693593315,119.64380648591175,13.004874651810585,9.077618288144604/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028821:00280775484:1872021501:0408/pct:55.851619644723094,89.73950026581606,9.770114942528735,6.804891015417331/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -806,7 +806,7 @@ most beautiful and intelligent boy, four
 years of age. So engaging was he, and  
 so rooted in tho hearts of his parent
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026259:00280776075:1872021501:0578/pct:42.22922848664688,21.912849784212725,16.227744807121663,9.146596129750801/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026259:00280776075:1872021501:0578/pct:31.68831168831169,16.441598218014757,12.170686456400743,6.863427537240708/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -852,7 +852,7 @@ wards return it into the same pew
 again; upon which no further notice  
 will be taken.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237286856:1872040301:0155/pct:73.08537350910233,58.278402481582006,12.602008788449467,5.389685924777045/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237286856:1872040301:0155/pct:54.82655784021347,43.71203308776011,9.449066080678072,4.0454956701563916/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -870,7 +870,7 @@ The person who took it is desired to
 open it and read the Eighth Com­  
 mandment, and afterwards return it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_grange_ver01:data:sn84026409:00280776464:1873040201:0177/pct:213.52334748332322,92.34579018460153,40.81261370527592,5.628095452498874/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_grange_ver01:data:sn84026409:00280776464:1873040201:0177/pct:53.380836870830805,23.08644754615038,10.20315342631898,1.4070238631247185/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1003,7 +1003,7 @@ month, and to return in twenty-four days. To him
 all merchants, etc., may confide their letters and  
 other business, he having given security to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ginsberg_ver01:data:sn85026214:print00205958228:1880041801:0001/pct:44.90203193033382,37.821502057613166,12.028301886792454,2.816358024691358/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ginsberg_ver01:data:sn85026214:print00205958228:1880041801:0001/pct:44.9111030478955,37.821502057613166,12.023766328011611,2.8227880658436213/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1043,7 +1043,7 @@ Franklin, Post-Master, at the No w Printing
 Office near the Market. Price 10s. a year.”  
 The ancient document has been put in 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_bobbsey_ver02:data:sn86063034:00414181995:1889041701:0848/pct:26.010234692076935,10.527758738862234,15.846126698429504,4.9074708704592185/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_bobbsey_ver02:data:sn86063034:00414181995:1889041701:0848/pct:20.15772439257875,8.166011544318142,12.294297305921502,3.796168419561599/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1118,7 +1118,7 @@ Where advertisements are taken inv and
 Book Binding is done reasonably, in the  
 best manner:
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_audi_ver01:data:sn89081128:00280766240:1897021701:0061/pct:50.079744816586924,43.74643712233497,13.636363636363637,3.35195530726257/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_audi_ver01:data:sn89081128:00280766240:1897021701:0061/pct:50.079744816586924,43.75403792802037,13.652312599681022,3.35195530726257/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1162,7 +1162,7 @@ Where advertisements aro taken in and
 Book Binding is dono reasonably in tho  
 best manner Mgk
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_casablanca_ver01:data:sn86069675:00206534199:1897030201:0473/pct:26.560121765601217,64.47297297297297,18.74048706240487,4.702702702702703/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_casablanca_ver01:data:sn86069675:00206534199:1897030201:0473/pct:19.927674153026267,48.361486486486484,14.065473924628854,3.5304054054054053/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1182,7 +1182,7 @@ Where advertisements are taken in, und
 Hook Finding is tlone reasonably, in the  
 best manner:
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_asburypark_ver01:data:sn84026089:00514155914:1897030301:0039/pct:15.83604189237992,54.36457895474289,10.617551462621885,2.704217458315819/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_asburypark_ver01:data:sn84026089:00514155914:1897030301:0039/pct:15.833182884997292,54.35696273465957,10.620148041162665,2.707340991874475/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

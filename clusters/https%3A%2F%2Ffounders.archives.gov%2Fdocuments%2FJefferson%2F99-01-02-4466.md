@@ -66,7 +66,7 @@ of tl i
 rivei  
 foriv 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806102701:0003/pct:3.5989717223650386,7.626092804303967,18.35904027420737,13.006052454606591/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806102701:0003/pct:3.6132533561839475,7.626092804303967,18.351899457297915,13.023985653440933/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -108,7 +108,7 @@ and declare!! his equal title to whaUsver
 merit may be ascribed tothe success of  
 this enterprise
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806102701:0003/pct:3.5347043701799485,32.723604572965705,18.42330762639246,17.41761936785474/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806102701:0003/pct:3.541845187089403,32.723604572965705,18.42330762639246,17.431069266980497/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -156,7 +156,7 @@ sectionate terms, and declares his equal title
 to whatever merit may be ascribed in the  
 success of his enperprize
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216055:1806102801:0121/pct:24.404398289554063,59.85232630548884,23.62553451435553,23.352014945289564/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216055:1806102801:0121/pct:24.400671858298978,59.847002312755734,23.62701684735583,23.352902804957598/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -222,7 +222,7 @@ in the mod afledtioKate terms, and declares his equal
 itle to whatever merit may be aferibed to the fuccefs  
 af this enterprize
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1806103101:0203/pct:20.33772499536092,2.505863473645229,36.797179439599184,92.91445500555487/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1806103101:0203/pct:20.333951762523192,2.505554184152061,36.7965367965368,92.90710112729367/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -298,7 +298,7 @@ terms, and declares liisequal title to what­
 ever merit may be ascribed to the success oS  
 this enierorize
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806110101:0361/pct:78.45261121856866,12.187580520484412,19.941972920696326,36.27930945632569/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806110101:0361/pct:78.43743956681493,12.186010562926704,19.944562624895248,36.27892996693718/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -504,7 +504,7 @@ m the most affectionate terms, and declares his equal
 iitle to whatever merit may be ascribed to the suc­  
 cess of this enterprise. , Nat. Intel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1806110301:0191/pct:6.852728631946175,1.4448051948051948,44.38076252180414,95.84415584415585/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1806110301:0191/pct:6.851021425012457,1.4445706865768544,44.37593423019432,95.83265703619543/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -526,7 +526,7 @@ Utter part of June to the laft of Septennher ;
 and the cheap rate at which horfes are to hr oh­  
 talned 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1806110401:0207/pct:3.1845954452879095,3.434444722988218,17.755971116459914,5.0012534469791925/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1806110401:0207/pct:3.1840059237319513,3.4340142875047,17.758854745156114,5.004804277896144/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -694,7 +694,7 @@ affectionate ternm, and declares his etfual
 title hi whatever mark shy be ascribed  
 In tfcfestKceaidf hiaciterpriua
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1806110701:0673/pct:26.920950801547818,24.342444559051057,20.757324488667773,47.790957538249955/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1806110701:0673/pct:26.913512019895,24.338260570642834,20.75849682232661,47.78704022000687/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -818,7 +818,7 @@ declares his equal title to whatever
 merit may he aferibed to the fuceeL  
 of hi* enterprize/—Nat. Intel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1806111001:0079/pct:57.930565010211026,40.987168874172184,17.85228046289993,46.53352649006622/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1806111001:0079/pct:57.920707844138164,40.982928091050184,17.8534966819806,46.53129849974133/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -957,7 +957,7 @@ qual title to whatever merit may be
 ascribed to the fuccefls of this enter­  
 prize. T — 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1806111101:0392/pct:43.86588380716935,32.52136332383852,16.764524103831892,46.83233474118456/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1806111101:0392/pct:43.87103419859909,32.527911469076386,16.76967449526164,46.825786595946695/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1000,7 +1000,7 @@ to the Pacific or great ocean. In all
 Miflouri to the mouth.of the Colum­  
 bia. A more particular history o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1806111801:0396/pct:78.26222360635316,58.84330202669303,16.365618187480536,19.48591201186357/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1806111801:0396/pct:78.27260458839406,58.8498928983358,16.355237205439636,19.492502883506344/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

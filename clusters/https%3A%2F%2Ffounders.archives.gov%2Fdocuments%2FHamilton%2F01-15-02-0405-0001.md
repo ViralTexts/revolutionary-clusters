@@ -265,7 +265,7 @@ surplus of revenue and income, beyond the
 a- ven hundred and ninety four : And thirdly,  
 ;h the surplus which may remain unexpended
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794040401:0002/pct:49.971687429218576,72.87979351032449,20.2718006795017,6.803097345132743/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794040401:0002/pct:49.992921857304644,72.88440265486726,20.264722536806342,6.816924778761062/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -326,7 +326,7 @@ Anil that—
 It may be expe&amp;ed, that the revenue*  
 of the United States will prove adequat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794121001:0003/pct:40.030911901081915,5.737840065952184,31.761978361669243,85.07831821929102/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794121001:0003/pct:40.037351880473985,5.746084089035449,31.76841834106131,85.08244023083265/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -385,7 +385,7 @@ revenue and income beyond the appro­
 priations heretofore charged thereupon,  
 j- to the end of the year one thousand fev
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1795011301:0003/pct:56.101384896785994,58.04692663582287,17.036843480533054,6.2128222075347/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1795011301:0003/pct:56.1079174287954,58.0593192333113,17.036843480533054,6.204560475875744/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -407,7 +407,7 @@ Secondly, the surplus of revenue and in­
 come beyond the appropriations heretofore  
 charged thereupon, to the end of the yea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1795033101:0002/pct:8.261662757362522,67.61437908496733,16.184519155590305,4.722222222222222/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1795033101:0002/pct:8.281209278081835,67.62254901960785,16.191034662496744,4.730392156862745/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -429,7 +429,7 @@ dollars of the proceeds of duties on itn­
 ports and tonnage, which will accrue in  
 the year 1797, which sum is anoually re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797012101:0223/pct:7.887411073306526,68.11004071903864,15.805753170429941,4.677723706425663/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797012101:0223/pct:7.8925662439426745,68.11335120998444,15.805753170429941,4.674413215479856/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -466,7 +466,7 @@ TIMOTHY PICKERING,
 Secretary of State.  
 NE W THE AT RE.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797071201:0002/pct:78.45712920945785,36.85955394816154,16.62288034392166,14.813140446051838/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797071201:0002/pct:78.47504179603534,36.85955394816154,16.616909481729163,14.828209764918626/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -485,7 +485,7 @@ and which are of a nature, according to
 the usage thereof, to require payment in  
 fpecfe, one thoufaud dollars
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798032101:0002/pct:28.69131322295305,39.301310043668124,15.513721932410977,3.4788937409024747/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798032101:0002/pct:28.69131322295305,39.301310043668124,15.536402812429122,3.48981077147016/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -549,7 +549,7 @@ ferved for the fupport of government.
 2d. The furplus of the revenue and income of the United States, which may accrue  
 to the end of the year one thoufand eight hundred and one, after fatisfying the ob
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801010701:0001/pct:6.604226705091258,41.15031129558257,43.15561959654179,15.490661132522977/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801010701:0001/pct:6.620236951649056,41.15525249530586,43.15561959654179,15.500543531969562/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -579,7 +579,7 @@ cluding the contingent ex­
 pences ot the fevei al depart­  
 ments and offices, the lu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803120501:0002/pct:58.494623655913976,14.136885137808255,16.715542521994134,11.565343531583807/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803120501:0002/pct:58.494623655913976,14.141280935425733,16.722059302704466,11.569739329201283/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -633,7 +633,7 @@ i Secondly—The Surplus of the revenue
 • may accrue to tbe end of the year 1804,  
 after Satisfying the object* lor whic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803120501:0002/pct:58.43597262952102,62.03349597784518,16.81329423264907,30.33100356059607/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803120501:0002/pct:58.43597262952102,62.03349597784518,16.83936135549039,30.339795155831027/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -659,7 +659,7 @@ I government, including the contingent
 j expences of the feveral departments and  
 i offices, iundry expences incident to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804112801:0002/pct:20.72153325817362,0.9297084096351599,38.1510710259301,97.78842090435272/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804112801:0002/pct:20.736565201052237,0.9297084096351599,38.136039083051486,97.78842090435272/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -680,7 +680,7 @@ dollars of the proceeds of duties on im­
 port* and tonnage, which will accrue in  
 the year 1805, which sum is by law an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804120501:0378/pct:41.14165712103856,63.629313687475765,17.52577319587629,4.575416828227995/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804120501:0378/pct:41.13380416109945,63.621090721116566,17.52879048164408,4.57913328164039/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -841,7 +841,7 @@ thousand dollars of the proceeds of Cuties
 on imports and tonsage, which will accrue  
 in the year 1809, which sum is by law an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809011001:0214/pct:41.54302670623145,4.278826838087586,33.64048102451976,92.20570510245078/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809011001:0214/pct:41.54302670623145,4.285522967724655,33.64048102451976,92.20235703763225/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -889,7 +889,7 @@ be authorised by Congress.
 I have the honor to be,  
 Very respectfully
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1811011501:0321/pct:59.351351351351354,67.29468599033817,17.153153153153152,17.89855072463768/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1811011501:0321/pct:59.34065934065934,67.2865595942519,17.156067975740108,17.900414603711308/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -950,7 +950,7 @@ as may be authorised by Congress.
 I have the honor to be,  
 Very respectfully, sir
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812011401:0044/pct:4.930118261403778,30.726973081853142,23.09937029642144,28.401391686504304/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812011401:0044/pct:4.929361179361179,30.72416002929598,23.10094185094185,28.401843205468584/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

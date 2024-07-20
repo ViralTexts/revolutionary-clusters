@@ -1294,7 +1294,7 @@ peace be so atitniued, am! as the only means, under
 the divine blessing, of speedili* obtaining it  
 „ JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812110601:0213/pct:24.68527640941434,4.087626973442663,71.26436781609195,92.65695753273774/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812110601:0213/pct:24.680773440350237,4.087126774351444,71.25744861972517,92.64969815630609/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1788,7 +1788,7 @@ i* u &#x27; s ui the nation util peace t»e so oh
 amed,and as theoulv means, under ti.e ilivios  
 ucssirg oi speedily obtaining it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812110601:0279/pct:10.704022988505747,16.798957469494137,70.67169540229885,67.04181968961024/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812110601:0279/pct:10.702100915783804,16.7969675432362,70.66499072245166,67.03782673931927/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2366,7 +2366,7 @@ ces, and to “ cases of corrupt and perfi­
 dious intercourse with the enemy not  
 amounting to treason,” he referred t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:0041421616A:1812110701:0155/pct:21.329557311074677,82.08477739269529,16.35117007005515,1.7417577534879587/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:0041421616A:1812110701:0155/pct:21.326378539493295,82.07748356140038,16.35370094386488,1.7445648954445827/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3126,7 +3126,7 @@ t reaehed hie destination afi0 his know­
 neighboring territory of the enemy, with a pros­  
 pect of eaa v nml nuinniuii The ex
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1812110901:0193/pct:7.142857142857143,9.62566844919786,22.907268170426065,24.14519526818992/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1812110901:0193/pct:7.141067401653721,9.624108878807517,22.9077925331997,24.145333765392092/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3146,7 +3146,7 @@ vtroit, but in the surrender of both, and of the
 -gallant corpscommanded by that officer. The  
 SaUMI flf tni* nuinfnl —III t. ;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1812110901:0193/pct:7.593984962406015,33.10646572678658,22.25563909774436,3.759520337060444/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1812110901:0193/pct:7.592082184916062,33.10110174983798,22.256326735154097,3.762961762799741/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3224,7 +3224,7 @@ ggSte*11««MJeitinittiOTk towards thr Ml
 t-av,n3 seeded in relief  
 :.*«,nmiiortant frontier post, and in several inc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1812110901:0193/pct:7.142857142857143,36.460865337870686,22.706766917293233,38.48646896775239/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1812110901:0193/pct:7.141067401653721,36.4549578742709,22.707341518416438,38.48428386260532/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3371,7 +3371,7 @@ U»e latter supposition. &quot;
 Atons, remain at peace, and receive the eiviliiags  
 tWtntioM, which have&#x27; proved do beneficial t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1812110901:0193/pct:30.325814536340854,4.699400421325555,21.954887218045112,86.1610760006482/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1812110901:0193/pct:30.31821598596843,4.6986390149060275,21.955650212979204,86.15116655865198/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3514,7 +3514,7 @@ envoy here, that the hostile edicts against out
 cothmerrial rights apd uur maritime independent a  
 t^y, :that Uiey could .no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1812110901:0193/pct:52.68170426065163,4.148436233997732,21.92982456140351,85.61011181332037/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1812110901:0193/pct:52.66850413430218,4.1477640959170445,21.930593836131294,85.600291639663/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3545,7 +3545,7 @@ counsels and with the ample faculties of the nation
 until peace be so obtained, and ‘as the only &#x27;mm*  
 . unden. the dim bleating, »t kpeedily c.btf*rhthg ft.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1812110901:0193/pct:59.64912280701754,3.6298817047480147,37.34335839598997,94.8954788526981/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1812110901:0193/pct:59.63417689802055,3.629293583927414,37.34026559759459,94.88415424497731/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4615,7 +4615,7 @@ _ Prohibitiag.ahc acceptanee of British licenges, i”&amp; a fuflicient
 * guard against the use of them for purposes fav: urable to the ia.  
 terefls and views of the enemy—further provisions oo that fuh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1812111001:0398/pct:43.098978191246,4.303698643505416,51.593716638706724,89.16756123743535/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1812111001:0398/pct:43.10914544252961,4.303698643505416,51.593716638706724,89.16756123743535/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4728,7 +4728,7 @@ fieans, ander the divine bieflfngs of fpeeds­
 fy Obtainiﬂg j:(.‘._ e ke #7 BRI .oo  
 &quot; “JAMES MADISON,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1812111001:0399/pct:6.378061931905716,3.5190615835777126,16.88491757818518,55.992179863147605/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1812111001:0399/pct:6.383197247470857,3.525578364288042,16.88491757818518,55.98892147279244/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4752,7 +4752,7 @@ standing that an exclusion of seamen from
 eaett ..nation from the ships of the other  
 shdtildbe stipulated.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812111001:0217/pct:39.67589220684632,17.68433881779403,16.951930080116533,5.435709932967702/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812111001:0217/pct:39.66866921536501,17.682183767974653,16.95491231264033,5.439109594605573/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5052,7 +5052,7 @@ remain ut pesee and receive the civilizing attenti %
 which huve proved so beneficial to them. ’  
 o Witha g% to thet &quot;Migoreus prgeecisian of -
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812111201:0721/pct:50.346271541311,2.1031941031941033,45.530681269125466,93.77886977886978/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812111201:0721/pct:50.346271541311,2.1064701064701064,45.552155473237775,93.77559377559378/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5242,7 +5242,7 @@ until peace be so obtained, and as the only
 means, under the divine blessing, of speedily  
 obtaining it. JAMES MADISON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812111201:0722/pct:2.3493360572012256,0.7044349637860899,47.718760640108954,94.2950689552535/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812111201:0722/pct:2.3606855067529224,0.7044349637860899,47.718760640108954,94.3082977808645/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5265,7 +5265,7 @@ sage as relates to British licences, and to“ ra- &lt;
 srsof corrupt and perfidious intercourse with |  
 the enemy, not amounting to treason,” be rc- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812111201:0285/pct:28.74551971326165,31.225760958984605,16.953405017921146,4.383593841814549/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812111201:0285/pct:28.74036910947859,31.222091656874266,16.9563399629696,4.386995691343517/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7273,7 +7273,7 @@ and hUo of mariners and o hcr* in the
 s»a»pert town* for local ar.d occasional  
 services Whatever tnaj have bven th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:0041421616A:1812111601:0175/pct:19.98501872659176,23.82722605770933,17.43820224719101,17.286245353159853/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:0041421616A:1812111601:0175/pct:19.982025164769322,23.82511726701478,17.44058318354304,17.28766557512464/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7964,7 +7964,7 @@ riously, be taken into consideration.”
 Mr. Speaker—What a picture of fe­  
 licity has the president of the Unite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:0041421616A:1812112601:0210/pct:45.12284831543328,16.02784386289541,16.889804325437694,19.957705524715834/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:0041421616A:1812112601:0210/pct:45.116210650191235,16.026431718061673,16.892223202902816,19.958883994126285/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7985,7 +7985,7 @@ promulgation of a French decree, purporting to
 | erees.” f- ■■  
 This,decIaration by the first magistrate of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1812112701:0225/pct:52.63026052104208,59.37601559961001,22.094188376753507,4.826129346766331/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1812112701:0225/pct:52.617079889807165,59.3663688058489,22.094916103180566,4.829406986190089/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8168,7 +8168,7 @@ Pproyisioni^ filling on t^ mi^orw^rtahUsliT
 fcnt. (tech is rte happy ernMm tf mtt  
 fcogutry,«nd«rtht facility ruAdsf
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1812120201:0232/pct:47.241118669690096,85.57504873294347,21.592340639959687,4.9545159194282/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1812120201:0232/pct:47.22921914357683,85.56114991067078,21.593198992443323,4.957771642033458/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8212,7 +8212,7 @@ consideration.*&#x27;
 Mr. Speaker—What a picture of fciici  
 ty has the President of the U S. here drawn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812120301:0247/pct:40.469536053661265,60.56995455103796,17.99888205701509,16.165090283748924/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812120301:0247/pct:40.46199701937407,60.56251535249324,18.00173869846001,16.16719888643249/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8233,7 +8233,7 @@ my last communications to you.** We
 were willing to believe, and we ventured  
 to express th• opinion, that all we wer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:0041421616A:1812120501:0239/pct:3.8904269269998544,12.267231488835936,16.377677400553694,5.586444267937517/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:0041421616A:1812120501:0239/pct:3.88986013986014,12.266148958701024,16.38014763014763,5.5888928109189315/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8252,7 +8252,7 @@ able issue to the discussions on foot, these
 have been procrastinated to the latest  
 hour.” What information do we deriv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:0041421616A:1812120501:0239/pct:21.608625965321288,9.919689347806901,16.08625965321288,3.644868061071397/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:0041421616A:1812120501:0239/pct:21.605477855477854,9.918813978115072,16.08877233877234,3.6474879397576188/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8271,7 +8271,7 @@ late partial calamities we have experienced
 have been converted into a source of invigo­  
 rated efforts, so as to render it necessary t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812120501:0251/pct:4.336593467429415,43.68504707176916,17.586270529618012,2.7631739821494072/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812120501:0251/pct:4.3357933579335795,43.67970660146699,17.589175891758916,2.766911165444173/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8291,7 +8291,7 @@ high rank where the struggles of our fathers had
 placed us; and have betrayed the magnificent lega­  
 cy which wc held in tntS&#x27; fin* luture Generations.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812120501:0253/pct:59.773107680862935,51.13998529051238,17.723637716198624,2.7702868350085805/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812120501:0253/pct:59.76199330606173,51.13371736732443,17.726540225610513,2.7740327654532826/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8321,7 +8321,7 @@ mented inducements provided at the last
 session, a partial success . nly has attended,  
 the recruiting service.” Now, any reov n
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812120701:0313/pct:79.2296869504045,29.462390945531713,16.58459373900809,8.217401556236737/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812120701:0313/pct:79.21575523122912,29.458917835671343,16.587538831252566,8.22036229321388/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8356,7 +8356,7 @@ of increase, they applied to the Navy lie
 partment, &amp; obtainc l the d contents v.hiciv  
 they -Hibmit to the House. The comparativ
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812121001:0316/pct:73.2394366197183,42.83516743580641,16.20587723874109,5.963791267305644/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812121001:0316/pct:73.22670375521558,42.830099384761006,16.208854891052386,5.967029499921123/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8494,7 +8494,7 @@ by a squadron of our frigates under the
 command of Commodore Kodgcrs.”  
 &#x27;1 hey therefore concurred in the opinio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812121201:0264/pct:5.08443124884023,45.63932002956393,17.628502505102986,3.3752155703375215/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812121201:0264/pct:5.083487940630798,45.633698731370856,17.631416202844775,3.3789054481257956/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8998,7 +8998,7 @@ THAT THE EXCLUSION OF THE SEAMEN
 OF EACH NATION FROM THE SHIPS OF THE.  
 OI&#x27;HER SHOULD EE STIPULATED.” -2
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1812121501:0418/pct:71.58009670878178,18.856357678892294,24.80112306972391,8.001268364866293/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1812121501:0418/pct:71.58009670878178,18.859880914631997,24.806322466593876,8.004791600605996/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9107,7 +9107,7 @@ r. ec&gt;pt» hi included a sum of near 85,850,000, received
 £ &lt; On account of the loans authorwed by the acts ofthc last  
 g,.; session—the whole sum actually obtained on loan a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1812121801:0261/pct:7.7850326469111,63.244818652849744,23.0286288297338,5.116580310880829/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1812121801:0261/pct:7.7830780818478535,63.234579893152016,23.029123776048205,5.119799255301927/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9153,7 +9153,7 @@ seiiously, betaken into consideration.”
 Mr. Speaker—f^hat a picture of felicity  
 ha* the president of the U. S. here drawn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1812121801:0336/pct:26.49812734082397,11.274153712044166,42.50936329588015,85.09370913845707/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1812121801:0336/pct:26.49192604727358,11.272515979081929,42.50526562134332,85.08497966298664/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10272,7 +10272,7 @@ udorqungt sccumulating without end ; and
 that it&#x27;was finally not declured, until every  
 hope of averting it was extinguished
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1813011401:0757/pct:1.5659955257270695,8.082819032450727,23.180175529168817,4.947242683655186/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1813011401:0757/pct:1.571731773074055,8.089455172871459,23.174439281821833,4.950560753865552/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10333,7 +10333,7 @@ Tuesday, Jun. 19.
 The President laid before the Senate  
 certain resolutions of the Legislature of O
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1813012301:0333/pct:4.3421785117832625,45.56556062661897,17.888290963072926,3.8731960034538053/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1813012301:0333/pct:4.341372912801484,45.55994079921066,17.891156462585034,3.876829468837362/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10416,7 +10416,7 @@ illustrative of the disposition of the Ameri­
 can cabinet to carry on this war, and of  
 their disposition, if posable, not to mak
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1813020201:0347/pct:40.889712696941615,38.14929056138186,17.59036144578313,4.552745219000617/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1813020201:0347/pct:40.88213491475167,38.14458425857389,17.593278972078082,4.556295748005593/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10481,7 +10481,7 @@ rican ships, .with.an understanding that an
 exclusion of the seamen of each nation from  
 ! t ic ships of the other should be stipulated
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1813030201:0385/pct:22.548666186012976,55.29397414003415,17.339581831290555,6.16003903391071/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1813030201:0385/pct:22.544602631104702,55.287230150018296,17.342464107647025,6.163353254461926/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10515,7 +10515,7 @@ Now, with respect to the first proposal
 it was already granted, and there foie v.e  
 presume could not stand in the way
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1813032301:0410/pct:23.441487422530077,5.452111476207862,17.207437112650382,4.989655592065231/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1813032301:0410/pct:23.437215236012392,5.45144804088586,17.210376040337767,4.993104567210189/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10541,7 +10541,7 @@ elusion of each nation from the al&lt;i| • of tl-c other
 shouhl be stipulated and that the at tuistise  
 should be improved into a def.r.itice an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1813033001:0418/pct:5.773120058834345,14.566784797751437,17.503217503217503,5.706953440058658/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1813033001:0418/pct:5.772058823529412,14.565004887585532,17.506127450980394,5.710329097425872/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10576,7 +10576,7 @@ an understanding that an exclusion of the s-amrn of
 each nation from the ships of the other, should be  
 Stipulated.” A conditional repeal of the Orders i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1813040601:0424/pct:4.182225541448842,59.257437914925006,17.9798356982823,5.298746004425866/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1813040601:0424/pct:4.1814448385290275,59.250153657037494,17.982701760935846,5.30219217373489/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10619,7 +10619,7 @@ each nutbn from the ship&#x27;s cf the other,&#x27;&#x27; ahohld ,be
 ture which they held at my lust commu­  
 nication.” In short, we have nothin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813041501:0076/pct:10.71252262629587,57.63157894736842,19.071910482145796,1.780701754385965/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813041501:0076/pct:10.71076011846002,57.62652398912376,19.074256882746518,1.7834692863199135/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10637,7 +10637,7 @@ us that “ our affairs with France retain the pos­
 ture which they held at his last communication.”  
 In short we have nothing to expeel but a conti
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813042101:0441/pct:52.526528549772614,51.17675701996429,21.3744315310763,2.743061191365038/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813042101:0441/pct:52.51326092447588,51.1684518013632,21.37534730992675,2.7466731580655632/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10990,7 +10990,7 @@ naval force superior to that of the enemy.” s
 tions with such forces as might be most conveniently  
 i employed against other parts&#x27;.” ‘&quot;&#x27;7‘ 1 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1814071301:0939/pct:74.33046993431026,52.868650337004766,21.753410813542192,6.115403583758014/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1814071301:0939/pct:74.31169487244253,52.85996055226825,21.7542308663804,6.118507560815253/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11060,7 +11060,7 @@ of Canada from Detroit, having been disappointed,
 measures were instantly taken, to provide on tliem,  
 a naval force superior to that of the enemy. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1814082501:0545/pct:48.381041764429845,34.780117461681705,21.116846550915064,8.895573700042974/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1814082501:0545/pct:48.369692704668076,34.775136064165,21.11775744780671,8.897880263534804/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11189,7 +11189,7 @@ The first object declared hy the
 l [’resident, is what I have stated, the  
 | security of the Michigan territory a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025001:0041421633A:1824051301:0210/pct:10.624147339699864,6.088166060346673,33.71418826739427,88.72244810614167/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025001:0041421633A:1824051301:0210/pct:10.622335890878091,6.087514710602332,33.71412333049162,88.71652223529831/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11356,7 +11356,7 @@ whom are citizens, some of them volunteers in the
 ranks, not less distinguished by their political sta­  
 tions than by their persoDal merits
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840012101:0043/pct:1.8472022955523673,36.6271741870431,15.530846484935438,3.3652634232417444/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840012101:0043/pct:1.8531802965088475,36.631375514662636,15.530846484935438,3.369464750861272/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11377,7 +11377,7 @@ whom are citizens, some of them volunteers in the
 ranks, not less distinguished by their political sta- j  
 lions than by their perioral merits
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840012801:0055/pct:2.9338549075391183,35.099252384635214,16.056187766714082,3.4158288218613047/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840012801:0055/pct:2.9397818871503083,35.099252384635214,16.06211474632527,3.4244221019163015/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11399,7 +11399,7 @@ volunteers in the ranks, not less distinguished by
 their political siations than by their personal mer  
 its. o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1840020301:0047/pct:77.5617053103964,292.9318276871602,56.99326851159312,15.0564617314931/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1840020301:0047/pct:19.39768050879162,73.23295692179005,14.25364758698092,3.764115432873275/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11420,7 +11420,7 @@ whom are citizens, some of them volunteers in the
 ranks, not less distinguished by their political sta­  
 tions than bv their personal merits
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840020401:0067/pct:2.431994235272924,35.256655203158836,15.798955143217439,3.4263151190931094/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840020401:0067/pct:2.437999159310635,35.26514669044283,15.798955143217439,3.430560862735108/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11451,7 +11451,7 @@ whom are citizens, some of them volunteers in the
 ranl&lt;&gt;, n t les- distinguished by their political sta­  
 tions thm bv their personal merits
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840021801:0089/pct:2.264964946971059,35.78229541945445,15.459284558691353,3.383942357179619/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840021801:0089/pct:2.2709569177302416,35.78229541945445,15.465276529450536,3.3968090581574883/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11472,7 +11472,7 @@ whom are citizens, some of them volunteers in the
 ranks, n it less distinguished by their political sta­  
 tions than by their persoral merits&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840022201:0097/pct:2.4096385542168677,34.63758819756254,15.644668225139364,3.4124438742783836/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840022201:0097/pct:2.415632679973626,34.63758819756254,15.650662350896122,3.425272610647851/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11495,7 +11495,7 @@ volunteers in the ranks, not less distin­
 guished by their political stations than by  
 heir personal merits
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186427:1840022501:0094/pct:213.03608786610877,132.5890035812092,39.82740585774059,14.64082578470613/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186427:1840022501:0094/pct:71.00274545692247,44.191679831490255,13.274066326752953,4.879761277865543/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11521,7 +11521,7 @@ sorofl of them volunteers in the ranks,
 not les3&quot;distinguished by their political  
 station than by their personal merits.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn86074078:0029587885A:1840022901:0714/pct:11.86046511627907,59.35975246935618,16.555232558139537,7.164108056646436/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn86074078:0029587885A:1840022901:0714/pct:8.897935446350683,44.519814352017136,12.430939226519337,5.379031298345829/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11542,7 +11542,7 @@ whom are citizens, some of them volunteers in the
 ranks, not less distinguished by their political sta­  
 tions th.hi hv iheir personal merits
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840030701:0123/pct:4.107396870554766,34.40706585270814,15.52275960170697,3.467982854916223/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840030701:0123/pct:4.113323850165956,34.411395419318524,15.52275960170697,3.467982854916223/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11562,7 +11562,7 @@ whom are citizens, some of them volunteers in
 the ranks, not less distinguished by their politi­  
 cal stations than by their persenal merits
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296187:1840031001:0552/pct:160.87283671933784,219.55307262569832,70.05267118133935,13.631284916201118/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296187:1840031001:0552/pct:40.21820917983446,54.88826815642458,17.513167795334837,3.4078212290502794/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11583,7 +11583,7 @@ whom are citizens, some of them volunteers in the
 ranks, not les? distinguished by their poliiical Ma­  
 lions ihan bv their personal merits
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840031201:0131/pct:0.9926006136076521,34.15606119038437,15.755278830536005,3.4580280241676307/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840031201:0131/pct:1.0046321361968358,34.15606119038437,15.755278830536005,3.4665981060119124/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11605,7 +11605,7 @@ them volunteers in the ranks, not less distin
 guished by their political stations than by their  
 personal merits. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016942:00295878204:1840031201:1006/pct:81.38111888111888,62.496524881845986,23.81993006993007,6.213511259382819/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016942:00295878204:1840031201:1006/pct:61.075880166192874,46.872393661384486,17.88760113710912,4.670558798999166/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11635,7 +11635,7 @@ whom are citizens, some of them volunteers in
 the ranks, not less distinguished by their politi  
 cal stations than by their personal merits
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296187:1840031701:0559/pct:101.51285930408471,247.93481314976117,71.02874432677761,13.711716774374825/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296187:1840031701:0559/pct:25.392620624408703,61.98370328744029,17.767265846736045,3.427929193593706/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11656,7 +11656,7 @@ entire confidence of his fellow soldiers, among
 ranks, not less distinguished by their political sta­  
 tions than by their personal merits
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840031901:0143/pct:0.4117436448263516,34.83632658260094,15.574650912996777,3.3881034263151193/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840031901:0143/pct:0.4236782432271154,34.84481806988494,15.574650912996777,3.3881034263151193/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11677,7 +11677,7 @@ whom are citizens, some of them volunteers in the
 ranks, not lea&quot; distinguished by their political sta­  
 tions than by their persooaf merits
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840040401:0171/pct:3.2559812915992086,34.42475603492553,15.542363734484619,3.428351309707242/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840040401:0171/pct:3.2559812915992086,34.43331621297723,15.566348863704503,3.428351309707242/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11699,7 +11699,7 @@ citizens, some of them volunteers in the ranks, not
 less distinguished by their political siatieus than by  
 their, personal merits
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840040401:0012/pct:30.32128514056225,47.66412213740458,19.518072289156628,5.374045801526718/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840040401:0012/pct:22.755573408314923,35.7557251908397,14.641494275959028,4.030534351145038/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11721,7 +11721,7 @@ whom are citizens, some of them volunteers in the
 ranks, not less distinguished by their poliiical sta­  
 tions than by (heir personal merits.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840040901:0175/pct:2.841823056300268,35.2556708958093,15.53172475424486,3.819043957452262/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840040901:0175/pct:2.841823056300268,35.2556708958093,15.549597855227882,3.8275876799521553/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11743,7 +11743,7 @@ some of them volunteers in the ranks, not less
 distinguished by their political stations than by  
 their personal merits.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016474:00296026402:1840041501:0023/pct:54.39400249895877,22.099697885196374,16.36817992503124,4.818731117824774/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016474:00296026402:1840041501:0023/pct:54.40788560322088,22.099697885196374,16.36817992503124,4.828801611278952/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11765,7 +11765,7 @@ citizens, some of them volunteers in the ranks, not
 less distinguished by their political stations than by  
 their, personal merits
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840050201:0028/pct:7.262569832402234,50.758620689655174,19.992019154030327,4.0/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840050201:0028/pct:5.449101796407185,38.06896551724138,15.00998003992016,3.003831417624521/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11786,7 +11786,7 @@ zens, some of them volunteers in the ranks, not less
 distinguished by their political stations than by tiicir  
 personal merits
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840050701:0191/pct:65.85056220529562,31.37651821862348,15.868697859992746,3.466599190283401/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840050701:0191/pct:65.85660742352799,31.384952766531715,15.862652641760368,3.466599190283401/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11809,7 +11809,7 @@ zens, Home of them volunteers in the ranks, not less
 distinguished l&gt;y their political station* than bv their j  
 personal merits
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840050901:0195/pct:1.8115942028985508,29.44064074408991,15.76086956521739,4.017568789562072/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840050901:0195/pct:1.817632850241546,29.44494681996297,15.76086956521739,4.017568789562072/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11830,7 +11830,7 @@ zens. some of them volunteers in the ranks, not less
 distinguished by their political stations than by their |  
 personal merits
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840051401:0203/pct:3.3895232916440095,30.788836498024722,15.805691499003082,3.4025742321906463/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840051401:0203/pct:3.3895232916440095,30.79308440593008,15.817775361005378,3.406822140096003/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11852,7 +11852,7 @@ zens, some of them volunteers in the ranks, not less
 distinguished by their political stations thau by their  
 personal merits
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840051601:0207/pct:1.5684844063468903,30.787037037037038,15.611891300383002,3.8708847736625516/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840051601:0207/pct:1.5684844063468903,30.791323731138547,15.624050094230652,3.8751714677640603/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11875,7 +11875,7 @@ in the ranks, not less distinguished by their
 political stations than by their personal  
 merit b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85026141:00296026827:1840051601:0694/pct:57.442067736185386,108.76306033029996,16.310160427807485,6.134142231209976/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85026141:00296026827:1840051601:0694/pct:43.11190370040125,81.58072126727335,12.238074008024967,4.600606673407483/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11896,7 +11896,7 @@ zens, some of them volunteers in the ranks, not less
 distinguished by their political stations than by their  
 personal merits
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840052101:0215/pct:3.7556154537286615,30.622814968276575,15.471698113207546,3.573740774310501/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840052101:0215/pct:3.7675950883498053,30.631447192369112,15.471698113207546,3.57805688635677/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11928,7 +11928,7 @@ citizens, some of them volunteers in the ranks, not
 less distinguished by their political stations than by  
 their, personal merits
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840053001:0044/pct:7.0374800637958534,48.02216407572726,19.47767145135566,5.448668616284439/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840053001:0044/pct:5.284147557328016,36.016623056795446,14.616151545363909,4.094197321840849/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11960,7 +11960,7 @@ citizens, some of them volunteers in the ranks, not
 less distinguished by their political stations than by  
 their, personal merits
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840060601:0048/pct:7.658730158730159,47.336377473363775,19.8015873015873,5.342465753424658/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840060601:0048/pct:5.755110140900973,35.50989345509893,14.844215122048025,4.0030441400304415/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11981,7 +11981,7 @@ zens, some of them volunteers in the ranks, not less
 distinguished by their political stations than by their  
 personal merit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840061301:0255/pct:2.3378035520115983,30.72055785123967,15.748459586806813,3.4736570247933884/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840061301:0255/pct:2.3378035520115983,30.729166666666668,15.748459586806813,3.4779614325068873/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12002,7 +12002,7 @@ zens, some of them volunteers in the ranks, not less
 distinguished by their political stations than by their  
 personal merits
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840061801:0263/pct:3.902877697841727,30.005180005180005,15.449640287769784,3.4835534835534836/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840061801:0263/pct:3.902877697841727,30.01381334714668,15.455635491606715,3.479236812570146/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12046,7 +12046,7 @@ zens, some of them volunteers in the ranks, not lesa
 distinguished by their political stations than hv their  
 personal merit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840062201:0267/pct:3.0599311968133263,29.72517500648172,15.770414629730219,3.9149598133264196/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840062201:0267/pct:3.0720019313175206,29.72517500648172,15.776449996982317,3.923602108720076/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12142,7 +12142,7 @@ zens, some of them volunteers in the ranks, not less
 distinguished by their political stations than by their  
 |iersonal merits
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840070701:0291/pct:3.7960954446854664,31.17782909930716,15.672451193058569,3.489863997947139/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840070701:0291/pct:3.8081465413352613,31.18210589342229,15.666425644733671,3.4941407920622702/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12164,7 +12164,7 @@ zens, some ot them volunteers in the ranks, not less
 distinguished by their political stations than by their  
 personal merits
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840071401:0303/pct:2.134201483089166,30.237693206909988,15.62669560499186,3.8966099493440707/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840071401:0303/pct:2.134201483089166,30.237693206909988,15.62669560499186,3.9095986491752175/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12185,7 +12185,7 @@ zens, some of them volunteers in the ranks, not leas
 distinguished by their political stations than by their  
 personal merit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840072801:0323/pct:3.9310716208939147,30.373953974895397,15.634535989947945,3.530334728033473/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840072801:0323/pct:3.9310716208939147,30.382670850767084,15.64650272243164,3.530334728033473/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12207,7 +12207,7 @@ citizens, some of them volunteers in the ranks, nol
 I ess distinguished by their political stations than by  
 their, personal merits
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840080101:0076/pct:11.483346243222309,48.15664677986844,19.05499612703331,5.323542909591556/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840080101:0076/pct:8.622360007750435,36.11748508490133,14.299554349932183,4.007954719290194/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12229,7 +12229,7 @@ citizens, some of them volunteers in the ranks, noi
 less distinguished by their political stations than by  
 their, personal merits
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840080801:0080/pct:10.71703932151118,48.87298202863235,18.928296067848883,5.300030459945172/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840080801:0080/pct:8.03932909196067,36.65854401462077,14.208598419124735,3.975022844958879/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12250,7 +12250,7 @@ zens. some of them volunteers in the ranks, not less
 distinguished hy their is&gt;litical stations than by their  
 personal merits
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840081101:0338/pct:2.2723141247045993,30.87836966335612,15.578985638974732,3.4309299625951244/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840081101:0338/pct:2.2844331333696903,30.88696848531751,15.572926134642186,3.4309299625951244/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12271,7 +12271,7 @@ zens, some of them volunteers in the ranks, riot less
 distinguished by their |&gt;olitical stations than by their  
 |iersonal merits
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840081401:0342/pct:3.025936599423631,29.88104473752263,15.543948126801153,3.633307473493664/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840081401:0342/pct:3.025936599423631,29.88966468407896,15.549951969260327,3.628997500215499/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12292,7 +12292,7 @@ zens, some of them volunteers in the ranks, not less
 distinguished by their political stations than by their  
 personal merits
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840082501:0350/pct:3.0700179533213645,30.13361006615644,15.368043087971275,3.5153716435335323/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840082501:0350/pct:3.0700179533213645,30.14225796687854,15.374027528426092,3.5153716435335323/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12344,7 +12344,7 @@ of his fellow soldiers, among whom are citizens, some
 of them volunteers in the ranks, not lese diiinguinned  
 by their political stations than by their merits
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00200290185:1840082801:0777/pct:16.23062015503876,248.39128178515827,37.2093023255814,7.823040996367411/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00200290185:1840082801:0777/pct:5.4119547657512115,82.79709392838609,12.407108239095315,2.60768033212247/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12365,7 +12365,7 @@ zens, some ot them volunteers in the ranks, not less
 distinguished by their political stations than hy their  
 personal merits
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840090101:0358/pct:1.8843993477079182,29.82818757266503,15.618771516579091,3.5266761400335875/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840090101:0358/pct:1.890439089206982,29.836799724411144,15.624811258078154,3.5266761400335875/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12386,7 +12386,7 @@ zens, some of them volunteers in the ranks, not less
 distinguished by their political stations than by their  
 personal merits
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840091101:0370/pct:3.130088655690248,30.109721867823424,15.57807128641216,3.380964531768308/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840091101:0370/pct:3.136119655026838,30.113974653397975,15.584102285748749,3.389470102917411/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12408,7 +12408,7 @@ are citizens, some of them vo unteers in the
 ranks not less distinguished by their politi  
 cal stations than by their personal merits.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_kingsombra_ver01:data:sn87065543:00415662026:1840091201:0033/pct:74.24717691342535,71.0255018990776,21.28293601003764,6.684753119913185/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_kingsombra_ver01:data:sn87065543:00415662026:1840091201:0033/pct:55.71944139337832,53.27183939229517,15.973638788639573,5.013564839934888/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12429,7 +12429,7 @@ zens, some of them volunteers in the ranks, not less
 distinguished by their political stations than by their  
 personal merits
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840091801:0378/pct:2.183406113537118,30.02832861189802,15.811499272197961,3.502446561936647/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840091801:0378/pct:2.183406113537118,30.02832861189802,15.811499272197961,3.5110309897845307/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12472,7 +12472,7 @@ zens, some of them volunteers in the ranks, not less
 distinguished by their political stations than by their  
 personal merits
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840100201:0394/pct:1.775256222547584,30.543450397334016,15.666178623718887,3.4862855678031273/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840100201:0394/pct:1.775256222547584,30.543450397334016,15.678379697413373,3.4905579765872/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12494,7 +12494,7 @@ citizens, some of them volunteers in the ranks, not
 less distinguished by their political stations than by  
 their, personal merits
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840100301:0112/pct:10.0,49.52968388589051,19.603174603174605,5.443330763299923/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840100301:0112/pct:7.501488390553681,37.14726291441789,14.705298670371105,4.086353122590594/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12515,7 +12515,7 @@ zens, some of them volunteers in the ranks, nol less
 distinguished by their political stations than by their  
 personal merits
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840100601:0398/pct:2.612007981135498,30.180770238407128,15.726464719753311,3.4582132564841497/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840100601:0398/pct:2.612007981135498,30.185136669286525,15.732511034524457,3.4669461182429484/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12536,7 +12536,7 @@ zens, some of them volunteers in the ranks, not less
 distinguished by their |&gt;olitical stations than by their  
 personal merits
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840100901:0402/pct:3.0571635311143273,30.798969072164947,15.575253256150507,3.5309278350515463/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840100901:0402/pct:3.069223347805113,30.807560137457045,15.569223347805114,3.5309278350515463/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12598,7 +12598,7 @@ runtidenco of his follow soldiers, among whom are
 I ess distinguished br their political stations tnan by  
 : their, nc.rsonal merits
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840103101:0128/pct:8.405003909304144,50.17316669176329,20.11336982017201,4.547507905435928/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840103101:0128/pct:6.317230588695482,37.62987501882247,15.098767846665362,3.41815991567535/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12647,7 +12647,7 @@ and to the force applied its full effect, proved, that
 more could have been done in a contest rcquirino­  
 more. But brilliant as was the fame which CorrT
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197978:1843022201:0458/pct:25.013804527885146,119.42844233593132,19.9337382661513,6.958093301705636/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197978:1843022201:0458/pct:18.768125949454497,89.5741556534508,14.956497721309212,5.218569976279228/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12671,7 +12671,7 @@ applied its full effect, proved that more
 could have been done in a contest requir­  
 ing more.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn85050801:00279528499:1843031001:0231/pct:19.692934356885477,78.00931057415207,15.180949396835343,5.83019286189315/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn85050801:00279528499:1843031001:0231/pct:19.69815656170035,78.01669991871721,15.17572719202047,5.83019286189315/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12872,7 +12872,7 @@ faction to receive assurances of continued friendship, and
 that it will not be affected by the rupture between the  
 United States and Great Britain.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1853052801:0629/pct:18.823692606464142,20.657276995305164,15.341933693993619,1.9739650021340163/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1853052801:0629/pct:18.823692606464142,20.660833689002704,15.351181393628336,1.977521695831555/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12890,7 +12890,7 @@ to receive assurances of continued friendship, and that it
 will not he p.fleeted by the rupture between the United States  
 and Great Britain.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664333:1853060301:0474/pct:51.41516351371169,89.90578734858681,15.911423962457839,1.7015958469525092/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664333:1853060301:0474/pct:51.41516351371169,89.91219637249247,15.916312264750452,1.7048003589053387/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12954,7 +12954,7 @@ of the committee of the Senate.
 In that report he states the points  
 which have been raised. These poin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777808:1855032101:0257/pct:30.56013179571664,149.43960149439602,47.52883031301483,83.93524283935243/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777808:1855032101:0257/pct:7.641606591143152,37.359900373599004,11.884654994850669,20.983810709838107/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13193,7 +13193,7 @@ Federal interference in their local af­
 fairs, notwithstanding their itching to  
 interfere with other people
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879142:1873091901:0153/pct:45.468277945619334,105.09171410499684,13.11681772406848,8.285895003162555/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879142:1873091901:0153/pct:34.109796021153365,78.82142104153489,9.84638630067993,6.219692177946447/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13262,7 +13262,7 @@ large and permanent military establishments
 which are forbidden by the principles of free  
 government.&quot; Elsewhere Madison said that th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042970:1897121901:0648/pct:222.75810097965336,331.5018315018315,49.962321024868125,28.876678876678877/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042970:1897121901:0648/pct:55.7000188430375,82.87545787545787,12.492933860938383,7.219169719169719/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13358,7 +13358,7 @@ time, after it has been
 veying to the British Government the terms  
 on which its progress might be arreste
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_charlie_ver01:data:sn86071197:00175034948:1898060701:0484/pct:110.78274760383387,322.1813725490196,51.91693290734824,16.176470588235293/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_charlie_ver01:data:sn86071197:00175034948:1898060701:0484/pct:27.695686900958467,80.5453431372549,12.97923322683706,4.044117647058823/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13380,7 +13380,7 @@ declared in conveying to the British
 government the terms on which its  
 progress might be arrested.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_frisco_ver01:data:sn86090439:00517175134:1898060701:1308/pct:21.104122990915442,52.0275559730703,15.816445376193803,3.882887114451229/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_frisco_ver01:data:sn86090439:00517175134:1898060701:1308/pct:21.104122990915442,52.03538437451073,15.822268809690193,3.886801315171442/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13400,7 +13400,7 @@ declared in conveying to the British
 government terms on which its pros  
 ress might be assiste
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_hornacek_ver01:data:sn83045555:206534722:1898060701:0052/pct:193.68635437881875,204.31135388216933,36.354378818737274,7.491221225126805/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_hornacek_ver01:data:sn83045555:206534722:1898060701:0052/pct:64.5621181262729,68.10378462738977,12.118126272912424,2.497073741708935/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13440,7 +13440,7 @@ clared in conveying to the British Gov­
 ernment terms on which its progress  
 might be arrested.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_firebaugh_ver01:data:sn82015104:0028076890A:1898060801:0074/pct:6.175485599464166,51.197456027029716,12.458137977227059,2.732783464175693/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_firebaugh_ver01:data:sn82015104:0028076890A:1898060801:0074/pct:6.17995088189328,51.204080956639835,12.4715338245144,2.739408393785816/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13464,7 +13464,7 @@ time after it had been declared in convey­
 ing to the British government terms on  
 which its progress might be assisted.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_nicasio_ver01:data:sn85042461:00280769794:1898060801:0544/pct:31.541725601131542,41.714544904747505,12.547989492826833,4.9591775022679165/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_nicasio_ver01:data:sn85042461:00280769794:1898060801:0544/pct:31.55182865225298,41.714544904747505,12.553041018387553,4.966737224070155/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13484,7 +13484,7 @@ conveying to the British government the
 terms on which its progress might be ar­  
 rested.” The terms proposed by Madiso
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:00271740517:1898060801:0363/pct:45.20978543118765,90.25927808845958,12.546125461254613,2.15556685307575/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:00271740517:1898060801:0363/pct:45.21889663341078,90.25927808845958,12.546125461254613,2.16234536519234/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13503,7 +13503,7 @@ time after it had been declared in convey­
 ing to the British government the terms  
 on which its progress might be arrested.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_edwards_ver01:data:sn86063615:00211109154:1898060801:0737/pct:40.89340490797546,62.345941351466216,16.679447852760735,2.8757614392973507/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_edwards_ver01:data:sn86063615:00211109154:1898060801:0737/pct:30.68661296509398,46.76299759172687,12.52397391637898,2.1532795013457995/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13524,7 +13524,7 @@ in conveying to the British Government
 the terms on which its progress might  
 be arrested.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_infiniti_ver03:data:sn88083938:00200294282:1898060801:0386/pct:76.87450670876085,229.09189777052745,47.27703235990529,11.636759108210985/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_infiniti_ver03:data:sn88083938:00200294282:1898060801:0386/pct:19.226213975523095,57.27297444263186,11.823924200552705,2.909189777052746/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13546,7 +13546,7 @@ no time after it had been declared, in con­
 veying to the British Government terms  
 en which congress might be assisted.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_hoquiam_ver01:data:sn83045604:00202199471:1898060801:0709/pct:5.277083639570778,159.50764983319914,35.48434514184918,12.780398021396525/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_hoquiam_ver01:data:sn83045604:00202199471:1898060801:0709/pct:1.7590278798569259,53.169216611066375,11.828115047283061,4.260132673798842/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13610,7 +13610,7 @@ time after it had been declared in convey­
 ing to the British government the terms on  
 which its progress might be arrested.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ibizanhound_ver01:data:sn83045462:0028065520A:1898060901:0424/pct:2.146558105107328,36.94745621351126,13.693560325684677,2.1823742007228244/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ibizanhound_ver01:data:sn83045462:0028065520A:1898060901:0424/pct:2.1511843079200594,36.94745621351126,13.693560325684677,2.1927995551848762/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13640,7 +13640,7 @@ in conveying to the British government
 the terms on which its progress might  
 be arrested,’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_efreeti_ver01:data:sn91070630:00514152986:1898061701:0586/pct:71.82497331910352,77.44715780833162,12.620064034151547,3.3962651344141186/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_efreeti_ver01:data:sn91070630:00514152986:1898061701:0586/pct:71.82942013518321,77.44715780833162,12.624510850231234,3.4099459607360285/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13659,7 +13659,7 @@ time after it had been declared in convey­
 ing to the British government the terms  
 on which its progress might be arrested 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_fletcher_ver01:data:sn86063034:00414182240:1898061801:0524/pct:57.614444647091005,83.4566145092461,12.511398869232172,2.318634423897582/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_fletcher_ver01:data:sn86063034:00414182240:1898061801:0524/pct:57.614444647091005,83.46609767662399,12.523557663079822,2.3091512565196775/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13692,7 +13692,7 @@ minister to St. Petersburg, suggesting
 that he would act as mediator. The  
 proposition was made also to the stat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_atherton_ver01:data:sn84026355:0021110028A:1898070901:0082/pct:6.8316100443131464,63.07053941908714,17.226735598227474,11.742738589211617/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_atherton_ver01:data:sn84026355:0021110028A:1898070901:0082/pct:5.134835611377909,47.302904564315355,12.929442186922794,8.810511756569849/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13716,7 +13716,7 @@ had been declared, in conveying to tho
 British Government the terms on which  
 its progress might be arrested.” Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_isleboro_ver01:data:sn83016025:00414210715:1898072901:0028/pct:3.066288550159518,85.28459046737622,11.361219425735555,4.5657874440845285/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_isleboro_ver01:data:sn83016025:00414210715:1898072901:0028/pct:3.065745171008329,85.27143738433065,11.363636363636363,4.568938926588525/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

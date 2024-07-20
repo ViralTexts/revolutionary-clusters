@@ -165,7 +165,7 @@ tarm a matriinot ial connexion, than any ot.ien
 na^re real satisfaction, than to your aflectiorsate  
 *vic!e, . Georoe V/asHiNGTox
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215609:1836032901:0528/pct:7.394326079526034,75.63044130891625,18.104135809502107,15.716001200840589/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215609:1836032901:0528/pct:7.393483709273183,75.62476547842401,18.105870737449685,15.717323327079425/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -384,7 +384,7 @@ a circumstance aflord more real satisfaction,
 than to your affectionate unrle,  
 George Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:0041418294A:1836042801:0283/pct:39.6875,18.013793103448275,17.416666666666668,45.84827586206897/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:0041418294A:1836042801:0283/pct:39.67923349302229,18.011308784995173,17.4182461987086,45.845400634395254/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -695,7 +695,7 @@ stamped with that character, which will
 adhere to you through life the conse­  
 quences of which you have not pe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn83025196:00415668818:1836062201:0033/pct:18.913760194343222,26.959370904325034,29.515877147319106,26.435124508519003/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn83025196:00415668818:1836062201:0033/pct:18.913760194343222,26.968108344255132,29.527445196367633,26.4263870685889/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -757,7 +757,7 @@ Many girls, before they have arrived jng
   
 satisfaction than to your affectionate occupying stations both above and be-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn83025196:00415668818:1836062201:0033/pct:33.52420614263404,16.264744429882043,29.689397883047025,72.96199213630406/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn83025196:00415668818:1836062201:0033/pct:33.52999016715831,16.264744429882043,29.689397883047025,72.96636085626912/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -802,7 +802,7 @@ rules of propriety, that such confidence the destinies of half the globe. The
 is obtained, and nothing would give me wave of the northern conqucst has ex­  
 more pleasure than to hear that you had tended itself to the Pacific Odean.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn83025196:00415668818:1836062201:0033/pct:33.593614436925215,69.77719528178244,29.49852507374631,14.19397116644823/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn83025196:00415668818:1836062201:0033/pct:33.593614436925215,69.78156400174748,29.510093122794842,14.19397116644823/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1118,7 +1118,7 @@ dicacyaiid danger of that period, to which
   
 ; -u .iu jiuw uiimuu unuer peculiar circum
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016942:00295878204:1839042501:0846/pct:2.6629935720844813,36.5411632481034,51.92837465564738,22.801348693453217/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016942:00295878204:1839042501:0846/pct:1.997703788748565,27.40938465861197,38.96670493685419,17.097499297555494/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1197,7 +1197,7 @@ inn uiiusuu ou. sno nmoriTod mm im-. n
   
 ji : trustworthy as to take the whole charge of dence. nnd being requested by her enamoure
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016942:00295878204:1839042501:0846/pct:1.9742883379247016,60.04495644844057,51.33149678604224,33.23967406574881/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016942:00295878204:1839042501:0846/pct:1.492537313432836,45.04074178139927,38.507462686567166,24.922731104242764/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1224,7 +1224,7 @@ g ..iiuaiwuiijijr on iu lane me wnoie charge o
 a family from their mothers; but it is by t  
 l-fyidy and rigid attention to the rules of nronr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016942:00295878204:1839042501:0846/pct:2.1120293847566574,86.70974992975555,25.27548209366391,8.064062939027817/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016942:00295878204:1839042501:0846/pct:1.5843857634902412,65.03231244731666,18.96670493685419,6.055071649339702/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1247,7 +1247,7 @@ g would give mc more pleasure than to
   
 1t3 of it would redound more to your pro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016942:00295878204:1839042501:0846/pct:1.6528925619834711,94.71761730823265,25.573921028466483,3.4560269738690645/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016942:00295878204:1839042501:0846/pct:1.2399540757749712,71.04523742624333,19.196326061997702,2.5990446754706378/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

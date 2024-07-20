@@ -94,7 +94,7 @@ laws of the United States, cause the foregoing of
 fenders, and all such as have aided, abetted, or as  
 sisted them, or shall
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743038:1851021901:0268/pct:108.34572797884647,96.81417979610751,46.45513138324244,27.699258572752548/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743038:1851021901:0268/pct:36.11524265961549,32.27139326536917,15.485043794414146,9.233086190917517/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -123,7 +123,7 @@ execution of the laws of the United States, cause
 the foregoing offenders, and all such as have aided,  
 abetted, or assisted them, or shall 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530339:1851022001:0343/pct:100.0,69.61261888192995,47.54456777665658,22.071445140338668/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530339:1851022001:0343/pct:33.333333333333336,23.20420629397665,15.848189258885526,7.357148380112889/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -150,7 +150,7 @@ administration or execution of the Laws of the United Slates,
 cause the foregoing offenders, and all such as aided, abetted,  
 or assisted them, or shall 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851022101:0040/pct:32.69682726204465,31.046033113216577,16.304347826086957,5.13924777490669/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851022101:0040/pct:32.69682726204465,31.046033113216577,16.30924402663533,5.14881806871471/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -200,7 +200,7 @@ the United Slates, cause the foregoing offenders,
 and all such as aided, abetted, or assisted them, or  
 shall be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1851022201:0544/pct:4.423315419594874,18.08716187204809,15.68141105139865,9.295835122370116/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1851022201:0544/pct:4.4279086858665195,18.094318019178473,15.68141105139865,9.299413195935308/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -234,7 +234,7 @@ laws of the United States, cause the
 foregoing offenders, and all such as aided,  
 abetted, or assisted them; or shall be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624451:1851022201:0336/pct:7.348029392117568,54.23889063977308,18.48140725896237,15.490072486605737/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624451:1851022201:0336/pct:5.706068449813057,42.0435579075921,14.322691975841243,11.996743334011805/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -353,7 +353,7 @@ Let os then, fellow-citizens, review ouf and I do especially, direct that prosec
 ground. If a Convention we must have, let tions be commenced against all persons who  
 it not be a Convention of boys and half made shall have made themselves abettors in or t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667711:1851022601:0625/pct:271.51211361737677,85.27978739111177,120.46783625730994,26.162704857522517/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667711:1851022601:0625/pct:67.90639364814041,21.319946847777942,30.129544504805683,6.540676214380629/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -384,7 +384,7 @@ trict Attorney of the United States, and all
 other persons concerned in the adminis­  
 tration or execution of the laws of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027510:1851022601:0731/pct:27.176517571884983,38.00259403372244,18.909744408945688,13.488975356679637/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027510:1851022601:0731/pct:20.391451967245857,28.505548349906327,14.200119832234872,10.116731517509727/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -447,7 +447,7 @@ of the United States, cause the foregoing
 offenders, and all such as aided, abetted,  
 or assisted them, or shall be 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn87070038:00296028058:1851022701:0794/pct:128.17974105102817,82.93963254593176,49.504950495049506,43.155131924298935/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn87070038:00296028058:1851022701:0794/pct:32.04493526275704,20.73490813648294,12.376237623762377,10.788782981074734/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -495,7 +495,7 @@ commanding all officers, civil and mjliia.
 ry, and all other persons, civil or milita,­  
 ry, who shall be found within the vicin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_black_ver02:data:sn84026561:00415667802:1851022801:0113/pct:107.82688766114181,123.15825375170532,19.38305709023941,2.557980900409277/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_black_ver02:data:sn84026561:00415667802:1851022801:0113/pct:80.92605390463027,92.37721691678036,14.55885740612762,1.927012278308322/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

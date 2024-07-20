@@ -76,7 +76,7 @@ Hindoos, Jews, Christians , and Maho­
 metans, has not always been at peace.  
 We need not trouble*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025001:00414216328:1822121901:0146/pct:24.51687337755985,63.12187417741511,17.955004326507066,7.423006054224796/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025001:00414216328:1822121901:0146/pct:24.513338139870225,63.11633619933322,17.957221821677482,7.425279288764111/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -203,7 +203,7 @@ itfelf, if we believe Hindoos, Jews, Chris.
 tians and Mahometans, has not always been  
 at peace. We need not trouble
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1822122401:0621/pct:41.97459584295612,16.25223791525761,16.28175519630485,29.560373980505272/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1822122401:0621/pct:41.984218629715166,16.258868775280153,16.276943802925327,29.557058550494/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -256,7 +256,7 @@ Christians and Mohometans, tias not al­
 ways been at peace. W e need not trou­  
 ble
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1822122701:0166/pct:1.7774989544123798,7.407407407407407,15.537432036804685,22.42556281771968/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1822122701:0166/pct:1.777127325946059,7.406331687481847,15.539410411875393,22.425936683125183/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -543,7 +543,7 @@ sel!, if we believe Hindoos, Jews, Chris­
 tians, and Mahometans, has not always  
 been at peace. We need not trouble
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021201:00517172108:1823010101:0338/pct:101.72786177105831,50.279017857142854,21.85745140388769,3.22265625/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021201:00517172108:1823010101:0338/pct:78.84282765162082,38.97358272966447,16.944707917201363,2.5047752910224528/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -735,7 +735,7 @@ do&lt;.?. J&lt;&gt;us, Christians, and Milium- [
 et :ii?s, has not always been at peace.  
 W ?? nerd not trouble ourselves be- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1823011501:0458/pct:25.777033314721756,33.72683272340928,18.444072212916435,15.795065517648448/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1823011501:0458/pct:25.789441032322106,33.73076771731004,18.43786835411626,15.795065517648448/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1000,7 +1000,7 @@ efjees more Uecav than von do. &quot; . .
   
 - I amy vour olJ jVien!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn87065199:00295877960:1839041301:0112/pct:70.05597014925372,17.009632224168126,18.070362473347547,28.152364273204903/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn87065199:00295877960:1839041301:0112/pct:52.552312408369986,12.762697022767075,13.554578168732506,21.11427320490368/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1137,7 +1137,7 @@ trust the Ruler with his skies. Nor need we ded on the earth, where he stood bra
 dread the approach of doting; let it come if it surprise and indignation at the &quot;base uses to  
 must. &quot;e8, it seems still delights in his which he had been turned. I saw the array
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn89080032:00415668132:1850031901:0747/pct:131.72071129707112,56.71126456624946,77.39278242677824,75.22658610271904/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn89080032:00415668132:1850031901:0747/pct:43.9241334205363,18.903754855416487,25.80771746239372,25.075528700906343/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1390,7 +1390,7 @@ tles, and Heaven itself, if we hi lieve Hindoos,
 Jews, Christians, and Mahometans, has not al­  
 ways been at peace. We need not trouble
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016750:00383347166:1852101601:0235/pct:56.69831223628692,11.713605156228107,25.843881856540083,83.83074120779038/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016750:00383347166:1852101601:0235/pct:56.704172526957336,11.718275652701882,25.85560243788092,83.82607071131662/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1500,7 +1500,7 @@ ties, and Heaven itself, if we belive Hindoos,
 Jewi«, Christians, and Mehometains, has not a  
 ways been at peace. We need not trouble
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn86083363:00415668831:1852111001:0261/pct:72.00484554815263,70.30669144981412,10.987280436099335,15.882899628252789/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn86083363:00415668831:1852111001:0261/pct:72.00484554815263,70.31288723667906,10.995356349687059,15.885997521685255/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1566,7 +1566,7 @@ tles, and Heaven itself, if we believe Hindoos
 Jews, Christians, and Mahometans has not al­  
 ways been at peace. We need not trouble
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393347958:1853021901:0660/pct:157.87755102040816,65.50482500360074,73.57142857142857,106.99985597004176/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393347958:1853021901:0660/pct:39.461334421546624,16.37384792626728,18.38910426443583,26.746111751152075/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1601,7 +1601,7 @@ teaca We need not trouble ouraelvea about lhaee
 things, nor fret ouraelvea because ol evil doeia; bin  
 aifely trust the &#x27; Ruler wtih hia skiea 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661216:1853072601:0852/pct:0.503655564581641,80.43640897755611,15.45085296506905,5.024937655860349/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661216:1853072601:0852/pct:0.503655564581641,80.43640897755611,15.45626861630111,5.033250207813799/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1638,7 +1638,7 @@ rot trouble ourKvlves about these thing*, nor
 tret ourse vis t&gt;i-cau*e or evil doers: hut safely  
 tiu-t the ‘Ruler with Ins sk;e».
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215907:1853072701:0088/pct:56.09620721554116,24.131233959908442,12.229417206290472,5.750156065755705/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215907:1853072701:0088/pct:56.09101840717788,24.12956027188237,12.231369284370857,5.752069172793267/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1668,7 +1668,7 @@ NAPOLEON&#x27;S PROPHECY.
 During the last years of the illustrious exile  
 at St. He lena his mind seemed to turn often t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202190935:1853072701:0088/pct:25.400139178844814,90.28114396509937,42.414752957550455,22.164323800290838/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202190935:1853072701:0088/pct:8.46671305961494,30.093714655033125,14.138250985850151,7.3881079334302795/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1730,7 +1730,7 @@ need not trouble ourselves about these things,
 nor fret ourselves because of evil doers; but  
 safely trust the &quot;Ruler with his skies.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393347958:1853072901:1205/pct:20.848963474827247,332.5611325611326,68.88450148075025,33.018733018733016/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393347958:1853072901:1205/pct:5.211212001579155,83.12839576780097,17.21772601658113,8.253503002573634/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1769,7 +1769,7 @@ about these things, nor fret ourselves about
 evil doers; but safely trust the &quot;Ruler with  
 his &quot;skies.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_harrison_ver01:data:sn82015672:00296021842:1853080201:0207/pct:139.17233560090702,117.19476130122518,58.78684807256236,32.7418673426278/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_harrison_ver01:data:sn82015672:00296021842:1853080201:0207/pct:34.807883170282146,29.298690325306296,14.702963278037714,8.18546683565695/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1881,7 +1881,7 @@ not trouble ourselves about tfyese things, nor
 fret ourselves because of evil doers but safely  
 trust the &#x27;Ruler&#x27; with his &#x27;skies.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn86083363:00415668831:1853080301:0422/pct:14.02431536288837,70.6074461136512,10.78226697777232,5.104040309788187/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn86083363:00415668831:1853080301:0422/pct:14.028408858324124,70.6074461136512,10.778173482336568,5.11026095611334/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1909,7 +1909,7 @@ ourselves about these things, nor fret our­
 selves because of evil doers, but safely trust  
 the &quot;Ruler with his skies.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn88078726:00296028046:1853080401:0212/pct:226.05531295487629,144.10943606923507,48.68995633187773,31.490787269681743/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn88078726:00296028046:1853080401:0212/pct:56.524112829845315,36.02735901730877,12.174704276615104,7.872696817420436/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1936,7 +1936,7 @@ always been at peace. We need not trouble ourselves
 about these things, nor fret ourselves because of evil  
 doers; but safely trust the Ruler with his skies.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879075:1853080501:0588/pct:86.4127569847127,106.58782132733847,20.76963626779125,7.7607272016420685/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879075:1853080501:0588/pct:64.82994990772475,79.94330954940865,15.58133403638281,5.82543250904115/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1961,7 +1961,7 @@ Mahometans, has not always been at peace. We
 need not trouble ourselves about these things, nor  
 fret ourselves because of evil doers; but safely trus
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:0029602272A:1853080601:0254/pct:69.23652694610779,98.28326180257511,19.97005988023952,7.761087267525036/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:0029602272A:1853080601:0254/pct:51.94669062593591,73.71244635193133,14.9895178197065,5.829756795422031/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2008,7 +2008,7 @@ QuINcY, June 11, 1822.
   
 and this moment have heard read, for the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776026:1853080601:0751/pct:320.61224489795916,164.3507817811013,46.59863945578231,6.689326988443236/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776026:1853080601:0751/pct:80.19397651863196,41.08769544527532,11.655606602007827,1.672331747110809/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2030,7 +2030,7 @@ at peace. We need not trouble ourselves
 about these things, nor fret ourselves becanse  
 of evil doers; but safely trust the &quot;Ruler
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776026:1853080601:0751/pct:321.2244897959184,192.03263086335826,47.3469387755102,13.759347382732836/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776026:1853080601:0751/pct:80.34711587544666,48.008157715839566,11.842776927003573,3.439836845683209/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2142,7 +2142,7 @@ trouble ourselves because .;of evil
 doers; but safely trust the &#x27;Ruler , with &#x27;  
 i1 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn85038121:00280775514:1853081101:0132/pct:106.65033911077619,116.68340266819682,18.99020346646571,10.615406684837183/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn85038121:00280775514:1853081101:0132/pct:80.03770028275213,87.51972457323195,14.250706880301601,7.961555013627887/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2196,7 +2196,7 @@ not trouble ourselves about these things, nor
 (ret ourselves because of evil-doers ; but safely  
 trust the ‘Ruler with his skies.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016750:00383347166:1853081301:0415/pct:44.58369098712446,24.144219977553313,12.274678111587983,6.11672278338945/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016750:00383347166:1853081301:0415/pct:44.58369098712446,24.148896371118592,12.274678111587983,6.121399176954733/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2223,7 +2223,7 @@ trouble ourselves about these things, nor fret
 ourselves of evil dooers; but safely trust the  
 &quot;Ruler with his skies,&quot;olq5ei1 efl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668144:1853081601:0402/pct:199.0284222737819,233.68554522400677,42.546403712296986,19.399830938292478/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668144:1853081601:0402/pct:66.3716814159292,77.89518174133559,14.188306978093719,6.466610312764159/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2253,7 +2253,7 @@ ians, and Mahometans, has not
 ways been at peace. We  
 trouble ourselves about th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn82014116:00279528542:1853081701:0301/pct:33.060839490646124,37.31663685152057,12.073573337525547,7.716159809183065/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn82014116:00279528542:1853081701:0301/pct:33.06607975685165,37.32061220433314,12.078813603731069,7.728085867620751/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2281,7 +2281,7 @@ these things; nor fret ourselves because of
 evil doers; but safely trust the &quot;Ruler with  
 his skies.&quot; : - -. . &#x27; John Adams
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027509:1853081701:0228/pct:94.23418095801301,84.79616306954436,16.292134831460675,10.52757793764988/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027509:1853081701:0228/pct:70.71439136222452,63.597122302158276,12.231918355272889,7.90167865707434/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2356,7 +2356,7 @@ PHTEAFPLE Jelly. Pare and grate the pine­
 apple, and put into the preserving pan, with one  
 pound of fine wile sugar fo every pound of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_minuette_ver01:data:sn87065704:00415662038:1853082401:0428/pct:6.681766704416761,47.73391022174148,20.087768969422424,20.876149269875608/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_minuette_ver01:data:sn87065704:00415662038:1853082401:0428/pct:5.012034546226816,35.80313683071931,15.078578507716268,15.6625202812331/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2388,7 +2388,7 @@ trouble ourselves about these things, nor fret
 ourselves because of evil doers; but safely trust  
 the&#x27; Ruler of the kirs.&#x27; &quot;John Adams.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_lightningbolt_ver03:data:sn83016794:00415662397:1853082601:0574/pct:94.81873111782477,74.74760064813661,17.280966767371602,11.85342141343637/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_lightningbolt_ver03:data:sn83016794:00415662397:1853082601:0574/pct:71.13931701420368,56.06381652748348,12.964641885766092,8.899414184220367/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2416,7 +2416,7 @@ ble ourselves about these things, nor fret I
 onrselvcs betan.e of evil doers; but safely  
 (fust the ’Ruler with his skies.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82014751:00513688234:1853083101:0129/pct:62.72276318206871,45.589613170927585,15.175454712474739,7.964127961450943/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82014751:00513688234:1853083101:0129/pct:62.72888725580256,45.59407486726453,15.187702859942434,7.9685896577878905/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2443,7 +2443,7 @@ not trouble ourselves about these things, nor
 fret ourselves because of evil doers ; but safely  
 trust the “ Ruler with his skies.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn82015099:00279556641:1853091701:0115/pct:54.63846020461245,79.64410244078394,15.15519334142535,6.624984970542263/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn82015099:00279556641:1853091701:0115/pct:54.64279521414947,79.65312011542623,15.172533379573435,6.630996753637128/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2503,7 +2503,7 @@ and Heaven itself, if we believe Hindoos, Jews,
 Christians, and Mehometans has not always  
 bseaf at peace. We need not trouble
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn86053481:00212470090:1853092301:0123/pct:46.18263473053892,22.358116081965456,36.30239520958084,102.32807638665379/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn86053481:00212470090:1853092301:0123/pct:34.65109314165918,16.76858706147409,27.238694219826296,76.751421521296/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2542,7 +2542,7 @@ cause of evil doers; but safely trust the “Ru­
 ler with his skies.” JOHN ADAMS.  
 The Turk* and Greek*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215919:1854051901:0474/pct:57.46353476037128,28.12061711079944,12.388709982951317,7.538569424964937/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215919:1854051901:0474/pct:57.45809262240743,28.118645256293387,12.390693563153077,7.540378187597877/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2572,7 +2572,7 @@ Eloquence of Motion.
   
 Every one has heard of the “ action, action, A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn84035804:00383347221:1854053101:0559/pct:67.31686780802694,25.201803124017193,14.580409767050238,8.449523010797778/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn84035804:00383347221:1854053101:0559/pct:67.31686780802694,25.20879197679701,14.58508747310319,8.453017437187686/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2600,7 +2600,7 @@ selves about these things, nor fret ourselves
 because of evil-doers, but safely trust the  
 &quot;Ruler with the skies.&quot; Joun ADAMs.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472062:1854060301:0027/pct:207.11817553559086,296.97520446579256,44.16033172080166,24.146436453329873/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472062:1854060301:0027/pct:51.788491446345255,74.24380111644814,11.04199066874028,6.036609113332468/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2637,7 +2637,7 @@ i in the vicinity of Lyons. Without exaggerating
 ; I may say that the country is absorbed in the con­  
 i teinplation of one of the most terrible instance
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn85025594:00383347348:1854060601:0017/pct:17.30331054818389,63.868913088144645,12.53183219407586,9.923977809739059/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn85025594:00383347348:1854060601:0017/pct:17.307778224545412,63.87233751112937,12.540767546798909,9.93425107869324/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2699,7 +2699,7 @@ but safely trust the &quot;Ruler with his
 skies.&quot; JoHN ADAMs.  
 The London Times on Gough.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gorn_ver01:data:sn85059651:00415664965:1854061001:0047/pct:221.58161680985404,148.42303736715803,35.42076389607701,35.28453890983887/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gorn_ver01:data:sn85059651:00415664965:1854061001:0047/pct:73.86053893661801,49.47434578905268,11.806921298692338,11.761512969946292/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2720,7 +2720,7 @@ not always been at peace. We need not trouble ourselves
 about these things; nor fret ourselves because of evil doers  
 but gafelj trust the ‘ Euler with bls skies.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dunbar_ver01:data:sn83030364:print00211110089:1854061101:0001/pct:67.000634115409,95.2622169249106,8.674698795180722,2.006356773937227/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dunbar_ver01:data:sn83030364:print00211110089:1854061101:0001/pct:67.000634115409,95.2696662693683,8.690551680405834,2.006356773937227/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2813,7 +2813,7 @@ mrselvrs about these things, nor fret ourselves
 (cause of evil doers; hut surely trust the  
 .tiller with bis skies
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664370:1859061401:0424/pct:59.85320592715691,25.642096471079558,13.05913308406038,5.9511380246398/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664370:1859061401:0424/pct:59.85320592715691,25.649056866430012,13.068365415685731,5.9511380246398/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2847,7 +2847,7 @@ or two past, have swarmed with detachments
 of this irruption of the now world upon the  
 old, and it is not impr liable that the whol
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn85025007:0041566347A:1859061501:0449/pct:44.43034404963339,67.12527154236061,16.68076706147772,10.747905244646736/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn85025007:0041566347A:1859061501:0449/pct:44.43034404963339,67.12527154236061,16.685467193081408,10.754801558566946/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2875,7 +2875,7 @@ things, nor fret ourselves because of evil­
 doers; but surely trust the Ruler with his  
 skies
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_oldenburg_ver01:data:sn96027384:00393349451:1859061701:0305/pct:70.26878015161957,73.63720357252849,12.625775327360442,7.216918180884919/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_oldenburg_ver01:data:sn96027384:00393349451:1859061701:0305/pct:70.25909592061743,73.62964483678915,12.628629180448364,7.219598987203176/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2973,7 +2973,7 @@ sillier more by our Imbecility than we
 ourselves.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn85042534:00200293575:1875042801:0969/pct:28.555355535553556,83.70927318295739,18.946894689468948,37.12406015037594/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn85042534:00200293575:1875042801:0969/pct:21.426963763223046,62.78195488721804,14.224623002475804,27.850877192982455/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3059,7 +3059,7 @@ the evil is that our friends will suffer
 more from our imbecility than we  
 ourselves.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_lapras_ver01:data:sn84027398:00279528438:1875050601:0704/pct:249.50920245398774,182.98011085751548,33.03680981595092,85.63199652211716/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_lapras_ver01:data:sn84027398:00279528438:1875050601:0704/pct:83.16973415132924,60.993370285838495,11.012269938650308,28.543998840705722/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3371,7 +3371,7 @@ doos, Jews, Christians and Mkhometans, has
 not always been at peace. We need not  
 trouble
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777043:1876120801:0626/pct:133.84615384615384,157.36263736263737,38.95104895104895,46.38655462184874/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777043:1876120801:0626/pct:33.47324239244491,39.34065934065934,9.741168240643582,11.596638655462185/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3398,7 +3398,7 @@ need not trouble ourselves about these things, nor.
 fret ourselves because of orlPdocrst but safely  
 trust the “Ituler with Hie skies.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1877042801:0004/pct:57.89473684210526,68.22620016273393,12.84829721362229,5.431244914564687/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1877042801:0004/pct:57.89473684210526,68.2312855980472,12.861197110423117,5.431244914564687/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3424,7 +3424,7 @@ things, nor fret ourselves because, ol eyil­
 doers; but safely ti&#x27;ust the &quot;Riilcr with  
 His skies.&quot; &#x27; :&#x27;. &quot; .&#x27;!&#x27; &#x27; c &#x27;&quot; &quot; &#x27;&#x27; &#x27; &#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_felice_ver01:data:sn87052128:00200292182:1877051101:0562/pct:28.72146118721461,57.0440927945921,23.013698630136986,10.216623137194654/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_felice_ver01:data:sn87052128:00200292182:1877051101:0562/pct:21.5623572407492,42.78691043170994,17.26815897670169,7.666308188661853/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

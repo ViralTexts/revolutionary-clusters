@@ -69,7 +69,7 @@ such confidence in my own faculty of judging
 as to be over tenacious o! the opinions I have  
 imbibed in doubtful cases.” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215713:1842071301:0040/pct:23.846679020774406,65.78134244954309,15.137033063493611,6.547892972191177/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215713:1842071301:0040/pct:23.844353423054418,65.77701814357087,15.13880761979065,6.549653782101849/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -152,7 +152,7 @@ its ground of propricty, and I never had such
 confidence in my own tae ilty of udgir o as to be ever  
 tenacious of the opinions I have imibibed, in doubtful c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347892:1842071801:0401/pct:264.5694062131341,331.9656627382511,62.78018088871412,22.770260439400552/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347892:1842071801:0401/pct:66.12934932180067,82.97934244981089,15.691959897778652,5.691736979924353/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -179,7 +179,7 @@ confidence in my own saculty of judging as to be
 over tenacious in the opinions I have imbibed in  
 doubtful cases
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184601:1842072101:0796/pct:51.12722686425981,171.3492247165008,38.656787009301596,15.042814163388105/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184601:1842072101:0796/pct:17.039722572509458,57.10979983801921,12.883564522908785,5.013691233753712/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -247,7 +247,7 @@ had such confidence in my own faculty of
 judging ns to be over tenacious of tho opin­  
 ions I have imbibed in doubtful cases.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182951:1842072801:0510/pct:23.129401408450704,52.3342939481268,17.341549295774648,7.60806916426513/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182951:1842072801:0510/pct:23.124312431243123,52.32675407001873,17.343234323432345,7.610574845123181/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -276,7 +276,7 @@ confidence in my own faculty of judging as to be
 ever tenacious in the opinions I have imbued in  
 doubtful case.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1842080101:0579/pct:131.87739463601534,296.5031020868584,56.0919540229885,27.467569091934575/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1842080101:0579/pct:32.97566583636712,74.1257755217146,14.025675416746504,6.866892272983644/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -442,7 +442,7 @@ of judging, as to be ever tenacious of the
 opinions I may have imbibed in doubtful  
 cases.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624414:1842091001:0234/pct:64.84442523768367,111.18337563451777,18.17199654278306,12.341370558375635/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624414:1842091001:0234/pct:50.26514094334357,86.16973322952096,14.08317052749093,9.568495676761055/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -502,7 +502,7 @@ never had such confidence in my own fculty of judging
 as to ever be tenacions of the opinions I may have im­  
 bibed in doubtful cases.-B&#x27;r itings of I ashington, rol
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347922:1848101201:0084/pct:331.16931021763185,330.2182428651371,59.9963113242346,36.16396194739787/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347922:1848101201:0084/pct:82.7770606675272,82.54301300881242,14.996312004425596,9.039725835781228/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -532,7 +532,7 @@ over tenacious of the opinions I may have im­
 bibed in doubtful cases.”—IVnttings of Wash­  
 ington. vol. X. p. 37 J
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215816:1848102001:0280/pct:32.18916857360793,80.04330818664431,12.662090007627764,7.397317686504611/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215816:1848102001:0280/pct:32.18609972351988,80.03771739889642,12.664060762068198,7.399129240297083/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -632,7 +632,7 @@ propriety ; and I never had such confidence ill my own facul­
 ty of judging as to te over-tenacious of the opinions I may have  
 imi&lt;ilied in dwbtful cases.**? Writing* of Wa^hingtfM, vol
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848102801:0376/pct:4.909890733645523,82.60918632208555,15.793954874414645,6.703532332693827/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848102801:0376/pct:4.909890733645523,82.61670992739721,15.798685019630103,6.703532332693827/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -700,7 +700,7 @@ he over tenacious of the opinions I may
 have imbibed in doubtful cases.&quot;  
 Writings of Washington, wol Y. p.371
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1848110101:1147/pct:245.97341673182174,193.7633262260128,115.79358874120406,76.91897654584221/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1848110101:1147/pct:61.52943477410522,48.4408315565032,28.965382358693525,19.229744136460553/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -757,7 +757,7 @@ doubtful cases.&quot; -Writings of ashing
   
 fon.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn87070038:00296028058:1848110301:0296/pct:125.26555386949924,192.75781357565745,50.0,37.67038413878563/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn87070038:00296028058:1848110301:0296/pct:31.33421901689125,48.18945339391436,12.507117100018979,9.417596034696407/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -795,7 +795,7 @@ priety; and I never had such confidence in my
 4 the opinions I may have imbibed in doubtfi&#x27;l cases.&quot;  
 [ If &#x27;ritings of W ashington, vol. 10, p. 371
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848110401:0382/pct:66.59930715935334,87.82138024357239,16.238452655889144,8.434821831303564/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848110401:0382/pct:66.59930715935334,87.82889791008871,16.24807544264819,8.434821831303564/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -919,7 +919,7 @@ of this country on the subject of Cuba, unoffl­
 cially through the press, officially through the  
 concurrent resolution of the two Houses o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_goethe_ver01:data:sn83030272:00175042878:1896070901:0505/pct:171.1128048780488,32.42750872931532,50.6859756097561,15.302869287991498/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_goethe_ver01:data:sn83030272:00175042878:1896070901:0505/pct:42.79451010293557,8.10687718232883,12.676324818909645,3.8257173219978746/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -944,7 +944,7 @@ I never had such confidence in my own facuity
 of judging as to be ever tenacious of the opin­  
 ions I have imbibed in doubtful cases.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:00175042908:1896122301:0727/pct:284.5593590677349,22.57431718726422,48.215586307356155,20.82390221819828/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:00175042908:1896122301:0727/pct:71.15279548351849,5.643579296816055,12.056091786559826,5.20597555454957/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -976,7 +976,7 @@ as to be ever tenacious of the opin?
 ions I have imbibed in doubtful  
 cases.7
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_danastjames_ver01:data:sn93067846:00294551414:1896123001:0488/pct:34.11431129682137,9.274495138369485,16.31099835845396,11.275243081525804/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_danastjames_ver01:data:sn93067846:00294551414:1896123001:0488/pct:34.11431129682137,9.280727998005485,16.320947122320053,11.272126651707804/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -54,7 +54,7 @@ The worlds of these two friends were indeed
 umlike; for John Page, heir to one of the  
 largest estates, lived in the largest mansion o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271742022:1872012501:0094/pct:48.05639200656994,190.29905178701677,40.98001642485628,18.22574762946754/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271742022:1872012501:0094/pct:16.018797335523313,63.43301726233893,13.660005474952094,6.075249209822514/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -77,7 +77,7 @@ that we may get up the next morning and do
 the same; so that you never saw two peas  
 more alike than our yesterday and to-day.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271742022:1872012501:0094/pct:47.78264440186148,211.88001458789205,41.445387352860664,12.727935813274982/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271742022:1872012501:0094/pct:15.927548133953827,70.62667152929735,13.81512911762022,4.242645271091661/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -105,7 +105,7 @@ In this dilemma he had some thoughts of
 going to Petershurg, &quot;if the actors go there  
 in May,&quot; and keeping on to Williamsbur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271742022:1872012501:0094/pct:48.04270462633452,244.35630926331146,41.54119901450862,19.930707512764407/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271742022:1872012501:0094/pct:16.01423487544484,81.45210308777048,13.84706633816954,6.643569170921468/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -123,7 +123,7 @@ for a two or three years tour? &quot;If we
 should not both be cured of love in that time  
 I think the devil would be in it.&quot;From th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271742022:1872012501:0094/pct:48.61757459622228,266.2381473377097,40.78839310156036,6.181619256017505/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271742022:1872012501:0094/pct:16.20585819874076,88.7460491125699,13.596131033853453,2.0605397520058353/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -143,7 +143,7 @@ to exchange! such confidences: &quot;Dear
 Page, to tell you the plain truth, I have  
 not a syllable to write to you about;&quot; whic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_forego_ver01:data:sn84024670:00280762374:1872012701:0104/pct:2.2301871764237355,92.44949122548297,12.624452409398646,2.9199233151452586/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_forego_ver01:data:sn84024670:00280762374:1872012701:0104/pct:2.2351652727996814,92.45317799734552,12.629430505774591,2.927296858870373/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -166,7 +166,7 @@ nay get up the next morning and do the
 same; so that you never saw two peas  
 more alike than our yesterday and to-day.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_forego_ver01:data:sn84024670:00280762374:1872012701:0104/pct:15.49183592194345,8.228874797227547,12.604540023894863,4.527355847220174/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_forego_ver01:data:sn84024670:00280762374:1872012701:0104/pct:15.496814018319395,8.23993511281522,12.604540023894863,4.527355847220174/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -304,7 +304,7 @@ plain truth, I have not a syllable to
 write to you about;&quot; which was a lov­  
 er&#x27;s way of stating that his heart wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn85026955:0020029354A:1872020201:0733/pct:149.2691839220463,92.16014274562284,45.43239951278928,17.307906769265085/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn85026955:0020029354A:1872020201:0733/pct:37.328662808406946,23.04003568640571,11.361559549192812,4.326976692316271/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -325,7 +325,7 @@ bIeSe to Iehd weic hnee tIti
 for John Page, heir to one of the larg­  
 est estates, lived in the largest mansio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn85026955:0020029354A:1872020201:0733/pct:149.2691839220463,109.42344150775064,45.61510353227771,12.044161927065907/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn85026955:0020029354A:1872020201:0733/pct:37.328662808406946,27.35586037693766,11.40724946695096,3.011040481766477/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -349,7 +349,7 @@ next morning and do the same; so
 that you never saw two peas more  
 alike than our yesterday and to-day.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn85026955:0020029354A:1872020201:0733/pct:149.14738124238733,128.6494925839188,45.49330085261876,16.861826697892273/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn85026955:0020029354A:1872020201:0733/pct:37.29820286323485,32.1623731459797,11.37678952177886,4.215456674473068/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -368,7 +368,7 @@ In this dilemma he had some
 thoughts of going to Petersburg, &quot;if  
 the actors go there in May,&quot; an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn85026955:0020029354A:1872020201:0733/pct:148.9646772228989,195.20463923274227,45.49330085261876,8.475521356083418/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn85026955:0020029354A:1872020201:0733/pct:37.252512945476695,48.80115980818557,11.37678952177886,2.1188803390208544/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -387,7 +387,7 @@ years&#x27; tour? &quot;If we should not
 both be cured of love in that time, I  
 think the devil would be in it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn85026955:0020029354A:1872020201:0733/pct:148.90377588306941,208.72086539533845,45.371498172959804,8.341697334671574/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn85026955:0020029354A:1872020201:0733/pct:37.23728297289065,52.18021634883461,11.346329576606761,2.0854243336678935/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -417,7 +417,7 @@ friends were indeed unlike; for John
 Page, heir to one of the largest estates,  
 lived in the largest&#x27; mansion of all Vir
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn85033673:00280779404:1872020201:0111/pct:38.800813008130085,64.2118680073644,16.28048780487805,10.012746069961763/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn85033673:00280779404:1872020201:0111/pct:29.117527450183,48.16598215550206,12.220414802765351,7.5060189774819435/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -439,7 +439,7 @@ the next morning and do the same; so
 that you never saw two peas more alike  
 than our yesterday and to-day.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn85033673:00280779404:1872020201:0111/pct:38.800813008130085,77.3969692678091,16.178861788617887,5.013454184959637/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn85033673:00280779404:1872020201:0111/pct:29.117527450183,58.0512675258462,12.139080927206182,3.7671717886984846/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -458,7 +458,7 @@ I this dilemma be had some tbonghts
 h, Petersburg, &quot; if the actors go  
 there in May,7&#x27; ana peeping on to Wi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn85033673:00280779404:1872020201:0111/pct:38.47560975609756,99.27772270216683,16.13821138211382,3.2431666902705/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn85033673:00280779404:1872020201:0111/pct:28.87352582350549,74.46537317660388,12.118747458316388,2.435915592692253/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -476,7 +476,7 @@ or three yeart&#x27; tour? &quot; If we could not
 both be cured of love in that time I  
 think the devil would be in it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn85033673:00280779404:1872020201:0111/pct:38.41463414634146,104.36198838691404,16.158536585365855,2.4784024925647925/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn85033673:00280779404:1872020201:0111/pct:28.832858885725905,78.27503186517491,12.118747458316388,1.8694235943917292/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -721,7 +721,7 @@ should not both be cured of love in
 that time, I think the devil would be  
 in it.&quot; In this manner does the down
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn84027186:00279528918:1876072101:0116/pct:45.49083382613838,11.626561776955114,20.50561797752809,84.79870430356317/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn84027186:00279528918:1876072101:0116/pct:45.49576187660162,11.626561776955114,20.50561797752809,84.81412926114453/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -799,7 +799,7 @@ two or three years, and If wo should not both
 bo cured of lots In thnt tlmo. I think Iho devil  
 would be in It.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_milosz_ver01:data:sn83030272:00206533122:1890050401:0053/pct:283.6674090571641,10.69258809234508,49.88864142538976,15.43134872417983/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_milosz_ver01:data:sn83030272:00206533122:1890050401:0053/pct:70.95636025998142,2.67314702308627,12.479108635097493,3.8578371810449577/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -829,7 +829,7 @@ not both be cured of love in that timo,
 I think the devil would be in it.&#x27;  
 &quot;But this disappointment in lov
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_johns_ver01:data:sn92073049:0029587935A:1898080901:0276/pct:64.41192711209277,15.16656925774401,19.837106570955275,5.162672900837717/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_johns_ver01:data:sn92073049:0029587935A:1898080901:0276/pct:48.3358652119873,11.37736216637444,14.887446485292086,3.8768751217611532/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -850,7 +850,7 @@ years, and writes: &#x27;If we should not
 both be cured of love in that time, I  
 think the devil would be in it.&quot; Bu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_james_ver01:data:sn85058217:00206534862:1898091601:0211/pct:147.75641025641025,191.59478803450173,40.705128205128204,13.54376949899064/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_james_ver01:data:sn85058217:00206534862:1898091601:0211/pct:49.25213675213675,63.86492934483392,13.568376068376068,4.51458983299688/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -870,7 +870,7 @@ should not both be cured of love in
 that time, I think the devil would be  
 n it?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_bobidosh_ver01:data:sn85040613:00514150953:1898103101:0059/pct:78.86286640153189,37.72782503037667,14.40565620857269,3.2604293236127986/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_bobidosh_ver01:data:sn85040613:00514150953:1898103101:0059/pct:78.8677763048068,37.72782503037667,14.40565620857269,3.2705548805184286/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -891,7 +891,7 @@ that time, I think the devil would be
 in it.’  
 “But this disappointment in lov
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_lucretia_ver01:data:sn86086852:00271768965:1898110301:0703/pct:86.75937122128174,89.50923628342983,18.33937928254736,4.990350151640474/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_lucretia_ver01:data:sn86086852:00271768965:1898110301:0703/pct:67.24802165764265,69.36965811965813,14.212827988338192,3.8710826210826212/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

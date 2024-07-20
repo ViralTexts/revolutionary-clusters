@@ -154,7 +154,7 @@ Your must obed’t and
 Afi’-ct. sert’t,  
 GO; WASHINGTON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:0041421616A:1812120701:0243/pct:20.667541174755865,4.08362122420055,34.32444250109314,86.03950748516255/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:0041421616A:1812120701:0243/pct:20.664529291751677,4.0832595217006205,34.32429806664724,86.03483909064069/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -503,7 +503,7 @@ tiie zeal and activity ol&#x27;our own people that the
 cause must be supported, and not by a few hun­  
 gry adventurers. * * | anl) &amp;,c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_jalapeno_ver02:data:sn83009567:0029602613A:1845011001:0043/pct:8.543945680875142,62.1580547112462,14.598264805733685,7.97181541862393/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_jalapeno_ver02:data:sn83009567:0029602613A:1845011001:0043/pct:8.556519552370174,62.162660035000464,14.585690934238652,7.981026066132449/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -602,7 +602,7 @@ promoted to the rank of field officers,
 and by their last resolve two to that of Co  
 lonels! These men hAv No At
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:0041566770A:1845022801:0597/pct:254.58593054318789,167.31757451181912,60.64113980409617,13.096461606225224/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:0041566770A:1845022801:0597/pct:63.689017598574296,41.82939362795478,15.170416573847183,3.274115401556306/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -627,7 +627,7 @@ It is by the zeal and activity of our own
 people that the cause must be supported,  
 and not by a few hungry adventurers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:0041566770A:1845022801:0597/pct:254.58593054318789,181.17750697401263,62.600178094390024,25.01835266480693/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:0041566770A:1845022801:0597/pct:63.689017598574296,45.29437674350316,15.66050345288483,6.254588166201732/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -657,7 +657,7 @@ of our own people that the cause must be
 supported, and not by a few hungry adven­  
 turers.I am, &amp;c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn88078726:00296028046:1854122101:0466/pct:13.707865168539326,141.6792220243802,52.80898876404494,34.29667168880975/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn88078726:00296028046:1854122101:0466/pct:3.4276081663232816,35.41980550609505,13.20471998501592,8.574167922202438/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -712,7 +712,7 @@ Colonel? These men have no atta
 l-L-UCU IO Lie  
 country, further than interest binds them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058249:00271744778:1855011901:0011/pct:41.205652435357784,115.4227590591227,18.220084185207455,4.869675778766688/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058249:00271744778:1855011901:0011/pct:30.917293233082706,86.57342657342657,13.669172932330827,3.64907819453274/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -740,7 +740,7 @@ It is by the zeal and activity of our own people
 that the cause must be supported, and not by a  
 few hungry adventurers. ? ? ? 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855012301:0246/pct:18.853073463268366,72.87615148413511,15.55472263868066,6.832139201637666/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855012301:0246/pct:18.853073463268366,72.88468099624701,15.560969515242379,6.832139201637666/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -771,7 +771,7 @@ effrontery will take no denial.
 own people that the cause must be supported,  
 and uot by a few hungry adventurers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn85054616:00212477771:1855013101:0120/pct:48.74043367346939,113.66060606060606,19.292091836734695,11.381818181818181/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn85054616:00212477771:1855013101:0120/pct:36.565141125817256,85.24848484848485,14.479349386062829,8.533333333333333/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -829,7 +829,7 @@ nd activity of our own people that the
 cause must be supported, and not by a few  
 hungry adventurers. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85026105:00296028046:1855021501:0498/pct:23.900293255131963,115.22745845818578,50.43988269794721,36.720239716698444/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85026105:00296028046:1855021501:0498/pct:5.975073313782991,28.806864614546445,12.609970674486803,9.180059929174611/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -889,7 +889,7 @@ It is by the zeal and activity of our own!
 people that the cause must be supported,  
 and not bv a few hungry adventuress. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_antares_ver02:data:sn84026824:00271767742:1855022401:0470/pct:3.889585947302384,53.172527366075755,16.04628467865607,11.430785624334012/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_antares_ver02:data:sn84026824:00271767742:1855022401:0470/pct:3.894233003392351,53.17898543704995,16.04628467865607,11.430785624334012/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -941,7 +941,7 @@ It is by the zeal and activity of
 our own people that the cause must be supported,  
 and not by a few hungry adventurers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393347971:1855031601:0705/pct:142.06707197489703,87.35090561036667,58.854677387723086,30.761301722868502/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393347971:1855031601:0705/pct:35.509803921568626,21.834511189634863,14.71078431372549,7.689193168433451/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -972,7 +972,7 @@ tho zeal and activity of our own people
 that the cause must be supported, and not  
 by a few huugry adventurers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cousteau_ver02:data:sn84028817:00296027352:1855032901:0061/pct:26.153846153846153,26.037549407114625,16.11888111888112,15.081521739130435/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cousteau_ver02:data:sn84028817:00296027352:1855032901:0061/pct:19.62224554039874,19.52816205533597,12.102133613151452,11.314229249011857/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1063,7 +1063,7 @@ people that the cause must be supported,
   
 not
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_kingler_ver01:data:sn87058151:00279529212:1855050201:0697/pct:16.8721251149954,67.27197688815518,152.2723091076357,10.414087219700097/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_kingler_ver01:data:sn87058151:00279529212:1855050201:0697/pct:5.624041704998467,22.423992296051726,50.757436369211895,3.4713624065666986/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1092,7 +1092,7 @@ It is by the zeal and activity of our own people
 that the cause must be supported, and net by a  
 few hungry adventurers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393347971:1855052101:0929/pct:204.56901516605873,169.52268010672992,59.608370128623534,30.966498665876074/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393347971:1855052101:0929/pct:51.132437619961614,42.374388617163184,14.899232245681382,7.740477249147769/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1269,7 +1269,7 @@ effrontery will take no denial. It is by me
 cause must be supported, ana not by a lew  
 hungry udventurers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn84024443:00280779209:1855072001:0390/pct:22.110365398956002,33.223954060705495,16.890380313199106,10.514082581350834/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn84024443:00280779209:1855072001:0390/pct:16.6013803394889,24.92480175006836,12.665547472486477,7.888980038282745/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1297,7 +1297,7 @@ by the zeal and activity of our own people that the
 tuse must be supported, and not by a few hungry  
 Iventurcrers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn86071224:00212470053:1855072401:0078/pct:70.88607594936708,59.938137243670525,50.40276179516686,25.89070913048459/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn86071224:00212470053:1855072401:0078/pct:17.72661870503597,14.984534310917631,12.60431654676259,6.472677282621148/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1426,7 +1426,7 @@ it is by the zeal and activity
 of our own people that the cause mast be  
 supported, and not by a few hungryadventurers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026050:00280775782:1855083101:0150/pct:108.94698085419735,11.5067363211438,16.899852724594993,28.031344514709925/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026050:00280775782:1855083101:0150/pct:81.73448720309335,8.633489139400606,12.668016939790094,21.02007148748969/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1444,7 +1444,7 @@ Their effrontry will take no denial. It is by the zeal and
 activity of our own people that the cause must be sup­  
 ported, and not by a few hungry adventurers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_pearse_ver01:data:sn82015753:00212475373:1855091201:0253/pct:51.89393939393939,89.35069008782936,39.015151515151516,4.422835633626097/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_pearse_ver01:data:sn82015753:00212475373:1855091201:0253/pct:17.2979797979798,29.783563362609787,13.005050505050505,1.4742785445420326/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1586,7 +1586,7 @@ than interest binds I hem.&quot;
 own people that the cau*e must be supported, and  
 not by a few hungry adventurm
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855100501:1111/pct:20.995005762581638,17.753714429614707,15.443718786016134,3.9788466381264165/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855100501:1111/pct:21.001408631066717,17.762108620834383,15.443718786016134,3.9830437337362543/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1611,7 +1611,7 @@ many losses, to have strangers put over them,
 whose merits, perhaps, arc not equal to their own,  
 but whose effrontery will take no denial
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855100501:1111/pct:21.148674606223587,25.39662553512969,15.501344602381867,5.338705615713926/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855100501:1111/pct:21.148674606223587,25.405019726349366,15.501344602381867,5.342902711323764/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1629,7 +1629,7 @@ gress expects i am to do witii thc many
 forcgners they have at different times bceu j  
 promoting to the rank of field officers, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cousteau_ver02:data:sn84028817:00296027352:1855101001:0185/pct:43.338008415147264,80.03206709422793,16.216690042075736,2.9230389738529845/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cousteau_ver02:data:sn84028817:00296027352:1855101001:0185/pct:32.520610419224695,60.027133695115936,12.173302929310648,2.195362604834731/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1665,7 +1665,7 @@ tivity of bur own people that : tho : catiso
 must be supported, and. not by a few hun­  
 gry adventurer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cousteau_ver02:data:sn84028817:00296027352:1855101701:0188/pct:74.42145862552594,34.14085914085914,16.286816269284714,15.222277722277722/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cousteau_ver02:data:sn84028817:00296027352:1855101701:0188/pct:55.84985090335029,25.611888111888113,12.225925276267322,11.413586413586414/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1695,7 +1695,7 @@ and activity ol&#x27;oi/r ov i people that the cause
 must be supported, and not by a lew hungry  
 adventurers. * * * * 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82014892:00393342870:1855102001:0248/pct:78.46295444086516,51.86421173762946,12.42521859180856,7.733026467203683/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82014892:00393342870:1855102001:0248/pct:78.45092024539878,51.85824416062594,12.427147239263803,7.7350132320791625/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1855,7 +1855,7 @@ will take no denial. It is by the zeal and activity of our
 own people that the cause must be supported, and not by  
 the few hungry adventurers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184674:1856040301:0180/pct:93.10344827586206,109.54629203132197,37.85828604684999,14.140948871487794/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184674:1856040301:0180/pct:31.029967995344776,36.51122625215889,12.617592861992048,4.713106889272693/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

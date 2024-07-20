@@ -115,7 +115,7 @@ this press and be employed wholly in
 writing for it would render it singularly  
 beneficial. Gxo. NVA MGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_andersonpink_ver02:data:sn86063760:00294550768:1887051801:0323/pct:83.81623179125981,38.403936670945654,13.94269249239635,12.334189131364997/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_andersonpink_ver02:data:sn86063760:00294550768:1887051801:0323/pct:83.81623179125981,38.403936670945654,13.948028386959074,12.337754956496934/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -154,7 +154,7 @@ this r?ress and be emnloved whollv in
 writing for it would render it singularly  
 beneficial. Geo. &quot;Washesgtox
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_henryjohnson_ver01:data:2012218613:0023728849A:1887051801:0172/pct:71.13335900397895,35.41454377026401,12.783981517135157,11.032885595182956/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_henryjohnson_ver01:data:2012218613:0023728849A:1887051801:0172/pct:71.13335900397895,35.42071946888992,12.796816839943524,11.02979774587/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -192,7 +192,7 @@ this press and bo employed wholly in
 writing for it would render it singularly  
 bonofloial, GEO. WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kikideville_ver02:data:sn93067760:00211109890:1887051801:0387/pct:84.04975594394584,38.74156780646662,14.564635490473941,12.398232147010933/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kikideville_ver02:data:sn93067760:00211109890:1887051801:0387/pct:84.06025297853357,38.74932154764674,14.559386973180077,12.398232147010933/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -272,7 +272,7 @@ this press and be employed wholly in
 writing for it would render it singularly  
 beneficial. Geo. Wasminuron
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_ettabaker_ver02:data:sn84026913:00237288105:1887051901:0662/pct:245.40198237885463,113.32685874608828,40.955396475770925,36.43034423222186/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_ettabaker_ver02:data:sn84026913:00237288105:1887051901:0662/pct:81.80066079295155,37.77561958202942,13.651798825256975,12.143448077407287/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

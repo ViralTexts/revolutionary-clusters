@@ -71,7 +71,7 @@ lalelphia, in the Year 1993. By Benjami
 &quot; Yellow Fevci, as it appeared in the ci­  
 -4&lt; ty of Philadelphia in the year 1793* b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794090601:0004/pct:30.07399577167019,66.2947543713572,15.010570824524313,1.6153205661948375/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794090601:0004/pct:30.087209302325583,66.30308076602832,15.01717758985201,1.6153205661948375/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -89,7 +89,7 @@ words following, to wit :
 &quot; Yellow Fever,-as it appeared in the ci­  
 -4t tv of Philadelphia in the year 1793* b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794090901:0004/pct:26.284796573875802,67.08966438470529,16.167023554603855,2.2374352980464183/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794090901:0004/pct:26.304871520342612,67.08966438470529,16.187098501070665,2.249958256804141/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -550,7 +550,7 @@ Peflilcutial D}fug_foc ». with the prioei­
 pal Phenomena of the physical world,  
 which precede and accompany them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1803080201:0329/pct:76.90067443286327,60.175594357304924,16.048436541998775,16.799842162375455/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1803080201:0329/pct:76.90578377273657,60.182170924994246,16.05354588187206,16.793265594686133/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -568,7 +568,7 @@ Peltilential Diseases ; with the princi­
 pal Phenomena of the physical world,  
 which precede and accompany them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1803080901:0334/pct:23.858823529411765,54.51716522786589,16.54901960784314,2.810680586227665/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1803080901:0334/pct:23.8640522875817,54.52051127618283,16.54901960784314,2.814026634544603/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -586,7 +586,7 @@ Peftikential Diseases ; with the princi­
 pal Phenomena of the physical world,  
 which precede and accompany them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1803081601:0338/pct:76.74055572900406,61.42400639105253,16.29722135497971,2.7661274216097462/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1803081601:0338/pct:76.75096263919242,61.427335064243394,16.29722135497971,2.7661274216097462/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

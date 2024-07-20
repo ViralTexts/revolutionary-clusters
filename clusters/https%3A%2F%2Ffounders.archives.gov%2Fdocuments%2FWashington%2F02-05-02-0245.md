@@ -73,7 +73,7 @@ IDritvo.&#x27;J That an all-powerful Providence may
 faithful and ever ailcctionate friend.  
 Not so bad, that. Two months later h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_ashbel_ver01:data:sn82015679:00295870382:1890031601:0158/pct:9.694570135746606,84.69314654143119,17.975113122171944,7.219613149725384/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_ashbel_ver01:data:sn82015679:00295870382:1890031601:0158/pct:7.2762249632228135,63.51985990607339,13.488740522801855,5.420679773939345/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -112,7 +112,7 @@ going to you a9 to another self Bravol
 That an allpowerful Providence may  
 keeu us both in safety is the prayer of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_golf_ver01:data:sn86064205:00206536597:1890031601:0197/pct:230.50171037628277,337.9265091863517,51.31128848346636,48.545494313210845/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_golf_ver01:data:sn86064205:00206536597:1890031601:0197/pct:57.64185913886513,84.48162729658793,12.83147989734816,12.136373578302711/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -215,7 +215,7 @@ That all-powerful Providence may
 keep us both in safety is the prayer of your faith-  
 ever affectionate f
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kaiser_ver01:data:sn83030214:00175038930:1896071901:0347/pct:245.3140253823625,222.70461845165576,48.47054995118776,9.092922804297265/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kaiser_ver01:data:sn83030214:00175038930:1896071901:0347/pct:81.77134179412084,74.23487281721859,16.156849983729256,3.0309742680990883/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -244,7 +244,7 @@ Self. That an All powerful Providence
 may keep us both in safety is tho prayer of  
 Tour ever faithful &amp; Ever affectionate Friend
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_garwood_ver02:data:sn83040340:00237285293:1897040901:0326/pct:32.529290144727774,103.27809362525704,20.6237077877326,10.765694931655982/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_garwood_ver02:data:sn83040340:00237285293:1897040901:0326/pct:21.699413995174076,68.85206241683802,13.75387797311272,7.185194145397363/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

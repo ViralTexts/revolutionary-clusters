@@ -74,7 +74,7 @@ boat in the tiver. The wharves and shores wreueed
 th a vast concourse of people, all sheu  
 saing in a manner which gave great toy to ey ttre a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206533456:1874070601:0707/pct:340.7600596125186,332.44602188701566,49.10581222056632,16.799763383614316/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206533456:1874070601:0707/pct:85.22176667909056,83.11150547175392,12.281028699217295,4.199940845903579/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -102,7 +102,7 @@ ing, and the bonures in the a reels, amth sawetss I
 plaved of. Had en o e  
 hi tartenta thes aaei 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206533456:1874070601:0707/pct:339.7913561847988,361.49068322981367,59.83606557377049,24.66725820763088/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206533456:1874070601:0707/pct:84.97950055907566,90.37267080745342,14.964591874767052,6.16681455190772/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -139,7 +139,7 @@ shores wero lined with vast crowds of
 joyous people. Tho Congressional  
 dinner was at the &quot;City Tavern,&quot; i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84027008:00294551220:1874070801:0023/pct:49.86251145737855,38.01833857944437,16.27864344637947,14.561379499110442/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84027008:00294551220:1874070801:0023/pct:49.86862205927284,38.02746225080973,16.27864344637947,14.56594133479312/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -173,7 +173,7 @@ and Pennsylvania, with galleys, guard­
 boats, and other continental armed  
 vessels took part in the celebration
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn85033438:00200293575:1874071501:0659/pct:26.55959031657356,43.83256406175394,19.227188081936685,13.273913735476683/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn85033438:00200293575:1874071501:0659/pct:19.93943629163755,32.88238102817125,14.442115071045889,9.963393283463313/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -645,7 +645,7 @@ and expresses the surprise of the writer In
 the evening to behold almost every house  
 lighted by candles in the windows, &quot;thoug
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ibizanhound_ver01:data:sn83045462:0028065520A:1898070201:0739/pct:69.91409248766222,40.69335534461411,13.598976421129592,19.741367450818544/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ibizanhound_ver01:data:sn83045462:0028065520A:1898070201:0739/pct:69.92780113324804,40.69679460723621,13.603545969658198,19.751685238684825/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -666,7 +666,7 @@ Had General Howe been here in disguise,
 or his master, this show would have given  
 them the headache.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ibizanhound_ver01:data:sn83045462:0028065520A:1898070201:0739/pct:69.91409248766222,60.28339524006053,13.56242003290075,2.916494703535562/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ibizanhound_ver01:data:sn83045462:0028065520A:1898070201:0739/pct:69.92323158471943,60.28339524006053,13.557850484372144,2.919933966157656/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -691,7 +691,7 @@ together. The general officers and oth­
 ers in town were invited, after the  
 President and Council and Board of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_ahwahnee_ver01:data:sn85066387:00175037731:1898070301:0050/pct:15.811698467313105,92.70164986251146,12.96527994995308,4.743354720439964/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_ahwahnee_ver01:data:sn85066387:00175037731:1898070301:0050/pct:15.811698467313105,92.70546898869539,12.980919612136377,4.747173846623893/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -731,7 +731,7 @@ fire and after them the gunboats. Then
 He possessed the power of inductive  
 and deductive reasoning within th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_ahwahnee_ver01:data:sn85066387:00175037731:1898070301:0050/pct:29.402564904598062,9.509624197983502,26.962777604003755,87.87809349220898/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_ahwahnee_ver01:data:sn85066387:00175037731:1898070301:0050/pct:29.407778125325827,9.509624197983502,26.96799082473152,87.88573174457684/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -768,7 +768,7 @@ houses were dark. I had forgot,&quot; he
 continues, &quot;the ringing of bells all day  
 and evening;, and the bonfires in the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_ahwahnee_ver01:data:sn85066387:00175037731:1898070301:0050/pct:43.11854863934939,87.84372135655362,13.152955896152642,9.555453712190651/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_ahwahnee_ver01:data:sn85066387:00175037731:1898070301:0050/pct:43.12376186007715,87.85135960892148,13.152955896152642,9.547815459822793/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -787,7 +787,7 @@ Had General Howe been here in dis­
 guise, or his master, this show would  
 have given them the headache.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_ahwahnee_ver01:data:sn85066387:00175037731:1898070301:0050/pct:56.944010009383796,87.7749770852429,13.090397247419455,1.695692025664528/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_ahwahnee_ver01:data:sn85066387:00175037731:1898070301:0050/pct:56.944010009383796,87.77879621142682,13.100823688874987,1.695692025664528/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -867,7 +867,7 @@ Ceneral howe becil hero in disguise , or his
 master , this show would have given them  
 the hicailachie. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_emerson_ver01:data:sn99021999:00206538922:1898070301:0529/pct:2.6109215017064846,61.01786681104494,18.071672354948806,2.84244721169464/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_emerson_ver01:data:sn99021999:00206538922:1898070301:0529/pct:2.6109215017064846,61.01786681104494,18.071672354948806,2.8525988088792635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -939,7 +939,7 @@ In the evening to behold almost every
 house lighted by candles in the windows  
 though a few surly houses were dar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:00206534783:1898070301:0033/pct:105.0479233226837,42.52272727272727,19.361022364217252,30.96590909090909/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:00206534783:1898070301:0033/pct:70.0431378814507,28.352272727272727,12.909410448953507,20.643939393939394/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -959,7 +959,7 @@ played off Had General Howe been here­
 In disguise or his master this show  
 would have given given them the hea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:00206534783:1898070301:0033/pct:105.01597444089457,73.47727272727273,19.121405750798722,3.159090909090909/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:00206534783:1898070301:0033/pct:70.02716088832082,48.98863636363637,12.749640517654578,2.102272727272727/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1008,7 +1008,7 @@ tAy and coan lig and th harfees t
 te tats sa wetid heut  
 AIter the Declarntion of Peace
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_hoquiam_ver01:data:sn83045604:00202199483:1898070301:0270/pct:55.782215198965666,201.5389876880985,36.862519752909066,52.72457820337437/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_hoquiam_ver01:data:sn83045604:00202199483:1898070301:0270/pct:18.594071732988557,67.1796625626995,12.287506584303022,17.57485940112479/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

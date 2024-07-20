@@ -930,7 +930,7 @@ Pravy
 Oh, God! in the order of thy providence, another re,­  
 presentative of the peopie has been taken to the world o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271742939:1846062401:0762/pct:244.44072337575352,230.49358455669864,47.270596115204285,13.385735753092128/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271742939:1846062401:0762/pct:81.48024112525117,76.83119485223288,15.756865371734762,4.461911917697376/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1131,7 +1131,7 @@ Jesus, this rich clothing of hia thoughts
 in glowing imagery, striking metaphor  
 and impressive simile manifests irself
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_bittern_ver01:data:sn84022795:no_reel:1877012701:0356/pct:28.639491794600318,148.08694090174242,46.77077818951826,16.13077061253817/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_bittern_ver01:data:sn84022795:no_reel:1877012701:0356/pct:9.546497264866773,49.362313633914134,15.590259396506088,5.376923537512724/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1352,7 +1352,7 @@ Whatever we do, whatever we be,
 W’e are traveling to the grave.  
 * *
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kite_ver01:data:sn86092182:00514157480:1886100201:0761/pct:67.35120083536373,37.73329726805518,8.249216846501914,2.434406275358399/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kite_ver01:data:sn86092182:00514157480:1886100201:0761/pct:67.33948146859231,37.72819472616633,8.25213154689403,2.4374577417173766/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1433,7 +1433,7 @@ mains of Hon. Jacob Ziegler on Tues­
 day morning last were not only very  
 largely attended but were very im
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_erie_ver02:data:sn86071045:00296026487:1888052501:0542/pct:14.468425259792166,83.2172195071228,9.845456967759127,5.043152750337943/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_erie_ver02:data:sn86071045:00296026487:1888052501:0542/pct:14.477307043254285,83.2172195071228,9.836575184297008,5.0466188347024366/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1462,7 +1462,7 @@ They fly forgotten, as a dream
 Dies at the opening day.  
 The subject of Dr. Talmage&#x27;s sermon wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_franco_ver01:data:sn84024546:00237280003:1889021101:0409/pct:6.340454858718125,24.466767579468833,14.17987594762233,3.1374707582220998/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_franco_ver01:data:sn84024546:00237280003:1889021101:0409/pct:4.756980351602896,18.356956102931058,10.651499482936918,2.353103068666575/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1481,7 +1481,7 @@ They fly forgotten as a dream
 Dies ttt the opening day  
 The subject of Dr Talmages sermo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_golf_ver01:data:sn86064205:00206536573:1889021101:0375/pct:19.54795357361026,80.69684912356168,52.718387293830176,8.258952575545758/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_golf_ver01:data:sn86064205:00206536573:1889021101:0375/pct:4.887734840384909,20.17421228089042,13.181609897663051,2.0647381438864394/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1520,7 +1520,7 @@ rimy fly forgotten, as a dream
 Dies at the opening day.  
 The subject of Dr. Talmage’s sermo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_americanrobin_ver01:data:2010270509:00517013882:1889022801:1014/pct:6.815048256844594,17.76095501528607,11.818002757533977,2.8825156500218374/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_americanrobin_ver01:data:2010270509:00517013882:1889022801:1014/pct:6.8137061835368256,17.758369723435226,11.820598660890115,2.885735080058224/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1792,7 +1792,7 @@ Bears all its sons away:
 They fly, forgotten, a9 a dream  
 Dies at the oieuing day
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_frank_ver01:data:sn96091104:00296020837:1898111101:1095/pct:49.306656101426306,122.96296296296296,15.70919175911252,2.367724867724868/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_frank_ver01:data:sn96091104:00296020837:1898111101:1095/pct:36.999603646452634,92.22222222222223,11.791518034086405,1.7857142857142858/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1867,7 +1867,7 @@ Bears all its sons away;
 They fly forgotten, as a dream   
 Dies at the opening day.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_engledinger_ver02:data:sn85040310:00514152160:1899111601:0319/pct:66.04008293020041,12.510678690080683,9.730476848652383,1.6990982439487423/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_engledinger_ver02:data:sn85040310:00514152160:1899111601:0319/pct:66.04008293020041,12.510678690080683,9.730476848652383,1.7054263565891472/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1892,7 +1892,7 @@ Bears all its sons away:
 They fly forgotten as a dream  
 Dies at the opening da
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_braeburn_ver01:data:sn85034374:00295877856:1899120201:0936/pct:241.78445229681978,24.767057409077246,49.11660777385159,27.712654042681095/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_braeburn_ver01:data:sn85034374:00295877856:1899120201:0936/pct:60.4728236853734,6.1917643522693115,12.284577993813523,6.928163510670274/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1915,7 +1915,7 @@ at
   
 the opening day.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_rolls_ver01:data:sn85025431:00212479937:1899122001:0424/pct:39.52608194832977,21.89416307063366,9.330261642257693,1.8169429934135817/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_rolls_ver01:data:sn85025431:00212479937:1899122001:0424/pct:39.53705227359991,21.897948368536603,9.335746804892764,1.8207282913165266/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

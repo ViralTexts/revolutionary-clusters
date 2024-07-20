@@ -535,7 +535,7 @@ such, mean* »■ they have in tlicir power, The Indians
 arc to be insulted, .threatened, and driven from their  
 lands | if they resist nothing leas than extermination i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813010801:0294/pct:47.57257867772628,21.419416853572574,21.127104171749206,4.950336430631208/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813010801:0294/pct:47.5609756097561,21.415985904212718,21.128048780487806,4.953547973730578/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -629,7 +629,7 @@ be immediately paid by the coromissa­
 &#x27;ffier commanding the division with  
 which they are acting at the tim
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813090801:0563/pct:80.87273833054584,41.24141770272778,16.618519081648166,4.193727964371869/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813090801:0563/pct:80.86044390392216,41.2375916133222,16.621060099320967,4.196431332529301/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -662,7 +662,7 @@ no pilfering is allowed by the officers, and
 j srill know the general way in wmen such  
 accounts are given out to the American pui
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813090801:0286/pct:58.40505884419463,38.276990185387135,16.845248550851924,10.88089179692233/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813090801:0286/pct:58.39480154548648,38.272352798643084,16.84814424540452,10.883611986107745/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -683,7 +683,7 @@ the enr.imitt&#x27;irh&#x27;P, upon tbe certificate of the general
 offiotr ronrriftnding the division with which they are  
 acting at the time
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1813091001:0152/pct:42.01161946259985,75.02501250625312,17.084241103848946,3.4017008504252124/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1813091001:0152/pct:42.0039934652387,75.01563086157309,17.087190657711623,3.405443708057188/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -702,7 +702,7 @@ paid by rhe commissaries, upon the certificr.ieof
 the genrral otlieer comir.andinsr the division with  
 which they are acting at (he time
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813091101:0603/pct:75.1386787695411,29.232782594470798,21.709531013615734,3.38622607557664/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813091101:0603/pct:75.11973783715653,29.228001308472358,21.710360473909756,3.3897612037945697/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -939,7 +939,7 @@ llli&#x27;ites, two barns and shop, were instantly consumed.
 On the succeeding day, the 5th iust. the detachment  
 precei deil la Burford, wi.e^c we were informed tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1814122901:0306/pct:2.09020902090209,38.78269617706238,20.333700036670333,7.356639839034205/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1814122901:0306/pct:2.0898258478460128,38.77781969068276,20.33608310418576,7.359906115092837/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1096,7 +1096,7 @@ were informed that the miliiia had been em­
 bodied about ten days previously to our arrival,  
 in consequence of reports received fro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1815011701:0221/pct:57.75215337593776,21.639621048682113,16.518477354820785,10.599380921114342/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1815011701:0221/pct:57.756784291932945,21.639621048682113,16.523108270815968,10.608760904230373/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2015,7 +2015,7 @@ and full hauded, -taking advantage of another
 whom they had recently forced into  
 it. unarmed and unprepared (after tw
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn87056600:00202191666:1881060101:0491/pct:73.58490566037736,23.903833933488666,16.329078801331853,5.803855115441643/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn87056600:00202191666:1881060101:0491/pct:55.211658570437194,17.930523194238507,12.255378209576683,4.352891336581233/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2048,7 +2048,7 @@ arts, by the destruction of the public li­
 brarj as well as the noble edifice in which  
 it was deposited &quot; Jefferson then offere
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_earl_ver02:data:sn85054468:211102214:1899120301:0489/pct:8.363309352517986,81.3845644253064,18.764988009592326,12.818814176879762/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_earl_ver02:data:sn85054468:211102214:1899120301:0489/pct:5.578047683310841,54.2563762835376,12.520617783775679,8.54587611791984/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

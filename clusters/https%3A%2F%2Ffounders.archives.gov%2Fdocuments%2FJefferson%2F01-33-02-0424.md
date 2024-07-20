@@ -92,7 +92,7 @@ con&#x27;ents, I expect that a just.dispassionate ami
 steady conduct will a1 le&gt; g h rally to a proper  
 system the gr at b.-dy • nu- coun&#x27;ry.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216420:1829101001:0036/pct:43.80372492836676,29.27742418569824,19.072349570200572,39.96006489454636/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216420:1829101001:0036/pct:43.7958818263205,29.273770900923385,19.074903014025665,39.95923800016637/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -130,7 +130,7 @@ shall suffer vo invan &gt;n from me. Those who
 have acted well, have nothing to fear, however  
 lh-ji may have, differr I f rom me in opinion 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1829101901:0488/pct:17.896865520728007,41.33430021754895,14.277047522750253,2.52356780275562/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1829101901:0488/pct:17.893247068338052,41.32830626450116,14.27921552769915,2.526827146171694/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -154,7 +154,7 @@ he knew he was naming councillors anil aids /or
 me, anil ml for himself, I set aside, as far as  
 depends on me.&quot;—This sentence refers to di
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1829101901:0488/pct:17.654196157735086,76.35968092820885,14.337714863498483,5.728788977519942/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1829101901:0488/pct:17.65062676910635,76.3486078886311,14.339870602507077,5.731583526682135/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -175,7 +175,7 @@ ju tice to have done. The instances will be
 i fete, anil governed by strict rule, and not party  
 passion ”—Does not the glaring dissimilarit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1829101901:0488/pct:17.451971688574318,91.39956490210297,14.600606673407482,4.423495286439449/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1829101901:0488/pct:17.448443186413265,91.38631090487239,14.602709260008087,4.426479118329467/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -216,7 +216,7 @@ fice, such as marshals packing juries, &amp;ec. I shall
 now remove, as my predecessors ought in jus­  
 tice to have done. 7 :
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1829102701:0170/pct:60.48730368413327,71.60386473429952,15.705269338030236,8.0/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1829102701:0170/pct:60.49219629140369,71.60386473429952,15.715054552571065,8.006441223832528/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -238,7 +238,7 @@ strict xulx, mad nalpnrfy psis\ioti. The rioht nr o­
 who have acted well have nothing to fear, however  
 they may havo differed from roc in opinion.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184315:1829102701:0319/pct:40.11985491247437,88.9230013508535,17.189717710140357,4.371853125383765/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184315:1829102701:0319/pct:40.113528855250706,88.91208251473478,17.192263218753286,4.375409299279633/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -487,7 +487,7 @@ passion. Tit* right of opinion shall suffer no Misassou fiom iM.
 Those who have acted well have nothing to frar, however they  
 may hare differed from me m npimon.’ In other parts of hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830040701:0332/pct:42.82991900905193,10.883150571866524,17.69096395108782,3.07746727980191/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830040701:0332/pct:42.823118450301685,10.881867484083942,17.693447655340318,3.0810343472451467/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -511,7 +511,7 @@ fhofe who have acted Well have nothing to
 fear, however they may have differed from ine  
 in opinion.’ In other part* of bis correSpo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1830041501:0690/pct:78.32644628099173,87.92502179598954,14.690082644628099,5.042138913106655/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1830041501:0690/pct:78.31026647386904,87.91224756646811,14.692212352819665,5.045038500653785/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -719,7 +719,7 @@ the head of a faction. e made but 9 remov­
 als in 8 years. T&#x27;he last Adams, and the Jast  
 of the five Presidents of the school of Wash
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152755:1836102001:0178/pct:5.807653233999322,26.145155348151786,14.663054520826279,7.92091366818126/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152755:1836102001:0178/pct:5.8132972118749295,26.145155348151786,14.663054520826279,7.929100659052765/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -798,7 +798,7 @@ howaver, have nothing to hope, nor shall I
 fall to do justice, lest it should be ascribed  
 to that difference of opinion.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296205:1858100201:0784/pct:23.655172413793103,174.83972075794273,51.03448275862069,42.11426129078216/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296205:1858100201:0784/pct:5.9168535449370365,43.70993018948568,12.76522339140935,10.52856532269554/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -906,7 +906,7 @@ Presidents elected by the people, aud
 they only for a single term each. The  
 ueuiocraiio residents up to and lncl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280774856:1883080801:0821/pct:7.414170927684442,6.4351990422029335,32.815924032140245,120.05387608500449/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280774856:1883080801:0821/pct:5.572811986113649,4.8338820712361565,24.63000182715147,90.04788985333732/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -938,7 +938,7 @@ to Mr. Lincoln, his Attorney General, and
 after mentioning several causes for removal,  
 he said: &quot;To these shall be added one more,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn83016223:00200295754:1885010901:0082/pct:50.833333333333336,109.82828953609715,18.307692307692307,11.033108813205578/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn83016223:00200295754:1885010901:0082/pct:38.142875464922405,82.37358884356323,13.736052327818392,8.272459918413812/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -959,7 +959,7 @@ us my predecessor ought in justice to
 have done.&quot;  
 Two Nimrods while on a hunting pxd
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_fargo_ver01:data:sn87060189:00206533663:1885030401:0211/pct:10.052219321148826,87.5107051099058,22.06266318537859,6.765629460462461/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_fargo_ver01:data:sn87060189:00206533663:1885030401:0211/pct:7.553330430996953,65.64016557236654,16.54331737048324,5.070653725378247/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -984,7 +984,7 @@ stances will Im; few, and governed by strict
 rule, and not party passion. The right of  
 opinion shall suffer no invasion from me.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fireweed_ver01:data:sn83016209:00383342429:1885071701:0662/pct:36.184448462929474,45.32089341249647,13.435804701627486,6.347186881538026/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fireweed_ver01:data:sn83016209:00383342429:1885071701:0662/pct:28.05288236942913,35.12763393346237,10.412968326637392,4.919110396961618/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1030,7 +1030,7 @@ have read, Mr Jtfieraon went on to say in
 that and in other letters.  
 &#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_odona_ver04:data:sn86092518:00383341760:1886032401:0088/pct:75.65386339859512,76.9595220929035,11.956359288596623,5.82964259964981/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_odona_ver04:data:sn86092518:00383341760:1886032401:0088/pct:75.64255827854154,76.95159629248198,11.95955369595537,5.832475111568829/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1055,7 +1055,7 @@ ty passion. The right of opinion shall
 suffer no invasion from me. . .  
 The measures we shall pursue and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033429:00280779337:1893022301:0166/pct:28.858578607322325,34.66564181398924,15.667623833452978,8.378170637970792/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033429:00280779337:1893022301:0166/pct:21.65559346381756,26.00563668972585,11.761537080265757,6.290033307712016/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

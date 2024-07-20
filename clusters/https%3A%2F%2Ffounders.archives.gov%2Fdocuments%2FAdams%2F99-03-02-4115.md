@@ -359,7 +359,7 @@ Fair as a wood nymph, I say, Mary Latimer sat upon
 the rock, and her buzy fingers flew and her solt eyes  
 answered his, and her happy heart was contente
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536093:1868082101:0180/pct:286.58730158730157,116.8646080760095,51.03174603174603,28.622327790973873/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536093:1868082101:0180/pct:71.67526796347757,29.216152019002376,12.763001190948788,7.155581947743468/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -443,7 +443,7 @@ busy fingers flew and her soft eyes answered
 his, and her happy heart was contented with  
 such a friend
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn83025182:00279528700:1868090401:0218/pct:45.399698340874814,91.69368362213527,33.906485671191554,28.988261598658468/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn83025182:00279528700:1868090401:0218/pct:15.133232780291603,30.564561207378425,11.302161890397185,9.66275386621949/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -482,7 +482,7 @@ and her busy fingers flew and her soft
 eyes answered his, and her happy heart  
 was contented with such a friend
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292984:1868090601:0298/pct:107.0031545741325,164.2346208869814,42.27129337539432,41.535526943252265/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292984:1868090601:0298/pct:26.763452737888592,41.05865522174535,10.572826258481932,10.383881735813066/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -517,7 +517,7 @@ imer sat upon the rock, and her busy fingers
 flew and her soft eyes answered his, and her  
 happy heart was contented with such a friend
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762489:1868112401:0194/pct:56.370144504838926,39.89092325671991,12.620973087630917,9.592910011686794/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762489:1868112401:0194/pct:56.370144504838926,39.89092325671991,12.629811304078837,9.599402674977275/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -566,7 +566,7 @@ heard
 Such tenderness fall from her  
 tongue
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_alvarez_ver01:data:sn84026688:00415623458:1873011101:0415/pct:15.32574568288854,14.41278844914271,10.832025117739404,1.9079541059688023/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_alvarez_ver01:data:sn84026688:00415623458:1873011101:0415/pct:15.32574568288854,14.41278844914271,10.851648351648352,1.9122512999011645/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -676,7 +676,7 @@ In lighter vein, and in the reckless spirit
 of jouth, jet, in serious, solemn earnest:  
 &quot;Blj the Bessie at the spinning shlel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dred_ver01:data:sn86063615:00211109142:1898012501:0015/pct:80.33664881407805,51.0590228748941,16.564651874521807,5.309234679469077/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dred_ver01:data:sn86063615:00211109142:1898012501:0015/pct:60.28708133971292,38.29426715617058,12.440191387559809,3.9819260096018074/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

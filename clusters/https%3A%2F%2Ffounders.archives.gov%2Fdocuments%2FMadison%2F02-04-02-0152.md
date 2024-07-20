@@ -77,7 +77,7 @@ poses; anda bill for the relief of the Red Rive
 1. Supplementary to an act for the relief of sick and  
 disabled seamen, and for other purposes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271742976:1848012701:0131/pct:108.92999521607399,104.15952462575706,45.55892202200606,2.856816363844132/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271742976:1848012701:0131/pct:36.309998405357994,34.71984154191902,15.186307340668687,0.9522721212813774/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -129,7 +129,7 @@ Mr. BAY, from the Committee on Revolutionary
 Claims, reported bills for the relief of the heirs of Nich­  
 olas Lacharee and others, und for the payment of a deb
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850033001:0413/pct:35.87096774193548,56.471176691259224,15.709677419354838,3.426284856821308/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850033001:0413/pct:35.88172043010753,56.47951315076487,15.720430107526882,3.426284856821308/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

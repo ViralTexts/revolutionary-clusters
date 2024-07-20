@@ -99,7 +99,7 @@ debted.
 IN witneft and for canfe wiiereof, w*  
 affix hereto the ftjal of &gt; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793051801:0002/pct:70.14118353860017,54.762348555452,19.91589065785521,35.11649580615098/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793051801:0002/pct:70.14118353860017,54.77166821994408,19.93841994592971,35.11649580615098/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -328,7 +328,7 @@ ports, p.ij-es,ar.d territories, to the end, to tiaiissct his
 I buxines# where and m w lrat manner he -d’xll junye pro­  
 per, whereof-.ve si.all he vvilliugly ludelrled. lu testi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:0041418392A:1817100701:0164/pct:51.65562913907285,17.99244731392374,15.248344370860927,6.297965647460105/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:0041418392A:1817100701:0164/pct:51.647078298294986,17.990255785627284,15.251338078684544,6.301258627689809/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -459,7 +459,7 @@ shall judge proper, whereof we shall be willingly indebted.
 Tn testimony whereof we have caused the seal of the United  
 States of America to be hereunto affixed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dunbar_ver01:data:sn83030364:print00211110089:1854092401:0001/pct:86.04416403785488,7.191506410256411,8.668769716088327,5.649038461538462/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dunbar_ver01:data:sn83030364:print00211110089:1854092401:0001/pct:86.05362776025237,7.191506410256411,8.659305993690852,5.656550480769231/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -500,7 +500,7 @@ help him.&quot;
 Membebs of thf. Legislature who were  
 in town Saturday expressed the opinion tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_farmington_ver01:data:sn83016025:00279525280:1870020201:0590/pct:3.9366220189480563,49.69844583623289,11.254491996079713,6.8893528183716075/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_farmington_ver01:data:sn83016025:00279525280:1870020201:0590/pct:3.935979095214764,49.69268236112722,11.25673689367957,6.891453090571726/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -631,7 +631,7 @@ to the end to transact his business where
 and in what manner he shall judge  
 proper.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00383342132:1885012201:0379/pct:33.172948409516174,14.962467031852302,10.03742314889067,13.359707851491175/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00383342132:1885012201:0379/pct:33.172948409516174,14.969229728815852,10.03742314889067,13.352945154527626/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -682,7 +682,7 @@ passes and territories to the end to trans
 act his business where and in what manner  
 he shall judge proper.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84020714:00296023024:1885020601:0227/pct:92.7722498618021,25.344827586206897,17.081260364842453,24.935344827586206/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84020714:00296023024:1885020601:0227/pct:69.611502834232,19.00862068965517,12.81625881377022,18.70689655172414/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -738,7 +738,7 @@ of all the good cities and places, whether
 ecclesiastical or secular, who shall see  
 these patents or hear them read.” I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_halfwayrock_ver01:data:sn83016025:00414210867:1894092601:0297/pct:17.609814008705975,26.25706862295583,12.643450732093392,4.508635182637934/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_halfwayrock_ver01:data:sn83016025:00414210867:1894092601:0297/pct:17.606330365974284,26.253056234718827,12.645895153313552,4.511766503667482/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -788,7 +788,7 @@ the good cities and places, whether ec­
 clesiastical or secular, who shall see  
 these patents or hear them read.&quot; I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jughead_ver01:data:sn89066489:00294556679:1895090501:0503/pct:23.20061255742726,53.699788583509516,19.06584992343032,7.20137420718816/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jughead_ver01:data:sn89066489:00294556679:1895090501:0503/pct:17.410457766711357,40.27484143763213,14.326757326182724,5.4043340380549685/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

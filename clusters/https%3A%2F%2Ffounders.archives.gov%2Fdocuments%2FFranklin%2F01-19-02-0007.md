@@ -225,7 +225,7 @@ warmly thanked them therefor. In
 England, Burke, Barre and Sheridan  
 ably championed America&#x27;s cause. I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_antares_ver03:data:sn90059959:00295876864:1887040201:0383/pct:64.33260393873086,67.50217013888889,14.035636136292592,11.03515625/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_antares_ver03:data:sn90059959:00295876864:1887040201:0383/pct:64.33260393873086,67.50940393518519,14.051266020631447,11.031539351851851/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -314,7 +314,7 @@ but whenever she found that less profitable, or
 any particular manufacture more so, he had no  
 objection to her pursuing it, and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_fernandez_ver01:data:sn83030272:00175044796:1888010101:0312/pct:173.78565921356977,256.59806295399517,51.42636854279105,58.51997578692494/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_fernandez_ver01:data:sn83030272:00175044796:1888010101:0312/pct:43.47155255544841,64.14951573849879,12.864030858244938,14.629993946731235/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -405,7 +405,7 @@ business. This letter is incomplete.!
 To MRS. DEBorah Franelin.  
 MY DEAR CHILD:
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_fernandez_ver01:data:sn83030272:00175044796:1888010101:0312/pct:174.17116422513493,13.7409200968523,102.54433307632999,372.32142857142856/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_fernandez_ver01:data:sn83030272:00175044796:1888010101:0312/pct:43.567984570877535,3.435230024213075,25.650916104146578,93.08035714285714/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -473,7 +473,7 @@ traveler or emigrant—whether you go by rail,
 steamship or steamboat, provide yourself with  
 Hostetler’s Stomach Bitters, which the travelin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dorothy_ver01:data:sn85033295:00279550080:1889032701:0213/pct:49.32108626198083,6.617991200973509,14.124068157614483,11.363849106056351/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dorothy_ver01:data:sn85033295:00279550080:1889032701:0213/pct:49.3299609513667,6.617991200973509,14.124068157614483,11.366969328216168/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -505,7 +505,7 @@ very good speakers in both parties, and
 aide men of business.  
 Expand i hi* M int
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_florence_ver01:data:sn85040344:00271769222:1889033001:0503/pct:63.011593798016484,6.348704990524321,11.04902919402151,7.601600336913035/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_florence_ver01:data:sn85040344:00271769222:1889033001:0503/pct:63.020906085579924,6.348704990524321,11.044373050239791,7.612128869235629/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -538,7 +538,7 @@ figure, with a number of very good
 speakers in both parties, aud able men  
 of business.—Letter by Benjami
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_kauai_ver01:data:sn84022137:00279523039:1889041701:0046/pct:62.61431725007884,31.76693959890827,11.08483128350678,8.354099916933665/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_kauai_ver01:data:sn84022137:00279523039:1889041701:0046/pct:62.61431725007884,31.76693959890827,11.090087249027647,8.354099916933665/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -571,7 +571,7 @@ figure, with a number of very good
 speakers in both parties, and alile men  
 of business.—Letter by Benjami
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_dagger_ver01:data:sn2001063133:00415623252:1889041801:0091/pct:60.320468642315646,32.48374512353706,10.7684355616816,7.945383615084525/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_dagger_ver01:data:sn2001063133:00415623252:1889041801:0091/pct:60.33339076498966,32.48699609882965,10.7684355616816,7.948634590377113/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -599,7 +599,7 @@ figure, with a number of very good
 speakers in ljofli parlies, aind alile men  
 of business.—Letter
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_corsair_ver06:data:sn96090256:00415623136:1889041901:0392/pct:52.53940455341506,39.45697046681486,13.901050788091068,7.097491267068911/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_corsair_ver06:data:sn96090256:00415623136:1889041901:0392/pct:52.53940455341506,39.464909495077805,13.917469352014011,7.09352175293744/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -637,7 +637,7 @@ figure, with a number of very good
 speakers in both parties, and able men  
 of business.—Letter by Benjami
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_jamaica_ver01:data:sn97065761:00279523532:1889042501:0512/pct:55.92783505154639,30.129206304131763,11.818851251840943,11.28780349282976/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_jamaica_ver01:data:sn97065761:00279523532:1889042501:0512/pct:55.92783505154639,30.132755927871646,11.828055964653903,11.291353116569644/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -674,7 +674,7 @@ figure, with a number of very good
 speakers in both parties, and able men  
 of business.—Letter by Benjami
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_mustang_ver01:data:sn99067997:0041562508A:1889042601:0255/pct:59.33791380387258,43.836950473010575,18.342702477618154,14.371174179187534/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_mustang_ver01:data:sn99067997:0041562508A:1889042601:0255/pct:47.48209427572039,35.076980152105364,14.663261340292044,11.493229456501577/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -710,7 +710,7 @@ figure, with a number of very good
 speakers in both parties, and able men  
 of business.—Letter by Benjami
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_ginsberg_ver01:data:sn92067125:0051717970A:1889051501:0150/pct:47.9746835443038,33.88370423546303,14.0,11.755204594400574/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_ginsberg_ver01:data:sn92067125:0051717970A:1889051501:0150/pct:47.99367088607595,33.89267767408471,13.99367088607595,11.764178033022255/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -748,7 +748,7 @@ figure, with a number of very good
 speakers in both parties, and able men  
 of business.—Letter by Benjami
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_jamaica_ver01:data:sn97065761:00279523532:1889051801:0547/pct:56.04051565377532,29.41509701175471,12.007366482504604,11.202379266392862/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_jamaica_ver01:data:sn97065761:00279523532:1889051801:0547/pct:56.04051565377532,29.425718736722843,12.01657458563536,11.20591984138224/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -781,7 +781,7 @@ figure, with a number of very good
 speakers in both parties, and able men  
 of business.—Letter by Benjami
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_jamaica_ver01:data:sn97065761:00279523532:1889052201:0552/pct:56.275378368401626,33.09547595261881,11.904761904761905,9.205080633652063/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_jamaica_ver01:data:sn97065761:00279523532:1889052201:0552/pct:56.284606866002214,33.10261167404025,11.900147655961609,9.212216355073497/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -842,7 +842,7 @@ into the wale, and by joining our interests
 with others, a more equitable treatment from  
 this nation (England! might be obtained fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_freeport_ver01:data:sn82014248:00332895138:1889062101:0585/pct:56.37057877813505,23.12,10.028135048231512,5.088/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_freeport_ver01:data:sn82014248:00332895138:1889062101:0585/pct:56.35925256178421,23.116301391777316,10.03114325899136,5.091185410334346/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -865,7 +865,7 @@ Every j»art of the tree, in fact, is of use. The
 timber, being hard and strong, close anil even  
 grained, is used for the wheels of carriages
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_freeport_ver01:data:sn82014248:00332895138:1889062101:0585/pct:56.45096463022508,28.24,9.62620578778135,4.016/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_freeport_ver01:data:sn82014248:00332895138:1889062101:0585/pct:56.43962226240707,28.235482322828346,9.629294755877034,4.019356902895537/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -911,7 +911,7 @@ ment makes a good, respectable figure, with
 a number of good speakers in both parties,  
 and able men of business.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_hickok_ver01:data:sn85032490:00237286649:1889070301:0068/pct:25.63138905592303,121.64734193830671,37.898376428141916,12.218332968715817/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_hickok_ver01:data:sn85032490:00237286649:1889070301:0068/pct:17.095173658096527,81.09822795887115,25.274394827845438,8.149201487639466/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -964,7 +964,7 @@ ground beneath the trees, and are gathered
 eagerly by the natives every morning during  
 the flowering season.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_corinth_ver01:data:sn86090439:00517176618:1889071901:0127/pct:23.449830890642616,29.71335697399527,16.61781285231116,21.30614657210402/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_corinth_ver01:data:sn86090439:00517176618:1889071901:0127/pct:23.46110484780158,29.720744680851062,16.623449830890642,21.30614657210402/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1002,7 +1002,7 @@ spirits among them. Their parlia­
 ment niuki a good, respectable figtiro, w ith  
 a number of giKnl spenkcrs iu both parties
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_deckle_ver01:data:sn92053945:00212471641:1889080701:0746/pct:34.66624685138539,44.781269254467034,14.467884130982368,7.948243992606285/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_deckle_ver01:data:sn92053945:00212471641:1889080701:0746/pct:26.011651708392378,33.59211337030191,10.848685246417887,5.96426370918053/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1047,7 +1047,7 @@ sions the Continental Congress warmly
 thanked them therefor. In England  
 Burke, Barre and Sheridan ably cham
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_betelgeuse_ver01:data:sn90059959:00271742824:1891032801:0010/pct:35.829181494661924,45.811570912012854,13.907473309608541,11.66130976295701/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_betelgeuse_ver01:data:sn90059959:00271742824:1891032801:0010/pct:35.83867141162515,45.818267041649925,13.912218268090154,11.66130976295701/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1069,7 +1069,7 @@ scale, and, by joining our interests with
 theirs, more equitable treatment from the  
 British government may be obtained fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_forks_ver01:data:sn83045604:0020219915A:1893031801:0324/pct:53.28091926217115,171.56387902271015,38.85697006350166,12.711225917554623/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_forks_ver01:data:sn83045604:0020219915A:1893031801:0324/pct:17.76030642072372,57.187959674236716,12.952323354500555,4.237075305851541/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1104,7 +1104,7 @@ a high value on Irish sympathy and so truly !
 understood its extent and influence that the :  
 Continental Congress addressed the Irish peo- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_dogtown_ver01:data:sn85066387:00175037354:1896031801:0311/pct:70.71244113626007,17.741755170486304,13.534862524684794,7.970933482392398/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_dogtown_ver01:data:sn85066387:00175037354:1896031801:0311/pct:70.71244113626007,17.745481647102665,13.54498961972758,7.974659959008757/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

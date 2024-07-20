@@ -123,7 +123,7 @@ sued by Great Britain md f ram e, in relating to* the
 (. iiu.n State*, that he had the documents conliden­  
 ti.oly laid before congress
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808112101:0219/pct:75.95098289507276,39.39792729067281,21.01097778912433,11.284750781378516/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808112101:0219/pct:75.9315977539561,39.391447368421055,21.01199591628382,11.287006578947368/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -141,7 +141,7 @@ on the subject of the British ord.ru I shall an­
 swer bim us son, , the ve.y urb,nt business on  
 hrfnu will permit. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808112101:0219/pct:75.87439366862395,50.64977792400066,20.908858820525914,2.599111696002632/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808112101:0219/pct:75.85502807554874,50.641447368421055,20.909903011740685,2.6027960526315788/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -177,7 +177,7 @@ Great BÞ&#x27;ltain and France; in rclntion to the
 United Statcs, that he had the documcms  
 considentiaﬂy laid bcsore Congrcss
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808112401:0596/pct:52.88624787775891,15.858951175406872,22.311827956989248,16.292947558770344/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808112401:0596/pct:52.878766445041734,15.857517403489739,22.31338708916867,16.294488141518247/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -197,7 +197,7 @@ ders. I shall answer him as soon as the
 L very urgent business on hzssmd will permit.&quot;  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808112401:0596/pct:52.9003961516695,32.079566003616634,21.830786644029427,3.64376130198915/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808112401:0596/pct:52.89291271749894,32.07666576258928,21.832413825623615,3.6464454690654855/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -237,7 +237,7 @@ nication on the subject of the British orders.
 I shall answer him as soon as the very ur­  
 gent busiuess on hand will permit.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808112501:0238/pct:5.285067873303167,7.1103238866396765,17.447963800904976,15.106275303643725/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808112501:0238/pct:5.284111473036554,7.109424414927261,17.45083846061045,15.108581066835336/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -275,7 +275,7 @@ ialiv laid before Con-ress.
 nunicatlon on the subject of the British or*  
 lers. I shail answer him as soon as the ve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808120201:0393/pct:23.188946975354742,18.17604470976756,17.139656460044808,14.060713832084339/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808120201:0393/pct:23.18461825648684,18.173736347472694,17.142679360338498,14.063161459656254/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -351,7 +351,7 @@ France,&#x27;in relation to the U. 8.
 that be had the documents con­  
 fidentially laid before congress
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808123001:1089/pct:74.08700322234156,70.9590426428451,16.192266380236305,14.5963256362717/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808123001:1089/pct:74.06711409395973,70.94708459723627,16.19463087248322,14.598078867542974/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -370,7 +370,7 @@ of the British orders. :jt shall an­
 swer him as soon as the very ur­  
 gent business on hand will per
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808123001:1089/pct:74.22126745435015,85.52165852014159,16.05800214822771,3.691218607786954/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808123001:1089/pct:74.20134228187919,85.5072463768116,16.06040268456376,3.694809571958207/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

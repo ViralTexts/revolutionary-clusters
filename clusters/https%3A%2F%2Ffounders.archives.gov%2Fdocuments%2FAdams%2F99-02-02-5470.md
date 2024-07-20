@@ -118,7 +118,7 @@ ners, speeches ; there is a silence of such
 magnitude, energy, decision as ta De sin  
 Bly worth a whole lite to some men. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn84022367:00415628377:1870041401:0115/pct:9.185493460166468,119.61690885072655,14.74435196195006,1.7393218846323206/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn84022367:00415628377:1870041401:0115/pct:6.89757692879441,89.71818582122413,11.059907834101383,1.2989872302950243/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -138,7 +138,7 @@ Before taking up more pleasant topics I cannot
 refrain from mentioning an incident of my travel­  
 ing experience which shows the readiness wit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558342:1875110201:0438/pct:8.962597035991532,344.7818321000255,44.31898376852505,7.195713192140852/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558342:1875110201:0438/pct:2.240649258997883,86.19545802500637,11.079745942131263,1.798928298035213/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -181,7 +181,7 @@ Roberts.
 What rein can hold licentious wickedness,  
 when down the hill he holds his fierce career
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_gardevoir_ver02:data:sn85049838:00340584399:1894041901:0947/pct:49.246642646577136,7.74009193688657,10.841794955781198,8.771275934898744/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_gardevoir_ver02:data:sn85049838:00340584399:1894041901:0947/pct:49.246642646577136,7.746303888681823,10.854077956108746,8.774381910796372/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -221,7 +221,7 @@ edness. when down the hill h holds
 his fierce career? Shakespeare.  
 Tit* happiest life is that which con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_abolitionist_ver02:data:sn86074033:00199916270:1894052601:0119/pct:69.53412341642827,25.421822272215973,16.46914589293012,17.94150731158605/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_abolitionist_ver02:data:sn86074033:00199916270:1894052601:0119/pct:53.88756927949327,19.702143116600073,12.773818949590922,13.919360697420995/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -255,7 +255,7 @@ What rein can hold licentious wick­
 edness, when down the hill he holds  
 his fierce career? hhalcespear
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_dragonfly_ver01:data:sn95060905:0021110711A:1894070801:0109/pct:13.274547187797904,99.85606333213386,17.921830314585318,18.81971932349766/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_dragonfly_ver01:data:sn95060905:0021110711A:1894070801:0109/pct:9.966618979494516,74.90104354084202,13.447782546494993,14.12378553436488/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -291,7 +291,7 @@ What rein can hold licentious wick­
 edness, when down the hill he bolds his  
 Qerbe career
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_alvarez_ver01:data:sn84026688:00296029956:1894071201:0263/pct:44.92803289924606,51.36113886113886,12.457162440027416,19.955044955044954/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_alvarez_ver01:data:sn84026688:00296029956:1894071201:0263/pct:44.92803289924606,51.36530136530136,12.468585789353439,19.963369963369964/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -120,7 +120,7 @@ uuii in ofoui* Hut that ill these -.Oil i. hi a
 i ii#ni would increase the pang of separation.  
 I If mi i their *t«y hen* .*114 to : ft *&gt; , m
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348823:1828091101:0036/pct:62.536503963287444,8.226295280704287,30.53817271589487,84.70197719728677/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348823:1828091101:0036/pct:62.52346193952033,8.225108225108226,30.537017726798748,84.69336219336219/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1363,7 +1363,7 @@ Do not biie at the&#x27;bait of pleasure till
 you know there is no hook&quot; beneath it.  
 What is the use of one&#x27;s being dissatis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_fennal_ver01:data:sn83025661:00415628882:1839071701:0176/pct:49.32219419924338,78.24565241168106,20.42875157629256,7.656130372962923/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_fennal_ver01:data:sn83025661:00415628882:1839071701:0176/pct:37.0072532324188,58.68970797331292,15.32639545884579,5.742097779722192/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1513,7 +1513,7 @@ abounds with misery. To lighten its bur­
 dens we must divide it with one another.&quot;  
 Hére, said Mr. L. &quot;is the secret of a larg
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn83025141:no_reel:1858010101:0769/pct:141.12554112554113,87.93872406437852,42.04545454545455,23.83168508822959/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn83025141:no_reel:1858010101:0769/pct:47.04184704184704,29.312908021459506,14.015151515151516,7.943895029409863/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1613,7 +1613,7 @@ count; for nothing is ours which another
 may deprive us of; hence the inestima­  
 ble value of intellectual pleasures
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn98060001:00280777857:1885032001:0510/pct:74.40841367221735,41.113619262603464,57.142857142857146,48.57787810383747/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn98060001:00280777857:1885032001:0510/pct:18.602103418054337,10.278404815650866,14.285714285714286,12.144469525959368/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1653,7 +1653,7 @@ count; for nothing is ours which another
 may deprive us of; liencc the inestimable  
 value of intellectual pleasures
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00202194059:1885040801:0132/pct:56.05809657281182,12.036956332258345,11.925085998216334,2.231325721258607/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00202194059:1885040801:0132/pct:56.05809657281182,12.042767076324123,11.925085998216334,2.231325721258607/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1791,7 +1791,7 @@ to seek and to bring it.”
 I wonder why the school-children don&#x27;t  
 read Jefferson more and the politica
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:00332892162:1898032001:0590/pct:4.7882736156351795,43.787047200878156,15.17915309446254,13.85290889132821/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:00332892162:1898032001:0590/pct:4.793702497285559,43.787047200878156,15.18458197611292,13.863885839736554/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1862,7 +1862,7 @@ modesty.
 There is modesty often which  
 does itself injury
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_coldplay_ver02:data:sn83007654:00393342754:1898082601:0051/pct:24.878180833784516,20.13204572329523,11.20736329182458,8.849034292471423/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_coldplay_ver02:data:sn83007654:00393342754:1898082601:0051/pct:24.874813912572744,20.130062075081288,11.209229936391933,8.850625677406642/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1892,7 +1892,7 @@ may deprive us of. Hence the
 inestimable value of intellectu­  
 al pleasures
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_coldplay_ver02:data:sn83007654:00393342754:1898082601:0051/pct:24.688684353004874,41.89002759164367,11.491608012994044,10.228616476152936/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_coldplay_ver02:data:sn83007654:00393342754:1898082601:0051/pct:24.685343077547707,41.88590008867869,11.49343618892949,10.230071928268796/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -222,7 +222,7 @@ heroic youth, Colonel Washington, whom 1 cannot
 lmt hope Providence has hitherto preserved in so signal  
 a maimer tor some important service to his country.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:0041418408A:1834121301:0278/pct:51.78620880642481,45.854780418355055,14.912766546662974,3.668820501587997/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:0041418408A:1834121301:0278/pct:51.779039180395955,45.84975908891809,14.915316812035627,3.672068915170098/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -548,7 +548,7 @@ eloquent pastor of a neighboring pariah, on hia return, &quot; point
 And not leaa natural or leaa striking was the teatiniony of  
 the Indian chief who told Washington, fifteen years after
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848070801:0245/pct:48.16933638443936,6.87759452485134,15.58924485125858,4.240996297542915/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848070801:0245/pct:48.17887109077041,6.885074236134485,15.584477498093058,4.2372564419013425/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -602,7 +602,7 @@ country.&quot;
 And not less natural or less striking the  
 lestimony of the Indian chief, who tol
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296199:1848080501:1183/pct:136.38573743922205,344.7237693813036,59.40032414910859,17.04049375282252/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296199:1848080501:1183/pct:34.096434359805514,86.1809423453259,14.850081037277148,4.26012343820563/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -675,7 +675,7 @@ ton, whom / cannot but hope I* rotulence has hitherto prater- j
 red, in so signal a manner, for some important service to his  
 country.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566431A:1850043001:0337/pct:36.067251461988306,60.114285714285714,15.862573099415204,2.142857142857143/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566431A:1850043001:0337/pct:36.072124756335285,60.12063492063492,15.862573099415204,2.142857142857143/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -733,7 +733,7 @@ Colonel Washington, whom I cannot but hope
 Providence has hitherto preserved, in so signal a  
 manner, for some important service to his country.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_diglett_ver01:data:sn82015378:00295872366:1850050801:0448/pct:86.22572815533981,58.6248492159228,37.560679611650485,6.604342581423402/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_diglett_ver01:data:sn82015378:00295872366:1850050801:0448/pct:28.741909385113267,19.5416164053076,12.520226537216828,2.201447527141134/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -756,7 +756,7 @@ munner, for some important serrice to his
 country.&quot; It is a remarkable fact that  
 Washington was the only officer, on horse
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667711:1850050801:0461/pct:276.2809917355372,320.2659815626417,58.67768595041322,19.223212936376/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667711:1850050801:0461/pct:69.11308662394046,80.06649539066042,14.678519743642754,4.805803234094/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -778,7 +778,7 @@ j Providence has hitherto preserved, in so
 11&#x27; his country.” It is a remarkable fact  
 i that Washington was the only officer, o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624256:1850061201:0083/pct:49.46010377226195,81.30907612562252,14.668349460103773,4.6041264356133755/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624256:1850061201:0083/pct:49.46945262469032,81.30907612562252,14.66367503388959,4.6109021919571775/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -799,7 +799,7 @@ manner for some important service to his coun­
 try.&#x27;* What spirit animated that eminent min­  
 ister of the gospel, John* Withkkskkjn, whe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215853:1851030101:0459/pct:71.98850023957834,92.3039923039923,12.918064206995687,3.1883460454889025/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215853:1851030101:0459/pct:71.98160214641625,92.2976501305483,12.920020442059538,3.19041729650497/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -818,7 +818,7 @@ youth. Colonel Washington, whom I cannot but
 hope Providence has hitherto preserved in so signal  
 a manner for some important sorvicc to his country.*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661393:1851031501:0330/pct:14.353790613718411,58.59819734345351,14.512635379061372,2.858159392789374/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661393:1851031501:0330/pct:14.353790613718411,58.60610373181531,14.512635379061372,2.858159392789374/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -907,7 +907,7 @@ I rondence has hitherto preserved in so
 signal a manner for some important ser­  
 vice to his country.&quot; How Wonderfull
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn85059716:00202193018:1852111701:0221/pct:44.21733053808526,3.6355735805330243,13.417190775681341,4.461181923522596/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn85059716:00202193018:1852111701:0221/pct:44.21733053808526,3.639194669756663,13.43466107617051,4.461181923522596/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -929,7 +929,7 @@ cannot but hope Providence has hitherto pre
 served in so signal a manner for some important  
 service to his country.&quot; How wonderfully propheti
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn93067980:00295862270:1852112301:0201/pct:39.66789667896679,77.90697674418605,20.166051660516604,4.783025653320546/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn93067980:00295862270:1852112301:0201/pct:39.6740467404674,77.91496843282985,20.17220172201722,4.787021497642452/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -981,7 +981,7 @@ vice to his country.&#x27; He was then made
 commander-in-chief of the army of Vir­  
 ginia. Thus on the very threshold o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_dillinger_ver02:data:sn87056241:00200295638:1853071401:0086/pct:66.65751920965971,22.247168078375346,38.25466520307354,102.51046025104603/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_dillinger_ver02:data:sn87056241:00200295638:1853071401:0086/pct:50.020590253946466,16.685376058781507,28.702814001372683,76.88539646902746/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1096,7 +1096,7 @@ wise man becomes prophecy. The expedition
 under Braddock was the most formidable  
 which had ever been, at any time, undertake
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290070:1859091101:0248/pct:90.13452914798206,278.1075652756081,34.08071748878924,14.059361749609462/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290070:1859091101:0248/pct:22.53679046951647,69.52689131890203,8.521373510861949,3.5148404374023654/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1113,7 +1113,7 @@ young wastington sald--&quot;That heroic youth, Col wash
 ington, who I cannot but hope Providence has hitherto  
 preserved in so significant a manner for some service t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743439:1863022301:0437/pct:142.29565217391306,242.84519827998088,45.61739130434783,4.1208791208791204/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743439:1863022301:0437/pct:47.43188405797101,80.9483994266603,15.205797101449276,1.3736263736263736/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1187,7 +1187,7 @@ of the American Union Demanded by Justic
 was sent on a mission to England with Gilbert  
 Tennent, to collect funds for the college o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ellis_ver01:data:sn85025007:00415663626:1868020401:0323/pct:0.551654964894684,66.41448486909215,15.947843530591776,3.42570554233254/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ellis_ver01:data:sn85025007:00415663626:1868020401:0323/pct:0.551654964894684,66.41731837243567,15.956201939150786,3.42570554233254/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1209,7 +1209,7 @@ England with Gilbert Tenneut, to collect funds ,
 for the college of New Jersey, in 1753, which  
 was eminently successful. The first Presbytery 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762489:1868021101:0033/pct:16.399310619117063,71.14481409001957,13.230810022537453,3.5812133072407044/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762489:1868021101:0033/pct:16.408148835564983,71.14481409001957,13.239648238985373,3.5877364644487932/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1230,7 +1230,7 @@ hitherto preserved in so signal a manner
 for some important service to his coun?  
 try.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84027008:00294551232:1875052501:0518/pct:17.99333580155498,57.54947140146381,16.234727878563493,4.1881268636486855/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84027008:00294551232:1875052501:0518/pct:18.005676909786498,57.55398933767055,16.234727878563493,4.192644799855426/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1257,7 +1257,7 @@ preserved, prepared, and trained up for
 the eventful and illustrous future which  
 awaited him
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_tesla_ver01:data:sn85038614:00175030876:1885022201:0193/pct:116.54450261780104,154.22890918860827,33.92670157068063,19.57012358946803/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_tesla_ver01:data:sn85038614:00175030876:1885022201:0193/pct:38.84816753926702,51.40963639620276,11.30890052356021,6.523374529822676/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1279,7 +1279,7 @@ try.” An Indian Chief came to him
 at the head of his tribe and related  
 that he had several times discharge
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_galena_ver02:data:sn88065721:00279521572:1885022301:0002/pct:55.50387596899225,53.92573233148209,17.795004306632215,5.56463029511053/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_galena_ver02:data:sn88065721:00279521572:1885022301:0002/pct:55.50387596899225,53.93299212312607,17.800746482917024,5.557370503466551/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1349,7 +1349,7 @@ served in so signal a manner for some im­
 portant service to the country.”  
 It was a fair daughter of our state whos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_galena_ver02:data:sn88065721:00279521651:1889050101:0105/pct:21.111298767100152,23.9895252191734,14.896132410065867,3.506774450643288/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_galena_ver02:data:sn88065721:00279521651:1889050101:0105/pct:21.11692844677138,23.9895252191734,14.896132410065867,3.5143648715321265/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1368,7 +1368,7 @@ hitherto preserved in so slgnil a manner for
 some important service to the country.&quot; It  
 was a fair daughter of ourbtato whose smiles
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_graftonnotch_ver01:data:sn83016025:00414210909:1889050101:0488/pct:71.98620473428437,93.92760287701923,10.377802163348488,1.7568682938332745/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_graftonnotch_ver01:data:sn83016025:00414210909:1889050101:0488/pct:71.97492163009404,93.91652912049045,10.380094043887148,1.7596085828813959/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1440,7 +1440,7 @@ another&#x27;s recorded his only failure, and sad­
 dened his departure. Twenty years passed,  
 and he stood before the New York Con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_garwood_ver02:data:sn84029386:00237285220:1889050201:0591/pct:41.191631291691934,30.359728254816794,16.115827774408732,5.12306492927943/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_garwood_ver02:data:sn84029386:00237285220:1889050201:0591/pct:30.902198635329796,22.77536473994877,12.084912812736922,3.8422986969595723/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1503,7 +1503,7 @@ a manner for some important service to
 the country.&quot; It wasa lair daughter ot our  
 State whose smiles allured him here, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_dunning_ver01:data:sn84022835:00237285049:1889050301:0412/pct:116.54996817313813,98.27625833141806,49.8408656906429,9.377154677085727/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_dunning_ver01:data:sn84022835:00237285049:1889050301:0412/pct:29.146768545049348,24.569064582854516,12.464183381088825,2.3442886692714318/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1527,7 +1527,7 @@ another&#x27;s recorded his only failure, and sad­
 dened his departure. Twenty years passed,  
 and he stood before the New York Con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_dysprosium_ver01:data:sn88076998:00199918138:1889050301:1210/pct:42.38146941730004,50.779828437743696,15.83423814694173,5.042890564075903/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_dysprosium_ver01:data:sn88076998:00199918138:1889050301:1210/pct:36.02850697292863,43.16700423494753,13.458777686628384,4.282820843306942/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1547,7 +1547,7 @@ in so signal a manner ior some import
 ant service to the country.&quot; It was i  
 fair daughter of our State whos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_hedgehog_ver01:data:sn82015133:00211104661:1889050401:0033/pct:75.7625,49.82729695055758,16.0375,3.809335833415573/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_hedgehog_ver01:data:sn82015133:00211104661:1889050401:0033/pct:50.5251312828207,33.21819796703839,10.690172543135784,2.546136386065331/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1640,7 +1640,7 @@ spirit made him the idol of the men,
 while the opposite sex looked upon  
 him with the greatest admiration. Bu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_finney_ver02:data:sn83040198:00212473480:1893021601:0378/pct:45.49808429118774,97.57040309221425,18.14449917898194,11.043622308117062/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_finney_ver02:data:sn83040198:00212473480:1893021601:0378/pct:30.349075975359344,65.0469353948095,12.101300479123887,7.36609607951408/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1689,7 +1689,7 @@ has hitherto preserved in so signal a
 manner for some important service to  
 his country.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_diamond_ver01:data:sn87065469:00383344037:1893021601:0836/pct:162.21003795866724,354.8867786705625,51.56052298608182,13.805697589481372/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_diamond_ver01:data:sn87065469:00383344037:1893021601:0836/pct:40.54395951929159,88.70873502775343,12.88741302972802,3.450920245398773/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1718,7 +1718,7 @@ spirit made him the idol of the men,
 while the opposite sex looked upon  
 him with the greatest admiration. Bu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_garwood_ver02:data:sn83040340:00237285268:1893021701:0546/pct:46.75257731958763,98.76589379207181,18.59106529209622,11.069558713537772/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_garwood_ver02:data:sn83040340:00237285268:1893021701:0546/pct:31.173741192644783,65.84392919471453,12.407630177006359,7.379705809025181/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1747,7 +1747,7 @@ spirit made him the idol of the men,
 while the opposite sex looked upon  
 him with the greatest admiration. lin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn84022991:00513688088:1893021801:0669/pct:31.10609480812641,65.7138369718863,12.844243792325056,7.664520182189414/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn84022991:00513688088:1893021801:0669/pct:31.10609480812641,65.71907229987958,12.866817155756207,7.664520182189414/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1777,7 +1777,7 @@ spirit mado him the idol of the men,
 while . the opposite sex looked upon  
 him with the greatest admiration. Bu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jones_ver01:data:sn83040592:00212473960:1893021801:1341/pct:53.401969561324975,9.975096845600442,46.463742166517456,116.98948533480907/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jones_ver01:data:sn83040592:00212473960:1893021801:1341/pct:40.080609046126284,7.484781405644715,34.86341244961935,87.74211400110681/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1806,7 +1806,7 @@ spirit made him tho idol of tho men,
 while the opposite sex looked upon  
 him with tho greatest admiration. Hu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_echo_ver01:data:sn87075048:00237289523:1893021801:0909/pct:90.13657056145675,87.13350412752634,16.19878603945372,10.076857386848847/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_echo_ver01:data:sn87075048:00237289523:1893021801:0909/pct:67.61525327262379,65.35724452035298,12.160880288370329,7.557643040136635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1826,7 +1826,7 @@ has hitherto preserved in so signal a
 manner for somo important 6ervico to  
 his country.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_foxtrot_ver01:data:sn87076843:00237282796:1893021801:0854/pct:46.42857142857143,115.74944071588367,18.5177539223782,4.354958985831469/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_foxtrot_ver01:data:sn87076843:00237282796:1893021801:0854/pct:34.8337807144332,86.81580909768829,13.896345240553376,3.266219239373602/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1860,7 +1860,7 @@ w
 while the opposite sex looked upon  
 him with the greatest admiration. Bu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bird_ver02:data:sn84023963:00212470703:1893022401:0176/pct:132.2532027128862,28.1524926686217,116.72946495855312,351.31964809384164/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bird_ver02:data:sn84023963:00212470703:1893022401:0176/pct:33.06953080836631,7.038123167155425,29.187865083851516,87.82991202346041/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1961,7 +1961,7 @@ play the men for our people, and for
 the cities of our God and the Lord do  
 that which seem-eth him good.&quot; In hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ash_ver01:data:sn84020358:0041566817A:1895061701:1162/pct:37.03252032520325,107.72159610112702,16.869918699186993,2.55863539445629/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ash_ver01:data:sn84020358:0041566817A:1895061701:1162/pct:27.790201260418783,80.79500456899177,12.665175848749746,1.9189765458422174/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2055,7 +2055,7 @@ manhood to the development and de­
 fense of his native province, Washington  
 now held that he was entitled to a lon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_garwood_ver02:data:sn83040340:00237285293:1897040201:0318/pct:53.81799163179916,7.800196850393701,42.01534170153417,135.45767716535434/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_garwood_ver02:data:sn83040340:00237285293:1897040201:0318/pct:35.8974358974359,5.204232283464567,28.03069945927089,90.30511811023622/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

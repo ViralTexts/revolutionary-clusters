@@ -215,7 +215,7 @@ were their applications for redress successful, in
 obtaining them that justice, to which they were j  
 dearly entitled. So far from this, the State of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215725:1843031001:0238/pct:6.953609770511179,55.43731978580255,15.295971633999804,9.35740766167788/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215725:1843031001:0238/pct:6.95292495568249,55.43351410722867,15.297748013918982,9.359053568568225/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

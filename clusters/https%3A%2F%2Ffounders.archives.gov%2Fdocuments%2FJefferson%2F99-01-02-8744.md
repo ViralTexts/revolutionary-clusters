@@ -95,7 +95,7 @@ sufficiently sale, in the judgment of the president
 «J the United Slates, he ought to be authorised by  
 law to suspend the act laying an EMBARGO o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808041501:1084/pct:26.943802925327176,1.5222672064777327,44.9576597382602,94.52631578947368/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808041501:1084/pct:26.936890713186248,1.5220207253886011,44.95253976398153,94.51505829015544/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -145,7 +145,7 @@ sock changes in their measures afiectin;; neutral
 commerce, as may render that of the United States  
 sutlicieiilly. sal* in his judgment, to suspend the ac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808042501:1100/pct:4.9451950038236046,76.3911225474429,21.48865664032628,6.095207462206497/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808042501:1100/pct:4.9439347604485215,76.37883904164657,21.489551478083587,6.098247306640939/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -164,7 +164,7 @@ Europe, or of such changes in their measures af- «
 feeling neutral commerce, as may render that of ,  
 the United States sufficiently safe in lii.s judgment
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808042601:0461/pct:23.219476744186046,69.94014901673384,17.859738372093023,2.7360449493098815/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808042601:0461/pct:23.21525885558583,69.93160723009282,17.86254919769906,2.7397817944960106/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -197,7 +197,7 @@ the rext session of Congress.
 Itaoived, That the committee do bring  
 •n ii bill, authorising the Pi esident of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808042601:0142/pct:41.35696588526777,66.26797302455783,17.648179912330857,10.59931288968062/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808042601:0142/pct:41.34908536585366,66.25954198473282,17.651168699186993,10.60220525869381/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -224,7 +224,7 @@ States sufficiently safe, in the judg­
 ment ofthe President of the United;  
 s, he is hereby authorized, dur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808042701:0001/pct:6.030549494147986,40.8371618172537,17.694901805197382,8.677896886166412/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808042701:0001/pct:6.030549494147986,40.8371618172537,17.71473913905971,8.682150757189042/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -250,7 +250,7 @@ ted States sufficiently safe, in the judgment i
 of the President of the United States, he is  
 authorised, during tlie recess of congress, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808050301:0152/pct:60.97697922515441,58.34064419100138,17.85513756316676,7.056022057901993/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808050301:0152/pct:60.96556886227545,58.333333333333336,17.85803393213573,7.059314954051796/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -287,7 +287,7 @@ embargo on all ships and ves-a-ls in
 the ports and harbors of the United  
 States&#x27;&quot; and the several acts supple
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808061001:0002/pct:4.112687641373638,31.62712738525013,17.25272465556241,8.831872099020114/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808061001:0002/pct:4.112687641373638,31.635722881210246,17.2595791349647,8.831872099020114/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -319,7 +319,7 @@ as the public interest and circumstances of the
 case may appear to require : Provided, such sus­  
 pension shall not extend beyond twenty days ali
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808061701:0062/pct:59.026369168357,52.41730279898219,17.794578646505624,9.936386768447838/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808061701:0062/pct:59.01548672566372,52.41063477929017,17.797443461160274,9.939363100538523/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -350,7 +350,7 @@ oppressive than war, we must make the . : peal
 to arms, .vd resort to such measures an wilt give  
 lull scope to the couiage and enterprise of ou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808062801:0074/pct:40.35833025489472,38.227974116475856,17.694865164388624,9.121453459432553/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808062801:0074/pct:40.35087719298246,38.22321761851437,17.697753154816866,9.124466011364108/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -382,7 +382,7 @@ countrymen. If tnis ™nll he our only al­
 the best we could have adopted ; it has  
 enabled us to bring home all our citizens
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808070101:0217/pct:58.03030303030303,57.20490546755238,18.03030303030303,10.539090444557997/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808070101:0217/pct:58.019314523764436,57.19759867160557,18.033200782680048,10.542001958530252/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -405,7 +405,7 @@ a* may render that of the United
 States sufficiently safe, in the judg­  
 ment of the President of the Unite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808071501:0002/pct:41.13121231025161,59.86807387862797,18.1742566022042,6.08179419525066/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808071501:0002/pct:41.13121231025161,59.8768689533861,18.1742566022042,6.086191732629727/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -507,7 +507,7 @@ profpeCts we have no information on
 which prudence would undertake a *  
 hafty
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808091201:0465/pct:40.701168614357265,7.123315432161313,35.65943238731219,86.33093525179856/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808091201:0465/pct:40.69437489567685,7.1225937183384,35.657653146386245,86.32472137791287/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -617,7 +617,7 @@ early as, in this extensive country,
 they could be fully convened by a  
 special call. . = SO
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808091301:0146/pct:43.21600248100481,16.50943396226415,16.793301287021244,65.20473705339221/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808091301:0146/pct:43.22117124101928,16.51612471564298,16.798470047035718,65.21142780677104/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -658,7 +658,7 @@ exercise the power of LEGISLATION for you wwith
 every [ympathy of @ COMMON INTEREST in ex­  
 ercising them faithfully”--Yes ! with cver
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808091301:0147/pct:24.63452566096423,25.485509411413204,16.283048211508554,15.317199482123295/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808091301:0147/pct:24.63970969414204,25.485509411413204,16.288232244686366,15.323838927065697/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -747,7 +747,7 @@ ho render thai ofthe United States sm&#x27;ii- i
 ut ciently safe, in the judgement ol J  
 nd the President,&quot; he is authorised to 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808091401:0003/pct:23.525760397268776,5.1106223314788455,37.7612249120629,90.39979298744987/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808091401:0003/pct:23.525760397268776,5.1149350929400095,37.7681219394441,90.40410574891102/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -825,7 +825,7 @@ ficulties out&#x27; of which a sich&#x27;oice Was of neces­
 ss rightful commerce to prohibitions and tribu­  
 ,tarv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808091401:0353/pct:22.41878908037212,5.052631578947368,47.55223425346957,91.02631578947368/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808091401:0353/pct:22.41537053979872,5.052188404525919,47.550066077056016,91.02125544542876/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -912,7 +912,7 @@ Congress may be specially convened. It is
 unnecessary to examine the evidence or the  
 character of the facts which arc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808091601:0163/pct:40.659741206488064,54.96298155351989,17.823947512301803,41.67398669845652/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808091601:0163/pct:40.65233236151604,54.956085319949814,17.826773566569486,41.672940192388126/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1014,7 +1014,7 @@ that the legal period of their meeting is a»
 early as, in. this extensive country, they  
 cmdd
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808091601:0307/pct:59.578074967037104,2.4728740852889226,35.9201356187606,91.37017411052233/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808091601:0307/pct:59.566854990583806,2.4725621294310582,35.91964846202134,91.36285269753164/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1096,7 +1096,7 @@ You desire, that, in this dffert of power, con­
 gress may be specially convened. It is unnecessa­  
 ry to examine the evidence or the character r.f
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808091901:0113/pct:9.571788413098236,51.32428940568475,20.9823677581864,43.394702842377264/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808091901:0113/pct:9.569377990430622,51.316001937671565,20.98337950138504,43.39173260132407/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1536,7 +1536,7 @@ Congress have given the Prefideat
 Ihis power to trke off the Embargo,  
 if they wanted it continned on after th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808110101:0173/pct:77.14460784313725,67.18096754927335,16.03860294117647,9.57595062711527/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808110101:0173/pct:77.14971405228758,67.18760368969407,16.03860294117647,9.57595062711527/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1842,7 +1842,7 @@ ligerent powers of Europe, of such changes in
 safe in the judgement of the President of the United 1  
 ! States, he is hereby authorized, during the recess o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1845013001:0056/pct:71.86461166515564,21.881879965540346,14.037473556965852,4.240451804345745/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1845013001:0056/pct:71.86461166515564,21.881879965540346,14.04251032537524,4.2500239303149225/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

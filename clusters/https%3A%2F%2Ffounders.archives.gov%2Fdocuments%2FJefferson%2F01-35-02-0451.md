@@ -64,7 +64,7 @@ yourself with the question. For this I owe apology, and
 bulld it on your goodness and triendship. Health and  
 happiness cioin cacteris votis. Ti. Jerreso
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_euclid_ver01:data:sn83030214:00206530893:1868051601:0114/pct:201.48902821316614,78.0330379608358,50.61128526645768,52.97013455858221/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_euclid_ver01:data:sn83030214:00206530893:1868051601:0114/pct:67.16300940438872,26.01101265361193,16.87042842215256,17.656711519527406/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -135,7 +135,7 @@ owe apology, and build it on your goodness
 and friendship. Health and happiness  
 cin cacteris cotis.Th: JEPPERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741947:1868051801:0495/pct:4.441776710684274,48.40401067059148,40.64292383620115,69.29445313218655/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741947:1868051801:0495/pct:1.480592236894758,16.134670223530495,13.547641278733716,23.098151044062185/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -207,7 +207,7 @@ this 1 owe apology, and builJ.it on your
 oodnert anil irieunswp. iimmi ami ua  
 pines am eWm veii
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038521:0020029337A:1868051901:0480/pct:21.626752336448597,92.72505813309711,14.281542056074766,26.63049496179825/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038521:0020029337A:1868051901:0480/pct:16.228454572012854,69.54933008526187,10.721589249196612,19.97563946406821/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -322,7 +322,7 @@ this I owe apology, and build it on your goodness
 and friendship. Health and happiness acu  
 aeteris votis.TH JEFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_psylocke_ver01:data:sn82015775:00200299504:1868052101:0282/pct:243.29268292682926,50.15527950310559,44.416920731707314,51.24223602484472/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_psylocke_ver01:data:sn82015775:00200299504:1868052101:0282/pct:81.09756097560975,16.718426501035196,14.805640243902438,17.080745341614907/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -388,7 +388,7 @@ goodness and friendship. Health&#x27; and
 happiness cum oacterix rot in.  
 &quot;TH. JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_chekhov_ver01:data:sn84026847:00415665064:1868052101:0487/pct:31.967823625800687,19.160186625194402,17.086250558617607,23.245204769310522/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_chekhov_ver01:data:sn84026847:00415665064:1868052101:0487/pct:31.972789115646258,19.167098669431486,17.09121604846318,23.245204769310522/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -487,7 +487,7 @@ part in any of these position or inference.
 Thomas Jerraasox.  
 Thus, what Washington did in the case o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_article_ver01:data:sn84038628:00295879944:1868052701:0039/pct:26.38387484957882,59.20783063965399,16.696750902527075,11.051673116321421/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_article_ver01:data:sn84038628:00295879944:1868052701:0039/pct:19.80138429130304,44.41156385158206,12.518808305747818,8.285909401320282/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -693,7 +693,7 @@ This was the precedent establish-­
 ed by the fathers of democracy it  
 the United States. Since this time
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn83025167:00279529352:1868052901:0118/pct:128.96530828662324,79.46053504311298,79.79094076655052,87.47512712801237/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn83025167:00279529352:1868052901:0118/pct:42.98843609554108,26.486845014370992,26.59698025551684,29.15837570933746/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -716,7 +716,7 @@ shall
   
 ever other law, might be in existence for, they shall surrender to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn83025167:00279529352:1868052901:0118/pct:132.13149522799577,114.47048419190803,76.12482957127708,6.964404156533274/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn83025167:00279529352:1868052901:0118/pct:44.043831742665255,38.15682806396934,25.374943190425693,2.321468052177758/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -741,7 +741,7 @@ Register&#x27;s offic
   
 dence of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn83025167:00279529352:1868052901:0118/pct:132.44962884411453,123.31417200972805,75.65520375700652,55.228830422286094/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn83025167:00279529352:1868052901:0118/pct:44.14987628137151,41.10472400324269,25.218401252335504,18.40961014076203/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -774,7 +774,7 @@ ing you to take the trouble seeing them and
   
 aying to them, that the question being iManly Powers and create impediments t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bird_ver02:data:sn84023963:00200295924:1868052901:0282/pct:14.578214578214578,83.40635268346112,139.06633906633905,54.271631982475355/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bird_ver02:data:sn84023963:00200295924:1868052901:0282/pct:3.6453000204792136,20.85158817086528,34.773704689739915,13.567907995618839/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -817,7 +817,7 @@ ferences. There is, however, in the apph­
 cation to you to trouble yourself with the  
 seston sor the ws peesy, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bird_ver02:data:sn84023963:00200295924:1868052901:0282/pct:13.923013923013922,138.22562979189485,138.65683865683866,75.02738225629791/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bird_ver02:data:sn84023963:00200295924:1868052901:0282/pct:3.481466311693631,34.55640744797371,34.67130862174893,18.756845564074478/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -885,7 +885,7 @@ friendship. Health and happiness cum caferis,
   
 votis.Th JEEFerso
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212471501:1868053001:0486/pct:244.45350734094617,18.633865480240775,142.49592169657421,360.7956032452238/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212471501:1868053001:0486/pct:61.12584132163981,4.658466370060194,35.63124617581073,90.19890081130595/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -952,7 +952,7 @@ apology, and build it on your goodness
 and friendship. Health and happiness  
 cum caeteris rotis. T. JEFPERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dagwood_ver01:data:sn85033995:00294555882:1868053001:0094/pct:111.03202846975088,125.03206249271307,43.06049822064057,94.76506937157514/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dagwood_ver01:data:sn85033995:00294555882:1868053001:0094/pct:27.75800711743772,31.258015623178267,10.765124555160142,23.691267342893784/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1014,7 +1014,7 @@ goodness and friendship Health and hap­
 pihness cun ccteri votis. &quot;  
 T&#x27;I J !EFFER SON. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_gambit_ver01:data:sn82003389:00280761874:1868060301:0801/pct:30.027932960893853,37.77569704535997,13.283674736188702,24.406991260923846/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_gambit_ver01:data:sn82003389:00280761874:1868060301:0801/pct:30.027932960893853,37.77962751014463,13.283674736188702,24.409530746020184/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1088,7 +1088,7 @@ trouble yourself with the question. For
 this I owe apology, and build it on your  
 goodness and friendship
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_dillinger_ver02:data:sn87056248:0020029581A:1868060401:0408/pct:169.03353057199212,82.02635760351434,57.05128205128205,107.78577437143659/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_dillinger_ver02:data:sn87056248:0020029581A:1868060401:0408/pct:42.263592651954134,20.506589400878585,14.264578966835161,26.946443592859147/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1199,7 +1199,7 @@ goodness and friendship Health and bapi
 piness cum ceeteris votis.  
 TH: JEFFERSON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn82014998:00279558017:1868070401:0193/pct:47.464622641509436,46.004408928079364,14.70125786163522,25.792229264260126/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn82014998:00279558017:1868070401:0193/pct:47.469536163522015,46.004408928079364,14.715998427672956,25.795673739322126/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1216,7 +1216,7 @@ cution against Mr. Duane for an
 offence against the Senate, founded  
 on the sedition act, in which he em
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279520956:1868071001:0898/pct:106.45586297760211,93.02623160588611,39.81115502854633,6.2859884836852205/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279520956:1868071001:0898/pct:26.608122941822174,23.252838637454023,9.95060373216246,1.5712458020150328/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1235,7 +1235,7 @@ opposition to the Constitution, and I
 shall treat it as a nullity wherever it  
 comes in the way of my functions.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279520956:1868071001:0898/pct:106.45586297760211,99.8080614203455,39.98682476943347,11.276391554702496/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279520956:1868071001:0898/pct:26.608122941822174,24.948024948024948,9.99451152579583,2.8186470494162803/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -208,7 +208,7 @@ King Lear.
 “Add to this the host ol ‘moody beggars, starving for a  
 time, of pell-mell* havoc and confusion.’ There is, therr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1832091801:0153/pct:34.40694580590954,83.69312520757224,14.94188489007142,0.9077825750027676/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1832091801:0153/pct:34.40212825539065,83.68386096967014,14.94446000186689,0.9113718544756845/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -267,7 +267,7 @@ With every gale and vary of their masters.”
 
 ---
 
-## [From _The American review : a Whig journal of politics, literature, art, and science_](https://archive.org/details/sim_american-whig-review_1846-02_3_2/page/n109/mode/1up?view=theater)
+## [From _The American Review: a Whig Journal Devoted to Politics and Literature (1848-1850)_](https://archive.org/details/sim_american-whig-review_1846-02_3_2/page/n109/mode/1up?view=theater)
 
 #### 1846-02-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -699,7 +699,7 @@ passion, renege, affirm and turn their
 halcyon beaks with every gale and vary  
 of their masters.Shakespeare
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:okhi:batch_okhi_ellis_ver01:data:sn86063952:00237281226:1893121201:0340/pct:68.81005173688101,265.5347117622895,49.9630450849963,20.594276324798027/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:okhi:batch_okhi_ellis_ver01:data:sn86063952:00237281226:1893121201:0340/pct:17.202512934220252,66.38367794057237,12.490761271249076,5.148569081199507/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -840,7 +840,7 @@ With every gale and vary of their masters
 
 ---
 
-## [From _The Living Age (1897-1941)_](https://archive.org/details/sim_living-age_1898-06-04_217_2813/page/n58/mode/1up?view=theater)
+## [From _The Living age_](https://archive.org/details/sim_living-age_1898-06-04_217_2813/page/n58/mode/1up?view=theater)
 
 #### 1898-06-04 &middot; [Boston](http://dbpedia.org/resource/Boston)
 

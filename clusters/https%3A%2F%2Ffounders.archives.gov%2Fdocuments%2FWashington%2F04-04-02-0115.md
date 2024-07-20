@@ -53,7 +53,7 @@ and we shall be no more a few years hence
 to the inhabitants of that country, than the  
 British and Spaniards are at this day; no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn83016785:00295877947:1845091801:0375/pct:89.4907908992416,24.08929364726788,19.33911159263272,9.78454020435362/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn83016785:00295877947:1845091801:0375/pct:67.12718407151564,18.06974677920924,14.506298252742788,7.341181697023545/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -80,7 +80,7 @@ Jous and to ext nded to the west ard as really to need?
 there will be no power which can deprive them of the use of  
 the Nississippi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271743269:1857080401:0806/pct:24.86865148861646,100.06747638326586,45.74112402483681,12.809266756635179/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271743269:1857080401:0806/pct:8.289550496205488,33.35582546108862,15.24704134161227,4.2697555855450595/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -97,7 +97,7 @@ his letters, &quot;Whene vor the new States become so popu
 lous anc so extended as really to need it, there will be no  
 power to deprive them of the use of the Milsstssippl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271743269:1857080401:0806/pct:71.93122114313007,63.484030589293745,44.75402006049992,3.834907782276203/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271743269:1857080401:0806/pct:23.97707371437669,21.161343529764583,14.918006686833307,1.2783025940920678/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -159,7 +159,7 @@ populous and so extended to the westward as really
 to need it, there will be no power which can de­  
 prive them of the use of the Misssssippi.&quot; 1 pra
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026335:1858103001:0433/pct:15.36388140161725,59.05241935483871,11.164704213363597,1.653225806451613/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026335:1858103001:0433/pct:15.368610204757175,59.05577956989247,11.174161819643448,1.6498655913978495/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -178,7 +178,7 @@ come so populous and so extended to the westward
 as really to need it, there will be no power which  
 an deprive them of the use of the Mississippi.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202191034:1858103001:0415/pct:49.80593075609377,210.76373864128084,37.121564974382856,5.47382085677196/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202191034:1858103001:0415/pct:16.601976918697925,70.25457954709361,12.373854991460954,1.82460695225732/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -197,7 +197,7 @@ Colonies. &quot;Whenever the new States,&quot; said he,
 &quot;no power which can deprive them of the  
 &quot;use of the Mississippi.&quot; We can find nothin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026335:1858110201:0442/pct:5.2974504249291785,64.90980550236823,11.118980169971671,2.166683462662501/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026335:1858110201:0442/pct:5.306893295561851,64.90980550236823,11.109537299339,2.1734018609963384/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -216,7 +216,7 @@ Colonies. &quot;Whenever the new States,&quot; said he,
 &quot;no power which can deprive them of the  
 &quot;tise of the Mimmppi.&quot; We can find nothin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026335:1858110201:0443/pct:5.042492917847025,65.00050387987504,11.118980169971671,2.2170714501662805/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026335:1858110201:0443/pct:5.042492917847025,65.00386307904196,11.128423040604345,2.2237898485001177/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -235,7 +235,7 @@ ward as really to need it, there will be no power
 which can deprive them of the use of the Mis­  
 sissippi.&quot; I pray you to weigh well thes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290094:1858110601:0433/pct:63.27433628318584,187.38156761412574,37.44469026548673,6.847545219638243/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290094:1858110601:0433/pct:15.820771677499653,46.845391903531436,9.362467155303554,1.7118863049095607/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -254,7 +254,7 @@ ward as really to need it, there will be no
 power which can deprive them of the use of  
 the Mississippi.&quot; I pray you to weigh wel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn85033711:00212470247:1858111001:0454/pct:67.75210084033614,252.44932432432432,43.01470588235294,7.9391891891891895/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn85033711:00212470247:1858111001:0454/pct:16.940249507550888,63.11233108108108,10.755088640840446,1.9847972972972974/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

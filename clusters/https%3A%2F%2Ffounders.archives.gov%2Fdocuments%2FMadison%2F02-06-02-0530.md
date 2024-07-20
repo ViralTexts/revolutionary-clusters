@@ -43,7 +43,7 @@ poses.
 He it enacted by the Senate and ttottie  
 &#x27; of Representatives of the United State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804022901:0001/pct:23.646387084071666,14.651193459053145,17.07028942705257,9.560859818013979/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804022901:0001/pct:23.65951302749885,14.6599850542881,17.057163483625384,9.552068222779024/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -82,7 +82,7 @@ App-oveci 3111 Januaiy, 1804.
 registering and enrolling of fliips or vef­  
 fels in the difhift of Orleans. Approv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804033001:0002/pct:0.48812957621477704,36.715108308198516,19.813623252717996,10.625171373731835/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804033001:0002/pct:0.48812957621477704,36.72424824056302,19.813623252717996,10.625171373731835/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -116,7 +116,7 @@ lumbian Library Company.
 An aft relating to the recording, ragdiering and  
 enrolling of (hips or vt(Teis in ihe dift&#x27;ift of Orlean
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016081:00332895060:1804041401:0099/pct:27.821803384022274,34.37703848662753,21.546369672306703,6.418786692759295/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016081:00332895060:1804041401:0099/pct:27.815845824411134,34.37255413514219,21.54710920770878,6.42121054004696/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -141,7 +141,7 @@ the Colawbian Library company,
 terh:rand earolling of thips or u&amp;t ia the  
 ditn&amp; of Orleans
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1804041901:0473/pct:35.55020377917747,87.13022981732469,19.822156354205262,7.330583382439599/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1804041901:0473/pct:35.56255403235766,87.13808681987821,19.80980610102507,7.334511883716362/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -174,7 +174,7 @@ Republic 3 and for other purposes.
 BE it enacled by the Senate and Honfe  
 of Reprefontatives of the United State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804050101:0483/pct:25.83694978301302,26.996308529240334,16.413515189088656,6.207499514280163/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804050101:0483/pct:25.84728249638355,27.002784793730974,16.403182475718122,6.207499514280163/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -203,7 +203,7 @@ dred and , three, between the United
 Stater adit the French Republic, and for  
 other purposes,” as refuses the drawback,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1804122801:0354/pct:69.66610073571024,90.8641975308642,20.656479909451047,3.8271604938271606/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1804122801:0354/pct:69.64639321074965,90.84817492505731,20.657708628005658,3.8308940222183034/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -225,7 +225,7 @@ and three, between tlie United States
 and the French Republie, and for oth­  
 er purposes,” as prohibits the allow
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1805012901:0017/pct:42.15518581869072,27.999204850412482,16.373814336806095,5.556107742769108/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1805012901:0017/pct:42.165552272845076,28.002517973693802,16.363447882651737,5.556107742769108/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -299,7 +299,7 @@ between the United States and the French
 republic, and for other purposes.,” Read  
 twice, and referred to a committee of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808030101:0034/pct:43.611999390893864,53.99361022364217,15.806304248515303,3.424520766773163/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808030101:0034/pct:43.6221511598396,53.99361022364217,15.801228364042434,3.4278487752928646/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -321,7 +321,7 @@ the United States and the Trench Republic;
 and for other purposes and that the collecti­  
 on district shall be and remain as thereby es
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812042301:0135/pct:74.10963687150839,20.82652346486108,16.620111731843576,4.120943264067242/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812042301:0135/pct:74.09670099493803,20.824092447764677,16.623029033571886,4.1243531380101945/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -342,7 +342,7 @@ lmadred and tbree, bawen the Ugited
 States uand the French Republic; and for  
 other purposes 3 and that the colicétio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1812050501:0281/pct:78.32320398940315,62.178776579663406,16.39395356085398,3.980651012798549/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1812050501:0281/pct:78.33359306010077,62.178776579663406,16.39395356085398,3.9840102119654675/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -376,7 +376,7 @@ eight hundred and three, between the
 United f&gt;*.ates and the French Repub­  
 lic. and for other purposes,” as is con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184133:1816072201:0041/pct:42.97260003942441,63.176802668719525,17.583284052828702,5.234795996920708/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184133:1816072201:0041/pct:42.964130863224284,63.168697883258496,17.58638812245434,5.238400684199273/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -394,7 +394,7 @@ ty of providing by law for the recording,
 registering, and enrolling of ships or ves­  
 sels in the reded territories. That th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184145:1822022501:0021/pct:4.26223241590214,4.629749708209052,16.83868501529052,2.6844767215665932/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184145:1822022501:0021/pct:4.261417924708581,4.629149377593361,16.84183705968533,2.688450899031812/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -433,7 +433,7 @@ iuflrußed to i-gnire into the proprieiy of
 providing by law for the recording. register  
 ing and enrolling of ships or vessels in the 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1822030501:0454/pct:3.496932515337423,63.745510518214466,18.08282208588957,10.12827090815803/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1822030501:0454/pct:3.502044989775051,63.75235163331623,18.093047034764826,10.131691465708911/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

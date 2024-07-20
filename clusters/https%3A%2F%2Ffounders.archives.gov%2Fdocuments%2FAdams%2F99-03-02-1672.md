@@ -327,7 +327,7 @@ itself unseemly,” which “ seeketh not her
 own, is not easily provoked, thinketh no  
 evil,” he was perhaps the most remark
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347336:1865052601:0222/pct:36.91074795725959,21.640385973170158,13.497800125707103,6.860437750058837/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347336:1865052601:0222/pct:36.921223549130524,21.644308464736802,13.487324533836162,6.856515258492195/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -357,13 +357,13 @@ behave itself unscemly, which seeketh not its own, which is
 not easily provoked, which thinketh no evil, which rejoiceth  
 not in iniquity but rejoiceth in the truth, which beareth al
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743580:1867062501:0624/pct:61.374876360039565,185.55111364934322,45.037916254533464,6.236436322101656/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743580:1867062501:0624/pct:20.458292120013187,61.85037121644774,15.012638751511155,2.0788121073672188/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Scientific American (1845-1908)_](https://archive.org/details/sim_scientific-american_1868-05-30_18_22/page/n9/mode/1up?view=theater)
+## [From _Scientific American_](https://archive.org/details/sim_scientific-american_1868-05-30_18_22/page/n9/mode/1up?view=theater)
 
 #### 1868-05-30 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -435,7 +435,7 @@ things, endureth all things.&quot;
 And Cecile and her mother had reason  
 to love and be grateful to them. No
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dorothea_ver01:data:sn90061771:00200292807:1873012201:0637/pct:138.51528384279476,289.984496124031,56.5938864628821,32.06201550387597/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dorothea_ver01:data:sn90061771:00200292807:1873012201:0637/pct:34.62882096069869,72.49612403100775,14.148471615720524,8.015503875968992/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

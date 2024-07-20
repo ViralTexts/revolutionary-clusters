@@ -413,7 +413,7 @@ fiiU. liming the last lx yoars of the sixteen
   
 the sums paid In were not to be reloaued, bu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn85029079:00280760936:1891040801:1160/pct:53.07377049180328,10.169491525423728,57.62750455373406,131.8549025819737/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn85029079:00280760936:1891040801:1160/pct:35.4066985645933,6.779661016949152,38.45978582820688,87.91382860763504/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -464,7 +464,7 @@ carry on their settlements, to be repaid in
 easy yearly payments, as ths yearly prod­  
 acts of their lands should enable them.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_volvo_ver01:data:sn00065127:00295876505:1891040901:0341/pct:5.372549019607843,86.11686697057604,15.705882352941176,16.079569001243264/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_volvo_ver01:data:sn00065127:00295876505:1891040901:0341/pct:4.706622440809791,75.35355977275475,13.748141370239049,14.077924170998026/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -513,7 +513,7 @@ cm ry on the r settlements, to be repaid in
 easy yearly payments, as tic; yearly prod  
 ucts of their lands should enable them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_flash_ver02:data:sn89067453:00280779933:1891040901:0041/pct:40.643802647412755,73.21125394130488,13.989169675090253,17.232597623089983/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_flash_ver02:data:sn89067453:00280779933:1891040901:0041/pct:30.499548600662052,54.9114722289595,10.487511284983448,12.927479990298327/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -597,7 +597,7 @@ carry on their settlements, to bere;daia
 epjjy portions yearly, as the yosrly produca  
 of their lands pbouli ccsl a ttcra.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn85029079:00280760948:1891061001:0084/pct:107.72128060263654,73.41115434500648,30.484934086629004,70.31452658884565/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn85029079:00280760948:1891061001:0084/pct:71.83894513774429,48.9461738002594,20.320226041911937,46.87094682230869/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -631,7 +631,7 @@ counterfeits, by peculiarities In the paper, char­
 acter, manner of printing, signing, numbering,  
 etc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn85031982:00280760948:1892083101:1095/pct:11.39240506329114,108.00844704353476,29.917234664070108,29.43469785575049/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn85031982:00280760948:1892083101:1095/pct:7.596785975164353,72.01104613385316,19.96591185780375,19.62313190383366/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

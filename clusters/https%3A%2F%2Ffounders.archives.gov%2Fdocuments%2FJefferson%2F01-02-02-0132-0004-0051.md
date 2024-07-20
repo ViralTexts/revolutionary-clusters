@@ -143,7 +143,7 @@ slave, in trust for the poor ot the said
 county. Every slave who shnli so be­  
 • come vested in the overseers of the poor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1805012501:0367/pct:51.33256083429896,4.543828264758497,42.23638470451912,93.72093023255815/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1805012501:0367/pct:51.31769475818129,4.54301556072259,42.2313929916015,93.70863888392059/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -162,7 +162,7 @@ mount to a year, or sold or hired within the same, shall be for­
 feited, and the right vested in the overseers of the poor, who  
 shall apprehend, or attempt to appiehend him, in trust for th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806020701:0052/pct:4.162688562153905,49.15584415584416,28.604162688562155,3.5974025974025974/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806020701:0052/pct:4.161893852615502,49.14946110894689,28.6050655466463,3.6012639051205473/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -189,7 +189,7 @@ be u on the plantatian-of any person whatso­
 evcr,&#x27;-siwithoutlesiave in_ writing-, lrom his ov  
 her owner or ovexscer, not being); sent upo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216067:1807060301:0093/pct:70.95626389918458,79.47019867549669,22.461082283172722,9.036249564308122/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216067:1807060301:0093/pct:70.94574562703825,79.46327437483663,22.46269394208914,9.038366588248962/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -216,7 +216,7 @@ be upon the plant-.uion 01 any person whatso­
 evsier, Without loue in writing-, {tom his or  
 her owner or ovctseer, no !: ing sent upo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216067:1807080501:0289/pct:70.14903349564705,81.93809356313753,22.310756972111555,9.514597256419275/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216067:1807080501:0289/pct:70.1386839775745,81.93088894750726,22.3123832005508,9.516691579471848/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -246,7 +246,7 @@ ever, without leave in writing,-from his or
 &#x27; her owner orsi ovy&#x27;seer, not;—being sent upon  
 ctzlawful business, It shall be lawful for the own
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216067:1807080601:0291/pct:70.03417025701975,81.011768838925,22.86435893626504,10.644651326190058/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216067:1807080601:0291/pct:70.02376708259061,81.00465443049092,22.86591404238463,10.646643833611428/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -271,7 +271,7 @@ justice of the peace, to be by his order pu-&#x27;
 n_ishcd Wisstl&#x27;ssk&#x27; stripe-5, or&#x27;not, m ,hisss, duration,  
 _ Apd if— anysi dive&#x27;shall ssp&#x27;resume: to&#x27; come 8
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216067:1807080701:0295/pct:70.2935072635636,81.99010250972074,23.599169878446485,7.80311063980205/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216067:1807080701:0295/pct:70.28308878019861,81.98285764778652,23.600612617953658,7.805366557686077/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -295,7 +295,7 @@ one of the Trench Islands, claimed hit freedom un­
 &#x27;* )&#x27;c“r together, or so long at different times as  
 ‘ shall amount to one year, shall be free.” Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808120201:0240/pct:25.018820577164366,3.7229718744919524,42.60978670012547,92.0175581206308/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808120201:0240/pct:25.01254390366282,3.722366710013004,42.605368790767685,92.00666449934981/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -452,7 +452,7 @@ the discretion of a justice of the peace. White persons ar
 guilty ot riots, routs, unlawful assemblies, trespasses and  
 seditious speeches; prescribes the same punishment upo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184054:1832033001:0427/pct:3.9670345020254225,70.98244054234274,15.183684872188854,1.0446765947988441/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184054:1832033001:0427/pct:3.9664804469273744,70.9745527280809,15.186219739292365,1.0482646219950364/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -502,7 +502,7 @@ stripes free negroes, die. guilty of riots,
 routs, unlawful assemblies, trespasses,  
 and seditious speeches; prescribes th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84024746:00414186920:1832041901:0479/pct:24.66052754799438,41.99840310254363,14.515373809895427,2.4181590053610127/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84024746:00414186920:1832041901:0479/pct:24.656679151061173,41.99361313868613,14.518310445276738,2.4216849148418493/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -542,7 +542,7 @@ es. bv any slave or slaves, shall be punished with
 stripe* at the discre&#x27;tion of a Justice of the  
 Peace.” Toe 12th section of the same law be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216481:1833092501:0272/pct:6.866197183098592,77.88844621513944,18.080985915492956,3.037848605577689/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216481:1833092501:0272/pct:6.864988558352403,77.87875015560812,18.083670715249664,3.0416199842317106/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -771,7 +771,7 @@ The facts are: This petitioner was the slave
 of the defendant, who is a citizen of Maryland,  
 and resided therein prior to the 1 0th of January
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199252:1848062201:0901/pct:7.839313572542902,47.22222222222222,19.53978159126365,5.490654205607477/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199252:1848062201:0901/pct:5.892682926829268,35.42315680166148,14.653658536585366,4.114745586708204/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -824,7 +824,7 @@ until the act of 1919. An essential change in the policy of&#x27;
 the State was made at the revisal of 1819, by tho act 1, Rev. j  
 Code, page 421. The provision there made Is as follows
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566431A:1850022201:0258/pct:35.8410324094442,81.17735991684778,16.028743217480567,3.9402815836719265/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566431A:1850022201:0258/pct:35.8410324094442,81.18365932785285,16.033631519773184,3.9402815836719265/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -857,7 +857,7 @@ the right to freedom will be not a littlo augmented
 where the right to freedom immediately ensued,  
 miglit have h&#x27; CU always proved withou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1853101301:0850/pct:6.674975765129483,77.86648711042709,15.053316715136408,4.270873412851096/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1853101301:0850/pct:6.674975765129483,77.8728998332692,15.071781378387112,4.267667051430037/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -876,7 +876,7 @@ except such as were so on the first day of that
 b/ session. (October 17th, 17M,) and the descendI  
 mis of 1 In fiaulM of them. &#x27;This Ml wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1853101301:0850/pct:6.481096800997092,83.99384378607157,13.585375986705442,2.433628318584071/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1853101301:0850/pct:6.490329132622444,83.99705014749263,13.589992152518118,2.4400410414261895/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -919,7 +919,7 @@ apprehend and carry hint or her befoie a justice of the
 peace, to be by hu onl&gt;-r punished with stripes, not exceed­  
 ing thirty-flva, at his discretion.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854022201:0281/pct:48.10001645007402,18.150377866017678,15.676920546142458,3.817087229409504/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854022201:0281/pct:48.10549980808247,18.154647538533794,15.682403904150902,3.82562657444174/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -952,7 +952,7 @@ vant or servants&quot; who &quot; shall be guilty of unlawful as­
 semblies, seditious speeches,&quot; &amp;o. &quot; shall be punished .  
 with stripes, at the discretion of a justice ol the peace
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661617:1854022501:0093/pct:65.44472861608412,22.754557581147175,15.672065927820404,9.637616718541574/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661617:1854022501:0093/pct:65.45420100407313,22.758262931673336,15.667329733825898,9.645027419593893/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -977,7 +977,7 @@ provides that no slave shall go from the tenement
 of his master, or other person with whom he Uvea,  
 without a pass, and so on. The twenty-secon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661538:1854041201:0361/pct:82.36173393124066,48.51579955314395,13.656746840603343,5.043089690392595/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661538:1854041201:0361/pct:82.36626353218281,48.522892506294994,13.656746840603343,5.039543213817073/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1017,7 +1017,7 @@ forth be slaves in this Commonwelth, except
 &quot;session of Assembly, and the descendants of the  
 &quot;females of them.&quot; This act, embedied into the Vir.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530534:1857022501:0372/pct:55.35183349851338,265.0740161270911,47.55533531549389,11.938861475508485/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530534:1857022501:0372/pct:18.450611166171125,88.35800537569703,15.851778438497963,3.9796204918361617/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1041,7 +1041,7 @@ such persons nnd their descendents being
 slaves as since have been, or hereafter may  
 be brought into this State, or held therei
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn84026845:00202190662:1860070401:0015/pct:42.23639625274068,54.377370417193426,13.872832369942197,5.451959544879899/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn84026845:00202190662:1860070401:0015/pct:42.246362367948976,54.381321112515806,13.882798485150488,5.451959544879899/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1063,7 +1063,7 @@ the United States, that which now composes the District
 by Maryland, and the rest by Virginia, but which latter  
 hadbeen retroceded at the time of the propose
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024656:00414184704:1860080701:0128/pct:52.653828088304365,58.9364344586203,38.06168780335056,11.663091340182905/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024656:00414184704:1860080701:0128/pct:17.548528490920475,19.643260329645518,12.685243164266332,3.887258222322571/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1095,7 +1095,7 @@ such slave or servant ten lashes on his or her hare
 back.&quot;  
 The Constitution of Illinois prohibits slave
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_halsted_ver02:data:sn82014064:no_reel:1864111901:0002/pct:2.70935960591133,13.983716611912584,9.776430466085639,5.813455220682759/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_halsted_ver02:data:sn82014064:no_reel:1864111901:0002/pct:2.70935960591133,13.987287530352807,9.800113679424024,5.820597057563205/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1126,7 +1126,7 @@ owner, not being sent upon lawfil busincss it shall be
 lawful for the owner of sach plantation, or dwelling-  
 house, to give or order such slave or servant ten lashe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_cobol_ver01:data:sn83030213:00206530789:1864112201:0566/pct:199.16902404526166,99.27993936331481,49.504950495049506,29.64881253158161/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_cobol_ver01:data:sn83030213:00206530789:1864112201:0566/pct:66.38967468175389,33.093313121104934,16.501650165016503,9.882937510527203/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1161,7 +1161,7 @@ business, it shall be lawful for the owner
 ot such plantation, or dwelling house, to  
 give or order nidi slave or servant te
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_debaptiste_ver01:data:sn83016710:00211664186:1864120801:0334/pct:4.48444173276388,75.43142144638404,18.990237949969494,14.483790523690773/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_debaptiste_ver01:data:sn83016710:00211664186:1864120801:0334/pct:4.489526133821435,75.43474646716543,19.000406752084604,14.483790523690773/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

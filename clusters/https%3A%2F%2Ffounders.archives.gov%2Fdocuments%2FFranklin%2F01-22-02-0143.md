@@ -56,7 +56,7 @@ ting in a week will pay the rest. How much
 more may be done by the superior industry of  
 ithe man.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn85054702:00280776002:1845032201:0978/pct:17.04035874439462,244.99788940481216,61.43497757847533,57.63331926269875/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn85054702:00280776002:1845032201:0978/pct:4.261682242990654,61.24947235120304,15.36448598130841,14.408329815674687/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -139,7 +139,7 @@ Your affectionate Father, B.F.&quot;
 tohs  
 Need oF A ScEOOL MAster. The followin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775654:1861090601:0454/pct:58.8317107093185,264.03331989789064,44.01947148817803,85.18070670428591/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775654:1861090601:0454/pct:14.707927677329625,66.00832997447266,11.004867872044507,21.295176676071478/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -200,7 +200,7 @@ very and Contempt.
 &quot;I am ever,  
 &quot;Your aflectionate Father. B. F.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009571:00279523891:1861091301:0361/pct:82.1157298715647,36.42971672902191,33.73843391796713,66.10368786745056/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009571:00279523891:1861091301:0361/pct:27.368130350731843,12.141941000427533,11.244591733406978,22.032207496080947/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -235,7 +235,7 @@ but we have nothing to expect from submission
 but slavery and contempt. lan ever,   
 Your affectionate father, B. F.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85033123:00514151374:1861091901:0678/pct:61.44785981039931,79.10463979137238,11.160586038494685,8.04085624252961/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85033123:00514151374:1861091901:0678/pct:61.45743560279613,79.10826179868883,11.155798142296275,8.044478249846065/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -311,7 +311,7 @@ mission but slavery and Contempt.
   
 Your affectionate Father, B.F.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn84028083:00280775241:1861092701:0591/pct:329.6827794561934,223.24619701668882,52.56797583081571,90.73992024811697/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn84028083:00280775241:1861092701:0591/pct:82.42069486404834,55.811549254172206,13.141993957703928,22.684980062029243/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -438,7 +438,7 @@ being a truly unnatural and mischievous
 one; but we have nothing to expect from  
 Submission but slavery and Contempt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn84026881:00279557220:1861101201:0493/pct:8.354978354978355,46.46534929028667,17.38095238095238,23.364876148065683/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn84026881:00279557220:1861101201:0493/pct:8.36038961038961,46.46534929028667,17.38095238095238,23.371834121903703/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -541,7 +541,7 @@ being a truly unnatural aud mischievous
 one; but we have nothing to expect from  
 submission but slavery and Coutempt.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340603:1861101901:0167/pct:67.62130609266691,69.97434858917241,12.677854797519153,15.98487916835426/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340603:1861101901:0167/pct:67.60897318985957,69.96490280777537,12.68010213386832,15.986096112311015/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -607,7 +607,7 @@ sion but slavery aud contempt.
 &#x27;.&#x27;I am ever ,.  
 &quot; Your affectionato Father, B.V
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_flint_ver01:data:sn97063063:00296024302:1861102901:0549/pct:29.381892048752178,28.200330214639514,19.225188624492166,43.1810676940011/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_flint_ver01:data:sn97063063:00296024302:1861102901:0549/pct:19.593613933236576,18.80022014309301,12.830188679245284,28.79471656576775/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -667,7 +667,7 @@ but Slavery and Contempt.
 &quot;I am ever,  
 Your affectionats Father, B.F.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279523994:1861121301:0203/pct:244.218192627824,163.64195002048342,37.15814506539834,80.47931175747644/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279523994:1861121301:0203/pct:81.39396641402882,54.54173067076293,12.384207658394017,26.823690049496502/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -766,7 +766,7 @@ SixpeWB&#x27;Weeaf aseve, tkfej :ay pay
 the whoiaflosB witlvotBeKWiaaleefiBg  
 itC Forbeiawit tbdriak Tea saves t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015486:00294555614:1862022001:0316/pct:91.27073906485671,85.5224674288753,17.043740573152338,28.82212177612337/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015486:00294555614:1862022001:0316/pct:68.48359109769898,64.14517415580963,12.787627310448887,21.61659133209253/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -818,7 +818,7 @@ lime it. Forbecrin; to drink tea saves
 of the money; and five  
 ted thusand women doing eac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_gastly_ver01:data:sn82015737:00279529133:1862071401:0372/pct:16.057979252522383,71.14599686028258,36.99019468523519,40.2407116692831/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_gastly_ver01:data:sn82015737:00279529133:1862071401:0372/pct:5.352659750840794,23.71533228676086,12.330064895078396,13.413570556427699/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -857,7 +857,7 @@ hundred thousand women doing each three.
 pence worth of spinning or knitting in a  
 will pay the rest.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn84027096:00279529480:1862080901:0534/pct:21.0637336145849,50.08898776418243,38.345638089498266,36.729699666295886/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn84027096:00279529480:1862080901:0534/pct:7.021244538194968,16.696329254727473,12.78187936316609,12.243233222098628/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -921,7 +921,7 @@ Our English Relations.
   
 Secretary Seward, on the 7th ult., sen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347312:1863052201:0204/pct:22.303765156349712,67.02960190541,13.43331206126356,20.982193489849156/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347312:1863052201:0204/pct:22.30908317379281,67.03338248081359,13.443948096149756,20.98597406525273/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

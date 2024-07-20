@@ -309,7 +309,7 @@ with a sincere regard,
 Your affect&#x27;ate friend and ob&#x27;t servet,  
 (Signed! GRO. WAsrIrOtoN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_johnhenry_ver01:data:sn84024738:00280778059:1861082901:0207/pct:129.8423260523651,33.04621848739496,78.40300882395486,257.4579831932773/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_johnhenry_ver01:data:sn84024738:00280778059:1861082901:0207/pct:43.28077535078837,11.015406162464986,26.134336274651623,85.81932773109244/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -629,7 +629,7 @@ Your affectionate friend,
 and obedient servant,  
 GEO. WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn83025725:00212470405:1861090501:0199/pct:63.427947598253276,10.698174006444683,90.2292576419214,370.82706766917295/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn83025725:00212470405:1861090501:0199/pct:15.859151085027978,2.6745435016111707,22.560393066739458,92.70676691729324/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -828,7 +828,7 @@ regard,
 Your affectionate friend and ob&#x27;t servant  
 EO. WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200290033:1861090601:0183/pct:78.68852459016394,108.61486486486487,42.22724703222159,269.51013513513516/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200290033:1861090601:0183/pct:19.67769296013571,27.153716216216218,10.559796437659033,67.37753378378379/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1024,7 +1024,7 @@ gard, _ . , , .
 Your affect&#x27;ate friend and ob t. ser vf,  
 (Signed,) Guo. Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn82014282:0041421244A:1861091901:0291/pct:4.653410660038664,12.440845514775475,25.91825462579398,83.59448943106531/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn82014282:0041421244A:1861091901:0291/pct:4.652768189976529,12.439537329127235,25.918127847576972,83.58832807570978/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1112,7 +1112,7 @@ j under arrest for trial. in.short, I -pan
 I none, and yet fear it will not do, as these  
 ; people seem to he attentive only to thei
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn82005159:00296028460:1865120801:0152/pct:84.50658952105432,15.943363646828594,12.552234008357441,7.8047657419132035/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn82005159:00296028460:1865120801:0152/pct:84.51194685524483,15.951037949426345,12.552234008357441,7.7970914393154525/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1142,7 +1142,7 @@ yet fear it will not all do, as these people
 seem to be only attentive to their interests.&quot;  
 There has been no improvement in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn88077244:00280775071:1865122101:0720/pct:321.655437921078,62.08488723139762,59.576515880654476,32.605221097496006/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn88077244:00280775071:1865122101:0720/pct:80.4525758305248,15.521221807849406,14.901299951853636,8.151305274374002/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1175,7 +1175,7 @@ peope see to e on ateni o te a e e ea e
 interests.&quot;  
 There has been, says the Chicago
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292923:1865122301:0454/pct:195.1384963256077,257.91471310560394,69.81345392877331,24.871623130162984/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292923:1865122301:0454/pct:48.791519434628974,64.47867827640098,17.45583038869258,6.217905782540746/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1210,7 +1210,7 @@ short, I spare none, and yet fear it will not
 all do, as these people seem to be only atten­  
 tive to their interests
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_eiffel_ver02:data:sn83016892:00295878782:1866012401:0400/pct:338.2480957562568,116.96003313315386,43.852013057671385,16.64940981569683/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_eiffel_ver02:data:sn83016892:00295878782:1866012401:0400/pct:84.57352741123657,29.240008283288464,10.964494626581418,4.162352453924208/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1271,7 +1271,7 @@ alterns under arrest for trial. In short, I
 spare none, and yet fear it will not all do,  
 as these people seem to be only attentive t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn88077244:00280775071:1866020101:0858/pct:89.67136150234742,191.3446126447017,59.624413145539904,30.276046304541406/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn88077244:00280775071:1866020101:0858/pct:22.423104015027,47.836153161175424,14.90960319323785,7.569011576135352/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1301,7 +1301,7 @@ i this time oue colonel, one major, one cap­
 t fear it will not at all do, as these people  
 seem to be only attentive to their inter
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_henson_ver01:data:sn83016107:00415625479:1866020901:0432/pct:64.5929018789144,107.66978922716628,18.93528183716075,11.929156908665105/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_henson_ver01:data:sn83016107:00415625479:1866020901:0432/pct:50.064717937655054,83.44551160856084,14.674792363283357,9.252817061181275/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1354,7 +1354,7 @@ thority ef the land respected. He must time one colonel, one major, one&#x27; ca
 be blind indeed thsr doe&#x27;s not&#x27; see that a aud two subalterns under arrest for trials  
 strong authority is the last anchor of satety In short, I spare none, and vet fear it &quot;wil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_adam_ver02:data:sn84026526:00295879452:1866022301:0303/pct:62.4025974025974,46.69583237393507,58.814935064935064,14.529127331337785/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_adam_ver02:data:sn84026526:00295879452:1866022301:0303/pct:46.82475231443885,35.0218742804513,44.14487575117752,10.902601888095786/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1575,7 +1575,7 @@ exceeded the bounds of a letter, I w
 not trouble you with matters relatr  
 to my feelings. Your affection
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_alexiavalentine_ver01:data:sn84027008:00294551645:1866032401:0691/pct:34.11764705882353,25.788947593888334,16.586306653809064,62.901613594173924/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_alexiavalentine_ver01:data:sn84027008:00294551645:1866032401:0691/pct:34.12407585985214,25.788947593888334,16.586306653809064,62.9111333238136/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1684,7 +1684,7 @@ greatly exceeded the bounds of a let­
 ter, I will not trouble you with matters  
 relative to my feelings
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293812:1866032701:0294/pct:99.47214076246334,194.22659079151578,40.0,145.43197102948784/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293812:1866032701:0294/pct:24.868035190615835,48.556647697878944,10.0,36.35799275737196/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1788,7 +1788,7 @@ the bounds of a letter, I will not trou-
 ble you with matters relative to my  
 feclings
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_ettabaker_ver02:data:sn84026922:00237288154:1866032901:0360/pct:2.777188891244435,36.04685646500593,114.14034343862625,258.3926453143535/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_ettabaker_ver02:data:sn84026922:00237288154:1866032901:0360/pct:0.9257296304148117,12.015618821668644,38.04678114620875,86.13088177145117/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1863,7 +1863,7 @@ none. and yet fear it will not all do, its llo-??
 people se?&#x27;in to be too inattentive to everything  
 but their interest. There have been so niu.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_fezza_ver01:data:sn85025007:00415663754:1875122701:0632/pct:82.72274325908558,51.93260654112983,15.328253223915592,27.036669970267592/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_fezza_ver01:data:sn85025007:00415663754:1875122701:0632/pct:82.72274325908558,51.939213742979845,15.338022665103557,27.0399735711926/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1891,7 +1891,7 @@ noxious to a ureal part of thesy people. But as
 a letter. I will nul trouble you with matters rel­  
 ative to my feelings
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_fezza_ver01:data:sn85025007:00415663754:1875122701:0632/pct:82.64947245017585,78.75123885034688,15.181711606096131,6.362735381565907/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_fezza_ver01:data:sn85025007:00415663754:1875122701:0632/pct:82.64947245017585,78.7578460521969,15.186596326690113,6.366038982490915/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2058,7 +2058,7 @@ The latter dan, he argues
 &quot;sence from post when the enemy ap  
 &quot;peared and burnt a house Besides 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_grandfather_ver01:data:sn85042098:00415667437:1881010601:0350/pct:20.30823786142935,51.158166815786856,16.393889798145118,10.378765284819565/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_grandfather_ver01:data:sn85042098:00415667437:1881010601:0350/pct:15.236666211976537,38.37359578486927,12.303914882007911,7.784073963614674/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2294,7 +2294,7 @@ greater pert of these People.&quot;
 The parts quoted by Sparke relate eh~ to  
 military movements. The letter was copie b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pug_ver01:data:sn83045462:00280654838:1892031901:0705/pct:61.85123966942149,49.41112765669419,12.380165289256198,22.07932855015568/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pug_ver01:data:sn83045462:00280654838:1892031901:0705/pct:61.85537190082645,49.4145119805063,12.400826446280991,22.075944226343577/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2398,7 +2398,7 @@ to a greater part of these People.”
 The parts quoted by Sparks relate  
 shiefly to military movements. Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340586320:1892051301:0151/pct:65.86538461538461,32.057761732851986,17.872073578595316,41.40072202166065/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340586320:1892051301:0151/pct:51.050272692909985,24.848914422144297,13.850639883363032,32.09729165112288/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2472,7 +2472,7 @@ to a greater part of these People.&quot;
 The parts quoted by Sparks relate  
 chiefly to military movements. Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_echo_ver01:data:sn87075048:00237289523:1892051401:0588/pct:92.45607333842628,27.646396396396398,16.63483575248281,40.273085585585584/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_echo_ver01:data:sn87075048:00237289523:1892051401:0588/pct:69.37332823844096,20.7347972972973,12.495223538402751,30.208333333333332/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2549,7 +2549,7 @@ People,&quot;
 The parts quoted by Sparks relate  
 chiefly to military movements. Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_effie_ver01:data:sn83016810:00280768194:1892070201:0102/pct:69.84806629834254,21.421172570955044,12.265193370165745,32.059250051792006/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_effie_ver01:data:sn83016810:00280768194:1892070201:0102/pct:69.85727440147329,21.421172570955044,12.265193370165745,32.06960845245494/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2857,7 +2857,7 @@ People.&quot;
 The parts quoted by Sparks relate  
 chiefly to military movements. Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_bones_ver01:data:sn84026824:00271767857:1892111801:0394/pct:27.452025586353944,17.62962962962963,14.47228144989339,30.29135802469136/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_bones_ver01:data:sn84026824:00271767857:1892111801:0394/pct:27.452025586353944,17.63292181069959,14.481165600568586,30.297942386831277/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2933,7 +2933,7 @@ lick abuses, to render myself very ob- it
 noxious to a greater part of these ri  
 People? 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_bones_ver01:data:sn84026824:00271767857:1892123001:0415/pct:72.87126032218762,25.81628638867034,14.836875592256668,28.924075531077893/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_bones_ver01:data:sn84026824:00271767857:1892123001:0415/pct:72.8757727539371,25.822842905848415,14.841388024006138,28.924075531077893/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

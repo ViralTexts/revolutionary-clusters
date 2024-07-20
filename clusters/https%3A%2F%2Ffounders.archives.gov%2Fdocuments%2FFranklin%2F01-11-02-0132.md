@@ -816,7 +816,7 @@ To sing with heart and voice,
 God save the Queen!  
 OD SAVE THE POOR
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472037:1844110101:0225/pct:12.294440093970243,23.64199268224036,361.39389193422085,99.91556431184914/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472037:1844110101:0225/pct:3.074813944379162,5.91049817056009,90.38386212299255,24.978891077962285/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1033,7 +1033,7 @@ dear child, your affectionate
   
 B. FRANKLIN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:0028077571A:1858111301:0052/pct:127.99389778794813,70.6011228262358,48.74141876430206,49.56867040942078/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:0028077571A:1858111301:0052/pct:32.004577531947355,17.65028070655895,12.187678809841694,12.392167602355196/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1120,7 +1120,7 @@ Frustrate their knavish tricks,
 On thee, O God, our eyes wo fix-  
 Go save the State! (Loud applause.)
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743361:1860091801:0193/pct:7.147790055248619,10.953468798845737,45.562845303867405,19.38198869784778/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743361:1860091801:0193/pct:2.382596685082873,3.6511562662819124,15.187615101289135,6.460662899282594/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1235,7 +1235,7 @@ s you do.”—Nov. 8, 1764.
 y ‘  
 to An honest California farmer sent to t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340676:1875111101:0183/pct:61.007914714908736,67.67536085084832,11.371345501534485,21.16991643454039/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340676:1875111101:0183/pct:60.998062015503876,67.66679326497025,11.373546511627907,21.170401316622357/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1302,7 +1302,7 @@ is worth more than a thousand of
 mine, though theyjare cover want­  
 ing.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159191:1878071101:0109/pct:83.01911842804036,37.53507014028056,10.647902283590016,7.695390781563126/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159191:1878071101:0109/pct:83.02796955213311,37.53841015364061,10.643476721543635,7.702070808283233/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1331,7 +1331,7 @@ attend you, which is more than a thous­
 and of mine, though they are never  
 wanting.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dorothea_ver01:data:sn86063984:00200292819:1878102301:2227/pct:24.544480171489816,134.12670633531675,69.02465166130762,34.371718585929294/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dorothea_ver01:data:sn86063984:00200292819:1878102301:2227/pct:6.1377646743500405,33.53167658382919,17.26078799249531,8.592929646482323/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1360,7 +1360,7 @@ qt tend you, which is more than a thous­
 and of mine, though they are never  
 wanting.&quot;. ; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn88078580:00280775216:1878121301:0062/pct:79.64071856287426,42.10397253555664,14.121756487025948,8.10446297204512/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn88078580:00280775216:1878121301:0062/pct:59.760359460808786,31.58410985777342,10.600765518389084,6.081412457086807/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1389,7 +1389,7 @@ attend you, which is more than a thous­
 and of mine, though they are never  
 wanting.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:00237283600:1879041701:0451/pct:61.06153846153846,44.86552567237164,12.753846153846155,7.982885085574572/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:00237283600:1879041701:0451/pct:45.81409664512157,33.655256723716384,9.572176054170514,5.990220048899755/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1552,7 +1552,7 @@ waters come through very dirty earth.” George
 Herbert, long before Franklin, seems to have  
 had the same idea when he said that, with th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210119:1885080801:0360/pct:4.60045206754421,59.57690108633505,14.492753623188406,4.774156660949114/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210119:1885080801:0360/pct:4.604884102291362,59.57690108633505,14.492753623188406,4.786862334032145/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1582,7 +1582,7 @@ clear waters come through very dirty
 earth.&quot; George Herbert, long before  
 Franklin, seems to have had the sam
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_abraham_ver02:data:sn84023963:00200295900:1885091101:0293/pct:300.49792531120335,326.8783068783069,71.36929460580913,30.476190476190474/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_abraham_ver02:data:sn84023963:00200295900:1885091101:0293/pct:75.14007055405686,81.71957671957672,17.846026146503423,7.619047619047619/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1628,7 +1628,7 @@ sweet, and clear water comes through
 very dirty earth.”  
 The other memento is of a differen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092392:00414187304:1887011301:0269/pct:18.315018315018314,37.600896860986545,12.75946275946276,5.86322869955157/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092392:00414187304:1887011301:0269/pct:18.31222340912559,37.596681986324405,12.762602370415586,5.866307962485521/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1655,7 +1655,7 @@ sweet and clear water comes through
 very dirty earth.”  
 The other memento is of a differen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_inman_ver01:data:sn84020151:00340583620:1887011501:0511/pct:22.60572728996776,50.126742712294046,14.6406220367912,7.566539923954372/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_inman_ver01:data:sn84020151:00340583620:1887011501:0511/pct:22.60144103147516,50.12039031808389,14.642586272279106,7.568749207958434/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1711,7 +1711,7 @@ swect and clear water comes through
 very dirty earth.&quot;  
 The other memento is of a differen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_angel_ver01:data:sn88064555:00294555109:1887012201:0753/pct:152.24926971762414,195.32769893158985,40.54527750730282,23.15420188167756/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_angel_ver01:data:sn88064555:00294555109:1887012201:0753/pct:50.74975657254138,65.10923297719663,13.515092502434275,7.718067293892521/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1797,7 +1797,7 @@ sweet and clear water comes through
 very dirty earth.&quot;  
 The other memento is of a difitaeat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_quartz_ver02:data:sn97071028:00416152652:1887080501:0074/pct:68.00059066745422,50.3379623940027,14.249852333136444,8.46749416246774/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_quartz_ver02:data:sn97071028:00416152652:1887080501:0074/pct:51.02673954793914,37.75347179550203,10.695819175653716,6.35369300725083/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1845,7 +1845,7 @@ much better than the man, as sweet
 and clear water comes through very  
 dirty earth. The other memento i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn86071719:00280777699:1887081001:0673/pct:324.17677642980937,213.8246215367038,56.932409012131714,24.278777492145103/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn86071719:00280777699:1887081001:0673/pct:81.07932379713914,53.45615538417595,14.23927178153446,6.069694373036276/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

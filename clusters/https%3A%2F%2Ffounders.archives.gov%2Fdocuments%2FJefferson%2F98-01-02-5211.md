@@ -49,7 +49,7 @@ ness; DO dollars for board; 23 for the use of
 the buildings; 50 dollars tuition to one school  
 only, 30 each to two, or 25 each to three
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348914:1825030301:0464/pct:2.412467976088813,24.54458293384468,16.92997438087105,12.422955759485003/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348914:1825030301:0464/pct:2.4119530416221986,24.54122158312791,16.931696905016008,12.424678170364285/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -127,7 +127,7 @@ I table charactei, will, any one r&gt;l ivliom the rtiidrut diet* at Im
 I rlioii e, at the fixed price of 9l0(&gt;forllie term often in&#x27;inlli*  
 ! atula half. The varation now commencing
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183992:1825122001:0245/pct:32.33838786911413,62.81713738630924,15.115722266560255,10.662996649114408/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183992:1825122001:0245/pct:32.33322693903607,62.809620677276534,15.118629641451218,10.665709385345618/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -339,7 +339,7 @@ University. All IrUei.and application, i evpi-cting the preiut*­
 e. are to headdre.-ed to the subscriber at the University near  
 Charlottesville, by a Irtt.r t.. wU-,n or subscription with hi..
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183992:1826010501:0272/pct:82.4408072461465,38.41652734654884,14.651199745749246,2.1017434917602102/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183992:1826010501:0272/pct:82.42770892913886,38.41194029850746,14.654167990678953,2.1054726368159202/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -436,7 +436,7 @@ Umvrt.ily. All letters and application* respecting Ihe pretnl­
 e. are to lie addressed to the subscriber at the University near  
 Obai lotlevvilte, by a letter to whom or subscription with hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183992:1826011001:0280/pct:68.16079119476791,77.10828941063728,14.96251395756899,16.003833253473886/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183992:1826011001:0280/pct:68.14992025518342,77.09905377889568,14.965443912812335,16.005908891284385/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -770,7 +770,7 @@ the eienieutaiy operations of Numeiical Arithmetic, with Frac­
 liiins, \ ulg.ii and Deciin si, au.l the extraction of the Jtoute­  
 ao.l to enter any school he must he 16 years of ace Kerr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827010401:0309/pct:80.48701822286728,36.55346213848554,15.271730366069988,4.416176647065883/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827010401:0309/pct:80.47404063205417,36.54907607391409,15.27464258841234,4.419646428285737/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -902,7 +902,7 @@ hall, are limited as follows :
 Tuition fees: If the atudeul atteudshut one Professor, he  
 pay* $50; if two $3U to each, aud $25 to each it h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827011601:0326/pct:66.34599967933302,5.657878897315517,14.911014911014911,7.018177440712652/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827011601:0326/pct:66.33536389868547,5.657197881559942,14.913968152185529,7.021344888460921/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -951,7 +951,7 @@ years of age: every student is free’to attend stieh schools,
 and Such only as he thinks will best prepare him for the  
 iiue of life he proposes to follow
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184558:1827012301:0011/pct:4.600063231109706,22.778308647873864,17.910211824217516,7.381748686096512/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184558:1827012301:0011/pct:4.599336178283547,22.775588200167203,17.91264949159686,7.38484812293483/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -991,7 +991,7 @@ yars of a«c: every student is free to attend such schools,
 line of life lie proposes to follow.  
 &#x27;i ite expenses for the ordinary session of ten jmniths and .
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184558:1827012601:0015/pct:3.3672172808132146,22.70892687559354,17.947903430749683,7.9415954415954415/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184558:1827012601:0015/pct:3.3666825472447197,22.706231454005934,17.95034672595416,7.944609297725025/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1031,7 +1031,7 @@ years of age: every student is free to attend such schools, j
 tind such only as lie thinks will best prepare him for the I  
 line of life lie proposes to follow
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184558:1827013001:0019/pct:4.8531490497879695,46.48609951079823,17.98335165698131,8.077795012528338/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184558:1827013001:0019/pct:4.852386934673367,46.48055356716774,17.985762144053602,8.080808080808081/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

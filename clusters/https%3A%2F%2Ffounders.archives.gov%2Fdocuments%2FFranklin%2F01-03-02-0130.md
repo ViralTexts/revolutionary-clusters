@@ -768,7 +768,7 @@ the&#x27;waerld, to whom all should look for 2 blefling
 on their honest endeavours, doth not in kis wife  
 providence otherwise determine
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025586:0051701512A:1786081001:0339/pct:36.06295620437956,14.11479630470998,27.988138686131386,77.85854914432834/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025586:0051701512A:1786081001:0339/pct:36.06295620437956,14.11984451511939,27.988138686131386,77.86864556514716/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1849,7 +1849,7 @@ money an hour bevond the time you
 promised, left a disappointment shut up  
 your friend’s purse forever. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1792011101:0939/pct:72.86394387371585,69.36835320657428,21.67376597344024,9.168546567837577/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1792011101:0939/pct:72.8806481249478,69.37909549897948,21.665413847824272,9.157804275432378/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2676,7 +2676,7 @@ way to market—it depeunds chicfly on two
 words, industry and ?mgalily.” No man  
 has laboured more to encourage exertio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802081701:0132/pct:76.84705882352941,32.349421619465495,16.32941176470588,2.991623454327882/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802081701:0132/pct:76.85228758169934,32.349421619465495,16.32941176470588,3.0015955325089747/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2710,7 +2710,7 @@ R , that money is of a prolific gen­
 w + Money can beget money,  
 nd it off spring Mit morey and so o 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1819011301:0833/pct:5.659276546091015,81.69527392428874,21.373006612213146,7.441805784152363/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1819011301:0833/pct:5.665759107999482,81.7031115291167,21.379489174121613,7.441805784152363/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2745,7 +2745,7 @@ y,u at a bilhacd t&lt;bie, o hears your voice at
 o tavera, wnen y u should be at work, he  
 sends for his money the next Jay; demand
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1819011301:0833/pct:28.140801244651886,7.700446743475194,21.48969272656554,14.707265459675524/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1819011301:0833/pct:28.147283806560353,7.700446743475194,21.50265785038247,14.71902186691747/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2787,7 +2787,7 @@ look for a blessing en their honest endeavors,
 doth not, in his wise piovidecnce, otherwise  
 Jetermine. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1819011301:0833/pct:28.160248930377286,23.994827180813544,21.684169583819525,19.245238655067013/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1819011301:0833/pct:28.17321405419422,23.994827180813544,21.69065214572799,19.253076259894975/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4199,7 +4199,7 @@ spend but sixpence during that diversion or .die
 ness, ought not to reckon that the only ?PC&quot; c­  
 He has really spent, or rather thrown aw aj, f
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664291:1846062601:0019/pct:42.87632403401462,67.71534160902114,13.65060420707146,2.6343219937458544/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664291:1846062601:0019/pct:42.88129693172211,67.71534160902114,13.655577104778954,2.6374806532107775/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4298,7 +4298,7 @@ your voice at a tavern, when von should
 he at work, he sends for his money&#x27; the  
 next day; demands it before he can re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624451:1851032901:0358/pct:5.1224443945180855,90.0784929356358,19.27656706358122,21.0989010989011/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624451:1851032901:0358/pct:3.975623911781776,69.81912563873793,14.944863609982589,16.359802092627138/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4322,7 +4322,7 @@ hears your voice at a tavern, when you should be
 at work, he sends for his money the next day.  
 Franklin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn93067980:00295862270:1852061101:0013/pct:57.80283739541652,74.81955762514552,18.370316478719534,6.3678696158323636/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn93067980:00295862270:1852061101:0013/pct:57.80283739541652,74.82731858750485,18.376379289438585,6.3678696158323636/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4368,7 +4368,7 @@ the romance out of a very current rumor,
 that the Jewish Empire was to he re­  
 j stored by M. Rothschild : 44 The stor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn83032276:00296028587:1852082001:0489/pct:49.57320019326784,16.27658310561958,30.117571267514897,79.45823927765237/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn83032276:00296028587:1852082001:0489/pct:49.58393729532399,16.27658310561958,30.106834165458743,79.46219951685082/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4488,7 +4488,7 @@ or hears your voice at a tavern when you
 should be at your work, he sends for his  
 money the next day.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hershey_ver01:data:sn85025182:0029602840A:1858040701:0373/pct:29.480078613542968,36.542042687294085,11.952831874218331,5.156854318865492/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hershey_ver01:data:sn85025182:0029602840A:1858040701:0373/pct:29.48603418498005,36.54681755240414,11.96474301709249,5.161629183975553/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4515,7 +4515,7 @@ work, he sends for his money the next
 day.&quot; What is true of the young  
 mechanic, is also true of the youn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_gastly_ver01:data:sn82014134:00279529285:1859032601:0227/pct:49.45240101095198,243.93421614694574,33.52990732940185,17.375053395984622/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_gastly_ver01:data:sn82014134:00279529285:1859032601:0227/pct:16.484133670317327,81.31140538231524,11.176635776467284,5.791684465328207/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5123,7 +5123,7 @@ at a tavern, when you should be
 at work, he sends for his money the next  
 (Franklin.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279523994:1862041101:0274/pct:16.204051012753187,272.8783991790662,37.689422355588896,15.55669574140585/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279523994:1862041101:0274/pct:5.4005400540054005,90.95013338805664,12.56125612561256,5.185033176003831/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5179,7 +5179,7 @@ obey the next day.- Fronttia
   
 Years ago, in the deep heart of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn85029094:00237281858:1862051701:0281/pct:114.51841359773371,75.20661157024793,106.37393767705383,313.8429752066116/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn85029094:00237281858:1862051701:0281/pct:28.634673277846645,18.801652892561982,26.5981937311847,78.4607438016529/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5258,7 +5258,7 @@ give, as an excuse for their treason, that
 they desired to preserve the institution  
 of slavery. How well they have succeed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn86059181:00296022020:1863100801:0140/pct:31.18405627198124,306.25357265348117,42.20398593200469,19.435234937692922/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn86059181:00296022020:1863100801:0140/pct:7.79601406799531,76.56339316337029,10.550996483001173,4.8588087344232305/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5448,7 +5448,7 @@ forablessiug on their honest endeavors,
 doth not, in His wise proyideacei other­  
 wise determine.—-Godey’s Lady’s Book
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340615:1864102901:0381/pct:70.13667852462086,68.84174005871364,12.750421269425201,22.604750467040297/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340615:1864102901:0381/pct:70.1235492324972,68.83255503669113,12.752714339198802,22.605070046697797/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5482,7 +5482,7 @@ but if he sees you at a billiard table, or hears your
 voice at a tavern when you should be at work, he  
 sends for his money next day
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862725:1867052301:0082/pct:2.892013796763067,38.65907180875899,15.945874237198195,9.907554393500794/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862725:1867052301:0082/pct:2.892013796763067,38.65907180875899,15.950296276642788,9.910667040184268/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5615,7 +5615,7 @@ voice in a tavern when you should be at
 a work, he will send for his money the  
 next day, $37hgu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_gary_ver01:data:sn84023882:00202191381:1868071001:0397/pct:323.88222464558345,349.5117982099268,50.708833151581246,25.427176566314078/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_gary_ver01:data:sn84023882:00202191381:1868071001:0397/pct:81.0036819855448,87.3779495524817,12.682394654302469,6.356794141578519/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5799,7 +5799,7 @@ ing on their honest endeavors, doth
 not in His wise providence otherwise  
 determine
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn83025161:00279529339:1868091801:0321/pct:192.85714285714286,37.64872521246459,29.25556586270872,128.54579792256845/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn83025161:00279529339:1868091801:0321/pct:64.28571428571429,12.549575070821529,9.751855287569573,42.84859930752282/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5964,7 +5964,7 @@ eratnng maure. Money can beget moncy.
 mint in off pring can beget more, and sh on.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kikideville_ver02:data:sn83025784:0029455855A:1868101701:0068/pct:108.09382226627024,117.62902401635156,88.800792864222,39.30761369443025/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kikideville_ver02:data:sn83025784:0029455855A:1868101701:0068/pct:36.031274088756746,39.20967467211719,29.600264288074,13.102537898143417/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6006,7 +6006,7 @@ pends chiefly on two words, industry and
 trugality; that is, waste neither time nor  
 money, but make the best use of both
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kikideville_ver02:data:sn83025784:0029455855A:1868101701:0068/pct:106.72282788239181,218.14001021972408,90.27089527585068,54.94379151762902/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kikideville_ver02:data:sn83025784:0029455855A:1868101701:0068/pct:35.574275960797266,72.71333673990802,30.09029842528356,18.314597172543007/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6152,7 +6152,7 @@ and exactly to the time he promises,
 may, at any time, and on any occasion.  
 raise every dime his friends can spare
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00212470491:1869093001:0565/pct:76.40449438202248,46.999868126071476,52.80898876404494,17.090861136753265/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00212470491:1869093001:0565/pct:19.112627986348123,11.749967031517869,13.210198755270026,4.272715284188316/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6258,7 +6258,7 @@ any time.and on any occasion raise all the
 money his friends can spare. This is some­  
 times of great use. After industry an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85033123:00514151210:1870060201:0236/pct:64.27459526774595,13.642124668740639,30.245952677459528,81.61078465260975/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85033123:00514151210:1870060201:0236/pct:64.27459526774595,13.645965356991972,30.251141552511417,81.61462534086108/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6318,7 +6318,7 @@ look for a blessing on their honest en­
 deavors, doth not in his wise- providence,  
 otherwise determine
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85033123:00514151210:1870060201:0236/pct:79.59215442092155,45.14344970618735,14.928393524283935,26.247263509620925/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85033123:00514151210:1870060201:0236/pct:79.59734329597343,45.14344970618735,14.928393524283935,26.254944886123592/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6400,7 +6400,7 @@ raurde s a crown, destroys all that
 it might have produced, even scores  
 of pounds. Franklin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn85033435:00212470466:1872012701:0088/pct:91.19212346993082,111.41279855790897,11.868014901543374,9.689049121225777/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn85033435:00212470466:1872012701:0088/pct:68.40984697272123,83.5624155024786,8.902195608782435,7.266786840919333/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6416,7 +6416,7 @@ of pounds. Franklin
 “The way to wealth, if you desire it, is as plain as  
 the way to market.&quot;—Frame us
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn85033153:00271769738:1875032501:0220/pct:69.79182267485398,90.23260822743916,14.677250262093755,0.7645918587120396/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn85033153:00271769738:1875032501:0220/pct:66.30305904671567,85.72841358614104,13.957789898031777,0.726367480561997/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6449,7 +6449,7 @@ plain as the way to Market.&quot;— Franklin.
 &quot;The way to wealth, if you desire it. is as plain as  
 the way to market.”—Franklin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn85033153:00271769738:1875040101:0228/pct:70.16681560917486,89.75897161221211,14.611260053619302,0.7391537225495447/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn85033153:00271769738:1875040101:0228/pct:66.66823884539194,85.27765528002985,13.885482501650788,0.7055870280538689/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6484,7 +6484,7 @@ AGENTS WANTED (+o Canvass in every County
 “The Way to Wealth, ifyou desire it, is as  
 plain as the way to Market”— Franklin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_engledinger_ver02:data:sn85033123:00514151246:1875041501:0532/pct:77.50138197899392,11.370944168371821,14.344941956882256,1.0328364026113221/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_engledinger_ver02:data:sn85033123:00514151246:1875041501:0532/pct:77.50138197899392,11.370944168371821,14.363368343467846,1.0425801422585987/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6501,7 +6501,7 @@ plain as the way to Market”— Franklin
 the way to market.”—Franklin.  
 AGENTS WANTED to can- as
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn85033153:00271769738:1875041501:0248/pct:70.0,82.6663790313882,14.828614008941878,1.3590766907561211/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn85033153:00271769738:1875041501:0248/pct:66.51092548020199,78.53946784165045,14.092217660106659,1.2877002425111863/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6520,7 +6520,7 @@ AGENTS &#x27;W&#x27;.A-ISrTEEEID to canvass
 in Manitowoc County and adjoining Counties for the  
 new hook “SUCCESS IN BUSINESS, o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn85033153:00271769738:1875050601:0272/pct:85.39763366781489,82.98446266724213,14.88692526583795,2.1255934397928358/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn85033153:00271769738:1875050601:0272/pct:81.13350723262982,78.83964875115318,14.138012805311833,2.0193391874807802/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6799,7 +6799,7 @@ Dr. Holland says of the two noble
 sciences of killing and curing; &quot;Take  
 the human system, and in any of tb
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn83032058:00296028733:1876012001:0361/pct:86.78951466389826,44.223678820155676,9.589929924733973,5.2539942646456375/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn83032058:00296028733:1876012001:0361/pct:86.7938402976036,44.223678820155676,9.585604291028636,5.257408166052165/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6948,7 +6948,7 @@ for a blessing on their honest endeavors, does
 not, in His wise providence, otherwise  
 determine
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777043:1876101301:0593/pct:167.09585121602288,212.4498511712178,40.2002861230329,127.39743755661965/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777043:1876101301:0593/pct:41.77396280400572,53.11246279280445,10.050071530758226,31.849359389154912/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6978,7 +6978,7 @@ it is due. because be has a jroo 1 opinion of
 mv credit, he jriveS me the interest. r so  
 : much as I can make of the monev during
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202197620:1876101801:0158/pct:77.67241379310344,67.11130548873825,29.71264367816092,6.133828996282528/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202197620:1876101801:0158/pct:58.27824087381431,50.33894598731686,22.29088818626042,4.603105182593484/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7025,7 +7025,7 @@ ited land as the sea does on the olher side, j exactly to the lime he promises, 
 and gives it a wild charm for us, al least, i -niy time and on any occasion, raise all  
 who suller from over-population. We j the money his frienns can spare. 1 his i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202197620:1876101801:0158/pct:77.64367816091954,74.52438224360377,30.07183908045977,15.012027115678986/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202197620:1876101801:0158/pct:58.24949698189135,55.89328668270282,22.5639551595286,11.261753772140827/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7049,7 +7049,7 @@ your voice at tin- tavern, when you should
 be at work, he sends for his money the  
 next day and demands it betore it is con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202197620:1876101801:0158/pct:92.83045977011494,93.61469494861142,14.583333333333334,5.412202055543407/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202197620:1876101801:0158/pct:69.64645012934751,70.21648808222173,10.951422822650187,4.056418106275967/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7215,7 +7215,7 @@ amounts to a considerable sum where a
 man has large credit and makes use severest belef in the existence of dety  
 ofi  ooeo an te i o a o te o  
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_funston_ver01:data:sn84027670:00237283375:1876112301:0470/pct:11.32943143812709,153.5938664678948,75.75250836120401,56.51155361516346/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_funston_ver01:data:sn84027670:00237283375:1876112301:0470/pct:3.7770034843205575,51.197955489298266,25.254355400696863,18.837184538387817/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7307,7 +7307,7 @@ blessing on their honest endeavors, does
 not, in His wise providence, otherwise  
 determine
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_funston_ver01:data:sn84027670:00237283375:1876112301:0470/pct:10.744147157190636,16.388031093600254,111.95652173913044,276.83952720690024/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_funston_ver01:data:sn84027670:00237283375:1876112301:0470/pct:3.581881533101045,5.462677031200085,37.32404181184669,92.27984240230008/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7473,7 +7473,7 @@ a Messing on their honest endeavors,
 doth not, in his wise providence, othcr­  
 ■ wise determine
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_indianhead_ver01:data:sn83016368:00415627609:1881052101:0431/pct:72.57447162589449,39.407930472569255,11.582626060908638,22.52851711026616/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_indianhead_ver01:data:sn83016368:00415627609:1881052101:0431/pct:72.58695290397736,39.407930472569255,11.578465634881011,22.535306898424768/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7495,7 +7495,7 @@ and on any occasion raise all the money
 his friends can spare. This is sometimes  
 of great use. After industry and frugal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624578:1881052801:0050/pct:111.22127793515895,34.81311237450103,12.747875354107649,4.923188581105601/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624578:1881052801:0050/pct:86.20507399577167,26.986656666979158,9.871523825012197,3.8217555701384334/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7540,7 +7540,7 @@ should look for a blessing on their honest
 endeavors, doth not, in 11 is wise provi­  
 dence, otherwise determine
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624578:1881052801:0050/pct:111.22127793515895,41.804765936857386,12.732137236386528,19.583887746461837/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624578:1881052801:0050/pct:86.20507399577167,32.405237336333236,9.875589526752318,15.177650698415675/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7657,7 +7657,7 @@ makes him easy six months longer
 but if he sees you at the billiard  
 table, or hears your voice at a ta
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_frank_ver01:data:sn85033964:00296020552:1883020101:0022/pct:33.51151315789474,39.688263347679424,13.061951754385966,10.747935326276608/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_frank_ver01:data:sn85033964:00296020552:1883020101:0022/pct:25.143953934740882,29.766197510759568,9.80257746092679,8.060951494707457/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7786,7 +7786,7 @@ your voice at a tavern, when you
 should be at work, he sends for &quot;his  
 money the next day.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287265:1883051601:0148/pct:76.25475518468524,93.34658256286184,10.528899251441894,5.141277110515856/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287265:1883051601:0148/pct:76.25475518468524,93.34946283015064,10.532989732891561,5.147037645093465/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7809,7 +7809,7 @@ table or hears vour voice at a tavern.
 when you should be at work, he sends  
 for hi money the next day. Frankli
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_caliente_ver02:data:sn86091346:00415668466:1883051901:0080/pct:52.58620689655172,87.79677901378051,19.061302681992338,6.541590569483646/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_caliente_ver02:data:sn86091346:00415668466:1883051901:0080/pct:39.46800862688713,65.84758426033538,14.306254493170382,4.914494437987714/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7855,7 +7855,7 @@ FranJdin.
 &quot;Whatwill make a man or wo­  
 man more.cross or illnatured tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_jones_ver01:data:sn96061149:00200298378:1883060101:0488/pct:46.2043991416309,30.318612623512806,16.469957081545065,33.04093567251462/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_jones_ver01:data:sn96061149:00200298378:1883060101:0488/pct:30.819804105729236,20.21576930832829,10.988863544881255,22.03065134099617/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7880,7 +7880,7 @@ or hears your voice in a tavern,
 hes you should be at work, he sends  
 his money next day.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_dungeness_ver03:data:sn83045611:00202198892:1883060301:0017/pct:11.962796664528543,367.39460469461636,43.26491340602951,19.96963680952937/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_dungeness_ver03:data:sn83045611:00202198892:1883060301:0017/pct:2.990699166132136,91.84865117365409,10.816228351507377,4.992409202382342/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7904,7 +7904,7 @@ hears your voice at a tavern, when you
 should be at work, he sends for his  
 money the next day.Franklin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn90061416:00294559954:1883061501:1021/pct:265.52771450265755,161.6715096167151,48.6712224753227,20.4787602047876/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn90061416:00294559954:1883061501:1021/pct:66.41975308641975,40.417877404178775,12.174738841405508,5.1196900511969/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7938,7 +7938,7 @@ table, or hears your voice at a tavern,
 when you should be at work, he sends  
 for his moncy the next day. Franklin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn96061107:no_reel:1883071901:0032/pct:156.61638936401803,22.79040404040404,30.94386565075416,15.921717171717171/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn96061107:no_reel:1883071901:0032/pct:52.20546312133935,7.596801346801347,10.314621883584719,5.307239057239057/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7966,7 +7966,7 @@ for his money the next day.—Franklin.
 Columbus&#x27;s Love Story.  
 According to the ideas of his time Col
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_falcon_ver01:data:sn99068075:00415623355:1883072001:0118/pct:18.163712407886877,68.31655084385194,13.403704441346346,6.608991632392568/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_falcon_ver01:data:sn99068075:00415623355:1883072001:0118/pct:18.163712407886877,68.32718763295986,13.413662617008564,6.6125372287618776/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7994,7 +7994,7 @@ for his money the next day.—Franklin.
 Columbus&#x27;s Love Story.  
 According to the ideas of his time Col
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_falcon_ver01:data:sn99068075:00415623355:1883072001:0120/pct:18.49630073985203,68.10357092047232,13.317336532693462,6.629677052212264/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_falcon_ver01:data:sn99068075:00415623355:1883072001:0120/pct:18.49630073985203,68.10712761416987,13.337332533493301,6.633233745909802/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8073,7 +8073,7 @@ occasion raise all the money his friends
 can spare. This is sometimes of great  
 use
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn83016223:00200295754:1885011801:0166/pct:14.5814880425155,56.16837274973526,15.179362267493357,5.903635721849629/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn83016223:00200295754:1885011801:0166/pct:10.941306755260243,42.12848570420049,11.384274640088593,4.429932933286269/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8111,7 +8111,7 @@ best ue of both. Without industry and
 frugality nothing will do and with them  
 very thing
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn83016223:00200295754:1885011801:0166/pct:14.614703277236492,67.00494175785387,15.400797165633303,15.301800211789622/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn83016223:00200295754:1885011801:0166/pct:10.96345514950166,50.255912460289444,11.561461794019934,11.48076244264031/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8160,7 +8160,7 @@ dom disappointed. Men who accept
 only the best interpretations of every  
 act are sure to have always the bes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn87068192:00279529625:1885072301:0649/pct:79.30728241563055,67.35900545785324,14.720248667850798,22.877501516070346/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn87068192:00279529625:1885072301:0649/pct:79.28967813540511,67.34879490677581,14.72253052164262,22.877823252993785/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8287,7 +8287,7 @@ day.
 Another star route across the plains  
 in Texas, over which daily service i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287289:1889032001:0216/pct:3.794919454770756,76.04872881355932,15.75278810408922,8.26271186440678/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287289:1889032001:0216/pct:3.794919454770756,76.05579096045197,15.763114415530772,8.266242937853107/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8313,7 +8313,7 @@ a tavern, when you should be at
 work, he sends for his money the  
 ext day
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drteeth_ver01:data:sn85034082:00517177301:1889040401:0068/pct:11.972738994289925,102.05002578648788,18.198563271320687,10.327488396080454/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drteeth_ver01:data:sn85034082:00517177301:1889040401:0068/pct:9.283844872709968,79.08936482030444,14.099452771829645,8.010525263964293/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8343,7 +8343,7 @@ in the heart of the toiler whose hammer is heard
 *o early la the morning. Em the money oapithl  
 of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn90050009:00393342948:1889071301:0514/pct:5.543147208121828,5.260924904539669,55.97969543147208,88.445764389761/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn90050009:00393342948:1889071301:0514/pct:5.542021924482339,5.260180995475113,55.97340641494113,88.43679298642535/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8386,7 +8386,7 @@ should look for a blessing on their
 honest endeavors, doth not, in his  
 wise providence, otherwise deter
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_funston_ver01:data:sn84027670:00237283430:1891123101:0064/pct:113.28286304198211,37.44035237978711,43.90915347556779,48.79481218646764/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_funston_ver01:data:sn84027670:00237283430:1891123101:0064/pct:28.325589399414902,9.360088094946777,10.979177422130443,12.19870304661691/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8410,7 +8410,7 @@ table, or hears your voice at a tavern
 • when you should be at work, he send*  
 i for ins money the next day ; demand
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_henson_ver01:data:sn83016107:00415625558:1892101401:0589/pct:22.392638036809817,25.593952483801296,14.248466257668712,4.946004319654428/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_henson_ver01:data:sn83016107:00415625558:1892101401:0589/pct:17.354094853203375,19.83540242711675,11.042434327825983,3.8359603849909334/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8446,7 +8446,7 @@ abroad against Indian meal would
 (Jissapear if they onGe had a chance  
 to use it an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_hula_ver01:data:sn91059392:00383348122:1893083101:0354/pct:27.411809331141736,31.82444400708522,10.759893791882666,12.241684707734699/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_hula_ver01:data:sn91059392:00383348122:1893083101:0354/pct:27.41602393897248,31.827724201272716,10.759893791882666,12.238404513547202/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8476,7 +8476,7 @@ He that murders a crown, destroys all
 that it-might have produced—even scores  
 of pounds.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_audi_ver01:data:sn89081128:00280766227:1895031301:0094/pct:18.55587576048671,28.141985579589573,14.04098623118796,10.95951192457016/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_audi_ver01:data:sn89081128:00280766227:1895031301:0094/pct:18.55587576048671,28.14568312072472,14.051659728893158,10.963209465705306/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8501,7 +8501,7 @@ when you should be at work, he sends
 for hie money the next day.  
 Power, unless managed with gentle
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_diamondville_ver05:data:sn83002748:00514150151:1898121501:0774/pct:3.560756972111554,87.11549622751015,12.873505976095618,6.887212226736312/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_diamondville_ver05:data:sn83002748:00514150151:1898121501:0774/pct:3.560756972111554,87.1251692783904,12.904631474103585,6.877539175856065/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -39,7 +39,7 @@ those who were determined not to permit it.
 that precedent once sot, would be artificia &gt; r&lt; pj ?  
 duced, and end in a d.ctator. \ irgima was bristlin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1840051901:0483/pct:63.65398956002983,92.54827031375704,15.794183445190157,4.696299275945294/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1840051901:0483/pct:63.65896097439722,92.54827031375704,15.799154859557545,4.703003486189327/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -101,7 +101,7 @@ tator, Virginia was bristling up, I believe.&quot;
 It was the certainty of a resort to arms, and  
 that only, and not any respect for the rights o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023294:00200296096:1840061901:0030/pct:33.75850340136054,39.41396150531457,59.01360544217687,25.96954898017811/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023294:00200296096:1840061901:0030/pct:8.445011699638375,9.853490376328642,14.762816422037865,6.492387245044528/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -130,7 +130,7 @@ tator. Vltti.in was brustling up, I believe,”
 It was the eertainty of a resert to arms, an  
 thot on({..nl vot any respect for the rights 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1840070101:1302/pct:6.245487364620939,87.25772655840754,14.783393501805055,8.250392875851231/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1840070101:1302/pct:6.25150421179302,87.25772655840754,14.783393501805055,8.250392875851231/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

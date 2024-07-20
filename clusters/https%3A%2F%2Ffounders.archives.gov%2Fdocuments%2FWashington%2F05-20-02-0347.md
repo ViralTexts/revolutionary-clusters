@@ -64,7 +64,7 @@ attempt more would avail him nothing, and
 of great magnitude.&quot;*  
 \Va&gt; ever anything better. more wisely, o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215877:1852020301:0242/pct:58.47328244274809,75.24169819251786,12.977099236641221,7.811405352388959/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215877:1852020301:0242/pct:58.46770346340998,75.23642732049036,12.979041440066151,7.813193228254525/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -174,7 +174,7 @@ J J ns/i iiti/fon.
 TfiKUK is nothing like courage in misfortune.  
 Next to faith in (Joel, and in hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_henryjohnson_ver01:data:sn84026912:00211109981:1857072501:0485/pct:65.05,48.58125537403267,18.45,4.864267289030831/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_henryjohnson_ver01:data:sn84026912:00211109981:1857072501:0485/pct:65.06111111111112,48.585349875117714,18.45,4.868361790115874/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -215,7 +215,7 @@ those in private life, be governed solely by the
 dictates of their own Inclinations, or by such  
 motives as can only affect themselves.-Was
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barack_ver01:data:sn82014424:00211102998:1881121301:0660/pct:185.4113655640373,291.96891191709847,50.63613231552163,35.94559585492228/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barack_ver01:data:sn82014424:00211102998:1881121301:0660/pct:46.38234670061532,72.99222797927462,12.667091024824952,8.98639896373057/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -244,7 +244,7 @@ solely by the dictates of their own incli­
 nations, or by such motives as can only af­  
 f ct themselves.— Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016184:1882011201:0214/pct:58.99862014587029,12.628794207741576,12.458111571062489,2.478418267891952/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016184:1882011201:0214/pct:58.98699251083958,12.62703605735765,12.460583366180527,2.481553668383684/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -308,7 +308,7 @@ erned solely by the dictates of their
 own inclinationsor by such motives as  
 can only affect themselves. Washing
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_flint_ver01:data:sn85033549:00296023978:1882041201:0265/pct:91.38846737481032,62.14329083181542,16.45169448659585,6.415705322809148/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_flint_ver01:data:sn85033549:00296023978:1882041201:0265/pct:60.941057424740706,41.42886055454361,10.979003288641538,4.280510018214936/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -327,7 +327,7 @@ solely by the dictates of their own incli­
 nations, or by such motives as can only  
 affect themselves.— Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588289:1882042901:0959/pct:12.022346368715084,24.64050329538646,18.45810055865922,3.2953864589574597/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588289:1882042901:0959/pct:9.328638226635109,19.10381921603529,14.316226981469722,2.561622102697055/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -479,7 +479,7 @@ without suffering for it. The homely
 &gt;ld proverb has it very tersely: &quot;A man  
 :an&#x27;t bite the bottom out of a fryingja
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00202194047:1882070501:0352/pct:33.42957569671102,81.65792415512942,12.616118503640472,12.761200447157966/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00202194047:1882070501:0352/pct:33.42957569671102,81.66079055235474,12.62448740480375,12.766933241608623/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -542,7 +542,7 @@ solely by the dictates of their own incli­
 nations, or by such motives as can only  
 affect themselves.— Washington.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_chaska_ver01:data:sn83025287:00175035291:1882101701:0192/pct:71.03107126294636,95.894295111716,13.139588808162003,2.6085970284677327/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_chaska_ver01:data:sn83025287:00175035291:1882101701:0192/pct:71.03622404287113,95.894295111716,13.144741588086772,2.6085970284677327/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -561,7 +561,7 @@ solely by the dictates of their &#x27;own incli­
 nations, or by such motives as can only  
 affect themselves. Washington,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_chaska_ver01:data:sn83025287:00175035291:1882101701:0190/pct:71.20111300046375,95.83758648066235,13.185963827484928,2.5972553022570035/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_chaska_ver01:data:sn83025287:00175035291:1882101701:0190/pct:71.20626578038852,95.84136705606593,13.191116607409697,2.6085970284677327/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

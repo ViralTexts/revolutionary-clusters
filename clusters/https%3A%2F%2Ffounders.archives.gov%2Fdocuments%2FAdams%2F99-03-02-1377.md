@@ -281,7 +281,7 @@ time, unless we go out of the Park, and stare at the lat
 
 ---
 
-## [From _The Continental monthly_](https://archive.org/details/sim_continental-monthly_1863-03_3_3/page/n110/mode/1up?view=theater)
+## [From _The Continental Monthly; Devoted to Literature and National Policy (1862-1864)_](https://archive.org/details/sim_continental-monthly_1863-03_3_3/page/n110/mode/1up?view=theater)
 
 #### 1863-03-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 

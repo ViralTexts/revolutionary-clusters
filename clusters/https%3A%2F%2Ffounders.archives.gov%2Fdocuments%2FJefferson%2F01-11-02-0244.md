@@ -212,7 +212,7 @@ formed. If not then, it never is after­
 wards.&quot; Jefferson was himself very in­  
 dustrious. His loisure moments were al
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn85033438:00200293575:1873091701:0310/pct:79.08210332103322,29.952305246422892,22.809040590405903,10.588235294117647/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn85033438:00200293575:1873091701:0310/pct:59.34471619750808,22.46422893481717,17.120443008767882,7.94912559618442/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -247,7 +247,7 @@ has been clouded by loss alter Joss, unui i
 Imvfi nnthinir left but vou. Teach  
 your sister
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn85033438:00200293575:1873091701:0310/pct:79.47416974169742,67.48807631160572,22.785977859778598,15.087440381558029/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn85033438:00200293575:1873091701:0310/pct:59.64467005076142,50.62003179650238,17.097369635440703,11.319554848966614/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -284,7 +284,7 @@ attain. Nobody in this world can
 make me so happy or so miserable  
 as you. Think nothing is unsu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_flint_ver01:data:sn85033549:00296023966:1877041801:0484/pct:33.70986920332937,64.19542193372054,17.092746730083235,23.152260562578295/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_flint_ver01:data:sn85033549:00296023966:1877041801:0484/pct:22.47658688865765,42.796947955813685,11.401813587037312,15.442432524769389/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -356,7 +356,7 @@ but with the aid of a master. It is
 a part of the American character to  
 surmount every difliulty by resolu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033673:00280779453:1877111901:1100/pct:73.00242130750605,35.29096272459104,16.868442292171107,13.971574148565299/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033673:00280779453:1877111901:1100/pct:54.78401291885345,26.468222043443284,12.65643924101736,10.485384821668008/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -407,7 +407,7 @@ a gulf. I do not like your say
 ing that you are unable to  
 read Livy bat with the aid o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_agate_ver01:data:2018270504:00383343550:1877112401:0280/pct:83.32022029897718,29.527700997476266,10.999213217938632,10.900132195649562/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_agate_ver01:data:2018270504:00383343550:1877112401:0280/pct:83.30711139081183,29.524152847873108,11.00141598489616,10.901826484018265/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -446,7 +446,7 @@ mountable and you will be all that
 I wish you to be. Affectionately.  
 &quot;T. J.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_frank_ver01:data:sn85033964:00296020539:1877122001:0206/pct:85.00279798545047,109.13861950941244,13.06659205372132,18.197375926982318/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_frank_ver01:data:sn85033964:00296020539:1877122001:0206/pct:63.76994122586062,81.85966913861951,9.809683739154773,13.645179691956645/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -477,7 +477,7 @@ the aid of a master. It is a part of
 the American character to surmount  
 every difficulty by resolution.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_frank_ver01:data:sn85033964:00296020539:1877122701:0210/pct:84.87288135593221,108.33618428555137,13.121468926553673,12.56699737712396/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_frank_ver01:data:sn85033964:00296020539:1877122701:0210/pct:63.68517733502897,81.25213821416354,9.848805991239226,9.43094993727905/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -512,7 +512,7 @@ ter. It Is a part of the -American
 character to surmount every difficul­  
 ty by resolution.&quot; ; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_hubert_ver01:data:sn85033681:0029602109A:1878022001:0437/pct:97.55263157894737,86.44067796610169,14.447368421052632,16.91737288135593/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_hubert_ver01:data:sn85033681:0029602109A:1878022001:0437/pct:73.19994734763722,64.83050847457628,10.84638673160458,12.690677966101696/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -533,7 +533,7 @@ you can. Think nothing Is insur­
 mountable and you will be all that I  
 wish you to be. 5 , . , , . n-Ati&#x27;-.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_hubert_ver01:data:sn85033681:0029602109A:1878022001:0437/pct:97.60526315789474,103.48516949152543,14.263157894736842,5.5190677966101696/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_hubert_ver01:data:sn85033681:0029602109A:1878022001:0437/pct:73.2394366197183,77.61652542372882,10.701592733973937,4.141949152542373/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

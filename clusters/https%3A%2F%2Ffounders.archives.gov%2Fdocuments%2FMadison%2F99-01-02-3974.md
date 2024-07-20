@@ -276,7 +276,7 @@ ihe bill amendatory of the act for ex­
 ding the terms of credit on re­  
 e venue bonds and for the relief of Au
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809011101:0002/pct:40.23460410557185,41.19879596911399,17.32160312805474,19.76181128124591/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809011101:0002/pct:40.241120886282175,41.19879596911399,17.32811990876507,19.766173711992323/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -311,7 +311,7 @@ cutions—ileferred to the committee on the Dis­
 trict of wiumin3»*&#x27;9» to  
 The amta dmenti of the Senate to the bill a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809011401:0318/pct:6.594415870683321,57.46629356397863,17.468772961058047,10.735181887560417/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809011401:0318/pct:6.593204775022957,57.45898512018314,17.471686562595654,10.738055873500361/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -353,7 +353,7 @@ ken up and agreed to.
 NAVAL ESTABLISH MENT,  
 The Amendments of the Senate to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809011701:0024/pct:24.173169825343738,6.446280991735537,18.115942028985508,16.63064208518754/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809011701:0024/pct:24.168679175181126,6.445461479786423,18.11876896402254,16.63276548860073/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -485,7 +485,7 @@ been registered as’ American Seamen at the
 different custom house* since the year 1796 to  
 Wit: • 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809030301:0379/pct:41.08416547788873,39.534304569792056,16.868758915834523,33.520109575395345/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809030301:0379/pct:41.07684079158495,39.52938247011952,16.871694300826054,33.52008632138114/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -541,7 +541,7 @@ Orel, mislaid, an tt err. nr estimate is made lor that
 tear, „ or in? thought Oct ter to do so, than longer to  
 delay the report. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809030301:0379/pct:41.08416547788873,73.19138338936621,17.04707560627675,10.733408043830158/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809030301:0379/pct:41.07684079158495,73.18227091633466,17.049979200095084,10.736221779548472/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -651,7 +651,7 @@ z?cf citizens were, during that year, regis*
 tered as American seamen, and so return,  
 ed to tins department
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810032301:0100/pct:78.13749761950105,23.573952549217566,17.97752808988764,11.93841494194851/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810032301:0100/pct:78.12261995430312,23.57097791798107,17.98045189134298,11.941114616193481/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -716,7 +716,7 @@ ry, 1809, in which it will be seen, that the whole
 number of naturalised citizens then returned to  
 this department, as registered seamen, was 449 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810033001:0419/pct:42.490511476594975,75.06905247988472,16.952828483643593,7.301549177374805/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810033001:0419/pct:42.48283339356704,75.06003842459174,16.95578845922178,7.304674991994877/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -764,7 +764,7 @@ custnat houses.
 All of which is respectfully submitted.  
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810033001:0419/pct:42.47243809868064,5.043833313318122,35.062353153804445,90.45274408550499/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810033001:0419/pct:42.46476328153235,5.043227665706052,35.06204071798579,90.44588536663464/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -782,7 +782,7 @@ been mislaid, an average estimate is m: tie for
 that year, it being thought better to do so, tlun  
 longer to diday the rep irt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810033001:0419/pct:60.11205494306886,24.60670109283055,17.169709018615578,2.065569833073136/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810033001:0419/pct:60.10119262739429,24.603746397694525,17.172629803638117,2.069324367595261/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -833,7 +833,7 @@ have been registcrcd as Aznerican seamen at
 the diﬀerent custom houses, since the year  
 1796, to wit 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216134:1811060501:0506/pct:30.742343541944074,43.6880947756846,22.120505992010653,2.942318896873179/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216134:1811060501:0506/pct:30.73722749209519,43.68385280124284,22.122371997559217,2.9452697672913226/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -856,7 +856,7 @@ i :; been misiaid, an average estimate is made
 for that year, it. being thought better to do so,  
 I than longer to delay the report
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216134:1811060501:0506/pct:30.442743009320907,52.55389395999223,21.854194407456724,6.952806370168965/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216134:1811060501:0506/pct:30.437676818106173,52.548791144771336,21.856104731791202,6.955367835064893/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -878,7 +878,7 @@ lw •i,ia ~ 1?.97 91 , , ■
 ■ &gt;.&#x27;  
 • &gt;*, A si
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811060701:0557/pct:73.7987987987988,26.279640228945215,21.846846846846848,4.922322158626328/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811060701:0557/pct:73.78033525143857,26.275343361674295,21.847635726795097,4.925604970568999/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -899,7 +899,7 @@ been mislaid, an average estimate is made for, that*
 year, it being thought better to do so, than longer:  
 to delay tbe report. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811060701:0557/pct:74.07407407407408,36.68029435813573,23.773773773773772,4.5789043336058874/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811060701:0557/pct:74.05554165624218,36.67429692609549,23.774080560420316,4.582243296272074/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

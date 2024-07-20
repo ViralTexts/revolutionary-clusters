@@ -302,7 +302,7 @@ but alio of the commoditiei of other countries (T places, for
 the fapply of them. And it being the ulage of other  
 wations to Becp their plantations trade to themlelwe:.” e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015076:1768012901:0017/pct:5.565142364106989,64.46549773755656,28.149266609145815,13.221153846153847/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015076:1768012901:0017/pct:5.572332470520564,64.46549773755656,28.15645671555939,13.230580693815988/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -733,7 +733,7 @@ whereof the master and three-fourths
 of the mariners at least are fubjes of  
 the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791010801:0729/pct:25.59751434034417,47.0481230362163,20.24378585086042,4.001984455101703/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791010801:0729/pct:25.59751434034417,47.059147786781324,20.251752708731676,4.007496830384213/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -754,7 +754,7 @@ parel one moiety to his majefly, his heirs and
 fucceilbrs, and the other moiety to him or then,  
 who (hall seize, inform, or sue for the fame
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792042501:0002/pct:8.904777380565486,86.5851213154201,28.04679883002925,5.714858632444355/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792042501:0002/pct:8.904777380565486,86.5851213154201,28.095547611309716,5.734910767996792/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -836,7 +836,7 @@ whereof, the master and three fourths of
 the mariners, at least, are subjects of  
 said United Stales, any goods, wares, o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805090701:0323/pct:23.02089323365919,78.0747275557862,17.4429748897834,3.995848469122989/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805090701:0323/pct:23.01648141050211,78.06459981839409,17.446020186533794,3.999654083971116/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -887,7 +887,7 @@ master and three fourths of the mariners
 at least, are subjects of the United States:  
 any goods, wares, merchandize, the growt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808100701:0186/pct:5.48823948681397,61.40964758810298,17.230933713471135,3.511622094476381/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808100701:0186/pct:5.487261713878496,61.40197425965263,17.23380248233268,3.515348411012537/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -907,7 +907,7 @@ gland a staple not only of die commodities of
 those plantations, but also of the commodities of  
 other countries and places for the supplying Q
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810081701:0120/pct:7.063937692447021,38.14083141437401,17.641731570367686,2.690582959641256/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810081701:0120/pct:7.062658457080768,38.1362094037809,17.644573222262466,2.6942963322022946/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1679,7 +1679,7 @@ hants and manufacturers of England;&quot; and that
 no commodity of the growth, production, or man­  
 ifacture of Europe shall be imported into the plan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024660:00414184777:1866010601:0119/pct:54.04624277456647,218.36975782634377,33.333333333333336,3.1108485922425673/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024660:00414184777:1866010601:0119/pct:18.012935186459337,72.78275420809135,11.109582129260126,1.0368474587393772/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1932,7 +1932,7 @@ built vessels, whereof the master and
 three fourths of the mariners are&gt;Eng­  
 lith and carried directly thence to sai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_americanrobin_ver01:data:2010270509:00517013894:1892070701:1056/pct:49.10055350553505,48.562855337965885,14.575645756457565,14.655716993051168/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_americanrobin_ver01:data:2010270509:00517013894:1892070701:1056/pct:49.08923218814849,48.55518711511132,14.57804934286373,14.657350386862467/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

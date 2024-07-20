@@ -136,7 +136,7 @@ man. •;
 I am, Sir, with-sihcera eateam, your moat  
 obedient humble servant, J. Adams
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_clark_ver03:data:sn82014064:no_reel:1872100301:0003/pct:86.59527326440177,7.14804591021357,11.761447562776958,8.092401569083249/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_clark_ver03:data:sn82014064:no_reel:1872100301:0003/pct:86.59988921713442,7.155310184512567,11.775295420974889,8.099665843382246/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -295,7 +295,7 @@ long before it does so. I would not
 give a six-pence for a picture by-  
 Raphael or a statue by Phidias.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_galena_ver02:data:sn88065721:00279521687:1891110701:0613/pct:4.813008130081301,80.1594638317541,13.105691056910569,6.9563207765195285/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_galena_ver02:data:sn88065721:00279521687:1891110701:0613/pct:4.813008130081301,80.1594638317541,13.11111111111111,6.967876126646638/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -236,7 +236,7 @@ nrutgesl rook.
 \&quot;.;d » &#x27;&quot;&#x27;tier, daushtc. o* Col Am;,:.,,, Warner, ,.f  
 : d&#x27;Hicesier county bv «, h, had two sons, John am
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn86071855:00393348343:1849110301:0119/pct:23.558758314855876,40.85889570552147,14.356984478935699,7.511929107021132/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn86071855:00393348343:1849110301:0119/pct:23.55440605948642,40.853326063249725,14.358950674302605,7.5143129770992365/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -259,7 +259,7 @@ New Kent county; has no issue.”
 Creel .  
 ’ iusnsftur, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn86071855:00393348343:1849110301:0119/pct:23.817442719881743,48.98432174505794,14.116777531411678,8.575323790047717/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn86071855:00393348343:1849110301:0119/pct:23.813042675041565,48.977644492911665,14.118788102715685,8.577562704471102/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -311,7 +311,7 @@ gu#iine’horn lauuary 13th, 1735; Charles, May 1st,
 I -Mildred, June 21st, 1739, who died October  
 28 h, 10-10. Augustine departed this life, April 12th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348367:1851040501:0317/pct:20.449740534307132,80.16830294530155,14.357101672112243,15.287517531556801/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348367:1851040501:0317/pct:20.445810914681015,80.15706072079652,14.359146810146042,15.28887954003646/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -496,7 +496,7 @@ moreland county, about 1692. (2) Augustine
 Washington, born Bridges creek, about 1694.  
 (3) Miiaria, boru Bridges creek, about 1696
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mastiff_ver01:data:sn83045462:00280654450:1886022201:0161/pct:74.61127005846498,41.18187385180649,12.26520711531285,3.8375178607879157/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mastiff_ver01:data:sn83045462:00280654450:1886022201:0161/pct:74.61748973752954,41.18952847519902,12.26520711531285,3.8375178607879157/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -590,7 +590,7 @@ of Walton Harris and Rebecca lander were
 General Buckner Harris. Sampson (the great­  
 grandfather of Judge Sampson Harris, of Geor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_fornax_ver01:data:sn89053706:00393344660:1893110701:0382/pct:20.595361716857045,48.835576360444705,14.122533748701972,5.488589818607373/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_fornax_ver01:data:sn89053706:00393344660:1893110701:0382/pct:20.606899734625593,48.839477277160135,14.116764739817699,5.492490735322801/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -620,7 +620,7 @@ then married Mary Ball, March 0,
 1730.&quot; Tho Washingtons for three  
 generations were buried in tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760511:1895052801:0407/pct:28.010784901138408,59.56917081619398,18.334331935290592,4.5031392076206975/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760511:1895052801:0407/pct:18.681647940074907,39.71638882875081,12.224719101123595,2.9984845204589736/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -640,7 +640,7 @@ then married Mary Ball, March 0,
 1730.” The Washingtons for three  
 generations were buried in tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033255:00514152536:1895060601:0297/pct:35.28606624692034,41.988950276243095,9.663290446208595,2.585635359116022/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033255:00514152536:1895060601:0297/pct:35.28606624692034,41.988950276243095,9.676977826444018,2.593001841620626/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -680,7 +680,7 @@ then married Mary Ball, March 6,
 1730.&quot; The Washingtons for three  
 generations were buried in tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_kauffman_ver01:data:sn82015485:00295871659:1895060801:0262/pct:25.574204946996467,54.12647374062165,18.65429917550059,4.265809217577706/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_kauffman_ver01:data:sn82015485:00295871659:1895060801:0262/pct:19.192811901605538,40.60021436227224,14.007954043305347,3.204715969989282/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -699,7 +699,7 @@ married three brothers, Francis, John and
 Reuben Thornton.   
 “Cok nel Frara&#x27;ls Thornton, who marrlei
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_graco_ver01:data:sn89053706:00393344556:1898080101:0272/pct:56.57214475951747,70.0502020325701,12.627291242362526,2.2407248683727197/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_graco_ver01:data:sn89053706:00393344556:1898080101:0272/pct:56.57214475951747,70.05428349863271,12.632513447177399,2.2366434023101096/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

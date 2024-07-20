@@ -166,7 +166,7 @@ good nor evil, I must be borne away with others,
 meet the common fate. bid old John Adams  
 dream that even the Presidency would ever dwind
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_java_ver01:data:sn83030214:00206531319:1878030401:0446/pct:201.5796474891919,76.75749942752462,48.55337545726638,13.361575452255552/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_java_ver01:data:sn83030214:00206531319:1878030401:0446/pct:67.19321582973063,25.585833142508207,16.18445848575546,4.453858484085185/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -187,7 +187,7 @@ could not help In saving his country from danger.
 borne away with others, and meet the common  
 fate.” Did old John Adams dream that oven th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_michigan_ver01:data:sn84031492:no_reel:1878030701:0008/pct:71.42094017094017,41.71325878594249,13.274572649572649,2.8953674121405752/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_michigan_ver01:data:sn84031492:no_reel:1878030701:0008/pct:71.42094017094017,41.718250798722046,13.28125,2.900359424920128/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -206,7 +206,7 @@ insignificant office that ever the invention
 of man contrived or the imagination con­  
 ceived.&quot; Mr. Wheeler,&#x27; who is neve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_himilco_ver01:data:sn85025759:00296026931:1878030901:0132/pct:8.030852994555353,72.02851386951805,19.237749546279492,4.122113745544708/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_himilco_ver01:data:sn85025759:00296026931:1878030901:0132/pct:6.038592508513053,54.02138540213854,14.438138479001134,3.099333643266698/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -228,7 +228,7 @@ regard to it when presiding in the first Senate, April 1
 &quot;Gentlemen, I do not know whether the framers 1  
 of the Constitution had in view the two Kings of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_newfoundland_ver04:data:sn83045462:00280654619:1884020201:0441/pct:30.305103297304694,29.90328048658889,14.146942126145847,3.1508624987536145/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_newfoundland_ver04:data:sn83045462:00280654619:1884020201:0441/pct:30.305103297304694,29.90328048658889,14.157203447804077,3.153355269717818/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -249,7 +249,7 @@ ceived. And as I can do neither good nor
 evil I must be borne away by others aud  
 meet the common fa e.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_bobbsey_ver02:data:sn86063034:00414181995:1889020801:0307/pct:36.78590496529632,42.08367514356029,15.839117280654921,3.855619360131255/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_bobbsey_ver02:data:sn86063034:00414181995:1889020801:0307/pct:28.51822904694037,32.62220966374682,12.27070019769206,2.9881322407459736/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -271,7 +271,7 @@ good nor evil I must be borne-awny by
 others and meet the common fate.  
 This is a decidedly interesting histori
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_harry_ver01:data:sn82000189:00211103097:1889021501:0169/pct:207.56796473181484,162.37741456166418,43.056576047024244,14.799405646359585/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_harry_ver01:data:sn82000189:00211103097:1889021501:0169/pct:51.89199118295371,40.594353640416045,10.764144011756061,3.699851411589896/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -294,7 +294,7 @@ bv others and meet the common fate.&quot;
 The calamity epidemic broke out  
 afresh and great fury Monday, thos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_hickok_ver01:data:sn85032490:00237286625:1889022001:0404/pct:46.36114494518879,123.22171153425258,18.955542021924483,7.550886408404465/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_hickok_ver01:data:sn85032490:00237286625:1889022001:0404/pct:30.916844349680172,82.1514554607135,12.640877246420956,5.033924272269643/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -315,7 +315,7 @@ and as I can do no good or evil, I must
 be borno away by others and meet the  
 common fate.&quot;—Boston Globe.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_gardevoir_ver02:data:sn85049838:00340584387:1889032801:0783/pct:43.615122505273405,46.918971373119845,10.595489209800421,3.408539543910723/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_gardevoir_ver02:data:sn85049838:00340584387:1889032801:0783/pct:43.61917897128022,46.918971373119845,10.599545675807237,3.4267345948568657/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -336,7 +336,7 @@ and as I can do no good or evil. I must
 be borne away by others and meet th»  
 common fate.&quot;—Boston Globe.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_bowbells_ver01:data:sn84024779:00295863705:1889042501:0935/pct:100.9158154279676,59.58119320426709,15.163790066924973,4.978269458711972/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_bowbells_ver01:data:sn84024779:00295863705:1889042501:0935/pct:80.73075658667167,47.67156001966706,12.140139952096932,3.9755566481702607/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -370,7 +370,7 @@ Their latest successor is not voicing
 any such plaints. Vice President Ho­  
 bart does not find himself politically In
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_demeter_ver01:data:sn86086481:00517171839:1898101601:0167/pct:71.96876284422524,18.672682287876583,16.31730374023839,5.34128947751419/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_demeter_ver01:data:sn86086481:00517171839:1898101601:0167/pct:55.781482267997454,14.47531676504869,12.640688044170737,4.139564612550288/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -395,7 +395,7 @@ early days the importance of the vice pres­
 idency was recognized in a very practical  
 manner by the election to it of younger an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_beveridge_ver01:data:sn82015679:00295871945:1899110801:0084/pct:107.69578995020372,16.912268677176147,17.06654594839294,6.931117203564085/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_beveridge_ver01:data:sn82015679:00295871945:1899110801:0084/pct:80.78098471986418,12.68848526387937,12.801358234295416,5.200479780671693/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -448,7 +448,7 @@ Government has been confirmed by the experience of
 later years, and Colonel Ingersoll once described the  
 Vice President as &quot;an official who is paid a hand
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_joshuaTree_ver01:data:sn85066387:00175037895:1899111501:0686/pct:20.664785199121983,77.21562752103262,17.497648165569142,3.745534170796358/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_joshuaTree_ver01:data:sn85066387:00175037895:1899111501:0686/pct:20.664785199121983,77.22331066804963,17.508100763039614,3.741692597287849/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

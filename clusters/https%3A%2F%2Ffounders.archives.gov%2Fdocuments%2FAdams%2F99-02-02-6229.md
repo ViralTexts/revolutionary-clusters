@@ -236,7 +236,7 @@ his fellow patriots. Messrs. Rush, Clymer,
 Smith, Taylor and Ross of Pennsylvania, and  
 Mr. Thornton of N. II. were not members a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826072801:0613/pct:80.11764705882354,26.357792063843938,17.10924369747899,1.7734426956328975/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826072801:0613/pct:80.1041841707276,26.354870885514796,17.111969977034672,1.7769404115408771/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -340,7 +340,7 @@ that &gt;Jr. McKean did not intend to sign the declara­
 tion, bu^merely to,show that it was&#x27;not signed at the  
 time it a as Mgned by others. The fact will be de
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030311:00271743117:1837010201:0021/pct:41.610272427555095,16.054091539528432,19.13933715078952,18.6084142394822/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030311:00271743117:1837010201:0021/pct:41.616056452079356,16.061796887039606,19.150905199838046,18.6084142394822/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -472,7 +472,7 @@ gainst Independence were absent) voted for it; thiee
 0 two, Messrs. Willing and Humphries in the negaive.  
 Unanimity in the thirteen States, an all imporan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82015015:00415661289:1842051001:0167/pct:63.992172211350294,69.20778933392343,15.459882583170254,3.5516707236114184/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82015015:00415661289:1842051001:0167/pct:63.992172211350294,69.21516559710851,15.459882583170254,3.5516707236114184/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -518,7 +518,7 @@ to Philadelphia, to. It my -cat in Congress, and
 ten signed he Declaration parcluncnt Twodays (  
 tier I went to New Castle, joined the Conventio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82015015:00415661289:1842051001:0167/pct:64.00722565106126,76.9418012834698,16.01685985247629,14.47222836910821/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82015015:00415661289:1842051001:0167/pct:64.00722565106126,76.9418012834698,16.021877665713284,14.479604632293281/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -561,7 +561,7 @@ lis euy, as Colonel, 10 Mipp 11 Gem ml a-linigtnn
 nlil a Hying camp &lt;&gt;l trn t on and men was inniple y  
 &lt;d. WIioii the associatm ?&#x27; re discharg
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661277:1842051001:0503/pct:63.11447811447812,75.90826795413398,15.757575757575758,12.975256487628243/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661277:1842051001:0503/pct:63.11447811447812,75.91229128947897,15.768799102132435,12.979279822973245/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -677,7 +677,7 @@ returned to Philadelphia, took my seat in Congress
 and then signed the declaration on parchment.  
 Two days after I went to New Castle, joined th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn85054702:00280776002:1842052101:0376/pct:144.26966292134833,103.23309332203868,59.550561797752806,165.41013694762106/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn85054702:00280776002:1842052101:0376/pct:36.08768971332209,25.80827333050967,14.896008993816752,41.352534236905264/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -751,7 +751,7 @@ discharged, I returned to Philadelphia,
 took my scat in Congress, and then signed  
 the Declaration on parchment. Two day
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040303:00514151313:1842053101:0403/pct:79.60631060935012,50.86242299794661,15.03835576783905,35.28747433264887/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040303:00514151313:1842053101:0403/pct:79.61595985912095,50.865845311430526,15.043180392724466,35.2943189596167/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -824,7 +824,7 @@ sand met was completed. When the associu­
 tors were discharged I returned to Philadelphia,  
 took my seat in Congress, and then signed tk
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157303:1843070601:0274/pct:82.3529411764706,62.506446621970085,13.175094599243206,21.802475502836515/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157303:1843070601:0274/pct:82.33877901977644,62.498388552275365,13.17712811693895,21.802887714322548/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -888,7 +888,7 @@ gress, and sighed my name to the Dee­
 laration on parchment.&quot;  
 This transaction is a singular one
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_bentley_ver01:data:sn83025733:00200297544:1875071601:1139/pct:129.51096121416526,153.08070581428984,51.34907251264755,75.09401214926237/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_bentley_ver01:data:sn83025733:00200297544:1875071601:1139/pct:32.377740303541316,38.27017645357246,12.837268128161888,18.773503037315592/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -940,7 +940,7 @@ to Philadelphia, took my seat iu Congress, and
 signed my name to the Declaration on parch­  
 ment.&quot;This transaction is a singnlar one. If person
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555651:1875072201:0437/pct:112.16666666666667,41.6289592760181,16.90740740740741,21.86085972850679/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555651:1875072201:0437/pct:84.14521207631043,31.221719457013574,12.687534728653455,16.402714932126695/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -993,7 +993,7 @@ gress, and signed my name to the Dec­
 laration on parchment.&quot;  
 This transaction is a singular one
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eagle_ver01:data:sn84022279:00200296552:1875072401:0769/pct:261.70818505338076,105.88895120583287,38.93238434163701,62.310712282669655/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eagle_ver01:data:sn84022279:00200296552:1875072401:0769/pct:65.4503381986472,26.472237801458217,9.736561053755786,15.577678070667414/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1041,7 +1041,7 @@ the Committee of tho Whole in Congress, when
 Pennsylvania, having seven members present,  
 voted no, 4 to 11. Delaware, represente
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1876070401:0002/pct:71.90860215053763,65.29962173999601,13.279569892473118,3.3247063507863825/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1876070401:0002/pct:71.91532258064517,65.29962173999601,13.306451612903226,3.339637666733028/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1287,7 +1287,7 @@ with my regiment of nssociatera of this
 city, as colonel, te aupsrt (leuerul Wash­  
 ington until a llylugcamp of 10,000 me
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282395:1889103101:0066/pct:15.552099533437014,15.687346269472533,107.07620528771385,370.31975949713035/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282395:1889103101:0066/pct:3.8880248833592534,3.9218365673681332,26.769051321928462,92.57993987428259/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1481,7 +1481,7 @@ discharged I returned to Philadelphia, took
 my seat in congress, and then signed the  
 declaration on parchment. Two days afte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_columbo_ver02:data:sn86063034:0041418201A:1889110501:0036/pct:57.08568309987266,11.830754484458442,16.35437511369838,33.84910310831165/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_columbo_ver02:data:sn86063034:0041418201A:1889110501:0036/pct:44.2501997274308,9.175804740007075,12.67446778514028,26.23629288998939/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1606,7 +1606,7 @@ Philadelphia, tock my seat in Congres:
 and then signed the declaration o:  
 parchment. Two days after I went 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_floydcouncil_ver01:data:sn93067777:00237287010:1889112101:0169/pct:47.063878544829564,30.93340922026181,12.804354053279862,22.785050275090114/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_floydcouncil_ver01:data:sn93067777:00237287010:1889112101:0169/pct:47.063878544829564,30.936571175615,12.804354053279862,22.791374185796496/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1638,7 +1638,7 @@ Mr. Thornton entered Congress for tho
 first time on the 4th of November fol­  
 lowing.&quot;Secretary Bayard was not the firs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn83032011:00237288038:1890101001:0404/pct:6.881720430107527,79.57860615883307,14.551971326164875,12.061048082117773/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn83032011:00237288038:1890101001:0404/pct:5.162215450797634,59.6839546191248,10.915934755332497,9.049162614802809/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1785,7 +1785,7 @@ ration until after his return. There was
 indeed great hesitation shown upon the  
 part of members, and not a few affixe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_beveridge_ver01:data:sn82015679:00295871945:1899121701:0482/pct:93.86942675159236,45.28768994365716,16.833484986351227,13.949120710261226/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_beveridge_ver01:data:sn82015679:00295871945:1899121701:0482/pct:70.42093287827076,33.967901656137954,12.627986348122867,10.466108929486085/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

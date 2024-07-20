@@ -84,7 +84,7 @@ west side of the Mississippi, ip case the
 said tribes shall remove and settle :here­  
 on ; hot in such stipulation, the said s; .he
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804040701:0085/pct:79.67996915365336,19.77646285338593,18.064391748602276,6.180144641683103/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804040701:0085/pct:79.66461063993832,19.77386273994215,18.067334875353378,6.183714611271803/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -177,7 +177,7 @@ from the West, have traveled over
 this country and written &quot;back  
 home&quot; of the fertility of this soi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_bentley_ver01:data:sn83025733:00200297520:1873031401:0113/pct:194.80519480519482,96.97522419820642,58.54145854145854,23.225414196686426/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_bentley_ver01:data:sn83025733:00200297520:1873031401:0113/pct:48.71346490132401,24.243806049551605,14.639020734449163,5.8063535491716065/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -194,7 +194,7 @@ is Dallas county) is one of the most
 fertile and healthy countries in the  
 world. Men from the North a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eagle_ver01:data:sn84022278:00200296552:1873031501:0266/pct:69.86196319018404,84.0317100792752,43.78834355828221,6.908267270668176/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eagle_ver01:data:sn84022278:00200296552:1873031501:0266/pct:17.47554191444466,21.0079275198188,10.953385766353348,1.727066817667044/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

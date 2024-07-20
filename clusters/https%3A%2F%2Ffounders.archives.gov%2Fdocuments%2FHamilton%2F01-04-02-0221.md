@@ -190,7 +190,7 @@ But when the ministers of the administra
 tion go even a step, further than this—when  
 they are not on’.v consulted by the Presiden
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810073101:0101/pct:56.41838351822504,10.817973738103843,17.20373305159359,8.324298277315986/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810073101:0101/pct:56.40845070422535,10.81667068176343,17.206572769953052,8.327310688187586/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -553,7 +553,7 @@ of the Executive, is rather dangerous than friend
 |y to liberty.&quot; The same defence of this posi­  
 tion is made by Mr. Maiuson, in the IStli num
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1841081901:0850/pct:33.61224853124444,64.68575772934618,15.826953889976856,11.517992904206793/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1841081901:0850/pct:33.62411726307044,64.69420510221322,15.826953889976856,11.517992904206793/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -569,7 +569,7 @@ tion is made by Mr. Maiuson, in the IStli num
 Home, more to be dreaded in their usurpations  
 I than any one of them would have been.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1841081901:0850/pct:49.4570055189603,55.16979219462747,15.720135303542817,1.3431322858590977/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1841081901:0850/pct:49.46887425078631,55.17823956749451,15.714200937629814,1.3431322858590977/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -604,7 +604,7 @@ ed among their fellow men for the freedom and
 boldness of the exercise of those powers, and  
 therefore placed in the highest trusts, to regu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1841081901:0850/pct:49.474808616699306,63.405980739989865,15.826953889976856,13.431322858590978/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1841081901:0850/pct:49.48667734852531,63.4144281128569,15.821019524063853,13.431322858590978/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -637,7 +637,7 @@ of the People; in a word, that all multiplication
 of the Executive, is rather dangerous than friendly  
 to liberty.&quot; The same defence of this positio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82014039:00415660972:1841082101:0108/pct:34.85971798226486,74.05473156465428,17.269952027911035,11.228326718195111/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82014039:00415660972:1841082101:0108/pct:34.86940931336919,74.06169486804541,17.26510636235887,11.228326718195111/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -653,7 +653,7 @@ to liberty.&quot; The same defence of this positio
 Rome, more to be dreaded in their usurpations  
 than any one of them would have been.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82014039:00415660972:1841082101:0108/pct:50.60328536124437,64.80050135784415,15.13301351940689,1.326509296010027/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82014039:00415660972:1841082101:0108/pct:50.612976692348695,64.80398300953972,15.128167853854727,1.326509296010027/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -682,7 +682,7 @@ removal from office, or to their actual punishment
 in cases which admit of it.&quot;  
 But the Intelligencer thinks it llpresumption
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82014039:00415660972:1841082101:0108/pct:50.57421136793138,72.7804470440777,17.76420991423172,9.28556507207019/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82014039:00415660972:1841082101:0108/pct:50.57905703348355,72.78392869577327,17.769055579783885,9.28556507207019/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -709,7 +709,7 @@ without any detriment to the public service; ai
 that the constitution contemplates every civil office  
 from the President down to the humblest individ
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661125:1845061301:0159/pct:72.90046039053819,31.12958065734794,14.27210668360057,6.170507492759098/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661125:1845061301:0159/pct:72.90575223580463,31.12958065734794,14.27210668360057,6.178902741048566/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -748,7 +748,7 @@ ation and wisdom. and best calculated to con­
 ciliate the confidence of the people, and to se­  
 cure their privileges ami interests. &quot; It &gt; clea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215816:1848102801:0309/pct:17.873519296904853,16.349104403054305,12.915552158960642,8.613430386070078/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215816:1848102801:0309/pct:17.87181201642946,16.347937776509205,12.917502467602764,8.615194329480044/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -867,7 +867,7 @@ becomes, in their estimation, an indispensable du?
 ty of B?lf-lovo. The history of other nations  
 teach us not to be enamored of plurality iu th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551244:1860110101:0043/pct:50.32003938946332,54.08924001335262,15.985557196783194,12.974296205630354/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551244:1860110101:0043/pct:50.32003938946332,54.08924001335262,15.996498714371683,12.985423389340157/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -887,7 +887,7 @@ character.&quot;
   
 The establishment of an Executiv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292960:1867082301:0146/pct:99.56976029502151,60.46251815439616,37.30792870313461,6.390347447212602/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292960:1867082301:0146/pct:24.90392006149116,15.11562953859904,9.331283627978477,1.5975868618031506/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -937,7 +937,7 @@ to induce the people of New York to
   
 ratify it. And it must certainly be plai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292960:1867082301:0146/pct:99.44683466502765,72.43883364987153,37.49231714812539,40.88928611328343/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292960:1867082301:0146/pct:24.87317448116833,18.10970841246788,9.377401998462721,10.222321528320858/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -993,7 +993,7 @@ eee on e o o e o e e e eoo i oe
   
 General Government, and to be gov ari an o oen te ea inte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292960:1867082301:0146/pct:20.098340503995082,320.3217517595799,77.07437000614628,48.6202658920791/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292960:1867082301:0146/pct:5.026902382782475,80.08043793989498,19.277478862413528,12.155066473019774/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1024,7 +1024,7 @@ We, who have seen the attempt made
 by the legislative department, to de­  
 prive the President of the power of re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292960:1867082301:0146/pct:19.72956361401352,368.9867053960451,76.52120467117393,23.86325550217853/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292960:1867082301:0146/pct:4.934665641813989,92.24667634901128,19.1391237509608,5.965813875544632/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1070,7 +1070,7 @@ security of liberty against the enter­
 prises and assaults of ambition, of  
 (ir-tinn, and of anarchy.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn85033673:00280779362:1868031201:0245/pct:94.85645933014354,8.524497309544039,16.30781499202552,14.075332766921552/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn85033673:00280779362:1868031201:0245/pct:71.1806940566414,6.400453129425092,12.24571200638213,10.563579722458227/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1088,7 +1088,7 @@ the law mnaking power has resoived his opposition
 must be at an end. That resolution is a law  
 and resistance to it punishable.&quot; (Federalist, No.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743622:1868041901:0235/pct:148.0006664445185,141.27906976744185,47.80073308897034,5.034883720930233/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743622:1868041901:0235/pct:49.33355548150617,47.093023255813954,15.933577696323448,1.678294573643411/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1306,7 +1306,7 @@ pel them to resign. Besides all this, the pro­
 posed innovation strikes a blow at the  
 organic structure of the Government. W
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_dunbar_ver01:data:sn83025287:00280768108:1878012201:0037/pct:19.163369135104578,23.568123393316196,12.379875635952516,8.462724935732648/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_dunbar_ver01:data:sn83025287:00280768108:1878012201:0037/pct:19.1727906538534,23.57497857754927,12.375164876578104,8.466152527849186/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1348,7 +1348,7 @@ W. C. Lindsay.
   
 For the Biptibt Courier
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016093:1878111401:0340/pct:15.8008658008658,12.147631502470212,25.02951593860685,84.56843940714909/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016093:1878111401:0340/pct:15.797757229982293,12.145866627923871,25.02951013181192,84.55978497748075/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1370,7 +1370,7 @@ security of liberty against the enterprises and
 assaults of ambition, of faction, and of  
 anarchy.” “Servile pliauoyof tho
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pulaski_ver01:data:sn84031492:no_reel:1879040401:0004/pct:16.17798353909465,71.02466412672949,12.834362139917696,3.9101664327250854/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pulaski_ver01:data:sn84031492:no_reel:1879040401:0004/pct:16.19084362139918,71.02967716061761,12.847222222222221,3.905153398836976/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1402,7 +1402,7 @@ and more readily suspected, and who cannot
 unite so great a mass of lalluonoo os when bo Is  
 associated with others.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ogden_ver03:data:sn84031492:no_reel:1881050401:0004/pct:16.423454497214117,70.05444646098003,13.239586097107987,6.291591046581972/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ogden_ver03:data:sn84031492:no_reel:1881050401:0004/pct:16.423454497214117,70.06957047791893,13.252852215441761,6.286549707602339/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

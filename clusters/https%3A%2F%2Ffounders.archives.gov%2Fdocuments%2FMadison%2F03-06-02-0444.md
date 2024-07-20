@@ -208,7 +208,7 @@ Of the Gr-iid river, .. hich n.a;t be crocs: d ; but at
 this season, though deep, :t is believed to Lc fur !a­  
 ll
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1814031201:0392/pct:5.291005291005291,13.081466896381984,17.78872468527641,31.442284026581344/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1814031201:0392/pct:5.290040131338928,13.079857265903778,17.79156025781345,31.442516713834543/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -322,7 +322,7 @@ sented by a branch of the Grand river which
 tnust be Crossed ; but at this season* though  
 deep, it is believed td be fordable
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1814031901:0809/pct:74.73951715374841,15.87171052631579,22.490470139771283,48.61842105263158/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1814031901:0809/pct:74.72052845528455,15.869100476895248,22.491107723577237,48.61453708271666/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

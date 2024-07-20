@@ -164,7 +164,7 @@ hair confined with a band inscribed with
 the word “Liberty.” The next change  
 took place near the end of the yea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_irene_ver02:data:sn85035524:00332897093:1884110101:0392/pct:60.595195410541415,17.761692650334076,10.666905700968089,17.42761692650334/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_irene_ver02:data:sn85035524:00332897093:1884110101:0392/pct:60.584334110055565,17.75922059846903,10.669474816275319,17.428670842032012/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -307,7 +307,7 @@ coin to the band of the cap.
 The first gold coins struck, in 1795,  
 were ornamented with a head of Lib
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_ingalls_ver02:data:sn84027670:00237283405:1884112001:0284/pct:201.93103448275863,284.6163320605986,43.241379310344826,44.734573223303364/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_ingalls_ver02:data:sn84027670:00237283405:1884112001:0284/pct:50.48275862068966,71.15408301514965,10.810344827586206,11.183643305825841/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -436,7 +436,7 @@ cap of the goddess was removed from
 the head, and the hair confined by a  
 band inscribed with the word liberty
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_elliot_ver01:data:sn87068079:00332896453:1884112701:0395/pct:61.71265461465271,36.99956641133112,11.170313986679353,25.98641422170834/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_elliot_ver01:data:sn87068079:00332896453:1884112701:0395/pct:61.70091324200913,36.994219653179194,11.172945205479452,25.98627167630058/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -488,7 +488,7 @@ r ; standard in 1834 the liberty cap of the
 s ! the hair confined by a hand inscribed with  
 ; | the word liberty, The next change too
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623859:1884112901:0212/pct:64.14891327738326,52.746534135495686,14.159672907251991,18.571802249542245/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623859:1884112901:0212/pct:64.14891327738326,52.746534135495686,14.1740190804103,18.580521405527946/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -586,7 +586,7 @@ of the coin to the band of the cap.
 The first gold coins struck in 1793  
 were ornamented with a head of Libert
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_juggernaut_ver01:data:sn83016716:0021110109A:1884121301:0054/pct:251.46099975851243,93.0489462950374,44.26467036947597,48.28348062542488/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_juggernaut_ver01:data:sn83016716:0021110109A:1884121301:0054/pct:83.80009657170449,31.011045029736618,14.751327860936746,16.09175870858114/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -604,7 +604,7 @@ his superior rank and dignity in the ceedings of congress show that the 4e w now
 scale of being. But we find in it a head of the president was first intend- tunnel ever made under any river (at  
 -divinity man does not possess, and. ed as the device for one side of the Severn), but Dom Pedro wants to b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_berenice_ver01:data:sn90061066:00200291943:1884122301:0435/pct:6.243169398907104,54.19069588619762,60.34153005464481,3.7389465590157633/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_berenice_ver01:data:sn90061066:00200291943:1884122301:0435/pct:4.686432572755841,40.6478277585544,45.26574668670583,2.806612841214917/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -621,7 +621,7 @@ his social relations it is perfect. The projecting behind the head. In 1795 arm7
 measure of his wants is full he needs or 1797 the caP was discarded. Jo the revision of experienced hydrau-  
 no more. The first silver coins were struck in Ilc engineers, and the result has bee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_berenice_ver01:data:sn90061066:00200291943:1884122301:0435/pct:6.39344262295082,62.80276816608997,60.05464480874317,2.64321414840446/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_berenice_ver01:data:sn90061066:00200291943:1884122301:0435/pct:4.7957371225577266,47.106881968473665,45.0608006558273,1.9800076893502498/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -677,7 +677,7 @@ from the head and the hair confined by
  a band inscribed with the word &quot;Lib­  
 erty. The next change took place nea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:fu:batch_fu_dauer_ver03:data:sn89070049:00295865568:1885042901:0203/pct:124.96823379923761,266.49276118429634,51.143583227445994,97.19577409677841/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:fu:batch_fu_dauer_ver03:data:sn89070049:00295865568:1885042901:0203/pct:31.25695216907675,66.62319029607409,12.791991101223582,24.298943524194602/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

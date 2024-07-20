@@ -227,7 +227,7 @@ A petition was read fro.n thp colleitor
 of Newport diltrict, R.I. praying an aug­  
 mentation of filary—Referred to the Se
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793010201:0003/pct:4.654169360051713,28.41158841158841,21.687136393018747,11.508491508491508/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793010201:0003/pct:4.654169360051713,28.41158841158841,21.687136393018747,11.538461538461538/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -537,7 +537,7 @@ will have the least doubt that they had a
 material agency, in accelerating the ap­  
 preciation of the public stock
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793022301:0001/pct:4.964075767472241,11.341659951651893,72.63226649248857,82.83642224012893/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793022301:0001/pct:4.972240365774004,11.351732473811442,72.64043109079033,82.84649476228847/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -665,7 +665,7 @@ and tranquility, no matter to what extent,
   
 By P. FR.ENEAU: Published, Wednesdays and Saturdays, at Three Dollars per annum.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793022701:0001/pct:4.463994786575432,11.971268954509178,72.30368198110133,81.58419792498005/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793022701:0001/pct:4.463994786575432,11.971268954509178,72.31182795698925,81.60913806863527/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -850,7 +850,7 @@ XT is incumbent on every one who re­
 gards the interelt aiid happiness of his  
 country, to take notice of every flioal an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793022701:0001/pct:27.044639947865754,17.098962490023943,43.369175627240146,76.11731843575419/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793022701:0001/pct:27.052785923753667,17.108938547486034,43.37732160312805,76.11731843575419/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1216,7 +1216,7 @@ credit by a premature operation.
 For the National Gazkute,  
 To JONATHAN JUSTICE, alias, C 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793030201:0001/pct:5.4415118931247966,11.549239391513211,87.52036493971978,81.46517213771017/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793030201:0001/pct:5.465949820788531,11.559247397918334,87.52036493971978,81.47017614091273/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1674,7 +1674,7 @@ ft a tiding iii bond? for tie duties 011 imports,
 besides the chiet part of the proceeds of the  
 duties on (pints Uiftilled wit-lsiatlie Veiu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793030601:0001/pct:4.900359359686377,10.408326661329063,89.6439072198628,82.54603682946357/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793030601:0001/pct:4.900359359686377,10.423338670936749,89.6765762822607,82.53102481985589/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1728,7 +1728,7 @@ tne commiffionirrs of the linking fund.
 (To be continued.)  
 FOREIGN AFFAIRS.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793030601:0002/pct:7.0299903257013865,2.4979854955680905,21.541438245727186,30.016116035455276/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793030601:0002/pct:7.046114156723638,2.4979854955680905,21.557562076749434,30.026188557614827/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1808,7 +1808,7 @@ The whole sum successively received or
 account of Amsterdam bills up to the 17th  
 of August 1791, was 361,391 dollars an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793030901:0001/pct:5.394190871369295,21.783741120757696,21.60868177465688,45.34333070244672/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793030901:0001/pct:5.394190871369295,21.78867403314917,21.64060006383658,45.35319652722968/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1858,7 +1858,7 @@ tions.
 It is to be remarked that the delay oi  
 tie employment of this part of the pro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793030901:0001/pct:5.4899457389083945,69.23835832675611,20.74688796680498,24.704025256511443/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793030901:0001/pct:5.5059048834982445,69.23835832675611,20.73092882221513,24.728689818468823/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1983,7 +1983,7 @@ A pretty general war rhere. by extending
 the demand for money would naturally di­  
 vert from our stocks a portion of what
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793030901:0001/pct:27.130545802744972,17.91633780584057,21.76827322055538,76.08524072612471/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793030901:0001/pct:27.146504947334822,17.921270718232044,21.75231407596553,76.09510655090766/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2137,7 +2137,7 @@ And moit humble servant.
 ALEXANDER HAMILTON.  
 Secretary of,the Trea/uty
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793030901:0001/pct:48.80306415576125,15.05524861878453,43.85572933290776,78.88713496448302/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793030901:0001/pct:48.8190233003511,15.05524861878453,43.87966804979253,78.88713496448302/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2168,7 +2168,7 @@ lei&#x27;iilly and wi.li more JJropriffy CXJ ....„•
 hat the foreign fund as the imlrument  
 &gt;f purchases, made with domestic refour
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793080301:0001/pct:72.02323330106486,43.46431435445068,20.942239432074864,11.748195669607057/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793080301:0001/pct:72.03130041949017,43.474338412189255,20.96644078735076,11.74318364073777/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2195,7 +2195,7 @@ jurchafes which were made previous to&#x27;
 July 1792, were made by the means or in­  
 trumerttalrty of the foreign funtl.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793080301:0001/pct:72.28138109067442,55.172413793103445,21.168118747983222,8.961507618283882/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793080301:0001/pct:72.297515327525,55.172413793103445,21.160051629557923,8.976543704891741/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2218,7 +2218,7 @@ to 942.672 dollars and 55 cents, at lealt
 1484,169 do&#x27;iiars ai d 6a cent, ji.t.f . hi_\e  
 come from the foreign fund.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793080301:0001/pct:73.08809293320427,84.20208500400962,21.00677637947725,6.234963913392141/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793080301:0001/pct:73.09616005162955,84.20208500400962,21.039044853178446,6.25/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2243,7 +2243,7 @@ alcribed to [lie milrunientality ofthe fund
 derived from the loans. Thi, idea lliail  
 jiovv be explained.&quot; 13th Feb. 1792
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793080301:0002/pct:8.920634920634921,14.634630659253375,20.6984126984127,7.78395552025417/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793080301:0002/pct:8.920634920634921,14.634630659253375,20.738095238095237,7.808776806989674/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

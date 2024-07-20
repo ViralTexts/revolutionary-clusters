@@ -235,7 +235,7 @@ eighth dav of January 1813.
 ARCHIBALD CAMPBELL.  
 Deputy Secretary
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:0041421616A:1813021001:0433/pct:69.70108695652173,53.708165997322624,19.208559782608695,15.876840696117805/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:0041421616A:1813021001:0433/pct:69.68925114620478,53.70337319293236,19.210958283805965,15.878398477006366/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -366,7 +366,7 @@ H at our city of Albany, the twenty-se­
 b our Lord One Thousand Eight Hun­  
 &#x27; &#x27; dred and Thirty-seven
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152755:1837121401:0417/pct:68.27586206896552,72.87561189908372,15.862068965517242,4.644157148236475/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152755:1837121401:0417/pct:68.28735632183908,72.8797958244425,15.85632183908046,4.644157148236475/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -393,7 +393,7 @@ Passed the Secretary&#x27;s Office, the 23th day of November,
 1842.  
 Signed. S. YOuNO, Secretary of State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530170:1842113001:0424/pct:200.8762810040101,111.85807656395892,48.12119411852072,18.726008922087352/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530170:1842113001:0424/pct:66.95876033467003,37.28602552131964,16.040398039506908,6.242002974029118/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -420,7 +420,7 @@ Passed the Secretary&#x27;s office, the 28th day of November,
 1842.  
 Signed. .YOUNO, Secretary of State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271743166:1842113001:0635/pct:248.0940794809408,103.02287581699346,45.64476885644769,15.674603174603174/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271743166:1842113001:0635/pct:82.69802649364694,34.34095860566449,15.21492295214923,5.224867724867725/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -501,7 +501,7 @@ Passed the Secretary&#x27;s Office, the 28th day of Novem.
 ber, 1842.  
 Signed, S. YOUNG, Secretary of State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184601:1842120501:0028/pct:13.654860587792012,248.45737164390013,43.82818387339864,17.110221384832784/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184601:1842120501:0028/pct:4.550934297769741,82.80937242434946,14.607193088205747,5.702735586169002/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -633,7 +633,7 @@ Governor of the State at our city of Albany, the first
 eny of September, in the year of our Lord, one thou  
 rand eight hundred and forty-thre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:0027174299A:1849021501:0198/pct:197.52475247524754,259.19944630291843,49.00990099009901,10.889375937247664/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:0027174299A:1849021501:0198/pct:65.84158415841584,86.39981543430615,16.336633663366335,3.6297919790825546/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -654,7 +654,7 @@ In testimony whereof, we have caused thrs« our
 letters to he made patent, and the great seal of our  
 said State to be hereunto affixed: Witness, Wm
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82007022:00393342894:1849041001:0433/pct:41.49930747922438,29.387699440883676,13.140581717451523,3.191054138824492/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82007022:00393342894:1849041001:0433/pct:41.49212393976112,29.383692391600764,13.142634585424961,3.1940278156531225/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -674,7 +674,7 @@ be made patent, and the great seal of our said State to be
 hereunto affixed.  
 Witness R. E. Fenton, Governor of our said State at ou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743543:1866030701:0558/pct:55.3639846743295,164.77342127763526,46.29049111807733,6.339318431659949/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743543:1866030701:0558/pct:18.454661558109834,54.92447375921176,15.430163706025775,2.1131061438866494/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -697,7 +697,7 @@ and seventy three. Joun A. DIx.
 Passed the Secretary&#x27;s office, the 5th day of March,  
 1843, AnsoN S. Wood, Dep. Secretary of State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536147:1873030601:0918/pct:164.18139892390468,118.13471502590673,51.037663335895466,11.428571428571429/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536147:1873030601:0918/pct:41.04534973097617,29.533678756476682,12.759415833973867,2.857142857142857/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -717,7 +717,7 @@ letters to be made patent and the great seal of our said
 State to be hereunto affixed.  
 Witness e e Jon a d
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743853:1874022501:0650/pct:244.6445959104187,194.0416285452882,45.24505030834145,6.267154620311071/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743853:1874022501:0650/pct:81.54819863680623,64.6805428484294,15.081683436113815,2.08905154010369/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -743,7 +743,7 @@ hundred and seventy-five. SAMUEL J. TILDEN.
 Passed the Secretary&#x27;s office 218t day of December,  
 1875--DIEnRICH WILLERS, Jr., Secretary of Stato
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:00271743919:1875122501:1091/pct:104.98519249753208,230.16618911174785,45.87035208950313,14.10888252148997/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:00271743919:1875122501:1091/pct:34.99506416584403,76.72206303724928,15.290117363167708,4.702960840496657/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -794,7 +794,7 @@ Seal.I    De Witt CLINTON.
 Passed the Secretary&#x27;s office the 25th day of March, 1826.  
 ARCHIBALD CAMPBELL, Deputy Secretary
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:00271744043:1878122301:1070/pct:198.32102081934184,125.61906965980097,46.4405641370047,10.182828049062717/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:00271744043:1878122301:1070/pct:66.10700693978062,41.87302321993366,15.480188045668234,3.394276016354239/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -832,7 +832,7 @@ f the navy of the same, by and with the advice and
 onsent of our Council of Appointment, at our city of  
  New York, on the 5th day of February, 178
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044826:1884020501:0923/pct:62.93810589112603,267.63396284354366,50.93214019388516,10.379241516966069/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044826:1884020501:0923/pct:15.734526472781507,66.90849071088591,12.73303504847129,2.594810379241517/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -856,7 +856,7 @@ JBEAL.: -Xxj-aL 3, J&amp;Le.
 Passed the Secretary&#x27;s Office, thel  
 26th day of Oct., 1889
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_hanyu_ver01:data:sn83030193:00206539525:1889102901:0318/pct:61.39817629179331,224.01753561922655,104.33130699088146,34.44496633787381/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_hanyu_ver01:data:sn83030193:00206539525:1889102901:0318/pct:15.352460573817215,56.00438390480664,26.087782633479005,8.611241584468452/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -880,7 +880,7 @@ JSEAL.: tArU. 3- XJU.
 Passed the Secretary&#x27;s Office, the&quot;1,  
 26th day of Oct., 1889. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_hanyu_ver01:data:sn83030193:00206539525:1889102902:0322/pct:67.09531013615734,224.16275430359937,104.00907715582451,34.36619718309859/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_hanyu_ver01:data:sn83030193:00206539525:1889102902:0322/pct:16.780174044646234,56.04068857589984,26.012107453651154,8.591549295774648/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -900,7 +900,7 @@ George Clinton, Esq. Governor of our State,
 General and Commander-in-Chief of all the  
 militia and Admiral of the navy of the same.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_stein_ver01:data:sn83030272:00175045144:1894072901:0951/pct:190.12168933428777,336.1753958587089,47.4588403722262,8.891595615103533/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_stein_ver01:data:sn83030272:00175045144:1894072901:0951/pct:47.53042233357194,84.04384896467722,11.86471009305655,2.2228989037758833/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -930,7 +930,7 @@ rendence.
 onn a   
 Indorsed: &quot;Passed the Secretary&#x27;s office th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_willys_ver01:data:sn83030214:00175039107:1897060601:0111/pct:84.88935721812435,16.097093580325776,67.54478398314015,36.058767167039285/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_willys_ver01:data:sn83030214:00175039107:1897060601:0111/pct:28.296452406041446,5.365697860108591,22.51492799438005,12.019589055679761/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

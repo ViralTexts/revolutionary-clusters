@@ -124,7 +124,7 @@ Christians and preathers of the Gospel, while
 they draw all their characteristic dogmas from  
 what its author never said nor saw.&quot; In later
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290094:1858081501:0155/pct:106.23964660408615,212.96736546358332,38.37658752070679,13.658958288307758/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290094:1858081501:0155/pct:26.570915619389588,53.24184136589583,9.598121806380334,3.4147395720769396/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -194,7 +194,7 @@ sessed as lie himself declared. Is it just
 to denounce a man whose daily life exhib­  
 ited this interesting practice, and wh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kuwait_ver02:data:sn85059716:00201293031:1858100101:0566/pct:16.296296296296298,20.32262710643814,13.880070546737214,11.868068558260118/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kuwait_ver02:data:sn85059716:00201293031:1858100101:0566/pct:16.30511463844797,20.333429353305487,13.875661375661375,11.878870805127466/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -256,7 +256,7 @@ never said nor saw.&quot; This is not the language
 of a man who disbelieved in the existence of  
 Jesus
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:00271743932:1875051701:0665/pct:102.9747149231532,238.4535607282784,46.63691951743513,25.58193132058078/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:00271743932:1875051701:0665/pct:34.3249049743844,79.48452024275947,15.545639839145045,8.527310440193594/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -348,7 +348,7 @@ it is a document in proof that I am a real
 Christian; that it U to say, a disciple of the  
 doctrines of Jesus.’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drew_ver02:data:sn86063034:00414182094:1893041601:0679/pct:19.82097186700767,21.561544873575993,15.9846547314578,3.792720200055571/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drew_ver02:data:sn86063034:00414182094:1893041601:0679/pct:15.36101934874941,16.71751067724222,12.397357243983011,2.9357929871155295/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -371,7 +371,7 @@ jierfcr.2 teen: it it a dccumcrrl in rccof
 that 1 am a real Christian; that is to  
 say, a disciple of the doctrines of Jesus.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_ingalls_ver02:data:sn82014635:00237286789:1893042301:0351/pct:10.15625,9.57622454595487,37.53004807692308,134.06714364336818/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_ingalls_ver02:data:sn82014635:00237286789:1893042301:0351/pct:6.777877968139465,6.384149697303247,25.02254283137962,89.37809576224547/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -401,7 +401,7 @@ never seen; it is a document in proof
 that I am a real ( hristian; that is to  
 say. adi c.dple of the doetrinesof Jesus.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_jyme_ver01:data:sn85033133:00514159233:1893050401:0992/pct:29.93977074023703,10.131982402346354,18.185350689722167,4.15944540727903/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_jyme_ver01:data:sn85033133:00514159233:1893050401:0992/pct:23.21321019875527,7.8592092574734815,14.088536438466171,3.2235845157735223/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -477,7 +477,7 @@ to say a disciple of the doctrin
 very different from the Platonists  
 who call me infidel and themselves Chris-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_heart_ver01:data:sn85038614:0017503111a:1894040101:0528/pct:47.17676544301931,200.19473198729116,35.544744213474864,14.071948344778107/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_heart_ver01:data:sn85038614:0017503111a:1894040101:0528/pct:15.725588481006438,66.73157732909706,11.848248071158288,4.69064944825937/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -497,7 +497,7 @@ Jeus collected by Himself); it Is a docu­
 ment in proof that I am a real Christian:  
 that Is to say. a disciple- of the doctrines o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_edwards_ver01:data:sn86063615:00211109129:1897101801:0743/pct:7.973977695167286,64.88046166529266,16.394052044609666,2.8716680406705137/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_edwards_ver01:data:sn86063615:00211109129:1897101801:0743/pct:5.988469406732379,48.66721626820555,12.311697972847313,2.157186040120912/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -519,7 +519,7 @@ and themselves Christians and preachers of the
 Gospel, while they draw all their characteristic  
 dogmas from what its author never said no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_lotus_ver01:data:sn83030214:0017503710A:1899122001:0396/pct:6.951180084060782,126.85783079785487,47.365017782088586,12.805078253255992/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_lotus_ver01:data:sn83030214:0017503710A:1899122001:0396/pct:2.317060028020261,42.285943599284955,15.788339260696196,4.268359417751998/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

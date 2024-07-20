@@ -286,7 +286,7 @@ every intent and purpose, in the same
 view as if deceased joint tenants had  
 been tenants in common. Communit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_dungeness_ver03:data:sn83045611:00202198934:1885122001:0385/pct:101.96560196560196,105.09125840537945,44.03704403704404,30.026073830108412/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_dungeness_ver03:data:sn83045611:00202198934:1885122001:0385/pct:25.49140049140049,26.272814601344862,11.00926100926101,7.506518457527103/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -316,7 +316,7 @@ ture of the state cf Texas that article
 3035 titk 73 of the Revised Civil Statutes  
 f tne State of Texas be and tne same i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_echo_ver03:data:sn86088529:00206535581:1887041501:0305/pct:38.76947877485223,48.537660256410255,16.268135411069316,10.737179487179487/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_echo_ver03:data:sn86088529:00206535581:1887041501:0305/pct:29.09555167316221,36.408253205128204,12.20266093267034,8.05038060897436/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -348,7 +348,7 @@ months in which owners may redeem
   
 lands bought by state for taxes.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eagle_ver01:data:sn83025733:0020029659A:1887070601:0032/pct:94.91869918699187,59.09757289460824,66.15853658536585,40.85355921159798/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eagle_ver01:data:sn83025733:0020029659A:1887070601:0032/pct:23.747775235189422,14.77439322365206,16.552250190694128,10.213389802899496/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -373,7 +373,7 @@ obligation in the same manner as if the
 obligors had been bound severally as wen  
 as iointl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eagle_ver01:data:sn83025733:0020029659A:1887070701:0040/pct:82.52826310380267,56.00392092795295,67.0092497430627,17.448129390622448/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eagle_ver01:data:sn83025733:0020029659A:1887070701:0040/pct:20.6426735218509,14.000980231988237,16.760925449871465,4.362032347655612/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

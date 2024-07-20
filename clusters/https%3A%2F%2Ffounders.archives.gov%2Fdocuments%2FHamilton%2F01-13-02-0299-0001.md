@@ -339,7 +339,7 @@ up in committee of the whole, gone thro&#x27;
 and reported with amendments.  
 Mr. Mercer renewed his motion whic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793012601:0002/pct:72.28992944194997,45.159350571256766,21.295702373316228,41.37101623571858/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793012601:0002/pct:72.31398332264271,45.16937261976348,21.287684413085312,41.3810382842253/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -402,7 +402,7 @@ handed to the S. eaker and read. Mr. Giles
 atked leave to lay on the clerk&#x27;s table a copy of  
 the reatons which he had offered in their sup
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793012601:0003/pct:8.036809815950921,15.504177190596463,20.12269938650307,33.24266563046435/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793012601:0003/pct:8.044478527607362,15.513891587332427,20.145705521472394,33.24752282883233/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -770,7 +770,7 @@ oiiceive it is now time, that this informa­
 :ioii be officially laid before this house.  
 The following is copied from the Nor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793013001:0001/pct:5.508749189889825,12.167300380228136,87.00583279325988,81.02861717030218/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793013001:0001/pct:5.508749189889825,12.172303382029218,87.0301360985094,81.0486291775065/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1174,7 +1174,7 @@ that this information be officially laid
 this house. , ■  
 &quot;The above refactions wore a?reea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793013001:0002/pct:34.76086276961551,3.3333333333333335,63.01969365426696,92.05426356589147/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793013001:0002/pct:34.776492653954364,3.3430232558139537,63.027508596436384,92.05910852713178/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1195,7 +1195,7 @@ negociated, pursuant to the aéts of the
 4th and 12th of August 1790, together  
 with copies of the authorites dire@ing
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1793022701:1175/pct:70.29629629629629,83.96256345177665,20.91358024691358,5.726522842639594/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1793022701:1175/pct:70.3045267489712,83.96256345177665,20.921810699588477,5.747673434856176/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1262,7 +1262,7 @@ provision for the debts of the United
 States, so far as refpeéts the assumption  
 of the state debts, and a copy of the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1793022701:1176/pct:9.41320293398533,5.200945626477542,21.149144254278728,43.356973995271865/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1793022701:1176/pct:9.429502852485738,5.211452587339112,21.140994295028523,43.356973995271865/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1294,7 +1294,7 @@ appropriations made by law
 Trealury has omitted to difchargc an essential  
 duty of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793030201:0003/pct:10.173478388709203,7.655414130234274,38.45927668332843,86.07268031728464/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793030201:0003/pct:10.173478388709203,7.6692492160118055,38.48132902087621,86.081903707803/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1369,7 +1369,7 @@ So lie debate took place on a motion to divide
 the question, so as that the sense of the house in  
 regard to the reference to the committee of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793030201:0003/pct:29.726551014407526,13.742851872348275,19.994119376653924,35.71296808706881/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793030201:0003/pct:29.726551014407526,13.747463567607452,20.008820935019113,35.70835639180963/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1470,7 +1470,7 @@ resolutions be transmitted to the Preliden
 of the United States.&quot;  
 A reference of the two firft, was object
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793030601:0002/pct:28.41019026120606,2.8203062046736505,44.082554014833924,89.82675261885576/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793030601:0002/pct:28.41019026120606,2.830378726833199,44.1067397613673,89.84689766317486/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1573,7 +1573,7 @@ gth. Resolved, that a copy of the
 foregoing refolntions be tran{mitted to  
 the President of the United States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1793031901:1188/pct:10.398069963811821,9.413707679603633,20.989143546441497,74.50041288191578/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1793031901:1188/pct:10.406111781262565,9.413707679603633,20.98110172899075,74.51142306633636/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1619,7 +1619,7 @@ ed on.
 9th. Resolved, That he be convicted of  
 these charges without a hearing; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793032001:0002/pct:53.7937166567872,29.23217550274223,19.561351511558982,18.73857404021938/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793032001:0002/pct:53.80112625963248,29.23674588665448,19.568761114404268,18.74314442413163/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1807,7 +1807,7 @@ Rejohed, That a copy of tile foregoing
 resolutions be tranfmimd to the President  
 of the United States&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793040301:0003/pct:5.686591276252019,4.14320193081255,21.421647819063004,35.39823008849557/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793040301:0003/pct:5.686591276252019,4.158286403861625,21.44588045234249,35.39320193081255/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1853,7 +1853,7 @@ one fifth of the members present.
   
 Thole who voted in the affirmative, are
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793040301:0003/pct:6.78513731825525,4.1230893000804505,41.841680129240714,89.19951729686242/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793040301:0003/pct:6.793214862681745,4.133145615446501,41.865912762520196,89.19951729686242/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1882,7 +1882,7 @@ It was resolved in tiie affirmative—Yeas
 The yeas and nays being demanded by  
 one fifth of the members present
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793040601:0003/pct:29.153094462540718,71.33706965572458,21.465798045602607,10.368294635708567/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793040601:0003/pct:29.161237785016286,71.3470776621297,21.473941368078176,10.358286629303443/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1930,7 +1930,7 @@ bad ho ■
 were Cut tr  
 h is not drawn out of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807112001:0001/pct:77.79668226286687,29.167792488516618,18.353891960867717,29.086733315320185/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807112001:0001/pct:77.80377144477528,29.167792488516618,18.353891960867717,29.086733315320185/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1961,7 +1961,7 @@ that time negatived by a large majority.&quot;
 Now gentlemen would pardon him for  
 not feeling that religious defereoce for th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216079:1807113001:0068/pct:77.19499928150596,26.98596054736094,20.836327058485416,13.55962324506842/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216079:1807113001:0068/pct:77.183908045977,26.983562860950688,20.838122605363985,13.561380127350807/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1983,7 +1983,7 @@ borrowed to the payment of interest falling due upon
 that principal, winch was not authorized by&#x27;that, or any  
 otnrr law. ^ 7 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:0041418408A:1835032401:0439/pct:80.65703380588877,43.65531320511443,14.817339149400219,3.277103255614054/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:0041418408A:1835032401:0439/pct:80.64604061605561,43.65062311989686,14.81986279587479,3.2803323306116603/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2008,7 +2008,7 @@ majority could vote for it; and ihusit wasjt&#x27;f ;he Preident of the United S
 fienriy nummea inat trie i resiuent s coti-f mamji auu nitnu-  
 duct was not dangerous to the liberties of!Swe- G&#x27;,ef tells what he means, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197954:1836051901:0334/pct:44.06685236768802,16.743994226208887,59.97214484679666,6.44396329518507/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197954:1836051901:0334/pct:33.05934800780162,12.557995669656666,44.99860685427696,4.835550056706877/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -75,7 +75,7 @@ commerce with Russia, together
 with the message of the President „f  
 the United States, of the 7tii Jur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813080401:0451/pct:65.09505703422053,5.83288117200217,32.59315589353612,87.06818592873937/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813080401:0451/pct:65.08515815085158,5.832353739036079,32.59326845093268,87.0633270036471/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -127,7 +127,7 @@ assurance of mv high respect.
 JOSt Pfl ANDERSON,  
 Chairman of the Committee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813080401:0451/pct:81.29277566539923,48.20944112859468,16.395437262357415,24.706095134744075/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813080401:0451/pct:81.28041362530413,48.20508183380053,16.39801297648013,24.706875244898573/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -147,7 +147,7 @@ sign a treaty of peace with Great Britain, under the
 mediation of the emperor of Russia—to negotiate and  
 sign a treaty of commerce with Great Britain—and th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813080701:0563/pct:52.49686323713927,81.363117560737,21.40526976160602,3.8317299853252895/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813080701:0563/pct:52.48369292523834,81.34985327681774,21.406171600602107,3.8351809585914576/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -169,7 +169,7 @@ sign a treaty of commerce with Great Britain; and to
 negotiate and sign a treaty of commerce with Husain,  
 togetlier with tiie message of the President of the Unit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813080701:0564/pct:3.329944077275038,17.793535620052772,21.530249110320284,4.468997361477572/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813080701:0564/pct:3.329097839898348,17.79060181368508,21.53113087674714,4.472382522671063/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -204,7 +204,7 @@ to learn th-t you are so far restored toy our liealih as
 to be enabled to attend to your olliui.i cuii, s.  
 Accept my best wishes for a per‘Vet restoration o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813080701:0564/pct:2.5673614641586173,41.35883905013193,22.597864768683273,11.741424802110817/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813080701:0564/pct:2.5667090216010164,41.3520197856554,22.598475222363405,11.74361088211047/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -229,7 +229,7 @@ Great Britain ; and to negotiate and sign a
 treaty of commerce with Russia, together j  
 with the message of the president of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024513:00414184121:1813080901:0074/pct:28.32995267072346,23.556075449627137,22.289835474419654,7.3256324023980115/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024513:00414184121:1813080901:0074/pct:28.32356917530419,23.55263157894737,22.292323869610936,7.32943469785575/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -275,7 +275,7 @@ my high respect.
 JOSEPH ANDERSON,  
 Chairman of the Committee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024513:00414184121:1813080901:0074/pct:28.397565922920894,61.982746015499345,21.974306964164978,22.94195057756982/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024513:00414184121:1813080901:0074/pct:28.391167192429023,61.973684210526315,21.976866456361723,22.943469785575047/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -296,7 +296,7 @@ ation of the emperor of Russia ; to negoti­
 ate and sign a treaty of commerce with G.  
 Britain ; and the said John Quincy Ada A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813080901:0249/pct:59.685295713510584,13.524439544285189,16.96509314523422,4.042631385520029/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813080901:0249/pct:59.6745027124774,13.522782949534541,16.96805304400241,4.046219173607708/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -316,7 +316,7 @@ Britain; and to negociate and sign a treaty
 . of commerce with Russia, together with the  
 message of the President of the United States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813080901:0250/pct:2.5714285714285716,5.217603315860051,19.839285714285715,3.9985371205656466/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813080901:0250/pct:2.570969469737547,5.216967333008289,19.841694935428198,4.002112790508695/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -360,7 +360,7 @@ high respect.
 JOSEPH ANDERSON.  
 Chairman &lt;f the Committee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813080901:0250/pct:5.482142857142857,33.82908691941972,16.660714285714285,16.164817749603802/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813080901:0250/pct:5.481164077843243,33.82496343247197,16.663691007558175,16.1669104501869/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

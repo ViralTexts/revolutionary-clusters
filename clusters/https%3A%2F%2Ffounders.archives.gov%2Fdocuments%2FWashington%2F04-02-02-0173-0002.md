@@ -132,7 +132,7 @@ interest.”
 t In another letter, addressed to a member of  
 Congress on this subject in 1784, Genera
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826052901:0412/pct:42.674205887244305,76.80968096809681,17.678363545651088,10.396039603960396/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826052901:0412/pct:42.66711007648819,76.80123198768013,17.68096663341093,10.398562681039856/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -161,7 +161,7 @@ tual interest.’
 In another letter, addressed to a member of  
 Congress on this subject, in 1784. Gen. Wash
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1826061501:0101/pct:40.8310366758533,76.31990892272663,17.17193131227475,8.253877899530384/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1826061501:0101/pct:40.82238236540907,76.30904951622082,17.173590504451038,8.256260671599318/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -241,7 +241,7 @@ ginia in this improvement, with that for, the
 improvement of James Hiver, was vested by  
 an act of the Legislature, in George Wash
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dior_ver01:data:sn85025007:0041566350A:1860060401:0126/pct:28.95060211354141,7.506116742397763,14.020643892848366,17.380286613072354/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dior_ver01:data:sn85025007:0041566350A:1860060401:0126/pct:28.958794134512985,7.509029476872889,14.020643892848366,17.380286613072354/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -285,7 +285,7 @@ the two states the company was formed and
 went into operation may 17. 178&amp;  
 Gen. Was4hington was elected president an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pug_ver01:data:sn83045462:00280654899:1893051301:0136/pct:13.395289216471719,35.818371064272704,12.337766383592372,14.597970335675253/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pug_ver01:data:sn83045462:00280654899:1893051301:0136/pct:13.40330075308444,35.82487639864689,12.341772151898734,14.610981004423627/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

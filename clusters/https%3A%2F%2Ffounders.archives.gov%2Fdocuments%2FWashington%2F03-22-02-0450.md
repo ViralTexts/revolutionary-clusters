@@ -345,7 +345,7 @@ in 2nd informed, that Lieut. Boid, and most
 ot his party, werealmoft furronnded by the  
 eacmy ;3 that the enemy bad been difcover~
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1779120701:0295/pct:6.845753899480069,5.2495325758665325,87.88994800693241,90.8672515460952/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1779120701:0295/pct:6.860196418255343,5.254326669543123,87.88272674754477,90.8720456397718/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -621,7 +621,7 @@ yesterday, and arrived here this evening.—
 Atter leaving the nec=flary force for securing  
 the frontiers in this quarter, I thall mow: en
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1779120701:0296/pct:6.7073170731707314,4.337140378776926,87.87020905923345,91.32571924244614/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1779120701:0296/pct:6.721835075493612,4.346778468507542,87.86295005807202,91.32090019758084/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

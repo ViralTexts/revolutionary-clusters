@@ -70,7 +70,7 @@ weight which her opinions had with him, and ^
 noiwithstanding she declared in herlcitns that  
 i|py were not communicated lo him. A !at*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216419:1829080501:0592/pct:24.11754165920086,40.44172697778887,19.315534850385237,11.879211380084852/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216419:1829080501:0592/pct:24.113221067717664,40.43668122270742,19.31804610056133,11.881888126429612/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -149,7 +149,7 @@ whu h have »east d in expression only, hut not it* , I
 their existence God evei b.ess you and pre- ,«  
 serve you in Ufe and health. | 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216419:1829080501:0592/pct:23.902526428955383,55.93960569004243,19.53055008063071,42.99975043673571/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216419:1829080501:0592/pct:23.89824435686134,55.932626325639426,19.533022811417652,42.998544395924306/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -190,7 +190,7 @@ A l*ta incident lint satisfied me Ihet I wronged
 him ns will ns her in nut yielding entile eon  
 fldence to this auurence on her pail. Two i,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1829081701:0414/pct:64.18461538461538,11.487268518518519,29.784615384615385,85.11284722222223/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1829081701:0414/pct:64.17145200984413,11.485606827715898,29.78363412633306,85.10415159843772/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -261,7 +261,7 @@ nut in their existence, dot! evor bless you and
 preserve you in life and health.  
 ill JEiTKRSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1829081701:0414/pct:79.22051282051282,21.064814814814813,15.117948717948718,28.68923611111111/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1829081701:0414/pct:79.20426579163248,21.061767684073484,15.119975389663658,28.688702444669463/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -316,7 +316,7 @@ organisation and experience. I never
 withdrew from the society of any man on  
 this account, although many Itavo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182938:1829091001:0129/pct:58.98550724637681,12.23611111111111,34.824016563147,82.98611111111111/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182938:1829091001:0129/pct:58.97329745394328,12.234411887237883,34.82198302628856,82.97805860297181/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -561,7 +561,7 @@ that cookr&#x27;be cordial onhVht, proportion as
   
 - the return to ancient cprrutn . was beheved
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kautsky_ver01:data:sn87056600:00271740578:1879122401:0387/pct:4.160063391442155,102.53489034463117,20.85974643423138,12.403873540301909/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kautsky_ver01:data:sn87056600:00271740578:1879122401:0387/pct:3.1311930241775663,76.90116775847336,15.655965120887831,9.313585872970664/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -615,7 +615,7 @@ sion,, fonly, . but not in their existence.
 God ever blejs you, and preserve you in life  
 and health!&quot; . ;-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kautsky_ver01:data:sn87056600:00271740578:1879122401:0387/pct:24.583993660855786,10.85160922814013,19.037242472266243,25.021361435488465/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kautsky_ver01:data:sn87056600:00271740578:1879122401:0387/pct:18.450257629805787,8.145827399601254,14.288545382481173,18.769581315864425/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -643,7 +643,7 @@ Two of the Mr , my neighbors and
   
 this, my friend, ia -
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kautsky_ver01:data:sn87056600:00271740578:1879122401:0387/pct:6.3391442155309035,115.60808886357164,35.26148969889065,5.297636001139277/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kautsky_ver01:data:sn87056600:00271740578:1879122401:0387/pct:4.756242568370987,86.71318712617487,26.456599286563616,3.9732270008544575/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -669,7 +669,7 @@ uppermost, and as it occured Jo his mind,
 wiihoat any reserve, and seemed most dis­  
 posed to iU oo t! t whichhc-en-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kautsky_ver01:data:sn87056600:00271740578:1879122401:0387/pct:6.378763866877971,120.3360865850185,38.51030110935024,6.365707775562518/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kautsky_ver01:data:sn87056600:00271740578:1879122401:0387/pct:4.795877923107412,90.25918541726004,28.894173602853744,4.770720592423811/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

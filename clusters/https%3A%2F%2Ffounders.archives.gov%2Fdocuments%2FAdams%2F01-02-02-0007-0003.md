@@ -89,7 +89,7 @@ tee people uro w=!I tempered; one
 active, masterly capacity woula bring order  
 cut cf thin conj&#x27;vfwn, and #&lt;xre th* country.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664394:1862032501:0345/pct:1.657975665195882,13.827455668459853,14.239871640593663,5.180314803745766/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664394:1862032501:0345/pct:1.657975665195882,13.834097097695423,14.253242412087177,5.17699408912798/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -158,7 +158,7 @@ THE REVOLUTION.
 WITH A MEMOIR OF MRS. ADAMs.  
 By Charles Francis Adams. Crown Svo, cloth, $2
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:0020653123A:1875122201:0650/pct:151.6596160104133,230.09475967576208,48.584445167588676,8.722456901472771/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:0020653123A:1875122201:0650/pct:50.553205336804425,76.69825322525402,16.194815055862893,2.907485633824257/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -176,7 +176,7 @@ Letters of dolin Adams and his wife Abigail
 Adams, during the Revolution, with a Memoir of  
 Mrs. Adams.” Thirty-five years ago these letter
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_dyerbrook_ver01:data:sn82014248:00332895928:1875122201:0337/pct:30.757937236190127,67.25928032996728,12.828041842539916,2.062295548286161/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_dyerbrook_ver01:data:sn82014248:00332895928:1875122201:0337/pct:30.75229357798165,67.24971558589306,12.830275229357799,2.065557451649602/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -192,7 +192,7 @@ Mrs. Adams.” Thirty-five years ago these letter
 These familiar letters of John Adams and his  
 wife, Abigail Adams, during the Revolution,&quot; ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777663:1875122201:1054/pct:199.68968192397207,173.78998018681008,43.13421256788208,3.1135012737050665/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777663:1875122201:1054/pct:49.94179278230501,43.44749504670252,10.787737679472254,0.7783753184262666/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

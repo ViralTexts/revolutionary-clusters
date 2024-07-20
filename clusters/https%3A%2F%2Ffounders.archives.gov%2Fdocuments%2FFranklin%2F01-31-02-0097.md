@@ -795,7 +795,7 @@ upon by every principle of duly, and every con­
 sideration of “interest. to excri our united efforts  
 in the support and defgnce of our Gouniry
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1780040801:0326/pct:9.013785790031813,34.32547884800882,25.832449628844113,3.5827476918836987/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1780040801:0326/pct:9.020855425945564,34.33007211428046,25.846588900671616,3.5827476918836987/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -826,7 +826,7 @@ mest cvery artack” (fiill on thedefenfive you
 icej ¢ and&#x27;repel every insult. 1 know the  
 ~haracier ofmy brave pesple,” upon whom i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1780040801:0326/pct:8.886532343584305,59.280694501860275,26.57476139978791,14.992421110651785/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1780040801:0326/pct:8.886532343584305,59.285287768131916,26.58183103570166,14.99701437692343/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -845,7 +845,7 @@ on and injustice, and enabled theßritith fleets
 and armies to protet their own country, to  
 vindicate their own rights,” &amp;c. It is no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1780040801:0326/pct:9.353128313891835,84.45638693675072,25.811240721102862,4.450875017224749/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1780040801:0326/pct:9.353128313891835,84.45638693675072,25.818310357016614,4.450875017224749/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1003,7 +1003,7 @@ v, !.. n we arc called upon hy every principle of duty,
 and every consideration, of interest, to exert our uni­  
 ted etforu in support o! ids majesty’s rights, and fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812081101:0114/pct:22.852422907488986,55.441553682667646,17.584434654919235,1.978746793697325/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812081101:0114/pct:22.848229032850064,55.43478260869565,17.587324891417385,1.982576127666504/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1023,7 +1023,7 @@ rely on your wisdom and public spirit for such sup­
 plies as the circumstances and exigencies of our af­  
 lairs may be found to require ; anti 1 take this op
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812081101:0114/pct:22.87077826725404,69.78136069378283,17.49265785609398,2.992549163307683/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812081101:0114/pct:22.866581024041107,69.77283829995115,17.495564935462163,2.9962546816479403/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

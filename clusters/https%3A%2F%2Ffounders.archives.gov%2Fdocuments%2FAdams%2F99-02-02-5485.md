@@ -173,13 +173,13 @@ Shall fly, like Oglethorpe, from pole to pole.
 Shall fly like Oglethorpe, fromepoie to pole.”  
 It has neen fii - unvarying custom for al
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drew_ver02:data:sn86063034:00414182112:1894020601:0905/pct:53.8212927756654,87.46751371643084,16.273764258555133,1.4293964770430263/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drew_ver02:data:sn86063034:00414182112:1894020601:0905/pct:41.71700800550071,67.79186870570683,12.627081184617651,1.1115255501678478/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Living Age (1897-1941)_](https://archive.org/details/sim_living-age_1899-03-04_220_2852/page/n13/mode/1up?view=theater)
+## [From _The Living age_](https://archive.org/details/sim_living-age_1899-03-04_220_2852/page/n13/mode/1up?view=theater)
 
 #### 1899-03-04 &middot; [Boston](http://dbpedia.org/resource/Boston)
 

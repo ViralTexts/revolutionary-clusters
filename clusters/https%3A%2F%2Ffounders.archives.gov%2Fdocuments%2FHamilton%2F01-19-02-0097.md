@@ -204,7 +204,7 @@ thesanie paragraph, he asks: &quot;Is it too much to say,
 that our country exhibits a spectacle of national hap  
 piness never surpassed, if ever before equalled1&quot; A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664266:1842101401:0271/pct:19.593373493975903,56.43554290361936,15.993975903614459,2.4908499389995935/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664266:1842101401:0271/pct:19.603413654618475,56.43554290361936,15.988955823293173,2.4942388504812256/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

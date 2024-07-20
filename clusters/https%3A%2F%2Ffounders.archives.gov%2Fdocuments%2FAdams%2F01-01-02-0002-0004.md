@@ -176,7 +176,7 @@ Worcester, he penned these lines: “But 1
 have no books, no time, no friends. I must  
 therefore, be contented to live and die a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_eddington_ver01:data:sn82014248:00332895990:1881062001:0572/pct:69.04490106544901,37.41582491582491,13.299086757990867,9.974747474747474/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_eddington_ver01:data:sn82014248:00332895990:1881062001:0572/pct:69.03176716758608,37.41057651844579,13.30131253566673,9.97685509889185/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -213,7 +213,7 @@ I must therefore, be contented to live
 and die an obscure, ignorant fellow.&quot;  
 Why be discouraged
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_hazen_ver01:data:sn85042404:00212478702:1881070801:0659/pct:71.72897196261682,102.7666057282145,12.461059190031152,2.8884826325411335/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_hazen_ver01:data:sn85042404:00212478702:1881070801:0659/pct:62.76407250919995,89.92925953574348,10.91272545545409,2.527460808360883/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -249,7 +249,7 @@ penned these lines: &quot;But I have no
 therefore, be contented to live and die  
 an ignorant, obscure tellow.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_quentin_ver01:data:sn86079088:00200299577:1881090301:0327/pct:140.32258064516128,273.015873015873,43.37557603686636,10.515873015873016/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_quentin_ver01:data:sn86079088:00200299577:1881090301:0327/pct:46.774193548387096,91.005291005291,14.45852534562212,3.505291005291005/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -268,7 +268,7 @@ no time, no friends. I must, there­
 fore, be contented to live and die an  
 ignorant fellow.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jimmy_ver02:data:sn88061082:00296020618:1881102201:0588/pct:73.95259095920618,123.03077435840463,12.734288864388093,2.8107988001333184/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jimmy_ver02:data:sn88061082:00296020618:1881102201:0588/pct:55.494278229698054,92.27863570714365,9.554667034330622,2.110876569270081/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -286,7 +286,7 @@ no time, no friends. I must therefore be
 contented to live and die an obscure,  
 ignorant fellow.&quot; Why be discouraged
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_cardinal_ver01:data:sn85052141:00202195052:1882020301:0347/pct:319.0851735015773,365.84348589616945,41.74553101997897,7.200087805948853/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_cardinal_ver01:data:sn85052141:00202195052:1882020301:0347/pct:79.78177993952939,91.46087147404236,10.437754699618772,1.8000219514872133/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -305,7 +305,7 @@ therefore be contented to live and die
 an obscure, ignorant fellow.&quot; Why be  
 discouraged ! Detroit Post
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_ida_ver01:data:sn85033306:0029602045A:1882101201:0168/pct:53.46666666666667,93.03305968493454,14.146666666666667,2.8067450632349678/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_ida_ver01:data:sn85033306:0029602045A:1882101201:0168/pct:40.122715752967856,69.78034169070335,10.617580365479526,2.107832260927446/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -324,7 +324,7 @@ contented to live and die an obscure,
 ignorant fellow.” Why be discouraged!  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159208:1883020801:0023/pct:13.88888888888889,73.48795916102542,9.708333333333334,2.0974364665408944/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159208:1883020801:0023/pct:13.88888888888889,73.48795916102542,9.712962962962964,2.0974364665408944/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -342,7 +342,7 @@ no books, no time, no friends. I must
 therefore be contented to live and die  
 an obscure, ignorant fellow.&quot; Why b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159208:1883053101:0092/pct:65.83663975920099,35.01971090670171,9.52250649883705,2.0039421813403417/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159208:1883053101:0092/pct:65.8457609340083,35.02336107460943,9.52250649883705,2.0039421813403417/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -205,7 +205,7 @@ sons resisting the custom-house officers in
 the exercise of their duties, or in any man­  
 ner opposing tlie execution of the laws lay
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809011701:0321/pct:23.350524630979905,66.61698956780924,16.663702649831052,2.9433681073025335/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809011701:0321/pct:23.346372688477953,66.60871724823048,16.666666666666668,2.9471418518978436/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -281,7 +281,7 @@ zen is never to be endangered but as
 the last melancholy effort for the main­  
 tenance of order and cbedience to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809013101:0223/pct:58.03640889995332,7.925500297206261,16.539598568538977,42.223102833366355/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809013101:0223/pct:58.046781805922926,7.925500297206261,16.54478502152378,42.23300970873787/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -306,7 +306,7 @@ tia,to employ, and efficaciously to nvtin­
 l ,a,n the authority ofthe laws rtspeciiiur  
 the embargo.” &amp;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1809020601:0549/pct:77.52142386288727,68.38787553648069,17.688420127444516,7.215665236051502/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1809020601:0549/pct:77.50439367311073,68.37870457288454,17.690026362038665,7.218050154217514/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -367,7 +367,7 @@ j ciously to maintain the au
 I the laws respecting ,; gb ;  
 and that you notify 10 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809021001:0003/pct:60.81189710610933,3.458587959953192,34.0032154340836,95.54024184111299/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809021001:0003/pct:60.82529474812433,3.458587959953192,33.98981779206859,95.54457591123824/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -403,7 +403,7 @@ never to l&lt;e endangered but as the last melancholy
 effort for the maintenance ol ordes and obedience to  
 the laws.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809021301:0346/pct:2.613065326633166,21.33946158896914,20.753768844221106,14.576493762311229/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809021301:0346/pct:2.6124089424767645,21.33595929755457,20.754835468475257,14.578204496963728/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -630,7 +630,7 @@ melancholy eﬀort for the maintenance of Oi-si
   
 sider and obedience to the laws
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216092:1809030801:0309/pct:1.7380698277176398,4.758071728825686,45.250800426894344,92.43359270190501/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216092:1809030801:0309/pct:1.7378048780487805,4.757646217134681,45.2489837398374,92.42830739879568/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -701,7 +701,7 @@ lie endangered but as the last melancholy ef­
 fort for the maintenance of order anti obedi  
 cnee to the laws
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809031001:0386/pct:41.81455994204998,53.698281349458945,17.747193045997825,32.90897517504774/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809031001:0386/pct:41.80698895527793,53.69144602851324,17.75001508841813,32.90902919212491/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1007,7 +1007,7 @@ the purpose of preventing and suppressing
 ercise of their duties, ot in any manner ops  
 poling the execution of this a&amp;, or other
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814010401:0001/pct:75.23105360443623,12.25296442687747,17.787572870752168,4.743083003952569/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814010401:0001/pct:75.23579316555286,12.25296442687747,17.801791554102092,4.749509945692342/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1068,7 +1068,7 @@ or on account of any act by him dote, under any law
 of the United States, lor the protection of the revenue,  
 or the collection of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn82015332:00332897925:1833022001:0144/pct:3.0523662839540746,44.66019417475728,18.398207784934193,7.6204433046345486/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn82015332:00332897925:1833022001:0144/pct:3.051511758118701,44.65201465201465,18.400055991041434,7.623626373626373/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -81,7 +81,7 @@ be enabled to determine what answer to
 give. Our loves to Mrs. Lewis, etc. lam your  
 affectionate uncle, G. Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210144:1886021401:0385/pct:64.95030369961347,33.48664252862315,14.977912755383766,19.24845875330267/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210144:1886021401:0385/pct:64.95950671820357,33.48664252862315,14.977912755383766,19.24845875330267/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -158,7 +158,7 @@ Lewis, eto.
 1 am your affoctionat* unole,  
 [Signed] G. Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00414181922:1886021601:0126/pct:28.744271310724105,70.2213559793958,12.465627864344638,23.513852150911877/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00414181922:1886021601:0126/pct:28.75649251451268,70.2213559793958,12.471738466238925,23.5277739106223/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -343,7 +343,7 @@ must break.&quot;
 He is said to have had an inordinate  
 fondness for sweets, and it may hav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_garwood_ver02:data:sn83040340:00237285293:1897043001:0350/pct:30.450733752620547,48.925925925925924,20.964360587002098,8.530864197530864/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_garwood_ver02:data:sn83040340:00237285293:1897043001:0350/pct:20.307584760573228,32.617283950617285,13.981125480601188,5.691358024691358/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -435,7 +435,7 @@ ilnllon I fear I must break. 1 have
 mi not yet supplied.”  
 THE FATHER’S SHOT
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_hiko_ver01:data:sn84022047:00340582433:1899021601:0454/pct:57.325893779706554,52.071461574002775,12.027278363298203,5.467426459263822/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_hiko_ver01:data:sn84022047:00340582433:1899021601:0454/pct:57.31404958677686,52.06344317831845,12.02995867768595,5.470434246997228/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -460,7 +460,7 @@ im not j&#x27;et supplied.&quot;
 THE FATHER&#x27;S SHOT.  
 How England&#x27;s Postmaster General, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_elephanttree_ver01:data:sn94051692:00211106153:1899031101:0496/pct:49.30591932949188,78.10162991371045,18.308014667365114,9.463087248322148/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_elephanttree_ver01:data:sn94051692:00211106153:1899031101:0496/pct:32.88353203196646,52.07094918504315,12.210140180793921,6.308724832214765/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

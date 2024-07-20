@@ -474,7 +474,7 @@ Who owe their Greatness to their Country’s Ruin !
 We hear that at the earnest Request of a Number of Persons  
 of the different Society’s at Newbury-Port, the Rev. Mr. Pag
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774031801:0214/pct:11.772400261608894,32.00229819017524,26.335295400043602,7.526572823901178/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774031801:0214/pct:11.772400261608894,32.00708608637365,26.335295400043602,7.536148616297998/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -501,7 +501,7 @@ Red with uncommon wrath, to blast the men,
 Who owe their greatness to their country&#x27;s ruin?&quot;  
 The ConSpiracy to Break
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_sands_ver01:data:sn86079096:00212475014:1860082501:0140/pct:7.711930926216641,96.22058823529412,42.26844583987441,25.36764705882353/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_sands_ver01:data:sn86079096:00212475014:1860082501:0140/pct:2.5706436420722136,32.0735294117647,14.089481946624804,8.455882352941176/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -537,7 +537,7 @@ They have repented of the momentary
 expression of honesty by which the  
 saintly VVhittemore was driven fro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn82005159:00296028460:1870040701:0718/pct:32.070861331704336,44.451704236088425,12.217470983506415,12.871610584776217/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn82005159:00296028460:1870040701:0718/pct:32.08104255752393,44.451704236088425,12.217470983506415,12.878870376420197/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

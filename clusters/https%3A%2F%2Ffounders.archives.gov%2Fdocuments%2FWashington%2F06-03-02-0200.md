@@ -142,7 +142,7 @@ barrs.
 Signed, your very humble servant  
 John Greenwood, bated New for
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_griffith_ver01:data:sn83045555:206534710:1898021901:0722/pct:160.71428571428572,169.83744732089102,37.301587301587304,41.9626730885009/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_griffith_ver01:data:sn83045555:206534710:1898021901:0722/pct:53.59978824775013,56.61248244029701,12.440444679724722,13.987557696166968/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -196,7 +196,7 @@ dissolve so soon near to the barrs.”
 Signed, your very humble servant, John  
 Greenwood. Dated New York, Dec. 28, 1798
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:0041566574A:1898022001:0507/pct:84.90694199157723,51.61257606490872,12.851514739845129,14.421906693711968/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:0041566574A:1898022001:0507/pct:84.91147036181678,51.619337390128464,12.85604311008468,14.421906693711968/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -242,7 +242,7 @@ soon near to the barrs.&quot;
 Signed, your very humble servant,  
 John Greenwood. Dated New Yor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_hallock_ver01:data:sn90059523:00206537486:1898022001:0501/pct:43.68580934471286,52.75565466709143,12.946622305800666,13.549962833174048/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_hallock_ver01:data:sn90059523:00206537486:1898022001:0501/pct:43.69063117797386,52.762734062511065,12.94180047253966,13.54642313546423/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -268,7 +268,7 @@ dinner and put them in clean water, and
 bhould any holes be eaten in them by tho  
 Acid, to till them with wax and teal them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dred_ver01:data:sn86063615:00211109142:1898022001:0339/pct:7.223082881487219,121.75814872301397,16.789310611928737,5.841681952871455/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dred_ver01:data:sn86063615:00211109142:1898022001:0339/pct:5.4242541650523055,91.3221391279808,12.592018597442852,4.388316636094257/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -298,7 +298,7 @@ they dissolve so soon near to the barrs.&quot;
 Signed your very humble servant, John  
 Greenwood. Bated New York, Decembe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dred_ver01:data:sn86063615:00211109142:1898022001:0339/pct:24.360960495739736,8.988288415408494,16.769945778466305,7.817129956257937/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dred_ver01:data:sn86063615:00211109142:1898022001:0339/pct:18.28748547074777,6.744743897276704,12.572646261139093,5.869902638634119/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -344,7 +344,7 @@ Signed, your very humble servant, John
 Greenwood. Dated New York, December  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_grace_ver02:data:sn83045604:00202199458:1898022001:0503/pct:213.66423357664235,58.926128590971274,77.31386861313868,232.18194254445964/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_grace_ver02:data:sn83045604:00202199458:1898022001:0503/pct:71.2214111922141,19.642042863657093,25.771289537712896,77.39398084815322/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -479,7 +479,7 @@ screwed on the barr? instead of having
 the barrs cast red-hot on them, which  
 i\s the reason, I believe, they dissolv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_evadeestruction_ver01:data:sn84026965:00294550811:1898042701:0173/pct:3.142329020332717,67.56410256410257,13.905872316223517,19.595660749506905/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_evadeestruction_ver01:data:sn84026965:00294550811:1898042701:0173/pct:3.1518081425659985,67.5706771860618,13.910611877340159,19.595660749506905/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -525,7 +525,7 @@ so soon near the barrs.&quot;&#x27;
 Signed your very humble servant.  
 John Greenwood. Dated New Vork
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_evadeestruction_ver01:data:sn84026965:00294550859:1898042702:0230/pct:3.5108080661540693,67.29401466243571,13.86914260844335,21.391837181310866/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_evadeestruction_ver01:data:sn84026965:00294550859:1898042702:0230/pct:3.5108080661540693,67.30130940657257,13.87881425600851,21.39548455337929/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

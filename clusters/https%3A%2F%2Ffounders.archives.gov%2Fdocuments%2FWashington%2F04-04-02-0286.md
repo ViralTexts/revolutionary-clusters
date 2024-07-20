@@ -61,7 +61,7 @@ in darkness, as not to sec the rays of a ;
 distant sun through all this mist of j  
 intoxication and folly.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809040501:0003/pct:26.447288238878734,29.030572249804024,18.30184846638229,19.440815259994775/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809040501:0003/pct:26.45405917800799,29.030572249804024,18.30184846638229,19.445170281334377/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -117,7 +117,7 @@ the constitution he reprehended. If defective,
 let it be amended, but not suffered to be  
 trampled up n while it has an existence.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1834090301:1056/pct:36.80230464530069,45.53435561278239,16.942743968311127,2.270865035701744/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1834090301:1056/pct:36.80830632577121,45.538257442740644,16.942743968311127,2.278668695618245/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -302,7 +302,7 @@ the Constitution be reprehended. If defective, let it be
 amended, but not suffered to be trampled upon while  
 it has an existence.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743038:1851022401:0290/pct:109.91080277502478,41.755227973945836,46.15130492236538,60.54165238258485/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743038:1851022401:0290/pct:36.63693425834159,13.918409324648612,15.383768307455126,20.18055079419495/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -369,7 +369,7 @@ tution be reprehended. If defective, let it be amended,
 but not suffered to ha trampled upon while It has an ex­  
 istence 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851022701:0235/pct:62.52683732452518,61.08211330362826,16.05284888521883,20.903882877148313/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851022701:0235/pct:62.53234241673548,61.09060046679397,16.05284888521883,20.908126458731168/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -432,7 +432,7 @@ IT BE AMENDED, BI T NOT SUFFERED To BE TRAM*
 1M.FD UPON WHILE IT HAS AN EXISTENCE.*’  
 In a letter to Colonel Humphreys about th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215853:1851022801:0455/pct:85.20658769141866,29.7951582867784,12.65530193585669,21.939444099593075/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215853:1851022801:0455/pct:85.19838212634822,29.79310344827586,12.657293271700052,21.94022988505747/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -505,7 +505,7 @@ such bodies increase by every movement nneJ
 there is something in the way lo obstruct and rrnm-  
 hie lhem beore their weieht is too ereat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_lightningbolt_ver03:data:sn83016794:00415662397:1851031401:0060/pct:25.463239689181112,93.55466217092466,17.647937836222354,28.867851121774088/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_lightningbolt_ver03:data:sn83016794:00415662397:1851031401:0060/pct:19.100283963533105,70.17248087148229,13.241667912120759,21.644404098041758/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -637,7 +637,7 @@ compare the advantages and disadvantages
 of the measure proposed, and decide from  
 the balance.&quot; In another place he remarks,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn86063325:00200292479:1856103001:0174/pct:25.80887885628292,62.86059507627247,16.346877351392024,5.225796707446005/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn86063325:00200292479:1856103001:0174/pct:19.36030103480715,47.15299803655037,12.26716839134525,3.9117958012384837/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -657,7 +657,7 @@ compare the advantages and disadvantages
 of the measure proposed, and decide from  
 the balance.&quot; In another place he remarks
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_idacox_ver02:data:sn85026945:00202194278:1856111301:0513/pct:70.3001579778831,51.14149959439101,13.49992819187132,4.311044153436088/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_idacox_ver02:data:sn85026945:00202194278:1856111301:0513/pct:70.3001579778831,51.14149959439101,13.509502609028676,4.318770039015722/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -694,7 +694,7 @@ only true line of conduct is dispassionately
 to compare the advantages and disadvantages  
 of the measure proposed, and decide from th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_harrison_ver01:data:sn82015672:00296021891:1857010601:0599/pct:199.52445652173913,65.9836597069122,59.171195652173914,72.00103747892621/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_harrison_ver01:data:sn82015672:00296021891:1857010601:0599/pct:49.90654205607477,16.49591492672805,14.80033984706882,18.000259369731552/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -729,7 +729,7 @@ stitution be reprehended. If defective, let i&#x27;
 be amended ; but not suffered to be trampled  
 &quot;TUponmluk it has existence
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn84022367:00415628328:1861010301:0003/pct:7.392253136933988,87.90128849093689,15.316421167484997,13.267088884035816/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn84022367:00415628328:1861010301:0003/pct:5.551766471149912,65.93142607556236,11.48547265038876,9.947586809347019/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -772,7 +772,7 @@ rehended. If it Be defective, let it be amended;
 but not suffered to be trampled upon lohUst it hat  
 an existence.&quot; In a letter to General Knox h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1861020701:0004/pct:56.70548459804658,81.39432914352528,9.917355371900827,6.503946214557147/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1861020701:0004/pct:56.70548459804658,81.39432914352528,9.936138241923366,6.507600116924876/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -807,7 +807,7 @@ it be defective, let it be amended; but not
 suff red to be trampled upon whilst it has  
 an existence.&quot; In a letter to Gen ra
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:00279529406:1861021401:0330/pct:121.86640789260876,133.31749613968404,37.716318939026365,33.38876351110583/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:00279529406:1861021401:0330/pct:40.62213596420292,44.43916537989468,12.572106313008787,11.129587837035277/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -835,7 +835,7 @@ and properties will he secured, or Ift
 us know, tno worst at onco. j nc rc  
 call for decision. Know precisely wha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:00237286911:1861021401:0864/pct:26.91256830601093,92.55722694571615,16.581284153005466,7.75670372792675/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:00237286911:1861021401:0864/pct:20.18787361229718,69.41792020928712,12.450896669513236,5.820797907128842/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -873,7 +873,7 @@ nd eviry violation of the Constitution be
 reprehended. If it be defective, let it be  
 amended; but not suffered to be trample
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668156:1861021901:0819/pct:92.40196078431373,27.34482393993867,74.91830065359477,265.39071587184094/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668156:1861021901:0819/pct:30.809043857259603,9.11494131331289,24.97956959956415,88.46357195728032/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -911,7 +911,7 @@ n De aeiecuve, let it oe amended ; out
 not suffered to be trampled upon whilst  
 it has an existence&quot;. In a letter to Ge
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85033611:00202198004:1861022101:0603/pct:120.88251072961373,74.35897435897436,18.776824034334766,19.727891156462587/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85033611:00202198004:1861022101:0603/pct:80.6036217303823,49.576138147566716,12.515090543259557,13.15541601255887/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -981,7 +981,7 @@ and properties will be secured, or let us
 know the worst at once.&quot;  
 He felt that, ai it is sometimes expresse
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn84028745:00280775332:1861022201:0586/pct:11.1236802413273,57.57749712973594,16.082202111613878,10.347301951779563/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn84028745:00280775332:1861022201:0586/pct:8.35691378985097,43.18312284730195,12.07319373703075,7.76406429391504/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1030,7 +1030,7 @@ tltutiou and laws supreme over the nation
 If the spirit of the Father of Lit Country  
 has wit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn84028745:00280775332:1861022201:0586/pct:11.010558069381599,102.597588978186,16.553544494720967,22.445464982778415/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn84028745:00280775332:1861022201:0586/pct:8.26259196378042,76.95177956371987,12.43161667609885,16.83409873708381/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1069,7 +1069,7 @@ sylvania, in which some 16,000 iighting men,7000
 armed,-stood disaffected two or three years, when  
 Washington ordered out 12,000 milltia from the State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530674:1861022301:0375/pct:198.63105175292154,234.0435606060606,48.14691151919867,34.86032196969697/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530674:1861022301:0375/pct:66.21035058430718,78.01452020202021,16.048970506399556,11.620107323232324/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1101,7 +1101,7 @@ tbe Constitution be reprehended. If it be de­
 fective, lot it be amended but not suffered to he  
 trampled upon while it hat an existence.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84027060:00415668909:1861030201:0032/pct:23.48207754206291,67.45072416421648,11.163130943672275,7.100076227812262/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84027060:00415668909:1861030201:0032/pct:23.49183126066813,67.45072416421648,11.158254084369666,7.110965915278231/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1135,7 +1135,7 @@ ed. If it be defective, let it be amended;
 but not suffered to be trampled upon whilst it  
 has an eristence.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn83035216:00280775150:1861030201:0602/pct:279.9033149171271,226.33320100569009,50.89779005524862,42.133121609104144/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn83035216:00280775150:1861030201:0602/pct:69.97582872928177,56.58330025142252,12.724447513812155,10.533280402276036/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1157,7 +1157,7 @@ be a proper remedy for the disorder. Influ-­
 ence is not government. Let us have a gov-­  
 ernment by which our lives, liberties and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528682:1861030401:0353/pct:61.78025034770515,155.58832502796704,43.39360222531293,11.156310383402827/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528682:1861030401:0353/pct:20.593416782568383,51.86277500932235,14.46453407510431,3.7187701278009424/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1189,7 +1189,7 @@ lation of the Constitution be reprehended.
 If it be defective, let it be amended; but not or tern afir an a the ot ad no­  
 suffered to be trampled upon whilst it has an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528682:1861030401:0353/pct:17.21835883171071,167.61924133021458,132.53129346314324,18.102308552832298/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528682:1861030401:0353/pct:5.7394529439035695,55.87308044340486,44.17709782104775,6.0341028509441/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1232,7 +1232,7 @@ them if possible
 they have not, employ the  
 ernment aoainst them a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668156:1861032601:0838/pct:210.59575625680088,31.06939464248049,75.93852013057672,259.5971314068762/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668156:1861032601:0838/pct:70.19858541893362,10.35646488082683,25.312840043525572,86.5323771356254/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1272,7 +1272,7 @@ and every violation be ro| rehended. If de­
 fective, let it. be amended, but not suffered to  
 be trampled upon whilst it has an existence.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn84038814:00279557219:1861040601:0195/pct:32.40140714682466,46.30712008501594,12.867987409738937,11.888947927736451/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn84038814:00279557219:1861040601:0195/pct:32.41066469172375,46.31376195536663,12.858729864839844,11.892268862911797/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1492,7 +1492,7 @@ suffered to be trampled upon while it has an exis­
 tence.”  
 Decidedly Cool !—A correspondent of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_collins_ver01:data:sn83030364:print00211110107:1861072701:0007/pct:56.92307692307692,57.527693856998994,12.537577365163573,10.8257804632427/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_collins_ver01:data:sn83030364:print00211110107:1861072701:0007/pct:56.93633952254642,57.53713494461228,12.53315649867374,10.8257804632427/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1512,7 +1512,7 @@ not t offered to be trampled upon whilst it
 has an existence.  
 .14 &quot;The Constitution is the guide whic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn85025182:00212477886:1861073101:0232/pct:23.907632743362832,106.09137055837563,16.60674778761062,4.926165205353023/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn85025182:00212477886:1861073101:0232/pct:17.936661595906514,79.56852791878173,12.460240630618172,3.7032764190124596/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1562,7 +1562,7 @@ reprehended. If defective, let it be amended
 but not suffered to be trampled upon while it  
 has an existence.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776038:1861080301:0922/pct:171.89306358381504,176.40417725091731,51.22832369942196,69.8842788597234/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776038:1861080301:0922/pct:42.99656605819628,44.10104431272933,12.814024941261522,17.47106971493085/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1635,7 +1635,7 @@ tion of the Constitution be reprehended. If it
 be defective, let it be amended; but not sugfered  
 to be tran pled upon whilst it has an existence
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn83016318:00296024570:1861103001:0597/pct:255.3550295857988,209.83450031826862,38.65384615384615,51.75047740292807/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn83016318:00296024570:1861103001:0597/pct:85.14353358981947,69.94483343942288,12.888428529150636,17.250159134309357/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1677,7 +1677,7 @@ and is, by their leaders,.«hat the government, in
 the bands of tbe North, would oppress, and  
 limit the Sooth tx the future. But no answe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84027060:00415668909:1861111601:0179/pct:25.105885789396815,35.411855273287145,10.997517160800351,10.667546464313208/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84027060:00415668909:1861111601:0179/pct:25.105885789396815,35.41918692034165,11.002385472956526,10.674878111367718/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1702,7 +1702,7 @@ us have a Government by which our
 lives, liberties, and properties will be se­  
 cured, or let us know the worst at once
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn86081096:00296028678:1861120401:0118/pct:52.74155538098979,64.74070825567372,14.768263943440692,7.214121258633922/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn86081096:00296028678:1861120401:0118/pct:52.74679235401938,64.7480173957534,14.77350091647028,7.214121258633922/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1784,7 +1784,7 @@ a Government by which our lives, liberties, and
 properties will be secured, or let us know tbe  
 worst at once. There is a call for decision. Le
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026050:00280775836:1863061901:0103/pct:92.96759941089837,25.579123639408316,16.49484536082474,3.5863801283840355/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026050:00280775836:1863061901:0103/pct:69.74774443012336,19.18783142617918,12.373411894678696,2.6932737929109685/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1866,7 +1866,7 @@ wait &quot;from day to day for tidings
 from the Army ol the Potomac; expecting  
 to hear that when it attacks the rebel host
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_edgewater_ver02:data:sn84031490:no_reel:1863071501:0002/pct:5.747126436781609,26.576641287171384,10.233592880978865,22.252549920988365/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_edgewater_ver02:data:sn84031490:no_reel:1863071501:0002/pct:5.761030774935113,26.58741560120672,10.224323322209862,22.245367044964805/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1905,7 +1905,7 @@ ploy the force of Government against them at
 once. If this is inadequate, all will be convinced  
 that the superstructure is bad or wants support.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295729:1863072501:0098/pct:70.66420664206642,351.81698196216456,49.12361623616236,26.67839859216894/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295729:1863072501:0098/pct:17.672165186296,87.95424549054114,12.285153997000808,6.669599648042235/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1958,7 +1958,7 @@ hare not, employ the force of the lrovern-­
 ment aquinst thent at once. If this is in-­  
 alt mdl be coksinced thot
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:0027952830A:1863072701:0636/pct:11.155378486055778,26.986267778322706,37.896414342629484,37.32221677292791/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:0027952830A:1863072701:0636/pct:3.7184594953519254,8.995422592774236,12.632138114209827,12.440738924309303/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1981,7 +1981,7 @@ the reins
   
 of Government then be traced with 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:0027952830A:1863072701:0636/pct:11.362549800796813,87.06473761647867,38.96414342629482,4.401667484060814/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:0027952830A:1863072701:0636/pct:3.7875166002656044,29.021579205492888,12.98804780876494,1.467222494686938/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2074,7 +2074,7 @@ every violation of the Constitution be
 reprehended. If defective let it he amen­  
 ded, but not trampled upou while it ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016179:00296026190:1863080601:0389/pct:42.974742750233865,44.83889364128885,12.684752104770814,22.241231822070144/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016179:00296026190:1863080601:0389/pct:42.98721546616776,44.83889364128885,12.67227938883692,22.250736621994108/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2092,7 +2092,7 @@ Anowledge the justice of them and your inability to do
 it in the present moment. If they have not, employ  
 tasrorces of Government against them at once. If thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774698:1863080601:0142/pct:88.25,152.72727272727272,57.0,5.7300275482093666/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774698:1863080601:0142/pct:22.06709731193999,38.18181818181818,14.252969368618462,1.4325068870523416/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2137,7 +2137,7 @@ superstructure is bad, or wants support.&quot;
 A poer was walking with Mude Talley­  
 rand in the street, and at the same tim
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn84028083:0028077523A:1863080701:0028/pct:128.47778587035688,289.2997525112826,48.72541879096868,83.09797641578105/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn84028083:0028077523A:1863080701:0028/pct:32.12529593880896,72.32493812782064,12.183573119650337,20.774494103945262/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2207,7 +2207,7 @@ weight is too great and irresistablo.
 are dangerous things. Lrt the reins of  
 government, then, be braced with a stead
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340615:1863100301:0159/pct:82.708719851577,23.39713559095168,12.578849721706865,30.14322045241601/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340615:1863100301:0159/pct:82.69337785197551,23.394004282655246,12.581153774809868,30.142532119914346/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

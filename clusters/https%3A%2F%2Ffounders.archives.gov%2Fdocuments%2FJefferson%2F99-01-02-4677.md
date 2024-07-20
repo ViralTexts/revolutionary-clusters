@@ -81,7 +81,7 @@ EH Williams, of Maryland, a cem­
 misslbner f.r the road from Cumber­  
 land to Ohio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807041001:0003/pct:41.124893071000855,34.93975903614458,17.835757057313945,13.726817381887098/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807041001:0003/pct:41.124893071000855,34.93975903614458,17.850014257199884,13.731329813636568/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -132,7 +132,7 @@ Jam&#x27;s Lovell, who is surveyor of
 the port cf New Orleans, in-pector of  
 the revenue fur the same
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807041001:0003/pct:40.67579127459367,48.78841207526736,18.477331052181352,23.108162989034792/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807041001:0003/pct:40.682919874536644,48.7974369387663,18.484459652124322,23.11267542078426/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -172,7 +172,7 @@ of Indiana.
 Eli If illiams, of Maryland, a commissioner for  
 the road from Cumberland to Ohio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807041701:0472/pct:51.231406973908804,37.307018939996816,20.872957815167034,10.63186375935063/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807041701:0472/pct:51.21891760117016,37.30108211330363,20.873963920039007,10.634150222788033/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -217,7 +217,7 @@ James Lovell, who is surveyor of the port of
 New Orleans, inspector of the revenue for the  
 same
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807041701:0472/pct:50.89002682272616,47.98663059048226,21.21433796634967,20.611173006525544/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807041701:0472/pct:50.87762067284252,47.978994271164865,21.21526084836665,20.61187141947804/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -238,7 +238,7 @@ the United States at Fayal.
 Edward Carrington, of Connecticut, consul of  
 the United States at Canton
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807041701:0472/pct:50.98756400877835,85.64380073213434,21.04364789075835,5.188604169982493/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807041701:0472/pct:50.97513408093613,85.63017186505411,21.04461238420283,5.191756842775303/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -272,7 +272,7 @@ Jofliua Lewis, of Kentucky, one of the judg­
 es of the territory of Orleans, on the re&#x27;figna­  
 tion of John B. Prevoft
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1807041701:0426/pct:40.40854224698236,37.86887270033338,18.142989786443824,12.23607852821336/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1807041701:0426/pct:40.40103973264018,37.864197530864196,18.145810125015473,12.238683127572017/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -312,7 +312,7 @@ Edwin Mmmger, of Georgia, colleflor for
 thedillridt of Savanna.  
 Jolin Lovell, of Orleans, who is furveyor o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1807041701:0426/pct:40.42711234911792,51.673046055068525,18.18012999071495,14.112853438696135/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1807041701:0426/pct:40.419606386929075,51.666666666666664,18.182943433593266,14.11522633744856/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -344,7 +344,7 @@ resignation of John B Prevost.
 Walter Leake, of Virginia, one of the  
 judges of the United States for the Missis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807041701:0129/pct:42.16475095785441,51.24716553287982,18.237547892720308,10.393046107331822/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807041701:0129/pct:42.15667496648152,51.24071041692908,18.24043925173977,10.395935676197674/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -379,7 +379,7 @@ and inspector of Darien, in Georgia. \
 Admin Mounger, of Georgia, collector 3  
 for the district of Savannah. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807041701:0129/pct:42.01149425287356,64.42428823381205,18.52490421455939,11.539430587049635/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807041701:0129/pct:42.003447615399345,64.41617332157702,18.527740535018832,11.54217575681236/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -406,7 +406,7 @@ ed.—1! illiavt Hull, Governor of Michigan,
 a Commissioner to treat With certain Indian  
 tribes in the vicinity of Detroit.—Michae
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1807050401:0180/pct:20.57980785437384,66.79691413686004,17.81560761840553,7.313896403166016/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1807050401:0180/pct:20.57633973710819,66.79022240032057,17.81681833501854,7.315668202764977/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -435,7 +435,7 @@ Senate. I now: therefore, nominate the same
 persons to the sameollices, respectively, for ap­  
 pointment
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215671:1840022001:0176/pct:67.91117883966474,72.71982726528181,14.574942854032873,2.829275556548284/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215671:1840022001:0176/pct:67.90378754897692,72.71441334127456,14.576984472500364,2.8315465554893784/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -490,7 +490,7 @@ THOMAS JEFFERSON.
 Wednesday, Dec. 17, 1806.  
 The Senate resumed the consideration of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840040401:0012/pct:70.48192771084338,28.47328244274809,19.698795180722893,10.473282442748092/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840040401:0012/pct:52.88210484032938,21.358778625954198,14.782084755975095,7.862595419847328/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -512,7 +512,7 @@ pire at the end of the present session of the Sen­
 ate. I row, therefore, nominate the same per­  
 sons to the same olliccs. respectively, for appoint
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840041101:0016/pct:68.74497184231697,27.817599511971938,19.710378117457765,6.115601647094708/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840041101:0016/pct:51.58953722334004,20.863199633978954,14.788732394366198,4.590513954552387/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -534,7 +534,7 @@ pire at the end of tho present session of the Sen­
 ate. 1 now, therefore, nominate tho same per­  
 sons to tho sumo offices, respectively, for appoint
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840041801:0020/pct:49.44267515923567,28.28006088280061,19.386942675159236,6.103500761035008/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840041801:0020/pct:37.10416251742681,21.217656012176562,14.558852818163713,4.581430745814307/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -556,7 +556,7 @@ sent session of the Senate. I now, therefore, nome­
 nate the same persons to the same offices, respectively  
 for appointment.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186427:1840042501:0186/pct:134.49379751900761,36.76547606577983,38.14859277044151,10.317377186550749/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186427:1840042501:0186/pct:44.8252867431315,12.253875157100964,12.71450164488308,3.438765535539729/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -587,7 +587,7 @@ sons to the same offices, respectively, for fippoint-
   
 nitnt:
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840050201:0028/pct:47.98483639265762,29.701149425287355,19.692737430167597,6.605363984674329/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840050201:0028/pct:36.007984031936125,22.28352490421456,14.790419161676647,4.950191570881226/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -640,7 +640,7 @@ THOMAS JEFhKKSUiN.
 Wednesday, Dec. 17, 1806.  
 The Senate resumed the consideration of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840050901:0032/pct:49.581673306772906,26.780233271945978,19.760956175298805,11.279926335174954/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840050901:0032/pct:37.20605819051415,20.089011663597297,14.826624153049023,8.47145488029466/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -690,7 +690,7 @@ THOMAS JEFFERSON.
 Wednesday, Dec. 17, 180G.  
 Tho Senate resumed the consideration of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840053001:0044/pct:47.388357256778306,28.228413113744804,19.637161084529506,10.635678005233185/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840053001:0044/pct:35.55333998005982,21.179005694936123,14.7357926221336,7.972910574111128/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -714,7 +714,7 @@ ale. I now, therefore, nominato the same per
 sons to the same offices, respectively, for appoint­  
 mtnt 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840060601:0048/pct:48.095238095238095,26.986301369863014,19.543650793650794,7.382039573820395/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840060601:0048/pct:36.07858702123437,20.243531202435314,14.665608255606271,5.540334855403349/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -810,7 +810,7 @@ THOMAS JEFFERSON.
 Wednesday, Dec. 17, 1S0G.  
 Tho Senate rcsuir.cd the consideration of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840070401:0060/pct:48.40764331210191,27.968054062356014,19.546178343949045,10.41314698203041/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840070401:0060/pct:36.32742481577375,20.979880202733835,14.678350926110337,7.817539548456458/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -839,7 +839,7 @@ THOMAS JEFFERSON.
 Wednesday, Dec. 17, 1800.  
 The Senate resumed the consideration of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840071101:0064/pct:48.89328063241107,27.642150803461064,19.42687747035573,11.341161928306551/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840071101:0064/pct:36.68709231073335,20.735475896168108,14.568096461751335,8.513597033374536/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -862,7 +862,7 @@ ate. I now, therefore, noinimilo the same per­
 sons to the same offices, respectively, for appoint­  
 mi tit 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840071801:0068/pct:51.301261829652994,28.70725348872872,19.420347003154575,6.640085876399326/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840071801:0068/pct:38.50098619329388,21.530440116546544,14.575936883629192,4.983898175126514/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -884,7 +884,7 @@ pire at the end of the present session of ihe Sen
 ale. I now, llierelore, nominate the same per­  
 sons to the same offices, respectively, for appoint
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840072501:0072/pct:50.0,30.026149823104138,19.326241134751772,5.9990770650669125/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840072501:0072/pct:37.53203232801104,22.519612367328104,14.508180563768972,4.506998923242578/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -911,7 +911,7 @@ THOMAS JEFFERSON.
 Wednesday, Dec. 17, 1S06.  
 The Scnalc resumed the consideration of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840080101:0076/pct:50.46475600309837,17.072051399724643,19.035631293570876,10.494110448217837/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840080101:0076/pct:37.880255764386746,12.804038549793484,14.280178260027126,7.878231604711641/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -938,7 +938,7 @@ THOMAS JEFFERSON.
 Wednesday, Dec. 17, lSOfi.  
 Tho Scnalo resumed ihu consideration of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840080801:0080/pct:49.73014649190439,17.758148035333537,18.928296067848883,10.432531221443801/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840080801:0080/pct:37.3048004626952,13.326226012793176,14.208598419124735,7.828205909229363/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -961,7 +961,7 @@ ale. I now, therefore, nominate the same per­
 sons to the same offices, respectively, for appoint­  
 ment 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840081501:0084/pct:49.09018987341772,19.072322245956666,19.32357594936709,6.667683857186451/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840081501:0084/pct:36.8493963981793,14.311870613365883,14.5062339204433,5.00457735733903/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1013,7 +1013,7 @@ pire at the end of the present session of the Sen­
 ate. 1 now, therefore, nominate tho same per­  
 sons to the snme offices, respectively, for appoint
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840082901:0092/pct:50.03974562798092,17.033976124885214,19.495230524642288,7.667584940312213/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840082901:0092/pct:37.55467196819085,12.779308233853689,14.63220675944334,5.7545148454239365/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

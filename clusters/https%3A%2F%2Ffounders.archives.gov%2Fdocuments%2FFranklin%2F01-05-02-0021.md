@@ -1310,7 +1310,7 @@ thunderstrokes , it is the earth that strikes
 into the clouds , and not the clouds that  
 strike into the earth. &quot; On the 18th o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_chadron_ver01:data:sn99021999:00206538181:1887071001:0046/pct:75.93047752808988,54.4157981349424,16.485252808988765,10.106966538672518/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_chadron_ver01:data:sn99021999:00206538181:1887071001:0046/pct:56.9622475856014,40.811848601206805,12.37928007023705,7.583653318705431/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

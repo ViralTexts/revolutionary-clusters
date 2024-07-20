@@ -117,7 +117,7 @@ welfare of my coantry,- and the fin­
 cerelt withes for that of yourselves per­  
 sonally.” -~ TH : JEFFERSON. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808081601:0131/pct:23.431934334830416,5.001000200040008,33.74632182127923,92.55851170234047/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808081601:0131/pct:23.43709669092974,5.007668200306728,33.75664653347788,92.5551777022071/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -141,7 +141,7 @@ thjne comforts and convenience* of Hf?
 far which it would he vnw*e EVEii  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808082901:0457/pct:78.45191820179144,84.37055114907464,18.65810376880176,7.107992678462477/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808082901:0457/pct:78.43866171003718,84.36197254702593,18.659175397093613,7.109811896288765/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -211,7 +211,7 @@ dent prayers for the welfare of my country
 and the unr.ereat wishes for&#x27;h it of your­  
 selves personally. TH; JEFFKKSON 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808083001:0142/pct:58.23131737621049,64.98680407188638,17.906084414397952,31.707930124418752/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808083001:0142/pct:58.2206795761783,64.9786378487057,17.908902691511386,31.7081343721203/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -235,7 +235,7 @@ lo r *nder.
 Ill- present moment is certainly even* fa I  
 .md our which p-nib-rly requires th.ttln ban 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808083001:0287/pct:40.51368578927634,40.19731849228434,17.547806524184477,5.62863647862383/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808083001:0287/pct:40.506091846298034,40.19223472872139,17.55076538581693,5.6321402976265755/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -274,7 +274,7 @@ prayers tor the welfare of my country, and the
 iir.c rest wishes lor that of yourselves person­  
 TH .- JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808083001:0287/pct:40.53243344581927,55.04679989881103,17.92275965504312,14.887427270427523/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808083001:0287/pct:40.524835988753516,55.039838118123185,17.925648234926584,14.889760128156485/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -355,7 +355,7 @@ ci-rest wishes for that of yourselv.
 personally.  
 TH: JEiTEBSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808083101:0003/pct:23.227939656953914,16.989413891040538,19.198181442446785,45.36534985799122/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808083101:0003/pct:23.234828132534272,16.998020483690507,19.205069918027142,45.37395645064119/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -432,7 +432,7 @@ the welfare of my country, and the sincerest wishes
 for that of yourselves personally !  
 Til: JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808083101:0081/pct:34.27021696252466,21.455623250452824,20.266272189349113,42.38432405730281/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808083101:0081/pct:34.261769780626075,21.452090879157062,20.267438994330785,42.3814619690484/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -490,7 +490,7 @@ FOR Wss-ZICH rr WOULD m; Usi-j
 - .sissEVER MORE TO rsiictltuu 1&#x27;0  
 - &#x27;JT CUUNTRIES&#x27; Htwiongshjg
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808083101:0308/pct:54.06792452830189,3.9800107085489915,45.026415094339626,92.1381402819918/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808083101:0308/pct:54.05976456383942,3.979655572410101,45.02465036724016,92.13289313226852/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -530,7 +530,7 @@ and the since-rest wishes for that ofyoup.
 selvcs person-ally. j_  
 TH: JEFFERZON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808083101:0308/pct:77.84150943396226,34.21381402819918,21.192452830188678,14.75102623594503/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808083101:0308/pct:77.8297615454271,34.21076113143571,21.194285139350036,14.752684334195889/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -671,7 +671,7 @@ dy country, and the sheerest wishes for
 that of yotinelvca nenonahyi  
 TH: JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808090901:1027/pct:24.677850717238027,42.59852611342519,18.040359834670557,46.47548862544056/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808090901:1027/pct:24.671852211959163,42.59170270703188,18.042051531356343,46.47204869453788/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -693,7 +693,7 @@ It then appears that the object of the embargo is
 merely precautionary ; to save  
 Our Stamen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808091601:0110/pct:4.765506807866869,34.1738988046504,20.524457892082705,5.223514000327493/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808091601:0110/pct:4.764305520544492,34.1683038637852,20.525586085202924,5.226751800916831/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -887,7 +887,7 @@ comforts &amp; conveniences of life for which it
 would he unwise evermore to recurto dmsi&#x27;ant ss  
 countries.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216092:1809050201:0493/pct:22.36503856041131,50.07659727854375,23.242098896113717,3.8749211498603224/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216092:1809050201:0493/pct:22.36165709101905,50.072085060371236,23.243624634613447,3.877575539136181/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

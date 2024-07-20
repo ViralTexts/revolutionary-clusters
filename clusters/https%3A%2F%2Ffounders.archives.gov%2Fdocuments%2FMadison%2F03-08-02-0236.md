@@ -53,7 +53,7 @@ I President ol the United busies was taken into coti­
 j Skirratiou.  
 The following resolutions were offered by Mr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1814092801:0081/pct:51.30810261620523,24.94264175680105,22.021844043688088,14.700098328416912/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1814092801:0081/pct:51.29507364144236,24.938554809110272,22.02260030472321,14.70178600688186/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -79,7 +79,7 @@ not improper to be Communicated.
 And die Senate adjourned to Monday.  
 HOUSE OF REFKlvSKNTATIVES
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1814092801:0160/pct:60.75067024128686,5.125030948254518,34.33422698838248,90.49269621193365/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1814092801:0160/pct:60.7398141529664,5.124396583735611,34.33404812961639,90.48562115773404/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -146,7 +146,7 @@ some amendments to a committee of
 whole.  
 It is said that many of the western 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1814100501:1117/pct:77.33668341708542,79.7716310660498,22.395309882747068,11.123142041539522/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1814100501:1117/pct:77.34226689000559,79.7716310660498,22.395309882747068,11.129704367227745/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -190,7 +190,7 @@ the lust session of Congress.
 All which is respectfully submitted.  
 MMES MONItOE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1814100801:0088/pct:28.38080574801129,22.78710102007239,21.426738516807802,20.33563672260612/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1814100801:0088/pct:28.373524884556183,22.783352525086364,21.42765520779887,20.33640401381806/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -244,7 +244,7 @@ session of congress*
 Ail which is respectfully submited.  
 JAMES MONROE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1814100801:0589/pct:43.32786885245902,55.73502547831939,18.16393442622951,27.103163157388714/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1814100801:0589/pct:43.320767087362725,55.729667371659296,18.16642080533246,27.10376209703262/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -290,7 +290,7 @@ iMirope, our relations have undergone no
 All which is respectfully submitted.  
 if AS. MONROE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1814100801:0172/pct:42.26233023588277,60.75462330892392,17.29807005003574,17.92230358694303/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1814100801:0172/pct:42.25477934607826,60.74708364358401,17.30093502471562,17.924216099942086/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -337,7 +337,7 @@ change since the lust session of Congreas.
 All of which is respecifully submitied.  
 &#x27; b (Y 8 JAMES MONRGOE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1814101201:1121/pct:24.78760619690155,73.05400918058405,23.005164084624354,21.730637757593517/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1814101201:1121/pct:24.79315897606752,73.05726470683986,23.005164084624354,21.733893283849333/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -386,7 +386,7 @@ change since the last session of congress.
 All which is respectfully submitted.  
 JAMES MONROE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1814101301:0575/pct:25.041459369817577,3.4066407934454506,43.42572850035537,92.36739974126779/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1814101301:0575/pct:25.035528185693984,3.4061511928715147,43.42136428233065,92.35771773498132/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

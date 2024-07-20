@@ -84,7 +84,7 @@ man na^are is fuiieptible j and, when your
 courfe lh ill be fir»ifi;ed here, that your Spirit  
 may receive the tranfeendant rewards of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1801040601:0573/pct:4.288722956155466,2.888837531777213,44.131725062224774,90.16639704183036/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1801040601:0573/pct:4.287901990811639,2.8885037550548818,44.128062787136294,90.15886770652801/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -158,7 +158,7 @@ thall be finithed here, that your Spirit
 may rective the transcendent rewards  
 of the Fufl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1801040701:0476/pct:42.73884373562337,6.135148274185707,33.384450237693606,89.41176470588235/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1801040701:0476/pct:42.7439554260594,6.1383892399935185,33.399785309001686,89.40852374007454/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -225,7 +225,7 @@ your courfe lhall be finiOied here, that your
 Spirit may receive the tranfeendent re­  
 vards of THE JUST
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801040801:0001/pct:2.921406411582213,28.957773208919818,22.854188210961738,44.899572987505934/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801040801:0001/pct:2.930024129610479,28.96304496810586,22.845570492933472,44.90484474669197/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

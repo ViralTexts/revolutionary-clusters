@@ -43,7 +43,7 @@ Jesse Spencer, of Ohio to be Register of the
 land office at Chilicothe, vice THomas  
 Worthington resigned. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1803040501:0259/pct:76.92307692307692,20.647210641254716,16.919943600188,2.997816160412944/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1803040501:0259/pct:76.92829912789179,20.65051948911389,16.925165805002873,3.0011250082721195/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -81,7 +81,7 @@ ry, or lands.”
 (Signed) Til JEFFERSON.  
 n,e message containing these nomination
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183670:1836090801:0012/pct:51.17769588207018,71.56428119062699,14.821342733536293,7.840405319822673/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183670:1836090801:0012/pct:51.16949695610381,71.55521783181358,14.824308448146962,7.843633907463695/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -190,7 +190,7 @@ of the
   
 oi the message of the president of the Uni-, ....
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn83016802:00415668843:1840031201:0165/pct:30.72843550148183,25.278461718841598,66.19872094837,25.383984054402628/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn83016802:00415668843:1840031201:0165/pct:30.72843550148183,25.286278188142415,66.21431913897987,25.383984054402628/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -209,7 +209,7 @@ Indian tribes Northwest of the Ohio, ami
 within the territory of the United States, on  
 the subject of the boundaries or lands.” I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215671:1840032601:0296/pct:5.421146953405018,80.77211394302849,15.412186379928315,3.0434782608695654/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215671:1840032601:0296/pct:5.420539814088924,80.76605951577842,15.414193452047636,3.045748694500662/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -263,7 +263,7 @@ THOMAS JEFFERSON.&quot;
 &quot;Tuesday Feb. 8, 1803.  
 She senate resumed the consideration of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840040401:0012/pct:70.12048192771084,7.969465648854962,19.759036144578314,11.32824427480916/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840040401:0012/pct:52.60092388029725,5.984732824427481,14.822253464551114,8.488549618320612/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -286,7 +286,7 @@ which may be necessary with any Indian tribe, Northwest
 of the Ohio, and within the territory of the United States on  
 the subject of the boundary or lands
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1840040601:0083/pct:205.17241379310346,359.878587196468,57.42128935532234,15.121412803532008/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1840040601:0083/pct:51.30271790065604,89.969646799117,14.358013120899718,3.780353200883002/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -312,7 +312,7 @@ dian trilics Xorth West of the Ohio, and within
 the territories of the U. S. on the subject of their  
 boundaries or lands
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840041101:0016/pct:68.66452131938857,7.442427939606527,19.750603378921962,8.87601037059631/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840041101:0016/pct:51.52917505030181,5.581820954704895,14.808853118712273,6.6646332164099436/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -339,7 +339,7 @@ nan tribes JSorlh West of the Ohio, and irtthtn
 the territories of the U. S. on the suhicct of their  
 boundaries or lands
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840041801:0020/pct:49.30334394904459,7.945205479452055,19.526273885350317,8.873668188736682/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840041801:0020/pct:37.00458076080462,5.966514459665144,14.658434574785899,6.651445966514459/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -372,7 +372,7 @@ dian tribes North West of the Oliio, and within
 the territories of the U, S. on the subject of their  
 boundaries or lands.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840042501:0024/pct:48.55502771179731,6.178560395427866,19.59619952494062,9.067037380290392/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840042501:0024/pct:36.428430013858645,4.633920296570899,14.70995842407444,6.8118628359592215/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -402,7 +402,7 @@ a camoy be necessary with any indian Tribes Northi
 tst of Ohie, ard within the Territory of the United  
  on the subject of their boundaries or land
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186427:1840042501:0186/pct:94.23769507803121,250.75940085890855,40.54955315459517,23.986592646904786/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186427:1840042501:0186/pct:31.408375566817817,83.57771260997067,13.514715035120476,7.994693478564447/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -456,7 +456,7 @@ dian tribes jorth nest of the Ohio, and within
 tht territories of the U. S. on the subject of their  
 boundaries or lands.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840050201:0028/pct:28.651237031125298,12.904214559386974,38.88667198723065,115.6015325670498/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840050201:0028/pct:21.49700598802395,9.685823754789272,29.181636726546905,86.69731800766283/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -507,7 +507,7 @@ THOMAS JEFFERSON.&quot;
 &quot;Tuesday Feb. 8, 1803.  
 She senate resumed the consideration of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840050901:0032/pct:49.40239043824701,6.952117863720074,19.721115537848604,11.295273173726212/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840050901:0032/pct:37.06656038262256,5.21792510742787,14.806695894778796,8.47145488029466/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -527,7 +527,7 @@ any Indian tribes, northwest of the Ohio&#x27; and
 within the territory of the United States, on the  
 subject of the boundary, or lands
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840051201:0196/pct:17.217705510388438,13.765337423312884,15.898825654923217,3.335889570552147/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840051201:0196/pct:17.217705510388438,13.769597818677573,15.916892502258357,3.340149965916837/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -580,7 +580,7 @@ Cuteson the subject. of their boundaries or
 lands.&quot; By virtue off this, or a similar au­  
 th3rity, during the subsequent course of hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn87065694:00295877595:1840052901:0510/pct:11.244089834515366,101.97517539125742,18.912529550827422,5.439827307069617/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn87065694:00295877595:1840052901:0510/pct:8.438007979902467,76.48138154344306,14.186493276193291,4.0906637884511605/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -639,7 +639,7 @@ THOMAS JEFFERSON.&quot;
 &quot;Tuesday Feb. 8, 1803.  
 She senate resumed the consideration of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840053001:0044/pct:27.432216905901118,6.033553947975989,39.65311004784689,121.67154071109744/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840053001:0044/pct:20.578265204386838,4.525165460981992,29.75074775672981,91.25750346313683/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -674,7 +674,7 @@ THOMAS JEFFERSON.&quot;
 &quot;Tuesday Feb. 8, 1803.  
 She senato resumed the consideration of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840060601:0048/pct:27.5,5.616438356164384,40.05952380952381,120.76103500761035/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840060601:0048/pct:20.639015677713832,4.216133942161339,30.04564397697956,90.57838660578386/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -728,7 +728,7 @@ which may be necessary, with any Indian tribes North
 West of the Ohio, and withtn the territory of the Uni  
 ted Stutes, on the subject of boundary or lands
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186427:1840061601:0264/pct:172.70375161707634,67.02409904930356,38.434670116429494,16.06234799911563/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186427:1840061601:0264/pct:57.560470831716465,22.338896871891233,12.809899538653903,5.353524188497108/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -810,7 +810,7 @@ tribes northwest of the Ohio, and within the terri­
 tory of the United Stales, on the subject of the boun­  
 dary, or lands
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348963:1840070201:0528/pct:51.71065493646139,23.1330945163957,15.210166177908114,8.762744557729402/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348963:1840070201:0528/pct:51.70054730258014,23.129907700785232,15.212079749804534,8.764981402397025/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -846,7 +846,7 @@ THOMAS JEFFERSON.&quot;
 &quot;Tuesday Feb. 8, 1803.  
 She senate resumed the consiueration of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840070401:0060/pct:28.821656050955415,5.897711565043772,38.992834394904456,121.24097680847797/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840070401:0060/pct:21.629157538338976,4.423283673782829,29.277036446922924,90.93841191829212/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -898,7 +898,7 @@ tribes, northwest of the Ohio, and within the
 territory ol the United States, on ih  
 of their bounuriesorlands
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016942:00295878204:1840070901:1065/pct:3.5488245931283906,18.992945082307372,49.32188065099457,110.0843823488726/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016942:00295878204:1840070901:1065/pct:2.669079393802307,14.248167104717112,37.02782175978285,82.57020334762761/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -929,7 +929,7 @@ dian tribes North West of the Ohio, and within
 the territories of the U. S. on ic subject of their  
 boundaries or lands
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840071101:0064/pct:29.1897233201581,6.087762669962917,38.91304347826087,122.1415327564895/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840071101:0064/pct:21.901561573433487,4.573547589616811,29.19549318047045,91.61001236093944/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -960,7 +960,7 @@ dian tribes North West of the Ohio, and within
 the territories of the U. S. on llui subject of their  
 boundaries or lands
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840071801:0068/pct:30.717665615141957,6.563410519858917,39.905362776025235,121.3157491182334/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840071801:0068/pct:23.057199211045365,4.922557889894188,29.940828402366865,90.9983131421561/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -990,7 +990,7 @@ THOMAS JEFFERSON.&quot;
 &quot;Tuesday Feb. 8, 1803.  
 She senate resumed the consideration of (h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840072501:0072/pct:49.76359338061466,9.367789570835257,19.405043341213553,11.244423934779265/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840072501:0072/pct:37.35462251133452,7.029687740347639,14.567317169327813,8.429472388863251/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1025,7 +1025,7 @@ fWfVIASEFrERSO&quot;.
 &quot;Tutsday Feb. Br 1803.  
 She senate resumed the consideration of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840080101:0076/pct:31.254841208365608,6.486155728927643,38.10999225406662,120.71286522869818/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840080101:0076/pct:23.46444487502422,4.864616796695732,28.599108699864367,90.54612207434603/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1050,7 +1050,7 @@ TIIOMASJEFFERSOX.&quot;
 &quot;Tuesday Ivb. 8, 1803.  
 She senate resumed the consideration of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840080801:0080/pct:29.626060138781803,7.142857142857143,38.99383191981496,120.07310386841304/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840080801:0080/pct:22.22864854443802,5.36095035028937,29.265471370734527,90.05482790130978/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1081,7 +1081,7 @@ dian tribes North West of the Ohio, and within
 the territories of the U. S. on, the subject of their  
 boundaries or lands
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840081501:0084/pct:29.845727848101266,115.07476350320415,19.40268987341772,12.755569118095819/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840081501:0084/pct:22.40253314862458,86.3137015563015,14.565604591331882,9.566676838571864/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1107,7 +1107,7 @@ any Indian tribes northwest of the Ohio, and
 within the territory of the United State*, on the  
 subject of the boundary, or lands
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186944:1840082001:0552/pct:58.19708351745471,44.95506768285747,12.814847547503314,5.75588670230918/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186944:1840082001:0552/pct:58.188512518409425,44.949954504094634,12.81786941580756,5.759023354564756/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1152,7 +1152,7 @@ dian tribes Sorth West if the ()hio, and within
 the territorial f the U. S. on the subject of their  
 boundaries or lands
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840082901:0092/pct:30.604133545310017,122.95684113865931,19.475357710651828,5.203550658096113/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840082901:0092/pct:22.962226640159045,92.22528313437404,14.612326043737575,3.9026629935720845/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1178,7 +1178,7 @@ ry, with Indian tribes north-west of the Ohio,
 and within tlie territory of the United States,  
 on the subject of the boundary, or lands
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn86053954:00237281846:1840090401:0103/pct:33.5742444152431,112.05434908837533,23.226018396846253,10.974335152711648/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn86053954:00237281846:1840090401:0103/pct:25.193097781429746,84.04366507954941,17.43631881676253,8.233654627801648/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1216,7 +1216,7 @@ treaties which may be necessary, with any Indian trioes
 northwest of the Ohio, and within the ter;.tory of the I ni -  
 ted States, on the subject of the boundary 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_larrybird_ver01:data:sn86058217:00271744742:1840090501:0187/pct:75.36788227767114,113.09085955591881,21.62507997440819,12.001089769786132/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_larrybird_ver01:data:sn86058217:00271744742:1840090501:0187/pct:56.53495440729483,84.82495572810244,16.221404575267957,9.004222857921263/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1242,7 +1242,7 @@ dian tribes North West of the Ohin, and within
 the territories of tlie U, S. on the subject of their  
 boundaries or lands
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840090501:0096/pct:29.810725552050474,118.54094142576055,19.223186119873816,8.92992280914182/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840090501:0096/pct:22.362453165056202,88.90570606932042,14.435022677972787,6.705009838050552/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1273,7 +1273,7 @@ dian tribes North Yest of the Ohio, and within
 the territories of llit U. S. on the subject of their  
 boundaries or lands
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840091201:0100/pct:29.58946553059644,114.1811527904849,18.977536793183578,12.79353461421165/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840091201:0100/pct:22.204999031195506,85.63586459286368,14.26080217012207,9.606587374199451/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1360,7 +1360,7 @@ dian tribes North West of the Ohio, and within
 llit territories of the U. S. on the subject of their  
 boundaries or lands
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840100301:0112/pct:30.25793650793651,120.23130300693909,19.226190476190474,8.265227447956823/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840100301:0112/pct:22.702917245485214,90.17733230531996,14.427465767017265,6.198920585967618/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1391,7 +1391,7 @@ dian tribes Sorlh West of the Ohio, und within
 the territories of the U. S. on Ihe subject of their  
 boundaries or laiuls
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840101001:0116/pct:29.116706634692246,115.28117359413203,19.584332533972823,12.927872860635697/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840101001:0116/pct:21.846891864881073,86.46088019559902,14.691185288826704,9.70354523227384/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1422,7 +1422,7 @@ dian tribct North Wttt of tlie Ohio, and within
 the territories of the U. S. on the subject of their  
 boundaries or lands
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840101701:0120/pct:28.750981932443047,113.47387717690192,19.265514532600157,12.862816987473266/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840101701:0120/pct:21.571709233791747,85.10540788267645,14.459724950884086,9.654750992972808/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1453,7 +1453,7 @@ dian trilia A&#x27;orth West of the Ohio, and within
 the territories of the U. S. on Vie sutject of their  
 boundariei or lands, ..
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840102401:0124/pct:29.753521126760564,114.3985419198056,19.209702660406887,12.894896719319563/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840102401:0124/pct:22.32439835648601,85.79890643985419,14.419878693015066,9.674969623329282/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

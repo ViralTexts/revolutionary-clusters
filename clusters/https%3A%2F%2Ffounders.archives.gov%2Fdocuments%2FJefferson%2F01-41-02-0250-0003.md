@@ -289,7 +289,7 @@ after the creaties subsequently entered into
 betWeen Spain and other powers&quot; : that is  
 saving to the United States the country gi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216018:1803111001:0312/pct:74.90443987062629,29.676116913894496,22.155248456336373,9.49705959799877/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216018:1803111001:0312/pct:74.89342936939586,29.673512374934177,22.156891567445733,9.499151600257445/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -343,7 +343,7 @@ c msy be eflablilh :d therein n con. j
 able commerce, fo mu&#x27;.i th*1 more j  
 tntageoua to our kingdom in that 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804092401:0003/pct:40.04411469821536,29.481005885500267,17.525566472829357,28.183520599250937/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804092401:0003/pct:40.04411469821536,29.48992331014803,17.525566472829357,28.187979311574818/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -402,7 +402,7 @@ there may he es.abhalrcd therein a consi­
 derable commerce, so much the more  
 advantageous to our kingdom in *h.it ther
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804092901:0298/pct:59.50365525202001,34.075520833333336,17.85302039245864,29.9609375/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804092901:0298/pct:59.492210040392386,34.07108449420648,17.855997948323395,29.961376556871937/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -420,7 +420,7 @@ r&gt;four own kingdom; we have resolved
 to grant the commerce of the country of  
 Louisiana to the Sieut Anthdny Cr&lt; z it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804092901:0298/pct:59.50365525202001,67.29166666666667,17.564447864563295,2.7213541666666665/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804092901:0298/pct:59.492210040392386,67.2829058716313,17.56748092581907,2.7253395825196374/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -462,7 +462,7 @@ part (hereof, resetvii.g In-woei to om­
 itlves the hberiy of eiiiutgiug as v e shall,  
 think lit the extent of the government o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804092901:0298/pct:59.50365525202001,2.1744791666666665,38.05309734513274,95.32552083333333/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804092901:0298/pct:59.492210040392386,2.174196068220284,38.05218952362634,95.317449984811/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -497,7 +497,7 @@ these claims and those of liie F.nglish co­
 lonics, whose charters extended from sea  
 to sea; hut these inlerfeiiug claims vvci
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804092901:0298/pct:77.54905732974221,19.036458333333332,18.41092727972297,13.90625/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804092901:0298/pct:77.53414118099634,19.033979950527275,18.413797525165094,13.90877923881439/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -520,7 +520,7 @@ to be ul.er ihe treaties passed subsequent*
 ly between Spain at d other states ”  
 On tlie 30 h of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804092901:0298/pct:77.85686802616391,72.05729166666667,17.7375913813005,5.8203125/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804092901:0298/pct:77.84189267166762,72.04791042832964,17.740591139321666,5.823894458186868/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -542,7 +542,7 @@ sixty men, named the country Louisiana, built a fort
 in the Chickasaw territory, 6p leagues below the  
 Ohio, by the name of Pradhomme. #!. la Sale the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804100201:0137/pct:73.95779722079259,58.55841197526847,22.259392691713845,4.86495281483892/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804100201:0137/pct:73.9387702598405,58.54888563526924,22.26009776177,4.868228404099561/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -564,7 +564,7 @@ Isle Massacre, which, he called Isle Dauphin, and
 the other at Mobile. It may be proper to observe  
 that during the war, in‘1796, Spain had taken por
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804100201:0137/pct:73.88059701492537,71.23332248616987,22.259392691713845,4.995118776439961/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804100201:0137/pct:73.86158991510162,71.22173417927445,22.26009776177,4.9983731901740684/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -605,7 +605,7 @@ Ryswick to give orders f-r the establishing a o ixff
 there, and maintaining* garrison, which hat kef*  
 ■and ftrtoerved the flotteensn, we had takanin tb
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804100201:0137/pct:73.88059701492537,81.53270419785227,23.211528564076172,16.54734786853238/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804100201:0137/pct:73.86158991510162,81.51944037741988,23.211988680216106,16.548722954286642/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -626,7 +626,7 @@ from that ncwc.olojiy tho advantages that might have
 been expected from thence, because the private men,  
 who are ctmeerned in the sea trade, were all under
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804100201:0138/pct:3.746770025839793,2.1404248419004377,22.583979328165373,4.864601913410086/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804100201:0138/pct:3.7458021183156807,2.140077821011673,22.58460346163782,4.8678664072632944/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -648,7 +648,7 @@ opinion that there, may be established therein a con­
 siderable commerce, so much the more advantage­  
 ous to our kingdom in that there has hitherto been 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804100201:0138/pct:3.953488372093023,7.053672774444625,22.325581395348838,4.767309875141884/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804100201:0138/pct:3.9524670627744767,7.052529182879377,22.326272281064323,4.770590142671855/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -666,7 +666,7 @@ growth and manufacture of our own kingdom ; we
 have resolved to grant the commerce of the country  
 of Louisiana to the Sieur Anthony Ccozat, our coun
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804100201:0138/pct:3.979328165374677,13.637100697259607,22.14470284237726,2.383654937570942/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804100201:0138/pct:3.9783001808318263,13.634889753566796,22.14544045466288,2.3873216601815823/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -703,7 +703,7 @@ all the lands winch we possess from the Illinois be
 united, so far as occasion require to the general go­  
 vernment of New France, and become part thereof
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804100201:0138/pct:3.2299741602067185,25.036484514350576,22.842377260981912,13.864115453218744/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804100201:0138/pct:3.2291397571686904,25.03242542153048,22.842934642211315,13.865920881971466/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -735,7 +735,7 @@ ocean.
 claims and those of the English colonies, whose char­  
 ters extended from sea to sea ; bufthese iutevfcrin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804100201:0138/pct:3.3074935400516794,46.11642613912761,22.816537467700257,10.831846927193125/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804100201:0138/pct:3.306639111340739,46.10894941634241,22.817101524153966,10.834143968871595/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -757,7 +757,7 @@ the tract west of the Apalachicola; and to the other,
 embracing the res, lue of her possessioirs, she gave  
 that of East Florida. This is the first that we hea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804100201:0138/pct:3.850129198966408,72.51499918923301,22.377260981912144,4.751094535430517/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804100201:0138/pct:3.849134590545079,72.50324254215305,22.377938517179025,4.754377431906615/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1196,7 +1196,7 @@ was no pollibility till now, of reaping from
 * ncvv colony the advantages that might  
 ‘ have been expected from thence, bccaufe th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1806111401:0217/pct:40.8679593721145,12.298411916779514,36.41735918744229,84.04530345931306/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1806111401:0217/pct:40.860413589364846,12.296898079763663,36.41678975873954,84.0390612177909/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1218,7 +1218,7 @@ we are of opinion that tLcre may be eftablilh­
 e(l therein a confidcrable commerce fo much  
 * more advantageous to our kingdom, tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1806111401:0217/pct:58.94736842105263,20.632771143666133,18.22714681440443,4.6042102671426814/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1806111401:0217/pct:58.93648449039882,20.630231413096997,18.22993599212211,4.60774659445265/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1254,7 +1254,7 @@ j* cd under the name of the government of Lou f­
 ‘ ana.&#x27;  
 | Now this is a folemn declaration of Loui
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1806111401:0217/pct:58.928901200369346,39.62821617628955,18.356417359187443,12.076818909269974/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1806111401:0217/pct:58.91802067946824,39.62333825701625,18.35918266863614,12.079435417692434/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1290,7 +1290,7 @@ Xew Mexico, and the 8ieur dr la Sail, t
 V. hafti Sin committed that cn erflrise, hat ing  
 hw i. cess enough to confirm a belief tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1811011501:0320/pct:5.120755402215362,86.87438665358194,17.32340657345197,6.992149165848871/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1811011501:0320/pct:5.119825708061002,86.86373114191095,17.32631324134592,6.995380023713152/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1358,7 +1358,7 @@ tois hr united, (Ac. to the general govern -
 nrnt of Nrw France, and become part there­  
 of, &#x27;S
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1811011501:0320/pct:22.625749046667877,64.42590775269872,17.577628472852734,29.98037291462218/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1811011501:0320/pct:22.621641249092228,64.41800564209494,17.580488985717743,29.980784169426386/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1383,7 +1383,7 @@ phin Isle is at the mouth of Mabde Bay, ■
 The whole slip of land from the Missis,  
 sippi to the Atlantic, was either a part o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1811011701:0325/pct:41.99637023593466,53.709815425987046,17.531760435571687,6.270627062706271/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1811011701:0325/pct:41.98874977318091,53.7032510388658,17.53462771426843,6.273934653304001/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1443,7 +1443,7 @@ EngHek of Carolina, all the establishment*, port.,
 42?* hl* beretWare railed MasKlrre t  
 hf St. todis, heretofore called Mississippi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811011801:0317/pct:7.348560079443892,66.15681854773788,22.542204568023834,26.17935920141684/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811011801:0317/pct:7.346736162819558,66.14616870573084,22.54281459419211,26.179169349645846/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1686,7 +1686,7 @@ the nome of the Province of Lavisicpu, we nig of opin­
 jon, that there may be estadiishod dhercing a corsads  
 erable commerce, &amp;e. We have rosniicd o g
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1811013001:0352/pct:73.0737905196286,79.05044510385757,22.886463593419123,19.653808110781405/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1811013001:0352/pct:73.08465005158277,79.05044510385757,22.88103382744204,19.660402242004615/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1724,7 +1724,7 @@ the genctal goveornent of New-France, 1o wineh it
 jo subocdma e i and further, that Wl the lgnds whicl  
 we possese from the Lo be wnted, &amp;0 h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1811013001:0353/pct:5.219473264166002,82.73112139411244,22.043096568236233,13.498080141774146/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1811013001:0353/pct:5.230114392125565,82.73112139411244,22.043096568236233,13.507925568573398/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2082,7 +2082,7 @@ quired a right to any portion of Territory on this continent,
 THAt riHt CAN NeveR BE DinInisied or atreoted aY Any  
 other PowEr, aY ViEtue oF FuRCHaSe NADe, BY GrANrs o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184613:1843070101:0600/pct:51.00612423447069,14.148961008638805,39.865850102070574,24.6672892832127/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184613:1843070101:0600/pct:16.9995626184575,4.7157698144041085,13.28667930213345,8.221469981712774/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2192,7 +2192,7 @@ we will, moreover that all the territories which we possess
 on this side of the Illinois, he united, as far as need be. to the  
 general government of New Prance, and form a pnrt thereof
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846031701:0298/pct:72.86542378192073,47.34009262736262,15.243615854613818,9.300287895856803/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846031701:0298/pct:72.87586819155047,47.344265031084404,15.254060264243563,9.308632703300372/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2319,7 +2319,7 @@ of the rivers emptying within that
 coast, to all their hranches, and the  
 country they cover, and to give it 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472037:1846070301:0559/pct:68.40490797546012,206.20242458415564,156.2116564417178,169.89004792782634/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472037:1846070301:0559/pct:17.107786728039894,51.55060614603891,39.06789413118527,42.472511981956586/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2586,7 +2586,7 @@ directly into that part of the river St. Louis.”
 In tracing the transfers of the various portions  
 of the Western country until the present limit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210120:1885091401:0122/pct:66.55364166553642,52.05851012302625,14.49884714498847,7.488133294584907/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210120:1885091401:0122/pct:66.55364166553642,52.06496819400045,14.503368145033681,7.491362330072008/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2622,7 +2622,7 @@ In tracing the transfers of the va­
 rious portions of the western country  
 until the present limits of the Unite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271769489:1885092401:0447/pct:64.14762741652021,26.672343646513387,14.154386913613628,11.344498060365218/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271769489:1885092401:0447/pct:64.14762741652021,26.672343646513387,14.158893245009239,11.353959693443088/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2658,7 +2658,7 @@ In tracing the transfers of the va­
 rious portions of the western country  
 until the present limits of the Unite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_jane_ver01:data:sn86086770:00271768837:1885092401:1176/pct:64.10681018422687,26.056043496445003,14.448354377975575,11.877875365955667/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_jane_ver01:data:sn86086770:00271768837:1885092401:1176/pct:64.12060994963086,26.060690552534968,14.44145449527358,11.877875365955667/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2726,7 +2726,7 @@ OUH
 portions of the western country  
 until the present limits of the Unite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_bowbells_ver01:data:sn84024779:00295863699:1885101501:0527/pct:74.12925696594428,19.25033467202142,16.176470588235293,13.373493975903614/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_bowbells_ver01:data:sn84024779:00295863699:1885101501:0527/pct:63.00986842105263,16.366394841646123,13.755482456140351,11.371135975725393/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2763,7 +2763,7 @@ present limits of the l nited : tates were
 determined, Mr. Garnett finds that this  
 government came into possession of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ditto_ver02:data:sn87058308:00279529029:1885121001:0087/pct:68.99755501222494,24.831026713871903,8.254278728606357,7.829095590601867/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ditto_ver02:data:sn87058308:00279529029:1885121001:0087/pct:68.99755501222494,24.836390945177556,8.257538712306438,7.829095590601867/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2796,7 +2796,7 @@ that part of the river St Louis. &quot;
 A UAME Off BLUi&#x27;F.  
 In tracing the transfers of the variou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_icydrop_ver05:data:sn87090237:00295878514:1885121101:0189/pct:45.79792256846081,25.497714201445216,18.909348441926344,12.284323846040406/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_icydrop_ver05:data:sn87090237:00295878514:1885121101:0189/pct:34.35655253837072,19.12697242294647,14.191263282172374,9.216929656392862/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2831,7 +2831,7 @@ present limits of the United States were
 determined, Mr. Gannett finds that this  
 Government came into possession of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_mojave_ver01:data:sn82014381:00175036507:1886082801:0374/pct:27.22556894243641,33.706907053234254,10.826639892904954,8.05213789742965/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_mojave_ver01:data:sn82014381:00175036507:1886082801:0374/pct:27.233935742971887,33.70995249116823,10.83082329317269,8.0582287732976/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2895,7 +2895,7 @@ A GAM: OF BLUFF.
   
 In tracing the transfers of the various
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_brutus_ver02:data:sn85047084:00202195489:1888020601:0130/pct:9.919354838709678,28.877463581833762,19.650537634408604,11.863277158906978/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_brutus_ver02:data:sn85047084:00202195489:1888020601:0130/pct:7.447237531926334,21.660477958678474,14.733163059551014,8.902218413786537/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

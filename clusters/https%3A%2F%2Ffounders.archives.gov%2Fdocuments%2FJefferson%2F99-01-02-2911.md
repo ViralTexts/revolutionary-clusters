@@ -499,7 +499,7 @@ and ports of a betlig miry not
 invested or bi ire protected,  
 (To HE CON-riSUED.J
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806010801:0003/pct:21.21079184031586,2.08938702089387,39.08751919280544,95.51681195516812/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806010801:0003/pct:21.21079184031586,2.093999354273327,39.102142282664325,95.53064895530649/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -574,7 +574,7 @@ WASHINGTON CITY, PRINTED BY SAMUEL HARRISON SMITH, PENNSYLVANIA AVENUE.
 i into the  
 in time of peace, cease t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806011001:0001/pct:4.575441583315599,7.052862229526157,72.18557139816983,91.56395508079979/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806011001:0001/pct:4.589628999077818,7.052862229526157,72.18557139816983,91.57308499954351/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -594,7 +594,7 @@ illustrate the moat important prin-
 Four commerce ; they evince the  
 ssity of a circuitous trade, to ena
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806011001:0001/pct:22.91977016386465,30.59435771021638,17.87614386039583,3.90304026294166/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806011001:0001/pct:22.91977016386465,30.603487628960103,17.904518691920266,3.90304026294166/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -845,7 +845,7 @@ on behalf oi n ireoeral meeting of the I
 merchants of New-York, on the 26th  
 v)eia mber, 1805. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806011001:0001/pct:22.451585443711426,6.299643933168995,55.20323473079379,91.5502602026842/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806011001:0001/pct:22.451585443711426,6.299643933168995,55.20323473079379,91.56852004017165/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1124,7 +1124,7 @@ permission to detail some of the most important con­
 sequences of the assumed rule,/Aar neutrals nicy it  
 retrained, in lime oj war,:»i/ieir accustomed trade
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806011001:0901/pct:51.828529910389925,3.0366323907455013,42.89174134172923,93.2840616966581/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806011001:0901/pct:51.81598062953995,3.036144578313253,42.88740920096852,93.27309236947791/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1400,7 +1400,7 @@ j Signed by the unanimous order, and on behalf of
 | a gci.-i&#x27;a! meeting ol the Merchant, of the city of  
 1 New-Yu.k, convened on the 25t’n December, 1805.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806011001:0902/pct:4.150390625,3.572572893303428,42.87109375,93.15924383210509/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806011001:0902/pct:4.149377593360996,3.572000640717604,42.86673175494264,93.1483261252603/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2033,7 +2033,7 @@ of a general meeting of the Merchants of the
 city of New-York, convened on the 20th Decem­  
 ber, 1805.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806011401:0021/pct:3.548264021365891,3.0322497751509703,92.1785578023655,93.72992419375562/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806011401:0021/pct:3.5475872592027464,3.0318602261048304,92.16733422340899,93.72216512504282/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2213,7 +2213,7 @@ ing* - iriri**!, tn.inoth-&#x27;r knifwri cit&gt;ren of ’he Unite*]
 Biates. for a i^Jushlv conAd.-ration, will, a* in jw-di,  
 Bjry dlfes, tf c-ncinf.ec e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1806011801:0316/pct:3.448911840649207,4.196073399204415,18.148284765769088,91.85166174772232/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1806011801:0316/pct:3.4482758620689653,4.195535026943803,18.151084885364803,91.84415362244462/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2402,7 +2402,7 @@ rqcidMit td core a.fittr il (Huigiu:), (Jut it wju »qu»,iy
   
 lU-Bcialto ourfeU, anti 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1806011801:0316/pct:21.560309848764295,0.16681637366867702,28.771670970121725,96.61234441165148/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1806011801:0316/pct:21.55633413239904,0.1667949704901206,28.7725121396521,96.60422547258575/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2589,7 +2589,7 @@ will earr pray, Ac.
 Viewed by fl»e unanin&lt;o-t* ord-r, and op hebalf &#x27;  
 * (, eoer*i meejing vf thi M.i.f ii &#x27;iu* of /fir city of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1806011801:0316/pct:39.78236812984139,0.9880662132683177,18.222058281077093,95.82959065828308/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1806011801:0316/pct:39.77503226996128,0.9879394405953298,18.22484479685291,95.82157214951673/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4723,7 +4723,7 @@ over propert ?h?ﬂ ;acquwég,?gpé&amp;ﬂ‘ed in this country, while at the f
 time he-can conveyto the latter a title to a privilege not enjoyed by bimfelf :  
 ia short that a trade, is uslawful when the advantage is to result to one pexfon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1806012801:0225/pct:58.02704852824185,16.76444267674257,35.21081941129674,65.45689569454112/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1806012801:0225/pct:58.03235216123044,16.77107155878161,35.20551577830814,65.45358125352159/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4742,7 +4742,7 @@ qz?%%s”‘?ﬁ@&amp;&#x27; evidence of a transfer of property, and, the answer
 e e YT, 25 &amp; SANSEL. OF f“mw rates o  
 ; affiemativei *‘3’2 hat our ships have been detained, the rates o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1806012801:0225/pct:58.02704852824185,86.19866759471016,35.21081941129674,3.4403897782638957/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1806012801:0225/pct:58.03235216123044,86.20198203572967,35.20551577830814,3.44701866030294/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4884,7 +4884,7 @@ fﬁlﬂyﬁﬁ«;b@commm{ of the world !———Tn&#x27;the it of our complain
 ant “ﬁ”mmiﬁ“mfﬁ*’mﬁbmﬁ“?@ f;*’ﬁ’“f*; s of  
 - War, in the vicinity of our coalts and harbot 5 ‘“n““
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1806012801:0226/pct:7.735671782023176,3.355236957387495,35.483870967741936,86.07128634010354/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1806012801:0226/pct:7.740891533563002,3.355236957387495,35.48909071928176,86.08124253285544/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5017,7 +5017,7 @@ petty ; all M@mﬁ’
 exercised upon intocent and&quot;defence­  
 lefs men, aggravated by nnpreceden
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1806012801:0226/pct:43.81459442530536,3.3054559936280365,16.222987785781395,80.90402230187176/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1806012801:0226/pct:43.819814176845185,3.308774724545334,16.228207537321225,80.90402230187176/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5072,7 +5072,7 @@ Jout Broome, Chairman.
   
 From the National Intelligencet, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1806012801:0226/pct:43.89289069840276,2.8474711270410196,33.730034450360165,90.86021505376344/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1806012801:0226/pct:43.89289069840276,2.854108588875614,33.74047395343982,90.85689632284614/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6173,7 +6173,7 @@ by the seamen, pray ‘‘that in addition to
 ” •vast on the American seas to display  
 ” their energy in their own defence.” Bu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1813040601:0425/pct:23.0869727510265,72.52435565421138,17.69316909294513,6.165988407941793/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1813040601:0425/pct:23.082664676245567,72.5154130702836,17.69608757852833,6.169338265515824/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6465,7 +6465,7 @@ Britain, an experiment to see &quot;how far law and honor
 could be outraged.&quot; That &quot; it waa condemned, and will  
 for ever continue to be condemned, by the universa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1837081901:0013/pct:33.84717387700978,17.010978632983118,15.464942814520139,7.991972612442451/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1837081901:0013/pct:33.84717387700978,17.014913626883878,15.470467981656444,7.991972612442451/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6487,7 +6487,7 @@ dence in the Government of our country that the
 rights of no State or citizen will ever be abandon­  
 ed; that in reference to the recent election of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038518:00200293319:1861011501:0052/pct:219.80088495575222,203.11785491581793,43.69469026548673,11.01642070255664/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038518:00200293319:1861011501:0052/pct:54.95782049509058,50.77946372895448,10.925183238832803,2.75410517563916/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6508,7 +6508,7 @@ ests in promoting an adjustment of every cause
 of misunderstanding; expressing confidence in  
 the Government of our country, the th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038518:00200293319:1861012001:0072/pct:252.68756998880178,108.09889173060529,44.06494960806271,8.653026427962489/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038518:00200293319:1861012001:0072/pct:63.18958274992999,27.024722932651322,11.019322318678242,2.1632566069906223/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

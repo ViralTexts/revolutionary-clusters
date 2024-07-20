@@ -53,7 +53,7 @@ in money matters, without a fixed philosophical
 and mathematical standard. Contracts can never  
 be inviolable without a stable standard.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023294:00200296096:1842112501:0537/pct:204.07470288624788,256.7688188039274,59.592529711375214,43.55846474263612/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023294:00200296096:1842112501:0537/pct:51.040339702760086,64.19220470098185,14.904458598726114,10.88961618565903/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -122,7 +122,7 @@ efficiently performed.
 it, UNTIL WE RETURN TO THE PURE,, UNMIX­  
 ED circulation of standard, gold and si
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85038078:00269026803:1846022601:0209/pct:34.285028790786946,118.65808823529412,22.2168905950096,5.729166666666667/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85038078:00269026803:1846022601:0209/pct:25.73829531812725,89.00122549019608,16.686674669867948,4.30453431372549/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -143,7 +143,7 @@ wIt is one of the greatest humbugs
 over attempted to be imposed&quot; On a  
 people, that there is , not specie en
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85038078:00269026803:1846040901:0236/pct:10.85494716618636,114.81144934120854,22.214217098943323,7.43601393306073/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85038078:00269026803:1846040901:0236/pct:8.145122537241711,86.11237316371346,16.67467563671312,5.57322429198849/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -159,7 +159,7 @@ people, that there is , not specie en
 n &quot;It will be In vain to talk of public credit, until we return K  
 |fl to the pure unmixed circulation of standard gold and sil 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846042001:0429/pct:26.239113222486143,76.58572844400396,15.328582739509105,0.8795837462834489/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846042001:0429/pct:26.24439166006862,76.59398744631649,15.328582739509105,0.8754542451271886/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -176,7 +176,7 @@ n &quot;It will be In vain to talk of public credit, until we return K
 torn to the pur unmixed circulation of standard gold and  
 silver.&quot; .sAn Adam to vol. Joseph Wars, Uotooer sa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85038078:00269026803:1846061101:0272/pct:10.487804878048781,37.40831295843521,22.70731707317073,1.573960880195599/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85038078:00269026803:1846061101:0272/pct:7.8838174273858925,28.056234718826406,17.03685623627044,1.1919315403422983/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -193,7 +193,7 @@ silver.&quot; .sAn Adam to vol. Joseph Wars, Uotooer sa
 til we return to the pure, unmixed circulation of  
 standard Gold anil Silver.”—John Ailams to Col
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn86071753:00414184388:1846082001:0196/pct:38.052839001605605,18.630078250616357,14.552620055466356,1.522135277092936/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn86071753:00414184388:1846082001:0196/pct:38.047285464098074,18.628081457663452,14.55536096516832,1.5255448374419436/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -402,7 +402,7 @@ Old Joum Adams* views, aa expressed above,
 grow out of tbo experience of tho country with  
 reference to the wretched and vorthleoe Conti
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1876012901:0004/pct:86.3130659767141,78.73256767842494,12.96248382923674,7.1575061525840855/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1876012901:0004/pct:86.32600258732212,78.74794913863823,12.96248382923674,7.147251845775226/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -627,7 +627,7 @@ and who has not a more sacred regard
 to the scientific principles and stan  
 dard of it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn87076794:00280775137:1876020301:0585/pct:85.68985176738883,18.217306441119064,75.7126567844926,374.886141834743/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn87076794:00280775137:1876020301:0585/pct:21.428571428571427,4.554326610279766,18.93356144853151,93.72153545868575/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -660,7 +660,7 @@ tracts can never be inviolable without a stable
 standard.” But Judge Kelley, with his 3.65  
 bonds, thinks otherwise
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_farmington_ver01:data:sn83016025:00279525401:1876021701:0191/pct:84.59302325581395,35.46226527927281,10.998062015503876,3.588087549336204/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_farmington_ver01:data:sn83016025:00279525401:1876021701:0191/pct:84.57936379783627,35.45802439607749,11.000322945260779,3.590648170294188/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -352,7 +352,7 @@ Quit, O quit this mortal frame!
 Trembling, noping, lingering, flying;  
 Oil the pain, the bliss of dying
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216390:1828040101:0321/pct:18.46126510305615,75.10574018126889,19.10092395167022,4.422960725075528/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216390:1828040101:0321/pct:18.457985432581275,75.0966650555824,19.1034523598034,4.426454003544386/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -516,7 +516,7 @@ Quit, O quit this mortal frame!
 Trembling, hoping, ling&#x27;ring, flying,  
 O the pain, the bliss of dying
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156372:1859030201:0860/pct:251.14192495921696,58.22894168466523,57.25938009787928,12.786177105831534/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156372:1859030201:0860/pct:62.78548123980424,14.557235421166308,14.31484502446982,3.1965442764578835/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -708,7 +708,7 @@ Vital spark of heavenly flame,
 Trembling, hoping, lingering, flying,  
 Oh! the pain, the bliss of dying 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059533:00393349086:1881112601:0007/pct:67.54850088183422,56.94050991501416,12.574955908289242,2.8944451287104322/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059533:00393349086:1881112601:0007/pct:67.53658966672545,56.933497536945815,12.577146887674132,2.897167487684729/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -904,7 +904,7 @@ Lbilf. oh! ijuit this mortal frame;
 Trembling, hoping, lingering, flying—  
 oh, the pain,.the bllh*&#x27; &lt;*f dying
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_katherine_ver01:data:sn86086770:00271768874:1899081701:1090/pct:37.92667509481669,50.12024331588626,12.326169405815424,1.7258452397793183/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_katherine_ver01:data:sn86086770:00271768874:1899081701:1090/pct:37.92667509481669,50.124958740038664,12.340216322517207,1.7352760880841231/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

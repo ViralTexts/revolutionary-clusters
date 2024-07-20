@@ -116,7 +116,7 @@ Five “o&#x27;Clopk, #¢, g
 Extrall from General GRER: 2&#x27;s Orders,  
 September 3 6, 1730
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1780102101:0422/pct:36.018437225636525,7.941303409581355,27.30465320456541,42.8427564379226/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1780102101:0422/pct:36.018437225636525,7.950894355728193,27.30465320456541,42.8427564379226/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -133,7 +133,7 @@ That ke came on shore from the Vulture
 sloop of war, in the night of the 211 t of Sep­  
 tember infl, somewhere under the Haver
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1780112701:0433/pct:37.85745710514738,1.8494055482166447,27.98064232292125,2.9502421840598854/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1780112701:0433/pct:37.8647895585863,1.8494055482166447,27.98797477636017,2.9600273986007144/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -346,7 +346,7 @@ to suffer death.&quot;
 &quot;The Commander in-Chief directs the execution  
 of the above sentence this afternoon at five o&#x27;cloc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184595:1841120901:1132/pct:170.84777812795463,206.23056547276286,38.827607942010715,29.44834734538754/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184595:1841120901:1132/pct:56.9402867496455,68.73560571165362,12.94049682264587,9.81498541378781/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -395,7 +395,7 @@ of the above sentence this afternoon at five o’cloc
 
 ---
 
-## [From _The American review : a Whig journal of politics, literature, art, and science_](https://archive.org/details/sim_american-whig-review_1847-04_5_4/page/n59/mode/1up?view=theater)
+## [From _The American Review: a Whig Journal Devoted to Politics and Literature (1848-1850)_](https://archive.org/details/sim_american-whig-review_1847-04_5_4/page/n59/mode/1up?view=theater)
 
 #### 1847-04-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -475,7 +475,7 @@ The Con mander in Chief directs the execution of
 the abeve sentence, in the usual way, this afternoon,  
 at b o cleck precisely.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530534:1857030601:0438/pct:104.02317880794702,106.2860576923077,47.11920529801324,10.625/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530534:1857030601:0438/pct:34.67439293598234,35.4286858974359,15.706401766004415,3.5416666666666665/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -507,7 +507,7 @@ is their opinion he ought to suffer death.&quot;
 above sentence,, in the usual way, this afternoon, at 5  
 o&#x27;clock precisely.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661629:1857032801:0041/pct:2.9039361409303606,3.835645229087852,31.379025598678776,92.47583018074822/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661629:1857032801:0041/pct:2.9085237177722725,3.8426509737985146,31.379025598678776,92.47232730839288/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -527,7 +527,7 @@ ion be ought to suffer death.
 &quot; The commander-in-chief directs the execution &quot;of tl  
 above sentence, in the usual way, this afternoon, at f
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661083:1857033101:0431/pct:6.237006237006237,77.83989834815756,16.008316008316008,2.9479034307496823/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661083:1857033101:0431/pct:6.2423370115677805,77.84836933502753,16.008316008316008,2.9479034307496823/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

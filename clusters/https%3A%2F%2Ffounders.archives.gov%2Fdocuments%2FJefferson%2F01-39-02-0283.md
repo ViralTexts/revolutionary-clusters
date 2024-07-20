@@ -89,7 +89,7 @@ by fitting them for the service of the human
 race on a broad scale, has stamped them with  
 the evidencesof her destination and their duty.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826041401:0264/pct:60.98355316723661,7.460513050296853,35.059436573847904,90.10865912400583/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826041401:0264/pct:60.973624226636275,7.459677419354839,35.05915554108325,90.10229988052569/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -159,7 +159,7 @@ the service of lire human race, on a broad scale,
 lias stamped them with the evidences of her des­  
 tination and their duty.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183992:1826050901:0444/pct:36.0044080604534,2.3205482746182517,30.1007556675063,92.6055067933149/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183992:1826050901:0444/pct:35.998740752400444,2.320269295503727,30.10126449446456,92.59838102107878/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -216,7 +216,7 @@ of her people— May the sleeping justice ot the
 Christian xvorld at length awake, and arrest the de­  
 vastating arm of her remorseless oppressor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826071101:0077/pct:33.604985618408435,60.82300565515582,14.765100671140939,12.333052580916856/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826071101:0077/pct:33.59961655216488,60.815688161693934,14.76806731639772,12.335579082451074/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -235,7 +235,7 @@ service of the human pace on a broad scale has stamp­
 ed them uni, (he evidences of her destination, and their  
 . duty.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826071801:0175/pct:58.22524517557735,19.385705847607795,17.74754824422651,2.5516834022445365/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826071801:0175/pct:58.21603669144393,19.383416017009214,17.750013179397964,2.555319316481613/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -260,7 +260,7 @@ justice of the Christian world at length a­
 wake, and arrest the devastating arm of her  
 remorseless oppressor. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn82014309:00414182926:1826072501:0020/pct:77.15795654726952,32.892944701716154,17.283225680172244,7.09615908471806/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn82014309:00414182926:1826072501:0020/pct:77.14285714285714,32.8884652049571,17.28473581213307,7.098597303554405/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -350,7 +350,7 @@ human race on a broad scale, has stamped them
 with the evidences ot her destination and their  
 duty
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826120101:0253/pct:64.21271159374002,25.766945555959744,15.282657297987864,29.089365829998787/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826120101:0253/pct:64.20245888551813,25.763821532492724,15.285539411357709,29.089880375040416/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -418,7 +418,7 @@ difficulties. Hut some in.-u are bom lor the public, j
 with the evidences of h iu.&#x27;.ion ami their du- i  
 tv.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1828070401:0072/pct:35.50642172004552,7.53963451530921,15.623475857584133,25.838073338981/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1828070401:0072/pct:35.50065019505852,7.538722168441432,15.626354573038578,25.83898031623104/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -545,7 +545,7 @@ change vast solitudes into flourishing dis­
 $203.3 tricts. From this day the United States  
 r take their place among the powers of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_fernandez_ver01:data:sn83030272:00175045065:1893020501:0430/pct:4.134762633996937,301.00212572122683,64.08882082695253,34.07227452171272/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_fernandez_ver01:data:sn83030272:00175045065:1893020501:0430/pct:1.0338885697874785,75.25053143030671,16.025272831705916,8.51806863042818/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -591,7 +591,7 @@ stha Erstg ombarrassment that Monroe contemplated
 eeanP leaving the country upon so short potice. The  
 t proper adjustment of his private affairs was 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_goethe_ver01:data:sn83030272:00175042891:1896081601:0014/pct:0.0,302.1954887218045,71.45003756574005,48.3609022556391/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_goethe_ver01:data:sn83030272:00175042891:1896081601:0014/pct:0.0,75.54887218045113,17.869222096956033,12.090225563909774/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -653,7 +653,7 @@ roe contemplated leaving the country
 upon so short notice. The proper adjust­  
 ment of his private affairs was a seriou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_gordon_ver01:data:sn89058370:00296021209:1896091001:0174/pct:9.676742233417297,11.237183868762816,36.85978169605374,113.62952836637047/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_gordon_ver01:data:sn89058370:00296021209:1896091001:0174/pct:7.267380802352447,8.434723171565278,27.662255828607435,85.22214627477786/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -178,7 +178,7 @@ that they may war singly against America, il
 tliev should think it necessary.” In /. second  
 letter, of the 30th of August following, he say
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215683:1840122501:0430/pct:53.86492181435067,66.55786119530582,14.605744704447156,5.953213647314836/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215683:1840122501:0430/pct:53.85894876912841,66.55268884053466,14.607821394248539,5.955341415397368/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

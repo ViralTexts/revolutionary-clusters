@@ -42,7 +42,7 @@ affection and support you are to expect from
 a tree and enlightened people.  
 I am, sir, Kc.. &amp;c.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186488:1848080801:0647/pct:124.78568766306374,278.0855068566819,51.15542303391726,19.80371067491261/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186488:1848080801:0647/pct:31.190609278926775,69.5120311869875,12.786472889882615,4.950262132006991/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -67,7 +67,7 @@ considered as a pledge of the affection anil sup-1
 port vou are to expect irorn a freeandenlightened  
 people. I am, &gt;ir. 6cc. See. .JOHN RANGOON. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215816:1848080901:0052/pct:44.37669376693767,26.456208967732923,12.882307394502517,4.58164548121246/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215816:1848080901:0052/pct:44.3723991096487,26.45436133808227,12.884286589889996,4.583653420862723/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -93,7 +93,7 @@ you are to expect from a free and enlightened
 people.  
 I am, sir, &amp;c., &amp;c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_harrison_ver01:data:sn82015672:00296021805:1848081001:0286/pct:143.07178631051752,66.80532445923461,58.87590428491931,26.580698835274543/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_harrison_ver01:data:sn82015672:00296021805:1848081001:0286/pct:35.76794657762938,16.701331114808653,14.718976071229827,6.645174708818636/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -128,7 +128,7 @@ port you are to expect from a free and enlight-
 ened people.  
 I am, sir, &amp;c. Ac.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn89080032:00415668132:1848081501:0438/pct:135.77319587628867,188.57142857142858,36.95876288659794,15.485926712692512/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn89080032:00415668132:1848081501:0438/pct:45.26356489238304,62.857142857142854,12.321175409202217,5.161975570897504/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -154,7 +154,7 @@ you are to expect from a free and enlightened
 people.  
 1 am, sir, &amp;c. &amp;c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn82016320:00296029816:1848081701:0699/pct:76.22901678657074,73.85807990459153,16.756594724220623,7.799642218246869/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn82016320:00296029816:1848081701:0699/pct:57.19640179910045,55.396541443053074,12.563718140929534,5.855694692903995/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -207,7 +207,7 @@ people. I am, sir, &amp;c.
 JOHN LANGDON.  
 This letter was despatched on the da
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_arbok_ver04:data:sn82003383:00295874417:1848082601:0360/pct:170.49870466321244,201.0894495412844,37.840025906735754,22.224770642201836/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_arbok_ver04:data:sn82003383:00295874417:1848082601:0360/pct:56.832901554404145,67.02981651376147,12.613341968911918,7.408256880733945/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -237,7 +237,7 @@ I am, sir, with sentiments of respect, ;
 your obedient servant,  
 JOHN LAXGDOX
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ibizanhound_ver01:data:sn83045461:00280654000:1853021701:0192/pct:40.815660685154974,27.442677132823796,19.9836867862969,12.76595744680851/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ibizanhound_ver01:data:sn83045461:00280654000:1853021701:0192/pct:40.815660685154974,27.447841355091924,19.995921696574225,12.771121669076637/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -261,7 +261,7 @@ on are to exnect from a free and enlightened penpi
 I am, sir, with sentiments of respect, your ohedient  
 humble servant,Jou Lsuno
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044851:1885022401:0694/pct:176.13981762917933,355.73696145124717,50.60790273556231,12.380952380952381/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044851:1885022401:0694/pct:44.04332129963899,88.93424036281179,12.654379631388942,3.0952380952380953/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -289,7 +289,7 @@ a free and enlightened people. 1 am, sir, with
 sentiments of res‘wt. your obedient humblq  
 servant, JOoAN LANGDON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn92064025:00514153383:1885031801:0582/pct:42.80042350449973,23.3719806763285,12.21545791424034,4.811594202898551/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn92064025:00514153383:1885031801:0582/pct:42.80924651491089,23.3719806763285,12.21545791424034,4.821256038647343/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -315,7 +315,7 @@ a f re9 and enlightened people. I am, sir, with
 sentiments of respect, your obedient humtle  
 servant John Langdon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_mitchell_ver01:data:sn92073907:00416156700:1885031901:0263/pct:69.77728983688833,96.92465988338859,17.079673776662485,6.402195038298846/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_mitchell_ver01:data:sn92073907:00416156700:1885031901:0263/pct:52.35331032318795,72.69921115811135,12.817696893630373,4.801646278724134/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -341,7 +341,7 @@ a free and enlightened people. I am, sir, witli
 sentiments ol respect, your obedient humblt  
 servant John Lanodon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ira_ver01:data:sn84023416:00202197504:1885032001:0885/pct:58.96778916544656,27.588432739478442,16.251830161054173,6.183836819003356/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ira_ver01:data:sn84023416:00202197504:1885032001:0885/pct:44.25119004027829,20.69455202685257,12.193335774441596,4.634650142008779/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -367,7 +367,7 @@ a free and enlightened peopla 1 am, sir, with
 sentiments of respect, your obedient humble ,  
 servant. John Lanodon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_galena_ver02:data:sn88065721:00279521572:1885032301:0103/pct:36.58789028808004,50.7341661187815,18.268069691219598,5.829498137190445/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_galena_ver02:data:sn88065721:00279521572:1885032301:0103/pct:36.5936403887068,50.7341661187815,18.27956989247312,5.829498137190445/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -397,7 +397,7 @@ people. I am, sir, with sentiments
 of respect, your obedient humble  
 servant. JoHn LANGDON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_grange_ver01:data:sn84026409:0028077649A:1885040801:0661/pct:334.6926354230067,97.59560338905428,40.596469872185025,28.532173116555988/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_grange_ver01:data:sn84026409:0028077649A:1885040801:0661/pct:83.7113715938499,24.39890084726357,10.153752473740296,7.133043279138997/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -447,7 +447,7 @@ you are to expect from a free and enlightened people
 1 am sir with sentiments of respect your obedient  
 tumble penant JOHN LASutiu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_dante_ver01:data:sn83030272:00175044838:1889040801:0829/pct:237.06020328381547,235.4049536544598,51.133698201720094,12.277769335967179/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_dante_ver01:data:sn83030272:00175044838:1889040801:0829/pct:59.26505082095387,58.85123841361495,12.783424550430023,3.0694423339917947/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -473,7 +473,7 @@ liglitened people.
 1 am, sir, with sentiments of respect, your  
 obedient, humble servant, Jonx Langdon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_ashbel_ver01:data:sn82015679:00295870321:1889041001:0388/pct:87.32244318181819,106.6623439779543,18.229166666666668,5.876154968390339/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_ashbel_ver01:data:sn82015679:00295870321:1889041001:0388/pct:65.5103007340753,79.99675798346571,13.675112479280132,4.409142486626682/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -541,7 +541,7 @@ I am, air, with sentiments of respect,
 your obedient, bumble servant,  
 John Lanodon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn91068247:00296023036:1889041201:0493/pct:25.746681415929203,106.65950590762621,16.42699115044248,9.194414607948442/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn91068247:00296023036:1889041201:0493/pct:19.31959618310054,80.0,12.321947171898769,6.895810955961332/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -577,7 +577,7 @@ support you aro to expect from a free and en­
 lam, sir. with sentiments of respect, your  
 cs- i cut, humble servant, John L v-qdon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_hickok_ver01:data:sn85032490:00237286637:1889053001:0460/pct:4.792668269230769,114.97349345450611,18.614783653846153,7.432651736449205/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_hickok_ver01:data:sn85032490:00237286637:1889053001:0460/pct:3.201082055906222,76.65260196905767,12.413585813044785,4.955101157632803/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

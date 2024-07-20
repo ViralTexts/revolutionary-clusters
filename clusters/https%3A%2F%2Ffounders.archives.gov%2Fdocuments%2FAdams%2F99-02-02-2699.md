@@ -58,7 +58,7 @@ g &quot; tice, to the puniihment of *i«kednefs and
 &quot; vice, and to the maintenance of true jp­  
 &#x27;r&lt;a. u ligion and virtue.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798121801:0002/pct:59.705272852866685,26.451975812122065,18.581625604420907,5.821965968218254/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798121801:0002/pct:59.722542021644024,26.45900717198706,18.575869214828458,5.828997328083251/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -107,7 +107,7 @@ in &quot;laintenanee of true Religion and Virtue, 0
 (h i sincerely hope and believe will avail much. Itl  
 t&gt;j. ij, t. JOHN ADAMS. [t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798121801:0002/pct:59.705272852866685,36.77401209393897,19.019111213446926,20.222190971733934/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798121801:0002/pct:59.722542021644024,36.77401209393897,19.013354823854478,20.22922233159893/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -322,7 +322,7 @@ justice to the punishment of wickedness and vice,
 and to the maintenance of  
 TRUE RELIGION AND VIRTUE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558330:1875060201:0533/pct:66.96367374914325,91.2100603105351,42.63193968471556,7.750545361221609/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558330:1875060201:0533/pct:16.749528544488257,22.802515077633775,10.663466483799073,1.9376363403054022/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -350,7 +350,7 @@ grant that they may truly and impartially administer
 justice to the punishment of wickedness and vice, and  
 to the maintenance of Thy true religion and virtue
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crowfoot_ver01:data:sn83030313:00271743981:1876070501:0056/pct:202.6743232157506,276.44408502772643,46.31665299425759,5.371996303142329/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crowfoot_ver01:data:sn83030313:00271743981:1876070501:0056/pct:67.55810773858354,92.14802834257547,15.438884331419196,1.7906654343807764/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -384,7 +384,7 @@ minister justice to the punishment of
 wickedness and to the maintenance of  
 Thy true religion and virtue. Pou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668168:1876071101:0821/pct:135.22222222222223,86.2835776837548,29.444444444444443,26.006100560858016/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668168:1876071101:0821/pct:45.08520622375895,28.761192561251598,9.817238824401088,8.668700186952671/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -497,7 +497,7 @@ administer justice to tho punishment of ;
 wiekedti&#x27; S&#x27; and vice and to the maintenance i  
 of Thy true religion and vir.ue. Give grac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_jeffers_ver01:data:sn90059522:0017503321A:1887010101:0003/pct:2.450678175092478,8.883515559293524,27.003699136868065,89.48696383515559/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_jeffers_ver01:data:sn90059522:0017503321A:1887010101:0003/pct:2.450678175092478,8.890524250070087,27.019112207151665,89.48345948976731/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -517,7 +517,7 @@ punishment of wickedness and vice, and
 to the maintenance of Thy true religion  
 and virtue. Give grace to all minister
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271769490:1887010601:0378/pct:66.85886515528765,27.305323158959272,13.772768968680383,2.8408568539119243/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271769490:1887010601:0378/pct:66.8632333027563,27.305323158959272,13.785873411086358,2.853115135913702/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

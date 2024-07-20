@@ -856,7 +856,7 @@ as it is laid down in the statu e—thinking it
 only necessary 10 . dd, that by another act the  
 rights of ihe widow are tak-n c-re of—that i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216419:1829060101:0372/pct:43.46661906461978,36.35067712045617,18.939664405569438,20.43240674744595/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216419:1829060101:0372/pct:43.45886132429056,36.346359425109874,18.94223332738414,20.43393910599042/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1069,7 +1069,7 @@ shall be kept together for the support of his family
 or be otherwise disposed of for that purpose, or  
 without so charging his lands, shall direct his estat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348872:1840033001:0278/pct:261.79018286814244,207.64740221833043,62.30991337824832,53.02101576182137/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348872:1840033001:0278/pct:65.43494996150885,51.904275499781114,15.574480369515012,13.253319713993871/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1107,7 +1107,7 @@ g &#x27;tl.n for the support ol hi* family, or be
 his estate to he kept *nd managed a*  
 ol ore aid, ar.d sh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186944:1840040201:0471/pct:83.25429756965026,25.423530786306813,13.722584469472435,12.968804766912022/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186944:1840040201:0471/pct:83.2419617721144,25.42056074766355,13.72549019607843,12.971183800623052/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1143,7 +1143,7 @@ offer that purpose, or without so charging
 his land*, shall direct his estate to be kept  
 and ma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348963:1840040901:0479/pct:64.40023179447556,12.216216216216216,30.674135599768206,83.55405405405405/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348963:1840040901:0479/pct:64.38779451525686,12.214565599243345,30.673039783700272,83.54614241318741/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1182,7 +1182,7 @@ without regard to the mother or maternal kindree
 ofsoch putcatnte. So wirerergra if derived from the  
 then it reverts to the maternal kindre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743154:1842061701:0674/pct:191.79351422898742,71.1340206185567,55.526141628060884,34.169530355097365/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743154:1842061701:0674/pct:63.931171409662475,23.711340206185568,18.508713876020295,11.389843451699122/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1361,7 +1361,7 @@ dren, if recognized by him, shall be thereby legitimatized. The
 issue also of marriages declared null in law, shall, nevertheless,  
 be legitimate* wii&lt;* m,, wvq
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83025241:0038334721A:1850012301:0155/pct:8.708989063750334,91.34166214014122,24.473192851427047,3.0744160782183596/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83025241:0038334721A:1850012301:0155/pct:8.71788032364186,91.34166214014122,24.46430159153552,3.078037298569618/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1636,7 +1636,7 @@ acknowledged by him as his child or children, shall be
 thereby legitimated; the tesus also of marrlages deem-  
 od mitil in Jtis, Il essatleless a fatte t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774674:1862040401:0557/pct:278.0487804878049,97.15775749674054,49.56958393113343,7.979139504563233/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774674:1862040401:0557/pct:69.53713670613563,24.289439374185136,12.396842482956584,1.9947848761408082/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2220,7 +2220,7 @@ descendants shall inherit only such por­
 tion of said property as the parent  
 through whom they would be entitled t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_echo_ver03:data:sn86064205:00206535581:1887040901:0253/pct:137.28179551122196,19.42623831524659,55.922693266832916,21.521435478671968/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_echo_ver03:data:sn86064205:00206535581:1887040901:0253/pct:34.33650397629815,4.856559578811647,13.987213472633712,5.380358869667992/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2259,7 +2259,7 @@ state of Texas be so amended as to here­
 after read as follows  
 Article 1985 Such allowance shall b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_echo_ver03:data:sn86088529:00206535581:1887042201:0372/pct:43.729281767955804,19.188783174762143,16.64364640883978,14.672008012018027/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_echo_ver03:data:sn86088529:00206535581:1887042201:0372/pct:32.80947775628627,14.391587381071608,12.49309201436861,11.006509764646971/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2288,7 +2288,7 @@ titled to if alive.
 Chapter 71. S. B. No. Kit!. Au net  
 to relieve the citizens of Calhoun county
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_audi_ver01:data:sn86088296:00200297672:1887042801:0731/pct:50.449486301369866,53.208482511704766,19.049657534246574,9.832002203249793/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_audi_ver01:data:sn86088296:00200297672:1887042801:0731/pct:37.85867237687366,39.90636188377857,14.30406852248394,7.380886808041862/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2351,7 +2351,7 @@ her surviving, one-half of fucli
 estate shall descend to such surviving hus  
 band and wife, and the readme thereof t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_calpet_ver02:data:sn86072173:00514150047:1891060701:1011/pct:17.7694180128347,39.99628804751299,10.97587961938482,5.902004454342984/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_calpet_ver02:data:sn86072173:00514150047:1891060701:1011/pct:17.7749502102235,40.005567928730514,10.97587961938482,5.8973645137342245/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2380,7 +2380,7 @@ ceased brothers or sisters, nor husband
 nor wife living, then to the grandfather,  
 grandmother, uncles, and their descen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_calpet_ver02:data:sn86072173:00514150059:1891081901:0131/pct:38.706091596265004,56.21036926519955,10.915962650066696,6.881760537113018/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_calpet_ver02:data:sn86072173:00514150059:1891081901:0131/pct:38.706091596265004,56.215031704587844,10.949310804802135,6.8957478552778815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2510,7 +2510,7 @@ shall also inherit from the father
 whenever they shall be recognized  
 by him as his children, but suc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:okhi:batch_okhi_comanche_ver01:data:sn83025010:00237284744:1898110301:0567/pct:51.30960376091336,13.6262876515843,14.623908663532573,23.06689268483505/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:okhi:batch_okhi_comanche_ver01:data:sn83025010:00237284744:1898110301:0567/pct:38.48866498740554,10.222975616116834,10.982367758186397,17.303429391054895/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2606,7 +2606,7 @@ use, was seized of an estate of inherit­
 ance, at any time durng the marriage,  
 unless he sghall have linquishe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_firefriend_ver01:data:sn91070630:00514152950:1899120101:0463/pct:17.013842225507325,31.96904907350845,13.452492944496708,26.929342292812056/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_firefriend_ver01:data:sn91070630:00514152950:1899120101:0463/pct:17.013842225507325,31.96904907350845,13.465931998387314,26.939523518631642/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

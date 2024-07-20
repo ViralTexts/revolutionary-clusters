@@ -39,7 +39,7 @@ ripdons of their fiersov.s, and
 forward the same to the Secretary  
 cf State, in order that proper appli
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805102501:0002/pct:79.31339977851606,14.796495195025438,18.361018826135105,11.164499717354438/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805102501:0002/pct:79.31339977851606,14.80120595439985,18.383167220376524,11.169210476728848/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -66,7 +66,7 @@ descriptions of their persons, and
 forward ihe same to the Secretary  
 i f State, in order that proper appli
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805102801:0003/pct:40.859977949283355,0.584388479198553,18.831312017640574,13.232224850424377/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805102801:0003/pct:40.87467842704888,0.5936644868048792,18.816611539875044,13.232224850424377/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -91,7 +91,7 @@ citizenship, &amp;c. and to forward the
 - fame to him at Washington, in order  
 that proper application may be mad
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1805110501:0178/pct:59.53276889306993,49.43192759483921,17.074317968015052,7.336799537839399/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1805110501:0178/pct:59.53276889306993,49.43192759483921,17.079544266750286,7.34963733230631/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -116,7 +116,7 @@ to procure proof of their citizenship, tsith dcs- |
 ciiptions of their persons, and forxtard the came  
 to the Secretary ij State, in order that proper ap
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805110601:0389/pct:40.38498556304138,12.125591171833946,18.498556304138596,5.754072517078297/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805110601:0389/pct:40.37721324095458,12.123998423748851,18.50141134205799,5.757695170541617/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -140,7 +140,7 @@ to procure proof &#x27;f their citizenship, with des­
 criptions of tier persons, and forward t he tame  
 to the Secretary cf State, in order that proper op
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805110901:0393/pct:42.057165078747815,54.24534530569127,18.102274936807312,5.163079360887363/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805110901:0393/pct:42.048989113530325,54.238183258515974,18.105235873509592,5.166798697297773/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -280,7 +280,7 @@ cuments to provetheir citizenship, wi 1 apply a thi% Office
 a;.d give a description of their persons, measures will then be  
 &#x27; alien to obtain (heir discharge
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1806081801:0058/pct:47.745098039215684,54.186795491143315,20.88235294117647,2.1900161030595813/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1806081801:0058/pct:47.733398676794906,54.17807116406376,20.88336192109777,2.193688616969892/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -299,7 +299,7 @@ and gire a description of their persor*, measures wiUthen be
 taken to obtain their discharge.  
 Thomas Newton, Collector
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1806082901:0076/pct:71.76675803638176,56.325543916196615,21.40543234487914,2.965350523771152/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1806082901:0076/pct:71.74887892376681,56.31646793425717,21.406327852516192,2.968901063486948/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -316,7 +316,7 @@ have been impressed into tile British service, for want of do­
 cuments to prove their citizenship, wi 1 apply at this Office,  
 a, id give a description of their persoua, measures will then b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1806090101:0080/pct:27.060886995740415,92.33505821474773,21.473314958656978,1.665588615782665/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1806090101:0080/pct:27.054108216432866,92.32012934518997,21.474198396793586,1.6693613581244948/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -333,7 +333,7 @@ have been impressed into the British service, for want of do­
 cuments to prove their citizenship, will apply at this Office  
 and give a description of their persons, measures will then b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1806090301:0084/pct:26.837777224021927,86.04838709677419,21.530027410914528,1.7580645161290323/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1806090301:0084/pct:26.831091180866967,86.03451056281244,21.53089187842551,1.7618126108692147/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -352,7 +352,7 @@ and give a description of their persons, measures Will then bo
 taken to obtain their discharge.  
 Thomas Newton, Collector
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1806090501:0088/pct:71.37844611528823,11.27831715210356,21.55388471177945,2.9773462783171523/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1806090501:0088/pct:71.36056126284139,11.276492476945478,21.554748183412677,2.9809092379873805/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -370,7 +370,7 @@ cuments to prove their citizenship, wi l apply at this Office,
 and give a description of their ;»ersoi«, measures w ill then be  
 taken to obtain their discharge
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1806090801:0092/pct:4.832248372558838,58.636803093780216,21.181772658988482,2.1430873348372543/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1806090801:0092/pct:4.831038798498122,58.62735621072982,21.182728410513143,2.146769776059288/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -388,7 +388,7 @@ cuments to prove their citirenship, will apply at this Office,
 and give a description of their persons, measures will then be  
 taken to obtain their discharge
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1806091001:0096/pct:27.375282025570318,85.80187157147466,21.30859864627726,2.1458535011293964/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1806091001:0096/pct:27.36842105263158,85.78803032747217,21.30952380952381,2.1495402484271655/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -406,7 +406,7 @@ cuments to prove their citizenship, wl 1 apply at this Office,
 and give a description of their persons, measures will then Us  
 takeu to obtain their discharge
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1806091201:0102/pct:71.1358024691358,35.701598579040855,21.308641975308642,2.2444695624091717/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1806091201:0102/pct:71.11824240928166,35.69583467872134,21.309553196741547,2.248143364546335/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -424,7 +424,7 @@ cuments to provetheir citizenship, will apply at this Office,
 and give a description of their persons, measures will then be  
 taken to obtain their discharge
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1806092201:0119/pct:8.370480435859337,15.61154520810078,21.074789499752352,2.1368202838462764/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1806092201:0119/pct:8.368408021787571,15.60905612244898,21.075761327061155,2.14046556122449/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -441,7 +441,7 @@ have been impressed into the British service, for want of do­
 cuments to prove their citizenship,, wid spply at this Office,  
 and give a description of their persons, measures will then b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1806092401:0120/pct:27.9265873015873,72.74935233160622,21.279761904761905,1.7001295336787565/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1806092401:0120/pct:27.919662782048103,72.73757487453456,21.28068435407885,1.7039015703415898/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -459,7 +459,7 @@ cuments to prove their citizenship, wi 1 apply at this Office,
 and give a description of their persons, measures will then be  
 taken to obtain their discharge
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1806100101:0132/pct:27.513487003433056,75.31219980787704,21.16233447768514,2.1453730387447965/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1806100101:0132/pct:27.50674184849228,75.30014406915319,21.163275312576612,2.149031535136866/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -477,7 +477,7 @@ cuments to prove their citizenship, wi l apply at this Office,
 and give a description of their persons, measures will then be  
 taken to obtain their discharge
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1806100301:0139/pct:51.30057803468208,19.360483614381163,20.423892100192678,2.0999045497931914/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1806100301:0139/pct:51.28822537924392,19.35740416732941,20.424993980255238,2.103547001749642/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -495,7 +495,7 @@ cuments to prove their citizenship, wi I apply at Ihrs Office,
 and give a description of their persons, measures will then be  
 taken to obtain their discharge
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1806100601:0140/pct:70.74065020777316,44.01736892891605,21.143974578342704,2.251527822450949/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1806100601:0140/pct:70.72336265884653,44.01029104357614,21.144916911045943,2.255185721177038/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -512,7 +512,7 @@ have been impressed into the British service, for want of do­
 cuments to prove their citizenship, wi 1 apply at this Office  
 and give a description of their persons, measures will then b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1806101501:0159/pct:29.202037351443124,57.88727959697733,20.90710647586709,1.621536523929471/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1806101501:0159/pct:29.194956353055286,57.878167794742645,20.908098933074683,1.6252164331811743/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -530,7 +530,7 @@ cuments to provetheir citizenship, wrl apply at this Office,
 and give a description of their persons, measures will then be  
 taken to obtain their discharge
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1806101701:0164/pct:28.812729498164014,56.37509850275808,20.979192166462667,2.111899133175729/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1806101701:0164/pct:28.805677924620657,56.36621493854396,20.980176211453745,2.1155058304443743/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -548,7 +548,7 @@ cuments to provetheir citizenship, wi.l apply at this Office
 and give a.description of their persons, measures will then be  
 tukeu to obtain their discharge
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1806102901:0185/pct:74.20625153827221,85.65897725439586,21.068176224464683,2.2422971447007582/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1806102901:0185/pct:74.18799212598425,85.64516129032258,21.0691437007874,2.245967741935484/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -567,7 +567,7 @@ and give a descri -tion of their persons, measures wiU thui bo
 taken to obtain their discharge.  
 Thomas Newton, Collector
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1806103101:0189/pct:73.425,66.33886828953732,21.25,2.998549089150411/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1806103101:0189/pct:73.40664833791553,66.32817537072856,21.25093726568358,3.002095422308188/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -585,7 +585,7 @@ cuments to provetheir citizenship, wi.l apply at this Office
 and give a desc ription of their persons, measures will then be  
 taken to obtain their discharge
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1806111701:0214/pct:48.59277708592777,47.24703589410427,21.19551681195517,2.1763846028910185/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1806111701:0214/pct:48.580677290836654,47.239363429684964,21.196464143426294,2.1800909386164338/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -603,7 +603,7 @@ cuments to prove their citizenship, wi I apply at this Office,
 a a! give a description of thr ir persons, measures will then Le  
 taken to obtain their discharge
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1806111901:0218/pct:49.69158647915125,47.50889679715303,21.243523316062177,2.1999352960207053/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1806111901:0218/pct:49.67932905772077,47.50121300339641,21.244449925999014,2.20362283681061/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -620,7 +620,7 @@ have been impressed into the British service, for want of do ,
 cuments to prove their citizenship, will apply at this Office,  
 Coll«tnr’s Office, ZSSI
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1806112101:0222/pct:71.1864406779661,50.34168564920273,21.236291126620138,3.5144809632281158/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1806112101:0222/pct:71.16870171941191,50.33349601431593,21.237229005731372,3.5179762485765416/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -638,7 +638,7 @@ cuments to prove their citizenship, will apply at this Office
 and give a description of their persons, measures will then be  
 taken to obtain their discharge
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1806112401:0226/pct:48.68355688027819,49.983739837398375,21.087928464977644,2.2113821138211383/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1806112401:0226/pct:48.67146759374224,49.97561372134612,21.088899925502854,2.2150869777271986/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -656,7 +656,7 @@ cuments to provetheir citizenship, will apply at this Offic­
 ami give a description of their persons, measures will then be  
 taken to obtain their discharge
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1806120101:0238/pct:49.170997277901506,47.034103765960886,21.182875525859934,2.2466461936318085/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1806120101:0238/pct:49.158832261256805,47.02650290885585,21.183819891143,2.250323206205559/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -674,7 +674,7 @@ cuments to prove their citizenship, will apply at this Office,
 and jive a description of their persons, measures will then be  
 taken to obtain their discharge
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1806120301:0242/pct:48.886138613861384,47.08549222797927,21.163366336633665,2.2506476683937824/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1806120301:0242/pct:48.874041078940856,47.077869515946254,21.164315763424895,2.2543305811882792/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -692,7 +692,7 @@ cuments to prove their citizenship, wi.l apply at this Office,
 and give a description of their persons, measures will then be  
 taken to obtain their discharge
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1806121001:0257/pct:52.973240832507436,5.131494547787043,21.18434093161546,2.1969211032713276/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1806121001:0257/pct:52.9601189001734,5.130671797338464,21.185286103542236,2.2005772005772006/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

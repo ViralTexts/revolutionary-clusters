@@ -59,7 +59,7 @@ Olinstead and others, versus Elizabeth
 Sergeant and Esther Waters, Execu­  
 trixes oi the late Air. Kittcnhouse,an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809031401:0089/pct:41.74191121143717,80.57460851559466,17.2686230248307,4.40015529959881/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809031401:0089/pct:41.73406056046643,80.56418219461698,17.271644411008715,4.403899240855763/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -133,7 +133,7 @@ With the highest consideration,
 Your obedient servant,  
 (Signed) SIMON SNYDER
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809122201:0003/pct:24.84100982848333,43.27045628345654,17.382925419155907,40.339026255416776/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809122201:0003/pct:24.85385751911094,43.27470473277254,17.395773109783516,40.34327470473277/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -196,7 +196,7 @@ I cm, Sir,
 V our obedient servant,  
 (Signed) SIMON SNYDER
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809122801:0287/pct:22.492401215805472,43.82479655337482,17.61129983908457,24.317855433221638/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809122801:0287/pct:22.488380407579548,43.81955247098241,17.614110356334166,24.3189342267959/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -363,7 +363,7 @@ I am, Sir,
 (Signed)  
 SIMON SNYDER
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810010901:0015/pct:40.53243344581927,13.908720040795512,36.164229471316084,81.37429882712901/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810010901:0015/pct:40.524835988753516,13.906947100063736,36.16369884411122,81.36817505842363/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

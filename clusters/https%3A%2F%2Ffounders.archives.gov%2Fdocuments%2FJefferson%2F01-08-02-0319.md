@@ -106,7 +106,7 @@ a:i unirulh.- &#x27;I u*we is no vice so mean, so pitiful, go&#x27;
 contempt i V; *•:: 1 he who permits him.-elf to Irll a lie&#x27;  
 once, v.:ll lii.d it r n •.esoml and (lord |i,„o. A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826092901:0236/pct:5.891594658287509,48.193494178369946,17.81618224666143,30.47653342936022/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826092901:0236/pct:5.89066918001885,48.18771003360538,17.818619750759243,30.476876300208033/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -135,7 +135,7 @@ t iry, reading -v thing m the original and not to &gt;
 tian-la&#x27;i u. Ii rc id (i ,;ds miip, (Jj^«rv- of Greece. &#x27;  
 Ti&#x27;i; tv ill v- yo-1 a rhgr \•] v&gt; v „f that rirld. The
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826092901:0236/pct:5.923016496465043,79.10214860160845,17.75333857030636,7.982235025807226/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826092901:0236/pct:5.922086082312284,79.09265482477197,17.755785946172374,7.985277644423108/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -213,7 +213,7 @@ Hear Peter,
 Your air.-ctionale uncle.  
 Til: .1 KFFHKSOX
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826092901:0236/pct:23.833464257659074,4.477253631016684,17.674783974862528,33.56139719121354/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826092901:0236/pct:23.829720389569587,4.476716274603937,17.67724369043879,33.56136981917107/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -408,7 +408,7 @@ Dear Peter,
 Your affectionate uncle.  
 TH: JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216365:1826100301:0164/pct:25.94572918059083,2.8690339148144868,37.36131533217484,91.41060834145046/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216365:1826100301:0164/pct:25.942261427425823,2.8687798831237825,37.360776975853156,91.40546602916002/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -550,7 +550,7 @@ dispositions.”
 LANCASTER  
 BOOK STORE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83020243:00517172194:1828042901:0036/pct:59.605551497443386,16.286693488302788,23.49646944241539,54.567128594844284/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83020243:00517172194:1828042901:0036/pct:46.207070071707136,12.62221880052352,18.222417914203046,42.301177919778276/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -864,7 +864,7 @@ and !»..b.t will soon reconcile it to heal&#x27;h, and
 rtndn it ti-urly as useful j» if you gave to lhai  
 tbe more precious hours &lt; f ihe day 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216420:1829122901:0304/pct:24.818903070024145,27.88497448026889,17.91997240427734,12.124984439188347/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216420:1829122901:0304/pct:24.814623210898432,27.88150360965895,17.92263033856412,12.127624263546593/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1163,7 +1163,7 @@ A little walk of half an hourin the morning when you
 first rise is advisable. It shakes off sleep, and produ­  
 ces other good effects in the animal economy.— [ Jeffer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1839043001:0277/pct:49.46769724369258,73.25303706780188,14.598220796266588,5.6899595057626415/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1839043001:0277/pct:49.46769724369258,73.25303706780188,14.607943221039328,5.6899595057626415/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1189,7 +1189,7 @@ first rise, is advisable. It shakes oflT sleep
 and produces other good effects in the an  
 raal economy. Jeffersot
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn87065543:0029587823A:1839051101:0568/pct:26.240286909742977,110.99637482148742,20.41243275552899,9.45842030099967/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn87065543:0029587823A:1839051101:0568/pct:19.689041710270594,83.24728111611557,15.32366571983854,7.096561573107767/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1263,7 +1263,7 @@ in the morning, when y first rise, is advisable.
 It shakes off sleep, and produces other good effects  
 in the animal economy. Jefferson&#x27;s &quot; Memoirs:
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_green_ver02:data:sn84022687:00202199240:1839052501:0077/pct:78.47843775427177,7.151162790697675,46.37917005695687,81.13372093023256/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_green_ver02:data:sn84022687:00202199240:1839052501:0077/pct:58.90494606146957,5.363372093023256,34.80561774882963,60.85755813953488/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1310,7 +1310,7 @@ a few days since, who was looking very ear­
 nestly at the skeleton of &amp; horse attached to a dearborn,  
 heavily loaded with oysters—** I can tell you how t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1839060401:0297/pct:33.86770652801849,88.25370331733778,14.500288850375506,5.779261422908408/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1839060401:0297/pct:33.86770652801849,88.25370331733778,14.509917196225688,5.782738716183323/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1358,7 +1358,7 @@ what will be the next, yet follow truth, Justice, and
 plain dealing, and never fear their leading you out of  
 the labyrinth in the easier manner possib.e.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1839070201:0313/pct:33.53019341503027,36.606865083480244,14.779270633397314,2.5510733174323343/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1839070201:0313/pct:33.53019341503027,36.61377856130527,14.78911363748216,2.5476165785198246/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1507,7 +1507,7 @@ The Toronto Pa. riot scouts at our idea
 of reducing the military, nd making the,  
 reduction practical! e by yielding to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn83016802:00415668843:1839121901:0116/pct:72.0904664677242,45.40337711069419,25.694989791110412,6.48452157598499/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn83016802:00415668843:1839121901:0116/pct:72.1009371237108,45.40728580362727,25.694989791110412,6.4962476547842405/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1532,7 +1532,7 @@ dignity. An Ohio editor, in speaking of tho
 river, says it has got so low that it is beneath  
 his notice
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn87065694:00295877595:1839122701:0427/pct:102.1978021978022,46.23283969300616,18.768074031231926,8.701761971678737/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn87065694:00295877595:1839122701:0427/pct:76.67052357535435,34.67733218030483,14.087358981776106,6.529023889309264/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1702,7 +1702,7 @@ hour in the morning when you first rise in advisa-
 ble. It shakes of sleep, and produces other good  
 effects in the animal economy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023294:00200296096:1840052201:0013/pct:190.80851063829786,68.33998859098688,61.02127659574468,34.968625213919/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023294:00200296096:1840052201:0013/pct:47.7122792083422,17.08499714774672,15.258565652266439,8.74215630347975/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2015,7 +2015,7 @@ Pills.  An individual who had purchased some
 pills, took a notion to cut one in half, when he  
 found it a good pea rolled in magnesia. He pian
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn82014968:00212472025:1842091601:0488/pct:262.1684867394696,274.4006613392119,60.53042121684867,64.81124276660238/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn82014968:00212472025:1842091601:0488/pct:65.56769410846664,68.60016533480298,15.138509559110418,16.202810691650594/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2128,7 +2128,7 @@ tay. flor a long jonur:ev, as on enfeebled
 w!,ite does ott his horse. and be will tire  
 &#x27;he hes&#x27; horses. A little walk of half a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn84026897:00237288324:1843071201:0423/pct:77.59767957686401,54.74602982179658,14.758573622248763,7.394835737665171/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn84026897:00237288324:1843071201:0423/pct:77.60905420007963,54.75411160948802,14.764260933856566,7.390794843819453/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2151,7 +2151,7 @@ has occasioned so much degeneracy of the
 human body. An Indian goes on foot near­  
 ly as far in a day as an enfeebled white wit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_danby_ver01:data:sn98060050:0028077733A:1844030801:0258/pct:83.78158109209454,111.36708093361625,19.51915240423798,7.153682934222491/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_danby_ver01:data:sn98060050:0028077733A:1844030801:0258/pct:62.86180187525479,83.52531070021219,14.65552384834896,5.365262200666868/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2184,7 +2184,7 @@ er we have uot lost ore more than we have
 ‘much deg eneracy of the human body. An In­  
 “dian goes on foot nearly as far in a day as a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015210:1844040901:0057/pct:79.46520904121732,83.88837016287997,14.84709706012705,4.834526403153854/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015210:1844040901:0057/pct:79.47505786182104,83.8952865096656,14.842172649825184,4.834526403153854/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2394,7 +2394,7 @@ hour in the morning, when you first rise, is advisable.
 It shakes ofT sleep, and produces other good effects in  
 the animal economy. Jefferson&#x27;s Memoirs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022615:1849022801:0465/pct:64.57868303571429,34.92639214849584,20.326450892857142,10.283763601450822/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022615:1849022801:0465/pct:48.44425840658574,26.20012801365479,15.250453467280591,7.712822701088116/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2452,7 +2452,7 @@ w
   
 The Canal Bank, Albany. There ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_bia_ver01:data:sn83021203:00517172030:1849031901:0200/pct:42.54079254079254,10.440901910096223,50.65268065268065,110.36909378141605/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_bia_ver01:data:sn83021203:00517172030:1849031901:0200/pct:32.976032759243644,8.098983453290792,39.26291701794532,85.53461452845589/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2591,7 +2591,7 @@ cently iato the Mississippi from” a steamboat
 in a fit of insanity, and swam ashore. The  
 duckiog completely restored him to his wits
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153218:1849040401:0719/pct:30.829931972789115,86.33992610302109,12.231292517006803,9.660943273201477/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153218:1849040401:0719/pct:30.829931972789115,86.33992610302109,12.235827664399093,9.668188075056147/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2652,7 +2652,7 @@ portance of training her daughters lo habits
   
 T domestic industry, to the cares and uu.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_danby_ver01:data:sn98060050:00280777341:1849042001:0281/pct:91.21919014084507,78.23897186523098,33.296654929577464,50.086835706842656/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_danby_ver01:data:sn98060050:00280777341:1849042001:0281/pct:68.43495487563284,58.68357068426537,24.983491085186,37.56512678013199/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2717,7 +2717,7 @@ animal—for no one thing has cause such a
 degeneracy of the human body. An Indian  
 goes m foot nearly as far in a day as a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182975:1849062101:0071/pct:49.62613144431326,80.02996866911865,14.384100747737111,7.192480588475685/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182975:1849062101:0071/pct:49.61636828644501,80.01906837374013,14.38618925831202,7.194906020157995/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2768,7 +2768,7 @@ hour in the morning when you first rise is ad­
 visable. It shakes off sleep, and produces  
 other good effects in the animal econom
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_angelou_ver01:data:sn83030362:print00211110004:1849111101:0004/pct:25.53641583559988,54.56967450480713,9.67059534602599,4.540715857755126/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_angelou_ver01:data:sn83030362:print00211110004:1849111101:0004/pct:25.54019341190692,54.57546623421754,9.674372922333031,4.540715857755126/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2813,15 +2813,15 @@ when you first rise is advisable. It shakes
 oft sleep and produces other good effects &#x27;  
 in the animal economy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027510:1850022701:0657/pct:105.62352012628256,72.1273516642547,19.810576164167326,25.745296671490593/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027510:1850022701:0657/pct:79.23820801263075,54.095513748191024,14.860864416814684,19.319826338639654/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1850-11_27_149/page/n59/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1850-11_27_149/page/n59/mode/1up?view=theater)
 
-#### 1850-11-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1850-11-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2860,7 +2860,7 @@ on his horse, and wili tire the best horses.
 Where Silver comes from.—The pro­  
 ■ duet of the silver mines of Mexico, for th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159336:1854111301:0285/pct:66.2313999392651,42.72890484739677,12.951715760704525,8.460502692998205/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159336:1854111301:0285/pct:66.23646118028141,42.72890484739677,12.956777001720821,8.464242968282466/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2956,7 +2956,7 @@ to the use of man, but I Jo*bt whether wo have
 no&#x27;, lost more than wo liavo gained by this animal.  
 For no one thing has caused so mucfo de­
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn84027851:00295862282:1855042401:0205/pct:81.04257983719474,38.70216306156406,17.188478396994366,3.915696062118691/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn84027851:00295862282:1855042401:0205/pct:81.04257983719474,38.705860602699204,17.209350866207473,3.919393603253836/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3444,7 +3444,7 @@ fects in the animal economy.
 arinors -A polson of any son  
 description and degree of p
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_idacox_ver02:data:sn85042527:00202193997:1867051701:0356/pct:247.90825158684362,144.81538280051905,51.45701096364686,82.08092485549133/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_idacox_ver02:data:sn85042527:00202193997:1867051701:0356/pct:82.63608386228121,48.271794266839684,17.152336987882286,27.360308285163775/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3477,7 +3477,7 @@ j A Cause oe Melancholy.—There is a
 | large class who would confound nature and  
 graee. These are chiefly woman. They si
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jennet_ver02:data:sn85026941:00393348434:1867062701:0148/pct:63.91310561669287,64.25690021231422,13.948835215092183,10.9447983014862/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jennet_ver02:data:sn85026941:00393348434:1867062701:0148/pct:63.9039725635896,64.25007960938329,13.951605220539202,10.947174751441814/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3508,7 +3508,7 @@ when you first rise, is advisable. It shakes
 ofl sleep, an 1 produces other good effects in  
 tliu annual ccow my
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187134:1867070501:0112/pct:55.37555228276878,63.794185316879314,13.242513500245458,10.050198703200167/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187134:1867070501:0112/pct:55.368756902687444,63.78751437833316,13.244978934020534,10.052633413503433/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3562,7 +3562,7 @@ The nest best exercise for the female
   
 is dancing this brings into action 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_datsun_ver01:data:sn85033526:00212472554:1870091501:0159/pct:4.718988609337839,38.57609139126887,11.215421204155714,8.924928600571196/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_datsun_ver01:data:sn85033526:00212472554:1870091501:0159/pct:4.36896950984176,35.6857565179105,10.374372829023542,8.261785703053746/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3610,7 +3610,7 @@ the Republicans are right, they will
 join them--if we are right, and stand  
 by our principles like honest men, the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00280779155:1871060801:0093/pct:182.5944170771757,21.179948931595217,212.23316912972086,109.7164359629082/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00280779155:1871060801:0093/pct:45.64860426929393,5.294987232898804,53.058292282430216,27.42910899072705/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3703,7 +3703,7 @@ never suppose that in any possible situation, or
 any circumstances, it is best for you to do a  
 disdonorable thing.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_braniff_ver01:data:sn86053573:00294558378:1877121801:1285/pct:329.35420743639924,329.10505836575874,49.90215264187867,12.529182879377432/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_braniff_ver01:data:sn86053573:00294558378:1877121801:1285/pct:82.35869831172009,82.27626459143968,12.478590653290922,3.132295719844358/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3724,7 +3724,7 @@ Justice is the end of Government&quot;;
 The union of the States is strengthened  
 by every occasion which puts it to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_baxter_ver01:data:sn83009653:00279524068:1881041201:0306/pct:45.66482614535144,121.97767810576823,37.53171168482316,10.93146969855012/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_baxter_ver01:data:sn83009653:00279524068:1881041201:0306/pct:15.21933751119069,40.65498539841469,12.508703869491693,3.643443192879989/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3768,7 +3768,7 @@ face and stature
 An honest heart being the first blessing, a knowing  
 head is the second.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_lorca_ver01:data:sn83030272:00206533109:1888102101:0609/pct:283.1926323867997,41.91580231848688,50.95932463545664,8.663819402074436/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_lorca_ver01:data:sn83030272:00206533109:1888102101:0609/pct:70.82533589251439,10.47895057962172,12.744721689059501,2.165954850518609/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3786,7 +3786,7 @@ Never suppose that in any possible sitnation or under
 any circumstances it is best for you to do a dishonora­  
 ble thing.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_lorca_ver01:data:sn83030272:00206533109:1888102101:0609/pct:283.26937835763624,123.9170225747407,50.65234075211051,7.74862721171446/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_lorca_ver01:data:sn83030272:00206533109:1888102101:0609/pct:70.84452975047985,30.979255643685175,12.667946257197697,1.937156802928615/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3805,7 +3805,7 @@ blessing, a knowing head is the sec­
 ond.— Thoughts of Jejferson.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_neely_ver01:data:sn85059778:00340582135:1888102601:0356/pct:33.225352112676056,93.34407411136844,12.056338028169014,4.007652804350015/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_neely_ver01:data:sn85059778:00340582135:1888102601:0356/pct:33.22067314462752,93.33467579540878,12.05933436605173,4.010605450396026/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3824,7 +3824,7 @@ ble situation or under any circutn
 stances it is best for you to do a dis­  
 honorable thing.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_neely_ver01:data:sn85059778:00340582135:1888102601:0356/pct:71.12676056338029,56.973114489980865,11.690140845070422,2.950357466518981/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_neely_ver01:data:sn85059778:00340582135:1888102601:0356/pct:71.1167441205464,56.96737817156665,11.693188752757827,2.953416565982011/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3857,7 +3857,7 @@ No more than of face and stature.
 An honest heart being the first bless­  
 ing, a knowing head is the second.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn90061417:00294559966:1888110901:0609/pct:111.29824561403508,51.02229257353911,170.10526315789474,292.78459306160136/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn90061417:00294559966:1888110901:0609/pct:27.834327834327834,12.755573143384778,42.54124254124254,73.19614826540034/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3875,7 +3875,7 @@ a knowing head is the second.
 Is uniformity of opinion desirable? No  
 more than of face and stature.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn84024448:0029602076A:1888111801:1219/pct:180.26315789473685,99.7223764575236,49.690402476780186,9.66129927817879/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn84024448:0029602076A:1888111801:1219/pct:45.0745113218502,24.9305941143809,12.425004838397523,2.4153248195446975/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3892,7 +3892,7 @@ Never suppose that in any possible
 situation, or under any circumstances, it  
 is best for you to do a dishonorable thing.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn84024448:0029602076A:1888111801:1219/pct:180.80495356037153,223.87562465297057,50.077399380804955,7.8289838978345365/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn84024448:0029602076A:1888111801:1219/pct:45.20998645248694,55.96890616324264,12.521772788852331,1.9572459744586341/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3912,7 +3912,7 @@ blessing, a knowing head is the sec
   
 ond.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_hubert_ver01:data:sn89058128:0029602112A:1888120601:0947/pct:73.95315826827537,32.08521626856036,15.596167494677076,2.2207876049063913/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_hubert_ver01:data:sn89058128:0029602112A:1888120601:0947/pct:55.474711623779946,24.067140090380892,11.712511091393079,1.6655907036797934/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3942,7 +3942,7 @@ ing, a knowing head is the second.
 bcieuce is more important in a re­  
 publican than in any other govern
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271768515:1889020701:0206/pct:82.29250066720043,12.027013606117787,11.929543634907926,3.3767007647234086/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271768515:1889020701:0206/pct:82.29250066720043,12.027013606117787,11.933991637754648,3.3800112556692157/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3962,7 +3962,7 @@ I Never suppose that In any possiblesituation
 or under any circumstances It Is best for you  
 I to do a dishonorablethin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_borges_ver01:data:sn83030272:00175044851:1889070401:0630/pct:0.0,261.3349551467234,63.564668769716086,16.344838072069333/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_borges_ver01:data:sn83030272:00175044851:1889070401:0630/pct:0.0,65.33373878668085,15.891167192429021,4.086209518017333/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4017,7 +4017,7 @@ situation or under any circumstances
 it is best for you to do a&#x27;dishonerable  
 thin.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_earhart_ver01:data:sn85032814:00237283260:1890032701:0284/pct:12.297843665768195,31.00747597009612,21.074797843665767,5.790910169692655/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_earhart_ver01:data:sn85032814:00237283260:1890032701:0284/pct:8.20832631046688,20.671650646730747,14.056969492668127,3.8685178592618965/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4090,7 +4090,7 @@ Never suppose that in any possible sit­
 uation or under any circumstances it is  
 best for you to do a dishonorable thing.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_galena_ver02:data:sn88065721:00279521675:1890060901:0102/pct:4.160272804774084,30.035456936978154,15.021312872975278,3.3970033169392657/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_galena_ver02:data:sn88065721:00279521675:1890060901:0102/pct:4.160272804774084,30.04308208471539,15.038363171355499,3.4046284646765033/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4112,7 +4112,7 @@ situation, or under any circumstances it is
 best for you to do a dishonorable thing.?  
 [Thomas Jefferson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295861964:1890072301:0394/pct:25.41946308724832,22.525304511923142,12.164429530201343,3.7913878881454797/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295861964:1890072301:0394/pct:25.423457973793543,22.531023045691086,12.17641418983701,3.7942471550294505/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4148,7 +4148,7 @@ Never suppose that in any possible
 situation, or under any circumstances,  
 it is best to do a dishonorable thing
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_hiko_ver01:data:sn84022047:00340582408:1890072601:0326/pct:39.23761698242411,70.33796016898009,17.14220497603287,17.878696439348218/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_hiko_ver01:data:sn84022047:00340582408:1890072601:0326/pct:39.22866271109083,70.3273495248152,17.143998174349612,17.879770704480315/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4288,7 +4288,7 @@ best for you to do a dishonorable thing,
 An honest heart being the first blessing  
 a knowing head is the second.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762507:1891011401:0234/pct:5.848243870112658,48.65241047703404,10.58648111332008,1.2147285840819941/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762507:1891011401:0234/pct:5.852385685884692,48.66190054409718,10.582339297548046,1.2115652283942806/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4338,7 +4338,7 @@ give the earth itself and all it contains
 rather than do an itnrro.-al act.&quot;  
 The Btory of tho play is that of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lilac_ver01:data:sn86071868:0017503173A:1894010701:0518/pct:18.465318465318465,50.26276782104838,15.95161595161595,2.870233122220725/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lilac_ver01:data:sn86071868:0017503173A:1894010701:0518/pct:18.47161847161847,50.271751336297896,15.964215964215963,2.870233122220725/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4376,7 +4376,7 @@ Never suppose that in any possible situation
 or under any circumstances it is best for you to  
 do a dishonorable thin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175045181:1895012301:0288/pct:278.97553516819573,77.75917186786421,51.52905198776758,36.35256507839854/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175045181:1895012301:0288/pct:69.74388379204893,19.439792966966053,12.882262996941895,9.088141269599635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4463,7 +4463,7 @@ Never suppose that in any possible situ­
 ation or under any circumstances it is best  
 for you to do a dishonorable thin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_elliot_ver01:data:sn87068079:00332896490:1895022101:0032/pct:86.58462473412337,64.53147877013177,9.738681251899118,2.964860907759883/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_elliot_ver01:data:sn87068079:00332896490:1895022101:0032/pct:86.57147197326447,64.52360619738928,9.740999544280722,2.967549103330487/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4481,7 +4481,7 @@ ation or under any circumstances it is best
 for you to do a dishonorable thing.  
 1 profess so much of tho
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_belair_ver01:data:sn89060136:00279522564:1895022201:0711/pct:106.26576139670223,97.21860060843112,15.674102812803104,2.4626973779516153/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_belair_ver01:data:sn89060136:00279522564:1895022201:0711/pct:82.3653219744425,75.35271883537293,12.147331495865698,1.9123535795816025/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4503,7 +4503,7 @@ situation or under auy circumstances
 it is best for you to do a dishonorable  
 thing
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_dogwood_ver01:data:sn84026925:00295862208:1895041001:0034/pct:18.94145677331518,56.925160853369455,18.090537780803267,5.034428265041201/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_dogwood_ver01:data:sn84026925:00295862208:1895041001:0034/pct:18.94145677331518,56.9326861572036,18.107556160653505,5.034428265041201/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4522,7 +4522,7 @@ stances it is best for you to do n dis?
 honorable thing.  
 ? Of every 10,000 clergymen h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551165:1895041701:0316/pct:88.19768871403983,32.401148254468005,10.78190312269486,2.70395406982128/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551165:1895041701:0316/pct:88.20588476354398,32.407321665586316,10.78190312269486,2.70395406982128/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4541,7 +4541,7 @@ stances it is best for you to do a dis?
 honorable thing.  
 ? Of every 10,000 clergymen be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551165:1895041701:0317/pct:87.7533681271999,32.53056011676701,10.365335598980458,2.700237182995804/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551165:1895041701:0317/pct:87.7533681271999,32.53664173204403,10.369381397418781,2.7032779906343123/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4622,7 +4622,7 @@ able thing V,
 Give up money, give up sclence, give up earth itself,  
 and all it contains, rather than do an immoral act.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175042817:1895062501:0315/pct:277.1231828615149,381.42101284958426,50.19127773527161,3.401360544217687/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175042817:1895062501:0315/pct:69.29405012435431,95.35525321239606,12.55022001147886,0.8503401360544217/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4640,7 +4640,7 @@ up earth itself, and all it contains, rather
 than do an immoral act.—Thomas Jeffer­  
 son
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685348:1895070401:0211/pct:3.132691877377489,83.76412320074292,14.499888118147236,1.9346850332765826/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685348:1895070401:0211/pct:3.131991051454139,83.75116063138347,14.502237136465324,1.9382544103992572/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4658,7 +4658,7 @@ up earth itself, and all it contains, rather
 than do an immoral act.—Thomas Jeffer­  
 son
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685348:1895071101:0219/pct:4.635761589403973,81.79155103299414,14.282560706401766,1.9118100524205983/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685348:1895071101:0219/pct:4.634738468329287,81.77894250038538,14.284926064886339,1.9153691999383382/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4676,7 +4676,7 @@ up earth itself, and all it contains, rather
 than do an immoral act.—Thomas Jeffer­  
 son
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685348:1895071801:0227/pct:5.05050505050505,66.28886506356257,14.27316644707949,1.868586307244601/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685348:1895071801:0227/pct:5.049396267837541,66.27871362940276,14.275521405049396,1.8721286370597243/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4698,7 +4698,7 @@ Trade in general being nothing else
 but the exchange of labor for labor,  
 the value of all things is most justl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346812:1895072401:0277/pct:32.996679579413396,37.84527463223622,11.676812396236857,3.926341411789607/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346812:1895072401:0277/pct:33.005902969931746,37.84880234239955,11.681424091496034,3.9333968321162733/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4717,7 +4717,7 @@ Give up money, give up science, give
 up earth itself, and all it contains,  
 rather than do an immoral act
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn84026409:00280776531:1895072401:0190/pct:186.79577464788733,85.2158744003489,40.25821596244131,9.419973833406019/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn84026409:00280776531:1895072401:0190/pct:46.71265042559436,21.303968600087224,10.067508071617258,2.3549934583515046/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4735,7 +4735,7 @@ up earth itself, and all it contains, rather
 than do an immoral act.—Thomas Jeffer­  
 son
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685348:1895072501:0236/pct:6.130698405569279,73.85782871302463,14.641814507073883,2.0288059470342263/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685348:1895072501:0236/pct:6.12932195779075,73.84639207184887,14.644140098787606,2.0323629606689377/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4753,7 +4753,7 @@ up earth itself, and all it contains, rather
 than do an immoral act.—Thomas Jeffer­  
 son
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685348:1895080101:0243/pct:4.116865869853918,76.35886349598518,14.32049579459938,1.9765287214329834/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685348:1895080101:0243/pct:4.115954857269307,76.34707426277598,14.322859039610533,1.9800833719314497/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4770,7 +4770,7 @@ Give tip money, give up science, give
 up earth itself, and all it contains,  
 rather than do an immoral act
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_curry_ver01:data:sn85029677:0021247308A:1895080801:1104/pct:108.3931777378815,43.304021911489116,18.985637342908436,1.9028398443131036/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_curry_ver01:data:sn85029677:0021247308A:1895080801:1104/pct:81.32435465768799,32.47801643361684,14.231200897867565,1.4271298832348278/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4812,7 +4812,7 @@ CHORD OF COMPACT.
 However strong the chord of  
 compact mav be, there is 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_coldplay_ver02:data:sn83007654:00393342754:1898082601:0051/pct:13.034650785056849,27.98581001182499,11.302111532214402,5.459203783996847/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_coldplay_ver02:data:sn83007654:00393342754:1898082601:0051/pct:13.032886723507918,27.98305251748941,11.303965353904452,5.461129175288206/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

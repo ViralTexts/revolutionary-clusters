@@ -384,7 +384,7 @@ the ſeafaring buſineſs, and for keeping the marine claſs
 , nature and extent of the privilege.r and reltriftions re  
 - &quot; °&quot;f commercial.ntercourfe wirh other nations;&quot;! a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796111201:0002/pct:52.451225612806404,53.46518987341772,22.48624312156078,2.199367088607595/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796111201:0002/pct:52.46998499249625,53.46914556962025,22.4799899949975,2.2033227848101267/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -484,7 +484,7 @@ lulsht offer. P trti &#x27;ul iffy they may concur witla us in rcciproc »♦ 01
 t 1 e Inti-** to ho h*vi&#x27;*d mi each side. or in cofnp&#x27;’mnf mg any oxens*  
 | duty by Of|itititlo«vt advantage* of nnotlur nn* ion. Our commerc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1829082801:0112/pct:34.474545995832095,82.56571295650151,15.36171479607026,8.50197720400093/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1829082801:0112/pct:34.46941509153148,82.5561111757181,15.364389542094557,8.504864906772106/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -646,7 +646,7 @@ j 1 parts of the world, could everj country be em- j
 ice, and each be free to exchange with others :  
 - :rj?!?;.?es for mutual wantv, the jjre &#x27;teat mas
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664266:1843052601:0604/pct:1.2675216224276766,46.147118841706344,15.21025946913212,5.276455154989797/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664266:1843052601:0604/pct:1.2724922954568048,46.153596994137274,15.220200815190378,5.276455154989797/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -665,7 +665,7 @@ altogether, it may be proper for us to do the same by
 theirs.&quot; The oppressions on our agriculture, in fo­  
 reign ports, would thus (by manufactures)
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82016317:00415661642:1844033001:0514/pct:4.766252739225712,88.56721619085913,18.371073776479182,3.096099718536389/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82016317:00415661642:1844033001:0514/pct:4.772339907475042,88.56721619085913,18.389335281227172,3.105035071259438/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -683,7 +683,7 @@ reign ports, would thus (by manufactures)
   
 wishes, suppose it may better find its ad- &quot;unions ui inis country in a list oi lor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn85049816:00415668855:1844061301:0123/pct:31.542838018741634,43.16690759479595,29.819277108433734,0.8339819859891027/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn85049816:00415668855:1844061301:0123/pct:31.542838018741634,43.16690759479595,29.830432842481034,0.8451017458022907/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -722,7 +722,7 @@ ENTIAL. Hut it is
 as a resource of defence that our navigation will  
 admit neither neglect nor forbearance. The position
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014434:00415661423:1852071201:0058/pct:46.284703320631465,45.25890321171073,13.432226456178553,1.7806423421455102/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014434:00415661423:1852071201:0058/pct:46.284703320631465,45.25890321171073,13.441299219742334,1.7915665282936422/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -771,7 +771,7 @@ lite and human happiness; the numbers
 of mankind would be Increased, und  
 tliolr condition bettered.&quot; i)eu&quot;orson&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280774881:1890022001:0658/pct:92.14945424013435,104.78669558929863,16.204869857262803,8.575560375994215/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280774881:1890022001:0658/pct:69.13709846735252,78.59725234996385,12.156204073063195,6.4352856109906/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -810,7 +810,7 @@ per barrel.&quot; In a word, still quoting Jefferson,
 the possessions of Spain in the West Indies.&quot;  
 This was the deplorable condition of ou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043019:1898072401:0698/pct:286.4482501861504,33.736434108527135,49.8138495904691,51.41085271317829/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043019:1898072401:0698/pct:71.6520767368225,8.434108527131784,12.460420934997206,12.852713178294573/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

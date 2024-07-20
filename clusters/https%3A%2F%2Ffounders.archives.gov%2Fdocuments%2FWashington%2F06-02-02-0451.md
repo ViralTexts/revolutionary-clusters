@@ -312,7 +312,7 @@ G ° Washington
 P Knowledge In Book keeping II 1eases  
 I tlal to all who are under the necessity ofI
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_borges_ver01:data:sn83030272:00175044942:1891041201:0893/pct:271.29700690713736,257.0013507429086,53.18495778971604,122.63244784631547/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_borges_ver01:data:sn83030272:00175044942:1891041201:0893/pct:67.83726731913261,64.25033768572715,13.298791018998273,30.658111961578868/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -353,7 +353,7 @@ I have already exceeded the limite I bed p
 .ribed to myself when I ba. this t:  
 wi t..eps . yet a little ore whie I eutrA 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pug_ver01:data:sn83045462:00280654802:1891041801:0209/pct:74.46668854611093,33.19887051230335,14.440433212996389,11.63103401909372/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pug_ver01:data:sn83045462:00280654802:1891041801:0209/pct:74.47489333770922,33.2022320828291,14.444535608795537,11.63103401909372/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -468,7 +468,7 @@ P. S.-Iinowledge in Book keeping
 is essential to all wlu are unui r the  
 neessity &quot;1 ov4pin a&#x27;4-t 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_floydcouncil_ver01:data:sn93067777:00237287010:1891042301:0471/pct:14.46393762183236,3.6919634532910686,23.014944769330736,96.6996084281186/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_floydcouncil_ver01:data:sn93067777:00237287010:1891042301:0471/pct:14.472601256226987,3.6981788799801105,23.014944769330736,96.69650071477407/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -581,7 +581,7 @@ Go WVashinigtoni.
   
 org I. &#x27;. arsis, cnr in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_floydcouncil_ver01:data:sn93067777:00237287022:1891042302:0065/pct:14.404104183109707,4.45859872611465,23.0334122599316,91.9351817159985/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_floydcouncil_ver01:data:sn93067777:00237287022:1891042302:0065/pct:14.408488994124353,4.45859872611465,23.037797070946244,91.9351817159985/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

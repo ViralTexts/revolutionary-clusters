@@ -175,7 +175,7 @@ and to secure to the government the advanta­
 ges of permanency in a wise system of admin­  
 istration.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216377:1827073001:0701/pct:40.41027351567712,53.918087121212125,18.37891927951968,19.80350378787879/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216377:1827073001:0701/pct:40.40353510088377,53.911705527281335,18.381412928686565,19.805105140647807/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -337,7 +337,7 @@ isting policy, but occasion “a disgraceful
 and ruinous mutability in the odminStrntirja  
 of the Government/
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184303:1828041601:0131/pct:76.87598116169545,79.4306049822064,17.40973312401884,5.195729537366548/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184303:1828041601:0131/pct:76.86391461309057,79.4211837267228,17.412232511902893,5.199066935515756/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -378,7 +378,7 @@ i like nature, constitute what seems to be most
 jroperly understood by the administration of  
 government.&quot; In the last and usual sense w
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82015015:00415661289:1842021201:0027/pct:36.54425045153522,18.601553829078803,19.084888621312462,10.799112097669257/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82015015:00415661289:1842021201:0027/pct:36.54926750953241,18.601553829078803,19.099939795304035,10.802811690714021/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -409,7 +409,7 @@ a like nature, constitute what seems to be most
 properly understood by the administration ol  
 Government.&quot; In the last and usual sense w
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661277:1842021201:0206/pct:32.55350920856147,18.191747572815533,19.313091090094574,10.75242718446602/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661277:1842021201:0206/pct:32.55350920856147,18.199838187702266,19.32415242519772,10.75242718446602/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -452,7 +452,7 @@ even be uuwilling to risk the consequences of an
 abuse of Ids opportunities. His avarice might be  
 a guard upon his avarice.&quot; These reasons in J
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551244:1860110101:0043/pct:50.35286394222879,28.95293201290753,15.985557196783194,18.070546344720153/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551244:1860110101:0043/pct:50.36380545981728,28.956641074144134,15.980086437988948,18.070546344720153/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -480,7 +480,7 @@ that it ought systematically to be excluded from
 banishing merit from the public councils, because  
 it had been tried.*1. Another iQ eflcctof the ex
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_edgewater_ver02:data:sn84031490:no_reel:1864030101:0002/pct:2.557200538358008,52.226371732260844,10.47875408575274,5.185291582878484/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_edgewater_ver02:data:sn84031490:no_reel:1864030101:0002/pct:2.566814074216497,52.233553576558464,10.493174389540473,5.192473427176099/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -503,7 +503,7 @@ particular men In particular stations; and perhaps
 it is not too much to say ,aa vital to thcpreseirotion  
 of Us political existence. In a time of war #
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_edgewater_ver02:data:sn84031490:no_reel:1864030101:0002/pct:2.7686983272447607,57.77075553002011,10.267256296865988,3.260557311117495/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_edgewater_ver02:data:sn84031490:no_reel:1864030101:0002/pct:2.7686983272447607,57.78152829646653,10.29129013651221,3.260557311117495/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -731,7 +731,7 @@ objection is that the exclusion from a sec­
 ond term would be a diminution of the in­  
 ducements to good behavior. The in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_dyerbrook_ver01:data:sn82014248:00332895187:1871122801:0121/pct:5.379513633014001,7.161383285302594,12.693441414885777,11.988472622478387/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_dyerbrook_ver01:data:sn82014248:00332895187:1871122801:0121/pct:5.378522748204089,7.160351534361043,12.695708233560508,11.99034721221726/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -761,7 +761,7 @@ term.
 Thirdly, the one terra principle) would  
 deprive the community of the experienc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_dyerbrook_ver01:data:sn82014248:00332895187:1871122801:0121/pct:5.52689756816507,21.152737752161382,12.65659543109801,9.438040345821326/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_dyerbrook_ver01:data:sn82014248:00332895187:1871122801:0121/pct:5.525879535826119,21.149690246362194,12.658869036655,9.44028238006051/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -810,7 +810,7 @@ uniform. Things are none too stable while
 there is even the possibility and option of  
 changing. “Nor need we desire,” say
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_dyerbrook_ver01:data:sn82014248:00332895187:1871122801:0121/pct:5.637435519528371,38.976945244956774,12.803979366249079,21.412103746397694/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_dyerbrook_ver01:data:sn82014248:00332895187:1871122801:0121/pct:5.636397126542642,38.97132977957067,12.80622582427703,21.412620659847285/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -831,7 +831,7 @@ may obviate the fatal inconveniences of
 fluctuating councils and a variable policy.”  
 When the measures of a President arc no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_dyerbrook_ver01:data:sn82014248:00332895187:1871122801:0121/pct:5.5821665438467205,60.48991354466859,12.582903463522475,4.221902017291066/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_dyerbrook_ver01:data:sn82014248:00332895187:1871122801:0121/pct:5.5811383311843805,60.481198674542576,12.585190642843987,4.2248955481919035/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -853,7 +853,7 @@ which are at best speculative and equivo­
 cal, and are overbalanced by advantages  
 far more certain and decisive.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_dean_ver02:data:sn84038034:00271740566:1872011801:0108/pct:66.34615384615384,42.51768789213723,18.01923076923077,5.059404618875985/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_dean_ver02:data:sn84038034:00271740566:1872011801:0108/pct:49.78838014621008,31.891603257242025,13.524432474028472,3.8045654785742893/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -918,7 +918,7 @@ confidence, the advantages of which are at best
 speculative and equivocal, and are overbalanced  
 by disadt antages far more certain and decisive.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mastiff_ver01:data:sn83045462:00280654371:1872012201:0184/pct:1.7884207335556228,67.16604244694132,13.807214307365868,3.4729315628192032/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mastiff_ver01:data:sn83045462:00280654371:1872012201:0184/pct:1.792209760533495,67.16887980932924,13.807214307365868,3.478606287595052/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -965,7 +965,7 @@ by disadt antages far more certain and decisive.
 to sordid views, to peculation, and in some in  
 stances to usurpation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deltaair_ver01:data:sn86053572:00237289018:1872012601:0092/pct:66.03415559772296,349.38207136640557,43.7381404174573,4.177545691906006/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deltaair_ver01:data:sn86053572:00237289018:1872012601:0092/pct:16.50853889943074,87.34551784160139,10.934535104364326,1.0443864229765014/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -983,7 +983,7 @@ the community of the advantages of the expe,
 rience gained by the Chief Magistrate in th  
 exercise of his offi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deltaair_ver01:data:sn86053572:00237289018:1872012601:0092/pct:65.9392789373814,353.14186248912097,43.833017077798864,5.15230635335074/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deltaair_ver01:data:sn86053572:00237289018:1872012601:0092/pct:16.48481973434535,88.28546562228024,10.958254269449716,1.288076588337685/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1003,7 +1003,7 @@ greatest moment to the public interest or safety
 5 A fifth ill effect would be that it would  
 operate as a constitutionsl interdiction of sta
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deltaair_ver01:data:sn86053572:00237289018:1872012601:0092/pct:65.9392789373814,358.1549173194082,43.54838709677419,8.981723237597912/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deltaair_ver01:data:sn86053572:00237289018:1872012601:0092/pct:16.48481973434535,89.53872932985205,10.887096774193548,2.245430809399478/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1025,7 +1025,7 @@ best speculative and equivocal, antl are
 overbalanced by disadvantages far more  
 certain aud decisive.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_forego_ver01:data:sn84024670:00280762374:1872020601:0137/pct:18.91999205876514,36.986301369863014,12.586857256303356,3.829724554426278/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_forego_ver01:data:sn84024670:00280762374:1872020601:0137/pct:18.9249553305539,36.986301369863014,12.591820528092118,3.829724554426278/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1045,7 +1045,7 @@ amplification by the author :
 diminution of the inducements to good be­  
 havior
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_forego_ver01:data:sn84024670:00280762374:1872020601:0137/pct:18.91999205876514,41.3610251878038,12.586857256303356,2.857563705994992/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_forego_ver01:data:sn84024670:00280762374:1872020601:0137/pct:18.9249553305539,41.372072470172334,12.591820528092118,2.853881278538813/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1074,7 +1074,7 @@ State, their presence might be of the
 greatest moment to the public interest or  
 safety
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_forego_ver01:data:sn84024670:00280762374:1872020601:0137/pct:18.860432797299982,44.30696715274709,12.745681953543777,7.335395492708794/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_forego_ver01:data:sn84024670:00280762374:1872020601:0137/pct:18.87532261266627,44.31064958020327,12.755608497121303,7.339077920164973/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1094,7 +1094,7 @@ ministration.&quot;
 These points are expanded, and brought  
 out in their full force, with the masterl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_forego_ver01:data:sn84024670:00280762374:1872020601:0137/pct:18.840579710144926,51.64236264545588,12.606710343458408,3.019590514066873/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_forego_ver01:data:sn84024670:00280762374:1872020601:0137/pct:18.850506253722454,51.65340992782442,12.616636887035934,3.0122256591545145/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1124,7 +1124,7 @@ a like nature, constitute what seems to he most
 properly understood by the administration of  
 government
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477862:1872020701:0130/pct:198.09220985691573,125.54535017221585,44.51510333863275,24.052812858783007/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477862:1872020701:0130/pct:49.5525949492941,31.386337543053962,11.135414595346987,6.013203214695752/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1147,7 +1147,7 @@ tive and equivocal, and are overbalanced
 by disadvantages far mure certain and  
 decisive.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn85033153:00271769726:1872021501:0229/pct:51.915507740750456,22.12322885358523,11.361847284177381,4.12194074710176/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn85033153:00271769726:1872021501:0229/pct:49.32485770077693,21.02042897447228,10.7981220657277,3.919235867976478/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1165,7 +1165,7 @@ would be the temptation to sordid views,
 to peculation, and in some instances to  
 usurpation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn85033153:00271769726:1872021501:0229/pct:51.915507740750456,29.20781451266638,11.27000787194962,1.8570201803349078/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn85033153:00271769726:1872021501:0229/pct:49.32485770077693,27.750773309765798,10.719182350741617,1.7675651789659743/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1193,7 +1193,7 @@ greatest moment to the interest or safety.
 would he that it would operate as a con­  
 stitutional interdiction.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn85033153:00271769726:1872021501:0229/pct:51.81054841249016,31.09703735508802,11.401207032274993,6.064834693001288/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn85033153:00271769726:1872021501:0229/pct:49.22929909842536,29.548930962983107,10.835514562300053,5.764981814473639/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1216,7 +1216,7 @@ best speculative and aro overbalanced
 by disadvantages far more certain and  
 decisive.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_evart_ver01:data:sn85033781:00296023735:1872022301:0760/pct:93.15569487983281,30.95150285819657,20.75496342737722,6.979531624562051/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_evart_ver01:data:sn85033781:00296023735:1872022301:0760/pct:62.13249705997648,20.634335238797714,13.837710701685614,4.656094412686705/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1241,7 +1241,7 @@ of the State, their presence might be of
 the greatest moment to the public in­  
 terest or safety
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_evart_ver01:data:sn85033781:00296023735:1872022301:0760/pct:93.29937304075236,46.93896367324359,20.859456635318704,8.768209478148627/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_evart_ver01:data:sn85033781:00296023735:1872022301:0760/pct:62.22396445838233,31.29264244882906,13.916111328890631,5.8454729854324174/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1261,7 +1261,7 @@ the Administration.&quot;
 The&amp;e points are expanded and  
 brought out in their full force with th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_evart_ver01:data:sn85033781:00296023735:1872022301:0760/pct:93.39080459770115,55.762493085008295,20.70271682340648,4.6837543794947445/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_evart_ver01:data:sn85033781:00296023735:1872022301:0760/pct:62.289298314386514,37.174995390005535,13.81157715928394,3.1255762493085006/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1284,7 +1284,7 @@ by constancy on their part tlicy may
 obviate the fatal inconveniences of fluct­  
 uating councils atad a variable policy.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn84027186:0027952889A:1872040501:0475/pct:87.28246318607765,92.19712525667352,10.114532202885616,3.9014373716632442/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn84027186:0027952889A:1872040501:0475/pct:87.28742129009866,92.20473039774888,10.114532202885616,3.905239942200928/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1339,7 +1339,7 @@ part rather pernicious than salutary.&quot;
 THe  
 LST Dis OF THe Se
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_braniff_ver01:data:sn86053573:00294558317:1874062401:0429/pct:70.14716187806587,198.34368530020703,43.58794674141556,67.90890269151139/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_braniff_ver01:data:sn86053573:00294558317:1874062401:0429/pct:17.54601226993865,49.58592132505176,10.902716914986854,16.977225672877847/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1382,7 +1382,7 @@ AN UNFAIR CONSTRUCTION.
 From The B ashington Nattonal Republioan, June 29.  
 The Neir-York Herald extracts the followin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hugo_ver01:data:sn83030214:00206531186:1874091101:0568/pct:52.791222975153275,81.38568129330254,47.70893836721523,32.00923787528868/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hugo_ver01:data:sn83030214:00206531186:1874091101:0568/pct:17.597074325051093,27.128560431100848,15.90297945573841,10.66974595842956/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

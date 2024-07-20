@@ -49,7 +49,7 @@ Now heur Zichary Taylor:
 &quot;I cordiaily exrept that nomination, but  
 ith the sincere distrust of my fitness to ful
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186488:1848080801:0647/pct:124.56205739843459,333.2616294702877,51.08087961237421,36.85130411400914/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186488:1848080801:0647/pct:31.134712129681386,83.30420755477887,12.76784050680082,9.211587578975669/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -79,7 +79,7 @@ an honest zeal.&quot;
 In the simple and pointed reply oi \\ ashing­  
 ton. we see not the sign of a pledge, not th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215816:1848080901:0052/pct:44.33797909407666,40.0963821762816,12.92102206736353,7.368347534571868/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215816:1848080901:0052/pct:44.33368818348979,40.09358195404707,12.922997516048905,7.370160858532952/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -112,7 +112,7 @@ choice, &quot;for indeed all I can promise is only
 to accomplish that which can be done by an  
 honest zeal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_harrison_ver01:data:sn82015672:00296021805:1848081001:0286/pct:143.57262103505843,140.09983361064891,59.154145798553145,36.43926788685524/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_harrison_ver01:data:sn82015672:00296021805:1848081001:0286/pct:35.89315525876461,35.02495840266223,14.788536449638286,9.10981697171381/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -160,7 +160,7 @@ ting the choice, for indeed all I can promise is
 onty to accomplish that which can be dons by an  
 honest zeal.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn89080032:00415668132:1848081501:0438/pct:135.38659793814432,244.71587891662242,36.76546391752577,19.75570897503983/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn89080032:00415668132:1848081501:0438/pct:45.13468230442067,81.57195963887413,12.256734115221034,6.585236325013277/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -192,7 +192,7 @@ choice, &quot;for indeed all I can promise is only
 io accomptisn mat wuicn can oe uone by an  
 nonest zeai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn82016320:00296029816:1848081701:0699/pct:76.22901678657074,95.16994633273703,16.77158273381295,10.745378652355397/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn82016320:00296029816:1848081701:0699/pct:57.19640179910045,71.37745974955277,12.578710644677662,8.062015503875969/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -283,7 +283,7 @@ zeal.&quot;
 In the simple and pointed reply of Wasl­  
 ington, we see not the sign of Pledge, no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_arbok_ver04:data:sn82003383:00295874417:1848082601:0360/pct:168.79857512953367,148.8302752293578,45.07772020725388,133.4862385321101/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_arbok_ver04:data:sn82003383:00295874417:1848082601:0360/pct:56.26619170984456,49.61009174311926,15.025906735751295,44.4954128440367/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -306,7 +306,7 @@ p. 300.
 month later, writing to Gen. Schuy-  
 ler, he repeated the sentiment;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1848083001:1110/pct:156.95817490494298,300.3354353951429,56.73003802281369,19.911445055682275/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1848083001:1110/pct:39.247005134055904,75.08385884878572,14.18520631298726,4.977861263920569/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -381,7 +381,7 @@ pleasure of your company: for you mil j., rnnt
 me to say that it is a peculiar gratiti at ion to  
 have received this communication from vou.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_rottweiler_ver01:data:sn83045462:00280654723:1889042701:0325/pct:70.37535768389161,15.915593705293276,13.920215451944117,9.620886981402004/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_rottweiler_ver01:data:sn83045462:00280654723:1889042701:0325/pct:70.37535768389161,15.924535050071531,13.928631543511193,9.623867429661422/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -418,7 +418,7 @@ pany ; for you will permit mo to say that it is
 a peculiar gratification to have received this  
 communication from you. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_chadron_ver01:data:sn99021999:0020653963A:1889042801:0434/pct:6.083916083916084,69.02415980564179,33.74125874125874,58.19948711027129/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_chadron_ver01:data:sn99021999:0020653963A:1889042801:0434/pct:4.563734918692079,51.77149412876231,25.319111732820424,43.64961533270347/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -576,7 +576,7 @@ Sustaining all yon orbs, and all their suns ;
 From seeming evil still educing good.  
 And better thence again, and better still
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_ariel_ver01:data:sn82015418:00212474290:1876123001:0325/pct:6.852331606217617,74.20819490586932,11.580310880829016,2.2702104097452933/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_ariel_ver01:data:sn82015418:00212474290:1876123001:0325/pct:5.144486199300246,55.65891472868217,8.695088765064144,1.7054263565891472/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -636,7 +636,7 @@ Sustaining all yon orbs and all their suns;
 From seeming evil still educing good,  
 And better thence agaiD, and better still
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn90053049:00332897901:1887040901:0326/pct:18.573276658658287,80.51246537396122,11.180927739789318,2.0083102493074794/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn90053049:00332897901:1887040901:0326/pct:18.569844789356985,80.50131560725661,11.183481152993348,2.0114942528735633/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

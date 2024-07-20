@@ -50,7 +50,7 @@ ployed, as its products satisfy and satiate the demands for
 domestic use and for foreign markets. Whatever be  
 the abundance and fertility of the soil, it will not be cul
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184698:1860020401:0124/pct:133.84615384615384,277.36252545824846,39.81132075471698,6.242362525458248/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184698:1860020401:0124/pct:44.608910172689015,92.4447612259444,13.268514487495768,2.080575637239928/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -79,7 +79,7 @@ within herself substitutes for the former.&quot;
 These important truths seem now to be recognized by  
 all, and, I am happy to see, are about to be acted on b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184698:1860020401:0124/pct:174.644412191582,7.973523421588594,40.029027576197386,17.75967413441955/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184698:1860020401:0124/pct:58.20635611667392,2.6575705121678035,13.341072897015431,5.9192885992600885/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -117,7 +117,7 @@ the inability to pay for imports by exports, to
 provide within herself substitutes for the  
 former.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_indy_ver01:data:sn84024738:00280777961:1860020601:0123/pct:3.0009093664746893,11.16194935092573,235.0863898150955,277.08022983613535/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_indy_ver01:data:sn84024738:00280777961:1860020601:0123/pct:1.0003031221582297,3.7206497836419095,78.36212993836516,92.36007661204512/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -227,7 +227,7 @@ hish t mon of mamufaciures both to reeve the sure
 of her agriculture and to give it, in lien of the  
 glutted markets of the world, the stimulus of local ma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743348:1860020801:0326/pct:110.76225926525328,103.43842814713274,51.189512866159575,24.023303632625087/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743348:1860020801:0326/pct:36.92075308841776,34.479476049044244,17.063170955386525,8.007767877541696/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -262,7 +262,7 @@ great staples, and be forcing her, by the inability
 to pay for her imports by expopts, to provide with­  
 in herself substitutes for the former
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:0039334801A:1860020801:0633/pct:266.87635148417536,133.83480399247793,59.30804010222135,39.476348907854764/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:0039334801A:1860020801:0633/pct:66.70597484276729,33.453861729823544,14.824095911949685,9.867659820653746/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -301,7 +301,7 @@ vide within herself substitutes lor the tor­
 ))  
 mer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dior_ver01:data:sn85025007:00415663493:1860021001:0144/pct:57.371875788942184,23.14548073460569,13.973744004039384,12.342455887648542/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dior_ver01:data:sn85025007:00415663493:1860021001:0144/pct:57.37608348060254,23.14548073460569,13.982159387360094,12.348457568119073/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -342,7 +342,7 @@ to provide within herself substitutes for the
 former.&quot;  
 &quot;These important truths seem now to b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156372:1860022201:1062/pct:24.18300653594771,19.053019563368302,118.05555555555556,341.36660051034875/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156372:1860022201:1062/pct:6.045751633986928,4.7632548908420755,29.51388888888889,85.34165012758719/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

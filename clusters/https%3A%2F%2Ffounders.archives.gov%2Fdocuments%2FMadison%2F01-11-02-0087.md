@@ -77,7 +77,7 @@ to do this, is to organize and dtsctf&lt;&lt;iw our militia, so
 as to render them capablc of defending the counTy  
 against external invasions and internal insurrections
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1840050801:0474/pct:19.433075640442624,46.9061876247505,16.022434439896923,2.8542914171656686/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1840050801:0474/pct:19.438128442221213,46.91284098469727,16.017381638118337,2.850964737192282/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -219,7 +219,7 @@ our defense.&quot; Elliott&#x27;s Debates, vol. 3, page
 314.  
 Apparently, taking it for granted that an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200290045:1861012701:0042/pct:172.7122381477398,90.17887276409044,33.62734288864388,20.834739565755427/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200290045:1861012701:0042/pct:43.18996415770609,22.54471819102261,8.409153570443893,5.208684891438857/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -266,7 +266,7 @@ myself, which deserves to be attended to. If we be dissatisfied with
 the national Government, if we should shoose to renounce it,  
 this is an additional safeguard to our defense.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038518:00200293319:1861031701:0263/pct:163.31828442437924,11.869935809744291,45.76749435665914,15.994948963485216/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038518:00200293319:1861031701:0263/pct:40.84685956245589,2.9674839524360728,11.446718419195484,3.998737240871304/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -285,7 +285,7 @@ choose to renounce it, this is ah additional
 safeguard to our defense.&quot; Again the j  
 same gentleman says. &quot; We hare hoar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_ireland_ver01:data:sn84022644:0029586753A:1866021701:0063/pct:58.3732057416268,42.102841366616815,16.208133971291865,3.6466122167261013/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_ireland_ver01:data:sn84022644:0029586753A:1866021701:0063/pct:43.78645132346344,31.577131024962615,12.172872738148646,2.7378350396871047/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

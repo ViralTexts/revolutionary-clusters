@@ -195,7 +195,7 @@ Countrymen, we recommend you to the Di­
 vine protedtion. Your affeltionate Friend,  
 \ WILLIAM, PRINCE or ORANGE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1781122201:0064/pct:39.289940828402365,19.605742446968073,27.624683009298394,20.291407756588814/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1781122201:0064/pct:39.29557621865314,19.605742446968073,27.635953789799945,20.29497893007642/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -768,7 +768,7 @@ ed States of America. .
 Sizned by the President and sealed  
 with his seal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809082201:0339/pct:77.25081635826466,29.106111885327493,16.793655730057534,16.095958590483775/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809082201:0339/pct:77.26118281241901,29.10942995553786,16.793655730057534,16.09927666069414/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

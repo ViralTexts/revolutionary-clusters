@@ -91,7 +91,7 @@ who fat for two years in the famous
 Congress which brought about the  
 Revolution, and which is sever men
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1801060901:0511/pct:41.23024480942051,26.439379052859106,16.485900216919738,9.392808017292198/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1801060901:0511/pct:41.23540956512757,26.44265409052204,16.49622972833385,9.392808017292198/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -124,7 +124,7 @@ ter having played a principal part on
 the theatre #of the. new&#x27; world, and  
 which he then preferred to the honor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1801060901:0511/pct:41.261233343662845,36.58872077028886,16.39293461419275,12.949498919237572/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1801060901:0511/pct:41.261233343662845,36.59199580795179,16.39293461419275,12.952773956900504/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -277,7 +277,7 @@ charge, a houfe to embellith, great provifions to
 improve, and the aéts and fciences to cultivate ;  
 thefe are what remained to Mr, Jerranson a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1804011901:0426/pct:46.39657187378263,44.08425980105325,20.646669263731983,14.86249268578116/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1804011901:0426/pct:46.40955720036359,44.08425980105325,20.6401766004415,14.874195435927444/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -331,7 +331,7 @@ tural philosophy, at other politics or
 the arts were the topics of his conver­  
 sation ; and it seemed as if from hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804070301:0521/pct:24.538893344025663,35.47356188262638,17.129109863672817,26.3025372845245/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804070301:0521/pct:24.549585672280138,35.47356188262638,17.129109863672817,26.308993479243334/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -371,7 +371,7 @@ ridicule as enthusiastic, while sensible and
 animated ones cherish and adopt the glori­  
 ous appellation.” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808110701:0498/pct:40.374557111523536,41.20244906152765,17.411844103256286,17.033022182073672/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808110701:0498/pct:40.36774628879892,41.19831393014854,17.41312415654521,17.03382175832999/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -407,7 +407,7 @@ pher, legislator, and statesman. A senator of
 America, who sat for two years in that famous  
 Congress which brought about the revolution
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826071401:0568/pct:22.60296540362438,24.54857649274399,17.660626029654036,13.426387504154205/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826071401:0568/pct:22.59924229945643,24.545857332742578,17.66320759896777,13.428592526953183/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -435,7 +435,7 @@ itig children, of whose education he ntmseli
 takes charge, a house to embellish, great provi­  
 sions to improve, and the arts and sciences t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826071401:0568/pct:22.70181219110379,38.60640301318267,17.495881383855025,7.820981499944611/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826071401:0568/pct:22.698072805139187,38.60212671688082,17.498490089496514,7.823807413971348/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -474,7 +474,7 @@ methodical minds ridicule as enthusiastic,
 whilst sensib e and animated ones cherish and  
 adopt the glorious appellations
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826071401:0568/pct:22.73476112026359,48.8202060485211,17.528830313014826,15.232081533178244/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826071401:0568/pct:22.73101630703344,48.81479840496234,17.531433591390766,15.234086545561956/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -714,7 +714,7 @@ self takes charge, a house to embellish,
 great provision to. improve, and the  
 arts and sciences to cultivate these
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn83035174:00296027327:1871083001:0131/pct:69.25634824667473,25.862957238536836,14.207980652962515,7.01957753735188/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn83035174:00296027327:1871083001:0131/pct:51.9655276685818,19.397217928902627,10.659207741155125,5.267903142709943/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -742,7 +742,7 @@ charge, a house lo embellish, great pro­
 visions to improve, and the arts and  
 sciences to cultivate—these are what re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524652:1871092801:0571/pct:27.275998560633322,85.8220810166799,11.442965095358042,5.983584855705587/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524652:1871092801:0571/pct:27.271091923007734,85.8107213765718,11.445403849613239,5.986101919258769/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

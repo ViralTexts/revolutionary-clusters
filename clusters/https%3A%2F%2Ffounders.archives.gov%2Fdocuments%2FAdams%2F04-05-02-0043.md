@@ -155,7 +155,7 @@ Some of her cares were irksome; some of he
 When not a breath of wind flies o&#x27;er its surface.&quot;  
 Some of her cares were irksome; som
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777791:1852021801:0453/pct:103.06513409961686,176.62576687116564,44.44444444444444,6.380368098159509/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777791:1852021801:0453/pct:25.781100249185357,44.15644171779141,11.117500479202606,1.5950920245398772/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -188,7 +188,7 @@ surface.”
 “ Sailing on a summer’s sea,  
 When not a breath of wind flies o’er its surface.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182999:1860091301:0529/pct:29.299691040164777,59.56674017382281,12.221077926536218,0.7912829160721235/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182999:1860091301:0529/pct:29.29466277672902,59.559014267185475,12.223270979921057,0.7944228274967574/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -204,7 +204,7 @@ When not a breath of wind flies o’er its surface.”
 ‘“Sailing on a summer’s sea.  
 •‘When not a breath of ■wind flies o’er its surface.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dunbar_ver01:data:sn85026214:print00211110132:1865101501:0006/pct:5.161054172767203,85.80686973428386,10.669838945827232,0.5703175631885936/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dunbar_ver01:data:sn85026214:print00211110132:1865101501:0006/pct:5.165629575402636,85.80686973428386,10.678989751098097,0.5832793259883344/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -221,7 +221,7 @@ the poet, “Calm and unruffled as a
 summer’s sea, when not a breath of  
 wind flies o’er its surface.” We d
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00542865982:1896052101:0372/pct:63.27974276527331,87.70131771595901,13.783494105037514,1.7423133235724744/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00542865982:1896052101:0372/pct:63.266180882983285,87.68847899282682,13.78589798542649,1.7457180500658762/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

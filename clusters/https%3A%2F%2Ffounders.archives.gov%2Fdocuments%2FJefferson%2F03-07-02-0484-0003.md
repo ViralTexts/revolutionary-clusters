@@ -93,7 +93,7 @@ ti&#x27;tf.cnlf while the war •Minue*. and intereiaus*- with
 1&quot; &#x27; U attended with so much risi.. You know tuy  
 C&#x27; Ciion, its coml.tKK
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1814102201:0198/pct:6.2228654124457305,5.333835341365462,17.14905933429812,12.926706827309237/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1814102201:0198/pct:6.221739916802315,5.333166018320994,17.15198649544824,12.929267578533484/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -118,7 +118,7 @@ while it includes v. hat is chiefly valuable in.vieneeai.il
 literature generally, extends more pmticttlarto towhat­  
 ew r belongs to the Amet Usn sta’&lt; xnsan ; in ti.i .Ii, lo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1814102201:0198/pct:6.1685962373371925,24.535642570281123,17.02243125904486,5.371485943775101/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1814102201:0198/pct:6.16748055706276,24.53256368427657,17.025381322722613,5.374994771405865/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -170,7 +170,7 @@ et ee» which ei. .gx hs v. .sild wish to exclude from their
 C‘ftociion. Tin r. i. L: liict no subject to winch it mem­  
 ber of Co.*gi(&#x27;“.3mat not have occasion to lelcr. Hu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1814102201:0198/pct:6.023878437047757,32.768574297188756,17.275687409551374,18.461345381526105/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1814102201:0198/pct:6.022788931090613,32.7644622913791,17.27859166817387,18.463211611661855/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -196,7 +196,7 @@ enteri-ig into w ith the committee, l hereby confirm.
 pect.  
 [Signed] TII: JEFFEUSOX
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1814102201:0198/pct:5.987698986975398,51.24246987951807,17.257597684515197,5.848393574297189/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1814102201:0198/pct:5.986616024597576,51.236039653657926,17.260505214927353,5.851842556573389/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1049,7 +1049,7 @@ confirm. Accept the assurance of np
 j esteem and respect.  
 Til: JEFFER
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82007022:00393342882:1843092301:0014/pct:74.36118784530387,3.125408656989669,25.138121546961326,90.80685236040277/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82007022:00393342882:1843092301:0014/pct:74.348351458657,3.125,25.13809770412567,90.79824790794979/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1329,7 +1329,7 @@ eighteen or twenty wagons would place it in
 Washington in a single trip of a fortnight.&quot;  
 GHADUAl. PRObREsS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_harry_ver01:data:sn86053573:00211101921:1881020501:0136/pct:7.896399241945673,155.18654302350657,50.28427037271005,19.96980806555963/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_harry_ver01:data:sn86053573:00211101921:1881020501:0136/pct:1.9750355506399115,38.79663575587664,12.577026386474957,4.992452016389907/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1453,7 +1453,7 @@ with the Committee I hereby confirm. Accept
 tne assurance ox my great esteem ana respect.  
 TH. JEri&#x27;KSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn87056600:00202191666:1881060101:0491/pct:73.44617092119867,29.707689048930312,16.592674805771367,51.89578479135776/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn87056600:00202191666:1881060101:0491/pct:55.11450381679389,22.28341453081974,12.44968771686329,38.92183859351832/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1481,7 +1481,7 @@ eighteen or twenty wantons would plaoe
 It In Washington in a single trip of a fort­  
 night.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00414181922:1886041901:0617/pct:4.91953182150695,86.80565080235907,12.710314557425018,6.021121931147991/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00414181922:1886041901:0617/pct:4.925627895635211,86.80565080235907,12.728602779809803,6.030265624285649/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1626,7 +1626,7 @@ in fact no subject to which a member of
 congress may not have occasion to re  
 fer. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_fairbury_ver01:data:sn96080161:00206539215:1898110301:0250/pct:21.563573883161514,17.143436802596877,66.63802978235968,108.07466017447759/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_fairbury_ver01:data:sn96080161:00206539215:1898110301:0250/pct:16.184474362646807,12.862649624670318,50.01432254368376,81.07121119902617/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1651,7 +1651,7 @@ try and await its days of peace and pros­
 peritr &quot;  
 Mr. Smith brought the letter and th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_earl_ver02:data:sn85054468:211102214:1899120301:0489/pct:8.498201438848922,98.04571050016561,18.270383693045563,6.900739759302197/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_earl_ver02:data:sn85054468:211102214:1899120301:0489/pct:5.668016194331984,65.36380700011041,12.190733243364821,4.604173567406426/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

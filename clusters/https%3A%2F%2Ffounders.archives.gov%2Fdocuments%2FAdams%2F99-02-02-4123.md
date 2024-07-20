@@ -47,7 +47,7 @@ in the manner expressed in the firft
 resolution. -  
 And be it further Resolved, That th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1800010801:0214/pct:24.965893587994543,21.48414705310251,16.113384871911475,6.623225053491539/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1800010801:0214/pct:24.97094638977313,21.48738896453349,16.113384871911475,6.632950787784478/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -82,7 +82,7 @@ tion extends its fcrut.ny only over the ex- #g M the branche, ofthe gOJ
 firing year, it will fnniifh many „*roent&gt; wjU be highly gratified by any  
 jiroofs of the uncertainty of human life arrangement which may diminish the facri
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1800011001:0003/pct:7.586688387246917,35.976183014728925,33.418664184314636,12.864305860231902/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1800011001:0003/pct:7.586688387246917,35.976183014728925,33.44775424714918,12.88389219680351/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -128,7 +128,7 @@ gratified by any arrargment which may dimin­
 ilh the iacrifice the makes of her individual feel­  
 ings. JOHN ADAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1800012001:0325/pct:5.746336996336996,10.480034597088078,21.314102564102566,15.424535101628946/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1800012001:0325/pct:5.745021744106203,10.478524070337272,21.314946211947813,15.425915249351398/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -166,7 +166,7 @@ veroment, will be highly giaufied by any ;
 arrangement which way dicinifb 0= fzcni­  
 fice she makes of her individual feclings
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1800012201:0223/pct:39.71771133707695,37.957835422131545,16.178479283654575,13.64033809385019/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1800012201:0223/pct:39.72277027368847,37.957835422131545,16.1835382202661,13.646814987531979/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -302,7 +302,7 @@ on the 31st December, 1799, returned
 an answer, which i will take leave to  
 read to the House
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025001:0041421633A:1824012001:0040/pct:26.420454545454547,66.46641179683233,17.240767045454547,9.033315128345167/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025001:0041421633A:1824012001:0040/pct:26.415764246405114,66.45915246832678,17.243623883070004,9.035969127712248/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -327,7 +327,7 @@ the first resolution.” T&#x27;he then President
 of the United States trausmitted these re­  
 solutions to Mrs. Washington, who on th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015143:1824012701:0221/pct:39.09209194737603,62.7381181450837,15.743819574960243,6.773138349047527/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015143:1824012701:0221/pct:39.09209194737603,62.74132512346867,15.758276709556165,6.773138349047527/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -426,7 +426,7 @@ preaching Centennial Biitb Day of \\ ash
 iNoTor*. The asseut of the bereaved widow  
 to the request of Congress, communicated t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:0039334894A:1832021601:0032/pct:25.218503517373694,71.729070256626,18.013216798124066,9.872388164352826/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:0039334894A:1832021601:0032/pct:25.21312872975277,71.7190128996074,18.014705882352942,9.874509254066181/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -483,7 +483,7 @@ there can be no doubt that the nation at
 irangement which may diminish the sacri­  
 jce she makes of her individual feelings
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ibizanhound_ver01:data:sn83045461:00280654000:1853030301:0240/pct:1.4170692431561998,48.921762683612876,19.388083735909824,18.314407750807376/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ibizanhound_ver01:data:sn83045461:00280654000:1853030301:0240/pct:1.4251207729468598,48.92957599749974,19.39210950080515,18.314407750807376/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -538,7 +538,7 @@ Unit resolution.&quot; The then President of the United States &#x27;
 transmitted these resolutions to Mrs. Washington, who, 1  
 ou the itlst December, 1799, returned an answer, which I 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82006534:00415661101:1859032601:0297/pct:1.5614938828074694,24.40826549780839,16.274951706374758,4.483406386975579/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82006534:00415661101:1859032601:0297/pct:1.5668598411676324,24.412439991651013,16.291049581455248,4.487580880818201/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -567,7 +567,7 @@ in the first resolution.&quot; The then President of
 the United States transmitted these resolutions  
 to Mrs. Washington, who, on the 21st Decem
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290082:1859040301:0315/pct:25.20914668153932,126.4014466546112,34.69046291132181,19.077757685352623/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290082:1859040301:0315/pct:6.304923978239643,31.6003616636528,8.676244943506765,4.769439421338156/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -600,7 +600,7 @@ Congress and “*of the vrofound respect
 Congress will ever bear to her person  
 and character.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_fleshgolem_ver02:data:sn92063989:00514153565:1885032101:0378/pct:65.78040904198062,73.93576666947652,9.741657696447794,3.6584337857203066/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_fleshgolem_ver02:data:sn92063989:00514153565:1885032101:0378/pct:65.7875852170793,73.94138638343308,9.734481521349121,3.6640534996768666/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -627,7 +627,7 @@ highly gratified by any arrangement
 which may diminish the sacrifices she  
 makes of her individual feeling.&quot; It ap
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lilac_ver01:data:sn86071868:0017503173A:1894010501:0501/pct:33.36512781381152,53.77000271223217,16.177031667302558,7.960401410360727/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lilac_ver01:data:sn86071868:0017503173A:1894010501:0501/pct:33.36512781381152,53.77000271223217,16.19610835558947,7.969442184250972/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

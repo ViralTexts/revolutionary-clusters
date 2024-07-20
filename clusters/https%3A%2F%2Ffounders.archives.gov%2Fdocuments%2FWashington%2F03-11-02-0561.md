@@ -172,7 +172,7 @@ sents
   
 was kept for many years with much par- represented their own friends to themi eruble wives and children of drunkards.—j setts, in 1831, there were 118 distiller-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn83016802:00415668843:1839121901:0115/pct:28.86229406279142,77.5664955669622,53.07740130556419,6.276248250116659/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn83016802:00415668843:1839121901:0115/pct:28.867474873070147,77.57427282625602,53.08258211584292,6.276248250116659/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -210,7 +210,7 @@ ridges of htHs Kefe aimiy «Bcamped
   
 and were about closing the wings or hibitory laws&quot;—but his course is still on- POLITICAL II ISTORY. Our fellow cili
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn83016802:00415668843:1839121901:0115/pct:28.86229406279142,72.97013532431171,53.06185887472801,21.231917872141857/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn83016802:00415668843:1839121901:0115/pct:28.867474873070147,72.97402395395862,53.06703968500673,21.243583761082593/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -368,7 +368,7 @@ and some killed. In a word, it was a
 bloody day. Would to Heaven I could  
 add it had been a more fortunate one.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:0041566770A:1843082201:0339/pct:249.8683055311677,335.65166569257747,58.73573309920983,15.780245470485097/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:0041566770A:1843082201:0339/pct:62.46707638279192,83.91291642314437,14.683933274802458,3.9450613676212742/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -609,7 +609,7 @@ utes which time it lasted, had, many
 of them exhausted the forty rounds  
 that they took into the field
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685348:1896051401:0557/pct:37.8395319682407,42.19117647058823,13.539490179690764,14.985294117647058/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685348:1896051401:0557/pct:37.831627324002504,42.184972798117926,13.54188426989764,14.986766651962947/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

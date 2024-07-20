@@ -48,7 +48,7 @@ jpnyment may be profecuted in the fume
 manner as if there had been no miiundcr­  
 ftanding between the two ftates. B
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800122201:0002/pct:28.112549800796813,49.61774846349873,21.887450199203187,10.133413281367112/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800122201:0002/pct:28.112549800796813,49.622745215609854,21.887450199203187,10.128416529255984/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -150,7 +150,7 @@ payment may be profecuted in the fame
 manner as if there had been no mifunder-  
 Randing between the two Rates. Bu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801041501:0001/pct:27.36591179976162,65.69299552906111,21.02502979737783,10.029806259314457/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801041501:0001/pct:27.36591179976162,65.69299552906111,21.02502979737783,10.03974167908594/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -176,7 +176,7 @@ cuted in ciic lame manner as &#x27;if there
 had been no mifunderflanding between  
 the two Itater. But tiiia claui&#x27;e fhall no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801122301:0002/pct:43.60973754279193,48.11145510835913,16.489159376188663,7.603715170278638/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801122301:0002/pct:43.60973754279193,48.11145510835913,16.501838468365666,7.607843137254902/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -276,7 +276,7 @@ the payment may be prosecuted, in the same manner, as
 if there had been no misunderstanding between the two  
 slates, but this clause shill not extend to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184534:1825101401:0228/pct:77.72988505747126,4.892753623188406,17.768199233716476,2.121739130434783/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184534:1825101401:0228/pct:77.71747805267358,4.892186413169488,17.7706836924714,2.125357446479635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -335,9 +335,9 @@ misunderstanding between the two states. But this clause shall not extend t
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1844-02_14_78/page/n24/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1844-02_14_78/page/n24/mode/1up?view=theater)
 
-#### 1844-02-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1844-02-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -375,7 +375,7 @@ ciaitned on account of laptures or condemnations
 &quot;  
 It will thus be perceived that all the claim
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661332:1844021201:0150/pct:18.128025820333512,36.026978875031816,17.374932759548145,4.64494782387376/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661332:1844021201:0150/pct:18.134002749387363,36.026978875031816,17.380909688601996,4.649189785356749/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -424,7 +424,7 @@ individuals of the other, shall be paid, or the payment may be
 prosecuted in the same manner as if there had been no mis.  
 understanding between the two States. But this claws
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530339:1851012501:0166/pct:57.09742216270506,269.89446828250027,46.91998660863743,6.355096834048475/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530339:1851012501:0166/pct:19.032474054235017,89.96482276083343,15.639995536212476,2.1183656113494918/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -454,7 +454,7 @@ it dividuals of one with the individuals of tlie other, to
 J( in the sain&quot; manner as if there had been no mis- ov  
 itr understanding between the two States. Dm i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661484:1851012701:0110/pct:45.04667268894911,34.99641919312485,15.311653116531165,3.2227261876342803/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661484:1851012701:0110/pct:45.05169125765332,34.99641919312485,15.30663454782696,3.230683536245723/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -474,7 +474,7 @@ shall be paid, or the payment may be prosecuted
 in the same manner as if there had been no misunderstanding  
 between the two States. But thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1851013001:0250/pct:58.470588235294116,6.830520185569045,17.235294117647058,2.783535682558484/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1851013001:0250/pct:58.47549019607843,6.830520185569045,17.24019607843137,2.7934063764682655/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -494,7 +494,7 @@ paid, or the payment may be pro*rcuted in the ,
 Kmc manner as if there hail born no misunder- (  
 standing lietwecn the two Slates. Hut tint flame 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661393:1851013101:0144/pct:54.487361545015624,90.84792947453892,13.334280034081226,2.772300197192901/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661393:1851013101:0144/pct:54.49209504875509,90.84792947453892,13.343747041560162,2.7800332521362563/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -516,7 +516,7 @@ of the other,ahall he paid, or the payment may he prosecuted In the
 same manner as if ihere bad been no misunderstanding between tbs  
 two States. But this clause shall not extend to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851020401:0143/pct:48.25391644908616,86.84143547976585,15.535248041775457,3.1051158055484858/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851020401:0143/pct:48.25935596170583,86.84567744124884,15.546127067014796,3.1093577670314754/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -577,7 +577,7 @@ this clause slitill not extend to indemnities claimed uo st­
 ent! nt of captures or confiscations.&#x27;&#x27;  
 Ob this convention being submitted fo the Senate of tl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855021801:0215/pct:84.3683434376536,60.129983752030995,15.435031951499262,3.787026621672291/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855021801:0215/pct:84.3683434376536,60.129983752030995,15.44595554099077,3.799525059367579/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -607,7 +607,7 @@ other, shall be paid, or the payment may be prose­
 cuted in the same manner ns it there had been no  
 misunderstanding between the two States. Bu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661551:1855022001:0184/pct:43.645347241284654,12.678153584343757,13.491627779302773,2.797277175069134/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661551:1855022001:0184/pct:43.64992222527221,12.678153584343757,13.505352731265441,2.807913209955329/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -627,7 +627,7 @@ the payment may be prosecuted in the same manner as
 it there bad been no misunderstanding between the two  
 States. But this clause shall not extend to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:0027174321A:1855022001:0421/pct:108.87026366334905,120.42553191489361,46.74349572201851,7.258358662613982/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:0027174321A:1855022001:0421/pct:36.29008788778302,40.141843971631204,15.581165240672837,2.419452887537994/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -648,7 +648,7 @@ he prosecuted in the i-auie manner as if
 there had been no misunderstanding between  
 the two States. Hut this clause shall not 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215932:1855022001:0032/pct:60.65526239489707,86.34841467759173,12.689668502947715,3.498396864980406/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215932:1855022001:0032/pct:60.649400850405875,86.34226275292106,12.69166344543229,3.5005224660397074/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -671,7 +671,7 @@ j not extend to indemnities cluimed cu account of ea
 j.! lures or confiscations.&#x27;  
 0 | On this convention being submitted to the Sen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1855022201:0544/pct:43.73368146214099,28.48113388239801,13.765593269509719,3.5529592032177746/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1855022201:0544/pct:43.73368146214099,28.487518355359764,13.775263514166909,3.556151439698653/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

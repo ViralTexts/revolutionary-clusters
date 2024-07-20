@@ -242,7 +242,7 @@ fifteen P&#x27;-r cent.
 Pi i2i&gt;a not demanded within twelve month* after the drawing is completed, will be for­  
 feited to the % h&gt; e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1821082201:0179/pct:33.08742161563998,20.321178459309344,41.866469937292514,23.26732673267327/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1821082201:0179/pct:33.08742161563998,20.321178459309344,41.866469937292514,23.27940111084279/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -320,7 +320,7 @@ PnJti not demanded within twelve months after the drawing is compietcj, w ill he
 feited to the wheel.  
 The drawing will commence as soon as a sufficient number of tickets are Sfld. Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1821091201:0191/pct:50.75701624815362,18.05887984681666,42.35598227474151,27.04643370033509/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1821091201:0191/pct:50.75701624815362,18.066858145843305,42.36213687838503,27.042444550821767/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -399,7 +399,7 @@ titled to a prize of 500 dollars.
 The last drawn ticket on the last day&#x27;s drawing will be en­  
 titled to a prize of 5,000 dollars
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1821091901:0195/pct:55.522773372671956,28.901112041133565,36.76931587682095,8.083223723544183/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1821091901:0195/pct:55.522773372671956,28.9090836621627,36.7816091954023,8.079237913029614/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -428,7 +428,7 @@ All the other prizes will be floating in the wheel from the commencement ot the
 dollars.  
 dollars
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1821092601:0199/pct:56.347438752783965,27.5,37.193763919821826,10.947867298578199/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1821092601:0199/pct:56.347438752783965,27.50394944707741,37.19995050730017,10.955766192733018/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -480,7 +480,7 @@ fifteen prr cent.
 Prizes not demanded within twelve months after the drawing it completed, will be for­  
 feited to the whee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1821100301:0203/pct:51.524614254224836,20.063506997530283,42.13813372520206,23.815124073856285/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1821100301:0203/pct:51.53686015184913,20.07134736759575,42.13813372520206,23.811203888823552/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -547,7 +547,7 @@ fifteen pt-r c?*nt.
 Prizes not demanded within twelve months after the drawjng is completed, will be for­  
 feited to the h- el
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1821101001:0207/pct:50.485074626865675,18.261591367247718,43.451492537313435,26.064271315071743/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1821101001:0207/pct:50.485074626865675,18.265544092651883,43.45771144278607,26.068224040475908/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -606,7 +606,7 @@ Prizes not demanded within twelve months after the drawing is completed, will be
 feited to the wheel.  
 The drawing w ill commence as soon as a sufficient number of tickets are sold. Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1821101701:0211/pct:49.53099135552694,21.018957345971565,43.13040279565937,24.703791469194314/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1821101701:0211/pct:49.53712218748084,21.018957345971565,43.124271963705475,24.71169036334913/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -651,7 +651,7 @@ feited to the wheel.
 The drawing will commence as soon as a sufficient number of ticke&#x27;s are s Id The  
 drawing Mill take place once ? week, and ti*c hundred tickets will he drawn &lt; s?ch da* unti
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1821102401:0215/pct:51.11274599963215,27.294313190074796,42.65219790325547,18.081443666152204/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1821102401:0215/pct:51.11274599963215,27.302228026435554,42.66445956716326,18.081443666152204/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -694,7 +694,7 @@ fifteen per cent.
 Prizes not demanded within twelve months afier the drawing is completed, will Le for­  
 feited to the vi Ik el
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1821103101:0219/pct:50.02741729117163,27.024459748278318,42.91719978066167,17.014960816908097/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1821103101:0219/pct:50.033510022543105,27.024459748278318,42.91719978066167,17.022876593049947/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -737,7 +737,7 @@ ifteen p?*r Cent.
 I* ri /.?-# not demanded within twelve months afier the drawing is completed, will be for­  
 cited to i tie \ h&lt; el
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1821110701:0223/pct:49.84463535002742,32.6774919995259,43.2827636629501,11.82884911698471/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1821110701:0223/pct:49.85072808139889,32.68539370234286,43.29494912569305,11.82884911698471/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -818,7 +818,7 @@ fifteen per cent.
 I&#x27;nzt-a not .leTianded within twelve months after the drawing is completed, will he for­  
 feited to the h*ei
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1821111401:0227/pct:49.91738571690839,20.611322549952426,43.78557003855333,23.929590865842055/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1821111401:0227/pct:49.929624869959,20.615287028227087,43.77945046202803,23.933555344116716/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -867,7 +867,7 @@ fiftt e?? pei cent. ,4r &#x27;
 Prizes not demanded within twelve months after the drawing is completed, will l&gt;e for*  
 feitt d to she -.ln-el
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1821112101:0231/pct:50.92230296254891,20.225934382886674,43.73020309297559,24.28794616031727/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1821112101:0231/pct:50.93472455127011,20.22994031166126,43.723992298614995,24.291952089091858/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -906,7 +906,7 @@ P zes not demanded within twelve month* after the drawing is completed, will Le 
 feited to the ? h&lt; el.  
 The drawing u ill commence as soon as a sufficient number of tickets are sold. Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1821112801:0235/pct:50.065383896880256,29.690302523018055,44.19951429105175,15.353342102116466/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1821112801:0235/pct:50.065383896880256,29.694288333532622,44.20574132884987,15.357327912631034/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -965,7 +965,7 @@ titled to a prize of 500 dollars.
 The last drawn ticket on the last day&#x27;s drawing will be en­  
 titled to a prize of . 5,000 dollars
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1821120501:0239/pct:38.290310512532734,19.683529129705107,37.14927048260382,18.46080076720211/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1821120501:0239/pct:38.290310512532734,19.691520818348916,37.174211248285324,18.46080076720211/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1028,7 +1028,7 @@ fifteen per Cent.
 Prize b not demanded within twelve months after the drawing is completed, will be for -  
 fcitcd to *he. \.ht el
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1821121201:0243/pct:48.43082636954503,20.503597122302157,45.626740947075206,24.256594724220623/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1821121201:0243/pct:48.4432064376354,20.511590727418067,45.61436087898483,24.260591526778576/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1100,7 +1100,7 @@ fifteen per cent.
 P. izeg not demanded within twelve months afier the drawing is completed, will be for­  
 feited to the .&lt; heel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1822012301:0267/pct:32.26627864678065,33.76562131572742,42.633684976355035,11.801461919358642/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1822012301:0267/pct:32.27840426821874,33.76562131572742,42.633684976355035,11.805391810107679/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1146,7 +1146,7 @@ Priaea not demanded within twelve months after the drawing isrompleted, w,Utbe f
 feited to the wheel.  
 The drawing W&#x27;H commence a? toon as a sufficient number of tickets are S&#x27;?ld. Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1822022701:0287/pct:33.14758223979867,71.94015785133702,42.692791659176706,13.452703498645306/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1822022701:0287/pct:33.14758223979867,71.94408450151177,42.70477560069507,13.460556798994778/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1184,7 +1184,7 @@ fifteen per cent.
 I&#x27;n/rs not demanded within tweUc months after the drawing iscompleted, willfhe for­  
 feited to the v hre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1822030601:0291/pct:33.315266485998194,70.92708210625516,43.17976513098464,14.724938155259748/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1822030601:0291/pct:33.315266485998194,70.93493540660462,43.17976513098464,14.728864805434483/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1222,7 +1222,7 @@ fifteen per cent.
 Prize* nut demanded withm twelte months after the drawing incompleted, will&#x27;bc for­  
 feited to the * heel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1822031301:0295/pct:39.903069466882066,70.21572720946416,36.42075031412673,14.602180468568777/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1822031301:0295/pct:39.903069466882066,70.22345936750948,36.42673368036858,14.606046547591433/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1283,7 +1283,7 @@ fifteen pet cent.
 Prijra not demanded within twelve months after the drawing incompleted, will?l&gt;e for­  
 feited to the w hi el
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1822032001:0299/pct:33.48294434470377,59.295840111550085,42.28007181328546,26.132930513595166/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1822032001:0299/pct:33.488928785158585,59.295840111550085,42.292040694195094,26.144550313734605/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1329,7 +1329,7 @@ Prize* not demanded within twelve montha after the drawing incompleted, willlbe 
 feited to the wheel.  
 The drawing will commence as aoon aa a sufficient number of ticket* are sold. Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1822032701:0303/pct:40.23563013209568,63.407562050568316,35.844341306676185,21.885873347251216/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1822032701:0303/pct:40.23563013209568,63.41529420861362,35.85029156253719,21.885873347251216/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1360,7 +1360,7 @@ fifteen pet rent.
 P &gt;r.m not demanded w.thm twelve months after the drawing iscoinpleted, h ilUhc for­  
 feited to tlie .In e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1822040301:0307/pct:34.50292397660819,73.17273795534665,42.43421052631579,12.7262044653349/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1822040301:0307/pct:34.50292397660819,73.17273795534665,42.440302144249515,12.737955346650999/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1396,7 +1396,7 @@ Prizes not demanded within twelve months after the drawing incompleted, willlbe 
 feited to &#x27;he wheel.  
 The drawing will commence at soon as a sufficient number of tickets are sold. Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1822042401:0319/pct:33.06392358559882,73.62740497419053,43.681116825863334,12.587986860628813/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1822042401:0319/pct:33.07004653441097,73.63522602846864,43.681116825863334,12.59189738776787/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1426,7 +1426,7 @@ fifteen prr c, lit .
 I&#x27;. i/? * not .Innanded w ithin t * elve mont lis after the drawing is completed, w ill&#x27;he for*  
 f? 1 f c &gt;1 to &#x27; lie &gt;? 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1822050801:0327/pct:14.491695564884102,72.92908050005842,43.47508669465231,11.952330879775674/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1822050801:0327/pct:14.491695564884102,72.92908050005842,43.48117052990205,11.964014487673793/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

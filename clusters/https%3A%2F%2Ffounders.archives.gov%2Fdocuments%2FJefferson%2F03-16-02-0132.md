@@ -152,7 +152,7 @@ web of the law. He wasjustifiably there.
 fore in avoiding these by ovmooo.{y sorb­  
 ism, by miscongtructiongand misspplica
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153188:1830040801:0458/pct:67.85779067658262,78.48911651728554,16.3431888264103,13.909905715283436/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153188:1830040801:0458/pct:67.86988330612492,78.49299654677375,16.3431888264103,13.91378574477166/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -201,7 +201,7 @@ And how many of our wisest men still be­
 lieve in the reality of these inspirations,  
 while perfectly sane on all other subjects.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153188:1830040801:0459/pct:12.87506819421713,4.095249050960543,16.857610474631752,20.25767859197055/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153188:1830040801:0459/pct:12.887191610595865,4.095249050960543,16.869733891010487,20.269182100540664/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -589,7 +589,7 @@ him : and that the postulate of my form­
 er letter 1s no wore than is granted in »!l  
 &quot;other mistonien!l works,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1834073001:0121/pct:64.95412844036697,12.92942743009321,31.724770642201836,82.21038615179761/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1834073001:0121/pct:64.95412844036697,12.938304482911674,31.730886850152906,82.21926320461607/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -749,7 +749,7 @@ This will do, upon the subject of Mr Jefferson&#x27;s
 religious views. We trust we have met the defi  
 ance of our neighbor in Newark to his perfect sati
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530303:1850020501:0359/pct:45.476381104883906,38.60558238134495,42.64211369095276,71.8878812860676/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530303:1850020501:0359/pct:15.15879370162797,12.868527460448318,14.214037896984253,23.962627095355867/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -775,7 +775,7 @@ ance of our neighbor in Newark to his perfect sati
 
 ---
 
-## [From _The American Whig review_](https://archive.org/details/sim_american-whig-review_1850-11_12_35/page/n39/mode/1up?view=theater)
+## [From _The American Whig Review (1850-1852)_](https://archive.org/details/sim_american-whig-review_1850-11_12_35/page/n39/mode/1up?view=theater)
 
 #### 1850-11-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -978,7 +978,7 @@ tial policy of interdicting in the seas and
 territories of both Americas, the ferocious  
 and sanguinary contests of Europe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn82014998:00279557980:1861070601:0115/pct:47.74321165258047,26.589825119236885,14.835461247976983,9.485956544780073/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn82014998:00279557980:1861070601:0115/pct:47.74321165258047,26.599761526232115,14.848948030929689,9.485956544780073/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1283,7 +1283,7 @@ of the essential policy of interdicting in the 6eas
 and territories of both Americas the ferocious  
 and sanguinary contests of Europe.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn82015679:00271745709:1887050801:0087/pct:61.0427807486631,54.63371579876434,16.898395721925134,22.0432480141218/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn82015679:00271745709:1887050801:0087/pct:45.80714190183229,40.97528684907326,12.678881904507156,16.537952338923212/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1348,7 +1348,7 @@ which is now in the hands of the Presi­
 dent, awaiting his signature:  
 &quot;That hereafter no person in tho Dis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_oakland_ver01:data:sn82015104:00175036659:1891021501:0431/pct:18.626028059990325,42.226397369657114,12.304467021448154,16.756693283231563/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_oakland_ver01:data:sn82015104:00175036659:1891021501:0431/pct:18.626028059990325,42.23226867073743,12.308498629253346,16.765500234852045/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1397,7 +1397,7 @@ fleets of Brazil and the United States rid?
 ing together as brethren of the same fam?  
 ily and pursuing the same object&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jade_ver01:data:sn87060150:00175033828:1891030601:0114/pct:71.70607028753993,29.23492506099686,13.725239616613418,17.288253746950158/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jade_ver01:data:sn87060150:00175033828:1891030601:0114/pct:71.71458998935037,29.23492506099686,13.725239616613418,17.294062971999534/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1480,7 +1480,7 @@ ity in European affairs, but &quot;on the other
 hand they would not suffer others to th­  
 terfere against the emancipation of Ameri
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_grace_ver02:data:sn83045604:00202199355:1895100801:0144/pct:11.10948905109489,239.09798149705634,38.481751824817515,16.831370899915896/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_grace_ver02:data:sn83045604:00202199355:1895100801:0144/pct:3.7031630170316303,79.69932716568545,12.827250608272506,5.6104569666386315/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1505,7 +1505,7 @@ ter to the court of St. James, that
 the United States and England  
 should co-operate in preventing th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_ephemera_ver01:data:sn92053934:00212471811:1895122101:0436/pct:24.372623574144487,34.29701765063908,16.425855513307983,8.277541083384053/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_ephemera_ver01:data:sn92053934:00212471811:1895122101:0436/pct:18.299410310062772,25.730371272063298,12.326421913638958,6.20815581253804/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1528,7 +1528,7 @@ lish affairs proposed m September
 1823 to Rush American Minister to  
 the Court of St Jame that th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_alpha_ver01:data:sn86089174:00175036374:1895122401:0409/pct:31.646341463414632,102.9954571266326,18.23170731707317,8.532084043157298/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_alpha_ver01:data:sn86089174:00175036374:1895122401:0409/pct:23.754321740898924,77.25369108461102,13.687207646939191,6.402612152186258/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1561,7 +1561,7 @@ ocean which eparates the two hem
 ispheres  
 Canning then at tho head of Eng
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_alpha_ver01:data:sn86089174:00175036374:1895122401:0413/pct:31.382113821138212,93.27518289251547,18.272357723577237,14.673607203151379/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_alpha_ver01:data:sn86089174:00175036374:1895122401:0413/pct:23.550945698596706,69.95990433314576,13.727882855399633,11.005205402363535/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1764,7 +1764,7 @@ The only reasou 1 have yet heard advanced
 for making a specific definition of the doctrine  
 at this time, is that foreign powers should ne
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_garwood_ver02:data:sn83040340:00237285281:1896052201:0629/pct:121.33142448103078,27.82393056416615,21.152469577666427,12.746435213887167/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_garwood_ver02:data:sn83040340:00237285281:1896052201:0629/pct:80.90209414712726,18.549287042777433,14.104170395561123,8.505889646621203/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1804,7 +1804,7 @@ Canning invoked the intervention of the United
 States and promised the full support of Eng­  
 land. President Monroe conferred with Jeffer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_goethe_ver01:data:sn83030272:00175042891:1896082701:0158/pct:236.00299401197606,285.96732325545884,49.70059880239521,45.99175446633074/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_goethe_ver01:data:sn83030272:00175042891:1896082701:0158/pct:59.011791128579446,71.49183081386471,12.42747520119783,11.497938616582685/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1824,7 +1824,7 @@ gun shall ever be heard, or an American on
 the other.&quot; He hoped in 1828 for the an­  
 nexation of Cuba, &quot;as the most interestin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:00175042933:1897040601:0291/pct:128.19722650231125,80.07301490721022,51.07858243451464,12.960146029814421/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:00175042933:1897040601:0291/pct:32.04930662557781,20.018253726802556,12.76964560862866,3.2400365074536053/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1844,7 +1844,7 @@ shall ever be heard , or an American on the
 ather. &quot; Ho hoped In 1823 for the annexa­  
 tion of Cuba , &quot;as the most Interesting addl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_beatrice_ver01:data:sn99021999:00206538958:1897041001:0746/pct:92.64196675900277,62.31190150478796,16.256925207756233,3.406292749658003/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_beatrice_ver01:data:sn99021999:00206538958:1897041001:0746/pct:69.5142015933495,46.740766073871406,12.196917215102182,2.547879616963064/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1868,7 +1868,7 @@ nal wars of Europe, tho Hon and tho
 Iamb, within our regions, shall lie down  
 logetuer in penc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_dracula_ver01:data:sn84037890:00206533614:1897042801:0291/pct:82.94817927170868,66.65768920010773,14.968487394957982,7.096687314839752/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_dracula_ver01:data:sn84037890:00206533614:1897042801:0291/pct:62.24168126094571,50.0,11.225919439579684,5.3157823862106115/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1893,7 +1893,7 @@ of Europe, tho lion and tho lamb, within
 our regions, shall Ho down&#x27; together In  
 pence.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_atherton_ver01:data:sn84026355:00211100229:1897060901:0648/pct:72.7866473149492,13.705722070844686,15.947024673439767,6.771117166212534/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_atherton_ver01:data:sn84026355:00211100229:1897060901:0648/pct:54.599891126837235,10.286103542234333,11.976047904191617,5.081743869209809/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1921,7 +1921,7 @@ tional security and happiness and will be
 maintained. We supported it against France  
 when MAximilian invaded Mexico, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042957:1897102001:0831/pct:75.20723436322533,38.29915560916767,50.037678975131875,30.156815440289506/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042957:1897102001:0831/pct:18.8124410933082,9.574788902291917,12.516493873704054,7.5392038600723765/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1939,7 +1939,7 @@ tition through the ocean which separates
 which no European gun shall ever be  
 heard or an American on the other.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_idyllwild_ver01:data:sn85066387:00175037639:1897121601:0244/pct:2.53690036900369,32.779124812377326,13.17650676506765,1.997459877612285/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_idyllwild_ver01:data:sn85066387:00175037639:1897121601:0244/pct:2.5420254202542027,32.78297348266174,13.171381713817139,2.0013085478967017/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1968,7 +1968,7 @@ spheres on the higher side of which
 no European gun shall ever be  
 heard or an American on the othe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_angel_ver01:data:sn85047097:00211100382:1898010601:0027/pct:57.63319672131148,83.90747212514562,22.28483606557377,12.89732068563821/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_angel_ver01:data:sn85047097:00211100382:1898010601:0027/pct:43.24878298744555,62.938924945914465,16.730719959005892,9.668830088201032/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2005,7 +2005,7 @@ eternal wars of Europe, the lion
 and the lamb, within our regions,  
 shalf he down together in peace
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_fargo_ver01:data:sn85052141:0020653378A:1898041501:0844/pct:120.65727699530517,263.1960631960632,42.79007377598927,27.803677803677804/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_fargo_ver01:data:sn85052141:0020653378A:1898041501:0844/pct:30.179500083878544,65.7990157990158,10.702902197617849,6.950919450919451/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2059,7 +2059,7 @@ lose sight of the essential policy of interdicting i,
 both Americas the ferocious and sang uinary cont  
 n our policy so to do. it i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_tower_ver01:data:sn90059523:00206537000:1898121801:0251/pct:70.07705479452055,27.723283427981414,24.942922374429223,8.776458440887971/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_tower_ver01:data:sn90059523:00206537000:1898121801:0251/pct:70.08656773211568,27.723283427981414,24.94767884322679,8.783341937704353/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2088,7 +2088,7 @@ lose sight of the essential policy of interdicting in the seas and territories o
 boih Americas the ferocious and sanguinary contests of Europe.  
 • * 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_tower_ver01:data:sn90059523:00206537000:1898121801:0253/pct:69.44920091324201,28.239545689210118,25.0,7.062467733608673/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_tower_ver01:data:sn90059523:00206537000:1898121801:0253/pct:69.45871385083714,28.24298743761831,24.99048706240487,7.072792978833247/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2117,7 +2117,7 @@ lose sight of the essential policy of interdicting in the seas and territories ,
 both Americas the ferocious and sanguinary contests of Europe.  
 • • 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_tower_ver01:data:sn90059523:00206537000:1898121801:0254/pct:69.76312785388127,27.80588538977801,25.0,7.072792978833247/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_tower_ver01:data:sn90059523:00206537000:1898121801:0254/pct:69.7726407914764,27.80588538977801,24.99048706240487,7.072792978833247/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2145,7 +2145,7 @@ lose sight of the essential policy of interdicting in the seas and territories o
 both Americas the ferocious and sanguinary contests of Europe.  
 • * 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_tower_ver01:data:sn90059523:00206537000:1898121901:0279/pct:71.23287671232876,27.92013996089328,25.185502283105023,6.617268704332613/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_tower_ver01:data:sn90059523:00206537000:1898121901:0279/pct:71.23287671232876,27.923570374944255,25.190258751902586,6.613838290281637/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2179,7 +2179,7 @@ vocates of expansion when replying
 to these objections? They bow in  
 reverence at the foot stool of thes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588496:1899042001:0526/pct:45.204589738038536,34.64436407474382,17.64451179909071,12.62808921036769/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588496:1899042001:0526/pct:35.03914988814318,26.85300529430084,13.685682326621924,9.782777950794145/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2204,7 +2204,7 @@ rage of the eternal wars of Europe, the
 lion and the lamb, within our regions,  
 shall lie down together in peace.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_caesar_ver01:data:sn82002441:00517011800:1899071501:0204/pct:62.166172106824924,66.323966186886,13.682822288163534,5.574594471098926/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_caesar_ver01:data:sn82002441:00517011800:1899071501:0204/pct:62.177162325530276,66.32777396999467,13.682822288163534,5.5784022542076/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2228,7 +2228,7 @@ rage of the eternal wars of Europe, the
 lion and the lamb, within our regions,  
 shall lie down together in peace.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_marmaduke_ver02:data:sn89066695:00415661794:1899072001:0022/pct:53.73626373626374,10.778850074758733,13.608058608058608,6.918580943319288/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_marmaduke_ver02:data:sn89066695:00415661794:1899072001:0022/pct:40.33351658420378,8.087535680304471,10.207073483599046,5.192333831724888/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2260,7 +2260,7 @@ both Americas, the ferocious and san­
 guinary contests of Europe. I wish to  
 see this coalition begun.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_miller_ver01:data:sn86092518:00514157893:1899082201:0358/pct:16.851558372952983,10.854115518800878,12.713505898925867,10.905801783176122/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_miller_ver01:data:sn86092518:00514157893:1899082201:0358/pct:16.848591549295776,10.852713178294573,12.715669014084508,10.907622739018088/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2286,7 +2286,7 @@ and the lamb, within our regions, shall
 lie&#x27;down together in peace.—Thomas  
 Jefferson.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_hawk_ver01:data:2015270501:00415623069:1899082501:0432/pct:34.805890227576974,24.22493625016776,14.190093708165998,7.542611729969131/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_hawk_ver01:data:2015270501:00415623069:1899082501:0432/pct:34.82023331420922,24.228291504496042,14.194874737043412,7.549322238625688/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2326,7 +2326,7 @@ of both Americas tho ferocious and
 sanguinary contests of Europe. I wish  
 to see this coalition begun.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_delta_ver01:data:sn87075048:00237282565:1899101901:0528/pct:9.846211552888223,75.82464658003713,16.447861965491374,20.119948593459945/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_delta_ver01:data:sn87075048:00237282565:1899101901:0528/pct:7.392120075046904,56.875624732257606,12.345215759849907,15.093531343709838/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

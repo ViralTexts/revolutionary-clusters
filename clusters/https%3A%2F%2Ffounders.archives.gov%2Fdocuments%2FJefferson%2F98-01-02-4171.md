@@ -289,7 +289,7 @@ pat tirular branch *»f science from one school to a.
 not her, in accommodation of the particu at qtuiifi  
 cations o different Professor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn85025230:00414184108:1827010601:0050/pct:33.082151300236404,60.38038496791934,15.839243498817966,22.800183318056828/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn85025230:00414184108:1827010601:0050/pct:33.07726399763628,60.373467751174246,15.841827941104052,22.80139000267308/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -307,7 +307,7 @@ paiticular branch of science from one school to
 another, in accommodation &lt;&gt;( the particular qualift.  
 cation* of different Piofessnr*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827011201:0319/pct:64.37201907790143,91.47277524586232,14.753577106518282,2.4466298872631325/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827011201:0319/pct:64.36178667938324,91.46180597193909,14.756530493297303,2.4503337730343366/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

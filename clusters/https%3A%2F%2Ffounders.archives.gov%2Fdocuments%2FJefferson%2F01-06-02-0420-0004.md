@@ -475,7 +475,7 @@ tution and state government, provided the same shall be republican
 sent of the United States in Congress as-­  
 sembled, and of the particular State within
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84037932:00415668946:1845032901:0281/pct:128.32670541449986,107.587984756781,38.727439583970636,3.1383097960098634/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84037932:00415668946:1845032901:0281/pct:42.77556847149995,35.86266158559366,12.909146527990211,1.0461032653366211/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -545,7 +545,7 @@ That of the eastward, farther up the
 Ohio--PELLISIA.  
 WAsh For Horses.As the followin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn89080032:00415668132:1847070601:0212/pct:171.1191335740072,143.2133261687265,37.132542547705,61.612036539494895/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn89080032:00415668132:1847070601:0212/pct:57.061782535792595,47.737775389575496,12.382303624403457,20.537345513164965/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -628,7 +628,7 @@ between the Ohio, Lake Erie, and Pennsylvania, shall be one
 State.  
 That the settlers within the territory so to be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1847082801:0649/pct:1.213938874607255,13.698015917498038,15.809768637532134,8.967604528640287/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1847082801:0649/pct:1.2234599638198609,13.705488921271906,15.805008092925831,8.963868026753353/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -720,7 +720,7 @@ ther up the Ohio, otherwise called the Pelisipi, shall be called
 Pelisipim.  
 That all the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1847082801:0649/pct:1.1853756069694372,23.42786683107275,15.838331905169952,38.762470575047644/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1847082801:0649/pct:1.1853756069694372,23.435339834846616,15.847852994382558,38.75873407316071/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -889,7 +889,7 @@ lows:
 shall be neither slavery nor involuntary servitude in any  
 I the said states, otherwise than in punishment of crime
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347910:1847091301:0052/pct:260.6991932385709,149.05376990087115,61.87091817134076,16.416341243616703/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347910:1847091301:0052/pct:65.16228154407528,37.257846523502025,15.464758978298445,4.103468989337738/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1220,7 +1220,7 @@ as 11&quot;s under the thirty seventh degree, that to the
 w i .i ard, w linn and adjacent to which are the confluences  
 ul ihw rivsrs Wabash, Shawanee, Tanitaee, Ohio, illi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661137:1849030901:0287/pct:4.779353194201051,57.02997616957231,19.69093516010833,38.90630879217358/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661137:1849030901:0287/pct:4.779353194201051,57.03415694636063,19.69093516010833,38.910489568961914/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1237,7 +1237,7 @@ nois, Mississippi, and Missouri, shall be called Poly[&gt;ou
 inia; and that to the eastward, further up the Ohio, oihei  
 r wise called the Pelisipi. shall be called Pclisipia.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661137:1849030901:0287/pct:21.252190536880676,42.25511099962373,15.660347299665446,1.4423679919729087/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661137:1849030901:0287/pct:21.252190536880676,42.259291776412056,15.660347299665446,1.4423679919729087/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1388,7 +1388,7 @@ l on the other; and those adjoining on the east by the same &lt;
 meridian on their western side, and on their easiern by tho  
 , meridian of the western cape of the mouth of the Great 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661137:1849031801:0323/pct:67.52691576947436,76.75175175175175,17.685243825205827,4.9924924924924925/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661137:1849031801:0323/pct:67.52691576947436,76.75592258925592,17.695799028921257,4.9924924924924925/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1490,7 +1490,7 @@ ecu original Status and those newly described, unalterable I
 issembled, and ol the particular Slate within which such I  
 duration is proposed to be inade
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661137:1849031801:0323/pct:67.52691576947436,3.6786786786786787,34.00886637112096,91.1911911911912/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661137:1849031801:0323/pct:67.52691576947436,3.6828495161828494,34.01942157483639,91.19536202869536/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1579,7 +1579,7 @@ the other; and those adjoining on the
 cast by the same meridian on their west­  
 ern side, and on their eastern by
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn86063325:00200292455:1849041201:0116/pct:4.479326186830015,77.90661234722657,16.960183767228177,19.429645879034787/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn86063325:00200292455:1849041201:0116/pct:3.37035618536959,58.42995926041993,12.715434699348908,14.572234409276088/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1710,7 +1710,7 @@ That the proceeding articles shall bs
 formed into a charter of compact, shall  
 bo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn86063325:00200292455:1849041201:0116/pct:4.862174578866769,20.213099341899092,34.724349157733535,110.43560012535255/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn86063325:00200292455:1849041201:0116/pct:3.6576024511681346,15.16765904105296,26.062811183454617,82.82670009401441/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1986,7 +1986,7 @@ That simult aneously with the extension of the ordi.
  nance of 1787 to all the territory in the possession of  
 the Amerlean people, their delegates in the conve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271743002:1849072001:0096/pct:51.12378396511238,99.28595715742945,56.541429050654145,20.367222033322/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271743002:1849072001:0096/pct:17.041261321704127,33.09531905247648,18.847143016884715,6.789074011107333/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2179,7 +2179,7 @@ ihemaelvest Provided, That both the temporary and per­
 manent governments be established upon these principles  
 a* their basis.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850041301:0482/pct:0.4827031375703942,6.56795747911921,15.752212389380531,10.566945077195646/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850041301:0482/pct:0.48806650576562083,6.572175820467392,15.762939125770984,10.566945077195646/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2216,7 +2216,7 @@ provided that the territory ceded, or to be ceded,
 by individual States to the United States,&quot; &quot;shall  
 be formed into distinct States,&quot; the boundaries o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1853010801:0467/pct:19.902979902979904,27.345160947625626,15.44005544005544,1.9228726229682354/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1853010801:0467/pct:19.91221991221991,27.348702149509542,15.44005544005544,1.9264138248521547/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2251,7 +2251,7 @@ editary title. That after the year 1800 of the Chris
 tb.ere sha11 be neither slavery nor involuntary  
 servitude in any of the said States otherwise than i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1853010801:0467/pct:19.84753984753985,31.286518644427918,16.077616077616078,10.209285031339636/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1853010801:0467/pct:19.85215985215985,31.286518644427918,16.082236082236083,10.212826233223556/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2320,7 +2320,7 @@ western side, and on their eastern by tho meridian of the I
 western cape of the mouth of the (Jreat Kanawha. And the j  
 territory eastward of this last meridian between the Ohio, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661617:1854062401:0209/pct:49.826939717334874,8.601911535896866,16.03691952696856,7.1904867748388535/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661617:1854062401:0209/pct:49.8317469474089,8.605616062828776,16.041726757042593,7.194191301770764/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2409,7 +2409,7 @@ ward, further up the Ohio, otherwise called the Pelisipi, shall
 be called Pelitipia.  
 &quot; -That all the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661617:1854062401:0209/pct:49.36544563022786,19.81551455879084,16.512835304297663,32.95176705934652/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661617:1854062401:0209/pct:49.375060090375925,19.81551455879084,16.50802807422363,32.95917611321034/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2439,7 +2439,7 @@ States to the United States.&quot; It provided
 that such territory should from time to  
 time be &quot; formed into distinct States,&quot; and tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1856013101:0448/pct:12.813370473537605,42.10874079667737,14.218239069880102,2.812912969605437/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1856013101:0448/pct:12.82144443098785,42.11503366685545,14.210165112429857,2.816059404694481/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2479,7 +2479,7 @@ Territory, introduced the following resolutions,
 which were adopted:  
 ! &#x27; That the setiiers within the territory so to be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1856091801:0585/pct:14.592170645982305,14.989655820951665,11.974306144709733,2.313334587173218/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1856091801:0585/pct:14.592170645982305,14.995925020374898,11.982385973417363,2.313334587173218/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2520,7 +2520,7 @@ whereof ;he party shall have Ik en duly convicted to
 hove been personally guilty.*&#x27;  
 This, Mr. Chairman, was Thomas Jefferson&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1856091801:0585/pct:14.495212701490729,20.96106827158172,13.465034541267725,9.131088959939815/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1856091801:0585/pct:14.495212701490729,20.964202871293335,13.473114369975356,9.13735815936305/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2568,7 +2568,7 @@ tomia, and that to the eastward, further up the Ohie,
 otherwise called the Pelisipl, shall be called Plisipi.  
 What says The itlas to this
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530522:1856123001:0620/pct:105.95141040273928,176.18655046519845,47.52975705201369,46.81427393710988/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530522:1856123001:0620/pct:35.31713680091309,58.72885015506615,15.843252350671232,15.604757979036627/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2633,7 +2633,7 @@ following act, directed against foreigners, was
 passed, and this may be called the first Know  
 Nothing act
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_harrison_ver01:data:sn82015672:00296021891:1857010601:0598/pct:26.180836707152498,103.92843251653053,115.24966261808368,106.93634124205886/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_harrison_ver01:data:sn82015672:00296021891:1857010601:0598/pct:6.5463134806816266,25.982108129132634,28.81727686856757,26.734085310514715/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2704,7 +2704,7 @@ i miret tr
 ward, further up the Ohio, otherwise called  
 the Pelisipi, shall be called Pelisipia.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_gary_ver01:data:sn84023881:0020219137A:1857010901:0248/pct:99.21951219512195,36.915795701045155,40.0,122.18497337803194/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_gary_ver01:data:sn84023881:0020219137A:1857010901:0248/pct:24.813956325484934,9.228948925261289,10.003659875564232,30.546243344507985/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2803,7 +2803,7 @@ and Pennsylvania, shall be oue State.
 That the settlers within the territory  
 so to be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn88059517:00279529364:1858022501:0244/pct:43.941063068025336,21.544889650739233,12.434591021757091,23.9768587958003/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn88059517:00279529364:1858022501:0244/pct:43.941063068025336,21.552031997714447,12.439181125493436,23.9768587958003/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2830,7 +2830,7 @@ That the territory northward of the
 45tli degree, that is to say, of the com­  
 pletion of 45 degrees from the equator,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn88059517:00279529364:1858022501:0244/pct:44.27155053704214,13.220484251124919,24.717708620214818,77.95157488750803/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn88059517:00279529364:1858022501:0244/pct:44.28073074451483,13.220484251124919,24.722298723951162,77.95871723448325/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2858,7 +2858,7 @@ Lake Erie, shall be called Washington.
   
 formed into a charter of compact,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn88059517:00279529364:1858022501:0244/pct:56.692371247590195,25.958860081422756,12.393280088129991,19.209342189843582/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn88059517:00279529364:1858022501:0244/pct:56.69696135132654,25.958860081422756,12.407050399339026,19.21291336333119/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2904,7 +2904,7 @@ be called Pelisipia.
   
 under his hand and the seal of the United 1er
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn88059517:00279529364:1858022501:0244/pct:56.65106031396309,18.577244482536962,25.158358578903883,28.733661881294193/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn88059517:00279529364:1858022501:0244/pct:56.65565041769944,18.577244482536962,25.162948682640227,28.7372330547818/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2956,7 +2956,7 @@ ticular State within which such alteration had uttered nothing else—would be a
   
 is proposed to be made. P^
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn88059517:00279529364:1858022501:0244/pct:56.692371247590195,25.958860081422756,37.813274580005505,26.65523891150632/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn88059517:00279529364:1858022501:0244/pct:56.701551455062884,25.958860081422756,37.81786468374185,26.658810084993927/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3116,7 +3116,7 @@ original States, so that such law*, nevertheless,
 should bo subject to alteration by their ordinary  
 legislature. If this plan had declared that the e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_belmont_ver02:data:sn82014511:no_reel:1859090701:0002/pct:32.96486379786814,1.548467017652524,21.496249506514015,95.63332301021988/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_belmont_ver02:data:sn82014511:no_reel:1859090701:0002/pct:32.96486379786814,1.5562093527407865,21.501184366363994,95.63332301021988/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3183,7 +3183,7 @@ of voting, when they shall be admitted into
 3. That such temporary Government only  
 shail continue in force in any State until it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290070:1859090901:0239/pct:131.97509903791737,175.0252440255806,34.46519524617997,2.602939526534276/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290070:1859090901:0239/pct:33.00778485491861,43.75631100639515,8.61995753715499,0.650734881633569/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3215,7 +3215,7 @@ temnorary Grovernments for the territories, in
   
 ther selves as States, having, as provided in e sene in whic the wor is now used mu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290070:1859090901:0239/pct:95.24617996604414,191.5404465387636,107.18732314657612,31.145517783013577/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290070:1859090901:0239/pct:23.821656050955415,47.8851116346909,26.80820948336872,7.786379445753394/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3254,7 +3254,7 @@ thousand inhabitants, as follows:
 That such temporary Government only shall con­  
 tinue in force in any State until it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472074:1859092401:0247/pct:67.97974113674732,376.4102564102564,318.23297692740573,13.511705685618729/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472074:1859092401:0247/pct:16.999718547706163,94.1025641025641,79.58063608218407,3.3779264214046822/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3601,7 +3601,7 @@ ment of the territory ceded or to be ceded
 by the individual States to the United  
 States.’ 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347282:1860083101:0476/pct:76.00124668848372,65.5331088664422,12.903225806451612,2.457912457912458/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347282:1860083101:0476/pct:76.00124668848372,65.53684998129442,12.91361487714924,2.457912457912458/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3627,7 +3627,7 @@ pose of establishing a temporary government
 to adopt the constitution and laws of any one  
 of these States 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347282:1860083101:0477/pct:11.11111111111111,18.88888888888889,13.027894654823125,5.005611672278339/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347282:1860083101:0477/pct:11.116305646459924,18.892630003741115,13.027894654823125,5.005611672278339/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3644,7 +3644,7 @@ of these States
 6hall continue in force in any State until it shall  
 have
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347282:1860083101:0477/pct:11.266947171575502,34.074074074074076,12.93439301854449,1.2570145903479237/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347282:1860083101:0477/pct:11.266947171575502,34.0778151889263,12.93439301854449,1.2532734754956978/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3690,7 +3690,7 @@ not of voting.”
 Attached to the provision which appears  
 in this paper under the “ third ” head is 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347282:1860083101:0477/pct:11.31369798971482,40.774410774410775,12.996727442730247,14.938271604938272/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347282:1860083101:0477/pct:11.31369798971482,40.774410774410775,13.007116513427874,14.953236064347175/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4109,7 +4109,7 @@ porary government of the western ter-
   
 Virginia held this great exten
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eeyore_ver01:data:sn87052143:00294556552:1879071901:0364/pct:18.904646952323475,122.52295795070083,13.111044055522028,2.609956500724988/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eeyore_ver01:data:sn87052143:00294556552:1879071901:0364/pct:14.18867924528302,91.89221846302561,9.841509433962264,1.9574673755437408/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4194,7 +4194,7 @@ Felisipl, shall be called Pelisipia.
 Each reader can julgs for himself how much was  
 vained and how much was lost by the fact that, unde
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044838:1884030901:0050/pct:340.0,269.00486914181374,59.078947368421055,44.99391357273281/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044838:1884030901:0050/pct:85.04795937558774,67.25121728545344,14.778070340417528,11.248478393183202/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4339,7 +4339,7 @@ that to the eastward, further up the |
 Ohio, otherwise called the Pelisipi, ehall | |  
 be called Pelisipia.” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_fleshgolem_ver02:data:sn92063989:00514153565:1884082301:0258/pct:24.176654788899686,28.827690752905507,10.290465392506208,18.671045982819606/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_fleshgolem_ver02:data:sn92063989:00514153565:1884082301:0258/pct:24.1802541122269,28.833305260793892,10.290465392506208,18.673853236763797/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4399,7 +4399,7 @@ that to the eastward, further up the
 Ohio, otherwise called the Pelisipi, shall  
 be called I&#x27;elisipia.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00202194059:1884090301:0004/pct:34.334006054490416,54.247795337466165,11.541372351160444,18.03894176198376/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00202194059:1884090301:0004/pct:34.34241506895392,54.2536162286446,11.545576858392197,18.03894176198376/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4465,7 +4465,7 @@ Each reader can judge for himself
 how much was gained and how much  
 was lost by the fact that, under th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_goldeneye_ver01:data:sn86075197:00212477230:1884090401:0119/pct:165.13371150729336,43.01215277777778,81.01701782820098,249.43576388888889/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_goldeneye_ver01:data:sn86075197:00212477230:1884090401:0119/pct:55.04457050243112,14.33738425925926,27.005672609400325,83.14525462962963/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4607,7 +4607,7 @@ pears this paper under the &quot;third
 head is a proviso, containing five propo­  
 sitions, whioh, when agreed to and ao
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_bearcat_ver02:data:sn91099608:00415623021:1886061201:0163/pct:65.37968892955169,4.579831932773109,24.300091491308326,93.29131652661064/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_bearcat_ver02:data:sn91099608:00415623021:1886061201:0163/pct:65.38426349496798,4.586834733893557,24.313815187557182,93.30182072829132/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5054,7 +5054,7 @@ S. &quot;That there shall be neither slavery nor
 involuntary servitude, oxoept for tho pun­  
 ish meat of crimos, whereof tho party sbnl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_franklin_ver01:data:sn82016187:00211102317:1892021801:0648/pct:40.68496801705757,48.9990089197225,16.91098081023454,23.369672943508423/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_franklin_ver01:data:sn82016187:00211102317:1892021801:0648/pct:30.525193281791523,36.74925668979187,12.689949346840843,17.53221010901883/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5108,7 +5108,7 @@ formed by the lakes and waters of Mich­
 igan, Huron, St. Clair and Erie, was to  
 be called Chersonesus. Heaven forbade
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_fletcher_ver01:data:sn86063034:00414182227:1897102401:0531/pct:55.55350212530031,74.65411496220226,12.751801885048975,5.7766367137355585/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_fletcher_ver01:data:sn86063034:00414182227:1897102401:0531/pct:55.55966241606604,74.66362382922075,12.751801885048975,5.771882280226311/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5153,7 +5153,7 @@ bash, Shawnee, Tunisee, Ohio, Illinois, Mis­
 sissippi and Missouri rivers, was to be  
 called Polytamta, and that further up th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ibizanhound_ver01:data:sn83045462:00280655168:1897102701:0321/pct:28.937592867756315,63.35369239311493,13.855869242199109,13.048306496390895/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ibizanhound_ver01:data:sn83045462:00280655168:1897102701:0321/pct:28.937592867756315,63.360632981676844,13.86979940564636,13.062187673514714/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5180,7 +5180,7 @@ in the peninsula fomed by the lakes and
 waters of Michigs,” Huron, St. Clair  
 and Erie, was to besalled Chersonesus
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_abby_ver02:data:sn89053283:00517177015:1897112401:0750/pct:48.5737738559409,18.74107722258274,20.952185512004924,10.564568462037638/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_abby_ver02:data:sn89053283:00517177015:1897112401:0750/pct:37.64512537772359,14.52424059545363,16.254042305041615,8.190840206531215/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5207,7 +5207,7 @@ in the peninsala formed by the lakes and
 wnters of Michigan, Huron, St. Clair  
 and KErio, was to be called Chersonesus
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_elderbrain_ver03:data:sn92064073:00514153784:1897121401:0792/pct:57.40813390872238,16.943589743589744,12.004707728520989,6.923076923076923/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_elderbrain_ver03:data:sn92064073:00514153784:1897121401:0792/pct:57.416851924501984,16.943589743589744,12.004707728520989,6.92991452991453/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5254,7 +5254,7 @@ the Wabash, Shawnee, Tanisee, Ohio,
 Illinois, Mississippi and Missouri rivers,  
 was to be called Polytamia, and tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_audi_ver01:data:sn89081128:00280766240:1897121501:0412/pct:36.57984144960363,45.02476361999099,13.89742760071186,17.683475911751465/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_audi_ver01:data:sn89081128:00280766240:1897121501:0412/pct:36.59062719085369,45.032267747260995,13.902820471336893,17.683475911751465/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5300,7 +5300,7 @@ the Wabash, Shawnee, Tanisee, Ohio,
 Illinois, Mississippi and Missouri rivers,  
 was to bo called Polvtamia. am] tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_asburypark_ver01:data:sn84026089:00514155914:1897121501:0205/pct:5.966416577349054,67.61625471302891,10.593068953197571,15.025834380673091/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_asburypark_ver01:data:sn84026089:00514155914:1897121501:0205/pct:5.965350955527772,67.606813739179,10.595642078942669,15.027227031555432/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5347,7 +5347,7 @@ the Wabash, Shawnee, Tanisee, Ohio,
 Illinois, Mississippi and Missouri rivers,  
 was to be called Polytamia, and tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_arneaux_ver02:data:sn82016211:00211663637:1897121801:0235/pct:34.05835543766578,45.54018602432626,14.588859416445624,18.17314571905557/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_arneaux_ver02:data:sn82016211:00211663637:1897121801:0235/pct:34.05835543766578,45.54018602432626,14.594753905098733,18.177120597821766/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5457,7 +5457,7 @@ the WTabash, Shawnee, Tanisee, Ohio,
 Illinois, Mississippi and Missouri rivers,  
 was to be called Polytaniia, and tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_calumet_ver01:data:sn86086632:00296023498:1898010501:1210/pct:69.34110970996217,48.46850733390854,22.036569987389658,43.097497842968075/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_calumet_ver01:data:sn86086632:00296023498:1898010501:1210/pct:46.25453398517584,32.312338222605696,14.69799716133102,28.731665228645383/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5503,7 +5503,7 @@ the Wabash, Shawnee, Tanisee, Ohio,
 Illinois, Mississippi and Missouri rivers,  
 was to be called Polytamia, and tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_furio_ver01:data:sn87068079:00332896507:1898010601:0215/pct:55.03335354760461,63.30485016247442,9.76349302607641,14.273679143097846/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_furio_ver01:data:sn87068079:00332896507:1898010601:0215/pct:55.025011368804,63.297232250300844,9.765802637562528,14.274969915764139/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5561,7 +5561,7 @@ to the trees. Some authorities state that
 15 or 20 years are necessary to bring  
 them into full bearing from the tim
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jordan_ver01:data:sn84026409:0023728804A:1898011201:0046/pct:68.31804281345566,137.26248719990897,40.18348623853211,80.73728524291728/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jordan_ver01:data:sn84026409:0023728804A:1898011201:0046/pct:17.08473539308657,34.315621799977244,10.048944631385744,20.18432131072932/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5608,7 +5608,7 @@ the Wabash, Shawnee, Tanisee, Ohio,
 Illinois, Mississippi and Missouri rivers,  
 was to be called Polytamia, and tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_leek_ver02:data:sn99068116:00340581222:1898011301:0418/pct:50.70751049603483,29.672848510106274,14.181309283159695,17.51406543029798/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_leek_ver02:data:sn99068116:00340581222:1898011301:0418/pct:50.70751049603483,29.680662638049593,14.181309283159695,17.51406543029798/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5656,7 +5656,7 @@ Tanigee, Ohto, Illinois, Mississippi and
 Missouri rivers, was to be called Poly­  
 tamia, and that further up the Ohio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_elderbrain_ver03:data:sn92064073:00514153784:1898020801:1163/pct:30.61572797689379,18.08543489449305,12.130760141788105,18.55892949047864/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_elderbrain_ver03:data:sn92064073:00514153784:1898020801:1163/pct:30.620104152991118,18.088866014753815,12.135136317885431,18.562360610739407/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5703,7 +5703,7 @@ fanisee, Ohio, Illinois, Mississippi and
 Missouri rivers, was to be called Poly­  
 tamia, and that further up the Ohio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aqua_ver01:data:sn83045830:00175031613:1898021301:0113/pct:84.90792634107285,59.58861738323539,14.11128903122498,19.068976183111662/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aqua_ver01:data:sn83045830:00175031613:1898021301:0113/pct:84.92127034961302,59.59892772450768,14.104617026954898,19.068976183111662/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5750,7 +5750,7 @@ tho Wabash, Shawnee, Tanisee, Ohio,
 Illinois, Mississippi and Missouri rivers,  
 was to be called Polytamia, and tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_fennel_ver01:data:sn2001063545:00332899831:1898030401:0940/pct:63.92702651871356,41.09778597785978,17.923641151025013,20.214483394833948/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_fennel_ver01:data:sn2001063545:00332899831:1898030401:0940/pct:63.93172841828098,41.10355166051661,17.92834305059244,20.214483394833948/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5798,7 +5798,7 @@ jhawnee, Teniseo, Ohio, Illinois
 .Mississippi, and Missouri rivers was  
 to bo called Polytamia, and tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jordan_ver01:data:sn87080417:00280776762:1898031801:0522/pct:45.9384858044164,18.658667897246577,15.516561514195583,28.149515459160128/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jordan_ver01:data:sn87080417:00280776762:1898031801:0522/pct:34.47051863537764,13.99784648515613,11.634786038256754,21.11982771881249/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5845,7 +5845,7 @@ Tanisee, Ohio, Illinois, Mississippi and
 Missouri rivers, was to be called Poly­  
 tamia, and that further up the Ohio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_belair_ver01:data:sn89060136:00279522576:1898050601:0540/pct:55.641330166270784,17.282702858792955,16.547901821060965,22.8414669361825/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_belair_ver01:data:sn89060136:00279522576:1898050601:0540/pct:43.122315401922684,13.394255874673629,12.829822049498874,17.70980977247296/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

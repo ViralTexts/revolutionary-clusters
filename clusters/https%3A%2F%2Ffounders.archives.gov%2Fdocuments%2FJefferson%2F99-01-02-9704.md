@@ -101,7 +101,7 @@ e.iated in tbo direction of your affaii j. ;
 .c measures way be produc-  
 I tive of the e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809021301:0003/pct:39.47100712105799,42.44360412048507,17.619532044760938,42.48272264962837/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809021301:0003/pct:39.47100712105799,42.44360412048507,17.62631400474737,42.491415656104664/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -120,7 +120,7 @@ I tive of the e
 and our common country.  
 Th: JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809021301:0003/pct:57.029501525940994,2.6861390011735558,17.578840284842318,2.6079019428869477/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809021301:0003/pct:57.029501525940994,2.6904855044117006,17.592404204815193,2.6079019428869477/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -194,7 +194,7 @@ all-protecting favour of Heaven ! commit yoursrTvso
 and our common country.  
 TH: JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809021501:0350/pct:67.01056869652743,31.69336384439359,21.01157523905385,39.71886237332462/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809021501:0350/pct:66.99371069182389,31.688184343847034,21.0125786163522,39.716456937408076/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -294,7 +294,7 @@ ufeful to them. To the all proteéting
 and our common country.  
 TH: JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809022101:0236/pct:59.27939120981519,12.506243132554191,16.803851529740644,58.645489961042855/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809022101:0236/pct:59.284567997101,12.506243132554191,16.803851529740644,58.645489961042855/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -710,7 +710,7 @@ indeed to any reelection at all, though in the absence
 of a constitutional prohibition he allowed himself to  
 follow the example of Washington and some of hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hugo_ver01:data:sn83030214:00206531186:1874091401:0590/pct:197.90030453598334,123.17850110042859,47.69995191537105,28.530059075639986/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hugo_ver01:data:sn83030214:00206531186:1874091401:0590/pct:65.96676817866111,41.05950036680953,15.89998397179035,9.510019691879995/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -740,7 +740,7 @@ firmation of their correctness. In
 no office can rotation be more expedient; and  
 none less admits the indulgence of age.&quot; O
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_charlie_ver01:data:sn83045160:00280779581:1880022501:0176/pct:139.9377593360996,305.82921058292106,38.018672199170126,8.388900838890084/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_charlie_ver01:data:sn83045160:00280779581:1880022501:0176/pct:34.988976786409026,76.45730264573027,9.505900661392815,2.097225209722521/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -758,7 +758,7 @@ tirement from the station so long confided to me
 is confirmation of their correctness.0  
 On the 10th of the same month he said to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_north_ver02:data:sn84031492:no_reel:1880022601:0009/pct:28.44354018311292,84.09503631961259,12.8382502543235,1.4376513317191284/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_north_ver02:data:sn84031492:no_reel:1880022601:0009/pct:28.453713123092573,84.09503631961259,12.833163784333673,1.449001210653753/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

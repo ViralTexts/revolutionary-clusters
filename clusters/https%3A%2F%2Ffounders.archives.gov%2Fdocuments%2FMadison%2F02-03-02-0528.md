@@ -66,7 +66,7 @@ mits with the state of Georgia, andfbrprovi- ,
 ding a temporary Government-in the Missis­  
 sippi Territory : 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798032601:0002/pct:12.142693802881317,10.977624267908094,15.64143608506746,2.2525904790509084/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798032601:0002/pct:12.154127601189115,10.977624267908094,15.64143608506746,2.2563447965159935/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -85,7 +85,7 @@ the State of Georgia, and authori­
 zing the eftablithment of a govern~  
 ment in the Miflifippi territory, wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798041101:0477/pct:5.788577619563535,59.573616254629165,16.15848939792602,3.923531178060254/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798041101:0477/pct:5.79889593974101,59.580288926700696,16.15848939792602,3.923531178060254/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -115,7 +115,7 @@ tbt State of Georgia, and authorizing tbe
 establishment of a government in .the  
 Aiissisippi Territory
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800071001:0002/pct:7.178340784898162,11.81700614290333,17.138599105812222,10.523763336566441/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800071001:0002/pct:7.184550422255341,11.81700614290333,17.138599105812222,10.523763336566441/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -146,7 +146,7 @@ coinpleated before the fourth day of March,
   
 one thousand eight hundred and three
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800071001:0002/pct:6.532538499751615,3.2331070158422244,35.59364133134625,91.91723246039444/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800071001:0002/pct:6.5449577744659715,3.2452311671516325,35.61227024341778,91.91319107662464/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -181,7 +181,7 @@ tution ?~-Is not the legislature of the union
 ailuming fundi on not belonging to them, and  
 that too to decide between the state o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800122001:0002/pct:5.300613496932515,3.115513660329126,35.484662576687114,91.66000958619588/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800122001:0002/pct:5.306748466257669,3.115513660329126,35.47852760736196,91.6719923310433/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -230,7 +230,7 @@ out a district of land situate on the river
 Misiiffippi, and within the bounds of this  
 state, into a county, to be called Boursi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802051101:0065/pct:23.683796951123682,2.825428859737639,45.30881659594531,94.27575451793413/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802051101:0065/pct:23.68007542426147,2.8251696936341957,45.30693484181856,94.27016449581117/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -288,7 +288,7 @@ attends: nce at their respective ofiices, until
 the day above mentioned ; andit is hoped,  
 that the claimants, whose interests are s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802111701:0573/pct:46.974152607955425,50.487070492383985,22.64355362946912,22.422954303931988/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802111701:0573/pct:46.96688331785825,50.482599840609225,22.645207881976685,22.423920422680716/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -348,7 +348,7 @@ be reporte d to the government.
 llmle pers; ns wsio may he at a loss  
 forthe torm of ﬂating the claims to b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802111701:0573/pct:46.58721560130011,5.455189514700673,45.92168394985296,91.40099185263904/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802111701:0573/pct:46.58000619003405,5.454706455326308,45.91973589188074,91.39584993653885/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -407,7 +407,7 @@ river Mississippi, and within the bounds
 r*t this sra‘e&gt; into a county, to be called  
 Bourbon,” passed the seventh /lay of Fe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805033001:0121/pct:2.5531914893617023,34.12415974693555,17.79497098646035,16.106497957031763/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805033001:0121/pct:2.552697737381551,34.119662625197684,17.797975891188035,16.108768230539447/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -440,7 +440,7 @@ promise.&quot; 3d. “ To lay a full statement of the
 claims and pro-positions, together toilh their \
 ofti.&#x27;lion there u, before Congress.” Mr. Ma-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808032201:0420/pct:4.651580459770115,12.743664717348928,17.74425287356322,4.995126705653021/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808032201:0420/pct:4.650745196624169,12.742112315751005,17.747052133836117,4.998578795630812/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -466,7 +466,7 @@ on tl.jreon, before Congress.” Mr Madi­
 son, the iecretnrr of State Mr Gallatin,  
 the Secretary of the Treasury, atul M
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808032501:0104/pct:22.745548535324527,12.667002772876229,17.767566532644075,6.919586589362239/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808032501:0104/pct:22.741194486983154,12.665406427221171,17.770546197039305,6.9229153539172446/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -492,7 +492,7 @@ Florida, or by the government of Spain, and in all
 survey or settlement made under tlieact ul Georgia,  
 commonly called the Bourbon act
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808062701:1198/pct:5.99647266313933,14.03171552138395,43.713781809019906,81.89972769501843/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808062701:1198/pct:5.994962216624685,14.029468289557975,43.70906801007557,81.89061499039077/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -512,7 +512,7 @@ niant of limits with the state of Georgia,
 a k1 for the establishment of a govern  
 ment in the Mississippi Territory, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:0041421616A:1813012101:0367/pct:35.36801417297471,7.982862638803882,18.1993879851828,3.742240097927778/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:0041421616A:1813012101:0367/pct:35.36231884057971,7.9821647141108585,18.201825013419217,3.7448271842396688/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -623,7 +623,7 @@ exercised by Congress, was in the establish
 ment of a government in the Mississippi Ter  
 ritory.&quot;-U. S. Statutes at large, Fol 1,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668156:1857021701:0002/pct:111.56304474142941,249.88399071925755,41.05171411969785,5.030584264923012/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668156:1857021701:0002/pct:37.19308441086736,83.29466357308584,13.685892779311347,1.676861421641004/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -646,7 +646,7 @@ Subsequent to this, in 1800, the
 United States, in its sixth Con  
 gress, at its first session, passe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn85034374:00295878009:1887051401:1156/pct:97.60432766615146,103.98907103825137,44.12673879443586,22.185792349726775/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn85034374:00295878009:1887051401:1156/pct:24.41051410900657,25.997267759562842,11.035948975647468,5.546448087431694/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

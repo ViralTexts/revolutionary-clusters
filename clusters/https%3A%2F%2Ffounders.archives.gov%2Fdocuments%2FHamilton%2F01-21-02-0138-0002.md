@@ -447,7 +447,7 @@ THOMAS MANNING, presented last week
 —he oblerved that the faéts set forth in the pe­  
 tition were established by documents which ac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1794020801:0173/pct:9.28551176637369,64.74563181774303,19.54919194783102,13.543778356984264/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1794020801:0173/pct:9.28551176637369,64.74563181774303,19.55864285039221,13.543778356984264/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -482,7 +482,7 @@ but those ot the government: except, so far
 as all monies depoliced in a Bank are con­  
 cerned in the general operations thereof
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794061101:0003/pct:70.4352741661956,23.175416133162614,18.739400791407576,13.974757636729468/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794061101:0003/pct:70.4423403052572,23.17998902505945,18.760599208592424,13.979330528626303/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2420,7 +2420,7 @@ under which it was created.
 But while we leave President Comonfort to  
 work out his own policy in this respect, ther
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743282:1858010401:0034/pct:199.72607154366742,81.32639203259393,54.22172091524331,29.606156631960165/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743282:1858010401:0034/pct:66.57535718122247,27.108797344197978,18.07390697174777,9.868718877320054/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2491,7 +2491,7 @@ private .happiness, it seems to
 threaten the political and moral  
 world with a complete overthrow
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033395:00212470375:1869012101:0013/pct:27.844224037339558,71.96272051481193,16.015169194865813,21.29146787972928/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033395:00212470375:1869012101:0013/pct:20.89290925007295,53.977587928547656,12.022176831047563,15.96582713857761/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2707,7 +2707,7 @@ tary of the Treasury—a character marked by tn
 indifference to the acquisition of property, lather  
 than avlditv for It
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_lake_ver02:data:sn82014064:no_reel:1869050901:0005/pct:60.81995745503771,61.622842393934505,8.973119319280604,2.82303597354412/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_lake_ver02:data:sn82014064:no_reel:1869050901:0005/pct:60.82479210984336,61.63494111953541,8.977953974086251,2.82303597354412/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2743,7 +2743,7 @@ to my defence sgatnst s more heinous ebaryecoakl
 alone have extorted from me so painful sc in­  
 decorum,-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_lake_ver02:data:sn82014064:no_reel:1869050901:0005/pct:60.916650551150646,66.736570414583,9.011796557725779,6.259074044200678/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_lake_ver02:data:sn82014064:no_reel:1869050901:0005/pct:60.916650551150646,66.74463623165026,9.021465867337072,6.267139861267946/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2768,7 +2768,7 @@ iv?*t other pecuniary consolation would be
 acceptable.” Alter this ne had frequent meet­  
 ings with her. . , 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_lake_ver02:data:sn82014064:no_reel:1869050901:0005/pct:61.03268226648617,72.97951282464913,9.108489653838715,3.19406355863849/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_lake_ver02:data:sn82014064:no_reel:1869050901:0005/pct:61.03268226648617,72.99161155025004,9.113324308644362,3.202129375705759/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2788,7 +2788,7 @@ filled with those tender and poetic effusions which
 would have been natural only ton woman truly  
 toed and neglected.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_lake_ver02:data:sn82014064:no_reel:1869050901:0005/pct:61.09069812415394,76.10904984674947,9.050473796170953,1.7422164865300855/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_lake_ver02:data:sn82014064:no_reel:1869050901:0005/pct:61.10036743376523,76.11711566381675,9.045639141365307,1.7543152121309888/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2824,7 +2824,7 @@ with her, most of them at my own house; Mrs. Ham­
 ilton with her children being absent on a visit to her  
 father.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fullerton_ver02:data:sn84031492:no_reel:1873052301:0002/pct:1.8758684576192681,52.67971465154564,12.945808244557666,7.682458386683739/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fullerton_ver02:data:sn84031492:no_reel:1873052301:0002/pct:1.887447892542844,52.69343332723614,12.940018527095878,7.687031278580575/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2973,7 +2973,7 @@ a combination between the husband and wife
 with the design to extort money.&quot; The defence  
 of the ex-Treasurer was not only satisfactory t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206533468:1875042201:0621/pct:166.1144578313253,73.73217698074379,49.84939759036145,14.287814199617817/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206533468:1875042201:0621/pct:41.528614457831324,18.433044245185947,12.462349397590362,3.571953549904454/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3105,7 +3105,7 @@ tenderness.&quot; A*y-\&#x27;&#x27;A-
 We do not contrast these two cases of do­  
 mestic rectitude and domestic impurity t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_dassel_ver01:data:sn90059522:00175035424:1884080901:0523/pct:57.16422872340426,49.322015213317165,13.430851063829786,6.030206151471723/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_dassel_ver01:data:sn90059522:00175035424:1884080901:0523/pct:57.1697695035461,49.322015213317165,13.430851063829786,6.041230294344615/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3144,7 +3144,7 @@ stauce that Col Burr was selected by the latter
 to act as his friend had such an extremity been  
 reached. And scandalmongers may find a c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044838:1884081501:0845/pct:233.46425765907307,154.52276980661262,53.338570306362925,36.49407361197754/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044838:1884081501:0845/pct:58.40047160542346,38.630692451653154,13.342503438789546,9.123518402994385/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3188,7 +3188,7 @@ extorted from me so painful an in
 decorum.&quot;  
 It may be remembered that in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_chevy_ver01:data:sn83025733:00200294762:1884082101:0621/pct:5.831903945111493,190.92835947435353,50.60034305317324,33.00833686590363/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_chevy_ver01:data:sn83025733:00200294762:1884082101:0621/pct:1.458288655372078,47.73208986858838,12.65279862749303,8.252084216475907/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

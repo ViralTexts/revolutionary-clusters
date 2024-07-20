@@ -437,7 +437,7 @@ to thelr making ratstul orr tatas an insuper
 ry for negotiating peace  
 bar to their making restitution or indemnifica
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_pearse_ver01:data:sn82015753:0021247535A:1853052401:0545/pct:48.99093904448105,191.41584766584768,38.67380560131796,18.243243243243242/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_pearse_ver01:data:sn82015753:0021247535A:1853052401:0545/pct:16.330313014827016,63.80528255528255,12.891268533772653,6.081081081081081/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

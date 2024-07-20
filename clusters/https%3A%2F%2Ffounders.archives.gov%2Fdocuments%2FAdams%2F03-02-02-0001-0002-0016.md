@@ -195,7 +195,7 @@ verse of Hebrews- &quot;Let us labor, therefore, to
 enter into that rest, lest any man fall after the  
 same example of unbelief.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743841:1873112401:0715/pct:244.0560593569662,147.84156142365097,47.30420445177246,7.784156142365098/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743841:1873112401:0715/pct:81.3520197856554,49.28052047455032,15.768068150590821,2.5947187141216994/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -234,7 +234,7 @@ uslibor therefore to enter into that rest, lest
 any man man fall after the same example of  
 unbelief.&quot; The rest referred to in this text i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_farmington_ver01:data:sn83016025:00279525413:1876090401:0225/pct:50.94152626362735,79.98310810810811,11.08358110340271,2.594111969111969/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_farmington_ver01:data:sn83016025:00279525413:1876090401:0225/pct:50.93311312964492,79.97345880082037,11.085879438480594,2.5968150560984435/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -251,7 +251,7 @@ seated. E&#x27;der Smith preached from Heb. 4, 11,
 “Let us labor therefore to enter into that rest, lest  
 any mau fall after the same example of unbelief.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_dyerbrook_ver01:data:sn82014248:00332895928:1876090501:1174/pct:28.304331728989265,70.25243832472748,12.717512032580526,1.2335054503729201/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_dyerbrook_ver01:data:sn82014248:00332895928:1876090501:1174/pct:28.29909309642791,70.24236340169224,12.719785304460485,1.2369138104115875/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -269,7 +269,7 @@ Gay-street Baptist Church, from Heb, iv. 11, &quot;Let
 us labor, therefore, to enter into that rest, lest any  
 man fall after the same example of unbelief.&quot; H
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_braniff_ver01:data:sn86053573:00294558378:1877121701:1282/pct:126.3671875,318.24931613911684,49.31640625,6.017975771785854/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_braniff_ver01:data:sn86053573:00294558378:1877121701:1282/pct:31.5995115995116,79.56232903477921,12.332112332112333,1.5044939429464634/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -340,7 +340,7 @@ And he warus us. snylug: &quot;Let us labour
 therefore to enter into that rest, lest any man  
 fail after the same example of unbelief.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00202194060:1888071801:0420/pct:84.1692789968652,72.26818523691846,13.808777429467085,1.289352100569464/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00202194060:1888071801:0420/pct:84.17450365726228,72.26818523691846,13.808777429467085,1.3000967014075426/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -406,7 +406,7 @@ in this gifted preacher, and he
 reached a climax on the 21st verse :  
 “ Unto Him be glory in the Churc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00542865994:1894071901:0093/pct:7.100963552576456,5.959581059153267,28.592375366568916,91.48842012096179/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00542865994:1894071901:0093/pct:7.099476439790576,5.958702064896755,28.591623036649214,91.47861356932154/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

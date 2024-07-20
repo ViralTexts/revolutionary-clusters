@@ -104,7 +104,7 @@ And whistled as he went, for want of thought.
 &quot;Trudged along, unknowing what he sought;  
 And whistled as he went, for want of thought.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023296:00200296102:1871030901:0589/pct:119.30091185410335,306.0883198327672,50.45592705167173,3.3969166448915598/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023296:00200296102:1871030901:0589/pct:29.825227963525837,76.5220799581918,12.613981762917932,0.8492291612228899/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -120,7 +120,7 @@ And whistled as he went, for want of thought.
 &quot;Trudged along, unknowing what he sought:  
 And whistled as he went, for want of thought.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn87075001:00237286923:1871031701:0108/pct:18.65524060646012,181.67129512749307,40.80421885299934,2.6255995960616008/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn87075001:00237286923:1871031701:0108/pct:4.664578869292896,45.41782378187327,10.202736113400363,0.6563998990154002/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -138,7 +138,7 @@ And whistled as he went, for want of thought.
 And whistled as he went, for want of  
 thought.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85033123:00514151222:1871072701:0066/pct:19.47185916244332,34.33920924210736,14.510536142971459,1.4440792749726123/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85033123:00514151222:1871072701:0066/pct:19.47185916244332,34.34584868704976,14.510536142971459,1.4440792749726123/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -296,7 +296,7 @@ And whistled, as he went, for want of thought
 throne, for &quot;he trudged along, unknowing what  
 he sought, and whistled as he went for want o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_stein_ver01:data:sn83030272:00175042994:1898032101:0079/pct:337.49049429657794,199.96940492580694,50.72243346007605,3.67140890316659/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_stein_ver01:data:sn83030272:00175042994:1898032101:0079/pct:84.4207723035952,49.992351231451735,12.687844778390717,0.9178522257916475/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -313,7 +313,7 @@ his throne, for &quot;he trudged along, unknow­
 ing what he sought, and whistled as he  
 went for want of thought.&quot; But out o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dred_ver01:data:sn86063615:00211109142:1898032701:0742/pct:92.34848484848484,68.45070422535211,16.761363636363637,1.5352112676056338/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dred_ver01:data:sn86063615:00211109142:1898032701:0742/pct:69.28760894278136,51.33802816901409,12.580522925350511,1.1549295774647887/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

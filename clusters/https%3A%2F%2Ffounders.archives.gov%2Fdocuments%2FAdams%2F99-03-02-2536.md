@@ -519,7 +519,7 @@ j Rose out ot chaos:
 scientific truth that militates against even  
 ■ the miuutest or least prominent of its de
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215968:1857022001:0325/pct:72.34324682705058,16.864805087088747,12.710740670581549,6.144594968205696/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215968:1857022001:0325/pct:72.33639549199735,16.86363950514894,12.712693752564952,6.146474071002373/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -540,7 +540,7 @@ The shepherd who first taught the chosen seed
 In the beginning how the heavens and earth  
 Rose out of chaos;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393347995:1857022401:0683/pct:203.83435582822085,38.840070298769774,57.53450920245399,13.605741066198009/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393347995:1857022401:0683/pct:50.94882116158712,9.70859569483087,14.380870231934061,3.4009371796749157/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -613,7 +613,7 @@ The shepherd who first taught the chosen seed,
 In the beginning, how the heavens and earth,  
 Rose out of chaos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393347995:1857050501:0915/pct:206.17911615174032,17.079970652971387,120.39499413375049,373.36757153338226/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393347995:1857050501:0915/pct:51.5347018572825,4.269366197183099,30.09286412512219,93.3281983568075/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -708,7 +708,7 @@ And, rightly understood, I know not a single scien­
 tific truth that militates against even the minutest  
 or least prominent of its details
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022767:1857070101:0209/pct:51.37885751805647,106.31115459882584,19.58305975049245,6.286692759295499/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022767:1857070101:0209/pct:38.56134012153063,79.73336594911937,14.698636886188208,4.721135029354207/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -749,7 +749,7 @@ The shepherd who first taught the chosen seed,
 In the beginning how the heavens and earth,  
 Rose out of chaos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024718:00414183761:1857081901:0327/pct:82.75354562483275,43.54040168145726,12.603692801712604,3.381597384399813/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024718:00414183761:1857081901:0327/pct:82.74247491638796,43.53633476555203,12.606465997770346,3.384395043277913/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -940,7 +940,7 @@ seed.
 In the beginning, how the heavens and carta  
 Hose out of chaos : or if Sion hil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn83032041:00212477680:1869011401:0293/pct:23.33901192504259,34.390921723019915,16.35434412265758,3.798054654932839/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn83032041:00212477680:1869011401:0293/pct:17.511717085641244,25.798981009726724,12.285186763243857,2.8485409911996293/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

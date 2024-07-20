@@ -190,7 +190,7 @@ rors to possess a faculty not attributable
 to mortals in general, viz: the faculty of  
 divina
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn84024505:00542866962:1825092001:0190/pct:3.4460616438356166,6.076066790352504,13.270547945205479,9.802102659245516/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn84024505:00542866962:1825092001:0190/pct:3.445324202867537,6.075127531303138,13.27305799272416,9.804452001855001/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -569,7 +569,7 @@ e eeee eee eeoeeeeeee
 the jurors may assess on the inquest aforesaid, become seized  
 in fee simple of the land so set apart and appropriated fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191289:1848032901:0138/pct:325.9146341463415,159.67541608015236,58.79790940766551,9.70439678728161/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191289:1848032901:0138/pct:81.49640601176215,39.91885402003809,14.702679154868221,2.4260991968204024/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -589,7 +589,7 @@ tinut it inead temit the oposes sforesud e a
 case the dam, buildings and machinery, or either of them,  
 destroyed, if he shall not begin to rebuild the same 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191289:1848032901:0138/pct:326.95993031358887,169.51229610002483,57.75261324041812,10.962987496894923/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191289:1848032901:0138/pct:81.75778697451535,42.37807402500621,14.441298192115008,2.740746874223731/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

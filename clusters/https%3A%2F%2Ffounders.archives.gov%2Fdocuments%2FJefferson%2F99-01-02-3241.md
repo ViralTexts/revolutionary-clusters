@@ -78,7 +78,7 @@ i United States, and manifelt their ear- ,
 neft defire to obtain for themfelves and  
 their citizens by amicable 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806020701:0003/pct:21.62162162162162,27.54153759504365,18.91891891891892,22.30357645733596/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806020701:0003/pct:21.62894601918992,27.54153759504365,18.92624331648722,22.30357645733596/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -127,7 +127,7 @@ feft their earned defiro to obtain for themfeh es and
 t leir ctizcr.s by am.table negotiation, that juilice to  
 winch they are entitled
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1806021301:0355/pct:4.553088262735585,29.314511000890246,17.8764694905766,13.671626605621265/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1806021301:0355/pct:4.552238805970149,29.310783316378433,17.879353233830845,13.674126822651747/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -166,7 +166,7 @@ Britain, prohibited in time ol p-vce ;
 and upon the indemnification Ojf inch  
 American citizens, for their loflea an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806021401:0003/pct:4.627681952040387,2.1693783896537338,36.57972233908288,95.89764984007788/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806021401:0003/pct:4.6346935913616605,2.1693783896537338,36.57271069976161,95.89764984007788/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -207,7 +207,7 @@ to obtain tor themselves and their citizens by amica­
 n!e ncgcciations, that justice to which the\ arc en­  
 titled
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806021401:0959/pct:53.521126760563384,35.722248765727024,20.83535696940262,15.687211339385252/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806021401:0959/pct:53.50813304200049,35.71656050955414,20.836368050497693,15.688694267515924/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -255,7 +255,7 @@ tain for themselves and their citizens by
 amicable n* goeiation, that justice to  
 winch they arc ml.tied
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806021401:0059/pct:60.85725075528701,33.63624728017407,17.57930513595166,21.400230385255345/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806021401:0059/pct:60.84576175193506,33.631942667007934,17.582279277578504,21.401757529221054/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -349,7 +349,7 @@ tain for themselves and their citizens by
 amicable negotiation, that justice to  
 which they are entitled
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806021701:0003/pct:2.3647908911758266,1.5653137553677794,38.51543682942851,96.32913145865078/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806021701:0003/pct:2.3793883658127144,1.5699312000738792,38.51543682942851,96.33374890335688/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -384,7 +384,7 @@ tleman high in office, who has deserved- j
 ly acquired great celebrity in thepohti- j  
 cai world, .It will be lound that th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806022101:0001/pct:40.65645514223195,53.87805889672335,18.533916849015316,13.355454168394857/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806022101:0001/pct:40.66374908825674,53.88727591133232,18.541210795040115,13.34623715378589/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -408,7 +408,7 @@ of peace, and upon the iudemnift­
 t&#x27;w .v losses and damages SUSUIBcd i&#x27;\
 these captures&#x27; and condemnations. I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806022101:0001/pct:40.19693654266958,80.57514171159961,19.102844638949673,6.553297386976358/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806022101:0001/pct:40.21152443471918,80.5797502189041,19.09555069292487,6.553297386976358/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -448,7 +448,7 @@ and ir.anifeft their earnefl defire to obtain for them­
 [uftke r&quot;d ‘“&#x27;I C&#x27;k2enS by am:‘cab,e gelation, that  
 jafticeto which they are .milled—feme converfatio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1806022101:0365/pct:60.7853982300885,30.863099021227914,17.99410029498525,15.190034320579636/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1806022101:0365/pct:60.774193548387096,30.859176410777835,17.996927803379418,15.192340281308253/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -480,7 +480,7 @@ nianlfeft tluir earned defirc to obtain for them­
 felves and their citizens by amicable negotia­  
 tion, that judiceto which they are entitled
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1806022101:0366/pct:21.084000745017693,0.6179992275009656,17.99217731421121,10.518861851422686/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1806022101:0366/pct:21.08007448789572,0.6179196704428425,17.995034140285536,10.5217988328184/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -527,7 +527,7 @@ i ifest their earnest desire lo obtain for
 j hie negocialion, that jus,ice to which  
 they aie entitled
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806022101:0067/pct:76.29601803155522,68.57033833630119,17.693463561232157,22.627830068684812/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806022101:0067/pct:76.28169014084507,68.56161770316673,17.69640062597809,22.629191572343043/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -561,7 +561,7 @@ to obtain for themselves and their citizens by amica­
 ble negociation, that justice to whicli they are enti­  
 tled
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806022401:0976/pct:27.929451558347427,39.43865276663993,20.488040589514377,11.643945469125903/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806022401:0976/pct:27.92270531400966,39.43232841565106,20.48913043478261,11.646087235407313/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -619,7 +619,7 @@ American seamen,) as m &lt;y be
 with the honor and interests of the Unit­  
 ed States, and manifest their earnes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806022601:0001/pct:78.23721436343853,58.451382203273276,18.737758433079435,28.07041672397194/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806022601:0001/pct:78.24446862531737,58.455966625406866,18.745012694958287,28.07041672397194/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -652,7 +652,7 @@ their losses and damages sustained by
 these captures and condemnations.&quot;  
 What is there in this part of the resolu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806022801:0002/pct:21.810971579643095,43.239145416953825,18.462216347213044,12.101998621640249/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806022801:0002/pct:21.825659102592347,43.239145416953825,18.454872585738414,12.111187686652883/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -691,7 +691,7 @@ and their citizens, by amicable negotia­
 tion, that justice to which they are enti­  
 tled.&quot; Until this resolution came int
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806022801:0002/pct:41.1764705882353,6.9469331495520334,18.616435338180217,15.713301171605789/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806022801:0002/pct:41.18381434970992,6.9469331495520334,18.63112286112947,15.713301171605789/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -723,7 +723,7 @@ citizens by ample negociation, that justice to which
 they are entitled.  
 Mr. Israel Smith, said that he was extremel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806022801:0983/pct:74.04910929224843,76.67145364608265,20.72701011073664,10.834530078187331/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806022801:0983/pct:74.03128760529482,76.65922144224633,20.7280385078219,10.836790044671346/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -750,7 +750,7 @@ In order to shew that the ground wc have taken is
 correct, 1 will take leave to refer to a book (entitled  
 an examination ot
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806022801:0984/pct:27.270495827196857,35.714285714285715,21.011291114383898,7.5933075933075935/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806022801:0984/pct:27.263803680981596,35.70854109699212,21.012269938650306,7.5961074473218595/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -780,7 +780,7 @@ bited in time of peace, and upon the indemnification
 ot such American citizens for tlicir losses and dama­  
 ges sustained by these captures and condemnations
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806022801:0984/pct:27.270495827196857,49.694337194337194,20.913107511045656,9.845559845559846/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806022801:0984/pct:27.263803680981596,49.68634389576967,20.914110429447852,9.847997426411453/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -813,7 +813,7 @@ citizens by amicable dcgociation, that juftice to
 , which they arc entitled.  
 Mr. ISRAEL SMITH faid that he was e&lt;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1806022801:0373/pct:42.29618548990277,79.01392259547835,18.044128646222887,11.176395452803678/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1806022801:0373/pct:42.288278182837914,79.00383141762453,18.04698697575871,11.179225202213708/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -846,7 +846,7 @@ a. quired great celebrity in the political world.
 It will be found that the principle contended  
 for .n the refolution, I have cited, obtained a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1806022801:0373/pct:79.22587883320868,65.16796525737642,18.530291697830965,11.125303359305148/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1806022801:0373/pct:79.21106748925033,65.15964240102171,18.533059138779834,11.12813963388676/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -877,7 +877,7 @@ ferences eubsiating between the two nations­
 ment of American seamen) as may be c&#x27;on­  
 sistent .With the si&#x27;honsior and intesests fifth:
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1806030101:0268/pct:54.84614118808623,82.32746173837712,22.725028797103835,12.301472711521802/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1806030101:0268/pct:54.83711747285291,82.31953801732435,22.726774158166062,12.303496952197627/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -917,7 +917,7 @@ amicable neeociation. that iuftice to 1
   
 which they arc entitled
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895060:1806030301:0788/pct:23.92303762983143,53.423525766807806,18.644644985526988,18.413714757822987/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895060:1806030301:0788/pct:23.918964930200886,53.41800908715407,18.645726932243786,18.414394878149526/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -971,7 +971,7 @@ States, and man.test their earnest desire to obtain
 for themselves and their citizens bv amicable lie”),  
 elation, that justice to which they are entitled.” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806030301:0987/pct:51.38025366824173,2.475088396014143,43.894553593633425,94.05335904853744/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806030301:0987/pct:51.3674788662357,2.4746906636670416,43.88985579313774,94.04226257432107/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1026,7 +1026,7 @@ si-t-hemsclvcs and their ettizcns by amicablc
 si&#x27;_;;negociation, that justice tp which they are ss  
 en&#x27;siiticd.&quot; - 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1806030501:0280/pct:6.311383030107873,39.92192706845663,24.53711157623571,30.905455584118823/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1806030501:0280/pct:6.310367031551835,39.91812642802742,24.53852758102597,30.905686722518407/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1058,7 +1058,7 @@ nest desire to obtain for themselves and
 that justidc to which they are enucledJL.  
 Unnhhis resolution came into debate, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1806030601:0284/pct:29.937867887508176,3.9174267882861256,47.220405493786785,91.74267882861258/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1806030601:0284/pct:29.932973679908454,3.9170506912442398,47.21813525148493,91.73707117255505/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1076,7 +1076,7 @@ and cargoes of our citizens is an unprovoked violati­
 on of our independence, and an aggression upon the  
 property of our citizens. And if that declaration i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806030701:0996/pct:48.61349693251534,19.34136546184739,20.883435582822084,2.42570281124498/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806030701:0996/pct:48.60157016683023,19.338258914230646,20.884445534838076,2.429328621908127/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1112,7 +1112,7 @@ captures of which we complain ? It cannot be. To
 what then are exceptions taken ? Two honourable  
 gentlemen have given the answer. “ The resoluti
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806030701:0996/pct:48.5398773006135,59.69477911646587,21.05521472392638,13.04417670682731/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806030701:0996/pct:48.52796859666339,59.68519113395438,21.056182531894013,13.046097012528108/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1145,7 +1145,7 @@ nest desire to obtain for themselves and their citizens.
 J&gt; araic™e negotiation, that justice to which they  
 at e entitled.” Until tins resolution came into debate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806030701:0996/pct:70.28220858895706,9.51004016064257,20.98159509202454,11.325301204819278/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806030701:0996/pct:70.2649656526006,9.508512688724704,20.982580961727184,11.327497590748473/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1183,7 +1183,7 @@ themfelve# and their citizens by amicable ne­
 , goriation* that juftice to which they are rntit*  
 I led.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1806030701:0381/pct:60.57185854025583,79.52655150351887,18.416102332580888,13.98592450415867/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1806030701:0381/pct:60.56046642843709,79.51637666325486,18.418907905460472,13.988399863527807/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1282,7 +1282,7 @@ the indemnification ol fuch American citizens,
 for their lotlc-9 and damages fuftained by thefe  
 captures anil condemnations,” What is ther
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1806031101:0385/pct:60.25881470367592,20.804420457465948,18.079519879969993,5.2814186584425595/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1806031101:0385/pct:60.24751546971686,20.80174739817551,18.0823801487593,5.28502291318686/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1307,7 +1307,7 @@ themfclves and their citizens, by an amicable
 negoention, that jufticeto which they are en­  
 titled.” Until this refolution came into debate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1806031101:0385/pct:60.29632408102025,69.26240041120535,17.891972993248313,6.592135697764071/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1806031101:0385/pct:60.28501781361335,69.25350122060902,17.89486842927683,6.595571544819907/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1409,7 +1409,7 @@ On the 13th of February, 1806, the question upon the.
 adoption of this Réfolution, was taken in the Senate.  
 &quot;The yeas and nays were required § but not a solitary na
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808042601:0066/pct:28.5340716812798,16.520943472956485,20.966005229964622,7.0455469703131355/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808042601:0066/pct:28.5340716812798,16.524332384438118,20.981387478849406,7.042158058831503/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1471,7 +1471,7 @@ On the 13th of February, 1306, the ques­
 tion upon the adoption of this Resolution,  
 was taken in the Senate. The yeas and nay 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808050301:0469/pct:5.031674208144796,54.65631929046563,17.502262443438916,8.462675535846268/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808050301:0469/pct:5.030763662685486,54.64958738760931,17.505127277114248,8.465738801987108/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1497,7 +1497,7 @@ encroachment upon their national independence.”
 O&#x27;1 the 13th of February, IS06, the question up­  
 on the adoption ot this resolution, was taken in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808050401:1114/pct:27.94263105835806,52.0763723150358,21.068249258160236,8.1145584725537/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808050401:1114/pct:27.935723114956737,52.068087814190264,21.069221260815823,8.117244670696786/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1523,7 +1523,7 @@ a violation of their neutral rights, and&#x27;««
 encroachment upon their national indc&#x27;r •  
 dence. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808050601:0154/pct:77.48909539161768,7.12484237074401,17.90252228333017,6.784363177805801/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808050601:0154/pct:77.47440273037543,7.123944017147901,17.905448110226267,6.787710671205817/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1579,7 +1579,7 @@ On the 13th of February 1806, the
 question upon the adoption of this reso­  
 lution was taken in the senate. The ye#
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808052701:0969/pct:5.929702173329756,57.655586987270155,19.720955191843306,12.128712871287128/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808052701:0969/pct:5.9281115879828326,57.645395085734485,19.722371244635195,12.130988156266572/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1605,7 +1605,7 @@ zens sf these ‘United States, A VIOLATION OF
 CROACHMENT &#x27; UPON THEIR NA­  
 TIONAL INDEPENDENCE.” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808060701:0090/pct:42.04946996466431,56.9732641660016,16.546320479336302,7.242617717478053/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808060701:0090/pct:42.04946996466431,56.97991487097632,16.546320479336302,7.242617717478053/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1639,7 +1639,7 @@ such American citizens, for their losses and
 damages sustained by those cafuurcs and  
 condemnations, and to&quot;—
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808122001:0273/pct:76.5147354933187,23.92314454351375,17.719201903715906,11.415295742810498/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808122001:0273/pct:76.50073206442167,23.920140632847815,17.72205954123963,11.41804788213628/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1672,7 +1672,7 @@ sire to obtain for themselves and their citi­
 zc-ns by amicable negotiation, that justice to  
 which they are entitled.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808122001:0273/pct:76.66117517847337,55.732764033655656,17.517847336628225,10.86274017330152/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808122001:0273/pct:76.6471449487555,55.72576594676042,17.520741825280624,10.865561694290976/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1706,7 +1706,7 @@ tizens by arnicae’.c negotiation, that justice
 to which they arc entitled.”  
 vet us erst our eyes buck to the session of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808122901:0290/pct:4.963768115942029,43.72250848309665,17.807971014492754,11.2982279753676/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808122901:0290/pct:4.962869045462779,43.71701432520734,17.810783070699753,11.300996900393734/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1742,7 +1742,7 @@ themselves and their citiz&lt; ns hy ami*
 v cable nogoci at ion, that justice to which  
 they are entitled.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808123001:0425/pct:77.76102525442894,73.25790691694523,18.808895589898228,15.813833890460273/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808123001:0425/pct:77.74637271528171,73.24848952307495,18.811632435148546,15.816086043621716/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1771,7 +1771,7 @@ ferenccs fiubszstmg beFvcensi&#x27;che !WO undone,
 &#x27; ncan seamcch as may be ;oﬂsisgent With the  
 si honor and mtcrew of the U. 8; and muni
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216092:1809010601:0112/pct:30.590685909834846,85.24412296564195,23.41913405743193,11.907775768535263/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216092:1809010601:0112/pct:30.586135078845583,85.2364162372299,23.420608945750274,11.90971280474942/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1798,7 +1798,7 @@ ciaM1.11, that justice to which they arc enti
 tied  
 Here, sir, we find the senate, not conten
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809010701:0305/pct:58.63315856083891,58.48794648491733,17.175917555595735,6.866086078505616/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809010701:0305/pct:58.622559652928416,58.48056537102474,17.17883827428296,6.8694262157159685/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1840,7 +1840,7 @@ late President Jefferson for coupling this with
 . another demand—As these facts are proved,  
 on one side by the journal» of the Henat«
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809041101:0420/pct:5.3788842449572964,66.38517771615831,18.153734326730874,16.158306024703805/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809041101:0420/pct:5.377906976744186,66.3768115942029,18.156492248062015,16.160470489392985/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1877,7 +1877,7 @@ croachoient upon their national indepen.
 deuce.”  
 Never was the voice of the nation mor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810072001:0237/pct:2.922990444069702,6.446363750156465,19.561551433389546,7.547878332707473/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810072001:0237/pct:2.9224428624953167,6.4455569461827285,19.564131385038092,7.55110554860242/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1926,7 +1926,7 @@ requeßing the President” ** to demand .
 the refloration of the property of their  
 citizens, indemnity for lofles,and dam
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1813020201:0446/pct:10.089418777943369,78.77617990541454,16.453055141579732,5.9936299584982144/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1813020201:0446/pct:10.089418777943369,78.7793970980922,16.458022851465476,6.003281536531222/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2023,7 +2023,7 @@ neutral lights, and. an t ncroarlinietit upon
 lite r riatifin.il independence.” After the  
 adoption of this -resolution, a new- order o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1823082901:0441/pct:22.057917436845347,67.48191027496382,14.684740193058122,6.78726483357453/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1823082901:0441/pct:22.053388090349078,67.47214585443496,14.686858316221766,6.789900159166546/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2041,7 +2041,7 @@ capture am! condemnation, tinder the orders of
 the British government, and adjudications of  
 their courts of admiralty of American vessel*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184522:1824081701:0236/pct:81.99745547073792,91.30539499036608,15.585241730279899,2.1555876685934487/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184522:1824081701:0236/pct:81.98441723644459,91.29440096327514,15.588063815126942,2.1593417619907687/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2064,7 +2064,7 @@ On the Pitli of February 1806, the question
 Upon the adoption of this resolution, was taken  
 in the senate. The yeas and nays weie requir­
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184522:1824081701:0237/pct:3.6517301865731144,1.5124234785740007,15.340456067612822,5.173448565598368/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184522:1824081701:0237/pct:3.6511479591836733,1.5122419587133942,15.343324829931973,5.176828292526804/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

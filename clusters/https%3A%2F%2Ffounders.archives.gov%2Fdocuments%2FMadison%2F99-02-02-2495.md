@@ -609,7 +609,7 @@ population, a grant to fungos of the ne,
 mithority cmil I ho carried, with little d 1,  
 the I arms ol the Constitution.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348860:1836100301:0075/pct:84.25506790001968,30.044117647058822,14.819917339106475,11.176470588235293/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348860:1836100301:0075/pct:84.23848878394332,30.03970004411116,14.821920503738685,11.178503161299808/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -826,7 +826,7 @@ constitutional obstacle which
 a application of the territorial  
 d of the coloured population, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667693:1840013001:0897/pct:155.04424778761063,267.5980975029727,58.584070796460175,40.249702734839474/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667693:1840013001:0897/pct:38.76963930073025,66.89952437574317,14.649258685549901,10.062425683709868/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1013,7 +1013,7 @@ ity which has so long afllicted our country, and
 filled so many with despair, will be gradually re­  
 moved.&quot; Letter to American Colonization S
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199252:1847040101:0642/pct:65.50462249614792,90.29061202624882,19.279661016949152,5.490826302397214/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199252:1847040101:0642/pct:49.16168818654847,67.7246551493237,14.472923492002312,4.124815856434981/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1069,7 +1069,7 @@ long afilicted our country, and filled so
 many with despair, will be gradually le­  
 moved.&#x27; iMttr to American Colonizatio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn82015050:00280763366:1847110601:0088/pct:73.81693648816936,32.12079615648593,16.376089663760897,7.378174330816747/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn82015050:00280763366:1847110601:0088/pct:55.387729679227654,24.090597117364446,12.285892245406416,5.536490505605125/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1092,7 +1092,7 @@ ally removed. Letter to American Colonisation
 Society, Dec. 1831.  
 Moseoi. We have found that thia ev.l (si 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn82015050:00280763366:1849072101:0444/pct:80.54850982878884,23.128327103862272,16.80405833861763,5.436629289840299/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn82015050:00280763366:1849072101:0444/pct:60.424924686855874,17.351908483406955,12.605042016806722,4.077471967380224/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1209,7 +1209,7 @@ giving to our country the full enjoyment of the
 blessirg of liberty, and to the world he full ben  
 efit of its exainpte.-Lefer fo R. II Gurley, Dec
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199276:1853051201:0072/pct:78.04175665946724,102.94006309148266,16.09071274298056,6.422712933753943/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199276:1853051201:0072/pct:58.54185418541854,77.21135646687698,12.07920792079208,4.82018927444795/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1231,7 +1231,7 @@ sented in the Western lands of the nation, which
 will soon entirely cease to be under a pledge for  
 another objec
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393347995:1857050101:0903/pct:27.832699619771862,157.96440653037212,56.749049429657795,20.19414619797029/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393347995:1857050101:0903/pct:6.956852309446873,39.48529411764706,14.184565671925489,5.047794117647059/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1254,7 +1254,7 @@ fund presented in the\&gt; extern lands ui the na­
 tion, which will soon entirely cease to ho un­  
 der a pledge for another object.” In his mes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215968:1857050401:0569/pct:58.59594686318239,20.57542015353759,12.479394938427228,4.384812227678263/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215968:1857050401:0569/pct:58.590265658328484,20.573997233748273,12.48141684441859,4.386814200092209/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

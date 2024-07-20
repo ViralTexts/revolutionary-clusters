@@ -57,7 +57,7 @@ of his reception, if accredited, of the i
 I time when he was so accredited, and  
 of the progress of his negotiation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1813123001:0194/pct:39.438585607940446,40.1368835552222,17.803970223325063,10.406900431276954/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1813123001:0194/pct:39.432470150410914,40.13312083997375,17.806378249857858,10.409049717196337/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -128,7 +128,7 @@ reception, ii accredited, of the time when he was so ac­
 Resolved, That the President be, and he is hereby l*e­  
 ‘ r quested to cause to be laid before this
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1814010501:0726/pct:3.6090225563909772,57.18499098803867,22.43107769423559,6.193675241684417/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1814010501:0726/pct:3.6081182660987223,57.17562254259502,22.431721373089452,6.1967562254259505/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -151,7 +151,7 @@ accredited, and of the progress efhii
 ■egoeiation.  
 Resolved, That the president be, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1814010801:0209/pct:26.544735541275333,7.895933776039298,17.960125226561214,5.42163194760302/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1814010801:0209/pct:26.540362438220757,7.895215572130253,17.96265788028556,5.42417075980838/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -250,7 +250,7 @@ t;on, il accredited, of the time when he was so ac­
 cr-d led, and of ! . proiTTeta Of Ins letocistion.  
 oived. That a committee ha unpointed to eh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1814011501:0308/pct:5.139420448332422,43.92337355392462,18.44359394933479,6.642617240950367/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1814011501:0308/pct:5.1384839650145775,43.917910447761194,18.446307094266277,6.6459369817578775/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -277,7 +277,7 @@ thr Uuned S ates to that court, or of his re
 &quot; 50 “ccr©di ed,nnd of the progress of h.s  
 brg nation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1814011501:0308/pct:6.123564789502461,71.79997512128374,17.149626389648258,7.202388356760791/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1814011501:0308/pct:6.122448979591836,71.7910447761194,17.152575315840622,7.205638474295191/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -306,7 +306,7 @@ progress of his negotiation.
 Mr. Calhoun of S. C. said that his object  
 in yesterday calling for a division of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814011701:0019/pct:38.909541511772,72.93427230046949,16.463090812533192,8.133802816901408/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814011701:0019/pct:38.902654867256636,72.92571294449009,16.466076696165192,8.136760161170441/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -345,7 +345,7 @@ progress of his negoeiation.
 Resulved, &#x27;l hat a commit jee he appointed to  
 enquire w hether Air. Turrefiti, late minister o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1814011901:0741/pct:74.96143958868895,28.2879632666448,22.467866323907455,10.20006559527714/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1814011901:0741/pct:74.94217424826523,28.283325135268075,22.46851709072218,10.202492211838006/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -397,7 +397,7 @@ the 8th of September, 181).
 Respectfiliv submitted,  
 JAMES MONROE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1814012201:0233/pct:25.553719008264462,21.302590483189416,18.165289256198346,17.251515708249126/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1814012201:0233/pct:25.549495951082466,21.300633783411406,18.167795956591196,17.252992866109427/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -530,7 +530,7 @@ S»pt. 1813.
 Respectfully submitted,  
 _ JAMES M()N ROE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1814012501:0324/pct:41.309545705352214,77.1845260165616,17.914290969284533,14.720059325176122/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1814012501:0324/pct:41.30194924604634,77.17498764211567,17.917126394507786,14.722359532048113/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -570,7 +570,7 @@ her, 1813.
 Respectfully submitted.  
 JAMES MONROE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814012601:0029/pct:21.507991660875607,72.90375394690679,16.313412091730367,13.986668225938487/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814012601:0029/pct:21.50425568872677,72.89522918615529,16.31636847895316,13.988930464608668/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -609,7 +609,7 @@ when he was so accredited, and of the pro.. -
 grefs of his negociation, has the honer to |  
 commuuicate to t&#x27;hé-\ ‘ President, f&#x27;orthé’m-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814020101:0017/pct:77.06629055007052,83.93012257504103,17.306064880112835,10.211369558922884/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814020101:0017/pct:77.07569346497414,83.93012257504103,17.301363422661026,10.214586751600553/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -632,7 +632,7 @@ ford to the Secretary of State of the Bth of
 Scptember, 1813, Refpe@fully fubmitred,  
 JAMES MONROZL.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814020101:0018/pct:5.923836389280677,3.4649165138500146,16.96755994358251,6.67889199884181/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814020101:0018/pct:5.928537846732487,3.4649165138500146,16.97226140103432,6.688543576874819/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -667,7 +667,7 @@ Duke of Bassano of t“:e 27th July, and his answer
 of the Ist Aug. and an extract of a letter from Mr  
 Crowford to the Secretary of State of the Bth Sept
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1814020301:0976/pct:26.454759502186345,17.46343378816138,22.48570467541204,12.614116030234612/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1814020301:0976/pct:26.46036551182868,17.46997807663362,22.48570467541204,12.614116030234612/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -123,7 +123,7 @@ Thave been educated, and the latter, when I shall
 cease to regatd those feelings which must actuate  
 every honest man, who is conscious of favors tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1840051101:0104/pct:322.53521126760563,326.5045170257123,57.0051890289103,19.346768589298122/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1840051101:0104/pct:80.67865751900612,81.62612925642807,14.259224921194141,4.836692147324531/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -186,7 +186,7 @@ which must actuate every honest man who is
 conscious of favors that it is not in his power to re­  
 pay.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348872:1840060401:0356/pct:12.114152591729761,74.8360775171208,62.22092797515046,27.407839137403467/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348872:1840060401:0356/pct:3.027950310559006,18.706293706293707,15.552212732919255,6.850961538461538/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -212,7 +212,7 @@ regard those feelings which must actuate ev­
 ery honest man, who is conscious of favors  
 that it is out of his power to repay.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183682:1840061101:0268/pct:37.07526198793268,45.047843916987695,14.147348364560179,6.698148378277619/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183682:1840061101:0268/pct:37.06937609144309,45.04224652087475,14.15039424247235,6.701457919151756/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -273,7 +273,7 @@ ceaae to regard those feelings which must nrlu­
 ste every honest man, who ir conscious cf fa­  
 vors that it is out of his power to repay.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186944:1840080601:0543/pct:16.32051848578583,42.42283592480854,12.711739578730299,5.047574843351126/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186944:1840080601:0543/pct:16.318114874815905,42.41791391112658,12.714776632302405,5.050856634567042/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -481,7 +481,7 @@ which I have been educated; and the latter when I
 shall cease to regard th se feelings which must actu­  
 ate every honest man who is conscious of favors tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186427:1840092601:0398/pct:176.09988109393578,49.60681520314548,39.014400845554235,33.46439493228484/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186427:1840092601:0398/pct:58.69220607661823,16.533799279239926,13.003082342580361,11.153580139055732/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

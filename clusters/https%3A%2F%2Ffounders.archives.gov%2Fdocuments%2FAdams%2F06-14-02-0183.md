@@ -251,7 +251,7 @@ xxIII. The ratification of the present
 preliminary articles shall be expedited if  
 good and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1783042601:0344/pct:11.53597934817683,35.14102032351721,26.26653759277186,15.491497304023227/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1783042601:0344/pct:11.53597934817683,35.14102032351721,26.27191567172206,15.498410064979954/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -276,7 +276,7 @@ orF FrRENCHMEN, &amp;c.
 The Pennsylvania Legislature has  
 voted the following sums, for the lau
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791051201:0801/pct:28.13404050144648,28.13942384211364,20.37126325940212,9.07209931561356/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791051201:0801/pct:28.13404050144648,28.15003448458804,20.379299260687883,9.07209931561356/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -353,7 +353,7 @@ slands as far as the Equitor ; and
 lattly, five months in all other parts  
 of the world,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1801120801:0616/pct:60.92643890427824,26.174431096786794,16.528162511542014,19.855454634241624/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1801120801:0616/pct:60.92643890427824,26.177686623042614,16.528162511542014,19.855454634241624/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -417,7 +417,7 @@ Sea, to the Canary Isles, ti e Equator and
 fivv months in ail the otlh r parts ofthe world,  
 without any exception, or any other distinctio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1814070201:0063/pct:23.762017050607653,45.75106223444139,17.286413930709234,4.536365908522869/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1814070201:0063/pct:23.757707653246282,45.74534549543921,17.28932414460162,4.53996418009913/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -442,7 +442,7 @@ Ules, the Equator and live months in ;.li .he o­
 tlur parts of the world, without any exception,  
 or any other distinction as to time or piace
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814070201:0162/pct:76.25252339878877,53.905016397424994,17.287575701963664,5.903072998906838/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814070201:0162/pct:76.23853211009174,53.89846975953364,17.29051987767584,5.906404339729576/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -667,7 +667,7 @@ JOHN ADAMS, (L. 8)
 B. FRANKLIN, (L. §8)  
 JOHN JAY. (L. 8.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1838121201:0982/pct:2.8626624517035477,17.537506466632177,43.48436951176677,79.43610967408173/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1838121201:0982/pct:2.8743706825898605,17.537506466632177,43.478515396323616,79.4533540265563/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

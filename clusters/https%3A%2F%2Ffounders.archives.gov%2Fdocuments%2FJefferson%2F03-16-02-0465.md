@@ -101,7 +101,7 @@ mony of feeling and concert of action among
   
 the different elements of the opposition, in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn87065188:00295877935:1839122101:0141/pct:26.437793427230048,107.99661518933785,42.59096244131455,9.297651787603131/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn87065188:00295877935:1839122101:0141/pct:19.844415088800822,81.002750158663,31.95361808307647,6.970594457372541/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -119,7 +119,7 @@ has the power to regulate the conditions of cite the greater interest Congress m
 the inhabitants of the State?, it will be but in one branch at least and we fear in both,  
 another exercise of that power to declare merely to register the edicts of . the emperor;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn87065188:00295877935:1839122101:0141/pct:26.643192488262912,119.7376771736831,42.473591549295776,2.39052253014597/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn87065188:00295877935:1839122101:0141/pct:19.991193306913253,89.80325788026232,31.880228974020255,1.7981806642690925/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -174,7 +174,7 @@ shall be, eo o o n  an anooni Now
 Such was the threatening aspect of this e oni in o ta en ao ian  
 terrible controversy that the author of the otoi an a on i eer to 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667693:1840010901:0886/pct:7.644444444444445,120.90412173142266,119.82222222222222,20.800709115083468/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667693:1840010901:0886/pct:1.9119608714984437,30.226030432855666,29.96887505558026,5.200177278770867/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -258,7 +258,7 @@ rs involved in the success of the principles and lab
 those who desired to inhibit a section of the confei  
 :y from the unsettled territory of Missouri, as it tl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848062801:0659/pct:31.541906589891234,62.11414892276679,14.251439539347409,12.246440720675318/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848062801:0659/pct:31.552569844316487,62.122548401999076,14.251439539347409,12.246440720675318/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -279,7 +279,7 @@ eoinuierce, freedom of the press, habr,ts corpus,
 and trial by jury, would make a good beginning.&#x27;  
 It was not then to the veto power that he ob
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664308:1848100301:0341/pct:3.7616611495636474,81.06267029972751,13.51188684923262,3.7368625924484236/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664308:1848100301:0341/pct:3.7666766977630655,81.06915790839497,13.51188684923262,3.740106396782146/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -381,7 +381,7 @@ you or me. Surely they will parley awhile, and
 give us time to gel out of the way. What a bed­  
 lamite is man !
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661538:1854031401:0260/pct:57.640021750951604,5.087832047986289,26.957585644371942,92.49143101970866/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661538:1854031401:0260/pct:57.640021750951604,5.094972864895744,26.9621170926228,92.48786061125392/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -415,7 +415,7 @@ parley awhils, and give us time to get out of ihe way. Whai
 a bedlamite is man! &quot;  
 Here, sir, the illustrious witness, called by the senators t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854031801:0437/pct:48.69722955145119,39.56919060052219,15.732189973614776,9.712793733681462/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854031801:0437/pct:48.69722955145119,39.56919060052219,15.743183817062445,9.725848563968668/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -449,7 +449,7 @@ to be seen. But not, I hope, by you or me. Sure­
 ly they Will parley awhile, and give us time to  
 get out of tho way. What a bedlamite is man!&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035101:00296027078:1854041201:0176/pct:47.05991124260355,87.19672995780591,19.34171597633136,13.409810126582279/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035101:00296027078:1854041201:0176/pct:35.31261561228265,65.40084388185655,14.520902700702923,10.060654008438819/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -474,7 +474,7 @@ der  ee
   
 In anothe letter he speaks of &quot;th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_gastly_ver01:data:sn82014134:00279529248:1856071901:0043/pct:89.06651441621467,176.73799756070517,34.25635169854411,14.158997671582215/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_gastly_ver01:data:sn82014134:00279529248:1856071901:0043/pct:29.688838138738223,58.91266585356839,11.418783899514702,4.719665890527405/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -513,7 +513,7 @@ awhile, and give us time to get out of the
   
 way.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472062:1856072601:0398/pct:113.34093500570125,49.058730695524744,92.07525655644241,336.37695862924136/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472062:1856072601:0398/pct:28.34735491230572,12.264682673881186,23.028661058035077,84.09423965731034/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -549,7 +549,7 @@ by you and me. Surely, tbey will parley
 a while, and give us time to get out of the  
 wuy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035102:00296027078:1856100901:0705/pct:72.55747126436782,51.269903934728255,16.792385057471265,17.686537702329254/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035102:00296027078:1856100901:0705/pct:54.4278785701455,38.45242795104619,12.610023351895096,13.26490327674694/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -596,7 +596,7 @@ with freedom and a dagger.&quot; He says to Mr.
 Monroe, March 2d, 1820—&quot; The Missouri  
 Question is the most portentious
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hershey_ver01:data:sn85025182:0029602840A:1857080501:0278/pct:55.8828717586876,37.92713922620729,11.801023108131945,6.382377859361762/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hershey_ver01:data:sn85025182:0029602840A:1857080501:0278/pct:55.89463162227318,37.93655276287301,11.801023108131945,6.377671091028899/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -623,7 +623,7 @@ oon a e, Ataaeie freolen o 4
 3, 1820--&quot;the Missouri Question is the  
 most portentious
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn85025181:00237287939:1857080801:0402/pct:277.5974025974026,79.45998071359692,51.94805194805195,32.14400514304082/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn85025181:00237287939:1857080801:0402/pct:69.44162436548223,19.86499517839923,12.99492385786802,8.036001285760205/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -689,7 +689,7 @@ controversy to draw a sectional line be­
 tween free and slave States. &quot;Like a fire  
 bell in the night, it awakened and fille
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn83025141:no_reel:1859070801:1087/pct:140.64844587352627,77.58887171561051,42.41693461950697,45.5370942812983/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn83025141:no_reel:1859070801:1087/pct:46.88281529117542,25.862957238536836,14.138978206502323,15.179031427099433/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -763,7 +763,7 @@ But let us turn from our own uneasiness to
 the miseries of our Southern (South Ameri­  
 can) friends.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dior_ver01:data:sn85025007:00415663511:1860110601:0024/pct:44.36838830118233,48.30411417496256,13.764779091474798,6.228526121046603/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dior_ver01:data:sn85025007:00415663511:1860110601:0024/pct:44.36838830118233,48.309987372625024,13.768927608380004,6.228526121046603/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -794,7 +794,7 @@ sin of merely a servile war?&quot;
   
 This is plain, too plain to be mistaken b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279523994:1861032901:0056/pct:172.98062593144562,87.0085995085995,37.74962742175857,28.357903357903357/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279523994:1861032901:0056/pct:57.65161674862166,28.999897635377213,12.581334128048479,9.451666837274372/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

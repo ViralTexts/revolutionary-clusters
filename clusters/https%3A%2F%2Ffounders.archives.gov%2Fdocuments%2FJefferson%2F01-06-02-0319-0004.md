@@ -278,7 +278,7 @@ I here offer my commission, and take
 my leave of alt the employments of pub­  
 lic life. | 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1784012401:0496/pct:3.54412786657401,16.82066124902594,28.683113273106322,50.19481242346655/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1784012401:0496/pct:3.555709983785036,16.828082674681806,28.677322214500812,50.19481242346655/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -891,7 +891,7 @@ under whose orders ! have long aEt-sictd, ihcrc
 ofisscrnty commisslon, and take my leave of alsi,  
 the. cut onmcnts os }-,t_zbiic lisssc. .
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802070801:0209/pct:44.25585415684426,58.551798951365036,21.797894075121796,29.144820104863495/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802070801:0209/pct:44.24890006285355,58.54650637259333,21.799706683427615,29.145198710416103/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1382,7 +1382,7 @@ august body, under whose orders, 1 have so long acted,
 I here offer my commission, and t ike my leave of all  
 the employments of public life. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1837090201:0073/pct:58.26263997285375,23.84500745156483,19.019341703427216,21.483434598188698/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1837090201:0073/pct:58.26829544169212,23.852650082158277,19.036308109942315,21.47961328289197/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1523,7 +1523,7 @@ j protection of Almighty God, and those who have
 j the superintendance of them to’ His holy keep­  
 ■ ins.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517013547:1847061801:0135/pct:35.37880151160698,77.3932947354248,14.810149361166097,6.2205466540999055/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517013547:1847061801:0135/pct:35.37243612810364,77.38287560581583,14.811982727599856,6.223074851911686/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1573,7 +1573,7 @@ long acted, I here offer iny commission,
 and take my leave of all the employ­  
 ments of public life.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215877:1852022301:0310/pct:21.77593659942363,59.70013311847544,12.004682997118156,10.49534085335949/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215877:1852022301:0310/pct:21.773975686627644,59.695950679557235,12.0066036319976,10.496940824809677/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1648,7 +1648,7 @@ well, and commending our country to the kind pro-
  tecton of Aimnighty od, I return you, sir, my com  
 mission, and leave, torever, the employments of pu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn86053516:00212470053:1855122201:0572/pct:130.20713463751437,352.54727704867213,50.690448791714616,13.39258034514829/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn86053516:00212470053:1855122201:0572/pct:32.56115107913669,88.13681926216803,12.676258992805755,3.3481450862870723/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1843,7 +1843,7 @@ tionate farewell to this august body under whose or­
 ders I have so long acted, 1 here offer my commission  
 and take my leave of the employments of my publi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_collins_ver01:data:sn83030364:print00211110107:1860120101:0002/pct:29.882435515002634,46.48574287143572,11.931917880329882,3.0890445222611307/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_collins_ver01:data:sn83030364:print00211110107:1860120101:0002/pct:29.886822249517458,46.48574287143572,11.93630461484471,3.1015507753876936/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1959,7 +1959,7 @@ have long acted, I now offer my com­
 mission, and take my leave of all the  
 employments of public life.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn84022367:00415628341:1865030201:0062/pct:24.957155098543275,99.29057477920949,19.02313624678663,11.350803532648039/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn84022367:00415628341:1865030201:0062/pct:18.731247321045863,74.47517011727233,14.273467638234033,8.51310264948603/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2039,7 +2039,7 @@ the carrying out of the formation of this govern.­
 ment,&quot; ac. or words to that effect. The speaker  
 besought the young men of the present day to imitat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743658:1869022201:0605/pct:195.4278812974465,38.55750950570342,45.928226363008974,7.580798479087452/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743658:1869022201:0605/pct:65.14262709914884,12.852503168567807,15.309408787669657,2.526932826362484/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2219,7 +2219,7 @@ country to the protection of Almighty God
 and those who have the superintendence of  
 them to His holy keeping.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:00271743932:1875061501:1039/pct:196.18320610687022,117.69257025827739,45.411726490173784,9.523267721014905/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:00271743932:1875061501:1039/pct:65.39440203562341,39.23085675275913,15.137242163391262,3.174422573671635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2269,7 +2269,7 @@ closed with these words: &quot;Having
 &quot; my leave of all the employments of  
 &quot;public lite.&quot; Among the spectator
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_bobcat_ver01:data:sn82014896:00211105719:1878032201:0520/pct:54.00696864111498,31.680407371483994,16.51567944250871,8.69301648884578/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_bobcat_ver01:data:sn82014896:00211105719:1878032201:0520/pct:40.51228437009932,23.763336566440348,12.388917929952953,6.522793404461687/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2396,7 +2396,7 @@ ing.” The editor of the Maryland Gazette,
 who was present, said; “Few tragedies ever  
 drew so many tears from so many eyes as the 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623847:1883081101:0142/pct:15.23488950680521,21.346174198327866,11.737157910141958,3.492433061699651/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623847:1883081101:0142/pct:15.23488950680521,21.3497019084912,11.756671057124738,3.5030161921896497/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2429,7 +2429,7 @@ confidence in the rectitude of our cause, the&#x27;support
 of the supreme power of the nation, and the  
 patronage of heaven. I close this last
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_newfoundland_ver04:data:sn83045462:00280654619:1883122201:0269/pct:3.5092491838955384,31.7660088602497,16.14526659412405,4.037454691904954/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_newfoundland_ver04:data:sn83045462:00280654619:1883122201:0269/pct:3.5092491838955384,31.77104309303262,16.155467899891185,4.037454691904954/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2467,7 +2467,7 @@ whose orders I have so long acted, I here
 offer my commission, and take leave of all  
 the employments of public life
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623847:1883122201:0230/pct:7.367972742759796,44.79347826086956,10.391822827938672,9.25/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623847:1883122201:0230/pct:7.377437062275223,44.79710144927536,10.396554987696385,9.26086956521739/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2504,7 +2504,7 @@ tionate farewell to this angust body, under whose order
 I have so long acted, I here offer my commission and  
 take mny leave of all the employments of public lif
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044826:1883122201:0708/pct:28.166915052160952,314.54958364875097,49.40387481371088,38.80393641180923/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044826:1883122201:0708/pct:7.045666356011184,78.63739591218774,12.357875116495807,9.700984102952308/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2526,7 +2526,7 @@ great theatre of action, and bidding an affece­
 my commission and take my leave of all the  
 &quot;employments of public life.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chrysler_ver01:data:sn83030214:00175039983:1883122301:0734/pct:57.00460098365858,133.56492027334852,47.04109154370934,14.521640091116174/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chrysler_ver01:data:sn83030214:00175039983:1883122301:0734/pct:19.001533661219526,44.521640091116176,15.680363847903115,4.840546697038724/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2574,7 +2574,7 @@ olonies became. The name of Washington
 ee honored to the last syllable of re  
 wtime as that of one who wrought less
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chester_ver02:data:sn86053573:00211101970:1883122401:1219/pct:26.649076517150394,306.5997964820468,58.57519788918206,77.162378252653/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chester_ver02:data:sn86053573:00211101970:1883122401:1219/pct:6.663734330327689,76.6499491205117,14.647020013195513,19.29059456316325/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2600,7 +2600,7 @@ God, and those who have the superinten­
 dence of them, to his holy keeping.&quot;  
 The pathos of the scene and th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn86071719:00280777687:1883122601:0560/pct:87.58445945945945,249.64417876458867,56.33445945945946,29.54739538855679/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn86071719:00280777687:1883122601:0560/pct:21.905365441487113,62.41104469114717,14.089564850021123,7.3868488471391975/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2660,7 +2660,7 @@ Chief of the American armies, and “ happy
 in the confirmation of our independence and  
 sovereignty,’; took leave of the service i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_elliot_ver01:data:sn87068079:00332896453:1883122701:0209/pct:13.271425807699748,41.150178784266984,11.124008512284774,3.203218116805721/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_elliot_ver01:data:sn87068079:00332896453:1883122701:0209/pct:13.268858800773694,41.14404886042008,11.12669245647969,3.2064650677789364/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2713,7 +2713,7 @@ so arduous a task, which however, was
 suspended by a confidence in the recti­  
 tude of our cause, the support of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280774856:1883122901:0994/pct:6.365313653136531,122.73547998796269,16.125461254612546,6.184170929882637/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280774856:1883122901:0994/pct:4.779479608783909,92.05537165212158,12.105554530356155,4.649413180860668/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2751,7 +2751,7 @@ whose orders I have so long acted, I
 here offer my commi-tsion, aud take my  
 leave of all the employments of publi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280774856:1883122901:0994/pct:24.575645756457565,8.305747818236533,15.959409594095941,14.06861269936804/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280774856:1883122901:0994/pct:18.43513563388079,6.2293108636774,11.976379405794427,10.562744507974722/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2835,7 +2835,7 @@ my commission and tnko my leave of
   
 all the employments of public life.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_dracula_ver01:data:sn84037890:00206533626:1884031201:0052/pct:53.90796201607012,5.402347617027295,24.050401753104456,78.16433319191061/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_dracula_ver01:data:sn84037890:00206533626:1884031201:0052/pct:50.336685987043985,5.04883843717001,22.447153085577906,72.95736536430834/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2933,7 +2933,7 @@ holy keeping.” Mr. Jas. W. Owens was
 elected an active member and after the  
 transaction of some routine business th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_galena_ver02:data:sn88065721:00279521626:1888013101:0515/pct:30.776909000166363,13.250168577208361,15.089003493595076,8.22656776803776/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_galena_ver02:data:sn88065721:00279521626:1888013101:0515/pct:30.7824543891754,13.25766089757998,15.094548882604114,8.230313928223572/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2952,7 +2952,7 @@ place, I have now the honor of offering my sin­
 cere congratulations to Congress, and of pre­  
 senting myself before them, to surrender into
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_engledinger_ver02:data:sn85040310:00514152111:1889022101:0353/pct:19.026111503175724,15.671222617487363,14.382498235709244,1.9097547275791051/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_engledinger_ver02:data:sn85040310:00514152111:1889022101:0353/pct:19.026111503175724,15.671222617487363,14.382498235709244,1.9191162703613556/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3010,7 +3010,7 @@ body, under whose orders I have so long acted,
 1 here offer my commission, and take my leave  
 of all the employments of public life.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_engledinger_ver02:data:sn85040310:00514152111:1889022101:0353/pct:19.18136908962597,37.42744804343756,14.424841213832039,16.139299756599886/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_engledinger_ver02:data:sn85040310:00514152111:1889022101:0353/pct:19.18136908962597,37.43056855769831,14.429545989179017,16.142420270860637/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3093,7 +3093,7 @@ orders I have so long acted, I here offer
 my commission and take my leave of all  
 the public, employments of life.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_forest_ver01:data:sn94053256:00271763062:1889050101:0421/pct:82.50961010433828,84.21516754850089,14.552443712246019,4.257999496094734/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_forest_ver01:data:sn94053256:00271763062:1889050101:0421/pct:61.90606976105465,63.164525069286974,10.917330403735237,3.199798437893676/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3210,7 +3210,7 @@ under whose orders 1 have so long acted, I
 here return my commission aud take my  
 leave oi all the employments of public life
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_napa_ver01:data:sn82015104:00175036696:1892022201:0608/pct:19.17448923246825,72.8,12.617338487023744,11.27/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_napa_ver01:data:sn82015104:00175036696:1892022201:0608/pct:19.17448923246825,72.80333333333333,12.63114301490889,11.273333333333333/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3244,7 +3244,7 @@ under wnose orders I have so long acted,
 my leave of all the employments of  
 public life.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_isner_ver01:data:sn86092523:00414186804:1894120201:0657/pct:32.41742596810934,80.16860698514652,12.443052391799544,4.807306302689683/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_isner_ver01:data:sn86092523:00414186804:1894120201:0657/pct:32.412811387900355,80.16056196688409,12.446026097271648,4.810168924569326/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3268,7 +3268,7 @@ His holly keeping. ” Verily a bene­
 diotion and a prayer! Scarcely less  
 graoeful was the reply of the Presiden
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_empire_ver01:data:sn86091319:00332890736:1895010901:0008/pct:66.49920073076045,51.38490926456542,14.112811144096826,5.698822031200255/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_empire_ver01:data:sn86091319:00332890736:1895010901:0008/pct:66.48401826484019,51.37673086105364,14.115296803652969,5.701893999681681/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3292,7 +3292,7 @@ Verily a benediction and &amp; prayver!
 Scarely less graceful was the reply of  
 the president, whose prophetic word
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn92063989:00514153425:1895121401:0076/pct:37.7678024892879,41.34073842302879,10.905937563762498,5.79630788485607/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn92063989:00514153425:1895121401:0076/pct:37.77120315581854,41.34073842302879,10.909338230293137,5.8041301627033794/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3453,7 +3453,7 @@ take my leave of all the employmen
   
 of public life.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_calumet_ver01:data:sn86086632:00296023474:1896022201:0192/pct:78.1134401972873,131.55575143234904,18.541923551171394,6.126046716615249/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_calumet_ver01:data:sn86086632:00296023474:1896022201:0192/pct:52.10485736314572,87.7038342882327,12.367000771010023,4.087703834288233/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3478,7 +3478,7 @@ here offer my commission and take my
 leave of all the employment of public  
 life
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_india_ver01:data:sn85038161:00237289341:1896040901:0555/pct:26.868953386103783,66.27799938631482,19.481090589270007,9.005830009205278/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_india_ver01:data:sn85038161:00237289341:1896040901:0555/pct:20.171579410470745,49.70849953973612,14.628244610646723,6.765879104019638/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3561,7 +3561,7 @@ and sincere. &quot;I have now the honor of
 offering my sincere congratulations to  
 congress,&quot; he said, as he stood amids
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_dakin_ver03:data:sn84023253:00202196913:1896090401:1132/pct:59.07365223993926,250.37790298199806,50.11389521640091,7.475608080252852/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_dakin_ver03:data:sn84023253:00202196913:1896090401:1132/pct:14.774022028104824,62.594475745499516,12.533232054690467,1.868902020063213/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3611,7 +3611,7 @@ that had but just now filled his ears at
 every stage of his oes  
 York seemed utterly forgotten; he seeme
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_dakin_ver03:data:sn84023253:00202196913:1896090401:1132/pct:59.14958238420653,260.5469286794009,50.34168564920273,89.92716778892401/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_dakin_ver03:data:sn84023253:00202196913:1896090401:1132/pct:14.793011773642233,65.13673216985022,12.590201291302696,22.481791947231002/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3644,7 +3644,7 @@ ordfrs I have so long acted, 1 here offer
 my commission and take my leave of ull  
 tho employments of public life,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_alpha_ver01:data:sn84025828:00294555717:1897021301:0408/pct:57.605304212168484,119.84093168584008,16.73166926677067,5.737821332197131/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_alpha_ver01:data:sn84025828:00294555717:1897021301:0408/pct:43.239024390243905,89.88780002840505,12.565853658536586,4.303365999147848/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3688,7 +3688,7 @@ orders I have so long acted I here offer
 my commission and take my leave of all  
 the employments of public lif
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_indianola_ver01:data:sn95069778:00206538600:1897021801:0460/pct:88.91104294478528,55.411714770797964,18.374233128834355,6.122665534804754/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_indianola_ver01:data:sn95069778:00206538600:1897021801:0460/pct:66.69734621874521,41.56409168081494,13.790458659303575,4.591999151103566/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3711,7 +3711,7 @@ orders I have so long acted. I here offer
 my commission and take my leave of all  
 the employments of public life.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_honeydew_ver01:data:sn99068086:0033289996A:1897021801:0051/pct:52.77314041921721,57.06944096264728,14.338712669263588,4.562547004261719/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_honeydew_ver01:data:sn99068086:0033289996A:1897021801:0051/pct:52.77777777777778,57.072574580095264,14.35262474494528,4.575081474053648/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3741,7 +3741,7 @@ great theater of action ana, blading an asecnonai
 whoee orders I have so long acted, I heie offer n  
 ill the employments of public 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_kauai_ver01:data:sn84022137:00279523593:1897021801:0888/pct:51.579694710685125,91.09638554216868,29.28647497337593,4.457831325301205/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_kauai_ver01:data:sn84022137:00279523593:1897021801:0888/pct:51.591527629866285,91.09638554216868,29.28647497337593,4.465863453815261/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3778,7 +3778,7 @@ rme power of the anion, and the patron­
 age of heaven. The successful termination  
 of the war has verified the most sanguine
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_kauai_ver01:data:sn84022137:00279523593:1897021801:0888/pct:66.13418530351437,79.98795180722891,14.60773872914448,8.409638554216867/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_kauai_ver01:data:sn84022137:00279523593:1897021801:0888/pct:66.14601822269555,79.98795180722891,14.613655188735061,8.413654618473895/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3808,7 +3808,7 @@ While 1 repeat my obligations to the qrmy
 in general I should do Injustice to my own  
 feelings not to acknowledge, In this pla
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_kauai_ver01:data:sn84022137:00279523593:1897021801:0888/pct:66.20518281860134,86.67469879518072,14.589989350372736,4.530120481927711/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_kauai_ver01:data:sn84022137:00279523593:1897021801:0888/pct:66.20518281860134,86.67871485943775,14.6018222695539,4.534136546184739/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3862,7 +3862,7 @@ great theater of action and, ulddlng an affectionate farewell to this august bod
 whose orders I have so long acted, I here offer my commission and take tny leave of  
 all the employments of public life.&quot;—Washington&#x27;s speech reslgulng his commission a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_green_ver01:data:sn87093220:0020029032A:1897021801:0080/pct:65.07149666348904,81.26367614879649,24.938036224976166,13.922319474835886/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_green_ver01:data:sn87093220:0020029032A:1897021801:0080/pct:65.08102955195424,81.26709518599563,24.952335557673976,13.922319474835886/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3951,7 +3951,7 @@ great theater of nctlon aird. bidding an affectionate farewell to tilts august b
 n-lioe orders 1 have so long acted, I here oft&#x27;t-r my comuilsKion and lake my leave&quot; of  
 all the employments of public .life.&quot; Washington&#x27;s speech resigning uln commission M 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_pearsoll_ver01:data:sn84022650:00295868776:1897021901:0456/pct:68.10512654120701,112.35925634982979,29.785853341985725,17.596229379418695/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_pearsoll_ver01:data:sn84022650:00295868776:1897021901:0456/pct:51.10353781239857,84.27598847865933,22.34664070107108,13.197172034564023/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4043,7 +4043,7 @@ rectitude of our cause, the support of the
 supreme power of tie nation, and the patron­  
 age of Heaven
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_gargoyle_ver02:data:sn92064114:00514153401:1897030601:0425/pct:50.088211708099436,10.677217141095468,19.96792301523657,6.330284657280855/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_gargoyle_ver02:data:sn92064114:00514153401:1897030601:0425/pct:50.088211708099436,10.680642619806118,19.978615343491047,6.330284657280855/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4069,7 +4069,7 @@ bud{. under whose orders I have so long acted.
   
 ave of the appointments of my public hfe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_gargoyle_ver02:data:sn92064114:00514153401:1897030601:0425/pct:50.184442662389735,16.822525948001232,19.95188452285485,5.343746788613709/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_gargoyle_ver02:data:sn92064114:00514153401:1897030601:0425/pct:50.184442662389735,16.82937690542253,19.95188452285485,5.340321309903059/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4091,7 +4091,7 @@ body, under whose orders I have so long acted,
 I here offer mv commission and take my leave  
 of all the employment of public life.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn84022991:00513688192:1897041001:0293/pct:57.86124794745484,40.37757114680191,12.766830870279145,3.6348267117497888/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn84022991:00513688192:1897041001:0293/pct:57.86124794745484,40.37757114680191,12.766830870279145,3.6442190288344136/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4136,7 +4136,7 @@ here offer my commission and take my
 ledve of all the employments of public  
 life.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_garwood_ver02:data:sn83040340:00237285293:1897060401:0392/pct:31.384455239417072,36.49833312754661,21.26995142262318,6.951475490801333/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_garwood_ver02:data:sn83040340:00237285293:1897060401:0392/pct:20.92660072878709,24.336337819483887,14.193996182543813,4.630201259414743/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4157,7 +4157,7 @@ mighty God, and those who have the su­
 perintendence of them to His holy keep­  
 ing.&quot; A recent president, too, when h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_maple_ver01:data:sn92051487:00271763256:1897061101:0195/pct:69.02313624678663,95.4860656810153,14.55655526992288,4.841031008766191/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_maple_ver01:data:sn92051487:00271763256:1897061101:0195/pct:51.783992285438764,71.62109119455711,10.92896174863388,3.6242313227790133/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4184,7 +4184,7 @@ was the reply of the President, whose
 prophetic words were: “You return  
 from the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_elderbrain_ver03:data:sn92064073:00514153309:1898122001:0720/pct:30.323745646846383,45.17402597402597,12.304914226750935,7.522077922077922/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_elderbrain_ver03:data:sn92064073:00514153309:1898122001:0720/pct:30.328045057827076,45.17402597402597,12.304914226750935,7.529004329004329/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4207,7 +4207,7 @@ those who have superintendence of them to His holy keep­
 ing.” Scarcely less graceful was the reply of the President,  
 whose prophetic words were: “You return from the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685166:1898122201:0464/pct:7.983302895903992,77.542062911485,20.871380120010436,4.09656181419166/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685166:1898122201:0464/pct:7.981220657276995,77.52788443956848,20.87245696400626,4.100383982446517/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4234,7 +4234,7 @@ was the reply of tiie President, whose
 prophetic words were: &quot;You return  
 from the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carlisle_ver01:data:sn86081854:00296026086:1898122201:0390/pct:81.13766123916261,46.12945077122676,14.633114823429901,7.438373936860314/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carlisle_ver01:data:sn86081854:00296026086:1898122201:0390/pct:81.1517586522873,46.12945077122676,14.626066116867555,7.447984239104319/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4260,7 +4260,7 @@ ed. 1 here offer my commission and
 take my leave of all the employments  
 of public life.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_lucretia_ver01:data:sn86086852:00271768965:1899021601:0827/pct:85.15578487795197,53.699643738010415,18.237745584441356,8.659906823787338/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_lucretia_ver01:data:sn86086852:00271768965:1899021601:0827/pct:66.00020506510818,41.62477876106195,14.144365836152978,6.707964601769912/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4282,7 +4282,7 @@ ed, I here offer my commission and
 take my leave of all the employments  
 of public life.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_bobidosh_ver01:data:sn85040613:00514150953:1899022001:0187/pct:19.10809214412286,45.03747214907839,14.515652687536917,4.415637026534332/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_bobidosh_ver01:data:sn85040613:00514150953:1899022001:0187/pct:19.113014372908054,45.04084801836473,14.515652687536917,4.419012895820674/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4324,7 +4324,7 @@ dearest country to the protection of Al­
 mighty Giod; and those who have superin­  
 tendence of them to His holy keeping.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_gargoyle_ver02:data:sn92064114:00514153401:1899031801:0726/pct:70.35497281739687,77.84487246225925,20.099136552606332,3.7272254034357104/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_gargoyle_ver02:data:sn92064114:00514153401:1899031801:0726/pct:70.35497281739687,77.84487246225925,20.120456241338875,3.737636647579386/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4364,7 +4364,7 @@ words which he spake on one occasion
 when he said, &quot;Of all dispositions and  
 habits which lead to political prosper
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_inskip_ver01:data:sn82015104:00280768881:1899121801:0414/pct:30.957499586571853,66.50306748466258,12.171324623780388,7.435582822085889/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_inskip_ver01:data:sn82015104:00280768881:1899121801:0414/pct:30.957499586571853,66.50306748466258,12.187861749627915,7.447852760736196/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

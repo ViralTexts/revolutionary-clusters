@@ -218,7 +218,7 @@ With the most respectful attachment, I
 remain, sir, your obedient,  
 J. Marshall
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624311:1861062001:0085/pct:4.909634267824107,29.52263880352387,14.44428632417817,41.02642901044868/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624311:1861062001:0085/pct:4.909634267824107,29.52263880352387,14.453773540154641,41.03667281294817/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -252,7 +252,7 @@ of a Southern mob raised to over­
 throw the best government on earth.  
 Seeing wo havo such disloyal men i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:00237286911:1861070401:0944/pct:26.38607167004733,89.62914769030579,15.821501014198782,17.111255692908262/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:00237286911:1861070401:0944/pct:19.797125950972106,67.22186076772934,11.868131868131869,12.843201040988939/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -478,7 +478,7 @@ With the most respectful attachment,&#x27; &#x27;
 I remain, sir, yonr obedient  
 J. J1AE8IULL
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015486:00294555614:1861081501:0206/pct:108.51381628080657,62.5816775570076,17.718446601941746,55.18069075876784/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015486:00294555614:1861081501:0206/pct:81.41576391483004,46.939591945592746,13.298468434815092,41.39218562474996/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -535,7 +535,7 @@ dissolution of the Union, to the continu­
 ance of an Administration not of their  
 own party.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293769:1863011601:0030/pct:32.05317577548006,351.8952062430323,54.87444608567208,16.49944258639911/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293769:1863011601:0030/pct:8.016254155892131,87.97380156075808,13.723679349833764,4.124860646599777/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -554,7 +554,7 @@ not hold it, and who would prefer a disso­
 lution of the I mon, lo the continuance of  
 an Administration not their .if|own party.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn84026845:00202190716:1863012601:0088/pct:29.442282749675744,77.3992673992674,13.255512321660182,2.802197802197802/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn84026845:00202190716:1863012601:0088/pct:29.455252918287936,77.41300366300366,13.242542153047989,2.793040293040293/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

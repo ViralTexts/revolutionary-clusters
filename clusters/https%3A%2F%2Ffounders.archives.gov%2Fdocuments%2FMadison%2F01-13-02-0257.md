@@ -69,7 +69,7 @@ Ministers, the 27th of the fame month.
 (Signed,)  
 London, 4th Nov.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790010501:0003/pct:35.529411764705884,42.5127142588058,25.794117647058822,12.13034469768318/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790010501:0003/pct:35.536764705882355,42.5127142588058,25.816176470588236,12.149180636654737/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -275,7 +275,7 @@ Ministers, the 27th of the fame month.
 (Signed,)  
 London, 4th Nov.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791010501:0003/pct:35.529411764705884,42.5127142588058,25.794117647058822,12.13034469768318/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791010501:0003/pct:35.536764705882355,42.5127142588058,25.816176470588236,12.149180636654737/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -334,7 +334,7 @@ treaties, which no doubt has certain limits.&quot; (Writings
 of Madison, Vol. I  
 In the United States agt. The Schooner 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fortran_ver01:data:sn83030214:0020653106A:1870122201:0808/pct:5.11500723821779,196.78072940117065,46.98407592086215,11.796488068437641/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fortran_ver01:data:sn83030214:0020653106A:1870122201:0808/pct:1.7050024127392633,65.59357646705688,15.661358640287384,3.9321626894792137/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

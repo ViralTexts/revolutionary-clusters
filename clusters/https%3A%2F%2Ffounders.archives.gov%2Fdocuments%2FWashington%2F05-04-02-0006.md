@@ -44,7 +44,7 @@ GIVEN at the City of New-York, the
 Twenty.ninth Day of September, in  
 SEAL th: rcar of our LORD One Thonfan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789100701:0002/pct:46.14289780814119,49.87616688893122,24.85055508112724,12.66907982472852/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789100701:0002/pct:46.16424708226587,49.88569251285959,24.843438656419014,12.66907982472852/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -84,7 +84,7 @@ manner as to render the same reciprocally
 beneficial and satisfactory, have respec­  
 tively named Plenipotentiaries and give
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183906:1815122701:0132/pct:19.157149750683608,49.45552428728741,14.637284864082355,16.725804478159795/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183906:1815122701:0132/pct:19.154068832422002,49.44947394176658,14.640291626460813,16.727836228692603/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -197,7 +197,7 @@ same with my hand.
 DONE at the city of Washington,  
 this fifteenth day of Februan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn83025196:00415668818:1837051701:0146/pct:82.14159915463192,13.123601421613795,14.177527298344488,10.082927471370278/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn83025196:00415668818:1837051701:0146/pct:82.14746976634966,13.123601421613795,14.189268521779969,10.082927471370278/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -230,7 +230,7 @@ In testimony whereof, I have caused the seal of the
 s.ime with my hand.  
 Done at the City of Washington, the twentythir
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661307:1843041101:0350/pct:1.6797900262467191,87.86068386932757,17.130358705161854,4.855726452268971/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661307:1843041101:0350/pct:1.6797900262467191,87.86492097792467,17.142023913677455,4.864200669463158/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -261,7 +261,7 @@ my hand.
 Done at the city of Washington, the fourth day of Februaly,  
 in the year of our Lord one thous and eight hundre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191253:1847021701:0083/pct:83.18661971830986,51.79229480737018,58.40669014084507,11.457286432160805/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191253:1847021701:0083/pct:20.796654929577464,12.948073701842546,14.601672535211268,2.864321608040201/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -309,7 +309,7 @@ and respectively authorised for that pur­
 pose; The English Original of which Con­  
 vention is, word for word, as follows
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_lilac_ver02:data:sn82015408:00237289699:1847032701:0165/pct:36.48814390842191,24.042497376705143,28.76124284546198,13.614900314795383/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_lilac_ver02:data:sn82015408:00237289699:1847032701:0165/pct:27.38241308793456,18.035152151101784,21.595092024539877,10.217733473242392/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -355,7 +355,7 @@ my hand.
 Done at the city of Washington, the seventh day  
 of April, in the year of our Lord one thousan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191289:1848042601:0172/pct:83.34786399302529,332.35880398671094,58.76198779424586,11.362126245847175/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191289:1848042601:0172/pct:20.83696599825632,83.08970099667773,14.690496948561465,2.840531561461794/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -399,7 +399,7 @@ same with my hand.
 Done at the city of Washington the twenty-third day  
 of January, in the year of our Lord one thousan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191265:1849021701:0079/pct:259.68020743301645,361.6790453141951,56.95764909248055,14.053242092965034/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191265:1849021701:0079/pct:64.92005185825411,90.41976132854877,14.239412273120138,3.5133105232412585/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -423,7 +423,7 @@ with my hand
 Done at the City of Washington, this eighteenth day of Ian-  
 ruary, in the year of our Lord one thousan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191265:1849032101:0114/pct:24.62882096069869,352.9667390941,57.59825327510917,16.07889018886846/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191265:1849032101:0114/pct:6.157205240174672,88.241684773525,14.399563318777293,4.019722547217115/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -482,7 +482,7 @@ States the . WILLIAM M&#x27;KINLEY.
 By the President :  
 , Secretary of State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_alliance_ver01:data:sn99021999:00206538880:1898082801:0157/pct:82.54295532646049,37.37593473827329,12.216494845360824,9.123045547246772/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_alliance_ver01:data:sn99021999:00206538880:1898082801:0157/pct:82.55584192439862,37.37593473827329,12.216494845360824,9.133242692046228/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -517,7 +517,7 @@ States the . WILLIAM M&#x27;KINLEY.
 By the President :  
 , Secretary of State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_alliance_ver01:data:sn99021999:00206538880:1898082801:0144/pct:109.34291581108829,49.06967268776314,16.27310061601643,13.432024989813934/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_alliance_ver01:data:sn99021999:00206538880:1898082801:0144/pct:82.02977922300188,36.8056498709765,12.202635632380627,10.074018742360451/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -563,7 +563,7 @@ ton the day of in the year of
 our Lord and of the Independence  
 of the United States th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_dantley_ver01:data:sn85058130:00206534795:1898090401:0029/pct:93.66624122527122,4.801239029426949,35.00319081046586,140.0232318017553/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_dantley_ver01:data:sn85058130:00206534795:1898090401:0029/pct:62.45412478059678,3.200826019617966,23.34450295197064,93.3488212011702/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

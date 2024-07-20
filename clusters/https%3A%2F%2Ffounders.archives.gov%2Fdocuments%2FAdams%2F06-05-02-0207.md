@@ -449,7 +449,7 @@ out in military greeting. They were siezed and
 led away by zealous friends to splendid banqet-  
 ting. And when all that Samaria had of royya
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293198:1855040801:0336/pct:229.1386682956628,234.90779298036884,48.68662186927306,25.1279000594884/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293198:1855040801:0336/pct:57.3109243697479,58.72694824509221,12.177234530175706,6.2819750148721/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -559,7 +559,7 @@ wont to their master.&quot; &quot; So the bands of Syria,&quot;
 adda the sacred ohronioler, &quot; came no uiore to the  
 land of Israel.&quot; Will the lieoorder be goo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661630:1864092201:0383/pct:18.54340968317103,52.77358083315347,15.718008503634618,6.378156701921002/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661630:1864092201:0383/pct:18.55255337630869,52.78077559536657,15.713436657065788,6.378156701921002/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -593,7 +593,7 @@ whon they had eaten and drunk, be sent them, and they
 went to their master.&#x27; &#x27;So the bands of Syria,&#x27; adds the  
 sacred chronicler, &#x27;came no more to the land of Israel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661630:1864100601:0392/pct:65.89990241182211,62.851641886832816,15.669873135368745,4.73847470317681/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661630:1864100601:0392/pct:65.89990241182211,62.858772774271756,15.679167247548678,4.73847470317681/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -617,7 +617,7 @@ with thy sword and with thy bow? Set bread and water
 before them, that they may cat and drink and go.? B  
 The point of this story is very manifest. The princ
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743518:1865042101:0187/pct:100.31895249286553,197.22222222222223,49.84052375356723,19.01183970856102/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743518:1865042101:0187/pct:33.43965083095518,65.74074074074075,16.613507917855745,6.337279902853673/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -679,7 +679,7 @@ and chlorate of potash.
   
 How much he ooe te aicon oe  ae an e an i in 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00202191423:1865050601:0435/pct:62.511671335200745,76.01713062098501,102.24089635854342,304.99643112062813/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00202191423:1865050601:0435/pct:15.627917833800186,19.004282655246254,25.560224089635856,76.24910778015703/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -701,7 +701,7 @@ taken captive with thy sword and with thy bow?
 Set bread and water betore them, that they  
 may eat and drink and go&quot; I rom this h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn85026002:00280775071:1865050601:0027/pct:183.33333333333334,325.23364485981307,58.47457627118644,17.35143713630753/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn85026002:00280775071:1865050601:0027/pct:45.84412526489287,81.30841121495327,14.622086178478927,4.337859284076883/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -723,7 +723,7 @@ whom thoti hast taken captive with thy
 bow? Set bread Snd water before1 them,  
 that they rriay est tmd drink and go&#x27;.&quot; Fro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85026309:00280775903:1865051701:0090/pct:55.081855388813096,91.66142623569363,15.092087312414733,5.659665450886681/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85026309:00280775903:1865051701:0090/pct:41.34106807711994,68.74606967677022,11.32912472274356,4.251037605332662/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -748,7 +748,7 @@ Fr-&quot;! this he argued leniency and Chris
 han conduct Hartford Timet  
 PryisHCfQ a Corpse. The irpriaghoi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027467:1865051701:0405/pct:109.47721962616822,109.27736704030526,16.13609813084112,8.466491772000953/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027467:1865051701:0405/pct:82.12355776252373,81.95802528022895,12.107492332408354,6.3558311471500115/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -827,7 +827,7 @@ class of sentiment, he said, attempts the answer,
 which is, simply, hang them, every one, if you can.  
 In speaking of the plotters of the Rebellion he said the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_cobol_ver01:data:sn83030213:00206530807:1865060201:0249/pct:52.78412085016687,33.985875356213604,98.87581240119445,259.37306405649855/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_cobol_ver01:data:sn83030213:00206530807:1865060201:0249/pct:17.594706950055624,11.328625118737868,32.958604133731484,86.45768801883285/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -852,7 +852,7 @@ with thy bow? Set bread and water before
 them, that they may eat and drink and go.&quot;  
 Had Elisha lived in this land and age h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028822:00280775459:1865061501:1155/pct:121.15812917594654,42.74285714285714,50.55679287305122,15.82857142857143/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028822:00280775459:1865061501:1155/pct:30.289532293986635,10.685714285714285,12.639198218262806,3.9571428571428573/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -878,7 +878,7 @@ argued leniency and Chiistian conduct
 MassAcm-sm* Patriotism. —It appears  
 from the statement of “ Peilev,&quot; th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014487:00279557244:1865061701:0722/pct:29.0158371040724,31.42072752230611,11.840120663650076,7.481125600549073/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014487:00279557244:1865061701:0722/pct:29.0158371040724,31.42072752230611,11.849547511312217,7.491420727522306/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -907,7 +907,7 @@ further off than the oilier. Let the reader
 suppose two trees, for instance, standing in  
 a line with his eye; it be moves bis eye to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn82014998:00279558005:1865070801:0115/pct:38.1415760351078,71.52806226956166,14.520129746231635,9.0400109244845/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn82014998:00279558005:1865070801:0115/pct:38.151116199198626,71.53147617096818,14.515359664186224,9.046838727297555/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -952,7 +952,7 @@ thy sword and with thy bow? Set bread and water
 before them, that they may eat and drink?&quot;&quot;  
 A German paper says that at the sortie upo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743725:1870111901:0626/pct:243.54733049459549,143.99220362302225,47.13396659023911,10.972254070167393/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743725:1870111901:0626/pct:81.1824434981985,47.99740120767408,15.71132219674637,3.657418023389131/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -991,7 +991,7 @@ pnt astop to this irregular warfare thc Germans
 compel the most prominent citizens of the French  
 towns occupied by them to ride In an expose
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_brandonblaze_ver01:data:sn84026994:00294551773:1870112401:0294/pct:0.5766458433445459,66.40685892439595,14.19189492231299,13.127714063021935/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_brandonblaze_ver01:data:sn84026994:00294551773:1870112401:0294/pct:0.5766458433445459,66.41428200274653,14.202573549041594,13.12400252384664/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1107,7 +1107,7 @@ tensified by the provocations to the mem-
 morable revolution of 1776, and of the  
 i military agencies involved by it. Thes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_archives_ver01:data:sn85033413:00212472001:1876101801:0478/pct:31.10181311018131,337.87859260213946,50.97629009762901,28.25106328135069/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_archives_ver01:data:sn85033413:00212472001:1876101801:0478/pct:7.779522065236351,84.46964815053487,12.750741322169894,7.062765820337672/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1322,7 +1322,7 @@ them away, and they went to their master. So
 the bands of Syria came no more into the land  
 of Israel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn85038180:00296029063:1885100101:0094/pct:66.40765092647938,42.75829157718921,14.420203227734609,7.874015748031496/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn85038180:00296029063:1885100101:0094/pct:49.8280759455823,32.06871868289191,10.823740469427419,5.905511811023622/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1434,7 +1434,7 @@ It was done; he sent them away;
 “aud the bands of Syria came no  
 more into the land of Israel.” Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn90053049:00332897913:1897030601:1005/pct:17.811077389984824,16.234403476797983,12.51896813353566,8.075143698303659/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn90053049:00332897913:1897030601:1005/pct:17.807699601744737,16.232127838519766,12.521335103356723,8.077516119988786/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1532,7 +1532,7 @@ to their master.&quot;
 The treatment of prisoners of war was much  
 affected for the better by the influence of chiv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043032:1898122701:0754/pct:219.36971560338202,99.55880115624525,50.88393543428132,26.532785638216946/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043032:1898122701:0754/pct:54.852969440707284,24.889700289061313,12.723428791082068,6.633196409554237/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

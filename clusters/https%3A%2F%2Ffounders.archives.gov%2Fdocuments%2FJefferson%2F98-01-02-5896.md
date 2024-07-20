@@ -33,7 +33,7 @@ the remnant of his days, should his 1 irge- estate
 be forced into the market in the present depressed  
 state of prices; and without some such aid as thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183992:1826021101:0335/pct:18.102352193261286,41.14719127755392,15.034965034965035,3.50794027020621/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183992:1826021101:0335/pct:18.09947560781821,41.142315440218034,15.037872768684782,3.511474503298179/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -52,7 +52,7 @@ will be left to support the remnant of his t!a\s.
 should his large estate be forced into the mar­  
 ket in the -present depressed state of prices
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826021501:0072/pct:6.208499335989376,60.113421550094515,17.878486055776893,3.1135327476926498/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826021501:0072/pct:6.20746887966805,60.10673782521681,17.881051175656985,3.116892743310355/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -130,7 +130,7 @@ following persons shall be authorised to.
 make valuations aforesaid, viz: Peachy!  
 R. Gilmour and Win, Radford of Bed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn84024505:00542866962:1826022401:0367/pct:56.7199148029819,3.65375568449114,26.624068157614484,94.10381056923318/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn84024505:00542866962:1826022401:0367/pct:56.70783645655877,3.6531828159297586,26.62372231686542,94.09297585449984/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -155,7 +155,7 @@ be drawn uiuler tile control and direc­
 tion of the following managers, or any  
 two or more of them, viz: John Brock-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn84024505:00542866962:1826022401:0367/pct:70.45793397231097,9.12654853379332,12.822151224707135,5.70801317233809/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn84024505:00542866962:1826022401:0367/pct:70.44293015332198,9.125117591721542,12.824744463373083,5.711037942928818/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -332,7 +332,7 @@ tion aforesaid, viz: Peachy R. Cilmour
 ami Wm. Radford of Bedford, Henry ?&gt;.  
 Langhorne of Campbell, ami John M
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1826030201:0040/pct:25.981744852472936,18.77000139140114,17.406070897898534,46.556282176151385/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1826030201:0040/pct:25.97623089983022,18.767390094602113,17.407682512733448,46.55328324986088/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -356,7 +356,7 @@ be drawn under the control and direc­
 tion of the following managers, or any  
 two or more of them, viz: John Brock
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1826030201:0040/pct:26.024198683931225,66.021984138027,17.38484398216939,6.442187282593571/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1826030201:0040/pct:26.01867572156197,66.01279910962715,17.386460101867574,6.444769059543684/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

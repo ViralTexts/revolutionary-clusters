@@ -39,7 +39,7 @@ mentioned.
 An act making appropriations for  
 the military establishment for th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216195:1815030701:0112/pct:63.26203986614288,38.63879003558719,18.114360541248363,8.772241992882563/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216195:1815030701:0112/pct:63.25283677625836,38.63535272662575,18.116574532053146,8.77442694896658/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -71,7 +71,7 @@ Senate.
 The bill concerning invalid pen  
 sioners, (the annual hill on the su
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216195:1815030901:0116/pct:44.285924400647154,57.34111199504994,35.931754669804384,35.9763104393176/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216195:1815030901:0116/pct:44.279411764705884,57.3360438394909,35.931372549019606,35.97607683695716/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -93,7 +93,7 @@ ted States the jurisdiction in the cases there*
 in mentioned.  
 An act making appropriations fur th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184285:1815031101:0072/pct:5.395025603511339,43.3531119808105,17.044623262618874,5.201363464209065/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184285:1815031101:0072/pct:5.394039129639788,43.347639484978544,17.047601633449137,5.204914583859295/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -481,7 +481,7 @@ ed as aforesaid, or where or when bonds are
 given under the said acis : and the district at­  
 torneys of the Uniied States, are hereby au
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1815121901:0433/pct:59.183082271147164,13.982300884955752,16.22247972190035,9.577187807276303/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1815121901:0433/pct:59.19273850907686,13.982300884955752,16.217651602935497,9.58374303507047/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -501,7 +501,7 @@ judgment and execution therein shall not be de
 layed, suspended, orin any way barred or de­  
 feated by reason of any law of any state author
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1815121901:0433/pct:59.02375434530707,35.250737463126846,16.26593279258401,3.1563421828908553/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1815121901:0433/pct:59.03341058323677,35.25729269092101,16.26110467361916,3.1596197967879385/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

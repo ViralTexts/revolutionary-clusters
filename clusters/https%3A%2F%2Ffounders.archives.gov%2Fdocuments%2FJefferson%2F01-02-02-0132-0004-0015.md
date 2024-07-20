@@ -55,7 +55,7 @@ The resolution, and consequently the law,
 embraces all officers in the continental line, who  
 served during the war, and all who were lef
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021206:00517171955:1828070901:0633/pct:45.67099567099567,75.65389509401952,18.968909878000787,8.058815212780997/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021206:00517171955:1828070901:0633/pct:35.400569337128914,58.63618101464626,14.696014640097602,6.2456627342123525/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -77,7 +77,7 @@ ol this Commonwealth, on .Continental establishmen&#x27;,
 or serving in the battalions raised for the hninadia&#x27;e i!a  
 fence of thin Suit, or for the defence of ihp U. Sfate*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830012801:0267/pct:17.76061776061776,46.358301691404904,15.34006534006534,3.7395006328385687/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830012801:0267/pct:17.757980697847067,46.3529682466636,15.342736946300422,3.7429053535818375/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -105,7 +105,7 @@ so to do, in the same or any higher rank, and continue
 haffpsy during hie, to commence f otn the termination  
 ol their eniuinand or service.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830012801:0267/pct:17.775467775467774,49.93671614313658,15.36976536976537,6.282361063168795/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830012801:0267/pct:17.7728285077951,49.93097100782329,15.372432566196487,6.285473232090811/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -133,7 +133,7 @@ in until the end of the war, -hall tie entitled to half­
 l»av dining life, to commence from ihe determinatoori  
 ol their command or a-rviec.” Congress having mad
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830012801:0267/pct:49.31689931689932,75.62996202968588,15.117315117315117,6.547002646415833/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830012801:0267/pct:49.30957683741648,75.62126092959043,15.12001979707993,6.550084368768216/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -152,7 +152,7 @@ In the same or higher rank, and continued thei&#x27;.n
 until the ond of tho war, arewntitlod to half pay. to  
 commence from the determination of their comman
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830020401:0121/pct:2.7858762552640104,78.23840281855549,17.849044379656625,2.607163828537874/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830020401:0121/pct:2.785425101214575,78.22921559417567,17.851551956815115,2.610771880382026/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -172,7 +172,7 @@ mand,” evidently applied to i divers embraced by the
 first provision who continued in command un&#x27;il the end  
 of the war. And the term “service” applied to the su
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830022601:0313/pct:80.00586768373185,53.023148681331335,15.241308493472202,2.8561557065530345/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830022601:0313/pct:79.99413317688472,53.017042837402116,15.24396206121052,2.8596652848149855/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -198,7 +198,7 @@ rank,and continue therein until the end of the war,
 shall be. entitled to half pay during life, to commence  
 from the determination of their command or service 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830030201:0320/pct:19.19976549904734,7.8031350852927615,15.359812399237873,5.544029506685108/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830030201:0320/pct:19.196951934349354,7.802235795781952,15.362446268073466,5.5472321462871195/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -229,7 +229,7 @@ therein until the end of the w ar, shall he entitled to half­
 pay dining life.” It is clear to me, that it was not the  
 effect or intention of the act of 1790 to repeal this net o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830040201:0355/pct:65.04159976645745,8.837579617834395,15.457597431031965,7.813921747042766/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830040201:0355/pct:65.03210741389375,8.836574547935857,15.460206265810468,7.816823988778953/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -253,7 +253,7 @@ the said service, if requiredso to do, in the same or
 &lt;mi/ higher rank, ami continue therein until the end of  
 the war, shall be entitled to half pay during life,” kc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830040201:0355/pct:65.09998540359072,40.0705186533212,15.428404612465334,4.6292083712465875/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830040201:0355/pct:65.09048453006422,40.065961560332084,15.431017707725239,4.632472800333598/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -277,7 +277,7 @@ war,” or “and shall again enter into the said service,
 in the same or any higher rank, and continue therein  
 until tils end of the war, if required s&gt; to do,” than t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830040601:0359/pct:34.045980377800554,59.579812742635305,15.053448528335041,4.601507193423156/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830040601:0359/pct:34.04099560761347,59.57301061765042,15.056124938994632,4.604787456711192/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -304,7 +304,7 @@ ble as that act expressly includes those &quot;on the continental
 establishment, or serving in the battalions raised for the im­  
 mediate defence of the Slate or for the defence ol the 1&#x27;tiite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566431A:1850051701:0357/pct:52.262044653349,31.72849995279902,15.834312573443007,1.3499480789200415/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566431A:1850051701:0357/pct:52.27183705444575,31.734793417036407,15.844104974539757,1.3530948110387362/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -355,7 +355,7 @@ commanding, or who shall command, in the battalions ef this
 commonwealth on continental establishment, or serving in the  
 battalions raised for the immediate defence of this State, or fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1850060801:0223/pct:2.0850040096230953,51.473539664096336,15.530606789628441,9.992605894158656/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1850060801:0223/pct:2.0894591463957943,51.48058166965952,15.526151652855743,9.996126896940249/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -393,7 +393,7 @@ defending the same during a stated period. The
 act then proceeds thus :  
 ?&#x27; Whereas certain persons, citizens of this and the Stat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1850060801:0223/pct:2.165196471531676,61.297137424738565,15.437048917401764,12.80236611386923/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1850060801:0223/pct:2.165196471531676,61.297137424738565,15.45041432771986,12.809408119432414/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

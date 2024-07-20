@@ -86,7 +86,7 @@ our several vocations urelful here, and in his own
 due time and way everlastingly happy  
 (Signed) WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790091501:0004/pct:38.94536213468869,5.664877757901014,53.14485387547649,90.26038560922282/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790091501:0004/pct:38.94536213468869,5.679785330948121,53.16867852604828,90.26535480023853/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -420,7 +420,7 @@ make us all m our several vocations useful
 here, niul, in his own due lime and May,  
 everlastingly happy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1824032301:0665/pct:21.947674418604652,33.40191036002939,15.240863787375416,24.893460690668626/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1824032301:0665/pct:21.943118123313265,33.39700264472524,15.242889765414159,24.893476344402/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -515,7 +515,7 @@ its protection should demean themselves a?
 ci izec? in giving it on all occasions their  
 effectual support. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kuvasz_ver02:data:sn83045461:00280654048:1854092101:0292/pct:1.1693309650680876,25.183673469387756,14.194789816459444,7.091836734693878/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kuvasz_ver02:data:sn83045461:00280654048:1854092101:0292/pct:1.1767317939609236,25.18877551020408,14.194789816459444,7.094387755102041/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -553,7 +553,7 @@ Macoupin county, (111.) has withdrawn his name from
 the canvass, for the reason that the indications wore that  
 the Nebraska bill would be made the test by his party
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661617:1854092301:0282/pct:65.08048573849194,26.076396555531023,15.758260378424174,13.060278207109738/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661617:1854092301:0282/pct:65.08048573849194,26.0837565319791,15.7676739150899,13.060278207109738/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -583,7 +583,7 @@ live under its protection should demean them­
 selves as good citizens in giving it on all oc­  
 casions their effectual support.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215920:1854092301:0216/pct:47.018240241943104,65.91517542623644,12.191664303941026,7.777934338452868/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215920:1854092301:0216/pct:47.01379701379702,65.91053187742163,12.193662193662194,7.779734648350358/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -605,7 +605,7 @@ seis a like liberty of conscience and immunitles of
 emnmeal af the Unite saies, whlel gitn to bg  
 otry no sanction, to perscention na arsisdance t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_latvia_ver01:data:sn86092535:00202190510:1854092501:0235/pct:3.1587057010785826,13.481057898498928,110.53543913713405,382.60185847033597/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_latvia_ver01:data:sn86092535:00202190510:1854092501:0235/pct:0.7896764252696457,3.370264474624732,27.633859784283512,95.65046461758399/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -636,7 +636,7 @@ as gpod citizens in giving it on occasions their
 effectual support.  
 The above extract is taken from the repl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn86071378:0021247762A:1854092801:0416/pct:29.546904913848117,43.09034267912772,19.192724952137844,12.809968847352025/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn86071378:0021247762A:1854092801:0416/pct:22.167251835301627,32.32398753894081,14.411107564634536,9.607476635514018/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -667,7 +667,7 @@ jivinjj it on all occasions their effectaal sspiotL
 This, my countrymen, is the language of  
 Washington) these are the sentiments of tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn84020104:0041566154A:1854100101:0329/pct:17.87761631782429,83.56352134949921,14.024796693774164,9.214549288350026/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn84020104:0041566154A:1854100101:0329/pct:17.886504021685997,83.5705499912142,14.02035284184331,9.211034967492532/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -694,7 +694,7 @@ on- only that they who live under ijs protection should demean
 nit- themselves as good citizens in giving it on all occasions their  
 cent effectual support.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:0041566123A:1854100301:0327/pct:35.032362459546924,77.44702320887991,16.90938511326861,5.108476286579213/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:0041566123A:1854100301:0327/pct:35.04314994606257,77.44702320887991,16.898597626752967,5.116885301042718/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -726,7 +726,7 @@ demean themselves as good citizens in
 giving it on all occasions their effectual  
 support.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn84028880:00296027558:1854100301:0323/pct:281.1377245508982,166.10951008645534,49.17664670658683,40.403458213256485/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn84028880:00296027558:1854100301:0323/pct:70.28443113772455,41.527377521613836,12.294161676646707,10.100864553314121/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -758,7 +758,7 @@ mean themselves as good citizens in giv
 ing it on all occasions their effectual sup  
 port.V.3 &#x27;&#x27;-.. ( . ., -; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027509:1854100401:0481/pct:41.85493460166469,84.33268858800774,16.230677764565993,13.056092843326885/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027509:1854100401:0481/pct:31.39586740002973,63.2495164410058,12.174817898022892,9.792069632495165/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -786,7 +786,7 @@ who live under its protection should demean them­
 selves as good citizens, in giving it on all occasions  
 their effectual support&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022639:1854101101:0375/pct:48.606271777003485,93.40034965034965,20.238095238095237,9.243881118881118/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022639:1854101101:0375/pct:36.470588235294116,70.05026223776224,15.192447349310095,6.938374125874126/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -861,7 +861,7 @@ ing given to mankind exqmpjoa or an enlarged
 and liberal policy?a policy ,worthy of infifa  
 tibn. All possess a like liberty of conscienc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn84027851:00295862282:1854101701:0096/pct:18.92276101721687,93.46448816272091,15.969041225714736,3.4122485272868732/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn84027851:00295862282:1854101701:0096/pct:18.933291212551993,93.47189804008744,15.963776128047176,3.415953465970138/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -933,7 +933,7 @@ who live uader its protection shall demean them­
 selves as good citizens in giving it on all occasions  
 their effectual support.&quot;-- Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293198:1855010501:0017/pct:25.628448804414468,72.70135424091234,49.35622317596567,30.506058446186742/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293198:1855010501:0017/pct:6.410059806778102,18.175338560228084,12.344732403005674,7.6265146115466855/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -974,7 +974,7 @@ only that they who live under its protection, should
 demean themselves as good citizens, in giving it  
 on all occasions their effectual support.&quot; Wash
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293198:1855021301:0149/pct:127.14819427148194,299.3978037548707,49.56413449564135,31.12528043452592/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293198:1855021301:0149/pct:31.796947991279975,74.84945093871768,12.394892556835877,7.78132010863148/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -997,7 +997,7 @@ live under its protection, should demean themsclcc
 as good citizens in giving it on all occasions their  
 effectual support.&quot; Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022639:1855021401:0451/pct:46.22993119266055,77.28115120462226,20.728211009174313,5.952251171917585/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022639:1855021401:0451/pct:34.68597648408374,57.963588793197424,15.557786062517923,4.4696391583996515/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1028,7 +1028,7 @@ live under its protection, should demean themselves
 as good citizens in giving it on all occasions their  
 effectual support.&quot; Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022743:1855021401:0055/pct:45.936931473620376,70.74065020777316,19.754396604002427,11.464189684673673/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022743:1855021401:0055/pct:34.475959350826635,53.05548765582987,14.818747156074625,8.604253238816915/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1172,7 +1172,7 @@ should demean themselves as good citizens in
 giving H on all occasions their effectual sup­  
 port &quot;-fWasWogton 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn86071378:0021247762A:1855030101:0497/pct:65.72709801409353,28.52852852852853,19.202434336963485,11.911911911911911/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn86071378:0021247762A:1855030101:0497/pct:49.303219605958674,21.396396396396398,14.416146083613647,8.933933933933934/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1190,7 +1190,7 @@ they who live under its protection
 should demean themselves as good cit.  
 igans in gining it on all cocacio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774947:1855030901:0046/pct:88.18327974276528,158.46965699208442,55.62700964630225,8.284960422163588/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774947:1855030901:0046/pct:22.054684358665057,39.617414248021106,13.912344189786891,2.071240105540897/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1219,7 +1219,7 @@ heient natural rights; for, happily the
 government of the United States, which  
 t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774947:1855030901:0046/pct:88.9871382636656,125.17150395778364,55.22508038585209,32.0844327176781/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774947:1855030901:0046/pct:22.255729794933654,31.29287598944591,13.811821471652593,8.021108179419524/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1259,7 +1259,7 @@ mean theipstlvra as good citizens in giv
   
 ing it pn aU occasions ineir eucctiml sup
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027509:1855032101:0586/pct:27.202838557066823,97.08348093045224,16.395623891188645,12.091155980635259/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027509:1855032101:0586/pct:20.408163265306122,72.81851458259534,12.304052055604851,9.068366985476443/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1323,7 +1323,7 @@ ivo tinder Its prolecliuti, should deem themselves
 i3 good citizens in giving it no all occasions  
 their effectual support-”—[Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024652:00393348689:1855033101:0236/pct:83.32145402708481,29.819601507808294,12.918745545260157,7.040926225094238/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024652:00393348689:1855033101:0236/pct:83.30660965615536,29.815587562256024,12.92089791555318,7.043343653250774/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1457,7 +1457,7 @@ and proscriptive dogmas? He
 repudiated their dogmas while he lived,  
 and lest the influence of his great nam
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774947:1855042701:0081/pct:199.34959349593495,137.13986380303825,55.609756097560975,69.14614981665794/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774947:1855042701:0081/pct:49.857665717771454,34.28496595075956,13.908092720618138,17.286537454164485/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1541,7 +1541,7 @@ all, in our several vocations, useful hare, and,
 in his own duo time ami way, everlastingly  
 happy. (L S.) Geokoe Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn82014998:00279557979:1860031701:0260/pct:47.847773877701826,51.38682181030983,14.816183262516164,29.76593153835746/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn82014998:00279557979:1860031701:0260/pct:47.852392388693886,51.39358679475037,14.83465730648439,29.772696522797997/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1592,7 +1592,7 @@ iv. six of whom were arrested, and were un- citizens in giving it on all occasio
 
 ---
 
-## [From _The Continental monthly_](https://archive.org/details/sim_continental-monthly_1864-12_6_6/page/n115/mode/1up?view=theater)
+## [From _The Continental Monthly; Devoted to Literature and National Policy (1862-1864)_](https://archive.org/details/sim_continental-monthly_1864-12_6_6/page/n115/mode/1up?view=theater)
 
 #### 1864-12-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -1697,7 +1697,7 @@ useful here, and, in his own due time
 and way, everlastingly happy!  
 GEORGE WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867032401:0274/pct:107.88177339901478,221.42066828944456,38.73152709359606,71.43173268422217/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867032401:0274/pct:26.982904666563993,55.35516707236114,9.687355613737871,17.857933171055542/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1880,7 +1880,7 @@ him afraid.&quot;
 It was in the year 1817 when the first He­  
 brews settled in Cincinnati. When it becam
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_elm_ver01:data:sn82015483:00271764273:1887040701:0342/pct:20.704225352112676,99.265750828991,13.070422535211268,7.709616295594505/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_elm_ver01:data:sn82015483:00271764273:1887040701:0342/pct:15.537399633751233,74.45523448602557,9.804197774334414,5.779251539554713/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1944,7 +1944,7 @@ in His own due time and way, everlastingly
 happy.  
 G. Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_eclipse_ver01:data:sn94051168:0028076260A:1893111001:0095/pct:40.06858348720654,38.62554336576278,24.901081508836718,55.78555164562202/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_eclipse_ver01:data:sn94051168:0028076260A:1893111001:0095/pct:40.08616899674668,38.62554336576278,24.883495999296578,55.81315117643/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2012,7 +2012,7 @@ useful here, and in His own due time
 and way everlastingly happy.  
 GEORGE WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_heart_ver01:data:sn85038614:00175031145:1894123001:0710/pct:14.932715960063666,154.41551812149055,35.43626103313558,63.348647269014805/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_heart_ver01:data:sn85038614:00175031145:1894123001:0710/pct:4.977571986687889,51.471839373830186,11.812087011045193,21.116215756338267/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2132,7 +2132,7 @@ light and not darkness in our path, and make us
 all, in our several vocations, useful here and, in  
 his own due time and way, everlastingly happ
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175042830:1895121601:0607/pct:69.23076923076923,147.2854109796785,51.885369532428356,70.06369426751593/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175042830:1895121601:0607/pct:17.31748726655348,36.82135274491962,12.978683267308055,17.515923566878982/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2200,7 +2200,7 @@ here, and, in His own due time and way,
 everlastingly happy.  
 &quot;G. WASHINGTON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_u2_ver01:data:sn85038614:00175031194:1895122001:0693/pct:88.7750122010737,12.683201803833146,79.11176183504148,279.68432919954904/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_u2_ver01:data:sn85038614:00175031194:1895122001:0693/pct:29.59167073369123,4.227733934611049,26.370587278347163,93.22810973318302/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2268,7 +2268,7 @@ useful here, and, in his own due time
 and way, everlastingly happy.  
 “G. WASHINGTON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_isleboro_ver01:data:sn83016025:00414210612:1895122101:0224/pct:15.04471330878485,56.8171454628363,11.292302297036647,29.822161422708618/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_isleboro_ver01:data:sn83016025:00414210612:1895122101:0224/pct:15.042075736325385,56.808510638297875,11.294705469845722,29.821428571428573/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2409,7 +2409,7 @@ nd not darkness In our path , and make us
 i His own due time and way everlastingly  
 appy. G. WASHINGTON. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_emerson_ver01:data:sn99021999:00206539501:1896012701:0737/pct:40.24347212420607,68.50533807829181,16.28440366972477,27.251574048727072/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_emerson_ver01:data:sn99021999:00206539501:1896012701:0737/pct:30.203000882612532,51.38242540377772,12.215357458075905,20.445524226663018/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2465,7 +2465,7 @@ us all, in our several vocations, useful here,
 and in His own due time and way, ever-  
 lastingly happy.--George Washington, 17
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_grace_ver02:data:sn83045604:00202199367:1896022401:0721/pct:165.66423357664235,210.443864229765,38.77372262773723,35.86422976501306/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_grace_ver02:data:sn83045604:00202199367:1896022401:0721/pct:55.22141119221411,70.147954743255,12.924574209245742,11.954743255004352/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2508,7 +2508,7 @@ and make us all, in our several vocations,
 useful here, and in His own due time and  
 way, everlastingly happy.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juniper_ver01:data:sn88085189:0021110790A:1896042301:0396/pct:6.909403669724771,38.233792751403776,12.456995412844037,11.281265952016335/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juniper_ver01:data:sn88085189:0021110790A:1896042301:0396/pct:6.909403669724771,38.233792751403776,12.46177370030581,11.28466904883444/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2534,7 +2534,7 @@ United States &quot;gives to bigotry no sanc­
 tion, to persecution no assistance.&quot;  
 Even the national organization of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juniper_ver01:data:sn88085189:0021110790A:1896052101:0412/pct:6.421491165062491,70.1412171086051,12.46947277689987,6.7357512953367875/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juniper_ver01:data:sn88085189:0021110790A:1896052101:0412/pct:6.426279749078198,70.1412171086051,12.464684192884164,6.7357512953367875/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2553,7 +2553,7 @@ good will of the other inhabitants, while every one
 hall sit in safety under his own vine and fig tree and  
 there shall be none to make him afraid.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042945:1897061701:0214/pct:77.40492170022371,62.447001817080555,49.515287099179716,8.600847970926711/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042945:1897061701:0214/pct:19.358448340171577,15.611750454270139,12.383439015292801,2.150211992731678/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2585,7 +2585,7 @@ him afraid.&quot;
 When the War of 1812 began the Jewish pop-­  
 ulation of the United States was estimated a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_universal_ver01:data:sn83030214:00175036908:1898091801:0341/pct:76.61879566641471,82.7143299288146,74.85512723607961,18.012999071494892/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_universal_ver01:data:sn83030214:00175036908:1898091801:0341/pct:25.53959855547157,27.57144330960487,24.951709078693206,6.004333023831631/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2648,7 +2648,7 @@ afraid.”
 When the war of 1812 began the Jewish  
 population of Ihe United States was esti
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_fletcher_ver01:data:sn86063034:00414182252:1898092501:0258/pct:71.2481426448737,44.79651162790697,12.834323922734027,4.026162790697675/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_fletcher_ver01:data:sn86063034:00414182252:1898092501:0258/pct:71.25433382862803,44.79651162790697,12.840515106488361,4.0310077519379846/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2699,7 +2699,7 @@ afraid.
 When the war of 1812 began the Jewish  
 population of the United States was es
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_jackman_ver02:data:sn82014248:00514156001:1899021001:0321/pct:82.04246713852376,65.41205038700865,12.94236602628918,3.384428593109728/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_jackman_ver02:data:sn82014248:00514156001:1899021001:0321/pct:82.02587949858471,65.402124430956,12.944803881924788,3.3877086494688924/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

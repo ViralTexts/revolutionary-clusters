@@ -59,7 +59,7 @@ Emp nd by the Prince of Be­
 jto, who, though six days have  
 elapsed, h :; not yet received a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809031001:0002/pct:58.47407113053845,36.65969134187811,16.948142261076892,19.23881768244834/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809031001:0002/pct:58.48069408570104,36.65969134187811,16.96138817140208,19.23881768244834/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -139,7 +139,7 @@ Baltimore, March 8.
 THE CABINET.  
 Robert Smith, (Md ) Secretary of State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809031301:0382/pct:3.762770994268627,48.13744380218369,20.807376027909296,13.342967244701349/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809031301:0382/pct:3.761833582461385,48.12971584524001,20.80842052815147,13.344838657890513/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -180,7 +180,7 @@ the prince of Bcnevemo who, (bough six
 thy* have now elapsed, has no; ye I receiv.  
 «u an answer.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809031401:0089/pct:5.097817908201655,55.584314740520256,17.720090293453726,17.057072602562442/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809031401:0089/pct:5.09685913108896,55.57712215320911,17.72302676948154,17.059178743961354/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

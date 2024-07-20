@@ -152,7 +152,7 @@ tation which carries him into it.
 We owe gratitude to France, justice to England, good  
 will to all, subservience to none.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_lorca_ver01:data:sn83030272:00206533109:1888102101:0609/pct:283.26937835763624,64.30750457596095,50.65234075211051,8.785845027455766/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_lorca_ver01:data:sn83030272:00206533109:1888102101:0609/pct:70.84452975047985,16.076876143990237,12.667946257197697,2.1964612568639414/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -172,7 +172,7 @@ We owe gratitude to France, jus­
 tice to England, good will to all,  
 subservience to none.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_neely_ver01:data:sn85059778:00340582135:1888102601:0356/pct:71.19718309859155,24.035847346692176,12.014084507042254,4.1184170778370754/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_neely_ver01:data:sn85059778:00340582135:1888102601:0356/pct:71.18715673848753,24.033427305678615,12.01708679528705,4.121358571620352/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -230,7 +230,7 @@ We owe gratitude to France, justice to
 England, good will to all, subservience  
 to none
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_galena_ver02:data:sn88065721:00279521675:1890060901:0102/pct:4.160272804774084,16.355941896374244,15.038363171355499,2.8022417934347477/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_galena_ver02:data:sn88065721:00279521675:1890060901:0102/pct:4.160272804774084,16.355941896374244,15.038363171355499,2.809866941171985/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -272,7 +272,7 @@ We owe gratitude to France, justice to
 England, good will to all, subservience to  
 uoue,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn93063557:00280777870:1890070401:0211/pct:334.87544483985766,274.00030641948825,59.07473309608541,40.631224145855676/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn93063557:00280777870:1890070401:0211/pct:83.77476073892721,68.50007660487206,14.778544402403739,10.157806036463919/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -349,7 +349,7 @@ We owe gratitude to France, justice to
 England, good will to all, subservience to  
 none, ¢ b ! 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_deathkiss_ver01:data:sn92064071:00514153759:1895070301:0747/pct:66.37119113573407,92.61888553923953,14.349030470914128,2.0519303705144414/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_deathkiss_ver01:data:sn92064071:00514153759:1895070301:0747/pct:66.37119113573407,92.62212713540147,14.35364727608495,2.0551719666763915/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -367,7 +367,7 @@ We owe gratitude to France, justice to
 England, good will to till, subservience to  
 none
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:00332895308:1895070401:0739/pct:81.35841680918642,92.98274995813097,14.683606156853164,1.925975548484341/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:00332895308:1895070401:0739/pct:81.33854421104054,92.96718017414601,14.686126038104543,1.9298392498325518/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -458,7 +458,7 @@ monarchy to rc publicanism, and it is
 by the same agency alone we can be  
 kept from falling back
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_johns_ver01:data:sn92073049:00295879324:1895091701:0307/pct:50.608695652173914,10.624169986719787,41.710144927536234,117.58095821840841/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_johns_ver01:data:sn92073049:00295879324:1895091701:0307/pct:37.96202348166401,7.968127490039841,31.294390491375562,88.1908264378384/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -551,7 +551,7 @@ England; good will to all; subservience to
 none,  
 I fear nothing from force, but I have
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_atherton_ver01:data:sn84026355:00211100229:1897060901:0648/pct:72.7866473149492,20.08174386920981,15.983309143686503,3.5831062670299727/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_atherton_ver01:data:sn84026355:00211100229:1897060901:0648/pct:54.599891126837235,15.068119891008175,11.99419343131918,2.683923705722071/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -572,7 +572,7 @@ France; justice to England;
 , good will to all; subservience  
 to none
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_deepspace_ver01:data:sn87091045:00513688167:1898041501:0725/pct:15.426078028747433,33.7652321456116,15.862422997946611,6.154558074965294/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_deepspace_ver01:data:sn87091045:00513688167:1898041501:0725/pct:15.44318959616701,33.7652321456116,15.845311430527037,6.169983032546661/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -613,7 +613,7 @@ We owe gratitude to France, justice
 to England, good will to all, service  
 to none.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_caesar_ver01:data:sn82002441:00517011800:1899071501:0204/pct:62.21562809099901,72.08133424720128,13.534454335641279,1.6449623029472242/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_caesar_ver01:data:sn82002441:00517011800:1899071501:0204/pct:62.226618309704364,72.08514203030995,13.528959226288602,1.6525778691645723/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -630,7 +630,7 @@ We owe gratitude to France, justice
 to England, good will to all, service  
 to none
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_marmaduke_ver02:data:sn89066695:00415661794:1899072001:0022/pct:53.79120879120879,17.208101128177248,13.516483516483516,2.405871958678809/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_marmaduke_ver02:data:sn89066695:00415661794:1899072001:0022/pct:40.3701667582921,12.91287209460378,10.152098222466556,1.8078020932445291/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

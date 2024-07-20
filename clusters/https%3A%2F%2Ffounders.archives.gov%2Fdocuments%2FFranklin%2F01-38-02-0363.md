@@ -297,7 +297,7 @@ ter, Peon, on descending a well, after a fire
 had been made in it.  
 On bosrd the ship Meteor on her last pa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jumboshrimp_ver01:data:sn84025997:00414183621:1822082401:0114/pct:43.91450273803215,61.043674133400074,15.597950892068539,13.665373545238394/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jumboshrimp_ver01:data:sn84025997:00414183621:1822082401:0114/pct:43.906746732603324,61.03603603603604,15.601083245025315,13.667834501167835/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -333,7 +333,7 @@ with them; unjust to subscribers in distant
 places, to stuff their papers with matters sq  
 unprofitable and disagreeable.—Franklin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83020243:00517172194:1829120801:0280/pct:8.455799231290978,83.58561310929038,21.523852588740674,10.38744618802944/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83020243:00517172194:1829120801:0280/pct:6.565037088955084,64.77847533632287,16.669587056830792,8.050224215246637/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -411,7 +411,7 @@ refer their dispute to him. *1 know nothing el
 youorvouraflslxa,&#x27;*al4 he, ‘I only perceive that  
 , you know one another.&#x27; *
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1877071401:0004/pct:86.65254237288136,91.31216297183943,13.241525423728813,5.352506490912722/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1877071401:0004/pct:86.67240466101696,91.31216297183943,13.23490466101695,5.352506490912722/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -445,7 +445,7 @@ tis absurd to trouble all the world with them and unjust
 to subseribers in distant places to stuff their paper with  
 matters so unprofitable and so dieagreeabl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ford_ver01:data:sn83030214:00175038036:1884110201:0307/pct:149.99204708127883,187.5,45.72928264673135,29.59927140255009/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ford_ver01:data:sn83030214:00175038036:1884110201:0307/pct:49.997349027092945,62.5,15.243094215577116,9.866423800850031/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -480,7 +480,7 @@ the world with them, and unjust to subscribers
 in distant places to stuff their paper with mat­  
 ters so .unprofitable and disagreeable.” Ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hughes_ver01:data:sn85026214:print00205958277:1884111601:0004/pct:31.712167781594648,65.1392632524708,11.950822636051347,4.9159286356051854/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hughes_ver01:data:sn85026214:print00205958277:1884111601:0004/pct:31.712167781594648,65.14247208317289,11.959862592659555,4.925555127711462/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

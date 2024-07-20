@@ -2394,7 +2394,7 @@ Man, is not yet folly felt,
 A Wit’s a&#x27;Feather, and a Chief a Rod, .  
 An honest Man’s the noble Wotk of God,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1773101501:0149/pct:4.216609589041096,15.754205873966352,27.589897260273972,8.939264328485885/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1773101501:0149/pct:4.216609589041096,15.763710673890314,27.597031963470318,8.934511928523905/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3501,9 +3501,9 @@ In ruin seen.—Thompson,
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1839-02_5_14/page/n46/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1839-02_5_14/page/n46/mode/1up?view=theater)
 
-#### 1839-02-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1839-02-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3642,7 +3642,7 @@ When sits the soul intense, collected, cool,
 Bright as the skies, and as the season keen.&quot;  
 l l PAHTMEIISI
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn85038180:00296026712:1855020101:0429/pct:7.744874715261959,90.0865566675683,14.274867122247532,2.569651068433865/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn85038180:00296026712:1855020101:0429/pct:5.810862134447398,67.56829862050311,10.729206228636537,1.9340005409791723/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4024,7 +4024,7 @@ Or on the Rubicon, or on the Rhine.
 A wit&#x27;s a feather, and a chief a rod, *  
 An honest man&#x27;s the noblest work of Ood. 1
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:0041562380A:1879021501:0036/pct:26.809178270249067,18.500515539843864,11.06099235144146,1.0458093975548681/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:0041562380A:1879021501:0036/pct:26.809178270249067,18.510335346393678,11.087141269529972,1.0458093975548681/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4090,7 +4090,7 @@ iTe erwes the siver in a fersny, as many of
 the visitors do, is delightful, the waters be­  
 ing smooth and placid. After crossing, th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_grange_ver01:data:sn84026409:00280776488:1881091401:0607/pct:129.49595519601743,305.10915002322344,41.50591163658992,18.996748722712493/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_grange_ver01:data:sn84026409:00280776488:1881091401:0607/pct:32.379025984129456,76.27728750580586,10.37809242259219,4.749187180678123/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4330,7 +4330,7 @@ are honest men in all parties, wise men
 in none, unless those be called wise for  
 whose profit the rest are mad.&quot; In th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eagle_ver01:data:sn83025733:0020029659A:1887122701:0888/pct:162.40760295670538,225.06142506142507,68.00422386483632,33.284193284193286/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eagle_ver01:data:sn83025733:0020029659A:1887122701:0888/pct:40.601900739176344,56.26535626535627,17.00105596620908,8.321048321048321/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4349,7 +4349,7 @@ that the social tendencies of life are developed.
 Of winter only to the thoughtless eye  
 Is ruin seen.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_hazen_ver01:data:sn85042405:00212478726:1889062001:1074/pct:7.227813357731016,41.04837658104055,14.876486733760293,2.0080844960229496/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_hazen_ver01:data:sn85042405:00212478726:1889062001:1074/pct:6.3243849068687625,35.91693922567886,13.0223621711053,1.7570548414086864/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4488,7 +4488,7 @@ rity.
 He is not well bred that cannot bear ill-breed­  
 ing in others.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685142:1891080601:0591/pct:50.20937188434696,39.757559248161265,21.016949152542374,1.7842549713974394/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685142:1891080601:0591/pct:50.1993620414673,39.75214489990467,21.01940457203615,1.7885514549003587/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4534,7 +4534,7 @@ blows out of the south, their dismal
 roaring may be heard more than Fif­  
 teen Leagues off.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_johns_ver01:data:sn92073049:00295879294:1892082301:0275/pct:42.02188940092166,71.21322382784074,19.81566820276498,7.953009668364695/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_johns_ver01:data:sn92073049:00295879294:1892082301:0275/pct:31.537242472266243,53.41511591641543,14.868174614608845,5.96735627404096/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4669,7 +4669,7 @@ and published it. We are sure of all this hut
 ate, 2y no means sure that Hennepin was the  
 nast white man to see the falls. Perhaps Bru
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:00175045156:1894093001:0607/pct:280.09118541033433,325.29608259945337,51.29179331306991,25.873064075311266/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:00175045156:1894093001:0607/pct:70.03610108303249,81.32402064986334,12.825384761542846,6.4682660188278165/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4688,7 +4688,7 @@ thunder: for when the wind blows out of
 the south their dismal roaring may be  
 heard more than flftec.i leagues (forty-fiv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665507:1894101401:0430/pct:24.978289188015633,6.255283178360101,16.09856708640903,2.400676246830093/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665507:1894101401:0430/pct:18.740499457111834,4.691462383770076,12.073832790445168,1.8005071851225698/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4721,7 +4721,7 @@ All nature feels the renovating force
 of winter, Only to the thoughtless eye  
 Is ruin seen. The frost-contracted glob
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_hawk_ver02:data:sn83025308:00294550537:1894121101:0663/pct:146.19883040935673,284.95206335973324,56.14035087719298,48.020008336807/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_hawk_ver02:data:sn83025308:00294550537:1894121101:0663/pct:36.54970760233918,71.23801583993331,14.035087719298245,12.00500208420175/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4744,7 +4744,7 @@ Chief a rod ;
 An honest man&#x27;s the noblest  
 Work of God.’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_asburypark_ver01:data:sn84026089:00514155902:1895030601:0660/pct:38.57850674867589,77.24028548770816,10.609943618657098,4.044409199048374/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_asburypark_ver01:data:sn84026089:00514155902:1895030601:0660/pct:38.57191663819611,77.23007797013348,10.612401776563035,4.047178538390379/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4821,7 +4821,7 @@ A wit&#x27;s a feather and a chief a rod,
 An honest man&#x27;s the noblest work of  
 God. Pope
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_johns_ver01:data:sn92073049:00295879348:1897111601:0379/pct:105.87219343696027,46.78766628854285,19.86183074265976,3.5681138496442197/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_johns_ver01:data:sn92073049:00295879348:1897111601:0379/pct:79.43844492440604,35.09332783335052,14.902807775377969,2.681241621119934/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4884,7 +4884,7 @@ jewels, the spirit of the man who yoked
 together as brother wretches the tyrant  
 and the demagogue shines best in tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_demeter_ver01:data:sn93058748:00517171803:1898012601:0250/pct:40.78868751244772,7.179638075621598,15.992830113523203,12.902751213770781/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_demeter_ver01:data:sn93058748:00517171803:1898012601:0250/pct:31.62173286684503,5.568013378434875,12.399670714138711,9.99961993082741/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

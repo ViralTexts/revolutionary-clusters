@@ -102,7 +102,7 @@ BeneEractor He salotes the General with
 assorances of his constant and affectionate at­  
 tachment and high respect.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1827090401:0352/pct:6.926667670531547,13.465179886387546,16.24755307935552,8.804965285083105/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1827090401:0352/pct:6.926667670531547,13.468686443649625,16.267630376951264,8.811978399607266/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -152,7 +152,7 @@ Beneracror. He salutes the General with |
 assurances of his constant and affectionate at­  
 tachment and high respect.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1828012201:0427/pct:62.86017591750076,59.459733929115465,16.363360630876553,8.693002945059408/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1828012201:0427/pct:62.86017591750076,59.459733929115465,16.383581033262562,8.699773196574252/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -178,7 +178,7 @@ that the gratitwlyf his country for former .
 cluevements, willffe fortified by those new proofs 1  
 ofthcafutary energies of their great benefactor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184017:1828012201:0339/pct:81.04235553456148,29.16364515349287,15.918752952290978,6.175972927241963/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184017:1828012201:0339/pct:81.02959697732997,29.16012084592145,15.921494542401343,6.1792547834843905/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -255,7 +255,7 @@ He salutes the General with assurances of his
 CONSTANT and AFFECTIONATE ATTACHMENT  
 and HIGH RESPECT.” G 21
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1828090201:0551/pct:27.15938110259877,19.666048237476808,16.19348054679285,7.967429396000824/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1828090201:0551/pct:27.15938110259877,19.672919672919672,16.20349506784838,7.970865113722256/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -293,7 +293,7 @@ salutary energies of their gnat benefactor. He
 salutes the General with assurances ot his constant  
 and affectionate attachment, and high respect.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1828100701:0182/pct:18.83799967632303,20.072158749248345,15.601229972487458,6.794948887552616/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1828100701:0182/pct:18.83495145631068,20.06974506974507,15.604099244875943,6.798140131473465/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

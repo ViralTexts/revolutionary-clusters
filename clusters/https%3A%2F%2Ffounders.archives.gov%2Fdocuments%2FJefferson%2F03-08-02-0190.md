@@ -128,7 +128,7 @@ penu Franein in the dress in which we always see
 him. There were other pictures and a copy of  
 Raphael&#x27;s &quot;Transfiguration.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271743920:1876021601:0493/pct:8.691308691308691,4.967727063162748,97.71894771894772,285.9036422314431/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271743920:1876021601:0493/pct:2.897102897102897,1.6559090210542493,32.572982572982575,95.30121407714769/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -166,7 +166,7 @@ out to me with a satisfaction somewhat inconsistent
 with the measured gravity he claims in relation to such  
 subjects generally
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271743920:1876021601:0493/pct:56.39360639360639,13.231904103273397,51.23210123210123,27.823881973259567/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271743920:1876021601:0493/pct:18.797868797868798,4.410634701091133,17.07736707736708,9.274627324419855/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -209,7 +209,7 @@ shoes, corduroy small clothes and red plush waistcoat,
 which have been laughed at till he might perhaps  
 wisely have dismissed them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271743920:1876021601:0493/pct:55.96070596070596,42.03550023052098,52.83050283050283,32.00783771323191/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271743920:1876021601:0493/pct:18.653568653568655,14.01183341017366,17.61016761016761,10.669279237743968/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

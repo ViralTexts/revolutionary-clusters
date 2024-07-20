@@ -320,7 +320,7 @@ till Author of nature bless this city with an a
 bunduncn of corn, wine and oil, and with a!  
 the necessaries, conveniences and comfort
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:0041418389A:1815071501:0084/pct:26.837847344354554,27.25106596438425,16.69011607456912,11.713067469275144/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:0041418389A:1815071501:0084/pct:26.833128187093372,27.247648902821318,16.6930426118047,11.715778474399164/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -626,7 +626,7 @@ decay ; and grant to us all| in needed supply,
 the Corn of nourishment, the WINE of re-  
 Sreshment and the OIL of joy.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1827052201:0290/pct:61.46296580279098,16.64463650228775,16.76123293973317,6.568378240976106/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1827052201:0290/pct:61.46296580279098,16.65141501440434,16.78167970147728,6.564988984917811/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -743,7 +743,7 @@ nourishment, the Wint of refreshment, and the
 Oil of joy.” The Grand Honors of Masonry  
 were then given, and the Grand Master said:
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216420:1830040801:0640/pct:24.78253151074028,39.54103087828908,18.622403692526184,14.513997356722335/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216420:1830040801:0640/pct:24.778132765353213,39.53628063431043,18.625014791148978,14.516258209194298/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -855,7 +855,7 @@ So be it--was responded by all the brethren.
 He then struck the Stone three times, and the hon­  
 ors of the Order were given; after which the Gran
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_diglett_ver01:data:sn82015378:00295872366:1850043001:0419/pct:47.8448275862069,226.33769322235435,38.30049261083744,16.49821640903686/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_diglett_ver01:data:sn82015378:00295872366:1850043001:0419/pct:15.948275862068966,75.44589774078479,12.766830870279145,5.499405469678954/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -895,7 +895,7 @@ brodt; from the Standing Committees, Rey. Dr. Haight;
 the consent of the Bishops, Rev. Dr. Van Kleeck.  
 The promise of con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743208:1854112301:1206/pct:97.27511490479317,189.0176036342987,53.56204858831254,34.7870528109029/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743208:1854112301:1206/pct:32.42503830159772,63.005867878099565,17.85401619610418,11.595684270300966/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -923,7 +923,7 @@ The stone received threee strokes of the mal
 let, and the public Masonic Grand honors were  
 then given
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn86092535:00202190601:1857070801:0028/pct:64.67583497053045,273.50585335797905,55.44204322200393,27.433764633394947/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn86092535:00202190601:1857070801:0028/pct:16.16895874263261,68.37646333949476,13.860510805500983,6.858441158348737/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -974,7 +974,7 @@ He then strikes the stone thrice with the mallet, and the
 pubile honors of masonry are given.  
 THE OFFICIAL PROGRAMME
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743270:1857112501:0695/pct:192.9575189791633,77.61818593078489,45.969956388305604,32.66229359873332/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743270:1857112501:0695/pct:64.31917299305444,25.872728643594964,15.323318796101868,10.887431199577772/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1012,7 +1012,7 @@ refreshment, and the Oil of joy.&quot;
 To which the order responded: &quot;So mote it be.&quot;  
 This was followed by the laying on of hands
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202191034:1858071701:0056/pct:100.26393417171246,105.05399568034558,37.338922527557834,13.974082073434126/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202191034:1858071701:0056/pct:33.42131139057082,35.01799856011519,12.446307509185944,4.658027357811375/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1210,7 +1210,7 @@ serve this structure from decay, and grant to us al a sup-
 ply of the corn of nourishment, the wine of refreshment  
 and the oll of joy.&quot; And I will add, in my own langnage
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743397:1861122701:0794/pct:253.04347826086956,235.7635694572217,43.67892976588629,11.419043238270469/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743397:1861122701:0794/pct:84.34782608695652,78.58785648574057,14.559643255295429,3.8063477460901565/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1277,7 +1277,7 @@ AU.—So mote it be.
 J The Grand Honors were then properly given,  
 : and the Grand Master, returning the workin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_frost_ver02:data:sn85026213:print00211110090:1862052501:0005/pct:43.16378066378066,85.56798275165072,12.734487734487734,7.101468804743296/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_frost_ver02:data:sn85026213:print00211110090:1862052501:0005/pct:43.16378066378066,85.57808920630643,12.76154401154401,7.098099986524727/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1310,7 +1310,7 @@ Hie stone was then thrice strack with the mallet,
 and the public grand hcnora were riven in ample  
 form. Ihe Grand Master having delivered ove
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_edgewater_ver02:data:sn84031490:no_reel:1863090201:0004/pct:22.916263778766197,38.510576644450886,10.24946818797138,6.331498116487975/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_edgewater_ver02:data:sn84031490:no_reel:1863090201:0004/pct:22.930767743183136,38.521443059982616,10.234964223554439,6.331498116487975/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1424,7 +1424,7 @@ oration is delivered upon this occasion; sometimes
 a collection made for the benefit of the workmen  
 and laborers, and a song in honor of masonr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_riel_ver01:data:sn82015753:00212475105:1866053101:0261/pct:97.71392617449665,103.0774111675127,38.56963087248322,54.7747461928934/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_riel_ver01:data:sn82015753:00212475105:1866053101:0261/pct:32.571308724832214,34.359137055837564,12.856543624161073,18.258248730964468/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1565,7 +1565,7 @@ Chaplain. Numbers of the spectators came
 forward to deposit artides, coins, &amp;c , In the  
 ston
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alf_ver01:data:sn83045462:00280654292:1867091801:0562/pct:42.58872651356994,18.145285935085006,13.26374391092554,14.497681607418857/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alf_ver01:data:sn83045462:00280654292:1867091801:0562/pct:42.59568545581072,18.150437918598662,13.267223382045929,14.500257599175683/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1599,7 +1599,7 @@ ment, and the Oll of Joy. So mote it be
 Amen.  
 The Grand Master then delivers over the vari
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053571:00237288579:1867091801:0284/pct:62.43705941591138,249.52308279282715,51.3595166163142,34.94849294162533/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053571:00237288579:1867091801:0284/pct:15.621063240110859,62.38077069820679,12.849584278155707,8.737123235406333/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1660,7 +1660,7 @@ with the gavel, and the public Grand
 Honors are giv#n. After &quot;*hieh the Mas­  
 ter dehveis over to the Architect the va
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_antares_ver02:data:sn84026824:00271767778:1868071801:0328/pct:25.64211721299844,9.779655900996076,17.496807151979567,10.866284334440085/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_antares_ver02:data:sn84026824:00271767778:1868071801:0328/pct:25.646847358213897,9.783009692457323,17.496807151979567,10.866284334440085/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1711,7 +1711,7 @@ of joy. Amen.
 Response. bo mote it be.  
 The Grand Master then delivered to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn87070095:00296022688:1870060801:0260/pct:97.33827493261455,83.61293459761731,13.662398921832883,14.174568441526866/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn87070095:00296022688:1870060801:0260/pct:73.02443133951137,62.71577923656698,10.244313395113732,10.62484804279115/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1765,7 +1765,7 @@ your hands, intrusting you with the su
 rintendence and direction of the work  
 having full confidence in your skill an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_dillinger_ver02:data:sn84038005:0020029581A:1870090101:0221/pct:62.63392857142857,299.9739062364095,45.223214285714285,83.63921022875533/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_dillinger_ver02:data:sn84038005:0020029581A:1870090101:0221/pct:15.66372669420565,74.99347655910238,11.30959026459752,20.909802557188833/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1792,7 +1792,7 @@ with his gavel, upon the stone, after which
 the Grand Honors were given.  
 The Grand Master then presented the im
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016926:00295877479:1871060801:0473/pct:22.791221159257177,78.27980402830703,15.109735509285313,6.5323897659227/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016926:00295877479:1871060801:0473/pct:17.098226850548834,58.715296679368535,11.34252744159865,4.899292324442025/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1816,7 +1816,7 @@ thrc-e limes with lils Hiram, and.lhc breth
 ren looking t wards the deputy&#x27; grand mastei  
 lilllie east, gave the public grand honors o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_brandonblaze_ver01:data:sn84026994:00294551608:1871122101:0397/pct:29.167335151612384,53.28932647124636,13.925878389218674,5.023495189080331/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_brandonblaze_ver01:data:sn84026994:00294551608:1871122101:0397/pct:29.17803091074389,53.29305586633848,13.920530509652922,5.023495189080331/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1860,7 +1860,7 @@ confidence in your skid and capacity to
 condct the same.  
 The fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn85033153:00271769726:1872080101:0328/pct:18.903394255874673,71.26230028568405,11.409921671018276,14.527563220823193/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn85033153:00271769726:1872080101:0328/pct:17.96684443342015,67.70313285307422,10.843771962462275,13.804657396548835/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1918,7 +1918,7 @@ serve this structure from decay, and grant us
 all a supply of the Corn of Nourishment, tho  
 Wine of Refreshment, and the Oil of Joy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_iceland_ver01:data:sn84026788:00202192348:1875072701:0329/pct:70.73893342628094,61.714033279340306,13.367026838619728,6.434987483433956/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_iceland_ver01:data:sn84026788:00202192348:1875072701:0329/pct:70.747647263855,61.71771462229421,13.362669919832694,6.453394198203505/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2065,7 +2065,7 @@ my chief joy.
 GLORIA PATRI.  
 Glory be to the Father, and to the Son, and to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_charlie_ver01:data:sn83045160:00280779520:1877050401:0376/pct:156.4396107613051,328.64715372205575,42.81625643961076,24.153030652224015/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_charlie_ver01:data:sn83045160:00280779520:1877050401:0376/pct:39.12109934154022,82.16178843051394,10.707128542799886,6.038257663056004/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2106,7 +2106,7 @@ the gavel by the Grand Master, and the grand
 •honors were given by the brethren striking  
 their hands together three times
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_asburypark_ver01:data:sn84026089:00514155872:1877092601:0154/pct:17.032590051457976,55.77081615828524,12.367066895368783,7.2684803517449845/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_asburypark_ver01:data:sn84026089:00514155872:1877092601:0154/pct:17.029669010461326,55.76315427943399,12.369233407648775,7.270916334661354/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2346,7 +2346,7 @@ the public grand honors were given.
 The Grand Master then delivered  
 over to the Architect, the implements o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_daikon_ver02:data:sn97065762:0033289965A:1885082201:1026/pct:36.05507911583525,14.811898512685914,13.298707573378428,8.451443569553806/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_daikon_ver02:data:sn97065762:0033289965A:1885082201:1026/pct:36.063131618150344,14.811898512685914,13.298707573378428,8.457276173811607/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2374,7 +2374,7 @@ freshment and the oil of joy. Amen.&quot;
 Response: &quot;So mote it be.&quot;  
 The Grand Master then struck th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775289:1885092401:0156/pct:51.81254082299151,48.53748882360455,14.532984977139124,8.328011240260569/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775289:1885092401:0156/pct:38.87618425351192,36.40311661770341,10.911466840901666,6.2460084301954275/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2498,7 +2498,7 @@ Amen.&#x27;&quot; Then striking ltthree times with
 his gavel he called upon the order to assist  
 him in doing the grand honors
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_hickok_ver01:data:sn85032490:00237286613:1888112001:0391/pct:24.908592321755027,101.49384885764499,18.677635588056063,8.523725834797892/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_hickok_ver01:data:sn85032490:00237286613:1888112001:0391/pct:16.6107893934776,67.66256590509666,12.465711673270345,5.689806678383128/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2529,7 +2529,7 @@ of this invocation, the Grand Master
 struck the stone three times with his  
 gavel and the brethren gave the publi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:0029455113A:1889010301:0414/pct:45.60669456066945,20.30215424787839,10.706374600049225,6.854425067611676/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:0029455113A:1889010301:0414/pct:45.61489867913693,20.305262830675495,10.714578718516695,6.8575336504087785/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2574,7 +2574,7 @@ three times with his hlram, and the brethren &#x27;
 give the public grand honors of Masonry by  
 three times three
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287368:1892062901:0244/pct:43.34219996870599,6.473262610954752,16.42935377875137,11.66919246590171/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287368:1892062901:0244/pct:43.35263130443853,6.480479180197734,16.4241381108851,11.66558418128022/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2608,7 +2608,7 @@ yet to be head cornerstone. Heis the stone
 cut out without hands who shall break in  
 pieces all kingdoms and fill the eart
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_rolls_ver01:data:sn85025431:0021247986A:1893011101:0016/pct:36.51432249758609,75.9493670886076,13.887994850337947,5.074593128390597/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_rolls_ver01:data:sn85025431:0021247986A:1893011101:0016/pct:36.51968672889175,75.9531344183243,13.887994850337947,5.078360458107293/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2651,7 +2651,7 @@ be seven eyes.&quot; He is the stone of Israel,
 despised by the builder&#x27;s and rejected, and  
 yet to be head cornerstone. He is the ston
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jamaica_ver01:data:sn93063557:00280777882:1893012001:0020/pct:78.50877192982456,304.80535279805355,56.578947368421055,15.815085158150852/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jamaica_ver01:data:sn93063557:00280777882:1893012001:0020/pct:19.63580517770952,76.20133819951339,14.150943396226415,3.953771289537713/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2713,7 +2713,7 @@ two lodges having obtained the consent
 of the visitors of the Central College to  
 lay the corner-stone of that bulldin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_u2_ver01:data:sn85038614:00175032812:1896011201:0095/pct:89.9119837508463,34.62520306335577,40.72444143534191,46.391274077512186/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_u2_ver01:data:sn85038614:00175032812:1896011201:0095/pct:29.970661250282102,11.541734354451922,13.574813811780636,15.463758025837395/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2741,7 +2741,7 @@ the attendance of the ald solicited the
 lodges proceeded to appoint a Grand Mas-  
 ter pro tem. (This extraordinary appoint
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_u2_ver01:data:sn85038614:00175032812:1896011201:0095/pct:90.43669600541638,82.90786725458344,40.11509817197021,18.403341842654907/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_u2_ver01:data:sn85038614:00175032812:1896011201:0095/pct:30.145565335138794,27.63595575152781,13.371699390656737,6.134447280884969/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2793,7 +2793,7 @@ ALENANDER GArrETt,
 JOHN H. CrAVEN,  
 JOHN HARRIS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_u2_ver01:data:sn85038614:00175032812:1896011201:0095/pct:90.35206499661476,100.71942446043165,40.52132701421801,48.503132977488974/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_u2_ver01:data:sn85038614:00175032812:1896011201:0095/pct:30.117354998871587,33.57314148681055,13.507109004739336,16.167710992496325/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2811,7 +2811,7 @@ in society with credit to themselves and
 benefit to their country.&quot;  
 The ceremony of applying the squar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_u2_ver01:data:sn85038614:00175032812:1896011201:0095/pct:90.58903182125931,210.93061035042933,39.42112389979688,7.113019262009747/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_u2_ver01:data:sn85038614:00175032812:1896011201:0095/pct:30.19634394041977,70.3102034501431,13.140374633265628,2.3710064206699157/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2885,7 +2885,7 @@ the stone house, where a banquet was
 spread, and, possibly, no more notable  
 wathering was ever seen within the bor-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_u2_ver01:data:sn85038614:00175032812:1896011201:0095/pct:89.42112389979688,9.282896263634253,81.82125930941096,288.477605012764/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_u2_ver01:data:sn85038614:00175032812:1896011201:0095/pct:29.807041299932294,3.0942987545447513,27.27375310313699,96.15920167092133/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2960,7 +2960,7 @@ were other contents.
 After giving the ceremonies of laying  
 the corner-stone the article closes a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_u2_ver01:data:sn85038614:00175032812:1896011201:0095/pct:130.72105619498984,31.120909723833837,40.62288422477996,79.17150150847064/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_u2_ver01:data:sn85038614:00175032812:1896011201:0095/pct:43.57368539832995,10.373636574611279,13.540961408259987,26.39050050282355/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2985,7 +2985,7 @@ ed an undisturbed feeling of plea-
 sure and harmony that welcomed in the  
 approaching evening.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_u2_ver01:data:sn85038614:00175032812:1896011201:0095/pct:131.12728503723764,110.04873520538408,39.87813134732566,14.574147133905779/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_u2_ver01:data:sn85038614:00175032812:1896011201:0095/pct:43.70909501241255,36.68291173512802,13.292710449108553,4.858049044635259/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3075,7 +3075,7 @@ cient, Free and Accepted Masons of tho
 State of Virginia, it remains with me  
 to finish tho work
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_orange_ver01:data:sn85025715:00175031558:1897061701:0925/pct:29.527615241900957,51.20600541471819,14.171542742971315,12.17080974649274/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_orange_ver01:data:sn85025715:00175031558:1897061701:0925/pct:29.537129537129537,51.21420953318566,14.162028447742733,12.166707687259004/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3109,7 +3109,7 @@ three times with a gavel, saying, &quot;Good!
 true! trusty!&quot; and the public grand hon­  
 ors were given. The gnand master the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_argentina_ver01:data:sn86071197:0017503495A:1899010801:0798/pct:133.7737407101569,199.25694754049636,55.161023947151115,31.148759102392628/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_argentina_ver01:data:sn86071197:0017503495A:1899010801:0798/pct:33.44343517753922,49.81423688512409,13.790255986787779,7.787189775598157/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

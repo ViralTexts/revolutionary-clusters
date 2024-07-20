@@ -68,7 +68,7 @@ red them; that is to . av, tliosc who
 ained an active, and zealous opposition  
 • government.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1830011401:0228/pct:3.1276778063410453,40.74021953278919,15.574121679520138,11.426963129749508/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1830011401:0228/pct:3.127007924609124,40.734487125369355,15.576140501177983,11.428872942169692/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -122,7 +122,7 @@ to give a vote at an election, but accord­
 in%o their own wishes.”  
 hat a commmentary upon the con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021520:00340588046:1830050101:0059/pct:26.1497017510102,35.17994858611825,17.760246295939965,3.3933161953727504/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021520:00340588046:1830050101:0059/pct:26.1497017510102,35.17994858611825,17.760246295939965,3.397600685518423/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -142,7 +142,7 @@ to their own wishes.” What a commentary upon
 the conduct of General Jackson!  
 Wc are authorised lo stale, that the late Collector of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830050301:0420/pct:79.50351135064511,42.62431596478706,18.340682671892864,3.699738282179396/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830050301:0420/pct:79.49052906596995,42.619245866539785,18.34313085129545,3.7032631537211054/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -247,7 +247,7 @@ employing the patronage and influence of their officers
 agiinsl the government and its measures, I hnve only  
 requested they woulJ be quiet, and they would he safe.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1841060101:0315/pct:34.95811119573496,53.74183827222501,15.963442498095963,8.096433952787544/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1841060101:0315/pct:34.95811119573496,53.74853507450192,15.978674790555978,8.096433952787544/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -291,7 +291,7 @@ he was a f ei.eralist 1 have never wished them
 to give a vote at an election but according to  
 their own wishes: I have only requested tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215762:1845042401:0124/pct:6.068710141946101,77.38574802055841,15.91236371117054,9.945825809140159/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215762:1845042401:0124/pct:6.068085981692893,77.38037363705813,15.914155438993452,9.947450054401926/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -350,7 +350,7 @@ sen is now recollected.
 a Federalist. I have never wished them to give a vole  
 at an election but according to their own wishes: I hav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347909:1845050501:0317/pct:329.7888975762314,288.07283763277695,61.23924941360438,34.4309559939302/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347909:1845050501:0317/pct:82.43111197967559,72.00728265817023,15.306820402579637,8.60643301471704/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -369,7 +369,7 @@ urge them to retire from a post wntch they could not con
 &#x27; scientlously conduct with fidelity to the trust reposed in  
 them.&quot; Thi9 was Collectir Bronson&#x27;s case exactly. As
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1853110101:0008/pct:17.74693636497859,50.19293845263361,16.77247896057877,1.9872660621261817/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1853110101:0008/pct:17.74693636497859,50.19293845263361,16.77740046262119,1.9904817030034085/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -398,7 +398,7 @@ and its measures, I have only request-
 ed they would be quiet and they should  
 be safe. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775423:1872121201:0338/pct:98.10356200527704,119.77225672877847,14.990105540897098,8.410973084886129/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775423:1872121201:0338/pct:73.593930397493,89.82919254658385,11.248556820056077,6.3146997929606625/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -455,7 +455,7 @@ tion, and WnO were employing the pat­
 ronage tuid influence of their offices  
 against the measures of his government
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_eiffel_ver02:data:sn83016925:00295878769:1883011001:0305/pct:39.38500421229992,56.55323219898866,19.545071609098567,2.911029110291103/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_eiffel_ver02:data:sn83016925:00295878769:1883011001:0305/pct:29.567966280295046,42.42175755090884,14.668071654373025,2.1866885335520023/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -475,7 +475,7 @@ holdera to give a vote at an election but
 according to their own wishes; that he  
 had only requested that they should b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_eiffel_ver02:data:sn83016925:00295878769:1883011001:0305/pct:39.42712721145745,60.70794041273746,19.545071609098567,4.305043050430505/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_eiffel_ver02:data:sn83016925:00295878769:1883011001:0305/pct:29.589041095890412,45.53778871122044,14.668071654373025,3.225365586989203/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -532,7 +532,7 @@ Defaulter
   
 To the Amount of Two Hundred Thousand
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280774856:1883020301:0611/pct:89.28052325581395,21.72601086300543,32.3219476744186,108.52444176222087/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280774856:1883020301:0611/pct:66.98164637470471,16.294508147254074,24.24132291477376,81.3971031985516/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -565,7 +565,7 @@ from a post which they could net con­
 scientiously conduct with fidelity to the  
 trust reposed in them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:0029602739A:1883022001:0284/pct:50.26315789473684,81.59288286380004,14.663742690058479,11.734801948739674/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:0029602739A:1883022001:0284/pct:37.710191548472,61.19466214785003,10.995759613978652,8.811692438042787/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -714,7 +714,7 @@ a post which they could not conscientiously conduct
 with fidelity to the trust reposed in them.&quot;  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042957:1897082101:0063/pct:234.8694316436252,243.60218314129776,50.69124423963134,9.460278956943602/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042957:1897082101:0063/pct:58.72863453043979,60.90054578532444,12.675244862684847,2.3650697392359006/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -208,7 +208,7 @@ ing, in the frieocis of the
 their attachment to its |  
 guardianship of our maritime i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808111601:0001/pct:59.229853116316,8.236522647173999,34.795553791186975,88.69599269024931/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808111601:0001/pct:59.23646949847823,8.240873689248575,34.78893740902475,88.70034373232389/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -244,7 +244,7 @@ further is to pass bet#e#n us on this
 subject.*&#x27;  
 of State to Mr. P
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808111601:0001/pct:76.61770543866614,26.471739981725623,17.229059150456532,16.381673410781882/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808111601:0001/pct:76.61770543866614,26.4760910238002,17.24890829694323,16.38602445285646/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -315,7 +315,7 @@ antecedent in the Berlin fle. rf(&gt;i |t ls prt,h#(ljp t|iat’
 -mutilling lurther is to pass Letween us on this sub­  
 ject.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808112101:0219/pct:53.81669645136584,3.3722651751932884,43.32397242787848,93.35417009376542/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808112101:0219/pct:53.80296069423175,3.3717105263157894,43.31929555895865,93.34292763157895/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -393,7 +393,7 @@ Fme; in relaxmg the rigor of their ssctmea­
 W- Mr. Ersk&#x27;me wasie asked Whether ssss  
 ;]jis-sissgoyssctdmment &#x27;dmingrjsi&#x27;shed bctwecn the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808112401:0596/pct:29.994340690435767,57.070524412296564,22.439162422184495,38.06509945750452/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808112401:0596/pct:29.990097609279953,57.06536479522647,22.44070354128354,38.06467166922822/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -430,7 +430,7 @@ something further-is to pass between us on
   
 wis-subjects.- , 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808112401:0596/pct:52.801358234295414,3.508137432188065,22.453310696095077,25.406871609403254/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808112401:0596/pct:52.79388881029848,3.507820269415062,22.454849813740747,25.407588222885213/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -497,7 +497,7 @@ An this point he was unable to ansvv&lt; ;• •
 no a!‘a*was to an enquiry, whether tl.#»’’ V  
 British decrees had reference tothew?&#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808112501:0237/pct:77.42974762842313,63.21996027805363,17.41542867370682,30.25074478649454/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808112501:0237/pct:77.41589119541875,63.21211368995904,17.418277260796945,30.251127384055273/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -515,7 +515,7 @@ to the Berlin decree. It is &#x27;probable that
 something further is to pass beta ecu us on  
 this subject.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808112501:0238/pct:5.357466063348416,1.771255060728745,17.266968325791854,2.8846153846153846/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808112501:0238/pct:5.356496561708288,1.7710309930423782,17.269875738931113,2.8884672148429265/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -606,7 +606,7 @@ hit&#x27;her is to pass between us on this
 ■ubject.”  
 1 o be Continued
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808112901:0389/pct:58.84490342321668,11.808726534753932,36.79479824058137,81.05022831050228/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808112901:0389/pct:58.83365200764818,11.80722891566265,36.79413639260675,81.04417670682732/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -793,7 +793,7 @@ among us to the embargo.”
 But 1 must notice the change of lanonage in .Mr.  
 Madison’s last letter. I„ that of December 2.;d, t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808122101:0271/pct:75.95959595959596,86.83866753755716,20.858585858585858,7.609405617243632/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808122101:0271/pct:75.94041908608938,86.82448979591837,20.859631406210553,7.612244897959184/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -813,7 +813,7 @@ decrees (meaning the British orders) had much effect in reconciling all
 descriptions among us to tlie embargo.”  
 But 1 must notice the change of language in Mr. Madison’s last letter
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808122601:0525/pct:35.27918781725889,72.71358297359703,29.593908629441625,3.2928420841280994/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808122601:0525/pct:35.27321942141769,72.70628387873921,29.593131449839284,3.2950210801043966/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -906,7 +906,7 @@ is probeMjf that something fin
 la to pom between ue on this  
 jact.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808123001:1089/pct:56.82062298603652,17.32681611326479,33.88829215896885,78.69543232765886/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808123001:1089/pct:56.80536912751678,17.323896191439164,33.88590604026846,78.68638355240984/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -939,7 +939,7 @@ pearance of&#x27;these decrees (meaning the Bri­
 tish orders) had much effect in reconciling all  
 descriptions among us to the embargo.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809010501:0301/pct:24.304300686664256,25.025012506253127,17.00397542464763,5.140070035017509/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809010501:0301/pct:24.299909665763323,25.021883206202325,17.006925624811803,5.143595514984786/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -963,7 +963,7 @@ crees (meaning the British orders) had
 much eﬀect in reconciiing all descripti—ons  
 among-us to the embargo.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216092:1809012301:0164/pct:30.813534917206624,68.1989247311828,21.900647948164146,6.263440860215054/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216092:1809012301:0164/pct:30.80909876187734,68.19281426395484,21.9022938861695,6.265866260490398/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1015,7 +1015,7 @@ in the fricnds of the measure, their attach­
 ment to its provident guerdianshifi of our mars  
 itime interests.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1809071901:0065/pct:51.30146710837671,23.18641405713164,21.217857706262816,12.182192991067046/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1809071901:0065/pct:51.30146710837671,23.189686201367756,21.23889151811537,12.178920846830929/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1110,7 +1110,7 @@ fiari fiasstt wiih Fratice, in relaxing the vi­
 gor &lt;&gt;f their measure.” Now, have we, in  
 go d earnest, acted up to this declaration 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1811030101:0391/pct:40.87459342247922,75.14062117877232,17.401517889410915,6.1995597945708/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1811030101:0391/pct:40.86720867208672,75.13143416065533,17.404396266184882,6.202877287361943/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1164,7 +1164,7 @@ council] bas&#x27;had much effect in reconciling all des- ’
 W the friends ol that wea?mv, their attachment t»:  
 its provident guardianship ol oar maritime rights^
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811062401:0585/pct:73.14243396692174,43.47402597402598,22.21673660824488,7.678571428571429/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811062401:0585/pct:73.1243830207305,43.46696964778445,22.217423494570582,7.6813828923875995/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1231,7 +1231,7 @@ krgot4a uot rue : a very large portion fro
 pv of the act of embargo, and explained the  
 policy of the measure {leaving out “causes,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1811070501:0111/pct:27.231740306582505,10.599662162162161,42.876465284039675,82.72804054054055/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1811070501:0111/pct:27.225602884832092,10.5981703026038,42.87243633085418,82.71991555242786/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1254,7 +1254,7 @@ embargo, and in fixing, in the friends of
 that measure, their attachment to its pro­  
 vident guardianship of our maritime rights.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1811070501:0111/pct:48.98557258791704,12.880067567567568,21.28043282236249,6.70045045045045/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1811070501:0111/pct:48.9745323416723,12.878254750175932,21.281271129141313,6.703026038001408/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1290,7 +1290,7 @@ neutral commerce, and through them the vast I
 injury to France an ecedrnt to the Berlin de­  
 cree.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811080201:0105/pct:40.88489076555902,42.09164818920917,18.10170736185056,11.36979551613698/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811080201:0105/pct:40.87738619676946,42.08646385022786,18.104503181595692,11.372500718479287/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1373,7 +1373,7 @@ It might have hern hoped, too, that even it
 they had taken this ground, from the first,  
 knowingly and deliberately, they would hav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811112601:0229/pct:41.60730593607306,77.80111179740581,17.424657534246574,5.70722668313774/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811112601:0229/pct:41.599707815924035,77.79150197628458,17.42756269783297,5.710638998682477/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1400,7 +1400,7 @@ to Mr. l’inkuey) “ lias had much effect in recon­
 ciling all descriptions among us to the embar-.  
 go.” In June, t807, happened the attack&#x27; o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813110301:0652/pct:26.13694430250383,56.071369568808855,21.921308124680635,2.0816124235916074/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813110301:0652/pct:26.130268199233715,56.062107697390154,21.922094508301406,2.0853980839114636/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

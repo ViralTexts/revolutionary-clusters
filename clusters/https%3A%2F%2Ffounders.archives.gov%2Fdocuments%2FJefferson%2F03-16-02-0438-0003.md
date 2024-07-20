@@ -147,7 +147,7 @@ and Honorary members may be chosen
 in any part of the world.—The whole  
 number of members is not to exceed 12
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021200:00517172133:1821032101:0010/pct:55.63456151691446,31.81240288176296,21.84873949579832,18.957479870038142/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021200:00517172133:1821032101:0010/pct:43.12830503757306,24.654234937780537,16.932925132201504,14.706419005218407/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

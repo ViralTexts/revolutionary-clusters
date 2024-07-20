@@ -853,7 +853,7 @@ his numbers, aud the change, exceed the
 admitted degree, a tendency in that ex­  
 cess to correct itself
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1818070301:0068/pct:4.250814332247557,0.5529510758504628,76.75895765472313,92.43899507152302/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1818070301:0068/pct:4.250122129946263,0.5528846153846154,76.75188622917005,92.43189102564102/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1023,7 +1023,7 @@ land, have, by exposing the loos* tied soj*
 In be carried oft by iain«*, hastened more  
 Ibiiii anv filing else the v.i&#x27;-.te of j|&lt;&gt; fr»
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1818070701:0072/pct:81.71974522292993,11.171432018337557,16.28980891719745,83.58064905296176/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1818070701:0072/pct:81.70673459640184,11.170084439083233,16.29252242211962,83.57458785685564/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1437,7 +1437,7 @@ to the CHI tii, all pronounce that srii it !
 would be t e effect. \lid yet the fae  
 stare- us i:i tlie la
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1818070701:0073/pct:3.1234983181162903,4.413167938931298,47.18885151369534,91.7223282442748/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1818070701:0073/pct:3.1229980781550286,4.412641621943948,47.18663250053385,91.71536473862055/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2435,7 +2435,7 @@ by the vet\ imperfect maiiuer in which 1
 b»vc perlonucd the one on which l ven­  
 tured
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1818071001:0077/pct:4.420706655710764,0.4114728306910323,76.58175842235003,93.22280043567712/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1818071001:0077/pct:4.41998028261584,0.41142303969022265,76.57465220725162,93.21555340432397/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12764,7 +12764,7 @@ j hors, was accused of witchcraft, and
 brought to trial. • He produced in the for*  
 ■ tint a stout daughter, and some excellent
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn86071588:00542866561:1829080801:0489/pct:29.31704608550805,42.773795632605434,20.544142143253747,11.10185030838473/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn86071588:00542866561:1829080801:0489/pct:29.308909242298085,42.766666666666666,20.545378850957537,11.104166666666666/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12802,7 +12802,7 @@ Htilu&#x27;e (?r the labour bean*ed on
 . thcn? th?? more easy ta?k of providing  
 pasturage and hay.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1829090901:0930/pct:63.69164729028796,64.2832309653494,26.86460382758004,17.186232471897092/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1829090901:0930/pct:63.697609252966075,64.28709390813923,26.87056579025815,17.19009541468691/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13889,7 +13889,7 @@ oraugtu service. In every part of India, the
 hi ways appeared, even in the Irani ol hei  
 n&#x27;,es‘ ^ n‘i tutlie hotttt&amp;t parts cl the Wes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348835:1831082901:0431/pct:1.345565749235474,47.4131719267906,14.576962283384301,45.20824326271797/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348835:1831082901:0431/pct:1.345291479820628,47.40634005763689,14.579086832450061,45.205331412103746/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13975,7 +13975,7 @@ of the crop, nod of l ie grass ami h«t con­
 sumed by Ihi* horse Wiieia lb - tnu&#x27;ket i*  
 not distant, (he value ol corn wuohl reitaml
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348835:1831082901:0431/pct:3.4250764525993884,10.260844502089638,27.48216106014271,82.90820002882259/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348835:1831082901:0431/pct:3.424378312270689,10.259365994236312,27.481655116184264,82.89985590778097/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14026,7 +14026,7 @@ ha&#x27; le to tb-* objection which weigh* most
 against (tie ox. lie is lex* liiltd (hun (he lioisc  
 j lor toad servic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348835:1831082901:0431/pct:16.146788990825687,45.84234039486958,14.71967380224261,18.662631503098428/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348835:1831082901:0431/pct:16.143497757847534,45.835734870317005,14.721769262128007,18.663544668587896/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14363,7 +14363,7 @@ ter was married, ho portioned her with hal
 what remained, and still the produce of-hit  
 vineyard was oodiminished.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182938:1834073101:1145/pct:22.206244864420707,67.597844583097,17.13229252259655,6.636415201361316/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182938:1834073101:1145/pct:22.201684124050114,67.58826031475968,17.133908400082152,6.639018857223876/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17259,7 +17259,7 @@ withstanding which, he obtained from two-
   
 thirds, the same crop as from the whole.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667693:1840022701:0914/pct:248.53072128227961,289.0180300998361,58.5040071237756,13.768439874832366/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667693:1840022701:0914/pct:62.146515252727674,72.25450752495902,14.629258517034069,3.4421099687080914/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17709,7 +17709,7 @@ fund was inexhaustible, and that a crop of trees
 could not be raised as quick as one of wheat or  
 corn.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1840111701:0604/pct:35.72373254959589,82.33333333333333,14.753857457751653,3.8125/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1840111701:0604/pct:35.728630908645606,82.33333333333333,14.768552534900808,3.8229166666666665/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17733,7 +17733,7 @@ her with half of what remained, nnd still the
 produce of his farm was uudiniinished I”  
 This story has an excellent moral, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182951:1841021101:0223/pct:56.73821641956185,47.36228504809093,16.994910378402302,5.406587000874381/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182951:1841021101:0223/pct:56.72566371681416,47.35538394288212,16.996681415929203,5.4094419350138425/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17833,7 +17833,7 @@ youngest daughter was married he gave her
 half of what remained; still the produce of  
 his vineyard was undiminished. This resul
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_arbok_ver04:data:sn82003383:00295874442:1842040902:0267/pct:164.81893265565438,82.00629235237173,35.87992376111817,16.80784123910939/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_arbok_ver04:data:sn82003383:00295874442:1842040902:0267/pct:54.939644218551464,27.33543078412391,11.95997458703939,5.602613746369797/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17851,7 +17851,7 @@ andiminished
 This anecdote of the Roman agriculturist, gentlemen,  
 points the tull force of its moral against that fatal niauis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347892:1842111001:0533/pct:9.7772521190617,7.659449108852556,61.36408436822393,10.3844454264251/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347892:1842111001:0533/pct:2.443831296807253,1.914580265095729,15.33799763500197,2.5957290132547866/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17869,7 +17869,7 @@ and still the produce of his vineyard was undiminished.
 ?This anecdote of the Roman agriculturists, gentle­  
 men, points the full force of its moral against tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664266:1842111101:0303/pct:18.540524070688605,53.73845997768083,16.148689823278488,2.0391599878259106/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664266:1842111101:0303/pct:18.540524070688605,53.741841669202934,16.16900264066626,2.0459233708701094/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17890,7 +17890,7 @@ portion, and yet he had the same quantity of fruit as before; when
 This anecdote of the Roman agriculturalist, gentlemen, points the  
 full force of its moral against that fatal mania for emigration, whic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184601:1842112601:0010/pct:109.2485549132948,258.8984118981598,45.10276172125883,9.881522561129318/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184601:1842112601:0010/pct:36.41033873816022,86.28859483301828,15.031840316797775,3.2934257508926694/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17915,7 +17915,7 @@ ulation to seek wider domains for themselves and their families in
 the priaries of the west. It is not more land that weynced. We  
 have enough and more than enough already, if properly cultiv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184601:1842112801:0014/pct:110.0167453189222,251.42587791656845,44.95356979753387,15.460758897006835/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184601:1842112801:0014/pct:36.666666666666664,83.79875103098857,14.982242516489093,5.152979066022544/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18209,7 +18209,7 @@ lave, by evincing the loosened M-il to b!
 carried off by the rains, hastened more than  
 anything else the waste ofits fertility
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn83016785:00295877947:1845041701:0285/pct:103.78912685337727,11.064929229386655,19.783086216364634,17.8948550887441/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn83016785:00295877947:1845041701:0285/pct:77.85253329671839,8.301505279712424,14.842784566799397,13.42394967423051/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18232,7 +18232,7 @@ called for the improvement of old land; but
 habit has kept us deaf to the call.  
 I. Among the best mean ot auli
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn83016785:00295877947:1845041701:0285/pct:103.59692476661175,30.03819366434509,19.357495881383855,7.065827903841833/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn83016785:00295877947:1845041701:0285/pct:77.71522724152135,22.534261963603683,14.513250034326514,5.302179285553808/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18266,7 +18266,7 @@ inexhaustible, and that a crop of trees could
 not be raised as quick as one of wheat or  
 corn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn83016785:00295877947:1845041701:0285/pct:103.37726523887973,39.687710626825435,19.481054365733115,15.681869242866771/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn83016785:00295877947:1845041701:0285/pct:77.55045997528491,29.76859132779151,14.609364272964438,11.76140193215008/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -19174,7 +19174,7 @@ tating the size of our farms. Ido not know
 how large a farm Cincinnatus cultivated, but  
 I think it did not exceed three acres. Whe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340184:1857022101:0035/pct:30.290872617853562,31.413888522862038,12.15312604480107,12.425879562524706/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340184:1857022101:0035/pct:30.285809794417517,31.409749670619235,12.155273274277118,12.427536231884059/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -19312,7 +19312,7 @@ lie liad the same quantity of fruit for himself as for- &#x27;
 uerly. When his second daughter was married, he &#x27;  
 gave her half of what remained, and still the produc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82006534:00415661101:1859031001:0240/pct:4.370430544272949,35.71698350749087,16.34443541835906,4.053883922951026/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82006534:00415661101:1859031001:0240/pct:4.38126184673707,35.72118007469889,16.339019767127,4.05808049015905/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -19345,7 +19345,7 @@ be consulted, and w here the road aervn *
 the objection is almost deprived of Its  
 w. iglit. Vt err it admitted, a- per hap- 1
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:00332895011:1869112501:0191/pct:3.8169287860045946,55.13564583614523,11.274076691995052,7.9227965987312725/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:00332895011:1869112501:0191/pct:3.8162544169611308,55.12820512820513,11.276501766784452,7.925101214574899/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

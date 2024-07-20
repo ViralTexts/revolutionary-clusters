@@ -391,7 +391,7 @@ All else beneath the sun,
 Thou know st if best bestowed or not,  
 And let thy will be done
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn82015099:00279556653:1860060901:0448/pct:12.354705661792275,21.645997745208568,9.917510311211098,12.683201803833146/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn82015099:00279556653:1860060901:0448/pct:12.354705661792275,21.65304396843292,9.922197225346832,12.683201803833146/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -431,7 +431,7 @@ All else beneath the sun,
 Thou know&#x27;st if best bestow&#x27;d or not,  
 And let thy will be done
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156384:1864012701:0622/pct:43.72093023255814,122.1316249271986,96.0,84.79906814210833/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156384:1864012701:0622/pct:10.93531875290833,30.53290623179965,24.011167985109353,21.19976703552708/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -449,7 +449,7 @@ All else beneath the sun,
 Thou knowest if best bestowed or not,  
 And let thy will be done.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn89053987:00414184406:1868061701:0115/pct:80.58764439979909,76.74049154284646,10.321446509291814,1.9904681805438744/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn89053987:00414184406:1868061701:0115/pct:80.57752667922159,76.73332087460288,10.3243356350701,1.9933968728586557/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -521,7 +521,7 @@ Thou know&#x27;st if best bcxtow&#x27;d or not,
   
 And let thy will be done.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027239:00279529443:1869021001:0673/pct:5.45594262295082,43.196282452773005,7.953381147540983,9.122133548843317/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027239:00279529443:1869021001:0673/pct:5.46448087431694,43.20301713977843,7.961919398907104,9.125500892346029/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -568,7 +568,7 @@ pluck lite flower, sa&#x27;ety,&quot; .that the
 i storm of to day, whether created by  
 the wiatli of Heaven or the ungovern
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_heddalettuce_ver01:data:sn86053227:00294558779:1877021701:0406/pct:80.41603247082699,71.91188998417914,16.032470826991375,8.859681148837776/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_heddalettuce_ver01:data:sn86053227:00294558779:1877021701:0406/pct:80.41603247082699,71.92000324530446,16.043745419696712,8.86373777940043/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -598,7 +598,7 @@ All else beneath the sun
 Thou knowest if best bestowed or not,  
 And let Thy will be done
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:00271744006:1877123001:1123/pct:246.94549645973984,199.83094781922688,45.941050551621935,19.11416657274879/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:00271744006:1877123001:1123/pct:82.31516548657994,66.61031593974229,15.313683517207311,6.37138885758293/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -798,7 +798,7 @@ All else beneath the sun,
 Thou know’st if best bestowed or not,  
 And let Thy will be done.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00542865982:1896010201:0215/pct:80.29850746268657,50.36485697606538,13.773987206823028,5.604203152364273/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00542865982:1896010201:0215/pct:80.28138989554466,50.35750766087845,13.776380302707311,5.60703341602218/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -892,7 +892,7 @@ All else beneath the aun,
 Thou knowest It best bestowed or not,  
 And let Thy will be done
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_nicasio_ver01:data:sn85042461:00280769794:1898051901:0278/pct:19.377162629757784,78.78648937796117,11.82576836963159,13.113250802384227/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_nicasio_ver01:data:sn85042461:00280769794:1898051901:0278/pct:19.377162629757784,78.79413113250803,11.85121107266436,13.105609047837383/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

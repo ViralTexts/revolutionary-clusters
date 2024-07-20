@@ -271,7 +271,7 @@ more than my own, or thit of my Cotemporaries has |
 been the objtft of the ftndies and labors of my life.  
 Your attachment to France was in common wit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798060901:0003/pct:55.94405594405595,9.014708208129052,16.25874125874126,12.03542622173019/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798060901:0003/pct:55.95654345654346,9.022615846908113,16.25874125874126,12.031472402340661/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -340,7 +340,7 @@ people have made so great
 “When valour preys on reason.  
 It eats the sword it fights with.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183724:1848080901:0129/pct:6.4497128552495955,25.321162947937797,9.365336474745988,1.025467658327699/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183724:1848080901:0129/pct:6.448763250883392,25.31830985915493,9.368865331762859,1.0291079812206574/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -367,7 +367,7 @@ Mormon ImnoaATioN.?The tide of immigration
 is now setting toward the Valley*# the Great Salt  
 Lake, with more force than ever, and from all part
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855052601:0666/pct:35.35640007562866,56.635841039740065,15.503875968992247,6.573356660834791/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855052601:0666/pct:35.369004852839225,56.64417229026077,15.497573580386966,6.573356660834791/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

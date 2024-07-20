@@ -4408,7 +4408,7 @@ upon the habitation of the white man. Oh,
 how changed and ever changing! May  
 not a people yet unborn stand upon thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn92053237:00212472025:1840081401:0053/pct:12.84046692607004,50.878892733564015,124.8249027237354,333.84083044982697/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn92053237:00212472025:1840081401:0053/pct:3.211366290385364,12.719723183391004,31.218372907746204,83.46020761245674/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

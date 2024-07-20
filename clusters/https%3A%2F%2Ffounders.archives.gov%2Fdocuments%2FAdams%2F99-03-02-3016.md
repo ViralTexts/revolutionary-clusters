@@ -609,7 +609,7 @@ Godhead of the Father, of the Son, and of the
 Holy Ghost is all one; the glory equal, the  
 majesty co-eternal. Such as the Father is, suc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_angelou_ver01:data:sn83030362:print00211110028:1847040401:0001/pct:38.333333333333336,45.32625738752864,10.760517799352751,3.365094680979375/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_angelou_ver01:data:sn83030362:print00211110028:1847040401:0001/pct:38.3373786407767,45.32927270534314,10.760517799352751,3.377155952237366/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -955,7 +955,7 @@ Son, and of the Holy Ghost, is all one: the
 Glory equal, the Majesty Co-Eternal.  
 Such as the Father is, such is the Son; an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271742022:1872042401:0401/pct:84.49839914621131,38.55730501647748,41.20864461045891,19.983522519223726/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271742022:1872042401:0401/pct:28.166133048737105,12.852435005492493,13.73621487015297,6.661174173074576/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1039,7 +1039,7 @@ of the Son, and another of the Holy
 Ghost. 6. But the Godhead of the  
 Father, of the Son, and of the Hol
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn89053987:00414184443:1880063001:0209/pct:39.84129913268131,51.34526342134902,17.29101310204835,6.569891127518458/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn89053987:00414184443:1880063001:0209/pct:39.83394833948339,51.33883883883884,17.293972939729397,6.57323990657324/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1116,7 +1116,7 @@ had the approval of Holy Writ, and declared
 that the Bible, from the first verse of  
 Genesis to the last verse of Reve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:0041421017A:1886080901:0340/pct:4.84520338747744,56.660692951015534,14.605025683742886,1.2544802867383513/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:0041421017A:1886080901:0340/pct:4.854458790318849,56.66401168193283,14.605025683742886,1.2544802867383513/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1146,7 +1146,7 @@ He, therefore, who would be saved must
 thus think of the Trinity.”  
 Athanasian Creed In Book of Common Pray
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn90053049:00332897901:1887060401:0391/pct:44.23770647427378,58.74647887323944,12.340991076514145,9.507042253521126/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn90053049:00332897901:1887060401:0391/pct:44.229309035687166,58.73820588649486,12.343394077448748,9.50922405295029/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1278,7 +1278,7 @@ with the central truths of theology, but
 now the demand of the pews seems to  
 be for discourses dealing with the wid
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_inskip_ver01:data:sn82015104:00280768881:1899121001:0349/pct:31.727765904981094,22.436831875607385,12.247246424461615,7.434402332361516/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_inskip_ver01:data:sn82015104:00280768881:1899121001:0349/pct:31.727765904981094,22.439868804664723,12.25135623869801,7.446550048590865/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

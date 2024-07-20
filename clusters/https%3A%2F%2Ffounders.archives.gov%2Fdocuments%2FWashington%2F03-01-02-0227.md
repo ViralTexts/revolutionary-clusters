@@ -775,7 +775,7 @@ Ctlptcd choice of a brave and free people,
 the purest source and original fountain of  
 ill power.”-.V*. Y. Col. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811092701:0168/pct:3.8872512896094324,8.590852904820766,18.109801031687546,3.8936959208899875/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811092701:0168/pct:3.8865352735310372,8.589791125942405,18.112605145207834,3.8973344868784245/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -905,7 +905,7 @@ will remember the occasion of it. i
 1 am, sir, your very humble servant,  
 G. WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84024746:00414186920:1830111701:0186/pct:17.43810548977395,12.478593446740495,15.039212671074889,56.67313620276287/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84024746:00414186920:1830111701:0186/pct:17.435424354243544,12.47716894977169,15.042025420254202,56.67047184170472/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1250,7 +1250,7 @@ deserve the appellation of rebels, and the punishment of
 that cord which your affected clemency has forbore to  
 inflict,&quot; Ac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1852111301:0408/pct:18.181818181818183,83.11462964971261,15.544332210998878,3.4920290640928315/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1852111301:0408/pct:18.181818181818183,83.12185952355131,15.54900860456416,3.4884141271734808/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1415,7 +1415,7 @@ their children and their property, or the mercenary in­
 &quot;ples of liberty, were altogether foreign to the sub­  
 &quot;ject
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024656:00414184728:1861071001:0036/pct:18.0553384398937,177.98833819241983,39.033922151008284,15.99013231666293/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024656:00414184728:1861071001:0036/pct:6.017505470459518,59.32279403520574,13.009273731374387,5.329446499981313/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1453,7 +1453,7 @@ to hand down to posterity those just and invaluable
 &quot;privileges which they received from their ancestors.&quot;  
 This correspondence, the reader will observe, occurre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024656:00414184728:1861071001:0036/pct:18.102235422854463,194.06817672123793,39.2684070658121,34.189280107647456/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024656:00414184728:1861071001:0036/pct:6.033135354798374,64.68213925327952,13.087423153068666,11.395148932989498/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1476,7 +1476,7 @@ Gave, at Boston, when lis said : &quot;Not
 only your officers and soldiers have been  
 treated with tenderness, but even thos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn87076863:00296028848:1863022701:0402/pct:30.555555555555557,119.54621536172587,18.621399176954732,7.215919657801749/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn87076863:00296028848:1863022701:0402/pct:22.928461142563048,89.6596615212944,13.973237261966032,5.4119397433513114/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1609,7 +1609,7 @@ than that which flows from the uncorrupted
 choice of a brave and free people, the purest  
 source and original fountain of all power
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn97064666:00517016056:1870050501:0178/pct:6.277755349212757,80.86306585813003,14.917238595074688,3.990974474686222/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn97064666:00517016056:1870050501:0178/pct:6.27648839556004,80.8516638465877,14.919273461150354,3.9939368302312466/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1654,7 +1654,7 @@ magnanimity and enlarged ideas would
 comprehend and respect it.&quot; Victe­  
 iously did he vindicate the principl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_tesla_ver01:data:sn85038614:00175030876:1885022201:0194/pct:258.15569972196477,48.353196099674975,33.781278962001856,16.760563380281692/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_tesla_ver01:data:sn85038614:00175030876:1885022201:0194/pct:86.0518999073216,16.117732033224993,11.260426320667284,5.586854460093897/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

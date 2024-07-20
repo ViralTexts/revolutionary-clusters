@@ -448,7 +448,7 @@ thereof, at their discretion ; such of them as
 shall continue to reside within the said bounda­  
 ry lines
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795071401:0469/pct:7.23597480591768,16.376027259971938,39.6367364874762,76.83904590098216/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795071401:0469/pct:7.240857380010742,16.382708625643083,39.63185391338313,76.8457272666533/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -466,7 +466,7 @@ his Majesty is to withdraw all his troops and garrisons
 from ports and places within the boundary line afljgned  
 by the treaty of peace to the United States, before th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795071501:0002/pct:28.96059243586353,67.5559237779619,20.97328749008199,2.3695111847555923/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795071501:0002/pct:28.96059243586353,67.56006628003314,20.993123512298332,2.3695111847555923/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -839,7 +839,7 @@ fix a precil&#x27;e determinate time when at furtheft the
 !&gt;oft« are to be delivered up. It it therefore, to thi*  
 lew agreement, that we (hall owe the enjoyment o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795081401:0002/pct:30.261752136752136,3.2559692770078477,43.48290598290598,91.85172816830857/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795081401:0002/pct:30.281784188034187,3.2559692770078477,43.47622863247863,91.86007680748038/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -990,7 +990,7 @@ As to the fuygeftion, that more might have Urn
 &quot;one than v » done, it mult of neccllity b? mere  
 conjecture f*»d imagination.. I; t\
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795081401:0002/pct:74.19871794871794,4.541659709467357,22.22222222222222,90.58273501419269/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795081401:0002/pct:74.19871794871794,4.55418266822508,22.242254273504273,90.57856069460678/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1032,7 +1032,7 @@ ibly pursues tlie path of war. It the illusion of
 Ijiirope iij (iii&amp;l of Great Britain in particu­  
 lar, as is pretended,, authorized us*o expect what­
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795081401:0003/pct:6.022483940042827,4.197201865423051,21.654175588865098,20.13657561625583/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795081401:0003/pct:6.035867237687366,4.209693537641573,21.660867237687366,20.140739506995338/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1111,7 +1111,7 @@ hi beew attributed in this country to the victories
 The fubjeiS of the frcond article will be refuffi­  
 cd and concluded in the next number. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795081401:0003/pct:5.005353319057816,26.332445036642238,22.617773019271947,41.3057961359094/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795081401:0003/pct:5.025428265524625,26.340772818121252,22.60438972162741,41.3099600266489/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1873,7 +1873,7 @@ e i 1796.&quot; And these expressions are used in ec
 0 ! very of the said pods.&quot; The &#x27;British treaty tl  
 e was in this manner accordingly carried into 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797101401:0002/pct:58.30972615675165,40.927895981087474,18.673276676109538,6.73758865248227/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797101401:0002/pct:58.32743153918791,40.93897754137116,18.661473087818695,6.73758865248227/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1898,7 +1898,7 @@ these expreflions are used in the fame trea­
 ?&#x27; as egmivalcn,t to *‘the dclivery of the  
 aid pofls.” The British treaty was in thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797111501:0391/pct:25.57564518621542,66.7457962413452,15.669911914696337,6.3699307616221565/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797111501:0391/pct:25.57564518621542,66.7457962413452,15.675063102045021,6.373227827233762/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1918,7 +1918,7 @@ that Great Britain has entertained the v
 project of contracting our boundaries I  
 at the Ohio.&quot; This (says Mr. Hamil- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808072001:0001/pct:4.628677226908043,81.29190304280557,18.37070561612837,3.9840123775141825/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808072001:0001/pct:4.635534526503463,81.30049853876568,18.36384831653295,3.979714629534124/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1939,7 +1939,7 @@ circumstances, that Great Britain has en­
 tertained the project of contracting our  
 boundaries at the Ohio.” This (says Mr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808072601:0246/pct:2.7541973212601394,72.47333671914677,19.27938124882098,4.164550533265617/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808072601:0246/pct:2.7536778574122973,72.46413609242097,19.282031937633597,4.16825356523211/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1959,7 +1959,7 @@ rious c oncurring circumstances, that Grcat­
 Britain has entertained the project c.f con­  
 tracting our boundaries at the Ohio.” Thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808080501:0113/pct:4.578620941262313,61.588738059326296,17.384166362641373,3.3936651583710407/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808080501:0113/pct:4.577785883640343,61.5809978635164,17.387075202139947,3.397427841313728/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2023,7 +2023,7 @@ thus rendered, anil wi,i? h must be acknowledged to
 lie of great value to li e country. But the true patriot  
 will admit the fuel, thai at no crisis in the histor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661290:1842091901:0274/pct:66.87008190139714,48.69682951596525,17.53653444676409,7.536951370867652/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661290:1842091901:0274/pct:66.87008190139714,48.704351423521004,17.53653444676409,7.533190417089774/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2124,7 +2124,7 @@ within the United States; where they were still held
 in violation of the treaty of 1783.  
 The freedom of commerce and navigation, the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jaguar_ver01:data:sn83030214:00175038851:1895112401:0421/pct:199.96787664632188,57.91518290708967,47.141021522646966,7.100464012085896/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jaguar_ver01:data:sn83030214:00175038851:1895112401:0421/pct:66.65595888210729,19.305060969029892,15.713673840882322,2.3668213373619653/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2167,7 +2167,7 @@ lands, houses or effects, o# to retain the
 property thereof, at their discretion; that  
 such of them as should continue to resid
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ibizanhound_ver01:data:sn83045462:00280655223:1898102101:0546/pct:15.325742019787194,29.4921875,13.869703192085122,3.892299107142857/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ibizanhound_ver01:data:sn83045462:00280655223:1898102101:0546/pct:15.325742019787194,29.499162946428573,13.874369983199552,3.8992745535714284/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

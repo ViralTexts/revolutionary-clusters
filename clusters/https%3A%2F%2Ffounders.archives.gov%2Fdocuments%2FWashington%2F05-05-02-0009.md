@@ -66,7 +66,7 @@ and manners. I havethe honorto be, Sir, with
 the molt perfect refpecfl, your obedient servant,  
 H. KNOX, Secretary for the War Department
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790012301:0003/pct:8.157653528872594,29.92671816201228,26.917201344332415,23.192711428005545/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790012301:0003/pct:8.157653528872594,29.941572588631413,26.917201344332415,23.182808476926123/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -115,7 +115,7 @@ your obedient servant,
 H. KNOX, Secretary for the War  
 Department
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790021001:0537/pct:6.407766990291262,58.93200769724182,21.432038834951456,28.94483643361129/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790021001:0537/pct:6.423948220064725,58.942698310883046,21.44012944983819,28.939491126790678/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -321,7 +321,7 @@ the people themselves, and supported by their habits and
 manners.&quot;  
 11 :s plan was to organize the militia into three classe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1840061601:0515/pct:63.9079772930983,67.58483033932136,15.775321183149089,8.183632734530939/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1840061601:0515/pct:63.9079772930983,67.59148369926812,15.780300766855891,8.186959414504324/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

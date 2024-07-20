@@ -169,7 +169,7 @@ States informing one nation, Idr certain purposes, is of
 particular weight, from the nature of the quesiion which  
 Mr. Jefferson was then discussing, and which would hav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1833030701:0393/pct:81.48045467147213,52.62869059378773,15.137233157748822,6.552518933157722/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1833030701:0393/pct:81.46916146916146,52.62291483757682,15.13975513975514,6.5554580040971615/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -265,7 +265,7 @@ absorb the local authorities left with the states Com- ;
 in free, finance, negociafion and war, comprise alt the ob■ I  
 lecls oj a love of power.”—P. 81. II
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1833080601:0109/pct:18.048442906574394,60.68508287292818,15.044982698961938,10.96132596685083/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1833080601:0109/pct:18.045945197896486,60.67837807977019,15.047513608266446,10.963797738739734/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -320,7 +320,7 @@ The whole body of the nation is the sovereign legisla­
 tive, executive, and judiciary power for itself.  
 The State and Federal Governments are coordinat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_lorca_ver01:data:sn83030272:00206533109:1888102101:0609/pct:283.26937835763624,94.14276998169616,50.65234075211051,7.443563148261135/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_lorca_ver01:data:sn83030272:00206533109:1888102101:0609/pct:70.84452975047985,23.53569249542404,12.667946257197697,1.8608907870652838/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -341,7 +341,7 @@ The whole body of the nation is the sov­
 ereign legislative, executive and judicial  
 power for itself.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn84024448:0029602076A:1888111801:1219/pct:180.34055727554178,145.3081621321488,49.76780185758514,15.26929483620211/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn84024448:0029602076A:1888111801:1219/pct:45.09386491194117,36.3270405330372,12.444358428488485,3.8173237090505276/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -369,7 +369,7 @@ sovereign legislative, executive, and
 judicial power for itself.  
 The state aud federal government
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271768515:1889020701:0206/pct:82.2658126501201,31.452974476114807,11.956231651988258,2.4133478994934947/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271768515:1889020701:0206/pct:82.27026065296681,31.452974476114807,11.956231651988258,2.4232793723309167/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -387,7 +387,7 @@ The whole body of the nation is the sovereign
 legislative, executive, and judiciary power for  
 itself
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175045181:1895012301:0288/pct:279.20489296636083,72.0962094687167,51.29969418960245,9.560054802861927/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175045181:1895012301:0288/pct:69.80122324159021,18.024052367179173,12.824923547400612,2.390013700715482/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -460,7 +460,7 @@ their will which creates or annihilates
 the origin which is to declare and an­  
 nounce it.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_jackinthepulpit_ver01:data:2017270204:00279527768:1895101001:0596/pct:109.0814630091438,34.335942864991075,19.347464671654198,5.109188298310672/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_jackinthepulpit_ver01:data:2017270204:00279527768:1895101001:0596/pct:81.85031185031185,25.751957148743305,14.511434511434512,3.845625600879/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -483,7 +483,7 @@ the origin which is to declare and an­
 nounce it.&quot;  
 Thomas Jefferson, in a letter to E
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_douglas_ver01:data:sn84029671:00212473285:1895101101:0556/pct:46.65327978580991,36.52816721896508,18.28982597054886,6.640326280907469/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_douglas_ver01:data:sn84029671:00212473285:1895101101:0556/pct:31.118178774690325,24.356359928626052,12.202879142952796,4.4226357379556465/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -502,7 +502,7 @@ govern him?&quot; And again he says:
 sovereign legislative, judiciary and:  
 executive power for itself.&quot; And
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_bentonite_ver02:data:sn95060797:00517019264:1897091801:0096/pct:27.314390467461045,74.01574803149606,20.921173235563703,3.5507354033575993/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_bentonite_ver02:data:sn95060797:00517019264:1897091801:0096/pct:27.314390467461045,74.02565245382063,20.93644974029942,3.560639825682167/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

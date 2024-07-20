@@ -105,7 +105,7 @@ ult g vernment fiio Id reTufe, or reif on
 inference. The second feature 1 diflil e,  
 rnd gteaily r&#x27;iflike, is the : i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792092601:0001/pct:49.860118122474354,15.240693821867083,42.0578178427106,80.82245176378873/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792092601:0001/pct:49.860118122474354,15.240693821867083,42.07336027354678,80.83706879750535/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -163,7 +163,7 @@ mg the poweityou approve. £v(n tfiefe.
 your gov rrment ; at all events I hope you  
 will not be iifccurag.ed from other tjiah
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792092601:0001/pct:71.0289089213553,59.423114402650555,21.69723344731116,36.77645683102709/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792092601:0001/pct:71.04445135219149,59.432859091794974,21.69723344731116,36.78620152017151/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -256,7 +256,7 @@ f they arc the central ones, lying in a corupaft
 &gt;ody themfelves,and separating their opponents :  
 ind
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792092601:0001/pct:27.286821705426355,27.897990726429676,21.891472868217054,50.425038639876355/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792092601:0001/pct:27.286821705426355,27.907650695517773,21.930232558139537,50.425038639876355/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -294,7 +294,7 @@ to ; convinced that on their good fenle we may
 rely with the molt security for the preserva­  
 tion of a due degree of liberty.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792092601:0001/pct:49.333333333333336,35.54868624420402,21.24031007751938,16.537867078825347/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792092601:0001/pct:49.333333333333336,35.553516228748066,21.24031007751938,16.542697063369395/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -511,7 +511,7 @@ I hete &gt; ln &quot;t&#x27;7 °&quot;c of v. hich&#x27;, greater ltumbm were &#
 engaged than in Maflachiifetts, and a great de«l *h:  
 ; more blood fpift. Compare again rht: ferocious de- a 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796102801:0002/pct:31.929046563192905,23.80189132873858,22.123675782212366,20.035262061227762/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796102801:0002/pct:31.947524020694754,23.813912485975315,22.11751662971175,20.031255008815517/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -567,7 +567,7 @@ foiverof removing him every fourth year by the mote
 EXERCittD. The king of Poland is rf.movabli  
 every day by the Dirt, yet he is never removed.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796110801:0002/pct:72.0,16.058631921824105,21.615384615384617,28.615635179153095/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796110801:0002/pct:72.01923076923077,16.06270358306189,21.621794871794872,28.623778501628664/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -730,7 +730,7 @@ utcr- nr.sa of combinations to deprive any citizen of a State of
 with his rights, reserved in her bill of rights, protected by her  
 &#x27; tie constitution, and maintained by
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:0041566123A:1854080501:0126/pct:66.96817961557099,4.590742842729222,31.545792279114846,63.955101526043634/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:0041566123A:1854080501:0126/pct:66.96817961557099,4.5991507966536345,31.561944758520433,63.95089754908143/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -750,7 +750,7 @@ eternal and unremitting force of the habeas cor.
 pus laws.&quot; &quot;Why,&quot; he asks, &quot;suspend the writ  
 in cases of rebellion and insurrections? If th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774662:1861060501:0549/pct:174.7844827586207,236.76894833464465,48.99425287356322,10.28061893522161/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774662:1861060501:0549/pct:43.703969822166336,59.19223708366116,12.250763427339681,2.5701547338054027/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -783,7 +783,7 @@ Constitution that it omitted to provide for
 the eternal and unremitting force of the ha  
 beas corpus laws.&quot; In 1788 he advised tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1862011601:0394/pct:151.22156697556866,176.2124388539483,56.02358887952822,6.26135569531796/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1862011601:0394/pct:37.82132321955331,44.053109713487075,14.011799410029498,1.56533892382949/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -799,7 +799,7 @@ eave the
 the eternal and unremitting force of the ha  
 beas corpus laws.&quot; In 1788 he ad
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1862031301:0434/pct:136.62207357859532,357.8470254957507,56.68896321070234,15.240793201133144/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1862031301:0434/pct:34.17695042878059,89.46175637393767,14.18113365404727,3.810198300283286/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -823,7 +823,7 @@ habeas corpus in any case whatever, declaring him­
 self in favor of &quot; the eternal and unremitting force  
 of the habeas corpus laws.&#x27; 2 Jeff. Corr. 274, 291
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045706:00296022664:1862032601:0052/pct:86.12099644128114,36.440464177598386,19.00355871886121,7.1140262361251265/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045706:00296022664:1862032601:0052/pct:64.61374154503382,27.333501513622604,14.275542897828409,5.335519677093845/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -840,7 +840,7 @@ Constitution that it omitted to provide &quot;for
 the eternal and unremitting force of the ha  
 beas corpus laws.&quot; In 1788 he advised tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1862050101:0462/pct:257.0612244897959,201.59151193633951,55.42857142857143,6.254362697193913/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1862050101:0462/pct:64.29154757043692,50.39787798408488,13.862801143323805,1.5635906742984782/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -862,7 +862,7 @@ alfr. MadISon, Dec, 20th, 1787.
 These objections were urged in the Virginia  
 Convention by Patrick Henry, (se 2 vol El
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295742:1862100401:0347/pct:279.1647331786543,172.19034166151673,49.65197215777262,13.278008298755188/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295742:1862100401:0347/pct:69.79928065900917,43.04758541537918,12.414433228912866,3.319502074688797/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -910,7 +910,7 @@ my friends? Where is our bill ol rights? Cone!
 gone! trampled under loot by the men in power,  
 who, whilst breaking the laws of the Union, de
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn82014998:00279557992:1864062501:0307/pct:17.900997697620873,79.58958821099021,14.217191097467383,7.299270072992701/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn82014998:00279557992:1864062501:0307/pct:17.900997697620873,79.59303126291144,14.231580966999232,7.299270072992701/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -946,7 +946,7 @@ ejection of u President of America somo years
 honcq will be much tnoro Interesting to certain  
 nations of Europe than over
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_north_ver02:data:sn84031492:no_reel:1880031601:0012/pct:44.37761506276151,52.592740327084165,13.049163179916318,4.467491025129637/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_north_ver02:data:sn84031492:no_reel:1880031601:0012/pct:44.38415271966527,52.60271240526526,13.068776150627615,4.472477064220183/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -967,7 +967,7 @@ ably, without needing continual recurrence to
 the State Legislatures;&quot; with its wise distribu  
 tion of powers, and with its &quot;compromise of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044772:1881070301:0021/pct:177.42631200575127,148.84117730698136,51.976994967649176,13.251812882127116/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044772:1881070301:0021/pct:44.38050710303902,37.21029432674534,13.001258766408919,3.312953220531779/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -991,7 +991,7 @@ perpetual re-eligibility of the president.
 Some of these objections were removed  
 by amendment to the Constitution, but a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282279:1881071301:0042/pct:175.40038436899422,40.63022201002626,99.10313901345292,344.13941274767245/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282279:1881071301:0042/pct:43.86414610701698,10.157555502506565,24.783723165652034,86.03485318691811/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1044,7 +1044,7 @@ the great and little states of the latter to
 equal and of the former to proportional in­  
 fluence But he was struck with amaze
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_boozer_ver01:data:sn85058130:175048479:1891062101:0167/pct:65.31855090568395,73.74561105447955,18.722673329169268,7.2828179861819/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_boozer_ver01:data:sn85058130:175048479:1891062101:0167/pct:43.55770732469155,49.163740702986374,12.478525691082305,4.862762864801601/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1073,7 +1073,7 @@ This latter observation i
 with the Constitutional provision requ  
 te in the 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_rollingstone_ver01:data:sn85038614:00175033014:1899041401:0372/pct:170.07575757575756,45.71965094443831,40.782828282828284,17.59637689163813/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_rollingstone_ver01:data:sn85038614:00175033014:1899041401:0372/pct:56.69191919191919,15.239883648146103,13.594276094276093,5.865458963879377/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

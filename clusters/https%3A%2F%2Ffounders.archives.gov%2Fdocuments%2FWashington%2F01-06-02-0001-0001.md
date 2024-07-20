@@ -513,7 +513,7 @@ tiful changeable hue, remarked in (hades not quit©
 black. I&#x27;his elegant fabric was from the  
 manufactory in Hartford
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790010901:0003/pct:63.244729605866176,34.488251692552765,26.153376107546592,6.391875746714456/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790010901:0003/pct:63.26000611060189,34.5031859816806,26.16101435991445,6.391875746714456/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -537,7 +537,7 @@ remarked in shades not quite black.
 This elegant fabrick was from the man­  
 ufaltory in Hartford
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790012001:0527/pct:76.87107677450507,27.14828897338403,20.956059874456784,7.832699619771863/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790012001:0527/pct:76.87912441654595,27.158428390367554,20.948012232415902,7.832699619771863/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -602,7 +602,7 @@ changeable hue, remarked in shades not quite
 black. This elegant labrick was from the manu­  
 factory ol Hartford
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn82015332:00332897925:1832050901:0026/pct:2.743081067842273,67.11647727272727,17.119764878765615,4.794034090909091/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn82015332:00332897925:1832050901:0026/pct:2.742409402546523,67.10456240014202,17.121694417238,4.797621161015445/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -619,7 +619,7 @@ has been made by the Baron de Carondelet, as
 Governor General of Louisiana, in favor of the Baron  
 de Bastron, according to the copies and plans thereo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271742964:1847122601:0734/pct:98.60023329445093,134.60966967653445,46.20896517247125,3.863298662704309/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271742964:1847122601:0734/pct:32.86674443148364,44.86988989217815,15.40298839082375,1.2877662209014364/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -697,7 +697,7 @@ the Secretary of the Treasury was directed to prepare a plan for the pur
 respectable.&quot; &quot;Not much company at the Levee  
 to-day, but the visitors were respectable.&quot; Mrs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293277:1859022201:0180/pct:282.58675078864354,302.0688024589195,49.4006309148265,3.6883792410450407/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293277:1859022201:0180/pct:70.6578324656886,75.51720061472987,12.352106010411736,0.9220948102612602/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -724,7 +724,7 @@ record in his diary that he is &quot;Still
 indisposed with an aching tooth and  
 swelled and inflamed gum.&quot; But w
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271743920:1876022301:0578/pct:151.83516850183517,103.41300850379223,49.916583249916584,6.239944840266605/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271743920:1876022301:0578/pct:50.61172283394506,34.471002834597414,16.638861083305528,2.079981613422202/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -797,7 +797,7 @@ age, and up to date I have heard nothing of the mat
 On motion the chairman appointed the following  
 gentlemen as a committee to investigato the matter
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crowfoot_ver01:data:sn83030313:00271744031:1878071601:0185/pct:149.1429522383092,146.62353875837022,50.940256282243304,22.381114515945978/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crowfoot_ver01:data:sn83030313:00271744031:1878071601:0185/pct:49.71431741276974,48.87451291945674,16.980085427414433,7.460371505315326/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -823,7 +823,7 @@ to the payment of foreign tonnage and
 foreign duties during the pleasure of  
 Congress, which letter was referred t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477874:1879110501:0618/pct:137.03703703703704,180.07401081696557,39.50617283950617,23.05721605465414/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477874:1879110501:0618/pct:34.265869187729116,45.01850270424139,9.878448774840825,5.764304013663535/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -896,7 +896,7 @@ eat tatutn the toil of that beautiil changeable
 hue remarked in shades not quite black. This ele-  
 rhnit fatirle was from the mantfactorn to Ifart for
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ike_ver01:data:sn85042682:00211103383:1885121301:0158/pct:68.39887640449439,336.5412350858791,43.53932584269663,7.709453258161794/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ike_ver01:data:sn85042682:00211103383:1885121301:0158/pct:17.1027216856892,84.13530877146978,10.886742756804214,1.9273633145404485/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -921,7 +921,7 @@ This elegant fabrlo was trow the man
 ufactory In llaruonl.  
 t &quot; ji
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280774868:1885121701:0716/pct:70.04820333041192,113.52146582854085,18.31726555652936,7.436137488297446/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280774868:1885121701:0716/pct:52.55314486083717,85.14109937140564,13.740959894806048,5.5904774642236195/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -956,7 +956,7 @@ of the senate to wait on t he president and notify
 him that a quorum of the two houses has assembled  
 and that Congress was ready to receive an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_newfoundland_ver04:data:sn83045462:00280654656:1886120401:0729/pct:37.530562347188265,11.117758500348987,12.701711491442543,1.9244191843653404/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_newfoundland_ver04:data:sn83045462:00280654656:1886120401:0729/pct:37.53463732681337,11.124405889586864,12.705786471067645,1.927742878984279/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1050,7 +1050,7 @@ cer, Fhila., Wednesday, April 25, 1871.
 Krmb. 1.” Headed by an address of “The  
 Printer of the Freeman’s Journal to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_fox_ver01:data:sn82016399:00517173514:1891052201:0584/pct:4.503311258278146,86.94635059263881,15.077262693156733,2.85402370555209/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_fox_ver01:data:sn82016399:00517173514:1891052201:0584/pct:4.502317369234165,86.93279276469671,15.079452659457074,2.857476999844067/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1074,7 +1074,7 @@ MONDAY, 18th.
 Still indisposed with an aching tooth,  
 and swelled an 1 imlamed gum
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drew_ver02:data:sn86063034:00414182112:1894021801:1016/pct:56.6904047976012,107.79988465974625,16.023238380809595,6.805074971164936/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drew_ver02:data:sn86063034:00414182112:1894021801:1016/pct:43.940934398450736,83.54501098737383,12.418300653594772,5.281388506089613/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1507,7 +1507,7 @@ so deaf ho could not hear one-half that
 was said to him.  
 These anecdotes do not detract fro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_irene_ver02:data:sn85035524:00332896817:1897021901:0805/pct:38.25473776994271,29.109414758269722,10.797708241516087,9.567430025445292/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_irene_ver02:data:sn85035524:00332896817:1897021901:0805/pct:38.246309759859,29.104477611940297,10.800837188808108,9.57004748982361/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

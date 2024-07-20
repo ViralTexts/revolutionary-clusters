@@ -146,7 +146,7 @@ In i ig our government and people into the condition of
 thoso of England, a nation ot pikes and gudgeons, tho  
 latter bred merely as food for the former.”—Vol. iv. p
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184054:1831070801:0074/pct:36.54489682097044,41.457680250783696,14.835471277189068,14.711150918047469/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184054:1831070801:0074/pct:36.53980203541057,41.453039292510915,14.83805009526465,14.713235568491362/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -195,7 +195,7 @@ lor in the State, and scarcely a musket to put into the hands j
 of the militia, invaded by two armies?Arnold&#x27;s from the e&lt;&gt;a- j  
 board and Cornwallte&#x27; from the Southward.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851071801:0358/pct:18.78617005490429,87.62414056531703,16.248701587772665,1.6138273491214667/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851071801:0358/pct:18.78617005490429,87.62414056531703,16.258594252361874,1.6170104405398522/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -219,7 +219,7 @@ England, a nation of pikes and
 gudgeons, the latter bred merely as  
 food for the former.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_galloway_ver01:data:sn84026314:00513685518:1880072401:0021/pct:7.270384686177066,62.66389718291575,14.2830848518314,5.9976632480851615/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_galloway_ver01:data:sn84026314:00513685518:1880072401:0021/pct:7.2690467427309535,62.65576323987539,14.285057048214943,6.000129802699896/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -243,7 +243,7 @@ gland, a nation of pikes and gudg-­
 cons, the latter bred merely as food  
 for the former.&quot;-Ibid, Vol. 6. P. 409.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_lapras_ver01:data:sn83025167:00279528402:1883030801:0486/pct:50.674831292176954,59.64164648910412,31.992001999500125,14.01452784503632/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_lapras_ver01:data:sn83025167:00279528402:1883030801:0486/pct:16.891610430725652,19.88054882970137,10.664000666500042,4.671509281678773/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -264,7 +264,7 @@ ernment and people into the condition of those
 of England, a hation ot pikes and gudgeons, the  
 latter bred merely as food for the former,&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_lapras_ver01:data:sn83025167:00279528402:1883032201:0494/pct:53.09559187716692,202.0614584336769,31.698860822189204,9.122435218187073/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_lapras_ver01:data:sn83025167:00279528402:1883032201:0494/pct:17.698530625722306,67.3538194778923,10.566286940729734,3.040811739395691/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

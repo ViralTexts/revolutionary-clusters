@@ -51,7 +51,7 @@ the esteem of the truly valuable part of man­
 kind.  
 Labor to keep alive in your breast that littl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210089:1885022101:0448/pct:26.146237134072987,9.371123198778509,18.86111482422136,3.454528103826701/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210089:1885022101:0448/pct:20.263130632963847,7.267527857213293,14.617217445353775,2.6797160043388226/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -158,7 +158,7 @@ ments can never gain the respect and conciliate
 the esteem of the truly valuable part of man­  
 kind.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685142:1891010101:0457/pct:72.8689818468824,85.87105624142661,21.01420678768745,9.190672153635116/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685142:1891010101:0457/pct:72.85460643124877,85.85927856261144,21.016637075031234,9.193983449915422/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -179,7 +179,7 @@ plisliinents can never gain lira respect !
 and conciliate the esteem of the truly  
 valuable part of mankind
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_alvarez_ver01:data:sn84026688:00415623446:1891020501:0455/pct:68.34299352199113,88.13900780659783,12.444595976815547,5.023923444976076/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_alvarez_ver01:data:sn84026688:00415623446:1891020501:0455/pct:68.34867598590749,88.13900780659783,12.46164336856461,5.036514731805591/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -199,7 +199,7 @@ gain the respect and conciliate the
 esteem of the truly valuable part of  
 mankind
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_argentina_ver01:data:sn86089443:00206536007:1891031901:0064/pct:43.86363636363637,53.89380530973451,19.227272727272727,4.601769911504425/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_argentina_ver01:data:sn86089443:00206536007:1891031901:0064/pct:32.931544234705484,40.42772861356932,14.44166477143507,3.4513274336283186/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -285,7 +285,7 @@ accomplishments can never gain respect
 and conciliate the esteem of the truly  
 valuable part of manhood.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775319:1892081101:0134/pct:11.180738786279683,48.67982568572161,14.54485488126649,4.345039733401692/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775319:1892081101:0134/pct:8.397954132981356,36.51627787746732,10.905791123576968,3.2555754934632146/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -318,7 +318,7 @@ respect and conciliate the esteem of the
   
 truly valuable part of mankind.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_marmaduke_ver02:data:sn89066695:00415661757:1894040501:0440/pct:5.769230769230769,55.55391214317409,21.53846153846154,4.65907410146428/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_marmaduke_ver02:data:sn89066695:00415661757:1894040501:0440/pct:4.3366692327431355,41.66543410738056,16.166281755196305,3.5053986096731253/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -375,7 +375,7 @@ accomplishments can never gain respect
 or conciliate the esteem of the most valu­  
 able part of mankind.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_volvo_ver01:data:sn00065127:00295876529:1899021701:1076/pct:76.14360162130863,68.70385561936013,15.57614360162131,2.9532403609516/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_volvo_ver01:data:sn00065127:00295876529:1899021701:1076/pct:66.62725890896807,60.12282170913586,13.635084163711085,2.5800534354189097/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -394,7 +394,7 @@ accomplishments can never gain respect
 or conciliate the esteem of the most valu­  
 able part of mankind.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_volvo_ver01:data:sn00065127:00295876529:1899021701:1078/pct:76.04226705091259,68.67584890222282,15.465898174831892,2.9319514523387427/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_volvo_ver01:data:sn00065127:00295876529:1899021701:1078/pct:66.54152190967163,60.09466231803357,13.543651238372744,2.5694057751968815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -432,7 +432,7 @@ accomplishments can never gain respect
 or conciliate the esteem of the most valu­  
 able part of mankind. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_pearsoll_ver01:data:sn93051659:00295868788:1899022401:0091/pct:60.73179271708683,60.552486187845304,15.808823529411764,3.1077348066298343/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_pearsoll_ver01:data:sn93051659:00295868788:1899022401:0091/pct:45.56119768867099,45.41436464088398,11.854316231833304,2.334254143646409/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

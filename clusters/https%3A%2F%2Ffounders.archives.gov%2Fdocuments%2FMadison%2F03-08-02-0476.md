@@ -217,7 +217,7 @@ gress will hasten to substitute a more commen­
 surate and certain provision for the public exi-“  
 genetes. JAMKS MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1815020401:0212/pct:49.12820512820513,2.977463398585294,44.61538461538461,95.7229807534134/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1815020401:0212/pct:49.115611381697,2.976973684210526,44.61035631889259,95.71134868421052/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -410,7 +410,7 @@ commensurate and ceftain provision for th*
 public exigencies.  
 r,- JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1815020401:0352/pct:60.8088501994922,6.142081894425259,35.21944142183533,89.8741983226443/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1815020401:0352/pct:60.797824116047146,6.141324454310026,35.2190994258084,89.86722571628232/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -606,7 +606,7 @@ commensurate and certain provision for the
 public exigences.  
 JAMP.S MAUIS7N
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184285:1815020401:0032/pct:42.19897209985316,3.5592146928435717,35.40748898678414,92.69157694743508/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184285:1815020401:0032/pct:42.19122774821068,3.5587639311043566,35.40710833792133,92.68405943937859/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1009,7 +1009,7 @@ stitute a more commensurate and certain pro­
 vision for the public exigencies.  
 7 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1815020801:0023/pct:3.1146583609110374,2.743972445464983,48.841736422036206,92.98507462686567/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1815020801:0023/pct:3.1276361040815,2.747799464217375,48.83524755045098,92.98890164561806/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1230,7 +1230,7 @@ and certain provision for the public
 exigencies.  
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216195:1815020901:0072/pct:6.841423015987325,4.223504721930745,39.83868644678093,92.67226302903113/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216195:1815020901:0072/pct:6.840437788018433,4.223135437614759,39.837749615975426,92.6670746990761/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1979,7 +1979,7 @@ cemmensurate and certain provision for the
 public exigencies. b 5  
 JAMPES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1815021401:0237/pct:5.297282383777072,5.6757516156223655,79.4868257690716,86.72848178327246/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1815021401:0237/pct:5.301880719179657,5.678873591208517,79.4868257690716,86.72848178327246/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3175,7 +3175,7 @@ pf the government, accompanied by in­
 dications in different modes of a concur­  
 rence of the general will of the nation,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898000:1820050901:0180/pct:7.781587971511475,32.0732915153516,17.515167501978368,7.015516672169032/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898000:1820050901:0180/pct:7.779535864978903,32.06799801947516,17.51714135021097,7.018484898498102/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3260,7 +3260,7 @@ ol the Government, accompanied by indications, indif­
 ferent modes, ol a concurrence of the general will of  
 the nation.&quot; Another hill was immediately introduced
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830043001:0384/pct:19.228504122497057,24.282075034738305,15.312131919905772,4.678091709124595/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830043001:0384/pct:19.225673487413513,24.279263633205975,15.314784827518524,4.681409440006175/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3620,7 +3620,7 @@ age to the Senate of the U. Stales:—&quot; Waiv- .
 &quot;will of the Nation.” Mr. Madison, him-!  
 self opposed to tho first Bank of the United 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn85026864:00414184510:1832081001:0195/pct:5.141430948419301,57.48061045784338,15.640599001663894,12.459344508381285/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn85026864:00414184510:1832081001:0195/pct:5.1405756113791385,57.47342088805503,15.643542394498974,12.461955388784657/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3687,7 +3687,7 @@ expressed. Subsequent to this true but strong
 statement of the case, the present Bank of the  
 I riited States was established, ans numerous othe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021207:0051717192A:1832082201:0170/pct:10.716300056401579,42.99565846599132,15.566835871404399,13.01013024602026/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021207:0051717192A:1832082201:0170/pct:8.305002428363283,33.32959473605503,12.073822243807674,10.086735456856587/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3804,7 +3804,7 @@ ent, the wisdom of Congréss &#x27;xiﬂ hast­
 and certain provision for the pyblic m-‘]  
 genges’ .. - -JAMES‘MﬁIg,SON,&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153139:1832100201:0356/pct:22.107369123041014,8.103957471943296,30.110036678892964,87.08800945067927/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153139:1832100201:0356/pct:22.107369123041014,8.111833037999606,30.115594086917863,87.08407166765112/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3892,7 +3892,7 @@ necessary to anticipate the taxes, and in those du­
 rable loans which arc equally necessary to diminish  
 the resort lo taxes.” Mr. Madison did not at tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1834031801:0414/pct:20.707892595606182,8.190722204283716,14.456197450501763,4.294478527607362/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1834031801:0414/pct:20.70508474576271,8.189840723202755,14.458757062146892,4.297603673410819/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3924,7 +3924,7 @@ treasury by lacilitatiug the indispensable anticipa­
 tions of the revenue, and by affording to the public  
 more durable loans.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1834031801:0414/pct:20.436669378898834,12.517490044128726,14.74098182804448,8.599720159293941/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1834031801:0414/pct:20.433898305084746,12.51614291863969,14.743502824858757,8.602381977328168/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4153,7 +4153,7 @@ Treasury by facilitating tka indispensable anticipation af
 veaM.s, and by affording to the public mors daraaia loan.  
 To an the aunsiaaiatians upon whick a thoa rsliec?, i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058213:00271744730:1837102801:0655/pct:104.9718574108818,25.84313218762114,20.293933708567856,2.920273937201189/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058213:00271744730:1837102801:0655/pct:78.77365868919131,19.382349140715856,15.21977162521508,2.196666235947797/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4200,7 +4200,7 @@ tions ol levenue, and bv affording to
 the public mure durable loans.&quot;  
 Io all the considerations upon whic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348951:1837110101:0555/pct:30.653658536585365,13.02491103202847,28.78048780487805,79.37366548042705/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348951:1837110101:0555/pct:30.647678501755756,13.023057216054655,28.779750292625828,79.36592655849701/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4273,7 +4273,7 @@ facilitating the indist&gt;ensab!e anticipations of revenue,
 and by affording to the public more durable loans.&quot;  
 To all the considerations upon which he then relied
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1837112401:0149/pct:18.483490957358555,37.91918473752814,15.513522482163598,7.453489749970376/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1837112401:0149/pct:18.489021624910126,37.92313465260497,15.513522482163598,7.457439665047201/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4389,7 +4389,7 @@ by affording to the public more durable
 loans.&quot;  
 The bill failed. A new one was intr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156347:1840082001:0859/pct:275.29976019184653,81.27574750830564,57.15427657873701,21.04983388704319/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156347:1840082001:0859/pct:68.86622675464908,20.31893687707641,14.297140571885622,5.262458471760797/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4450,7 +4450,7 @@ of the revenne, and by affording to the public more
 durable lons.&quot;  
 The bill failed. A new one was introduced by tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00200290185:1840091801:0789/pct:53.40466926070039,215.89369463262116,37.11089494163424,8.05106826472121/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00200290185:1840091801:0789/pct:17.801556420233464,71.96456487754038,12.37029831387808,2.683689421573736/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4490,7 +4490,7 @@ fiie revenue, and by affording to the public more dura­
   
 He loans, Ac., ?.Vc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1841042301:0269/pct:1.034017683200959,20.639968200337872,15.36040761276787,6.677929047003875/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1841042301:0269/pct:1.034017683200959,20.646593129947995,15.38038863080074,6.677929047003875/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4519,7 +4519,7 @@ opinions, and consenting to sign the bill incorporating
 the last Bank.  
 Mr. Madison was one of the grea&#x27;est statesmen o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1841051101:0290/pct:64.26308643837683,30.440812283308567,15.930004525569467,6.805349182763744/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1841051101:0290/pct:64.2731432594157,30.447416212646523,15.935032936088902,6.805349182763744/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4626,7 +4626,7 @@ Judicial branches of the Government, accompanied by
 mdic&amp;tions in different modes of a concurrence of the  
 general will of the nation.&quot; lie waived it; yes; bu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1841080601:0389/pct:67.92395437262357,74.84866828087166,16.03041825095057,7.657384987893463/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1841080601:0389/pct:67.92395437262357,74.85539413505515,16.040557667934095,7.657384987893463/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4690,7 +4690,7 @@ different modes of a concurrence of the
   
 general will of the nation.&quot; He waive
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156347:1841081201:1057/pct:211.5415019762846,285.36324786324786,57.944664031620555,38.675213675213676/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156347:1841081201:1057/pct:52.90628706998814,71.34081196581197,14.491894029260576,9.668803418803419/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4724,7 +4724,7 @@ ernment, accompanied by indications in different
 modes of concurrence of the general will of  
 the nation.&quot; He waived it wes hut what di
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00200290197:1841081301:0131/pct:115.72700296735906,52.043956043956044,50.445103857566764,37.97802197802198/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00200290197:1841081301:0131/pct:28.94248608534323,13.010989010989011,12.61595547309833,9.494505494505495/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4756,7 +4756,7 @@ dison distinctly abandons his constitutionl objec­
 tions, and, treating that question as settled, he rests  
 his veto on the defects in the provisions of the bil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184595:1841081601:0736/pct:10.073201782304265,47.86235662148071,39.06747294716741,21.45753678600394/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184595:1841081601:0736/pct:3.3571996817820207,15.95227062094532,13.0204189870061,7.151683657707754/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4803,7 +4803,7 @@ ed by indications in different modes of a concur-
   
 rence of the general will of the nation.&quot; He
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1841081601:0373/pct:88.52701702442636,126.74144855283201,57.06883789785344,33.90112172829248/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1841081601:0373/pct:22.13175425610659,31.685362138208003,14.26720947446336,8.47528043207312/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4833,7 +4833,7 @@ circulation, and of aiding the Treasury by facilitating the in-
 alpensable anticipations of the revenue, and by affording the  
 Publie more durable loans.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347892:1841081901:0024/pct:330.20447906523856,84.49135150982117,62.72638753651412,27.80709469363823/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347892:1841081901:0024/pct:82.53504672897196,21.119742048952073,15.678543613707165,6.950754799941374/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4864,7 +4864,7 @@ If the proceedings had stopped here, credit, of providing a national medium
   
 there would be some reason for supposo cirtin and of siing the Tesury
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156347:1841082601:1064/pct:129.08366533864543,179.75708502024293,119.04382470119522,15.168690958164643/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156347:1841082601:1064/pct:32.27091633466136,44.93927125506073,29.760956175298805,3.7921727395411606/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4903,7 +4903,7 @@ accompanied by indications in defer­
 ent modes of a concurrence of the ge­  
 neral will of the nation.&quot; He waive
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_kingsombra_ver01:data:sn83016884:0041566199A:1841083102:0412/pct:25.188843695525858,42.819897799562,16.89424753050552,11.648764208989467/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_kingsombra_ver01:data:sn83016884:0041566199A:1841083102:0412/pct:18.901641725991574,32.12013765773282,12.668894377451693,8.73918031077276/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4932,7 +4932,7 @@ cilitating the indispensable anticipations of the I
 revenue, and by affording to the publie ntore du- !  
 ! ruble loans.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183694:1841090201:0111/pct:18.909685086155676,43.757347754526215,15.225787284610814,7.535857042087938/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183694:1841090201:0111/pct:18.90687657804842,43.75220406723874,15.228476657260261,7.538889541945848/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4965,7 +4965,7 @@ the nature of Mr. Madison&#x27;s objections against the
 expediency of the proposed bank. How was he  
 treated? As President Tyler has been, wit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197978:1842072701:0333/pct:22.88019693654267,43.82188816763467,20.14496717724289,6.935428766655279/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197978:1842072701:0333/pct:17.17061157477083,32.866416125726,15.118347243124914,5.204418631135406/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4989,7 +4989,7 @@ j) facilitating the indispensable anticipations the
 revenue, and by alfordiug to the Public more desirable  
 loans.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661307:1843041801:0373/pct:65.87329992841804,10.490758444869343,16.374373657838223,4.920331421287444/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661307:1843041801:0373/pct:65.87926509186352,10.499256426598683,16.380338821283704,4.920331421287444/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5010,7 +5010,7 @@ aiding Iht trratliry hy far lllatlrig the indlsd&#x27; iisabli
 anticipation ol lt.e revenue, ami hy affording to the  
 public more durable loans.&#x27;&#x27; In following in the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661307:1843053001:0517/pct:52.325581395348834,90.3411941796287,14.59386585776879,3.4119417962870044/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661307:1843053001:0517/pct:52.325581395348834,90.34955678207058,14.59386585776879,3.4119417962870044/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5065,7 +5065,7 @@ ble anticipations of tbe revenue, and by affording
 to the public more durable loans.”  
 &#x27;1 bis bill having originated in the Senate, wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183700:1844031401:0048/pct:21.270310192023633,50.62090765409799,14.933530280649926,9.347482501693385/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183700:1844031401:0048/pct:21.267168808152416,50.61519358844113,14.936247723132968,9.350190013921813/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5084,7 +5084,7 @@ constitute jl authority of the Legislature to establish
 an incorporated Bank, as being precluded, in my jud^  
 ment, by repeated recognitions, under varied qne
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664278:1844040601:0349/pct:5.055174470623323,81.60298595422846,16.090068595287804,2.4653766820548078/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664278:1844040601:0349/pct:5.065115816681579,81.60298595422846,16.085097922258672,2.4719248272926695/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5148,7 +5148,7 @@ lic more durable loans.&quot;
 This bill having originated in the Senate,  
 was returned to that body with the Presi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn87090028:00295877959:1844042701:0371/pct:105.43230944254834,62.60978670012547,20.051194539249146,18.99167332040607/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn87090028:00295877959:1844042701:0371/pct:79.11509460805236,46.96019162769476,15.03770095319391,14.246606592905213/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5199,7 +5199,7 @@ credit, of providing a national medium of circula
 tion, and of aiding the revenue, and by affording to  
 the public more durable loans.&quot; A National Bank
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_buttery_ver01:data:sn83030213:0020653025A:1847063001:0634/pct:5.511194614059809,191.89712074655742,41.00516674495068,8.398770911573916/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_buttery_ver01:data:sn83030213:0020653025A:1847063001:0634/pct:1.8370648713532696,63.965706915519135,13.668388914983561,2.799590303857972/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5223,7 +5223,7 @@ circumstances, of the validity of such an institu­
 tion. in acts of the legislative, executive and  
 judicial branches of the government &quot; And i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215804:1848071701:0648/pct:44.51139145170401,74.43986254295532,12.47411033703634,4.74914089347079/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215804:1848071701:0648/pct:44.50720135554928,74.43474675280049,12.47607392764128,4.75110530776808/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5270,7 +5270,7 @@ ry by facilitating the indispensable anticipa­
 tions of the revenue, and by affording to the  
 public more durable loans.1&quot; These points ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661538:1854051301:0478/pct:69.27848954821309,29.654947916666668,13.175994605529333,8.365885416666666/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661538:1854051301:0478/pct:69.27848954821309,29.658564814814813,13.189480782198247,8.369502314814815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5322,7 +5322,7 @@ lative executive and judicial beancbes of the Govein.­
 ment, atr omp anled by indicatiens in diff erent moles,  
 of a concurrence of the general wil of the nation 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530534:1857031001:0462/pct:245.43679843826257,52.815274230816,48.88563526923703,12.246138878754712/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530534:1857031001:0462/pct:81.81226614608752,17.605091410272003,16.295211756412343,4.082046292918237/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5346,7 +5346,7 @@ eompanied by indications, in different modes, t,
 of a concurrence of the general will of the j t  
 nation.&quot; : 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1857031901:0054/pct:62.014388489208635,59.19079505800245,12.386091127098322,4.687352636046402/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1857031901:0054/pct:62.014388489208635,59.19393882234588,12.394084732214228,4.693640164733251/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5377,7 +5377,7 @@ cial branches of the Government, accompan­
 ied by indications in different modes, of a  
 concurrence of the general will of the nation.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1857032701:0262/pct:19.073783359497646,19.732847601700062,50.86342229199372,32.05828779599271/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1857032701:0262/pct:4.771254663263303,4.9332119004250155,12.72334576870214,8.014571948998178/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5406,7 +5406,7 @@ ent modes, of a concurrence, of the general
 will of the actiou.&quot; Has this impressive les­  
 sou of practical wisdom become lost to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199276:1857040201:0697/pct:27.797450424929178,11.7865369848989,15.952549575070822,7.60174046583056/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199276:1857040201:0697/pct:20.860633964937136,8.843102124392116,11.97095803081282,5.707704120808804/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5475,7 +5475,7 @@ the Treasury by facilitating the indispensable
 anticipatious or the revenue and by atford  
 to the public more durable loans. T
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743853:1874033001:1061/pct:6.3790186125211505,96.23643227937707,53.367174280879865,17.968381311939595/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743853:1874033001:1061/pct:2.12633953750705,32.078810759792354,17.789058093626622,5.989460437313198/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5522,7 +5522,7 @@ that, in a contrary event, the wisdom of Congress
 will hasten to substitute a more commensurate  
 and certain provision for the public exigencies.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743853:1874033001:1061/pct:4.382402707275804,113.43794242567249,54.653130287648054,38.626710712600286/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743853:1874033001:1061/pct:1.460800902425268,37.81264747522416,18.217710095882683,12.875570237533427/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5564,7 +5564,7 @@ aiding the Treasury by facilitating the indispen­
 sable anticipations of the revenue, and by afford­  
 tang to the public more durable loans.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_braniff_ver01:data:sn86053573:00294558317:1874040201:0017/pct:15.983026874115984,74.11287154641875,45.82743988684583,43.105931648553096/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_braniff_ver01:data:sn86053573:00294558317:1874040201:0017/pct:3.997170145030067,18.528217886604686,11.460912628227803,10.776482912138274/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5626,7 +5626,7 @@ tionally overruled; and with a confidence that, in
 hasten to substitute a more commensurate and  
 certain provision for the public exigencies.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_braniff_ver01:data:sn86053573:00294558317:1874040201:0017/pct:12.305516265912306,117.53306272096373,48.7977369165488,50.229147571035746/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_braniff_ver01:data:sn86053573:00294558317:1874040201:0017/pct:3.07746727980191,29.38326568024093,12.203749557835161,12.557286892758937/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5769,7 +5769,7 @@ ditional demand for Treasury notes beyond
   
 what might be otherwise negotiable.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_eiffel_ver02:data:sn83045232:00295878794:1880021201:0919/pct:24.182561307901906,41.40068174775333,18.91462306993642,20.096064456151225/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_eiffel_ver02:data:sn83045232:00295878794:1880021201:0919/pct:18.146718146718147,31.050511310814997,14.194867136043607,15.07592190889371/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5822,7 +5822,7 @@ the bank would real) the full benefit of the
 grant while the public would lose the equiva­  
 lent expected from it.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_eiffel_ver02:data:sn83045232:00295878794:1880021201:0919/pct:5.631244323342416,74.12457390765417,36.98910081743869,19.739696312364426/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_eiffel_ver02:data:sn83045232:00295878794:1880021201:0919/pct:4.224392459686578,55.593430430740625,27.75380422439246,14.812519367833902/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

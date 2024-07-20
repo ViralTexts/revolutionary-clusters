@@ -99,7 +99,7 @@ in &#x27;hat way which will nt endanger the
 whole finie of the government, or any  
 tflential part of it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792092901:0001/pct:51.19515885022693,14.8861646234676,42.32980332829047,80.61879743140689/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792092901:0001/pct:51.210287443267774,14.891029383148473,42.35249621785174,80.62852695076863/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -187,7 +187,7 @@ iii be done in that way which will not en­
 dangc *be whole frame of the government, o.  
 any eflential part of it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792092901:0002/pct:4.7194719471947195,8.908772612332232,23.102310231023104,49.48453608247423/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792092901:0002/pct:4.7194719471947195,8.913635479478701,23.11056105610561,49.4893989496207/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -305,7 +305,7 @@ tain objects, and gives os a legislative and exe­
 cutive body for all these objects.”  
 STATE OF THE QUESTIO
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:0041421647A:1833010301:0148/pct:8.39184791916424,67.28104898565067,17.331734886110635,3.0430479960415635/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:0041421647A:1833010301:0148/pct:8.39041095890411,67.27272727272727,17.33447488584475,3.0467944753659038/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -328,9 +328,9 @@ merits great confidence for their learning and integrity.”—
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1848-07_23_121/page/n39/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1848-07_23_121/page/n39/mode/1up?view=theater)
 
-#### 1848-07-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1848-07-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -367,7 +367,7 @@ latarea is tbe most formidable dread at
 hat of tbe executive will come io its  
 tnrn ; but it will be at a remote period.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_deforest_ver02:data:sn84026847:00415665179:1873071001:0035/pct:73.44392248972402,59.12385073012439,11.993540810334704,4.791779340183883/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_deforest_ver02:data:sn84026847:00415665179:1873071001:0035/pct:73.44881581522803,59.13106183522625,11.998434135838716,4.788173787632955/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

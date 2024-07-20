@@ -159,7 +159,7 @@ in the Colonies.&#x27;&#x27;
   
 The soldiery of the Government being sta
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053546:00415660984:1854060501:0546/pct:16.51567944250871,63.11566748384221,13.240418118466899,3.2649877423668374/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053546:00415660984:1854060501:0546/pct:16.51567944250871,63.11938191813387,13.245063879210221,3.2687021766584947/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -178,7 +178,7 @@ hrono with the King, and talks of our subjects
 n the Colonleo.&quot;  
 The soldiery of the Government being ttaione
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1854060801:0099/pct:64.94707385326682,51.06926570779712,12.860445309648375,3.3213474640423923/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1854060801:0099/pct:64.94707385326682,51.075574060055516,12.864500953076206,3.324501640171587/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -236,7 +236,7 @@ Kames in 1776, Franklin said: &quot;America, an
 &quot;rivers, lakes, etc., must become a great coun­  
 &quot;try, populous and mighty.&quot; In No.2 of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558366:1876070401:0012/pct:249.6140350877193,175.51180075629156,43.92982456140351,8.866866605815622/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558366:1876070401:0012/pct:62.436370019308406,43.87795018907289,10.988239424258381,2.2167166514539054/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -445,7 +445,7 @@ sider himself a piece of the sovereign
 over America, thrusting himself into the  
 throne with th$ king.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_betelgeuse_ver01:data:sn90059959:0027174285A:1896011801:0059/pct:44.612005856515374,79.21009325287987,12.562225475841874,1.9418540866703236/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_betelgeuse_ver01:data:sn90059959:0027174285A:1896011801:0059/pct:44.62176671547096,79.2174072042421,12.552464616886287,1.938197110989212/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -469,7 +469,7 @@ jostle himself into the throne with
 the king, and talks of our subjects in  
 the colonies.”—United States History
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_irwin_ver01:data:sn86092518:00340582226:1898012701:0180/pct:62.65156032597893,46.38850371864364,14.510037765851719,4.890961805117862/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_irwin_ver01:data:sn86092518:00340582226:1898012701:0180/pct:62.63910969793323,46.38265691958659,14.512122416534181,4.893496344844971/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

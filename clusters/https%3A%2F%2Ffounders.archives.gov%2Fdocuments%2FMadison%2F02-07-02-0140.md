@@ -33,7 +33,7 @@ of the other, and to sail and trade with their ships and mer­
 chandise, with perfect security and liberty, from the coun­  
 tries, ports and places of those
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807022301:0382/pct:73.64110201042442,46.657971959569615,21.39488706875155,3.276817737202478/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807022301:0382/pct:73.62282878411911,46.650366748166256,21.39578163771712,3.280358598207009/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -50,7 +50,7 @@ Art 12 It shall be lawful for the citizens
 of either country to sail with their sh: ij  
 and tzzerchandlZetjconttaband goods always 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216079:1807112101:0041/pct:47.43993135011441,34.892887746358184,21.6104118993135,2.2964867180805486/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216079:1807112101:0041/pct:47.43314743314743,34.889898037871646,21.612088278754946,2.2991460314740237/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -75,7 +75,7 @@ goods always excepted) from are. port
 •whatever, to any port &lt; f the cnenn of  
 the other, and sail and trad. \ itn thei
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1807120301:0224/pct:7.556818181818182,56.638013371537724,27.8125,14.875835721107928/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1807120301:0224/pct:7.5546719681908545,56.62449271902602,27.814067973113698,14.880241903397788/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -166,7 +166,7 @@ belonging to the enemy, whether they
 be under the jurisdiction of the same  
 power, or under several ; unless suc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808020101:0336/pct:22.645393721049924,33.54933110367893,17.138445702521874,11.956521739130435/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808020101:0336/pct:22.641509433962263,33.545825060089875,17.139794168096056,11.95788483645104/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -198,7 +198,7 @@ and trade with their ships anti merchandize,
 •with perfect security and litferty, from the  
 countries, ports an-l places of those
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808070401:0425/pct:6.713478335331392,52.676923076923075,17.383113546840214,4.338461538461538/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808070401:0425/pct:6.712328767123288,52.671520869654394,17.38441780821918,4.340580453286842/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -221,7 +221,7 @@ dize with perfect srrurily nod liberty frofc the coun­
 tries, ports and places of those who are enemies of  
 both, or of either parly, without any opposition o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808112101:0219/pct:9.982129180495278,25.57986510939299,21.26627521062037,6.02072709327192/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808112101:0219/pct:9.979581419091373,25.575657894736842,21.267228177641655,6.0238486842105265/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -248,7 +248,7 @@ I and to&quot; pctass not only directly from the sipsilaces
 lct and puts of the enemy alorxsaissd, to m u­  
 nal poctrts and places, but also from on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808112201:0588/pct:52.177738671359435,57.36275469347807,22.965244170699517,10.561437850342557/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808112201:0588/pct:52.17008797653959,57.3576512455516,22.96676441837732,10.563463819691577/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -278,7 +278,7 @@ trade witii their ships and mcrchandi: e, with
 perfect security anil liberty, from the coun­  
 tries, ports, and places of those
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808120601:0251/pct:58.88361911711054,57.64735772357724,17.54834002188982,8.854166666666666/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808120601:0251/pct:58.872879810322814,57.64003556458783,17.551218919083226,8.857275921927261/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -378,7 +378,7 @@ their ships and merchandize, with perfect secu­
 rity and&#x27; liberty, from the countries, ports, and  
 places, of those who are enemies of both or o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216365:1826103001:0256/pct:25.02989238740534,30.79716563330381,18.40042513617643,5.8370239149689995/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216365:1826103001:0256/pct:25.026567481402765,30.794438048002835,18.402408784980516,5.8394591562601486/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -402,7 +402,7 @@ to sail arid trade with their slops and merchandize, with
 perfect security and liberty, from the countries, ports,  
 and places, of those who are enemies of both or of eithe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826110701:0264/pct:41.26190848039981,37.23884140550807,17.491800718413245,5.43684710351377/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826110701:0264/pct:41.255465334166146,37.23442136498517,17.49427441182594,5.440158259149357/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -449,7 +449,7 @@ ships and merchandise, with perfect security
 and liberty, from the countries, ports, and  
 places of those who are enemies
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_continental_ver02:data:sn82014760:00237288804:1861101201:0963/pct:74.07063197026022,246.46871330313706,56.319702602230485,21.87552424089918/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_continental_ver02:data:sn82014760:00237288804:1861101201:0963/pct:18.530574285049987,61.617178325784266,14.089746570564985,5.468881060224795/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -473,7 +473,7 @@ other, and to sail ami trade with their ships and
 merchandise, with peifeet security and liberty, from  
 the countries, ports, and places of those who ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172182:1861102901:0653/pct:20.68826725699336,20.27310924369748,15.818072046689474,4.486794717887155/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172182:1861102901:0653/pct:16.038471536262023,15.71561482400372,12.258903041330907,3.4811598697472474/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -497,7 +497,7 @@ other, and to sail and trade with their ships and
 merchandise with perfect security and liberty, from  
 the countries, ports, and places of those who ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172182:1861103001:0660/pct:22.54114813327981,25.72198114619183,15.897230028101164,4.503965285051623/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172182:1861103001:0660/pct:17.46953590873736,19.94201778121376,12.320456313196786,3.490529570931581/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -518,7 +518,7 @@ other, and to sail and tHide with their ships and
 merchandise w ith perfect security and libert), from  
 the countries, ports, and places of those who ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172182:1861110101:0668/pct:23.544866612772836,27.052851597491788,16.06709781729992,3.1800537473872796/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172182:1861110101:0668/pct:18.252062232431868,20.973464979944463,12.456928056802756,2.4606602900339403/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -539,7 +539,7 @@ other, and to sail and tiadewith their ships and
 merchandise with perfect security and liberty, from  
 the countries, ports, and places of those who ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172182:1861110201:0672/pct:23.100242522231206,26.901282433641516,15.844785772029102,3.146436027438115/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172182:1861110201:0672/pct:17.90748668685392,20.85596517585423,12.284640284013783,2.4384606494857275/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -597,7 +597,7 @@ and merchandize, with perfect security and liberty
 from the countries, ports, and places of those who  
 are enemies
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn86059058:00296022007:1862103101:0358/pct:123.89853137516688,148.11942613416053,48.33110814419226,22.23083882641851/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn86059058:00296022007:1862103101:0358/pct:30.97463284379172,37.02985653354013,12.082777036048064,5.557709706604627/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -622,7 +622,7 @@ and to sail and trade with their ships and mer
 chandise, with perfect security and liberty, from  
 the countries, ports, and places of those who ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_coyote_ver02:data:sn88071076:00296025161:1862112901:0294/pct:210.49528301886792,185.76039491171446,58.136792452830186,24.302259350674007/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_coyote_ver02:data:sn88071076:00296025161:1862112901:0294/pct:52.65486725663717,46.440098727928614,14.542772861356932,6.075564837668502/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -666,7 +666,7 @@ aud to sail and trade with their uhips and merchan­
 dise with perf jet security and Iibertv from the  
 countries ports and places of those who are enemu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_lee_ver01:data:sn84020109:00212470685:1863061101:0120/pct:38.9929424538545,114.5922746781116,17.41313789359392,5.579399141630901/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_lee_ver01:data:sn84020109:00212470685:1863061101:0120/pct:29.252070042079545,85.94420600858369,13.058232659155694,4.194303550526726/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -692,7 +692,7 @@ merchandise, with perfect security and liberty,
 from the countries, ports, and places of those who  
 are enemies
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn85042146:00296022822:1866112901:0434/pct:74.26425505824648,28.094592930163813,16.584917228694053,6.244611405345486/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn85042146:00296022822:1866112901:0434/pct:55.719104569150566,21.074023894568295,12.45016865992027,4.680379357063678/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -720,7 +720,7 @@ other, and to sail and trade with their ships and
 merchandise, with perfect security and liberty,  
 from the countries, ports, and places of thos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053571:00237288579:1867111301:0473/pct:221.81274900398407,205.41564097708766,50.59760956175299,24.38932020450672/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053571:00237288579:1867111301:0473/pct:55.46699875466999,51.353910244271916,12.65255292652553,6.09733005112668/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -747,7 +747,7 @@ other, and to sail and trade with their
 ships and merchandise, with perfect  
 security and liberty, from the cou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn82014296:00296022160:1869062401:0129/pct:160.35934868051658,203.34585182656195,43.121841661987645,24.354159553886422/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn82014296:00296022160:1869062401:0129/pct:40.09546539379475,50.83646295664049,10.781973887406991,6.0885398884716055/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

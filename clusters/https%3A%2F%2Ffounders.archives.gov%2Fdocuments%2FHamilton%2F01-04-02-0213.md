@@ -756,7 +756,7 @@ alarming a people too busy to criticise or complain
 by advocating measures which they themselves  
 will be most ready to lament and condemn. Wha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558329:1874081401:0166/pct:206.32911392405063,110.74615285141601,43.53023909985935,19.604293288503815/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558329:1874081401:0166/pct:51.58227848101266,27.686538212854003,10.882559774964838,4.901073322125954/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1018,7 +1018,7 @@ sary, as a defence to the people against their
 own temporary errors and delusions.&quot; Most  
 intelligent people believe that the senate ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn86071719:00280777717:1895071701:1094/pct:179.18243754731265,54.01197604790419,50.340651021953065,18.802395209580837/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn86071719:00280777717:1895071701:1094/pct:44.804088586030666,13.502994011976048,12.587544955517698,4.700598802395209/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1063,7 +1063,7 @@ d  presminence in the Government and finally
  transform it into a tyrannical aristocracy.&quot; It  
  wa o ant  i year ater the e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_stein_ver01:data:sn83030272:00175042994:1898050101:0636/pct:0.0,138.51015801354401,73.1981981981982,13.66440933032355/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_stein_ver01:data:sn83030272:00175042994:1898050101:0636/pct:0.0,34.627539503386004,18.309859154929576,3.4161023325808877/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1083,7 +1083,7 @@ sion of the people, in their collective capacity.
 from any share in the latter.&quot; We read in a  
 footnote that Adams, in one of his letters, re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043032:1898112001:0256/pct:283.05214723926383,175.50097935814375,51.15030674846626,11.511224951032093/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043032:1898112001:0256/pct:70.77660594439118,43.87524483953594,12.790028763183125,2.877806237758023/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

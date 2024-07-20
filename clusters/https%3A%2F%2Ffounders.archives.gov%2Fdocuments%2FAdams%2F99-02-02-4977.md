@@ -61,7 +61,7 @@ Victoria town, with all and singular the
 appurtenances thereunto belonging, sub-  
 ject to all the laws and sanitary regula
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn83025141:no_reel:1858070901:0877/pct:101.44927536231884,251.40749369054552,42.08266237251745,15.569792273344982/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn83025141:no_reel:1858070901:0877/pct:33.81642512077295,83.80249789684851,14.027554124172482,5.189930757781661/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -146,7 +146,7 @@ heirs , executors , administrators and assigns , forever , against the lawful cl
 WITXKSS WiiKitnor , THE PATRICK LAND COMPANY of Omaha , has caused these presents lo be signed by Us Vice-President and Secretary , and the seal ot the corporation to bo hereto  
 aflixed , this 3rd day of Jccnnbn ; A. 1) . one thousand eight hundred and cighty-c/j/M./
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_dewitt_ver01:data:sn99021999:00206539628:1888120401:0246/pct:24.353448275862068,37.031443086640124,85.45258620689656,6.261156116984759/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_dewitt_ver01:data:sn99021999:00206539628:1888120401:0246/pct:18.268367163642896,27.777014966360017,64.10993353691396,4.695867087738569/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -299,7 +299,7 @@ SIGNED, SEALED, AND DELIVERED IN THE PRESENCE OF
 RICHARD ROE,  
 JOHN DOE.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_elk_ver01:data:sn91068084:00296023243:1898020401:0431/pct:32.9873417721519,66.71717171717172,66.27848101265823,23.0/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_elk_ver01:data:sn91068084:00296023243:1898020401:0431/pct:24.75310205115219,50.04040404040404,49.721448467966574,17.252525252525253/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

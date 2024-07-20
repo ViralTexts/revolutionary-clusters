@@ -93,7 +93,7 @@ so much regarded, but the great interest of
 Agriculture will not be diminished by the  
 war. Manufactures will be promoted
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812080601:0208/pct:44.3630017452007,7.702137546468402,33.82198952879581,85.97815985130111/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812080601:0208/pct:44.355260861978714,7.701242885352538,33.821904263362995,85.97204475936036/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -151,7 +151,7 @@ regarded, l»ut the great interest ol’ Agriculture will
 not he diminished by the war. Manufactures will  
 he promoted
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812080701:0110/pct:23.771702992242336,43.744649627002566,17.879571481344662,20.80225021401492/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812080701:0110/pct:23.76731301939058,43.739300562484715,17.882425361649737,20.803782505910167/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -285,7 +285,7 @@ siderale man to support the national authorities,
 —-u I have lived to see the war that must be  
 followed by a peace if the. war is not eternal:
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812081101:0737/pct:47.68882175226586,66.8503720033067,21.49546827794562,1.386975291632222/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812081101:0737/pct:47.68161909077179,66.84423218221896,21.49725620500428,1.3899093803575802/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -486,7 +486,7 @@ Tomich regarded, but the great interclts of
 Agricoieare will not be diminished by the  
 war. Manufa@ures will Be promoted
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1812081801:0342/pct:26.67491876837382,2.912621359223301,33.82330187219557,90.27144838517931/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1812081801:0342/pct:26.680076331940793,2.9159236510138036,33.818144308628604,90.27144838517931/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -552,7 +552,7 @@ is unjust, is to me utter&#x27;s ipcomprehensible. I
 have thought it both just and necessary for five or  
 six years.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743099:1854062001:1398/pct:6.642492170759849,258.39017735334244,46.365584308554475,8.458390177353342/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743099:1854062001:1398/pct:2.2141640569199494,86.1300591177808,15.455194769518158,2.819463392451114/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

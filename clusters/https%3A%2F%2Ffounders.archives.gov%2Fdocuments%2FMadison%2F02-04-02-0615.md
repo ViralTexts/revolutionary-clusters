@@ -142,7 +142,7 @@ something about the rights of the colonists,
 &quot;Send your maxims to the London market,&quot; re­  
 torted the first consul
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_alamo_ver01:data:sn85042331:00212470843:1883031601:0527/pct:65.74358974358974,22.684532204983544,14.222222222222221,3.1147155618241653/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_alamo_ver01:data:sn85042331:00212470843:1883031601:0527/pct:65.75498575498575,22.688450086193388,14.216524216524217,3.1186334430340072/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -163,7 +163,7 @@ said something about the rights of the col­
 onists, &quot;send your maxims to the London  
 market,&quot; retorted the first consul
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_bittern_ver01:data:sn86072040:no_reel:1883042101:1404/pct:83.24966532797858,89.86552567237163,32.095046854083,11.271393643031784/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_bittern_ver01:data:sn86072040:no_reel:1883042101:1404/pct:27.749888442659525,29.95517522412388,10.698348951361,3.757131214343928/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -258,7 +258,7 @@ give you one hundred million francs,
 pay their own claims, and take the  
 whole country.” When the Ministe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685300:1885100801:0598/pct:4.663705583756345,76.53172205438067,10.770939086294415,6.332326283987915/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685300:1885100801:0598/pct:4.6629659000793025,76.52247462542292,10.77319587628866,6.334581923634606/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -353,7 +353,7 @@ with the right of sovereignty to
 some power in K.uroe whose  
 vicinity we should not fear
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_imogen_ver01:data:sn90061309:00200292194:1898121501:0023/pct:82.50978473581213,97.32655404297195,43.909001956947165,18.205674922092832/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_imogen_ver01:data:sn90061309:00200292194:1898121501:0023/pct:61.93390452876377,73.00311628669837,32.94981640146879,13.662456946039036/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

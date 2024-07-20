@@ -84,7 +84,7 @@ shall appoint their own secretary, who shall rc­
 j eeive a sum not exceeding two thousand dollar* &#x27;  
 i per annum, w ho shall keep a fair record of thei
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1815022201:0231/pct:72.39169443732376,57.29030144167759,23.019738528582415,15.563564875491481/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1815022201:0231/pct:72.37314197847257,57.28091728091728,23.020246027678112,15.565110565110565/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -213,7 +213,7 @@ of,ye&gt;sets Vf »»c, «« well as ail other matters
 connected, wjth tht? nsvsl establishment of the  
 ,United States. And the sahl hjjord shttil&gt;p^in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1815102801:0627/pct:52.13032581453634,76.84466019417475,21.453634085213032,13.462783171521036/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1815102801:0627/pct:52.11726384364821,76.8322277948552,21.454522676021046,13.464649733052903/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -235,7 +235,7 @@ secretary of the navy his control and direction of
 the naval forces ot the United i-tales, as now by  
 law possessed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1815102801:0627/pct:74.48621553884712,18.381877022653722,21.278195488721803,5.355987055016182/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1815102801:0627/pct:74.46755199198196,18.378903090114868,21.27912803808569,5.359165183627245/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -263,7 +263,7 @@ expedient ; and- the board so consiituted shall
 be attached to the office of the Secretary of the  
 Navy, and under his superintendance shall
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1816010901:0445/pct:41.81299072091363,82.41563055062167,16.231263383297645,7.598184329978291/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1816010901:0445/pct:41.81299072091363,82.42220906519307,16.236021889126814,7.598184329978291/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -363,7 +363,7 @@ other matters connected with the naval establishment
 of the United States. The second section of this act  
 also authorizes the commissioners &quot;to prepare suc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743075:1853011401:0109/pct:108.25153884545001,72.96521639306624,46.59790384295459,12.042245436804041/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743075:1853011401:0109/pct:36.08384628181667,24.321738797688745,15.532634614318194,4.014081812268014/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -390,7 +390,7 @@ viiled that the board ol commissioners shall be attached
 to the office of the Secretary of the Navy, and under his  
 superintendence shall
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661216:1853011901:0091/pct:0.8139345596614033,22.349246231155778,15.464756633566662,1.670854271356784/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661216:1853011901:0091/pct:0.8247870204568886,22.357621440536015,15.464756633566662,1.6666666666666667/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -412,7 +412,7 @@ partment. The Secretary of the Navy is, in fact, like the
 from the President.&quot; The chicfs of bureaus and the Se­  
 cretary take shelter from responsibility under him ; while
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1853012201:0487/pct:65.53371553371554,51.63644167829166,15.233415233415233,3.948921558107093/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1853012201:0487/pct:65.53826553826553,51.63644167829166,15.233415233415233,3.956075401509461/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

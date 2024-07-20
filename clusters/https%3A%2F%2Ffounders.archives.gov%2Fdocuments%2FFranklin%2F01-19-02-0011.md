@@ -586,7 +586,7 @@ ciple to pay the interest, and against
 his interest to pay the principle, he did  
 neither the one nor the other.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00212470491:1869051301:0500/pct:219.47115384615384,155.65275016567264,51.20192307692308,9.436713055003313/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00212470491:1869051301:0500/pct:54.86778846153846,38.91318754141816,12.80048076923077,2.3591782637508283/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -619,7 +619,7 @@ the interest, and against his interest to pay
 the principle, ho paid neither the one nor  
 the other.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349499:1870020401:0293/pct:3.0097569042500414,37.65867418899859,11.42715396064164,10.578279266572638/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349499:1870020401:0293/pct:3.009259259259259,37.65384615384615,11.429398148148149,10.580128205128204/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

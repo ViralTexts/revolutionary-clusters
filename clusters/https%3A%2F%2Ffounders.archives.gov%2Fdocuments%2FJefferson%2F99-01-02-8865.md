@@ -62,7 +62,7 @@ To Andrew Jackson, President of the United;
 States of America, the memorial of the subscri­  
 bers, a committee appointed at a general meet
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1829052201:0022/pct:6.166303332295235,33.00993300993301,14.995328558081594,1.4553014553014554/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1829052201:0022/pct:6.1653432975245215,33.00612079916849,14.99818361098137,1.4589829464526312/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

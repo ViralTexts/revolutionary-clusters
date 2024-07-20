@@ -266,7 +266,7 @@ said Attorney shall do in and about the premises by yirtue hereby.
 On testimony whereby, I have hereunto set my hand and seel,  
 this 24th day of November, 1851, signed, sealed and delivered i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293290:1860051601:0469/pct:117.34296831573096,242.23208623969563,43.85769872151195,4.607905305432255/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293290:1860051601:0469/pct:29.33574207893274,60.55802155992391,10.964424680377988,1.1519763263580638/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -346,7 +346,7 @@ as I might ce could do, if I warc persensllg
 pretent, or if the matter requlrad mers  
 authority than this here given, and attorntykw
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_idacox_ver02:data:sn85042527:00202193997:1866011201:0108/pct:241.87208527648235,221.49716818517606,51.98201199200533,46.42945087416892/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_idacox_ver02:data:sn85042527:00202193997:1866011201:0108/pct:80.62402842549412,73.83238939505868,17.327337330668442,15.476483624722974/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -372,7 +372,7 @@ tute shall lawfully do or cause to be done by virtue
 hereof. In withess whereof I have hereunto set m  
 hand and seal the fourteenth day of April, in the yea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:0020653347A:1876041601:0970/pct:211.9402985074627,90.63052445492045,49.25373134328358,14.614024749558043/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:0020653347A:1876041601:0970/pct:52.985074626865675,22.657631113730112,12.313432835820896,3.6535061873895107/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -413,7 +413,7 @@ United Staten Navy, at trthe so pne giving and grant
 unto asthd attorney by these presents, iull and en  
 power and authority, in and about the premises;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crowfoot_ver01:data:sn83030313:00271743968:1877080901:0470/pct:251.32386180174362,174.67606274153218,46.835647400710364,29.427142532393727/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crowfoot_ver01:data:sn83030313:00271743968:1877080901:0470/pct:83.7746206005812,58.225354247177386,15.611882466903454,9.809047510797908/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -488,7 +488,7 @@ cause to be done by virtue hereof, and
 revoking any authority heretofore given  
 to any other person
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_americanrobin_ver01:data:2010270509:00517013894:1891041601:0552/pct:78.15533980582525,64.42663378545006,15.233472029588535,8.153514180024661/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_americanrobin_ver01:data:2010270509:00517013894:1891041601:0552/pct:78.13727755951005,64.41670519340423,15.235729142593021,8.15611034057636/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

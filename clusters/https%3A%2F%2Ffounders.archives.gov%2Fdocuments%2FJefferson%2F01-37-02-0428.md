@@ -36,7 +36,7 @@ appinteto hemyro tect.A
 oastoe faor ofe brndgswe ato buiins oft  
 Whilld you. Alsod et of diningoul hav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_havanese_ver01:data:sn83045462:00280655144:1897061201:0114/pct:56.40007562866327,36.606026940702684,13.93458120627718,28.59325093736981/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_havanese_ver01:data:sn83045462:00280655144:1897061201:0114/pct:56.40952921157118,36.60949868073879,13.948761580639061,28.596722677405914/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -65,7 +65,7 @@ half past threa? Accept my friendly and
 respectful salutations.  
 &quot;TH. JEFFERSON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_charlie_ver01:data:sn87075213:00237283818:1897080601:0894/pct:67.55226480836237,54.881062712388015,18.597560975609756,9.499536607970343/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_charlie_ver01:data:sn87075213:00237283818:1897080601:0894/pct:50.686125027227185,41.16465863453815,13.940318013504683,7.136237256719184/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -95,7 +95,7 @@ half past three? Accept my friendly and
 respectful salutation*.  
 &quot;TH. JEFFERSON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_agate_ver01:data:sn86074063:00383343616:1897081101:0595/pct:86.95876288659794,56.26272912423625,11.1340206185567,5.995417515274949/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_agate_ver01:data:sn86074063:00383343616:1897081101:0595/pct:86.94382408520873,56.255568283059695,11.136402679951898,5.997836324296806/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -127,7 +127,7 @@ half past three? Accept my friendly and
 respectful salutations.   
 &quot;TH. JEFFERSON.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_gardevoir_ver02:data:sn87057928:00340584417:1897081201:0251/pct:57.80317243731878,30.109622411693056,15.79396213542555,8.099878197320342/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_gardevoir_ver02:data:sn87057928:00340584417:1897081201:0251/pct:50.57705700925281,26.349071014956127,13.839418963287235,7.083732992291023/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -157,7 +157,7 @@ half past three? Accept my friendly and
 respectful salutations.  
 &quot;TH. JEFFERSON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_honda_ver01:data:sn85025620:0021247938A:1897081201:0257/pct:56.18542306618263,16.46367072658547,12.049706785814019,6.5728685426291475/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_honda_ver01:data:sn85025620:0021247938A:1897081201:0257/pct:56.18542306618263,16.46717065658687,12.059015172670577,6.576368472630548/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -188,7 +188,7 @@ half past three? Accept my friendly and
 respectful salutations.   
 “TH. JEFFERSON.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033255:00514152536:1897081201:0764/pct:45.3377538334024,25.843447277586016,9.72510015195469,22.792562075492707/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033255:00514152536:1897081201:0764/pct:45.3377538334024,25.84715881676131,9.72510015195469,22.796273614668003/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -217,7 +217,7 @@ hulf past three? Accept my friendly and
 respectful salututlons.  
 &quot;TH. JEFFERSON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_gibson_ver01:data:2010270508:00237280593:1897081301:0710/pct:32.68109908409659,27.78538187790857,22.772689425478767,10.416096359156857/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_gibson_ver01:data:2010270508:00237280593:1897081301:0710/pct:24.531445231153686,20.845880098549138,17.076218242399,7.815494114426499/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -246,7 +246,7 @@ half past three? Accept my friendly and
 respectful salutations.  
 TH. JEFFERSON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_braeburn_ver01:data:sn85034374:00295877856:1897081401:0281/pct:195.30558015943313,65.89414343877232,49.867139061116035,26.30754776072659/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_braeburn_ver01:data:sn85034374:00295877856:1897081401:0281/pct:48.84802835622508,16.47353585969308,12.472308373947719,6.576886940181647/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -276,7 +276,7 @@ half past three? Accept my friendly ani
 respectful salutations.  
 &quot;TH. JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_finney_ver02:data:sn83040198:00212473510:1897081901:0072/pct:32.63715710723192,41.251795117281,20.99438902743142,10.710866443274293/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_finney_ver02:data:sn83040198:00212473510:1897081901:0072/pct:21.764889304646086,27.501196744853996,14.000623635796694,7.1445667783628535/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -306,7 +306,7 @@ haif past three? Accept my friendly anc
 | respectful salutations,  
 # “TH. JEFFERSON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_kokomo_ver01:data:sn90051185:00513681082:1897082001:0112/pct:19.760765550239235,15.259446754655578,12.703349282296651,6.617248237208462/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_kokomo_ver01:data:sn90051185:00513681082:1897082001:0112/pct:19.778708133971293,15.268486711263787,12.691387559808613,6.617248237208462/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -336,7 +336,7 @@ half past three Accept my friendly and
 respectful salutations  
 TH JEFFERSO
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_batman_ver01:data:sn86069395:00206533213:1897082401:0567/pct:26.88976377952756,55.31441291040623,19.015748031496063,9.668892598775738/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_batman_ver01:data:sn86069395:00206533213:1897082401:0567/pct:20.185112248916898,41.48580968280467,14.277274517526585,7.262103505843072/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -396,7 +396,7 @@ half past three? Accept my friendly and
 respectful salutations.  
 &quot;TH. JEFFERSON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_krypton_ver01:data:sn88076086:00199918382:1897090401:1007/pct:64.17957635156498,25.945945945945947,13.863420803035094,7.395054629097182/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_krypton_ver01:data:sn88076086:00199918382:1897090401:1007/pct:64.17957635156498,25.945945945945947,13.868690062177258,7.395054629097182/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -384,7 +384,7 @@ a ‘Time of War, now behold a standing Army,
 posted, in a Time of Peace, in the Metropolis of  
 one of our principal Provinces ! Yea, and th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015076:1768111101:0179/pct:35.70190641247834,19.323741007194243,28.48786828422877,10.172661870503598/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015076:1768111101:0179/pct:35.71634893125361,19.32853717026379,28.495089543616405,10.172661870503598/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -408,7 +408,7 @@ ous revolution by WILLIAM the third. It
 stands recorded, as one of the firt things done,  
 after that friend to the common Rights of man­
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015076:1768122301:0204/pct:9.420591913297207,5.997267759562842,27.63651521467278,9.986338797814208/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015076:1768122301:0204/pct:9.420591913297207,6.001821493624773,27.63651521467278,9.981785063752277/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -430,7 +430,7 @@ And the claim now set up is)no more than a revival of those prero­
 gatives, which ARBITRARY MonArcHS formerly a’erted to be  
 | inberent in&#x27;the Crown. lln the fame light, T view the Board of Com
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015076:1770020901:0414/pct:65.66970091027308,84.12769116555307,29.28045080190724,5.820341499628805/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015076:1770020901:0414/pct:65.66970091027308,84.12769116555307,29.287675191446322,5.820341499628805/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -649,7 +649,7 @@ gainst the king or his forces, without any force from
 within, lord Hale conceiveth will not amount to  
 treason.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807090901:0715/pct:50.085931745642036,22.256,21.188313282592684,5.888/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807090901:0715/pct:50.07363770250368,22.252439609662453,21.189248895434464,5.89105743081107/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1008,7 +1008,7 @@ doth kill another; which formed design i
 the United Kingdom of Great Britain and Ireland, unless  
 it be with the consent of Parliament, is against law, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184613:1843013101:0104/pct:53.29732802728823,48.76693296283432,37.833996588971004,3.3808035197406507/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184613:1843013101:0104/pct:17.763251385533607,16.25376244501042,12.609540050210791,1.1268040441460214/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1030,7 +1030,7 @@ land; unless it be with the consent of Parliament, is a
 gainst loe, and whereas it is judged necessary by his  
 Majesty and his present Parliament that a body of force
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347892:1843021301:0636/pct:203.50067320638584,118.12555260831122,62.492787074437395,15.870910698496905/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347892:1843021301:0636/pct:50.86538461538461,29.52703698246648,15.620192307692308,3.967143067629291/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1179,7 +1179,7 @@ cusable and felonious. The first has no share
 of guilt whatever; the second, very little;  
 but the third is the highest crime against th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_angelou_ver01:data:sn83030362:print00211110016:1848043001:0001/pct:84.60027202659816,44.99125364431487,9.566268701828623,1.5626822157434401/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_angelou_ver01:data:sn83030362:print00211110016:1848043001:0001/pct:84.60782832099139,45.0,9.566268701828623,1.5685131195335278/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1233,7 +1233,7 @@ March, 1834, parsed a Resolution that the Phesideht, in
 undertaking, in the receaa of Congress, to remove the public  
 money from deposite in the Bank of the United States, ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848080501:0278/pct:82.49032812723885,51.656455638756526,15.8762000286574,5.50260948491037/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848080501:0278/pct:82.49032812723885,51.656455638756526,15.885752495581984,5.510173209288253/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1276,7 +1276,7 @@ duced against him, for the law presume J.
 the fact lo be founded in malice, until-the  
 contrary appears.&#x27;? It hs been de
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85038078:00269026803:1849080701:0811/pct:105.87188612099644,55.949029485849756,20.062277580071175,10.460809008742036/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85038078:00269026803:1849080701:0811/pct:79.4392523364486,41.961772114387315,15.064530485091232,7.853015261520225/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1297,7 +1297,7 @@ i. ; have arms for their defence, suitable to lh?*ir | (1&quot;
 &gt;1 ! condition, and as allowed by law. VIII. That he  
 elections of members of Parliament ought to be ?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn85042796:00295863080:1849102401:0394/pct:17.502306982466934,14.65777012483857,17.70224546293448,4.0464916056823075/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn85042796:00295863080:1849102401:0394/pct:17.512560237875526,14.661357440091836,17.707372090638778,4.053666236188836/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1368,7 +1368,7 @@ It is below the grade of murder, being wanting in
 those ingredients of deliberation and malice re­  
 quisite to constitute that high crime, and attende
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn94060040:00393348409:1852061101:0627/pct:18.842530282637956,27.691882937603534,14.997115939242454,7.537272225289895/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn94060040:00393348409:1852061101:0627/pct:18.838908112264512,27.688060731538993,14.999038831218762,7.5396825396825395/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1395,7 +1395,7 @@ ment is affixed. It is below the grade of mur­
 der-being wanting in those ingredients of de­  
 liberation and malice requisite to constitute tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_emeralds_ver02:data:sn85025007:00414215889:1852061501:0008/pct:45.04597485456934,6.228680583981443,12.713454681929067,5.867103288306727/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_emeralds_ver02:data:sn85025007:00414215889:1852061501:0008/pct:45.041748756919034,6.228255679104986,12.715389185977422,5.868976965231826/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1556,7 +1556,7 @@ heart, would be guilty of such an act upon a
 slighter no apparent cause. And where one is  
 killed in consequence of such a wilful act, n
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn82014998:00279557980:1861071301:0121/pct:2.86128214415067,62.753950338600454,14.596160811300253,2.9345372460496613/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn82014998:00279557980:1861071301:0121/pct:2.8658094893154655,62.763909175408315,14.60974284679464,2.9312176337803746/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1578,7 +1578,7 @@ prisoner, unless they arise out of the evidence against
 him; for the law presumeth the fact to have been  
 founded in malice, until the contrary appeareth.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_junebug_ver01:data:sn84020047:00415661885:1861101801:0080/pct:181.140350877193,187.10613052076468,54.3859649122807,10.441661173368491/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_junebug_ver01:data:sn84020047:00415661885:1861101801:0080/pct:45.314900153609834,46.77653263019117,13.605442176870747,2.6104152933421227/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1941,7 +1941,7 @@ splitting lawyers may object to these old
 English precedents, but they are founded upon  
 reason and justice. The object of all laws i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743749:1871052601:0748/pct:147.97232056646283,141.33680162859082,46.84583199227551,18.7966523410993/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743749:1871052601:0748/pct:49.32410685548761,47.11226720953027,15.615277330758502,6.265550780366433/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2024,7 +2024,7 @@ peace, of which the probable consequence might
 be bloodsked, as to beat a man, or to commit a riot,  
 and one of them killr a man, it is murder in the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fortran_ver01:data:sn83030214:00206531095:1871122301:0829/pct:2.243113969981857,251.2113905155586,49.38149430974765,8.416580548857503/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fortran_ver01:data:sn83030214:00206531095:1871122301:0829/pct:0.747704656660619,83.73713017185287,16.460498103249215,2.805526849619168/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2120,7 +2120,7 @@ that no one unless of an abandoned heart would I
 guilty of such an act upon a slight or no apparent caust  
 MALICE HNFERRED FROM THE KILLIN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grass_ver01:data:sn83030214:00206531149:1873050801:0060/pct:105.63860903477413,119.17871071346639,45.88885277868053,9.11906400550585/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grass_ver01:data:sn83030214:00206531149:1873050801:0060/pct:35.212869678258045,39.7262369044888,15.296284259560178,3.0396880018352834/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2143,7 +2143,7 @@ the deed. It is at common law implied from any de-­
 liberate, cruel act whereby a man kilis another without  
 any or any considerable provocation, for it is held tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743828:1873050801:0555/pct:105.12358814863316,114.84111279245722,46.09592404648879,9.370271214061226/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743828:1873050801:0555/pct:35.04119604954439,38.280370930819075,15.365308015496263,3.123423738020409/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2163,7 +2163,7 @@ established by the prisoner, unless they arise out of the
 evidence produced against him, for the law presumes the  
 fact to be founded on malice, unless the contrary appears
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743828:1873050801:0555/pct:105.238173187101,138.30753113723665,45.88312326076281,6.425328832499127/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743828:1873050801:0555/pct:35.079391062367,46.10251037907888,15.29437442025427,2.141776277499709/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2244,7 +2244,7 @@ keeping a standing army within the kingdom
  of Parliament, is against law.&quot; I might  
  cupy the time of the House for hours in readin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:0020653350A:1877111701:0372/pct:4.009077155824508,189.09746208139362,73.29803328290468,13.335335635981378/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:0020653350A:1877111701:0372/pct:1.0028382213812677,47.274365520348404,18.334910122989594,3.3338339089953446/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2620,7 +2620,7 @@ for no person, unless of an abandoned heart,
 would be guilty of such an act upon a  
 slight, or no apparent cause.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_bearcat_ver02:data:sn84022144:0041562492A:1879120601:0346/pct:36.92937123169681,53.16844724132884,14.814814814814815,4.551441533733353/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_bearcat_ver02:data:sn84022144:0041562492A:1879120601:0346/pct:36.92937123169681,53.16844724132884,14.841731266149871,4.566076393970437/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2672,7 +2672,7 @@ of reports and judicial decisions pre­
 served and banded down to us from  
 times of the highest antiquity.&quot; S
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033673:00280779489:1880120701:1158/pct:5.818965517241379,57.633946555659996,15.066614420062695,9.802605075869478/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033673:00280779489:1880120701:1158/pct:4.369978444052518,43.225459916744995,11.307074270037234,7.358667919967773/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2755,7 +2755,7 @@ for no person, unless of an abandoned
 heart, would be guilty of such an act  
 upon a slight or no apparent cause.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_avenger_ver01:data:sn91099608:00415665374:1881122701:0662/pct:27.829719514621047,83.9033903390339,15.197931171672966,5.325532553255326/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_avenger_ver01:data:sn91099608:00415665374:1881122701:0662/pct:22.2640708715718,67.12937034962798,12.174420455148269,4.256340507240579/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2878,7 +2878,7 @@ at the root; this is the nest,” rushed &lt;o King
 srreetandassaulted the picketguard of Capt.  
 Preston’s company. The soldiers fired i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ferguson_ver01:data:sn83027102:00211664459:1887052801:0207/pct:62.70627062706271,72.74257544787784,14.422442244224422,2.585066730792353/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ferguson_ver01:data:sn83027102:00211664459:1887052801:0207/pct:62.70627062706271,72.74658330327442,14.422442244224422,2.5930824415855076/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2905,7 +2905,7 @@ Preston’s company. The soldiers fired i
 diers is to attack the main guard ;  
 strike at the root; this is the nest,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_debaptiste_ver01:data:sn83016655:00211664174:1888112401:0210/pct:70.76584164830894,50.783214078514796,12.219774523778671,1.7114678011989943/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_debaptiste_ver01:data:sn83016655:00211664174:1888112401:0210/pct:70.77016111615049,50.783214078514796,12.224093991620233,1.7179140076065236/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2924,7 +2924,7 @@ is to attack the main guard; strike at the root;
 this is the nest.” with more valor than discre­  
 tion, they rushed to King street, and were tire
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ferguson_ver01:data:sn83035386:00211664496:1888122201:0524/pct:32.3650234741784,24.354633939906897,11.810446009389672,1.618705035971223/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ferguson_ver01:data:sn83035386:00211664496:1888122201:0524/pct:32.36991392801252,24.35816053039921,11.810446009389672,1.618705035971223/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2964,7 +2964,7 @@ Iho latr of nature thai man is capable of commit­
 ting  
 An example of justifiable homicide would b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_airplane_ver01:data:sn87060004:00100481649:1893022301:0188/pct:37.68369489153254,121.02179836512262,14.695591322603219,4.577656675749319/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_airplane_ver01:data:sn87060004:00100481649:1893022301:0188/pct:28.276465441819774,90.77316076294278,11.023622047244094,3.433242506811989/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3093,7 +3093,7 @@ against another suddenly, without any,
 or without any considerable provoca?  
 tion
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_orange_ver01:data:sn85025715:00175031510:1896021101:0753/pct:1.6123316796598157,45.24482109227872,13.926293408929837,3.766478342749529/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_orange_ver01:data:sn85025715:00175031510:1896021101:0753/pct:1.6182376565083865,45.25528353211969,13.926293408929837,3.766478342749529/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3133,7 +3133,7 @@ law.- The first standing army in Eng­
 land was that of Charles the Fourtu  
 and consisted of only one thousan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_andersonpink_ver02:data:sn86063760:00294550604:1896070801:0005/pct:24.925941599661446,59.32730923694779,12.187896741430386,4.046184738955823/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_andersonpink_ver02:data:sn86063760:00294550604:1896070801:0005/pct:24.925941599661446,59.33065595716198,12.1925988620868,4.049531459170013/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3151,7 +3151,7 @@ main guard! Strike at the root! This is the
 nest!&#x27; with more valor than discretion they  
 rushed to King street and were fired upon b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:0017504291A:1897012401:0324/pct:177.99530148786218,311.593096074538,51.605324980422864,6.1707652359859475/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:0017504291A:1897012401:0324/pct:44.52497551420176,77.8982740186345,12.908912830558275,1.5426913089964869/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3242,7 +3242,7 @@ places of strength is, and by the laws
 of England ever was the undounten  
 right of his majesty&quot;; and in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_avocet_ver01:data:sn84036012:00294550161:1898050901:0627/pct:89.61593172119488,19.406779661016948,38.72688477951636,23.43220338983051/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_avocet_ver01:data:sn84036012:00294550161:1898050901:0627/pct:29.871977240398294,6.468926553672317,12.908961593172119,7.8107344632768365/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3287,7 +3287,7 @@ strength is, and by the laws of England
 ever was, the undoubted right of hfs maj­  
 esty;” and in 1662 Charles II. issued certai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_brown_ver01:data:sn86072192:00340583322:1898052201:0415/pct:50.45652173913044,87.32649366324684,14.369565217391305,3.1231140615570308/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_brown_ver01:data:sn86072192:00340583322:1898052201:0415/pct:50.44555531406216,87.31332025946598,14.371875679200175,3.126414240458591/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3307,7 +3307,7 @@ and places of strength. Is, and by the
 laws of England ever was, the undoubted  
 right of his majesty.&quot; and in 1662 Charle
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_edwards_ver01:data:sn86063615:00211109154:1898052901:0631/pct:59.95457986373959,93.37240128366122,16.616199848599546,2.8184735593693317/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_edwards_ver01:data:sn86063615:00211109154:1898052901:0631/pct:44.99147888657451,70.02930096274592,12.47869721643628,2.120831589228408/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3352,7 +3352,7 @@ and three white heroes who died on the same
 day and were buried in the same grave, the  
 poet says:
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_bouie_ver01:data:sn84025902:00211663753:1899070101:0104/pct:23.26304873833391,50.798942407173236,14.690632561354995,5.517875617887113/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_bouie_ver01:data:sn84025902:00211663753:1899070101:0104/pct:23.268809770710913,50.798942407173236,14.696393593731997,5.521707475955091/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

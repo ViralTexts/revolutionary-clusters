@@ -55,7 +55,7 @@ r«l iuax.ni ot •• intii# m intict, loti* ut uioii*/
 Neft,mg, | think, would lie so bk* ly to pffci  
 Inis, os fo your • c| ( 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1819020401:0344/pct:4.977748475358497,78.40731384578372,14.735454095928795,13.19619872488873/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1819020401:0344/pct:4.976928147659855,78.39788308876594,14.73851900681169,13.198620800256595/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -187,7 +187,7 @@ cqual end commanding benches f science,
 will exhibit them as equal objects of respect  
 and power.” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1819021701:0851/pct:50.69821567106284,36.68743387798284,21.373157486423583,23.54531562242859/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1819021701:0851/pct:50.704680630980086,36.69135221974061,21.379622446340832,23.54531562242859/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -408,7 +408,7 @@ these objections, but I freely declare I have j
 found none.  
 The very high regard I entertain for yourself
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn84022882:00414212426:1855091801:0267/pct:39.31246655965757,4.2999006951340615,23.14071696094168,92.85998013902682/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn84022882:00414212426:1855091801:0267/pct:39.30720877357229,4.299473736471056,23.140965627925638,92.8532419819283/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

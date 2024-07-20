@@ -161,7 +161,7 @@ or oblong figure of 72
 feet 9 inches, by 108 feet  
 IHEYOnt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deltaair_ver01:data:sn86053570:00237288853:1864021501:0176/pct:41.74573055028463,140.06586169045005,30.64516129032258,50.78668130259788/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deltaair_ver01:data:sn86053570:00237288853:1864021501:0176/pct:10.438908659549229,35.01646542261251,7.6631079478054565,12.69667032564947/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -195,7 +195,7 @@ or oblong figure of 72
   
 ee ee e e oe eo 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deltaair_ver01:data:sn86053570:00237288853:1864022201:0204/pct:25.901328273244783,152.9780564263323,47.34345351043643,35.25723769131477/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deltaair_ver01:data:sn86053570:00237288853:1864022201:0204/pct:6.479943033467838,38.244514106583075,11.844291478756231,8.814309422828693/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -234,7 +234,7 @@ in extent.
 oe  i ea e    
  Beginning for the same o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deltaair_ver01:data:sn86053570:00237288853:1864022901:0232/pct:16.524216524216524,148.7074576901618,52.421652421652425,41.584526687744095/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deltaair_ver01:data:sn86053570:00237288853:1864022901:0232/pct:4.13203514604607,37.17686442254045,13.108525290904772,10.396131671936024/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -268,7 +268,7 @@ making a parallelogram
 or oblong figure of 72  
 feet 9 inches, by 103 fee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deltaair_ver01:data:sn86053570:00237288853:1864030701:0261/pct:47.12430426716141,152.8718703976436,30.333951762523192,34.90427098674521/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deltaair_ver01:data:sn86053570:00237288853:1864030701:0261/pct:11.786542923433874,38.2179675994109,7.587006960556844,8.726067746686303/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -298,7 +298,7 @@ or oblong figure of 72
 feet a inches, by 103 fest  
 in sxtent.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deltaair_ver01:data:sn86053570:00237288853:1864032101:0317/pct:37.41690408357075,158.09037900874637,30.959164292497626,27.332361516034986/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deltaair_ver01:data:sn86053570:00237288853:1864032101:0317/pct:9.356447399667537,39.52259475218659,7.741629066729993,6.8330903790087465/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -343,7 +343,7 @@ r oblong figure of 72
 feet 9 inches, by 108 feet  
 in extent
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deltaair_ver01:data:sn86053570:00237288853:1864032801:0345/pct:37.3320537428023,134.79228486646883,31.381957773512475,52.596439169139465/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deltaair_ver01:data:sn86053570:00237288853:1864032801:0345/pct:9.339735894357743,33.69807121661721,7.851140456182473,13.149109792284866/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -386,7 +386,7 @@ or oblong fgure of 7a
 feet 9 inches, by 108 feet  
 in extent
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deltaair_ver01:data:sn86053570:00237288853:1864041101:0402/pct:27.98507462686567,138.22222222222223,45.615671641791046,49.111111111111114/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deltaair_ver01:data:sn86053570:00237288853:1864041101:0402/pct:6.99953336444237,34.55555555555556,11.409239384041063,12.277777777777779/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -421,7 +421,7 @@ or oblong figure of 72,
 feet 9 inches, by 108 feet!  
 ? in extent
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deltaair_ver01:data:sn86053570:00237288853:1864042501:0458/pct:22.389463781749765,157.27941176470588,47.69520225776105,36.39705882352941/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deltaair_ver01:data:sn86053570:00237288853:1864042501:0458/pct:5.601317957166392,39.31985294117647,11.932219345728406,9.099264705882353/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -471,7 +471,7 @@ said street, thence to be­
 ginuln gh ting the street,  
 572 .A e imp. Anderson, Elizabeth, and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deltaair_ver01:data:sn86053570:00237288853:1864050201:0487/pct:11.819021237303787,145.86466165413535,56.32502308402585,62.943071965628356/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deltaair_ver01:data:sn86053570:00237288853:1864050201:0487/pct:2.955437543292542,36.46616541353384,14.084507042253522,15.735767991407089/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -545,7 +545,7 @@ namely, all those certain lots and premises with
 the buildings thereon situate lying and being  
 in the First Ward of the city of New York
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:0020653350A:1878021901:0817/pct:109.38682816048448,51.86617100371747,50.340651021953065,15.226765799256505/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:0020653350A:1878021901:0817/pct:27.362241999621283,12.966542750929367,12.59231206210945,3.806691449814126/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

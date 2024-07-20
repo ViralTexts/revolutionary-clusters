@@ -916,7 +916,7 @@ Storm, .
 SCHOOL  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791042301:0789/pct:49.61277831558567,32.84018858722159,41.77153920619555,59.95773045033328/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791042301:0789/pct:49.620845434010974,32.84560776025579,41.77153920619555,59.96314962336747/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1633,7 +1633,7 @@ or twice over the surface, you will have
 a perfect fuc-simile struck through the  
 copy paper without injuring the origina
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021521:00514152718:1834090601:0010/pct:18.902643024422883,19.69057665260197,15.038474406155904,7.067510548523207/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021521:00514152718:1834090601:0010/pct:18.913795026207204,19.694483513048915,15.044050407048065,7.067510548523207/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1703,7 +1703,7 @@ sheets of the same paper to absorb the
 superfluous moisture; then put the  
 moistened paper on the writing, whe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn85054702:00280776002:1840121901:0080/pct:135.13513513513513,121.76611651854986,58.708708708708706,29.05910565665115/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn85054702:00280776002:1840121901:0080/pct:33.80281690140845,30.441529129637466,14.685446009389672,7.264776414162787/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1810,7 +1810,7 @@ Back on herself, and startles at destruction?
 Tis the divinity that &#x27;tis within us:  
 T is heaven itself that points out an hereafter
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:0027174318A:1843091801:0336/pct:101.61685448309652,61.210407239819006,46.970439327127224,13.404977375565611/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:0027174318A:1843091801:0336/pct:33.87228482769884,20.40346907993967,15.656813109042409,4.468325791855204/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1836,7 +1836,7 @@ Back on herself, and startles at destruction?
 Tis the divinity that &#x27;tis within us:  
 &quot;T is heaven itself that points out an hereafter
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:0027174318A:1843091901:0340/pct:103.35038785278098,129.59981861466954,47.499587390658526,12.685636549144087/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:0027174318A:1843091901:0340/pct:34.45012928426033,43.19993953822318,15.833195796886175,4.228545516381363/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2011,7 +2011,7 @@ startles at destruction. &#x27;Tis the divinity
 that stirs within us. &#x27;Tis Heaven itself that  
 points out a hereafter, and intimates etern
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn87065697:00295877601:1853040801:0112/pct:47.36767216846898,79.75387907972177,19.080819578827548,7.608346709470305/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn87065697:00295877601:1853040801:0112/pct:35.544483985765126,59.81808453718566,14.320284697508896,5.703584804708401/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2098,7 +2098,7 @@ offalling into nought! Why shrinks the soul
 Back on herself, and startles at destruction?  
 Tis the toddy stirs within us-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293241:1857102701:0408/pct:27.145169994603346,377.7824006656959,39.61144090663788,10.443103806948201/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293241:1857102701:0408/pct:6.78904035632339,94.44560016642397,9.906870022945068,2.6107759517370503/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2179,7 +2179,7 @@ Back ou itself, and startles at destruction?
 ’Tis the divinity that stirs within us;  
 ’Tis heaven itself that points out an hereafter
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn90059500:00383347191:1859022601:0039/pct:5.713209442491211,50.17102615694165,10.359116022099448,4.517102615694165/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn90059500:00383347191:1859022601:0039/pct:5.713209442491211,50.17437961099933,10.363301523522518,4.517102615694165/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2227,7 +2227,7 @@ And pleased the Almighty&#x27;s orders to perform,
 Rides in the whirlwind and directs the storm.  
 in fact the most elevating part of literature is du
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271743403:1862022301:0439/pct:22.24926971762415,242.900127300081,42.08049334631613,8.702696447170466/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271743403:1862022301:0439/pct:7.416423239208049,80.966709100027,14.02683111543871,2.900898815723489/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2461,7 +2461,7 @@ Put the moistened paper on the writ­
 ing, place both between some soft  
 paper, and roll upon a ruler a fe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159361:1868072801:0460/pct:39.949447918052414,34.93032244939477,10.695756285752294,5.299562608076493/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159361:1868072801:0460/pct:39.949447918052414,34.93710371952667,10.704625072058889,5.302953243142441/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2560,7 +2560,7 @@ Back on herself, and startles at destruction ?
 *Tis the divinity that stirs within ns;  
 ‘Tia Heaven itself that points out a hereafter
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_henson_ver01:data:sn83016107:00415625509:1874090401:0143/pct:66.40481363864282,24.99006227640122,14.106635467156945,3.9353385451172653/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_henson_ver01:data:sn83016107:00415625509:1874090401:0143/pct:51.46804835924007,19.37427260902307,10.932642487046632,3.0567536112822618/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2583,7 +2583,7 @@ in question is printed under the heading, &quot;Ac­
 count of a Method of Destroying Caterpillars on  
 Gooseberry Bushes; from the Prize Essays of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558330:1875063001:0683/pct:102.00970200970201,285.2142581392356,43.58974358974359,13.383090979281945/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558330:1875063001:0683/pct:25.506844567665915,71.3035645348089,10.899324207243112,3.3457727448204864/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2636,7 +2636,7 @@ Calm and serene, he drives the fnrfoaa blast,
 And pleased the Almighty&#x27;s orders to perform.  
 Hides in the whlilwlnd and directs the storm
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555663:1878051601:0330/pct:94.98168498168498,95.20718232044199,13.406593406593407,2.596685082872928/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555663:1878051601:0330/pct:71.27152803224624,71.40883977900552,10.05862953462807,1.9475138121546962/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2687,7 +2687,7 @@ flush?
 &#x27;Tis the dyspepsia that stirs within us;  
 Tis that last cocktall that makes me ne
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_palisade_ver02:data:sn84022046:00279554012:1881033001:0299/pct:19.331142470520007,122.10741165965047,50.4349507055867,22.464600076540375/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_palisade_ver02:data:sn84022046:00279554012:1881033001:0299/pct:4.831851565519907,30.522959183673468,12.606300734441438,5.615433673469388/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2830,7 +2830,7 @@ Tls tbe Divinity tbat stirs within in ;
 &#x27;Tis Heaven Itself that points out a hereaf  
 te
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brockovich_ver02:data:sn85032575:00237281895:1883091301:0440/pct:80.2929234338747,81.54257172726217,11.731438515081207,9.350679521431061/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brockovich_ver02:data:sn85032575:00237281895:1883091301:0440/pct:60.23205221174764,61.156928795446625,8.803480783176214,7.01591357881287/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2879,7 +2879,7 @@ Hack on herself and startles at destruction ?
 &#x27;Tis the divinity that stirs within ?m ;  
 1 &#x27;Tin heaven itself that points out an hercafte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kingjulius_ver01:data:sn93067668:00202193961:1884100101:0003/pct:29.666958808063104,84.8335811506348,15.483494011101373,4.048953448473064/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kingjulius_ver01:data:sn93067668:00202193961:1884100101:0003/pct:29.666958808063104,84.8335811506348,15.488363034375304,4.056578596210302/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2902,7 +2902,7 @@ Back on herself, and startles at destruction?
 &#x27;Tie Heaven itself that points out an here­  
 after,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_fencing_ver02:data:sn83016589:0039334068A:1885042401:0058/pct:37.672970479704794,22.60007412898443,9.052121771217712,2.6593773165307635/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_fencing_ver02:data:sn83016589:0039334068A:1885042401:0058/pct:37.68065805658057,22.60316283666914,9.044434194341944,2.6686434395848777/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3015,7 +3015,7 @@ Back on herself, and startles at destruction?
 &#x27;lis the divinity that stirs within us ;  
 &#x27;Tis heaven itself that points out an hereafter
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_graftonnotch_ver01:data:sn83016025:00414210557:1886060101:0181/pct:45.03642987249545,86.82785543382445,9.623557984213722,3.2615539604583805/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_graftonnotch_ver01:data:sn83016025:00414210557:1886060101:0181/pct:45.029594779177415,86.81692268949887,9.625891637577782,3.2642911105514982/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3088,7 +3088,7 @@ Rides in the whirlwind and directs the storm.
   
 The exhibition of his fearful strengt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_jessie_ver01:data:sn84024777:00295863912:1886111101:0519/pct:216.22217324223055,74.0308855972266,93.67423407538021,32.256539552474/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_jessie_ver01:data:sn84024777:00295863912:1886111101:0519/pct:57.65839896555777,19.74115471888394,24.979428705771717,8.601563156567778/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3109,7 +3109,7 @@ Back on herself, and startles at destruction?
 &#x27;Tis heaven itself that points out an here  
 after
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_ferrari_ver02:data:sn86088181:00200296953:1887031701:0401/pct:32.42823894491854,75.50178718724223,50.27152831652444,13.032719274127027/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_ferrari_ver02:data:sn86088181:00200296953:1887031701:0401/pct:8.110205665502523,18.875446796810557,12.572759022118742,3.2581798185317568/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3556,7 +3556,7 @@ Rides in the whirlwind and directs the etorm.
   
 The exhibition of h&#x27;s fearful strengt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_hula_ver01:data:sn91059392:00383348092:1889102401:0250/pct:82.75952008346374,22.0847698235652,10.824204486176317,10.292030014195904/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_hula_ver01:data:sn91059392:00383348092:1889102401:0250/pct:82.76821422361328,22.09152977759751,10.815510346026779,10.292030014195904/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3579,7 +3579,7 @@ Back on herself and startles at destruction
 Tis the divinity that stirs within us  
 Tis Heaven itself that points out a hereafte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_anderson_ver01:data:sn85058130:175048431:1891012501:0202/pct:27.318611987381704,52.50869906835784,18.32807570977918,5.982714109327646/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_anderson_ver01:data:sn85058130:175048431:1891012501:0202/pct:18.226290042606912,35.00954091368279,12.229761716900741,3.984734538107532/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3604,7 +3604,7 @@ form.
 Rides in the whirlwind, and directs the  
 storm
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fireweed_ver01:data:sn83016209:00383342430:1891112001:0817/pct:34.346504559270514,73.77440023841454,13.696808510638299,5.796453583668604/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fireweed_ver01:data:sn83016209:00383342430:1891112001:0817/pct:26.618246061736272,57.17915158980676,10.619816459734015,4.488413272769266/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3626,7 +3626,7 @@ Back ou herself, and startles at destruction?
 ’Tis the divinity tliat stirs within us;  
 ’Tis heaven itself that points out an hereafter
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_halfwayrock_ver01:data:sn83016025:00414210995:1892110101:0143/pct:31.940357072787915,66.18824595860401,12.517166960957425,2.9762804048949993/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_halfwayrock_ver01:data:sn83016025:00414210995:1892110101:0143/pct:31.93409180070616,66.17824773413898,12.51961553550412,2.979607250755287/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3804,7 +3804,7 @@ Back on herself and startles at destruction 1
 &#x27;Tu the divinity that stirs within us.  
 &#x27;Tis Heaven iUolf that points oatau hereafter
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551165:1895080701:0385/pct:44.953789279112755,78.42315926649911,10.227972889710413,2.69943218840175/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551165:1895080701:0385/pct:44.9620045183816,78.42936485773681,10.219757650441569,2.6963293927828973/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3855,7 +3855,7 @@ Back on herself and startles at destruction?
 &#x27;Tis the Divinity that stirs within us,  
 Tis heaven itself that points out a hereaftes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_absaber_ver01:data:sn83030193:00206539860:1895092601:0764/pct:248.11746987951807,257.08272624251254,43.44879518072289,17.095677513355998/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_absaber_ver01:data:sn83030193:00206539860:1895092601:0764/pct:62.05273069679849,64.27068156062813,10.866290018832391,4.2739193783389995/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3877,7 +3877,7 @@ Eack on herself and startles at destruction?
 &quot;Tis the divinity that stirs within us,  
 &quot;Tis heaven itself that points out an hereafte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777110:1895100301:1105/pct:26.980392156862745,291.12526539278133,50.11764705882353,14.493984430290162/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777110:1895100301:1105/pct:6.745098039215686,72.78131634819533,12.529411764705882,3.6234961075725405/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3922,7 +3922,7 @@ Back on herself, and startles at destruction?
 fis the divinity that stirs within us  
 Ils heaven itself that points out an hereafter
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175042854:1896011901:0247/pct:233.30769230769232,311.791730474732,45.07692307692308,13.476263399693721/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175042854:1896011901:0247/pct:58.338141950375075,77.947932618683,11.271398345835738,3.3690658499234303/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3995,7 +3995,7 @@ Back on herself, and startles af destruction?
 Tis the Divinity that stirs within us.  
 &#x27;Tis heaven itself that points out an here
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn90061417:0029455998A:1896052201:0780/pct:110.27976577748862,105.06958250497019,41.44437215354587,12.872763419483102/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn90061417:0029455998A:1896052201:0780/pct:27.58340113913751,26.267395626242546,10.366151342554923,3.2181908548707754/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4020,7 +4020,7 @@ Tis the divtnity that stirs within us
 Tis heaven itself that potnts out an here,  
 after
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_grace_ver02:data:sn83045604:00202199380:1896061501:0089/pct:46.94223497196506,243.83275987905327,33.146433694093105,15.014075695964967/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_grace_ver02:data:sn83045604:00202199380:1896061501:0089/pct:15.647411657321685,81.2775866263511,11.048811231364366,5.004691898654989/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4102,7 +4102,7 @@ Rides in the whirlwind and directs the storm.
 The comparison of Woodruff with Marlborough  
 might at first blush seem like flying just a trifl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_lotus_ver01:data:sn83030214:00175039144:1897091701:0262/pct:54.47965256554608,79.90350089766606,47.289689560881456,15.922351885098744/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_lotus_ver01:data:sn83030214:00175039144:1897091701:0262/pct:18.15988418851536,26.634500299222022,15.763229853627152,5.307450628366248/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4166,7 +4166,7 @@ Then comes another, rising from
 troubled and repenting hearts. How  
 can we make our preaching good, th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_honeydew_ver01:data:sn82004649:00517016196:1898102001:1081/pct:70.22833723653396,9.653412715288114,20.31615925058548,5.804805443334042/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_honeydew_ver01:data:sn82004649:00517016196:1898102001:1081/pct:70.20778460637986,9.651360544217686,20.317529997073457,5.808886054421769/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4189,7 +4189,7 @@ Back on herself and startles at destruction?
 &#x27;Tis the Divinity that stirs within us  
 &#x27;Tis heaven itself that points out an hereafte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_goshen_ver01:data:sn83016758:00280767864:1899071301:0219/pct:62.83256332642982,86.89439607055147,13.923848972439064,5.380665327081938/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_goshen_ver01:data:sn83016758:00280767864:1899071301:0219/pct:62.83256332642982,86.89439607055147,13.939780149753068,5.384386395772866/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4210,7 +4210,7 @@ tion? &#x27;Tis the divinity that stirs within
 us; &#x27;tis heaven itself points out an  
  e e o 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_hornacek_ver01:data:sn83045555:206534709:1899072901:0545/pct:149.55357142857142,266.3688058489033,34.07738095238095,10.722989439480097/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_hornacek_ver01:data:sn83045555:206534709:1899072901:0545/pct:49.86355742991813,88.78960194963445,11.361944926817166,3.5743298131600323/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4237,7 +4237,7 @@ struction?
 ?Tis Heaven itself Hint, points out a  
 hereafter
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hazel_ver01:data:sn86071779:0017503142A:1899110101:0554/pct:18.056664006384676,35.90909090909091,16.141260973663208,6.193181818181818/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hazel_ver01:data:sn86071779:0017503142A:1899110101:0554/pct:18.056664006384676,35.91856060606061,16.147911678637936,6.193181818181818/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

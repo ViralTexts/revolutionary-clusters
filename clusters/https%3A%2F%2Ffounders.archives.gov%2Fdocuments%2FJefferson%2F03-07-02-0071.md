@@ -330,7 +330,7 @@ theirs. &quot;I am an enemy to all banks
   
 discounting bills or rates for anything bu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_india_ver02:data:sn86071158:00206536494:1892090101:0005/pct:212.15469613259668,69.87654320987654,49.83425414364641,26.83127572016461/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_india_ver02:data:sn86071158:00206536494:1892090101:0005/pct:53.05332964907433,17.469135802469136,12.462006079027356,6.707818930041152/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -365,7 +365,7 @@ price of no useful industry of theirs.
 ing bills or rates for anything but  
 coin.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_audi_ver01:data:sn86088296:00200297696:1892090801:0940/pct:27.214912280701753,50.31700288184438,19.276315789473685,14.14985590778098/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_audi_ver01:data:sn86088296:00200297696:1892090801:0940/pct:20.42562527424309,37.737752161383284,14.480035103115402,10.619596541786743/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -406,7 +406,7 @@ industry of theirs. * * * I am an
 enemy to all banks discounting bills or  
 rates for anything but coin.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_eridanus_ver02:data:sn83016235:00393344520:1892101401:0117/pct:61.97282762524767,64.61523827641967,13.515425983583357,8.265956434890136/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_eridanus_ver02:data:sn83016235:00393344520:1892101401:0117/pct:61.98226247759222,64.62157963156727,13.505991131238796,8.269127112463934/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -467,7 +467,7 @@ jack o&#x27;lantern wealth that they will not
 stop short of its total and fatal explos  
 io
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_hotel_ver02:data:sn86071158:00206536536:1893100101:0275/pct:183.62369337979095,293.6770036246476,54.12311265969802,50.18123238018526/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_hotel_ver02:data:sn86071158:00206536536:1893100101:0275/pct:45.90592334494774,73.4192509061619,13.530778164924506,12.545308095046314/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -552,7 +552,7 @@ this point refers to a note at the foot
 of the page, which reads as follows:  
 (This accordingly took place fou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:00332891960:1895111701:0091/pct:33.806184252470516,31.778228532792426,14.1695887790883,14.694613477574938/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:00332891960:1895111701:0091/pct:33.81149718414621,31.781984824581173,14.180214642439699,14.694613477574938/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -642,7 +642,7 @@ now by the deluge of bank paper,
 as wo wero formerly by the old con­  
 tinental paper.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068245:00295878976:1896050701:0323/pct:18.02760207015526,51.572947495341445,14.836112708453134,4.527019620738792/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068245:00295878976:1896050701:0323/pct:13.531780270348001,38.68245094815302,11.130284728213978,3.39800504220103/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

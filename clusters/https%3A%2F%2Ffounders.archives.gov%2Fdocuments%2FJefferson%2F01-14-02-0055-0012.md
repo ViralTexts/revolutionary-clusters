@@ -95,7 +95,7 @@ arret, 18 seront elargis, et !
 ne pourront plus etre ar- !  
 retes pour le meme cause. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1829032401:0045/pct:15.615478366849482,45.42757774140753,8.196221815965874,7.497954173486089/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1829032401:0045/pct:15.620556571196426,45.42757774140753,8.20637822465976,7.5047735951991275/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

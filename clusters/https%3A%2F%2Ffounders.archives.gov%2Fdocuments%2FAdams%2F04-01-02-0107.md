@@ -244,7 +244,7 @@ scheme to me to fight ourselves for
 what we are daily robbing and plun­  
 dering from those who have as we have
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ferguson_ver01:data:sn83035386:00211664484:1884080901:0199/pct:54.760147601476014,31.21319199057715,11.85239852398524,10.73990791305279/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ferguson_ver01:data:sn83035386:00211664484:1884080901:0199/pct:54.76506765067651,31.21319199057715,11.85239852398524,10.73990791305279/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

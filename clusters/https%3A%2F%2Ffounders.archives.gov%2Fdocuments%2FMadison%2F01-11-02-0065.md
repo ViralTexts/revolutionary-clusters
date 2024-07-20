@@ -193,7 +193,7 @@ of anarchy and contusion, ineffectual for the preserva­
 tion of hat inony, and u prey to their own dissensions and  
 foreign Invasions 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1839092701:0157/pct:17.186311787072242,2.2564102564102564,32.48669201520912,94.67692307692307/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1839092701:0157/pct:17.196451204055766,2.25982905982906,32.48162230671736,94.67692307692307/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -239,7 +239,7 @@ apprehended from the Federal Government, ll
 is bevond the range of probability that a ma­  
 jority of the people of thirty one States wil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215853:1851032001:0527/pct:59.03130085191921,66.5245788930904,12.864937302574901,5.383293227913373/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215853:1851032001:0527/pct:59.025650842266465,66.52000549979375,12.866896375701888,5.385214721114625/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -264,13 +264,13 @@ our opinion, that the greatest danger i to be appre­
 hended to ihe federal government. It is beyond  
 ihe range of probability lhat a majority of ihe peo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_lightningbolt_ver03:data:sn83016794:00415662397:1851041801:0079/pct:53.726614363307185,92.13174748398902,17.124321062160533,6.62658476016207/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_lightningbolt_ver03:data:sn83016794:00415662397:1851041801:0079/pct:40.31698113207547,69.10207815971768,12.845283018867924,4.966671023395635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Scientific American (1845-1908)_](https://archive.org/details/sim_scientific-american_1861-06-01_4_22/page/n3/mode/1up?view=theater)
+## [From _Scientific American_](https://archive.org/details/sim_scientific-american_1861-06-01_4_22/page/n3/mode/1up?view=theater)
 
 #### 1861-06-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -304,7 +304,7 @@ sensions and foreign invasions.
 
 ---
 
-## [From _Scientific American (1845-1908)_](https://archive.org/details/sim_scientific-american_1861-06-01_4_22/page/n3/mode/1up?view=theater)
+## [From _Scientific American_](https://archive.org/details/sim_scientific-american_1861-06-01_4_22/page/n3/mode/1up?view=theater)
 
 #### 1861-06-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -415,7 +415,7 @@ tute of the means of protecting itself or
 its membors.--James MadtsOn.  
 While we are using the means in ou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293769:1863070401:0610/pct:292.7627000695894,121.18510749868904,47.947112038970076,43.57629785002622/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293769:1863070401:0610/pct:73.20341047503045,30.29627687467226,11.98886375500261,10.894074462506556/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -438,7 +438,7 @@ ent with reason that such a government
 can promote the happiness of any peo­  
 ple?--James Madison
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293769:1863070401:0610/pct:293.31941544885177,231.5679077084426,48.15588030619346,19.664394336654432/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293769:1863070401:0610/pct:73.34261353749783,57.89197692711065,12.041064903427875,4.916098584163608/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -499,7 +499,7 @@ munity with a government totally destitute
 of the means of protecting itself or its  
 me i übers.—Madison
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_naomi_ver01:data:sn85033019:00271769118:1864080401:0169/pct:48.706498306128736,46.048448975117836,13.58176778564829,3.7487668530088785/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_naomi_ver01:data:sn85033019:00271769118:1864080401:0169/pct:48.71676419258803,46.055756512843,13.58176778564829,3.745113084146297/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -521,7 +521,7 @@ tally destitute of the means of pro.
 tecting itself of its members, And  
 God being willinig, whether traitor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn85042591:00280774960:1864081901:0350/pct:321.91265060240966,77.32724157624214,49.3222891566265,19.645916619074814/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn85042591:00280774960:1864081901:0350/pct:80.52363910340931,19.331810394060536,12.337540026370315,4.911479154768704/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

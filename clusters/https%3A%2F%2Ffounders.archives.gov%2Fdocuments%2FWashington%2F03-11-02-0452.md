@@ -88,7 +88,7 @@ rage; take away them who surround your
 perfun, how very few are there you can ail.  
 to fit at your table !
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793060501:0003/pct:49.382716049382715,8.837772397094431,21.182586094866796,14.689265536723164/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793060501:0003/pct:49.382716049382715,8.842816787732042,21.19070825211176,14.704398708635997/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -673,7 +673,7 @@ for which stop he declares the only an I govern­
 ing motive to have been his fear for the safety  
 &gt;ot the Church, and these motives ho thinks suf
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215828:1849051201:0280/pct:30.4418360530585,39.06815020862309,12.844737093234087,5.340751043115438/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215828:1849051201:0280/pct:30.438931297709924,39.06543355816702,12.846692111959287,5.34269754073662/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -736,7 +736,7 @@ knows depends upon Washington;” that his
 He tells him the army ha* frequently abandon­  
 ed their chief “in the hour of extremity,” an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215828:1849051201:0280/pct:30.556350796831758,49.38803894297636,12.76839393071858,21.891515994436716/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215828:1849051201:0280/pct:30.553435114503817,49.38460468673945,12.770356234096692,21.8923116148622/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -759,7 +759,7 @@ of tenderness to you and your country!” He
 tries to show ’he futility of hoping aid from  
 France, and declares that all Lnglish friend
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215828:1849051201:0280/pct:30.49909342494513,73.115438108484,12.758851035404142,4.0055632823365785/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215828:1849051201:0280/pct:30.49618320610687,73.11035393922536,12.760814249363868,4.007602623832371/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -804,7 +804,7 @@ and urges that, if mii ler measures he insuffi­
 cie t. (Svlbi like.) he had ihe army at his service  
 Thank Heaven, the virtues of the great an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215828:1849051201:0280/pct:30.48000763431625,78.442280945758,12.921080255749594,13.88038942976356/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215828:1849051201:0280/pct:30.477099236641223,78.43682636812461,12.923027989821882,13.88174211343671/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -882,7 +882,7 @@ present Congress. Of this, yon must be
 fully sensible. Long before they left Phil­  
 adelphia compelled to flee before the vie -
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026050:00280775782:1855042701:0074/pct:40.72550486163052,68.88029821897004,17.053103964098728,5.039348336324728/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026050:00280775782:1855042701:0074/pct:30.570626753975677,51.66367527267707,12.797006548175865,3.782962860693083/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -907,7 +907,7 @@ dregs of a Congress then still to influ
 ence a mind like yours?&quot; &quot;And now  
 where are your resources? ? - Ob, my dea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026050:00280775782:1855042701:0074/pct:40.80029917726253,74.63758111279856,16.75392670157068,7.938699433936215/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026050:00280775782:1855042701:0074/pct:30.626753975678206,55.985089051498,12.572497661365762,5.950572967002623/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -923,7 +923,7 @@ where are your resources? ? - Ob, my dea
 &quot; Maryland no longer sends a Tilghman and a Protestant  
 Carroll.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855092501:1021/pct:19.333443873321173,73.11551324929252,15.868015254518323,1.0547980447646/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855092501:1021/pct:19.333443873321173,73.11980104622245,15.879069253302383,1.0547980447646/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1615,7 +1615,7 @@ different occupations of men and
 of men in general when the teach­  
 er asked the head of the class if h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_alpha_ver01:data:sn86089174:00175036179:1894041401:0090/pct:22.647299509001638,81.12931538911644,14.27986906710311,8.879461673493271/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_alpha_ver01:data:sn86089174:00175036179:1894041401:0090/pct:22.647299509001638,81.14028671737859,14.27986906710311,8.879461673493271/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1641,7 +1641,7 @@ different occupations of men and
 of men itTgeneral when the teach  
 or asked the head of the class if h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_alpha_ver01:data:sn86089174:00175036179:1894041401:0094/pct:29.260904684975767,107.56132756132756,18.760096930533116,11.774891774891774/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_alpha_ver01:data:sn86089174:00175036179:1894041401:0094/pct:21.95959595959596,80.67460317460318,14.080808080808081,8.834776334776334/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1678,7 +1678,7 @@ find you In council or in ileld , &quot; It starts off ,
 &quot;before you read another sentence , I bes  
 you to take the first opportunity of retiring. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_alliance_ver01:data:sn99021999:0020653915A:1894082601:0034/pct:110.70919458303635,90.45711918243336,16.80327868852459,1.7262809004281177/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_alliance_ver01:data:sn99021999:0020653915A:1894082601:0034/pct:83.06595365418895,67.84974451042673,12.602495543672013,1.2947106753210882/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -368,7 +368,7 @@ single moral principle was inculcated or enforced,
 their aim seeming to be rather to make us Presby-­  
 terians than good citizens. At length he took fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743762:1871122401:1066/pct:57.786752827140546,32.51977401129943,45.848142164781905,8.384180790960452/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743762:1871122401:1066/pct:19.262250942380184,10.839924670433145,15.282714054927302,2.7947269303201505/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

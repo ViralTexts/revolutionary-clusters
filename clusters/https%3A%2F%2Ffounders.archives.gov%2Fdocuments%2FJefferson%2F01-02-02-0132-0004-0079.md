@@ -229,7 +229,7 @@ of any succeeding aldermen, and the
 court of the county. On the 4th Monday  
 in November, after the first election o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1817020601:0365/pct:19.49221949221949,35.523114355231144,14.676494676494677,4.597259572288385/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1817020601:0365/pct:19.48902718637406,35.51856594110115,14.67955016923245,4.60093896713615/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -365,7 +365,7 @@ names of the several districts shill remain unaltered
 until the increase or decrease of inhabitants shall  
 renider an alteration neeessary in the opinion of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186427:1842031001:1073/pct:171.87292303602285,60.84661783713916,37.69772697062342,14.842740198190436/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186427:1842031001:1073/pct:57.28335991493886,20.280021540118472,12.564238880028354,4.947047208759648/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -392,7 +392,7 @@ ceedings kept by the said School Commissioners, and a
   
 by him recorded among the minutes of the Court, for whic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184637:1846031301:0236/pct:132.65097236438075,61.803336883209084,39.45021201930107,15.524789965684535/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184637:1846031301:0236/pct:44.21052631578947,20.59867486985329,13.148148148148149,5.174317715728033/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -414,7 +414,7 @@ School fund hereinatter provided: In each of these dis ricts
 an election shall be held annually in the month of March,  
 at the Sthool house thereof, or such other place as the Boar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184637:1846031301:0236/pct:132.60710630209095,80.93716719914804,39.49407808159088,9.667494971009347/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184637:1846031301:0236/pct:44.19590643274854,26.975863700899197,13.162768031189083,3.2221170531629593/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -436,7 +436,7 @@ off the counties into districts which &quot;may contain a sul
 &quot;of such convenient size, that all children in each diss  
 &quot;Trict may dally attend the school therein.&quot; Wel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347909:1846031901:0676/pct:317.57066462948814,235.03757182849566,61.59281894576012,15.338146456460882/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347909:1846031901:0676/pct:79.37750620584303,58.750736593989394,15.395264464388008,3.8339717147908075/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -470,7 +470,7 @@ missioners, and the other to be deposi-j
 ted with the clerk of the county for  
 safe keeping; and the expenses of sai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn95079484:00393348483:1846032601:0190/pct:47.53649635036496,48.70739549839228,14.251824817518248,11.717041800643086/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn95079484:00393348483:1846032601:0190/pct:47.527823389892355,48.7011316872428,14.255306209329198,11.719821673525377/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -502,7 +502,7 @@ unaltered until the increase or decrease of the in­
   
 habitant*, or any other good ami sufficient caus
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157315:1847050601:0318/pct:43.30446369087275,35.91946967836975,12.841439040639573,7.881168671740731/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157315:1847050601:0318/pct:43.29725228975853,35.91506075856143,12.84346378018318,7.883269915306248/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -526,7 +526,7 @@ ties of Lancaster and Northumberland, shali to­
 gether elect one delegate: the counties ot Rich­  
 mond and Westmoreland, shnR together elec
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851072101:0260/pct:57.37626141278231,67.53791320148159,12.686208553580009,4.486686700677895/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851072101:0260/pct:57.370747645589084,67.53319357092941,12.68819270933436,4.488702539017004/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -565,7 +565,7 @@ f&#x27;ulpeper, Madison, Green, Orange, Albemarle, ;
 Louisa, Fluvanaand Goochland.  
 The second circuit, of the counti
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851072501:0276/pct:57.99426934097421,44.804970659302725,12.88443170964661,11.183983431135658/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851072501:0276/pct:57.988730780250215,44.80187767499655,12.88638461783338,11.185512448801141/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -612,7 +612,7 @@ The Frst circuit of the third section shall
 be composed of the counties of Culpeper,  
 Madison, Greene, Orange, Albemarle, Loul
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851072801:0170/pct:54.41563322059376,46.89927955925978,46.01653513716648,62.62183924283091/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851072801:0170/pct:13.601352620702611,11.72316384180791,11.501972571857975,15.653248587570621/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -636,7 +636,7 @@ cuit.
 viii. The counties of Lancaster, Northumberland,  
 Richmond, Westmoreland, King George, Spottsylva
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348379:1851080101:0102/pct:18.72423945044161,60.865205557942986,14.543670264965652,4.197106431743303/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348379:1851080101:0102/pct:18.72056514913658,60.856488112288744,14.54572213500785,4.200085935262103/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -659,7 +659,7 @@ circuit.
 viii. The counties of Lancaster, Northumber­  
 land, Richmond, Westmoreland, King George
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851080501:0312/pct:3.9259187807465996,90.02223457476376,13.118549242789621,4.036964980544747/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851080501:0312/pct:3.92554012345679,90.01597999027305,13.120498971193415,4.039000440028718/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -696,7 +696,7 @@ Prince ^hall forpn another district;
   
 X. The counties of Mecklenburg and Charlott
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024718:00414183736:1851080601:0331/pct:56.332292656440885,3.1859432322842247,26.34722410750645,91.72620196949218/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024718:00414183736:1851080601:0331/pct:56.324647122692724,3.1856356791196063,26.34817227651104,91.72056504810632/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -719,7 +719,7 @@ seventh circuit.
 vin. The counties of Lancaster, North­  
 umberland, Richmond. Westmoreland
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851080701:0181/pct:107.24144450746833,78.8271778968142,45.54736245036869,17.0989568649563/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851080701:0181/pct:26.80529300567108,19.70401691331924,11.38468809073724,4.274136715997181/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -753,7 +753,7 @@ ix. The counties of Lunenburg, Notto.way and Prince
 Edward shall form another district:  
 x. The counties of Mecklenburg and Charlotte shall for
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851080801:0393/pct:16.0784887977742,35.74582453445959,16.342070581344267,7.995776540602803/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851080801:0393/pct:16.088251086054573,35.75222371536444,16.33718943720408,7.995776540602803/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -798,7 +798,7 @@ Franklin shall form another district j
 xiv. The county of Bedford shall be another  
 ^ xv. The counties of Campbell and Appomatto
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851081201:0337/pct:2.317497103128621,11.977408912459536,12.804171494785631,14.815069908395895/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851081201:0337/pct:2.3172733417012648,11.976584022038567,12.806153648096295,14.816345270890725/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -815,7 +815,7 @@ VII. The counties of Dinwiddie, Amelia and
 Brunswick shall form another district:  
 VIII. The counties of Powhatan, Cumberlan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024718:00414183736:1851081301:0334/pct:31.88504494688096,40.33531533287845,12.734949605012257,1.3061701920265134/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024718:00414183736:1851081301:0334/pct:31.880702710064007,40.331384015594544,12.73775477779291,1.309291747888239/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -851,7 +851,7 @@ in. The counties of Lunenburg, Nottoway and
 Prince Edward shall form another district:  
 x. The counties of Mecklenburg and Charlott
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851081401:0188/pct:102.56599593871147,316.21736062103037,45.06184234816319,35.7515878616796/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851081401:0188/pct:25.636766334440754,79.04318374259103,11.263381321520857,8.93663561953147/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -885,7 +885,7 @@ ix. The counties of Lunenburg, Nottoway and Prince
 Edward shall form another district :  
 x. The counties of Mecklenburg and Charlotte shall for
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851081501:0398/pct:18.034733560932164,36.04447045055588,16.357429122754937,8.221181977764775/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851081501:0398/pct:18.04462916233734,36.04447045055588,16.36732472416011,8.230934269553345/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -919,7 +919,7 @@ vii. The counties of Dinwiddie, Amelia and
 Brunswick shall form another district.  
 viii. The counties of Powhatan, Cumberlan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851081901:0363/pct:49.976586279559825,49.79991720712019,15.640365254038867,8.493169587415482/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851081901:0363/pct:49.97073627531312,49.79648154536047,15.642436302625931,8.494883293089572/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -953,7 +953,7 @@ ix. The counties of Lunenburg, Nottoway and Piince
 Edward shall form another district:  
 x. The counties of Mecklenburg and Charlotte shall for
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851082901:0414/pct:18.783962402702304,35.96312469674915,16.287266852694962,8.306647258612324/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851082901:0414/pct:18.783962402702304,35.96959404819667,16.292162334165564,8.309881934336083/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -986,7 +986,7 @@ vit. The counties of Dinwiddie, Amelia and
 Brunswick shall form another district.  
 viii. The counties of Powhatan, Cumberlan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851090201:0415/pct:46.79402722880984,53.29176334106729,14.624505928853756,8.9834686774942/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851090201:0415/pct:46.78889010868372,53.287899659247444,14.626559812639513,8.985234055922087/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1009,7 +1009,7 @@ circuit.
 viii. The counlies of Lancaster, Northumber­  
 land, Richmond, Westmoreland, King George
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851090201:0416/pct:24.77540859400368,79.38323439988417,14.211494750514126,4.147965831764877/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851090201:0416/pct:24.772727272727273,79.3774882374231,14.213564213564213,4.150078417179395/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1030,7 +1030,7 @@ consent in the said owners and tenants notwithstanding.
 The cost of the said inquest and the several sums at whan  
 iho riflits of ihe owners and tenants are valued, shall be pat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664333:1852051801:0043/pct:64.31884057971014,56.95915279878971,15.73913043478261,3.1959152798789714/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664333:1852051801:0043/pct:64.32367149758454,56.9654563792234,15.73913043478261,3.192763489662128/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1076,7 +1076,7 @@ posit of the rights and liberalities of their fel­
 low-citizens; and that, to aid and accelerate  
 this most desirable purpose, must be one o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_harrison_ver01:data:sn82015672:00296021878:1855090801:0300/pct:313.34250343878955,99.81447124304268,57.7716643741403,30.691757222369468/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_harrison_ver01:data:sn82015672:00296021878:1855090801:0300/pct:78.33562585969739,24.95361781076067,14.442916093535075,7.672939305592367/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1202,7 +1202,7 @@ the best of their skill and judgment, to
 view the lands in said writ described, and  
 the lands both above and below said pro-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn84031042:00279529315:1866072801:0605/pct:30.28372900984366,133.4761190833155,39.22987840185292,13.868065967016491/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn84031042:00279529315:1866072801:0605/pct:10.094576336614553,44.492039694438496,13.076626133950974,4.622688655672164/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1300,7 +1300,7 @@ fusion of knowledge in Virginia: &quot;But the
 &quot;all, than that the happiness of all should be  
 &quot;confided to the weak or wicked.&quot; Here it i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_euclid_ver01:data:sn83030214:00206530935:1869090401:0034/pct:198.18922589406972,172.6852870024192,47.75916704391127,30.67956894655817/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_euclid_ver01:data:sn83030214:00206530935:1869090401:0034/pct:66.06307529802324,57.56176233413973,15.919722347970424,10.226522982186056/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1386,7 +1386,7 @@ owners of said land, and the appurtenances and
 privileges to the use of the public for the purposes  
 aforesaid; and thereupon the said jury shall procee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn85034374:00295878009:1886050801:0945/pct:232.76283618581908,84.97991967871486,70.90464547677261,44.01606425702811/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn85034374:00295878009:1886050801:0945/pct:58.21443130860171,21.244979919678716,17.73338768854464,11.004016064257028/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

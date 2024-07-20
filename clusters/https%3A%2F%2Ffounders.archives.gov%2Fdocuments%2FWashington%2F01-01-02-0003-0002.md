@@ -7773,7 +7773,7 @@ when we made a fire, set our compass, fixed
 our course, and travelled all night. In the  
 morning we were on the head oi Piny Creek
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00416156888:1839110901:0141/pct:86.01804123711341,43.77219518611074,19.53930412371134,52.426673681441535/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00416156888:1839110901:0141/pct:64.53432162423461,32.82914638958306,14.663229133097003,39.32658161252137/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7836,7 +7836,7 @@ his fingers and some of his toes frozen, and the water was
 shut up so hard that we found no difficulty in getting off the  
 island on the ice in the morning, and went to Mr. Frazier&#x27;s.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184613:1843101401:0948/pct:155.6241729157477,28.283642224012894,43.99353036318188,49.153908138597906/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184613:1843101401:0948/pct:51.86709791237871,9.426795580110497,14.662354209546212,16.382750153468386/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7925,7 +7925,7 @@ was shut up so hard that we found no
 difficulty in getting off the island on  
 the ice in the morning
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186439:1843101701:0848/pct:59.5134123518403,23.060447405997145,89.3792888334373,255.92574964302713/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186439:1843101701:0848/pct:19.834710743801654,7.685901249256395,29.788450543167524,85.29843347213959/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10080,7 +10080,7 @@ D 1T1 O N.-The History of an Expedition
 against Fort Quesne in 1755, under Major General  
 Edward Braddock. Edited from the original mann
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202190960:1855021301:0152/pct:243.71946964410327,160.47445255474452,41.137473831123515,3.272506082725061/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202190960:1855021301:0152/pct:81.23982321470109,53.49148418491484,13.712491277041172,1.0908353609083536/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10107,7 +10107,7 @@ D I TION.The History of an Expedition
 against Fort Guesne in 1755, under Major General  
 Edward Braddock. Edited from the original mapu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202190960:1855021401:0157/pct:192.86461967899513,221.10705596107056,42.13189113747383,3.272506082725061/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202190960:1855021401:0157/pct:64.28820655966504,73.70235198702352,14.043963712491276,1.0908353609083536/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10288,7 +10288,7 @@ of an Expedition against Fort Du
 Ouesne in 1755, under Major General Edward  
 Braddock, for sale at [nia3&#x27;55] CORSE&#x27;S
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn85049817:00415668879:1855041401:0321/pct:47.625633932687876,50.82171596962485,14.676502228369449,1.3600816048962938/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn85049817:00415668879:1855041401:0321/pct:47.625633932687876,50.82171596962485,14.676502228369449,1.3676376138123842/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10304,7 +10304,7 @@ Braddock, for sale at [nia3&#x27;55] CORSE&#x27;S
 del Ltza, fol 1701, $9 50. The Journals of Major  
 George Washington, sent by the Hon Robert Din
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530467:1855042301:0767/pct:101.02455396573043,83.40755821351317,46.846846846846844,4.033592060058532/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530467:1855042301:0767/pct:33.67485132191015,27.80251940450439,15.615615615615615,1.3445306866861773/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10323,7 +10323,7 @@ of an Expedition against Fort Du
 Oriesne 1755, under Major General Edward  
 Braddock, for sale at [ma 3&#x27; 55] CORSE&#x27;S.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn85049817:00415668879:1855050701:0362/pct:36.741955445544555,65.30425847699509,14.774133663366337,1.4385203790387031/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn85049817:00415668879:1855050701:0362/pct:36.75226897689769,65.30425847699509,14.774133663366337,1.4423259885070594/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10344,7 +10344,7 @@ Braddock, for sale at [ma 3&#x27;55] CORSE&#x27;S.
   
 HISTORICALtime
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn85049817:00415668879:1855052801:0398/pct:5.593975718457046,76.35552505147564,14.75334255417243,2.7224891329215284/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn85049817:00415668879:1855052801:0398/pct:5.599098406843912,76.35933806146572,14.75334255417243,2.7263021429116145/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10367,7 +10367,7 @@ able quarters at the house of Frazier, the
 Indian trader, at the mouth of Turtle Creek,  
 on the Monongahela
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776981:1855081701:0344/pct:249.33797909407664,349.4641849971799,42.36933797909408,15.228426395939087/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776981:1855081701:0344/pct:62.356221680027886,87.36604624929498,10.596026490066226,3.8071065989847717/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10817,7 +10817,7 @@ the fork, which I think extremely well situa­
 ted for a fort, as it has the absolute command of  
 both rivers.&quot; But we need not dwell furthe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn82005159:00296028447:1858123101:0012/pct:4.171275082951493,85.3763957257774,14.425659661873913,2.7374234601993037/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn82005159:00296028447:1858123101:0012/pct:4.181808605888239,85.38439988794173,14.430926423342287,2.7414255412814663/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10892,7 +10892,7 @@ of his fingers and all his toes frozen, and the water
 was shut up so hard that we found no difficulty  
 getting off the island the next morning, and went t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_qualchan_ver01:data:sn82015753:00212475221:1859030301:0429/pct:253.4825870646766,186.12689393939394,38.37064676616915,50.378787878787875/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_qualchan_ver01:data:sn82015753:00212475221:1859030301:0429/pct:84.49419568822555,62.04229797979798,12.79021558872305,16.792929292929294/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10960,7 +10960,7 @@ gers and all of his toes frozen, and the
 water was shut up so hard that we found  
 no difficulty in getting off the Islan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477837:1859042701:0313/pct:135.07853403141362,63.03939962476548,120.41884816753927,316.4092942704575/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477837:1859042701:0313/pct:33.78437363596683,15.75984990619137,30.11785246617198,79.10232356761438/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13418,7 +13418,7 @@ coat and a bottle of rum, which latter
 was thought much the better present ol  
 the two. Tuesday, .January 1st. sve lef
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287289:1888100301:0010/pct:44.51181592039801,64.92521135920225,15.2363184079602,3.3600693691740733/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287289:1888100301:0010/pct:44.51181592039801,64.92521135920225,15.246683250414593,3.3709083026230218/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13460,7 +13460,7 @@ fort as it has&#x27; the absolute command of
 both rivers. Abont two miles  
 from this, on the southeast side of the rive
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_franco_ver01:data:sn84024546:00237280027:1889050101:0014/pct:19.941822882999354,60.34039426962165,14.188752424046541,4.236561772988858/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_franco_ver01:data:sn84024546:00237280027:1889050101:0014/pct:14.969285483349498,45.25529570221624,10.636922082120918,3.183543528835558/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13531,7 +13531,7 @@ Honor.tbo Governor, I determined to prosecute
 my journey the nearest way, through the woods  
 on foot
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_franco_ver01:data:sn84024546:00237280180:1891030801:0096/pct:50.37645448323067,45.09031644710036,15.896646132785763,30.028520983294854/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_franco_ver01:data:sn84024546:00237280180:1891030801:0096/pct:37.78880711963033,33.817737335325276,11.928803696731132,22.531576802933586/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13569,7 +13569,7 @@ ington&#x27;s sournal, a memorial in answer to observa­
 tions sent by the English Ministry to the Courts  
 of Europe, a beautiful octavo volume, bound b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nash_ver01:data:sn83030214:0017503870A:1894040301:0470/pct:106.95143738833848,77.39941559901101,47.23079421796329,6.226118228815464/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nash_ver01:data:sn83030214:0017503870A:1894040301:0470/pct:35.65047912944616,25.799805199670338,15.74359807265443,2.075372742938488/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13724,7 +13724,7 @@ two miles from this on the southeast
 side of the river lives Shingiss, King of  
 the Delaware
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_griffith_ver01:data:sn83045555:206534758:1897012601:0591/pct:10.866261398176292,72.05447010065127,36.85410334346505,18.294849023090585/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_griffith_ver01:data:sn83045555:206534758:1897012601:0591/pct:3.62300481378262,24.01815670021709,12.287813529262731,6.098283007696862/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13748,7 +13748,7 @@ translation of the French officer&#x27;s answer; I
 2S pages: 8 vo.; Williamsburg, printed by  
 William Hunter, 17!?4
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ibizanhound_ver01:data:sn83045462:00280655156:1897080601:0066/pct:57.16685330347144,33.22762994622914,14.016424038820455,4.205156486970909/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ibizanhound_ver01:data:sn83045462:00280655156:1897080601:0066/pct:57.16685330347144,33.22762994622914,14.030421799178798,4.208603336550393/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

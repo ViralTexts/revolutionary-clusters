@@ -115,7 +115,7 @@ itence of the United Slates the
 thirtv-uinth.  
 james Madison
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216195:1815030701:0113/pct:5.03523194362889,2.5251633409853436,34.321785085143866,91.9212431573371/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216195:1815030701:0113/pct:5.034492881256422,2.524940407874989,34.32164000195704,91.91607074541656/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -196,7 +196,7 @@ dence of tile LTnilcd Suites, tne thir­
 ty-ninth.  
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1815031101:0392/pct:7.292999451654176,40.90852674692814,17.272893438128314,30.817922303586943/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1815031101:0392/pct:7.291666666666667,40.90344998758997,17.275828460038987,30.818234466782492/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -264,7 +264,7 @@ denceofthe Umtsd States the thirty*
 ninth.  
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184285:1815031101:0073/pct:58.05857432307976,12.611369055088467,18.124884877509672,29.46417367298281/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184285:1815031101:0073/pct:58.047882136279924,12.60978670012547,18.12768569674647,29.464659138435803/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -405,7 +405,7 @@ fiftcen, and of the Independence of the
 United States the thirty ninth.  
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1815031501:0043/pct:26.90958690568979,55.10393682499129,21.979734996102884,38.11404018116363/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1815031501:0043/pct:26.90958690568979,55.10393682499129,22.005715770329957,38.12952425192583/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -815,7 +815,7 @@ fifteen, and of the Independence of the
 United States the thicty-ninth.  
 / JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1815032801:0261/pct:56.34005763688761,40.590080376396784,16.59942363112392,28.219956871201724/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1815032801:0261/pct:56.344860710854945,40.596615042802064,16.6090297790586,28.219956871201724/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -993,7 +993,7 @@ dence ol the United Sues the itim.
 ninth.  
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016082:00332895096:1815041001:0050/pct:81.35027799841144,9.228486646884273,15.615567911040507,36.83481701285856/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016082:00332895096:1815041001:0050/pct:81.33735705209656,9.227573929383839,15.617058449809402,36.83364652358817/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1018,7 +1018,7 @@ OBITUARY.
 COMMUNICATED.  
 &quot; Great Cod, on what a slender threa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184285:1815041201:0105/pct:58.90662263804806,79.56516274978007,17.189506512566503,7.9426919693351765/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184285:1815041201:0105/pct:58.8958180484226,79.55516461422468,17.19246759598924,7.945882550054453/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1125,7 +1125,7 @@ rights and to enhance their national character in
 another tarduoua conflict, which is sow so Jiap- I  
 pily terminated by a peace and reconciliation with 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dutch_ver02:data:sn84024441:211102809:1899113001:0242/pct:42.70161290322581,116.88311688311688,16.592741935483872,13.698206555349412/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dutch_ver02:data:sn84024441:211102809:1899113001:0242/pct:32.04921339249697,87.66233766233766,12.444534086325131,10.281385281385282/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1160,7 +1160,7 @@ of March, A. D., 1815, and of the Independence
 of the United States the thirty-ninth.  
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dutch_ver02:data:sn84024441:211102809:1899113001:0242/pct:59.475806451612904,105.27210884353741,16.330645161290324,20.485466914038344/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dutch_ver02:data:sn84024441:211102809:1899113001:0242/pct:44.63493344090359,78.95794681508967,12.242839854780152,15.367965367965368/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

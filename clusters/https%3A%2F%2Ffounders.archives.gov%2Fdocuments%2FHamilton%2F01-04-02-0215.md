@@ -58,7 +58,7 @@ ceeds thus: “ The punishment which may
 44 lie will still be liable to prosecution and  
 44 punishment in the ordinary course of law.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808012101:0336/pct:6.392530077213144,31.24458204334365,16.95097863171126,5.027863777089784/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808012101:0336/pct:6.391382405745063,31.2407132243685,16.953919808497904,5.031368664355291/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -88,7 +88,7 @@ other branch of that body to a share of the
 .inquiry ?”  
 • Bitch is the course of things—there is n
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810051801:0017/pct:3.8243366880146388,82.41637054282563,17.657822506861848,9.067516235755422/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810051801:0017/pct:3.823637028905964,82.4062729723107,17.66069032808879,9.070489259168504/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -375,7 +375,7 @@ ibo-e w hose conduct may be sulj-ci ol scrutiny.
 *• Ibe division ot the powers ot impeachment between  
 the two branches
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1834042501:0456/pct:20.675162689804772,15.212405809763023,14.845444685466378,15.212405809763023/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1834042501:0456/pct:20.67236003795581,15.210744704083861,14.847950838190773,15.214384508990317/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -749,7 +749,7 @@ the right ot admitting or excluding mem­
 bers. Surely there ought to be no ques­  
 tion with this court, as to what it ca
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038521:00200293356:1867050901:0442/pct:38.70122306348282,35.217487304040624,13.948747815958066,48.730404062707/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038521:00200293356:1867050901:0442/pct:29.041654529565978,26.418635460366527,10.471890474803379,36.553323029366304/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -774,7 +774,7 @@ bar propriety be denominated political,as they rc-
 Id&#x27;v cLlcdy to injunt* uonc to the society itself. * *  
 ban n may be a»ked. Is the true spm; of the iu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kedzie_ver02:data:sn82014064:no_reel:1867090501:0002/pct:1.0101010101010102,30.725162068445652,9.219467401285582,3.1961405095733455/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kedzie_ver02:data:sn82014064:no_reel:1867090501:0002/pct:1.019283746556474,30.73270013568521,9.219467401285582,3.203678576812905/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -795,7 +795,7 @@ down by such strict rules, either in the dehnea­
 uon of tbe offence by the or in tbe  
 construction ol ft by the jodees, as in commo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kedzie_ver02:data:sn82014064:no_reel:1867090501:0002/pct:1.0101010101010102,35.052012663952965,9.219467401285582,2.0202020202020203/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kedzie_ver02:data:sn82014064:no_reel:1867090501:0002/pct:1.019283746556474,35.05955073119252,9.219467401285582,2.0164329865822403/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -889,7 +889,7 @@ perhaps, the prudent mean.
 This authority seems to leave no doubt upon  
 either of the propositions just stated. And th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_leonberger_ver03:data:sn83045462:00280654309:1868030401:0451/pct:28.240485383342527,27.4984545641871,14.685603971318256,5.862353183597775/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_leonberger_ver03:data:sn83045462:00280654309:1868030401:0451/pct:28.240485383342527,27.503606016896764,14.695945945945946,5.859777457242942/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1047,7 +1047,7 @@ Court of Impeachment, as is proposed in the plan
 Convention, while the inconveniences of a  
 poration of the former with the latter will be 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_euclid_ver01:data:sn83030214:00206530881:1868030501:0431/pct:102.24527717559616,87.34729493891797,47.847630845462994,23.909249563699827/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_euclid_ver01:data:sn83030214:00206530881:1868030501:0431/pct:34.08175905853205,29.115764979639327,15.949210281820998,7.969749854566609/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1083,7 +1083,7 @@ This authority seems to leave no doubt upon either of
 the positions just stated, and the statement of them will  
 serve to introduce the question upon which I think i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743610:1868030501:0592/pct:58.30324909747292,57.32865867450803,45.83196586806695,24.903867903189322/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743610:1868030501:0592/pct:19.43441636582431,19.109552891502677,15.277321956022318,8.301289301063107/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1112,7 +1112,7 @@ perhaps, the prudent mean
 This authority seems to leave no doubt upon  
 either of the propositions just stated. And th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_frontier_ver01:data:sn86053571:00237288567:1868030501:0289/pct:80.89233753637245,60.97651882221394,49.5635305528613,18.561311964219158/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_frontier_ver01:data:sn86053571:00237288567:1868030501:0289/pct:20.232896652110625,15.244129705553485,12.396894711305192,4.640327991054789/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1140,7 +1140,7 @@ cither of the propositions Just staled, and tbe
 statement of them will serve to Introduce the  
 Question upon which 1 think it mv duty to stat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kedzie_ver02:data:sn82014064:no_reel:1868030501:0001/pct:22.845729503519117,83.25404376784016,8.712193266121362,3.90104662226451/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kedzie_ver02:data:sn82014064:no_reel:1868030501:0001/pct:22.850485067529007,83.25404376784016,8.716948830131253,3.9169045353631464/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1184,7 +1184,7 @@ tions just stated, and the statement
 of them will serve to introduce the  
 question upon which I think it m
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn82014296:00296022135:1868030501:0148/pct:145.50147492625368,106.55879803524992,57.743362831858406,70.32649523259174/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn82014296:00296022135:1868030501:0148/pct:36.38878642567318,26.63969950881248,14.441165621541867,17.581623808147935/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1250,7 +1250,7 @@ convention while the convenience of an entire in
 corporation of the former into the latter will be  
 substantially avoided
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_psylocke_ver01:data:sn82015775:00200299899:1868030501:0441/pct:1.6705069124423964,215.55755395683454,52.59216589861751,22.584789311408016/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_psylocke_ver01:data:sn82015775:00200299899:1868030501:0441/pct:0.5568356374807988,71.85251798561151,17.53072196620584,7.528263103802672/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1286,7 +1286,7 @@ veniences of an entire incorporation of the
 former into the latter will be substantially  
 avoided. This was, perhaps, the pruden
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774753:1868030501:0502/pct:282.409972299169,38.753626844960266,48.40720221606648,34.96909297338211/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774753:1868030501:0502/pct:70.62694838933149,9.688406711240066,12.105992379632838,8.742273243345528/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1320,7 +1320,7 @@ be substantially avoided.&quot; This was, perhaps,
 the prudent mean.  
 This authority seems to leave no doubt upo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ellis_ver01:data:sn85025007:00415663626:1868030501:0424/pct:17.944162436548222,17.432820686158525,18.451776649746193,10.334629034983944/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ellis_ver01:data:sn85025007:00415663626:1868030501:0424/pct:17.944162436548222,17.438454171595968,18.460236886632824,10.334629034983944/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1347,7 +1347,7 @@ be latter will be substantially avoided,
 ?his authority seems to leave no doubl  
 ipon either of the propositions jus
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_belgium_ver01:data:sn84026844:00202190819:1868030501:0213/pct:61.82198952879581,17.21630306105192,11.769633507853403,5.699306612548622/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_belgium_ver01:data:sn84026844:00202190819:1868030501:0213/pct:61.82198952879581,17.21630306105192,11.785340314136125,5.724674446135634/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1389,7 +1389,7 @@ perhaps, the prudent means. This au­
 thority seems to leave r, t doubt npou  
 either of the proposition* ju-t stated
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_chekhov_ver01:data:sn84026847:00415665064:1868030501:0226/pct:-2.2355588897224306,38.195302843016066,17.08927231807952,12.34033786567779/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_chekhov_ver01:data:sn84026847:00415665064:1868030501:0226/pct:-2.245561390347587,38.20217003158907,17.11927981995499,12.34033786567779/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1430,7 +1430,7 @@ will be substantially avoided, this was per­
 haps the prudent mean. TIiIb authority  
 to leave no doubt npon either of the pro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038521:0020029337A:1868030601:0228/pct:24.064327485380115,79.12376779846659,14.210526315789474,15.312157721796275/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038521:0020029337A:1868030601:0228/pct:18.06083650190114,59.34282584884995,10.66101199181047,11.48959474260679/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1473,7 +1473,7 @@ of the propositions just stated, and
 the statement of them will serve to  
 introduce the question upon which 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn85033673:00280779362:1868030601:0225/pct:43.3252427184466,77.17560492429602,16.484627831715212,18.607612848450543/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn85033673:00280779362:1868030601:0225/pct:32.5237806112123,57.88877883118721,12.365917830398704,13.952172067355313/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1514,7 +1514,7 @@ upon either of the propositions just stated.
 And the statement of them will serve to  
 introduce the question upon which I thin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741947:1868030601:0236/pct:131.32644740418593,150.30476542297745,41.68252242457189,39.61026967122275/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741947:1868030601:0236/pct:43.77548246806197,50.10158847432582,13.894174141523965,13.203423223740918/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1590,7 +1590,7 @@ mean. 1
 This authority seems to leave no doubt upon  
 either of the propositions just utated. An
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_brandonblaze_ver01:data:sn84026994:00294555286:1868030901:0238/pct:15.32463399108848,77.37364721633382,13.876511775938893,6.225594109115252/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_brandonblaze_ver01:data:sn84026994:00294555286:1868030901:0238/pct:15.32463399108848,77.37736620923054,13.881816252917462,6.229313102011975/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1673,7 +1673,7 @@ on either of the propositions just stated. And
 the statement of them will serve to introduce  
 the question upon which I think it my dut
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_iceland_ver01:data:sn84026788:00202192324:1868031001:0044/pct:29.388251651025374,18.313113807047948,13.312478275981926,14.02368573079145/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_iceland_ver01:data:sn84026788:00202192324:1868031001:0044/pct:29.401286061870003,18.313113807047948,13.312478275981926,14.045349508954361/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1827,7 +1827,7 @@ substantially avoided. This was, perhaps,
 |!ie prudent means. This authority seems  
 to leave no doubt upon either of the pro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027239:00279529443:1868031101:0476/pct:4.504163512490537,18.08607594936709,11.670451678021701,8.364556962025317/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027239:00279529443:1868031101:0476/pct:4.508369080662797,18.08607594936709,11.674657246193961,8.371308016877638/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1854,7 +1854,7 @@ avolded. This was perhaps the prudent plane
 This authority seems to leave no doubt upon  
 either of the propositions just stated, and the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_psylocke_ver01:data:sn82015775:00200299899:1868031101:0482/pct:68.45674486803519,49.506079027355625,47.12243401759531,16.185410334346503/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_psylocke_ver01:data:sn82015775:00200299899:1868031101:0482/pct:22.81891495601173,16.502026342451874,15.707478005865102,5.395136778115502/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1917,7 +1917,7 @@ avoided. This was
 erhaps the prudent mean. This authorit  
 seems to leave no doubt upon either of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777651:1868031101:0479/pct:298.62595419847327,50.2970297029703,46.94656488549618,43.16831683168317/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777651:1868031101:0479/pct:74.65648854961832,12.574257425742575,11.736641221374045,10.792079207920793/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1966,7 +1966,7 @@ perhaps the pru lent means. Th&#x27;s authori
   
 r seems to leave no doaht upon either o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_chacha_ver03:data:sn84038034:00200294580:1868031201:0083/pct:8.030761472516389,29.652750682793602,14.863842662632376,13.9192352711666/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_chacha_ver03:data:sn84038034:00200294580:1868031201:0083/pct:6.027742749054225,22.2395630120952,11.160151324085751,10.446742099102615/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2007,7 +2007,7 @@ ee ee
 This authority scems to leave  
 no doubt upon either of the pro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn84024207:00296028022:1868031201:0679/pct:344.3234836702955,75.00341670083367,45.72317262830482,56.96323629902966/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn84024207:00296028022:1868031201:0679/pct:86.08087091757388,18.750854175208417,11.430793157076206,14.240809074757415/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2050,7 +2050,7 @@ tially avoided. This was, : perhaps, tho
 rudent means: This authority seems to  
 eaveno doubt upon either of the propo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027455:1868031701:0479/pct:39.87485779294653,88.85346934438424,15.656996587030717,6.386143874189778/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027455:1868031701:0479/pct:29.918907383696116,66.64541493996387,11.751315976668089,4.792264371480183/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2087,7 +2087,7 @@ stantially avoided. This was perhaps
 the prudent means. This antiiority seems  
 ’ to leave no doubt upon either of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn84022991:00513688064:1868032001:0443/pct:15.709395207303157,23.61003361779157,15.329022441993153,7.6286527023532456/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn84022991:00513688064:1868032001:0443/pct:15.722074299480157,23.618653564347902,15.335361988081653,7.637272648909577/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2166,7 +2166,7 @@ union would be obtained by making the Chief Jus.­
 tice of the Supreme Court, President of the  
 Court of Impeachment,&quot; as was proposed. Mad
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_euclid_ver01:data:sn83030214:00206530881:1868042401:0789/pct:151.19363395225463,227.24786698753007,47.69854891558745,12.994968278276088/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_euclid_ver01:data:sn83030214:00206530881:1868042401:0789/pct:50.39787798408488,75.74928899584336,15.899516305195819,4.3316560927586965/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2193,7 +2193,7 @@ hat union would be obtained by making the Chief
 ustice of the Supreme Court President of the  
 court of Impeachment,&quot; as was proposed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743622:1868042401:0303/pct:149.28571428571428,54.46705760607106,47.159468438538205,14.303782913648384/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743622:1868042401:0303/pct:49.76190476190476,18.15568586869035,15.719822812846068,4.767927637882795/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2456,7 +2456,7 @@ a nation sentenced to a perpetual os­
 tracism from the esteem and honor, and  
 confidence of other powers, because di
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quasar_ver01:data:sn85025431:0021247972A:1874091001:0203/pct:45.568531038721574,22.1207114394013,11.55500921942225,3.5086014189911556/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quasar_ver01:data:sn85025431:0021247972A:1874091001:0203/pct:41.01486152598001,19.91427821675365,10.403068186008777,3.1606262938449428/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2482,7 +2482,7 @@ In the words of Hamiltom &quot;to a perpetual estraclam
 from the esteem and confidence and honors and emolu  
 ments of his country.&quot; For adthority in support of thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:00206531253:1876040101:0009/pct:245.4059309674283,179.78747978747978,47.17225733268514,14.322014322014322/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:00206531253:1876040101:0009/pct:81.80197698914276,59.92915992915993,15.724085777561713,4.774004774004774/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2511,7 +2511,7 @@ wuicu may witn peculiar propriety tie no.
 nominated iiolitical as thev relate chiefly tc  
 n Juries done immediately to the society t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_jackinthepulpit_ver01:data:2017270211:0027952780A:1893060801:0942/pct:27.08850289495451,87.90387182910547,19.23076923076923,8.825100133511349/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_jackinthepulpit_ver01:data:2017270211:0027952780A:1893060801:0942/pct:20.335126189491106,65.9279038718291,14.418700868845676,6.622162883845127/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

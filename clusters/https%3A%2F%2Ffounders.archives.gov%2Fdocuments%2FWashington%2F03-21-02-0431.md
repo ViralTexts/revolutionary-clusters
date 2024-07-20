@@ -108,7 +108,7 @@ are determined to be free.
 Yours, most sincerely,  
 ANTY WAYNE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn84028880:00296027558:1855080701:0490/pct:22.961854899027674,190.65910082933217,47.19521316379955,17.69241961297832/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn84028880:00296027558:1855080701:0490/pct:5.742611298166854,47.664775207333044,11.803217358772914,4.42310490324458/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -135,7 +135,7 @@ mined to be free.
 Yours, most sincerely,  
 ANTHONY WAYNE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn84027096:00279529479:1857080801:0058/pct:78.59818919762722,35.916628281897744,33.20324695597877,9.154767388300323/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn84027096:00279529479:1857080801:0058/pct:26.199396399209075,11.972209427299248,11.067748985326256,3.0515891294334407/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -191,7 +191,7 @@ son, are ours. Our officers and men behaved like men
 who are determined to be free. Yours sincerel  
 Anthony Wayn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044735:1879071501:0075/pct:132.8777524677297,115.39972797340184,50.11389521640091,8.160797944687925/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044735:1879071501:0075/pct:33.21943811693242,28.84993199335046,12.528473804100228,2.040199486171981/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -210,7 +210,7 @@ ours. Our officers and men behaved like
 men who are determined to be free. Yours  
 sincerely, Anthony Wayne.’’ The assaul
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00279529595:1879071701:0120/pct:38.69143780290791,57.43327513095535,10.936995153473344,2.5068595659765527/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00279529595:1879071701:0120/pct:38.685188176385076,57.42611298166854,10.939266677434986,2.509664546701584/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -228,7 +228,7 @@ Colonel Johnson are ours. Our officers and
 men behaved like men who are determined  
 to be free. Yours sincerely, Anthony
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777055:1879072501:0535/pct:333.60655737704917,220.94763092269326,37.63040238450075,6.705458575782766/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777055:1879072501:0535/pct:83.44827586206897,55.236907730673316,9.412861136999068,1.6763646439456914/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -267,7 +267,7 @@ Our officers and men behaved like men who are
 determined to be free. Yours, most sincerely,  
 GEN&#x27;L WASHInGTON. ANTY WAYNE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477874:1879082001:0574/pct:214.3939393939394,279.2614856161443,38.03030303030303,9.789609274366681/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477874:1879082001:0574/pct:53.61879499810534,69.81537140403607,9.511178476695719,2.4474023185916702/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -289,7 +289,7 @@ men who are determined to be free.
 Yours, most sincerely,  
 ANT&#x27;Y WAYN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_erie_ver02:data:sn86071045:00296026475:1881041301:0324/pct:61.43893075501209,85.28670101962504,10.962604862789705,3.815371121587545/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_erie_ver02:data:sn86071045:00296026475:1881041301:0324/pct:61.443670316128724,85.29401015970471,10.967344423906347,3.8117165515477103/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -358,7 +358,7 @@ determined to be free.
 Yours most sincerely,  
 Anthony Wayne
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524755:1892032401:0096/pct:34.11978221415608,49.11313161424952,12.784835652349264,4.277835743031749/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524755:1892032401:0096/pct:34.11290322580645,49.10581222056632,12.787298387096774,4.280923994038748/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

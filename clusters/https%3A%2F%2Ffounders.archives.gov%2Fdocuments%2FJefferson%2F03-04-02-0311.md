@@ -93,7 +93,7 @@ Ju&#x27;y next, and she w caufee^ if any she can, why
 the said appeal should not stand and he reviv.  
 ed and proceeded
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811060301:0190/pct:61.09793908444282,63.67861073743427,17.10742294364399,12.107129754188577/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811060301:0190/pct:61.08679795769511,63.67082416238689,17.11038171650863,12.109725279204369/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -118,7 +118,7 @@ counsel 5 and the Court having maturely con­
 sidered the transcripts of the decrees aforesaid  
 and thei. Jpunenls of counsel, pronounced th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814083101:0228/pct:39.11134527572884,30.4932211313698,16.4734808570425,5.563347358578775/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814083101:0228/pct:39.1044776119403,30.489657590276966,16.476441322797776,5.5665926531884224/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -149,7 +149,7 @@ liams, only, may be considered as cross suits
 b- tween those parties, had been, on the one  
 hand, to compel a discovery of the assets of Jo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814091001:0240/pct:25.70940170940171,29.929577464788732,16.136752136752136,8.708920187793428/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814091001:0240/pct:25.705007690992993,29.92606501584321,16.139691220873924,8.711810037945469/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -180,7 +180,7 @@ liams, only, may be considered as cross suits
 between those parties, had been, on the one  
 hand, to compel a discovery of the assets ol Jo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814091701:0249/pct:27.248346146969425,30.448680004735408,16.98551761129984,8.748668166212857/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814091701:0249/pct:27.243475151948516,30.445075757575758,16.988439995232987,8.751578282828282/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -210,7 +210,7 @@ liam*, only, may be considered as i ross suits
 between those parties, had been, on the on­  
 hand, to compel a discovery of the assets of J
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814092501:0257/pct:28.323002754820937,74.22656158099048,16.150137741046834,8.16374544171274/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814092501:0257/pct:28.318127044241695,74.21783109856504,16.153095770930165,8.166705873127892/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -242,7 +242,7 @@ liams, only, may be considered as cross suits
 between those parties, had been, on the one  
 hand, to compel a discovery of the assets of J
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814101201:0269/pct:18.953488372093023,34.28138035646568,18.003875968992247,9.25293894577171/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814101201:0269/pct:18.949815927145902,34.27704752275025,18.00684621843312,9.255982473879339/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -265,7 +265,7 @@ This dav came the parties by their counsel, and the
 court having maturely considered the transcript «f the  
 record, of the decree aforesaid and the arpuments ,,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1817022801:0402/pct:83.43263819927176,44.64963318998229,14.961933134723601,4.287882620794333/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1817022801:0402/pct:83.41883170610623,44.643986341216646,14.964973247283359,4.291556005227435/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -290,7 +290,7 @@ This day came the parties bv their counsel, and the
 coutt having maturely considered flu&#x27; transcript of the  
 record., of the decree aforesaid and the arguments o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1817032501:0430/pct:51.50065963060686,56.69291338582677,14.742744063324539,4.59740919481839/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1817032501:0430/pct:51.4921681780709,56.68571428571428,14.745809288266008,4.601058201058201/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -309,7 +309,7 @@ dant*.
 court having maturely considered the transcript of die re­  
 cord of Ihe decree aforesaid, and the arguments of enun«»&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183980:1824083101:0133/pct:79.85342019543974,19.419939577039276,15.146579804560261,1.8972809667673716/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183980:1824083101:0133/pct:79.84041687021657,19.417593040116,15.149541334201812,1.9010794264540036/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -341,7 +341,7 @@ ordered, that the &gt;nme be reversed and annulled, and that
 the appellee, who is nu executor, out ol the estate of bis  
 le-tatnr in his hands to be admin stered.if so much thereo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183980:1824083101:0133/pct:79.6742671009772,51.89123867069486,15.325732899022801,6.694864048338369/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183980:1824083101:0133/pct:79.66129294903111,51.88496858385694,15.328665255387287,6.698082809730949/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -371,7 +371,7 @@ iccutmu to a coiniulsduner. Therefore, It is decreed and
 urdereil, that the saute be reeersed and aueulleil, and (hat  
 llie appellee, who is au executor, out of the estate of hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183980:1824092101:0158/pct:67.69530615559526,5.708373904576436,14.893617021276595,6.085686465433301/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183980:1824092101:0158/pct:67.68431308866515,5.707679201655106,14.896611453935261,6.089002474544643/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -396,7 +396,7 @@ to grant a peremptory Mandamus—which is or­
 dered to be cert ified to the said Superior Court.  
 -— n i iirnwi i vi. _
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826081101:0113/pct:48.972766364070715,70.9704641350211,14.938684503901895,5.473176612417118/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826081101:0113/pct:48.96496815286624,70.9619093539055,14.941613588110403,5.47653487624558/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -423,7 +423,7 @@ the Court is of opinion, tliat the pendency of the suit
 in the t.our.!y Court of Amherst, refetued to in the an*  
 swer ct the appellee John .Iordan, was no bar to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184558:1827022001:0042/pct:41.425459072517896,35.694887235801154,17.615935262994086,6.553312079348211/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184558:1827022001:0042/pct:41.41901353664229,35.69067296340024,17.618380789378143,6.556473829201102/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -447,7 +447,7 @@ day of October, 1806, this day came- the parties by
 their Counsel, ami tire transcript ol the record of the  
 Decree aforesaid, having been maturely considered
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184558:1827030601:0051/pct:22.50039613373475,50.63381115981519,17.57249247345904,5.248193342021088/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184558:1827030601:0051/pct:22.49683143219265,50.627813314380475,17.57498943810731,5.251520176893311/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -472,7 +472,7 @@ proceedings mentioned, Elizabeth Sterne on the death
 ol her husband took the absolute property in tho slaves  
 which are the subject of that deed. The Court Is fur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184042:1830051801:0013/pct:17.464747356051703,22.605099931082012,15.158636897767332,5.111417413278199/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184042:1830051801:0013/pct:17.462182405639595,22.602503732628918,15.161306114456357,5.114658703724972/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -496,7 +496,7 @@ ceeded in to a final decree according to the principles
 now laid down, which is ordered to be certified to the  
 said Superior Court of Chancery. Appellants costs i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184042:1830051801:0013/pct:17.47943595769683,43.15414656558695,15.085193889541715,4.6519641626464505/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184042:1830051801:0013/pct:17.476868850051403,43.14919030664982,15.087873892397317,4.655258221354465/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -517,7 +517,7 @@ of the decree aforesaid, and the arguments ot couusel,
 mol opinion that under the deed ol settlement in the £  
 p.ocecdings mentioned, Elizabeth Sterne on the death 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184042:1830060801:0038/pct:81.896423801751,17.10286754665453,16.916456447544146,3.37960855712335/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184042:1830060801:0038/pct:81.88427299703264,17.100921606553648,16.9188921859545,3.383016649599879/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -541,7 +541,7 @@ decree is eirolieous; therefore, it is decreed and ordered, that the
 same lie reversed and annulled, ami that the appellee do pay unto  
 the appellant* the costs expended hi the prosecution of the appea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1841090301:0423/pct:67.69254093389934,20.78787878787879,15.812613705275925,3.727272727272727/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1841090301:0423/pct:67.69254093389934,20.794612794612796,15.822720840913686,3.723905723905724/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -563,7 +563,7 @@ Therefore, it is decreed and ordered, That Hie suino be reversed
 and nuniilled, and that the appellee do pay unto the appellants  
 ? lie costs expended in the prosecution of the appeal aforesai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664266:1842032401:0033/pct:80.33707865168539,63.48269653930786,16.034011539629518,2.8205641128225647/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664266:1842032401:0033/pct:80.34720113371799,63.48936453957458,16.02895029861322,2.8172301126892045/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -583,7 +583,7 @@ Therefore, it is decreed and ordeied, That the same lie rovervd
 and nnnulled,and that the appellee do pay unto the appellants  
 the costs expended in the prosecution of the appeal ali&gt;fi?i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664266:1842040801:0054/pct:83.81228981962703,53.33265699502891,15.652705594619382,2.2420614791518716/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664266:1842040801:0054/pct:83.81228981962703,53.336038686551014,15.662896158157546,2.2488248621960705/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -605,7 +605,7 @@ Therefore it is dccreed and ordered. That the same he reversed
 and annulled, and Hint the appelli-e do pay unto the appellants  
 the cos:* expended iu the prosecution of the appeal aloresai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664266:1842041501:0062/pct:66.61580714067745,72.96364005687589,16.066524259993898,3.006296973390209/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664266:1842041501:0062/pct:66.61580714067745,72.97041099600514,16.07669616519174,3.009682442954838/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -629,7 +629,7 @@ record of the deed aforesaid and the arguments of counsel, is of
 opinion, that the t.nd Circuit Superior Court erred in deciding  
 that the appellant, Miller, was entitled to a credit for the whol
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664266:1843053001:0608/pct:79.20202471341372,67.7173806967893,15.646866160488313,3.4937054747731042/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664266:1843053001:0608/pct:79.20202471341372,67.72388666601607,15.666716291995435,3.4937054747731042/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -649,7 +649,7 @@ record of the deed aforesaid and the arguments of counsel, is of
 opinion, that the said Circuit Superior Court erred in deciding  
 that the appellant, Miller, was entitled to a credit for the whol
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664266:1843060601:0617/pct:67.9805942995755,11.812345679012346,15.99454214675561,2.2222222222222223/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664266:1843060601:0617/pct:67.9805942995755,11.818930041152264,16.00464928239337,2.2222222222222223/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -671,7 +671,7 @@ is erroneous; therefore it is considered that
 the same be reversed and annulled. And this court,  
 proceeding to render such judgment as the said Circui
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661307:1843061001:0557/pct:21.19880471084549,31.64492845384323,17.26138161364036,4.280106369507408/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661307:1843061001:0557/pct:21.19880471084549,31.64492845384323,17.27310013476299,4.2885483939048585/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -693,7 +693,7 @@ is erroneous ; therefore it is considered that
 the same be reversed and annulled. And tins court,  
 proceeding to render such judgment as the said Circui
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82015015:00415661319:1843061201:0062/pct:19.81145971424363,39.91717107359032,17.498895271763146,4.279494531167038/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82015015:00415661319:1843061201:0062/pct:19.82127952079344,39.91717107359032,17.498895271763146,4.286573926586669/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -724,7 +724,7 @@ opinion that the said judgment is erroneous; therefore it is
 considered that the same he reversed and annulled. And  
 this court, proceeding to render such judgment as the sai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184613:1843061701:0556/pct:96.4748201438849,65.58941920644048,38.73381294964029,8.154111558366878/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184613:1843061701:0556/pct:32.153646957272336,21.860625574977,12.909413513643122,2.7177246243483593/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -779,7 +779,7 @@ counsel, is ofopinion that the said judgment is erroneous;
 therefore it is considered that the same be reversed  
 and annulled. And this Court, proceeding to rende
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664266:1843062301:0637/pct:51.359927470534906,19.314796425024827,16.13780598368087,3.743793445878848/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664266:1843062301:0637/pct:51.359927470534906,19.318106587222776,16.14284275209026,3.7504137702747435/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -882,7 +882,7 @@ to the said Hustings Court of the city of
 Richmond.  
 &quot;A copy--Teste
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_tesla_ver01:data:sn85038614:00175030918:1886111401:0560/pct:44.23608976329542,88.14682372738746,34.75253612050415,18.25830879259571/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_tesla_ver01:data:sn85038614:00175030918:1886111401:0560/pct:14.745363254431807,29.382274575795822,11.584178706834717,6.086102930865236/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -903,7 +903,7 @@ writing, and tiled with tbe record that the
 Circuit Court of Alexandria city erred in its  
 decree of March 30th, 1SS7, appealed fro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_pink_ver01:data:sn85025007:00175034341:1889013101:0458/pct:50.85021707670043,11.151586368977673,16.298842257597684,3.8777908343125733/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_pink_ver01:data:sn85025007:00175034341:1889013101:0458/pct:50.85021707670043,11.159420289855072,16.298842257597684,3.881707794751273/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

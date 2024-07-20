@@ -35,7 +35,7 @@ discourses, the elder President Adams declared that
 &quot;Burke is no longer entitled to the praise--the most con­  
 summate orator of modern times,&quot; and it will
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743336:1859091901:0173/pct:107.92989762276592,234.0218566110244,46.3300364393545,6.412873784075898/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743336:1859091901:0173/pct:35.976632540921976,78.00728553700813,15.443345479784835,2.137624594691966/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -59,7 +59,7 @@ discourses, the elder President Adams declared that
 &quot;Burke is no longer entitled to the praise--the most con­  
 summate orator of modern times;&quot; and it will, I think b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184686:1859092101:0132/pct:210.94229364499634,136.99744364396932,38.5390796201607,11.72437834069254/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184686:1859092101:0132/pct:70.30382705229331,45.66050888811433,12.844483396630636,3.907672049881879/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -152,7 +152,7 @@ to be read at the end of every century, and, in- | and fuller allusions to these
 It. &quot;Mr. Burke is no longer entitled to the praise of  
  being the most consummate orator of modern times.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:00271743993:1876112601:0703/pct:58.80513495720869,71.76592558461007,46.05003291639236,3.121760165879507/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:00271743993:1876112601:0703/pct:19.601711652402898,23.921975194870022,15.350010972130788,1.0405867219598357/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -197,7 +197,7 @@ to all the American people at the end
 of every century, and, indeed, at the end of  
 every year, forever and ever.&quot; In 1821 th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn83045160:00280779623:1882012201:0082/pct:208.21280991735537,202.13892189694286,34.29752066115702,9.160635194987577/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn83045160:00280779623:1882012201:0082/pct:52.059925093632955,50.534730474235715,8.57548753713031,2.2901587987468943/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -215,7 +215,7 @@ Burke is no longer entitled to the praise
 ‘the most consummate orator of modern  
 , times,’ ” will be read and admired as lon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:00279525541:1883061601:0304/pct:14.285714285714286,73.18241705593485,11.323238973008559,1.9163971733141694/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:00279525541:1883061601:0304/pct:14.283363501727827,73.17365269461078,11.32548955076518,1.9191616766467066/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

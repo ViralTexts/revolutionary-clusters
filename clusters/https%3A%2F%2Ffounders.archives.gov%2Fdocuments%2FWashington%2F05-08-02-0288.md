@@ -43,7 +43,7 @@ the fourth day of march last, for the spa&quot;&#x27; i&#x27;018
 year, under such regulations as the Prefij °&#x27;&#x27;K&#x27;  
 the United States may direct. e«uent o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789101701:0002/pct:45.14026636440918,6.90707880175539,50.43921790875602,86.8154932264835/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789101701:0002/pct:45.147350524227825,6.9166189658462125,50.43921790875602,86.83457355466514/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -71,7 +71,7 @@ from the fourth day of March laft,for the space of
 one year, under fucli regulations as the President  
 of the United States may diredt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789112501:0004/pct:46.62370411880079,27.825919507028694,24.852899971980946,11.188137877912574/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789112501:0004/pct:46.630708882039784,27.840362025803966,24.852899971980946,11.188137877912574/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -170,7 +170,7 @@ of one year, under such regulations as
 the President of the United States may  
 direét
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790012701:0529/pct:28.831226436016856,70.36141149686966,19.849190507873143,15.210586226522482/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790012701:0529/pct:28.846011680343018,70.36141149686966,19.84179788571006,15.215329159552267/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -193,7 +193,7 @@ by the Lnitcd States, irom the fourth day of March last, for the
 Ipace ot one year, under fifceh regulations as the Preftdent of the  
 United States may dircft
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790072101:0002/pct:35.254777070063696,58.934539021034006,28.43949044585987,5.740121879300177/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790072101:0002/pct:35.27866242038217,58.949282484765085,28.43949044585987,5.735207391389817/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -224,7 +224,7 @@ of one year, under such regulations as
 the President of the United States may  
 direét. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790101401:0677/pct:25.81032412965186,50.16982047549733,20.864345738295317,14.13553291282549/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790101401:0677/pct:25.826330532212886,50.175211601703595,20.87234893957583,14.13553291282549/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

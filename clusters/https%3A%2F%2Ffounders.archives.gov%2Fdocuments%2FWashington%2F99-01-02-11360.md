@@ -919,7 +919,7 @@ and establishment of the rights, liberties and
 inde; ndence of our country.” Thus in re­  
 tirement did Putnam spend the last eleve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ellsworth_ver01:data:sn84020071:0039334748A:1879030601:0043/pct:48.54689564068692,91.7451635774334,10.805812417437252,3.2614200344373545/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ellsworth_ver01:data:sn84020071:0039334748A:1879030601:0043/pct:48.54048342359001,91.73587198703666,10.808787918813014,3.264465599891972/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -990,7 +990,7 @@ event, an event in which you have a right to
 participate largely, from the distinguished part  
 you have contributed toward its attainment
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042945:1897071201:0541/pct:219.2505510653931,11.784358390280941,97.20793534166054,385.72513287775246/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042945:1897071201:0541/pct:54.82270806540511,2.9460895975702353,24.30644864964174,96.43128321943811/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

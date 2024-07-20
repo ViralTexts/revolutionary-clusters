@@ -260,7 +260,7 @@ difficulty toexprefs. To exprefsin thebeft manner
 [ can, I mean a spirit, that shall so guide you,  
 that will be impossible to determine whether a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015076:1768021201:0029/pct:35.096050075545,32.04195804195804,27.671055471616665,29.902097902097903/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015076:1768021201:0029/pct:35.11043959997122,32.04662004662005,27.671055471616665,29.91142191142191/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -491,7 +491,7 @@ perate, rash, disorderly proceedings, injure the re­
 put ,tinn of a people, as to wisdom, valour, and vir-&#x27;  
 tuc, without procuring them the it- ,st lament.&quot; Ke
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809032001:0394/pct:3.519356460532931,66.48559670781893,20.81447963800905,6.008230452674897/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809032001:0394/pct:3.51847197788389,66.47465437788019,20.815531540588086,6.011356155365372/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -637,7 +637,7 @@ shall secure upon the best and surest foundations,
 peace to the home and security of the family of  
 mail. The instructions presented by the counse
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026347:1859042501:0392/pct:73.38789332580782,34.66760535049784,10.97784676167631,2.675248918837373/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026347:1859042501:0392/pct:73.39730022106204,34.67095779275202,10.97784676167631,2.675248918837373/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

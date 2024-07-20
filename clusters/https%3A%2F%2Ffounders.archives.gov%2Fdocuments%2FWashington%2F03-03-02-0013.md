@@ -286,7 +286,7 @@ the last as well as we have heretofore
 in the first I shall think it tho most  
 fortunate event of my whole life.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_garwood_ver02:data:sn83040340:00237285293:1897050701:0360/pct:54.851519337016576,81.34447585105076,20.5628453038674,11.76109131129409/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_garwood_ver02:data:sn83040340:00237285293:1897050701:0360/pct:36.58031088082902,54.23374708123387,13.713298791018998,7.8407275408627255/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

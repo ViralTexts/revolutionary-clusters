@@ -452,7 +452,7 @@ And bids Earth roll, nor feels her idle whirl.”
 EUGENIO.  
 MOUNT HOREB LODGE. No. 8
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1813121601:0431/pct:26.002831524303918,20.682613768961495,20.198206701274184,3.413068844807468/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1813121601:0431/pct:25.996697334276952,20.67959749161441,20.199339466855392,3.4162170045209277/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1249,7 +1249,7 @@ And bids earth roll, nor feels her idle whirl.’
 And bids earth roll, nor feels her idle whirl.&quot;  
 &quot;The world was not made for you.&quot; If we r
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296187:1842101101:1101/pct:41.30599848139711,277.1584699453552,67.72968868640851,7.158469945355192/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296187:1842101101:1101/pct:10.33042157235093,69.2896174863388,16.93885301936954,1.789617486338798/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1268,7 +1268,7 @@ That life is longest which answers life&#x27;s great
 end.&quot;  
 To her afflicted friends, we say in her ow
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn84023647:00280777778:1843062101:0493/pct:116.36363636363636,163.50134302417445,52.231404958677686,12.008216147890662/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn84023647:00280777778:1843062101:0493/pct:29.096920851415582,40.87533575604361,13.060549700351313,3.0020540369726656/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1447,7 +1447,7 @@ of age, a student iu the University, took a
 walk one day with a professor, who was com.  
 monly called the student&#x27;s&#x27; friend, suc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cousteau_ver02:data:sn84028817:00296027352:1855032901:0063/pct:24.8943661971831,26.16112563815216,16.161971830985916,11.468061262607396/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cousteau_ver02:data:sn84028817:00296027352:1855032901:0063/pct:18.689448652457283,19.62395716598182,12.11907697727673,8.604158884323247/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1677,7 +1677,7 @@ over your heart, that
 &quot;His hand the good man fastens on the skles,  
 And bids earth roll, nor feels her idle whirl.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_omahoney_ver01:data:sn83026413:00212475336:1880022201:0206/pct:99.35213414634147,248.83843717001056,45.5030487804878,9.543294614572334/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_omahoney_ver01:data:sn83026413:00212475336:1880022201:0206/pct:33.11737804878049,82.94614572333685,15.167682926829269,3.1810982048574448/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1706,7 +1706,7 @@ said I in this life only we have
 hope we are of all men the most  
 miserable I have sometime
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_griffith_ver01:data:sn85058130:0020653591A:1880040901:0345/pct:36.998117942283564,18.973164781548014,16.154328732747803,9.192725659791527/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_griffith_ver01:data:sn85058130:0020653591A:1880040901:0345/pct:24.678380922497645,12.652472832113551,10.778161280200816,6.132180084275893/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1795,7 +1795,7 @@ Virtue, not rolling suns, the mind matures;
 That life Is long which answers life&#x27;s great  
 end
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_iceland_ver01:data:sn84026817:00202192221:1892012701:0442/pct:38.28767123287671,83.39655675517946,11.986301369863014,11.33644587102422/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_iceland_ver01:data:sn84026817:00202192221:1892012701:0442/pct:38.29623287671233,83.40385176539247,11.982020547945206,11.351035891450248/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1857,7 +1857,7 @@ Yonkers Gazette Its odd that when we
 want a watch to run we have to set it  
 Rams Horn There are men who starv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_boozer_ver01:data:sn85058130:00206534497:1893031001:0556/pct:86.66452442159382,58.09045226130653,18.894601542416453,7.6046901172529315/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_boozer_ver01:data:sn85058130:00206534497:1893031001:0556/pct:57.8042115415528,38.72696817420435,12.602475486256228,5.069793411501954/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -46,7 +46,7 @@ purpose of cstabl shiug a duck yard for rc­
 and convenient place on the seauoard as the  
 1 resident of the United States shall desig
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811122401:0265/pct:60.02565982404692,41.66255550074001,17.576979472140764,10.705476073014307/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811122401:0265/pct:60.01466006963533,41.65741768405476,17.579866837700813,10.708266535125581/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -109,7 +109,7 @@ ing the vessels of war, in such cendra! and convem.
 ent place on the scabosnl us the President of the U.  
 nited States shall designate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1813032501:0796/pct:51.36986301369863,85.53459119496856,21.967925158703643,2.9775943396226414/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1813032501:0796/pct:51.38100011137098,85.53459119496856,21.96235660986747,2.98414570230608/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -131,7 +131,7 @@ ing tl-.e vessels of war, in such centra! and conve­
 nient place on the seaboard as the President of the  
 L. States Shull designat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1813032601:0414/pct:24.421547360809832,50.479543523127354,17.389732465654376,3.678523734369309/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1813032601:0414/pct:24.417133562262787,50.47341587764021,17.39261401289234,3.6821234927571416/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

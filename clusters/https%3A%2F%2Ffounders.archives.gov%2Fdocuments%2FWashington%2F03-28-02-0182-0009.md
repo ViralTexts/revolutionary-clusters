@@ -351,7 +351,7 @@ State of New-York.
 Extralts of letters from General W ASHIN G TON,  
 to the PRESIDENT oF CONGRESS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1780112701:0432/pct:35.40881896742743,48.254107981220656,27.85286948814536,8.392018779342724/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1780112701:0432/pct:35.416205037299655,48.263888888888886,27.845483418273137,8.392018779342724/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -387,7 +387,7 @@ from General Washington, te the Board,
 dated Head=Quarters, Sept. 2gth, 1780, was  
 -laid before them and read. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1780112701:0432/pct:64.85707954797252,51.100352112676056,28.960779968978507,20.936032863849764/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1780112701:0432/pct:64.87185168771697,51.10524256651017,28.960779968978507,20.936032863849764/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -409,7 +409,7 @@ ral Wafbington, datcd Salem, 24th September,
 knowliedged by Mzjor Andre to have been  
 written by him, which letter is as follows 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1780112701:0433/pct:7.171139463264408,2.01086158814032,28.86053673559173,7.764567738147659/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1780112701:0433/pct:7.171139463264408,2.01086158814032,28.889866549347413,7.764567738147659/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -486,7 +486,7 @@ you, and I may hope your induigence in per­
 mitting me to meet a friend near your out  
 posts. I will endeavour to obtain permissio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1780112701:0433/pct:37.615486141663,2.8915308968149125,29.058512978442586,60.766182298546894/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1780112701:0433/pct:37.62281859510192,2.8915308968149125,29.065845431881506,60.766182298546894/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -518,7 +518,7 @@ The cxamination of Major Andre bezing conclud­
 ¢d, he was remanded into cutlody. i  
 { To be concluded in our mnext. )
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1780112701:0433/pct:68.1698196216454,12.79906061940408,28.57457105147382,15.71994715984148/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1780112701:0433/pct:68.17715207508432,12.803953226674494,28.57457105147382,15.71994715984148/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1268,7 +1268,7 @@ H. Kxox, B. G. Artillery,
 Joun GrLovER,B. G, .  
 . %omz PaTTERSON, B. G
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1780120401:0436/pct:36.42841238031619,42.6431326016019,28.367846804720553,42.15366360130525/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1780120401:0436/pct:36.43583463222742,42.65302086423415,28.367846804720553,42.15860773262138/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3046,7 +3046,7 @@ Estimate of the Force at West Point and its dependencies,
 Sept, 1780.  
 Estimate of the Forces at W&#x27;st Ponit and its dependencies
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271743166:1842092601:0365/pct:103.64173228346456,39.5040369088812,48.17913385826772,9.700115340253749/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271743166:1842092601:0365/pct:34.54724409448819,13.168012302960399,16.05971128608924,3.2333717800845827/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3069,7 +3069,7 @@ dorzed Cony of Couneil af War, held Sept efre, con
 a state of matters laid before a council of war,  
 Sept.3, 1780, by His Excellency General Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271743166:1842120101:0638/pct:144.71451876019574,176.7377201112141,52.75693311582382,10.889712696941613/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271743166:1842120101:0638/pct:48.23817292006525,58.912573370404694,17.58564437194127,3.629904232313871/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3110,7 +3110,7 @@ added that 4 if he came on shore under that sanction, he might
 certainly have returned under it &#x27; Throughout bis examina­  
 tion Major Andre maintained a manly, dignified, and reapcct
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1847103001:0717/pct:31.125547239090523,71.23395631614501,15.732241208868803,4.582301283494709/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1847103001:0717/pct:31.13025467212729,71.24146213315319,15.732241208868803,4.578548374990618/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3166,7 +3166,7 @@ Estimate of the Force at West Point and
 its dependencies. Sept. 1780,  
 Estimate of the Forces at W st Point an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn85033189:00271769763:1855070401:0358/pct:43.62900895694886,14.757458437713504,13.652123663681017,13.766795718515144/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn85033189:00271769763:1855070401:0358/pct:41.45203348735075,14.019399271625861,12.96948625280205,13.085493816031443/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3227,7 +3227,7 @@ be considered a spy from the enemy; and that
 agreeably to llie law and usage of nations, it  
 is their opinion he ought to sillier death
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624487:1857041101:0155/pct:40.560106686988,90.27858386535114,16.193560678224422,5.150899593731863/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624487:1857041101:0155/pct:31.43363354495792,69.96514112223097,12.559673212264384,4.003148543798493/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3335,7 +3335,7 @@ spy from the enemy; and that, agreeable to the
 laws and usages of nations, it is their opinion be  
 ought to suffer death
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340597:1860051201:0285/pct:44.320167773505766,77.60910815939279,12.425725270884307,3.5646516671184605/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340597:1860051201:0285/pct:44.31242355408003,77.59859059493157,12.427922418312074,3.5675565794823147/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

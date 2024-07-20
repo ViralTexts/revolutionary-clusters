@@ -51,7 +51,7 @@ I nited States, to give inftruftions to the coin­
 j manders of the public armed shipS of 4he U-  
 I nited States, to stop and examine any Blip o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799021101:0003/pct:3.189176129499879,4.900045092439501,36.74800676491906,89.56861566210732/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799021101:0003/pct:3.1952162358057503,4.900045092439501,36.754046871224936,89.5836464752743/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -84,7 +84,7 @@ to this, that a wan in authority in one of
 these islands, be his authority as limited as it  
 may, may make an agreement on the fubjef
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799021901:0002/pct:27.548076923076923,24.913909267854468,16.778846153846153,12.23237011528672/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799021901:0002/pct:27.56610576923077,24.917652343165145,16.778846153846153,12.236113190597395/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -319,7 +319,7 @@ of the United States and be moreover Hal le to
 capture, fezure, and confifcation.  
 Given under my Hand and the Seal o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1799070801:0236/pct:5.326166625946739,6.8035022247739345,22.648424138773517,41.69656954212717/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1799070801:0236/pct:5.324865657059111,6.8025258323765785,22.648998534440643,41.69417336394948/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -406,7 +406,7 @@ and be moreover liable. to capture,
 W‘“ ure,; a dconﬁfcaﬁon‘ | o,  
 GIVEN urder my Hand and th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1799070901:0110/pct:25.18954046108618,40.107474352711286,16.75692402908866,48.87151929653151/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1799070901:0110/pct:25.194698024653153,40.1139879498453,16.76208159265563,48.86500569939749/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -435,7 +435,7 @@ It is expeéted that permiflion will
 be granted to veflels which shall have  
 made report at one of the ports o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1799071601:0114/pct:42.67633894119463,7.240038872691934,16.4068529093996,10.44703595724004/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1799071601:0114/pct:42.6814837680712,7.240038872691934,16.4068529093996,10.453514739229025/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -550,7 +550,7 @@ veflels, which have depatted or may depart
 from the United States, to enter the ports of  
 Cape Francois and Port au Piince, on or afte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1799072901:0242/pct:5.984690327070285,25.1150747986191,21.920668058455114,8.51553509781358/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1799072901:0242/pct:5.98330241187384,25.11146267798073,21.92138218923933,8.517905939882064/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -611,7 +611,7 @@ to fit again.
 A message was received from the Presi­  
 dent of the United States, by his secretar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1800021301:0003/pct:24.713316171308215,80.63506960738307,16.428738591153756,7.993117472235257/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1800021301:0003/pct:24.713316171308215,80.6428906616612,16.440439971916685,8.000938526513375/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -638,7 +638,7 @@ straintß and prohibitions on the com­
 merce aiuresaid.  
 NATIIL. IvIACON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806030501:0002/pct:40.67204887628191,6.809206046574969,18.895919703251145,8.062099959144764/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806030501:0002/pct:40.68659538875555,6.818284987970403,18.895919703251145,8.06663942984248/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -661,7 +661,7 @@ United States, if he shall deem it txpe­
 (Jitni, and consistent, vvijr the inte­  
 rest of the United States, by his order,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806040101:0115/pct:78.77918101798699,67.68229166666667,17.16417910447761,6.002604166666667/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806040101:0115/pct:78.76410943179644,67.67348001562297,17.16727249537657,6.006162392049647/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -702,7 +702,7 @@ milar to this was again given in the year
 the passing of this act, it shall be law­  
 ful for the President ofthe U.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808061001:0002/pct:22.16738638700391,28.971119133574007,17.376105284803618,18.295513151108818/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808061001:0002/pct:22.181095345808487,28.975416881554064,17.3898142436082,18.295513151108818/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

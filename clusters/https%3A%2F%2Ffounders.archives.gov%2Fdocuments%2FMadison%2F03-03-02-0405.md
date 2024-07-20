@@ -46,7 +46,7 @@ sonable prospect of justice to our injured ci
 tizens.  
 I have the honor to be, &amp;c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810121501:0269/pct:22.936115687351272,13.427433948606588,17.700896943071573,5.501266739051755/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810121501:0269/pct:22.931918008784773,13.425814234016888,17.7037579306979,5.504624045034178/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -75,7 +75,7 @@ its object, not merely the recognition of a
 speculative legitimate principle, but tin*  
 enjoyment ot a substantial benefit. The u
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1811010501:0304/pct:58.27312775330397,25.49636803874092,16.88105726872247,2.8329297820823243/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1811010501:0304/pct:58.26286116983791,25.493281685026027,16.88395583744421,2.8366218779001735/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -102,7 +102,7 @@ wi h a reasonable prospect of justice
 to our injured citizens.  
 1 have the honor to be, Str
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811010801:0020/pct:10.217510509961615,78.96775806048488,17.053555108755255,8.922769307673082/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811010801:0020/pct:10.215643274853802,78.9578907909534,17.056530214424953,8.925819484360032/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -173,7 +173,7 @@ duce of the United State*, as they
 tvere previously to the promulgation  
 of those decrees
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811011101:0021/pct:57.31462925851704,56.55625852871852,17.43486973947896,18.434437414712814/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811011101:0021/pct:57.30418943533698,56.54924336392955,17.437765634486947,18.436285454395104/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -198,7 +198,7 @@ ly the subject of discussion, with a reasona­
 ble prospect of justice to our injured citizens.  
 1 have the honor to be &amp;.c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1811011101:0023/pct:48.24866620273718,59.012875536480685,21.758292739503595,7.539341917024321/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1811011101:0023/pct:48.23747680890538,59.004434272636246,21.75904452690167,7.5418395079387786/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -217,7 +217,7 @@ der, or at the instance, of the French go-,
 vernment, must be combined with a repeal  
 of the French
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1811011101:0023/pct:70.56367432150313,73.6623748211731,21.920668058455114,3.776824034334764/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1811011101:0023/pct:70.54730983302412,73.65183807752825,21.92138218923933,3.7798598197682733/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -295,7 +295,7 @@ decrees. ‘
 The restrictions of the Berlin and Miiaw  
 decrees hud the effect of restraining the A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1811011601:0345/pct:73.39522971026092,50.23150428529209,21.93052665279334,17.308639542902178/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1811011601:0345/pct:73.40590149938637,50.23478803401964,21.93052665279334,17.311923291629725/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -399,7 +399,7 @@ uec rut-3.
 Tin* restrictions of the Berlin and Milan!  
 decree* had the effect of restraining the A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1811011801:0028/pct:6.206577119036591,13.250606190272428,22.788327929597035,16.231636000570532/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1811011801:0028/pct:6.205140078721926,13.248716486023959,22.788840009261403,16.232886480319454/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -424,7 +424,7 @@ ly the subject of discussion with a reasonable
 prospect of justice to our injured citizens.”  
 In another letter to General Armstrong, dated o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1811020801:0041/pct:3.2798325191905096,42.930517905550005,22.14468481042103,7.804251676416037/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1811020801:0041/pct:3.2790697674418605,42.9243937232525,22.1453488372093,7.806704707560628/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -521,7 +521,7 @@ Great Britain ,- such :: provision being; an in­
 dislzmsable evidence of the just purpose of  
 France towards the United States,&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216134:1811032201:0267/pct:25.170861810301716,43.45963442498096,21.87031171861977,4.531607006854531/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216134:1811032201:0267/pct:25.166666666666668,43.455497382198956,21.872222222222224,4.534348722830398/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -688,7 +688,7 @@ fied.” Yet it appears that none of the A­
 merican property, seized and sequestered  
 m France, has been restored ; but that th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1811053101:0091/pct:69.66824644549763,67.44414781509063,21.665538253215978,9.582689335394127/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1811053101:0091/pct:69.65252707581227,67.43467266085979,21.666290613718413,9.584855296431583/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -712,7 +712,7 @@ ed and seized by the order or at the in- ct
 5 be eombined with a repeal of the French  
 Edicts with :: Time to a non-intcrcossvws
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216134:1811062801:0579/pct:26.266036461850103,13.279265194449874,22.5016880486158,7.1623998436583936/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216134:1811062801:0579/pct:26.261603375527425,13.277967757694187,22.50351617440225,7.1649568474189875/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -736,7 +736,7 @@ ss Extract of a letter from the Sccreta&#x27;ry &#x27;Lf :
   
 state lo General ersironsig, da&#x27;ted
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216134:1811062801:0579/pct:26.266036461850103,69.89446941567324,22.5016880486158,3.9573969122532735/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216134:1811062801:0579/pct:26.261603375527425,69.88764044943821,22.50351617440225,3.9602670574824947/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -755,7 +755,7 @@ France as free for the introduction us the
 produce ay&quot; she U. Slalm, as they were pre­  
 viously to the promulgaticn of those tic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216134:1811070101:0586/pct:74.97453310696095,30.085081123862288,22.173174872665534,3.8286505738029284/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216134:1811070101:0586/pct:74.9618061449669,30.08210505490157,22.17506931477395,3.8315692287400664/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -817,7 +817,7 @@ ly Hie subject ol discussion with a reasonable
 prospect r.f justice to our injured citizens.&quot;  
 Extract of a letter from the iecretaty of State t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811070501:0072/pct:40.58234758871701,85.84638145728023,17.470427661510463,4.278140796449266/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811070501:0072/pct:40.574963609898106,85.83579881656804,17.47331392527899,4.2817225509533205/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -846,7 +846,7 @@ crees had the effect of restraining the Araeficun
 merchants from sending their vessels to France  
 The interdictions in the s&gt; stem that has bee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811070901:0075/pct:23.37074583635047,22.366646229307175,17.523533671252714,7.909258123850399/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811070901:0075/pct:23.36651583710407,22.36390387444826,17.526395173454,7.912375347392513/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -982,7 +982,7 @@ feized.by the order orat the inflance
 -of the Freach government must be  
 ~combined with a&#x27; repeal of the Frenc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1811072301:0118/pct:8.755404570722668,7.729562185199535,17.063001852995676,3.6032545524990316/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1811072301:0118/pct:8.755404570722668,7.732790907916828,17.073296273419807,3.6032545524990316/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1170,7 +1170,7 @@ cmisersmkiclt sse-pTiying upon our ioeoeeut coca- &gt;;
 tn«re,iieva.uniformly received and Sljfkenby &#x27;in ‘  
 ,*M ports atJhe Uauad JSttfrM th* o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811080201:0651/pct:51.870200644042605,3.516942347840051,44.042605895466934,95.02167978159628/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811080201:0651/pct:51.85735512630015,3.516377649325626,44.03789004457652,95.01043673731535/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1249,7 +1249,7 @@ be adopted ior the public relief as may be mnsti­
 tutioiuily confided to the discretion of the Execu­  
 tive. : • - * . .-t?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811080201:0652/pct:4.4620723847297965,2.5727608940344107,21.740208230044622,43.76909470976041/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811080201:0652/pct:4.4609665427509295,2.572347266881029,21.741016109045848,43.76607717041801/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1266,7 +1266,7 @@ bouilet decree] by the order or at the in­
 stance of the government, must be com­  
 bined with a repeal of the French edicts
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216146:1811080501:0084/pct:31.49526387009472,40.217915340854304,21.718538565629228,3.027673319834153/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216146:1811080501:0084/pct:31.489937426010485,40.214037794060935,21.72050284683466,3.0305951921840855/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1288,7 +1288,7 @@ But notwithstanding this deterimnation of
 ly, without any restoration, ,nay, after a  
 positive declaration by the French, govern
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216146:1811080501:0084/pct:31.49526387009472,43.25523093240768,21.904600811907983,5.862501205283965/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216146:1811080501:0084/pct:31.489937426010485,43.25106054762823,21.906533626472743,5.865149762180229/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1532,7 +1532,7 @@ the United States.&quot;—But notwithstanding this
 determination of the President on the oth of  
 June and July, without any restoration of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1811081601:0136/pct:9.327251995438997,78.60583734769057,21.710376282782214,4.023802776990649/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1811081601:0136/pct:9.325125398996809,78.5947017991217,21.711126310989513,4.026774330641734/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1575,7 +1575,7 @@ course with ureat onumi ; auui
 being an indispensable evidence of the just  
 purpose of France towards the United States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812061801:0560/pct:31.00059559261465,59.63168930622664,21.813579511614055,6.016956878475704/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812061801:0560/pct:30.99598034836981,59.62625341841385,21.815294526326237,6.019446976602857/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1624,7 +1624,7 @@ Britain ; such a provison being an indis/ien­
 suble ev denceof the just purpose of France  
 towards the United States !” Vet no resti­
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812062501:0195/pct:5.882352941176471,36.93289224952741,16.705171494579705,5.316635160680529/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812062501:0195/pct:5.881307746979389,36.92852923803898,16.708126036484245,5.319944871037606/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

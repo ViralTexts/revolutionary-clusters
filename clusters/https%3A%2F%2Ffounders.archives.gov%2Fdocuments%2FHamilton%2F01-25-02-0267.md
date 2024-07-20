@@ -166,7 +166,7 @@ quantities of several artieles on hand may
 appear ample; but to. good jodgea there  
 it hardly any oneclass of supplies which
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215981:1802010801:0644/pct:74.26224944320712,11.32721202003339,20.643095768374163,78.53923205342237/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215981:1802010801:0644/pct:74.25191370911621,11.326266588765545,20.64486198097889,78.53545892106948/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -306,7 +306,7 @@ tonnage duty on Amican vess is si c no- 1
 wine patrisissizk :&quot; articics on w; :ZLii rit—e)&quot;  
 may prc \&quot; i.&quot; Z&#x27;h meccicnient weioht. Lct &#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215981:1802010801:0645/pct:6.962025316455696,5.291005291005291,20.514584479911942,87.2763920382968/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215981:1802010801:0645/pct:6.9610675471178975,5.290560967416862,20.516347961663687,87.27186205352145/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1174,7 +1174,7 @@ when compared with the patriotic votaries |
 of whiskey o Pennsylvania and Virginia ? i  
 P LUCIUSCRASSUS; &#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802020201:0017/pct:3.398652786282915,5.873671782762692,73.11696264543784,89.79732388823298/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802020201:0017/pct:3.398652786282915,5.873671782762692,73.12206572769954,89.80388298570116/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1381,7 +1381,7 @@ compared with the patriotic votaries of whifkey
 in Pennsylvania and Virgima ?  
 LUCIUS CRASSUS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1802030801:0766/pct:1.1115227862171175,12.783935037858004,65.76509818451278,80.0395040052672/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1802030801:0766/pct:1.1113169105389886,12.782532367785825,65.7575476940174,80.03346499890279/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1465,7 +1465,7 @@ fjons between the different parts of our
 country is an object well w orthy of the  
 national purse.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_grange_ver01:data:sn84026409:00280776518:1891031101:0598/pct:14.796238244514107,167.7088194120392,39.623824451410655,7.466168922071862/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_grange_ver01:data:sn84026409:00280776518:1891031101:0598/pct:3.70021950454688,41.9272048530098,9.9090624020069,1.8665422305179655/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -201,7 +201,7 @@ that sort of freight.
 Oh, blindiftss to the future! kindly given  
 That each may fill the circle marked by Heaven
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn85033711:00212470259:1859060901:0547/pct:14.81286241433843,187.3105466708477,43.85872430152873,17.22588063133689/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn85033711:00212470259:1859060901:0547/pct:3.7037037037037037,46.82763666771193,10.966126268617371,4.306470157834222/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -324,7 +324,7 @@ Heaven,
 That each might fill the circle marked by  
 Heaven.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:0027176943A:1874100801:0319/pct:43.270524899057875,23.844208396560447,11.090174966352624,1.1633788568538188/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:0027176943A:1874100801:0319/pct:43.279497532525795,23.847580509189008,11.085688649618664,1.1667509694823808/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -430,7 +430,7 @@ O, blindness to the future, kindly given.
 That each may fill the circle marked by  
 Heaven. —Pope’s essay on “Man.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_arneaux_ver02:data:sn82016211:00211663455:1892082701:0232/pct:6.487935656836461,26.364289133556724,14.798927613941018,3.4705600765916707/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_arneaux_ver02:data:sn82016211:00211663455:1892082701:0232/pct:6.499851057491808,26.364289133556724,14.804885314268692,3.4705600765916707/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

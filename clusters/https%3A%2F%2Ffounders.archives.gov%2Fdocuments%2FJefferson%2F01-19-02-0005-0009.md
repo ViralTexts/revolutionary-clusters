@@ -655,7 +655,7 @@ Salem RegiJIer.
   
 l et us fuhjoin to the preceding eulogittm on ou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1805070201:0070/pct:40.65628476084538,14.843650287172942,17.667779013718945,58.851308232291004/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1805070201:0070/pct:40.648748841519925,14.841755997958142,17.670682730923694,58.848051727071635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -725,7 +725,7 @@ The rev. \1r, SommerfjelJ, now in
 the city of New York, is on the eve of his  
 departure for France, for the benefit o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184145:1822121101:0252/pct:62.36927172466248,72.46704832911729,16.65715915573303,19.211822660098523/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184145:1822121101:0252/pct:62.3574144486692,72.45740149094782,16.660329531051964,19.213702520411786/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -815,7 +815,7 @@ was  C&#x27;est vous Monsieur,qui remplacez
 le Docteur Franklin.&quot;(s it you sir, who  
 rep&#x27;aces Dr Franklin?) No one ca
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186439:1843071501:0560/pct:104.94172494172494,26.014893105933222,44.21134421134421,14.604852269997599/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186439:1843071501:0560/pct:34.97513983840895,8.67058964813258,14.734824943028796,4.867699451583203/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

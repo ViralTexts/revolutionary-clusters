@@ -187,7 +187,7 @@ same of her own tree will and accord, without
 fea, or compulsion on the part of her husband  
 and that she wished not to retract i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_echo_ver03:data:sn86064205:00206535593:1887061601:0279/pct:104.06714009038089,356.10161970268473,55.39057456423499,16.330153095185267/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_echo_ver03:data:sn86064205:00206535593:1887061601:0279/pct:26.016785022595222,89.02540492567118,13.847643641058747,4.082538273796317/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -234,7 +234,7 @@ any wise appertaining to the said Joha Vander:
 veer, his heirs and assigns forever to his and their  
 own proper use, benefit and behoof forever. An
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jaguar_ver01:data:sn83030214:00175038814:1895081601:0680/pct:103.97865114022319,152.8649237472767,47.517386382015204,8.420479302832245/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jaguar_ver01:data:sn83030214:00175038814:1895081601:0680/pct:34.6595503800744,50.954974582425564,15.839128794005068,2.8068264342774145/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -256,7 +256,7 @@ pertaining to the said John Vanderveer, his
 heirs and assigns forever, to his and their own  
 proper use, benefit, and behoof forever
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175042829:1895081601:0016/pct:271.50375939849624,95.89331716926807,49.849624060150376,11.94120321260797/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175042829:1895081601:0016/pct:67.90146671681083,23.97332929231702,12.467092892064686,2.9853008031519925/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -38,7 +38,7 @@ which breathes a spirit of deep feeling and
 affection:  
 Give mo leave, my dear Generol,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472037:1844111501:0233/pct:195.62841530054644,314.6286990508096,58.5480093676815,21.161362367392517/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472037:1844111501:0233/pct:48.91665040015616,78.6571747627024,14.639859457349209,5.290340591848129/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -86,7 +86,7 @@ National property &quot;The Key of the Baatile,
 and toe drawing representing the demolition  
 of the fortress, are at Mount Vernon. Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035102:0029602708A:1860040401:0499/pct:72.27403156384506,72.11663629263212,16.696556671449066,11.051809424629003/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035102:0029602708A:1860040401:0499/pct:54.23394330821672,54.087477219474096,12.522425547183351,8.292111429315282/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -145,7 +145,7 @@ On the 11th of August Washington
 wrote to L ifuyotto:  
 &quot;I havo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_ferrari_ver02:data:sn86088181:00200296953:1888071901:0695/pct:132.1875,132.35568590854552,51.484375,77.05639248100253/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_ferrari_ver02:data:sn86088181:00200296953:1888071901:0695/pct:33.05333072865794,33.08892147713638,12.873608126587223,19.264098120250633/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -166,7 +166,7 @@ America opened the Bastille and there
   
 fore the key comes to the right place.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn85034374:00295878162:1894042101:0195/pct:181.04166666666666,146.48518815052043,58.4375,10.632506004803844/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn85034374:00295878162:1894042101:0195/pct:45.284002084418965,36.62129703763011,14.616988014590932,2.658126501200961/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -252,7 +252,7 @@ principles of America opened the Bastile is
 not to be doubted, and therefore the key  
 comes to the right place.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ike_ver01:data:sn82016187:00211102354:1897102801:0527/pct:112.26912928759894,116.33274405814181,16.6754617414248,2.5142408171282655/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ike_ver01:data:sn82016187:00211102354:1897102801:0527/pct:84.24178434736703,87.25201335690434,12.511548106110597,1.8856806128461991/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

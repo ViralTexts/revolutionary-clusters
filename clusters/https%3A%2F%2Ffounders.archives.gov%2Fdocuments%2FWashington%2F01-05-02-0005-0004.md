@@ -402,7 +402,7 @@ law passed for the organization and discipline of tiie,
 militia, until ihe aet entitled &quot;An act more effectually  
 to provide for the national defcrfce, by establishing 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1840061901:0519/pct:49.54968477934554,76.15775321183149,15.941158811167817,7.728313912956877/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1840061901:0519/pct:49.55468828179726,76.15775321183149,15.946162313619533,7.738273080370481/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -493,7 +493,7 @@ of the United States, ReFiseD aY The rOLls.
 The PUBliC StatuteS at large of the United States of Ame  
 rica, from the organization of the Government to the present, in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184637:1846032101:0264/pct:211.8817591925018,141.3585255592906,38.211968276856524,21.189289440129826/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184637:1846032101:0264/pct:70.61707035755478,47.11404728789986,12.735486351403306,7.062277855045588/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -511,7 +511,7 @@ administrations of Washington and John &quot;
 Adams, edited from the papers of Oliver Wolcott,  
 Secretary of the Treasury; by (leorre Oil.ha, in 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846060901:0604/pct:58.887468030690535,94.32944423535315,14.657928388746804,2.220549491908167/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846060901:0604/pct:58.89812446717818,94.32944423535315,14.652600170502984,2.228913143478443/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -561,9 +561,9 @@ By George Gibbs. New York: Printed for the Subscribers. 1846
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1846-07_19_97/page/n73/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1846-07_19_97/page/n73/mode/1up?view=theater)
 
-#### 1846-07-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1846-07-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -666,7 +666,7 @@ Gibbs&#x27;s &quot;Memoirs of the Administrations of Wash
 ington and John Adams, edited from the papers  
 of Oliver Wolcott. None can read this withou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530248:1846121201:0666/pct:5.109024351424479,195.96995349946346,41.31784179532071,5.138905448909026/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530248:1846121201:0666/pct:1.703008117141493,65.32331783315449,13.772613931773568,1.7129684829696752/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -684,7 +684,7 @@ of the Administrations of Washington and John Adams;
 edited, from the papers of Oliver Wolcol, Secretary of the  
 Treasury, by George Gibbs.&quot; In all the sentiments of thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184637:1846121801:1150/pct:14.291938997821351,169.9188876013905,38.01016702977487,5.26071842410197/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184637:1846121801:1150/pct:4.763287830380482,56.633066852044955,12.668215703359474,1.7533696365813154/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -692,9 +692,9 @@ Treasury, by George Gibbs.&quot; In all the sentiments of thi
 
 ## Other 1 -- No Title
 
-#### From _The United States magazine and Democratic review_
+#### From _The United States Magazine, and Democratic Review (1837-1851)_
 
-#### 1846-12-29 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1846-12-29 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 [This text is not available under an open license.]
 
@@ -826,7 +826,7 @@ is very significant, and has all the force it
 could receive from considerations the most  
 favorable for its honesty and justice, as a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182987:1855011101:0011/pct:5.542312276519667,76.78668848881615,14.481525625744935,3.2187670485542825/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182987:1855011101:0011/pct:5.541211519364449,76.7762171007773,14.483614697120158,3.2217373516978043/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -974,7 +974,7 @@ and his family,&quot; said Ellsworth, &quot;will
 render parade and expense improper  
 and disreputable.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_oddish_ver01:data:sn88064616:00295878599:1876032801:0105/pct:170.26333789329686,132.8232971372162,39.55198358413133,5.404738400789734/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_oddish_ver01:data:sn88064616:00295878599:1876032801:0105/pct:56.754445964432286,44.27443237907206,13.183994528043776,1.8015794669299112/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

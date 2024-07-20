@@ -240,7 +240,7 @@ Majesty’s Reign, entituled, An A&amp; for the granting
 certain Duties in the British Colonies and Plan­  
 tations in America; &amp;c. &amp;c. &amp;c. li-is hereby,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015064:1764112301:0323/pct:9.492461244425568,3.2238626092196445,27.585474623062222,5.573968062669479/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015064:1764112301:0323/pct:9.499539888157429,3.228884202068896,27.59255326679408,5.568946469820227/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -353,7 +353,7 @@ Authority be derived from the Britith Crown,
 it pre-fuppofes this Territory to have been a  
 . Part of tge BritithDominion, and as such fub
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775041401:0435/pct:8.161020677518698,14.150677200902935,28.068631764188297,9.79119638826185/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775041401:0435/pct:8.17568558439654,14.150677200902935,28.061299310749376,9.800601956358165/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -435,7 +435,7 @@ Members toParliament or not,&amp; whether they
 have legislative Powers of their own or not.  
 Thus Freland,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775041401:0435/pct:8.446986361636604,23.970090293453726,27.8926528816542,60.17212189616253/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775041401:0435/pct:8.454318815075524,23.974793077501882,27.88532042821528,60.186230248307/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -790,7 +790,7 @@ ing a revenue was expressed. It was called the sugar or molasses act
 
 ---
 
-## [From _The United States Review (1853-1856)_](https://archive.org/details/sim_united-states-democratic-review_1854-07_34/page/n77/mode/1up?view=theater)
+## [From _The United States review_](https://archive.org/details/sim_united-states-democratic-review_1854-07_34/page/n77/mode/1up?view=theater)
 
 #### 1854-07-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 

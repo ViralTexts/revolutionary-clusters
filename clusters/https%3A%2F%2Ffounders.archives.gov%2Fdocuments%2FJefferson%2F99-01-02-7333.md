@@ -49,7 +49,7 @@ our own vessels
 TH: JEFFERSON.  
 Pet,.2, 1808
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808020501:0002/pct:41.79226069246436,19.47935368043088,17.881873727087576,10.771992818671455/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808020501:0002/pct:41.79226069246436,19.48790288108062,17.895451459606246,10.763443618021714/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -77,7 +77,7 @@ sels. . &gt;
 „ , TH: JEFFERSON.  
 Feb. 2, 1808
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808020901:0368/pct:74.63353593135503,6.308955041038834,18.055058991776903,7.754502021315693/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808020901:0368/pct:74.62019660411082,6.308182263596277,18.05778969317843,7.757635146170178/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -105,7 +105,7 @@ sels.
 TH : JEFFERSON.  
 Feb. 2, 1803
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808020901:0053/pct:59.28357089272318,8.579806221315655,17.704426106526633,8.133605303416624/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808020901:0053/pct:59.272454528408026,8.578712555768005,17.70735670979436,8.136817505842362/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -134,7 +134,7 @@ JEFFERSON.
 TH  
 February 2
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808021201:0912/pct:74.00221729490022,63.956353396691306,19.87250554323725,10.559662090813093/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808021201:0912/pct:73.98171238570241,63.94509941932078,19.87392629537268,10.562203061763153/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -157,7 +157,7 @@ mi: them to Congarefs, as a further proof of
 the increasing dangers to our Davigation and  
 commerce, which led to the piovident ad
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808021601:0026/pct:76.32962275819419,6.894816305988928,15.970933828076685,5.153497735279315/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808021601:0026/pct:76.32962275819419,6.894816305988928,15.970933828076685,5.1669183022982725/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -179,7 +179,7 @@ gress, as a farther proof of the increasing dangers
 to our navigation and commerce, which led to tin  
 provident act oi ike present session laying an cm
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808021701:0988/pct:3.2647814910025708,61.64119066773934,21.902313624678662,5.422365245374095/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808021701:0988/pct:3.263942431251606,61.63127413127413,21.903109740426626,5.425514800514801/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -326,7 +326,7 @@ us a farther prool of the increasing dangers to our
 navigation and commerce, which led to the provk  
 dent measure of the ort laying an embargo.&quot; An
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808122101:0271/pct:75.95959595959596,82.72370999346832,20.90909090909091,2.890267798824298/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808122101:0271/pct:75.94041908608938,82.71020408163265,20.910123706134815,2.8938775510204082/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -371,7 +371,7 @@ act of the present session, laying an em­
 bargo on our own vessels.” Thus Mr. Jef­  
 ferson, who certainly knew why and fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1811070501:0111/pct:26.961226330027053,68.6233108108108,21.190261496844002,5.926238738738738/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1811070501:0111/pct:26.95514987604237,68.61365235749473,21.191120126211406,5.9289232934553135/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

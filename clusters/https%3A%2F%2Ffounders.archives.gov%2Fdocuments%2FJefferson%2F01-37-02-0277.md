@@ -62,7 +62,7 @@ I now tranfmit copies thereof tl
 two.houfts of Gongrefs, trolling that,  
 in the free exercil&#x27;e of tiie am
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_burmese_ver01:data:sn83045242:print:1802043001:0003/pct:39.12113552401322,13.003640015062132,16.37176745090414,21.978159909627212/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_burmese_ver01:data:sn83045242:print:1802043001:0003/pct:39.13409812690388,13.007823940420902,16.37824875234947,21.978159909627212/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -83,7 +83,7 @@ this convention into execution.
 TH; JEFFEJISbK.  
 ■il 27, 1802
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_burmese_ver01:data:sn83045242:print:1802043001:0003/pct:39.06280381100525,35.14497301368144,16.235660120552208,4.4182251788628095/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_burmese_ver01:data:sn83045242:print:1802043001:0003/pct:39.06928511245058,35.14497301368144,16.235660120552208,4.426593029580352/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -133,7 +133,7 @@ tion into exccutiqn.
 .- TH. ]EF—FERSON.  
 Apri127, 1802
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802050101:0033/pct:23.298512187401077,31.564576317466095,23.203545425767647,29.953581505415492/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802050101:0033/pct:23.294825130558632,31.56170367673826,23.205148493960014,29.953889091129717/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -256,7 +256,7 @@ carrying this convention into execu­
 tion. . . TH: JEFFERSON.  
 April 27. . . 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802051801:0081/pct:5.630914826498422,3.267187813189016,35.04731861198738,92.78412507516536/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802051801:0081/pct:5.636172450052576,3.267187813189016,35.05257623554154,92.78746575800093/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -300,7 +300,7 @@ it for the public intereft 1o approprivre the fums
 neceflary for carrying this conveation into  
 exccution, TH. JEFFERSON,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1802052201:0121/pct:54.14240090174714,26.929713562636604,19.21848581626902,18.589669849304038/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1802052201:0121/pct:54.14240090174714,26.937382568350014,19.22474794915148,18.589669849304038/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -529,7 +529,7 @@ I equal and HviiMfij • »*Hahnyii,3, which has
 b.en ratified by me, with the advice and  
 consent of the Senate/
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184169:1802092501:0227/pct:54.55680399500624,46.59307194518462,16.853932584269664,16.102017510468215/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184169:1802092501:0227/pct:54.54707560627675,46.5871606191322,16.856871136471707,16.10420367081113/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

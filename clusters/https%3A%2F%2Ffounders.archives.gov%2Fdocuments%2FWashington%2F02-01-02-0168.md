@@ -238,7 +238,7 @@ make it needless for me to add more than
 that I am, honorable sir, your most obedient  
 and most humble servant
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_farmington_ver01:data:sn83016025:00279525322:1872012701:0399/pct:86.1671469740634,57.413176416291684,10.983029138648735,31.544940579208493/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_farmington_ver01:data:sn83016025:00279525322:1872012701:0399/pct:86.15335360973268,57.40655283802492,10.985272931006884,31.54418550992155/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -492,7 +492,7 @@ it needless for mo to add more than
 tii&amp;t I am, honorable sir, your most  
 obedient aud most humble servant
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159373:1872021301:0438/pct:49.74482943862476,26.429980276134124,10.717163577759871,50.42042977265649/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159373:1872021301:0438/pct:49.74482943862476,26.43344060348109,10.726116930790582,50.42042977265649/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -601,7 +601,7 @@ j for me to add more than that 1 am,
 I honorable sir, yonr most obedient ami  
 i most most humble servant
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_florence_ver01:data:sn85040344:00271769593:1872021701:0295/pct:16.139970161399702,17.382772154513532,12.301641123016411,45.93059285271638/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_florence_ver01:data:sn85040344:00271769593:1872021701:0295/pct:16.14901216149012,17.38621496935895,12.301641123016411,45.937478482407215/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -774,7 +774,7 @@ longs surely to the youthful years o
 1 had four bullets through my coat, and two  
 horses shot under me, yet 1 escaped unhurt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:fu:batch_fu_bathouse_ver01:data:sn96027724:00271761570:1893120601:0782/pct:39.39966414777498,37.11732825545628,26.910159529806887,1.5819540061520434/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:fu:batch_fu_bathouse_ver01:data:sn96027724:00271761570:1893120601:0782/pct:30.535220432731414,28.76603473720059,20.855701968439888,1.2298028531426193/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

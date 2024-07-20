@@ -127,7 +127,7 @@ have no d&#x27;tut of their attachment to us m prrf |
 erence *u the English.  
 I salute you with sincere friendship and r
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216419:1829080401:0588/pct:2.9490616621983916,37.12902024090401,20.33958891867739,61.15733267105426/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216419:1829080401:0588/pct:2.9485346676197284,37.124410230941145,20.341910888730045,61.153877990232594/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -250,7 +250,7 @@ I sh I lit* v&lt;&gt;u with sincere
 friendship and repecl,  
 IH JLFFFNSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1829081301:0411/pct:6.771588320563263,4.0789852983568755,30.234002899150962,91.69789564716056/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1829081301:0411/pct:6.770186335403727,4.078397463611472,30.232919254658384,91.68828361435365/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -424,7 +424,7 @@ his friends that that Government offers him two
 millions of dollars the moment he can raise an  
 ensign of rebellion as big as a handkerchief
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042945:1897070401:0439/pct:157.88288288288288,358.8342440801457,50.0,9.289617486338798/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042945:1897070401:0439/pct:39.47072072072072,89.70856102003643,12.5,2.3224043715846996/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -140,7 +140,7 @@ trust, that he would lay before us an
 exact account of his expenses, and  
 not accept a shilling pay.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_goldfield_ver01:data:sn84020345:00416150461:1871031901:0038/pct:23.376623376623378,254.2480387247538,66.991341991342,31.246870305458188/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_goldfield_ver01:data:sn84020345:00416150461:1871031901:0038/pct:5.8441558441558445,63.56200968118845,16.7478354978355,7.811717576364547/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -191,7 +191,7 @@ that he would lay before us an exact ac­
 count of bis expenses, and not accept a shil­  
 ling for pay.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_clark_ver03:data:sn82014064:no_reel:1872060901:0005/pct:61.966051109867564,9.459072696050372,11.229248274575639,3.9925586720091584/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_clark_ver03:data:sn82014064:no_reel:1872060901:0005/pct:61.97537772803582,9.466227819118489,11.238574892743891,3.9889811104751/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

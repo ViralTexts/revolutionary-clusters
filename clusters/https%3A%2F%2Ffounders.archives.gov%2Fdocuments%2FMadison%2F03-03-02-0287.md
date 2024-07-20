@@ -82,7 +82,7 @@ cretnry of the Nat t, shall be made either by o­
 peu purchase, or by previously advertising for pro­  
 p &gt;s;ds respecting the sa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809061301:0046/pct:58.938700823421776,19.56970949313237,17.621225983531563,11.352862525829586/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809061301:0046/pct:58.927918038785215,19.567331064657267,17.624100500060983,11.355533949116836/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -140,7 +140,7 @@ gislature to he, that the money, when it came in­
 to tho hands of the agent, did not cease to be pub­  
 lic money; and if it should be lost without an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1829060901:0042/pct:35.47008547008547,77.25101504657273,14.830642608420387,5.445426319560545/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1829060901:0042/pct:35.464472226618135,77.24179104477612,14.833570712665507,5.448756218905473/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -157,7 +157,7 @@ ticable, keep the public moneys in tbeir hands in
 I some incorporated bank, to be designated for the pur  
 pose by the President of the United States, and *hal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830072201:0692/pct:22.45585874799358,53.473193473193476,17.849117174959872,1.5734265734265733/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830072201:0692/pct:22.452254854758465,53.466961892553314,17.851602204033597,1.5771277628869984/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -174,7 +174,7 @@ ticable, keep the public moneys m their hands in
 some incorporated bank, to be designated for the pur  
 pose by the Prpfidsnt of tho Unued S&#x27;ntes, and shal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830072301:0246/pct:3.9494723377038694,18.92925430210325,17.63671250399744,1.5893881453154877/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830072301:0246/pct:3.9488409272581935,18.926992472218902,17.63922195576872,1.5931811845302106/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -201,7 +201,7 @@ pose by the Prpfidsnt of tho Unued S&#x27;ntes, and shal
 ‘ rated Bank, to be designated for the purpose by  
 ““ the President of the United States.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1835081901:0318/pct:78.70979532163743,63.23489932885906,19.09722222222222,2.0268456375838926/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1835081901:0318/pct:78.70979532163743,63.24384787472036,19.109405458089668,2.0313199105145414/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

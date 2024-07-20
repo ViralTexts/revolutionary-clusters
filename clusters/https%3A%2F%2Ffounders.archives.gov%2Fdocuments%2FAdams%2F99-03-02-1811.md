@@ -233,7 +233,7 @@ sult detrimental to the institution.
 heaven&#x27;s design,  
 ; Why then a Borgia or a Calutinc”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacklin_ver01:data:sn86092182:00514157479:1877122201:0155/pct:54.806231003039514,92.68428372739916,12.974924012158056,2.7121001390820583/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacklin_ver01:data:sn86092182:00514157479:1877122201:0155/pct:54.79582146248813,92.67139479905437,12.977207977207977,2.715199554999305/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

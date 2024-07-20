@@ -4620,7 +4620,7 @@ tlon .
 &quot; Where are they. ? With the years beyond the ﬂood  
 &quot; !; is&#x27;the signal that demmids dispatch.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216031:1805060701:0197/pct:47.93120233652442,83.6339966524084,23.07317864676294,5.941975079040357/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216031:1805060701:0197/pct:47.92342634652823,83.62622036262204,23.074843175427212,5.944521927785526/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4642,7 +4642,7 @@ The bell &#x27;trikes One We take no note of time
 &quot; Where are they; withthe years beyond the flood.  
 “ It &gt;» the signal that demands tlisparch 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805061201:0223/pct:39.634027642592955,56.161695447409734,18.103951722795404,4.866562009419153/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805061201:0223/pct:39.62631374075516,56.15434924787443,18.106915790839498,4.8702855897100505/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4667,7 +4667,7 @@ note of time |
 the flood.  
 ¢ It is the signal that demands dispatch.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1805070901:0112/pct:6.854268196824399,38.47757046447003,16.9784625058953,6.699086939261612/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1805070901:0112/pct:6.859508463029922,38.47757046447003,16.983702772100823,6.7057033214238455/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4833,7 +4833,7 @@ aright,
 yond the flood.*  
 “ It is the signal that demands dispatch.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1807052901:0767/pct:5.1976177585273415,13.51957234005863,42.28478613968598,83.37644421451975/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1807052901:0767/pct:5.196211096075778,13.517241379310345,42.28010825439784,83.36637931034483/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5337,7 +5337,7 @@ free from aiixtures ; that the pretensions of
 nobles to greatet purity of blood thaa oth­  
 er people, is a mere joke.—Adurora
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1821060501:0297/pct:57.2289156626506,62.508648808935455,16.265060240963855,29.307106849856677/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1821060501:0297/pct:57.238477720405434,62.51194359329182,16.265060240963855,29.31040163421304/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5451,7 +5451,7 @@ L)uy after day it steals, till all ar« fled }
 And to the mercies of a moment, leaves  
 The vast concerns of the approching scene.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184522:1824091701:0273/pct:51.44253507803878,4.400099157164105,13.085290871827212,2.1938522558254836/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184522:1824091701:0273/pct:51.4344262295082,4.399553848060479,13.08848255569567,2.197711405791713/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5872,7 +5872,7 @@ And to the mercies of a moment leaves
 The vast concerns of an eternal scene.’  
 FUinaNOKK.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn82014309:00414182926:1826092601:0055/pct:58.483468620075236,79.47688901190146,16.09582260938428,2.8092997508995294/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn82014309:00414182926:1826092601:0055/pct:58.47189231987332,79.46589179465892,16.097585114806016,2.8123702781237028/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6217,7 +6217,7 @@ Young.
 &quot; We&#x27;ll see about it!” From that sina­  
 pie sentence has arisen more evil to Ire
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:0039334894A:1834102301:0587/pct:15.134287394628505,13.570938999314599,13.879631444814743,3.5777930089102123/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:0039334894A:1834102301:0587/pct:15.131321050568404,13.569078947368421,13.881811054488436,3.5807291666666665/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6651,7 +6651,7 @@ others :
 &quot;Where are they ? With the years beyond the  
 &#x27;•It is the bigBal that demands despatch.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215725:1843052001:0482/pct:52.110018866051036,84.71803996715029,14.804885314268692,6.713660005474952/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215725:1843052001:0482/pct:52.10484511517077,84.71224252378019,14.806724913952873,6.715481648760236/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6683,7 +6683,7 @@ Where are they? With the years beyond the flood,
   
 It is the signal that demands dispatch.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00200290197:1843060201:0518/pct:124.28675932699342,222.7862873814734,49.597659107534746,21.940189642596646/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00200290197:1843060201:0518/pct:31.077373330894456,55.69657184536835,12.401682824218035,5.485047410649162/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6722,7 +6722,7 @@ With brass or steel, that from the rocky shore
 First broke the oozy oyster&#x27;s pearly coat,  
 And risk&#x27;d the living morsel down his throat.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184613:1843112701:1082/pct:217.56349547998278,98.02836388792805,30.018654039316974,4.784964833390983/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184613:1843112701:1082/pct:72.51076040172167,32.67235416186304,10.004782400765183,1.5948043962800706/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6740,7 +6740,7 @@ With brass or steel, that from the rocky shore .
 First broke the oozy oyster&#x27;s pearly coat,  
 And risk&#x27;d the living morsel (k&gt;\vrt his thbat.*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215737:1843112901:0437/pct:17.213193576305414,78.72849265927057,14.443696509279738,2.0195309905002325/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215737:1843112901:0437/pct:17.21153846153846,78.72326292015411,14.445512820512821,2.021611088968602/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6787,7 +6787,7 @@ scene.” They who live in unbelief and sin, in
 unbelief and sin may also die. There is no de­  
 liverance from a state of misery, to those wh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517016500:1844042601:0176/pct:49.04141104294479,92.0074616157268,14.762269938650308,2.826804419572392/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517016500:1844042601:0176/pct:49.032010734138396,91.99426111908178,14.764232317423806,2.8299856527977045/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6916,9 +6916,9 @@ schemes.
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1846-10_19_100/page/n48/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1846-10_19_100/page/n48/mode/1up?view=theater)
 
-#### 1846-10-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1846-10-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6963,7 +6963,7 @@ Year afWr year it steals, till all are fled,
 And to the mercies of a moment leaves^  
 The vast concerns ?f an eternal scene
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82014769:00415661010:1846102201:0250/pct:44.08857255832345,33.56164383561644,18.22854883353104,7.712328767123288/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82014769:00415661010:1846102201:0250/pct:44.08857255832345,33.56164383561644,18.235139053644392,7.7214611872146115/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6996,7 +6996,7 @@ j- •_&gt; . Where are they I With the yean beyond the flood.
 ft is the signal that demands despatch : •  
 , How much is to be done ! My hopes and fears
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517013547:1847021901:0066/pct:3.643870041285227,32.984011823189576,15.939687668282176,10.85583769985221/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517013547:1847021901:0066/pct:3.64321608040201,32.97958087049973,15.941313711414214,10.857737775389575/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7080,7 +7080,7 @@ Where are they? With the years beyond the flood.
 It is the signal that demands despatch:  
 How mech is to be done! My hopes and fear
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667711:1848062101:0094/pct:5.897887323943662,125.04409171075838,262.5880281690141,47.61904761904762/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667711:1848062101:0094/pct:1.4744718309859155,31.261022927689595,65.64700704225352,11.904761904761905/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7252,7 +7252,7 @@ Where are they? With the years beyond the Hood!
 It is the signal that demands despatch :  
 How much is to be done! My hopes and fears 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_emeralds_ver02:data:sn85025007:00414215889:1852123101:0681/pct:6.817759613598366,22.116519686132907,12.502322125208991,2.6456496076661344/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_emeralds_ver02:data:sn85025007:00414215889:1852123101:0681/pct:6.817126404755271,22.114984029995835,12.504256834153741,2.6477804008702495/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7319,7 +7319,7 @@ How much is to be done !&quot; Young&#x27;s Night Thoughts.
 &quot; When it is eveneng, ye say, it will be fair weather;  
 for the 6ky is red. And in the morning, it will b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016866:00295877625:1853050701:0146/pct:27.18562874251497,55.525238744884035,20.389221556886227,9.026830377444293/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016866:00295877625:1853050701:0146/pct:20.395327942497754,41.643929058663026,15.30398322851153,6.775807185084129/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7486,7 +7486,7 @@ flood.
 It is the signal that demands despatch;  
 How much is to be done!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn93051027:00279557931:1855122901:0046/pct:4.707091469681398,40.78671851630272,15.066803699897225,7.508226144181872/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn93051027:00279557931:1855122901:0046/pct:4.712230215827338,40.79045767274903,15.077081192189105,7.523182769967096/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7640,7 +7640,7 @@ t is the knell of my departed hours;
 &quot;It is the signal that demarids despatch:  
 Bouc muct Is to be dome?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn86092535:00202190637:1859050301:0414/pct:10.764027059291683,28.450479233226837,63.46995622761639,44.7444089456869/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn86092535:00202190637:1859050301:0414/pct:2.691006764822921,7.112619808306709,15.867489056904098,11.186102236421725/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7667,7 +7667,7 @@ Where are they 1 With the years beyond the flood.
 It is the signal that demands dispatch:  
 How much is to be done 1 My hopes and fear
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_galloway_ver01:data:sn83032308:00513685506:1859080401:0424/pct:8.934873275585499,84.2626559060895,11.982675649663138,7.19002201027146/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_galloway_ver01:data:sn83032308:00513685506:1859080401:0424/pct:8.933440256615878,84.25235358845825,11.98476343223737,7.192199535395525/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7685,7 +7685,7 @@ How much is to be done 1 My hopes and fear
 To-day the Parents may of new joys dream,  
 To-morrow, death destroys their every scheme
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn88061076:00200293897:1859121601:0619/pct:39.530812324929975,26.8140589569161,16.42156862745098,2.508503401360544/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn88061076:00200293897:1859121601:0619/pct:29.66205568201716,20.110544217687075,12.30957800735423,1.8849206349206349/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7709,7 +7709,7 @@ The vast concerns of an eternal state.”
 Pence to the dead. While wc to-day commit  
 his remains to the grave, let us, in faith an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn84026884:00279557505:1860062201:0405/pct:43.60094665938467,58.79882402351953,11.997087201893319,4.003919921601568/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn84026884:00279557505:1860062201:0405/pct:43.60549790642636,58.79882402351953,12.001638448935008,4.003919921601568/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7729,7 +7729,7 @@ Year after year it eteals till all ia fled,
 And to the mercies of a moment leaves  
 The vast concerns of an immortal scene.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_black_ver02:data:sn84026561:00415667826:1860092601:0262/pct:76.76020408163265,35.83294228061943,12.563775510204081,2.5903331769122477/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_black_ver02:data:sn84026561:00415667826:1860092601:0262/pct:57.58387549432326,26.87939934303144,9.42722286005868,1.9427498826841858/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7878,7 +7878,7 @@ but from its loss; to give it then a tongue is wise
 in man, as if an angel spoke.&quot;  
 We have come to the boundaries of the yea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_frontier_ver01:data:sn86053571:00237288567:1868010101:0009/pct:16.43426294820717,89.39716999418492,51.39442231075697,9.304128707113781/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_frontier_ver01:data:sn86053571:00237288567:1868010101:0009/pct:4.111637179167705,22.34929249854623,12.858210814851732,2.3260321767784453/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7954,7 +7954,7 @@ Anu risked thelivtug morsel down his throat.&#x27;*
 rhe popular idea with regard to eating raw oys’  
 ters is that the nnimul h killed ns soon a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_hera_ver01:data:sn83021205:00517171554:1868030401:0217/pct:18.828691339183518,118.26464816372301,14.269362838611217,3.714606111578357/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_hera_ver01:data:sn83021205:00517171554:1868030401:0217/pct:14.596885472107234,91.66395075140322,11.058545239503253,2.875248958899149/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7986,7 +7986,7 @@ And risked tho living morsel down his throat.
 The popular idea with regard to eating raw  
 Dyster.s is that the animal is killed as soon as 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ellis_ver01:data:sn85025007:00415663626:1868031801:0468/pct:66.4665304036791,6.931702344546381,16.709248850281043,4.400271831464492/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ellis_ver01:data:sn85025007:00415663626:1868031801:0468/pct:66.4665304036791,6.937365500056631,16.71350706864248,4.400271831464492/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8042,7 +8042,7 @@ But from its loss. To give it, then, a tongue,
 Is wise in man. As if an angel spoke,  
 I feel the solemn sound.—Young
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dunbar_ver01:data:sn85026214:print0021111017A:1869051601:0006/pct:45.43606799704361,20.043967412388465,11.991869918699187,6.362343204448468/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dunbar_ver01:data:sn85026214:print0021111017A:1869051601:0006/pct:45.43606799704361,20.053666106297687,12.005728011825573,6.355877408508987/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8276,7 +8276,7 @@ Where are they ? With the years beyond the Flood:
 It is tho signal that demands dispatch.  
 How mueh Is to bo done I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551281:1874010801:0071/pct:18.598928933275438,2.6144435674822417,30.612244897959183,95.36306235201263/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551281:1874010801:0071/pct:18.598928933275438,2.6210207840042092,30.6170695228446,95.36306235201263/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8393,7 +8393,7 @@ ancient families is a mere joke.&quot;
 General Smith in Congress, while  
 delivering one of the long, pros
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_lincoln_ver01:data:sn86092474:00279550262:1874020501:0094/pct:1.9055180627233028,70.07270838743183,16.057959507741167,23.370553103090106/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_lincoln_ver01:data:sn86092474:00279550262:1874020501:0094/pct:1.9055180627233028,70.08136414784039,16.071192272065634,23.370553103090106/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8817,7 +8817,7 @@ And to the mercies of a moment leaves
   
 The vast concerns of an eternal scene.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_charlie_ver01:data:sn83045160:00280779520:1877040401:0280/pct:214.2207053469852,59.04109589041096,42.43458475540387,13.333333333333334/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_charlie_ver01:data:sn83045160:00280779520:1877040401:0280/pct:53.578033859724,14.76027397260274,10.613173993455684,3.3333333333333335/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8876,7 +8876,7 @@ ized great peoples and exalted or destroyed
 great Governments we do not propose to deal.  
 But the grand record of 1
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn86053573:0021110238A:1879010101:0006/pct:71.50837988826815,98.06570463616825,51.795690343176375,59.1955787534541/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn86053573:0021110238A:1879010101:0006/pct:17.887801956478338,24.516426159042062,12.956677979636654,14.798894688363525/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8991,7 +8991,7 @@ Blood stuff&#x27;d in skins is British Christians&#x27; food,
 While France robs marshes of the croaking brood.  
 The toilet of the ladics was much admire
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84038582:00212471549:1881022601:1033/pct:141.0534469403563,129.88929889298893,56.777691711851276,7.708077080770808/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84038582:00212471549:1881022601:1033/pct:35.28385971710909,32.47232472324723,14.202673900406898,1.927019270192702/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9061,7 +9061,7 @@ Bright&#x27;s disease, rheumatism, and a hoard ®f
 other serious and fatal diseases, which can be  
 prevented wit li flop Bitters, if taken iu time
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_denton_ver01:data:sn84026758:00279522175:1882092301:0155/pct:43.22407815947053,64.73214285714286,12.180901355184368,2.8233590733590734/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_denton_ver01:data:sn84026758:00279522175:1882092301:0155/pct:43.22933081206009,64.73616473616474,12.186154007773926,2.831402831402831/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9080,7 +9080,7 @@ ter year it steals till all are fled Young.
 The successful man has many imitators in  
 his peculiar line of business, but still there i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jay_ver01:data:sn97067613:00202197474:1882092801:0134/pct:102.62228260869566,25.041532838631078,12.513586956521738,3.056816923247314/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jay_ver01:data:sn97067613:00202197474:1882092801:0134/pct:76.99103017124219,18.783918484882047,9.39113889643925,2.2926126924354855/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9123,7 +9123,7 @@ The bell strikes one We take no note of time
 But from its loss To give it then a tonge,  
 Is wise in man. As if an angel spoke.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_chevy_ver01:data:sn83025733:00200294762:1883090901:0081/pct:13.233830845771145,41.809869147091284,55.223880597014926,16.64827368752956/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_chevy_ver01:data:sn83025733:00200294762:1883090901:0081/pct:3.3092809156506595,10.452467286772821,13.809405324707638,4.16206842188239/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9584,7 +9584,7 @@ them with you to the t’other world ?
 There are three things extremely hard ; steel,  
 a diamond and to know one’s self.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685142:1891080601:0591/pct:50.30907278165503,54.19504222282757,21.415752741774675,8.934895123944429/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685142:1891080601:0591/pct:50.29904306220096,54.187661718643604,21.41812865497076,8.938217803804076/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9601,7 +9601,7 @@ Love and tooth-ache have many cures, but
 none infallible, except possession and dispos­  
 session.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685142:1891080601:0591/pct:50.32901296111665,66.23535821302097,21.3160518444666,2.3290656496867337/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685142:1891080601:0591/pct:50.31897926634769,66.22633800898815,21.318447634237106,2.333287938626356/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9713,7 +9713,7 @@ With brass or steel, that on the rocky shore
 First broke tho oozy oyster&#x27;s pearly coat,  
 And risked the living morsel down his throat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_ingalls_ver02:data:sn82014635:00237286807:1893091501:0050/pct:67.07683073229292,47.66619519094767,17.662064825930372,2.426286584702426/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_ingalls_ver02:data:sn82014635:00237286807:1893091501:0050/pct:44.73131191834284,31.781090196931782,11.783248273791655,1.6211511261016212/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9731,7 +9731,7 @@ With brass or steel that on the rocky shore
 First broke the oozy oyster&#x27;s pearly coat  
 And risked the living morsel down his throat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_joyce_ver01:data:sn83030193:00206535179:1893092901:0462/pct:248.13153961136024,166.13639943298156,41.33034379671151,5.418176090722948/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_joyce_ver01:data:sn83030193:00206535179:1893092901:0462/pct:62.04447766772566,41.53409985824539,10.334516912726594,1.354544022680737/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9749,7 +9749,7 @@ With brass or steel that on the rocky shore
 First broke the oozy oyster&#x27;s pearly coat  
 And risked the living morsel down his throat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_desalvo_ver01:data:sn99063954:0028076033A:1893110301:0444/pct:180.9880239520958,165.88001137332955,48.952095808383234,6.710264429911857/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_desalvo_ver01:data:sn99063954:0028076033A:1893110301:0444/pct:45.263946087607636,41.47000284333239,12.24260576563085,1.6775661074779642/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10100,7 +10100,7 @@ Thus on, till wisdom is pushed out of life.
 Procrastination is the th ef of Time;  
 Year after year it steals, till all are fled.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_calumet_ver01:data:sn86086632:00296023498:1897090101:0406/pct:92.31651376146789,74.40528634361233,20.445609436435124,2.984581497797357/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_calumet_ver01:data:sn86086632:00296023498:1897090101:0406/pct:61.559888579387184,49.60352422907489,13.632639685400623,1.9933920704845816/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10119,7 +10119,7 @@ Thus on, till wlsiom is pushed owt of life.
 Procrastination Is the th ef of Time;  
 Year after year it steals, till all are lied. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_calumet_ver01:data:sn86086632:00296023498:1897090201:0414/pct:96.2532722513089,48.44189569357282,20.30431937172775,2.8998052369616967/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_calumet_ver01:data:sn86086632:00296023498:1897090201:0414/pct:64.17934871543119,32.29820385198009,13.549337260677467,1.9368102142393422/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10138,7 +10138,7 @@ Thus on, till wisuoin is pushed out of life.
 Procrastination is the th&#x27;ef of Time;  
 Year after year it steals, till all are lied
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_calumet_ver01:data:sn86086632:00296023498:1897091301:0462/pct:94.94473342002601,66.45624727905964,20.17230169050715,2.9386155855463647/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_calumet_ver01:data:sn86086632:00296023498:1897091301:0462/pct:63.32737030411449,44.30779277318241,13.465604163278583,1.95907705703091/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10157,7 +10157,7 @@ Thus on, till wlisuoin is pushed out of life.
 Procrastination in tbe th&#x27;ef of Time;  
 Year after year it steals, till all are lied
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_calumet_ver01:data:sn86086632:00296023498:1897091401:0470/pct:98.22127937336815,65.04313639838375,20.316579634464752,2.9485639401550725/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_calumet_ver01:data:sn86086632:00296023498:1897091401:0470/pct:65.49698057777053,43.365731134651085,13.546597029541374,1.965709293436715/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10176,7 +10176,7 @@ Thus on, till wiaom is pushed out of life.
 Procrastination is the th&#x27;ef of Time;  
 Year after year it steals, till all are fled
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_calumet_ver01:data:sn86086632:00296023498:1897091501:0478/pct:95.43097861309138,68.56365614798695,20.220349967595592,2.970620239390642/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_calumet_ver01:data:sn86086632:00296023498:1897091501:0478/pct:63.63636363636363,45.71273122959739,13.482417760492627,1.9804134929270947/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10195,7 +10195,7 @@ Thus on, till wlsuom is pushed out of life.
 Procrastination in the th&#x27;ef of Time;  
 Year after year it steals, till all are tied
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_calumet_ver01:data:sn86086632:00296023498:1897091801:0506/pct:95.36015574302401,64.9690520143338,20.019467878001297,2.89933760451732/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_calumet_ver01:data:sn86086632:00296023498:1897091801:0506/pct:63.58916112282979,43.31632099033554,13.353886094434529,1.93289173634488/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10214,7 +10214,7 @@ Thug on, till wisioni is pushed out of life.
 Procrastination is tho th&#x27;ef of Time;  
 Year after year it steals, till ull are tied
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_calumet_ver01:data:sn86086632:00296023498:1897092001:0510/pct:97.69155206286837,64.13520632133451,20.333988212180746,2.908252853380158/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_calumet_ver01:data:sn86086632:00296023498:1897092001:0510/pct:65.14903373730756,42.756804214223,13.560432361611529,1.9424934152765583/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10233,7 +10233,7 @@ Thus on, till wisuoin in pun hod out of life.
 Procrastination is the tlref of Time;  
 Year after year it steals, till all are lied
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_calumet_ver01:data:sn86086632:00296023498:1897093001:0582/pct:93.77872619829284,54.7840349917988,20.272488509520684,2.9633679606342263/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_calumet_ver01:data:sn86086632:00296023498:1897093001:0582/pct:62.545155993431855,36.522689994532534,13.513957307060755,1.9792236194641881/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10252,7 +10252,7 @@ Thug on, till wlsnom is pushed out of life.
 Procrastination Is the th&#x27;ef of Time;  
 Year after year it steals, till all aru lied
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_calumet_ver01:data:sn86086632:00296023498:1897100101:0590/pct:95.45904887714663,57.68052516411379,20.35997357992074,2.8993435448577682/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_calumet_ver01:data:sn86086632:00296023498:1897100101:0590/pct:63.67090698827028,38.457330415754925,13.580042953907153,1.9365426695842451/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10299,7 +10299,7 @@ year after year it steals till all are fled,
 and to the mercies of a moment leaves  
 the vast concerns of an eternal scene
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_rollingstone_ver01:data:sn85038614:00175032903:1897122601:0736/pct:43.84488448844885,239.4663391760634,42.39273927392739,5.437088310818354/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_rollingstone_ver01:data:sn85038614:00175032903:1897122601:0736/pct:14.614961496149615,79.8221130586878,14.13091309130913,1.8123627702727847/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10319,7 +10319,7 @@ nro lied; and to tho niereies of a ino­
 luont leaves tho vast concerns of an  
 eternal scene. Voting.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_armsby_ver01:data:sn87078000:00237281822:1898010301:0020/pct:6.7037953795379535,26.468842729970326,17.14108910891089,3.7240356083086055/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_armsby_ver01:data:sn87078000:00237281822:1898010301:0020/pct:5.035080478745357,19.851632047477747,12.855963681386712,2.8041543026706233/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10441,7 +10441,7 @@ How much is to be done.&quot;
 NOi&#x27;(E.  
 Have added to my business 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_gambit_ver01:data:sn88064460:00280761588:1898071601:1214/pct:16.4387031408308,81.71315398580624,29.939209726443767,24.65753424657534/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_gambit_ver01:data:sn88064460:00280761588:1898071601:1214/pct:10.970357233341778,54.48993067018818,19.96453002280213,16.44106965995378/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10465,7 +10465,7 @@ the Flood.
 It Is the signal that demands dispatch—  
 How much is to be done!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517013456:1899010501:0006/pct:69.65824665676077,51.62543447147822,19.643387815750373,6.297280719689225/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517013456:1899010501:0006/pct:69.63755199049317,51.61488143908422,19.644979203802734,6.3011038430089945/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10546,7 +10546,7 @@ have many cures, but none infallible, ex­
 cept possession and dispossossion.  
 Piso&#x27;s Cure for Consumption has been 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_james_ver01:data:sn85058217:00206534862:1899021001:0362/pct:192.04295154185021,201.8933823529412,41.79515418502203,7.224264705882353/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_james_ver01:data:sn85058217:00206534862:1899021001:0362/pct:64.0495867768595,67.29779411764706,13.93939393939394,2.4080882352941178/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10581,7 +10581,7 @@ Benjamin Franklin- Love and toothache
 have many cures, but none infallible, ex­  
 cept possession and dispossession.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_contador_ver01:data:sn85058090:00206535313:1899021101:1606/pct:328.7682333873582,93.28248753300088,48.13614262560778,5.925491346435905/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_contador_ver01:data:sn85058090:00206535313:1899021101:1606/pct:82.22537494933117,23.32062188325022,12.038913660316174,1.4813728366089762/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10619,7 +10619,7 @@ aehe have many cures, but none infal­
 lible except possession and disposses­  
 sion.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_kutcher_ver01:data:sn84038335:00415622739:1899050401:0162/pct:23.40896513558384,67.9576483700195,14.86810551558753,2.29869044302034/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_kutcher_ver01:data:sn84038335:00415622739:1899050401:0162/pct:18.73186088838605,54.36882383535181,11.889419056520243,1.8389181960026748/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10637,7 +10637,7 @@ ache have man}&#x27; cures, but none infal­
 lible except possession and disposses­  
 sion.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_falcon_ver01:data:sn99068076:00415623380:1899050601:0288/pct:6.298793470546487,69.48821642727653,10.29098651525905,1.6734067772974481/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_falcon_ver01:data:sn99068076:00415623380:1899050601:0288/pct:6.312100780695529,69.49518895551527,10.277679205110006,1.6664342490587087/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -59,7 +59,7 @@ has been disbursed on aCLountofthe navy
 in each year, since itttent, &amp;  
 stating particularly the cost of each fri
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806012701:0003/pct:23.884623365843535,59.88112927191679,16.932973645984646,13.69714980413346/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806012701:0003/pct:23.891540430241406,59.88112927191679,16.926056581586774,13.70165248322752/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -79,7 +79,7 @@ j States,&quot; and by adding to th i resolution,
 j have been expended on each navy  
 yard.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806012701:0003/pct:23.262087570035277,82.87180872619209,17.410251089437644,3.741726327164663/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806012701:0003/pct:23.269004634433145,82.87631140528615,17.41716815383551,3.746229006258724/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -108,7 +108,7 @@ the same, with the cost of each armed ship and other
 vessels built or purchased, on account of the United  
 States, and also the cost of each navy yard
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806020501:0944/pct:5.64944471269918,39.843375419530126,20.787059391598262,8.886047626658144/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806020501:0944/pct:5.6480811006517015,39.83700862895494,20.788076273231958,8.888622563119208/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -136,7 +136,7 @@ tv of defending hy land batteries fuch ports and har­
 forud-ed.  
 A./i/W, That the PreiTdent caufe to belaid befor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1806020601:0341/pct:60.0524148259079,31.242858956455503,18.101834518906777,7.769455376412339/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1806020601:0341/pct:60.041175369642524,31.23889312008124,18.10468525796993,7.772700346957773/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -165,7 +165,7 @@ and harbors, as have, by any former law,
 ‘besa dire@ed to be fonificd. ‘ :  
 Rejfolvcd; That the President cause to b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1806021101:0234/pct:25.073427113927963,51.5142458657103,16.277631782346575,8.786610878661088/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1806021101:0234/pct:25.073427113927963,51.52088729494587,16.287937342196116,8.786610878661088/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -195,7 +195,7 @@ A Statement exhibiting the cost of each armed
 i s&#x27;&quot;p »n vessel built or purchased on account of  
 the United Status, for the navy, vi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806031101:0087/pct:40.09025949605115,21.222929936305732,17.882662655133508,9.643312101910828/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806031101:0087/pct:40.08272231622485,21.220226722710482,17.885567462555617,9.646329554621492/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -223,7 +223,7 @@ State* be requested to cause to be laid be­
 fore this House any information which may  
 be ill his possession
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812121701:0324/pct:56.140963014654574,80.27648671195328,16.189811584089323,2.19282564652604/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812121701:0324/pct:56.1311704168847,80.26692087702574,16.19280190708762,2.196536383857642/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

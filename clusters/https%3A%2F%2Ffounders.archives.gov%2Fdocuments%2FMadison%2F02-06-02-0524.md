@@ -181,7 +181,7 @@ u possessed it; and such as it should be
 “ after the treaties subsequently entered  
 “ into between Spain and other states.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1803110401:0163/pct:67.8110409228234,26.278870829769033,20.21422686075254,8.964927288280581/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1803110401:0163/pct:67.79242174629324,26.27437564146425,20.21554091158704,8.967670201847417/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -219,7 +219,7 @@ u possessed it; and such as it should be
 “¢ quently entered into between Spain  
 ¢ and other states.” = 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1803110801:0383/pct:41.00245248313918,62.212901937287796,16.354996934396077,9.666466946275214/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1803110801:0383/pct:41.01267116288575,62.212901937287796,16.344778254649498,9.66979561946608/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -301,7 +301,7 @@ ed, to reside at each of the ports of delivery,
 whica may be established, and suv.h collector and  
 . itnvcyor shall be entitled to receive, in additio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804031401:0047/pct:59.3272762420259,38.6477242830834,18.44190991687609,12.943962115232834/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804031401:0047/pct:59.31580981832238,38.64264106273839,18.444788042777994,12.94664386864834/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -451,7 +451,7 @@ entry ; and a f{urveyor shall likewise
 “be appointed, to reside at each of the  
 orts of delivery, which may be eftab
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804050101:0483/pct:78.2703037817731,38.177579172333395,16.58400495970242,18.573926559160675/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804050101:0483/pct:78.27547013845836,38.18405543682404,16.578838603017154,18.573926559160675/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -473,7 +473,7 @@ it red and three, between the United States,
 .and the Fri nco Republic ; and for o ther  
 purpofe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804051901:0024/pct:44.63056020844966,36.94656488549618,16.04317885724921,4.631043256997455/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804051901:0024/pct:44.622255303312244,36.94186490268414,16.046396228755736,4.634694483314251/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -511,7 +511,7 @@ a lurveyor (hall hkewife he appointed, to
 refule at each ofthe ports of deliver-/,  
 | which may be eftabliflied, and inch collcdt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804051901:0024/pct:78.00111669458403,60.92875318066158,16.862088218872138,13.71501272264631/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804051901:0024/pct:77.98660215854112,60.92100241699529,16.865153206798166,13.717508374676674/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -541,7 +541,7 @@ sessed it, and such as it should be after the treaties
 subsequently entered into between Spain and other  
 states.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804101601:0161/pct:72.11830131445905,90.64158224794983,21.511627906976745,3.4410676957710242/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804101601:0161/pct:72.10007581501137,90.62700964630226,21.51250947687642,3.444533762057878/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -583,7 +583,7 @@ United States and the French 1
 and for other purposes,” Uj _ _  
 the sixth section refuses th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1804122801:0354/pct:69.80758347481607,25.64373897707231,20.797962648556876,5.978835978835979/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1804122801:0354/pct:69.78783592644979,25.639217069299946,20.799151343705798,5.982190089931229/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -654,7 +654,7 @@ creeks, inlets and bays emptying into the gulph of
 Mexico, east of the said river Mobille, and west  
 thereof to the Pascaquola inclusive,” into a distric
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806041801:1068/pct:4.47870778267254,10.573678290213723,20.876162506118455,6.556323316728266/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806041801:1068/pct:4.477611940298507,10.5719794344473,20.87717151945192,6.559286632390745/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -682,7 +682,7 @@ the shores waters and inlets of the bay and river Mo­
 bile into a custom-house district, and to establish  
 ports ol entry and delivery therein”—the presiden
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808080301:0033/pct:32.69971126082772,60.45980759823903,19.850818094321465,2.674058372737649/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808080301:0033/pct:32.69184508058696,60.44995109227258,19.85205677171037,2.6776980762960547/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -726,7 +726,7 @@ ports of delivery only”-~a collector to
 [JC appointed at the port of entry, and a  
 surveyor tit each port of delivery &amp;c.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810111301:0226/pct:40.812274368231044,33.36181640625,17.166064981949457,6.62841796875/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810111301:0226/pct:40.80490886121639,33.357744415964845,17.168982734765084,6.631677448228162/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -754,7 +754,7 @@ the same district, not exceeding two to bt
 ports of delivery only”-a collector to be  
 appointed at the port of entry , and a su
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810120801:0258/pct:40.53856017585638,47.486512996566944,17.988642608536363,7.7734183423246686/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810120801:0258/pct:40.53113553113553,47.48069143067304,17.99145299145299,7.77655183686813/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -782,7 +782,7 @@ Louisiana was retroceded, “such as it !
 should be after the treaties subsequently e .  
 tered into between Spain and other state
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810122701:0290/pct:40.41574687270052,69.07862407862407,17.899190581309785,2.321867321867322/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810122701:0290/pct:40.40831340812948,69.07013880358679,17.90202930537674,2.3256766163043032/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -803,7 +803,7 @@ as it should be after the treaties subse­
 quently entered into between Spain and  
 other states.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810122801:0423/pct:59.71671388101983,80.29896512073591,17.790368271954673,4.765555129679315/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810122801:0423/pct:59.705438066465256,80.28870720490546,17.793303121852972,4.769204564810083/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -832,7 +832,7 @@ that it had when Fmnce possessed it,liiod sec-b^H!
 it should be after the treaties subsequently entered&#x27;  
 into between Spain and other states.&quot; Thntltpi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811010901:0301/pct:74.0285785911256,83.62658846529814,21.333667585861118,3.4701857282502444/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811010901:0301/pct:74.01002506265664,83.61296628115328,21.334586466165412,3.4736927838410163/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -873,7 +873,7 @@ Not the least doubt can be entertained, even by
 the most biassed minds, of the veracity and authen­  
 ticity of the assertions of a learned astronomer, ap
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811011601:0313/pct:30.47359285891396,25.17845554834523,21.076121993553187,17.602206359506813/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811011601:0313/pct:30.466038671294,25.174371451743713,21.07709469509172,17.60340632603406/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -895,7 +895,7 @@ had when France possessed it ; and such as it
 should be after the treaties subsequently entered in­  
 to between Spain and other stats.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1811011701:0325/pct:41.960072595281304,33.7000366703337,17.259528130671505,4.596015157071263/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1811011701:0325/pct:41.95245871892578,33.69591786849181,17.26244480735499,4.599527417909232/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -918,7 +918,7 @@ that it had whrn France possessed it, and such as
 it should be after the treaties subsequently entered  
 into between Spain and other states. This latte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811011801:0317/pct:52.48262164846077,14.844630494284335,20.903674280039723,5.973273224923523/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811011801:0317/pct:52.46959543310995,14.842240824211204,20.90469099032018,5.976336123631681/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -940,7 +940,7 @@ ed into with other states.
   
 And by the t reaty of 1803, bet we. n Franc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1811011901:0329/pct:41.693811074918564,62.2481184753581,17.227651103872603,4.2364651614469535/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1811011901:0329/pct:41.68626741451058,62.24056317514261,17.23056510463784,4.239996763361249/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -962,7 +962,7 @@ had wnen France possessed it; and such as
 ii. should be alter the treaties subsequently  
 entereu into between Spain and other states.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1811012501:0032/pct:7.514450867052023,58.27738894443651,21.98843930635838,5.670618483073847/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1811012501:0032/pct:7.512713823393435,58.269065981148245,21.989135460009248,5.673379034561554/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -990,7 +990,7 @@ thus translated—&quot; And &quot;Rib is it should be
 after the treaties subsequently entered into  
 between Spain and other States.&quot; The so}
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216134:1811032701:0282/pct:32.36956872879987,83.46789696270665,20.739783556775965,2.63360246059208/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216134:1811032701:0282/pct:32.36434108527132,83.45987506006728,20.741817398794144,2.636552939292007/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1302,9 +1302,9 @@ entered into between Spain and other states.’ It was an act of retroces
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1845-06_16_84/page/n4/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1845-06_16_84/page/n4/mode/1up?view=theater)
 
-#### 1845-06-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1845-06-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1343,7 +1343,7 @@ it had when France possessed it, and such as it
 should be, according to the treaties subsequently  
 made between Spain and other Slates.&quot; And i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661125:1845060901:0141/pct:4.380831883599557,25.996228786926462,13.601138699984185,2.95411690760528/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661125:1845060901:0141/pct:4.391375401971638,26.004609260423212,13.601138699984185,2.95411690760528/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1391,7 +1391,7 @@ as it should be after the treaties subse­
 quently entered into by Spain and other  
 States? By the latter his Catholic ma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn86053972:00295878472:1846010701:0229/pct:84.98985801217039,53.39489407930473,19.244421906693713,5.015390186492848/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn86053972:00295878472:1846010701:0229/pct:63.77473363774734,40.050697084917616,14.459665144596652,3.766069165308709/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1439,13 +1439,13 @@ entry and delivery for such district, and to designate
 sueh other places, within the some district not  
 exceeding two, to be ports of delivery only.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014405:00415660923:1847123101:0432/pct:17.211411297940675,45.59753050124945,14.547515586623843,4.9977950904012935/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014405:00415660923:1847123101:0432/pct:17.211411297940675,45.60733009946592,14.547515586623843,5.00269488950953/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The American review : a Whig journal of politics, literature, art, and science_](https://archive.org/details/sim_american-whig-review_1849-03_9_15/page/n13/mode/1up?view=theater)
+## [From _The American Review: a Whig Journal Devoted to Politics and Literature (1848-1850)_](https://archive.org/details/sim_american-whig-review_1849-03_9_15/page/n13/mode/1up?view=theater)
 
 #### 1849-03-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -1546,7 +1546,7 @@ it, and such as it should be, according
 to the treaties subsequently made be­  
 tween Spain and other states.”-* Wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033255:00514152500:1882122801:0201/pct:70.82421590080233,79.96533795493934,10.24070021881838,3.778162911611785/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033255:00514152500:1882122801:0201/pct:70.82421590080233,79.96918929327941,10.25042548018478,3.782014249951858/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1667,7 +1667,7 @@ nulled and revoked, or at least that part of it which
 so manifestly violates the rights of his Catholic  
 Majesty.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:0017504291A:1897031401:0939/pct:218.23617339312406,99.95553579368608,50.37369207772795,90.70698088039128/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:0017504291A:1897031401:0939/pct:54.57943925233645,24.98888394842152,12.598130841121495,22.67674522009782/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

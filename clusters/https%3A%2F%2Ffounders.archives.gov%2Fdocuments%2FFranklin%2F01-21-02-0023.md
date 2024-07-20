@@ -119,7 +119,7 @@ You most obedient and most humble
 Bet t B FRANKltlNI  
 Usable Thomas Cushinu Saml Adam
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:206534576:1897092301:0355/pct:64.01785714285714,5.606758832565284,38.589285714285715,143.98361495135688/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:206534576:1897092301:0355/pct:42.69381922115041,3.7378392217101895,25.741336191496963,95.98907663423792/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -211,7 +211,7 @@ and most humble Servant. B. Pranklin
 Hon&#x27;ble Thomas Cushing. Sam&#x27;l Flams  
 John Hancock, William Phillip
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_delta_ver01:data:sn86071197:00175034900:1897092601:0441/pct:164.59731543624162,91.531641699786,55.53691275167785,120.14674411494956/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_delta_ver01:data:sn86071197:00175034900:1897092601:0441/pct:41.149328859060404,22.8829104249465,13.884228187919463,30.03668602873739/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -296,7 +296,7 @@ Servant B FRANKLIN.
 Honble Thomas Cushing, Sam&#x27;l Adams,  
 John Hancock! William Phillips, Es
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_firebaugh_ver01:data:sn82015104:00280768777:1897101001:0489/pct:34.66090850927703,17.315464794724527,13.595649392194497,25.111678366305043/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_firebaugh_ver01:data:sn82015104:00280768777:1897101001:0489/pct:34.66090850927703,17.31901013968659,13.600981019407124,25.108133021342976/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -447,7 +447,7 @@ ant BFnAKKi.?s.
 Honblo Thomas Cunning, Bam&#x27;l Adams, John  
 Hancock, William Phillips, Esquires
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_evadeestruction_ver01:data:sn84026965:00294550859:1897112401:0059/pct:28.971014492753625,16.537867078825347,13.869565217391305,26.385515566350186/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_evadeestruction_ver01:data:sn84026965:00294550859:1897112401:0059/pct:28.97584541062802,16.537867078825347,13.864734299516908,26.39287554279826/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -523,7 +523,7 @@ ant B FRANKLIN.
 Eonble Thomas Cashing, Bam&#x27;l Adams, John  
 Hancock, William Phillips, Esquire 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_gnomiemoore_ver01:data:sn84026965:00294551189:1897112402:0460/pct:29.56562354040168,15.862290862290862,13.5450723960766,26.64092664092664/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_gnomiemoore_ver01:data:sn84026965:00294551189:1897112402:0460/pct:29.56562354040168,15.865865865865866,13.555451761897348,26.644501644501645/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -598,7 +598,7 @@ Vonr most obedient mid most humble Serv­
 ant I- i&#x27;llANKI.IN.  
 Hoi, I lo Thomas t &#x27;usliitiit, Sam&#x27;l Adams, Joh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gorn_ver01:data:sn84037217:00271764856:1897121601:0632/pct:27.953099663215667,53.656086781840095,11.812398652862667,23.36279630373644/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gorn_ver01:data:sn84037217:00271764856:1897121601:0632/pct:27.953099663215667,53.659434846658634,11.824872146688287,23.36279630373644/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -687,7 +687,7 @@ Samel Adams
 John Hancock  
 William Phillip
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_rollingstone_ver01:data:sn85038614:00175032903:1897122601:0729/pct:88.14790892943645,174.97548752587429,42.61262715969643,86.69789737444167/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_rollingstone_ver01:data:sn85038614:00175032903:1897122601:0729/pct:29.382636309812153,58.32516250862476,14.204209053232145,28.899299124813886/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -1143,7 +1143,7 @@ persed aboii in the other c.l.es The number
 of printing presses and - f b.,&lt; k indershas in­  
 creased ui the same pn-po lio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816041301:0121/pct:53.8031124322434,6.516957981247829,33.88704318936877,85.00983910174789/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816041301:0121/pct:53.79370629370629,6.516203703703703,33.886946386946384,85.00385802469135/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1168,7 +1168,7 @@ of spreading useful knowledge among all
 classes ol ilis subjects, aild lo tlieii.iln­  
 ence of his example may in* justly attri
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1817022201:0394/pct:37.10206760748277,77.94448612153039,14.604529044962257,6.314078519629907/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1817022201:0394/pct:37.095980311730926,77.93474184273035,14.607601859447634,6.317456348710255/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1866,7 +1866,7 @@ memory of their scholars with words, but
 to make things intelligible to their under­  
 standing.Rather strange that a follower of Vol
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_brick_ver01:data:sn83025121:00211108848:1869012701:0180/pct:26.507742461287695,19.388989715668483,15.851670741646291,4.7035692679975805/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_brick_ver01:data:sn83025121:00211108848:1869012701:0180/pct:19.889953128184228,14.54930429522081,11.90136539637253,3.5238959467634605/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1928,7 +1928,7 @@ aud the joint tenants. From that day
 to this Prussia hxstMteiitho lead In tho  
 matter of public schools, and wo aro I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_hairspray_ver01:data:sn84037890:00100481601:1883090501:0578/pct:66.00433526011561,45.76485461441214,11.596820809248555,8.666947605000702/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_hairspray_ver01:data:sn84037890:00100481601:1883090501:0578/pct:61.6117339627413,42.71386430678466,10.823569080333812,8.092428711897739/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

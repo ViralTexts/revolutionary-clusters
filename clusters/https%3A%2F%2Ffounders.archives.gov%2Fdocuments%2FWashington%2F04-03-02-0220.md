@@ -144,7 +144,7 @@ She politely thanked him for his friendly exprefiions
 towards her and her family, and wasvery happy to fee  
 him in England.—Thus far | have given you th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025586:0051701512A:1785093001:0162/pct:66.14803289619915,7.805685065423372,26.961547010446765,31.162580839223942/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025586:0051701512A:1785093001:0162/pct:66.15544195006298,7.815711635834963,26.954137956582944,31.16759412442974/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -492,7 +492,7 @@ Snifl&#x27;en trying to tell a funny story at the
 dinner-table and breaking down in the  
 middleof it, recalls a little feat performe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016739:00295877510:1876021901:0163/pct:34.71030042918455,92.48537573121344,14.610157367668098,11.66941652917354/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016739:00295877510:1876021901:0163/pct:26.051171944891752,69.37153142342883,10.967972803721596,8.744562771861407/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

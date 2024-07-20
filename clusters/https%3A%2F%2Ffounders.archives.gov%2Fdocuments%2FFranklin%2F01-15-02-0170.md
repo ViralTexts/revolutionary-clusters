@@ -340,7 +340,7 @@ theory has been stoutly maintained, that the Sermon on th
 “Forgive us our sins, for we also forgive every  
 one that Is Indebted to us.” How Is a sinner t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1876101701:0005/pct:28.284720363928283,71.51527412502529,13.272678619213274,0.7889945377301234/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1876101701:0005/pct:28.284720363928283,71.51527412502529,13.272678619213274,0.8142828241958325/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -416,7 +416,7 @@ sins; for we also forgive
 every one that is indebt­  
 ed to us. And lead u
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777675:1881052501:1032/pct:224.8868778280543,338.07365439093485,21.19155354449472,16.60056657223796/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777675:1881052501:1032/pct:56.24292719728405,84.51841359773371,5.299886835156545,4.15014164305949/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -437,7 +437,7 @@ temptation. The marginal notes give varia­
 tion The is an imtoruse gain in the way in  
 which the text is printed. It is no longe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777067:1881052701:0302/pct:103.9245283018868,311.61299316882753,38.716981132075475,13.941168269901018/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777067:1881052701:0302/pct:25.9811320754717,77.90324829220688,9.679245283018869,3.4852920674752546/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -549,7 +549,7 @@ give us our debts as we forgive our debtors,&quot; and in
 Luke, xi., 4, it is, &quot;And forgive us our sins, for we also  
 forgive every one that is indebted to us.&quot; The Dona
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_fernandez_ver01:data:sn83030272:00175044796:1888011001:0379/pct:289.01869158878503,257.535921736472,51.01246105919003,3.8978905533476/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_fernandez_ver01:data:sn83030272:00175044796:1888011001:0379/pct:72.26874391431353,64.383980434118,12.755598831548198,0.9744726383369/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -800,7 +800,7 @@ us day by day our daily bread: And
 forgive us our sins, for we also forgive  
 every one that is indebted to us An
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn90053049:00332897913:1896030701:0590/pct:4.329420819703675,11.179064144502915,25.899557436982874,83.43052197411464/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn90053049:00332897913:1896030701:0590/pct:4.328587918430165,11.177474402730375,25.899384378607156,83.42221274175199/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -907,7 +907,7 @@ enable us likewise to forgive those that
 offend us. Keep us out of Tempta­  
 tion.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_inskip_ver01:data:sn82015104:00280768856:1899053101:0657/pct:43.81061975998685,73.21428571428571,12.18148939667927,4.531098153547133/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_inskip_ver01:data:sn82015104:00280768856:1899053101:0657/pct:43.82294920269604,73.21732264334305,12.177379582442873,4.53413508260447/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -975,7 +975,7 @@ passes and enable us likewise to for
 give those that offend us Keep us  
 out of Temptatio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_batman_ver01:data:sn86069395:00206533225:1899070701:0450/pct:67.66325727773406,102.5089605734767,19.020456333595593,11.56989247311828/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_batman_ver01:data:sn86069395:00206533225:1899070701:0450/pct:50.76741440377804,76.88888888888889,14.285714285714286,8.67383512544803/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

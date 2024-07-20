@@ -35,7 +35,7 @@ but by the grace of God he had his conversation
 in the world, and more abundantly to you ward.  
 —But a holy and sovereign God has seen fit t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015064:1766122601:0712/pct:35.19185923256307,62.37337192474674,28.25948696205215,8.567293777134587/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015064:1766122601:0712/pct:35.19185923256307,62.37819585142306,28.273620238852377,8.567293777134587/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -182,7 +182,7 @@ have had our conversation in the world and
 more abundantly to you-ward. For we write  
 you none other things than what ye read o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ellis_ver01:data:sn85025007:00415663584:1866021601:0370/pct:52.338828575258006,21.837504285224547,24.36670687575392,5.725059993143641/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ellis_ver01:data:sn85025007:00415663584:1866021601:0370/pct:52.347763927981056,21.843217917952234,24.362239199392395,5.727916809507485/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -231,7 +231,7 @@ deshty tcisttom, but by the grace of God, we
 have had our conversation in the world,  
 and more abundantly toward you.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271742058:1873100701:0339/pct:47.883670125614415,168.68779106930873,41.91698525395959,8.839375399506894/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271742058:1873100701:0339/pct:15.961223375204806,56.22926368976958,13.972328417986528,2.946458466502298/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -343,7 +343,7 @@ Peace as regards the providence of God. tl
 There are things daily occurring in the j 11  
 world that men regard as unfavorable. 1
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295861927:1883122001:0321/pct:57.27675084613382,73.50661194710442,14.28013538141109,4.231646146830825/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295861927:1883122001:0321/pct:57.27675084613382,73.51269189846481,14.288813676993838,4.228606171150631/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -54,7 +54,7 @@ ther purposes thérein mantioned ; declars -
 ing the right of this State to the unappros  
 pr_iatcd térritory thereof, for the protettio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796031901:0046/pct:76.11528437835352,8.415245737211634,16.15820941284685,4.122367101303912/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796031901:0046/pct:76.12039450150749,8.41858910063524,16.153099289692882,4.122367101303912/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -75,7 +75,7 @@ right of the State to the unappropriated tertitory
 thereof, for the protection Vint! of tlie fron­  
 tiers of this State and for other pttrpofea,**- wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1796040701:0003/pct:28.092851490371935,61.52697095435685,21.076233183856502,4.813278008298755/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1796040701:0003/pct:28.099446056449487,61.53526970954357,21.09601688208916,4.821576763485477/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -94,7 +94,7 @@ uiilocated territory of this state, for the
 payment of the late state troops, and lor  
 other purposes,” was passed by person
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804022901:0027/pct:78.50826605151865,25.995008538027058,17.87773933102653,3.4808879548141336/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804022901:0027/pct:78.49317701326159,25.991594431310745,17.880709846883207,3.484808685754312/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -125,7 +125,7 @@ propriated territory thereof, for the proteiftioii and
 fepport of the frontier* of this ftate, and for other  
 p’trpofes, was taken up and read a fccond time. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1805010301:0300/pct:4.229774658293314,30.737551478846875,17.805688954562246,3.756395856732809/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1805010301:0300/pct:4.22899353647276,30.73371599700524,17.80855647891659,3.760086515264953/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -147,7 +147,7 @@ tier,&quot; and the Same fafcination is kept
 up through the enacting clauSes, and is  
 the longeft a£t in the ttatute book ; i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805022501:0001/pct:40.6097018246551,41.78938594053904,18.60258121940365,5.7238121700472355/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805022501:0001/pct:40.61711912179202,41.78938594053904,18.60258121940365,5.728443086042419/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -190,7 +190,7 @@ prote@ion and support of the frontiers of this
 state and for other purpoies,” pafled January&#x27;the  
 seventh, one thousand {even hundred and ninet
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814060701:0096/pct:6.472261735419631,36.48255813953488,16.884779516358464,4.534883720930233/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814060701:0096/pct:6.472261735419631,36.485788113695094,16.89426268373637,4.531653746770026/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -303,7 +303,7 @@ the proteion and support of the frontiers of
 this state, and for other purposes,” paflcd Janua=  
 ry the seventh, one thousand seven hundred an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814102501:0175/pct:76.96092619392185,80.63889698028935,17.062228654124457,5.049033886785125/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814102501:0175/pct:76.96092619392185,80.64537010065702,17.071876507477086,5.0457973266012885/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -396,7 +396,7 @@ ry the seventh, one thousand feveny hundred and
 ninety-five, as may be found to have accrued to  
 the United States by operation of law ; and, gen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814110801:0184/pct:41.619829946678195,35.562726117140905,17.17826776192535,6.776180698151951/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814110801:0184/pct:41.62463371283086,35.56924480949122,17.17826776192535,6.776180698151951/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -418,7 +418,7 @@ ritory thereof, for the protection und support of the
 fronliers of this state, and for other purposes,” pus.  
 sed January the seventh, one thousand seven liun
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1814110901:1139/pct:26.662299377661316,47.00235109717868,22.12577792335408,4.535658307210031/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1814110901:1139/pct:26.667758488918004,47.00561650992685,22.12577792335408,4.538923719958203/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -487,7 +487,7 @@ ritory thereof, for the pretection and support of the
 frontiers of this state, and for other purposes,” pas­  
 sed January the seventh, one thousand seven hun
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1814111601:1143/pct:28.557164253619572,20.94674556213018,22.249958395739725,4.644970414201183/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1814111601:1143/pct:28.56825872302657,20.950032873109794,22.249958395739725,4.641683103221565/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -521,7 +521,7 @@ stale, and for other purposes,* passed Janu • y
 the seven*h, one thousand seven hundred and  
 ninety five, as may bo found to have sberned t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814111901:0309/pct:26.750223813786928,41.260543580131205,16.454789615040287,5.072633552014995/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814111901:0309/pct:26.745435016111706,41.25571043692163,16.4578111946533,5.075943930342431/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -567,7 +567,7 @@ ninety five, as may be found to have accrued t«
 the United SUtes by operation of law : and,  
 generally, for the purpose of doing sad per
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814112601:0317/pct:24.160346695557962,19.461722488038276,17.352834958468762,6.291866028708134/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814112601:0317/pct:24.155984834807725,19.459394809233345,17.355720045736295,6.295100267113185/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -629,7 +629,7 @@ protection and support of the frontiers of this
 the seventh, one thousand seven hundred and  
 ninety five, as may he found to have accrued t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814113001:0321/pct:26.98148148148148,19.279811097992916,17.14814814814815,5.655253837072019/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814113001:0321/pct:26.976485835956304,19.277535119820563,17.151144849719188,5.658521229292095/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -689,7 +689,7 @@ the prote@ion and support of the frontiers of
 this state, and for other purposes,” pafled f2nua­  
 ry the seventh one thousand seven hundred an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814120601:0197/pct:5.0285714285714285,31.489196783257437,17.12857142857143,4.960759616316248/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814120601:0197/pct:5.038095238095238,31.492426444465977,17.123809523809523,4.960759616316248/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -778,7 +778,7 @@ this state, and for other purposes,” pafled Janua­
 ry the seventh, one thousand seven hundred and  
 ninety-five, as may be found te have accrued t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814121301:0204/pct:59.178674351585016,45.037137069547605,17.118155619596543,5.585029420275875/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814121301:0204/pct:59.178674351585016,45.040352400244366,17.13256484149856,5.588244750972637/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -877,7 +877,7 @@ the prote@ion:- and ‘fupport of&#x27;the frontiers of
 this state, and for other purposes,” pafled janua­  
 ty the seventh, one thousand seven hundred an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814122001:0208/pct:3.5287339766671466,68.6268829663963,17.211580008641796,5.011587485515643/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814122001:0208/pct:3.5383359738825675,68.6268829663963,17.21638100724951,5.018024977468778/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -941,7 +941,7 @@ state, ami for other ft imposes,” passed January
 t.ic seventh, qne thousand seven hundred anil  
 ninety five, as may be found to have accrued t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814122401:0341/pct:60.05731685473759,39.56537144206921,17.051764284434892,5.1375930081492855/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814122401:0341/pct:60.046561604584525,39.56069910250354,17.054680038204392,5.140922689340261/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1002,7 +1002,7 @@ this state, atd for other purposes,” passed Janua­
 ry the seventh, one thousand seven hundred an#  
 ninety-five, as may be found te have accrued t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814122701:0212/pct:4.0064336891358385,57.37960616104504,17.56104693668665,5.624878143887697/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814122701:0212/pct:4.0064336891358385,57.38610515370117,17.57079495052883,5.618379151231559/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1150,7 +1150,7 @@ propriating a part of the unlocated torritory
 this State, for the payment of the late State  
 troops, and for other purposes,&quot; was pass
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_tesla_ver01:data:sn85038614:00175030931:1887030301:0254/pct:83.95335104812519,153.2727458388645,33.93858872158252,4.727866843663842/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_tesla_ver01:data:sn85038614:00175030931:1887030301:0254/pct:27.984450349375063,51.0909152796215,11.312862907194173,1.5759556145546139/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

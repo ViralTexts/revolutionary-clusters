@@ -45,7 +45,7 @@ chant veaaela, on the high seas, among the
 things not to be forcibly entered in search  
 of deserters.” To them may be adde
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812081801:0122/pct:23.600660671682878,52.521525215252154,17.471095613874105,3.862238622386224/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812081801:0122/pct:23.59633027522936,52.51506579756487,17.474006116207953,3.8658631574632065/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -181,7 +181,7 @@ merchant vessels on the high seas, among
 the things art to he forcibly Cnter.fi in  
 search of deserters.”--.Mr. John Marshall&#x27;s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812101601:0189/pct:23.614370825058675,93.07051909892263,17.22332551001986,3.991185112634672/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812101601:0189/pct:23.6101083032491,93.05912596401028,17.226233453670275,3.994777002489085/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -202,7 +202,7 @@ numerate merchant vessels on the high seas,
 among the things no; to be forcibly entered  
 in searcb of deserters.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812111001:0217/pct:57.21048798252003,37.91590493601463,16.89730517115805,3.717245581962218/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812111001:0217/pct:57.200072819952666,37.91128442602973,16.900297348140057,3.7208546591924607/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -256,7 +256,7 @@ quences, than not to enumerate merchant vessels, on
 tha high seas, among the things not to he forcibly,  
 entered in search of deserters.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1813012801:0341/pct:41.05691056910569,43.15659679408138,17.812269031781227,14.463625154130703/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1813012801:0341/pct:41.04932569739516,43.15127604487733,17.81513640002463,14.465951588377923/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -295,7 +295,7 @@ vessels on the high seas among the things
 not to be forcibly entered in search of deser­  
 ters.*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814040201:0071/pct:22.125311498754005,83.9437618147448,16.660733357066572,8.022211720226844/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814040201:0071/pct:22.12137390994839,83.93384524512699,16.663700539835084,8.025201811380192/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

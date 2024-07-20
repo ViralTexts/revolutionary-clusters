@@ -188,7 +188,7 @@ Sir, y ur obedient Servant,
 ALEX. HAMILTON.  
 Aaron Burr, ESq
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804072301:0002/pct:39.504950495049506,75.72186973973844,16.871287128712872,17.467305451249516/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804072301:0002/pct:39.51155115511551,75.73050196383097,16.871287128712872,17.45867322715698/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -238,7 +238,7 @@ obedient servant,
 ALEX HAMILTON.  
 Asron Bure, Esq
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804072401:0532/pct:42.71604938271605,6.714052444529824,16.589506172839506,17.279800211314956/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804072401:0532/pct:42.72633744855967,6.7172541862773345,16.594650205761315,17.286203694809977/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -274,7 +274,7 @@ site you should explain.
 , ALEX. HAMILTON.  
 s Aaron Burr, Esq
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804072401:0017/pct:7.289858666005455,23.59621451104101,22.539052814282172,15.488958990536277/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804072401:0017/pct:7.288051561725335,23.592493297587133,22.539662865642043,15.490458918151711/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -308,7 +308,7 @@ Sir, your obedient ferv.iut, ,
 ALEX. HAMILTON.  
 Aaron Burr, Efquite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804072501:0098/pct:58.45708076783774,66.74162918540729,17.54798985874683,10.857071464267866/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804072501:0098/pct:58.446496469310155,66.73329169269206,17.55084796909892,10.859879242140329/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -348,7 +348,7 @@ Sir \ our cbt. servt.
 AI.KX. HAMILTON.  
 Aaron Burr, esq
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804072501:0223/pct:42.435848333971656,38.187532739654266,17.962466487935657,18.58302776322682/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804072501:0223/pct:42.427723530538,38.18253240801362,17.96540940710958,18.584959189908776/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -383,7 +383,7 @@ Sir, your obedient fervant,
 o Avxx, Hamivron,  
 - Aaron Barr, Efg
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1804072601:0528/pct:46.5292226215245,32.430888736577565,19.68980518252317,13.490975554032442/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1804072601:0528/pct:46.5292226215245,32.43469651968624,19.68980518252317,13.494783337141117/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -468,7 +468,7 @@ qufite you fhould explain.
 Sir, your obedient fervu4t  
 Aaron Burr, Ejq A. HAMILTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016081:00332895060:1804073001:0159/pct:26.498562264985623,75.3514526710403,22.163238221632383,13.87066541705717/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016081:00332895060:1804073001:0159/pct:26.492702344095534,75.34136546184739,22.16386554621849,13.872155287817938/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -506,7 +506,7 @@ Sir, your ob&#x27;tft aervt,
 ,• ALEX. HAMILTON.  
 Aaron Burr, Eiq
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1804080301:0311/pct:48.764769065520944,30.549298215214,19.46831364124597,18.125108300121298/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1804080301:0311/pct:48.75167785234899,30.544005544005543,19.469798657718123,18.126299376299375/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -618,7 +618,7 @@ dy been given. If you mean any thing differ­
 ent, admitting of greater latitude, it is requisite  
 you should explain.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025007:00414216493:1834051401:0465/pct:23.729035639413,50.53361792956243,18.5272536687631,4.046602632515119/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025007:00414216493:1834051401:0465/pct:23.72592689637102,50.52912405513562,18.529193414559586,4.049207054987402/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

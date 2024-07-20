@@ -572,7 +572,7 @@ and manners, and a particular account
 of the American system of agriculture  
 with its recent improvements. B
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762258:1892110901:0187/pct:40.154250082047916,75.7458009526197,10.731867410567771,2.093256455251943/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762258:1892110901:0187/pct:40.15835247784706,75.75520180496365,10.735969806366919,2.086989220355979/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

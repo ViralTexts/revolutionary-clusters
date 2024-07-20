@@ -75,7 +75,7 @@ trei.ee into the corn u, *nd indtspeasablv ae
 erssarv u a shield to the republican part of  
 our leHuw eitiacna, wh*h I believe i. th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1830080501:0346/pct:20.517884573184112,5.320197044334975,37.21746763221417,90.24630541871922/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1830080501:0346/pct:20.51338306274682,5.319448353504081,37.21478718736288,90.237123557557/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -116,7 +116,7 @@ on only as far as the right of a private citi­
 wovaty except in the case of Attorneys and  
 l Marshals.” We dissent, toto calo, from thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021207:0051717192A:1832082901:0174/pct:40.19534184823441,17.196991611223606,15.777610818933132,4.3968759039629735/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021207:0051717192A:1832082901:0174/pct:31.151438691833665,13.327604244507548,12.242224270949585,3.4075623972500373/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -217,7 +217,7 @@ ples, practised on only as far as the right of a private cit­
 izen will justify, are not the proper subjects of removal,  
 ercep! in the case of attorneys and marshals
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347922:1849072301:0401/pct:21.606049693914297,87.25116476069462,60.15484335613972,44.40208951009459/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347922:1849072301:0401/pct:5.4005400540054005,21.80971202710333,15.036003600360036,11.098955392433654/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -294,7 +294,7 @@ decided on our rules of conduct us to these.
 That some ought to be removed from office,  
 and that all ought not, all mankind
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661368:1849080201:0192/pct:71.13586358635864,25.82134421301267,15.14026402640264,4.380502469400902/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661368:1849080201:0192/pct:71.13586358635864,25.82134421301267,15.144847818115144,4.387660153174433/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -313,7 +313,7 @@ two will agree. Consequently, nothing
 like a general approbation on this subject  
 can be looked for.&quot; But this is not all
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661368:1849080201:0192/pct:71.25962596259626,29.890487438264977,14.7002200220022,3.435688211294825/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661368:1849080201:0192/pct:71.26420975430877,29.894066280151744,14.7002200220022,3.435688211294825/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -331,7 +331,7 @@ but a difference of political opinion, practised
 upon so far as the right of a private citizen will  
 justify, are not proper subjects for removal.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_harrison_ver01:data:sn82015672:0029602188A:1856041801:0388/pct:29.155495978552278,289.41207418124424,57.03753351206434,8.733394712613443/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_harrison_ver01:data:sn82015672:0029602188A:1856041801:0388/pct:7.290095525389643,72.35301854531106,14.261773085302497,2.1833486781533606/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -359,7 +359,7 @@ esssary as a shield to the Republican part of
 ous fellow sitizens; which I believe is the  
 main nart of the people.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296205:1858100201:0784/pct:24.06896551724138,137.6834306881322,50.55172413793103,34.648810371847844/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296205:1858100201:0784/pct:6.020355356218734,34.42085767203305,12.64447127824737,8.662202592961961/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -380,7 +380,7 @@ dispensably necessary os a &#x27; shield to
 tbo Republican pari of our follow-citizono.  
 which, 1 boliovo, is ibo main body of the people
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fullerton_ver02:data:sn84031492:no_reel:1873072001:0007/pct:15.475347959424392,16.076642335766422,13.021939136588818,3.0474452554744524/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fullerton_ver02:data:sn84031492:no_reel:1873072001:0007/pct:15.493040811512149,16.076642335766422,13.010143901863646,3.0611313868613137/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -461,7 +461,7 @@ right of a private citizen will justify, are
 not proper subjects of removal, except in the  
 case of attorneys and marshals.&quot; Many year
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271743944:1877031701:0877/pct:54.5187122078771,99.40353292039458,48.34123222748815,11.390227116311081/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271743944:1877031701:0877/pct:18.17290406929237,33.13451097346486,16.113744075829384,3.7967423721036937/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -522,7 +522,7 @@ cept in the eases of U S. Attorneys
 and marshals. Every officer of the gov­  
 erment
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280774856:1883080801:0821/pct:7.322863403944485,116.04310086800359,15.796201607012417,5.507333133792278/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280774856:1883080801:0821/pct:5.499725927279371,87.03980844058665,11.858213045861502,4.130499850344209/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -587,7 +587,7 @@ as matters of executive determination.&quot;
 Thi letter proves, that so far from  
 being a believer in the spoils theor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eeyore_ver01:data:sn87052143:0029455659A:1885022101:0038/pct:70.86851628468034,70.44911610129002,13.465018094089265,28.35642618251314/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eeyore_ver01:data:sn87052143:0029455659A:1885022101:0038/pct:53.16742081447964,52.84280936454849,10.105580693815988,21.26134734830387/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -616,7 +616,7 @@ upon the oflicinl Jehovah-jireh.
 But this is a very different slate of affairs.  
 Mr. lYarson is a Republican
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kingjulius_ver01:data:sn93067668:00202193961:1885040101:0102/pct:16.03635297566696,13.52841868317389,15.596599237760188,9.645469893078221/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kingjulius_ver01:data:sn93067668:00202193961:1885040101:0102/pct:16.03635297566696,13.535921965860064,15.616143848333822,9.645469893078221/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -636,7 +636,7 @@ as the right of a private citizen will justify,
 are not proper subjects of removal, except  
 in the case of attorneys and marshals.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fireweed_ver01:data:sn83016209:00383342429:1885071701:0662/pct:36.184448462929474,42.6915465083404,13.381555153707053,3.138252756573367/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fireweed_ver01:data:sn83016209:00383342429:1885071701:0662/pct:28.05288236942913,33.08987327904174,10.375595627394189,2.4321659423730053/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -710,7 +710,7 @@ office, without noticing or notifying them. Mr.
 Adams&#x27; best friends have agreed that this is  
 right.&#x27;* If Mr. Jefferson did this, and Mr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mastiff_ver01:data:sn83045462:00280654450:1886031901:0269/pct:1.0470559251047056,32.27120024432455,12.207440256220744,3.7463096813600734/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mastiff_ver01:data:sn83045462:00280654450:1886031901:0269/pct:1.0501355013550135,32.276290339000305,12.210519832471052,3.756489870711595/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -750,7 +750,7 @@ which. I believe, is the main body ot the .
 people­  
 Going on then to declar» that the Re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_odona_ver04:data:sn86092518:00383341760:1886032401:0088/pct:75.39979076371245,81.63559583891235,12.464504558361979,12.277268513750128/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_odona_ver04:data:sn86092518:00383341760:1886032401:0088/pct:75.38852361028093,81.62718846549949,12.467623032476588,12.279437006522485/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -794,7 +794,7 @@ vate citiseh will justify, are not proper
 subjects of removal.&quot; These were Jeffer  
 sonian principles. They are absolutel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_hotel_ver02:data:sn86064205:00206535568:1886080501:0533/pct:172.97297297297297,234.77105797780902,61.66166166166166,14.642912955149242/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_hotel_ver02:data:sn86064205:00206535568:1886080501:0533/pct:43.27573253193088,58.692764494452256,15.426997245179063,3.6607282387873106/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -823,7 +823,7 @@ as the right of a private citizen will jus­
 tify. ;irc not proper subjects of removal.&quot;  
 Will the Examiner put its linger upon 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_mojave_ver01:data:sn82014381:00175036507:1886082001:0337/pct:16.733601070950467,36.31386861313869,10.826639892904954,3.0900243309002433/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_mojave_ver01:data:sn82014381:00175036507:1886082001:0337/pct:16.741967871485944,36.32299270072993,10.826639892904954,3.0900243309002433/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -843,7 +843,7 @@ of a private citizen will justify, are not
 proper subjects of removals,&quot; and adds;  
 Jefferson was as good as his word. The firs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barack_ver01:data:sn86053573:00211102032:1886083001:0223/pct:25.48113933795227,310.2351313969571,43.418013856812934,11.679729522053174/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barack_ver01:data:sn86053573:00211102032:1886083001:0223/pct:6.3739649528211055,77.55878284923928,10.860774119006354,2.9199323805132935/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

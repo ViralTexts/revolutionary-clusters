@@ -755,7 +755,7 @@ leaders of the abohtion parly, which is a
 control the organization of this House,  
 and to obtain possession of this Government
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290069:1860022801:0175/pct:52.84153005464481,254.88713683983153,33.60655737704918,7.776217734096555/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290069:1860022801:0175/pct:13.215798824654913,63.72178420995788,8.40508405084051,1.9440544335241388/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -879,7 +879,7 @@ He next began to berate the senfor opposing counsel,
 who was absent, when the Judge brought him to a  
 speedy halt, after which he denounced the press to hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crowfoot_ver01:data:sn83030313:00271743981:1876081301:0443/pct:151.83913683178028,116.02126921743151,45.54520189635442,6.20737486995723/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crowfoot_ver01:data:sn83030313:00271743981:1876081301:0443/pct:50.61304561059343,38.6737564058105,15.181733965451475,2.06912495665241/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -900,7 +900,7 @@ an irreverent use of the passage taken
 as a text. They can see that a church  
 officer, a successor to one of the Apos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_montpelier_ver01:data:sn84023253:00200296291:1877011201:0006/pct:79.33759246805649,257.4016910481815,33.69199731002018,10.508656556166958/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_montpelier_ver01:data:sn84023253:00200296291:1877011201:0006/pct:26.459209419680402,85.80056368272714,11.236333052985703,3.5028855187223193/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -921,7 +921,7 @@ ate amendment. He was opposed to this discus­
 sion of this matter. The country should not be  
 treated to such a scene. It was not a sightly thin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chester_ver02:data:sn86053573:00211101957:1882071501:0061/pct:220.88258471237194,275.8675305975522,48.620961386918836,9.733621310295176/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chester_ver02:data:sn86053573:00211101957:1882071501:0061/pct:55.23152709359606,68.96688264938805,12.157635467980295,2.433405327573794/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1001,7 +1001,7 @@ tals, but this law also requires us to con­
 demn and denounce what we sincerely re­  
 gard as their evil doings. Light is break
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016147:1890010901:0212/pct:48.87823585810163,43.76754632229085,10.930009587727708,6.274564851207187/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016147:1890010901:0212/pct:48.86886503067485,43.76140350877193,10.932707055214724,6.277192982456141/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1030,7 +1030,7 @@ To beg the voice and utterance of my tongue—
 A curse shall rest upon the fiends of Halsted  
 stree
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_betelgeuse_ver01:data:sn90059959:00271742824:1891072501:0151/pct:65.625,36.2120607028754,13.7901376146789,7.078674121405751/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_betelgeuse_ver01:data:sn90059959:00271742824:1891072501:0151/pct:65.62977828746178,36.2120607028754,13.794915902140673,7.088658146964856/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1053,7 +1053,7 @@ butchers.&quot;
 Julius Caesar Cleveland The ides of  
 March have come
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dutch_ver02:data:sn84024442:211103024:1896030501:0312/pct:68.74627754615842,125.93909757723938,17.6593210244193,7.835074460991331/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dutch_ver02:data:sn84024442:211103024:1896030501:0312/pct:45.84450402144772,83.96310291175817,11.781352397974382,5.223382973994221/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

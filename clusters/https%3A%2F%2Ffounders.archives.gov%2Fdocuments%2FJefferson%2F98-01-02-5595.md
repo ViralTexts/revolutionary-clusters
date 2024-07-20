@@ -217,7 +217,7 @@ The nature of this obligation is such that if the above
 bounden---heirs, executors and administrators, or any of  
 them, shall and do in all things well and truly observe, per-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743373:1861053101:1305/pct:247.17477003942182,132.97142857142856,46.61629434954008,11.051428571428572/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743373:1861053101:1305/pct:82.3915900131406,44.32380952380952,15.538764783180026,3.683809523809524/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -242,7 +242,7 @@ The nature of this obligation is such that if the above
 bounden--heirs, executors and administrators, or any of  
 them, shall and do in all things well and truly observe, per-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743373:1861053101:1307/pct:247.54723235001657,132.79064434762668,47.066622472654956,11.075441412520064/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743373:1861053101:1307/pct:82.5157441166722,44.263548115875565,15.688874157551652,3.691813804173355/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -263,7 +263,7 @@ uly pay, or cause to be paid, unto the Collector of the
 ustoms for the port of-- the suin of--dollars, or the  
 nount of duties to be ascertained as due and owing o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271743385:1861092301:0926/pct:202.91525423728814,186.9118505545826,45.813559322033896,8.324576765907764/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271743385:1861092301:0926/pct:67.63841807909604,62.30395018486087,15.271186440677965,2.7748589219692548/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -302,7 +302,7 @@ interest, then this deed of bargain and sale, and all and ever
 district of Penobecot $7,500, or the amount of the duties  
 to be ascertained as due and arising on certain goods
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743580:1867061401:0508/pct:151.3815789473684,245.07425461965764,45.526315789473685,2.8114726221516837/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743580:1867061401:0508/pct:50.46052631578947,81.69141820655254,15.175438596491228,0.9371575407172278/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -350,7 +350,7 @@ Deep Creek on the road leading from Volusia
 to Daytona by said Wm. A. Mcßride (except  
 if destroyed &quot;by lire) for the period of liv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:fu:batch_fu_albert_ver01:data:sn96027724:0027176148A:1882071901:0622/pct:16.49550706033376,35.680481858597446,19.6405648267009,3.1980496199627133/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:fu:batch_fu_albert_ver01:data:sn96027724:0027176148A:1882071901:0622/pct:12.795003592549605,27.656342620035566,15.221356325650804,2.485921754593954/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

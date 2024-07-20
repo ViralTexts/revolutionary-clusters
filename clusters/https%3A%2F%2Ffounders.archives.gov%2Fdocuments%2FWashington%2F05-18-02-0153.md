@@ -80,7 +80,7 @@ tilion Joe has been caught in similar practices; and
 Sam I am sure would not be restrained by any  
 quaims of conscience
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chrysler_ver01:data:sn83030214:00175039946:1883022301:0469/pct:196.0899922420481,210.30640668523677,45.446082234290145,17.76044568245125/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chrysler_ver01:data:sn83030214:00175039946:1883022301:0469/pct:65.36333074734937,70.10213556174558,15.148694078096716,5.9201485608170845/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -118,7 +118,7 @@ caught in similar practices; and Sam I am
 sure would not be restrained by any qualms  
 of conscience
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:0027952533A:1883031301:0618/pct:27.498765025522808,2.3998080153587713,10.983039683846533,5.279577633789297/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:0027952533A:1883031301:0618/pct:27.494237734606518,2.3995200959808036,10.98534738228515,5.281943611277744/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -147,7 +147,7 @@ Ham 1 sin sure would not be restrained by any
 Mb June. 17&lt;WL  
 . . Ou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_diamondville_ver05:data:sn84022149:00514150072:1883031501:0454/pct:39.06586310804993,80.94214579974924,10.783469651312958,5.463012717177145/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_diamondville_ver05:data:sn84022149:00514150072:1883031501:0454/pct:39.07124408092983,80.94214579974924,10.804993542832545,5.476446355006269/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -204,7 +204,7 @@ lieen caught in similar practices; and
 j Sain I uni sure would not ba restrained  
 ! by any qualms of conscience
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_galactic_ver01:data:sn84022982:00513688659:1883040701:0189/pct:17.03798005516656,46.79098679098679,12.688308932739233,7.086247086247086/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_galactic_ver01:data:sn84022982:00513688659:1883040701:0189/pct:17.03798005516656,46.79098679098679,12.702454204682086,7.096607096607096/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -234,7 +234,7 @@ similar practice?; and Sam, I am sure,
 would not be restrained by any qualms f  
 conscienc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_grandfather_ver01:data:sn85042098:00415667449:1883042501:0271/pct:33.5112205801861,111.36780740580805,14.792008757525998,9.672892151570766/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_grandfather_ver01:data:sn85042098:00415667449:1883042501:0271/pct:25.14027644724237,83.52585555435604,11.098946215957302,7.265464752240095/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

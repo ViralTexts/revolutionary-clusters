@@ -498,7 +498,7 @@ $7222. of the Unitod States, shall possess all the pow-
 9484., ers which may be exorcised by seven States in  
 Aas Congress assembled&quot;-with certain exception
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042970:1897121901:0660/pct:0.3855050115651503,93.20329167936605,62.60601387818042,23.590368790003048/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042970:1897121901:0660/pct:0.09641342074816814,23.30082291984151,15.657539529502507,5.897592197500762/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

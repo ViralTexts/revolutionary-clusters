@@ -106,7 +106,7 @@ by the convention, upon their report, in the above
 articles of Colonel Mason&#x27;s plan, are pointed out by  
 the existing con ttlution
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816061201:0189/pct:55.994358251057825,35.642405803884856,16.76657263751763,31.34799906388954/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816061201:0189/pct:55.984487925260005,35.638235638235635,16.769492919678008,31.348231348231348/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -140,7 +140,7 @@ both Houses” the 11.h dJr£t*Va?&#x27;»aPTy
 Council, or Council of State, consisting of eiglrt  
 members, shall be chosen by joint ballot of bot
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184017:1828022101:0391/pct:50.93945720250522,83.90999274135011,15.079492532519673,2.588918461166223/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184017:1828022101:0391/pct:50.93127809890816,83.89984274827628,15.082423463926354,2.5926373936534817/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -426,7 +426,7 @@ ner mid under the same restrictions.
 On the motion ol Mr. !• h’iiloh, the question was divider!.  
 The ipiesiic.it on striking out the resolution was negatived&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184315:1829121501:0399/pct:77.05203226316623,37.27360540932142,17.649849754863197,6.677131127746921/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184315:1829121501:0399/pct:77.03984819734346,37.269105396595435,17.65232974910394,6.6803493098313815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -453,7 +453,7 @@ cond tune tor the same offence.
 gates. to to approved or rejected bytbe Senate. . r to  
 be a mended with the Consent of the House of Dc-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830011601:0056/pct:61.088,67.21830985915493,18.048,7.359154929577465/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830011601:0056/pct:61.078227483602625,67.21042131205257,18.050445262091397,7.362203184289794/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -482,7 +482,7 @@ i&lt;&gt;. All laws shall originate in the House of Dele- 1
 gates, to be approved or rejected by the Senate, r to  
 be amended with the consent of (he House of Do-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830011601:0032/pct:59.72611266728914,64.71560066084494,17.63149704326175,8.107151286287468/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830011601:0032/pct:59.71681966702972,64.70796460176992,17.633940148332556,8.110127826941985/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -512,7 +512,7 @@ gates.
 11 • Tlte privilege of the IV rit of Haben.* Caryiti  
 shall not in any ca-e be suspended. The Legislatur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830011601:0249/pct:34.11263049551537,13.809028980487241,14.777238641376268,7.493361043759381/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830011601:0249/pct:34.10761540723317,13.807434772569845,14.779966676467705,7.496344185330563/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -550,7 +550,7 @@ gates, to be approved or rejected by the Kcnato, or to
 be amended with the consent of tho House of De­  
 legates.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830011901:0066/pct:43.24673228981765,66.74923330974286,18.12167177666613,7.725878744987026/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830011901:0066/pct:43.23975475959987,66.74136100955302,18.124126062170593,7.728898848134607/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -587,7 +587,7 @@ cond time for the same offence.
 gates, to be approved or rejected by the Senate, or to  
 be amended with the consent of the J louse of Dc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012201:0078/pct:41.86606712702746,65.990990990991,18.243134735827848,7.467994310099574/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012201:0078/pct:41.859344894026975,65.98316937299988,18.245557696424747,7.471060013432894/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -614,7 +614,7 @@ j conn time for the same offence. s
 gates, to be approved or rejected bv the Senate, or to I!  
 be amended with the consent of tho Ilonsc of lie- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830012601:0046/pct:41.85344142425687,78.12800769971126,18.28008265776506,7.591434071222329/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830012601:0046/pct:41.8467895740623,78.11860940695297,18.282475100656917,7.5945306547977065/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -644,7 +644,7 @@ legates.
 M. The privilege of the Writ of Habtnt Cor pm  
 shall not in any case be suspended. The Legislatur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012701:0094/pct:41.84738955823293,78.36367935682195,17.783132530120483,9.103807046583116/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012701:0094/pct:41.840668165756504,78.35441541553375,17.785630153121318,9.106671395358001/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -702,7 +702,7 @@ legates.
 I I. The privilege of the Writ of llthras Corpus  
 shall not in any ca.se be suspended. The Legislatur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830020901:0138/pct:61.56304938468915,35.97496161568442,17.74013105322039,9.129561828274477/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830020901:0138/pct:61.55321188878236,35.97071327350024,17.74262277617982,9.132420091324201/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -729,7 +729,7 @@ cond tunc for the same oflhnco.
 | ptes, to bo approved or rejected by the Senate, or to  
 i be amended with the consent of the House of Do
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021101:0146/pct:61.293965795417876,37.010927035600986,18.231687641174574,7.331688403242862/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021101:0146/pct:61.284078077109214,37.00657894736842,18.234123783405927,7.334743107769423/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -762,7 +762,7 @@ legates.
 11. The privilege of the Writ of Habeas Corpus  
 shall not in nny case be suspended. The Le&quot;islatur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021601:0162/pct:61.02605863192182,35.85624181839819,18.501628664495115,10.270141616089491/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021601:0162/pct:61.01612115290669,35.85197524988101,18.5040438582207,10.272885927336189/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -792,7 +792,7 @@ legates.
 11. The privilege of the Writ of Habeas Corpus  
 shall not in any case be suspended. The Legislatur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830021601:0067/pct:58.58044164037855,11.617858857417186,17.681388012618296,9.037445991358618/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830021601:0067/pct:58.57120328023971,11.616464658586343,17.683856384376806,9.040361614464578/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -822,7 +822,7 @@ legates,
 I I. The privilege of the Writ of Tlabeat Corpvt  
 shall not in any case lie suspended. Tho Legislatur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022001:0178/pct:43.015949734171095,78.11683685585372,17.86692444014822,9.225837093327002/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022001:0178/pct:43.009020618556704,78.10756262614271,17.869415807560138,9.22869919664411/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -852,7 +852,7 @@ legates.
 11. The privilege of tho Writ of Habeas Carpus  
 shall not in any ease bo suspended. The Legislatur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022501:0194/pct:60.58489033306255,38.4878106230126,17.985377741673435,9.115534094924037/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022501:0194/pct:60.57504873294347,38.48327837965144,17.98787091184752,9.118385931857434/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -888,7 +888,7 @@ the bou*c ol delegates.
 11. The privilege of the writ of Habeas Cor.  
 pus shall not in any case he suspended.—Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1830022501:0253/pct:43.22539412015339,21.515655306178996,17.895185342991052,11.928512053200333/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1830022501:0253/pct:43.21618743343983,21.512674885718244,17.896698615548456,11.930322759384957/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -916,7 +916,7 @@ gates, to be approved or rejected by tho Senate, or to
 be amended with the consent of the House of De­  
 legates.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030101:0206/pct:60.9009009009009,37.7253320683112,18.14905814905815,7.874762808349146/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030101:0206/pct:60.89092695709139,37.72085853195779,18.15154492848564,7.877781730503182/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -947,7 +947,7 @@ legates.
 11. The privilege of the Writ of Habeas Corpus  
 shall not in any case be suspended. The Legislatur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030301:0214/pct:60.35070628348758,38.54005934718101,18.038642636791685,9.103857566765578/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030301:0214/pct:60.34090909090909,38.53548540232613,18.041125541125542,9.106733127620856/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -973,7 +973,7 @@ Article VII.
 I in- t.xixuiivo Drpartni.ntnf tho Government shall remain  
 as at present organized, and the Gov fi not ami I&#x27;riv. Conned
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030401:0218/pct:79.23276141146002,68.16297524576572,18.193590158627387,5.033755774013976/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030401:0218/pct:79.21993850137562,68.15490288962577,18.196040351728975,5.0371072161692725/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1001,7 +1001,7 @@ cond time for the same oll&#x27;ence.
 gates, to be approved or rejected by the Senate, or to  
 be amended with the consent of the House of De­
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030501:0222/pct:60.79804560260586,38.23948681397007,18.094462540716613,7.578997386552626/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030501:0222/pct:60.788145253216086,38.23494476778715,18.096944037344624,7.58205645959536/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1022,7 +1022,7 @@ the adoption ol the amend, d Constitution, lie derives
 c!e ol tli?&#x27; amended Constitution and the laws niude it)  
 pursuance thereof. This section provides that each hous
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_armani_ver02:data:sn84024735:00415664230:1839020501:0538/pct:32.4813153961136,14.481691593604952,16.053811659192824,3.4553893759669934/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_armani_ver02:data:sn84024735:00415664230:1839020501:0538/pct:32.49128051818635,14.488567990373044,16.04384653712008,3.4519511775829463/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1054,7 +1054,7 @@ houses of Assembty, eiteer froin their own mem-­
 bers or the people at large, to assist in the admin.­  
 istration
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_journey_ver01:data:sn84024738:00175030852:1884020101:0122/pct:132.12870502456806,11.086238140923143,40.35504834363608,23.95267029101375/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_journey_ver01:data:sn84024738:00175030852:1884020101:0122/pct:44.042901674856026,3.6954127136410473,13.451682781212025,7.984223430337917/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

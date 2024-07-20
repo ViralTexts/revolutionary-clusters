@@ -553,7 +553,7 @@ cither side, I come to a determination accord­
 ingly. He added that he had derived great  
 help from equations of this kind, which a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009571:00279523908:1865021701:0451/pct:170.3315148971884,122.34569148398828,37.277940970765144,31.225376300636427/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009571:00279523908:1865021701:0451/pct:56.76923076923077,40.77777777777778,12.424242424242424,10.407407407407407/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

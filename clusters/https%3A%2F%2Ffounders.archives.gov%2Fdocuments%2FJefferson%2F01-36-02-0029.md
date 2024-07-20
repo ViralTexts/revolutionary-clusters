@@ -132,7 +132,7 @@ and z!! the monies which they may ex­
 pend in discharge of the duties of their  
 offices, refpeéively : previous te thei
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802051101:0076/pct:6.7040848144683505,18.256513026052104,16.588712192079825,10.94188376753507/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802051101:0076/pct:6.7040848144683505,18.256513026052104,16.599106122024736,10.951903807615231/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -159,7 +159,7 @@ President of the United States, to pro­
 cure the necessary books,implements  
 and apparatus for -the use and benefi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802051101:0076/pct:24.477705020268164,44.30861723446894,16.63548487683193,8.937875751503006/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802051101:0076/pct:24.477705020268164,44.30861723446894,16.645878806776842,8.947895791583166/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -175,7 +175,7 @@ and apparatus for -the use and benefi
 1 colonel, 1 lieutenant colonel, 2 majors, 4 cap­  
 tains, 4 first lieutenants, 4 second lieutenants
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809060901:0521/pct:53.5158211953792,23.460218918477374,20.642893018583628,1.2416271851004739/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809060901:0521/pct:53.502385136831535,23.45638680169879,20.643986944514186,1.2455080039202875/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -365,7 +365,7 @@ ter Sergeants, 2 Principal Musicians, and
 Each company to consist pf 1 Captain  
 1 First Lieutenant, 1 Second Lieutenant
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_grange_ver01:data:sn83025917:00280776452:1846060201:0104/pct:26.695706285003112,27.627660747766626,19.119477286869945,10.543730009926106/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_grange_ver01:data:sn83025917:00280776452:1846060201:0104/pct:20.024894974327058,20.723502812396603,14.345728955967013,7.907797507444579/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -390,7 +390,7 @@ panies, but not in addition.)
 2 Principal Musicians, and  
 10 Companies, according to the organizatio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1846060201:0633/pct:14.451291079812206,32.57462686567164,13.35093896713615,4.542910447761194/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1846060201:0633/pct:14.456181533646323,32.57462686567164,13.35093896713615,4.546019900497512/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -440,7 +440,7 @@ panies, but not in addition.)
 2 Principal Musicians, and  
 10 Companies, according to the organizatio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183712:1846060401:0072/pct:36.90669821085317,39.30314379752582,14.50539701315984,5.595278628986494/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183712:1846060401:0072/pct:36.90124186871674,39.29868361325465,14.508180563768972,5.598426388258435/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -465,7 +465,7 @@ companies, hut not in addition.)
 2 Principal Musicians, and  
 10 Companies, according to the organi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348987:1846060401:0516/pct:58.365019011406844,63.26221610461115,13.365019011406844,5.2993805918788714/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348987:1846060401:0516/pct:58.35392510929481,63.25350949628406,13.367230564531457,5.302091935039912/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -484,7 +484,7 @@ be a Lieutenant of one of the companies, but not in
 addition,) 1 Sergeant Major, 1 Quarter Master Ser­  
 geant, 2 Principal Musicians, and 10 companies
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn82015677:00296029798:1847042901:0092/pct:7.780821917808219,53.95789473684211,19.671232876712327,3.3684210526315788/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn82015677:00296029798:1847042901:0092/pct:5.838015622858709,40.473684210526315,14.759490201452651,2.526315789473684/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -508,7 +508,7 @@ companies, hut not in addition.)
 2 Principal Musicians, and  
 10 companies
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn83035366:00296029099:1847050701:0296/pct:48.59635811836115,79.06373686365498,18.38012139605463,7.370001364815067/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn83035366:00296029099:1847050701:0296/pct:36.46366913299184,59.30121468541013,13.792449250616581,5.5275010236113005/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -531,7 +531,7 @@ qoent legislation the numlier of cadets has been
 extension of the Academy, and to the demand  
 for the services of engineers in the field and o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053546:00415660984:1854052601:0514/pct:30.716769189622894,85.40998862578844,13.064990639208345,4.591045393444318/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053546:00415660984:1854052601:0514/pct:30.716769189622894,85.41688208734016,13.082820718552197,4.591045393444318/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -564,7 +564,7 @@ qoent legislation the numlier of cadets has been
 extension of the Academy, and to the demand  
 for the services of engineers in the field and o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82014835:00415661514:1856011701:0542/pct:30.716769189622894,85.40998862578844,13.064990639208345,4.591045393444318/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82014835:00415661514:1856011701:0542/pct:30.716769189622894,85.41688208734016,13.082820718552197,4.591045393444318/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -626,7 +626,7 @@ the quartermaster shall be extra-lieuten­
 ants, selected from the first or second lieu­  
 tenats of the regiments. Provided, Tha&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762349:1885020401:0031/pct:40.49295774647887,11.418163547293053,10.45134443021767,4.069840472302475/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762349:1885020401:0031/pct:40.49295774647887,11.424444165305866,10.471350832266324,4.066700163296068/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -648,7 +648,7 @@ musicians. Tho adjutant and quartermaster
 shall be extra lieutenants selected from the  
 first and second lieutenant* of the regimen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_otterhound_ver01:data:sn83045462:00280654747:1889120601:0513/pct:29.36386768447837,65.55770626663441,13.893129770992367,3.4962496975562547/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_otterhound_ver01:data:sn83045462:00280654747:1889120601:0513/pct:29.36386768447837,65.56073070408904,13.910093299406277,3.5053230099201547/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -202,7 +202,7 @@ n a ftibftitution of a more palpable, in place
 :he only hope of universal&#x27;and perpe-  
 I&#x27;JAL peace
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792020201:0002/pct:5.702958218969198,4.611176240719031,42.26898444647758,88.13989839781165/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792020201:0002/pct:5.725831046050625,4.616060961313013,42.25373589508997,88.1545525595936/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -355,7 +355,7 @@ Wars may be divided into classes; one flowing
 from the mere will of the Government, the other  
 according with the will of the society itself
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042982:1898022801:0774/pct:15.838509316770187,177.79124375094682,51.08695652173913,17.451901227086804/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042982:1898022801:0774/pct:3.9611650485436893,44.447810937736705,12.776699029126213,4.362975306771701/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -386,7 +386,7 @@ accord n&#x27; with the will of the
 society itself.—James Madison.  
 To du
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_abolitionist_ver02:data:sn86074033:00199916270:1898030501:0897/pct:4.493950451315537,68.98910918737782,15.690416746687152,13.459927394582518/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_abolitionist_ver02:data:sn86074033:00199916270:1898030501:0897/pct:3.492756499305418,53.4735247439042,12.165112125421711,10.427788197951234/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -411,7 +411,7 @@ ono flowing from the mere will of the
 Government, the other according with  
 the will of the society itself.?Jame
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_manhattan_ver01:data:sn84020355:00279554875:1898030501:0216/pct:5.467372134038801,63.93180607352158,18.0090143053106,9.57645178476292/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_manhattan_ver01:data:sn84020355:00279554875:1898030501:0216/pct:5.48206937095826,63.938465636654236,18.004115226337447,9.573122003196591/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -431,7 +431,7 @@ will of the government, the other
 according with the will of the so­  
 ciety itself.—James Madison.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_eclipse_ver01:data:sn86090500:00513687989:1898030601:0141/pct:31.36672325976231,61.650758001122966,12.797113752122241,3.790005614823133/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_eclipse_ver01:data:sn86090500:00513687989:1898030601:0141/pct:31.38087153367289,61.650758001122966,12.797113752122241,3.8040426726558114/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -465,7 +465,7 @@ one flowing from the mere will of the
 Government, the other according with  
 the will of the society itself.-Jame
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_keystone_ver03:data:sn86076366:00279555132:1898031101:0251/pct:72.33304423243712,245.95310637170485,48.32610581092801,26.24188634256193/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_keystone_ver03:data:sn86076366:00279555132:1898031101:0251/pct:18.08326105810928,61.48827659292621,12.081526452732003,6.5604715856404825/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -569,7 +569,7 @@ the other according with the will
 of tbo society itself. James Madison.  
 Tho sworil nnrn ilrawn full inatlnn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_dracula_ver01:data:sn84037890:00206533614:1898032301:0485/pct:35.87618403247632,76.66798262929333,14.208389715832206,3.9742071325174364/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_dracula_ver01:data:sn84037890:00206533614:1898032301:0485/pct:26.920473773265652,57.50427687853665,10.65989847715736,2.977365442821424/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -592,7 +592,7 @@ The Lexington Gazette, tells tbe following
 on n well-known Motjiodiet  
 minister, Brothor Dick Iteed, who so
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_dracula_ver01:data:sn84037890:00206533614:1898032301:0485/pct:35.791610284167795,84.44532175286221,14.259133964817321,6.290301355441505/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_dracula_ver01:data:sn84037890:00206533614:1898032301:0485/pct:26.85279187817259,63.33728122121332,10.710659898477157,4.721015923147783/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -611,7 +611,7 @@ flowing from the mere will of the govern­
 ment, the other according with tho will ol  
 society itself.—James Madison.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_furio_ver01:data:sn87068079:00332896507:1898032401:0256/pct:76.81977720128185,87.18477206595539,9.766519151533648,2.0004849660523765/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_furio_ver01:data:sn87068079:00332896507:1898032401:0256/pct:76.80805614891669,87.17420293368893,9.768843454379006,2.003273124015032/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -630,7 +630,7 @@ be feared, will never exist but in tbo im­
 aginations of visionary philosophers or in  
 the breasts of benevolent enthusiasts.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_furio_ver01:data:sn87068079:00332896507:1898032401:0256/pct:76.80451701510758,90.88263821532493,9.78177933770792,1.9641125121241514/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_furio_ver01:data:sn87068079:00332896507:1898032401:0256/pct:76.79279829111992,90.87162080252152,9.784101312175771,1.966905079403564/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -651,7 +651,7 @@ breasts of benevolent enthusiasts&quot;—an
 echo of the conviction of Hobbes, that  
 war is the state of nature. He, how
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_moonstone_ver01:data:sn85042461:00280769782:1898041001:0504/pct:6.538090646094504,79.09514111143439,12.266152362584378,3.7678207739307537/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_moonstone_ver01:data:sn85042461:00280769782:1898041001:0504/pct:6.538090646094504,79.10605178935118,12.275795564127291,3.7787314518475417/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -670,7 +670,7 @@ flowing from the mere will of the govern­
 ment, the other according with the will of  
 society itoelf. James Madison.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_frankenbatch_ver01:data:sn92073232:00295879737:1898041401:0518/pct:51.92307692307692,100.88877916306629,14.430416911332943,3.320577706455993/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_frankenbatch_ver01:data:sn92073232:00295879737:1898041401:0518/pct:38.96313702452636,75.66967041106037,10.823909531502423,2.4935193186026416/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -690,7 +690,7 @@ aginations of visionary philosophers or in
 the breiidts of benevolent enthusiasts.  
 James Madison.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_frankenbatch_ver01:data:sn92073232:00295879737:1898041401:0518/pct:51.981796829125074,105.49314899395137,14.342337052260717,4.394519195161092/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_frankenbatch_ver01:data:sn92073232:00295879737:1898041401:0518/pct:39.007196357761785,79.12603382298482,10.765163753855191,3.2958893963708182/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -722,7 +722,7 @@ ment, tho other according with the will of
   
 the society itself. James Madison.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_calumet_ver01:data:sn86086632:00296023504:1898052701:0865/pct:77.67913760304376,52.148500920012985,21.829422954977804,7.479164411732872/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_calumet_ver01:data:sn86086632:00296023504:1898052701:0865/pct:51.807802093244526,34.76566728000866,14.557564224548049,4.989717501894145/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

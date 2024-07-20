@@ -38,7 +38,7 @@ important work to our country. It lias late­
 ly come from the press, and is to be found in  
 most of our book stores. The untimely deat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814032601:0063/pct:22.73289729538625,53.9333722969024,16.704967297153967,6.113383985973115/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814032601:0063/pct:22.72887946270767,53.92706872370267,16.707906209496876,6.116565373227365/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -59,7 +59,7 @@ Sources of the Missouri ;
 Thence across the Rocky Mountains, and  
 down the river Columbia to the Pacific Oce
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814032601:0066/pct:45.2424023154848,37.27998122506454,17.004341534008685,4.365172494719549/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814032601:0066/pct:45.23421956954241,37.27560718057022,17.007294869476095,4.368571316828972/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -76,7 +76,7 @@ SOURCES OF TIIE MISSOURI,
 Thence across the Rocky Mountains, and  
 down the river Columbia to the Pacific Occ
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814042001:0087/pct:60.573606825195135,80.6741028128031,16.954075149754946,1.8307468477206597/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814042001:0087/pct:60.562613430127044,80.66432294823615,16.957047791893526,1.8345658059562775/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -97,7 +97,7 @@ SOURCES OF THE MISSOURI,
 Tnerce across the Rocky Mountains, and  
 down the river Columbia to the Pacific Oce
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814042301:0090/pct:21.29762760603882,84.54977458267332,16.69662113587347,5.385646399415133/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814042301:0090/pct:21.29380053908356,84.53947368421052,16.699610661874814,5.389051332033788/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -138,7 +138,7 @@ BOUNCES OP I’HB MISSOURI,
 Thence across the Rocky Mountains, and  
 down the river Columbia to the Pacific Oce
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814050401:0103/pct:79.1395793499044,76.63493633329213,18.03059273422562,4.771912473729756/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814050401:0103/pct:79.12445039189447,76.62546353522868,18.03351812910215,4.7754429336629585/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -159,7 +159,7 @@ SOURCES OP THE MISSOURI
 Thence aero** she Rocky Mountains, and  
 down the river Columbia to the Pacific Oce
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814050701:0107/pct:61.369606003752345,85.50760479782367,17.4484052532833,4.649437368616298/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814050701:0107/pct:61.35809416619771,85.49703264094956,17.451384980929156,4.652983844378503/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -206,7 +206,7 @@ SOURCES OF THE MISSOURI:
 Thence across the Rocky Mountains, and  
 down the river Columbia to the Pacific Oce
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814060801:0139/pct:79.31350954478708,43.213897937024974,17.125550660792953,3.7760887923754374/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814060801:0139/pct:79.29895393650212,43.208685162846805,17.12852511164128,3.779654201849618/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -314,7 +314,7 @@ to thefourcei of the Miffiouri, thence acrof* the
 rocky mountains and down the river Columbia  
 to the Pacific Ocea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016082:00332895096:1817111801:0566/pct:22.798571206709116,85.27308529381283,17.61143034632707,3.0676754067779046/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016082:00332895096:1817111801:0566/pct:22.795031055900623,85.26424870466322,17.612577639751553,3.069948186528497/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -354,7 +354,7 @@ the Missouri, thenee acros the Rocky moun
 tains and down the river Columbia to the Pa.  
 cific Ocean, performed during the years 1804
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153243:1842052501:0705/pct:20.09925558312655,27.042394014962593,14.17149159084643,3.5910224438902745/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153243:1842052501:0705/pct:20.10385074901204,27.049044056525354,14.176086756731918,3.597672485453034/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -383,7 +383,7 @@ tains Lewis and Clarke, to the Sources of the Missourt
 thence across the Rocky Mountains and down the River  
 Columbia to the Pacific Ocean! Pertormed during th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184601:1842060401:0640/pct:254.2235630358844,127.16863289382373,39.40933629723722,16.11149664584779/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184601:1842060401:0640/pct:84.72773456104143,42.38464207239505,13.134359951315023,5.36987779962222/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -405,7 +405,7 @@ tains and down the river Columbia to the Pa­
 ! cific Oceun, performed dnring the years 1804,  
 1205, 1206, by arder of the General Gaver
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153243:1842060801:0722/pct:51.55776123518059,89.11808669656203,14.460987041632203,3.4479322371699053/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153243:1842060801:0722/pct:51.55776123518059,89.12140840391962,14.460987041632203,3.4512539445274872/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -426,7 +426,7 @@ tains Lewis and Clarke, to the Sources of the Missouri
 thence across the Rocky Mountains and down the River  
 Columbia to the Pacific Ocean! Performed during th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184601:1842070101:0734/pct:19.18966342319349,252.77745292948194,38.730260009570905,6.747748801309788/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184601:1842070101:0734/pct:6.395534290271132,84.24929840972872,12.90802764486975,2.248986591830371/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -546,7 +546,7 @@ tains Lewis and Clarke, to the Sources of the Missourt,
 thence across the Rocky Mountains and down the River  
 Columbia to the Pacific Ocean! Performed during th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184601:1842081201:0874/pct:14.182692307692308,142.50443000590667,39.48717948717949,8.48198464264619/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184601:1842081201:0874/pct:4.726806601506169,47.495865816206,13.160284142498531,2.8269942515158673/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -574,7 +574,7 @@ tains Lewis and Clarke, to the Sources of the Missouri,
 t hence across the Rocky Mountains and down the River  
 Columbia to the Pacific Ocean! Performed during th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184601:1842081301:0878/pct:13.382541720154043,137.22576079263976,38.18998716302953,13.918376975701817/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184601:1842081301:0878/pct:4.460131557837317,45.736525533671426,12.727953366490187,4.638911821362582/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -597,7 +597,7 @@ tains Lewis and Clarke, to the Sources of the Missouri,
 t hence across the Rocky Mountains and down the River  
 Columbia to the Pacific Ocean! Performed during th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184601:1842081601:0886/pct:12.91981359472923,142.8453947368421,38.197011087899725,8.43515037593985/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184601:1842081601:0886/pct:4.305912596401028,47.60953835310701,12.730291345329906,2.8113865069109987/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -615,7 +615,7 @@ tains Lewis and Clarke, to the Sources of the Mi
 thence across the Rocky Mountains and down the River  
 Columbia to the Pacific Ocean! Performed during th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184601:1842082701:0922/pct:132.51326579835987,143.27726149864722,38.17333976523557,3.8936595694624163/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184601:1842082701:0922/pct:44.163987138263664,47.753469771818395,12.722400857449088,1.297733866541206/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -638,7 +638,7 @@ tains Lewis and Clarke, to the Sources of the Missourl,
 thence across the Rocky Mountains and down the River  
 Columbia to the Pacific Ocean! Performed during th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184601:1842090201:0942/pct:136.1954459203036,137.3621215677071,38.06135357368754,8.460455292184934/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184601:1842090201:0942/pct:45.391304347826086,45.782001642614105,12.685111989459816,2.819820876843052/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -661,7 +661,7 @@ tains Lewis and Clarke, to the Sources of the Missouri,
 thence across the Rocky Mountains and down the River  
 Columbia to the Pacific Ocean! Performed during th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184601:1842090301:0946/pct:133.57041251778094,137.50292534519073,38.13813813813814,8.471799672361339/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184601:1842090301:0946/pct:44.516434892541085,45.82894582894583,12.71070375052676,2.8236028236028234/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -678,7 +678,7 @@ tains Lewis and Clarke, to the courees of the At
 thence across the Rocky Mountains and down the River  
 Columbia to the Pacific Ocean! Performed during th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184601:1842090601:0954/pct:134.34616608335986,143.417038253931,37.57556474705695,2.8279746538371273/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184601:1842090601:0954/pct:44.77493240019087,47.80007039774727,12.523196012936747,0.9425476162540577/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -738,7 +738,7 @@ shores of the Missouri, thence across the Rocky Moun
 tains and down the river Columbia to the Pacide Ocean,  
 just received at the Wheeling Hook Store o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186464:1846121201:1067/pct:202.51908396946564,67.13174992011929,36.80661577608142,5.506443710725317/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186464:1846121201:1067/pct:67.49777382012466,22.374866879659212,12.267311198744858,1.835285764998225/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -769,7 +769,7 @@ H ern Dys, which the proprictor can with justice state
 is far beyond any thing of the kind ever yet known in  
 this or any other country. Its prop
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186464:1846123001:1113/pct:204.50346420323325,179.0030691078421,37.8111367718758,19.060218012488093/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186464:1846123001:1113/pct:68.15907633098139,59.66137566137566,12.60209536027368,6.35273368606702/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

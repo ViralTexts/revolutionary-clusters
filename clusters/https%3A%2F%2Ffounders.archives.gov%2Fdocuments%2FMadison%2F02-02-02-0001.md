@@ -197,7 +197,7 @@ jury abroad to vellels failing from t!iefc;z
 ports, on account of th unavoidiiblcpmil»j  
 lion of a naval officer&#x27;s fig-nature
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801090901:0002/pct:8.053533693355247,5.179918746372606,64.19347264616107,88.74056877539176/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801090901:0002/pct:8.061360256711279,5.18475527181273,64.19347264616107,88.750241826272/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -219,7 +219,7 @@ Commerce flows ; and you will pay the moll c
 pointed attention to the regular tranfmiikon   
 if them. |
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801090901:0002/pct:50.50481333646396,26.567034242600116,21.74219300305236,6.108531630876379/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801090901:0002/pct:50.51263989981999,26.571870768040238,21.74219300305236,6.1036951054362545/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -266,7 +266,7 @@ Sk.tti Hastings, the federal enndi- r
 ,date has been eledled a reprd&#x27;entatixe m   
 ;Congrels for the 4th we tie in diftricl of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801090901:0002/pct:50.3874148861235,32.71909460243761,21.859591453392817,26.697620429483457/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801090901:0002/pct:50.395241449479535,32.71909460243761,21.859591453392817,26.712130005803832/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -446,7 +446,7 @@ let to prevent any injury abroad to vessels
 .sii-a&#x27;voiztblc cmifiiun of it na vui ct&#x27;sicct&#x27;s  
 i-ctsi: Hstlse.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215981:1801091001:0381/pct:48.1437125748503,2.0221606648199444,45.4940119760479,90.5078485687904/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215981:1801091001:0381/pct:48.13650651100135,2.0219739636229344,45.49219178765654,90.50256978426123/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -490,7 +490,7 @@ should the matter be laid before Congress,
 it may be properly exylained, and its ex­  
 h istence verisied.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215981:1801091001:0381/pct:70.88323353293413,47.19298245614035,22.14071856287425,23.951985226223453/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215981:1801091001:0381/pct:70.87262385870379,47.18862524235989,22.142393853215587,23.95285138337488/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -996,7 +996,7 @@ its extentyfo-thar thould thematter e
 laid before Congress, it may be proper­  
 ly explained, anditsexiftence verified.’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1801092901:0576/pct:42.258511785549224,5.816879597367402,51.16314897550455,89.91482771970577/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1801092901:0576/pct:42.263647101114366,5.823332042844238,51.16828429106969,89.91160149696735/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1446,7 +1446,7 @@ j appearance with foreign property, or tends
 j (to render the evidence of its legitimacy suspi  
 | dons or uncertain, should be most poinledl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1821120801:0251/pct:63.44463971880492,61.54850967818549,15.226074452787985,8.170051062819143/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1821120801:0251/pct:63.43450479233227,61.541201614818334,15.228966986155484,8.173038866460857/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1466,7 +1466,7 @@ ances to American vessels for Matamoras, thus
 throwing open that port, and the Northern prov­  
 inces of Mexico, to the productions and manu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn85054702:00280776014:1846062701:0248/pct:325.2900232018562,68.66096866096866,60.015467904099,16.125356125356124/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn85054702:00280776014:1846062701:0248/pct:81.35396518375242,17.165242165242166,15.009671179883945,4.031339031339031/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

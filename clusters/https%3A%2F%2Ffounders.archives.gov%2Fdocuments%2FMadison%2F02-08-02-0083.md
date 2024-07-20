@@ -39,7 +39,7 @@ who {hall ast as President, in cafe of va­
 cancies in the offices both of President  
 and Vice-Prefident
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1791122601:0002/pct:18.623279098873592,38.596161083929246,17.196495619524406,6.642830259691381/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1791122601:0002/pct:18.623279098873592,38.6055701919458,17.2090112640801,6.647534813699662/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -60,7 +60,7 @@ offices both of President and Vice-
 President.” TR  
 After some time spent therein, th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1792011101:0939/pct:50.13781007266349,20.6252014179826,21.2227511901779,5.929745407669997/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1792011101:0939/pct:50.154514323895434,20.630572564185197,21.2227511901779,5.9351165538725965/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -90,7 +90,7 @@ as the person ro fill the vacancy. A motion was
 made to amend this propoiltion, by substituting  
 the Secretary of State, instead of the senior Aflo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792021101:0003/pct:6.879141685074156,62.99054135640974,27.737456610918272,11.370497081907828/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792021101:0003/pct:6.8949195329757025,62.99054135640974,27.7295676869675,11.38559066210505/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -120,7 +120,7 @@ cy : —a motion was made to amend this pro­
 portion, by substituting the Secretary of  
 State, instead of the Senior Aflociate Judge
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792021301:0002/pct:4.905308910276312,74.29843235920264,21.297733623098416,11.302496613121734/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792021301:0002/pct:4.913070475007761,74.31294755177085,21.305495187829866,11.292819818076254/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -144,7 +144,7 @@ ed 011 the President of the United States,
 and presented it to him, for his approba­  
 tion
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792030101:0002/pct:72.46600741656366,23.68062317429406,20.889987639060568,6.932814021421616/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792030101:0002/pct:72.48918417799753,23.690360272638753,20.905438813349814,6.9474196689386565/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -174,7 +174,7 @@ appointed in each state for the elc&amp;i­
 ---m of a President and Vice-President of  
 &#x27;he United States, within thirty fou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792031201:0001/pct:72.83690081398855,24.15328043352042,20.590895387398252,12.947551770853494/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792031201:0001/pct:72.85197467591198,24.162957228565897,20.6210431112451,12.937874975808013/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -199,7 +199,7 @@ United States, prior to the ordinary period as hereinafter fpecified,
 electors (hall be appointed in each state for the election of a Pre­  
 sident and Vice-President of the United States, within thirty-fou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792031701:0001/pct:8.627696155048453,29.576907868722817,27.789934354485776,8.145512060102808/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792031701:0001/pct:8.643326039387308,29.586793198892842,27.797749296655205,8.145512060102808/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -277,7 +277,7 @@ land, Virginia, Ohio, Kentucky, Tennes­
 see, North-Carolina, Soufh-Oarolina and  
 l Georgia, and has thereby become valid a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804100601:0307/pct:40.79877699216511,38.57535681550347,18.077584559526084,13.395312295403954/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804100601:0307/pct:40.790982040504396,38.57030636292223,18.0804992994523,13.397922667364929/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -320,7 +320,7 @@ Sig,
 Your most obed’t ferv’t,  
 o JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804100901:0576/pct:60.36022167487685,12.911611785095321,16.70258620689655,19.083381475062584/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804100901:0576/pct:60.36535303776683,12.918030682328776,16.70258620689655,19.07696257782913/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -355,7 +355,7 @@ land, Virginia, Ohio, Kentucky, Tennes­
 see, North-Carolina, Snuth-Carolina and  
 Georgia, and has thereby become valid a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804101001:0311/pct:42.5768722882475,16.53522607781283,17.864553857762687,14.064143007360673/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804101001:0311/pct:42.568841946435306,16.533052963595743,17.867471394442347,14.066675428220966/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -392,7 +392,7 @@ part of the Constitution of the United
 Given under my hand at the City of  
 VVashingtou, this twenty fifth da
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804101301:0313/pct:41.110047846889955,15.236220472440944,18.00956937799043,16.20734908136483/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804101301:0313/pct:41.10218140068886,15.234221230809606,18.012501594591146,16.209596290950444/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -474,7 +474,7 @@ Maryland, Virginia, Ohio, Kentucky,
 Teaneffee, Igorth.Carolina, South-  
 Carolina and Georgia, and hasthercb
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804101601:0579/pct:60.14708183382882,27.735467077990936,16.4762947895478,14.952279957582185/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804101601:0579/pct:60.14708183382882,27.735467077990936,16.48672612528034,14.95549342845207/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -505,7 +505,7 @@ Pennsylvania, Maryland, Virginia, Ohio, Kentucky,
 Tennessee, North-Carolina, South-Carolina, and  
 Georgia, and has thereby become valid as part o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804101801:0166/pct:3.4001522456229383,58.09802012333658,21.821872621162143,10.159039272963323/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804101801:0166/pct:3.3992897006595637,58.08859321758884,21.82267884322679,10.161447347071231/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -683,7 +683,7 @@ president of the United States shall have
 been ratified by the legislatures of three­  
 fourths of the several states, the secretar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808102801:0353/pct:58.92550962088017,79.99746643020015,17.62240426747952,5.8525462376488475/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808102801:0353/pct:58.91428571428571,79.98733375554148,17.625396825396827,5.856027021321512/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -790,7 +790,7 @@ States, and declaring the officer who shall
 act as President in case of vacancies in Ihe  
 offices both of President and Vice President.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183670:1838010401:0279/pct:4.226705091258405,70.3685071060244,14.441242395132885,3.383222236196705/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183670:1838010401:0279/pct:4.2260284936769645,70.35965794768612,14.444266581292354,3.386988598256204/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -922,7 +922,7 @@ That the time af choosing the electors of Fresident and Yice
 President of the United States, in each State, shall be the Tues.  
 day next after the first Monday of November next; and after.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530200:1844052301:0182/pct:44.87881157154027,214.8544819557625,42.34558248631743,11.525029103608848/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530200:1844052301:0182/pct:14.959603857180088,71.61816065192083,14.115194162105812,3.8416763678696157/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -955,7 +955,7 @@ President of the United States, in each State,
 shall be the Tuesday next after the first Mon­  
 day of November nexst; and aftewards, excep
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015210:1844060401:0090/pct:51.164170250630285,31.434796140678493,14.963666024024915,9.285195559705363/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015210:1844060401:0090/pct:51.16911364872213,31.434796140678493,14.968609422116764,9.295570079883806/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1020,7 +1020,7 @@ President and Vice President thus to be cho­
 sen should come into office; provided always,  
 that where no apportionment of representa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215956:1856080801:0396/pct:46.32527733755943,68.82778581765557,12.777337559429476,10.282199710564399/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215956:1856080801:0396/pct:46.320689313657525,68.82280587511758,12.779373411244263,10.283867544557799/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1066,7 +1066,7 @@ and Vice President thus to be chosen should
 come into office; provided always, that where  
 110 apportionment of representatives shall hav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82014835:00415661514:1856081201:0879/pct:2.1879194630872485,68.27563964738766,13.275167785234899,11.266394323801332/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82014835:00415661514:1856081201:0879/pct:2.1968680089485457,68.27922310614206,13.27069351230425,11.266394323801332/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1140,7 +1140,7 @@ United States, and declaring the officer who
 shall act as President in case of vacancies in  
 he offices both of President and Vice Pres
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_american_ver01:data:sn86053571:00237288555:1868101301:0376/pct:24.4796828543112,225.65055762081784,48.364717542120914,6.91449814126394/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_american_ver01:data:sn86053571:00237288555:1868101301:0376/pct:6.124473096950161,56.41263940520446,12.100173568063477,1.728624535315985/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1172,7 +1172,7 @@ the President of the Senate pro tempore,
 and in case there shall be no President of  
 the Senate, then the Speaker of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_golf_ver01:data:sn85025620:00212479305:1875120201:0257/pct:45.35850119735174,52.48772154601751,12.043949852091844,8.466794789664744/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_golf_ver01:data:sn85025620:00212479305:1875120201:0257/pct:45.36789219138846,52.48772154601751,12.043949852091844,8.470353761833582/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1203,7 +1203,7 @@ the President of the Senate pro tempore,
 and in case there shall be no President of  
 the Senate, then the Speaker of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033255:0051415238A:1875120201:1059/pct:100.88256484149856,45.15751106482687,17.471181556195965,11.989065347565738/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033255:0051415238A:1875120201:1059/pct:78.19188535268937,35.00016814070014,13.539921831379118,9.291455089618994/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1234,7 +1234,7 @@ fourth day of March next succeeding such
 election, and continue for the period speci­  
 fied in article second, section first, of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barack_ver01:data:sn82014424:00211102998:1881090201:0298/pct:133.00711743772243,263.9463886820551,56.22775800711744,28.65227103499628/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barack_ver01:data:sn82014424:00211102998:1881090201:0298/pct:33.273981749387936,65.98659717051378,14.06632539505898,7.16306775874907/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

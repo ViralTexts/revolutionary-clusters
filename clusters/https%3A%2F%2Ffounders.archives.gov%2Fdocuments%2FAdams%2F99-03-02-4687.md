@@ -265,7 +265,7 @@ gate American ycuth mult be profligate inL
 3eei&lt;, and richly merits the scorn of all man&#x27;  
 kid.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798031601:0002/pct:26.163198503624034,49.634710004472936,16.90437222352116,11.107797823169822/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798031601:0002/pct:26.180734159457565,49.64216490234084,16.898527004909983,11.111525272103773/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -305,7 +305,7 @@ American Heath muft be profligate in­
 deed, and richly merits the fcorn of all  
 mankind
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83045634:00332895059:1798042301:0008/pct:3.3541785105173396,11.174286377349732,45.42353610005685,83.5228591320492/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83045634:00332895059:1798042301:0008/pct:3.3535430087154223,11.17298990602158,45.4196665403562,83.51606914955332/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -752,7 +752,7 @@ us to manliest our sentiments ot regard, not {merely by
 praises, Iml by the ptactice ol the virtues w hich make us  
 at once happy ami useful, by emulating their industry i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1833080601:0110/pct:35.83807015111604,21.535765144046444,15.111604048246223,3.1766896702815206/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1833080601:0110/pct:35.83310230108123,21.53340635268346,15.114129932538582,3.179992698064987/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -771,7 +771,7 @@ Icrcd to secure, and by a perpetual co-operation in main­
 taining and advancing tho welfare of our common coun­  
 try.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1833080601:0110/pct:35.83807015111604,24.613867893526127,14.737279911271315,2.1470040530178554/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1833080601:0110/pct:35.83310230108123,24.61117196056955,14.739857684132705,2.150419861263235/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -890,7 +890,7 @@ Herachel. Objects stupendous in their magnitude and
 wotiona strike us from all quarters and till us with  
 amazement!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661204:1852032501:0296/pct:4.334108269677848,14.318471337579618,16.1408170043175,5.1847133757961785/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661204:1852032501:0296/pct:4.339643529281523,14.32271762208068,16.135281744713826,5.193205944798302/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -916,7 +916,7 @@ of lleraobel. Object* stupendous in their magnitude
 aid motions strike us from all ?|Uarter*  
 and fill ui with amazement!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014763:00415661460:1852033001:0387/pct:70.67755335911761,78.0828032585649,14.467841283483741,6.215824126771565/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014763:00415661460:1852033001:0387/pct:70.68710308933773,78.08652308150133,14.46306641837368,6.215824126771565/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -934,7 +934,7 @@ jeen too little prepared by their early views, and I
 ,oo much occupied with turbulent seenes, to do t  
 nore than they have done.&quot; And with what 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661496:1852033001:0324/pct:70.75140984606006,78.96213183730715,13.83935375704923,2.18560074801309/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661496:1852033001:0324/pct:70.75649037240258,78.96602773881877,13.83935375704923,2.1933925510363097/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1023,7 +1023,7 @@ ay in stateo to as been o eug fom on gen­
 ration to another.  
 Before the mountains were brought forth, or eve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743208:1854092401:0711/pct:41.40677966101695,38.3058555997726,58.83050847457627,9.61910176236498/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743208:1854092401:0711/pct:13.80225988700565,12.768618533257532,19.610169491525422,3.20636725412166/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1039,7 +1039,7 @@ Before the mountains were brought forth, or eve
 Yer I am a stranger with thee, and a sojourner, as all  
 my fathers were
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743208:1854111201:1112/pct:103.57613711272248,118.77768942405999,46.671061305207644,2.9762580938316483/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743208:1854111201:1112/pct:34.52537903757416,39.592563141353324,15.557020435069216,0.9920860312772161/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1055,7 +1055,7 @@ my fathers were
 For I am a stranger with thee, and a sojourner, as all  
 my fathers were
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743208:1854111201:1113/pct:102.39720326286,117.15881883479649,47.17829199267521,3.1011287196442825/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743208:1854111201:1113/pct:34.132401087619996,39.05293961159883,15.726097330891738,1.0337095732147608/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1123,7 +1123,7 @@ slowly disappearing. The ice on the Neva had no
 For I am a stranger with thee, and a sojourner; as all my  
 fathers wer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743257:1857020501:0311/pct:63.76240743658421,31.820728291316527,45.21821332913187,2.2633053221288515/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743257:1857020501:0311/pct:21.254135812194736,10.606909430438842,15.072737776377291,0.7544351073762838/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1195,7 +1195,7 @@ ING. aged 64 years.
 “Ana thcr shall hanger no more, neither thirst any  
 more; and God shall wipe away all tears trim, the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_edgewater_ver02:data:sn84031490:no_reel:1863051201:0004/pct:76.62538699690403,37.568345323741006,10.178018575851393,0.7913669064748201/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_edgewater_ver02:data:sn84031490:no_reel:1863051201:0004/pct:76.63022445820434,37.57553956834533,10.173181114551083,0.7985611510791367/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1340,7 +1340,7 @@ templating tbo heavens through the toloscope ofller­
 motions strike us from all quarters and A.l us with  
 amazement. {Defense of American Constitution
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fullerton_ver02:data:sn84031492:no_reel:1874032101:0003/pct:4.159090909090909,59.6325268328179,12.681818181818182,1.8919410587593233/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fullerton_ver02:data:sn84031492:no_reel:1874032101:0003/pct:4.159090909090909,59.64617063853011,12.698863636363637,1.8919410587593233/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1513,7 +1513,7 @@ best purposes, of the imperfections of the best per­
 formances, the change in the complexion of life,  
 the loss of friends by alienation, by distance, b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_harry_ver01:data:sn86053573:00211101921:1881010301:0011/pct:183.53510895883778,44.673983214977405,49.51573849878935,22.423068646438562/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_harry_ver01:data:sn86053573:00211101921:1881010301:0011/pct:45.89766878595216,11.168495803744351,12.382682409930366,5.6057671616096405/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

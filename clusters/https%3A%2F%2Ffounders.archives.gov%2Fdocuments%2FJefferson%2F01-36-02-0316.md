@@ -295,7 +295,7 @@ fervation of the peace and good order of
 the fame. After the general alfembly fhall &lt;  
 be organized, the powers and duties of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801030601:0001/pct:2.3304529981670594,65.56653992395437,23.723487824037708,11.087452471482889/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801030601:0001/pct:2.347909574932356,65.5766793409379,23.71475953565506,11.092522179974651/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -325,7 +325,7 @@ madeby the legisiature.&quot; .
 Your committee are of Opinion that the  
 legiﬂative power of the governor and c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215981:1801031201:0320/pct:6.407791874919902,10.872248508537337,23.414071510957324,16.375231433861344/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215981:1801031201:0320/pct:6.406970784213224,10.871130309575234,23.41534255937126,16.376975556241216/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -355,7 +355,7 @@ and other civil officers, whofe appoint­
 ments are not herein otherw.f■ provid­  
 ed for, fhall during the continuance of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804030201:0002/pct:60.418805173475675,51.414595452141725,17.244918907821802,10.85404547858276/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804030201:0002/pct:60.42564839526449,51.423409130971265,17.25860535139944,10.849638639167988/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -382,7 +382,7 @@ sembly, but all the magistrates and other
 civil officers whose appointments are not  
 herein otherwise providcdfor, shall, dur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1804030901:0232/pct:55.96432552954292,26.402698863636363,20.28985507246377,10.031960227272727/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1804030901:0232/pct:55.94873223739203,26.398011716669625,20.29116745611591,10.0346174329842/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -413,7 +413,7 @@ another in his stead to serve for the resi­
 due of thi terra.  
 The legislature of the said territor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1804030901:0232/pct:77.25752508361204,7.1555397727272725,21.181716833890746,13.227982954545455/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1804030901:0232/pct:77.23599888548343,7.154269483401385,21.182780718863192,13.230072785371915/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -447,7 +447,7 @@ ised, tite m,wet&#x27;s *ud duties of magistru’.os
 | and other civil officers, shall be regulated  
 and defined bv the said assembly ; hut ai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804031401:0046/pct:1.336643116287951,54.81471816283925,19.70593851441665,6.510960334029227/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804031401:0046/pct:1.3363879343260787,54.807566862361384,19.70854015527555,6.514459665144597/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -471,7 +471,7 @@ the general assembly shall be organiled, the
 civil cflicers, shall be regulated and defined  
 by the said assembly ; but all magitrate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804032701:0464/pct:79.0357698289269,6.062663691919682,16.82737169517885,6.033562906198467/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804032701:0464/pct:79.0357698289269,6.065897112555373,16.82737169517885,6.033562906198467/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -533,7 +533,7 @@ not repugnant to the principles and articles
 of the ordinances, and to organize the courts  
 of the said Territory and prescribe the time
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1816090401:0344/pct:49.19517102615694,50.247196430724706,21.81086519114688,6.185939949354878/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1816090401:0344/pct:49.20858484238766,50.247196430724706,21.804158283031523,6.189959403513003/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -734,7 +734,7 @@ Sec. 9. And be it further enacted, That when the Gene.­
 rel Assembly shall be organized, the powers and duties of  
 magistrates and other civil officers shall be defined by o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271742915:1845013101:0141/pct:58.95298432810937,150.5913422895855,46.68222740913638,7.406131588012401/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271742915:1845013101:0141/pct:19.650994776036455,50.197114096528495,15.560742469712126,2.468710529337467/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -751,7 +751,7 @@ and townships as may be necessary and convenient, sub­
 ject, however, to such alterations as may thereafter be  
 made by the legislature
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271742915:1845013101:0141/pct:58.86962320773591,160.68434952348144,46.71557185728576,3.8925249741646573/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271742915:1845013101:0141/pct:19.623207735911972,53.56144984116049,15.57185728576192,1.2975083247215524/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -829,7 +829,7 @@ the governor shall, lor civil purposes, la
 oil&#x27; such districts, counties, and townships  
 as may be necessury and convenient, su
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:00200292431:1845030801:0250/pct:9.629331184528606,61.5633174334513,19.802578565672846,11.094014463763656/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:00200292431:1845030801:0250/pct:7.236444265269099,46.17633482074165,14.855875831485587,8.32435759347592/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -878,7 +878,7 @@ a Court to consist of three judges, any two of whom to form a
 in the district, and have each therein a freehold estate in five  
 hundred acres of land, while in the exercise of their offices 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1847082801:0649/pct:48.414738646101114,15.749355453424505,15.538417594972865,2.6230243246272837/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1847082801:0649/pct:48.41949919070742,15.753091955311437,15.543178139579167,2.6230243246272837/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -914,7 +914,7 @@ Governor, they shall Receive authority, with time and place,
 to elect Representative! from their counties or townships, to  
 represent them inlheGtieral Assembly; provided that, for ever
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1847082801:0649/pct:48.35761211082548,25.0308261405672,15.781205369894316,11.444905279677167/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1847082801:0649/pct:48.35761211082548,25.038299144341067,15.781205369894316,11.444905279677167/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -931,7 +931,7 @@ of Representatives, shall have authority to make laws in all
 rases for the good government of the district, not repugnant  
 to the principles and articles in this ordinance established an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1847082801:0649/pct:48.45758354755784,58.267010424840265,15.46700942587832,1.7038448604416545/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1847082801:0649/pct:48.45758354755784,58.27448342861413,15.471769970484624,1.707581362328588/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -951,7 +951,7 @@ the Governor before the President of Congress, and ail other
 officers before the Governor. As soon as a legislature shall be  
 formed in the district, the Council and House, assembled i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1847082801:0649/pct:48.45758354755784,62.6723461495348,15.538417594972865,3.093823562380899/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1847082801:0649/pct:48.45758354755784,62.67608265142174,15.538417594972865,3.093823562380899/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1137,7 +1137,7 @@ ganized, the powers and duties of magistrates
 aud other civil officers shall be regulated uud de­  
 li tied by the said Assembly; but all magistrate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn82015050:00280763366:1847100901:0072/pct:39.9872040946897,38.211197086936735,16.970569417786308,5.2344105598543464/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn82015050:00280763366:1847100901:0072/pct:29.99520076787714,28.664087391898043,12.733962565989442,3.9258079198907603/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1158,7 +1158,7 @@ eed to lav out the district into counties and
 townships, subject, however, to such alterations  
 as may thereafter be made by the Legislature
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn82015050:00280763366:1847100901:0072/pct:39.923224568138195,43.96904870277651,16.986564299424185,4.016841147018662/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn82015050:00280763366:1847100901:0072/pct:29.947208446648535,32.97678652708238,12.749960006398975,3.0154756486117433/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1380,7 +1380,7 @@ ernor. As soonas a Legislature shall be formed in the District, th
  have a common law- jurisdiction,  
 and reside in the district, and have each therein
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83025241:0038334721A:1851122501:0560/pct:16.941649899396378,36.78982029244335,11.898054996646547,0.8817948431744614/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83025241:0038334721A:1851122501:0560/pct:16.941649899396378,36.78982029244335,11.915940084954169,0.8966774565613722/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1432,7 +1432,7 @@ gave authority to the Legislature to make laws in all cases
 for the good government of the district, not repugnant to  
 the ordinance of 1787, under which it was organized
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743270:1857121101:0825/pct:148.5700436257877,98.92146949780924,45.338503797059296,5.010672958094596/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743270:1857121101:0825/pct:49.523347875262566,32.97382316593641,15.112834599019767,1.6702243193648654/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1453,7 +1453,7 @@ good government of the district, not repugnant
 to the ordinance of 1787, uuder which it was  
 organized.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn86060019:00415668892:1857122301:0101/pct:30.779334500875656,31.904657773890225,10.872737886748395,2.7662366061666304/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn86060019:00415668892:1857122301:0101/pct:30.78419926055653,31.90830235439901,10.882467406110138,2.7698811866754136/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -134,7 +134,7 @@ r JAMES WILSON,
 (Signed) 3 |OHN BLAIR,  
 I RICHARD PETERS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792042601:0002/pct:9.152334152334152,15.757575757575758,20.60810810810811,59.80449657869013/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792042601:0002/pct:9.17536855036855,15.772238514173997,20.60810810810811,59.80449657869013/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

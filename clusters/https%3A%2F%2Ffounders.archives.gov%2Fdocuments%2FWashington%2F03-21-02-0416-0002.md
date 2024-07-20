@@ -291,7 +291,7 @@ dangers of the night, so he wishes to
 participate the glory of the day, in pom­  
 moD with his brother soldier
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025001:00414216316:1822081301:0546/pct:6.4173591874422895,4.652450844641374,37.334564481378884,91.8582110218776/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025001:00414216316:1822081301:0546/pct:6.416371749499923,4.652021414066827,37.33394881263784,91.85280905790412/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1523,7 +1523,7 @@ was ordered to fix a piece of white paper in
 &quot;the most conspicuous part of his hat or cap.&quot;  
 That the main bodies might meet with as fe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84038582:00212471549:1879070501:0334/pct:139.37547600913936,140.38155802861687,58.72048743335872,7.578166401695814/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84038582:00212471549:1879070501:0334/pct:34.84386900228484,35.095389507154216,14.68012185833968,1.8945416004239535/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1540,7 +1540,7 @@ every soldier and officer was ordered to
 fix a piece of white paper in &quot;the most  
 conspicuous part of his hat or cap.*&#x27; Ina
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_effie_ver01:data:sn83025287:00280768157:1879071301:0066/pct:45.819351230425056,49.360016253555465,13.059284116331096,1.3917106867127185/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_effie_ver01:data:sn83025287:00280768157:1879071301:0066/pct:45.828672632363904,49.36678856833266,13.059284116331096,1.388324529324123/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1590,7 +1590,7 @@ Wayne is determined to share the danger of the
 night, so he wishes to participate in the glory of the  
 day in common with his fellow soldiers. The tor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crowfoot_ver01:data:sn83030313:00271744067:1879071701:0218/pct:196.66890982503364,200.83121680905103,54.79475100942126,41.202955437543295/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crowfoot_ver01:data:sn83030313:00271744067:1879071701:0218/pct:65.55630327501122,66.94373893635034,18.26491700314042,13.734318479181098/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1607,7 +1607,7 @@ every soldier and officer was ordered
 fix apiece of white paper in &quot;the most  
 conspicuous part of his hat or ip.&quot;&#x27; &quot;I na
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_volvo_ver01:data:sn83025440:00295876475:1879071701:0681/pct:4.380268066878541,61.33684210526316,10.805582423656212,1.3368421052631578/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_volvo_ver01:data:sn83025440:00295876475:1879071701:0681/pct:4.384874026990926,61.343859649122805,10.800976463543826,1.3298245614035087/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1671,7 +1671,7 @@ borhood of the works, reconnoitred them
 personally, and about half an hour before  
 midight moved forward in two column
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175042854:1896020701:0498/pct:130.84319526627218,328.4848484848485,50.14792899408284,56.22727272727273/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175042854:1896020701:0498/pct:32.710798816568044,82.12121212121212,12.53698224852071,14.056818181818182/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

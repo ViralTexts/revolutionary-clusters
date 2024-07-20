@@ -52,7 +52,7 @@ ral suspension of hostilities on admissi­
 ble terms, with a* little delay as possible.  
 It was not to be doubted, therefore, tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:0041421616A:1812110701:0154/pct:64.24723136785394,65.80888810820305,16.641724034720145,9.740031617776216/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:0041421616A:1812110701:0154/pct:64.23761783630107,65.80310880829016,16.644221656940495,9.74210356839671/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -83,7 +83,7 @@ admissible terms, with as little delay a*
 possible. It was not to be doubted, there­  
 fore, that any other practicable expedien
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812111001:0216/pct:76.30674624706096,64.52039956673487,17.634291915355398,9.242989529425923/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812111001:0216/pct:76.29294755877034,64.51263537906136,17.637130801687764,9.245888487765743/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

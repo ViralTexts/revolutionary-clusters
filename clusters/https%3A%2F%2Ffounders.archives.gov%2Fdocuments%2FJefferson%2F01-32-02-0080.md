@@ -150,7 +150,7 @@ and that particular law not passed till 1785.&quot; Du­
 ring the interval between the passage of the Bill  
 of Rights, 1776, and the passage of this act, 1785
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn89053987:00414184418:1873052801:0224/pct:70.04023899524448,62.31094978826376,12.437507621021826,3.4914873390372483/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn89053987:00414184418:1873052801:0224/pct:70.03169958546695,62.305565157276185,12.440055271072096,3.494066136651688/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -167,7 +167,7 @@ Memoirs, J flerson says: &quot;I have some­
 times asked myself, whether my country  
 is the better for my having lived at all.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_juliet_ver01:data:sn85033413:00211101179:1875070701:0222/pct:61.05585309869931,109.95260663507109,49.34965570007651,6.606347838575327/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_juliet_ver01:data:sn85033413:00211101179:1875070701:0222/pct:15.263963274674827,27.488151658767773,12.337413925019128,1.6515869596438317/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -279,7 +279,7 @@ Jefferson once asked himself the ques?
 tion, &quot;whether my country is the better  
 for my having lived at all.&quot; Let th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551141:1891081301:0513/pct:23.01285976729945,71.547064305685,10.679730557256583,1.7893755824790307/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551141:1891081301:0513/pct:23.01285976729945,71.547064305685,10.68789548887528,1.7955886921404163/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -360,7 +360,7 @@ Then follows his account of what he
 did. Abridged they are:  
 “He improved the navigation of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn85035722:00513685208:1898062501:0196/pct:76.89530685920577,68.82332643202209,16.838576585869006,6.3146997929606625/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn85035722:00513685208:1898062501:0196/pct:76.87548337200309,68.81145420044851,16.840680587780355,6.317923063653614/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -385,7 +385,7 @@ giving the inheritance to all children
 equally, and of the act for apportioning  
 crimes and punishments. He intro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn85035722:00513685208:1898062501:0196/pct:76.94687983496648,78.36438923395445,16.761217122227954,6.935817805383023/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn85035722:00513685208:1898062501:0196/pct:76.92704305233308,78.35087114024495,16.76334106728538,6.938933931343798/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -424,7 +424,7 @@ would have been done by others, soma
 of them, perhaps, a little better.&#x27;  
 Then follows his account of what h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carlisle_ver01:data:sn86081854:00296026086:1898063001:0203/pct:50.11561908766029,6.332415591943197,29.556443136430524,89.71163599478336/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carlisle_ver01:data:sn86081854:00296026086:1898063001:0203/pct:50.12262630509424,6.342076027628846,29.563450353864482,89.70680577694054/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -450,7 +450,7 @@ giving the inheritance to all children
 equally, aud of the act for apportioning  
 crimes and punishments. He intro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carlisle_ver01:data:sn86081854:00296026086:1898063001:0203/pct:65.31427370191297,26.720765106506303,14.589026697498424,36.8062599623243/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carlisle_ver01:data:sn86081854:00296026086:1898063001:0203/pct:65.31427370191297,26.720765106506303,14.603041132366338,36.81109018016713/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -492,7 +492,7 @@ Then follows his account of what he
 did. Abridged they are:  
 ““He improved the navigation of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_gargoyle_ver02:data:sn92063989:00514153437:1898070201:0383/pct:75.9393278477248,56.56961834364157,11.103400416377516,27.95293407753809/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_gargoyle_ver02:data:sn92063989:00514153437:1898070201:0383/pct:75.9393278477248,56.57464675416101,11.116618750206536,27.950419872278374/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -517,7 +517,7 @@ giving the inheritance to all children
 equally, and of the act for apportioning  
 ) crimes and punishments. He intro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_gargoyle_ver02:data:sn92063989:00514153437:1898070201:0383/pct:76.05829285218599,86.8984763916126,10.954694160801031,5.294916276964852/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_gargoyle_ver02:data:sn92063989:00514153437:1898070201:0383/pct:76.06159743564324,86.90099059687233,10.961303327715541,5.297430482224569/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -607,7 +607,7 @@ would have been done by other?, Home
 of them, perhaps, a little better.&#x27;  
 Then follows his account of what h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lydia_ver01:data:sn87080287:00296028794:1898071401:0026/pct:42.2122379118528,5.992445054945055,24.8395378690629,89.0625/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lydia_ver01:data:sn87080287:00296028794:1898071401:0026/pct:42.219369562116675,6.003891941391942,24.83240621879903,89.06822344322345/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -633,7 +633,7 @@ giving the inheritance to all children
 equally, and of the act for apportioning  
 crimes and punishments. He intro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lydia_ver01:data:sn87080287:00296028794:1898071401:0026/pct:54.98502353444587,26.253434065934066,12.173727000427899,36.46978021978022/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lydia_ver01:data:sn87080287:00296028794:1898071401:0026/pct:54.98502353444587,26.253434065934066,12.195121951219512,36.48122710622711/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -673,7 +673,7 @@ Then follows his account of what he
 Sid. Abridged they are:  
 &quot;He improved the navigation of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_jinx_ver01:data:sn84026897:00211101295:1898072001:0205/pct:62.092766427388185,63.0327545382794,11.885698509110988,29.311365430149962/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_jinx_ver01:data:sn84026897:00211101295:1898072001:0205/pct:62.092766427388185,63.03933175480137,11.890300018406037,29.311365430149962/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -703,7 +703,7 @@ DEPENDENCE.
 crimes and punishments. He intro­  
 duced the olive tree into South &#x27; ..iro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_jinx_ver01:data:sn84026897:00211101295:1898072001:0205/pct:62.24461623412479,10.132202052091555,23.785201546107125,87.64798737174428/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_jinx_ver01:data:sn84026897:00211101295:1898072001:0205/pct:62.24461623412479,10.13549066035254,23.803607583287317,87.65127598000527/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -724,7 +724,7 @@ luxurious as well as simple In his diet , for
 the list of his table expenditures contain  
 such delicacies as crabs , partridges , nuts 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_beatrice_ver01:data:sn99021999:00206539471:1899052901:0417/pct:74.4337680164722,86.64861205145566,16.300617707618393,4.251861882193635/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_beatrice_ver01:data:sn99021999:00206539471:1899052901:0417/pct:55.843487214690235,64.99322951929587,12.236142097134032,3.185511171293162/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

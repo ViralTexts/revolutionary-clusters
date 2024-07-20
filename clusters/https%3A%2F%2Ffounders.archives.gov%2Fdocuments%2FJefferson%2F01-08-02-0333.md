@@ -95,7 +95,7 @@ have felt too, tint the feelings of this excellent
 mm. were an appropriate consecration of the  
 marble which was to hold those remain
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215658:1839072001:0593/pct:1.9057519057519057,29.77247339643718,15.194040194040195,6.126168499029926/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215658:1839072001:0593/pct:1.9055868341273279,29.770723104056437,15.195611375775949,6.127767979619832/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -133,7 +133,7 @@ viduals, and lo benefit certain sections, at the expense of
 othere, he would not lake fire, not only at the inexpe­  
 diency, not only at the impolicy, not only et the i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664266:1842093001:0255/pct:34.96159754224271,46.57729027016047,16.31336405529954,9.42514726792606/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664266:1842093001:0255/pct:34.97183819764465,46.58406120928973,16.308243727598565,9.42514726792606/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -175,7 +175,7 @@ surplus of hands must be turned to some-­
 thing else. I should then, perhaps, wish  
 to turn them to the sea in prererence to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84037932:00415668934:1842110501:0062/pct:170.68139472983765,239.54368625801703,74.28799574128294,30.101987172747346/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84037932:00415668934:1842110501:0062/pct:56.893798243279214,79.84789541933901,24.76266524709431,10.033995724249115/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -206,7 +206,7 @@ riceand the inetr uments byihick the liberties of
 countrpare gencrally overtarned.? Ifthe pire­  
 it of the people of Massachusetts is to b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn86053240:00237288452:1847110301:0135/pct:133.39419390177105,164.37424058323208,53.67902136205952,35.4678007290401/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn86053240:00237288452:1847110301:0135/pct:44.464731300590344,54.79141352774403,17.89300712068651,11.822600243013365/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -240,7 +240,7 @@ gathered from her Press,-from her conven
 tions, and from the declarations of her leadin  
 citizens--then weigh her in the scales 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn86053240:00237288452:1847110301:0136/pct:133.930219678789,164.282244352684,50.56304227432158,41.58367743502551/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn86053240:00237288452:1847110301:0136/pct:44.643406559596336,54.760748117561334,16.85434742477386,13.861225811675167/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -265,7 +265,7 @@ most tasting mnmjeerton.
   
 gWAmong the natural causes that affec
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn85042199:00296026670:1851081301:0147/pct:8.162142333088775,113.78625347636074,17.865003668378577,5.2178519401403785/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn85042199:00296026670:1851081301:0147/pct:6.129565057808772,85.33969010727056,13.41530556065333,3.920010594623229/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -310,7 +310,7 @@ lasting bonds. , ,
 Congressional Election.  
 From the returns given in another column, i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024517:00296022706:1851082301:0343/pct:48.50698856416773,6.7431135485479246,41.2007623888183,118.24753832730899/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024517:00296022706:1851082301:0343/pct:36.399745789640924,5.060451202791973,30.918334922148077,88.68253770410071/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -334,7 +334,7 @@ Jefferson.
 Congressional Election.  
 From the returns given in another column, it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022627:1851082701:0376/pct:49.30715935334873,8.151135639991509,40.877598152424945,118.89195499893866/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022627:1851082701:0376/pct:36.991048224083166,6.1133517299936315,30.667051689286744,89.17427297813627/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -356,7 +356,7 @@ interest, by the most lusting bon-!c.—.qu:nu.
   
 ) &#x27; PLETON&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153280:1851101101:0641/pct:29.980481457384514,5.611036754864615,21.093038386467143,91.93863893750644/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153280:1851101101:0641/pct:29.980481457384514,5.611036754864615,21.1060507482108,91.94550259102921/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -377,7 +377,7 @@ they are tied to their country and wed­
 ee to its liberty and idterest, by the most  
 lasting bonds.—Jefferson,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn91070560:00340587959:1852103001:0040/pct:14.953464322647363,82.22013170272812,17.890382626680456,5.989338350580119/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn91070560:00340587959:1852103001:0040/pct:14.953464322647363,82.22013170272812,17.911065149948293,6.005017246785826/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -475,7 +475,7 @@ Heeurthl_. When the last rays of the­
 sun gild the sumiait of the Alps, the sher­  
 herd who dwel&#x27;s the highest on the moun
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279523970:1855072701:0125/pct:56.34791122715405,255.9880239520958,38.39751958224543,20.270569971168772/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279523970:1855072701:0125/pct:18.779572524065916,85.31988025279965,12.797084896938054,6.75610747680822/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -505,7 +505,7 @@ pendent and are tied to their country, and
 wedded to its liberty and interests by the  
 most lasting bonds.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83021380:00279523878:1855111601:0359/pct:251.00512962706225,278.1924138636131,33.994177180091505,10.254575196810142/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83021380:00279523878:1855111601:0359/pct:83.65677848627668,92.72132488243713,11.329821643101377,3.417842295372453/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -569,7 +569,7 @@ s*rl by tfeo mwt Jaatiof boo#
   
 My Mother.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn93053243:00279557281:1856102501:0163/pct:63.80702083724423,17.051719611446575,24.12239534447156,79.08899973746391/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn93053243:00279557281:1856102501:0163/pct:63.811713910268445,17.055001312680492,24.12239534447156,79.08571803622998/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -630,7 +630,7 @@ lasting bonds. Jefferson.
 Quantity of Seal per Acre.  
 There is a great discrepancy in the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn97065090:00212470478:1856112101:0170/pct:103.14218381775333,66.2782820755995,19.12804399057345,8.9554260940252/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn97065090:00212470478:1856112101:0170/pct:77.38703339882122,49.70871155669963,14.361493123772101,6.719956645440997/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -660,7 +660,7 @@ cord He states that the cow came from the
 She was held, and  
 cold water for some time without producin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472062:1857022101:0501/pct:19.627749576988155,98.15978456014362,45.40327129159616,31.642728904847395/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472062:1857022101:0501/pct:4.9090139652983495,24.539946140035905,11.355621385244746,7.910682226211849/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -804,7 +804,7 @@ Officers. &#x27;By observing the shoulder
 straps worn by officers of the army, their  
 rank can be readily ascertained. A majo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn85054845:00212477667:1861072501:0096/pct:106.40074211502782,66.50106458481193,20.098948670377244,9.119943222143364/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn85054845:00212477667:1861072501:0096/pct:79.82062780269058,49.88171279867518,15.076542446265657,6.8370002365744025/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -845,7 +845,7 @@ are tied to their country, and wedded to
 its liberty and&#x27;interests by the most last­  
 ing bonds.—J[/&#x27;rrson.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027253:00279528529:1864072901:0686/pct:16.35534008270355,57.740632712586944,11.179238556965636,2.221225039264079/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027253:00279528529:1864072901:0686/pct:16.364846237939066,57.74437214867998,11.179238556965636,2.2249644753571163/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -919,7 +919,7 @@ tied to their country, and wedded to its lib-
 erty and interests, by the most lasting  
 bonds.--Jefferson.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_bittern_ver01:data:sn86072040:no_reel:1876021201:0261/pct:159.8286203941731,139.7417840375587,37.56640959725792,10.751173708920188/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_bittern_ver01:data:sn86072040:no_reel:1876021201:0261/pct:53.2762067980577,46.58059467918623,12.522136532419308,3.583724569640063/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -950,7 +950,7 @@ interests by the most lasting bonds.
   
 FINDING A PERSON&#x27;S NAME.-The Ag
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn84022761:no_reel:1876092201:0155/pct:217.86350148367953,83.84347152266564,49.61424332344214,28.826036419992253/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn84022761:no_reel:1876092201:0155/pct:72.62116716122651,27.947823840888546,16.538081107814044,9.608678806664084/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -981,7 +981,7 @@ interests by the most lasting bonds
 ♦ ♦  
 Finding v Pehhon&#x27;h Name. The A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_duwamish_ver01:data:sn87093109:00200290963:1876093001:0189/pct:76.06815203145479,29.68990919993147,17.06422018348624,10.10793215692993/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_duwamish_ver01:data:sn87093109:00200290963:1876093001:0189/pct:76.06815203145479,29.702758266232653,17.09043250327654,10.099366112729141/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1020,7 +1020,7 @@ MISCELLANEOUS.
 the sire gome  
 An
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_camas_ver01:data:sn83045610:00202198193:1877030301:0304/pct:21.09307045520441,84.43088125066923,36.63380690055089,47.34982332155477/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_camas_ver01:data:sn83045610:00202198193:1877030301:0304/pct:7.031023485068136,28.143627083556414,12.211268966850295,15.783274440518257/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1041,7 +1041,7 @@ aro tied to the country and wedded to its
 liberty and interests by the most lasting  
 bonds.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn85025202:00279557323:1878031601:0288/pct:45.156398104265406,38.928104575163395,12.37914691943128,3.6601307189542482/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn85025202:00279557323:1878031601:0288/pct:45.161137440758296,38.93790849673203,12.383886255924171,3.6601307189542482/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1083,7 +1083,7 @@ and they are tied to the country and
 wedded to its liberty and interests by  
  the most lasting bonds.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_dunning_ver01:data:sn84022835:00237285001:1878072501:0802/pct:92.36276849642005,71.21991932118515,56.32458233890215,14.522186674085408/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_dunning_ver01:data:sn84022835:00237285001:1878072501:0802/pct:23.104477611940297,17.804979830296286,14.08955223880597,3.630546668521352/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1135,7 +1135,7 @@ her sons renowned in peace and war who
 were raised upon the farm and to its prac­  
 tical duties, these Capitol grounds woul
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00415664436:1878112101:0508/pct:131.62097418152783,237.76371308016877,41.96167154644663,23.692900385250415/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00415664436:1878112101:0508/pct:43.87365806050927,79.25457102672293,13.987223848815544,7.897633461750138/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1155,7 +1155,7 @@ the most virtuous and they are tied to the
 country and wedded to its liberty and in­  
 terests by the most lasting bonds.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn86090537:00295878198:1879102501:0070/pct:52.1551724137931,81.81527984677591,18.419540229885058,4.213662481379017/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn86090537:00295878198:1879102501:0070/pct:39.12918522776261,61.364120025537346,13.809455381520333,3.1602468610342624/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1184,7 +1184,7 @@ founders of vice and the instruments by
 which the liberties of a country are gen­  
 fcylly overthrown.&quot; And the Democrati
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_eritrea_ver01:data:sn84026844:00202193481:1883042801:0412/pct:0.7468079980727536,80.09404388714734,11.75620332450012,2.9780564263322886/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_eritrea_ver01:data:sn84026844:00202193481:1883042801:0412/pct:0.7468079980727536,80.1027516544758,11.75620332450012,2.995471960989202/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1278,7 +1278,7 @@ they can find employment in this line,
 I would not convert them into marin­  
 ers artisans, or any thing ls
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_johns_ver01:data:sn92073049:00295879270:1890102101:0348/pct:21.6626213592233,115.05083324599099,19.948422330097088,9.831254585473221/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_johns_ver01:data:sn92073049:00295879270:1890102101:0348/pct:16.251896813353564,86.29074520490515,14.977238239757208,7.378681479928729/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1303,7 +1303,7 @@ the liberties of a oountrv are aenerailv
 overturned. Were I to indulge my own  
 theorv, I should wish them (the states)
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_animals_ver01:data:sn92051501:00271763633:1890111301:0377/pct:26.049618320610687,55.231917757924364,16.47582697201018,7.134989597356505/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_animals_ver01:data:sn92051501:00271763633:1890111301:0377/pct:19.551384027998726,41.4269979194713,12.360801781737194,5.348182596989353/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1344,7 +1344,7 @@ fore, as they can find employment in
 this lino \ woijld not convert them  
 into mariners, artisans, or anythin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn86053067:0029586297A:1891010801:0178/pct:56.52585119798235,64.17626545492972,14.643757881462799,16.95022720067632/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn86053067:0029586297A:1891010801:0178/pct:56.53635981504834,64.17978794603543,14.654266498528793,16.95374969178203/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1511,7 +1511,7 @@ i water.&quot; Again, &quot;I look forward with hor­
  suffer on our coasts if we have no force on  
  the water, former experience has taught us.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042957:1897090801:0293/pct:0.0,153.58062074186222,72.07692307692308,17.623012869038607/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042957:1897090801:0293/pct:0.0,38.395155185465555,18.029632480277083,4.405753217259652/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1541,7 +1541,7 @@ forced to a condition not sought,
 both in the social and financlal  
 world, Cottnnald clothes and sors
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_flamingo_ver01:data:sn83004226:00295875811:1897101501:0489/pct:126.52899126290707,353.2520325203252,42.33518665607625,32.34610917537747/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_flamingo_ver01:data:sn83004226:00295875811:1897101501:0489/pct:31.63853028798411,88.3130081300813,10.585898709036742,8.086527293844368/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1572,7 +1572,7 @@ By putting ourselves in a position to punish
 The Legislature of New York may be assured  
 that every
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042982:1898022801:0774/pct:1.3975155279503106,105.68095743069232,66.22670807453416,36.96409634903802/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042982:1898022801:0774/pct:0.34951456310679613,26.42023935767308,16.563106796116504,9.241024087259506/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1590,7 +1590,7 @@ the first insult; because an insult
 unpunished is the parent of many  
 othe i s. —Tbom as J e ffc rson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_abolitionist_ver02:data:sn86074033:00199916270:1898030501:0897/pct:4.474745534856924,64.00446802569115,15.690416746687152,2.806478637252164/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_abolitionist_ver02:data:sn86074033:00199916270:1898030501:0897/pct:3.4679499900773965,49.60683883999423,12.170073427267315,2.182224787187996/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1625,7 +1625,7 @@ Jefferson.
 Tho Legislature of New York may  
 bo assured that every exertion will b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_manhattan_ver01:data:sn84020355:00279554875:1898030501:0216/pct:5.408583186360964,31.1933937133724,18.322555359592396,16.808737346830046/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_manhattan_ver01:data:sn84020355:00279554875:1898030501:0216/pct:5.4134822653341175,31.19672349493873,18.337252596511856,16.818726691529037/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1644,7 +1644,7 @@ the first insult; because an insult
 unpunished is the parent of many  
 others.—Thomas Jefferson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_eclipse_ver01:data:sn86090500:00513687989:1898030601:0141/pct:31.40916808149406,59.06793935991016,12.691001697792869,3.0320044918585065/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_eclipse_ver01:data:sn86090500:00513687989:1898030601:0141/pct:31.416242218449348,59.06793935991016,12.698075834748161,3.046041549691185/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1689,7 +1689,7 @@ Jefferson.
 The Legislature of New York may  
 be assured that every
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_keystone_ver03:data:sn86076366:00279555132:1898031101:0251/pct:72.88811795316566,147.06583653464034,49.52298352124892,49.754934428401114/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_keystone_ver03:data:sn86076366:00279555132:1898031101:0251/pct:18.222029488291415,36.766459133660085,12.38074588031223,12.438733607100279/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1711,7 +1711,7 @@ necessary that all other nations were just also
 —1 nomas Jefferson.  
 The same great author wrote thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_annapolis_ver01:data:sn85025350:0041562766A:1898031201:0496/pct:7.867534456355283,80.09205983889528,15.581929555895865,5.336593785960875/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_annapolis_ver01:data:sn85025350:0041562766A:1898031201:0496/pct:6.097319750766492,62.07870387573855,12.080901987933933,4.1432871316562/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1849,7 +1849,7 @@ I think it our interest to punish the
 first insult because an insult unpunished  
 is the parent of many others.—Thoma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_furio_ver01:data:sn87068079:00332896507:1898032401:0256/pct:76.81977720128185,85.99660523763336,9.766519151533648,1.1517943743937924/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_furio_ver01:data:sn87068079:00332896507:1898032401:0256/pct:76.80805614891669,85.98618014304765,9.768843454379006,1.1546854164141107/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1868,7 +1868,7 @@ insult, because an insult unpunished is
 the parent of many others. • • •  
 Where
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_moonstone_ver01:data:sn85042461:00280769782:1898041001:0504/pct:19.903567984570877,16.511492580739016,11.147540983606557,2.691300552807681/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_moonstone_ver01:data:sn85042461:00280769782:1898041001:0504/pct:19.908389585342334,16.511492580739016,11.142719382835102,2.69857433808554/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1895,7 +1895,7 @@ provokes Insult and Injury, while a con­
 dition to punish often prevents them.  
 The festival of the resurrection o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_moonstone_ver01:data:sn85042461:00280769782:1898041001:0504/pct:19.768563162970107,19.828338667442537,11.706846673095468,6.517311608961304/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_moonstone_ver01:data:sn85042461:00280769782:1898041001:0504/pct:19.77338476374156,19.828338667442537,11.706846673095468,6.5282222868780915/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1922,7 +1922,7 @@ I think it our interest to punish the
 first insult because an insult unpunished  
 is the parent of many others. Thoma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_frankenbatch_ver01:data:sn92073232:00295879737:1898041401:0518/pct:51.92307692307692,99.7037402789779,14.401056958308867,1.6541167757067028/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_frankenbatch_ver01:data:sn92073232:00295879737:1898041401:0518/pct:38.96313702452636,74.78089124799408,10.809223087090615,1.2467596593013208/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1963,7 +1963,7 @@ prevents them. Thomas Jefferson.
   
 Ihe legislature of New ork may be a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_calumet_ver01:data:sn86086632:00296023504:1898052701:0865/pct:78.13887127457197,27.968394847927264,21.734305643627142,10.509795432406104/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_calumet_ver01:data:sn86086632:00296023504:1898052701:0865/pct:52.10910244211862,18.649204459357072,14.494132572153505,7.002922394198507/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2015,7 +2015,7 @@ utE soning leads to the necessity of some naval foroe,
 KY. S a condition to do it, but we should put ourselves into  
 END C.. S itas soon as posatble.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043019:1898062801:0376/pct:0.0,246.6774240868417,73.04659498207886,64.8965820742262/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043019:1898062801:0376/pct:0.0,61.66935602171043,18.26819648619577,16.22414551855655/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2085,7 +2085,7 @@ more than a century ago had been cur­
 ried out, the I&#x27;nlted States would today  
 hive commend of the maikets of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_atherton_ver01:data:sn84026355:00211100291:1898062901:0737/pct:60.374907201187824,36.13847837985769,16.202672605790646,29.720853858784892/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_atherton_ver01:data:sn84026355:00211100291:1898062901:0737/pct:45.294226842398366,27.10727969348659,12.15890105810284,22.29064039408867/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

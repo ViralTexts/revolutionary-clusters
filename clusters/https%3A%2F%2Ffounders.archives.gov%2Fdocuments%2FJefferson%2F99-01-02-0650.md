@@ -276,7 +276,7 @@ shot of the Bashaw&#x27;s Castle, and of their
 l • half gun shot on the starboard bow—.She  
 , :. ul all her guns mounted and loaded
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804053001:0154/pct:57.7112542629784,20.581742630827165,18.624478969306555,4.648746915984937/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804053001:0154/pct:57.70032203068763,20.579070371332122,18.627265264886027,4.652471219596642/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -332,7 +332,7 @@ in two cablcs ctl&#x27;eng-h on the
 ._ ter, and several gun boats w  
 : shot qj-the stssarbord buw—and ali thc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:0041421602A:1804112601:0540/pct:50.989660265878875,1.8842769531597192,45.805022156573116,93.76055461736735/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:0041421602A:1804112601:0540/pct:50.98212967065426,1.8841094916459296,45.80318022940974,93.75518426353834/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -384,7 +384,7 @@ ol men, employed in the deilrudtiou of the Phiiadel­
 Lieutenant Stephen Decatur, Junr.  
 James Lawrence
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804112801:0243/pct:7.448129100904415,11.254819052356671,17.25483241709523,20.955105086432035/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804112801:0243/pct:7.446808510638298,11.253419547376275,17.257683215130022,20.95664428417475/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -413,7 +413,7 @@ meritorious.
 Rel’pedllully lubmitted,  
 R. SMITH
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804112801:0243/pct:7.55453094520305,34.37383410023629,16.811491399184252,7.971645317746549/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804112801:0243/pct:7.553191489361702,34.36955981099229,16.814420803782507,7.9747989720633345/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -480,7 +480,7 @@ frigate untill the fire had communicat­
 Lieatenant Decatur did not lose a.  
 man a2nd hadbiit one sightly woandéd
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804120401:0608/pct:41.50347441566645,3.8729198184568836,34.823120656980414,93.05093292990419/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804120401:0608/pct:41.50873868182775,3.876281728021516,34.823120656980414,93.05765674903346/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -542,7 +542,7 @@ TArfbifcwhiff it a /ii-f of thr officer*, avl the r.nm.
 ber of men em/i/’irii in the destruction of the Phiia­  
 dtlfihii:—Lieutenant Stephen Decatur, jnn_Jame
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804120501:0250/pct:4.310124968120378,46.04129409852057,22.366743177760775,28.678263696959846/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804120501:0250/pct:4.309026007139215,46.03381014304291,22.367414584395718,28.677665799739923/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -569,7 +569,7 @@ ROBERT SMITH.
   
 Gazette Marine Mesnwenda
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804120501:0250/pct:4.2336138740117315,75.87384165176394,22.44325427186942,8.031214436676963/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804120501:0250/pct:4.232534421213667,75.86150845253576,22.443906170321263,8.033972691807543/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

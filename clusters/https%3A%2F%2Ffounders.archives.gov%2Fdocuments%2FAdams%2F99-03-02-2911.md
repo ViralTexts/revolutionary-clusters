@@ -154,7 +154,7 @@ good name endureth forever.
 If you are not wiser and better at the  
 end of a day, tbat day is lost
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775289:1886111101:0395/pct:81.72131147540983,48.20727226656531,14.688524590163935,19.739009248701382/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775289:1886111101:0395/pct:61.32524192225685,36.15862156341062,11.021814006888635,14.810591663499304/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -186,7 +186,7 @@ Pa Oct. 2-ly
 A good life hath but few days, but a  
 good name endureth forever
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn83032231:00237287903:1887010101:0010/pct:291.55617585485,217.50174459176552,42.986741102581995,47.006280530355895/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn83032231:00237287903:1887010101:0010/pct:72.9272124279979,54.37543614794138,10.752312794554024,11.751570132588974/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -216,7 +216,7 @@ A good life hath but few days, but a
   
 good name endureth forever
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn90000523:00415629588:1887082501:0762/pct:94.7901325478645,21.57079646017699,14.230486008836523,6.277654867256637/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn90000523:00415629588:1887082501:0762/pct:71.11029276376358,16.178097345132745,10.679432885288161,4.715154867256637/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -239,7 +239,7 @@ virtue does he see in others.
 A good life hath but few days, but a  
 good name endureth forever
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_beatles_ver01:data:sn84027718:00271762689:1887083101:0389/pct:97.52502780867631,21.852626941293092,14.543937708565073,6.223152329551713/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_beatles_ver01:data:sn84027718:00271762689:1887083101:0389/pct:73.1710709318498,16.389470205969822,10.917941585535466,4.67011785438925/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

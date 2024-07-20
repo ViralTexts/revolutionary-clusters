@@ -87,7 +87,7 @@ creases w ith time, and will eud only
 with existence.  
 A. B. WOOD WARD
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216341:1825041401:0183/pct:35.818736943596335,9.470568891811904,14.832074562108309,28.6747780335416/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216341:1825041401:0183/pct:35.812982005141386,9.469530907496711,14.835047129391603,28.675288616104048/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -154,7 +154,7 @@ surance of a veneration which increases
 with lime, and will end only with exis­  
 tence. A. B. WOODWARD
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn84024505:00542866962:1825041901:0033/pct:56.755009696186164,74.35308528556116,12.90670114199526,21.89557495023733/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn84024505:00542866962:1825041901:0033/pct:56.742783283067645,74.3417023882425,12.90930633347695,21.896050214329456/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -208,7 +208,7 @@ ject that excites the sensibility, as the con­
 tempiaticn of the resulting majes&#x27;y and fectilty,  
 I beg you, sir, to accept the repeaied sssur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1825042101:0883/pct:54.688105385509495,23.506811037373385,21.115846571096473,24.903946908836886/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1825042101:0883/pct:54.701020276378664,23.506811037373385,21.115846571096473,24.915589707765747/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -319,7 +319,7 @@ tion of the resulting majesty and fertility.
 of a veneration whirh increases with lime, and  
 will end only with existence.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826063001:0065/pct:32.95910184442663,78.69502523431868,15.188452285485164,17.015140591204037/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826063001:0065/pct:32.95381654906992,78.6855701069326,15.191361984177892,17.017101205494814/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -356,7 +356,7 @@ is not 90 milch the intrinsic tnagu.ticct ce of the object that
 excites the *eujibilit«, us the couUuiplutiou of the resulting  
 maiestv ami fertility M
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826080401:0105/pct:2.0064205457463884,21.51260504201681,14.92776886035313,4.909963985594238/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826080401:0105/pct:2.0060985395602633,21.510022806385788,14.930722730433851,4.913375745208659/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -375,7 +375,7 @@ tions, it is not so much the intrinsic magnificence
 of the object, that excites the sensibility as the re­  
 sulting majesty and fertility”—The learne
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826080401:0105/pct:2.134831460674157,43.421368547418965,14.78330658105939,2.6050420168067228/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826080401:0105/pct:2.13448884609212,43.41615652382667,14.786283635585514,2.608730444524467/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

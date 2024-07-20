@@ -82,7 +82,7 @@ posed to vote fur the commitment of a
 petition, without any intention of sup,  
 porting the j rarer of it.? Fiona&#x27;s Debates
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn85042796:00295863079:1836031201:0024/pct:40.87982832618026,0.7953216374269005,22.746781115879827,15.894736842105264/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn85042796:00295863079:1836031201:0024/pct:40.89175011921793,0.7992202729044834,22.746781115879827,15.90253411306043/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -327,7 +327,7 @@ the petition is, that we may give no ground of
 alarm by a serious opposition, as if we were  
 about to take measures that were unconstitutional
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1853081801:0816/pct:20.779584969153113,49.81330780277645,15.255187885586091,18.49688846337961/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1853081801:0816/pct:20.788932510749675,49.81330780277645,15.25051411478781,18.503271102600927/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -357,7 +357,7 @@ plated by any gontleman; but they exoite i
 i ting the memorials. Gentlemen may vote for  
 ? the commitment of the petition, without any 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1853082501:0820/pct:58.77266387726639,42.47456325590324,14.198047419804743,7.343060088308697/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1853082501:0820/pct:58.77266387726639,42.48096243680809,14.211994421199442,7.339860497856274/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

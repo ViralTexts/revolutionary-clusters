@@ -764,7 +764,7 @@ ments depend, are involved in no obscurity.”—
 “When one of the personages in one of Te­  
 rcnce’scomedies.tlie first time uttered in the The
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184522:1824031201:0058/pct:34.11429476017097,45.300034686090875,15.102105429792623,6.3706786911781705/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184522:1824031201:0058/pct:34.10889522000633,45.29479768786127,15.104991030916956,6.373795761078998/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -857,7 +857,7 @@ involved in no obscurity.’* ‘-Wien one
 of the personages in one of Terence’s  
 comedies* the first time uttered in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184157:1824032901:0385/pct:38.56958048419885,53.120224146714214,16.928479024209942,9.56444218033622/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184157:1824032901:0385/pct:38.562453806356245,53.11345982427098,16.93151022419315,9.567468907848381/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -883,7 +883,7 @@ involved in no obscurity.”—“ When one
 of the personages in one of Terence’s  
 comedies, the first time uttered the line
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1824040601:0214/pct:22.934322033898304,71.93213638609784,17.372881355932204,7.642892439466316/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1824040601:0214/pct:22.9282499338099,71.92028985507247,17.37490071485306,7.645750988142293/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -938,7 +938,7 @@ involved in no obscurity.” “When one
 of the personages in one of Terrence’s  
 comedies, the first time uttered in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021202:00517171980:1824042101:0128/pct:82.9485621709194,24.791519434628974,18.934791413527744,9.625441696113073/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021202:00517171980:1824042101:0128/pct:64.28459325137327,19.217146821484647,14.684802511116924,7.467046408880125/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1505,7 +1505,7 @@ in all to bidders for the Government Loan-t
 rates of the bids being from a fraction above par  
 as high as two per cent premium, and the wh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_buttery_ver01:data:sn83030213:00206530273:1848031001:0039/pct:2.6397036122259956,23.868647017869574,84.30071009570855,272.05848224646087/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_buttery_ver01:data:sn83030213:00206530273:1848031001:0039/pct:0.8799012040753319,7.956215672623192,28.100236698569518,90.6861607488203/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1718,7 +1718,7 @@ the lran&gt;cemient power presente*! to the jn!nt ’
 with the more strihinj: simplicity &lt;»t e\j’ie&gt;&gt;,oi.  
 Vet this verse onl\ evhihN hie otfee s o 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215804:1848031501:0246/pct:3.4730195177956373,5.960078718020804,26.01415996938385,92.57098678661794/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215804:1848031501:0246/pct:3.472687266813355,5.959659849602923,26.01486016773494,92.5668236231171/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1942,7 +1942,7 @@ heathen mythology, nor even to the more ele­
 vated, but not less fantastical imaginatoins of  
 the Greciaa philosophers and sages
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn82016320:00296029816:1848032301:0617/pct:23.941176470588236,9.89127865752777,33.838235294117645,116.54455211533916/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn82016320:00296029816:1848032301:0617/pct:17.963807562159776,7.421413377452139,25.393555980579666,87.41432285511699/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2029,7 +2029,7 @@ Rew ards and Punishments. Suppose it possible
 fo , man u believe either ot these articles of  
 failh ,nJ that man will have no conscience, h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn82015050:00280763366:1848032501:0168/pct:74.84137055837563,53.945578231292515,17.845812182741117,12.120181405895691/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn82015050:00280763366:1848032501:0168/pct:56.15677562678515,40.46485260770975,13.392573786099652,9.09297052154195/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2052,7 +2052,7 @@ ream whcn a,.0vered or raUier it is so
 ;mD089;Wc for natural reason to disbelieve them.  
 nHt it would seem the urii ot natural reaso
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn82015050:00280763366:1848032501:0168/pct:74.63515228426395,81.41723356009071,17.41751269035533,4.467120181405896/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn82015050:00280763366:1848032501:0168/pct:55.998095842589656,61.06575963718821,13.075214217708664,3.3560090702947845/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2077,7 +2077,7 @@ promise ol reaempt ou irom u oy u
 . V .1 . aia.&#x27; I  
 and always have been, where th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn82015050:00280763366:1848032501:0168/pct:74.27030456852792,117.77777777777777,18.06789340101523,3.673469387755102/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn82015050:00280763366:1848032501:0168/pct:55.728340209457315,88.33333333333333,13.551253570295144,2.7551020408163267/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2156,7 +2156,7 @@ aor even lo ine snore elevated, but uot Iras
 Unticai miaguiationsot the Grecian 1 hil.-p:ieii  
 and Sagea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn82015050:00280763366:1848032501:0168/pct:75.50761421319797,18.60544217687075,46.41497461928934,112.7437641723356/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn82015050:00280763366:1848032501:0168/pct:56.64868295779118,13.956916099773242,34.83021263091082,84.5578231292517/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2609,7 +2609,7 @@ to that injunction bo with all their posterity
 doomed to death, and that eating an apple 1 (  
 could give &quot;the knowledge of good and 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058217:00271744766:1848040501:0051/pct:2.9881656804733727,16.69473177772432,34.76331360946745,106.68751503488092/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058217:00271744766:1848040501:0051/pct:2.2491861497484464,12.521048833293241,26.072802604320806,80.02165022853019/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2706,7 +2706,7 @@ aiiiiouiicmg t.ou as &#x27;lie i.reator ot tlie
 world. Tlie true sublimity is in tlie idea  
 given us of t.Iod. To such a Cod th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058217:00271744766:1848040501:0051/pct:19.881656804733726,31.080105845561704,34.76331360946745,42.590810680779406/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058217:00271744766:1848040501:0051/pct:14.915655519384433,23.310079384171278,26.08759988162178,31.946114986769306/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2725,7 +2725,7 @@ thology, nor even to the more elevated, but
 not less fantastical imaginations of the  
 Ci&#x27;cciau Philosophers and Sages
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058217:00271744766:1848040501:0051/pct:20.369822485207102,75.2225162376714,16.90828402366864,3.5121481837863846/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058217:00271744766:1848040501:0051/pct:15.28558745190885,56.422901130623046,12.69606392423794,2.6341111378397883/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3183,7 +3183,7 @@ rountable, and piety becomes as rationalio of ti aoan  a
   
 as it is essential, it becomes the first ofei ta te pen o the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1848041901:1033/pct:131.27413127413126,58.036908264241774,175.75289575289574,134.42096817330838/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1848041901:1033/pct:32.83755070504153,14.509227066060443,43.963685532161485,33.605242043327095/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3239,7 +3239,7 @@ not less fantaslical imaginstions of the malier becomes
   
 Grecian Philosophers and Sages
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1848041901:1033/pct:191.27413127413126,82.21449585450655,116.29343629343629,44.182936614067934/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1848041901:1033/pct:47.846242997875216,20.553623963626638,29.090206683407377,11.045734153516984/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3266,7 +3266,7 @@ ae   t the orid anu aan were inadussol the
   
 quired to assemble in Court for County Busi et o te ter a ta the   I condition upon which happiness and i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1848041901:1033/pct:14.13127413127413,189.03450120353037,176.6023166023166,13.479539983952929/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1848041901:1033/pct:3.5348657523662355,47.25862530088259,44.1761638014294,3.369884995988232/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3305,7 +3305,7 @@ could as little make itself, that the e men tuade to aermholal
 moment we hegln to exercise the power ftut all that it imports us to know or un  
 eadoo i soem imoeibe to ass 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1848041901:1033/pct:74.05405405405405,238.833912810912,116.91119691119691,32.1476330569671/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1848041901:1033/pct:18.52424183890284,59.708478202728,29.244736333784044,8.036908264241776/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3344,7 +3344,7 @@ March 25.Aw Human reason may be sufficient to get an
   
 obscure glimpse of these sacred and im
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1848041901:1033/pct:15.521235521235521,309.01310510831775,171.8146718146718,42.31077828296336/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1848041901:1033/pct:3.8825574657137336,77.25327627707944,42.97855901101024,10.57769457074084/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3393,7 +3393,7 @@ idea of a God has always been included:
 &quot;Father of all! in every age,  
 In every clime adoro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1848041901:1033/pct:75.83011583011583,329.60684675046804,175.52123552123552,41.02701257020594/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1848041901:1033/pct:18.968514583735754,82.40171168761701,43.90573691327023,10.256753142551485/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3523,7 +3523,7 @@ Hy saiot, by savage and by sage,
 Jehovah, Jove, our Lord !  
 Thou Great First Cause, least understood 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn82015099:00279556653:1860060901:0448/pct:12.373453318335208,10.062006764374296,11.07986501687289,2.437993235625705/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn82015099:00279556653:1860060901:0448/pct:12.37814023247094,10.069052987598647,11.075178102737159,2.430947012401353/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3594,7 +3594,7 @@ By saint, by savage and by sage,
 Jehovah, Jove, or Lord,  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156384:1864012701:0622/pct:40.83720930232558,40.36109493302271,110.51162790697674,52.41700640652301/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156384:1864012701:0622/pct:10.21405304792927,10.090273733255678,27.64076314564914,13.104251601630752/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

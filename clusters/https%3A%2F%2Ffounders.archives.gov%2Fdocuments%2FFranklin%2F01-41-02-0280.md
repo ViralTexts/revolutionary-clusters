@@ -4458,7 +4458,7 @@ the price of beaver,”
 their manners differ from ours, which we think tht  
 : perfection of civility ; they think the fame of theirs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789042501:0004/pct:41.536189069423926,64.51124976366043,26.765140324963074,2.3255813953488373/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789042501:0004/pct:41.55834564254062,64.51597655511439,26.765140324963074,2.3444885611646815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6368,7 +6368,7 @@ should be (as they fay) for any such purpole, or
 ‘have any {uch effett ; they are only to contrive,  
 the cheating of Indians in the price of Beaver.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1793120701:0137/pct:6.827880512091038,4.814424091301429,61.465149359886205,88.57773089095618/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1793120701:0137/pct:6.832622095779991,4.817620920047313,61.46989094357515,88.58092771970206/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9777,7 +9777,7 @@ give so much; I cannot give more than 3s.
 but they all sung the same song—three and  
 ! six pence, three and six pence. I was no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn84038586:00414187377:1829032501:0246/pct:47.48836462847055,73.28371473005998,15.32659284224041,21.539657853810265/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn84038586:00414187377:1829032501:0246/pct:47.480744544287546,73.2755748083972,15.329482242190842,21.540967825539635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10169,7 +10169,7 @@ sons, we Will take care ol their edoca­
 tion, iostiuct them 1 ull we koow aud  
 moke vien of (hem,&#x27;W*Hre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021522:0051415272A:1841122501:0030/pct:49.88391376451078,50.416200770282025,14.72636815920398,38.265623058765065/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021522:0051415272A:1841122501:0030/pct:49.88391376451078,50.420342071478856,14.72636815920398,38.2697643599619/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10202,7 +10202,7 @@ kens of assent and approbation ; you
 would thiok they were coaviaced. No  
 such matter. It is merely civility. |
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021522:0051415272A:1841122501:0030/pct:49.88391376451078,13.107218287986084,30.265339966832503,82.1344266368493/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021522:0051415272A:1841122501:0030/pct:49.88391376451078,13.107218287986084,30.270867882808183,82.1344266368493/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10421,7 +10421,7 @@ Government. &quot;Ti Chi,&quot; said the Emperor,
 call the Hut in the Ntote_.&quot; The Emperor  
 not understanding the allegory, Ti Chi e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186464:1846082801:0714/pct:131.89346760302107,161.04664137469314,38.531866967006756,72.18254853827271/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186464:1846082801:0714/pct:43.95866454689984,53.67622447841125,12.842254018724606,24.05816504890476/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10465,7 +10465,7 @@ will send us a dozen of their sons, we will take
 great of their education, instruct them in all we  
 know, and make men of them.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_angelou_ver01:data:sn83030362:print00205954958:1846092701:0001/pct:83.21505198877702,14.881098308408923,11.024921604225119,13.103701887717579/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_angelou_ver01:data:sn83030362:print00205954958:1846092701:0001/pct:83.21917808219177,14.884162784996322,11.03317379105463,13.115959794067173/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10688,7 +10688,7 @@ tinent inquiry on reading what an En­
 glish traveler writes upon his return  
 from India
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn93051083:00279557517:1858112701:0061/pct:32.13686682321369,27.615062761506277,14.340825226434083,21.362821279139272/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn93051083:00279557517:1858112701:0061/pct:32.1480487532148,27.61904761904762,14.340825226434083,21.366806136680612/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10709,7 +10709,7 @@ so rude as to be without any rules of
 politeness, nor any so polite as not to  
 have some remains of rudeness
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn93051083:00279557517:1858112701:0064/pct:22.27996647108131,89.68035436370167,14.35037720033529,3.6753262300969713/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn93051083:00279557517:1858112701:0064/pct:22.27996647108131,89.6843449459276,14.367141659681476,3.6753262300969713/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10780,7 +10780,7 @@ with its flavor, and said, &#x27;Your kindness shall be
 rewarded; come here thirteen moons hence and  
 you shall find it&#x27; They did so, and found, wher
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862695:1859090101:0274/pct:83.33567120213213,38.861772745021476,13.480151493898163,5.40804373291683/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862695:1859090101:0274/pct:83.34502267732735,38.86828061954966,13.475475756300556,5.411297670180919/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10812,7 +10812,7 @@ hand had touched the ground,
 waize growing; where her let  
 hand had been, kidney beans, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_sands_ver01:data:sn86079096:00212475002:1859090301:0334/pct:146.07142857142858,241.57077100115075,43.80952380952381,38.23360184119678/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_sands_ver01:data:sn86079096:00212475002:1859090301:0334/pct:48.69047619047619,80.52359033371691,14.603174603174603,12.744533947065593/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10849,7 +10849,7 @@ sat they found tobacco.&quot;
   
 The Pope State of Italy. At the Roman Cat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879099:1859090901:0565/pct:87.4282733437663,96.7357310398749,19.783515910276474,9.26505082095387/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879099:1859090901:0565/pct:65.57975740185209,72.556684910086,14.842832920307814,6.948788115715403/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11019,7 +11019,7 @@ stand and practice those rules, believed
 all your stories, why do you refuse to  
 believe ours V&quot; it : ; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn87076863:00296028836:1867031401:0503/pct:27.53664036076663,36.351407284768214,16.741826381059752,43.44991721854305/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn87076863:00296028836:1867031401:0503/pct:20.66826448611307,27.26614238410596,12.561680530100098,32.584850993377486/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11053,7 +11053,7 @@ heard from your mothers.
 When tbe Indian had told the mission&#x27;  
 ary one of the legends of bis nation, bo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn85033673:00280779350:1867050301:0410/pct:56.28099173553719,46.66189111747851,16.94214876033058,13.051575931232092/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn85033673:00280779350:1867050301:0410/pct:42.21946683199008,35.0,12.729902872494318,9.799426934097422/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11082,7 +11082,7 @@ who understand and practice those rules,
 believe all your stories; why do yoa  
 refuse to believe onrs 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn85033673:00280779350:1867050301:0410/pct:56.11570247933884,61.63323782234957,16.962809917355372,9.613180515759312/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn85033673:00280779350:1867050301:0410/pct:42.09547427154371,46.232091690544415,12.729902872494318,7.206303724928366/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11532,7 +11532,7 @@ were neither tit for hunters, councillors,
 or warriors; they were totally good for  
 nothing.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_fencing_ver02:data:sn83016589:0039334068A:1886012901:0217/pct:34.72029588534443,30.177569233600146,9.29264909847434,4.0850124206458736/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_fencing_ver02:data:sn83016589:0039334068A:1886012901:0217/pct:34.728001232855604,30.180636059741772,9.28494375096317,4.0850124206458736/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11772,7 +11772,7 @@ found tobacco.”
 I LOXDOS TIMES 100 YEARS AGO.  
 A copy of the London Times o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_henson_ver01:data:sn83016107:00415625571:1897022601:0249/pct:20.120898100172713,13.255731084451835,14.784110535405873,25.76315476897494/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_henson_ver01:data:sn83016107:00415625571:1897022601:0249/pct:15.598090393967787,10.279226756673827,11.46655958595458,19.972384166922367/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11814,7 +11814,7 @@ touched the ground they {mind maize,
 where her left hand had touched it they  
 found beans, and where she had seate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623975:1897050101:0083/pct:83.57992457209167,42.821755519655355,10.501885697708152,13.193322563274098/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623975:1897050101:0083/pct:83.58475969442027,42.825345539400466,10.506720820036747,13.196912583019207/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11927,7 +11927,7 @@ right hand had touched the ground maize
 growing; where her left had been, kidney  
 beans, and where she sat they found tobacco.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043056:1899020501:0501/pct:61.18012422360248,188.93077967124114,51.940993788819874,32.21233599758709/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043056:1899020501:0501/pct:15.300970873786408,47.232694917810285,12.990291262135923,8.053083999396772/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11982,7 +11982,7 @@ growing; where her left had been, kid­
 ney beans, and where she sat they  
 found tobacco.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_desdemona_ver03:data:sn85047084:00202196056:1899052001:0498/pct:48.099947943779284,9.55509107196178,37.67568974492452,117.41813476659699/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_desdemona_ver03:data:sn85047084:00202196056:1899052001:0498/pct:36.0843530330643,7.166318303971335,28.27388700859151,88.0660893799144/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12112,7 +12112,7 @@ wero therefore neither fit for hunters,
 warriors, nor counsellors. They wero  
 totally good for nothing.&#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_damsel_ver01:data:sn83025121:00294552443:1899111701:1216/pct:28.747795414462082,26.497622820919176,18.298059964726633,21.85419968304279/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_damsel_ver01:data:sn83025121:00294552443:1899111701:1216/pct:21.575115817339512,19.873217115689382,13.743657621883962,16.40253565768621/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

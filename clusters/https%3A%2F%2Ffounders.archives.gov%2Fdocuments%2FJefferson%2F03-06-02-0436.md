@@ -134,7 +134,7 @@ the defendant go hence, without day, and
 recover of the plainnlf his costs by him  
 about his defence in this behalf expended
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_eiffel_ver02:data:sn87065542:0029587756A:1846042901:0522/pct:74.13180741910024,27.565900168255748,21.32991318074191,2.6360067302299495/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_eiffel_ver02:data:sn87065542:0029587756A:1846042901:0522/pct:55.6257402289775,20.681435782389233,16.008685353335967,1.977005047672462/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -168,7 +168,7 @@ the defendant go hence, without day, and
 recover of the plaintiff his costs by him  
 about his defence in this behalf expended
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_eiffel_ver02:data:sn87065542:0029587756A:1846052001:0534/pct:72.46835443037975,74.01066516980073,21.400316455696203,2.582093741229301/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_eiffel_ver02:data:sn87065542:0029587756A:1846052001:0534/pct:54.362017804154306,55.51501543642998,16.06330365974283,1.9365703059219759/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -193,7 +193,7 @@ his hands to be administered, and the other plaintiffs
 out of their proper estate, do pay to the said William M. j  
 Mitchell his costs by him about his defence in this be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664291:1847112301:0612/pct:13.97037037037037,37.32354063334605,13.703703703703704,4.044257916825639/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664291:1847112301:0612/pct:13.97037037037037,37.32354063334605,13.718518518518518,4.050616812921277/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -240,7 +240,7 @@ return aforesaid being seen and inspected, it
 seems to the Court that the said return is in­  
 1! sufficient, therefore it is considered that a per
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:0041418697A:1867010301:0005/pct:18.25595984943538,37.55779739386297,15.7465495608532,3.8251366120218577/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:0041418697A:1867010301:0005/pct:18.25309706758664,37.55385100346748,15.749307406826617,3.828237189590557/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

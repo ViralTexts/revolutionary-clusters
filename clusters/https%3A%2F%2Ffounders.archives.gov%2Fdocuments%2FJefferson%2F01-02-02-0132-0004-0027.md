@@ -648,7 +648,7 @@ and continue with her adulterer, she is not thereby
 barred of her action to demand her dower by the  
 law of this State unless her husband procures 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_farmington_ver01:data:sn83016025:00279525462:1879062601:0493/pct:4.063461227132913,35.334373874414695,10.814311154282015,5.871052947532717/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_farmington_ver01:data:sn83016025:00279525462:1879062601:0493/pct:4.0628034962771125,35.33013205282113,10.816607316283587,5.873349339735895/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

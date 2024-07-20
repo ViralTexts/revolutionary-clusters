@@ -56,7 +56,7 @@ t?&#x27;y 80 thought and so wrqfe JefTerson, on the question which
 J11 divided and threatened us then, us it divides and threatens  
 lr, us now. Hut, sir, the difficulty was then overcome. I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848093001:0977/pct:15.254237288135593,11.26335637963545,31.81598062953995,84.61345065996228/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848093001:0977/pct:15.254237288135593,11.267546616383825,31.81598062953995,84.61345065996228/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -77,7 +77,7 @@ it as we have done over ail others. It it not a moral ques­
 graphical principle for the choice of a President, and the  
 noiae will bo kepi up nntil that Is effected.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854021501:0241/pct:81.66582021330625,87.11386842445393,15.997968511934992,3.5543492309680755/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854021501:0241/pct:81.66582021330625,87.11386842445393,16.003611534337793,3.5586575330662185/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -98,7 +98,7 @@ is we have done over all others. It is not a moral question,
 principle Jot the choice of a President, and the noise will  
 te kept up until thai is effected.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1854021701:0126/pct:20.22422830518346,68.1717317896768,17.108328479906813,2.904003859141341/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1854021701:0126/pct:20.233935158221705,68.1717317896768,17.09862162686857,2.910435761376427/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -174,7 +174,7 @@ is to raise a geographical principle for the choice
 of a President, and the noaa Will be kept up  
 until lhat is effected.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn86083363:00415668831:1854030801:0543/pct:66.62296801258522,92.28590312529506,11.680650235972733,3.5973940137852893/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn86083363:00415668831:1854030801:0543/pct:66.6317077434015,92.28905045164133,11.676280370564587,3.603688666477827/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -200,7 +200,7 @@ ed.&quot;
 If Mr. Jefferson were alive at this moment  
 there is not a doubt that he would write dow
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279523969:1854031701:0444/pct:172.87071325068428,144.1579995574242,38.22250845274513,20.62403186545696/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279523969:1854031701:0444/pct:57.614294913071475,48.04735037061622,12.73878514702726,6.873916731201829/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -345,7 +345,7 @@ fer the shalse of a President, and the
 noise will be hept up aatil that is effect-­  
 ed.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_gastly_ver01:data:sn82014134:00279529248:1856072501:0063/pct:86.97879607229258,263.5060026678524,32.958588302262704,15.31791907514451/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_gastly_ver01:data:sn82014134:00279529248:1856072501:0063/pct:28.992932024097527,87.83533422261746,10.986196100754233,5.105973025048169/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -371,7 +371,7 @@ principle for the choice of a President, and
 the noise will be kept up until that is ef­  
 fected
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472062:1856072601:0398/pct:113.7400228050171,323.16537030774435,44.81185860889396,20.96719648292188/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472062:1856072601:0398/pct:28.447169542278626,80.79134257693609,11.20775702267218,5.24179912073047/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -419,7 +419,7 @@ for the choice of the President, aud the
 noise will be kept up until that is effect­  
 ed 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn83035173:00296027285:1856082001:0034/pct:53.516548463356976,105.84623257003966,14.19917257683215,7.253422028911347/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn83035173:00296027285:1856082001:0034/pct:40.16260162601626,79.39107074325189,10.65779748706578,5.436868363822438/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -470,7 +470,7 @@ cal principle for the course of the President
 and the noiso will be kept up until thut is  
 effected.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035102:00296027078:1856100901:0705/pct:72.52155172413794,39.702592446374524,16.738505747126435,9.619686800894854/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035102:00296027078:1856100901:0705/pct:54.40991557391773,29.780234241347546,12.556134363211784,7.211475194104487/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -508,7 +508,7 @@ sentiments of Mr. Jefferson, is
   
 For the McArthur Democrat.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774947:1859042101:0890/pct:144.32565789473685,20.247652741869643,102.13815789473684,354.66049802694243/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774947:1859042101:0890/pct:36.10368236988274,5.061913185467411,25.5502982925324,88.66512450673561/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -538,7 +538,7 @@ whom it presses than by the noisy pretenders
 to exclusive humanity. In the meantime it is  
 a ladder for rivals climbing to power
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290082:1859042701:0394/pct:55.80482333146382,227.00516737811728,33.98766124509254,18.60256122219726/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290082:1859042701:0394/pct:13.951205832865956,56.75129184452932,8.496915311273135,4.650640305549315/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -568,7 +568,7 @@ it presses than by the noisy pretenders to
 exclusive humanity. In the meantime it is  
 a ladder for rivals climbing to power.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027238:0027952942A:1859050401:0548/pct:62.12624584717608,56.81043129388164,11.142346026066956,7.342026078234704/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027238:0027952942A:1859050401:0548/pct:62.130505153760964,56.81377465730525,11.150864639236731,7.345369441658308/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -596,7 +596,7 @@ clusive humanity. &#x27; In the mean iim it it
 a ladder for rivals climbing to power.  
 I think Governor Clidse mtht with pro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_chacha_ver03:data:sn87056247:00200294531:1859050501:0505/pct:110.28919694072658,85.71428571428571,16.742351816443595,9.670473694064782/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_chacha_ver03:data:sn87056247:00200294531:1859050501:0505/pct:82.73966053071958,64.28571428571429,12.562754004303132,7.255195656244149/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -625,7 +625,7 @@ It presses than by the noisy pretenders to «x­
 --elusive humanity. In the uieautime it is a lad  
 tier fur rivals climbing to power.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347269:1859050501:1110/pct:22.127743721574056,63.35357724781514,13.328060114692505,6.798992741816027/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347269:1859050501:1110/pct:22.140926768176126,63.35357724781514,13.328060114692505,6.8138053621685675/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -655,7 +655,7 @@ ciple for the choice of a President, and the
 noise will be kept up till that is effected.  
 All know that permitting the slaves of the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn84031042:00279529303:1859051201:0159/pct:204.6733754050827,134.67979036175382,35.0844277673546,10.55860922919596/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn84031042:00279529303:1859051201:0159/pct:68.22445846836091,44.89326345391793,11.694809255784866,3.519536409731987/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -690,7 +690,7 @@ noisy pretenders to exclusive humanity.
 In the meantime it is a ladder for rivals  
 climbing to power.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn84031042:00279529303:1859051201:0159/pct:204.7074876343169,127.21462354595424,71.51628858945932,37.19800588009715/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn84031042:00279529303:1859051201:0159/pct:68.23582921143897,42.40487451531808,23.838762863153107,12.399335293365716/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -724,7 +724,7 @@ Paris, we never had so ominous a ques boght eor te pepe the eers of te e o e  ot
 tion. It even damps the joy with which I orposition have taken quite different gucsts mect at Wheeling. Vas, on the 1eth day of t  
 hear of your hish health, and weleomes od to a te a or 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_chacha_ver03:data:sn87056248:00200294543:1860031501:0231/pct:174.904214559387,149.38995995156935,206.4176245210728,93.06137654838409/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_chacha_ver03:data:sn87056248:00200294543:1860031501:0231/pct:43.73652694610779,37.34748998789234,51.616766467065865,23.265344137096022/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

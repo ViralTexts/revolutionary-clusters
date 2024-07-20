@@ -296,7 +296,7 @@ were vascular, and even to thia dav if Dut m tact t0 Und ir thev are soft
   
 you cut them, thev will bleed. But it HU letter8 are free of 8uch allusions.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn92072977:00416156815:1891040201:0328/pct:13.918996006845408,81.62464985994397,37.87792355961209,3.0065359477124183/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn92072977:00416156815:1891040201:0328/pct:10.442225392296718,61.223155929038285,28.41654778887304,2.250233426704015/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -331,7 +331,7 @@ of his political creed which all Demo
 crats nofd to remember:  
 Perhaps evim this my
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn91090200:00415667553:1891040801:0057/pct:22.0168954593453,46.80804785209353,14.09714889123548,14.333877107123437/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn91090200:00415667553:1891040801:0057/pct:16.519212993529646,35.10603588907015,10.577050046216822,10.755845568243611/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -439,7 +439,7 @@ Is it too much to supopse these views,
 or  
 Major Langborne th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_metallica_ver01:data:sn85034438:00175049435:1898010201:0026/pct:5.422993492407809,259.2509978868279,40.73085266143835,10.753698051185724/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_metallica_ver01:data:sn85034438:00175049435:1898010201:0026/pct:1.8076644974692697,86.4169992956093,13.576950887146115,3.584566017061908/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

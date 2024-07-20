@@ -149,7 +149,7 @@ it in your history, with the same error of applying it to
 Massachusetts.  
 We have at length arrived at the last specification i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1852111301:0408/pct:64.94107744107744,7.01659256045982,15.768799102132435,5.335646892961718/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1852111301:0408/pct:64.94107744107744,7.023822434298522,15.773475495697719,5.339261829881068/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -197,7 +197,7 @@ ment or kny subordinate department would have been
 aocompanted &gt;y ten times the satisfaction, and perhaps tbe  
 honor.&quot; _ 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82003410:00415661071:1856071701:0779/pct:45.91787825531235,45.048884432188515,15.30595941843745,10.090248182501881/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82003410:00415661071:1856071701:0779/pct:45.928529584065615,45.05306258878583,15.300633754060819,10.09442633909919/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -269,7 +269,7 @@ accompanied by ten times the satisfaction
 and perhaps the honor.&quot;  
 This was whilst the enemy had possessio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_irmookrastrut_ver01:data:sn84026900:00295862646:1856072301:0120/pct:69.8441247002398,24.679270762997973,28.612110311750598,73.79023182534324/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_irmookrastrut_ver01:data:sn84026900:00295862646:1856072301:0120/pct:69.84912070343725,24.686773201290418,28.617106314948042,73.78648060619702/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -306,7 +306,7 @@ I have been obliged to low furohsl. as fir a­
 iity men to a regime and the ollicers, I an  
 -prsu:tled, imiulge as ny mit ire. Sueh a mer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn84026897:00237288269:1856073001:0260/pct:44.27534208321698,37.696850393700785,13.320301591734152,6.40748031496063/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn84026897:00237288269:1856073001:0260/pct:44.27534208321698,37.70341207349082,13.324955785162432,6.410761154855643/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -404,7 +404,7 @@ any disaster that may happen. Could I
 Genr Greene, himself a Rhode Islander, writing at the  
 esame time and about the same people, speaks in term
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024656:00414184728:1861071201:0044/pct:14.003759398496241,177.54545454545453,42.26190476190476,32.43181818181818/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024656:00414184728:1861071201:0044/pct:4.667188723570869,59.1750937393478,14.085095275385017,10.809377722228534/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -466,7 +466,7 @@ not be at all surprised at any disaster that
 may happen,&quot; it is a mistaken kindness to  
 leave out that homely little word wuich w
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00271742095:1875080701:0134/pct:49.70527758738862,154.4526218951242,41.932830705962985,14.029438822447101/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00271742095:1875080701:0134/pct:16.568425862462874,51.484207298374734,13.977610235320997,4.676479607482367/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -495,7 +495,7 @@ to obtain advantages of one kind and another, I never
 saw before, and pray od&#x27;s mercy I may never be wit  
 ness to agai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044851:1885010401:0460/pct:283.7817638266069,278.72212176009646,50.672645739910315,6.434599156118144/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044851:1885010401:0460/pct:70.98523088427744,69.68053044002411,12.675266404935503,1.608649789029536/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -534,7 +534,7 @@ have, and am likely to experience, no
 consideration on earth should have in-­  
 duced me to accept this command.&quot; Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_queen_ver01:data:sn85034438:00175048388:1892102601:0372/pct:56.02533378979801,170.29371798892024,47.141389934953786,15.563917633531933/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_queen_ver01:data:sn85034438:00175048388:1892102601:0372/pct:18.675111263266004,56.764572662973414,15.713796644984594,5.187972544510644/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

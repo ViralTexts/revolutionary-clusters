@@ -642,7 +642,7 @@ Ifi&#x27;V of Connecticut, entitled, &quot; An ast relating
 to the debts due to persons who have been and remain  
 ed within th; enemies power, or lines, during the lat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791051101:0003/pct:4.377736085053158,49.49357226334242,27.141963727329582,2.3763147643163225/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791051101:0003/pct:4.3933708567854906,49.508180755746004,27.149781113195747,2.3909232567199066/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

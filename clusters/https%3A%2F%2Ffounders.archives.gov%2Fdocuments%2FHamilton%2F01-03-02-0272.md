@@ -258,7 +258,7 @@ power is granted to &lt; ongre-s to “ regulate com­
 merce &gt;-itii the Indian tribes,” without the provis­  
 ion mentioned in die articles o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183992:1825090601:0138/pct:21.88895979578813,24.98201007435836,15.156349712827058,9.042935955864715/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183992:1825090601:0138/pct:21.8854681767427,24.979014270296197,15.159249215717551,9.045848822800496/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -280,7 +280,7 @@ the Stales: Provided, that the legislative right
 of any State, within its own limits, be not in- &lt;  
 fringed or violated.” This express proviso, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216377:1827031001:0228/pct:44.09927401654567,75.07798960138648,18.38595306432551,5.083766608896592/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216377:1827031001:0228/pct:44.091829844699525,75.06931608133087,18.388476254782805,5.087030191004313/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -313,7 +313,7 @@ dians, not members of any of the States: Provid­
 ed. that the legislative right of any State, with!*  
 its own limits, be not infringed or violated.*9 Xbi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827031701:0427/pct:79.58627325208467,16.23219888969346,15.394483643361129,4.767076997344919/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827031701:0427/pct:79.57351290684625,16.23024013515144,15.397359841804287,4.770524114074253/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -443,7 +443,7 @@ j ot our position, vve shall quote from the proceedings
 ot congress, relative to the Indians, to which vve shall  
 add no comment, as the reader will bo enable
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:0041418456A:1829090901:0960/pct:23.928166963274553,17.51807514519379,18.168581135738552,7.467109162024416/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:0041418456A:1829090901:0960/pct:23.92429634422517,17.515999051908036,18.17103418526906,7.470174606936873/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -474,7 +474,7 @@ id congress, relative to trie Indians, to which we shal
 add no continent, as the reader will bo enablei  
 himself to draw correct conclusions without our a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184315:1829091101:0262/pct:5.8741040822686195,44.10013367359339,17.419756933624182,9.126260785028558/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184315:1829091101:0262/pct:5.873188970244587,44.0947752126367,17.42223607000052,9.129202106115835/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -493,7 +493,7 @@ clared, “provided that the legislative right of nnv
 state within its own limits be not. infringed or vio­  
 lated.” And m the last clause, it is ordained, “tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184315:1829091101:0262/pct:5.765035836709255,72.2323490096002,17.373013399813026,2.746384736906064/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184315:1829091101:0262/pct:5.764137716155164,72.2235722964763,17.37549981824791,2.7501012555690565/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -523,7 +523,7 @@ of the States, provided that the k&#x27;gis­
 lalive right of any state, within its own  
 limits, be not infringed or violated.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_topsn83020874_ver01:data:sn83020874:print:1829123001:0001/pct:53.95033860045147,69.63938351039953,14.988713318284425,3.890468352536286/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_topsn83020874_ver01:data:sn83020874:print:1829123001:0001/pct:53.96162528216704,69.65060601526261,14.983069977426636,3.8867275175819245/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -664,7 +664,7 @@ S ales: provided that, the legislative right of any
 State within its owu limits bo not infringed or viola­  
 ted.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830050701:0156/pct:4.841772151898734,14.534814284008121,17.832278481012658,4.215932162904574/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830050701:0156/pct:4.841006169909824,14.533078576546453,17.83473079154142,4.219409282700422/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -978,7 +978,7 @@ state within its own limits be not in­
 fringed or violated. The true import,  
 of this provision is certainly not ver
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_topsn83020874_ver01:data:sn83020874:print:1831073001:0004/pct:61.36687233032748,12.63929171118913,16.184148077835786,15.051137230957107/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_topsn83020874_ver01:data:sn83020874:print:1831073001:0004/pct:61.37873754152824,12.63929171118913,16.178215472235404,15.054953442222562/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1136,7 +1136,7 @@ must mean Indians living within the boundaries of the
 States, as those who are members of any of the State* in  
 contradistinction to tho
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184054:1832032001:0416/pct:34.40604449419337,21.974417841915383,14.929340982230306,6.067563135454248/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184054:1832032001:0416/pct:34.40123111359821,21.972015741145604,14.93191568737176,6.0705436525287855/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1158,7 +1158,7 @@ diana, not members of any of the States: Provided,
 That the legislative power of any State within its  
 own limits ho not infringed or violated.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184054:1832032001:0417/pct:50.6019095060191,25.590638109958046,15.026982150269822,3.9854272466328107/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184054:1832032001:0417/pct:50.59490868843387,25.587813224417705,15.029514849658735,3.9886668874415867/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1647,7 +1647,7 @@ that of the respective
 I In the plan of the Constitution, as reported  
 i to the convention by the committee of detail
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn83032006:00296028575:1867092001:0219/pct:41.04104104104104,18.351399042097302,12.345679012345679,1.9032014116460803/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn83032006:00296028575:1867092001:0219/pct:41.04104104104104,18.35980169733636,12.345679012345679,1.9032014116460803/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1701,7 +1701,7 @@ ruinous expedient, if not guarded against,
 would be again resorted to. He accordingly  
 moved to strike out the power to emit bills o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_kobayashi_ver01:data:sn83030272:00175044784:1882061801:0511/pct:132.88690476190476,351.4730321800876,49.25595238095238,25.079317117389333/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_kobayashi_ver01:data:sn83030272:00175044784:1882061801:0511/pct:33.22172619047619,87.8682580450219,12.313988095238095,6.269829279347333/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1741,7 +1741,7 @@ among the many others ol the con
 federation, was one of the objects for  
 which the convention of 1787 wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_garfield_ver01:data:sn89067274:0029455628A:1884032701:0261/pct:19.33873986275733,31.136874482432273,13.880224578914536,12.031231515438305/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_garfield_ver01:data:sn89067274:0029455628A:1884032701:0261/pct:14.508580343213728,23.352655861824203,10.421216848673946,9.02638116644978/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1879,7 +1879,7 @@ of gold shall be in a dollar piece of
 either metal respectively, and dollar  
 pieces are being coined. There i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_earnhardt_ver01:data:sn84024516:00332892113:1892040201:0158/pct:6.272401433691757,62.31537793223284,12.470131421744325,24.424413553431798/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_earnhardt_ver01:data:sn84024516:00332892113:1892040201:0158/pct:6.277379530067702,62.32261801332175,12.465153325368378,24.420793512887343/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1962,7 +1962,7 @@ mon necessities and of combining and
 directing the forces and will of the several  
 parts to a general end. Thee ars pi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_jackrabbit_ver02:data:sn83025308:00294550513:1894020801:0320/pct:49.074074074074076,151.02389078498294,43.45238095238095,18.344709897610922/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_jackrabbit_ver02:data:sn83025308:00294550513:1894020801:0320/pct:16.358024691358025,50.341296928327644,14.484126984126984,6.1149032992036405/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2021,7 +2021,7 @@ right and power of regulating the trade, and
 managing all the affairs with the Indians not  
 members of any of the States, issued a proela
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_gargoyle_ver02:data:sn92064114:00514153401:1895090701:0207/pct:29.174694926140013,58.830263294827766,20.327552986512526,3.090852325944427/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_gargoyle_ver02:data:sn92064114:00514153401:1895090701:0207/pct:29.180047099122245,58.83720123495334,20.332905159494754,3.0943212960072155/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2039,7 +2039,7 @@ and value of coin struck by their own author
 ity, or by that of the respective States fixing  
 the standard of weights and measures throug
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn85032018:00280760973:1896081901:0816/pct:11.041666666666666,22.34806189184878,29.76851851851852,4.322858510129207/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn85032018:00280760973:1896081901:0816/pct:7.364520611394164,14.898707927899187,19.87031032885595,2.887222842558622/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

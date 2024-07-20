@@ -235,7 +235,7 @@ Beneath these shades the weary chief repo­
 sed—­  
 And life s great scene in quiet virtue rinse
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1823093001:0475/pct:35.80349708576186,31.876005263927475,15.632805995004164,9.92835209825998/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1823093001:0475/pct:35.79604578563996,31.871345029239766,15.634755463059314,9.930555555555555/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -265,7 +265,7 @@ conceals an ardeut&#x27; ambition envious
 of every superior, and impatient of ob­  
 scurity *
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025001:0041421633A:1824062601:0272/pct:43.99152991000529,59.00471336183273,16.79901182283395,3.81453469253535/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025001:0041421633A:1824062601:0272/pct:43.98376852505293,58.99824638316528,16.80192895789226,3.817769983925179/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -292,7 +292,7 @@ Esq. Cashier of the Hunk of this County
 for the following list of conn #&gt;iirit notea  
 in circulation to deception from which
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348914:1824071501:0327/pct:73.98022249690976,51.805536040466485,16.62546353522868,9.119010819165378/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348914:1824071501:0327/pct:73.96498455200823,51.79825793762293,16.627188465499486,9.12124192188817/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

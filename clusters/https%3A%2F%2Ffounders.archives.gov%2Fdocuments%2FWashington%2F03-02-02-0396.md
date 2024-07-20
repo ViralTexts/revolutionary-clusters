@@ -109,7 +109,7 @@ done. You are to confider, that neither
 mylelf or wife are now inthe way to do  
 these good offices.’” = .
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796100801:0163/pct:58.76432331991329,42.898579715943185,15.825332920408796,6.851370274054811/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796100801:0163/pct:58.76948487663879,42.90524771620991,15.825332920408796,6.851370274054811/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -192,7 +192,7 @@ to consider, that, neither myfelf nor wife
 are now in the way to do thcfe good of­  
 fices , G. W.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800102401:0003/pct:6.294742039002715,74.32541606075294,17.230313502838804,10.647923735660042/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800102401:0003/pct:6.294742039002715,74.33349491032477,17.26117008146137,10.647923735660042/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -308,7 +308,7 @@ services here, more than my expenses. It he­
 roines, necessary, therefore, lor me to he saving at  
 home.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348859:1835100501:0473/pct:35.160532498042286,30.10136624063464,15.740015661707126,15.249008373732922/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348859:1835100501:0473/pct:35.15365042082599,30.096944770857814,15.741828146408299,15.250440658049353/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -373,7 +373,7 @@ insolent. Dr. E. soys:
 Caesar, bore the insolence of the fellow  
 for somo time, and then tolj him to g
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348951:1835101501:0139/pct:44.889554473979786,13.908029812965827,28.24784724822164,82.15440866263535/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348951:1835101501:0139/pct:44.88115291034999,13.90607424071991,28.24723937862624,82.14637232845894/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -523,7 +523,7 @@ more than ray expenses; It becomesnecessary
 therefore, for me to bo saving &#x27; &quot;  
 at home.&quot; &#x27; *&quot; * 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn85042796:00295863109:1840082901:0151/pct:75.53291831729862,16.896337678460583,22.50518770043388,15.009310986964618/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn85042796:00295863109:1840082901:0151/pct:75.5454945607747,16.900475894889304,22.511475822171917,15.009310986964618/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -678,7 +678,7 @@ that it should be done. You are to consider
 that neither myself nor wife is in the way to do  
 these good offices.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn86092535:00202190595:1857051401:0465/pct:14.04206935758954,366.72825250192454,54.67121470532499,24.418783679753655/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn86092535:00202190595:1857051401:0465/pct:3.510517339397385,91.68206312548114,13.667803676331248,6.104695919938414/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -715,7 +715,7 @@ no objection is, that it should be done. You are
 to consider that neither myself nor wife is in the  
 way to do these good offices
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn96091000:00212470089:1857051901:0479/pct:20.3579418344519,265.59679037111334,49.272930648769574,42.80842527582748/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn96091000:00212470089:1857051901:0479/pct:5.089485458612975,66.39919759277834,12.318232662192393,10.70210631895687/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -741,7 +741,7 @@ that it should be done. You are to consider that
 neither myself nor wife is in any way to do these  
 good offices.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn85025594:0038334735A:1857052301:0291/pct:20.960809102402024,57.03349282296651,11.871049304677623,5.090909090909091/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn85025594:0038334735A:1857052301:0291/pct:20.965023177412558,57.03987240829346,11.866835229667089,5.090909090909091/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -916,7 +916,7 @@ e  eae
 Let no one go away empty. If  
 the poor are in want of corn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075167:00280774893:1873072301:0979/pct:202.64255910987484,149.38426740387033,44.01947148817803,56.39607941693893/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075167:00280774893:1873072301:0979/pct:50.678260869565214,37.34606685096758,11.008695652173913,14.099019854234733/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -988,7 +988,7 @@ of adedesire it should be done. You are to con­
 suler that neither myself nor wife is now in  
 the way to do these gond offices.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00271742095:1875072901:0100/pct:114.35367677042272,120.90400660126524,58.06714693489194,49.573668286421565/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00271742095:1875072901:0100/pct:38.11789225680758,40.30133553375508,19.35571564496398,16.524556095473855/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1177,7 +1177,7 @@ regard,
 letter that I may know whether it gets  
 safe to hand or not
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_americanrobin_ver01:data:2010270509:00517013869:1884010301:0411/pct:45.40059347181009,37.61143559790962,10.009891196834817,23.63971718413772/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_americanrobin_ver01:data:2010270509:00517013869:1884010301:0411/pct:45.39161392405063,37.605655447979096,10.012856012658228,23.63992623328723/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1240,7 +1240,7 @@ servant, G. WASHINGTON.
 respect to the poor be kept up. Let  
 do one go hungry away.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_galena_ver02:data:sn88065721:00279521572:1885022301:0002/pct:55.572782084409994,90.90711096591528,17.77777777777778,2.1452684307960364/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_galena_ver02:data:sn88065721:00279521572:1885022301:0002/pct:55.58426643697962,90.90711096591528,17.772035601492966,2.159788014083996/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1334,7 +1334,7 @@ are to consider thati neither myself nor
 my wife are now in the way to do these  
 good offices. G. W. Monthly Magazine
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_mitchell_ver01:data:sn92073907:00416156700:1885052801:0303/pct:55.29519172245892,115.77142857142857,16.418137553256237,9.028571428571428/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_mitchell_ver01:data:sn92073907:00416156700:1885052801:0303/pct:41.485314259625625,86.83428571428571,12.31167250038046,6.765714285714286/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

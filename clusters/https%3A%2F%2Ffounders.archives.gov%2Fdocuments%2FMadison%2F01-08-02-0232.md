@@ -105,7 +105,7 @@ ur manded.&quot;
 h- Between the alien law of th« United States  
 to and this law of the state of Virginia, ther
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798112901:0002/pct:76.69657234874626,59.308283518360376,17.46031746031746,17.235980643324794/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798112901:0002/pct:76.70232344145387,59.308283518360376,17.47181964573269,17.246655280387134/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -142,7 +142,7 @@ warrant may be commanded.&quot; .
 Between the alien law of the United  
 States and this law of the (late of Virgini
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798122001:0003/pct:21.190365910143584,8.114189284207566,35.20148216767022,84.09506398537476/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798122001:0003/pct:21.19615562760537,8.121220644072563,35.20148216767022,84.10912670510477/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -300,7 +300,7 @@ pert of any foreigner within this state, io or­
 der to obtain such information as he may  
 judge nectflaiy.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799020501:0002/pct:80.11049723756906,75.03418933292812,17.528879959819186,12.7792128855797/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799020501:0002/pct:80.11677548970367,75.03798814769792,17.52260170768458,12.794408144658867/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -334,7 +334,7 @@ pets of any foreigner within this ftate,*u order
 to obtain fuch information as he may judge ne­  
 ceffary.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83045634:00332895059:1799031101:0182/pct:50.84682672622371,67.12582474823475,21.36608970779825,13.42748003241116/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83045634:00332895059:1799031101:0182/pct:50.837365091179755,67.11805555555556,21.36676590993673,13.428819444444445/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -368,7 +368,7 @@ of; and the Governor may send for the person or
 papers of any foreigner within this State, in or­  
 der to obtais information to enable him to act i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_johnhenry_ver01:data:sn84024738:00280777973:1861061901:0583/pct:95.44853912788138,228.80995426991385,36.896197327852,9.55014357120068/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_johnhenry_ver01:data:sn84024738:00280777973:1861061901:0583/pct:31.816179709293788,76.26998475663795,12.298732442617334,3.183381190400227/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -390,7 +390,7 @@ States of America are apprehended by the President thereof;
 and the Governor may lend for the person or papers of  
 any foreigner within this State, In order to obtain Informatio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664394:1861062201:0021/pct:72.07868852459016,74.26168589868962,13.901639344262295,3.0021513788382554/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664394:1861062201:0021/pct:72.08743169398907,74.26820522850251,13.892896174863388,2.998891713931808/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -417,7 +417,7 @@ auch CAses.
   
 ElL Mad
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_johnhenry_ver01:data:sn84024738:00280777973:1861062201:0595/pct:216.4796219728293,225.1521298174442,37.595983461311285,14.017294758193659/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_johnhenry_ver01:data:sn84024738:00280777973:1861062201:0595/pct:72.1598739909431,75.05070993914808,12.531994487103761,4.672431586064553/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

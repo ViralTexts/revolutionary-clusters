@@ -394,7 +394,7 @@ I am, dear sir,
 \ oui most obenient, very humble servant,  
 (Signed) .GKO. WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808100501:0141/pct:12.232187344294967,2.755135311379198,63.37817638266069,92.22367134007173/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808100501:0141/pct:12.229140722291406,2.754686226568867,63.368617683686175,92.21271393643032/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -607,7 +607,7 @@ and reajjjct,..
 I am, dear Sir»  
 , Tour Mott obcdiear,: * 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808102101:1051/pct:27.062146892655367,5.0880978065444085,60.33898305084746,92.71844660194175/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808102101:1051/pct:27.05450437729455,5.087183174546108,60.3290031064671,92.70627359338486/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1081,7 +1081,7 @@ er part of them with all government, their
 number will increase, and nothing short of  
 Omniscience can foretell the consequences ” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812050101:0402/pct:51.38189036494121,85.60375794418347,23.316536875858908,9.68039053145436/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812050101:0402/pct:51.37404580152672,85.59587400994658,23.318066157760814,9.682568919997545/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1109,7 +1109,7 @@ hitseianee can foretell the consequences.” Unhap­
 soon see and feel the cousc­  
 wa prevent then.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1812050601:1123/pct:52.42214532871972,87.37864077669903,20.810677212061297,9.514563106796116/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1812050601:1123/pct:52.40919199406968,87.36450412554603,20.8117123795404,9.517068435528232/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1128,7 +1128,7 @@ quainted with their desig •*, and suspect
 as little the tendency of their principles,  
 I am lolly persuaded * bht they will
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813090101:0539/pct:80.8821360082608,7.006943818198215,16.034813394305946,3.138245107764451/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813090101:0539/pct:80.87020648967551,7.006311992786294,16.037364798426744,3.140967838893898/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1156,7 +1156,7 @@ us, to disquiet the public mind with unfounded alarms,
 and to set the people at variance with their own government  
 in time of war. are about to meet w ith a proper rebuk
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848021201:0176/pct:62.29219948849105,14.846008799497172,16.416240409207163,2.4010056568196103/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848021201:0176/pct:62.30285592497869,14.846008799497172,16.41091219096334,2.409386130316363/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1183,7 +1183,7 @@ nor have they since altered for the better:
 &quot;etraction.&quot; If this was true in 1798, how  
 much truer is it now, since the invention o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530479:1855082201:0772/pct:151.71609463512164,6.666666666666667,49.18360546484505,23.70102471368294/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530479:1855082201:0772/pct:50.572031545040545,2.2222222222222223,16.39453515494835,7.9003415712276475/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1207,7 +1207,7 @@ ciled with their choice of representatives
 &quot;and who, by the tendency of their measures,  
 &quot;would destroy the Union?&quot; So we say no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530479:1855082201:0772/pct:152.93235588137287,50.006027727546716,48.450516494501834,19.903556359252562/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530479:1855082201:0772/pct:50.97745196045763,16.668675909182237,16.150172164833943,6.63451878641752/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1275,7 +1275,7 @@ to the strenuous resistance of a demagognic party
 which rested itself on the double support of threats  
 of disunion and of calumnious charges agains
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530522:1856110401:0236/pct:249.9421391965614,117.80129335684892,47.46239047776492,77.56613756613757/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530522:1856110401:0236/pct:83.3140463988538,39.2670977856163,15.82079682592164,25.855379188712522/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1303,7 +1303,7 @@ themselves to the calumnies of their opporents
 whose weapors are detraction. And that same  
 stste of things which existed then, existi now to 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530571:1858032701:0580/pct:154.24317617866004,73.14608062051946,47.06368899917287,27.57080738042073/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530571:1858032701:0580/pct:51.41439205955335,24.382026873506483,15.687896333057623,9.19026912680691/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1504,7 +1504,7 @@ PoPULAR OUOrATIONs. &quot;I&#x27;ll be shot if I
 o,&quot; as the nobleman rems  
 on his frish estate. &quot;This ts a pretty pickle,&quot; as th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_avanti_ver01:data:sn83030214:00175039788:1880030501:0559/pct:6.488430268918074,272.40200546946215,46.106941838649156,16.100729261622607/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_avanti_ver01:data:sn83030214:00175039788:1880030501:0559/pct:2.162810089639358,90.80066848982072,15.368980612883052,5.366909753874203/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1537,7 +1537,7 @@ pablic business, or expose themselves to
 the calumnies of their opponents, whose  
 weapons are letractio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_foxtrot_ver01:data:sn86064205:00175035151:1886041701:0865/pct:170.5340699815838,313.95778770605455,59.02394106813996,29.024803574179632/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_foxtrot_ver01:data:sn86064205:00175035151:1886041701:0865/pct:42.66298087998157,78.48944692651364,14.766182907164248,7.256200893544908/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1640,7 +1640,7 @@ sentatives that he might &quot;be a bulwark
 against such dangerous pentiments as are  
 delivered there at present.&quot; The vetera
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_joshuaTree_ver01:data:sn85066387:00175037895:1899102701:0427/pct:84.79824835783548,85.37904060738525,13.168595558335939,1.5759806741056022/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_joshuaTree_ver01:data:sn85066387:00175037895:1899102701:0427/pct:84.79824835783548,85.37904060738525,13.173808779063705,1.5759806741056022/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

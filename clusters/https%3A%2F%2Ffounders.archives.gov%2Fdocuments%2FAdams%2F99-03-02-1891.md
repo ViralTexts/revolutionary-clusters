@@ -337,7 +337,7 @@ great and noble kind, and such as dig­
 nify our nature, as much as they con­  
 tribute to our repose and fortune ; fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_queen_ver01:data:sn84026826:00393349414:1836080601:0377/pct:2.232142857142857,27.72543741588156,15.153769841269842,7.856662180349932/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_queen_ver01:data:sn84026826:00393349414:1836080601:0377/pct:2.2315893875526904,27.720773759461732,15.156211257128689,7.859545836837679/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -743,7 +743,7 @@ j think them, but virtues of a groat and noble kind,
 j and such as dignify our nature, as much as they  
 contribute to repose and fortune ; for nothing can b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183724:1849053001:0293/pct:63.46153846153846,44.71736204576043,14.86013986013986,6.617317182593091/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183724:1849053001:0293/pct:63.45229424617626,44.712347201973756,14.862830784170916,6.620313259317409/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -766,7 +766,7 @@ patience ? But beliovo mo, dear Barry, that tho arms
 with whicli tho ill-dispositions of tho world oro to  
 be combated and the qualities by which it is to b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84022807:00280777766:1849060601:0036/pct:26.589595375722542,95.32736429770566,19.020953757225435,3.8192501398992724/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84022807:00280777766:1849060601:0036/pct:19.953009217422736,71.50251818690543,14.27796855232243,2.867935086737549/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -803,7 +803,7 @@ spirit, as some may possibly think them, hut vir­
 tues ol a great and noble kind, and such as digni­  
 fy our nature as much as ihey contribute to re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_bia_ver01:data:sn83021203:00517172030:1849082801:0568/pct:57.389516957862284,107.57079834922442,21.459403905447072,9.221573929130496/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_bia_ver01:data:sn83021203:00517172030:1849082801:0568/pct:44.47748513169074,83.36825851990736,16.636576040781648,7.154148744531451/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

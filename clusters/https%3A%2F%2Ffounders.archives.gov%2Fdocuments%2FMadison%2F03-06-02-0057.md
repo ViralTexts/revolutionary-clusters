@@ -116,7 +116,7 @@ and papers arc covering and ctioouraging Uit
 navigation of the enemy.  
 JAMES MADIS02T
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813030101:0064/pct:43.20896893953317,45.360068468027876,17.57029957728359,28.805477442230103/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813030101:0064/pct:43.20102903344359,45.354523227383865,17.573196128874187,28.80603096984515/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -189,7 +189,7 @@ papers are covering and encouraging the
 navigation of the enemy.  
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1813030201:0384/pct:23.440383905500184,3.9886741351717347,36.04651162790697,90.7054044072387/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1813030201:0384/pct:23.436058313341945,3.9881831610044314,36.0460109491296,90.69834236008535/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -257,7 +257,7 @@ covering and. encouraging the navigation of the
 enemy. , ”  
 f I « &quot;, JAMES MADISON, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813030301:0382/pct:25.63338301043219,22.337662337662337,21.907600596125185,36.23376623376623/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813030301:0382/pct:25.627017630990814,22.33403668235676,21.908368512540353,36.23194286641779/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -278,7 +278,7 @@ while counterfeus of their flags and papers
 are coveriag and encouraging the navigation  
 of the enemy. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1813030401:0786/pct:51.294039071631325,28.486036256736895,21.840040073468025,4.713375796178344/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1813030401:0786/pct:51.2996048310792,28.486036256736895,21.851171592363777,4.723174914257717/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -440,7 +440,7 @@ terfeits of their flags and papers are covering
 and encouraging the navigation of the encmy.  
 Feb. 24, 1813, JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1813031101:0789/pct:75.63867089664384,12.219500244977953,23.576557021205545,38.32435080842724/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1813031101:0789/pct:75.6498024155396,12.222766617671077,23.56542550230979,38.33088355381349/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1212,7 +1212,7 @@ gests a prohibition of nil exportation
 h orn (Ijc United States in foreign  
 bottom*—a piece of madness that no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813072701:0423/pct:29.57661594093717,68.44222003753687,16.72442368540003,8.079363660738226/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813072701:0423/pct:29.572160289243747,68.4361036639857,16.726925780857687,8.081620494489128/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1336,7 +1336,7 @@ has sometimes, however, been said, that such
 conduct was unauthorized by the British go­  
 vernment ; and the prince regent, seizing th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1815040501:0422/pct:23.619575253924285,38.095833854622796,17.303785780240073,13.036406855999/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1815040501:0422/pct:23.615214180206795,38.09106830122592,17.306745445593304,13.038945876073722/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

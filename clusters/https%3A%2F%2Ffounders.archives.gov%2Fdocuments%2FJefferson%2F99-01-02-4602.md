@@ -278,7 +278,7 @@ ed, that it has ever been the pride and boast
 of America, that the rights for which she  
 contended tcere the ngntsoj numan nature.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_danby_ver01:data:sn98060050:00280777328:1839062801:0441/pct:44.45812807881774,123.39658146463854,19.704433497536947,3.1676336835502585/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_danby_ver01:data:sn98060050:00280777328:1839062801:0441/pct:33.36755646817249,92.55135643719618,14.784394250513348,2.3835659400972244/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -411,7 +411,7 @@ friends exponed to tyranny and usuirpation?
 This is the declaration of Congress in favor of  
 paying the dobis of the States. This is put to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186439:1843111601:0940/pct:195.23809523809524,175.75757575757575,43.94646747587924,36.628186628186626/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186439:1843111601:0940/pct:65.06923914734713,58.578814476373694,14.646543229085628,12.20792753797443/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -482,7 +482,7 @@ against them, and their patrons and friends expored
 the insuits, and silenced by the votaries of tyranny a  
 usurpation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_buttery_ver01:data:sn83030213:00206530273:1848040801:0158/pct:128.6683496371095,31.038003403289846,39.23950773114547,30.86783891094725/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_buttery_ver01:data:sn83030213:00206530273:1848040801:0158/pct:42.8894498790365,10.34600113442995,13.079835910381824,10.289279636982416/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -574,7 +574,7 @@ penned by Mr. Madison, in which they say,
 the pride and the boast of America that the rights  
 for which she contended trirr the rights of huma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1850032801:0064/pct:3.7430087480281085,60.36495634258805,13.35149863760218,2.2466398508780534/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1850032801:0064/pct:3.752569434485396,60.3682265607116,13.356278980830824,2.2466398508780534/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -624,7 +624,7 @@ Yet, sir, in this behalf, and by this sign, we con­
 quered.  
 Such, sir, is my answer on this head to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053546:00415660984:1854070601:0651/pct:29.189789123196448,65.66964285714286,13.276914539400666,3.1361607142857144/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053546:00415660984:1854070601:0651/pct:29.189789123196448,65.66964285714286,13.286163522012579,3.1473214285714284/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -720,7 +720,7 @@ wanting.&quot;
 We need not hesitate to walk in the  
 paths marked by the footsteps of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn85026031:00280774807:1857011501:0019/pct:30.08312020460358,77.5003411106563,15.457161125319693,19.21135216264156/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn85026031:00280774807:1857011501:0019/pct:22.581161042699506,58.125255832992224,11.594434671357748,14.40851412198117/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -764,7 +764,7 @@ nan nature will be turned against them; ami their 1
 latrons and friends exposed to be insulted and si- 1  
 enced by tlie votaries of tyranny and usurpation.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82006534:00415661083:1857061801:0229/pct:36.65274654673948,8.494159471813104,18.551236749116608,19.502285424073133/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82006534:00415661083:1857061801:0229/pct:36.65274654673948,8.498391738615203,18.551236749116608,19.510749957677334/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -828,7 +828,7 @@ will ha sot which cannot but have the moat favorable in n
 fluciice on the rights of tnn..kud.&quot;  
 There is the ima; true to their principles, tru? to tb
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1858020401:0243/pct:75.8562874251497,91.91051538606759,12.455089820359282,3.653011138380215/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1858020401:0243/pct:75.86427145708583,91.91366182115662,12.455089820359282,3.6561575734692595/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -877,7 +877,7 @@ rons and friends exposed to be insulted and
 silenced by tho votaries of tyranny and  
 usurpation. James Madison
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199276:1858093001:0963/pct:43.6140350877193,90.93340124793073,16.035087719298247,24.640264866929837/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199276:1858093001:0963/pct:32.7365279971915,68.20323443270088,12.023872213445673,18.489749140455878/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -903,7 +903,7 @@ nature By the blessings of the Author of these rights,
 they have prevelled oyer all opposition, and form the  
 basls of thi teen incepenoent Sates&quot; Now, whateve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:0027174335A:1860060501:0355/pct:12.678936605316974,56.725494872406394,52.99931833674165,14.071070832339613/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:0027174335A:1860060501:0355/pct:4.226312201772324,18.90849829080213,17.66643944558055,4.690356944113205/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -923,7 +923,7 @@ she has contended were the rights of human
 nature. By the blessings of the Author of  
 these rights, they have prevailed over all oppo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_belmont_ver02:data:sn82014511:no_reel:1860060801:0002/pct:54.50920827795709,80.17941050832977,9.948737421682171,2.036166880250605/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_belmont_ver02:data:sn82014511:no_reel:1860060801:0002/pct:54.51395481298652,80.18652997294603,9.958230491741029,2.036166880250605/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -942,7 +942,7 @@ patrons aud friends expot cd to be insulted and
 silenced by the votaries of tyranny and usur­  
 pation.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1861020801:0003/pct:23.208317861121426,82.12901439645626,10.044559970293353,1.937984496124031/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1861020801:0003/pct:23.2222428518381,82.13939645625692,10.044559970293353,1.931063122923588/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -963,7 +963,7 @@ But in all this, you would mnke it appear that
 ihey were orlv lying hypocrites ; and that when  
 they came 10 form a system of government, the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn84022367:00415628328:1861031401:0047/pct:70.09803921568627,117.1885263849354,14.40631808278867,3.9960586818480404/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn84022367:00415628328:1861031401:0047/pct:52.58785072187415,87.89139478870156,10.814491964042496,2.999781037880447/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1007,7 +1007,7 @@ them; and their patrons and friends ex­
 posed to be insulted and il?nced by the  
 votaries pf tyranny and usurpation..
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_flint_ver01:data:sn97063063:00296024302:1861110501:0555/pct:48.74495095210617,109.57564985558764,18.955568378534334,25.249944456787382/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_flint_ver01:data:sn97063063:00296024302:1861110501:0555/pct:32.50613187130284,73.05043323705843,12.63886885009378,16.84070206620751/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1085,7 +1085,7 @@ totamneil wotl sal UMisann
 defence, they have prevailed against all oppo­  
 sition.The people of the Unite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_braniff_ver01:data:sn82014760:00237288890:1862071701:0693/pct:56.66041275797373,57.8202406227884,106.75422138836772,331.9886765746638/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_braniff_ver01:data:sn82014760:00237288890:1862071701:0693/pct:14.171750351947443,14.4550601556971,26.70107930549038,82.99716914366596/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1174,7 +1174,7 @@ be turned against them, and their patrons and
 friends exposed to be insulted and silenced by  
 the votaries of tyranny and oppression.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775630:1862072201:0393/pct:164.3394934976044,338.92496890976923,43.121149897330596,20.83736354843167/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775630:1862072201:0393/pct:41.09893871961657,84.73124222744231,10.78397808969531,5.209340887107918/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1203,7 +1203,7 @@ them, and their patrons &quot;and friends exposed to be
 insulted and silenced by the votaries of tyranny  
 and oppression.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1862072301:0002/pct:55.46656733097411,28.826864369821195,10.132240640715217,4.506468963512138/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1862072301:0002/pct:55.4805364127398,28.826864369821195,10.118271558949525,4.517371711004507/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1263,7 +1263,7 @@ and their patrons and friends exposed to be
 insulted and silenced by the votaries of tyran­  
 ny and oppression.&quot;.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84027060:00415668909:1862072601:0333/pct:17.967803358144366,84.24657534246575,14.523108880041544,8.1831290555155/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84027060:00415668909:1862072601:0333/pct:17.973573365645375,84.24657534246575,14.523108880041544,8.195145397740928/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1296,7 +1296,7 @@ man nature will be turned against them, and
 their patrons and friends exposed to be insulted  
 and silenced by the votaries of trauny and o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200290021:1862073001:0411/pct:199.27657206455203,239.47783029484583,43.40567612687813,26.55863155525546/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200290021:1862073001:0411/pct:49.839944328462074,59.86945757371146,10.855949895615867,6.639657888813865/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1356,7 +1356,7 @@ their patrons and friends oxposed to be in
 sulted and silenced by the votaries of tyran  
 ny and oppression
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn84028083:00280775241:1862080101:0772/pct:233.33333333333334,111.35103589145025,47.87077826725404,32.50656550919171/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn84028083:00280775241:1862080101:0772/pct:58.34404259225261,27.837758972862563,11.969891683495502,8.126641377297927/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1390,7 +1390,7 @@ man nature will be turned against
 them, and their patrons and friends  
 exposed to be insulted and silence
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn85042591:00280774959:1862080801:0672/pct:217.91505791505793,74.29632804686383,48.18532818532819,42.46320902986141/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn85042591:00280774959:1862080801:0672/pct:54.51033417036894,18.57408201171596,12.05331272937995,10.615802257465353/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1420,7 +1420,7 @@ nature will be turned against them, and
 their patrons and friends exposed to be in­  
 sulted and silenced by the votaries of t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn83035216:00280775150:1862080901:0903/pct:180.48452220726784,317.5704989154013,49.25975773889637,34.59869848156182/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn83035216:00280775150:1862080901:0903/pct:45.12872286723877,79.39262472885032,12.317011610297829,8.649674620390455/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1438,7 +1438,7 @@ the blessings of tho Author of these that pui pose, and who shall he ir and do
 rights on the means exerted for their do-! lermine the offense, ami order the pun­  
 fense, ihey have prevailed against all op- Uliment (hat shall be inflicted, aud shal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn87058348:00279529376:1862081901:0869/pct:55.709534368070955,69.07183385076544,25.221729490022174,2.183920351140135/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn87058348:00279529376:1862081901:0869/pct:55.71877309682188,69.07183385076544,25.226348854397635,2.191057345751704/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1544,7 +1544,7 @@ most favorable influence on the rights of man-­
 kind. If, on the other side, our governments  
 should be unfortunately blotted with the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn83025182:00279528700:1868090201:0209/pct:83.59433258762118,143.45369960124057,34.034302759134974,26.318121400088614/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn83025182:00279528700:1868090201:0209/pct:27.86477752920706,47.81789986708019,11.344767586378325,8.772707133362871/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1624,7 +1624,7 @@ contended were the rights of human na
   
 ture, and, gentlemen, wc ask this recog
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_columnist_ver01:data:sn92053942:00295873218:1876062801:0305/pct:59.396179913739985,40.441344614681,16.21996303142329,3.7045506517265037/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_columnist_ver01:data:sn92053942:00295873218:1876062801:0305/pct:44.553997843167465,30.333866910587698,12.170697889385302,2.778412988794878/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1641,7 +1641,7 @@ pride of America that
 the rights for which she contended  
 were the rights of human nature
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_bentley_ver01:data:sn83025733:00200297568:1876062801:0090/pct:158.33333333333334,354.535274356103,50.51546391752577,5.487122060470325/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_bentley_ver01:data:sn83025733:00200297568:1876062801:0090/pct:39.583333333333336,88.63381858902575,12.628865979381443,1.3717805151175813/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1661,7 +1661,7 @@ pride of America Unit the rights for
 which she contended were the rights o f  
 human nature,” and geutlemeu, w
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_baggs_ver01:data:sn84022149:00393349906:1876062801:0605/pct:30.501930501930502,67.94138670478914,12.287076992959346,2.8055754110078626/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_baggs_ver01:data:sn84022149:00393349906:1876062801:0605/pct:30.501930501930502,67.94138670478914,12.309788780377016,2.8055754110078626/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1729,7 +1729,7 @@ tretend to so fair an opportunity of justiying
 themselves by their fruits.&quot; This 1  
 .ddress was also the composition of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_france_ver01:data:sn84026844:00202193444:1879112701:1138/pct:37.66487542745481,68.75981161695448,12.994626282364436,7.395778824350253/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_france_ver01:data:sn84026844:00202193444:1879112701:1138/pct:37.68319491939423,68.76853305424734,13.000732779677577,7.400139542996686/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1751,7 +1751,7 @@ wronged, insulted and silenced by the vo-.
 taries of tyranny and usurpation. .  
 “The great Lord Landsdowne on the re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059532:00514157455:1887032901:0137/pct:47.99144283337295,63.509703101675235,20.84620869978607,5.622823022060043/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059532:00514157455:1887032901:0137/pct:47.98003802281369,63.49917081260365,20.847195817490494,5.626036484245439/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

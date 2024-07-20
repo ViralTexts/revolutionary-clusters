@@ -107,7 +107,7 @@ ed with difficulty, amt she wished to get up and ,
 call a servant; but the General would not permit  
 her, lest she should take cold. As soon as the 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216456:1831082301:0036/pct:7.156439066551426,34.584578601315,18.94554883318928,21.73341303048416/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216456:1831082301:0036/pct:7.155202212236433,34.58044465694478,18.94803548795944,21.73479958562435/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -138,7 +138,7 @@ she should take cold. As soun as the day
 appeared, the woman Caroline went into the  
 room to make a fire, and the girl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153139:1831083001:0138/pct:20.522201895892234,6.515580736543909,15.33344420422418,9.737960339943342/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153139:1831083001:0138/pct:20.533288984976995,6.52344979540447,15.32235711513942,9.741894869373622/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -191,7 +191,7 @@ morning, he awoke Mrs. Washington, ant
 informed her he was very un well, and hat  
 an ague. She Observed that he Coulc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182938:1831090101:0544/pct:5.443590276334926,2.1279634390174236,35.881986287139,90.63124821479578/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182938:1831090101:0544/pct:5.442459493144994,2.127659574468085,35.87972579975073,90.62187633871198/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -225,7 +225,7 @@ i lie expired without a struggle or sigh
 While we were fixed in silent grief, Mrs  
 I W usl.iagten asked in a tirut and collecte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1831090101:0580/pct:54.69310272094495,40.29370629370629,17.7599662518456,11.832167832167832/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1831090101:0580/pct:54.681568958245464,40.28807159837785,17.76149304091101,11.834009229478395/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -265,7 +265,7 @@ sire throat; h«* had a hojr*ene*«,whtt h
 nunaned in the evening, but he made  
 light of it. a* he would never take an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84024746:00414186920:1831090101:0346/pct:2.7465857359635812,54.0120304165248,14.218512898330804,15.310407445238907/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84024746:00414186920:1831090101:0346/pct:2.7461690183583674,54.005901044030864,14.221413037981085,15.312452715993343/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -304,7 +304,7 @@ lie asked when Mr. I.evvu* and Waih­
 ingtnn would return; I told him I be­  
 lieved
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84024746:00414186920:1831090101:0346/pct:17.465857359635812,55.93008739076155,14.582701062215477,14.413800930654864/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84024746:00414186920:1831090101:0346/pct:17.463207404035806,55.923740354062645,14.585545946492692,14.41594794976547/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -835,7 +835,7 @@ lay before.) and complained of having a sore
 hroat-; he had a hoarseness, which increased  
 u
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1840060601:0606/pct:59.55002393489708,61.32934131736527,18.04691239827669,14.071856287425149/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1840060601:0606/pct:59.55534280091484,61.333333333333336,18.052231264294452,14.079840319361278/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -867,7 +867,7 @@ itny breast. Dr. Craik plueed his hands over
 I his eyes ; and he expired without a stiutfiflc  
 or a oigli.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1840060601:0606/pct:77.42141375458752,12.706586826347305,17.919259613850326,12.359281437125748/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1840060601:0606/pct:77.42673262060529,12.714570858283434,17.935216211903622,12.359281437125748/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1135,7 +1135,7 @@ three o&#x27;clock next morning the General
 woke Mrs. Washington, to say that he  
 was very unwell; and she could perciev
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_dillinger_ver02:data:sn87056241:00200295638:1853071401:0086/pct:86.16904500548847,82.90641902234923,18.674533479692645,15.01173589141749/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_dillinger_ver02:data:sn87056241:00200295638:1853071401:0086/pct:64.65339739190117,62.179814266761916,14.01509951956074,11.266455760791917/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1163,7 +1163,7 @@ going. Have me decently buried; and do
 not let my body b? put in the vault less  
 than three days after I am dead. Do yo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_dillinger_ver02:data:sn87056241:00200295638:1853071401:0086/pct:105.07683863885839,31.033778957036432,19.01756311745335,11.031737932442086/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_dillinger_ver02:data:sn87056241:00200295638:1853071401:0086/pct:78.84694577899793,23.277885498520256,14.262182566918325,8.276354730074498/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1185,7 +1185,7 @@ swered in the affirmative, she said:
 follow him I have no more trials to  
 pass thiough!&quot; She survived him onl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_dillinger_ver02:data:sn87056241:00200295638:1853071401:0086/pct:105.54335894621295,49.36217981426676,18.56476399560922,6.31697111950199/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_dillinger_ver02:data:sn87056241:00200295638:1853071401:0086/pct:79.1901166781057,37.024186141443,13.93273850377488,4.745382181855291/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1357,7 +1357,7 @@ bowed assent.’ He looked at me again ■
 and said ‘do you understand mo?’ I re-1  
 | plied ‘yes sir.’ • ’Tin well,’ said ho 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fireweed_ver01:data:sn83016209:00383342387:1856071901:0130/pct:52.597159940209266,85.81381559442633,15.07847533632287,6.418618440557367/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fireweed_ver01:data:sn83016209:00383342387:1856071901:0130/pct:40.77327798426413,66.50455694263613,11.676401023314186,4.978172627709275/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1380,7 +1380,7 @@ Do you under-tand me?&#x27; I roplied tyes sir.&quot;
 Tis well,&quot; said he. And these were his last  
 werds, and &#x27;tis well his last words were, Ti
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393347983:1856072301:1179/pct:204.33001755412522,245.31448763250884,60.171640335478834,18.10600706713781/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393347983:1856072301:1179/pct:51.07254290171607,61.319954776710006,15.039976599063962,4.525862068965517/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1516,7 +1516,7 @@ is a debt we must all pay.&quot; He looked to the eveut
 with perfect resignation. At 8 A. M. his clothes  
 were put on. and he sat in a chair by the fire, wher
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664370:1858100501:0136/pct:30.96512805672117,15.967030860647881,13.847489509477644,5.367069196856431/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664370:1858100501:0136/pct:30.97477451405971,15.97022554469363,13.847489509477644,5.367069196856431/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1537,7 +1537,7 @@ None could speak?a sign was the only token. &quot; &#x27;Tis
 well,&quot; she said. &quot; AH is row over. 1 shall soon fol  
 low him. I have no more trials to piss through 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664370:1858100501:0136/pct:31.05194617276805,23.346751006325473,14.744610041962089,2.7314548591144336/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664370:1858100501:0136/pct:31.05676940143732,23.34994569037122,14.744610041962089,2.737844227205929/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1598,7 +1598,7 @@ his feet were bathed in warm water, but without
 affording any relief.  
 His old friend, Dr. Craik, arrived between cight an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_flavory_ver01:data:sn83030213:00206530625:1859052001:0135/pct:246.08695652173913,37.51487741014044,51.63248564397047,53.03499166865032/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_flavory_ver01:data:sn83030213:00206530625:1859052001:0135/pct:82.02898550724638,12.504959136713481,17.210828547990157,17.678330556216775/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1669,7 +1669,7 @@ tinned uneasy and restless, but without complaining,
 frequently asking what hour it was,  
 Futher remedies were tried without avail in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_flavory_ver01:data:sn83030213:00206530625:1859052001:0135/pct:246.87448728465955,90.93073077838609,48.761279737489744,78.29088312306594/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_flavory_ver01:data:sn83030213:00206530625:1859052001:0135/pct:82.29149576155318,30.310243592795366,16.25375991249658,26.096961041021977/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1720,7 +1720,7 @@ old Gascon essayist will welcome this complete edi­
 n of his work, both on account of the diligence and  
 care which have evidently been devoted to its pre-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_flavory_ver01:data:sn83030213:00206530625:1859052001:0135/pct:246.6447908121411,172.6850749821471,48.89253486464315,56.74839323970483/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_flavory_ver01:data:sn83030213:00206530625:1859052001:0135/pct:82.2149302707137,57.5616916607157,16.297511621547716,18.91613107990161/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1792,7 +1792,7 @@ and that in the meantime Rawlins, one of the
 overseers, should be summoned, to bleed him  
 before the doctor could arrive
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776038:1859061101:0710/pct:185.84254143646407,87.54943406518478,48.34254143646409,111.38688122187372/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776038:1859061101:0710/pct:46.46063535911602,21.887358516296196,12.085635359116022,27.84672030546843/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1830,7 +1830,7 @@ feet were bathed in warm water, but without
 aflording any relief.  
 His old friend, Dr. Craik, arrived betwee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776038:1859061101:0710/pct:185.84254143646407,199.2090549570435,48.61878453038674,45.54752488749489/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776038:1859061101:0710/pct:46.46063535911602,49.80226373926087,12.154696132596685,11.386881221873722/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1913,7 +1913,7 @@ but without complaining frequently asking
 hat hour it was.  
 Further remedies ware tried without avail
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776038:1859061101:0710/pct:184.73756906077347,248.57493522432839,50.069060773480665,130.42411018682668/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776038:1859061101:0710/pct:46.18439226519337,62.143733806082096,12.517265193370166,32.60602754670667/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1969,7 +1969,7 @@ of resinous wood, his wife is then placed upon
 the body and covered over with a skin; the  
 pile is then lighted, and the poor woman i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776038:1859061101:0710/pct:236.11878453038673,64.85749352243283,48.273480662983424,81.93099686349379/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776038:1859061101:0710/pct:59.02969613259668,16.214373380608208,12.068370165745856,20.482749215873447/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2280,7 +2280,7 @@ Rawlins, one of the overseers, should be sum-
 moned to biced him before the Doctor could  
 arrive
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202191058:1859070201:0007/pct:49.285398556063065,130.34243606415257,36.95299837925446,61.22670134373645/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202191058:1859070201:0007/pct:16.428466185354353,43.44747868805086,12.317666126418152,20.408900447912153/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2373,7 +2373,7 @@ all retired except br. Craik. The General con-
 inued uneasy and restless, but withont com­  
 platning, frequently asking what hour it was.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202191058:1859070201:0007/pct:49.07912185059673,204.11790203727784,37.453956092529836,86.27004768097096/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202191058:1859070201:0007/pct:16.35970728353224,68.03930067909262,12.484652030843279,28.756682560323654/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2425,7 +2425,7 @@ with teu and ink a more detailed letter than
 my fomaer ones. You will already have read  
 in the newspapers of the battle of the 20t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202191058:1859070201:0007/pct:87.35818476499189,34.861291720849586,36.761455724178575,44.083224967490246/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202191058:1859070201:0007/pct:29.119394921663964,11.62043057361653,12.253818574726193,14.694408322496749/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2665,7 +2665,7 @@ less, but without complaining, frequently asking
 what nour it was.  
 Further remedies were tried without avail in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn85026002:00280775228:1859070901:0314/pct:228.39805825242718,16.191187453323376,50.40453074433657,51.08289768483943/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn85026002:00280775228:1859070901:0314/pct:57.099514563106794,4.047796863330844,12.601132686084142,12.770724421209858/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2707,7 +2707,7 @@ she in the same voice. &quot;All is now over; I shall
 soon follow him; I have no more trials to pass  
 through.&quot;&quot; Wushington Ireing
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn85026002:00280775228:1859070901:0314/pct:228.88349514563106,72.65123226288274,49.433656957928804,42.71844660194175/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn85026002:00280775228:1859070901:0314/pct:57.220873786407765,18.162808065720686,12.358414239482201,10.679611650485437/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2757,7 +2757,7 @@ ing, be would read it aloud as well as bis hoarse­
 ness would permit, or be listened and made oc­  
 casional comments while Mr. Lear read
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_belmont_ver02:data:sn82014511:no_reel:1859071101:0003/pct:24.007670182166827,41.81391712275215,10.27804410354746,13.10398749022674/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_belmont_ver02:data:sn82014511:no_reel:1859071101:0003/pct:24.007670182166827,41.81391712275215,10.282837967401726,13.115715402658326/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2842,7 +2842,7 @@ Further remedies were tried without avail in
 • the evening. He took whatever was offered  
 hiui, did as lie was desired by the physicians
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_belmont_ver02:data:sn82014511:no_reel:1859071101:0003/pct:24.007670182166827,68.52228303362001,10.27804410354746,25.191555903049256/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_belmont_ver02:data:sn82014511:no_reel:1859071101:0003/pct:24.007670182166827,68.52228303362001,10.282837967401726,25.191555903049256/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2885,7 +2885,7 @@ well,&#x27; said she, in the same voice. &#x27; All is orerj
 I shall soon follow him; I no more trials  
 to pass through.&#x27;&quot; ■ ■ * 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_belmont_ver02:data:sn82014511:no_reel:1859071101:0003/pct:24.007670182166827,1.422986708365911,20.479386385426654,96.4347146207975/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_belmont_ver02:data:sn82014511:no_reel:1859071101:0003/pct:24.007670182166827,1.422986708365911,20.49856184084372,96.44644253322909/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2947,7 +2947,7 @@ ague and difficulty of breathing. Iletwreti
 two and three o&#x27;clock in the morning he awoke  
 Mrs. Washington, who would have risen t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn85025007:0041566347A:1859071201:0537/pct:31.82389937106918,48.53866450172519,16.36617749825297,23.7467018469657/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn85025007:0041566347A:1859071201:0537/pct:31.82389937106918,48.54204722278601,16.375494991847194,23.75008456802652/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2972,7 +2972,7 @@ pntie the string the General put up his hand
 fn prevent him. and as sism as hecuid speak,  
 niorinerdl. &#x27;/piprg, more.&quot; but Mrs. M asliingtoij&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn85025007:0041566347A:1859071201:0537/pct:31.865828092243188,80.50537852648671,15.27603074772886,6.464379947229552/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn85025007:0041566347A:1859071201:0537/pct:31.865828092243188,80.50876124754753,15.285348241323083,6.471145389351194/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3024,7 +3024,7 @@ to Is- in great pai- and distre? fr &gt;m the difficulty
 &lt;&gt;t breathing, and frequently changed  
 his jsisture in the l?ed. Mr. Lear endeavore
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn85025007:0041566347A:1859071201:0537/pct:31.712089447938503,2.5065963060686016,28.609364081062193,95.494215546986/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn85025007:0041566347A:1859071201:0537/pct:31.712089447938503,2.5065963060686016,28.618681574656417,95.50436371016846/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3068,7 +3068,7 @@ Further remedies were tried, w ithout avail,
 ill the evening, lie n-.k whatever was offered  
 him. .lid a- he wa- desired by the physicians
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn85025007:0041566347A:1859071201:0537/pct:45.283018867924525,17.2112847574589,15.220125786163521,16.297950071037143/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn85025007:0041566347A:1859071201:0537/pct:45.283018867924525,17.218050199580542,15.220125786163521,16.294567349976322/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3114,7 +3114,7 @@ more. &quot;&#x27;I is well said -he, in the sanie voice.
 &#x27;All is now over; 1 -hall soon follow hum I  
 have a i more trial- to pa-s throug
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn85025007:0041566347A:1859071201:0537/pct:45.21313766596786,32.68723361071646,15.555555555555555,15.5774304850822/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn85025007:0041566347A:1859071201:0537/pct:45.21313766596786,32.6939990528381,15.555555555555555,15.574047764021378/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3304,7 +3304,7 @@ and restless, but without complaining,
 frequently asking what hour it was.  
 Further reinedic* iinaA
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_idacox_ver02:data:sn85026945:00202194278:1859071401:0905/pct:2.9390783278641748,11.54843802864554,29.619061207019545,86.24111875493402/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_idacox_ver02:data:sn85026945:00202194278:1859071401:0905/pct:2.9390783278641748,11.552197285816323,29.638084367717695,86.24863726927559/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3353,7 +3353,7 @@ the same voice. &quot; All is now over : I slial
 soon follow him; I have no more trials t(  
 pass through.&#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_idacox_ver02:data:sn85026945:00202194278:1859071401:0905/pct:30.14695391639321,11.909326717040713,13.468397774290198,21.326265929852262/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_idacox_ver02:data:sn85026945:00202194278:1859071401:0905/pct:30.14695391639321,11.916845231382279,13.473153564464736,21.326265929852262/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3444,7 +3444,7 @@ thing interesting or entertaining, he would
 read it aloud as well as his hoarseness  
 would permit, or he listened and mad
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:0028077781A:1859072001:0114/pct:126.03503184713375,150.47212915016752,47.92993630573248,102.10173621687481/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:0028077781A:1859072001:0114/pct:31.521306252489047,37.61803228754188,11.987256073277578,25.525434054218703/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3572,7 +3572,7 @@ plaining, frequently asking what hour it
 Was.  
 Further remedies were tried withou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:0028077781A:1859072001:0114/pct:126.27388535031847,57.75205604629912,99.04458598726114,324.27657630216265/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:0028077781A:1859072001:0114/pct:31.581043409000397,14.43801401157478,24.77100756670649,81.06914407554066/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3627,7 +3627,7 @@ Reminiscences of Louis NApoleon&#x27;s
 HIsTory.  The facts are not generally  
 known, but they are so stated in the reli
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:0028077781A:1859072001:0114/pct:177.62738853503186,57.995735607675904,98.64649681528662,321.1087420042644/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:0028077781A:1859072001:0114/pct:44.42453205894066,14.498933901918976,24.671445639187574,80.2771855010661/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3656,7 +3656,7 @@ no:, or be li-tin&lt;xl and made occasional
 comments while Mr. I/arreod th&gt; deflates  
 of the \ irgitna Assembly
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347269:1859072101:1198/pct:65.86424625098658,71.99881288024929,13.180741910023677,8.473067220655883/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347269:1859072101:1198/pct:65.87740068403052,71.99881288024929,13.17416469350171,8.48295988524509/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3683,7 +3683,7 @@ throat, ami his feet were bathed in warm
 water, but without affording any relief.  
 His old friend, Dr. Craik, arrived betwee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347269:1859072101:1198/pct:79.59747434885557,12.153138447840925,13.397790055248619,7.300786466834842/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347269:1859072101:1198/pct:79.6106287818995,12.153138447840925,13.397790055248619,7.310679131424049/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3731,7 +3731,7 @@ ed to be io great pain and distress from the
 difficulty of brcathing.and frequently changed  
 his posture in the bed. Mr. Ixar endeavor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347269:1859072101:1198/pct:79.59747434885557,21.79848642231785,13.437253354380426,19.30553494583766/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347269:1859072101:1198/pct:79.6106287818995,21.803432754612455,13.42409892133649,19.30058861354306/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3757,7 +3757,7 @@ Craik. Ihe General coatinued uffi.-y and
 , restless, frequently asking what hour it was.  
 Further remedies were tried withou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347269:1859072101:1198/pct:79.59747434885557,52.44101498738685,13.693764798737174,6.751743582133848/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347269:1859072101:1198/pct:79.6106287818995,52.44101498738685,13.700342015259142,6.751743582133848/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3802,7 +3802,7 @@ the name voice. ‘ All low over I *hall
 soon follow him : 1 have i. &gt; in&#x27;ire trial- to  
 pas* through.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347269:1859072101:1198/pct:79.7553275453828,61.40376910520849,13.792423046566693,17.762279269921354/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347269:1859072101:1198/pct:79.76848197842673,61.41366176979769,13.792423046566693,17.75733293762675/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3906,7 +3906,7 @@ bathed in warm water, but without afford­
 ing any relief.  
 His old friend, Dr. Craik, arrived be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn86086437:00514152330:1859072701:0013/pct:17.106211269635395,17.012901815001094,25.55123216601816,77.23595014213863/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn86086437:00514152330:1859072701:0013/pct:17.111015035788057,17.012901815001094,25.556035932170822,77.2432393031562/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3996,7 +3996,7 @@ complaining, frequently asking what hour
 it was.  
 Further remedies were tried withou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn86086437:00514152330:1859072701:0013/pct:30.105202478743333,17.056636781106494,25.061248018446463,76.97354034550624/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn86086437:00514152330:1859072701:0013/pct:30.11481001104866,17.06392594212406,25.056444252293797,76.96625118448867/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4042,7 +4042,7 @@ said she, in the same voice. ‘Ail is now
 over; I shall soon follow him; 1 have no  
 more trials to pass through.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn86086437:00514152330:1859072701:0013/pct:42.960080703271366,41.90903127050076,12.206369793918432,21.320795976383117/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn86086437:00514152330:1859072701:0013/pct:42.960080703271366,41.90903127050076,12.21597732622376,21.331729717909468/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4179,7 +4179,7 @@ aloud as well as his &#x27; hoarseness would per­
 mit, or he listened and made occasional  
 comments while Mr. Lear read
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_melon_ver01:data:sn84022549:00415628407:1859072901:0154/pct:63.93653516295026,21.319353429445172,19.61835334476844,11.44604630843163/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_melon_ver01:data:sn84022549:00415628407:1859072901:0154/pct:47.983697983697986,15.98951507208388,14.714714714714715,8.591815931265472/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4269,7 +4269,7 @@ ed to be in great pain and distress from the
 difficulty of breathing, and frequently  
 changed his posture in the bed. Mr. Lea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_melon_ver01:data:sn84022549:00415628407:1859072901:0154/pct:63.507718696397944,40.27959807776322,19.897084048027445,55.77399155380807/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_melon_ver01:data:sn84022549:00415628407:1859072901:0154/pct:47.661947661947664,30.216979758264163,14.929214929214929,41.8377748652978/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4321,7 +4321,7 @@ Hon. Caleb Lyon, on a recent visit to Cal­
 ifornia, met with a party of Shasta Indians,  
 and ascertained that they still used thos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_melon_ver01:data:sn84022549:00415628407:1859072901:0154/pct:83.74785591766724,23.82408620940731,20.02572898799314,29.357798165137616/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_melon_ver01:data:sn84022549:00415628407:1859072901:0154/pct:62.84856284856285,17.868064657055484,15.015015015015015,22.032911023736713/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4775,7 +4775,7 @@ it aloud as well as his hoarseness would per­
 mit, or he listened and made occasional  
 comments while Mr. Lear read
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_eiffel_ver02:data:sn84020047:0029587756A:1859090701:0324/pct:255.63496426608026,196.69783170877264,37.65805387575591,52.27770041774418/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_eiffel_ver02:data:sn84020047:0029587756A:1859090701:0324/pct:63.926312895243335,49.17445792719316,9.417102007148749,13.069425104436045/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4887,7 +4887,7 @@ that I should not survive it; my breath
 cannot last long.&quot; The Doctor pressed  
 his hand in silence, and retired from the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_eiffel_ver02:data:sn84020047:0029587756A:1859090701:0324/pct:257.3391973611875,69.98209667793913,72.5673446948873,298.5080564949274/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_eiffel_ver02:data:sn84020047:0029587756A:1859090701:0324/pct:64.35248831454496,17.49552416948478,18.146824305746495,74.62701412373185/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4941,7 +4941,7 @@ one evening, in hay-making time, he came
 home, scolding and swearing, and show­  
 ing his teeth and making a dust.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_eiffel_ver02:data:sn84020047:0029587756A:1859090701:0324/pct:293.4579439252336,112.472647702407,37.49312809235844,54.94330614680724/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_eiffel_ver02:data:sn84020047:0029587756A:1859090701:0324/pct:73.38465768490514,28.11816192560175,9.375859224635688,13.73582653670181/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5093,7 +5093,7 @@ it aloud as well as his hoarseness would
 permit, or he listened and made occasional  
 comments while Mr. Lear read
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668156:1859091301:0527/pct:215.18652561247217,173.83207750269108,37.75055679287305,65.58665231431647/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668156:1859091301:0527/pct:71.7488164856586,57.94402583423035,12.587023113338903,21.86221743810549/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5125,7 +5125,7 @@ ington uncertain whether the treatment
 was proper, and fearful that too much  
 blood might be taken, begged Mr. Lea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668156:1859091301:0527/pct:214.9359688195991,29.289558665231432,78.25723830734967,253.85360602798707/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668156:1859091301:0527/pct:71.66527429685324,9.76318622174381,26.09301030353662,84.6178686759957/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5218,7 +5218,7 @@ uneasy and restless, but without complain­
 ing frequently asking what hour it was.  
 Further remedies were tried withon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668156:1859091301:0527/pct:255.108574610245,54.02583423035522,38.33518930957684,128.4930032292788/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668156:1859091301:0527/pct:85.05987190197716,18.008611410118405,12.781954887218046,42.83100107642626/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5264,7 +5264,7 @@ same voice. &quot;All is now over; I shall soon
 follow him; I have no more trials to pass  
 through.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668156:1859091301:0527/pct:254.64922048997772,187.78256189451022,37.792316258351896,52.540365984930034/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668156:1859091301:0527/pct:84.90671122250069,62.59418729817008,12.600946811473127,17.513455328310013/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5517,7 +5517,7 @@ peared to be in great pain and distress
 front tbe diflieulty of breathing, and fre­  
 quently changed&#x27;liis posture in iha bed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn85025750:00280774650:1859101901:0215/pct:27.86637931034483,28.1218993621545,18.814655172413794,28.235294117647058/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn85025750:00280774650:1859101901:0215/pct:20.914187149633463,21.091424521615874,14.122466580422596,21.176470588235293/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5562,7 +5562,7 @@ bosom. Dr. Craik put bis hand over Iiis
 eyes, and he expired without a struggle  
 or a. sigh.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn85025750:00280774650:1859101901:0215/pct:28.038793103448278,78.59673990077958,18.663793103448278,22.21119773210489/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn85025750:00280774650:1859101901:0215/pct:21.043553255713668,58.951098511693836,14.014661492022423,16.654854712969524/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5578,7 +5578,7 @@ or a. sigh.&quot;
 &quot;Do not let my body be put into the vault  
 in less than three days after I am dead,&quot; and,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296205:1859102201:1005/pct:14.627477785372522,327.08832229891533,50.30758714969241,4.113255388082829/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296205:1859102201:1005/pct:3.658119658119658,81.77208057472883,12.581196581196581,1.0283138470207072/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5671,7 +5671,7 @@ and bis feet were bathed In warm water, but
 without affordiaff any relief  
 Hla old fHendj Dh Oelk; arrived betwee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014488:00279557438:1859102901:0565/pct:30.68953197570561,53.95220588235294,12.575919971418363,36.98792016806723/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014488:00279557438:1859102901:0565/pct:30.698463737048947,53.95220588235294,12.593783494105038,37.00105042016807/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5794,7 +5794,7 @@ had entered the stream hut Mr. Jefferson, and
 then asked him for a ride across. To rein up  
 to s stone, suffer him to mount, en croupe, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014488:00279557438:1859102901:0565/pct:30.814576634512324,14.377626050420169,25.669882100750268,79.39863445378151/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014488:00279557438:1859102901:0565/pct:30.82350839585566,14.377626050420169,25.678813862093605,79.41504726890756/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5854,7 +5854,7 @@ he awoke Mrs. Washington, who would
 have risen lo call a s?rvaut, but he would  
 not nermit her lest aha should take cold
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028820:00280775472:1859120801:0176/pct:58.22947214076246,79.71380471380472,16.385630498533725,33.333333333333336/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028820:00280775472:1859120801:0176/pct:43.692702603593695,59.79236812570146,12.302896956362304,25.0/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5877,7 +5877,7 @@ treatment was rtrnnnr. and fnnrfnl that too I
 I untie the siring the General put np b  
 band lo prevent it, and as soon ashe coul
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028820:00280775472:1859120801:0176/pct:58.10117302052786,18.855218855218855,34.09090909090909,111.4057239057239/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028820:00280775472:1859120801:0176/pct:43.6010267693436,14.141414141414142,25.577557755775576,83.55780022446689/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5929,7 +5929,7 @@ from tho difficulty of breathing, and fre-
 i - . . .  
 qnently changed bis posture in the bed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028820:00280775472:1859120801:0176/pct:75.2382697947214,24.4668911335578,16.788856304985337,31.032547699214366/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028820:00280775472:1859120801:0176/pct:56.453978731206455,18.35016835016835,12.596259625962595,23.28843995510662/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5953,7 +5953,7 @@ take no more trouble about mo: let mo rro
 je fojd jown again : all retired except  
 Dr: Craik. The general continued uneas
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028820:00280775472:1859120801:0176/pct:75.38489736070382,70.2581369248036,16.147360703812318,7.421436588103255/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028820:00280775472:1859120801:0176/pct:56.56398973230657,52.69360269360269,12.11954528786212,5.569584736251403/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6003,7 +6003,7 @@ same voice. &quot;All is now over; I shall soon
 follow him ; I have no more trials to pass  
 through
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028820:00280775472:1859120801:0176/pct:75.0366568914956,82.18294051627385,16.312316715542522,24.284511784511785/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028820:00280775472:1859120801:0176/pct:56.307297396406305,61.64421997755331,12.229556288962229,18.209876543209877/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6063,7 +6063,7 @@ plaining, frequently asking what hoar it
 was.  
 Further remedies were tried withou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn82015486:00280760924:1859122201:0546/pct:55.12434061793519,25.66576086956522,35.19216277317257,102.1195652173913/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn82015486:00280760924:1859122201:0546/pct:41.36046730732994,19.252717391304348,26.399095534200114,76.58967391304348/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6121,7 +6121,7 @@ Brituh Honse of Commons during the
 first French revolution. The idea seems  
 to be found in a sentence in one of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn82015486:00280760924:1859122201:0546/pct:72.72042200452148,57.79891304347826,17.238131122833458,32.5/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn82015486:00280760924:1859122201:0546/pct:54.550593555681175,43.35597826086956,12.945166760881854,24.375/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6170,7 +6170,7 @@ he met with anything interesting or entertains
 ing, he would read it aloud as well as his hoarse­  
 ness would permit, or he listened and mad
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:0028077568A:1860022201:0175/pct:172.93946024799416,212.60647359454856,48.14004376367615,59.86109291049666/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:0028077568A:1860022201:0175/pct:43.2506384531193,53.15161839863714,12.039401678219628,14.965273227624165/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6217,7 +6217,7 @@ hathed in warm water, but without affording
 any relief.  
 His old friend, Dr. Craik, arrived betwee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:0028077568A:1860022201:0175/pct:172.64770240700219,288.08806185296817,47.921225382932164,58.603066439523/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:0028077568A:1860022201:0175/pct:43.17767238234221,72.02201546324204,11.98467712513681,14.65076660988075/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6295,7 +6295,7 @@ uneasy and restless, but without complaining,
 frequently asking what hour it was.  
 Further remedies were tried without avail i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:0028077568A:1860022201:0175/pct:172.5747629467542,52.4177696239025,99.70824215900802,332.2238238762941/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:0028077568A:1860022201:0175/pct:43.15943086464794,13.104442405975625,24.936154688070047,83.05595596907352/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6329,7 +6329,7 @@ mine and pressed it to my bosom. Dr. Craik
 put his hand over his eyes, and he expired with­  
 out a struggle or a sigh.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:0028077568A:1860022201:0175/pct:223.41356673960613,131.7782728344909,48.21298322392414,34.64814572139955/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:0028077568A:1860022201:0175/pct:55.87376869755564,32.94456820862273,12.0576431959139,8.662036430349888/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6359,7 +6359,7 @@ When he met with anything interesting or en­
 tertaining, he wonld. read it aloud as well as  
 : his hoarseness&#x27; would permit, or he listened an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn83035173:00296027297:1860032801:0268/pct:6.842260153031194,103.32544526092913,17.010005885815186,10.486984680533068/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn83035173:00296027297:1860032801:0268/pct:5.136129506990434,77.49408394569684,12.759381898454746,7.871465935982065/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6446,7 +6446,7 @@ the ening. He took whatever was offered
 him, did as he was desired by the physicians,  
 and never uttered a sigh or complaint
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn83035173:00296027297:1860032801:0268/pct:24.617422012948794,24.81006351974094,16.98057680988817,46.892514634450116/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn83035173:00296027297:1860032801:0268/pct:18.469462840323768,18.607547639805706,12.74466519499632,35.17249968862872/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6480,7 +6480,7 @@ wrist. I took it in mine and pressed it to my
 bosom. Dr. Craik put his hand over his eyes  
 and he expired without a struggle or a sig
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn83035173:00296027297:1860032801:0268/pct:24.396703943496174,71.7648524100137,16.53914067098293,13.177232532071242/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn83035173:00296027297:1860032801:0268/pct:18.30757910228109,53.82986673309254,12.406181015452539,9.889151824635695/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6506,7 +6506,7 @@ these were his last words. Just before he
 expired he felt his own pulse ; his hand  
 fell from his wrist, and George Washing
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340615:1864021301:0235/pct:84.15136755339078,64.97413558399128,12.682652678905958,6.452491151647155/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340615:1864021301:0235/pct:84.13560591871136,64.96529195590037,12.68495973028657,6.455015652647339/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6553,7 +6553,7 @@ destand me? I replied, &#x27;yes, sir.&quot; &quot;Tis well,&quot;
 aid he.&quot; And these were his last words,  
 Just before he expired he felt his own pulse
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn85026002:0028077506A:1864040401:0263/pct:15.457115928369463,99.65598406663045,58.34118755890669,22.523990584827086/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn85026002:0028077506A:1864040401:0263/pct:3.867012497052582,24.913996016657613,14.595614241924075,5.6309976462067715/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6580,7 +6580,7 @@ fore he expired, he felt his own pulse, his
 hand fell from his wrist, and George  
 Washington was no more
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032312:00513685257:1864102701:0302/pct:69.02045989498461,37.51124823242062,12.312149194278472,6.671808715773236/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032312:00513685257:1864102701:0302/pct:69.00796524257784,37.50642673521851,12.314446053584359,6.6741645244215935/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6668,7 +6668,7 @@ more,&#x27;&#x27; hut Mrs. Washinton&#x27;s doubts pre­
 vailed, and the bleeding was stopped, after  
 about half a pint of blood had been taken.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016179:00296026207:1865090701:0359/pct:28.44811409270032,15.487544483985765,26.871833364608744,80.31316725978648/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016179:00296026207:1865090701:0359/pct:28.460624257208984,15.492289442467378,26.865578282354413,80.31791221826809/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6731,7 +6731,7 @@ About five o&#x27;cl &quot;k Ids &quot;M friend, Dr. &#x27;lriiik
 : earno into the and approached the !■&lt; &#x27;-  
 ! sale &quot;Doctor,&quot; said th&amp; general, &#x27; I di
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016179:00296026207:1865090701:0359/pct:42.07168324263464,31.95729537366548,13.267029461437417,25.281138790035588/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016179:00296026207:1865090701:0359/pct:42.0841934071433,31.966785290628707,13.267029461437417,25.2858837485172/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6781,7 +6781,7 @@ up my hand as a signal that lie was no more.
 &quot;All is now over; I shall soon follow him; 1  
 have no more tr als to pass through
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016179:00296026207:1865090701:0359/pct:41.95909176205667,63.95729537366548,13.023081253518484,18.519572953736656/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016179:00296026207:1865090701:0359/pct:41.965346844311,63.95729537366548,13.035591418027147,18.538552787663107/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6820,7 +6820,7 @@ tinue with us. I told him that I could recol­
 lect nothing, but that I hoped he was not so  
 near his end.&quot;Sunday Times, 2d
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536081:1867092401:0715/pct:111.59638554216868,263.8880438089443,42.31927710843374,9.309400669303317/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536081:1867092401:0715/pct:27.90960451977401,65.97201095223608,10.583804143126176,2.3273501673258292/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6934,7 +6934,7 @@ these words: “I am the resurrection and
 y the life; ho that believeth in me. though  
 e he were dead, yet shall he live.” Ove
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624347:1872030101:0041/pct:42.742367434386715,37.830798082933946,12.560257096946973,16.045009376953534/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624347:1872030101:0041/pct:42.742367434386715,37.83427102868653,12.569184074272451,16.048482322706118/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6965,7 +6965,7 @@ first buried, and a beautiful bird had
 made its little nest within I then vis­  
 ited the new tomb, where the illustriou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340652:1872032201:0251/pct:51.09004739336493,66.83313032886724,10.868878357030015,8.221680876979294/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340652:1872032201:0251/pct:51.08197757068394,66.82499086591159,10.871110409098089,8.223724272317623/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7001,7 +7001,7 @@ and the life; he that believeth in me,
 though he were dead, yet shall he live.&quot;  
 r the arch is a w
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776051:1872033001:0048/pct:279.2425345957757,170.92038396386224,50.910415149308086,40.316205533596836/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776051:1872033001:0048/pct:69.81063364894392,42.73009599096556,12.727603787327022,10.079051383399209/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7056,7 +7056,7 @@ attentions, but I pray you take no
 more troubte about me; let me go 1  
 off quietly; I cannot last long.&quot; &#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_flint_ver01:data:sn85033549:00296023966:1876010501:0211/pct:118.976088289393,20.349519117992024,19.022072348252607,15.001172882946282/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_flint_ver01:data:sn85033549:00296023966:1876010501:0211/pct:79.33466196535336,13.57025568848229,12.678215544994634,10.004691531785127/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7099,7 +7099,7 @@ replied &#x27;yes, sir.&#x27;- &quot;Ti3 well&quot; said he.&quot;
 And these were his last words. Just  
 before he expired he felt his own puls
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:00237283600:1878080101:0300/pct:45.782019704433495,35.777341834232466,12.792487684729064,7.724374693477195/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:00237283600:1878080101:0300/pct:34.360080086246725,26.839136831780284,9.594948405975666,5.79941147621383/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7141,7 +7141,7 @@ buried, and do no: let my body be put into
 dead. Do you understand me?&quot; he said  
 to his friend, who replied, “Yes.&quot; H
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624554:1879031501:0124/pct:79.14464993394981,77.5870585329711,14.51453104359313,3.8281057051123732/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624554:1879031501:0124/pct:61.34453781512605,60.13334609372508,11.244294672183594,2.9699811784221777/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7179,7 +7179,7 @@ that he was no more. ‘’Tis well.’said she la the
 eime voice. ‘All is now over; 1 shall soon follow  
 tiim; I have no more trials to pass through.’ ’• Thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_frost_ver02:data:sn85026214:print00205958216:1879070601:0004/pct:6.525769373377827,77.03225806451613,12.180200222469411,7.664516129032258/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_frost_ver02:data:sn85026214:print00205958216:1879070601:0004/pct:6.525769373377827,77.03870967741935,12.198739340007416,7.664516129032258/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7199,7 +7199,7 @@ ed anything which it was essential for him to do,,
 as he had but a very short time to continue with  
 us.” It wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pulaski_ver01:data:sn84031492:no_reel:1879072701:0012/pct:86.01485148514851,65.42818305391934,13.036303630363037,2.371243014650355/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pulaski_ver01:data:sn84031492:no_reel:1879072701:0012/pct:86.02516501650165,65.43195891859236,13.036303630363037,2.3901223380154057/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7260,7 +7260,7 @@ Washington said &quot;no, his great-coat had kept
 him dry.&quot; In the evening &quot;he appeared as well  
 as usual.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_yorkie_ver01:data:sn83045462:00280654528:1880013101:0517/pct:16.651484787757333,47.549417817492554,13.517944980870833,1.6788518819388032/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_yorkie_ver01:data:sn83045462:00280654528:1880013101:0517/pct:16.656039351430135,47.55280259951259,13.522499544543633,1.6788518819388032/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7278,7 +7278,7 @@ these physicians not long before he died: &quot;I thank
 you for your attentions, and I pray you to take no  
  more trouble about me.&quot; They had a rare ease
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_rolls_ver01:data:sn83030214:00175039867:1881082501:0482/pct:151.75464907018596,288.81467225178307,46.94061187762448,7.132344616777992/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_rolls_ver01:data:sn83030214:00175039867:1881082501:0482/pct:50.58488302339532,96.27155741726102,15.646870625874826,2.377448205592664/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7297,7 +7297,7 @@ died: &quot;I thank you for your attentions, and
 I pray you to take no more trouble about  
 me.&quot; They had a rare case, one of acut
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_charlie_ver01:data:sn83045160:00280779611:1881083101:0210/pct:224.78082992402105,38.4658898065392,38.80771478667446,5.702002488969341/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_charlie_ver01:data:sn83045160:00280779611:1881083101:0210/pct:56.21163402513885,9.6164724516348,9.704764688687519,1.4255006222423352/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7388,7 +7388,7 @@ it to my bosom. Dr. Craik put his hands
 over his oyes, and he expired without a  
 struggle or a sign. The body was buried o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_chevy_ver01:data:sn83025733:00200294725:1881100201:0435/pct:45.88576960309777,209.86108990993742,58.18005808325266,49.70233552129446/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_chevy_ver01:data:sn83025733:00200294725:1881100201:0435/pct:11.471442400774443,52.465272477484355,14.545014520813165,12.425583880323614/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7435,7 +7435,7 @@ Craik put his hands over his eyes,
 and he expired without a struggle or  
 sigh.” The body was buried on th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_floyd_ver01:data:sn86092245:00414186580:1881102101:0713/pct:18.706480985538295,43.97328527509806,12.292447777182646,21.477790734654935/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_floyd_ver01:data:sn86092245:00414186580:1881102101:0713/pct:18.7039764359352,43.968624125503496,12.29526487258446,21.479047417143665/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7484,7 +7484,7 @@ line and pressed it to my bosom. Dr.
 raik put his hands over his eyes, and  
 e expired without afccruggle or a sigh.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_henryjohnson_ver01:data:2012218613:00237288427:1881111601:0025/pct:45.15456755817992,30.76988952641946,11.219173324070859,9.779909223259398/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_henryjohnson_ver01:data:2012218613:00237288427:1881111601:0025/pct:45.16228628767705,30.775598755388085,11.215313959322296,9.779909223259398/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7508,7 +7508,7 @@ of his attendant Washington whispered:
 words he ever spoke: &quot;&#x27;Tis. well!&quot; In silent  
 grief sat that woman upon whom was put th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_detroit_ver02:data:sn96077385:00296023565:1884070401:0385/pct:121.65391969407266,28.115484380286457,20.68196303377948,9.11243938197812/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_detroit_ver02:data:sn96077385:00296023565:1884070401:0385/pct:81.12846668791839,18.743656253524303,13.802996493465095,6.078718845156197/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7528,7 +7528,7 @@ pass through. - &quot;That home under the loving
 care of the women of America will be left as  
 he left it. In the better land, &quot;in the hous
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_detroit_ver02:data:sn96077385:00296023565:1884070401:0385/pct:121.81325685149777,39.19025600541333,20.666029318036966,5.334385925341152/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_detroit_ver02:data:sn96077385:00296023565:1884070401:0385/pct:81.24003825310807,26.130596594113005,13.787057698437998,3.5524980263899852/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7568,7 +7568,7 @@ you for your attentions; but I pray you take no
 more trouble about me. Let me go quickly; I  
 can not last long,” All this time it must be re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210090:1885042001:0335/pct:25.938888141068784,46.8626885749976,18.966213487683405,9.138080138368405/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210090:1885042001:0335/pct:20.10988628855583,36.31872905547971,14.702507215634455,7.087005088742708/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7590,7 +7590,7 @@ have no more trials to pass through.” Comment
 on the grand simplicity of this scene would be  
 impertinent
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210090:1885042001:0335/pct:25.831202046035806,63.99538771980398,19.06043882083726,4.583453444796771/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210090:1885042001:0335/pct:20.026428347880515,49.59662405361797,14.772055499530548,3.552190641678044/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7631,7 +7631,7 @@ you for yonr attentions, but I pray you to
 take no more trouble about me: let me go  
 off quietly?I cannot last long.&quot;, -furthe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_denmark_ver01:data:sn84026844:0020219350A:1885073001:0729/pct:24.4180407371484,20.303770949720672,12.172647914645975,3.369413407821229/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_denmark_ver01:data:sn84026844:0020219350A:1885073001:0729/pct:24.424102812803103,20.303770949720672,12.16658583899127,3.386871508379888/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7667,7 +7667,7 @@ to my bosom, Sr. Craik put his hands
 jver nis eyes, and he died without a struggle  
 or a sich.&quot; The bodv was burled on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_denmark_ver01:data:sn84026844:0020219350A:1885073001:0729/pct:24.393792434529583,23.86522346368715,14.62172647914646,9.619413407821229/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_denmark_ver01:data:sn84026844:0020219350A:1885073001:0729/pct:24.399854510184287,23.87395251396648,14.639912706110572,9.636871508379889/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7706,7 +7706,7 @@ in mine and pressed it to my bosom. Dr.
 Craik put his hands over his eyes, and he ex­  
 pired without a struggle or a sigh. The bod
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mastiff_ver01:data:sn83045462:00280654449:1885080101:0009/pct:62.32587064676617,15.178209801539085,12.36318407960199,9.133252328878088/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mastiff_ver01:data:sn83045462:00280654449:1885080101:0009/pct:62.335199004975124,15.180741190765492,12.356965174129353,9.14084649655731/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7726,7 +7726,7 @@ Dr. Oiaik put his hands over his eyes
 and ho expired without a struggle or a  
 sigh. &quot; The body was buried on th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_dewitt_ver01:data:sn99021999:00206538120:1885080301:0381/pct:28.142755681818183,51.09379272627837,16.157670454545453,4.033360678151491/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_dewitt_ver01:data:sn99021999:00206538120:1885080301:0381/pct:21.119005328596803,38.323762646978395,12.131438721136767,3.0216024063439977/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7809,7 +7809,7 @@ capacities, and died in the City of
 Washington, in 1816, while holding  
 the position of accountant in the Wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quiring_ver01:data:sn89064939:00206537966:1886071401:0224/pct:65.18506278916061,83.6231389930674,14.243225380039656,5.477895215365383/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quiring_ver01:data:sn89064939:00206537966:1886071401:0224/pct:65.19607843137256,83.62692730234497,14.243225380039656,5.474106906087813/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7827,7 +7827,7 @@ reply. “’Tis well. All is now over.
 I shall soon follow him. I have no  
 more trials to pass through.” I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_leek_ver02:data:sn99068116:00340581192:1886071501:0569/pct:46.652935118434605,73.20844148515968,9.489480653229366,1.6138133393522176/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_leek_ver02:data:sn99068116:00340581192:1886071501:0569/pct:46.65661321171105,73.21690554113532,9.489480653229366,1.6138133393522176/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7851,7 +7851,7 @@ capacities, and died in the City ol
 Washington, in 1816, while holding  
 the position of accountant in the Wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_bowbells_ver01:data:sn84024779:00295863699:1886072201:0859/pct:36.351236146632566,104.2762747787059,14.407502131287298,5.722478493953372/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_bowbells_ver01:data:sn84024779:00295863699:1886072201:0859/pct:30.903381642512077,88.636122787806,12.246376811594203,4.874774806598608/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7878,7 +7878,7 @@ capacities, and died in the City of
 Washington, in 1816, while holding  
 the position of accountant in the Wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_hazen_ver01:data:sn85042405:00212478714:1886072201:1122/pct:51.08197757068394,96.54642223536369,13.552361396303901,7.155529272619751/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_hazen_ver01:data:sn85042405:00212478714:1886072201:1122/pct:44.701925734819866,84.47687053710028,11.863079332903345,6.26099555003622/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7909,7 +7909,7 @@ you for your attention; but 1 pray you
 to take no more trouble about me. Let  
 me go off quietly, I cannot la3t long.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn86053634:0021247776A:1888022201:0134/pct:77.5589330024814,47.75725593667546,13.75620347394541,3.844704108556351/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn86053634:0021247776A:1888022201:0134/pct:58.20015515903801,35.8210830506345,10.318076027928626,2.8898102776730745/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7928,7 +7928,7 @@ be put Into the vault in less than three
 days after I am dead.&quot; Mr. Lear  
 bowed bis bead and wept. Washing
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn86053634:0021247776A:1888022201:0134/pct:77.57444168734492,52.74531976378942,13.75620347394541,2.7264731750219875/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn86053634:0021247776A:1888022201:0134/pct:58.21567106283941,39.565272019097875,10.318076027928626,2.0479959793943965/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7947,7 +7947,7 @@ died, &quot;Ail is now over; 1 shall soon
 follow him; I have no more trials to  
 pass through.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn86053634:0021247776A:1888022201:0134/pct:77.57444168734492,57.75851237592662,13.787220843672456,2.713908782510366/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn86053634:0021247776A:1888022201:0134/pct:58.21567106283941,43.32202538007287,10.34910783553142,2.0354315868827744/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7994,7 +7994,7 @@ expired without a struggle or a algh.
 While we were fixed In silent grief,  
 Mr. Waahiugton asked in a Ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_funston_ver01:data:sn84027670:00237283429:1889042501:0120/pct:63.17962835512732,69.43488943488944,42.94562973158981,14.791154791154792/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_funston_ver01:data:sn84027670:00237283429:1889042501:0120/pct:15.79490708878183,17.35872235872236,10.736407432897453,3.697788697788698/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8026,7 +8026,7 @@ placed it on his breast.- - Dr. Craik
 placed his hands over his eves, aud he  
 j expired without a struggle or a sigh. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jay_ver01:data:sn97067613:00202197292:1889042501:0236/pct:85.42110874200426,26.141767112683844,12.686567164179104,9.001437576025655/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jay_ver01:data:sn97067613:00202197292:1889042501:0236/pct:64.09812025063324,19.60632533451288,9.518730835888547,6.7566073205794535/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8046,7 +8046,7 @@ tor I die hard but 1 nm not afraid to eo I be­
 lieved from my llrst attack that I should not  
 survive
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_dante_ver01:data:sn83030272:00175044838:1889042801:1019/pct:127.39299610894942,172.88848812744214,50.89494163424124,7.454162909528104/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_dante_ver01:data:sn83030272:00175044838:1889042801:1019/pct:31.866848355071053,43.222122031860536,12.731166050223866,1.863540727382026/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8079,7 +8079,7 @@ my military letters and papers; arrange
 mv accounts and settle my u. . j  
 know more about them than any on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_kohlrabi_ver01:data:sn86082061:00415629254:1889050201:0256/pct:21.46584440227704,111.5006345177665,20.161290322580644,12.325507614213198/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_kohlrabi_ver01:data:sn86082061:00415629254:1889050201:0256/pct:16.109134045077106,83.62944162436548,15.136417556346382,9.248096446700508/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8117,7 +8117,7 @@ As soon as the day appearod the worn
 an, Caroline, went into the room to  
 make a fire, and the girl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_antares_ver03:data:sn90059959:00271742800:1889050401:0587/pct:7.009128887513539,17.146231479493235,43.075970911341486,79.26776894996779/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_antares_ver03:data:sn90059959:00271742800:1889050401:0587/pct:7.014286451080509,17.149810321380002,43.075970911341486,79.26419010808102/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8138,7 +8138,7 @@ iras ao.
 cow over. I shall soon follow him. I have  
 no more trials to pass through.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_ashbel_ver01:data:sn82015679:00295870382:1890031601:0158/pct:9.92081447963801,11.247313539759611,36.66289592760181,118.53060574703494/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_ashbel_ver01:data:sn82015679:00295870382:1890031601:0158/pct:7.445965825506393,8.437475125368145,27.509335747425595,88.90392422192151/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8159,7 +8159,7 @@ All is over now I shall soon follow
 him I have no more trials to pass  
 throug
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_golf_ver01:data:sn86064205:00206536597:1890031601:0197/pct:284.76339794754847,342.9461942257218,51.09749144811859,13.47331583552056/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_golf_ver01:data:sn86064205:00206536597:1890031601:0197/pct:71.2111491303108,85.73654855643045,12.778015397775876,3.36832895888014/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8185,7 +8185,7 @@ long.&quot; Elijah&#x27;s had been a busy, trying
 career. His work done, he &quot;would calmly,  
 and with, the least jar to those he left be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_douglas_ver01:data:sn96076998:00415669252:1891021201:0232/pct:125.31392694063926,95.97628123676408,18.43607305936073,7.242693773824651/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_douglas_ver01:data:sn96076998:00415669252:1891021201:0232/pct:83.58315488936474,63.987717069038546,12.291220556745182,4.828462515883101/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8209,7 +8209,7 @@ who murmured, “Yes.”
 «&#x27;Tis well,” safid Washington, and  
 spoke no more
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_arbutus_ver01:data:sn85040614:00514152603:1891021901:0274/pct:30.944462919853674,86.54708520179372,15.580312603924177,5.228043311823253/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_arbutus_ver01:data:sn85040614:00514152603:1891021901:0274/pct:30.95000554262277,86.5507309781618,15.580312603924177,5.235334864559408/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8234,7 +8234,7 @@ who murmured, “Yes. ”
 “’Tis well,” said Washington, and  
 spoke no more
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_engledinger_ver02:data:sn85040310:00514152123:1891021901:0535/pct:34.97245734246943,54.045801526717554,14.040037619239554,24.169847328244273/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_engledinger_ver02:data:sn85040310:00514152123:1891021901:0535/pct:34.97245734246943,54.05216284987277,14.05347306193739,24.17620865139949/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8256,7 +8256,7 @@ who murmured, &quot;Yes.&quot;
 &quot;&#x27;Tis well,* said Washington, and  
 spoke no more.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_jamaica_ver01:data:sn97065761:00279523544:1891022601:0227/pct:32.12543554006969,77.70956816257409,11.97212543554007,3.270533446232007/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_jamaica_ver01:data:sn97065761:00279523544:1891022601:0227/pct:32.13472706155633,77.71309624611911,11.962833914053427,3.281117696867062/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8277,7 +8277,7 @@ Have mc decently buried, and do not let
 my body be put into the vault in less than  
 three days after 1 am dead. Do you un
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_mustang_ver01:data:sn99067997:00415625091:1891022701:0202/pct:39.1897233201581,68.23139583045699,17.371541501976285,3.8243821620875327/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_mustang_ver01:data:sn99067997:00415625091:1891022701:0202/pct:31.357048748353098,54.59298258532455,13.897233201581027,3.0595338905047678/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8823,7 +8823,7 @@ tions. but I pray you to take no more
   
 ouble about me, but let me go off
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_calumet_ver01:data:sn86086632:00296023474:1896022201:0192/pct:57.706535141800245,39.86337593653592,18.896424167694203,37.4173644777435/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_calumet_ver01:data:sn86086632:00296023474:1896022201:0192/pct:38.48882035466461,26.57558395769061,12.61372397841172,24.944909651829/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8851,7 +8851,7 @@ let my body be put Into the vault In
   
 less than three days after I am dead.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_calumet_ver01:data:sn86086632:00296023474:1896022201:0192/pct:58.353884093711464,102.28074041427942,18.526510480887794,5.288673424416042/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_calumet_ver01:data:sn86086632:00296023474:1896022201:0192/pct:38.920585967617576,68.19083296606435,12.367000771010023,3.525782282944028/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9057,7 +9057,7 @@ Craik ssked him if be could #it up in the
   
 Cure the Cold.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_efreeti_ver01:data:sn91070630:00514152883:1896022201:0800/pct:29.677242888402628,8.761265981974429,13.183807439824946,88.36721861245022/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_efreeti_ver01:data:sn91070630:00514152883:1896022201:0800/pct:29.677242888402628,8.764759309718437,13.183807439824946,88.37769859568225/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9119,7 +9119,7 @@ follow him. o
 ““I have no more trials to pass through,”’  
 Mourning was ordered for the famil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_efreeti_ver01:data:sn91070630:00514152883:1896022201:0800/pct:43.51750547045952,36.29218193250891,12.923960612691467,19.733808425906517/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_efreeti_ver01:data:sn91070630:00514152883:1896022201:0800/pct:43.52662290299052,36.29218193250891,12.919401896425967,19.740795081394538/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9189,7 +9189,7 @@ asking what hour it was.
 &quot;Fuj&#x27;ther remedies were tried without  
 avail in the evening. He took what
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_curry_ver01:data:sn85029677:0021247308A:1896022701:1337/pct:26.816143497757846,26.134721017635155,18.744394618834082,59.55478461983232/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_curry_ver01:data:sn85029677:0021247308A:1896022701:1337/pct:20.121130551816957,19.601040763226365,14.064602960969044,44.66608846487424/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9210,7 +9210,7 @@ have me. decently bucled and do not
 let my body be put into the vault in  
 less than threqdays after I am dead.&#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_curry_ver01:data:sn85029677:0021247308A:1896022701:1337/pct:26.816143497757846,87.30847065625903,18.721973094170405,5.160450997398092/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_curry_ver01:data:sn85029677:0021247308A:1896022701:1337/pct:20.121130551816957,65.48135299219427,14.064602960969044,3.8739520092512287/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9530,7 +9530,7 @@ I have no more trials to pass through.&quot;
   
 Of those who are posted is that for fin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_betelgeuse_ver01:data:sn90059959:0027174285A:1896022901:0107/pct:3.3062730627306274,8.519537699504678,26.243542435424356,87.18767198679141/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_betelgeuse_ver01:data:sn90059959:0027174285A:1896022901:0107/pct:3.3111931119311193,8.519537699504678,26.25830258302583,87.18767198679141/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10215,7 +10215,7 @@ whatever was offered him, did what
 was desired by the physicians, and  
 never uttered a sigh or complaint
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_lucretia_ver01:data:sn86086852:00271768965:1898021701:0415/pct:64.67532467532467,13.332414173445471,18.42157842157842,45.00206810974769/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_lucretia_ver01:data:sn86086852:00271768965:1898021701:0415/pct:50.13420047486322,10.332668471292207,14.271704346030763,34.88388659353184/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10243,7 +10243,7 @@ session of the United Stales govern­
 ment, says Kate Field’s Washington.  
 This letter lay for more than ninet
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_lucretia_ver01:data:sn86086852:00271768965:1898021701:0415/pct:64.67532467532467,58.472356266372536,18.321678321678323,11.995036536605543/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_lucretia_ver01:data:sn86086852:00271768965:1898021701:0415/pct:50.13420047486322,45.31628437099302,14.194280995148137,9.303319561191053/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10318,7 +10318,7 @@ whatever was offered him, did what
 was desired by the physicians, and  
 never uttered a sigh or complaint
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_bobidosh_ver01:data:sn85040613:00514150941:1898022101:0395/pct:47.24025974025974,8.195221148957804,14.80224321133412,34.936451448906965/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_bobidosh_ver01:data:sn85040613:00514150941:1898022101:0395/pct:47.25009838646202,8.1986104050161,14.80224321133412,34.93984070496526/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10337,7 +10337,7 @@ and do not let my body be put into the
 vault in less than three days after §  
 am dead.’”’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_bobidosh_ver01:data:sn85040613:00514150941:1898022101:0395/pct:47.387839433293976,43.85358413828165,14.566115702479339,3.131672597864769/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_bobidosh_ver01:data:sn85040613:00514150941:1898022101:0395/pct:47.387839433293976,43.856973394339946,14.57103502558048,3.138451109981359/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10517,7 +10517,7 @@ and distress in the course of the af­
 ternoon from the difficulty in breath­  
 ing and continued restless and un
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_evadeestruction_ver01:data:sn84026965:00294550811:1898022301:0096/pct:42.60589183643559,3.437716092067569,28.389271581415798,95.33735058777043/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_evadeestruction_ver01:data:sn84026965:00294550811:1898022301:0096/pct:42.60589183643559,3.444301755079193,28.39415701792955,95.33405775626461/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10570,7 +10570,7 @@ Craik put his hands over his eyes.
 And he expired without a struggle or  
 a sigh.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_evadeestruction_ver01:data:sn84026965:00294550811:1898022301:0096/pct:56.82251209145537,33.64615232638546,14.084713469148468,26.523757779314433/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_evadeestruction_ver01:data:sn84026965:00294550811:1898022301:0096/pct:56.827397527969126,33.64944515789127,14.094484342175974,26.523757779314433/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10730,7 +10730,7 @@ swallow a little. Calomel and tartar
 emetic were administered, hut without  
 effect.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_evadeestruction_ver01:data:sn84026965:00294550859:1898022302:0154/pct:43.74816983894583,3.9754681853028146,28.63836017569546,94.16274230642865/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_evadeestruction_ver01:data:sn84026965:00294550859:1898022302:0154/pct:43.757930697901415,3.9754681853028146,28.643240605173254,94.16639287409193/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10759,7 +10759,7 @@ debt which all must pay&quot; and that he
 looked to thc event with &quot;perfect  
 resignation.&quot; He suffered great pai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_evadeestruction_ver01:data:sn84026965:00294550859:1898022302:0154/pct:57.920937042459734,20.753477165699266,14.465592972181552,10.250793998466762/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_evadeestruction_ver01:data:sn84026965:00294550859:1898022302:0154/pct:57.920937042459734,20.76077830102581,14.470473401659346,10.250793998466762/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10812,7 +10812,7 @@ Craik put his hands over his eyes.
 And he expired without a struggle or  
 a sigh.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_evadeestruction_ver01:data:sn84026965:00294550859:1898022302:0154/pct:58.03806734992679,34.15836162523272,14.31918008784773,26.141715036688204/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_evadeestruction_ver01:data:sn84026965:00294550859:1898022302:0154/pct:58.042947779404585,34.165662760559265,14.32894094680332,26.141715036688204/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11008,7 +11008,7 @@ may be distinctly seen by anyone who
 has the curiostiy to soak a dried clove  
 for a little while in hot water and t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_hickory_ver01:data:2016270503:00271762744:1898040901:0059/pct:93.55950653120465,49.633363886342806,17.235123367198838,34.03605255117629/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_hickory_ver01:data:2016270503:00271762744:1898040901:0059/pct:70.21237974223997,37.22884204094103,12.942457796333272,25.52703941338222/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11061,7 +11061,7 @@ voice &quot;all is now over, and I shall soon
 follow him. I have no more trials to  
 pass through.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_krypton_ver01:data:sn88076086:00199918394:1898042301:0143/pct:35.46576879910213,35.357548240635644,14.221580888247555,19.27355278093076/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_krypton_ver01:data:sn88076086:00199918394:1898042301:0143/pct:35.47645769867992,35.365115399167614,14.210891988669767,19.28111993946273/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11157,7 +11157,7 @@ that much blood might not be taken,
 but Washington said, &quot;More! More!&quot;  
 Mrs. Washington, being still uneasy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_agave_ver01:data:sn93061674:00280774558:1899010701:0232/pct:155.54600171969045,122.22222222222223,58.12553740326741,22.942942942942942/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_agave_ver01:data:sn93061674:00280774558:1899010701:0232/pct:38.88650042992261,30.555555555555557,14.531384350816852,5.7357357357357355/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11190,7 +11190,7 @@ bosom.
 yes, and he expired without a struggle  
 or a sigh!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_agave_ver01:data:sn93061674:00280774558:1899010701:0232/pct:155.88993981083405,40.12012012012012,114.70335339638865,155.73573573573574/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_agave_ver01:data:sn93061674:00280774558:1899010701:0232/pct:38.97248495270851,10.03003003003003,28.675838349097162,38.933933933933936/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11225,7 +11225,7 @@ from mine, and felt his own pulse.
 spoke to Dr. Craik, who sat by the  
 fire. He canie to the bedside. The
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_agave_ver01:data:sn93061674:00280774558:1899010701:0232/pct:156.31986242476356,141.02102102102103,108.85640584694755,134.65465465465465/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_agave_ver01:data:sn93061674:00280774558:1899010701:0232/pct:39.07996560619089,35.25525525525526,27.214101461736888,33.66366366366366/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11280,7 +11280,7 @@ Greene, and she tells the following story
 in the words of her grandmother, concern­  
 ing a visit of the latter to Washington a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_clabbert_ver01:data:sn85040451:00414215142:1899021501:0231/pct:31.379403065340146,86.13903290657073,12.75880613068029,21.606179240292033/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_clabbert_ver01:data:sn85040451:00414215142:1899021501:0231/pct:24.319255348707973,66.76233429000956,9.895109752709086,16.747300806341396/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11325,7 +11325,7 @@ as a signal that he was no more,
 &#x27;all Is over, and I shall soon follow blm.  
 I have no more trials to pass through.&#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_neahkahnie_ver01:data:sn96088376:00295868405:1899022301:0167/pct:26.070038910505836,100.57243505063849,15.972762645914397,20.211360634081903/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_neahkahnie_ver01:data:sn96088376:00295868405:1899022301:0167/pct:19.556333917104496,75.42932628797887,11.986767853668029,15.162189931014238/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11370,7 +11370,7 @@ mm m ntrnAl that he was no more.
 all la over, ana l snail soon ioiiow mm  
 I have no more trials to pass through.&#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_larch_ver01:data:2004260421:00295867681:1899022401:0277/pct:26.47184300341297,103.81679389312977,16.68088737201365,19.740458015267176/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_larch_ver01:data:2004260421:00295867681:1899022401:0277/pct:19.871931696905015,77.86259541984732,12.529348986125934,14.80916030534351/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11437,7 +11437,7 @@ he said: “lam just going, Have me de­
 cently buried, and do not let my body  
 be put in the vault until three days afte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_gargoyle_ver02:data:sn92064114:00514153401:1899040101:0735/pct:10.306362922230951,20.776921474692774,19.497250589159467,4.87398458654447/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_gargoyle_ver02:data:sn92064114:00514153401:1899040101:0735/pct:10.316836868290128,20.780392973686038,19.497250589159467,4.870513087551204/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11491,7 +11491,7 @@ grief Mrs. Washington asked with can now eat anything aid have a new lease
 firm aud collected voice: &#x27;Is he gone?&#x27; . on life.&quot; Only 60 cents at M. P. Craw  
 I could not speak, but held up my baud fords Drug Store. Every bottle gnaran­
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_nittany_ver01:data:sn86053634:00212478052:1899120601:0380/pct:23.373574782025486,118.31433872250199,29.745137491616365,7.686191359660747/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_nittany_ver01:data:sn86053634:00212478052:1899120601:0380/pct:17.544448171754446,88.73575404187649,22.324723247232473,5.777895573813941/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11581,7 +11581,7 @@ Hits Henueusow
   
 i o -Km nii uitiiiiK - rniner seiant was inspitcneii to Ales- all was silent in the room except the heav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abe_ver01:data:sn82016187:0010049372A:1899120701:0310/pct:6.3099630996309966,5.928689883913765,37.601476014760145,88.95798783858486/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abe_ver01:data:sn82016187:0010049372A:1899120701:0310/pct:6.3099630996309966,5.928689883913765,37.601476014760145,88.96835268103925/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11626,7 +11626,7 @@ same voice al is now over I shall soon
 follow him I have no more trials to pass  
 throug
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abe_ver01:data:sn82016187:0010049372A:1899120701:0310/pct:30.830258302583026,56.14980652294085,12.472324723247233,12.658927584300718/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abe_ver01:data:sn82016187:0010049372A:1899120701:0310/pct:30.830258302583026,56.16017136539524,12.472324723247233,12.648562741846323/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11643,7 +11643,7 @@ suggestion of Colonel Lear he replied,
 &quot;No; you know I never take anything  
 for a cold; let it go as it came.&quot; Whe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_inskip_ver01:data:sn82015104:00280768881:1899121001:0347/pct:43.67910570442216,93.41593780369291,12.148610882788098,1.2998056365403303/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_inskip_ver01:data:sn82015104:00280768881:1899121001:0347/pct:43.68732533289495,93.41897473275024,12.15683051126089,1.3028425655976676/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11701,7 +11701,7 @@ that he had better take something to remove his
 coldille answered. &#x27;No, you know I never take  
 anything for a cold. Let it go as it came.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_rumi_ver01:data:sn83030272:00206539045:1899121001:0570/pct:16.692307692307693,288.117770767613,50.84615384615385,67.35766861949827/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_rumi_ver01:data:sn83030272:00206539045:1899121001:0570/pct:4.175485857225322,72.02944269190326,12.718876274773908,16.839417154874567/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11733,7 +11733,7 @@ and a half pint of blood was taken from the Gen
 eral&#x27;s arm. Dr. Craik arrived about 11 o&#x27;clock,  
 and as soon as he reached his patient&#x27;s bedsid
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_rumi_ver01:data:sn83030272:00206539045:1899121001:0570/pct:17.384615384615383,15.502478593961245,103.23076923076923,365.99068649541834/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_rumi_ver01:data:sn83030272:00206539045:1899121001:0570/pct:4.3486626900134695,3.875619648490311,25.822589955743698,91.49767162385459/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11778,7 +11778,7 @@ wrat. I took it in mine and pressed it to my
 bosom. Dr. Craik put his hands over his eyes,  
 and he expired without a struggle or a sigh.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_rumi_ver01:data:sn83030272:00206539045:1899121001:0570/pct:70.15384615384616,321.2858645035301,50.30769230769231,45.00525762355415/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_rumi_ver01:data:sn83030272:00206539045:1899121001:0570/pct:17.54858572253223,80.32146612588252,12.584183182605349,11.251314405888538/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11877,7 +11877,7 @@ possible to Mount Vernon.
 &quot;About 16 o&#x27;cloek he made several at­  
 tempts to speak to me before he could
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_hoquiam_ver01:data:sn83045604:00202199677:1899121001:0186/pct:176.07796810395746,72.35312598177819,51.171490450876156,160.08482563619228/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_hoquiam_ver01:data:sn83045604:00202199677:1899121001:0186/pct:44.019492025989365,18.088281495444548,12.792872612719039,40.02120640904807/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11929,7 +11929,7 @@ be understood. His patience, fortitude and
 resignation never forsook him for a me­  
 ment. In all his distress he uttered not a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_hoquiam_ver01:data:sn83045604:00202199677:1899121001:0186/pct:176.17641267966135,166.08545397423813,105.67040756054341,215.73986804901037/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_hoquiam_ver01:data:sn83045604:00202199677:1899121001:0186/pct:44.04410316991534,41.521363493559534,26.417601890135852,53.93496701225259/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11951,7 +11951,7 @@ Washington&#x27;s request that his body be
 kept for three days was strictly observed.  
 It was Mrs, Washington&#x27;s desire that th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_hoquiam_ver01:data:sn83045604:00202199677:1899121001:0186/pct:284.9182910021658,165.86553565818411,51.427446347706244,12.91234684260132/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_hoquiam_ver01:data:sn83045604:00202199677:1899121001:0186/pct:71.22957275054145,41.46638391454603,12.856861586926561,3.22808671065033/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12015,7 +12015,7 @@ each other, and said to Colonel Lear,
 &quot;and I hope when you want aid of  
 this kind you will find it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_inskip_ver01:data:sn82015104:00280768881:1899121201:0361/pct:30.82360677297386,28.887269193391642,12.39519973697189,2.1379980563654035/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_inskip_ver01:data:sn82015104:00280768881:1899121201:0361/pct:30.831826401446655,28.896379980563655,12.40752917968108,2.1379980563654035/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12050,7 +12050,7 @@ the three physicians who were present:
 your attentions, but I pray you take no  
 more trouble about me.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_rolls_ver01:data:sn85025431:00212479937:1899121301:0408/pct:7.906053589149852,69.13933020916676,14.108501488587496,10.709795405189164/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_rolls_ver01:data:sn85025431:00212479937:1899121301:0408/pct:7.911566876171573,69.13933020916676,14.125041349652664,10.717415323656036/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12087,7 +12087,7 @@ Mr-. Washington asked in a firm and
 cdltcted voice, &quot;I? he gone?&quot;  
 Thus died the &quot;Father of his coun
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_red_ver01:data:sn85025007:00175045946:1899121301:0245/pct:28.398430837455226,74.17203311867526,14.156575132184889,13.040478380864766/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_red_ver01:data:sn85025007:00175045946:1899121301:0245/pct:28.409801580533287,74.17203311867526,14.150889760645859,13.048144740877031/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12108,7 +12108,7 @@ for remaining up so late, especially when he
 was not well. He returned this memorable  
 reply &quot;I came as soon as my business wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_earl_ver02:data:sn85054468:211102214:1899121401:0603/pct:86.24251497005989,36.0871995528228,18.188622754491018,5.34376746785914/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_earl_ver02:data:sn85054468:211102214:1899121401:0603/pct:57.50860907321455,24.058133035215203,12.127564006587813,3.5662381218557853/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12131,7 +12131,7 @@ gathered around his bed, he said, hoarsely:
 attention, but please take no more trouble.  
 about me; I cannot last long.&quot; When th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_japanesechin_ver01:data:sn83045462:00280655302:1899121401:0139/pct:43.285472972972975,18.99859616284511,13.999155405405405,3.821556699422867/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_japanesechin_ver01:data:sn83045462:00280655302:1899121401:0139/pct:43.285472972972975,19.010294805802527,14.014991554054054,3.821556699422867/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12149,7 +12149,7 @@ going; have me decently buried, and do
 not let my body be put in the vault in less  
 than three days after I am dead. Do yo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_japanesechin_ver01:data:sn83045462:00280655302:1899121401:0139/pct:43.433277027027025,23.740446108251444,13.830236486486486,1.8561846825768211/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_japanesechin_ver01:data:sn83045462:00280655302:1899121401:0139/pct:43.43855574324324,23.75214475120886,13.84079391891892,1.8600842302292935/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12166,7 +12166,7 @@ To a suggestion of Col Lear he replied.
 &quot;No you know I never take anything  
 for a cold: let it go as it came.&quot; Whe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_carson_ver01:data:sn85049554:00416159312:1899121401:0100/pct:52.06176522196877,54.93456924754635,14.31830145639586,1.7857142857142858/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_carson_ver01:data:sn85049554:00416159312:1899121401:0100/pct:44.25773093367803,46.70168391781245,12.180570746743562,1.52556774293218/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12189,7 +12189,7 @@ myself going. I thank you for your attentions,
 but I pray you take no more trouble about  
 me.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685166:1899121401:0653/pct:7.882414151925078,56.23640319071791,20.967741935483872,5.511240029006527/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685166:1899121401:0653/pct:7.88036410923277,56.22620989668298,20.96879063719116,5.5147725212978065/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12215,7 +12215,7 @@ your attentions, but I pray you take no
   
 more trouble about me.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_melon_ver01:data:sn84022549:0041562931A:1899121401:0380/pct:11.698584512905912,99.03472122172597,18.50541215653622,5.618786918311483/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_melon_ver01:data:sn84022549:0041562931A:1899121401:0380/pct:8.788004997917534,74.28324448926668,13.890045814244065,4.206886615761418/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12282,7 +12282,7 @@ affected, and spoke with some def
 bsperlty on thf subject On hie  
 g I observed to him that he ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_germany_ver01:data:sn84026844:00202193729:1899121401:1161/pct:0.03139717425431711,34.49781659388646,22.135007849293565,23.799126637554586/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_germany_ver01:data:sn84026844:00202193729:1899121401:1161/pct:0.054945054945054944,34.51146288209607,22.135007849293565,23.80367540029112/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12300,7 +12300,7 @@ JS. the lire, and Mr*. Waahlngton aent hei
 Pi general breathing with difficulty, and  
 hardly able to utter a word Intelligibl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_germany_ver01:data:sn84026844:00202193729:1899121401:1161/pct:0.43956043956043955,69.30494905385736,17.51962323390895,1.9832605531295489/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_germany_ver01:data:sn84026844:00202193729:1899121401:1161/pct:0.43956043956043955,69.30949781659389,17.51962323390895,1.9832605531295489/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12340,7 +12340,7 @@ preased It to my bosom. Or. Cralk put
 his nanas over hi* eyes, an a he expired  
 without, a struggle or ? ni
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_germany_ver01:data:sn84026844:00202193729:1899121401:1161/pct:18.24175824175824,2.510917030567686,32.527472527472526,95.59679767103349/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_germany_ver01:data:sn84026844:00202193729:1899121401:1161/pct:18.2574568288854,2.5154657933042213,32.527472527472526,95.61954148471615/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12398,7 +12398,7 @@ Bet the ietters, but said the weather
 to send a servant up to the of  
 tlening. I observed to him that 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_charlie_ver01:data:sn86071197:00175034936:1899121701:1267/pct:0.7137192704203014,237.50548325778624,40.36478984932593,17.678023102792807/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_charlie_ver01:data:sn86071197:00175034936:1899121701:1267/pct:0.17846519928613921,59.37637081444656,10.09319849296054,4.419505775698202/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12473,7 +12473,7 @@ late, especially when he had a cold.
 He returned the memorable reply:  
 &quot;I came as soon as my business wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_keystone_ver03:data:sn86076366:00279555132:1899122201:0626/pct:36.68264293050325,147.00606700079135,48.28825744608011,16.539171722500658/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_keystone_ver03:data:sn86076366:00279555132:1899122201:0626/pct:9.170660732625812,36.75151675019784,12.072064361520027,4.1347929306251645/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

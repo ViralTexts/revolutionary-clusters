@@ -555,7 +555,7 @@ such deadly sorrow, that I solemnly declare
 butchering enemy, could that contribute to  
 the people s ease.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn97064666:00517016056:1870042801:0174/pct:21.70290591343223,18.570009930486595,14.895346474293843,3.518229536104412/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn97064666:00517016056:1870042801:0174/pct:21.698496546119465,18.56737588652482,14.897399431125558,3.521276595744681/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -790,7 +790,7 @@ intrusted the defence of these exten­
 sive settlements without means ade­  
 quate to the purpose. The regimen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_dunning_ver01:data:sn84022835:00237285050:1894051101:0819/pct:24.107142857142858,214.62997290745759,56.89935064935065,43.69028946242692/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_dunning_ver01:data:sn84022835:00237285050:1894051101:0819/pct:6.0280089303836,53.657493226864396,14.22772478181449,10.92257236560673/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -857,7 +857,7 @@ ing sacrifice to the butchering enemy,
 provided that would contribute to the  
 people&#x27;s ease.&quot; And again, in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_evadeestruction_ver01:data:sn84026965:00294550835:1899030101:0002/pct:43.76490391359237,32.26747011371368,13.494178706690981,3.702983769073768/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_evadeestruction_ver01:data:sn84026965:00294550835:1899030101:0002/pct:43.77425538878758,32.26747011371368,13.48482723149577,3.7094631807431884/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -877,7 +877,7 @@ provided that would contribute to the
 people&#x27;s case.&quot; And again, in 1770:  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_evadeestruction_ver01:data:sn84026965:00294550859:1899030102:0580/pct:45.762962962962966,32.809038546743466,14.059259259259258,4.098360655737705/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_evadeestruction_ver01:data:sn84026965:00294550859:1899030102:0580/pct:45.7679012345679,32.809038546743466,14.059259259259258,4.105745089351647/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

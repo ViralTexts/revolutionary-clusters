@@ -157,7 +157,7 @@ The Count de Cheiza D’Artingnon (so calling himself) was sent, with my horses,
 ftflr A fated m&lt; cling of the HIBERNIAN SOCIETY, for the  
 relief of Emigrants from Ireland, will be held at Mr. Patrick Byrne&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791030201:0003/pct:62.0,47.87294384571753,26.636363636363637,1.285687275477406/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791030201:0003/pct:62.02272727272727,47.87767063717149,26.62878787878788,1.295140858385328/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -174,7 +174,7 @@ Hibernian Society.
 A Special meeting of the Hibernian Society  
 for the Relief of Emigrants from Ireland
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798031501:0004/pct:61.77007299270073,48.65109269027882,16.01277372262774,1.838733986435569/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798031501:0004/pct:61.77577554744526,48.65109269027882,16.029881386861312,1.8500376789751318/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -269,7 +269,7 @@ Society for the Relief of Emigrants&#x27; from Ireland
 The Hibernian society for the relief of  
 emigrants from Ireland, will have it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282309:1883031001:0239/pct:180.3744351194319,295.70088905127267,48.93479664299548,3.9946413347947876/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282309:1883031001:0239/pct:45.108169195996126,73.92522226281817,12.2376493380691,0.9986603336986969/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -322,7 +322,7 @@ weeping Willow in my nureery in the center
 it-ground too wet to do anything to the othe  
 Mound on the left.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pug_ver01:data:sn83045462:00280654802:1891041001:0145/pct:38.16931390207958,53.443928334439285,11.986245292287538,3.410749834107498/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pug_ver01:data:sn83045462:00280654802:1891041001:0145/pct:38.17340756508924,53.44724618447246,11.998526281316522,3.420703384207034/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -458,7 +458,7 @@ SUNDAY, MARCH 19
 bernian Society for the Relief of Emi­  
 grants from -Ireland was held at th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_onamia_ver01:data:sn90059522:00206536822:1895031901:0186/pct:61.69610354590805,74.79009235936188,10.570311446676554,1.2804366078925273/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_onamia_ver01:data:sn90059522:00206536822:1895031901:0186/pct:61.7005977259449,74.79009235936188,10.574805626713406,1.2874335292471313/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -475,7 +475,7 @@ tion but the Friendly Sons of St. Patrick,
 now known as the Hibernian Society for  
 the Relief of Emigrants from Ireland
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_betelgeuse_ver01:data:sn90059959:00271742848:1895101901:0602/pct:30.761537362480354,70.24379625598607,12.230318616945278,1.4910753156290815/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_betelgeuse_ver01:data:sn90059959:00271742848:1895101901:0602/pct:30.766299947611564,70.25105209693804,12.230318616945278,1.4983311565810478/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

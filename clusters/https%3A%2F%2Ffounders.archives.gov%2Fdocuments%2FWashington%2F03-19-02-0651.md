@@ -229,7 +229,7 @@ ing at the expense of so much time, blood
 and treasure ? Shall we at last become the  
 victims of our own lust of gain ? For:id i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349475:1864052001:0118/pct:81.0150891632373,42.511926986102466,12.414266117969822,11.802530595312176/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349475:1864052001:0118/pct:81.00397750651489,42.50751840713471,12.417135280939972,11.804763386221438/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -258,7 +258,7 @@ subjugating this continent eitner by * their
 irms or their arts.&quot;  
 How bitterly ho felt the power of thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349475:1864052001:0118/pct:80.98765432098766,54.82265090230243,12.578875171467764,8.089607965152458/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349475:1864052001:0118/pct:80.97654642710191,54.8169656745826,12.58172175741782,8.092225794185765/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -288,7 +288,7 @@ tion with the essential rights and liberties
 of the present generation, and of millions  
 yet unborn. And scattered through hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn83035143:00280775599:1864072101:0505/pct:208.06223479490805,237.20263685869878,41.937765205091935,11.292633992548009/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn83035143:00280775599:1864072101:0505/pct:52.02475685234306,59.300659214674695,10.48629531388152,2.823158498137002/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -352,7 +352,7 @@ into a shout of victory. Washington’s battle
 for mankind is still unwon.  
 To Reed, then president of Pennsylvania, h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_furio_ver01:data:sn85035816:00332896581:1898022501:0314/pct:44.48640483383686,10.986478180700676,12.273413897280967,5.8543331284572835/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_furio_ver01:data:sn85035816:00332896581:1898022501:0314/pct:44.47800641872758,10.984790290367183,12.275816499905607,5.8572745429405435/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -373,7 +373,7 @@ punishing those miscreants who have
 brought these troubles upon us?  
 I think our political system can
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_kryptonite_ver01:data:sn86069180:00100481790:1899022501:0163/pct:42.55780346820809,36.02046460176991,16.365606936416185,5.904314159292035/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_kryptonite_ver01:data:sn86069180:00100481790:1899022501:0163/pct:31.929887965305387,27.018805309734514,12.287676183592339,4.424778761061947/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

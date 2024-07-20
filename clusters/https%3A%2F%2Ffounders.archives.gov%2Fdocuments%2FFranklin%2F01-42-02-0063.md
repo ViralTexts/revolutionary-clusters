@@ -1180,7 +1180,7 @@ doe9 not follow from thence that thev kn**w h«
 gave light as soon as he rose. This is what l  
 claim a9 my discovery. — Aewark Dai. Jid
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216481:1833071701:0031/pct:40.8918078119599,57.239309827456864,17.663325267888005,8.364591147786946/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216481:1833071701:0031/pct:40.88474166234664,57.232154019252405,17.6660330626116,8.36771263074551/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1549,7 +1549,7 @@ vant. He then anneunees the astounding dis­
 covery, which he claims as his own, and which  
 ho says must be as sew to most of his readers a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00279550304:1846111001:0666/pct:7.309375954392752,62.497408610324094,15.02595948284638,10.185889019418147/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00279550304:1846111001:0666/pct:7.308631921824104,62.493090105030404,15.027823018458198,10.187488483508384/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1644,7 +1644,7 @@ epen. Instead or letting In the light, had only
 served to let out the darkness.&quot;&#x27; No on? win lister,  
 ed last autumn to a reproduction ot thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_newfoundland_ver04:data:sn83045462:0028065453A:1880082601:0575/pct:69.91927489024218,41.55265669742285,14.488032856535902,3.171067981758405/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_newfoundland_ver04:data:sn83045462:0028065453A:1880082601:0575/pct:69.91927489024218,41.55795948669,14.49157343152528,3.1763707710255593/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1703,7 +1703,7 @@ VVe expect only to have the honor of it.
 PERSONAL MENTION, ETC.  
 Our letter has already outreached it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_bullfrog_ver01:data:sn84022060:00332890517:1887051801:0458/pct:58.7363834422658,23.630037692084663,16.971677559912855,7.248477819657872/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_bullfrog_ver01:data:sn84022060:00332890517:1887051801:0458/pct:58.72358963188848,23.626612552543847,16.973426268786756,7.251050876938686/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1872,7 +1872,7 @@ which caso thero would bo no saving in
 tho tiso of it No ono present could  
 satisfy us on that point; but I wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn2006060001:00296023310:1891051501:0582/pct:120.31963470319634,61.66855845629966,21.020874103065886,7.400681044267877/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn2006060001:00296023310:1891051501:0582/pct:80.2446982055465,41.11237230419977,14.013050570962479,4.937570942111237/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1893,7 +1893,7 @@ in the night half a pound of bougios.or
 candles per hour. Taking one family  
 with another, this ho thought a mod
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn2006060001:00296023310:1891051501:0582/pct:120.45009784735812,76.65153234960272,20.874103065883887,5.766174801362088/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn2006060001:00296023310:1891051501:0582/pct:80.32626427406198,51.10102156640182,13.931484502446983,3.847900113507378/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1915,7 +1915,7 @@ tho use of it. No one present could&#x27;
 sati.-fy us on that point; but I was  
 pleased to see tho general concern fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_chelsea_ver01:data:sn85038709:00415669276:1891051501:0694/pct:73.8404452690167,63.87178942899597,22.031539888682747,5.975376777754192/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_chelsea_ver01:data:sn85038709:00415669276:1891051501:0694/pct:49.23457553734344,42.581192952663976,14.689964434822947,3.9906601570791764/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1934,7 +1934,7 @@ Paris, and that thesa families consumo
 in the night half a pound of bougies. or  
 candles per hour. Taking ono famil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_chelsea_ver01:data:sn85038709:00415669276:1891051501:0694/pct:73.94867037724181,77.70112502653365,21.799628942486084,4.2666100615580556/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_chelsea_ver01:data:sn85038709:00415669276:1891051501:0694/pct:49.311891139631975,51.80428783697729,14.535333230245863,2.8444067077053705/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1957,7 +1957,7 @@ ed, in which case there would be no saving
 in the use of it. No one present uld satis­  
 fy us on that point, but 1 was pleased to se
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_hemet_ver01:data:sn94052989:00175040092:1891051701:0163/pct:86.96049028556526,32.34320218153486,11.448689529273699,3.4183872224386445/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_hemet_ver01:data:sn94052989:00175040092:1891051701:0163/pct:86.96483678880341,32.34644851318011,11.45738253574999,3.4183872224386445/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1977,7 +1977,7 @@ ol bougies, or candles, per hour. Taking
 one family with another, this he thought a  
 moderate estimate.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_hemet_ver01:data:sn94052989:00175040092:1891051701:0163/pct:86.92137175642196,39.150759641604985,11.500847568131439,2.2204908453447603/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_hemet_ver01:data:sn94052989:00175040092:1891051701:0163/pct:86.92137175642196,39.15400597325023,11.500847568131439,2.223737176990001/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2118,7 +2118,7 @@ w ould bo no saving in the uso of it No
 ono( , present could satisfy us on that  
 point;, but I -&amp;as pleased to see tho gen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_echo_ver01:data:sn87075048:00237289523:1891070401:0218/pct:42.336309523809526,61.47284617571794,15.829613095238095,7.335797554734149/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_echo_ver01:data:sn87075048:00237289523:1891070401:0218/pct:31.76996091568956,46.10463463178846,11.892797319932999,5.516064827978391/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2139,7 +2139,7 @@ a pound of bougies, or candles, per hour.
 Taking one family with another, this ho  
 thought a moderate estimate. In th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_echo_ver01:data:sn87075048:00237289523:1891070401:0218/pct:42.299107142857146,74.90759169746943,15.866815476190476,4.634631788456071/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_echo_ver01:data:sn87075048:00237289523:1891070401:0218/pct:31.75134933928904,56.18424793858402,11.91140889633352,3.4830821723059424/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2208,7 +2208,7 @@ afforded, in which case there would be no
 saving in the use of it. No one present  
 could satisfy us on that point; hut I wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623914:1891092601:0203/pct:5.981092031641906,54.32347026716461,10.978197954852401,4.395288710140764/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623914:1891092601:0203/pct:5.98752331339636,54.333046059561426,10.971766673097948,4.385712917743943/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2228,7 +2228,7 @@ half a pound of bougies or candies pe
 hour. Taking one family with another  
 this he thought a moderate estimate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623914:1891092601:0203/pct:6.193324329538877,62.98477449008905,10.746671811692071,2.9014650962367137/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623914:1891092601:0203/pct:6.199755611293331,62.994350282485875,10.759534375200978,2.896677200038303/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2250,7 +2250,7 @@ lijjiit it afforded, in which caso there would
 be no saving in the use ol i(. No oue pres­  
 ent could satisfy ih on that point, but 1 wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_hemet_ver01:data:sn94052989:00175040146:1892011001:0103/pct:37.84949046250327,82.93728087261394,11.353540632349098,3.1262173743669655/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_hemet_ver01:data:sn94052989:00175040146:1892011001:0103/pct:37.858200505182474,82.94377353590443,11.353540632349098,3.1294637060122064/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2270,7 +2270,7 @@ of beugie*, or candles per hour. Taking
 one family with another, this he thought a  
 moderate estimate.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_hemet_ver01:data:sn94052989:00175040146:1892011001:0103/pct:37.81029527044682,89.42345149980522,11.39273582440554,2.2204908453447603/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_hemet_ver01:data:sn94052989:00175040146:1892011001:0103/pct:37.81465029178643,89.4299441630957,11.397090845745144,2.223737176990001/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

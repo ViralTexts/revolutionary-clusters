@@ -338,7 +338,7 @@ Stand at another bar than that of laws.&quot;
   
 i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn87065304:0029587806A:1838060901:0344/pct:18.08076225045372,96.69291338582677,47.595281306715066,22.648532569792412/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn87065304:0029587806A:1838060901:0344/pct:13.575482406356413,72.52684323550466,35.73212258796822,16.979241231209734/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

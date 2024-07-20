@@ -932,7 +932,7 @@ The people of the South, we think,
 may well begin to hope that reason is  
 returning to the North, and that the tid
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292960:1867101601:0329/pct:97.44707347447074,21.414827391058292,38.231631382316316,21.097906055461234/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292960:1867101601:0329/pct:24.361768368617685,5.353706847764573,9.557907845579079,5.2744765138653085/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

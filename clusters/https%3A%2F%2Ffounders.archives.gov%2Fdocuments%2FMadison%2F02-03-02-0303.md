@@ -102,7 +102,7 @@ as *‘ a line to be drawn along the middle of the
 river St. Croix, from its mouth, in the bay of  
 Fundy, to its source, and from its source direct
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1815010301:0214/pct:6.887472283813747,28.38395200599925,16.574279379157428,1.5935508061492314/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1815010301:0214/pct:6.896711012564671,28.387076615423073,16.58351810790835,1.5966754155730534/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -118,7 +118,7 @@ uois or Cataraguy *••**. Fast, by a line to be
 drawn along the middle of the river St. Croix, from its  
 mouth In the Hay
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184042:1831041901:0460/pct:50.32210834553441,12.877309767014806,14.978038067349926,1.3772523814989097/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184042:1831041901:0460/pct:50.314741619089446,12.875831994491623,14.980725125652661,1.3809195929921199/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -145,7 +145,7 @@ which forms the northwest angle of Nova Scotia,
 Jeaving it uncertain where is the true boundry  
 between the State of Maine and his Brittanni
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1836112901:0392/pct:7.858752817430504,52.765737874097006,13.794139744552968,5.686274509803922/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1836112901:0392/pct:7.858752817430504,52.76917784657723,13.794139744552968,5.689714482284142/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -220,7 +220,7 @@ dary proceeds as follows : &quot; Fast by a line to
 be drawn along the middle of the river St. Croix  
 ironi its mouth in the bay of Fundy U&gt; it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840123101:0499/pct:49.74563953488372,10.301571211353268,15.970203488372093,1.875316776482514/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840123101:0499/pct:49.757751937984494,10.310018584220307,15.958091085271318,1.8710930900489948/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -326,7 +326,7 @@ would have been useless to treat of it at all with
 any person having before him the records of the  
 diplomatic history of the two countries for the las
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184601:1842091501:0984/pct:15.345990899105601,3.4600447216664705,78.39322140279303,279.5339531599388/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184601:1842091501:0984/pct:5.114527769061814,1.1532125205930808,26.12697416588223,93.16701969090767/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -353,7 +353,7 @@ would have been useless to treut of il at all with any
 person having before him the records of the diplomatic  
 history of the two countries for the last half century
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664266:1842091601:0238/pct:82.18125960061444,22.871909201459264,16.682027649769584,6.019456830158087/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664266:1842091601:0238/pct:82.18125960061444,22.871909201459264,16.682027649769584,6.026212673962978/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -438,7 +438,7 @@ I would have been useless to treat of it at all with any
 person having before him the records of the diplomatic  
 history of the two countries for the lust half 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661290:1842111801:0482/pct:64.93752965364543,13.60598164721876,17.096315040328957,7.284468109210377/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661290:1842111801:0482/pct:64.9480731720175,13.609757939654846,17.096315040328957,7.284468109210377/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

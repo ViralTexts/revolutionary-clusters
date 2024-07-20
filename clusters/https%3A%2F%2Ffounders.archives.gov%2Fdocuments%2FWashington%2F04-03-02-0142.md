@@ -139,7 +139,7 @@ and there dwell in peace, fulfilling the first and
 great commandment.”  
 Washington would encourage the pacifie an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153267:1845123101:0592/pct:57.38089039312679,66.61813643926789,12.418640978911741,2.984608985024958/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153267:1845123101:0592/pct:57.38089039312679,66.62160288408208,12.422980126703116,2.995008319467554/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -178,7 +178,7 @@ western country, the second land of prom­
 ise, and there dwell iu peace, fulfilling  
 the first and great commandment.”—{T
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fireweed_ver01:data:sn83016209:00383342387:1856031501:0062/pct:30.029861888764465,47.51019219569016,14.483016050765212,4.207920792079208/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fireweed_ver01:data:sn83016209:00383342387:1856031501:0062/pct:23.277566173279975,36.82013089596028,11.233788149076707,3.2686376288272023/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -226,7 +226,7 @@ To Henry Lee he wrote under date of Eount Vernon,
 June 18th, 1.86:  
 The advan ages
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271743269:1857080401:0806/pct:24.85273045693361,85.51506972559604,45.804808151568224,15.92442645074224/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271743269:1857080401:0806/pct:8.284243485644536,28.50502324186535,15.268269383856074,5.308142150247414/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -422,7 +422,7 @@ country, the second land of promise, and
 there dwell in peace, fulfilling the first  
 and great commandment.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_volvo_ver01:data:sn00065127:00295876529:1899021701:1076/pct:76.394518432735,95.74788077659284,15.653348774367883,9.17418649165983/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_volvo_ver01:data:sn00065127:00295876529:1899021701:1076/pct:66.85244609581714,83.78195158910556,13.691380960423352,8.031263707780038/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -453,7 +453,7 @@ country, the second land of promise, and
 there dwell in peace, fulfilling the first  
 and great commandment.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_volvo_ver01:data:sn00065127:00295876529:1899021701:1078/pct:76.31123919308358,95.64980226373926,15.542747358309319,9.136778944497477/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_volvo_ver01:data:sn00065127:00295876529:1899021701:1078/pct:66.77686876611006,83.69262588497335,13.605289700773282,8.00652294964601/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -622,7 +622,7 @@ there dwell in peace, fulfilling the first
 and great commandment.  
 IMgnlty and Usefulness
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_pearsoll_ver01:data:sn93051659:00295868788:1899022401:0091/pct:60.64425770308123,72.44475138121547,15.878851540616246,29.585635359116022/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_pearsoll_ver01:data:sn93051659:00295868788:1899022401:0091/pct:45.49115741551392,54.33701657458563,11.924356504990369,22.196132596685082/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -674,7 +674,7 @@ civil war against the flank and rear of
 Col. Coburn’s regiment at the battle of  
 Thompson&#x27;s Station, Tennessee, he wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346836:1899051801:0059/pct:57.30763820509214,33.13032886723508,12.153608102405402,8.027903886612778/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346836:1899051801:0059/pct:57.30763820509214,33.13032886723508,12.162985886435035,8.038976857490864/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -697,7 +697,7 @@ amusements than in preparing imple­
 ments and exercising them for the des­  
 truction of mankiond.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_gargoyle_ver02:data:sn92064114:00514153401:1899052701:0756/pct:4.997604981638193,8.858247153452417,19.86268561392304,7.092865350464849/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_gargoyle_ver02:data:sn92064114:00514153401:1899052701:0756/pct:5.0029272446644315,8.865211184233434,19.868007876949278,7.092865350464849/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

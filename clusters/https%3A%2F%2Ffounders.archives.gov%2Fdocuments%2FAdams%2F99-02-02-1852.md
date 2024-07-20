@@ -34,7 +34,7 @@ also, two additional statements marked A and B, exhibiting the respective
 value of the several species of articles of domestic produce, exported during  
 the years, ending on the 30th day of Sept. 1803, and 1804
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805030801:0003/pct:1.736806947227789,5.158346010233716,36.89601425072367,4.4807080625086435/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805030801:0003/pct:1.7516514510502486,5.162955792191029,36.88859199881244,4.485317844465957/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -53,7 +53,7 @@ and merchandise, exported from the
 United States during one year prior to  
 thi first day of October, 1806, anil a 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807030601:0002/pct:40.53413741115658,8.993050824362992,19.104027568382513,3.297451968933097/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807030601:0002/pct:40.53413741115658,8.993050824362992,19.12556536721947,3.3019939137938867/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -75,7 +75,7 @@ The produce and manufacture of foreign countries,
 commencing the 1st of October, 1805, and ending  
 on the 30th September, 1S06.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807032701:0435/pct:49.350330963471436,15.552678426929925,20.911988232409904,6.522090953228678/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807032701:0435/pct:49.338235294117645,15.550161812297734,20.912990196078432,6.525080906148867/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -140,7 +140,7 @@ merchandize, exported from the United
 States during one year prior to the 1st  
 day of October 1807, and amounting t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1808040701:0365/pct:66.11215454789375,17.55207114439504,26.375100617118324,6.716592557921834/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1808040701:0365/pct:66.09442060085837,17.547964436125408,26.376967095851217,6.722820152862268/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -187,7 +187,7 @@ a statement of goods, wares and merchan­
 dize exported from the United States, dur­  
 ing one year prior to the 1st day of October
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812020301:0045/pct:5.3013798111837325,47.04979938635827,16.757443718228032,2.1949492565494455/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812020301:0045/pct:5.300417498638591,47.04424778761062,16.760452592727052,2.1986234021632254/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

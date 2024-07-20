@@ -144,7 +144,7 @@ shall then:‘appear in favour of such Srate
 until provision shall be made for the  
 said balance. i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790061001:0605/pct:49.28311057108141,28.569037656903767,20.65613608748481,10.97907949790795/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790061001:0605/pct:49.291211016605914,28.569037656903767,20.67233697853382,10.99023709902371/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -171,7 +171,7 @@ settlement of accoints between the U­
 nited States and the individual States ;  
 and in case a balance
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790082601:0649/pct:49.73721930243669,77.62439807383628,20.592451027233636,11.396468699839486/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790082601:0649/pct:49.73721930243669,77.62974852862493,20.61634018155757,11.401819154628143/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -235,7 +235,7 @@ furesasarej in his opinion, expedient
 to be taken qin the fubjeft.  
 The house then, according to the o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1791110301:0001/pct:49.16286149162862,54.20684439402534,17.04718417047184,12.00605029306107/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1791110301:0001/pct:49.16920345002537,54.22102476838722,17.072552004058853,12.01077708451503/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -263,7 +263,7 @@ sures as are in his opinion, expedient to
 be taken on the fubje&amp;t.  
 The order of the day being the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791112301:0911/pct:27.852430979721476,15.008753780041381,20.98705106279013,10.69552761419704/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791112301:0911/pct:27.852430979721476,15.014059101278582,21.011483019789885,10.70083293543424/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1236,7 +1236,7 @@ An obvious basis of this eftablifliment, which
 may be immediately contemp ated, is the amount  
 of the interest on so much of he debt as has bee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792021301:0001/pct:8.028083028083028,12.892529744489956,86.53846153846153,81.8022235225278/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792021301:0001/pct:8.043345543345543,12.902282036278525,86.52319902319903,81.8022235225278/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1278,7 +1278,7 @@ debt of the country w;ll keep pace with the reasonable hopes of its citizens.
 All which is humbly submitted.  
 ALEXANDER HAMILTON, Secretary of the Treasury.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792021301:0004/pct:5.7534246575342465,5.024342745861733,42.343987823439875,19.123661148977604/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792021301:0004/pct:5.7534246575342465,5.0389483933787735,42.35920852359209,19.109055501460563/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1402,7 +1402,7 @@ require, that their election should befiee.
 *-)a ground, the complaint which regards the withholding  
 • &lt; ri tetnwotaiy paymeot of interest, except on the onditi«» of a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792030701:0001/pct:6.505871152015233,24.85242030696576,29.165344335131703,69.97245179063361/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792030701:0001/pct:6.521739130434782,24.867178276269186,29.165344335131703,69.97737111373475/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1680,7 +1680,7 @@ In puriuatice of 1 hat intention, it appears advifeable, that a sys­
 tematic plan should be begun for the creation «nd eftabhflimeot  
 a finking fund.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792030701:0001/pct:29.260552205649,5.21448248720976,64.67788003808315,89.70877607241243/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792030701:0001/pct:29.27642018406855,5.229240456513184,64.6620120596636,89.70877607241243/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1747,7 +1747,7 @@ may be indulged, that a redu&amp;ion of the debt of thepountry will
 keep pace with the reasonable hopes of its citizens.  
 All which is humbly submitted.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792031001:0001/pct:7.730518472524061,17.316017316017316,27.569077926109905,31.109799291617474/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792031001:0001/pct:7.73828003725551,17.316017316017316,27.576839490841355,31.114718614718615/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1824,7 +1824,7 @@ debt of every State contracted in support of the war is
 embraced in one general and comprehensive plan of pay.  
 ment
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743543:1866032201:0691/pct:151.02669404517454,233.07459066100668,45.619438740588635,11.643420254699818/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743543:1866032201:0691/pct:50.342231348391515,77.69153022033555,15.206479580196213,3.8811400848999393/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1842,7 +1842,7 @@ debt of every Mate, contracted In eupport of the
 war, Is embraced In one general and comprehen­  
 sive plan of payment.&#x27;*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_illinois_ver02:data:sn82014064:no_reel:1866032201:0001/pct:20.907372400756145,16.55450874831763,9.073724007561436,1.1215791834903543/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_illinois_ver02:data:sn82014064:no_reel:1866032201:0001/pct:20.921550094517958,16.565724540152534,9.064272211720226,1.132794975325258/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1861,7 +1861,7 @@ support of the war is embraced in one gen­
 eral and comprehensivs plan of payment.&quot;  
 A resolution was reported fsom the Frint
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn85042437:00280775551:1866032201:0076/pct:306.353591160221,83.12678741658722,39.29558011049724,7.571837123791366/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn85042437:00280775551:1866032201:0076/pct:76.58839779005525,20.781696854146805,9.82389502762431,1.8929592809478415/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1898,7 +1898,7 @@ r that year, since which period no paymeut has
 ; been made. Provision was subsequently made  
 t for their payment, principal and interest, i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_newfoundland_ver04:data:sn83045462:00280654565:1881102201:0092/pct:69.91668836240562,44.725532330533305,14.605571465764124,9.92381324477437/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_newfoundland_ver04:data:sn83045462:00280654565:1881102201:0092/pct:69.92319708409268,44.730416096893926,14.618588909138245,9.92625512795468/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

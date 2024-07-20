@@ -193,7 +193,7 @@ and transmitted tothe United States in Congress as.
 {fembled,in foch mode as they {hall dire&amp; snd appoiat,  
 From the Philadelphia Freeman’s Fournal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1783070501:0383/pct:34.778982485404505,67.8575203466864,26.9557964970809,15.209808688299335/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1783070501:0383/pct:34.778982485404505,67.8610435824261,26.9557964970809,15.21685515977874/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -349,7 +349,7 @@ illy determining the proportions to
 be borne by the feveral ftates of the ex­  
 petices of the war, was as completely 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804021701:0002/pct:3.191256830601093,43.99724328049621,18.601092896174862,14.334941419710544/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804021701:0002/pct:3.1985428051001823,43.99724328049621,18.62295081967213,14.353319549735815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -377,7 +377,7 @@ number of inhabitants of every age, sex and comlijLioo in­
 three-fifths of all other persons not con,ptehended m the lore  
 •tfttt&#x27;t&quot;8” CM:npt,0,&gt;* VXCCpl lnd“,,?* m&gt;* paying taxes, i„ eac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184315:1829111001:0340/pct:78.69322709163346,7.969685857474636,17.657370517928285,2.114655910035448/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184315:1829111001:0340/pct:78.68068833652008,7.968711806404302,17.659868281283195,2.1184714413753767/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -397,7 +397,7 @@ of all other person* not comprehended in the fore­
 going descrintiou, except Indiana, not paying taxes, in  
 each State.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1829111401:0147/pct:2.9185185185185185,13.474119132331,30.844444444444445,81.51038677837714/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1829111401:0147/pct:2.918086209450452,13.47257287124168,30.844813114106554,81.50485808277867/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -595,9 +595,9 @@ State’’—this being the rule, as Mr. Madison re
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1842-10_11_52/page/n7/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1842-10_11_52/page/n7/mode/1up?view=theater)
 
-#### 1842-10-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1842-10-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -736,7 +736,7 @@ of all other persons except Indians not paying
 taxes in each State. (Story Comm. 2. 112.)  
 3d. Why should States agree to pay direc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn83035487:00211100473:1847041601:0362/pct:66.10169491525424,103.66468163078332,18.01856335754641,5.359596885020614/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn83035487:00211100473:1847041601:0362/pct:49.60629921259842,77.75232859978622,13.527155259438723,4.031149793861658/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -796,7 +796,7 @@ of all other persons not comprehended in the
 luregutng description, ricrpt Indiana not paying &#x27;  
 taaea in auch Stale;&quot; w|,ich WM adopted, It) to I. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:0041566137A:1850062601:0756/pct:56.00390952247975,58.27654429544955,13.976542865121475,3.154539459221807/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:0041566137A:1850062601:0756/pct:56.00856371590803,58.27654429544955,13.985851251978032,3.165530885908991/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -816,7 +816,7 @@ condition, including those hound to servitude lor a term
 prehended m the foregoing description, except Indians  
 not paying taxes, in each State;”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348367:1851041201:0341/pct:5.234267790629288,51.7135263673241,14.683395412664183,2.4898587214995103/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348367:1851041201:0341/pct:5.233241865934928,51.70629370629371,14.685417483339867,2.493006993006993/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -837,7 +837,7 @@ turee-fifths of all other persons, not compre
 hended in the foregoing description, except In­  
 dians not paying taxes, in each State.&quot; Thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_pearse_ver01:data:sn82015753:0021247535A:1853052701:0557/pct:9.053833605220229,206.73076923076923,40.98694942903752,11.126373626373626/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_pearse_ver01:data:sn82015753:0021247535A:1853052701:0557/pct:3.0179445350734095,68.91025641025641,13.66231647634584,3.708791208791209/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -864,7 +864,7 @@ have referred to black otizens; then you will
 observe, by reference to the Constitution,  
 that all distinction as to complexion in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279523970:1857032701:0475/pct:135.25260625501204,219.90421029182446,37.690457097032876,23.034083314769436/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279523970:1857032701:0475/pct:45.076972418216805,73.29323978171288,12.561471028437031,7.67717266213758/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -886,7 +886,7 @@ comprehended in the foregoing description ;&quot; here
 you will observe that there is a distinction &#x27;in their  
 mind; the whole number ot while citizens&quot; an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn83035487:00211100497:1857040401:0570/pct:51.410998552821994,105.79868708971554,17.81837916063676,4.772975929978118/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn83035487:00211100497:1857040401:0570/pct:38.58125226203402,79.34901531728666,13.373145132102787,3.5831509846827134/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -906,7 +906,7 @@ comprehended in the foregoing description, except
 Indians not paying taxes, in each State.&#x27;&#x27;  
 ist. The whole number of white citizens i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1857043001:0080/pct:1.4501366932128847,88.81196344502908,13.039343872578153,2.8247022985322627/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1857043001:0080/pct:1.458060937438092,88.81811748053786,13.043305994690757,2.82162528077787/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -926,7 +926,7 @@ and condition, including persons not compre­
 hended in the foregoing description, except In­  
 dians not paying taxes, in each State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021205:00517171906:1857051201:0430/pct:7.89423261161142,61.79354094579008,15.750143705690745,3.0565167243367934/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021205:00517171906:1857051201:0430/pct:6.127802801564124,47.897500838020036,12.206108003761818,2.376252374390108/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -946,7 +946,7 @@ condition, including persons not compre­
 hended in the foregoing description, except  
 Indians not paying taxes, in each State.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279523970:1857051501:0499/pct:56.50996015936255,271.1192538307795,37.59362549800797,8.738618698645347/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279523970:1857051501:0499/pct:18.833652007648183,90.36305096036416,12.529211812194603,2.912549498538174/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -974,7 +974,7 @@ ing persons not comprehended in the foregoing
 ! each state.”   
 Ist ihe whole number of white citizens is dcsig
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040308:00514151362:1857052101:0498/pct:26.76717394396245,78.72293658643807,11.477741430806429,1.4726893065171998/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040308:00514151362:1857052101:0498/pct:26.76717394396245,78.7302633989083,11.48722324941924,1.4726893065171998/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1036,7 +1036,7 @@ hended in the foregoing description except
 Indians not paying taxes, in each Sta&#x27;e &quot;  
 1st. The whole number of white citizen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775381:1857061101:0110/pct:20.69190600522193,92.70952199822493,14.3766318537859,4.450361354127044/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775381:1857061101:0110/pct:15.526530612244898,69.5321414986687,10.791836734693877,3.3472803347280333/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1103,7 +1103,7 @@ ersnns, not comprehended in the foregoing
 eseriplion, except Indians urn paying mxes  
 i eaeii State.&quot; On the vole upon this re?o!uion
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664382:1860071701:0239/pct:51.778814123917385,34.46720909714734,12.325116588940705,4.352514459366729/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664382:1860071701:0239/pct:51.778814123917385,34.46720909714734,12.333999555851655,4.359049766362775/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1144,7 +1144,7 @@ United States. Carrying into effect his
 view as to the ultimate cinancipatiou of  
 the blacks, in this same plan, he gives th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:00332895035:1863031301:0668/pct:83.54379635197435,28.112684279667203,12.888354379635198,9.297912713472487/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:00332895035:1863031301:0668/pct:83.52705410821643,28.108581436077056,12.890781563126252,9.300204319906596/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1204,7 +1204,7 @@ that the supplies to the &quot;common treasury&quot; should
 be &quot;in proportion to the value of all land within  
 each State granted or surveyed for any person, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fortran_ver01:data:sn83030214:00206530947:1870041301:0750/pct:248.13972380178717,47.69767441860465,47.06742485783916,5.441860465116279/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fortran_ver01:data:sn83030214:00206530947:1870041301:0750/pct:82.71324126726239,15.89922480620155,15.689141619279718,1.813953488372093/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1226,7 +1226,7 @@ cept Indians not paying taxes.&quot; This is almost identi
 cal with the slave representation afterward established  
 by the South and put into the Constitution three year
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fortran_ver01:data:sn83030214:0020653106A:1870100801:0278/pct:102.50930872591873,224.40245845663554,48.146349360531005,11.939449123605737/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fortran_ver01:data:sn83030214:0020653106A:1870100801:0278/pct:34.16976957530624,74.80081948554519,16.048783120177,3.9798163745352455/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1331,7 +1331,7 @@ cept Indians not paying taxes, in each State.
 A tax levied in proportion to the value of­  
 s land within each State is a tax upon lan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175045193:1895051901:0823/pct:5.205905205905206,109.8360655737705,58.74125874125874,12.81117182756527/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175045193:1895051901:0823/pct:1.3019821220365333,27.459016393442624,14.691022153128644,3.2027929568913174/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1364,7 +1364,7 @@ ther persons not comprohended in the foregoing de
  trintion, except Indians not paying taxes, in each  
 Stat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175045193:1895051901:0823/pct:2.797202797202797,185.06375227686704,62.31546231546231,36.30843958712811/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175045193:1895051901:0823/pct:0.6995724834823164,46.26593806921676,15.58492032646716,9.077109896782028/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

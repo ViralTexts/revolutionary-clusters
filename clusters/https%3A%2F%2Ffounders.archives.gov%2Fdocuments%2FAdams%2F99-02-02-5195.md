@@ -146,7 +146,7 @@ efit of such of the England statues as
 existed at the time of their first emigra­  
 tion, and which by experience hav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624451:1851030801:0343/pct:26.741071428571427,49.64460590743958,19.397321428571427,5.591533722950561/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624451:1851030801:0343/pct:20.730019605581823,38.47880197494593,15.044400876484834,4.337536214142898/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -168,7 +168,7 @@ great and inestimable privilege of being tried by their peers
 or me vicinage accenting to tne course 01 tnat law.&quot; Thus,  
 amidst the troubles whloh heralded the Revolution, th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035044:00296027133:1852093001:0145/pct:29.658284977433915,36.50835765455028,15.683430045132173,3.4757230034491906/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035044:00296027133:1852093001:0145/pct:22.250886810706223,27.38126824091271,11.770396646243148,2.613425311753781/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -247,7 +247,7 @@ understand it, it was the right of the peo­
 ple to frame their own government.—  
 Well, fellow citizens, now was thot to b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159348:1858011601:0222/pct:47.47738076982058,31.92406242720708,12.835454684864285,2.3060796645702304/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159348:1858011601:0222/pct:47.47738076982058,31.93182700520227,12.850789756172366,2.3138442425654167/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -286,7 +286,7 @@ ject. nevertheless, to the resisiok of ani
 amendment or repeal by the Legislature  
 of this State; and the inhabitants o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016179:00296026207:1864092201:0155/pct:2.8201904077600144,32.111234089651354,11.262798634812286,12.299391256225789/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016179:00296026207:1864092201:0155/pct:2.826178073169271,32.11584578491053,11.262798634812286,12.308614646744143/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -320,7 +320,7 @@ ject, nevertheless, to the revision of nnd
 amendment or repeal by the Legislature j  
 of this State; and the inhabitants of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016179:00296026207:1864092901:0159/pct:2.3982558139534884,34.77118761233237,11.64607558139535,9.885248168118347/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016179:00296026207:1864092901:0159/pct:2.404312015503876,34.77118761233237,11.640019379844961,9.885248168118347/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -347,7 +347,7 @@ hie to their loeal and other circumstances, !
 tin 1 have been introduced, used and prac- j  
 tised by the courts of law or equity, and 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016179:00296026207:1864100601:0163/pct:3.2328369051943335,34.38359933957072,11.423901198692336,6.494221243808475/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016179:00296026207:1864100601:0163/pct:3.2328369051943335,34.38818565400844,11.442063203777698,6.4988075582461935/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -378,7 +378,7 @@ visions of this constitution, subject, nevertheless, to the
 revision of and amendment or repeal by the Legislature  
 of this State; and the inhabitants of Maryland are als
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:0027174349A:1864103101:0505/pct:157.17506844902562,211.5808614615297,44.95087775809309,19.274917604273213/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:0027174349A:1864103101:0505/pct:52.391689483008534,70.5269538205099,14.983625919364364,6.424972534757738/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -492,7 +492,7 @@ hors, my head disapprovosand my pen
 have ever avoided. I am no Pharise ■,  
 suit or Maoehiavilian. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn85033153:00271769738:1877020101:0642/pct:18.58370855505526,13.393973848777714,11.379451494064675,31.802160318362706/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn85033153:00271769738:1877020101:0642/pct:17.659004493605256,12.724130481745517,10.819218804009678,30.211708792395765/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -529,7 +529,7 @@ that time Christianity was, and is to
 the present day, a part of the com­  
 mon law of England. Although th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn96061108:no_reel:1887120101:0321/pct:45.88953114964676,206.7667292057536,32.70712909441233,9.931207004377736/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn96061108:no_reel:1887120101:0321/pct:15.296510383215585,68.92224306858454,10.90237636480411,3.310402334792579/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

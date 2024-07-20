@@ -55,7 +55,7 @@ to Colonel Burbcck.
 1 he following [■&gt; cftablifhed with refpeA to the  
 other bat aliotis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799052501:0003/pct:73.00997911348341,16.07246376811594,16.407519145973545,12.826086956521738/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799052501:0003/pct:73.02158273381295,16.07246376811594,16.419122766303087,12.83695652173913/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -97,7 +97,7 @@ to Colonel Burbeck.
 The following is eftablilhed with refped to the  
 other bat i aliens
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799052801:0004/pct:28.25382121352478,8.883176235361326,16.280685502547474,12.253641816623821/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799052801:0004/pct:28.25382121352478,8.89031705227078,16.30384437239463,12.246500999714367/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -142,7 +142,7 @@ to Colonel Burbeck.
 The following is eftabliftied with r:;.rped to the  
 other bat talions
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799052901:0004/pct:28.067266698247277,7.564362163725773,16.627190904784463,14.376627133352617/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799052901:0004/pct:28.08503079109427,7.56797801562048,16.62126954050213,14.380242985247325/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -185,7 +185,7 @@ to Colonel Burleck.
 The following is eftablilhed with refpeil to the  
 other battalions
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799053001:0004/pct:27.85281788542152,8.187804179788147,16.301816488122963,12.63956484397366/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799053001:0004/pct:27.86446204005589,8.198539937016891,16.30763856544015,12.64672201545949/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -231,7 +231,7 @@ to Colonel Burlteck.
 The following iteftablifhed with refpe«si to the  
 other battalions
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799053101:0004/pct:28.693839740620657,5.918601318429349,16.280685502547474,14.244769274863858/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799053101:0004/pct:28.693839740620657,5.925766695328174,16.30384437239463,14.24835196331327/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -277,7 +277,7 @@ to Colonel Burbeck.
 The following h established with rcfpeil to the  
 other bafalions
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799060101:0004/pct:28.537846732487072,6.2481962481962485,16.384579219558063,14.357864357864358/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799060101:0004/pct:28.543723554301835,6.255411255411255,16.40220968500235,14.365079365079366/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -323,7 +323,7 @@ to Colonel Burbeck.
 The following iseftablifhed with refpe&amp; to the  
 other battalions
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799060401:0004/pct:24.619289340101524,4.986642920747997,16.312874942316565,14.766993173048382/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799060401:0004/pct:24.63659437009691,4.994063520332443,16.324411628980158,14.778124072425053/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -365,7 +365,7 @@ to Colonel Burl.eck.
 The following is el-tablifhed with rcfpevl to the  
 other battalions
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799060601:0004/pct:29.525564256103177,6.033247348810548,16.628281897742976,14.345084551447407/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799060601:0004/pct:29.54283740211884,6.043995414158784,16.622524182404423,14.348667239896818/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -405,7 +405,7 @@ to Colonel Burl.eck.
 The following is efttiblilhed with to the  
 other battalions
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799060801:0004/pct:28.871937124364308,8.273484630853202,16.134997688395746,12.640045963803505/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799060801:0004/pct:28.883495145631066,8.280666475150818,16.134997688395746,12.636455041654697/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -450,7 +450,7 @@ to Colonel Burbeck.
 The following i* established with to the  
 other battalions
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799061301:0004/pct:25.252525252525253,6.072578285045362,16.85906685906686,14.559555165349723/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799061301:0004/pct:25.252525252525253,6.0835528241147205,16.87109187109187,14.566871524729295/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -487,7 +487,7 @@ let ved for the service of th j field.
 The definitive arrangements of officers to tne re-  
 cemnanies ot the battalion «&gt;f tilt iiri, u 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799061401:0004/pct:27.91724779172478,6.833095577746077,16.82938168293817,12.211126961483595/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799061401:0004/pct:27.923059042305905,6.840228245363766,16.82938168293817,12.21469329529244/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -523,7 +523,7 @@ to Colonel burbeck.
 The follo wing ii eftabliftied with refpe dto the  
 other bafalicns
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799061501:0004/pct:27.83481101259916,10.563985113083309,16.518898740083994,10.62124248496994/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799061501:0004/pct:27.83481101259916,10.567563698826223,16.5363975734951,10.631978242198683/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -563,7 +563,7 @@ to Colonel BurLeck.
 The following is elUblilhed with refpeit to the  
 other battalions
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799062201:0004/pct:45.93157651410078,13.746049985636311,16.250577901063338,11.31858661304223/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799062201:0004/pct:45.948913546000924,13.756822752082735,16.250577901063338,11.314995690893422/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -607,7 +607,7 @@ to Colonel BurLeck.
 The following is eilabllfhed with refpeilto the  
 other battalions
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799062401:0004/pct:45.777262180974475,11.484753491023083,16.357308584686773,14.348817326873753/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799062401:0004/pct:45.78886310904873,11.495440296380735,16.3631090487239,14.338130521516101/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -649,7 +649,7 @@ to Colonel Burbeck.
 Ths following is eflablifhed with refpeil to the  
 other bat ralii.ns
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799062501:0004/pct:46.400187003272556,12.35327798454051,16.3627863487611,12.739765244775265/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799062501:0004/pct:46.411874707807385,12.36043515602634,16.36863020102852,12.746922416261093/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -691,7 +691,7 @@ to Colonel Burbeck.
 The Following is eft ab lifted with j-efpeA to the  
 other bacralions
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799062601:0004/pct:46.38112688960147,12.368045649072753,15.987173614292258,12.653352353780313/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799062601:0004/pct:46.39257901969766,12.368045649072753,15.992899679340358,12.667617689015692/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -109,7 +109,7 @@ Mr. Adams had, from the beginning, given hi
 
 ---
 
-## [From _The American review : a Whig journal of politics, literature, art, and science_](https://archive.org/details/sim_american-whig-review_1849-07_10_19/page/n26/mode/1up?view=theater)
+## [From _The American Review: a Whig Journal Devoted to Politics and Literature (1848-1850)_](https://archive.org/details/sim_american-whig-review_1849-07_10_19/page/n26/mode/1up?view=theater)
 
 #### 1849-07-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -174,7 +174,7 @@ estroy tir best Abrie of human porerament and hunptnert
 Aat has eer teen presented for the geveptance of mankiad.&quot;  
 Wasdington&#x27;s attacks upon the democratic s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530303:1850020501:0359/pct:88.39071257005604,141.561653515487,40.97678142514011,41.05523495465787/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530303:1850020501:0359/pct:29.463570856685347,47.18721783849566,13.65892714171337,13.685078318219292/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -400,7 +400,7 @@ sions with au eloquence and force of their father. Genet, for purposes well
 logic which finally drove Jefferson j known to the government, they would  
 from the Cabinet and into private life, i shake the government to its founda
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn83035595:00296026645:1867011801:0236/pct:21.842105263157894,54.51231774761187,26.374269005847953,14.592760180995475/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn83035595:00296026645:1867011801:0236/pct:16.396080152113502,40.88738059326295,19.78938130759105,10.947712418300654/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

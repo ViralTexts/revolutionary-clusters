@@ -45,7 +45,7 @@ P.S. Feb. 26. On the day of the date of this letter the news of peace reached Wa
 It was Jefferson who said: “Our militia are  
 heroes when they have heroes to lead them on.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210120:1885091701:0147/pct:35.196967645864355,85.36869717283591,14.457831325301205,0.8549499659963081/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210120:1885091701:0147/pct:35.196967645864355,85.3719356196768,14.475881052299084,0.8581884128372033/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -67,7 +67,7 @@ ilium of the I&#x27;nited States: a fund
 of credit sufficient to carry us  
 through any probable length o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887090801:0160/pct:31.77570093457944,53.346774193548384,12.931527751287431,4.435483870967742/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887090801:0160/pct:31.769641495041952,53.33960489181562,12.933829138062547,4.438247547372665/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -89,7 +89,7 @@ dium of the United 8tales: a bind
 of credit sufficient to carry us  
 through any probable length o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887091501:0163/pct:42.027632561613146,61.60183684494868,12.471994025392084,4.443544030253917/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887091501:0163/pct:42.01978719432518,61.59351789331533,12.474332648870636,4.446320054017556/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -112,7 +112,7 @@ dium of the t ailed Stales; a fund
 of* credit sufticient to carry us  
 through any probable length o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887092201:0167/pct:55.21828742739367,61.43340094658553,12.53513209668353,4.4083840432724815/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887092201:0167/pct:55.2079430498314,61.42509464575446,12.537467216185837,4.411168199026501/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -134,7 +134,7 @@ dium of the United States: a fund
 of credit sufficient to carry us  
 through any probable length o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887092901:0171/pct:56.07843137254902,61.37744767049291,12.474323062558357,4.388926401080351/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887092901:0171/pct:56.067961165048544,61.36916014042668,12.476661687826736,4.39170942479071/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -156,7 +156,7 @@ dium of the (&#x27;idled Stales: a fund
 of credit suffleient to curry us  
 through any probable length id
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887100601:0175/pct:57.016220294228596,61.57582298974636,12.561297623538287,4.384781435509984/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887100601:0175/pct:57.00546860267773,61.567516525023606,12.563643220818404,4.387562390395251/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -178,7 +178,7 @@ dium of the United States; a fund
 of credit sufficient to carry us  
 through any probable length o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887101301:0179/pct:55.04169825625474,61.165834570233436,12.907505686125853,4.3583861827013894/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887101301:0179/pct:55.03126776577601,61.15758229897464,12.909797233276484,4.361171073934161/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -200,7 +200,7 @@ dium of the United States; a fund
 of credit sufficient to carry 11s  
 through any probable length n
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887102001:0183/pct:55.88682111659704,61.43667296786389,12.685150018989745,4.374831217931407/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887102001:0183/pct:55.8762103664325,61.428378560820846,12.687488133662427,4.377615768867288/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -222,7 +222,7 @@ dium of the I’nited States: a fund
 of credit sutticient to oun„\ us  
 through any probable length o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887102601:0187/pct:55.0531914893617,61.69436562626672,12.689969604863222,4.3912984731793/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887102601:0187/pct:55.042735042735046,61.68603080248582,12.692307692307692,4.39408268035666/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -244,7 +244,7 @@ dium of the United States: a fund
 of credit sufficient to carry us  
 through any probable length o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887110201:0191/pct:56.3869992441421,61.38586956521739,12.64172335600907,4.415760869565218/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887110201:0191/pct:56.3763461175137,61.37753022687135,12.644058190062346,4.418557261241679/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -266,7 +266,7 @@ dium of the United States: a fund
 of credit sufficient to carry us  
 through any probable length o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887110901:0195/pct:55.3304298428328,61.82386518075564,12.611247869721643,4.403370481108997/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887110901:0195/pct:55.31995456266566,61.81546405761652,12.61359333585763,4.406169316483218/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -288,7 +288,7 @@ dium of the United States: a fund
 of credit sufficient to carry us  
 through any probable length o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887111601:0199/pct:55.46395705521472,61.500815660685156,12.76840490797546,4.404567699836868/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887111601:0199/pct:55.45332566609162,61.492456164197364,12.770749472877132,4.407367133342395/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -311,7 +311,7 @@ dium of the I&#x27;nited States: a fund
 of credit sufficient to curjy us  
 through any probable length o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887120701:0211/pct:68.88512878360594,59.994622933189945,12.464749012972364,4.355424116144643/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887120701:0211/pct:68.87218045112782,59.986559139784944,12.467105263157896,4.358198924731183/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -336,7 +336,7 @@ war.”—Jefferson’s works, Yol. YI,
 ) P. 4PJ.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887121401:0215/pct:67.60670731707317,60.8124576844956,12.976371951219512,6.323628977657414/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887121401:0215/pct:67.59382739569442,60.804224207961006,12.978662602400457,6.326157595450853/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -358,7 +358,7 @@ dium of the United States: a fund
 of credit sufficient to carry us  
 through any probable length o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888011101:0227/pct:69.51566951566952,60.67143049750573,12.858499525166192,4.354860455709856/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888011101:0227/pct:69.50246866691987,60.66325155028309,12.860805165210786,4.357643569695336/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -380,7 +380,7 @@ dium of the I&#x27;nited State-: a fund
 of credit sufficient to carry us  
 through any probable length o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888011801:0231/pct:68.95770392749245,61.06973595125254,12.424471299093655,4.346648612051456/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888011801:0231/pct:68.94468567113461,61.06146764148389,12.426845384179725,4.3494448957487135/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -404,7 +404,7 @@ through any probable length ol
 war ” -.leflerson’s works, Vol. VI.  
 P. fIP.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888012501:0235/pct:68.56383987858091,61.04211663066955,12.767975716182887,5.359071274298056/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888012501:0235/pct:68.55083459787556,61.033877716290995,12.770295902883156,5.36172222972061/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -426,7 +426,7 @@ dium of the United States: a fund
 of credit sufficient to carry us  
 through any probable length o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888020101:0239/pct:68.75353573448992,61.452136289886425,12.690929662455215,4.353704705246079/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888020101:0239/pct:68.74057315233786,61.44382857915371,12.693250377073907,4.356495876706773/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -448,7 +448,7 @@ dium of the United States: a fund
 of credit sufficient to carry us  
 through any probable length o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888020801:0243/pct:69.66735576019545,61.25506072874494,12.47885735763954,4.358974358974359/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888020801:0243/pct:69.65426531379181,61.24679530427743,12.481210071401728,4.361759546619889/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -470,7 +470,7 @@ the l idled States: a fund of credit
 suUicicut to carry us through any  
 probable length of war.”—Jeffer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888021501:0247/pct:68.92836892836893,60.773181941065154,12.530712530712531,4.37956204379562/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888021501:0247/pct:68.91534391534391,60.76496823895121,12.533068783068783,4.3823489660764965/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -492,7 +492,7 @@ the I’nifed States: a fund of credit
 siitlicirnt to curry its through any  
 probable length ol war.&quot; Jeffer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888022201:0251/pct:68.67649803994773,61.11335215812828,12.394997199925331,4.3431491192685225/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888022201:0251/pct:68.66368047779022,61.10513578919064,12.397349757372154,4.345926324280721/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -514,7 +514,7 @@ the I&#x27;nited States; a fund of credit
 sutllcient to carry us through any  
 probable length of war.”—Jeffer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888022901:0255/pct:67.07339966209874,61.12528534980529,12.408485076027784,4.323888814287632/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888022901:0255/pct:67.0608108108108,61.11707841031149,12.410848348348349,4.326664876476906/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -537,7 +537,7 @@ the 1 nited States; a fund of credit
 suMicient to carry us through any  
 probable length of war.&quot;—.Jeffer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888030701:0259/pct:68.11731315042573,60.49582322824037,12.469252601702934,5.591484774993264/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888030701:0259/pct:68.1044267877412,60.487673447393234,12.471623155505108,5.5940994207193855/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -559,7 +559,7 @@ the I nited States; a fund of credit
 sultlcicnt to carry us through any  
 probable length of war.”—.Jeffer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888032101:0267/pct:67.70174429748897,61.19423102844049,12.650948821161586,4.340207575144898/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888032101:0267/pct:67.68876964354159,61.18598382749326,12.653315446531238,4.342991913746631/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -582,7 +582,7 @@ the I&#x27;nited States: a fund of credit
 1 Hiifticient to carry us through any  
 probable length of war.&quot; Jeffcr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888032801:0271/pct:67.83018867924528,60.38321414114154,12.754716981132075,5.4918364593172315/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888032801:0271/pct:67.81739294472742,60.375067458175934,12.757026976042257,5.494468429573664/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -605,7 +605,7 @@ he I&#x27;nited States; a fund of credit.
 sulHcicnt to carry us through any  
 probable length of war.” -Jeffer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888040401:0275/pct:67.30182926829268,59.20183362545504,12.538109756097562,5.352568423891061/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888040401:0275/pct:67.28900742998667,59.193852790509574,12.540483901695561,5.355217039633325/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -628,7 +628,7 @@ he United States: a fund of credit,
 sufficient to carry us through any  
 probable length of war.” —Jeffer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888041101:0279/pct:67.55308972642051,58.58123569794051,12.62674574325617,5.465069322923678/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888041101:0279/pct:67.54016832440703,58.57335127860027,12.62911247130834,5.467698519515478/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -650,7 +650,7 @@ he l&#x27;lilted States; a fund ot credit,
 siillieient to carry ns through ant  
 prohahle length of war.” — .Jeffer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888041801:0283/pct:67.41079946575081,60.66414686825054,12.688418240793741,4.37365010799136/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888041801:0283/pct:67.39793971766501,60.6559589688217,12.690766882869134,4.376434066675665/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -673,7 +673,7 @@ he United States; a fund of credit,
 ■ sulllcient to carry us through any  
 probable length of war.”—Jeffer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888042501:0287/pct:69.00341038272073,59.716024340770794,12.959454338764683,5.409060175794456/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888042501:0287/pct:68.9903390793711,59.707950243374796,12.961735177116879,5.41170903190914/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -695,7 +695,7 @@ he I&#x27;nited States; a fund of credit,
 sufficient to carry us through any  
 probable length of war.” Jeffer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888050201:0291/pct:67.77756617787088,60.87424344317417,12.721386402589983,4.4115669132481505/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888050201:0291/pct:67.76466108149276,60.866057019903174,12.723724295506473,4.414335664335664/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -718,7 +718,7 @@ he rnited States: a fund of credit,
 siiltieient to earn 11- through any  
 probable length of war.” -Jeffer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888050901:0295/pct:69.16492295986303,61.04964921748516,12.668822522351151,4.317323259579061/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888050901:0295/pct:69.1517687333587,61.04141373263186,12.671167744389502,4.3201133144475925/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -740,7 +740,7 @@ al tlie whole eireulating medium of
 {sufficient to carry us through any  
 probable length of war.”—.Jeffer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888051601:0299/pct:68.55610877058598,60.52063663339628,13.060130218307162,4.383598597248449/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888051601:0299/pct:68.54298295998468,60.51247471341875,13.062416235879763,4.386378961564397/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -762,7 +762,7 @@ he I nited States; a fund of credit,
 sullicicnt to carry ns through any  
 probable length of war.”—Jeffer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888052301:0303/pct:68.76314280252342,60.08884102840221,12.636207226151788,4.3478260869565215/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888052301:0303/pct:68.75,60.08075370121131,12.638570336391437,4.350605652759085/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -787,7 +787,7 @@ ten years, would place at our lis-
   
 posal the u hole ueulatiiig niciliiiin i panic, of s;;! was forced by th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_diamondback_ver02:data:sn87090065:00296024946:1896091701:1062/pct:13.496302382908793,93.71386212008896,35.59983566146261,9.206819866567828/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_diamondback_ver02:data:sn87090065:00296024946:1896091701:1062/pct:10.13360739979445,70.28910303928836,26.72147995889003,6.908821349147517/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -806,7 +806,7 @@ which should redeem them in ten years,
 would place at our disposal the whole cir­  
 culating medium of the United States.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_inge_ver01:data:sn82016014:00295871349:1897021601:0330/pct:7.637906647807638,34.874386799464844,16.371994342291373,2.497398543184183/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_inge_ver01:data:sn82016014:00295871349:1897021601:0330/pct:5.73147001592075,26.16322283335811,12.294356978595436,1.8730489073881373/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -1086,7 +1086,7 @@ ever shall remember you all with pleasure.
 Need I add, (hat I am particularly, my dear good friend  
 Yours most affectionately, B. FRANKLIN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1833062801:0066/pct:21.20625259371974,4.048224753898905,30.50214414165168,90.90808538878443/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1833062801:0066/pct:21.203319502074688,4.04777704047777,30.5025357307515,90.90171790901718/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2403,7 +2403,7 @@ face and naper together; so when the
 ris taken off, there will remain a patch of  
 tly the form of the hole. This is t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290069:1860010801:0008/pct:92.87268770402612,123.79093472131859,33.405875952121875,26.284970722186078/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290069:1860010801:0008/pct:23.224489795918366,30.947733680329648,8.353741496598639,6.571242680546519/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2443,7 +2443,7 @@ us on that account.
 At the church of Notre Dame, where we  
 e o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290069:1860010801:0008/pct:92.92709466811752,161.48340923877683,34.00435255712731,67.62090652786814/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290069:1860010801:0008/pct:23.238095238095237,40.37085230969421,8.503401360544217,16.905226631967036/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2483,7 +2483,7 @@ particularly, my dear, good friend,
 Yours, most affectionately,  
 BEN. FRANELIN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290069:1860010801:0008/pct:92.98150163220892,229.27781392322706,33.51468988030468,50.92170895684233/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290069:1860010801:0008/pct:23.25170068027211,57.319453480806764,8.380952380952381,12.730427239210583/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2697,7 +2697,7 @@ friend, youi\&gt;, most affectionately,
 1&gt;. Fr\2IK1.IX.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dior_ver01:data:sn85025007:00415663493:1860011001:0038/pct:2.1076121993553185,5.651408450704225,27.75849243739152,93.79401408450704/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dior_ver01:data:sn85025007:00415663493:1860011001:0038/pct:2.1158773452351434,5.657276995305164,27.75849243739152,93.7969483568075/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2776,7 +2776,7 @@ with every kind of elegance, except that of clean-­
 liness, which we call tidiness.&quot; The French were  
 very polite, would not seize two dozen bottles o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743889:1874102601:0352/pct:55.98133955348217,63.18229227025148,46.06797734088637,27.013558929192257/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743889:1874102601:0352/pct:18.660446517827392,21.060764090083826,15.355992446962123,9.004519643064086/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3060,7 +3060,7 @@ ever shall remember you all with pleasure
 Need I add that I am particularly, my dear  
 good friend, yours most affectionately
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_fernandez_ver01:data:sn83030272:00175044796:1888010101:0312/pct:1.5420200462606013,14.467312348668282,116.4225134926754,384.7911622276029/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_fernandez_ver01:data:sn83030272:00175044796:1888010101:0312/pct:0.3857280617164899,3.6168280871670704,29.122468659594986,96.19779055690073/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3083,7 +3083,7 @@ to get into the situation that enables me to write it. Be
 sides, I might, if I had stayed at home, have won per­  
 haps two shillings of you at cribbage. There is a de
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ford_ver01:data:sn83030214:00175038218:1888011001:0106/pct:11.29635400436273,183.51250548486178,46.1981925833593,13.306274681878017/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ford_ver01:data:sn83030214:00175038218:1888011001:0106/pct:3.7654513347875764,61.170835161620595,15.399397527786434,4.435424893959339/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -610,7 +610,7 @@ With hideous rutn and combufiion, drwn
 To bottomless perdition, there to dwell «  
 In adamantine chains and penal fire
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798022801:0451/pct:6.370023419203747,26.268922528940337,16.78376268540203,2.325121203126546/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798022801:0451/pct:6.370023419203747,26.268922528940337,16.794171220400727,2.325121203126546/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -629,7 +629,7 @@ Their rulers have deceived the people;
 they have cried, A confpiracy ! when  
 there was no confpiracy.* For th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1805013101:0613/pct:11.506953705467708,25.392670157068064,20.51819394170318,3.9949920327794217/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1805013101:0613/pct:11.519654537372197,25.396464071629108,20.524544357655426,3.998785947340466/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -650,7 +650,7 @@ they digged down a wall. Cursed be
 their anger for it was fierce, and their  
 wrath for it was cruel {* Their ri
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1805020501:0022/pct:6.889027431421447,47.360732372419164,16.614713216957608,4.723412543825477/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1805020501:0022/pct:6.899418121363259,47.360732372419164,16.614713216957608,4.723412543825477/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -858,7 +858,7 @@ to hasten the hour of destruction—
 •‘Cursedbe their anger, for it was fierce:  
 and their wrath, for it was cruel : I wil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:0041421616A:1813012501:0379/pct:13.887546318672467,39.10839160839161,18.366360560657323,4.536713286713287/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:0041421616A:1813012501:0379/pct:13.885309278350515,39.10497334149113,18.36877147766323,4.539230253765696/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -885,7 +885,7 @@ ged d®wna wall. Cursed be their anger for
 it was fierce; and their wrath for it was  
 cruel.** Cir. umatanees highly provok- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813052901:0228/pct:31.136137793971514,33.75678990713159,20.172242464392184,8.542141230068337/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813052901:0228/pct:31.130981950654082,33.75383267630311,20.174421813766077,8.544313038399766/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -907,7 +907,7 @@ the promoters of the war. Curfed be
 their anger for it was fierce, and their  
 wrath for it was cruel! O my foul com
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016082:00332895084:1814061301:0055/pct:1.5658061785865425,13.002793296089385,36.627168853152774,80.90782122905028/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016082:00332895084:1814061301:0055/pct:1.5654749312460334,13.00097751710655,36.624709117833724,80.90001396453009/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1541,7 +1541,7 @@ maldediction may poesibly yet reuch thein all
 &quot;Cursed be their an ger, for it was fierce; and their  
  wrath, for it was cruel. I will divide them in Jacob
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:0027174304A:1851090101:0345/pct:146.19787408013082,198.6095150540106,47.097301717089124,8.331418064812686/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:0027174304A:1851090101:0345/pct:48.73262469337694,66.2031716846702,15.699100572363042,2.777139354937562/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1568,7 +1568,7 @@ yet reach them all: &quot;Cursed be their an­
 ger for it was fierce; and their wrath, for it  
 was cruel. I will divice them in Jacob, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667711:1851091701:0736/pct:313.11074918566777,144.54466104160605,57.49185667752443,7.797497817864417/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667711:1851091701:0736/pct:78.32552454675087,36.13616526040151,14.381747810144633,1.9493744544661042/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1594,7 +1594,7 @@ Lursed be their anger for it was fierce, and their wrath for
 it was cruel: and he added in the name of his God, ?I will  
 divide them in Jarob and scatter them in Israel.&quot; Resd th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1851112201:0845/pct:64.25302826379543,40.88009514542113,15.343203230148049,6.206076332576495/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1851112201:0845/pct:64.25302826379543,40.88730313187011,15.34768954688201,6.206076332576495/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1722,7 +1722,7 @@ To bottomless perdition, there to dwell
 In adamantine chains and penal fire. &quot;  
 Position op Mr. Toombs. It is well understoo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022743:1855053001:0179/pct:64.77477477477477,95.10149507718488,19.45945945945946,4.8741947246870065/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022743:1855053001:0179/pct:48.61048520354514,71.32612130788866,14.601171698963498,3.658684818281269/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1867,7 +1867,7 @@ In adamantine chains and penal Are
 “Cursed be their anger,for it was fierce,&#x27;  
 and their wrath, for it was cruel. I wil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fireweed_ver01:data:sn83016209:00383342387:1857082801:0315/pct:96.51732269181933,30.58144695960941,14.148376564483947,1.3759431868619618/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fireweed_ver01:data:sn83016209:00383342387:1857082801:0315/pct:74.80436718054449,23.708148601131324,10.97886696968277,1.066350710900474/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1937,7 +1937,7 @@ within, whatever calls itself &quot;society&quot; there, are,
 ur doubtedly, unparalled on this continent elee where.  
 A great number of men, from different parts of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_flavory_ver01:data:sn83030213:00206530613:1859030401:0427/pct:199.53580901856765,152.0610503545247,48.706896551724135,21.84833553659416/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_flavory_ver01:data:sn83030213:00206530613:1859030401:0427/pct:66.51193633952255,50.68701678484157,16.235632183908045,7.282778512198053/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1997,7 +1997,7 @@ altar, and said of this very act of violence, &quot;Curso&#x27;d
 be their anger, for it was fierce, and their wrath,  
 for it was cruel.&quot; This would be found in the 49t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026347:1859042601:0396/pct:73.29087048832272,38.68114193807801,11.096956829440906,3.2770406111781263/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026347:1859042601:0396/pct:73.29087048832272,38.68784345262029,11.101674923330973,3.2803913684492696/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2031,7 +2031,7 @@ with a coal froin Heaven&#x27;s altar, he said &quot;cursed be
 their anger, for it was fierce, and their wrath, for it  
 was cruel.&quot; Where is the language for other offense
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_flavory_ver01:data:sn83030213:00206530613:1859042701:0811/pct:2.4848891873740766,171.7781796262809,48.45533915379449,14.659433393610609/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_flavory_ver01:data:sn83030213:00206530613:1859042701:0811/pct:0.8282963957913588,57.2593932087603,16.151779717931497,4.886477797870203/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2055,7 +2055,7 @@ lips touched as it were with a coal from heaven&#x27;s altar,
 he said, &quot;Cursed be their anger, for it was fierce, and  
 their wrath, for it was cruel.&quot; Where is the languag
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743312:1859042701:0988/pct:156.49520488230166,244.3700693282333,49.41586748038361,10.710016734401147/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743312:1859042701:0988/pct:52.16506829410055,81.45668977607778,16.471955826794538,3.5700055781337157/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2162,7 +2162,7 @@ With hideons ruin and combustion, down
 To bottomless perdition, there to dwell  
 In adamantine chains and penal i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basic_ver01:data:sn83030213:00206530753:1863102401:0406/pct:110.06533639413739,249.82241273729332,36.58838071693449,4.874464176362523/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basic_ver01:data:sn83030213:00206530753:1863102401:0406/pct:36.68844546471246,83.27413757909777,12.19612690564483,1.624821392120841/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2211,7 +2211,7 @@ to the help of the Lord—to the help of the Lord
 against the mighty. Ue then said:  
 And so lam glad, friends, to touch these ol
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_edgewater_ver02:data:sn84031490:no_reel:1863112801:0004/pct:13.612766775620074,34.179431072210065,10.132666794847145,4.522246535375638/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_edgewater_ver02:data:sn84031490:no_reel:1863112801:0004/pct:13.627187079407806,34.183078045222466,10.123053258988657,4.533187454412837/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2503,7 +2503,7 @@ himself at their head, they would choose him at the­
 next election; and they organized their party by their  
 correspondences through the States. Whatever civi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grass_ver01:data:sn83030214:00206531137:1873041601:0780/pct:8.119935170178282,145.09308205010342,47.39059967585089,8.113077453458976/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grass_ver01:data:sn83030214:00206531137:1873041601:0780/pct:2.706645056726094,48.364360683367806,15.796866558616964,2.7043591511529916/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2550,7 +2550,7 @@ would choose him at the next election;
 and they organized their party by their  
 correspondence tlirotigli the siate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brockovich_ver02:data:sn85032573:0023728186A:1873051501:0230/pct:108.71006630500301,55.637897617147416,14.04460518384569,5.1305438376467905/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brockovich_ver02:data:sn85032573:0023728186A:1873051501:0230/pct:81.55237377543331,41.72842321286056,10.535041446872645,3.853608482499145/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2586,7 +2586,7 @@ To bottomless perdition, there to
 dwell  
 In adamantine chains and penal fire
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_fox_ver01:data:sn82016399:00517173393:1879080101:0756/pct:51.88237914903097,65.06478596030834,14.43528625529071,14.023290142693128/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_fox_ver01:data:sn82016399:00517173393:1879080101:0756/pct:51.87082405345212,65.05411610364054,14.437639198218262,14.025090193506067/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2626,7 +2626,7 @@ thereof, because they came not up to the
 help of the Lord to the help of the Lord  
 against the mighty.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn84022871:00202194400:1882032001:0265/pct:50.94884488448845,51.55799192152337,14.727722772277227,2.471629159453741/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn84022871:00202194400:1882032001:0265/pct:38.23084330719494,38.670898249663395,11.060668592653736,1.8561261781111753/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2663,7 +2663,7 @@ was never filled and the bill was dropped. And &lt;
 b it ii parties have ever had asuccessor ui \levv from i  
 that time to this.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_newfoundland_ver04:data:sn83045462:00280654619:1884010501:0322/pct:69.86113020761721,64.99548781710618,14.024474082221916,4.6926702095658275/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_newfoundland_ver04:data:sn83045462:00280654619:1884010501:0322/pct:69.87144232091296,65.00050135365487,14.034786195517668,4.695176977840169/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2705,7 +2705,7 @@ With hideous ruin aud cnoibustiou, down
 To bottomless perdition ; there to dwell  
 In adamantine chains ami penal fire
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn85038180:00296029063:1885070901:0044/pct:37.27165586328815,112.0042872454448,14.157336476134354,5.466237942122186/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn85038180:00296029063:1885070901:0044/pct:27.973470891672807,84.00619268786471,10.626381724392042,4.096701202810528/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2753,7 +2753,7 @@ With hideous ruin and combustion, down
 To bottomless perdition ; There to dwell  
 In adamantine chains ?nd penal fire
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_echo_ver01:data:sn85038119:00237282656:1886022501:0457/pct:10.617154811715482,76.9787146104567,25.614539748953973,5.207687538747675/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_echo_ver01:data:sn85038119:00237282656:1886022501:0457/pct:7.964948992937484,57.739202314527795,19.22573894846979,3.9057656540607564/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2791,7 +2791,7 @@ our Constitution it is time for the peeple to be on
 their guard against an aristocratical spirit and pre­  
 ponderance.&quot; He added that he thought the Senat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ike_ver01:data:sn85042682:00211103383:1886032801:0216/pct:244.8907681465821,150.39693402682727,42.77660324171952,32.02846975088968/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ike_ver01:data:sn85042682:00211103383:1886032801:0216/pct:61.23348017621145,37.59923350670682,10.69603524229075,8.00711743772242/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2808,7 +2808,7 @@ ponderance.&quot; He added that he thought the Senat
 would be more useful and more safe if every particle  
 of executive power was taken away from it.&quot; &quot;T
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ike_ver01:data:sn85042682:00211103383:1886032801:0216/pct:245.03171247357295,184.1226389269094,42.63565891472868,4.3252121543936495/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ike_ver01:data:sn85042682:00211103383:1886032801:0216/pct:61.268722466960355,46.03065973172735,10.66079295154185,1.0813030385984124/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2830,7 +2830,7 @@ The Washington Boy, Now a Page in the House,
 Who WIIl Soon COME INTO a FOrIuNE.  
 Among the pages in the House of Representative
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ike_ver01:data:sn85042682:00211103383:1886032801:0216/pct:245.03171247357295,188.7215986860115,42.706131078224104,14.508623049548316/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ike_ver01:data:sn85042682:00211103383:1886032801:0216/pct:61.268722466960355,47.180399671502876,10.678414096916299,3.627155762387079/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2875,7 +2875,7 @@ the Federal Constitution was formed
 by caucus and the Federal adminis­  
 tration was sustained by it.&quot; But th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_janesville_ver01:data:sn85042460:00280768728:1888022601:0603/pct:5.298670371105378,48.25342950077783,12.046040881127208,4.2002545608824775/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_janesville_ver01:data:sn85042460:00280768728:1888022601:0603/pct:5.311900509360322,48.262857681610335,12.032810742872263,4.204968651298732/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2916,7 +2916,7 @@ With hideous ruin and combustion, down
 To bottomless perdition; there to dwell  
 In adamantine chains and penal fire
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_india_ver01:data:sn85038161:00237289420:1890071001:0903/pct:8.162006578947368,51.76984705025492,19.058388157894736,4.224326292789512/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_india_ver01:data:sn85038161:00237289420:1890071001:0903/pct:6.129164952694365,38.83466860888565,14.315096668037844,3.1609613983976694/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3137,7 +3137,7 @@ trigued with all his might to get Major Thomas
 Pinckney chosen President.&quot; Mr. Dallinger has  
 not been able to discover whether Hamilton&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:00175042933:1897050201:0637/pct:76.2854950115119,358.2153190193391,51.03607060629317,26.86158063042485/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:00175042933:1897050201:0637/pct:19.071373752877975,89.55382975483478,12.759017651573293,6.7153951576062125/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3202,7 +3202,7 @@ With hideous ruin and combustion, down
 To bottomless perdition, there to dwell  
 In adamantine chains and penal fir
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_green_ver02:data:sn98060035:00202196780:1898110701:0804/pct:73.72748629600626,33.71420510650303,16.131558339859044,4.07673860911271/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_green_ver02:data:sn98060035:00202196780:1898110701:0804/pct:55.31623262189152,25.2927070108619,12.101037791266888,3.0610805473268443/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3244,7 +3244,7 @@ With hideous ruin and combustion, down
 To bottomless perdition, there to dwell  
 In adamantine chains and penal fir
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_charlotte_ver01:data:sn86072143:00280777122:1898111001:0546/pct:203.4670292318151,203.50877192982455,43.915703602991165,12.126315789473685/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_charlotte_ver01:data:sn86072143:00280777122:1898111001:0546/pct:50.866757307953776,50.87719298245614,10.978925900747791,3.031578947368421/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3265,7 +3265,7 @@ With hideous ruin und combustion, down
 To bottomless perdition, there to dwell  
 In adamantine chains and penal lir
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ivory_ver01:data:sn94060041:00175031224:1898111201:0381/pct:73.89846013111755,88.40269966254218,11.800579356609239,3.262092238470191/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ivory_ver01:data:sn94060041:00175031224:1898111201:0381/pct:73.89846013111755,88.41019872515936,11.810743507648525,3.262092238470191/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3308,7 +3308,7 @@ With hideous ruin and combvustion, down
 To bottomless perdition there to dwell  
 In adamantine chains and penal fir
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_andersonpink_ver02:data:sn86063760:00294550616:1898111601:0013/pct:26.270255424333975,71.72434191067731,11.672617412798681,3.6774129941831806/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_andersonpink_ver02:data:sn86063760:00294550616:1898111601:0013/pct:26.274832921358602,71.72762824936738,11.668039915774054,3.6774129941831806/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3338,7 +3338,7 @@ Vice President. At the third election, he in­
 trigued with all his might to get Major Thomas  
 Pinckney chosen President.&quot; There is no con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_rumi_ver01:data:sn83030272:00206539021:1899082001:0061/pct:73.1548480463097,135.17618469015795,47.68451519536903,30.741190765492103/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_rumi_ver01:data:sn83030272:00206539021:1899082001:0061/pct:18.288712011577424,33.79404617253949,11.921128798842258,7.685297691373026/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

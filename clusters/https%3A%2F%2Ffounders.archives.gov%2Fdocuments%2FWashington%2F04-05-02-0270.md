@@ -46,7 +46,7 @@ the most direct, J)lumcpt, easiest, and least lia­
 ble to exception.”  
 And.in a letter to Count De Monstier, Feb
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153267:1845123101:0592/pct:44.506638896120805,36.480865224625624,12.483728195782348,9.27620632279534/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153267:1845123101:0592/pct:44.506638896120805,36.48779811425402,12.483728195782348,9.269273433166944/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -68,7 +68,7 @@ j professor* of Christianity in the choice of that road to
 heaven, which to them shall seem the most direct,  
 the plainest, easiest and h-n.-i liable to exceptions.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1855051501:0633/pct:69.42409880798506,75.56066705002875,13.672267700703719,3.2298255702511023/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1855051501:0633/pct:69.42888601656374,75.56705641812025,13.681842117861075,3.2298255702511023/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -96,7 +96,7 @@ Heaven, which to them shall seem
 most direet, plainest, casiest, and  
 least liable to exception.&quot; Sam
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn84020048:00295878034:1855101101:0009/pct:340.48387096774195,270.36669970267593,49.67741935483871,24.408891405918165/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn84020048:00295878034:1855101101:0009/pct:85.12096774193549,67.59167492566898,12.419354838709678,6.102222851479541/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

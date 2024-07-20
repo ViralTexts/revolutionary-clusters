@@ -206,7 +206,7 @@ soning must be vain.&quot;
 &quot;The Coutier cites the following antiMadisonian facts  
 which show how wide from the Madison standard, &quot;th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845060301:0458/pct:95.25773195876289,75.32917532917533,38.98379970544919,17.683067683067684/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845060301:0458/pct:31.74790163451627,25.106825268506757,12.9926863986649,5.893675174192555/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -241,7 +241,7 @@ the several states, bears strong testimony to this re­
 mark.  
 That number which will best combine the great ob
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn84023141:00517015222:1848050901:0284/pct:36.72208327203178,12.381363244176013,14.741797851993526,6.255392579810181/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn84023141:00517015222:1848050901:0284/pct:36.72208327203178,12.381363244176013,14.761414349467902,6.266177739430543/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -295,7 +295,7 @@ that nothing less than the chains of des­
 potism can restrain them from destroying  
 and devouring one another.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn83025725:00212470405:1861071601:0046/pct:111.35749053542456,283.5935828877005,43.915630070308275,44.87700534759358/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn83025725:00212470405:1861071601:0046/pct:27.84690289423857,70.89839572192513,10.981877197727888,11.219251336898395/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -319,7 +319,7 @@ ernment presupposes the existence of these
 qualities in a higher degree than any other  
 form.&quot; Thus have we finished our discu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn83025725:00212470405:1861071601:0046/pct:158.30178474851272,34.524064171122994,43.75338020551649,19.893048128342247/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn83025725:00212470405:1861071601:0046/pct:39.586150933189074,8.631016042780749,10.941303759805248,4.973262032085562/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -357,7 +357,7 @@ admitted that the House should be as large
   
 as would be consistent with the dispatch o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777651:1869072101:0793/pct:118.35491241431835,189.94634284100536,45.23990860624524,38.80259813611974/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777651:1869072101:0793/pct:29.605639169365592,47.48658571025134,11.316441226900363,9.700649534029935/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -430,7 +430,7 @@ contradicted now, in spite of a century of
 &quot;progress.&quot; Read:  
 One observation I must be permitted to add
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_farmington_ver01:data:sn83016025:00279525516:1882020801:0551/pct:73.24196443139175,18.673689250658366,10.980584108337412,16.04022025377065/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_farmington_ver01:data:sn83016025:00279525516:1882020801:0551/pct:73.23001631321371,18.671454219030522,10.982871125611746,16.04129263913824/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

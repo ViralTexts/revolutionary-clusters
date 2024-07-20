@@ -146,7 +146,7 @@ regard. Dear Sir,
 V our at7c£V.&lt;nnte and obliged servant,  
 G. WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804101701:0318/pct:41.13936149875741,41.38292299633316,17.472758554769644,24.017810371922472/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804101701:0318/pct:41.13149847094801,41.37750425559775,17.47579001019368,24.019030160185064/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -200,7 +200,7 @@ Dear bir.
 Your affectionate and obliged servant,  
 Go. WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804102001:0170/pct:3.6452947259565667,52.845134173941155,22.64736297828335,17.976075008082766/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804102001:0170/pct:3.6443525458774877,52.836592855988364,22.64797105195141,17.977210279618554/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -367,7 +367,7 @@ position to do work, but not always to do it in
 the manner directed; that is, your ideas have  
 udtfered from those of the commanding office
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_neruda_ver01:data:sn83030272:00175045053:1892111701:0218/pct:4.179331306990881,134.1675568441935,49.77203647416413,15.626430642453839/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_neruda_ver01:data:sn83030272:00175045053:1892111701:0218/pct:1.0450313509405282,33.54188921104838,12.445373361200836,3.9066076606134597/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

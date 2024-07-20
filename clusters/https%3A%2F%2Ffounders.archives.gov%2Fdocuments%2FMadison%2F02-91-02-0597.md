@@ -55,7 +55,7 @@ on, and am &#x27;with much respect and regard,
 Sir,  
 Your obedient humble servant
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803031901:0221/pct:47.654551102826964,76.35057216357669,22.273998136067103,13.820633371773264/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803031901:0221/pct:47.64715017859916,76.3437998935604,22.27571569084226,13.822364141682929/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -99,7 +99,7 @@ wim asuch respect and regard,
 Sir,  
 Your obedient humble servant
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1803032501:0052/pct:28.79566210045662,32.75412684622068,21.232876712328768,24.900086880973067/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1803032501:0052/pct:28.787446504992868,32.74843641417651,21.2339514978602,24.9001042390549/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -128,7 +128,7 @@ fpect and regard,
 Sir, - hy  
 Yout obedicat homble fervant
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1803032601:0298/pct:66.06060606060606,26.861765405662624,19.772727272727273,9.124434927432786/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1803032601:0298/pct:66.0669191919192,26.86573082718693,19.772727272727273,9.124434927432786/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -285,7 +285,7 @@ I haflen to communicate 10 you this impor­
 tant information, and am with much refpe@  
 and regard
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1803032901:0256/pct:79.18812481066344,9.557017974658677,15.98000605877007,8.005107553285532/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1803032901:0256/pct:79.1931737857215,9.560292047277608,15.98000605877007,8.008381625904462/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

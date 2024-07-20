@@ -94,7 +94,7 @@ dentally fell into his hands, and,!
 Iby the inscription on the collar,  
 | appears to belong to Genera
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_deepspace_ver01:data:sn87091045:00513688167:1899042801:0938/pct:32.931424265259984,87.37803933715348,15.247425270032656,5.296577357906148/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_deepspace_ver01:data:sn87091045:00513688167:1899042801:0938/pct:32.94817047642971,87.38836404935212,15.239052164447793,5.286252645707501/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -135,7 +135,7 @@ dentally fell into his hands, and, by
 the inscription on the collar, appears  
 to belong to General Howe.” Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_bentonite_ver02:data:sn95060797:00517019264:1899050201:0489/pct:8.16056462284958,72.67622284616522,19.91618879576533,5.866706073592434/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_bentonite_ver02:data:sn95060797:00517019264:1899050201:0489/pct:8.16056462284958,72.67622284616522,19.938244375827086,5.866706073592434/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -191,7 +191,7 @@ into his hands and by the inscription
 on the collar appears to belong to Gen­  
 eral Howe.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_hawk_ver01:data:2015270501:00415623069:1899052601:0328/pct:47.601476014760145,50.16181229773463,14.138667702466499,3.923948220064725/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_hawk_ver01:data:2015270501:00415623069:1899052601:0328/pct:47.60633132647116,50.165183387270766,14.14352301417751,3.930690399137001/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -212,7 +212,7 @@ into his hands and by the inscription
 on the collar appears to belong to Gen­  
 eral Howe. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_melon_ver01:data:sn84022549:0041562931A:1899052701:0152/pct:96.47979139504564,69.16083916083916,14.569752281616688,4.713286713286713/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_melon_ver01:data:sn84022549:0041562931A:1899052701:0152/pct:72.37163814180929,51.87412587412587,10.937245313773431,3.5384615384615383/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -248,7 +248,7 @@ ally fell into his hands, and, by the
 inscription on the collar, appears to  
 belong to Gen. Howe.&quot; The Bri:i:.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_desdemona_ver03:data:sn85047084:00202196056:1899053001:0596/pct:51.26877265665458,106.15989515072084,18.099430346970482,20.1734045770743/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_desdemona_ver03:data:sn85047084:00202196056:1899053001:0596/pct:38.46651988084445,79.62496219376953,13.586323015153477,15.132573848170178/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -269,7 +269,7 @@ into his hands and by the inscription
 on the collar appears to belong to Gen­  
 eral Howe.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_folio_ver01:data:sn92053934:00212471963:1899060201:0251/pct:42.63833992094862,91.69720890893713,16.1231884057971,4.877361150267832/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_folio_ver01:data:sn92053934:00212471963:1899060201:0251/pct:31.98814033931807,68.7764307865802,12.106736946137374,3.665069072455596/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -332,7 +332,7 @@ into his hands and by the inscription
 on the collar appears to belong to Gen­  
 eral Howe.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023296:0020029614A:1899061001:0773/pct:70.62543921293043,328.6402081977879,44.483485593815885,13.0644111906311/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023296:0020029614A:1899061001:0773/pct:17.665670592371242,82.16005204944697,11.12673580594129,3.266102797657775/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -353,7 +353,7 @@ into his hands and by the inscription
 the collar appears to belong to Gen­  
 oral Howe.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_eigg_ver01:data:sn99062034:00279523179:1899061201:0675/pct:9.500911954899685,70.67611777535441,14.806831371248549,3.86041439476554/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_eigg_ver01:data:sn99062034:00279523179:1899061201:0675/pct:9.506438954291715,70.67611777535441,14.81235837064058,3.867684478371501/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -374,7 +374,7 @@ in ;o his hands and by the inscription
 on the collar appears to belong to Gen?  
 eral Howe.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_red_ver01:data:sn85025007:00175033798:1899061201:0312/pct:1.8864774624373957,69.63267168605978,14.056761268781303,3.969883641341547/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_red_ver01:data:sn85025007:00175033798:1899061201:0312/pct:1.8864774624373957,69.63647425659747,14.056761268781303,3.9736862118792304/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -416,7 +416,7 @@ into his hands and by the inscription
 on the collar appears totoelong to Gen­  
 eral Howe.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_hodag_ver01:data:sn86086586:00414214447:1899061601:0131/pct:50.16825574873808,77.26708074534162,14.35782389231632,3.889154323936933/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_hodag_ver01:data:sn86086586:00414214447:1899061601:0131/pct:50.16825574873808,77.27345118649467,14.37184520471116,3.8827838827838828/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -436,7 +436,7 @@ dentally fell into his hands, and, by th#
 inscription on the collar, appears to be­  
 long to Gen. Howe.&quot; The British com
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_kia_ver02:data:sn90060625:00212478908:1899070101:0132/pct:78.76004592422503,27.559322033898304,14.023290142693128,3.1299435028248586/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_kia_ver02:data:sn90060625:00212478908:1899070101:0132/pct:78.77098026351757,27.559322033898304,14.023290142693128,3.1299435028248586/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -457,7 +457,7 @@ into his hands and by the inscription
 on the collar appears to belong to Gen­  
 eral llowe.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_bacall_ver02:data:sn85059809:0051415823A:1899070601:0018/pct:17.639322702613843,74.22680412371135,12.937695216176229,3.6785379568884724/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_bacall_ver02:data:sn85059809:0051415823A:1899070601:0018/pct:17.636423405654174,74.21810940611456,12.939677843523997,3.6810354925617896/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -477,7 +477,7 @@ ally fell into his hands and by the inscrip­
 tion on the collar appears t» belong to  
 Gieneral Howe,” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_gargoyle_ver02:data:sn92064114:00514153401:1899070801:0774/pct:67.28404917771036,87.18270134753996,19.926552770237905,3.635224067690379/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_gargoyle_ver02:data:sn92064114:00514153401:1899070801:0774/pct:67.2893714407366,87.18618336293046,19.937197296290382,3.638706083080887/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -498,7 +498,7 @@ into his hands and by the inscription
 on tbe collar appears to belong to Gen­  
 eral Howe.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_hiko_ver01:data:sn84022047:00340582433:1899071301:0534/pct:59.67842973480894,50.775915580384854,12.194612653998748,3.4605834885164493/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_hiko_ver01:data:sn84022047:00340582433:1899071301:0534/pct:59.66597077244259,50.76803723816912,12.197286012526096,3.463925523661753/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

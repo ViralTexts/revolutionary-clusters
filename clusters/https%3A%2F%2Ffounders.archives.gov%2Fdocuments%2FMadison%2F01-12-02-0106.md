@@ -143,7 +143,7 @@ our country, I readily engage with you in the arduous but plea­
 fins task of attempting to make a nation happy.  
 G. WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789052001:0003/pct:29.66002344665885,68.08633648101754,25.67409144196952,12.989015224513393/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789052001:0003/pct:29.667350527549825,68.1007901329736,25.681418522860493,12.974561572557333/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -175,7 +175,7 @@ of attemptifig to make a na­
 tion happy.  
 G. WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789052801:0393/pct:50.45982575024201,51.15229653505238,19.675701839303002,19.90330378726833/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789052801:0393/pct:50.45982575024201,51.16304055868923,19.707970313004196,19.897931775449905/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -239,7 +239,7 @@ Hone lulooeervlce of our country. I readily eu*
 gage whh you In the erdnoue but pleaelng taak of  
 attempting to wake a nation happy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1877062401:0009/pct:2.0084566596194504,70.0644641418211,13.054968287526426,5.257856567284448/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1877062401:0009/pct:2.028276955602537,70.06950040290089,13.048361522198732,5.257856567284448/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -261,7 +261,7 @@ Universe and imploring his divine
 benediction on our joint exertions, I  
 readilv engage with you in our ard
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_dakin_ver03:data:sn84023253:00202197061:1889050901:0287/pct:70.35281727224856,223.55717657155117,43.127962085308056,16.9920617893156/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_dakin_ver03:data:sn84023253:00202197061:1889050901:0287/pct:17.592836449828813,55.88929414288779,10.784830129049249,4.2480154473289/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

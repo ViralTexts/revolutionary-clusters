@@ -487,7 +487,7 @@ may darken the day, but they cannot strike the sun.”
 cal proverb, that “the fa rthest way round  
 is the nearest way home”? Why invit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215634:1837011001:0719/pct:6.630316248636859,88.5244671269889,14.918211559432933,1.1783248273791653/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215634:1837011001:0719/pct:6.629593283175226,88.51782363977486,14.920219532584596,1.180737961225766/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -536,7 +536,7 @@ which any failure draws afier it the longest and heavi­
 est train of conseguences.”” The ocean isthe proper  
 field for deciding any controversy in which we may b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015209:1841070501:0103/pct:2.354160497482973,32.14767188634242,15.072549600236897,2.79995851913305/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015209:1841070501:0103/pct:2.354160497482973,32.154585364167446,15.08242029414668,2.79650178022054/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -569,7 +569,7 @@ reason is a. part, and by no means the greatest part.”
 
 ---
 
-## [From _The Continental monthly_](https://archive.org/details/sim_continental-monthly_1863-01_3_1/page/n26/mode/1up?view=theater)
+## [From _The Continental Monthly; Devoted to Literature and National Policy (1862-1864)_](https://archive.org/details/sim_continental-monthly_1863-01_3_1/page/n26/mode/1up?view=theater)
 
 #### 1863-01-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -675,7 +675,7 @@ Pechili, with Port Arthur at its extreme
 point. The little peninsula broadens  
 into the mainland of Manchuria. Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn84020639:00340583206:1895050801:0361/pct:5.503211991434689,73.23920804933464,14.282655246252677,10.92177864329763/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn84020639:00340583206:1895050801:0361/pct:5.502033825733248,73.2273243550219,14.284949689573967,10.924062956352426/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -703,7 +703,7 @@ human reasonings but to human nature,
 and it is human nature in this country and  
 time, in city as well as in State, amon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_navy_ver01:data:sn95079154:00175031236:1897111101:0178/pct:26.418700382240516,49.75108569007521,12.055277859453103,2.319669526533206/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_navy_ver01:data:sn95079154:00175031236:1897111101:0178/pct:26.42360090169558,49.758147088938316,12.060178378908164,2.319669526533206/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

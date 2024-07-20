@@ -59,7 +59,7 @@ They are as innocent as grace itself..&quot;
 The Canvass in this District,  
 The appointments of the Electors for thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_junebug_ver01:data:sn87065200:00415662348:1856091801:0051/pct:87.15728715728716,310.8179419525066,44.733044733044736,11.50395778364116/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_junebug_ver01:data:sn87065200:00415662348:1856091801:0051/pct:21.78932178932179,77.70448548812665,11.183261183261184,2.87598944591029/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -110,7 +110,7 @@ They are as innocent as grace itself.&quot;
 Our old friend Thos&#x27; Findley, State Tres­  
 sure is now making a short visit to his friend
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn86058101:00279557426:1859112601:0214/pct:50.83487940630798,210.0801479654747,52.5870954442383,54.97842170160296/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn86058101:00279557426:1859112601:0214/pct:12.708719851576994,52.52003699136868,13.146773861059575,13.74460542540074/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -151,7 +151,7 @@ If their purgation did consist in words
 
 ---
 
-## [From _The Continental monthly_](https://archive.org/details/sim_continental-monthly_1863-09_4_3/page/n115/mode/1up?view=theater)
+## [From _The Continental Monthly; Devoted to Literature and National Policy (1862-1864)_](https://archive.org/details/sim_continental-monthly_1863-09_4_3/page/n115/mode/1up?view=theater)
 
 #### 1863-09-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -185,7 +185,7 @@ whom we had received with the most gener
 If their purgation did consist in words&#x27;  
 They are as innocont ns grace itself.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414183414:1864072101:0119/pct:82.59560906515581,41.441563730147955,10.570113314447593,1.3845527351703544/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414183414:1864072101:0119/pct:82.58098778544876,41.43593919652552,10.572667728801557,1.387757871878393/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -220,7 +220,7 @@ They are as innocent as grace itself
 If their purgation did consist in words,  
 They are as innocent as grace itself.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn85025202:00279557396:1866080401:0526/pct:50.80021578852725,63.76849208409032,9.206977162380866,1.0641058915131067/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn85025202:00279557396:1866080401:0526/pct:50.804711382844815,63.77498053464833,9.220463945333574,1.0738385673501167/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -268,7 +268,7 @@ fense.
 If their purgation did consist in words,  
 They are as innocent as grace itself.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn82015679:00271745680:1887020301:0335/pct:7.454863133372161,107.24839400428266,19.27781013395457,3.2869379014989293/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn82015679:00271745680:1887020301:0335/pct:5.592775997669676,80.4389721627409,14.477133702301193,2.462526766595289/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -293,7 +293,7 @@ If their purgation did consist in words,
 They are as innocent as grace itself.  
 It is the old story of Faust and his ba
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn84024448:00296020758:1888040501:0768/pct:167.45468873128448,257.19139297848244,50.74862096138692,20.611551528878824/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn84024448:00296020758:1888040501:0768/pct:41.86367218282112,64.29784824462061,12.68715524034673,5.152887882219706/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

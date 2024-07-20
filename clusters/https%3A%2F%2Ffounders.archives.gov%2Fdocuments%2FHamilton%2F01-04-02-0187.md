@@ -173,7 +173,7 @@ too pay a share of their spoils. The Bashaws cxloil
 their tribute under the lifted sword : The hanks gather  
 theirs as efficiently under
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_armani_ver02:data:sn84024735:00415664230:1838010201:0010/pct:19.36242103716762,31.736651114567135,17.055971793741737,9.07205806117159/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_armani_ver02:data:sn84024735:00415664230:1838010201:0010/pct:19.36242103716762,31.743563158804218,17.065765633416582,9.07205806117159/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -279,7 +279,7 @@ and embarrassments, naturally resulting from defective
 supplies of the public Treasury.&quot;  
 l.t vol Debates in lhe Virginia Convention. 2d ed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1839092701:0157/pct:17.019011406844108,71.56923076923077,16.50190114068441,24.4/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1839092701:0157/pct:17.019011406844108,71.57264957264957,16.506970849176174,24.406837606837605/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -301,7 +301,7 @@ entirely to have frus&#x27;rated the intention 5th. That this
 i States tiib That this principle had chiefly reduced Ihe  
 . United Stales to a situation that afforded mnple cause o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1839092701:0157/pct:33.50570342205323,20.164102564102564,16.212927756653993,4.061538461538461/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1839092701:0157/pct:33.51584283903676,20.164102564102564,16.20278833967047,4.0717948717948715/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -461,7 +461,7 @@ for the purpose &#x27;of government, as far
 as the resources of the community will E  
 permit. Without it, ono of two evils 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn86053067:00295862348:1869110401:0214/pct:36.11493461803166,46.29185235973031,15.760495526496904,12.752828248200206/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn86053067:00295862348:1869110401:0214/pct:36.1264051387933,46.29566144821544,15.754760266116081,12.760446425170457/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -636,7 +636,7 @@ mercial imposts, or rather duties on imported are­
 ticles, they declare themselves willing to concede  
 4o, the Federal head. In the thirty-sixth numbet
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jaguar_ver01:data:sn83030214:00175038796:1895052101:0330/pct:54.61248566278879,177.16588314304903,47.48484351958054,12.81620774569062/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jaguar_ver01:data:sn83030214:00175038796:1895052101:0330/pct:18.204161887596264,59.055294381016346,15.828281173193512,4.27206924856354/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

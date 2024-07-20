@@ -1464,7 +1464,7 @@ insolence tif t.Hiethe snap s and plagio s of law—ie.ll the
 r&#x27;sliailili of custom ; ell contribute to disgust iiim ,iiih  
 sshnt we erHI civil sociit}.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1816070601:0074/pct:5.686730961090788,76.81835371234085,14.88194213501829,4.008571788730619/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1816070601:0074/pct:5.685785536159601,76.8086715402067,14.88500969797728,4.012267876649021/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2492,7 +2492,7 @@ insolence of office,—the snares nmlplniues of law,
 —the restraints of custom,—all contribute to dis­  
 gust them with what we call civil society.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153279:1850010501:1241/pct:70.26991954321308,84.40925700365408,12.626524785881132,5.278116118554609/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153279:1850010501:1241/pct:70.27857081062376,84.41602381919068,12.63085041958647,5.274732710786304/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

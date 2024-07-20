@@ -45,7 +45,7 @@ DUSTRY, and meliorate the Moravrs of
 an ENLIGTENED and FREE PEO­  
 PLE.” —
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789121601:0505/pct:48.099415204678365,26.428807400066074,21.393762183235868,10.290716881400726/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789121601:0505/pct:48.11565951916829,26.428807400066074,21.37751786874594,10.301728884484088/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -73,7 +73,7 @@ vion—l will venture to pronouncc, as my fen-
 tirnem, that a modi uuruL litiraky  
 plan HAS NEVER IIIN I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793060501:0003/pct:70.22454629344817,84.2547372533698,19.993848046754845,8.204727485837077/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793060501:0003/pct:70.22454629344817,84.26450478609104,20.024607812980623,8.209611252197694/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -102,7 +102,7 @@ PI AN HAS NIVU BEEN UNDERTAKEN IN
 AMEK 1C A, or. one MORE DESERVING OF FUHr-  
 L 1 C ISfCOUR ACEMENT.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793061201:0001/pct:6.229109693102401,64.78353717724714,19.72044971133394,9.396233741021161/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793061201:0001/pct:6.244302643573382,64.7980974568045,19.735642661804924,9.381673461463793/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -131,7 +131,7 @@ fimcnt, THAT A MORI V SET If J. LITERARY
 AMERICA, or one MORE deserving OF PUB­  
 LIC ENCOURAGEMENT.&#x27;*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793061901:0001/pct:4.954407294832826,64.22321602177718,20.060790273556233,9.449737507291465/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793061901:0001/pct:4.954407294832826,64.23293797394517,20.06838905775076,9.440015555123468/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -160,7 +160,7 @@ PL AM HAS NEVER BEEN UNDERTAKEN IN
 AMERICA, or one uox E deserving of pub­  
 lic ENCOURAGEMENT.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793062901:0004/pct:31.968215158924206,22.91746641074856,19.498777506112468,9.193857965451055/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793062901:0004/pct:31.98349633251834,22.91746641074856,19.491136919315405,9.203454894433781/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -190,7 +190,7 @@ PL AN HAS NHA&#x27;F.I(&#x27;BE!N UNDERTAKEN IN
 America, or one more t&gt; ese rviljg of pub­  
 lic encouragement,&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793072001:0004/pct:31.046153846153846,83.67941005239666,19.753846153846155,9.295555986803803/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793072001:0004/pct:31.06923076923077,83.68426159518727,19.73846153846154,9.305259072385018/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -220,7 +220,7 @@ America, or one more deserving of rus-
   
 LIC ENCOURAGEMENT.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793072301:0004/pct:13.823791159893206,66.29277566539923,18.77781073865322,8.97338403041825/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793072301:0004/pct:13.83862355384159,66.30703422053232,18.78522693562741,8.963878326996198/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -249,7 +249,7 @@ PLAN HAS NEVER BEEN UNDERTAKEN IN
 AMERICA, or one MORE DESERVING OF pub-  
 LIC ENCOURAGEMENT.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793072701:0004/pct:50.20707231602421,28.38232431380183,20.35680152914941,9.324508467977418/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793072701:0004/pct:50.23096527556547,28.3969242748686,20.35680152914941,9.334241775355265/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -276,7 +276,7 @@ PLAN HAS N£V|LR J} EE N UNDERTAKER 1
 am erica, or one More pe&amp;e.ryi aig of yupr  
 Lie ENCOURAGEMENT.*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793073101:0004/pct:72.85935085007728,49.22839506172839,20.123647604327665,8.043981481481481/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793073101:0004/pct:72.87480680061825,49.233217592592595,20.11591962905719,8.043981481481481/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -304,7 +304,7 @@ PL At.&#x27; HAS NEVER BEEN UNDERTAKEN IN
 AMERICA, or one MORE, deserving of pub-  
 LIC ENCOURAGEMENT.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793080301:0004/pct:49.43237106714239,12.010138428543575,20.856308790139476,8.773640085786703/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793080301:0004/pct:49.45669802140772,12.019886917527783,20.8806357444048,8.773640085786703/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -333,7 +333,7 @@ PLAN HAS NEVER BEEN UNDERTAKER; IN
 AMimCA.or one more deserving of pub­  
 lic encouragement.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793081001:0004/pct:52.42472266244057,23.21533346371993,20.602218700475436,9.407392920007823/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793081001:0004/pct:52.44849445324881,23.21533346371993,20.58637083993661,9.422061412086837/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -360,7 +360,7 @@ PLAN HAS NEVER BEEN UNDERTAKEN IN
 AM ER 1 CA, or one MORe deserving of pub­  
 lic FCOU R Ac. £ M F N T &quot; fooe^
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793081401:0004/pct:51.561021759697255,24.574303405572756,20.403658152002524,8.1656346749226/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793081401:0004/pct:51.58467360454115,24.588815789473685,20.380006307158624,8.16079721362229/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -389,7 +389,7 @@ FLAN HAS NEVER BEEN UNDER T AKJ N IN
 AMERICA, or one MORE deserving of pub-  
 LIC ENCO U RAOEMENT &quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793082801:0004/pct:74.64658881376766,75.02908103916246,20.098340503995082,9.325319891430787/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793082801:0004/pct:74.6619545175169,75.03877471888329,20.113706207744315,9.320473051570376/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -422,7 +422,7 @@ Jones.
   
 LIC ENCOVRACIMSfJT.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793091401:0004/pct:31.18148599269184,81.92541856925419,19.518879415347136,9.436834094368342/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793091401:0004/pct:31.18148599269184,81.93017503805174,19.534104750304508,9.436834094368342/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -474,7 +474,7 @@ been undertaken in Americ«, nor one more
   
 [ 4 eferving yf piib lie cw&lt;b&lt;Jt ?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794120601:0001/pct:74.41431955777836,77.46268656716418,16.425375098710187,6.053067993366501/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794120601:0001/pct:74.42748091603053,77.46683250414594,16.45169781521453,6.053067993366501/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -497,7 +497,7 @@ Sr &#x27;hat a more&#x27; ufe&#x27;ul literary plan has never
 ■ been undertaken in America, nor one mor«  
 &#x27; d Serving of pub lic encoura&amp;ciw nt.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794121001:0001/pct:73.52865587252634,79.10397860247409,16.91081984065793,5.015045135406218/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794121001:0001/pct:73.5479311231046,79.1165162153126,16.91081984065793,5.010865931126713/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -522,7 +522,7 @@ that a more ufeful literary plan has never
 been undertaken in America, nor one more  
 deserving of pub lie encouragement.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794121901:0004/pct:28.753315649867375,22.16460354633657,16.021220159151195,6.139176982268317/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794121901:0004/pct:28.75994694960212,22.168785547005687,16.041114058355436,6.143358982937437/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -547,7 +547,7 @@ will ventuie to pronounce, as my sentiment,
 been undertaken in America, nor one more  
 delerving of pub lie encouragement/
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794122001:0004/pct:27.705049425594442,22.711978465679678,16.21693828479829,6.191117092866756/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794122001:0004/pct:27.705049425594442,22.711978465679678,16.223617419182474,6.199528936742934/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -572,7 +572,7 @@ that a more ufeful literary plan has never
 been undertaken in America, nor one more  
 deserving of public encouragement.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794122201:0004/pct:29.535864978902953,23.031127742813403,16.060126582278482,6.225548562680728/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794122201:0004/pct:29.55564345991561,23.04388501445824,16.046940928270043,6.225548562680728/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -597,7 +597,7 @@ will venture to pronounce, as my sentiment,
 been undertaken in America, nor one more  
 delerving of public encouragement.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794122301:0004/pct:29.26956069664674,23.413281122532222,16.064465817520144,6.004242127590145/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794122301:0004/pct:29.28905640759033,23.413281122532222,16.057967247205614,6.012400065263502/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -622,7 +622,7 @@ that a more ufeful literary plan has never
 been undertaken in America, nor one more  
 deleiving of public encouragement.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794122601:0004/pct:27.628811777076763,22.679539295392953,16.08832807570978,6.25/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794122601:0004/pct:27.635383806519453,22.68377371273713,16.08175604626709,6.245765582655826/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -647,7 +647,7 @@ will venture to pronounce, as my femiment,
 been undertaken in America, one more  
 deserving of pun lie encouragement.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794122701:0004/pct:26.944518184231484,23.65951742627346,16.3259888505442,6.233243967828418/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794122701:0004/pct:26.964427926732146,23.66789544235925,16.332625431377753,6.233243967828418/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -672,7 +672,7 @@ that a more ufcful literary plan has never
 been undertaken in America, nor one more  
 delerVingof public encouragement.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794123101:0004/pct:29.398382204246715,24.343951147053968,15.394337714863498,6.073609506519228/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794123101:0004/pct:29.41102123356926,24.348077240468726,15.406976744186046,6.0818616933487375/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -697,7 +697,7 @@ s -that a more ufeful plan has never
 J been undertaken in Ameiica, nor one more  
 &#x27;» delcrving of pub lie encou 1 tgr ment.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1795010801:0001/pct:70.25425820784992,78.78932316491897,16.44038509010121,5.799173816333016/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1795010801:0001/pct:70.26660083929895,78.79726723863998,16.44038509010121,5.799173816333016/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -722,7 +722,7 @@ that a more ufoful literary plan has never
 been undertaken in America, nor one more  
 deserving of p«D lie encouragement.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1795013101:0004/pct:31.811663479923517,24.07754846779237,15.630975143403441,5.706691682301439/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1795013101:0004/pct:31.811663479923517,24.081457160725453,15.642925430210324,5.706691682301439/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -745,7 +745,7 @@ I (bat a more ufeful literary plan has never 1
 I been undertaken in America, nor one more I  
 I dekrving of pua lie encouragement.&quot; J 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1795020401:0004/pct:33.294904311736225,28.516090584028607,16.23241872261932,4.603694874851013/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1795020401:0004/pct:33.30643301821536,28.523539928486294,16.23241872261932,4.6111442193087/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -770,7 +770,7 @@ hat a more ufelui iiteraiy plan has never
 been undertaken in iVmeiica, nor one more  
 delerving of pu&#x27;o lie encouragement.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1795021201:0004/pct:32.87937743190661,24.371044914338633,14.883268482490273,5.695323352369193/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1795021201:0004/pct:32.88545719844358,24.374903534496063,14.883268482490273,5.703040592684056/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -792,7 +792,7 @@ fiiperadded the more immediate
 refcujng jiuhlic documen&#x27;s trom oblivion, I  
 will venture to pronounce, as my
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1795021301:0004/pct:33.52601156069364,24.38612645794966,14.011560693641618,4.143646408839779/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1795021301:0004/pct:33.53757225433526,24.397636586863108,14.011560693641618,4.151319828115408/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -815,7 +815,7 @@ will venture to pronounce, as my sentiment, ]
 been undertaken in America, nor one more  
 deserving of public encouragement.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1795021801:0004/pct:32.63806589239156,25.612745098039216,15.335387532590662,4.595588235294118/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1795021801:0004/pct:32.64399146717231,25.620404411764707,15.341313107371414,4.595588235294118/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -840,7 +840,7 @@ that a more ufeful literary plan has oeve&#x27;
 been undi iiak.cn in America, nor one more  
 deferring of pub lie encouragemcnt.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1795022701:0004/pct:33.05785123966942,23.30955334987593,14.90034030140982,5.707196029776675/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1795022701:0004/pct:33.076081672338354,23.317307692307693,14.894263490520174,5.7149503722084365/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -865,7 +865,7 @@ that 9 more ufelul liters,y plan has never
 been undertaken in America, nor one more  
 delerving of public encourogemcnt.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1795031301:0004/pct:77.40703005603667,23.322011968300178,15.970453387671931,6.01649684619117/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1795031301:0004/pct:77.40703005603667,23.326055312954875,15.97682119205298,6.01649684619117/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -891,7 +891,7 @@ been undertaken in America, nor One more
 delerving of public encouragement.&quot;  
 Gentidl Waftiingion
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1795032601:0001/pct:70.27784858526638,78.25730226452248,15.753250063726739,6.498194945848375/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1795032601:0001/pct:70.29696660718838,78.26140466032163,15.74687738975274,6.494092550049229/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -916,7 +916,7 @@ that a more ufeful literary plan has never
 been undertaken in America, nor one mote  
 deferring of public encouragement.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1795041501:0001/pct:73.26108870967742,41.249794981138265,15.524193548387096,5.953747744792521/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1795041501:0001/pct:73.27998991935483,41.26209611284238,15.511592741935484,5.949647367557815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -941,7 +941,7 @@ that a more ufeful literary plan has never
 been undertaken ?n America, nor one more  
 deserving of public encouiagement.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1795041601:0001/pct:70.70401211203634,41.49869960988296,15.543779964673227,5.900520156046814/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1795041601:0001/pct:70.72293716881151,41.50682704811443,15.531163260156447,5.8964564369310795/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -966,7 +966,7 @@ t that a more uftrful litcrsiy plan has never
 - been undertaken in Ameiica, nor one more  
 deserving of public encouragement.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1795042201:0001/pct:72.05218263923733,69.74599579356091,16.407425990968388,5.889014722536806/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1795042201:0001/pct:72.06472654290015,69.74599579356091,16.4136979427998,5.905193334411908/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -991,7 +991,7 @@ I will venture te pronounce, as my sentiment,
 been undertaken in nor one more  
 deferring of public encouragement.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1795042301:0001/pct:72.72963830340879,67.72889032675509,16.627634660421545,5.871886120996441/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1795042301:0001/pct:72.74915430653135,67.72889032675509,16.627634660421545,5.884018117114202/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1016,7 +1016,7 @@ that a more ufeful literary plan has never
 been undertaken in America, nor one marc  
 deserving of pub lie encouragement.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1795042501:0001/pct:72.79898218829517,69.08855011352578,15.877862595419847,5.984430749270191/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1795042501:0001/pct:72.81806615776081,69.09260460590335,15.865139949109414,5.996594226402855/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1039,7 +1039,7 @@ that a more uleiul literary plan has never
 been undertaken in America, nor one more  
 deler? tng of public encouragement.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1795050501:0004/pct:27.372448979591837,24.84392508404034,15.255102040816327,4.7062590043220744/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1795050501:0004/pct:27.385204081632654,24.84392508404034,15.248724489795919,4.726268608932288/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1064,7 +1064,7 @@ that a more ufefui literary plan has never
 been undertaken in America, nor one more  
 deserving of pub lie encouragement.*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1795051901:0004/pct:29.791666666666668,22.57588187038556,15.677083333333334,5.955701394585726/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1795051901:0004/pct:29.8046875,22.57588187038556,15.68359375,5.968006562756358/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1089,7 +1089,7 @@ thai a more uleful literary plan has nevei
 been undertaken in America, nor one more  
 deserving of public encouragement.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1795052001:0004/pct:26.67748917748918,22.04671483784238,16.26082251082251,6.099815157116451/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1795052001:0004/pct:26.684253246753247,22.050915812468492,16.294642857142858,6.112418080994791/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1114,7 +1114,7 @@ that a more uleful literary plan has never
 been undertaken in America, nor one more  
 delerving of public encouiagement.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1795052201:0004/pct:27.337184873949578,20.965842167255595,16.01890756302521,6.175332323742218/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1795052201:0004/pct:27.35688025210084,20.965842167255595,16.00577731092437,6.179538953390543/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1139,7 +1139,7 @@ that a more ufeful literajy plan has never
 been undertaken in America, nor one more  
 delerving of public encouragement.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1795052301:0004/pct:27.248394004282655,22.170361726954493,16.08672376873662,6.034339056509419/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1795052301:0004/pct:27.248394004282655,22.170361726954493,16.100107066381156,6.046841140190032/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1164,7 +1164,7 @@ that a more uleful literary plan has never
 been undertaken in America, nor one more  
 delerving ol* pwb lie encouragement.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1795052501:0004/pct:27.84446764091858,23.121387283236995,15.81419624217119,6.061106523534269/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1795052501:0004/pct:27.864039665970772,23.133773740710158,15.81419624217119,6.06523534269199/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1187,7 +1187,7 @@ that a more ufelul literary plan has never
 been undertaken in Amt 1 ica, nor one more  
 delervmg of pub lie encouragement.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1795052901:0004/pct:27.373417721518987,24.021974363242883,17.035864978902953,4.960878974529716/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1795052901:0004/pct:27.380010548523206,24.026136174463126,17.035864978902953,4.977526219410688/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1212,7 +1212,7 @@ ihat a more ufeful literaTy plan hai never 1
 been undeitaken in America, nor one more  
 delerving of p«b lie encouragement.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1795060201:0004/pct:45.208333333333336,80.712017382584,16.40625,6.050476349657362/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1795060201:0004/pct:45.21484375,80.72037439411666,16.42578125,6.058833361190039/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1237,7 +1237,7 @@ trial a more ulelul literary plan has never
 been undertaken in America, nor one more  
 deserving ol puolic encouragement.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1795060801:0004/pct:26.819620253164558,21.638902910987717,16.244725738396625,6.141679286555612/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1795060801:0004/pct:26.819620253164558,21.643109540636043,16.257911392405063,6.141679286555612/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1260,7 +1260,7 @@ that# more uielut literary plan has never fr
 1 been undertaken in America, nor one more j  
 public encouragement.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1795061301:0004/pct:44.47314049586777,62.427361779843935,17.949380165289256,4.9643035032375895/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1795061301:0004/pct:44.47314049586777,62.4398140461564,17.96875,4.9601527478001/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1285,7 +1285,7 @@ that a more ufeful literary plan has never
 betn undertaken in America, nor one more  
 dclervmg of pub lic encour^ement.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1795061901:0004/pct:26.236559139784948,21.246882793017456,16.50537634408602,6.151288445552785/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1795061901:0004/pct:26.256720430107528,21.246882793017456,16.512096774193548,6.163757273482959/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1311,7 +1311,7 @@ been undertaken in America, nor one more
 delerving of pup lie encouragemeut.&quot;  
 Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1795062201:0004/pct:27.308091286307054,21.86627238376869,15.87136929460581,6.489239362575981/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1795062201:0004/pct:27.321058091286307,21.86627238376869,15.87136929460581,6.501560703137835/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1334,7 +1334,7 @@ that a more uleful literary plan has never
 been undertaken in America, nor one inore  
 delerving of public encouragement.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1795062401:0004/pct:28.88477801268499,32.25967126016935,16.01479915433404,4.914494437987714/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1795062401:0004/pct:28.904598308668078,32.25967126016935,16.01479915433404,4.939398970612651/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1359,7 +1359,7 @@ that a more ul&#x27;eful literary plan has never
 been undertaken in Amtrica, nor one more  
 delerviogot p.blicencouragement.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1795062601:0004/pct:44.89219712525667,21.40733399405352,15.759753593429158,6.144697720515362/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1795062601:0004/pct:44.89861396303901,21.4197224975223,15.7661704312115,6.144697720515362/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1384,7 +1384,7 @@ that a more ufelul literary plan has never &#x27;
 been undertaken in America, nor one more •  
 delerving of public encouragement.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1795062701:0004/pct:46.13217213114754,21.607875307629204,16.700819672131146,6.103363412633306/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1795062701:0004/pct:46.138575819672134,21.607875307629204,16.700819672131146,6.123872026251026/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1464,7 +1464,7 @@ lated than any other, to preserve the LIBERTY,
 stimulate the INDUSTRY, and meliorate the  
 moraLs of an enlightened and free peeple.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1836010501:0210/pct:69.47174447174447,89.08997561288666,14.527027027027026,5.942754460274676/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1836010501:0210/pct:69.47686322686323,89.09853249475891,14.537264537264537,5.942754460274676/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1547,7 +1547,7 @@ of an enlightened and free people.”
 [And such is the opinion of every sensible, lib­  
 eral minded man in the world. Yet we find th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn86071753:00414184388:1847010701:0432/pct:37.03537841468876,53.72826086956522,15.03209434243917,4.8478260869565215/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn86071753:00414184388:1847010701:0432/pct:37.02985074626866,53.72242147592653,15.034825870646767,4.85092200123175/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1571,7 +1571,7 @@ enlightened and free people.
 Signed) GEOrGe WAsHinGTON.  
 The annual crop of Hay raised in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:0041566770A:1847011401:0960/pct:188.4377758164166,345.9410973239647,59.31156222418358,22.783674689789205/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:0041566770A:1847011401:0960/pct:47.14064914992272,86.48527433099117,14.837712519319938,5.695918672447301/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1611,7 +1611,7 @@ the liberty, stimulate the industry, and me­
 liorate the morals of an enlightened and free  
 people.-Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_harrison_ver01:data:sn82015672:00296021829:1850073101:0027/pct:268.0995475113122,339.61786128998205,57.97511312217195,15.75002639079489/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_harrison_ver01:data:sn82015672:00296021829:1850073101:0027/pct:67.0343657191345,84.90446532249551,14.495828029981615,3.9375065976987225/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1631,7 +1631,7 @@ preserve the liberty, stimulate the indus
 try, and meliorate the morals of an enligh­  
 tened and free people.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_black_ver02:data:sn84026561:00415667802:1850082301:0010/pct:96.98081264108352,38.29764903442485,21.670428893905193,4.376574307304786/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_black_ver02:data:sn84026561:00415667802:1850082301:0010/pct:72.77346506704305,28.725860621326618,16.25970359915314,3.2850545759865657/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

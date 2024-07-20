@@ -71,7 +71,7 @@ I of my respectful consideration.
 | (Signed)  
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809122201:0003/pct:24.84100982848333,3.3520265103237317,34.322605511659276,92.03415753250064/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809122201:0003/pct:24.85385751911094,3.3520265103237317,34.32902935697308,92.04690288044864/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -115,7 +115,7 @@ tel- of the. statu over which y;.H preside.
 pectful consideration.  
 (S-gned) JAMEi \ ADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809122801:0287/pct:22.492401215805472,69.67448539971278,17.647058823529413,15.282431785543322/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809122801:0287/pct:22.488380407579548,69.66614813928443,17.649862948397093,15.284591759403295/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -241,7 +241,7 @@ of my respectful consideration.
 (Signed;  
 JAMES MADISOX. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810010901:0015/pct:58.755155605549305,40.744518103008666,17.94150731158605,26.87404385517593/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810010901:0015/pct:58.74414245548266,40.73932441045252,17.94439237738207,26.87486721903548/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -374,7 +374,7 @@ remark, that the Executive of the United States
 Ill the course of time the Mandamus directed by  
 the Supreme Court was issued and placed in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1845022201:0104/pct:33.03891802373723,48.62016514558888,15.222191553960807,7.735767057800956/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1845022201:0104/pct:33.03891802373723,48.627408373171086,15.222191553960807,7.735767057800956/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -412,7 +412,7 @@ ianctiooed by the Supreme Court of the United Statea, but
 is expressly enjoined, by statute, to carry into effect any  
 such decree where opposition may be made to it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1851020101:0519/pct:2.010118966224532,88.99229781771501,15.451934910433474,7.092426187419769/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1851020101:0519/pct:2.019235152012398,88.99229781771501,15.451934910433474,7.09955783768364/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -446,7 +446,7 @@ ry into effect au.v such dcercc vrhere opposition
 mav l&gt;e made to it?that no legal discretion iie-s  
 with the Executive to decline steps that might
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dior_ver01:data:sn85025007:00415663511:1860121401:0157/pct:28.968400344276404,23.98466097263378,13.795647362596828,4.061356109464877/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dior_ver01:data:sn85025007:00415663511:1860121401:0157/pct:28.972498872904627,23.9904712102725,13.795647362596828,4.058450990645517/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -57,7 +57,7 @@ such certificate (ball be dc&lt; mcd a fufficient
 voucher for the sum or sums therein exprefled  
 to have been expended
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793022001:0002/pct:55.308114704087856,26.386304428730927,19.585112873703476,16.858950502419056/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793022001:0002/pct:55.308114704087856,26.39560848529959,19.600366076876146,16.858950502419056/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -91,7 +91,7 @@ deemed a fufficient voucher for the sum or
 sums therein expressed to have been ex­  
 pended
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798032101:0002/pct:44.88546155590837,47.04512372634643,16.10342481288274,11.906841339155749/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798032101:0002/pct:44.89680199591744,47.05604075691412,16.10342481288274,11.895924308588064/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -123,7 +123,7 @@ for the sum or funis therein exprefled to
 have been expended.  
 THEODORE SEDGWICK
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800071501:0002/pct:60.43499511241447,9.460338101430429,16.837732160312804,11.833550065019505/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800071501:0002/pct:60.4411045943304,9.464401820546163,16.856060606060606,11.84574122236671/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -184,7 +184,7 @@ public; and by making a certisicate or
 state to make a certificate of the amount  
 of such expenditure,-acts he may think it-ad
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802051701:0084/pct:32.01335877862596,14.096307890617807,22.07379134860051,7.467084062241046/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802051701:0084/pct:32.00826840515185,14.095010127048425,22.07558170350347,7.469465414595225/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -274,7 +274,7 @@ such expenditures as he may think it ad.
 ere, for &quot;the sumssi citpressed to have been  
 expended. &#x27; The policyfi of this lavi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802093001:0408/pct:31.77480916030534,4.487875497647485,45.1176844783715,91.72095548317047/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802093001:0408/pct:31.769756718079186,4.487469465303538,45.115810674723065,91.71567296963117/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -323,7 +323,7 @@ recratary,_that all such expenditures ought
 &#x27; (0 be ascertained to the satisfaction of the  
 president, and certisied according to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802093001:0408/pct:54.54834605597964,67.18241042345277,22.28053435114504,28.193992037640246/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802093001:0408/pct:54.539672443949755,67.17633221749752,22.282291832299784,28.194457010163152/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -356,7 +356,7 @@ not to specify ; and such certificates arc to be taken
 as sufficient vouchers, for the sums expressed lb have  
 been expended. The policy of this law, the commit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809031001:0378/pct:47.46772591857001,44.4408945686901,20.854021847070506,11.45367412140575/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809031001:0378/pct:47.45594440307769,44.4337965181281,20.85505088111194,11.455837725602938/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -507,7 +507,7 @@ the Barbary coast, or either of them
 to expend or to disburse, or pay, or  
 cause to he paid for any purpose or o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810071701:0231/pct:22.744431861079654,76.3910158244002,18.252170630426576,15.849923430321592/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810071701:0231/pct:22.740139648990375,76.381268342478,18.255016669811916,15.85215431074816/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -545,7 +545,7 @@ to expend or to disburse, or pay, or cause to be
 paid for any purpose or on any pretence what  
 &lt;. ver, not authorised by law, to anyone of til
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810072401:0094/pct:42.48030774867192,26.205885944559775,17.494046528668253,12.028330687507632/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810072401:0094/pct:42.472527472527474,26.202686202686202,17.496947496947495,12.03093203093203/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -580,7 +580,7 @@ Auch certificate shall be deemed a fufficient
 ~voucher for the sum or sums thercin ex:  
 - Sec. 4. dAnd be it further enadled, Tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1810073101:0545/pct:25.1174444096461,65.52409339294586,16.410898841215158,13.283656234475906/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1810073101:0545/pct:25.127883912725753,65.52740519953635,16.400459338135505,13.283656234475906/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -656,7 +656,7 @@ ed a sufficient voucher for the sum or sums
 therein expressed lo have been expended.”  
 The outfit was expressly intended to defra
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183980:1824090301:0137/pct:0.683371298405467,60.347532279473874,16.49853563293199,8.664172800772294/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183980:1824090301:0137/pct:0.6832601268911664,60.340250965250966,16.501274334363647,8.667149292149292/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -738,7 +738,7 @@ spucuy; a“u every such certificate shall be deem­
 ed a sufficient voucher fertile sum or turns there­  
 in expressed to have been expended.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184017:1828022101:0393/pct:34.610452067970506,32.265060240963855,15.453671048412954,13.096385542168674/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184017:1828022101:0393/pct:34.60490463215259,32.26117335260812,15.45653683816851,13.09882343492752/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -802,7 +802,7 @@ I&#x27; to the said auditor, at such times as he may direct,
 | all cases where any sum or sums of money have  
 | been paid out of the funds of the Post Office De
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1836082301:0339/pct:20.63395306309052,64.69340337407819,14.583968302346845,4.677240125265178/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1836082301:0339/pct:20.639032815198618,64.7001380610836,14.589048054454942,4.677240125265178/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -826,7 +826,7 @@ think it advisable not to specify; and such certificate ^
 shall be deemed a sufficient voucher for the sum  
 therein expreeed to have been expended.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846040901:0395/pct:1.4756671899529041,30.87815178238728,13.720565149136577,4.831697925723512/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846040901:0395/pct:1.4756671899529041,30.87815178238728,13.731030873888017,4.839978470583365/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -885,7 +885,7 @@ it advisable not to specify; and such certificate
 1 shall be deemed a sufficient voucher for the sum  
 therein expressed to have been expended.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215774:1846041401:0644/pct:37.11278792692613,85.05989654233596,14.912629070691025,4.968690443778927/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215774:1846041401:0644/pct:37.10910354412787,85.05410739808072,14.914457791455707,4.970620930601874/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -910,7 +910,7 @@ be deemed a sutfeient voucher lor the sum there­
 in expressed&#x27;to have been expended.&quot;  
 Mr. Ingersoll. Ai the treasury 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1846041401:0575/pct:54.60345077569958,23.608101742816768,13.281136726112802,4.616109279321715/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1846041401:0575/pct:54.60345077569958,23.61438216360496,13.290802764486974,4.616109279321715/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -939,7 +939,7 @@ Two distinct classes of expenditure are authorised
 ivate and confidential character. The President  
 office at the lima of the expenditure ia made b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846042101:0433/pct:40.81956797966963,10.522388059701493,13.83418043202033,7.176616915422885/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846042101:0433/pct:40.82486234646336,10.522388059701493,13.83418043202033,7.189054726368159/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1017,7 +1017,7 @@ public. All expenditures accounted for specialy&quot;
 are settled at the Treasury upon vouchers, and not on  
 &quot;Presidente&#x27; certificates,&quot; and like all other public ac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530236:1846042301:0603/pct:86.96761843994257,56.22632575757576,42.478864252671876,26.07717803030303/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530236:1846042301:0603/pct:28.989206146647525,18.742108585858585,14.159621417557293,8.692392676767676/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1037,7 +1037,7 @@ deemed a sufficient voucher for the sum or sums therein
 expressed to have been expended.  
 The law making these provisions is in full force. It i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530236:1846042301:0603/pct:86.72834582868082,93.8565340909091,42.622427819428935,7.658617424242424/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530236:1846042301:0603/pct:28.909448609560272,31.285511363636363,14.207475939809646,2.552872474747475/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1067,7 +1067,7 @@ not to specify; and every such cei tifi&#x27; ate shall
 he deemed a sullieient voucher for the sum or  
 sums therein expressed to have been expended.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215774:1846042301:0676/pct:53.32462836480514,12.994619628141388,14.93571715548413,8.043315398760472/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215774:1846042301:0676/pct:53.31927287335543,12.993734677199672,14.93756486224097,8.045037682738581/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1100,7 +1100,7 @@ for the sums therein expressed to have been ex­
 pended.&quot;  
 The law making these provisions is in ful
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215774:1846042301:0676/pct:53.37484933708316,25.93475447796772,14.855363599839293,9.868555472314922/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215774:1846042301:0676/pct:53.36948880184794,25.932988286570417,14.85721937665294,9.870153455007719/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1125,7 +1125,7 @@ by making a certificate of the amount of such expenditures
 as he may think it advisable not to specify; and every such  
 certificate shall be deemed a sufficient voucher for the su
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184637:1846042401:0376/pct:89.28055475296158,50.422796246959344,38.32707310026004,12.76497162052589/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184637:1846042401:0376/pct:29.755886176513073,16.80565207319898,12.773845635321875,4.254497722183615/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1149,7 +1149,7 @@ cate of the amounl of such exp nditures as he
 may think it advisable not to specif; an t every  
 such cettifk-ate shall t&gt;e deemed a suflk tent vouch
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1846042401:0588/pct:3.613036425306002,19.304248645566012,14.555375313375608,4.163102366695181/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1846042401:0588/pct:3.617952121122745,19.31058517884865,14.555375313375608,4.163102366695181/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1171,7 +1171,7 @@ o* ?iids therein expressed to have been expend­
 ?1*  
 , he law making these provisions is in ful
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1846042401:0588/pct:4.896033033475889,32.94363653645091,13.434596667158237,3.4407375724740996/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1846042401:0588/pct:4.896033033475889,32.94363653645091,13.449343754608465,3.44390583911542/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1195,7 +1195,7 @@ think it advisable not to specify; and such certificate
 shall be decined a sufficient voucher for the sum  
 therein expressed to have been expended.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776956:1846042401:0241/pct:73.15436241610739,43.009512827904295,47.651006711409394,15.39348515422312/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776956:1846042401:0241/pct:18.288590604026847,10.752378206976074,11.912751677852349,3.84837128855578/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1219,7 +1219,7 @@ to specify | and every sueh certificate shall be deemed a suffi­
 cient voucher for the sum or sums therein expressed to have  
 been expended.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1846042501:0352/pct:52.32733763558973,86.47702407002188,15.172319099272277,4.485776805251641/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1846042501:0352/pct:52.3319145040963,86.48431801604669,15.186049704791982,4.489423778264041/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1248,7 +1248,7 @@ specity ; and every such certificate shall he deem­
 ed a sufficient voucher for the sum or sums there  
 in expressed to have been expended.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn86071753:00414184376:1846042501:0735/pct:57.29294344247943,36.36252146185921,17.54508842584486,8.65832720137356/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn86071753:00414184376:1846042501:0735/pct:57.28291316526611,36.35806253832005,17.54785247432306,8.661352953198447/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1336,7 +1336,7 @@ certificate shall be deemed a Mifiieie.itt voucher
 for tho sum or sums therein expresed to have  
 been expended.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn86053954:0023728236A:1846043001:0475/pct:77.46042670337233,23.698514313322864,46.145905024088094,102.64524701050851/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn86053954:0023728236A:1846043001:0475/pct:58.123924268502584,17.77992511172847,34.61273666092943,76.97789588114506/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1358,7 +1358,7 @@ ficient voucher for the sum or sums therein ex­
 pressed to have been expended.&quot;  
 The law making these provisions is in .ful
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn86053954:0023728236A:1846043001:0475/pct:100.29249827942189,63.38929822442324,23.830006882312457,7.126464548858558/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn86053954:0023728236A:1846043001:0475/pct:75.24956970740104,47.54197366831743,17.882960413080895,5.3508877883802395/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1389,7 +1389,7 @@ and every such certificate shall he deemed a
 sufficient voucher for the sum or sums therein  
 expressed to have been expended.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348987:1846043001:0496/pct:72.16371945161931,82.5861323338619,13.570435128154182,8.317716592186825/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348987:1846043001:0496/pct:72.14938418752483,82.57422888440473,13.572705601907032,8.320121072355146/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1423,7 +1423,7 @@ thorired by this law; the one of a public, and the
 other of a private and confidential character. The  
 President in office at the time of the expenditur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:0041566770A:1846050101:0805/pct:62.884784520668426,229.61662276851038,59.10290237467019,38.86450102429031/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:0041566770A:1846050101:0805/pct:15.724653617769958,57.404155692127596,14.778975148449527,9.716125256072578/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1445,7 +1445,7 @@ for the sum or sums therein expressed to have
 been expended.&quot;  
 The law making these provisions is in ful
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:0041566770A:1846050101:0805/pct:63.14863676341249,302.8972783143108,58.927000879507474,15.686274509803921/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:0041566770A:1846050101:0805/pct:15.790631185396965,75.7243195785777,14.734990103364856,3.9215686274509802/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1518,7 +1518,7 @@ in hi;5 judgment, be made public, and by making
   
 a certificate of the amount ot such expenditures as
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879051:1846050801:0349/pct:46.08319827120476,44.22164099583454,39.64073473797947,8.757144241015208/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879051:1846050801:0349/pct:34.56706740510604,33.16865252349123,29.744698095366743,6.567858180761407/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1578,7 +1578,7 @@ tot
   
 expressed to have been expended.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84037932:00415668946:1846050901:0502/pct:47.17972492659558,75.19818799547,80.15762633286973,21.46092865232163/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84037932:00415668946:1846050901:0502/pct:15.726574975531861,25.066062665156664,26.71920877762324,7.15364288410721/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1909,7 +1909,7 @@ Revised Statutes, which empowers the Secretary of
 State to make a certificate of the amount of such  
 expenditures out of appropriations for th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_buick_ver01:data:sn83030214:00175039909:1882060901:0603/pct:52.159309021113245,118.24401368301027,47.408829174664106,5.6670467502850626/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_buick_ver01:data:sn83030214:00175039909:1882060901:0603/pct:17.38643634037108,39.414671227670084,15.80294305822137,1.8890155834283542/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1937,7 +1937,7 @@ i State to make a certificate of the amount of such expen
 o vousher for the sum therein expressed to have beene  
  pended.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_kobayashi_ver01:data:sn83030272:00175044784:1882061201:0487/pct:0.0,340.17223145490254,79.58271236959762,25.804502190663243/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_kobayashi_ver01:data:sn83030272:00175044784:1882061201:0487/pct:0.0,85.04305786372564,19.906803355079216,6.451125547665811/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1966,7 +1966,7 @@ voucher for the sum therein expressed to have been ex
 pended.  
 There is nothing in our diplomatic relation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_kobayashi_ver01:data:sn83030272:00175044784:1882071501:0635/pct:176.56840513983371,49.442267108833285,50.264550264550266,26.89176967138981/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_kobayashi_ver01:data:sn83030272:00175044784:1882071501:0635/pct:44.15044415044415,12.360566777208321,12.568512568512569,6.722942417847452/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2008,7 +2008,7 @@ cient voucher for the sum therein expressed
 to have been expended.  
 When that portion of the bill referre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00383342120:1884061101:0049/pct:55.51995728207182,57.34542800542175,9.691629955947137,9.383797309978105/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00383342120:1884061101:0049/pct:55.51995728207182,57.3523789663921,9.696079740132603,9.376846349007751/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2036,7 +2036,7 @@ and every such certifieate shall be deemed a saficient
 en voncher for the sum therein expressed to have been  
  expende
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044838:1884070801:0672/pct:4.291187739463601,341.30434782608694,67.58620689655173,22.940103374885982/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044838:1884070801:0672/pct:1.0727969348659003,85.32608695652173,16.896551724137932,5.735025843721496/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

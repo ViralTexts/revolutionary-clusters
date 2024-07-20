@@ -90,7 +90,7 @@ of the Bank of the United States, and for that pur­
 pose to make and execute all necessary ails of align­  
 ments and transfer, and furthermore one or mor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791121001:0004/pct:12.177694936315627,34.48146056841709,26.001863932898416,6.154714850367024/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791121001:0004/pct:12.185461323392358,34.48146056841709,26.009630319975148,6.159420289855072/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -107,7 +107,7 @@ point . of true and lavClul attorney,
 lor and in name and behalf to sell, assign  
 and transfer unto any person or persons, the whol
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804101001:0312/pct:58.92686652663739,35.90176715176715,17.700973839984723,1.7411642411642412/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804101001:0312/pct:58.91561664757541,35.89710276731194,17.703958253786432,1.7452687194144905/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -124,7 +124,7 @@ point of true and lawful attorney
 ior and in name and behalf to sell, assign  
 and transfer unto any person or persons, the whol
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804101701:0320/pct:40.98704268292683,55.72678594749902,17.778201219512194,1.7761525401593314/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804101701:0320/pct:40.97923413983616,55.719509010185426,17.78116466628564,1.7802733524854184/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -436,7 +436,7 @@ longing, upon which -dollars per share linve been
 paid; and for that purpose to make and execute all ne­  
 cessary acts of assignment and transfer thereof
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184091:1835120401:0238/pct:50.653950953678475,61.0260336906585,14.822888283378747,3.500328155764603/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184091:1835120401:0238/pct:50.647050810516276,61.01935907251449,14.82540979884666,3.5035910897225566/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -458,7 +458,7 @@ longing, upon which-dollars per sliure have been
 paid; and ibr that purpose to make and execute all ne­  
 cessary acts of assignment und transfer thereof
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184091:1835120801:0239/pct:49.333888426311404,35.90024064756071,15.001387732445185,3.4675125793043096/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184091:1835120801:0239/pct:49.32704315249063,35.89631412009187,15.003931363026688,3.470779102409858/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -481,7 +481,7 @@ and execute all necessary acts of assignment and transf
 fer thereof.  
 I In witness whereof i have hereunto set my hand an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_armani_ver02:data:sn84024735:00415664229:1837010501:0614/pct:16.50539120818358,91.62790697674419,16.325684268730992,4.195942602671945/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_armani_ver02:data:sn84024735:00415664229:1837010501:0614/pct:16.514606948668327,91.63120567375887,16.325684268730992,4.202539996701303/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -502,7 +502,7 @@ Company, unto me belonging, upon which dollars
 i per share have been paid; and for that purpose to make  
 and execute all necessary acts of assignment and transfe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_armani_ver02:data:sn84024735:00415664229:1837010701:0618/pct:17.30636951437612,90.84346880253139,16.109506121887467,3.777316325521606/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_armani_ver02:data:sn84024735:00415664229:1837010701:0618/pct:17.310955197872243,90.84346880253139,16.11867748887972,3.783908500609776/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -538,7 +538,7 @@ Now then, on the day that the contract matured, Messrs.
 lacoh Little &amp; Co, went forward with the stock in one  
 hand, and the power in the other to fulfil their contract, bu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271743166:1842080901:0172/pct:49.02353530295443,123.8029624526352,51.64413286596562,26.63910896773453/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271743166:1842080901:0172/pct:16.341178434318145,41.2676541508784,17.214710955321873,8.879702989244842/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -556,7 +556,7 @@ lawful attorney, for me and in my name and
 on my behalf, to sell, assign and transfer unto  
 any person or persons whatsoeverd shares no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296199:1847072401:0966/pct:145.7841483979764,280.61426182149916,61.214165261382796,8.14961228523643/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296199:1847072401:0966/pct:36.4460370994941,70.15356545537479,15.303541315345699,2.0374030713091074/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

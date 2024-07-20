@@ -71,7 +71,7 @@ upon earth ever had it more in its power tha
 
 ---
 
-## [From _The American review : a Whig journal of politics, literature, art, and science_](https://archive.org/details/sim_american-whig-review_1849-07_10_19/page/n2/mode/1up?view=theater)
+## [From _The American Review: a Whig Journal Devoted to Politics and Literature (1848-1850)_](https://archive.org/details/sim_american-whig-review_1849-07_10_19/page/n2/mode/1up?view=theater)
 
 #### 1849-07-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -143,7 +143,7 @@ imagine his Excellency descending to a jest, it
 whereas many causes will have conspired to n­  
 luce them.ee o 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_qualchan_ver01:data:sn82015753:00212475245:1860030501:0489/pct:89.4375,165.58988764044943,38.3125,81.41385767790263/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_qualchan_ver01:data:sn82015753:00212475245:1860030501:0489/pct:29.8125,55.19662921348315,12.770833333333334,27.137952559300874/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -187,7 +187,7 @@ the new government, whereas many causes
 will have conspired t# pioduce them.  
 FBOM HENRY LEE (OF THE LEGION) T
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_dragonair_ver01:data:sn89051343:00414212578:1860032101:0462/pct:68.6411149825784,17.737296260786195,26.26077388593435,79.87946856594986/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_dragonair_ver01:data:sn89051343:00414212578:1860032101:0462/pct:68.62852951961862,17.734867159682278,26.260542720938762,79.87195288961928/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -223,7 +223,7 @@ he speaks of &quot;the accession of Maryland
 to the proposed government,&quot; and adds  
 that &quot;the accession of one more State wil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn82000205:00211103589:1888022501:0228/pct:19.312362838332113,202.00319349687908,43.59912216532553,4.877340688053419/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn82000205:00211103589:1888022501:0228/pct:4.829857299670691,50.50079837421977,10.903768752286863,1.2193351720133547/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

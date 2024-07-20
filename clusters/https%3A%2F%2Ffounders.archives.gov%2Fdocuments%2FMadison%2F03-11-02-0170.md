@@ -88,7 +88,7 @@ government snd. for the admission of such
 the original states -  
 Be it enacied by the Senute and House of Fep
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1816061801:0533/pct:58.026853473438415,50.89609343536045,16.579100992410975,3.2420459122029803/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1816061801:0533/pct:58.031718233119285,50.89609343536045,16.59369527145359,3.252114377768828/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -110,7 +110,7 @@ ing with the original stales.
 BE it enacted by the Senate and Houase of  
 Representativea of the United Siates of Ame
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1816061901:0300/pct:70.27027027027027,73.9541316123084,21.72172172172172,4.863432061772502/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1816061901:0300/pct:70.27694361027694,73.95797318581691,21.72172172172172,4.863432061772502/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -299,7 +299,7 @@ admission of such state into the union on an
 equal footing with the original states,” cer­  
 tain propositions were offered 10 the peopl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn83026170:00414216274:1820030401:0224/pct:44.62989840348331,24.938742172610944,18.040638606676342,5.8626009619747705/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn83026170:00414216274:1820030401:0224/pct:44.62342185459295,24.936479128856625,18.042857833889613,5.865093768905021/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -320,7 +320,7 @@ state info llie Union on an equal footing
 with tfie original states,” certain propo­  
 sitions were offered to the people ..f th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183943:1820031001:0389/pct:49.97584929962969,62.599373644904844,14.442118821445822,3.8906287641532162/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183943:1820031001:0389/pct:49.96780424983902,62.591834276767436,14.445159905559132,3.8941747962583806/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -451,7 +451,7 @@ the original states, and the first propo­
 sition reads as follows:  
 &quot;That the section 16, in every town
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_gary_ver01:data:sn84023881:00202191368:1854031001:0117/pct:161.8594823032224,247.3279224201539,42.41944004226096,23.400442711078316/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_gary_ver01:data:sn84023881:00202191368:1854031001:0117/pct:40.480908970801956,61.831980605038474,10.609063284449729,5.850110677769579/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -154,7 +154,7 @@ fnc, yet would I, while it was smiling in
 tny face, have plucked my nipple from  
 his boneless gums, U. dashed his brain
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184133:1816082601:0076/pct:6.819495280292815,62.35991240499807,17.18358697746099,3.851603761432436/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184133:1816082601:0076/pct:6.818181818181818,62.35188047398248,17.186697483307654,3.855400996050146/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -447,7 +447,7 @@ Have plucked my nipple from his boneless gums,
 And dashed the brains out, had I so sworn, as you  
 H
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_diglett_ver01:data:sn82015378:00295872366:1850031201:0250/pct:167.68638573743922,219.92140266021767,36.649108589951375,8.47944377267231/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_diglett_ver01:data:sn82015378:00295872366:1850031201:0250/pct:55.89546191247974,73.30713422007256,12.216369529983792,2.8264812575574365/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -466,7 +466,7 @@ I would, while it was smiling in my face,
 Have pluck&#x27;d my nipple from its boneless gums,  
 And dash&#x27;d the brains out,--had I but so swor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_diglett_ver01:data:sn82015378:00295872354:1851020301:0125/pct:55.072463768115945,184.83727810650888,29.58937198067633,4.437869822485207/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_diglett_ver01:data:sn82015378:00295872354:1851020301:0125/pct:18.357487922705314,61.612426035502956,9.863123993558776,1.4792899408284024/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -621,7 +621,7 @@ I would, while it was smiling in my face,
 Have plucked my nipple from its boneless gums,  
 And dashed the brains out, had I so swor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_collins_ver01:data:sn83030364:print00211110107:1860112401:0007/pct:5.582137161084529,55.97587030287797,12.068048910154173,2.2747266557747894/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_collins_ver01:data:sn83030364:print00211110107:1860112401:0007/pct:5.586567428672692,55.97587030287797,12.08133971291866,2.2841523187130828/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -805,7 +805,7 @@ Have plucked my nipple from his boncless
 gunis,  
 And dash&#x27;d the brains out, had I so swor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_angel_ver01:data:sn85034336:00211101027:1872020301:0496/pct:208.806146572104,180.9682249209782,43.97163120567376,11.379138246547996/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_angel_ver01:data:sn85034336:00211101027:1872020301:0496/pct:69.602048857368,60.32274164032607,14.657210401891254,3.793046082182665/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1057,7 +1057,7 @@ gums.
 And dashed the brains out, had I so sworn,  
 as yo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_denton_ver02:data:sn86090439:0051717659A:1890092001:0561/pct:22.782768947247177,26.6489597166888,17.254088919603777,6.064630367419212/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_denton_ver02:data:sn86090439:0051717659A:1890092001:0561/pct:22.800046072333565,26.6489597166888,17.254088919603777,6.079386159067434/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

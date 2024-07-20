@@ -71,7 +71,7 @@ one man. .&#x27; mere goods and chattels to all intents.
 purposes and constructions whatsoever, in his  
 hands piece and parcel in the same lot with hor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_green_ver02:data:sn84022687:00202199240:1839040601:0048/pct:76.65016501650165,81.21491291204836,23.184818481848186,3.9153591478335974/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_green_ver02:data:sn84022687:00202199240:1839040601:0048/pct:57.51134956665291,60.91838203541097,17.41642591828312,2.936519360875198/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -201,7 +201,7 @@ Charles was, in the language of Louisana law, &quot;to
 all intents, purposes and constructions whatsoev­  
 er,&quot; a &quot; chattel personal &quot; of a precious youn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199252:1845042501:0230/pct:7.9371165644171775,40.12602225499397,19.459355828220858,2.319345756803861/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199252:1845042501:0230/pct:5.964710395090142,30.0978683469634,14.595320291522823,1.7428609733208205/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -221,7 +221,7 @@ is in tho power of his master to whom he be-
 lungt,&quot; &quot;a chattel penonul to all intents,  
 purposes, and constructions whatsoever,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn83035487:00211100473:1845122601:0097/pct:9.13978494623656,89.42452043369475,21.945259042033236,5.48790658882402/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn83035487:00211100473:1845122601:0097/pct:6.872095866960137,67.07256046705588,16.48324773783321,4.120100083402836/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -297,7 +297,7 @@ compromise, and forced to become &quot;chattels
 personal to all intents, purposes, and con­  
 structions whatsoever.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn83035487:00211100473:1848080401:0628/pct:25.98199672667758,71.34243097429388,18.064648117839607,8.695652173913043/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn83035487:00211100473:1848080401:0628/pct:19.50071618579906,53.50682323072041,13.546142827910783,6.537607108854332/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -417,7 +417,7 @@ people of the territory have this right to ex­
 clude slavery only when they come to form a  
 State Constitution, and not before. This i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668156:1857022401:0005/pct:63.045375218150085,231.11696522655427,41.666666666666664,32.939936775553214/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668156:1857022401:0005/pct:21.015125072716696,77.03898840885142,13.88888888888889,10.979978925184405/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -493,7 +493,7 @@ not oi.e of toe sufferers was &#x27;Jemtd a chattel
 personal to all intents, purposes, and constructions  
 whatsoever;&#x27; bo that ho oould own nothinp.do not
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn83035487:00211100485:1860122901:0180/pct:63.244795405599426,100.39644565960356,17.982770997846373,2.146274777853725/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn83035487:00211100485:1860122901:0180/pct:47.450628366247756,75.29733424470267,13.500897666068223,1.6131237183868763/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

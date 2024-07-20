@@ -572,7 +572,7 @@ ON READING “ THE BATTLE OF LIFE.
 
 ---
 
-## [From _The United States democratic review_](https://archive.org/details/sim_united-states-democratic-review_1858-11_42/page/n45/mode/1up?view=theater)
+## [From _The United States Democratic Review (1856-1859)_](https://archive.org/details/sim_united-states-democratic-review_1858-11_42/page/n45/mode/1up?view=theater)
 
 #### 1858-11-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -896,7 +896,7 @@ adder, and that craves wary walking.
 Man is the highest product of his own  
 history, &#x27;l ire discoverer iinds nothing s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524676:1876040601:0278/pct:4.66977985323549,84.53481207640172,11.157438292194797,3.2409118915588415/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524676:1876040601:0278/pct:4.669001167250292,84.52439625431246,11.159746539936634,3.2435929029078365/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -964,7 +964,7 @@ for it; it will get thee no thanks.
 It is the bright day that brings forth  
 the adder, and that craves wary walking
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775290:1888092001:0292/pct:21.656686626746506,85.11159850341892,14.554224883566201,14.307831247580957/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775290:1888092001:0292/pct:16.253535185493263,63.83692426783641,10.913325569788721,10.734098825957942/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1002,7 +1002,7 @@ ers the grave in which the past is laid.
 It is the bright day that brings forth  
 the adder and that craves wary walking
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775290:1888112201:0329/pct:37.18206157965194,7.082957037801574,14.742302543507362,16.939749709714874/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775290:1888112201:0329/pct:27.89958158995816,5.315443168623403,11.06276150627615,12.70803767255838/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

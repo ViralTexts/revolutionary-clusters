@@ -102,7 +102,7 @@ for your lives, all the honed joys and felicities,
 which you can poHibly wifli for yourfelve*.  
 JOHN ADAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016072:00332895060:1802111501:0099/pct:3.943908851884312,46.7537770518579,18.492550394390886,36.647611269906086/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016072:00332895060:1802111501:0099/pct:3.943217665615142,46.74900479738695,18.493690851735014,36.646422374196185/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -186,7 +186,7 @@ lwish you, gentlemen, sm- rhe day, and for}
 si T&#x27; siibly wish for yourselves.  
 &quot; si JOHN ADAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802111501:0565/pct:0.8855154965211891,31.16144752278675,22.533206831119546,55.247721324790184/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802111501:0565/pct:0.8853754940711462,31.158635625338388,22.534914361001317,55.245743848884075/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -276,7 +276,7 @@ felicities, which you can pofiibly wifli for
 yourftlves.  
 JOHN ADAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_burmese_ver01:data:sn83045242:print:1802111701:0001/pct:8.886699507389162,10.068062154873507,64.19704433497537,84.06318222678824/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_burmese_ver01:data:sn83045242:print:1802111701:0001/pct:8.891625615763546,10.071272633876974,64.21182266009852,84.05997174778477/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -306,7 +306,7 @@ public.&quot;
 He, who is fenfibh of his faults, and  
 has the candour to acknowledge diem, is 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_burmese_ver01:data:sn83045242:print:1802112201:0003/pct:57.45605745605746,68.13927368026957,15.894915894915895,10.283289654311744/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_burmese_ver01:data:sn83045242:print:1802112201:0003/pct:57.46078246078246,68.14239361038312,15.918540918540918,10.286409584425309/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -333,7 +333,7 @@ the public.” Joun Apans,
   
 THE preceding quotation is taken from th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1802112701:0229/pct:33.24350336862368,33.93021120293847,19.865255052935513,8.505509641873278/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1802112701:0229/pct:33.25633622072505,33.93021120293847,19.852422200834134,8.51316192225283/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -364,7 +364,7 @@ I have no other 2poiogy to mazke to indivie
 duals or the jublic.’?  
 He, who is (enfible of his faults, and ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802120701:0192/pct:76.77873338545739,5.716824644549763,16.669272869429243,9.992101105845181/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802120701:0192/pct:76.78394579098254,5.723407056345445,16.669272869429243,9.995392311743023/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -423,7 +423,7 @@ fltodeur ; and for this reason I hesitate not
 to recommend to you as a sentiment—44 A  
 ^oion ef honest men.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812051101:0431/pct:0.7878881507801637,68.37793555434189,22.014521860033987,6.1623884944474785/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812051101:0431/pct:0.7877664504170528,68.37171202330026,22.016270209041295,6.16486150298838/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

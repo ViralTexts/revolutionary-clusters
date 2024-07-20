@@ -330,7 +330,7 @@ Would I not have; but nature (hould bring forth
 Of its own kind, all foifon, all abundance,  
 To feed my innocent people
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791090701:0001/pct:37.33045622688039,23.122605363984675,20.68434032059186,10.229885057471265/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791090701:0001/pct:37.35357583230579,23.122605363984675,20.68434032059186,10.24904214559387/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -360,7 +360,7 @@ W uld I r.ot have; but nature fhould bring forth
 Of its own kind, all fuizon, all abundance,  
 To feed my innocent peopl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1800090101:0449/pct:24.99518953242255,53.6950314106225,20.280931306522994,9.331810394060536/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1800090101:0449/pct:24.99038091573682,53.68889904065784,20.28183916891112,9.333599817268158/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -617,7 +617,7 @@ No use of metal, corn, or wine, or oil ;
 No occupation -, all men idle, all ;  
 And women too. —Newport Herald
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021207:0051717192A:1832081501:0166/pct:57.32831608654751,109.49841452868262,15.22107243650047,4.2087056788699915/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021207:0051717192A:1832081501:0166/pct:44.43472343734811,84.86055776892431,11.806163118499077,3.2691663253527943/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -945,7 +945,7 @@ No use of metal, corn, or swine, or oil;
 No occupation ; all men idle, all;  
 And women too, but innocent and pure.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82016317:00415661642:1843121101:0163/pct:20.498154981549817,44.93730618848591,18.579335793357934,9.302952676284212/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82016317:00415661642:1843121101:0163/pct:20.510455104551045,44.946294548559614,18.585485854858547,9.302952676284212/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1096,7 +1096,7 @@ No occupation ; all men idle?all;
 And women, too, but innocent and pure ;  
 No sovereignty.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851061401:0623/pct:33.19838056680162,25.471938775510203,15.991902834008098,6.224489795918367/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851061401:0623/pct:33.20962663067926,25.476190476190474,15.986279802069276,6.224489795918367/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1131,7 +1131,7 @@ orth,
 &quot;Of its own kind, all poison, all abundanee,  
 To feed my innocent people
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021532:00514153103:1852050601:0019/pct:37.62052877138414,79.04415938244976,15.225505443234837,10.81848109887615/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021532:00514153103:1852050601:0019/pct:37.62052877138414,79.05172740000756,15.23068947641265,10.81848109887615/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1242,7 +1242,7 @@ Would I not have; but Nature should tiring forth
 Of its own kind, all foi/on, ull abundance  
 To feed my innocent people.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664357:1856101001:0567/pct:70.33590228297223,50.39909850690206,11.836556638068926,5.286881397314302/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664357:1856101001:0567/pct:70.34559643255295,50.40222869126992,11.846250787649653,5.290011581682161/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1263,7 +1263,7 @@ Would I not have.&quot;
 But soon the Ariel that rules the land of magic  
 put forth his power, and of Walker and Stanton i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202191022:1858011601:0056/pct:16.286290948610464,152.07908026216825,36.96630957925788,5.737616847534114/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202191022:1858011601:0056/pct:5.428763649536822,50.693026754056085,12.32210319308596,1.912538949178038/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1414,7 +1414,7 @@ forth,
 Of its own kind, all foison, all abundance,  
 To feed my innocent people
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867021901:0162/pct:17.3125,81.07687173211703,38.75,12.281677605962843/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867021901:0162/pct:4.33015476004377,20.269217933029257,9.692043145224323,3.0704194014907107/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1441,7 +1441,7 @@ Would I not have; but nature should bring forth
 Of its own kin-% all foison, all abundance,  
 To feed my innocent people
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_brandonblaze_ver01:data:sn84026994:00294555237:1867022101:0227/pct:15.98196392785571,33.47789422961089,12.10754843019372,4.336826888326708/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_brandonblaze_ver01:data:sn84026994:00294555237:1867022101:0227/pct:15.987530616789133,33.481909810063044,12.10754843019372,4.344858049231016/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1468,7 +1468,7 @@ Would I not have;&#x27; but nature snould bring forth,
 Of its own kind, all foison, all abundance, .  
 . To feed my innocent people, ,-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_brandonblaze_ver01:data:sn84026994:00294555249:1867022102:0179/pct:16.247294372294373,34.26701570680628,12.256493506493506,4.424083769633508/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_brandonblaze_ver01:data:sn84026994:00294555249:1867022102:0179/pct:16.25631313131313,34.27283304246655,12.265512265512266,4.424083769633508/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1677,7 +1677,7 @@ war, &quot;no use,&quot; as he ironically adds, &quot;of
 metal, corn, or wine, or oil; no occupation  
 all men idle, all I&quot; Ho in no way felt th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn83032011:0023728799A:1876090801:0597/pct:97.31462231462231,57.99281245840543,14.83021483021483,1.9432982829761747/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn83032011:0023728799A:1876090801:0597/pct:73.02825446351187,43.497936909357115,11.128445137805512,1.4641288433382138/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2182,7 +2182,7 @@ forth
 Of its own kind, all poison, all abundance.  
 To feed my innocent people
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760572:1896120401:0335/pct:45.76877234803337,25.614224137931036,18.3849821215733,13.803879310344827/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760572:1896120401:0335/pct:30.52160953800298,17.079741379310345,12.265275707898658,9.202586206896552/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

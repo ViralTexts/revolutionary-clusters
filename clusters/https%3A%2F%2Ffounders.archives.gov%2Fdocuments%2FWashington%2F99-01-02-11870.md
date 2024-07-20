@@ -215,7 +215,7 @@ peace, or in rase of their dying In serv­
 ice, their heirs are entitled to receive  
 certain grants of lands, accordlug to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_india_ver01:data:sn85038161:00237289432:1888022301:0853/pct:41.251944012441676,9.851244687310261,16.076982892690513,10.033394049787493/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_india_ver01:data:sn85038161:00237289432:1888022301:0853/pct:30.960715674834695,7.392228293867638,12.05756514974718,7.528840315725562/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -272,7 +272,7 @@ purchase, tor public securities, as Con­
 rreaa ahmil inner, miut for iK intt  
 the intended government and readerta
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_india_ver01:data:sn85038161:00237289432:1888022301:0853/pct:41.251944012441676,46.78202792956891,16.329704510108865,81.28415300546447/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_india_ver01:data:sn85038161:00237289432:1888022301:0853/pct:30.960715674834695,35.09411050394657,12.252042007001167,60.95931997571342/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

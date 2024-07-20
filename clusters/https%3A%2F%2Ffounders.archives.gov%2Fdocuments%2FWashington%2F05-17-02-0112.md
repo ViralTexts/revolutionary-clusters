@@ -63,7 +63,7 @@ tinned; for by so doing, they retain the language,
 habit* and principles, good or had, which they i  
 bring w ith them.” Similar opinions were ex-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215750:1844122301:0397/pct:3.859822309970385,41.395892010716494,14.7680157946693,3.9705983375695544/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215750:1844122301:0397/pct:3.8594413187247065,41.39304849567248,14.76984832033692,3.972615285982507/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -89,7 +89,7 @@ to immigration is, that except of useful me­
 chanics and some particular descriptions of men  
 and professions, there is no need of encourage
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_jalapeno_ver02:data:sn83009567:0029602613A:1845011001:0043/pct:23.613730667672577,20.862116606797457,14.390795926065636,6.963249516441006/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_jalapeno_ver02:data:sn83009567:0029602613A:1845011001:0043/pct:23.613730667672577,20.86672193055172,14.409656733308186,6.963249516441006/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -206,7 +206,7 @@ to immigration is, that except of useful mechanics
 and some particular description of men and pro­  
 fessions, there if no use of encouragement. * 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855013001:0270/pct:34.028831562974204,32.16374269005848,15.459028831562975,2.097635392829901/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855013001:0270/pct:34.028831562974204,32.172217984574964,15.471674253920082,2.101873040088143/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -234,7 +234,7 @@ gration, that except of useful mechanics
 and some particular description of men  
 and professions, there is no use of encour-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85026105:00296028046:1855032901:0524/pct:119.42392909896603,166.17387766173877,50.073855243722306,22.894344228943442/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85026105:00296028046:1855032901:0524/pct:29.86701145179165,41.54346941543469,12.523088289619505,5.723586057235861/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -272,7 +272,7 @@ respect to immigration is, that except of use­
 ful mechanics and some particular description  
 of men and profession, there is no usu of en
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn84024443:00280779209:1855072001:0390/pct:22.22222222222222,85.17910855892808,16.55480984340045,2.679792179382007/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn84024443:00280779209:1855072001:0390/pct:16.67599328483492,63.8911676237353,12.441708636448423,2.0098441345365052/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -313,7 +313,7 @@ that except of useful mechanics and some
 particular description of men and profes­  
 sions there is no use of encouragement
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn93052972:00279557256:1855072601:0146/pct:67.66381766381767,66.63360198388096,15.028490028490028,4.128952262864228/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn93052972:00279557256:1855072601:0146/pct:67.66381766381767,66.6418681545774,15.028490028490028,4.124819177516016/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -354,7 +354,7 @@ except of useful mechanics, and some particu­
 lar description of men and professions, there  
 ui no use of encouragement
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82014892:00393342870:1855102001:0249/pct:10.16462769974324,12.394079764998306,12.32442229270503,1.9884758784318157/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82014892:00393342870:1855102001:0249/pct:10.163092721232257,12.392679620424763,12.326336454243432,1.9910754631721646/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -404,7 +404,7 @@ termixture with our people, they or their descend­
 ants get assimilated to our customs, measures and  
 laws. In a word, soon become our people.?Vol
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855102501:1179/pct:19.18281220026856,19.246353322528364,15.729906004220219,18.084819016747705/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855102501:1179/pct:19.18281220026856,19.25535746443364,15.736300274953642,18.084819016747705/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -430,7 +430,7 @@ their descendants get assimilated to our customs
 measures and laws. In a word, soon become  
 our people.--Vol. II, pp.l, 2
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393347983:1855110701:0311/pct:87.68585589020206,139.83326268192738,59.95043842927945,24.544298431538788/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393347983:1855110701:0311/pct:21.917286068229465,34.95337666007347,14.984753192300362,6.135207685786946/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -458,7 +458,7 @@ assimilated to our customs, measures and
 laws. In a word, soon become our peo  
 ple.- Vol. I1, pp. 1, 2
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85026105:00296028046:1855110801:0655/pct:126.47492625368731,127.59588400374182,49.852507374631266,31.91233462515034/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85026105:00296028046:1855110801:0655/pct:31.636229477956096,31.898971000935454,12.470023980815348,7.978083656287585/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -476,7 +476,7 @@ tion is, that except of useful mechanics and some particu­
 lar description of men and professions, there is no use of  
 encouragement
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184674:1856040301:0180/pct:93.84548232213007,195.84292952556424,37.77098792375964,4.813450023030861/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184674:1856040301:0180/pct:31.27727669479197,65.2734599884859,12.588497720880612,1.604298599117252/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -524,7 +524,7 @@ and the appropriation of grounds and
 funds for it in the Federal City has  
 long been contemplated.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kite_ver01:data:sn86092182:00514157492:1888061601:0097/pct:54.18066112780626,75.92028784943261,10.217429733074068,4.802103515084418/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kite_ver01:data:sn86092182:00514157492:1888061601:0097/pct:54.17108518911276,75.90978275909782,10.220042417815483,4.804898298048983/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -555,7 +555,7 @@ Intermixture with our people, they, or their de­
 scendants, get assimilated to our customs, meas­  
 ures and laws; in a word, soon become our peo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_ashbel_ver01:data:sn82015679:00295870345:1889072801:0257/pct:67.99332697807435,52.475247524752476,18.267397521449,9.205466001145568/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_ashbel_ver01:data:sn82015679:00295870345:1889072801:0257/pct:51.01311084624553,39.35848130267572,13.70679380214541,6.906145159970542/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

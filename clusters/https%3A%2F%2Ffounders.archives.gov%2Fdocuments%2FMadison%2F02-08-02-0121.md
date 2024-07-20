@@ -648,7 +648,7 @@ ition of distinguished slaves in
 centre of the land of liberty.  
 : time paft fome of the Philadel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804100501:0002/pct:21.21684867394696,0.7003782042302844,38.31067528415422,97.43661577251716/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804100501:0002/pct:21.23170641111359,0.7050473922584862,38.29581754698759,97.43661577251716/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -916,7 +916,7 @@ So many mifconftruftloi %, if th-y had
 nut b-en given upon oati , I Could not  
 have furpectted of being accidental
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804100501:0002/pct:40.98506797414754,0.6303403838072559,57.58858925785603,97.46463090068637/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804100501:0002/pct:40.99249684273085,0.6396787598636597,57.59601812643934,97.45996171265817/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1206,7 +1206,7 @@ So many mifconftm&lt;ftions, if they had not hecn
 given upon oath, I could not have fufpe&amp;ed of being  
 accidental
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804101001:0187/pct:24.995491433724077,3.2960199004975124,35.7439134355275,93.81840796019901/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804101001:0187/pct:24.990984493328526,3.2956099987563734,35.74347878350763,93.81088587654935/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1289,7 +1289,7 @@ t ne. os.iy 5 , ihii ind r.:» magnanimously !
 p.oVed by lit king my ma-ter ; l myself |  
 •• as pain eci out us the a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804101001:0310/pct:5.1003187699231205,5.896195581121715,17.85111569473092,45.95371944044973/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804101001:0310/pct:5.09936257967754,5.895424836601308,17.854018247719036,45.9520697167756/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1545,7 +1545,7 @@ bo manv mi.c.-nsltactions, if tluv had
 not been given upon oath, 1 could not have  
 suspected of being accidental
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804101001:0310/pct:3.1501968873054564,1.1504771865603347,55.91599474967185,95.11047195711858/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804101001:0310/pct:3.1496062992125986,1.1503267973856208,55.911761029871265,95.10239651416121/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1858,7 +1858,7 @@ So many misconstructions, if they had not been
 given upon oath, I could not have suspected of being  
 accidental
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804101301:0157/pct:27.76065742167437,1.7583848909150115,67.66820749871597,95.09931618365353/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804101301:0157/pct:27.753530166880616,1.758098648868631,67.65725288831835,95.08790493244344/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2983,7 +2983,7 @@ in ibis prateeding than shere is in the offer .
 orihe picicor of a tee toa lawyer or w a  
 physician ; ‘where is the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804101601:0580/pct:42.114999229227685,7.0820988244289405,33.806073685833205,87.87154735735449/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804101601:0580/pct:42.120137711320076,7.088470483290324,33.81635065001799,87.8683615279238/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3082,7 +3082,7 @@ exclusively belorgs 1o niy king sud govern­
 e, &amp; faveursble. opiion of the good  
 propie of Americais far from being indif
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804101601:0580/pct:59.22614459688608,44.18426837427124,16.71034376445198,48.59027047691867/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804101601:0580/pct:59.23642156107086,44.190640033132624,16.7000668002672,48.58708464748798/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3873,7 +3873,7 @@ ne vs-payers had ciicelared commencs about the
 exifting differences beiweea the king of Spain  
 and the Unite! Siacer, matilaiing tacls, alterin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1804110801:0589/pct:31.930415263748596,6.020942408376963,40.32921810699588,84.8622809014341/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1804110801:0589/pct:31.930415263748596,6.020942408376963,40.35415887267739,84.87366264511724/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4098,7 +4098,7 @@ So many dkoolwm{ they had not
 been given upon oath, I could oot have fufpeit­  
 dofgeing accidental, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1804110801:0589/pct:52.375607931163486,6.6810835419986345,40.51627384960718,84.35010243569315/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1804110801:0589/pct:52.375607931163486,6.684877456559678,40.528744232447934,84.35389635025419/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4119,7 +4119,7 @@ and if there was any thing dishonourable in it, I
 would be the lastman lo/iro/ioseit—and you would be  
 the last man to whom it would be firo/iosed by me.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804111601:0217/pct:27.15472481827622,78.27922077922078,22.377985462097612,4.366883116883117/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804111601:0217/pct:27.147677134700235,78.26651517610777,22.378665974565273,4.370232105177731/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

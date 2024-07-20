@@ -341,7 +341,7 @@ sist the saaie Jostices to arrest such ofTend?rs,
 upon pain of imprisonment and to make flue to  
 the King.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alf_ver01:data:sn83045462:00280654218:1864010701:0306/pct:51.28748370273794,0.7388092133854846,31.877444589308997,94.61103867883529/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alf_ver01:data:sn83045462:00280654218:1864010701:0306/pct:51.291558018252935,0.7442416340721425,31.881518904823988,94.6219035202086/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -385,7 +385,7 @@ I justices, in order to have jurisdlctioa for the
 purpose of punishing the offender, must act  
 ! upon complaint, and must also, when they ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alf_ver01:data:sn83045462:00280654218:1864022901:0489/pct:64.94140625,59.282337773957885,15.983072916666666,12.344220025784272/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alf_ver01:data:sn83045462:00280654218:1864022901:0489/pct:64.95361328125,59.28502363558229,15.974934895833334,12.34959174903309/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

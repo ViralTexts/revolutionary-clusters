@@ -466,7 +466,7 @@ l system, and, above all, promoting our domestic manu­
 factures, which have taken such roots as never again  
 can be shaken.”—1815. Vol. iv. p. 263-9
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184054:1831070801:0074/pct:36.54489682097044,32.523510971786834,14.779698828778583,8.956560680698612/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184054:1831070801:0074/pct:36.53980203541057,32.51987014440837,14.782285422185046,8.959289525728572/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -576,7 +576,7 @@ rite. Feb., 1815 )
 Thn war, however, ended gloriously. There Was  
 no overt net of acpnrntion committed.—No tliren
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1833011501:0307/pct:19.55605507164934,81.14355231143553,15.22899690924417,13.138686131386862/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1833011501:0307/pct:19.55330804888327,81.13457923255557,15.231540010301073,13.140919311437944/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -616,7 +616,7 @@ Massachusetts itself, raise the standard of separation,
 and its citizens will ii«e in mass, and do justice themselves  
 on their own incendiaries.” (Mr, Jefferson to Lafay
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1833082301:0129/pct:3.3443435177539222,69.12914235384785,15.001376273052573,11.527028514807883/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1833082301:0129/pct:3.343883308105133,69.12153236459709,15.003898903720012,11.529429032731542/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -697,7 +697,7 @@ experience will soon produce, to marshal them in­
 I to an order which may carry us through any length  
  of war.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184595:1841081901:0748/pct:9.24356801725466,36.20157696263284,39.069480819596365,24.968575019997715/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184595:1841081901:0748/pct:3.0807147258163896,12.06581352833638,13.021154241117273,8.321907373552712/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -860,7 +860,7 @@ and that the remedy prescribed for their cure by
 Mr. Jerreasn and otheys has hitherto proved ef  
 feerunl in every case. The healing influence o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:0039334801A:1860012401:0583/pct:138.33500501504514,303.6311239193084,60.84252758274825,35.403458213256485/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:0039334801A:1860012401:0583/pct:34.57681508223025,75.89684483503818,15.207581227436823,8.849589396340585/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -896,7 +896,7 @@ orders and making the same efforts to anar­
 chise us, that their prototypes in France did  
 there.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347294:1861092701:0369/pct:61.55197189845122,37.65124555160142,13.028899888232477,5.492289442467379/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347294:1861092701:0369/pct:61.55197189845122,37.65915381573745,13.050188940337431,5.492289442467379/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -922,7 +922,7 @@ orders and making the same efforts to anal­
 chise us, that their prototypes in France did  
 there.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347294:1861092701:0370/pct:61.424237585821494,37.78173190984579,12.996966310075043,5.504151838671412/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347294:1861092701:0370/pct:61.42955984884773,37.78964017398181,12.996966310075043,5.512060102807434/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -939,7 +939,7 @@ The cement of this Union is in the heart-blood of every
 American. I do not believe there is on earth a govern­  
 ment established on so immovable a basis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_lorca_ver01:data:sn83030272:00206533109:1888102101:0609/pct:283.4228702993093,185.41793776693106,50.42210283960092,6.162294081757169/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_lorca_ver01:data:sn83030272:00206533109:1888102101:0609/pct:70.88291746641075,46.354484441732765,12.610364683301343,1.5405735204392923/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -958,7 +958,7 @@ do not believe there .is on earth a
 government established on so im­  
 movable a basis.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_neely_ver01:data:sn85059778:00340582135:1888110201:0360/pct:70.44397463002115,49.8887990295188,12.00845665961945,3.4775576223210676/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_neely_ver01:data:sn85059778:00340582135:1888110201:0360/pct:70.43404735062006,49.883756191246334,12.011461856444946,3.4805754910879747/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -976,7 +976,7 @@ heartblood of every American I do not
 believe there is on earth a government  
 established on so immovable a basis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn90061417:00294559966:1888110901:0609/pct:110.87719298245614,292.5207756232687,43.228070175438596,10.341643582640813/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn90061417:00294559966:1888110901:0609/pct:27.729027729027727,73.13019390581718,10.81081081081081,2.5854108956602033/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1022,7 +1022,7 @@ blood of every American. I do not be
 lieve there is on carth a Government oss  
 tablished on so immavable a basis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn84024448:0029602076A:1888111801:1219/pct:181.656346749226,277.01277068295394,50.23219814241486,42.36535258189895/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn84024448:0029602076A:1888111801:1219/pct:45.42287594348752,69.25319267073849,12.560479969034256,10.591338145474737/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1040,7 +1040,7 @@ of every American. I do not believe there is on
 earth a Government established on so immova­  
 ble a basi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175045181:1895012301:0288/pct:278.3639143730887,200.6393667224844,51.37614678899082,13.213578931344193/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175045181:1895012301:0288/pct:69.59097859327217,50.1598416806211,12.844036697247706,3.3033947328360482/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1091,7 +1091,7 @@ boliovo there |3 on earth a government es­
 tablished on so immovable a basis.  
 It should bo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_iceland_ver01:data:sn84026788:00202192427:1895030501:0046/pct:14.746215494211933,59.83288570575947,11.540516473731078,3.7749925395404356/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_iceland_ver01:data:sn84026788:00202192427:1895030501:0046/pct:14.7506678539626,59.84407639510594,11.558325912733748,3.77872276932259/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -65,7 +65,7 @@ Assistants of the City of Raleigh, in Virginia.&quot;
   
 This squadron sailed from Portsmouth on th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197978:1843053101:0514/pct:25.930038867295945,39.55620966828937,20.322043309272626,4.064304313370316/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197978:1843053101:0514/pct:19.450229071220324,29.672817842182724,15.257531584062196,3.0453979395448885/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

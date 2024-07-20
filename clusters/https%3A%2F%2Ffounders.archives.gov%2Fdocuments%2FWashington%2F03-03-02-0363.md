@@ -126,7 +126,7 @@ Your furniture is in tolerable order,
 and the family pictures are all left  
 untouched
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_carrie_ver01:data:sn85033295:0027176876A:1876040501:0307/pct:62.01408818158101,91.15293689761775,14.127315418732064,4.1553009638116025/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_carrie_ver01:data:sn85033295:0027176876A:1876040501:0307/pct:62.018436385772674,91.15596775171244,14.131663622923732,4.164393526095654/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -148,7 +148,7 @@ congratulate you sir, and the Nonoruble Congress on this happy event, and
 mlarly as it was sstected a thout endangering the lives and property  
  th remaining unhappy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_entiat_ver01:data:sn83045604:00202199653:1899091001:0444/pct:59.36797963157107,263.8238378189444,70.40587090010484,9.961551904928347/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_entiat_ver01:data:sn83045604:00202199653:1899091001:0444/pct:19.789326543857023,87.94127927298148,23.468623633368278,3.320517301642782/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -239,7 +239,7 @@ ordered to be thrown up last Saturday
 night on an eminence at Dorchester,  
 which lies nearest to Boston Neck, called
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_nisswa_ver01:data:sn90059523:0020653705A:1899092401:0268/pct:56.372120151647714,68.35169360650674,12.540099154272383,6.4243796973128795/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_nisswa_ver01:data:sn90059523:0020653705A:1899092401:0268/pct:56.372120151647714,68.35512543326813,12.540099154272383,6.420947870551495/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -274,7 +274,7 @@ last Saturday nielit on an eminence at
 Dorchester, which lies nearest to Bos­  
 ton Neck, called Nook&#x27;s Ilill.&quot; Thu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_green_ver01:data:sn87093220:0020029032A:1899092701:0943/pct:12.13977762650329,23.35634944461123,15.044247787610619,27.694386070249173/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_green_ver01:data:sn87093220:0020029032A:1899092701:0943/pct:12.13977762650329,23.36760732512759,15.06693896074427,27.694386070249173/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -311,7 +311,7 @@ last Saturday night on an eminence at
 Dorchester, which lies nearest to Bos­  
 ton Neck, called Nook&#x27;s Ilill.&quot; Thu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_corsair_ver06:data:sn96090259:00415623161:1899092901:0613/pct:81.69778549717759,22.318611987381704,14.090316977854972,26.845425867507885/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_corsair_ver06:data:sn96090259:00415623161:1899092901:0613/pct:81.70321320017369,22.318611987381704,14.11202778983934,26.861198738170348/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -345,7 +345,7 @@ last Saturday night on an eminence at
 Dorchester, which lies nearest to Bos­  
 ton Neck, called Nook’s Hill.” Thu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_heinlein_ver01:data:sn92067125:00517179760:1899101101:0155/pct:77.03042143455205,21.22613065326633,14.038515210717277,27.09547738693467/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_heinlein_ver01:data:sn92067125:00517179760:1899101101:0155/pct:77.03739882779793,21.22613065326633,14.04549260396316,27.110552763819097/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -368,7 +368,7 @@ forces of the United Colonies are now
 in actual possessicn thereof. I beg  
 leave to congratulate you, sir, and the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_carrioncrawler_ver02:data:sn92064044:00514153048:1899101301:0719/pct:45.00976462123548,7.555391432791728,12.447322438071744,4.084194977843427/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_carrioncrawler_ver02:data:sn92064044:00514153048:1899101301:0719/pct:45.016616987014764,7.5603151157065485,12.447322438071744,4.081733136386017/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -394,7 +394,7 @@ nighton an eminence at Dorchester,
 which lies nearest to Boston Neck,  
 called Nook’s Hill.” Thus wrote Gen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_carrioncrawler_ver02:data:sn92064044:00514153048:1899101301:0719/pct:45.04060026724227,28.714918759231907,12.437043889402815,5.568685376661743/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_carrioncrawler_ver02:data:sn92064044:00514153048:1899101301:0719/pct:45.04745263302155,28.717380600689317,12.433617706513173,5.571147218119153/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -417,7 +417,7 @@ forces of the United Colonies are now s|S
 in actual possession thereof. I beg /9  
 leave to congratulate you, sir, and the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287198:1899101801:0412/pct:84.7148288973384,5.284941101560013,15.574144486692015,4.902897166507482/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287198:1899101801:0412/pct:84.72496831432193,5.2920159892461704,15.569074778200253,4.902897166507482/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -443,7 +443,7 @@ night on an eminence at Dorchester, v
 which lies nearest to Boston Neck, &lt;&lt;;$|  
 called Nook&#x27;s Hill.&quot; Thus wrote Gen- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287198:1899101801:0412/pct:84.88212927756653,27.66634829672079,15.254752851711027,5.985354982489653/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287198:1899101801:0412/pct:84.88212927756653,27.673423184406946,15.269961977186313,5.985354982489653/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -463,7 +463,7 @@ Inst. (1776), about 9 o&#x27;clock in the fore-:
 noon, the ministerial army evacuated there existed a love that was little  
 the town of Boston, and that the forces short of mutual adoration. All the lit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_acacia_ver01:data:sn94051341:00212476456:1899102101:0189/pct:32.74824473420261,44.546070460704605,44.884653961885654,4.098915989159892/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_acacia_ver01:data:sn94051341:00212476456:1899102101:0189/pct:24.592220828105397,33.4180216802168,33.70138017565872,3.0657181571815717/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -491,7 +491,7 @@ last Saturday night on an eminence at
 Dorchester, which lies nearest to Bos­  
 ton Neck, called Nook&#x27;s Hill.&quot; Thu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_acacia_ver01:data:sn94051341:00212476456:1899102101:0189/pct:32.848545636910735,49.69512195121951,22.71815446339017,34.773035230352306/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_acacia_ver01:data:sn94051341:00212476456:1899102101:0189/pct:24.66750313676286,37.27981029810298,17.038895859473023,26.0840108401084/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -528,7 +528,7 @@ night on au emiueuco at Dorchester,
 which lies nearest to Boston Neck,  
 called Nook&#x27;s Hill.&quot; Thus wrote Gen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carlisle_ver01:data:sn86081854:00296026086:1899110201:0709/pct:50.251994960100795,8.237138378224312,14.615707685846283,28.74447769702152/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carlisle_ver01:data:sn86081854:00296026086:1899110201:0709/pct:50.265994680106395,8.237138378224312,14.615707685846283,28.74922806517505/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -550,7 +550,7 @@ forces of the United Colonies are now
 in actua! possession thereof. I beg  
 leave to congratulate you, sir, and th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lydia_ver01:data:sn87080287:00296028794:1899111601:0601/pct:57.43952044530079,9.172600881654798,12.481267394562192,4.425228891149542/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lydia_ver01:data:sn87080287:00296028794:1899111601:0601/pct:57.446656675943764,9.183904148298858,12.481267394562192,4.436532157793603/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -576,7 +576,7 @@ night on an eminence at Dorchester,
 which lies nearest to Boston Neck,  
 called Nook&#x27;s Hill.&quot; Thus wrote Gen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lydia_ver01:data:sn87080287:00296028794:1899111601:0601/pct:57.41811175337187,31.909121736181756,12.352815242988653,6.052899287894202/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lydia_ver01:data:sn87080287:00296028794:1899111601:0601/pct:57.41811175337187,31.909121736181756,12.374223934917577,6.058550921216232/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -614,7 +614,7 @@ night on an eminence at Dorchester,
 which lies nearest to Boston Neck,  
 called Nook’s Hill.” Thus wrote Gen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_abolitionist_ver02:data:sn86074033:00199916385:1899121601:0274/pct:46.644780039395926,8.603736479842674,14.261326329612606,31.730580137659782/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_abolitionist_ver02:data:sn86074033:00199916385:1899121601:0274/pct:36.157003765647794,6.672932330827067,11.045900193371104,24.59103840682788/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -150,7 +150,7 @@ objeét, as, when unanimoulfly ratified by tg_em,
 will enable the Uaited Statesin Congress afflem­  
 bled eff:€tually to provide for the fame.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025586:0051701512A:1786040801:0267/pct:7.328279347576384,65.63109710340687,27.934757638410293,10.205613087197959/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025586:0051701512A:1786040801:0267/pct:7.343594455930775,65.6360998549202,27.934757638410293,10.210615838711291/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -169,7 +169,7 @@ and place to be agreed on, to take into confideratjon
 the trade of these United States.  
 It is with much regret we find that the Bank o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025586:0051701512A:1786042701:0279/pct:35.59475350520127,8.165413533834586,27.159656264133876,3.969924812030075/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025586:0051701512A:1786042701:0279/pct:35.609829639680385,8.170426065162907,27.174732398612996,3.974937343358396/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -600,7 +600,7 @@ States, copies of the preceding resolution, with a circu­
 lar letter requesting their concurrence therein, and pro­  
 posing a time at.d placo for the meeting aforesaid.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1838041001:0372/pct:3.994058425482753,45.292773836719974,15.5471199867965,8.127930744258746/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1838041001:0372/pct:3.994058425482753,45.300789547513126,15.56912581834186,8.12392288886217/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -663,7 +663,7 @@ P&#x27;Cx ol tin preceding resolution, with a circular let
 * ,f‘r rrijin Hting tlnu concurrence then in, ami prepo­  
 &#x27; ft’ng a nine and plac fur ill&#x27;- no etuig aforesaid 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348860:1838041901:0705/pct:19.144446575868024,79.6189376443418,15.384615384615385,8.371824480369515/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348860:1838041901:0705/pct:19.140774836977368,79.60744696204358,15.386459532029152,8.374224274787126/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -837,7 +837,7 @@ tlieir concurrence tlieretn, and proposing
 a time and rdace for tlie meeting afore-  
 &#x27; sai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156347:1838052301:0470/pct:50.020325203252035,90.03940752819676,20.711382113821138,17.06753635004756/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156347:1838052301:0470/pct:37.53558357055714,67.53635004756082,15.534770231801545,12.800652262535671/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -872,7 +872,7 @@ with a circular letter requestinar their concur
 rence therein, and proposing a time and place  
 for the meeting aforesaid.&#x27;&#x27; 1 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016884:00295877662:1838052901:0463/pct:41.995073891625616,30.750294338007063,17.6878078817734,13.06860751364658/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016884:00295877662:1838052901:0463/pct:31.501154734411084,23.065396553569517,13.271747498075444,9.804131435299155/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -888,9 +888,9 @@ for the meeting aforesaid.&#x27;&#x27; 1
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1842-08_11_50/page/n34/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1842-08_11_50/page/n34/mode/1up?view=theater)
 
-#### 1842-08-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1842-08-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -943,7 +943,7 @@ tive to this great object, as, when unanimously
 ratified by them, will enable the United Elates in  
 Congress, efieetiially to provide for the same.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183700:1844041801:0067/pct:48.91256750839293,57.002457002457,14.742373376149468,9.291936564663837/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183700:1844041801:0067/pct:48.90542907180385,56.99609156895589,14.74508659272232,9.29462125442025/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1004,7 +1004,7 @@ system in their commercial regulations might
 be necessary to their common interest and their  
 permanent harmony. in answer to this call of vi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530352:1851071501:0093/pct:199.24203273040482,46.14477717519453,47.20068906115418,10.987974534307947/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530352:1851071501:0093/pct:66.41401091013495,15.38159239173151,15.733563020384725,3.6626581781026486/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1023,7 +1023,7 @@ States, and to consider bow far a uniform system in their
 commercial regulations might be necessary to their common  
 interest and their permanent harmony. In answer to thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1851071901:0700/pct:82.14285714285714,9.955966061647514,15.749863163656267,3.211255504242294/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1851071901:0700/pct:82.14285714285714,9.963126051623528,15.76810800948732,3.211255504242294/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1044,7 +1044,7 @@ cessary to their fcommon interest and their perma­
 nent harmony. In answer to this call of Virginia,five  
 of the States, New Jersey being one, appointed Com
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348379:1851072101:0065/pct:52.19332298136646,11.11111111111111,14.421583850931677,2.915082382762991/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348379:1851072101:0065/pct:52.18319425577334,11.109546606589692,14.423636716475839,2.918192058575049/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1077,7 +1077,7 @@ preceding resolution, with a circular letter, re­
 questing their concurrence therein, and propos­  
 ing a time and place lor the meeting aforesaid 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851080401:0308/pct:45.82775119617225,15.141235114926614,12.92822966507177,8.612572694544447/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851080401:0308/pct:45.82336618505406,15.14018691588785,12.93018211973336,8.614284065997461/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1100,7 +1100,7 @@ Union. New York, however, had, as early as
 July, 1782, moved in the matter, and clearly point­  
 ed out the necessity for adopting the present for
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661617:1854092301:0280/pct:2.6734205712677643,12.000439174352218,30.913184184606727,84.54106280193237/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661617:1854092301:0280/pct:2.6734205712677643,12.000439174352218,30.927254819192346,84.55204216073781/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1165,7 +1165,7 @@ ho other States, at Annapolis, on tho 11th of Scp­
 ember, 1780, and their recommendation led to the  
 idoption of the federal constitution
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855022101:0345/pct:80.99142040038132,39.66023757823477,15.48141086749285,6.94852471580023/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855022101:0345/pct:81.00413091833492,39.66875292715119,15.468700349539244,6.944267041342019/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1186,7 +1186,7 @@ system in their commercial regulations as may be
 necessary to their common interest and permanent  
 harmony.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855022801:0366/pct:50.22718667171526,7.466835123183828,15.505490344566452,3.335439039797852/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855022801:0366/pct:50.233497412596236,7.4710465361128655,15.505490344566452,3.33965045272689/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1232,7 +1232,7 @@ necessary to their common interest and their permanent
 harmony, &amp;c.&quot;  
 When the commissioners from five States met at An
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184686:1859120901:0403/pct:87.61495105309997,100.50368982078014,38.14891723524177,10.764905704580062/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184686:1859120901:0403/pct:29.200652528548122,33.49730616069337,12.714419892233922,3.587881627235106/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1372,7 +1372,7 @@ questing their concurrance therein, and
 proposing a time and place for the meet  
 ing aforesaid.&#x27; Elliotts Debater, Vol 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85026309:00280775927:1871020101:0096/pct:23.027522935779817,71.87715665976536,13.730886850152904,14.584771106510237/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85026309:00280775927:1871020101:0096/pct:17.28621691907603,53.910743041177824,10.29524246596298,10.938578329882677/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1404,7 +1404,7 @@ net relative to this great objoct as,
 when unanimously ratified by them,  
 will euable the United States effect
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn82016419:00212472967:1873052301:0653/pct:19.856839872746555,6.568541300527241,23.833510074231178,123.5171353251318/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn82016419:00212472967:1873052301:0653/pct:14.901232931194485,4.931898066783831,17.884130982367758,92.64059753954305/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1433,7 +1433,7 @@ to effectually provide for the same.&quot; Nine
 to attend at Annapolis, but only five were  
 represented. These were New York, New Jersey
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_itchweed_ver01:data:sn83030313:00271743877:1874090901:0817/pct:1.140307387208726,192.43922298476213,58.99851264253842,17.599162498546004/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_itchweed_ver01:data:sn83030313:00271743877:1874090901:0817/pct:0.3801024624029086,64.14640766158738,19.666170880846142,5.8663874995153344/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1490,7 +1490,7 @@ States in the Union at a time and piace to be
 agreed upon to thke into consideration, ebee,  
 etc., and to report to the several States such
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn83045160:00200293101:1874093001:0321/pct:187.1877001921845,63.61199744735163,115.31069827033953,52.63560944479898/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn83045160:00200293101:1874093001:0321/pct:46.81941996474924,15.902999361837907,28.841531805800354,13.158902361199745/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1510,7 +1510,7 @@ commissioners shall immediately transmit to
 never been elected pastor of said church; the  
 church stands at this time without a pastor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn83045160:00200293101:1874093001:0321/pct:187.05957719410634,119.05552010210593,76.87379884689302,2.9100191448627952/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn83045160:00200293101:1874093001:0321/pct:46.78737381829835,29.763880025526483,19.22768787053357,0.7275047862156988/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1565,7 +1565,7 @@ tions may be necessary to their common
 interest, and their permanent harmony.”  
 In response to this invitation, commis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00383342089:1882080701:0118/pct:14.558725945587259,20.905061333883104,9.873921698739217,5.040717451809092/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00383342089:1882080701:0118/pct:14.567573545675735,20.90849740576573,9.86507409865074,5.0475895955743395/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1591,7 +1591,7 @@ resolution, with a circular letter requesting
 their concurrence therein, and proposing a  
 time and place for the meeting aforesaid.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_elliot_ver01:data:sn87068079:00332896441:1882120701:0389/pct:13.047109923154027,68.26243333746744,10.975609756097562,6.263177477365745/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_elliot_ver01:data:sn87068079:00332896441:1882120701:0389/pct:13.044930683146818,68.25396825396825,10.9779522298313,6.265500992063492/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1629,7 +1629,7 @@ when unanimously ratified by them, will
 enabie the United States, in Congress as­  
 sembled, effectually to provide for the same
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hilfiger_ver01:data:sn85025007:00415663912:1885031201:0245/pct:35.74328544659588,60.90909090909091,15.724547158026233,7.345041322314049/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hilfiger_ver01:data:sn85025007:00415663912:1885031201:0245/pct:35.753695606912345,60.90909090909091,15.719342077868,7.351928374655647/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1655,7 +1655,7 @@ such an act relative to this great object as
 when ucariimously ratified by them would  
 enable the Lnitea States in Congress efiect
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_gary_ver01:data:sn87056600:0020219154A:1887060101:0200/pct:92.97177642501383,58.31134564643799,16.076369673491975,7.167985927880387/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_gary_ver01:data:sn87056600:0020219154A:1887060101:0200/pct:69.74813174647107,43.733509234828496,12.067533905341822,5.38698328935796/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1718,7 +1718,7 @@ will enablo th? United States, in Congress
 assembled, effectually !?? provide for th?  
 same. Iu the circular letu-r which convoy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_pink_ver01:data:sn85025007:00175034316:1887091301:0147/pct:1.0792024876531918,52.10589651022864,16.04170477409914,8.002406738868833/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_pink_ver01:data:sn85025007:00175034316:1887091301:0147/pct:1.0852996768489727,52.10589651022864,16.04170477409914,8.014440433212997/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1756,7 +1756,7 @@ their common interest and their perman
   
 ent harmon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_echo_ver03:data:sn86064205:0020653560A:1887091801:0482/pct:135.5542095699576,152.50426257459506,51.968503937007874,24.50980392156863/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_echo_ver03:data:sn86064205:0020653560A:1887091801:0482/pct:33.89881853983641,38.126065643648765,12.996061799454711,6.127450980392157/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1903,7 +1903,7 @@ object as, when unanimously ratified by them,
 will enable the United States, in Congress as  
 sembled, effectually to provide for the same.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_queen_ver01:data:sn85034438:00175048352:1892041001:0612/pct:58.49490634242524,267.6824212271973,46.615182385803486,24.015339966832503/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_queen_ver01:data:sn85034438:00175048352:1892041001:0612/pct:19.498302114141747,89.22747374239911,15.538394128601162,8.005113322277502/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

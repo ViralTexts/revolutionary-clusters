@@ -1113,7 +1113,7 @@ common Defence ( such Proportion to be
 raised under the Authority of the General  
 Court, or the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775042101:0439/pct:9.191583610188262,20.23162710895053,27.774086378737543,11.381183871890192/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775042101:0439/pct:9.206349206349206,20.24115908874273,27.76670358065707,11.371651892097988/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1144,7 +1144,7 @@ a Motion of the kind, on certain Articles of
 News from America, to which he gave the  
 Appellation of Propefals ; and said he coul
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775042101:0439/pct:8.748615725359912,33.700314555333144,28.32779623477298,18.816128109808407/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775042101:0439/pct:8.755998523440384,33.705080545229244,28.32779623477298,18.82566008960061/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5599,7 +5599,7 @@ any Colony or plantation in America or relates thereto, it has been declared, &q
   
 &quot;or plantation in which the same shall be respectively levied, in such manner 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_fairbanks_ver02:data:sn86086342:00202196895:1840081901:0270/pct:7.351638618246236,200.55176419340788,141.09831709477413,20.67663714244228/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_fairbanks_ver02:data:sn86086342:00202196895:1840081901:0270/pct:1.837909654561559,50.13794104835197,35.27457927369353,5.16915928561057/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -79,7 +79,7 @@ This letter will be accompanied by one to my
 sister, which I pray you to receive from the Post  
 Office and send to her
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202191022:1858050101:0416/pct:132.20024721878863,186.9766440641481,37.51545117428925,39.511355074803575/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202191022:1858050101:0416/pct:44.06674907292954,62.3255480213827,12.50515039142975,13.17045169160119/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -132,7 +132,7 @@ rii&#x27;i letter will beiieroinpaniMl l?y o\e to i
 which I pray you to receive from the iVt Utfc ^  
 ieinl to her. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664369:1858050401:0580/pct:67.90336496980156,0.13961280714817573,31.161921196433706,96.91921072226359/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664369:1858050401:0580/pct:67.91295177835299,0.14581782079920577,31.166714600709422,96.91921072226359/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -185,7 +185,7 @@ This letter will be accompanied by one to
 my Hater, wbiob I pray yon to reoeite from  
 the Post Office and send to ber
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn85025007:00415663456:1858051001:0444/pct:4.263128176171654,65.5986166208931,16.1914172783738,19.174041297935105/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn85025007:00415663456:1858051001:0444/pct:4.263128176171654,65.60200725595904,16.196122717861847,19.177431933001053/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -286,7 +286,7 @@ she would not find mstnmuoy, with a large
 family and little means so eligelU M she  
 may bajre ooneeived it to b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186956:1858051301:0486/pct:82.4988790913167,27.38218094255246,12.88297713346286,16.890264877880977/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186956:1858051301:0486/pct:82.48655110579797,27.379041504242146,12.886033074317593,16.892150118474355/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -396,7 +396,7 @@ This letter will be accompanied by one to my
 sister, which I pray you to receive from the  
 Post Office and send to her
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn83045160:0020029290A:1858051601:0314/pct:146.486790331647,244.03274450667814,39.17931422147274,50.366221456268846/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn83045160:0020029290A:1858051601:0314/pct:36.6268446943078,61.008186126669536,9.796205200281097,12.591555364067212/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -448,7 +448,7 @@ This letter will tie accompanied by one to mv
 sister, which I pray you to receive from the  
 post-office and send to tier
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn82014282:00414212438:1858052501:0338/pct:24.340475149395132,42.18499946655287,11.35403002477773,15.971407233543156/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn82014282:00414212438:1858052501:0338/pct:24.336928009326726,42.18049925325368,11.356018653453804,15.972370386174525/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -505,7 +505,7 @@ j - 1 ) G. WASHINGTON.
 to Sly sister. Which I pray yon to receive  
 from the ifost Office and send to her
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059862:00514157376:1858052501:0215/pct:4.998189061934082,53.68026859504132,13.400941687794278,23.450413223140497/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059862:00514157376:1858052501:0215/pct:4.997284084736556,53.673337637185284,13.403041825095057,23.450613298902518/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -168,7 +168,7 @@ The secretary of the treasury com­
 mences his argument with the general pro­  
 position.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216250:1819070201:0376/pct:61.68450120814636,55.52325581395349,16.91404901622368,18.03402239448751/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216250:1819070201:0376/pct:61.67385677308024,55.51727850145333,16.916882369859074,18.03566942979151/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -820,7 +820,7 @@ son advises him not to veto, unless bis mind is “to­
 lerably clear—that it is unauthorised by the Consti­  
 tution.” The inference is therefore direct, that i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1833090301:0140/pct:82.1974390747625,44.05165809346612,15.03510945890128,2.5610156506511985/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1833090301:0140/pct:82.18612334801762,44.04683738235938,15.037628487518356,2.5643831618880863/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -871,7 +871,7 @@ the great cities where thcro were prejudices an.i
 jealousies on that subject adverse to the rccep  
 tion ol the Constitution.&quot;—[Jefferson&#x27;s officia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn82015686:00415668818:1837091601:0211/pct:34.51803051317614,21.818181818181817,14.285714285714286,7.509881422924901/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn82015686:00415668818:1837091601:0211/pct:34.5295885344429,21.826965305226175,14.285714285714286,7.509881422924901/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -954,7 +954,7 @@ the Convention, to authorize Congress to open canaU
 nnd an amendatory one. to empower them to incorporate  
 But the whole was rejected 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1839071901:0076/pct:83.85337776431385,12.506502965352201,15.495304453196,2.8300905212777026/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1839071901:0076/pct:83.85337776431385,12.509971213540041,15.505402403312127,2.837027017653383/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -977,7 +977,7 @@ Session of a boundless field of power, no longer sua
 ?l^iil?le of ?ny definition &quot;  
 ?cmund Randolph, then Attorney-General of the 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1839071901:0077/pct:0.2532022639261245,6.622516556291391,15.534703604408698,4.167091186958737/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1839071901:0077/pct:0.2532022639261245,6.62930888096451,15.549597855227882,4.163695024622177/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -996,7 +996,7 @@ more convenient vehicle, than treasury
   
 orders, for the purposes of that depart
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn86074078:0029587885A:1839102601:0650/pct:64.20256111757858,70.81230473443884,16.50174621653085,2.4873828406633023/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn86074078:0029587885A:1839102601:0650/pct:48.15892883132004,53.112232636385485,12.385387862028816,1.86253304494112/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1015,7 +1015,7 @@ gree of convenience cannot constitutue
 the. necessity contemplated by the con­  
 stitution. Besides, the local state bank
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn86074078:0029587885A:1839102601:0650/pct:64.14435389988358,73.44388368180726,16.443538998835855,3.3044941119923097/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn86074078:0029587885A:1839102601:0650/pct:48.115267064473876,55.082912761355445,12.341726095182652,2.4873828406633023/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1038,7 +1038,7 @@ iit remaining exclusively with tie States, and
 .lentlv, otic of tho&#x27;e intended by tho Consti­  
 ? -m to be |&gt;laced under his protectio t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1840071701:0553/pct:1.654357459379616,54.69558296856347,14.50516986706056,4.785117389574214/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1840071701:0553/pct:1.654357459379616,54.69889905823054,14.524864598719843,4.788433479241279/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1061,7 +1061,7 @@ out a bank. 4 bank therefore is net necessa­
 ry, and consequently not authorised by this  
 phrase.’”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153243:1841071401:0344/pct:64.6742057081314,69.27296299990027,14.081852450188476,5.215917024035106/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153243:1841071401:0344/pct:64.68318075749417,69.27628735746816,14.07736492550709,5.215917024035106/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1169,7 +1169,7 @@ lition. The power to incorporate a Bank,
 tot, in my opinion, been delegated to the  
 td States, hy the Constitution.&#x27;1&#x27;’ So sai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82007022:00393342882:1844022001:0097/pct:0.4830917874396135,34.77290627461276,11.36991028295376,8.29614071934891/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82007022:00393342882:1844022001:0097/pct:0.48300845264792136,34.76834230213939,11.372261514576506,8.298333114581967/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1205,7 +1205,7 @@ boundless field qf power, no longer susceptible of any
 definition.&quot;  
 The power to dig a canal, build a road, or improv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846040301:0375/pct:0.6863203868351271,67.11667079514491,14.350335361098113,6.279415407480802/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846040301:0375/pct:0.6863203868351271,67.11667079514491,14.360734154838038,6.287672363966642/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1270,7 +1270,7 @@ clear, that it is unauthorized by the Constitution;
 if the pro and the con, hang so even as to balance  
 his judgment, a just respect for the wisdom o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156360:1854060701:1049/pct:22.657450076804917,20.724029380902415,120.50691244239631,355.6663168940189/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156360:1854060701:1049/pct:5.665450355290955,5.181007345225604,30.13251392356443,88.91657922350473/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1301,7 +1301,7 @@ around the powers of Congress, by the co
 stitution, would be to take possession of an  
 undefined and undefinable field of power.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472062:1854093001:0084/pct:159.4262295081967,230.37249283667623,43.5792349726776,29.799426934097422/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472062:1854093001:0084/pct:39.86336464560205,57.59312320916906,10.89666951323655,7.4498567335243555/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1320,7 +1320,7 @@ to the U S by the constitution, nor prohib- ^
 ited by it to the State, are resarved respec­  
 tive!*&#x27; to the State or to the people an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_chekhov_ver01:data:sn86092517:00415660601:1864050301:0013/pct:47.92781770912983,34.6629157038079,15.705765407554672,3.0242138048829497/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_chekhov_ver01:data:sn86092517:00415660601:1864050301:0013/pct:47.938012947953304,34.6629157038079,15.710863026966408,3.0309119528450386/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1343,7 +1343,7 @@ here they are clearly mis-­
 led by crror, ambition, or interest, that the Constitution  
 I check in the negative of the President.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grass_ver01:data:sn83030214:00206531101:1872081601:0777/pct:10.840883802257192,100.19415258108725,46.54268001907487,17.09684787574235/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grass_ver01:data:sn83030214:00206531101:1872081601:0777/pct:3.613627934085731,33.39805086036242,15.514226673024956,5.698949291914116/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1445,7 +1445,7 @@ judgment a just respect for the wisdom of the
 Legislature would naturally decide lie bulan- e in  
 favor of their opinion
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:0027952472A:1888071201:0368/pct:44.02182148810426,64.45062250695032,9.789362024549174,2.0669648253354285/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:0027952472A:1888071201:0368/pct:44.015151515151516,64.44283297075175,9.791666666666666,2.069736524051245/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1478,7 +1478,7 @@ follows: &quot;To communicate to them
   
 (the incorporators) power to makeJ
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_johns_ver01:data:sn92073049:00295879294:1892102501:0345/pct:64.59896133871898,18.016716541120626,19.92210040392383,5.014962336188216/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_johns_ver01:data:sn92073049:00295879294:1892102501:0345/pct:48.47741376822052,13.51769683211227,14.951652475104632,3.7663811784129604/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

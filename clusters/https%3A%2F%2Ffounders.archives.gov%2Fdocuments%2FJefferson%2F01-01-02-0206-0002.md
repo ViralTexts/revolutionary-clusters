@@ -106,7 +106,7 @@ it to overwhelm Fharaoh. Underneath
 was the motto, “ Rebellion to tyrants is  
 obedience to God.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drew_ver02:data:sn86063034:00414182094:1893031101:0338/pct:24.134807030259104,26.44310060472787,15.981156006522921,6.061022539857064/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drew_ver02:data:sn86063034:00414182094:1893031101:0338/pct:18.709043250327653,20.497070832593643,12.380640329526306,4.697319368009941/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -165,7 +165,7 @@ whelm Pharaoh. Underneath was the
 moftto, “Rebellious to tyrants is obedi­  
 ence ty» God.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_abby_ver02:data:sn89053283:00517177003:1893040501:0207/pct:9.841720779220779,42.42501270971022,22.301136363636363,10.612608032536858/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_abby_ver02:data:sn89053283:00517177003:1893040501:0207/pct:7.627385196057873,32.885707719079356,17.28873977773118,8.221426929769839/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -217,7 +217,7 @@ caused it to overwhelm Puaroah. Under­
 neath was tho motto, &quot;Rebellion to ty­  
 rants is obedience to God.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn84026497:00280776154:1893041901:0106/pct:77.20921450151057,45.5318514098165,15.426737160120846,8.264955989855288/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn84026497:00280776154:1893041901:0106/pct:57.92256846081209,34.148888557362376,11.57695939565628,6.206176338952708/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -243,7 +243,7 @@ caused it to overwhelm Paaroah. Ujder­
 neath was the motto, &quot;Rebellion to ty­  
 rants is obedience to God.&quot; .
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lydia_ver01:data:sn87080287:00296028770:1893050101:1049/pct:83.45462328767124,28.729941959713212,12.221746575342467,6.6746329805394335/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lydia_ver01:data:sn87080287:00296028770:1893050101:1049/pct:83.46175799086758,28.735632183908045,12.236015981735159,6.6689427563446/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -419,7 +419,7 @@ unto him, We have found him of whom
 Moses, in the law and the prophets, did  
 writo, Jesus of Nazareth.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517016561:1854051201:0148/pct:69.98647277646263,16.15792129162462,12.394318566114306,21.84661957618567/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517016561:1854051201:0148/pct:69.97464074387152,16.155883465758606,12.396449704142011,21.847017278345316/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -808,7 +808,7 @@ and duty of (be hour. For this we have
 assembled hare and lifted our voices and  
 hearts in song and prayer. The Ameri
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_hazen_ver01:data:sn85042405:00212478714:1885120301:0888/pct:50.97942386831276,27.27164036346246,13.909465020576132,7.950741272118604/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_hazen_ver01:data:sn85042405:00212478714:1885120301:0888/pct:44.61087906284507,23.865815810579907,12.184934466369004,6.960281758900861/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -829,7 +829,7 @@ Nazareth, the son of Joseph.
 any good thing come out of Nazareth ? Philip  
 salth unto him, Come and see.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn85038180:00296029063:1886040801:0203/pct:53.752233472304944,29.382183908045977,14.27933293627159,3.6877394636015324/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn85038180:00296029063:1886040801:0203/pct:40.32762472077439,22.042624521072796,10.707371556217424,2.7658045977011496/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -935,7 +935,7 @@ think of the result.
 there any good thing come out of Nazareth?  
 Philip saith unto him, Come and see.&quot; It i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_irvin_ver01:data:sn86081895:00280776609:1894081601:0261/pct:247.07903780068727,228.11482687185557,60.738831615120276,20.71618822136727/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_irvin_ver01:data:sn86081895:00280776609:1894081601:0261/pct:61.796304254404816,57.02870671796389,15.19123334765793,5.179047055341817/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -961,7 +961,7 @@ there any good thing come out of Naza­
 reth? Philip saith unto him, Come and  
 see.&quot; It is not a question of place or cir
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jamaica_ver01:data:sn93063557:00280777882:1894081701:0679/pct:69.40760389036251,242.3841059602649,57.20601237842617,23.54003612281758/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jamaica_ver01:data:sn93063557:00280777882:1894081701:0679/pct:17.363415173634152,60.59602649006622,14.31099314310993,5.885009030704395/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -982,7 +982,7 @@ Joseph.&quot; And Nathanael said unto
 him: &quot;Can there any good thing come  
 out of Nazareth?&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_nicasio_ver01:data:sn85042461:00280769770:1898013001:0416/pct:19.371829886851344,21.989916963226573,12.212251268045259,3.8701067615658364/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_nicasio_ver01:data:sn85042461:00280769770:1898013001:0416/pct:19.37670698400312,21.997330960854093,12.236636753804136,3.8701067615658364/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1003,7 +1003,7 @@ come; because thou hast taken to thee
 thy great power, and hast reigned.&quot; The  
 Lord God Almighty Is the same jester
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_maple_ver01:data:sn92051487:00271763268:1898072201:0236/pct:23.358662613981764,24.88372093023256,14.437689969604863,4.124847001223991/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_maple_ver01:data:sn92051487:00271763268:1898072201:0236/pct:17.52812404986318,18.665850673194615,10.839160839160838,3.0966952264381886/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1026,7 +1026,7 @@ sired of Thee.”—David ii., 23.
 gardeth not the day, to the Lord he doth not regard it. He thateateth,  
 seatcth to the Lord, for he giveth God thanks.”—Romans xiv., 6
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_irwin_ver01:data:sn86092151:00514157534:1899111601:1072/pct:7.374691865242399,45.255775577557756,33.3607230895645,5.6243124312431245/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_irwin_ver01:data:sn86092151:00514157534:1899111601:1072/pct:7.373177243787225,45.24955314175718,33.35900595604847,5.626976488381685/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

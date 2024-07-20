@@ -104,7 +104,7 @@ of continuance in office.
 With nerfecl respect, &lt;Yc.  
 AI. K X A N DE ft HAMILTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348860:1839042901:1130/pct:82.22748815165876,39.04293381037567,15.620063191153239,9.600477042337507/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348860:1839042901:1130/pct:82.21125370187562,39.03711432404233,15.621915103652517,9.60277239528991/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -253,7 +253,7 @@ tinuance in office.
 With perfect respect, &amp;c,  
 ALEXANDER HAMILTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016942:00295878204:1839053001:0864/pct:30.758928571428573,25.919824272377813,24.397321428571427,16.762767710049424/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016942:00295878204:1839053001:0864/pct:23.095823095823096,19.43986820428336,18.31583649765468,12.57550796265788/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -288,7 +288,7 @@ tinuance in office.
 With perfect respect, ccc,  
 ALEXANDER HAMILTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016942:00295878204:1839060601:0867/pct:53.45673505798394,92.3904052936311,24.353256021409457,16.790736145574854/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016942:00295878204:1839060601:0867/pct:40.11601963409192,69.29969671905155,18.27309236947791,12.586159360352909/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -368,7 +368,7 @@ uance IN OFFICE.
 With perfect respect, &amp;c.  
 ALEXANDER HAMILTO
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016942:00295878204:1839071801:0892/pct:30.336581045172718,92.32447171097478,24.158547387068204,17.396046353101568/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016942:00295878204:1839071801:0892/pct:22.768549280177186,69.24335378323109,18.117386489479514,13.060668029993183/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

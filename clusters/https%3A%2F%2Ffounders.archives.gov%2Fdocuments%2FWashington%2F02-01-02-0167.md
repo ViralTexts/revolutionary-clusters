@@ -186,7 +186,7 @@ to enable me to proceed homewarfs,
 whence I fear 1 shall not be able to stir un­  
 til towards September.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816062201:0202/pct:7.605985037406484,8.167467398764584,34.34271464196651,84.19126058110272/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816062201:0202/pct:7.604630454140694,8.166533226581265,34.34253487681805,84.18544359296962/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -242,7 +242,7 @@ PONTOON LIFE-BOATS.
 \\ e ni-e this day highly gratified in witnessing  
 another instance of the success and utility of inven
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1816062601:0062/pct:19.45133035861841,21.939300411522634,15.137993720046273,21.476337448559672/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1816062601:0062/pct:19.448116325181758,21.936479362221938,15.141000220312844,21.47786207192148/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -323,7 +323,7 @@ me to pr JOi-ed homewards, whence 1
 fe»r I shaii not be able to stir until to­  
 vrtuis Sep&#x27;cmber.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184133:1816062601:0016/pct:6.98292220113852,36.11252545824847,18.045540796963948,41.85336048879837/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184133:1816062601:0016/pct:6.981597419844432,36.107929235077,18.048441156010878,41.85227610198973/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -842,7 +842,7 @@ all the efforts of the officers to the contra­
 ry, they ran as sheep pursued by do-n;  
 and it was impossible to rally them.&quot; O
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn85059716:00202193018:1852111701:0221/pct:30.992313067784767,86.47161066048668,13.504542278127184,4.316338354577057/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn85059716:00202193018:1852111701:0221/pct:30.99668064290706,86.47885283893395,13.51764500349406,4.3127172653534185/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -863,7 +863,7 @@ in despite of all the efforts of the officers to the
 contrary, tlicy ran ;is sheep pursued bv dogs, and  
 it was impossible to rally them.&quot; Of his ow
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn93067980:00295862270:1852112301:0201/pct:39.59409594095941,67.66962359146487,18.59778597785978,4.243586669863342/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn93067980:00295862270:1852112301:0201/pct:39.600246002460025,67.67761528010868,18.591635916359163,4.243586669863342/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -938,7 +938,7 @@ efforts of the officers to the contrary, the re­
 gulars ran as sheep pursued by dogs, and it  
 was impossible to rally them. “It is con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348720:1877012501:0239/pct:60.869565217391305,28.745306228149683,10.7386066003143,4.816781043635893/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348720:1877012501:0239/pct:60.858938547486034,28.741584671154843,10.741096368715084,4.8193940963231485/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1071,7 +1071,7 @@ me to proceed homeward, fn m whence
 1 fear I will uot be able to stir until to?  
 wards September. From ycurobedien
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_red_ver01:data:sn85025007:00175033750:1897112501:0343/pct:28.790721473648304,51.71616780307408,14.156575132184889,32.12758580839015/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_red_ver01:data:sn85025007:00175033750:1897112501:0343/pct:28.790721473648304,51.72387226010247,14.156575132184889,32.12758580839015/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

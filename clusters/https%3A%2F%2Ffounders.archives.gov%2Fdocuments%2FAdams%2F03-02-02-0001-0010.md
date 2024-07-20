@@ -156,7 +156,7 @@ our nationality breathe low and short, but
 we may with fond recollection rehearse the  
 grand words of Henry Grattan : &quot;I see he
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn85025182:00212477886:1861062601:0212/pct:59.131156613171,96.31787462130039,16.602102933038186,11.768818457236076/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn85025182:00212477886:1861062601:0212/pct:44.37370242214533,72.2442321137264,12.456747404844291,8.832439990678164/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -185,7 +185,7 @@ lar days and under particular generals:
 Without a sign, his sword the brave man draws,  
 And asks no omen but his country&#x27;s cause
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009571:00279523908:1863091801:0155/pct:168.99985972787206,219.15662650602408,38.64497124421378,23.383534136546185/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009571:00279523908:1863091801:0155/pct:56.32538569424965,73.04487501254894,12.879850397381954,7.793728875949537/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -247,7 +247,7 @@ tho most despleable characters in the community now
 make themselves of great consequence.&quot; The day after  
 the discursion the record runs thus: 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grass_ver01:data:sn83030214:00206531149:1873062701:0441/pct:246.94699532785566,246.81656533210966,48.33252779120348,18.641734541700128/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grass_ver01:data:sn83030214:00206531149:1873062701:0441/pct:82.31566510928522,82.27218844403656,16.110842597067826,6.213911513900042/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

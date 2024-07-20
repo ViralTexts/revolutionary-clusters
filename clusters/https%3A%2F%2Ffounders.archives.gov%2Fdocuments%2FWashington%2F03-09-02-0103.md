@@ -63,7 +63,7 @@ sod therefore Policy, concurring with Hu­
 adoptyd. . Happy a, if the Expe­  
 ditnthid becn thonght of befors thefe ill­
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021183:00340587960:1777052901:0062/pct:9.978768577494693,9.606035205364627,21.49091766926162,17.200335289186924/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021183:00340587960:1777052901:0062/pct:9.994495557128253,9.611623358480022,21.50664464889518,17.211511595417715/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -257,7 +257,7 @@ faith. - We were perfuing the exchange, and
 continued our exertions to accomplish i, till  
 the miserable appearance indicating an ap
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025583:0051701509A:1777053101:0196/pct:1.2660453666256375,3.200775945683802,93.61702127659575,95.19344756978123/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025583:0051701509A:1777053101:0196/pct:1.2719066877674228,3.207960627941229,93.62874391887931,95.19344756978123/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -312,7 +312,7 @@ iplithment of it. If, however, you do not,
 ~goming fortitude and magnanimity. Tam,  
 +Sir, with due respect, your most obedient
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025583:0051701509A:1777053101:0197/pct:4.157782515991471,2.9927086734138646,30.11727078891258,46.153009032538904/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025583:0051701509A:1777053101:0197/pct:4.169628050225065,2.9999637247433526,30.111348021795784,46.153009032538904/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1969,7 +1969,7 @@ and melancholy experience, in the speedy
 death of a large part of them, stamped it  
 with infallible certainty.&quot;Letter to Oen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293800:1865091601:0251/pct:209.69937606352806,98.75012498750125,38.91094724900737,37.356264373562645/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293800:1865091601:0251/pct:52.44715562491133,24.687531246875313,9.731876861966237,9.339066093390661/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

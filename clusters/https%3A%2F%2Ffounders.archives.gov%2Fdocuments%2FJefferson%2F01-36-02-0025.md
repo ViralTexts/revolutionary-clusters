@@ -72,7 +72,7 @@ Zanguaze, :. n conc*iiatc the ahcctions of
 my onponcms, l wctil merit their conci.  
 lialion.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215981:1802020901:0696/pct:54.89976167110613,71.41808093994779,20.257955979251367,15.192558746736292/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215981:1802020901:0696/pct:54.89206616204093,71.41225422207718,20.2597888047846,15.194038780560769/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -98,7 +98,7 @@ obvious i.:;on of my lupagle.m conciliate the
 affeftions of my opponents, 1 will meric theie  
 conciliation.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1802022001:0073/pct:73.70084963445959,82.69711023902961,20.134360798261213,7.515756927101915/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1802022001:0073/pct:73.7140222617401,82.7010742458477,20.134360798261213,7.511792920283823/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -191,7 +191,7 @@ a state of being of which I can know so little, and
 to trust for the tuture to Him who has beon so good  
 for the pust
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536135:1871110801:0240/pct:57.84313725490196,298.0997624703088,49.698340874811464,27.434679334916865/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536135:1871110801:0240/pct:14.463511220064115,74.5249406175772,12.426928153875165,6.858669833729216/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -225,7 +225,7 @@ ing of which I can know so lit tic, and to
 1 rust for die future to Him who has been so  
 good in the past
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn82014998:00279558030:1872012001:0221/pct:16.704980842911876,49.39742903053026,14.770114942528735,11.502410283877879/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn82014998:00279558030:1872012001:0221/pct:16.71934865900383,49.407471880021426,14.755747126436782,11.49571505088377/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -272,7 +272,7 @@ Mr. Savage, the tireless writer of fiction,
 has here written another very lively story  
 of today, full of smart sayings and doing
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_nicasio_ver01:data:sn85042461:00280769745:1897071801:0222/pct:43.467692930929715,44.19176398279041,12.396192019445007,5.792870313460356/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_nicasio_ver01:data:sn85042461:00280769745:1897071801:0222/pct:43.467692930929715,44.19176398279041,12.396192019445007,5.80439459127228/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -287,7 +287,7 @@ The Piston/of Ihe Virginia Falerni ContmHrn
 nent Virginians of that Era who were  
 Member? of the Body, By II con Bla
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ironmaiden_ver02:data:sn85038614:00175031030:1891030801:0296/pct:117.96802951122041,32.413938309295716,36.766062096526284,5.5690072639225185/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ironmaiden_ver02:data:sn85038614:00175031030:1891030801:0296/pct:39.32267650374014,10.804646103098571,12.255354032175427,1.8563357546408394/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -117,7 +117,7 @@ tions of the United Stales in Congress assembled,
 on all questions w hich by the said Confederation  
 are submitted to them; and that the articles thereo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82014751:00513688222:1851091001:0489/pct:16.4596761515485,59.91287967977396,14.290205942461878,1.8836825994819872/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82014751:00513688222:1851091001:0489/pct:16.464916417754022,59.9207283572718,14.284965676256354,1.891531276979829/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -138,7 +138,7 @@ questions which, by this confederation, are submitted to
 tnem. And the articles of this confederation shall btinv&lt;?  
 olably observed bit every Stale, anil the union shall he
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661204:1852011101:0044/pct:19.829144077542303,75.11340725806451,15.886315097749302,3.5660282258064515/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661204:1852011101:0044/pct:19.829144077542303,75.12180779569893,15.902743551831772,3.570228494623656/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -166,7 +166,7 @@ we respectively represent and that The UniOn ShALl ee
 perpetUal  
 There was the compact be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530662:1860103101:0432/pct:247.4488137796555,201.85098952270081,48.277543061423465,16.27473806752037/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530662:1860103101:0432/pct:82.48293792655184,67.28366317423361,16.09251435380782,5.424912689173458/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -212,7 +212,7 @@ be altered unless agreed to by Congrass,
 and the States.&quot; Some of the prohibitions  
 imposed on the States by these Articl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn88078724:00296028034:1860122701:0214/pct:177.9816513761468,144.5809151032528,49.235474006116206,27.858010527736536/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn88078724:00296028034:1860122701:0214/pct:44.51242829827916,36.1452287758132,12.31357552581262,6.964502631934134/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -42,7 +42,7 @@ nited States, shall be respected obeyed, ins­
 til altered and revoked by the samfe authority t  
 and the rules and regulation* thus prepared as 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1815022201:0231/pct:72.98128684952576,76.21231979030144,21.994360420405023,7.486893840104849/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1815022201:0231/pct:72.96258329062019,76.1998361998362,21.995130702203998,7.48976248976249/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -69,7 +69,7 @@ tinl obeyed, until ait&#x27;-red and rev ked by the
 same authority, and th- said rules and reguu­  
 ions thus prepared and approved, aha I he lai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184285:1815022501:0058/pct:42.14678899082569,3.9344262295081966,34.678899082568805,92.42118537200504/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184285:1815022501:0058/pct:42.13905705375161,3.9339301475223807,34.6786522350639,92.41373513218173/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -156,7 +156,7 @@ ed, until altered and revoked by the same am ho.
 rity; and the said rules and regulations thus  
 prepared and spproved, shall be laid befor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184285:1815042901:0122/pct:7.070146215065704,38.41951467412019,17.545807884508605,11.116757718206072/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184285:1815042901:0122/pct:7.068837897853442,38.41463414634146,17.5487293362941,11.119579945799458/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -446,7 +446,7 @@ lishment of the Government, the first effort seems to
 have been made to &quot;secure responsibility in the sub­  
 ordinate officess and agents of the navy. The wan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743075:1853011401:0109/pct:108.25153884545001,76.78796923430146,46.647812344035934,21.03088049592469/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743075:1853011401:0109/pct:36.08384628181667,25.595989744767152,15.549270781345312,7.010293498641564/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -483,7 +483,7 @@ Seventeen years after the establishment of the Navy
 Department, anil twenty-six years after the establishment  
 of the government, the first i (fort seems to have bee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661216:1853011901:0091/pct:0.6674263389223506,23.768844221105528,15.72521569265831,6.494974874371859/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661216:1853011901:0091/pct:0.6674263389223506,23.77721943048576,15.736068153453795,6.494974874371859/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -514,7 +514,7 @@ Seventeen years after the establishment of the Navy
 Department, and twenty-six years after the establishment  
 of the Government, the first effort seems to have bee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1853012201:0487/pct:65.41086541086541,21.31129949565404,15.274365274365275,8.101727653181673/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1853012201:0487/pct:65.41541541541541,21.314876417355226,15.288015288015288,8.10888149658404/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -536,7 +536,7 @@ reaeela. and their equipments, and repairing and refitting
 tbam.and for securing responsibility in the subordinate  
 officers and agents. The rules and regulations thus pre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661216:1853031901:0368/pct:1.4469453376205788,80.80441047487784,15.40192926045016,4.999373512091217/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661216:1853031901:0368/pct:1.4469453376205788,80.80858706093639,15.412647374062166,4.999373512091217/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

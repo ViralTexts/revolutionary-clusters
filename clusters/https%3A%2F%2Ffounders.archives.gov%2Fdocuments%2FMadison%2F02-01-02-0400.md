@@ -59,7 +59,7 @@ FOREIGN AFFAIRS of the United Siatss, conneft­
 ed with the Mission to the French Republic during  
 the years, 1794, 5, 6
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798010901:0004/pct:79.2328642759873,58.829803443547156,16.000907852927824,2.0417492000609476/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798010901:0004/pct:79.2385383567862,58.829803443547156,16.006581933726736,2.0493676672253542/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -78,7 +78,7 @@ ecutive of the United States, conne&amp;ted with *
 the mission to the French Republic, during .  
 the years 1794, ’95 and g 6, by James Mun
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798011001:0425/pct:58.27055869428751,27.72799681401832,16.807909604519775,3.7335722819593786/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798011001:0425/pct:58.27578991420799,27.734634275852915,16.807909604519775,3.7335722819593786/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -96,7 +96,7 @@ FOREIGN AFFAIRS of the United Statss, conne&amp;-
 ed with the Miflion to the French Republic during  
 the years, 1794, 5, 6
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798011301:0004/pct:78.86197977897955,57.33232856066315,16.1062779214672,1.974378296910324/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798011301:0004/pct:78.86785798260051,57.336096458176335,16.135668939572067,1.9932177844762622/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -178,7 +178,7 @@ A View of the Conduct o‘ the Executive in the Fo­
 reign Affairs of the United States, connected with the  
 Mission to the French Republic, during the years 1794, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348410:1853050501:0426/pct:3.8318670576735094,53.4675615212528,15.131964809384165,1.244407158836689/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348410:1853050501:0426/pct:3.8311180609851445,53.46008667691878,15.133893666927287,1.2477282259191946/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -206,7 +206,7 @@ A View of the Conduct of the Executive in the Fo­
 reign Affairs of the United States, connected with the  
 Mission to the French Republic, during the years 1794, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348410:1853051001:0440/pct:35.845697329376854,52.34946539110861,15.311572700296736,6.063590320765335/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348410:1853051001:0440/pct:35.83860759493671,52.342101561401044,15.313488924050633,6.066254044169363/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -223,7 +223,7 @@ A View of the Conduct o.‘ the Executive in the Fo- j
 reign Ailairs of the United States, connected with the  
 | Mission to the French Republic, during the years 1794, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348410:1853051101:0444/pct:35.777863777089784,55.27645242772944,15.49922600619195,1.220881279820376/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348410:1853051101:0444/pct:35.77094215515574,55.26869650624386,15.501064035596828,1.2242177634348252/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -263,7 +263,7 @@ duct of the Executive in the Foreign
 Affairs of the United States, connected  
 with the Mission to the French Republi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dorothea_ver01:data:sn90061771:00200292790:1869111801:0833/pct:323.80106571936057,125.75521644347555,57.90408525754884,9.467455621301776/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dorothea_ver01:data:sn90061771:00200292790:1869111801:0833/pct:80.98622834295868,31.438804110868887,14.482452243447357,2.366863905325444/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

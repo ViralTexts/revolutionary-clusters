@@ -1212,7 +1212,7 @@ defect in the commitment in a criminal ease, the prisoner be again
 arrested on sufficient proof, and committed by legal process for the  
 same offence; or
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83025241:0038334721A:1850012301:0153/pct:19.511869831955188,16.34980988593156,24.08642304614564,5.605649103747963/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83025241:0038334721A:1850012301:0153/pct:19.511869831955188,16.357052326634076,24.08642304614564,5.609270324099222/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1233,7 +1233,7 @@ cause or offense. And if any petson shall
 knowingly, contrary to this act, recommit or  
 imprison, or cause to be recommitted or i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn85042591:00280774959:1858041601:0099/pct:57.59768451519537,200.85789400857894,44.7178002894356,11.567732115677321/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn85042591:00280774959:1858041601:0099/pct:14.407239819004525,50.214473502144735,11.18552036199095,2.8919330289193304/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1283,7 +1283,7 @@ cause of offence. .. And if any person shall
 knowingly, contrary to this act, recommit or  
 imprison, or cause to bo recommitted or impri
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn84028794:00296026682:1858050501:0606/pct:42.68379728765168,28.226841159866563,16.452533904354034,6.49217346676931/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn84028794:00296026682:1858050501:0606/pct:32.0299946438136,21.17013086989992,12.35493661846099,4.875545291249679/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1301,7 +1301,7 @@ crime, or under any color or pretense whatsoever,
 unless it be lor &quot;treason or felony plainly expressed  
 &quot;in the warrant of commitment,&quot; or, &quot;not heiny con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026347:1859032901:0298/pct:73.60442051572683,32.39123851821944,10.909606120714082,1.3626728575754516/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026347:1859032901:0298/pct:73.60914328893926,32.394603142559134,10.909606120714082,1.3660374819151442/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1325,7 +1325,7 @@ lows :
 &quot;his bail, or convicted of the offence for which he  
 &quot;gave bail.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026372:1860090401:0230/pct:3.452613922281241,88.63659198231689,11.014816885658373,4.3403998794333365/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026372:1860090401:0230/pct:3.457273320287019,88.63659198231689,11.028795079675707,4.35044710137647/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1361,7 +1361,7 @@ commitment or cause of detainer, he shall, upo
 should &quot;deny to allow any writ of habeas corpus by this  
 act required to be granted, being applied for as aforosaid
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743543:1866050901:1154/pct:205.7249322493225,53.137325206167084,45.03726287262872,2.8923150472092747/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743543:1866050901:1154/pct:68.57497741644083,17.712441735389028,15.01242095754291,0.9641050157364248/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1418,7 +1418,7 @@ turned by tbe warden, and the petitioners brought
 before me, with this certificate, setting forth the  
 causes of detainer and imprisonment. Thes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_ewing_ver01:data:sn83025925:00280776191:1866111401:0546/pct:9.190915542938255,60.613207547169814,19.144783534421574,12.680355160932297/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_ewing_ver01:data:sn83025925:00280776191:1866111401:0546/pct:6.903283052351376,45.463374028856826,14.356699201419698,9.517203107658158/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1575,7 +1575,7 @@ the same offence, by the legal order or process of
  the Court wherein he shall be bound by recognizance  
 to appear, or in which he shat be indicted or con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743816:1873030201:0750/pct:54.28285189514109,279.5825771324864,53.99899816329938,11.581215970961887/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743816:1873030201:0750/pct:18.09428396504703,93.19419237749547,17.999666054433128,3.8604053236539624/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1681,7 +1681,7 @@ prisoned or committed for the same
 offense&quot; is only qualified by a surren­  
 der of bail or conviction of the offense
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn82006687:00415623665:1885052101:0119/pct:14.915844457341846,72.9547782818674,14.780421745018378,13.25918337479877/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn82006687:00415623665:1885052101:0119/pct:11.569793592883203,56.54820415879017,11.454845319606177,10.272211720226844/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1704,7 +1704,7 @@ hound by recognisance to appear, oi
 some other court having jurisdiction  
 of the cause, or upon surrender by hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fireweed_ver01:data:sn83016209:00383342429:1886050701:0800/pct:27.782909930715935,99.40896404531276,17.043879907621246,6.0088655393203085/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fireweed_ver01:data:sn83016209:00383342429:1886050701:0800/pct:21.53212815464471,77.04215794384596,13.227134419187399,4.669607261006022/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1726,7 +1726,7 @@ she shall be bound by recognizance to ap­
 pear, or some other court having jurisdic­  
 tion of the cause, or upon surrender by hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623872:1886051501:0096/pct:60.14355874574991,70.19965161463219,11.35247449943332,3.75184242261825/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623872:1886051501:0096/pct:60.149855181967006,70.20411809370673,11.358770935650423,3.7563089016927957/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1747,7 +1747,7 @@ orocess of the court wherein he or she shall
 jc bound by recognizance to appear, or some  
 other court having jurisdiction of the cause
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_henson_ver01:data:sn83016107:00415625534:1886052801:0513/pct:109.12304325871065,98.18374651995228,13.920215451944117,3.81810950550179/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_henson_ver01:data:sn83016107:00415625534:1886052801:0513/pct:84.57624907596643,76.0950717490325,10.788363699612994,2.962430220213021/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1770,7 +1770,7 @@ I bound by recognisance to appear, ot !
 I some other court having jurisdiction j  
 &#x27; I of the cause, or upon surrender by hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624384:1886121701:0397/pct:20.16057091882248,77.24512210879959,14.272970561998216,4.74221475642848/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624384:1886121701:0397/pct:20.172465060957478,77.24512210879959,14.272970561998216,4.74221475642848/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

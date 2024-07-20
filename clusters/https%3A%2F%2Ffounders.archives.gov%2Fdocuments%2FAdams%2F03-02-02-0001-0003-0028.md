@@ -132,7 +132,7 @@ lished ; thou shalt be far from oppression, for
 J thou shalt not fear; and from terror, for it shall  
 &#x27; not come near thee.&quot; Distrusting the arm q
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014763:00415661460:1851051401:0106/pct:45.285956964892414,10.291348177689155,13.84484711211778,2.3706657804364686/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014763:00415661460:1851051401:0106/pct:45.290675726689315,10.291348177689155,13.849565873914685,2.3780510320889183/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -222,7 +222,7 @@ He contrasted the peace of our Common­
 wealth, whose laws and institutions are built  
 on righteousness, with the terror of a Stat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn90059501:00383347208:1859121701:0004/pct:49.235993208828525,42.524786492588596,10.271646859083193,11.426327672523804/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn90059501:00383347208:1859121701:0004/pct:49.235993208828525,42.52805863682471,10.271646859083193,11.423055528287687/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -430,7 +430,7 @@ tares,&quot; and one of the papers reported
 him as having said sawed trees. Dr.  
 Gildersleeve wrote of the burial of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eadweard_ver01:data:sn85034076:00200292388:1875020501:0044/pct:303.65575019040364,271.26888588625474,66.18431073876619,27.465913278467017/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eadweard_ver01:data:sn85034076:00200292388:1875020501:0044/pct:75.95732520480091,67.81722147156368,16.55553438750238,6.866478319616754/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

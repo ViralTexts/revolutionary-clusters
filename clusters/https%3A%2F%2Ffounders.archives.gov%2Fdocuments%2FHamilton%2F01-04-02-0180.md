@@ -240,7 +240,7 @@ concomitants ’ IJave wt{ not had unequivocal expe­
 rience of i ts effects in the course «f the revolution,  
 which we have just alchieved J*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1813060101:0037/pct:40.93567251461988,57.56937561942517,17.068713450292396,5.7358771060455895/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1813060101:0037/pct:40.92819294719532,57.562244518766256,17.07168524270662,5.739295594368058/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -275,7 +275,7 @@ wariely of the means, which muy be necegsary 1o
 satisfy them?&gt;® | i o e A  
 - He proceeds and in another section says
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814121301:0201/pct:5.901162790697675,75.95170869438225,17.281976744186046,6.240872359069224/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814121301:0201/pct:5.9060077519379846,75.95819946126635,17.281976744186046,6.237626975627171/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -305,7 +305,7 @@ R
 wion, energy and duration, -We must abandon  
 eeel T il recatsion s 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814121301:0201/pct:5.901162790697675,81.89076039334047,17.281976744186046,11.157628273780547/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814121301:0201/pct:5.9060077519379846,81.89076039334047,17.281976744186046,11.1608736572226/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -517,7 +517,7 @@ intercourse, political and commercial, with foreign coun­
 tries.&quot; ? * * * * * * j  
 ?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854062401:0832/pct:47.69483182936833,38.60488541928985,15.849056603773585,3.3115084361621756/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854062401:0832/pct:47.70576975663112,38.60488541928985,15.854525567404977,3.3199026273818517/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -537,7 +537,7 @@ iiions as external attacks; the regulation of commerce with
 other nations and between the State*; ths superintendence  
 of our intercourse, political and commercial, with foreig
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661538:1854062501:0626/pct:45.80221478238475,43.22593969434118,12.516095802214782,2.28211482858323/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661538:1854062501:0626/pct:45.81079921023264,43.232823901968885,12.51180358829084,2.285556932397081/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -628,7 +628,7 @@ intercourse, political and commercial, with
 foreign countries- still exist to plead in be­  
 half of its perpetuity. And of the causes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156372:1856102201:0376/pct:20.344544708777686,142.98297122724603,59.22887612797375,32.002348796241925/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156372:1856102201:0376/pct:5.089267391750462,35.745742806811506,14.816334906628361,8.000587199060481/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -826,7 +826,7 @@ means ought to be proportioned to the end; the persons from
 whose agency the attainment of the end is expected, ought  
 in pouress the meang by which it is to be attained--Federa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271743403:1862012901:0245/pct:118.79820051413881,233.33714677954467,51.15681233933162,36.47179956526713/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271743403:1862012901:0245/pct:39.59940017137961,77.77904892651489,17.052270779777206,12.15726652175571/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -935,7 +935,7 @@ efficacy, that is, in any matter essential to the
 voaMA-rioii, iiiaacriox, or airroavof theKATioii.L  
 1 roi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn84028794:00296026694:1862021901:0455/pct:55.51876379690949,19.997423012498388,33.83002207505519,105.14109006571319/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn84028794:00296026694:1862021901:0455/pct:41.6635995583364,14.998067259373792,25.377254324622747,78.86870248679294/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -970,7 +970,7 @@ nity in any matter ess -utial to its ctlic.icy, that is,
 in any 1 1 inner caaeutlal to the formation, direction  
 or support of the national foreea.&quot; Madison haid 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026193:00280775769:1862041001:0878/pct:8.779661016949152,76.18628067967275,16.864406779661017,14.059156702328508/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026193:00280775769:1862041001:0878/pct:6.59657452942174,57.142857142857146,12.650500254366627,10.547514159848962/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1030,7 +1030,7 @@ the Federal Government an unconfined
 authority in respect to all those objects  
 which are entrusted to its management.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775630:1862060601:0238/pct:114.2065142065142,46.63871229541458,44.07484407484407,47.01744893818477/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775630:1862060601:0238/pct:28.56152512998267,11.659678073853645,11.022530329289427,11.754362234546193/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1080,7 +1080,7 @@ reason no constitutional shackles can wisely
 be imposed on the power to which the care of  
 it in committed.&quot; Uod., No,33
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_braniff_ver01:data:sn82014760:00237288890:1862071701:0693/pct:57.5046904315197,171.12526539278133,50.93808630393996,8.492569002123142/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_braniff_ver01:data:sn82014760:00237288890:1862071701:0693/pct:14.382918817456593,42.78131634819533,12.740497419052089,2.1231422505307855/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1134,7 +1134,7 @@ of nations are infinite; and for this reason no con­
 stitutional shackles can wisely be imposed on the  
 power to which the care of it is committed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775630:1862072201:0393/pct:165.57152635181382,116.51236700290175,42.77891854893908,5.803509741605637/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775630:1862072201:0393/pct:41.40705237932215,29.12809175072544,10.698390961999316,1.4508774354014093/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1152,7 +1152,7 @@ of nations are Infinite ;and for this reason ho c6n-
 Vitntlonal shackles can wisely b« imposed ouyhe  
 . powtr to which the care of It la commuted.” fFed.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1862072301:0002/pct:46.00484261501211,87.32373891554005,10.262618737195009,1.2501817124582062/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1862072301:0002/pct:46.018811696777796,87.32373891554005,10.276587818960701,1.2538159616223288/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1190,7 +1190,7 @@ ed on the power to which the care of it is com­
 mitted.&quot; (Fed. No. 28.) And Madison, speak­  
 ing in the same spirit, and by the approval o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84027060:00415668909:1862072601:0333/pct:17.6908429980959,28.56284546983898,14.644279037562749,2.9800528719057917/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84027060:00415668909:1862072601:0333/pct:17.70238301309792,28.57085636465593,14.650049045063758,2.988063766722743/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1213,7 +1213,7 @@ this reason no constauuonal shackies can
 wisely be imposed on the power to which  
 the care of it is committed.&quot; IFed No
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528293:1862072601:0742/pct:98.0540177822513,124.67469293445215,43.566515685287705,8.439742186549921/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528293:1862072601:0742/pct:32.684672594083764,41.55823097815072,14.522171895095902,2.8132473955166404/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1234,7 +1234,7 @@ on the power to which the care of it is commit­
 ted.&quot; (Fed. No. 23.) And Madison, speaking  
 in the same spirit, and by the approval of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200290021:1862073001:0411/pct:201.27991096271563,58.7440918298447,42.904841402337226,10.263335584064821/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200290021:1862073001:0411/pct:50.34098816979819,14.686022957461175,10.730688935281837,2.5658338960162053/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1273,7 +1273,7 @@ reason no constitutional shackles can wisely
 be imposed on the power to which the care  
 of it is committed. (Fed No, 23.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn84028083:00280775241:1862080101:0772/pct:184.36123348017622,204.90224686314562,47.944199706314244,9.746133644587102/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn84028083:00280775241:1862080101:0772/pct:46.098769965118414,51.225561715786405,11.988250413071416,2.4365334111467756/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1293,7 +1293,7 @@ shackles can wisely be imposed on
 the power to which the care of it is  
 committed.&quot; (Fed, No. 23
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn85042591:00280774959:1862080801:0672/pct:168.8803088803089,76.29661380197172,47.49034749034749,13.659094156308043/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn85042591:00280774959:1862080801:0672/pct:42.24454317172108,19.07415345049293,11.879466872706201,3.414773539077011/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1312,7 +1312,7 @@ reason no constitutional shackles can wisely
 be imposed on the power to which the care  
 of it is committed&quot; (Fed. No. 23.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn83035216:00280775150:1862080901:0903/pct:178.86944818304173,55.2060737527115,49.19246298788695,11.008676789587852/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn83035216:00280775150:1862080901:0903/pct:44.724886420999496,13.801518438177874,12.300185091704526,2.752169197396963/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1331,7 +1331,7 @@ this reason no constitutional shackles can1
 wisely be imposed on tho power to which  
 the care of i( is committed.&quot; (Fed. No.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn87058348:00279529376:1862081901:0869/pct:42.90465631929047,75.79488277486351,12.707871396895786,2.7834278985119365/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn87058348:00279529376:1862081901:0869/pct:42.91389504804139,75.79488277486351,12.71249076127125,2.7834278985119365/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1393,7 +1393,7 @@ reason no constitutional shackles can wise
 ly be imposed on the power to which the  
 care of it is committed.-ALeV, MamilToN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn84028083:00280775241:1862101701:0818/pct:332.4522760646109,347.3974191677541,48.16446402349486,10.84529505582137/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn84028083:00280775241:1862101701:0818/pct:83.15886134067952,86.84935479193852,12.047750229568411,2.7113237639553427/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1420,7 +1420,7 @@ This was not dounted under the Confederation, though
 the mode-adopted to carry it into effect was utterly inade­  
 quate andwlusory. There could be no real danger fro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200290021:1862112101:0606/pct:286.72131147540983,226.4276967605477,42.677595628415304,16.83179338750974/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200290021:1862112101:0606/pct:71.69991801038535,56.60692419013692,10.67231484012025,4.207948346877435/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1498,7 +1498,7 @@ and support of an arui) and navy, in the cut­
 tomary and ordinary rnodtt prarhgrd in other  
 government»
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_damariscotta_ver02:data:sn83016025:00279525164:1863042301:0320/pct:4.05727923627685,58.06495633187773,12.355425004589682,7.409934497816594/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_damariscotta_ver02:data:sn83016025:00279525164:1863042301:0320/pct:4.056534508076358,58.05703370173284,12.357745961820852,7.412334561331696/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1557,7 +1557,7 @@ imposed on the power to which the care of it is com
 mitted. Thi power ought to be cnertensite tith ull the poseile  
 combinations of such circumstances.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basic_ver01:data:sn83030213:00206530753:1863102401:0406/pct:54.91788804520572,235.61543172075935,49.249514391665194,18.738518064911208/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basic_ver01:data:sn83030213:00206530753:1863102401:0406/pct:18.30596268173524,78.53847724025312,16.41650479722173,6.246172688303735/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1585,7 +1585,7 @@ defence and protection of the community ih any matter
 essential to its efficacy-that is, in any matter essential to  
 the formation, direction or support of the national for
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_itchweed_ver01:data:sn83030313:00271743464:1863102401:0244/pct:156.68329606055394,238.49893289068058,45.74230173748495,13.18472847996206/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_itchweed_ver01:data:sn83030313:00271743464:1863102401:0244/pct:52.227765353517974,79.49964429689352,15.247433912494982,4.394909493320686/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1609,7 +1609,7 @@ Rejoice that it does not depend on the will of Horatio
 coymour or others in his place tor forces. It is the high  
 suty of Congress to call into the field, it necessary t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_itchweed_ver01:data:sn83030313:00271743464:1863102401:0244/pct:156.734904524342,251.17382025136354,52.227765353517974,10.884515058098174/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_itchweed_ver01:data:sn83030313:00271743464:1863102401:0244/pct:52.24496817478067,83.72460675045451,17.409255117839326,3.628171686032725/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1683,7 +1683,7 @@ correspondent extent and variety of the
 means which may be necessary to satisfy  
 the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775605:1864010701:0339/pct:119.72038263428992,106.45886407912484,42.16335540838852,17.683200959088865/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775605:1864010701:0339/pct:29.946622492177433,26.61471601978121,10.546659304251795,4.420800239772216/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1711,7 +1711,7 @@ et of the national forces.&quot; I. Federalist, page
 150.&quot;  
 Upon the question as to whether the Go
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775605:1864010701:0339/pct:119.79396615158204,124.26195114641091,42.16335540838852,24.27693690993556/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775605:1864010701:0339/pct:29.965028529357628,31.065487786602727,10.546659304251795,6.06923422748389/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1742,7 +1742,7 @@ throws equal light upon the meaning of ours.
 It is well known that the Union of the  
 Colonies was formed for the pacbose of com
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_kings_ver01:data:sn83025813:00415667115:1864031201:0083/pct:21.557503867973182,246.63941439300314,56.884992264053636,35.82089552238806/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_kings_ver01:data:sn83025813:00415667115:1864031201:0083/pct:5.390766056229043,61.659853598250784,14.224916172298169,8.955223880597014/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1774,7 +1774,7 @@ for the support of an army and navy, in the
 customary and ordinary modes practised by  
 other Governments.&quot; Federalist No. 2
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_kings_ver01:data:sn83025813:00415667115:1864031501:0087/pct:21.879815100154083,216.01375883814256,57.06214689265537,40.01528759793617/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_kings_ver01:data:sn83025813:00415667115:1864031501:0087/pct:5.471358849216543,54.00343970953564,14.269201130233753,10.003821899484043/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1798,7 +1798,7 @@ essential to the formation, direction or support
 of the national forces.&quot; Fed No 29.  
 As has been already stated, experience ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_kings_ver01:data:sn83025813:00415667115:1864031501:0087/pct:23.215202876219827,353.7932352379132,56.95942475603493,21.440856105484425/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_kings_ver01:data:sn83025813:00415667115:1864031501:0087/pct:5.805291548933984,88.4483088094783,14.243513999486257,5.360214026371106/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1851,7 +1851,7 @@ thus stated:
 is one of enumerated powers, and it can  
 exercise only the powers granted to it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_coyote_ver02:data:sn88071076:00296025173:1864051401:0089/pct:194.18472063854048,98.80624426078971,60.54732041049031,98.07162534435261/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_coyote_ver02:data:sn88071076:00296025173:1864051401:0089/pct:48.58773181169757,24.701561065197428,15.149786019971469,24.517906336088153/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2053,7 +2053,7 @@ laws and make all regulation icen ea e eti to the
 have relation to them (leets armiesea o e oe an e o  
 and revenea te Uion onom
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867030501:0206/pct:110.18913971934106,126.30650496141125,126.66259914582062,231.75303197353915/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867030501:0206/pct:27.555691180958192,31.576626240352812,31.675312786084834,57.93825799338479/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2125,7 +2125,7 @@ on maxims as simple as they are universal. The persons
 from whose agency the attainment of an end is expected  
 ought to possess the means by which it is to be attained
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_euclid_ver01:data:sn83030214:00206530893:1868050501:0031/pct:53.22380657160571,265.5775325101082,48.48109113453193,18.52256583979893/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_euclid_ver01:data:sn83030214:00206530893:1868050501:0031/pct:17.741268857201902,88.52584417003607,16.160363711510644,6.17418861326631/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2172,7 +2172,7 @@ cy the attainment of any end is ex
 pected ought to possess the micans by  
 which it is to be attained.&quot;Feder
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn87076793:00280775113:1868050701:0361/pct:203.87143900657415,25.336322869955158,88.89700511322133,345.9641255605381/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn87076793:00280775113:1868050701:0361/pct:50.986481549141395,6.334080717488789,22.232371209353307,86.49103139013452/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2253,7 +2253,7 @@ In the same great contest for the adoption
 of the Constitution, MAdison, who was  
 sometimes called the father of the Consti
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn86053573:0021110238A:1879060401:0541/pct:80.33664881407805,229.0049085229808,49.5026778882938,50.453666517923544/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn86053573:0021110238A:1879060401:0541/pct:20.088004591543907,57.2512271307452,12.378037114979913,12.613416629480886/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2309,7 +2309,7 @@ to the formation, direction, or support
   
 of the national forces.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_flash_ver02:data:sn89067453:00280779945:1894011801:0239/pct:30.53713527851459,53.50805983996289,19.44628647214854,28.37759480459237/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_flash_ver02:data:sn89067453:00280779945:1894011801:0239/pct:22.918739635157547,40.136843325988636,14.593698175787727,21.280296880436044/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2330,7 +2330,7 @@ attainment of the end is expected
 ought to possess the means by which  
 it is to be attained.&quot; Federalist, No
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_flash_ver02:data:sn89067453:00280779945:1894011801:0239/pct:30.83554376657825,83.23089412037574,19.23076923076923,6.70300359503653/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_flash_ver02:data:sn89067453:00280779945:1894011801:0239/pct:23.134328358208954,62.42606981329004,14.427860696517413,5.033051142293865/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2401,7 +2401,7 @@ to its efficacy; that is, in any
 matter essential to the formation, direc­  
 tion or support of the national forces.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_hoquiam_ver01:data:sn83045604:00202199665:1899111001:0503/pct:177.33313644418192,85.13296652911508,38.37861783815712,67.03347088491518/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_hoquiam_ver01:data:sn83045604:00202199665:1899111001:0503/pct:59.11104548139397,28.37765550970503,12.792872612719039,22.344490294971724/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

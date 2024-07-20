@@ -109,7 +109,7 @@ it is not to be doubted but all have a righ.
 to join in order to repress, chastise, and pu»  
 it ever after out of its power to injure them.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1773111801:0499/pct:38.49241748438894,78.31274564851208,26.851025869759145,7.3413812464907355/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1773111801:0499/pct:29.832344299130035,60.69913333575081,20.821570547905743,5.6858976683468105/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -406,7 +406,7 @@ and of their iuduftry, to increase the prof­
 penty of their commerce, to repel every  
 thing that comes from England, and efTen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798030601:0002/pct:42.69347673602993,43.24405207242256,16.29646948795885,7.496633248541074/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798030601:0002/pct:42.69347673602993,43.247792907376926,16.319850362403553,7.50785575340416/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -462,7 +462,7 @@ go, in whole or in part, shall be de­
 clared to be good prize, whosoever  
 may be the proprietor of these com
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798032101:0464/pct:24.514936864798276,19.383561643835616,16.12257468432399,3.9530332681017613/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798032101:0464/pct:24.514936864798276,19.383561643835616,16.132840570783287,3.95955642530985/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -492,7 +492,7 @@ comes from England, ‘and eflentially
 to influence the conclusion of the war.  
 Such are the motives which induc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798032101:0464/pct:24.099168463196797,28.68884540117417,16.72312904219279,10.63600782778865/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798032101:0464/pct:24.104301406426444,28.692106979778213,16.73339492865209,10.632746249184605/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -634,7 +634,7 @@ doubted that all have a right to join, in
 order to repress, chastise, and put it e­  
 ver out of its power to injure them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216195:1815060301:0337/pct:4.530127547280458,5.140961857379768,33.70473537604457,91.09714584969888/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216195:1815060301:0337/pct:4.529463500439753,5.140513178565195,33.704680934232385,91.09210449758538/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -656,7 +656,7 @@ tinn shows that it has evidently this perni­
 cious dispos tion,” that others may judge  
 for it—Otherwise, as in the case of the Al
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1816091101:0149/pct:35.399107585523055,66.5260736196319,14.840522227730954,4.537321063394683/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1816091101:0149/pct:35.39325842696629,66.51757188498402,14.843577880590438,4.541001064962726/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -703,7 +703,7 @@ down ns a general principle, “ That there are oc­
 j casions when the subject tnay reasonably suppose  
 I the sovereign&#x27;s will, and act in consequence of hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183992:1825061001:0039/pct:64.48818897637796,72.90850836596654,15.070866141732283,6.550373798504806/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183992:1825061001:0039/pct:64.47803495512518,72.89985761746559,15.073741667978796,6.553551653219428/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -751,7 +751,7 @@ others, to travel-e their ilesigns, and (o raise domestic !
 i-&#x27;in, in order to repress, chastise, and put it ever’nftcr  
 jut of its power to injinc them.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184534:1825061401:0148/pct:24.413145539906104,33.830845771144276,17.934272300469484,3.1701955339581165/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184534:1825061401:0148/pct:24.40932561414489,33.826931975937065,17.936681792103478,3.1736850223661883/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -838,7 +838,7 @@ them.&quot; Again it is stated:—&quot; Nation
 
 ---
 
-## [From _The American Whig review_](https://archive.org/details/sim_american-whig-review_1851-02_13_74/page/n28/mode/1up?view=theater)
+## [From _The American Whig Review (1850-1852)_](https://archive.org/details/sim_american-whig-review_1851-02_13_74/page/n28/mode/1up?view=theater)
 
 #### 1851-02-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -876,7 +876,7 @@ the others have a right to term a coalition in order to
 repress and chas&#x27;ise that&#x27;nation, and to pul it forever  
 out of her power to injure them. ’ (p. 155.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348379:1851082801:0193/pct:7.903846153846154,63.78393506856983,14.403846153846153,2.8687377553876297/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348379:1851082801:0193/pct:7.9023264756777545,63.77501049391353,14.405883483945395,2.8718343360850707/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -930,7 +930,7 @@ be doubted that all have a right to join, in
 order to repross, chastise, and put it, ever  
 after, out of its power to injure the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279520944:1858030601:0506/pct:21.44967052942513,326.46914388606973,51.01113383321972,21.165493534129972/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279520944:1858030601:0506/pct:5.361199454793276,81.60392798690671,12.749886415265788,5.29050736497545/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

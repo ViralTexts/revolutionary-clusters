@@ -35,7 +35,7 @@ On 7 Jan. 1802 the New York surveyor of customs seized the Young Ralph, owned by
 slave-trade from the United States to any  
 foreign place or country&quot; also the bill en
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794032601:0003/pct:48.781259892371004,70.7282630623361,18.51851851851852,2.3199515836191247/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794032601:0003/pct:48.78917378917379,70.74339318135969,18.542260208926876,2.309864837603389/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -73,7 +73,7 @@ country
 the slave trade from the United States  
 to any foreign place or country.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1800052701:0294/pct:27.486910994764397,28.17977088025066,16.014782876501386,2.0562028786840303/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1800052701:0294/pct:27.497176881223695,28.18629850843696,16.00964993327174,2.052939064590881/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -91,7 +91,7 @@ to prohibit the carryir.g on the Slave
 Trade from the United States to any fo­  
 reign place or country
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800071101:0002/pct:7.974559686888454,18.955732122587968,16.87866927592955,2.6755310523755473/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800071101:0002/pct:7.974559686888454,18.95978595751581,16.903131115459882,2.6836387222312306/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -257,7 +257,7 @@ to any foreign place or country. |
 Act to pphiht the carrying on the slave trade.  
 from the United States to any foreign place o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_gonne_ver01:data:sn88067030:00202190133:1859012201:0641/pct:66.6243654822335,184.6153846153846,50.444162436548226,4.853479853479853/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_gonne_ver01:data:sn88067030:00202190133:1859012201:0641/pct:22.20812182741117,61.53846153846154,16.814720812182742,1.6178266178266179/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -274,7 +274,7 @@ approved March27, 1int, entitled Au act to prohibit the carry
 ing on the slave trade from the United States to any foreign place  
 or country.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_flavory_ver01:data:sn83030213:00206530637:1859121601:0759/pct:4.840302930523543,54.98503889886295,47.90912084293711,4.201077199281867/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_flavory_ver01:data:sn83030213:00206530637:1859121601:0759/pct:1.6134343101745143,18.328346299620986,15.969706947645703,1.4003590664272891/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -290,7 +290,7 @@ or country.
 &quot;An act to prohibit the carrying on the slave trale from  
 the United States to any foreign place or country.&quot; Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743336:1859122701:1071/pct:56.035075653370015,40.68293827739967,46.354883081155435,3.2269420323867637/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743336:1859122701:1071/pct:18.67835855112334,13.560979425799891,15.451627693718478,1.0756473441289212/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

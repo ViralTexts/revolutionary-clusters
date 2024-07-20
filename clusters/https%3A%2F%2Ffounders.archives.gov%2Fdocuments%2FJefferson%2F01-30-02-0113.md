@@ -209,7 +209,7 @@ giving copy tights to auihcis, anti patents to Inventors; the
 •general power of incorporating being whittled down to ibis  
 slued. \\ ilsun agreed to the lac .
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:0041418408A:1834071101:0084/pct:20.112963218074114,31.53034300791557,14.960738393718144,12.269129287598945/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:0041418408A:1834071101:0084/pct:20.110192837465565,31.526876992415083,14.963269054178145,12.27144479865157/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -272,7 +272,7 @@ hat of giving copy-rights to anthors, and patents 10 in­
 entors; the general power of incorporating being  
 hittled dovn to this shred. Wilson agreed to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1837112101:0589/pct:79.50397753860553,18.34039120790482,14.83387927000468,11.504335551522484/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1837112101:0589/pct:79.51437633234545,18.34039120790482,14.839078666874643,11.511057336828662/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -328,7 +328,7 @@ ventors; the general power of incorporating being
 whittled down ta this shred. Wilson agreed to the  
 fact.—Jefferson’s Memoirs.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1838031201:0042/pct:37.130801687763714,17.356754496026767,14.496684749849306,13.435800920117106/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1838031201:0042/pct:37.14084790034157,17.356754496026767,14.501707856138236,13.449742088387007/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -369,7 +369,7 @@ ri at all by the people or America; rat to give it
 i:j te-t chance, however, the .ValJ make it a  
 nk&#x27;.illta- b-il!e, and pu nothing into it n.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn83016784:00295877960:1838110301:0032/pct:4.99359795134443,70.558263181214,22.66325224071703,7.188746123172352/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn83016784:00295877960:1838110301:0032/pct:3.745797983031855,52.92423571112096,17.00016007683688,5.3943287549844925/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -414,7 +414,7 @@ ventors, the general power of incorporating being
 whittled down to this shred, Wilson agreed to  
 the fact.&quot; In the absence of every oilier argumen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016867:00295877637:1838112401:0265/pct:22.946859903381643,72.39917976760081,20.471014492753625,25.741626794258373/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016867:00295877637:1838112401:0265/pct:17.21360982484397,54.29938482570061,15.361385141936783,19.316473000683526/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -452,7 +452,7 @@ fore, to insert this power, would virtually enlis&#x27;. against
 the whole instrument, the whole of the snti bank nartv  
 in Pennsylvania. W hereupon it was rejected Wilso
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1839071901:0076/pct:83.82308391396546,17.823327437311413,15.752802181157225,10.862553324315888/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1839071901:0076/pct:83.8331818640816,17.830263933687096,15.762900131273351,10.862553324315888/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -529,7 +529,7 @@ Morris opposed it, observing it was extremely
 doubtful whether the Constitution they were  
 framing could ever be passed at all”—and gav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153243:1841063001:0328/pct:37.29648378711178,66.50957585480798,14.229032699411684,8.372606036298004/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153243:1841063001:0328/pct:37.29648378711178,66.50957585480798,14.242714461622658,8.382633109395368/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -610,7 +610,7 @@ giving copyrights to authors, and patents to inventors; the ge­
 neral power of incorporation being whittled down to thw thred.  
 IVilton agreed to the tact.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1841081701:0400/pct:48.047284153823135,88.44497847201362,15.786323507406854,8.841493942124762/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1841081701:0400/pct:48.047284153823135,88.45165381662828,15.786323507406854,8.841493942124762/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -661,7 +661,7 @@ the general power of incorporating being
 whittled down to this shred. Wilson agreed  
 to the fac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn83016924:00200292091:1841082801:0340/pct:82.05248359887536,45.19661523145844,23.17244611059044,32.38758918201427/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn83016924:00200292091:1841082801:0340/pct:61.56550269510195,33.897461423593825,17.389266463557533,24.2906918865107/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -700,7 +700,7 @@ cept that of giving copy-rights to authors, and paten-*
 to inventors; the general power of incorporating be­  
 ing whittled down to tins shred. Wilson agreed lo th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664266:1843040701:0547/pct:83.2112332112332,27.141311830071785,16.040903540903543,11.023699478808142/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664266:1843040701:0547/pct:83.2112332112332,27.14786770249451,16.05107855107855,11.02042154259678/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -754,7 +754,7 @@ patents lo inventors; the general power
 of incorporations being whittled down to  
 this Bhrod. Wilson agreed to the fact
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035312:00296026864:1843081501:0700/pct:32.130434782608695,70.44471896232243,19.391304347826086,32.767140210006175/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035312:00296026864:1843081501:0700/pct:24.11393781256795,52.84126003705991,14.546640574037834,24.567634342186533/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -773,7 +773,7 @@ tution, among the enumerated powers given to Congress, was one to erect
 Corporations; but after debate and consideration, it was overruled. It was  
 then proposed to confer the power of creating a National Hank; and thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82007022:00393342882:1844013001:0086/pct:30.179248534987934,4.052459016393443,47.01826956221993,90.36065573770492/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82007022:00393342882:1844013001:0086/pct:30.174047906255385,4.051927616050354,47.01447527141134,90.35208497246263/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -792,7 +792,7 @@ other special power, except that of giving copyrights to authors, and patents
 to inventors, was rejected; so that the general right of incorporation, first  
 proposed, was narrowed down to these two objects, comparatively harmles
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82007022:00393342882:1844013001:0086/pct:54.61909686315064,5.691803278688525,22.63012754222682,2.819672131147541/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82007022:00393342882:1844013001:0086/pct:54.609684645872825,5.691056910569106,22.63053592969154,2.8225806451612905/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -830,7 +830,7 @@ er, would enlist against the whole instrument, the
 whole of the anti-Hank party in Pennsylvania.?  
 Whereupon it was rejected. Wilson agreed to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664278:1844041201:0356/pct:16.08991422656019,74.93510239400058,16.208222419402542,10.662436304201519/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664278:1844041201:0356/pct:16.08991422656019,74.94151203409929,16.227940451542935,10.659231484152166/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -871,7 +871,7 @@ enlist against the whole instrument the wholc ot,
 the anti-Bank party of Pennsylvania. H.icrc­  
 ?.,ron. it i&quot;os reicetet/. Wilson agreed to the tact
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664278:1844092701:0553/pct:2.9663518299881937,85.94276905289527,13.887249114521842,11.369110704306774/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664278:1844092701:0553/pct:2.9712711530893348,85.94919227928189,13.892168437622983,11.369110704306774/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

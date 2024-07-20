@@ -389,7 +389,7 @@ may not he neglected.
 “But the light in which this subject would  
 “be viewed with most interest, and which gav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826052901:0412/pct:24.014634957591884,49.76897689768977,17.81140861466822,8.866886688668867/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826052901:0412/pct:24.01064183571666,49.76350236497635,17.813989579869194,8.869577970886958/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -414,7 +414,7 @@ muntcation, will if &#x27;ihei ahb wist, enjoy the
 greatest share of the trade. All that / would be  
 unde’stooilto mean is, that tub uifts of 1&#x27;uuv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1826061501:0101/pct:23.192707229171084,53.963284474171054,17.320330718677127,5.976946065177174/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1826061501:0101/pct:23.187791437049597,53.955606146841205,17.321958456973295,5.979652817302219/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -603,7 +603,7 @@ and how amply we shall be compensate.!
 for any trouble and expense we may en­  
 counter to effect it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn83016785:00295877947:1845091801:0375/pct:89.39599133261105,9.329187027987562,19.203683640303357,5.575299866725899/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn83016785:00295877947:1845091801:0375/pct:67.05946092374374,6.99689027099067,14.411485845862115,4.187027987561084/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -686,7 +686,7 @@ powers-and formidable ones, too-Great Britain
 and Spainl, nor need I press the necessity of apply.­  
 ing
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_euclid_ver01:data:sn83030214:00206530923:1869072401:0616/pct:199.0587872241938,247.24634494888426,48.43388365992902,39.55150049466857/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_euclid_ver01:data:sn83030214:00206530923:1869072401:0616/pct:66.35292907473126,82.41544831629474,16.144627886643008,13.183833498222857/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -746,7 +746,7 @@ amply we shall be compensated for any
 trouble and expense we shall encounter to  
 &quot;The early education of Washington ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_klm_ver01:data:sn86053572:0023728902A:1870031001:0241/pct:101.43129770992367,195.76420755382986,44.083969465648856,7.906812566184257/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_klm_ver01:data:sn86053572:0023728902A:1870031001:0241/pct:25.357824427480917,48.941051888457466,11.020992366412214,1.9767031415460643/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -772,7 +772,7 @@ amazingly our exports will increase, and how amply
 we shall be compensated for any trouble and ex  
 pense we may encounter to effect it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fortran_ver01:data:sn83030214:00206531095:1871122801:0868/pct:201.45949491636603,107.24061293718563,48.03214168579862,20.002339454907005/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fortran_ver01:data:sn83030214:00206531095:1871122801:0868/pct:67.15316497212201,35.74687097906188,16.010713895266207,6.667446484969002/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -792,7 +792,7 @@ e open to it, the closer we bind that rising
 world to our interests, and the greater  
 strength shall we acquire by i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deltaair_ver01:data:sn86053573:00237288932:1873061201:0581/pct:59.47467166979362,309.97407087294727,43.43339587242026,8.8504753673293/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deltaair_ver01:data:sn86053573:00237288932:1873061201:0581/pct:14.868667917448406,77.49351771823682,10.858348968105066,2.212618841832325/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -906,7 +906,7 @@ Joy the greatest part of the trade. All I would
 he understood to mean, therefore, is that the  
 gifts of Providence may not be reglected.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pug_ver01:data:sn83045462:00280654887:1893041301:0536/pct:13.601848794981843,15.047489823609226,12.198745460548036,6.852103120759837/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pug_ver01:data:sn83045462:00280654887:1893041301:0536/pct:13.601848794981843,15.057666214382632,12.211125784087157,6.852103120759837/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

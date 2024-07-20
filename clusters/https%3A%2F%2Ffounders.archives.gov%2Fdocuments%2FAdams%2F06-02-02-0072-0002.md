@@ -136,7 +136,7 @@ much s theNature of theT&#x27;atk will admit of §
 but will continue faithfally to expose the  
 wretched Policy of the Whigs; thoughtl ma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775012001:0388/pct:35.07344632768361,3.063256241384592,57.69491525423729,92.51033848981467/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775012001:0388/pct:35.088512241054616,3.063256241384592,57.69491525423729,92.52565477102159/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -167,7 +167,7 @@ all Countries:
 The Bulk of the People, are generally but  
 little versed inMatters of State. Want of In
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775012001:0388/pct:64.7231638418079,10.215959565017613,28.0225988700565,16.83259304640833/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775012001:0388/pct:64.7382297551789,10.226170419155562,28.0075329566855,16.83259304640833/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -202,7 +202,7 @@ have been inculcated to obtain a Redress of
 real Grievances, but they bave been much of=  
 tener perverted to the worst of Purpofes,~——
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775012001:0388/pct:64.63276836158192,28.12069229591055,28.09039548022599,20.202174911931383/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775012001:0388/pct:64.63276836158192,28.125797722979527,28.112994350282484,20.207280339000356/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -230,7 +230,7 @@ Loofers in the End. The best they can ex­
 pelt is to be thrown neglefted by, when they  
 are no longer wanted&#x27;; but they are seldom s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775012001:0388/pct:64.70056497175142,51.00321641905345,28.225988700564972,13.463011180885282/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775012001:0388/pct:64.70056497175142,51.013427273191404,28.225988700564972,13.457905753816307/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -337,7 +337,7 @@ Opinion or mine. A - ; 5
 He promises to avoid personal Refleftions,  
 but to penetrate the Arcdna, and expose the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775031701:0419/pct:66.46180860403864,7.685366220484283,27.589991220368745,86.91532561287411/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775031701:0419/pct:66.46912496341821,7.695392790895874,27.582674860989172,86.90529904246253/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -445,7 +445,7 @@ A Quantity of VERY GOOD&#x27; -,
 New-York CRACKERS, and BUTTER­  
 ~BREAD;, Tobe fold by NOAH PARKER,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775031701:0420/pct:5.101812486014769,3.912054586808188,28.88789438353099,91.1144806671721/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775031701:0420/pct:5.109271276199,3.9171089208996714,28.895353173715222,91.11953500126359/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -554,7 +554,7 @@ do not praltice implicit paflive Obedience, to
 an eftablithed Government of whafever Cha­  
 ralter it may be, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775032401:0423/pct:65.73318632855568,5.562291603516217,27.916207276736493,89.66353440436495/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775032401:0423/pct:65.73318632855568,5.562291603516217,27.923557515619258,89.67363847630595/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -681,7 +681,7 @@ Did not the Swiss Cantons, the Genevans &amp;
 Griffons; gain by Resistance to Albert &amp;Grif­  
 ler ? NOVANGLUS:
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775032401:0424/pct:4.893238434163701,4.130369480324422,57.629003558718864,91.22859717632923/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775032401:0424/pct:4.9006524317912215,4.140382497246421,57.62158956109134,91.22859717632923/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1116,7 +1116,7 @@ and opinions, provided hs conforms to truth and de­
 cency, no one can deny. Are the opinions and sen­  
 timents expressed by him, such? No. They pre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00416156888:1841111301:0572/pct:108.40480274442538,16.169913165923493,20.483133218982275,5.914104670265196/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00416156888:1841111301:0572/pct:81.33848133848134,12.13330204177423,15.372515372515373,4.435578502698897/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1166,7 +1166,7 @@ of Livy and Cicero, of Sydney Harring­
 ton and Locke, of nature and eternal  
 reason.&quot; He deprecated the fact tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_charlie_ver01:data:sn84024055:00280761023:1899121601:0577/pct:27.876984126984127,37.20398277717976,19.206349206349206,4.843918191603875/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_charlie_ver01:data:sn84024055:00280761023:1899121601:0577/pct:20.92100039698293,27.906350914962324,14.410480349344978,3.6329386437029063/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

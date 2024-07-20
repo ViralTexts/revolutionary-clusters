@@ -129,7 +129,7 @@ i ters said, “The day is within my time as well&#x27;as
 1 yours, when we may say by what laws other nations  
 shall treat us on the «e*; and. we will say it.” Tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830101901:0338/pct:58.49026492180019,23.09449386871844,18.16150654324928,3.9312334695840345/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830101901:0338/pct:58.48093186532631,23.091717754537804,18.16392745066752,3.9347678006170614/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -280,7 +280,7 @@ The InIured PArty. A rew have neen
 MAde THErE A very feW sTILl remAiN  
 o  a i  
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023294:00200296096:1841051401:0217/pct:319.96658312447784,163.49777074644038,58.98078529657477,36.18581907090464/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023294:00200296096:1841051401:0217/pct:80.04179728317659,40.874442686610095,14.754440961337513,9.04645476772616/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -296,7 +296,7 @@ o  a i
 &quot;To judge from the opposition papers, a stranger  
 would suppose that a considerable check to it (i. e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661368:1849080201:0192/pct:71.34213421342135,51.00923341206786,13.256325632563255,1.1058621430105218/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661368:1849080201:0192/pct:71.34213421342135,51.00923341206786,13.260909424275761,1.116598668670818/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -321,7 +321,7 @@ or retard that conaolidation of sentiment so essen- I
 tial to our liappiness and strength.&quot;  
 As to the second object above stated
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661368:1849080201:0192/pct:71.3008800880088,51.99699377281512,14.150165016501651,5.915825638823277/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661368:1849080201:0192/pct:71.3008800880088,52.00057261470188,14.159332599926659,5.9194044807100425/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -341,7 +341,7 @@ Republicans in their stead, would have been rigdroiisly
 just.” In the letter first quoted from, the following is  
 found, and if written by Gen. Taylor hitiseir, coul
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183724:1849081501:0334/pct:66.92228284913729,30.11530635315397,14.466892788674237,3.120054261813249/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183724:1849081501:0334/pct:66.91241521675022,30.111902339776194,14.46967462891969,3.1234693493086167/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -368,7 +368,7 @@ practise u different treatment, and to iruihe
 a few changes to tranquillize the injured  
 party.&quot; Surely this sentence is more pregnan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661368:1849082101:0254/pct:44.71589349437277,6.369767690825394,15.838594564919022,9.399421903436464/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661368:1849082101:0254/pct:44.71589349437277,6.369767690825394,15.847744532894135,9.406558898048033/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -422,7 +422,7 @@ what it was when &quot;we both left it in 1784. We re­
 turn like foreigners, and, like them, require a cou­  
 ! siderablu residence here to become Amerioaniiod 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855032301:0446/pct:19.69119329012581,33.75877472878111,15.783454060236371,18.838544990427568/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855032301:0446/pct:19.697547337654086,33.76302914273559,15.802516202821197,18.842799404382045/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -454,7 +454,7 @@ opupolwd ^a my great majority^ of the na-
   
 Tbos. Jnrp&amp;Ksos.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn85049908:00415668892:1859081301:0445/pct:6.121543693627088,75.57142857142857,11.222830104982995,6.8901098901098905/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn85049908:00415668892:1859081301:0445/pct:6.126472472768495,75.57875457875458,11.232687663265809,6.886446886446887/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -481,7 +481,7 @@ could have been rigorously jnst, when it was 0
 mown that these composed a very great maority  
 of the nation. * * 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1859102001:0605/pct:15.046491969568892,50.0,12.836613935515034,5.834118755890669/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1859102001:0605/pct:15.05454252707,50.00628338045869,12.836613935515034,5.834118755890669/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -509,7 +509,7 @@ their stead, would have been rigorously just,
 when it was known these composed a very  
 great majority of the nation.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528670:1859110201:0019/pct:64.26169795460913,90.23674625657628,43.84981787615578,22.217725617159044/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528670:1859110201:0019/pct:21.42056598486971,30.078915418858763,14.616605958718596,7.405908539053015/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -534,7 +534,7 @@ and to have placed Repubiicaoa in their stead would have
 been rigorously just, w hen it was kuown t hat these com­  
 posed a great majority of the nation.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026050:00280775848:1859111801:0194/pct:26.500375093773442,84.1454649992813,16.57914478619655,5.045278137128072/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026050:00280775848:1859111801:0194/pct:19.891161568774628,63.11628575535432,12.441358603865641,3.780365099899382/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -562,13 +562,13 @@ would Ua-c teen rigorously just, when i; was
 &#x27; kocwn that these composed a very gre..i ma­  
 : j rity of the nation. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn83032006:00296028551:1859112501:0619/pct:47.82195469665769,47.1438729556767,14.462220814192936,7.833609860156435/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn83032006:00296028551:1859112501:0619/pct:47.82195469665769,47.1438729556767,14.46750092401922,7.837560243343605/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Putnam's magazine of literature, science, art, and national interests_](https://archive.org/details/sim_putnams-magazine_1870-04_5_28/page/n107/mode/1up?view=theater)
+## [From _Putnam's Magazine.  Original Papers on Literature, Science, Art and National Interests (1868-1870)_](https://archive.org/details/sim_putnams-magazine_1870-04_5_28/page/n107/mode/1up?view=theater)
 
 #### 1870-04-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -640,7 +640,7 @@ I, who stood in those of 1784, found myself not
 at all qualified to speak of their sentiments, or  
 forward their views, In 1700.” Hence tho rule
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fullerton_ver02:data:sn84031492:no_reel:1873072001:0007/pct:1.4154281670205238,77.3905109489051,13.092710544939845,4.726277372262774/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fullerton_ver02:data:sn84031492:no_reel:1873072001:0007/pct:1.4213257843831093,77.39507299270073,13.09860816230243,4.721715328467154/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -659,7 +659,7 @@ never fail to give to yourself and tuo world
 proofs of my friendship for you, and of my con­  
 fidence in you.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fullerton_ver02:data:sn84031492:no_reel:1873072001:0007/pct:1.3918376975701816,87.17153284671532,13.021939136588818,2.116788321167883/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fullerton_ver02:data:sn84031492:no_reel:1873072001:0007/pct:1.3918376975701816,87.18065693430657,13.039631988676575,2.1304744525547443/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -770,7 +770,7 @@ everything like connecting ourselves with the politics of Europe. To be en­
 tangled with them would be a much greater evil than a temporary acqui­  
 escence in the false principles which have prevailed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_tower_ver01:data:sn90059523:00206537000:1898121801:0251/pct:70.06278538812785,25.16262261228704,25.04280821917808,2.374806401652039/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_tower_ver01:data:sn90059523:00206537000:1898121801:0251/pct:70.06754185692542,25.169506109103423,25.05232115677321,2.374806401652039/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -789,7 +789,7 @@ everything like connecting ourselves with the politics of Europe. To be en­
 tangled with them would be a much greater evil than a temporary acqui­  
 escence in the false principles which have prevailed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_tower_ver01:data:sn90059523:00206537000:1898121801:0253/pct:69.43493150684931,25.699535363964895,25.085616438356166,2.4057821373257613/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_tower_ver01:data:sn90059523:00206537000:1898121801:0253/pct:69.43493150684931,25.706418860781277,25.104642313546425,2.4092238857339527/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -808,7 +808,7 @@ everything like connecting ourselves with the politics of Europe. To be en­
 tangled with them would be a mu.-h greater evil than a temporary acqui­  
 escence in the false principles which have prevailed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_tower_ver01:data:sn90059523:00206537000:1898121801:0254/pct:69.74885844748859,25.265875064532782,25.04280821917808,2.374806401652039/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_tower_ver01:data:sn90059523:00206537000:1898121801:0254/pct:69.75361491628615,25.269316812940975,25.05232115677321,2.3713646532438477/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -827,7 +827,7 @@ everything like connecting ourselves with the politics of Europe. To toe en*
 tangled with them would be a much greater evil than a temporary aoaul­  
 escence ln the false principles which have prevailed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_tower_ver01:data:sn90059523:00206537000:1898121901:0279/pct:71.1329908675799,24.98713594730884,25.28538812785388,2.346403210867552/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_tower_ver01:data:sn90059523:00206537000:1898121901:0279/pct:71.14250380517504,24.990566361359818,25.28538812785388,2.349833624918528/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -850,7 +850,7 @@ than a temporary acqulescence
 in the false principles which  
 have prevailed.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_argentina_ver01:data:sn86071197:0017503495A:1898122301:0615/pct:296.97452229299364,201.06951871657753,43.39171974522293,14.20083184789067/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_argentina_ver01:data:sn86071197:0017503495A:1898122301:0615/pct:74.25841130798328,50.26737967914438,10.85008958789568,3.5502079619726676/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -903,7 +903,7 @@ false principles which have prevailed.
 Peace is our most important interest.”  
 In a letter, written to Mr. Correa i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:0033289206A:1899042301:0708/pct:16.946564885496183,34.511922941383766,12.473282442748092,3.899917772818043/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:0033289206A:1899042301:0708/pct:16.951653944020357,34.51975410157015,12.478371501272264,3.899917772818043/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -959,7 +959,7 @@ quiescence in the false principles which
 have prevailed. Peace is our most im?  
 portant interest,&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_franck_ver01:data:sn84024716:00175032629:1899051001:0287/pct:2.741452654797542,4.226758375859774,14.038128249566725,16.984690481473265/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_franck_ver01:data:sn84024716:00175032629:1899051001:0287/pct:2.746704479806733,4.234154278529695,14.032876424557534,16.984690481473265/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

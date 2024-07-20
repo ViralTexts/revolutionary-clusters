@@ -41,7 +41,7 @@ the United States of America and the
 Freich republic ; and making provifion  
 i for the payment of the fame.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803111101:0001/pct:78.73893805309734,50.172866823399254,18.938053097345133,7.274235928640575/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803111101:0001/pct:78.73893805309734,50.17747660535657,18.960176991150444,7.274235928640575/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -64,7 +64,7 @@ States of America ar.d the Frenth
 Republic and making provision for  
 the payment of the same,&quot; unde
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803112501:0001/pct:6.7417951759588775,21.83446984891028,16.409648082245948,6.163925658510496/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803112501:0001/pct:6.754975616185581,21.83446984891028,16.409648082245948,6.172839506172839/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -87,7 +87,7 @@ tween the United States of America
 and the French republic ; and making  
 provifion for the payment of the fame
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016081:00332895060:1803121001:0030/pct:28.89513728084684,79.03804737975592,22.22957327158452,7.6197313096092705/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016081:00332895060:1803121001:0030/pct:28.89035885563089,79.02994257588188,22.23003142053911,7.621513535684988/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -148,7 +148,7 @@ America and the. French iUp&#x27;.iolic, and1
 making provifion for the payment of tlie  
 LWne. Approved 10:h November,lSo2
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804033001:0002/pct:1.6418903927224318,16.808335618316423,19.10361659640559,7.08801754867014/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804033001:0002/pct:1.6418903927224318,16.817475550680925,19.111012499075514,7.0834475824878895/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -182,7 +182,7 @@ ment of the same,” from and after the passing of
 this act, shall be trtf/jsfernble in the same manner as  
 the other stocks of the United States are transfera
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812073101:0102/pct:41.544117647058826,65.41049798115748,17.169117647058822,4.77180961703169/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812073101:0102/pct:41.53648226428965,65.40249571813065,17.17208846413037,4.775303808824729/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -233,7 +233,7 @@ from und after the passing of this art, shall
 be transferrable in the sume manner as the  
 other stocks of the United States are trans
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812082701:0676/pct:77.30071289695398,46.09375,22.342838626053144,8.237737341772151/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812082701:0676/pct:77.31151436595377,46.09704641350211,22.353640095052928,8.24103375527426/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -257,7 +257,7 @@ ment of the same,” from and after the pasving of
 this art, shall he trsnvferrahle in the same manner  
 as the other storks of (lie United States nr-c trnns 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812090401:0142/pct:24.09946973852624,88.31278704375151,17.18778570122509,4.822335025380711/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812090401:0142/pct:24.09506398537477,88.30211480362537,17.190737355271175,4.825780463242699/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

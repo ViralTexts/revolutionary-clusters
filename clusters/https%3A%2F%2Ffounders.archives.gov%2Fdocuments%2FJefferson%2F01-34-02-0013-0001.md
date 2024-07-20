@@ -58,7 +58,7 @@ theni fresh mattor, because there is nothing against
 which human ingenuity will not bo able to find  
 something to say
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82014405:00415660935:1849061201:0571/pct:28.596220593906672,89.30648769574944,13.266486694947936,3.6539895600298284/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82014405:00415660935:1849061201:0571/pct:28.609075716673093,89.31643052448422,13.260059133564726,3.658960974397216/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -81,7 +81,7 @@ fresh matter, because there is nothing |
 against which human ingenuity will not S  
 • be able to find something to say. , 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82014751:00513688222:1849062001:0056/pct:83.65007067692791,81.80861020121665,15.391864300298414,5.486663547028544/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82014751:00513688222:1849062001:0056/pct:83.65007067692791,81.8164092965216,15.40757028427831,5.490563094681017/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -131,7 +131,7 @@ them fresh mailer because there is nothing against
 which human ingenuity will not be nble to find  
 something to say.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183724:1849062701:0310/pct:35.77560686796921,69.85044187627464,15.097690941385435,3.546340358033084/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183724:1849062701:0310/pct:35.770312268758325,69.8425286054152,15.100389719303438,3.5497148899210753/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -147,7 +147,7 @@ something to say.
 There is nothing, indeed, against which human  
 ingenuity will not be able to find something to say 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183724:1849062701:0310/pct:36.08644168146832,73.38545207341944,14.490822972172884,1.087695445275323/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183724:1849062701:0310/pct:36.08110108036111,73.37713832559193,14.493611563317055,1.0913485140289263/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -258,7 +258,7 @@ acts will furnish them fresh matter, because
 i there is nothing against which human ingenui­  
 ty wilt not be able to find something to say.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215828:1849071401:0492/pct:18.47023866577207,94.57856256035315,13.06431515383878,2.655538694992413/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215828:1849071401:0492/pct:18.46846846846847,94.57203945099663,13.06625774710881,2.657654550888567/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -278,7 +278,7 @@ and all our subsequent acts will furnish them fresh matter,
 because there is nothing against which human ingenuity  
 will not be able to find something to sa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn86071855:00393348343:1849071701:0017/pct:52.898415657036345,78.76563349646547,14.18452935694315,2.5013594344752583/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn86071855:00393348343:1849071701:0017/pct:52.88855758479314,78.75492728014136,14.18654491241148,2.5044175615060484/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -341,7 +341,7 @@ nothing against wnici. numan ingenuity
 . . &#x27;..-I, -.  
 wiil not be able to find something to say.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058217:00271744766:1849080101:0322/pct:72.397989355411,82.57557436517533,17.32702542874039,4.812575574365176/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058217:00271744766:1849080101:0322/pct:54.32628309421683,61.93470374848851,13.001035349800325,3.615477629987908/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -367,7 +367,7 @@ gainst which human ingenuity will not be
   
 able to find something to say.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn87070038:00296028058:1849080301:0455/pct:178.00608828006088,353.4780189204229,48.858447488584474,17.084028937117417/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn87070038:00296028058:1849080301:0455/pct:44.52693698838759,88.36950473010573,12.22158766419189,4.271007234279354/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -388,7 +388,7 @@ matter, because there is nothing againet
 which human ingenuity will not be able to  
 find something to say.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_flareon_ver02:data:sn82014073:00279529194:1849080901:0412/pct:238.0201958384333,220.46600201635488,44.53794369645043,12.859863335947127/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_flareon_ver02:data:sn82014073:00279529194:1849080901:0412/pct:79.34006527947777,73.48866733878496,14.845981232150143,4.286621111982376/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -426,7 +426,7 @@ capital
 and plunder in the waste of public money, will never cease ^  
 to brawl on the breaking up of their sanctuary.&quot; Another pjlere 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:0041566123A:1854081201:0153/pct:5.649625529143601,20.74474776701472,17.77922500814067,1.8618694175367971/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:0041566123A:1854081201:0153/pct:5.649625529143601,20.748941166603764,17.78465212200152,1.866062817125844/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -444,7 +444,7 @@ j lost their chance of swindling nml plunder in the
 waste of public money, will never cease to brawl on  
 the breaking up of their sanctuary.&#x27; Another sourc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1854081501:0323/pct:14.39360929557008,76.76758090538104,14.088598402323893,2.201765208313562/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1854081501:0323/pct:14.39360929557008,76.7707443611401,14.10312273057371,2.201765208313562/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -481,7 +481,7 @@ lost their chance ot swindling snd plunder in
 the waste of public money, will never cease to  
 brawl on the bteaking up of their sanctuary.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn86083363:00415668831:1854083001:0644/pct:64.18604651162791,74.81653506734789,10.832313341493268,1.5699024616813748/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn86083363:00415668831:1854083001:0644/pct:64.19012647898816,74.81653506734789,10.84047327621379,1.5822882799194922/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

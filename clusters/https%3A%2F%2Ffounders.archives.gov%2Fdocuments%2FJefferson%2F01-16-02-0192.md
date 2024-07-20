@@ -161,7 +161,7 @@ Uirs, which, I suppose, may lie found upon their tile*.
 &gt;ir. your most obedient and must humble ceivant,  
 &#x27;J &quot;II. FRANKLIN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664266:1843012101:0411/pct:50.936838924146265,81.92794932699921,16.107585373224538,6.828978622327791/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664266:1843012101:0411/pct:50.936838924146265,81.93454737397731,16.117658910043318,6.832277645816839/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

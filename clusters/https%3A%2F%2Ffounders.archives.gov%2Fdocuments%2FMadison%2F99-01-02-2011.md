@@ -221,7 +221,7 @@ k favor of war, consis*ing of the com­
 &quot;- it is Impossible to foresee ihe re­  
 c suit. I have the honor to be, &amp;c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808032501:0003/pct:21.650137159738343,2.854204165595269,38.21481325174087,95.12728207765493/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808032501:0003/pct:21.664204825209257,2.854204165595269,38.22184708447633,95.14013885317563/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -267,7 +267,7 @@ aczive, so that it is impossible to Nature
 the result.  
 1 have &#x27;hh honor to be. &amp;c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216079:1808032801:0420/pct:77.51769975437075,53.04224603666637,19.49140297644849,23.91285094322912/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216079:1808032801:0420/pct:77.50650101126843,53.03754870704924,19.49340267745353,23.9136852048648/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -351,7 +351,7 @@ active, so that it is impossiffe to forests
 the result.  
 I have the honor to tic, Ix
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808032901:0111/pct:40.60560466428437,2.258469259723965,36.712431822456274,90.8030112923463/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808032901:0111/pct:40.59796916133885,2.2581859239744073,36.71179641469224,90.79580144691172/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -422,7 +422,7 @@ ed in iny last, is strong and active, so that it is im­
 possible to foresee the result.  
 1 have the honour to be, &amp;e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808040101:1063/pct:28.491761723700886,3.4085453672587613,44.94296577946768,92.65482477196352/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808040101:1063/pct:28.48454130765332,3.408,44.93791180942727,92.644/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -500,7 +500,7 @@ TO Mr. CANNING.
 .. .. , No. 10.  
 Mr. Monroe presents his compliments to Mr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808040101:0431/pct:23.6671469740634,11.92694287815641,17.61527377521614,33.52537386614366/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808040101:0431/pct:23.66288492706645,11.925481063855864,17.618104327990874,33.52535032888017/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -802,7 +802,7 @@ firong and aive, so that it is impofii­
 ble to forefee the result.  
 &#x27; I have the honor to be, &amp;e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808041901:0061/pct:6.698344573881054,20.927691696464045,17.15205395462906,51.01311084624553/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808041901:0061/pct:6.708563253627632,20.927691696464045,17.141835274882485,51.02304330552245/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

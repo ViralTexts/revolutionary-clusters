@@ -78,7 +78,7 @@ fairs.” ‘*
 
 ---
 
-## [From _The American review : a Whig journal of politics, literature, art, and science_](https://archive.org/details/sim_american-whig-review_1849-07_10_19/page/n4/mode/1up?view=theater)
+## [From _The American Review: a Whig Journal Devoted to Politics and Literature (1848-1850)_](https://archive.org/details/sim_american-whig-review_1849-07_10_19/page/n4/mode/1up?view=theater)
 
 #### 1849-07-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -140,7 +140,7 @@ professions of virtue. No man’s perception
 of the indigpensubility of great principles to  
 tbe successful conduct of great affairs wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:0041421003A:1883112701:0644/pct:67.81347150259067,103.32580887885628,18.44559585492228,5.402558314522197/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:0041421003A:1883112701:0644/pct:52.56197462119184,80.07619640010886,14.295657760882369,4.186914434552735/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -169,7 +169,7 @@ but harmony, honesty, industry and frugali-
 ty, he suid to Lafayotte, &quot;are nedessary to  
 make us a great and happy people.&quot; Bu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777067:1883113001:0904/pct:346.9879518072289,53.87564594099017,44.23407917383821,20.003333888981498/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777067:1883113001:0904/pct:86.765655261459,13.468911485247542,11.060899505057026,5.0008334722453744/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -197,7 +197,7 @@ other dress. Indeed, ice have tilrev&#x27;y been too long subject to British pre
 I use no [Kirter or cheese in my family but sueti as is made in America. Both  
 these articles may now lie purchased and of excellent quality.”—George Wash
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_freeport_ver01:data:sn82014248:00332895151:1888102601:0401/pct:28.94688136220618,9.418810398802233,22.69109753840459,6.873553831495848/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_freeport_ver01:data:sn82014248:00332895151:1888102601:0401/pct:28.941524796447077,9.417528579205227,22.691524796447077,6.876020685900926/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -232,7 +232,7 @@ A DEMOCRATIC LIE
 Nailed by an Indiana Democrat Who  
 Believes in the Trut
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_freeport_ver01:data:sn82014248:00332895151:1888102701:0405/pct:27.531116477800484,8.258625373539799,22.831135054802154,10.93452866069003/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_freeport_ver01:data:sn82014248:00332895151:1888102701:0405/pct:27.526002971768204,8.257503734890669,22.831537890044576,10.936438951514328/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -260,7 +260,7 @@ other dress. Indeed, ice. have alrea dy been too long subject to British prejudi
 I use no porter or cheese in my family but such as is made in America. Both  
 these articles may now he purchased and of excellent quality.”—George Wash
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_freeport_ver01:data:sn82014248:00332895151:1888102901:0409/pct:28.70404753063498,9.515382521099918,22.52135165243223,6.847263817043289/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_freeport_ver01:data:sn82014248:00332895151:1888102901:0409/pct:28.698719138667162,9.514087382605146,22.521811769073697,6.849734585545121/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -541,7 +541,7 @@ After signing the tariff bill, he said in
 an address to congress: &quot;The promotion  
 of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_grace_ver02:data:sn83045604:00202199422:1897071801:0542/pct:102.87039721658452,137.67408023279984,37.866048129892725,19.0085221367699/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_grace_ver02:data:sn83045604:00202199422:1897071801:0542/pct:34.29013240552817,45.89136007759994,12.622016043297574,6.336174045589967/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -566,7 +566,7 @@ tial improvements in manufactures
 are making than were ever before  
 known in Am&#x27;erica.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_lopez_ver03:data:sn88085081:0020219977A:1897073001:0318/pct:67.71378708551484,14.2899205025027,12.109007920526246,6.173324173127883/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_lopez_ver03:data:sn88085081:0020219977A:1897073001:0318/pct:67.71378708551484,14.296463506395787,12.117957667695888,6.17986717702097/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

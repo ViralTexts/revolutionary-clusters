@@ -83,7 +83,7 @@ ledged the above Letter of Attorney to be A£t and Deed.
 IN Testimony whereof I have hereunto fct my Hand and  
 the Day and Year lafl aforeiaid
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790100601:0004/pct:6.410256410256411,7.045048620758087,56.13553113553114,88.80730303631672/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790100601:0004/pct:6.417887667887668,7.054971224449296,56.166056166056165,88.81226433816234/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -117,7 +117,7 @@ hit art and d*ed.
 In teftirrony whereof I basic hereunto fit my llaniand afjix­  
 fj Seal the day end year last afor.jaid
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796121001:0004/pct:12.35089463220676,78.44245564452818,20.352882703777336,10.613911132045848/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796121001:0004/pct:12.35710735586481,78.44245564452818,20.37152087475149,10.62961218401633/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -160,7 +160,7 @@ within named and acknoav­
 ledged the abowe letter of attorney to be  
 bis al} and deed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796121701:0204/pct:24.58889233633261,44.10657686212361,16.196090598820973,18.948098256735342/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796121701:0204/pct:24.599234667494052,44.113180137348124,16.196090598820973,18.951399894347595/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

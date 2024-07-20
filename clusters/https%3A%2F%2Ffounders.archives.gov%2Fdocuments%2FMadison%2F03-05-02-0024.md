@@ -129,7 +129,7 @@ ftfCng and prote&amp;ing property ; aud mat whenever thc£r great object* are
 not obtained, the people have a right to alter the government and 10 taka  
 meahite* naceAary for their fafety, prof pent y aod happtaefi i And whe&#x27;ea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1809022001:0556/pct:64.36830835117773,58.01780257738807,28.4796573875803,1.6474026836721136/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1809022001:0556/pct:64.35452793834297,58.01009564293305,28.47891243845001,1.6505047821466525/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -172,7 +172,7 @@ more dependant than Jamaica, which at
 least has its assembly of representatives Sc  
 its privileges. Men without just politica
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810052901:0028/pct:60.74033552151714,72.0759338640539,17.086068563092635,5.070422535211268/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810052901:0028/pct:60.72926162260711,72.06710751898115,17.08903068975995,5.073883582333251/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -197,7 +197,7 @@ least has its assembly of representa­
 tives and its privileges. Men without  
 just political views, without honor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810052901:0176/pct:23.27634792410295,22.38599143361048,17.584069133947022,7.747543461829176/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810052901:0176/pct:23.271975957926372,22.383171684091195,17.5870272977711,7.75076625939455/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -215,7 +215,7 @@ Wore dependent than Jamaica, which, at least has
 Its Assembly of  
 representatives and its privileges !
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810060101:1109/pct:8.633268482490273,78.5828025477707,20.744163424124512,1.9745222929936306/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810060101:1109/pct:8.63116946267931,78.5702913548798,20.74519815220034,1.9781881865944912/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -236,7 +236,7 @@ But, suppose ?t possible that we could be
 «obase, as,&quot; at the mandate of any foreign  
 government, to be driven into war with it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810060101:0033/pct:4.641577060931899,59.056649647459274,17.025089605734767,3.8657913931436907/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810060101:0033/pct:4.640745386131518,59.04947125319072,17.028011706384756,3.8693732020582634/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -353,7 +353,7 @@ promotioa of their prosperity enters into
 i must give way. To this object the great  
 ssl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216134:1811030201:0198/pct:32.31707317073171,57.00667302192564,21.736980883322346,34.72831267874166/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216134:1811030201:0198/pct:32.311748228703244,57.001239157372986,21.738891635085405,34.72817970959235/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -408,7 +408,7 @@ scope of his policy
 the Etigljsh, which tenders tfeemisaere dependent than  
 Jamaica, which at least has its Assembly of Representative
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811070101:0594/pct:49.37176644493718,91.9671603348358,21.015028332101505,1.1912427559562138/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811070101:0594/pct:49.35960591133005,91.95235795911798,21.016009852216747,1.19507484307098/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -435,7 +435,7 @@ the English, which renders them more depen
 dent than Jamaica, which »t least has its As  
 sembly of Representatives and i(# privileges-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811070501:0072/pct:58.744313011828936,88.96560226852422,16.906278434940855,1.6890642337566268/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811070501:0072/pct:58.73362445414847,88.95463510848126,16.909267345948567,1.692965154503616/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -584,7 +584,7 @@ THe PEolle nave A riht to alter
 THEIR FORM OF GDOVErNMENt.&quot;  
 Constitution of New Hampshire
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023294:00200296096:1842061001:0439/pct:324.8310810810811,159.72388955582232,58.445945945945944,15.066026410564225/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023294:00200296096:1842061001:0439/pct:81.24207858048162,39.93097238895558,14.617659484579637,3.7665066026410563/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -673,7 +673,7 @@ compatible with tho power of enjoying in safe­
 ty and tranquility their natural rights, und the  
 blessings of lifo which aro guarantied to ever
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035487:00237283776:1850110201:0178/pct:44.269572235673934,86.95385558791966,17.8773204196933,1.916296182738004/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035487:00237283776:1850110201:0178/pct:33.22567622123537,65.21539169093975,13.423496164715381,1.441054729418979/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -719,7 +719,7 @@ ohjects are not obtained the people have a right to
 alter the Government, and take measures necessary  
 for their safety, prosperity and happiness
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038518:00200293319:1861051801:0475/pct:67.8794769755543,48.987301920453355,45.30983513359863,6.086682757896946/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038518:00200293319:1861051801:0475/pct:16.974694341768554,12.246825480113339,11.330679556440147,1.5216706894742364/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -885,7 +885,7 @@ ple have a right to alter the government, and to
 take measures necessary for their safety, prosper­  
 ity and happiness.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_andromeda_ver01:data:sn90050094:00513687862:1892040201:0442/pct:37.09528214616096,25.3294540475783,27.497687326549492,9.447201779907582/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_andromeda_ver01:data:sn90050094:00513687862:1892040201:0442/pct:37.11069996916435,25.335158879570997,27.497687326549492,9.458611443892977/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -968,7 +968,7 @@ of the people demands the unswerving
 loyalty of every citizen, both in war and  
 in peaoft.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_hazen_ver01:data:sn85042405:00212478751:1898062301:1119/pct:38.94696089818041,77.24950884086444,16.608594657375146,6.522593320235757/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_hazen_ver01:data:sn85042405:00212478751:1898062301:1119/pct:34.08423667570009,67.59368911639989,14.543812104787715,5.714940596707033/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -992,7 +992,7 @@ of the people demands the unswerving
 loyalty of every citizen, both in war and  
 in peace.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_almont_ver01:data:sn88076741:00295863584:1898062401:0184/pct:58.36629746835443,45.18121911037891,17.108386075949365,7.701812191103789/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_almont_ver01:data:sn88076741:00295863584:1898062401:0184/pct:49.61053516391146,38.41216741870235,14.564303726534042,6.538820600591255/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

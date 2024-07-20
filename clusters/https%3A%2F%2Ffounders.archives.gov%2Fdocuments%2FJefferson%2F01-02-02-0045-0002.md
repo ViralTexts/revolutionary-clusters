@@ -474,7 +474,7 @@ fuch notice, by fixing an advertifement thereof, on
 “ where it hath not in the mean time been entered for  
 “ by another perfon.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1806010901:0300/pct:4.232411360683126,48.81074168797954,17.876369036569518,16.010230179028135/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1806010901:0300/pct:4.23162583518931,48.80450070323488,17.87923781242267,16.012445126369176/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -505,7 +505,7 @@ Page 24th and 2jih,
 44 caveat alfo vxpreffing the nature of the right, on  
 ** which tin* plaintiff&#x27;thervin claims the faid Unde
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1806010901:0300/pct:4.176721737516242,67.18670076726343,17.672173751624282,9.910485933503836/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1806010901:0300/pct:4.1759465478841875,67.1781102160849,17.67508042563722,9.91348079955675/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -563,7 +563,7 @@ are material to the cause, and are not
 agreed by the parties.* And upon such  
 finding, the court shall give judgment
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810010201:0009/pct:57.79376498800959,76.36503460651114,17.48754842280022,2.8838759292489105/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810010201:0009/pct:57.78310586499447,76.35524798154556,17.490470920939384,2.8877782049639027/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -581,7 +581,7 @@ firMMg of soefr facts as are material to the cause,
 and are not agreed by the parties. And upon such  
 finding, the court shall give judgment
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810010501:0864/pct:5.946752923612839,5.523255813953488,20.95048519532222,2.729328165374677/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810010501:0864/pct:5.945273631840796,5.522363959308898,20.95149253731343,2.7329242693363476/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -618,7 +618,7 @@ or corps lo Winch they respectively belong­
 ed, that such oificer or s&lt; idi r bath served  
 the time required by law, or hath bee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811052701:0181/pct:75.06697624575817,47.463373289744524,16.8065726022504,12.677079549582274/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811052701:0181/pct:75.05357142857143,47.45762711864407,16.80952380952381,12.67958030669895/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -635,7 +635,7 @@ hatu served, and in what regiment or
 corps such service hath been performed,  
 or death happened ; and upon makin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811052701:0181/pct:75.31702089658867,61.29071316139969,16.574388283622074,1.683012471243492/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811052701:0181/pct:75.30357142857143,61.28329297820823,16.577380952380953,1.6868442292171106/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -689,7 +689,7 @@ service, distinguishing particula- ly the time such
 ment or corps such service hath been performed­  
 or death happened ; and upon making proof be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811053101:0033/pct:77.64190545720022,34.60687960687961,19.273590071180873,21.707616707616708/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811053101:0033/pct:77.62773722627738,34.6026286696966,19.276155717761558,21.709044752896858/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -742,7 +742,7 @@ or corps to which they respectively belong-I
 cri, that such officer or soldier hath served  
 the time required by law, or hath oee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811060301:0187/pct:1.5789473684210527,33.39794064203513,20.58076225045372,22.955784373107207/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811060301:0187/pct:1.578660860097986,33.39389534883721,20.583076271699028,22.95704134366925/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -761,7 +761,7 @@ hath served, and in what regiment or
 c ups such service hath been performed,  
 or death happened ; and upon makin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811060301:0187/pct:4.773139745916516,56.34161114476075,17.16878402903811,2.7377347062386432/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811060301:0187/pct:4.772273634549084,56.33478682170543,17.171717171717173,2.7414405684754524/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -796,7 +796,7 @@ m &lt;y he. a&gt;id a no i- on ias-o ed officer so]­
 I su«-h officer or solther hath served h&lt; time re­  
 quired by law, or hath been slain or died ut th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811060401:0038/pct:75.17494751574527,21.894865525672373,17.03988803358992,10.916870415647923/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811060401:0038/pct:75.16179814588071,21.892189218921892,17.04273803276777,10.919610479566476/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -839,7 +839,7 @@ tilth set veil, and in what regiment or 1
 corps such service hath been performed,  
 nr death happened ; and upon makin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811061001:0198/pct:60.56137857523539,65.56950035519773,16.894652691419434,15.048543689320388/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811061001:0198/pct:60.550621669627,65.5617378951107,16.89757252812315,15.050708338266052/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -890,7 +890,7 @@ quirrd by law, or bath been slain or died in the
 service, distinguishing particularly the time uch  
 officer or soldier hath verved, and in what -egi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811061101:0046/pct:59.19064748201439,58.610940381069454,17.607913669064747,20.885064535955745/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811061101:0046/pct:59.18000359647545,58.603736479842674,17.61074147335611,20.88659455916093/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -943,7 +943,7 @@ hath served, ar.d in what reg nient or
 cot ps such serv.ee hath been pci formed,  
 or death happened ; and upon makin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811061701:0206/pct:41.38764880952381,40.14423076923077,17.54092261904762,23.507085020242915/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811061701:0206/pct:41.3799516458992,40.13915243516762,17.54385964912281,23.50832806240776/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -996,7 +996,7 @@ officer or soldier hath served, and in what regi­
 ment or corps such service hath been performed,  
 or death happened ; and upon making pro f b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811061801:0054/pct:59.14446257023745,45.98621029303127,17.636396592350916,21.804974144299432/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811061801:0054/pct:59.13374411018485,45.98054905822972,17.639241270991906,21.80639336862407/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1033,7 +1033,7 @@ or corps to which they respectively belong,
 ed, that such officer or soldi r hath served  
 the time required by law, or hath uee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811062401:0214/pct:40.25949953660797,39.62215981618586,17.16404077849861,13.632882307888691/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811062401:0214/pct:40.252038547071905,39.617102744097004,17.16703731158883,13.635396724101255/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1087,7 +1087,7 @@ officer or soldier hath served, and in what regi­
 ment or corps such service hath been performed*  
 or death happened ; and upon making proof be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811062501:0062/pct:76.40347700108656,13.24901768172888,17.638536762042737,21.647838899803535/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811062501:0062/pct:76.3896433097954,13.247391037446286,17.64137847788038,21.64927358297524/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1138,7 +1138,7 @@ proot btlcre any Ceuit ot Record within
 this commonwealtn by the person’s own  
 oath, or other satisfactory evidence of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811070101:0222/pct:41.2239534447156,32.22023961254142,17.47700394218134,22.087687993882234/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811070101:0222/pct:41.21621621621622,32.21613355422454,17.47997997997998,22.089121107854382/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1192,7 +1192,7 @@ officer or soldtcr hath served, and in what t egi
 ment or corps such service hath been performed .  
 or dead) happened ; :• J upon making proof i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811070201:0070/pct:58.39647577092511,22.944149919861918,17.198237885462554,21.760572062630995/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811070201:0070/pct:58.3861874559549,22.941321499013807,17.201080573173595,21.761998685075607/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1245,7 +1245,7 @@ officer or soldier hath served, and in what r.egi­
 mentor corps such service hath been performed,  
 or death happened ; and upon making proof b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811070501:0071/pct:23.201174743024964,20.5270286910479,17.51101321585903,21.65989410171161/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811070501:0071/pct:23.196916865479906,20.52450135434622,17.51391692665321,21.661331363375194/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1279,7 +1279,7 @@ and a nnn-cominissioned oiH.tr or soldier,
 or his huirs, upon cert&#x27;Hcate .roin the colo­  
 nel or Commanding officer ot the K g&#x27;inen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811070801:0230/pct:6.230088495575221,34.74616858237548,19.469026548672566,10.859674329501916/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811070801:0230/pct:6.228986020173421,34.74200885909254,19.47147997404589,10.862364819027096/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1330,7 +1330,7 @@ quired by law, or hath been slain or died in the
 service, distinguishing particularly the time such  
 officer or soldier hath served, and in wbat regi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811070901:0078/pct:40.456050018389114,13.282025819265144,17.8742184626701,20.79195630585899/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811070901:0078/pct:40.4486118771833,13.280377311654462,17.877060734203592,20.79351288734434/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1381,7 +1381,7 @@ quired by law, or batb beeu slain or died in the
 service, dist inguishing particularly the time sttch«  
 officer or soldier hath served* tr*d in what rein
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811071601:0086/pct:76.94561435634499,13.23929720366246,18.036989562351216,20.737441227418955/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811071601:0086/pct:76.9315269132186,13.237659284918966,18.03979006468937,20.738999546373048/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1431,7 +1431,7 @@ truth 8c authenticity of the said certificate,
 and that the party bad never before prov.  
 td or claimed his right to land lor the *er
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811072201:0246/pct:77.39575713240673,26.80438342360499,17.68471104608632,19.536465549817358/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811072201:0246/pct:77.381605412324,26.801007556675064,17.68757237764369,19.53820319059614/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1466,7 +1466,7 @@ jorps to which they respectively belonged, that
 such officer or soldier hath served the time re­  
 quired bylaw. Or hath been slain or died in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811072301:0094/pct:3.2033681127585574,22.300209333825883,17.554457257916894,11.09469277182613/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811072301:0094/pct:3.2027818448023426,22.297463678896822,17.55734504636408,11.097430846261183/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1517,7 +1517,7 @@ the kune required by law, or hath been
 slain or died to ihe service, distinguishing  
 particularly the time such officer or soldie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811072901:0251/pct:78.88233124308373,49.07641700404859,17.373662855035043,22.039473684210527/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811072901:0251/pct:78.86778535865757,49.07020872865275,17.37660581473969,22.04090238245836/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1571,7 +1571,7 @@ ifficer or soldier hath served, and in what regi­
 ment or corps such service hath been performed,  
 or death happened ; and upon making proof b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811073001:0102/pct:40.11734506784012,12.890094979647218,17.51008434176751,21.758973726409277/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811073001:0102/pct:40.10999083409716,12.888505180069068,17.51298502902536,21.76040124979444/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1624,7 +1624,7 @@ or corps to which they respectively belong
 ed, that such officer or s idi r haili served  
 the time required by law, or hath uter
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811080501:0262/pct:41.4147069802165,21.421319796954315,17.618514371033967,23.730964467005077/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811080501:0262/pct:41.40697891397649,21.41860170029184,17.621446787335945,23.732182887112465/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1676,7 +1676,7 @@ quired by law, or hath been slain or died in the
 service, distinguishing particularly the time such  
 officer or soldier hath served, and in what r-gi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811080601:0110/pct:77.28944464876793,12.816672906526893,17.56160353070982,20.7912142768002/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811080601:0110/pct:77.27523441809156,12.815073621162965,17.564503278788994,20.792779302886615/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1714,7 +1714,7 @@ or corps to which they respectively belong­
 ed, that such officer or s &gt;ldi&lt; r haih served  
 the time required by law, or hath oee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811081201:0270/pct:26.45023948908994,60.204441311244274,16.462657441901722,12.46622018564211/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811081201:0270/pct:26.445548066690314,60.19736842105263,16.465649757597255,12.468671679197994/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1767,7 +1767,7 @@ Service, distinguishing narti utarly the time such
 officer or soldier hath served, and in what rvgi  
 inent or corps such service hath&#x27; been performed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811081301:0115/pct:5.821474773609315,33.84255266724159,17.760118277582702,20.992977701121102/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811081301:0115/pct:5.82039911308204,33.83838383838384,17.7629958117763,20.994497823766118/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1987,7 +1987,7 @@ ay purchase them by paying into the State Treasury f,,
 ro dollars for every hundred acres, and so in propor- at  
 in for a greater or smaller quantity. The Treasurer o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664369:1857110601:0377/pct:43.20537147861626,92.18795041798789,14.10013136768355,2.315749015086/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664369:1857110601:0377/pct:43.210236948377364,92.18795041798789,14.10013136768355,2.3221549598026967/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2023,7 +2023,7 @@ em individuals at per acre, although
 the quantity of land railed fir by the  
 waitunts m
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_lincoln_ver01:data:sn86092124:00279550250:1857111301:0502/pct:29.601599314579467,69.20807805763557,13.808367842353277,13.172226004084411/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_lincoln_ver01:data:sn86092124:00279550250:1857111301:0502/pct:29.601599314579467,69.21185991982452,13.817887571992955,13.176007866273354/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2042,7 +2042,7 @@ the State Treasury two dollars for every
 hundred acres, and so in proportion for a |  
 greater or smaller quantity. The Trea- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kuwait_ver02:data:sn85059716:00201293031:1857112001:0390/pct:70.44691750574104,17.163543441226576,14.573396926338102,3.3503691084611016/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kuwait_ver02:data:sn85059716:00201293031:1857112001:0390/pct:70.44691750574104,17.16709256104486,14.582229288111641,3.3574673480976718/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2099,7 +2099,7 @@ High-hand Measure —Information ia
 received in this country that Mar Sbirooon,  
 the Nestoriai Patriarch in the mountains o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn89053987:0041418442A:1877030701:0188/pct:18.88593523441276,6.602323197813461,25.205413243112616,86.59890673044073/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn89053987:0041418442A:1877030701:0188/pct:18.883653497644072,6.6017593304295845,25.20639523176674,86.59435761664817/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2121,7 +2121,7 @@ his hand and caused the leaser soal of the sand Come
 to be affixed at Richmond on the 4th Jan.,  
 1780, and of the Commonwealth the 10th.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crowfoot_ver01:data:sn83030313:00271743968:1877082601:0676/pct:200.4750982961992,173.2608695652174,52.88335517693316,9.565217391304348/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crowfoot_ver01:data:sn83030313:00271743968:1877082601:0676/pct:66.82503276539974,57.7536231884058,17.627785058977718,3.1884057971014492/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2143,7 +2143,7 @@ Mil 11J 1 1111 Iujv. 1 muh-iumi .;i inu . .....
 iiionwealtli ol* Virginia, hath hereunto not his  
 hand and caused (ho lesser sea! of the said Commonwealt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_gabbana_ver01:data:sn85025007:00415663791:1877082801:0111/pct:81.25901639344262,45.4269087118909,18.57049180327869,3.7783375314861463/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_gabbana_ver01:data:sn85025007:00415663791:1877082801:0111/pct:81.25901639344262,45.429803989692815,18.57049180327869,3.784128087089956/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2192,7 +2192,7 @@ rnonwealth tho 10th.
 Tho Indian war stillcontinuos and  
 the Indians still seem to have th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn84026817:0020219378A:1877090601:0308/pct:31.32643461900282,73.12959251837007,13.640639698965193,9.00133600534402/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn84026817:0020219378A:1877090601:0308/pct:31.338193791157103,73.13376753507013,13.640639698965193,9.009686038744155/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2229,7 +2229,7 @@ the 10th.
 THE HEIRS.  
 John Young, during the war of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn85034374:00295877996:1877091501:0664/pct:77.81721384205856,278.60810039931545,49.600709849157056,37.07929264118654/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn85034374:00295877996:1877091501:0664/pct:19.45430346051464,69.65202509982886,12.400177462289264,9.269823160296635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2254,7 +2254,7 @@ the lesser seal of the said Commonwealth
 obeatrixed, at Richmond, on the eigh­  
 teenth of March, in the year of our Lord
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_eritrea_ver01:data:sn84026844:00202193456:1880120601:1169/pct:24.957055214723926,52.4224468455908,12.196319018404909,5.071453468107355/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_eritrea_ver01:data:sn84026844:00202193456:1880120601:1169/pct:24.957055214723926,52.43116068316487,12.208588957055214,5.08888114325549/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2281,7 +2281,7 @@ locust on the bank ot the said river, thence by
 land supposed to be vacant, north 62 degrees,  
 west 222 perches to a white oak. thence by lan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_franco_ver01:data:sn84024546:00237280027:1889050501:0050/pct:5.4088860270444306,96.54044533903635,14.133934320669672,5.963014215624606/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_franco_ver01:data:sn84024546:00237280027:1889050501:0050/pct:4.057971014492754,72.41162410366084,10.611916264090176,4.478550761102025/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2349,7 +2349,7 @@ Bowling League closed last night. A*
 a result of the games during the week,  
 the Brownie* have clinched their bol
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_isner_ver01:data:sn86092523:00414186804:1894120901:0672/pct:69.68666863730417,46.86402408429503,13.198344664498965,16.778725539387857/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_isner_ver01:data:sn86092523:00414186804:1894120901:0672/pct:69.67637062213684,46.85932169375878,13.201320132013201,16.780386647936318/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2383,7 +2383,7 @@ thorn are requested to call at once
 ind pay np or arrange for settle­  
 ment. This is business and al
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn84026817:00202192233:1894121201:0406/pct:60.427070776648875,71.424431241849,11.623902187015672,12.331546152731487/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn84026817:00202192233:1894121201:0406/pct:60.427070776648875,71.43167656861324,11.641122782848287,12.338791479495725/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2404,7 +2404,7 @@ Commonwealth unto the faid John
 McClelland a certain Tract or Par­  
 cel of Land, containing three hun
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kite_ver01:data:sn86092182:00514157509:1897041001:0865/pct:45.706896551724135,23.801959226899655,10.03448275862069,3.256552819698173/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kite_ver01:data:sn86092182:00514157509:1897041001:0865/pct:45.69901741079124,23.798808735936465,10.037062575418032,3.2594308405029784/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2447,7 +2447,7 @@ the leflee Seal of the fuid Common
 wealth to be affixed at Richmond, on  
 the Twenty fifth day of October i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kite_ver01:data:sn86092182:00514157509:1897041001:0865/pct:45.741379310344826,31.307916335716175,10.10344827586207,14.045538787397405/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kite_ver01:data:sn86092182:00514157509:1897041001:0865/pct:45.7334942251336,31.30377233620119,10.10601620410274,14.046988749172733/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

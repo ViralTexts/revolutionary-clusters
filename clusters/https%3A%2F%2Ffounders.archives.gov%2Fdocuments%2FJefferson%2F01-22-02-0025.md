@@ -77,7 +77,7 @@ I have the honor to he, with sent*menls of the
 most sinc.no mid respectful esteem, dear dr, your  
 nioet obedient and most humble servn it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830011401:0048/pct:41.83311855670103,64.54534760616399,18.105670103092784,19.150688154334784/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830011401:0048/pct:41.826381059751974,64.5377558221595,18.108122617705483,19.15235630831961/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -126,7 +126,7 @@ i have t.ie honor to he, with sentiments of the
 mV &quot;CrrC respectful esteem, dear sir, your  
 tost obedient and most lmmblo sorva it. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830011401:0028/pct:42.27129337539432,62.69996547358729,16.26858945470933,18.598227644147773/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830011401:0028/pct:42.264944427756085,62.692750287687,16.271152498247723,18.599923283467586/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -184,7 +184,7 @@ of the most sincere and respectful esteem,
 dear str, your most obedient and most hum­  
 bleservant. TU. JbtEtlisON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn84038587:00414187389:1830012001:0122/pct:31.706539074960126,42.13976224863904,15.518341307814993,29.096767025886013/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn84038587:00414187389:1830012001:0122/pct:31.70148301706267,42.13508109309043,15.521182161271462,29.097237650892396/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -279,7 +279,7 @@ The preceding extract was written at the ‘
 very time of the treaty of Holston, between *  
 the United Slates and the Cherokees, by 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021206:00517171955:1830012701:0956/pct:6.952841596130592,76.82156394777482,19.185812172511085,21.690299031307035/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021206:00517171955:1830012701:0956/pct:5.388379841732611,59.54012983715954,14.879216992919616,16.80992275051681/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -491,7 +491,7 @@ ments of the most sincere and re*
 spectful esteem, dear sir, your most  
 obedient and most humble servant
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_topsn83020874_ver01:data:sn83020874:print:1830020301:0004/pct:44.55847255369928,12.374079085851752,32.62529832935561,77.83791910990828/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_topsn83020874_ver01:data:sn83020874:print:1830020301:0004/pct:44.56443914081146,12.377837919109908,32.61933174224344,77.84919560968275/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -546,7 +546,7 @@ I have the honor to be, with sentiments of
 ftie most sincere and respectful esteem, dear  
 Sir, your most obedient ami humble servant
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1830020801:0615/pct:52.33722871452421,3.340080971659919,30.550918196994992,91.93175245806825/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1830020801:0615/pct:52.326309200918004,3.3395980916582335,30.54976006676403,91.92207604452797/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -593,7 +593,7 @@ rokett all their lands not previously ceded &quot; Mr
 Jefferson Wu» a member of th« Cabinet, and  
 knew in what sense the trea&#x27;y was understoo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216420:1830020801:0440/pct:24.46677243081262,8.848484848484848,18.614489687995768,20.90909090909091/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216420:1830020801:0440/pct:24.462460345435318,8.84741243485638,18.61708377393961,20.91059669535006/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -643,7 +643,7 @@ I lull’d Slates, but to remove them uLo j
 |at llie very tune id the treaty of ||ol«­  
 t*&gt;n, between the United States and th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84024746:00414186920:1830030301:0037/pct:53.950199815554875,19.988512349224585,14.986166615431909,21.148765077541643/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84024746:00414186920:1830030301:0037/pct:53.941908713692946,19.98621640248105,14.98898621996824,21.15016463741481/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -683,7 +683,7 @@ i bound, not only to declare to the Indians that such settlements
 ire without the authority or protertton of the United States, but  
 j to remove 1’ittrt also by Iht public force 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830050801:0440/pct:41.24918672739102,30.375386077453076,18.249837345478205,7.127583749109052/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830050801:0440/pct:41.24247845178078,30.371778120916975,18.2522903453136,7.130696440590727/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -717,7 +717,7 @@ bound, mi on’y to declare to the Indians that such settlements
 ;tie without the authority or protection of the United Stutes, but  
 to remove them also by the public force
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830051101:0162/pct:41.197908413880526,26.908259089814592,17.57249247345904,8.969419696604865/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830051101:0162/pct:41.191381495564,26.90501986276634,17.57498943810731,8.972352634324466/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -804,7 +804,7 @@ ties into effect: and the hill now under consideration,
 proceeds upon the admitted principle, that the Indian  
 tribes have by treaties, rights to lands which are
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182938:1830072901:0314/pct:43.1290524994771,65.87731811697574,17.52771386739176,6.16262482168331/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182938:1830072901:0314/pct:43.120033458803846,65.8679218371131,17.52927645336679,6.1653116531165315/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -845,7 +845,7 @@ mane policy which the Administration of Washing­
 ton solemnly pledged us to follow in our intercourse  
 with these unfortunate people. If any thing ra
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830081801:0784/pct:22.14215525712414,29.227854097584082,18.19521781853914,9.201800094741829/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830081801:0784/pct:22.13852955624693,29.224393132030787,18.197696632279897,9.204657588316557/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -872,7 +872,7 @@ tho an.-wer, sir, which the Cheiokcesand Creeks have
 received to u 11 this? Tho modern records qf the De  
 partmen&#x27; of War and tho papers on our table wil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830082001:0274/pct:21.999682085518995,27.405108617808548,17.93037672865999,7.042253521126761/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830082001:0274/pct:21.99618563254927,27.401837928153718,17.93282475100657,7.045391255917572/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -916,7 +916,7 @@ such settlements are without the authority
 or protection of the United States, but to re­  
 move them also by public force 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1830120901:0418/pct:3.170153116238948,62.86696262351425,17.942635324563295,11.871688386080482/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1830120901:0418/pct:3.169469598965071,62.85796105383734,17.944156964208712,11.87356815578465/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1092,7 +1092,7 @@ cii&gt;ieed and p. i&gt;i lor; and
 money for these objects.  
 The judicial department* in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_topsn83020874_ver01:data:sn83020874:print:1831100701:0001/pct:73.40477350219192,23.76567709160184,16.171456405260596,14.256231147801238/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_topsn83020874_ver01:data:sn83020874:print:1831100701:0001/pct:73.4108621529469,23.77758374345134,16.195811008280565,14.248293379901572/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1179,7 +1179,7 @@ others as yonr better jndgment shall prefer, tit answer to Mr. Moallne.
 I have the honor to be, with sentiments of the most sincere and  
 respecrfitl esteem, Dear t*ir, your moat obedient and most bumble set- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1833021901:0365/pct:65.29630138869793,85.5517508008395,14.849443145882029,8.947310283883795/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1833021901:0365/pct:65.28732471817432,85.54230174508504,14.851984236092017,8.95000368161402/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -192,7 +192,7 @@ f the American Revolution can never be written. For fifty
 gne, his activity, were constantly ex-  
 erted for his country, without fee or reward.&quot; Iohn Adum
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_delphi_ver02:data:sn83030213:00206530820:1866011001:0073/pct:51.50115473441109,27.590465604544892,48.17907265944218,4.841299246634556/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_delphi_ver02:data:sn83030213:00206530820:1866011001:0073/pct:17.167051578137027,9.196821868181631,16.059690886480723,1.613766415544852/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

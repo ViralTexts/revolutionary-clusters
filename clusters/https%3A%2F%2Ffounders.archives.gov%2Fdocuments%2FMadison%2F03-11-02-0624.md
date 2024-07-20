@@ -153,7 +153,7 @@ est inspect and esteem, vour most obedient
 ’ servant,  
 . R. PATTERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1817012301:0342/pct:5.31496062992126,2.7318199307425934,30.7742782152231,96.46017699115045/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1817012301:0342/pct:5.314088896178449,2.73146960759169,30.774697938877043,96.45208173035822/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -206,7 +206,7 @@ In copper, 2,67 1,000 pieces, amount, to
 Making, in the whole, 5,074,723 pieces.  
 amounting to 1,425, 3 -&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1820042601:0035/pct:57.15324486457008,36.54512851165571,17.833121250681693,12.14584578601315/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1820042601:0035/pct:57.15324486457008,36.55309822673839,17.833121250681693,12.14584578601315/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

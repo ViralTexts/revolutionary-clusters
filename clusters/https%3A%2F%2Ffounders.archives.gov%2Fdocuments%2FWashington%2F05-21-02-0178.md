@@ -41,7 +41,7 @@ without discovering the ooensiou. So far as I have
 hud opportunity. 1 perceive that different sentiments  
 are entertained on this subject.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1852090201:0609/pct:14.022517911975434,15.780262518230433,15.221523614563532,4.657267865824015/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1852090201:0609/pct:14.022517911975434,15.786744449846054,15.226397621484622,4.657267865824015/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -68,7 +68,7 @@ occasion. So far as I have had opportunity. I per­
 ceive that different sentimenu are entertained on  
 , this subject ” .
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172145:1852091501:0275/pct:83.06636155606407,107.44584252172785,18.783371472158656,6.641587754572577/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172145:1852091501:0275/pct:64.37755554460811,83.27468918601923,14.572146411153259,5.147280587111692/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -96,7 +96,7 @@ ion. 8o lur ns 1 have bad opportunity, I
 perceive that different BenlimenW ure enter­  
 tained on this subject.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035487:00237283776:1852091801:0564/pct:5.555555555555555,104.01200442268204,20.085470085470085,10.093192228715843/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035487:00237283776:1852091801:0564/pct:4.169339320076973,78.0129521402622,15.095146461406884,7.581740641288896/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -148,7 +148,7 @@ persons witnout discovering the occ??ion. Ho far as I have
 had opportunity, I psrcelve that diffjrent sentiments are  
 misnamed on this subject.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661204:1852092901:0946/pct:80.26402640264027,56.476881925869314,16.336633663366335,4.687300980766781/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661204:1852092901:0946/pct:80.26952695269527,56.48537341315331,16.336633663366335,4.687300980766781/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -174,7 +174,7 @@ casion. So far as i have had opportunity, 1 perceive
 that different sentiments are entertained on this sub  
 ject.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035044:00296027133:1852093001:0145/pct:62.637008381689235,51.326611833377555,15.796260477111542,6.06261607853542/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035044:00296027133:1852093001:0145/pct:47.00096742986133,38.49827540461661,11.851015801354402,4.55027858848501/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -211,7 +211,7 @@ listl oriiMirtiinitv. I nerceiro that diftoront sentiments
   
 arc onlartftinttf on thi* (ulijool 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1853052601:0768/pct:59.93045897079277,71.80221458571974,12.78164116828929,4.553264604810996/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1853052601:0768/pct:59.939731108020396,71.80221458571974,12.786277236903107,4.562810232913326/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -231,7 +231,7 @@ the consequences which you except, that
 of exciting a riot or a mob, or creating un­  
 easy sensations in the minds ofwell-dispose
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296027546:1858080301:0281/pct:37.56974581525108,42.21365931437683,16.80099194048357,6.324740898219506/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296027546:1858080301:0281/pct:28.186046511627907,31.663566303481264,12.62015503875969,4.74355567366463/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

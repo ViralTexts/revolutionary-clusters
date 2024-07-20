@@ -106,7 +106,7 @@ hands and seals this 12 day
 
 ---
 
-## [From _The American review : a Whig journal of politics, literature, art, and science_](https://archive.org/details/sim_american-whig-review_1845-12_2_6/page/n36/mode/1up?view=theater)
+## [From _The American Review: a Whig Journal Devoted to Politics and Literature (1848-1850)_](https://archive.org/details/sim_american-whig-review_1845-12_2_6/page/n36/mode/1up?view=theater)
 
 #### 1845-12-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -210,7 +210,7 @@ the so-called tenant is generally required to pay the
 landlord one quarter of the consideration for which  
 his lease or premises may at any time be sold
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530558:1857082601:0388/pct:152.9333554927705,124.79309942883786,48.013960445404685,30.08509150250612/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530558:1857082601:0388/pct:50.97778516425683,41.59769980961262,16.00465348180156,10.028363834168706/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -297,7 +297,7 @@ the same, shull and will warrant and by these pre­
 sents forever defend.  
 In witness whereof, the said parties of the firs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:0020653610A:1869102101:0495/pct:121.05678233438486,335.57379588043983,50.1577287066246,9.168344432398946/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:0020653610A:1869102101:0495/pct:30.28210692444269,83.89344897010996,12.546853422765832,2.2920861080997366/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -318,7 +318,7 @@ named--the heirs and assigns to the only proper
 use and behoof of the same parties of the second part, and  
 theeir heir and aavigus torerer, under the condrious heremn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_itchweed_ver01:data:sn83030313:00271743750:1871082801:0590/pct:53.07865892972276,218.44280607685434,48.8394584139265,8.076407506702413/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_itchweed_ver01:data:sn83030313:00271743750:1871082801:0590/pct:17.692886309907585,72.81426869228478,16.279819471308834,2.692135835567471/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -349,7 +349,7 @@ D. Cooke and Laura S. H. Cooke, his wife, being ber-
   
 sonally well known to me to be the persons who ere
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536159:1873102701:0764/pct:241.6918429003021,18.892508143322477,99.09365558912387,366.89369262659164/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536159:1873102701:0764/pct:60.434372049102926,4.723127035830619,24.7780925401322,91.72342315664791/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -442,7 +442,7 @@ purposes and consideration therein express
 ed and that she did not wish to retract it.  
 In witness whereof, I have hereunto se
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gilachub_ver01:data:sn84021912:00211104314:1896050201:0828/pct:68.53088480801335,96.58710217755444,17.83528102392877,6.899078726968174/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gilachub_ver01:data:sn84021912:00211104314:1896050201:0828/pct:45.70633263743911,64.39489112227805,11.899791231732777,4.5958961474036855/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -465,7 +465,7 @@ purposes and consideration therein express­
 ed and that she did not wish to retract it.  
 In witness whereof, I have hereunto se
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gilachub_ver01:data:sn84021912:00211104314:1896050901:0832/pct:72.277501381979,97.49790619765494,17.71697070204533,6.982830820770519/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gilachub_ver01:data:sn84021912:00211104314:1896050901:0832/pct:48.20959491220793,65.00209380234506,11.82082123600166,4.658710217755444/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -488,7 +488,7 @@ purposes and consideration therein express
 ed and that she did not wish to retract it  
 In witness whereof, I have hereunto se
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gilachub_ver01:data:sn84021912:00211104314:1896052301:0840/pct:68.45571748878923,94.67302311120324,17.9652466367713,6.819359519121153/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gilachub_ver01:data:sn84021912:00211104314:1896052301:0840/pct:45.64821303433777,63.115348740802155,11.983181499649614,4.549694268836149/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -556,7 +556,7 @@ ed and that she did not wish to retract it.
 In witness whereof, I have hereunto set  
 my hand and atlixed tho seal of said Court
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gilachub_ver01:data:sn84021912:00211104314:1896062701:0861/pct:67.86922209695604,95.9297520661157,17.925591882750844,7.68595041322314/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gilachub_ver01:data:sn84021912:00211104314:1896062701:0861/pct:45.26998449175243,63.95661157024794,11.955449034259129,5.12396694214876/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -579,7 +579,7 @@ purposes and consideration therein express
 ed and that- she did not wish to retract it.  
 In witness whereof, I have hereunto se
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gilachub_ver01:data:sn84021912:00211104314:1896070401:0866/pct:70.51569506726457,96.64694280078895,17.867152466367713,6.903353057199211/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gilachub_ver01:data:sn84021912:00211104314:1896070401:0866/pct:47.02831511073732,64.43475552787294,11.914774320156996,4.598775044119174/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -633,7 +633,7 @@ that establish the rights of the afore
 said citizens. Sportsmen hold that,  
 by virtue of the Game Laws, the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_irvin_ver01:data:sn83032011:00280776877:1899122801:0877/pct:5.652730375426621,51.379003558718864,18.77133105802048,15.080071174377224/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_irvin_ver01:data:sn83032011:00280776877:1899122801:0877/pct:4.247598719316969,38.53795966785291,14.08751334044824,11.313760379596678/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

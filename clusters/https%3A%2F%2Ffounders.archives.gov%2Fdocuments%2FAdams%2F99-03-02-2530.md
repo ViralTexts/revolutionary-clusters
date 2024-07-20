@@ -72,7 +72,7 @@ he went ti rough without stepping, 1 hud nai the
 opportunity of being presented to him. lie is the  
 I uus of the age, “ the delight of human kind.’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1814091401:0066/pct:73.28165374677003,78.13625941696692,22.093023255813954,12.397641663937112/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1814091401:0066/pct:73.26272281064324,78.12346487637137,22.09377421854818,12.399705256263305/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -99,7 +99,7 @@ G mbier, Mr. Adam fic Mr. Gouldsbourn ; we
 e&#x27;P &#x27;Ct them in the course of a few days, and  
 shall then be ready to enter on the serious
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1814091401:0144/pct:42.880143112701255,27.432750712780464,17.101967799642217,7.22697409197967/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1814091401:0144/pct:42.87247361831515,27.429350520575113,17.10487092350802,7.230209882664022/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -121,7 +121,7 @@ Titus of tile age, “ the delight of human
 kind.”  
 BY THE STEAM BOAT FULTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1814091401:0144/pct:42.91592128801431,35.192760629726045,17.101967799642217,4.921284244452709/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1814091401:0144/pct:42.90824539438383,35.188398611799705,17.10487092350802,4.924805817220294/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -159,7 +159,7 @@ the opportunity ofbeing presented to
 him. He is the Titus of the age,  
 “ the delight of human kind.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016082:00332895084:1814091901:0114/pct:23.908878007238663,20.756052668837604,18.30955929316585,19.66586436358488/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016082:00332895084:1814091901:0114/pct:23.903788846317582,20.753114382785956,18.310983397190295,19.6666194790487/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -194,7 +194,7 @@ ping, 1 had not the opportunity of being
 presented to him. He is the Titus of the  
 age, “ the delight of lmmand kind. ”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1814092201:0562/pct:52.67373380447585,14.089739925693054,21.861012956419316,14.847099171191768/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1814092201:0562/pct:52.6613283089967,14.087726818116874,21.861752237399905,14.848549792827546/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

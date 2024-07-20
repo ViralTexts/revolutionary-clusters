@@ -34,7 +34,7 @@ NOT OPEN IN TIKE CF
 PEACE.  
 January 17.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806012201:0003/pct:78.07860262008734,69.040677495488,18.253275109170307,7.566291822851589/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806012201:0003/pct:78.08588064046579,69.0453051969087,18.260553129548764,7.566291822851589/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -59,7 +59,7 @@ orinted. It is evidently the produrtion of
 fome “ mader fpirit” of the nation. At Wafh­  
 ington, report has already aferibed it to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1806012301:0319/pct:22.51082251082251,50.256016385048646,17.82420478072652,6.682027649769585/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1806012301:0319/pct:22.50658637561159,50.249584026622294,17.827123322042404,6.685438798583557/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -80,7 +80,7 @@ tion of the British Doctrine,
 which subjects to capture a neutral  
 I trade not open in time ofpeuc-.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806012901:0002/pct:22.040816326530614,28.464775349531696,18.195488721804512,5.17171168725397/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806012901:0002/pct:22.05513784461153,28.473824713813855,18.20264948084497,5.17623636939505/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -98,7 +98,7 @@ trine, which subjects to Capture a
 Neutral trade not open in time of  
 Peace
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806021801:0065/pct:43.245297358920766,90.75249320036265,17.233517005510166,2.680999870483098/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806021801:0065/pct:43.2370820668693,90.74074074074075,17.23657548125633,2.6849693516360182/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -120,7 +120,7 @@ has deservedly acquired great celebrity in the politi­
 cal world. It will be found that the principle conten­  
 ded for in the resolution I have cited, obtained a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806022801:0984/pct:27.196858124693176,41.11969111969112,21.10947471772214,5.357142857142857/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806022801:0984/pct:27.190184049079754,41.11307704680714,21.11042944785276,5.360302396654335/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -195,7 +195,7 @@ examination of the British dotliine,
 which subje&amp;s to capture a neutral trade  
 not open in time of peace.” has been re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806052701:0181/pct:77.5904999042329,33.07378095481236,17.4487646044819,3.1146285422517233/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806052701:0181/pct:77.57564151666028,33.06955966815571,17.451806459849355,3.118485428632206/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

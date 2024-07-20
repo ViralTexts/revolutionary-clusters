@@ -46,7 +46,7 @@ Mr. Jrffet/oM s ability, recliiude, and integrity, os&#x27;
 Chief M^giftrate of this Commonwealth, end mean  
 by thus publicly avowing their Opinion, to obviat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_zarley_ver01:data:sn84038410:01000424529:1796102701:0178/pct:44.06968124536694,38.052120141342755,24.944403261675316,6.18374558303887/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_zarley_ver01:data:sn84038410:01000424529:1796102701:0178/pct:44.05335309373842,38.04371826010157,24.944423860689145,6.1879001987193645/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -86,7 +86,7 @@ censure. And the said resolution being
 read a second lime, was on the question  
 put thereupon agreed to by the house u
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805032001:0107/pct:43.07860262008734,6.031185642836128,41.17903930131004,87.61400411885849/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805032001:0107/pct:43.06919886487666,6.030298573319606,41.17732663901623,87.60602049320978/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -127,7 +127,7 @@ fure. And the faid rcf !u*ion bring
 read a fecond time, w*s on the queftion  
 put thereupon, tgrctd tv by the houf
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805042401:0002/pct:59.66687750368965,1.74979333149628,35.44170356314569,96.61063653899146/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805042401:0002/pct:59.66687750368965,1.7589785983282815,35.462787265443815,96.61522917240745/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -166,7 +166,7 @@ Axnd the said resolution being read a se­
 cond lime, swas on the queflion put, there­  
 upon agreed 1o by the house unagimoufly.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1805050701:0074/pct:4.56828885400314,47.29809976247031,17.50392464678179,17.161520190023754/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1805050701:0074/pct:4.573521716378859,47.304697809448406,17.50392464678179,17.161520190023754/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -245,7 +245,7 @@ CONTRADI­
 CENTE.  
 ■ t from jhe journals of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805092701:0001/pct:39.89071038251366,45.555401469976424,18.92896174863388,23.796976840937457/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805092701:0001/pct:39.89799635701275,45.555401469976424,18.92896174863388,23.806221975685297/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -289,7 +289,7 @@ fecond time, was.on the queltion lf
 . ing put thereupon, agreed to&#x27;by the  
 boule, NiMINE CONTRABICENTE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1805112801:0653/pct:11.69601482854495,19.72532814778804,21.48285449490269,25.41322314049587/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1805112801:0653/pct:11.702193388940376,19.733430562307568,21.489033055298115,25.41727434775563/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -312,7 +312,7 @@ time, was, on the question put thereupon,
 agreed to by the house.  
 The following repoitj which wus yes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806020401:0046/pct:4.819965707753858,66.60593440916189,17.393789293198704,6.025507548152004/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806020401:0046/pct:4.819047619047619,66.59726740403383,17.396825396825395,6.0290609412275/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -347,7 +347,7 @@ time, was on the question put thereupon,
 •agreed to by the house.  
 A petition was presented and read fro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806122301:0421/pct:5.202973127501429,6.2938848461636665,35.58223746902992,90.80811949444657/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806122301:0421/pct:5.201981707317073,6.293081439877457,35.58180894308943,90.80078291209259/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -369,7 +369,7 @@ that an act may pass divorcing him from h s said wife, is reasonable.
 The said resolution being read a second time, was on the question put thereupon, agreed to bv th#  
 house
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806122601:0424/pct:53.17997293640054,46.0940536338904,44.59694567948966,5.11724316621324/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806122601:0424/pct:53.16969462698106,46.0880829015544,44.59476871537173,5.120898100172711/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -401,7 +401,7 @@ The said resolution being read a second
 time, was on the question put thereupon,  
 agreed to by the house
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807010601:0012/pct:4.825841603424791,22.888214466363177,17.629889083479277,10.811836115326251/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807010601:0012/pct:4.824902723735408,22.88532052092553,17.63294422827497,10.814683693682303/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -435,7 +435,7 @@ cond time, was on the question put
 thereupon disagreed to bv the house.  
 A hill, “ Authorising the Little r
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807011301:0020/pct:40.66985645933014,12.234580384226492,18.526315789473685,14.572800808897876/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807011301:0020/pct:40.6620742441638,12.23303424744092,18.52914912616405,14.575171658452335/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -454,7 +454,7 @@ The said resolution being read a second
 time, was on the question put thereupon,  
 agreed to by the house
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807122901:0435/pct:5.638317933245333,10.133098945253641,17.273241561380352,2.8754394776494223/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807122901:0435/pct:5.637254901960785,10.131826741996234,17.276269482151836,2.8792634442351956/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -472,7 +472,7 @@ is reasonable.
 time, was, on the question put thereupon,  
 disagreed to by the House
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809122801:0285/pct:60.49972441668198,37.69652650822669,17.178026823442956,2.1815965874466787/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809122801:0285/pct:60.488611315209404,37.69193273214721,17.18099436688709,2.185392802014786/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -571,13 +571,13 @@ sure.
 on the question being put there upon, agreed to by the House,  
 nemine contradieenie.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851071801:0358/pct:18.8010090517881,72.71772345301757,16.397091556610775,8.231474407944996/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851071801:0358/pct:18.8010090517881,72.72408963585434,16.397091556610775,8.231474407944996/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The United States Review (1853-1856)_](https://archive.org/details/sim_united-states-democratic-review_1855-05_35/page/n43/mode/1up?view=theater)
+## [From _The United States review_](https://archive.org/details/sim_united-states-democratic-review_1855-05_35/page/n43/mode/1up?view=theater)
 
 #### 1855-05-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 

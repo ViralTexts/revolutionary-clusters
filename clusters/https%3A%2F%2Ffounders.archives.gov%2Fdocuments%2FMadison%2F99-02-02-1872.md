@@ -76,7 +76,7 @@ United States, for the purpose of protecting and
 encouraging Domestic Manufactures, is an uncon­  
 stitutional exercise of power
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183992:1826022801:0358/pct:68.95295422144781,73.6154028999287,14.874069380643117,9.10387449488947/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183992:1826022801:0358/pct:68.94203357617992,73.60665478312536,14.876992925773413,9.106753812636166/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -94,7 +94,7 @@ and duties, by the Congress of the United States, for the
 pmposu of protecting and encouraging Domestic Manufac­  
 tures, is an unconstitutional exercise of power
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826022801:0045/pct:4.8625456856825044,15.385516756503398,17.67042745908152,2.0154675415983125/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826022801:0045/pct:4.861773117254528,15.383714118336263,17.67291600466052,2.019136887326694/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -113,7 +113,7 @@ United Stales, for rhe purpose of protecting
 and encouraging Domestic Slanufacturej, is an  
 unconstitutional exercise of power
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826030201:0124/pct:42.473821989528794,10.45175683212493,17.26112565445026,3.078639152258784/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826030201:0124/pct:42.46687387534762,10.450591122016506,17.263754839413274,3.0820135326046545/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -159,7 +159,7 @@ Domestic Manufactures, is an uncon­
 stitutional exercise of power.  
 2. Resolved, That the Congress o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn84024505:00542866962:1826030301:0375/pct:19.38161444283046,25.304173725550594,12.326208757003528,11.812721392268596/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn84024505:00542866962:1826030301:0375/pct:19.37759336099585,25.3002771789344,12.328838174273859,11.814752078842009/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -189,7 +189,7 @@ Congress of the United Slates, for the p.,r­
 metre Manufactures, is an uucm.sliiiiljnn­  
 id exercise of power
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:0039334880A:1826030601:0627/pct:84.13029860096053,36.00880410858401,14.428899561495093,3.4336023477622892/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:0039334880A:1826030601:0627/pct:84.11273486430062,36.00352112676056,14.431106471816284,3.4367664319248825/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -236,7 +236,7 @@ purpose of protecting and encouraging domes­
 tic manufacture*. » an unconstitutional exer  
 else of power
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1826030901:0045/pct:23.209718670076725,7.171816021249826,17.22080136402387,2.7401090451558785/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1826030901:0045/pct:23.20477306626891,7.170813530891809,17.222458981461752,2.7432205759015935/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -289,7 +289,7 @@ purpose ol (note, ling and . ncouiagii - Di.iuestit Mamifac­
 es, is an unconstitutional exercise ol ,»,uer,a..d is hi d.  
 jy ojtpiessive nod puuktl in its operation.” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826041101:0079/pct:41.331440290266606,16.839557399723375,17.747278750591576,2.5587828492392806/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826041101:0079/pct:41.32492113564669,16.83761668779532,17.749737118822292,2.56232953017556/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -352,7 +352,7 @@ as unconstitutional, unwise, unjuet, unequal and
 oppressive.  
 Mr. \\ inston moved she suspension of ihe 4t|
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827021501:0377/pct:80.45476536042574,10.35645472061657,15.545879696823093,19.56888246628131/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827021501:0377/pct:80.44179297000967,10.355207706201083,15.548747715790606,19.5705398354405/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -391,7 +391,7 @@ another pet son, not rendering public service,—
 as unconstitutional, unwise, unjust, unequal and  
 oppressive
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827021701:0380/pct:3.760377665635683,4.710843373493976,31.320201855770797,91.10843373493977/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827021701:0380/pct:3.759765625,4.710275870377063,31.32052951388889,91.10147371802594/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -456,7 +456,7 @@ of anot uer pet sou. not rendering puhlie seivice,
 —us unemistitutlonui, unwise, unjust, unequal  
 and oppressive
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348811:1827022301:0229/pct:69.39788950962135,9.792577959644419,15.20794537554314,15.140397911669254/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348811:1827022301:0229/pct:69.38353330575093,9.79119638826185,15.209971038477452,15.141788939051919/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -628,7 +628,7 @@ United States.’*
 The protection of domestic manufactures,  
 then, is one of the rights of which the State Go
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216377:1827032401:0276/pct:43.28711531958066,85.81254371648403,17.771389922218464,6.53998601072511/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216377:1827032401:0276/pct:43.27979712595097,85.80254108870497,17.774020850943927,6.5431091424796985/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -674,7 +674,7 @@ the grants of power to that Government,
 The protection of domestic manufac­  
 tures, then, is one of the rights of whic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021206:00517171955:1827040401:0367/pct:101.66698972669121,54.26563598032326,19.0540802481101,7.898805340829234/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021206:00517171955:1827040401:0367/pct:78.80320480721082,42.059400188802556,14.762143214822233,6.1251906179652895/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1060,7 +1060,7 @@ in the Istter are most emphatically and forcibly ap­
 proved in the former. Let it be remembered, too,  
 that the denunciations in the Boston resolution
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184017:1827111301:0234/pct:2.391653290529695,6.345574954846478,15.746388443017656,16.62853702588802/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184017:1827111301:0234/pct:2.3912694591558337,6.344810980014447,15.749210934574439,16.630548198089734/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1085,7 +1085,7 @@ the piotcction of domestic manufactures, are not
 authorized by the plaiu construction, true intent,  
 and meaning of tho Constitution; that they ai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1829021201:0381/pct:49.08595253367543,17.01872299567931,15.04169339320077,5.2928468554968795/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1829021201:0381/pct:49.07808241141574,17.01668066722669,15.044626155737268,5.296211848473939/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1111,7 +1111,7 @@ the protection of domestic manufactures, arc not
 authorized by the plain construction, true intent, i  
 and meaning of the Constitution; that they ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1829021401:0385/pct:48.62534569708801,23.000604960677556,15.763787213274767,5.819721718088324/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1829021401:0385/pct:48.6174365647365,22.997822405032665,15.766644979397094,5.82305024598758/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1137,7 +1137,7 @@ l aws, passed avowedly for the protection ol
 li t plain couslrmiion, line Intent At meaning  
 of the font libitum . &lt;tiui they arn tiipolilie an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1829021601:0214/pct:63.61213612136121,38.26856148491879,14.616646166461665,5.945475638051044/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1829021601:0214/pct:63.59909817585571,38.26301290416123,14.618774339003894,5.948238364506307/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1163,7 +1163,7 @@ tection ofdomesti.&#x27; inanufuctupen, are not authorised
 by the plain construction, true intent and meaning  
 of the constitution
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:0041418456A:1829022401:0296/pct:23.333333333333332,4.328953542937588,18.173076923076923,6.323322383857344/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:0041418456A:1829022401:0296/pct:23.329594616247395,4.328445747800586,18.175506062062702,6.3264907135874875/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1188,7 +1188,7 @@ i-protection of domestic manufactures, are not
 authorized by the plain construction, true intent  
 and meaning ot the Constitution; that they ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1829022401:0400/pct:83.5434747011626,56.38502160345655,15.654167348943835,5.460873739798368/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1829022401:0400/pct:83.5297969875573,56.37825513020521,15.657061776904605,5.46421856874275/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1214,7 +1214,7 @@ the protection of domestic manufactures, are not
 authorized by the plain construction, true intent,  
 and meaning of the Constitution
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1829022601:0405/pct:48.16446402349486,42.7797833935018,15.679556208190569,5.776173285198556/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1829022601:0405/pct:48.15660685154975,42.774636024545785,15.682436106579663,5.779489030602013/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1239,7 +1239,7 @@ tee.ion Oi domestic inauufactupes, are not authorized
 ■ y . iepin,,, construction, true intent and meaimur  
 oi the constitution. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184315:1829022701:0043/pct:40.90056285178236,29.4468085106383,17.276422764227643,5.9696048632218845/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184315:1829022701:0043/pct:40.89416914178521,29.443228786773645,17.27893283309885,5.972931355863522/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1265,7 +1265,7 @@ manufactures, hit nut ant horned ’ 1 v tha plain
 construction, true intent, and iiienniii£ of the  
 constitution ; that they an; ini, • f&lt;fic am) o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1829030201:0229/pct:6.75313979822936,70.09427121102247,14.741610047354333,5.960841189267585/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1829030201:0229/pct:6.751749691230959,70.08410672853829,14.743721696171264,5.963602088167053/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1293,7 +1293,7 @@ plain construe lion, true intent and ineauing of
 ill1&#x27; const it a Moil.  
 “ lirnohcd, a/fo, That fhe said acts are pa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1829030201:0229/pct:6.79431747992588,78.18709209572154,14.638665843113033,6.903553299492386/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1829030201:0229/pct:6.792918896665294,78.17575406032482,14.640798682585427,6.906177494199536/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1320,7 +1320,7 @@ the protection of domestic manuiarturv&lt;, are
 Hof authorised by tlie plain e-mvtruclion,  
 true intent, mid meaning ol the Convituiioti
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1829030501:0233/pct:36.48591845313157,13.200697066511763,15.132408575031526,6.59308742375835/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1829030501:0233/pct:36.47825173355747,13.198780310730362,15.134482034040765,6.5957601277769715/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1360,7 +1360,7 @@ not suthoiissed by the plain construc­
 tion, true intent and meaning of the  
 Constitution—Yeas 126, Mays 7
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1829030501:0045/pct:62.53822629969419,43.09461144202798,17.693315858453474,17.315417647873666/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1829030501:0045/pct:62.52456868311859,43.08864265927978,17.694911552740773,17.316481994459835/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1449,7 +1449,7 @@ domestick manufactures, are not authorized
 by the plain costruction, true intent and  
 meaning of the Constitution.—Yeas 126
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83020243:00517172194:1829031001:0215/pct:33.675923901158974,51.55723905723906,20.205554340695386,18.223905723905723/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83020243:00517172194:1829031001:0215/pct:26.09874590441758,39.964482458683676,15.67054570105073,14.127283270513193/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1487,7 +1487,7 @@ of domestic manufactures, are not author­
 ised bv the plain construction, true intent,  
 and meaning of the Con titnlion
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn84038586:00414187377:1829032501:0247/pct:54.12726398461292,67.01270016565434,15.387081263022921,9.066813914964108/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn84038586:00414187377:1829032501:0247/pct:54.118589743589745,67.00530035335689,15.389957264957266,9.069493521790342/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1554,7 +1554,7 @@ serted. Tho necessity nf the protecting sys­
 tem undoubtedly formed s powerfol motive  
 for the organization of the General Go
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182938:1829051401:0064/pct:8.31126502342636,47.89531985599557,17.19291097983296,12.184990307394074/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182938:1829051401:0064/pct:8.309572301425662,47.88868891042503,17.194501018329937,12.186764502284369/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1826,7 +1826,7 @@ Constitution. &#x27;
 Georgia, through her Legislature, pronounced this  
 system to he one “which was grinding down the re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184340:1832113001:0385/pct:18.704938103659366,4.957112621142921,14.270167324173581,4.645204411273254/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184340:1832113001:0385/pct:18.70239390642002,4.956560481176209,14.272760246644904,4.648399792084354/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1891,7 +1891,7 @@ erliv for the exclusive protection of particular
 species of industry, are not only unequal in their  
 operation, oppressive, and consequently inexpe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:0041421647A:1832122401:0117/pct:8.961691801005374,82.05254112447827,17.888715548621946,3.744168917260005/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:0041421647A:1832122401:0117/pct:8.960138648180243,82.04246962071929,17.891392258809937,3.747800826480095/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1911,7 +1911,7 @@ palpably and avowedly for the exclusive pro­
 {ection of particular species of industry, are  
 not only unequal in their operation, oppres
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1833010101:0155/pct:5.348970251716247,65.89803257880263,14.302059496567505,3.2261476623651366/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1833010101:0155/pct:5.358504958047292,65.89803257880263,14.302059496567505,3.22967350680488/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1964,7 +1964,7 @@ protection of particular species ol industry, are not only
 unequal in their operation, oppressive, and consequently  
 inexpedient, but are contrary to tho spirit, true intent, and 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1833010301:0287/pct:34.54494617642947,78.1587651598677,15.294282119390466,3.219404630650496/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1833010301:0287/pct:34.540117416829744,78.15014882592878,15.296803652968036,3.2227244331753204/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1984,7 +1984,7 @@ the exclusive protection of particular species of in-1
 dustry, are not only unequal in their operation, op­  
 pressive, and consequently inexpedient, but are con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn82015332:00332897925:1833012301:0132/pct:3.1649616368286444,79.37219730941705,21.29156010230179,3.465144720750102/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn82015332:00332897925:1833012301:0132/pct:3.1639501438159154,79.35602200937436,21.292745286033878,3.4695333197473/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2019,7 +2019,7 @@ edly for the protection of Domestic Manufactures, are
 not authorized by the plain construction, true intent and  
 meaning of the Constitution
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:0041418408A:1835040701:0458/pct:20.0,22.068518318383227,14.47098976109215,4.668756079109478/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:0041418408A:1835040701:0458/pct:19.997269997269996,22.066133563864273,14.473564473564474,4.6718536128521/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2079,7 +2079,7 @@ is an unconstitutional exercise of pow
 era, and is highly oppressive and partial  
 in its operations? Now, he goes lo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn86050185:00414187420:1847072701:0045/pct:71.44838517931444,87.07320709706276,12.918565484446205,3.9361860742507826/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn86050185:00414187420:1847072701:0045/pct:71.43423137876387,87.06022659511032,12.9209587955626,3.9393261776982706/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2101,7 +2101,7 @@ ufactures, is an unconstitutional exercise
 of power and is highly oppressive and  
 partial in its operation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn86050185:00414187420:1847072701:0046/pct:3.668105139270302,65.03634161114476,12.76971361318164,4.436705027256209/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn86050185:00414187420:1847072701:0046/pct:3.6673857619141006,65.02649507948524,12.772112178858599,4.439818319454958/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

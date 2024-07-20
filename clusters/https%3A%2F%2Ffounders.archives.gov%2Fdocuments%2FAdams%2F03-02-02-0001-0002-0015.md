@@ -300,7 +300,7 @@ round the same central sun—whence we may
 dous, that array of the fixed stars hung up  
 in the universe, all the suns of their systems
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:0041421597A:1857071001:0038/pct:4.855220824802574,68.0772391125719,14.351174807448572,3.410024650780608/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:0041421597A:1857071001:0038/pct:4.854747514135309,68.0725778842862,14.353025281081432,3.4120734908136483/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

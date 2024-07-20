@@ -331,7 +331,7 @@ residence of Governor Hopkins and his brother,
 Esek, whom we appointed the first Captain.&quot;  
 This force captured New Providence, in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_neruda_ver01:data:sn83030272:00175045132:1894040401:0562/pct:229.50693374422187,100.28941355674029,51.61787365177196,15.232292460015232/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_neruda_ver01:data:sn83030272:00175045132:1894040401:0562/pct:57.39884393063584,25.07235338918507,12.909441233140655,3.808073115003808/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

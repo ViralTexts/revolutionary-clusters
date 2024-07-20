@@ -423,7 +423,7 @@ venls which menace the overthrow oi both.
 I ha*e the honor to be, •  
 With great respect,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808051001:0008/pct:3.2240133407448583,1.183206106870229,37.947007596813044,97.23918575063614/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808051001:0008/pct:3.2234160800296405,1.183055590891744,37.94615289613437,97.23105626934657/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -627,7 +627,7 @@ in that stage. At our meeting the next day
 the Br.tish commissioners stated explicitly,  
 but in a very conciliating manner, that i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808051001:0010/pct:3.0079350433659346,2.0169986045921604,36.390477947960875,95.24292781935812/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808051001:0010/pct:3.007380073800738,2.016742770167428,36.38991389913899,95.2350752579063/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -684,7 +684,7 @@ no ministry would beAvillitig to meet,
 however pressing ffic emergency  
 might be.&quot; The result, si;-,i3 known 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809021301:0002/pct:22.674072604641935,34.230467729291874,16.84189644911724,14.93336817350405/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809021301:0002/pct:22.680685049262713,34.23482275063148,16.83528400449646,14.937723194843654/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -705,7 +705,7 @@ been adopted.&quot; This informal ar­
 , ran gem ent on the subject of impress­  
 ment being thus made, a treaty i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809021301:0002/pct:22.495536599880975,50.62712307290306,17.51636580043642,4.74261823882937/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809021301:0002/pct:22.495536599880975,50.635833115582265,17.522978245057196,4.7339081961501615/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -754,7 +754,7 @@ and inlet merit as a suitable lespict for his memory
 since in a manner to evince nn evident desire on  
 their part to bring it to a speedy conclusion.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809090401:0655/pct:29.797348011008257,33.806184252470516,21.215911933950462,9.356072680905324/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809090401:0655/pct:29.789894947473737,33.800796812749006,21.216858429214607,9.358565737051793/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -771,7 +771,7 @@ their part to bring it to a speedy conclusion.
 U S. in apprehending and restoring deser­  
 ters from their vessels. These migh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809111701:0225/pct:24.222917049843662,49.6953448696076,17.767151002391024,1.7791859614915915/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809111701:0225/pct:24.218462670099303,49.689289630802975,17.770013485350006,1.7830307461110435/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -795,7 +795,7 @@ I tonal limits of another power.” All that
 | they did, towards a furtherance of any ad  
 justment, was to make the tender of a cou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809111701:0225/pct:24.222917049843662,62.40555690957836,17.82232848997609,5.5569095783573/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809111701:0225/pct:24.218462670099303,62.39795296697941,17.82518082628417,5.560294057918037/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -878,7 +878,7 @@ making it penal for the officers of the United States to grant
 certificates of citizenship to British subjects. This will be  
 found, in the same documents, in a letter from Messrs. Mon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1812071701:0278/pct:5.220692928334124,30.76361512629581,29.615567157095395,10.687691633815156/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1812071701:0278/pct:5.2194543297746145,30.759124087591243,29.61447212336892,10.68978102189781/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -925,7 +925,7 @@ enlarge the import ofthe term “ deserters”
 by adding the following terms “ sea faring  
 people quitting their service in order t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812081801:0121/pct:58.86367828813872,78.64161139769098,17.48754842280022,1.6703512650454433/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812081801:0121/pct:58.85282183696053,78.63195382537148,17.490470920939384,1.6742396332228089/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -946,7 +946,7 @@ subjects against the enemy, and to »r!
 within the territorial limits nf another pow- i  
 er.” And( furtherj; on the lltit May 180/
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812081801:0121/pct:58.86367828813872,84.24220093343159,17.874930824571113,3.9793662490788506/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812081801:0121/pct:58.85282183696053,84.23185558148103,17.877781876306408,3.9829710589872693/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -966,7 +966,7 @@ tnerica would pass a law, making it penal
 for the officers of the United States to grant  
 certificates of citizenship to British subjects
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812082101:0126/pct:5.175907165223798,10.20583190394511,17.701234113096334,3.308012741975006/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812082101:0126/pct:5.1749539594843466,10.20458164890359,17.704112952731737,3.31169096328964/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1004,7 +1004,7 @@ to which we aho agreed.” “ To give the
 (British) cabinet full time for deliberation  
 on’ the subject (continue Messrs. Monroe S
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812082101:0126/pct:4.420703628660895,18.463611859838274,18.56695524037576,13.281058564077432/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812082101:0126/pct:4.419889502762431,18.4613499938748,18.569674647022712,13.28351504757238/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1025,7 +1025,7 @@ with it an end to all hope of obtaining, at
 . this time, in its stead, any sutistjactory sti­  
 pulation by treaty resfiectuig unfireasments.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812082101:0126/pct:4.936452385338,31.744670423915707,18.06962608215141,3.896103896103896/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812082101:0126/pct:4.935543278084714,31.7407815754012,18.07243707796194,3.8997100739107355/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1065,7 +1065,7 @@ certificates of citizenship to British subjects.
 This will be found in the same documents, in  
 a letter from Messrs. Monroe and Pinkney t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812091201:0840/pct:76.91612708929378,38.23636034076491,22.722481553982835,19.27678085916259/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812091201:0840/pct:76.90454682324601,38.232895333031266,22.72407909264278,19.278054674520465/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1085,7 +1085,7 @@ ica would pass a law, making it penal lor the
 officers of the United States to grant certifi­  
 cates of citizenship to British subjecis. Thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812091701:0689/pct:29.608758654000965,9.42874085787705,21.800032200933828,4.2103182447123935/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812091701:0689/pct:29.614125476305478,9.432035316597483,21.80539902323834,4.216907162153258/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1136,7 +1136,7 @@ HOW often have we reason to be thankful
 for the unintentional good which flows from  
 the actions of bad men? The freedom, tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812091701:0689/pct:29.70536145548221,19.766752322593398,21.703429399452585,21.773077683336627/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812091701:0689/pct:29.716095100091238,19.766752322593398,21.703429399452585,21.77637214205706/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1159,7 +1159,7 @@ ture to relinquish it, however pressing
 the emergency might be. With this  
 knowledge of the fact, and with the &lt; ffi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:0041421616A:1813032301:0571/pct:52.9222347448076,27.652760948589233,18.515536950571565,5.651722347239051/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:0041421616A:1813032301:0571/pct:52.91371538956858,27.650367806144526,18.517922300922944,5.654117986441656/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1209,7 +1209,7 @@ sueii circumstances, no ministry would be wil­
 ling to make the relinquishment, ** however  
 pressing |:te emergency might be.’? V 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813101301:0638/pct:25.77663671373556,14.850339011079875,44.67265725288832,84.75276996857946/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813101301:0638/pct:25.770020533880903,14.847883597883598,44.66760780287474,84.74289021164022/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1235,7 +1235,7 @@ ty, had the project which \ve offered them been
 accepted.” Mr.* Monroe and Mr. Pinknet, 1  
 doubt not, were also influenced to the accep
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813101301:0638/pct:48.36970474967907,30.659831321316354,21.566110397946083,8.33471142715396/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813101301:0638/pct:48.35728952772074,30.654761904761905,21.566991786447637,8.337466931216932/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1419,7 +1419,7 @@ lie adopted, or correspondent regulations entered into,
 to p.oduce the same eliecl by friendly co-operation be­  
 tween the two governments.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813112701:0680/pct:2.380952380952381,14.559260482007263,45.647721454173066,85.01155496863652/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813112701:0680/pct:2.3803429741489635,14.556857567255323,45.642436652162786,85.0016504373659/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1510,7 +1510,7 @@ previously to the 2?d of April, 1807, and
 whilst our negotiations were pending,an entire  
 change took piece in the British ministry. A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814033001:0067/pct:40.4604676066393,62.174885253618925,16.937354988399072,20.913263504766388/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814033001:0067/pct:40.45324768022841,62.167568839727,16.940280751843922,20.914725033341178/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1777,7 +1777,7 @@ that the relinquishment of it at this time would go far to the
 overthrow of their naval power, on which the cafety of the  
 State essentially depended.--Stte Pupers, vol. 3. P. 123
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271743403:1862011001:0088/pct:188.88888888888889,108.00649802738454,53.333333333333336,11.313529821304247/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271743403:1862011001:0088/pct:62.96296296296296,36.00216600912818,17.77777777777778,3.7711766071014154/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

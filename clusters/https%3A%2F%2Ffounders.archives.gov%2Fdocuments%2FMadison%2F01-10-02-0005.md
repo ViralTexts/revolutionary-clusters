@@ -63,7 +63,7 @@ Resolutions proposed by Mr. Randolph in Convention May 29, 1787
 right of originating acts [evidenJy meaning  
 legislative acts.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn83026170:00414216274:1820021801:0172/pct:4.812052069621179,47.927016529672116,18.473014480035104,2.0955649896125013/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn83026170:00414216274:1820021801:0172/pct:4.8113483474700205,47.922687861271676,18.47518767670859,2.0983863198458574/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -100,7 +100,7 @@ Massachusetts, and seconded bv Mr. I’utledge of South
 Carolina, &quot;That rhe right of suffrage in the lira! branch  
 of the National Lcsi-l-iture, ought r&gt;’&gt;t to lie accordin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1829111401:0147/pct:2.9185185185185185,83.97796396189602,15.28888888888889,5.933662343624469/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1829111401:0147/pct:2.918086209450452,83.96832683038788,15.29156174393917,5.936806671256981/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1191,7 +1191,7 @@ an obedience to such acts or an observance of such
 treaties.  
 After Ibis brief exposition of the powers of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184339:1831122601:0424/pct:2.52375296912114,70.96037455749686,15.20190023752969,10.04910357428343/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184339:1831122601:0424/pct:2.523378358319727,70.95227220826673,15.204591559052002,10.051762198371014/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1247,7 +1247,7 @@ ty of the Union; and to call forth the force of the
 Union against any member of the Union failing  
 to fulfil its duly under tho urticles thereof.” Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184340:1832100201:0330/pct:35.83428246013668,38.43630399125205,14.607061503416856,1.8042646254784036/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184340:1832100201:0330/pct:35.829181494661924,38.43210146512136,14.609727164887307,1.8077119323565858/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1410,7 +1410,7 @@ tie said council shall amount to a rejection, unless
 hat of a particular Legislature be again negativud by  
 of ibe members of each branch.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1841111801:1007/pct:17.60014179369018,32.79825349942212,15.420063807160581,10.466161551303454/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1841111801:1007/pct:17.60014179369018,32.806814776764696,15.42597187758478,10.470442189974744/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1519,7 +1519,7 @@ tional Legislature lie again passed, or that of a
 particular Legislaturebeagain negatived by_  
 j of t he membe rs of each branch.” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183694:1841120201:0160/pct:19.194490193142688,62.47632575757576,15.24180266506962,8.155776515151516/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183694:1841120201:0160/pct:19.191616766467067,62.468931234465614,15.244510978043913,8.158756460330611/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1543,7 +1543,7 @@ should be again passed, or that of a particular Legislature
 be again negatived by of the members  
 ol each branch. So jealous was Gov. Randolph o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661277:1842031101:0297/pct:5.489340271948968,75.07475182394451,17.458452241060936,4.5807917713192206/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661277:1842031101:0297/pct:5.489340271948968,75.07475182394451,17.46964355660008,4.592752063150341/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1567,7 +1567,7 @@ j Stales, unless the act ol 111&quot; National Legislalnre
 | lature bb again negatived by of tbe members  
 J of each branch. So jealous was Gov. Randolph o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82015015:00415661289:1842031201:0068/pct:5.311190903650509,77.27423822714681,16.11310592459605,4.842105263157895/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82015015:00415661289:1842031201:0068/pct:5.321164971075205,77.27423822714681,16.11310592459605,4.845798707294552/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1583,9 +1583,9 @@ J of each branch. So jealous was Gov. Randolph o
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1842-10_11_52/page/n2/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1842-10_11_52/page/n2/mode/1up?view=theater)
 
-#### 1842-10-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1842-10-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1691,9 +1691,9 @@ exercise of individual Legislatures; (fo
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1842-10_11_52/page/n3/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1842-10_11_52/page/n3/mode/1up?view=theater)
 
-#### 1842-10-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1842-10-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1776,9 +1776,9 @@ captures from an enemy; cases in which
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1842-10_11_52/page/n3/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1842-10_11_52/page/n3/mode/1up?view=theater)
 
-#### 1842-10-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1842-10-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1866,9 +1866,9 @@ cide thereon.
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1842-10_11_52/page/n8/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1842-10_11_52/page/n8/mode/1up?view=theater)
 
-#### 1842-10-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1842-10-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1916,9 +1916,9 @@ none of the persons composing the Fede
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1842-10_11_52/page/n8/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1842-10_11_52/page/n8/mode/1up?view=theater)
 
-#### 1842-10-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1842-10-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1957,7 +1957,7 @@ Mr. 1 inckney e ? &quot;I he Legislature shall have power
 to admit new Stites, on the saLie terms with the ori­  
 g nal States, provided that two-thirds of the member
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664278:1844040201:0340/pct:33.777112939416604,66.48119723714505,16.035901271503366,3.9907904834996164/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664278:1844040201:0340/pct:33.7870855148342,66.48439498592991,16.030914983794563,3.9939882322844715/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1988,7 +1988,7 @@ tining the power to States fanfilly arising withig
 the limits of the Caited Sttes, was at one time ad  
 opted in Committee of the Whole, and, in that state
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530200:1844043001:0101/pct:43.57533177205308,79.66839134524929,42.295081967213115,24.03574788334901/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530200:1844043001:0101/pct:14.525110590684362,26.556130448416432,14.098360655737705,8.011915961116337/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2010,7 +2010,7 @@ than the whole.” In Mr. Charles Pinckney’s
 draft, it was proposed that “the legislature shail  
 have power to admit new States into the Union
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215749:1844043001:0272/pct:52.34100663285213,13.817644689136564,14.836129535700351,3.9680408218074392/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215749:1844043001:0272/pct:52.33590168731103,13.816717019133938,14.837933612926298,3.9700123083808885/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2043,7 +2043,7 @@ Ies3 than the whole.&quot; In Charles Pmckney&#x27;i
 draft, it was proposed that &quot;the legislature shall  
 have power to admit new States into the Union
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn84028793:00296026669:1844050801:0039/pct:28.09633027522936,100.0277315585136,19.74388379204893,6.724902939545203/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn84028793:00296026669:1844050801:0039/pct:21.085834448480213,75.0277315585136,14.815522844580386,5.0471436494731/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2165,7 +2165,7 @@ limits of the United States&quot; &amp;c.:—(Madison’s pa­
 I power of admission, with an express restriction  
 | to States lawfully arising within the limits of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215750:1844091401:0056/pct:22.372130487313733,85.04244249726177,15.052356020942408,3.046276013143483/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215750:1844091401:0056/pct:22.369878183831673,85.0366212608666,15.054196449545287,3.048349191137883/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2261,7 +2261,7 @@ less than the whole.&#x27; In Mr. Claries Pinckncy&#x27;s
 draught, it was proposed that &#x27;the Legislature  
 shall have power io admit new Slates into th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1845011701:0039/pct:13.413014608233732,25.253867324665464,13.619595691308838,8.08579292018601/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1845011701:0039/pct:13.413014608233732,25.253867324665464,13.624514288524912,8.095283287463225/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2284,7 +2284,7 @@ voices in the National Legislature less the
 rit of the previous article in the Conlederaiion.  
 That allowed the admission ol foreign states
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1845011701:0042/pct:17.901785714285715,10.031588015698286,13.616071428571429,4.508471331482722/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1845011701:0042/pct:17.90674603174603,10.031588015698286,13.630952380952381,4.5116620401391145/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2406,7 +2406,7 @@ territory, or otherwise, with the consent
 number of voices in the National Lr­  
 U&#x27;nrc less than the whole. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82007022:00393342882:1845020501:0297/pct:0.6027208541415533,71.86600366396232,11.83054933700706,6.869929337869667/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82007022:00393342882:1845020501:0297/pct:0.6026170798898072,71.8566008111998,11.832816804407713,6.872301452309302/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2446,7 +2446,7 @@ junction of government and territory or otherwise,
 with the consent of a number of voices of the National  
 Legislature less than the whole.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82015015:00415661319:1845021801:0351/pct:65.71256402530882,40.26477236034872,17.128653208797832,2.9813798299429557/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82015015:00415661319:1845021801:0351/pct:65.72260721100733,40.271947763068205,17.128653208797832,2.9813798299429557/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2466,7 +2466,7 @@ junction of government and territory or otherwise,
 with the consent of a number of voices of the National  
 Legislature leaa than the whole.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661356:1845021801:0175/pct:67.81383737517832,39.80692076228686,17.154065620542085,3.0341023069207624/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661356:1845021801:0175/pct:67.81383737517832,39.80692076228686,17.16000951022349,3.0382815112002675/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2488,7 +2488,7 @@ otherwise, with the consent of a number
 of voices in the natinhal legislature less  
 nan ine wnote.&#x27; 4 vol. tllioti&#x27;s Uebate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035312:00296026864:1845021801:1068/pct:28.429680759275236,31.360220825026836,19.003451251078516,6.364054592853857/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035312:00296026864:1845021801:1068/pct:21.342252913249894,23.523999386597147,14.264134656883902,4.784542248121454/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2516,7 +2516,7 @@ Kandolph proposed &quot; that provision ought to he made
 for the admission of States lawfully arising within the  
 limilt of the Uniltil Statu, whether, tic. (lid vol. Madiso
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661356:1845022501:0199/pct:37.14388102490593,72.87792536369386,15.373588962551514,2.4667931688804554/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661356:1845022501:0199/pct:37.14388102490593,72.87792536369386,15.379561607836111,2.47100990934008/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2545,7 +2545,7 @@ down in a atilt greater degree the power already pos­
 sessed by Congress under die articles of confedera­  
 tion, proposed that the new Government thould no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn84020566:00414187468:1845022701:0179/pct:30.697586010264207,3.3486174795053496,25.3754039156054,92.24676948728637/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn84020566:00414187468:1845022701:0179/pct:30.691752185480805,3.3481522645179216,25.375332573166098,92.23742706307307/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2575,7 +2575,7 @@ Government and territory or otherwise, with the consent of
 a number of voices lees than the whole.&quot;  
 Before leaving this resolution let us comprehend its rea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845030401:0186/pct:8.968477134823146,23.89783065080476,38.55261210596419,7.0095637975274085/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845030401:0186/pct:2.9890500147972774,7.965014577259475,12.8489691230147,2.336248785228377/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2614,7 +2614,7 @@ breaking out of the
 
 ---
 
-## [From _The American review : a Whig journal of politics, literature, art, and science_](https://archive.org/details/sim_american-whig-review_1845-08_2_2/page/n102/mode/1up?view=theater)
+## [From _The American Review: a Whig Journal Devoted to Politics and Literature (1848-1850)_](https://archive.org/details/sim_american-whig-review_1845-08_2_2/page/n102/mode/1up?view=theater)
 
 #### 1845-08-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -2670,7 +2670,7 @@ national legislature be again passed, or that of a (articular
 legislature be again&#x27;negatived by ? of the  
 ; i members of each branch. 2. The next pro|&gt;ositio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848110501:1102/pct:62.234726688102896,28.428678491131652,18.10289389067524,4.708968273794654/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848110501:1102/pct:62.234726688102896,28.437005579148973,18.118971061093248,4.708968273794654/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2741,7 +2741,7 @@ Carolina, who presented a plan of a federal constitution,
 in which it was provided that the legislature should have  
 power to admit new Stales into the Union on the sam
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661137:1849031801:0323/pct:5.65231158961368,6.931931931931932,16.8777707409753,5.38038038038038/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661137:1849031801:0323/pct:5.65231158961368,6.9402736069402735,16.88832594469073,5.38038038038038/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2798,7 +2798,7 @@ Rufus King, on the lltb June, moved that the I
 : right of suffrage in the first branch of the National 1  
 Legislature ought not to be according to the rule 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:0041566137A:1850062601:0756/pct:55.87824629991623,52.94570235216531,13.571628036861211,2.7258738184216313/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:0041566137A:1850062601:0756/pct:55.88755468677278,52.94570235216531,13.571628036861211,2.733201436213087/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2815,7 +2815,7 @@ Union, and to call forth the force of the Union
 against any member of the Union failing to fulfill  
 his duty under the articles thereof.&#x27; Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661472:1850082401:0244/pct:6.323248841646225,63.460310704405195,14.213682202234942,2.202596297084486/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661472:1850082401:0244/pct:6.323248841646225,63.463857558345744,14.222767329880984,2.206143151025041/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2841,7 +2841,7 @@ the limits rf the United States, whether from a voluntary
 junction of government and territory or  
 otherwise with the consent of u number of voices
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661472:1850090301:0276/pct:44.5827633378933,73.85311221193194,14.66484268125855,5.481369804006031/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661472:1850090301:0276/pct:44.5827633378933,73.85670184507143,14.673962608299133,5.481369804006031/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2860,7 +2860,7 @@ States, whether lr&gt;&gt;ni a voluntary junction of government
 and t&lt; rritorv or otherwise, with the consent of a number of  
 voices less than the whole.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566431A:1850092001:0502/pct:51.21915393654524,27.32183472327521,15.937132784958871,2.0375284306292647/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566431A:1850092001:0502/pct:51.21915393654524,27.32183472327521,15.942028985507246,2.040687389436442/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2888,7 +2888,7 @@ to be empowered to call forth the force of the
 Union against any member of the Union failing  
 to fulfil its duties under the articles thereof.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661484:1851032701:0311/pct:41.166512773160974,48.40787119856887,14.604493690366267,7.286821705426356/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661484:1851032701:0311/pct:41.17677234020724,48.415821904194,14.594234123319996,7.282846352613794/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2936,7 +2936,7 @@ m Revived, That the National Legislature ought to
 be pmnowered to call forth the force of the Union  
 against any member of the Union failing to fulfil its 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022627:1851040901:0294/pct:9.120847651775486,23.709694583377672,20.060137457044675,3.3734170479940406/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022627:1851040901:0294/pct:6.84519547472433,17.782270937533255,15.050837748818559,2.532723209534958/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2968,7 +2968,7 @@ force of the Union against any member of
 the Union failing to fulfil its duties under  
 the articles thereof.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279559836:1851051001:0395/pct:114.72151606193668,107.42930180540023,53.9172636930899,39.127656175107845/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279559836:1851051001:0395/pct:28.673752310536045,26.85303514376997,13.476201478743068,9.78035143769968/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2998,7 +2998,7 @@ to be empowered to call forth the force of the
 Union against anv member of the Union failing  
 to fulfil its duties under the articles tliereot.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661484:1851092301:0916/pct:32.11036102142648,33.95474264274827,14.206046375110068,8.312815101418689/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661484:1851092301:0916/pct:32.1152529106741,33.962559112049085,14.22072204285295,8.30890686676828/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3027,7 +3027,7 @@ h to be empowered to call forth the force of the
 ? Union against any member of the Union failing  
 to fulfil its duties under the urtieles thereof.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014763:00415661460:1851092401:0165/pct:29.4,33.31107401224263,14.242857142857142,7.790762381747356/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014763:00415661460:1851092401:0165/pct:29.4,33.314783899091076,14.252380952380953,7.794472268595808/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3044,7 +3044,7 @@ the power &quot;to call forth the force of the Union
 against any member of tho Union failing to fulfil  
 its duty under the articles thereof. [Mad
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014763:00415661460:1851101501:0189/pct:55.198161975875934,16.981971956376587,14.345203905801263,1.7137769864233252/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014763:00415661460:1851101501:0189/pct:55.198161975875934,16.981971956376587,14.349990426957687,1.7211959344164998/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3065,7 +3065,7 @@ which respect the collection of the .national reve
 nue, impeachment of any national officers, and  
 questions concerning the general peace and har
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016866:00295878198:1851120601:0561/pct:53.343592613318414,84.29288800653977,18.354784555120315,5.89746584141072/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016866:00295878198:1851120601:0561/pct:40.022390148334736,63.22550507999533,13.769941225860622,4.426018918603293/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3084,7 +3084,7 @@ collection of the national revenue, impeachments
 of any national officers, and questions which, in­  
 volve, the national peace and harmony.&quot; : 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016866:00295878198:1851120601:0561/pct:53.32960268606603,101.51815952353147,18.2988248461108,4.320915566974191/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016866:00295878198:1851120601:0561/pct:40.008396305625524,76.14153918019386,13.741953540442205,3.2465257503211493/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3102,7 +3102,7 @@ the national legislature ought to be chosen by the
 individual legislatures,&quot; which passed unanimously.  
 The aame was again passed, Juae 25th, 1787.&#x27; Tb
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024518:0029602272A:1853011901:0026/pct:48.69062119366626,7.344835849508747,20.401948842874543,2.5521207764198417/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024518:0029602272A:1853011901:0026/pct:36.53114055124105,5.511622334052241,15.303791685701233,1.917086029235562/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3130,13 +3130,13 @@ second branch of the national legislature
 ought tube chosen by the individual legis­  
 latures,&quot; which passed unanimously. Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00415667280:1853012901:0384/pct:65.75055803571429,13.55061948878223,19.949776785714285,10.112735796405849/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00415667280:1853012901:0384/pct:49.32328728896331,10.168545596606764,14.971396679224222,7.590132827324478/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The United States Review (1853-1856)_](https://archive.org/details/sim_united-states-democratic-review_1853-06_32_6/page/n86/mode/1up?view=theater)
+## [From _The United States review_](https://archive.org/details/sim_united-states-democratic-review_1853-06_32_6/page/n86/mode/1up?view=theater)
 
 #### 1853-06-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -3290,7 +3290,7 @@ national judiciary, ihoutd compute a council oj revun &quot; 1 will&#x27;
 authority to examine every act of the national legislature  
 before it dull become a law. Mr. Gerry moved to postpone 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855022701:0253/pct:36.823222439660796,3.4976555569636294,16.014350945857796,2.8513496388290456/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855022701:0253/pct:36.823222439660796,3.506104000337938,16.03065883887802,2.8513496388290456/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3313,7 +3313,7 @@ that the dissent of said council shall amount to u rejection,
 unless the act of the national legislature be again passed.&quot;  
 On the same day Charles Pinckney, of South Carolina
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855031601:0335/pct:20.23732119635891,39.78952643447757,15.799739921976593,5.04885993485342/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855031601:0335/pct:20.24273948851322,39.797878560093544,15.805158214130905,5.04885993485342/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3359,7 +3359,7 @@ To dispose of the unappropriated lande of the United
 States. To institute temporary Governments for ney  
 States arising therein. To regulate affairs with th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530534:1857031001:0462/pct:151.83016105417278,88.65377599416271,46.250203351228244,15.736349264258786/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530534:1857031001:0462/pct:50.61005368472426,29.551258664720905,15.416734450409415,5.245449754752928/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3388,7 +3388,7 @@ the United States. To institute temporary
 Governments for new States arising tfierein.  
 To regulate affairs with the Indians, as well
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1857031901:0054/pct:38.03357314148681,20.437611996604733,13.633093525179856,7.271526926341601/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1857031901:0054/pct:38.03357314148681,20.443899525291584,13.645083932853717,7.271526926341601/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3408,7 +3408,7 @@ a number of voices in the National Legislature, less thantioned it can be a matt
 the whoe  e  o  o on wic gond it is eercise.  
 Afterward Mr. Madison submitted to thehe opion clear was not arbiter dit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1857032701:0261/pct:223.87247278382583,131.1662904439428,102.33281493001556,12.159518434913469/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1857032701:0261/pct:56.000778058743435,32.7915726109857,25.598132659015757,3.0398796087283673/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3435,7 +3435,7 @@ legislation :
 States. To institute temporary governments for nev  
 States arising therein. To regulate affairs with the I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82006534:00415661083:1857052901:0159/pct:37.53176620076239,57.22594512580604,15.0571791613723,6.448349981034265/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82006534:00415661083:1857052901:0159/pct:37.53706056755612,57.23437434146753,15.0571791613723,6.448349981034265/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3461,7 +3461,7 @@ as proper to lie added to those of the general legislature
 * To dispose of the unappropriated lands of the United  
 States.&quot; &quot;To Institute temporary governments for ne
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82006534:00415661083:1857060201:0171/pct:6.484587126657083,90.17428643596868,16.514933716658682,5.961101288204092/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82006534:00415661083:1857060201:0171/pct:6.484587126657083,90.17849625326261,16.530905606133206,5.965311105498022/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3481,7 +3481,7 @@ ernment and territory or otherwise, with the consent of a
 number of voices in the National Legislature less than the  
 whole.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:0020029323A:1857061101:0544/pct:123.66603892027621,266.9637621672335,49.466415568110484,8.443766858215081/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:0020029323A:1857061101:0544/pct:30.926216640502354,66.74094054180837,12.370486656200942,2.1109417145537703/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3593,7 +3593,7 @@ shall smount to a rejection unless the act of the
 legislature shall be again pasred, or that of a particular  
 ae be sgain negatived by --- members of eac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530649:1860041801:0772/pct:51.719128329297824,281.4364253129021,47.68361581920904,8.597496783249502/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530649:1860041801:0772/pct:17.239709443099272,93.81214177096736,15.894538606403014,2.8658322610831677/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3632,7 +3632,7 @@ power to coerce the States; to bring the States into
 subjection to the Federal Government. Now, sir,  
 let us see how that was treated; and first, I will re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293290:1860052301:0493/pct:118.24696802646086,207.32740364252436,43.60529217199559,9.91105463786531/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293290:1860052301:0493/pct:29.561742006615216,51.83185091063109,10.901323042998898,2.4777636594663277/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3684,7 +3684,7 @@ separate States are incompetent, or in which
 the harmony of the United States may he interrupted  
 by the exercise of individual legislation;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664382:1860100901:0331/pct:50.967143614202435,31.441869677163794,14.043455219925809,7.912457912457913/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664382:1860100901:0331/pct:50.967143614202435,31.448471644550075,14.052287581699346,7.909156928764772/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3733,7 +3733,7 @@ empowered to negative all laws passed by
 the several States contravening the articles  
 of Union } and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_henryjohnson_ver01:data:sn84026912:00211109981:1860120101:1144/pct:18.988902589395806,64.28991646076008,17.632552404438965,8.471584892340275/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_henryjohnson_ver01:data:sn84026912:00211109981:1860120101:1144/pct:18.999177969584874,64.29383849080284,17.632552404438965,8.471584892340275/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3752,7 +3752,7 @@ the bedertl Government the power to &quot;call forth the
 force of the Union against any member of the Confede-  
 racy fail ng to do its duty under the articles thereor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530662:1860120301:0664/pct:248.66353474809654,193.14988290398125,47.99935201684756,7.517564402810304/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530662:1860120301:0664/pct:82.88784491603218,64.38329430132708,15.999784005615854,2.5058548009367683/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3775,7 +3775,7 @@ men of all parties sprang to their feet and de­
 nounced it as violative of the rights of tho  
 States, and dangerous to the liberties of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_eiffel_ver02:data:sn87065471:00295877558:1860121201:0115/pct:40.488338192419825,74.32339607088886,17.073615160349853,6.745432064844072/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_eiffel_ver02:data:sn87065471:00295877558:1860121201:0115/pct:30.38643820634342,55.74941612858909,12.814436748086036,5.0556395109218295/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3804,7 +3804,7 @@ Now, when it is remembered that the
 ostensible purpose of the Convention was to  
 amend the Articles of the Confederation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347282:1860122101:0594/pct:22.218779051750854,44.00274945583686,12.92221877905175,9.829304616794593/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347282:1860122101:0594/pct:22.229108563164964,44.00274945583686,12.927383534758805,9.829304616794593/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3935,7 +3935,7 @@ assemblies recommended by the several Legislatures to be
 xpressly chosen by the people, to consider and decide  
 hereon.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743373:1861011901:0173/pct:250.7183908045977,47.18468468468468,46.2962962962963,11.047297297297296/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743373:1861011901:0173/pct:83.5727969348659,15.728228228228229,15.432098765432098,3.6824324324324325/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3964,7 +3964,7 @@ powered to &quot;call forth the force of the Union
 against any member of the Union failing to fulfil its  
 duties under the articles thereof.&quot; See Madiso
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022792:1861012601:0049/pct:64.98327759197325,7.417092594793772,40.38461538461539,117.43729941756806/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022792:1861012601:0049/pct:48.770286096704034,5.562819446095329,30.299481345156433,88.07797456317604/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4009,7 +4009,7 @@ proposition on the same day wa
 the Legislature of the United States shall have  
 the power, to revise the laws of the severa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200290045:1861012701:0042/pct:67.30981256890848,34.87456406794915,68.79823594266814,345.4156823039712/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200290045:1861012701:0042/pct:16.83209263854425,8.718641016987288,17.204301075268816,86.3539205759928/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4044,7 +4044,7 @@ the following clause: &quot;And to call forth the force of the
 Union against any member of the Union failing to fulfll  
 its duty under the articles thereof.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743373:1861020901:0355/pct:250.20190599256986,100.20143240823634,46.519140688095625,7.688003581020591/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743373:1861020901:0355/pct:83.40063533085662,33.40047746941212,15.506380229365208,2.562667860340197/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4079,7 +4079,7 @@ serted in the Constitution: &quot;And if any State, or
 body of men iu any State, shall oppose or prevent  
 the carrying into execution such acts or treaties
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn82014306:00202191691:1861021301:0048/pct:112.05146364494806,36.46151085591244,14.270538243626062,10.066391530593934/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn82014306:00202191691:1861021301:0048/pct:84.07131892785453,27.346133141934327,10.709646947691581,7.554279562174771/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4105,7 +4105,7 @@ the Union failing to fulfil its duty/7
 Mr. Morris &quot;explained the distinction  
 between a federal and a national suprem
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dior_ver01:data:sn85025007:00415663523:1861050201:0013/pct:2.3641238118449914,5.462523506760992,13.380453326834024,7.298289603295424/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dior_ver01:data:sn85025007:00415663523:1861050201:0013/pct:2.3641238118449914,5.468493477806633,13.392639532049719,7.2953046177726035/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4123,7 +4123,7 @@ Union against any member of the Union, failing
 to fulfil his duty under the articles thereof.&quot;  
 This power was refused. Then cam
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664382:1861050301:0618/pct:12.087469814864502,40.3112155020552,13.53635631875503,2.4466627520062634/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664382:1861050301:0618/pct:12.087469814864502,40.31773993606055,13.549771934531796,2.4499249690089386/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4141,7 +4141,7 @@ tional Legislature the power &quot; to call forth the force
 of the Union against any mender of the Union fail­  
 iny to perform its duty under the articles thereo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022792:1861050401:0178/pct:27.533333333333335,25.34458174904943,19.533333333333335,2.6734790874524714/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022792:1861050401:0178/pct:20.66033016508254,19.011406844106464,14.657328664332166,2.0080798479087454/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4159,7 +4159,7 @@ Legislature the power k4 to call forth the force of the Union
 against any member of the Union failing to perform Us du­  
 ty under the articles t ereof.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879105:1861050901:0310/pct:64.58333333333333,42.3486867148839,19.376278118609406,1.9889607917776932/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879105:1861050901:0310/pct:48.45927630737757,31.76627331556909,14.537782892213272,1.4940997335363533/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4212,7 +4212,7 @@ the force of the Union gainst any member of
 the Union falling to fulfil iduty under the  
 articles thereof
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1861051601:0002/pct:13.325740318906606,66.79693153857288,10.174639331814731,5.557967867998263/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1861051601:0002/pct:13.33997722095672,66.80778694456507,10.179384965831435,5.557967867998263/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4230,7 +4230,7 @@ the force of the Union aquinst any mem-­
 der of the Union, failing to fulfill its duly  
 under the articles thereof.&quot; On thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn82014129:00279528724:1861060501:0191/pct:79.26461723930079,152.53456221198158,33.529234478601566,6.854838709677419/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn82014129:00279528724:1861060501:0191/pct:26.421539079766927,50.844854070660524,11.176411492867189,2.28494623655914/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4248,7 +4248,7 @@ under the articles thereof.&quot; On thi
 &quot;any member of the Union failing to fulfil itsjj  
 &quot;duties under the articles thereof. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn82005159:00296028447:1861060701:0480/pct:52.299499757947395,66.48852180250212,14.73293529126997,2.11344588849751/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn82005159:00296028447:1861060701:0480/pct:52.299499757947395,66.48852180250212,14.738314238072185,2.121543382323171/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4293,7 +4293,7 @@ of tbe national lerislature, tbe artiolc* of
 union, or any treaties subsisting under tbe au­  
 thority of tbe union
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn83032006:00296028563:1861071201:0135/pct:4.301247201790854,72.98324818819057,14.438759194115766,7.23535701556374/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn83032006:00296028563:1861071201:0135/pct:4.30657712397399,72.98720842738902,14.449419038482038,7.243277493960635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4312,7 +4312,7 @@ MAdison immediately moved to postpone the
 proposition to authorize force, and said:  
 &quot;The more I reflect on the use of force th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200290033:1861081301:0126/pct:30.568181818181817,146.28691983122363,41.13636363636363,10.717299578059071/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200290033:1861081301:0126/pct:7.645303396333665,36.57172995780591,10.288475202501067,2.679324894514768/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4333,7 +4333,7 @@ of the Union failing to fulfil its
 duty under the articles&#x27; thereof.”—  
 Mr. Madison said “
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_henson_ver01:data:sn83016108:00415625649:1861102601:0036/pct:62.86840623240098,70.34360512680665,17.721043739440585,5.685846741205345/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_henson_ver01:data:sn83016108:00415625649:1861102601:0036/pct:48.73187527278017,54.515674533286365,13.743271422336454,4.410003522367031/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4353,7 +4353,7 @@ force, and said, &quot;The more I reflect on the use of force,
 the more I doubt the practicability, justice and efficiency  
 of it when applied to a people collectively. The use o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn86071866:00414184728:1861123101:0615/pct:67.62489044697634,77.21268979138378,42.87467134092901,11.122083693371188/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn86071866:00414184728:1861123101:0615/pct:22.537679635471434,25.734386571216984,14.289052459399462,3.7069036451904878/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4404,7 +4404,7 @@ for the armed force of tbe Union against
 any member* of the same failing to fulfil  
 its duty under the articles thereof.” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_henson_ver01:data:sn88065733:00415625649:1862071201:0121/pct:56.153328850033624,13.576349024110218,21.99058507061197,10.074626865671641/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_henson_ver01:data:sn88065733:00415625649:1862071201:0121/pct:43.53138753764188,10.525340154969784,17.043085476025016,7.811515218922627/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4453,7 +4453,7 @@ to fulfill its duly under (ho Articles
 thereof.&#x27;&#x27; Mr. Pinkney, of South Coro- |  
 linn said, &quot;The National Legislatur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn84026817:00202193754:1863062501:0255/pct:19.237893622651494,39.18801184875414,15.797830113786716,8.538072834988673/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn84026817:00202193754:1863062501:0255/pct:19.24450912939931,39.18801184875414,15.797830113786716,8.555497473427426/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4528,7 +4528,7 @@ against any member of the Union,
 failing to fufill its duty under the  
 articles thereof.&quot; Yates Notes 227
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1864030301:0778/pct:83.13953488372093,198.7855368479161,55.89700996677741,54.706044714325145/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1864030301:0778/pct:20.78920041536864,49.69638421197902,13.977154724818277,13.676511178581286/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4553,7 +4553,7 @@ mended by the several legislatures, to be
 expressly chosen by the people to con­  
 sider and decide thereon.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:0023728690A:1864050501:0522/pct:74.47625698324022,70.65101387406617,16.34078212290503,9.418356456776948/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:0023728690A:1864050501:0522/pct:55.885434858539995,52.988260405549624,12.259867272092212,7.070437566702241/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4664,7 +4664,7 @@ or the harmony of the United States
 would be interrupted by the exercise of  
 individual legislation.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867030701:0214/pct:69.1131498470948,298.99519440803846,37.49235474006116,9.349060725207515/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867030701:0214/pct:17.28621691907603,74.74879860200961,9.377390240171332,2.3372651813018788/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4697,7 +4697,7 @@ amount to a rejection, unless the act of the national legic.­
 lature be again passed, or that of a parttcular legislature be  
 aga negatived by of the members of each branch
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743579:1867042701:1211/pct:53.41226771912515,131.23368516626942,47.0975168557803,20.45170809215753/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743579:1867042701:1211/pct:17.804089239708382,43.74456172208981,15.699172285260099,6.817236030719177/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4772,7 +4772,7 @@ al legislature be again passed, or that of a parti­
 cular legislature be again negatived, by  
 of tho members of each branch.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879129:1867050301:0080/pct:37.63345195729537,54.40974268316637,17.094560244026436,9.546258102533884/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879129:1867050301:0080/pct:28.23903369357915,40.80730701237478,12.828989192625556,7.16951483009232/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4802,7 +4802,7 @@ individual legislation.&quot;
 This was the &quot;Virginia plan,&quot; offered  
 as soon as the convention organized, b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867062101:0575/pct:99.375,131.47101208291764,38.5625,23.766766433876512/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867062101:0575/pct:24.855400969204315,32.86775302072941,9.645146162263561,5.941691608469128/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4863,7 +4863,7 @@ constitution and its existing laws ought to be guar-­
 anteed to each State by the United States.&quot; And  
 finally it was amended and adopted in the form i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743610:1868031401:0680/pct:151.586655817738,111.12512902855832,45.77705451586656,10.80399128340406/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743610:1868031401:0680/pct:50.52888527257933,37.04170967618611,15.25901817195552,3.6013304278013534/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5150,7 +5150,7 @@ and inat missable.&quot;
 The question for agreeing to the power  
 being taken, it passed in the negative
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00212470491:1870090801:0721/pct:73.34963325183374,149.6333822157046,51.344743276283616,33.702173043594186/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00212470491:1870090801:0721/pct:18.337408312958434,37.40834555392615,12.836185819070904,8.425543260898547/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5185,7 +5185,7 @@ support the articles of Union.&quot;
 One other proposition embodied in  
 the resolutions was to the effect tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn82016419:00212472967:1873060601:0660/pct:17.514573396926338,86.57142857142857,11.857445680975093,12.703296703296703/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn82016419:00212472967:1873060601:0660/pct:13.14777998674619,64.93406593406593,8.893306825712392,9.527472527472527/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5261,7 +5261,7 @@ Mr. Patterson&#x27;s plan provided a salary &quot;In which no
 increase or diminution shall be made so as to affect the  
 persons comprising the Executive at the time.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hugo_ver01:data:sn83030214:00206531162:1874012401:0194/pct:102.38640078457013,101.50472413390878,47.92415822164106,10.98798553598507/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hugo_ver01:data:sn83030214:00206531162:1874012401:0194/pct:34.128800261523374,33.83490804463626,15.974719407213687,3.6626618453283566/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5285,7 +5285,7 @@ in which no increase or diminution
 shall be made so as to affect the per­  
 sons comprising the Executive at th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn85033699:00200293496:1874012801:0097/pct:21.259609698403313,109.91430740861264,14.251921939680662,7.11573923419026/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn85033699:00200293496:1874012801:0097/pct:15.954458080733403,82.43844234732617,10.690521957711075,5.336804425642694/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5388,7 +5388,7 @@ FEDERAL CONVENTION.
 That a national executive be instituted, to be  
 chosen by the National Legislature.5 Elliet&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477874:1881030201:0884/pct:218.8188976377953,248.21428571428572,40.62992125984252,36.05990783410138/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477874:1881030201:0884/pct:54.71549517621579,62.05357142857143,10.159480212640284,9.014976958525345/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5409,7 +5409,7 @@ Secondly- The plan of Mr. Pinckney:&quot;Article
 VIII. The executive power of the United States  
 hall be vested in a President of the Unite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044772:1881082401:0261/pct:183.55871886120997,109.33103646281941,49.7508896797153,13.20700545506747/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044772:1881082401:0261/pct:45.9060163759345,27.332759115704853,12.442150231399074,3.3017513637668676/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5463,7 +5463,7 @@ in which the&#x27; harmony of the United
 States may be interrupted by the exor-r  
 else of individual legislation.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eeyore_ver01:data:sn87052143:00294556588:1884032201:0619/pct:88.29209414604708,15.875089052481595,26.44840072420036,110.81690809783899/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eeyore_ver01:data:sn87052143:00294556588:1884032201:0619/pct:66.23905825535768,11.90928520541439,19.846060971928765,83.11564948943244/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5493,7 +5493,7 @@ or ten years, aud tho incumbent then
 rendered ineligible.  
 Iu the last of tho Resolutions, au i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eeyore_ver01:data:sn87052143:00294556588:1884032201:0619/pct:101.53892576946288,37.47328425552126,13.39770669885335,10.71004511992401/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eeyore_ver01:data:sn87052143:00294556588:1884032201:0619/pct:76.18472683368549,28.10496319164094,10.051313009357079,8.038470672049394/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5543,7 +5543,7 @@ by the national legislature;&quot; that be
 he should be paid a fixed compensa­  
 tion, be ineligible a second time, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eeyore_ver01:data:sn87052143:00294556588:1884032901:0623/pct:112.2057936028968,26.22163525033017,13.382619191309596,24.52875495257534/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eeyore_ver01:data:sn87052143:00294556588:1884032901:0623/pct:84.17081635732609,19.66622643774763,10.049796287913082,18.405570896866372/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5577,7 +5577,7 @@ tbe convention should bo submitted to
 an assembly or assemblies of represen­  
 tatives chosen by the people. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eeyore_ver01:data:sn87052143:00294556588:1884032901:0623/pct:112.28123114061557,57.68999879937567,13.578756789378394,13.627086084764077/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eeyore_ver01:data:sn87052143:00294556588:1884032901:0623/pct:84.23117549419044,43.27050066034338,10.185604345857854,10.217313002761436/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5883,7 +5883,7 @@ the Court, whatever may be said in the
 heat of passion, has generally endeavored  
 after that peace and harmony. Proofs o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn84024448:00296020758:1888032401:0667/pct:80.29253271747498,270.0324354815964,50.50038491147036,51.05062755605697/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn84024448:00296020758:1888032401:0667/pct:20.080862533692724,67.5081088703991,12.629957643434732,12.762656889014243/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6129,7 +6129,7 @@ all the Virginia delegation Mason alone saw
 clearly the danger in this clause, and he was  
 the first one in the Convention to suggest th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_neruda_ver01:data:sn83030272:00175045053:1892110601:0083/pct:228.40822543792842,36.7606915377616,50.64737242955065,13.527449196239004/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_neruda_ver01:data:sn83030272:00175045053:1892110601:0083/pct:57.112930870310414,9.1901728844404,12.664254427728052,3.381862299059751/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6310,7 +6310,7 @@ who moved that the rights of suf­
 frage In the natianal legislature ought  
 to be proportioned
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:2065344540:1896020601:0330/pct:15.878807106598984,84.6074646074646,11.151649746192893,1.4414414414414414/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:2065344540:1896020601:0330/pct:15.878807106598984,84.6074646074646,11.151649746192893,1.45002145002145/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6371,7 +6371,7 @@ the number of free inhabitants, as the one or
 the other rule may seem best in different cases.&quot;  
 On the 9th of June the debate on this resolutio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:0017504291A:1897011701:0222/pct:67.33128834355828,276.3570016724951,50.920245398773005,13.197506461912726/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:0017504291A:1897011701:0222/pct:16.842509111835795,69.08925041812377,12.737387300978323,3.2993766154781814/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6390,7 +6390,7 @@ have power &#x27;to call forth the force of the Union
 against any member of the Union failing to  
 fulfil its duties under the articles thereof.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042982:1898021301:0580/pct:83.58208955223881,76.28361858190709,49.25373134328358,9.229828850855746/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042982:1898021301:0580/pct:20.89942153386826,19.070904645476773,12.315730546743795,2.3074572127139366/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6409,7 +6409,7 @@ ought to be elected by those of the lower
 branch out of a proper number of persons  
 nominated by the Individual legislatures.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:00271740554:1899011601:0150/pct:15.983772819472616,65.98509266720387,12.57606490872211,2.477840451248993/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:00271740554:1899011601:0150/pct:15.992787919765608,65.98845017459038,12.567049808429118,2.4879129734085415/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6438,7 +6438,7 @@ to be elected by those of the first, uiit
 of a proper number of persona nomi?  
 nated by the individual legislatures,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_red_ver01:data:sn85025007:00175033798:1899041301:0106/pct:31.54460936225738,54.179357021996616,13.358342847822541,7.862380146644106/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_red_ver01:data:sn85025007:00175033798:1899041301:0106/pct:31.54460936225738,54.183117127279566,13.374653400750285,7.8699003572100015/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

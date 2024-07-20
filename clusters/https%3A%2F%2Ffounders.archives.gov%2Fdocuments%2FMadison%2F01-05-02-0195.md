@@ -308,7 +308,7 @@ to «. *1. act in if •€ month ol ^larch next, all such business as they ough
 ber is reasonable. 1  
 2. 1WW, That it in the opinion of this committee, that such part of the petition of severa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804121901:0404/pct:1.435495898583147,73.61986874276155,50.13049962714392,9.05932312443701/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804121901:0404/pct:1.4352283317800558,73.61039629439011,50.1273687480584,9.062446388745926/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -328,7 +328,7 @@ ons to 61 cm. referred, anc. had come to several resolutions thcroupon, which he
 follows :  
 1. Resolved, as the opinion cf this committee, that the petition of Benjamin Wilson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804121901:0404/pct:52.21849366144668,20.97542143868228,42.07680835197614,5.0830009007849695/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804121901:0404/pct:52.20876048462255,20.972722593926918,42.07517862690276,5.08663578658432/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -349,7 +349,7 @@ the same were twice read and agreed to by the house, as follows : ’
 county of Shenandoah, prating ior a division of the said countv, be rejected.  
 2. Resolved, an the opinion of tins committee, that the p&lt; iliion of sundjy &#x27;other inhabitant* o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804122601:0416/pct:47.68288012255841,80.55195646540554,48.39142091152815,6.02487691111687/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804122601:0416/pct:47.67375071797817,80.54152092239927,48.38853787733742,6.02841473420564/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -379,7 +379,7 @@ by the house, as follows :
 E Resolved, as the opinion of this committee, that the petition of Richard Rat­  
 elide, of the county of Fairfax,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804122901:0422/pct:6.270188105643169,27.109445664814576,40.6042181265438,12.068742731619071/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804122901:0422/pct:6.268996960486322,27.10594315245478,40.60283687943262,12.071490094745908/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -412,7 +412,7 @@ mittee, that the petition of William Davis, |
 sen. praying that a law may pass authori­  
 sing him to erect a warehouse for the io
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806121201:0408/pct:59.3158799923562,64.3724173553719,18.268679533728264,10.666322314049587/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806121201:0408/pct:59.304547191440584,64.36410587475791,18.271557763342248,10.669248977835162/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -472,7 +472,7 @@ left hand, and a scourage in his right.
 In the exergon, the word Vieinia over the head  
 of Virtes; and underneath, the words Sie sempe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851050501:0077/pct:207.15757916432452,123.86877828054298,45.96215102117294,25.69287330316742/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851050501:0077/pct:51.779692768827275,30.962816343842782,11.488385162982391,6.42231019369433/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -509,7 +509,7 @@ On the reverse a groupe:
 LIBertaS, with her wand and pileus.  
 On one side of her, CEres, with the cornncopi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202190972:1855082301:0180/pct:107.25397973950795,107.55636806825106,43.92185238784371,24.643510054844608/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202190972:1855082301:0180/pct:35.75132657983599,35.85212268941702,14.640617462614568,8.21450335161487/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

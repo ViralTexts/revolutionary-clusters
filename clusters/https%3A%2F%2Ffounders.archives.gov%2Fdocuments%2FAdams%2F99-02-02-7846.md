@@ -147,7 +147,7 @@ which have never happen=d, I add sin­
 cere assurances of my unabated and con-,  
 stant attachment, friendshin and respect
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015143:1823123001:0205/pct:5.054524020041262,6.666666666666667,75.41998231653405,86.61842739990352/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015143:1823123001:0205/pct:5.059436093918853,6.66988261778421,75.41998231653405,86.61842739990352/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -243,7 +243,7 @@ and wisdom, and to sow tares between
 friends who have been such for near  
 half a century
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021202:00517171980:1823123101:0065/pct:26.04290822407628,5.257922410117948,38.59753675009932,119.49694472076169/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021202:00517171980:1823123101:0065/pct:20.193985425433645,4.07488986784141,29.918916144924562,92.61380323054333/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -377,7 +377,7 @@ happened, 1 add sincere assurances of
 nty unabated and constant attachment,  
 friendship and respect
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025001:0041421633A:1824010101:0008/pct:44.898989898989896,5.840120017145306,33.65319865319865,88.5876553793399/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025001:0041421633A:1824010101:0008/pct:44.89143241878472,5.839494267652416,33.65314481288223,88.5817350619665/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -868,7 +868,7 @@ iap|ivieed, I add sincere assurances e.f my
 iiialniled and constant attachment, IVieud­  
 hi|» and respect. &#x27;I’ll : .1 KKKKUSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1824010601:0578/pct:1.6632443531827514,5.687966076911829,30.349075975359344,87.39581810206171/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1824010601:0578/pct:1.6629028946828166,5.687134502923977,30.347977827961405,87.38669590643275/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -994,7 +994,7 @@ which have never happened, I add sin­
 cere assurances of my unabated and con­  
 stant attachment, friendship, and respect
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_palmer_ver02:data:sn84037834:print:1824010701:0221/pct:48.06138933764136,8.96516393442623,19.48707592891761,69.24948770491804/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_palmer_ver02:data:sn84037834:print:1824010701:0221/pct:48.05168584696144,8.964015879113843,19.489871458375397,69.2448883766594/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1329,7 +1329,7 @@ so much trial; yet all men who have
 attendad to llie workings of the  
 man mind, who have see
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348914:1824010801:0217/pct:78.36902444300237,15.175585284280936,20.28985507246377,53.95763656633222/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348914:1824010801:0217/pct:78.35207612456747,15.173470809530444,20.290873702422147,53.95360178347499/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1935,7 +1935,7 @@ cere assurances of 11 y unabated and
 constant attachment, friendship and re­  
 spect
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1824012701:0176/pct:39.745670995671,3.7037037037037037,36.553030303030305,91.42475809142476/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1824012701:0176/pct:39.73492020557209,3.7030859049207674,36.54990532864485,91.41367806505421/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2305,7 +2305,7 @@ happened, I add sincere assurances of my uii­
 nhated and constant attach n.cit, fricn Ishiji anrj  
 respect
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184522:1824062201:0174/pct:2.232002514932411,33.368188683629604,15.93838415592581,46.125246892064595/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184522:1824062201:0174/pct:2.2316517366022315,33.36431226765799,15.941117921315941,46.123760842627014/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2342,7 +2342,7 @@ than our old William and Mary, which thse
 obstacles have long kept in a state of langor  
 and inefficiency.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00271742083:1875063001:0633/pct:45.77369700243046,119.94729189385679,40.777747772076694,31.824790985096328/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00271742083:1875063001:0633/pct:15.257899000810154,39.982430631285595,13.592582590692231,10.608263661698777/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2369,7 +2369,7 @@ duty of every honorable mind to disappoint that
 im by opposing to its impression a seven-fold  
 hield of apathy and insensibility.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ford_ver01:data:sn83030214:00175038036:1884102501:0232/pct:200.68243136010156,219.10582908885115,48.05586414854785,21.460101867572156/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ford_ver01:data:sn83030214:00175038036:1884102501:0232/pct:66.89414378670052,73.03527636295038,16.018621382849282,7.153367289190719/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

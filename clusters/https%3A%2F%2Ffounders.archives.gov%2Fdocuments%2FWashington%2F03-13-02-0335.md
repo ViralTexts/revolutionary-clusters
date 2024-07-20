@@ -608,7 +608,7 @@ to the honor and well being of the
 State. lam not conscious of a wish  
 more sincere than that of feeing tho
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809062701:0308/pct:76.53797865662273,45.11368169126446,16.384180790960453,8.087355404866374/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809062701:0308/pct:76.53797865662273,45.11700571732482,16.38941201088094,8.090679430926738/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -786,7 +786,7 @@ sions made to prevent himself and fami­
 ly from sinking into indigence and  
 wretchedness.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_fencing_ver02:data:sn83016589:00393340691:1887022501:0030/pct:30.890483472532644,37.50957120980092,10.73991295141748,11.638591117917304/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_fencing_ver02:data:sn83016589:00393340691:1887022501:0030/pct:27.036300006862007,32.82619619228407,9.400946956700748,10.180894422421975/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -818,7 +818,7 @@ provision made to prevent himself and fam-
 liy irom sinning into muigence anu wretcn­  
 uiness. In addition to this is given a quo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_ashbel_ver01:data:sn82015679:00295870369:1889113001:0295/pct:9.60820895522388,33.32522894886134,18.17863805970149,9.546964908015235/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_ashbel_ver01:data:sn82015679:00295870369:1889113001:0295/pct:7.207837648705389,24.993921711646,13.64590622813156,7.164275873247427/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -869,7 +869,7 @@ his coutry, at the risk of the
 ruin of his fortune, there would be  
 no provision made to prevent himsel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_leadville_ver01:data:sn90051167:00340586037:1890020701:0056/pct:30.220404453533288,9.884974838245867,10.656668938877528,8.896477354421279/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_leadville_ver01:data:sn90051167:00340586037:1890020701:0056/pct:30.220404453533288,9.893961179007908,10.679391047489206,8.909956865564343/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -891,7 +891,7 @@ made to prevent himself and family
 1 from sinking into indigence and  
 wretchedness.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_florence_ver01:data:sn85040344:00271769246:1896112801:0892/pct:17.437473801872294,11.955141768937791,11.233757160821574,3.216250528988574/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_florence_ver01:data:sn85040344:00271769246:1896112801:0892/pct:17.44678869172372,11.962194949922415,11.224442270970146,3.216250528988574/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -915,7 +915,7 @@ ul inportant, and, unless, effectual remedies he
   
 eA few weoks before the date of the letter t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:0017504291A:1897031401:0962/pct:0.9042954031650339,219.13561847988078,66.84250188394876,18.002980625931446/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:0017504291A:1897031401:0962/pct:0.22607385079125847,54.783904619970194,16.71062547098719,4.5007451564828616/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

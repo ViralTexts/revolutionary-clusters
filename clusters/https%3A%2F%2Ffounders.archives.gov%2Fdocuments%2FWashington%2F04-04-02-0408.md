@@ -176,7 +176,7 @@ countable that I hardly know how to realize it, or to per­
 suade myself that 1 am Dot under the illusion of a  
 dreaui 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850113001:1272/pct:31.783573627085694,11.50006318716037,31.086991738214806,83.88727410590168/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850113001:1272/pct:31.783573627085694,11.50006318716037,31.097791457422108,83.89148658325962/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -202,7 +202,7 @@ iccounianie, mat i imruiy Know now to realize it,
 jr to persuade aiysell that 1 aui not under the lllu  
 lion of a dream.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661381:1850113001:0548/pct:41.995458416122624,35.73600630701656,14.235026965654273,4.527536884784323/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661381:1850113001:0548/pct:41.995458416122624,35.74351466005932,14.249219415271076,4.523782708262942/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -225,7 +225,7 @@ turn them. The thing ia ao unaccountable that I hardly know
 bow to realize it, or to perauade myaelf that I am not under  
 the illusion of a dream.&quot; . . 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1850113001:0445/pct:48.83113311331133,57.96870009581603,15.401540154015402,4.524646012988396/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1850113001:0445/pct:48.83113311331133,57.97579757975797,15.41987532086542,4.524646012988396/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -251,7 +251,7 @@ alize it or to persuade myself that I am not under the
 illusion of a dream.&quot;  
 osition ea a ee o tuat oo ont th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743038:1851022401:0290/pct:100.57813016187644,99.78288195634785,55.38486950776346,15.003999542909382/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743038:1851022401:0290/pct:33.52604338729215,33.26096065211595,18.461623169254487,5.001333180969794/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -277,7 +277,7 @@ that I am not under the illusion of a dream &quot;
 I regard it aa decidedly fortunate fer our country that  
 circumstances arose whilst Washington wae yet at th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851022701:0235/pct:62.625928984310484,81.09484404837683,15.755573905862923,6.174411203055379/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851022701:0235/pct:62.636939168731075,81.10333121154254,15.750068813652629,6.174411203055379/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -312,7 +312,7 @@ that I hardly know how to realize it. or to per*
 ! snade my self that I ain not under the i!!u-io:i  
 i of a dream.1’ I NION
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215853:1851022801:0455/pct:85.17769430800347,51.306986688737155,12.722719830492151,9.26270777294986/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215853:1851022801:0455/pct:85.16949152542372,51.30344827586207,12.724704673857216,9.264367816091953/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -349,7 +349,7 @@ them. The thing is so unaccountab e thai I hard­
 ly know howjo realize it, or to persuade myself that  
 I am not under the illusion of a dream.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_lightningbolt_ver03:data:sn83016794:00415662397:1851031401:0060/pct:25.463239689181112,1.7766826611334456,35.77405857740586,120.6458306315653/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_lightningbolt_ver03:data:sn83016794:00415662397:1851031401:0060/pct:19.100283963533105,1.3357541174944885,26.842026602899416,90.48113085202957/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -407,7 +407,7 @@ that I hardly know how to realise it, or to
 persuade myself that I am not under the illusion  
 of a dream.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:0041566140A:1851092401:0307/pct:81.97020798201237,41.23642809660979,14.362001124227094,4.61998670507423/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:0041566140A:1851092401:0307/pct:81.97020798201237,41.24381416648202,14.366685403784897,4.61629367013812/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -507,7 +507,7 @@ In writing to Gen. Knox, he saya­
 &quot;I do assure you that even at this moment  
 when I reflect upon the present aspect of ou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_gary_ver01:data:sn87056600:00202191502:1889050101:0164/pct:58.099945085118065,35.760619376438584,16.378363536518396,5.189370161121573/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_gary_ver01:data:sn87056600:00202191502:1889050101:0164/pct:43.58094191953865,26.825695752249423,12.28889194013456,3.8920276208411804/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

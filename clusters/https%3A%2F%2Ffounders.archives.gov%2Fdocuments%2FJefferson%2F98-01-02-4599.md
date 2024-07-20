@@ -265,7 +265,7 @@ report, as is required Ivy law.
 Til: JEFFERSON, Rector.  
 October 5, 1824
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183980:1824120201:0237/pct:16.993569131832796,3.229650816350852,31.012861736334404,91.83649147896556/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183980:1824120201:0237/pct:16.990837485934737,3.229265967588179,31.013234742538714,91.82952017794724/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -502,7 +502,7 @@ as is icquired bv law.
 TH J^FFRRSON, Rector.  
 October 5, 1624
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025001:0041421633A:1824120401:0546/pct:44.553483807654565,1.2467076382791922,54.00252348240572,95.39069359086918/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025001:0041421633A:1824120401:0546/pct:44.54723857583404,1.2465981915547362,53.999626203158584,95.38524566177976/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -752,7 +752,7 @@ he Bursar /vd Proctor, ate given with this re*
 port, as is. icuuu&#x27;edbv law.  
 TH&quot; JEFFERS OX, Rec
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348914:1824120901:0411/pct:57.02878756041185,9.722026245237759,36.7304055473839,83.58967122901086/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348914:1824120901:0411/pct:57.016806722689076,9.720654627539503,36.72794117647059,83.58140519187359/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -996,7 +996,7 @@ are given with the report, as isiequired by
 law. TH : JEFFERSON, It. :et or.  
 October 0, 1644
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:0039334880A:1824121001:0139/pct:52.299936988027724,4.303908651734739,31.358958202058393,89.03528033962816/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:0039334880A:1824121001:0139/pct:52.288954220915585,4.30327868852459,31.35762284754305,89.0259074941452/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1497,7 +1497,7 @@ been in further securing the sums which
 had not yet been secured. The receipts  
 from this resource, since the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jumboshrimp_ver01:data:sn84025997:00414183633:1824121701:0083/pct:58.902575587905936,12.450415866922585,34.191862635311686,81.30518234165068/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jumboshrimp_ver01:data:sn84025997:00414183633:1824121701:0083/pct:58.89158425079306,12.448822927328557,34.19170243204578,81.29904469464347/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1638,7 +1638,7 @@ On this occasion also, it seems, that we have
 been so unfortunate as to iniu/t the American  
 peop&#x27;e, by importing professors for our Un
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn85025230:00414184108:1824122501:0012/pct:59.26851025869759,68.03947849396856,16.87778768956289,9.6259290849275/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn85025230:00414184108:1824122501:0012/pct:59.25793792365323,68.03118908382066,16.88072303484362,9.628817413905134/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

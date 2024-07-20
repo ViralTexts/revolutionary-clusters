@@ -93,7 +93,7 @@ readers, and which we could wish might
 be read and weighed by all our country­  
 men.as well as those residing in the sece
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016179:00296026189:1861080101:0526/pct:27.155727155727156,55.18262586377098,10.902739474168046,11.09857565928642/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016179:00296026189:1861080101:0526/pct:27.155727155727156,55.18732665820524,10.921125206839493,11.103276453720678/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -126,7 +126,7 @@ In a city like this, where all have done so
 nobly, and have stood shoulder to shoulder  
 with us in the great fight, to be the banne
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775605:1863101901:0071/pct:157.45341614906832,197.77879202799332,44.33229813664596,13.996652974288757/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775605:1863101901:0071/pct:39.370995923121725,49.44469800699833,11.08522616967579,3.4991632435721893/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -153,7 +153,7 @@ dication to see the farmers of the country
 etlis thel mener in Conlederate bonds.  
 A Bond was advertised for sale in this pape
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_kings_ver01:data:sn83025813:00415667115:1864021801:0046/pct:200.56671818650182,316.0087096468806,61.360123647604325,28.931174855628136/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_kings_ver01:data:sn83025813:00415667115:1864021801:0046/pct:50.15459933006957,79.00217741172015,15.343983509404792,7.232793713907034/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -273,7 +273,7 @@ And to decline when these motives urge
 Is infamy beneath a coward&#x27;s baseness.  
 Had we lived in the troublous time
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_faribault_ver01:data:sn90059522:00206538685:1893012201:0218/pct:62.04564666103128,45.66131292443678,10.721329952099182,2.1774280478602996/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_faribault_ver01:data:sn90059522:00206538685:1893012201:0218/pct:62.0550389781159,45.664906040027304,10.71663379355687,2.173834932269771/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -306,7 +306,7 @@ And to decline when these motives urge,
 Is infamy beneath a coward&#x27;s baseness,&quot;  
 I have the honor to be your obedient servant
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_elephanttree_ver01:data:sn94051692:00211106153:1898061101:0350/pct:49.02580305423907,39.1312912439673,18.549236440231702,27.085590465872155/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_elephanttree_ver01:data:sn94051692:00211106153:1898061101:0350/pct:32.69256089532587,26.09081059785285,12.363396971691902,18.053777208706787/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

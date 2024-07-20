@@ -113,7 +113,7 @@ sident of the United States (hall, from time to
 time, order or inftruift.  
 And be it further enacted, That there (hall be, i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789072901:0003/pct:3.6200405444540977,16.458613405031688,23.921227917752677,21.25984251968504/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789072901:0003/pct:3.627280625543006,16.468215863260994,23.9429481610194,21.255041290570386/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -179,7 +179,7 @@ whenever the said principal officer
 shall be removed from offié: by the  
 President of the United Sattes, ori
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789080601:0434/pct:9.334298118668595,31.076923076923077,19.609261939218523,43.935222672064775/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789080601:0434/pct:9.342337996462454,31.087719298245613,19.601222061424668,43.94601889338731/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -219,7 +219,7 @@ oufinefs of the said department in such man­
 ner, as the President of the United States lhall  
 from time to time order or inftrudt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789081901:0004/pct:71.44498707268026,6.991807963421604,23.987359954036197,20.38483520670604/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789081901:0004/pct:71.4593507612755,6.996570775385788,23.987359954036197,20.38483520670604/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -350,7 +350,7 @@ manner, as The President of the United
 States shall from time to time order or  
 inftru&amp;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789092401:0461/pct:5.738295318127251,16.963418582065394,21.464585834333732,31.660731628358693/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789092401:0461/pct:5.746298519407763,16.974209560807164,21.480592236894758,31.660731628358693/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -462,7 +462,7 @@ for the intercft of the proprietors at large, that all she
 lands of the purchase should be divided and allotted as immedi­  
 ately as may be—And in order to accommodate them generally
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789121601:0004/pct:71.6933445661331,25.610459527014036,23.05532153889357,16.208421457412037/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789121601:0004/pct:71.70738556585229,25.61526629494328,23.05532153889357,16.218034993270525/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -512,7 +512,7 @@ the late Congress, and he shall report from time to time, all
 such settlements as have been made by him, for the mfpe&amp;iori  
 and revision of the Comptroller of the Treasury. The com
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792052601:0001/pct:63.90906220397853,21.251993620414673,27.78654878433849,22.707336523125996/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792052601:0001/pct:63.92485001578781,21.26196172248804,27.818124407957058,22.702352472089313/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -598,7 +598,7 @@ rn&#x27;f.ioner of army accounts, wh c.i arc f-.&#x27;t foredo­
 fed by the acts of limitation of the late CongrelV,  
 and he fioll
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792062501:0004/pct:9.641959798994975,17.019607843137255,20.8856783919598,10.96078431372549/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792062501:0004/pct:9.641959798994975,17.019607843137255,20.8856783919598,10.980392156862745/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -744,7 +744,7 @@ hending deferterj, printing, purchasing maps,
 and&#x27; other contingencies the lum of forty­  
 ty thousand d.-llats.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800071501:0002/pct:42.448680351906155,58.777633289986994,16.739980449657867,6.534460338101431/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800071501:0002/pct:42.460899315738025,58.78576072821846,16.739980449657867,6.546651495448635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -851,7 +851,7 @@ word-, -&lt; Be it enacted, fee. that there
 &quot; States fiiall affiga to the faid depart- &#x27;  
 &quot; n.ent; and funhermore that the lai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803031801:0001/pct:40.97327829676298,12.174759983303186,19.0527916576146,19.22916376791429/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803031801:0001/pct:40.987761604750524,12.184035990909512,19.0527916576146,19.233801771717452/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -878,7 +878,7 @@ action confers too mug; honor on the Executive,
 tor him to have any w to dee line the merit.  
 “ Gnaw then, Vip&lt;rr ; Gm v tfcr fie ” &quot;Let you
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809112101:0229/pct:58.08635199414563,39.49987861131343,17.65459202341749,6.700655498907502/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809112101:0229/pct:58.07572708981159,39.495084354897436,17.65745991098104,6.7038880122992275/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1058,7 +1058,7 @@ counts,” passed the third day of March, eigh­
 teen hundred and seventeen, be, and Lereby ure,  
 repealed, from and after the tlicrteth day o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1822081301:0545/pct:23.387914794957254,27.635609129532654,16.50485436893204,9.119652208279815/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1822081301:0545/pct:23.392745012800077,27.635609129532654,16.519345022460513,9.129532654876/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1163,7 +1163,7 @@ oath? “ W ell and faithfully to execute the trust committed
 to him.” What is that trust? Obedience to the instruc­  
 tions ol the President in all cases where the Constitution i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184054:1832021801:0366/pct:49.14756847400783,21.72956320827374,15.092230296254892,7.866651996919353/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184054:1832021801:0366/pct:49.14070141120581,21.727172717271728,15.094779004238275,7.869453612027869/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1200,7 +1200,7 @@ to the instructions of the President in all cases
 where the Constitution is not to be violated.  
 1 have, Mr. President, been thirty nine year
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184340:1832022101:0079/pct:34.34128336172629,39.70110461338532,14.69335604770017,11.371020142949968/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184340:1832022101:0079/pct:34.33640880056778,39.69680563075257,14.696001892595222,11.373398303555314/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1269,7 +1269,7 @@ tion, the Secretary, under the oath he
   
 takes, must perform- What is the oath? 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn85026864:00414184510:1832022401:0106/pct:5.766688697951091,20.271617243957138,15.482485128883013,13.979566409170197/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn85026864:00414184510:1832022401:0106/pct:5.765735998678341,20.269091815123957,15.485434219946033,13.981977492629044/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1310,7 +1310,7 @@ tary can do uno act without the direction of the
 President, and whatéver he directs, (it agreeably  
 to the Constitution,) the Secretary, uader th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1832022801:0033/pct:8.212007197775232,23.054089709762533,16.01504989366923,8.454265611257696/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1832022801:0033/pct:8.217460057800317,23.061418938727645,16.025955613719397,8.446936382292582/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1426,7 +1426,7 @@ pal officer shall conduct the business ol the said Depart­
 iiient. in such manner as the President of the U. States  
 niiall Irom time to time aider or instruct
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1833101501:0187/pct:64.52840445773307,25.609485815602838,14.732264202228867,7.86790780141844/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1833101501:0187/pct:64.51963582008425,25.606648199445985,14.734791864836708,7.87072945521699/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1530,7 +1530,7 @@ Department ol War, who shall perform and execute such
 duties as shall from lime to time be enjoined on, or en­  
 trusted to him by the President oj the United States.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1833121901:0263/pct:80.041011619959,25.99645704162976,14.818865345181134,5.325509300265722/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1833121901:0263/pct:80.0300710770913,25.993579098859737,14.821396026972845,5.328609911804864/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1781,7 +1781,7 @@ such duties as shall, from time to time, be enjoined
 on or entrusted to him by the President  
 af the United States.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82014039:00415660972:1841081401:0103/pct:33.92044620578306,85.89648993359334,16.145603992367533,3.1305997681037208/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82014039:00415660972:1841081401:0103/pct:33.92044620578306,85.90351709356663,16.145603992367533,3.1305997681037208/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1800,7 +1800,7 @@ such duties as shall, from time to time, be en­
 joined on or entrusted to him by the President  
 of the United States.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1841081401:0842/pct:33.47940403155127,89.31569575171712,15.337423312883436,3.243449503943017/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1841081401:0842/pct:33.4910896874087,89.32417535826337,15.331580484954719,3.239209700669889/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1896,7 +1896,7 @@ and exceute such uties ae shall from time to rlme be ene
 on or entrusted to him by the President of the  
 United States,&quot; ke, this Court could nat undertake t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271742976:1848011301:0075/pct:105.44918998527245,212.8479411088107,50.1227295041728,20.013802622498275/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271742976:1848011301:0075/pct:35.14972999509082,70.94931370293689,16.707576501390935,6.671267540832758/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1922,7 +1922,7 @@ tary for the Department of War, who Khali perforin and ex­
 ecute such duties as shull from time to time be enjoined on or  
 entrusted to him by the President of the United States,&quot; &amp;c.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848011501:0049/pct:64.1120960823563,40.142035847142374,15.94223620245925,5.997069101566903/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848011501:0049/pct:64.1120960823563,40.142035847142374,15.951768182251454,6.008341787848044/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1959,7 +1959,7 @@ e I&#x27;o .1 &lt; tflii e. if is provided &quot; that flu Postmaster (!eneI
 sli.dl be subject to the direction of the President of the  
 nitod States in performing the duties of his office}&quot;, bu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:0041566123A:1854072201:0077/pct:33.22544100987215,78.93223305826457,15.81162000323677,10.440110027506877/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:0041566123A:1854072201:0077/pct:33.23623024221827,78.93223305826457,15.80083077089065,10.452613153288322/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1997,7 +1997,7 @@ States, or such other nutters respecting mili­
 tary or t aval nffiirs as tho Presidont of the  
 Uuited States shall assign t&lt;?s ? id Departmen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kuvasz_ver02:data:sn83045462:00280654061:1855102601:0268/pct:18.616119586993374,23.74005305039788,16.381568808753276,6.774127729034891/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kuvasz_ver02:data:sn83045462:00280654061:1855102601:0268/pct:18.61997226074896,23.74005305039788,16.400832177531207,6.77667822893287/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2031,7 +2031,7 @@ with military rank by Congress, which body is alone
 authorized to make rules for the Government and regula­  
 tion of the army; and rank is the principal means o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743221:1855110301:1008/pct:205.27404343329886,38.985455835402625,46.39779386418476,23.152418115170864/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743221:1855110301:1008/pct:68.42468114443295,12.995151945134209,15.465931288061588,7.717472705056955/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2111,7 +2111,7 @@ of the (.&#x27;sited States shall from time to time order or i
 instruct.&quot;  
 This section provides for tbe appointment of tbe priori- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661083:1857021001:0198/pct:32.085732565579015,75.60180541624875,17.610364683301345,10.631895687061183/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661083:1857021001:0198/pct:32.09639582000427,75.60598462052825,17.60503305608872,10.636074891340689/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2138,7 +2138,7 @@ the bepartment of State, and the head of it Secretary of State.
 There wes also es abll hed wnother executive dputment, de­  
 nomintted the Depa to ent of the havy the chief officer of whic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530662:1860091501:0117/pct:4.716827158478864,166.29711751662973,48.35971927533866,14.774186019372156/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530662:1860091501:0117/pct:1.5722757194929546,55.432372505543235,16.119906425112887,4.924728673124052/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2173,7 +2173,7 @@ State, and the head of it Secretary of State. There was
 alo established another executive department, depomt­  
 asted the Department of the Navy, the chief officer o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743361:1860092301:0253/pct:11.644908616187989,98.52538946366988,46.96257615317668,23.332144131287905/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743361:1860092301:0253/pct:3.8816362053959965,32.84179648788996,15.654192051058892,7.777381377095969/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2248,7 +2248,7 @@ prec tve the originals and shall as soon as conveulenfty muay
 after he shall receive the same, cause every such law, or  
 der and resolution to be published in at least three p
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743373:1861022601:0506/pct:2.706645056726094,176.4857881136951,46.27228525121556,27.558701269520277/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743373:1861022601:0506/pct:0.902215018908698,58.828596037898365,15.42409508373852,9.186233756506759/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2274,7 +2274,7 @@ gress assembled, That there shall be an Executive Depart
 ment to be dent minated the Post Office Depart aent, and  
 there shall be a principal officer therein, to be called the Post
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743373:1861022601:0506/pct:3.5494327390599674,246.33187282327827,45.656401944894654,13.638916975620717/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743373:1861022601:0506/pct:1.1831442463533226,82.1106242744261,15.218800648298217,4.546305658540239/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2296,7 +2296,7 @@ the said ilepartment in such manner as the
 Pre.&#x27;ident of the Conflederate States shall,  
 from tite to time, order or instruct. Sai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_babytate_ver01:data:sn84026897:00294550707:1861022701:0162/pct:1.4519293655984304,12.753874290114544,12.060170045781556,3.9368562903070554/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_babytate_ver01:data:sn84026897:00294550707:1861022701:0162/pct:1.4519293655984304,12.753874290114544,12.064530194026597,3.943273333975038/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2343,7 +2343,7 @@ ently may be, after he shall receive the same,
 cause every such law, order and resolution to be  
 published in at lea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_riel_ver01:data:sn82015753:00212475269:1861022801:0420/pct:204.81727574750832,34.42546583850932,41.29983388704319,44.953416149068325/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_riel_ver01:data:sn82015753:00212475269:1861022801:0420/pct:68.27242524916943,11.475155279503106,13.766611295681063,14.98447204968944/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2473,7 +2473,7 @@ custody of the books, records and papers of the de­
 rnrtment.Tbe legal relation is analogous to that of principal  
 ana agent, it is me i resilient upon whom tne con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_ewing_ver01:data:sn83025925:00280776221:1867121601:0725/pct:47.552195824334056,92.62614998606078,19.69042476601872,10.496236409255646/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_ewing_ver01:data:sn83025925:00280776221:1867121601:0725/pct:35.685992077781776,69.47309729579035,14.782138998919697,7.8756621131865066/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2518,7 +2518,7 @@ the United States,&quot; shall have Ihe charee
 and custody of the books, records and  
 papers ot the department
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038521:00200293368:1867122001:0587/pct:66.54582366589327,33.526264060281754,14.080626450116009,17.265479960685813/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038521:00200293368:1867122001:0587/pct:49.920232052211745,25.150158348804194,10.558375634517766,12.9518401223108/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2635,7 +2635,7 @@ duties us shall from tlmo to tlmo bo en
 joined on or intrusted to him by tho  
 fresident or tno united state?;&quot; an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn83032011:00237287988:1868010301:0109/pct:110.73596358118361,43.533969010727056,14.51062215477997,9.430870083432659/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn83032011:00237287988:1868010301:0109/pct:83.10874928829,32.65792610250298,10.893907762383755,7.076877234803337/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2674,7 +2674,7 @@ of said department in such manner as the
 President of the United States shall, from  
 time to time, order or instruct,&quot; ete. (Ac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741947:1868011701:0067/pct:4.884630953987316,148.34631241410904,41.06058561597625,22.501145213009618/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741947:1868011701:0067/pct:1.628210317995772,49.44877080470301,13.686861871992084,7.500381737669874/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2705,7 +2705,7 @@ time to time, order or instruct,&quot; etc.
 This law has not yet been repealed,  
 and is still in full force. It settles th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038521:0020029337A:1868012101:0071/pct:54.166666666666664,70.24401015788892,14.262820512820513,10.809318758970962/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038521:0020029337A:1868012101:0071/pct:40.63820486667638,52.688528210224135,10.69503132740784,8.1042287733245/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2886,7 +2886,7 @@ States, according to the true intent and meaning of that
 a of the Constitution of the United States, and in  
 e with the settle
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_euclid_ver01:data:sn83030214:00206530881:1868032401:0563/pct:55.42279411764706,167.67566386187303,47.395833333333336,46.82548355370998/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_euclid_ver01:data:sn83030214:00206530881:1868032401:0563/pct:18.47426470588235,55.89188795395767,15.79861111111111,15.608494517903326/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2918,7 +2918,7 @@ cle of the Constitution of the United States, according
 to the true intent and meaning of that provision of the  
 constitution of the United States, and in accordanc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743610:1868032401:0791/pct:58.044009779951104,168.50671522877306,45.59087204563977,20.874117914864556/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743610:1868032401:0791/pct:19.3480032599837,56.16890507625768,15.19695734854659,6.958039304954853/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2967,7 +2967,7 @@ ing to the true intent anil meaning of
 that provision of the Constitution of the  
 United States, and in accordance with th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038521:0020029337A:1868032401:0288/pct:53.104671791839145,67.65001676164934,14.340626848018923,19.979886020784445/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038521:0020029337A:1868032401:0288/pct:39.84617660109451,50.74309978768577,10.767637923384115,14.984914515588335/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3070,7 +3070,7 @@ tion of the United States, and in ac
 cordance with the settled and uniform  
 practice of each and every Presi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn85042591:00280774972:1868032701:0138/pct:36.64951400800457,26.0046754981632,80.78902229845626,351.77557608816653/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn85042591:00280774972:1868032701:0138/pct:9.163688348820585,6.5011688745408,20.200142959256613,87.94389402204163/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3198,7 +3198,7 @@ take it; having shown that he agreed with the prest
 dent to take it; having put in testimony that the  
 two joined togeth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743622:1868040201:0031/pct:148.5659039639059,89.96011396011396,51.4824363519175,25.344729344729345/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743622:1868040201:0031/pct:49.52196798796863,29.98670465337132,17.160812117305834,8.448243114909781/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3238,7 +3238,7 @@ upon this law, the President had the right to remove
 Mr. Stanton according to his pleasure.  
 At this point the attempt of the counsel to spea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743622:1868042601:0327/pct:98.18121693121694,58.422273781902554,50.595238095238095,30.696055684454755/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743622:1868042601:0327/pct:32.727072310405646,19.474091260634186,16.865079365079364,10.232018561484919/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3269,7 +3269,7 @@ Stanton. By the terms of that law, by the commission
 that was issued to Mr. Stanton to run during the pleasure  
 of the President, for the time being, framed upon thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_euclid_ver01:data:sn83030214:00206530881:1868042701:0805/pct:52.32449297971919,229.2164383561644,47.737909516380654,18.71780821917808/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_euclid_ver01:data:sn83030214:00206530881:1868042701:0805/pct:17.441497659906396,76.40547945205479,15.912636505460219,6.239269406392694/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3311,7 +3311,7 @@ and to be called the chief clerk of the Department
 of War, and whenever the said principal officer shall  
 be removed from office by the President of the Unite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743622:1868051201:0529/pct:147.6096599310005,168.04005063873865,49.958928864793826,19.80665208884797/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743622:1868051201:0529/pct:49.20321997700017,56.013350212912876,16.652976288264608,6.602217362949323/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3362,7 +3362,7 @@ ucparimenl of War; and whenever the &lt;al&#x27;f prin­
 cipal &lt;&amp;c&gt;r thall he removed from offlte by tht  
 J&#x27;rrtilent of the United State*, and In anv othe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kedzie_ver02:data:sn82014064:no_reel:1868051301:0001/pct:10.984848484848484,41.69448418375457,8.825757575757576,7.296137339055794/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kedzie_ver02:data:sn82014064:no_reel:1868051301:0001/pct:10.984848484848484,41.69845811476713,8.835227272727273,7.304085201080909/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3404,7 +3404,7 @@ New Y
 vacancy have the clrse and custody or all records,  
 books and papers of the bepartment. On the 27th o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743622:1868051401:0553/pct:11.303060217176704,6.1303116147308785,91.46100691016782,282.08498583569406/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743622:1868051401:0553/pct:3.767686739058901,2.0434372049102927,30.48700230338927,94.02832861189802/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3446,7 +3446,7 @@ New o
 vacancy have the eorfe and custody of all records,  
 toes und Daper of the bepartment. On the 27th o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743622:1868051401:0555/pct:10.345947701802826,5.285843920145191,94.54279681663148,281.8058076225045/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743622:1868051401:0555/pct:3.448649233934275,1.7619479733817303,31.514265605543827,93.9352692075015/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3481,7 +3481,7 @@ of the Department of War, and whenever
 the said principal officer shall be removed  
 from office by the President of the Unite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774765:1868051401:0159/pct:77.40350877192982,170.8201292939536,48.56140350877193,33.31220687032577/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774765:1868051401:0159/pct:19.36106722836581,42.7050323234884,12.146743900298402,8.328051717581442/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3565,7 +3565,7 @@ forces, ships or warlike stores of the United
 States, or to such other matters respecting mill-­  
 tary or naval affairs as the President shoul
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743889:1874100301:0043/pct:11.605512203220986,68.42349663338751,46.20620953013449,36.13884374274437/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743889:1874100301:0043/pct:3.8685040677403286,22.80783221112917,15.402069843378161,12.046281247581456/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3597,7 +3597,7 @@ salo principal oficer, the Secretary of State-shall con
 the bustness of said department in such a mannero  
 as the President of the United States shall from time to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271743944:1877013101:0338/pct:56.181998021760634,7.791006820020807,99.3570722057369,287.6777251184834/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271743944:1877013101:0338/pct:18.727332673920213,2.597002273340269,33.119024068578966,95.89257503949447/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3956,7 +3956,7 @@ the active control of foreign affairs In
 the hands of the President and Secretary  
 of State. This harmonizes with the Con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665581:1896013101:0323/pct:39.848003629764065,58.11437403400309,16.696914700544465,15.885282500429332/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665581:1896013101:0323/pct:29.892229154849687,43.585780525502315,12.524106636415201,11.918255194916709/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4078,7 +4078,7 @@ rect Congress has erred in trying to coerce
 the diplomatic policy of the President,  
 Congress may pass resolutions of sympathy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:00271740505:1898041401:0426/pct:29.370057267521133,64.64625988242449,12.61248977365694,12.274478005270627/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:00271740505:1898041401:0426/pct:29.37460230888101,64.64625988242449,12.626124897736569,12.274478005270627/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

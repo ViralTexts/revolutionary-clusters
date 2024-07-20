@@ -65,7 +65,7 @@ and your religious Affociation, affarances of my
 high refpeét and efteem,  
 THOMAS JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1802013001:0061/pct:32.78468899521531,6.9250465549348235,40.15311004784689,85.12569832402235/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1802013001:0061/pct:32.791068580542266,6.9289261328367475,40.14673046251993,85.13733705772812/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -151,7 +151,7 @@ for yourselves and your religious aflociation,
 aflurances of my high.refpeét and esteem.  
 Tu;: JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802020901:0022/pct:60.89437162683115,56.07642308449872,16.43793369313801,20.45499310616506/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802020901:0022/pct:60.90465176047289,56.07970586304248,16.443073759958878,20.45827588470882/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -199,7 +199,7 @@ Creator of man, and teader yuu, for yourlclves
 and your relizions Afluciation, affurances of m  
 high refpet &amp; eiteem, T jEFI&quot;ERﬁO&#x27;}
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1802022701:0077/pct:72.93110476966979,28.530891267896298,21.01508357113738,22.107571262737004/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1802022701:0077/pct:72.93110476966979,28.53949008985769,21.02187797255062,22.098972440775615/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

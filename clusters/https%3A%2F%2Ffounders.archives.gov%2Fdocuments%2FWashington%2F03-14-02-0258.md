@@ -42,7 +42,7 @@ of abode, and punishment, be published in the
 newspapers in and about the Camp, and in the  
 State of Arkansas.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn85038524:0021247048A:1863022001:0202/pct:203.7453183520599,87.76346604215456,116.76029962546816,99.18032786885246/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn85038524:0021247048A:1863022001:0202/pct:50.960187353629976,21.94086651053864,29.20374707259953,24.795081967213115/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -66,7 +66,7 @@ ent be published in the newspapers in and about the
 cunp, and of the particular State from which the offende  
 came, or where he ususlly resides; after which, it shk d
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basic_ver01:data:sn83030213:00206530741:1863061301:0288/pct:250.14347202295554,76.93459810284573,48.152797704447636,16.512730903644535/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basic_ver01:data:sn83030213:00206530741:1863061301:0288/pct:83.38115734098517,25.64486603428191,16.05093256814921,5.504243634548177/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -104,7 +104,7 @@ ops for any officer to assoclate.witb him.” .
 The Missouri penitentiary having been des­  
 &#x27; ignaled as the ploce of Imprisonment, Cole
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_halsted_ver02:data:sn82014064:no_reel:1865071301:0003/pct:32.62984033767664,88.21926105390672,8.919067718847495,2.0442156268927922/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_halsted_ver02:data:sn82014064:no_reel:1865071301:0003/pct:32.64360433106992,88.22683222289521,8.909891723251972,2.05557238037553/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -123,7 +123,7 @@ ishment, be published in the newspapers of
 the city of Nashville, and of the particu­  
 lar State from which the offender come
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn85042437:00280775563:1865121201:0360/pct:95.79015544041451,118.83261353226017,38.73056994818653,7.9047245124983645/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn85042437:00280775563:1865121201:0360/pct:23.959177061396403,29.708153383065042,9.687348128948647,1.9761811281245911/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -142,7 +142,7 @@ ment, be published in the newspapers in and
 about San Antonio and Indianola, Texas, and of  
 the particular State from which he came, o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deltaair_ver01:data:sn86053573:00237288932:1873010301:0012/pct:157.54451733833176,148.99753781217024,43.01780693533271,6.823777699613085/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deltaair_ver01:data:sn86053573:00237288932:1873010301:0012/pct:39.40459446788561,37.24938445304256,10.759493670886076,1.7059444249032711/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -164,7 +164,7 @@ ment, be published in the newspapers in and
 about San Antonio and Indianola, Texas, and of  
 the particular State from which he came, o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deltaair_ver01:data:sn86053573:00237288932:1873010401:0016/pct:158.9648798521257,108.27439886845828,42.513863216266174,10.325318246110326/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deltaair_ver01:data:sn86053573:00237288932:1873010401:0016/pct:39.75959315765141,27.06859971711457,10.6333795654184,2.5813295615275815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

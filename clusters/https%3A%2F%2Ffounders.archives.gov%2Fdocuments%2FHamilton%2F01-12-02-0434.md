@@ -51,7 +51,7 @@ ed therein.
 BE i tenac ted by the Sznatean d K o us i  
 of the Unitec
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792022301:0001/pct:7.8425389075373815,13.452219422368676,20.689655172413794,17.91044776119403/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792022301:0001/pct:7.857796765334147,13.461911223105252,20.689655172413794,17.924985462298896/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -85,7 +85,7 @@ therein.
   
 BE it enabled by the Senate aud House of Representatives of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792022501:0001/pct:7.385103011093502,5.861244019138756,76.19651347068145,27.352472089314194/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792022501:0001/pct:7.408874801901743,5.861244019138756,76.18066561014263,27.36244019138756/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -134,7 +134,7 @@ the second section of the act, entitled
 “ An act making alterations in the Trea­  
 sury and War Departments,” passed ti
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898012:1822062201:0266/pct:58.21812596006144,27.66334084325716,16.794674859190987,4.876086256839395/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898012:1822062201:0266/pct:58.20322498080368,27.65888978278359,16.796775019196314,4.879324215607402/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -176,7 +176,7 @@ wise. under special directiona from me.&quot;
 Through all periods since 1792, as well aa before,  
 and ftotn the first orgsnualion of the Treasury Depart
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1839040301:0869/pct:67.08796764408494,65.03496503496504,15.638692281766094,13.322270949389594/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1839040301:0869/pct:67.08796764408494,65.03496503496504,15.644309628131671,13.330172652206551/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -286,7 +286,7 @@ the Secretary.
 section of the act entitled &quot;An act making alter­  
 ations in the Treasury and War departments,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016867:00295877637:1841110601:0853/pct:130.28112449799198,166.49329318368464,59.59839357429719,7.117437722419929/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016867:00295877637:1841110601:0853/pct:32.570281124497996,41.62332329592116,14.899598393574298,1.7793594306049823/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -327,7 +327,7 @@ It enacts &quot;That the allowance now made upon
 a 4 the 10th day of June next, and, as a coinrouta4  
 tion arid equivalent therefor, there shall he after 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1858062401:0324/pct:3.1977796548811392,43.0836418874015,12.815252805599131,7.338839836703693/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1858062401:0324/pct:3.205824383572664,43.0836418874015,12.815252805599131,7.3420044938130955/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

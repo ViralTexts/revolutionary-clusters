@@ -302,7 +302,7 @@ dertake to pay to the complainantsorclaimants in
 {pecie, without deduttion, the amount of such  
 sums as shall be awarded to them respectively b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795071401:0470/pct:12.442669033880751,21.572139303482587,19.573901464713714,11.104477611940299/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795071401:0470/pct:12.442669033880751,21.5787728026534,19.573901464713714,11.107794361525706/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -469,7 +469,7 @@ to make compensation therefor.
 The government of the United States, voluntari­  
 ly foi bearing to make use of all the means in thei
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795082001:0002/pct:29.066736183524505,34.65181984377597,20.907194994786234,10.353997008475984/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795082001:0002/pct:29.066736183524505,34.66428452717301,20.933263816475495,10.345687219544624/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1093,7 +1093,7 @@ of another foreign prince or State,
 with whom the United States are at  
 peace.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661368:1849062201:0056/pct:45.070422535211264,32.51468232781634,14.490790899241604,11.553657234383342/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661368:1849062201:0056/pct:45.079451065366555,32.518241680014235,14.495305164319248,11.560775938779143/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1121,7 +1121,7 @@ the subjects, citizens, or property of another
 foreign prince or State, with whom the  
 United States is at peace.&quot; The 4th sectio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661368:1849063001:0084/pct:43.27311943920194,48.92841834547792,14.195200862766244,10.694384912130305/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661368:1849063001:0084/pct:43.27311943920194,48.92841834547792,14.204188011144064,10.697956850978711/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1309,7 +1309,7 @@ should undertake to pay to the claimants, in specle,
 without deduction, the amount of such sums as  
 should be awarded to them respectively by the com-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743749:1871052001:0668/pct:100.6907894736842,160.63358691949585,47.69736842105263,10.661973430225956/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743749:1871052001:0668/pct:33.56359649122807,53.544528973165285,15.899122807017545,3.5539911434086524/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1337,7 +1337,7 @@ to certain heavy penalties prescribed in the
 act. The thing is equally forbidden whether  
 the foreign State be at war or not. If th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:0027174402A:1878050201:0427/pct:199.68672712283595,97.09421112372304,47.38664468260511,25.698070374574346/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:0027174402A:1878050201:0427/pct:66.56224237427865,32.364737041241014,15.795548227535036,8.566023458191449/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1592,7 +1592,7 @@ use of the informer, and the other
 half to the use of the United  
 States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn87065532:00295878022:1884042501:1011/pct:184.66003316749587,259.48605795516676,51.243781094527364,74.95899398578459/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn87065532:00295878022:1884042501:1011/pct:46.16500829187397,64.87151448879169,12.810945273631841,18.739748496446147/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1622,7 +1622,7 @@ States are at peace.&quot; It is also true that due
 diligenco may be required of any Govern  
 ment in enforcing its laws; but there i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044838:1884051801:0409/pct:71.63720215219062,108.20575627679118,51.11452728670254,34.353949785670544/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044838:1884051801:0409/pct:17.912742648472037,27.051439069197794,12.781087833941957,8.588487446417636/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1666,7 +1666,7 @@ or prepares the means for any military expedition or ens­
 terprise, to he carried on from thence againet the terrig  
 tory or dominions of any foreign nrince or State, or o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_lorca_ver01:data:sn83030272:00175044875:1886020901:0465/pct:336.658749010293,193.70990455327805,62.31195566112431,12.767954936629636/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_lorca_ver01:data:sn83030272:00175044875:1886020901:0465/pct:84.21469597940187,48.42747613831951,15.587244999009705,3.191988734157409/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1695,7 +1695,7 @@ are at peace, or who issites or delivers a commissiont
 within the territory or jurisdiction of the United States,  
 for any vessel, to the intent that she may be so e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_lorca_ver01:data:sn83030272:00175044875:1886022101:0521/pct:329.9145299145299,153.98064314704965,69.77466977466977,18.669996877926945/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_lorca_ver01:data:sn83030272:00175044875:1886022101:0521/pct:82.47863247863248,38.49516078676241,17.443667443667444,4.667499219481736/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1796,7 +1796,7 @@ equipment thereof, shall be forfeited; one­
 half to the use of the informer, and the  
 other half to the use of the United States.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_forks_ver01:data:sn83045604:00202199161:1893060201:0180/pct:128.5608308605341,143.59295172557606,38.13056379821958,37.68115942028985/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_forks_ver01:data:sn83045604:00202199161:1893060201:0180/pct:42.853610286844706,47.864317241858686,12.710187932739862,12.560386473429952/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1857,7 +1857,7 @@ provides or prepares the means for, any military ex
 pedition or enterprise, to be carrled on from thence  
 ainst the territory or dominions of any foreig
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175042829:1895092701:0524/pct:70.20785219399538,29.10188679245283,50.80831408775982,11.290566037735848/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175042829:1895092701:0524/pct:17.558721601848287,7.275471698113208,12.706969580284944,2.822641509433962/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1946,7 +1946,7 @@ expedition or enterprise, to be carried on from
 thence against the territory or dominions of any  
 foreign Prince or State, or of any colony district o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jaguar_ver01:data:sn83030214:00175038875:1896013001:0536/pct:5.247013238618018,70.42474504090552,48.33710041976106,14.86047293511151/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jaguar_ver01:data:sn83030214:00175038875:1896013001:0536/pct:1.7490044128726725,23.474915013635176,16.11236680658702,4.953490978370503/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1964,7 +1964,7 @@ provides or prepares the means for any military ex
 pedition or enterprise to be carried on from thence  
 against the territory or dominion of any forelg
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175042854:1896022601:0749/pct:70.01499250374813,348.9075630252101,49.250374812593705,5.133689839572193/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175042854:1896022601:0749/pct:17.51359459966248,87.22689075630252,12.319519969998124,1.2834224598930482/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1998,7 +1998,7 @@ military expedition or enterprise, to
 be carried on from thence against the  
 territory or dominions of any foreig
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gecko_ver01:data:sn84020558:00202192002:1896082701:0403/pct:34.05077262693157,117.68355739400207,22.544150110375277,8.152361254739745/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gecko_ver01:data:sn84020558:00202192002:1896082701:0403/pct:25.573046119856393,88.26266804550156,16.929025131179234,6.118579800068941/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2021,7 +2021,7 @@ miltary expedition or enterprise, to be
 carrience on from thence, against the ter­  
 ritory of dominions of any foreign princ
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_endeavour_ver01:data:sn86063034:00414182197:1896092901:0270/pct:24.82783617252628,67.3742698390084,16.20152229068503,5.0719475708790425/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_endeavour_ver01:data:sn86063034:00414182197:1896092901:0270/pct:19.241573033707866,52.21567905778432,12.565543071161049,3.930806036069194/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2095,7 +2095,7 @@ The San Francisco Call
 During the recent southeaster half a dozen vessels reached port. Their canvas was soaked with sea spray and drenched by Tuesday&#x27;s rain. When the sun shone  
 out about noon yesterday every ship in the fleet hung out her sails to dry. The barometer is steadily rising and ship captains think the storm is over.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_carlsbad_ver01:data:sn85066387:00175037470:1896121701:0261/pct:1.3511365442695915,0.36253069816395744,81.71991734223494,98.49140451409193/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_carlsbad_ver01:data:sn85066387:00175037470:1896121701:0261/pct:1.3511365442695915,0.36642887771410754,81.73051449160175,98.49530269364207/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2123,7 +2123,7 @@ or dominions of any foreign prince or
 state colony district or people with  
 whom the United States are at peac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:206534631:1896121701:0449/pct:125.49486803519062,79.61292009938538,20.01466275659824,8.826990976853669/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:206534631:1896121701:0449/pct:83.7000366703337,53.079639074146726,13.348001466813349,5.884660651235778/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2251,7 +2251,7 @@ of any foreign prince, or state, colony, dis­
 trict or people with wnom the United States  
 are at peace,shall be deemed guilty of a hig
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_motocross_ver01:data:sn90059182:0039334104A:1896122301:0588/pct:24.07335907335907,76.07922803453529,16.1969111969112,9.979685119349924/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_motocross_ver01:data:sn90059182:0039334104A:1896122301:0588/pct:24.07979407979408,76.07922803453529,16.203346203346204,9.979685119349924/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2284,7 +2284,7 @@ of any foreign prince, or state, colony, dis­
 trict or people with wnom the United States  
 are at peace.shall be deemed guilty of a hig
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_orr_ver01:data:sn90059228:00280766434:1896122401:0437/pct:59.83224603914259,76.61012782694199,16.290773532152844,10.029498525073747/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_orr_ver01:data:sn90059228:00280766434:1896122401:0437/pct:59.84467225846536,76.61422484431334,16.284560422491456,10.029498525073747/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2316,7 +2316,7 @@ of any foreign power or state, colony, dis­
 trict or people with whom the United  
 States are at peace, shall be deemed guilt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_grace_ver02:data:sn83045604:00202199409:1896122901:0316/pct:94.0,99.55770850884583,37.86861313868613,28.359309182813817/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_grace_ver02:data:sn83045604:00202199409:1896122901:0316/pct:31.333333333333332,33.18590283628194,12.62287104622871,9.45310306093794/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2407,7 +2407,7 @@ enterprise to be carried on from
 thence against the territory or domin­  
 ions of any foreign prince or State, o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_agave_ver01:data:sn93061674:0028077456A:1898021901:0791/pct:15.625,193.3008526187576,57.03125,24.299634591961023/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_agave_ver01:data:sn93061674:0028077456A:1898021901:0791/pct:3.9087947882736156,48.3252131546894,14.267100977198696,6.074908647990256/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

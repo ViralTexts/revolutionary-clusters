@@ -737,7 +737,7 @@ a Revolution in South America; 1 vol
 “ Thoughts tending to ambition, they do plot  
 Unlikely wonders.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_collins_ver01:data:sn85026214:print00211110168:1867122201:0004/pct:45.177570093457945,31.177231565329883,9.738317757009346,0.55627425614489/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_collins_ver01:data:sn85026214:print00211110168:1867122201:0004/pct:45.191588785046726,31.1869340232859,9.738317757009346,0.5498059508408797/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -793,7 +793,7 @@ MIRANDAS SECOND ExPeDiTION.
 On his arrival at Barbadoes Genr Miranda  
 entered into an agreement with the Britis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175042854:1896012601:0341/pct:86.66169895678092,44.282681225356384,50.521609538002984,33.12101910828026/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175042854:1896012601:0341/pct:21.67753960857409,11.070670306339096,12.637465051258154,8.280254777070065/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

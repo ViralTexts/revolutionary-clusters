@@ -539,7 +539,7 @@ oretionan powers, the other by calling imiuedi­
 ateh a convention of all the States, to conclude  
 finally upon a general confederation. * * 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215804:1848011001:0036/pct:6.475563909774436,59.32013709169756,12.716165413533835,4.511435965587186/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215804:1848011001:0036/pct:6.47495536133822,59.31598825010491,12.718102935187796,4.513451764815592/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -558,7 +558,7 @@ will We mu&lt;t have one at all events, and a
 v goeousone. if we mean to succeed in the cor.-1  
 t&#x27;St. and be happy hereafter. * * * Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215804:1848011001:0036/pct:6.37218045112782,65.18150660977828,12.734962406015038,2.2102538994194587/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215804:1848011001:0036/pct:6.3715816182689595,65.17694782487061,12.736898161200388,2.21243064298037/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -588,7 +588,7 @@ kmg peace on Mich conditions as they think
 proper: of regulating trade. ♦ * * imjnv  
 stng duties * * ♦ coming monev. * * 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215804:1848011001:0036/pct:6.2593984962406015,67.38476603483248,12.603383458646617,6.721689865006645/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215804:1848011001:0036/pct:6.2588102621934025,67.38005315428731,12.605331579112239,6.723551079405045/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -606,7 +606,7 @@ of War. a President of Marine, a Financier
 These offices should He tilled with men ov the  
 tir^t abilities property and character *
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215804:1848011001:0036/pct:6.203007518796992,74.56109673358047,12.537593984962406,1.8185633349653774/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215804:1848011001:0036/pct:6.202424584155624,74.55588194153029,12.539548288068165,1.82076747330629/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -640,7 +640,7 @@ them, and give the worst construction to all they
 o. Held together by the slenderest ties, we are  
 ripening for a dissolution.&quot; It is foully unfair t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743038:1851032001:0422/pct:12.450396825396826,45.885602485901714,47.66865079365079,32.90367130855104/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743038:1851032001:0422/pct:4.150132275132275,15.295200828633904,15.889550264550264,10.96789043618368/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -658,7 +658,7 @@ the sober views of a politician,&quot; to be put forth as
 an index of the convictions of mature judgment, as  
 to the character of the Government of the federa-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743038:1851032001:0422/pct:12.632275132275133,89.88376107722408,47.0568783068783,6.847738519967775/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743038:1851032001:0422/pct:4.210758377425044,29.961253692408025,15.685626102292769,2.282579506655925/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -686,7 +686,7 @@ the federal constitution; and about the usual ex-­
 hibition of stupidity in reference to the general  
 principles of that instrument in the Courier an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743038:1851032001:0422/pct:12.648809523809524,247.77304638048108,46.676587301587304,23.075152491656116/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743038:1851032001:0422/pct:4.216269841269841,82.59101546016035,15.558862433862434,7.691717497218706/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -749,7 +749,7 @@ siens which have rendered us a happy and prosperous
 people, as well as a great and powerful nation.  
 e  o eeo an iio ene 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743038:1851032001:0422/pct:46.80886243386244,66.42881804580504,60.648148148148145,63.160317642996894/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743038:1851032001:0422/pct:15.602954144620812,22.14293934860168,20.21604938271605,21.053439214332297/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -804,7 +804,7 @@ tion for their schemes of finance. What more supplies
 were necessary, should be occasionally demanded of  
 the States, in the present mode of quetar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743038:1851032001:0422/pct:59.87103174603175,152.11186557716653,47.30489417989418,47.33571181954195/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743038:1851032001:0422/pct:19.957010582010582,50.70395519238885,15.768298059964726,15.778570606513982/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -822,7 +822,7 @@ ing &quot;prohibitions&quot; on all the articles of export,
 and granting bounties and premiums for  
 &quot;raising, exporting or importing,&quot; and all the di
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743038:1851032001:0422/pct:60.21825396825397,242.50201404074116,45.767195767195766,5.69685809644378/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743038:1851032001:0422/pct:20.072751322751323,80.83400468024706,15.255731922398589,1.898952698814593/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2063,7 +2063,7 @@ withstanding the efforts of the Com-
 mander-in Chief to preserve the unity  
 of the army
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn85029094:00237281858:1864052101:0679/pct:17.45249824067558,211.941070043939,51.16115411681914,20.625484621349187/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn85029094:00237281858:1864052101:0679/pct:4.3646603308694125,52.98526751098475,12.794790566701865,5.156371155337297/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2129,7 +2129,7 @@ to unite the different members together
 and direct the common forces to the in­  
 terest and happiness of the whole
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_juliet_ver01:data:sn85033413:00211101179:1875070701:0222/pct:269.3955623565417,72.4974867154962,49.273144605967865,11.833979606491456/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_juliet_ver01:data:sn85033413:00211101179:1875070701:0222/pct:67.34889058913542,18.12437167887405,12.318286151491966,2.958494901622864/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -329,7 +329,7 @@ And, springing from the bed of sloth, enjoy
 The cool, the fragrant, and the silent hour,  
 Tr? meditation due and sacred song
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1823061101:0539/pct:26.045834849036012,23.08601134215501,18.479447071662424,14.709357277882798/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1823061101:0539/pct:26.045834849036012,23.09388783868935,18.49763550381957,14.705419029615626/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -664,7 +664,7 @@ And printing from the bed of sloth, enjoy
 The cool, the fragrant, and the silent hour,  
 To meditation due and acred mng I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_kirby_ver02:data:sn83025661:00202197188:1836072101:0120/pct:26.266788766788768,14.696382428940568,17.643467643467645,1.8626184323858743/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_kirby_ver02:data:sn83025661:00202197188:1836072101:0120/pct:19.706914974813007,11.024978466838933,13.234620668600213,1.3996554694229113/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -834,7 +834,7 @@ To meditation due, and sacred song
 
 ---
 
-## [From _The American review : a Whig journal of politics, literature, art, and science_](https://archive.org/details/sim_american-whig-review_1849-05_9_17/page/n25/mode/1up?view=theater)
+## [From _The American Review: a Whig Journal Devoted to Politics and Literature (1848-1850)_](https://archive.org/details/sim_american-whig-review_1849-05_9_17/page/n25/mode/1up?view=theater)
 
 #### 1849-05-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -987,7 +987,7 @@ The cool, the fragrant, and the silent ha­
 To meditation due and sacred song?  
 For is there ought in sleep can chavm t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_drinksmall_ver01:data:sn84026923:00237288361:1867042401:0173/pct:10.0,75.76616861162613,40.63380281690141,10.426436906969135/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_drinksmall_ver01:data:sn84026923:00237288361:1867042401:0173/pct:3.3333333333333335,25.25538953720871,13.544600938967136,3.475478968989712/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1015,7 +1015,7 @@ Falrely luxuriant, will not man awake,
 And, springing from the bed of sloth, enjoy  
 The cool, the fragrant and the silent hour
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_itchweed_ver01:data:sn83030313:0027174383A:1873092901:1109/pct:242.0120266536649,237.29354140562705,49.61807248496668,18.145574666818543/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_itchweed_ver01:data:sn83030313:0027174383A:1873092901:1109/pct:80.67067555122162,79.09784713520902,16.539357494988895,6.0485248889395145/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1047,7 +1047,7 @@ silent hour to meditation due.
 Nobody takes a reproof so kindly as he  
 who deserves most to be commended
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340688:1878070401:0319/pct:38.149454778704296,63.51686507936508,10.9204618345093,0.8556547619047619/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340688:1878070401:0319/pct:38.14333814333814,63.508989460632364,10.92271925605259,0.8586484810911346/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

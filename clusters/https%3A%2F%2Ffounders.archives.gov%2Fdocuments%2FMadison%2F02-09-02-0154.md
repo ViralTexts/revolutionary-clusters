@@ -57,7 +57,7 @@ property ofthe United States,to be located
 by the governor of the. Milliffippi tertitory  
 for the use of the faia collcge, be offered fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1803062801:0308/pct:6.515936567750039,47.024875621890544,16.658816140681427,5.323383084577115/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1803062801:0308/pct:6.526403935730361,47.024875621890544,16.664049824671586,5.326699834162521/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -90,7 +90,7 @@ ocated by the Governor of the Mississip­
 pi territory, for the use of Jefferson Col­  
 lege,be,and the same is hereby suspen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804061601:0177/pct:59.912564151302035,24.365349384977755,17.449154153202812,6.032452237634128/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804061601:0177/pct:59.901178259217026,24.362161454926078,17.45217281135183,6.036024248767935/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -122,7 +122,7 @@ and fhall be entitaled to the fame weight in any
 court of the United States, s if the fame had  
 been delivered of fhall be delivered, to either o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1804071901:0524/pct:47.132894227043785,68.41862076931963,20.340953118946146,11.45893496592353/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1804071901:0524/pct:47.132894227043785,68.41862076931963,20.35386800981532,11.45893496592353/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -145,7 +145,7 @@ iof the United States, 10-bé Licated by
 the Governor of the Mifliflippi terri­  
 tory, for the ife of Jefferfon College,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804082101:0547/pct:42.65970515970516,22.86567739448834,16.89189189189189,5.945268837926383/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804082101:0547/pct:42.65970515970516,22.868889317145243,16.90724815724816,5.948480760583285/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -174,7 +174,7 @@ Aftertlctts resert&#x27;atiousiw&#x27;az kh&#x27;ownssto the
 corporatien &#x27;of&#x27;Natchcz, they, apprdhendss  
 ing that the lands and lots befercmention
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1806032901:0364/pct:76.74530572941742,44.684496050252214,21.056010271224523,11.58275435424003/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1806032901:0364/pct:76.73299101412067,44.6802436239056,21.05798031664527,11.584824260880598/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -202,7 +202,7 @@ ry of the United States, on or before the first duv
 tlie claims of certain persons to lands in the Mis­  
 sissippi territory, founded upon British or Spa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808061401:0058/pct:40.516457537734134,7.331639135959339,17.45771958537916,7.6238881829733165/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808061401:0058/pct:40.50909090909091,7.330707661034176,17.46060606060606,7.627154533519671/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

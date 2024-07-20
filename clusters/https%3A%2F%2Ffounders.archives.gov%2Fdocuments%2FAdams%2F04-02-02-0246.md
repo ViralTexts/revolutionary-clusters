@@ -133,7 +133,7 @@ Guyot, the statesman and historian,
 owed much of his success to his wife&#x27;s  
 co-operation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026259:00280776099:1877101101:0220/pct:74.07675597393194,51.983850758735905,15.948587979724836,12.223305025755256/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026259:00280776099:1877101101:0220/pct:55.58775584133309,38.99484894890714,11.972468755660206,9.160517889461229/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -163,7 +163,7 @@ Guyot, the statesman and historian, a
 owed much of his success to his wife&#x27;s t  
 co-operation. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kershawhogjam_ver03:data:sn92065401:0041562010A:1877101801:0165/pct:56.98938818289008,39.26873857404022,14.175291497445304,8.510054844606946/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kershawhogjam_ver03:data:sn92065401:0041562010A:1877101801:0165/pct:56.98938818289008,39.27483241925655,14.179658500371195,8.510054844606946/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -198,7 +198,7 @@ Guyot, the statesman and historian,
 owed much of his success to his wife’s  
 co-operation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn85033153:00271769738:1877110101:0796/pct:41.470749043193,29.962333067001484,11.454346637506834,12.407259445268805/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn85033153:00271769738:1877110101:0796/pct:39.406137731030604,28.46815585917733,10.877375232653767,11.783416467866695/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -250,7 +250,7 @@ we do. A smart wife would havo
 put Howe in possession of Phila­  
 delphia a long time ago.&quot; This re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_abbott_ver01:data:sn95073194:00206539252:1885123001:0138/pct:82.22972972972973,65.70023027004396,14.432432432432432,5.966087502616705/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_abbott_ver01:data:sn95073194:00206539252:1885123001:0138/pct:61.68401135288553,49.27778940757798,10.825787268549805,4.479799037052543/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -319,7 +319,7 @@ his lofty, imperial eloquence; nay, even
 composed the speeches on which so great a  
 share of his reputation was founded.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_mojave_ver01:data:sn82014381:00175036519:1887010801:0290/pct:16.242199359082477,28.412737595655393,10.929330409849891,6.208343618859541/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_mojave_ver01:data:sn82014381:00175036519:1887010801:0290/pct:16.25484904705684,28.412737595655393,10.920897284533648,6.223771908170822/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -362,7 +362,7 @@ them in the relation of mother, wife or
 sister to whose instigation a great part  
 of their merit is ascribed.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_bouie_ver01:data:sn85031378:00211663790:1892061701:0103/pct:14.841246722982813,86.89518132141083,14.302359452374017,3.3184302036761055/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_bouie_ver01:data:sn85031378:00211663790:1892061701:0103/pct:14.841246722982813,86.89849312800132,14.312069132925528,3.3184302036761055/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

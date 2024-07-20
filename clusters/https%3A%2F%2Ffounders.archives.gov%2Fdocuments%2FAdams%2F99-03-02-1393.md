@@ -231,7 +231,7 @@ their course, and are now receiving their
 reward.  
 These are the great occasions which 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804100601:0306/pct:40.63577173496745,54.022688746903114,18.402910762160094,5.932976920067805/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804100601:0306/pct:40.62799157572277,54.01564537157758,18.405769353500542,5.936549326379835/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -422,7 +422,7 @@ And dying hope revives again;
 Hope wipes the tear from sorrow’s eye,  
 And Faith points upward to the sky, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812101501:0707/pct:5.858017540956479,48.015992003998,16.746649015389707,2.428785607196402/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812101501:0707/pct:5.863533565006343,48.02265533899717,16.757681063489436,2.425453939696818/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -881,7 +881,7 @@ sylvania.
 Resolved, Thst the members of this House will tes­  
 tify their respect for the memory of the deceased b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840010701:0026/pct:1.437670609645132,58.500890811911425,16.251137397634213,6.642911682361924/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840010701:0026/pct:1.443736730360934,58.509374734877404,16.251137397634213,6.642911682361924/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -939,7 +939,7 @@ mourn, do not, as those without hope. Surely,
 &quot;Heaven gives us friends to bless the present scene;  
 Resumes them, to prepare us for the next. Com
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296199:1845030301:0459/pct:227.2072072072072,95.64941251190854,70.54054054054055,8.383613845665291/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296199:1845030301:0459/pct:56.8018018018018,23.912353127977134,17.635135135135137,2.0959034614163228/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1031,7 +1031,7 @@ cturingave punished several of the actors in the annual cer­
 termined to break up the custom, and threatened this  
 year to take severe measures with any who might en
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191289:1848123001:0480/pct:190.22687609075044,324.83153638814014,67.62652705061082,42.38544474393531/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191289:1848123001:0480/pct:47.56190683975128,81.20788409703503,16.908476055416166,10.596361185983827/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1093,7 +1093,7 @@ receiving their reward.” The closin
 &quot; Hope wipes the tear from- sorrow&#x27;s eye,  
 And faith points upward to the sky.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_black_ver02:data:sn84026561:00415667814:1855041101:0061/pct:94.00569653029518,75.53242288224621,13.360952874158468,1.040970298920829/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_black_ver02:data:sn84026561:00415667814:1855041101:0061/pct:70.53490480507706,56.65170470824181,10.024608211371584,0.7831152707477795/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1109,7 +1109,7 @@ And faith points upward to the sky.&quot;
 &quot; Hope wipes the tear from sorrow&#x27;s eye,  
 And Faith points upward to the sky.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855082201:0963/pct:19.760592817784534,42.20565942395149,12.179365380961428,1.0485093481556342/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855082201:0963/pct:19.760592817784534,42.21408118578407,12.179365380961428,1.0527202290719218/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1125,7 +1125,7 @@ And Faith points upward to the sky.
 ?&#x27;Hope dries the tear from sorrow&#x27;s eye.  
 And Faith points upward to the sky &quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kuvasz_ver02:data:sn83045462:00280654061:1855082201:0045/pct:35.79598145285935,61.76229508196721,13.554868624420402,1.055327868852459/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kuvasz_ver02:data:sn83045462:00280654061:1855082201:0045/pct:35.79598145285935,61.76229508196721,13.57805255023184,1.057889344262295/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1142,7 +1142,7 @@ Till dying hope returns again ;
 llope wipes the tear from sorrow&#x27;s eye,  
 And faith points upward to the sky. E
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664382:1860091101:0298/pct:15.57570977917981,45.65493026431288,9.332281808622502,1.0923632107675803/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664382:1860091101:0298/pct:15.580091132141606,45.65818134529731,9.336663161584298,1.0923632107675803/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1177,7 +1177,7 @@ o&#x27;clock, from his late residence.
 scene;  
 Removes them to prepare us for the next.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741935:1867112701:0532/pct:131.1935395565289,100.58091286307054,41.363263071448124,6.44536652835408/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741935:1867112701:0532/pct:43.7311798521763,33.52697095435685,13.787754357149375,2.14845550945136/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1197,7 +1197,7 @@ Heaven gives us friends to bless the present
 scene;  
 Resumes them to prepare us for the next
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741947:1868022201:0191/pct:47.85451573355129,270.62517314618157,41.50660672932843,9.345276572167329/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741947:1868022201:0191/pct:15.951505244517096,90.20839104872718,13.83553557644281,3.115092190722443/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1241,7 +1241,7 @@ c a. c.
 Died,—On the morning of the 22d inst., at  
 the residence of Cooke D. Luckett, in Rock
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fireweed_ver01:data:sn83016209:00383342399:1872082301:0335/pct:58.34133230946439,83.82888349514563,15.146861201766175,3.504247572815534/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fireweed_ver01:data:sn83016209:00383342399:1872082301:0335/pct:45.21920253917873,64.9684524042795,11.738742313033129,2.719755457146216/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1257,7 +1257,7 @@ the residence of Cooke D. Luckett, in Rock
 “Hope wipes the tear from sorrow’s eye,  
 And faith points upward to the sky.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016093:1878102401:0330/pct:44.07451446690448,29.032258064516128,10.325009908838684,0.8534644871980327/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016093:1878102401:0330/pct:44.06578165246681,29.028059010702922,10.32791757479691,0.856956899045415/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1274,7 +1274,7 @@ Till dying hope revives again;
 Hope wipes the tear from sorrow’s eye,  
 And faith points upward to the sky.” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016123:1885012901:0018/pct:30.71638861629048,95.87434858135495,10.85377821393523,1.0856977417486973/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016123:1885012901:0018/pct:30.710361067503925,95.8604718483138,10.856554160125588,1.089159067882472/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1341,7 +1341,7 @@ And dying hope revives again;
 Hope wipes the tear from sorrow&#x27;s eye.  
 And faith points upward to the sky.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_gordon_ver01:data:sn89058370:00296021180:1886102001:0339/pct:83.1787521079258,17.821236744250104,14.502529510961214,6.390304365789836/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_gordon_ver01:data:sn89058370:00296021180:1886102001:0339/pct:62.434085635941784,13.372813662030023,10.883779793292554,4.792728274342377/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1364,7 +1364,7 @@ Thus &quot;Heaven gives us friends to
 bless the present scene, but removes  
 them to prepare us for the next.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_ingalls_ver02:data:sn84027670:00237283417:1887042801:0262/pct:202.93715846994536,195.01357689459394,42.21311475409836,14.811157738829918/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_ingalls_ver02:data:sn84027670:00237283417:1887042801:0262/pct:50.73428961748634,48.753394223648485,10.55327868852459,3.7027894347074795/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -40,7 +40,7 @@ Two seraphs await me long shrouded in death ;
 I will bear them your love, on my last parting  
 breath
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn85033437:0020029371A:1871071601:0051/pct:31.327433628318584,26.15542974781266,19.454277286135692,8.419969119917653/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn85033437:0020029371A:1871071601:0051/pct:23.50597609561753,19.61914565105507,14.608233731739707,6.320123520329387/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -113,7 +113,7 @@ Two seraphs await mo long shrouded in death;
 I will bear them your lovuon my last parting  
 breath
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ellis_ver01:data:sn85025007:00415663675:1871072401:0051/pct:1.4695591322603219,16.789423984891407,17.80265920223933,15.62795089707271/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ellis_ver01:data:sn85025007:00415663675:1871072401:0051/pct:1.4695591322603219,16.79257160843563,17.80732446932587,15.631098520616934/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -140,7 +140,7 @@ The last pang of my life is in parting from you.
 Two seraphs await me long shrouded in death;  
 I will bear them your love on my last partin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn89058302:00212470417:1871072701:0486/pct:223.52941176470588,313.15859147471537,48.357524828113064,22.29282499338099/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn89058302:00212470417:1871072701:0486/pct:55.903706534199465,78.28964786867884,12.094000764233856,5.573206248345247/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -170,7 +170,7 @@ scrapUs await mc long shrouded ia
 I will bear them your love on my last  
 - parting breath
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033429:00280779313:1871072701:0201/pct:81.66485310119695,46.44456581103222,14.975516866158868,8.989623156744948/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033429:00280779313:1871072701:0201/pct:61.27364267247245,34.833424358274165,11.239624438699142,6.750409612233752/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -220,7 +220,7 @@ The last pang uf my lite is in parlti.g trotu you.
 Two aerapha await me long abroudtd in deaili;  
 I will bear tbcm your love on my last parting breath
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_iceland_ver01:data:sn84026788:00202192336:1871081501:0135/pct:56.20926545710763,67.56913276386275,13.633961599436322,4.604024902273056/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_iceland_ver01:data:sn84026788:00202192336:1871081501:0135/pct:56.20926545710763,67.57637179672795,13.64717280253655,4.6004053858404514/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -274,7 +274,7 @@ tears r
   
 IV men crowns all my hopes, or which
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn83035174:00296027327:1871083001:0131/pct:97.97460701330108,39.9021123132406,14.298669891172914,3.979907264296754/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn83035174:00296027327:1871083001:0131/pct:73.51073480495917,29.933024214322515,10.734804959177502,2.988150437918599/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -316,7 +316,7 @@ death ;
 I will bear them your love on my last part­  
 ing breath
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn83035174:00296027327:1871083001:0131/pct:83.57013301088271,45.5564142194745,28.657799274486095,14.064914992272024/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn83035174:00296027327:1871083001:0131/pct:62.7003326277593,34.170530654301906,21.499848805563957,10.548686244204019/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -353,7 +353,7 @@ Two seraphs await me long shrouded in death;
 I will bear them your love on my last parting  
 breath.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026259:00280776099:1879013001:0472/pct:43.858695652173914,110.69094953426944,16.141304347826086,7.396079521757264/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026259:00280776099:1879013001:0472/pct:32.9045116868998,83.02516335326011,12.103641964123936,5.547059641317948/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -379,7 +379,7 @@ Then fu_v&#x27;?ll, my dear, my lov&#x27;d daughter,
 The last pang of life is in parting with you !  
 Two seraphs await me long shrouded in death
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_fleshgolem_ver02:data:sn92063989:00514153541:1879020101:0390/pct:72.93039538714991,89.72222222222223,10.852553542009884,4.4603174603174605/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_fleshgolem_ver02:data:sn92063989:00514153541:1879020101:0390/pct:72.93382756727073,89.72751322751323,10.849121361889072,4.4603174603174605/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -407,7 +407,7 @@ jg adieu 1
 110 I will bear theia your love on my last parting  
 a- breath.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn86053067:00295862361:1879020601:0082/pct:31.47786946736684,85.48421052631579,14.358589647411852,5.821052631578947/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn86053067:00295862361:1879020601:0082/pct:31.487871967992,85.48421052631579,14.353588397099275,5.828070175438596/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -434,7 +434,7 @@ Two seraphs await me long shrouded in death;
 I will beer them year love on my last parting  
 breath.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn84009409:00296028757:1879022701:0075/pct:20.2280912364946,88.56825749167592,14.44577831132453,5.9100998890122085/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn84009409:00296028757:1879022701:0075/pct:20.2280912364946,88.57288198298187,14.465786314525811,5.919348871624122/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -536,7 +536,7 @@ dcath
 I will bear them your love on my iast parting  
 b catH
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_egret_ver01:data:sn86069392:00202195088:1879031801:0029/pct:115.04065040650407,147.0030625638034,43.333333333333336,53.84278839142482/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_egret_ver01:data:sn86069392:00202195088:1879031801:0029/pct:28.77770998576368,36.75076564095085,10.839943054708156,13.460697097856205/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -564,7 +564,7 @@ death* &#x27;
 [ will bear them yonr love on my last !  
 parting breath.” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_chert_ver01:data:sn86053968:00383343781:1879061901:0272/pct:72.65353418308227,76.12401185770752,11.107432544280748,7.522233201581027/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_chert_ver01:data:sn86053968:00383343781:1879061901:0272/pct:72.64150943396227,76.11461034951216,11.109731876861966,7.524391750030875/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -698,7 +698,7 @@ The seraphs await me long shrouded in death;
 I will bear them your love on my last parting  
 breath
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_anoka_ver02:data:sn83025287:0010049386A:1880011701:0082/pct:50.70466160755769,74.17776260384659,11.630788291776367,13.019232957778536/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_anoka_ver02:data:sn83025287:0010049386A:1880011701:0082/pct:50.70466160755769,74.17776260384659,11.63595064787569,13.030613406168204/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

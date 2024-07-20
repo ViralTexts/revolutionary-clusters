@@ -251,7 +251,7 @@ have fallen by oppressive crops, and to restore
 them if possible by any means in my power) to  
 health and vigor&quot;, and after detailing som
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chrysler_ver01:data:sn83030214:00175039946:1883022301:0469/pct:197.50193948797516,36.43454038997214,45.07370054305663,11.20891364902507/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chrysler_ver01:data:sn83030214:00175039946:1883022301:0469/pct:65.83397982932506,12.144846796657381,15.024566847685545,3.7363045496750233/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -273,7 +273,7 @@ ular system is the lire and the soal of every kind of
 business.&quot; Soon after he wrote:  
 .
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chrysler_ver01:data:sn83030214:00175039946:1883022301:0469/pct:197.51745539177656,47.220055710306404,44.91854150504267,13.13649025069638/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chrysler_ver01:data:sn83030214:00175039946:1883022301:0469/pct:65.83915179725885,15.740018570102135,14.972847168347556,4.378830083565459/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -312,7 +312,7 @@ by oppressive crops, and to restore them (if
 possible by any means in my power) to  
 health and vigor;” and after detailing som
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:0027952533A:1883031301:0618/pct:16.120533508974148,33.27333813294936,11.048904989296888,2.3278137748980083/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:0027952533A:1883031301:0618/pct:16.117879486335198,33.26934613077385,11.051201843924925,2.3305338932213555/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -334,7 +334,7 @@ them: as to establish good rules and a regu­
 lar system is the life and soul of every kind  
 of business.” Soon.after he wrote:
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:0027952533A:1883031301:0618/pct:16.20286514078709,35.697144228461724,10.999506010209123,3.731701463882889/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:0027952533A:1883031301:0618/pct:16.20019756338492,35.692861427714455,11.001810997695094,3.734253149370126/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -356,7 +356,7 @@ pressive crops, and to restore them (if
 by any means iu iny power) to health and  
 vigor;&#x27;* aud after detailing some “abuse* whic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_diamondville_ver05:data:sn84022149:00514150072:1883031501:0454/pct:39.06586310804993,22.658069138456028,10.804993542832545,3.6539494895217626/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_diamondville_ver05:data:sn84022149:00514150072:1883031501:0454/pct:39.07124408092983,22.658069138456028,10.831898407232028,3.658427368798137/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -377,7 +377,7 @@ lar system is the life aud the soul of every
 kind of bnsinosa.* Boon aftei Lo wiolo.  
 Among the ilrst things to be doue
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_diamondville_ver05:data:sn84022149:00514150072:1883031501:0454/pct:39.04433921653035,26.885187175353753,10.82651743435213,3.1882500447787927/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_diamondville_ver05:data:sn84022149:00514150072:1883031501:0454/pct:39.049720189410245,26.88966505463013,10.82651743435213,3.197205803331542/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -406,7 +406,7 @@ the »&gt;ul of even- kind of business.&quot; Soon &#x27;
 after he wrote:  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_galactic_ver01:data:sn84022982:00513688659:1883040701:0189/pct:4.413324846170168,51.21989121989122,12.624655208996392,8.74902874902875/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_galactic_ver01:data:sn84022982:00513688659:1883040701:0189/pct:4.413324846170168,51.21989121989122,12.63172784496782,8.75938875938876/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -430,7 +430,7 @@ aud a regular sytein is the lite aud tho !
 soul of every kind of business.&quot; Soon I  
 a&#x27;ter he wrote: 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_grandfather_ver01:data:sn85042098:00415667449:1883042501:0271/pct:33.49753694581281,12.620101479002482,15.243568691844555,5.991579401921624/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_grandfather_ver01:data:sn85042098:00415667449:1883042501:0271/pct:25.126590940194333,9.467775018892368,11.441083892158204,4.501781280362733/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

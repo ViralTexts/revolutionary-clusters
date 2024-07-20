@@ -1472,7 +1472,7 @@ hap|iened. 9. Take things away by their smooth
 handle. 10. When angry, count ten before you spenk;  
 if very angry, nn hundred
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182938:1830061001:0285/pct:22.357894736842105,50.94579333709768,17.705263157894738,7.3828345567476/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182938:1830061001:0285/pct:22.353188802357398,50.938602681721946,17.706798568722373,7.385321100917431/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1995,7 +1995,7 @@ handle.
 10. When angry, count ten before you  
 speak, if very angry, a hundred
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_kirby_ver02:data:sn83025661:00202197371:1838010301:0272/pct:91.07255520504732,58.64758038671082,20.962145110410095,19.00437987394509/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_kirby_ver02:data:sn83025661:00202197371:1838010301:0272/pct:68.34464257535112,43.991026599722254,15.732996686129082,14.25061425061425/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2266,7 +2266,7 @@ cold.
 7: Nothing is troublesome that we do willingly.  
 8. How much pain those evils cost us which nev
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015209:1842062101:0303/pct:34.177784440113925,78.16151919866444,15.110178384050368,5.728297161936561/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015209:1842062101:0303/pct:34.18278119222505,78.16499721758487,15.110178384050368,5.735253199777407/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2324,7 +2324,7 @@ And if to the dead it is permitted to care for the
 things of this wofld, every action of your life  
 will be under my regard
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn86071753:00414184376:1845110101:0364/pct:79.47019867549669,55.780063678667645,17.42767514813524,5.118785206955669/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn86071753:00414184376:1845110101:0364/pct:79.45635128071092,55.773233745561406,17.430446651565312,5.12223990857516/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2388,7 +2388,7 @@ ineffable bliss. And if to t*»e dead it is |wnnitled to
 mire for the things of this world every action ofyour  
 life will be under my regard. Farewell
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn84020566:00414187468:1845111401:0763/pct:45.5899419729207,84.75601181268458,12.456479690522244,6.792293629587962/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn84020566:00414187468:1845111401:0763/pct:45.58112550763875,84.74409448818898,12.458905434152001,6.794853768278965/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2440,7 +2440,7 @@ world, every action of your life will be
   
 &#x27; vnder my regard, r arewen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035101:00296027042:1845111901:0120/pct:7.728706624605678,67.28651122872265,18.552839116719245,18.309254756115006/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035101:00296027042:1845111901:0120/pct:5.797673042792349,50.464883421541984,13.922303293236048,13.731941067086254/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2464,7 +2464,7 @@ t And if to the dead it is permitted to care for
 . the things of this world, every action of  
 your life would be under my regard.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624232:1845112001:0077/pct:73.90824530979032,74.23960273122285,17.231593883020654,6.279743430581419/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624232:1845112001:0077/pct:73.91350044668664,74.24305124491345,17.226338746124338,6.290088971653217/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2499,7 +2499,7 @@ care for the things of this world, every ac­
 tion of your life will be under my regard.  
 Farwell
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:00200292431:1845112201:0396/pct:86.36724960254372,17.096774193548388,19.554848966613672,16.989247311827956/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:00200292431:1845112201:0396/pct:64.81113320079523,12.82642089093702,14.671968190854871,12.749615975422428/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2565,7 +2565,7 @@ ted to care for the things of this world
 every action of your life will be un  
 der my regard. Farewell
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_emerald_ver02:data:sn87090125:00414212621:1845112901:0116/pct:53.106295149638804,72.12067171942338,14.571723426212591,18.08589686431862/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_emerald_ver02:data:sn87090125:00414212621:1845112901:0116/pct:53.09533635988444,72.10995542347698,14.573875361122575,18.08692421991085/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2601,7 +2601,7 @@ to care for the things of this world, every
 action of your life will be under my regard  
 Farewell
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn87065704:00295877571:1845120301:0496/pct:83.77749576988155,84.56173936824833,22.377326565143825,21.523314645152468/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn87065704:00295877571:1845120301:0496/pct:62.851702982864396,63.42130452618624,16.79712291093717,16.14932312320525/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2637,7 +2637,7 @@ care for the things of this world, every action
 of your life will be under my rejrard. Fare-,  
 well. T I : .1 K PTE R S 0 N 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879051:1845120501:0257/pct:105.56768558951966,87.99224054316198,19.937227074235807,12.376333656644034/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879051:1845120501:0257/pct:79.20819112627986,65.99418040737149,14.96245733788396,9.291949563530553/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2719,7 +2719,7 @@ h you ha
 
 ---
 
-## [From _Scientific American (1845-1908)_](https://archive.org/details/sim_scientific-american_1846-01-15_1_18/page/n2/mode/1up?view=theater)
+## [From _Scientific American_](https://archive.org/details/sim_scientific-american_1846-01-15_1_18/page/n2/mode/1up?view=theater)
 
 #### 1846-01-15 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -2767,7 +2767,7 @@ dle.
 10. When angry, count ten, before you  
 speak ; if very angry, count a hundred
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82014769:00415661022:1846030901:0284/pct:41.67727851555394,44.488286066584465,18.046207022012005,13.131935881627621/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82014769:00415661022:1846030901:0284/pct:41.68940634285368,44.49239621866009,18.046207022012005,13.131935881627621/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2861,7 +2861,7 @@ cold.
 S. How much pain have those evils cost us  
 which never happened
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_diglett_ver01:data:sn82015378:00295872366:1850110401:1070/pct:16.243961352657006,150.7202881152461,37.01690821256039,19.402761104441776/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_diglett_ver01:data:sn82015378:00295872366:1850110401:1070/pct:5.414653784219001,50.240096038415366,12.338969404186795,6.467587034813926/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2987,7 +2987,7 @@ This Psalm was copied by Mr. Jefferson, i
 By rule of virtue moves,  
 Whose generous
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777791:1851111201:0395/pct:68.61989205859676,62.90047980188825,38.93600616808018,6.314811948614765/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777791:1851111201:0395/pct:17.158280316175052,15.725119950472063,9.735878156930788,1.5787029871536913/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3039,7 +3039,7 @@ Whom no rewards can ever bribo
 The guiltless to destroy.  
 This psalm was copied by Thomas Jefferson, I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85026466:0020219798A:1851111901:0081/pct:9.384908053265695,16.190159574468087,52.82181357006975,125.66489361702128/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85026466:0020219798A:1851111901:0081/pct:6.262882511495164,10.793439716312056,35.214840653242426,83.77659574468085/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3077,7 +3077,7 @@ Has happiness insured !
 When earth&#x27;s foundations shake, shall stand,  
 By Providence secured
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664333:1852091001:0178/pct:5.1185109786244,13.89022861001254,11.836556638068926,6.212018906144497/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664333:1852091001:0178/pct:5.1185109786244,13.89022861001254,11.846250787649653,6.221664898234783/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3116,7 +3116,7 @@ Whose soul in usury disdains
 &#x27; &quot;Whom no reward can aver bribe&quot;  
 , -&quot; &#x27; &#x27; The guiltless to destroy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035044:00296027133:1852102701:0163/pct:7.4002574002574,23.83888743112044,15.331402831402832,19.784833377066388/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035044:00296027133:1852102701:0163/pct:5.551086082059533,17.882445552348464,11.504424778761061,14.83862503279979/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3175,7 +3175,7 @@ and cold,
 tle.7. Nothing is troublesome that we do wil­  
 lingly.8. How much pain has those evils cost u
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_applejack_ver01:data:sn87065674:00295878460:1853032901:0538/pct:67.81411359724613,78.08319858885785,20.309810671256454,11.935910627664265/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_applejack_ver01:data:sn87065674:00295878460:1853032901:0538/pct:50.89343379978472,58.562398941643394,15.242195909580193,8.96663236807291/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3342,7 +3342,7 @@ His treasure to employ ;
 Whom no rewards can ever bribe  
 The guiltless to destroy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn93052998:00279557347:1854082601:0168/pct:9.902263374485596,9.371850856567013,15.483539094650206,15.754114880752436/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn93052998:00279557347:1854082601:0168/pct:9.902263374485596,9.384447430298959,15.496399176954732,15.749916022841788/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3479,7 +3479,7 @@ Has ever firmly stood;
 And though he promise to his loss,  
 He makes his promise good
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn84028880:00296027558:1855080701:0490/pct:221.3911742707554,62.50545613269315,44.72700074794316,33.347883020515056/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn84028880:00296027558:1855080701:0490/pct:55.36849981294426,15.626364033173287,11.18593340815563,8.336970755128764/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3564,7 +3564,7 @@ mitted to care for the things of this world, every
 action of your life will be under my regard   
 Farewell. THJEerSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn89060119:00415623483:1858052701:0278/pct:35.57271557271557,246.79169840060928,40.48906048906049,25.77113480578827/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn89060119:00415623483:1858052701:0278/pct:11.857571857571857,82.26389946686976,13.496353496353496,8.59037826859609/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3629,7 +3629,7 @@ happened.-Take things always by their
 smooth handle. When angry, count ten  
 before you speak; if very angry; a hun
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85026105:00296028046:1858070801:0799/pct:11.729769858945806,231.70731707317074,50.63103192279139,30.24390243902439/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85026105:00296028046:1858070801:0799/pct:2.932986820122517,57.926829268292686,12.66010766660479,7.560975609756097/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3703,7 +3703,7 @@ handle.
 10. When angry, count ten before you  
 speak; if very angry a qundred
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_antares_ver02:data:sn84026824:00271767766:1859070901:0115/pct:63.40738644403566,35.671399980939675,15.522852695627565,14.06652053750119/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_antares_ver02:data:sn84026824:00271767766:1859070901:0115/pct:63.40738644403566,35.671399980939675,15.537002971557945,14.072873979478382/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3837,7 +3837,7 @@ handle.
 10. When angry, count ten before you  
 speak ; if very angry, a hundred
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn84027640:00294555687:1865093001:0462/pct:62.35066760365425,113.87768817204301,26.33520730850316,19.657258064516128/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn84027640:00294555687:1865093001:0462/pct:41.589031464229215,75.918458781362,17.577781683951486,13.10483870967742/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3874,7 +3874,7 @@ handle.
 10. When angry, count ten before you  
 speak; if very angry, a hundred
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn86081096:0029602868A:1865101001:0154/pct:32.39740820734341,58.77385391533231,14.60968836778772,12.689186225049353/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn86081096:0029602868A:1865101001:0154/pct:32.407693098837804,58.77385391533231,14.604545922040522,12.696497769978796/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3920,7 +3920,7 @@ Whom no rewards can ever bribe
 The guiltless to destroy.&quot;  
 [This Psalm was copied by Mr. Jefferson in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009569:00296026165:1865102801:0094/pct:72.05860589018795,21.378929950358522,10.89240787331656,10.170987313844456/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009569:00296026165:1865102801:0094/pct:72.06353904592768,21.386284243427102,10.907207340535741,10.178341606913035/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3959,7 +3959,7 @@ handle.
 10. When angry, count ten before you  
 speak ; if very angry, a hundred
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn87076863:00296028836:1865120601:0245/pct:63.08353808353808,34.38198896675116,18.284193284193286,24.094229909050245/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn87076863:00296028836:1865120601:0245/pct:47.346855152632656,25.793946622931266,13.726695349313665,18.070672431787685/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4035,7 +4035,7 @@ to eire for tt.e tilings of this worid,
 every action o! your life will tie m.di r  
 my regard. Farewell &quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn84022367:00415628341:1867013101:0889/pct:52.57322175732217,32.07074428887251,18.263598326359833,15.755342667649225/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn84022367:00415628341:1867013101:0889/pct:39.45991207871049,24.053058216654385,13.711534435838391,11.820191599115697/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4074,7 +4074,7 @@ permitted to care for the things of this
 world, every action of your life will be  
 under my regard. Farewell!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477850:1867021401:0240/pct:21.70138888888889,94.26639223757718,50.173611111111114,52.69038518082917/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477850:1867021401:0240/pct:5.4288816503800215,23.566598059394295,12.55157437567861,13.172596295207292/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4114,7 +4114,7 @@ things of this world, every action of
 your life, will be under my regard.  
 Farewelll?&quot;otut shalove toorbeia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn82014296:00296022093:1867021901:0557/pct:139.81831945495836,45.89147286821706,58.21347464042392,60.38054968287526/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn82014296:00296022093:1867021901:0557/pct:34.97443665972354,11.472868217054264,14.561636053777693,15.095137420718816/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4152,7 +4152,7 @@ care for the things of this world
 every action of your life will be  
 under my regard. Farewell
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279520956:1867032301:0645/pct:210.33179336413272,322.6169979652528,40.50818983620328,45.53138206292064/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279520956:1867032301:0645/pct:52.57190846105396,80.641627543036,10.124921268108334,11.381064162754303/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4189,7 +4189,7 @@ the things of this world, every action of
 your life will be under my regard. I are  
 well.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_antares_ver02:data:sn84026824:00271767778:1867032301:0051/pct:28.256227758007118,59.849668098399064,21.637010676156585,15.072237407262788/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_antares_ver02:data:sn84026824:00271767778:1867032301:0051/pct:28.265717674970343,59.852922035663155,21.637010676156585,15.078745281790967/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4247,7 +4247,7 @@ handle.
 10. When angry count ten before you  
 speak ; if very angry count one hundred.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn86081912:00296028629:1867060501:0306/pct:66.76038737894407,75.5860238832375,14.37050921587004,11.808934099955772/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn86081912:00296028629:1867060501:0306/pct:66.76038737894407,75.58970956803775,14.37050921587004,11.81999115435648/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4369,7 +4369,7 @@ His treasure to emply ;
 Whom no reward can ever bribe  
 The guiltless to destroy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_jinx_ver01:data:sn84026897:00211101210:1868042901:0473/pct:87.26148177391762,14.4748631159781,11.6331096196868,11.697361871577899/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_jinx_ver01:data:sn84026897:00211101210:1868042901:0473/pct:87.26148177391762,14.4748631159781,11.637496161775672,11.707317073170731/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4436,7 +4436,7 @@ have never happened. Take things always
 their smooth handle. When angry, count  
 before you speak; if very angry, a hundred
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn83035216:00280775186:1870032601:0276/pct:275.0358680057389,345.164423477175,50.07173601147776,28.305813792146523/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn83035216:00280775186:1870032601:0276/pct:68.7713004484305,86.29110586929374,12.52017937219731,7.076453448036631/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4642,7 +4642,7 @@ smooth handle.
 you speak; if very angry, count a  
 hundred
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn84022871:00202194977:1872031101:0045/pct:52.982878544676296,63.51154566257541,14.526484751203853,14.06282504680674/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn84022871:00202194977:1872031101:0045/pct:39.74581939799331,47.638859995839404,10.903010033444817,10.547118785105056/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4680,7 +4680,7 @@ shall the life unto which you have
 entered be the portal to one of eternal  
 and ineffable bliss
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn87076794:00280775125:1872061301:0429/pct:167.74011299435028,333.5385922072407,36.836158192090394,37.92334642743391/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn87076794:00280775125:1872061301:0429/pct:41.946877649053405,83.38464805181017,9.211641706696806,9.480836606858478/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4707,7 +4707,7 @@ A man who can give up dreaming
 and goto his daily realties; who can  
 smother down, his heart, its love o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028821:00280775484:1872102401:0556/pct:17.329149232914922,116.03513832437393,13.145048814504882,7.761898518421398/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028821:00280775484:1872102401:0556/pct:13.010115102895012,87.0329094008129,9.853505406348098,5.8214238888160486/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4777,7 +4777,7 @@ His treasure to employ;
 Wuu?i so rewards can ever bribe  
 The guiltless to destroy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84027008:00294551219:1874011401:0045/pct:1.2054600248182947,22.689533142779364,16.504165928026946,13.787940656050088/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84027008:00294551219:1874011401:0045/pct:1.2054600248182947,22.689533142779364,16.510075045795663,13.792477655278798/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4846,7 +4846,7 @@ Wuom no reward can ever bribe.
 The guiltless to destroy.&quot;  
 The Psuliu was copied by Tin mas Jell arson, i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_iceland_ver01:data:sn84026788:00202192348:1874042801:0071/pct:83.90542907180385,14.540059347181009,12.749562171628721,10.964391691394658/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_iceland_ver01:data:sn84026788:00202192348:1874042801:0071/pct:83.91856392294221,14.540059347181009,12.745183887915937,10.968100890207715/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4881,7 +4881,7 @@ Whom oo reward can ever bribe
 &#x27;lhe guiltless to destroy.&quot;  
 The Psalm was copied by Thomas Jefferson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_fezza_ver01:data:sn85025007:00415663729:1875011101:0050/pct:4.115983026874116,28.344562078922042,15.021216407355022,11.135707410972088/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_fezza_ver01:data:sn85025007:00415663729:1875011101:0050/pct:4.120697784064121,28.35097850497273,15.025931164545026,11.135707410972088/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4916,7 +4916,7 @@ I JteaT How frequently Christian people make j
 their disasters or disappointments an excuse  
 for cutting short their benevolent contributions
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862750:1875051301:0296/pct:43.52324819908317,85.60872307830945,15.861165684348396,12.129404343516265/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862750:1875051301:0296/pct:43.52761405806592,85.61473070799916,15.861165684348396,12.129404343516265/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4940,7 +4940,7 @@ lie that suffers in a good cause, let him
 irsi ueny nrs stub; anu men tfcn,­  
 ind then he may take up his cross an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn97064666:00517016081:1875052001:0076/pct:79.33505872984273,43.957638183664585,12.104320127413896,5.991585666618309/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn97064666:00517016081:1875052001:0076/pct:79.31926751592357,43.95126196692776,12.106886942675159,5.994342906875544/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4981,7 +4981,7 @@ under my regard. Farewell.&quot;
 The railroad company, it is said,  
 will resist any action on the part o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_hubert_ver01:data:sn85033681:00296021088:1875063001:0545/pct:81.74479166666667,105.0216724812348,14.309895833333334,19.2197906755471/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_hubert_ver01:data:sn85033681:00296021088:1875063001:0545/pct:61.339064738830274,78.77154033195897,10.7333593851765,14.409557035627445/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5035,7 +5035,7 @@ bmooth uauoJo.
 10. When angry count ten before  
 vou speak if very angry, one hun
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_hubert_ver01:data:sn85033681:00296021088:1875063001:0548/pct:7.183758459135866,80.90976097715068,14.510671525247266,29.156575760766557/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_hubert_ver01:data:sn85033681:00296021088:1875063001:0548/pct:5.389221556886228,60.68232073286301,10.895600104139547,21.870064230809728/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5071,7 +5071,7 @@ bo permitted to care for the things of this
 world, every s.ctiou of your lifo will be 1  
 under my regard. FareweJL
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033429:00280779313:1875081901:0894/pct:110.67049808429118,96.04381443298969,18.14176245210728,19.961340206185568/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033429:00280779313:1875081901:0894/pct:83.02356773328223,72.0360824742268,13.623299482659514,14.974226804123711/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5132,7 +5132,7 @@ it is permitted to care for the things
 of this world, every action of your lite  
 will be under my regard. Farewell,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brockovich_ver02:data:sn85032573:00237281871:1875111101:0122/pct:114.16471962616822,58.85509838998211,13.054906542056075,11.639087656529517/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brockovich_ver02:data:sn85032573:00237281871:1875111101:0122/pct:85.65585743499854,44.14132379248658,9.786736780601812,8.73211091234347/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5181,7 +5181,7 @@ mitted to care for the things of this world
 every action of your life will be under my  
 regard
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349529:1876040701:0240/pct:25.98079114439199,58.2442460067916,11.232296923327365,16.689724562948058/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349529:1876040701:0240/pct:25.9765625,58.23692152917505,11.234537760416666,16.690769617706238/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5218,7 +5218,7 @@ tandle.
 10. When angry, count ten before j  
 ou speak; it very angry, an hundred. 1 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_enterprise_ver02:data:sn84026847:00415665246:1877050901:0445/pct:23.94090155284185,75.33594328642472,12.422734810794513,11.226325256586605/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_enterprise_ver02:data:sn84026847:00415665246:1877050901:0445/pct:23.94592693100156,75.34299721369872,12.422734810794513,11.22985222022361/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5275,7 +5275,7 @@ His neighbor&#x27;s fame to wound,
 Nor hearken to a lalse report  
 By malice whispered round
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:00206533511:1878062701:0405/pct:58.55161787365177,349.6511800504676,51.386748844375965,26.955618227697787/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:00206533511:1878062701:0405/pct:14.64354527938343,87.4127950126169,12.851637764932562,6.738904556924447/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5352,7 +5352,7 @@ Whom no rewards can ever bribe,
 The guiltless to destroy,  
 We copy the following by request o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_ferrari_ver02:data:sn86088181:0020029693A:1879032901:0599/pct:228.2051282051282,106.85296074517632,63.09921962095875,54.424484364604126/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_ferrari_ver02:data:sn86088181:0020029693A:1879032901:0599/pct:57.06718706439922,26.71324018629408,15.779202676331195,13.606121091151032/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5405,7 +5405,7 @@ which he prefaced with tho words: &quot;Tho
 portrait of a good man by the most sublime  
 of poets, for your imitation.” Jefferson wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_asburypark_ver01:data:sn84026089:00514155872:1881052501:0876/pct:6.876396768093519,45.963938973647714,12.343132198727867,6.366158113730929/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_asburypark_ver01:data:sn84026089:00514155872:1881052501:0876/pct:6.875214850464077,45.95756483150742,12.345307665864558,6.368742199417556/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5430,7 +5430,7 @@ paraphrase of the fifteenth l’salm entitled
 Lord, who’s the happy man that may to  
 Thy blest courts repair
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_elliot_ver01:data:sn87068079:00332896441:1881052601:0077/pct:3.382769538410265,62.06581352833638,11.081486418930178,4.87072342648211/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_elliot_ver01:data:sn87068079:00332896441:1881052601:0077/pct:3.3822059313562147,62.05770988379684,11.0838053982006,4.873351612482047/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5448,7 +5448,7 @@ portrait of a good man by the most sublime
 of poets, for your imitation.” Jefferson was  
 horn April 13th, 1743, and died on the 4t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_elliot_ver01:data:sn87068079:00332896441:1881052601:0077/pct:3.282786202299617,66.94959519456778,11.131478086985503,1.8281535648994516/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_elliot_ver01:data:sn87068079:00332896441:1881052601:0077/pct:3.2822392535821394,66.94085389737563,11.133788737087638,1.8311790050920487/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5477,7 +5477,7 @@ ways by their smooth handle. When
 angry, count ten before you speak; if very  
 angry, a hundred
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn86071719:00280777687:1884050701:0718/pct:137.3160173160173,141.22299110295157,57.316017316017316,30.108741703149274/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn86071719:00280777687:1884050701:0718/pct:34.35131037470219,35.30574777573789,14.338314923110245,7.5271854257873185/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5512,7 +5512,7 @@ His treasure to employ ;
 Whom no rewards can ever bribe  
 The guililess to destroy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_grandfather_ver01:data:sn85042098:00415667449:1884060401:0506/pct:69.13461538461539,89.2574363364006,14.903846153846153,12.722020115557457/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_grandfather_ver01:data:sn85042098:00415667449:1884060401:0506/pct:51.861519439483445,66.94842713460304,11.182854787745569,9.544190027819388/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5564,7 +5564,7 @@ happened. 9. Take things always by their
 smooth handles. 10. When angry, count  
 ten before you speak; if very angry, coun
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84020714:00296023024:1884072501:0116/pct:42.201967592592595,14.036064113980409,17.01388888888889,8.125556544968834/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84020714:00296023024:1884072501:0116/pct:31.66425470332851,10.529830810329475,12.76410998552822,6.09973285841496/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5598,7 +5598,7 @@ His treasure to employ.
 Whom no rewards can ever bribe  
 The guiltless to destroy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_dassel_ver01:data:sn90059522:00175035424:1884072701:0400/pct:87.97080291970804,21.79740716326082,9.912408759124087,7.811470006591958/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_dassel_ver01:data:sn90059522:00175035424:1884072701:0400/pct:87.98053527980535,21.80106936204497,9.907542579075425,7.818794404160258/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5634,7 +5634,7 @@ The guiltless to destroy
   
 PUtle DepArtment
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_hotel_ver02:data:sn86064205:00175035138:1884080401:0944/pct:201.55251141552512,75.9548476882635,49.406392694063925,31.9777331065409/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_hotel_ver02:data:sn86064205:00175035138:1884080401:0944/pct:50.38812785388128,18.988711922065875,12.351598173515981,7.994433276635225/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5781,7 +5781,7 @@ handles.
 10. When angry count ten before you  
 speas: u very angry couui a nunureu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84020714:00296023024:1885041001:0263/pct:56.09688195991091,51.08919475452476,17.065701559020045,10.956974097756584/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84020714:00296023024:1885041001:0263/pct:42.08547960462202,38.32231494526932,12.808018933593207,8.215021133629566/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5810,7 +5810,7 @@ Has ever firmly stood;
 And tho&#x27; he promise to his loss  
 He makes his promise good
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_harry_ver01:data:sn82000205:00211102846:1885081301:0354/pct:96.44180874722016,357.5689991636465,45.21868050407709,21.46640646780039/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_harry_ver01:data:sn82000205:00211102846:1885081301:0354/pct:24.119391916944753,89.39224979091162,11.308861698183167,5.366601616950097/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5847,7 +5847,7 @@ His treasury to employ,
 Whom no rewards can ever bribe  
 The guiltless to destroy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_florence_ver01:data:sn85040344:00271769210:1886010901:0420/pct:29.424307036247335,4.849762783342119,9.008528784648188,9.19346336320506/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_florence_ver01:data:sn85040344:00271769210:1886010901:0420/pct:29.424307036247335,4.849762783342119,9.02185501066098,9.196977684062555/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5913,7 +5913,7 @@ Has ever ririuly stood;
 And tho&#x27; he promise to his loss,  
 Ue makes his promise good
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eeyore_ver01:data:sn87052143:0029455659A:1887020501:0439/pct:59.303721488595436,63.00340495479629,12.334933973589436,7.796172361160033/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eeyore_ver01:data:sn87052143:0029455659A:1887020501:0439/pct:44.484466456551104,47.25842432781496,9.260093051178147,5.847129270870025/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5994,7 +5994,7 @@ by the smooth handle. 10. When an­
 gry count ten before you speak if very  
 angry a hundred
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_effie_ver01:data:sn83016810:00280768182:1891031401:0381/pct:69.23076923076923,69.32471989502372,12.142857142857142,8.660543050368426/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_effie_ver01:data:sn83016810:00280768182:1891031401:0381/pct:69.23076923076923,69.32471989502372,12.156593406593407,8.663907674708119/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6065,7 +6065,7 @@ too little.
 willingly.  
 8. How much pain the evils that neve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:0039334877A:1892071401:0114/pct:16.146168705730844,5.11556963510501,11.220218931101094,7.778951073565646/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:0039334877A:1892071401:0114/pct:16.143569934009335,5.114969497888316,11.222436826009979,7.780971374941342/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6084,7 +6084,7 @@ Smith, thus entitled : &quot;The portrait of a good
 man, by the most sublime of poets, for your  
 imitation.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_quartz_ver01:data:sn85025007:00175033634:1893011801:0464/pct:3.3549046321525884,20.286980867942138,13.726158038147139,2.3215118992067194/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_quartz_ver01:data:sn85025007:00175033634:1893011801:0464/pct:3.3662579473206176,20.294758127235962,13.720481380563124,2.3215118992067194/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6114,7 +6114,7 @@ eaten little.
 we do willingly.  
 8. How much pain the evil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jones_ver02:data:sn84037844:00415664850:1893021701:0050/pct:35.761973875181425,45.233160621761655,16.197387518142236,11.57167530224525/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jones_ver02:data:sn84037844:00415664850:1893021701:0050/pct:35.78374455732946,45.24611398963731,16.182873730043543,11.584628670120898/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6144,7 +6144,7 @@ eaten little
 we do willingly.  
 8. flow much pain the evils tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_duval_ver01:data:sn84038206:00393349256:1893021801:0031/pct:38.78097789685198,33.084607052593576,10.699933020763563,7.606210133590083/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_duval_ver01:data:sn84038206:00393349256:1893021801:0031/pct:38.77448518332496,33.080625752105895,10.702327138791228,7.608303249097473/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6174,7 +6174,7 @@ ingly. .
 have cost us.  
 9 Take things always by their smooth handle
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685154:1893030201:0035/pct:51.578947368421055,81.10497237569061,21.231380337636544,9.779005524861878/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685154:1893030201:0035/pct:51.56870532168388,81.09377157851125,21.23378342599947,9.782258435759333/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6315,7 +6315,7 @@ smooth handle. &#x27;
 10. When angry, count ten before  
 you speak; very angry, s hundred. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_douglas_ver01:data:sn84029671:00212473285:1895091301:0540/pct:45.73412698412698,129.07095456865747,18.22089947089947,16.220010209290454/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_douglas_ver01:data:sn84029671:00212473285:1895091301:0540/pct:30.49446006284108,86.05155691679428,12.15478749793286,10.80908626850434/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6350,7 +6350,7 @@ smooth handlo.
 10. When angry, countton, boloro  
 you speak; ii vory angry, a hundred
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn84026817:00202192245:1896021901:0038/pct:37.77156023699803,44.62062833432128,12.27781435154707,14.256075874333137/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn84026817:00202192245:1896021901:0038/pct:37.77567478604345,44.63174273858921,12.27781435154707,14.256075874333137/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6387,7 +6387,7 @@ smooth handle.
 fore you speak; if very angry, a  
 hundred
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn84026817:00202192245:1896031101:0051/pct:49.1768192295028,26.716222125054657,12.199539018768522,15.726570470776855/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn84026817:00202192245:1896031101:0051/pct:49.1768192295028,26.719865908759655,12.216002634178466,15.733858038186852/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6447,7 +6447,7 @@ will l&gt;e under my tender regard.”
 ALUMNI AT THE COLLEGE.  
 Yesterday was Alumni day a«t the A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:00332891984:1896061001:0141/pct:33.22120775268301,64.35963057750084,14.175876982220087,13.408256370312674/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:00332891984:1896061001:0141/pct:33.22120775268301,64.36333963873743,14.181216295584388,13.404547309076072/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6561,7 +6561,7 @@ too little.
 do willingly.  
 8. How much pain the evils tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_johns_ver01:data:sn92073049:00295879348:1897120701:0404/pct:84.06125921724333,86.4354289253639,19.6965399886557,15.340146588211004/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_johns_ver01:data:sn92073049:00295879348:1897120701:0404/pct:63.07277628032345,64.82915247238567,14.78223861540644,11.510271497883762/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6628,7 +6628,7 @@ too little.
 willingly.  
 8. How much pain the evils that neve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn85032019:00280760997:1897120801:0043/pct:41.640625,90.878104203863,30.885416666666668,17.286154844992694/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn85032019:00280760997:1897120801:0043/pct:27.767647824954416,60.59081317967863,20.60432404271946,11.52410322999513/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6772,7 +6772,7 @@ your life will he under my regard.”
 i If this be theism or infidelity, what  
 | honest man or pure woman will not pra
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_griffin_ver01:data:sn85042104:00332892071:1899062501:0410/pct:36.66558124389449,6.961325966850829,29.583197655486813,89.10497237569061/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_griffin_ver01:data:sn85042104:00332892071:1899062501:0410/pct:36.66558124389449,6.961325966850829,29.58862476934766,89.11233885819522/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6834,7 +6834,7 @@ smoothc handle.
 10. When angry, count ten before  
 you speak; if very angry, a hundred
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_evadeestruction_ver01:data:sn84026965:00294550835:1899102501:0278/pct:57.258765575195596,55.66507367582636,13.793103448275861,14.685384309040224/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_evadeestruction_ver01:data:sn84026965:00294550835:1899102501:0278/pct:57.2684246112238,55.67171113766096,13.802762484304067,14.685384309040224/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6868,7 +6868,7 @@ smoothe handle.
 10. When angry, count ten before  
 you epeak; if very angry, a hundred
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_evadeestruction_ver01:data:sn84026965:00294550859:1899102502:0860/pct:57.2040153528196,55.92156862745098,14.142308827871272,14.677871148459383/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_evadeestruction_ver01:data:sn84026965:00294550859:1899102502:0860/pct:57.2040153528196,55.92903828197946,14.152150378899714,14.677871148459383/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

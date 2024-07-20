@@ -503,7 +503,7 @@ Thrill the deepest notes of woe.
 A LAMENT, written when the author was  
 about to leave his native country.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00415667279:1849041401:0279/pct:6.013945380592679,5.309139784946237,83.12027890761185,27.486559139784948/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00415667279:1849041401:0279/pct:4.518378613976464,3.9874551971326166,62.342002033996806,20.62051971326165/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -551,7 +551,7 @@ Chords that vvibrate sweetest pleasure
 From the Petersburg &#x27;Republican,  
 Q31 The immense wealth said to hav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn85042204:00296023073:1849051201:0274/pct:76.51083238312428,25.8936441092939,47.26339794754846,100.75408872784253/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn85042204:00296023073:1849051201:0274/pct:57.40767146727506,19.420233081970423,35.476971338941965,75.5655665458819/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -720,7 +720,7 @@ Chords that vibrate sweetest pleasure,
 Thrill the deepest notes of woe 1  
 OAK GBOYE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027253:00279528517:1860021701:0439/pct:4.836415362731152,76.77923220767792,11.137980085348506,8.095919040809592/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027253:00279528517:1860021701:0439/pct:4.845898530109056,76.77923220767792,11.142721669037458,8.106918930810691/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -736,7 +736,7 @@ OAK GBOYE
 &quot;Chords that vibrate sweetest pleasure,  
 Thrill the deepest notes of woe.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn83035487:00211100485:1860052601:0059/pct:18.02967563837129,84.94016404464166,13.405797101449275,1.3849670566088477/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn83035487:00211100485:1860052601:0059/pct:13.52890422778257,63.70848460400699,10.06039689387403,1.0488100040338846/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -868,7 +868,7 @@ Finer feelings can bestow.
 Chords that vibrate sweetest pleasure  
 Thrill the deenest notes of woe.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_avanti_ver01:data:sn83030214:00175039788:1880012901:0251/pct:108.07839388145315,230.0022583559169,31.516889738687063,4.753839205058717/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_avanti_ver01:data:sn83030214:00175039788:1880012901:0251/pct:36.02613129381772,76.6674194519723,10.505629912895687,1.5846130683529058/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -907,7 +907,7 @@ ure, thrill the deepest notes of woe.
 You cannot dream yourself into a  
 character; you must hammer and forg
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775253:1880031101:0479/pct:97.21316818774446,92.73927392739274,14.48826597131682,16.12084285351612/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775253:1880031101:0479/pct:72.93772416041735,69.56080223406956,10.873818063253994,12.096978928662097/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -961,7 +961,7 @@ Finer feelings can bestow;
 Chords that vibrate sweetest pleasure  
 Thrill the deepest notes of woo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_ferrari_ver02:data:sn86088181:00200296941:1884061201:0984/pct:35.7088122605364,55.614106201864615,42.1455938697318,7.08012430752601/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_ferrari_ver02:data:sn86088181:00200296941:1884061201:0984/pct:8.928913584977964,13.903526550466154,10.538417321325925,1.7700310768815024/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1125,7 +1125,7 @@ wrapt in the deepest gloom.
 Chords that vibrate sweetest pleasure  
 Thrill the deepest notes of woe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_queen_ver01:data:sn85034438:0017504839A:1893032601:0514/pct:60.586080586080584,249.05595605904566,45.8974358974359,29.877560361597435/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_queen_ver01:data:sn85034438:0017504839A:1893032601:0514/pct:20.195360195360195,83.01865201968188,15.2991452991453,9.959186787199146/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

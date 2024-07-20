@@ -144,7 +144,7 @@ tion, until it shall be usurped from the
 States, and the Government of all be cons  
 solidated into one.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_kingler_ver01:data:sn87058152:00279529236:1857032301:0343/pct:123.28007825236388,52.97023879543583,32.81708509944571,12.645571109281262/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_kingler_ver01:data:sn87058152:00279529236:1857032301:0343/pct:41.09335941745462,17.656746265145276,10.939028366481905,4.21519036976042/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -191,7 +191,7 @@ Third. That &quot; the germ of the dissolution
 Fourth. That the tendency to consolidate  
 the government by strengthening the hands o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn84024558:00296028630:1857032601:0498/pct:53.96407556519046,24.400596535505333,14.462681944874575,6.14890443960078/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn84024558:00296028630:1857032601:0498/pct:53.96407556519046,24.408244426599364,14.462681944874575,6.14125654850675/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -216,7 +216,7 @@ field of juiisdiction, until all shall be usurped
 from the States, and the government of all be  
 consolidated into one.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021205:00517171906:1857032801:0286/pct:5.827505827505828,40.491944764096665,15.928515928515928,5.566743383199079/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021205:00517171906:1857032801:0286/pct:4.526294660778803,31.388651480807106,12.354476114010438,4.3179369031251165/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -240,7 +240,7 @@ tion, until it shall be usurped from the
 States, and the government of all, be con­  
 solidated into one.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159348:1857032801:0053/pct:27.175080558539204,84.9124854142357,13.027466625748044,5.962660443407234/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159348:1857032801:0053/pct:27.18531021431129,84.9124854142357,13.027466625748044,5.974329054842474/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -266,7 +266,7 @@ all be consolidated into one.&quot;
 Fourth. That the tendency to consoli­  
 date the. government by strengthenin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn87076863:00296028861:1857040201:0432/pct:6.456670467502851,40.32715376226827,16.277080957810718,10.261723009814613/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn87076863:00296028861:1857040201:0432/pct:4.848139170112648,30.25081788440567,12.220162555254527,7.6990185387131955/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -310,7 +310,7 @@ pike or gudgeon, hammer or anvil. On
 functionaries and theirs are warca Jescen  
 same workshop, made of Id gulf which i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776981:1857040301:0693/pct:294.3478260869565,150.3324660306447,43.18840579710145,51.86470078057242/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776981:1857040301:0693/pct:73.58695652173913,37.583116507661174,10.797101449275363,12.966175195143105/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -330,7 +330,7 @@ out by a rod of iron, and blasphemers of
 man, as incapable of self-government, be­  
 come his true historians
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776981:1857040301:0693/pct:293.4782608695652,203.87395200925124,42.89855072463768,7.111882046834345/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776981:1857040301:0693/pct:73.3695652173913,50.96848800231281,10.72463768115942,1.7779705117085862/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -356,7 +356,7 @@ Fourth. That the tendency to consolidate
   
 the Government by strengthening the handso ei e oi o a ane o eta o a in  eiin an a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1857040301:0268/pct:26.025236593059937,306.49819494584835,154.65299684542586,22.382671480144403/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1857040301:0268/pct:6.508875739644971,76.62454873646209,38.67850098619329,5.595667870036101/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -381,7 +381,7 @@ Siall be ururped from the States, and the Governmeat
 conrelidated into one  
 The action of the Free States at this time shoul
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530546:1857040701:0050/pct:104.48430493273543,226.61965096820464,47.11841886729779,16.22041596939995/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530546:1857040701:0050/pct:34.828101644245145,75.53988365606821,15.706139622432596,5.406805323133318/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -408,7 +408,7 @@ Fourth. That the tendencv to consoli
 date the government by strengthening tl  
 hnds of the federal judiciary, constitute
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775381:1857040901:0070/pct:38.87826641172722,61.6037971521359,14.165073295092416,8.456157881588808/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775381:1857040901:0070/pct:29.172644667623146,46.202847864101926,10.632871034592698,6.345241069198101/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -433,7 +433,7 @@ ted into one.”
 Fourth, That the tendency to consolidate the  
 government by strengthening the hands of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn85025594:0038334735A:1857041801:0271/pct:32.010113780025286,37.81818181818182,11.921618204804046,4.717703349282297/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn85025594:0038334735A:1857041801:0271/pct:32.014327855035816,37.824561403508774,11.92583227981458,4.717703349282297/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -473,7 +473,7 @@ and tbe blasphemers of man, as incapable of
 self-government, become hi* true historian*.&#x27;  
 In another letter dated the next year
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn86083444:00296028551:1857051501:0254/pct:79.80188825259248,74.36383003905787,12.397461693236341,16.818558409279206/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn86083444:00296028551:1857051501:0254/pct:79.80188825259248,74.36777527912574,12.402620853325079,16.814613169211345/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -499,7 +499,7 @@ Fourth. That th^tendency to consolidateJhe
 Government by strengthening the hands of the  
 Federal Judiciary, constituted, in his day, th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1857070901:0121/pct:51.555716353111436,21.76909279713018,11.999517607332368,5.503634475597092/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1857070901:0121/pct:51.555716353111436,21.77538626136757,12.011577424023155,5.503634475597092/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -569,7 +569,7 @@ thief, over the field of jurisdiction, until all snail be
 usurped from the Slate*, and the Government of all be  
 consolidated into one.&quot; - 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1858020401:0243/pct:28.46706586826347,91.29696054370399,14.203592814371257,3.841797243722862/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1858020401:0243/pct:28.471057884231538,91.30010697879302,14.207584830339322,3.844943678811906/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -600,7 +600,7 @@ of jurisdiction, until all shall be usurp­
 ed from the states and the government  
 of all be consolidated into one,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271769416:1858031001:0009/pct:56.92163930049393,70.28046914839368,12.575090108129755,8.934217236104029/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271769416:1858031001:0009/pct:56.93053886886486,70.28386877443481,12.57064032394429,8.930817610062894/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -646,7 +646,7 @@ uncontroliable, except by a rod of iron,
 blasphemers of man as incapable of self-­  
 government, become his true historian.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528669:1858100201:0051/pct:58.212290502793294,40.793323940609085,37.87709497206704,42.754958274628805/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528669:1858100201:0051/pct:19.404096834264433,13.597774646869693,12.625698324022347,14.251652758209602/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -664,7 +664,7 @@ working like gravity by night and by day,
   
 gaining a little to-day and a little to-mor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:0027952939A:1858103001:1007/pct:111.23274039059585,185.1061688638422,32.4667247170046,2.9888296266478815/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:0027952939A:1858103001:1007/pct:37.07758013019861,61.7020562879474,10.822241572334867,0.9962765422159605/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -695,7 +695,7 @@ field of jurisdiction, until all shall be usurped
 from the States, and tho Government of all be  
 consolidated into ono.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199276:1858112501:0996/pct:110.84837545126354,59.69061621068781,16.51624548736462,6.417795960112503/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199276:1858112501:0996/pct:83.15580429680448,44.77115827154181,12.402960823253295,4.819739197136283/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -752,7 +752,7 @@ little to-morrow, advancing its noiseless step over the
 field of jurisdiction, until all shall be usurped from the  
 States, and the Government of all consolidated into one.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1859012101:0652/pct:24.107850911974623,270.0192279248632,50.59476605868358,12.838337524034905/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1859012101:0652/pct:6.030549494147986,67.5048069812158,12.65621900416584,3.2095843810087263/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -777,7 +777,7 @@ em i less step like a thief, over the field of jurisdiction, until al
 the shall be usurped from the States, uud the government of a  
 in- | be consolidated into one.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1859022401:0470/pct:61.94165355283864,10.995752713544125,13.52136545212444,3.699858423784804/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1859022401:0470/pct:61.94972360085543,10.995752713544125,13.525400476132832,3.709296838131194/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -811,7 +811,7 @@ imagine they can lead os to a consolidat ’d Gov­
 ernment, while tbeir road leads dlrecly to a dis­  
 solution. This member of tbe Government wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kedzie_ver02:data:sn82014064:no_reel:1867022101:0002/pct:89.54135482632891,89.02646649125522,9.403185568988677,5.664757777433834/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kedzie_ver02:data:sn82014064:no_reel:1867022101:0002/pct:89.55094991364422,89.02646649125522,9.407983112646326,5.684104627766599/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -840,7 +840,7 @@ diction, until all shall be usurped from
 the States and the Government consoli­  
 dated into one
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_osceola_ver01:data:sn84022046:00279555223:1867051301:0452/pct:131.1863779381825,96.49726149535091,45.91893392559689,27.015666794038975/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_osceola_ver01:data:sn84022046:00279555223:1867051301:0452/pct:32.79052553663953,24.12124299541518,11.47760917838638,6.753056546102903/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -859,7 +859,7 @@ and advancing its noiseless step, like a thief
 over the field of jurisdiction, until all powers  
 should be usurped and consolidated into it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_hera_ver01:data:sn83021205:00517171554:1868011601:0054/pct:7.239819004524887,61.792717086834735,14.121417797888386,2.8151260504201683/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_hera_ver01:data:sn83021205:00517171554:1868011601:0054/pct:5.615624391194233,47.89608885994428,10.948762906682251,2.1853178479684505/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -900,7 +900,7 @@ ernor of the State of Tennessee, you will
 support the Constitution of the United  
 States. and of the State of Tennetsee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_hubert_ver01:data:sn85033681:0029602109A:1877022101:0234/pct:22.36842105263158,95.59531282695124,14.473684210526315,18.727767315337935/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_hubert_ver01:data:sn85033681:0029602109A:1877022101:0234/pct:16.78394579098254,71.69910023017367,10.854834506124577,14.051056706423939/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1006,7 +1006,7 @@ one government on the other, anti wil:
 become as venal and oppressive as the [  
 government from which vvc separated.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_elliot_ver01:data:sn87068079:0033289643A:1879070801:0153/pct:29.077212806026367,39.920668649950414,12.467043314500941,10.228077631392548/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_elliot_ver01:data:sn87068079:0033289643A:1879070801:0153/pct:29.07173790246658,39.91501416430595,12.469403125588402,10.230169971671389/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1034,7 +1034,7 @@ eniniirnt on the other, antl will become
 as venal and oppressive as the Govern­  
 ment from which we separated.&quot; Tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_judaspriest_ver01:data:sn84037890:00280763597:1879072301:0156/pct:111.79624664879357,112.25086367260165,14.460455764075068,8.25139516343343/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_judaspriest_ver01:data:sn84037890:00280763597:1879072301:0156/pct:83.88935456831517,84.18814775445124,10.863369656328583,6.191868190273718/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1061,7 +1061,7 @@ provided of one government on the other, and
 will become as venal and oppressive as the  
 government from which we separated.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84038582:00212471549:1879072601:0360/pct:253.26747720364742,331.65829145728645,59.27051671732523,26.606717799523935/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84038582:00212471549:1879072601:0360/pct:63.340935005701255,82.91457286432161,14.823261117445838,6.651679449880984/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1097,7 +1097,7 @@ f..cm of Goverimiuut. There are thoao in this
 ountry who believe in a strong, centralized  
 Government—in classes, in class legislation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacklin_ver01:data:sn86092182:00514157479:1879091301:0501/pct:55.51743853630646,47.38617200674536,12.254621688583953,8.783024170882518/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacklin_ver01:data:sn86092182:00514157479:1879091301:0501/pct:55.50685975609756,47.37951384010117,12.25705030487805,8.785302796121961/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1126,7 +1126,7 @@ ment on the other, and will become as
 venal and oppressive as t! e go\ e nment  
 from which we separated.” Any on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_elliot_ver01:data:sn87068079:0033289643A:1879092301:0197/pct:3.098699311400153,67.58819294456444,12.37566947207345,10.511159107271418/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_elliot_ver01:data:sn87068079:0033289643A:1879092301:0197/pct:3.098106712564544,67.57846242441693,12.378083763625932,10.513245033112582/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1168,7 +1168,7 @@ falsifies, scales, or lightens t ho gold
 or envoi coins, which have been or  
 which mav hereafter be coined at th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eeyore_ver01:data:sn87052143:00294556552:1879101101:0411/pct:112.93051359516616,33.41354830946938,13.323262839879154,16.159306942606186/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eeyore_ver01:data:sn87052143:00294556552:1879101101:0411/pct:84.73628532567629,25.063169293707134,10.004533776635938,12.116472145349537/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1201,7 +1201,7 @@ is opposed, and in its stead asks a re
 public based on the will of Its &quot;men.  
 under the constitution, and with th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eeyore_ver01:data:sn87052143:00294556552:1879112901:0444/pct:46.11178614823815,70.09368244054768,13.396111786148237,12.827288013451838/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eeyore_ver01:data:sn87052143:00294556552:1879112901:0444/pct:34.58909311863892,52.570261830410765,10.056205377487467,9.632476579389863/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1274,7 +1274,7 @@ for the Assembling of the South Carolina
 Democratic Convention.  
 Rooms of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551104:1880031801:0449/pct:50.385802469135804,16.802556192155134,12.160493827160494,9.144997796386074/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551104:1880031801:0449/pct:50.385802469135804,16.80990157191127,12.165637860082304,9.14867048626414/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1295,7 +1295,7 @@ all be consol [dated into ono.&quot; In tho
 light of subsequent events these words  
 appear to havo been truly prophetic, fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_evadeestruction_ver01:data:sn84026965:00294550847:1880031802:0748/pct:49.45992040932348,16.947984843265587,12.05230244457078,4.3288552072568605/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_evadeestruction_ver01:data:sn84026965:00294550847:1880031802:0748/pct:49.45992040932348,16.947984843265587,12.057039984839871,4.33268266544188/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1321,7 +1321,7 @@ official ought to be.
 Ir will save our country friends a great  
 deal of trouble if they will bear in mind tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_charlie_ver01:data:sn83045160:00280779581:1880032001:0250/pct:12.602459016393443,159.72710798422344,38.9344262295082,25.327790214262873/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_charlie_ver01:data:sn83045160:00280779581:1880032001:0250/pct:3.151421983089931,39.93177699605586,9.736100435562388,6.331947553565718/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1341,7 +1341,7 @@ shall be usutp&#x27;-d from the states
 and the governments of ail be con­  
 solidated irito one.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_frank_ver01:data:sn85033964:00296020540:1880032501:0049/pct:6.643258426966292,62.62717612480217,13.314606741573034,3.493104227899616/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_frank_ver01:data:sn85033964:00296020540:1880032501:0049/pct:4.988056765491078,46.97038209360163,9.9901643951103,2.6226543070314268/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1365,7 +1365,7 @@ yet he wrote the becharation of inde­
 monsionee.  
 One bottle of Johnson&#x27;s Anodyn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_angel_ver01:data:sn85034336:00211101039:1880032601:0636/pct:10.847730012053033,261.5946956817409,43.27038971474488,19.840190411424686/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_angel_ver01:data:sn85034336:00211101039:1880032601:0636/pct:3.6159100040176777,87.19823189391363,14.423463238248292,6.613396803808229/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1385,7 +1385,7 @@ jjsurped frpni the Stalts and the
 governments of all he. consolidated  
 juto oi.c.&quot; in tho light of fcubscqueu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_heddalettuce_ver01:data:sn93067822:00294558780:1880032601:0292/pct:3.011070110701107,52.570331036041125,13.682656826568266,4.4062817760705/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_heddalettuce_ver01:data:sn93067822:00294558780:1880032601:0292/pct:3.020910209102091,52.570331036041125,13.677736777367773,4.413813881670621/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1405,7 +1405,7 @@ usurped front the States and the
 governments of all he consolidated  
 jnto oi c.&quot; In the light of subsequen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_heddalettuce_ver01:data:sn93067822:00294558780:1880032601:0293/pct:3.510560815731974,52.90468133107727,13.619810633648944,4.3767625493513815/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_heddalettuce_ver01:data:sn93067822:00294558780:1880032601:0293/pct:3.5202719106579266,52.912201541643164,13.62466618111192,4.38052265463433/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1425,7 +1425,7 @@ usurped from the States and the
 governments of all be consolidated  
 jnto on-.&quot; In ihe light of suhsupicu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_heddalettuce_ver01:data:sn93067822:00294558780:1880032601:0294/pct:2.7798098024871982,52.071005917159766,13.51865398683248,4.376465334375349/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_heddalettuce_ver01:data:sn93067822:00294558780:1880032601:0294/pct:2.7895635210924166,52.071005917159766,13.528407705437699,4.380186818503219/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1464,7 +1464,7 @@ ed from the States and the govern-&#x27;
 ments of all be consolidated into  
 one.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jimmy_ver02:data:sn88061082:00296020618:1880040301:0268/pct:20.433222958057396,123.91660299093985,13.079470198675496,3.296583342429866/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jimmy_ver02:data:sn88061082:00296020618:1880040301:0268/pct:15.33471359558316,92.93745224320489,9.813664596273291,2.4778954262635082/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1489,7 +1489,7 @@ States and the governments of al
   
 be consolidated into one.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033306:00212470132:1880040801:0457/pct:20.778145695364238,71.33203527660062,14.514348785871965,4.673004237773451/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033306:00212470132:1880040801:0457/pct:15.592659031323306,53.49902645745046,10.887263695322202,3.504753178330088/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1524,7 +1524,7 @@ until all shall be usurped from the Stater
 and the Government of all consolldated  
 in one. Patriots have pondered over th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_india_ver02:data:sn86071158:00206536500:1893030901:0664/pct:106.0882800608828,171.88755020080322,50.989345509893454,19.443290402991277/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_india_ver02:data:sn86071158:00206536500:1893030901:0664/pct:26.5220700152207,42.971887550200805,12.747336377473363,4.860822600747819/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1552,7 +1552,7 @@ than be Usurped uum the states, and
 the government ot all consolidated iu  
 one,&quot; patiiots have pondered over th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_audi_ver01:data:sn86088296:00200297696:1893031601:1170/pct:44.32017543859649,6.594045025417574,39.84649122807018,120.4647785039942/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_audi_ver01:data:sn86088296:00200297696:1893031601:1170/pct:33.26750054860654,4.95279593318809,29.91002852754005,90.34132171387073/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1628,7 +1628,7 @@ of self-goerumeut become bis true
   
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_belgium_ver01:data:sn86088201:00211101829:1894021701:0325/pct:38.16359696641387,7.957204948177867,49.75622968580715,119.5921096623203/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_belgium_ver01:data:sn86088201:00211101829:1894021701:0325/pct:28.652751423149905,5.9679037111334,37.35429655733261,89.70244065529923/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1710,7 +1710,7 @@ isdiction, until all shall be usurped.”
 Friend of the Oppressed.  
 Mazeppa Tribune: At the presen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346800:1894091201:0576/pct:67.61397276494968,57.972360933689465,11.752516281823564,10.509813029845546/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346800:1894091201:0576/pct:67.6238405368068,57.972360933689465,11.747582395895007,10.517555065226649/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1749,7 +1749,7 @@ come as venal and oppressive as the govern­
 ment from which wa separated.&quot;  
 Mr. Chairman. I could continue these inte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_hobbs_ver01:data:sn84024283:00294556874:1894101101:0117/pct:87.73972602739725,44.61897961833052,18.578767123287673,12.839153576528625/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_hobbs_ver01:data:sn84024283:00294556874:1894101101:0117/pct:65.8273381294964,33.4674802025185,13.94313120931826,9.632610671167077/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1808,7 +1808,7 @@ he usurped from the States and the
 government of all be consolidated  
 into one.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_belair_ver01:data:sn89060136:00279522564:1895012501:0697/pct:56.023506366307544,95.09025270758123,16.31733594515181,7.379061371841155/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_belair_ver01:data:sn89060136:00279522564:1895012501:0697/pct:43.41885532108699,73.7036484369171,12.646121147715197,5.71140789375513/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1834,7 +1834,7 @@ shall be usurped from the States, and
 the government of all, be consolidated  
 Into, one.&quot; &#x27; &#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665568:1895091701:0176/pct:38.19060773480663,67.35191637630662,16.816298342541437,8.641114982578397/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665568:1895091701:0176/pct:28.655307391204236,50.51393728222997,12.618005986645176,6.480836236933798/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1862,7 +1862,7 @@ states and the government of all is
 consolidated into one.&quot;  
 In this noiseless and thief-like marc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn85030821:00212472888:1895092001:0193/pct:30.579613590939374,94.3494283284513,21.20253164556962,11.8491921005386/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn85030821:00212472888:1895092001:0193/pct:20.389805097451273,62.90276859113673,14.142928535732134,7.899461400359066/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1894,7 +1894,7 @@ usurped from the State and the gov- r
 &#x27; ernmentof all be consolidated into 1:  
 !S one.&quot; The sudden reversal of the de- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287393:1896052001:0233/pct:29.838087895142635,78.50768734544673,15.05011565150347,4.3651220298892595/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287393:1896052001:0233/pct:29.848368028784375,78.51485503350894,15.055255718324338,4.3615381858581515/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1929,7 +1929,7 @@ ernment of all be consolidated in one.”
 The sudden reversal of the decision in  
 the income tax cases has never bee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:00332891984:1896052201:0009/pct:65.10220768601799,59.02251385903383,14.488961569910057,5.453105554927028/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:00332891984:1896052201:0009/pct:65.10220768601799,59.02628502470114,14.499863723085308,5.453105554927028/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1961,7 +1961,7 @@ usurped from the State and the gov­
 ernment of all be consolidated into  
 one.&quot; The sudden reversal of the de
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_andersonpink_ver02:data:sn86063760:00294550793:1896052701:0531/pct:25.649576212310684,79.97221119491861,12.00500208420175,3.999603017070266/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_andersonpink_ver02:data:sn86063760:00294550793:1896052701:0531/pct:25.649576212310684,79.97221119491861,12.00500208420175,4.0029112081513825/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1983,7 +1983,7 @@ tion until all shall be usurped from y.
 the States and the government of r  
 ali be consolidated in one.&#x27;&#x27; The 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_bogoff_ver01:data:sn84026907:00295862373:1896052701:0035/pct:38.48427524237408,86.70273100078528,12.260581697800898,5.383474391414362/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_bogoff_ver01:data:sn84026907:00295862373:1896052701:0035/pct:38.48427524237408,86.70854782886892,12.264522739812406,5.380565977372539/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2006,7 +2006,7 @@ of jurisdiction until ali shall be usurped !
 from the States and the government of I  
 ail be consolidated into one.&quot; The 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_danastjames_ver01:data:sn93067846:00294551414:1896052701:0236/pct:17.72338543202595,89.74191135216009,15.998230610439398,5.863100804189265/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_danastjames_ver01:data:sn93067846:00294551414:1896052701:0236/pct:17.72338543202595,89.74502836481516,16.00314558144107,5.866217816844336/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2093,7 +2093,7 @@ man must bep ike or gudgeon, hatinmer
 or anvil  
 There is nothing quise as sovere as thes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_delta_ver01:data:sn86071197:00175034870:1896080601:0057/pct:210.68301225919438,241.2972227013973,51.40105078809107,43.47076073831292/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_delta_ver01:data:sn86071197:00175034870:1896080601:0057/pct:52.70536692223439,60.32430567534932,12.858707557502738,10.86769018457823/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2276,7 +2276,7 @@ ment from which we separated. It
 will be as in Europe, where every  
 man must be pike or gudgeon, ham
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:00332891996:1896090601:0044/pct:36.352,58.56315968675519,14.192,19.770741119055725/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:00332891996:1896090601:0044/pct:36.35733333333334,58.570725986456324,14.186666666666667,19.76695796920516/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2364,7 +2364,7 @@ we sepatated.­
 ‘ Sec how accurately he located the danger  
 and described the future. 1 have not th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_alakazam_ver01:data:sn84022960:00414212025:1896102301:0834/pct:53.02605210420842,32.428136176977084,14.969939879759519,9.69664856272354/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_alakazam_ver01:data:sn84022960:00414212025:1896102301:0834/pct:53.015427769985976,32.42384105960265,14.97194950911641,9.698675496688741/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2386,7 +2386,7 @@ little to-morrow and advancing its noisoless
 step like a thief over the field of jurisdiction,  
 until all shall be usurped.&quot; Again, in writ
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042945:1897070601:0460/pct:68.9209726443769,145.45454545454547,50.53191489361702,11.675281240498633/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042945:1897070601:0460/pct:17.23679209426074,36.36363636363637,12.637780311668568,2.918820310124658/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2443,7 +2443,7 @@ shall be usurped from the state and
 the government of all be consolidated  
 Into one.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_marmaduke_ver02:data:sn89066695:00415661782:1897072901:0503/pct:25.22590361445783,7.884822389666308,28.18147590361446,118.60871905274489/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_marmaduke_ver02:data:sn89066695:00415661782:1897072901:0503/pct:18.93011866641552,5.920344456404736,21.152759465059333,88.95317545748117/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2466,7 +2466,7 @@ morrow ind advancing its noiseless step
 like a thief over tho Hold of Jurisdiction,  
 until all shall bo usurped.&quot; Again, I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_foxtrot_ver01:data:sn87075048:00237289547:1897080601:0831/pct:23.31081081081081,18.304077010192525,15.99099099099099,4.912231030577576/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_foxtrot_ver01:data:sn87075048:00237289547:1897080601:0831/pct:17.499061209162598,13.731596828992073,11.997746901990237,3.6947904869762174/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2505,7 +2505,7 @@ The states and the Government
 OF All. BE ConsoliDated Into  
 On
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_delta_ver01:data:sn86071197:00175034900:1897083001:0173/pct:278.90818858560795,254.90074441687344,53.763440860215056,27.233250620347395/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_delta_ver01:data:sn86071197:00175034900:1897083001:0173/pct:69.75589573851883,63.72518610421836,13.446421183285064,6.808312655086849/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2583,7 +2583,7 @@ tion, until all shall be usurped from
 tne states, and the government of all  
 ba consolidated into one. Thmn .lf
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_harvey_ver03:data:sn82015080:00212473819:1897100601:0526/pct:103.6624203821656,113.83072514877672,18.398957730167922,20.59731099845713/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_harvey_ver03:data:sn82015080:00212473819:1897100601:0526/pct:69.12829423689546,75.88715009918448,12.2791775267883,13.731540665638088/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2620,7 +2620,7 @@ of jurisdiction until all shall be usurped
 from the States, and the government of  
 all be consolidated into one.—Thoma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:00332892150:1897101401:0172/pct:7.226392040495724,85.7946898323749,14.505149240705185,7.512541294506301/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:00332892150:1897101401:0172/pct:7.232210391575028,85.80284677189118,14.510967591784489,7.512541294506301/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2648,7 +2648,7 @@ usurped from the States, and the
 governm&#x27;ent of all be consoli­  
 dated into one.&quot; Jefferson&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_argentina_ver01:data:sn86089443:00206536007:1897101401:0500/pct:29.995655951346656,64.63967256249086,18.70112945264987,13.28753106271013/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_argentina_ver01:data:sn86089443:00206536007:1897101401:0500/pct:22.50706061264393,48.487063294839935,14.03432543993048,9.969302733518491/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2704,7 +2704,7 @@ diction, until all shall be usurped from
 the states, and the government of all  
 be consolidated into one.”—Jefferson’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346824:1897102001:0309/pct:19.383259911894275,74.60420032310178,11.72073154452009,6.138933764135703/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346824:1897102001:0309/pct:19.383259911894275,74.611380362592,11.729631112891024,6.138933764135703/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2731,7 +2731,7 @@ government of ali be consolidated
 into one.&quot;  
 The tendencies of the day ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_danastjames_ver01:data:sn93067846:00294551426:1897102001:0269/pct:1.2006603631997599,31.091011871113622,16.584121266696684,8.517052948935369/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_danastjames_ver01:data:sn93067846:00294551426:1897102001:0269/pct:1.2106658662264245,31.097292883612837,16.57411576367002,8.520193455184975/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2827,7 +2827,7 @@ til all shall be usurped from the States,&#x27;
 and the government of all be consoli­  
 dated into one.-—Thomas Jefferson i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_volvo_ver01:data:sn00065127:00295876529:1897102201:0484/pct:75.25417226165357,7.332058984161661,31.920199501246884,98.5800109229929/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_volvo_ver01:data:sn00065127:00295876529:1897102201:0484/pct:65.85352207239971,6.4155151128987296,27.930397806747607,86.26896579188403/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2863,7 +2863,7 @@ til all shall be usurped from the-States
 and the government of all be consoli­  
 dated into one.—Thomas Jefferson, I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_volvo_ver01:data:sn00065127:00295876529:1897112601:0524/pct:93.18795831725203,50.776566757493185,15.708220764183713,7.479564032697548/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_volvo_ver01:data:sn00065127:00295876529:1897112601:0524/pct:81.53880790229077,44.43693872685369,13.761467889908257,6.536596995946913/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2890,7 +2890,7 @@ til all shall Ih usurjs&#x27;d from the States
 and the government of all le consoli­  
 dated Into one.Thomas Jefferson, i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_larkspur_ver01:data:2018270201:0027952813A:1897120901:0266/pct:46.747135842880525,59.80636237897649,18.126022913256957,9.557399723374827/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_larkspur_ver01:data:2018270201:0027952813A:1897120901:0266/pct:35.072641702475956,44.85477178423236,13.607530182115818,7.178423236514523/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2969,7 +2969,7 @@ until all shall be usurped from the
 states and the government and all  
 be consolidated into one £|J|
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_volvo_ver01:data:sn00065127:00295876529:1898011401:0578/pct:28.008417830495503,54.6332834399238,14.023340348192079,9.810858620220438/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_volvo_ver01:data:sn00065127:00295876529:1898011401:0578/pct:24.513141007756264,47.81124737071874,12.276100664025446,8.584355280390522/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2996,7 +2996,7 @@ thief over the field of jurisdiction unti
 all shall bo usurped.&quot;  
 The great mind of this man foresa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_hobbs_ver01:data:sn84024283:00294556886:1898041401:0761/pct:91.24926340601061,77.29568411386593,15.851502651738361,10.629017447199265/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_hobbs_ver01:data:sn84024283:00294556886:1898041401:0761/pct:68.46448570586502,57.97750229568411,11.892130857648098,7.966023875114784/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3022,7 +3022,7 @@ to morrow and advancing its noiseless
 step like a thief over a held of jurisdic­  
 tion until all shall be usurped Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_indianola_ver01:data:sn95069778:00206538971:1898050501:0320/pct:32.40072202166065,21.632272114487193,18.035499398315284,8.762833143212694/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_indianola_ver01:data:sn95069778:00206538971:1898050501:0320/pct:24.315377670779416,16.226796640049777,13.526933493830876,6.5773099657782845/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3056,7 +3056,7 @@ step like* a thief over the lielei of juris­
 diction. until all shall lie* usurped.’  
 “Nothing said by others compares i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:00332892137:1898081401:0359/pct:33.82497541789577,33.606648199445985,14.454277286135694,5.019390581717452/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:00332892137:1898081401:0359/pct:33.83590079755272,33.606648199445985,14.454277286135694,5.026777469990766/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3086,7 +3086,7 @@ thief over the field of juris
 diction, until all shall be usur-icd.&#x27;  
 &quot;Nothing said by others compares i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_grandfather_ver01:data:sn99061556:00415667450:1898081601:0369/pct:105.87902769926512,38.866072322949016,18.979649519502544,6.801562656516078/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_grandfather_ver01:data:sn99061556:00415667450:1898081601:0369/pct:79.42049469964664,29.14955424221176,14.247349823321555,5.108684764098968/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3122,7 +3122,7 @@ usurped.” This was a severe indict­
 ment of the federal judiciary, but fully  
 justified when considered in the ligh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_irwin_ver01:data:sn86092518:00340582196:1898111901:0132/pct:18.70379920921437,78.05537669027689,12.635379061371841,6.014166130070831/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_irwin_ver01:data:sn86092518:00340582196:1898111901:0132/pct:18.70058439326229,78.04532577903683,12.637504297009281,6.016610867885656/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

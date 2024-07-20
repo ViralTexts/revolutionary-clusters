@@ -311,7 +311,7 @@ The best wishes that can be formed for your
 health, honor and happiness, ever attend you,  
 from yours, &amp;c. ‘ B. FRANKLIN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015143:1824081701:0337/pct:75.46593339443935,20.438732122149208,17.048579285059578,28.015075376884422/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015143:1824081701:0337/pct:75.46593339443935,20.438732122149208,17.058763621550057,28.018296611261434/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -357,7 +357,7 @@ The gross receipts at the grand testi­
 nonial benefit for the family of the late  
 2. H. Williams at Woodward&#x27;s garden
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_palisade_ver02:data:sn84022046:00279553986:1879102101:0377/pct:226.19186612181358,318.50524699257744,51.235648958941425,64.25646275915024/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_palisade_ver02:data:sn84022046:00279553986:1879102101:0377/pct:56.536964980544745,79.61612284069098,12.806420233463035,16.06206014075496/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -426,7 +426,7 @@ Washington is recalled in connec­
 tion with the sword which Fred­  
 erick the Great sent him just afte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_fluorine_ver01:data:sn88076013:00271740888:1891112801:0430/pct:30.88483620398514,33.994446648155495,11.009793988517393,13.26193309533254/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_fluorine_ver01:data:sn88076013:00271740888:1891112801:0430/pct:30.893279297534615,33.9977522147296,11.005572441742654,13.271849795054873/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

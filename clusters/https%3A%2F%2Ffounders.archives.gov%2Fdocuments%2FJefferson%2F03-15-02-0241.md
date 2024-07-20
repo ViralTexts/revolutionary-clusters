@@ -74,7 +74,7 @@ s nt crisis of our gambling commerce, lie
 pray* the I’rr-sidrot and Society n» accept his  
 ussuiaiic. S ot high II spcct and consideration
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183943:1820012201:0318/pct:19.325004056466007,72.959732345561,15.10627940937855,12.749432429203011/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183943:1820012201:0318/pct:19.321868916288125,72.95101553166069,15.109236426562838,12.75189167662286/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -124,7 +124,7 @@ He prays the President and Society to
 accept his assurances of high respect aud  
 consideration
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1820012601:1046/pct:47.33832807570978,48.27389117512574,21.23422712933754,27.217649748513946/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1820012601:1046/pct:47.35147213459516,48.281511964639535,21.23422712933754,27.217649748513946/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -282,7 +282,7 @@ sent crisis of our gambling commerce. He prays
 the President and Society to accept his assurance  
 of hich respect and consideration
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030212:00206530169:1842020301:0113/pct:52.688812751377924,91.98059655279182,48.994488306271414,46.63019919496336/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030212:00206530169:1842020301:0113/pct:17.562937583792642,30.66019885093061,16.331496102090473,15.543399731654453/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

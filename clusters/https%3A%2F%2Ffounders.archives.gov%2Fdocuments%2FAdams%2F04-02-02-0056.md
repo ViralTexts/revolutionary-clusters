@@ -161,9 +161,9 @@ confederate Indian nations, the region of their residence, on the south of th
 
 ## NEW YORK HISTORICAL SOCIETY.
 
-#### From _The United States magazine and Democratic review_
+#### From _The United States Magazine, and Democratic Review (1837-1851)_
 
-#### 1843-12-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1843-12-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 [This text is not available under an open license.]
 
@@ -334,7 +334,7 @@ ions in North America,’ 1755 by John Mitchell;
 and “A Map of the most inhabited part of Vir  
 ginia, containing the whole Province of Maryland,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn89053987:00414184418:1873051401:0221/pct:30.689488910318225,23.143500086550112,12.210703953712633,1.7223472390514107/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn89053987:00414184418:1873051401:0221/pct:30.68579004459443,23.141497187364777,12.213249768992808,1.725082936679648/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -250,7 +250,7 @@ ince. As 1st where persons quit their
 own Province and goe to another that  
 they may avoid their just debts th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_funston_ver01:data:sn84027670:00237283387:1879041701:0323/pct:123.02357836338419,46.41529474243229,98.26629680998613,331.7578332448221/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_funston_ver01:data:sn84027670:00237283387:1879041701:0323/pct:30.766562608394032,11.603823685608072,24.575095386749915,82.93945831120553/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -283,7 +283,7 @@ Commander of the several quotas upon
 service against the Common enemy as  
 he shall be advised for the good an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_funston_ver01:data:sn84027670:00237283387:1879041701:0323/pct:172.122052704577,96.76048858204992,49.09847434119279,39.88316516197557/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_funston_ver01:data:sn84027670:00237283387:1879041701:0323/pct:43.045438779049604,24.19012214551248,12.278876170655566,9.970791290493892/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

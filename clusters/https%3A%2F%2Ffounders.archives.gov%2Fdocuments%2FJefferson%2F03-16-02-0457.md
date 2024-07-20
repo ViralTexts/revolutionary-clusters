@@ -76,7 +76,7 @@ Accept the assurance of my affectionate and res­
 pectful attachment.  
 TH: JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826122901:0301/pct:18.253079507278834,11.888875409438311,15.165573508238682,23.25609608152372/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826122901:0301/pct:18.25015994881638,11.887433284813197,15.16847941991896,23.257318453825004/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -142,7 +142,7 @@ in the Union should gi.c atopy t„ every memtte,
 they fleet as a standing instruction, and o:rs  
 should set the exampl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn85025230:00414184108:1827010601:0049/pct:35.039370078740156,23.246264400593134,16.505148394912176,24.250028516026006/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn85025230:00414184108:1827010601:0049/pct:35.03406510219531,23.243613138686133,16.507696189755237,24.251064476885645/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -269,7 +269,7 @@ pable and so imminent, the States must shield
 THEMSELVES, AND MEET THE INVADER FOOT TO  
 FOOT/
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021205:00517171906:1857032801:0286/pct:6.021756021756022,32.39355581127733,16.064491064491065,6.573647871116226/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021205:00517171906:1857032801:0286/pct:4.671818546768366,25.104975660510572,12.44480128462465,5.1057188510274605/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -287,7 +287,7 @@ States from dangers so palpable, and so iniinent,
 the States must shield themselves, and meat the  
 invader foot lofoot&quot;. And still again, &quot;This wil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn83035487:00211100497:1857092601:0670/pct:52.61437908496732,58.888284860016306,18.482207697893973,2.8812177222071216/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn83035487:00211100497:1857092601:0670/pct:39.491371480472296,44.169611307420496,13.878292461398729,2.160913291655341/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -384,7 +384,7 @@ one consolidated mass.&quot;
   
 Again, in a letter to Mr. Hammond, unde
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199276:1858112501:0996/pct:110.72202166064982,53.029915622602914,16.57039711191336,5.944771158271542/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199276:1858112501:0996/pct:83.06553529517963,39.772436716952186,12.439068423903231,4.461774482229608/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -418,7 +418,7 @@ intermission, is to press us at last into one consolidated
 mass.&quot;  
 Again, in a letter to Mr. Hammond under date o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1859012101:0652/pct:24.028548770816812,254.40023665138293,50.753370340999204,14.317408667356899/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1859012101:0652/pct:6.0107121602856575,63.60005916284573,12.695893671890499,3.5793521668392247/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -453,7 +453,7 @@ ich elect, as a standing instruction, and ours should set the e*
 Ot. ample. Accept, with Mrs. Thwcat, the assurance of inj al  
 [.jy fectionate and respectful attachment.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1859022401:0470/pct:51.071298874228304,4.030202925908448,23.72594116934996,91.86408683341199/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1859022401:0470/pct:51.071298874228304,4.033349064023911,23.72594116934996,91.87037910964291/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -479,7 +479,7 @@ Ot. ample. Accept, with Mrs. Thwcat, the assurance of inj al
 &quot;the States must shield themselves and meet  
 the invader foot to foot.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775708:1859042901:0105/pct:24.85549132947977,330.06316355328585,48.554913294797686,3.816691304932133/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775708:1859042901:0105/pct:6.217242002530273,82.51579088832146,12.14530995843123,0.9541728262330332/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -528,7 +528,7 @@ vader foot to foot.”
 1 look, and have long looked, as our strongest  
 &#x27; bulwark.&quot;?7 Jtfftrton, 1U8
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1860031501:0687/pct:50.84905660377358,52.03198494825964,11.580188679245284,3.574788334901223/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1860031501:0687/pct:50.84905660377358,52.03198494825964,11.584119496855346,3.5810598933835056/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -640,7 +640,7 @@ imminent, the state? most shitld
 themsolve and meet the invader foot  
 to foot.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_belgium_ver01:data:sn86088201:00211101829:1894021701:0325/pct:38.353196099674975,87.094617184888,24.052004333694473,9.294550317619525/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_belgium_ver01:data:sn86088201:00211101829:1894021701:0325/pct:28.78828950935213,65.32932129722501,18.080780699376525,6.970912738214644/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -684,7 +684,7 @@ so imminent, the states must shield
 themselves and meet the invader foot  
 to foot.&quot; So earnest was the-estimate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_hotel_ver02:data:sn86071158:00206536548:1894041501:0969/pct:58.34254143646409,222.29535170711642,51.16022099447514,32.825997531879885/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_hotel_ver02:data:sn86071158:00206536548:1894041501:0969/pct:14.585635359116022,55.573837926779106,12.790055248618785,8.206499382969971/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -710,7 +710,7 @@ mass.&#x27;? In a&#x27; letter to C. Hammond, Aug.
 18, 1821, he said: &quot;It has long been my  
 opinion
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665568:1895091701:0176/pct:38.22513812154696,59.44250871080139,16.82780847145488,8.519163763066203/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665568:1895091701:0176/pct:28.678332949574028,44.58188153310105,12.62951876583007,6.393728222996516/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -731,7 +731,7 @@ which, working like gravity without in­
 termission, is to press us at last into  
 one consolidated mass.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn85030821:00212472888:1895092001:0193/pct:30.546302465023317,81.28130019843145,21.219187208527647,5.811206652178021/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn85030821:00212472888:1895092001:0193/pct:20.373146759953357,54.1906831711235,14.142928535732134,3.874137768118681/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -753,7 +753,7 @@ from dangers so palpable and so imm
 aent, the States must shield theinselves  
 and meet the invader foot to foo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_delta_ver01:data:sn86071197:00175034870:1896080601:0057/pct:210.68301225919438,225.547697084699,51.225919439579684,14.024495428670003/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_delta_ver01:data:sn86071197:00175034870:1896080601:0057/pct:52.70536692223439,56.38692427117475,12.814895947426068,3.5061238571675006/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -786,7 +786,7 @@ people that the judicial was the most
 dangerous of all the branches of our  
 Government, because the insufficienc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_hobbs_ver01:data:sn84024283:00294556886:1896081301:0051/pct:91.46969696969697,58.77213695395513,16.106060606060606,15.77331759149941/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_hobbs_ver01:data:sn84024283:00294556886:1896081301:0051/pct:68.62685662321915,44.08500590318772,12.0794180054562,11.829988193624557/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -833,7 +833,7 @@ and so imminent, the. States must
 shield themselves and meet the in­  
 vader foot to foot.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:00332891996:1896090601:0044/pct:37.056,55.31721711496992,12.768,2.394733855408013/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:00332891996:1896090601:0044/pct:37.06666666666667,55.31721711496992,12.768,2.394733855408013/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -854,7 +854,7 @@ No government can continue good but
 under tho control of tho people.  
 Tho representatives of the peoplo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_atherton_ver01:data:sn84026355:00211100229:1897061101:0672/pct:55.533381712627,36.854331784640614,15.874455732946299,5.834927575840394/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_atherton_ver01:data:sn84026355:00211100229:1897061101:0672/pct:41.67725540025413,27.64416507242416,11.907787257215466,4.386444383711397/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -891,7 +891,7 @@ ment which, working like gravity,
 Without, intermission, is to press us at  
 last into, one consolidated mass.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_hawk_ver01:data:2015270501:00415623069:1899080401:0408/pct:49.88399071925754,63.18541359431559,14.133797370456303,2.2791258881887653/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_hawk_ver01:data:2015270501:00415623069:1899080401:0408/pct:49.88399071925754,63.18876525003352,14.148298530549111,2.289180855342539/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -982,7 +982,7 @@ strument which, working like gravity.
 without intermission, is to press us  
 at last into one consolidated mas
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068402:00295878691:1899120701:0404/pct:96.01428571428572,72.10475474938285,14.814285714285715,2.994526135022003/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068402:00295878691:1899120701:0404/pct:72.02457493927704,54.08393259632929,11.11587369624232,2.243211334120425/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

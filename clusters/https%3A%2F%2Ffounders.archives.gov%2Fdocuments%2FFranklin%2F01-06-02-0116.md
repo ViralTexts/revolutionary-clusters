@@ -1252,7 +1252,7 @@ such consolidation of rallroads, as provided for in
 this act, or in any other law of this State, any fran­  
 chise, right, power, immunity or exemplion not o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_charlie_ver01:data:sn83045160:00280779520:1877050401:0373/pct:329.98276852383685,325.14377731769036,42.56174612291786,8.41959972394755/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_charlie_ver01:data:sn83045160:00280779520:1877050401:0373/pct:82.53124551070249,81.28594432942259,10.645022266915673,2.1048999309868877/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1370,7 +1370,7 @@ town of Lancaster into a borough according
 to certain limits and bounds hereinafter  
 described and to incorporate the freeholde
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282371:1888031701:0067/pct:18.721804511278197,103.71367061356297,51.12781954887218,33.04628632938644/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282371:1888031701:0067/pct:4.680451127819549,25.928417653390742,12.781954887218046,8.26157158234661/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

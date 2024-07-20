@@ -60,7 +60,7 @@ may be as well rained one way as another,’and with
 dithculty they are obtained ”  
 These are the deliberate opinions of Gr.Hf.RA
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1815020801:0355/pct:3.5113386978785663,82.99762292005505,17.62984637893197,7.418991617665458/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1815020801:0355/pct:3.5106966538672517,82.98724043032274,17.632717742427012,7.422233341672921/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -253,7 +253,7 @@ effects, whilst the disaffected are concerting measures
 e their submission, and spread terror and dismay  
 md to induce others to follow their example.&quot;?4 Spar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661083:1857010901:0054/pct:33.15831344470963,58.48938041975619,13.71519490851233,11.650119391730552/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661083:1857010901:0054/pct:33.15831344470963,58.49356960328432,13.720498541500929,11.654308575258682/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -281,7 +281,7 @@ which, well officered, would be daily improving, instead
 of continuing a destructive, expensive and disorderly  
 mob&quot; Frederick the Great of Prussia, with a popula
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024669:00414184741:1863122801:0612/pct:60.12436224489796,177.61280593898618,43.68622448979592,21.62162162162162/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024669:00414184741:1863122801:0612/pct:20.038259206121474,59.19740199489677,14.559753440671662,7.206371298229336/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -299,7 +299,7 @@ which, well officered, would be daily improving, instead
 of continuing a destructive, expensive and disorderly  
 mob.&quot; Frederick the Great of Prussia, with a populatio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743476:1864010101:0025/pct:8.658715896095408,159.29446798763027,46.381310243424274,5.1425953499026456/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743476:1864010101:0025/pct:2.886238632031803,53.09815599587676,15.460436747808092,1.7141984499675487/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -327,7 +327,7 @@ army, which, well officered, would be daily improv­
 ing, instead of continuing a destructive, expensive  
 and disorderly mob.&quot; Frederick the Great of Prus
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045706:00296022664:1864010601:0417/pct:92.29270021261517,37.49526574927408,20.198440822111976,9.014013382148718/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045706:00296022664:1864010601:0417/pct:69.26076936713349,28.127761646256786,15.156887076759439,6.754197702310314/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -426,7 +426,7 @@ mission and spread terror and dismay all
 around to induce others to follow the  
 example.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623926:1892040201:0065/pct:72.61097111843381,27.830054177359568,11.416941267687536,4.476760764185914/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623926:1892040201:0065/pct:72.61743231892486,27.839558977283527,11.423402468178587,4.467255964261953/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -65,7 +65,7 @@ nated by an offer of reparation which has been
 acceded to.  
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216146:1811111501:0411/pct:2.930103126534621,53.24535679374389,21.31281715501719,21.436950146627566/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216146:1811111501:0411/pct:2.9296235679214404,53.24015247776366,21.314784506273867,21.438112924771122/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -144,7 +144,7 @@ that subject of difference between lire two countries
 is terminated by an offer of reparation which ha#  
 been acceded to. » JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811111801:0836/pct:49.06172839506173,27.574698029243486,21.135802469135804,16.719643992371264/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811111801:0836/pct:49.04961737842508,27.570316224376292,21.136756356455198,16.720959796599395/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -180,7 +180,7 @@ tries is terminated by an&#x27; offer of reparaidn
 which has been acceded to. ST PR .  
 ; JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1811112001:0517/pct:73.41894060995185,28.04649788198207,23.03370786516854,7.743079499556694/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1811112001:0517/pct:73.42964151952916,28.049781630709617,23.03370786516854,7.739795750829146/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

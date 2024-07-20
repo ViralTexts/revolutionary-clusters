@@ -442,7 +442,7 @@ over again , ho answered : &quot;I say yea.
 I think with you that it is a good world  
 on the whole. &quot; Of politics , he says 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_fairbury_ver01:data:sn96080161:00206539215:1898110301:0252/pct:60.69794050343249,38.59362224039248,32.494279176201374,5.641864268192968/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_fairbury_ver01:data:sn96080161:00206539215:1898110301:0252/pct:45.5638236977676,28.945216680294358,24.384659416141957,4.231398201144726/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -353,7 +353,7 @@ been sold, aud that it ought to be a part of the policy of
 the government to adopt measures to promote sale and  
 settlement. I admit that a large part of the public do
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661204:1852031601:0264/pct:3.5140562248995986,25.81418833627872,16.214859437751002,4.670537742994194/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661204:1852031601:0264/pct:3.525211958946899,25.81418833627872,16.209281570727352,4.683160817975259/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -450,7 +450,7 @@ not how we rode through the storm with
   
 heart and hand, and made a happy port.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kautsky_ver01:data:sn87056600:00271740578:1879122401:0387/pct:25.15847860538827,59.142694389062946,19.156101426307448,17.843919111364283/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kautsky_ver01:data:sn87056600:00271740578:1879122401:0387/pct:18.886246531906462,44.360581031045285,14.367816091954023,13.38649957277129/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

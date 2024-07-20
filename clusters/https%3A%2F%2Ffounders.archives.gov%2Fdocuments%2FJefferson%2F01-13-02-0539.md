@@ -201,7 +201,7 @@ the Government, in a moit animat­
 ed and excellent speech, proved  
 the extreme impropriety of f{uc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1788091801:0253/pct:6.012454369765944,23.608078602620086,39.7680910457376,66.7849344978166/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1788091801:0253/pct:6.019612053539475,23.61717612809316,39.76093336196407,66.79403202328966/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -222,7 +222,7 @@ thould be reconsidered by the
 several states, and such objeQions  
 removed, as might be found neces
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1788091801:0253/pct:27.07751771526734,39.79257641921397,18.703027700236202,6.209061135371179/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1788091801:0253/pct:27.08467539904087,39.801673944687046,18.703027700236202,6.209061135371179/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -255,7 +255,7 @@ tion of the Constitution aforefaid,
 on the part of the State of North-  
 Carolina
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1788091801:0253/pct:26.948679407343782,49.91812227074236,18.85333905948035,16.812227074235807/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1788091801:0253/pct:26.948679407343782,49.92267103347889,18.867654427027414,16.825873362445414/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -398,7 +398,7 @@ proposition of the gentleman from Kentucky,
 member had made up his mind on the subject;  
 and the House and the country were exceedingl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1842022101:0486/pct:18.457943925233646,219.34009427224683,56.230529595015575,11.369804313669476/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1842022101:0486/pct:4.614485981308412,54.83502356806171,14.057632398753894,2.842451078417369/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -421,7 +421,7 @@ people, together with amendments to the most excep­
 tionable parts ol the said constitution of government,  
 ought to be referred by this convention to the othe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn86071855:00393348343:1850043001:0603/pct:6.574055957738212,65.7381221719457,14.517706906671885,3.860294117647059/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn86071855:00393348343:1850043001:0603/pct:6.572769953051643,65.72882793722607,14.519757433489827,3.8632829068287857/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -450,7 +450,7 @@ whole was then agreed to, ayes 89, noes 79; and
 the second resolution was agreed to without a di­  
 vision. The ratification was made to conform t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348367:1851050701:0425/pct:4.231974921630094,71.99601366742597,14.635579937304076,7.161161731207289/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348367:1851050701:0425/pct:4.2311459353574925,71.98576512455516,14.637610186092067,7.1637010676156585/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -517,7 +517,7 @@ The amendment was rejected--ayes 80,
 noes S8.  
 The first resolution of the Committee o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667711:1851052801:0676/pct:314.23785594639867,232.22551928783383,59.79899497487437,28.367952522255194/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667711:1851052801:0676/pct:78.60884139953907,58.05637982195846,14.959145191703332,7.091988130563799/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -544,7 +544,7 @@ was then agreed to, ayes 89, uoes 79 ; and the second
 resolution wasagreed to without a division. The rati­  
 fication was made to conform to the resolves, and 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348379:1851101101:0345/pct:50.445909267157816,76.75168161434978,14.385420705699884,5.3391255605381165/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348379:1851101101:0345/pct:50.43613103314596,76.74092756059969,14.387478193448343,5.3418803418803416/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -577,7 +577,7 @@ out a division. The ratification was made to
 conform to the resolves, and a bill of rights and  
 various amendments of the constitution wer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851101401:0558/pct:44.760011360408974,5.171335233196636,25.28637697623781,91.20038924028637/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851101401:0558/pct:44.755774327906096,5.170975813177648,25.287138710084562,91.19636734315634/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -607,7 +607,7 @@ noes 79; and the second resolution was a-
 greed to without a division. The ratifica­  
 tion was made to conform to the resolves
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851101601:0261/pct:344.83276963547536,78.73482067212652,46.16685456595265,31.530641061846936/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851101601:0261/pct:86.19199699417622,19.680926161231117,11.539545369152734,7.881547366934915/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -699,7 +699,7 @@ Constitution aforesaid on the part of the State
   
 South Carolina can neve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290069:1860051701:0427/pct:20.803522289488168,275.71926765475155,68.79471656576774,46.469049694856146/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290069:1860051701:0427/pct:5.200880572372042,68.92981691368789,17.198679141441936,11.617262423714037/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -731,7 +731,7 @@ ses an te cor vente the said Constitution, for their con.
 bideration, previous to the tatt e  
 said on the part of the State of North Carolina
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293290:1860052301:0493/pct:71.99558985667034,377.04362558238034,44.37706725468578,10.249894112664125/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293290:1860052301:0493/pct:17.998897464167584,94.26090639559509,11.094266813671444,2.562473528166031/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

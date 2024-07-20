@@ -72,7 +72,7 @@ concerning Consuls and Vice Consuls,&quot;
 and for the further protection of American  
 leamen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803030901:0185/pct:24.89076154806492,56.00754310344828,21.89450686641698,7.085129310344827/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803030901:0185/pct:24.8868778280543,56.00251414204902,21.89629167316794,7.087486157253599/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -100,7 +100,7 @@ late the coiiection .of duties on impoxts
   
 and tonnage.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803030901:0185/pct:24.95318352059925,77.83764367816092,22.17540574282147,4.9030172413793105/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803030901:0185/pct:24.949290060851926,77.83065457484062,22.177146720757268,4.905570021849091/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -145,7 +145,7 @@ any one voyage ; and ilPany such cap-.
 tain or malter shall refufe the {fame on  
 the requelt or order of the consul
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1803051001:0279/pct:42.53499222395023,50.98625224148237,16.36080870917574,21.109782825264/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1803051001:0279/pct:42.540176257128046,50.98625224148237,16.36080870917574,21.116424254499567/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -167,7 +167,7 @@ i.ayy dhe thousand eight hundred and three entir
 protection of American seamen,’’ and so much  
 5^ fbe first section of the act aforesaid as ra
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813022201:0365/pct:8.558780127889818,50.193673337637186,21.76586325627152,5.487411233053583/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813022201:0365/pct:8.55667568232112,50.185573664676454,21.766658470617163,5.490559948362111/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -285,7 +285,7 @@ in pursuance of the act supplementary to the act concerning
 consuls and vice consuls and for the further  
 protection of American seamen, passed the twentyeight
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82015015:00415661319:1844012401:0305/pct:3.438011608870368,15.323257766582703,17.42818871855931,3.8937867338371115/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82015015:00415661319:1844012401:0305/pct:3.438011608870368,15.323257766582703,17.44803294140993,3.8972851945144136/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -335,7 +335,7 @@ to provide for the relief of their distressed seamen in
 foreign countries and for their return home, it is not just  
 that the gevarn me nt ahould bear the expente of perfer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271742940:1846122201:0712/pct:146.90236246489343,184.04574861367837,48.93441268792334,32.740295748613676/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271742940:1846122201:0712/pct:48.96745415496448,61.34858287122612,16.31147089597445,10.91343191620456/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -433,7 +433,7 @@ sail from any port of the United States after the
 first day of May, (803), on his arrival at a  
 foreign port,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743087:1853080101:0251/pct:196.46959459459458,9.242250287026406,97.38175675675676,282.43398392652125/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743087:1853080101:0251/pct:65.48986486486487,3.080750095675469,32.460585585585584,94.14466130884041/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -452,7 +452,7 @@ plementary to the act concerning consuls and
 vice consuls and for the further protoction of  
 American seamen approved February twenty
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_coyote_ver02:data:sn88071075:0029602515A:1857010301:0213/pct:233.1812998859749,197.51658445313828,64.42417331812999,11.702670522197653/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_coyote_ver02:data:sn88071075:0029602515A:1857010301:0213/pct:58.31194753350442,49.37914611328457,16.110635871114912,2.9256676305494134/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -502,7 +502,7 @@ discharged in a foreign country, with the consent
 of the consul, vice-consul, commercial agent, or  
 vice commercial agent, there residing, signified i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026360:1860062201:0613/pct:27.548405466970387,34.763298677702636,11.090546697038725,3.936610477440194/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026360:1860062201:0613/pct:27.55315110098709,34.763298677702636,11.100037965072133,3.9433397261195786/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -624,7 +624,7 @@ An aer to increase the compensation of inpee­
 tors of customs in certain ports.  
 Be it enacted by the Senate and Hous o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_coyote_ver02:data:sn88071076:00296025173:1864070201:0125/pct:107.41222366710014,113.54401805869074,66.44993498049415,36.94507148231753/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_coyote_ver02:data:sn88071076:00296025173:1864070201:0125/pct:26.87052700065062,28.386004514672685,16.623292127521147,9.236267870579383/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -681,7 +681,7 @@ with the consent of the consul, vice con­
 sul, commercial agent or vice commercial  
 agent there residing, certified In writin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_endeavour_ver01:data:sn86063034:00414182215:1897071001:0716/pct:57.54405286343612,62.638628834797636,16.18942731277533,9.16030534351145/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_endeavour_ver01:data:sn86063034:00414182215:1897071001:0716/pct:44.60145099340889,48.55261199583271,12.546825359191995,7.102991516594732/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

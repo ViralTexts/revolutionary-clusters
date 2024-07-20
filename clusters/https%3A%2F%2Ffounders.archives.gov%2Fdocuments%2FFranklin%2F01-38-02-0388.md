@@ -1615,7 +1615,7 @@ hands and his substance is increased,&quot;
 tle the truth or falsity of this most serious  
 charge, and it resulted in showing that h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_kirby_ver02:data:sn83025661:00202197371:1837010401:0061/pct:106.71732522796353,105.48813231661475,19.908814589665653,4.736333369133283/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_kirby_ver02:data:sn83025661:00202197371:1837010401:0061/pct:80.08210430287365,79.12146922994307,14.94602402311084,3.5549350230909678/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1653,7 +1653,7 @@ and fro in the earth, and from walking
 vp and down it. Doctrine, The Devil  
 is a Walker? In the afternoon, Mr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197954:1837101101:0619/pct:29.67185761957731,49.68585848182099,19.57730812013348,3.9550932124832627/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197954:1837101101:0619/pct:22.26703755215577,37.26439386136574,14.687065368567454,2.966319909362447/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1766,7 +1766,7 @@ still he holdetb fast to his integrity, although
   
 thou movest me against him to destroy hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_kingsombra_ver01:data:sn83016884:0041566199A:1841021701:0314/pct:42.07389749702026,112.26200331125828,34.80333730631705,4.573675496688741/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_kingsombra_ver01:data:sn83016884:0041566199A:1841021701:0314/pct:31.564828614008942,84.19908940397352,26.11028315946349,3.435430463576159/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1863,7 +1863,7 @@ tan at that time appeared as “an angel of light,”
 or “assumed the garb of a ‘ Doctor in Divinity.’  
 But there he was1 the original protestor,’ read
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517016500:1843082501:0036/pct:34.05852907200616,46.51903314517296,15.075086638428957,10.261977131278043/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517016500:1843082501:0036/pct:34.051973051010584,46.512301013024604,15.076997112608277,10.26410998552822/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1924,7 +1924,7 @@ is this the sign, of a renewed soul, to desire to
 serve God when all is taken from him? Is he  
 a godly man that will serve God for nothing
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517016494:1845020701:0004/pct:50.78524124881741,31.5408030149297,14.550614947965942,4.029569502826496/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517016494:1845020701:0004/pct:50.77563374952705,31.536231884057973,14.5525917517972,4.032608695652174/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1966,7 +1966,7 @@ cheweth evil 1”
 
 ---
 
-## [From _The American review : a Whig journal of politics, literature, art, and science_](https://archive.org/details/sim_american-whig-review_1847-01_5_1/page/n52/mode/1up?view=theater)
+## [From _The American Review: a Whig Journal Devoted to Politics and Literature (1848-1850)_](https://archive.org/details/sim_american-whig-review_1847-01_5_1/page/n52/mode/1up?view=theater)
 
 #### 1847-01-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -2040,7 +2040,7 @@ repeated testimony concerning him. is, “ There is
 none like him in the earth, a perfect and upright  
 man, one that feareth God and escheweth evil.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517013547:1848022501:0276/pct:79.93251642692239,60.41778253883235,14.029479666133902,2.062131762185324/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517013547:1848022501:0276/pct:79.91832386363636,60.40969339938412,14.031427556818182,2.0652028383987147/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2058,7 +2058,7 @@ and about all that he has on every side ? When he
 blesses the work of his hands, and his substance  
 is increased in the land? But it is when he put
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517013547:1848022501:0277/pct:5.129589632829374,22.068215790188884,14.200863930885529,2.079086832450061/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517013547:1848022501:0277/pct:5.1286665466978585,22.065217391304348,14.202807270109771,2.082201086956522/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2139,7 +2139,7 @@ also among them. And the Lord said to Satan,
 Hast thou considered my servant Job that there is  
 none like him in all the earth?&quot; And Satan an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_diglett_ver01:data:sn82015378:00295872366:1850013101:0115/pct:87.4384236453202,242.23826714801444,38.854679802955665,5.956678700361011/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_diglett_ver01:data:sn82015378:00295872366:1850013101:0115/pct:29.14614121510673,80.74608904933815,12.951559934318555,1.9855595667870036/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2160,7 +2160,7 @@ als o among them, to present himself before the Lord.
 going to and fro in the earth, and from walking up and  
  down in it.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743014:1850050801:0591/pct:200.39408866995075,159.61904761904762,48.243021346469625,8.168067226890756/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743014:1850050801:0591/pct:66.79802955665025,53.20634920634921,16.081007115489875,2.722689075630252/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2204,7 +2204,7 @@ land!
 
 ---
 
-## [From _The American Whig review_](https://archive.org/details/sim_american-whig-review_1851-01_13_37/page/n90/mode/1up?view=theater)
+## [From _The American Whig Review (1850-1852)_](https://archive.org/details/sim_american-whig-review_1851-01_13_37/page/n90/mode/1up?view=theater)
 
 #### 1851-01-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -2364,7 +2364,7 @@ also among them”—an evil conscience came
 also among them!—« and the Lord said un­  
 to Satan”—and the Lord said unto au evi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517013523:1851071101:0320/pct:68.85533707865169,62.02836499866203,12.377106741573034,3.6125234145036127/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517013523:1851071101:0320/pct:68.84325083377216,62.020066889632105,12.379322450412499,3.6153846153846154/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2399,7 +2399,7 @@ was a day when the sons of God came to
 &#x27;present themselves before the Lord, and  
 Satan came also among them”—an evil con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624268:1851072301:0106/pct:79.39321117452688,50.89413055403182,14.64403724842295,2.2929237520570487/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624268:1851072301:0106/pct:79.40322419144888,50.89778752971293,14.639030739961951,2.2965807277381605/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2425,7 +2425,7 @@ Satan came also among them”—an evil con
 
 ---
 
-## [From _The American Whig review_](https://archive.org/details/sim_american-whig-review_1851-12_14_84/page/n72/mode/1up?view=theater)
+## [From _The American Whig Review (1850-1852)_](https://archive.org/details/sim_american-whig-review_1851-12_14_84/page/n72/mode/1up?view=theater)
 
 #### 1851-12-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -2497,7 +2497,7 @@ ing his character? God says of him, Job
 a perfect and an upright man, one that fear­  
 eth God and escheweth evil/’ It is no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024718:00414183748:1852032401:0051/pct:71.60262417994377,68.50771546857358,12.585352791538359,1.9382762514113663/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024718:00414183748:1852032401:0051/pct:71.59303882195448,68.5012701100762,12.588130298973672,1.94122996832565/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2570,7 +2570,7 @@ will curse thee to thy face;&quot; but he could not fore-­
 tell that he would curse him unless his hand  
 were put forth He could not, therefore
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743063:1852113001:1030/pct:9.371390859594126,21.057951482479783,47.12093713908596,7.0754716981132075/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743063:1852113001:1030/pct:3.1237969531980423,7.019317160826595,15.706979046361987,2.358490566037736/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2633,7 +2633,7 @@ work of their hands and their substance is in­
 creased in the land.  
 Hut cast off thy snowy garb now and the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn84026884:00279557487:1854021701:0647/pct:6.387665198237886,47.4945295404814,14.86784140969163,3.7964989059080962/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn84026884:00279557487:1854021701:0647/pct:6.392909586742186,47.5018234865062,14.86784140969163,3.7928519328956964/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2682,7 +2682,7 @@ substance is increased in the land. Provi­
 dence has so smiled upon him—has so in­  
 creased the fruits of his labours—tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517016561:1855041301:0340/pct:42.9757555629359,26.870016453613466,12.205247426104284,3.51854195671434/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517016561:1855041301:0340/pct:42.96862028889258,26.86661604657049,12.207371741656981,3.521260440394837/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3121,7 +3121,7 @@ Huron, if he considers the Prosecuting Attorney
 of our criminal courts an evil being? Is he not  
 the most respectable officer of the court? an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774662:1861031101:0254/pct:225.01761804087386,345.95727951775655,48.907681465821,24.531516183986373/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774662:1861031101:0254/pct:56.274233345082834,86.48931987943914,12.231230172717659,6.132879045996593/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3414,7 +3414,7 @@ He was one of the greatost men of his age
 From the history of this great man it was ap­  
 peared that he was a tiller of the soil. H
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_frontier_ver01:data:sn86053571:00237288567:1868040601:0399/pct:63.29625884732052,164.93108728943338,48.93832153690597,16.385911179173046/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_frontier_ver01:data:sn86053571:00237288567:1868040601:0399/pct:15.828065739570164,41.232771822358345,12.237673830594185,4.096477794793262/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3538,7 +3538,7 @@ tolpresent themselves before the Lord,
 and Satan came also among them to  
 present himself before the Lord
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_deforest_ver02:data:sn84026847:00415665143:1872021901:0174/pct:51.70635522523889,58.1290037552463,12.103746397694524,8.703335542301746/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_deforest_ver02:data:sn84026847:00415665143:1872021901:0174/pct:51.71141109257293,58.13636698328547,12.108802265028565,8.707017156321331/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3590,7 +3590,7 @@ God came to present themselves before
 the Lord, and Satan came also among  
 them.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dagwood_ver01:data:sn85033995:00294556527:1872062201:0098/pct:172.0234604105572,271.1784749148161,39.12023460410557,5.780754317941487/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dagwood_ver01:data:sn85033995:00294556527:1872062201:0098/pct:43.0058651026393,67.79461872870402,9.780058651026392,1.4451885794853718/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3623,7 +3623,7 @@ reign in hell rather than to serve in
 heaven? And lo, I have been walking to  
 and tro in the earth, and I found that on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dagwood_ver01:data:sn85033995:00294556527:1872062201:0098/pct:172.08211143695016,333.3098343320409,39.354838709677416,28.010809540594526/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dagwood_ver01:data:sn85033995:00294556527:1872062201:0098/pct:43.02052785923754,83.32745858301023,9.838709677419354,7.002702385148631/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3727,7 +3727,7 @@ against the government established by our
 forefathers have marked the?history of-her  
 progress down to the present -moment
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551293:1877022201:0284/pct:25.504417776605564,38.25240866164266,12.14558881709086,5.962033768959268/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551293:1877022201:0284/pct:25.508813574223044,38.25558841298611,12.14558881709086,5.962033768959268/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3757,7 +3757,7 @@ established by our forefathers have
 marked the history of her progress  
 down to the present moment
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_ettabaker_ver02:data:sn84026913:00237288117:1877030101:0101/pct:105.74712643678161,165.95844693052553,45.359951603145795,30.25289085268403/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_ettabaker_ver02:data:sn84026913:00237288117:1877030101:0101/pct:35.24904214559387,55.319482310175175,15.119983867715264,10.084296950894675/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4080,7 +4080,7 @@ my servant Job, that there is none like him in
 the earth, as perfect and an upright- man. one  
 that feareth God and escheweth evil?&quot; My frien
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_newfoundland_ver04:data:sn83045462:00280654577:1882051701:0319/pct:29.39350834087676,74.01960784313725,13.707487391697917,1.9411764705882353/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_newfoundland_ver04:data:sn83045462:00280654577:1882051701:0319/pct:29.39997413681624,74.02450980392157,13.717186085607139,1.9436274509803921/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4099,7 +4099,7 @@ that there is none like him in the earth,
 as perfect and an upright man, one that  
 feareth bod and escheweth evil?&quot; M
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_archives_ver01:data:sn87082573:00211101106:1882060901:0997/pct:140.80645161290323,149.39887790542346,55.24193548387097,10.740048089767566/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_archives_ver01:data:sn87082573:00211101106:1882060901:0997/pct:35.208711433756804,37.349719476355865,13.813268804194394,2.6850120224418914/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4118,7 +4118,7 @@ that there is none like him in the earth,
 as perfect and an upright man, one that  
 feareth God and escheweth evil?&quot; M
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quiring_ver01:data:sn89064939:00206537930:1882061401:0321/pct:27.976337194971652,10.99332548095799,10.685235395612521,2.247742442088732/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quiring_ver01:data:sn89064939:00206537930:1882061401:0321/pct:27.98455344671761,10.999869127077607,10.681127269739545,2.2542860882083495/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4501,7 +4501,7 @@ sons of God came to present themselves
 before the Lord and Satan came also  
 among the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_eaton_ver01:data:sn85058130:00206535064:1886101001:0297/pct:22.394789579158317,134.33523475208426,23.196392785571142,8.896445809565598/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_eaton_ver01:data:sn85058130:00206535064:1886101001:0297/pct:14.932353432436948,89.55682316805617,15.466844830466009,5.930963873043733/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4524,7 +4524,7 @@ and said, &quot;From going to and fro in the
 earth, and from walking up and down in  
 it.&quot; This visit is repeated, see Job, 2 chap
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hilfiger_ver01:data:sn85025007:0041566395A:1886120401:0332/pct:51.510480887792845,76.52553558736928,15.582614056720098,4.893897857650523/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hilfiger_ver01:data:sn85025007:0041566395A:1886120401:0332/pct:51.520756267981916,76.52553558736928,15.592889436909166,4.9006667343554335/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4792,7 +4792,7 @@ published, namely, two huge volume, of
 near five thousand pages in small tvpe, tho  
 author Joseph Card. It was a commentar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_bobbsey_ver02:data:sn86063034:00414181983:1888111201:0837/pct:105.82506431459022,35.19086096405684,16.15214994487321,6.422401783226525/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_bobbsey_ver02:data:sn86063034:00414181983:1888111201:0837/pct:82.01367131871261,27.272727272727273,12.5367891388968,4.980925646008782/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4835,7 +4835,7 @@ tan answered the Lord, and said: From
 &#x27; going to and fro in the earth ami from  
 walking up and down In it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_denton_ver01:data:sn84026758:00279522527:1888111701:0188/pct:106.58122618635261,64.52734322770424,14.201593349497749,5.401791683380131/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_denton_ver01:data:sn84026758:00279522527:1888111701:0188/pct:82.60480515413181,50.01554350454216,11.01069303386873,4.179475665780111/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4856,7 +4856,7 @@ Then Satan answered the Lord, and
 said: From going to and fro in  
 ar an fon waing and d
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_bobcat_ver02:data:sn86075021:00294555328:1888111801:1116/pct:218.3022774327122,122.82561971629173,53.002070393374744,20.002865740077375/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_bobcat_ver02:data:sn86075021:00294555328:1888111801:1116/pct:54.57556935817805,30.70640492907293,13.250517598343686,5.000716435019344/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4898,7 +4898,7 @@ ing up and down in it.&quot;
 &quot;In my test,&quot; said Dr. Talmage, &quot;we  
 have Satan on his travels, and I a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_andersonpink_ver02:data:sn86063760:0029455077A:1888112101:0246/pct:15.682216207610253,19.156756756756756,14.042349944276388,5.0162162162162165/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_andersonpink_ver02:data:sn86063760:0029455077A:1888112101:0246/pct:15.692830228732156,19.156756756756756,14.037042933715439,5.023423423423424/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4921,7 +4921,7 @@ From going to aud fro iu the earth and
 from walking up aud down in it”  
 In my text we have Satan on his travels
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_agate_ver01:data:sn86074058:00383343604:1888112201:0008/pct:55.45486851457001,44.511880165289256,12.366737739872068,4.300103305785124/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_agate_ver01:data:sn86074058:00383343604:1888112201:0008/pct:55.44501687688755,44.506132989025176,12.368982057203766,4.302775984506133/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4966,7 +4966,7 @@ Satan answered the Lord, and said:
 From going to and fro in the earth and  
 from walking up and down in it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_ida_ver01:data:sn89058006:00296020461:1888112301:0582/pct:79.61766289714593,57.41653596235716,13.96068928379106,4.313242213757563/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_ida_ver01:data:sn89058006:00296020461:1888112301:0582/pct:59.73606248316725,43.06520277840018,10.476703474279558,3.2377324669504817/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5093,7 +5093,7 @@ the sons of God came to present them
 selves before the Lord, and Satan  
 came also among them.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ira_ver01:data:sn84023416:00202197516:1889091301:0749/pct:19.495245062179958,36.06663223140496,16.313094367227507,2.90547520661157/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ira_ver01:data:sn84023416:00202197516:1889091301:0749/pct:14.635931211123308,27.053202479338843,12.239297475301866,2.1823347107438016/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5118,7 +5118,7 @@ he “would have disdained to set with the
 dogs of his flock,” and before the sun was  
 set the pious father was bereaved of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016147:1889112801:0192/pct:61.19029275808937,29.36608781589722,11.093990755007704,5.012000564732458/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016147:1889112801:0192/pct:61.17850953206239,29.361942405420667,11.096668592335837,5.014822134387352/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5137,7 +5137,7 @@ like him in the earth, a perfect and up­
 right man, one that praiseth God and cs­  
 cheweth evil ?” Yet Job says of himsel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016147:1889121201:0200/pct:50.02843601895734,75.21551724137932,10.919431279620854,2.3132183908045976/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016147:1889121201:0200/pct:50.01895375284306,75.20471196667145,10.922100075815012,2.316477517598046/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5190,7 +5190,7 @@ escheweth evil? Then Satan answered the
 Lord and said, Doth Job fear God for  
 naught?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_franco_ver01:data:sn84024546:00237280179:1891010401:0054/pct:53.246753246753244,64.65025726602698,14.917976760082023,4.074537616465026/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_franco_ver01:data:sn84024546:00237280179:1891010401:0054/pct:39.941890275166635,48.49116951745237,11.194667578191762,3.059379780280907/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5208,7 +5208,7 @@ vant Job, that there is none like him in the
 • aith, a perfect and upright man, one that  
 . praiseth God and escheweth evil?” Ye
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016159:1891102901:0173/pct:13.80568356374808,56.23334735661198,11.808755760368664,1.991305567241621/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016159:1891102901:0173/pct:13.803033211748897,56.22546270330903,11.811288155116145,1.9945316881660122/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5228,7 +5228,7 @@ feareth God and escheweth evil ? and still
 he holdeth fast his integrity, although  
 thou movedst me against him to destro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016159:1891112601:0188/pct:27.099092284417548,36.706713780918726,11.062783661119516,2.7420494699646643/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016159:1891112601:0188/pct:27.093968614104746,36.70152628603731,11.06541879372282,2.745195025438101/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5369,7 +5369,7 @@ none like him in the earth, a per
 feet and an upright man, one that  
 feareth God and escheweth evil,an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_leek_ver02:data:sn99068116:00340581210:1893030201:0180/pct:22.344490294971724,67.72050155395992,13.953843802537062,7.973421926910299/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_leek_ver02:data:sn99068116:00340581210:1893030201:0180/pct:22.348311172245147,67.72050155395992,13.96912731163075,7.973421926910299/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5408,7 +5408,7 @@ was such a thing as real virtue and true
 religion, God gave Satan permission to  
 take away Job&#x27;s property and hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092392:00414187316:1893040501:0113/pct:44.70335735091216,33.605315304814084,12.248965200061322,4.021447721179625/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092392:00414187316:1893040501:0113/pct:44.69650521152667,33.6013986013986,12.252197016145514,4.024864024864025/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5457,7 +5457,7 @@ was such a thing as real virtue and true
 religion, God gave Satan permission to  
 take away Job&#x27;s property and hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bird_ver02:data:sn84023963:00212470703:1893040701:0224/pct:246.44727000747943,127.14708785784798,58.713537771129396,34.25468904244817/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bird_ver02:data:sn84023963:00212470703:1893040701:0224/pct:61.623340190761176,31.786771964461995,14.681129605386198,8.563672260612043/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5617,7 +5617,7 @@ thine hand.&quot; So a short time after this
 a messenger came unto Job, and said  
 The oxen were plowing, and th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_iavaroni_ver01:data:sn83045555:206539768:1893121601:0193/pct:25.807265388496468,114.65436051987191,36.629667003027244,26.389150499152382/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_iavaroni_ver01:data:sn83045555:206539768:1893121601:0193/pct:8.602421796165489,38.218120173290636,12.209889001009081,8.79638349971746/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5775,7 +5775,7 @@ earth as It Is In heaven. Never stop­
 ping, but talking on and on. Stepping  
 without mercy on whatever comes I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_baldwin_ver01:data:sn98066406:00296023334:1895041201:0173/pct:76.59438775510205,122.2546270330903,20.36033163265306,7.246214245653393/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_baldwin_ver01:data:sn98066406:00296023334:1895041201:0173/pct:51.09267825809539,81.50308468872686,13.574732812250758,4.834548513740886/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5987,7 +5987,7 @@ which may serve as a sample of the kind
 of version I would recommend.&quot;  
 We all remember a famous verse in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_charlotte_ver01:data:sn86072143:00280777134:1899020201:0059/pct:343.0527036276523,303.914390312588,44.558521560574945,38.52435933539848/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_charlotte_ver01:data:sn86072143:00280777134:1899020201:0059/pct:85.80722479027564,75.978597578147,11.145351823317926,9.63108983384962/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6008,7 +6008,7 @@ Does your majesty imagine that Job&#x27;s
 good conduct is the effect of mere personal  
 attachment and affection?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_charlotte_ver01:data:sn86072143:00280777134:1899020201:0059/pct:343.46338124572213,344.6916361588285,44.14784394250513,12.44719797240214/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_charlotte_ver01:data:sn86072143:00280777134:1899020201:0059/pct:85.90994692689608,86.17290903970712,11.042629686697483,3.111799493100535/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6061,7 +6061,7 @@ which may serve as a sample of the kind
 of version I would recommend.”  
 We ail rememlier a famous verst; In th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_denton_ver01:data:sn84026758:00279522369:1899021101:0023/pct:74.41925552756787,57.71183572153898,9.403862300587742,7.570799954868555/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_denton_ver01:data:sn84026758:00279522369:1899021101:0023/pct:74.41925552756787,57.71183572153898,9.413191529060546,7.585843769980067/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6087,7 +6087,7 @@ read that. I drew a deep 1 reath of relief
 und said to ley --elf, &quot;After all. there isa  
 stretch of humanity beyond Franklin&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_denton_ver01:data:sn84026758:00279522369:1899021101:0023/pct:74.39126784214946,65.75651585242018,9.389868457878533,4.592124562789123/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_denton_ver01:data:sn84026758:00279522369:1899021101:0023/pct:74.40059707062225,65.76027680619805,9.385203843642131,4.599646470344879/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6103,7 +6103,7 @@ stretch of humanity beyond Franklin&#x27;
 | which may serve as a sample of the kind  
 ! of version I would recommend.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_denton_ver01:data:sn84026758:00279522369:1899021101:0024/pct:74.34928631402182,63.81586370303509,9.585782255807445,0.699537402685321/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_denton_ver01:data:sn84026758:00279522369:1899021101:0024/pct:74.35395092825823,63.82338561059085,9.585782255807445,0.695776448907443/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6129,7 +6129,7 @@ i read that. 1 drew a deep 1 reatli of relief
 j and said to t.-ydf, &quot;After all. there is a  
 | stretch of humanity beyond Franklin’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_denton_ver01:data:sn84026758:00279522369:1899021101:0024/pct:74.34928631402182,65.32776712174207,9.585782255807445,4.682387453458197/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_denton_ver01:data:sn84026758:00279522369:1899021101:0024/pct:74.35395092825823,65.33528902929783,9.585782255807445,4.689909361013953/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6162,7 +6162,7 @@ Job, which may serve as a sample of
 the kind of version I would recom­  
 mend.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_inskip_ver01:data:sn82015104:00280768856:1899053101:0657/pct:43.76130198915009,37.32993197278912,12.2636856814072,8.879980563654033/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_inskip_ver01:data:sn82015104:00280768856:1899053101:0657/pct:43.765411803386485,37.332968901846456,12.267795495643597,8.879980563654033/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6187,7 +6187,7 @@ breath of relief, and said to myself,
 ity beyond Fianklin&#x27;s victorious good  
 sense.&#x27; The lover of literary curiosi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_inskip_ver01:data:sn82015104:00280768856:1899053101:0657/pct:43.77774124609568,59.11078717201166,12.2636856814072,5.077745383867833/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_inskip_ver01:data:sn82015104:00280768856:1899053101:0657/pct:43.78596087456847,59.113824101069,12.267795495643597,5.077745383867833/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6353,7 +6353,7 @@ verses, which may serve as a sample of
 the kind of version I would recom­  
 mend.” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_arbutus_ver01:data:sn85040614:00514152652:1899061501:0553/pct:38.28476269775187,74.68072642062097,14.837635303913405,1.7223198594024605/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_arbutus_ver01:data:sn85040614:00514152652:1899061501:0553/pct:38.29031362753261,74.68853739504003,14.843186233694144,1.7145088849834016/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6379,7 +6379,7 @@ first read that, I drew a deep breath of
 relief and said to myself, ‘After all,  
 there is a stretch of humanity beyon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_arbutus_ver01:data:sn85040614:00514152652:1899061501:0553/pct:38.251457119067446,77.65670767428237,14.870940882597836,6.994727592267135/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_arbutus_ver01:data:sn85040614:00514152652:1899061501:0553/pct:38.26255897862892,77.6606131614919,14.870940882597836,6.994727592267135/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6455,7 +6455,7 @@ Job which may servo as a samplo of
 the kind of version If would recom­  
 mend 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_batman_ver01:data:sn86069395:00206533225:1899070701:0450/pct:68.33202202989771,27.56989247311828,19.079464988198268,18.480286738351253/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_batman_ver01:data:sn86069395:00206533225:1899070701:0450/pct:51.27902400629674,20.684587813620073,14.30539157811885,13.853046594982079/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6480,7 +6480,7 @@ first I read that I drew a deep breath
 of relief and said to myself After all  
 there is a stretch of humanity beyon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_batman_ver01:data:sn86069395:00206533225:1899070701:0450/pct:67.9976396538159,72.38709677419355,19.00078678206137,9.691756272401435/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_batman_ver01:data:sn86069395:00206533225:1899070701:0450/pct:51.023219205037385,54.29390681003584,14.26603699330972,7.268817204301075/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6558,7 +6558,7 @@ verses, which may serve as a sample of
 the kind of version I would recom­  
 mend.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_heinlein_ver01:data:sn92067125:00517179760:1899080201:0074/pct:36.82609897705281,70.82837891399129,13.685374619850705,1.466508125247721/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_heinlein_ver01:data:sn92067125:00517179760:1899080201:0074/pct:36.833010782416366,70.82837891399129,13.713021841304949,1.4764169639318272/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6584,7 +6584,7 @@ first read that, I drew a deep breath of
 relief and said to myself, ‘After all,  
 there is a stretch of humanity beyon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_heinlein_ver01:data:sn92067125:00517179760:1899080201:0074/pct:36.82609897705281,73.60285374554103,13.768316284213437,6.718192627824019/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_heinlein_ver01:data:sn92067125:00517179760:1899080201:0074/pct:36.833010782416366,73.61276258422512,13.782139894940558,6.718192627824019/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6601,7 +6601,7 @@ verses, which may serve as a sample of
 the kind of version I would recom­  
 mend.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_volvo_ver01:data:sn00065127:00295876530:1899081101:0214/pct:43.160919540229884,80.84638636988184,15.363984674329503,1.8823852706787578/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_volvo_ver01:data:sn00065127:00295876530:1899081101:0214/pct:37.7716935799296,70.74500060113013,13.449181427054814,1.651104075662245/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6629,7 +6629,7 @@ first read that, I drew a deep breath of
 relief and said to myself, &#x27;After all,  
 there is a stretch of humanity beyon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_volvo_ver01:data:sn00065127:00295876530:1899081101:0214/pct:43.065134099616856,83.9791151415224,15.49808429118774,7.515801044242924/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_volvo_ver01:data:sn00065127:00295876530:1899081101:0214/pct:37.68788065038834,73.48214643529836,13.577694585684752,6.592393700156294/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -150,7 +150,7 @@ j the clubot honest whigs at —.—. j\ dieu.
 44 1 am your’s most afleclionutely,  
 __ “ B. F 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804052301:0147/pct:59.31136616068123,16.8624919302776,17.919289152165863,16.642995480955456/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804052301:0147/pct:59.300388672959464,16.86031500129099,17.922142019865507,16.645150185041743/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -190,7 +190,7 @@ conquer our whole territory. 21 |
 to the Club of honest whigs at ——.,  
 Adieu. lam ever yours most affic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804120401:0610/pct:6.478694756850943,75.87666263603386,17.107555837161414,17.896009673518744/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804120401:0610/pct:6.483974866677227,75.88338035738278,17.11811605681398,17.8993685341932/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -395,7 +395,7 @@ dates his mathematical head will easily calculate the
 time and expense necessary to kill us all and conquer our  
 whole territory.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026396:1861072201:0078/pct:31.08822710826607,35.74106966646931,10.92401892568884,4.529307282415631/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026396:1861072201:0078/pct:31.097504406716762,35.74106966646931,10.914741627238149,4.53588579698704/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -500,7 +500,7 @@ y Adieu.
 “I am vours, most affectionately,  
 &gt;. ‘ B. F.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_alvarez_ver01:data:sn84026688:00415623458:1871031101:0007/pct:45.90453741897466,57.708279262912015,14.005107051659792,16.18219569166883/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_alvarez_ver01:data:sn84026688:00415623458:1871031101:0007/pct:45.90453741897466,57.71260489661736,14.018202055915669,16.18219569166883/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

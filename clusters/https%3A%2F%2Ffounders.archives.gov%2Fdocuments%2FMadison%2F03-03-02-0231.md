@@ -69,7 +69,7 @@ ment to give to this government any assurance erj
 explanation inrelation to the American vessels and  
 cargoes seised unde? the Rambouillet decree 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811070101:0595/pct:28.511992168379834,55.90052015604682,21.43906020558003,23.878413524057216/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811070101:0595/pct:28.505015904086125,55.891435072322444,21.43993149009053,23.878595806923453/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -131,7 +131,7 @@ assum. z-c uroxplanation in relation to the
 Amcricsim vesscis and cargoes seized un­  
 der the- Rambouillet decrcc 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216134:1811070101:0587/pct:1.2921250218264362,4.805491990846682,46.167277806879696,87.91165058203164/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216134:1811070101:0587/pct:1.291899441340782,4.805013927576602,46.16503724394786,87.90622098421541/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -194,7 +194,7 @@ i sets and cargoea seized under the Kambouillet !
   
 decree 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811070901:0075/pct:41.11151339608979,25.7388105456775,17.90369297610427,19.803801348865726/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811070901:0075/pct:41.10407239819005,25.735654732712113,17.906485671191554,19.80546019290502/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -326,7 +326,7 @@ ance or explanation in relation to the Ameri­
 can vessels and c,v, ~ tsAi ized under the  
 Kambouillct decree 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811071101:0231/pct:43.28964371423297,57.94685384808223,17.555842717371238,24.05364753070945/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811071101:0231/pct:43.281653746770026,57.93959142749718,17.558754768057092,24.054810544345575/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -422,7 +422,7 @@ nv assurance or explanation in relation to
 the American vessels and cargoes seized  
 under the Rainbouillct decree 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216146:1811071701:0021/pct:2.3672530001643928,16.47218980941268,21.551865855663323,27.965772073123297/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216146:1811071701:0021/pct:2.366863905325444,16.470588235294116,21.553802323033093,27.96629395559877/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -637,7 +637,7 @@ _if so, what are articles {5 prohibited,
 government any affurance:or- expla­  
 ‘tion-in relation 1o the American vef
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1811073001:0121/pct:40.36172515071881,54.56857757777343,16.86504869377029,31.236548620622187/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1811073001:0121/pct:40.36172515071881,54.56857757777343,16.870201473695058,31.243070501532642/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -662,7 +662,7 @@ the enlarged views of an enlightened Statesman,
 neither impartial nor temperate in his opinions or  
 in his factions—and fitted to be at the bead of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811091601:0728/pct:26.265901721127463,26.036269430051814,21.12746320778249,7.367227979274611/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811091601:0728/pct:26.25935162094763,26.032054395337543,21.128428927680797,7.370082564351627/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -686,7 +686,7 @@ this government any assurance or explana­
 tion, in relation to the revocation or modifir  
 cation of these decrees ?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811102801:0352/pct:78.28971618134906,56.61569569063566,17.37928492443789,6.179704284089473/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811102801:0352/pct:78.27529021558873,56.608541824614605,17.38222467907377,6.183135371914751/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -708,7 +708,7 @@ this government any assurance or explana­
 tion, in relation to the revocation or rnodifi­  
 cation ot these decree
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811102901:0204/pct:22.360475754803293,31.85240034555103,17.548032936870996,4.41811674688387/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811102901:0204/pct:22.356384924990852,31.84846989141165,17.550920844005365,4.421684764725239/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -758,7 +758,7 @@ ment anv assurance or cxplar.at on in
 relation to the revocation or modification oi  
 those decrees ?”—This letter was dated th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812051101:0430/pct:27.89189189189189,52.774745269286754,22.965250965250966,9.434133915574964/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812051101:0430/pct:27.8875849289685,52.76994451014282,22.9668519662343,9.436307953546196/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

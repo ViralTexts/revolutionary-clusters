@@ -108,7 +108,7 @@ cept privateers of the powers at war with
 France, and except those veflels which fhail  
 &#x27;lave made prize of the fubjefts, people
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793081701:0001/pct:28.162214354682973,39.14348609165499,21.338912133891213,47.028216930158095/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793081701:0001/pct:28.170260701641453,39.14348609165499,21.363051174766657,47.033219931959174/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -248,7 +248,7 @@ pflible to find in the fipulations
 of the treaty, the sense given to them  
 by the government of the Unite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796121001:0198/pct:10.343764451980885,30.76158281964605,15.816247880376137,5.935573672698349/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796121001:0198/pct:10.343764451980885,30.764896931132764,15.826524844560916,5.935573672698349/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -267,7 +267,7 @@ United States, by any of the belligerent
 parties, for military service, offensive or  
 defensive, is deemed unlawful.&quot; Thes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661368:1849061901:0044/pct:30.416666666666668,41.468842729970326,13.118279569892474,3.592623993217465/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661368:1849061901:0044/pct:30.42562724014337,41.468842729970326,13.118279569892474,3.603221704111912/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

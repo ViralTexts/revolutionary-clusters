@@ -93,7 +93,7 @@ I understand probable cause to be a case
 made out by proof, furnishing good reason  
 to believe that the crime allcdged, has bee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807040301:0111/pct:60.14451416619129,78.05714285714286,17.493820117893137,1.8793650793650793/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807040301:0111/pct:60.133079847908746,78.04723209751143,17.49683143219265,1.8833587269341459/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -125,7 +125,7 @@ could not have been obtained by the last of
 March. I ought not to beheve, and I do  
 not believe, that there has been any remiss
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807040301:0112/pct:21.931967675249012,37.45882949075247,18.22965607968427,10.4383075753737/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807040301:0112/pct:21.92784667418264,37.45408486383787,18.232494049855944,10.441207515305045/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -142,7 +142,7 @@ and I understand probable cause to be a case made
 out by proof, furnishing good reason to believe that  
 the crime alledged, has been committed by th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807040801:0456/pct:31.979447027159285,18.611638203668566,20.699779789576706,2.103099304237824/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807040801:0456/pct:31.971624266144815,18.608695652173914,20.700831702544033,2.1067193675889326/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -171,7 +171,7 @@ Ohm, it is impossible to suppose that afiidavits es­
 tablishing the tact could not have been obtained by  
 the last of March. I ought not to believe, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807040801:0456/pct:75.01835086860778,54.664769133459835,20.748715439197454,9.97786211258697/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807040801:0456/pct:75.0,54.65612648221344,20.749755381604697,9.980237154150197/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -256,7 +256,7 @@ case made out by proof, furnishing good
 reason to bcli&lt; ve that the crime alleged*  
 has been committed by the person charg
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1807042301:0059/pct:63.71161548731642,13.669573415036531,26.51535380507343,5.491397596040537/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1807042301:0059/pct:63.69460758142018,13.666352497643732,26.517173874354867,5.497957901350927/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -325,7 +325,7 @@ the last ot Alarch. I ought not to be­
 lieve, and I do not believe, that there  
 has b en aov remissness on the part o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1807043001:0065/pct:66.15959434214038,11.616515045486354,26.421136909527622,26.615348728714718/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1807043001:0065/pct:66.1419423692636,11.613805970149254,26.422981145499822,26.616915422885572/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -343,7 +343,7 @@ since the opinion of the supreme court has de­
 clared the necessity of proving the fact, if it  
 exists.—Why is it not proved?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1807120801:0265/pct:6.789454676778621,60.45036078626524,17.280606717226437,2.2642448370241355/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1807120801:0265/pct:6.788228922188121,60.44284114939669,17.283504844436422,2.2681096322096446/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -498,7 +498,7 @@ I perceive it is high time to offer you my friendly
 salutations, and assure you of my constant and affec­  
 tionate esteem and respect. TH: JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn84021903:00414187432:1831061101:0090/pct:18.558352402745996,5.120026859157294,15.560640732265446,69.17911700520396/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn84021903:00414187432:1831061101:0090/pct:18.554106611759323,5.119167505874454,15.56280027453672,69.17170191339376/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -531,7 +531,7 @@ ment.”*
 
 ---
 
-## [From _The American Whig review_](https://archive.org/details/sim_american-whig-review_1850-10_12_34/page/n34/mode/1up?view=theater)
+## [From _The American Whig Review (1850-1852)_](https://archive.org/details/sim_american-whig-review_1850-10_12_34/page/n34/mode/1up?view=theater)
 
 #### 1850-10-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -664,7 +664,7 @@ ble cause ls a case made out by proof furnishing good
   
 reason to believe that the crime alleged has been co
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barack_ver01:data:sn86053573:00211101933:1881110901:0481/pct:182.31075697211156,15.285530270502361,101.59362549800797,30.055817947617005/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barack_ver01:data:sn86053573:00211101933:1881110901:0481/pct:45.59585492227979,3.8213825676255904,25.408529294539658,7.513954486904251/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -699,7 +699,7 @@ stand probable cause to be a case made
 out by proof, furnishing good reason to  
 brieve that the crime alleged has bee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_idyllwild_ver01:data:sn94052989:00175040389:1894091201:0323/pct:30.250509758228954,63.20265046935395,12.336149140693271,5.334069574820541/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_idyllwild_ver01:data:sn94052989:00175040389:1894091201:0323/pct:30.250509758228954,63.20265046935395,12.34585882124478,5.33775078225658/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

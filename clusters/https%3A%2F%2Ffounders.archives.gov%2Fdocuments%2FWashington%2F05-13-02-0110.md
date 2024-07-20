@@ -269,7 +269,7 @@ I certify the above to be a true copy
 from the original. B. W. Daxnminae,  
 Seerelary to the President of the U, S
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153188:1830012101:0419/pct:63.55837374114137,38.72167344567112,17.00857888847445,26.600813480534573/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153188:1830012101:0419/pct:63.55837374114137,38.72554716250242,17.033445231878652,26.608560914197174/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -354,7 +354,7 @@ had gone through the process prescribed in the 5th
 Section of the act of the 5th of August, and found that  
 there was due to aud from the several Slates, the ae
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184042:1831032601:0422/pct:65.77319587628865,54.56511839708561,15.228276877761413,2.8688524590163933/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184042:1831032601:0422/pct:65.76351052864085,54.558907228229934,15.230942914641927,2.872320242838171/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -372,7 +372,7 @@ oy virtue of the authori.y to them delegated, declare
 to be the final and conclusive balances due to and  
 from the several States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184042:1831032601:0422/pct:65.77319587628865,57.775500910746814,15.228276877761413,1.8101092896174864/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184042:1831032601:0422/pct:65.76351052864085,57.76892430278885,15.230942914641927,1.8136975905900208/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -402,7 +402,7 @@ virtue of the authority to them delegated,
 declare to be &quot;the final and conclusive balar  
 due to and from the several States.&quot; This cl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_buttery_ver01:data:sn83030213:00206530315:1850051801:0132/pct:54.78577939835916,53.570561088171,44.904284412032816,24.933203789166868/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_buttery_ver01:data:sn83030213:00206530315:1850051801:0132/pct:18.26192646611972,17.856853696056998,14.968094804010939,8.31106792972229/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -422,7 +422,7 @@ eby virtue of the authority to them delegated,&quot;
 they declare to he &quot;the ial and conclusive b  
 due to and from the several States.&quot; Thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743014:1850051801:0642/pct:53.81202760433782,135.82881662149956,52.26749917844233,8.107497741644083/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743014:1850051801:0642/pct:17.937342534779276,45.276272207166514,17.422499726147443,2.7024992472146945/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -441,7 +441,7 @@ tue of the authority to them delegated,&#x27;&#x27; they declare to be
 &quot;the final and conclusive balances due to and trom the  
 several Stales.&quot; This closed the account* of Georgia fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850051901:0610/pct:47.60746147607461,13.689503456945317,15.571776155717762,2.501571338780641/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850051901:0610/pct:47.60746147607461,13.693693693693694,15.577183022438497,2.501571338780641/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

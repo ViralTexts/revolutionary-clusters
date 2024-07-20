@@ -332,7 +332,7 @@ as such discoveries fhallin the opin­
 “ion of the Academy tend to promote  
 the good of mankind
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1801102001:0589/pct:40.49714373938552,5.3660443749389115,34.21337038752509,90.6167530055713/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1801102001:0589/pct:40.507436570428695,5.3725605186850425,34.2082239720035,90.6167530055713/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1188,7 +1188,7 @@ on heater light, that shall be made pub.
 lie in any part of the continent of Ameri­  
 ca during the preceding two years. Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184157:1824052101:0403/pct:21.982116244411326,71.99121900826447,16.69150521609538,7.205578512396694/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184157:1824052101:0403/pct:21.978021978021978,71.98192382182053,16.69460483019805,7.208952012050785/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1214,7 +1214,7 @@ in any part of the continent of America
 during the preceding two years. The  
 Academy has repeatedly announced th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021202:00517171980:1824052601:0150/pct:43.91032114724298,105.68773757567224,18.48111492627752,9.615655356891454/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021202:00517171980:1824052601:0150/pct:34.04122097573702,81.90943807965084,14.328202452387163,7.45953809783597/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1742,7 +1742,7 @@ Sciences, the interest of which is to be given once
 every second year as a premium to the author of  
 the most important discovery and improvement o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182963:1845103001:0135/pct:61.27851915626345,89.9633798996338,17.49892380542402,2.4684660246846604/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182963:1845103001:0135/pct:61.265332472562946,89.95117982099268,17.500537981493437,2.4715215622457283/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1940,7 +1940,7 @@ both together to be just equal to the interest of
 the $5,000. The founder thought it not impot­  
 sble that two years might now and then elaps
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530686:1861082001:0882/pct:103.79430853719421,191.36716417910446,48.27758362456316,54.32835820895522/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530686:1861082001:0882/pct:34.598102845731404,63.78905472636816,16.092527874854387,18.109452736318406/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1991,7 +1991,7 @@ the six per cents, how much ought the fund
 to be, increased according to the intent of the  
 donor? Among the papers of prime import
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530698:1861100501:0266/pct:152.77777777777777,155.57771407204288,49.15074309978768,53.907515891811045/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530698:1861100501:0266/pct:50.925925925925924,51.85923802401429,16.383581033262562,17.969171963937015/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2216,7 +2216,7 @@ reed this Academy to administer, empowered itt
   
 f the Academy, tend most
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fortran_ver01:data:sn83030214:00206530947:1870011501:0107/pct:101.29635707253036,168.9514245679589,49.80308500164096,33.34890238206446/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fortran_ver01:data:sn83030214:00206530947:1870011501:0107/pct:33.76545235751012,56.31714152265297,16.60102833388032,11.116300794021486/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2253,7 +2253,7 @@ two medals, one of gold and one ot silver, togeth
 
 ---
 
-## [From _Scientific American (1845-1908)_](https://archive.org/details/sim_scientific-american_1870-02-05_22_6/page/n8/mode/1up?view=theater)
+## [From _Scientific American_](https://archive.org/details/sim_scientific-american_1870-02-05_22_6/page/n8/mode/1up?view=theater)
 
 #### 1870-02-05 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 

@@ -102,7 +102,7 @@ State, bearing date respectively on the
 3Cth Sept. I7ih Oct and 11th Dec. 1812,  
 and on the 26th June, 18 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1814012201:0233/pct:44.611570247933884,22.129340437258865,17.96694214876033,17.43523792026456/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1814012201:0233/pct:44.60419765328045,22.12730779829154,17.969481628380983,17.436698202749458/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -276,7 +276,7 @@ tember, 17th Oct- her. and 11th December,
 All which is respectfully submitted&#x27;.  
 nj JAMES MONROE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1814012501:0324/pct:59.81239654221078,57.619577308120135,17.43608607688063,16.47509578544061/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1814012501:0324/pct:59.801397572637,57.61245674740484,17.439009439745004,16.47717910693689/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -317,7 +317,7 @@ December, 1812, and on the 26th June, 1813.
 All which is respectfully submitted.  
 J*S. MON RDF;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814012901:0031/pct:4.6844957175319,17.755900842130234,16.570529627687467,13.93666231763729/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814012901:0031/pct:4.683677036001398,17.753795066413662,16.57345916346266,13.938962681846933/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -358,7 +358,7 @@ aud on the 26th of June, 1818. KEX
 Al which ie refpe&amp;fully submitted.  
 % JAMES MONROE, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814020101:0018/pct:5.528913963328632,75.20509603320143,16.99576868829337,18.048450921725703/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814020101:0018/pct:5.528913963328632,75.20509603320143,17.014574518100613,18.05810249975871/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -396,7 +396,7 @@ State, buri‘:: date respectively on the 301 Sept.
 June, 1813. All which is respectfully ‘t,mlcd-  
 JAMES NVE.,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1814020301:0976/pct:27.161116717120752,78.12898792578777,21.93070972082072,14.253460292529695/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1814020301:0976/pct:27.172328736405426,78.12898792578777,21.93070972082072,14.253460292529695/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -535,7 +535,7 @@ not be improper to communicate.
 Mr. SEViErt submitted the following:  
 Resotved, That the Presient of the United State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184595:1841060701:0508/pct:92.3545966228893,69.23339399454049,40.025015634771734,11.817561419472247/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184595:1841060701:0508/pct:30.78005314991402,23.075173433412942,13.339586264394768,3.9387391485651464/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -565,7 +565,7 @@ Mr. Sevier submitted the following:
   
 Resolved, That the President of the U. S. b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197978:1841061601:0098/pct:69.8707138842046,23.343667470432887,20.531197301854974,6.969801354920198/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197978:1841061601:0098/pct:52.41040056219255,17.51062119646343,15.404075895994378,5.235962797106442/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -628,7 +628,7 @@ respectively on the 30th September, 17th October, and
 All which is respectfully submitted.  
 neesenrase tis JAMEs MOnRoE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743208:1854122201:1435/pct:6.931515957446808,97.040072859745,47.556515957446805,26.787340619307834/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743208:1854122201:1435/pct:2.310505319148936,32.34669095324833,15.852171985815604,8.929113539769277/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

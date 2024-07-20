@@ -102,7 +102,7 @@ merce, they shall be subject to the same laws and usages to
 which the private individuals of their nation are subject in  
 the same place
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191241:1846120201:0279/pct:146.64926022628373,210.76353851328625,57.52828546562228,6.458123107971746/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191241:1846120201:0279/pct:36.67029379760609,52.69088462832156,14.385201305767138,1.6145307769929365/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -135,7 +135,7 @@ shall be subject to the same laws and usages to
 which&#x27;-the private individuals of their nation are  
 subject in the same place. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022615:1847021001:0025/pct:23.59978249048396,71.72818791946308,20.649809679173465,11.482802013422818/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022615:1847021001:0025/pct:17.70705834353325,53.796140939597315,15.503875968992247,8.61996644295302/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -170,7 +170,7 @@ ich consuls shall exercise commerce, they shall .
 i subject to the same laws and usages to which the ^  
 ivalc individuals of their nation are subject in the 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661381:1850111101:0482/pct:28.13161982770795,36.18738092569764,13.077248976133314,1.8379468788524038/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661381:1850111101:0482/pct:28.14103469378148,36.18738092569764,13.081956409170079,1.849153872016138/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -188,7 +188,7 @@ such consuls shall exercise commerce, they shall be subject to
 ?he same laws and usages to which the private individual, of  
 their nation are subject in the same pl.ce. The said consuls
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1850111601:0430/pct:19.128262076624097,18.211172102034226,15.588561910049972,2.163383919922506/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1850111601:0430/pct:19.128262076624097,18.214759803393964,15.588561910049972,2.1705593226419833/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

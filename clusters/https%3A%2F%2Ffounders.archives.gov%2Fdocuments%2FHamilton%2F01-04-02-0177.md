@@ -79,7 +79,7 @@ weight. “The important truth,” they say,
 “ ory ; so, in practice, it is subversive of the  
 “ order and ends of civil polity.” “ If we
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812022401:0067/pct:57.54279600570614,46.53769022059691,16.70827389443652,7.608823876371358/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812022401:0067/pct:57.5325369941166,46.532200990799716,16.711237891483925,7.6118581426437055/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -184,7 +184,7 @@ cism in theory, so, in practice, it is sub­
 versive of the order and ends of civil poli­  
 ty, by substituting violence in the place
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216249:1818091501:0196/pct:64.05174212393074,60.64193633254407,16.586688921343626,3.9857932123125495/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216249:1818091501:0196/pct:64.0383813099708,60.6339602788373,16.590182172159643,3.9896532070673856/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

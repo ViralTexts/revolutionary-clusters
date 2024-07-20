@@ -91,7 +91,7 @@ lated to destroy orovisiotis that to opposo au
 enemy. &quot;  
 At tho cloje of tho war, the right of tho fre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn83035487:00211100497:1857042501:0581/pct:26.216022889842634,64.97182905043287,18.0793991416309,6.018963858732994/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn83035487:00211100497:1857042501:0581/pct:19.674476837774996,48.72887178782465,13.557503130030407,4.521093857358801/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -121,7 +121,7 @@ i ,. , . , . ,
 are oetler calculated to destroy provis-  
 ions than 10 oppose an enemy.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237283703:1857042901:0510/pct:22.508038585209004,83.37188070602556,29.64630225080386,6.962872793670115/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237283703:1857042901:0510/pct:16.889174843171947,62.53195374315277,22.261540936142833,5.2221545952525865/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -150,7 +150,7 @@ present, carries with-it thoughts of cheering
 congratulation and instructive admonition.  
 &quot;Happy are we that we are citizens ot a fre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_brandonblaze_ver01:data:sn84026994:00294551724:1869070601:0227/pct:15.398145187080269,1.9191691126665162,27.90214262871762,96.77128019869045/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_brandonblaze_ver01:data:sn84026994:00294551724:1869070601:0227/pct:15.398145187080269,1.9191691126665162,27.912802473083893,96.77880635207346/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -166,7 +166,7 @@ congratulation and instructive admonition.
 There can be no such thing as Nation  
 al character or National sentiment amon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dagwood_ver01:data:sn85033995:00294556527:1873030801:0248/pct:23.73081463990555,125.9190321079572,39.37426210153483,2.7454630060493255/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dagwood_ver01:data:sn85033995:00294556527:1873030801:0248/pct:5.9344552701505755,31.4797580269893,9.846471803956304,0.6863657515123314/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -189,7 +189,7 @@ people, and those that come out as volunRr-is
 are not a little formidable to the  
 enemy.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026753:00415620391:1874011501:0446/pct:2.757851107922844,36.71736823487796,14.506615654391839,4.315528829147506/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026753:00415620391:1874011501:0446/pct:2.757851107922844,36.71736823487796,14.517243211647802,4.323389537397319/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -211,7 +211,7 @@ ile. and those that come out as volunteers arc
 not a little formidable to the enemy.&quot;  
 At the battle of New Orleans, under the im
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_gaylord_ver02:data:sn85033781:00296023747:1874011601:0333/pct:7.5178997613365155,46.92205264775171,21.047136038186157,5.039434600020486/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_gaylord_ver02:data:sn85033781:00296023747:1874011601:0333/pct:5.01268088915411,31.281368431834476,14.038490228256006,3.3596230666803235/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

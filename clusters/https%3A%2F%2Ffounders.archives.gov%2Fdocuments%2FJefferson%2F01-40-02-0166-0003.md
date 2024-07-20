@@ -94,7 +94,7 @@ his fidelity and good conduct, I have entire conf.
 nicnca that he will render himself acceptable to the  
 Mexican government, by hia conatant endeavors t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846051801:0525/pct:79.05150753768844,90.4508956145769,15.813442211055277,5.670166769610871/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846051801:0525/pct:79.05150753768844,90.4591311509162,15.829145728643216,5.670166769610871/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -120,7 +120,7 @@ l)Ulb&#x27;e &#x27;o-the Mexican Government by his constant endea­
 vors to preserve and advance Uie interest and happi.ess ol both  
 nations. I, therefore, request your excellency to receive him 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848011501:0044/pct:33.63740022805017,20.37037037037037,16.590649942987458,5.441945012497159/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848011501:0044/pct:33.64690231851007,20.37037037037037,16.585898897757506,5.445732030599106/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -140,7 +140,7 @@ Written at tLe city of Washington on the sixth
 day of March, in the yetir of our Lord one thousand  
 eight hundred and seventy-three
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_ariel_ver01:data:sn82015418:00212474289:1873041901:0174/pct:43.064762876083634,32.508948909860074,16.71341152473228,4.111074953899555/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_ariel_ver01:data:sn82015418:00212474289:1873041901:0174/pct:32.313185411884724,24.38442347326174,12.535067584799796,3.0914415880247317/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -159,7 +159,7 @@ our distinguished citisens, to reside near the Gov­
 ernment ef Your Majesty In the quality of Mint,  
 ter Resident of the United
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_brutus_ver02:data:sn85047084:00202195428:1885061301:0572/pct:12.792472024415057,108.60114404576183,15.615462868769074,2.922516900676027/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_brutus_ver02:data:sn85047084:00202195428:1885061301:0572/pct:9.604376033583513,81.45605824232969,11.716066658185982,2.1944877795111806/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -235,7 +235,7 @@ us. My knowledge of his high character and
 ability gives me confidence that he will con  
 stantly endeavor to advance the interest an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mazda_ver01:data:sn83030214:0017503867A:1893111901:0256/pct:9.686700767263428,221.62340519137703,46.14769820971867,11.29564452265728/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mazda_ver01:data:sn83030214:0017503867A:1893111901:0256/pct:3.2289002557544757,73.87446839712568,15.382566069906224,3.7652148408857604/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -263,7 +263,7 @@ interests and prosperity of both govern­
 ments and to render himself acceptable to  
 your excellency.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drew_ver02:data:sn86063034:00414182112:1893111901:0161/pct:21.401515151515152,24.233825198637913,16.34469696969697,7.973893303064699/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drew_ver02:data:sn86063034:00414182112:1893111901:0161/pct:16.59572386124566,18.78825642341385,12.666960223102892,6.179672323424843/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -289,7 +289,7 @@ cultivate to the fullest extent the friend­
 hip which has so long subsisted between  
 us.&quot; In his speech presenting his creden
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_neruda_ver01:data:sn83030272:00175045107:1893111901:1057/pct:20.758928571428573,98.57532585632009,50.520833333333336,25.159139133070628/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_neruda_ver01:data:sn83030272:00175045107:1893111901:1057/pct:5.191663565314477,24.643831464080023,12.634908820245627,6.289784783267657/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -317,7 +317,7 @@ knowledge of his high character and
 ability gives me confidence that he will  
 constantly endeavor to advance the in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_betelgeuse_ver01:data:sn90059959:00271742836:1893112501:0461/pct:34.97601395551679,34.82024646094307,13.970053786887629,7.00682350544862/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_betelgeuse_ver01:data:sn90059959:00271742836:1893112501:0461/pct:34.97601395551679,34.82024646094307,13.974899452439793,7.010218284278779/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -389,7 +389,7 @@ render his mission acceptable to your
 excellency. I therefore request your  
 excellency to receive him favorably an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_inge_ver01:data:sn82016014:00295871350:1897052701:0387/pct:110.76732673267327,39.87351302514681,16.796322489391795,10.64598705014305/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_inge_ver01:data:sn82016014:00295871350:1897052701:0387/pct:83.0946065428824,29.905134768860112,12.608311229000885,7.995783767504894/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -418,7 +418,7 @@ ege
 gives me entire confidence that he will  
 constantly endeavor to advance the in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:206534655:1897052701:0668/pct:40.5111821086262,30.572597137014316,17.396166134185304,7.540899795501023/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:206534655:1897052701:0668/pct:27.017095382648986,20.3859918200409,11.599297012302285,5.023006134969325/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -453,7 +453,7 @@ friendship so long existing between the two
 governments.  
 My knowledge of his high qualities and talent
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_lotus_ver01:data:sn83030214:00175039144:1897091401:0221/pct:103.02780977455981,48.633192268100196,48.05002468323186,14.74322314994853/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_lotus_ver01:data:sn83030214:00175039144:1897091401:0221/pct:34.34260325818661,16.211064089366733,16.01667489441062,4.91440771664951/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -479,7 +479,7 @@ the friendship so long existing between the
 two governments.  
 &quot;My knowledge of his high qualities an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_fletcher_ver01:data:sn86063034:00414182227:1897091401:0141/pct:42.13687659264652,79.73736232702626,12.540953767746633,6.156452979384355/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_fletcher_ver01:data:sn86063034:00414182227:1897091401:0141/pct:42.13687659264652,79.74206909535913,12.55308821744934,6.1611597477172175/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -503,7 +503,7 @@ ests of the two countries and of our sin­
 cere, desire to cultivate and maintain the  
 friendship so long existing between th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_edwards_ver01:data:sn86063615:00211109129:1897091401:0280/pct:24.214071856287426,84.76481198834466,16.373502994011975,4.773137227695297/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_edwards_ver01:data:sn86063615:00211109129:1897091401:0280/pct:18.1733108740408,63.577077840987926,12.277746584315928,3.579852920771472/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -539,7 +539,7 @@ friendship so long existing between tbe­
 two governments.  
 &quot;My knowledge of his high qualitie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn82014248:00340587935:1897091501:0513/pct:84.83692542437535,11.296829971181555,13.103185199313371,5.057636887608069/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn82014248:00340587935:1897091501:0513/pct:84.82074752097635,11.29520242040052,13.105453852021357,5.060510012966431/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -66,7 +66,7 @@ chronicles of BaltiMore, being a com­
 plete history of Baltimore Town and Baltimore  
 City. By Col.J, Thomas Scharf, Mestolks o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558329:1874092801:0317/pct:156.95592286501378,173.92630241423126,43.25068870523416,12.29987293519695/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558329:1874092801:0317/pct:39.25925925925926,43.481575603557815,10.818260120585702,3.0749682337992374/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -83,7 +83,7 @@ Chronicles OF BattiforE, being a com
 plete history of Baltimore Town and Baltimore  
 City. By CoLJ. Thomas Scharf. MEMOies O
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558329:1874092901:0323/pct:296.05809128630705,296.1469762694565,43.08437067773168,3.41923960193927/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558329:1874092901:0323/pct:74.01452282157676,74.03674406736413,10.77109266943292,0.8548099004848175/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -100,7 +100,7 @@ OHrOniclesOF BatTiMOre, being a com
 plete history of Baltimore Town and Baltimore  
 City. By Col. J. Thomas Scharf. MEMOIrs O
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558329:1874100101:0332/pct:291.1141490088859,136.37178338240943,42.78879015721121,3.379848930994751/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558329:1874100101:0332/pct:72.77853725222147,34.09294584560236,10.697197539302802,0.8449622327486878/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -116,7 +116,7 @@ City. By Col. J. Thomas Scharf. MEMOIrs O
 CHInONIoleS OF BalTiMOrE, being a com  
 plete history of Baltimore Town and Baltimor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558329:1874100201:0336/pct:248.29700272479565,194.4437331967738,42.71117166212534,2.253232620663167/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558329:1874100201:0336/pct:62.07425068119891,48.61093329919345,10.677792915531334,0.5633081551657918/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -149,7 +149,7 @@ Chronicles OF BalTiMOrE, being a com­
 plete history of Baltimore Town and Baltimore  
 City. By Cot.J. Thomas Scharf. MEMoIRs o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558329:1874100501:0344/pct:247.599451303155,175.08348317492937,43.20987654320987,23.734908810685848/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558329:1874100501:0344/pct:61.921097770154375,43.77087079373234,10.806174957118353,5.933727202671462/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -166,7 +166,7 @@ Cheonicles of BaltiMOlE, being a com­
 plete history of Baltimore Town and Baltimore  
 City. By Col.J. Thomas Scharf. MeMoliss o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558329:1874100701:0351/pct:288.20301783264745,242.90479856299717,42.661179698216735,3.335899409802412/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558329:1874100701:0351/pct:72.0754716981132,60.72619964074929,10.668953687821613,0.833974852450603/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -200,7 +200,7 @@ Chronicles of BaltiMore, being a com-
 plete history of Baltimore Town and Baitimore  
 ity. By Col J. Thomas Scharf. MEMOirs o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558329:1874100801:0355/pct:151.76470588235293,35.956213779781066,43.529411764705884,23.59304571796523/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558329:1874100801:0355/pct:37.954309449636554,8.989053444945267,10.886119764624437,5.898261429491307/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -233,7 +233,7 @@ chronicles oF BalTiMore, being a com-
 plete history of Baltimore Town and Baltimore  
 City. By Col.J. Thomas Scharf. MEMoiks o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558329:1874101301:0371/pct:151.93798449612405,106.39906164472826,44.538407329105006,24.032321126026325/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558329:1874101301:0371/pct:37.991189427312776,26.599765411182066,11.136563876651982,6.008080281506581/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -250,7 +250,7 @@ Ohronicles oF BaltiMore, being a com
 plete history of Baltimore Town and Baltimose-  
 Ity MY GOleJTnomas 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558329:1874101401:0375/pct:151.6083916083916,71.71355498721228,44.26573426573427,3.0179028132992327/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558329:1874101401:0375/pct:37.92198705614833,17.92838874680307,11.072240685674304,0.7544757033248082/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

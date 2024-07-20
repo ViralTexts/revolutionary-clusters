@@ -114,7 +114,7 @@ Bench, Common Pleas, and Exchequer*,
 within his M«jeftv’s kingdom of England  
 or ought to have. • 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1772110501:0321/pct:94.38097458615061,33.728144388042864,28.421543483329447,7.2053017484489565/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1772110501:0321/pct:73.15545383364453,26.139219757403563,22.02613985424321,5.595016938039558/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -157,7 +157,7 @@ soever, as the Courts of kings-bench, common
 pleas, and exchequer, withia his majclty’s king­  
 dem of England, have or ought to have.” Whe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814010401:0002/pct:61.46736812171193,57.63038658054565,16.891795819707095,3.4223464764291913/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814010401:0002/pct:61.46736812171193,57.63038658054565,16.906014503057015,3.4287734181689644/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

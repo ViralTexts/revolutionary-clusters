@@ -538,7 +538,7 @@ wardens, fire-wards, and representatives are regularly
 ey ars chosen by the town. They  
 send committees to wait on the merchants clab, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_flavory_ver01:data:sn83030213:00206530613:1859032201:0547/pct:200.0,249.18151179585942,47.604840046411404,18.211362542128068/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_flavory_ver01:data:sn83030213:00206530613:1859032201:0547/pct:66.66666666666667,83.06050393195314,15.868280015470468,6.070454180709357/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -563,7 +563,7 @@ with his own circle. He and his friends would fornish
 temselves with ballots, ir cluding the names of the  
 parties fized upon, which they di-tributed on the day
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_flavory_ver01:data:sn83030213:00206530613:1859032201:0547/pct:199.65191447041272,275.0601829561868,47.405934029504394,16.08088589311507/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_flavory_ver01:data:sn83030213:00206530613:1859032201:0547/pct:66.55063815680424,91.68672765206227,15.801978009834798,5.360295297705023/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -595,7 +595,7 @@ the choice of men and measures. Captain
 unningham says they have often selected him  
 oto to those caucuses, &amp;c.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290082:1859040601:0323/pct:22.691879866518352,213.5769057284619,33.87096774193548,22.688317546233648/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290082:1859040601:0323/pct:5.673758865248227,53.394226432115474,8.468919482686692,5.672079386558412/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -622,7 +622,7 @@ and his frien&#x27;s would furnish themselves with
 llots, including the names of the parties fixed  
 upon, which they distributed on the days o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290082:1859040601:0323/pct:22.96996662958843,241.22688317546235,34.093437152391544,16.508795669824085/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290082:1859040601:0323/pct:5.743290223890975,60.30672079386559,8.52454456960089,4.127198917456021/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -645,7 +645,7 @@ fhen they had settled it, they separated, and
 sed each his particular influence within his ^  
 wn circle.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1859071401:0548/pct:74.75809341775177,63.12304927645891,12.411898220045394,4.8614395157476595/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1859071401:0548/pct:74.76605742045952,63.129354645480625,12.411898220045394,4.86459220025852/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1110,7 +1110,7 @@ to go to these caucuses.&quot; It has been
   
 conjectured that cancus is a corruptio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_foxtrot_ver01:data:sn86064205:00175035187:1885091301:1205/pct:211.91454396055875,122.7150937779101,51.52013147082991,57.993450431676095/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_foxtrot_ver01:data:sn86064205:00175035187:1885091301:1205/pct:53.00041101520756,30.678773444477525,12.885326757090013,14.498362607919024/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1192,7 +1192,7 @@ carried on, to lay their plans for intro­
 ducing certain persons into places of  
 trust and favor. From the fat tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_fleshgolem_ver02:data:sn92063989:00514153565:1886110601:0716/pct:54.75682593856655,39.72224546139044,9.716296928327646,2.459633564795449/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_fleshgolem_ver02:data:sn92063989:00514153565:1886110601:0716/pct:54.75682593856655,39.72224546139044,9.723407281001137,2.4624222649822918/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1364,7 +1364,7 @@ meet, make a caucus and lay their
 plan for introducing certain persons  
 into trust and power,&quot; and in his ref
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_janesville_ver01:data:sn85042460:00280768728:1888022601:0603/pct:5.278825163722961,56.69636543628907,12.006350466362374,1.9092066185829444/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_janesville_ver01:data:sn85042460:00280768728:1888022601:0603/pct:5.278825163722961,56.70107952670532,12.006350466362374,1.9139207089991985/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1447,7 +1447,7 @@ are chosen beforo they aro chosen by tho
 town.&quot;  
 Herein is told plainly enough what th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn84024448:0029602076A:1888071401:0120/pct:283.59253499222393,31.297071129707113,49.766718506998444,34.92329149232915/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn84024448:0029602076A:1888071401:0120/pct:70.89813374805598,7.824267782426778,12.441679626749611,8.730822873082287/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1469,7 +1469,7 @@ make a caucus, and lay their plans for in­
 troducing certain persons into places of  
 trust and power.&quot; This iMwsarm if th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn84024448:0029602076A:1888071401:0120/pct:283.59253499222393,77.43375174337517,49.61119751166407,14.170153417015342/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn84024448:0029602076A:1888071401:0120/pct:70.89813374805598,19.358437935843792,12.402799377916018,3.5425383542538356/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1487,7 +1487,7 @@ certain persons into places of trust and
 power.&quot; It was largely composed of men  
 in the shipbuilding industry and henc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn84026409:0028077652A:1892062201:0215/pct:232.53968253968253,314.68336812804455,40.10989010989011,7.608443516585479/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn84026409:0028077652A:1892062201:0215/pct:58.14379484048237,78.67084203201114,10.029003205617464,1.9021108791463697/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1514,7 +1514,7 @@ ward, and representatives are regularly
 chosen before they are chosen in the  
 town.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn84026409:0028077652A:1892062201:0215/pct:231.6849816849817,334.53954998840175,40.598290598290596,25.052192066805844/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn84026409:0028077652A:1892062201:0215/pct:57.930087009616855,83.63488749710044,10.151121966112044,6.263048016701461/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1586,7 +1586,7 @@ the parties fixed upon, which they distributed
 on the day of election. By acting in concert,  
 together with a careful and extensive distribu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:00175042933:1897050201:0637/pct:22.7168073676132,16.811329374143444,106.21642363775902,376.3057712806457/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:00175042933:1897050201:0637/pct:5.6792018419033,4.202832343535861,26.554105909439755,94.07644282016142/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1636,7 +1636,7 @@ n circle. He and his friends would furnish
 elves with ballots bearing the names af the  
  fixed upon, which they distributed on th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_rumi_ver01:data:sn83030272:00206539021:1899082001:0061/pct:29.450072358900144,338.5783718104496,41.24457308248915,20.959902794653704/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_rumi_ver01:data:sn83030272:00206539021:1899082001:0061/pct:7.362518089725036,84.6445929526124,10.311143270622287,5.239975698663426/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -172,7 +172,7 @@ them in health and prosperity long to live,
 and finally, after this life, to attain ever­  
 lasting joy and felicity. It is a prayer a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn85042437:00280775563:1865100701:0133/pct:349.93523316062175,268.8309988218353,38.73056994818653,23.092027752323602/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn85042437:00280775563:1865100701:0133/pct:87.52632431556779,67.20774970545882,9.687348128948647,5.773006938080901/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -194,7 +194,7 @@ enly gifts, grant them in health and prosperi-­
 ty long to live, and finally after this life to at-­  
 tain everlasting joy and felitety. It is a pray-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528347:1865101101:0251/pct:54.95142588530241,59.35191803669288,37.29238483234096,11.04360257326662/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528347:1865101101:0251/pct:18.317141961767472,19.783972678897626,12.430794944113654,3.6812008577555395/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

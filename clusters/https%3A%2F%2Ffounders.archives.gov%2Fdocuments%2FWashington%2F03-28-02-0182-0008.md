@@ -172,7 +172,7 @@ he will lay before the Board. I have the ho=
 nour to be, gentlemen, your most obedient  
 and humble fesvant. - G, WasaiNGToN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1780112701:0432/pct:65.16729448260581,73.04870892018779,28.650565034345224,18.970070422535212/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1780112701:0432/pct:65.18206662235025,73.05848982785602,28.650565034345224,18.970070422535212/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

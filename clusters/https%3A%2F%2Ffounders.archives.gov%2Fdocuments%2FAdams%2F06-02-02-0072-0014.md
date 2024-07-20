@@ -640,7 +640,7 @@ England, nor are they represented in Parliz­
 ment, but are fubjet toitsAuthority : And, in  
 the fame Predicament are the American Col
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775041401:0435/pct:8.205015398152222,86.8933408577878,27.54069511658601,3.4142212189616252/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775041401:0435/pct:8.212347851591142,86.8933408577878,27.54069511658601,3.4236267870579384/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1318,7 +1318,7 @@ Palatine, as prejudicial unto the com
 monwealth, quietness, rest and peace of  
 your Grace&#x27;s most bounden sutjects i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292984:1868071701:0071/pct:22.79596977329975,236.60886319845858,41.750629722921914,37.33140655105973/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292984:1868071701:0071/pct:5.698992443324937,59.152215799614645,10.437657430730479,9.332851637764932/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1348,7 +1348,7 @@ Parliament of their own election to represent the
 condition of their country; by lack thereof they have  
 been oftentimes touched and grieved by subsidte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042945:1897070701:0474/pct:287.5762195121951,154.19198055893074,50.91463414634146,28.857837181044957/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042945:1897070701:0474/pct:71.89405487804878,38.547995139732684,12.728658536585366,7.214459295261239/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

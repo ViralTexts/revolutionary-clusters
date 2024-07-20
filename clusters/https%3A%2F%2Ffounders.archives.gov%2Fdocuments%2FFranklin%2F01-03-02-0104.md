@@ -253,7 +253,7 @@ whole road, to be ascertained as herein before provided.
 and to appropriate the residue to or toward the pay  
 of the Inte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_airy_ver01:data:sn83030213:00206530431:1854021601:0320/pct:5.776762402088773,122.89646918013166,47.307441253263704,23.303411131059246/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_airy_ver01:data:sn83030213:00206530431:1854021601:0320/pct:1.9255874673629243,40.96548972671055,15.769147084421236,7.767803710353082/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

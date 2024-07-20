@@ -329,7 +329,7 @@ a sanguine spirit be inclined to cry —
 “Vision* of glory! spare my aching sight;  
 Ye unborn ages, crowd not on my soul!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215774:1845112501:0174/pct:7.146411864238081,35.841570842579515,14.850204041007267,1.9568287270526528/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215774:1845112501:0174/pct:7.145700636942675,35.83916083916084,14.852043524416136,1.958938497400036/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

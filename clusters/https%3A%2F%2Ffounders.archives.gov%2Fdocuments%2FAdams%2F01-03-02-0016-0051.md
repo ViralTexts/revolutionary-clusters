@@ -203,7 +203,7 @@ S.TtsoiV, Dec. 9: The committee of claims re­
 .ported that there is due to Williafh Chew, for riding  
 express to the salt-petee rock in Virginia, and bring
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157327:1851012401:0315/pct:3.4980472066564783,56.835333415810965,13.194090677534387,6.989978968204874/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157327:1851012401:0315/pct:3.497453310696095,56.82830282038595,13.19609507640068,6.9922068283028205/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -222,7 +222,7 @@ for 1 hems2l ves, or to establish such a form of go vern­
 ment as in their judgment is best adapted to secure  
 their futnre independence. In a previous articl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026359:1859081501:0160/pct:2.9980107985223077,32.16634625113832,10.997442455242966,2.114742487099059/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026359:1859081501:0160/pct:2.9980107985223077,32.17309184120881,11.006914843231979,2.1181152821343048/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

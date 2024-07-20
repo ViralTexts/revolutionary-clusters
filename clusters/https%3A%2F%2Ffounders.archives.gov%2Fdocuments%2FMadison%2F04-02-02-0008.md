@@ -78,7 +78,7 @@ i in the United States, ami creuling a distinction among the
 j Slates in the degrees of their sovereignty, would not have been  
 adopted, or perhaps thought of 7
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848120201:1191/pct:35.336918696614994,4.583020285499624,34.198038595381206,91.18457300275482/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848120201:1191/pct:35.336918696614994,4.583020285499624,34.21385637456501,91.18874697387093/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -139,7 +139,7 @@ sl ivet actually in the United Stalet, and creating a diitim ttoil
 among the Stalet in the dtgreet of their tovereignly,  
 wouhl not have been adopted, or perhaps thought of I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661137:1849012501:0104/pct:46.37936558795258,20.2936419061839,17.87888497276514,21.600099539629216/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661137:1849012501:0104/pct:46.38470575670191,20.30193687528514,17.889565310263805,21.600099539629216/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -186,7 +186,7 @@ degrees of their sovereignty, wculd not
 have been adopted or perhaps thought of?&#x27;  
 This letter fully explains the motiv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn89066057:00200292121:1849071601:0619/pct:76.806684733514,58.64826721028697,22.990063233965675,21.781401913125293/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn89066057:00200292121:1849071601:0619/pct:57.62367291619607,43.98620040771522,17.257736616218658,16.339971773561235/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -216,7 +216,7 @@ ot slaves actually in the United States, and creating a dis­
 tinction among the States in Ihe degree ol their sov.-r  
 I eighty, would not heve been adopted, or perhape though
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850020801:0171/pct:66.52499149948997,78.5220002611307,16.6609996599796,7.376942159550855/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850020801:0171/pct:66.52499149948997,78.53070461766114,16.6609996599796,7.381294337816077/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -252,7 +252,7 @@ and creating a distinction among the States in ;
 the deg;ees of their sovereignty, would not have  
 been adopted, or perhaj s thought o:&#x27;&quot;--A/
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:0041421583A:1850021501:0548/pct:59.659792834742944,71.28015370383548,12.819538154518673,9.798619511848004/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:0041421583A:1850021501:0548/pct:59.654123907259596,71.2750818272378,12.821487393893323,9.80029410369527/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -283,7 +283,7 @@ of slaves actually in the United Slates, and creating a dis­
 tinction among the States in the degrees of their soversutn­  
 ty, would not have boe.i adopted,or perhaps thoughto! 1 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850022401:0256/pct:63.4107027724049,49.0186210367388,15.699548678272082,7.41066935078007/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850022401:0256/pct:63.42144852783151,49.0186210367388,15.704921555985386,7.419057205166919/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -325,7 +325,7 @@ Slates, and creating a distinction among the Stale* in
 he degrees of their sovereignty, would not have been  
 idopted, or perhaps thought of Mr. Madison t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:0041566137A:1850031801:0387/pct:17.861189801699716,18.29106945975744,13.68271954674221,7.50826901874311/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:0041566137A:1850031801:0387/pct:17.861189801699716,18.298419698640206,13.696883852691219,7.50826901874311/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -346,7 +346,7 @@ gives it as his opinion, that the ordinance of
 87 &quot; would not have been adopted, or perhaps thought  
 f.&quot; Who so competent to give an opinion as tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:0041566137A:1850031801:0387/pct:17.81869688385269,27.70672546857773,13.980169971671389,3.0429988974641677/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:0041566137A:1850031801:0387/pct:17.81869688385269,27.71407570746049,13.98961284230406,3.0429988974641677/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -387,7 +387,7 @@ actually in the United States, and creating a distinction among
 the States in the ?legrees ot their sovereignty, would not have !  
 been adopted, or perhaps thought of.&quot;?Atr. .Madison to .Mr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1850032301:0131/pct:51.10349554489376,53.67171770689838,15.777930089102124,7.55536717177069/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1850032301:0131/pct:51.11263422435458,53.67171770689838,15.777930089102124,7.5624315637031545/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -442,7 +442,7 @@ their sovereignty, would not have been adopted,
 or perhaps thought of.&quot;  
 This was the spirit and the cause of that ordi­
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661472:1850071001:0088/pct:3.7941501103752757,57.928051482223864,15.259381898454746,9.705665154552168/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661472:1850071001:0088/pct:3.7941501103752757,57.93156802756972,15.259381898454746,9.70918169989802/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -478,7 +478,7 @@ anil creating a distinction among the States in the
 degree of their sovereignty, would not have been  
 adopted or perhaps thought of?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661472:1850072201:0127/pct:40.574333608134104,43.672856069550285,16.501786205001373,10.400343458194698/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661472:1850072201:0127/pct:40.57891362095814,43.68001144860649,16.501786205001373,10.396765768666596/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -512,7 +512,7 @@ grees of their sovereignty, would not have been
 adopted, or perhaps thought of?&quot;  
 It is, therefore, according to the opinion o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661538:1854041601:0377/pct:83.43758498776177,81.88175460902734,14.073973347837912,9.281627463445645/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661538:1854041601:0377/pct:83.43758498776177,81.88175460902734,14.078506028465235,9.285159285159285/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -541,7 +541,7 @@ degrees of their sovereignty, won Id not have been adopted, or perhapt |
 thought of?&quot; I !t  
 It woe, therefore, according to the opinion of this cminr.a&#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1854042801:0206/pct:20.668515545175886,60.017180490598456,18.47905415267844,5.163691896535267/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1854042801:0206/pct:20.668515545175886,60.023543635264545,18.47905415267844,5.166873468868315/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -578,7 +578,7 @@ creating a distinction among the State&quot; in the degree* of!
 their sovereignty, would not have been adopted, or perhaps  
 thought of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854060101:0744/pct:16.094986807387862,65.79812800404756,15.765171503957784,10.01770806982039/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854060101:0744/pct:16.094986807387862,65.80656041824774,15.776165347405453,10.01770806982039/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -602,7 +602,7 @@ that there was no mode in which Congress could check the
 evil but tlic indirect one of narrowing the space open for the  
 reception of slaves.&quot; lie was in correspondence with Presiden
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:0041566123A:1854082501:0195/pct:82.2109897277026,43.373947996482855,16.517202021849013,5.979148348197462/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:0041566123A:1854082501:0195/pct:82.21642480569597,43.373947996482855,16.511766943855644,5.983335426872671/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -629,7 +629,7 @@ from those of the south and making the for
 mer instrumental in giving the opponents  
 of both an ascendency over the whole.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774947:1856090401:0415/pct:85.07209499575912,147.85587066721467,56.65818490245971,33.53884093711467/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774947:1856090401:0415/pct:21.26802374893978,36.96396766680367,14.164546225614927,8.384710234278668/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -715,7 +715,7 @@ instead of political distinctions.&quot;
 Neither the welfare of the slave, nor the re­  
 striction of the number of tho slaves, is an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn83035173:00296027297:1859101201:0173/pct:25.861573808156233,64.70660901791229,16.18322802986789,6.633724521309451/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn83035173:00296027297:1859101201:0173/pct:19.408131015658668,48.536133415688695,12.153426231863238,4.978381717109326/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -752,7 +752,7 @@ states, and creating a aistinction amomj .the
 State in the degrees of their sovereignty , would  
 not have been adopted, or perhaps thought of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn83035173:00296027297:1859101201:0173/pct:25.933371625502584,77.50463248919085,16.12578977599081,15.515750463248919/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn83035173:00296027297:1859101201:0173/pct:19.46559402384715,58.13465101914762,12.09596322367476,11.636812847436689/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

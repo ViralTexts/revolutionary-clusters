@@ -150,7 +150,7 @@ feel that
 &quot;No more the thirsty entrance of this soil  
 Shall daub her lips with her own children&#x27;s blood
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00202191423:1865051801:0475/pct:174.36135624709706,142.72267116597106,49.32652113330237,47.45582097504662/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00202191423:1865051801:0475/pct:43.595401230983626,35.680667791492766,12.333062362094994,11.863955243761655/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -238,7 +238,7 @@ newspaper brings to him in the quiet
 homeliness of&quot; his fireside the last  
 thought of the world on every subjec
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ditto_ver02:data:sn87058308:00279529054:1893060101:0493/pct:41.34526380746683,19.889643463497453,8.341047001954129,3.6757215619694397/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ditto_ver02:data:sn87058308:00279529054:1893060101:0493/pct:41.34869210463163,19.892473118279568,8.344475299118928,3.6757215619694397/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

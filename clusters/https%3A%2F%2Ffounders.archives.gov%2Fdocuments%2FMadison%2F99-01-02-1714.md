@@ -223,7 +223,7 @@ notwithstanding this precaution, there
 arc proof&#x27;s that the West India priva­  
 teers have, under color* of the edict
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808111401:0001/pct:7.046979865771812,40.52961127054527,17.03513620213186,33.863814244716934/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808111401:0001/pct:7.053559678905119,40.52961127054527,17.041716015265166,33.876858857291936/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -268,7 +268,7 @@ of the torn) r, and outiage no tlie seutlilients ol ti e
 hitter: unless it be to invite i sp-iv s id contest on  
 tile high seas. III which the il-h Ms ry h&lt; s evi l y a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808111601:0211/pct:11.337355455002514,7.8337986533092465,21.141277023629964,19.674823452126788/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808111601:0211/pct:11.334506157325961,7.832512315270936,21.142246795677305,19.675697865353037/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -352,7 +352,7 @@ siconstsiitute just claims of redress from their
 Ferment. . - -  
 _ &quot;.L-Ir.siErving has forwarsisiied a Spanish
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808111701:0572/pct:5.647058823529412,40.16451441712365,24.66176470588235,33.539713426499205/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808111701:0572/pct:5.6462284958094395,40.160962235783146,24.663039749056512,33.539695174080954/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -430,7 +430,7 @@ ons.’*
   
 Extract of a letter fron Air. Afadison t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808111801:0230/pct:22.608535688005887,0.8126984126984127,35.96394407652686,94.98412698412699/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808111801:0230/pct:22.604377414015083,0.8125952260030472,35.96346024155478,94.97629930590824/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -466,7 +466,7 @@ si ?,Megun m tnat quax ter, and of course
   
 siss two nations-si ., Js
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808112101:0585/pct:22.424242424242426,15.962482468443199,23.75461936437546,13.122370266479663/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808112101:0585/pct:22.420928170263082,15.961083355245858,23.756035077347523,13.12414175942969/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -556,7 +556,7 @@ in that quarter ; and of course, thicken
 the cloud that h angs over the amity of  
 the two nations.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808112201:0381/pct:40.44795783926219,11.882578174856414,36.06248823640128,81.4550095724314/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808112201:0381/pct:40.44034625517501,11.881061766207248,36.06197465813574,81.44886847030799/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -596,7 +596,7 @@ the day of November instant, at o’clock
 in the noon, the senate and house, of representa­  
 tives will meet in convention, and by joint ballo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808112301:0223/pct:54.09586609180827,16.721964167219642,21.024600557950798,18.944923689449237/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808112301:0223/pct:54.08215010141988,16.7191905788688,21.025608519269777,18.94592801459612/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -704,7 +704,7 @@ ia to apsrtte, according to the
 latitude of its terms, yati will of  
 course have mads the proper re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808112501:1070/pct:44.32461579940685,44.90585070611971,16.338635750876247,21.788836583725622/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808112501:1070/pct:44.31266846361186,44.89830223566986,16.340970350404312,21.78937636577576/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -730,7 +730,7 @@ thicken the cloud that haogS over
 the amity of the two nanoas.** •  
 Extracts of a .letter from Mr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808112501:1070/pct:60.93286600161769,5.766644250168124,16.52736586681046,10.238735709482178/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808112501:1070/pct:60.91644204851752,5.7656749033451,16.52964959568733,10.241217011262398/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -882,7 +882,7 @@ Esrkine, than that the French government
 had never enforced its decree, /irevious to  
 the case of the Horizon? Where then is th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808120201:0247/pct:22.734671730873576,28.82996104059319,17.41725447639718,6.308910393364333/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808120201:0247/pct:22.730560578661844,28.826338275948732,17.42013261000603,6.3123062746083605/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -903,7 +903,7 @@ depredations, which will constitute
 just claims of redress from the French  
 Government!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808120501:0514/pct:3.5866054733979262,56.91655736050853,17.576066632670408,4.439511653718091/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808120501:0514/pct:3.5859959211420804,56.91081517352704,17.577328348062544,4.441585956416465/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -994,7 +994,7 @@ ity of the two nations.&quot;
 KO I BS*  
 (a) Jl&#x27;Zy not ffubljb tbe xvbole Utter f Mve*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808121201:0516/pct:77.9802708577161,22.42381716118685,17.522153486039123,53.44827586206897/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808121201:0516/pct:77.96723503844868,22.421569610103237,17.52340354396523,53.44542447629548/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1014,7 +1014,7 @@ broader terms, which, “if not speedily recalled or
 corrected, would doubtless extend the scene of spo­  
 liations, already begun in (hat quarter.’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808122101:0271/pct:76.36363636363636,27.93925538863488,21.01010101010101,4.049640757674722/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808122101:0271/pct:76.34435748548347,27.93469387755102,21.01110830598334,4.053061224489796/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1037,7 +1037,7 @@ mount of 44the cheat and ilCKCA|iaa dangers which threatened our
 vessels, our seamen and ineichuidiJb.”1  
 In the letter of February 8,1808, them Mr. Madiscm to C.en Armstrong
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808122601:0525/pct:35.09306260575296,38.33952414416223,29.306260575296108,4.93926312619215/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808122601:0525/pct:35.08712569785146,38.33567556715519,29.305532058873286,4.941276852037744/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1077,7 +1077,7 @@ i.oim, grrutided as well on the princ;p!ea of puh­
 l’» law,as on the cxpi ess stipulations of the con  
 volition of 1800 &quot; ■
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811080201:0105/pct:40.86653203598311,27.469820152746983,18.10170736185056,3.5353535353535355/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811080201:0105/pct:40.859030837004404,27.46643675329474,18.104503181595692,3.5390236892885003/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

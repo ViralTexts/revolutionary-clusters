@@ -116,7 +116,7 @@ evidence before the world i* to be sought in my li e;
 if that ha* been hone*! and dutiful to aociety, the re­  
 ligion which hat regulated it eaanot be a bad oue.* ”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184054:1831070801:0074/pct:51.784718349135524,16.065830721003135,14.389291689905187,8.038513210927004/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184054:1831070801:0074/pct:51.77749895441238,16.064032240008956,14.391932710627817,8.041344826299488/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -154,7 +154,7 @@ that Las been honest and dutiful to seeiely,
 the religion which Las regulnted it can­  
 not be a bad one.’ Affectionately adieu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1834080601:0125/pct:81.2147663211493,33.584755855498216,15.111838516093835,14.635437342860923/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1834080601:0125/pct:81.2147663211493,33.59357769838119,15.117900224283202,14.626615499977945/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -176,7 +176,7 @@ religion which has regulated it cannot be a bad
 one.&quot;  
 i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566431A:1849103001:0126/pct:17.189156444040588,95.24910860557002,13.796759048917158,3.2282933410426904/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566431A:1849103001:0126/pct:17.199252864859407,95.24910860557002,13.791710838507749,3.2379300375831166/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -196,7 +196,7 @@ be sought in my life ; if that has been hon
 est anil dutiful to society, the religion which  
 has regulated it cannot be a bad one
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00415667279:1849110301:0393/pct:68.84057971014492,64.48388183758284,20.463768115942027,3.762776592159946/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00415667279:1849110301:0393/pct:51.6601420907641,48.365719420420085,15.35450195737277,2.819274401887004/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -217,7 +217,7 @@ if that has been honest and dutiful to sociely,
 the religion which has regulated it cannot be a  
 bad one.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016867:00295877637:1849120801:0985/pct:198.80191693290735,337.72616797191466,58.78594249201278,15.716986227383202/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016867:00295877637:1849120801:0985/pct:49.72033559728326,84.43154199297867,14.702357171394327,3.9292465568458006/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -320,7 +320,7 @@ life; if that has been honest and dutiful
 to society, the religion which has regula­  
 ted it cannot be a bad one.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn84022991:00513688064:1866061601:0077/pct:74.96533967122203,83.78273771126307,17.29055258467023,8.308605341246292/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn84022991:00513688064:1866061601:0077/pct:74.97854360599459,83.78703823162603,17.28395061728395,8.312905861609254/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -419,7 +419,7 @@ concerning the
 JOHN ADAMS, Esq.  
 President of the United States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800102901:0002/pct:41.54601226993865,74.5041122399613,16.932515337423315,6.902112562489921/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800102901:0002/pct:41.56441717791411,74.51217545557168,16.926380368098158,6.914207385905499/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -438,7 +438,7 @@ concerning the public conduct and character of
 John Adams, Efq. I&#x27;r- Gdent tff the United  
 State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800112101:0003/pct:48.89380530973451,47.192533493903355,21.361848574237953,3.131115459882583/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800112101:0003/pct:48.89380530973451,47.19755130714035,21.37004260898066,3.131115459882583/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -457,7 +457,7 @@ concerning the public conduct and character of
 John Adams, El«j. Pr. lident of the United  
 [State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800121901:0004/pct:50.894882782959414,55.91650973006905,22.208217796823796,3.3113622096672946/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800121901:0004/pct:50.894882782959414,55.92697216991002,22.225023107301908,3.3113622096672946/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -562,7 +562,7 @@ lished “a letter concerning the public con­
 duct and character of John Adams. Esq.  
 President of the United States.” It ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1811040501:0068/pct:4.380771963059437,88.13120414328874,22.2827373904807,2.172349302258668/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1811040501:0068/pct:4.379734848484849,88.11852704257768,22.283380681818183,2.175632911392405/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -591,7 +591,7 @@ President of the United States, New-Yurk.
 1300.  
 &quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1828032901:0028/pct:63.095792578792114,74.83008356545962,17.342027635460333,2.4958217270194987/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1828032901:0028/pct:63.085998137224465,74.82174688057042,17.344509986546623,2.4992572786690435/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -722,7 +722,7 @@ Let us (since life can little more supply
 Than just to look about us and to die)  
 Expatiate free o&#x27;er all this scene of man&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_pearse_ver01:data:sn82015753:0020219039A:1852050301:0430/pct:178.7603305785124,85.16398514851485,27.768595041322314,4.037747524752476/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_pearse_ver01:data:sn82015753:0020219039A:1852050301:0430/pct:59.586776859504134,28.38799504950495,9.256198347107437,1.3459158415841583/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -757,7 +757,7 @@ treaty without the acknowledgment of the right
 and not the liberty. Eventually the treaty was  
 made, in which the right in certain parts and th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014434:00415661423:1852082301:0204/pct:84.97183098591549,39.431793057705065,14.95774647887324,8.987397744859607/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014434:00415661423:1852082301:0204/pct:84.98122065727699,39.439162797553244,14.953051643192488,8.983712874935515/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -815,7 +815,7 @@ for the defense of this fishery, and have expended,
 &quot;beyond all proportion, more than you.&quot; Thus  
 spake the Nes-England fichermen by the mouth o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530467:1855041801:0734/pct:199.76735862562634,66.86352548465786,48.22834645669291,22.94261137501605/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530467:1855041801:0734/pct:66.58911954187545,22.287841828219282,16.076115485564305,7.647537125005349/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -895,7 +895,7 @@ them ? upon those whose whole property
 has been stolen, to reward the thieves?  
 upon those whose relatives have bee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn84026845:00202190698:1862052101:0471/pct:1.618193745899847,39.1634309918814,13.404767111305489,5.224144016943169/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn84026845:00202190698:1862052101:0471/pct:1.618193745899847,39.1634309918814,13.415700852831838,5.241793152135545/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -990,7 +990,7 @@ government by the formation of our
 ional Constitution, which was framed with a wisdom  
 e adniration of the world, and t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chrysler_ver01:data:sn83030214:00175039983:1883112801:0510/pct:149.7561768530559,118.10296271262814,46.879063719115734,16.908865607750368/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chrysler_ver01:data:sn83030214:00175039983:1883112801:0510/pct:49.918725617685304,39.367654237542716,15.626354573038578,5.636288535916789/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

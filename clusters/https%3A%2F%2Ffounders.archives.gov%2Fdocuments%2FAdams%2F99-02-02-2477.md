@@ -48,7 +48,7 @@ States, Constitution and Constellation, to
 be manned and employed ; and also to  
 procure by purchase or otherwile, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797062001:0308/pct:76.27300613496932,33.13609467455621,15.567484662576687,11.203155818540434/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797062001:0308/pct:76.27811860940696,33.14266929651545,15.577709611451942,11.196581196581196/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -71,7 +71,7 @@ tution, and Constellation, to be manned
 ana employed.  
 And be it further enaSed, That there shal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797070501:0002/pct:8.36194212849436,20.115995115995116,17.165277096615988,5.555555555555555/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797070501:0002/pct:8.368072584600295,20.115995115995116,17.177538008827856,5.5746336996337/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -103,7 +103,7 @@ And be it further enaffed, That the com­
 pensations established by the firft feftion of  
 the aft passed on the sixth day of May, on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797070501:0002/pct:26.26287395782246,22.847985347985347,17.287886218734673,11.30952380952381/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797070501:0002/pct:26.269004413928396,22.859432234432234,17.29401667484061,11.301892551892552/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -131,7 +131,7 @@ committe of the whole on the biil pro­
 viding for the expences of the military  
 tilablifnment for the year 1708
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83045634:00332895059:1798051401:0014/pct:2.59461568474444,58.83870967741935,22.78579789309403,12.29325513196481/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83045634:00332895059:1798051401:0014/pct:2.5941096157597037,58.83180858550317,22.786229763994537,12.294745484400657/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -209,7 +209,7 @@ the Lnited States and for oiher pur
 provide an additional armament for the further protcc.  
 tion of the trade of the U. S- and for other purp
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83045634:00332895059:1798080601:0061/pct:74.93596059113301,14.051330130083207,22.541871921182267,1.2773936481893824/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83045634:00332895059:1798080601:0061/pct:74.92119779353821,14.049683618467308,22.54235618597321,1.2801734239512539/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -244,7 +244,7 @@ authority of the U. S. shall be the supreme
 law of the land, and the judges, in every  
 state, shall be bound thereby, any thing .
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809021401:0056/pct:41.902834008097166,18.962153726102223,17.316893632683108,12.563402262973078/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809021401:0056/pct:41.895124195032196,18.95968790637191,17.319840539711745,12.566103164282618/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -290,7 +290,7 @@ Government of the U. S , or in any department or officer
 thereof.&quot;  
 In this Digest of the plan, made by the Committee 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664266:1843052301:0600/pct:31.8968088279153,13.623527120459636,16.17954070981211,3.6615055019962996/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664266:1843052301:0600/pct:31.906750173973556,13.62677313597559,16.184511382841237,3.664751517512254/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -311,7 +311,7 @@ this Constitution in the Government
 of the U. S. or in any department or  
 officer thereof,&quot; and further, &quot;Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_gary_ver01:data:sn84023881:00202191368:1854021701:0105/pct:121.48109243697479,152.98591838832357,41.859243697478995,14.184397163120567/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_gary_ver01:data:sn84023881:00202191368:1854021701:0105/pct:30.382240903717324,38.24647959708089,10.468934716931564,3.5460992907801416/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -344,7 +344,7 @@ of the States, by denying to Congress, in express
   
 terms, any power of legislation over them. It i to tht States, are re.rvod to tbe States rcspee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn86071378:00212477643:1861072401:0345/pct:61.74879807692308,23.644595359366157,59.20973557692308,102.24108658743633/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn86071378:00212477643:1861072401:0345/pct:46.33999699383737,17.736276174306735,44.43108372162934,76.68364459535937/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -366,7 +366,7 @@ thereof.
 We need not stop to say that those pow  
 ers, save in the manner of their exercis, ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn83035216:00280775150:1862080901:0903/pct:128.93674293405115,321.5835140997831,49.52893674293405,17.62472885032538/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn83035216:00280775150:1862080901:0903/pct:32.23960962476863,80.39587852494577,12.384317684671041,4.406182212581345/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -424,7 +424,7 @@ United States
 measure was in view of the threatened  
 hostllity of France toward the Unite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_forks_ver01:data:sn83045604:0020219932A:1895031001:0739/pct:12.890453145622525,173.9038563127311,37.83545974483062,17.675647120972002/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_forks_ver01:data:sn83045604:0020219932A:1895031001:0739/pct:4.296817715207508,57.96795210424371,12.61181991494354,5.891882373657334/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -446,7 +446,7 @@ vested by this constitution in the gov?
 ernment of the U. S. or in any depart?  
 ment or officer thereof,&quot; nor under th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hazel_ver01:data:sn86071779:0017503142A:1899092701:0216/pct:17.986054142739953,31.18434307094546,16.078753076292042,5.094258166642683/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hazel_ver01:data:sn86071779:0017503142A:1899092701:0216/pct:17.99289034727919,31.18434307094546,16.099261689909763,5.1038518731712/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

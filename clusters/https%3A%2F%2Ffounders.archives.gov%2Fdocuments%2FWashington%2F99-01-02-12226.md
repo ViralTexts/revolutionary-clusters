@@ -57,7 +57,7 @@ vioes.&quot;
 In order to co-operate with the Cen&#x27;ral Commit  
 tee of New York, we, the German ctixens o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kuvasz_ver02:data:sn83045462:00280654115:1858072101:0592/pct:50.28222013170273,62.11997551520098,16.039510818438384,4.050193837992246/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kuvasz_ver02:data:sn83045462:00280654115:1858072101:0592/pct:50.29005957980558,62.12507651499694,16.047350266541237,4.060395837584166/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -100,7 +100,7 @@ to cxpiess hit sense of th? obligation th? public is
 under to you for your faithful and meritorious ser  
 vices.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kuvasz_ver02:data:sn83045462:00280654115:1858072401:0604/pct:51.01527101862729,26.911748663684957,15.858365497566705,3.2726082687902256/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kuvasz_ver02:data:sn83045462:00280654115:1858072401:0604/pct:51.02366168820272,26.917203010799607,15.866756167142137,3.275335442347551/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -132,7 +132,7 @@ approbation of your conduct, and to express tny sense of
 the obligation the public is under to you for your faithful  
 and meritorious seviccs.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82006534:00415661095:1858072701:0095/pct:1.232986389111289,29.44923192206819,17.614091273018413,4.033970276008493/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82006534:00415661095:1858072701:0095/pct:1.2436615959434214,29.457557970109487,17.614091273018413,4.033970276008493/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -152,7 +152,7 @@ conduct, and to express my sense of the obliga­
 tion the public is under to you for your faithful  
 and meritorious services.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kuvasz_ver02:data:sn83045462:00280654115:1858072701:0613/pct:2.281191806331471,46.04612850082372,15.673494723774054,2.4608731466227347/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kuvasz_ver02:data:sn83045462:00280654115:1858072701:0613/pct:2.2850713842333956,46.053850906095555,15.677374301675977,2.4685955518945635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -174,7 +174,7 @@ in the strongest terms^.my . entire appro­
 bation of your conduct, and to express  
 my sense of the obligation the public i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kuwait_ver02:data:sn85059716:00201293031:1858081301:0542/pct:14.62851048702453,5.899322082792442,13.917525773195877,4.961777008510024/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kuwait_ver02:data:sn85059716:00201293031:1858081301:0542/pct:14.632954141485959,5.90653396797923,13.921969427657306,4.9581710659166305/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -212,7 +212,7 @@ shall be glad to embrace you, and testify the great esteen
 and consideration with which  
 4&#x27;l am, my dear Baron, Ac.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026335:1858090301:0230/pct:57.027593997095366,8.241272646928856,25.3832499596579,87.75961113566063/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026335:1858090301:0230/pct:57.027593997095366,8.244955074385034,25.388628906460116,87.77065841802917/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -253,7 +253,7 @@ whore 1 shall bo glad to embrace you mid testify
 the great esteem mid consideration with which  
 I am, my dear Huron, etc.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_quincy_ver01:data:sn84031492:no_reel:1881101501:0004/pct:71.98637316561845,32.523696682464454,13.155136268343815,6.240126382306477/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_quincy_ver01:data:sn84031492:no_reel:1881101501:0004/pct:71.99292452830188,32.53850710900474,13.155136268343815,6.25/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -293,7 +293,7 @@ clad to embrace you, and testify the great esteem j
 and consideration with which I am, my dear  
 Baron. &amp;c, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chester_ver02:data:sn82016187:00211102305:1881102201:0077/pct:6.640181611804767,69.79400566240359,70.11918274687855,11.15884018353998/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chester_ver02:data:sn82016187:00211102305:1881102201:0077/pct:4.982256919801277,52.34794493800644,52.61887863733144,8.366689446451234/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -343,7 +343,7 @@ the Potomac, where I shall be glad to embrace
 and testify the great esteem arid consideration  
 with which I am, dear baron, etc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_blaine_ver01:data:sn83025287:00100493950:1881102301:0104/pct:0.8554038493173219,80.27448243777623,13.505510774798486,11.339846475924634/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_blaine_ver01:data:sn83025287:00100493950:1881102301:0104/pct:0.8554038493173219,80.27835930836629,13.52196084882382,11.335969605334574/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -381,7 +381,7 @@ private citizen on the banks of the Potomac,
 where I shall be glad to embrace you, and testify  
 my great esteem and consideration. I am, m
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_charlie_ver01:data:sn83045160:00280779611:1881102301:0396/pct:182.5936599423631,261.45607838669247,38.5014409221902,26.29600091147317/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_charlie_ver01:data:sn83045160:00280779611:1881102301:0396/pct:45.654993514915695,65.36401959667312,9.626747369938032,6.574000227868292/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -440,7 +440,7 @@ banks of the Potomac, where I shall be glad to
 embrace you and testify the great esteem and  
 consideration with which l|am, my dear Baron
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_farmington_ver01:data:sn83016025:00279525516:1881102401:0196/pct:15.389642215324294,86.92630317555422,10.92958666884496,8.687837028160574/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_farmington_ver01:data:sn83016025:00279525516:1881102401:0196/pct:15.387128389415224,86.91588785046729,10.931885004900359,8.68979151689432/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -480,7 +480,7 @@ the Potomac, where I shall be glad to embrace
 and testify the great esteem and consideration  
 with which I am, dear baron, etc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_blaine_ver01:data:sn83025287:00100493950:1881102401:0114/pct:1.2143091565474238,65.42001631131306,13.488677387594356,11.394617266689968/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_blaine_ver01:data:sn83025287:00100493950:1881102401:0114/pct:1.2143091565474238,65.42778360324672,13.494147248659884,11.394617266689968/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -522,7 +522,7 @@ you, and testify to the great esteem and
 consideration with which I am,  
 &gt;ly dear Ikiron, etc.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_france_ver01:data:sn84026844:00202193468:1881102401:1021/pct:13.139728636039038,82.08878183069511,17.2815996191383,13.317274604267034/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_france_ver01:data:sn84026844:00202193468:1881102401:1021/pct:13.139728636039038,82.08878183069511,17.287550583194477,13.34308327598073/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -618,7 +618,7 @@ paired in its weak places.
 KEOKUK, Iowa, October 18. The  
 Mississippi at this point continue
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_grange_ver01:data:sn84026409:00280776488:1881102601:0630/pct:271.6875,13.688744034454661,84.1875,81.66686066814108/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_grange_ver01:data:sn84026409:00280776488:1881102601:0630/pct:67.94310722100657,3.4221860086136653,21.053454204438886,20.41671516703527/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -644,7 +644,7 @@ brace you, and testify the great es­
 teem and consideration with which  
 I am, my dear Baron, etc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_grange_ver01:data:sn84026409:00280776488:1881102601:0630/pct:272.0,95.54184611803049,64.25,17.692934466301946/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_grange_ver01:data:sn84026409:00280776488:1881102601:0630/pct:68.02125664270085,23.885461529507623,16.067521100343857,4.423233616575486/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -690,7 +690,7 @@ eration with which I am, my dear Baron,
 lour obedient servant,  
 Signed George Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brockovich_ver02:data:sn85032573:00237281895:1881102701:0024/pct:45.632798573975045,32.25620975160994,13.25014854426619,15.535878564857406/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brockovich_ver02:data:sn85032573:00237281895:1881102701:0024/pct:34.23985733392777,24.195032198712052,9.956902957348788,11.649034038638455/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -815,7 +815,7 @@ you and testify the great esteem and con­
 sideration with which I am, my dear  
 Baron, etc., &quot;GEOBGE WASHINGTON.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_alamo_ver01:data:sn85042331:00212470831:1881102801:0562/pct:73.76796714579055,36.73954911068313,16.238877481177276,10.195989577432876/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_alamo_ver01:data:sn85042331:00212470831:1881102801:0562/pct:73.77937485740361,36.7471016955553,16.244581336983803,10.188436992560703/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -838,7 +838,7 @@ tomac, vhere I shad be glad to embne
 you and testify the great esteem and cc-i.  
 rat&#x27;on with \ih.*j I atn. irv ..
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_cayman_ver01:data:sn00065151:00279523350:1881102801:0801/pct:72.96060485475527,42.779258541313304,17.70791882212495,4.216137630239884/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_cayman_ver01:data:sn00065151:00279523350:1881102801:0801/pct:72.96723703408941,42.787335433325254,17.71455100145908,4.220176076245861/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -873,7 +873,7 @@ you and testify the great
   
 eBteem
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_peugeot_ver01:data:sn90059028:00212479202:1883090601:0158/pct:33.745291902071564,76.51295482181274,9.757532956685498,6.528856047142456/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_peugeot_ver01:data:sn90059028:00212479202:1883090601:0158/pct:33.75313873195229,76.51295482181274,9.757532956685498,6.535091821781561/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -896,7 +896,7 @@ It is interesting to recall tho fact that
 he reached Mount Vernon, after hav­  
 ing resigned, on Christmas Evo and wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_empire_ver01:data:sn86091319:00332890736:1895010901:0008/pct:66.43069193879882,30.08595988538682,14.158483672071249,5.093919134033747/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_empire_ver01:data:sn86091319:00332890736:1895010901:0008/pct:66.41552511415524,30.081171414929173,14.16095890410959,5.097087378640777/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -919,7 +919,7 @@ of the Potomae.”
 It is interesting to reecall the fact  
 that he reached Mount Vernon, afte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn92063989:00514153425:1895121401:0076/pct:37.7167924913283,18.092928660826033,10.916139563354417,4.52909887359199/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn92063989:00514153425:1895121401:0076/pct:37.72359382438958,18.095536086775134,10.909338230293137,4.531706299541093/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -943,7 +943,7 @@ It is interesting to recall the fact that
 he reached Mount Vernon atter having  
 resigned. on Christmas eve, and wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_grace_ver02:data:sn83045604:00202199446:1897122601:0573/pct:126.76308539944904,240.2838201781645,35.798898071625345,12.326496788895794/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_grace_ver02:data:sn83045604:00202199446:1897122601:0573/pct:42.254361799816344,80.09460672605483,11.932966023875116,4.108832262965265/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -966,7 +966,7 @@ It is interesting to recall the fact that
 he reached Mount Vernon, after having  
 resigned, on Christmas KEve, and wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_elderbrain_ver03:data:sn92064073:00514153309:1898122001:0720/pct:30.323745646846383,29.153246753246755,12.304914226750935,5.236363636363636/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_elderbrain_ver03:data:sn92064073:00514153309:1898122001:0720/pct:30.328045057827076,29.156709956709957,12.30921363773163,5.232900432900433/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -986,7 +986,7 @@ mac.”
 It is interesting to recall the fact that he reached Mount  
 Vernon, after having resigned, on Christmas Eve. and wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685166:1898122201:0464/pct:7.983302895903992,70.19019751280176,21.262718497260632,2.7798098024871982/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685166:1898122201:0464/pct:7.981220657276995,70.17736332053391,21.263693270735523,2.7838727372462975/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1012,7 +1012,7 @@ It is interesting to recall the fact that
 he reached Mount Vernon, after having  
 resigned, on Christinas Eve, and wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carlisle_ver01:data:sn86081854:00296026086:1898122201:0390/pct:81.13766123916261,28.51376675796454,14.633114823429901,6.8905867089519965/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carlisle_ver01:data:sn86081854:00296026086:1898122201:0390/pct:81.1517586522873,28.51376675796454,14.61901741030521,6.900197011196002/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1037,7 +1037,7 @@ It is interesting to recall the fact that
 he reached Mount Vernon, after having  
 resigned, on Christmas Eve, and was ther
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_gargoyle_ver02:data:sn92064114:00514153401:1899031801:0726/pct:70.62679884873681,61.18688183237897,20.21106491845219,5.517959396147839/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_gargoyle_ver02:data:sn92064114:00514153401:1899031801:0726/pct:70.63212877091995,61.18688183237897,20.216394840635328,5.528370640291515/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

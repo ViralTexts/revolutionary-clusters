@@ -107,7 +107,7 @@ to make the draught.” Jlr. Adams
 then mentiens the meeting of the sub­  
 committee, and their amiable conten
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025001:00414216328:1823072901:0489/pct:18.909740840035745,76.75257185279457,17.37265415549598,15.823523173189097/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025001:00414216328:1823072901:0489/pct:18.90636168691923,76.74443266171792,17.375506314033835,15.825379992930364/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -174,7 +174,7 @@ composed by James Oti-, as 1 suppose, in
 one of bis lucid intervals, and pruned and  
 polished by Samuel Adams.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025001:00414216328:1823072901:0489/pct:36.62198391420912,7.201187824795842,17.71224307417337,31.180400890868597/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025001:00414216328:1823072901:0489/pct:36.61543959971408,7.200424178154825,17.715034548487015,31.180629197596325/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -279,7 +279,7 @@ r puiation for literature, science, and a
 happy talent at composition. Writings  
 of his were handed about, remarkable
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898036:1826061601:0230/pct:74.94276265581277,94.39775910364146,17.171203256168912,3.3283901796012523/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898036:1826061601:0230/pct:74.92370295015259,94.38220757825371,17.17319430315361,3.3319604612850084/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -369,7 +369,7 @@ intervals, and pruned and polished by
 Samuel Adams.”  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898036:1826061601:0231/pct:7.869531452239192,5.6743421052631575,17.62878591768056,48.99671052631579/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898036:1826061601:0231/pct:7.867494824016563,5.673408978786384,17.630693581780537,48.992764347969086/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -400,7 +400,7 @@ so prompt, frank, explicit and decisive, upon
 cominittees,:(not even Samuel Adams was more  
 s 0) that he seized upen my heart.” When
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1826072501:0120/pct:29.08642736096133,16.049382716049383,16.114620243413956,9.506172839506172/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1826072501:0120/pct:29.091562676526472,16.0562414266118,16.130026190109383,9.50960219478738/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -659,7 +659,7 @@ has been, and ever will be, unavailing. I
 ever hare been the nominator of Washing­  
 j ton for general.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348975:1841080501:0127/pct:55.96945427453902,34.10483321987747,13.205438629167443,18.515997277059224/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348975:1841080501:0127/pct:55.95903165735568,34.100190579907434,13.207635009310987,18.516879934658316/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -716,7 +716,7 @@ and ever will be, unavailing. I had forgot to
 say, nor had Mr Johnson ever have been the  
 nominator of Washington for General.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00416156888:1841080701:0516/pct:45.1644370122631,91.63360560093349,19.913600891861762,22.835472578763127/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00416156888:1841080701:0516/pct:33.88625592417062,68.72812135355893,14.942849177585726,17.129521586931155/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -744,7 +744,7 @@ its purgation:
 &quot;Ihe pussillaninous idea that we had friends  
 in hngland
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn83035366:00296029099:1847032601:0271/pct:48.69207772795217,29.297722342733188,19.488041853512705,8.880151843817787/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn83035366:00296029099:1847032601:0271/pct:36.53522706036255,21.976681127982648,14.61409082414502,6.656724511930586/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -786,7 +786,7 @@ eral.
 
 ---
 
-## [From _The American Whig review_](https://archive.org/details/sim_american-whig-review_1851-08_14_80/page/n85/mode/1up?view=theater)
+## [From _The American Whig Review (1850-1852)_](https://archive.org/details/sim_american-whig-review_1851-08_14_80/page/n85/mode/1up?view=theater)
 
 #### 1851-08-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -882,7 +882,7 @@ that repentance ever has been, and ever will be, unavailing.” pp. 512-13.
 
 ---
 
-## [From _The United States Review (1853-1856)_](https://archive.org/details/sim_united-states-democratic-review_1855-05_35/page/n42/mode/1up?view=theater)
+## [From _The United States review_](https://archive.org/details/sim_united-states-democratic-review_1855-05_35/page/n42/mode/1up?view=theater)
 
 #### 1855-05-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -941,7 +941,7 @@ patient, and the instrument was reported,
 us I believe, in Jefferson’s handwriting.’’  
 On the 28th of June, the Committee re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:0051701655A:1855101801:0067/pct:57.193336698637054,49.2785084918912,12.081440349991587,5.095134720980718/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:0051701655A:1855101801:0067/pct:57.18371467025572,49.27221654749744,12.083613728129206,5.09767620020429/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1050,7 +1050,7 @@ the levee, one hundred men with four pieces of
 artillery were stationed on the steam ferry boat,  
 011 the opposite side of the river, near at a poin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84037930:00415668880:1856070901:0208/pct:48.89279953072298,45.950377090392394,33.55330693650095,48.606405071592526/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84037930:00415668880:1856070901:0208/pct:48.89279953072298,45.95766386125988,33.558195238793566,48.613691842460014/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1098,7 +1098,7 @@ Up we wi)]
   
 |lavo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84037930:00415668880:1856070901:0208/pct:71.81404898078897,7.760410973876926,22.921249450065993,10.285277079462237/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84037930:00415668880:1856070901:0208/pct:71.81893728308158,7.760410973876926,22.926137752358606,10.299850621197216/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1125,7 +1125,7 @@ as Franklin andjSherman were to inspect it afterwards, 1 thought it would not be
 it out. I consented to report it, and do not now remember that 1 made or suggested a single al»  
 teration. Your friend and humble servant, JOUN ADAMS.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84037930:00415668880:1856070901:0208/pct:71.75538935327761,17.6522024264947,22.319988268074496,3.1260247021532406/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84037930:00415668880:1856070901:0208/pct:71.76027765557022,17.659489197362188,22.324876570367113,3.133311473020731/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1143,7 +1143,7 @@ delighted with its high tone, and the flights ot
 oratory with which it abounded, especially that  
 concerning negro slavery,” &amp;c. He further say
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024718:00414183761:1857070101:0293/pct:70.29305499799277,41.054091539528436,12.551853338685936,1.793804900601017/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024718:00414183761:1857070101:0293/pct:70.28364998662029,41.05029585798817,12.554633841762554,1.7967209072978303/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1160,7 +1160,7 @@ concerning negro slavery,” &amp;c. He further say
 and the instrument was reported, as I believe,  
 in Jefferson&#x27;s handwriting.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024718:00414183761:1857070101:0293/pct:70.30643650475044,43.6708275543227,12.525090325170614,1.3499768839574664/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024718:00414183761:1857070101:0293/pct:70.29702970297029,43.6667899408284,12.527874409062528,1.3529339250493098/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1178,7 +1178,7 @@ members. &quot;We were all in haste. Congress wai
 a impatient, and the instrument was reported, as I be  
 lieve, in Jefferson&#x27;s handwriting.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664369:1857070701:0239/pct:30.511925538103547,71.68573035814738,14.194299011052937,1.5563472717044815/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664369:1857070701:0239/pct:30.516773317820437,71.6919807487968,14.199146790769827,1.5563472717044815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1197,7 +1197,7 @@ oratory with which it abounded, especially
   
 that concerning negro slavery,&quot; dec. lie lo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_jubilee_ver02:data:sn83025802:00295862026:1857073001:0346/pct:56.29508642983531,13.41503809208347,27.71199128896148,84.48713702108866/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_jubilee_ver02:data:sn83025802:00295862026:1857073001:0346/pct:56.29508642983531,13.418718486621765,27.730139285876323,84.49449781016526/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1215,7 +1215,7 @@ Congress was impatient, and the instrument Thi
 was reported, as I believe, in Jefferson&#x27;s the  
 handwriting. T
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_jubilee_ver02:data:sn83025802:00295862026:1857073001:0346/pct:69.19831223628692,15.104339185160649,14.808765482509868,2.4953074969636746/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_jubilee_ver02:data:sn83025802:00295862026:1857073001:0346/pct:69.19831223628692,15.108019579698944,14.822376480195999,2.498987891501969/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1234,7 +1234,7 @@ jry with which it abounded, especially
   
 that concerning negro slavery,&quot; &amp;c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_jubilee_ver02:data:sn83025802:00295862026:1857073002:0350/pct:57.46014443384657,13.673896289772102,23.286551301267203,84.27832214026203/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_jubilee_ver02:data:sn83025802:00295862026:1857073002:0350/pct:57.46922832356815,13.677566149216485,23.282009356406412,84.27832214026203/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1254,7 +1254,7 @@ was reported, as I believe, in Jetfer?&lt;
 haudwriting.  
 On the 28th of June, the committe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_jubilee_ver02:data:sn83025802:00295862026:1857073002:0350/pct:69.1783621746832,14.719806231421337,12.42676113911977,3.655180006605747/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_jubilee_ver02:data:sn83025802:00295862026:1857073002:0350/pct:69.18744606440478,14.727145950310103,12.422219194258982,3.6588498660501303/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1277,7 +1277,7 @@ We were all in haste. Congress was impatient,
 and the instrument was reported, as I  
 believe, in Jefferson&#x27;s handwriting
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862695:1858061001:0021/pct:43.42657342657343,67.02613426600603,14.587412587412587,5.421160011658409/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862695:1858061001:0021/pct:43.42657342657343,67.03261115968782,14.601398601398602,5.417921564817513/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1303,7 +1303,7 @@ ed with its high tone, and the flights of ora­
 I tory with which it abounded, especially that  
 concerning negro slavery, Sc.” Ho furth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340184:1858070301:0315/pct:32.08664748688442,17.5373627827007,24.21729565070232,77.3971696865494/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340184:1858070301:0315/pct:32.08121827411168,17.535043639248876,24.217428087986463,77.39024067706956/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1321,7 +1321,7 @@ gress was impatient, and the instrument was
 reported, as I believe, in Jefferson’s hand­  
 writing. On the 28th of June the commit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340184:1858070301:0315/pct:44.203756980876626,19.66671075254596,12.083262819427992,2.0764449146938238/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340184:1858070301:0315/pct:44.196277495769884,19.664110023803225,12.08544839255499,2.0794763290134886/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1349,7 +1349,7 @@ I was delighted with its high tone, and the
 flights of oratory with which it abounded, es  
 pecially that concerning negro slavery,&quot; ac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290094:1858071101:0037/pct:74.7513812154696,269.89384288747345,37.51381215469613,18.726114649681527/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290094:1858071101:0037/pct:18.695592096172447,67.47346072186836,9.382340748929114,4.681528662420382/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1368,7 +1368,7 @@ aress was impatient, and the instrument was
 reported, as I believe, in Jefferson&#x27;s own hand­  
 writing sth of June, the committee reporte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290094:1858071101:0037/pct:74.80662983425414,289.89384288747345,37.51381215469613,7.940552016985138/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290094:1858071101:0037/pct:18.709409976509605,72.47346072186836,9.382340748929114,1.9851380042462845/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1526,7 +1526,7 @@ strument was reported, as I believe,
 in Jefferson&#x27;s handwriting.&quot;  
 On the 28th of June, the Committe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200293046:1871070401:0016/pct:64.4994246260069,330.7907392909071,38.3199079401611,22.860977519293144/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200293046:1871070401:0016/pct:16.1294964028777,82.69768482272677,9.582733812949641,5.715244379823286/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1568,7 +1568,7 @@ e ee e e
 UonsHot eYen SaIHUOl AAila Was mtarr  
 8o that he soon seized upon my heart
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_iceberg_ver01:data:sn83025668:00415629229:1872062701:0881/pct:323.1930103256553,69.91496828181941,52.50198570293884,11.391550816574437/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_iceberg_ver01:data:sn83025668:00415629229:1872062701:0881/pct:80.79825258141382,17.478742070454853,13.12549642573471,2.8478877041436093/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1628,7 +1628,7 @@ lishet. I suppose the reason is the vehe­
 ment philippic against negro slavery.&quot; Len  
 son J. Lossing in his Lives of those Sign
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416157108:1873092401:0394/pct:64.11067193675889,178.64238410596028,80.47430830039525,119.03973509933775/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416157108:1873092401:0394/pct:16.037176191417835,44.66059602649007,20.13051216136049,29.759933774834437/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1686,7 +1686,7 @@ suppose the reason is the vehement philip­
 pic against negro slavery.&quot; Benson J.  
 Leasing in his Lives of these Signers, give
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623744:1873092701:0180/pct:73.5632183908046,50.52803807823888,11.373260738052027,21.4190093708166/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623744:1873092701:0180/pct:73.57666196141695,50.52803807823888,11.373260738052027,21.428925578858646/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1802,7 +1802,7 @@ pose the reason is the vehement phillippic against
 negro slavery.&quot; Beuson J. Lossing, in his Lives  
 of those Signers, gives the theorigiual draft, au
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555651:1876070601:0643/pct:94.31159420289855,40.523882896764256,16.865942028985508,21.30550497268525/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555651:1876070601:0643/pct:70.75557166153288,30.396414063594342,12.647218699039682,15.982630620535089/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1832,7 +1832,7 @@ with him a reputation for liters ture, sctence, and a hat
 ytalent of composition. Writinga of his were handed  
 he emae iy the arir thei 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044735:1879071001:0051/pct:237.84183296378419,197.34620024125454,50.16629711751663,24.788902291917974/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044735:1879071001:0051/pct:59.482439926062845,49.336550060313634,12.546210720887245,6.197225572979494/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1864,7 +1864,7 @@ handed about, remarkable for their peculiar felicity of
 expression  
 With the above reputation, and his being enlisted i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044735:1879072001:0096/pct:325.811320754717,90.16294508147254,50.0377358490566,28.24381412190706/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044735:1879072001:0096/pct:81.46820154746179,22.540736270368136,12.511794678241177,7.060953530476765/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1920,7 +1920,7 @@ for the peculiar felicity of expression.&quot; In I?!!
 flight of oratory with which it abounded, esneciallv  
 that concerning negro slavery,&quot; &amp;c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295861915:1881101301:0317/pct:30.136629798308395,73.25084159767083,15.53675992192583,1.81967063961423/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295861915:1881101301:0317/pct:30.136629798308395,73.25690716646953,15.549772283669485,1.81967063961423/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1938,7 +1938,7 @@ Congress was impatient, and the rnstrument
 was reported, as I believe, in Jefferson&#x27;s  
 handwriting
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295861915:1881101301:0317/pct:30.058555627846456,75.78928213993267,13.454782042940794,2.2290965335274318/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295861915:1881101301:0317/pct:30.058555627846456,75.79231492433203,13.46779440468445,2.2351621023261457/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1960,7 +1960,7 @@ popular in Pennsylvania and in all the Middle
 and Southern States as the Stamp act  
 itself.&quot; Adams also tells how, when a lette
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_kobayashi_ver01:data:sn83030272:00175044784:1882052101:0382/pct:131.19819140919367,104.91705275743536,50.113036925395626,15.483485278732626/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_kobayashi_ver01:data:sn83030272:00175044784:1882052101:0382/pct:32.79954785229842,26.22926318935884,12.528259231348907,3.8708713196831566/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1978,7 +1978,7 @@ leprosy,&quot; and &quot;walked the streets of Philadel­
 phia in solitude, borne down by the weight of  
 care and unpopularity.&quot; At the end of the wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_kobayashi_ver01:data:sn83030272:00175044784:1882052101:0382/pct:131.19819140919367,124.16679121207592,50.037678975131875,7.950978926916754/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_kobayashi_ver01:data:sn83030272:00175044784:1882052101:0382/pct:32.79954785229842,31.04169780301898,12.509419743782969,1.9877447317291885/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2140,7 +2140,7 @@ knowledge of Hritish law, and his innate
   
 lovo of freedom and of justice gavo hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn85029079:00280760936:1890051401:0402/pct:49.139579349904395,100.1774193548387,29.46940726577438,10.193548387096774/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn85029079:00280760936:1890051401:0402/pct:32.78335724533716,66.79032258064517,19.655667144906744,6.790322580645161/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2172,7 +2172,7 @@ repentance ever has been and ever will
 ! nor Mr. .Johnson been tip* nominatoi  
 ; of Washington for general,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_annapolis_ver01:data:sn85025350:00415627683:1892031901:0495/pct:57.59295499021526,72.87265258215963,16.027397260273972,11.399647887323944/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_annapolis_ver01:data:sn85025350:00415627683:1892031901:0495/pct:44.63879480309388,56.47527003979534,12.421010060158737,8.842145158233844/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2251,7 +2251,7 @@ as we shall ever arrive. It may be of in­
 terest to add that when the Declaration  
 was reported to the house, Mr. John Han
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_inge_ver01:data:sn82016014:00295871313:1896062301:0634/pct:76.84729064039409,14.68636911942099,16.660802251935255,36.17310012062726/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_inge_ver01:data:sn82016014:00295871313:1896062301:0634/pct:57.655755015839496,11.022316043425814,12.513199577613516,27.12605548854041/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2317,7 +2317,7 @@ is the vehemeng philippic against negro
 slavery.&quot;  
 This account brings us as near to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_grace_ver02:data:sn83045604:00202199380:1896062801:0206/pct:41.37931034482759,156.85639686684073,34.30058555627846,63.80156657963447/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_grace_ver02:data:sn83045604:00202199380:1896062801:0206/pct:13.793103448275861,52.28546562228024,11.433528518759488,21.267188859878154/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2489,7 +2489,7 @@ I can.’ ‘Well,’ said Jefferson, ‘if you are
 decided 1 will do as well as I can.’ ” He  
 did well. When tho draft wai complete
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:00415665714:1897070401:0038/pct:17.069154774972557,70.12578616352201,12.774423710208563,7.334144856968959/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:00415665714:1897070401:0038/pct:17.069154774972557,70.12916751200379,12.792718624222466,7.330763508487185/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2512,7 +2512,7 @@ gress was impatient, and the instrument
 was reported in Jefferson’s handwriting as  
 he first drew it.” Although Jefferso
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:00415665714:1897070401:0038/pct:17.082875960482987,77.62223574761614,12.760702524698134,4.676404950294177/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:00415665714:1897070401:0038/pct:17.092023417489937,77.62223574761614,12.751555067691182,4.6797862987759515/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2603,7 +2603,7 @@ It was Thomas Paine who first pul
 licly advocated the separation. It was  
 he who first presented a strong an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_hoquiam_ver01:data:sn83045604:00202199483:1898070401:0284/pct:18.759124087591243,263.25779362705623,38.0,21.246980329000344/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_hoquiam_ver01:data:sn83045604:00202199483:1898070401:0284/pct:6.253041362530413,87.75259787568542,12.666666666666666,7.082326776333448/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

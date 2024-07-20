@@ -46,7 +46,7 @@ Sealed and Delivered
 in presence of, :  
 BE IT KNQJVNt that on the day of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796080201:0004/pct:9.973958333333334,28.051777814189744,21.510416666666668,10.683270522693757/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796080201:0004/pct:9.993489583333334,28.059970506308375,21.50390625,10.687366868753072/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -72,7 +72,7 @@ attorney is to continue) ivith power also an attorney or attar-
 nics under him, for that purpose to make and fubjiitute, and to do all  
 lawful aSis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796080301:0004/pct:13.938053097345133,27.44372494603762,20.575221238938052,6.275053962380512/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796080301:0004/pct:13.938053097345133,27.44372494603762,20.587512291052114,6.298180696885599/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -96,7 +96,7 @@ the (lock is credited) fro™ (here mfert the com- I
 mencement and expiration&#x27;of time for which the power of I jyjar(]1  
 attorney is to continue)
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796080401:0004/pct:7.124079915878023,27.982718511133267,23.68559411146162,5.732801595214357/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796080401:0004/pct:7.143796004206099,27.98687271518777,23.692166140904312,5.732801595214357/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -128,7 +128,7 @@ day of in the year
 1 Sealed and Delivered  
 in prfence of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796081601:0004/pct:10.828343313373253,51.07052896725441,20.234530938123754,9.68198992443325/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796081601:0004/pct:10.847055888223553,51.07840050377834,20.215818363273453,9.685925692695214/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -154,7 +154,7 @@ attorney is to continue) ivitb peiver also an attorney or dttor­
 nies under him, for that purpose to make and fubjlitute, and to do all  
 foivful ufts requiftttffor effecting the premises, hereby ratifying
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796082701:0004/pct:6.5362840967575915,26.909150757077025,20.40658775090067,6.780776826859777/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796082701:0004/pct:6.5362840967575915,26.9214944042133,20.425887802367473,6.784891375905201/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -183,7 +183,7 @@ confirming all that nyfdid Attorney or hisfubfiitutc,Jball lawful­
 ly doy by virtue hereof.  
 Ln IVitnefs hereof., I have hereunto set my Hand and Seal the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796090301:0004/pct:7.09965816460689,38.51888667992048,20.93084407047068,8.631544068919814/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796090301:0004/pct:7.112805679726532,38.527170311464545,20.93084407047068,8.648111332007952/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -214,7 +214,7 @@ In IVitnefs hereof / have hereunto set my Hand and Seal the
 •&quot; day of in the year \
 Sealed and Delivered 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796090701:0002/pct:5.6356487549148095,71.97420634920636,24.482306684141548,9.523809523809524/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796090701:0002/pct:5.6356487549148095,71.98247354497354,24.48885976408912,9.53207671957672/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -238,7 +238,7 @@ attorney is to continue-) Iwith power also an attorney or attor~ I
 itics under him, for that furpofe to make andfuhjlitute, and to do a j  
 lawful «£ls requifitefor ejjft&amp;ing tbepremifes, hereby ratifying and J 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796091401:0004/pct:10.16016016016016,28.24547600314713,22.37237237237237,5.5704169944925255/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796091401:0004/pct:10.166416416416416,28.249409913453974,22.37862862862863,5.578284815106215/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -265,7 +265,7 @@ attorney is to continue) with power ulfo an attorney or attor­
 nies under him, for that purptfe to male andfubflitute,andt» do all  
 lawful ails requifitefor effecting tbe prtmifes, hereby ratifying
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796091701:0004/pct:9.119332985930171,29.993342210386153,20.557582073996873,7.456724367509986/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796091701:0004/pct:9.138874413757165,29.99750332889481,20.557582073996873,7.452563249001331/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -290,7 +290,7 @@ mencement and expiration of time for which the power of
 attorney is to Continue) tuith power also an attorney or attor­  
 nies under him, for that purpose to make and do al
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796092001:0003/pct:71.3619886069394,24.579346750247442,20.792335577421024,6.186077202243484/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796092001:0003/pct:71.38140859658208,24.587594853183766,20.792335577421024,6.198449356647971/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -316,7 +316,7 @@ attorney is to cofttintte) -with power also an attorney or.attor­
 nia under him, for that purpose io make andfiebjiitvtc,andti do all  
 lawful aSs requisite for effecting the pre wife, hereby ratifying
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796092401:0004/pct:27.690700104493207,78.44582147044046,22.178683385579937,6.883269134148384/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796092401:0004/pct:27.710292580982237,78.45000837380674,22.178683385579937,6.904203650979736/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -349,7 +349,7 @@ Sealed and delivered
 in pT&#x27;fenceof,  
 EE IT KNO WN, that in the day o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796092701:0004/pct:29.721362229102166,78.69891576313594,21.95562435500516,10.825688073394495/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796092701:0004/pct:29.740712074303406,78.7072560467056,21.942724458204335,10.817347789824854/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -375,7 +375,7 @@ attorney is to continue) fvith power also an attorney or attor- *&#x27;
 nies under him, forthat purpose to male and fnbjlitute,andto do all &#x27;  
 lawful a£ls requifitefor effecting thepremijh, b : chy ratifying
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796093001:0004/pct:30.850795253723806,80.70145997650613,20.903812168644283,6.830005034401745/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796093001:0004/pct:30.863418328704874,80.70985064608156,20.903812168644283,6.838395703977177/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -405,7 +405,7 @@ Dc- In IVitmfi hereof, I have hereunto set my Hani and Seal the
 in day of in the year \
 m Sealed and Delivered 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796100701:0005/pct:34.01509617725834,75.8491156675536,22.08424640857073,8.42072311785882/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796100701:0005/pct:34.02118334550767,75.8491156675536,22.090333576820065,8.432462044138363/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -431,7 +431,7 @@ n_ attorney is to continue) -with power also .an attorney or attor­
 . nies under bint for that purpofc to make andfubfitute, and U do ail  
 lawful a£ls requifitefor effecting the hereby ratifying
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796101001:0004/pct:33.065497930362795,76.40519805855644,20.672023374726077,6.356661969625803/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796101001:0004/pct:33.071585098612125,76.40911225927665,20.678110542975407,6.364490371066228/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -455,7 +455,7 @@ rations attorney is to continue) with power also- an attorney or attor­
 nits under bim,for that purpose to make aridfubflitute, and to do all  
 lawful ails requifitefor effeSling theprmifes, hereby ratifying an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796101201:0004/pct:32.080078125,77.03125,23.0712890625,5.40625/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796101201:0004/pct:32.09228515625,77.03125,23.0712890625,5.40625/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -493,7 +493,7 @@ bis fubflitute, foall lawfully do, by wir-,
 tue b‘% L | e o  
 In Witness bernf, I hav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796101501:0168/pct:43.03189842056364,63.51149596894595,16.212449674821926,15.676321289937295/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796101501:0168/pct:43.04222153401466,63.51149596894595,16.212449674821926,15.676321289937295/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -515,7 +515,7 @@ mencement and expiration of time for which the power of 1 .
 . attorney is to continue) 101ith power also an attorney or attor- I  
 J°nS nits under him, for that purpose to make andfubjiitutc, and to do all 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796101901:0004/pct:30.35363457760314,77.61100687929957,22.888015717092337,4.440275171982489/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796101901:0004/pct:30.36591355599214,77.61491557223265,22.888015717092337,4.448092557848655/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -544,7 +544,7 @@ h la iVitnefs hereof, I lave hereunto set ay Hand and Seal the a
 f. day of in the near t,  
 j. Sealed and Delivere
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796102801:0004/pct:51.531833413116324,63.42467923332806,21.086644327429394,7.999366386820846/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796102801:0004/pct:51.53781713738631,63.42467923332806,21.086644327429394,8.00332646919056/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -579,7 +579,7 @@ in prefer &gt; •
 ,n efcrc meperfonally came 1  
 within named and achno-wledgei tbe above letter of attorney to le 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796110201:0004/pct:29.013140943055912,63.8829171489995,22.674568410203555,11.890193484372416/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796110201:0004/pct:29.03246585931461,63.89118571192327,22.674568410203555,11.894327765834298/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -621,7 +621,7 @@ of in the year
 Sealed and delivered  
 &#x27; in presence o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796111201:0184/pct:60.36866359447004,64.30845771144278,15.775729646697389,18.049751243781095/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796111201:0184/pct:60.378904249871994,64.30845771144278,15.775729646697389,18.0530679933665/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -654,7 +654,7 @@ also an attorney or attornies ‘under bim,
 Jor that purpose to make and fubflitute  
 and to do all lawful a&amp;:,rcgy{/{u for ef
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796111901:0188/pct:60.27014438751747,64.58915037893897,15.851575842260518,12.445153570003988/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796111901:0188/pct:60.27014438751747,64.58915037893897,15.861926201935518,12.455125648185081/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -684,7 +684,7 @@ day of in the \ear
 Sealed and Delivered  
 in presence of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796112301:0004/pct:9.291698400609292,65.67334310372904,21.604468139121604,8.93991206643869/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796112301:0004/pct:9.298045189134298,65.68148510014656,21.617161716171616,8.943983064647451/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -710,7 +710,7 @@ attorney is to continue) -with power also an attorney or attor- 3
 nits under him,forthat purpose to make andfuhfitute, and to do all c  
 Uwjul acls require
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796120901:0004/pct:14.806054872280038,75.78897786151673,19.749290444654683,6.515936567750039/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796120901:0004/pct:14.806054872280038,75.79290312450934,19.749290444654683,6.527712356727901/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -734,7 +734,7 @@ attorney is to coHtinUe) with power also an attorney or aitor­
 nits under him, for that purpose to make andfubftitutc, ar.dto do all  
 lawful ails requifitefor effecting the premises, hereby ratifying
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796121401:0004/pct:13.56858846918489,76.49229781771501,19.383697813121273,5.359435173299102/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796121401:0004/pct:13.587226640159045,76.49229781771501,19.37127236580517,5.383504492939666/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -767,7 +767,7 @@ Sealed and Delivered
 in presence of,  
 BE IT KNOWN, that on the day o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796121901:0004/pct:12.784588441330998,75.22774492568324,19.5896922692019,10.180597730541793/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796121901:0004/pct:12.797097823367526,75.23973150071919,19.5896922692019,10.176602205529807/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -800,7 +800,7 @@ Sealed and Delivered
 in presence tf,  
 BE IT KNOIVN, that on the day t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796122001:0004/pct:13.152610441767068,76.00523046747303,19.6285140562249,10.428244524354364/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796122001:0004/pct:13.165160642570282,76.00523046747303,19.6285140562249,10.444589735207584/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -824,7 +824,7 @@ attorney is to continue) ivith power also an attorney or attor­
 nies,under him, for that purpose to&#x27;male andfub/Jitufe, and&#x27;to do all  
 lawful afis requljitc for effe fling the premises, hereby ratifying
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796122101:0004/pct:12.984738553915436,76.6533226581265,19.664748561421067,5.348278622898318/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796122101:0004/pct:13.003502626970228,76.6533226581265,19.652239179384537,5.352281825460368/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -860,7 +860,7 @@ efvre meperfonally came
 witbin named and acknowledged the above letter of attorney id be  
 his afi and deed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796122801:0004/pct:14.524453182600148,75.555906008516,19.513393954288524,11.528150134048257/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796122801:0004/pct:14.542885229786188,75.56773379593125,19.50724993855984,11.528150134048257/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -889,7 +889,7 @@ ly do, by virtue hereof.
 day of in the year  
 Sealed and Delivere
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796122901:0004/pct:13.628536285362854,75.41035353535354,19.65559655596556,7.733585858585859/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796122901:0004/pct:13.628536285362854,75.42219065656566,19.674046740467404,7.737531565656566/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -914,7 +914,7 @@ attorney is to continue) tilth power also an attorney or attor­
 niu under him, for that purpose to maie andfubfitiete, and to do all  
 Uwful alii requifttefor effeAing thepremfes, hereby ratifying
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796123101:0004/pct:12.74632077824894,28.012193165409915,21.351958094287852,6.064495427562972/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796123101:0004/pct:12.758792716388127,28.024225894432856,21.358194063357445,6.064495427562972/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

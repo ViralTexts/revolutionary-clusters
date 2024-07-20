@@ -201,7 +201,7 @@ at sea, in w hich tbeap)xaj has been properly lodged within
 the tune inentionetl in the said convention, 8th Vende­  
 maire ninth year, (30 September, 1800.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855021801:0216/pct:1.446712747146761,42.41544674406865,15.335155119755667,6.13326602725896/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855021801:0216/pct:1.446712747146761,42.419653373716976,15.34051331511547,6.13326602725896/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -241,7 +241,7 @@ for ?? prizes made M ?ea in which the appeal has
 been properly lodged within the time mentioned  
 in the said convention of the 30th of September
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661551:1855022001:0184/pct:30.496843261048586,52.36119974473516,13.272028547900081,2.807913209955329/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661551:1855022001:0184/pct:30.505993229023698,52.36829043465929,13.267453563912527,2.807913209955329/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -258,7 +258,7 @@ the periocs when the accounts and vouchers were pre-­
 sented to the French government.  
 Art I. &quot;The debts provided for by the preceding ar-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:0027174321A:1855022001:0421/pct:157.342413130784,29.300911854103344,45.870438274838484,4.085106382978723/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:0027174321A:1855022001:0421/pct:52.44747104359467,9.766970618034447,15.290146091612828,1.3617021276595744/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -277,7 +277,7 @@ United States the amounts chargeable for &quot;pri/.i
 made at sea in which the appeal has been proper!  
 lodged within the time mentioned in the said eonve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1855022201:0544/pct:30.620829706991586,81.79467534954989,13.4029590948651,1.9632254357402796/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1855022201:0544/pct:30.620829706991586,81.80105982251165,13.417464461850885,1.9600331992594011/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

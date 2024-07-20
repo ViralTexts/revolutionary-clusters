@@ -50,7 +50,7 @@ lo read die l.i n; and tho more tatal as being irreparable blit
 with the consent ol the Senate, winch will nuvec bo ob­  
 tained.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:0041418408A:1834101401:0203/pct:34.45992550696648,20.66304347826087,14.995171747827287,9.456521739130435/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:0041418408A:1834101401:0203/pct:34.4551724137931,20.660797739376154,14.997701149425287,9.459116762670725/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -91,7 +91,7 @@ more fatal as being irrepealable but with the
 consent of the Senate, which will never be  
 obtained.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn82014282:00414212438:1857071401:0160/pct:16.128563118091915,31.69143973093197,11.329261198371146,11.446240642291418/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn82014282:00414212438:1857071401:0160/pct:16.12621782754108,31.68800173573443,11.331249091173477,11.447711000216966/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -446,7 +446,7 @@ principle of intrigue and corruption which
 will soon leaven the mass, not only of Sen­  
 ators, but of citizens.&quot; That&#x27;s the kind o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_havanese_ver01:data:sn83045462:00280655077:1896071801:0492/pct:14.496620419779438,22.150053022269354,13.660618996798293,5.434782608695652/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_havanese_ver01:data:sn83045462:00280655077:1896071801:0492/pct:14.5099608680185,22.159994697773065,13.660618996798293,5.428154825026511/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -511,7 +511,7 @@ in which he called this act &quot;the mischievous
 law vacating every four years nearly all  
 the executive offices of the government;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_havanese_ver01:data:sn83045462:00280655077:1896080601:0709/pct:58.08891348459694,46.38877424680149,13.484596937834349,1.361947998349154/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_havanese_ver01:data:sn83045462:00280655077:1896080601:0709/pct:58.08891348459694,46.39565277204567,13.503043718871057,1.3585087357270602/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -539,7 +539,7 @@ what all executive directories become, mere
 sinks of corruption:and faction.&quot; To all of  
 which Madison amented. They spoke wise
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_havanese_ver01:data:sn83045462:00280655077:1896080601:0709/pct:57.86755211215643,47.95707800247627,13.779745434421693,5.722933003164122/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_havanese_ver01:data:sn83045462:00280655077:1896080601:0709/pct:57.88138719793396,47.95707800247627,13.775133739162516,5.736690053652497/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

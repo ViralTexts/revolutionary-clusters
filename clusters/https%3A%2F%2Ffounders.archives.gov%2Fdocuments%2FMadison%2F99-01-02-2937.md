@@ -114,7 +114,7 @@ i f after receiving Mr. Pinkney&#x27;s orders, ~
 j j the United States. He has according­  
 . \ ly been instructed to this effect.*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808111601:0001/pct:23.66018261214768,34.91711264847931,18.479555379118697,11.917504242266023/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808111601:0001/pct:23.66018261214768,34.92581473262847,18.479555379118697,11.9218552843406/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -143,7 +143,7 @@ Mr. Pinkney’s orders, return with ell possible e.x^
 ■edition to the United States. He b»* accordingly  
 OMO instruclkd to this effect.” ■ *
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808112101:0219/pct:9.726831758999234,86.03388715249218,21.164156242021956,9.952294785326535/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808112101:0219/pct:9.724349157733538,86.01973684210526,21.16513527309852,9.954769736842104/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -176,7 +176,7 @@ all possible cxpcdition to the U. States. He
 has aceordingiy&#x27;bcen inStrtKsited to &quot;this ef­  
 fect.&quot; &#x27; &#x27; si si - -
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808112301:0592/pct:31.152372531682875,14.55798138869005,22.811671087533156,15.220114531138153/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808112301:0592/pct:31.147782525416236,14.556678894157645,22.813221354550365,15.221735110792997/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -225,7 +225,7 @@ ney’s orders, return with all possible expe­
 dition to tiie United States. He has accord­  
 ingly been instructed to this effect.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808112501:0237/pct:42.04403078575264,40.975670307845085,16.950062645426883,20.5188679245283/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808112501:0237/pct:42.036506800286325,40.97058458483306,16.95299451204963,20.520458400562656/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -255,7 +255,7 @@ Fr mouth to K i and. and -hence, af’er re­
 ceiving Sir. P *.kti‘v’s order**, return with)  
 ill poss.o * ex,. I.; to the IT. S. rfehis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808112901:0389/pct:22.39433926180914,18.11263318112633,17.995792694587877,9.335362760020294/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808112901:0389/pct:22.390057361376673,18.11033608116677,17.9987253027406,9.338406256605369/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -122,7 +122,7 @@ ly, which shall not equally extend to all other
 nations,  
 _But the Britith Government reserves to itfelf
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795071401:0470/pct:53.09957094244711,7.701492537313433,19.189229175913596,5.960199004975125/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795071401:0470/pct:53.09957094244711,7.708126036484246,19.199092567934112,5.9568822553897185/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -155,7 +155,7 @@ Britilh or in American vefsels.
 The two parties agree to treat for the more ev­  
 act equalization of theduties o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_zarley_ver01:data:sn84038410:01000424529:1795071801:0053/pct:6.302201974183751,15.220034038414783,51.82232346241458,75.90566496474592/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_zarley_ver01:data:sn84038410:01000424529:1795071801:0053/pct:6.299810246679317,15.216334467671366,51.81214421252372,75.89329120077784/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -220,7 +220,7 @@ violation of one party authorises the same on the
 side of the other party. But if Great-Britain- is dis­  
 posed to consider the measure in a more serious man
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806020701:0947/pct:9.58183990442055,41.031354448511856,20.76463560334528,11.825561037720833/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806020701:0947/pct:9.57955088389871,41.024824952259706,20.76564739608218,11.827657542966264/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -237,7 +237,7 @@ posed to consider the measure in a more serious man
 the expor-ation, nr importation of any articles  
 (to or from the territories of the two partiesref
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1806111101:0215/pct:42.05352266521027,64.95419658331271,17.58601856908793,1.7826194602624412/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1806111101:0215/pct:42.045868219876226,64.94615670256219,17.58888484407232,1.786524734909436/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -296,7 +296,7 @@ parties respectively,* which sh?ll not equal­
 l\ extend to all other nations. But the  
 Brbish government reserves to »*st If th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808040801:0122/pct:77.47969015681089,55.577763897564026,17.627054600415644,7.970018738288569/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808040801:0122/pct:77.46505477899508,55.57082188358731,17.630021407883138,7.973186776584228/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -571,7 +571,7 @@ no more worthy to be called thy son.
 PRACTICAL REMARKS.  
 The parable of the prodigal son was spoken t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_indianhead_ver01:data:sn83016368:00415627476:1866072801:0339/pct:80.51011921264208,70.35243996901626,12.281674521763238,2.420604182804028/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_indianhead_ver01:data:sn83016368:00415627476:1866072801:0339/pct:80.51011921264208,70.35243996901626,12.290915811847334,2.4238316550477665/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -631,7 +631,7 @@ saw him, and had compassion, and ran and fell
 on his neck, and kissed him.”  
 I am the resurrection, and the life, saith th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_hera_ver01:data:sn83021205:00517171554:1868092601:0922/pct:51.52328032190075,45.76601671309192,14.370569074535352,5.0974930362116995/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_hera_ver01:data:sn83021205:00517171554:1868092601:0922/pct:39.93961292877295,35.47528243505793,11.132010097510271,3.9432971144851408/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -844,7 +844,7 @@ But the father said to his servants, Bring forth
 the best robe, and put it on him; and put a ring on  
 his hand, and shoes on his feet
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_montpelier_ver01:data:sn84023253:00200296291:1877102601:0172/pct:75.40513166779203,228.67617107942974,33.929777177582714,15.274949083503055/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_montpelier_ver01:data:sn84023253:00200296291:1877102601:0172/pct:25.139287523214588,76.22539035980991,11.311835218639203,5.091649694501018/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1093,7 +1093,7 @@ way off his father saw him and had com­
 passion, and ran and fell on his neck and  
 kissed him.” The speaker said this beau
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn90053049:00332897913:1896070401:0727/pct:30.15660809778457,12.275960170697013,12.261268143621084,4.025604551920342/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn90053049:00332897913:1896070401:0727/pct:30.150849723123926,12.274214194282463,12.263700591941952,4.028587683117622/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1152,7 +1152,7 @@ all the evil which I will bring upon this
 place.” It was four years after his death  
 (he was slain in battle) that Huldah’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00542865969:1898120101:0423/pct:83.73893805309734,67.57346523130637,14.269911504424778,2.909514111143439/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00542865969:1898120101:0423/pct:83.72041583720416,67.56363636363636,14.27228489272285,2.9127272727272726/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1172,7 +1172,7 @@ It shall be well with us.
 20. “Thine eyes shall not see all the evil  
 which I will bring upon this place.” Whe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn85035722:00513685208:1898120301:0373/pct:5.594587561800677,88.82342748223878,16.78376268540203,3.0324033962918038/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn85035722:00513685208:1898120301:0373/pct:5.593132154006243,88.8080388080388,16.78590010405827,3.0362092862092864/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1192,7 +1192,7 @@ shall be well with us,
 80, &quot;Thine eyes shall not see all the  
 evil which I will bring upon this place. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:okhi:batch_okhi_icecream_ver01:data:sn93050700:0029586476A:1898120301:0233/pct:53.78787878787879,9.42079553384508,22.19416386083053,4.44870900209351/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:okhi:batch_okhi_icecream_ver01:data:sn93050700:0029586476A:1898120301:0233/pct:40.359247824866685,7.06559665038381,16.643278136401907,3.349616189811584/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1219,7 +1219,7 @@ the king made a covenant before the
 Lord to follow Him with all his  
 heai t and soul, and caused all tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_duval_ver01:data:sn84038206:0039334927A:1898120301:0397/pct:61.76671214188267,41.90684664964125,10.845839017735335,7.50334427824395/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_duval_ver01:data:sn84038206:0039334927A:1898120301:0397/pct:61.75618073316283,41.90175097276265,10.848252344416027,7.505471789883268/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

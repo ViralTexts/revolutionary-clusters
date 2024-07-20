@@ -116,7 +116,7 @@ tilc Witnesses before us to be] the person
 and acknowledged Ihe same to be his  
 [heir, or thru] act and deed. Given up- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215610:1838050101:0688/pct:38.22701688555347,14.33677830445256,15.806754221388367,14.290154635169788/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215610:1838050101:0688/pct:38.22253488099425,14.335664335664335,15.80880916090202,14.291634291634292/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -166,7 +166,7 @@ witnesses befo.e us to be] the person
 and acknowledged the same to be bis, [I er  
 or their] act and deed. Given under our 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kershawhogjam_ver03:data:sn92065563:00415620305:1838050501:0209/pct:40.11237708756048,63.985205732778546,21.164351490557202,17.614424410540916/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kershawhogjam_ver03:data:sn92065563:00415620305:1838050501:0209/pct:40.11237708756048,63.985205732778546,21.185162062327663,17.6182770842965/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -219,7 +219,7 @@ before us to be] the person [or persous] who ex­
 ecuted the said deed, and acknowledged the same  
 to be his, [her, or their] act and deed. Given un
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1838051501:0077/pct:18.664666166541636,67.11028577323842,14.373593398349588,3.786237490972867/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1838051501:0077/pct:18.664666166541636,67.11716358884418,14.388597149287321,3.786237490972867/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -240,7 +240,7 @@ and shall declare that she had “villingly signed, seal­
 ed, and delivered the same, and that she wished not  
 to retract it ; and such privy examination, acknowl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1838051501:0077/pct:33.62340585146286,13.875992984628082,14.268567141785446,3.260084597131951/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1838051501:0077/pct:33.62340585146286,13.875992984628082,14.268567141785446,3.2669624127377146/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -292,7 +292,7 @@ day of
 a n. si u..i  
 C !. . it 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016867:00295877637:1838051901:0163/pct:22.7803738317757,14.161008729388943,38.9797507788162,114.64597478176528/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016867:00295877637:1838051901:0163/pct:17.101675107128944,10.627684633504225,29.236462797039344,85.97755299986144/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -322,7 +322,7 @@ before us to be the person I or persons l who exe-
 cuted the said deed, and acknowledged the same to  
 be his, her, or theirj act and deed. Uiven unde
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197966:1838060601:0092/pct:25.79921480650589,48.15107995024313,20.66741446999439,11.18398733461495/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197966:1838060601:0092/pct:19.35755365408893,36.11896415243696,15.514097348856783,8.390817595838516/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -360,7 +360,7 @@ tthe deed of trust) to be her act and deed, and de­
 clared that she had willingly signed, sealed and delt  
 ered the same, and that she wishes not to retruct it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293320:1861072401:0081/pct:332.3695788812068,263.80862150639507,48.39723444374607,6.631927996210327/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293320:1861072401:0081/pct:83.1185161898774,65.95215537659877,12.10311222885885,1.6579819990525817/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -400,7 +400,7 @@ lived the same, and that she wished not to retract it.
 Given under my hand nd notarial seal this eleventh  
 day of Inuary, A.D. 1871
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536159:1873102701:0764/pct:291.5407854984894,22.445957950843944,49.77341389728097,8.705952028427598/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536159:1873102701:0764/pct:72.89896128423041,5.611489487710986,12.445703493862133,2.1764880071068995/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -445,7 +445,7 @@ the same, and that she wished not to retract it,
 Given under my hand and impress of my  
 official seal this 1 Ith day of April, 1872
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_bentley_ver01:data:sn83025733:00200297581:1880022701:0643/pct:86.51794374393792,62.09029066171923,58.58389912706111,21.645021645021647/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_bentley_ver01:data:sn83025733:00200297581:1880022701:0643/pct:21.634731991268495,15.522572665429808,14.64952704341499,5.411255411255412/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -471,7 +471,7 @@ the same, and wished not to retract it.
 Given under our hands and seals this  
 11th day of April, 1817
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_journey_ver01:data:sn84024738:00206531022:1881061101:0565/pct:213.01866419867346,65.63923313208346,40.58306339657566,16.640186420929986/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_journey_ver01:data:sn84024738:00206531022:1881061101:0565/pct:71.00622139955782,21.879744377361156,13.527687798858553,5.546728806976662/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -564,7 +564,7 @@ son tli by the tract of land to be hereinafter de­
 scribed and conveyed,&quot;nnd on the west by Ma­  
 chump&#x27;s creok, and is that portion of the far
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_orr_ver01:data:sn90059228:00280766410:1890103001:0041/pct:8.253358925143955,66.25207296849088,12.325198793528928,8.022388059701493/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_orr_ver01:data:sn90059228:00280766410:1890103001:0041/pct:8.262498857508454,66.25552791597568,12.316058861164427,8.032752902155888/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -598,7 +598,7 @@ had willingly executed the same, and does not
 wish to retract it.  
 Given under my hand this 15th day of Febru
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_orr_ver01:data:sn90059228:00280766410:1890103001:0041/pct:8.321908417877708,5.483001658374793,23.99232245681382,88.89925373134328/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_orr_ver01:data:sn90059228:00280766410:1890103001:0041/pct:8.331048350242208,5.483001658374793,23.987752490631568,88.91307352128247/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -635,7 +635,7 @@ Charles Carter, called &quot;Broad Ne:k,&quot; on the
 south by the tract of land to be hereinafter de­  
 scribed and conveyed, and on the west by Ma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_fencing_ver02:data:sn83016589:0039334071A:1890103101:0062/pct:4.628999319264806,67.242773398019,12.321307011572499,8.065494238932686/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_fencing_ver02:data:sn83016589:0039334071A:1890103101:0062/pct:4.628999319264806,67.24951148844417,12.330383480825958,8.068863284145273/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -667,7 +667,7 @@ the said writing to be her act, declared that she
   
 bad willingly executed the same, and does no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_fencing_ver02:data:sn83016589:0039334071A:1890103101:0062/pct:4.737916950306331,4.770568021022842,25.17358747447243,91.28764908025066/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_fencing_ver02:data:sn83016589:0039334071A:1890103101:0062/pct:4.737916950306331,4.773937066235429,25.17358747447243,91.28428003503807/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -697,7 +697,7 @@ ed and that she did not wish to retract it.
 In witness whereof, I have hereunto set  
 my hand and affixed the seal of said Court
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gilachub_ver01:data:sn84021912:00211104314:1896041801:0817/pct:50.09887005649718,97.3659454374412,18.23446327683616,7.703564335737431/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gilachub_ver01:data:sn84021912:00211104314:1896041801:0817/pct:33.418115020488905,64.91063029162747,12.166172106824925,5.142677955471934/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -721,7 +721,7 @@ ed and that she did not wish to retract it.
 In witness whereof, I have hereunto set  
 my hand and affixed the seal of said Court
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gilachub_ver01:data:sn84021912:00211104314:1896051601:0836/pct:71.9508830022075,97.0523903760025,17.673841059602648,7.697114883866264/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gilachub_ver01:data:sn84021912:00211104314:1896051601:0836/pct:47.99171842650104,64.70159358400167,11.78743961352657,5.134881783147589/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

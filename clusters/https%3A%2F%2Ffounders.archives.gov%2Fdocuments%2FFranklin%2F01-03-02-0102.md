@@ -828,7 +828,7 @@ phases and aspects of the planets
 the rising and setting of the sun,  
 the rising and setting of the moon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033395:00212470363:1868111901:0668/pct:28.41905318527177,38.173618940248026,15.911747516072472,5.062006764374296/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033395:00212470363:1868111901:0668/pct:21.321058015490284,28.635851183765503,11.939207949729651,3.7993235625704624/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -847,7 +847,7 @@ hours West from Jxmdon, but may,
 without sensible error, serve all the |  
 Northern Provinces, for the year of Ou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_deforest_ver02:data:sn84026847:00415665106:1870060201:0530/pct:38.95988112927191,20.0244335850733,11.931649331352155,3.198578409595735/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_deforest_ver02:data:sn84026847:00415665106:1870060201:0530/pct:38.95988112927191,20.02813564341774,11.941555225359089,3.2022804679401746/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -869,7 +869,7 @@ I Eclipses, Judgment of the Weather, Festivals,
 ; and remarkable days.&quot; Thua much ia Banneker&#x27;s;  
 then follow (Joddard and Angell: 41 Als
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026753:0041562038A:1871112301:0262/pct:30.70389761489238,24.220852504557687,14.62478184991274,3.76768816737564/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026753:0041562038A:1871112301:0262/pct:30.70389761489238,24.2266400439853,14.636416521233276,3.76768816737564/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -932,7 +932,7 @@ and southing, place and age of the Moon, Ac. !
 The lunations, conjunctions, eclipses, judg- I  
 mentsof the weather, festivals, and retnarka- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_indianhead_ver01:data:sn83016368:0041562752A:1876052701:0044/pct:38.55908584169454,62.04320613769433,11.106465997770346,2.099737532808399/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_indianhead_ver01:data:sn83016368:0041562752A:1876052701:0044/pct:38.55908584169454,62.04657110168921,11.125046451133407,2.099737532808399/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -988,7 +988,7 @@ and southing, place and age of the moon etc
 The lunations, conjunctions, eclipses jmfg’  
 ment of the weather, festivals, and remark
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ferguson_ver01:data:sn83027106:00211664447:1884011201:0198/pct:86.24036540108479,41.220556745182016,11.932629174992863,3.019271948608137/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ferguson_ver01:data:sn83027106:00211664447:1884011201:0198/pct:86.24988105433438,41.22412562455389,11.932629174992863,3.019271948608137/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1011,7 +1011,7 @@ moon, etc. The lunations, con­
 junctions, eclipses, judgment ot  
 the weather, festivals and re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_deepspace_ver01:data:sn84020670:00513687941:1884020201:0117/pct:71.90275829827021,24.671916010498688,10.986442262739597,5.0/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_deepspace_ver01:data:sn84020670:00513687941:1884020201:0117/pct:71.90795283361904,24.676290463692037,10.991636798088411,5.0/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1034,7 +1034,7 @@ tions, eclipses, judgment of the
 weather, festivals, and remarkable  
 days.” This much is Bannekej&#x27;s. Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ferguson_ver01:data:sn83035386:00211664484:1884020901:0096/pct:5.749668288367979,79.82860203535083,12.074303405572756,4.402785216925549/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ferguson_ver01:data:sn83035386:00211664484:1884020901:0096/pct:5.7594967811686075,79.82860203535083,12.074303405572756,4.402785216925549/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1066,7 +1066,7 @@ phia; Poor Will&#x27;s, which, in addition, con­
 tains a table of the tides, Quaker meetings,  
 receipts; the Lancaster Almanac, contain
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_jay_ver01:data:sn83025308:0021247664A:1892010701:0057/pct:61.28682842287695,162.48584371460927,42.95927209705373,25.77859569648924/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_jay_ver01:data:sn83025308:0021247664A:1892010701:0057/pct:20.42894280762565,54.16194790486976,14.319757365684575,8.59286523216308/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

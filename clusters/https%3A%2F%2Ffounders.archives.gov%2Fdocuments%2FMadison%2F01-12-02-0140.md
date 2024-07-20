@@ -134,7 +134,7 @@ authorized l&gt;y being excepted out ol the general rule es­
 tablished by tlie constitution, in three words, “die execu­  
 ! live power shall be vested in the President.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1833101501:0188/pct:20.735333874020004,37.139369729249886,14.909434982427683,15.756768752774079/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1833101501:0188/pct:20.73253142316529,37.1352490846555,14.911925034914628,15.758718887532822/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -169,7 +169,7 @@ t ce,v® &quot;Ml &#x27;f power whatsoever is in its nature Ex­
 ecutive, it ir the power of appointing, overseeing, and  
 controlling those who « xccute the laws.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1834010201:0284/pct:67.29508196721312,78.54077253218884,14.672131147540984,4.908110487509629/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1834010201:0284/pct:67.28588990575058,78.53213028169014,14.67468014387834,4.911238262910798/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -223,7 +223,7 @@ Constitution, that the first Magistrate
 should be responsible for the Ezccutive De­  
 partment.” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1834010801:0006/pct:4.481132075471698,44.3683309181926,16.309869375907112,6.204716111184297/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1834010801:0006/pct:4.487179487179487,44.37711324814473,16.309869375907112,6.204716111184297/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -299,7 +299,7 @@ the President in the performance ol his executive duties.
 He lias tin: superintendence, the conhol, and the inspec­  
 tion, ol their conduct,” tie. 6tc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1834021101:0352/pct:5.774666846143492,34.784987416566366,14.658769686364248,5.23033154612102/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1834021101:0352/pct:5.773889636608344,34.78118161925602,14.661283086585913,5.233406272793581/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -445,7 +445,7 @@ is not responsible to his country.” Hamilton’s party,
 however, which was the strongest, so far succeeded as  
 to give the treasury the appearance of an independen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1834031402:0410/pct:56.31810361307589,18.423526252182086,19.212387688778435,4.471599301732241/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1834031402:0410/pct:56.30733944954128,18.42105263157895,19.215086646279307,4.47547440028643/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -491,7 +491,7 @@ partment responsible to him, he is nut responsible to lhe
 counjiy.”  
 Here permit me to remark (hat I regret that the honor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1834031801:0411/pct:64.12940057088487,82.20745260405317,14.679896697023244,9.795162344737415/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1834031801:0411/pct:64.1206849687415,82.19849656825362,14.682431820241007,9.797726694992193/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -551,7 +551,7 @@ tion, it is beyond tlio reach of the Legislative body.
 About the close of the debate, alter referring to the  
 clause ot the Coustitulion which makes it the duty ol th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1834031801:0411/pct:79.12192469756694,16.12551754194814,14.92456164197363,20.03704510786664/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1834031801:0411/pct:79.11117151399837,16.123760758252534,14.927063513635952,20.038493663071502/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -744,7 +744,7 @@ t his-doty, to &quot;nominate, and by and with the ad
 ble that the power of appointing, overseeing,&#x27;  
 and controlling those who exccute the laws—
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1834042901:0381/pct:61.44141531322506,64.69522591645354,14.167633410672854,1.3107416879795397/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1834042901:0381/pct:61.45108275328693,64.69522591645354,14.157965970610983,1.3249502699630578/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -799,7 +799,7 @@ of the power of removal. With the avow
 ence, that the power was exercised by the  
 president in virtue of a grant from congress.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn82015332:00332897925:1834050801:0331/pct:4.088369730827831,55.92079969242599,15.236160487557136,8.381391772395233/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn82015332:00332897925:1834050801:0331/pct:4.087331810104088,55.91005189313857,15.238639248540238,8.384585815875456/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -873,7 +873,7 @@ being responsible for the exercise of the whole
 Executive power, he lias a right to employ  
 agents of his own choice, to assist him in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025007:00414216493:1834061101:0561/pct:42.60769819016059,53.59447830763715,18.021921998470557,5.754750806740767/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025007:00414216493:1834061101:0561/pct:42.602268382821464,53.58967464372143,18.023873242428103,5.757222670371366/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -991,7 +991,7 @@ the heads of Departments.” * • • .
 shall be vested in a President.—Are there exceptions »  
 Yes, there are. The Constitution says, (hat the Senat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184091:1836031901:0398/pct:5.544800884955753,57.286595261278805,14.961283185840708,4.803635183382019/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184091:1836031901:0398/pct:5.5440342872943456,57.280398096062314,14.9638232176598,4.8067214769940865/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1010,7 +1010,7 @@ any power is, in its nature, Executive,,,it ,* t|„. ,,ower of
 appointing, overseeing and conUoUrtig those Who execute  
 the laws. —
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184091:1836031901:0398/pct:5.475663716814159,63.258682246024016,15.0304203539823,2.2287136211186844/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184091:1836031901:0398/pct:5.474906677727084,63.25183903072263,15.032950827227062,2.232078465310832/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1039,7 +1039,7 @@ for the executive departiment. So far, there­
 fore, as we do not make the officers who are  
 to aid him, ke i 3 not responsible lo his country.” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152755:1837031601:0262/pct:6.728299948638932,73.62030905077263,15.254237288135593,2.7961736571008093/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152755:1837031601:0262/pct:6.739713519374536,73.62030905077263,15.259944073503396,2.8043496034666013/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1066,7 +1066,7 @@ Madison said: &quot;It is evidently the intention of
 the Constitution that the First Magistrate should  
 be responsible for the Executive Departments.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1841090201:0874/pct:50.25860531478509,52.33988585922638,15.944355270197967,2.0545339251743817/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1841090201:0874/pct:50.264550264550266,52.34834073134644,15.944355270197967,2.0545339251743817/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1210,7 +1210,7 @@ should remain in his hands.&quot;?-(ProtestMessage.)
 the President, who is responsible for its exer­  
 cise, it is a necessary consequence that he 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1850010501:0046/pct:48.92588614393126,1.2331487093740203,14.997314715359828,3.6889957153307558/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1850010501:0046/pct:48.92588614393126,1.2331487093740203,15.010741138560688,3.699446128122061/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1241,7 +1241,7 @@ These thoughts are eminently proper to
 be considered at the present time, both by  
 Congress and by the people. It surely fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774728:1866052401:0604/pct:231.21345029239765,267.81365802011646,50.365497076023395,30.333509793541555/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774728:1866052401:0604/pct:57.81392798391519,66.95341450502912,12.59367574483641,7.583377448385389/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1298,7 +1298,7 @@ to the country ot making them the favorite ob­
 jects of his bounty; that m the distribution of  
 his patronage, he had passed by the brave men 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_hera_ver01:data:sn83021205:00517171694:1866071301:0694/pct:5.635999108932947,76.6198612755879,16.106036979282692,22.111317881915074/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_hera_ver01:data:sn83021205:00517171694:1866071301:0694/pct:4.379352017034011,59.381145928936675,12.476261725269033,17.140859228180588/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1354,7 +1354,7 @@ to 20 in favor of the principle that the executive power
 of removal is vested by the Constitution in the Execu-­  
 tive, and in the Senate by the casting vote of the Vic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743579:1867030301:0581/pct:145.9660122092064,201.6546844687892,46.69196502227355,43.044619422572175/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743579:1867030301:0581/pct:48.6553374030688,67.21822815626308,15.56398834075785,14.348206474190727/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1434,7 +1434,7 @@ tecided by
 House of Repre.  
 in favor of the principle that th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_delphi_ver02:data:sn83030214:00206530856:1867030401:0427/pct:52.69082498072475,55.492712638677396,49.43716268311488,41.11376984990211/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_delphi_ver02:data:sn83030214:00206530856:1867030401:0427/pct:17.56360832690825,18.497570879559134,16.47905422770496,13.704589949967371/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1500,7 +1500,7 @@ No. 82
 The question has often been raised in subsequent  
 times of high excitement, and the practice of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053571:00237289043:1867030401:0222/pct:218.81720430107526,45.50379198266522,98.65591397849462,336.8725171542073/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053571:00237289043:1867030401:0222/pct:54.704301075268816,11.375947995666305,24.663978494623656,84.21812928855182/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1560,7 +1560,7 @@ tion In these words: *Thc executive power
   
 The question thus ably and exhaustively argue
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kedzie_ver02:data:sn82014064:no_reel:1867030401:0001/pct:40.53755522827688,12.700596056854653,8.873343151693668,12.333791838606144/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kedzie_ver02:data:sn82014064:no_reel:1867030401:0001/pct:40.55136229749632,12.708237811401498,8.873343151693668,12.329970961332721/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1585,7 +1585,7 @@ lieves it to be so flagrantly illegal in a ger
 eral point of view as not to require an ex  
 amination of details. The promptness wit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536081:1867030401:0014/pct:76.68433005299016,206.21156211562115,42.84632853898562,21.832718327183272/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536081:1867030401:0014/pct:19.18197311115319,51.55289052890529,10.717667108502178,5.458179581795818/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1654,7 +1654,7 @@ executive power of removal is vested by
 the Constitution in the Executive, and in  
 the Senate by the casting vote of the Vic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:0028077473A:1867030501:0538/pct:72.31907025884838,22.49398170438132,50.184891706286315,85.27684159845931/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:0028077473A:1867030501:0538/pct:18.079767564712096,5.62349542609533,12.546222926571579,21.31921039961483/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1686,7 +1686,7 @@ be associated with the President, unless in
 the case of inferior officers, when the law  
 shall otherwise direct. Have we (that is
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741923:1867030501:0233/pct:52.0,124.88667271078876,41.30639730639731,26.056210335448775/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741923:1867030501:0233/pct:17.333333333333332,41.62889090359625,13.768799102132435,8.685403445149593/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1741,7 +1741,7 @@ the Constitution in the Executive, and in
 the Senate by the casting vote of the Vice-­  
 President. The question has often bee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741923:1867030501:0233/pct:52.13468013468013,150.19038984587488,41.52188552188552,58.75793291024479/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741923:1867030501:0233/pct:17.378226711560046,50.0634632819583,13.840628507295174,19.58597763674826/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1807,7 +1807,7 @@ Senate by the casting vote of the Vice
 President.  
 ASOTIIKK DECISION
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_chekhov_ver01:data:sn84026847:00415665040:1867030501:0219/pct:12.946830880144187,62.767082716310554,11.985581255632322,22.784006769621325/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_chekhov_ver01:data:sn84026847:00415665040:1867030501:0219/pct:12.951837388605187,62.77413440519004,12.00060078101532,22.784006769621325/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1834,7 +1834,7 @@ power, now participated in
 He declared that he had eschewed hi  
 former opinions, and He summed up th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867031401:0239/pct:147.992700729927,50.08302889405513,76.58150851581509,53.04992804162515/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867031401:0239/pct:37.015061615700596,12.520757223513783,19.154115320249506,13.262482010406288/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1858,7 +1858,7 @@ associated with the president, unless in
 the case of inferior officers when the  
 law shall otherwise direct. Have w
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867031401:0239/pct:187.22627737226279,54.15697996236023,37.28710462287105,12.133289051256504/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867031401:0239/pct:46.82793245093565,13.539244990590058,9.32603073178153,3.033322262814126/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1884,7 +1884,7 @@ power? Whatever is in the executive, it
 is in the power of appointing, overseeing  
 and controlling those who execute the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867031401:0239/pct:187.1654501216545,66.37883316727554,37.28710462287105,14.923059891508911/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867031401:0239/pct:46.81271869770272,16.594708291818886,9.32603073178153,3.730764972877228/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1925,7 +1925,7 @@ moval is vested by the Constitution in
  the executive, and in the senate by the  
  casting vote of the vice-president. Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867031401:0239/pct:185.8880778588808,103.13295693568028,77.4330900243309,17.97852319273774/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867031401:0239/pct:46.49322987981135,25.78323923392007,19.367107865510423,4.494630798184435/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1999,7 +1999,7 @@ nate, would lay tho foundation of discord, and end In
 an assumption of the executive power only to be re­  
 moved by a revolution in tho government.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_ewing_ver01:data:sn83025925:00280776221:1867121601:0725/pct:67.63858891288697,10.663507109004739,19.546436285097194,11.904098132143853/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_ewing_ver01:data:sn83025925:00280776221:1867121601:0725/pct:50.756211739287004,8.001115137998328,14.65610370903853,8.935043211597435/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2048,7 +2048,7 @@ end in an assumption pt the Executive power
 only to Ite removed by n revolution in ine gov  
 trmnent.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038521:00200293368:1867122001:0587/pct:66.73433874709977,86.98263623457464,14.29814385150812,10.40733864802883/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038521:00200293368:1867122001:0587/pct:50.06526468455402,65.23970732772742,10.717911530094272,7.808234137818062/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2190,7 +2190,7 @@ lu nn assumption of tlio executive pow­
 er, only to bo removed by a revolution  
 In tho government
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn83032011:00237287988:1868010301:0109/pct:111.64643399089529,109.05840286054827,14.90895295902883,16.88021454112038/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn83032011:00237287988:1868010301:0109/pct:83.79199089011198,81.7938021454112,11.178591763142911,12.663885578069129/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2258,7 +2258,7 @@ ledno fi aith this cler contitutiona
 vision comes the Tenure of Oflice Act, wh  
 gives the President only the power of susp
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_idacox_ver02:data:sn85042527:00202193997:1868022801:0507/pct:77.11267605633803,162.02341316722158,39.38631790744467,55.353882504564496/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_idacox_ver02:data:sn85042527:00202193997:1868022801:0507/pct:25.704225352112676,54.007804389073854,13.12877263581489,18.451294168188163/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2294,7 +2294,7 @@ gress,I and the question will depend upon its
 merits.&quot; That is, Congress will bestow the pos  
 where it thinks best. Mr. Ames stated the sa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777651:1868030401:0475/pct:345.41895066562256,110.76833527357392,48.47298355520752,46.44935972060536/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777651:1868030401:0475/pct:86.388562475519,27.69208381839348,12.122992557775166,11.61233993015134/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2363,7 +2363,7 @@ should be kept distinct; yet the at­
 tempt to blend the executive and leg­  
 islative departments in exercising th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477850:1868031201:0454/pct:0.17123287671232876,217.98333812122954,53.25342465753425,117.03533467394426/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477850:1868031201:0454/pct:0.042826552462526764,54.495834530307384,13.319057815845824,29.258833668486066/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2442,7 +2442,7 @@ should be kept distinct; yet the at­
 tempt to blend the executive and legis­  
 lative departments in exercising th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn82005159:00296028472:1868032001:0262/pct:44.15362731152205,12.16042780748663,12.361308677098151,31.78609625668449/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn82005159:00296028472:1868032001:0262/pct:44.15362731152205,12.16042780748663,12.366050260787103,31.80035650623886/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2708,7 +2708,7 @@ in the hands of the President as the pen is
 the instrument of the Secretary in corresponding  
 with foreign courts. If, then, the Sccretary of Fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743622:1868042501:0315/pct:101.9741207697412,68.27402341486032,52.770404777704044,16.66859858583517/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743622:1868042501:0315/pct:33.991373589913735,22.75800780495344,17.59013492590135,5.556199528611723/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2760,7 +2760,7 @@ on assumption nt the executive power, only
 to be removed by a revolution in the Gov­  
 ernment.&quot;Specimen HtrK-2vR
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn85034406:00296026700:1868050601:0844/pct:26.81376215407629,66.11178779266477,16.30516080777861,18.825280822844768/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn85034406:00296026700:1868050601:0844/pct:20.127197904975684,49.587224252266886,12.2334455667789,14.115577209365272/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2799,7 +2799,7 @@ a revolution of the Government. It will be observed
 that it is here contended that it is the constitution  
 that establishes the tenure of office, and in order t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743622:1868051201:0529/pct:147.34680466568096,212.29140292323626,52.8996221455561,28.967660260098977/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743622:1868051201:0529/pct:49.11560155522699,70.76380097441209,17.633207381852035,9.655886753366325/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2851,7 +2851,7 @@ It will be observed that it la here contended that
   
 It la the constitution that coUbllsbc* the tenure o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kedzie_ver02:data:sn82014064:no_reel:1868051301:0001/pct:11.079545454545455,55.36480686695279,8.901515151515152,7.200762994754411/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kedzie_ver02:data:sn82014064:no_reel:1868051301:0001/pct:11.09375,55.36480686695279,8.901515151515152,7.212684787792084/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2894,7 +2894,7 @@ be removed by a revolution of the Govern
 ment.&quot; It will be observed that it is here  
 contended that it is the Constitution that e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774765:1868051401:0159/pct:77.75438596491227,247.02750665483586,48.8421052631579,45.633160096336674/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774765:1868051401:0159/pct:19.4488327189749,61.756876663708965,12.216956292785676,11.408290024084168/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2961,7 +2961,7 @@ and senate to be considered.
 they will be enabled to hold the person in office, let  
 the circuistances be what they may that point ou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_charlie_ver01:data:sn83045160:00280779532:1877121301:0559/pct:54.186167446697866,199.60115222690007,38.74154966198648,26.058054509195657/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_charlie_ver01:data:sn83045160:00280779532:1877121301:0559/pct:13.551827285732864,49.90028805672502,9.689166341526857,6.514513627298914/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

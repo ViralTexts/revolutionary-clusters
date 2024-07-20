@@ -156,7 +156,7 @@ Had baxed thy blood and made it heavy, thick
 Making that idiot, laughter, keep men&#x27;s oyes.  
 And strain their cheeks to idle merriment
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:00271743956:1877040301:0053/pct:105.95086151882577,64.88593373839275,38.257817485641354,15.785853490771524/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:00271743956:1877040301:0053/pct:35.316953839608594,21.62864457946425,12.752605828547118,5.261951163590508/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

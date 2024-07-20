@@ -56,7 +56,7 @@ his own choice.&quot; This seems to be pretty conclu-
 ive authority for those who acknowledge Mr. Jef-  
 ferson as the personification of genittne eiiter
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1841011801:0251/pct:307.4046372475692,364.69441737435614,57.142857142857146,19.43477655575665/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1841011801:0251/pct:76.8511593118923,91.17360434358903,14.285714285714286,4.858694138939162/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -83,7 +83,7 @@ seems but common justice to leave a successor free to
 act by instruments of his own choice.&quot; This seams  
 to bs pretty conclusive authority for those who ac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186427:1841012101:0552/pct:211.45915939730372,246.8186237441936,39.4263811789585,17.997191314680784/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186427:1841012101:0552/pct:70.47707149464782,82.26398790235471,13.1403902911766,5.998415784546698/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -111,7 +111,7 @@ To throw upon Gen. Harrison the odium of putting
 others in the places of the new appointees is perhaps  
 one of the political objects aimed in the making of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186427:1841012301:0556/pct:130.79501273629174,153.30382206866767,39.388657997050544,19.8013388037141/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186427:1841012301:0556/pct:43.59249329758713,51.09575731404512,13.127792672028598,6.5997337075821365/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -159,7 +159,7 @@ the odium of putting others in their places, been appointed in his stead. If Mr.
   
 If seenis but common justice to leave a suc a o een o er ani o ae iaco
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667693:1841012801:1107/pct:187.2549019607843,70.59882935614588,129.76827094474154,14.287858322077142/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667693:1841012801:1107/pct:46.82415868063294,17.64970733903647,32.449297971918874,3.5719645805192854/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -202,7 +202,7 @@ daries of the young republic. Texas
 proper is now bouuded by the Rie  
 Grande. &quot;Texas, as defined by th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156347:1841012801:0947/pct:183.72093023255815,73.30893317066558,58.29991980753809,73.90538159143283/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156347:1841012801:0947/pct:45.93023255813954,18.327233292666396,14.574979951884522,18.476345397858207/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -229,7 +229,7 @@ seems but common justice to laave a successor free to
 aet by instrumeais of his own choice.&quot; This soome  
 to be pretty conclusive authority for theso who a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186427:1841012801:0565/pct:9.82023074859136,246.51187904967603,39.25409176281191,18.120950323974082/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186427:1841012801:0565/pct:3.272971160295104,82.16175359032502,13.082942097026605,6.0396645430659035/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -262,7 +262,7 @@ counter the odium .&#x27;vf putting others tn
 their places. It seems but commonj  
 justice io leave a succsssor free to act
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_kingsombra_ver01:data:sn83016884:0041566199A:1841031701:0329/pct:106.72619047619048,38.81627882265434,16.964285714285715,12.485389437891829/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_kingsombra_ver01:data:sn83016884:0041566199A:1841031701:0329/pct:80.06847275974992,29.114865582828603,12.741887466507889,9.37201147593242/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

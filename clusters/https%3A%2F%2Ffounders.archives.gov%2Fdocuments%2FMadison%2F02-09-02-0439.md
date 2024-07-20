@@ -34,7 +34,7 @@ ports miles , they shall previously have
 been warned not to enter ’bt in. The ne­  
 cessary directions on the subject hav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804042101:0104/pct:40.647757761594484,50.28773214752812,17.49712533537754,4.067486267329323/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804042101:0104/pct:40.639969342785975,50.281156008892374,17.500159672989717,4.071313369077198/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -83,7 +83,7 @@ been warned nut to enter them, and that they have
 also sent the necessary directions on the subject to  
 the judges of the vice odnaratiy (Hurts in the West
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1810101901:0166/pct:48.7643748470761,15.306953264940564,20.650844139955957,5.5202735710796285/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1810101901:0166/pct:48.75244618395303,15.304461087593618,20.651908023483365,5.523445131878867/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -114,7 +114,7 @@ invested, and then not to capture vessels bound to
 such ports, anless they shall previously have been  
 warned ant to enter them.” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811030101:0390/pct:25.660377358490567,79.40603700097371,21.68553459119497,4.8198636806231745/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811030101:0390/pct:25.653923541247487,79.3931526853805,21.686368209255534,4.823138082102872/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -159,7 +159,7 @@ be actually invested, and then not to capture ves­
 sels bound to such ports unless they shall have  
 Ueen previously warned not to enter them.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1811041601:0443/pct:5.148095909732017,46.99353579704842,16.85472496473907,2.6222710086595926/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1811041601:0443/pct:5.1471884364533755,46.98780487804878,16.85762970797344,2.6260162601626016/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -190,7 +190,7 @@ ade of the island oi Carracoa, with an assur­
 ance that “ the hie ckide would be co nducted  
 “conformably to the above instrnct;&lt;-nu’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811071801:0239/pct:41.962651043573786,13.268243835273502,17.57597949469059,4.50619601952685/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811071801:0239/pct:41.954969796814936,13.266583229036295,17.57886387210934,4.509803921568627/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -221,7 +221,7 @@ ance that ¢ the blockade would be conducted
 conformably to the above instructions.” The  
 blockade was not conducted accordin 3 to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1811072401:0448/pct:74.67866323907455,66.4207005116096,21.963367609254497,11.15702479338843/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1811072401:0448/pct:74.68937446443873,66.4239800603437,21.963367609254497,11.153745244654335/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -329,7 +329,7 @@ letter to M. Mouroe of the 3d of July, 1811,
 lays down the rule as sdmitted by Great Bii­  
 tain in the following words : . Yadihs. L
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812100801:0701/pct:74.36024434538551,16.311066799601196,22.05712398877332,6.999002991026919/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812100801:0701/pct:74.36024434538551,16.3143901628448,22.07363381211821,6.999002991026919/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -355,7 +355,7 @@ they shall previously have been warned oot to
 enter thew.” “I&#x27;be second definition is to be  
 found in a convention Letween G. Britgin an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1814110201:1133/pct:47.93976501737548,9.895374987777451,22.22406089690551,8.02776962941234/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1814110201:1133/pct:47.95079706547521,9.901893680127767,22.229576920955374,8.034288321762654/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -407,7 +407,7 @@ The Supreme Court of the United States decided that
 &quot;the words of the order are not satisfied by any previous  
 notice which the vessel may have obtained, ofherwis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743439:1863012201:0178/pct:57.48575375582801,138.0433481020237,46.15783111725091,20.47658962998443/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743439:1863012201:0178/pct:19.161917918609337,46.014449367341236,15.385943705750302,6.825529876661478/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

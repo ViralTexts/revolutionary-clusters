@@ -120,7 +120,7 @@ whom you write, the assurance oi my highest
 respect and friend lv attachments.  
 THOMAS JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826070601:0539/pct:25.39210830444114,48.077982156625175,17.946177975895658,35.43341777728825/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826070601:0539/pct:25.387916804225817,48.0726872246696,17.94871794871795,35.43318649045521/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -217,7 +217,7 @@ v those for whom you write, the assur­
 attachments.  
 -JEFFERSON.:
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn84024505:00542866962:1826070701:0523/pct:4.115053537686332,10.959329400807203,13.961788788578627,36.33964607264824/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn84024505:00542866962:1826070701:0523/pct:4.114189756507137,10.957628433959336,13.964105793450882,36.337886077914014/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -282,7 +282,7 @@ ceplance, be pleased to receive for yourself and tbosel
 for whom you write, the assurance of my highest respect!  
 and friendly attachments. Til. JEFFEUSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826070701:0165/pct:58.21513944223108,29.681647940074907,18.358565737051794,25.88951310861423/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826070701:0165/pct:58.20586360739325,29.678174370977178,18.360951773953687,25.89038424029647/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -363,7 +363,7 @@ Ised to receive for yourself, and those fo
 ■ highest respect and friendly attachment-.  
 | TIL JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826070701:0072/pct:7.480006272541948,45.232127938894855,13.533009251999372,46.84329872299797/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826070701:0072/pct:7.4788334901222955,45.22673031026253,13.53611372426048,46.84168655529037/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -558,7 +558,7 @@ sage. “Acquiescence(said he ten days ago) is
 a duty, under circumstances not placed among  
 those we are penaited to .control.” He was i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826071101:0555/pct:6.34315998675058,70.20612813370474,17.48923484597549,4.79108635097493/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826071101:0555/pct:6.342109620798145,70.19830659536542,17.491858475465033,4.794266191325015/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -830,7 +830,7 @@ you write, the assurance of my highest re
 spect and friendly attachments,  
 THOMAS JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1826071301:1092/pct:22.246348203711015,15.551898436581638,18.219502566127122,37.956976607499705/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1826071301:1092/pct:22.25950782997763,15.551898436581638,18.212922752993816,37.96481329101524/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -898,7 +898,7 @@ anrient neighbors of thr City of Washing-.
 so many je«r&lt; uf a pleaai g social inter-j  
 ruurse—an intercourse w Iticu s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:0039334880A:1826071301:0776/pct:18.10291382517049,3.3508925958443077,30.626162430254183,94.6883230904302/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:0039334880A:1826071301:0776/pct:18.09917355371901,3.3504023408924652,30.625,94.6781272860278/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1021,7 +1021,7 @@ I b lievc it will be; the signal of arousing men to bur-.t
 the c hains under which monkish ignorance and super­  
 »iition had persuaded them to bind themselves, and to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826071401:0173/pct:23.057683289041737,51.22692217807899,17.39878067844302,1.6125262911895302/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826071401:0173/pct:23.05407939981244,51.22093702535343,17.401271230592894,1.6162324259064533/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1043,7 +1043,7 @@ to the Mayor of Washington, he says •« may it be
 &quot; did them to bind themselves, and to assume the  
 &quot; blessings of bee goreraraent”— ami it ahallfce
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826071401:0081/pct:48.935494121385446,92.15756704980843,14.950746742929775,4.094827586206897/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826071401:0081/pct:48.92772041302621,92.14653417933677,14.953666931427058,4.098327946047328/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1261,7 +1261,7 @@ make known to you his fond concern for you
 and your posterity when the hand of death  
 pressed heavily upon him? Learn then, that h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826071701:0575/pct:60.09036144578313,63.35341365461847,17.720883534136547,9.214636323070058/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826071701:0575/pct:60.08030784674586,63.346346904629115,17.723495622106967,9.217326640639524/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1523,7 +1523,7 @@ whom you write, the assurance of my high­
 est respect and friendly attachments.  
 TH. JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn82014309:00414182926:1826071801:0017/pct:3.723616089207487,25.708333333333332,17.921146953405017,43.06944444444444/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn82014309:00414182926:1826071801:0017/pct:3.722874776030261,25.704763227329536,17.922556241290067,43.066935147896125/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1600,7 +1600,7 @@ whom you write, the assurance of my highest
 respect aud friendly attachment.  
 TH : JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1826071801:0113/pct:5.566913036640981,8.171955794383047,76.37993395187922,86.80928723512116/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1826071801:0113/pct:5.572154950988101,8.175335428706614,76.3746920375321,86.80928723512116/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1619,7 +1619,7 @@ and superstition had persuaded them to
 hind themselves, and to assume the bles­  
 sings of free government’’—and it shall
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn84024505:00542866962:1826072101:0538/pct:43.50246199957183,73.73546968268928,13.059302076643117,2.6704366949418787/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn84024505:00542866962:1826072101:0538/pct:43.49315068493151,73.72388880163342,13.06185787671233,2.673943772577352/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1703,7 +1703,7 @@ superstition, and the gloom of ignorance, ahall
 melt in its brightness. Will you then lock upon  
 him, my eounfryrr-n, in the last moments of hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1826072701:0127/pct:77.52688172043011,37.09111329495999,17.204301075268816,5.4892601431980905/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1826072701:0127/pct:77.51021285745001,37.08590679393599,17.205977209202324,5.491998877035374/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1820,7 +1820,7 @@ only monument to their fame.it would be suffi­
 cient to immortalize their names. Dut not so:  
 Throughout the perilous and stormy conflict of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826080101:0101/pct:3.1299650460756276,40.27462686567164,14.982523037813792,6.197014925373134/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826080101:0101/pct:3.129467831612391,40.26981852913085,14.985438178448504,6.200254695956701/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1862,7 +1862,7 @@ is a duty, under circumstances not plac­
 ed among those we are permitted to con­  
 trol.*’ He was in the habit of saying t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898036:1826080401:0257/pct:24.49248615871342,86.9485600133178,17.295017136831003,5.160645913101382/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898036:1826080401:0257/pct:24.48603057459146,86.93408788282291,17.297047970479706,5.163948069241012/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2249,7 +2249,7 @@ to receive for yourself, and those for whom you i&lt;
 write, the assurance of my highest rrspret and (  
 friendly atta-hmmts. 1 H: JEFFERSON, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216407:1828070401:0020/pct:3.645743766122098,57.287400626355094,19.32932072226999,36.52132016381595/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216407:1828070401:0020/pct:3.645116918844567,57.280501023726366,19.331728564878496,36.52093620779638/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2335,7 +2335,7 @@ its vi&lt;itii Vs, wi&#x27;h whom I passed so many
 ye.ir-of .■ pi* a-ing s&gt;&gt;&lt; ial i-’.teirourse, an inter­  
 c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216419:1829070401:0488/pct:22.65193370165746,4.27255985267035,37.41367403314917,94.27869858809085/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216419:1829070401:0488/pct:22.6480234766097,4.27203535477535,37.412969676045805,94.27121695719781/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2410,7 +2410,7 @@ the assurance of iny highest respect and friendly
 attachment?.  
 Tit: JEFFERSON. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216432:1830070301:0124/pct:25.24995763429927,4.820886460230723,35.993899339095066,92.0461445051609/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216432:1830070301:0124/pct:25.245679430701458,4.82030111704711,35.99344854851463,92.0390157034159/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2437,7 +2437,7 @@ of Mr. Jefferson, “Lot the annual return of this day,
 forever refresh our recollections of our rights, and an tin­  
 diminished devotion to them.” [B cheers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184042:1830070901:0073/pct:33.892517814726844,59.42278946763252,15.172209026128266,1.3682879153731171/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184042:1830070901:0073/pct:33.88748701202316,59.415957691423316,15.174904754836476,1.371962903349429/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2614,7 +2614,7 @@ those for whom you write, the assurance of my high­
 est respect and friendly attachments.  
 “THOMAS JEFFERSON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184054:1831070501:0070/pct:4.66321243523316,43.787575150300604,14.91076568796776,22.099755065686928/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184054:1831070501:0070/pct:4.662541372859404,43.78270065679617,14.913416798580132,22.10100560317637/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2692,7 +2692,7 @@ Iliese differences exhibited themselves in tin; conven­
 tions to form the State Constitutions, and more strik­  
 ingly in tlii1 convention that formed tin- Federal Con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1840051901:0483/pct:47.90454884414616,14.702333065164924,16.04772557792692,8.668543845534996/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1840051901:0483/pct:47.90454884414616,14.705685170286941,16.062639821029084,8.671895950657012/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2733,7 +2733,7 @@ backs, nor a farorite few boole ! and spurre t, ready
 to ride them legitimately, by the grace of God.&quot;  
 Now we have the distinctive characters of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023294:00200296096:1840061201:0023/pct:125.89437819420783,301.78295661940194,60.56218057921635,32.73901446019936/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023294:00200296096:1840061201:0023/pct:31.493714042190497,75.44573915485049,15.150223737481355,8.18475361504984/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2807,7 +2807,7 @@ Republic. These differences exhibited themselves
 in the convention to form the State constitutions and  
 more strikingly in the convention which formed th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023294:00200296096:1840061901:0027/pct:190.97807757166947,235.497100834394,58.93760539629005,41.917691981332204/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023294:00200296096:1840061901:0027/pct:47.754585705249845,58.8742752085985,14.737507906388362,10.479422995333051/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2835,7 +2835,7 @@ concer i for you and your posterity, w lien the hand nl
 death pressed heavily upon him? Learn, then, tl ai  
 he dwelt on the subject of the University, porlrau- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661290:1842122301:0602/pct:83.15474314528836,32.76036400404449,16.750709108099592,6.774519716885743/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661290:1842122301:0602/pct:83.16524845046749,32.76785379919859,16.745456455510034,6.774519716885743/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2947,7 +2947,7 @@ that the nature of this representation
 in merely a reflection of the mind of the  
 pesple. In the language
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84037932:00415668946:1845090601:0366/pct:11.54859711672609,176.39266304347825,39.42024492326771,33.197463768115945/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84037932:00415668946:1845090601:0366/pct:3.8495323722420296,58.797554347826086,13.140081641089237,11.065821256038648/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3025,7 +3025,7 @@ t bids me the gratification of sir acceptance, be pleas.
 j write, the assurance ol my h gir^st respect and  
 friendly attachments. I&#x27;m. Jr.r&gt;Ef.sox
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82007022:00393342894:1848042501:0287/pct:28.159221275856076,47.03389830508475,13.59290804797497,24.72662657189721/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82007022:00393342894:1848042501:0287/pct:28.154327424400417,47.02747027470275,13.594890510948906,24.726663933306/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3087,7 +3087,7 @@ eceive for yourself, and those for whom you write, the Flour
 irance ol my highest respect and friendly attachments. ?t&gt; a $6  
 Til. JEFFERSON. ?owar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848042801:0450/pct:65.81666666666666,44.674983585029544,19.3,19.960604070912673/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848042801:0450/pct:65.81666666666666,44.683738235937845,19.31111111111111,19.96498139636682/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3162,7 +3162,7 @@ for whom you write, the assurance of my
 highest respect and friendly attachments.  
 Til. JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879063:1848051201:0080/pct:40.999469777306466,58.2276101870125,17.590137857900316,38.060332675500426/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879063:1848051201:0080/pct:30.756993238764416,43.67070764025937,13.191038048521808,28.549948313128464/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3256,7 +3256,7 @@ you write, the assurance of my highest res­
 pect and friendly attachment. *   
 THOMAS JEFFERSON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040305:00514151350:1854010601:0628/pct:6.223298205639419,9.213582568299968,12.945029906009683,32.739741179073114/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040305:00514151350:1854010601:0628/pct:6.232792176967625,9.213582568299968,12.945029906009683,32.747114994653984/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3292,7 +3292,7 @@ causing men to burst the chains under which&quot;monk­
 ish ignorance and superstition had persuaded them to  
 bind themselves,&#x27; when its practical operations ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879087:1854030301:0042/pct:21.42478813559322,21.594488188976378,20.78919491525424,2.7854330708661417/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879087:1854030301:0042/pct:16.079470198675498,16.200787401574804,15.602649006622517,2.0866141732283463/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3310,7 +3310,7 @@ causing men to burst the chains under which
 gross ignoraqge and superstition had per­  
 suaded them to bind themselves,&quot; when it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn84024443:00280779210:1854031001:0494/pct:39.91057542768274,31.67092924126172,16.19362363919129,2.529127593066212/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn84024443:00280779210:1854031001:0494/pct:29.949436017113964,23.756749076442173,12.154803578374173,1.903949985791418/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3375,7 +3375,7 @@ gratification of an acceptance, In pleased to receive
 for yourself. and those for whom you writi, tin- .assurance  
 of my highest rcspi it and friendly attachments
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1854070401:0278/pct:29.99123063431745,23.992673992673993,16.632563577901198,18.72951609793715/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1854070401:0278/pct:29.99610250414109,23.999100314889787,16.637435447724837,18.732729259045048/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3453,7 +3453,7 @@ yourself, and those for whom you write, the j
 assurauce of my highest respect and friendly j  
 attachments. Thomas Jefferson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215919:1854070401:0631/pct:18.722026473669175,18.797521824838075,13.027330730406629,31.012390875809633/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215919:1854070401:0631/pct:18.720243763092743,18.79619852164731,13.029264267123722,31.012554264930188/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3528,7 +3528,7 @@ whom you writo, the iMOrtMt of my highest
 respect and friendly attachments.  
 Tirtis. Jcffusow
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053546:00415660984:1854070601:0650/pct:57.031140902108646,66.23505976095618,13.71316855187823,30.942895086321382/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053546:00415660984:1854070601:0650/pct:57.040450588837686,66.24243765678028,13.71316855187823,30.942895086321382/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3606,7 +3606,7 @@ for whom you write, the assurance of my
 highest respect and friendly attachments.  
 Thomas Jkffebson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393349013:1854071201:0111/pct:52.89650300247263,24.346245280380366,12.804662663369834,42.86113830233534/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393349013:1854071201:0111/pct:52.88716228147625,24.34284116331096,12.80681617517217,42.858640939597315/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3637,7 +3637,7 @@ their backs and a favored few, booted arid
 spurred, ready to ride them legitimately  
 by tlie grace of God.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014489:00279557244:1862020801:0025/pct:27.946428571428573,17.381489841986458,11.267857142857142,3.970256274067189/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014489:00279557244:1862020801:0025/pct:27.946428571428573,17.391448678794315,11.28125,3.970256274067189/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3653,7 +3653,7 @@ by tlie grace of God.
 tion of Independence &quot;an instrument preg­  
 nant with our own and the fate of the world.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:0028077764A:1863071701:0568/pct:22.11690363349131,291.7953375719043,49.68404423380727,3.9963669391462306/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:0028077764A:1863071701:0568/pct:5.531410509679969,72.94883439297608,12.425918609245358,0.9990917347865577/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3908,7 +3908,7 @@ and those for whom you write the assurance of
 my highest respect and friendly attacnment  
 Th: JeFPersO
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chester_ver02:data:sn86053573:00211101969:1883052401:0987/pct:136.10867659947414,196.21460082538778,57.75635407537248,78.78184146862104/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chester_ver02:data:sn86053573:00211101969:1883052401:0987/pct:34.03462634231865,49.053650206346944,14.442252903791365,19.69546036715526/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3941,7 +3941,7 @@ nual return of this day forever refresh our recollec-
 tions of their rights and an undiminished devotion  
 to them.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chrysler_ver01:data:sn83030214:00175039958:1883052501:0478/pct:197.07239459029435,110.74445320418967,46.09387430389817,26.264218943574726/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chrysler_ver01:data:sn83030214:00175039958:1883052501:0478/pct:65.69079819676479,36.91481773472989,15.364624767966056,8.754739647858242/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4022,7 +4022,7 @@ and those for whom you write the assur­
 ance of my highest respect and friendly  
 attachment. Th. Jefferson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00383342090:1883052801:0514/pct:32.215488215488215,40.49850654032341,10.033670033670033,23.874755381604697/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00383342090:1883052801:0514/pct:32.215488215488215,40.50193978095925,10.033670033670033,23.874755381604697/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4060,7 +4060,7 @@ A coRREsroMjENT of the Cleveland Leader re­
 lates the following anecdote of the lato Amasa  
 Stotie and bis vUit. years ago, to one of the com
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_gary_ver01:data:sn87056600:00202191447:1883053001:0319/pct:58.16354625550661,52.785174139951,16.78138766519824,14.634146341463415/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_gary_ver01:data:sn87056600:00202191447:1883053001:0319/pct:43.63811622142661,39.58888060496326,12.586064445056458,10.980935136862286/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4142,7 +4142,7 @@ highest respect and friendly attach
 ment.  
 Th: Jefferson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_ernie_ver01:data:sn86090474:00296020503:1883060201:0420/pct:93.8782991202346,31.706369756602797,17.027126099706745,63.360952874158464/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_ernie_ver01:data:sn86090474:00296020503:1883060201:0420/pct:70.4307974335472,23.783013982392543,12.777268560953253,47.527187985499744/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4179,7 +4179,7 @@ let tho annual, return of this day forever
 rofresh our recollection i of their righti  
 ndan undiminished dovotion to them.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_ishtar_ver01:data:sn87060189:00206533687:1883060401:0532/pct:53.25920245398773,16.20067938332898,19.900306748466257,15.965508230990332/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_ishtar_ver01:data:sn87060189:00206533687:1883060401:0532/pct:39.96164908916587,12.150509537496733,14.918504314477468,11.980663705252155/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4220,7 +4220,7 @@ and an undlmlnlshcd devotion to
 thorn. &quot;  
 Tne Tall Wags the Head
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_dewitt_ver01:data:sn99021999:00206538077:1883060701:1065/pct:63.919213973799124,18.99708145396657,15.574963609898107,18.479702838949322/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_dewitt_ver01:data:sn99021999:00206538077:1883060701:1065/pct:47.970143819406516,14.247811090474928,11.687602403058438,13.863093658795437/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4243,7 +4243,7 @@ themselves, and to assume the blessings
 and security of self-government. The  
 form which we have substituted re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_cayman_ver01:data:sn00065152:00279523350:1883060801:1415/pct:69.73432518597237,90.3864503816794,19.53241232731137,4.890267175572519/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_cayman_ver01:data:sn00065152:00279523350:1883060801:1415/pct:69.73432518597237,90.3904262086514,19.54658165072618,4.886291348600509/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4281,7 +4281,7 @@ turn of this day forever refresh our rec­
 ollections of their rights and an undi­  
 minished devotion to them.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_dysprosium_ver01:data:sn88076993:00199918126:1883070601:0202/pct:7.016060862214708,95.43125533731853,18.78698224852071,15.015656134358098/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_dysprosium_ver01:data:sn88076993:00199918126:1883070601:0202/pct:5.975690078438417,81.11541253326881,15.969103646488234,12.763126058553109/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4394,7 +4394,7 @@ God.’ Hail mighty message and hail its
 speedy and certain fulfillment. All hail the  
 counsels of Thomas Jefferson in this hour o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_horseradish_ver02:data:sn87068097:00383340196:1894040201:0323/pct:14.377052013132884,82.96485260770974,11.318472438223605,4.917800453514739/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_horseradish_ver02:data:sn87068097:00383340196:1894040201:0323/pct:14.37456807187284,82.9530962165226,11.32083621285418,4.920646166926456/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4417,7 +4417,7 @@ on their backs, not a favored few
 booted and spurred, ready to ride them  
 legitimately by the grace of Go
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_iavaroni_ver01:data:sn83045555:206539768:1894040201:0993/pct:49.84939759036145,113.85789782736347,35.24096385542169,12.80093951849677/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_iavaroni_ver01:data:sn83045555:206539768:1894040201:0993/pct:16.616465863453815,37.95263260912116,11.74698795180723,4.266979839498924/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4471,7 +4471,7 @@ not a favored few booted and spurred,
 ready to ride them legitimately by the  
 grace of God.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_oakland_ver01:data:sn82015104:00175036787:1894040301:0501/pct:31.28263016791308,26.867012779552716,12.431212078453507,4.013578274760383/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_oakland_ver01:data:sn82015104:00175036787:1894040301:0501/pct:31.28733361554019,26.87034078807242,12.440618973707728,4.0235623003194885/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4494,7 +4494,7 @@ not a favored few booted and spurred,
 ready to ride them legitimately by the  
 grace of Gou.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_plasse_ver01:data:sn85042461:0028076954A:1894040301:0348/pct:19.15137614678899,72.75071633237822,12.155963302752294,4.197707736389685/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_plasse_ver01:data:sn85042461:0028076954A:1894040301:0348/pct:19.165711009174313,72.76146131805157,12.165519877675841,4.197707736389685/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4540,7 +4540,7 @@ on their ltcks, nor a favored few booted
 and spurred ready to ride them legiti­  
 mately by the grace of iod.&#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_ephemera_ver01:data:sn92053934:0021247177A:1894040301:0150/pct:38.17829457364341,89.65927689331944,16.87984496124031,5.698556762386549/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_ephemera_ver01:data:sn92053934:0021247177A:1894040301:0150/pct:28.648962977321187,67.25189703913108,12.657491761969373,4.2701978872191635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4587,7 +4587,7 @@ dies on their backs, nor a favored few
 booted and spurred ready to ride them  
 legitimately by the grace of God.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_gonvick_ver01:data:sn90059522:00206536792:1894040301:0341/pct:61.870115871732686,37.544084642513624,10.495823228240367,3.6550176338570055/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_gonvick_ver01:data:sn90059522:00206536792:1894040301:0341/pct:61.870115871732686,37.54764703786826,10.504805533099793,3.651455238502369/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4610,7 +4610,7 @@ bnckH , not n favored few booted and spurred ,
 leady to ilde them legitimately by the grace  
 of God. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_beatrice_ver01:data:sn99021999:00206538855:1894040301:0910/pct:24.176594253679045,85.77668577668578,16.57323055360897,4.777504777504777/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_beatrice_ver01:data:sn99021999:00206538855:1894040301:0910/pct:18.13562291922201,64.33251433251434,12.44086209917645,3.58995358995359/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4633,7 +4633,7 @@ backs, nor a favored few, booted and spurred.
 ready to ride them legitimately by the grace  
 of God.&quot; Hail, mighty message, and hall it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_neruda_ver01:data:sn83030272:00175045132:1894040301:0555/pct:55.5640828856485,170.4679691049523,51.1128165771297,13.02438285627745/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_neruda_ver01:data:sn83030272:00175045132:1894040301:0555/pct:13.896353166986565,42.61699227623807,12.783109404990403,3.2560957140693625/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4656,7 +4656,7 @@ saddles on their backs, not a favored few
 booted and spurred ready to ride them  
 legitimately by the grace of God.&quot; Hail
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_desalvo_ver01:data:sn99063954:0028076033A:1894040301:0949/pct:224.82967448902346,329.33643771827707,52.535957607872824,21.362048894062863/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_desalvo_ver01:data:sn99063954:0028076033A:1894040301:0949/pct:56.228701249526694,82.33410942956927,13.138962514199166,5.340512223515716/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4682,7 +4682,7 @@ backs, nor a favored few belted and
 spurred, ready to ride them legitimately  
 by the grace of Go
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_hotel_ver02:data:sn86071158:00206536548:1894040301:0852/pct:242.95454545454547,240.1609657947686,52.61363636363637,19.959758551307846/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_hotel_ver02:data:sn86071158:00206536548:1894040301:0852/pct:60.73863636363637,60.04024144869215,13.153409090909092,4.989939637826962/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4736,7 +4736,7 @@ speedy and certain fulfiliment! Alt hail
 the counsels of Thomas Jefferson in this  
 hour of caste based on wealth or privileg
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_forks_ver01:data:sn83045604:0020219929A:1894040301:0295/pct:13.836294785901543,93.69144284821986,37.226915234488786,14.69914636685405/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_forks_ver01:data:sn83045604:0020219929A:1894040301:0295/pct:4.612098261967181,31.23048094940662,12.408971744829595,4.899715455618017/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4763,7 +4763,7 @@ message, and hail its speedv and cer­
 tain fulfillment. All hall the counsels  
 i of Thomas Jefferson In this hour o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_holt_ver01:data:sn86092518:00414186786:1894040301:0011/pct:18.0309423347398,18.739369684842423,12.827004219409282,6.093046523261631/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_holt_ver01:data:sn86092518:00414186786:1894040301:0011/pct:18.028406693854592,18.7374949979992,12.829887966999484,6.0957716419901296/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4786,7 +4786,7 @@ saddles on their backs, not a favored few
 booted and spurred; ready to ride them  
 legitimately by the grace of God.” Hai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_ellison_ver01:data:sn92066979:00517010145:1894040301:0322/pct:36.532951289398284,62.80298888281392,12.94173829990449,4.920721705850191/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_ellison_ver01:data:sn92066979:00517010145:1894040301:0322/pct:36.55085959885387,62.81210133041735,12.947707736389685,4.929834153453617/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4830,7 +4830,7 @@ with saddles on their backs, nor a favored
 few booted and spurred, ready to ride them  
 legitimately by the grace of God.&quot; Hail
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_gary_ver01:data:sn87056600:00202191514:1894040401:0181/pct:60.247252747252745,120.91358804336386,16.263736263736263,4.294284812125039/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_gary_ver01:data:sn87056600:00202191514:1894040401:0181/pct:45.2047265732344,90.6851910325229,12.201154163231656,3.231238816966635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4890,7 +4890,7 @@ backs, nor a favored few booted
 and spuired, ready to ride them  
 legitimately by the grace of God.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_earnhardt_ver01:data:sn84042105:00332892101:1894040501:0033/pct:5.060813644624633,40.182899955927724,10.890535439675661,6.104010577346849/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_earnhardt_ver01:data:sn84042105:00332892101:1894040501:0033/pct:5.065473694021157,40.18657264580579,10.895195489072185,6.107683267224916/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4915,7 +4915,7 @@ God.’ Hall mighty message and hail its
 speedy and certain fulfillment. All hail the  
 counsels of Thomas Jefferson in this hour o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_alakazam_ver01:data:sn84022960:00414212013:1894040601:1155/pct:27.1848829718703,71.4647474343596,17.45759072364183,5.304544848727176/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_alakazam_ver01:data:sn84022960:00414212013:1894040601:1155/pct:27.179046801202233,71.45522388059702,17.459209961356805,5.307169509594883/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4940,7 +4940,7 @@ God.&#x27; Hail mighty message and hail its
 speedy and certain fulfillment. All hall the  
 counsels of Thomas Jefferson In this hour o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_hubble_ver01:data:sn84022982:00513688660:1894040701:1064/pct:17.883442036608457,42.093715718539414,12.265937302756154,4.466384579219558/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_hubble_ver01:data:sn84022982:00513688660:1894040701:1064/pct:17.890455151132617,42.10416340176566,12.258924188231994,4.466384579219558/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4969,7 +4969,7 @@ God.&quot; Hail mighty message and hail its
 speedy and sertain fulfiliment. All hail the  
 counsels of thomas Jefferson in this hour o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_applejack_ver01:data:sn83016943:00295877844:1894040701:0346/pct:187.81302170283806,186.21903343711926,46.16026711185309,16.02815757411669/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_applejack_ver01:data:sn83016943:00295877844:1894040701:0346/pct:46.953255425709514,46.554758359279816,11.540066777963272,4.007039393529173/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4992,7 +4992,7 @@ backs, nor a favored few booted and spurred,
 ready to ride them legitimately by the grace of  
 Hod.&quot; liatl, mighty message, and hall its speed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_earl_ver02:data:sn87062244:211103103:1894040801:0103/pct:6.326781326781327,53.83933845245127,16.420966420966423,4.134672179562906/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_earl_ver02:data:sn87062244:211103103:1894040801:0103/pct:4.753124359762344,40.38688718251624,12.333538209383324,3.1010041346721797/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5017,7 +5017,7 @@ God.&quot; Hail mighty message and hail its
 speedy and certain fulfillment. AIl hall th  
 counsels of Thomas Jefferson in this hour o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bird_ver02:data:sn84023963:00212470703:1894041301:0652/pct:150.336071695295,214.7693817468106,58.92457057505601,19.234543670264966/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bird_ver02:data:sn84023963:00212470703:1894041301:0652/pct:37.59103641456583,53.69234543670265,14.733893557422968,4.808635917566241/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5149,7 +5149,7 @@ An Australian Fourth of July in the
   
  Pecksnifsm Before tHe GovERNOR
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:00175042933:1897050801:0711/pct:1.3127413127413128,307.24195761549015,66.40926640926641,41.957615490166184/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:00175042933:1897050801:0711/pct:0.3283755070504153,76.81048940387254,16.611937415491596,10.489403872541546/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5269,7 +5269,7 @@ pleased to receive for yoftrseld and those
 for whom you write thefrssurance of my  
 highest respect and friend~&#x27; algachments.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_havanese_ver01:data:sn83045462:00280655144:1897070501:0420/pct:42.2205718529521,57.99303135888502,14.054957296695136,27.066202090592334/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_havanese_ver01:data:sn83045462:00280655144:1897070501:0420/pct:42.22985518009655,57.99303135888502,14.05959896026736,27.073170731707318/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5352,7 +5352,7 @@ write, the assurance of my highest respect
 aud friendly attachments.  
 THOAIAS JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ike_ver01:data:sn84024441:00211102421:1897070501:0031/pct:49.310964649490714,5.948625506985128,36.78849610545237,138.47453808021632/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ike_ver01:data:sn84024441:00211102421:1897070501:0031/pct:32.88389513108614,3.9657503379900856,24.524344569288388,92.31635872014421/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5395,7 +5395,7 @@ booted and spurred, ready to ride them legitimately,
 by the grace of God.&quot;  
 Never has the light of the Declaration per
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043019:1898061201:0149/pct:119.6165191740413,169.8986537588867,49.41002949852508,58.69006201784904/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043019:1898061201:0149/pct:29.904129793510325,42.474663439721674,12.35250737463127,14.67251550446226/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5457,7 +5457,7 @@ them legitimately, by the grace of
 |1 God.”  
 Th is is the spirit of the territo- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_jasper_ver01:data:sn90051299:00340586104:1898063001:0073/pct:24.645962732919255,56.061776061776065,11.925465838509316,9.633204633204633/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_jasper_ver01:data:sn90051299:00340586104:1898063001:0073/pct:24.652173913043477,56.066602316602314,11.944099378881987,9.647683397683398/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

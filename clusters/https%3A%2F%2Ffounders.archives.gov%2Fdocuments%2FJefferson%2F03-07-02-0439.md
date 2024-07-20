@@ -469,7 +469,7 @@ as I assure you of my great friendship
 and respect.  
 THOMAS JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216341:1825021001:0073/pct:63.05474570780693,19.635157545605306,29.527048914804016,76.04201216141514/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216341:1825021001:0073/pct:63.044534412955464,19.63298695556047,29.527665317139,76.03729088363181/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1038,7 +1038,7 @@ the whole at once, the old as well a* the young,
 have not the guide o? either knowledge or experi­  
 ence of the eutiject.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184017:1827052501:0031/pct:34.97622820919176,71.68667394203953,15.293185419968305,7.311749727173518/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184017:1827052501:0031/pct:34.97068610362859,71.67798254122212,15.296043944435642,7.314904623343033/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1606,7 +1606,7 @@ Tu. JEFFERSON.
 ill the march of time; nncl whether brought on by  
 the generous energy of our own minds, or
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184054:1832011201:0307/pct:35.48161610513071,27.093036464841532,14.749056339997203,1.1132568442576394/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184054:1832011201:0307/pct:35.47665641599105,27.089959109495684,14.751654086292051,1.1169165530819325/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1657,7 +1657,7 @@ pursued, failed to prevail in the end.”
 [Mr. Brown rose to explain that ho had no  
 [»ther information on the subject than what li
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184340:1832021101:0064/pct:51.55359179019384,73.43342036553524,14.43842645381984,16.829852045256747/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184340:1832021101:0064/pct:51.54624483397463,73.42543239421299,14.441119186736971,16.831647267848727/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1800,7 +1800,7 @@ and immortal consolation to yourself, I shall as fervently
 and sincerely pray as I assure ofmv great friendship and  
 respect. TH. JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184340:1832021101:0064/pct:81.22862029646522,15.100087032201914,15.022805017103764,52.76327241079199/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184340:1832021101:0064/pct:81.21704432093487,15.098444468617426,15.025414469621396,52.76115885275028/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2065,7 +2065,7 @@ I course of coloiTk&#x27;d had been disturUd by no n
 rincipb * which they invoked for  
 themselves In tie- firsts fi« KMOn nt th,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348835:1832030501:0647/pct:15.35980649062689,37.299541809851085,15.480749848820802,4.83963344788087/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348835:1832030501:0647/pct:15.35671100362757,37.29420186113099,15.48266827891979,4.84251968503937/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2170,7 +2170,7 @@ o-hersin vourhbou. o and when the pha anv..­
 f rm. br.; ; mat.! y ^ th- t-.-r  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348835:1832030501:0647/pct:15.35980649062689,47.694730813287514,15.742793791574279,48.539518900343644/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348835:1832030501:0647/pct:15.35671100362757,47.68790264853257,15.74465941152761,48.5361488904796/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4020,7 +4020,7 @@ it.&quot; It wasthe universal influx ofa spirit of
 gain, niung me nation&#x27;s heart with &quot; the  
 suggestions of avarice,&quot; that paralyzed th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_fennal_ver01:data:sn83025661:00415628882:1839031301:0102/pct:5.510331872260489,24.636264929424538,20.585472761427678,11.444082519001086/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_fennal_ver01:data:sn83025661:00415628882:1839031301:0102/pct:4.133395960544857,18.479913137893593,15.453264443400657,8.588490770901194/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4186,7 +4186,7 @@ respect. Thomas Jefferson.
 Charles Hammond, Esq., the gentleman met  
 tioned in the annexed article from the Cincinnat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_green_ver02:data:sn84022687:00202199240:1839042701:0059/pct:7.781456953642384,6.607221166496126,49.04801324503311,120.52331530478/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_green_ver02:data:sn84022687:00202199240:1839042701:0059/pct:5.839718368192172,4.955415874872095,36.81921722924001,90.3961409150709/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4474,7 +4474,7 @@ ry) upon us. And you will be sappirv
 by the religious precept- &quot; Be not m&#x27;t  
 in well doing
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_kirby_ver02:data:sn83025661:00202197206:1841061601:0157/pct:113.31588669950739,62.5690458139283,18.59605911330049,8.242174807754793/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_kirby_ver02:data:sn83025661:00202197206:1841061601:0157/pct:85.00384911470361,46.929492039423806,13.94919168591224,6.184338784793675/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4755,7 +4755,7 @@ Hliten sericts whlinghess, to relleve them and our
 selves from our present condition of moral and po  
 litical reprobation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777602:1845021401:0026/pct:194.7004608294931,201.7780326928592,56.144393241167435,20.590765701175794/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777602:1845021401:0026/pct:48.69381482904341,50.4445081732148,14.041490587783327,5.1476914252939485/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5112,7 +5112,7 @@ that very trade which brought this evil (slavery) upon
 us. And you will bo supjiortcd by tho religious pre­  
 cept &quot;be not weary in well doing.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn82015677:00296029804:1846091001:0398/pct:87.86919831223629,95.84929096366835,18.85548523206751,5.237553048338682/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn82015677:00296029804:1846091001:0398/pct:65.9105894764605,71.88696822275126,14.150072530660688,3.933340233930235/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5148,7 +5148,7 @@ er it shall be brought about by the generous energy of
 our own minds, or by the bloody process of .St. Dorn-  
 ingo, is a leaf in our history not yet turned over
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199252:1847040101:0643/pct:28.93730886850153,67.03753351206434,19.34250764525994,2.5335120643431637/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199252:1847040101:0643/pct:21.720841300191204,50.28150134048257,14.51242829827916,1.903485254691689/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5171,7 +5171,7 @@ in our history which is not yet turned
 over.&quot;  
 I will here, sir, leave Mr. Jefferson and hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn84023649:0028077778A:1847041301:0281/pct:334.0329835082459,178.15077412820142,51.12443778110944,18.000289393720156/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn84023649:0028077778A:1847041301:0281/pct:83.50824587706147,44.537693532050355,12.78110944527736,4.500072348430039/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5193,7 +5193,7 @@ erous energy of our own minds, or by the
 bloody process of St. Domingo, is a leaf in our  
 history not yet turned over.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296199:1847041701:0909/pct:187.95681063122925,172.44960293219305,58.72093023255814,17.226634086744046/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296199:1847041701:0909/pct:47.01849158528984,43.11240073304826,14.689382921254934,4.306658521686011/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5340,7 +5340,7 @@ our country*, and offering asylum and arms&#x27;
 to the oppressed, is a leaf of our history not  
 vet turned over, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040303:00514151337:1848102701:0279/pct:69.0004277769856,27.968222875176842,12.904605732211607,46.40330830340625/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040303:00514151337:1848102701:0279/pct:69.00518085460335,27.968222875176842,12.914111887447122,46.410563354735736/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5383,7 +5383,7 @@ self, 1 shall as fervently and sincerely pray*
 nil assure y&lt;-i&gt; of my ([rent friendship ami,  
 respect. &#x27; Tjl. J EFFE liSt &gt;N
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040303:00514151337:1848102701:0279/pct:68.75802081847996,74.45859179453694,12.833309567945244,15.34443356186745/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040303:00514151337:1848102701:0279/pct:68.75802081847996,74.46584684586644,12.84281572318076,15.337178510537962/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5648,7 +5648,7 @@ lieve them and ouroelve from our present corf
   
 dition of moral and political riprobation.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn82015050:00280763366:1849011301:0335/pct:28.07469414037347,27.983491917918148,16.918866709594333,8.575031525851198/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn82015050:00280763366:1849011301:0335/pct:21.06280193236715,20.990484924911154,12.705314009661835,6.431273644388399/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5678,7 +5678,7 @@ honorable aud immortal consolation to yourself,
 I shall as fervently and sincerely pray a I assure  
 you of my great friendship aud resunct Lrlttr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn82015050:00280763366:1849011301:0335/pct:28.10688989053445,36.569987389659524,16.79008370895042,6.821047804654362/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn82015050:00280763366:1849011301:0335/pct:21.095008051529792,27.43322251518973,12.592592592592593,5.112919867018228/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5723,7 +5723,7 @@ k..i .n.,.m.ni. n..i;.;K.i. i &#x27; ,l . ..!7T h.l i i . .1.1. ..1 . In.nl. i.n
 !&quot; --&quot; -&quot;--&#x27;r-- w. w me urst wnicn naa orougu. una au.uu w j r lata ace 1. that law which regards necien bann  
 er or lsi maguitude, will appear. It will be ear: and I have considered the general aiienoe Uou; my shoes were of the hide of a aoruvara ether light thea that of perseasi chsi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn82015050:00280763366:1849063001:0432/pct:61.98830409356725,49.473443223443226,69.63937621832359,9.397893772893774/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn82015050:00280763366:1849063001:0432/pct:46.51389566065334,37.11080586080586,52.2671867381765,7.051282051282051/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5754,7 +5754,7 @@ the subject. For men, probably of any color,
   
 but of thia color we kaow, brought up Irom
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn82015050:00280763366:1849063001:0432/pct:79.79207277452892,69.11630036630036,17.235217673814166,5.139652014652015/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn82015050:00280763366:1849063001:0432/pct:59.873232569478304,51.842948717948715,12.936778807085973,3.8576007326007327/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5772,7 +5772,7 @@ thcir infancy without necessity for thought or I Bestially false.
   
 forecast, are by their habits readejud aa inca- Horntr You may diffsr from it. hut this 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn82015050:00280763366:1849063001:0432/pct:79.79207277452892,74.19871794871794,35.510071474983754,1.2820512820512822/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn82015050:00280763366:1849063001:0432/pct:59.873232569478304,55.654761904761905,26.65366487892085,0.9615384615384616/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5796,7 +5796,7 @@ umge. d ruTra .uci rabte Tahr te 0f ,h &quot;-7 ef Wash-
   
 performed voluntarily by freemen, aad be led Dt,ont Jeflsrson, Usury, aad Fraakli..
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn82015050:00280763366:1849063001:0432/pct:79.53216374269006,89.9496336996337,35.3638726445744,3.353937728937729/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn82015050:00280763366:1849063001:0432/pct:59.678205753291074,67.46794871794872,26.53989923614497,2.5183150183150182/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5967,7 +5967,7 @@ eward
 MassAChusEttS We lear  
 Trarele that the 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_buttery_ver01:data:sn83030213:00206530297:1849070701:0384/pct:2.486277042298999,74.34913993491399,43.106231837261866,194.14225941422595/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_buttery_ver01:data:sn83030213:00206530297:1849070701:0384/pct:0.8287590140996663,24.783046644971332,14.368743945753955,64.71408647140865/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6138,7 +6138,7 @@ fervently and sincerely pray as I assure you of
 »y great friendship and respect.  
 THOMAS JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215828:1849070701:0470/pct:4.246043029096768,18.013444916998218,13.325751113638518,67.9448484017012/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215828:1849070701:0470/pct:4.245640636846096,18.012209342204542,13.327647207480414,67.94247433523104/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7026,7 +7026,7 @@ Ulmrtiees to relieve them and ourselves from
 our present condition of moral and political  
 reprobation.&quot; TbeMlove of justice.&quot; which, i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn82015050:00280763366:1849080401:0452/pct:41.3926499032882,89.08006423491626,17.166344294003867,5.712319339298004/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn82015050:00280763366:1849080401:0452/pct:31.054498548855207,66.81578343656803,12.88294098677846,4.278504244092682/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7050,7 +7050,7 @@ Lest indecorum.&quot; Uariug the lanse of see-
 enty years, trier nas been ao doabt roach Im  
 provemtat, bat who haa courage now to Intr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn82015050:00280763366:1849080401:0452/pct:41.2153449387492,99.44941500344116,17.10186976144423,5.769671943106217/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn82015050:00280763366:1849080401:0452/pct:30.9255079006772,74.59279651296168,12.834569493711706,4.324386327139252/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7244,7 +7244,7 @@ ESTABLISHMENT.
 flMlh patronage given to the under­  
 signed, since the completion of hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn83032276:00296028587:1849080401:0058/pct:4.474488974730404,7.632990612427358,31.20875583454048,86.05274921770229/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn83032276:00296028587:1849080401:0058/pct:4.485219164118247,7.63671583966622,31.203390739846558,86.06019967218/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7856,7 +7856,7 @@ self, 1 shall as fervently and sincerely pray as I as­
 sure you of my great friendship and respect.  
 THO. JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn82015677:00202191617:1849092701:0088/pct:47.698412698412696,20.179696375090366,19.404761904761905,91.04616337911804/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn82015677:00202191617:1849092701:0088/pct:35.78515676676809,15.139935970257152,14.552189443048022,68.28462253433854/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7881,7 +7881,7 @@ country plead equally the cause of these people,&quot;
 |the sluves.) and it is a moral reproach to us  
 &#x27; that they should have pleaded so long in vain.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1850013101:0025/pct:15.732758620689655,33.47957492444184,13.433908045977011,4.825972506580872/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1850013101:0025/pct:15.732758620689655,33.48607455071333,13.443486590038313,4.829222319716616/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7917,7 +7917,7 @@ immortal consolation to yourself, I shall as fer?
 vontly and sincerely pray, as I assure you of my  
 great friendship and respect.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1850013101:0025/pct:15.718390804597702,38.12030808228527,14.741379310344827,9.827434922491957/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1850013101:0025/pct:15.723180076628353,38.12680770855676,14.75095785440613,9.824185109356211/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8024,7 +8024,7 @@ i nil &#x27; I h. atiJ t.nes of cheer,
 it. u 11 .Id tor of good iu the gift of life  
 Ami ii.\ he.irt at high for the coming strif
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1853081101:0812/pct:-0.7723634321022328,13.34482098410875,22.440668445443055,86.68389814282979/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1853081101:0812/pct:-0.7770444225998221,13.351203012317315,22.464073397931003,86.68389814282979/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8123,7 +8123,7 @@ sincerely pray, as I assure you of my great
 friendship and respect,  
 Tiiomas Jefferson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1853081101:0812/pct:8.566212610588401,6.318207926479035,27.285493610447972,35.286233965154125/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1853081101:0812/pct:8.566212610588401,6.321398940583317,27.285493610447972,35.289424979258406/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8275,7 +8275,7 @@ immortal consolation to yourself, I shall as fervently
 and sincerely pray as I aseure you of my great friend.­  
 stip and respect.Thonas dETrersON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530455:1854101101:0276/pct:151.8168863555397,67.75022484902993,48.59280370502316,190.18373377874855/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530455:1854101101:0276/pct:50.60562878517991,22.58340828300998,16.19760123500772,63.39457792624952/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8461,7 +8461,7 @@ Th. JEFFERSON.
 AN UNEORTUNATE WIDOW.  
 Sol. Smith relates the following odd oc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83021380:00279523878:1855041301:0243/pct:166.7687595712098,48.500881834215164,74.8990672420994,236.81167940427198/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83021380:00279523878:1855041301:0243/pct:55.58184855233853,16.165376702263153,24.962880475129918,78.9294928317168/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8482,7 +8482,7 @@ or by the bloody process of St. Domingo, is a
 leaf of our history not yet turned over.”  
 Patrick Henry.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn85025594:00383347348:1855112401:0320/pct:16.433566433566433,55.11578088340304,12.305002689618075,3.080689584820973/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn85025594:00383347348:1855112401:0320/pct:16.433566433566433,55.11578088340304,12.305002689618075,3.0840899044510186/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8604,7 +8604,7 @@ us thai they should have pleaded it so long in vain.&#x27;&#x27;
 Again :  
 &#x27; We must wait
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1856101601:0602/pct:3.6903473975237406,30.194589463692452,12.753936771246543,3.4931181775035594/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1856101601:0602/pct:3.69435428937773,30.197753520012657,12.753936771246543,3.496282233823762/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8791,7 +8791,7 @@ solely for the success of truth. There is hermeii et inutile ferrurn circgitver.
 no more sublime self-sacrilico than work- No, 1 have outlived tho gcueiation with  
 ing loyally for truth when tampering with w hich mutual labors and pjrii l)Hgt ijiu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296027546:1858081701:0289/pct:91.54838709677419,21.92982456140351,34.46774193548387,8.080808080808081/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296027546:1858081701:0289/pct:68.67236651072754,16.454013822434874,25.859009517664138,6.0606060606060606/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8809,7 +8809,7 @@ younger generation, receiving their early
   
 impressions after tho flame of liberty had
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296027546:1858081701:0289/pct:91.6774193548387,95.58745348219033,16.483870967741936,2.618288144603934/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296027546:1858081701:0289/pct:68.76915631553476,71.69059011164275,12.372963381190514,1.9670388091440723/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8844,7 +8844,7 @@ in the march of time. It will come ; and,
 Bu: it was to the then &quot;young rr.cn&quot;. d  
 our nation, to whom he looked to carr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296027546:1858081701:0289/pct:91.75806451612904,102.29930887825624,34.38709677419355,13.769271664008507/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296027546:1858081701:0289/pct:68.83368285207291,76.72780435938331,25.794482981125988,10.32695374800638/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8888,7 +8888,7 @@ e 4 power of our present enemy, if once stationed
 ie 4 asylum and arms to the oppressed\ is a leaf of  
 d 4 our history not yet turned over.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1859032401:0486/pct:27.04553646521687,92.10275927687917,12.567583803916857,4.17697431018078/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1859032401:0486/pct:27.04553646521687,92.10593085949888,12.571588770074893,4.1833174754202345/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8917,7 +8917,7 @@ er brought on by the bloody process of St.
 Domingo, is a leaf of our history not yet  
 turned over.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027352:00279528578:1859080401:0336/pct:29.625984251968504,73.0508656844822,12.4859392575928,2.9680610818367565/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027352:00279528578:1859080401:0336/pct:29.630671166104236,73.05445029931533,12.490626171728534,2.975230311503029/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8941,7 +8941,7 @@ lv within our country, aad asylum and
 anns to the ojfrisscd, is*a leal ot our history  
 not yet turned over.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_belmont_ver02:data:sn82014511:no_reel:1859081901:0002/pct:3.4111638088288947,2.2399771722071624,20.685881065304635,95.50577828506206/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_belmont_ver02:data:sn82014511:no_reel:1859081901:0002/pct:3.4248449470995985,2.2399771722071624,20.685881065304635,95.51291197032387/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8961,7 +8961,7 @@ but whether it shall be brought about by
 the generous energy of our own minds, or  
 by the bloody process of St. Domingo, is 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_datsun_ver01:data:sn83016836:00212472517:1859090101:0213/pct:67.66360675155464,54.361301748948414,13.81403612673971,3.431481071507638/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_datsun_ver01:data:sn83016836:00212472517:1859090101:0213/pct:67.67347744546441,54.36868127813445,13.818971473694601,3.431481071507638/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8984,7 +8984,7 @@ within our own country, and offering asylum
 and arms to the oppressed, is a leaf of our his­  
 tory not yet turned over.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040309:00514151374:1859090101:0254/pct:2.837970082482874,40.097772949483975,11.254019292604502,3.628462791960891/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040309:00514151374:1859090101:0254/pct:2.837970082482874,40.10139416983523,11.254019292604502,3.6248415716096325/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9008,7 +9008,7 @@ offering asylum and arms to the oppressed,
 is a leaf of our history not yet turned over.&quot;  
 Our readers have had their attention fro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1859091601:0787/pct:331.79650238473766,237.4849578820698,51.51033386327504,19.795427196149216/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1859091601:0787/pct:82.99860807317557,59.37123947051745,12.885265460330086,4.948856799037304/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9028,7 +9028,7 @@ I once stationed permanently within our country, and overing
 arylum and arms to the eppreised, is s leaf of our history not ret  
 turned over.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_flavory_ver01:data:sn83030213:00206530637:1859102501:0387/pct:245.632183908046,53.74328358208955,46.07553366174056,7.176119402985075/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_flavory_ver01:data:sn83030213:00206530637:1859102501:0387/pct:81.87739463601532,17.914427860696517,15.358511220580185,2.392039800995025/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9073,7 +9073,7 @@ follow it up and hoar it through us consumma­
 tion. It shill have mu prayers; and these are  
 the only weapons of an old man.—Jejfcrson t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn86086769:00271769775:1859102501:0315/pct:46.70581495273561,73.89718856605106,13.31996562589516,14.86883896012234/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn86086769:00271769775:1859102501:0315/pct:44.37590711175617,70.20301732166139,12.663280116110304,14.132985658409387/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9126,7 +9126,7 @@ i b*. ty beyond their own share of it. Yom
 solitary but welcome voice is the lint  
 &#x27; that has brought this sound to my c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn86086437:00514152330:1859110201:0069/pct:82.80607178323166,37.96306414599497,12.242871329266563,15.64856299857939/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn86086437:00514152330:1859110201:0069/pct:82.81552938951151,37.96306414599497,12.247600132406488,15.659490766036498/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9149,7 +9149,7 @@ We have found this evil has proved up
 on the very vitals of the Union, and lev.  
 been prejudiced to nil the states in whic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn86086437:00514152330:1859110201:0069/pct:83.01886792452831,54.20172658725822,12.030075187969924,5.245328379412086/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn86086437:00514152330:1859110201:0069/pct:83.01886792452831,54.20901176556296,12.039532794249775,5.248970968564455/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9172,7 +9172,7 @@ co U y, and ofl -nt.v asylum and arms to the opprhted, is u
 last td &lt;&gt;?r ii.story iiot jvl turned over.&quot;  
 The time has come to begia the movement fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1859122901:0647/pct:3.3353329334133175,33.982970671712394,12.525494901019796,3.3964049195837274/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1859122901:0647/pct:3.3393321335732855,33.989277830337436,12.521495700859829,3.3964049195837274/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9201,7 +9201,7 @@ The time has come to begia the movement fo
 “ generous energies of our own friends,  
 ‘ or bv the bloody process of St. Oomiu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn86086769:00271769775:1860011001:0362/pct:7.257318952234207,86.06982778957301,12.88135593220339,2.5123849964614298/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn86086769:00271769775:1860011001:0362/pct:6.894364479141254,81.77268143278677,12.23713100756282,2.3829977962873046/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9239,7 +9239,7 @@ itable tendency of oppression. The serfs of
 Europe have often signalized their manhood  
 by rebellions. Ten years ago there occurre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1860011301:0858/pct:328.3476898981989,132.61163734776724,50.9788566953798,28.146143437077132/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1860011301:0858/pct:82.13516160626837,33.15290933694181,12.752203721841331,7.036535859269283/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9259,7 +9259,7 @@ the generous eueijies of our own friends, or by
 the bloody process of St. Domingo * * *   
 is a leaf of our history not yet turned over.” ,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040309:00514151374:1860011901:0334/pct:15.181654924713358,55.55675792663132,11.286089238845145,2.4780867871442482/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040309:00514151374:1860011901:0334/pct:15.186259612285307,55.55675792663132,11.286089238845145,2.488908126826101/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9302,7 +9302,7 @@ that they should have pleaded it so long in vain.’
 “ * * io a leaf of our history not yet  
 “ turne
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:0051415935A:1860020401:0029/pct:55.924506882361285,46.70002129018523,12.828153824322406,3.9067489887162017/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:0051415935A:1860020401:0029/pct:55.93396717279221,46.70356965438933,12.828153824322406,3.9067489887162017/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9327,7 +9327,7 @@ ple, and it is a reproach to us that they should
 have pleaded it .so long in vain.”  
 Again he says 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn86086769:00271769775:1860052901:0441/pct:58.45049356865091,60.22330774598744,13.027221058929106,4.826703884624331/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn86086769:00271769775:1860052901:0441/pct:55.53661077957753,57.211255156157925,12.375674907644218,4.596346493812611/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9353,7 +9353,7 @@ hem stronger root. The love of justice and the love of
 country plead equally the cause of these people, and  
 is a reproach to us that they thould have pleaded it s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:00279529406:1860062801:0200/pct:239.61666402661174,159.0204661067077,37.00300966260098,8.39938483378682/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:00279529406:1860062801:0200/pct:79.87222134220391,53.00682203556923,12.334336554200327,2.799794944595607/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9532,7 +9532,7 @@ pray, as I assure you of my&#x27;great friendship
 and respect.  
 Ta. .1 ei person
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn86086769:00271769775:1860100901:0514/pct:40.61381778144784,14.865486318693952,12.166253784750895,72.85582892618993/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn86086769:00271769775:1860100901:0514/pct:38.58792765308346,14.122401427167146,11.571148398343865,69.21396584992901/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9564,7 +9564,7 @@ tion of the South is not destitute of intelligence, nor dee
 void of that sentiment of resistance to tyranny which  
 naturally inspires the oppressed to seek for freodom
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530674:1861010701:0044/pct:203.33605887162716,267.19156997395214,47.32624693376942,12.408240587260241/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530674:1861010701:0044/pct:67.77868629054238,89.06385665798406,15.775415644589806,4.136080195753414/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9584,7 +9584,7 @@ energy of our own minds, or by the bloody process of
 St. Domingo, is a leaf of our history not turned over.&quot;  
 The enslaved negro popuslation of the South is not destitute o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743373:1861010701:0077/pct:156.89488910318227,89.1616229544945,45.62841530054645,7.274153777180005/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743373:1861010701:0077/pct:52.29829636772742,29.7205409848315,15.209471766848816,2.424717925726668/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9739,7 +9739,7 @@ oguially the cause of these people, and it is a
 mortal reproach to us that they should have  
 pleaded so long in vai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn84038189:00202191204:1862032701:0197/pct:76.496138996139,61.51861408035385,47.44208494208494,38.59196461481754/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn84038189:00202191204:1862032701:0197/pct:19.13095956547978,15.379653520088462,11.864815932407966,9.647991153704385/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9765,7 +9765,7 @@ done by ourselves, I have seen no proposi-
 tion so expedient, on the whole, as that of  
 emancipation of those born after a give
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn84038189:00202191204:1862032701:0197/pct:76.54440154440154,99.81570217471433,47.49034749034749,20.30962034647991/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn84038189:00202191204:1862032701:0197/pct:19.143029571514784,24.953925543678583,11.87688593844297,5.077405086619978/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9834,7 +9834,7 @@ by the bloody process of San Domingo &quot; is
 a leaf in our history not yet turned over.&quot;  
 &quot;Can the liberties ol a nation be secure whe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026050:00280775848:1862053001:0864/pct:39.973664409330325,74.54000855798031,16.497366440933032,3.3804022250748824/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026050:00280775848:1862053001:0864/pct:29.996236356793375,55.91213806874911,12.382386149793,2.5388674939380973/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10265,7 +10265,7 @@ hearts, they were both already safely chained been sufficient to ascertain that 
 up at the present tenting; they have done towards this point tbe progress I bad&#x27; hoped,  
 as more barm, tbey and their like, tbaa ten .Year solitary but welcome voice is the first
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058250:0027174478A:1863041701:0205/pct:41.417016177351705,110.36085626911316,33.49310964649491,15.192660550458715/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058250:0027174478A:1863041701:0205/pct:31.08047355012738,82.77675840978593,25.1311254308407,11.400611620795107/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10323,7 +10323,7 @@ Bland, one of tbe oldest, able-t and most
 respected members, and he undertook to  
 ! move for certain moderate extensions of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058250:0027174478A:1863041701:0205/pct:58.19352905931696,76.50152905198777,16.89634511683643,30.434250764525995/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058250:0027174478A:1863041701:0205/pct:43.66851491083471,57.3822629969419,12.677955941855238,22.825688073394495/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10438,7 +10438,7 @@ pray, as I assure you of my great friend­
 ship and respect.  
 THOMAS JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058250:0027174478A:1863041701:0205/pct:58.5680047932894,19.29051987767584,51.67765128819652,102.09174311926606/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058250:0027174478A:1863041701:0205/pct:43.953244417803084,14.470948012232416,38.76817023827364,76.57492354740062/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10488,7 +10488,7 @@ people (the slaves), and it is a reproach
 to us that they should have pleaded so  
 long in vain.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293769:1863062501:0577/pct:111.90640055058499,170.11191573403556,47.55677907777013,29.598420013166557/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293769:1863062501:0577/pct:27.991048373213978,42.52797893350889,11.895334825271132,7.399605003291639/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10509,7 +10509,7 @@ people (the slaves), and it is a reproach
 to us that they should have pleaded so  
 long in vain.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293769:1863070401:0610/pct:241.892832289492,27.58259045621395,47.87752261656228,9.858416360776088/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293769:1863070401:0610/pct:60.48373064207413,6.8956476140534875,11.971463372194188,2.464604090194022/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10536,7 +10536,7 @@ people (the slaves), and it is a reproach
 to us that they should have pleaded so  
 long in vain.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293769:1863071101:0629/pct:313.1891137473831,284.41084462982275,47.52267969295185,28.467153284671532/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293769:1863071101:0629/pct:78.29727843684577,71.10271115745569,11.880669923237962,7.116788321167883/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10559,7 +10559,7 @@ people (the slaves), and it is a reproach
 to us that they should have pleaded so  
 long in vain.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293769:1863072601:0683/pct:117.97520661157024,207.3301160819095,47.03856749311295,21.5990609103952/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293769:1863072601:0683/pct:29.49888066127088,51.832529020477374,11.761666953676597,5.3997652275988/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10579,7 +10579,7 @@ these people (the slaves), and it is a re
 proach to us that they should have plead  
 ed so long in vain.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn86059058:00296022019:1863073101:0597/pct:179.76111479761116,106.46663217796171,48.175182481751825,14.743921365752716/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn86059058:00296022019:1863073101:0597/pct:44.95519415864587,26.61665804449043,12.047792897444408,3.685980341438179/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10601,7 +10601,7 @@ yet turned over.&quot;
 Mr. Jefferson was wrong in supposing that  
 the scenes ot&quot; Domingo would be re-enacted
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035045:00296027145:1863122301:0166/pct:51.69491525423729,26.85597860690182,14.860774818401937,5.755762129122628/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035045:00296027145:1863122301:0166/pct:38.77705463901922,20.1451674519292,11.154835780233086,4.316821596841971/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10677,7 +10677,7 @@ duly pursued, tailed in the end.’?
 “reproach to us that they should  
 “have pleaded it so long in vain.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_diamondville_ver05:data:sn84022150:00514150102:1869081801:0773/pct:48.967254408060455,50.80165735903441,14.382871536523929,4.215456674473068/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_diamondville_ver05:data:sn84022150:00514150102:1869081801:0773/pct:48.967254408060455,50.810664745090975,14.40176322418136,4.210952981444785/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10708,7 +10708,7 @@ No good measure was ever proposed
 which, if duly pursued failed to prevail in  
 the end Jefferson.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn83032006:00296028575:1869110501:0627/pct:61.41563027790573,86.67999059487421,11.208352525717796,10.286856336703503/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn83032006:00296028575:1869110501:0627/pct:61.41563027790573,86.68390939728819,11.218588464097445,10.294693941531468/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10803,7 +10803,7 @@ nation be thought secured when we have removed
 their only firm basis, a conviction in the minds of  
 people that their liberties are the gist of God
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558342:1875080501:0128/pct:13.97624039133473,147.4606857437484,44.0251572327044,22.42846094354215/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558342:1875080501:0128/pct:3.495281370150297,36.8651714359371,11.010136315973435,5.607115235885537/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11106,7 +11106,7 @@ f Almighty has no attribute which can
 Jefferson.  
 In all history it would be difficult t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:0039334877A:1893050401:0270/pct:1.8849685838569357,81.10849056603773,12.985339133236668,5.0/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:0039334877A:1893050401:0270/pct:1.8846649484536082,81.0989270133239,12.987274484536082,5.002358212474944/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

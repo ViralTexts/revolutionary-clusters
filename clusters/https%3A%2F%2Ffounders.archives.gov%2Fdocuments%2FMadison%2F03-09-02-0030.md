@@ -97,7 +97,7 @@ reciprocal attention from all the
 friendly powers of Europe.  
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216195:1815030401:0108/pct:26.09730694837078,52.25360843000089,17.973515845856273,41.733817409014435/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216195:1815030401:0108/pct:26.093424576019043,52.24898176022667,17.97580085292076,41.73307360840564/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -158,7 +158,7 @@ ceive a reciprocal attention from all the
 friendly powers ®f Europe.  
 _ t JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1815030801:0388/pct:5.981207083483918,8.488357767648147,17.38344777737622,26.61081680423802/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1815030801:0388/pct:5.980126467931346,8.487312145848732,17.386329418849744,26.611644904327832/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -179,7 +179,7 @@ our commerce and navigation independent of
 the service of fore gners, but that it would be  
 calculated to remove t u pr. t xt under wh 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1815030801:0388/pct:59.84821105890857,11.223358383639276,17.00397542464763,3.9300234076629295/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1815030801:0388/pct:59.83739837398374,11.221975856122198,17.006925624811803,3.9336453970600314/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -225,7 +225,7 @@ ii r&quot;eive a reciprocal atten’ion from
 all the iriendly powers of Europe.  
 _ , JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184285:1815030801:0068/pct:12.456385205861828,7.066682292277042,33.356594556873695,86.24165006445564/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184285:1815030801:0068/pct:12.454212454212454,7.06585423013827,33.35659049944764,86.23545035544097/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -275,7 +275,7 @@ pected to receive a reciprocal attention from
 all the friendly powers of Europe.  
 .JAMES MADISON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1815030901:0644/pct:8.52082336045955,4.196816208393632,22.187649593106748,26.78726483357453/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1815030901:0644/pct:8.518784398181383,4.196208942265953,22.188322565206988,26.787006221964983/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -543,7 +543,7 @@ and may be expected to receive a reciprocal at­
 tention from ali theiricudly powers of Europe.  
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1815031601:0242/pct:48.824273072060684,49.3197836420259,22.048040455120102,18.226520242583184/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1815031601:0242/pct:48.81193124368048,49.31170108161258,22.048786653185036,18.227630285152408/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -629,7 +629,7 @@ attention from all the friendly powers of Eu­
 rope.  
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1815032801:0261/pct:4.380403458213256,25.269554989217802,16.556195965417867,14.948049402078023/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1815032801:0261/pct:4.380403458213256,25.269554989217802,16.565802113352547,14.957851401685945/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

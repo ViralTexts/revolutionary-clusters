@@ -118,7 +118,7 @@ ment. Iruth can stand by itself.
 Bigotry is the disease of ignorance, of morbid minds;  
 enthuslasm of the free and buoyant
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_lorca_ver01:data:sn83030272:00206533109:1888102101:0609/pct:283.34612432847274,75.53386211104332,50.575594781273985,8.724832214765101/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_lorca_ver01:data:sn83030272:00206533109:1888102101:0609/pct:70.8637236084453,18.88346552776083,12.648752399232245,2.1812080536912752/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -136,7 +136,7 @@ Bigotry is the disease of ignorance,
 of morbid minds; enthusiasm of the free  
 and buoyant
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn90061417:00294559966:1888110901:0609/pct:111.15789473684211,109.16765598206041,43.578947368421055,8.178340588312887/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn90061417:00294559966:1888110901:0609/pct:27.7992277992278,27.291913995515102,10.898560898560898,2.0445851470782217/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -154,7 +154,7 @@ Bigotry is the disease of ignorance, of
 morbid minds; enthusiasm of the free and  
 buoyant
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn84024448:0029602076A:1888111801:1219/pct:180.4953560371517,141.3103831204886,49.53560371517028,7.773459189339256/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn84024448:0029602076A:1888111801:1219/pct:45.13257209212309,35.32759578012215,12.386297658215598,1.943364797334814/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -233,7 +233,7 @@ Bigotry is the disease of ignorance of
 morbid minds; enthusiasm of the free  
 and buoyant
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_bullfrog_ver01:data:sn84022060:00332890542:1890070501:0626/pct:40.635196867522296,74.02010782456652,17.40265390472047,17.295643304677256/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_bullfrog_ver01:data:sn84022060:00332890542:1890070501:0626/pct:40.62635928664637,74.009324009324,17.404306220095695,17.296765734265733/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -288,7 +288,7 @@ Bigotry is the disease of ignorance, of
 morbid minds; enthusiasm of the free  
 and buoyant.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_engledinger_ver02:data:sn85040310:00514152123:1891040201:0583/pct:66.12087326943556,82.57978723404256,13.80457933972311,5.224164133738602/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_engledinger_ver02:data:sn85040310:00514152123:1891040201:0583/pct:66.12087326943556,82.5829533941236,13.813454029108982,5.220997973657548/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

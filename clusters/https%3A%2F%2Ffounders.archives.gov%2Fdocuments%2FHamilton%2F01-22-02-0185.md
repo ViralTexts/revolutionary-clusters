@@ -232,7 +232,7 @@ tons.
 By Command of the President.  
 Given at the War Office of the Unite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799011401:0002/pct:61.514997458057955,33.935242839352426,18.047788510421963,59.71357409713574/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799011401:0002/pct:61.514997458057955,33.93913449564135,18.047788510421963,59.717465753424655/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -793,7 +793,7 @@ officers by the substitution. This may be le
   
 fnbcsittsd to th* &quot;fl of cv or..
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799020801:0002/pct:26.44505085586703,4.0723294332168365,50.65740511039444,90.79167299802462/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799020801:0002/pct:26.457454725874474,4.0723294332168365,50.65740511039444,90.81446588664336/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -822,7 +822,7 @@ vilions to that of major. This will guard
 agninft the multiplication of the superior  
 grades, by removals to fill such Rations
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799020801:0002/pct:62.06896551724138,12.247378817808844,17.78714959067229,9.253912779212886/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799020801:0002/pct:62.08757132225254,12.258775262118219,17.78094765566857,9.257711593982677/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -880,7 +880,7 @@ of the adls, the necefTary provisions for the
 appointment of hospital officers, or a hospi­  
 tal establishment—As military hospitals ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799020801:0002/pct:62.21781195733069,30.22337030846376,17.935996030761597,27.47302841513448/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799020801:0002/pct:62.23641776234185,30.22337030846376,17.929794095757877,27.495821303753228/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -906,7 +906,7 @@ lible to avoid it, a war ought not to find us
 unprovided. What has been done to facili­  
 tate this object, and the perfection of ou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799020801:0002/pct:62.1930042173158,66.9655067618903,17.390225750434137,7.552043762346148/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799020801:0002/pct:62.20540808732324,66.97690320619967,17.377821880426694,7.540647318036773/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -938,7 +938,7 @@ siness of procuring such characters to some
 very judicious hand,&#x27; under every precaution  
 that can put him upon his guard
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799020801:0002/pct:62.14338873728603,81.90244643671174,17.489456710493673,11.335663273058806/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799020801:0002/pct:62.14338873728603,81.91004406625133,17.495658645497397,11.34326090259839/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1014,7 +1014,7 @@ viso, &quot; that if the quantities ef the compo­
 nent articles of a ration lhall be reduced by  
 law, the price to be allowed therefor, llial
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799020801:0002/pct:80.42669312825602,27.093146938155297,16.62118580997271,38.5199817656891/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799020801:0002/pct:80.43289506325974,27.10074456769488,16.639791614983874,38.53137820999848/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1071,7 +1071,7 @@ valent.
 But it need not be remarked, that whate­  
 ver is to be dor.e in this refpeft must he
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799020801:0002/pct:80.40188538824113,68.0747606746695,17.117340610270404,26.667679683938612/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799020801:0002/pct:80.40188538824113,68.0747606746695,17.14214835028529,26.68287494301778/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1312,7 +1312,7 @@ prefled on the buttons. i
 By command of the President.  
 Given at the War Office of the Unite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1799032701:0052/pct:25.19733787339421,10.138384532338797,16.70020120724346,70.32093434095593/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1799032701:0052/pct:25.20249703348295,10.138384532338797,16.70020120724346,70.32747734484902/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1346,7 +1346,7 @@ It is expe&amp;ed the proposals will also extend to
 the supply of rum, whiskey, or other ardent fpi­  
 ritsattherateof half a gill per ration, and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799040101:0002/pct:26.63068981698733,82.36804564907276,16.47114030971375,8.930099857346647/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799040101:0002/pct:26.63068981698733,82.37517831669044,16.4946034725481,8.930099857346647/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1372,7 +1372,7 @@ half for every hundred rations.
 the supply of rum, whifeey, or other ardent spi­  
 rits at the rate of half agill per ration, and Vine
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799042301:0004/pct:29.646626893070216,78.5284855425136,16.039467645709042,5.439450329229889/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799042301:0004/pct:29.652363469481415,78.53206412825651,16.045204222120237,5.443028914972802/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1395,7 +1395,7 @@ dred rations, soap at the rate of four
 - pound and an half for every hundred  
 - rations.” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1799042301:0067/pct:75.43695380774032,60.33771843707049,16.651061173533083,5.949342234439427/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1799042301:0067/pct:75.44735746982938,60.340990902545975,16.64065751144403,5.952614699914916/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1431,7 +1431,7 @@ It iS expected the proposals will also extend to
 the supply of rum, whiflcey, or other ardent fpi­  
 ncs at rh.-. rate of ball ration, and Vine
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799042901:0002/pct:13.867798124162572,76.0863391082079,15.832961143367575,10.849190570860552/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799042901:0002/pct:13.87338097364895,76.0969894916217,15.827378293881196,10.849190570860552/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1465,7 +1465,7 @@ It is expeded the proposals will also extend to
 the supply of rum, whilkey. or other ardent fpi­  
 rtts at the rate of half a gill per ration, and Vine
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799050601:0002/pct:27.80102278010228,61.69940222032451,16.364481636448165,8.867065186450327/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799050601:0002/pct:27.81264528126453,61.71007685738685,16.364481636448165,8.859948761742102/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1491,7 +1491,7 @@ H is expected the pr ipofals will also extend to
 t&#x27;-ie I&#x27;M&#x27;ply of rum, whiikcy, or other ardent fpi­  
 ri s at th;- rate jf hat! agill per r .tihn, and Vine
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799050801:0004/pct:11.7169373549884,80.60554127392173,16.19489559164733,5.3841759497286485/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799050801:0004/pct:11.728538283062646,80.61268209083119,16.19489559164733,5.380605541273922/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1516,7 +1516,7 @@ It is cxpeited the proposals wMI ilfo extend te
 the supply of rum, whilxcy, or other ardent fpi­  
 ri. s at th- rate of half agill per ration, and Viue
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799050901:0004/pct:11.183294663573086,80.60554127392173,16.19489559164733,5.427020851185375/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799050901:0004/pct:11.183294663573086,80.61268209083119,16.218097447795824,5.430591259640103/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1549,7 +1549,7 @@ It is expected the propolals will also extend to
 of rum, whiffcey, or other ardent fpi­  
 ri. s at the rate of Hal! a gill per ration, and Vine
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799051001:0004/pct:12.413154238073181,77.44650499286733,16.049096804075962,8.830242510699001/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799051001:0004/pct:12.41894395553497,77.45363766048501,16.05488652153775,8.830242510699001/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1574,7 +1574,7 @@ It ts cxpe.ied the propolals will also extend to
 t&#x27;-it fuppty of rum, whiikey, or other ardent fpi­  
 r&#x27;r sat th&#x27; rr.etf agillper ration and Vine
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799051401:0004/pct:12.22788327929597,81.27683939307185,15.933302454840204,4.8955052963069/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799051401:0004/pct:12.22788327929597,81.2875751503006,15.94488188976378,4.8883481248210705/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1599,7 +1599,7 @@ It is er.pefled the propolal9 will also extend to
 tbe funply of mm. whiskey, or other ardent fpi­  
 ri s at the rate of halt a;;dl per ration, and Vfcie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799052101:0004/pct:13.968907178783722,81.37674950014282,15.752171925011432,4.898600399885747/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799052101:0004/pct:13.986053955189758,81.387460725507,15.769318701417466,4.89502999143102/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2098,7 +2098,7 @@ lixty-four corporals, one chief musician, ten
 other musicians, eight hundred and ninety­  
 fix
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1800031401:0001/pct:56.76020408163265,51.245918542704935,16.224489795918366,8.111359340092799/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1800031401:0001/pct:56.766581632653065,51.250214813541845,16.237244897959183,8.119951881766626/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2135,7 +2135,7 @@ titled by the terms of their enlifhnent.
 Sec. 2o And be it further enacted, That  
 every non-commissioned officer, private, ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1800031401:0002/pct:28.017241379310345,27.019114861374202,16.049695740365113,14.241432753573273/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1800031401:0002/pct:28.029918864097365,27.032030308248665,16.049695740365113,14.23712760461512/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

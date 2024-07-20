@@ -1455,7 +1455,7 @@ children; and desire that the hatchet
 may be buried so deep as to be heard  
 no more.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_topsn83020866_ver01:data:sn83020866:print:1828061101:0001/pct:70.70167286245353,57.03771849126035,15.381040892193308,8.386997853419196/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_topsn83020866_ver01:data:sn83020866:print:1828061101:0001/pct:70.71909851301115,57.045384851272615,15.363615241635689,8.386997853419196/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1508,7 +1508,7 @@ have employed in providing for their
 families, Cornplant lias spent ht  
 endeavors to preserve peace; aivj
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_topsn83020866_ver01:data:sn83020866:print:1828061101:0001/pct:70.79460966542752,65.5933762649494,15.49721189591078,23.689052437902482/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_topsn83020866_ver01:data:sn83020866:print:1828061101:0001/pct:70.80041821561338,65.5933762649494,15.508828996282528,23.689052437902482/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1546,7 +1546,7 @@ answer to this, that we may know that
 you are just.&quot;—Dr. Boiidinot.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_topsn83020866_ver01:data:sn83020866:print:1828061101:0002/pct:13.777881040892193,9.398957375038332,15.450743494423792,15.164060104262497/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_topsn83020866_ver01:data:sn83020866:print:1828061101:0002/pct:13.777881040892193,9.398957375038332,15.450743494423792,15.175559644280895/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3229,7 +3229,7 @@ and to this day, when your name is heard,
 our women look behind them and turn  
 pale,” (Ford’s “Writings of Washington.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271768515:1889053001:0324/pct:67.63362879398335,33.138208155570986,12.261616975557347,4.702847504712769/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271768515:1889053001:0324/pct:67.6381054704987,33.138208155570986,12.266093652072701,4.706154711115521/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3250,7 +3250,7 @@ and to this day. when yonr name is heard,
 our women look behind them and turn  
 pale,” (Ford’s “Writings of Washington.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_jane_ver01:data:sn86086770:00271768849:1889053001:1191/pct:20.368453736286483,46.8455810032317,14.344856137445664,3.4986651679078262/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_jane_ver01:data:sn86086770:00271768849:1889053001:1191/pct:20.375353618988477,46.8455810032317,14.344856137445664,3.517399653412018/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -483,7 +483,7 @@ fccuiity to Us itndtMi condili.n
 
 ---
 
-## [From _The American review : a Whig journal of politics, literature, art, and science_](https://archive.org/details/sim_american-whig-review_1849-02_9_14/page/n56/mode/1up?view=theater)
+## [From _The American Review: a Whig Journal Devoted to Politics and Literature (1848-1850)_](https://archive.org/details/sim_american-whig-review_1849-02_9_14/page/n56/mode/1up?view=theater)
 
 #### 1849-02-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -535,7 +535,7 @@ r ueiisrj iney coujar --wyn to oe; out wnemerr
 they &#x27; are to Igiqpi py It situation without a. &quot;  
 Struggle. ; I laeiUt aeparation between .Great
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022846:1858042401:0134/pct:71.0551948051948,116.29411764705883,20.795454545454547,8.882352941176471/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022846:1858042401:0134/pct:53.31276388437804,87.2235294117647,15.605716141604416,6.670588235294118/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -570,7 +570,7 @@ Islocraey, and the man of the people. For what
 noble purpose willthey two act together unco niorcf  
 When will nn nge again furnish minds like theirs 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_danby_ver01:data:sn98060050:00280777353:1858042401:0292/pct:91.41732283464567,5.641964013418725,34.29133858267716,123.45227203415675/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_danby_ver01:data:sn98060050:00280777353:1858042401:0292/pct:68.57649143532191,4.239097285757853,25.733412088993898,92.58920402561756/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

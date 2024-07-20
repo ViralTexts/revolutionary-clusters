@@ -41,7 +41,7 @@ whichthe general&#x27;government are pursuing ;
 for this in my opinion, would be a sort of  
 political suicide.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1836092101:0528/pct:51.43169797556082,57.20799249027759,15.575414918840051,5.189754592999866/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1836092101:0528/pct:51.437777372484646,57.20799249027759,15.569335521916226,5.1986947387242415/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -74,7 +74,7 @@ which the general government are pursu­
 ing ; for this, in my opinion, would be a  
 sort of political suic ide.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197954:1836100601:0402/pct:25.0,65.25170648464164,20.14797951052931,5.546075085324232/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197954:1836100601:0402/pct:18.75622598548456,48.94411262798635,15.113135050519425,4.159556313993174/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -101,7 +101,7 @@ measures which the gmul government are pursu­
 ing; for this in my opinion, wogld bg p sort of po­  
 litical suicide.” —Augusta Age.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1836101101:0365/pct:20.725941741650146,86.20654080264109,14.015555894463931,6.272567832456412/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1836101101:0365/pct:20.725941741650146,86.20654080264109,14.030806771389354,6.272567832456412/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -157,7 +157,7 @@ knowingly, whose political tenets arc a
 &quot; eral Government are pursuing ; Jor this, in my  
 c opinion, uoidd be a sort q&quot; political suicide.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197966:1838030701:0043/pct:1.7728531855955678,60.41876609562199,20.3601108033241,4.154070092934722/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197966:1838030701:0043/pct:1.3298240753566977,45.314074571716496,15.279124532483724,3.123950285522338/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -178,7 +178,7 @@ vernment are pursuing ; for this, in my opinion,
 would be a sort of political suicide. That it would  
 embarrass ils movements is mostl certain.’’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1838082101:0134/pct:65.7626130067075,82.94166151309008,13.779527559055119,3.1436817151102865/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1838082101:0134/pct:65.76747351025567,82.94509723081151,13.779527559055119,3.1471174328317186/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -199,7 +199,7 @@ ment are pursuing ; for this, in my opinion, would
 be a sort of political suicide. That it would embar­  
 rass its movements is most certain.’’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1838082801:0139/pct:35.023531197813874,28.05785123966942,14.513435554880825,3.1714876033057853/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1838082801:0139/pct:35.023531197813874,28.064738292011018,14.533677445473407,3.1714876033057853/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -230,7 +230,7 @@ suing; fiom this, in my opinion would be a sort of
 political suicide. That it would embarrass its move  
 ment is certain.— George Washinglon. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1839021201:0234/pct:51.220581786288555,88.34304746044963,14.74930565706768,3.3513738551207326/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1839021201:0234/pct:51.220581786288555,88.34651679156259,14.754178239048873,3.3583125173466555/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -251,7 +251,7 @@ suing 5 for this in wy opinion, would be a sort of po­
 litteal suicide. T&#x27;hat it would emburrass its movements  
 is certain, GEORGE WASHINGTON.*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1839021901:0237/pct:78.99382171226831,23.97859421632191,14.607237422771403,3.179993825254708/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1839021901:0237/pct:78.99382171226831,23.985455044423862,14.617044228694715,3.176563411203732/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -273,7 +273,7 @@ Government pursuing; for this, in my opinion,
 ; would be 3 e!,lt political suicide. Thai it would em*  
 i barrass Us rm&gt;v? inf nlais et rtain.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_armani_ver02:data:sn84024735:00415664230:1839032801:0624/pct:80.54933572174951,82.19192126307156,17.03239289446186,3.2499487389788806/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_armani_ver02:data:sn84024735:00415664230:1839032801:0624/pct:80.54933572174951,82.19533866447954,17.03736876150669,3.25336614038685/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -305,7 +305,7 @@ my opinion, would be a sort nl political suicide.
 That it would embarrass its movements is most  
 certain.&quot; fliirmirton him Gazette
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn87065654:00295878216:1839041301:0711/pct:62.55545696539485,70.30196423336265,19.986690328305237,4.9545587804163/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn87065654:00295878216:1839041301:0711/pct:46.94783573806881,52.72647317502199,15.005549389567147,3.723248314277338/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -330,7 +330,7 @@ GEORGE WASHINGTON.&quot;
 This is high authority; but I have still high­  
 er authority ;for the ground I take, and it is th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197966:1839042401:0277/pct:107.35455543358947,19.43661971830986,19.978046103183313,7.707042253521127/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197966:1839042401:0277/pct:80.52696582955949,14.580281690140845,14.985590778097983,5.780281690140845/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -374,7 +374,7 @@ l! &#x27;^k &quot;? &#x27;*? dittrul he formerly repreicnteU.
 1 us uiKtance, then, the sense of his constituenta re­  
 pec lug htin |k i?oiiiIIv hat been fmrly taken.*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1839091101:1054/pct:80.00660938532717,17.399482718081355,15.069398545935227,4.808370561956266/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1839091101:1054/pct:80.01762502753911,17.407320322909317,15.063890724829257,4.808370561956266/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -401,7 +401,7 @@ be formerly represented. In this instance,
 then, the sense of his constituents respecting  
 him personally has been fairly taken.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_hookandcook_ver03:data:sn88084131:0029586185A:1839091301:0043/pct:3.5704284514141698,7.637810559006211,16.227947353682442,7.734860248447205/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_hookandcook_ver03:data:sn88084131:0029586185A:1839091301:0043/pct:3.5797629048819193,7.644280538302278,16.223280126948566,7.734860248447205/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -458,7 +458,7 @@ represented. In this instance.then the j
 sense ofliis constituents respecting him j  
 personally lias been fairly taken.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187122:1839100301:0402/pct:16.448326055312954,39.48306595365419,15.829694323144105,9.001782531194296/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187122:1839100301:0402/pct:16.445333818446425,39.47803946530872,15.832878539809593,9.004880118820285/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -498,7 +498,7 @@ tested election, he could not obtain a majority of suffrages in the
 &quot;Wrict he formerly represented. In this instance, then, the sense  
 his constituents respecting him personally has been fairly taken
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn83016802:00415668843:1839120501:0107/pct:2.51904835950863,69.08240794856809,22.04944798631628,5.376972530683811/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn83016802:00415668843:1839120501:0107/pct:2.5242315865858083,69.09020066238067,22.05463121339346,5.376972530683811/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -541,7 +541,7 @@ verse to the measures whif.h&#x27;the CZan
   
 al Government is pursuing.&quot; . It will
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn87065296:0029587806A:1839120701:0265/pct:97.43031358885017,20.993195309106703,23.06184668989547,18.821485449543943/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn87065296:0029587806A:1839120701:0265/pct:73.09954258331518,15.752135514695237,17.29470703550425,14.116114087157955/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -671,7 +671,7 @@ is most certain.&quot;
 Rut, Mr. Van Buren has made no #tnovals from of­  
 fice for opinion&#x27;s sake?the word of his competitor t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1840091101:0617/pct:49.309309309309306,90.07776355940545,15.885885885885886,3.2581947042031696/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1840091101:0617/pct:49.309309309309306,90.08432588509368,15.895895895895896,3.2549135413590577/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -743,7 +743,7 @@ most certain.&quot;
 Pending the difference between Jefferson and  
 Hamilton, two members of his Cabinet, Presiden
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82014039:00415660972:1841081401:0103/pct:48.92118009687363,3.805207125540213,17.37854102451196,6.103088436808264/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82014039:00415660972:1841081401:0103/pct:48.930965311414454,3.81223428551351,17.383433631782378,6.103088436808264/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -764,7 +764,7 @@ for thin, in luy &lt;&gt;|nni&lt;&gt;? i, would he a sort of political
 suicide. 1 hat it would embarrass it? movements is  
 moat certain.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1841081401:0842/pct:48.93952673093777,5.100483337573136,15.495179666958808,4.070211142203002/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1841081401:0842/pct:48.93952673093777,5.1089629441193924,15.512708150744961,4.07445094547613/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -786,7 +786,7 @@ this, in my opinion, would be a sort ol po
 itical suicide. That it would embarruss.  
 its movements, is certain
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn86053972:00295878472:1845111901:0202/pct:70.64549180327869,113.76745873390169,19.364754098360656,6.566297841465627/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn86053972:00295878472:1845111901:0202/pct:53.02409021014864,85.32559405042626,14.531009738595593,4.93379285325594/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -802,7 +802,7 @@ its movements, is certain
 
 ---
 
-## [From _The American review : a Whig journal of politics, literature, art, and science_](https://archive.org/details/sim_american-whig-review_1849-07_10_19/page/n5/mode/1up?view=theater)
+## [From _The American Review: a Whig Journal Devoted to Politics and Literature (1848-1850)_](https://archive.org/details/sim_american-whig-review_1849-07_10_19/page/n5/mode/1up?view=theater)
 
 #### 1849-07-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -890,7 +890,7 @@ eral Government is pursuing; for this, in my opinion,
 would be a sort of political suicide. That it would  
 embarrass its movements is certain.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293307:1860090401:0225/pct:34.319526627218934,322.8706783590364,42.98009682625067,10.885999395222257/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293307:1860090401:0225/pct:8.583344544598413,80.7176695897591,10.749360957890488,2.721499848805564/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -953,7 +953,7 @@ mesurc8 wmen tne general government are pursuing
 for this, m my opinion, would be a eort of political  
 suicide
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879117:1864122201:0421/pct:66.84810126582279,45.84743304650488,19.835443037974684,4.447452383254375/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879117:1864122201:0421/pct:50.14558804912014,34.39040897225176,14.87530067097101,3.335589287440781/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1029,7 +1029,7 @@ most certain.&quot;-Jared Sparks Writings of Wuthisttos.
 And again, less than one month later, he applies the  
 teat in the case of Patrick Henry, whose &quot;loyalty! wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743579:1867011801:0167/pct:237.00097370983448,56.01096015526887,47.224926971762414,16.794154583856603/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743579:1867011801:0167/pct:79.00032456994482,18.67032005175629,15.741642323920805,5.598051527952202/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1111,7 +1111,7 @@ ot appear in tha decision which is ren
 dered on the pleading. The action was  
 brought on interest coupons, tho bond 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_felice_ver01:data:sn87052128:00200292182:1877042001:0543/pct:78.92561983471074,54.91126070991432,23.484848484848484,22.047123623011014/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_felice_ver01:data:sn87052128:00200292182:1877042001:0543/pct:59.246496668963935,41.18727050183598,17.620032161727543,16.539167686658505/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1148,7 +1148,7 @@ of the Rev. John Campbell and his
 wife, of Franklin County, when they  
 bade their unfortunate little son Jo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588265:1877042801:0066/pct:82.90520572857467,85.39816113448651,18.185951352580133,11.640953716690042/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588265:1877042801:0066/pct:64.25886774723985,66.18760064412238,14.094432699083862,9.033816425120772/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1173,7 +1173,7 @@ are parsuing, for this, in my opinion
 e ae e  e eoeeee  
 would be a sort of political suicide
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dorothea_ver01:data:sn86063984:00200292819:1877061301:1660/pct:310.51567239635995,242.4673784104389,67.54297269969666,26.300627012370786/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dorothea_ver01:data:sn86063984:00200292819:1877061301:1660/pct:77.68783202630914,60.616844602609724,16.89855805717177,6.575156753092696/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1194,7 +1194,7 @@ measures which the general government
 are pursuing, for this, in my opinion,  
 would be a sort of political suicide.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_duwamish_ver01:data:sn87093109:00200290975:1877062101:0169/pct:42.38095238095238,44.874744376278116,16.304761904761904,4.192229038854806/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_duwamish_ver01:data:sn87093109:00200290975:1877062101:0169/pct:42.387301587301586,44.8832651670075,16.317460317460316,4.187968643490116/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1216,7 +1216,7 @@ measures which the general government
 are pursuing, for this, in my opinion,  
 would be a sort of political suicide.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn84022761:no_reel:1877062901:0395/pct:117.72113943028486,130.01968503937007,48.87556221889056,12.263779527559056/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn84022761:no_reel:1877062901:0395/pct:39.24037981009495,43.33989501312336,16.291854072963517,4.087926509186352/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1238,7 +1238,7 @@ the general government are pursuing,
 for this, in my opinion, would be a sort  
 of political suicide.”—Editor’s Eas
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_carrie_ver01:data:sn85033295:00271768795:1877082201:0291/pct:35.14535262677617,40.36416080764377,14.039890496675792,4.200468721831621/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_carrie_ver01:data:sn85033295:00271768795:1877082201:0291/pct:35.14535262677617,40.370170061895315,14.044235866684048,4.203473348957394/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1260,7 +1260,7 @@ the general government are pursuing,
 for this, in my opinion, would be a sort  
 of political suicide.”—Editor’s Eas
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271769453:1877082301:0222/pct:67.15705765407554,80.06787104501447,11.915175612988735,3.782812655953688/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271769453:1877082301:0222/pct:67.16589352772256,80.06787104501447,11.919593549812237,3.7894666799747148/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1335,7 +1335,7 @@ would &quot;not bring a man into any office of
 &quot;tenets are adverse to the measures which  
 &quot;the General Government are pursuing.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ike_ver01:data:sn85042682:00211103395:1882111201:0160/pct:65.72958500669344,219.23563654770945,43.50736278447122,33.61174386231334/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ike_ver01:data:sn85042682:00211103395:1882111201:0160/pct:16.44064958982086,54.80890913692736,10.882303699983257,8.402935965578335/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1408,7 +1408,7 @@ ures which the General Government is
 pursuing, for this, in my opinion, would  
 be a sort of political suicide.&quot; But h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_garwood_ver02:data:sn84029385:00237285207:1885030501:0051/pct:92.70186335403727,45.52423900789177,16.288819875776397,5.174746335963923/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_garwood_ver02:data:sn84029385:00237285207:1885030501:0051/pct:69.54496039757727,34.14881623449831,12.222394781798416,3.878241262683202/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1430,7 +1430,7 @@ ures which the General Government is
 pursuing, for this, in my opinion, would  
 te a sort of political suicide.&quot; But h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_hobbs_ver01:data:sn84024283:00294556825:1885030501:0463/pct:10.251046025104603,48.03274960200137,16.04901374775852,4.957925858539913/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_hobbs_ver01:data:sn84024283:00294556825:1885030501:0463/pct:7.696906292034075,36.02456220150103,12.03108653415035,3.718444393904935/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1455,7 +1455,7 @@ i But of two men equally well affected to the true interest
  e the preference to him agalust whom the least clamor  
 can be excite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044851:1885042401:0967/pct:5.435591958302308,140.45664826145352,71.92851824274014,22.981644530667065/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044851:1885042401:0967/pct:1.3594040968342644,35.11416206536338,17.988826815642458,5.745411132666766/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1487,7 +1487,7 @@ This is a distinct declaration that the
 Executive&#x27;s agents should be in harmeny  
 with and not hostile to its policy, and is al
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ike_ver01:data:sn85042682:00211103383:1885042601:0026/pct:70.2231520223152,12.067389316964869,43.44490934449094,28.157241739584695/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ike_ver01:data:sn85042682:00211103383:1885042601:0026/pct:17.558849171752396,3.0168473292412172,10.86312118570183,7.039310434896174/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1516,7 +1516,7 @@ the preference to &quot;him against whom the
 least clamor can be excited.&quot;  
 Of this the Sun says: &quot;Under this rul
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_dassel_ver01:data:sn90059522:00175035588:1885042601:0495/pct:61.70297555791711,70.37335211834558,11.517003188097767,6.591526617691456/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_dassel_ver01:data:sn90059522:00175035588:1885042601:0495/pct:61.71183138505136,70.38006105128979,11.508147360963514,6.591526617691456/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1545,7 +1545,7 @@ me part or prudence to give the preference to
 nim against whom the least clamor can be  
 excited.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84020714:00296023024:1885050101:0277/pct:21.49171270718232,114.90815890645024,16.91988950276243,7.8171721486544214/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84020714:00296023024:1885050101:0277/pct:16.12546635346138,86.18111917983768,12.698632029846621,5.862879111490816/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1599,7 +1599,7 @@ pinion, w ould ho a sort of polities!
 suicide. That it would emharrar* its  
 movements is most certain,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187171:1885050801:0451/pct:5.160119279139116,65.7978778201298,12.653960845326074,6.922839188214691/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187171:1885050801:0451/pct:5.159450350012963,65.7911001236094,12.656641604010025,6.9255596758686995/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1623,7 +1623,7 @@ be a sort of political suicide. That it would
 embarass its movements is most certain.&quot;  
 And yet there are now more than on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hilfiger_ver01:data:sn85025007:00415663912:1885051201:0437/pct:2.514053716427233,21.83105819562763,15.865084322298564,5.460330493687776/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hilfiger_ver01:data:sn85025007:00415663912:1885051201:0437/pct:2.514053716427233,21.83790071504328,15.870289402456798,5.4637517533956/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1652,7 +1652,7 @@ prudence to give the preference to him
 against whom the least clamor can be  
 excited.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685300:1885052801:0516/pct:44.11905140856279,64.64452703512768,11.013846888429095,7.121448267593814/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685300:1885052801:0516/pct:44.1120305537874,64.63677775113882,11.016072565245066,7.123591464876529/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1693,7 +1693,7 @@ dence to give the preference to him a
   
 gainst whom the least clamor is excited.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_abraham_ver02:data:sn84023963:00200295900:1885061201:0189/pct:162.1576763485477,260.75612353567624,82.0746887966805,32.96059637912673/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_abraham_ver02:data:sn84023963:00200295900:1885061201:0189/pct:40.54783150031127,65.18903088391906,20.52293006847894,8.240149094781682/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1723,7 +1723,7 @@ dence to give the preference to hint
 against whom the least clamor can be ex­  
 cited.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291104:1885082801:0421/pct:48.49262347658755,82.09580838323353,10.95253367543297,5.9640718562874255/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291104:1885082801:0421/pct:48.504650416933934,82.09580838323353,10.948524695317511,5.970059880239521/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1744,7 +1744,7 @@ measures which the general Government
 is pursuing; for this, in my opinion, woold  
 be a sort of political snicide. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_odona_ver04:data:sn86092518:00383341747:1885101901:0383/pct:1.37188375866647,88.28856328856328,12.273196636672075,3.998778998778999/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_odona_ver04:data:sn86092518:00383341747:1885101901:0383/pct:1.3716814159292035,88.27958083223115,12.27630285152409,4.0017634889951506/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1812,7 +1812,7 @@ are adverse to the measures which the
 general government is pursuing f**r that,  
 in my judgment, would N* political sui
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_freeport_ver01:data:sn82014248:00332895138:1889051801:0471/pct:4.168377823408624,79.91961414790997,10.102669404517453,2.8617363344051445/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_freeport_ver01:data:sn82014248:00332895138:1889051801:0471/pct:4.167522069390269,79.90676740073943,10.105727776637242,2.865294968654557/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1832,7 +1832,7 @@ political tenets are adverse to tho measures which
 the general government are pursuing ; for this, in  
 my opinion, would be political suicide.&quot; En &lt;;.\
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_pink_ver01:data:sn85025007:00175034353:1889051801:0118/pct:51.10334681868334,52.20103154611971,16.274365575579257,3.5864219743312944/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_pink_ver01:data:sn85025007:00175034353:1889051801:0118/pct:51.10947652323158,52.20502978689377,16.280495280127496,3.594418455879413/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1879,7 +1879,7 @@ ets are adverse to the measures which
 the general government are pursuing;  
 for this, in my opinion, would be politi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_ashbel_ver01:data:sn82015679:00295870333:1889052001:0189/pct:8.872502378686965,88.31304908519384,18.767840152235966,8.301765132586443/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_ashbel_ver01:data:sn82015679:00295870333:1889052001:0189/pct:6.662700773349197,66.23680180543242,14.074955383700178,6.230353832513903/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1900,7 +1900,7 @@ political tenets are adverse to the measures
 whioh the General Government aie pursu­  
 ing; for this, in my opinion, would b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762283:1889052201:0249/pct:62.51660026560425,14.390337915970706,10.823373173970783,2.942310163176153/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762283:1889052201:0249/pct:62.52490039840637,14.399974302968007,10.823373173970783,2.9326737761788513/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1935,7 +1935,7 @@ pursuing; for this, in my opinion,
 would be political suicide.’’  
 That was good politics then, and ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_ketchup_ver01:data:sn87068192:00279529649:1889052301:0586/pct:34.86341244961935,81.80842911877394,14.240931482310792,13.026819923371647/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_ketchup_ver01:data:sn87068192:00279529649:1889052301:0586/pct:34.855607790463395,81.79589334967821,14.243340049250056,13.02865461231995/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1967,7 +1967,7 @@ measures which the general gov­
 erament are pursuing; fortius, in  
 my opinion would bo politica
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_fallon_ver02:data:sn86076999:00416150096:1889052501:0480/pct:5.07679180887372,96.26897432259895,19.453924914675767,18.499077883387713/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_fallon_ver02:data:sn86076999:00416150096:1889052501:0480/pct:3.8198890311566367,72.2088239466591,14.596670934699103,13.874308412540787/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2008,7 +2008,7 @@ area which the general government
 are pursuing; for this, in my opin­  
 ion would he pel tical suicide 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_fallon_ver02:data:sn86076999:00416150096:1889052901:0492/pct:5.989804587935429,44.30795600628482,19.32880203908241,7.8417368947293244/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_fallon_ver02:data:sn86076999:00416150096:1889052901:0492/pct:4.505844845908608,33.238108841594055,14.495217853347503,5.884873589487216/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2048,7 +2048,7 @@ the General Government are pursu­
 ing, for this, in n y opinion, would  
 be political suicide!”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_kale_ver01:data:sn99068116:00340581209:1889062001:0126/pct:32.04893665675738,80.08592141770339,9.604390578550195,7.715027297950416/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_kale_ver01:data:sn99068116:00340581209:1889062001:0126/pct:32.04893665675738,80.08592141770339,9.615824376857992,7.7239774456278525/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2092,7 +2092,7 @@ which the general government are
 pursuing; for this, in my opinion,  
 would be political suicide
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_duval_ver01:data:sn84038206:00393349232:1889070601:0218/pct:5.674995157853961,70.25549938516191,15.126864226225063,14.250580680420823/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_duval_ver01:data:sn84038206:00393349232:1889070601:0218/pct:5.6738962044926415,70.24590163934427,15.128776142525174,14.25204918032787/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2111,7 +2111,7 @@ to the measures which tne general government
 is pnrsuing&#x27; would be. in bis opinion, &#x27;a sort of  
 political suicide.&#x27; To integrity and capacit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_otterhound_ver01:data:sn83045462:00280654747:1889121101:0554/pct:1.895973154362416,40.49198118895454,13.674496644295303,2.21873869528518/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_otterhound_ver01:data:sn83045462:00280654747:1889121101:0554/pct:1.9085570469798658,40.49198118895454,13.68288590604027,2.2368262389967444/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2158,7 +2158,7 @@ tenets are adverse to the measures which
 the general government is pursuing would  
 be, in his opinion, a sort of political sui
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_pink_ver01:data:sn85025007:00175034377:1889121301:0118/pct:1.2016257289273724,90.93594894823919,16.363315073334512,3.5216260931221934/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_pink_ver01:data:sn85025007:00175034377:1889121301:0118/pct:1.2016257289273724,90.94382730638935,16.37509571773576,3.525565272197274/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2226,7 +2226,7 @@ sequence knowingly, whose political
 tenets are adverse to the measures the  
 general government is pursuing, would b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_ashbel_ver01:data:sn82015679:00295870370:1890010501:0058/pct:76.34698275862068,124.84708872825483,16.68103448275862,2.788148383509413/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_ashbel_ver01:data:sn82015679:00295870370:1890010501:0058/pct:57.26910227395194,93.63730240686313,12.512124151309408,2.0891254269600443/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2305,7 +2305,7 @@ ets are adverse to the measures which the gen­
 eral government are pursuing, for this, in my  
 opinion, would be political suicide.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_entiat_ver01:data:sn83045604:00202199100:1891112401:0134/pct:81.00184065211675,147.64923402007395,33.90744149355772,7.131537242472266/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_entiat_ver01:data:sn83045604:00202199100:1891112401:0134/pct:27.000613550705584,49.21641134002465,11.302480497852573,2.3771790808240887/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2454,7 +2454,7 @@ dence to give the pieference to him
 against whom the least clamor can  
 be excited.&quot; In these modem days
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_atherton_ver01:data:sn84026355:00211100229:1897051001:0362/pct:42.35855988243938,26.362640372500685,15.999265246142542,12.325390304026294/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_atherton_ver01:data:sn84026355:00211100229:1897051001:0362/pct:31.783942678669852,19.77540399890441,11.997060444607753,9.244042728019721/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2480,7 +2480,7 @@ is most certain.&quot;
 I now he would not hold this view, but a  
 creat many of his countrymen thorough 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_denmark_ver01:data:sn84026844:00202193675:1897051101:0911/pct:17.385826771653544,65.6176523783686,17.700787401574804,6.05896183758365/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_denmark_ver01:data:sn84026844:00202193675:1897051101:0911/pct:17.393700787401574,65.62217399168023,17.700787401574804,6.072526677518539/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2533,7 +2533,7 @@ would be a sort of political suicide.
 That it would embarrass its move­  
 ments is most certain.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_casper_ver01:data:sn85059533:00393349128:1897052901:0450/pct:47.94022617124394,80.24538185828509,14.3578352180937,6.7548938516680455/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_casper_ver01:data:sn85059533:00393349128:1897052901:0450/pct:47.93054714314557,80.2343211578222,14.359983848172824,6.757408683666437/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2591,7 +2591,7 @@ I have not relinquished my intention of being in
 Philadelphia about the middle of next month. With  
 great esteem and regard, I am, &amp;c.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042957:1897082101:0063/pct:287.0199692780338,31.473620375985444,51.68970814132104,80.10915706488781/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042957:1897082101:0063/pct:71.7687728058383,7.868405093996361,12.924908776646822,20.027289266221953/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2624,7 +2624,7 @@ mon sense is not as prevalent in Wash*
 ington now as it was in the earlier and  
 better days of the country
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_red_ver01:data:sn85025007:00175033750:1897082301:0022/pct:1.1941848390446521,3.978131906479004,28.833506403599863,95.4751657554961/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_red_ver01:data:sn85025007:00175033750:1897082301:0022/pct:1.1941848390446521,3.978131906479004,28.839275412484135,95.48292039858866/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2675,7 +2675,7 @@ tain.’
 come to our ranks those Republicans  
 who temporarily stepped outside th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_baldwin_ver01:data:sn90051407:00414214356:1897091001:0034/pct:66.34911739983188,61.89617157747043,14.289717007565145,8.639005812788135/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_baldwin_ver01:data:sn90051407:00414214356:1897091001:0034/pct:66.34911739983188,61.90619362597715,14.303726534043149,8.639005812788135/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2706,7 +2706,7 @@ tain.’
 come to our ranks those Republicans  
 who temporarily stepped outside th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_illif_ver01:data:sn89052133:00383341152:1897091001:0118/pct:57.43013841734134,38.94328845369237,12.562026638809089,8.159934720522235/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_illif_ver01:data:sn89052133:00383341152:1897091001:0118/pct:57.43666753721598,38.95858833129335,12.588143118307652,8.170134638922889/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2736,7 +2736,7 @@ U&#x27;ln-’
 &quot;Resrdvcd. That, we cordially wel- |  
 come to our ranks those Republican
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_leadville_ver01:data:sn90051167:00340586049:1897091001:0046/pct:56.25813166796773,39.49933116759029,12.438199323445225,7.433594496464743/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_leadville_ver01:data:sn90051167:00340586049:1897091001:0046/pct:56.27114233671611,39.49933116759029,12.451209992193599,7.443149245174852/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2766,7 +2766,7 @@ tain.’
 “Resolved. Tliat we cordially wel­  
 come to our ranks those Republican
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_halfway_ver01:data:sn90051081:0038334153A:1897091101:0432/pct:50.98374679213003,62.07335170659317,13.60136869118905,7.949968200127199/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_halfway_ver01:data:sn90051081:0038334153A:1897091101:0432/pct:50.990875392072994,62.07335170659317,13.608497291132021,7.960568157727369/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2797,7 +2797,7 @@ tain.’
 come to our ranks those Republicans  
 who temporarily stepped outside th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_ironton_ver01:data:sn90051068:00513680818:1897091101:0062/pct:68.96551724137932,38.92272554244385,12.490421455938698,7.936810049486106/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_ironton_ver01:data:sn90051068:00513680818:1897091101:0062/pct:68.96551724137932,38.937000380662354,12.490421455938698,7.932051770079939/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2834,7 +2834,7 @@ Teneral government are pursuing, for
 this, in my opinion, wonld be a sorr of  
 politicnl suicide. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_efreeti_ver01:data:sn91070630:00514152998:1897111301:0198/pct:15.250574091584493,83.07310515975597,12.873159529920303,11.6120359838693/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_efreeti_ver01:data:sn91070630:00514152998:1897111301:0198/pct:15.250574091584493,83.0799986213077,12.873159529920303,11.6120359838693/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2856,7 +2856,7 @@ general government are pursuing, for
 this, In my opinion, would be a sort of  
 political suicide.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn86072192:00340583267:1897111401:0374/pct:37.240932642487046,83.45671551593897,13.881692573402418,3.8374376794077656/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn86072192:00340583267:1897111401:0374/pct:37.23289445283833,83.4441087613293,13.884092380746816,3.840634441087613/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2899,7 +2899,7 @@ measures which the general government
 are pursuing, for this, in my opinion,  
 would be a sort of political suicide.” I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:0033289206A:1899020701:0188/pct:20.73971655720705,69.24882629107981,14.29312132734186,5.539906103286385/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:0033289206A:1899020701:0188/pct:20.73971655720705,69.2566510172144,14.29312132734186,5.547730829420971/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2945,7 +2945,7 @@ oral government is pursuing , for this , In
 my opinion , would bo sort of political sui  
 cide. &quot; At the same tlmo no man has ove
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_beatrice_ver01:data:sn99021999:00206538934:1899022001:0237/pct:110.70700203942896,101.55287817938421,16.11148878314072,4.872824631860777/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_beatrice_ver01:data:sn99021999:00206538934:1899022001:0237/pct:83.06273376402584,76.16800535475234,12.091975518531111,3.6579651941097726/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2965,7 +2965,7 @@ lend their support, it is the part of pru­
 dence to give preference to him against  
 whom the least clamor can be excited
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_kryptonite_ver01:data:sn86069180:00100481790:1899022501:0163/pct:42.630057803468205,69.98064159292035,16.347543352601157,4.424778761061947/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_kryptonite_ver01:data:sn86069180:00100481790:1899022501:0163/pct:31.984098301409468,52.48893805309734,12.269606071557643,3.3185840707964602/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

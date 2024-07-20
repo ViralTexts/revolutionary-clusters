@@ -72,7 +72,7 @@ rescued from the fiery furnace those who
 should have been east into it, for refusing to  
 ‘worship the image.”&quot;— Page 23d
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153139:1832112701:0389/pct:16.4,25.854009349154982,15.25,6.100922929401894/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153139:1832112701:0389/pct:16.405555555555555,25.858004714531145,15.25,6.09692756402573/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -118,7 +118,7 @@ nace those who should have been cast into it
 for refusing to worship the image.&quot;  
 But mark it, this very law had been sustaine
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775708:1859042501:0089/pct:26.734842951059168,132.48095756256802,49.59824689554419,20.13057671381937/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775708:1859042501:0089/pct:6.684931506849315,33.120239390642006,12.401826484018265,5.032644178454842/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -143,7 +143,7 @@ been to have rescued from the fiery furnace
 those who should have been cast iuto it  
 bot
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237283508:1860080101:0138/pct:86.05889724310777,93.53280716220992,30.56077694235589,7.468488632347744/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237283508:1860080101:0138/pct:64.57223440927609,70.14960537165744,22.92384832340959,5.607256449522912/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -161,7 +161,7 @@ Congress had ordered us to fall down and
 worship a golden image.&quot;  
 The tempest which his trial occasione
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_mateer_ver01:data:sn85054828:00212477898:1866081501:0436/pct:177.67154105736782,207.66176127073115,50.78740157480315,8.315814062135015/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_mateer_ver01:data:sn85054828:00212477898:1866081501:0436/pct:44.43662962441975,51.91544031768279,12.702208468138979,2.0789535155337537/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -221,7 +221,7 @@ fended, but whether the pains they were
 suffering &gt;re indicted under the pretend­  
 ed sedition law.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn84026601:00296028629:1868051301:0494/pct:44.96111975116641,11.024089236976385,12.706065318818041,9.374629168149994/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn84026601:00296028629:1868051301:0494/pct:44.96630378434422,11.024089236976385,12.711249351995853,9.382540247616788/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

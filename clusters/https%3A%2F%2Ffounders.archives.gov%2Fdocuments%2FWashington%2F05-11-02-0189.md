@@ -1128,7 +1128,7 @@ a due regard to liability, in the public coun­
 cils.  
 G°- WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792110701:0003/pct:28.815136476426797,7.526673132880698,63.95781637717121,89.33074684772066/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792110701:0003/pct:28.830645161290324,7.536372453928225,63.96557071960298,89.33559650824442/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1445,7 +1445,7 @@ gar-.i tu stability in the public councils.
   
 G. Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792110701:0003/pct:4.473039215686274,3.4742327735958307,63.3578431372549,91.06350125458405/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792110701:0003/pct:4.488357843137255,3.4887087434858137,63.365502450980394,91.04902528469407/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3094,7 +3094,7 @@ much of tjie loan, made of the bank of the
 United States, pursuant to the eleventh fec­  
 tiou of the act, by which it is incorporated
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793042401:0001/pct:51.25257883878574,65.23357528382654,19.304450338933098,7.593523171412619/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793042401:0001/pct:51.2746831712349,65.2428810720268,19.289714117300324,7.60748185371301/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3151,7 +3151,7 @@ gnru may be allured, that nothing
 &quot; un the zealous support of ail eood  
 «ci - n..»
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1795030601:0003/pct:5.4317897371714645,47.741011772192174,15.544430538172715,26.773783009863187/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1795030601:0003/pct:5.438047559449312,47.74498886414254,15.550688360450563,26.773783009863187/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3194,7 +3194,7 @@ our high credit abroad.
 &quot;It was apparent that the two great parties, orig.  
 inally formed at the time of the adoption of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530182:1843052501:0300/pct:103.63090772693174,160.2253928866832,48.92723180795199,19.003308519437553/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530182:1843052501:0300/pct:34.543635908977244,53.40846429556107,16.309077269317328,6.334436173145851/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3260,7 +3260,7 @@ for restraining the commission of outrages
 upon the Indians, &quot;without which,&quot; said he,  
 &quot;all pacific plans must prove nugatory.&quot; H
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fortran_ver01:data:sn83030214:00206531058:1870060101:0222/pct:200.2277904328018,60.1200785128738,49.869834038398956,11.268906592772197/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fortran_ver01:data:sn83030214:00206531058:1870060101:0222/pct:66.74259681093395,20.040026170957933,16.623278012799652,3.7563021975907325/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3328,7 +3328,7 @@ of outragey upon the Indians, without which
 all Pacific plant must prove nugatory.”  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_dyerbrook_ver01:data:sn82014248:00332895199:1872121201:0209/pct:6.432105552501374,87.15099715099716,12.29613340663368,1.7663817663817665/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_dyerbrook_ver01:data:sn82014248:00332895199:1872121201:0209/pct:6.430927079516306,87.13858424725822,12.298460974716013,1.769690927218345/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3348,7 +3348,7 @@ the commission of outrages upon the
 Indian, without whiob, he said, all pa?  
 cific plans must prove nugatory. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84027008:00294551499:1873020801:0359/pct:2.5410544511668105,8.502673796791443,16.05877268798617,4.598930481283422/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84027008:00294551499:1873020801:0359/pct:2.552578507634687,8.502673796791443,16.053010659752232,4.603386809269162/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3383,7 +3383,7 @@ whether viewed with an eye to its intrinsic im­
 portance or to the general sentiment and wish of  
 the nation.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743865:1874040301:0049/pct:9.953239812959252,76.85528756957328,46.62658650634602,33.16326530612245/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743865:1874040301:0049/pct:3.3177466043197508,25.61842918985776,15.542195502115343,11.054421768707483/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3473,7 +3473,7 @@ does the Eagle:
 &quot;Avolding likewise the accumula  
 tion of debt, not only by shunnin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_lapras_ver01:data:sn83025167:00279528402:1883030801:0486/pct:18.645338665333668,206.85714285714286,32.59185203699075,58.42130750605327/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_lapras_ver01:data:sn83025167:00279528402:1883030801:0486/pct:6.215112888444556,68.95238095238095,10.863950678996918,19.473769168684424/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3522,7 +3522,7 @@ monopolists, and the bondholdets.
 as does the Eagle:  
 Avolding likewise the accumulation of debt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_lapras_ver01:data:sn83025167:00279528402:1883032201:0494/pct:52.56315007429421,100.27935651671322,32.03318474492323,49.4172045082362/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_lapras_ver01:data:sn83025167:00279528402:1883032201:0494/pct:17.521050024764737,33.426452172237745,10.677728248307742,16.4724015027454/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3551,7 +3551,7 @@ calling the first attention to them.&quot;
   
 There is a tradition, generally be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_bowbells_ver01:data:sn84024779:00295863699:1886032501:0716/pct:80.41095890410959,42.6761976423376,14.400684931506849,9.405568096313017/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_bowbells_ver01:data:sn84024779:00295863699:1886032501:0716/pct:68.35823791965845,36.28126776577601,12.235590917911896,7.987492893689597/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3583,7 +3583,7 @@ iieved by numismatists, that these
 pieces were struck from the private  
 plato of Washington, which he ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_almont_ver01:data:sn88076741:00295863559:1886032601:1014/pct:40.16620498614959,30.666840662925747,10.298191298680138,8.912958371395016/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_almont_ver01:data:sn88076741:00295863559:1886032601:1014/pct:40.17842594101352,30.673365522641262,10.294117647058824,8.912958371395016/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3793,7 +3793,7 @@ lieved by numismatists, that tin*-*
 pieces were struck from the private  
 plat * of Washington, which In* ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_daikon_ver02:data:sn97065762:00332899661:1887010101:0247/pct:67.16271061370065,39.706902532084634,13.479276841716885,9.29587235518557/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_daikon_ver02:data:sn97065762:00332899661:1887010101:0247/pct:67.166810150453,39.712683547230895,13.483376378469233,9.2987628627587/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3877,7 +3877,7 @@ dimes; the want of smalag coins in cixr­
 culation calling the first&#x27;attention to  
 them.” This piece has. on the obvers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_arbutus_ver01:data:sn85040614:00514152639:1895030701:0040/pct:36.605062897965524,23.657646048109967,15.111042087280634,4.521048109965636/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_arbutus_ver01:data:sn85040614:00514152639:1895030701:0040/pct:36.61023968525134,23.657646048109967,15.116218874566444,4.53536655211913/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3899,7 +3899,7 @@ dlnies; the want of sinnll coins In cir­
 culation calling the first attention to  
 them.&quot; This piece hns on tho obvers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_curry_ver01:data:sn85029677:0021247308A:1895032801:0948/pct:89.937106918239,29.85313363385197,18.912848158131176,5.889195870292278/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_curry_ver01:data:sn85029677:0021247308A:1895032801:0948/pct:67.49831422791638,22.39348553148175,14.205439424589795,4.420532208811982/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3921,7 +3921,7 @@ dimes; the want of small coins in cir­
 culation calling the first attention to  
 them.&quot; This piece has on the obvers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283041:1895032901:0341/pct:54.53020134228188,32.48460445286594,21.241610738255034,6.7503552818569394/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283041:1895032901:0341/pct:36.37126552534408,21.660350544765514,14.165827458878818,4.500236854571293/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3943,7 +3943,7 @@ dimes; the want of small coins in cir­
 culation calling the first attention to  
 them.&quot; This piece has on the obvers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_kauffman_ver01:data:sn82015485:00295871659:1895033001:0178/pct:48.606168446026096,31.28588451955368,19.083629893238435,5.914852128696783/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_kauffman_ver01:data:sn82015485:00295871659:1895033001:0178/pct:36.46744772356518,23.464413389665257,14.311137475900935,4.441555627775973/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4064,7 +4064,7 @@ completed, the &quot;want of small coins in
 circulation calling the first attention to  
 them.&quot; Before the end of the first yea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_jayhawk_ver01:data:sn97065832:00415624839:1899051201:0832/pct:19.154089808086454,16.893806503845635,12.148313769331098,2.455808932667656/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_jayhawk_ver01:data:sn97065832:00415624839:1899051201:0832/pct:19.168064095397803,16.903926595601135,12.148313769331098,2.4625556605046555/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4087,7 +4087,7 @@ after the opening of the mint not only
 half dimes, but also dimes and coppers  
 in a sufficient quantity to meet th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_dunning_ver01:data:sn84022835:00237285128:1899051301:0360/pct:252.95546558704453,70.32332563510393,58.94736842105263,140.1270207852194/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_dunning_ver01:data:sn84022835:00237285128:1899051301:0360/pct:63.26447954637505,17.580831408775982,14.742810854597003,35.03175519630485/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

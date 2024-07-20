@@ -2810,7 +2810,7 @@ Ail now are vanith&#x27;d! 2Tis Rericion lives,
 Immortal, never-failing Friend of Man, oo  
 His Guide to Happiness on high. i 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025581:00517015052:1762021901:0789/pct:33.46162069702801,40.414217744192555,26.87620269403464,11.656870976770222/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025581:00517015052:1762021901:0789/pct:33.468747772788824,40.41888235842896,26.869075618273822,11.656870976770222/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4919,7 +4919,7 @@ Mole-hills, if often heap’d, to mountains rife :
 Weigh every small expence, and nothing waste,  
 Farthings long fav’d, amount to pounds at last
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025586:0051701512A:1785122301:0207/pct:4.805283534502391,63.166616450738175,28.285128672284216,9.49081048508587/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025586:0051701512A:1785122301:0207/pct:4.805283534502391,63.176659636436675,28.292719957488803,9.49081048508587/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4962,7 +4962,7 @@ work ; one water-wheel communicates motion to them
 all, one fire engine conveys air, and one regulator go­  
 verns the whole grand apparatus
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025586:0051701512A:1786011301:0218/pct:65.72907290729073,68.76304023845007,27.115211521152116,5.394932935916542/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025586:0051701512A:1786011301:0218/pct:65.73657365736574,68.76800794833582,27.10771077107711,5.394932935916542/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5002,7 +5002,7 @@ communicates motion to them all, one fire.en­
 gine communicates air, and one regulator go­  
 verns the whole grand apparatus
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025586:0051701512A:1786031801:0254/pct:38.57627118644068,76.2694145758662,26.689265536723163,6.018518518518518/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025586:0051701512A:1786031801:0254/pct:38.57627118644068,76.2694145758662,26.696798493408664,6.018518518518518/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5660,7 +5660,7 @@ Immortal, never failing friend of man,
 His guide to happiness on high. And, fee !  
 &#x27; Tis come, the glorious.morn ! the second
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794010101:0003/pct:69.94750656167979,44.28426395939086,19.324146981627297,2.964467005076142/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794010101:0003/pct:69.94750656167979,44.29441624365482,19.36515748031496,2.9746192893401013/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6715,7 +6715,7 @@ Thy sober autumn fading into age,
 And pale concluding winter comes at last,  
 And shuts the scene.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_beachhaven_ver01:data:sn85025061:00513684939:1820011101:0283/pct:11.623392380490172,55.74430040232454,16.7192429022082,2.7715690657130083/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_beachhaven_ver01:data:sn85025061:00513684939:1820011101:0283/pct:11.620572537603106,55.73599523241955,16.721251819505095,2.774880810488677/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7058,7 +7058,7 @@ Thy sober Autumn fading into age,
 And pale concluding Winter comes at last,  
 And shuts the scene
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025001:00414216328:1823050601:0362/pct:25.59629761480954,16.253853513341127,17.586329654681382,4.4328691400021265/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025001:00414216328:1823050601:0362/pct:25.591742302900872,16.252125850340136,17.58913211128908,4.435941043083901/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7082,7 +7082,7 @@ Thy sober Autumn fading into atre.
 And pale concluding Winter comes at last,  
 And shuts the scene
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1823051401:0522/pct:27.149899580062076,27.800094517958414,18.13036333759357,5.801039697542533/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1823051401:0522/pct:27.15598563690585,27.807971014492754,18.142535451281116,5.801039697542533/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7098,7 +7098,7 @@ And shuts the scene
 If parts allure thee—think how Bacon shin’d  
 The wisest, brightest, meaneM of inanktud
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025001:00414216328:1823052701:0398/pct:7.9392776129820275,43.049376017362995,16.80335020066306,1.2045577862181227/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025001:00414216328:1823052701:0398/pct:7.937892533147243,43.044704861111114,16.806234007908817,1.2080439814814814/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7160,7 +7160,7 @@ THE WEATHER.
 “ ’Tis raging noon ; and, vertical, the Sun  
 Darts on the head direct his forceful rays
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021206:00517171955:1825072701:0018/pct:104.94636471990465,24.091909741331865,17.302344060389352,2.3665382498624106/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021206:00517171955:1825072701:0018/pct:81.3404495535256,18.674912916755527,13.409627424817819,1.8447430155683515/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7260,7 +7260,7 @@ Thy sober autumn, fading into age,
 And pale concluding AN&#x27;inter comes at last,  
 jfnd shuts the scene
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216390:1828050701:0444/pct:25.471698113207548,34.6840328027014,17.684391080617495,2.1345875542691752/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216390:1828050701:0444/pct:25.467329789058482,34.67985047630532,17.687074829931973,2.1383496121226737/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7334,7 +7334,7 @@ Darts on the head direct his forceful rays ;”
 And on my throbbing temples, potent thus  
 Benn not so fierce.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021207:0051717192A:1831122101:0044/pct:26.31878557874763,61.143021252153936,13.851992409867172,1.4933946008041357/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021207:0051717192A:1831122101:0044/pct:20.401960784313726,47.390288236821604,10.745098039215685,1.15739882034351/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7862,7 +7862,7 @@ And f esh bedewred with ever spouting streams.
 Walks coolly calin; while all the world without,  
 Unsatistied and sick, tosses in noon.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530200:1844073101:0416/pct:48.160429496289275,97.6246197051252,32.38591504816043,10.531242686637023/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530200:1844073101:0416/pct:16.053476498763093,32.541539901708404,10.795305016053476,3.5104142288790077/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7889,7 +7889,7 @@ Sits coolly calm; while all the world without.
 Unsatisfied, and sick, tosses in noon.&quot;  
 The birds refuse to sing, and the insects are a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530200:1844080201:0421/pct:2.2482435597189694,151.6443927948867,41.28024980483997,18.31493317838466/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530200:1844080201:0421/pct:0.7494145199063232,50.5481309316289,13.76008326827999,6.10497772612822/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8101,7 +8101,7 @@ Beneath the whole collected shade reclines.&quot;
  ThomPsON.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn89080032:00415668132:1846080401:0026/pct:113.32560834298957,43.8749194068343,36.3702201622248,6.382978723404255/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn89080032:00415668132:1846080401:0026/pct:37.78614894233556,14.624973135611434,12.126919733410606,2.127659574468085/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8176,7 +8176,7 @@ Thy sober Autumn lading into age, - &#x27;
 And pale, concluding Winter, comes at hut  
 And shuts the scene
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664291:1846120401:0204/pct:85.5111111111111,17.22652885443583,11.97037037037037,2.0097616996841805/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664291:1846120401:0204/pct:85.5111111111111,17.232909050307846,11.980246913580247,2.0097616996841805/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8680,7 +8680,7 @@ Thy sober Autumn fading into age.
 And pale concluding Winter comes at last,  
 And shutsthe scene &quot;—Thomson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215877:1851122301:0101/pct:82.50308378404023,12.850435022786908,12.610304582977513,5.8141140726419005/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215877:1851122301:0101/pct:82.49525616698293,12.849547745632812,12.612270714737507,5.8160141775414855/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8711,7 +8711,7 @@ A Wife&#x27;s Power.—The power of a wife
 for good or evil, is irresistible. Home must  
 1-e the seal of happiness, nr it must be for
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624268:1852010701:0205/pct:34.47664104080426,39.64946029710377,14.591957421643997,11.200170994977023/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624268:1852010701:0205/pct:34.481569091267495,39.65302269245841,14.596885472107234,11.207295785686295/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8801,7 +8801,7 @@ Thy sober autumn fading into age,
 And pale concluding winter comes ut last,  
 And shuts the scene.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661526:1853123101:0348/pct:3.199244060475162,31.078337073848456,13.363930885529157,5.642834241744149/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661526:1853123101:0348/pct:3.199244060475162,31.08546186455773,13.363930885529157,5.642834241744149/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8857,7 +8857,7 @@ summer&#x27;s ardent strength, thy softer autumn fa-
 ■ding into age, and pale concluding winter comes  
 at last and shuts the scene.” So says the poet
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn85025594:00383347348:1854071801:0040/pct:4.6776571505160165,22.390053431976984,12.384398874145557,1.8187422934648583/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn85025594:00383347348:1854071801:0040/pct:4.686592503239066,22.39690368543636,12.388866550507082,1.81189204000548/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8917,7 +8917,7 @@ immortal, never failing fr end of man.
 Hi* guide to happiness on high. And see!  
 Tis come, the gtorioos morn, the second binb
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kuvasz_ver02:data:sn83045462:0028065405A:1855012501:0023/pct:2.019564531397917,4.540211806647793,16.156516251183337,7.64391318024536/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kuvasz_ver02:data:sn83045462:0028065405A:1855012501:0023/pct:2.0235089933733037,4.542833176051169,16.16440517513411,7.64391318024536/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9051,7 +9051,7 @@ And pale concluding Winter, comes at last,
 1 suts the aeld.  
  eeo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn85055197:00280776373:1857021301:0087/pct:85.1373182552504,55.82107843137255,50.72697899838449,19.607843137254903/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn85055197:00280776373:1857021301:0087/pct:21.28862855988689,13.955269607843137,12.684306200767521,4.901960784313726/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9192,7 +9192,7 @@ Your distant prospects all precarious arc,
 And Fortune is as fickle .&#x27;W she&#x27;s fair.  
 No trivial io?«\ tiof trivinl gain despiso
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027253:00279528517:1857080101:0002/pct:5.960930767020971,43.08619390939417,11.720769893708704,4.293554288173894/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027253:00279528517:1857080101:0002/pct:5.960930767020971,43.08619390939417,11.730345686105526,4.293554288173894/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9323,7 +9323,7 @@ As to the hunted hart the the sallying spring,
 or stream full flowing, that his swelling sides  
 Leaves, as he floats along the herbaged brink
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn82014141:00279529455:1858082601:0395/pct:46.7679019225411,73.40951932139491,86.4446921147952,213.57210179076344/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn82014141:00279529455:1858082601:0395/pct:15.589300640847032,24.469839773798302,28.814897371598402,71.19070059692115/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9352,7 +9352,7 @@ parting
 under the mighty shadow of the Seirra  
 Nevada; perhaps the turf of som
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn82014141:00279529455:1858082601:0395/pct:107.43939816104765,63.19509896324222,58.72109222624687,15.056550424128181/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn82014141:00279529455:1858082601:0395/pct:35.813132720349216,21.065032987747408,19.573697408748956,5.018850141376061/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9374,7 +9374,7 @@ Thy sober Autumn fading into age,
 And pale concluding Winter comes at last,  
 And shuts the soene.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774947:1858112501:0816/pct:24.556962025316455,195.00069051236017,57.80590717299578,19.22386410716752/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774947:1858112501:0816/pct:6.141831996623048,48.75017262809004,14.457577036724356,4.80596602679188/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9424,7 +9424,7 @@ Till pale, coneluding winter comes at last,
 And shuts the scene.Thomson.  
 THE NEW YEAR
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1859010701:0643/pct:15.926493108728943,47.87327662070989,98.31546707503828,334.52625403344086/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1859010701:0643/pct:3.983911128136372,11.968319155177472,24.592989848687992,83.63156350836022/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9471,7 +9471,7 @@ besides Sundays, since General Conference. The
 two days were the fourth of July this year and  
 last, and the half day was employed in adjustin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517016536:1859072801:0245/pct:58.12129940790526,69.17393410852713,12.417986877900464,8.345445736434108/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517016536:1859072801:0245/pct:58.112,69.16555649751726,12.42,8.347462758871261/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9514,7 +9514,7 @@ Who keeps his tempered mind serene and pure,
 And every passion aptly harmonized,  
 Amid a jarring world with vice inflamed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn86092535:00202190649:1859081301:0154/pct:6.223306894447834,42.243744955609365,63.717714053284524,70.52461662631154/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn86092535:00202190649:1859081301:0154/pct:1.5558267236119585,10.560936238902341,15.929428513321131,17.631154156577885/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9620,7 +9620,7 @@ A mortal man unfold all nature’s law.
 Admired such wisdom in the human shape.  
 And showed a Newton as we show an ape.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_bia_ver01:data:sn83021205:00517172017:1860052301:0485/pct:38.91385036139871,19.0014064697609,15.80386794295761,3.009845288326301/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_bia_ver01:data:sn83021205:00517172017:1860052301:0485/pct:30.15897047691143,14.729498964502417,12.25839010850366,2.3325945572793665/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9793,7 +9793,7 @@ forgiving sets you above him.
   
 So you are going to teac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn87058042:00279529340:1864040801:0944/pct:5.682560418027433,20.265540132770067,14.38602220770738,3.9589619794809896/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn87058042:00279529340:1864040801:0944/pct:5.688003483561942,20.269563468115066,14.380579142172872,3.9589619794809896/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9811,7 +9811,7 @@ The wise man draws more ad­
 vantage from his enemies than  
 the fool from his friends.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn87058042:00279529340:1864040801:0944/pct:5.682560418027433,30.59746529873265,14.369693011103854,2.269161134580567/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn87058042:00279529340:1864040801:0944/pct:5.688003483561942,30.59746529873265,14.369693011103854,2.2812311406155703/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9848,7 +9848,7 @@ him; forgiving sets you above him,
   
 rOs 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn85026002:0028077506A:1864041101:0285/pct:75.97765363128492,17.41654571843251,89.94413407821229,366.11030478955007/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn85026002:0028077506A:1864041101:0285/pct:19.007686932215233,4.354136429608127,22.501747030048918,91.52757619738752/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9867,7 +9867,7 @@ his enemies than the fool from his friends.
 Declaiming against pride, is not alwaysa  
 sign of humility.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn85026002:0028077506A:1864041101:0285/pct:138.73370577281193,124.31059506531204,57.076350093109866,15.820029027576197/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn85026002:0028077506A:1864041101:0285/pct:34.70766363848125,31.07764876632801,14.279058933146983,3.9550072568940493/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9940,7 +9940,7 @@ Night is far off, ami hotter hours approach.”
 On the other hand, tho approach of  
 the summer season at tho North is hail
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033221:00514152366:1866102701:0119/pct:45.68143578238923,48.934118907337975,11.918115535614133,6.0203535083020885/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033221:00514152366:1866102701:0119/pct:45.686109553187514,48.941260489198356,11.922789306412414,6.0203535083020885/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9989,7 +9989,7 @@ Great good natifre without prudence, is a
 great misfortune.  
 Keep conscience clear, then never fear
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340639:1867022201:0035/pct:84.86948114727683,82.51560014682491,11.118272639381244,6.87630001223541/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340639:1867022201:0035/pct:84.85580795875624,82.50550526058234,11.120509102626068,6.8785172498164915/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10063,7 +10063,7 @@ Thy sober Autumn fading into age,
 And pale concluding Winter comes at last,  
 And shuts the scene.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn82014296:00296022135:1868021801:0036/pct:83.32114118507681,143.04404709986918,55.596196049743966,13.315888937345544/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn82014296:00296022135:1868021801:0036/pct:20.83790706183681,35.761011774967294,13.904134650567142,3.328972234336386/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10159,7 +10159,7 @@ Nor lay wagers, nor lend.
 And you may depend  
 You&#x27;ll have peace to your end
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028821:00280775484:1870101301:0104/pct:37.51714677640604,107.28761240102,8.299039780521262,1.6239430948865925/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028821:00280775484:1870101301:0104/pct:28.142685645686846,80.47241980942155,6.24249699879952,1.2213125754932224/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10175,7 +10175,7 @@ You&#x27;ll have peace to your end
 ’Tis noon; and vertical the sun  
 Darts on the head direct his forceful rays
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624530:1872070601:0408/pct:77.834179357022,22.037827943868212,13.77326565143824,0.9517998779743746/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624530:1872070601:0408/pct:60.32259474581458,17.08224316741796,10.678847751016304,0.7439397282728619/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10202,7 +10202,7 @@ Mole-hills to mountains, if oft heaped willrise;
 Weigh every small expense and nothing waste,  
 Farthings long saved amount to pound at last
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023296:00200296114:1873042401:0063/pct:27.128862094951018,131.90990756411927,49.208741522230596,28.59002734019008/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023296:00200296114:1873042401:0063/pct:6.784771956275914,32.977476891029816,12.306822465133811,7.14750683504752/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10225,7 +10225,7 @@ Unsatisfied and sick, tosses at noon.&quot;
 Home Again. The Republican Standard of New  
 Bedford, Jane 5th, says 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_ariel_ver01:data:sn82015418:00212474289:1873072601:0230/pct:76.97335344394168,84.22411011936768,16.289592760180994,5.011291536724379/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_ariel_ver01:data:sn82015418:00212474289:1873072601:0230/pct:57.73727215587681,63.16808258952575,12.218730358265242,3.7638455747929886/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10245,7 +10245,7 @@ virtue of- thrift ; and I believe there are few I
 persons who, if they please to reflect on their  
 own past lives, will not find that, had they 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_Cypher_ver01:data:sn86086284:00280762015:1873082401:0756/pct:51.35408245755861,76.40523959542364,24.454324979789813,4.5929364947769855/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_Cypher_ver01:data:sn86086284:00280762015:1873082401:0756/pct:34.242975540731756,50.92838196286472,16.312916919345056,3.066976127320955/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10284,7 +10284,7 @@ one alike to practise tho virtue of thrift;
 1 they please to reflect on their own past  
 lives, will find that, had they saved al
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn83032041:00212477692:1873091201:0547/pct:25.8349086326402,95.00793360185524,18.06868304977946,4.61369461735628/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn83032041:00212477692:1873091201:0547/pct:19.37923428391366,71.25595020139143,13.565463998739562,3.4663737336750886/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10317,7 +10317,7 @@ waste.
 Farthings long saved amount to pounds at  
 last
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn88061082:00212470314:1873092001:0363/pct:19.20353982300885,19.556406214816484,13.244837758112094,8.8493582526458/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn88061082:00212470314:1873092001:0363/pct:14.414281498967247,14.67011934249043,9.929182649749189,6.642648052240486/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10404,7 +10404,7 @@ j strength, sombre Autumn fading into
 age, and pale, concluding W inter comes  
 at last and shuts the scene.&quot; Ou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jimmy_ver02:data:sn88061082:00296020606:1876112501:0197/pct:8.33792723263506,121.11696758999663,13.35446527012128,4.878322305708198/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jimmy_ver02:data:sn88061082:00296020606:1876112501:0197/pct:6.259478836343582,90.83772569249747,10.023438577140494,3.6671526298082315/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10608,7 +10608,7 @@ good.
 Presumption first blinds a man, then  
 sets him a running
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn84022991:00513688088:1878031201:0433/pct:58.57201309328969,32.96007072344187,13.03191489361702,2.239575659348755/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn84022991:00513688088:1878031201:0433/pct:58.57201309328969,32.969893423702175,13.052373158756138,2.2297529590884535/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10627,7 +10627,7 @@ The wise man draws more advantage
 from his enemies, than the fool from Ins  
 friends
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn84022991:00513688088:1878031201:0433/pct:58.5924713584288,36.6288492706645,13.113747954173487,2.6668631206718727/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn84022991:00513688088:1878031201:0433/pct:58.60611020185488,36.638671970924804,13.113747954173487,2.6668631206718727/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10665,7 +10665,7 @@ The wise man draws more advantage
 from his enemies than the fool from his  
 friends
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jay_ver01:data:sn87091094:00202197462:1878031301:0307/pct:103.38201383551115,61.25225600444259,16.102997694081477,18.908788004997916/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jay_ver01:data:sn87091094:00202197462:1878031301:0307/pct:77.58123437800423,45.93919200333195,12.09382810997885,14.188532555879494/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10693,7 +10693,7 @@ The wise man draws more advantage
 from his enemies than the fool from his  
 friends
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_iceberg_ver01:data:sn83025668:00415629230:1878032101:0840/pct:327.28682170542635,289.9707368981112,49.689922480620154,34.53046022878425/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_iceberg_ver01:data:sn83025668:00415629230:1878032101:0840/pct:81.82170542635659,72.4926842245278,12.422480620155039,8.632615057196062/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10710,7 +10710,7 @@ perance advocate shall do his duty.
 Drink does not drown care, but  
 waters it and makes it grow,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777833:1878032201:0682/pct:341.46520146520146,382.8498655723787,43.58974358974359,8.037356728456205/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777833:1878032201:0682/pct:85.36630036630036,95.71246639309467,10.897435897435898,2.009339182114051/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10735,7 +10735,7 @@ The wise man draws more advan
 tage from his enemies than the fool  
 from his friends
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_ettabaker_ver02:data:sn84026913:00237288117:1878042501:0335/pct:241.7147154675357,123.19743299358248,46.527951867636,25.00943752359381/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_ettabaker_ver02:data:sn84026913:00237288117:1878042501:0335/pct:80.57157182251191,41.06581099786083,15.509317289212,8.33647917453127/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10757,7 +10757,7 @@ The wise man draws more advan­
 tage from his enemies than the fool  
 from his friends
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775253:1878050201:0083/pct:37.43438320209974,8.904196963898457,14.698162729658792,4.579665773695624/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775253:1878050201:0083/pct:28.08859721082855,6.684526087511162,11.025430680885972,3.4315601479780584/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10815,7 +10815,7 @@ without
 Unsatisfied and sick, tosses at noon.&quot;  
 Then send it to market in the famil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_grandfather_ver01:data:sn85042098:00415667413:1878070401:0248/pct:63.46471885336273,84.79561316051844,18.81201764057332,6.42073778664008/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_grandfather_ver01:data:sn85042098:00415667413:1878070401:0248/pct:47.615108905431484,63.59920239282154,14.116349600220568,4.81555333998006/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10860,7 +10860,7 @@ The wise man draws more advant­
 age from hisjenemies than the fool  
 from his friend
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_garfield_ver01:data:sn89067274:00294556266:1878071101:0489/pct:20.998739760554507,12.396408839779005,14.445494643982357,4.327808471454881/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_garfield_ver01:data:sn89067274:00294556266:1878071101:0489/pct:15.760441292356186,9.300184162062616,10.843183609141056,3.24585635359116/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10898,7 +10898,7 @@ sets him running. 1
 Drink does not drown care, but waters  
 it and makes it grow faster
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349530:1878091301:0356/pct:61.64675069569488,91.35658914728683,11.491242429202815,2.144702842377261/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349530:1878091301:0356/pct:61.636661211129294,91.34478749515567,11.493453355155482,2.1476553416871207/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10931,7 +10931,7 @@ x tx X
 Drink does not drown care, but waters  
 it and makes it grow faster
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762337:1878100801:0344/pct:38.962279166003505,46.58521686010996,10.711443577908643,4.141722663408674/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762337:1878100801:0344/pct:38.9702371478593,46.594379963347585,10.715422568836543,4.141722663408674/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10968,7 +10968,7 @@ Havinir been iioor ia no shame, but
 being ashamed of it is.  
 The wiso man draws more advantag
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_ireland_ver01:data:sn84022644:00295867553:1878101801:0671/pct:66.98053986189579,81.22412008281573,14.548022598870057,18.827639751552795/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_ireland_ver01:data:sn84022644:00295867553:1878101801:0671/pct:50.259067357512954,60.92132505175984,10.927932171455488,14.130434782608695/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10993,7 +10993,7 @@ being ashamed of it is.
   
 The wise man draws more advantag
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_camas_ver01:data:sn83045610:00202198223:1878102401:0163/pct:61.23907863383638,57.72246846232527,50.43685464654488,20.831912717354246/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_camas_ver01:data:sn83045610:00202198223:1878102401:0163/pct:15.309769658459095,14.430617115581317,12.60921366163622,5.2079781793385616/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11076,7 +11076,7 @@ ickness.
 Drink does not drown care but wat­  
 ers it and makes it grow faster.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035083:00296027194:1879022001:0374/pct:8.930652680652681,89.77339438769519,13.752913752913752,1.9725255371609722/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035083:00296027194:1879022001:0374/pct:6.7026081888387,67.33591640248913,10.316188255864782,1.479394152870729/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11095,7 +11095,7 @@ The wise man draws more advan­
 tage from his enemies, than the fool  
 from his friends.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035083:00296027194:1879022001:0374/pct:8.857808857808857,97.0059880239521,14.044289044289044,3.3814723494188095/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035083:00296027194:1879022001:0374/pct:6.644324639370538,72.76036162968181,10.549322453737433,2.536104262064107/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11111,7 +11111,7 @@ from his friends.
 &#x27;Tis raging noon, and vertical the sun  
 Darts on the head direct his forceful ray
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_charlie_ver01:data:sn83045160:00280779568:1879061101:0493/pct:84.43243243243244,323.93686979395,32.75675675675676,2.411223147742218/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_charlie_ver01:data:sn83045160:00280779568:1879061101:0493/pct:21.116668919832364,80.9842174484875,8.192510477220495,0.6028057869355545/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11131,7 +11131,7 @@ You&#x27;ll have peace to your end.&quot;
 I cannot say quite so much as that old rhyme  
 does, for there&#x27;s more than that wanted t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_bittern_ver01:data:sn86072040:no_reel:1879101801:0889/pct:193.22060682680151,146.5205288796103,33.881163084702905,7.724425887265136/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_bittern_ver01:data:sn86072040:no_reel:1879101801:0889/pct:64.40686894226717,48.840176293203434,11.293721028234302,2.5748086290883787/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11260,7 +11260,7 @@ glooms.
 And reigns tremendous o&#x27;er the conquered  
 year
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524706:1883032201:0478/pct:37.558175612783124,37.33501664179961,10.983555693453305,2.8348444852519226/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524706:1883032201:0478/pct:37.552349930200094,37.33073215515263,10.985729796804716,2.8373881110856094/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11331,7 +11331,7 @@ And reigns tremendous o&#x27;er the conquered year.
 And on my throbbing temples potent thus,  
 Beam not so fierce!’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:00414210168:1886052301:0198/pct:21.30090041661067,81.34393483952293,12.148904717107916,1.153883448075245/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:00414210168:1886052301:0198/pct:21.309859785871076,81.34393483952293,12.148904717107916,1.157115614596464/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11358,7 +11358,7 @@ heat, O intermit thy wrath,
 And on my throbbing temples potent thus.  
 Seam nots nerce.-I homson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_dracula_ver01:data:sn85052141:0020653364A:1886090301:0540/pct:31.684782608695652,96.49968560050304,41.630434782608695,3.6470341647453366/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_dracula_ver01:data:sn85052141:0020653364A:1886090301:0540/pct:7.923348736069584,24.12492140012576,10.410437618918184,0.9117585411863341/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11376,7 +11376,7 @@ i.
 And on my throbbing temples potent thus.  
 Beam not so fierce.”—Thomson’s &quot;Seatons.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588307:1886090401:0273/pct:10.505581089954038,35.190793458509994,17.662508207485228,1.9987886129618413/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588307:1886090401:0273/pct:8.147687436390365,27.276639023626977,13.70575596517019,1.5529651071819746/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11546,7 +11546,7 @@ And restless turn, and look around for night;
 WHEN THOMPSON WROTE &quot;THE &quot;SEA­  
 SONS&quot; HE MUST HAVE HAD A premoni
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_rottweiler_ver01:data:sn83045462:0028065467a:1887072301:0386/pct:38.06245389722154,34.238099990020956,11.052372756331449,5.638159864285002/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_rottweiler_ver01:data:sn83045462:0028065467a:1887072301:0386/pct:38.06860093434965,34.240594751022854,11.0554462748955,5.64564414729069/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11570,7 +11570,7 @@ Night is far off. and hotter hours approach.**
 WHEN THOMPSON WROTE &quot;THE &quot;SEA­  
 SONS&quot; HE MUST HAVE HAD A PREMONI
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_rottweiler_ver01:data:sn83045462:0028065467a:1887072501:0392/pct:14.70226377952756,57.49571529388043,10.78986220472441,5.756628692408509/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_rottweiler_ver01:data:sn83045462:0028065467a:1887072501:0392/pct:14.705339566929133,57.50075612460934,10.79601377952756,5.754108277044057/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11594,7 +11594,7 @@ Night is far off, and hotter hours approach.&quot;
 WHEN THOMPSON WROTE &quot;THE &quot;SEA­  
 SONS&quot; HE MUST HAVE HAD A premoni
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_rottweiler_ver01:data:sn83045462:0028065467a:1887072601:0396/pct:39.35145678410338,50.9136546184739,10.642447884920152,5.682730923694779/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_rottweiler_ver01:data:sn83045462:0028065467a:1887072601:0396/pct:39.354504449591616,50.916164658634536,10.654638546873095,5.687751004016064/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11618,7 +11618,7 @@ Night is far off, and hotter houraapproach.&quot;
 WHEN THOMPSON WROTE &#x27;THE &quot;SEA­  
 SONS&#x27;&#x27; HE MUST HAVE HAD A PREMONI
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_rottweiler_ver01:data:sn83045462:0028065467a:1887072701:0399/pct:14.32449105490438,48.97794784009667,10.709438618136952,5.7093948242875845/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_rottweiler_ver01:data:sn83045462:0028065467a:1887072701:0399/pct:14.32449105490438,48.98046520994865,10.718692165330044,5.7144295639915414/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11642,7 +11642,7 @@ Night is far off, and hotter hours approach.&quot;
 WHEN thompson WROTE &#x27;THE &quot;SEA­  
 SONS&quot; HE MUST HAVE HAD A PREMONI
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_rottweiler_ver01:data:sn83045462:0028065467a:1887072801:0403/pct:14.167694204685573,49.59669288162936,10.702836004932182,5.636216979229683/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_rottweiler_ver01:data:sn83045462:0028065467a:1887072801:0403/pct:14.167694204685573,49.59669288162936,10.705918618988903,5.6387376487195/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11663,7 +11663,7 @@ Thy sober autumn fading Into ago
 And pale, concluding winter comes at hist  
 And shuts the scene
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:0027952472A:1887120101:0229/pct:78.4837159636946,39.44353518821604,13.96155899626268,2.8269602737687842/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:0027952472A:1887120101:0229/pct:78.46277021617294,39.43766736090449,13.96450493728316,2.830258851532282/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11779,7 +11779,7 @@ And on my throbbing temples potent
 thus  
 Beam not so fierce. —Thompson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059533:00393349098:1889072001:0572/pct:73.31150930392833,19.590903315970017,11.543762922122674,3.2651505526616695/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059533:00393349098:1889072001:0572/pct:73.29888027562446,19.588414634146343,11.546080964685617,3.267911585365854/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11831,7 +11831,7 @@ Pitch upon that course of life which is most
 excellent, and habit will soon render it the  
 most easy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685142:1890041001:0293/pct:5.883510428964974,81.15447598253274,21.29083038173947,12.622816593886462/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685142:1890041001:0293/pct:5.882352941176471,81.14340291990722,21.29319955406912,12.625642425069358/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11858,7 +11858,7 @@ most easy
 &quot;And vertical the sun  
 Darts on the head direct his forceful rays
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_franco_ver01:data:sn84024546:00237280143:1890070901:0098/pct:100.18832391713748,22.2250444500889,19.55430006277464,1.7399034798069597/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_franco_ver01:data:sn84024546:00237280143:1890070901:0098/pct:75.16483516483517,16.6751333502667,14.678178963893249,1.3081026162052325/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12034,7 +12034,7 @@ makes it grow faster.
 ’Tis a laudable ambition that aims at being  
 better than his neighbors
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685142:1891080601:0591/pct:50.388833499501494,49.37346771996731,21.335992023928217,2.9964587305911197/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685142:1891080601:0591/pct:50.378787878787875,49.36674383766853,21.338383838383837,3.000590131190703/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12051,7 +12051,7 @@ Different sects like different clocks may be
 all near the matter, tho’ they don’t quite agree.  
 Love and tooth-ache
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685142:1891080601:0591/pct:50.34895314057827,65.02315445382729,21.3160518444666,2.3154453827295014/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685142:1891080601:0591/pct:50.33891547049442,65.0142993326978,21.318447634237106,2.319669526533206/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12088,7 +12088,7 @@ makes you even with him; forgiving it sets
 you above him.” This spirit of gloominess  
 and thoughts of revenge leave their trace
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_disco_ver01:data:sn86063465:00199919751:1892012101:0223/pct:67.82550559919773,38.39880386026913,14.842052482032425,2.949571836346337/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_disco_ver01:data:sn86063465:00199919751:1892012101:0223/pct:67.83107694021952,38.40333469258303,14.842052482032425,2.9541026686602327/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12347,7 +12347,7 @@ of everyone to practice thrift.-BudgetT.
 Ameition is a lottery, in which,  
 though there are many blanks, ther
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn86071719:00280777717:1894041801:0552/pct:325.2232142857143,204.7682511476381,50.0,55.145861098770915/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn86071719:00280777717:1894041801:0552/pct:81.30580357142857,51.192062786909524,12.5,13.786465274692729/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12564,7 +12564,7 @@ Man:&quot;”
 If parts allure thee, think how Bacon shin&#x27;d,  
 The wisest, brightest, meanest of mankind
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_elderbrain_ver03:data:sn92064073:00514153784:1898011801:1029/pct:31.153997636864908,90.1762704875786,11.907575160824472,2.5770539119678384/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_elderbrain_ver03:data:sn92064073:00514153784:1898011801:1029/pct:31.158373812962232,90.1762704875786,11.907575160824472,2.583926055733086/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12591,7 +12591,7 @@ Eye Remedies.
   
 One of the simplest and best reme
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_dysprosium_ver01:data:sn88076998:00199918163:1898021801:0955/pct:42.76754214033712,66.04734379300854,17.306938455507645,6.262042389210019/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_dysprosium_ver01:data:sn88076998:00199918163:1898021801:0955/pct:34.22359274551822,52.840575455079275,13.845188940573877,5.009541984732825/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12713,7 +12713,7 @@ And restless turn, and look around for
 night.  
 Night Is far off; and hotter hours approach
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ash_ver01:data:sn84020358:0041562119A:1898070201:0015/pct:23.402182385035076,62.89850833577069,16.543257989088076,13.351857268207079/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ash_ver01:data:sn84020358:0041562119A:1898070201:0015/pct:17.56335282651072,47.17753729160573,12.417153996101364,10.01754899093302/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12792,7 +12792,7 @@ SEASONABLE RIMES.
 Tis raging noon; and vertical the sun  
 Darts on the head direct his forceful rays
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685166:1899060801:0562/pct:50.98039215686274,8.91430646332607,38.90196078431372,87.05519244734931/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685166:1899060801:0562/pct:50.967067433350756,8.912688328190233,38.89832723470988,87.0439281176257/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12813,7 +12813,7 @@ Pour&#x27;d on the head profhse. In vain I sigh,
 And restless turn, and look around for night;  
 Night is far off; and hotter hours approach
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685166:1899060801:0562/pct:75.6078431372549,12.381989832970225,15.947712418300654,3.195352214960058/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685166:1899060801:0562/pct:75.5880815473079,12.379742239970957,15.950078410872974,3.199310219640588/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

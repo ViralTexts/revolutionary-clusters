@@ -69,7 +69,7 @@ were Speakers &amp; Mavers at said Meeting, &amp;c. I suppose there
 is some Intention of (cizing Persons, and perhaps of fending  
 them hither.” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774042901:0242/pct:11.33752438760026,36.00512528473804,26.51203121612833,5.196469248291572/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774042901:0242/pct:11.33752438760026,36.00512528473804,26.526483127393597,5.205960516324981/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

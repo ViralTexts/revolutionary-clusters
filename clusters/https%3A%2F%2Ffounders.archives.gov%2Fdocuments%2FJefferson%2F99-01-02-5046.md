@@ -140,7 +140,7 @@ a luperior force.
 1 have tlie honor to be,  
 Wit&#x27;n great r&lt;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807021801:0002/pct:59.36900447665743,25.904269785150937,18.674056704327434,54.28338319282023/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807021801:0002/pct:59.38321608754352,25.913335146405583,18.674056704327434,54.28338319282023/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -220,7 +220,7 @@ Your obedient /errant,
 (Signed)  
 SAMUEL BARRON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1807030301:0376/pct:39.58485069191551,53.087478559176674,18.00801165331391,34.881156579269785/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1807030301:0376/pct:39.577644274531224,53.08097513169178,18.010801626312276,34.880966964759686/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -441,7 +441,7 @@ I bave the honor to be, with great .
 refped, your obedient servant, -  
 (Signed) SAMUEL BARRON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1807031701:0463/pct:76.35737756219685,33.881513770556765,17.665467063057424,55.44878145432931/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1807031701:0463/pct:76.36259323006311,33.88481606234727,17.665467063057424,55.44878145432931/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -547,7 +547,7 @@ you yesterday, that the French government
 was disposed to promote, as far as it might  
 be in its power, the success of the mission o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216146:1811112301:0438/pct:53.71295371295371,59.17026284817575,21.37862137862138,3.3346410357002747/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216146:1811112301:0438/pct:53.70401198601631,59.16446013533392,21.380611508795294,3.337582949233435/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -583,7 +583,7 @@ ment was 4is)y&gt;*e&lt;i to promote as far as it
 might lie in its power, the success of the mis­  
 sion of the sp-rcinl minister of the U. State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811122601:0423/pct:21.314160902803057,9.736688121708601,17.091372406261375,15.389116442363955/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811122601:0423/pct:21.310282074613283,9.735548794757781,17.094328177130723,15.391216163507293/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

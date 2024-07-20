@@ -63,7 +63,7 @@ be with great consider At ion and estecmj
 Sir,  
 \our most obedient servants
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807022001:0002/pct:78.77094972067039,23.723072754369326,18.693596905887407,16.52892561983471/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807022001:0002/pct:78.77094972067039,23.727588854265456,18.71508379888268,16.533441719730842/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -92,7 +92,7 @@ the honor to be with great coi.lidcration anti
 etteem, fir,  
 Your moft obed ent frvants
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1807022401:0367/pct:61.47931160746979,37.85492870427775,17.557671182716952,8.394296342219468/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1807022401:0367/pct:61.46805784367564,37.85023555665757,17.56055891146501,8.397388213901975/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -133,7 +133,7 @@ T&#x27;: 1 -Your most&#x27;obedient servants, Suy^:&quot;! ’
 . . ■ - - - &gt; WlUUJI PtHCKSt*t, -  
 James Madison, ’ 1 ‘ 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807022701:0390/pct:73.820281124498,3.5685320356853203,21.987951807228917,11.581508515815084/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807022701:0390/pct:73.80175658720201,3.5679532922478105,21.98870765370138,11.583684722672722/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -264,7 +264,7 @@ verament in such measures us may have
 reference to the subject. We have die  
 honor to be, with great consideratio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1807030601:0728/pct:30.63087991145545,36.169111302847284,20.28223574986165,10.595340811044004/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1807030601:0728/pct:30.62240663900415,36.16287094547964,20.283540802213,10.597826086956522/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -295,7 +295,7 @@ commaunricate to you this interesting intelli­
 fideration and effeem, fir,  
 | Your mofl chedient servants
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1807031001:0460/pct:24.957104975822805,26.387643248629796,17.31399157697707,10.034877927254609/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1807031001:0460/pct:24.957104975822805,26.39428666334496,17.31399157697707,10.028234512539445/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -332,7 +332,7 @@ We have the honor to be, with great
 consideration and esteem, Sir,  
 Your most obedient servants
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1807031201:0017/pct:8.186827604303332,7.438411863190624,54.50013119916033,86.74958143984692/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1807031201:0017/pct:8.184679958027282,7.43663318986131,54.494578523959426,86.73680854455603/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -381,7 +381,7 @@ subject. We bare the honor to be, with
 great consideration and esteem, sir,  
 Your most obedient servants s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216067:1807100201:0481/pct:23.01920768307323,5.294635004397537,23.4093637454982,28.0650835532102/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216067:1807100201:0481/pct:23.01575393848462,5.2941693782428985,23.410852713178294,28.065546858968723/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -413,7 +413,7 @@ ference to the subject. We have the honour to be
 with great consideration and esteem, sir,  
 Your most obedient servants, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807100701:0763/pct:50.840029218407594,82.51703915042003,20.988556123691257,11.301315580916151/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807100701:0763/pct:50.82765335929893,82.5039619651347,20.989532619279455,11.303486529318542/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -444,7 +444,7 @@ We have the honour to be, with great consid­
 eration and esteem, sir, 1  
 Your most obedient Errant*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1807101201:0273/pct:7.884517980752997,59.35218508997429,17.913219652203274,9.37789203084833/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1807101201:0273/pct:7.883187035786631,59.34608266502159,17.914415935178933,9.379498252107753/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -555,7 +555,7 @@ ference to the subject. We have the honour to be
 I with great consideranon and esteem, sir,  
 Your must obedient servants
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807110201:0807/pct:3.985600411416817,55.15230071289695,23.116482386217537,11.487362281270252/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807110201:0807/pct:3.9845758354755785,55.14336627247692,23.116966580976865,11.489551271666937/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -573,7 +573,7 @@ pleasure (say they) to inform you that wre have this
 day agreed with the British Commissioners to con­  
 clude a treaty, &amp;c.&quot; in other words “ we have th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807110201:0807/pct:4.885574697865775,75.85871678548283,22.113653895602983,3.1918340894361634/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807110201:0807/pct:4.884318766066838,75.84642799287218,22.11439588688946,3.195366920460068/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -691,7 +691,7 @@ With great consideration &amp; esteem,
 Sir,  
 Your most obedient servants
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808051201:0011/pct:7.807971014492754,10.694374049670552,33.278985507246375,86.8727825646224/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808051201:0011/pct:7.806556783191451,10.69301913087546,33.27899535108374,86.86599940875881/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

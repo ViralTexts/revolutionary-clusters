@@ -231,7 +231,7 @@ bloody:” but, he adds, torrents of sublime eloquence
 from Henry, backed by the solid r easoning of Johnson,  
 prevailed; and the resolution was carried hv a singl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826112401:0285/pct:76.4752040175769,20.06637430366244,17.671060891399875,1.611947374659239/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826112401:0285/pct:76.46320414247607,20.06399620763214,17.673518489460747,1.6157067235521845/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -269,7 +269,7 @@ under the control of the Governor, (we are bet­
 ter off) i do not know that this resolution ever ,  
 appeared in print.&quot; [See Wirt’s Life of Henry.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215609:1836011201:0264/pct:10.877154702160157,90.4953445065177,17.357626009164303,3.404096834264432/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215609:1836011201:0264/pct:10.87596814661285,90.4886042008044,17.359368750227265,3.40632603406326/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -297,7 +297,7 @@ and the latter to resi.t its encroachments on the
 rights of the people. The parallel runs oil all  
 fours, and fits tho present rase as though i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348859:1836020101:0606/pct:1.3152728700431882,41.08743570903747,15.528072241853161,9.46362968405584/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348859:1836020101:0606/pct:1.3150147203140334,41.08139876579489,15.529931305201178,9.46591243020864/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -599,7 +599,7 @@ the high style of their eloquence were, in
 the first days of the session, looked up to  
 as primi inter pares.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741935:1867072501:0093/pct:43.560195227765725,27.469163590528495,83.78524945770064,263.374448545962/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741935:1867072501:0093/pct:14.52006507592191,9.156387863509499,27.928416485900218,87.791482848654/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -889,7 +889,7 @@ and verified the saying of the philosopher,
 that no man must be called happy till he  
 is dead
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741935:1867072501:0093/pct:85.0732104121475,27.469163590528495,83.47342733188721,262.8972719906365/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741935:1867072501:0093/pct:28.357736804049168,9.156387863509499,27.824475777295735,87.63242399687884/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1215,7 +1215,7 @@ sistible that ho received great fees for
 his services, and had the reputation of  
 being insatiable iti money.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn84026844:00202190807:1867072901:0100/pct:38.20636010066347,24.154152343043243,12.262640128117136,14.800072371992039/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn84026844:00202190807:1867072901:0100/pct:38.21207961564859,24.158675592545684,12.279798673072523,14.813642120499367/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2834,7 +2834,7 @@ less than its indifference, and verrifled the
 saying of the philosopher, that no man must  
 be called happy till he is dead.-Philadel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_mateer_ver01:data:sn85055236:00212477904:1867080701:0092/pct:70.05347593582887,55.29131985731272,202.13903743315507,332.7586206896552/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_mateer_ver01:data:sn85055236:00212477904:1867080701:0092/pct:17.516714422158547,13.82282996432818,50.54441260744986,83.1896551724138/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2963,7 +2963,7 @@ onded these reselutlons succensively.
 They were eppesed by Randelph,  
 Pendicton, Nisheles W
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279520956:1867081701:0717/pct:85.82923558337059,131.0266774454325,40.43361645060349,210.6548100242522/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279520956:1867081701:0717/pct:21.452513966480446,32.75137407048173,10.106145251396647,52.65518913676043/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3386,7 +3386,7 @@ its indifference, and verifled the say
 ing of the philosopher, that no man  
 must be called happy till he is dea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279520956:1867081701:0717/pct:86.1868573983013,44.43007275666936,166.5847116674117,332.6273241713824/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279520956:1867081701:0717/pct:21.54189944134078,11.10572259941804,41.63687150837989,83.14338829615261/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3428,7 +3428,7 @@ irresistible that h* received great fetes
 for his services, and had the reputation  
 pf AoioginsariabJe^njmoney^&#x27;jj. -
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_datsun_ver01:data:sn85033526:00212472542:1867090501:0083/pct:70.08388847767087,49.91319444444444,11.904761904761905,23.505015432098766/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_datsun_ver01:data:sn85033526:00212472542:1867090501:0083/pct:64.83453784709015,46.172604532207224,11.01179155572461,21.748052102539702/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3458,7 +3458,7 @@ session, he would make up a party of
 poor hunters of his aeigbborhot  
 would go off with them to the piny. the indurated/cuticle, and the corns
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_datsun_ver01:data:sn85033526:00212472542:1867090501:0083/pct:70.13323464100667,56.34645061728395,21.218850234394274,7.966820987654321/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_datsun_ver01:data:sn85033526:00212472542:1867090501:0083/pct:64.87257512362115,52.120383036935706,19.627234689996197,7.37524534586332/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3508,7 +3508,7 @@ irresisflble that h«i&#x27; received great fees utes?&#x27;
 for bis services, and bad the reputation  
 of boiog insatiable in money-&#x27;&#x27;:D- -
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_datsun_ver01:data:sn85033526:00212472542:1867090501:0084/pct:70.13607944097095,56.24880199348284,12.480078460218218,17.002108491470192/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_datsun_ver01:data:sn85033526:00212472542:1867090501:0084/pct:64.88376488376488,52.030141843971634,11.547911547911548,15.73581560283688/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3569,7 +3569,7 @@ accuracy enough of idea in his head to
 raw a bill on the most simple subject  
 which would bear legal criticisin. He wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741935:1867112801:0538/pct:10.4919815167165,266.81018688164164,39.45365588475129,6.797361670941737/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741935:1867112801:0538/pct:3.497327172238833,88.93672896054721,13.15121862825043,2.2657872236472456/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3587,7 +3587,7 @@ pleadings if he could avoid it, engaging
 very unwillingly, but as an assistant, to  
 speak in the cause, making the fee a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741935:1867112801:0538/pct:50.35335689045937,68.35837303041407,41.030171242185375,6.4400879443019425/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741935:1867112801:0538/pct:16.784452296819786,22.786124343471357,13.676723747395126,2.1466959814339805/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3623,7 +3623,7 @@ On the 7th February, 1795, the Georgia
 Legislature passed an act selling to four  
 companies--viz., the Georgin, the Georgi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741935:1867112801:0538/pct:49.82332155477032,204.3056064492488,41.4243000815439,32.96995236350311/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741935:1867112801:0538/pct:16.607773851590107,68.10186881641627,13.808100027181299,10.989984121167705/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3650,7 +3650,7 @@ doning the Republican advecates of the
 Constitution, the Federal Government on  
 Federal principles became his creed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741935:1867112801:0538/pct:90.3098668116336,95.58446317332356,41.927154117966836,19.7233418834738/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741935:1867112801:0538/pct:30.1032889372112,31.861487724441186,13.97571803932228,6.574447294491267/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3787,7 +3787,7 @@ dise but very soon failed, and from this he turn­
 ed his views to the law, for the acquisition or  
 practice of which, however he was too lazy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_coyote_ver02:data:sn84022168:00296025185:1868112101:0211/pct:146.9640644361834,99.47009841029524,55.51425030978935,7.721423164269493/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_coyote_ver02:data:sn84022168:00296025185:1868112101:0211/pct:36.76379417234966,24.86752460257381,13.8871667699938,1.9303557910673732/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3826,7 +3826,7 @@ such a peculiar power of conversing with growth in the branches while new roots 
 anal bo asented and the womanen oin  the in e ind the  
 took the money, crossed erself and went o e  ee oo e o 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_coyote_ver02:data:sn84022168:00296025185:1868112101:0211/pct:32.465923172242874,127.63058289174867,216.23296158612143,22.785768357305074/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_coyote_ver02:data:sn84022168:00296025185:1868112101:0211/pct:8.121512709237447,31.90764572293717,54.09175449473032,5.696442089326268/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3971,7 +3971,7 @@ Jefferson saw the plot, and, as ho was not a
 member and the groat orator was gone, he  
 could not stop the Tory revenge, and th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn87056600:00202191666:1881050401:0457/pct:25.617977528089888,51.438434982738784,16.587078651685392,12.584998430798201/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn87056600:00202191666:1881050401:0457/pct:19.221582127300827,38.581441573386336,12.449065617535478,9.436133486766398/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4067,7 +4067,7 @@ did not doubt that ho would soon qualify him­
 self.&quot; Tolling tho Btory ton yoars Intor to  
 Daniel Webster. Jefferson said that It wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_milosz_ver01:data:sn83030272:0017504498A:1891112201:0675/pct:225.62305295950156,137.02570379436963,51.94704049844237,29.37576499388005/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_milosz_ver01:data:sn83030272:0017504498A:1891112201:0675/pct:56.416747809152874,34.25642594859241,12.989289191820838,7.343941248470013/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4085,7 +4085,7 @@ could avoid it. or to manage that part ot a
 cause and very unwillingly engaged excopt as  
 an nsslstantto speak In court, and tho feo wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_milosz_ver01:data:sn83030272:0017504498A:1891112201:0675/pct:225.0778816199377,233.84332925336597,51.79127725856698,7.527539779681763/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_milosz_ver01:data:sn83030272:0017504498A:1891112201:0675/pct:56.28042843232716,58.46083231334149,12.950340798442065,1.8818849449204407/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4240,7 +4240,7 @@ ment had passed resolutions prepara­
 tory to tho levying of a revenuo on  
 the colonies by a stamp tax Thes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_batman_ver01:data:sn86069675:00206533420:1892081601:0469/pct:9.26517571884984,65.13245919186514,19.44888178913738,4.348407813754348/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_batman_ver01:data:sn86069675:00206533420:1892081601:0469/pct:6.951658010387535,48.849344393898846,14.60247702756692,3.2613058603157614/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

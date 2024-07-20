@@ -582,7 +582,7 @@ insist effectual measures to emhaWaa*
 and Cjonfottftd i&#x27; ; and V sal*  
 bo m it. »&#x27;; at a revocation of t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808112101:0001/pct:6.738703339882122,0.7295466388744137,74.57760314341847,96.50859822824388/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808112101:0001/pct:6.745252128356254,0.738231717908633,74.59070072036673,96.50859822824388/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -620,7 +620,7 @@ taining the Sl. Michael, she will he
 &#x27; dispatched immediately for L&#x27;Ori­  
 cnt.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808112101:0001/pct:24.086444007858546,7.04794163626889,39.23379174852652,90.42470036477332/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808112101:0001/pct:24.09954158480681,7.05662671530311,39.23379174852652,90.4160152857391/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -646,7 +646,7 @@ lull be trecori re*s at their hist sc-smn. Mr Kill
 brought &#x27;)ic ’ l»tt f ft •m general \rm..tr tv. ,,l the  
 2f)lh of June, (•)• whi&#x27; I semi m cx&#x27;r.-ici1 md M
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808112501:0227/pct:11.097099621689786,40.37256841411144,21.185372005044137,7.945928123969667/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808112501:0227/pct:11.094301563287948,40.36591396077139,21.186333837619767,7.948739080270315/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -669,7 +669,7 @@ ning anri niyselt.that another interview -hould lake
 place soon alter the piornpatinn of pari:,nnent.—  
 In T*ct, hi ovcr, Mr. ( .mg was not prepare
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808112501:0227/pct:10.870113493064313,57.78107484338938,21.16015132408575,5.984174085064293/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808112501:0227/pct:10.86737266767524,57.771551013680565,21.161119515885023,5.987308389648921/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -781,7 +781,7 @@ nued at all, must take a new form.”
 Michael, she will be dispatched immediately lor  
 L’Oru-at.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808112501:0227/pct:10.920554854981084,3.4124629080118694,43.12736443883985,93.99934058687768/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808112501:0227/pct:10.91780131114473,3.4119004450304926,43.12279374684821,93.98796769408274/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -951,7 +951,7 @@ form.”
 the St. Michael, she will be dispatched im­  
 mediately for I/Oricnt.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808112901:0244/pct:24.458204334365327,2.651657285803627,35.51265707521399,93.94621638524077/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808112901:0244/pct:24.45375091041515,2.651325662831416,35.51226025734402,93.938635984659/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -992,7 +992,7 @@ ctsi were to mcsiihta&#x27;m asi- remation of the Bri­
 - _ * &#x27;&quot;siwrde&#x27;rs of ]atiuary and Nevembssern 807,  
 &#x27; of the other orders dependentss upo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808113001:0616/pct:4.268927562100253,62.56144427562785,24.230254350736278,18.911430869604075/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808113001:0616/pct:4.2682926829268295,62.55585344057194,24.231608169740234,18.912719690199584/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1020,7 +1020,7 @@ ss hausted the Second;- ss -- - ere—was,-,-siaesidel,_ -
 s eertaisin that, by delayingtosi present these in- ct  
 Ancemenfs to Misi. Canning&#x27;sssconsideration, ,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808113001:0616/pct:28.975159898854677,16.462597193672355,23.635281868213596,11.171686477790688/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808113001:0616/pct:28.9708506841166,16.46112600536193,23.63672417211977,11.173666964551684/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1068,7 +1068,7 @@ j istske the consequencessi) While the corn-?
 men.-al infercomse &quot;between &quot;the Umted&#x27;ct­  
 _._St_ases add Gmit Brltam he3u gsissrevwcdss&#x27;s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808113001:0616/pct:28.975159898854677,61.10465635892394,23.60553324408746,25.79318973992314/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808113001:0616/pct:28.9708506841166,61.09919571045577,23.606979972238747,25.793863568662495/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1222,7 +1222,7 @@ is it became us to repel.
 l.i a piudcnlial view my explanations  
 ,e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808120601:0397/pct:59.280089988751406,13.170917396269509,36.445444319460066,81.11914731633041/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808120601:0397/pct:59.268978444236176,13.169246384166454,36.44486098094345,81.11308466548253/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1241,7 +1241,7 @@ immediately for L/Ouem.&quot;
 C Extract J.  
 Mn. Pinkkky to Mi, Madison
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808120601:0397/pct:77.97150356205475,63.12650678847862,17.641544806899137,3.9081334855982743/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808120601:0397/pct:77.95688847235239,63.11849784318701,17.644486098094344,3.9118667004990275/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1729,7 +1729,7 @@ consult my own discretion whether I I &#x27;
 It apeared lo me thai, if this deter- J Y$  
 mination should be persisted in myo-j le
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809011801:0003/pct:23.29430763019782,10.087092161705446,17.985466289866775,27.739503444689976/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809011801:0003/pct:23.301036199703944,10.091425105073876,17.992194859372898,27.739503444689976/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1775,7 +1775,7 @@ it I were to frame my note, with ir
 a Knowledge that it was to provoke :8I  
 argument, instead of leading at this | !
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809011801:0003/pct:22.971336293903917,40.4653581177694,18.30843762616068,21.864032237098662/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809011801:0003/pct:22.984793432916163,40.46969106113783,18.30843762616068,21.864032237098662/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1812,7 +1812,7 @@ partially, to the motive which your letter
 has since announced to me. That this mo­  
 tive had, nevertheless all the influence im
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809012401:0334/pct:24.047186932849364,40.332825203252035,17.3502722323049,12.627032520325203/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809012401:0334/pct:24.04282344402105,40.327702273593296,17.353172442992804,12.629662559803547/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1834,7 +1834,7 @@ in the acton! state of the world, it behoved
 bo-,&#x27;you and me to movfe hi tlii*aifiir with  
 ltver&gt; possible degree of, circumspection 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809012401:0334/pct:77.54990925589837,49.517276422764226,17.05989110707804,4.6875/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809012401:0334/pct:77.53583741607693,49.51098691731233,17.062844008951792,4.691138490198569/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1875,7 +1875,7 @@ am* that i* I were to frame rny note, with n.
 know ledge that it was to provoke argument,  
 in.v- id of leading at this Ciisis toa salutai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809012401:0334/pct:77.29582577132486,60.53099593495935,17.422867513611614,15.688516260162602/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809012401:0334/pct:77.28180003629106,60.52330750666836,17.425754551503054,15.690757441043228/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1894,7 +1894,7 @@ ing, upmi which the subject was now placed,
 made delay of no importance, I .should take  
 irie to prepare such’ farther proceeding },
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809012401:0334/pct:77.54990925589837,77.95985772357723,17.150635208711435,2.997967479674797/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809012401:0334/pct:77.53583741607693,77.94995554426521,17.153571644589608,3.0018205681866292/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1930,7 +1930,7 @@ motive which your letter has since announ&quot;
 ced to me. liiat this motive had, never­  
 theless, h!1 the inflaence now i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809012401:0031/pct:24.26320667284523,73.1888703679959,17.182576459684892,13.14271060392358/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809012401:0031/pct:24.25871015567087,73.17948717948718,17.18556955769706,13.145299145299145/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1962,7 +1962,7 @@ maintained we ought to be placed, if
 it bhouid persist in its obnoxious e­  
 dicts ; that the continuance of our em
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809012401:0031/pct:77.72011121408711,23.515835363508142,17.6274328081557,12.706757276573919/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809012401:0031/pct:77.70570793180133,23.512820512820515,17.63034346429454,12.709401709401709/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1987,7 +1987,7 @@ should be presented, out that 1 would,
 with your permission, take a little  
 time to consider of the manner an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809012401:0032/pct:21.97040644315415,15.683716075156577,18.037085596553663,7.776617954070981/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809012401:0032/pct:21.96629213483146,15.68166992824527,18.039950062421973,7.779952163513808/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2029,7 +2029,7 @@ would make such a proposal.
 ; It appeared to me that, if this de­  
 , termination shoul l be persisted in m
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809012401:0032/pct:21.5770743584941,36.46920668058455,18.13073609290129,20.17223382045929/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809012401:0032/pct:21.573033707865168,36.464448793215915,18.13358302122347,20.173950858882367/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2079,7 +2079,7 @@ the state of the world, you must be
 conscious that I too must argue. And  
 where would this end? To wna
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809012401:0032/pct:21.5770743584941,59.51200417536534,18.43041768121371,25.260960334029228/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809012401:0032/pct:21.573033707865168,59.50424005218526,18.433208489388264,25.262013481191563/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2110,7 +2110,7 @@ an orficial note in which the proposal wa»
 made in the form required.  
 Sonuhing was said at tnis interview o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809012401:0032/pct:21.87675594680652,85.58194154488518,17.531372916276457,11.169102296450939/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809012401:0032/pct:21.872659176029963,85.57077625570776,17.534332084893883,11.17199391171994/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2143,7 +2143,7 @@ was not until the third interview (on the 29th
 of July) that it was rejected as inadmissible.  
 But even then I was not told, and had not th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809012501:0326/pct:24.816036538949504,60.084649194204786,21.238264399898505,13.413641543219924/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809012501:0326/pct:24.809741248097414,60.074869791666664,21.23921867072552,13.41552734375/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2173,7 +2173,7 @@ tained we ought to be placed, if it should per­
 sist in its obnoxious edicts ; that the continu­  
 ance of ourepbargo, so modified, would be a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809012501:0326/pct:69.04339000253742,77.63307830050464,21.56812991626491,11.541592055998697/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809012501:0326/pct:69.02587519025874,77.62044270833333,21.569000507356673,11.543782552083334/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2199,7 +2199,7 @@ make such a proposal.
 Ii appeared to me, that ii this determination  
 should be persisted in, my overture was not iis-l
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809012501:0327/pct:32.16417910447761,39.205752573949994,20.895522388059703,7.95881680013074/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809012501:0327/pct:32.156180054712756,39.19934640522876,20.89654314847053,7.961601307189542/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2791,7 +2791,7 @@ finally, that you must leave me ‘to consult my own dis­
 cretion whether 1 would make such a prapofal.  
 It appeared to me that if this determination fliould b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809021401:0234/pct:52.34243857775065,9.137913890822313,20.448649473523577,6.2941234960723875/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809021401:0234/pct:52.34243857775065,9.144542772861357,20.448649473523577,6.2941234960723875/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2827,7 +2827,7 @@ leading at this crisis t 0 a salutary change in the state of
 the world, you must be conscious that I too must argue.  
 And where would this end 7 [&#x27;o what wholcfome con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809021401:0234/pct:52.266137646879294,18.206224520234663,20.540210590569206,12.598190315203341/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809021401:0234/pct:52.27122437560405,18.209538961254186,20.54529731929396,12.604819197242385/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2885,7 +2885,7 @@ course, and that I had not intended to
 present a note. At the second inter­  
 view (on the 22 July) it did no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809112901:0004/pct:41.57597742845627,2.4692970995557877,34.68359532446594,96.32871701071335/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809112901:0004/pct:41.57597742845627,2.4692970995557877,34.68359532446594,96.33307203205295/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3025,7 +3025,7 @@ would be cxcrcise-t os regarded Great Britain, if I
 their orders tccrc niKalcd as regarded the United i  
 | Slates.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1845013001:0056/pct:71.90994258084014,35.34986120417345,14.007252946509519,3.1396573178903036/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1845013001:0056/pct:71.91497934924952,35.35624262148623,14.007252946509519,3.142848026546696/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -65,7 +65,7 @@ marked vith tuspicious incapacitations,
 though thuy ehould- not covet the public  
 honors.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn86053972:00295878472:1845010801:0016/pct:110.66326530612245,13.341645885286782,20.051020408163264,27.87673672960456/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn86053972:00295878472:1845010801:0016/pct:83.0525778458397,10.010687566797293,15.058703420112302,20.912005700035625/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -98,7 +98,7 @@ WHO LOVED LIBERTY, and wished to par
 take of its blessings, would be ready to transler  
 ther lotlurieS hither;”—Madison Papers, pag
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024652:00393348689:1854092501:0132/pct:43.93692224034802,82.2750607943799,13.05057096247961,8.362604701432046/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024652:00393348689:1854092501:0132/pct:43.928959768031895,82.26394704849385,13.052736498731424,8.36485208699176/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -128,7 +128,7 @@ respectable Europeans, MEN WHO LOVED Llli-
 ERTY, and wished to partake of iu blessings, would !  
 be ready to transfer their fortunes hither.&quot; Madi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022639:1854100401:0371/pct:7.361431870669746,102.64596544937677,20.265588914549653,10.518259348349005/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022639:1854100401:0371/pct:5.529887380883627,76.98447408703258,15.203580710366735,7.894161382024929/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -158,7 +158,7 @@ respectable Europeans,- MEN WHO LOVED LIB­
 ERTY, and wished to partake of its blessings, would  
 be ready to transfer their fortunes hither.&#x27;.&#x27; Madi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022731:1854100401:0322/pct:9.258703481392557,99.95317255911965,19.402761104441776,10.03277920861625/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022731:1854100401:0322/pct:6.949864905433803,74.97073284944977,14.560192134494146,7.527511121517209/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -187,7 +187,7 @@ j were left nt liberie i&lt; A so; nor ilint foreign j?nw?
 I would tnnko um* olyl wngors iu&gt; insti uinetits tor tlr  
 i I purposes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1855031601:0568/pct:15.72033279813166,0.11528484964934192,27.29528535980149,98.48208281295034/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1855031601:0568/pct:15.73006373765387,0.11848720658404585,27.290419890040383,98.48528516988503/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -229,7 +229,7 @@ uenU for their purposes. Their bribes would be expended
 on men wiiofce cin.umstances would rather stifle thaii ex­  
 cite jealousy and watchfulness in the public, ?Madtto
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855070601:0745/pct:50.74551851231362,58.32167832167832,15.999329871000167,12.905276541640179/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855070601:0745/pct:50.75110292064556,58.33015469379106,16.016083095995977,12.905276541640179/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -266,7 +266,7 @@ grating to this countryl&quot; : :
 Hamilton said  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027492:1855072501:0023/pct:91.6066066066066,32.18637992831541,16.56156156156156,18.172043010752688/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027492:1855072501:0023/pct:68.73967252516148,24.145758661887694,12.42301336938561,13.632019115890083/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -330,7 +330,7 @@ ed on men whose circumstances would
 rather stifle than excite jealousy and watch  
 fulncss in the pablle Mditen Ppe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn83025141:no_reel:1855091401:0333/pct:103.58028091434866,77.03053282777888,42.550261635912975,68.62901616443824/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn83025141:no_reel:1855091401:0333/pct:34.52676030478289,25.676844275926296,14.183420545304324,22.876338721479414/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -365,7 +365,7 @@ in.-n who cive liberty, nn i wish to partake its
 blessing*, w;l! be r-1 !&quot; to transfer their fortunes  
 hither. .TV *urh ; &#x27;./ n&gt;rtijir?ti&lt;in of /?/?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664357:1855100501:0152/pct:15.904139433551197,31.053182380363427,16.73202614379085,10.15127009799258/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664357:1855100501:0152/pct:15.904139433551197,31.053182380363427,16.74170902929073,10.157612659753275/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -403,7 +403,7 @@ feel the mortification of bcinrf nutiAeil iclifl suspi­
 cious anticipations, thought they should not covet  
 the public honors.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022743:1855111701:0386/pct:48.324356672651106,55.50291545189504,19.68880909634949,15.54907677356657/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022743:1855111701:0386/pct:36.26159832385513,41.63022351797862,14.77102663873092,11.661807580174926/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

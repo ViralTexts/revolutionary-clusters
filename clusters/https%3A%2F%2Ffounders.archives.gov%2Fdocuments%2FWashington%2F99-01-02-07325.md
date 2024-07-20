@@ -54,7 +54,7 @@ to express the high sense I have of the powerful aid which
 1 frave derived from the State of Maryland, in complying  
 with my every request to the Executive of it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1853102201:0780/pct:18.545152814271884,58.80110146155476,15.848430369243534,5.433170938360517/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1853102201:0780/pct:18.549762596229197,58.808162112546775,15.848430369243534,5.433170938360517/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -93,7 +93,7 @@ esteem and regard, I have the honor to be
 your Excellency&#x27;s most obedient servant,  
 GEORGK WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kuvasz_ver02:data:sn83045462:0028065405A:1855032301:0223/pct:34.81667188968975,8.815370389396897,15.763083672829834,11.887393403883694/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kuvasz_ver02:data:sn83045462:0028065405A:1855032301:0223/pct:34.81667188968975,8.817938970512689,15.770918207458477,11.887393403883694/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -127,7 +127,7 @@ oners will bo divided between Winchester, in
 Virginia, and Frederick, iu Maiyland. With  
 every sentiment of esteem ami regard, I bav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fullerton_ver02:data:sn84031492:no_reel:1874102401:0011/pct:56.12903225806452,53.94951879426185,12.974910394265233,8.31668785182495/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fullerton_ver02:data:sn84031492:no_reel:1874102401:0011/pct:56.13500597371565,53.96313782458689,12.980884109916367,8.321227528599964/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -163,7 +163,7 @@ ners will be divided between Winchester,
 in Virginia, and Frederick, in Maryland,  
 With every sentiment of esteem and regard
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349517:1874103001:0370/pct:62.19724552794048,70.61116700201207,10.875415545353807,11.167002012072434/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349517:1874103001:0370/pct:62.187401076289966,70.6022884446121,10.877651155428934,11.168741355463347/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -206,7 +206,7 @@ will be divided between Winchester, in Virginia,
 and Frederick, In Maryland. Witb every senti­  
 ment of esteem and regard, I have&#x27; tbe honor t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555651:1874110501:0273/pct:88.01191362620997,116.5538106901023,16.865227103499628,10.64688085290304/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555651:1874110501:0273/pct:66.04581858819147,87.42256159054891,12.665300800894022,7.981558853191183/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -243,7 +243,7 @@ ors will be divided between Winchester,
 in Virginia, and Frederick, in Maryland.  
 With every sentiment of esteem and re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_funston_ver01:data:sn84027670:00237283375:1874111201:0043/pct:127.49178532311062,130.1875064746711,37.82858707557503,36.827929141199625/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_funston_ver01:data:sn84027670:00237283375:1874111201:0043/pct:42.50890167077513,43.39583549155703,12.612982744453575,12.275976380399875/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

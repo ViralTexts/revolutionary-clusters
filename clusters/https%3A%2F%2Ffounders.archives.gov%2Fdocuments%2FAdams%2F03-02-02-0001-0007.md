@@ -1690,7 +1690,7 @@ Of such a thing as thou. To fear not to delight,
 Judge me the world if &#x27;tis not gross in sense  
 That thou hast practiced on her with foul charm
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774728:1866030601:0332/pct:173.6996336996337,171.88455911690383,50.256410256410255,35.80263332890012/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774728:1866030601:0332/pct:43.432863161751236,42.97113977922596,12.566404103315625,8.95065833222503/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1951,7 +1951,7 @@ ints had had recourse to the essay of
 Adam smith, which had been published in England just  
 to years before, does not appear. The fact is certai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grass_ver01:data:sn83030214:00206531149:1873062701:0441/pct:247.2208796520058,188.8608466215441,47.59142903173836,16.806240679132728/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grass_ver01:data:sn83030214:00206531149:1873062701:0441/pct:82.40695988400194,62.953615540514704,15.86380967724612,5.602080226377576/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1969,7 +1969,7 @@ that I speak in respect of want; for I have learned,
 in whatsoever state I am, therewith to be content.&quot;  
 He sald this was a remarsalle decdaration con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743853:1874011201:0137/pct:55.59800664451827,209.87370838117107,54.352159468438536,8.09414466130884/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743853:1874011201:0137/pct:18.53266888150609,69.95790279372369,18.117386489479514,2.6980482204362803/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1987,7 +1987,7 @@ iv. HIis: &quot;Not that I speak in respect of want, for I
 have learned, in whatsoever state I am, therewith to be  
 content. I know both how to be abused, and I kno
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hugo_ver01:data:sn83030214:00206531204:1875012501:0239/pct:104.17136414881624,107.46783088235294,47.51167659848607,6.158088235294118/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hugo_ver01:data:sn83030214:00206531204:1875012501:0239/pct:34.72378804960541,35.822610294117645,15.83722553282869,2.0526960784313726/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2160,7 +2160,7 @@ That is to say, tumbled did I to the racket,
 And we were wed forth with  
 So there&#x27;s the long and the short of i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:00206533511:1878061601:0355/pct:115.3076923076923,314.831826937324,49.76923076923077,21.929174692547043/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:00206533511:1878061601:0355/pct:28.826923076923077,78.707956734331,12.442307692307692,5.482293673136761/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2188,7 +2188,7 @@ And bade me, if I had a friend that loved her
 I should but teach him how to tell my story,  
 And that would woo her
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00415664436:1878070601:0032/pct:89.50815290029404,70.32729239924262,41.7401764234162,13.984311604003246/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00415664436:1878070601:0032/pct:29.83605096676468,23.442430799747545,13.913392141138733,4.661437201334415/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2238,7 +2238,7 @@ passing strange,
 And sich; and Sam took a tumble to the hint  
 and wooed her. This explanation is as good a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84038582:00212471549:1879091301:0413/pct:202.76923076923077,295.18452462614897,59.53846153846154,12.402249965701742/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84038582:00212471549:1879091301:0413/pct:50.69230769230769,73.79613115653724,14.884615384615385,3.1005624914254355/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2275,7 +2275,7 @@ tyrant custom hath made the flinty and steel
 couch of war his thrice driven bed of down  
 There is none of the Moor in this. Salvini
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chester_ver02:data:sn86053573:00211101969:1883013001:0194/pct:207.24762726488353,115.35943060498221,56.60051768766178,21.92170818505338/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chester_ver02:data:sn86053573:00211101969:1883013001:0194/pct:51.83426845058265,28.839857651245552,14.156236512731981,5.480427046263345/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2316,7 +2316,7 @@ the same fact:
 And I loved her that she did pity them.”  
 We could give other instances of the conques
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ginsberg_ver01:data:sn85026214:print00205958253:1883061701:0004/pct:30.77488064634594,61.51758014477766,12.008813808299669,2.5723888314374355/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ginsberg_ver01:data:sn85026214:print00205958253:1883061701:0004/pct:30.77488064634594,61.52727507755946,12.036356959236137,2.565925542916236/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2384,7 +2384,7 @@ And that would woo her,’
 learned, in whatsoever state I am, therewith to be  
 content
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn85038180:00296029063:1885051401:0011/pct:96.81387077652637,33.691243140062035,14.078245406046236,1.2646146504414222/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn85038180:00296029063:1885051401:0011/pct:72.64640474425501,25.268432355046528,10.570793180133432,0.954426151276545/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2507,7 +2507,7 @@ have to incur a general mock, run from her
 guardage to the sooty bosom of such a thing  
 as thou.” Again, “To fall in love wit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_evans_ver01:data:sn83030005:00211664460:1890040501:0086/pct:69.43625040970174,38.60403967969403,14.552605703048181,3.1911079239870923/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_evans_ver01:data:sn83030005:00211664460:1890040501:0086/pct:69.44717578935868,38.60403967969403,14.558068392876653,3.1990757340345004/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2545,7 +2545,7 @@ matics and&#x27;Physics &#x27; in Harvard, and two
 years later was made Hollis Professor of  
 Mathematics and Natural Philosophy. Thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_eisenhower_ver01:data:sn84024546:00237282085:1892011901:0210/pct:75.03819709702063,44.92713004484305,16.86401833460657,2.73262331838565/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_eisenhower_ver01:data:sn84024546:00237282085:1892011901:0210/pct:56.29417382999045,33.702354260089685,12.664756446991404,2.045964125560538/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2599,7 +2599,7 @@ goods I give to the poor, and if I have
 taken anything from any man by false ac­  
 cusation I restore him fourfold.” No
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kensington_ver02:data:sn88065721:00279521730:1895031601:0156/pct:40.953920776071136,66.11678139093283,12.675828617623282,9.69617849513411/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kensington_ver02:data:sn88065721:00279521730:1895031601:0156/pct:40.96200485044462,66.11974839781628,12.679870654810024,9.70211250890102/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

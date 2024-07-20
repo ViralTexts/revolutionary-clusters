@@ -130,7 +130,7 @@ ses in which they may b • proper, &quot; instead of being
 •arri&lt;*&lt;] to the Snpreme Court, may be made folia  
 to the mmthict cuohts ut the Union M
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183906:1816020101:0191/pct:48.655913978494624,84.30901504614995,15.188172043010752,8.218485269945631/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183906:1816020101:0191/pct:48.647740634973964,84.29835651074589,15.191220113108237,8.22166034555415/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -183,7 +183,7 @@ preme court of the United .States.” I he
 writer then proceeds to give his reasons tor  
 this opinion 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216250:1819071401:0416/pct:43.23846561781863,7.2801901058543965,17.88934063991515,5.71397710088572/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216250:1819071401:0416/pct:43.230823612583954,7.279403823307052,17.892070225050077,5.716960074882096/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -345,7 +345,7 @@ lem, liquidate the meaning of all its parts
 and adjust them to each other in a har­  
 monious and consistent uhnlr” at
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183955:1821013001:0341/pct:18.74381800197824,68.14725407362704,14.52357401912298,7.7127338563669285/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183955:1821013001:0341/pct:18.740728531399373,68.13902968863142,14.526674358551729,7.715825891061228/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -530,7 +530,7 @@ tl.L st ate courts, wooUl Ir- to abridge the laliiuile of the terms
 to iiiov. tnun ol thr in&#x27;.-rest, contrary to every ound rule  
 of itttt rprelaiioo.-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183955:1821032301:0420/pct:19.48523345982511,39.56345419847328,15.459495132816366,8.826335877862595/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183955:1821032301:0420/pct:19.48201913559881,39.55873583780561,15.462443637963268,8.829258596700457/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -652,7 +652,7 @@ tem, liquidate the meaning of’all itsparta, and ad­
 just them to each other in a harmonious and conois­  
 “t&lt;»nt whole.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184315:1829061201:0156/pct:59.542586750788644,59.94204998189062,16.876971608832807,2.07654231558614/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184315:1829061201:0156/pct:59.533196656678754,59.93481409946885,16.879566840140882,2.0803154675680027/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -721,7 +721,7 @@ tween the formation ol Ihe Constitution and its adoption
 by the States. Immediately alter its adoption, Congress,  
 by passing the 25th section of the Judicial act, no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184042:1831020301:0336/pct:34.199766355140184,51.67708925525867,15.43516355140187,5.025582717453099/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184042:1831020301:0336/pct:34.19477295955614,51.67121418826739,15.43777680439967,5.028800970137942/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -868,7 +868,7 @@ States.&quot;
 a similar authority in the State would be utterly incum- j  
 patib/e.&quot;?&quot;It is not a mere inconrenience in the exercise 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1841040901:0251/pct:64.33503452416691,78.1596563093216,15.91113779645752,1.748426416225397/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1841040901:0251/pct:64.34003802661863,78.16631698138342,15.921144801360953,1.748426416225397/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1174,7 +1174,7 @@ it appears to be taken away in one of the enu­
 merated modes.&quot;--FEderaLiSTA5 82.  
 And this also
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777626:1851050101:0071/pct:134.3635025754231,338.42239185750634,51.287711552612215,29.9123551031948/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777626:1851050101:0071/pct:33.60323886639676,84.60559796437659,12.826647037173354,7.4780887757987/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1366,7 +1366,7 @@ tain the jurisdiction they now have, unless it ap­
 pears to be taken away. in one of the enumerated  
 modes.&quot;. Chancellor Kent, in the 1st vol. of hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022810:1863071401:0172/pct:50.91863517060367,97.83539761546476,19.701443569553806,14.851255932399583/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022810:1863071401:0172/pct:38.20777941900542,73.37654821159856,14.78746102084359,11.147123509665471/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1390,7 +1390,7 @@ were expressly excluded by the acts of Congress,
 they would, of course, tako concurrent cognizance  
 of the causes to which these acts might give birth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022810:1863071401:0172/pct:50.88582677165354,115.16379210556778,19.701443569553806,6.1696955666165065/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022810:1863071401:0172/pct:38.19136714262268,86.3757379326311,14.78746102084359,4.630165528417641/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1434,7 +1434,7 @@ ay u down as a rule, that the State Courts iK
 Jers to betaken away in one of the Senitod  
 nodes.&quot; Chancellor Kent in the 1st vo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045706:00296022664:1863071501:0324/pct:49.3202416918429,93.01371619023202,20.48716012084592,20.869119343673887/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045706:00296022664:1863071501:0324/pct:37.00415564790329,69.76028714267402,15.375897242160937,15.651839507755415/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1464,7 +1464,7 @@ Union fdr irianyyears. &#x27; The&#x27; result was in faror, or
 the jurisdiction of Lthe State Courts, and was thus  
 Ks rhnnmllar Kent in the -1st ha. 01 his .
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045706:00296022664:1863071501:0324/pct:70.69486404833837,16.27996410716575,20.88368580060423,10.037174721189592/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045706:00296022664:1863071501:0324/pct:53.041178692859845,12.216382515062172,15.67812618058179,7.524676323548263/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1725,7 +1725,7 @@ at.daiwliailate the principles of nati-mii Justice, antthe
 rule* &lt;J national deeinon-’* Frdaralt*, No. Bk J 79.  
 The doctrine ttras announced br Ham
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_lake_ver02:data:sn82014064:no_reel:1869040501:0002/pct:32.71439509954058,52.778220028657856,9.188361408882082,14.615507084859098/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_lake_ver02:data:sn82014064:no_reel:1869040501:0002/pct:32.71439509954058,52.78220028657857,9.20271822358346,14.615507084859098/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

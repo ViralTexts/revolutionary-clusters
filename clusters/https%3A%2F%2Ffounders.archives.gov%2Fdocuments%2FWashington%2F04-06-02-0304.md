@@ -129,7 +129,7 @@ there never were men better caicu­
 iated to promote the welfare of such  
 a community.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn87075001:00237286923:1871022401:0096/pct:164.0,162.93135901618774,41.41935483870968,20.127995984439703/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn87075001:00237286923:1871022401:0096/pct:41.01323007421749,40.732839754046935,10.358180058083253,5.031998996109926/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -196,7 +196,7 @@ River. Of that colony Washington said: &quot;I
 promote the welfare of such a community.&quot;  
 He added that if he were a young man, n
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:00206531277:1876120101:0474/pct:150.8509955041747,147.73633591367582,47.12588310854207,9.488623035421066/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:00206531277:1876120101:0474/pct:50.283665168058235,49.24544530455861,15.708627702847355,3.162874345140355/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -412,7 +412,7 @@ of July, a meeting of the Directors and
 Agents was held on the banks of the  
 river for the purpose of naming th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ingstad_ver01:data:sn84028296:00296029142:1887102701:0600/pct:9.968354430379748,116.09128145114101,19.168173598553345,9.245172615564657/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ingstad_ver01:data:sn84028296:00296029142:1887102701:0600/pct:7.483608410581054,87.06846108835576,14.379380510965408,6.933879461673493/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -619,7 +619,7 @@ the bravest of the brave.”
 Senator Sherman says:  
 I believe that the ordinance of 178
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn90053049:00332897913:1895060801:0281/pct:44.09540430482839,30.60457043679491,12.58483614504557,6.4796065953138555/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn90053049:00332897913:1895060801:0281/pct:44.086855370298565,30.6001446131598,12.587243117487398,6.482284887924801/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -637,7 +637,7 @@ was ever settled under such favorable
 auspices as that which has just com­  
 menced on the Muskingum.&quot; In 182
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn90053049:00332897913:1895122101:0501/pct:84.2560553633218,67.79392718376745,12.47597078046905,2.3024895668441503/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn90053049:00332897913:1895122101:0501/pct:84.23986161829714,67.7841726618705,12.478377858927542,2.305755395683453/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

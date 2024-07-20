@@ -335,7 +335,7 @@ perceive in it the finger of that almighty hand, which
 has been so frequently, and so signally extended to  
 our relief in the critical stages of the revolution;” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183992:1825123001:0262/pct:22.371294851794072,47.49584619036316,14.992199687987519,9.541894137194399/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183992:1825123001:0262/pct:22.36780533458119,47.49021003915984,14.995060572973536,9.544717376686048/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -499,7 +499,7 @@ private opinions ai&gt;.| partial interests lo the public.goo-l,
 and by a despair of seeing this necessity diminished by  
 delays or by new experiments.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851010201:0012/pct:5.462323132609411,73.87828777720475,15.94274432379072,19.443011861784424/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851010201:0012/pct:5.4678073927827135,73.87828777720475,15.948228583964024,19.451607357744543/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -560,7 +560,7 @@ interests to the public good; and by a despair of
 seeing tins necessity diminished by delays or by new  
 experiinen ts.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661393:1851010201:0028/pct:0.1534812334310032,70.17081279376362,19.059578624250033,19.30528487905537/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661393:1851010201:0028/pct:0.1534812334310032,70.17845542435707,19.073531463652852,19.30528487905537/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -631,7 +631,7 @@ s &#x27;.omposing the Convention were either satis- j
 : ;ni rocess;:y ditntnished by delays or by  
 i -xpet imerits.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_lightningbolt_ver03:data:sn83016794:00415662397:1851012401:0033/pct:0.0,28.861214533316215,17.85923753665689,28.976762100398/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_lightningbolt_ver03:data:sn83016794:00415662397:1851012401:0033/pct:0.0,21.64591089998716,13.40765732727006,21.735781229939658/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -671,7 +671,7 @@ i be diminished than promoted by those occasions
 the truth of these remarks verified at the present  
 hour. The doctrines of Nullification and Seces
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1851052401:0635/pct:1.9956850053937432,52.022998296422486,15.39913700107875,9.24190800681431/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1851052401:0635/pct:2.0046745774901114,52.022998296422486,15.390147428982381,9.252555366269165/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -694,7 +694,7 @@ bould bo expressed by words distinctly and cx­
   
 lusivciy upprupriuico tuiucui. u;i ?uu&gt;ii?i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014434:00415661423:1852092801:0328/pct:81.0267553986147,52.618344812506834,13.975281814477794,3.5421449655624797/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014434:00415661423:1852092801:0328/pct:81.03580967902576,52.62563317663351,13.975281814477794,3.5421449655624797/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -923,7 +923,7 @@ has been so frequently and signally ex­
 tended to our relief in the critical  
 stages of the Revolution.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068402:00295878678:1892081101:0149/pct:24.34830837493067,71.78886878791104,14.420410427066,6.161540917314037/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068402:00295878678:1892081101:0149/pct:18.268830628381192,53.84697243801213,10.81980857261756,4.6184952644461/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1022,7 +1022,7 @@ at the same time let us strive to in­
 crease the spirit of careful conservatism  
 which is the best preservative of good
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_horseradish_ver02:data:sn87068097:00383340263:1897082601:0195/pct:39.51721809588116,30.876944837340876,11.039837947332883,9.34936350777935/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_horseradish_ver02:data:sn87068097:00383340263:1897082601:0195/pct:39.51054852320675,30.87257813604865,11.042194092827005,9.351576863244237/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

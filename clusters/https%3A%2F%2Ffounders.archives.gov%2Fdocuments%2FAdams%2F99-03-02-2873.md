@@ -673,7 +673,7 @@ Then rise unchanged, and be an angel still. ’
 On Charles the Second, by Bock ester.  
 Here lies our sovereign Lord the K ing
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn85026864:00414184510:1831122301:0071/pct:2.1333333333333333,33.25397819822077,15.05,11.840621476005513/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn85026864:00414184510:1831122301:0071/pct:2.132977837027162,33.249812077173644,15.053046714436483,11.843314123444417/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -757,7 +757,7 @@ As much virtue as could die,
 Which when alive did vigor give,  
 To as much beauty as could live
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cousteau_ver02:data:sn84028889:00296027364:1841070801:0020/pct:80.40997464074387,83.4755276156264,13.461538461538462,3.158209848825026/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cousteau_ver02:data:sn84028889:00296027364:1841070801:0020/pct:60.35102558680482,62.610387666516985,10.107845210403891,2.3649154318215837/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -775,7 +775,7 @@ As much virtue as could die;
 Which when alive did vig&#x27;or give,  
 -To as much valor as could lhve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn84026897:00237288324:1843090601:0457/pct:2.0054850874185806,68.65979381443299,12.889955433664724,2.268041237113402/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn84026897:00237288324:1843090601:0457/pct:2.016912352873957,68.65979381443299,12.878528168209348,2.27612694562361/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -812,7 +812,7 @@ Which, when alive, did vigor give
 To as much beauty as could live.*’  
 qTILL ANOTHER ARRIVAL OF DR
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215841:1850080201:0452/pct:79.52189746941825,29.082125603864736,12.214025585955739,2.7674258109040717/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215841:1850080201:0452/pct:79.51447245564893,29.080118694362017,12.215997510115157,2.7695351137487636/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -837,7 +837,7 @@ Ten. it ha made nolhimr but interaiarriaMS
 and its consanguinity can be traced to a certain  
 ty. Here are dates, names and changes: 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn89066057:00200292121:1850081901:0817/pct:52.661431064572426,24.07667134174848,45.30977312390925,105.6880162069503/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn89066057:00200292121:1850081901:0817/pct:39.53285308884523,18.06139940782297,34.01004147566034,79.27380395823593/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -894,7 +894,7 @@ To as much beauty as could live.
 
 ---
 
-## [From _The International Monthly Magazine of Literature, Science and Art (1850-1852)_](https://archive.org/details/sim_international-monthly-magazine-of-literature-science_1852-02-01_5_2/page/n70/mode/1up?view=theater)
+## [From _The International magazine of literature, art, and science_](https://archive.org/details/sim_international-monthly-magazine-of-literature-science_1852-02-01_5_2/page/n70/mode/1up?view=theater)
 
 #### 1852-02-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -979,7 +979,7 @@ Which, when alive did vigor give
 To as much beauty as could live.’  
 John Cheney, a hunter of the Adiron
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ellsworth_ver01:data:sn84020071:00393347247:1867011701:0018/pct:5.918961864406779,43.47515559636772,12.433792372881356,5.55045403530252/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ellsworth_ver01:data:sn84020071:00393347247:1867011701:0018/pct:5.918178207334834,43.47072026117119,12.436559424511232,5.553288444535129/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1092,7 +1092,7 @@ As uoueh of virtue as could die,
 Which, when alive, did vigor give  
 To as much beauty as onld live
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_gabbana_ver01:data:sn85025007:00415663821:1879032801:0276/pct:80.15349194167307,66.2722502315053,16.316193399846508,3.6320609116164215/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_gabbana_ver01:data:sn85025007:00415663821:1879032801:0276/pct:80.15349194167307,66.27910964776898,16.331542594013815,3.6320609116164215/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1118,7 +1118,7 @@ Which, when alive, did vigor give
 To as much beauty as could live.  
 17. He makes the satire who applie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_monroe_ver01:data:sn85026955:00200293526:1879040101:0224/pct:117.67406273909717,280.2809573361082,49.96174445294568,27.991675338189385/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_monroe_ver01:data:sn85026955:00200293526:1879040101:0224/pct:29.435406698564595,70.07023933402705,12.497607655502392,6.997918834547346/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1238,7 +1238,7 @@ As much virtue as could die,
 Which, when alive, did vigor give  
 To as much beauty as could live.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn95068565:00280779192:1884102201:0575/pct:133.7479270315091,218.76280213027448,48.8391376451078,31.18940325003414/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn95068565:00280779192:1884102201:0575/pct:33.43698175787728,54.69070053256862,12.20978441127695,7.797350812508535/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1270,7 +1270,7 @@ I As much virtue as could die
 Which when alive did vigor give  
 To as much beauty as could live
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_eaton_ver01:data:sn85058130:00206535088:1884110201:0257/pct:29.3512164691204,85.1717516535097,21.05427323767935,12.001280136547898/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_eaton_ver01:data:sn85058130:00206535088:1884110201:0257/pct:19.578783151326054,56.78116776900647,14.0405616224649,8.000853424365266/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1326,7 +1326,7 @@ As much of virtue as could die;
 Which, when alive, did vigor give  
 To as much of beauty as could liv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282334:1886101601:0873/pct:71.69669669669669,176.37000700770847,37.23723723723724,5.325858444288718/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282334:1886101601:0873/pct:17.930904994367253,44.09250175192712,9.312805107022156,1.3314646110721795/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1411,7 +1411,7 @@ Which, when alive, did vigor give
 To as much of beauty as could live.  
 The next and last is from the Strouds
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_fox_ver01:data:sn82016399:00517173460:1887011401:0017/pct:1.9406203350472715,82.88206638722103,13.650688339691492,2.4017219893508552/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_fox_ver01:data:sn82016399:00517173460:1887011401:0017/pct:1.9402985074626866,82.8726778432261,13.653952459922609,2.405225796707446/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1437,7 +1437,7 @@ As much backbone as could die,
 Which, when alive, did vigor give,  
 To as much goodness as could live
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059533:00393349098:1887120301:0207/pct:49.8380221653879,81.60770031217481,11.202046035805626,7.036940686784599/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059533:00393349098:1887120301:0207/pct:49.829526082509375,81.59708674730133,11.204398227071257,7.039276889062297/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1458,7 +1458,7 @@ Which when alive did vigor give
 To as macitbeauty as sould live  
 In the olden times when the boys loved
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_foxtrot_ver01:data:sn86064205:00206536561:1888112501:0166/pct:90.4121110176619,299.30394431554527,54.75189234650967,10.208816705336426/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_foxtrot_ver01:data:sn86064205:00206536561:1888112501:0166/pct:22.612536811106438,74.82598607888632,13.693731594446781,2.5522041763341066/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

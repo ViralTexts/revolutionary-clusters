@@ -208,7 +208,7 @@ Each fond d lufi n Irom his foul to deal,
 Teach lin , irorn folly pevtcabiy to part,  
 And wean him from a world he le-v&#x27;d too well
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805031501:0003/pct:23.3192855709412,93.71869500473805,16.997792494481235,4.643292270204413/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805031501:0003/pct:23.32597498160412,93.71869500473805,16.997792494481235,4.647804701953883/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -249,7 +249,7 @@ Each fond delusion from her soul to steal j
 Teach her from folly peaceably to pert, ;  
 And wean her fiom a world she loved IO well
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_armani_ver02:data:sn84024735:00415664230:1838011801:0037/pct:81.98904839425781,93.1023720349563,11.425188693207044,2.486475239284228/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_armani_ver02:data:sn84024735:00415664230:1838011801:0037/pct:81.99398154999753,93.1023720349563,11.43012184894677,2.4968789013732833/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

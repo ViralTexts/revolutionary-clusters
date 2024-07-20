@@ -71,7 +71,7 @@ ip* at
 THE JURORS aforesnH, are conscious that it  
 U not their province to present abstract asd dub
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183906:1816040301:0277/pct:34.7971280681249,53.47099062579174,15.17782601435966,4.003040283759818/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183906:1816040301:0277/pct:34.791318864774624,53.464217859404684,15.180856983861991,4.006755330377876/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -102,7 +102,7 @@ ous questions «f law merely, hut (hey are advised
 that any attempt to deprive the people of this  
 commonwealth of their liberty and property, con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1816040901:0893/pct:30.038314176245212,84.40782032638552,21.711366538952745,11.520439489416708/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1816040901:0893/pct:30.03064351378958,84.39418416801293,21.71220633299285,11.522617124394184/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -128,7 +128,7 @@ that it is n &gt;t their province to present
 •struct end dubious questions of law.  
 merely, but they are advised that a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216213:1816041001:0041/pct:0.8927242969796161,38.47414420975965,16.7385805683678,8.002549162418063/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216213:1816041001:0041/pct:0.8925914906277893,38.47064178425125,16.74104929088565,8.004855105446822/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -150,7 +150,7 @@ as the basis and foundation of government,&quot; it
 is expressly declared: “That in all capital or  
 criminal pro«erutinus,a man hath a right to de
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1817041801:0457/pct:33.26778105539167,52.95547594677584,14.732874467387742,3.8126919140225177/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1817041801:0457/pct:33.26233000163854,52.948701547908406,14.73592222404282,3.81646838087928/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -175,7 +175,7 @@ it is expressively declared ; That in
 all eapit &gt;&#x27; or criminal prcieeutions,  
 a man hath a right to demand t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216225:1817042501:0699/pct:8.779536093648385,84.84218729705157,17.840884456969434,7.819197298350435/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216225:1817042501:0699/pct:8.777633289986996,84.83116883116882,17.84424216153735,7.822510822510822/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -211,7 +211,7 @@ That all [m.-n j FREEHOLDERS possessed of the
 , quantity ol land be re to lore established by law, and  
 Lite consent of our late well-beloved moiiareh, are
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184534:1825021801:0053/pct:1.1653543307086613,28.448377581120944,16.188976377952756,11.2094395280236/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184534:1825021801:0053/pct:1.1651708392379152,28.44502123643228,16.19167585157193,11.212049708982224/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -247,7 +247,7 @@ amble p.efixcd to lhebo.lv of the constitution
 Alter the preamble, the following is the caption  
 to the constitution, as it appears in the Revise
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826080401:0104/pct:82.90271132376395,43.319352905931694,14.896331738437002,11.791491911324146/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826080401:0104/pct:82.88949130920109,43.31416247304098,14.899271780152022,11.79407300902628/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -272,7 +272,7 @@ Page 83, 1-t vol.— “ The Constitution or Form
 he Delegate- and the Representatives of the seve­  
 al counties and corporations of Virginia.” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826080401:0104/pct:82.82296650717703,85.8478130617136,15.58213716108453,5.967645296584782/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826080401:0104/pct:82.80975920905756,85.83752695902228,15.584967841386275,5.970924195223261/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -291,7 +291,7 @@ of Virginia assembled in full and fie* Convention,
 which p&#x27;-i*taineJ to them and&#x27; their posterity, as  
 Ilia basis and foimdatioh of Government;—requirin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830010501:0229/pct:18.137400059224163,8.624253559944878,14.998519395913533,2.388608176389527/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830010501:0229/pct:18.134715025906736,8.623263290848547,15.001233654083395,2.3921613656370804/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -316,7 +316,7 @@ ment, shall be preto this Constitu­
 tion, and have thp same relation thereto  
 as is had to the fonder Constitution 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830010801:0120/pct:81.74787316318638,15.708984594624987,14.756380510440835,6.645676374676712/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830010801:0120/pct:81.73523043612744,15.707218349449066,14.759253531291886,6.648677010718837/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -335,7 +335,7 @@ and free Convention; trhich rights do pertain to
 them. und their posterity, a* he basis and founda­  
 tion if (iorernmrnt. * 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830011601:0056/pct:24.64,8.92018779342723,18.064,2.6173708920187795/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830011601:0056/pct:24.63605823068309,8.919140945898368,18.066442702500932,2.6209756288385555/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -354,7 +354,7 @@ and free Convention; trhich rights do pertain to
 them, and their posterity, as he basis and founda­  
 tion of (Jovernment
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830011601:0032/pct:24.369747899159663,7.56431437337739,17.678182384064737,2.619778144913854/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830011601:0032/pct:24.36595612260775,7.563421828908554,17.68061822519579,2.623402163225172/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -374,7 +374,7 @@ Virginia, assembled in full and free Convention, which
 pertained to them and their posterity, as the basis  
 and foundation of Government; inquiring in the opin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830011601:0032/pct:42.250233426704014,25.643143733773897,17.320261437908496,3.2098182676422/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830011601:0032/pct:42.243659561226075,25.640117994100294,17.322752969244334,3.213372664700098/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -393,7 +393,7 @@ in full and free Convention; which rights do per­
 tain to them, and their Posterity, as the basis and  
 foundation of Government
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830011601:0249/pct:3.396559329510366,3.7986375707193165,14.894868401705631,2.3092021706500403/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830011601:0249/pct:3.39605998235813,3.7981990302470563,14.8975791433892,2.312783806665127/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -422,7 +422,7 @@ and free Convention; iohich rights do pertain to
 them, and their posterity, at he batis aiul founda­  
 tion &lt;f (Jorernme.nt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830011901:0066/pct:6.357915120219461,8.4689785326728,18.00871389381959,2.665723047888653/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830011901:0066/pct:6.356889319135205,8.467979714588985,18.011186404216414,2.669339937885757/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -461,7 +461,7 @@ mui free Convention; which right* do pertain to
 them, and their posterity, cu he basis and founda­  
 tion of &lt;internment
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012101:0074/pct:5.306319343945972,8.898305084745763,17.76812992442515,2.742467043314501/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012101:0074/pct:5.305466237942122,8.89725785571378,17.770632368703108,2.7460672394178336/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -479,7 +479,7 @@ Virginia, assembled in full and free Convention, which 1
 pertained to them and their posterity, as tho basis  
 and foundation of Government; requiring in the opin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012101:0074/pct:23.70155973629201,27.718926553672315,18.12188454735488,2.1186440677966103/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012101:0074/pct:23.69774919614148,27.71566435212428,18.124330117899248,2.1223176807500685/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -511,7 +511,7 @@ rights do pertain to them, and their Posteri­
 ty, as the basis and foundation of Govern­  
 ment
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830012201:0128/pct:4.902882205513785,35.682125168842866,14.833959899749374,10.5020261143629/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830012201:0128/pct:4.9021143304620205,35.67810917276309,14.8368572174367,10.504595760645282/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -530,7 +530,7 @@ and free Convention; which rights do pertain to
 them, and their posterity, at that basis and f*unda~  
 lion of Government
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012301:0082/pct:5.124899274778405,20.518562168532704,17.937147461724415,2.639952857984679/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012301:0082/pct:5.124073477280051,20.516144237567758,17.93962831668278,2.6435698012412603/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -556,7 +556,7 @@ V irginin, assembled in full and free Convention, which
 pertained to them and their posterity, as the basis  
 and foundation of Government; requiring in the opin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012301:0082/pct:23.497179693795328,35.98114319387154,18.017727639000807,5.987035945786682/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012301:0082/pct:23.493393490170803,35.97690313457459,18.020195509721773,5.990258464922618/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -575,7 +575,7 @@ apd free Convention; which rights do pertain to
 them, and their posterity, as he basis and founda­  
 tion of Government
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830012601:0046/pct:6.421872516293117,19.008662175168432,17.517087903353996,2.658806544754572/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830012601:0046/pct:6.42085187539733,19.00637555635751,17.5196016105107,2.6624964914391116/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -595,7 +595,7 @@ Virginia, assembled in full and free Convention, which
 pertained to them and their posterity, as the basis  
 and foundation of Government; requiring in the opin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830012601:0046/pct:24.36814496900334,37.39172281039461,17.723732316006995,3.296438883541867/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830012601:0046/pct:24.36427209154482,37.387224828581736,17.726213180758634,3.3000521271903445/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -614,7 +614,7 @@ n\yi free Convention; which rights do pertain to
 them, and their posterity, as he basis and founda­  
 tion of Government
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012701:0094/pct:5.349397590361446,19.898321116103098,17.734939759036145,2.6483802317332703/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012701:0094/pct:5.348538387407645,19.89596879063719,17.737445122604132,2.65200772352918/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -634,7 +634,7 @@ Virginia, assembled in full and free Convention, which
 pertained to them and their posterity, as the basis  
 and foundation of Government; requiring in the opin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012701:0094/pct:23.502008032128515,38.165050839441946,18.008032128514056,3.227713407424923/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012701:0094/pct:23.498233215547703,38.160539070812156,18.010493628868186,3.2312724120266383/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -653,7 +653,7 @@ bled in fall and free Conunhoa; which ignis
 do pertain to them, and their Posterity as the  
 basis Olid foundation of Governmen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1830012801:0604/pct:4.667609618104668,22.080344332855095,14.043241058799758,2.5968436154949783/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1830012801:0604/pct:4.666666666666667,22.0771768756276,14.045454545454545,2.6000573805766747/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -672,7 +672,7 @@ tenMed in full and free Convention; which
 rights do pertain to them, and their Posterity,  
 as ,he hosts andfoundation ef Cfoeemnsent
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1830012801:0234/pct:1.4861995753715498,23.75,18.662420382165607,3.1179775280898876/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1830012801:0234/pct:1.485884101040119,23.74666479427047,18.66376565485035,3.121050414267659/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -691,7 +691,7 @@ and free (Convention; which right* do pertain to
 them, and their posterity, as .he basis and founda­  
 tion of Government
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012901:0102/pct:6.678496531698661,19.59610191381942,17.551217938377157,2.594810379241517/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012901:0102/pct:6.67741935483871,19.593801361822024,17.553763440860216,2.598419034202082/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -822,7 +822,7 @@ Virginia, assembled in full and fret: Convention, which
 pertained to them and their posterity, as the ba«is  
 and fulndatron of Government; requiring’ in the opin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830020201:0114/pct:24.05143673598984,37.65286923800564,17.574218129861883,3.1749764816556914/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830020201:0114/pct:24.047619047619047,37.64844209288654,17.576719576719576,3.178522437781697/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -841,7 +841,7 @@ bled in full and free Convention; which
 rights dopcrlain to them, and their Posterity,  
 as the basis and foundation of Goccrnmtnl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830020501:0135/pct:4.674199040396224,64.94584005531229,14.409534127843987,2.477529384650841/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830020501:0135/pct:4.673475704116373,64.93835695356609,14.412462601877644,2.481084610362177/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -874,7 +874,7 @@ and free Convention; which right* do pertain to
 Uctin, and their posterity, a* lie basis and founda­  
 tion of Government
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830020901:0138/pct:6.456768419370305,61.73379000826739,17.80405945341218,10.475965513168774/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830020901:0138/pct:6.455736657078939,61.72649976381672,17.806540960903376,10.478664777200441/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -901,7 +901,7 @@ Convention, which pertained to them and their
 posterity, as &#x27;he basis and foundation of Gov  
 ernment; requiring in the opinion of this Con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1830021101:0245/pct:24.831923660811103,53.5844301316158,17.696811971372803,7.0008401008120975/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1830021101:0245/pct:24.826539462272333,53.57692846143077,17.69839549002602,7.003359932801344/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -920,7 +920,7 @@ aud f ee Convention; which rights do pertain to
 them, and their posterity, as he basis ami founda­  
 tion (f Government
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021201:0150/pct:5.797795879252516,70.67520372526194,17.457275195655647,2.712456344586729/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021201:0150/pct:5.796870009581603,70.66697706902572,17.45981049717875,2.7160206417568773/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -941,7 +941,7 @@ Convention, which pertained to them and their
 posterity, as the basis and foundation of Govern­  
 ment ; requiring in tlio opinion of this Conven
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830021201:0139/pct:36.29215182216846,20.07345346034661,14.063208831090277,3.397222541030644/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830021201:0139/pct:36.28666465074085,20.071149873766352,14.066122366696906,3.4006579450692374/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -960,7 +960,7 @@ mul free Convention; which rights do pertain to
 them, and their posterity, as the basis and founda­  
 tion of Government
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021601:0162/pct:5.912052117263844,70.61763655837201,17.89902280130293,2.7014161608949183/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021601:0162/pct:5.911089399120664,70.60923369823894,17.901536123324107,2.7050610820244327/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -979,7 +979,7 @@ of the good&#x27; People of Virginia, assembled in full
 iLseja, and their posterity, as the basis and founda­  
 i&lt;Sun of Government
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830021601:0067/pct:4.321766561514195,24.543927028324532,17.618296529968454,2.688430148823812/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830021601:0067/pct:4.321085002365558,24.54098163926557,17.620774851495558,2.692107684307372/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -999,7 +999,7 @@ Virginia, assembled in full and free Convention, which
 pertained to them and their posterity, as the basis  
 and foundation of Government; requiring in the opin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830021601:0067/pct:22.381703470031546,49.23187710033606,17.634069400630914,3.3005280844935188/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830021601:0067/pct:22.378173789623087,49.22596903876155,17.63654523471587,3.3041321652866116/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1018,7 +1018,7 @@ tir.rf free Convention; which rights do pertain to
 tlr ni, nn.l their posterity, as he basis and founda­  
 tion of Government
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021701:0166/pct:6.144990665836963,18.944392082940624,17.190416925948973,2.7214891611687086/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021701:0166/pct:6.144034842121636,18.94216044292614,17.19292787888215,2.7250952212667374/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1039,7 +1039,7 @@ Virginia, assembled in full and free Convention, which
 ! pertained to them and their posterity, rb t lie basis  
 and foundation of Government; requiring in the opin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021801:0170/pct:23.62153344208809,38.26809015421115,18.466557911908644,3.1435349940688018/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021801:0170/pct:23.617680639373674,38.26355118016843,18.468982765182407,3.147115802791286/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1057,7 +1057,7 @@ June, 1776, by the representatives of the-good
 (people of Virginia assembled in full and free  
 Convention, which pertained Co them and thei
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1830021801:0249/pct:5.856832971800434,58.5946248600224,17.809110629067245,2.169652855543113/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1830021801:0249/pct:5.8555627846454135,58.586424072778165,17.8106701366298,2.1728481455563333/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1076,7 +1076,7 @@ and free Convention; which rights do pertain to j
 them, and their posterity, as the basis and fmmda- i  
 t!dn of Government
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021901:0174/pct:6.11591418507845,19.545131485429994,18.04354787063721,2.712627339493011/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021901:0174/pct:6.114935168881063,19.5428165344072,18.045995411130676,2.7162540960953847/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1097,7 +1097,7 @@ Virginia, assembled in full and free Convention, which
 pertained to them and their posterity, as tho basis  
 and foundation of Government; requiring in the opin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021901:0174/pct:24.415626000640408,37.20682302771855,17.81940441882805,3.103529969201611/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021901:0174/pct:24.41171762445974,37.20241620277152,17.82188783949629,3.1071104267835286/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1116,7 +1116,7 @@ bled in full uud free Contention; which
 rights do pertain to them, and their Posterity,  
 as the basis tuul foundation of Government
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830021901:0143/pct:3.1362709738121373,67.25037689899106,15.132507448643564,2.4585411109822566/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830021901:0143/pct:3.1357792411414236,67.24257884972171,15.135361137242604,2.462121212121212/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1135,7 +1135,7 @@ and free Convention; tchich rights do pertain to
 them, and their posterity, as he basis and founda­  
 tion of Government
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022001:0178/pct:6.7665538907684875,20.600807409166467,17.464153375221525,2.659700783661838/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022001:0178/pct:6.765463917525773,20.598361628873324,17.46670962199313,2.663342435395148/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1160,7 +1160,7 @@ Virginia, assembled in full and free Convention, which
 pertained to them and their posterity, as the basis  
 and foundation of Government; requiring in the opin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022001:0178/pct:24.649589173513775,35.44288767513655,18.044143708715964,6.008074091664688/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022001:0178/pct:24.64561855670103,35.438679805295024,18.046606529209622,6.0113182159958845/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1179,7 +1179,7 @@ at id free Convention; which rights do pertain to
 them, and their posterity, as the basis and founda­  
 tion tf Government
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022201:0182/pct:6.232799093411041,20.14251781472684,17.888942852517403,2.7078384798099764/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022201:0182/pct:6.23179022337326,20.140125875786723,17.891442753857774,2.7114752800538335/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1198,7 +1198,7 @@ atut fret Convention; xehxeh rights do pertain to
 them, and their posterity, as &#x27;he basis and founda­  
 tion if Government
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022301:0186/pct:6.025077348965967,19.596439169139465,17.782120175867124,2.6824925816023737/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022301:0186/pct:6.024096385542169,19.594113458343223,17.78465212200152,2.686130231822138/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1219,7 +1219,7 @@ Virginia, assembled in full and free Convention, which
 pertained to them and their posterity, as the basis  
 and foundation of Government; requiring in the opin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022301:0186/pct:24.42598925256473,37.13946587537092,18.23807197524833,3.192878338278932/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022301:0186/pct:24.4220123738196,37.13505815333492,18.24052968631282,3.1964554157765646/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1238,7 +1238,7 @@ of the good People of Virginia, assembled in full
 Cut!», and their posterity, as &#x27;he basis and founda­  
 tion of Government
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022401:0190/pct:6.8324987885640445,72.34722880151587,17.751574866742043,2.6764566556134533/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022401:0190/pct:6.8313953488372094,72.33866193013617,17.75409130060293,2.6800868363923427/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1273,7 +1273,7 @@ bled in full and free. Contention; which
 rights do pertain to them, and their Posterity,  
 as the basis and foundation of Gocernmenl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830022601:0145/pct:4.116296863045141,59.4675540765391,14.353481254781943,10.460343871325568/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830022601:0145/pct:4.115667074663403,59.46095829636202,14.35638514891881,10.462880804495711/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1292,7 +1292,7 @@ and free Contention; which rights do jot-tain to
 them, and their jiosicrity, as the basis und founda­  
 tion of Government
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030101:0206/pct:5.29074529074529,72.24857685009488,17.70679770679771,2.6446869070208727/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030101:0206/pct:5.289878807730101,72.24000948654097,17.709356916693963,2.6483260207913357/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1311,7 +1311,7 @@ of the good People of Virginia, assembled in full
 them, and their posterity, as he basis and founda- i  
 Uon of Government
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030201:0210/pct:5.5537459283387625,72.4187040113933,17.21498371335505,2.6940422501780206/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030201:0210/pct:5.552841556749715,72.41011035955856,17.217608424252294,2.697678098176496/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1330,7 +1330,7 @@ and free Convention; which rights do pertain to
 litem, and their posterity, us he basis and founda­  
 tion of Government
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030301:0214/pct:4.757265789900958,73.62611275964392,17.989933430751744,2.706231454005935/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030301:0214/pct:4.7564935064935066,73.61737479230952,17.992424242424242,2.7098662868897856/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1349,7 +1349,7 @@ of the good People of Virginia, assembled in full
 Utem, nnd their posterity, as die basis and founda­  
 tion of Government
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030501:0222/pct:5.228013029315961,73.616060822048,17.866449511400653,2.70848182466144/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030501:0222/pct:5.227161700048852,73.60731678346598,17.86896813765402,2.712119412440116/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1374,9 +1374,9 @@ as the basis and foundation of government. Unanimousl
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1842-07_11_49/page/n75/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1842-07_11_49/page/n75/mode/1up?view=theater)
 
-#### 1842-07-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1842-07-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1410,7 +1410,7 @@ rulI and free convention : which tights do pertain to
 Lhrtn and their posteuly, as the basis and foundation  
 &gt;( Government
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661332:1844013101:0109/pct:19.26720285969616,47.11230631322832,18.248436103663984,4.225893200153669/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661332:1844013101:0109/pct:19.26720285969616,47.12084347120843,18.254393803991658,4.225893200153669/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1488,7 +1488,7 @@ i their power to encourage a direct trade between the ports of
 j this State and foreign countries. What say editors of Vir­  
 ? ginia : 1st, as to a line of steamboats between Virginia an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566431A:1850030801:0274/pct:36.364965638251206,76.40215643620543,15.908758590437198,3.612976449446704/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566431A:1850030801:0274/pct:36.3698396451723,76.40846180522715,15.908758590437198,3.612976449446704/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1521,7 +1521,7 @@ powers of the State and the tenure of those exercis­
 ing the Judiciary powers. After declaring “that the  
 Legislative and&#x27;Executive powers of the State shoul
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024718:00414183736:1850072401:0115/pct:66.20935656468652,35.60701482414495,14.775689394978736,10.444724348415852/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024718:00414183736:1850072401:0115/pct:66.2002743484225,35.60356520054253,14.778235025148605,10.446941807143318/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1539,7 +1539,7 @@ good people of Virginia, assembled &lt; 1770^ in full and free
 convention: which rights do pertain to them aud th*rr  
 posterity, as the basis and foundation of government
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851031401:0087/pct:18.269520651190835,54.6694648478489,15.978293638830268,1.9173900600973004/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851031401:0087/pct:18.269520651190835,54.67582435053579,15.98331825947141,1.9142103087538553/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1558,7 +1558,7 @@ full and free convention, which rights do pertain to them &#x27;
 una their posterity :&gt;.s the basis an 1 foundation of gov- (  
 ernment unanimously adopted June 12th, 1776.&quot; Would 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851031801:0100/pct:31.74368817363059,91.31917381137959,15.916137605197106,2.416212003117693/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851031801:0100/pct:31.74368817363059,91.32566900493634,15.930902111324377,2.416212003117693/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1595,7 +1595,7 @@ in full and free Convention, which rights do
 pertain to them and their poster ity as the basis  
 and foundation of government
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024718:00414183736:1851080601:0331/pct:29.84932808470205,3.311450086889361,26.143613411157865,91.84205445066615/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024718:00414183736:1851080601:0331/pct:29.84527687296417,3.311130417994015,26.14458921462179,91.83640634552884/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1615,7 +1615,7 @@ tion, which rights do gertain to them and
 their posterity as the basis and founda­  
 tion of government
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851080701:0180/pct:151.65947871741983,52.63307310149042,45.321582598912435,11.653655074520938/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851080701:0180/pct:37.907761529808774,13.156400794777179,11.328271466066742,2.913000283848992/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1635,7 +1635,7 @@ tion, which rights do pertain to them and
 » their posterity as the basis and founda­  
 tion of government
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393349001:1851081201:0103/pct:2.435233160621762,14.782608695652174,11.882556131260795,3.192934782608696/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393349001:1851081201:0103/pct:2.43481264030392,14.780600461893764,11.884821274391296,3.195897296562967/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1672,7 +1672,7 @@ in full and free Convention, which rights do
 pertain to them and their posterity as the basis  
 and foundation of government
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024718:00414183736:1851081301:0334/pct:4.617270498501771,21.113168924846477,13.83819122854808,12.340384053026611/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024718:00414183736:1851081301:0334/pct:4.616641699577829,21.11111111111111,13.840846157338055,12.342430149447694/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1707,7 +1707,7 @@ and free Conrention, which rights do periain to
 thent and their posterity as the basis and founda­  
 tion of government
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851081401:0188/pct:56.41498984677866,73.62032462949894,44.61879268968063,34.848270995059984/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851081401:0188/pct:14.101144333702473,18.402483770815692,11.15263935031377,8.710838272650296/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1737,7 +1737,7 @@ good people of Virginia, assembled in fall and free Con­
 vention, wliic&#x27;i rights do pertain to them and their posterity  
 as the basis and foundation oj government
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851081501:0398/pct:1.8851120676859137,8.191925102399063,16.387115926970463,7.694558221181977/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851081501:0398/pct:1.8900598683885013,8.19842663025811,16.397011528375636,7.691307457252455/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1772,7 +1772,7 @@ and free Convention, which rights do pertain to
 them ami their jester it y, as the basis and founda­  
 tion of government
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851081901:0363/pct:17.923202996956217,22.34717814267973,15.804261297120112,9.728163377949496/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851081901:0363/pct:17.921104998244175,22.345636426353916,15.806313160872449,9.72979188225825/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1791,7 +1791,7 @@ i,ootl people of T&#x27;irginia, assembled in full and free Con­
 vention, which rights do pertain to them and their posterity  
 as the basis and foundation of government
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851082201:0406/pct:3.7916789613455295,13.158660844250363,16.169961640601947,2.2804463852498786/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851082201:0406/pct:3.796596832890725,13.16513019569788,16.169961640601947,2.2804463852498786/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1810,7 +1810,7 @@ and free Con vent ion% irkoh rights do pertain to
 them and their posterity, as the basis and founda­  
 tion of government
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851082601:0389/pct:16.271704706781698,30.629139072847682,14.55716937861745,2.0350441501103753/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851082601:0389/pct:16.269927931862853,30.627026281299578,14.559219625828055,2.037203099491849/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1829,7 +1829,7 @@ in full and free Contention, which &#x27;Rights do
 pertain to them and their posterity as the basis  
 end foundation of goicrnrhent
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157327:1851082801:0418/pct:43.76145260702982,35.16699410609037,12.060636348492421,2.161100196463654/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157327:1851082801:0418/pct:43.754163890739505,35.16267648864334,12.062791472351766,2.1639042357274403/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1859,7 +1859,7 @@ ood people of Virginia, assembled in full and free Con­
 rcnJiun, which right* du pertain tu them and their posterity  
 us the basis and foundation of government
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851082901:0414/pct:2.9079159935379644,8.461911693352741,16.199148186224114,7.5400291120815135/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851082901:0414/pct:2.9079159935379644,8.4651463690765,16.20404366769472,7.5400291120815135/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1878,7 +1878,7 @@ and free Convention, which rights do -pertain to
 them awl their jwsterity, as the basis ami founda­  
 tion of government
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851090201:0415/pct:16.97408871321915,32.54060324825986,14.55862977602108,2.16792343387471/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851090201:0415/pct:16.9722252717093,32.53824403683028,14.560690891792001,2.1701829430387396/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1903,7 +1903,7 @@ and free Convention: which rights do pertain to
 &#x27;them, and their postenty, as the basis and  
 | foundation of Government. Unanimousl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851101001:0546/pct:58.255421686746985,38.49427853753838,12.896385542168675,4.877197878872453/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851101001:0546/pct:58.24980724749422,38.49159282774018,12.898355178617322,4.879183236819461/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1945,7 +1945,7 @@ rights do pertain to them and their
 posterity, as the Basis and Foundation  
 oF GOVErNMent
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_johnhenry_ver01:data:sn84024738:00280777973:1861030901:0236/pct:97.55591764183085,168.4804600149079,37.4314916308695,7.049302523692898/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_johnhenry_ver01:data:sn84024738:00280777973:1861030901:0236/pct:32.518639213943615,56.16015333830263,12.4771638769565,2.3497675078976323/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1977,7 +1977,7 @@ rembted in fall and free Conrention which rights do per­
 tain to them and teir poster ty s the busls and foundation  
 of vovernment
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn86071866:00414184728:1861122401:0594/pct:56.90559440559441,51.93536264562195,42.39510489510489,20.869347363146687/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn86071866:00414184728:1861122401:0594/pct:18.965215871351162,17.309619238476955,14.129231486336888,6.955577822311289/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2014,7 +2014,7 @@ tion, which rights do pertain to them and their
 posterity as the basis and foundation of Gov­  
 ernment
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762453:1861122401:0362/pct:43.47430058555628,12.496370148097958,12.973324658425504,10.773400445261833/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762453:1861122401:0362/pct:43.48297549338538,12.499596683121995,12.973324658425504,10.77662698028587/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2050,7 +2050,7 @@ tion, which rights do pertain to them and their
 posterity us the basis and foundation of Gov­  
 ernment. __i _*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762453:1861123101:0364/pct:56.590761223162005,12.370535282160487,12.80416395575797,10.850837285838738/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762453:1861123101:0364/pct:56.59943613099111,12.376988352208564,12.808501409672521,10.854063820862775/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2087,7 +2087,7 @@ tion, which rights dopertain to them and their
 posterity as the basis and foundation of Gov­  
 ernment
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762465:1862010701:0014/pct:83.0355978615204,12.921564848718443,12.791759029860478,10.599344767777993/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762465:1862010701:0014/pct:83.0442908679967,12.927988694032248,12.791759029860478,10.592920922464186/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2125,7 +2125,7 @@ tion, which rights do pertain to them and tlieir
 posterity as the basis and foundation of Gov­  
 ernment
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762465:1862011401:0016/pct:82.42274090494197,12.285604162651763,12.843917068718216,10.975139718635575/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762465:1862011401:0016/pct:82.42708740818011,12.292028007965568,12.856956578432651,10.96871587332177/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2161,7 +2161,7 @@ tion, which rights do pertain to tJunn and their
 posterity as the basis and foundation of Gov­  
 ernment
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762465:1862012101:0019/pct:3.3381144868952926,12.96974368857198,13.222062850436824,10.531894391983041/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762465:1862012101:0019/pct:3.3468074933715823,12.972955611228882,13.226409353674969,10.531894391983041/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2181,7 +2181,7 @@ in full and free Convention, which rights do per-­
 tain to them and their posterity as the basis and  
 foundation of government
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741947:1868012501:0095/pct:51.325398972139574,210.40132547864508,40.88450094671355,8.072533136966127/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741947:1868012501:0095/pct:17.108466324046525,70.13377515954835,13.62816698223785,2.690844378988709/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2211,7 +2211,7 @@ assembled in full and free Convention,
 posterity as the basis and foundation of  
 government
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_iceland_ver01:data:sn84026788:00202192324:1868020401:0023/pct:15.703056768558952,24.971477467199087,13.519650655021834,8.899030233884769/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_iceland_ver01:data:sn84026788:00202192324:1868020401:0023/pct:15.707423580786026,24.9750427837992,13.519650655021834,8.899030233884769/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2230,7 +2230,7 @@ full and free Convention, which rights do per:­
 tain to them and their posterity as the basts and  
 foundation of povernment
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741947:1868041801:0386/pct:3.0001363698349923,206.2203575337468,40.27001227328515,6.23859905144108/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741947:1868041801:0386/pct:1.000045456611664,68.7401191779156,13.423337424428382,2.0795330171470265/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2250,7 +2250,7 @@ tion, wchich rights do pertain to them and
 their posterity as the basis and foundation  
 of povernment
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741960:1869051801:0485/pct:6.222400642312325,249.29318891132735,41.42914492171818,9.776023499173856/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741960:1869051801:0485/pct:2.0741335474374414,83.09772963710911,13.809714973906061,3.258674499724619/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2275,7 +2275,7 @@ and free Convention, which rights do per­
 fain to them and their posterity, as the ba  
 th oel Youndation of Government
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn85026955:0020029354A:1869070901:0203/pct:16.408450704225352,79.25865358408285,44.29577464788732,26.328699918233852/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn85026955:0020029354A:1869070901:0203/pct:4.104280429804474,19.814663396020713,11.079795666725383,6.582174979558463/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2333,7 +2333,7 @@ sembled in full and free convention; which
 rights do pertain to them and their posterity, as  
 the basis and foundation of Government, unan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:00206533523:1879012101:0382/pct:289.5295902883156,163.05920566957036,50.758725341426405,24.804370293813673/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:00206533523:1879012101:0382/pct:72.42360979312963,40.76480141739259,12.696906433858418,6.201092573453418/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2363,7 +2363,7 @@ convention; which rights do pertain to
 them and their posterity, as the basis  
 and foundation of Government, unani
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_angel_ver01:data:sn85034336:00211101039:1879013101:0395/pct:104.37610881135423,50.92797548101481,42.81490242460083,28.809807594074577/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_angel_ver01:data:sn85034336:00211101039:1879013101:0395/pct:34.79203627045141,16.975991827004936,14.271634141533609,9.60326919802486/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2440,7 +2440,7 @@ ment, that all power is vested in
 and consequently derived from the peo­  
 ple.&quot; The sovereign power of taxatio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eagle_ver01:data:sn83025733:0020029659A:1887072501:0123/pct:213.2852729145211,110.44726852615943,66.11740473738413,39.08235682455851/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eagle_ver01:data:sn83025733:0020029659A:1887072501:0123/pct:53.34878928387429,27.61181713153986,16.537867078825347,9.770589206139627/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2510,7 +2510,7 @@ Full and Free Convention, which Rights
 do Pertain to Them and Their Posterity as  
 the Basis and Foundation of Government
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ironmaiden_ver02:data:sn85038614:00175031066:1892013101:0150/pct:85.6282415927723,68.38682162277428,40.67257821649657,10.395564559121441/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ironmaiden_ver02:data:sn85038614:00175031066:1892013101:0150/pct:28.542747197590764,22.795607207591427,13.557526072165523,3.4651881863738137/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

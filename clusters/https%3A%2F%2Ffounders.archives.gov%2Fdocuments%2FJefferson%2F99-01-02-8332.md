@@ -59,7 +59,7 @@ writs not {pecially provided for by sta­
 tute, which may be neceflary for the  
 exercise ot their refpetive jurifdiftions
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789123001:0514/pct:32.01133144475921,53.09054460407618,20.70349386213409,6.030738389575677/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789123001:0514/pct:32.01133144475921,53.09054460407618,20.73497009757633,6.047444036084197/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -78,7 +78,7 @@ The 14 Seaion of the Judicial A3 cnafts, &quot; That all the be­
 11 not specially provided Jor by Statute which may be necessary for  
 &quot; the exert:ite ot their refpeftive jurifdiftions, and agreeable t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791081301:0001/pct:34.08004778972521,46.22356495468278,26.493428912783752,3.153323262839879/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791081301:0001/pct:34.08004778972521,46.233006042296076,26.523297491039425,3.143882175226586/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -177,7 +177,7 @@ be principles and usages of
 lv this prevision a power is  
 given to the courts of the United State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805080701:0002/pct:7.267267267267267,25.806010928961747,17.057057057057058,6.33879781420765/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805080701:0002/pct:7.280613947280614,25.81511839708561,17.057057057057058,6.347905282331512/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -199,7 +199,7 @@ other writs, not specially provided for
 by statute, which may be necessary for  
 the exercise of their respective jurisdic- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807022301:0002/pct:2.8656971770744226,40.94850948509485,18.477331052181352,5.013550135501355/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807022301:0002/pct:2.8656971770744226,40.94850948509485,18.491588252067295,5.013550135501355/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -220,7 +220,7 @@ otber w^Utf not especially provided for by statute,
 ftpectjve&#x27;jUrisdictions and agreeable to the principles  
 of law. And that either of the justices of the Su
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807022701:0393/pct:3.4963263237902202,34.47420634920635,22.042057258677477,4.84457671957672/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807022701:0393/pct:3.4954407294832825,34.468507191271286,22.042806484295845,4.847908745247148/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -242,7 +242,7 @@ and all other writs not specially provid­
 ed for by statuti , wliloh may bt neees  
 for the ex heir respectiv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807040601:0001/pct:3.468208092485549,42.7485062466051,17.91907514450867,5.038022813688213/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807040601:0001/pct:3.4753443231285237,42.7485062466051,17.93334760579462,5.0470758645663585/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -602,7 +602,7 @@ character ! feel the sincerest regard.
 * Yours very respectfully,  
 ‘ _C. A. RODNEY
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808072901:0107/pct:3.9883445638317245,2.1942401196858246,52.97759970861409,95.0629597307069/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808072901:0107/pct:3.98761835396941,2.193966591872351,52.97402282107308,95.05526468877254/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -957,7 +957,7 @@ different rules of action n
 prescribed for the citizens of tie  
 I ferent states, instead of that unity of&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808080101:0002/pct:39.17695473251029,4.189364461738003,54.97942386831276,91.51750972762646/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808080101:0002/pct:39.17695473251029,4.189364461738003,54.98628257887517,91.52615650670126/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1006,7 +1006,7 @@ Yours very respectfully, 5
 (Signed) ;  
 C. A. RI I t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808080101:0003/pct:4.6835443037974684,3.773827923750644,18.50210970464135,25.0/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808080101:0003/pct:4.6835443037974684,3.773827923750644,18.50914205344585,25.00858663918942/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1309,7 +1309,7 @@ and lor wboae character f feel the sincerest regard.
 ^ouri ve,7 respectfully,  
 T. CS&#x27;gn^d) C. A. RODNEY
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808080101:0030/pct:26.6816704176044,4.147465437788019,64.06601650412603,93.21922317314022/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808080101:0030/pct:26.675,4.14678295211453,64.05625,93.20799736712193/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1396,7 +1396,7 @@ Wsisictss&#x27;ss ctinality as in the case of an of-ss
   
 22; sisssisssi-siall crimes and oﬀence? cognizable
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808080301:0212/pct:3.965023368008443,4.777357129980169,23.880597014925375,49.711555795925726/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808080301:0212/pct:3.9644256858607174,4.776926543488058,23.882021907345994,49.71007961544239/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1451,7 +1451,7 @@ e they considered implied them.—
 NM their acthoritv. ba s be  
 practieelbelieve, sum orml en
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808080301:0212/pct:3.965023368008443,52.74923382008293,23.820292477008895,34.56823508202632/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808080301:0212/pct:3.9644256858607174,52.74447949526814,23.821726459652297,34.568123779480246/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1711,7 +1711,7 @@ regard.
 Yours very respectfully,  
 Signed C. A. RODNEY
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808080301:0212/pct:28.267752148349164,2.217414818820984,47.67073722297603,93.05931133946277/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808080301:0212/pct:28.263491106421466,2.2172149616944568,47.6685760225103,93.05392819588403/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2671,7 +2671,7 @@ lor mbiiglaiid but a single one of several courts
 *|,Soel&quot;-ra* Jurisdiction, possess this autho­  
 rity . it is true that in Jingiand this power i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808092101:0116/pct:25.066409079932384,63.43187660668381,20.35740159381792,4.289845758354756/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808092101:0116/pct:25.060357315306614,63.42168674698795,20.358522452921296,4.293172690763052/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2699,7 +2699,7 @@ against the collector. 1
 _ Fourth, A mandamus is not issued to a mi­  
 nisterial officer to compel him to do his duty
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808092101:0116/pct:67.03694759719875,76.4620822622108,20.01931900507124,9.945372750642674/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808092101:0116/pct:67.02076291646547,76.44979919678715,20.02052148720425,9.947791164658634/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2868,7 +2868,7 @@ habeas corpus, and all other writs, not specially
 provided for by statute, which may be necessary  
 for the exercise of their respective&#x27;jurisdictions
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216481:1833072401:0057/pct:20.461401952085183,58.83964143426295,18.331854480922804,3.8595617529880477/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216481:1833072401:0057/pct:20.45777146912704,58.83231669363874,18.33451620534658,3.8632308394539194/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2887,7 +2887,7 @@ cially provided for by statute, which may be ne­
 cessary for the exercise of their respective juris­  
 dictions, and agreeable to the principles and uga
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216481:1833112601:0476/pct:24.117966347023703,14.636899535933777,18.635787950063325,3.361344537815126/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216481:1833112601:0476/pct:24.113603473227208,14.635063957863055,18.638446695610227,3.3651032522364352/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2925,7 +2925,7 @@ specially provided for by statute, which i
 may be necessary for the exercise of 1  
 their respectivejurisdictions,nndagree- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:0039334894A:1833120501:0414/pct:16.183236647329466,62.192013593882756,15.483096619323865,3.780798640611725/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:0039334894A:1833120501:0414/pct:16.18,62.18320826844117,15.485,3.783802916607674/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2949,7 +2949,7 @@ it is enacted, “that all the before-mentioned
 cleatly indicating that the powr rs granted were  
 ! the means by which they were to exercise thei
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jumboshrimp_ver01:data:sn85025007:0041421650A:1834080601:0124/pct:42.77398968900715,33.69354055366683,17.877931149176785,5.998057309373483/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jumboshrimp_ver01:data:sn85025007:0041421650A:1834080601:0124/pct:42.76687728633189,33.689450042491195,17.880501053098325,6.001375905467201/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3232,7 +3232,7 @@ may be necessary &quot;for the exercise of their respec-­
 tive jurisdictions, and agreeable to the principles  
 and usages of law. And that either of the jus.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271742903:1844122901:0740/pct:245.5586916818861,232.3519263944796,47.4016270961315,14.192064404830361/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271742903:1844122901:0740/pct:81.85289722729537,77.4506421314932,15.800542365377165,4.730688134943454/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3283,7 +3283,7 @@ spective juridictions, and agreeable to the
 principles and usage of law. And that  
 either of the Justices of the Suprem
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023295:00200296102:1845010901:0007/pct:205.52721088435374,224.08719346049045,59.183673469387756,20.87193460490463/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023295:00200296102:1845010901:0007/pct:51.381802721088434,56.02179836512261,14.795918367346939,5.217983651226158/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3301,7 +3301,7 @@ beas corpus, and all others writs not specially pro­
 vided for by statute, which may be necessary for  
 the exercise of their respective jurisdictions, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027522:1845011001:0185/pct:29.757929883138566,19.207138677589235,19.574290484140235,3.1158572264482154/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027522:1845011001:0185/pct:22.338204592901878,14.40901111761264,14.697286012526096,2.3405500292568755/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3407,7 +3407,7 @@ lsproviced that all the
 specially provided for by the statate, which may be necenary for  
 the exereise of their respective jurisdiction and arrecable to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_airy_ver01:data:sn83030213:00206530431:1854020801:0259/pct:151.58755612572162,235.61401439188393,45.70237331622835,8.694113483543706/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_airy_ver01:data:sn83030213:00206530431:1854020801:0259/pct:50.52918537524054,78.53800479729465,15.234124438742784,2.898037827847902/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3425,7 +3425,7 @@ pus, and all other writs, not specially provided for by
 Statute, which may be necessary for the oxercise of thelr  
 respective jurisdiction, and agreeable to the principle
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743099:1854050301:1000/pct:248.57836338418863,63.50035620992638,47.156726768377254,5.295654238898124/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743099:1854050301:1000/pct:82.85945446139621,21.166785403308793,15.718908922792417,1.765218079632708/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3540,7 +3540,7 @@ other writs not specially provided for by statute,
 which may be necessary for the exercise of  
 their respective jurisdictions, and agreeable t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn84024558:00296028630:1855092901:0188/pct:31.42680476116865,23.498312710911136,14.654506106044211,2.8233970753655795/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn84024558:00296028630:1855092901:0188/pct:31.42680476116865,23.505811773528308,14.654506106044211,2.819647544056993/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3563,7 +3563,7 @@ dictions, and agreeable to the principles anc usages of
 law.&quot;  
 I am awsre that it has sometimes been contended o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530480:1855101501:0302/pct:105.36512667660209,218.32611832611832,47.40851134293757,12.938912938912939/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530480:1855101501:0302/pct:35.121708892200694,72.77537277537277,15.802837114312524,4.3129709796376465/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3592,7 +3592,7 @@ federal courts can only issue the writ of habeas corpus
 when it has become necessary to the exercise of an other­  
 wise delegated jurisdiction ; in other words, that it is sub
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855101701:1093/pct:2.7533587659645047,59.58482829318298,15.939625145131863,6.957970271655562/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855101701:1093/pct:2.76441643169127,59.59337092089527,15.945153977995245,6.957970271655562/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3611,7 +3611,7 @@ abeas corpus, and all other writs not specially wr
 rovided for by statute, which may be necessa- rel  
 y for the exercise of their respective jurisdic- fu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1855112201:0404/pct:61.1497005988024,37.04156479217604,12.634730538922156,2.4355839759262743/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1855112201:0404/pct:61.1497005988024,37.044699391887654,12.634730538922156,2.441853175349508/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3653,7 +3653,7 @@ have exclusive cognizance of all crimes and offences
 cognizable under the authority of the Confederate  
 States, except where the laws of the Confederat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293320:1861072301:0077/pct:332.02492211838006,246.5149026050223,49.034267912772584,16.14644449659704/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293320:1861072301:0077/pct:83.01916186321857,61.62872565125557,12.260476709767877,4.03661112414926/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3677,7 +3677,7 @@ have exclusive cognizance of all crimes and offences
 cognizable under the authority of the Confederate  
 States, except where the laws of the Confederat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293320:1861081701:0167/pct:68.04187192118226,231.11425873465532,49.13793103448276,16.14730878186969/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293320:1861081701:0167/pct:17.018327429539504,57.77856468366383,12.290158632373325,4.036827195467422/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3698,7 +3698,7 @@ specially provided for by&#x27; statute, wbicb
 may be necessary for the exercise of their  
 respective jurisdictions and agreeable t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn84026845:00202190728:1863070101:0008/pct:16.50980392156863,25.130123617436563,13.235294117647058,3.8386467143786596/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn84026845:00202190728:1863070101:0008/pct:16.519607843137255,25.13418998048146,13.235294117647058,3.846779440468445/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3750,7 +3750,7 @@ the exercise of their n spe;tlve jurisdictions a?rcca­
 ahly to the principles and usages of Saw. The words*  
 in the section, ” the before mentioned” courts, cm 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_edgewater_ver02:data:sn84031490:no_reel:1864031001:0003/pct:44.02468674022816,27.244049326068254,9.818589863474847,2.3515916260395757/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_edgewater_ver02:data:sn84031490:no_reel:1864031001:0003/pct:44.02468674022816,27.251218812733008,9.82794090144006,2.355176369371953/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3812,7 +3812,7 @@ vides that the Federal Courts hall have ? power to
 issue writs of scire facias, habeas corpus, and all  
 other writs necessary for the exercise ol their r
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022810:1864082601:0351/pct:28.798109385550305,36.55992236778263,19.564483457123565,1.965065502183406/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022810:1864082601:0351/pct:21.614319486659912,27.42600679281902,14.674096588990206,1.467734109655507/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3845,7 +3845,7 @@ be necessary for the exorcl a of thelr respective juriedic,
 tions, and agrecable to the principles and usages of law. And  
 that either of the Justices of the Supreme Court, as well a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_delphi_ver02:data:sn83030213:00206530820:1866022201:0403/pct:5.9303977272727275,149.27261227071475,48.47301136363637,23.048703352308664/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_delphi_ver02:data:sn83030213:00206530820:1866022201:0403/pct:1.9767992424242424,49.75753742357158,16.157670454545453,7.682901117436222/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3958,7 +3958,7 @@ power to issue writs of scire facias, ha beas corpus and all
 other writs not specially provided for by statute which may  
 a an ane ecessar or the exrie of ther repective ursdiction
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743683:1869101601:0197/pct:88.021996906685,57.987375576596264,58.876095549063415,6.846321922796795/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743683:1869101601:0197/pct:29.340665635561667,19.329125192198752,19.625365183021138,2.282107307598932/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3988,7 +3988,7 @@ y provided for by stafute, which may be necessary
 exercise of their respective jurisdictions and agree  
 f law. U.S. Statntes, $1.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_euclid_ver01:data:sn83030214:00206530935:1869102601:0395/pct:100.92047683718123,143.15143545912775,46.43126603289573,6.88143765066842/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_euclid_ver01:data:sn83030214:00206530935:1869102601:0395/pct:33.64015894572707,47.71714515304259,15.47708867763191,2.293812550222807/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4009,7 +4009,7 @@ specially provided for by statute, which may be
 necessary for the exercise of their respective juris-­  
 dictions and agreeable to the principies an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743683:1869102601:0321/pct:99.14339557992119,65.71394114809455,45.55422305979099,8.453931500241197/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743683:1869102601:0321/pct:33.0477985266404,21.90464704936485,15.18474101993033,2.8179771667470654/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4029,7 +4029,7 @@ of s.*ire/rt«(i«, Artfva# c-r/-*!*, and all other writs
 not specially provide*] for by statute, which may  
 l*e necessary for tlie exercise of their respectiv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_lake_ver02:data:sn82014064:no_reel:1869102601:0001/pct:21.582444131266357,84.65346534653466,9.140326152607207,1.7821782178217822/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_lake_ver02:data:sn82014064:no_reel:1869102601:0001/pct:21.592510569760417,84.66584158415841,9.130259714113146,1.7904290429042904/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4051,7 +4051,7 @@ pecially provided for by statute,
 which inay be necessary for the ex­  
 ercise of their respective jurisdiction
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200293009:1869102801:0521/pct:28.758169934640524,155.52060396351052,37.61140819964349,11.240432001677677/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200293009:1869102801:0521/pct:7.192747807995245,38.88015099087763,9.407044137316095,2.810108000419419/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4072,7 +4072,7 @@ habeas corpus, and all other writs not specially
 provided by stittuio which may be necessary  
 Tor the exercise of their respective jurisdiction&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_brandonblaze_ver01:data:sn84026994:00294551736:1869102902:0212/pct:28.70204081632653,70.3188981263184,13.551020408163266,2.791909666211689/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_brandonblaze_ver01:data:sn84026994:00294551736:1869102902:0212/pct:28.712925170068026,70.32717045125533,13.551020408163266,2.787773503743227/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4092,7 +4092,7 @@ habeas corpus, and all other writs not specially
 provided by statute which may be necessary  
 for the exercise of their respective Jurisdiction
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_brandonblaze_ver01:data:sn84026994:00294551748:1869102901:0201/pct:29.3908547422847,71.92382255673395,13.750201971239296,2.52024176074809/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_brandonblaze_ver01:data:sn84026994:00294551748:1869102901:0201/pct:29.396240641999245,71.93142509598206,13.76097377066839,2.52024176074809/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4196,7 +4196,7 @@ tion of the Judiciary act, which provides that the
 Court may issue writs of scire facias, habeas cor-­  
 pus and all other writs which may be necessary fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743804:1872121301:0942/pct:53.81006309658631,238.2346241457859,45.575149652159844,11.594533029612757/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743804:1872121301:0942/pct:17.936687698862105,79.41154138192863,15.191716550719947,3.8648443432042523/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4214,7 +4214,7 @@ mentioned courts of the United States- that is,
 the Supreme Court, Circuit Courts and District  
 Courts, shall have
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558330:1875042201:0387/pct:150.7969507969508,78.66323907455013,42.96604296604296,5.604113110539846/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558330:1875042201:0387/pct:37.71884208701682,19.665809768637533,10.747096550528688,1.4010282776349614/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4233,7 +4233,7 @@ Court, the Circult Courts and the District Courts
 &quot;shall have power to issue writs of serte facids,  
 hatbes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206533468:1875042201:0620/pct:184.71290082028338,150.86016762240848,49.21700223713646,9.52801058667843/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206533468:1875042201:0620/pct:46.178225205070845,37.71504190560212,12.304250559284116,2.3820026466696076/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4468,7 +4468,7 @@ material. The record shows that a new
 trial had been asked for in the Supreme Court of  
 the State. After several months 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_hanyu_ver01:data:sn83030193:00206539057:1887102703:0217/pct:64.63320463320463,221.65366614664586,52.04633204633205,29.079563182527302/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_hanyu_ver01:data:sn83030193:00206539057:1887102703:0217/pct:16.161421123769067,55.413416536661465,13.0140953852095,7.2698907956318255/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

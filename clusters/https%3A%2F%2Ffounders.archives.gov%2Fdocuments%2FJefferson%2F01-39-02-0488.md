@@ -44,7 +44,7 @@ of benign providence, render the militia
 a sore and permanent lvulwark ol&#x27; national  
 defence.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803021901:0136/pct:32.13318464234507,80.10485160831705,21.85757527481281,10.956104496179137/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803021901:0136/pct:32.12806626314113,80.0977343402932,21.859403206966125,10.958092699540945/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -158,7 +158,7 @@ and be ready to do with promptitude and
 effecL whatever a regard to juftice and  
 our future fecurity, mayrcqnir 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803041501:0003/pct:5.527838754739573,28.618205631958087,17.022550389143884,27.871643745907008/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803041501:0003/pct:5.527838754739573,28.626937349923598,17.035854453535556,27.867277886924253/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -231,7 +231,7 @@ tion and respect.
   
 TH : ]EFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803041601:0313/pct:24.532603739170085,4.5446315408292595,22.03982368141055,44.61343472750317/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803041601:0313/pct:24.52887537993921,4.544220150267041,22.041540020263426,44.61241362662563/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -366,7 +366,7 @@ tual provifion againi&#x27;t its repicition, let |
 us array the ftrength of the nation, and  
 be ready
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024679:00414184364:1803042301:0127/pct:9.829451677975426,13.663341330976133,20.099028057949752,33.21126404849097/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024679:00414184364:1803042301:0127/pct:9.827649431609828,13.66161616161616,20.101454589903433,33.21127946127946/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -423,7 +423,7 @@ bg ready to do with promptitude and
 effcct, whatever a regard to juftice  
 and our future fecurity, may require
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1803060401:0339/pct:10.791635548917103,28.455666470933647,22.012696041822256,34.44509688784498/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1803060401:0339/pct:10.791635548917103,28.463495791740065,22.025143141647995,34.4529262086514/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -443,7 +443,7 @@ the power, reserved to the States re­
 {pectively, by the coaftitution of the  
 United States. Perhaps the Militi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1803060701:0296/pct:58.263133711134934,5.972797161442934,16.09741154847603,3.5580524344569286/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1803060701:0296/pct:58.273344565272886,5.9760825284184245,16.08720069433808,3.554767067481438/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -470,7 +470,7 @@ dopted by the-national legislature, agree. s
 ably to the powers reserved to the stake:  
 respectively by the Conditution&#x27;os th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803061001:0468/pct:32.85518083320616,57.0976253298153,21.776285670685184,7.994722955145119/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803061001:0468/pct:32.850167836435766,57.09260399261279,21.778049028583055,7.996951308885175/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -498,7 +498,7 @@ tions can be made more beneficial than those
   
 which years have sanctioned, conclude that noth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197966:1840062401:0522/pct:28.822714681440445,105.0240329594873,20.277008310249307,10.059510185397116/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197966:1840062401:0522/pct:21.626489332224992,78.7708857862211,15.211970074812967,7.553215838864729/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -581,7 +581,7 @@ nation,&quot; said Jerrerson, &quot;can dispense
  and disciplined is therefore at all times im­  
 portant.&quot; And in that remarkable passag
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:0020653350A:1877102501:0266/pct:73.32317073170732,140.29314986539038,51.60060975609756,10.828597068501345/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:0020653350A:1877102501:0266/pct:18.33079268292683,35.073287466347594,12.90015243902439,2.7071492671253363/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

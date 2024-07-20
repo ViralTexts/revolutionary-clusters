@@ -462,7 +462,7 @@ less, the husband of one wife, having faithful
 children, not accused of riot, or unruly. For  
 a( bishop must he blameless, as the steward o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517016494:1846100201:0348/pct:21.767975614129462,54.44883499114321,14.47014523937601,3.8969886905572966/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517016494:1846100201:0348/pct:21.764073144496237,54.44141689373297,14.472032986733597,3.8998637602179835/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -516,7 +516,7 @@ afterwards adds, &#x27;For a Bishop must be blame­
 less as the Steward of God. A Presbyter, there­  
 fore is the same as a Bishop, and before ther
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_minuette_ver01:data:sn87065704:00415662038:1854041201:0525/pct:90.30244173140954,58.96120551458801,19.65871254162042,13.78647002244309/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_minuette_ver01:data:sn87065704:00415662038:1854041201:0525/pct:67.74909797391064,44.22357593245698,14.751595892311963,10.345196109864272/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -534,7 +534,7 @@ band of one wife, having faithful children, not accused of
 riot or unruly. For a bishop must be blameless, as the  
 steward of God?not sell-v. lied, not soon angry, no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854060701:0770/pct:15.88477366255144,21.79179810725552,15.818930041152264,2.2334384858044163/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854060701:0770/pct:15.88477366255144,21.800210304942166,15.824417009602195,2.2334384858044163/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -912,7 +912,7 @@ the Isle of Crete, he says : &quot;If any be blameless
 the husband of one wife, having faithful chil­  
 dren, such should be ordained. Fer- a bishop
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn83032041:00212477692:1871071301:0110/pct:53.69928400954654,79.75460122699387,17.452267303102627,1.8404907975460123/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn83032041:00212477692:1871071301:0110/pct:40.29249365766304,59.8159509202454,13.102522011640053,1.3921661160924965/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -939,7 +939,7 @@ and called tho l.hlcrs of tho church.&quot;
 And at verso 29, tho apostle addresses  
 these Elders, in tho following language
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn83032011:00237287988:1871091501:0476/pct:82.49419054996127,67.98891643575908,14.89155693261038,8.618929561032521/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn83032011:00237287988:1871091501:0476/pct:61.88262638001162,50.99897914539886,11.175673058299438,6.460551261484614/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1015,7 +1015,7 @@ place, and Paul in the other, seem to use
 the words tljcrs and bishops as con­  
 vertible terms. Aud, that two writer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016093:1878022801:0227/pct:16.30010277492292,41.592394533571,12.415210688591984,4.93166963755199/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016093:1878022801:0227/pct:16.296752979860255,41.58621713946235,12.417796958487465,4.934650230209416/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1160,7 +1160,7 @@ blameless.”
 These passages of Scripture seem to  
 make it very plain that the New Test
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016159:1892120801:0402/pct:2.0306513409961684,48.440573194717615,11.149425287356323,4.116324810339983/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016159:1892120801:0402/pct:2.030262401838728,48.43376878775109,11.152078145949051,4.119258322798146/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1211,7 +1211,7 @@ having faithful children, not accused of
 riot or unruly, for a Bishop must be  
 blameless, as the steward of God, no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_arneaux_ver02:data:sn82016211:00211663625:1895100501:0018/pct:37.6294180649768,24.89864059146196,14.869689396644056,6.3200572382542335/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_arneaux_ver02:data:sn82016211:00211663625:1895100501:0018/pct:37.6413185766988,24.90261547022816,14.875639652505058,6.3240321170204306/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

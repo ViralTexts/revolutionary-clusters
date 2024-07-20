@@ -244,7 +244,7 @@ look down upon us, and cover us with
 the mantle of his love.  
 TH : JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804100301:0002/pct:59.92542224171967,0.7279854402911942,37.859179644658916,97.63404731905362/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804100301:0002/pct:59.932733786649116,0.7279854402911942,37.859179644658916,97.64338046572402/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -442,7 +442,7 @@ Great Spirit look down upon us, and cover us
 with the mantle of his love !  
 TH : JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804101001:0186/pct:59.13783734830647,2.6035209521448053,36.06230755297953,93.46640218199852/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804101001:0186/pct:59.12712785222745,2.6031982149497956,36.061813352650006,93.4589479773563/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -656,7 +656,7 @@ us, and cotcr us with the mantle of his
 love.  
 tii s Jefferson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804101001:0309/pct:42.48654880860876,13.113678130742978,56.59108378170638,83.5127330007876/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804101001:0309/pct:42.47838616714697,13.111956949730935,56.58661543387768,83.5061469134182/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -823,7 +823,7 @@ My childzen, thefe ave my words, carry
 ries, and our fricodfhip ia yoot hearts, and may  
 the Great Spirit look down wpon us, aod cove
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1804101101:0573/pct:35.53441522104085,6.890641069592046,40.365603432195485,85.5902182607702/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1804101101:0573/pct:35.54685071193185,6.890641069592046,40.35938568674998,85.5902182607702/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -997,7 +997,7 @@ look down upon us, and cover us with the mantle of
 his love.  
 TH: JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804101301:0158/pct:4.996195790007609,1.7650834403080873,44.762870910474255,93.45314505776636/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804101301:0158/pct:4.994929006085193,1.764800256698219,44.75786004056795,93.44216268249639/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2169,7 +2169,7 @@ Spirit look:- down nupon us, and cover
 ‘us with the mantle of his love.  
 | TH : JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804110601:0592/pct:6.709017663464518,3.8468936333910366,52.10722032847846,89.09405654933641/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804110601:0592/pct:6.709017663464518,3.8468936333910366,52.122714595599625,89.1004680387254/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

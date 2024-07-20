@@ -145,7 +145,7 @@ cate of the certificate, as a check of the fal­
 sification of the Governor’s certificate ; and  
 that in tliis way a supply of the real wants o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808051401:0017/pct:60.58726974284151,68.01372474266107,17.654568666788254,18.24882450120727/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808051401:0017/pct:60.57622173595915,68.00508259212198,17.657427668368587,18.250741211351123/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -217,7 +217,7 @@ respect and consideration, 1
 (Signed) I  
 TH : JEFFERSON. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808052001:0003/pct:5.546391752577319,15.07305819020764,18.185567010309278,39.374519354011795/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808052001:0003/pct:5.553264604810996,15.077330598991711,18.185567010309278,39.38306417157994/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -257,7 +257,7 @@ duplicate of the certificate, as a Check of the falsifi­
 cation of the goveinour’s certificate; and that ,in  
 this way a supply of the real wants of our citizen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808052001:1144/pct:49.36159346271706,70.60897435897436,21.986721144024514,17.371794871794872/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808052001:1144/pct:49.34899157518509,70.59766063130908,21.987490426346692,17.37301714468835/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -314,7 +314,7 @@ thmsgctr the &#x27;jinteressitsss ctof their; do ntss&#x27; . ..
 chair-tibifb-e-infbedf&#x27;ssfaierdctyct-S-ctitie his siw lsi­  
 sipeefiti ctof the;—fmast-sstlnwsio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216079:1808052001:0588/pct:4.009433962264151,1.8048952280331043,48.4375,93.8369431237894/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216079:1808052001:0588/pct:4.008843036109064,1.8047363324236287,48.435273888479486,93.83161663291956/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -370,7 +370,7 @@ vetrence* encountered cheerfu ly by them (of
 the ui&#x27;e.efta of their country, ihall nor br  
 turned merely to the un awful profits of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808052301:0400/pct:76.8,20.110847189231986,17.583673469387755,22.624703087885987/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808052301:0400/pct:76.78746327130264,20.108857001484413,17.584884100555012,22.624938149430974/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -426,7 +426,7 @@ With assurances of my high
 *&#x27;■ - Respect aud consideration.  
 (Signed) Til: JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808052301:1147/pct:3.7159582590990072,49.384316267012316,25.37541359124459,28.029812054439404/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808052301:1147/pct:3.7150127226463106,49.37631621577839,25.37531806615776,28.02932123764782/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -486,7 +486,7 @@ its of a small part of society. &#x27;
 - of my high respect and consideration.  
 S /&quot; &quot;TH : JEFFERSON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808052401:0083/pct:23.12032941894159,53.28934213157368,16.57770321793503,26.46470705858828/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808052401:0083/pct:23.130496670225206,53.29600746517363,16.572619592293222,26.468039725388255/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -558,7 +558,7 @@ With assurances of my high
 respect and consideration,  
 (Signed) TH: JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808052401:0175/pct:23.433962264150942,29.05655559811056,17.92452830188679,38.61866462402656/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808052401:0175/pct:23.429541595925297,29.05284656624968,17.927435075143055,38.61798995830142/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -693,7 +693,7 @@ small party of society.
 ces of my high respect and consideration.  
 “ TH: JEFFERSON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808052701:0037/pct:5.932822197882439,17.024751853247896,17.96276013143483,26.25958034929011/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808052701:0037/pct:5.931739368497901,17.022613065326635,17.965565492486462,26.26046901172529/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -723,7 +723,7 @@ wise with cargoes exciting suspicions of an intenti­
 on to evade those laws, that lie considered ship­  
 ments of floor as generally suspicions, and* that i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808060101:1163/pct:5.110220440881764,14.399490283529786,22.995991983967937,4.906021025804396/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808060101:1163/pct:5.108940646130729,14.397197005892657,22.996493864262458,4.909221213569039/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -932,7 +932,7 @@ With assurances of my high
 respect and consideration,  
 (Signed) 1 H: JEFFERSON1
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808060301:0974/pct:74.92672528643752,22.74399859821272,20.996536104449774,39.72314701244086/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808060301:0974/pct:74.90676611614278,22.740014015416957,20.99760255727224,39.720567624386824/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

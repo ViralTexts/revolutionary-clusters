@@ -207,7 +207,7 @@ r tones of the two parlies, on tiie said continent:
 and no higher or other tolls, or rates o. ferriage,  
 nan what are, or shall be payable by natives
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816012001:0027/pct:58.869760479041915,68.2367758186398,17.25299401197605,3.8287153652392947/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816012001:0027/pct:58.858746492048645,68.22818284850774,17.256002494543186,3.8324308441422157/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -274,7 +274,7 @@ while this treaty was under consideration in the Sen
   
 his presidency--a member of this body at the time th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191241:1846060301:0063/pct:199.82425307557116,36.900492117774625,177.68014059753955,12.811744098757194/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191241:1846060301:0063/pct:49.95606326889279,9.225123029443656,44.42003514938489,3.2029360246892984/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -293,7 +293,7 @@ ries and countries of the two parties on the continent of
 America, and to navigate all the lakes and waters there  
 of, and freely to carry on trade with each otner.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347909:1846060401:0764/pct:137.1450208254449,329.8785904649097,57.951533510034075,9.905241338466094/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347909:1846060401:0764/pct:34.27976528487602,82.45743893412288,14.48514101836078,2.4759437453737974/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

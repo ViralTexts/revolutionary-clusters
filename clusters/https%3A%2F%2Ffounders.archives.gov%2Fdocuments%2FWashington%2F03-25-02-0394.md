@@ -683,7 +683,7 @@ sir cerely yours. CEO. WASHINGTON.
 V. 3. You will be so good 341 to let the enclosed  
 letters be properly forwarded. G. W
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184339:1831082501:0287/pct:34.830954169797145,2.917711420104855,15.612321562734786,80.36243446546615/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184339:1831082501:0287/pct:34.82572115384615,2.9173789173789175,15.614983974358974,80.35707502374169/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -815,7 +815,7 @@ sometime* refusals to comply with the reqw*.
 silita. el Congrats, after that Congress *pent  
 months in reconciling (as Isras it is possible)
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1831090101:0580/pct:54.69310272094495,9.608391608391608,35.5199325036912,86.01398601398601/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1831090101:0580/pct:54.681568958245464,9.607047965319536,35.51771404470688,86.00545378268774/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -880,7 +880,7 @@ _ c w GEO. WASHINGTON,
 r S. You u .U be so good as to f&gt;t the aafc  
 dosed letters be properly forwarde
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1831090101:0580/pct:72.60071714828095,45.16083916083916,17.295929128875766,30.125874125874127/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1831090101:0580/pct:72.5854070012653,45.15452384281919,17.297553774778574,30.125157320654456/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1343,7 +1343,7 @@ themselves all matters of local and internal
 polity tor the regulation of order and good  
 government. The words are a great advanc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_furio_ver01:data:sn85035816:00332896581:1898022501:0314/pct:44.373111782477345,38.2759680393362,12.537764350453172,5.055316533497234/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_furio_ver01:data:sn85035816:00332896581:1898022501:0314/pct:44.364734755521994,38.27008757105546,12.540117047385312,5.058380703641112/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

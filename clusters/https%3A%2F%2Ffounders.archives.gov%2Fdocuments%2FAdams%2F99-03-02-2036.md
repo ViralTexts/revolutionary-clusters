@@ -631,7 +631,7 @@ dience, that Gid&#x27;s promise of redemption wase
 nations of the eart  
 thou hast obeyed my voice.&quot; Gen xait, ie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_buttery_ver01:data:sn83030213:00206530273:1848031101:0043/pct:2.543424317617866,21.503881357895956,83.6848635235732,274.0006951685784/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_buttery_ver01:data:sn83030213:00206530273:1848031101:0043/pct:0.847808105872622,7.167960452631985,27.894954507857733,91.3335650561928/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -779,7 +779,7 @@ the accent lit of the ( real ion we are imorined that
 &lt; iod. after ha villi: made* tin* woi Id. creatcel tin*  
 tirM hiimaa pan. and ••jrave the*m eiominnm ove
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215804:1848031801:0256/pct:44.16882992019998,6.627817173348311,26.458994327468513,92.60689461489855/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215804:1848031801:0256/pct:44.16458373389733,6.627351867452963,26.459655194513875,92.602733314612/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -897,7 +897,7 @@ tin; earth be blessed, because thou hast obeyed
 mV voice.* (leu. vvn. I-.  
 From \out allocfionate Father
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215804:1848031801:0256/pct:57.30218248245361,6.571649231201292,26.44937986732045,92.50157972337288/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215804:1848031801:0256/pct:57.29667371659296,6.571187868576243,26.450041658655387,92.49742581671815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1145,7 +1145,7 @@ JOHN QU1NCY ADAMS.
 For the Evansville Journal.  
 Mr. Editor Sir. Upon my return fro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn82016320:00296029816:1848033001:0620/pct:41.256514186450495,8.20726622989875,33.381586566299944,117.8082191780822/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn82016320:00296029816:1848033001:0620/pct:30.954104531634574,6.15842763549732,25.04705371362386,88.36212030970816/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1175,7 +1175,7 @@ hirst, the History of the world. oJn-ia,; .
 Lnieral liilonr: Strond, that of parti, uh,&#x27;,  
 lions: Third, that of particular ini.tiiniKM Imiv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn82015050:00280763366:1848040801:0179/pct:112.58730158730158,10.451197053406998,16.22222222222222,7.976519337016574/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn82015050:00280763366:1848040801:0179/pct:84.47126071768815,7.838397790055248,12.178469355350906,5.985267034990792/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1223,7 +1223,7 @@ series of peroon from geuerution lu nMtion
 preserved. Aa the tistory ot a tuiuly, a j., ai-,  
 mately connected wilb our reliriou&#x27; prino.pie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn82015050:00280763366:1848040801:0179/pct:112.71428571428571,26.11648250460405,16.365079365079364,18.013351749539595/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn82015050:00280763366:1848040801:0179/pct:84.56652905684344,19.5902394106814,12.273737694506192,13.512891344383057/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1284,7 +1284,7 @@ the earth.&quot; H gave them, ai, &#x27;everr herl
 bearin eed. and the fruit of every Iree 1 meat,  
 and atl thi, we are told, &quot;loi a wa.i very 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn82015050:00280763366:1848040801:0179/pct:112.88888888888889,43.98020257826888,16.61904761904762,24.539594843462247/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn82015050:00280763366:1848040801:0179/pct:84.69355350905049,32.98802946593002,12.480152429342649,18.404696132596683/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1385,7 +1385,7 @@ nations of Uie earth be blessed, becsuse thou h I
 obeyed my voice.&quot; Gen. iii. IS.  
 r rora your affectionate father
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn82015050:00280763366:1848040801:0179/pct:112.92063492063492,75.3683241252302,16.746031746031747,44.63627992633518/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn82015050:00280763366:1848040801:0179/pct:84.72530962210226,56.52624309392265,12.559542711972055,33.4829650092081/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1654,7 +1654,7 @@ from the knowlegdo to forbear from rush- j
 ing upon their own destruction. It is not j  
 sul&#x27;icient to say that this was a command
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058217:00271744766:1848041201:0055/pct:19.20332936979786,16.302906065356325,17.39001189060642,4.341010490775353/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058217:00271744766:1848041201:0055/pct:14.40677966101695,12.227179549017244,13.053820993160869,3.2557578680815147/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1675,7 +1675,7 @@ luvian world and the flo.-l by which the Abraham, by a caso in tho opposite ex­
 wbolo human raco (excepting Noah and treme. (Jod commanded Abraham, to  
 Ms family) wore destroyed, but as it gives ! abandon forever his country, his kindred
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058217:00271744766:1848041201:0055/pct:2.036266349583829,42.66248643434221,34.00713436385256,5.281562763776679/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058217:00271744766:1848041201:0055/pct:1.5313707998810586,32.00289400699385,25.512934879571812,3.9672012540696975/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1710,7 +1710,7 @@ by tho forfoituro of all his enjoyments; tho
   
 self-dominion to bo exorcised by Abraham
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058217:00271744766:1848041201:0055/pct:2.2294887039239,52.06800916435548,33.828775267538646,13.541541058724226/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058217:00271744766:1848041201:0055/pct:1.68004757656854,39.0570360545038,25.37912578055308,10.153141203424575/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1754,7 +1754,7 @@ man associations, through all tho vicissi-
   
 ment of peace, liberty and prosperity among th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058217:00271744766:1848041201:0055/pct:2.1105826397146252,45.84589412757747,69.15873959571938,24.152900036175087/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058217:00271744766:1848041201:0055/pct:1.5908415105560512,34.39044977692029,51.888195063931015,18.11166043651272/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1785,7 +1785,7 @@ noctod train of ovents and a regular series j in tho most excruciating and ignom
   
 of persons from generation to generation , form, was to consumato tho great plan of j th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058217:00271744766:1848041201:0055/pct:2.1551724137931036,63.234052815627635,97.3692033293698,11.226335463644038/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058217:00271744766:1848041201:0055/pct:1.6205768658935473,47.42553961172073,73.05976806422836,8.42879536958881/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1808,7 +1808,7 @@ which ho would show hi
   
 mand was accompanied by two promises; ! was not indeed shed tho butchery of nn j B,.einK another nation under similar institutions,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058217:00271744766:1848041201:0055/pct:2.095719381688466,78.01760520921259,51.78359096313912,3.593392017364042/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058217:00271744766:1848041201:0055/pct:1.575973832887303,58.51923308814663,38.84924174843889,2.6890148317858436/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1831,7 +1831,7 @@ important, was, that &quot;in hun all tho lam;- thing his kmlo in the nenrt oi l
 . . . i ,, .i I , i c . i- (extensive la duration.  
 lies of the earth shall bo hlessod. 1 his It was upon this testimonial ol obedience, , .. . . , 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058217:00271744766:1848041201:0055/pct:2.1105826397146252,84.40853732063186,51.872770511296075,3.533100204992162/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058217:00271744766:1848041201:0055/pct:1.5908415105560512,63.30640299047389,38.908712459113886,2.6528397443627156/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1862,7 +1862,7 @@ ments, as well as tho books of tho Prophets,
   
 vou should nlwavs boar in mind tho r
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058217:00271744766:1848041201:0055/pct:1.8727705112960762,85.43349813095382,87.35136741973841,12.480405160979139/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058217:00271744766:1848041201:0055/pct:1.4124293785310735,64.07813818883396,65.53672316384181,9.35728928011576/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1888,7 +1888,7 @@ oxccllenco of this principle; but lahall now
   
 oniy remark how strongly the principle
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058217:00271744766:1848041201:0055/pct:2.080856123662307,102.35138068250332,16.884661117717002,6.487399011214277/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058217:00271744766:1848041201:0055/pct:1.5611061552185548,76.76353551187749,12.682129051442164,4.871578439647895/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1925,7 +1925,7 @@ lieve he contemplates the probability of
   
 his nomination for the Presidencv. bv the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058217:00271744766:1848041201:0055/pct:1.7538644470868014,111.80513686241409,34.80975029726516,5.679488725431087/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058217:00271744766:1848041201:0055/pct:1.3232233125185846,83.85385264681057,26.122509663990485,4.268660315929097/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2509,7 +2509,7 @@ tions: Fourth, that of single families; and
 Fifth, that of individual men. The last  
 of these two clas-es are distinguished b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1848050301:1041/pct:308.66873065015477,125.95924847843345,58.51393188854489,68.53664990738291/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1848050301:1041/pct:77.18211728275595,31.489812119608363,14.631314108767176,17.134162476845727/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2584,7 +2584,7 @@ blessed.&quot; This promise was made two
 thous and years before the birth of Christ,  
 and in Him had its fulfillment. When
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1848050301:1041/pct:308.59133126934984,229.53162212225456,60.68111455108359,148.13442709711563/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1848050301:1041/pct:77.162763692665,57.38290553056364,15.173214631314108,37.03360677427891/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2605,7 +2605,7 @@ fall of man, I have slready remarked thatfor he had searched
 the moral docuine incuated by the i i an a   
 is, that the great consummation of a hao e o i 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1848050301:1042/pct:45.139412207987945,66.29198797542804,86.58628485305199,11.76316821330545/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1848050301:1042/pct:11.289106671692423,16.57299699385701,21.654730493780626,2.9407920533263625/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2631,7 +2631,7 @@ human pair, and &quot;gave them dominion the manufacturer, and the worst of it i
   
 ene i oa an oe ae  a ta te oee ao a o si i o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1848050301:1042/pct:45.59155990957046,74.97059207946674,342.4265259984928,31.5775715592733/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1848050301:1042/pct:11.402186204297022,18.742648019866685,85.63889935921598,7.894392889818325/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2674,7 +2674,7 @@ derstood in a literal or allegorical sense, asoe a the manI ane to e
 generally low, sensual, and unworthye o oa e oeed to a orle localities on the day of the greaton o te e o an on te i o­  
 onfidence. To most of them existence pitate upon the first appearance of the demonstration, but to carry no arms in sidering the weak staté of her health, i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1848050301:1042/pct:44.23511680482291,106.7572866291988,343.5568952524491,30.53195660697948/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1848050301:1042/pct:11.062947606483226,26.6893216572997,85.92159819072748,7.63298915174487/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2707,7 +2707,7 @@ upon them without measure; but observe
 it contained the principle of obedience  
 it was assigned to them as a duty--and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1848050301:1042/pct:44.0844009042954,141.88994902627107,113.56443104747551,28.754411188079988/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1848050301:1042/pct:11.02525442894836,35.47248725656777,28.401809272521675,7.188602797019997/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2746,7 +2746,7 @@ from which every motive of reason and the learned languages that in ledt he
 a e  ee e e ee  e e e  
 interest would have deterred had the com completed a translation of the whole o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1848050301:1042/pct:42.95403165033911,193.80473140765912,171.96684250188395,21.435106522023265/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1848050301:1042/pct:10.742555597436864,48.45118285191478,43.007915567282325,5.358776630505816/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2770,7 +2770,7 @@ a blessing.
   
 The obedience required of Adam, was
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1848050301:1042/pct:42.6525998492841,266.3181283492354,114.31801055011303,16.050189517710102/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1848050301:1042/pct:10.667169242367132,66.57953208730885,28.590275160196004,4.0125473794275255/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2790,7 +2790,7 @@ sacrifice all that he possessed for the vague genius to a seat in Congress.
 and distant prospect of a future compensa-. Joseph Pendsell, who died a few years  
 tion to his posterity; the self-control and since at Grav&#x27;s Ruild
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1848050301:1042/pct:42.57724189902034,282.57744085740427,114.46872645064055,11.240360737158541/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1848050301:1042/pct:10.648322653599699,70.64436021435107,28.62796833773087,2.8100901842896353/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2829,7 +2829,7 @@ dominion to be exercised by Abraham was of Theology at Heidelberg, Germany, spen
 of the most severe and painful kind,-but a portion of his early life on a shoemaler&#x27;si  
 its accomplishment will ultimately be re, bench.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1848050301:1042/pct:42.8033157498116,269.87321918703435,344.15975885455913,41.19722912037642/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1848050301:1042/pct:10.704862419901998,67.46830479675859,86.07237090086694,10.299307280094105/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3537,7 +3537,7 @@ spiritual application in the words, “For th
 thy seed shall the nations of the earth be  
 blessed, because thou hast obeyed my voice.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_arneaux_ver02:data:sn82016211:00211663625:1896110701:0489/pct:3.1588287488908606,60.77301644460449,14.055013309671695,1.4283999519865562/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_arneaux_ver02:data:sn82016211:00211663625:1896110701:0489/pct:3.1588287488908606,60.77301644460449,14.060928719313813,1.4364021926139319/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

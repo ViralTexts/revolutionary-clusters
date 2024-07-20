@@ -73,7 +73,7 @@ it in bad behavior at the moment, and the serious
 evils produced by it afterwards, must give pain. I  
 am your friend
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_qualchan_ver01:data:sn82015753:00212475208:1858041501:0552/pct:207.33471074380165,205.68324937027708,38.05785123966942,30.22670025188917/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_qualchan_ver01:data:sn82015753:00212475208:1858041501:0552/pct:69.11157024793388,68.56108312342569,12.685950413223141,10.075566750629722/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -166,7 +166,7 @@ your frienl. - .
   
 GEOllGE WASHINGTO
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cousteau_ver02:data:sn84028817:00296027352:1858063001:0813/pct:74.25426136363636,93.69015467714216,16.672585227272727,21.740731647434323/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cousteau_ver02:data:sn84028817:00296027352:1858063001:0813/pct:55.729259193462426,70.26761600785662,12.506661929294724,16.314755708323105/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -385,7 +385,7 @@ the imoment and the more serious
 predaged br it aflerwards must sie pa  
 an po e wa 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn83025141:no_reel:1858082701:0905/pct:182.4476650563607,155.63968161522035,42.51207729468599,56.78509027373325/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn83025141:no_reel:1858082701:0905/pct:60.81588835212023,51.879893871740116,14.170692431561998,18.928363424577753/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -475,7 +475,7 @@ wards, must give pain. Iam yourfrienr,
   
 GEORGE WASHINGTON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:0023728690A:1864111701:0636/pct:22.818437719915554,92.30461989082679,16.414496833216045,26.97377180135801/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:0023728690A:1864111701:0636/pct:17.124252023935234,69.2317933697244,12.319605772615276,20.236985754227135/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -522,7 +522,7 @@ consequence of it in bid behavior at tno
 moment, and the more serious evils pro­  
 duce J by it afterwards, must give pain
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ira_ver01:data:sn84023209:00202197486:1882112901:1038/pct:111.49594694178334,51.61780973451327,14.25939572586588,20.920907079646017/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ira_ver01:data:sn84023209:00202197486:1882112901:1038/pct:83.65278289716181,38.716814159292035,10.70770364909694,15.694137168141593/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -551,7 +551,7 @@ By degrees it renders a person feeble,
   
 and not only unable to serve others,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_junebug_ver01:data:sn83016734:00415661897:1884022801:0412/pct:68.34645669291339,186.4218141346689,45.196850393700785,26.599888703394548/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_junebug_ver01:data:sn83016734:00415661897:1884022801:0412/pct:17.093343836155967,46.60545353366722,11.303662859393462,6.649972175848637/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -580,7 +580,7 @@ wards, must give pain. I am your
 friend,  
 GEORGE WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_junebug_ver01:data:sn83016734:00415661897:1884022801:0412/pct:68.18897637795276,223.76182526432945,45.90551181102362,24.37395659432387/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_junebug_ver01:data:sn83016734:00415661897:1884022801:0412/pct:17.053958251280033,55.94045631608236,11.480897991335171,6.093489148580968/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -612,7 +612,7 @@ respects himself, the worst of
   
 it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_mustang_ver01:data:sn99067997:00415625066:1885032701:0110/pct:64.42366334620858,12.045517624202054,17.523886968896118,9.256175409381072/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_mustang_ver01:data:sn99067997:00415625066:1885032701:0110/pct:51.53962918789981,9.643636901898383,14.030142036213814,7.397402212929727/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -645,7 +645,7 @@ havior at the moment, and the more
 serious evils produced by it afterwards  
 must give pain.&quot;—&quot;Great Events o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_mustang_ver01:data:sn99067997:00415625066:1885032701:0110/pct:64.3830046757471,20.538440188731613,17.544216304126856,13.08631695809048/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_mustang_ver01:data:sn99067997:00415625066:1885032701:0110/pct:51.517944269760385,16.43044813677238,14.04098449528353,10.476260962883469/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -793,7 +793,7 @@ produced by it afterwards must give
 pain.&quot;&#x27;  
 Still another reminiscence of the Fa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_detroit_ver02:data:sn96077385:00296023589:1890022101:0430/pct:33.69845360824742,67.47474747474747,20.795747422680414,23.815937149270482/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_detroit_ver02:data:sn96077385:00296023589:1890022101:0430/pct:22.48186946011281,44.98316498316498,13.87590652699436,15.881032547699215/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -851,7 +851,7 @@ not, I am certain (to the greatest lover
 of liquor), give more pleasure to sip in  
 ! nniinn (fnr if 5 nr lvHprl fTirm fli
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_hickok_ver01:data:sn85032490:00237286662:1890022201:0505/pct:26.3855421686747,65.4343807763401,19.096385542168676,18.168968141785363/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_hickok_ver01:data:sn85032490:00237286662:1890022201:0505/pct:17.595661343778247,43.622920517560075,12.744802651401024,12.11264542785691/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -940,7 +940,7 @@ serious evils produced by it afterwards must
 give pain.&quot;  
 At the second meeting of the Wash
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_maple_ver01:data:sn92051487:00271763219:1891070301:0182/pct:20.934579439252335,56.087922943936775,15.031152647975079,18.127932822919238/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_maple_ver01:data:sn92051487:00271763219:1891070301:0182/pct:15.705827360548458,42.072116571993085,11.280772826425677,13.59594961718943/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

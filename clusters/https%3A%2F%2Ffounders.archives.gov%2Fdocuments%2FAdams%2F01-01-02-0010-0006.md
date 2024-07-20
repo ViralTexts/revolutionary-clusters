@@ -326,7 +326,7 @@ thought evil against mi, but God meant it untor
 good to bring to pass, as it is &#x27;this day, to sttl t  
 much people.&#x27;,&#x27; &quot;Ye men of Israel, hoar thes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn84028794:00296026682:1857092401:0478/pct:111.30087209302326,47.39373456388925,17.0421511627907,2.3917847393734566/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn84028794:00296026682:1857092401:0478/pct:83.49990914046883,35.55180033796958,12.793021988006542,1.7938385545300923/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -400,7 +400,7 @@ save much people alive.
 &quot;Now therefore fear ye not: I will nourish you and  
 your little ones. And he comiforted them, and sna
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536093:1869030101:0833/pct:232.36677115987462,208.69033047735618,50.078369905956116,7.405140758873929/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536093:1869030101:0833/pct:58.091692789968654,52.172582619339046,12.519592476489029,1.8512851897184823/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -485,7 +485,7 @@ shall proclaim the “Lord reigneth, let the
 earth rejoice and the multitude of the isles  
 be glad thereof’: when inch a thanksgiv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685282:1877120601:0609/pct:39.19247608237393,72.78047565682978,10.91292362574996,1.3447889428464699/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685282:1877120601:0609/pct:39.186121919584956,72.77141434262948,10.915207522697795,1.34773406374502/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -576,7 +576,7 @@ me; but God meant it unto good, to bring
 to pass, as it is this day, to save much peo­  
 ple alive
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:0051701610A:1880120201:0396/pct:4.783027965284474,83.18335208098988,12.169720347155256,1.8841394825646793/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:0051701610A:1880120201:0396/pct:4.78210566910914,83.171657528469,12.172194369456228,1.887389287220582/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -641,7 +641,7 @@ people.&quot;
 ProhibitiOn MeEtIng in ROSTON.  
 The meeting of persons favoring 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_montpelier_ver01:data:sn84023253:00200296308:1882101301:0380/pct:12.822749476622471,167.37491432488005,33.39148639218423,15.215901302261823/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_montpelier_ver01:data:sn84023253:00200296308:1882101301:0380/pct:4.276488043288532,55.79163810829335,11.136323965788096,5.071967100753941/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -693,7 +693,7 @@ to pass, as it is in this day, to save much
 people alive,&quot; Gen. 50-20.  
 Joseph had come to bury his father Ja
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn85038180:00296029075:1887022401:0038/pct:38.33832335329341,12.176009644364076,14.476047904191617,3.3755274261603376/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn85038180:00296029075:1887022401:0038/pct:28.766097634022163,9.138034960819772,10.8565438754118,2.5316455696202533/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -823,7 +823,7 @@ me, but God meant it unto good to bring it
 to pass, as it is this day, to save much people  
 alive.&quot; In almost the very same word
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:0023728737A:1894050201:0103/pct:42.53015774822147,41.846088254103606,13.532322919888648,2.0571306757620977/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:0023728737A:1894050201:0103/pct:42.53015774822147,41.85319405954665,13.547788431797093,2.0571306757620977/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -841,7 +841,7 @@ against me, but God meant it unto good
 to bring it to pass, as it is this day, to save  
 much people alive.&quot; In almost the ver
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jamaica_ver01:data:sn93063557:00280777882:1894050401:0559/pct:72.59911894273128,204.42038791159223,57.268722466960355,7.698090512704856/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jamaica_ver01:data:sn93063557:00280777882:1894050401:0559/pct:18.157778757161743,51.10509697789806,14.323490524460114,1.924522628176214/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

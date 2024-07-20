@@ -696,7 +696,7 @@ si &#x27;ng been so_ pcsiﬂefisied fix mcnths, and
 tell:.&quot; &quot;  
 _ The Time qualificatiom are necessary t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803040501:0273/pct:1.3049013367281985,66.0465956294022,21.29217059197963,20.272710854253205/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803040501:0273/pct:1.3046937151949085,66.04063205417607,21.294086449217716,20.273890142964635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -726,7 +726,7 @@ the 22nd se6\. of that ac», it is declared,
 that “ Every act of the General Assem*  
 “bly hereafter to be made, shall commenc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808093001:0321/pct:41.0134750427026,79.22570850202429,18.37160751565762,10.463056680161943/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808093001:0321/pct:41.005692599620495,79.2156862745098,18.374446552814675,10.46594982078853/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -746,7 +746,7 @@ that “ Every act of the General Assem*
 ‘day of passing thereof, shall be noted  
 ‘ next after tire title.&quot; In 1789, (four year
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808093001:0321/pct:59.764661226039095,11.880060728744938,17.53653444676409,3.8714574898785425/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808093001:0321/pct:59.75332068311195,11.878557874762809,17.53953194180898,3.8751844823951087/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -776,7 +776,7 @@ him,/or make solemn affirmation, that they will
 t#fc« the poll fairly and impartially •; he shall  
 4(li?rr Spoil book to each writer, who shal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813021701:0361/pct:9.077269317329332,50.634946150136635,21.680420105026258,11.300434013824145/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813021701:0361/pct:9.075,50.626808100289296,21.68125,11.30263580842173/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -810,7 +810,7 @@ other thing, as in inducement to such elector, or
 pretended elector, to vote for snch candidate, or  
 |W anyJ other person, to be a member of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813021701:0361/pct:31.45786446611653,69.9565986175856,21.405351337834457,13.599099823179554/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813021701:0361/pct:31.45,69.94535519125684,21.40625,13.600932176149149/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -864,7 +864,7 @@ t sc bided.)it the same cause continue ; giving
 n* m,o|, elections ; and shall on ti,e last day of  
 1 taken* *UC ‘, loc,,*’u c®»cludc 1 he poll so to h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1817020401:0361/pct:49.69795918367347,88.69510664993726,16.114285714285714,6.951066499372647/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1817020401:0361/pct:49.68984655566438,88.68397942541714,16.11709652845794,6.954376280684147/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -898,7 +898,7 @@ sed and levied in his county the ensuing
 yea:; und lor discovering such defaulters,  
 the sii .&#x27;rjd or other o^icers taking the poll,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn83026162:00542866561:1823040501:0114/pct:27.668539325842698,89.1814946619217,20.730337078651687,7.722419928825623/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn83026162:00542866561:1823040501:0114/pct:27.66076944678461,89.16562889165628,20.731536085369278,7.725493684397794/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -933,7 +933,7 @@ Common seal of the City or Borough, and no
 Other, Shall he qualified to vote for a delegate  
 to represent the said City or Borough iw-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183980:1824112301:0223/pct:64.75369858559584,13.41536256122327,30.921801333116566,82.36769800501732/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183980:1824112301:0223/pct:64.74317295188557,13.413760152890587,30.922193324664065,82.36184105749324/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -950,7 +950,7 @@ certain persons, not being freeholders, in the city of
 Williamsburg and borough of Norfolk, and thereby  
 bestowed on the common people, or rabble, a de
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184534:1825021801:0053/pct:1.889763779527559,69.82890855457227,15.291338582677165,1.4867256637168142/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184534:1825021801:0053/pct:1.889466225791214,69.8206701274186,15.294179394321104,1.4904829322007236/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -988,7 +988,7 @@ election under this act, shall previously to his
 undertaking to conduct the same, take an oath  
 j before some justice of the peace to the follow in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184017:1828020201:0360/pct:48.637179696425655,32.29103297238107,15.88052880692019,11.36391288477917/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184017:1828020201:0360/pct:48.62924281984334,32.28710462287105,15.88337684943429,11.366585563665856/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1016,7 +1016,7 @@ Ft of land jo a city or town established by act
   
 in such land an esiatT&#x27;T&#x27;r or *lu,n,rty, havin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1828103001:0614/pct:0.5372877713303246,8.47410302945693,36.68600902643456,86.73740053050398/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1828103001:0614/pct:0.5371723248818221,8.472920156337242,36.68349806617963,86.72878280290341/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1062,7 +1062,7 @@ be delivered to any one of the dde^ates elect and the &lt;.■ ,-r shall
 bg transmitted to the Kxccutivc within ten days aft. r me poll*  
 shall have b-cn closed. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:0041418456A:1829020301:0236/pct:60.06039415130324,40.046674445740955,18.57914812460267,14.305717619603268/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:0041418456A:1829020301:0236/pct:60.05085015096139,40.042002100105,18.581492663806344,14.307937619103177/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1093,7 +1093,7 @@ made at the Court-house dour, or at the [&gt;lac« of&#x27;
 holding such election, of the persons having the I  
 greatest number of votes ujK&gt;n the poll on the cJos- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1829021201:0380/pct:4.260450160771704,80.0933684462533,15.305466237942122,8.247546085707446/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1829021201:0380/pct:4.259765311043241,80.08378216636744,15.308364142956652,8.250548573708357/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1131,7 +1131,7 @@ other person shall directly or indirectly give or
 tor, money, meat, drink, or oilier thing, as an in­  
 ducement to such elector or pretended elector, t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1829021201:0380/pct:19.678456591639872,61.70696672252813,15.289389067524116,11.443619822839358/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1829021201:0380/pct:19.675293361195948,61.69958108916816,15.292289556877243,11.44623977658089/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1179,7 +1179,7 @@ ol the persons having the greatest mini
 her of votes upon the poll on the closing  
 thereof au«i each elector shall be enti
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1829022601:0041/pct:26.64631487134758,58.13792146524212,17.597034452682077,22.408769252116/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1829022601:0041/pct:26.640505777196424,58.12985571587125,17.598648354044037,22.409128745837958/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1209,7 +1209,7 @@ false ceitificate, or return of election,
 as herein before directed, or makinganv  
 ; erasure or alteration in the poll hook
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1829022601:0041/pct:62.887047535979065,10.364922991536007,18.20758831225469,10.767309560149855/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1829022601:0041/pct:62.87333769348158,10.363485016648168,18.209069108349684,10.769284128745838/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1227,7 +1227,7 @@ agree to give, to any elector, or pi etend­
 e&lt;l elector, money, meat, drink or other  
 thing, as an inducement to such electo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1829022601:0041/pct:63.47579590056694,27.265158873317606,17.597034452682077,2.6085749965311504/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1829022601:0041/pct:63.461957706562025,27.261376248612653,17.598648354044037,2.6116814650388456/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1247,7 +1247,7 @@ lists, w ith the names of tho Candida p s for iphnin they
 voted, and fIuiM be added to tjiopoil, if upon scrutiny,  
 the votes be justified.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:0041418456A:1829033101:0408/pct:60.42993630573248,60.62164057022669,17.802547770700638,3.248422528628184/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:0041418456A:1829033101:0408/pct:60.42031523642732,60.61455777544106,17.80502043199066,3.2519375316431045/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1276,7 +1276,7 @@ lists, with the names of the candidates for whom they
 voted, and shall be added to the poll, if upon scrutiny  
 the votes be justified.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184315:1829033101:0072/pct:60.776063581112666,54.655277608297745,17.360137135733208,8.224527150701647/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184315:1829033101:0072/pct:60.76659395450296,54.64860907759883,17.36262594785499,8.227590694647796/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1303,7 +1303,7 @@ the term of three years : Provided, neverthe­
 less, that nothing herein entrained, •hall be  
 vo construed as to prevent any candidate fro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1829100801:0476/pct:18.573763792398857,63.87396544213736,14.446260727421333,6.563089879483084/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1829100801:0476/pct:18.56996935648621,63.864692218350754,14.448416751787539,6.565766550522648/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1329,7 +1329,7 @@ borough, should l&gt;a allowed to vole in hi on*
 than oiiu county, city nr brougli at any  
 one election ; and provided, that no perso
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1829102201:0490/pct:63.35227272727273,62.74848746758859,14.468344155844155,5.934889080956497/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1829102201:0490/pct:63.33941976060053,62.73944980555956,14.470480827754109,5.937635028085841/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1360,7 +1360,7 @@ And provided that the Legislature may by law de- !
 prive any persons of the right of suffrage for crimes&#x27;  
 whereof they t&#x27;hnll or may be convicted.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184315:1829112101:0361/pct:57.81422488566472,36.466715435259694,17.694369973190348,9.302609119726895/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184315:1829112101:0361/pct:57.80510879848628,36.46226990125564,17.696835908756437,9.30553862408062/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1377,7 +1377,7 @@ And every sttfeh citizen being possessed, or whoso
 tenant for years, at will or at sufferance, is possessed, of  
 land of the assessed value of dollars, and havin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1829112101:0161/pct:49.784258294896595,85.19767441860465,15.161434310370481,1.4651162790697674/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1829112101:0161/pct:49.776852127343055,85.18776886408557,15.164137657443222,1.4688214548695888/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1404,7 +1404,7 @@ fur *1* months,—
 And no other person*,—  
 Shall bo qualified to vote for member* of (ha Gen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1829112101:0161/pct:49.784258294896595,90.25581395348837,15.101919357238506,6.011627906976744/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1829112101:0161/pct:49.776852127343055,90.24532031159167,15.104631558068036,6.0148044800992135/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1435,7 +1435,7 @@ And no o^her prisons,
 Shall be q-.alifi’d to vote for members or  
 the General Assembly in the county, r»ty, or
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216420:1829112401:0188/pct:62.50898634076204,6.160369123332086,19.28468727534148,4.638982416760195/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216420:1829112401:0188/pct:62.497753818508535,6.159600997506234,19.28721174004193,4.642560266001663/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1452,7 +1452,7 @@ And every such citizen being possessed, or whose
 tenant for years, at will or at sufferance, is possessed, or  
 land of (he assessed value of dollars, and havin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1829112401:0164/pct:51.29080118694362,29.928273947246645,15.0,1.4692272096251735/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1829112401:0164/pct:51.28319240468773,29.924812030075188,15.002719675616872,1.4729130518604203/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1481,7 +1481,7 @@ Shall be qualified to vote lor members of the (i*n­
 eral Assembly, in the county, city, or borough, respec­  
 tively, wherein the land lieth:
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1829112401:0164/pct:51.231454005934715,34.89125404905136,14.970326409495549,6.7214252660805185/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1829112401:0164/pct:51.223854027592346,34.88721804511278,14.973050487069179,6.7245035666088295/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1506,7 +1506,7 @@ Shall be qualified to vote f&gt;r members of the
 Cenersl Assembly, iri the county, city, or borough,  
 respectively, wherein the land both: 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:0041418456A:1829112501:1222/pct:5.69760101010101,84.23139724749242,18.08712121212121,5.95987870305575/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:0041418456A:1829112501:1222/pct:5.696701909420861,84.22157434402332,18.08952711588028,5.963070942662779/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1526,7 +1526,7 @@ possessed or . nti l. 1 f »r six months
 And no other persons._  
 Siiall he q lalifu d to vote for members, of t 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1829112601:0531/pct:84.01579713157348,66.29018245004345,14.362918312201206,3.0263538951636257/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1829112601:0531/pct:83.99833748960931,66.2805849138555,14.365128844555278,3.0295352540900535/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1543,7 +1543,7 @@ ArideVery such citizen being possessed, or whose
 tenant for years, nt Will or at sufferance, is poss­  
 essed, of land of the assessed value of $ollats
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184315:1829112601:0370/pct:6.282393591958536,77.58726270667484,17.402230249725147,1.653398652786283/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184315:1829112601:0370/pct:6.28140703517588,77.57776144991428,17.404731993299833,1.6572781451547065/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1575,7 +1575,7 @@ or whose tenant for years, at will, or at
 sufferance, is possessed ol land of the as­  
 sessed value of dollars, and having ai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn84038587:00414187389:1829120201:0093/pct:53.553054662379424,4.13141413031535,31.39871382636656,94.75881771233931/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn84038587:00414187389:1829120201:0093/pct:53.544446230509564,4.130960228521204,31.399024808444516,94.75206914231305/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1601,7 +1601,7 @@ Sludl be qualified to vote tor members of
 the General Assembly in the County, City.  
 ■ or Borough, respectively, wherein the lan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn84038587:00414187389:1829120201:0093/pct:69.18006430868168,29.381386660806506,15.787781350482316,8.098011207559608/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn84038587:00414187389:1829120201:0093/pct:69.16894389969458,29.37815864645133,15.790601725338906,8.100783710539808/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1624,7 +1624,7 @@ existing constitution and Ijws—and every such citizen being
 possessed, or whose tenant fer years at will or at sufferance iT  
 possessed of land of the assessed value of £} dollars, if suc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184315:1829121901:0408/pct:61.17794094672708,51.61055945749576,17.778472113732228,3.7297166384112375/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184315:1829121901:0408/pct:61.16838487972509,51.60431044920693,17.780901801520358,3.7333010453242927/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1644,7 +1644,7 @@ sessed »r entitled for six mouths)—and every such citizen w ho
 shall own and lie himself in actual occupation of a leasehold  
 estate, with the evidence of title recorddfT, of a term originall
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184315:1829121901:0408/pct:61.17794094672708,58.88835069023977,17.731604436806748,2.857834826834585/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184315:1829121901:0408/pct:61.16838487972509,58.88122048674174,17.734041445381653,2.8615248012269445/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1671,7 +1671,7 @@ in or share of land, and having an estate of freehold
 therein, such interest or share being of the assessed  
 value of 25dollars, if such assessment ho required h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1829121901:0209/pct:2.281819528819084,18.75358002062092,14.787375907541858,6.060258907091304/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1829121901:0209/pct:2.2814814814814817,18.75143184421535,14.790123456790123,6.0633829705994655/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1691,7 +1691,7 @@ ment, having been so possessed or entitled tor 6 months)
 —and every such citizen who shall own and be liimsel  
 in actual occupation of a leasehold estate, with ttic evi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1829121901:0209/pct:2.2670025188916876,26.119830450223393,14.802192917469254,2.7494558368656206/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1829121901:0209/pct:2.2666666666666666,26.116838487972508,14.804938271604938,2.752959144711722/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1727,7 +1727,7 @@ law—and every such citizen being entitled
 ?xpcctant on an estate for life or lives, in  
 and of the assessed value of 50 dollars, it 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn84038587:00414187389:1829123001:0109/pct:22.218649517684888,58.28295042321645,15.4983922829582,13.619874683961745/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn84038587:00414187389:1829123001:0109/pct:22.215077961742484,58.27654429544955,15.501259175909553,13.622041474316699/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1753,7 +1753,7 @@ any assessment thereof be required by law; a.,d ev­
 ery such citizen, being possessed, as tenant in coin*  
 inon, joint tenant or parcener, of an interest in, o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830010501:0020/pct:42.83180132236736,53.473783879749085,17.626189324302533,5.917860101787194/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830010501:0020/pct:42.82489519509836,53.467455621301774,17.628721917660968,5.9211045364891515/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1772,7 +1772,7 @@ shall have como to him by descent, devise, marriage
 or marriage settlement, having been so possessed or  
 entitled for six months;] and every such citizen, wh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830010501:0020/pct:43.00919206579584,62.95419576281217,17.35203999354943,2.9234228902828736/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830010501:0020/pct:43.00225733634311,62.946745562130175,17.354616790282705,2.9270216962524653/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1793,7 +1793,7 @@ laws; and every such citizen, being possessed, or
 whose tenant for years, at will or at sufferance, is  
 possessed, of an estate of freehold, in land of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830010501:0012/pct:42.69716088328076,52.611495349391845,17.2397476340694,3.803958979251133/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830010501:0012/pct:42.69042737738527,52.6052223679504,17.242285654208064,3.807479829895473/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1815,7 +1815,7 @@ shall own and be himself, in actual occupation of a
 leasehold estate, with the evidence of title recorded  
 two months before be shall offer to vote, of a ter
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830010501:0012/pct:42.64984227129337,62.09158120677319,17.47634069400631,4.388266157882184/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830010501:0012/pct:42.643116227724335,62.08417789436032,17.47884140251275,4.391717340328285/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1841,7 +1841,7 @@ ihereof be required by law, and every such ci­
 t Zen being possessed, as tenant in common,  
 joint tenant or pa&#x27;centrof an interest in, o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216420:1830010801:0336/pct:43.627450980392155,22.510976622760175,18.154761904761905,7.618369526521894/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216420:1830010801:0336/pct:43.61981445825311,22.508305647840533,18.15741875255266,7.621420661287771/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1871,7 +1871,7 @@ town, borough, or election district whore he may
 offer to vote, and shall have been nssesssed with  
 a part of the rovctiuo of the Commonwealt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830010801:0120/pct:51.678267594740916,50.39919037445181,14.632637277648879,9.220735409872933/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830010801:0120/pct:51.67027528611197,50.393523723858785,14.635529436024333,9.223446518252006/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1893,7 +1893,7 @@ will or at sufferance, is possessed, of an estate of tree­
 hold inland of (he value ol twenty-five dollars, and so  
 assessed to ht, if any assessment thereof be required b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830011601:0249/pct:34.12733421555654,47.21163837894007,14.909572121746802,3.821729592425817/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830011601:0249/pct:34.12231696559835,47.20618794735627,14.912280701754385,3.8251366120218577/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1934,7 +1934,7 @@ citizen, being possessed, or whose tenant for years, at
 will or at sufferance, is possessed, of an esla&#x27;e of tree­  
 hold inland of the value of Iw nfy-live dollars, and «
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830012101:0257/pct:65.96881959910912,58.5819183111519,15.248700816629547,3.3042680128499313/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830012101:0257/pct:65.95902612826603,58.57519788918206,15.2513855898654,3.30771289816833/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1953,7 +1953,7 @@ descent, devise, marriage or marriage-settlement hav­
 mg been so poa.essed or entitled fr six months) and  
 every Midi citiz. n, who shall own and be him*elf i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830012101:0257/pct:65.96881959910912,66.39513538320331,15.278396436525613,2.340523175768701/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830012101:0257/pct:65.95902612826603,66.38751864173454,15.281076801266826,2.3440786203204467/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1975,7 +1975,7 @@ years, at will or at Sufferance, ts pnssoeFCd.of nil rs­
 tnte of freehold inland of the value of twenty-five  
 dollars, and so assessed to be if any assessment ther
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012201:0078/pct:60.41432471495102,15.12565196775723,17.665007226593865,4.326695116168801/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012201:0078/pct:60.40462427745665,15.123859191655802,17.667523014343825,4.330133143692466/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1994,7 +1994,7 @@ so posseted or entitled for sax months;) and every
 such citizen, who shall own and and be himself in ac­  
 tual occupation of n leasehold estate, with the evi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012201:0078/pct:60.3982656174723,25.154101469890943,17.632889031636424,2.6908487434803225/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012201:0078/pct:60.38856775850996,25.151120066374304,17.63540997645044,2.6944806605823555/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2011,7 +2011,7 @@ ry such citizen, being possessed, or whose tenant for
 years, at will or at sufferance, is possessed, of an i s­  
 tate ot freehold inland of tlic value of twenty-fiv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012501:0086/pct:60.25761859880616,29.45326278659612,17.326421614828778,1.6813639035861259/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012501:0086/pct:60.24815454688236,29.44980014107689,17.328935657818963,1.6850850380123834/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2030,7 +2030,7 @@ so possessed or entitled fbr six mouths;) and every
 such citizen, who shall own and and be himself in ac­  
 tual occupation of a leasehold estate, with the evi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830012601:0046/pct:60.340168494674934,36.51347449470645,17.54887935145446,2.7309913378248316/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830012601:0046/pct:60.33057851239669,36.50908216047155,17.55138800593346,2.7346726011467983/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2047,7 +2047,7 @@ and every such citizen, being po^sessod,
 or wlmso tenant for years, at will or at  
 sufferance, is possessed of nn estate o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn84038587:00414187389:1830012701:0125/pct:69.50549450549451,65.08744742085455,15.659340659340659,1.9371264113349569/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn84038587:00414187389:1830012701:0125/pct:69.49426401680401,65.08024349750968,15.662196369903592,1.9406013650617968/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2129,7 +2129,7 @@ ing his been a hon-e-Weeper * ai d head of a lainily
 within the county, city, town, borough or election dis­  
 trict where he may offer to v&lt; to, and shall have bee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830013001:0269/pct:49.474151977484816,20.910026294729622,15.301436824174196,5.41900080027438/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830013001:0269/pct:49.46682464454976,20.90763603109282,15.304107424960506,5.422191739064167/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2200,7 +2200,7 @@ ry stvn citizen, being possessed, or whose tenant for
 years, at will or at sufferance, is possessed, of nil es­  
 tate ol freehold in land of the value of twenty-fiv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830020101:0110/pct:60.91235744414935,27.980903586399627,17.294172785502266,2.177456916627853/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830020101:0110/pct:60.90284286160575,27.977645826056584,17.29667812142039,2.1810843326735747/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2233,7 +2233,7 @@ mav all vole; if not, hut one vole can ha given by all
 the holders capable of voting, who may be presen&#x27;, and  
 agree on :lie per-on lo be voied lor. A person holdin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830020401:0278/pct:66.11851851851851,32.83080134523948,15.2,8.755653484866055/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830020401:0278/pct:66.10872463338765,32.82699443413729,15.202686021823927,8.758503401360544/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2255,7 +2255,7 @@ court of hustings, under the con.mo.. of the city or
 borough,are qualified elector- It will lie observed  
 thai there i« a considerable difT retire between thes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830020401:0278/pct:66.2074074074074,45.645367041632845,15.125925925925927,3.67621477444045/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830020401:0278/pct:66.19760035550289,45.640074211502785,15.128622920061225,3.6796536796536796/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2283,7 +2283,7 @@ sf a family within the county, city, town, bo­
 rough or election district where he may offer to  
 rote, and shall have been assessed with a part o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830020501:0135/pct:64.20058814425012,48.432818621802255,14.486921529175051,6.72966121226089/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830020501:0135/pct:64.19065304859177,48.42723816107846,14.489838027442485,6.732726504589622/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2301,7 +2301,7 @@ descent, devise, marriage or marriage-settlement, hav­
 ing been so possessed or en&#x27;ifted fi r six months) and  
 ••very such rltlz n, who shall Own and be htm-t-if i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830020601:0284/pct:66.74067495559503,65.83922978772765,15.216104203670811,1.786335691915091/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830020601:0284/pct:66.73079769128312,65.83159359777314,15.21878545705688,1.7899945874893683/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2320,7 +2320,7 @@ so possessed or entitled for six months;) nml every
 such Citizen, who shall own mid and lie himself in ac  
 tun I occupation of n leasehold eslnte, with the ov
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021201:0150/pct:60.54943299792365,87.07799767171129,17.808656764095193,2.747380675203725/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021201:0150/pct:60.53976365378473,87.06786171574905,17.81113595230491,2.7509409071508943/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2352,7 +2352,7 @@ sufferance, is possessed, of an estate, of freohold,
 in land ot the value ol twenty-five dollars; and  
 so assessed to he if any assessment thereof h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830021201:0139/pct:65.2200211704219,34.09847354527717,14.199304400423408,8.573396074830713/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830021201:0139/pct:65.2101602661022,34.094560477392704,14.202197359137184,8.57623747226685/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2380,7 +2380,7 @@ ot a family within the county, city, town, bo­
 rough or election district where he may offer to  
 vote, and shall have been assessed with a part o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830021201:0139/pct:65.29562982005142,48.23826466199931,14.12369575079389,6.817399288419603/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830021201:0139/pct:65.28575748412459,48.23272894193252,14.126600141114807,6.82044220029072/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2401,7 +2401,7 @@ co possessed or entitled Tor six months;) and every
 such citizen, who shall own and and be himself in ac­  
 tual occupation of a leasehold estate, with the evi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830021601:0067/pct:58.64353312302839,60.21363418146903,17.47634069400631,3.7926068170907343/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830021601:0067/pct:58.634284813120956,60.206408256330256,17.47884140251275,3.796151846073843/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2443,7 +2443,7 @@ inafter directed; and that ivitlmi ten days after (lie poll*
 in 1 lie respective counties and corporations ot tins Com­  
 monwealth, shall lie closed, K shall bo the duty of (b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830021601:0297/pct:51.20421832692033,55.02711251694532,14.50762434088642,12.901039313149571/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830021601:0297/pct:51.196922200056996,55.02089687111714,14.510306830056047,12.903347264580745/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2463,7 +2463,7 @@ years, at will or at sufteraucc, is possessed, of an es­
 tate of freehold in land of the value of twenty-five  
 dollats, and so assessed to be if any assessment there
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021701:0166/pct:59.256378344741755,25.282752120640904,16.94150591163659,3.192742695570217/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021701:0166/pct:59.24716130035775,25.279773824949935,16.944055581479752,3.196293242235049/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2484,7 +2484,7 @@ so possessed or entitled lor six months;) nmTevcry
 such citizen, who shall own and and be himself in ac­  
 tual occupation of a leasehold estate, with the evi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021701:0166/pct:59.287492221530805,33.211592836946274,17.06596141879278,3.734684260131951/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021701:0166/pct:59.27827033753305,33.207680527741786,17.068491730180952,3.738170966348608/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2523,7 +2523,7 @@ vote can be given by all the holders capa­
 ble of votting, who may be present, tfnd  
 agree on the person to be voted for. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn84038587:00414187389:1830021701:0137/pct:67.95214859121675,72.66265718972116,15.378561309617503,16.38053581191908/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn84038587:00414187389:1830021701:0137/pct:67.94145420207744,72.65471244259786,15.381387052775155,16.382389386981558/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2566,7 +2566,7 @@ hereinafter directed; and that within ten days after
 the poll i in the respective counties and corporations  
 of this Commonwealth, shall bo doped, it shall ho th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021801:0168/pct:42.49959103549812,64.0574890129469,18.321609684279405,15.251217484261788/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021801:0168/pct:42.492639842983316,64.04988123515439,18.324064987460474,15.253365003958828/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2588,7 +2588,7 @@ so possessed or entitled lor six months;) nnd every
 such citizen, who shall own and and be himself&#x27;in ac­  
 tual occupation of a leasehold estate, with the evi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021901:0174/pct:60.82292667307077,34.055910921582566,17.483189241114314,3.624733475479744/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021901:0174/pct:60.81319033135905,34.05187729480043,17.485726482044715,3.6282522010343876/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2616,7 +2616,7 @@ of a family within the county, city, town, bo­
 rough or election district where he may offer to  
 vote, and shall have been assessed with a part o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830021901:0143/pct:64.60718206053004,50.052186014148205,14.583660028226438,6.7841818392670765/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830021901:0143/pct:64.59705236751333,50.04638218923933,14.586599770042856,6.78726035868893/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2636,7 +2636,7 @@ years, at will or at sufferance, is possessed, of an rs­
 i t**te ot freehold in land of tho value of twenty-five  
 dollars, and so assessed to be if any assessment there
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022001:0178/pct:61.1406476558724,27.214438375682736,18.060254551313033,3.2890049869389695/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022001:0178/pct:61.13079896907217,27.211207408286835,18.0627147766323,3.2925719260754285/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2656,7 +2656,7 @@ such citizen, who shall own and and be lmnselfin ac­
 tual occupation ot a leasehold estate, with the evi­  
 dence of title recorded two months befortt he shall ot
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022001:0178/pct:61.430642822619625,36.27404417003087,17.77025938456581,3.3008786511517454/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022001:0178/pct:61.420747422680414,36.26973762317464,17.772766323024054,3.304444180616566/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2674,7 +2674,7 @@ years, at will or at sufferance, is possessed, of an es­
 tate of freehold inland of the value of twenty.live  
 dollars, and so assessed to be if any assessment there
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022201:0182/pct:61.43759106362312,27.684085510688835,17.856564675408773,2.2327790973871733/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022201:0182/pct:61.42764648753642,27.68079800498753,17.85906981763246,2.236472311285279/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2693,7 +2693,7 @@ so possessed or entitled tor fix months;) and every
 such citizen, who shall own and and be himself iu ac­  
 tual occupation of a leasehold estate, with tho evi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022201:0182/pct:61.46996924073175,35.70071258907363,17.888942852517403,2.7434679334916865/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022201:0182/pct:61.460019423761736,35.696473102956894,17.891442753857774,2.747100502711475/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2722,7 +2722,7 @@ keeper and head of a family within the county,
 city, t&quot;»n, borough, or eiectiondistrict where  
 lie may offer to vote, and shall have been as
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1830022501:0253/pct:43.01235619940349,78.83070102521474,17.61823604601619,8.146300914380715/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1830022501:0253/pct:43.00319488817891,78.81978113312093,17.619808306709267,8.148635545089348/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2750,7 +2750,7 @@ of a family within the county, city, town, bo­
 rough or election district where he mav offer to  
 | vote, and shall have been assessed with a part o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830022601:0145/pct:63.39709257842387,51.31447587354409,14.78194338179036,6.555740432612313/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830022601:0145/pct:63.387392900856796,51.308784383318546,14.784781721746226,6.558710440698018/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2767,7 +2767,7 @@ ry suen citizen, being possessed, or whoso tenant for
 ; years, at will or at sufferance, is possessed, of an es­  
 tate ot freehold in land of tho valuo of twenty-fiv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022701:0202/pct:60.295060936497755,78.42417061611374,17.960230917254652,1.6943127962085307/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022701:0202/pct:60.28539361872695,78.4148797535837,17.962695740473517,1.6980610512182601/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2785,7 +2785,7 @@ years, at will or at sufleranec, is poifcniud, ul nn es­
 tate of freehold in land of tho value of twenty-five  
 dollars, ami so assessed to be if any assessment there
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030101:0206/pct:60.96642096642097,79.11527514231499,17.88697788697789,2.217741935483871/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030101:0206/pct:60.95643629217163,79.10589351357761,17.889507588164648,2.221431677141389/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2804,7 +2804,7 @@ so possessed nr entitled for six months;) and every
 such citizen, who shall own and and be himself in ac­  
 | tual occupation of a leasehold estate, with the ovi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030201:0210/pct:59.8371335504886,87.49109897934963,18.403908794788272,2.7771184429147877/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030201:0210/pct:59.827389675948545,87.48071674379969,18.406339901210444,2.7807444325778254/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2821,7 +2821,7 @@ less Ins title shall have come to luui by deseent, de­
 vise, marriage or marriage-settlement, having been  
 so possessed or entitled Tor six months;) ami ever
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030301:0214/pct:60.39941548952752,88.37982195845697,17.71391459652541,1.7566765578635015/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030301:0214/pct:60.38961038961039,88.3693330168526,17.716450216450216,1.7604240841838754/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2864,7 +2864,7 @@ spective counties and corporations of (bis
 commonwealth, shall be closed, it shall be  
 the duty of the said commissioners, or th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84024746:00414186920:1830030301:0036/pct:30.808629520409745,31.996801462188714,14.636039112214807,15.421521590130226/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84024746:00414186920:1830030301:0036/pct:30.803848541278708,31.993146773272414,14.638940616594248,15.423567485246526/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2883,7 +2883,7 @@ so possessed or entitled for six months;! nnd every
 such citizen, who shall own and and he himself in ac­  
 tual occupation of a leasehold estate, with the rv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030401:0218/pct:60.666882486241505,88.72438706620869,17.837487860148915,2.747838446049982/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030401:0218/pct:60.65706424987862,88.71387967787778,17.839995684307063,2.7514606031896416/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2919,7 +2919,7 @@ tual occupation of a leasehold estate, with the rv
 ery such citizen, being possessed, or whoso tenant  
 for years, at will or at sufferance, is possessed, o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830031101:0241/pct:21.206786171574905,75.93312139408926,18.06978233034571,1.095019427764041/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830031101:0241/pct:21.20339254280685,75.92418177537085,18.072224889315624,1.0988148496978258/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2938,7 +2938,7 @@ an estate of freehold in land of the value of twenty­
 five dollars, and so assessed to be if any assessment  
 thereof be required by law: and every such citizen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830031201:0095/pct:41.06302916274694,58.09376118334725,17.372216995923488,2.7555767624955267/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830031201:0095/pct:41.05659194231071,58.086832061068705,17.374719130480223,2.7592239185750635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2966,7 +2966,7 @@ has been a house-keeper and head ofa family within
 the county, city, town, borough or election district  
 where h« may offer to vole, and shall have been as
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830031201:0095/pct:41.094386955158356,65.1318143862579,17.30950141110066,7.586782774663009/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830031201:0095/pct:41.08794481893714,65.12404580152672,17.31201337722736,7.5898536895674305/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3021,7 +3021,7 @@ following: &quot;Like proclamation shall be had
 jfor conducting, continuing, and closing  
 &#x27; the poll in each county of a district as i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn84038587:00414187389:1830032401:0157/pct:22.017626691847656,62.11166390270868,15.250236071765817,12.880044223327806/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn84038587:00414187389:1830032401:0157/pct:22.014162077104643,62.104797700641164,15.253081563073696,12.882305254624512/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3056,7 +3056,7 @@ and shall, on the last day of the election,
 conclude the poll according to the direc  
 tions aforesaid: hut if the poll fo be held a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn84038587:00414187389:1830032401:0157/pct:37.551148882593644,58.872305140961856,15.391879131255902,12.71420674405749/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn84038587:00414187389:1830032401:0157/pct:37.54523996852872,58.86579703736458,15.394702334120115,12.716486108040387/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3086,7 +3086,7 @@ cised in the copy printed for the Uousc, and are the &#x27;
 following: &quot;Like proclamation shall be had for con- 1  
 ducting, continuing, and closing the poll in each county 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830032601:0292/pct:24.445523717014733,12.913946587537092,18.309859154929576,8.58160237388724/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830032601:0292/pct:24.441566850113304,12.91241395680038,18.31229092478688,8.584539916132606/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3117,7 +3117,7 @@ of holding such election, and shall, on the Inst day
 of the election, conclude the poll accordin&#x27;? to iho ill  
 root ions aforesaid; hut if the poll to be held at an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830032601:0292/pct:24.445523717014733,71.98813056379822,18.27748097782095,8.747774480712167/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830032601:0292/pct:24.441566850113304,71.97958699264183,18.27991798856156,8.75069230160614/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3147,7 +3147,7 @@ ctsed in tho copy printed for tbo House, and are the
 following: “Like proclamation shall be had for con­  
 ductmg, continuing, and closing the poll in each count
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830032601:0112/pct:23.683365446371226,12.497035807446052,18.11175337186898,8.643585487313256/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830032601:0112/pct:23.679563332798203,12.495554238292828,18.114197035372182,8.646512546927484/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3180,7 +3180,7 @@ of holding such election, and shall, on the last day
 of the election, conclude the poll according to the di­  
 rections aforesaid; but if the poll to be held at an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830032601:0112/pct:23.779704560051382,70.60706663504861,18.031470777135517,9.781835428029405/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830032601:0112/pct:23.775886980253652,70.59869590989923,18.033927329159308,9.784627543963644/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3203,7 +3203,7 @@ under Sheriff, may and shall, by r* quest of any
 one or moic of me Candida, c-, or then agents, au  
 journ the proceeding on l..c poll until the next day,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830032901:0300/pct:7.05771643663739,32.618935468676405,17.25219573400251,4.710315591144607/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830032901:0300/pct:7.056609691077309,32.61509478393972,17.25471747425644,4.713685780446642/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3244,7 +3244,7 @@ holding such elections; and shall on the last day of
 the election, conclude the poll, according to the di­  
 rections aforesaid; but if the poll to be held at an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830051101:0448/pct:60.19512195121951,34.46607669616519,18.390243902439025,9.085545722713864/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830051101:0448/pct:60.18533571776947,34.462010382255784,18.392673278057767,9.088406481044517/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3284,7 +3284,7 @@ j holding such elections; and shaii on tho last dav of
 ! the elect Ion. conclude the poll, according to the df­  
 | rections aforesaid; but if the poll to be held at an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830051101:0160/pct:60.36392405063291,31.75787728026534,17.92721518987342,13.823738450604122/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830051101:0160/pct:60.35437430786268,31.754115835603457,17.929652481147496,13.826049192625055/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3317,7 +3317,7 @@ city, town, borough or election district
 where bo may offer to vole, and shat!  
 have been assessed with a part of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84024746:00414186920:1830090801:0146/pct:32.186544342507645,39.84851910468008,14.954128440366972,11.440198959981913/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84024746:00414186920:1830090801:0146/pct:32.18162360495337,39.84401492031197,14.956938286704377,11.442673599336874/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3347,7 +3347,7 @@ within the county, city, town, borough or c I
 lection district where lie may offer to vote, |  
 and shall have icen assessed with a part of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830091701:0230/pct:49.533727074914516,22.601038609166856,13.723966428349394,6.976744186046512/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830091701:0230/pct:49.526029526029525,22.598487413929337,13.727013727013727,6.979719306166986/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3366,7 +3366,7 @@ whose tenant for years, at will or at sufferance, is possesed of
 an estate of freehold in land of the value of twenty five dol  
 Iar«, and so assessed to be if any assessment thereof be requ
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830092401:0309/pct:22.957135976882324,51.85985121190305,17.94830630919891,2.4478041756659468/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830092401:0309/pct:22.953451043338685,51.85362927414517,17.950775815944354,2.451509698060388/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3383,7 +3383,7 @@ citizen, unless his title shall have come to him by descent de- &#x27;
 vis©, marriage or marriage settlement, having been so possess  
 e.. or entitled for six months;) and every such citizen, who shall 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830092401:0309/pct:22.925028094397174,58.207343412526996,18.076737839139508,1.4398848092152627/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830092401:0309/pct:22.921348314606742,58.2003599280144,18.079186730872124,1.4437112577484503/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3404,7 +3404,7 @@ meat, drink or other reward, in order
 to be elected, or for having been elect  
 ed, or who shall treat, directly or i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84024746:00414186920:1831060201:0296/pct:1.7972350230414746,69.32867763009686,14.224270353302611,3.6494706014868212/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84024746:00414186920:1831060201:0296/pct:1.7969589924742744,69.32086946728235,14.22720524241028,3.652813755302774/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3428,7 +3428,7 @@ give or agree to g ve, any elector or pr-tended el-ctor’
 money, meat, dunk or other reward, in order to be  
 elected, or lor having been elected, or who shall irea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184054:1831060701:0037/pct:34.93890309747087,60.43429844097996,14.663256606990622,4.0534521158129175/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184054:1831060701:0037/pct:34.933939480039776,60.4275693129941,14.665908983283611,4.056712318598523/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3458,7 +3458,7 @@ dollars, may vote.
 next preceding months, has been a housekeeper  
 and head of a family within the county, city
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216444:1831080501:0728/pct:6.611430503889077,69.25543284645529,18.26175177544809,12.14820092625579/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216444:1831080501:0728/pct:6.610312764158918,69.24720968891,18.26429980276134,12.150716377740837/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3481,7 +3481,7 @@ at sufferance, is possessed, of an estate of free­
 hold in land of the value of twenty-five dollars.  
 . and so assessed to be if any assessment thereo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216444:1831080801:0736/pct:6.577134986225896,22.690572310615057,18.85330578512397,5.533127523153645/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216444:1831080801:0736/pct:6.576002754346703,22.6878784281135,18.85579847363287,5.53642803435039/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3501,7 +3501,7 @@ of inch enndillnte in a distinct column at the head thereol
 j and under his name, in the same column, the name o  
 i every elector, w ho shall vole for that candidate,&quot; &amp;c.?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_armani_ver02:data:sn84024735:00415664229:1836090901:0467/pct:31.32716049382716,51.56219102234527,16.203703703703702,2.9266363456594817/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_armani_ver02:data:sn84024735:00415664229:1836090901:0467/pct:31.32716049382716,51.5687825456463,16.208380097268986,2.9233405840089643/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3534,7 +3534,7 @@ in which case, thfiy .shall meet at such
 Other place as the GovenlOr shall ap­  
 point and notify by proclamation. Thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_queen_ver01:data:sn84026826:00393349414:1837040101:0512/pct:67.55478087649402,19.973032192819822,15.662350597609562,12.202932749030845/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_queen_ver01:data:sn84026826:00393349414:1837040101:0512/pct:67.53796365446851,19.969666329625884,15.664675130694548,12.205089315807212/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3560,7 +3560,7 @@ he be absent; which day of trial msy be lengthened, on
 | notice to tfie absent parly &quot; &#x27;I here must be two parties,  
 the returned member and the petitioner, both legall
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_armani_ver02:data:sn84024735:00415664230:1838091101:0354/pct:48.294274695935925,61.22810675562969,17.175912192227827,5.483736447039199/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_armani_ver02:data:sn84024735:00415664230:1838091101:0354/pct:48.294274695935925,61.235056991937725,17.180856323543953,5.480261328885182/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3600,7 +3600,7 @@ shewing the extreme jeah&gt;u&gt;y of both branches of lite
 Genera! Assembly in guarding the rights &quot;f its members,  
 a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_armani_ver02:data:sn84024735:00415664230:1839012401:0516/pct:64.33981880291104,21.965495995070857,17.495915639388087,10.649003902238652/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_armani_ver02:data:sn84024735:00415664230:1839012401:0516/pct:64.34476954304668,21.97234202779489,17.495915639388087,10.652426918600671/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3623,7 +3623,7 @@ aid by law or ordinance; and in every case, the day
 of passing thereof shall be noted in the publication  
 next after the title of the same
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186427:1840031901:0130/pct:251.0544701772545,139.28343610461408,38.59490231595291,12.162449500318946/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186427:1840031901:0130/pct:83.67399741267788,46.422876581269264,12.863303147908582,4.053718861840474/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3645,7 +3645,7 @@ if the greatest number of votes for several cvr.d-l
 dates Shall&#x27; be ♦ qunl to one another, he may lr,4  
 • hall d. elate which of the candidates he will elec
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348963:1840050701:0496/pct:83.77373262869446,17.654355016538037,16.05010765316109,4.02425578831312/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348963:1840050701:0496/pct:83.7573385518591,17.651922281934684,16.051859099804304,4.027146203665427/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3662,7 +3662,7 @@ therein, who n. twr.nly-one years old and upwards, being &#x27;
 possessed, or whose tenant for years, at will or at suffer­  
 ance, is possessed of an estate of freehold at the leas
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1840091801:0623/pct:64.36746987951807,50.552074007758875,15.75301204819277,1.5418283099572268/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1840091801:0623/pct:64.36746987951807,50.5587055273716,15.763052208835342,1.538512550150867/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3686,7 +3686,7 @@ such land, being one entire parcel, lie iu several coun­
 ties, the holder shall vote in that county wherein the  
 housr standeth only
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1840091801:0623/pct:64.23192771084338,51.805431214562816,15.768072289156626,4.545906694519049/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1840091801:0623/pct:64.23192771084338,51.805431214562816,15.773092369477911,4.5525382141317685/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3704,7 +3704,7 @@ being one entire parcel, lie in several counties, the
 holder shall vote in that county wherein &#x27;he gcaitir  
 purl of the hind lies only
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1840091801:0623/pct:64.33734939759036,58.69889585198448,15.783132530120483,1.9994031632348552/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1840091801:0623/pct:64.33734939759036,58.7055273715972,15.788152610441767,1.9994031632348552/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3725,7 +3725,7 @@ less the title shall have come to him by descent, devise,
 marriage or marriage settlement,) having been so pos­  
 sessed six months, shall be entitled to vote in the city
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1840091801:0623/pct:64.35240963855422,61.28518850094499,15.768072289156626,3.1731821346861633/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1840091801:0623/pct:64.35240963855422,61.28518850094499,15.773092369477911,3.1798136542988824/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3759,7 +3759,7 @@ others may vote, if holding solely, they might have
   
 voted. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1840091801:0623/pct:64.41265060240964,74.12712623097583,16.039156626506024,7.898139858748633/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1840091801:0623/pct:64.41265060240964,74.13375775058854,16.049196787148595,7.901455618554992/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3795,7 +3795,7 @@ term o(Jiff ijcur.t. and shall have obtained a certificate
 of such service from the Court of Hustings, under Un­  
 common sea! of (he e ty or borough, shall be ijualitie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1840091801:0623/pct:79.96987951807229,36.87456480652541,15.978915662650602,9.221128021486123/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1840091801:0623/pct:79.97991967871486,36.877880566331775,15.973895582329318,9.221128021486123/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3837,7 +3837,7 @@ son shall, for his offence, forli it and pay to the Com­
 mon wealth for the benefit of the Literary t und, the  
 sum of thirty-three dollars and thirty-three cents, reco
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1840091801:0623/pct:80.36144578313252,75.66895454093306,15.903614457831326,11.867104346961106/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1840091801:0623/pct:80.36646586345381,75.67558606054577,15.89859437751004,11.863788587154746/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4095,7 +4095,7 @@ forthwith deciare the candidate for whom the great­
 er number of votes shall appear to have been given,  
 to be duly elected
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184595:1841040101:0288/pct:11.263271272503463,137.32084414851596,38.05200800123096,13.045931610427717/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184595:1841040101:0288/pct:3.753846153846154,45.76844955991876,12.682051282051281,4.34815316331904/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4127,7 +4127,7 @@ morial, the said sheriff had manifestly exceeded his
 authority in the particular complained of, and had  
 illegally given the return to the sitting member
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184595:1841040101:0288/pct:10.940144637636559,150.3554903509762,38.32897368825973,21.88240604897867/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184595:1841040101:0288/pct:3.646153846153846,50.11284134506883,12.774358974358975,7.293312269615587/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4159,7 +4159,7 @@ mon, joint tenant or parcener, of an interest in or share of
 land, and having an estate of freehold therein, such interest  
 or share being of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184613:1843041901:0360/pct:213.66128101557993,63.31067849326114,39.180611656087706,22.02511231424951/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184613:1843041901:0360/pct:71.210154334343,21.10112877217231,13.058320111543825,7.340858481148737/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4189,7 +4189,7 @@ right of another estate or estates, in the same county, in
 which case the others may vote, if holding solely they might  
 have voted.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184613:1843041901:0360/pct:213.53144835545297,88.74553622854509,39.22388920946336,18.60384748300887/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184613:1843041901:0360/pct:71.16688302322227,29.57843814789219,13.0727438819174,6.200568225447285/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4221,7 +4221,7 @@ unt i:i common, joint tenant or parcener, ol an in-]
 terest in or share of land, and having an estate ut ;  
 freehold therein, such int&lt; rest or ■ hare being *&gt;! 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215725:1843042101:0382/pct:21.77703761755486,7.1080282947599756,15.066614420062695,9.120252729894926/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215725:1843042101:0382/pct:21.774904496032914,7.107540173053152,15.068403696085154,9.121915487799296/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4245,7 +4245,7 @@ estate or estates, in the same county, in which]
 case the others may vote, if holding solely they  
 might have voted. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215725:1843042101:0382/pct:21.561520376175547,22.635807980221138,15.223354231974922,5.054597898495983/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215725:1843042101:0382/pct:21.55940836516799,22.634253536602117,15.225128154896007,5.056539852584352/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4275,7 +4275,7 @@ same manner as if ho or they holding such ohier
 estate in the same county had no interest whatev­  
 er in the undivided land belonging to the sai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215725:1843042101:0382/pct:21.747648902821318,50.05837511159948,15.037225705329154,8.048897740539799/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215725:1843042101:0382/pct:21.745518660005878,50.05493750858398,15.039017860058118,8.050634070411574/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4307,7 +4307,7 @@ mon, joint tenant or parcener, of an interest in or share of
 land, and having an estate of frechold therein, such interest  
 or share being of t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184613:1843042201:0372/pct:212.82495667244368,100.19605581824473,39.052570768342,22.050513204935992/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184613:1843042201:0372/pct:70.93140794223827,33.39483394833948,13.015643802647412,7.349323493234932/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4337,7 +4337,7 @@ right of another estate or estates, in the same county, in
 which case the others may vote, if holding solely they might  
 have vote
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184613:1843042201:0372/pct:212.82495667244368,125.66024679967708,39.00924321201617,18.763695075539154/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184613:1843042201:0372/pct:70.93140794223827,41.88191881918819,13.001203369434416,6.253843788437885/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4366,7 +4366,7 @@ or more counties, and be not sufficient to entitle him
 to vole in all the counties, the vote shall be given in  
 that county where the grecter part of tbe land lies.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664266:1843042501:0568/pct:14.884979702300406,89.5604938271605,16.298301007367314,7.0320987654320986/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664266:1843042501:0568/pct:14.889991479977947,89.56707818930042,16.298301007367314,7.02880658436214/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4390,7 +4390,7 @@ of freehold in land of the value ot ttcenly­
 five dollars, and so assesed to be. if any  
 assessment thereof be required by l&gt;w
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348975:1843042701:0480/pct:31.958572221194746,4.190213645761544,12.96467542075088,5.844245348035837/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348975:1843042701:0480/pct:31.952662721893493,4.189636163175304,12.966900887573965,5.846885336273429/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4423,7 +4423,7 @@ estate or eitatr s, in the same county, in
 which case tho others may vote, il bold­  
 ing s Ely they might have voted
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348975:1843042701:0480/pct:31.847604956537822,23.583735354927637,13.168115405955243,10.572019297036526/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348975:1843042701:0480/pct:31.84171597633136,23.580485115766262,13.17030325443787,10.574007717750828/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4456,7 +4456,7 @@ If the va&#x27;ue of the land be suffici ntto
 I entitle them to more than one vote, the  
 { votes to which the are entit&#x27;ed shall b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348975:1843042701:0480/pct:31.903088588866286,34.693314955203306,13.11263177362678,11.137146795313576/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348975:1843042701:0480/pct:31.897189349112427,34.68853362734289,13.114829881656805,11.139057331863286/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4473,7 +4473,7 @@ I entitle them to more than one vote, the
 whose tenant for years, at&#x27;will or at sufferance,  
 is pcs-essed of *u testate at freehold m [land o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157303:1843042701:0239/pct:57.9036063363667,24.389312977099237,12.369396697000337,1.4758269720101782/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157303:1843042701:0239/pct:57.893850042123,24.38621040580079,12.371524852569502,1.4788194886146802/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4503,7 +4503,7 @@ right of another e|»tate or estates, in trie same
 county, in which: case the others may vote, if  
 holding solely t|rij might have voted
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157303:1843042701:0239/pct:57.751937984496124,35.69974554707379,12.723289518031681,7.315521628498728/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157303:1843042701:0239/pct:57.74220724515585,35.695204172497135,12.72535804549284,7.317771275919094/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4532,7 +4532,7 @@ will be here to-day, and it will be seen whether under these
 circumstances, they will take the responsibility of award.  
 ing the certificate of election to Go. Gilmer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184613:1843050901:0424/pct:89.55159528600173,125.23633848282223,39.81029031330842,18.999308277611252/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184613:1843050901:0424/pct:29.84624227618911,41.74063400576369,13.268189874024046,6.332372718539865/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4557,7 +4557,7 @@ one or more of the candidates or their agents, adjourn
 the proceeding on the poll until the next day, and  
 from day to day.&quot; &amp;c for three days, &amp;c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347892:1843051101:0737/pct:263.91592059166993,260.91533849978066,62.30050603347606,21.88916508261442/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347892:1843051101:0737/pct:65.96614127262113,65.21929824561404,15.57209573847052,5.4714912280701755/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4577,7 +4577,7 @@ from day to day.&quot; &amp;c for three days, &amp;c
 take the poll fairly and impartially; he shall deliver a poll  
 &quot;book to each writer, who shall enter, in distinct columns
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184613:1843111001:1040/pct:177.11471610660487,16.622691292875988,39.1657010428737,7.135482390730756/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184613:1843111001:1040/pct:59.0296886314265,5.540261527873366,13.053342988172822,2.378221304580561/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4617,7 +4617,7 @@ istered by him, or make solemn affirmation, that they will
 take the poll fairly and impartially; he shall deliver a poll­  
 book to each writer, who shall enter, in distinct columns
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184613:1843121501:1142/pct:11.75961954172071,104.38555889840315,38.66551376279003,7.05855126128211/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184613:1843121501:1142/pct:3.919308357348703,34.791160476686336,12.886647454370797,2.3525781942998187/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4638,7 +4638,7 @@ solemn affirmation, that they will take the poll fair­
 ly land impartially; he shall deliver a poll book to  
 sach wrirer, who shall enter in distinct columns, on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186439:1843121901:1052/pct:152.81235229242162,165.46428571428572,44.115330077201826,10.654761904761905/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186439:1843121901:1052/pct:50.9294265910523,55.14819664325675,14.702793530770846,3.5511645439035036/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4662,7 +4662,7 @@ and shall, by the request of any one or more of the candi­
 dates, or their agents, adjourn the proceedings on the poll  
  until the next day; and so from day to day, for three days
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184613:1843122001:1158/pct:50.648228176318064,58.26157784500815,40.16133679055027,12.054922038631604/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184613:1843122001:1158/pct:16.88031110470978,19.41826643397324,13.385184118296605,4.017839829358154/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4692,7 +4692,7 @@ edjournment theroof, may and shall, by she requesd
 of any ene more of the candidates of their agents  
 atjoutn the proceedings of the poll unill the ner
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186439:1843122001:1056/pct:152.00945626477542,219.01972504482964,43.845547675334906,27.878063359234908/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186439:1843122001:1056/pct:50.66183422628427,72.99784843413818,14.612879504149596,9.291577018089091/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4711,7 +4711,7 @@ at sufferance, is possessed, of an estate of tree- 1
 hold in land of the value of twenty-five dollars, 1  
 and so assessed to be, if any assessment therecl 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215749:1844041601:0224/pct:38.731774146198255,76.2396694214876,14.698111361189941,2.3993601706211676/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215749:1844041601:0224/pct:38.7279843444227,76.23458847050983,14.69993476842792,2.40142174830612/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4730,7 +4730,7 @@ less his title shall have come to him by descent, .
 devise, marriage or marriage settlement, having ,  
 been *0 po*se-*sed or entitled for -ix months;) and 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215749:1844041601:0224/pct:38.70241706624915,83.4910690482538,14.717682747822684,2.585977072780592/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215749:1844041601:0224/pct:38.6986301369863,83.48550483172276,14.719504240052185,2.588026213484394/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4747,7 +4747,7 @@ citizen, unless his title shall have come to
 him by descent, devise, marriage or mar­  
 riage settlement, having bten so possessed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348987:1844050201:0075/pct:29.050797182054133,30.87748344370861,12.75491286614757,1.6280353200883002/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348987:1844050201:0075/pct:29.045412418906395,30.87322389295075,12.757182576459686,1.6312594840667678/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4771,7 +4771,7 @@ the title shall have come to him by descent, de­
 vise, marriage, or marriage settlement) having  
 been so possessed six months, shall be oi l tied t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664278:1844100301:0561/pct:16.23114827534717,12.475595470519329,13.991339405704046,4.451386177274502/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664278:1844100301:0561/pct:16.23114827534717,12.475595470519329,13.996316758747698,4.454640114538591/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4795,7 +4795,7 @@ another estate or estates, in ihrstnnc coin::v. in
 wlweh case theothcis may vote, if holding solely,  
 they might have voted
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664278:1844100301:0561/pct:16.470061221442435,31.677079265911754,13.67776616395401,4.4221007418976965/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664278:1844100301:0561/pct:16.470061221442435,31.683587140439933,13.692698223084964,4.418846804633606/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4815,7 +4815,7 @@ the same county, the others may vote in the same
 manner as if he or they holding such othei estate  
 in the same county had no interest whatever i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664278:1844100301:0561/pct:16.380468866656713,60.044904334244436,13.797222637001642,2.6259273721202656/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664278:1844100301:0561/pct:16.380468866656713,60.05141220877262,13.812154696132596,2.629181309384355/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4841,7 +4841,7 @@ sff the aine county in which case the others may vote.
 if holding solely they migbt have voted.  
 REVERSIONERS OR AENAHDEEMEN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530200:1844101201:0666/pct:45.306378310609624,32.877664504170525,42.01535809434258,12.349397590361447/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530200:1844101201:0666/pct:15.102126103536541,10.959221501390177,14.00511936478086,4.116465863453815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4859,7 +4859,7 @@ ve irs at will or at sufferance, is posses&lt;-td, offili)
 ea of unimproved land,&quot; such persons having  
 it! sitch land &quot;an estate of freehold at the least
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1845041801:0164/pct:2.6410564225690276,58.578217437687904,13.68547418967587,1.9008825526137134/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1845041801:0164/pct:2.6460584233693476,58.578217437687904,13.68547418967587,1.9041153460705396/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4899,7 +4899,7 @@ aforesaid, to whom the said polls shall be
 delivered within ten days after the reception  
 thereof, to transmit by mail to the Executi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186464:1846012001:0056/pct:56.192543411644536,168.21771611526148,37.551072522982636,38.815368196371395/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186464:1846012001:0056/pct:18.72845653006511,56.066588411055385,12.51542618834844,12.937075374381958/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4927,7 +4927,7 @@ devise, marriage, or marriage settlement,) having .
 been so possessed six month*, and no other per- j  
 son shall be qualified to vote,” itc. Sec 12 lien
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_emeralds_ver02:data:sn85025007:00414215786:1847032501:0444/pct:6.176978563446104,78.78620308287827,15.70659351823631,7.54821317481164/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_emeralds_ver02:data:sn85025007:00414215786:1847032501:0444/pct:6.176351076798049,78.78075753386784,15.708384125694161,7.549995392129758/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4950,7 +4950,7 @@ ment.) having been j&gt;osse&gt;sel ut the same tor
 six months&#x27; - -each and every one of the above  
 persons shall he cut.tied to a vote. 1 enants i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215804:1848042701:0388/pct:6.476389152285226,34.04196955150185,12.469182628484733,4.08723083253326/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215804:1848042701:0388/pct:6.475775101924718,34.039635191661525,12.471160835624664,4.089236325401724/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4973,7 +4973,7 @@ l&quot;s* (he title shall have come to him by descent,
 devise, marriage, or marriage settlement,) hav­  
 ing been si. possessed six months, shall have th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664308:1848092901:0335/pct:58.218973747016705,17.003383276945385,13.58890214797136,3.9826002899951667/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664308:1848092901:0335/pct:58.22891805887033,17.00982761398421,13.58890214797136,3.979378121475753/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4997,7 +4997,7 @@ title shall ha ve come to him by dt a .rent, devise,
 marriage, or marriage settlement) having been  
 so possessed six ruonhs, shall be entitled 10 vot
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664308:1848092901:0335/pct:58.27863961813843,26.76655389076849,13.58890214797136,4.224262928951184/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664308:1848092901:0335/pct:58.27863961813843,26.772998227807314,13.59387430389817,4.224262928951184/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5027,7 +5027,7 @@ of another estate or estate#, in the. same county,
 m which ca*e (he oilief&lt; may vote, il holding  
 solely, they might have voted
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664308:1848092901:0335/pct:58.218973747016705,42.7066215563074,13.573985680190932,6.834219429676172/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664308:1848092901:0335/pct:58.218973747016705,42.71306589334622,13.578957836117741,6.834219429676172/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5055,7 +5055,7 @@ otcained a ceriificate ol such service from the
 court ol Hustings, under the common seal &lt;&gt;l ihe  
 cit.&#x27; or !&gt;jtotigh, shall be qualified to vite in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664308:1848092901:0335/pct:72.03162291169451,36.29772837119381,13.573985680190932,5.857902368293861/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664308:1848092901:0335/pct:72.03162291169451,36.30417270823264,13.58890214797136,5.857902368293861/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5078,7 +5078,7 @@ possessed of the same for six months* -each
 an i every one of the above persons shall he en­  
 titled to a vote. Tenants in common, joint ten
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215816:1848102801:0309/pct:4.556744363775315,16.848640548062512,12.88689338937715,4.174694926140013/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215816:1848102801:0309/pct:4.556309103066195,16.847438276009704,12.888846435508007,4.176775605347034/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5105,7 +5105,7 @@ lier to he elected, or for having been elected, or
 v\ lu» shall tieat. d.i&#x27;ectlv or indirectly, being a  
 candidate, shall upon* proof he expelled the 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215816:1849010501:0533/pct:3.520923520923521,69.46719876776588,13.237133237133238,5.657074844220402/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215816:1849010501:0533/pct:3.520584840323201,69.46233548025764,13.239066307554188,5.6590124148231125/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5126,7 +5126,7 @@ der tote elected, or for having been elected, or
 who shall treat, directly or indirectly being a  
 cat didate, shall. i&gt;pon proof, be excelled th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664308:1849011201:0457/pct:44.35265845599279,92.14410565158283,13.667768098528086,3.262769469799961/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664308:1849011201:0457/pct:44.35265845599279,92.15057940053084,13.677781115450085,3.266006344273969/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5147,7 +5147,7 @@ he shall not have voted tor as many candidates
 as by law he might have voted lor.&quot; li seemed to  
 be the opinion ol the gentlemen about the pol
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664308:1849050401:0585/pct:27.369846524225096,23.035049183459076,13.632260006018658,3.1133607105338554/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664308:1849050401:0585/pct:27.379877620623933,23.041415974278166,13.637275554218077,3.1133607105338554/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5168,7 +5168,7 @@ question. That law reads;
 cond time at one and the same election, although  
 at the flrst time he shall not have voied for as man
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664308:1849050401:0585/pct:27.50526632560939,93.02836405309904,13.617213361420403,3.0751599656193296/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664308:1849050401:0585/pct:27.510281873808808,93.03473084391813,13.617213361420403,3.0783433610288733/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5186,7 +5186,7 @@ sud officer shall appoint so many writers as he
 shall think fit, who shall respectively &gt;a?e an  
 (.a h, to a.iminis-ere.1 by s.v ! - ffic-r, w recor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664308:1849060101:0620/pct:58.08966861598441,87.0939675174014,13.480281901334532,1.836813611755607/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664308:1849060101:0620/pct:58.09966511720898,87.09718999742202,13.475283650722247,1.8432585717968548/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5207,7 +5207,7 @@ tution ami laws; and every such citizen, being
 possessed, or whose tenant for years, at will or  
 at sufferance, is possessed, bf an estate of free
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024652:00393348677:1850010701:0176/pct:63.64196263600903,83.17810574580885,14.658181071648531,3.510531594784353/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024652:00393348677:1850010701:0176/pct:63.62889983579639,83.16618911174785,14.660303776683087,3.5136103151862463/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5231,7 +5231,7 @@ i shall oiler to vote, ol a term originally - not Jess
 j than five years, of the annual valu?, or rent of  
 twenty dollars ) and every such citizen, who fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024652:00393348677:1850010701:0176/pct:63.78567029357421,14.38601518842241,30.240197084787518,81.63060610402637/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024652:00393348677:1850010701:0176/pct:63.77257799671593,14.383954154727794,30.239121510673236,81.62249283667622/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5259,7 +5259,7 @@ all be polled before sunsetting, or it by rain, or rise wa
 ter courss, many of the electors may have been hindered  
 from attending, the sheriff or under sheriff, or other pro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347934:1850082201:0419/pct:203.73292284010006,72.6832955404384,61.1314219742159,30.128495842781557/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347934:1850082201:0419/pct:50.9234320892651,18.16807738814994,15.279915352058485,7.530985489721886/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5289,7 +5289,7 @@ pear to the commissioners that many of those entitled to
 vote, were prevented from attending, by rain or rise of  
 water courses, they shall keep the polls open for thre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347934:1850082201:0419/pct:203.73292284010006,102.85714285714286,61.05445449297672,32.36583522297808/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347934:1850082201:0419/pct:50.9234320892651,25.710399032648127,15.260677183532128,8.090235792019348/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5323,7 +5323,7 @@ who shall file the same in his oilice.
 Sec. 7, The returns of the said election shall be sub­  
 ject to llie inquiry, determination and judgment of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348409:1852031601:0245/pct:37.27131179447256,36.41371711885415,14.499805371739976,7.987880457237295/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348409:1852031601:0245/pct:37.26405915547772,36.40870283668411,14.501848608678731,7.990223079041586/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5361,7 +5361,7 @@ for any of said officers. The said votes shall
 the third article of the constitution; but at the  
 time a vote is given the officer shall receive o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:0020219090A:1852040501:0282/pct:16.802263883975947,243.5298573412448,46.03820304209409,35.538442115894455/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:0020219090A:1852040501:0282/pct:5.600754627991982,81.17661911374826,15.346067680698031,11.84614737196482/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5393,7 +5393,7 @@ the time a vote i.= given, the offiet r :.hall receive ot each vo­
 ter a paper or ticket, (with his namo written on if,) which  
 shall specify the names of th ; persons for w hom lie votes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1852040601:0648/pct:69.09195073044972,59.52809627594049,15.58292752792896,7.0406519473135605/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1852040601:0648/pct:69.09672491167765,59.53441359487034,15.58770170915688,7.0406519473135605/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5428,7 +5428,7 @@ but at the time a vote is given the officer shall receive of
 each voter a paper or ticket, (with his name written on  
 it.) which shall specify the names ofthe persons lor who
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348409:1852040601:0317/pct:65.39953452288596,74.62626262626263,15.050426687354538,8.215488215488216/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348409:1852040601:0317/pct:65.3868528214078,74.61621330460544,15.052356020942408,8.217748451387019/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5463,7 +5463,7 @@ ing such elections shall make true duplicate returns of
 the elections of justices ofthc peace, one of which returns  
 shall be immediately transmitted by mail, by the office
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn94060040:00393348409:1852042701:0623/pct:50.614250614250615,49.12498277525148,14.685314685314685,8.915529833264435/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn94060040:00393348409:1852042701:0623/pct:50.604686318972036,49.11821438412786,14.687263794406652,8.917745935519427/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5497,7 +5497,7 @@ up at the front door of the court house a notice of
 the said election.  
 8. The officers and other persons holding an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024718:00414183748:1852042801:0072/pct:68.48806366047745,63.36784120049387,12.519893899204243,9.402602336404216/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024718:00414183748:1852042801:0072/pct:68.47898156743138,63.36182336182336,12.522653936259559,9.404874960430517/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5539,7 +5539,7 @@ immediately transmitted by mail, by the
 tifficer conducting said electi&lt; n, to the gover­  
 nor, and the odier return shall
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393349001:1852051901:0256/pct:59.068366985476445,57.08563535911602,12.858660998937301,15.5939226519337/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393349001:1852051901:0256/pct:59.057906853196386,57.07775169175528,12.860811050115105,15.595221654467615/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5579,7 +5579,7 @@ he votes for any of said offices. The said j
 votes shall be given as prescribed by the  
 fourth section of the third Article of the 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024718:00414183748:1852061601:0099/pct:71.00296575896468,81.33308013672617,13.278511728228633,13.482719331560958/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024718:00414183748:1852061601:0099/pct:70.99339533629869,81.32535839741765,13.28121489868356,13.484603943162758/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5613,7 +5613,7 @@ SEc. 12. After the names of all the persons offering to
 vote before the time for closing the election shall have  
 been thus entered, the officer shall conclude the poll
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1852062101:0520/pct:7.297605473204105,228.88857264835633,53.30672748004561,31.606660025615483/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1852062101:0520/pct:1.8240547216416492,57.21400113830393,13.324149724491734,7.900540694365396/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5677,7 +5677,7 @@ ing to the best of your skill and judg­
 ment, and that you will do this you  
 have called upon God—that God wh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_alamo_ver01:data:sn84022127:00212470806:1875092201:0360/pct:4.896697576053359,34.20320111343076,16.316902554091428,4.001391788448156/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_alamo_ver01:data:sn84022127:00212470806:1875092201:0360/pct:4.907542974892902,34.210933271476065,16.311479854671656,3.9975257094255006/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

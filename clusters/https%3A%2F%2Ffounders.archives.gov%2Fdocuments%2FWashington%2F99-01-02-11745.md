@@ -232,7 +232,7 @@ many distinguished honors which Con­
 gress have been pleased to confer upon  
 me in the course of the war.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn89080032:00415668132:1848040401:0362/pct:95.52793439261917,211.2908443869298,36.98103536647873,69.29796182465222/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn89080032:00415668132:1848040401:0362/pct:31.842644797539723,70.43028146230994,12.327011788826242,23.099320608217404/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -309,7 +309,7 @@ fortune, and for the many distinguished honors
 which Congress have been pleased to confer  
 uipon me in the course of the year.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202190923:1853030201:0203/pct:190.03756036487212,213.53410740203194,43.26596315507065,11.151427189163039/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202190923:1853030201:0203/pct:63.34585345495737,71.1780358006773,14.421987718356883,3.7171423963876795/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -332,7 +332,7 @@ resigning his commission as Commander
 in Chief, he spoke of the support he had  
 received &quot;from the supreme power of the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867030101:0195/pct:104.4984802431611,264.6910328174734,38.66261398176292,10.712325760070245/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867030101:0195/pct:26.124620060790274,66.17275820436835,9.66565349544073,2.678081440017561/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -366,7 +366,7 @@ pence, or the final evacuation of our country by the
 fritish forees, after either of which eyents! shall ask  
 permission to retire to the peaceful shade of private lif
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044826:1883122401:0720/pct:231.02162565249813,162.32678544236333,49.36614466815809,17.298614283538907/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044826:1883122401:0720/pct:57.78772617049058,40.58169636059083,12.348442454765902,4.324653570884727/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

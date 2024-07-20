@@ -33,7 +33,7 @@ taining the tit.&#x27;es and claims to lands in that
 |rart of Louisiana which lies east of the river  
 Mississippi and Island of New Orleans
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1812040701:0408/pct:60.21863998517695,38.17243920412675,17.58384287567167,2.2230410218619503/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1812040701:0408/pct:60.2074842534272,38.16775144295714,17.586760528590837,2.2268615170494086/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -73,7 +73,7 @@ I transmit to the Senate a Report of thr
 Secretary ofState complying with their re­  
 solution of the 4th of March last
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1812042801:0433/pct:5.294759825327511,55.72285469457706,17.631004366812228,14.359162688211532/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1812042801:0433/pct:5.293796616336183,55.716034271725825,17.633860893820874,14.361485108119135/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -155,7 +155,7 @@ authority of “ An act for asceriaining the titles
 ‘&quot;‘,‘ d‘!m! to :land in that part’ of Louisiana  
 -which lies east of the island of New-Orleans,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1822070201:0521/pct:6.429006703229738,93.18792640066157,17.62644728823888,1.8709944180277032/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1822070201:0521/pct:6.429006703229738,93.19481772448488,17.636603696932763,1.8744400799393564/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

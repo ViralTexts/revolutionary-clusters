@@ -343,7 +343,7 @@ of Mr Adams, and to the foreign minister then represent­
 ing this country at the court of England  
 Mr Hamilton encloses his answer lo Miranda in a let
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661204:1852032501:0295/pct:32.14462605250124,29.715302491103202,16.575862638269772,11.362480935434672/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661204:1852032501:0295/pct:32.15012932694953,29.71953906117607,16.581365912718066,11.366717505507541/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -386,7 +386,7 @@ appointed second in command.
   
 &quot; With esteem und regard, &amp;c.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661496:1852032901:0320/pct:58.35471698113208,61.476557032890135,14.50566037735849,14.182411943083741/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661496:1852032901:0320/pct:58.359748427672955,61.48433247803437,14.510691823899371,14.18629966565586/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -428,7 +428,7 @@ slimed hia station at the head of the army. I am
 j appointed aecond in command.  
 I &quot; With esteem and regard, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014763:00415661460:1852033001:0385/pct:58.983050847457626,60.621934908604544,14.350282485875706,14.44493981275078/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014763:00415661460:1852033001:0385/pct:58.983050847457626,60.621934908604544,14.350282485875706,14.452370337345817/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

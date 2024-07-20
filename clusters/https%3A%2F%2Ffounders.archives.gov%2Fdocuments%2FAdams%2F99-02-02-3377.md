@@ -41,7 +41,7 @@ re&quot;ithe aforefaid treasonable a£ts : And dot
 &#x27;fs. cording to th* refpeftivc duties and r  
 aid the law of the land to exert their utmost 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794080901:0004/pct:42.913944902016475,46.617724174095436,18.829877875603522,8.617374584862786/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794080901:0004/pct:42.935245668844075,46.617724174095436,18.82277761999432,8.630484181087223/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -112,7 +112,7 @@ call forth military force to fupprjfs such com­
 binations, aud to cause the laws to be duly  
 executed :
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799031301:0003/pct:73.44803534061846,9.563078703703704,17.298302720297606,33.63715277777778/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799031301:0003/pct:73.45966054405952,9.5703125,17.298302720297606,33.644386574074076/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -136,7 +136,7 @@ and I do require all officers and others, good
 and faithful citizens according to their ref­  
 pedlive duties and the laws ot
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799031301:0003/pct:73.47128574750059,48.813657407407405,16.647291327598232,6.467013888888889/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799031301:0003/pct:73.48872355266217,48.8208912037037,16.641478725877704,6.474247685185185/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -207,7 +207,7 @@ call forth military force to suppress i&#x27;uch com­
 binations, and to cause the laws to be duly  
 executed : And wheTeas it is in my jud&lt;&gt;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799031401:0003/pct:56.396563733457164,24.20945749927473,16.83306245646622,33.5509138381201/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799031401:0003/pct:56.40817274204783,24.20945749927473,16.83886696076155,33.56179286335944/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -245,7 +245,7 @@ fupprels such dangurpus and unlawful pro-
   
 _ In Testimony whereof, I hav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799031401:0003/pct:56.46621778500116,57.65883376849434,16.67053633619689,14.447345517841601/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799031401:0003/pct:56.46621778500116,57.66608645198723,16.67053633619689,14.443719176095156/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -275,7 +275,7 @@ the eflential interests of the United States
 demand it. Though I have received no  
 communication from the President on thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799031501:0003/pct:74.37103221255585,36.42774899251583,16.835175170467906,9.47035118019574/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799031501:0003/pct:74.37103221255585,36.42774899251583,16.852809781330826,9.47035118019574/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -349,7 +349,7 @@ by force of armi, the ex • ufon ot ihe fa d law. ,
 and to witi lland by open violence ti c law ml  
 au hority ot the Govctnrr.eot o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83045634:00332895059:1799032501:0191/pct:49.76869699306091,9.606885322167946,22.74479568234387,51.67480809490579/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83045634:00332895059:1799032501:0191/pct:49.75910580073232,9.60576811257123,22.7452302948545,51.671706012327014/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -389,7 +389,7 @@ prevent and fupprefs fuch dangerous anJ un
 lawful proceedings.  
 / &lt;V trjlnntry whereof I have caufd the Sc c? 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83045634:00332895059:1799032501:0191/pct:49.80724749421743,65.67806466620144,22.725520431765613,18.899744126541055/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83045634:00332895059:1799032501:0191/pct:49.79764887261515,65.67042679381323,22.725958758913084,18.90045354110943/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -491,7 +491,7 @@ and I do require all officers, and all
 others, good and faithful citizens, ac­  
 cording to their refpe&amp;tive
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1799032701:0050/pct:8.769534213321196,3.582903320027261,33.43953876498255,88.81316327524097/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1799032701:0050/pct:8.769534213321196,3.5893940869113687,33.44965356799676,88.81965404212508/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -573,7 +573,7 @@ plaint, the mode of feekiug rcdrefs by
 petition is well known to them, and  
 could be eafily reforted to. But th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83045634:00332895059:1799040101:0194/pct:73.26402510788544,49.662841594700105,22.577481365241272,14.905950550100556/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83045634:00332895059:1799040101:0194/pct:73.2496567954501,49.65696711615803,22.577956462051382,14.90714454696002/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -665,7 +665,7 @@ and the law of the land, to exert their utmost en-
   
 leavors to prevent and surpress such dangerou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156360:1851060401:0507/pct:14.47166921898928,23.346303501945524,116.7687595712098,348.4824902723735/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156360:1851060401:0507/pct:3.6193029490616624,5.836575875486381,29.20337035618537,87.12062256809338/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -687,7 +687,7 @@ inal process tluly issued fur offences against the
 United States.&quot; The same construction was  
 impliedly recognized by the last Congress. Oii
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_eiffel_ver02:data:sn87065471:00295877558:1861042401:0193/pct:24.39737034331629,40.97145993413831,16.983199415631848,6.0922063666300765/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_eiffel_ver02:data:sn87065471:00295877558:1861042401:0193/pct:18.301369863013697,30.735455543358945,12.748858447488585,4.569154774972557/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

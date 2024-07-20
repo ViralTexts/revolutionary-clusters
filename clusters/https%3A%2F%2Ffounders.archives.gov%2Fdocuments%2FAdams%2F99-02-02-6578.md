@@ -292,7 +292,7 @@ With the most rordial esteem, however,
 I am, sir, your friend a id servant,  
 JOHiff ADAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1816071701:0084/pct:35.803083043262056,3.3660589060308554,15.083706282115035,25.01593777891113/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1816071701:0084/pct:35.797149486244614,3.3656297807241202,15.086730747983648,25.01699813020568/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -350,7 +350,7 @@ V» ill* the most **n!-*’iial enterm, tmwever,
 I r.in# sir, ;your &#x27;*nit serven*.  
 JOHN ADAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816071701:0228/pct:11.425061425061426,7.146960818108698,33.994383994383995,84.90175801447776/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816071701:0228/pct:11.423056676609932,7.146139705882353,33.99426800023396,84.89583333333333/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -403,7 +403,7 @@ ans, the philpsophers, and- politicians, to lec me
 I am, sir, your friend and servant, .  
 Pk DA JOHN ARAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1816072301:0554/pct:26.32573005956705,65.89685879244544,16.79500217928229,20.65759859086016/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1816072301:0554/pct:26.33541575863238,65.89685879244544,16.79500217928229,20.66412238640441/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -571,7 +571,7 @@ non-resistance. The human flock would
 soon he fleeced, and butchered by one oi  
 |a lew.” It is strange he should not per
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216213:1816082101:0492/pct:43.838054278511045,19.677011909058102,17.989025656236098,12.008300252616383/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216213:1816082101:0492/pct:43.83155397390273,19.675236806495263,17.991300909450377,12.010224026462186/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -631,7 +631,7 @@ ver, l am, sir, your f iend and scr- &#x27;
 viun,  
 JOHN ADAMS. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216213:1816082101:0492/pct:61.93089129467596,39.63370624323349,17.97419546196055,29.529050884157343/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216213:1816082101:0492/pct:61.92170818505338,39.630130807397386,17.976472914195334,29.529394076078784/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

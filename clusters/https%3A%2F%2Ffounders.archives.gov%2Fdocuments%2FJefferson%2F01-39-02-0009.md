@@ -133,7 +133,7 @@ work will be eminently useful, ami ask permi.s­
 sion to subscribe for half a dozen copies for the  
 difierent members of my family.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1811022601:0386/pct:77.0769508019463,46.55193457829855,17.030095512704992,2.6730135481508603/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1811022601:0386/pct:77.06306306306307,46.54625335611423,17.033033033033032,2.6767553494426815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -152,7 +152,7 @@ work will be eminently useful, and ask permi-.­
 8&#x27;on to su*&#x27;«cribe for half a dozen copies for tire  
 different members of my family.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1811030501:0392/pct:5.950234403173458,34.06054663561711,17.03930760908763,2.6841524696654/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1811030501:0392/pct:5.949161709031909,34.056372549019606,17.042245057388378,2.6879084967320264/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -171,7 +171,7 @@ work will be eminently useful, and ask permis­
 sion to subscribe for half a dozen copies for the  
 different members of my family.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1811031201:0403/pct:59.682029296177205,12.806739103894518,16.791711325473383,2.661457697472836/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1811031201:0403/pct:59.671369887479905,12.80517578125,16.794665714115617,2.6652018229166665/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

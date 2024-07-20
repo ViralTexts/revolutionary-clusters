@@ -129,7 +129,7 @@ the fame court-room or chamber.
 A true extract from the minutes.  
 (Signed) Robert Troup, clerk
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792041901:0002/pct:8.877203835446954,6.229252099199375,40.3031240334055,87.20952938879125/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792041901:0002/pct:8.877203835446954,6.229252099199375,40.33405505722239,87.22417496582699/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -236,7 +236,7 @@ this atft, in the fame court-room or chamber.
 A true extrart from the Minutes,  
 (Signed) Robert Trout, Clerk
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792042101:0002/pct:37.37146529562982,5.611940298507463,56.55526992287918,89.53233830845771/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792042101:0002/pct:37.38753213367609,5.616915422885572,56.54723650385604,89.55223880597015/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -388,7 +388,7 @@ tion in England, all apprehension of the
 kind, ast jealotify refpefting the union of  
 the departments vani.&#x27;hed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794060401:0002/pct:13.358446827006665,55.92972181551976,19.414662416690813,17.953879941434845/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794060401:0002/pct:13.380179658070125,55.943448023426065,19.407418139669662,17.94015373352855/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -524,7 +524,7 @@ c.
 ngly benevolent, and do real ho­  
 nor to the humanity and juflice of con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_burmese_ver01:data:sn83045242:print:1802062801:0001/pct:40.54054054054054,15.975286849073257,16.157884503208244,20.82965578111209/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_burmese_ver01:data:sn83045242:print:1802062801:0001/pct:40.54054054054054,15.98369268272181,16.170847106098904,20.82965578111209/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -553,7 +553,7 @@ an older in the words following. “ At a
 “ city c f New-Ycrk, in the second circuit  
 “ on Tuesday tu* first day r f April, 1106
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806060301:0189/pct:4.292832502874664,69.51438848920863,17.612111920275968,3.1988694758478933/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806060301:0189/pct:4.292009963594558,69.50545921644188,17.615124225586,3.202740312566902/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -844,7 +844,7 @@ They understood it to he an act under which they were
 not merely to take testimony, but to form an opinion and  
 certify a decision. The honorable senator from Sout
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848090901:0905/pct:47.40384615384615,56.86175580221998,17.756410256410255,3.884964682139253/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848090901:0905/pct:47.40384615384615,56.870164816683484,17.761752136752136,3.884964682139253/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -880,7 +880,7 @@ of it; and with an extreme solicitude to show that
 they had not assumed these duties a* judges, they adjourned  
 the court from day to day us usual, and in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848090901:0905/pct:47.56410256410256,77.33350151362261,17.67628205128205,9.838546922300706/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848090901:0905/pct:47.574786324786324,77.3419105280861,17.67094017094017,9.838546922300706/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -919,7 +919,7 @@ can constitutionally assign to the judicial any duties but
 such as are pro|terly judicial, and to be performed in a  
 judical manner.&quot; n 1792. Judges Wilson&#x27; Blair, and I&#x27;e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850040701:0460/pct:32.32588699080158,52.70644511581067,16.06438896189225,7.565458207452165/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850040701:0460/pct:32.32588699080158,52.710641154749915,16.06986421375383,7.569654246391407/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -943,7 +943,7 @@ the authority &quot;to sit us a court of errors on the judicial
 acts or opinions of ibis court.&#x27; I  
 This doctrine is fully sustained by the opinions of .ill th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82003410:00415661071:1856031101:0305/pct:1.436500163238655,17.077798861480076,15.523996082272282,6.312460468058191/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82003410:00415661071:1856031101:0305/pct:1.436500163238655,17.086232342399324,15.529437370769399,6.308243727598566/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1083,7 +1083,7 @@ Court, the advisers of the legislature—nothing i
 more. This does not come within the pro­  
 visions of the Constitution, and, as the Cou- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347336:1865020301:0053/pct:65.12141280353201,28.60520094562648,14.080731630400505,5.508274231678487/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347336:1865020301:0053/pct:65.13192473457374,28.609141055949568,14.080731630400505,5.512214342001576/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1242,7 +1242,7 @@ It is true that the chief justice and Judges
 Cushing and Duane did act in the case there  
 under consideration; but the full court in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_dassel_ver01:data:sn83025287:00100493949:1881073101:0142/pct:29.812981298129813,70.11198208286675,13.201320132013201,3.471444568868981/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_dassel_ver01:data:sn83025287:00100493949:1881073101:0142/pct:29.823458536329824,70.1157148189623,13.19084289381319,3.475177304964539/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1420,7 +1420,7 @@ the act and. therefore, beim at libortv to
 accept or decline that office. Regarding  
 the act however in the light of a benevo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drew_ver02:data:sn86063034:00414182124:1894051301:0672/pct:6.971063509958662,60.81988287387516,16.15933859451334,19.925724896443366/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drew_ver02:data:sn86063034:00414182124:1894051301:0672/pct:5.412358623367798,47.138481974834875,12.518809766516188,15.445924504630826/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

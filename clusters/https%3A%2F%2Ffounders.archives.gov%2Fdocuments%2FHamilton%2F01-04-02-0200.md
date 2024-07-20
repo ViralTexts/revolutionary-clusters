@@ -229,7 +229,7 @@ Here the words &quot;the people&quot; of the several
 States are as the Supreme Court have declared  
 qulvalent to the citizens&quot; of the severa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn85033711:00212470259:1859012601:0090/pct:110.29094827586206,337.0082098304723,45.043103448275865,46.31623840494722/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn85033711:00212470259:1859012601:0090/pct:27.576451569446316,84.25205245761808,11.26229287350128,11.579059601236805/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -293,7 +293,7 @@ define and establish this right in the Consti-
 tution.&quot;- Federalist P.243. analtotenl vi  
 The same view was evidently taken b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774698:1864031901:0910/pct:23.637650389242747,337.36174804424064,48.832271762208066,35.176692743458325/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774698:1864031901:0910/pct:5.909412597310687,84.34043701106016,12.208067940552016,8.794173185864581/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -320,7 +320,7 @@ whether young vr oldt aud without regard to
 poverty or wealth, or tiny particular profes­  
 sion tf religious faith.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762465:1865091901:0245/pct:35.652665818130394,34.15059499384489,13.91599490878235,7.057858022158391/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762465:1865091901:0245/pct:35.657379908546645,34.15059499384489,13.920708999198604,7.061277527014088/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -340,7 +340,7 @@ ed, whether young or old, and without re­
 gard to poverty or wealth, oc any particu-  
 ar profession or religious faith
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033964:0021247020A:1866120701:0195/pct:100.93696763202726,74.50415512465374,17.745599091425326,5.030470914127424/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033964:0021247020A:1866120701:0195/pct:75.74208209061213,55.878116343490305,13.321971310893339,3.778393351800554/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -461,7 +461,7 @@ NATURALIzATION AND CITIzEnSHIr.
 There is also a disposition manifested to place  
 obstacles in the way of the naturalization of citizens
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743658:1869010601:0065/pct:234.76775956284152,226.18961570895073,45.81625683060109,22.009396458258042/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743658:1869010601:0065/pct:78.2559198542805,75.39653856965025,15.272085610200364,7.336465486086014/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

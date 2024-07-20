@@ -1245,7 +1245,7 @@ ant Willtam A Thompson, until the further order of this
 Court; and it is also further ordered, that each of said der  
 fendants be served with a copy of this order; and it is fur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184595:1841010101:0007/pct:208.18112049117423,176.38121546961327,38.74136607828089,5.70902394106814/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184595:1841010101:0007/pct:69.3830570902394,58.78697203360571,12.911806834458767,1.9027889668930065/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1265,7 +1265,7 @@ ant William A Thompson, until the further order of this
 Court; and it is also further ordered, that each of said de-  
 fendants be served with a copy of this order; and it is fur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184595:1841010801:0031/pct:202.65210608424337,176.00974930362116,38.76755070202808,5.7219127205199625/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184595:1841010801:0031/pct:67.54016534082047,58.66310781014274,12.920501221858265,1.9070828981470735/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1285,7 +1285,7 @@ ant William A Thompson, until the further or
 Court; and it is also further ordered, that each of said de.  
 fendants be served with a copy of this order; and it is fur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184595:1841010901:0035/pct:208.3965917893106,177.13655364607524,38.03253292021689,5.7594054807245705/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184595:1841010901:0035/pct:69.454770755886,59.03866248693835,12.675547294506403,1.919578931073184/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1305,7 +1305,7 @@ ant Willi im A Thompson, untll the further order of this
 Court; and it is also further ordered, that each of said de  
 fendants be served with a copy of this order, and it is fu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184595:1841011201:0039/pct:204.68289657311212,176.1417232255838,37.695766785548145,5.740250776486828/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184595:1841011201:0039/pct:68.21705426356588,58.70715435932827,12.563307493540051,1.9131968407330726/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1326,7 +1326,7 @@ ant William A Thompson, until the further order of this
 Court; and it is also further ordered, that each of said de-  
 fendants be served with a copy of this order; and it is f
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184595:1841011501:0054/pct:216.93385214007782,86.24441644714237,38.536964980544745,6.539915244530982/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184595:1841011501:0054/pct:72.30003112356053,28.74484654145671,12.843655980910883,2.179722094976332/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1346,7 +1346,7 @@ ant Williamn A Thompson, until the further order of this
 Court; and it is also further ordered, that each of said de­  
 fendants be served with a copy of this order; and it is fur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184595:1841011601:0058/pct:214.29892141756548,81.96929470160453,38.42835130970724,5.760129285466928/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184595:1841011601:0058/pct:71.42196887998767,27.31994459833795,12.807477019462846,1.9198214835333949/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1366,7 +1366,7 @@ ant William A Thompson, until the further order of this
 Court; and it is also further ordered, that each of said de­  
 fendants be sorved with a copy of this order; and it is fur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184595:1841012101:0074/pct:215.3044011654654,82.63035921205099,38.245667842355466,5.816917728852839/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184595:1841012101:0074/pct:71.75712971481141,27.54026184683119,12.746601247061228,1.938747924149384/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1386,7 +1386,7 @@ ant William A Thompson, until the further order of this
 Court; and it is also further ordered, that each of said e.  
 fendants be served with a copy of this ordet, and it is fur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184595:1841012501:0086/pct:218.22867853795688,81.92201199815413,38.62855357700718,5.8952468850946005/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184595:1841012501:0086/pct:72.73153209433079,27.30418733417926,12.874173564474985,1.9648556157957473/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1406,7 +1406,7 @@ ant Witham A Thompson, until the further order of this
 Court; and it is also further ordered, that each of said de­  
 fendants be served with a copy of this order; and it is fu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184595:1841012601:0090/pct:214.57975986277873,86.04837785165654,38.88975518478092,5.75490083686805/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184595:1841012601:0090/pct:71.5154349859682,28.679504814305364,12.961230641305477,1.9180803912578328/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1426,7 +1426,7 @@ ant William A Thompson, until the further order of this
 Court; and it is also further ordered, that each of said de­  
 fendants be served with a copy of this order; and it is fur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184595:1841020201:0102/pct:216.62763466042153,85.9409127485918,38.46994535519126,5.632831359926429/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184595:1841020201:0102/pct:72.1979394317827,28.64367816091954,12.821313352065772,1.8773946360153257/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1446,7 +1446,7 @@ ant William A Thompson, until the further order of this
 Court; and it is also further ordered, that each of said de­  
 fendants be served with a copy of this order; and it is fur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184595:1841020501:0114/pct:212.7960627499231,82.46944318696242,38.21900953552753,5.68130375735627/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184595:1841020501:0114/pct:70.92111333230817,27.486703632454454,12.737710800143523,1.8935536192523859/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1466,7 +1466,7 @@ ant Willl im A Thompson, until the further order of this
 Court; and it is also further ordered, that each of sald de.  
 fendants be served with a copy of this order; and it is fur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184595:1841020801:0122/pct:218.72528862881543,80.21940349674323,39.34841056460541,5.805050851331276/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184595:1841020801:0122/pct:72.89690069576217,26.73674588665448,13.114062829432848,1.934795856185253/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1486,7 +1486,7 @@ ant William A Thompson, until the further order of this
 Court; and it is also further ordered, that each of said de-  
 fendants be served with a copy of this order; and it is fur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184595:1841020901:0126/pct:214.12587412587413,83.08916830084208,38.52369852369852,5.825354712192871/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184595:1841020901:0126/pct:71.3642013673089,27.693194925028834,12.839237621711208,1.9415609381007304/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1506,7 +1506,7 @@ ant William A Thompson, until the further order of this
 Court; and it is also further ordered, that each of said de-  
 fendants be served with a copy of this order; and it is fur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184595:1841021001:0130/pct:213.61378453896305,84.38584316446912,38.7146848804719,5.73675688179505/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184595:1841021001:0130/pct:71.19354338041285,28.125361397016306,12.90289202752341,1.9120311476041787/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1526,7 +1526,7 @@ ant William A Thompson, until the further order of this
 Court; and it is also further ordered, that each of said de­  
 fendants be served with a copy of this order; and it is fur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184595:1841021901:0162/pct:215.47064305684995,132.30365895360765,39.34451693072383,5.858885216003648/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184595:1841021901:0162/pct:71.81239322876223,44.09619329838158,13.112802194957808,1.9527391535597598/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1878,7 +1878,7 @@ they be restrained from paying, conveying away, or secreting the
 debts by them owing to, or the effects in their hands, of the foreign  
 defendant until the further order of the Court
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184650:1853121301:0552/pct:213.60703812316714,276.96649029982365,39.12023460410557,6.466784244562023/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184650:1853121301:0552/pct:71.19190734496408,92.31130966376675,13.038166446757563,2.155341327690258/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1968,7 +1968,7 @@ i fendant or defendants to the first bill shall an­
 ■ to the cross-bill shall be compelled to answer  
 ; such cross-bill
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:0041562430A:1860061401:0089/pct:33.38589449541284,17.08350558081852,14.492545871559633,3.441504754030591/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:0041562430A:1860061401:0089/pct:33.38589449541284,17.09039548022599,14.492545871559633,3.4346148546231223/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1986,7 +1986,7 @@ i dant has answered, upon oatii made that any of
 the plaintiff’s or defendant’s witnesses are aged  
 or infirm, or going out.of the State, or that on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:0041562430A:1860061401:0089/pct:33.38589449541284,20.514675485737907,14.535550458715596,1.9946258784621744/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:0041562430A:1860061401:0089/pct:33.38589449541284,20.521565385145376,14.54032874617737,1.9877359790547058/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2008,7 +2008,7 @@ adverse party, of the time and place of taking
 34. An answer sworn to out of the State will  
 ; be received, if sworn to before a Justice of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:0041562430A:1860061401:0089/pct:33.543577981651374,23.532451426209178,14.291857798165138,3.916907813145928/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:0041562430A:1860061401:0089/pct:33.543577981651374,23.532451426209178,14.291857798165138,3.9237977125533967/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2037,7 +2037,7 @@ accordingly.
 29. If the defendant’s answer be excepted to  
 as insufficient, and the defendant submit to an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:0041562430A:1860062101:0093/pct:19.587628865979383,74.34291581108829,14.518900343642612,7.494866529774128/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:0041562430A:1860062101:0093/pct:19.59717449408171,74.34291581108829,14.518900343642612,7.501711156741957/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2061,7 +2061,7 @@ swer thereto, before the defendant or defendants
 to the cross-bill shall be compelled to answer  
 such cross-bill
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:0041562430A:1860062101:0093/pct:19.85967926689576,12.915811088295689,45.89060710194731,80.64681724845995/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:0041562430A:1860062101:0093/pct:19.864452080946926,12.919233401779604,45.885834287896145,80.64681724845995/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2093,7 +2093,7 @@ Clerk of the Court under bis official seal, or by a
 Notary Public, or before a Judge of any Court,  
 whose official capacity shall be certified by7 the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:0041562430A:1860062101:0093/pct:34.149484536082475,18.675564681724847,14.347079037800688,8.819301848049282/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:0041562430A:1860062101:0093/pct:34.159030164184806,18.675564681724847,14.347079037800688,8.829568788501026/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2116,7 +2116,7 @@ defendant or defendants to the first bill
 dofendants to the cross-bill shall be compel  
 led to answer such cross bill
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn89060119:00415623495:1861010301:0148/pct:57.95367778060575,216.70261652443028,42.275388139475695,13.298321297946169/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn89060119:00415623495:1861010301:0148/pct:19.31789259353525,72.23420550814342,14.091796046491897,4.4327737659820565/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2146,7 +2146,7 @@ able, to the adverse party, of the time and
 will be received, if sworn to before a Jus  
 tice of the Peace, certified to be so by a pr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn89060119:00415623495:1861010301:0148/pct:57.77551539832018,230.03845071743413,42.453550521761265,23.79255369033105/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn89060119:00415623495:1861010301:0148/pct:19.258505132773394,76.67948357247803,14.151183507253753,7.930851230110351/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2175,7 +2175,7 @@ eeeeeo
 to as insufficient, and the defendant submit  
 to answer further, or the answer be adindge
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn89060119:00415623495:1861012401:0144/pct:101.75482893574043,126.44167139345812,40.85342759752557,22.423898657591227/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn89060119:00415623495:1861012401:0144/pct:33.91827631191348,42.14722379781937,13.617809199175188,7.474632885863742/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2198,7 +2198,7 @@ shall answer thereto, before the defendant or
  defendants to the cross-bill shall be compel-  
 led to answer such crors bill
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn89060119:00415623495:1861012401:0144/pct:101.86845095316248,176.99943278502553,40.73980558010352,13.62261297031575/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn89060119:00415623495:1861012401:0144/pct:33.95615031772083,58.999810928341844,13.579935193367842,4.54087099010525/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2228,7 +2228,7 @@ able, to the adverse party, of the time and
 will be received, if sworn to before a Jus.  
 tice of the Peace, certified to be so by a pra
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn89060119:00415623495:1861012401:0144/pct:101.99469763918697,190.7071280015126,40.61355889407903,24.475326148610325/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn89060119:00415623495:1861012401:0144/pct:33.998232546395656,63.569042667170855,13.53785296469301,8.158442049536774/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2280,7 +2280,7 @@ plead to the whoile bill or part of it, and he
 may demir to put, plead to part, and a­  
 swer to the residur; but in any case in whi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn89060119:00415623495:1862070301:0239/pct:223.898062670654,206.42444885987322,42.205174879729555,56.27779354716624/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn89060119:00415623495:1862070301:0239/pct:74.63268755688468,68.80814961995773,14.068391626576519,18.75926451572208/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2305,7 +2305,7 @@ ing such teetimony.
 32 An answer sworn to out of the State wil  
 he received if sworn to before a Justice of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn89060119:00415623495:1862070301:0242/pct:33.80952380952381,26.75363962941955,40.18018018018018,15.636226129703157/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn89060119:00415623495:1862070301:0242/pct:11.26984126984127,8.917879876473183,13.393393393393394,5.212075376567719/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

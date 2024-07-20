@@ -53,7 +53,7 @@ counting the votes-for President ; and, that after
 he shall be cholen, the Congress together with  
 the President, (hould, wiihout delay, proceed t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1787100601:0068/pct:64.90017254128666,29.430222956234516,26.891791964505792,10.222956234516928/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1787100601:0068/pct:64.90017254128666,29.441233140655108,26.900008216251745,10.217451142306633/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -158,7 +158,7 @@ of March, eighteen hundred and sixty-five.
 In testimony whereot I have hereunto set  
 mv band, anil ftflixed the sealol the Senate* thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_greyhound_ver02:data:sn83045462:00280654231:1865020801:0179/pct:49.933488526770866,49.08604547481052,15.912869970069837,7.846633972358449/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_greyhound_ver02:data:sn83045462:00280654231:1865020801:0179/pct:49.94595942800133,49.09440481497994,15.912869970069837,7.841061078912171/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -230,7 +230,7 @@ Grant was duly elected, agreeably to the Con­
 stitution, President of tne United States for  
 four years, commencing on tha 4th day o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_ewing_ver01:data:sn83025925:00280776257:1869020901:0268/pct:42.61119081779053,33.91910739191074,19.49426111908178,19.26080892608089/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_ewing_ver01:data:sn83025925:00280776257:1869020901:0268/pct:31.969860064585575,25.439330543933053,14.639397201291711,14.449093444909344/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -273,7 +273,7 @@ of March, eighteen hundred and sixty-nine.
 In witness whereof I have hereunto set my  
 hand and affixed the seal of the Senate thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053571:00237289031:1869021001:0150/pct:10.660377358490566,326.8719384184745,43.867924528301884,29.461161651504547/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053571:00237289031:1869021001:0150/pct:2.6669813547321217,81.71798460461862,10.974746282747226,7.365290412876137/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -290,7 +290,7 @@ sentatives, open all the certificates and count all the votes
 of the Electors for a President and Vice-President, by  
 which it appears that Plyssess. Grant was duly elected
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_euclid_ver01:data:sn83030214:00206530911:1869021001:0279/pct:52.557127312295975,247.93443349208107,47.90921809420177,5.216524532063351/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_euclid_ver01:data:sn83030214:00206530911:1869021001:0279/pct:17.51904243743199,82.64481116402702,15.969739364733924,1.7388415106877837/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -321,7 +321,7 @@ commencing on the fourth day of March, eighteen
 hundred and sixty-nine.  
 In witness whereof I have hereunto set my han
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743658:1869021001:0460/pct:58.31880013951866,148.97252090800478,46.18067666550401,20.16726403823178/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743658:1869021001:0460/pct:19.43960004650622,49.657506969334925,15.393558888501337,6.72242134607726/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -352,7 +352,7 @@ States for four years, commencing on the fourth
 day of March, eighteen hundred and sixty-nine.  
 In witness whereof I have hereunto set my hand an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536093:1869021001:0772/pct:114.6760343481655,48.98457779813712,50.03903200624512,25.836005497022445/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536093:1869021001:0772/pct:28.68020304568528,12.24614444953428,12.514642717688403,6.459001374255611/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -422,7 +422,7 @@ nt and Vice President, by which it appears
 that Uiysses S. Grant, was July elected, agree­  
 ably to the Constitution, President of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_connemara_ver01:data:sn85025007:00414184790:1869021101:0348/pct:36.68439486314697,35.15522518583297,14.95654429887145,1.5566243987756887/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_connemara_ver01:data:sn85025007:00414184790:1869021101:0348/pct:36.679636835278856,35.15215110178384,14.958927799394726,1.559403054681124/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -467,7 +467,7 @@ of March, eighteen hundred and sixty-nine.
 In witness whereof I have hereunto set mv  
 hand and affixed the seal of the Senate, thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186981:1869021101:0026/pct:5.753504672897196,43.333333333333336,12.748247663551401,17.389428263214672/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186981:1869021101:0026/pct:5.752664622572638,43.328659260058245,12.751253224314985,17.39114802430518/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -540,7 +540,7 @@ appears that Ulysses S. Grant was duly elected,
 agreeably to the Constitution, President of the  
 United States for four years, commencing on the it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536093:1869021501:0788/pct:165.64885496183206,100.88085303662494,48.85496183206107,38.448462370576415/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536093:1869021501:0788/pct:41.412213740458014,25.220213259156235,12.213740458015268,9.612115592644104/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -596,7 +596,7 @@ Vice President, by which it appears that
 L lyases S. Grant was duly elected,, agree­  
 ably to the Constitution, President of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn86086770:00271769799:1869021701:0495/pct:65.33278889342589,44.11797564517931,11.950455968422485,6.435035191598704/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn86086770:00271769799:1869021701:0495/pct:62.06629024611008,41.919620745772306,11.36157924227404,6.116889549281822/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -641,7 +641,7 @@ B- F. Wad*,
 President ul ihe Senate.  
 In reply to a similar certificate of Ilia sec
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:00332895011:1869021801:0029/pct:2.1333333333333333,57.95019157088122,11.466666666666667,9.400656814449919/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:00332895011:1869021801:0029/pct:2.132954141485958,57.942262963469695,11.469072164948454,9.402791079491038/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -673,7 +673,7 @@ elected, agreeably to the Constitu
 tion, President of the United States,  
 for four years, commencing on th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn87076794:00280775113:1869021801:0531/pct:198.15905743740797,148.46066134549602,44.25625920471281,37.17217787913341/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn87076794:00280775113:1869021801:0531/pct:49.567139436360286,37.115165336374005,11.070178670104992,9.293044469783352/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -705,7 +705,7 @@ by which it appears that Ulysses S.
 Grant was duly elected, agreeably  
 to the Constitution, President o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn85038238:00296028824:1869021801:0250/pct:95.29801324503312,18.56382978723404,15.049668874172186,11.742021276595745/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn85038238:00296028824:1869021801:0250/pct:71.48534525583706,13.922872340425531,11.293260473588342,8.816489361702128/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -727,7 +727,7 @@ of March, eighteen hundred and sixty-nine.
 &quot;In witness whereof I have hereunto  
 set my hand and affixed&#x27; the seal of , th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn85054846:00212477679:1869021801:0550/pct:53.107183580387684,10.863757791629563,18.79988597491448,7.02359750667854/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn85054846:00212477679:1869021801:0550/pct:39.8431931575196,8.147818343722173,14.098360655737705,5.276046304541407/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -816,7 +816,7 @@ president, by which it appears that blysses s
 Grant was duly elected, agreeably to the Consti­  
 tution, president of the United States for four years
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_psylocke_ver01:data:sn82015775:0020029953A:1869021901:0365/pct:247.5896860986547,37.38578680203046,44.45067264573991,34.60659898477157/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_psylocke_ver01:data:sn82015775:0020029953A:1869021901:0365/pct:82.52989536621824,12.461928934010153,14.816890881913304,11.535532994923859/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -844,7 +844,7 @@ the vote* of the Electors for a President
 and Vice-President, by which it appears  
 that UhssesS. Grant was duly elected
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_grace_ver01:data:sn85033139:00271769325:1869021901:0433/pct:40.59139784946237,16.650395921466536,25.86304470854556,80.86560364464692/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_grace_ver01:data:sn85033139:00271769325:1869021901:0433/pct:40.596113940765896,16.65401164262212,25.867760799849083,80.86921936580251/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -919,7 +919,7 @@ count all the votes of the Electors in
 a President and Vice Presidat  
 was duly, elected, agrecably to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gorn_ver01:data:sn84026789:00271768047:1869022401:0453/pct:256.3460356484327,79.43844492440604,42.30178242163491,55.85313174946004/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gorn_ver01:data:sn84026789:00271768047:1869022401:0453/pct:85.44867854947756,26.479481641468684,14.10059414054497,18.617710583153347/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -958,7 +958,7 @@ elected, agreeably to the Constitution,
 President of the United States, for four  
 years, commencing on the 4th day o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026259:00280776075:1869030501:0071/pct:5.767668562144598,102.4622030237581,19.374492282696995,11.720662347012238/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026259:00280776075:1869030501:0071/pct:4.3266301035953685,76.84665226781857,14.543977249644525,8.797696184305256/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1010,7 +1010,7 @@ they restrict the President of the Senate,
 as Democrats now would do, to the open­  
 ing of certificates. Partisan success wit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558366:1876120501:0544/pct:115.82191780821918,29.77667493796526,43.013698630136986,35.05289277785033/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558366:1876120501:0544/pct:28.955479452054796,7.444168734491315,10.753424657534246,8.763223194462583/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1041,7 +1041,7 @@ of Presidont of the United States of Amerlea.
 An testimony whereof I have hereunto set my hand and  
 JOuN LANGDON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:00271743993:1876120601:0835/pct:7.72162386081193,189.37326549491212,46.445733222866615,17.298797409805736/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:00271743993:1876120601:0835/pct:2.5738746202706433,63.12442183163737,15.48191107428887,5.7662658032685785/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1078,7 +1078,7 @@ heavens above or in the earth beneath that
 can be relied upon for any such purpose.  
 It is amazing that he should have ne
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558366:1876120801:0556/pct:19.696969696969695,261.9270833333333,43.80165289256198,44.635416666666664/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558366:1876120801:0556/pct:4.9250904081281215,65.48177083333333,10.952298949543653,11.158854166666666/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1111,7 +1111,7 @@ President of the United States of America.
 In testimony whereof I have hereunto set my  
 hand and seal. Signed. JohN LANGDON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558366:1876120901:0560/pct:21.862068965517242,136.66796925882505,45.241379310344826,28.65702748469454/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558366:1876120901:0560/pct:5.466459734436972,34.16699231470626,11.312295223314365,7.164256871173635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1142,7 +1142,7 @@ ill the certificate] und c?unt all the votes
 of the electors.&quot; Thomas Jefferson, a*  
 Vice President under Adams, opened an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_belgium_ver01:data:sn84026844:00202193419:1876120901:1179/pct:0.69593147751606,30.03073585246791,11.857601713062099,9.871632616163442/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_belgium_ver01:data:sn84026844:00202193419:1876120901:1179/pct:0.69593147751606,30.03073585246791,11.884368308351178,9.889712529379858/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1175,7 +1175,7 @@ President of the United States of America.
 In testimony whereof I have hereunto set my  
 hand and seal. Signed. John LANgdoN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558366:1876121101:0564/pct:26.65745856353591,137.29715695183694,43.646408839779006,28.716084642347138/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558366:1876121101:0564/pct:6.665515455016405,34.324289237959235,10.913486444482817,7.179021160586784/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1240,7 +1240,7 @@ In testimony whereof I have here­
 unto set my hand and seal.  
 JOHN LANGDOX
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn92056106:00279528761:1876121301:0118/pct:5.557061534291136,18.56806506849315,8.986175115207374,15.05779109589041/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn92056106:00279528761:1876121301:0118/pct:5.557061534291136,18.576091609589042,8.99634047167254,15.05779109589041/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1317,7 +1317,7 @@ should appoint a President of the Senate for the sole
 purpose of receiving, opening, and counting the votes  
 for President, and that after he shall be chosen, the Con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:00206531277:1876121901:0611/pct:51.80425111220959,35.056258790436004,48.95369912670951,14.43975621190811/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:00206531277:1876121901:0611/pct:17.268083704069863,11.685419596812002,16.31789970890317,4.813252070636037/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1462,7 +1462,7 @@ Senate and House of Representatives
 the votes of the electors for a Presi­  
 dent and for a Vice President.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_flareon_ver02:data:sn82015854:00279528980:1876122701:1210/pct:61.032990805840996,20.11619462599855,11.060032449972958,9.492685963274198/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_flareon_ver02:data:sn82015854:00279528980:1876122701:1210/pct:61.032990805840996,20.11619462599855,11.064539390661619,9.499602310059826/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1493,7 +1493,7 @@ United States of America.
 “In testimony whereof J have hereunto set  
 my hand and seal. John Langdon.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_hera_ver01:data:sn83021205:00517171530:1876122701:1212/pct:21.82615325962638,83.45313601127555,13.858177659168891,7.794221282593376/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_hera_ver01:data:sn83021205:00517171530:1876122701:1212/pct:16.91534938691092,64.67868195885673,10.749987688974246,6.036774076096851/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1516,7 +1516,7 @@ duly elected, agreeably to the Constitutiou,
 \ ice President ol the United States of America.  
 &quot;In witness whereof 1 have hereunto set m
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_hera_ver01:data:sn83021205:00517171530:1876122701:1212/pct:21.692718261532598,98.04087385482734,13.896301944338544,4.214235377026075/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_hera_ver01:data:sn83021205:00517171530:1876122701:1212/pct:16.821785591175455,75.9803386127799,10.76968533018171,3.2696158747496815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1612,7 +1612,7 @@ United States of America.&quot;
   
 The same form was used for Vice
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_odoric_ver01:data:sn85038145:00415665817:1876122801:0147/pct:79.77259126271693,31.085080147965474,14.437462597247157,14.882860665844635/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_odoric_ver01:data:sn85038145:00415665817:1876122801:0147/pct:59.83839592997157,23.316892725030826,10.833458027831812,11.159062885326756/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1639,7 +1639,7 @@ which it appears that Thomas Jenersoii
 esq. was duly elected, agreeably to tho  
 Constitution, Vice President of the United
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_odoric_ver01:data:sn85038145:00415665817:1876122801:0147/pct:80.16157989228007,54.08138101109741,14.287851585876721,4.143033292231813/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_odoric_ver01:data:sn85038145:00415665817:1876122801:0147/pct:60.137662726320514,40.5672009864365,10.713751309292235,3.1072749691738593/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1685,7 +1685,7 @@ In testimony whereof I have here­
 unto set my hand and seal.  
 John Lang don
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_gibson_ver01:data:sn84020109:00237285190:1877010401:0117/pct:6.584470094438615,65.34575772437469,14.637985309548792,12.47670426679745/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_gibson_ver01:data:sn84020109:00237285190:1877010401:0117/pct:4.946857367799502,49.01422265816577,10.982810654769715,9.357528200098088/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1723,7 +1723,7 @@ precedent in respect to the agency and
 authority by which, under the Constitu­  
 tion, the electoral votes are to be counte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn85038180:00296029026:1877010401:0219/pct:36.49262202043133,28.7171669793621,14.27355278093076,14.024390243902438/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn85038180:00296029026:1877010401:0219/pct:27.377235310814648,21.54080675422139,10.715299460686914,10.518292682926829/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1780,7 +1780,7 @@ resentalives, open all the certificules and
 count all the votes of the electors for prest­  
 dent; whereupon it appeared tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_archives_ver01:data:sn85033413:00212472001:1877011401:0753/pct:68.47222222222223,77.47076211283897,51.041666666666664,25.138157049222464/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_archives_ver01:data:sn85033413:00212472001:1877011401:0753/pct:17.126975855480286,19.367690528209742,12.76706618030224,6.284539262305616/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1868,7 +1868,7 @@ In testimony whereof I have
 hereunto set my hand an seal.  
 JOHN LANGDON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_dewitt_ver01:data:sn99021999:00206538016:1877011801:0338/pct:21.40779522978476,79.36134453781513,13.00174520069808,28.19047619047619/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_dewitt_ver01:data:sn99021999:00206538016:1877011801:0338/pct:16.05818181818182,59.5266106442577,9.76,21.142857142857142/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2079,7 +2079,7 @@ of President of the United States of America.
 In testimony whereof I have hereunto set my  
 hand and seal. JOHN LANGDON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_braniff_ver01:data:sn86053573:00294558378:1877012001:0073/pct:17.96657381615599,184.91205211726384,43.38440111420613,16.208469055374593/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_braniff_ver01:data:sn86053573:00294558378:1877012001:0073/pct:4.493990593973176,46.22801302931596,10.85176798467166,4.052117263843648/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2118,7 +2118,7 @@ office of President of the United States of America,
 In testimony whereof I have hereunto set my hand  
 and seal.JOHN LANGDON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_braniff_ver01:data:sn86053573:00294558378:1877012301:0081/pct:27.14975845410628,325.0187265917603,49.95169082125604,18.876404494382022/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_braniff_ver01:data:sn86053573:00294558378:1877012301:0081/pct:6.78743961352657,81.25468164794007,12.48792270531401,4.719101123595506/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2147,7 +2147,7 @@ sequent elections; a proposal once made in
 the House to assume a limited power over the  
 counting of the votes was in that House vote
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:00206531289:1877012401:0180/pct:103.68446680733648,177.8777183194808,48.56354487907807,27.131959467152452/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:00206531289:1877012401:0180/pct:34.561488935778826,59.29257277316027,16.187848293026025,9.043986489050818/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2184,7 +2184,7 @@ mcnt as can be of what the flramers
 of our Federal Constitution meant  
 when they said &quot;the Vice Presiden
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn92056106:00279528761:1877012401:0143/pct:3.4882136530862518,23.798358733880423,9.115683335604306,8.5154001918363/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn92056106:00279528761:1877012401:0143/pct:3.4984330290230274,23.798358733880423,9.112276876958713,8.520728977938825/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2244,7 +2244,7 @@ In testimony whereof I have here
 unto set, my nana and seal.  
 John Langdon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026259:00280776099:1877012501:0081/pct:9.555069292487236,70.92179153540611,16.174325309992707,23.12012053143405/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026259:00280776099:1877012501:0081/pct:7.1689164538489605,53.198192028489245,12.14885078438526,17.340090398575537/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2280,7 +2280,7 @@ of the United States of America.
 unto set my hand and seat   
 “John Langdon.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_engledinger_ver02:data:sn85033123:0051415126A:1877012501:0051/pct:21.359223300970875,74.33112844308421,14.295764738989728,12.311185704413072/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_engledinger_ver02:data:sn85033123:0051415126A:1877012501:0051/pct:21.359223300970875,74.33112844308421,14.295764738989728,12.314476585381907/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2330,7 +2330,7 @@ Can language be plainer than the
 above? and how is it that the author  
 ity of the President of the Senate t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668168:1877013001:0938/pct:14.420218037661051,206.59933320258875,29.137760158572846,17.885859972543635/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668168:1877013001:0938/pct:4.807334902738199,68.86644440086292,9.713790112749349,5.961953324181212/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2396,7 +2396,7 @@ and 1891 the President of the Senate was a
 candidate for election, and preferred that  
 somebody else should perform the mere cler
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777675:1877022801:0036/pct:111.25377643504531,188.47131958180276,41.918429003021146,31.19525289629839/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777675:1877022801:0036/pct:27.823951643369853,47.11782989545069,10.483566301473367,7.798813224074597/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2511,7 +2511,7 @@ In testimony whereof I have here­
 unto set my baud and seal.  
 &quot;John Laxuuox.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_nova_ver02:data:sn86092518:00383341656:1882030601:0223/pct:10.28420744213302,63.75655823714585,12.496337532962203,15.582371458551942/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_nova_ver02:data:sn86092518:00383341656:1882030601:0223/pct:10.282701039988282,63.74986884901899,12.499389678238368,15.58423390340293/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2535,7 +2535,7 @@ assigned; that the Senators should appoint a
 president of the Senate for the sole purpose  
 of receiving, opening and counting the vote
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn82014424:00211102834:1885021001:0145/pct:79.44397641112047,280.23458551275957,48.86267902274642,17.689015691868757/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn82014424:00211102834:1885021001:0145/pct:19.86099410278012,70.05864637818989,12.215669755686605,4.422253922967189/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2600,7 +2600,7 @@ the office of President of the United States of America
 In testimony whereof I have hereunto set my hand and  
 seal.Jons lab
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044851:1885022401:0694/pct:176.06382978723406,335.88813303099016,50.60790273556231,18.563869992441422/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044851:1885022401:0694/pct:44.02432072962189,83.97203325774754,12.654379631388942,4.6409674981103555/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2634,7 +2634,7 @@ of America. In testimony whereof | have
 Lereunto set my hand and seal.  
 JOHUN LANGDON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn92064025:00514153383:1885031801:0582/pct:42.76071995764955,15.468599033816425,12.149285336156696,7.458937198067633/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn92064025:00514153383:1885031801:0582/pct:42.76513146285512,15.475040257648953,12.153696841362272,7.455716586151369/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2667,7 +2667,7 @@ of America . In testimony whereof I have
 hereunto set my hand and seal.  
 John Langdon. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_mitchell_ver01:data:sn92073907:00416156700:1885031901:0263/pct:69.76160602258469,86.40676803475478,16.969887076537013,9.91196981822339/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_mitchell_ver01:data:sn92073907:00416156700:1885031901:0263/pct:52.337621587700035,64.81079227163599,12.739253216190775,7.431119240882588/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2715,7 +2715,7 @@ of America. In testimony whereof I havt
 hereunto set my hand and seal.  
 John Lanodon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ira_ver01:data:sn84023416:00202197504:1885032001:0885/pct:58.87628111273792,7.203718048024787,16.2701317715959,19.777949909630777/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ira_ver01:data:sn84023416:00202197504:1885032001:0885/pct:44.17795679238374,5.409243480506068,12.211644086415232,14.833462432223083/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2763,7 +2763,7 @@ of America. In testimony whereof I have
 hereunto set my hand and seal  
 John Lanodon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_galena_ver02:data:sn88065721:00279521572:1885032301:0103/pct:36.484388476798344,31.88691650230112,17.69880972917026,18.28840674994521/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_galena_ver02:data:sn88065721:00279521572:1885032301:0103/pct:36.484388476798344,31.890569070056248,17.716060031050542,18.28840674994521/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2818,7 +2818,7 @@ have hereunto set my hand and
 seal.  
 JoHn LANGDON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_grange_ver01:data:sn84026409:0028077649A:1885040801:0661/pct:334.14485696895923,18.04442408976414,41.57029823493609,78.77261277765056/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_grange_ver01:data:sn84026409:0028077649A:1885040801:0661/pct:83.57436443903181,4.511106022441035,10.397320748972446,19.69315319441264/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2843,7 +2843,7 @@ assigned; that the senators should appoint a
 president of the senate for the sole purpose of  
 receiving, opening and counting the votes fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84038582:00212471574:1888122901:0801/pct:15.507593924860112,287.38372854709814,58.03357314148681,21.85248264116337/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84038582:00212471574:1888122901:0801/pct:3.8776733959624226,71.84593213677454,14.511293224065561,5.463120660290842/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2989,7 +2989,7 @@ United States of Aniorlca. In testimony
 whereof 1 huvu hereunto set rny hand and  
 seal. JOHN LAXODOK
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_chadron_ver01:data:sn99021999:0020653963A:1889042801:0434/pct:5.909090909090909,83.84397354568767,16.643356643356643,21.487380213254152/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_chadron_ver01:data:sn99021999:0020653963A:1889042801:0434/pct:4.441335897884246,62.882980159265756,12.48470012239902,16.12565798353354/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

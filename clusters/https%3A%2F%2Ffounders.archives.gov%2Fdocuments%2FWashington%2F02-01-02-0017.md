@@ -93,7 +93,7 @@ Even though severely Love&#x27;s rain I feel )
 Xerxes that great, wan t free fbm Cupid’s Dan,  
 And all the greatest Heroes, Ml the smart.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gore_ver01:data:sn86092518:00279550377:1889043001:0413/pct:39.835625628983564,70.57030909882455,12.864810466286482,4.244666956900304/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gore_ver01:data:sn86092518:00279550377:1889043001:0413/pct:39.82894516183129,70.5626292306018,12.868243054390966,4.247832553415315/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -203,7 +203,7 @@ F.ven though severely Love&#x27;s Pain I feel.
 Xerxes, that great, wan&#x27;t free from Cupid&#x27;s Dart,  
 And all the greatest Ileroes, felt the smart
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_detroit_ver02:data:sn96077385:00296023589:1890022101:0430/pct:77.28737113402062,111.86307519640853,20.570231958762886,8.316498316498317/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_detroit_ver02:data:sn96077385:00296023589:1890022101:0430/pct:51.55519742143433,74.57912457912458,13.71474617244158,5.544332210998878/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -250,7 +250,7 @@ E en though be erely Lore&#x27;s Pain I fee!.
 Xerxes that grcit. wan&#x27;t free from Cupid&#x27;s Dart,  
 And all the greatest Heroes, felt the smart
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_hickok_ver01:data:sn85032490:00237286662:1890022201:0505/pct:65.75301204819277,83.73382624768946,18.207831325301203,7.872132217027292/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_hickok_ver01:data:sn85032490:00237286662:1890022201:0505/pct:43.85357035251582,55.822550831792974,12.14221150949081,5.251712514950527/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -279,7 +279,7 @@ Xerxes, tha great, wan’t free from Cupid’s
 Dart,  
 And all the greatest Heroes, felt the smart
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588319:1891121101:1151/pct:48.40402273721032,30.83232077764277,17.577612592916484,9.24969623329283/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588319:1891121101:1151/pct:37.51835535976505,23.895472023856236,13.633796453179713,7.1725653299850896/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -307,7 +307,7 @@ Even though severely Loves Pains I feel;
 Xerxes that great, was’tfree from Cupid’s Dart  
 And all the greatest Heroes felt the smart
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_graftonnotch_ver01:data:sn83016025:0041421096A:1892022301:0315/pct:31.609529343404997,48.270156438026476,12.337788107689327,6.272563176895307/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_graftonnotch_ver01:data:sn83016025:0041421096A:1892022301:0315/pct:31.603408210689388,48.26289667619191,12.340240123934935,6.275379756354339/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -346,7 +346,7 @@ Even though severely Love&#x27;s Pains I feel;
 Nerxes that great was n&#x27;t free from Cupid&#x27;s Dart  
 An an that sreat w wena Artefrom Cunid s dart
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175045181:1895012701:0337/pct:265.44117647058823,40.387526491068726,49.393382352941174,40.99303663336361/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175045181:1895012701:0337/pct:66.39691006069523,10.096881622767182,12.355159095089203,10.248259158340902/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -420,7 +420,7 @@ Cupid&#x27;s Dart,
 And ail the greatest Heroes, felt the  
 smart.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_endeavour_ver01:data:sn86063034:00414182148:1895020301:0599/pct:36.4791627733134,35.22909090909091,16.05307419173986,12.494545454545454/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_endeavour_ver01:data:sn86063034:00414182148:1895020301:0599/pct:28.280390074345853,27.30244617292301,12.431205947668243,9.694510201781084/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -481,7 +481,7 @@ Xerxes time great wasn&#x27;t tree tram Cupimi&#x27;s
 Dart ,  
 And al the greatest lIem-oes , felt the smart
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_alliance_ver01:data:sn99021999:00206539203:1895021701:0628/pct:58.824561403508774,89.61388403067401,16.80701754385965,7.883761603659357/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_alliance_ver01:data:sn99021999:00206539203:1895021701:0628/pct:44.13054921916125,67.21041302300551,12.61624846464292,5.922911341315754/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -534,7 +534,7 @@ Cupid’s Dart,
 And all the greatest Heroes, felt the  
 smart
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_diamondville_ver05:data:sn83002748:0051415014A:1895022101:0743/pct:15.802469135802468,9.970674486803519,12.716049382716049,17.634408602150536/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_diamondville_ver05:data:sn83002748:0051415014A:1895022101:0743/pct:15.808641975308642,9.975562072336265,12.716049382716049,17.64418377321603/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -620,7 +620,7 @@ ren though severely Love&#x27;s Pains I feel;
 Dart.  
 id all the greatest Heroes, feltthe smart.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287162:1897021701:0124/pct:44.2450007872776,35.45833779013798,12.879861439143442,7.187934538453311/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287162:1897021701:0124/pct:44.255497821865326,35.461903233857456,12.885109956437306,7.191499982172782/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -648,7 +648,7 @@ Even though severely Loves Paines I feel,
 Nernes that great, was&#x27;t free from Cupids Dart  
 And all the greatest Heroes felt the smart
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:0017504291A:1897022101:0685/pct:70.40498442367601,26.26047220106626,50.700934579439256,21.812642802741813/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:0017504291A:1897022101:0685/pct:17.604673807205454,6.565118050266565,12.677702044790653,5.453160700685453/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -724,7 +724,7 @@ Xerxes that great wasn&#x27;t free from Cupid&#x27;s
 dart.  
 And all tho greatest Heroes felt tho smart
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_garwood_ver02:data:sn83040340:00237285293:1897040901:0326/pct:10.7684355616816,9.79799201645095,43.263266712611994,133.26478771017298/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_garwood_ver02:data:sn83040340:00237285293:1897040901:0326/pct:7.18717683557394,6.531994677633967,28.852119958634955,88.847223902262/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -853,7 +853,7 @@ Xerxes that great, wasn&#x27;t free from Cu­
 pid&#x27;s Dart,  
 And all the greatest Heroes, felt the smart
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_fletcher_ver01:data:sn86063034:00414182252:1898101801:0503/pct:55.38346706475089,20.06213936972925,12.595633513715246,8.980618434679686/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_fletcher_ver01:data:sn86063034:00414182252:1898101801:0503/pct:55.395907196616285,20.06213936972925,12.601853579647944,8.990481826700202/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -880,7 +880,7 @@ And all the greatest Heroes, felt the smart
 Cupid&#x27;s dart,  
 And all the greatest Heroes felt the smart.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fugazi_ver01:data:sn89051168:00393343084:1899021901:0933/pct:32.007648183556405,73.16748702940002,13.881453154875716,1.237195689769855/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fugazi_ver01:data:sn89051168:00393343084:1899021901:0933/pct:32.00152934429364,73.15775472200053,13.883578665647104,1.2403564777866454/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

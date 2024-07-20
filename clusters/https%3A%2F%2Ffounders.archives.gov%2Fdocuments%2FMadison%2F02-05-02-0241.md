@@ -46,7 +46,7 @@ tens or subjects of one of the parti s, by
 thf public or private armed ships bt long­  
 ing to or in the service oj
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808041501:0130/pct:3.3891850723533894,77.55725190839695,17.726580350342726,4.681933842239186/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808041501:0130/pct:3.3885398819722066,77.54738582877496,17.729551367472556,4.685578594750456/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -67,7 +67,7 @@ one ol the other parties, by the puhlick or pri­
 vate armed ships belonging to, or in the ser­  
 vice ot
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808042201:1094/pct:50.264550264550266,49.728,21.592340639959687,4.768/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808042201:1094/pct:50.25188916876574,49.72004479283315,21.593198992443323,4.771236602143657/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -294,7 +294,7 @@ tiort ft principle that might he productive of
 more extensive evils than those it was due  
 aim to prevent.&quot; The sequel of his negoti
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1813021601:0367/pct:40.47750229568411,84.03614457831326,17.594123048668504,5.0602409638554215/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1813021601:0367/pct:40.470069775982374,84.02602096132996,17.597013098298444,5.063646950166647/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -354,7 +354,7 @@ might be produ&amp;ive of more extensive »vils than those it
 “Was our aim iO-prevenst Phe sequel of hivnegociation”  
 on this affair, is more fully given in the re¢cent converfa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1813030901:0466/pct:11.854991960239731,69.55600500818646,24.090045315012425,6.712896080130983/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1813030901:0466/pct:11.854991960239731,69.55600500818646,24.104663060956,6.719316832001027/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -442,7 +442,7 @@ rather to abandon the negociation, than te
 acquiesce in the doctrine it proposed to  
 *?t djlish.” (c) But it was still soma satisfac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1815032901:0411/pct:4.760167791355098,33.46703434444723,17.654568666788254,10.779644021057909/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1815032901:0411/pct:4.759299781181619,33.46283995488157,17.657427668368587,10.782470652128504/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

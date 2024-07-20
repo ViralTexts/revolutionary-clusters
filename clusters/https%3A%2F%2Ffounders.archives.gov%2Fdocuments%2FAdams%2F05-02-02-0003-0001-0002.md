@@ -61,7 +61,7 @@ name, tame and credit, and to bring him into general con
 tempt and ignominy, heretofore, to wit on the twenticth  
 day of November, in the year of our Lord eighteen hun
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530170:1842121201:0464/pct:6.756158725475734,169.83234405914817,48.29620888036584,9.018015203582214/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530170:1842121201:0464/pct:2.2520529084919114,56.6107813530494,16.09873629345528,3.006005067860738/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -82,7 +82,7 @@ For that whereas the said defendants contriving and mali
 cioncly intending to injure the said plaintiff in his good  
 name, fame and credit, and to bring him into general co
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530182:1843071101:0454/pct:6.086059534335396,96.54961208656594,48.349543177129384,11.218864842792977/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530182:1843071101:0454/pct:2.028686511445132,32.183204028855315,16.116514392376462,3.7396216142643257/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -137,7 +137,7 @@ citizens of this State, to whom he was in anywise
 known, to be a person of good name, fame, and credit,  
 to wit: at the city of New York, in the county o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_angelou_ver01:data:sn83030362:print00211110016:1848022701:0002/pct:35.472507275233575,6.051175656984785,9.741154847603003,3.227293683725219/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_angelou_ver01:data:sn83030362:print00211110016:1848022701:0002/pct:35.4763363455353,6.056938681420009,9.748812988206463,3.227293683725219/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -154,7 +154,7 @@ plains 01 Amor J. Williamson and William Burns in
 custody, &amp;c., of a plea of &quot;trespass on the case.” For  
 that whereas the said James Gordon Bennett now is 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_angelou_ver01:data:sn83030362:print00211110016:1848040201:0002/pct:36.42585551330799,35.40108182759811,9.642585551330798,0.7710898837610772/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_angelou_ver01:data:sn83030362:print00211110016:1848040201:0002/pct:36.42965779467681,35.409713430774545,9.64638783269962,0.7624582805846473/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -176,7 +176,7 @@ stallion, and one piano-forte; and declar­
 ing in a plea of trespass on the case, for,  
 that, whereas, the said defendant on th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777808:1855101701:0371/pct:312.3211446740859,141.39324389849685,45.46899841017488,17.391304347826086/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777808:1855101701:0371/pct:78.08028616852147,35.34831097462421,11.36724960254372,4.3478260869565215/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -198,7 +198,7 @@ stallion, and one piano-forte; and declar­
 ing in a plea of trespass on the case, for,  
 that, whereas, the said defendant on th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777808:1855102401:0373/pct:68.76006441223832,167.15176715176716,46.2157809983897,16.887893810970734/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777808:1855102401:0373/pct:17.200402819738166,41.78794178794179,11.560926485397784,4.2219734527426835/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -220,7 +220,7 @@ stallion, and one piano-forte; and declar­
 ing in a plea of trespass on the case, for,  
 that, whereas, the said defendant on th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777808:1855103101:0377/pct:21.50363783346807,225.4264563887995,46.5642683912692,17.31573865465079/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777808:1855103101:0377/pct:5.376996159288458,56.35661409719987,11.643420254699818,4.3289346636626975/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -249,7 +249,7 @@ ducted himself, and until the committing of the
 several grievances by the said Defendants, as here­  
 inafter mentioned, was always reputed, esteeme
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776981:1858040901:0909/pct:103.4934497816594,85.50932568149211,43.15866084425036,21.922525107604017/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776981:1858040901:0909/pct:25.88278121587186,21.37733142037303,10.793593010556972,5.480631276901004/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -287,7 +287,7 @@ of money which when paid should be suiticlent to
 purchase five hundred and fifty-five Bushells and  
 two thirds of a Bushell of Indian Corn (meaning i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_hera_ver01:data:sn83021205:00517171530:1876052001:0471/pct:17.971906869347702,96.53802497162316,13.95035597460073,9.534619750283769/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_hera_ver01:data:sn83021205:00517171530:1876052001:0471/pct:13.928518168713028,74.82314994685335,10.821693095391957,7.392882014441227/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -311,7 +311,7 @@ this writ with your doings therein. Witness Arte­
 mus Ward Esq at Worcester this first day of No­  
 vember in the year of our Lord one thousand seve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_hera_ver01:data:sn83021205:00517171530:1876052001:0471/pct:32.49951895324226,25.510783200908058,14.104290937079083,4.001135073779795/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_hera_ver01:data:sn83021205:00517171530:1876052001:0471/pct:25.197594074663222,19.774218377744383,10.92111149773823,3.100832019939156/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

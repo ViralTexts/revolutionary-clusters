@@ -84,7 +84,7 @@ majority of six to one, was that a national government
 ought to be established consisting ofa supreme Legislative,  
 Judiciary and Executive Department. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82015015:00415661289:1842031001:0062/pct:20.173470913713174,81.62857776791657,16.629280693883654,2.5293987131129354/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82015015:00415661289:1842031001:0062/pct:20.173470913713174,81.62857776791657,16.649219879367926,2.5367946157828563/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -102,7 +102,7 @@ that body was that &quot; a National Government ought to be
 established, consisting of a supreme legislative, judiciary,  
 and executive.&quot; And this same principle, as Judge Stor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661617:1854040101:0130/pct:18.536174985978686,72.78391080992458,15.325294447560292,2.3827740736692533/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661617:1854040101:0130/pct:18.540848756776967,72.79119758079207,15.325294447560292,2.3827740736692533/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -219,7 +219,7 @@ The resolutions of Mr. Randolph declared:
 That a national Government ought to be established, con  
 sisting of a supreme legislature, executive and judiclary
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743373:1861011901:0173/pct:251.67624521072796,40.2027027027027,44.827586206896555,4.155405405405405/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743373:1861011901:0173/pct:83.89208173690932,13.4009009009009,14.942528735632184,1.385135135135135/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -259,7 +259,7 @@ tional Government ought to be established, con­
 sisting of a supreme legislature, judiciary, and  
 executive,&quot; and that resolution was fully carrie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_continental_ver02:data:sn82014760:00237288804:1861031301:0248/pct:77.1799628942486,156.95501730103805,57.050092764378476,8.166089965397925/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_continental_ver02:data:sn82014760:00237288804:1861031301:0248/pct:19.29499072356215,39.238754325259514,14.262523191094619,2.041522491349481/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -406,7 +406,7 @@ ernment ought to be established consisting
 of a supreme legislature, executive and ju­  
 diciary. This resolution was acted on be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775587:1864110501:0128/pct:291.8859649122807,249.20109399740895,43.34795321637427,10.997552900532604/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775587:1864110501:0128/pct:72.98482909888503,62.30027349935224,10.838969109851947,2.749388225133151/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -425,7 +425,7 @@ committee that a national Government ought
 to be established, consisting of a supreme  
 legislative, judioiary and executive
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn85042437:00280775563:1866011601:0473/pct:57.386736703873936,166.9348559563976,39.724228496388704,7.630417856215936/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn85042437:00280775563:1866011601:0473/pct:14.351395730706075,41.7337139890994,9.93431855500821,1.907604464053984/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -474,7 +474,7 @@ complitee that a national government ought to be
 established, consisting of a supreme legisiative, ex­  
 ecutive and judiciary. Turning to the comments o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743610:1868031401:0680/pct:11.668022782750203,107.8564055510953,46.183889340927585,8.17754329624957/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743610:1868031401:0680/pct:3.889340927583401,35.95213518369844,15.394629780309195,2.7258477654165234/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -508,7 +508,7 @@ that the Legislature should have the
   
 power to veto laws injurious to the gen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292972:1868060501:0250/pct:67.32673267326733,117.85931976106302,42.26485148514851,36.913324393514564/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292972:1868060501:0250/pct:16.834287482593222,29.464829940265755,10.567847748723503,9.228331098378641/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -669,7 +669,7 @@ executive and judiciary.&quot; Pierce Butler, of
   
 South Carolina, now passed over from tne
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn91090200:00415667541:1887091501:0150/pct:97.63477801268499,8.950724637681159,13.91384778012685,3.872463768115942/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn91090200:00415667541:1887091501:0150/pct:73.25842696629213,6.71304347826087,10.442828816920027,2.9101449275362317/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -773,7 +773,7 @@ ernment ought to be established, consisting
 of a supreme legislative, executive and  
 judicial.&quot; This after debate was passed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chester_ver02:data:sn86053573:00211102056:1887091701:0279/pct:71.88940092165899,21.74245904149441,43.16436251920123,13.596692696371154/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chester_ver02:data:sn86053573:00211102056:1887091701:0279/pct:17.972350230414747,5.4356147603736025,10.791090629800307,3.3991731740927884/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -806,7 +806,7 @@ ginia plan, that there should be a national
 legislature of two branches, passed without  
 bebate, Pennsylvania alone voting in the neg
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_alamo_ver01:data:sn85042588:00212470867:1887092301:1009/pct:42.08944006012777,63.883870967741935,16.57271702367531,10.451612903225806/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_alamo_ver01:data:sn85042588:00212470867:1887092301:1009/pct:35.77512776831346,54.30117354586334,14.107751277683134,8.883851862684166/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -828,7 +828,7 @@ ciary.” Upon this broad idea the con­
 vention proceeded. I)r. Franklin was  
 the author of the resolution to give th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ditto_ver02:data:sn87058308:00279529029:1887100601:0518/pct:86.82,21.280907985407378,8.5,3.388731252533441/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ditto_ver02:data:sn87058308:00279529029:1887100601:0518/pct:86.82,21.283610322929334,8.503333333333334,3.3968382650993107/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

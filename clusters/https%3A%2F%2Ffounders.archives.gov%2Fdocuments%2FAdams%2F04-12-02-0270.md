@@ -235,7 +235,7 @@ threatening as she is, is still for not entering
 into war prematurely—or as she says, 44 she  
 does not wish to invite to the feast till ill
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812040401:0311/pct:71.99744122821046,25.968539325842695,24.40428594274748,9.22247191011236/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812040401:0311/pct:71.98592900543652,25.96620528491821,24.405713676580323,9.224638983761759/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -346,7 +346,7 @@ hat we are now enjoying, or wil soon enjoy:
  eo e  ae or te ai ear i  aa  
 settled upon the plain, and her unlader treas ar wikl uirr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296205:1858060501:0714/pct:10.609171800136892,177.57618710134656,102.39561943874058,23.69950389794472/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296205:1858060501:0714/pct:2.652746876604484,44.39404677533664,25.603285983227796,5.92487597448618/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -385,7 +385,7 @@ commanded; and they who supplicate for
 mercy from others can never hope for justice  
 through themselves.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279523982:1858082001:0137/pct:127.2289156626506,279.031370390754,38.570281124497996,12.195927352779307/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279523982:1858082001:0137/pct:42.40282685512368,93.00022011886419,12.854695363529286,4.064861691980336/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -476,7 +476,7 @@ begged. They must be command
 ed.&quot;  
 Holding the exalted view
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033395:00212470375:1870060901:0300/pct:39.366391184573004,29.350873409532024,14.573002754820937,4.658184170800086/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033395:00212470375:1870060901:0300/pct:29.543888659225576,22.01854647401337,10.941160259060219,3.4936381281000646/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -494,7 +494,7 @@ nence, and consideration, are things
 not to be begged. They must be com  
 manded.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00212470491:1870062301:0678/pct:217.2077922077922,105.50396985600861,51.13636363636363,9.204683084376262/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00212470491:1870062301:0678/pct:54.31296935254719,26.375992464002152,12.786685609904607,2.3011707710940654/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

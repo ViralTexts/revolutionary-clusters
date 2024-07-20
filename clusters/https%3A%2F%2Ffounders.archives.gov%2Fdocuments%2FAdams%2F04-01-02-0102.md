@@ -105,7 +105,7 @@ was enough,” say9 Mr. Adams, “to melt a heart
 of stone. 1 saw*the tears gush into the eyes of  
 the old, grave, pacific Quakers ot Philadelphia.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215725:1843071801:0677/pct:64.00755016888536,51.45978019014227,14.673157162726008,1.5440631110511767/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215725:1843071801:0677/pct:64.00119201350948,51.45631067961165,14.675010761233072,1.5462064005753327/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -128,7 +128,7 @@ al wus enough,&quot; says Mr Adams, &quot;to melt a heart
 of stone. I saw the tears gush into the eyrs of the  
 old, grave pacific Quakers of Philadelphin.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186439:1843071801:0568/pct:196.3584994506357,129.1726618705036,45.17344215978653,13.573141486810552/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186439:1843071801:0568/pct:65.44256120527307,43.05239179954442,15.055450931157146,4.523838068976541/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -170,7 +170,7 @@ melt a heart of stone. I saw the tears gush into
   
 the eyes of the old, grave, pacific Quakers of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn85054702:00280776002:1843072201:0623/pct:77.09750566893425,230.64562410329987,58.35222978080121,4.992826398852224/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn85054702:00280776002:1843072201:0623/pct:19.27801927801928,57.66140602582497,14.59081459081459,1.248206599713056/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -233,7 +233,7 @@ tion and aid ? &#x27;It was enough,&#x27; says Mr. Adams,
 into the eyes of the old, grave pacific Quakers  
 of Philadelphia.&#x27; Newark Daily Adv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197978:1843080201:0551/pct:85.1908185840708,87.70574403762177,19.980641592920353,6.841339155749636/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197978:1843080201:0551/pct:63.90540727423593,65.78210726682343,14.99101092518324,5.139402082633524/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -263,7 +263,7 @@ on Thursday, the 15th ult. and the meeting
 is described as more numerous than any  
 that preceded it-the numbers are stated a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn84023647:00280777778:1843080201:0516/pct:17.19383617193836,59.8648011318975,52.71695052716951,36.47225279044176/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn84023647:00280777778:1843080201:0516/pct:4.300202839756592,14.966200282974375,13.184584178498985,9.11806319761044/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -280,7 +280,7 @@ says Mr. Adams,to melt a heart of stone.
 I saw the tears gush into the eyes of the  
 old, grave, pacific Quakers of Philadel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn95079484:00393348392:1843080301:0188/pct:22.893539581437672,76.23736029803086,13.776160145586898,1.716338477913784/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn95079484:00393348392:1843080301:0188/pct:22.889374090247454,76.22721830517494,13.779718583212032,1.7205445434792248/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -297,7 +297,7 @@ Adams, to melt a heart of stone. I saw
 the tears gush into the eyes of the old,  
 grave, pacific Quakers of Philadelphia.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_arbok_ver04:data:sn82003383:00295874442:1843080501:0553/pct:52.12408312958435,147.65625,35.98716381418093,5.0271739130434785/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_arbok_ver04:data:sn82003383:00295874442:1843080501:0553/pct:17.37469437652812,49.21875,11.995721271393643,1.6757246376811594/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -380,7 +380,7 @@ says Mr. Adams, ? io melt a heart of stone.&#x27; I saw
 the tears gush into the eyes of the old, pacific 1akeis  
 of I&#x27;hiladelplua
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82015015:00415661319:1843082101:0105/pct:79.61416642672042,75.74428078972109,15.447739706305788,5.14990076256137/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82015015:00415661319:1843082101:0105/pct:79.62376427680199,75.74428078972109,15.438141856224206,5.156864793342387/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -423,7 +423,7 @@ gushing into the eyes of the old, grave, pa­
 cific quakeis of Philadelphia.&#x27;  
 A Whig merchant out west advertises for 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn83016785:00295877935:1843083001:0647/pct:88.57822724568709,113.61009553013326,19.943486020226057,9.659157919565986/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn83016785:00295877935:1843083001:0647/pct:66.45343647723892,85.21052010850336,14.965783992859269,7.253213822384716/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -534,7 +534,7 @@ Quakers of Philadelphia.
 heart of stone.-I saw the tears gush into the  
 eyes of the old, grave, pacific Quakers of Phil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn84023649:0028077778A:1847113001:0417/pct:223.72093023255815,132.79497532525795,52.86821705426357,6.460296096904441/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn84023649:0028077778A:1847113001:0417/pct:55.93023255813954,33.19874383131449,13.217054263565892,1.6150740242261103/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -655,7 +655,7 @@ I &#x27;saw&#x27;&#x27; the tears gush into the
 eyes of the&#x27; old; grave, pacific  
 Quakers of Philadelphia.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn92058841:00280779659:1848092301:0063/pct:74.40230832646331,112.38371206344365,17.9719703215169,4.010980631386305/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn92058841:00280779659:1848092301:0063/pct:55.82354153782725,84.2915967668141,13.481756338899196,3.019673631233796/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -692,7 +692,7 @@ was enough,&quot; says Mr. Adam*, -to melt a heart,
 of stone. I saw the tears gush into the eves ot,  
 the old, grave. pacific Quakers of Philadelphia.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215816:1848101101:0254/pct:3.3396946564885495,59.3747799760614,13.034351145038167,1.408153207068929/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215816:1848101101:0254/pct:3.339376013739147,59.37059983103351,13.036287886015966,1.4104008260583873/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -742,7 +742,7 @@ A Jew of Paris, who had been long solicite
 gush into the eyes of the old, grave, pacific  
 Quakers of Philadelphia.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624244:1848110201:0222/pct:79.55568053993251,23.621314019658563,14.046681664791901,1.7382307294361097/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624244:1848110201:0222/pct:79.56036745406824,23.624762890153473,14.0607424071991,1.7451284704259356/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -762,7 +762,7 @@ gush into the eyes of the old, grave, pacific
   
 Quakers of rbiladelphia.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn82015050:00280763366:1848110401:0294/pct:38.344051446945336,105.1745706812237,17.025723472668812,2.2063004662799957/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn82015050:00280763366:1848110401:0294/pct:28.77130910260534,78.88092801091777,12.785461563203603,1.6604116911179347/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -811,7 +811,7 @@ teen years age
 geclicut, then a remarkably good student  
 in his collegiate course, was suddenly de
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1848110801:1149/pct:244.70404984423675,182.27576974564926,116.66666666666667,22.008032128514056/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1848110801:1149/pct:61.18792599805258,45.568942436412314,29.172346640701072,5.502008032128514/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -846,7 +846,7 @@ adelphia.
 stone. I saw the tears gush into the eyes of the old,  
 grave, pacisic Quakers of Philad lphia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347922:1848110901:0116/pct:210.99062672302887,138.160632542655,59.71328799852968,6.172839506172839/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347922:1848110901:0116/pct:52.737963983829474,34.535367545076284,14.925578831312018,1.542995839112344/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -862,7 +862,7 @@ grave, pacisic Quakers of Philad lphia
 Mr. Adams, &quot;to melt a heart of stone. I saw the tears j  
 gush into the eyes of the old, grave, pacific Quakers of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848111101:1123/pct:51.719174796097874,62.35145385587863,15.91236206620822,1.276864728192162/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848111101:1123/pct:51.719174796097874,62.359882005899706,15.923023615331308,1.276864728192162/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -924,7 +924,7 @@ melt a heart of stone. I saw the tears
 gush into the eyes of the old, grave, pa­  
 cific Quakers of Philadelphia.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn82014327:00415668867:1849032901:0058/pct:16.67381054436348,67.19724671972467,13.001857408201172,5.947515594751559/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn82014327:00415668867:1849032901:0058/pct:16.67857312949469,67.19724671972467,13.00661999333238,5.9618555961855595/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -950,7 +950,7 @@ cific Quakers of Philadelphia.&#x27;
 melt a heart of stone. I saw the tears gush into  
 the eyes of the old, grave, pacific Quakers of Phil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn84023141:00517015222:1849061201:0515/pct:79.71753057658707,63.4242910647405,14.34187536400699,1.0272873194221508/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn84023141:00517015222:1849061201:0515/pct:79.72723742962532,63.43142500445871,14.351582217045234,1.0272873194221508/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -977,7 +977,7 @@ ams, &quot;to melt a heart of stone. I saw
 the tears gush into tho eyes of the old,  
 grave, pacific Quakers of Philadelphia.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kuwait_ver02:data:sn86092163:00202192464:1854061001:0485/pct:56.53409090909091,76.5089722675367,13.739669421487603,2.2294725394236/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kuwait_ver02:data:sn86092163:00202192464:1854061001:0485/pct:56.54700413223141,76.52256661228928,13.739669421487603,2.220409642921878/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1039,7 +1039,7 @@ meeting was born the stern resolve to
 achieve freedom, and the flery zeal which  
 kindled the souls of the whole nation. Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hugo_ver01:data:sn83030214:00206531186:1874090501:0522/pct:149.42640168040072,218.1454379144752,47.891420261754725,16.396066773382117/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hugo_ver01:data:sn83030214:00206531186:1874090501:0522/pct:49.80880056013357,72.71514597149174,15.963806753918242,5.465355591127373/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1058,7 +1058,7 @@ old, grave, pacific Ouakers of Philadel­
 phia. THE PRaYEn.  
 &quot;O Lord, our heavenly Father, high an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776051:1875073001:0670/pct:202.82519128899352,287.4292427640713,44.84991171277222,11.406600448574174/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776051:1875073001:0670/pct:50.71376011773363,71.85731069101783,11.214128035320089,2.8516501121435436/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1075,7 +1075,7 @@ Mr. Adams, &quot;to meet a heart of stone.&quot; I saw
 the tears gush into the eyes of the old, grave,  
 pacified Quaker of Philadelphia.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_dunbar_ver01:data:sn83025287:0028076811A:1878070401:0018/pct:43.61413043478261,13.252890899949724,11.644021739130435,1.1161387631975868/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_dunbar_ver01:data:sn83025287:0028076811A:1878070401:0018/pct:43.6231884057971,13.256242668007374,11.639492753623188,1.1228422993128875/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1112,7 +1112,7 @@ tears gush into the eyes of the old, the
 grave, the pacific Quakers of Pennsyl­  
 vania.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_halfwayrock_ver01:data:sn83016025:00414210995:1892122801:0595/pct:4.502556036177743,14.743975903614459,12.66220998820291,14.27710843373494/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_halfwayrock_ver01:data:sn83016025:00414210995:1892122801:0595/pct:4.501670925889522,14.741755759674747,12.664635344997052,14.278723083872912/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1147,7 +1147,7 @@ saw the tears gush into the eyes of
 the old, grave, pacific Quakers of  
 Philadelphia.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00542865982:1896070201:0422/pct:64.47425356988317,35.06034736532234,13.976633491994807,3.076243744480424/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00542865982:1896070201:0422/pct:64.4603071598529,35.0551876379691,13.979017953709713,3.0794701986754967/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -361,7 +361,7 @@ to the members of Congress shall take effect, un
 til an election of representatives fliall have inter­  
 vened. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789082901:0002/pct:19.735708129847744,32.28391528334287,25.193909796035623,2.842968899065064/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789082901:0002/pct:19.750071818442976,32.29345544743369,25.208273484630855,2.8381988170196526/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -383,7 +383,7 @@ twenty thousand dollars, arising from the duties on imports and
 tonnage, shall be, and the fame is hereby appropriated to defraying  
 the expence of negociatmg and treating with the Indian tribes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789082901:0004/pct:72.76130146847106,49.00133155792277,23.063633746040885,5.250142666920297/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789082901:0004/pct:72.77569824359344,49.00133155792277,23.0564353584797,5.25965379494008/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -404,7 +404,7 @@ which have ratified the Constitution, copies °t
 the amendments, also, to the Slates of Rhode&quot;  
 Island and North-Carolina—this was agreed to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789092601:0002/pct:71.85458676512354,74.32201782666414,23.516046577676796,5.347999241418547/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789092601:0002/pct:71.85458676512354,74.32201782666414,23.544447600113603,5.376446045894178/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -425,7 +425,7 @@ sation for thefervices of the Senators and Repre­
 sentatives, shall take effeift, until an election of  
 Representatives fliall have intervened
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789100301:0003/pct:4.752004752004752,60.99885627144491,25.304425304425305,5.375524208921083/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789100301:0003/pct:4.7742797742797745,61.01315287838353,25.28957528957529,5.3612276019824625/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -471,7 +471,7 @@ hereby appropriated to defraying the
 expense of negociating und treating with  
 the Indian tribes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789100801:0469/pct:73.74031007751938,18.660209846650524,21.390503875968992,28.619854721549636/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789100801:0469/pct:73.74031007751938,18.660209846650524,21.406653746770026,28.625235404896422/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -496,7 +496,7 @@ Rhode-Ifland and North-Carolina—this
 was agreed to.  
 In committee of the whole, on th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789101501:0473/pct:5.759036144578313,59.638359702938324,21.132530120481928,9.02486277042299/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789101501:0473/pct:5.767068273092369,59.64374125497793,21.140562248995984,9.030244322462599/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -515,7 +515,7 @@ and Representatives, shall take effe&amp;,
 until an election of Representatives shall  
 have intervened
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789101501:0473/pct:72.48192771084338,22.13432353890862,21.10843373493976,3.9231514368743947/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789101501:0473/pct:72.48192771084338,22.145086642987838,21.132530120481928,3.917769884834786/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -551,7 +551,7 @@ ing the fame.
 11. An a&amp; for registering and clearing  
 veflels, regulating the coasting trade,an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789101501:0474/pct:51.01991840652748,44.627175475011974,21.046316294696425,17.994571291713235/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789101501:0474/pct:51.01991840652748,44.63249773803821,21.046316294696425,17.999893554739476/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -569,7 +569,7 @@ providing for the expenles which may attend negotiations or
 treaties with the Indian Tribes, and the appointment of Commis­  
 sioners for managing the fame&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790010201:0004/pct:37.77639364683899,44.77281865701649,26.751790719402056,2.5934861278648973/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790010201:0004/pct:37.77639364683899,44.782870928829915,26.78293366552476,2.613590671491757/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -590,7 +590,7 @@ a riling from the duties on imports and tonnage, shall be, and the
 ijme is hereby appropriated for defraying the expences of nego­  
 ci»tin*,and holding a treaty or treaties, and for promoting a friend
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790073101:0004/pct:8.774193548387096,25.14643506362351,28.29032258064516,4.605130276711775/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790073101:0004/pct:8.798387096774194,25.14643506362351,28.274193548387096,4.605130276711775/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -611,7 +611,7 @@ be, and the fame is hereby appropriated
 for defraying the expences of negociat- ‘  
 ing, and holding a treaty or treaties, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790110601:0689/pct:7.007759456838022,28.668171557562076,21.047526673132882,5.852950661077072/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790110601:0689/pct:7.023924991917233,28.668171557562076,21.047526673132882,5.863699881758572/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -631,7 +631,7 @@ tatives, shall take effect, un
 til an election of Reprefenta  
 tives shall have intervened
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792031201:0001/pct:8.471510400964727,45.24869363266886,14.802532408803135,4.490032901103155/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792031201:0001/pct:8.471510400964727,45.25837042771434,14.810069339764848,4.485194503580415/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -657,7 +657,7 @@ The Senate resumed the consideration ol
 the resolution for a recess ol Congress from !  
 the 29th inst. to the day of next
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812043001:0398/pct:27.703542573026724,11.392860354284686,23.927905531385953,8.749213200251775/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812043001:0398/pct:27.699238775827247,11.391836000719294,23.929366682201852,8.751423604867231/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -681,7 +681,7 @@ No law varying the compensation to the members
 of Congress, shall take effect, until an election of Re«  
 presentatives shall have intervene d
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813122701:0415/pct:72.79026217228464,55.162205501418526,22.34082397003745,5.920809177254225/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813122701:0415/pct:72.7766335892155,55.15540207202763,22.342882106971228,5.924190100312448/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -741,7 +741,7 @@ ces of the Senators and Representatives shall
 take effect untilan election of representativen  
 shall bave imcrvcneg &quot; and we regret tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1816050101:0273/pct:71.94450112221996,63.01070038910506,22.260763109569474,3.5384241245136185/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1816050101:0273/pct:71.94450112221996,63.01880674448768,22.267564442630757,3.5424773022049285/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -769,7 +769,7 @@ vices of the Senators and Representatives shall
 take effect, until an election of the Repre en 4.  
 lives rhall have intervened.” I bis is the art c&#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816051801:0160/pct:10.671655086406556,53.27437858508604,16.515232495991448,2.0793499043977057/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816051801:0160/pct:10.669754185963662,53.268012904767595,16.518228238926493,2.0830843987732504/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -913,7 +913,7 @@ nresentatives shall take effeet until an e
 lection of Representatives, shall have in­  
 tervened.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216225:1816121301:0260/pct:63.520327765521586,13.399392965541868,18.452568547116293,5.257989644706303/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216225:1816121301:0260/pct:63.51031983614306,13.398196911541552,18.4549130822961,5.260495700556398/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -945,7 +945,7 @@ sentatives, shall take effect until an elec­
 tion of Representatives shall have inter­  
 vened.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1816121401:0276/pct:4.81230362163056,54.33744028161931,14.866876136927402,4.412874025647473/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1816121401:0276/pct:4.811507936507937,54.33060967944689,14.869929453262786,4.416509532788602/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1039,7 +1039,7 @@ service of the Senators and Represertatives shali
 take effect until an election of Representatives,  
 shall have interver=d.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1816122401:0646/pct:58.3715947352311,24.702258726899384,17.248239975512703,3.7679671457905544/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1816122401:0646/pct:58.376696255484134,24.7056810403833,17.258443016018774,3.7679671457905544/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1146,7 +1146,7 @@ services of the Senators and Representatives
 alia 11 take effect until an election of Represen­  
 tatives shall have intervened
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:0027952522A:1866120701:0628/pct:4.508670520231214,33.6625,11.213872832369942,3.0/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:0027952522A:1866120701:0628/pct:4.507926023778071,33.65829271341082,11.21614927344782,3.002749656292963/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1166,7 +1166,7 @@ services of the Senators and Representatives
 shall take effect until an election of Repre­  
 sentatives shall have intervened
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:00279525231:1867013101:0111/pct:61.783233726377,60.96085815360036,10.886771119366824,2.3507931073833164/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:00279525231:1867013101:0111/pct:61.77325581395349,60.95390232770424,10.8890503875969,2.3533774532177087/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1184,7 +1184,7 @@ Senators and r? preventatives shall take
 effect until an election o( representatives  
 shall have intervened.&quot; This propose
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_belgium_ver01:data:sn84026844:00202190881:1873042801:0403/pct:2.8354925446101196,90.31971580817051,11.928623808359815,2.0959147424511544/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_belgium_ver01:data:sn84026844:00202190881:1873042801:0403/pct:2.8477144952334394,90.31971580817051,11.928623808359815,2.113676731793961/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1204,7 +1204,7 @@ shall take effect until an election of
 Representatives shall have inter-  
 vened.&quot; The back pay grab ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn85026034:00280774984:1873050201:0133/pct:19.956498096791734,285.78579622484096,34.257748776508976,11.221190947961206/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn85026034:00280774984:1873050201:0133/pct:4.989124524197933,71.44644905621024,8.564437194127244,2.8052977369903016/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1223,7 +1223,7 @@ for services of Senators and Representatives
 shall take effect until an election of  
 Representatives shall have intervened.” Ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fullerton_ver02:data:sn84031492:no_reel:1873050301:0004/pct:29.105003523608175,39.28374655647383,13.084331688982852,2.9201101928374658/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fullerton_ver02:data:sn84031492:no_reel:1873050301:0004/pct:29.105003523608175,39.28374655647383,13.096077049565421,2.9476584022038566/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1244,7 +1244,7 @@ services of senators and representatives
 shall take effect until an election of the  
 representatives shall have intervened
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_juliet_ver01:data:sn85033413:00211101192:1873050301:0102/pct:70.91917591125198,315.2325581395349,50.79239302694136,13.895348837209303/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_juliet_ver01:data:sn85033413:00211101192:1873050301:0102/pct:17.74033696729435,78.80813953488372,12.705649157581764,3.4738372093023258/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1267,7 +1267,7 @@ OKELLY.
 The Herald Commissioner Sent to  
 Havana for Trial
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743828:1873050601:0528/pct:198.66512854317733,14.470194857604058,94.57811470006592,282.6818863138476/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743828:1873050601:0528/pct:66.22170951439244,4.823398285868019,31.526038233355308,94.2272954379492/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1284,7 +1284,7 @@ provtling that no law varying the compensation of
 inmbers of Congress shall take effect until an election  
 for Bepresentatives shall have intervened. The vot
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536159:1873050601:0135/pct:217.10427606901726,268.97152818128995,51.46286571642911,3.89308541545613/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536159:1873050601:0135/pct:54.29643527204503,67.24288204532249,12.870544090056285,0.9732713538640325/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1345,7 +1345,7 @@ the Senators and Representatives shall
 take effect until an election of Repre  
 sentatives shall have intervened.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775435:1873050801:0085/pct:52.31023102310231,34.5957011258956,14.587458745874587,3.5056294779938586/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775435:1873050801:0085/pct:39.2474005611487,25.946775844421698,10.942399735930021,2.6356192425793243/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1363,7 +1363,7 @@ services of the&#x27; Senators and Representatives shall
 take effect until an election of Representatives shall  
 have intervened, (ITSO.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fullerton_ver02:data:sn84031492:no_reel:1873050901:0004/pct:57.29898516783763,76.024208566108,12.47072599531616,1.8001241464928617/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fullerton_ver02:data:sn84031492:no_reel:1873050901:0004/pct:57.30386416861827,76.02808814400993,12.49512099921936,1.7962445685909374/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1387,7 +1387,7 @@ LOUISIANA.—A terrible state of
 tilings exists in this r.tate.  
 NEW ORLEANS, May 6.—The new
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn83032195:0029602868A:1873050901:0535/pct:60.78400991633096,68.30477908025247,12.457390765416795,6.255635707844905/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn83032195:0029602868A:1873050901:0535/pct:60.78400991633096,68.30477908025247,12.467720276830907,6.263149984971446/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1410,7 +1410,7 @@ ing the compensation of Senators and Repre­
 sentatives shall take effect until an election for  
 Representatives has intervened
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_flobberworm_ver01:data:sn85033019:00414215531:1873050901:0486/pct:68.4054454778272,29.879205350903465,12.07709933953363,4.322651492462813/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_flobberworm_ver01:data:sn85033019:00414215531:1873050901:0486/pct:68.41443141483578,29.885860703470765,12.07709933953363,4.322651492462813/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1428,7 +1428,7 @@ the services of the senators and repre­
 sentatives shall take effect until an elec­  
 tion of representatives shall have inter
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn83045160:00200293071:1873051101:0524/pct:63.58381502890173,322.43654822335026,38.03468208092485,5.95600676818951/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn83045160:00200293071:1873051101:0524/pct:15.902848055515397,80.60913705583756,9.512794564117392,1.4890016920473774/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1446,7 +1446,7 @@ tatives shall take effect until an election
 of representatives shall have inter­  
 vened.&quot; This proposed article wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn84026840:0020219249A:1873051201:0382/pct:30.26275115919629,90.63874345549738,13.199381761978362,2.4083769633507854/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn84026840:0020219249A:1873051201:0382/pct:30.26275115919629,90.6544502617801,13.2225656877898,2.4083769633507854/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1477,7 +1477,7 @@ of Congress shall take effect until an
 election for Representatives shall have  
 intervened. This looks as if the Ohi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_osceola_ver01:data:sn84022046:00279553913:1873051301:0452/pct:38.17427385892116,319.83460395399925,46.1146737080347,15.312055821165526/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_osceola_ver01:data:sn84022046:00279553913:1873051301:0452/pct:9.541768810107486,79.94832041343669,11.526494437111069,3.8275193798449614/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1530,7 +1530,7 @@ ators and Representatives shall takn effect
 until I un election of Representatives shall  
 have intervened.&quot; When the amendmen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn83032058:00296028721:1873051501:0488/pct:35.38683830290293,86.54320987654322,9.746486273479574,2.078189300411523/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn83032058:00296028721:1873051501:0488/pct:35.39121677831779,86.55006858710563,9.742107798064714,2.0747599451303156/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1553,7 +1553,7 @@ ing the compensation of Senators and Repre­
 sentatives shall take effect until an election fur  
 Representatives has intervened
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271768527:1873051501:0601/pct:35.02932551319648,88.25383911319028,13.372434017595308,4.413708939286077/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271768527:1873051501:0601/pct:35.02932551319648,88.26061900403404,13.372434017595308,4.40692904844232/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1572,7 +1572,7 @@ tatives shall take effect until an election
 of representatives shall have inter­  
 vened.&quot; This proposed article wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_animals_ver01:data:sn84027718:00271763803:1873051601:0433/pct:38.377829367382475,120.92001849283403,14.495066744051075,3.005085529357374/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_animals_ver01:data:sn84027718:00271763803:1873051601:0433/pct:28.79535558780842,90.6957928802589,10.88534107402032,2.2538141470180304/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1593,7 +1593,7 @@ of Congress shall take effect until an
 election for members of the House of  
 Representatives shall have intervened
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879142:1873051601:0081/pct:32.242516489091834,33.43776106934002,13.280060882800608,4.761904761904762/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879142:1873051601:0081/pct:24.19436691195128,25.083542188805346,9.959401167216443,3.5714285714285716/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1630,7 +1630,7 @@ ing the compensation of Senators and Repre­
 sentatives shall take effect until an election for  
 Representatives has intervened.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_allemande_ver01:data:sn85025570:0019991991A:1873052201:0016/pct:19.964922537269803,56.51077487391105,12.598655363928676,2.074736359468134/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_allemande_ver01:data:sn85025570:0019991991A:1873052201:0016/pct:16.970349511346697,48.03676398947744,10.72138479377174,1.7699977266084246/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1648,7 +1648,7 @@ cotuiiensatiou of senators and represen­
 tatives shall take effect until an election  
 &gt;f representatives shall have inter
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn83032195:0029602868A:1873052301:0543/pct:8.930778739184179,69.03685281483156,12.330037082818293,2.1817770743839024/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn83032195:0029602868A:1873052301:0543/pct:8.930778739184179,69.03685281483156,12.335187474248043,2.189313437335142/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1692,7 +1692,7 @@ Senators aud Representatives shall
 take effect until au election of Rep­  
 resentatives shall have intervened.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eeyore_ver01:data:sn87052143:00294556540:1873060401:0273/pct:102.18354430379746,80.24224072672219,13.24367088607595,3.9237951047186477/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eeyore_ver01:data:sn87052143:00294556540:1873060401:0273/pct:76.68196928921957,60.18168054504164,9.941427892987177,2.952308856926571/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1748,7 +1748,7 @@ for the services of the Senators and Representa­
 tives shall take effect until an election of Repre-  
 sentatives shall have inrarvenad
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_american_ver01:data:sn86053573:00237288920:1873120501:0554/pct:206.98772426817752,182.84339006360668,43.53163361661945,4.469657899260787/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_american_ver01:data:sn86053573:00237288920:1873120501:0554/pct:51.78360500826837,45.71084751590167,10.89062130876447,1.1174144748151968/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1766,7 +1766,7 @@ the salarles of Senators and Repr sentatives shall take
 effect until an election of Representatives shall have   
 int rvene.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536159:1873120501:0913/pct:334.17047184170474,192.0494699646643,65.75342465753425,5.889281507656066/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536159:1873120501:0913/pct:83.54261796042618,48.012367491166074,16.438356164383563,1.4723203769140165/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1787,7 +1787,7 @@ tion of Representatives shall have
   
 intervened. , 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058250:0027174481A:1873122001:0588/pct:19.577764277035236,72.82903263815247,14.474483596597812,2.9692470837751856/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058250:0027174481A:1873122001:0588/pct:14.68935135956251,54.62472016024508,10.861309433389032,2.2269353128313893/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1804,7 +1804,7 @@ Arr. II. No law varying the compensation for the
 services of the Senators and Representatives shall take  
 effect until an election shall have intervene
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hugo_ver01:data:sn83030214:00206531186:1874070401:0034/pct:250.5992873339812,234.03026452581724,47.08454810495627,4.158484463439991/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hugo_ver01:data:sn83030214:00206531186:1874070401:0034/pct:83.53309577799374,78.01008817527241,15.694849368318756,1.3861614878133302/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2010,7 +2010,7 @@ lad}% the Postmaster-General and his lady, ami
 Messrs. Boudinot, Griffin, Coles, Gerry ami  
 White and their ladies.&quot; It is evident that ther
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_bobbsey_ver02:data:sn86063034:0041418196A:1888022601:1200/pct:58.58290723155588,94.18106427090532,16.12490869247626,4.367657221838286/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_bobbsey_ver02:data:sn86063034:0041418196A:1888022601:1200/pct:45.40265131858282,72.99507248446761,12.501769118271454,3.3885595943726345/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2091,7 +2091,7 @@ vices of the Senators and Representatives shall
 take effect before the election of Representa­  
 tives shall have intervened.&quot; The matte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175042830:1895111001:0133/pct:133.67875647668393,219.04834527985358,50.18504811250925,34.40597834375477/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175042830:1895111001:0133/pct:33.4258745141588,54.762086319963394,12.54858411993337,8.601494585938692/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

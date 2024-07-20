@@ -378,7 +378,7 @@ Ponts, 1780-81. Translated from the French Manuscript. With a
 
 ---
 
-## [From _Putnam's magazine of literature, science, art, and national interests_](https://archive.org/details/sim_putnams-magazine_1869-04_3_16/page/n125/mode/1up?view=theater)
+## [From _Putnam's Magazine.  Original Papers on Literature, Science, Art and National Interests (1868-1870)_](https://archive.org/details/sim_putnams-magazine_1869-04_3_16/page/n125/mode/1up?view=theater)
 
 #### 1869-04-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -1135,7 +1135,7 @@ By all the mnaneuvres and the corresponding march of
 the troopa our own army is as completely deceived as the  
 enemy appeared afterwards to have been
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_rolls_ver01:data:sn83030214:00175039879:1881101801:0159/pct:105.22813688212928,279.963980189104,45.754119138149555,10.423232778027915/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_rolls_ver01:data:sn83030214:00175039879:1881101801:0159/pct:35.07604562737642,93.32132672970134,15.251373046049853,3.474410926009305/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1896,7 +1896,7 @@ By clever stratagems he led the British into
 the belief that he was moving against New  
 York. One of the legends of Dobbs Forry i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_stein_ver01:data:sn83030272:00175045144:1894061001:0331/pct:54.788418708240535,220.55455093429777,49.5916852264291,20.253164556962027/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_stein_ver01:data:sn83030272:00175045144:1894061001:0331/pct:13.699647299053277,55.13863773357444,12.400222758492667,5.063291139240507/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

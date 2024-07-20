@@ -112,7 +112,7 @@ States forbid the repetition of ad­
 - vances for: preserving peace ; and  
 we are happy to learn that freth at
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797053001:0297/pct:5.523750580225902,75.12835703001579,16.679560575584095,4.936808846761453/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797053001:0297/pct:5.528908143792872,75.13164823591364,16.69503326628501,4.943391258557135/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -138,7 +138,7 @@ separate them from.the.nfelves.&quot;
 IMr. W. Smith obje&amp;ed to the amend. , exprc  
 ment of the gentleman from connefticut | coun
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797053101:0003/pct:7.061024082300678,7.1229255397268325,32.89689034369886,85.84226758701719/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797053101:0003/pct:7.066869300911854,7.1302687619327365,32.89104512508768,85.84593919812013/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -170,7 +170,7 @@ it tipn with us, will produce an accommodation tu
 n compatible with the engagements, rights, du­  
 g ties, and honor of our-nation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797053101:0003/pct:54.477437456160864,34.04317814657072,18.00327332242226,10.765163753855191/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797053101:0003/pct:54.483282674772035,34.05052136877662,18.009118541033434,10.768835364958143/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -220,7 +220,7 @@ wherever entertained, serve to evince an imper­
 fect knowledge of the real opinion of ovr con­  
 jliteentt.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797060301:0002/pct:11.595547309833025,35.248080330773774,15.932282003710576,6.039574719432959/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797060301:0002/pct:11.612940630797773,35.248080330773774,15.943877551020408,6.054341405788541/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -242,7 +242,7 @@ fore, proposed to add the following word?,*
 viz. &quot; to compensate for any injury done to  
 our neutral -rights, and on the part of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797060301:0002/pct:61.31725417439703,72.62256349675133,16.001855287569573,4.710572947430596/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797060301:0002/pct:61.32884972170687,72.62256349675133,15.996057513914657,4.729031305375074/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -270,7 +270,7 @@ ted States to place France on grounds
 as favorable as other countries in  
 their relations and conne&amp;ion wit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797061301:0305/pct:26.07409713574097,16.397663134963857,15.753424657534246,9.228636498663233/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797061301:0305/pct:26.08447488584475,16.404264448625277,15.758613532586136,9.228636498663233/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

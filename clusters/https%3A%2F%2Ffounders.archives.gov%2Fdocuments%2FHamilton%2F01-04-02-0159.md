@@ -99,7 +99,7 @@ the opposite interests of the parties, they might
 not easily be susceptible of a pacific adjust­  
 ment.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016475:00296026402:1841010101:0755/pct:62.01904761904762,45.01497646555413,14.304761904761905,12.523177863357581/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016475:00296026402:1841010101:0755/pct:62.03174603174603,45.01497646555413,14.311111111111112,12.532686730376076/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -142,7 +142,7 @@ J&quot; their participating in territory acquired or seeured,
 11 opposite interests of the j&#x27;irties, they might not ea­  
 &quot; toly be susceptible of a pacific Adjustment.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1841010701:0103/pct:47.80308596620132,18.18091648482444,15.76781778104335,12.854592342789129/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1841010701:0103/pct:47.80798432525104,18.18091648482444,15.76781778104335,12.857898565099518/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -186,7 +186,7 @@ pose; and as they would affect the opposite inter­
 ests of the parties, they might not easily be suscep-  
 tible of a pacific adjustment.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023294:00200296096:1841012901:0158/pct:206.90221857025472,61.334835257673895,57.60065735414955,58.912982258518724/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023294:00200296096:1841012901:0158/pct:51.75745118191161,15.333708814418474,14.409044193216856,14.728245564629681/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -230,7 +230,7 @@ But in imposing this tax would not Pennsyl­
 vania establish the precedent? I am aware of  
 no similar tax in other states. The suppose
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn85054702:00280776014:1846041101:0205/pct:209.1928251121076,185.32883642495784,59.19282511210762,77.74030354131534/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn85054702:00280776014:1846041101:0205/pct:52.2982062780269,46.33220910623946,14.798206278026905,19.435075885328835/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -365,7 +365,7 @@ the dispute.&quot;
   
 One, then, my friends, of the distractin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_datsun_ver01:data:sn83016836:00212472517:1860110101:0452/pct:6.23608017817372,8.156338953361068,14.268745360059391,3.5143420188307424/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_datsun_ver01:data:sn83016836:00212472517:1860110101:0452/pct:6.23608017817372,8.156338953361068,14.278643900024747,3.521640756149186/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -393,7 +393,7 @@ have good reason to apprehend that ihe vord
 would sometimes be appealed to as the arbiter  
 of their differences.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_datsun_ver01:data:sn83016836:00212472517:1860110101:0452/pct:6.087602078693393,62.65601051018174,14.877505567928731,6.492226844755857/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_datsun_ver01:data:sn83016836:00212472517:1860110101:0452/pct:6.0975006186587475,62.65601051018174,14.887404107894085,6.499525582074301/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -413,7 +413,7 @@ greatest proportion of the wars that have
 desolated the earth have sprung from Riia  
 origin.” &#x27;rr ’ * -J&#x27; •. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn90059503:00383347191:1860110901:0225/pct:71.06339468302659,20.013870999702764,10.173824130879346,2.585950658872486/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn90059503:00383347191:1860110901:0225/pct:71.07191547375596,20.017173618679614,10.165303340149967,2.592555896826183/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -438,7 +438,7 @@ pute.”
   
 One, then, my friends, of the distractin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn90059503:00383347191:1860110901:0225/pct:70.98670756646217,22.61963737243634,10.263292433537833,4.4486277618151195/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn90059503:00383347191:1860110901:0225/pct:70.99096796182685,22.62293999141319,10.263292433537833,4.4486277618151195/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -469,7 +469,7 @@ have good reason to apprehend that the
 sword would sometimes be appealed to as  
 the arbiter of their differences&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn90059503:00383347191:1860110901:0225/pct:70.60327198364008,76.57782621618944,10.148261758691207,6.529277717229763/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn90059503:00383347191:1860110901:0225/pct:70.60753237900477,76.57782621618944,10.148261758691207,6.539185574160309/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -506,7 +506,7 @@ a question of sections. And to meet and
 Settle that question the Congress was con­  
 stituted. To it was given the power, i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn90059503:00383347191:1860110901:0226/pct:71.19620901639344,20.12814194184327,10.54047131147541,9.590931493346476/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn90059503:00383347191:1860110901:0226/pct:71.19620901639344,20.134713323476262,10.54900956284153,9.590931493346476/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -535,7 +535,7 @@ have good reason to apprehend that the
 sic or d would sometimes be appealed to as  
 the arbiter of their differences.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn90059503:00383347191:1860110901:0226/pct:70.96567622950819,76.38245441103992,10.18186475409836,6.476096599310005/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn90059503:00383347191:1860110901:0226/pct:70.97421448087432,76.38902579267291,10.186133879781421,6.472810908493511/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -565,7 +565,7 @@ of an amicable termination of the dis­
 pute.”  
 One, then, my friends, of the distractin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn90059503:00383347191:1860110901:0227/pct:70.43434086868174,19.931000492853624,10.16002032004064,6.96895022178413/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn90059503:00383347191:1860110901:0227/pct:70.43857421048176,19.931000492853624,10.164253661840657,6.96895022178413/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -594,7 +594,7 @@ have good reason to apprehend that the
 sword would sometimes be appealed to as  
 the arbiter of their differences.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn90059503:00383347191:1860110901:0227/pct:70.39624079248159,76.12617052735338,10.13462026924054,6.49581074420897/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn90059503:00383347191:1860110901:0227/pct:70.40047413428161,76.12617052735338,10.143086952840573,6.502382125841958/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -615,7 +615,7 @@ greatest proportion of the wars that have
 desolated the earth have sprung from this  
 origin.” &#x27; &quot; “ • ■ r * y &gt;&lt;&amp;s**
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn90059503:00383347191:1860110901:0231/pct:69.36832625755821,22.58250191864927,10.25344139971697,2.5613967766692247/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn90059503:00383347191:1860110901:0231/pct:69.36832625755821,22.585699667434127,10.25344139971697,2.567792274238936/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -646,7 +646,7 @@ a question of sections. And to meet and
 settle that question the Congress was con­  
 stituted. To it was given the power, i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn90059503:00383347191:1860110901:0231/pct:69.22681075517818,25.10552570990023,10.44641708478065,6.839984650805833/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn90059503:00383347191:1860110901:0231/pct:69.22681075517818,25.108723458685084,10.454993781894592,6.843182399590688/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -677,7 +677,7 @@ have good reason to apprehend that the
 sword would sometimes be appealed to as  
 the arbiter of their differences.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn90059503:00383347191:1860110901:0231/pct:68.87945452206355,77.32156561780506,10.227711308375145,6.293169608595549/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn90059503:00383347191:1860110901:0231/pct:68.88374287062052,77.32156561780506,10.231999656932116,6.29956510616526/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -707,7 +707,7 @@ of an amicable termination of the dis­
 pute.”  
 One, then, my friends, of the distractin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn90059503:00383347191:1860110901:0232/pct:69.69889467666115,22.675086107921928,10.659382543514166,6.8025258323765785/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn90059503:00383347191:1860110901:0232/pct:69.7073645873036,22.675086107921928,10.663617498835388,6.812093379257559/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -731,7 +731,7 @@ have good reason to apprehend that the
 sword would sometimes be appealed to as  
 the arbiter of their differences&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn90059503:00383347191:1860110901:0232/pct:69.58455088298818,79.44890929965557,10.087663575149282,4.181017986988136/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn90059503:00383347191:1860110901:0232/pct:69.58455088298818,79.44890929965557,10.087663575149282,4.187396351575456/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -762,7 +762,7 @@ pute.”
   
 One, then, my friends, of the distractin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn90059503:00383347191:1860110901:0233/pct:69.14907067897332,22.607370726597466,10.17827791124036,6.789829540043805/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn90059503:00383347191:1860110901:0233/pct:69.15328528680406,22.613719328317938,10.174063303409618,6.796178141764276/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -786,7 +786,7 @@ have good reason to apprehend that the
 sword would sometimes be appealed to as  
 the arbiter of their differences.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn90059503:00383347191:1860110901:0233/pct:68.7697559742066,79.11627464051043,10.051839676318119,4.17103133034949/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn90059503:00383347191:1860110901:0233/pct:68.77397058203734,79.1226232422309,10.05605428414886,4.17103133034949/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -925,7 +925,7 @@ wonld result, if America werenot con­
 nected at all, or only by the feeble tie  
 of a simple league, offensive and de
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867030501:0206/pct:104.27089688834656,152.3263506063947,38.49908480780964,3.792723263506064/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867030501:0206/pct:26.075678974671956,38.081587651598674,9.627708269758926,0.948180815876516/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

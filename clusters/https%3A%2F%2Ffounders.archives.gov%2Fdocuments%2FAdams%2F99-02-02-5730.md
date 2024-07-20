@@ -557,7 +557,7 @@ certificates or other documents heretofore requir­
 ed by law :  
 And whereas doubts have arisen upon the tru
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790011501:0002/pct:3.7754761109254926,30.027877339705295,29.602405613097226,17.88132218239745/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790011501:0002/pct:3.7921817574340126,30.032855436081242,29.594052789842966,17.901234567901234/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -592,7 +592,7 @@ certificates or other documents heretofore requir­
 ed by law :  
 And whereas doubts have arisen upon the tru
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791011501:0002/pct:3.7754761109254926,30.027877339705295,29.602405613097226,17.88132218239745/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791011501:0002/pct:3.7921817574340126,30.032855436081242,29.594052789842966,17.901234567901234/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -683,7 +683,7 @@ Great-Britain, in manner before-mentioned,
 may, upon the importer paying down in  
 ready money, the duty of eight pence th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797110801:0002/pct:25.074257425742573,58.909853249475894,17.475247524752476,4.9715483677747825/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797110801:0002/pct:25.086633663366335,58.913596885295,17.481435643564357,4.9715483677747825/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -716,7 +716,7 @@ importers, in such warehotife or warehouses
 as shall be approved for that purpose by the  
 commiflioners of his majesty&#x27;s customs, o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797110801:0002/pct:24.975247524752476,71.9077568134172,17.45049504950495,11.799940101826895/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797110801:0002/pct:24.99381188118812,71.9115004492363,17.456683168316832,11.799940101826895/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -735,7 +735,7 @@ co, being the growth or production of. any
 of the territories of the faid United States  
 of America, may be imported in Ihips o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801092101:0001/pct:30.125815470643058,47.052006374040275,20.643056849953403,3.751991887585108/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801092101:0001/pct:30.125815470643058,47.06166401081655,20.658589624106867,3.7471630691969673/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -768,7 +768,7 @@ able for l&#x27;uch rice within eighteen month;-,
 according to the net weight and quantity  
 of fuch rice at the time it lhall bes fo lain,- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801092101:0001/pct:30.079217148182664,74.3155149934811,20.969245107176143,15.065913370998116/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801092101:0001/pct:30.086983535259396,74.32517263025737,20.992544268406338,15.061084552609977/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -898,7 +898,7 @@ sioners of his Majesty’s treasury, and the
 lords commissioners ol the admiralty are to  
 give the necessary directions herein according
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1818080401:0106/pct:36.209451671332125,75.33460803059273,14.836160052692245,2.3303059273422564/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1818080401:0106/pct:36.20349028646691,75.32560640458836,14.83920535616288,2.334010435336759/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

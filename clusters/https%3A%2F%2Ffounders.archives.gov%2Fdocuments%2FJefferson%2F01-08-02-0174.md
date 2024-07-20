@@ -102,7 +102,7 @@ uioviog to settl* tn Europe, and continuing
 .here/’ • • •  
 To Petkh Car
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216420:1829122901:0304/pct:24.801655743359778,16.718536038839787,17.91997240427734,10.344827586206897/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216420:1829122901:0304/pct:24.797378858423865,16.71645506596963,17.92263033856412,10.347688988465688/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -138,7 +138,7 @@ in time. If they rd-e the sal ry to what it
 »i., ort in pay oui house tetii and taxes, 1  
 can li»e **iih mure dev-eie. y.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216420:1829122901:0304/pct:24.698171783373578,41.217477903647456,18.006209037599174,14.203908875886967/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216420:1829122901:0304/pct:24.69391274357648,41.212347523027134,18.00885210093694,14.206289934445275/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -181,7 +181,7 @@ serve uninfected by contagion those peculiarities in
 their government and manners to which they are  
 indebted for those blessings.” Political liberty an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015209:1843061301:0503/pct:19.358634892615473,6.507276507276507,14.739629302736098,4.002079002079002/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015209:1843061301:0503/pct:19.368441698538785,6.514206514206514,14.729822496812789,3.995148995148995/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -217,7 +217,7 @@ luce that effect, I have copies enough to
 ive one to each of the young men at the  
 ollege, and to my friends in the cou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn85026279:00280775095:1856082901:0039/pct:73.70753323485968,66.91772885283893,49.48301329394387,46.060254924681345/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn85026279:00280775095:1856082901:0039/pct:18.42688330871492,16.729432213209734,12.370753323485967,11.515063731170336/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -237,7 +237,7 @@ at length took his ascent with a companion.
 The wind changed after a while, and brought  
 him back to the French coast-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528669:1859073001:1060/pct:16.181767802715434,147.34357738274582,43.80714879467997,9.52094004218138/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528669:1859073001:1060/pct:5.393922600905144,49.1145257942486,14.602382931559989,3.173646680727127/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -257,7 +257,7 @@ ascent with a companion. The wind changed
 after awhile, and brought him back to the  
 French coast-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290070:1859073101:0103/pct:96.31972397929844,231.7078702653663,34.847613571017824,7.6207756860966205/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290070:1859073101:0103/pct:24.086856485475984,57.926967566341574,8.714408973252803,1.9051939215241551/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -281,7 +281,7 @@ ascent with a companion. The wind changed
 after awhile, and brought him back to the  
 French coast--
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290070:1859073101:0104/pct:236.57984144960363,104.70681637745265,34.20158550396376,7.440172394238403/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290070:1859073101:0104/pct:59.153334277219315,26.176704094363163,8.551606965878522,1.8600430985596008/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -306,7 +306,7 @@ burst, and they fell from a great height.&quot;
 On tho 21st he writes to another Inend  
 &quot;The distance from the earth was abou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_flint_ver01:data:sn97063063:00296024302:1859090801:0033/pct:103.43500570125427,115.20717642033318,18.828392246294186,8.874412644169158/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_flint_ver01:data:sn97063063:00296024302:1859090801:0033/pct:68.98616854413233,76.80478428022212,12.562384143733068,5.916275096112773/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -392,7 +392,7 @@ settle in America, thousands of educated and
 opulent Americans have flocked to the cities  
 of Europe and especially selected Paris a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044747:1880061301:0492/pct:239.0461997019374,73.48542075842272,49.254843517138596,21.3929596615803/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044747:1880061301:0492/pct:59.76154992548435,18.37135518960568,12.313710879284649,5.348239915395075/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -470,7 +470,7 @@ raise the salary to what it was. or even
 pay our house rent and taxes. I can live  
 with more decency.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn90050009:00393342924:1884030801:0746/pct:16.639377814162913,78.38718820861678,14.428980761358984,13.350340136054422/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn90050009:00393342924:1884030801:0746/pct:16.63597298956415,78.37608048745926,14.431143851033355,13.351990930990507/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

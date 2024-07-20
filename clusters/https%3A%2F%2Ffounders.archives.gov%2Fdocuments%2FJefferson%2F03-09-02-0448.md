@@ -326,7 +326,7 @@ claim great emoluments, my desire and
 o^ect is to serve an aiSicted portion ot  
 humanity ; my ambition is to secure 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216213:1816072201:0389/pct:2.0830118808825797,4.9607390300230945,34.84030242246567,91.58429561200924/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216213:1816072201:0389/pct:2.0826905276149335,4.960280805468317,34.840069937262165,91.5789149578176/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -404,7 +404,7 @@ would he inconsiderable j for myself, 1 do not
 ®&#x27;*&#x27;1iSr**t emolumenfs, my desire and object is  
 to serve so afflicted portion of humanity; m
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1816072301:1069/pct:6.729304215337735,45.81993569131833,21.609954291518537,41.20578778135048/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1816072301:1069/pct:6.727595836506728,45.812570326314095,21.61081492764661,41.203182768043725/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

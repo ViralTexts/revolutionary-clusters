@@ -172,7 +172,7 @@ pointed to aid him in the administration of hi* department.
   
 It is eviilen ly tlie intention of the con-t tution that th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1833101501:0188/pct:20.735333874020004,26.28717265867732,14.828331981616653,11.262760763426542/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1833101501:0188/pct:20.73253142316529,26.28425607455897,14.830832995449835,11.265209512186102/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -217,7 +217,7 @@ and appointed to aid him in the administration of his de­
 In the same debate, I will refer to (he speech of Mr.  
 Sedgwick, who said—“Suppose, sir, a man becomes in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1834010201:0284/pct:66.76229508196721,58.75426433366348,15.314207650273223,8.880818752063387/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1834010201:0284/pct:66.75317579565633,58.74779929577465,15.316668943222693,8.883509389671362/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -293,7 +293,7 @@ dent. Yet Webb and Mr. Clay contend
 that Mr. Duane’s opinion was para­  
 mouut to that of the President—that i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1834010801:0006/pct:4.970972423802612,50.5993940192333,15.34833091436865,20.168620735081017/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1834010801:0006/pct:4.970972423802612,50.5993940192333,15.366473149492018,20.18179423000922/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -383,7 +383,7 @@ sponsible to the public for (lie conduct of the person he has
 nominated end appointed to aid him in the administration of  
 Ins departments. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1834022501:0375/pct:81.2318339100346,48.26643333697911,14.961937716262975,6.967078639396259/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1834022501:0375/pct:81.22059230556324,48.26115485564304,14.964480118092075,6.969962088072324/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -430,7 +430,7 @@ superintend their conduct, so as to check their excesses.
 Oii the constitutionality of the declaration, I have no  
 manner of doubt.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1834031801:0411/pct:64.07503058311812,56.14512965787753,14.77504417561506,9.904118544345174/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1834031801:0411/pct:64.06632237020929,56.139012964375205,14.777566367672375,9.906671024439845/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -482,7 +482,7 @@ drawn, o&#x27;the danger to liberty and the evils ol an abuse of
 the power ol removal—lhe models after which many of  
 the speeches of the present day seem to be lasbioncd
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1834031801:0411/pct:64.02066059535137,66.52865548049684,14.584749218431426,16.190891261712792/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1834031801:0411/pct:64.01195977167708,66.52140756073646,14.587297272809641,16.19275883356938/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -617,7 +617,7 @@ sike ot advising, being supposed, from their mrluie,bet­
 ter acquaintedwith tin* character of the candidate limn  
 an individual. —••/&lt; is evidently the intention oj the Con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184091:1836031001:0382/pct:4.480088495575221,2.0277597050531337,30.309734513274336,93.76490999783127/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184091:1836031001:0382/pct:4.479469099958523,2.0275398460370813,30.31015254159178,93.75835772886624/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -652,7 +652,7 @@ And again he says:
 dent in doing the Executive duties of his office*he can  
 be displaced, i his makes him responsible to . the grea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184091:1836031901:0398/pct:5.600110619469026,40.289949150708644,15.0304203539823,8.806664502867035/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184091:1836031901:0398/pct:5.599336374948154,40.285590653396795,15.032950827227062,8.80931775566133/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -686,7 +686,7 @@ posed, from their -nature, better acquainted with the
 character of the .candidates than an individual.” * * »  
 “It is evidently the intention ol
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184091:1836031901:0398/pct:5.544800884955753,48.966785675646435,15.071902654867257,8.752569512063182/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184091:1836031901:0398/pct:5.5440342872943456,48.96148853310255,15.074427392967419,8.755228616760421/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -714,7 +714,7 @@ leek their excesses. On the constitution- a
 ity of the declaration, I have no manner of d&lt;  
 jbbt.&quot; tl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_hookandcook_ver03:data:sn88084121:00295861800:1836060701:0093/pct:35.76652601969057,47.012224938875306,16.540084388185655,7.657701711491443/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_hookandcook_ver03:data:sn88084121:00295861800:1836060701:0093/pct:35.76652601969057,47.01548492257539,16.554149085794656,7.657701711491443/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -798,7 +798,7 @@ would lead the eo nmittec beyond the power* as­
 signed to the Le: Llatnrc, he would give it a de­  
 rided negative j but he could not see the least
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215750:1844122401:0400/pct:51.33042096902303,6.302896855432464,30.371326449563146,91.61907383196862/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215750:1844122401:0400/pct:51.325325126576,6.302463189761937,30.37162050365664,91.61506352919591/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -828,7 +828,7 @@ Mr. White, of Virginia, disclaimed with much
 emphasis the proposition ot Mr. Madison, that  
 the Constitution having invented the Piesideti
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215750:1844122401:0400/pct:66.58061953931691,32.11312186059313,15.121127879269261,7.974953553980596/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215750:1844122401:0400/pct:66.57400972897845,32.11091234347048,15.122935901254177,7.976698316590982/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -866,7 +866,7 @@ their excesses. On the Constitutionality of
 the declaration I have no manner of  
 doubt.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774728:1866052401:0604/pct:230.92105263157896,197.7236633139227,50.58479532163743,24.880889359449444/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774728:1866052401:0604/pct:57.7408152074575,49.43091582848068,12.648510327179675,6.220222339862361/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -913,7 +913,7 @@ the power of removing officers to &quot; make him in a
 peculiar manner responsible for their conduct, and  
 subject him to impeachment himself? for defaul
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777651:1868030401:0475/pct:293.57870007830854,335.27357392316645,50.9788566953798,8.265424912689173/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777651:1868030401:0475/pct:73.42342342342343,83.81839348079161,12.749706227967097,2.0663562281722934/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1040,7 +1040,7 @@ United States, or neglects to superintend their con
 duct so as to check their excesses. On the constitu­  
 tionality of the d claration,&quot;--that is, of the remov
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_charlie_ver01:data:sn83045160:00280779532:1877121301:0559/pct:54.498179927197086,173.58741413693772,38.68954758190328,11.433636162198095/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_charlie_ver01:data:sn83045160:00280779532:1877121301:0559/pct:13.62986084016127,43.39685353423443,9.676160749122122,2.8584090405495237/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1056,7 +1056,7 @@ tionality of the d claration,&quot;--that is, of the remov
 &quot;No person can be forced upon him (the Presi­  
 dent) as an assistant by any other branch of the gov
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_charlie_ver01:data:sn83045160:00280779532:1877121301:0559/pct:54.186167446697866,194.99224462663418,38.16952678107124,2.526035896299579/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_charlie_ver01:data:sn83045160:00280779532:1877121301:0559/pct:13.551827285732864,48.748061156658544,9.546104825074782,0.6315089740748947/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1131,7 +1131,7 @@ M r i lymer asked what great danger would
 arise iroiu the rcmotal of a won by man  
 when Ihe Mm ato must lie comulccd in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00414181922:1886030201:0228/pct:68.79188552798406,62.79134682484299,12.29849664915776,5.17794836008374/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00414181922:1886030201:0228/pct:68.79792308156735,62.79599906955106,12.292459095574474,5.187252849499884/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1264,7 +1264,7 @@ displaced but by and with the advice of
 the Senate, the President is lie longer an­  
 swerable for the conduct of the officer.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00414181922:1886031901:0364/pct:3.7807525325615052,47.464866354367594,12.337192474674385,4.712041884816754/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00414181922:1886031901:0364/pct:3.786782440906898,47.47405162119959,12.337192474674385,4.712041884816754/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1291,7 +1291,7 @@ rable for the
 cer.&quot;  
 Mr. Brown cited a number of ex
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_tesla_ver01:data:sn85038614:00175030906:1886031901:0323/pct:7.316323393790348,159.95997050458232,35.951429449738704,19.372168966606974/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_tesla_ver01:data:sn85038614:00175030906:1886031901:0323/pct:2.4387744645967824,53.31999016819411,11.983809816579567,6.457389655535658/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

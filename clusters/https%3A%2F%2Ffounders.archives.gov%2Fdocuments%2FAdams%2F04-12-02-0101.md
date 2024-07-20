@@ -201,7 +201,7 @@ from them, and begs leave to inform them, that
 he ;s still determined to use his utmojl endea­  
 vours to merit their attention and approbation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021193:00517172169:1772022701:0200/pct:91.50453955901426,20.253688129050047,26.826632079550368,18.668137322487247/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021193:00517172169:1772022701:0200/pct:70.9164014072709,15.700242199743553,20.79075221980231,14.47143467730446/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -493,7 +493,7 @@ crush (he vipers yet,
 ?)r nHi&#x27;-Vlr &#x27; rifarMS&#x27; 8l,mn *et&#x27; ,or cnd* corrupt,  
 Or pt.it.y office, cell and betray them.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_iceland_ver01:data:sn84026788:00202192312:1867031201:0351/pct:30.575228882363103,49.28728875826598,13.301088270858525,9.595885378398236/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_iceland_ver01:data:sn84026788:00202192312:1867031201:0351/pct:30.575228882363103,49.29096252755327,13.31836241147003,9.595885378398236/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

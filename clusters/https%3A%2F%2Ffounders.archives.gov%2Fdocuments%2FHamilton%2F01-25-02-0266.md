@@ -775,7 +775,7 @@ paying the interest and redeeming the prin­
 cipal of our public deb, foreign and domef­  
 gic. As o ghe inerélt, and such parts o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802012601:0013/pct:5.56433765412583,21.38716769938037,17.10401517546633,27.6134319408355/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802012601:0013/pct:5.574876172410159,21.38716769938037,17.10401517546633,27.620094609900725/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -835,7 +835,7 @@ confidence” is a fufficient warrant for so
 have been told that there was atleaft a mor.  
 &#x27; statesman. - Nothing less than experimenta
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802012601:0013/pct:5.343028770154916,54.187487507495504,17.48340183370218,28.77273635818509/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802012601:0013/pct:5.353567288439246,54.187487507495504,17.478132574560018,28.786061696315542/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -950,7 +950,7 @@ spoil from that&#x27; source to temipt the rapacity
 of a’ greedy imvader.” Here we fix the  
 chafﬁt‘dffi‘?ow.ﬂfm- financial arrange
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802012601:0013/pct:23.74328169459374,16.60003997601439,17.23047739487828,59.51429142514491/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802012601:0013/pct:23.748550953735904,16.603371310547004,17.23047739487828,59.52428542874276/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1151,7 +1151,7 @@ ry vo app;opri te to** 1 tr j;e i n -rtion of thtfu&#x27;-ff
 i*»jr *f labor. To j;u trd aga r.ii fo u ifori-joal*  
 fV
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1802030101:0762/pct:46.740535549399816,13.936671414484497,44.30286241920591,81.19864139366715/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1802030101:0762/pct:46.73190546528804,13.935144609991235,44.29929837518464,81.19248466257669/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1195,7 +1195,7 @@ Bet ween the two let the worfhippers of the Idol
 make their opinion.  
 LUCIUS CRASSUS.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1802030101:0763/pct:9.688952449052556,6.346997752327946,21.809081158383982,20.892646901423525/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1802030101:0763/pct:9.68722073279714,6.346318493150685,21.80965147453083,20.89308647260274/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

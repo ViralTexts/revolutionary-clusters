@@ -129,7 +129,7 @@ him down as a (peat scoundrel onlj .
   
 I&#x27;rom tfie lioston Sialism art
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1830061401:0759/pct:83.85222083852221,27.252970153578673,14.61187214611872,6.128658359895683/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1830061401:0759/pct:83.83482050217887,27.2490221642764,14.61402780659888,6.131392148341301/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -165,7 +165,7 @@ however, 1 sat him down as a great
 scoundrel only.-—Bost. Cent.  
 INFORM A Tl OTf WANTED
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn87062070:0039334295A:1830063001:0060/pct:75.39071098393133,74.23956931359353,17.785604226282192,15.289367429340512/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn87062070:0039334295A:1830063001:0060/pct:75.37411971830986,74.22957879154892,17.789025821596244,15.291795630915534/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -182,7 +182,7 @@ By Samuel M Wolfe—Andrew Jackson,—a lion in tba
 field,—in civil life, a cold blooded calculating tyrant;—no states  
 man, knowing nothing of poldical economy or civil govern
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830072301:0244/pct:40.84281365165839,31.665671641791043,17.46514981573466,1.492537313432836/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830072301:0244/pct:40.83627042614547,31.66189111747851,17.46769197906654,1.4963387456224133/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -255,7 +255,7 @@ James Harper, of the firm of Harper
 de Brothers, has been nominated bv the  
 Native American party of New York, a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040303:00514151325:1844041601:0121/pct:55.90517849583745,86.5131936149419,12.642867221673487,8.035617330871974/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040303:00514151325:1844041601:0121/pct:55.90988194346456,86.5131936149419,12.642867221673487,8.039236978318312/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -291,7 +291,7 @@ scale, and not that of petty academic.’’
 No man ever had a more independent and  
 self-relying mind, no man ever walked with 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn84035804:00383347257:1855081101:0227/pct:36.832797427652736,10.75256290773532,14.533762057877814,11.637931034482758/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn84035804:00383347257:1855081101:0227/pct:36.838156484458736,10.75256290773532,14.533762057877814,11.649580615097857/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -328,7 +328,7 @@ but chiefly by the adoption and incor­
 poration of his whimsies into the body  
 of artificial Christianity. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_fairbury_ver01:data:sn96080161:00206539215:1898110301:0252/pct:60.66933638443936,16.046606704824203,66.39016018306636,109.03515944399018/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_fairbury_ver01:data:sn96080161:00206539215:1898110301:0252/pct:45.53520320549514,12.040065412919052,49.828277046365194,81.78659035159444/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

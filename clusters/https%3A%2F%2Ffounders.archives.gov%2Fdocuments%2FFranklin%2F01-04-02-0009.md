@@ -283,7 +283,7 @@ iiezv chvrch here.”
 AXECDOT* OF MARSHAL Tt’RRENE,  
 • It was well know n of this hero that hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216249:1819030101:0744/pct:8.135059482155354,33.492511395702195,18.124562631210637,20.512263946168872/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216249:1819030101:0744/pct:8.13363652265174,33.48887683125339,18.12722290245467,20.51365527220112/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

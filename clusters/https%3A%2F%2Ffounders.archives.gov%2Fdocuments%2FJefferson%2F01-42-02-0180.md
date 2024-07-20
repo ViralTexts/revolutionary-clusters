@@ -41,7 +41,7 @@ City of WASHINGTON.
 the outer and party-walls of all  
 A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791102901:0001/pct:61.90914671577655,19.35483870967742,28.05402087170043,6.039009752438109/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791102901:0001/pct:61.91682013505218,19.35952738184546,28.06169429097606,6.048387096774194/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -85,7 +85,7 @@ biitk or ffone h &gt;vie.
 Givkn un-fenny hand, 28th  
 Dei ember, 1
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804010201:0003/pct:40.79244508314515,57.39238069041397,17.77869020734962,21.358822720396095/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804010201:0003/pct:40.79928830493396,57.39696511254756,17.78553342913844,21.354238298262505/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -154,7 +154,7 @@ Givi&#x27;.N under my hand, 28th
 D.-iember, I 802.  
 __* TH: JRPYERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804010401:0004/pct:40.957102823884455,9.796975064722714,17.999568872601852,39.22877776263796/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804010401:0004/pct:40.971473737155996,9.806058954444293,17.992383415966085,39.22877776263796/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -223,7 +223,7 @@ Given under my hand, 28th
 December,! 1803.  
 TH : JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804010601:0004/pct:41.799566843866906,46.99787460148778,16.853711360504036,38.403294367693945/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804010601:0004/pct:41.799566843866906,47.006730428622035,16.86683730393122,38.40772228126107/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -291,7 +291,7 @@ brick or ftone houfe.
 Given under my hand, 23th  
 December, 1803
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804010901:0004/pct:78.84818970993012,33.09569509185632,18.568706330721998,39.27885933644091/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804010901:0004/pct:78.85524737102125,33.10026505803857,18.575763991813112,39.29256923498766/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -332,7 +332,7 @@ tion of the faid articles, has
 pended hy feveral a&amp;3 ox the  
 oi&#x27; the United States from th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804011801:0004/pct:59.96810207336523,2.9925187032418954,17.105263157894736,19.14949468434178/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804011801:0004/pct:59.96810207336523,2.9968937305858163,17.105263157894736,19.16261976637354/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -401,7 +401,7 @@ Givkn under my banc7, 28th
 ember, 1803.  
 TH: JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804012701:0004/pct:76.18954758190327,44.334912303162206,17.004680187207487,36.640635001920366/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804012701:0004/pct:76.18954758190327,44.334912303162206,17.01118044721789,36.65343745999232/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -461,7 +461,7 @@ day of J.uuiaiy, in the year one tin v­
 •bl • iii otl er ntpecls to the regulations  
 I aforef id lhall he conhdered a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804013001:0004/pct:74.7265625,47.908843713582804,17.36328125,30.920626699469118/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804013001:0004/pct:74.73958333333333,47.91747593767534,17.350260416666668,30.91631058742285/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -511,7 +511,7 @@ bl in ot er rt fords to tli ■egula&#x27;.iois
 ftforefaid fhall be c (nfideied as la -fully •  
 erect-d, except tbat n &lt; wooden h«uf
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804020101:0003/pct:76.86370099532805,63.15859147471538,18.2205971968312,25.284617421233783/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804020101:0003/pct:76.87047193445731,63.16741682111023,18.234139075089715,25.289030094431208/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -580,7 +580,7 @@ Givk.n under my hand, 28th
 December, 1802.  
 TH: JEI-i-EHSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804020301:0003/pct:75.01534683855125,55.98507064782724,17.086146920401063,37.856571580911755/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804020301:0003/pct:75.01534683855125,55.98507064782724,17.086146920401063,37.86990135963743/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -649,7 +649,7 @@ Givkn under my hand, 28th
 December, 180.1.  
 TH: JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804020601:0001/pct:4.429232937386753,48.227523925057284,17.21360982484397,38.57662757784068/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804020601:0001/pct:4.435943896382793,48.227523925057284,17.22032078384001,38.59010648335355/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -718,7 +718,7 @@ Given under my land, 23th
 December, ISC&#x27;..  
 TK: JEFFERSON*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804021501:0004/pct:77.04272494585548,40.344781504744084,17.030911596771016,38.807964720032075/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804021501:0004/pct:77.04928791756907,40.344781504744084,17.024348625057424,38.807964720032075/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -787,7 +787,7 @@ I Given under my band, 28th
 December, 1803.  
 TH : JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804022001:0002/pct:24.00167259042442,56.096893389900096,18.440309429228517,39.86588203092925/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804022001:0002/pct:24.00167259042442,56.101455225582775,18.440309429228517,39.87044386661192/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -854,7 +854,7 @@ houfe be placed within 24 feet of any
 buck or ftone houfe.  
 Givkn under my band, 28t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804022201:0002/pct:59.898812142542894,24.102066287616143,19.13770347558293,38.73249202607128/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804022201:0002/pct:59.898812142542894,24.111311422363983,19.15236838246077,38.74173716081912/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -877,7 +877,7 @@ vided &quot; tfut the outer and party wal&#x27;s of all
 houfes in the laid city shall be hui t of briik or  
 , stone&quot; and by the third article of the lam
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806041801:0004/pct:59.53155497722837,5.3776354416866825,18.564302754283236,5.644515612489992/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806041801:0004/pct:59.53155497722837,5.3776354416866825,18.57876093399841,5.657859621030157/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -933,7 +933,7 @@ ii el:; to the
 that no w  
 ,i three hundre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809032901:0004/pct:6.354581673306773,38.94337648751144,16.593625498007967,23.434026415587812/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809032901:0004/pct:6.367861885790172,38.94337648751144,16.593625498007967,23.434026415587812/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

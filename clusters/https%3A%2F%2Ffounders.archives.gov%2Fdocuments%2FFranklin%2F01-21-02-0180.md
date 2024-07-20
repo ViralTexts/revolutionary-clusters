@@ -152,7 +152,7 @@ We are with unfeigned cftecm and regard, gentlemen, &amp;c.
 By oidei and in behalf of the c -ngrefs,  
 HENRY MIDDLETON, President
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1774120101:0671/pct:37.91829639287266,21.824104234527688,27.879182963928727,22.85559174809989/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1774120101:0671/pct:29.386998989558773,16.913852950457557,21.61221511170989,17.723782476070262/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -197,7 +197,7 @@ To Paul Wentworth, Efg; Dcé.r Benjamin Franklin, William
 Bollen, Esq; Doftor Arthur Lee, Thomas Life, Esq; Ed­  
 mund Burke, Esq; Charles Garth, Efg
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774120901:0366/pct:6.463793869391382,14.538369304556355,27.898711683696135,21.822541966426858/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774120901:0366/pct:6.47119798608026,14.538369304556355,27.91351991707389,21.832533972821743/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -419,7 +419,7 @@ America to know, We are, with
 unfeigned esteem and regard, Gentlemen.  
 The committee to whom the address to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775022401:0407/pct:9.3573599652627,3.429087080764025,28.22405557967868,51.722063468190704/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775022401:0407/pct:9.364596902590824,3.43410036596982,28.245766391663047,51.7270767533965/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

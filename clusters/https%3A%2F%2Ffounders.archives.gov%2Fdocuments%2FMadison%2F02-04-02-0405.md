@@ -184,7 +184,7 @@ Ecrpr. .
 To which is fubjoined, A fketch of that  
 country and its means of defence. &#x27; Illuftratc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803100301:0004/pct:41.37725739233975,71.9509010185427,17.52331811867434,17.22381822930269/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803100301:0004/pct:41.37725739233975,71.95525376512579,17.536548256929287,17.232523722468876/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -251,7 +251,7 @@ TO WHICH IS SUBJOINED,
 A sketch of the present elate of that coun­  
 try, and ite means of defence
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1804010601:0195/pct:27.542950640850833,81.11716142631302,18.925552222525226,7.324784823467416/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1804010601:0195/pct:27.535441657579064,81.10291534949069,18.92720828789531,7.327889005971198/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

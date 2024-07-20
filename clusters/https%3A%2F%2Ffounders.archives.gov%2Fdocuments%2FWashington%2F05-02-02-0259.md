@@ -44,7 +44,7 @@ Beyond this, nothing is necessary, or will be of any
 avail to them in my d-cisions.&quot;  
 In another letter, written while President of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1839062901:0969/pct:67.14527027027027,46.9625059326056,15.89527027027027,5.671570953962981/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1839062901:0969/pct:67.14527027027027,46.970416073406106,15.89527027027027,5.671570953962981/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -93,7 +93,7 @@ beg you will be persuaded madam, that let the result
 be whatever it may, I can have no interest to promote  
 but that of the public
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271742988:1848122601:0739/pct:63.265306122448976,50.6577455205262,50.072312389522736,39.65751871172601/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271742988:1848122601:0739/pct:21.08843537414966,16.88591517350873,16.69077079650758,13.219172903908671/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -152,7 +152,7 @@ time, I be? you will be persuaded, mndam, that let
 the result tie whatever It may, I can have no Interest  
 to promote but that of the public
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82014405:00415660935:1849010101:0019/pct:2.3431594860166287,41.143028126870135,13.435374149659864,14.811490125673249/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82014405:00415660935:1849010101:0019/pct:2.3557571176618795,41.143028126870135,13.44167296548249,14.816477159385597/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -206,7 +206,7 @@ madam, that l«-t the result he whatever it may.
 I can hare no interest topiornote but that of the  
 public
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215816:1849010101:0516/pct:56.80746656403348,5.3746042912416465,26.296545751948425,91.3330988392543/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215816:1849010101:0516/pct:56.80200115451222,5.374226223972988,26.297222756718618,91.32901894578879/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -234,7 +234,7 @@ We learn, that the Senate has confirmed the Postal
 Treaty with Great Hrituin; and the nomination of  
 Lewis Cass, jr., na Charge det A/fairs to the Mate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82014405:00415660935:1849010801:0038/pct:44.206257242178445,12.983714328402808,13.615295480880649,7.500373524577917/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82014405:00415660935:1849010801:0038/pct:44.21269473413158,12.983714328402808,13.608857988927515,7.515314507694606/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -265,7 +265,7 @@ produce. Beyond this, nothing with mo
 is necessary or will be ot auy avail to  
 them in my decisions.&quot; Iu November
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_felice_ver01:data:sn87052128:00200292182:1877042001:0543/pct:78.92561983471074,39.79498164014688,23.163452708907254,5.553855569155447/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_felice_ver01:data:sn87052128:00200292182:1877042001:0543/pct:59.246496668963935,29.850061199510403,17.39030553641167,4.1768665850673194/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -306,7 +306,7 @@ acting only with reference to the
 public good, I must be allowed to de­  
 cide upon all points of my duty wit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588265:1877042801:0066/pct:82.58695157990452,58.93719806763285,18.14048647419868,5.8126850553218015/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588265:1877042801:0066/pct:64.00634249471459,45.68438003220612,14.070941977918721,4.508856682769726/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -328,7 +328,7 @@ Beyond this nothing with me is nec­
 essary or will be of any avail to them  
 in my decisions.” In November
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588265:1877042801:0066/pct:82.60968401909525,65.40439457690509,18.163218913389407,6.56069814555088/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588265:1877042801:0066/pct:64.03570589617101,50.68840579710145,14.070941977918721,5.092592592592593/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -355,7 +355,7 @@ ing with me is necessary or will be of any
 avail to them in my decisions.&quot; In No­  
 vember, 1789, lie writes to Joseph Jones
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_duwamish_ver01:data:sn87093109:00200290975:1877062101:0169/pct:42.285714285714285,28.617075664621677,16.36190476190476,7.809304703476482/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_duwamish_ver01:data:sn87093109:00200290975:1877062101:0169/pct:42.29206349206349,28.621336059986366,16.38095238095238,7.809304703476482/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -381,7 +381,7 @@ plicants to produce. Beyond this, noth­
 ing with me is necessary or will be of any  
 avail to them in my decisions.&quot; In 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn84022761:no_reel:1877062901:0395/pct:117.30134932533733,82.4015748031496,49.29535232383808,21.10236220472441/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn84022761:no_reel:1877062901:0395/pct:39.100449775112445,27.46719160104987,16.431784107946026,7.034120734908137/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -409,7 +409,7 @@ produce. Beyond this, nothing with
 me is necessary or will be of any avail  
 to them in my decisions.” In Novem
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_carrie_ver01:data:sn85033295:00271768795:1877082201:0291/pct:35.18446095685048,25.1937984496124,14.026854386651022,7.292230034252749/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_carrie_ver01:data:sn85033295:00271768795:1877082201:0291/pct:35.18880632685873,25.196803076738178,14.039890496675792,7.295234661378523/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -437,7 +437,7 @@ produce. Beyond this, nothing with
 me is necessary or will be of any avail  
 to them in my decisions.” In Novem
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271769453:1877082301:0222/pct:67.15705765407554,66.02455334863758,12.14049039098741,6.807066573510331/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271769453:1877082301:0222/pct:67.16589352772256,66.03120737265861,12.144908327810912,6.807066573510331/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -474,7 +474,7 @@ qualified to discharge the functions of
 tbe departments to which they shall  
 be appointed.&quot; Citizen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_eiffel_ver02:data:sn85038603:00295877868:1881031201:0135/pct:107.82469836763663,53.70907583920431,13.76863023420866,15.872358060505595/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_eiffel_ver02:data:sn85038603:00295877868:1881031201:0135/pct:80.90166844160454,40.281806879403234,10.33013844515442,11.907722061058157/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

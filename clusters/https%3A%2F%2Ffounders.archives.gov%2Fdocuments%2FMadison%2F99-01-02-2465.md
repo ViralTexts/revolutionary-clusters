@@ -174,7 +174,7 @@ another&#x27;s capital, may sink, /and wid not
 tluabejust* Is the man an object of com­  
 /
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1807123101:0298/pct:76.73202614379085,36.76583739420364,17.77777777777778,59.3998461143883/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1807123101:0298/pct:76.7176997759522,36.76112322092576,17.78068210107045,59.396503825276746/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -256,7 +256,7 @@ ate n not to submit to every belligerent im­
 position as unequivocally as our boldest ef­  
 fvrts at direct retaliation.** A&#x27;at. hit.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1807123101:0299/pct:6.119043204153533,2.2941626306398164,18.023363619506767,38.65664032628091/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1807123101:0299/pct:6.117908787541713,2.2938702688925705,18.026201952787048,38.655961938745165/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -423,7 +423,7 @@ will manifest our determination not to submit to
 every l.elligr rent imposition as unequivocally as our  
 boldest efforts at letaliadon.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808010101:0907/pct:51.771047227926076,4.24611440474283,45.2258726899384,94.53613203012338/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808010101:0907/pct:51.75776238131896,4.2454341557193205,45.22068257634078,94.52499198974688/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -621,7 +621,7 @@ rletermination not to s ibmit to every belli­
 gerent imposition as unequivocally as our  
 boldest efforts at direct retaliation.*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808010101:0009/pct:22.38470191226097,3.5691523263224982,36.29546306711661,91.79094964945826/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808010101:0009/pct:22.380506091846296,3.5686974254397144,36.2949078412996,91.78349902285666/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -904,7 +904,7 @@ tion&#x27;not to submit to every belligerent impo=
 - fition as unequivoealy as our boldest cfforts  
 2 dired) eeatiibgp .ﬁial 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808011201:0005/pct:57.16036146423648,11.044297454399679,34.06340940419666,84.32551613549809/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808011201:0005/pct:57.165466891305456,11.047638137235252,34.058303977127686,84.32885681833366/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

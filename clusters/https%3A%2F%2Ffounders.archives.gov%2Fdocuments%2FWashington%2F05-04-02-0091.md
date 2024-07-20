@@ -49,7 +49,7 @@ eonfifting of Mr. Boudinot, Mr.Sherman and
 Mr. Silvester.  
 A bill to provide for the payment of the mili
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789092601:0003/pct:5.594610427650849,66.19718309859155,25.2489748096075,10.068519223448801/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789092601:0003/pct:5.601933216168717,66.20194137799771,25.263620386643233,10.073277502854967/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -244,7 +244,7 @@ our Lord one thtufend seven hundred and
 eighty-nine.  
 G. WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789100701:0001/pct:4.392386530014641,13.989341454130187,26.207906295754025,64.54130186524553/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789100701:0001/pct:4.392386530014641,14.003616292348687,26.215226939970716,64.54130186524553/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -281,7 +281,7 @@ stitution as last amended by the House,
 in which the Senate has concurred.—  
 Alfe, the bill for altering the time o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789101501:0473/pct:28.14457831325301,41.73393606716177,21.373493975903614,19.05069422021311/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789101501:0473/pct:28.160642570281123,41.74469917124099,21.365461847389557,19.0453126681735/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -369,7 +369,7 @@ GIVEN under my Hand, at the city of
 Neaw-York, the third day of Otober, in  
 the Year of our Lord one thousand Jeve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789102201:0477/pct:5.609051516610496,14.675155076722168,21.786230139624458,63.71204701273262/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789102201:0477/pct:5.609051516610496,14.680596365219284,21.80227892794094,63.722929589726846/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -587,7 +587,7 @@ ty with which we are bleljed, and the means we have of acquiring ufefut
 know lege ; and for all the great and various favors which he hath beat  
 pleased to confer itpon us&quot;—A duty so rational, and Co conc&gt;acivc t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789112501:0003/pct:60.11286011286011,47.674418604651166,26.165726165726166,8.063286313381624/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789112501:0003/pct:60.12771012771013,47.68394967594357,26.165726165726166,8.063286313381624/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -613,7 +613,7 @@ especially by affording them an opportunity to
 establish a form of government for their fafety  
 and happiness.&quot; On this solemn occafiondivin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789121901:0002/pct:72.59736620902214,28.607301525980297,22.89156626506024,9.542205910759128/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789121901:0002/pct:72.60437097226114,28.607301525980297,22.905575791538247,9.56152211705621/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -663,7 +663,7 @@ The appointment was constitutionally sulpect to
 the assent of the Senate. The removal was thell  
 settled to be in the powe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530182:1843052201:0288/pct:54.338998345615884,42.37922077922078,49.34576628064371,32.07272727272727/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530182:1843052201:0288/pct:18.112999448538627,14.126406926406926,16.44858876021457,10.690909090909091/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -802,7 +802,7 @@ prosperity as he alone knows to be best.
 Given under my hand, at the city of New York,  
 the 3d day of October, in the year of our Lord
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182963:1845100901:0126/pct:58.28510182207931,13.469608772167321,17.59914255091104,27.792067144984433/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182963:1845100901:0126/pct:58.272610372910414,13.467785598267461,17.600728675525076,27.79168922577152/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -883,7 +883,7 @@ year of our Lord, one thousand seven
 hundred and eighty-nine.  
 GEORGE WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1845100901:0534/pct:40.21469859620149,176.67228780213603,57.55573905862923,157.56042720629569/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1845100901:0534/pct:10.057827344072697,44.16807195053401,14.39487814952499,39.39010680157392/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1222,7 +1222,7 @@ year of our Lord one thousand seven
 hundred and eighty nine.  
 GEORGE WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn86053954:0023728236A:1846121001:0592/pct:73.99815043156597,39.580507148074716,23.736128236744758,59.52207033288114/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn86053954:0023728236A:1846121001:0592/pct:55.528141865844255,29.687989147448608,17.810331534309945,44.64155274966086/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1295,7 +1295,7 @@ to he best.
 Given tinder my hand, at the city rf New Yotk,  
 j the 3d day of October, in the year of our L»»r
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_emeralds_ver02:data:sn85025007:00414215786:1847012501:0247/pct:63.03600323624595,16.37735849056604,15.22046925566343,28.960548885077188/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_emeralds_ver02:data:sn85025007:00414215786:1847012501:0247/pct:63.02962888057438,16.376234906695938,15.2223008730239,28.960848884010247/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1328,7 +1328,7 @@ many and signal lavors ot Almighty God hestow­
 upon us as a people; ami tspeeially lor the  
 tranquility, peace an) plenty we have enj yed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664308:1849020601:0483/pct:58.185641333733855,68.09565470982794,13.5626314208471,3.878681831437737/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664308:1849020601:0483/pct:58.185641333733855,68.1021353812255,13.5726444377691,3.8754414957389587/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1350,7 +1350,7 @@ favors which he has been pleased to confer upon
 us.  
 Mr. BEIRNE ot Monroe, from the committe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664308:1849020601:0483/pct:58.260738960648844,72.20764071157772,13.50255331931511,3.441236512102654/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664308:1849020601:0483/pct:58.27075197757084,72.20764071157772,13.49754681085411,3.4477171835002105/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1383,7 +1383,7 @@ and in general for all the great and various |
 favors which he ha&gt; been pleased to confer j  
 upon its. _
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215816:1849020801:0648/pct:17.291236352906463,83.5294941852319,13.327431887479099,9.072439400308253/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215816:1849020801:0648/pct:17.289535798583792,83.52364273204904,13.329399423026489,9.074138937536485/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1405,7 +1405,7 @@ acquiring and diffusing useful knowledge; and in
 Ksnernl tor all the great and various l.tvora which  
 e has beer pleased to confer upon us
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183724:1849021401:0239/pct:4.290909090909091,6.966065628849815,14.516363636363636,4.020607010863478/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183724:1849021401:0239/pct:4.290285049447353,6.96528555431131,14.519100252084545,4.023889511011571/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1524,7 +1524,7 @@ effent author of all the good that was, that is, that will
 be. That we then all unite in rendering unto Him our  
 sincere and humble thanks for His kind care and prote
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347934:1850121201:0548/pct:320.9646052119798,348.7256824008445,61.16297160637884,37.83743025184739/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347934:1850121201:0548/pct:80.2255492902975,87.16827503015682,15.287769784172662,9.457931242460797/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1557,7 +1557,7 @@ sins; to enable us all, whether i
 tiis, to perform our several a  
 and prudently; to render our national
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347934:1850121201:0549/pct:20.69636257537444,16.422641509433962,60.319004084808405,37.38867924528302/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347934:1850121201:0549/pct:5.173084402956048,4.105040748566254,15.076818358615325,9.345759130697253/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1679,7 +1679,7 @@ Winver Can VentiLaTion.—lt ie
 sla‘ed that eeveral cars are now run­  
 ning on the Camden and Amboy and tl 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021169:00514152792:1853120801:0207/pct:19.32173136992414,11.018418201516793,12.806782686300759,35.655471289274104/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021169:00514152792:1853120801:0207/pct:19.326689473945162,11.02202961357891,12.811740790321782,35.659082701336224/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1699,7 +1699,7 @@ he would recommend to the people of the United State* a
 acknowledging with grateful henri* the muny signal fa­  
 vor* of Almighty God, especially by aHwrding the cir
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854011501:0073/pct:1.4994232987312572,66.8200408997955,15.32377656945131,2.9396728016359917/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854011501:0073/pct:1.5104080848025485,66.82856169052488,15.32377656945131,2.935412406271302/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1770,7 +1770,7 @@ be best.
 Given under my hand, at the city of New York,  
 the third day of October, in the year of our Lord on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202190959:1854070601:0016/pct:108.70495897252944,106.72853828306265,42.98965394220478,60.9842471608255/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202190959:1854070601:0016/pct:36.234986324176475,35.57617942768755,14.329884647401594,20.328082386941833/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1878,7 +1878,7 @@ Given under my hand, at the city of
 New York, the 31 day of October,  
 in the year of our Lord, o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82016350:00202191344:1858111001:0071/pct:327.02464788732397,51.98655520124106,49.647887323943664,148.8235801085926/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82016350:00202191344:1858111001:0071/pct:81.7651590183779,12.996638800310265,12.413337735226147,37.20589502714815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1970,7 +1970,7 @@ hundred and eighty-nine.&quot;
   
 G. WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85026309:00280775897:1863110401:0356/pct:45.13542409123307,22.86533698344414,16.58945117605132,81.12371268413506/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85026309:00280775897:1863110401:0356/pct:33.8680926916221,17.15552079259549,12.459893048128341,60.8395254855951/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2075,7 +2075,7 @@ hundred and eighty-nine.
   
 G. WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775605:1863112501:0202/pct:14.893617021276595,29.33293178738142,52.81155015197568,130.34181599156753/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775605:1863112501:0202/pct:3.7241117233517005,7.333232946845355,13.205396161884856,32.58545399789188/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2556,7 +2556,7 @@ rsew lorsr, Uotober dd, in the year
   
 &#x27; of our J.ord IWV: 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn85033673:00280779398:1871121101:1155/pct:37.94861337683523,31.021681021681022,15.293637846655791,41.713691713691716/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn85033673:00280779398:1871121101:1155/pct:28.47236385886192,23.26997326997327,11.482765653681419,31.28898128898129/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2713,7 +2713,7 @@ Given under my hand, at the city of
 New York, October 3d, in the year  
 of our Lord 1789
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477862:1871122001:0108/pct:18.05993690851735,83.16944563203648,45.504731861198735,147.47042895824427/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477862:1871122001:0108/pct:4.516765285996056,20.79236140800912,11.380670611439843,36.86760723956107/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2858,7 +2858,7 @@ as lie alone knows to he best.
 Given under my hand, at. the fitv of New  
 York, the third day of October, in the year o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_asburypark_ver01:data:sn84026089:00514155860:1872112601:0041/pct:6.013137948458818,16.79750947482404,12.009432373252485,26.773145641580943/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_asburypark_ver01:data:sn84026089:00514155860:1872112601:0041/pct:6.012125294712024,16.795236161862228,12.011620074099023,26.77290567059142/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2951,7 +2951,7 @@ M (iiven under my hand, at the city of
 New York, the third day of October, in  
 the year of our Lord one thousand seve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_gaylord_ver02:data:sn85033781:00296023747:1873112101:0268/pct:118.69422962522309,13.481404958677686,21.653777513384888,53.02685950413223/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_gaylord_ver02:data:sn85033781:00296023747:1873112101:0268/pct:79.15798869384112,8.987603305785123,14.445105623326391,35.35123966942149/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3185,7 +3185,7 @@ Given under my hand, at the city of
 New York, the third day of Ootober, in  
 the year of our Lord one thousan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026259:00280776087:1874111901:0386/pct:23.547345767575322,10.893663610236759,15.835724533715926,45.51799644176817/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026259:00280776087:1874111901:0386/pct:17.674502063520546,8.17024770767757,11.878700879239188,34.14534008485014/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3383,7 +3383,7 @@ York, the third day of October, in the year of
 our Lord, one thousand seven hundred and  
 eighty-nine. George Washington.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_engledinger_ver02:data:sn85033123:00514151258:1875111801:0217/pct:50.72034468829945,58.48368332840383,14.110677258650869,27.762989253672483/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_engledinger_ver02:data:sn85033123:00514151258:1875111801:0217/pct:50.72034468829945,58.48696966709389,14.124141645348054,27.77284826974268/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3756,7 +3756,7 @@ of our Lord, one thousand seven hundred
 and eighty-nine.  
 GEORGE WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777043:1876120801:0626/pct:256.5034965034965,143.60698125404008,39.16083916083916,103.73626373626374/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777043:1876120801:0626/pct:64.14830360265827,35.90174531351002,9.793634137810423,25.934065934065934/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3785,7 +3785,7 @@ _His second proclamation, dated at
 . 26, as a day to be observed fora general  
 | thanksgiving by the people of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_fleshgolem_ver02:data:sn92063989:00514153553:1881110501:0437/pct:13.66800253111158,16.398740470666226,10.177177810588484,6.413655949618827/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_fleshgolem_ver02:data:sn92063989:00514153553:1881110501:0437/pct:13.66800253111158,16.40426472213015,10.180693243338254,6.419180201082753/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3811,7 +3811,7 @@ the city of Philadelphia, January I,
 26, as a day to be observed for a gen­  
 eral Thanksgiving by the people of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477874:1881112301:1032/pct:137.45113369820172,254.2421627840092,39.32759968725567,21.627840092033363/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477874:1881112301:1032/pct:34.382945433209464,63.5605406960023,9.837668687658908,5.406960023008341/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3839,7 +3839,7 @@ the city of Philadelphia, January 1,
 2G, as a day to be observed for a general  
 thanksgiving by the people of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00202194047:1881112301:0230/pct:33.0506360688451,5.825242718446602,11.324519830381641,6.102635228848821/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00202194047:1881112301:0230/pct:33.058950694271225,5.831021729079981,11.32036251766858,6.0997457235321315/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3918,7 +3918,7 @@ grant unto mankind such degree of tempor­
 al prosperity as He alone knows to be best.”  
 If the United States had cause for thank
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_farmington_ver01:data:sn83016025:00279525516:1881112401:0303/pct:61.778420968001285,52.953181272509006,10.82167551053224,12.41296518607443/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_farmington_ver01:data:sn83016025:00279525516:1881112401:0303/pct:61.768488745980704,52.94682511103109,10.82395498392283,12.414476053294923/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3986,7 +3986,7 @@ ious liberty with which we are blessed,
 rious favors which He has been pleased  
 to confer upon ub.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00279529613:1883042601:0072/pct:16.819620253164558,56.634104117719794,10.775316455696203,10.758006677383454/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00279529613:1883042601:0072/pct:16.816959341876284,56.6271018793274,10.777566840689765,10.759767556874381/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4077,7 +4077,7 @@ the year of our Lord one thousand seven
 hundred eighty-nine.  
 G. WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_dungeness_ver03:data:sn83045611:00202198909:1883112901:0010/pct:99.46409431939979,154.0402318445278,44.78640330730363,124.68462325264234/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_dungeness_ver03:data:sn83045611:00202198909:1883112901:0010/pct:24.866023579849948,38.51005796113195,11.196600826825907,31.171155813160585/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4120,7 +4120,7 @@ constantly being a government of wise,
 just and constitutional laws, discreetly  
 and faithfully executed and obeyed.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn86071719:00280777687:1885112501:1374/pct:202.59067357512953,79.30740845869997,57.340241796200345,12.035197275049674/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn86071719:00280777687:1885112501:1374/pct:50.64766839378238,19.826852114674992,14.335060449050086,3.0087993187624185/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4169,7 +4169,7 @@ giving for victory in ltj-JC and 1SC3 and
 in the laterycar and in 1SG1 he issued  
 national proclamations of Thanksgivin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029838:00237283119:1888112901:0066/pct:11.155913978494624,78.71506920867067,14.230510752688172,11.439018020370854/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029838:00237283119:1888112901:0066/pct:8.36834145521761,59.036301906503006,10.687279448832129,8.579263515278141/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4208,7 +4208,7 @@ appeared in Monday’s American.
 There is blood on the moon and the  
 end is not yet, for the savory smel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_belair_ver01:data:sn89060136:00279522552:1888113001:0223/pct:45.472103004291846,7.0699600650791306,38.047210300429185,114.03638515012572/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_belair_ver01:data:sn89060136:00279522552:1888113001:0223/pct:35.25139974499695,5.48677976463396,29.49165696546372,88.38071221152377/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4230,7 +4230,7 @@ great and glorious Being who is the
 beneficent Author of all the good that  
 was, that is, or that will be.&quot; Presiden
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_hufnagel_ver02:data:sn96061150:00200298111:1889111901:0466/pct:26.85355392156863,16.43533123028391,18.33639705882353,4.2691903259726605/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_hufnagel_ver02:data:sn96061150:00200298111:1889111901:0466/pct:17.91296353049341,10.95688748685594,12.22801103279191,2.8496319663512093/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4256,7 +4256,7 @@ an opportunity peacefully to establish a
 constitution of government for their 6afety  
 and happiness.&quot; On the od day of Octobe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_ashbel_ver01:data:sn82015679:00295870369:1889112701:0266/pct:106.48711943793911,44.23575129533679,18.466042154566743,6.387629533678757/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_ashbel_ver01:data:sn82015679:00295870369:1889112701:0266/pct:79.88990395877255,33.17681347150259,13.855703911923166,4.7927461139896375/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4328,7 +4328,7 @@ Given under my hand, at the city of New York,
 the 3d day of October, in tho year of our Lord  
 17H). George Wasuingtox
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_ashbel_ver01:data:sn82015679:00295870369:1889112701:0266/pct:106.288056206089,52.185880829015545,18.407494145199063,27.29922279792746/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_ashbel_ver01:data:sn82015679:00295870369:1889112701:0266/pct:79.73764347622394,39.1434585492228,13.808854532677442,20.474417098445596/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4564,7 +4564,7 @@ the third Day of October, in the year of our
 Lord One Thousand, Seven hundred and eighty  
 nine. G. WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_blackhole_ver01:data:sn90050094:00513687886:1889120701:0695/pct:9.04716073147257,4.957827607488171,57.94032723772859,90.08434478502366/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_blackhole_ver01:data:sn90050094:00513687886:1889120701:0695/pct:9.04716073147257,4.957827607488171,57.9510212811464,90.09120208461907/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4665,7 +4665,7 @@ humbly to implore His protection and
 favor; and whereas, by virtue of  
 authority vested in me at the last
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_johns_ver01:data:sn92073049:00295879270:1890090201:0289/pct:65.54997208263539,33.48792270531401,19.52819653824679,6.599033816425121/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_johns_ver01:data:sn92073049:00295879270:1890090201:0289/pct:49.17620776319464,25.120772946859905,14.66070929907847,4.946859903381642/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4787,7 +4787,7 @@ lork. the third Day of October, in tho vear of
 our Lord Ono Thousand, Se ven Hundred and  
 eighty nine. G. Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_otterhound_ver01:data:sn83045462:00280654784:1890112201:0447/pct:16.764898493778652,39.80158261485768,13.588736083824493,27.081610960198418/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_otterhound_ver01:data:sn83045462:00280654784:1890112201:0447/pct:16.768991486574983,39.81044053383725,13.592829076620825,27.090468879177987/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4903,7 +4903,7 @@ of these states to the service of that great
 and glorious being who is the author of  
 all the good that is. that was, or tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_herringull_ver01:data:sn85042448:00200298718:1891011001:0046/pct:7.3433685923515055,116.49342708651788,19.324654190398697,2.889024763069398/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_herringull_ver01:data:sn85042448:00200298718:1891011001:0046/pct:5.5148555148555145,87.37389177621523,14.509564509564509,2.1705900336288595/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4921,7 +4921,7 @@ of these states to the service of that great
 and glorious being who is the author of  
 all the good that is. that was, or tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_hazen_ver01:data:sn85042405:00212478738:1891011501:0461/pct:24.161934420223485,98.35569586950803,15.625572449166514,2.69665877400684/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_hazen_ver01:data:sn85042405:00212478738:1891011501:0461/pct:21.146551263557193,86.06123388581952,13.672062830581824,2.3595764272559854/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4949,7 +4949,7 @@ of’these states to the service of that great
 and glorious being who is the author of  
 all the good that is, that was, or tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drteeth_ver01:data:sn85034082:00517177301:1891012901:0786/pct:10.371295965726526,109.12847483095418,18.243484469832204,2.9551715502128726/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drteeth_ver01:data:sn85034082:00517177301:1891012901:0786/pct:8.037814157251557,84.57333247072523,14.143417108600415,2.2934592741152877/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4967,7 +4967,7 @@ of these states to the service of that great
 and glorious being who is the author of  
 all the good that is, that was, or tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_keswick_ver01:data:sn84025968:00280769368:1891021701:0404/pct:49.97095837366893,16.616807179766113,13.339787028073571,2.0669023660592876/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_keswick_ver01:data:sn84025968:00280769368:1891021701:0404/pct:49.97095837366893,16.616807179766113,13.359148112294289,2.0759677273139334/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4986,7 +4986,7 @@ Almighty God and obey His will and be grate­
 ful for His benefits, and that therefore it was  
 proper to thank Him for His kind care dur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_entiat_ver01:data:sn83045604:00202199100:1891112601:0149/pct:41.99316329213779,80.06339144215531,34.40704706810413,6.138404648705758/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_entiat_ver01:data:sn83045604:00202199100:1891112601:0149/pct:13.997721097379262,26.687797147385105,11.469015689368042,2.0461348829019195/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5064,7 +5064,7 @@ I Giv.*n umh-r my hand nt the city of
 I th i ye. r of our Lord I7NII.  
 G. Wahhington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_jones_ver02:data:sn92067106:00517179991:1891120301:0235/pct:58.366487245494966,48.00142121158287,12.777907793119589,37.16468289216557/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_jones_ver02:data:sn92067106:00517179991:1891120301:0235/pct:58.378188626257895,48.005862497779354,12.772057102738122,37.1824480369515/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5231,7 +5231,7 @@ in the year of our Lord One Thousand Seven
 Hundred and Eighty-nine.  
 G. Washingto
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_halfwayrock_ver01:data:sn83016025:00414210995:1892112301:0310/pct:17.16010907674328,56.17824773413897,12.582781456953642,24.622356495468278/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_halfwayrock_ver01:data:sn83016025:00414210995:1892112301:0310/pct:17.156767283349563,56.16976287569854,12.585199610516066,24.62241353269899/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5340,7 +5340,7 @@ Given under my hand, at the city
 of New York, the 3d day of October,  
 in the year of our Lord, one thousan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_audi_ver01:data:sn86088296:00200297696:1892120101:1040/pct:65.62776304155615,67.76762017104099,19.29708222811671,50.85520495429077/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_audi_ver01:data:sn86088296:00200297696:1892120101:1040/pct:49.237231925713026,50.82571512828074,14.481538801680301,38.14508994396933/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5429,7 +5429,7 @@ rear of our Lord One Thousand, Seven
 Kundred and eighty-nine.  
 G. WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pug_ver01:data:sn83045462:00280654917:1893111101:0364/pct:56.443719412724306,14.584144284416764,14.17437012869313,26.054236408459843/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pug_ver01:data:sn83045462:00280654917:1893111101:0364/pct:56.443719412724306,14.593875697417932,14.192495921696574,26.054236408459843/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5517,7 +5517,7 @@ in the year of our Lord one thousand
 seven hundred and eightynine  
 GEORGE WASHINGTO
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_boozer_ver01:data:sn85058130:00206534503:1893111201:0105/pct:26.62563131313131,8.02664258297584,19.41287878787879,45.14563106796116/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_boozer_ver01:data:sn85058130:00206534503:1893111201:0105/pct:17.75848460931334,5.351095055317227,12.943962115232834,30.097087378640776/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5649,7 +5649,7 @@ Dy acknowledging with grateful hearts
 the many and signal favors of Almighty  
 God, especially by affording them an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_glass_ver02:data:sn83016348:00415625327:1893112501:0399/pct:45.45593635250918,69.58201615735862,12.51529987760098,3.887132654255942/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_glass_ver02:data:sn83016348:00415625327:1893112501:0399/pct:35.23576143235445,53.92898191276995,9.691316548753013,3.015546548908112/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5720,7 +5720,7 @@ Given under mv hand, at the city of
 New York, the third day of October, in  
 the year of our Lord one thousau
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_mankato_ver01:data:sn90059522:00206536779:1893112601:0271/pct:51.26314352041513,6.766275346851654,11.033729345896491,22.806830309498398/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_mankato_ver01:data:sn90059522:00206536779:1893112601:0271/pct:51.267695388957165,6.773390252579153,11.029177477354454,22.806830309498398/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5802,7 +5802,7 @@ Vm-ir ihn third Day of October , in the year
 of Our Lord Ono Thousand. Sovcn Hundred  
 and olghty-nlno. G. WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_beatrice_ver01:data:sn99021999:00206538818:1893112601:0767/pct:96.70446491849752,70.00953808420766,16.902905740609498,36.68074669573512/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_beatrice_ver01:data:sn99021999:00206538818:1893112601:0767/pct:72.55006202374624,52.513966480446925,12.688286372496899,27.507153563155743/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5907,7 +5907,7 @@ in the year of our Ixird one thousand
 seven hundred and eighty-nine.  
 G. Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drew_ver02:data:sn86063034:00414182112:1893113001:0269/pct:36.95857764327596,7.326789016929862,33.535086060147535,116.06202873808508/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drew_ver02:data:sn86063034:00414182112:1893113001:0269/pct:28.647512948304506,5.67826822007424,25.994332062933648,89.95920467492374/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5926,7 +5926,7 @@ that great and glorious Being who is the
 Author of all the good that is, that was  
 or that will be,&quot; etc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_allemande_ver01:data:sn85025570:00199919970:1893113001:0559/pct:51.04218776054694,25.661437602435026,13.956978489244623,2.8564738937017093/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_allemande_ver01:data:sn85025570:00199919970:1893113001:0559/pct:51.05330442999277,25.661437602435026,13.951420154521704,2.8564738937017093/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5945,7 +5945,7 @@ that great and glorious Being who is the
 Author of all the good that is, that was  
 or that will be,” etc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_imbe_ver01:data:sn98062949:00340581076:1893113001:1329/pct:33.81719572499601,65.78187472234562,13.670441856755463,2.621057307863172/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_imbe_ver01:data:sn98062949:00340581076:1893113001:1329/pct:33.81719572499601,65.78465126610395,13.682405487318551,2.6238338516215016/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5976,7 +5976,7 @@ ernor John Jay of New York. It stands
 conspicuous in the pages of history by  
 marking the acrimony and enmity o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_leek_ver02:data:sn99068116:00340581210:1893113001:0514/pct:53.740552213481415,69.2719823510873,13.897886780811353,8.236159260426515/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_leek_ver02:data:sn99068116:00340581210:1893113001:0514/pct:53.744408452876755,69.2719823510873,13.901743020206695,8.241411913016073/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5997,7 +5997,7 @@ our several and relative duties properly
 and punctually,&quot; Modern presidents are  
 apt rather to skip or at least hurry ove
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn90000523:0041562959A:1893120101:1021/pct:6.184798807749627,27.620771265487956,14.251117734724293,4.830850619518307/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn90000523:0041562959A:1893120101:1021/pct:4.640327991054789,20.71557844911597,10.696980991427507,3.633579284421551/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6026,7 +6026,7 @@ ernor John Jay of New York. It stands
 conspicuous in the pages of history by  
 marking the acrimony and enmity o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059533:00393349116:1893120201:0192/pct:45.78250261415127,23.415213946117273,9.829208783548275,6.391970417326994/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059533:00393349116:1893120201:0192/pct:45.774525178602545,23.412122012412517,9.83185223906604,6.394427571636076/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6203,7 +6203,7 @@ poral prosperity as He alone knows to be best.
 day of October, in the year of our Lord one thousand seven  
 hundred and eighty-nine. G. Washington.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685154:1894112901:0464/pct:71.94047385940866,29.92082992082992,21.343254356765225,16.93966693966694/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685154:1894112901:0464/pct:71.92638997650744,29.91674628087894,21.345601670582095,16.941904371957598/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6477,7 +6477,7 @@ giving.
 Unless the patriotic citizens of Rhode Island  
 are discourage ig the erperience of the las
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175042830:1895110401:0061/pct:185.11422254974207,224.9924721469437,49.07885040530582,32.881662149954835/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175042830:1895110401:0061/pct:46.2956137117582,56.248118036735924,12.274235164025065,8.220415537488709/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6523,7 +6523,7 @@ ness, ’ now, therefore, he recommends
 and assigns Thursday, the 26th day of  
 November, as a day of thanksgiving.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn89051168:00393343047:1895111801:0301/pct:14.071146245059289,61.42291410624061,14.347826086956522,12.46756793663799/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn89051168:00393343047:1895111801:0301/pct:14.068365935585852,61.41452758055707,14.349930843706778,12.469279082468596/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6559,7 +6559,7 @@ ness,’ now, therefore, he recommends
 and assigns Thursday, the 20tb day of  
 November, as a day of thanksgiving.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_aerosmith_ver01:data:sn89051163:00393342614:1895112001:0054/pct:9.758080910754218,64.27681660899654,14.637121366131327,12.664359861591695/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_aerosmith_ver01:data:sn89051163:00393342614:1895112001:0054/pct:9.75609756097561,64.26792139496264,14.639227642276422,12.66606698034874/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6601,7 +6601,7 @@ Him our sincere and humble thanks
    t o   
 people of this country previous to their
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_kirilenko_ver01:data:sn83045555:206539720:1895112701:0050/pct:229.92922143579372,251.5799432355724,65.4448938321537,34.285714285714285/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_kirilenko_ver01:data:sn83045555:206539720:1895112701:0050/pct:76.6818411734952,83.85998107852413,21.825998988366212,11.428571428571429/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6663,7 +6663,7 @@ the year of our Lord one thousand soven
 hundred and eighty-nine  
 GEOnGE WAsHInGT
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_kirilenko_ver01:data:sn83045555:206539720:1895112701:0051/pct:28.333333333333332,14.056224899598394,36.43939393939394,57.37234652897303/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_kirilenko_ver01:data:sn83045555:206539720:1895112701:0051/pct:9.449216776149571,4.685408299866131,12.152602324406265,19.124115509657678/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6692,7 +6692,7 @@ meet in places of worship, or around
 the freside, and ronder up songs and  
 words of prayer, praise and thank
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_kirilenko_ver01:data:sn83045555:206539720:1895112701:0053/pct:6.468172484599589,192.24952741020795,55.36447638603696,26.313799621928165/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_kirilenko_ver01:data:sn83045555:206539720:1895112701:0053/pct:2.1577189827896226,64.08317580340265,18.46904700744927,8.771266540642722/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6746,7 +6746,7 @@ them an opportunity to peaceable estab­
 lish a form of government for their  
 safety and happiness.” That was done
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_florence_ver01:data:sn85040344:00271769246:1895121401:0678/pct:29.177608845888045,15.59915164369035,10.96060815480304,5.079533404029693/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_florence_ver01:data:sn85040344:00271769246:1895121401:0678/pct:29.186823312600783,15.59915164369035,10.951393688090302,5.090137857900318/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6907,7 +6907,7 @@ the year of our Lord one thousand seven
 hundred eighty-nine.  
 Gmokoe Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_kohlrabi_ver01:data:sn86082061:0041562928A:1896111901:0067/pct:63.904761904761905,51.017238701661746,20.142857142857142,42.10281099549619/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_kohlrabi_ver01:data:sn86082061:0041562928A:1896111901:0067/pct:47.96283059328091,38.26681161671067,15.129854658089112,31.57322565615779/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6990,7 +6990,7 @@ York , the third day of October. In the yenr
 of our Lord one thousand seven hundred and  
 eighty-nine. GEOUGE WASHINGTON. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_hershey_ver01:data:sn99021999:00206539458:1896112201:0470/pct:74.94744218640504,8.76050989964741,35.10861948142957,121.95551939245999/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_hershey_ver01:data:sn99021999:00206539458:1896112201:0470/pct:56.229192220080606,6.577163005153241,26.331697914841424,91.466639544345/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7078,7 +7078,7 @@ Given under my hand at the city of
 New York, the third day of October,  
 in tile year of our Lord one thousan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588484:1896112601:0789/pct:8.057805999562076,39.41194393662401,17.845412743595357,51.2187690432663/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588484:1896112601:0789/pct:6.256009955314215,30.54823094179228,13.8356241868884,39.69853201621473/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7174,7 +7174,7 @@ Given under my hand, at the City
 of New York, the third day of Oc­  
 tober, in the year of our Lord, on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00542865970:1896112601:0106/pct:19.853731985373198,3.9781936054221307,28.543772854377284,90.89435685870046/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00542865970:1896112601:0106/pct:19.849462365591396,3.9776075427224513,28.543010752688172,90.88464938126104/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7215,7 +7215,7 @@ benefits, and humbly to implore His
 protection and favor  
 Yat the Father of Hle Country, wh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_griffith_ver01:data:sn83045555:206534758:1897020501:0668/pct:27.46153846153846,18.998614684345934,75.92307692307692,268.5929150999406/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_griffith_ver01:data:sn83045555:206534758:1897020501:0668/pct:9.153846153846153,6.332871561448644,25.307692307692307,89.53097169998021/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7261,7 +7261,7 @@ opportunity, peaceably, to establish a
 constitution of government for their  
 safety and happiness
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023296:0020029614A:1897112001:0448/pct:197.33242134062928,302.6606099935107,42.818057455540355,11.576898118105127/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023296:0020029614A:1897112001:0448/pct:49.34154267145545,75.66515249837768,10.706345134256884,2.894224529526282/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7308,7 +7308,7 @@ by the illustrious father of his country,
   
 the President of the United States ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_leopardfrog_ver01:data:sn84020558:00212476407:1899111201:0102/pct:5.883487654320987,13.173194614443084,34.45216049382716,114.7796817625459/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_leopardfrog_ver01:data:sn84020558:00212476407:1899111201:0102/pct:4.419143187958317,9.883720930232558,25.858741798533384,86.09241126070991/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7333,7 +7333,7 @@ the holy and honored precedent made
 by the illustrious father of his country,  
 the President of the United States ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_leopardfrog_ver01:data:sn84020558:00212476407:1899111401:0124/pct:75.80887885628292,25.81534221405604,16.666666666666668,8.941969070586435/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_leopardfrog_ver01:data:sn84020558:00212476407:1899111401:0124/pct:56.876763875823144,19.369162455979176,12.492944496707432,6.706476802939825/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7358,7 +7358,7 @@ the holy and honored precedent made
 by the illustrious father of his country,  
 the President of the United States ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_leopardfrog_ver01:data:sn84020558:00212476407:1899111501:0132/pct:58.20726172465961,90.79754601226993,16.67927382753404,7.45398773006135/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_leopardfrog_ver01:data:sn84020558:00212476407:1899111501:0132/pct:43.673160582560996,68.09815950920246,12.521278607906185,5.598159509202454/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7429,7 +7429,7 @@ precedent made by the illustrious
 father of his country, the President of  
 the United States has proclaime
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_bobwhite_ver01:data:sn85032933:0021247616A:1899111801:0263/pct:68.02139037433155,17.454545454545453,26.09625668449198,15.781818181818181/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_bobwhite_ver01:data:sn85032933:0021247616A:1899111801:0263/pct:51.029687082107515,13.090909090909092,19.604172238566463,11.854545454545455/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7465,7 +7465,7 @@ rrateful hearts the many and signal
 favors of Almighty God;&quot; and in ac­  
 cordance with the holy and honore
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gilachub_ver01:data:sn84021912:00211104326:1899111801:0639/pct:32.00339558573854,106.20449184699005,18.180531975099036,20.069736437288483/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gilachub_ver01:data:sn84021912:00211104326:1899111801:0639/pct:21.338616103014008,70.80299456466004,12.12678647233621,13.383242744333915/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7502,7 +7502,7 @@ who lias guided our advancing civi-
   
 national life when the inunoitil Wash
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_hummingbird_ver02:data:sn87062055:00211106682:1899111801:2140/pct:68.82352941176471,19.85953960202887,50.470588235294116,42.5673039406945/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_hummingbird_ver02:data:sn87062055:00211106682:1899111801:2140/pct:51.6774573278399,14.904408895825204,37.90464979399647,31.915723761217322/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7527,7 +7527,7 @@ the holy and honored precedent made
 by the illustrious father of his country,  
 tho President of the United .States ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_leopardfrog_ver01:data:sn84020558:00212476407:1899111801:0156/pct:57.00612557427259,114.70588235294117,16.787901990811637,7.714813674160764/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_leopardfrog_ver01:data:sn84020558:00212476407:1899111801:0156/pct:42.78054385292991,86.03326147212812,12.600536193029491,5.789959963042809/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7606,7 +7606,7 @@ the holy and honored precedent made
 by the illustrious father of his country,  
 the President &#x27;f the United States lia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_leopardfrog_ver01:data:sn84020558:00212476407:1899112301:0197/pct:58.33965125094769,110.12927756653993,16.603487490523122,7.406844106463878/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_leopardfrog_ver01:data:sn84020558:00212476407:1899112301:0197/pct:43.7808115282518,82.60076045627376,12.457337883959044,5.551330798479087/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7696,7 +7696,7 @@ the year of our Lord one thousand seven
 hundred and eighty-nine.  
 WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_orr_ver01:data:sn90059228:0028076646A:1899112301:0398/pct:50.127703047846076,23.205460108260766,14.098416482206709,44.233937397034595/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_orr_ver01:data:sn90059228:0028076646A:1899112301:0398/pct:50.127703047846076,23.20938259982741,14.10976786423747,44.245704871734524/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7771,7 +7771,7 @@ hundred and eighty-nine.
   
 G. WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_europium_ver01:data:sn88076998:00199918175:1899112301:0384/pct:60.867198838896954,43.30972311654862,16.182873730043543,36.973599484868/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_europium_ver01:data:sn88076998:00199918175:1899112301:0384/pct:51.74771255268839,36.81310661898854,13.755525855865118,31.43107348755747/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7844,7 +7844,7 @@ the year of our Lord one thousand seven
 hundred and eighty-nine.  
 G. WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_finney_ver02:data:sn83040198:00212473522:1899112401:0505/pct:74.25512104283054,54.52466907340553,20.825574177529486,49.891696750902526/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_finney_ver02:data:sn83040198:00212473522:1899112401:0505/pct:49.526471044868806,36.35379061371841,13.895357863685764,33.26113116726835/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7887,7 +7887,7 @@ Given under my hand at the city of
 New York, the 3d day of October, in  
 the year of our Lord one thousand seve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_honda_ver01:data:sn85025620:00212479391:1899112401:0593/pct:37.23719486383519,24.706292892869605,10.836743332862989,13.29533558217983/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_honda_ver01:data:sn85025620:00212479391:1899112401:0593/pct:37.2418983114623,24.71404753596216,10.841446780490099,13.29533558217983/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7931,7 +7931,7 @@ in general for all the great and va­
 rious favors which He hath been pleased  
 to confer upon us.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_honda_ver01:data:sn85025620:00212479391:1899112401:0593/pct:37.20897417807253,9.85227404908689,10.92140539015098,14.772595091310922/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_honda_ver01:data:sn85025620:00212479391:1899112401:0593/pct:37.21367762569964,9.85227404908689,10.926108837778091,14.780349734403474/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8063,7 +8063,7 @@ recognition throughout New-England, and the
 Governors of the different States sent out their  
 proclamations regularly. The West, bein
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_lotus_ver01:data:sn83030214:00175037093:1899112601:0516/pct:6.375461699052513,10.498744952526465,93.91360205556448,280.672268907563/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_lotus_ver01:data:sn83030214:00175037093:1899112601:0516/pct:2.1251538996841712,3.499581650842155,31.304534018521494,93.55742296918767/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8094,7 +8094,7 @@ to establish constitutions of govern­
 ment, for our safety and happiness, and  
 in genera], for all the great favor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_griffin_ver01:data:sn85042104:00332892058:1899112601:0502/pct:6.11605670952852,57.816130102887485,14.391691394658753,7.345945347936719/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_griffin_ver01:data:sn85042104:00332892058:1899112601:0502/pct:6.127046928233872,57.82350555002397,14.386196285306077,7.338569900800236/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8124,7 +8124,7 @@ to establish constitutions of govern­
 ment, for our safety and happiness, and  
 in general, for all the great favor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_miller_ver01:data:sn86092523:00514157911:1899112601:0488/pct:70.06544953496383,44.54059557139221,12.8315535652773,9.709849834563503/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_miller_ver01:data:sn86092523:00514157911:1899112601:0488/pct:70.05338384708111,44.53492810790177,12.833649044256932,9.711795393816008/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8236,7 +8236,7 @@ holy and honored precedent made
 by the illustrious father of his coun­  
 try, the President of the Unite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_bobcat_ver01:data:sn85032938:00211105598:1899112901:0580/pct:33.764940239043824,11.498708010335918,13.44621513944223,7.10594315245478/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_bobcat_ver01:data:sn85032938:00211105598:1899112901:0580/pct:25.33447196128665,8.624031007751938,10.0910902362653,5.340223944875108/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8261,7 +8261,7 @@ all the good that was, that is, or
 that wiil be,&quot; for tho gracious favors  
 with which we have been blessed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_bobcat_ver01:data:sn85032938:00211105598:1899112901:0580/pct:33.99260102447354,48.33118001722653,13.389299943084804,4.09130060292851/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_bobcat_ver01:data:sn85032938:00211105598:1899112901:0580/pct:25.505266154284087,36.2510766580534,10.048391688015942,3.0684754521963824/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8279,7 +8279,7 @@ signal favors of Almighty God, especially
 by affording them an opportunity to peace­  
 ably establish a form of government.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_japanesechin_ver01:data:sn83045462:00280655296:1899112901:0679/pct:42.674094707520894,29.031809973607444,13.704735376044567,1.764133907487151/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_japanesechin_ver01:data:sn83045462:00280655296:1899112901:0679/pct:42.67873723305478,29.031809973607444,13.71866295264624,1.7745520211140435/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8354,7 +8354,7 @@ hundred and eighty-nine.
   
 G. WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_edsel_ver01:data:sn89081022:00212472748:1899112901:0443/pct:44.87394957983193,9.420365535248042,12.016806722689076,29.295039164490863/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_edsel_ver01:data:sn89081022:00212472748:1899112901:0443/pct:44.87394957983193,9.427328111401218,12.026143790849673,29.291557876414274/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8385,7 +8385,7 @@ to establish constitutions of govern­
 ment, for our safety and happiness, and  
 In general, for all the great favor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_asburypark_ver01:data:sn84026089:00514155914:1899112901:0614/pct:27.66565458117521,54.43671766342142,10.591176995892123,6.133518776077886/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_asburypark_ver01:data:sn84026089:00514155914:1899112901:0614/pct:27.660714285714285,54.42914754554304,10.59375,6.1361424002225/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8496,7 +8496,7 @@ science among them and us; and, general!), to grant unto all mankind such
 a degree of temporal prosperit) as He alone knows to be best.  
 Given under my hand, at the city of New York, the Sd da) of October
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dutch_ver02:data:sn84024441:211102809:1899113001:0238/pct:25.32414910858995,21.411947245927074,31.361426256077795,43.366951124903025/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dutch_ver02:data:sn84024441:211102809:1899113001:0238/pct:19.014798297182242,16.058960434445307,23.53537401175755,32.536850271528316/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8551,7 +8551,7 @@ official recognition throughout New Eng­
 land and the Governors of the different  
 states sent out their proclamations regu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_fletcher_ver01:data:sn86063034:00414182288:1899113001:1022/pct:59.19230769230769,68.2198873153647,12.692307692307692,18.851834932236944/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_fletcher_ver01:data:sn86063034:00414182288:1899113001:1022/pct:59.205128205128204,68.22496319983757,12.692307692307692,18.851834932236944/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8642,7 +8642,7 @@ the year of our Lord one thousand seven
 hundred and eighty-nine.  
 G. WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_curry_ver01:data:sn85029677:00212473108:1899113001:0167/pct:74.25679949399114,36.386861313868614,21.062618595825427,66.27737226277372/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_curry_ver01:data:sn85029677:00212473108:1899113001:0167/pct:49.52546662448592,24.257907542579076,14.046187915216704,44.18491484184915/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8677,7 +8677,7 @@ to establish constitutions of govern­
 ment, for our safety and happiness,  
 and in general, for all the great favor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jesse_ver01:data:sn82016014:00295871453:1899113001:0443/pct:93.39019189765459,24.453614549900657,34.13290689410093,101.94100565489836/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jesse_ver01:data:sn82016014:00295871453:1899113001:0443/pct:70.05509152301404,18.340210912425494,25.608672472009953,76.46339599572062/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8706,7 +8706,7 @@ enabled to establish constitutions of gov­
 ernment, for our safety and happiness,  
 and In genera), for all the great favor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_isleboro_ver01:data:sn83016025:00414210752:1899113001:0328/pct:56.88413253755917,42.46045102659038,12.265898332990327,6.782228205991249/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_isleboro_ver01:data:sn83016025:00414210752:1899113001:0328/pct:56.8724279835391,42.453306410903586,12.268518518518519,6.785293622749453/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8777,7 +8777,7 @@ the year of our Lord one thousand sever
 hundred and eightv-nine.  
 G. WASHINGTON&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_hobbs_ver01:data:sn84024283:00294556898:1899113001:0610/pct:58.34344660194175,12.65736645117387,16.337985436893202,38.92480435522287/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_hobbs_ver01:data:sn84024283:00294556898:1899113001:0610/pct:43.771810043999395,9.493024838380402,12.259141253224094,29.20494499262788/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8852,7 +8852,7 @@ hundred and eighty-nine.
   
 G. WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_inkster_ver02:data:sn85042405:00212478763:1899113001:0403/pct:57.25032913296972,24.490861618798956,16.099304118864023,36.31853785900783/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_inkster_ver02:data:sn85042405:00212478763:1899113001:0403/pct:50.09325287986835,21.437002627270303,14.097641250685683,31.77474012869817/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8878,7 +8878,7 @@ bly, to establish a constitution of gov­
 ernment for their safety and happi­  
 ness.&quot;Now in even this first congress 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_pipit_ver04:data:sn85042400:00202194333:1899113001:1215/pct:26.787117046347213,113.6004436434216,16.064414768263944,7.7637598779980594/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_pipit_ver04:data:sn85042400:00202194333:1899113001:1215/pct:20.09428403064231,85.2072646610287,12.060498919662148,5.822819908498544/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8929,7 +8929,7 @@ seful knowledge; and In general for
 11 the great and various favors which ,,n  
 ie^has been pleased to confer upon us. ne
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_germany_ver01:data:sn84026844:00202193729:1899113001:1065/pct:1.9138755980861244,3.17576200036503,33.333333333333336,94.57930279248038/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_germany_ver01:data:sn84026844:00202193729:1899113001:1065/pct:1.9298245614035088,3.1848877532396425,33.333333333333336,94.58842854535499/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8979,7 +8979,7 @@ New England and the governors of th.
 different States sent out- their procla?  
 mations regularly. Tin- West, bein
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aqua_ver01:data:sn83045830:00175031625:1899120101:0584/pct:17.658227848101266,58.91786570743405,16.476793248945146,17.16127098321343/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aqua_ver01:data:sn83045830:00175031625:1899120101:0584/pct:17.665260196905766,58.91786570743405,16.476793248945146,17.16626698641087/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

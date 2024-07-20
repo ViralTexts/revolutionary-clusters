@@ -301,7 +301,7 @@ in the lap of God and nature, as a child
 in the arms of an affectionate parent.  
 B. FRANKLIN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898012:1822091401:0303/pct:25.756400310318075,31.589147286821706,17.377812257564003,22.642118863049095/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898012:1822091401:0303/pct:25.749741468459153,31.584046504117552,17.379782833505686,22.642499596318423/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -452,7 +452,7 @@ pleuse to rail for if; reposing inysetf t*e­
 rurely, in the lap of God and nature, as a  
 child m the apitH of tin tillet tionnte parent
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1822111501:0122/pct:49.112426035502956,33.051094890510946,15.321217244294168,17.16788321167883/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1822111501:0122/pct:49.10204944010142,33.046270617428114,15.323262201563491,17.169026419500803/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

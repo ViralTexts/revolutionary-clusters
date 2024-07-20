@@ -68,7 +68,7 @@ S&#x27; er Cent &#x27;V -
 Three per Cent. 9/* the fame spirit of amity and tbc fame ieule fuitahle ior henje confuraption. ; Suitable for  
 On Saturday last the members of St. An- Deferrca 6 per Cent. 14/ 0 of iuflice, in which it originated, will lead Alfe, ]u(l arrived m the thip America, ico MEMBERS OF CONGRESS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799120301:0003/pct:6.536724506774424,82.06875662577616,85.5954361777989,3.7407239133727095/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799120301:0003/pct:6.542666983598764,82.06875662577616,85.60137865462325,3.7520823867938815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -293,7 +293,7 @@ and cbnfirm union among our fellow citizens,
 and an unfhaken attachment to our government­  
 John Adams
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1799121601:0303/pct:50.37220843672456,12.18469431380932,42.88292352808482,83.21219894541827/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1799121601:0303/pct:50.36084799278304,12.182958107722998,42.87889039242219,83.203904246224/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -872,7 +872,7 @@ gain that point. The result being
 Isﬁmmwp%y  
 - with the a&amp; of Congress on the fub
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1799121801:0202/pct:7.778459650199448,16.956902422414633,17.01442160171832,70.98939585562798/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1799121801:0202/pct:7.778459650199448,16.960145280020754,17.01442160171832,70.99588157084023/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1001,7 +1001,7 @@ the interests of the United States have
 nﬁmﬁem&amp;mmm our  
 jult rights; The result of the miflio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1799121801:0202/pct:25.529303467321263,5.807957972565425,16.354710033752685,76.57359665337096/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1799121801:0202/pct:25.539531553646313,5.807957972565425,16.35982407691521,76.58656808379544/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1020,7 +1020,7 @@ and an unshaken attachment to our
 .govePmmient: &gt; - o 0  
 ¢ John Adams
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1799121801:0202/pct:42.68180423442774,5.78850082692869,16.339367904265114,4.047086292440899/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1799121801:0202/pct:42.69203232075279,5.791743684534812,16.33425386110259,4.043843434834776/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2087,7 +2087,7 @@ Sand, that, under exifling circumftanccs,
 &quot; rational profpeft of escaping the ealamitie*-  
 M of war, or&quot; (what would be dill more c*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1800020501:0002/pct:77.80470075115096,27.00614851016869,17.494548097891933,12.07630458773451/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1800020501:0002/pct:77.81681608916888,27.0179725681854,17.482432759874,12.068421882390036/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2129,7 +2129,7 @@ ganization of the judicial department ;
 I therefore earneftly recommend the fub­  
 jecA to your ferious con(ideration.&quot; Al
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_burmese_ver01:data:sn83045242:print:1802011801:0001/pct:8.094242827284818,72.51454427925016,15.96047881436443,12.152553329023917/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_burmese_ver01:data:sn83045242:print:1802011801:0001/pct:8.106909873962886,72.51885369532428,15.954145291025398,12.156862745098039/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2163,7 +2163,7 @@ anizaticn of the judicial depmment ;...
 therefoxe earneﬄy recommend che sub­  
 ject to your serious consideration.&quot; Al
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215981:1802012001:0660/pct:12.404956350323852,69.76803250931256,20.61391157420445,13.816457839485269/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215981:1802012001:0660/pct:12.403209911305082,69.76212647083722,20.615702285419307,13.818109991816925/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2192,7 +2192,7 @@ der the present organizations of the judicial
 department ; 1 therefore earneflly recom­  
 mend the fubje€t to your serious considera
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802020901:0021/pct:40.72085889570552,45.59937063624742,15.920245398773005,8.67341921526207/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802020901:0021/pct:40.72085889570552,45.605926508670144,15.920245398773005,8.67341921526207/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2360,7 +2360,7 @@ resources and the situation of the U. States,
 &#x27; o&#x27;Vvou- dictate of wisdom.&quot; This recommenda­  
 &#x27;&#x27; /-.irried into practice, would materially lessen th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1840052901:0497/pct:1.2541553339377456,26.7608436132113,15.034753702024782,3.0342220453641064/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1840052901:0497/pct:1.2541553339377456,26.76747579254543,15.049864007252946,3.037538135031171/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2459,7 +2459,7 @@ repelling aggressions will secure to our country
 a rational prospect of escaping the calamities  
 of war or national degradation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042957:1897090501:0264/pct:56.70498084291188,21.79967060937266,51.264367816091955,14.253630783051355/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042957:1897090501:0264/pct:14.181678804139517,5.449917652343165,12.82100421617478,3.5634076957628387/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

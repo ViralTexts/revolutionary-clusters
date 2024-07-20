@@ -51,7 +51,7 @@ rity of the stale jn which such port or harbor
 may. oe, and the same to be removed whenever  
 in his opiniorf it may he done with safety to suc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813071401:0536/pct:48.508398094760594,49.04396143160647,21.358736525444975,8.873999019447622/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813071401:0536/pct:48.49624060150376,49.0359477124183,21.359649122807017,8.876633986928105/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -122,7 +122,7 @@ the same to he removed w henever in his opinion
 it may be done with safety to such ports or har­  
 bors
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813080401:0559/pct:52.011130786744246,17.32893652102226,21.527953453073614,10.750206100577081/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813080401:0559/pct:51.99797673242286,17.3260797889878,21.528831562974204,10.752555225848994/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -175,7 +175,7 @@ sunk, with the consent of the proper autho- ]
 rity of the state in which such port &amp;; harbor I  
 may be, and the same to be removed whene- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024513:00414184121:1813081801:0084/pct:5.598755832037325,76.42701525054466,22.461675183292602,5.199709513435003/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024513:00414184121:1813081801:0084/pct:5.597512216792537,76.41591635201858,22.464090034058938,5.203795139897377/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -218,7 +218,7 @@ fifty thousand dollars, be, and the same is |
 hereby appropriated, to be paid out of any  
 monies in the Treasury not otherwise appro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1813081901:0880/pct:1.7471736896197327,5.497976507748494,63.85748544021925,89.83318527292468/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1813081901:0880/pct:1.7528834075596667,5.501266739051755,63.87461459403905,89.83318527292468/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -34,7 +34,7 @@ cmtions and of the scll-rer.pect enjoin­
 c, 1 on the at ten lion of the United  
 States by the circumstances whic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809120101:0002/pct:6.045949214026602,8.087460484720758,16.888351471180975,5.677028451001053/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809120101:0002/pct:6.059384656724439,8.091851071303125,16.888351471180975,5.681419037583421/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -59,7 +59,7 @@ course ot a foreign minister with a
 government that understands what it  
 ewes to il3elf
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809120101:0002/pct:5.985489721886336,30.966807165437302,17.291414752116083,7.534246575342466/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809120101:0002/pct:5.998925164584173,30.97119775201967,17.298132473465,7.547418335089568/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -87,7 +87,7 @@ basis of it, hut would moreover be a disregard of
 the precautions and of the self-respect enjoined on  
 the attention of the United State* by the circum
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809120601:0816/pct:27.633894895649988,10.255992173487689,21.347749559969827,9.310288602641448/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809120601:0816/pct:27.62694821518351,10.254320182588849,21.348667672197084,9.312846429735899/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -109,7 +109,7 @@ tions are inadmissible iri the intercourse of a foreign
 minister with agoveanment that understands what  
 it owes to itself
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809120601:0816/pct:27.68418405833543,32.36588945051361,21.247171234598945,5.185064405674221/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809120601:0816/pct:27.677224736048267,32.36061297685034,21.248114630467573,5.1882947505705905/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -139,7 +139,7 @@ sential basis ot it, bat would moreover be a
 disregard ot th» precautions and of the self­  
 respect enjoined on the attention of the U*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809120701:0248/pct:77.0488856937455,22.333049507359203,17.343637670740474,8.79455054129668/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809120701:0248/pct:77.03504043126685,22.33033325225006,17.346510931416592,8.797535068515366/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -162,7 +162,7 @@ inadmissible in the intercourse of a foreign
 minister with a government tout understands&#x27;,  
 what it owes to itself
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809120701:0248/pct:77.0488856937455,43.705145359445325,17.289719626168225,4.87775209828488/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809120701:0248/pct:77.03504043126685,43.69982972512771,17.292602575621444,4.881213005756912/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -196,7 +196,7 @@ moreover be a disregard of the precau­
 tions and ot the sell respect enjoined  
 | on the attention of the United S ate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809120801:0388/pct:23.46326836581709,19.13032123269783,17.82233883058471,14.429354922956385/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809120801:0388/pct:23.45887202548248,19.127823475649564,17.825245143963524,14.431823127475301/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -221,7 +221,7 @@ foreign minister with a government
 •nr., puderstauds what it owes to it­  
 self
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809120801:0388/pct:23.91304347826087,52.48106555236354,17.447526236881558,7.652128493079133/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809120801:0388/pct:23.908562863031666,52.47421334377856,17.450502779339203,7.655481568525047/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -264,7 +264,7 @@ tiie intercourse of a foreign minister
 with a government that understands  
 j what it owes to itself.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809121501:0001/pct:77.93615739811283,25.888656560376372,17.466372214414775,7.422895974908521/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809121501:0001/pct:77.93615739811283,25.888656560376372,17.479756407682526,7.431608294127897/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -293,7 +293,7 @@ Negociation without this preliminary
 would not only be.a departure from.  
 the principle of equality which is th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809121901:0412/pct:23.87895892129194,47.31644054269753,16.69802445907808,10.225458898643256/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809121901:0412/pct:23.87895892129194,47.31976589518489,16.713703355283787,10.225458898643256/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -311,7 +311,7 @@ over be a disregard of the precau.
 tions and of the felf respe&amp;® enjoined  
 on the attention of the United State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809121901:0412/pct:23.67513327061775,57.56185155626496,16.666666666666668,2.7833200319233837/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809121901:0412/pct:23.680359569352984,57.56185155626496,16.666666666666668,2.7833200319233837/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -336,7 +336,7 @@ tercourfc of a foreign minister with a
 ‘government that understands what it  
 ‘owestoatlell’” .Ui S
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809121901:0412/pct:23.67513327061775,78.69114126097367,17.152712449043587,7.601755786113328/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809121901:0412/pct:23.680359569352984,78.69446661346103,17.16316504651406,7.605081138600692/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -360,7 +360,7 @@ course of a foreign minister with a go,
 .eminent that understands what it owes  
 o itself.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809121901:0399/pct:40.72679344756166,42.37836438923395,17.52965543212201,6.35351966873706/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809121901:0399/pct:40.7191265060241,42.3728813559322,17.532630522088354,6.357010393755122/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -493,7 +493,7 @@ missible in the inercourse of a foreign ini
 nis’er&#x27;with a government that understands  
 whit it owes to itjelf.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809122101:0272/pct:40.88840342253778,29.732698645184914,16.49371927908247,4.833394361039912/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809122101:0272/pct:40.88096104841645,29.72907005125702,16.496784370828784,4.836872508339435/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -518,7 +518,7 @@ mleicourse of a fore.gn minister with a
 government that understands what it owes  
 0 iise&#x27;f 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809122101:0403/pct:39.78392721758908,38.960531457600624,17.664897649734648,6.421779340888368/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809122101:0403/pct:39.77638809929884,38.95545715029956,17.667866843534835,6.425284362247113/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -569,7 +569,7 @@ sui b insinuation? are inadmissible in tbe intercourse
 of a foreign minister with a government that under­  
 stands what it owes to itself,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809122701:0846/pct:26.916354556803995,37.91720154043646,21.04868913857678,5.182926829268292/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809122701:0846/pct:26.90963554667998,37.911118241617196,21.049675486769846,5.186106208888176/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -633,7 +633,7 @@ t at ions are inadmissible in the inter­
 , vernment that understands what k  
 j owes to itself.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809122901:0002/pct:40.96819363872775,51.091075395269826,17.763552710542108,7.356592186070822/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809122901:0002/pct:40.98152963926118,51.095430985670106,17.77022071080883,7.365303366871379/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -652,7 +652,7 @@ that the only credentials yet presented
 ( by you being the same with those pre­  
 sented by him, give you no authorit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809122901:0002/pct:76.35527105421085,31.517052136417092,17.503500700140027,3.4104272834182674/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809122901:0002/pct:76.36193905447756,31.52576331721765,17.51683670067347,3.414782873818546/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -673,7 +673,7 @@ ter now disclosed by you. Negocia­
 , not only be a departure from the prin­  
 . ciple of equality, which is the essen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809122901:0002/pct:76.35527105421085,37.73683522801516,17.543508701740347,4.730171174702731/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809122901:0002/pct:76.36193905447756,37.74119081841543,17.543508701740347,4.730171174702731/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -692,7 +692,7 @@ be a disregard of the precautions and
 [ tentionof the United States, by the  
 circumstances which have hithert
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809122901:0002/pct:76.35527105421085,42.49313994511956,17.643528705741147,3.2666928002090683/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809122901:0002/pct:76.36193905447756,42.49313994511956,17.643528705741147,3.271048390609347/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -889,7 +889,7 @@ butsiwould moreover be a disregard— of the &#x27;
 - sisi si &quot; _&#x27;ons and of the ends-respect ssenjoin.&#x27;  
 &#x27;- (loss-she attention omhe United States, by
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216110:1810011001:0072/pct:5.824573496467345,75.19039250146456,24.315009477856282,12.526850224565514/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216110:1810011001:0072/pct:5.823569951757409,75.18305184028117,24.316563289685273,12.528881512577696/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -926,7 +926,7 @@ intisible in the intercourse of a foreign inin
 islet- with a government that understands  
 what it owes to itself.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810011801:0320/pct:39.51976891135584,84.12371134020619,17.277486910994764,7.03456640388114/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810011801:0320/pct:39.51263537906137,84.11350958040262,17.280385078219012,7.037755679521384/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -949,7 +949,7 @@ in the intercourse of a foreign minister with
 a government that understands what it owes  
 to itself.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810012301:0331/pct:41.878492879033715,70.0768199000122,17.414818820984316,4.8896476039507375/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810012301:0331/pct:41.87094448449892,70.06827603023653,17.41768805575583,4.893115500284483/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1058,7 +1058,7 @@ apprize you that such insinuations are inad­
 istef ‘with ‘a “government that understands  
 what it owes to ftself.”” This notice of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1810013101:0165/pct:6.094270750674496,30.70021455041935,22.345659419139817,6.21220986931929/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1810013101:0165/pct:6.099560916256679,30.70021455041935,22.345659419139817,6.22196216110786/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1081,7 +1081,7 @@ insinuations are inad \,
   
 « When [ ink that the agreemen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1810013101:0165/pct:28.83669258847802,83.97698459137898,21.2188541501349,7.47025551004486/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1810013101:0165/pct:28.8419827540602,83.97698459137898,21.2188541501349,7.480007801833431/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1164,7 +1164,7 @@ i course at a foreign minister with : govern­
   
 ; ment that undeismds that it owes to it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216110:1810052101:0501/pct:76.08801955990221,40.5958850931677,21.010594947025265,6.541149068322981/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216110:1810052101:0501/pct:76.07561929595828,40.59194565744784,21.012603215993046,6.543748989163836/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1200,7 +1200,7 @@ in the intercourse ot a foreign minister with
 a government that understands what it owes  
 to itself.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810052201:0020/pct:77.58058674393335,13.655848132271892,17.51177109742847,12.455603184323332/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810052201:0020/pct:77.56653992395437,13.654175851089885,17.514635765586338,12.458159849783655/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1224,7 +1224,7 @@ intercourse of a foreign minister with a go*
 vern ment that understands what it ownes  
 to itself. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810052201:0168/pct:77.03385075743408,77.93059936908517,17.299420235646156,5.615141955835962/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810052201:0168/pct:77.01944652206433,77.92076709563462,17.30241834953877,5.618639078139457/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1247,7 +1247,7 @@ admiilible in the intercourse of®a foreign
 minister withi‘a government that understands  
 what it owes to itfelf.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1810052901:0510/pct:59.20991479473277,3.1328195375838255,16.56080557707204,5.034531077970173/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1810052901:0510/pct:59.20991479473277,3.136155873619591,16.56596953266202,5.04454008607747/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

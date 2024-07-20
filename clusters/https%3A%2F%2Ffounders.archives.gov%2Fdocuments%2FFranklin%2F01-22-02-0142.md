@@ -236,7 +236,7 @@ dics toone hundred men per week for guards
 —Twen&#x27;y-four pounds of foft, or 8 pounds  
 of hard soap for one hundred men per week.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025583:0051701509A:1776090701:0062/pct:67.23381862831083,28.308863512778682,28.99491317312752,14.812398042414356/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025583:0051701509A:1776090701:0062/pct:67.23381862831083,28.308863512778682,29.006607028006783,14.816023201015044/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -263,7 +263,7 @@ I scandalous for an officer to associate
 with him.  
 Article SG. Th* commanding office
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806042101:0001/pct:77.82580505727253,58.355290528359454,18.521720337151503,8.348356677298572/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806042101:0001/pct:77.84021324112096,58.355290528359454,18.514516245227288,8.36222437942033/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -641,7 +641,7 @@ court-martial, shall, in cases which require the cognizance of such a
 court, report to the commanding officer of the department, who shall  
 order a court to be assembled at the nearest post or detachment, and th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn82014282:0041421244A:1861062701:0244/pct:24.064403829416886,62.11420582858372,19.1035683202785,6.613614367136251/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn82014282:0041421244A:1861062701:0244/pct:24.060913705583758,62.10752688172043,19.10442349528644,6.615591397849462/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -686,7 +686,7 @@ the United States.
   
 Artenaus Ward iu the Army
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027352:00279528578:1861100901:0794/pct:55.72627685303742,55.42803970223325,12.661829563238014,15.560380479735318/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027352:00279528578:1861100901:0794/pct:55.73576136956419,55.42803970223325,12.661829563238014,15.560380479735318/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -716,7 +716,7 @@ To assist in the detection of frauds of this
 character, commanders, of regiments are re­  
 quested to forward me weekly lists of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn84038189:00202191216:1861121101:0578/pct:74.64303298867553,242.41312918309342,48.59675036927622,29.045567067021178/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn84038189:00202191216:1861121101:0578/pct:18.660758247168882,60.603282295773354,12.149187592319056,7.2613917667552945/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -757,7 +757,7 @@ eillesee.
 Ny. The proceedings in the foregoing case  
 having, with the finding, and sentence of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn85038524:0021247048A:1863020801:0182/pct:301.4098690835851,142.24794395370088,83.98791540785498,20.530003045994516/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn85038524:0021247048A:1863020801:0182/pct:75.39042821158691,35.56198598842522,21.007556675062972,5.132500761498629/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -809,7 +809,7 @@ be published in the newspapers in and about the camp,
 and in the State of Arkansas.  
 N. The proceodings in the feregoing case, havin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_monroe_ver01:data:sn82015209:00212470168:1863021801:0053/pct:303.57439733998336,125.76086956521739,68.99418121363259,39.34782608695652/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_monroe_ver01:data:sn82015209:00212470168:1863021801:0053/pct:75.92515592515592,31.440217391304348,17.255717255717254,9.83695652173913/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -836,7 +836,7 @@ The above is the 85th article of war.
 Fitz John Porter was tried by a Court Mar­  
 tial, and dismissed in disgrace from the Army
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009571:00279523908:1863061901:0104/pct:250.7020714583623,195.91836734693877,37.091616849715,20.178071228491397/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009571:00279523908:1863061901:0104/pct:83.55574089519044,65.29958987696308,12.362153646557315,6.725350938614918/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -889,7 +889,7 @@ Convention, and the assurance, at the same
 time, that the rebels had made proffers of  
 peace, and were ready to do so if the A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775617:1863061901:0381/pct:75.21428571428571,120.94353109363831,42.92857142857143,69.87848463187991/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775617:1863061901:0381/pct:18.806929808894445,30.23588277340958,10.734059653509556,17.46962115796998/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1025,7 +1025,7 @@ week for guards.
 Twenty-fonr pounds soft or ft lb. hard  
 soap for 100 men per week.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn84022367:00415628341:1865021601:0053/pct:68.44723183391004,94.98327759197325,18.879757785467127,13.843245601279628/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn84022367:00415628341:1865021601:0053/pct:51.37416143691841,71.23745819397993,14.174421120969487,10.382434200959722/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1044,7 +1044,7 @@ of the delinquient be published in the Wash­
 ington Chronicle and Baltimore American.&quot;  
 In the case of Joseph C. Broadfoot, 5th Mary
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deltaair_ver01:data:sn86053570:00237288981:1865040301:0129/pct:8.574181117533719,327.704946687642,51.92678227360308,7.970634504457263/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deltaair_ver01:data:sn86053570:00237288981:1865040301:0129/pct:2.1450952036635336,81.9262366719105,12.991082188479151,1.9926586261143158/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1112,7 +1112,7 @@ The proceedings of the General Court Martial in the foregoing case
 having been forwarled to the Secretary of War for the action of the Prese  
 ident, the findings and sentence have been approved; but, on the reco
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fortran_ver01:data:sn83030214:00206531058:1870083101:0849/pct:201.0974610974611,24.393011118674835,48.157248157248155,9.121851599727705/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fortran_ver01:data:sn83030214:00206531058:1870083101:0849/pct:67.03248703248703,8.131003706224945,16.052416052416053,3.0406171999092355/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1304,7 +1304,7 @@ rived from the enactment into law of the
 bill recently passed by the House to amend  
 section 190 of the Revised Statutes of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558354:1876021101:0149/pct:20.79276773296245,152.37595169335785,44.22809457579972,58.33552113415595/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558354:1876021101:0149/pct:5.199095809424448,38.09398792333946,11.058946270213875,14.583880283538987/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1380,7 +1380,7 @@ per man per week; 1 qt. of sprnce beer
 per man per diem, or 9 gallons of molas­  
 ses per company of 100 men per week
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685294:1880122301:0214/pct:63.34776334776335,39.04362829677101,10.902677569344236,3.574069509489771/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685294:1880122301:0214/pct:63.3376082077589,39.03881700554528,10.904937479961527,3.5767097966728283/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1416,7 +1416,7 @@ officer to associate with him.&quot;
 H. In conformity with the 65th of  
 the Rules and Articles of War, th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_antelope_ver02:data:sn86075021:00294550434:1882102801:0046/pct:84.65504542106555,143.49442379182156,64.91529585072428,51.858736059479554/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_antelope_ver02:data:sn86075021:00294550434:1882102801:0046/pct:21.163761355266388,35.87360594795539,16.22882396268107,12.964684014869889/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1488,7 +1488,7 @@ I aigha-ciaunda of tuurd oap for 100 men- pJk
   
 wceic.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_kirby_ver02:data:sn85038102:00202197255:1888121401:0577/pct:45.76547231270359,58.4771714922049,19.258957654723126,9.437639198218262/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_kirby_ver02:data:sn85038102:00202197255:1888121401:0577/pct:34.34508046445305,43.86135857461024,14.463230800570381,7.085189309576838/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1534,7 +1534,7 @@ colonies, to confer on the most effec­
 tual mode of continuing, supporting  
 and regulating a continental army
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_dunning_ver01:data:sn84022835:00237285050:1894052501:0835/pct:203.69458128078819,244.7880870561283,57.142857142857146,40.778923253150055/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_dunning_ver01:data:sn84022835:00237285050:1894052501:0835/pct:50.95502156500308,61.19702176403207,14.294516327788047,10.194730813287514/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1556,7 +1556,7 @@ for any officer to associate with him.
 Article 128 provides that the foregoing  
 articles shall be read a{nd published onc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_efreeti_ver01:data:sn91070630:00514152986:1898062501:0644/pct:71.27860026917901,29.246554047051507,12.732166890982503,3.3060420768991605/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_efreeti_ver01:data:sn91070630:00514152986:1898062501:0644/pct:71.27860026917901,29.246554047051507,12.741139524450427,3.312951255743255/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1591,7 +1591,7 @@ hin
 ticles shall be read and publisned once  
 in every sir months to every garcison
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_hoquiam_ver01:data:sn83045604:00202199483:1898062601:0171/pct:162.07244912685815,234.7546996790463,38.05743974599509,28.64511691884457/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_hoquiam_ver01:data:sn83045604:00202199483:1898062601:0171/pct:54.02414970895271,78.2515665596821,12.685813248665031,9.548372306281522/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

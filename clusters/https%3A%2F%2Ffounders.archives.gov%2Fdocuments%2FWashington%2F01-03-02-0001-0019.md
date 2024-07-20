@@ -179,7 +179,7 @@ ing windmills, steam power, &amp;c. ; and mast be
 
 ---
 
-## [From _Scientific American (1845-1908)_](https://archive.org/details/sim_scientific-american_1873-05-31_28_22/page/n14/mode/1up?view=theater)
+## [From _Scientific American_](https://archive.org/details/sim_scientific-american_1873-05-31_28_22/page/n14/mode/1up?view=theater)
 
 #### 1873-05-31 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 

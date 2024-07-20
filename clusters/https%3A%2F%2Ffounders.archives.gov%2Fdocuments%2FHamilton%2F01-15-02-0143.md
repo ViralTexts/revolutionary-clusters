@@ -354,7 +354,7 @@ per exertion of your zeal.
 With conlitierat ion. I am. Sir,  
 Y our obedient servant
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793081701:0001/pct:6.2761506276150625,17.83069841905143,43.77212745413582,76.20572343406043/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793081701:0001/pct:6.2761506276150625,17.845707424454673,43.78822014805279,76.20572343406043/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -510,7 +510,7 @@ gage every proper exertion of your zeal.
 With consideration,, I am, Sir, i  
 Your obedient servant
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793081701:0002/pct:6.117274167987322,3.06580745948057,42.852614896988904,90.00195274360476/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793081701:0002/pct:6.141045958795563,3.06580745948057,42.86053882725832,90.0165983206405/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -856,7 +856,7 @@ country ; objeéts of too much
 Importance not to engage every  
 proper exertion of your zeal.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1793082701:0077/pct:29.245138569897414,4.336151168572849,64.3546164446486,91.2879164594729/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1793082701:0077/pct:29.250242433522175,4.339466268854633,64.35972030827337,91.29454666003646/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1117,7 +1117,7 @@ Franac; left by inattention or mrfconception of
 them, (he might be injured and her enemies bene­  
 fitted. Fhe letter concludes with enjoining th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797012401:0002/pct:11.299575954103268,45.374800637958536,20.70341731105014,8.484848484848484/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797012401:0002/pct:11.312047892242454,45.378787878787875,20.70965328011973,8.496810207336523/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1138,7 +1138,7 @@ omissions would tend to expose the government
 &quot; peace of the country.&quot; How could such rules,  
 with fueh reasons to enforce them, not escape ces
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797012401:0002/pct:12.297331005238213,53.7799043062201,19.531055125966574,4.577352472089315/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797012401:0002/pct:12.316038912446995,53.7799043062201,19.531055125966574,4.597288676236045/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1170,7 +1170,7 @@ _government to injurious imputations and
 - How could such rules, with such reasons  
 &#x27; to enforce them, not escape censure ? The
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797021801:0237/pct:26.732824427480917,30.732186732186733,15.893129770992367,10.466830466830467/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797021801:0237/pct:26.737913486005088,30.73873873873874,15.893129770992367,10.46027846027846/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1215,7 +1215,7 @@ rules, with&#x27; Inch reafons to enforce them, not el­
 cape cenmre ? They *vtre framed and required to  
 be executed with it rice impatialiry ; and confe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_zarley_ver01:data:sn84038410:01000424529:1797033001:0237/pct:59.119969913501315,45.73532905678309,25.535915757803686,6.581135661677358/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_zarley_ver01:data:sn84038410:01000424529:1797033001:0237/pct:59.097744360902254,45.72446555819477,25.535714285714285,6.585510688836105/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1267,7 +1267,7 @@ citiz  undertake to
 will be abandoned to the penalties which the laws of war an  
 thorze. Am. State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basic_ver01:data:sn83030213:0020653073A:1863012701:0183/pct:6.102465465990558,162.70084631424015,47.280993180625984,34.514902489881024/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basic_ver01:data:sn83030213:0020653073A:1863012701:0183/pct:2.0341551553301858,54.23361543808005,15.760331060208662,11.504967496627009/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1287,7 +1287,7 @@ Papers, series of Foreign Aflairs, vol. I, paze 141) that &quot;the
 puachasing within and exporting from the United States, by  
 way of merchanddise, articler commonly called contraband
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basic_ver01:data:sn83030213:0020653073A:1863012701:0183/pct:53.925511453051236,27.719857721084264,48.69732470711663,7.5677664663314115/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basic_ver01:data:sn83030213:0020653073A:1863012701:0183/pct:17.97517048435041,9.239952573694755,16.232441569038876,2.5225888221104706/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1339,7 +1339,7 @@ engaged in it, under the liabilities and penlties pre-­
 scribed by the law of nations.&quot; ICheera! Accord  
 ing to Mr. Wobster, there
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basic_ver01:data:sn83030213:0020653073A:1863041301:0703/pct:54.35521373636201,152.05513784461152,49.34716508674656,25.588972431077693/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basic_ver01:data:sn83030213:0020653073A:1863041301:0703/pct:18.118404578787338,50.68504594820384,16.44905502891552,8.529657477025898/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1453,7 +1453,7 @@ was illustrated by reference to the case of Texas.
 &quot;If American merchants in the way of commerce had sold  
 munitions of war to Texas, the Government of the Unite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743452:1863091701:0696/pct:105.45423262216104,31.822576746434613,46.111493461803164,20.4012569494803/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743452:1863091701:0696/pct:35.15141087405368,10.607525582144872,15.370497820601056,6.8004189831601/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1692,7 +1692,7 @@ for transportation, and. although in so
 doing the Individual citizen exposes his  
 property or person to some of the hazard
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_otterhound_ver01:data:sn83045462:00280654954:1894080201:0597/pct:15.370834826227158,75.68843430369787,13.776424220709423,7.146603724101757/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_otterhound_ver01:data:sn83045462:00280654954:1894080201:0597/pct:15.375313507703332,75.69499082087594,13.78538158366177,7.153160241279832/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1715,7 +1715,7 @@ at war, and is not to be interfered with.&quot;
 Secretary Seward informed Minister Romero in  
 ie that &quot;transportation of arms or n oney from th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_willys_ver01:data:sn83030214:00175038784:1895040701:0568/pct:104.10331862023868,85.16725352112677,47.86660127513487,14.282570422535212/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_willys_ver01:data:sn83030214:00175038784:1895040701:0568/pct:34.701106206746225,28.389084507042252,15.95553375837829,4.760856807511737/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1745,7 +1745,7 @@ either under international law or the municipal
 law of the United States,&quot; and Mexico ac  
 quiesced in the decision. Secretary Fish i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175045193:1895040701:0287/pct:124.06832298136646,66.98041597085168,51.70807453416149,26.172764536207684/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175045193:1895040701:0287/pct:31.035152456787724,16.74510399271292,12.93455039813556,6.543191134051921/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1800,7 +1800,7 @@ ple was applied by Secretary of State
 Seward in 18t&gt;2 in respect to the war  
 j of the French against Mexico, and b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_isner_ver01:data:sn86092518:00414186828:1895041501:0097/pct:17.732512237486183,13.549844069254759,13.358597820937945,6.065168297666416/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_isner_ver01:data:sn86092518:00414186828:1895041501:0097/pct:17.729712661825072,13.548387096774194,13.361751394590042,6.068100358422939/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1824,7 +1824,7 @@ Of course, Spain has the right, after
 the vessels carrying such munitions of  
 war come within their jurisdiction, t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_audi_ver01:data:sn86088296:00200297507:1895041801:0883/pct:91.74800354924578,79.52257693413863,19.45430346051464,5.996548748921484/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_audi_ver01:data:sn86088296:00200297507:1895041801:0883/pct:68.8568257491676,59.64912280701754,14.60599334073252,4.501006614897901/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1867,7 +1867,7 @@ ing stopped and seized by the Spanish an­
  thoritis in the waters of Cuba, where they  
 have control of their port regulations, ther
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175042817:1895061601:0199/pct:2.2900763358778624,86.06298026216665,65.41984732824427,59.8463161066747/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175042817:1895061601:0199/pct:0.5725190839694656,21.51574506554166,16.35496183206107,14.961579026668675/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1894,7 +1894,7 @@ fered with.&quot; Many similar official declara­
 tions might be cited  
 But the case of the so called filibuster
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175042829:1895092701:0524/pct:3.5411855273287145,13.705660377358491,117.62894534257121,371.8490566037736/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175042829:1895092701:0524/pct:0.8856372737774355,3.4264150943396228,29.4185598767809,92.9622641509434/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1939,7 +1939,7 @@ President Pierce&#x27;s second annual message, and
 Mr Marcy, when Secretary of State, said such  
 action in no way conflicted with the neutrality
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175042830:1895112401:0316/pct:61.41732283464567,158.4825493171472,52.83464566929134,30.591805766312596/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175042830:1895112401:0316/pct:15.35735380980508,39.6206373292868,13.211262059460523,7.647951441578149/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1991,7 +1991,7 @@ moiitf ) nnd military stores , Is free toall
 the parties at war and is not to bo In­  
 terfered with. &quot; This principle was re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_beatrice_ver01:data:sn99021999:00206538958:1897042601:0922/pct:42.66528925619835,81.99064796259185,16.2534435261708,5.6245824983299935/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_beatrice_ver01:data:sn99021999:00206538958:1897042601:0922/pct:32.01308765283279,61.49298597194389,12.192181849491993,4.225116900467602/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2025,7 +2025,7 @@ citizens undertake to carry them to any of these par­
 ties, they will be abandoned to the penalties which  
 the laws of war authorize
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042970:1897122001:0672/pct:281.8796992481203,96.80559780955278,50.225563909774436,37.906905993306964/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042970:1897122001:0672/pct:70.4964272282813,24.201399452388195,12.561113200451297,9.476726498326741/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2059,7 +2059,7 @@ commerce. The duty of preventing their
 landing in Cuba devolves upon the Spanish  
 government. The departure of an armed o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:00415665738:1897122601:0530/pct:16.097301608400905,32.648809523809526,12.78745181443573,9.126984126984127/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:00415665738:1897122601:0530/pct:16.097301608400905,32.652116402116405,12.79188267092029,9.123677248677248/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2092,7 +2092,7 @@ monly called contraband, being generally warlike
 instruments and military stores, is free to all the  
 parties at war, and is not to be interfered with
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042982:1898030801:0873/pct:288.12111801242236,25.66519689828189,52.17391304347826,38.80188535806599/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042982:1898030801:0873/pct:72.07224703825986,6.416299224570473,13.051077879199845,9.700471339516497/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2115,7 +2115,7 @@ and military stores, Is free to all the par­
 ties at war, and is not to be interferred  
 with
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_brown_ver01:data:sn86072192:00340583322:1898041001:0073/pct:5.610278372591006,46.726726726726724,14.346895074946467,4.534534534534535/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_brown_ver01:data:sn86072192:00340583322:1898041001:0073/pct:5.609077285377864,46.71971175499174,14.349175765360737,4.537606965921033/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2139,7 +2139,7 @@ ties at war, and is not to be interfered
 with. George Washington.&quot;  
 In 1815 Spain attempted to keep th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_fletcher_ver01:data:sn86063034:00414182239:1898041001:1080/pct:84.17066863686738,53.73917979281964,12.504617657923902,4.484177664254292/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_fletcher_ver01:data:sn86063034:00414182239:1898041001:1080/pct:84.17682551409925,53.743909938035095,12.510774535155768,4.488907809469751/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2170,7 +2170,7 @@ privateer is understood by us not to
 extend to vessels armed for merchan­  
 dise and war.&quot; And Jefferson, as Sec
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_franklin_ver01:data:sn85054468:211102135:1898050101:0592/pct:67.36596736596736,98.1657458563536,17.846736596736598,11.182320441988951/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_franklin_ver01:data:sn85054468:211102135:1898050101:0592/pct:44.928592247158264,65.4475138121547,11.90614981055086,7.458563535911602/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2189,7 +2189,7 @@ privateer Is understood by us not to
 extend to vessels armed for merchan­  
 dise and war.&quot; And Jefferson, as Sec
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_franklin_ver01:data:sn84024441:211103164:1898052101:0108/pct:93.26846703733122,110.13740458015268,15.845909451945989,2.9923664122137406/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_franklin_ver01:data:sn84024441:211103164:1898052101:0108/pct:69.98410806515693,82.61068702290076,11.899086213746523,2.2442748091603053/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2226,7 +2226,7 @@ VAR
   
 While You Are Growing
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_gargoyle_ver02:data:sn92064114:00514153401:1898061101:0604/pct:71.26782884310619,53.070624360286594,19.88906497622821,13.643807574206756/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_gargoyle_ver02:data:sn92064114:00514153401:1898061101:0604/pct:71.2783940834654,53.07744796997612,19.89434759640782,13.63698396451723/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2244,7 +2244,7 @@ In 1793 wrote: “The term privateer is un­
 derstood by us not to extend to vessels  
 armed for merchandise and war.” An
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346824:1898062201:0503/pct:56.62326634588169,43.32169358358795,12.04358901783187,1.5386294194674814/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346824:1898062201:0503/pct:56.63270119822625,43.32169358358795,12.03415416548731,1.5495416848537757/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2277,7 +2277,7 @@ them. This doctrine was quoted and en­
 dorsed by Mr. Pickering. Secretary of State,  
 in a letter to the Minister of France, date
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dutch_ver02:data:sn84024441:211102809:1899102701:0005/pct:59.35980551053485,37.41528034504005,16.187196110210696,10.859519408502774/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dutch_ver02:data:sn84024441:211102809:1899102701:0005/pct:44.548034049452774,28.065311152187306,12.140251317389541,8.148490449784349/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2299,7 +2299,7 @@ generally warllke instruments and mill-
 stores, is free to all the parties at war,  
 and is not to be interfered wit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_hoquiam_ver01:data:sn83045604:00202199665:1899110201:0366/pct:90.62044858724148,123.609211126311,37.226915234488786,9.25672594619243/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_hoquiam_ver01:data:sn83045604:00202199665:1899110201:0366/pct:30.20681619574716,41.203070375436994,12.408971744829595,3.085575315397477/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

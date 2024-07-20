@@ -303,7 +303,7 @@ Fort Necessity, together with a mi­
 nute History of Braddock&#x27;s Expedi­  
 tion, including Gen. Braddoch&#x27;s Or
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_annapolis_ver01:data:sn85025350:00415627415:1879011101:0667/pct:5.754088431253786,79.74455296769347,15.283666464768826,6.115702479338843/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_annapolis_ver01:data:sn85025350:00415627415:1879011101:0667/pct:4.459396025661086,61.80272504949342,11.849997392166067,4.751368347502038/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -322,7 +322,7 @@ iu 172S, to tbo present day, embracing an ao l
 count of Washington&#x27;s first campaign, and a (  
 history of Braddock&#x27;s expedition, nith many 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_gabbana_ver01:data:sn85025007:00415663821:1879020101:0109/pct:2.7609740964789826,85.48287881894608,16.457266945866294,3.2499487389788806/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_gabbana_ver01:data:sn85025007:00415663821:1879020101:0109/pct:2.7609740964789826,85.48971362176201,16.462437309342846,3.25336614038685/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -518,7 +518,7 @@ Town, distant from latter about 20 miles,
 and lodged at Tumberson&#x27;s, at the Little  
 Meadows, 15 miles further
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn84026409:00280776531:1895071001:0180/pct:101.185536455246,58.472344161545216,40.60462359217546,8.647936786654961/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn84026409:00280776531:1895071001:0180/pct:25.300133392618942,14.618086040386304,10.152660441677783,2.1619841966637403/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

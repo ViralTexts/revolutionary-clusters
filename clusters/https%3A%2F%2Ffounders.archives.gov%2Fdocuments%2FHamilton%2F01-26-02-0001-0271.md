@@ -1054,7 +1054,7 @@ Tummei&#x27;qus Lruin of Clcrgy Of all sidenomi-ct­
   
 w 1 T {I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:0041421602A:1804072101:0313/pct:5.11497641509434,39.58923512747875,23.21639150943396,39.978753541076486/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:0041421602A:1804072101:0313/pct:5.114222549742078,39.58573072497123,23.21788258413166,39.97816529462099/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1165,7 +1165,7 @@ tant scenes of our revolutioth
 At the seige of York, he pertinaciously  
 .insisted-si-and he obtained the command of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:0041421602A:1804072101:0313/pct:28.434551886792452,11.951133144475921,23.79127358490566,74.45113314447592/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:0041421602A:1804072101:0313/pct:28.43036109064112,11.950075241214481,23.79267993122083,74.44749343483521/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1377,7 +1377,7 @@ the interests of )our clients, iemem&#x27;ucssr
 like him, the eternal principle of justice.  
 1 ellow-Ci&#x27;siizens—Y ou h ave long witnes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:0041421602A:1804072101:0313/pct:28.434551886792452,2.186614730878187,47.56780660377358,93.28966005665723/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:0041421602A:1804072101:0313/pct:28.43036109064112,2.186421173762946,47.56570867108818,93.28435277802366/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1838,7 +1838,7 @@ to refpelk yourfelve*. .
 And now, ye minifter* of the everlafting God perform your holy office and commit thefe affin of our departed broth­  
 er to the bofem of the Grave! 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016081:00332895060:1804072301:0156/pct:5.109649122807017,2.8399781540142,91.51315789473684,91.4800655379574/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016081:00332895060:1804072301:0156/pct:5.108528831396623,2.839590443686007,91.49857487393116,91.47098976109216/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2081,7 +2081,7 @@ ing God, peiform y&lt; v b-ly &lt; ffice and
 commit thefe aflies of our departed bro­  
 ther to the bofom of the Grave 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804072501:0002/pct:20.2020202020202,0.9365389991613083,59.37149270482604,97.40005591277607/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804072501:0002/pct:20.216984661429105,0.9458577951728636,59.35652824541713,97.40471531078185/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2364,7 +2364,7 @@ of mimi c gun* from the Battery, by a detachment
 from the regiment of artillery. T he different mer­  
 chant v, (fids in the harbour wore their colours hal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804072501:0099/pct:42.61611030478955,2.4341778440139095,35.776487663280115,93.76552409339294/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804072501:0099/pct:42.60838019227281,2.4338755743201292,35.776044500876715,93.75801978558715/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2524,7 +2524,7 @@ glory, was deeply tous
 ;’,’u. For himfelf he feared nothing, but he  
 feared that bad men might, by falfe profefions,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1804072601:0529/pct:75.68590350047303,8.665237504231072,20.52980132450331,84.44093422091842/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1804072601:0529/pct:75.68590350047303,8.67275941178683,20.52980132450331,84.43341231336267/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2585,7 +2585,7 @@ Goo..&amp;elfonn your holy office, and commit
 thefe athes of our depasted brother to the bofom  
 of the grave ! &#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1804072601:0530/pct:1.7744705208929594,7.777521347795984,21.026521656172488,30.70620816985922/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1804072601:0530/pct:1.7744705208929594,7.777521347795984,21.03288176556637,30.713901069313025/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2818,7 +2818,7 @@ God, perform your holy office,. and com­
 mit these ashes of our departed brother to  
 the bosom of the grave 1 . 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804072601:0021/pct:31.13956466069142,4.917502426399223,64.89116517285531,90.27822711096732/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804072601:0021/pct:31.131592421915002,4.916707100113213,64.88095238095238,90.26766941614103/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3036,7 +3036,7 @@ solemn occasion, I should endeavour to
 move your commisscration, it would be  
 doing injustice to that senaibility whic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1804080301:0312/pct:52.61285909712722,4.2182325257103015,43.912448700410394,91.05804427401081/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1804080301:0312/pct:52.598468271334795,4.217497385848728,43.907275711159734,91.04653189264552/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3279,7 +3279,7 @@ Boston, Cape Douglass, at anchor with­
 in the Hook, appeared in mourning the  
 whole morning, and at ten o’clock sh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1804080301:0313/pct:2.1415017619951207,3.5608824040298765,44.94442938465709,91.47125238839674/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1804080301:0313/pct:2.140921409214092,3.5602639805488017,44.9390243902439,91.45970823202501/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5065,7 +5065,7 @@ tatn fufficient means of strength for its own preservation ; and
 that, 1 consequence, we must follow the&#x27;fate of other republics,.  
 ~and pass through anarchy to defpotifm.”’ 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1805030501:0038/pct:65.50972762645914,34.95856619772596,28.980544747081712,3.989207939872808/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1805030501:0038/pct:65.51491569390402,34.96177812038286,28.996108949416342,3.9924198625297103/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5253,7 +5253,7 @@ Vessels in the Harbor.
 21. The President, Professors, and Students  
 of Columbia College
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_angelou_ver01:data:sn83030362:print00211110004:1849021101:0001/pct:37.3355511870558,43.98131932282545,9.572055043096931,10.040863981319323/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_angelou_ver01:data:sn83030362:print00211110004:1849021101:0001/pct:37.34689248450022,43.99007589025102,9.572055043096931,10.0379451255108/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5279,7 +5279,7 @@ He never lost sicht of your interests. In his most
 privale and confdential conversations, the single  
 objects of discussion were your freedom and happl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530352:1851091301:0510/pct:58.5213467545991,7.03892109310304,94.88024991322457,289.3174021057613/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530352:1851091301:0510/pct:19.507115584866366,2.3463070310343466,31.626749971074858,96.43913403525376/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5308,7 +5308,7 @@ For himself he feared nothing but he feared that
 bad men might, by false professions, acquire your  
  confidence, and abuse it to tour ruin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530352:1851091301:0510/pct:105.79659840333218,18.679758665562524,47.86532454009025,19.957411569856855/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530352:1851091301:0510/pct:35.26553280111072,6.226586221854174,15.955108180030082,6.6524705232856185/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5354,7 +5354,7 @@ acquire your confidence, and abuse it to your
 rum.” , .. i .,  
 in Hamilton&#x27;s death the Federalists and th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851091601:0462/pct:32.315497271944096,5.88358458961474,25.74901885708816,91.40843104410943/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851091601:0462/pct:32.31240428790199,5.883173982832019,25.74974476773864,91.40437806778793/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5387,7 +5387,7 @@ about six years of age, with him) rose and delivered
 to the immense concourse in front an extemporary  
 ration,&quot; ac. Respectfully, ANricvaria
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530352:1851092901:0616/pct:247.39834596829772,214.45556209535022,47.29496898690558,30.876986462625073/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530352:1851092901:0616/pct:82.46611532276592,71.48518736511673,15.764989662301861,10.292328820875024/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5631,7 +5631,7 @@ Hamshfea have dope thts UtJug?
 this j&#x27;ltmst not dwell,  
 fit might excite emotions too strong fu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685269:1867020701:0171/pct:7.43801652892562,64.07300672430355,12.035123966942148,14.038699053108274/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685269:1867020701:0171/pct:7.436736099156481,64.06421514818881,12.037355827164744,14.040203073545554/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5707,7 +5707,7 @@ Josiah Ogcen Hoffman. Esq.. Richard
 Varick. Esq . William Bayard. Esq., and  
 Judge Lawrence. And thus bis wounde
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_lucretia_ver01:data:sn86086852:00271768928:1887102801:0383/pct:55.363036303630366,88.34080717488789,9.763476347634764,3.2046374275401948/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_lucretia_ver01:data:sn86086852:00271768928:1887102801:0383/pct:55.37220388705537,88.34080717488789,9.768060139347268,3.2046374275401948/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5724,7 +5724,7 @@ body was committed to the grave with
 every possible testimony of respect and  
 sorrow
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_lucretia_ver01:data:sn86086852:00271768928:1887102801:0383/pct:55.41804180418042,91.55638193153231,9.68096809680968,1.1046702395275074/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_lucretia_ver01:data:sn86086852:00271768928:1887102801:0383/pct:55.41804180418042,91.56367348426848,9.68096809680968,1.1046702395275074/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

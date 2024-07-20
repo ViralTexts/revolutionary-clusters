@@ -103,7 +103,7 @@ No. 3. A general order Erecting the tnper­
 nu.nerary officers, non-f omum-uoren o&gt;. ■+  
 C«I »„ musicians ; nd private* to be paid, H
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:0041418389A:1815052701:0027/pct:76.39565380292244,63.06774930220756,17.684526039715248,32.250697792438466/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:0041418389A:1815052701:0027/pct:76.38134482112756,63.05974882658886,17.68745707685584,32.25083513044949/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -154,7 +154,7 @@ of March, 1815, the President of the United
 States has judged proper that the military  
 peace establishment shall consist of the fol­
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:0041418389A:1815052701:0028/pct:5.588785046728972,2.8080732104801305,17.53271028037383,21.76256738122101/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:0041418389A:1815052701:0028/pct:5.587740609231919,2.8077212333918276,17.535663115928486,21.76401771538397/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -255,7 +255,7 @@ Ati which is respecftilly .submitted.
 a. j Dallas,  
 Acting Secretary of IVaf
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184285:1815052701:0151/pct:57.46976744186046,11.268488342943094,36.26046511627907,85.02130859864627/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184285:1815052701:0151/pct:57.45907738095238,11.267076074696078,36.25992063492063,85.01483059698374/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -591,7 +591,7 @@ All which is respectfully submitted.
 A. J. DALLAS,  
 Acting Secretary of Wat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1815052901:0366/pct:72.28946690703064,41.67619669988564,21.83878444501674,37.05276915536677/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1815052901:0366/pct:72.27085478887744,41.66938908853316,21.839598352214214,37.05080039202875/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

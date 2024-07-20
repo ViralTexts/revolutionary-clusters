@@ -166,7 +166,7 @@ party contributing equally to the payment, and
 each commissioner receiving the same sum as his  
 colleagues.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808041501:0447/pct:59.54892688250273,12.461670550717526,17.84285194616224,60.480804611799336/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808041501:0447/pct:59.53809783597018,12.460142261466764,17.8456689094987,60.477475267762244/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -291,7 +291,7 @@ may consent to it, provided&#x27; it does not exceed
 the payment, aud each commissioner receiving, the  
 same sum as his colledfeuee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808042001:1092/pct:4.121863799283154,1.6693679092382496,45.36610343061956,94.82982171799027/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808042001:1092/pct:4.120808804709496,1.6690973910225246,45.360890708983874,94.8185059147626/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -470,7 +470,7 @@ reasoning opposed lo the construction making the
 Louisiana, with marginal notes in support of that construction.&quot;  
 To &quot;that paper&quot; 1 linve not yet been abl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661125:1845111401:0683/pct:59.235772357723576,21.338542979581547,17.170731707317074,5.583564406352408/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661125:1845111401:0683/pct:59.24119241192412,21.338542979581547,17.165311653116532,5.596168389210991/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -511,7 +511,7 @@ nut within our reach hare, and it mutt, consequently, be ttr,|
 ielt to your own researches and judgment to delermina ths the  
 proper use to ha made of them.&quot; th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846040101:0358/pct:32.455727942328785,5.288822205551388,14.449145901896255,10.065016254063515/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846040101:0358/pct:32.455727942328785,5.297157622739018,14.454369743509377,10.06918396265733/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -551,7 +551,7 @@ your own researchea and judgment to determine the beiw
 proper use to be made of them.&quot; if this ta certain- ly gi  
 ty, I ahould like to know what uncertainty is. The ques
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846040201:0371/pct:0.832286432160804,55.45364402578086,14.729899497487438,7.337630143777888/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846040201:0371/pct:0.8427554438860971,55.45777557428524,14.72466499162479,7.337630143777888/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -706,7 +706,7 @@ westwardly, to the hake atistarin thenes further sont
 wast, ts the lattnnde of soe morth tron the eester and  
 argued that in the opinlon af at tonr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271742939:1846040401:0403/pct:13.779397151374628,97.98050139275766,48.44319311030142,35.120705663881154/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271742939:1846040401:0403/pct:4.593132383791542,32.66016713091922,16.14773103676714,11.706901887960385/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -739,7 +739,7 @@ letter of Mr. Madison to Mr. Monroe on this subject: &#x27;It
 44 There U reason to believe&quot; that the boundary, Ac. Hero  
 it was evident that Mr. Miulison doubted (is to the fart : an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1846040401:0340/pct:21.071428571428573,15.905760342689662,15.233516483516484,8.64615037763499/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1846040401:0340/pct:21.076007326007325,15.909517904783376,15.242673992673993,8.653665501822418/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -766,7 +766,7 @@ ring to the proceedings of the commissioners, as the source
 4 and judgment to determine the proper use to be made ol  
 4 them.&quot; - .
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1846040401:0340/pct:20.796703296703296,28.33953331078796,15.48076923076923,5.929432983880059/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1846040401:0340/pct:20.796703296703296,28.343290872881674,15.489926739926739,5.929432983880059/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -782,7 +782,7 @@ ring to the proceedings of the commissioners, as the source
 he adds, but you will perccive the necessity of recurring to  
 the proceedings of commissioners as the source of informa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1846040401:0340/pct:51.4010989010989,44.73001916356668,15.178571428571429,1.1723593732386428/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1846040401:0340/pct:51.4010989010989,44.73753428775411,15.187728937728938,1.1686018111449292/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -823,7 +823,7 @@ Hut you will |iereeive the necessity of recurring to the pio­
 ? must, consequently, he left to your own researches and  
 &#x27;judgment to determine the proper use to lie made of them.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1846040401:0342/pct:36.97003176356857,58.19982198486871,15.26032315978456,13.295505117935024/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1846040401:0342/pct:36.979238595037515,58.203530633437175,15.264926575519036,13.299213766503486/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -872,7 +872,7 @@ j consequently, be left to your own researches and
 judgment to determine the proper use to be made  
 of them.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215774:1846040401:0612/pct:21.70020120724346,3.986620247115844,30.995975855130784,91.55573759300977/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215774:1846040401:0612/pct:21.698018308017303,3.986348122866894,30.99621097810415,91.55176336746302/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -977,7 +977,7 @@ sumed, and the fact that we had nothing to ts
   
 with the line of 49, any further than the Rock
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186464:1846040801:0286/pct:136.51153991676125,171.82835820895522,37.16736032286543,18.076285240464344/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186464:1846040801:0286/pct:45.49810844892812,57.27018343869831,12.387557797393862,6.0248039520502985/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1075,7 +1075,7 @@ had fixed this line at 49, it was to be urged by
 Mr Monroe in justification of the United  
 States for refusiug to ratify that part of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:0041615689A:1846041101:0352/pct:25.140845070422536,88.91201294947393,19.732394366197184,9.561799051913516/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:0041615689A:1846041101:0352/pct:18.864468864468865,66.6897907272517,14.806987883910962,7.168458781362007/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1205,7 +1205,7 @@ posed to the construction making the 4!M degree of latitude
 the northern boundary of Louisiana.&quot; I mentioned  
 thnt pnper once before, when it was pretty 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846052201:0542/pct:72.13898629263628,70.82184916061138,14.695569014982468,2.9691806564770733/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846052201:0542/pct:72.13898629263628,70.83020128622735,14.711507810009563,2.973356719285058/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1227,7 +1227,7 @@ as the source of authentic information &quot; Whe­
   
 TO THE EDITOR Of THE UNION
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846052301:0547/pct:27.57542598092856,3.3531304132640436,12.474597467562921,60.9378866617174/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846052301:0547/pct:27.57542598092856,3.3613791965685063,12.485019019331979,60.9378866617174/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1250,7 +1250,7 @@ rests, and the r.asaning opposed to the ainstruction making
 the 49/A degree of latitude the northern boundury of Louisi­  
 ana.&quot; I mentioned that paper once l&gt;efore, wheu it^was pret
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1846052301:0368/pct:82.33004309745586,47.020015654702,15.556791324899207,4.8194118304819415/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1846052301:0368/pct:82.33467723249456,47.020015654702,15.552157189860512,4.826866450482687/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1338,7 +1338,7 @@ the construction making the 49lh degree of latitude the
 northern boundary of Lousiana.&quot; I mentioned that pa­  
 per once before, when it was pretty well cried dow
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn82015677:00296029804:1846060401:0340/pct:86.78742674480554,106.95760858243933,19.033031433137985,7.290907197166962/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn82015677:00296029804:1846060401:0340/pct:65.0992407086719,80.22081033225706,14.280005328360197,5.468180397875221/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1358,7 +1358,7 @@ and the reasoning opposed to the construction making
 the 40th degree of latitude the northern boundary of  
 Louisiana.&quot; I mentioned that paper once before, whe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347909:1846060401:0764/pct:256.2665656948126,366.06455433816996,59.6932979931844,11.445069588392064/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347909:1846060401:0764/pct:64.05451448040886,91.50259067357513,14.920499716070415,2.8608438193930423/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1398,7 +1398,7 @@ ssity of recurring to the proceedings of the commts­
 saries as the source of authentic information.&quot; &quot;Thes  
 are not within our reach here,&quot; c. And this wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191241:1846061001:0071/pct:140.39473684210526,361.5114529342919,57.80701754385965,12.104999164019395/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191241:1846061001:0071/pct:35.10253317249698,90.37786323357298,14.453339181927843,3.0262497910048487/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1426,7 +1426,7 @@ cessity of recurring to the proceedings of the commis­
 saries as the source of authentic information.&quot; &quot; Tliese  
 are not within our reach here,&quot; tyc. And this wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn82015677:00296029804:1846061101:0344/pct:47.28144989339019,117.69246818276653,19.229744136460553,9.221781765074066/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn82015677:00296029804:1846061101:0344/pct:35.47054118901626,88.27456707698727,14.436150359904026,6.91633632380555/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

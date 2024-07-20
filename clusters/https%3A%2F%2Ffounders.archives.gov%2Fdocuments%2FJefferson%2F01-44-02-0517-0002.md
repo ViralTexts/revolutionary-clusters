@@ -139,7 +139,7 @@ deliver them to the civil authority, to
 be deedt with according to law. And  
 if death enfucs on either fide, thof- wh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804113001:0002/pct:21.255929523379265,30.64584212747995,18.725999548226792,4.952863374138174/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804113001:0002/pct:21.27098863037422,30.64584212747995,18.710940441231834,4.962243797195254/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -178,7 +178,7 @@ th.-refiom by the collector of the dif­
 trict, fhall fail to do fo, it fhall be law­  
 ful for the Prefident of the Unite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804113001:0002/pct:20.917099615992772,58.87153510623329,18.906708832166252,17.8978471929084/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804113001:0002/pct:20.917099615992772,58.87622531776183,18.921767939161207,17.90253740443694/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -201,7 +201,7 @@ person committing the same, shall i»e on board of
 any foreign armed vessel, in ana port or harbour of  
 the United States, or in the waters within the jurisdic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804120301:0246/pct:3.4447300771208225,85.33724340175954,22.005141388174806,5.457803844900619/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804120301:0246/pct:3.4438447699820096,85.3233425639355,22.005911076844,5.460987131454634/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -249,7 +249,7 @@ ing to law. And it death ensues on either side,
 those who are concerned in support of the civil au­  
 thority, shall he justified, and those engaged in resit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804120301:0246/pct:3.341902313624679,1.5477354187031607,44.93573264781491,94.72140762463343/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804120301:0246/pct:3.341043433564636,1.5474833034696205,44.93060909791827,94.71005049682358/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -331,7 +331,7 @@ mits of the United States ; and if lie be found therein
 thereafter, he shall be liable to he arrested, and pu­  
 nished by tine and imprisonment, in any court in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804120301:0246/pct:26.09254498714653,23.655913978494624,22.18508997429306,40.15966112740306/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804120301:0246/pct:26.085839115908506,23.652060596188303,22.1858134155744,40.157191725036654/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -378,7 +378,7 @@ thers arrefted as at mfaid, and deliver them t*
 the civil authority, to be dealt with according  
 fo law. And if death enfnes on either fide
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804120601:0253/pct:77.95116577932806,83.46397909667786,17.6060216633009,7.502799552071669/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804120601:0253/pct:77.93685756240822,83.4535954217467,17.608908467939305,7.506013104420669/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -400,7 +400,7 @@ depart therefrom by the collector of the diftrift,
 ihall fail to do fo, it (hall be lawful for the Prc­  
 fident of the United States to forbid by procla
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804120601:0254/pct:6.35427760028399,19.73830391309715,16.773162939297123,3.950129613627947/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804120601:0254/pct:6.353149955634428,19.735867686990865,16.776101745045846,3.9537562741709866/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -430,7 +430,7 @@ board ol any foreign armed vessel, in any
 port or harbor of the United States, or in  
 ih- wa’* is within the jurisdiction of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804120801:0382/pct:41.57692307692308,10.392639626797978,17.75,10.522223662044835/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804120801:0382/pct:41.56892905210537,10.391293081109096,17.752996218675897,10.525179234689471/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -474,7 +474,7 @@ be not made, or if the sheriff ■&gt; • marshal
 he obstructed from making tbe demand,  
 l.e s;i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804120801:0382/pct:41.61538461538461,24.81534274977323,17.76923076923077,19.43760528702864/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804120801:0382/pct:41.60738319553932,24.812127494169474,17.772223290392873,19.43940571823443/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -561,7 +561,7 @@ to he arrested, and punished by fine and
 imprisonment, in any court in the Unit­  
 ed States having competent jurisdiction
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804120801:0382/pct:41.51923076923077,3.8356874433069845,36.51923076923077,92.1731242710898/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804120801:0382/pct:41.51124783695443,3.8351904638507386,36.51861821444594,92.16550056145806/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -591,7 +591,7 @@ him giving him aid and countenance, in preventing
 and refilling the execution of the faid procefs.  
 and the officer charged with the execution o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1805021201:0346/pct:61.399342345633904,39.91607010614663,17.51918158567775,8.98543569489015/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1805021201:0346/pct:61.38812785388128,39.91114402073306,17.5220700152207,8.98844049528981/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -621,7 +621,7 @@ Paid, and deliver them to the civil autho­
 rity, to be dealt with according to law.  
 If death enPue tothe perf n ordered t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805031101:0003/pct:40.65885474242759,32.95848951825628,18.483307539243864,11.495210329029572/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805031101:0003/pct:40.66622448227577,32.96774492109769,18.490677279092047,11.499838030450276/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -644,7 +644,7 @@ mitting the same, shall he on board of any foreign
 armed vessel, in :uiv port or harbour of the United  
 btates, or in the waters within their jurisdiction, i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805031801:0406/pct:26.54385054488843,16.23567921440262,22.418266735858847,5.531914893617022/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805031801:0406/pct:26.53696498054475,16.233022418589428,22.4189364461738,5.535100638193422/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -682,7 +682,7 @@ jiic person c.!i ;rgc i vith the offence ; and if dewvcvv
 making tuc demand, he shall use ail the means in  
 u
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805031801:0406/pct:26.54385054488843,22.242225859247135,22.444213803840167,14.353518821603927/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805031801:0406/pct:26.53696498054475,22.23858615611193,22.444876783398183,14.355261004745541/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -714,7 +714,7 @@ said offender and deliver him over to the civil authori­
 ty of the state, to be dealt with according to law :  
 and all those ..rested lor being concerned in resistin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805031801:0406/pct:26.206538661131294,64.53355155482815,22.703684483653348,11.031096563011456/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805031801:0406/pct:26.199740596627755,64.52299132711504,22.704280155642024,11.033382425135002/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -763,7 +763,7 @@ United States SiiiLrequired to depart therefrom, shall
 fail so to do, it s’nul be lawful for the President of  
 the United States, or such ether person as lie shal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805031801:0406/pct:26.206538661131294,1.8494271685761048,45.926310326933056,95.69558101472995/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805031801:0406/pct:26.199740596627755,1.8491245295369008,45.920881971465626,95.68401243658975/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -788,7 +788,7 @@ its citizens or subjects, to make entry or unlade, so
 long as the said armed vessel eh d! remain in the har­  
 bours or waters of the United States, in defiance o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805031801:0406/pct:49.81837052413077,14.566284779050736,22.23663725998962,6.743044189852701/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805031801:0406/pct:49.80544747081712,14.563901161839306,22.237354085603112,6.746031746031746/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -819,7 +819,7 @@ indicted and punished by fine and imprisonment, in
 any court in the United States having competent ju­  
 risdiction, and it shall be .a part of the sentence tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805031801:0406/pct:49.76647638816814,30.88379705400982,22.23663725998962,10.360065466448445/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805031801:0406/pct:49.753566796368354,30.87874324987727,22.237354085603112,10.362461135657012/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -890,7 +890,7 @@ lustificd ; but if to the marshal, or to any /
   
 «l those supporting him In the discharg
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805033001:0122/pct:60.255417956656345,2.179944510503369,36.26160990712074,94.39820319725195/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805033001:0122/pct:60.243760882182244,2.179656538969617,36.261043399754946,94.39013650374284/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -928,7 +928,7 @@ authority of the state, to be dealt with ac­
 cording to law : and all those arrested for  
 being concerned in resisting the executio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805033001:0122/pct:78.61842105263158,34.50918219051394,18.42105263157895,16.144801162637073/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805033001:0122/pct:78.60321145289224,34.50462351387054,18.423937576578318,16.147071774548657/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -982,7 +982,7 @@ and required to depatt therefrom, shall
 mil so to do, it shall he lawful for the Pre­  
 sident of the United States, or such oths
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805033001:0122/pct:78.61842105263158,68.14638657682653,18.304953560371516,27.242700488836043/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805033001:0122/pct:78.60321145289224,68.13738441215324,18.307860966015348,27.243505063848524/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1014,7 +1014,7 @@ thorny. And if after the publication o
 *aui proclamation, and due notice thereof  
 any person shall afford any aid to suc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805033001:0123/pct:1.7700836413149192,5.070645715040275,18.790118653958373,12.06919318631982/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805033001:0123/pct:1.7697394010112797,5.069976234486401,18.792946972643588,12.072000704163365/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1049,7 +1049,7 @@ mits or the United States he shall he lia­
 ble therefor i* be arrested, indicted and  
 punished by fine and imprisonment, i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805033001:0123/pct:3.0927835051546393,27.71688894757692,17.467418790118654,13.442493067476562/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805033001:0123/pct:3.09218203033839,27.713229469236865,17.470504343316478,13.4451192676701/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1091,7 +1091,7 @@ ted; as aforefaid, and deliver them to
 ‘the civil authority, to be dealt with  
 dccording td law. | If death ensue t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1805051401:0077/pct:41.59637613245861,42.970927917164474,16.61980631052796,19.285145360414177/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1805051401:0077/pct:41.59637613245861,42.977565378999074,16.63021972300323,19.285145360414177/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1129,7 +1129,7 @@ hereby. authorifed’ b purfue’ the fid
 Forsnpudacall ssarsi doal ¢ oniu it l R  
 ATN TR e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1805051401:0077/pct:41.59637613245861,78.01672640382318,17.04154951577632,17.731979291119075/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1805051401:0077/pct:41.59637613245861,78.02004513474047,17.046756222013954,17.731979291119075/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1202,7 +1202,7 @@ colle@or of the diftri&amp;, where such
 armed veffzl shall be, and of any and  
 of every other dift
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1805051401:0077/pct:59.05966885348329,3.7733970529669456,34.4892221180881,91.88570290720828/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1805051401:0077/pct:59.05966885348329,3.7800345148015397,34.4892221180881,91.87906544537368/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1529,7 +1529,7 @@ publick authority. And after the publication of said
 proclamation, and due notice thereof, any person who  
 shall aflord nnv aid to such armed vessel, or to an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806051401:1111/pct:52.57281553398058,63.850812878546385,20.87378640776699,30.538731271915843/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806051401:1111/pct:52.560058238291674,63.8406374501992,20.87478767289493,30.53784860557769/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1578,7 +1578,7 @@ FREDERICKSBURG, July 3.
 At a Meeting of the citizens of Fredericks­  
 burg and its vicinity, convened at th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807070801:0224/pct:40.63444108761329,42.12106053026513,18.12688821752266,20.260130065032516/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807070801:0224/pct:40.626769869737586,42.11579342253345,18.12975898307218,20.261764828477347/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1603,7 +1603,7 @@ exe* pt when they shall be forced fo by distress, by
 the dangers of the sea, or being panned by an ene­  
 my, or wheu charged with despatches or busines
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807071301:0621/pct:50.95341539946899,87.31895719343419,20.492396813902968,7.531380753138075/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807071301:0621/pct:50.94111969111969,87.30490748189864,20.493484555984555,7.5341914722445695/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1628,7 +1628,7 @@ sarfie nation or to its churns or subject&quot;, to make
 entry or unlade, so lpng as the said aimed vessel  
 shall remain toljie harbaiir$«r waters of the Unit*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807071301:0621/pct:72.31474776731837,18.056002574831027,21.288921071687184,7.5957515288059225/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807071301:0621/pct:72.29729729729729,18.053097345132745,21.289816602316602,7.598551890587289/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1662,7 +1662,7 @@ risdtctnm, and it shallbe a part of the sentence that ■
 he shallwithin such tune after the payment of his  
 fine and the expiration of his term of imprisonment
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807071301:0621/pct:72.07337678011103,36.98101062117799,21.57856625633599,12.825877051818475/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807071301:0621/pct:72.05598455598455,36.975060337892195,21.57939189189189,12.827835880933225/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1723,7 +1723,7 @@ by continued actsof on
 0 have forfeited all claim to  
 required h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807112701:0003/pct:4.885720276787587,43.32738993279386,17.88634933948417,33.959676313262925/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807112701:0003/pct:4.885720276787587,43.32738993279386,17.900328510519326,33.973391852969414/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1758,7 +1758,7 @@ in the limits of the United States, he
 shall be liable therefor to he arrested,  
 indicted, and punished by fine an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807112701:0003/pct:41.03585657370518,37.210259223700454,17.82344306982596,15.16938691537512/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807112701:0003/pct:41.042846159222755,37.214831070269284,17.83043265534354,15.183102455081608/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1799,7 +1799,7 @@ and departure, as shall be signified to him by the
 -4be president of the United States, and not conform­  
 ing thereto,, shall be required lo depart from the U
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807120401:0863/pct:3.880520806739852,66.40649888499522,23.615011488383967,17.362217266645427/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807120401:0863/pct:3.8795303726391017,66.39592291766205,23.61536498213374,17.363433667781493/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1829,7 +1829,7 @@ Sec. 9. And be it further enacted, that whenever
 any collet tor, conformably to the provisions of this  
 act, shall have required in writing, the commande
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807120401:0863/pct:28.312484043911155,69.33736858872253,21.981107990809292,10.84740363172985/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807120401:0863/pct:28.305257784583972,69.32632584806498,21.981878509443593,10.849657588788023/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1861,7 +1861,7 @@ theretor to be attested, interdicted, and punished by
 fine and imprisonment, in any court in the United  
 States, having competent jurisdiction, and it shal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807120401:0863/pct:51.46796017360224,3.520229372411596,21.955578248659688,11.9942656897101/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807120401:0863/pct:51.454823889739664,3.5196687370600412,21.95635528330781,11.996336996336996/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1892,7 +1892,7 @@ risdiction of the U States, &amp; required tode­
 . part .therefrom, shall fail so,to do, it shall be  
 | lawful Jor the President of the U Uta/es, o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809011701:0321/pct:22.99484261070603,79.33432687531048,17.126089276187088,3.2911077993045206/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809011701:0321/pct:22.990753911806543,79.32447535080094,17.128971076339496,3.2948383625150046/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1965,7 +1965,7 @@ ther person as he shall have empowered
 for that purpose, to employ such part of the  
 laud and naval forces, or of the militia 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809030701:0081/pct:3.925619834710744,32.68033212247016,17.468069120961683,14.296834457706279/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809030701:0081/pct:3.924882629107981,32.67609287845376,17.471048513302033,14.29930384399187/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1993,7 +1993,7 @@ which may he forced in by distress, or which are
 charged with dispatches or business from the go  
 vernment to which they belong, and also packet
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809031001:0388/pct:23.089549516687946,29.225307467985292,17.563377712930876,7.873716241917078/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809031001:0388/pct:23.085339168490155,29.22160243407708,17.566253343058595,7.876943881000676/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2072,7 +2072,7 @@ sections, and insert
 all pacific intercourse with any interdicted  
 foreign armed vessels, the officers or crew
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810050401:0457/pct:41.14516425032116,18.7591063623118,18.168471279133787,14.363768819815444/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810050401:0457/pct:41.137614678899084,18.75682894257618,18.171253822629968,14.36607178989114/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2102,7 +2102,7 @@ President of the United States, {* not con .
 Forming thereto shall bo requ red to depart  
 Irom the U. S
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810050801:0153/pct:78.69721643628101,13.606828895400689,17.87540238591176,9.68276213530386/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810050801:0153/pct:78.6823173040515,13.605095541401274,17.878328915814716,9.685774946921443/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2134,7 +2134,7 @@ rity and directions nl the ptesident of the United
 States, and not conforming thereto, shall be re­  
 quired to depart from the Untied States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810050901:1069/pct:51.52893606267374,42.30334356323696,21.430376547889814,11.968987239541269/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810050901:1069/pct:51.51591712986357,42.29651162790697,21.431278423446184,11.97109173126615/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2241,7 +2241,7 @@ dent of the United States, and n5t conform­
 ing thereto, shall he required to depart from i  
 the United Stales
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810051101:0008/pct:5.255366395262769,9.40685251135945,18.301258327165062,17.42601006999877/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810051101:0008/pct:5.254394079555967,9.405697445972494,18.30403946962689,17.427963326784546/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2633,7 +2633,7 @@ the President of the U. States.
 Sec. 2. And be it further enacted, That it  
 shall be lawful for the President of the Unite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1820061301:0093/pct:41.424418604651166,50.12569130216189,17.093023255813954,14.811463046757165/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1820061301:0093/pct:41.429263565891475,50.13239483827719,17.102713178294575,14.808111278699513/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2727,7 +2727,7 @@ Sec. 2. And be it further enacted,
 That it shall he lawful for the President  
 of the United States to employ such par
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898000:1820070401:0207/pct:2.6329647182727753,24.44701221525256,17.79884149552396,20.617365467150876/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898000:1820070401:0207/pct:2.632271650434325,24.44297738900809,17.80073703606212,20.618088793530287/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2796,7 +2796,7 @@ the United States.
 Sec. 3. Aad be it further enacted, That it  
 shall be lawful for the President of the U
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1820071901:1144/pct:2.1601988147581723,70.82889913680974,20.68438157140126,18.659098971266406/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1820071901:1144/pct:2.1665710826483147,70.83678215285168,20.68438157140126,18.659098971266406/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

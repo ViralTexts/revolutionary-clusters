@@ -56,7 +56,7 @@ my dear sister
 Your most affectionate Brother  
 G. WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202191022:1858050101:0416/pct:132.20024721878863,165.3105155526854,37.43819530284301,19.276719405876655/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202191022:1858050101:0416/pct:44.06674907292954,55.10350518422847,12.479398434281006,6.425573135292218/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -84,7 +84,7 @@ I am, my dear sister,
 Your most affectionate brother,  
 g. Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664369:1858050401:0580/pct:67.78832326718435,83.99106478034251,13.848144952545297,5.026061057334326/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664369:1858050401:0580/pct:67.78832326718435,83.99726979399355,13.852938356821014,5.029163564159841/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -113,7 +113,7 @@ wish for yon and our other relations, in Fred
 ericksborg?and 1 am, my dear sister, youi  
 most uffeoiionate brother, G. Washington*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn85025007:00415663456:1858051001:0444/pct:4.474872953133823,57.67470247177296,13.721061547148503,7.110161733292646/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn85025007:00415663456:1858051001:0444/pct:4.474872953133823,57.681483741904856,13.725766986636552,7.110161733292646/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -181,7 +181,7 @@ ericksburg, and
 &quot;Your most affectionate brother,  
 &quot;G. WASHiNGTON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn83045160:0020029290A:1858051601:0314/pct:146.2619449128724,219.12968548039638,39.010680157391796,21.80094786729858/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn83045160:0020029290A:1858051601:0314/pct:36.57062543921293,54.782421370099094,9.754040758959944,5.450236966824645/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -212,7 +212,7 @@ for you and our other relations in Fredricksburg
 your most affectionate brother,  
 G. Washington.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn82014282:00414212438:1858052501:0338/pct:24.44250109313511,34.023258295102956,11.587232181897683,7.084177957964366/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn82014282:00414212438:1858052501:0338/pct:24.438939084814923,34.01962876040111,11.589186825998251,7.0860891828461705/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -334,7 +334,7 @@ for yon and our other relations in Fredericks­
 burg, and I am, my dear sister, your most affec­  
 tionate brother, G. Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:0041421017A:1886080101:0268/pct:66.22216112180368,51.41871921182266,14.613692603794336,18.561576354679804/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:0041421017A:1886080101:0268/pct:66.22674365319402,51.41871921182266,14.613692603794336,18.571428571428573/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -373,7 +373,7 @@ and our other relations in Fredericksburg, and I am,
 my dear sister, yourimost affectionate brother,  
 G. WASHLINGTOW
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_dante_ver01:data:sn83030272:00175044899:1886080901:0384/pct:175.3986332574032,303.74072391337273,50.64540622627183,23.746781765864/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_dante_ver01:data:sn83030272:00175044899:1886080901:0384/pct:43.87464387464387,75.93518097834318,12.668566001899336,5.936695441466/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -431,7 +431,7 @@ discharged is to be equally divided into
 five parts, one of which you are enti  
 tled t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_hotel_ver02:data:sn86064205:00206535568:1886082301:0676/pct:8.082706766917294,14.440656956925938,108.92857142857143,348.00123954136967/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_hotel_ver02:data:sn86064205:00206535568:1886082301:0676/pct:2.0216267042783262,3.6101642392314846,27.244945933239304,87.00030988534242/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -471,7 +471,7 @@ Fredericksburg, and I am, my dear sister
 your most affectionate brother  
 G. WAshingto
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_hotel_ver02:data:sn86064205:00206535568:1886082301:0676/pct:58.45864661654135,8.180973039975209,204.13533834586465,81.49984505732878/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_hotel_ver02:data:sn86064205:00206535568:1886082301:0676/pct:14.62153267512929,2.045243259993802,51.05782792665726,20.374961264332196/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -528,7 +528,7 @@ he t rou and our other relations in Fredericks
 Iburg, and I am, my dear sister, your most affec  
 a tionate brotherG. Washito
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barack_ver01:data:sn86053573:00211102032:1886082601:0212/pct:4.851330203442879,254.34548530995232,48.200312989045386,59.3139516997385/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barack_ver01:data:sn86053573:00211102032:1886082601:0212/pct:1.213307240704501,63.58637132748808,12.054794520547945,14.828487924934626/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -598,7 +598,7 @@ tions in Fredericksburg, and I am, my
 dear sister, your most affectionate broth­  
 er, G. Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_earhart_ver01:data:sn82015485:00237283284:1887012201:0100/pct:95.71167883211679,3.1272727272727274,46.167883211678834,139.52207792207793/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_earhart_ver01:data:sn82015485:00237283284:1887012201:0100/pct:63.83690856534307,2.088311688311688,30.792636543435265,93.01818181818182/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -663,7 +663,7 @@ tions in Fredericksburg, and I am,
 my dear sister, your most affectionate  
 brother, G. WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_ingalls_ver02:data:sn84027670:00237283417:1887020301:0207/pct:210.8298171589311,95.09095439820584,43.53023909985935,81.13630700224272/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_ingalls_ver02:data:sn84027670:00237283417:1887020301:0207/pct:52.70745428973277,23.77273859955146,10.882559774964838,20.28407675056068/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

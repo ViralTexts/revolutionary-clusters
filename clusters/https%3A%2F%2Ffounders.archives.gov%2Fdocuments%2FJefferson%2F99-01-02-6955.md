@@ -90,7 +90,7 @@ polongatio5 beyond the 2d term of office.
 Trush also requires me to add that I am  
 si
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216079:1807122101:0137/pct:22.792937399678973,35.482743556138054,23.274478330658106,30.039318479685452/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216079:1807122101:0137/pct:22.789611905456667,35.47964354359602,23.27594591965762,30.039606267109324/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -208,7 +208,7 @@ the first example of prolongation
 beyond the second term of office.&quot;  
 Dc Tocqueville, the celebrated author
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_idacox_ver02:data:sn84026853:00202194023:1874061701:0010/pct:14.409221902017292,25.13410709060763,14.068640293424155,8.33902272505608/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_idacox_ver02:data:sn84026853:00202194023:1874061701:0010/pct:14.409221902017292,25.140609252576482,14.077373155182954,8.33902272505608/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -244,7 +244,7 @@ shows how easily that degenerates in­
 to an inheritance.&quot; It was the o­  
 claimed idea of the great statesman o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn85026955:00200293538:1874070701:0106/pct:155.41076487252124,59.80789754535753,43.96600566572238,35.944503735325505/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn85026955:00200293538:1874070701:0106/pct:38.858195211786374,14.951974386339382,10.993058506870662,8.986125933831376/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -287,7 +287,7 @@ example of prolongation beyond the second term of
 office.  
 Addresses were also received from Georgia, Dec.6
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hugo_ver01:data:sn83030214:00206531186:1874091401:0590/pct:149.9919858951755,5.513726398702652,95.17550889565635,290.9069848256689/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hugo_ver01:data:sn83030214:00206531186:1874091401:0590/pct:49.99732863172517,1.837908799567551,31.725169631885453,96.96899494188965/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -321,7 +321,7 @@ pair that principle; and I should unwillingly be
 person who, ditrtqarding the sound precedent,  
 by an iUustriou pric4iir,ihorUifurMh the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_broadsheet_ver01:data:sn92053942:00295879877:1875062601:0255/pct:7.967557251908397,33.24967132783554,15.823791348600508,4.111389984462771/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_broadsheet_ver01:data:sn92053942:00295879877:1875062601:0255/pct:5.981546293350302,24.943229353412214,11.867642379891823,3.083542488347078/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -429,7 +429,7 @@ WtaUie wearied faculties of age.
 J?&#x27;&#x27;&quot;nont has been pleased to ex­  
 JJK the principles and measures pur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_eritrea_ver01:data:sn84026844:00202193456:1880022301:0187/pct:-0.176056338028169,63.75862679171828,10.487927565392354,21.37674747832242/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_eritrea_ver01:data:sn84026844:00202193456:1880022301:0187/pct:-0.1823440643863179,63.76305078747124,10.500503018108652,21.38559546982835/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -462,7 +462,7 @@ by an .illustrious predecessor, should furnish
 the first example of prolongation beyond tha  
 second term of office.’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ginsberg_ver01:data:sn85026214:print00205958228:1880022901:0004/pct:43.72623574144487,83.65569360830024,11.931921057396343,6.8015883181759955/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ginsberg_ver01:data:sn85026214:print00205958228:1880022901:0004/pct:43.73076226688394,83.66209811707442,11.936447582835415,6.807992826950173/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -501,7 +501,7 @@ not fixed by the Constitution or supplied by
 practice, his office, nominally for four yearr,  
 will in fact become for life. It cordially a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_bentley_ver01:data:sn83025733:00200297581:1880032701:0852/pct:73.45309381237524,65.28707017270888,57.884231536926144,11.949587676987708/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_bentley_ver01:data:sn83025733:00200297581:1880032701:0852/pct:18.377028714107364,16.32176754317722,14.481897627965044,2.987396919246927/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -655,7 +655,7 @@ Constitution or supplied hv prac­
 tice, his office nominally for years  
 will in fact bccomo for life.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn84038198:00202192506:1880050801:0986/pct:56.89102564102564,42.28230785607835,13.461538461538462,3.7683627847562273/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn84038198:00202192506:1880050801:0986/pct:56.907051282051285,42.28230785607835,13.469551282051283,3.789652969980839/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -722,7 +722,7 @@ nlsh the first example of prolongation &#x27;
 beyoud the second term of office.”  
 Under the head of “Something Un- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gore_ver01:data:sn86092518:00414186609:1891020901:0135/pct:36.25390514058506,6.191625564067583,10.749786992331725,10.32637212719068/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gore_ver01:data:sn86092518:00414186609:1891020901:0135/pct:36.24875763169104,6.190975865687303,10.752993516020636,10.328786288912207/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -757,7 +757,7 @@ Gs
 2is sor, should furnish the first example of prolongation  
  beyond the second term of office.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_milosz_ver01:data:sn83030272:00175045016:1892052501:0896/pct:0.0,117.50687442713107,74.0377358490566,44.05743965780629/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_milosz_ver01:data:sn83030272:00175045016:1892052501:0896/pct:0.0,29.376718606782767,18.516421291053227,11.014359914451573/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

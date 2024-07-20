@@ -90,7 +90,7 @@ great measure. In what place is agriculture
 so capable of improvement and great exten­  
 tion, as in the western country ?” (page 2 .6 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809012701:0337/pct:23.967538322813347,59.97971088004058,17.186654643823264,8.635556682728886/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809012701:0337/pct:23.96321673278038,59.9721059972106,17.189566053612214,8.638688136596086/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -115,7 +115,7 @@ trade must depend ou agriculture for its support, in a great
 measure. Tn what place i agficulture so capable of improve  
 ‘ment_and ‘great extention, as in the weflern country?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809022101:0235/pct:40.97954122752635,88.50609147193929,26.549907005579666,7.829039344917116/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809022101:0235/pct:40.97954122752635,88.50609147193929,26.560239718950196,7.832368018107982/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -243,7 +243,7 @@ should continue to operate on th-m, I humbly con­
 ceive they will derive more advantage from holding  
 too Mississippi than even the southern States.&quot; Mr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830020201:0052/pct:59.45141065830721,17.607621736062104,17.884012539184955,3.7755822159491883/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830020201:0052/pct:59.44209371571854,17.60555098200635,17.886433683330722,3.7790583715551374/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -502,7 +502,7 @@ House that this project will never be revived in
 Congress, and that therefore no danger is to be  
 apprehended.&quot; The impression made, how
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043020:1898082101:0068/pct:121.70245398773007,284.59505673869114,50.61349693251534,10.570495880615576/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043020:1898082101:0068/pct:30.443122961826205,71.14876418467279,12.660656052177249,2.642623970153894/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

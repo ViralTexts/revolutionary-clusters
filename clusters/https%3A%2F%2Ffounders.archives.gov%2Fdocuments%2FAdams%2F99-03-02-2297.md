@@ -289,7 +289,7 @@ And earth, enchantments end,
 It takes the most effectual means,  
 A nd runs us of a friend
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn86063325:00200292480:1859041401:0233/pct:45.44616519174041,35.864618885096704,28.466076696165192,14.704209328782708/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn86063325:00200292480:1859041401:0233/pct:34.10180745112505,26.905574516496017,21.35743268166728,11.021046643913538/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -350,7 +350,7 @@ And robs us of a friend.
 What is the whole creation fair?  
 Of love divine the child
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn96061106:no_reel:1882110301:0197/pct:71.34189031505251,156.94794601809284,47.631271878646444,56.54753077265312/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn96061106:no_reel:1882110301:0197/pct:23.780630105017504,52.31598200603094,15.87709062621548,18.84917692421771/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

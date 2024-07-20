@@ -80,7 +80,7 @@ rience tells him, and the great fall in the price
 of property is an unequivocal and melancholy  
 proof of it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016475:00296026402:1840050601:0090/pct:18.971494607087827,22.666666666666668,14.214175654853621,7.71326164874552/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016475:00296026402:1840050601:0090/pct:18.984334874165384,22.666666666666668,14.227015921931176,7.722819593787336/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -119,7 +119,7 @@ rience will tell him when such a state of things exists;
 the most melancholy and unequivocal proof of it being  
 a ventral fall in the price of property.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840071601:0306/pct:80.8952551477171,55.05733797191083,15.93554162936437,7.215565004509728/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840071601:0306/pct:80.8952551477171,55.065927930249536,15.941509997015816,7.215565004509728/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -141,7 +141,7 @@ s ^1®
 fall in the price of property is an une­  
 quivocal and melancholy proof of it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn83016802:00415668843:1840072301:0241/pct:15.020067922198209,80.93230264698992,47.65359678913245,7.343640196767393/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn83016802:00415668843:1840072301:0241/pct:15.025213543274674,80.93620676192707,47.65874241020891,7.3397360818302495/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -167,7 +167,7 @@ common purpose oj education, not to establish the principles of the Constitu- wa
   
 &#x27;t&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn83016802:00415668843:1840072301:0241/pct:26.76752083976536,78.58983368470368,35.75177523927138,16.104474115717966/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn83016802:00415668843:1840072301:0241/pct:26.772666460841823,78.59373779964082,35.746629618194916,16.104474115717966/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -208,7 +208,7 @@ ERIY&#x27;
 Washington says, a general fall in  
 the price of property&quot; is unequivoca
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn83016802:00415668843:1840081301:0254/pct:46.073052202539586,7.791902071563088,13.183884621414014,8.286252354048964/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn83016802:00415668843:1840081301:0254/pct:46.07827768197732,7.799748901443817,13.194335580289492,8.286252354048964/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -236,7 +236,7 @@ liis own consumption, and where there 13 so! tion, other than to refer the few w
 ample a field for every mercantile and me- any confidence in the statements of that paper,  
 to the following extract from a speech latel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn83016802:00415668843:1840081301:0254/pct:46.18278727073209,5.637947269303202,26.39912211945446,4.154896421845574/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn83016802:00415668843:1840081301:0254/pct:46.193238229607566,5.641870684243566,26.388671160578983,4.158819836785939/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -268,7 +268,7 @@ things exists; the most melancholy and unequiv-
 ocal proof of it being a gene ral fall in the price of  
 properly.&quot;- park&#x27;s Life of Washingion, Fol. 4
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1840083101:0168/pct:259.37731653076355,185.1486543609976,57.449962935507784,35.45159926729604/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1840083101:0168/pct:64.8563484708063,46.2871635902494,14.365152919369788,8.86289981682401/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -308,7 +308,7 @@ him when such a state of things exist; the most me­
 lancholy and unequivocal proof of it being a Gknkral  
 Pall IN THE PRI( T. OF PROPERTY.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840090801:0365/pct:65.67002881844381,42.2396100564392,15.904178674351584,7.747562852744998/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840090801:0365/pct:65.67002881844381,42.2481614503164,15.916186359269933,7.751838549683598/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -382,7 +382,7 @@ PROPERTY.”
 Now, contrast with this the cold and  
 heartless policy of Mi. Van Huron, whic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183682:1840092401:0324/pct:7.567652611705475,58.37582390249969,14.60037759597231,11.341872901380425/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183682:1840092401:0324/pct:7.566462167689162,58.36856503357374,14.603324419275339,11.344607477410262/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -417,7 +417,7 @@ when such a state of things exist; the most
 melancholy and unequivocal proof of it being  
 a general fall in the price of property.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84022355:00200290112:1840100601:0162/pct:128.23834196891193,261.5184099055067,240.0690846286701,67.38351254480287/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84022355:00200290112:1840100601:0162/pct:32.066508313539195,65.37960247637668,60.03023105160872,16.845878136200717/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -455,7 +455,7 @@ ien such a siate of things exist, the most
 elancholy and unequivocal proof of it be  
 g a general full in the price of property.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667693:1840100801:1042/pct:3.9783001808318263,91.07489908805502,79.29475587703436,45.08895201076394/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667693:1840100801:1042/pct:0.9945750452079566,22.768724772013755,19.82368896925859,11.272238002690985/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -524,7 +524,7 @@ CAL POWER, which requ&#x27;res- a steady, re
 gulating, energetic, honest hand to correct  
 and control it. Every man&#x27;s exp?rienco wil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn87065695:00295877595:1840100901:0564/pct:87.64775413711584,72.64492753623189,19.60697399527187,11.028079710144928/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn87065695:00295877595:1840100901:0564/pct:65.75524682234703,54.483695652173914,14.720662134200413,8.276721014492754/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -566,7 +566,7 @@ tell him when such a state of things exists;--the
 most melancholy and unequivocal proof of it being  
 a fall in the price of property.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296187:1840101301:0678/pct:73.06525037936267,95.17738359201773,71.69954476479515,43.070953436807095/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296187:1840101301:0678/pct:18.2767128487379,23.794345898004433,17.935092047826913,10.767738359201774/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -690,7 +690,7 @@ will afford him much more than is necessa-
   
 WHIG DiSCOUT-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn87090028:00295877959:1842102801:0117/pct:96.83959451401311,6.621315192743764,33.40787119856887,9.603174603174603/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn87090028:00295877959:1842102801:0117/pct:72.65135699373695,4.965986394557823,25.06710408589323,7.210884353741497/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -717,7 +717,7 @@ something amiss in the ruling political pore­
 er, which requires a steady, regulating, en­  
 ergetic, honest hand to correct and contro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn87090028:00295877959:1842102801:0117/pct:96.7948717948718,16.349206349206348,33.60166964818128,7.482993197278912/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn87090028:00295877959:1842102801:0117/pct:72.62153295556219,12.267573696145124,25.216224276767075,5.612244897959184/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -803,7 +803,7 @@ feelings in reference to the new constitution, and the
 expedieney of ratitying it, may be interred trom the  
 fact that on recesving intelligence by express, fro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743038:1851022401:0290/pct:46.646845061116615,163.46703233916125,62.25635943178064,68.95211975774197/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743038:1851022401:0290/pct:15.548948353705539,54.48901077972041,20.75211981059355,22.984039919247323/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -873,7 +873,7 @@ fublius &quot;?(See the numbers of the federalist.)
 The true character of Gen. Washington&#x27;* views and  
 feelings in reference to the new constitution, and the ex
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851022701:0235/pct:46.952931461601985,12.514322087842139,31.230388109000828,83.3609166136219/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851022701:0235/pct:46.95843655381228,12.522809251007851,31.224883016790532,83.3609166136219/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -960,7 +960,7 @@ Publius.&quot; See the numbers i f the Federalist.
 The true character ol Gen. Washington&#x27;s views  
 and feelings in reference to the new Constitution
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_lightningbolt_ver03:data:sn83016794:00415662397:1851031401:0060/pct:25.83682008368201,3.0605628323174687,17.632994620442318,37.23252496433666/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_lightningbolt_ver03:data:sn83016794:00415662397:1851031401:0060/pct:19.384247496637276,2.2954221242381014,13.226722463010013,27.934120088185708/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

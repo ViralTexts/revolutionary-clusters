@@ -68,7 +68,7 @@ which you can the more Ireely admit, as his emi­
 nence and met it give him admission into genteel  
 societies here.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664291:1847061801:0432/pct:46.504605163823044,22.902013681472205,13.830590366903216,9.866075729839098/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664291:1847061801:0432/pct:46.50963812974986,22.90522529466551,13.845689264683678,9.869287343032406/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -105,7 +105,7 @@ of being with you; which you can the more free­
 ly admit, as his eminence an*/ merit give him  
 admission into genteel societies hero.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_emeralds_ver02:data:sn85025007:00414215798:1847061801:0040/pct:54.199475065616795,27.872574652538873,14.758732081566727,11.449016100178891/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_emeralds_ver02:data:sn85025007:00414215798:1847061801:0040/pct:54.19400423942667,27.870657034743722,14.76060697823088,11.4505217291595/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -141,7 +141,7 @@ with you; which you can the more freely admit, as his
 eminence and merit give him admission into genteel so  
 cieties here.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347909:1847070101:1204/pct:261.0065309258548,126.42674296039753,59.95005762581636,41.69552778196055/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347909:1847070101:1204/pct:65.23910120990973,31.601927130382414,14.98463606683311,10.422312556458898/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -175,7 +175,7 @@ j , the honor of being with you, which you can the moro treoly
 admit, as bis eminence and merit give liiiu admission &#x27;  
 (,stor into genteel society.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661150:1847081101:0774/pct:14.477000630119722,62.40089197224975,18.28922495274102,8.510901883052528/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661150:1847081101:0774/pct:14.482251627809283,62.40502147340601,18.29447595043058,8.510901883052528/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -239,7 +239,7 @@ Jenferson described the artist to Washington as
 &quot;without rivaiship, and as disinterested, generous,  
 candid and panting after glory&quot; &quot;He comes no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743658:1869011201:0136/pct:151.10767645543535,112.6434034416826,46.36785162287481,9.536328871892925/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743658:1869011201:0136/pct:50.369225485145115,37.54780114722753,15.45595054095827,3.1787762906309753/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

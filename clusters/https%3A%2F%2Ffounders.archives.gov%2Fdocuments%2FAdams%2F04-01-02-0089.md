@@ -175,7 +175,7 @@ In Asia Minor--where contemplation
 prunes her ruffled wings, and the  
 free souls look down to pity kings.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777833:1876111101:0390/pct:21.73913043478261,65.87570621468926,44.067796610169495,5.367231638418079/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777833:1876111101:0390/pct:5.435784042749217,16.468926553672315,11.018979178183159,1.3418079096045197/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

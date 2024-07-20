@@ -425,7 +425,7 @@ of the National Legislature, to the urticles of tho
 Union, or any treaty subsisting under the authori.  
 ty of the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184340:1832100201:0330/pct:35.80580865603645,37.46309458720612,14.62129840546697,1.7823947512301803/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184340:1832100201:0330/pct:35.80071174377224,37.45899846927619,14.623962040332147,1.7858444493038852/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -508,9 +508,9 @@ treaty subsisting under the authority of the
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1842-10_11_52/page/n3/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1842-10_11_52/page/n3/mode/1up?view=theater)
 
-#### 1842-10-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1842-10-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -527,7 +527,7 @@ of the
 
 ---
 
-## [From _The American review : a Whig journal of politics, literature, art, and science_](https://archive.org/details/sim_american-whig-review_1845-11_2_5/page/n18/mode/1up?view=theater)
+## [From _The American Review: a Whig Journal Devoted to Politics and Literature (1848-1850)_](https://archive.org/details/sim_american-whig-review_1845-11_2_5/page/n18/mode/1up?view=theater)
 
 #### 1845-11-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -594,7 +594,7 @@ all laws contrary, in the opinion of the National
 Legislature, to the articles of the Union, or any  
 treaty subsisting under the authority of the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661472:1850082401:0244/pct:6.3505042245843555,56.98020855501171,14.813300626873808,7.214300915088317/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661472:1850082401:0244/pct:6.3505042245843555,56.98730226289281,14.822385754519852,7.217847769028872/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -691,7 +691,7 @@ The italics arc ininc, and the clause in italics j
 is the same as the power now claimed hy Doug- j  
 j las and Lincoln and sanctioned hy most of the 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664382:1860100901:0331/pct:50.86115527291998,37.938205585264406,13.407525172231054,5.268369974252328/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664382:1860100901:0331/pct:50.869987634693516,37.938205585264406,13.411941353117824,5.274971941638609/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -727,7 +727,7 @@ and to call forth the force of the
 Union against any member of the Union  
 failing to fulfil its duty under (lie Article
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_henryjohnson_ver01:data:sn84026912:00211109981:1860120101:1144/pct:19.220098643649816,71.98493940463584,15.490135635018495,2.094364042828568/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_henryjohnson_ver01:data:sn84026912:00211109981:1860120101:1144/pct:19.22523633374435,71.99278346472134,15.495273325113029,2.098286072871318/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -835,7 +835,7 @@ Legislature, to the articles of the Union, or
 any treaty subsisting under the authority of  
 the Uuiou ;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664382:1861050301:0618/pct:12.127716662194794,33.587786259541986,13.294875234773276,7.741240947347817/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664382:1861050301:0618/pct:12.127716662194794,33.594310693547335,13.294875234773276,7.737978730345143/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -854,7 +854,7 @@ the Uuiou ;
 &quot;lure, the articles of union, or any treaty sub-a  
 &quot;sisting under the authority of the Union ; and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn82005159:00296028447:1861060701:0480/pct:52.299499757947395,64.13215109923479,14.73293529126997,2.890805295760962/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn82005159:00296028447:1861060701:0480/pct:52.299499757947395,64.13619984614762,14.738314238072185,2.8867565488481315/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -884,7 +884,7 @@ travening, in the opinion of the national legis­
 lature, the articles of Union, or any treaty  
 subsisting under
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200290033:1861081301:0126/pct:30.568181818181817,118.90295358649789,41.13636363636363,29.156118143459917/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200290033:1861081301:0126/pct:7.645303396333665,29.72573839662447,10.288475202501067,7.289029535864979/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -907,7 +907,7 @@ by the several States contravening, in the opinion of the
 national legislature, the articles of Union, or any treaty  
 subsisting under
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn86071866:00414184728:1861123101:0615/pct:67.67747589833479,64.43648932230589,42.82208588957055,14.306875694358721/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn86071866:00414184728:1861123101:0615/pct:22.555205047318612,21.47617872130338,14.271527047552285,4.768369949806632/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -936,7 +936,7 @@ coBtrawsmng, ia the opinion of Ihe national legisr
 latare; the articles&#x27; of - Union,- or &#x27;any treaty subsis­  
 ting undcrthe articles of Union ; and to, calf Tor the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022809:1862010401:0009/pct:87.38952020202021,20.817165030814884,20.02840909090909,10.111846610362932/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022809:1862010401:0009/pct:65.56678244395327,15.612873773111161,15.029996842437638,7.589591417484592/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1044,7 +1044,7 @@ travening, in the opinion of the national leg­
 islature, the articles of Union or any treaty  
 subsisting under the authority of tho U
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn85034406:00296026700:1864072701:0018/pct:58.843537414965986,71.6093317516805,16.402116402116402,2.4120205614867536/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn85034406:00296026700:1864072701:0018/pct:44.15879017013233,53.710293923817055,12.306238185255198,1.818900751285093/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1071,7 +1071,7 @@ ryland against choosing him by Electors
 to be appointed by the Legislatures of  
 the States; and then the proposition t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867030701:0214/pct:107.21712538226299,182.83093053735254,38.40978593272171,17.562254259501966/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867030701:0214/pct:26.816582530212635,45.707732634338136,9.606853296619244,4.3905635648754915/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1091,7 +1091,7 @@ tional Legislature, the Articles of Union,
 or any treaties subsisting under the  
 authority of the Union,&quot; was taken up
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867031601:0246/pct:105.21792510742787,348.7815684536996,38.612645794966234,8.24102791315906/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867031601:0246/pct:26.308518802762855,87.1953921134249,9.654643131235611,2.060256978289765/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1136,7 +1136,7 @@ tional Legislature, the Articles of Union
 or any treaties subsisting under the an­  
 thority of the Union,&quot; was taken up
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00212470491:1870082501:0711/pct:21.65032679738562,190.0617781359119,52.85947712418301,22.186408810099383/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00212470491:1870082501:0711/pct:5.414793624846751,47.51544453397798,13.220269718022069,5.546602202524846/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1163,7 +1163,7 @@ tional Legislature, the Articles of Union
 or any treaties subsisting under the all-  
 thority of the Union.&quot; was taken up
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00212470491:1870090101:0717/pct:76.86688311688312,153.28506301957628,51.62337662337662,22.311611692142666/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00212470491:1870090101:0717/pct:19.22452293950467,38.32126575489407,12.911084043848964,5.5779029230356665/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1180,7 +1180,7 @@ the national Executive be chosen by
 the Legislature for a term of  
 years,to be ineligible a second time,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn84027186:0027952889A:1872040501:0475/pct:45.20303435966087,62.605521332420714,10.203778075264019,1.5058179329226558/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn84027186:0027952889A:1872040501:0475/pct:45.20799246368189,62.6093239029584,10.208736179285042,1.5020153623849721/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1404,7 +1404,7 @@ able debate upon the power of control left
 to the States and their anticipated tendency  
 to encroach upon the Federal Government, but th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_rumi_ver01:data:sn83030272:00206539021:1899100801:0718/pct:235.7566765578635,130.38976857490866,48.81305637982196,48.47746650426309/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_rumi_ver01:data:sn83030272:00206539021:1899100801:0718/pct:58.939169139465875,32.597442143727164,12.20326409495549,12.119366626065773/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

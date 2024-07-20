@@ -162,7 +162,7 @@ pati on of genuine, vital ,ci . i uft a!^re &#x27; ?nJ ,mP«ual
   
 ing your prayers at the throne of grace for me ,u 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789060601:0004/pct:42.016057091882246,5.656759348034516,52.72078501338091,87.19079578139981/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789060601:0004/pct:42.03835860838537,5.661553211888783,52.72078501338091,87.19558964525407/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -245,7 +245,7 @@ whatever may be in my power towards the
 preservation of the civil ami religious liberties  
 of the American people.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn84022882:00414212426:1855091101:0262/pct:60.75346992729676,59.06293428628152,11.249173826834104,3.0077427039904707/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn84022882:00414212426:1855091101:0262/pct:60.74544012688342,59.05707196029777,11.250991276764474,3.009925558312655/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -416,7 +416,7 @@ the kindest part the prpmize yon make of presentin your
 prayers af the Thron of Grace for me, and that I ilkewise  
 impfore the dirins beasdle ion ta rourseives and your si
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743543:1866010701:0066/pct:157.57575757575756,89.62160846818348,52.599862258953166,24.054021170458693/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743543:1866010701:0066/pct:52.525252525252526,29.873869489394494,17.533287419651057,8.018007056819565/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -585,7 +585,7 @@ the throne of grace, that God Almighty
 may endue you witjh all the  
 graces of His Holy Spirit, tiiat he ma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287289:1889051501:0273/pct:42.651432149006105,36.37710295206856,15.683205509469401,4.221775473494868/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287289:1889051501:0273/pct:42.651432149006105,36.38062991570557,15.698857411175458,4.228829400768878/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -667,7 +667,7 @@ ind that I likewise implore the Divine , &lt;
 igious community.  
 George Washington.&quot; &#x27;j
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287289:1889101601:0453/pct:84.47425223558433,12.180788545784806,17.32963305581252,24.03034512234213/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287289:1889101601:0453/pct:84.4793915099188,12.187911813940236,17.324493781478054,24.026783488264417/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -689,7 +689,7 @@ ways strive to prove a faithful and
 impartial patron of genuine vital  
 religion. In his farewell to hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_fluorine_ver01:data:sn88076013:00271740888:1891112801:0430/pct:30.49645390070922,12.56115298162105,10.840932117527862,4.2840142800476/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_fluorine_ver01:data:sn88076013:00271740888:1891112801:0430/pct:30.509118541033434,12.567764114769272,10.849375211077339,4.290625413195822/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

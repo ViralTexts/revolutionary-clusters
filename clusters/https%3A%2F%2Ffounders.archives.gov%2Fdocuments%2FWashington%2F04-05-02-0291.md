@@ -98,7 +98,7 @@ man ought, or of right can be compelled to at­
 tend any religious worship, or to erect or support  
 any place of worship, or to maintain any ministr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789123001:0001/pct:5.995781862006629,12.73209549071618,54.323591443205785,80.86396362258431/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789123001:0001/pct:6.010846640554384,12.73209549071618,54.33865622175354,80.87343690791967/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -127,7 +127,7 @@ to anv religious societies, denominations or modes of worship.
 office, or public trust under this state.  
 3. All elections rtiall be free and equal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792012801:0001/pct:36.357868020304565,81.87286946059756,27.506345177664976,9.244034489673151/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792012801:0001/pct:36.381662436548226,81.87286946059756,27.506345177664976,9.259073591337478/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -447,7 +447,7 @@ that shall in any with or any manner
 ligious worship; nor shall a prefer, nee be given bylaw to  
 any religious societies, denominations, or modes of wo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855071701:0781/pct:66.94775132275132,81.99076449461262,16.104497354497354,5.656747049769113/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855071701:0781/pct:66.95877425044091,81.99504019155123,16.098985890652557,5.665298443646314/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -484,7 +484,7 @@ or maintain any ministry, contrary to the dictates
 of Ins conscience; nor can any man be justly de­  
 prived or abridged of any civil right as &amp;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82014835:00415661514:1855073101:0254/pct:57.32107682206172,35.386409413760205,13.131976362442547,6.350047704865896/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82014835:00415661514:1855073101:0254/pct:57.329831472970014,35.3934768013004,13.1275990369884,6.350047704865896/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -504,7 +504,7 @@ their opinion shall be regulated by the word of God&#x27;; and
 that no man ought to, or of right can, be compelled to attend  
 any religious worship, or .-rector support any place
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855080701:0853/pct:19.3072588664236,67.63585576434738,15.810407689758037,3.148806500761808/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855080701:0853/pct:19.31830736935145,67.64432029795158,15.821456192685892,3.153038767563907/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -546,7 +546,7 @@ liar mode of religious worship; and that no
 authority can or ought to be invested in or  
 assumed by any power whatever that sh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776981:1855081001:0341/pct:22.081575246132207,321.377572448551,42.75668073136428,30.12739745205096/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776981:1855081001:0341/pct:5.520393811533052,80.34439311213775,10.68917018284107,7.53184936301274/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -580,7 +580,7 @@ anthority can or ought to be invested in or
   
 assumed by any power whatever that shall by Rev. James A. B. Stone, D. D of Kal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296229:1855081801:0343/pct:139.34426229508196,114.2915061828502,99.26512153759187,15.609162781269005/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296229:1855081801:0343/pct:34.84591461690698,28.57287654571255,24.82329657902177,3.902290695317251/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -662,7 +662,7 @@ ernment, and the happiness of mankind, ton shall be regulated by the word of God
 schools and the means of education shall for  
 Article of the Bill of Rights excludes al
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296230:1860092801:0368/pct:111.7308798159862,243.57450297192048,102.07015526164463,25.86595613855298/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296230:1860092801:0368/pct:27.944772040845677,60.89362574298012,25.528548827844094,6.466489034638245/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -705,7 +705,7 @@ This declaration in 1777, pat Vermont
 in the very advance of denying the aid of  
 the Constable to collect church rates fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn84022367:00415628353:1869110401:0772/pct:53.986565420560744,122.20491712092557,14.705023364485982,5.172989209033263/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn84022367:00415628353:1869110401:0772/pct:40.511322132943754,91.65646901768828,11.044558071585099,3.882523083769051/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -737,7 +737,7 @@ jf any did not agree with the&quot; prevailing
   
 reajgious sentiment in tneir town, tne
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn84022367:00415628390:1873071001:0228/pct:37.14912280701754,116.62122368851566,15.190058479532164,7.067291962046025/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn84022367:00415628390:1873071001:0228/pct:27.873647265282248,87.4686443450758,11.406844106463879,5.300468971534518/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -795,7 +795,7 @@ be justly deprived or abridged of any civil
 right, as a citizen, on account of his relig­  
 ious sentiments, or secular
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84022473:00280777560:1876050801:0430/pct:290.25830258302585,231.1098332374928,43.09963099630996,18.861414606095458/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84022473:00280777560:1876050801:0430/pct:72.56457564575646,57.7774583093732,10.77490774907749,4.7153536515238645/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -828,7 +828,7 @@ way interfere with, or in any manner con­
 trol the rights of conscience in the full ex­  
 ercise of religious worship; (nevertheles
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84022473:00280777560:1876051501:0454/pct:290.0740740740741,193.15284343217303,43.77777777777778,31.571408107720956/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84022473:00280777560:1876051501:0454/pct:72.51851851851852,48.28821085804326,10.944444444444445,7.892852026930239/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -861,7 +861,7 @@ way interfere with, or in any manner con­
 trol the rights of conscience in the full ex­  
 ercise of religious worship; nevertheles
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn84022488:00280777936:1876051901:0901/pct:150.36710719530103,198.0494699646643,43.4654919236417,31.491166077738516/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn84022488:00280777936:1876051901:0901/pct:37.61248852157943,49.512367491166074,10.872359963269053,7.872791519434629/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -938,7 +938,7 @@ ligious worship, or erect or support any
 place of worship, means just the reverse,  
 or nothing at all; the &quot;conclusions&quot; draw
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84022473:00280777560:1876062601:0598/pct:293.8880706921944,311.5064897185358,43.004418262150224,8.575178649555198/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84022473:00280777560:1876062601:0598/pct:73.51261742494013,77.87662242963395,10.757045496408178,2.1437946623887996/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1039,7 +1039,7 @@ contrary to the dictates of his conscience
 This, indeed, would not forbid an enactment  
 making attendance compulsory for those wh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777067:1881032501:0266/pct:102.47561890472618,63.3249791144528,38.55963990997749,14.369256474519633/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777067:1881032501:0266/pct:25.618904726181544,15.8312447786132,9.639909977494373,3.592314118629908/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1153,7 +1153,7 @@ Does it lead men to know a future and
 eternal state of being? Does it tell us  
 of free will and the responsibility of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_edina_ver01:data:sn90059522:00175033452:1889122801:0542/pct:5.480397570403092,62.35066193090087,10.45002760905577,2.841459476913142/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_edina_ver01:data:sn90059522:00175033452:1889122801:0542/pct:5.480397570403092,62.35783733362035,10.45462911835082,2.8486348796326193/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1172,7 +1172,7 @@ of conscience, the rewarder of the good
 and the punisher of the wicked Does  
 it lead men to know a future and ete
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_betelgeuse_ver01:data:sn90059959:00271742812:1890010401:0183/pct:64.48611508731749,82.17671979019568,13.884912682507872,3.0764575347992738/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_betelgeuse_ver01:data:sn90059959:00271742812:1890010401:0183/pct:64.48611508731749,82.1800820388676,13.894455577822312,3.0831820321430974/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1206,7 +1206,7 @@ source whence we sprung, the goal to
 which we haste! Eliminate the  
 idea of God from the lif
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_keswick_ver01:data:sn84025968:00280769320:1890051201:0099/pct:6.3892723328732,29.73860681538251,13.823703411555906,10.18201724373888/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_keswick_ver01:data:sn84025968:00280769320:1890051201:0099/pct:6.395845658318543,29.74316865106519,13.823703411555906,10.191140915104238/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1229,7 +1229,7 @@ profess the Protestant religion.&quot;
 The form of oath prescribed in these con­  
 stitutions and in the acts of the Legislatur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777109:1892062301:0897/pct:124.28139183055976,68.40283004666566,49.39485627836611,19.38883034773446/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777109:1892062301:0897/pct:31.076224702099488,17.100707511666414,12.351049744656706,4.847207586933615/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1288,7 +1288,7 @@ He then showed that the change which has taken
 place in this respect was brought about by a spirit  
 of religious toleration
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jaguar_ver01:data:sn83030214:00175038851:1895112501:0430/pct:54.48075056615982,170.39161610590182,48.17211258492397,12.476558190843905/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jaguar_ver01:data:sn83030214:00175038851:1895112501:0430/pct:18.16025018871994,56.79720536863394,16.057370861641324,4.158852730281302/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1316,7 +1316,7 @@ and New Testaments to be aiven by
 divine inspiration, and own and pro­  
 fess the Protestant religion.&quot; This re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn86071719:00280777729:1896031801:0092/pct:70.12102874432678,175.76580654896634,50.30257186081695,22.75539459785725/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn86071719:00280777729:1896031801:0092/pct:17.53688989784336,43.941451637241585,12.580401059402195,5.688848649464313/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1343,7 +1343,7 @@ ligious sentiment,&quot; etc. It is plain
 that this Constitution did not establish  
 religious equality, and that its framer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn86071719:00280777729:1896031801:0092/pct:69.89409984871406,218.0775614908707,50.75642965204236,21.30677531311302/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn86071719:00280777729:1896031801:0092/pct:17.480136208853576,54.51939037271767,12.693908437381763,5.326693828278255/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

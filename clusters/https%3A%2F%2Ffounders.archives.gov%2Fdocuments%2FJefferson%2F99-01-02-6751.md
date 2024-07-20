@@ -165,7 +165,7 @@ Detroit.
 John M&#x27;Clellan of Maryland* i  
 sul for the U. S. at the port of Batavia. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808060101:0003/pct:41.79258952597806,2.6877572016460904,35.33429931691161,95.37037037037037/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808060101:0003/pct:41.79258952597806,2.6920438957475996,35.33429931691161,95.37037037037037/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -245,7 +245,7 @@ monies, for lands of thcU. S at Detroit.
 John M‘Clellan of Maryland, consul for tlie U.  
 S. at the port of Batavia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808060701:0047/pct:41.415249588590235,10.5625,36.14920460778936,86.2875/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808060701:0047/pct:41.40767824497258,10.561179852518435,36.14868982327849,86.28088155647211/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -348,7 +348,7 @@ John M‘Clcllan*of Maryland, con­
 sul for the United States at the pert bf  
 Batavia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808061401:0197/pct:22.962962962962962,12.791141657121038,36.01139601139601,81.27784141529845/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808061401:0197/pct:22.95860235472845,12.78951387121405,36.010887454108115,81.27174005260032/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -377,7 +377,7 @@ We understand that Mr. Bayard, who
 is now in town, ha* received hi* letter  
 of appointment from the secretary o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813041601:0081/pct:10.052049446974626,8.631707957629345,18.94925178919974,9.988619451982842/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813041601:0081/pct:10.050414701577493,8.630952380952381,18.9515910446143,9.990662931839402/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -512,7 +512,7 @@ having happened (luring the last recess of the
 Sena te, m I he toilowing offices, I granted com­  
 missions to the per sons .herein named, to caedt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215671:1840022001:0176/pct:67.93294873190378,71.21584394311667,14.542288015674323,1.9283746556473829/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215671:1840022001:0176/pct:67.92555507183283,71.21054198927933,14.544333188216514,1.9307127258288663/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -45,7 +45,7 @@ by The President, for the superinten­
 dence and care of the fame.  
 And be it further enacted, That all pi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789092401:0461/pct:27.971188475390157,44.189057947555845,20.936374549819927,13.256717384266754/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789092401:0461/pct:27.97919167667067,44.19984892629761,20.94437775110044,13.256717384266754/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -85,7 +85,7 @@ or buoy ■ it su&lt; h plat ■■ ot pf
 the bar ol St. Stinon’s, ns may conduct to  
 the safe pilotage of vessel., to and bo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804033101:0075/pct:80.43019012867293,71.93582325092056,18.11023622047244,17.859021567596002/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804033101:0075/pct:80.4147465437788,71.92636423405654,18.1131592421915,17.861056322594784/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -149,7 +149,7 @@ cretary ol the Treasury Lie, and he is hereby au­
 thorised In cause to be erected and placed, bea­  
 CumS ....it w.tuysai ihe following piaces, to wit: 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808070101:0078/pct:60.1733164831197,30.49270990447461,17.67467051814407,13.951734539969834/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808070101:0078/pct:60.16245487364621,30.488877717732812,17.677496991576415,13.954170332202255/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -188,7 +188,7 @@ same ; and the Prusident shail be authorized
 10 make the said appointments,  
 Sec. 2. And be it further enacted, That th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1816062601:0305/pct:6.193114364859517,12.062657214726732,21.84408389394539,9.615824376857992/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1816062601:0305/pct:6.199709800817834,12.062657214726732,21.84408389394539,9.631069441268389/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -259,7 +259,7 @@ sary, and keeping in TM repair the light honses, ben­
 cons buoys, and public piers in the several Etates, and |  
 for furnishing them with luprlbe-. Appropriations for
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021521:00514152718:1834112901:0063/pct:39.17727717923604,72.88980783264412,14.511916421808685,3.0284602286548283/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021521:00514152718:1834112901:0063/pct:39.17727717923604,72.89791615989621,14.522798998802916,3.0284602286548283/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -330,7 +330,7 @@ convenience and solely of this commerce have led to the
 gradual extension of these expenditures; to the erection  
 ol light houses, the placing, planting, and sinking o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:0041418408A:1834120601:0266/pct:50.80821917808219,30.19834350479512,15.068493150684931,7.105492589363557/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:0041418408A:1834120601:0266/pct:50.80126010135598,30.195052849515093,15.070994840889377,7.108350586611456/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -551,7 +551,7 @@ ry and keeping in good repair the light­
 houses, beacons, buoys, and public piers  
 in the several States, and for furnishin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1834121001:0180/pct:38.12533863102763,39.488188976377955,14.791403286978507,4.94750656167979/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1834121001:0180/pct:38.13737884534345,39.492563429571305,14.797423394136416,4.960629921259843/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -585,7 +585,7 @@ commerce have led to the gradual extension
 of these expenditures for the erection of light  
 houses, the placing, planting, and sinking o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152743:1834121101:0992/pct:50.79587196081861,50.529199352509025,15.690047227566906,11.169219275308182/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152743:1834121101:0992/pct:50.79587196081861,50.53334993566596,15.701708355197947,11.173369858465115/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -708,7 +708,7 @@ in good repair the light-houses, bea­
 cons, buoys, and public piers, in the  
 several States, and for furnishing the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_queen_ver01:data:sn84026826:00393349414:1834121301:0066/pct:67.74273652843307,59.87006496751624,15.073255525204868,5.947026486756622/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_queen_ver01:data:sn84026826:00393349414:1834121301:0066/pct:67.72591857000992,59.860093271152564,15.075719960278054,5.950199866755496/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -861,7 +861,7 @@ buoys, and public piers in the several States, and
 for furnishing them with supplies. Appropriations for  
 similar objects have been continued from that time t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_armani_ver02:data:sn84024735:00415664229:1836082301:0446/pct:67.86216596343179,16.53057159928301,17.70745428973277,4.023102967536348/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_armani_ver02:data:sn84024735:00415664229:1836082301:0446/pct:67.87154242850445,16.537210383057825,17.70745428973277,4.023102967536348/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -894,7 +894,7 @@ have led the gradual extension of these expendi­
 tures ; to the erection ol light-houses, tbe placing,  
 planting, and sink ing ol buoys, beacons
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348860:1836082901:0034/pct:81.36911707506806,27.418642320718597,15.558148580318942,10.76424679723163/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348860:1836082901:0034/pct:81.35329574178495,27.414605418138986,15.559984444876532,10.766342756183745/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -951,7 +951,7 @@ for rebuilding when necessary, and keeping in good
 repair, the light-liouses, beacons, buoys, and public  
 piers in the several States, and for furnishing the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1836083001:0343/pct:21.402327005511328,73.62444513265201,14.17636252296387,3.282750077423351/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1836083001:0343/pct:21.407430087773015,73.62788617046901,14.17636252296387,3.2861911152403565/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1072,9 +1072,9 @@ to the erection of Jiglit-houses; the placing, planting, an
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1847-09_21_111/page/n8/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1847-09_21_111/page/n8/mode/1up?view=theater)
 
-#### 1847-09-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1847-09-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1198,7 +1198,7 @@ the placing, planting, and sinking of buoys, beacons, and
 ual extension of these expenditures; to the  
 &#x27; erection of lighthouses, the placing, pl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661393:1851031301:0317/pct:44.2260794720987,12.931334959916347,13.498780662745661,10.154525386313466/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661393:1851031301:0317/pct:44.235642901544495,12.935207776615933,13.49399894802276,10.158398203013052/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1236,7 +1236,7 @@ our lakes and navigable rivers. The convenience and satety
 of this commerce hsve led to the gradual extension of these  
 expenditures; to the erection of light-houses, the placing
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1851032201:0563/pct:63.813813813813816,85.53339664450776,15.383565383565383,6.2361506805951255/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1851032201:0563/pct:63.813813813813816,85.54043121944356,15.397215397215398,6.2361506805951255/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1257,7 +1257,7 @@ when necesiary and keeping in good repair the light-houses,
 beacons, buoys, ar,d public piers, in the several States, and  
 for furnishing ihem with supplies. Appropriations for simi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851070301:0686/pct:4.03711541592056,36.99794026776519,15.692658310271854,3.038105046343975/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851070301:0686/pct:4.047967876716045,37.00223137658771,15.692658310271854,3.0466872639890146/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

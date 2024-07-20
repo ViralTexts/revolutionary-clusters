@@ -128,7 +128,7 @@ taking and subscribing for so many
 wholes shares, as any of them shall  
 choose. And the said president an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216225:1817031401:0568/pct:1.5121191905714921,37.82336033446564,17.789637536135203,18.421740266527305/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216225:1817031401:0568/pct:1.511783014673188,37.81841933376878,17.793093226619238,18.423688221206184/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -182,7 +182,7 @@ said, of taking and subscribing for so ,
 many Whole shares as any of them shall i  
 choose. And the said president and 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184133:1817031401:0245/pct:38.31496357182888,40.99666067300283,17.597608817485522,25.610069355253017/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184133:1817031401:0245/pct:38.307807246918195,40.991395916270704,17.600547876976716,25.611061170326614/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -227,7 +227,7 @@ taking and subscribiug for so many
 wholes shares, as any «.f them shhll  
 fhoosc. And the said president ari
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216225:1817031501:0571/pct:81.42627837651915,42.02974171667101,18.115111213024537,20.923558570310462/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216225:1817031501:0571/pct:81.40761118752866,42.02425981479066,18.11860003056702,20.925177166210165/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -268,7 +268,7 @@ hooks sha 1 be opened as aforesaid, of
 *akmg and subscribing for so many whole  
 sha es a-, any of tln m shall choose ; an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184157:1823040701:0159/pct:57.34624145785877,59.2005076142132,16.780561883067577,16.45939086294416/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184157:1823040701:0159/pct:57.33535775289429,59.19299581271412,16.78370342253432,16.4615319544897/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -319,7 +319,7 @@ I tlkys after the said book* shall U «» tned
 a/oresa d, ol taking and subscribing fot so many  
 whole shares a» any of them s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348914:1823052901:0087/pct:55.35413153456998,12.437742114001107,35.434232715008434,84.24183729939125/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348914:1823052901:0087/pct:55.342465753424655,12.436021579748235,35.432033719704954,84.23364227417346/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -360,7 +360,7 @@ d ,y» alter the said books shall be opened, as a­
 foresaid, of taking and subs&#x27;-rib.tig*for so many  
 whole share* as any of them shall choose; jti
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216420:1830020501:0433/pct:38.74643874643875,67.18048306833353,18.322649572649574,9.430756159728123/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216420:1830020501:0433/pct:38.739540680078335,67.17233009708738,18.32532193935078,9.433656957928802/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -427,7 +427,7 @@ thirty days after the suid books sha!l be opened,
 as aforesaid, of taking and sabscribing for g 0 ma­  
 ny whole shares as any of them shall choose ; an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1830062901:0310/pct:57.15123954818835,28.79839115133233,15.681384773360715,9.39165409753645/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1830062901:0310/pct:57.15123954818835,28.805094687447628,15.686274509803921,9.3883023294788/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -464,7 +464,7 @@ scribing for so many whole shares as any
 of them shall chvose; and the said Presi  
 dent and Directors are hereby required t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153188:1830071501:0515/pct:10.270859843664788,45.05760368663594,17.833121250681693,12.983870967741936/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153188:1830071501:0515/pct:10.276919347997334,45.065284178187405,17.83918075501424,12.991551459293396/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

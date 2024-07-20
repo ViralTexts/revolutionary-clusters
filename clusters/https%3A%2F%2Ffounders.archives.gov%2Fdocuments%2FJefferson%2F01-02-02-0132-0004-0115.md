@@ -162,7 +162,7 @@ St. 4th, &quot; alignments of bond*) bills
 and promilTary not -s, and other writings  
 obligatory for payment: of money (hai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804100301:0001/pct:59.4428602763764,21.755564888702224,18.688308839657818,5.767884642307154/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804100301:0001/pct:59.450171821305844,21.760231462037424,18.688308839657818,5.777217788977554/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

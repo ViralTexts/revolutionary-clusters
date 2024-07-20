@@ -1049,7 +1049,7 @@ dioted. was now so clearly verified that
 from henceforward another mode obtained  
 in all future operations
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn82015679:00296029841:1893050701:0072/pct:107.7047952047952,88.93573958509023,18.556443556443558,26.53061224489796/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn82015679:00296029841:1893050701:0072/pct:80.79180716872736,66.7060212514758,13.925315349069564,19.90217574633159/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1264,7 +1264,7 @@ W. never was in more imminent danger,
 by being between two fires, knocking  
 pp with his sword the presented piece
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_fleshgolem_ver02:data:sn92063989:00514153590:1893060301:0551/pct:52.67802799756543,83.82853605694831,11.0062893081761,12.80563293098112/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_fleshgolem_ver02:data:sn92063989:00514153590:1893060301:0551/pct:52.68479069452898,83.83369441865264,11.0062893081761,12.808212111833281/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1422,7 +1422,7 @@ W. never was in more imminent danger,
 by being between two fires, knocking  
 up with his sword the presented pieces
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carlisle_ver01:data:sn86081853:00296026062:1893062301:0837/pct:56.55318398306579,60.65529379907934,12.31257717410478,24.086108854589764/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carlisle_ver01:data:sn86081853:00296026062:1893062301:0837/pct:56.55906391485859,60.65980684177272,12.306697242311989,24.095134939976532/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1480,7 +1480,7 @@ W. never was iu more imminent dunger,
 by being between two fires, knocking  
 up with his sword the presented pieces
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn84026497:00280776154:1893062801:0150/pct:75.5261106780982,80.93726379440665,16.32891660171473,32.22978080120937/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn84026497:00280776154:1893062801:0150/pct:56.666666666666664,60.710506424792136,12.261208576998051,24.17233560090703/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

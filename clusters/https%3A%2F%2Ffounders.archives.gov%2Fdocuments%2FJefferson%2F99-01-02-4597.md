@@ -80,7 +80,7 @@ BY THE PRESIDENT.
 (Signed) JAMES MADISON,  
 Secretary of State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1806051301:0286/pct:58.33598979917118,34.84244116473873,16.735734778450748,10.929397686477863/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1806051301:0286/pct:58.33598979917118,34.8457651907991,16.74104771012645,10.932721712538227/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -199,7 +199,7 @@ Pv the Prehdent,
 (Signed,) JAMES MADISON!  
 Secretary of State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806112801:0003/pct:58.97380385364798,7.462889827046166,18.965143970556397,52.39003132234782/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806112801:0003/pct:58.98102042289096,7.462889827046166,18.957927401313416,52.39457079304553/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -281,7 +281,7 @@ By the president, .
 (Signed) - ]AMES MADISON,  
 Secretary of Stat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216055:1806112901:0229/pct:25.022195915951464,1.5851930570315267,46.87777448949393,92.17144881331916/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216055:1806112901:0229/pct:25.01849386003847,1.5850526875055344,46.875770577501605,92.16623867292424/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -371,7 +371,7 @@ venth day of NrVvemq-r, one
 tboofand eight liumtred and fix,  
 and in the \o.r of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806120101:0003/pct:59.053763440860216,42.925495557074505,18.989247311827956,48.5850991114149/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806120101:0003/pct:59.060931899641574,42.925495557074505,19.003584229390682,48.59421280473912/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -451,7 +451,7 @@ j (Sign, d) /
 TJI : JEFFERSON. /  
 Ry the I’reinlilit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1806120201:0239/pct:58.56151880248266,58.49430411094601,18.309602044541805,36.56513125309559/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1806120201:0239/pct:58.55083044351159,58.487062027980684,18.312344101721724,36.564731129544796/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -546,7 +546,7 @@ Ky the President,
 JAMES MADTSON,  
 _ Sccrctdry of .State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806120201:0398/pct:59.239028065549064,24.61814914645103,17.988321717837636,48.49184957001668/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806120201:0398/pct:59.227871939736346,24.61498973305955,17.991211550533585,48.48990417522245/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -617,7 +617,7 @@ thousand eight hundred and six, and in the
 \eui of the sovereignty and indepencence of  
 the United States the&#x27;thirty-first
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1806120501:0247/pct:8.46573982125124,15.32634971796938,21.72293942403178,38.29170024174053/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1806120501:0247/pct:8.463638620004964,15.323880116016758,21.723752792256143,38.289558491782145/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -994,7 +994,7 @@ TH. JEFFERSON.
 By the president, &#x27;  
 (Signed) Jawss MaOtscht, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1806121201:0691/pct:67.84565916398714,41.24031007751938,24.383708467309752,53.76399655469423/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1806121201:0691/pct:67.827484596839,41.233207027213226,24.3838735601393,53.75904236996211/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1156,7 +1156,7 @@ thoufund eight hundred and fix, and in the
 year of the fovereigaty and independence  
 of the United States the thirty firft
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1806121601:0413/pct:6.12691466083151,5.509531889410121,16.63019693654267,38.267292144924646/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1806121601:0413/pct:6.12691466083151,5.516185913431148,16.64061685943524,38.27394616894567/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1449,7 +1449,7 @@ detaining, subject to the disposition o!
 the law, all arms, military stores, vesseh  
 or other means provided or providing foi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216195:1815091101:0633/pct:21.307287753568744,2.163819535698642,37.86626596543952,94.96276828734122/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216195:1815091101:0633/pct:21.30408653846154,2.1636299929922913,37.86558493589744,94.95736977341743/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1486,7 +1486,7 @@ and, especially in the discovery, apprehensive
 and bringing to justice, all of tuc^,oftenders-w&gt;n  
 preventing the execution of their aWawt&#x27;ul c m
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1815091401:0551/pct:74.0535083291267,79.51321727917473,21.832407874810702,16.054158607350097/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1815091401:0551/pct:74.03482210446631,79.50040290088639,21.833207166288165,16.05560032232071/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1568,7 +1568,7 @@ vUOTS fiest duy of September, dn the year ol our
 Lord one thousand eight hundred and fitteen,  
 and of. the Independence of the suid Unite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1815092701:0155/pct:0.801094177413052,26.43997224149896,24.6189917936694,23.004857737682165/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1815092701:0155/pct:0.801094177413052,26.447682936232553,24.6189917936694,23.004857737682165/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1638,7 +1638,7 @@ j IJt such enterprises: in seizing and dc­
 j all vessels, military stores, or other means  
 provided or providing for the same.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184303:1828081301:0263/pct:57.951693851944796,42.656930867977856,17.957967377666247,16.876692969026028/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184303:1828081301:0263/pct:57.942606241179234,42.651907677814414,17.960378443364174,16.878630868268175/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1688,7 +1688,7 @@ firm in detecting and bringing to con­
 dign punishment all persons engaged or  
 concerned in such enterprise
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152767:1842040701:0277/pct:1.326486949080017,38.76889848812095,13.008130081300813,17.667386609071276/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152767:1842040701:0277/pct:1.326486949080017,38.776097912167025,13.008130081300813,17.667386609071276/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1797,7 +1797,7 @@ wire ull Judges, Justices of the Peace, Sheriffs,
 &#x27;bepoly Sherifts, and Constables, and all Miltary  
 Oflicers, within their respective departments, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153243:1842040901:0653/pct:18.86713869221158,74.39816202177605,15.27141468832431,16.65168314853661/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153243:1842040901:0653/pct:18.86713869221158,74.40482136316719,15.285297792586423,16.645023807145474/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1849,7 +1849,7 @@ the military throughout the Statp, to hold themselves
 in readiness to appear, armed and equipped, at thirty  
 minutes warning. These measures, in connectio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664266:1842041201:0057/pct:47.65721331689272,10.216998191681736,16.461159062885326,4.239501707856138/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664266:1842041201:0057/pct:47.66235100698726,10.223695666733642,16.46629675297986,4.236152970330186/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2054,7 +2054,7 @@ year of our Lord one thousand
 cight hundred and forty-two, and  
 ol the ludependence ol the Uni
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152767:1842042101:0283/pct:42.291931609439025,32.832,12.688992510950968,6.8053333333333335/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152767:1842042101:0283/pct:42.30135179690076,32.83911111111111,12.684282417220103,6.801777777777778/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2077,7 +2077,7 @@ in the year of our Lord one thousand
 eight hundred and forty-two, and of the  
 independence of the United States o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197978:1842042701:0281/pct:43.8733552631579,26.83651319547584,20.243969298245613,6.991888495373015/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197978:1842042701:0281/pct:32.91746641074856,20.13024106020793,15.190567589799835,5.243916371529761/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2100,7 +2100,7 @@ gust, in the year of our Lord one thou­
 sand eight hundred and lot!‘;two. and  
 of the ladependence of the Umted
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153243:1842081001:0788/pct:80.64918851435705,88.16644993498049,14.384796781800526,4.501350405121537/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153243:1842081001:0788/pct:80.65381236417441,88.16978426861392,14.394044481435243,4.50468473875496/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2119,7 +2119,7 @@ ant, each within his respective department,
 in searching out and bringing to punish­  
 ment ill-&#x27;persons engaged or concerned i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn84026845:00202190674:1861021601:0164/pct:28.64142538975501,50.674339147635315,13.585746102449889,2.787268476892645/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn84026845:00202190674:1861021601:0164/pct:28.646993318485524,50.674339147635315,13.591314031180401,2.8052508541629204/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

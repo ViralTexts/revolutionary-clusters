@@ -321,7 +321,7 @@ In liberty of bloody hand shall range,
 With conscience wide as hell, mowing like grass  
 Her frosh, tair virgins and her flowering infants.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530236:1846032801:0512/pct:5.370685652375793,252.1487316112591,34.85528555951091,5.826479786864358/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530236:1846032801:0512/pct:1.790228550791931,84.04957720375305,11.61842851983697,1.942159928954786/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -468,7 +468,7 @@ in liberty of bloody hand shall.
 With conscience wide as hel  
 Resolved, That a Committee, consisting of the 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_cobol_ver01:data:sn83030213:00206530790:1865042101:0763/pct:202.0480854853072,225.87663168671614,39.821905609973285,6.513949321730228/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_cobol_ver01:data:sn83030213:00206530790:1865042101:0763/pct:67.34936182843573,75.29221056223872,13.273968536657762,2.1713164405767427/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -490,7 +490,7 @@ tused,
 At Herod’s bloody-hunting slaughtermen.”  
 This forcible description shows that the poe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_frost_ver02:data:sn85026214:print00205958216:1879072001:0002/pct:69.6455223880597,11.85500515995872,12.686567164179104,2.7218782249742004/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_frost_ver02:data:sn85026214:print00205958216:1879072001:0002/pct:69.65485074626865,11.85500515995872,12.691231343283581,2.728328173374613/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -511,7 +511,7 @@ Whiles the mad mothers, with their howls
 confused,  
 Do break the clouds, as did the wives o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624566:1879072601:0084/pct:85.48513917282591,45.50175099625649,12.769303349583268,3.2363241154449947/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624566:1879072601:0084/pct:66.25634775543368,35.270628607081576,9.90046719479992,2.505069411948214/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -534,7 +534,7 @@ At Herod’s uloooy-hnnting slaughtermen.
   
 This forcible description shows that the noe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pulaski_ver01:data:sn84031492:no_reel:1879072701:0009/pct:16.849890065960423,22.29667986597624,12.73236058364981,2.726165092902833/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pulaski_ver01:data:sn84031492:no_reel:1879072701:0009/pct:16.854887067759343,22.304294852269265,12.747351589046572,2.718550106609808/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -586,7 +586,7 @@ heart,
 In liberty of bloody hand, shall range  
 With conscience wide as hell!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777079:1884111401:0393/pct:29.681978798586574,247.6219793750962,57.06713780918728,7.511158996459905/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777079:1884111401:0393/pct:7.423773751657093,61.90549484377405,14.273088820150242,1.8777897491149762/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -603,7 +603,7 @@ Whar rein can hold licentious wick­
 edness, when down the hill he holds  
 his fierce career?Shakespeare
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_applejack_ver01:data:sn83016943:00295877844:1894051201:0371/pct:263.05785123966945,115.27159994608438,45.86776859504132,5.768971559509368/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_applejack_ver01:data:sn83016943:00295877844:1894051201:0371/pct:65.80525118875336,28.817899986521095,11.474054165805251,1.442242889877342/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -623,7 +623,7 @@ What rein can hold licentious wick­
 edness, when down the hill he holds  
 his fierce career??Shakespeare
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_manhattan_ver01:data:sn84020355:00279554929:1894051801:0472/pct:24.10443230115361,85.19083969465649,19.79356405585914,4.621790423317141/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_manhattan_ver01:data:sn84020355:00279554929:1894051801:0472/pct:24.11961141469338,85.1943095072866,19.798623760372394,4.628730048577377/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -643,7 +643,7 @@ What rein can hold licentious wick­
 edness, when down the hill ha holds  
 his fierce career?—Shakespeare
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_hubble_ver01:data:sn84022982:00513688660:1894051901:1088/pct:56.71610612074368,30.075070378479825,11.969918529350323,3.0184548013762904/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_hubble_ver01:data:sn84022982:00513688660:1894051901:1088/pct:56.71610612074368,30.075070378479825,11.976881832741453,3.0288812428318215/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

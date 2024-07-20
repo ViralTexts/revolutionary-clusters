@@ -235,7 +235,7 @@ at Buford, on tho twenty-eighth day of April, one
 thoufand feven hundred and eighty-lever, between  
 this ftate and the ftate of South Carolina ; the nor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1805011501:0316/pct:3.799559471365639,18.456751711263223,17.749632892804698,13.466085874299937/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1805011501:0316/pct:3.798862176546155,18.454454952712794,17.752492812136783,13.468558154969305/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -293,7 +293,7 @@ In what light these instructions, so little
 comporting with the dignity of an independ­  
 ent nation, ought to have been viewed, or t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216079:1808032401:0408/pct:29.727286424589423,25.71867655035256,23.022449902064185,16.56120050623757/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216079:1808032401:0408/pct:29.7228080747213,25.716351803308324,23.024003213819423,16.562716562716563/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -319,7 +319,7 @@ ent nation, ought to have been viewed, or t
 *&#x27; lyge and concurrence, and, ultimately, to go­  
 &#x27;* vm yourselves by their advice and opinion.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808080901:0118/pct:41.89388356669123,14.79132310034251,17.35445836403832,6.4823036914880126/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808080901:0118/pct:41.886166881561984,14.789446981227803,17.35740160864493,6.485709453745984/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -453,7 +453,7 @@ Xpaiachicola nr Caiohuche thence along the
 n?,,d,e nre&quot; to its junction with Flint river,  
 thence straight to the head of St Mary&#x27;s n?er; an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022603:1845042301:0282/pct:70.21479064709081,52.49839846252402,20.921696574225123,4.687166346359171/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022603:1845042301:0282/pct:52.67881425074789,39.37646807601965,15.70573837367419,3.5127055306427506/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -551,7 +551,7 @@ matic struggle, notwithstanding hostile intrigner
 by France and Spain. John Adams was as in  
 flexible in his retusal to conclude peace withou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ford_ver01:data:sn83030214:0017503822A:1888030101:0010/pct:245.64415209369486,240.18794914317303,47.489170543879354,23.69264787175235/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ford_ver01:data:sn83030214:0017503822A:1888030101:0010/pct:81.88138403123162,80.06264971439101,15.829723514626451,7.8975492905841165/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -696,7 +696,7 @@ ulated that all forces of the enemy
 shall be immediately withdrawn from  
 the United States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_irwin_ver01:data:sn86092523:00340582238:1898040301:0639/pct:46.00678935143827,2.5755450720387607,26.782204752546008,22.963151855157466/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_irwin_ver01:data:sn86092523:00340582238:1898040301:0639/pct:45.99857091818507,2.5752167261601224,26.781886387995712,22.96341152473228/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -718,7 +718,7 @@ truce without their knowledge or concur­
 rence, and to make them sensible how  
 much wo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_irwin_ver01:data:sn86092523:00340582238:1898040301:0640/pct:69.51372689754172,19.91869918699187,13.045038578862371,3.7982723577235773/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_irwin_ver01:data:sn86092523:00340582238:1898040301:0640/pct:69.50125583064226,19.91616918582497,13.047183351273771,3.8009653245268638/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

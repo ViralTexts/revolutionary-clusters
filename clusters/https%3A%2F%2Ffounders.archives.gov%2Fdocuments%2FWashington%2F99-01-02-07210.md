@@ -136,7 +136,7 @@ of department, and gratitade of heart which the re­
 &amp;ognition of {uch reiterated and aftonithing interpoll­  
 sioas of Providence, demand ofws. = &amp;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1781120801:0058/pct:6.949872557349193,3.8933333333333335,28.768054375531012,65.94133333333333/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1781120801:0058/pct:6.955536675162843,3.896888888888889,28.768054375531012,65.94844444444445/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -365,7 +365,7 @@ e General orders those men belonging to the army who
 may now be in confinement shall be pardoned, and join  
 their respective corps.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1853102201:0780/pct:18.4483473931683,32.26011438254607,16.1803346701701,27.462402033467487/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1853102201:0780/pct:18.45756695708293,32.26011438254607,16.1803346701701,27.469462684459508/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -434,7 +434,7 @@ gratitude of heart which therecoguitionofsuch
 reiterated and astonishing interpositions of  
 Providence demands of us.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn97064666:00517016056:1870060201:0194/pct:5.778588807785888,47.55165581658647,14.882400648824007,4.387206340220776/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn97064666:00517016056:1870060201:0194/pct:5.7774173930671,47.54492712607896,14.884451652138658,4.390123107400594/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -753,7 +753,7 @@ heart, which the recognition of such as­
 tonishing, interpositions of providence  
 demand of us
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_cardinal_ver01:data:sn85052141:00202195192:1876092901:0185/pct:144.78216818642352,304.896265560166,39.26038500506586,19.1701244813278/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_cardinal_ver01:data:sn85052141:00202195192:1876092901:0185/pct:36.19554204660588,76.2240663900415,9.815096251266464,4.79253112033195/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1022,7 +1022,7 @@ cognition of such reiterated and as &lt;­
 tonishing interpositions of Providence  
 demand of us
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_chadron_ver01:data:sn99021999:00206538041:1881101901:0306/pct:26.546941678520625,5.291288081239979,31.650071123755335,119.53500801710315/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_chadron_ver01:data:sn99021999:00206538041:1881101901:0306/pct:19.91819313533701,3.968466060929984,23.741774853281168,89.65793693212186/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1116,7 +1116,7 @@ fect, the
 at ever appeared in theae seas, colll  
 an Admiral whose fortune and tallants en
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_rolls_ver01:data:sn83030214:00175039879:1881102101:0179/pct:104.64820120980579,130.70893371757924,45.510983763132764,11.342939481268012/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_rolls_ver01:data:sn83030214:00175039879:1881102101:0179/pct:34.882733736601935,43.569644572526414,15.170327921044253,3.7809798270893373/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1141,7 +1141,7 @@ citizen of these States with seniments of the most ana
 terable grantude. His flects, the most numerous and  
 powertul that ever appeared in these seas, t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044772:1881102401:0539/pct:236.78077203204663,172.71030720643122,50.619082301529495,15.618719494688486/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044772:1881102401:0539/pct:59.216757741347905,43.177576801607806,12.659380692167577,3.9046798736721215/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1160,7 +1160,7 @@ gratitude of heart which the recognition
 of such reiterated land astonishing inter­  
 positions of Providence demanded.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_animals_ver01:data:sn84027718:00271763840:1881102601:0444/pct:98.02126402835204,107.30952380952381,14.648552864737153,3.511904761904762/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_animals_ver01:data:sn84027718:00271763840:1881102601:0444/pct:73.5559166789777,80.48809523809524,10.991283793765696,2.630952380952381/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1310,7 +1310,7 @@ which the recognition of snch reiterated and as­
 tonishing interposition of Provide Lite demands  
 from ns
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555675:1881111701:0366/pct:113.85672937771346,53.420729209340436,15.123010130246021,45.03618735490919/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555675:1881111701:0366/pct:85.44796380090497,40.06554690700533,11.34841628959276,33.783968318994944/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1339,7 +1339,7 @@ iii4 unalterable gratitude His lleots,
 the most numerous and powerful that  
 ever appeared in these seas, etc.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_gibson_ver01:data:sn84020109:00237285189:1881120101:0647/pct:36.57041139240506,14.192168916210075,20.96518987341772,11.425898703728452/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_gibson_ver01:data:sn84020109:00237285189:1881120101:0647/pct:27.449040174153968,10.650808499265,15.733227785473975,8.566083121742617/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1363,7 +1363,7 @@ tude of heart which the recognition of
 Buch reiterated and astonishing inter­  
 positions of Providence demand of us.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_erie_ver02:data:sn86071045:00296026475:1882011801:0479/pct:5.396691897953462,14.715172639146063,10.821418559013177,5.086591874523473/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_erie_ver02:data:sn86071045:00296026475:1882011801:0479/pct:5.40603681898888,14.718803325708892,10.816746098495468,5.093853247649131/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1392,7 +1392,7 @@ most unalterable gratitude. His lleets,
 the most numerous and powerful that  
 ever appeared in these seas, etc.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_felice_ver01:data:sn86063662:00200292406:1882050401:0609/pct:295.146324054247,321.20351972750495,39.47180585296217,24.865171728640362/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_felice_ver01:data:sn86063662:00200292406:1882050401:0609/pct:73.82610248169969,80.30087993187624,9.873236921978219,6.216292932160091/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1492,7 +1492,7 @@ the recognition of such reiteratod and
 astonishing interpositions of providence de­  
 mands of us.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drew_ver02:data:sn86063034:00414182094:1893041601:0679/pct:3.4709535988308367,67.31036398999723,15.509682133723054,6.071130869686024/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drew_ver02:data:sn86063034:00414182094:1893041601:0679/pct:2.6993865030674846,52.17313282848222,12.015101462954224,4.697986577181208/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1519,7 +1519,7 @@ which the recognition of such reiter?
 ated and astonishing interpositions of  
 Providence demands of us.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lilac_ver01:data:sn86071868:00175031716:1893042101:0051/pct:16.8843829206473,43.021836430218364,16.201988691752778,7.568154075681541/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lilac_ver01:data:sn86071868:00175031716:1893042101:0051/pct:16.89088191330344,43.03087843030878,16.19548969909664,7.56363307563633/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1545,7 +1545,7 @@ which the recognition of such reiter­
 ated .and a,Aunishm interpositions of  
 Providence idemtmds of -us.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_ingalls_ver02:data:sn82014635:00237286789:1893042301:0351/pct:10.366586538461538,67.24270776004403,18.028846153846153,8.794716565767748/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_ingalls_ver02:data:sn82014635:00237286789:1893042301:0351/pct:6.913134956417193,44.83214089157953,12.022843402464684,5.8668134287286735/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1579,7 +1579,7 @@ which the recognition of such reiter­
 ated and astonishing interpositions of  
 Providence demands of ns.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_jyme_ver01:data:sn85033133:00514159233:1893050401:0992/pct:10.08354381192928,57.8589521397147,18.360209830969495,6.879082788961472/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_jyme_ver01:data:sn85033133:00514159233:1893050401:0992/pct:7.824733989158803,44.84088717454195,14.229070467777555,5.338200854112137/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

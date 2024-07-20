@@ -129,7 +129,7 @@ once in every year at least, visit the said’
 university, enquire into the proceedings  
 and practices thereat, examine the pro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1819012801:0330/pct:82.1580846179075,22.074659009332375,14.594949163660216,8.171811438143097/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1819012801:0330/pct:82.14461387112641,22.0720181839933,14.59802153358474,8.174821549627149/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -165,7 +165,7 @@ a general statement of the condition of the said
 University, the said Itector and Visitors make  
 the following KKi’OUT.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183980:1824120201:0237/pct:17.186495176848876,20.99868907162436,14.919614147909968,11.142891192944822/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183980:1824120201:0237/pct:17.183732518887638,20.996186844613916,14.92257407705085,11.145535430568795/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -195,7 +195,7 @@ Kector and \ isitors of the University of
 .he President and Directors of the Litera  
 ry Fund, (to be laid before the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jumboshrimp_ver01:data:sn84025997:00414183633:1824121701:0083/pct:58.92123926838372,23.685220729366602,16.83463979096678,9.904030710172744/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jumboshrimp_ver01:data:sn84025997:00414183633:1824121701:0083/pct:58.91024444859116,23.682190378710338,16.837718479815887,9.907028317980211/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -227,7 +227,7 @@ the President ami Directors of the Li­
 tera v Fund, (to be laid before the le­  
 gislature at their
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216341:1825121401:0583/pct:5.318250886375147,30.137137801371377,14.891102481850414,11.258571112585711/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216341:1825121401:0583/pct:5.317353139770425,30.133805153157137,14.894215620076524,11.261012200965757/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -255,7 +255,7 @@ big meeting,) ihe Hcpoit of the disbursements, the
 funds on hand, and a general statement of the con­  
 dition of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826120701:0265/pct:63.378007427741,85.51177318596828,15.194574519618925,7.508409418548775/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826120701:0265/pct:63.36777526638683,85.50150150150151,15.197502959853622,7.511511511511512/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -427,7 +427,7 @@ aud fund* on hand, as rendered - &gt; the Bursar and
 Proctor, are given with this report, as requiredby  
 law- JAMES MADISON&#x27;, Hector
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1828121801:0289/pct:49.10277324632953,5.253058287359079,31.190864600326265,89.385943871432/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1828121801:0289/pct:49.09476431251019,5.2524283487228685,31.19121404882292,89.3792221289523/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

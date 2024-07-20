@@ -82,7 +82,7 @@ to surmount the difficulty I&gt;y asserting that
 the-mensuration of the faculties of the mind  
 has no place in the catalogue of known art
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808012101:0336/pct:3.465613216017238,71.19504643962848,19.877895492907165,9.040247678018575/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808012101:0336/pct:3.464991023339318,71.18623080733036,19.88031119090365,9.043255737163612/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -115,7 +115,7 @@ institutions have been since carried, they
 would, I donht not, have limited the time  
 m which the compensation of the Judge
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1819010201:0287/pct:18.41280316779409,56.76266861100984,14.717043392179509,10.49945315348159/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1819010201:0287/pct:18.40976575387661,56.755771567436206,14.72011437369405,10.50222762251924/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -225,7 +225,7 @@ I that, &quot;in the general course of human nature,
 J a power over a titan’s subsistence amounts  
 to a power over his will.&quot; The Sheriff wit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393349001:1853091401:0524/pct:18.58041329739443,28.28591256072172,13.11769991015274,4.580152671755725/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393349001:1853091401:0524/pct:18.57707509881423,28.281987232861503,13.119834710743802,4.582986400222037/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -264,7 +264,7 @@ most eligible provision that could have been de­
 vised.&quot; The article is quoted with approbation by  
 Chancellor Kent and Judge Story ; two of the ables
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022640:1856070901:0111/pct:26.963048498845264,26.26571897211591,19.731524249422634,16.358665937670857/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022640:1856070901:0111/pct:20.228125902396766,19.70475669764899,14.813745307536818,12.268999453253144/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -303,7 +303,7 @@ most eligible provision that could have been de­
 vised.&quot; The article is quoted with approbation by  
 Chancellor Kent and Judge Story ; two of the ables
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022755:1856070901:0219/pct:27.985564304461942,28.90891378470531,19.767060367454068,16.171456405260596/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022755:1856070901:0219/pct:21.004266491631114,21.687773989283976,14.834263209714473,12.128592303945446/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -443,7 +443,7 @@ will.&quot; The first thing with such a man is te
 see how every measure will affect him person­  
 ally. The merits of the question get if any
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_harpswell_ver01:data:sn83016025:00279525279:1869032201:0152/pct:5.064308681672026,26.863283036122542,10.707395498392282,2.0690443529949705/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_harpswell_ver01:data:sn83016025:00279525279:1869032201:0152/pct:5.0634946150136635,26.860212595725226,10.709692975405883,2.071665333180935/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -472,7 +472,7 @@ explicit precautions in the Stato Constitu­
 tions on this head.&quot;  
 It is nut to b forgotten that judges ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn84022367:00415628353:1869081201:0677/pct:65.98480420806546,61.35051088405153,14.830508474576272,10.373167481119502/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn84022367:00415628353:1869081201:0677/pct:49.50306927798889,46.01288316303865,11.137094416837183,7.785428698356286/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -501,7 +501,7 @@ cise and explicit precautions in the State Consti­
 tutions on his head.&quot;  
 It is not to be forgotten that judges are subjec
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777651:1869081801:0808/pct:333.9969372128637,311.663807890223,44.946401225114855,22.584333905088624/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777651:1869081801:0808/pct:83.49923430321593,77.91595197255575,11.236600306278714,5.646083476272156/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -554,7 +554,7 @@ ander Hanilton.
   
 Tne telegraph reports that a specia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_keota_ver01:data:sn83025510:00340585677:1886050101:0653/pct:42.0199736197475,58.27052756842523,12.587149048426607,12.825598307549914/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_keota_ver01:data:sn83025510:00340585677:1886050101:0653/pct:42.0199736197475,58.28044426814756,12.596570567175428,12.825598307549914/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -816,7 +816,7 @@ Court by an order entered on March lo, 1803
 V.  
 It is well known that the assent of some of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175045181:1895011301:0158/pct:125.39562923888471,286.1140523370141,51.69555388093444,42.29314778399637/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175045181:1895011301:0158/pct:31.36072370900867,71.52851308425352,12.928759894459104,10.573286945999092/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -835,7 +835,7 @@ It is well known that the assent of some of th
 amounts to a power over his will/&#x27;  
 and he might have added that a pow
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn2007060551:00514157467:1895061201:0167/pct:16.60662824207493,55.512067840834966,12.463976945244957,1.8656229615133724/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn2007060551:00514157467:1895061201:0167/pct:16.603637673329732,55.504826506652755,12.466234467855214,1.8686407513696843/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

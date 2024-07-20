@@ -535,7 +535,7 @@ not but wriug my heart.
 That w shall meet again ;  
 For there it is that we are taught
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_kirby_ver02:data:sn83025661:00202197371:1837121301:0257/pct:67.10932674490427,90.34632034632034,20.41383570105003,25.91991341991342/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_kirby_ver02:data:sn83025661:00202197371:1837121301:0257/pct:50.34749034749035,67.75974025974025,15.305019305019306,19.448051948051948/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1099,7 +1099,7 @@ dance of peace.&quot; 20, &quot;The steps of a
 good manfare ordered by the Lord, and He  
 i  ee in i a o e a 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741996:1870101501:0375/pct:80.12656523495355,205.2161913523459,54.11337013599031,7.7828886844526215/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741996:1870101501:0375/pct:26.70885507831785,68.40539711744863,18.0377900453301,2.594296228150874/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1163,7 +1163,7 @@ him who prospereth in his way, be­
 cause of the man who bringeth  
 wicked devices to pass
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn97064666:00517016081:1876031601:0247/pct:32.321214542548944,80.51267525846197,12.265281662005593,13.89321625832035/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn97064666:00517016081:1876031601:0247/pct:32.3147593369283,80.50127442650808,12.267825044937089,13.894789011611442/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1291,7 +1291,7 @@ meek shall inherit the earth and shall de­
 light themselves in the abundance of  
 peace.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_avenger_ver01:data:sn91099608:00415665398:1883020501:0014/pct:88.53229762878169,81.94210445703783,15.167620605069501,2.8794608669015163/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_avenger_ver01:data:sn91099608:00415665398:1883020501:0014/pct:70.82583810302535,65.55709851331481,12.15044971381848,2.2994608724064696/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1321,7 +1321,7 @@ who prospereth in his way, because of
 the man who bringeth wioked devices to  
 pass
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_avenger_ver01:data:sn91099608:00415665398:1883031201:0131/pct:21.247443762781185,38.7556904400607,15.214723926380367,8.755690440060699/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_avenger_ver01:data:sn91099608:00415665398:1883031201:0131/pct:16.997491547606064,31.007971512968883,12.176900425346275,7.000364180795533/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1346,7 +1346,7 @@ But the meek shall inherit the earth
 and shall delight themselves in the  
 abundanoe of peiace
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_avenger_ver01:data:sn91099608:00415665398:1883031201:0131/pct:21.14519427402863,48.61911987860395,15.276073619631902,5.204855842185129/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_avenger_ver01:data:sn91099608:00415665398:1883031201:0131/pct:16.921147344312356,38.89855541617772,12.225978841749374,4.167846882207745/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1385,7 +1385,7 @@ But the meek shall inherit the earth
 and shall delight themselves in the  
 abundauce of peace
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_avenger_ver01:data:sn91099608:00415665398:1883031301:0133/pct:22.566735112936346,21.442642824670404,31.31416837782341,98.5603879375663/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_avenger_ver01:data:sn91099608:00415665398:1883031301:0133/pct:18.05289382905328,17.15832861876667,25.067075507857417,78.85314798351249/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1404,7 +1404,7 @@ cause of him who prospereth in his way, :
 because of the man who bringeth wicked  
 devices to pass. Cease from anger, and for- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295861927:1883032201:0168/pct:28.66150006567713,85.77096982559749,13.844739261789044,2.5006920734520626/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295861927:1883032201:0168/pct:28.66150006567713,85.77712158961582,13.849117737203906,2.497616191442896/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1438,7 +1438,7 @@ arms of the wicked shall be broken: but the
 Lord unholdeth the righteous. The Lord  
 knoweth the days of the upright : and their 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295861927:1883032201:0168/pct:28.753448049389203,89.34206883823937,13.8053329830553,8.489434345298514/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295861927:1883032201:0168/pct:28.753448049389203,89.34514472024853,13.809711458470161,8.489434345298514/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1458,7 +1458,7 @@ advice of the Psalmist. The habit of
 fretting at the success of the wicked pre­  
 vails fo no little extent to-day. And s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016111:1883082301:0136/pct:82.54030672434133,63.88653683319221,12.170664569406213,2.893028506915044/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016111:1883082301:0136/pct:82.52408099076077,63.87752222379004,12.173186553961077,2.8961478763933965/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1503,7 +1503,7 @@ and it shall not he.
   
 Rut the ineek shall inherit tho eart
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_avenger_ver01:data:sn91099608:00415665398:1883091501:0777/pct:37.74861595242977,70.89237262586674,16.054951814640148,38.84534217666566/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_avenger_ver01:data:sn91099608:00415665398:1883091501:0777/pct:30.198479960632074,56.72079749175979,12.843785882224287,31.067609936490072/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1538,7 +1538,7 @@ The wicked have drawn out the sword,
 aud have bent their bow, to east down  
 the poor and needy, and to slay Buch a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_avenger_ver01:data:sn91099608:00415665398:1883091501:0779/pct:38.0356776706992,105.62933896770299,18.064383842526144,9.779655900996076/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_avenger_ver01:data:sn91099608:00415665398:1883091501:0779/pct:30.428126196074142,84.50579523502897,14.45130953031877,7.827591757887959/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1607,7 +1607,7 @@ Him; fret not thyself because of him who
 prospereth in his way, because of the man  
 who bringeth wicked devices to pas
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barack_ver01:data:sn86053573:00211102032:1886082001:0192/pct:102.82574568288854,103.62630608481868,43.956043956043956,5.162876459741856/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barack_ver01:data:sn86053573:00211102032:1886082001:0192/pct:25.711481844946025,25.90657652120467,10.991167811579981,1.290719114935464/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1798,7 +1798,7 @@ time of the kingdom when the meek shall
 inherit the earth, and shall delight them­  
 selves in the abundauce of peace (Ps
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_gary_ver01:data:sn87056600:00202191551:1892062201:0314/pct:59.188741721854306,33.45270697282494,15.714679911699779,4.760901622077101/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_gary_ver01:data:sn87056600:00202191551:1892062201:0314/pct:44.40458120601628,25.089530229618706,11.784186559955844,3.581209184748262/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1821,7 +1821,7 @@ In Jer. xxxi., 35, b6; xxxiii., 20, 2t,
 the references are very plain to the restoration  
 of Israel and her continuance as a natio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287368:1892062201:0239/pct:42.33416770963704,21.4926017928502,16.004380475594495,4.050113403175289/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287368:1892062201:0239/pct:42.33416770963704,21.499801994455844,16.020025031289112,4.050113403175289/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1859,7 +1859,7 @@ time of the kingdom when the meek shall
 inherit the earth, and shall delight them  
 selves in the abundance of peace (&#x27;s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777109:1892062301:0903/pct:169.74474474474474,110.80752884031573,48.648648648648646,13.843351548269581/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777109:1892062301:0903/pct:42.44415243101183,27.70188221007893,12.164445278768538,3.4608378870673953/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1890,7 +1890,7 @@ time of the kingdom when the meek shall
 inherit the earth, and shall delight them­  
 selves in the abundance of peace (Ps
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn93063557:00280777870:1892062401:1054/pct:67.08520179372198,112.92246520874751,58.026905829596416,14.00825814344701/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn93063557:00280777870:1892062401:1054/pct:16.771300448430495,28.230616302186878,14.506726457399104,3.5020645358617526/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1917,7 +1917,7 @@ the meek shall inherit the earth, and shall
 delight themselves in the abundance of  
 peace (Ps. xxxvii., 11; Math. v.. 5)
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn85035722:00513685178:1892062501:0605/pct:7.934065934065934,29.270094562647753,16.087912087912088,1.4923167848699763/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn85035722:00513685178:1892062501:0605/pct:7.932322566468908,29.26577042399173,16.08987035816304,1.4957896291919042/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1934,7 +1934,7 @@ the meek shall inherit the earth, and shall
 delight themselves in the abundance of  
 peace (Ps. xxxvii., It; Math. v„ 3&gt;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059538:00514157431:1892062501:0622/pct:84.79231799910674,26.76728784845218,13.979455113890129,1.3553057138456799/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059538:00514157431:1892062501:0622/pct:84.77338691672249,26.763165999384047,13.98191560616209,1.3589467200492762/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2021,7 +2021,7 @@ the meek shall inherit the earth, and shall
 delight themselves In the abundance of  
 peace.&quot; Ps., xxxvll, 11
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn82015679:00415665465:1894012901:0272/pct:29.195038910505836,68.57767316745124,17.95963035019455,3.051445864156019/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn82015679:00415665465:1894012901:0272/pct:21.901982244922777,51.437457969065235,13.474401070169039,2.2864828513786146/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2081,7 +2081,7 @@ be.But the meek shall inherit the earth,
 and shall delight themselves in the abun­  
 dance of peace.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_jackrabbit_ver02:data:sn84036012:00294550379:1895040801:0859/pct:61.090504451038576,238.18548387096774,42.56305637982196,6.491935483870968/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_jackrabbit_ver02:data:sn84036012:00294550379:1895040801:0859/pct:20.363501483679524,79.39516129032258,14.187685459940653,2.163978494623656/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2117,7 +2117,7 @@ not thyself because of him who pros-
 pereth In his way. because of the man  
 who brlngeth wicked devices to pass.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_nittany_ver01:data:sn84026355:0021247809A:1895111801:0370/pct:57.08661417322835,12.728032307478067,16.161417322834644,2.6458710486004735/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_nittany_ver01:data:sn84026355:0021247809A:1895111801:0370/pct:42.84025999606067,9.5529870491575,12.133149497734882,1.9774404679014066/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2179,7 +2179,7 @@ son to whom we have alladed staggered
 to his feet, and falling forward to his  
 face, was dead in an instant. That ma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn92063989:00514153425:1896120501:0485/pct:38.43214211939682,22.194337699004,11.02045032018178,3.819308289545918/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn92063989:00514153425:1896120501:0485/pct:38.435584934242236,22.194337699004,11.023893135027198,3.827150811701043/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2202,7 +2202,7 @@ son to whom we have alluded staggered
 to his feet, and falling forward to his  
 face, was dead in an instant. That ma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn92064025:00514153504:1896120501:0403/pct:37.87081843046497,22.801093423379964,10.740584893751315,3.7063836629683227/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn92064025:00514153504:1896120501:0403/pct:37.87081843046497,22.803773382644582,10.751104565537556,3.709063622232942/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2223,7 +2223,7 @@ Promise for the Righteous.
 shall not be; yea, thou shalt diligently con­  
 sider his place, and it shall not be.”—Fs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_gardevoir_ver02:data:sn87057928:00340584405:1896121001:0860/pct:88.68214407647662,75.41885777179895,15.517241379310345,2.4214259508377154/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_gardevoir_ver02:data:sn87057928:00340584405:1896121001:0860/pct:77.60019915359722,65.99250936329588,13.572317649987554,2.1223470661672907/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2246,7 +2246,7 @@ to his feet, and falling forward to hia
 face, was dead in an instant. That man  
 was the wild Bonshaw. New Yor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_ida_ver01:data:sn89058013:00296020321:1897010801:0590/pct:85.33094812164579,116.28610729023384,21.757602862254025,7.083906464924347/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_ida_ver01:data:sn89058013:00296020321:1897010801:0590/pct:64.04117252181696,87.22145804676754,16.33475050346834,5.30949105914718/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2278,7 +2278,7 @@ little while and the wicked shall not
 be; yea, thou shalt diligently eonsidei  
 His place and it shall not be.&quot; And s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_iona_ver01:data:sn90059523:00206537425:1897040501:0392/pct:43.1086736902872,52.363106391838436,12.541492278828114,7.380803664376431/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_iona_ver01:data:sn90059523:00206537425:1897040501:0392/pct:43.113484389281766,52.363106391838436,12.546302977822677,7.3912138246929/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2301,7 +2301,7 @@ and Death,&quot; reading John ill, 20: &quot;He that belie
 eth on the Son hath everlasting life, and he tha  
 belleveth not the Son shall not see life, bu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_willys_ver01:data:sn83030214:00175039132:1897082701:0437/pct:249.36872774360634,32.934264493958544,46.64940110067983,12.781288105531537/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_willys_ver01:data:sn83030214:00175039132:1897082701:0437/pct:83.12290924786878,10.978088164652847,15.549800366893278,4.260429368510512/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2341,7 +2341,7 @@ diligently consider bla place, and IT
 HHALL NOT RH&#x27;-XXXVH Paalm,  
 Amoa VIII, !t: &quot;And It shall com
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_larkspur_ver01:data:2017270212:0027952746A:1898101401:1337/pct:108.26010544815466,48.17644514919994,18.91476274165202,6.544615828167796/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_larkspur_ver01:data:2017270212:0027952746A:1898101401:1337/pct:81.21292023731048,36.13954158858296,14.194682487365414,4.901254144442842/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2362,7 +2362,7 @@ wicked shall not be; yea, thou shall
 diligently consider his place, and IT  
 SHALL NOT UK.&quot; XXXVII I&#x27;salm
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_larkspur_ver01:data:2017270212:0027952746A:1898120201:1383/pct:87.20626631853786,82.99006193288204,18.8207136640557,4.652167650871381/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_larkspur_ver01:data:2017270212:0027952746A:1898120201:1383/pct:65.44741998693664,62.2497479475731,14.130198127585457,3.4855249891977533/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2383,7 +2383,7 @@ to whom we have alluded staggered to
 his feet, and, falling forward on his  
 face, was dead in an instant. Tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_alakazam_ver01:data:sn84022960:00414212037:1899110301:0714/pct:31.895317930893476,79.95126573710573,14.945818850950726,3.8987410315418978/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_alakazam_ver01:data:sn84022960:00414212037:1899110301:0714/pct:31.88879803761243,79.94044396318354,14.947874080130825,3.9015971846237143/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2404,7 +2404,7 @@ to whom we have alluded staggered to
 his feet, and. falling forward on his  
 face, was dead in an instant. Tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_evans_ver01:data:sn83035387:00211664538:1899110401:0204/pct:32.098941950243066,89.85999151463724,11.68144123534458,3.3623249893932967/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_evans_ver01:data:sn83035387:00211664538:1899110401:0204/pct:32.10847393003527,89.86352708244944,11.686207225240683,3.358789421581106/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2425,7 +2425,7 @@ to whom we have alluded staggered to
 his feet, and, falling forward on his  
 face, was dead in an instant. Tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_hegmeister_ver01:data:sn85033255:00514152548:1899110901:0387/pct:14.481897627965044,89.01208559707284,9.765570814259952,2.9715046013970507/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_hegmeister_ver01:data:sn85033255:00514152548:1899110901:0387/pct:14.481897627965044,89.01578149831836,9.765570814259952,2.9715046013970507/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2450,7 +2450,7 @@ to whom we have alluded staggered to
 his feet, and, falling forward on his  
 face, was dead in an instant. Tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016943:00295877698:1899111101:0093/pct:126.54176424668228,346.8044601577373,44.18423106947697,20.777807995648626/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016943:00295877698:1899111101:0093/pct:31.653973833235696,86.70111503943433,11.05252880296817,5.1944519989121565/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2468,7 +2468,7 @@ shall not be; yea, thou shalt diligently con­
 sider his place, and it shall not be.”  
 As he uttered these words the person t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346836:1899113001:0230/pct:55.27054108216433,13.576516296136413,11.503006012024048,1.5756529246708397/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346836:1899113001:0230/pct:55.27054108216433,13.580113677242966,11.507459363170787,1.5828476868839485/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -83,7 +83,7 @@ dies and America, and for giving a more &#x27;•
 speedy and effectual execution t.&lt; the de i  
 crees of the Lords Commissioners of Ap- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801091801:0002/pct:8.8124410933082,8.451314648945392,21.536286522148917,3.7705865356833286/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801091801:0002/pct:8.828149544454917,8.460945776750458,21.52843229657556,3.7802176634883944/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -109,7 +109,7 @@ to the further orders of the court until fi—
   
 f nal sentence.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215981:1801091901:0412/pct:30.472103004291846,54.824183194404526,22.041692213366034,8.671074063428188/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215981:1801091901:0412/pct:30.467432950191572,54.81893082966086,22.043422733077904,8.67343680143067/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

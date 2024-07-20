@@ -257,7 +257,7 @@ wings.
 And the free soul looks down to pity  
 kings. u—l‘upe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_bittern_ver01:data:sn86072021:no_reel:1889112101:1240/pct:197.8672170622635,176.09877310141326,30.392156862745097,8.945488429880417/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_bittern_ver01:data:sn86072021:no_reel:1889112101:1240/pct:65.9557390207545,58.699591033804424,10.130718954248366,2.9818294766268054/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

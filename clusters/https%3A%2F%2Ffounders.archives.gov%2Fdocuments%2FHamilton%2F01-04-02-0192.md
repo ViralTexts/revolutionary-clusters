@@ -152,7 +152,7 @@ Specially in a country of small commer­
 !ity o! keeping prices down in order to  
 i more expeditious sale.&quot;—Vide Fedc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792061801:0001/pct:26.958955223880597,16.747904074868394,40.764925373134325,76.40865665821798/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792061801:0001/pct:26.958955223880597,16.762526808344706,40.764925373134325,76.40865665821798/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -310,7 +310,7 @@ duties on important articles tend to render other
 classes of the community, tributary, in an impro­  
 per degree, to the manufacturing ‘ classes. The
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826112101:0243/pct:17.718643517767322,72.48071359691417,14.992698361187733,1.6634522661523625/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826112101:0243/pct:17.71576898118105,72.47197782330963,14.9956738048886,1.6672692941223735/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -402,7 +402,7 @@ duties on imported articles tend to render other
 classes of the community tributary, in an impro­  
 per degree, to the manujdbluring classes. The
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1828122701:0301/pct:18.00716379029632,18.66906474820144,15.33702377075871,2.434052757793765/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1828122701:0301/pct:18.004232459710238,18.666826519601965,15.33995333441858,2.4377572633177476/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -428,7 +428,7 @@ attended with inequality, from a different cause,
 between the manulacturing and the nou-uianufac-;  
 turing states.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1829010601:0317/pct:17.691178868416763,57.614700936824406,15.489972281102235,6.137400912803267/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1829010601:0317/pct:17.68829475057059,57.607781914254836,15.492881208564286,6.140666906849205/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -458,7 +458,7 @@ j tho attempt to gain a triumph by strata von. when
 , the strata# m is detected an i the deviser orit exposed1  
 ; .And what is the tribute due to the understanding
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:0041418456A:1829010901:0164/pct:58.71028329942088,33.12302839116719,18.203161684144625,8.751022315691085/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:0041418456A:1829010901:0164/pct:58.701095461658845,33.11915887850467,18.20552947313511,8.753894080996885/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -593,7 +593,7 @@ ber* or wrafih, aou ume «o great a proportion of im­
 ported articles, .* those States, w,.itb uic rot in the  
 same favorable situs mi. They would no*, therefore
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184054:1831082601:0132/pct:65.7055482743556,21.39325842696629,14.795398281636814,6.741573033707865/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184054:1831082601:0132/pct:65.69598136284216,21.39085496011684,14.798097456804504,6.744560536269333/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -972,7 +972,7 @@ excises, bv raising the price of domestic manufactures,
 would increafe the competition of imported articles, and  
 thus compel the manufacturer to curtail his profits t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1841122501:0560/pct:64.18583671628326,78.46726340138791,15.937453014584273,14.029970833752389/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1841122501:0560/pct:64.18583671628326,78.46726340138791,15.957500125294441,14.040028160514936/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1001,7 +1001,7 @@ Exorbitant duties on imported articles tend to render
 other classes of the community, tributary in an i.npro  
 per decree, to the manufacturing cIhshob. They woul
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664266:1842072601:0180/pct:49.02771397948247,20.652282990466635,16.3221558719951,2.318113396889112/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664266:1842072601:0180/pct:49.03792170673199,20.652282990466635,16.33236359924463,2.324803478842616/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1035,7 +1035,7 @@ tributary, in an improper degree, to, the manufactur­
 ing classes, to whom they give a premature monopoly ot  
 the markets: they sometimes force industry out of its
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664278:1844022701:0298/pct:79.17345578432825,85.98732232039954,15.86431639757073,8.903188628505571/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664278:1844022701:0298/pct:79.17839332444576,85.99052375464208,15.859378857453217,8.90639006274811/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1154,7 +1154,7 @@ consumer.&quot;
 So in the convention of Virginia, which adopted P1  
 [ the constitution, this power was asnailed by Mr.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846052901:0567/pct:0.2542507548069283,59.5244055068836,15.000794533608772,21.95244055068836/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846052901:0567/pct:0.2542507548069283,59.532749269920735,15.02198209650935,21.95244055068836/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1181,7 +1181,7 @@ by taxation under a tariff system) &quot;contribute to the
 public treasury in a ratio to their abilities.&quot; And  
 in this view these statesmen held that the power o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846060101:0575/pct:0.621414913957935,77.1496318482466,16.762268961121734,7.475352552102833/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846060101:0575/pct:0.621414913957935,77.1496318482466,16.77289143828341,7.483672365739007/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1289,7 +1289,7 @@ State. She would of course suffer in a double light, t
 from restraining the jurisdiction of the Union to c  
 commercial imposts.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846071001:0707/pct:-0.01599232368463138,3.686578355411147,29.329921637613946,92.91427143214196/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846071001:0707/pct:-0.02132309824617517,3.686578355411147,29.345913961298578,92.91843705740231/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1591,7 +1591,7 @@ in this had frequently petioned for it.
 The votes in favor of the tariff of 1816,  
 in the House, were Northern and Bo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn85026955:0020029354A:1871012701:0523/pct:61.387900355871885,49.76453838571898,128.88493475682088,331.8804074033512/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn85026955:0020029354A:1871012701:0523/pct:15.349251075189086,12.441134596429745,32.2260121607593,82.9701018508378/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1623,7 +1623,7 @@ out any retribution from the con
 sumer.&quot; Aler. Hamilton, in Feder­  
 alist, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_hubert_ver01:data:sn89058128:0029602112A:1886050601:0420/pct:43.70909090909091,113.02592158395207,16.254545454545454,14.862576527289306/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_hubert_ver01:data:sn89058128:0029602112A:1886050601:0420/pct:32.7997089321448,84.77269766836004,12.206658177187556,11.150188875862968/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1688,7 +1688,7 @@ So stronel v were the early fathers im
 bued with this idea that they embodied  
 It in the constitution of the TJn&#x27;te
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035083:00296026839:1887102701:0189/pct:65.43786220218931,25.28878400198733,13.989053444945267,9.47708359210036/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035083:00296026839:1887102701:0189/pct:49.10613625382509,18.966588001490496,10.500885810919632,7.117128307042603/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1719,7 +1719,7 @@ So strongly were the early fathers im­
 bue 1 with this idea that thej- cmbo lied  
 it in the constitution of &quot;the Un t 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_echo_ver01:data:sn85038119:00237282668:1887110301:0340/pct:36.81732580037665,49.914068254357964,12.8060263653484,8.78958998281365/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_echo_ver01:data:sn85038119:00237282668:1887110301:0340/pct:27.625176581384398,37.44168917260005,9.60602731125412,6.592192487110238/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1751,7 +1751,7 @@ So strongly were the early fathers im­
 bue 1 with this idea that they embodied  
 it in the constitution of the Unte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ingstad_ver01:data:sn84028296:00296029142:1887110301:0613/pct:62.101185050136735,83.46226828200263,18.299908842297175,11.385199240986717/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ingstad_ver01:data:sn84028296:00296029142:1887110301:0613/pct:46.61345496009122,62.60399941614363,13.728620296465222,8.538899430740038/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1913,7 +1913,7 @@ to the manufacturing classes,&quot; to &quot;give
 theui a premature mouopoly -of the  
 ruarr.ets&quot; to &quot;force industry out of it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_hula_ver01:data:sn91059392:00383348110:1890101601:0094/pct:18.686341081222253,20.10330160016204,10.68164011491251,3.757342515697792/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_hula_ver01:data:sn91059392:00383348110:1890101601:0094/pct:18.69504657438844,20.10330160016204,10.685992861495604,3.7607183849841332/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1969,7 +1969,7 @@ more than a century ago, would seem to
 have been inspired, when we consider the  
 tariff issues of the present time. Some o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_forest_ver01:data:sn82015483:0027176408A:1892110201:0423/pct:20.853365384615383,32.8594387439733,12.935697115384615,21.065644702682654/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_forest_ver01:data:sn82015483:0027176408A:1892110201:0423/pct:15.64707650683902,24.650760291754235,9.709905305877047,15.799233527011992/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2087,7 +2087,7 @@ a great proportion falls upon the merchant
 and sometimes not only exhausts his pro­  
 fits , but breaks In upon his capital. &quot; Now 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_alliance_ver01:data:sn99021999:00206539161:1894050201:0052/pct:30.853314527503525,61.35930264233179,12.588152327221438,3.7728139471533644/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_alliance_ver01:data:sn99021999:00206539161:1894050201:0052/pct:30.853314527503525,61.36951784254971,12.588152327221438,3.7728139471533644/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2113,7 +2113,7 @@ so much as restraints upon the classes which
 would have possession of the Government, to  
 keep them from abusing their trusts for indi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043032:1898112001:0256/pct:284.3558282208589,23.082718095525088,51.38036809815951,22.66084074129878/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043032:1898112001:0256/pct:71.1025886864813,5.770679523881272,12.847555129434324,5.665210185324695/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

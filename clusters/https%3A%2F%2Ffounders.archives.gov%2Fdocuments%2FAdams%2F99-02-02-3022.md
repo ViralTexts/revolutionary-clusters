@@ -1411,7 +1411,7 @@ God: yea, let them turn every one from his evil way,
 and from the violence that is in their hands. Who can  
 tell if God will turn and repent and turn away from
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024669:00414184753:1864040801:0175/pct:202.84062758051198,41.723249824397094,44.31048720066061,5.490517443221728/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024669:00414184753:1864040801:0175/pct:67.60237780713342,13.906121971204495,14.767723469837076,1.8299582504194467/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1442,7 +1442,7 @@ from his evil way, and from the violence that is in
 their hands. Who can tell if God will turn and re­  
 pent, and turn away from
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024669:00414184765:1865031001:0122/pct:107.46124031007751,47.93524167057719,43.62080103359173,27.88596902862506/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024669:00414184765:1865031001:0122/pct:35.81462942031326,15.976539589442815,14.537919156036384,9.29423264907136/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1466,7 +1466,7 @@ cheap, and easily uttered, but deeds, acts,
 are the significant signs of feeling.  
 There must be an abandonment of old.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_debaptiste_ver01:data:sn83016710:00211664198:1865061101:0137/pct:15.241157556270096,89.13912450034123,19.356913183279744,6.678365993955348/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_debaptiste_ver01:data:sn83016710:00211664198:1865061101:0137/pct:15.241157556270096,89.14237431347698,19.367631296891748,6.678365993955348/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1631,7 +1631,7 @@ away bis fierce anger, tbat we perish
 not?&quot; Never before was a repentance  
 so general, so complete, and for the tim
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762234:1882020701:0032/pct:50.35279025016036,66.35042632400625,10.647851186658114,3.242464272847364/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762234:1882020701:0032/pct:50.360808210391276,66.35342860574036,10.647851186658114,3.2484688363156/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1656,7 +1656,7 @@ is apparently a singular sentence— G id.
 the same yesterday, to-day and to morrow,  
 should repent him of his intention. But i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lytton_ver01:data:sn82014381:00175037974:1882062601:0485/pct:14.93283348953452,51.06407587323618,9.606373008434865,3.724265556326625/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lytton_ver01:data:sn82014381:00175037974:1882062601:0485/pct:14.944548578569197,51.06407587323618,9.594657919400188,3.7300485773768215/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1760,7 +1760,7 @@ violence that is in their hands.
 9 Who can tell if God will turn and repent.  
 and turn away from
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn85038180:00296029063:1885111201:0118/pct:67.56516587677726,28.72353152290944,14.203199052132701,2.5481516927862184/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn85038180:00296029063:1885111201:0118/pct:50.70380797155134,21.545639430553894,10.653430137798193,1.9141045579614786/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1857,7 +1857,7 @@ God repented of the evil, that he had paid
 that he would do unto them ; and he did  
 it not
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn87056600:00202191678:1891042201:0209/pct:92.64305177111717,37.29153472662022,16.185286103542236,8.613046231792273/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn87056600:00202191678:1891042201:0209/pct:69.51069919585662,27.971289845894027,12.14392803598201,6.459784673844205/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1877,7 +1877,7 @@ their hands.&quot;
 Outward sorrow without a turning away  
 from sin would avail nothing, for Go
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_rolls_ver01:data:sn85025431:00212479846:1891042201:0122/pct:66.65044606650446,59.695476936856245,13.949716139497161,2.4630541871921183/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_rolls_ver01:data:sn85025431:00212479846:1891042201:0122/pct:66.65044606650446,59.695476936856245,13.955123006217896,2.4742498880429915/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1895,7 +1895,7 @@ evil way, and from the violence that is in
 ? their hands.&quot; Outward sorrow without t  
 turning away from sin would avail nothin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287290:1891042201:0188/pct:69.37431394072448,65.78249336870026,14.411165124666772,1.8992042440318302/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287290:1891042201:0188/pct:69.38476817730385,65.78603006189213,14.416392242956459,1.8992042440318302/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1933,7 +1933,7 @@ their hands.”
 Outward sorrow without a turning away  
 from sin would avail nothing, for Go
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn85035722:00513685178:1891042301:0209/pct:42.1172453044963,54.74803378968832,12.02807816353633,2.3011942907078358/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn85035722:00513685178:1891042301:0209/pct:42.1092564491654,54.74006116207951,12.030538694992412,2.304499781564002/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1972,7 +1972,7 @@ their hands.”
 Outward sorrow without a turming away  
 from sin would avail nothing, for Go
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_heron_ver02:data:sn88085722:00414189908:1891042601:0191/pct:3.599712023038157,60.81349206349206,14.206863450923926,2.496693121693122/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_heron_ver02:data:sn88085722:00414189908:1891042601:0191/pct:3.599712023038157,60.81349206349206,14.224862011039116,2.5008267195767195/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2015,7 +2015,7 @@ his evil way, and from the violence that
 is in their hands.&quot; It was on this  
 condition that divine interposition wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_hornacek_ver01:data:sn83045555:206534710:1899051701:1538/pct:96.36871508379889,70.21538461538462,37.625698324022345,6.153846153846154/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_hornacek_ver01:data:sn83045555:206534710:1899051701:1538/pct:32.131880413523334,23.405128205128204,12.545403744062588,2.051282051282051/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

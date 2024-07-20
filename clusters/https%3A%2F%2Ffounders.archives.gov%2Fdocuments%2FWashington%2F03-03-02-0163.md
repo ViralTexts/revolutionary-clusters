@@ -72,7 +72,7 @@ to every sense of virtue, and those feelings
 ! which distinguish a civilized people from  
 • the most barbarous savages.&quot; This strong an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215853:1851021801:0419/pct:32.077285398442754,10.585091805974239,12.957800634432376,2.144423129624555/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215853:1851021801:0419/pct:32.07420222991157,10.584366650681647,12.959759067025503,2.146559795391747/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -140,7 +140,7 @@ civilized people from the most barbarous
 sarages.&quot; Rich. ENg.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851030301:0007/pct:59.34065934065934,213.4552206827596,45.49071618037135,10.069990001428367/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851030301:0007/pct:14.832354612616026,53.35618394744359,11.370524720591021,2.5171379605826907/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -261,7 +261,7 @@ ca*ions in language not less direct and strong.
 I will cite two instances. Turn to a letter to General  
 Gage, written in answer to a discourteous one from tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1852111301:0408/pct:18.223905723905723,75.04609044572172,15.530303030303031,7.558833098362434/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1852111301:0408/pct:18.223905723905723,75.05332031956043,15.534979423868313,7.558833098362434/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -282,7 +282,7 @@ Gage, written in answer to a discourteous one from tha
 &quot;most barbarous savages.&quot; Such were the senti­  
 ments with which men everywhere regarded th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026396:1861091401:0268/pct:18.11715481171548,5.569922418937736,10.906555090655509,3.0535110403819377/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026396:1861091401:0268/pct:18.12180381218038,5.576553278960281,10.915853091585308,3.0535110403819377/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -355,7 +355,7 @@ to every sense of virtue, and those feelings
 which distinguish civilized people from  
 the most barbarous savages,&quot; is there an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00271742095:1875080701:0134/pct:50.185058259081565,178.8040478380865,41.480466072652504,6.034958601655934/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00271742095:1875080701:0134/pct:16.72835275302719,59.60134927936216,13.8268220242175,2.0116528672186447/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -377,7 +377,7 @@ places, will have no other effect than to
 unite the whole country into one indissolu­  
 ble band.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:0041562377A:1876011501:0018/pct:72.55546425636811,48.82195049209663,11.031224322103533,4.443781688040561/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:0041562377A:1876011501:0018/pct:72.5623116954259,48.82195049209663,11.031224322103533,4.4636643801570735/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -438,7 +438,7 @@ ing contaiued in tbe pamphlet, will not leave
 numbers at a loss to decide on the propriety of a  
 separation.&quot; &quot;No writer,&quot; said Thomas Jefferson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555651:1876061501:0631/pct:59.28725701943844,41.44561403508772,16.216702663786897,3.2982456140350878/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555651:1876061501:0631/pct:44.498469295876106,31.087719298245613,12.17359985593373,2.4842105263157896/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -508,7 +508,7 @@ doctrine and unanswerable reasouing cuntiincd in the
 pamphlet Common Sense, will not leave numbers  
 at a lost to decide on tbo propriety of a reparation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_cardinal_ver01:data:sn83025121:00211108873:1878032001:0180/pct:61.14889047959914,54.26846391463072,16.195418754473874,2.723953945520921/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_cardinal_ver01:data:sn83025121:00211108873:1878032001:0180/pct:45.88256355173648,40.70134793597304,12.155388471177945,2.053496208930076/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -548,7 +548,7 @@ able reasoning contained in the pamphlet
 loss to decide on the propriety of a separation.&quot;  
 Gen. Leo writes to Washington: “Have yo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pulaski_ver01:data:sn84031492:no_reel:1879051701:0016/pct:29.80690780527604,2.3058252427184467,13.516453630677182,2.5485436893203883/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pulaski_ver01:data:sn84031492:no_reel:1879051701:0016/pct:29.80690780527604,2.315938511326861,13.530051672559152,2.5536003236245954/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -652,7 +652,7 @@ able reasoning contained in the pamphlet
 a loss to decide upon the propriety  
 of separation.&quot; Edmund Randolph, our firs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_neruda_ver01:data:sn83030272:00175045053:1892111301:0169/pct:78.1600598354525,235.45454545454547,49.13986537023186,13.212121212121213/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_neruda_ver01:data:sn83030272:00175045053:1892111301:0169/pct:19.550982226379794,58.86363636363637,12.291861552853133,3.303030303030303/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -695,7 +695,7 @@ separation,
 Mr. Edward Bellamy, in commenting  
 on this historic fact, aptly says: “Ther
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685336:1893101201:0339/pct:31.077471059661622,77.26379440665156,14.269813000890473,5.487528344671202/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685336:1893101201:0339/pct:31.07055419541509,77.25211608222492,14.272201201869574,5.490477629987908/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -743,7 +743,7 @@ separation.&quot;
 Mr. Edward Bellamy, in commenting  
 on this historic fact, aptly says: &quot;Ther
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn85031982:0028076095A:1893101801:0809/pct:42.078285181733456,39.45056700207635,29.356943150046597,12.490017569078422/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn85031982:0028076095A:1893101801:0809/pct:28.058727569331158,26.305701964542404,19.575856443719413,8.32135441622744/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -768,7 +768,7 @@ separation,&quot;
 Mr. Edward Bellamy, in commenting  
 on this historic fact, aptly says: &quot;Ther
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295861952:1893101801:0149/pct:43.39128363896166,79.14959016393442,10.526315789473685,4.405737704918033/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295861952:1893101801:0149/pct:43.39128363896166,79.15243624772313,10.534254187504962,4.408583788706739/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -792,7 +792,7 @@ separation.&quot;
 Mr. Edward Bellamy, in commenting  
 on this historic fact, aptly says: &quot;Ther
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_danastjames_ver01:data:sn93067846:00294551384:1893102501:0465/pct:2.392291505150072,69.24796423439247,11.90608040757559,5.013571770716909/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_danastjames_ver01:data:sn93067846:00294551384:1893102501:0465/pct:2.399675120906708,69.2532864974187,11.90608040757559,5.013571770716909/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -902,7 +902,7 @@ pamphlet &#x27;Common Sense,’ will not leave
 numbers at a loss to decide upon the pro­  
 priety of separation.” This pamphlet
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524792:1896013001:0044/pct:17.55741127348643,27.466180270557835,13.048016701461378,3.450372397020824/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524792:1896013001:0044/pct:17.553746608223754,27.462006079027354,13.050511375495722,3.4536474164133737/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -945,7 +945,7 @@ picture of the great man
 was taken when he was 25 years old by  
 Copeley. It was an ivory miniature, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_u2_ver01:data:sn85038614:00175032861:1897022101:0408/pct:5.603925914199778,107.34885708182013,41.9028019629571,12.604144413586841/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_u2_ver01:data:sn85038614:00175032861:1897022101:0408/pct:1.8679753047332595,35.78295236060671,13.967600654319034,4.201381471195614/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -988,7 +988,7 @@ propriety of separation.&quot; A letter from
 Philadelphia said &quot;Common Sense Is  
 read to all ranks; and as many, read
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_eritrea_ver01:data:sn84026844:00202193699:1898040601:0667/pct:67.70025839793281,81.94469877311847,16.343669250645995,4.284929500091558/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_eritrea_ver01:data:sn84026844:00202193699:1898040601:0667/pct:67.70025839793281,81.94927668925105,16.35981912144703,4.307819080754441/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

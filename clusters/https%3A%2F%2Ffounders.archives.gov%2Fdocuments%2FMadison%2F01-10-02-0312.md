@@ -496,7 +496,7 @@ lire blow itn dilated by the people against themselves, ,
 the vleiii&#x27;i a I Assembly had paid any respect to tire safeguards  
 established by the Constitution, Virginia would 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_armani_ver02:data:sn84024735:00415664229:1837021101:0681/pct:34.44787861758921,65.37862565699825,17.65945490306266,12.585166439556161/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_armani_ver02:data:sn84024735:00415664229:1837021101:0681/pct:34.44787861758921,65.37862565699825,17.66882082982111,12.591655311141393/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -573,7 +573,7 @@ stituted Semite,” says Judge Story,
 upon the sudden impulses of a more nu­  
 merous branch, would on this account eeo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348975:1841111801:0188/pct:58.556738890929125,15.233315246880087,13.073815644509732,12.533912099837222/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348975:1841111801:0188/pct:58.54598861758766,15.231249152312492,13.07600514044428,12.535602875356028/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -663,7 +663,7 @@ t4 anguish would not the people of Athens have
 &#x27;? ONE DAY, AND STATEES ON THE NEXT.&quot;  
 If a Senator of the United States be no more 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1850022301:0097/pct:34.04226312201772,33.67024636765635,15.74642126789366,19.719941040218995/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1850022301:0097/pct:34.04226312201772,33.67726538920474,15.760054533060668,19.719941040218995/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -743,7 +743,7 @@ on the &quot;mixed transactions of several years.&quot; In the pre­
 ceding number of the &quot;Federalist&quot; he had enumerated,  
 as among the main purposes to be answered by a Senate.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184674:1856031701:0132/pct:173.62187454306186,85.54049356969065,38.35356046205585,19.059205190592053/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184674:1856031701:0132/pct:57.865497076023395,28.510194624652456,12.782651072124755,6.352332406549274/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -762,7 +762,7 @@ merous instances of the former as well as of
 the latter. There is, in fact, no despatch for  
 the citizen; on the contrary, an almost in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_harrison_ver01:data:sn82015672:00296021933:1859032801:0626/pct:75.40322580645162,173.71609165130366,49.32795698924731,10.007900974453516/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_harrison_ver01:data:sn82015672:00296021933:1859032801:0626/pct:18.857142857142858,43.429022912825914,12.336134453781513,2.501975243613379/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -874,7 +874,7 @@ abuses of liberty, as well as by the
 abes ‘8 of power.  
 Agriculture, commerces and manu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn97064666:00517016081:1876021701:0231/pct:60.224032586558046,20.068807339449542,12.586558044806518,15.10894495412844/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn97064666:00517016081:1876021701:0231/pct:60.21176949704744,20.065930915866417,12.5890857259214,15.110362620037264/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1000,7 +1000,7 @@ caped the indelible reproach of decreeing to
 the same citizens the hemlock on one day ami  
 statues on the next.&quot; The Federalist, Nos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016926:00295877650:1879041601:0095/pct:21.857848518111965,54.389483065953655,14.66794731064764,14.037433155080214/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016926:00295877650:1879041601:0095/pct:16.39906683134349,40.797682709447415,11.005900919445589,10.52807486631016/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1150,7 +1150,7 @@ caped the indelible reproach of decreeing to
 the same citizens the hemlock on one day,  
 and statues on the next.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762258:1892032301:0060/pct:38.388470357025874,44.82802066271891,10.858172289551261,3.6411742471966737/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762258:1892032301:0060/pct:38.39665902391091,44.83747007685523,10.84998362266623,3.644324051908782/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1198,7 +1198,7 @@ the indellibie reproach of decreeing to
 the same citizens the hemlock on one  
 day, and statues on the next.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762258:1892120701:0203/pct:27.9467368074963,40.28759142184207,11.228012493835278,13.809346721209867/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762258:1892120701:0203/pct:27.959066250205492,40.293789512830045,11.223902679598883,13.821742903185818/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1520,7 +1520,7 @@ light on the wisdom, or unwisdom of a
 resolution pending in the Kansas legisla--  
 ture which, calls for such a change In the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_franklin_ver01:data:sn86063615:00211109191:1899021101:0351/pct:8.16365007541478,6.384455239417071,33.16365007541478,119.50034698126301/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_franklin_ver01:data:sn86063615:00211109191:1899021101:0351/pct:6.130918694585927,4.788341429562804,24.90096208262592,89.6321998612075/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

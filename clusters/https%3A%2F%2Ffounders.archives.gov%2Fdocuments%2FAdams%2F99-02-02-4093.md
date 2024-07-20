@@ -70,7 +70,7 @@ thrmﬁh the world, in the irreparable
 loss {uftained by us all. :  
 . JOHN ADAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1800010101:0211/pct:22.887817021938694,4.3568260226712665,34.837404698926406,91.01034992607195/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1800010101:0211/pct:22.887817021938694,4.363397404304255,34.837404698926406,91.01034992607195/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -224,7 +224,7 @@ the nation, and with g &gt;od men, through
 the world, in the irreparable loss sus­  
 tained!) all. JOHN \DAM8
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1826072701:0129/pct:38.795488401787615,16.23266345881687,16.939774420089382,6.594961788848004/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1826072701:0129/pct:38.787234042553195,16.230366492146597,16.94148936170213,6.597566152539975/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -273,7 +273,7 @@ thize with you---with the nation, and with good
 men through the world, in this irreparable loss  
 sustained by us all.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:0028077571A:1859022201:0385/pct:127.48091603053435,99.43596092997662,48.93129770992366,24.762690879075524/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:0028077571A:1859022201:0385/pct:31.870229007633586,24.858990232494154,12.232824427480915,6.190672719768881/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -298,7 +298,7 @@ duced.I sympathize with you; with the nation
 and with good men thro’ the world, in this  
 irrepuruble loss sustained by us all
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn84038814:00279557190:1860040401:0963/pct:2.7495090162470985,24.36696780760911,12.301374754508123,5.267845781906095/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn84038814:00279557190:1860040401:0963/pct:2.7628994822353152,24.376511006489377,12.3103017318336,5.274207914492938/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -345,7 +345,7 @@ ever produced. I sympathise with you
 thro’ the world, in this irreparable loss  
 sustained by us all
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014489:00279557244:1862022201:0031/pct:38.682613352374155,86.36846296787895,11.26383434487683,6.915317228563844/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014489:00279557244:1862022201:0031/pct:38.6870760442699,86.37841783912928,11.281685112459837,6.915317228563844/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -370,7 +370,7 @@ with you?with the nation, and with good
 men thro* the world, in this irreparable  
 loss sustained by us ail
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_belgium_ver01:data:sn84026844:00202190856:1870030801:0232/pct:1.4932928372563907,40.134529147982065,15.034168564920273,6.4275037369207775/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_belgium_ver01:data:sn84026844:00202190856:1870030801:0232/pct:1.5101662026491183,40.14075734927753,15.034168564920273,6.439960139511709/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -388,7 +388,7 @@ with you--with the nation, and with
 good men through the world, in this ir­  
 reparable loss sustained by us all.&quot; T
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_baxter_ver01:data:sn83009653:00279524032:1873052001:0092/pct:133.93577296489917,196.98195395146234,37.61015683345781,6.917651939431654/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_baxter_ver01:data:sn83009653:00279524032:1873052001:0092/pct:44.63859020310633,65.65384216530126,12.534846674631622,2.305644854644129/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -436,7 +436,7 @@ with you, with the nation, and with good
 men through the world, in this irreparable  
 loss sustained by us all
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84022473:00280777559:1875121401:1066/pct:156.43122676579927,142.3456966919662,43.64312267657993,18.845768294429327/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84022473:00280777559:1875121401:1066/pct:39.115077151886965,35.58642417299155,10.912809072318275,4.711442073607332/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -493,7 +493,7 @@ he was &quot;the most illustrious and beloved per­
 sonage which this country ever produced;&quot;  
 while Henry Lee, of Virginia, through th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_hotel_ver01:data:sn87076916:00237289262:1885022101:0240/pct:76.28304821150856,21.472972972972972,16.03810264385692,4.121621621621622/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_hotel_ver01:data:sn87076916:00237289262:1885022101:0240/pct:57.24567204823964,16.10810810810811,12.040459054658626,3.0945945945945947/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -515,7 +515,7 @@ symnpathize with you, with the nation, and with good
 men through the world, in this irreparable loss sustained  
 by us al
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044851:1885022201:0684/pct:232.44246473645137,124.68764112599729,49.96288047512992,9.287972301670932/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044851:1885022201:0684/pct:58.13219457853695,31.171910281499322,12.495358336427776,2.321993075417733/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -536,7 +536,7 @@ to-day as it was then, that he was &quot;the
 most illustrious and beloved personage  
 which this country ever produced&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_tesla_ver01:data:sn85038614:00175030876:1885022201:0193/pct:151.54824233358264,68.37184309511015,33.52281226626776,10.736163353036002/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_tesla_ver01:data:sn85038614:00175030876:1885022201:0193/pct:50.516080777860886,22.790614365036717,11.174270755422588,3.5787211176786675/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -558,7 +558,7 @@ sympathize with you, with the nation, and
 with good men through the worll, in this ir­  
 reparable loss sustained by us all
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_fleshgolem_ver02:data:sn92063989:00514153565:1885032101:0378/pct:65.68353067814854,46.02545730422322,9.752421959095802,2.7396105538228106/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_fleshgolem_ver02:data:sn92063989:00514153565:1885032101:0378/pct:65.68711876569789,46.02545730422322,9.76318622174381,2.74523026777937/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -630,7 +630,7 @@ Washington as &quot;the most illustrious
 and beloved personage which this  
 country ever produced.&quot;-Rulo Times
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn90061417:00294559966:1887100701:0374/pct:239.10344827586206,281.84096004219964,42.275862068965516,12.343399709877357/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn90061417:00294559966:1887100701:0374/pct:59.79648154536047,70.46024001054991,10.572611245256985,3.085849927469339/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -654,7 +654,7 @@ with you with the nation , and with good
 men through the world , In this irreparable  
 loss sustained by us nil. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_alliance_ver01:data:sn99021999:00206538843:1890090701:0622/pct:58.30935251798561,46.91865242399343,16.672661870503596,5.477951246233909/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_alliance_ver01:data:sn99021999:00206538843:1890090701:0622/pct:43.76462119848839,35.19583675705286,12.506748245456182,4.105039715146535/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -702,7 +702,7 @@ with the nation and with good men
 through the world, in this irreparable  
 loss sustained by all
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_jackrabbit_ver02:data:sn84036012:00294550264:1898022201:0938/pct:8.297413793103448,159.21501706484642,38.685344827586206,13.609215017064846/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_jackrabbit_ver02:data:sn84036012:00294550264:1898022201:0938/pct:2.7658045977011496,53.0716723549488,12.895114942528735,4.536405005688282/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -719,7 +719,7 @@ ALExANDER HAMILTON.
 The most illustrious and beloved personage which  
 this country ever produced. John ADAMs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042982:1898022201:0694/pct:172.98136645962734,298.52471482889734,51.475155279503106,7.787072243346008/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042982:1898022201:0694/pct:43.245341614906835,74.63117870722434,12.868788819875776,1.946768060836502/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -787,7 +787,7 @@ with you--with the nation and with
 good men thro&#x27; the world, in this irre  
 parable loss sustained by us al
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_hornacek_ver01:data:sn83045555:206534710:1899042901:1380/pct:125.8869179600887,119.48406040268456,37.16740576496674,12.961409395973154/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_hornacek_ver01:data:sn83045555:206534710:1899042901:1380/pct:41.96230598669623,39.82802013422819,12.389135254988913,4.320469798657718/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -809,7 +809,7 @@ with you, and with tin nation, and with good men
 through the world, in the n reparable loss sustain­  
 ed by us all
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_earl_ver02:data:sn85054468:211102214:1899121001:0557/pct:84.89461358313817,128.63047363717604,17.69613583138173,4.311885612153708/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_earl_ver02:data:sn85054468:211102214:1899121001:0557/pct:56.60957400087835,85.75737265415549,11.799150929585712,2.8708668453976767/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

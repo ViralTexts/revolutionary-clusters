@@ -429,7 +429,7 @@ sary, and promote the objetfts mentioned in the
 memorials, and every other measure that may  
 tend to the happiness of slaves
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790031001:0004/pct:9.153175591531756,64.40244142547746,27.521793275217934,5.493207324276432/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790031001:0004/pct:9.153175591531756,64.41720811183303,27.545143212951434,5.507974010632014/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -449,7 +449,7 @@ DANIEL CARROLL,THOMASFITZSIMONS
 DOMINICK LYNCH,  
 In Behalf of the Roman Catholic Laity.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790031701:0003/pct:8.08392471459426,59.90128331688055,25.70194384449244,4.955577492596249/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790031701:0003/pct:8.091638383215058,59.906219151036524,25.72508485035483,4.965449160908194/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -480,7 +480,7 @@ attended the fame, are the best evidence of the
 necessity of our nieafures and a proof of the late  
 hostile disposition of these people : but unde
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790032401:0004/pct:8.354192740926157,35.335550772842886,27.659574468085108,12.776364703580512/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790032401:0004/pct:8.354192740926157,35.335550772842886,27.675219023779725,12.800821756994717/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -507,7 +507,7 @@ into view, with a perfed: reliance, that you will
 cause such difcuflions to be made, as fliall be necef  
 fary to bring about a remedy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790032401:0004/pct:8.385481852315394,52.02504402269614,27.62828535669587,9.469771081980044/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790032401:0004/pct:8.385481852315394,52.03971825474467,27.643929912390487,9.45509684993152/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -544,7 +544,7 @@ tend to the happiness of Slaves.
 Fourthly, That nevertheless, Con­  
 gress have authority, if they shall think
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790033101:0565/pct:26.079694583631593,73.90082644628099,20.40085898353615,19.785123966942148/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790033101:0565/pct:26.079694583631593,73.90082644628099,20.4326731885787,19.80716253443526/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -566,7 +566,7 @@ each, for fcrvices during the late recess of Congress.
 And be itfurther ehafled, That tbe President of the United States  
 be authorilcd to empower the Secretary of the Treasury, if h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790040301:0004/pct:9.782608695652174,59.36207914943886,27.17391304347826,5.197873597164796/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790040301:0004/pct:9.790372670807454,59.36700137822406,27.18167701863354,5.207718054735184/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -594,7 +594,7 @@ President of the United States be au­
 thorifed to empower the Secretary of  
 the Treasury, if he shall deem it ne
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790050501:0586/pct:9.020179917335279,59.65798045602606,20.933625091174324,11.807817589576548/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790050501:0586/pct:9.036388686279277,59.65798045602606,20.941729475646326,11.818675352877307/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -683,7 +683,7 @@ other measure that may tend to the happiness of slaves..
 
 ---
 
-## [From _The American review : a Whig journal of politics, literature, art, and science_](https://archive.org/details/sim_american-whig-review_1849-07_10_19/page/n18/mode/1up?view=theater)
+## [From _The American Review: a Whig Journal Devoted to Politics and Literature (1848-1850)_](https://archive.org/details/sim_american-whig-review_1849-07_10_19/page/n18/mode/1up?view=theater)
 
 #### 1849-07-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -734,7 +734,7 @@ mentioned in the memoruilt and everv other measure
 that may tend to the happiness of staves t&quot; and, in  
 regard tu slavery within the sphere of the legitimat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1850041101:0069/pct:82.67578978017178,79.47943068824333,13.611879458436453,5.7126145447455645/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1850041101:0069/pct:82.68549522007085,79.48592968089946,13.607026738486923,5.7126145447455645/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -755,7 +755,7 @@ memoriaJi, and every other measure that may tend to the
 happiness of slaves;&quot; and, in regard to slavery within  
 the sphere of the legitimate action of Congress, it con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850041301:0482/pct:31.858407079646017,88.50923816755252,15.784392598551891,3.5560617565173374/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850041301:0482/pct:31.858407079646017,88.51767485024888,15.805846071332796,3.5602800978655194/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -786,7 +786,7 @@ promote the objects mentioned in the memorials,
 and every other measure that may tend to ^  
 the happiness of slaves. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1853091501:0832/pct:33.445378151260506,33.605847840723285,13.977591036414566,3.279792247763778/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1853091501:0832/pct:33.454715219421104,33.605847840723285,13.977591036414566,3.286204353820012/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -815,7 +815,7 @@ of slaves.
 Ithly That, nevertheless, Congress have authority,  
 if they shall think it necessary, to la
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1853092201:0836/pct:33.55318551782206,71.83830606352262,14.552343530732529,6.920115495668912/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1853092201:0836/pct:33.56254092992796,71.84472248957331,14.547665824679576,6.916907282643567/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1089,7 +1089,7 @@ seriousness. At every interval of eating
 or drinking he played on tiie table with  
 a fork or knife like a diumstick
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_keswick_ver01:data:sn84025968:00280769368:1891022801:0505/pct:9.65220789370848,76.4554562686163,13.579523251270027,6.661251015434606/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_keswick_ver01:data:sn84025968:00280769368:1891022801:0505/pct:9.658720854500455,76.45996931130969,13.57301029047805,6.670277100821374/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1135,7 +1135,7 @@ allied. The President seemed to wear on
 his countenance a settled aspect of mel­  
 ancholy. No cheering ray of convivia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_oakland_ver01:data:sn82015104:00175036659:1891032301:0671/pct:17.870036101083034,17.552622190510167,12.274368231046932,3.734094422642407/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_oakland_ver01:data:sn82015104:00175036659:1891032301:0671/pct:17.870036101083034,17.558568200737305,12.286675418444371,3.734094422642407/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1153,7 +1153,7 @@ of eating or drinking he played on the
 table with a fork or knife like a drum­  
 stick
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_oakland_ver01:data:sn82015104:00175036659:1891032301:0671/pct:17.870036101083034,21.59590914496373,12.290777814243517,1.5459626590557736/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_oakland_ver01:data:sn82015104:00175036659:1891032301:0671/pct:17.870036101083034,21.60185515519087,12.307187397440105,1.5459626590557736/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1174,7 +1174,7 @@ tsct3thsch!cstsscstioacdinti:&amp; mcaerMs.
 and every other measure that may tend to the,  
 oejtiuyiSwrcrthelesOofigreasnav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_milosz_ver01:data:sn83030272:0017504498A:1891121301:0950/pct:61.395348837209305,45.776566757493185,52.17054263565891,12.11020284589767/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_milosz_ver01:data:sn83030272:0017504498A:1891121301:0950/pct:15.35181236673774,11.444141689373296,13.045163791432449,3.0275507114744173/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1503,7 +1503,7 @@ seriousness.At every Interval of eating or
 drinking he. played on the table with a knife  
 or fork. like a drumstick. Next to him o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_beatrice_ver01:data:sn99021999:0020653896A:1897052901:0144/pct:94.27668539325843,73.14016172506739,16.766151685393258,6.482479784366577/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_beatrice_ver01:data:sn99021999:0020653896A:1897052901:0144/pct:70.72870939420544,54.86185983827493,12.57243195785777,4.8652291105121295/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

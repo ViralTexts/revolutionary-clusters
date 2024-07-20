@@ -958,7 +958,7 @@ stranger arrived in the neighborhood
 lately ? 7. Have you observed any de­  
 fects in the laws of our country &#x27;( 8. D
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jordan_ver01:data:sn90069164:00280776841:1881011801:0029/pct:79.62012320328542,81.8577648766328,23.04928131416838,10.70795033059184/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jordan_ver01:data:sn90069164:00280776841:1881011801:0029/pct:59.74326059050064,61.3933236574746,17.30423620025674,8.03096274794388/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

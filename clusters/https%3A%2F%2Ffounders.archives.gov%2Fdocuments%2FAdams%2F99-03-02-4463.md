@@ -210,7 +210,7 @@ Jesus, the supreme ruler of the universe,
 a portion of the late Cola Joseph Jew­  
 ett&#x27;s land, garden and store, etc. (th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_dungeness_ver03:data:sn83045611:00202198910:1884080301:0309/pct:99.72375690607734,267.2263973696571,44.13389665258369,25.915922968529827/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_dungeness_ver03:data:sn83045611:00202198910:1884080301:0309/pct:24.930939226519335,66.80659934241427,11.033474163145922,6.478980742132457/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

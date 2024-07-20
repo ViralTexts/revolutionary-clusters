@@ -415,7 +415,7 @@ ges that would come within the meaning
 of this resolution, would not be very con­  
 siderable.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794010401:0002/pct:8.933333333333334,6.539565395653956,60.96666666666667,85.87535875358753/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794010401:0002/pct:8.933333333333334,6.539565395653956,60.983333333333334,85.90610906109062/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -446,7 +446,7 @@ rife, and that a future early day (hould be
 assigned.  
 The motion for the committee&#x27;s rising
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794010401:0002/pct:50.733333333333334,31.05781057810578,19.466666666666665,11.664616646166461/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794010401:0002/pct:50.75,31.062935629356293,19.483333333333334,11.674866748667487/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -477,7 +477,7 @@ ed an early difcuflion would be the most
 eligible, as the members would as it pro­  
 ceeded, natnrally throw light upon it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794010401:0002/pct:51.13333333333333,59.55309553095531,19.4,12.279622796227962/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794010401:0002/pct:51.141666666666666,59.563345633456336,19.408333333333335,12.27449774497745/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -609,7 +609,7 @@ competition on equal terms, angd ‘enjoy the. AC~
 tual benefit of advantages t¢hich-nature add’ the’  
 {pirit of our people-entitle as tosr 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1794012501:0165/pct:7.4518136287752315,15.249149489693817,43.618151464562146,79.63778266960176/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1794012501:0165/pct:7.456872565386756,15.25248482422787,43.618151464562146,79.64111800413582/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -640,7 +640,7 @@ Resolved, as the opinion of this commit­
 tee, that an additional duty ought, to be  
 laid on the following
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794020301:0003/pct:69.06848425835767,19.595422966898244,19.117169750081143,10.666121781773601/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794020301:0003/pct:69.07659850697826,19.595422966898244,19.133398247322297,10.691663261136085/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -670,7 +670,7 @@ of foreign nations, employed in the com­
 merce of&#x27;the United States, than those  
 now imposed.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794020401:0003/pct:47.225935828877006,55.30955309553096,23.1951871657754,7.585075850758508/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794020401:0003/pct:47.25100267379679,55.32492824928249,23.211898395721924,7.579950799507995/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -893,7 +893,7 @@ navigation of foreign nations, employed in the
 commerce of the United States, than those now  
 imposed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1794022201:0181/pct:27.4365158178465,55.79300431241016,19.40700808625337,5.3378054623862/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1794022201:0181/pct:27.4365158178465,55.79300431241016,19.41646569253322,5.3441942181760105/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1257,7 +1257,7 @@ cases on the manufaftures and navigation of
 foreign nations employed 1n the Commerce of  
 the United States :—alfo sundry resolutions o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1794031501:0195/pct:47.577903682719544,81.98473282442748,19.405099150141645,2.604961832061069/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1794031501:0195/pct:47.577903682719544,81.98473282442748,19.405099150141645,2.614503816793893/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1447,7 +1447,7 @@ not only the quantity but the value of the land necessary for the abutment of th
 bridge, is reasonable.  
 6. Resolved, as the opinion of this committee, that the petition of Matthe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805010201:0011/pct:3.9473684210526314,20.39543524416136,41.20188531029065,14.012738853503185/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805010201:0011/pct:3.946593363440016,20.392729202600503,41.200340336409454,14.015302286497722/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1545,7 +1545,7 @@ our of the additional duties on the manufa&amp;ures, pro-’
 dubious and vdTels of the nation eftablifliing fuch un­  
 lawful regulations.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1805102201:0196/pct:1.6920473773265652,12.383147650147267,19.364542207181803,46.30554488410808/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1805102201:0196/pct:1.6917293233082706,12.381562099871958,19.3671679197995,46.303883909517715/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1679,7 +1679,7 @@ those now imposed.&quot; I
 &#x27;Tins resolution being read from tbe  
 chair, it was expected that Mr. Smith
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805120201:0001/pct:40.13274336283186,15.178328341954805,38.14159292035398,83.44677375442417/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805120201:0001/pct:40.140117994100294,15.178328341954805,38.14896755162242,83.45584898811144/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1802,7 +1802,7 @@ duties on the man-ussfs&#x27;ctures, productions
 and vessels of the nstion eatablishing such .  
 unlawful resolution. &#x27; &quot;­
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1806021201:0213/pct:22.919375812743823,2.0491803278688523,46.618985695708716,90.88829584445291/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1806021201:0213/pct:22.915650901999026,2.048985037644144,46.61682648030771,90.88281076273071/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1907,7 +1907,7 @@ of per ton extraordinary, ought
 to be imposed on vessels so importing a­  
 ny such produce or manufacture
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806021701:0003/pct:21.43639150426976,1.7176894306690678,38.86577622071382,96.0797894445214/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806021701:0003/pct:21.45098897890665,1.7223068753751674,38.858477483395376,96.09364177863971/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1957,7 +1957,7 @@ From the President of the United Stales
 comunicating the report of the direc­  
 tor of the mint, of the operation* o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806021701:0003/pct:41.20867089993431,14.15708546890151,18.37092183052332,22.74553262224685/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806021701:0003/pct:41.20867089993431,14.15708546890151,18.37092183052332,22.754767511659047/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2074,7 +2074,7 @@ the additional d jties on the maimfailures,
 pr. duClions and vessels of the nation es­  
 tablishing such unlawful regulations
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806021801:0064/pct:22.008507490290363,2.570628658691779,34.82522655816534,89.87019597862052/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806021801:0064/pct:22.004437869822485,2.570301565084616,34.82495069033531,89.86300207829665/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2099,7 +2099,7 @@ articles of which hemp or flax is the material of
 chief value; all articles of which silk is the materi­  
 al of chief value ; woolen cloths, whose invoic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806021901:0968/pct:28.07101727447217,21.14746325272641,20.46545105566219,6.416943259048522/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806021901:0968/pct:28.064284000959464,21.144121365360302,20.46653873830655,6.4198798988622/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2121,7 +2121,7 @@ the material of chief value ;
 f All articles of which silk is the mate­  
 rial of chief value
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1806032801:0584/pct:73.09236947791165,15.336209996404172,20.36718301778543,5.9870550161812295/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1806032801:0584/pct:73.07140808718096,15.333453172748516,20.368511614568398,5.9904727664929/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2154,7 +2154,7 @@ fish up the river Staunton, is reasonable.
 4.. Resolved, As the opinion of this com­  
 mittee, that the petition of sundry inhabi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806121901:0416/pct:59.915286869464765,42.51195244863678,18.44435887562572,10.647370461299909/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806121901:0416/pct:59.90375360923965,42.50645994832041,18.447224895733076,10.650301464254953/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2202,7 +2202,7 @@ sonable.
 mittee, that such other parts of the Said pe­  
 tition as prays for the establishment of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806122301:0421/pct:5.107680579378693,30.780033192901826,18.029350104821802,19.009319545512575/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806122301:0421/pct:5.1067073170731705,30.77610416134797,18.0322662601626,19.011147987405327/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2230,7 +2230,7 @@ on the manufacutures, productions and ves­
 sels of the nation establishing such unlaw­  
 ful regulations.” Iii liis speech he remark
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809012701:0337/pct:41.803426510369704,29.038802941922395,17.114517583408475,8.014202383971595/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809012701:0337/pct:41.79588892895781,29.03512108533029,17.117442000240413,8.01741261992308/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2252,7 +2252,7 @@ damage”—“ H&#x27;e are bound to obtain repa­
 ration for the injustice, or compensate the  
 damage.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809012701:0337/pct:41.8394950405771,37.06568602586863,17.060414788097386,4.514329190971342/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809012701:0337/pct:41.831950955643705,37.06098643337137,17.063348960211563,4.517983179071045/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2278,7 +2278,7 @@ tiom i 1 bound by the most [acred obligation, be conceived, 1o protedd
 the rights of ils citizens againfl the vislation of them from any  
 !gz:arr;r s or if they canmmot protel?, they are bound to defray th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809022101:0235/pct:67.96342219466833,56.66067505492311,26.48791072535648,7.8090673057719195/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809022101:0235/pct:67.97375490803886,56.66067505492311,26.48791072535648,7.815724652153651/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2314,7 +2314,7 @@ reasonable.
 5. Resolved, as the opinion of this commit­  
 fee, that the petition of Michael Cortney
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811121701:0254/pct:3.656509695290859,39.44988229463512,18.02400738688827,11.758146450253996/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811121701:0254/pct:3.655834564254062,39.44499504459861,18.02683407188577,11.760819293029401/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2371,7 +2371,7 @@ solution, as amended, was, on the question
 Put thereupon, agreed toby the House. The  
 3d resolution was,on motion of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812122401:0284/pct:40.874730021598275,44.3906571463149,17.22462203023758,23.51446205978458/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812122401:0284/pct:40.86737448263452,44.385285575992256,17.227520844580408,23.51565020974508/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2460,7 +2460,7 @@ aarigution of foreign nations. The additional
 duties were to be laid on certain articles mann.  
 factured by those European nations which ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530182:1843071201:0460/pct:54.33363015731671,61.94121249234538,48.842386464826355,23.87221882016738/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530182:1843071201:0460/pct:18.111210052438903,20.647070830781793,16.28079548827545,7.957406273389127/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2487,7 +2487,7 @@ such regulations.
 The debates on these regulations were long  
 and animated. On the 3d of February, the firs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530182:1843071201:0460/pct:54.140694568121106,94.66217595427638,49.094686850697535,22.024903041437028/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530182:1843071201:0460/pct:18.046898189373703,31.55405865142546,16.36489561689918,7.341634347145676/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2516,7 +2516,7 @@ the following articles manufactur&#x27;d hy European
 nations, having no commercial treaty with the  
 United States.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183700:1844052301:0088/pct:6.048150322959483,67.33303044070877,14.782736347621844,7.394366197183099/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183700:1844052301:0088/pct:6.047262586232203,67.32538330494037,14.785459171192329,7.397312133257619/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2533,7 +2533,7 @@ of Mr. Jeffehson, Secretary of State, on the
 privileges and restrictions on the commerce of  
 (he United States in foreign countries, mad
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014434:00415661423:1852071201:0058/pct:46.25748502994012,41.959798994974875,12.738160043549264,1.5730828053310029/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014434:00415661423:1852071201:0058/pct:46.25748502994012,41.9670817857403,12.747232807113047,1.5694414099482923/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

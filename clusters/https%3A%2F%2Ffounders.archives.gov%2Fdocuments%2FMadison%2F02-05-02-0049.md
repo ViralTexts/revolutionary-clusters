@@ -75,7 +75,7 @@ I tug might have a collusive reference to the existence
 I this surt can be made to Hie acquisitions we have in  
 i vipw.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664278:1844051001:0393/pct:36.176250933532486,48.94411158039485,15.922330097087379,12.022394656713486/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664278:1844051001:0393/pct:36.176250933532486,48.94411158039485,15.932287776947971,12.032216874570278/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -127,7 +127,7 @@ ae assert are clear, that the objects wc pursue are
 just, and that you will he wananted in providing for  
 &gt;oth, by taking every fair advantage of emergencie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661332:1844052001:0481/pct:66.47574727044926,63.50076491585926,16.57419008412386,21.31565527791943/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661332:1844052001:0481/pct:66.47574727044926,63.509263980962096,16.580156315255653,21.31140574536801/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -167,7 +167,7 @@ i that you will he warranted in providing for bf&#x27;tti, ny
 taking every fair advantage of emercpncies.? L. (?.c  
 pert, Foreign Relations, vol. &#x27;2d,p. 5G2
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664278:1844052401:0407/pct:50.53763440860215,29.002230194899642,16.158900836320193,12.721807427518666/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664278:1844052401:0407/pct:50.53763440860215,29.00546236142086,16.168857029072083,12.725039594039885/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -233,7 +233,7 @@ letter said to have been written Jy me to
 Gen. Hamilton, recanting the charge of  
 bargain made against Mr. Clay when h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn84026897:00237288312:1844052901:0122/pct:37.64422249009816,3.132938187976291,29.636645427931807,93.56477561388654/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn84026897:00237288312:1844052901:0122/pct:37.655702887319904,3.1410023789363333,29.630905229320934,93.56477561388654/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -337,7 +337,7 @@ tin rebv l?e prevented.&quot;
 But now 1 proceed to a point, which, i! o-tab­  
 lisheii. terminates this branch of the eontrovei-v
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664278:1844080201:0487/pct:30.550992981932207,53.941549701980385,13.632969986561147,3.8165737358200347/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664278:1844080201:0487/pct:30.56094768801951,53.947958725886046,13.637947339604798,3.8165737358200347/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -360,7 +360,7 @@ of peace to the unreasonable pretensions of war, and
 Ihe positive rights ofone nation to the positive rights  
 uf another.&quot; This pure and able statesman due
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661344:1844081301:0153/pct:68.87764323151997,12.131519274376418,17.549249954816556,4.320987654320987/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661344:1844081301:0153/pct:68.87764323151997,12.135718484924833,17.549249954816556,4.329386075417822/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -408,7 +408,7 @@ I stances, for the interests of your country, keep- &#x27;
 : that the objeots we pursue are ju.?t.&quot;  
 A NORTHERN WHIG
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1844122001:0010/pct:17.158534776805578,3.941747572815534,27.139255524247368,93.4368932038835/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1844122001:0010/pct:17.168421572989274,3.9482200647249193,27.134312126155518,93.4368932038835/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -444,7 +444,7 @@ pi-ace to the unreasonable pretensions of war,
 and the jmilicc rights of one nation, to the/x/ss/­  
 Lle rialit* of another.&quot;?Hence had our prajet. o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1845013001:0056/pct:58.06890299184044,51.23959031300852,13.886370504684194,8.681918254044223/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1845013001:0056/pct:58.07897652865921,51.2459717303213,13.886370504684194,8.685108962700616/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

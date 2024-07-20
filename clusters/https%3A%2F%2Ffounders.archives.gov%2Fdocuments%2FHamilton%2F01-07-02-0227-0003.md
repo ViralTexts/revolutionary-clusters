@@ -220,7 +220,7 @@ or produétion of the united ftates, in any other place than a city, town or vil
 distilled in the United States from foreign materials,-and from  
 materials of the United States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790121801:0001/pct:6.41139804096171,68.06041628292503,26.921935292371625,1.2341130963345/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790121801:0001/pct:6.4188186405461565,68.0742309817646,26.921935292371625,1.2387179959476884/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -341,7 +341,7 @@ ance on their efficacy and produ&amp;ivenefs. (T§ be centinvcd.J
   
 or go pr. cent.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790122201:0003/pct:60.91954022988506,25.992979863292074,26.289419392867668,65.49048586735637/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790122201:0003/pct:60.91954022988506,26.006835396268244,26.318891836133215,65.48124884537225/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -466,7 +466,7 @@ as far is they can be iua.de substitutes for taxes on.lands, ler\ -
 to exempt them from an undue Ihare ot the pulilic burthen *  
 , (To be continued.J
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790122501:0004/pct:11.50547175391896,15.780637940682709,26.619343389529725,67.97239321022198/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790122501:0004/pct:11.5276545400769,15.794627867935088,26.619343389529725,67.96772990113784/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -667,7 +667,7 @@ Slates from foreign materials, at xi cents pr. gallon, 385,000
 3,0®0,000 ditto, distilled from&#x27;materials of the United  
 States, at 9 cents per gallon,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790122901:0004/pct:12.530864197530864,3.0766430001820497,55.52469135802469,87.38394320043692/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790122901:0004/pct:12.53858024691358,3.0766430001820497,55.52469135802469,87.40214818860368/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1364,7 +1364,7 @@ alifhed should stand upon a footing
 which will give all reasonable alTurancc  
 as their effe&amp;ual collection.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792061801:0001/pct:47.57462686567164,13.784363423669332,41.75995024875622,78.98225775004875/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792061801:0001/pct:47.59794776119403,13.79411191265354,41.75995024875622,78.98713199454085/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1383,7 +1383,7 @@ than a city, town or village, at which there shall be
 one «r more Kills, which, fiugly, it only one, or to­  
 gether, if more than one, (hall be of less tapaaity tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797013101:0003/pct:6.582155046318869,76.10377054463423,19.429546562652366,2.900418949403803/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797013101:0003/pct:6.59434422233057,76.10779890428617,19.435641150658217,2.9084756687077022/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1408,7 +1408,7 @@ make it the subject of a separate report,
 which lie begs leave herewith to submit—  
 No. 2
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808081601:0127/pct:22.581811607304285,10.421648835745753,17.0312782498644,6.129641283826306/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808081601:0127/pct:22.577729573391178,10.420337276617166,17.03422511448542,6.133064854434097/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1542,7 +1542,7 @@ articles have reached a point which it
   
 would not be expected to exceed.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_abraham_ver02:data:sn84023963:00200295912:1891091101:1131/pct:184.796573875803,71.648987463838,56.24553890078516,8.486017357762778/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_abraham_ver02:data:sn84023963:00200295912:1891091101:1131/pct:46.20738889880421,17.9122468659595,14.063894342316615,2.1215043394406945/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1606,7 +1606,7 @@ ho said “the duties on the great mass of
 imported articles have reached a point  
 which it would not bo expedient to ex
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_lucretia_ver01:data:sn86086852:00271768941:1893041401:0358/pct:20.12728719172633,50.929331080409504,12.092283214001592,3.011629062717424/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_lucretia_ver01:data:sn86086852:00271768941:1893041401:0358/pct:20.12728719172633,50.93264420369082,12.092283214001592,3.0215684325613754/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1638,7 +1638,7 @@ f diverting too large a share of it
 from the exigencies of business.  
  but, as the requisite advances to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_flamingo_ver01:data:sn83004226:00295875811:1893092901:0022/pct:31.93415637860082,293.74638100752753,46.666666666666664,43.94904458598726/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_flamingo_ver01:data:sn83004226:00295875811:1893092901:0022/pct:7.988470249124974,73.43659525188188,11.673872760963558,10.987261146496815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -143,7 +143,7 @@ that none but madmen could meditate, and
 that no wise man will believe.&quot; The acquaintance of  
 Hamilton with Talleyrand, who arrived in this countr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:00206531289:1877031301:0536/pct:6.349206349206349,63.231581363323386,48.13735017816651,7.883865044755566/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:00206531289:1877031301:0536/pct:2.1164021164021163,21.077193787774462,16.045783392722168,2.627955014918522/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -282,7 +282,7 @@ toward it, is one of those visionary things that
 none but madmen could meditate and that no  
 wise man will believe.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043056:1899011501:0198/pct:338.0602498163115,82.69662921348315,61.49889786921381,27.56554307116105/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043056:1899011501:0198/pct:84.53058974830057,20.674157303370787,15.377549145691715,6.891385767790262/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -58,7 +58,7 @@ confuls of all or I) ions have, or
 whether 1 are 1 permit them to fail  
 after being h lof wai bei de- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_burmese_ver01:data:sn83045242:print:1802122201:0001/pct:6.385088241126314,32.66363406621178,17.073170731707318,9.830679807935304/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_burmese_ver01:data:sn83045242:print:1802122201:0001/pct:6.401612796615771,32.66363406621178,17.058298631766807,9.830679807935304/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -90,7 +90,7 @@ mit them to sail after being inscrm-d of
 war being chI-arcd zg :in-sit us b) a.) of  
 the Ear Teary Staccs.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802122401:0672/pct:8.703151952328682,24.141679499954705,21.122785008624746,12.265603768457288/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802122401:0672/pct:8.70178739416745,24.139492753623188,21.124699487822724,12.267512077294686/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -161,7 +161,7 @@ would, nevertheless, strike his brother
 and adherents, with such a panic as  
 „ could not fail to promote our interests. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806021401:0001/pct:41.20740429112327,12.571269642608817,36.705931846865795,85.89904046725073/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806021401:0001/pct:41.20740429112327,12.571269642608817,36.705931846865795,85.90831131506977/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -209,7 +209,7 @@ nevertheless strike-his brother and adhe-ss-_.
 . unto, with such a: pnnic astctould not. fail  
 &#x27; to promote—our interests.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1806022001:0236/pct:4.995891536565325,17.231503579952268,24.28923582580115,26.62529832935561/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1806022001:0236/pct:4.995070653959908,17.229858724704087,24.290721875342317,26.62593865343006/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -255,7 +255,7 @@ to engage in an expedition of that nature ; ?rd
 •vrn lb on Id we not fuceitd iu dethroning fo­  
 feph, it would, never!hele/s, IIrike his brothe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1806022101:0368/pct:3.65718507572959,68.71292236265154,18.119689693387514,18.790301779726594/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1806022101:0368/pct:3.656509695290859,68.70406189555126,18.122499230532473,18.79217709004943/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -298,7 +298,7 @@ we not succeed in dethroning Joseph, it would, nev­
 ertheless, strike his brother and adherents, with such’  
 a panic as could not fail to promote our interests.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806022601:0980/pct:27.124817872753763,53.20276127789372,21.24817872753764,17.177717129555305/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806022601:0980/pct:27.118232580723475,53.19422150882825,21.24908958485069,17.17897271268058/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -360,7 +360,7 @@ Secretary Madison in his own time respond­
 ed to Cathcart&#x27;s proposal as follows:  
 &quot;Although
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043020:1898092501:0538/pct:22.73747195213164,312.833078101072,50.03739715781601,39.08116385911179/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043020:1898092501:0538/pct:5.68436798803291,78.208269525268,12.509349289454002,9.770290964777947/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

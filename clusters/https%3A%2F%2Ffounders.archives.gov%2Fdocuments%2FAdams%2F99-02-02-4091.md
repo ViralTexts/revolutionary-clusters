@@ -193,7 +193,7 @@ ate and grateful people, in whose hearts
 he can never die, to pay suitable honor  
 to his memory
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1826072701:0129/pct:20.898063417748457,12.241720917067648,17.173866780165994,19.218794225870365/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1826072701:0129/pct:20.893617021276597,12.239988679779255,17.175531914893618,19.219612282439506/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -359,7 +359,7 @@ lusirisus through the world. it remains for an aflee
 tionate and grateful people, in whose hearts he can  
 never die, to pay suitable honors to his memor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044851:1885022201:0684/pct:232.66518188567187,50.519343670028604,49.81440237564959,10.176125244618396/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044851:1885022201:0684/pct:58.18789454140364,12.629835917507151,12.45822502784998,2.544031311154599/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

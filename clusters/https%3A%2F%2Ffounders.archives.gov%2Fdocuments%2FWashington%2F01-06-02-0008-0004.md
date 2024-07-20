@@ -108,7 +108,7 @@ firlt in the hearts of his countrymen,
 he was second tonone in the humble  
 and endearing {cenes of private life 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1800012201:0222/pct:26.084934903905765,60.33519553072626,15.995040297582145,3.1265314123297068/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1800012201:0222/pct:26.09010126059103,60.33519553072626,15.98987394089688,3.13306543826979/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -212,7 +212,7 @@ hearts of hi* countrymen, he was second to
 none in the humble and endearing scenes of  
 private life. Pious. iu*t. humane, temner.-tf
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_damariscotta_ver02:data:sn83016025:00279525164:1863050401:0349/pct:44.26987060998152,63.20197720719484,12.45841035120148,6.535768227378828/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_damariscotta_ver02:data:sn83016025:00279525164:1863050401:0349/pct:44.261689151727964,63.193300384404175,12.460728146368508,6.53830313014827/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -235,7 +235,7 @@ the hearts of his countrymen, he was sec­
 ond to none in the humble and endearing  
 scenes of private life.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293812:1866061201:0558/pct:120.94117647058823,100.37916583516264,44.11764705882353,13.051287168229894/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293812:1866061201:0558/pct:30.239741138402707,25.09479145879066,11.031033975584645,3.2628217920574736/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -254,7 +254,7 @@ first in the hearts of his countrymen, he
 was second to none in the humble and en  
 dearing scenes of private life. Pious, just
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271742009:1871011801:0063/pct:125.12394479431863,119.84573502722323,41.67224976550985,7.250453720508167/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271742009:1871011801:0063/pct:41.707981598106215,39.94857834240774,13.890749921836615,2.4168179068360556/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -275,7 +275,7 @@ hearts of his* countrymen, he was second to
 none in the humble and endearing scenes of  
 private life; pious, just, humane, temperat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ellis_ver01:data:sn85025007:0041566364A:1871012001:0095/pct:1.6453382084095065,35.521676989042405,15.904936014625228,4.01143401619819/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ellis_ver01:data:sn85025007:0041566364A:1871012001:0095/pct:1.6500257816528383,35.52485310465301,15.90962358786856,4.014610131808798/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -294,7 +294,7 @@ First in war, first in peace, and first in the hearts of
 his countrymen, he was second to none in the humble  
 and endearing scenes of private life; pious, just, human
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044826:1884022201:0998/pct:236.38376383763838,169.79263385948622,49.003690036900366,8.588672237697308/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044826:1884022201:0998/pct:59.11775562938354,42.448158464871554,12.255444813584349,2.147168059424327/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -311,7 +311,7 @@ First in war, first in peace, and first in the hearts of
 his cauntrymen, he was second to none in the humble  
 and endearing scenes of private life; pious, just, hu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_fernandez_ver01:data:sn83030272:00175044796:1888022901:0746/pct:284.40651667959656,275.53746928746926,50.4266873545384,4.115479115479116/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_fernandez_ver01:data:sn83030272:00175044796:1888022901:0746/pct:71.11542192046556,68.88436732186732,12.609117361784675,1.028869778869779/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

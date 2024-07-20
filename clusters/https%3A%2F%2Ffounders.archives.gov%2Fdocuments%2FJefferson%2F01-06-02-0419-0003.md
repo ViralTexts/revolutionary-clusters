@@ -57,7 +57,7 @@ ivejlern lands therein described,&quot; in the words following, viz.
   
 WHEREAS the United States in Congress assembled, have re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790040701:0003/pct:36.64145234493192,26.760839709633117,26.565809379727686,7.416127133608005/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790040701:0003/pct:36.66414523449319,26.765744555620955,26.55824508320726,7.416127133608005/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -146,7 +146,7 @@ tion, was reasonable, and ought to be acce­
 ded to by Congress, and the same was ac­  
 cordingly agreed to as one of the condition.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1811011701:0327/pct:6.063907044299201,60.59420467049762,17.429193899782135,8.839711456168235/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1811011701:0327/pct:6.062806316935923,60.58679706601467,17.43208083741756,8.842705786471068/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -266,7 +266,7 @@ ration, all her right, tie and claim t
 lands and territories to the northward anc  
 westward of the boundary thus limite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1820030101:1065/pct:32.55375330064127,76.47927314026121,20.70916635231988,16.570130607609315/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1820030101:1065/pct:32.55375330064127,76.47927314026121,20.734314095309944,16.577702063221654/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -339,7 +339,7 @@ Committee arc informed, that the deputations
 of officers for the state and continental lines  
 respectively, having appointed a surveyor fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1822022801:0386/pct:36.70017552257858,55.48448235015399,15.04707196425722,10.281923714759536/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1822022801:0386/pct:36.69432035737077,55.4779106952505,15.049989363965114,10.28465395396581/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -374,7 +374,7 @@ ginia, were claimed by their masters,
 and continued in bondage; and in that  
 Slate they or their posterity have eve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898012:1822121401:0343/pct:8.021527421834957,41.59922304953059,16.73500768836494,6.895435415992231/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898012:1822121401:0343/pct:8.019472200871125,41.5924906942871,16.737125288239817,6.898365431299563/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -521,7 +521,7 @@ confirmed to them, and be protected in
 the enjoyment of their rights and liber­  
 ties.&quot; But have these expressions an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1824110201:0332/pct:22.132218447870393,64.85638824694618,17.245884504834073,2.5255860019808516/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1824110201:0332/pct:22.126436781609197,64.84568410628816,17.24791013584117,2.52929526324476/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -618,7 +618,7 @@ the tiver S io&#x27;o and lit le Miami, or the north-west
 *ide of the river Ohio, in such proportions as have  
 been mgaged to them by the State ot Virginia&quot;_Thos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830020601:0283/pct:33.88148148148148,43.01899748226139,15.25925925925926,5.870908674753948/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830020601:0283/pct:33.87646274625981,43.014074836937866,15.26193650323409,5.874051188160354/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -675,7 +675,7 @@ olution the following word*: ‘“That in case the quan­
 tifcy of good lands on the Southeast side of the Ohio,  
 Upon the waters of the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830052101:0172/pct:5.269004919853991,43.31391893498158,17.695603872401207,6.3592059907286345/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830052101:0172/pct:5.268168835290384,43.30877109579273,17.698085263937376,6.362411853260439/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -815,7 +815,7 @@ cessions equally liberal for the common benefit
 and support of the Union, she. at once, ceded to  
 the General Government all that body of fin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184339:1831121301:0409/pct:3.6862282512533175,58.64071038251366,15.084046004128576,5.305100182149363/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184339:1831121301:0409/pct:3.685684800235884,58.63403528742174,15.086736448965551,5.308290646936065/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -947,7 +947,7 @@ fit and support of tlio Union, she at once ceded to the Gc­
 neral Government all that body of fine lands now forming  
 the States of Illinois, Indiana, nearly the whole of Ohio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184054:1832010501:0297/pct:4.639463387367244,62.74731486715658,14.99441028507546,3.1995477671000567/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184054:1832010501:0297/pct:4.638815146010899,62.74022156907077,14.996972660798287,3.202954254276886/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1267,7 +1267,7 @@ not to l?e made conditional and dependent upon tlis
 I payment of these expenses, htxi no such condition is  
 , found in any one of the deeds of cession. Yet this was 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1841052801:0308/pct:80.3482960516439,24.798326859874514,15.943552019216334,7.120804700727019/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1841052801:0308/pct:80.35830455887505,24.798326859874514,15.938547765600761,7.127444145669422/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1286,7 +1286,7 @@ rights of sovereignty, freedom, aad independence as
 the other States.’” *‘That the necessary and reasona- |  
 ble expenses which any particalar State shall bave in- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015209:1841110901:0174/pct:35.36193812025686,17.98853569567483,14.725627553998832,2.8452318916102137/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015209:1841110901:0174/pct:35.3716676396186,17.98853569567483,14.730492313679704,2.855653986451277/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1317,7 +1317,7 @@ tinct Republican Slates, and admitted members of the
 Federal Union, having the same rights of sovereignty,  
 freedom and independence, as the other States.&quot;^ W
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1841122501:0560/pct:48.41377236505789,84.8436085688424,15.86227634942114,7.945288142411747/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1841122501:0560/pct:48.41377236505789,84.84696101109658,15.872299904776224,7.945288142411747/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1348,7 +1348,7 @@ in Congress assembled, all therightof this Common­
 wealth, to the Territory North-westward of the river  
 Ohio, passed December&quot;-iOth, 17In that act, it i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664266:1842061001:0128/pct:66.36558481322719,26.904570970328788,16.243110838946723,3.418203688853248/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664266:1842061001:0128/pct:66.37068789548887,26.907912322908313,16.253317003470094,3.424886394012296/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1378,7 +1378,7 @@ waste and uncultivated temto?. the propriety of i
 making cessions, iijualhi liberal, IT the common benijit I  
 and support t.f the ( nion.&quot; ThlLegiilature of \ ir- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664266:1842071501:0166/pct:32.958174904942965,63.76738560774037,15.984790874524714,7.82100382987301/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664266:1842071501:0166/pct:32.958174904942965,63.76738560774037,15.989860583016476,7.831082443055836/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1412,7 +1412,7 @@ the benefit of the United States in their aggregate,
 and not their individual capacity. And yet this  
 pregnant interpretation of the character of the ces
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184601:1842071801:0784/pct:56.190777005685405,105.86186883343007,38.29753632343651,22.472431804991295/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184601:1842071801:0784/pct:18.72730143691773,35.283194057567314,12.763829675246065,7.489941194676571/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1440,7 +1440,7 @@ was among the first then, sir, to step forward and
 offer her rich domain as a sacrifice on the altar of  
 harmony and brotherhood, consecrated, as it ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184601:1842073001:0828/pct:50.38932146829811,107.99860286412854,38.582552041951374,16.812201653277448/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184601:1842073001:0828/pct:16.793771846202734,35.9953434225844,12.85880732973202,5.603414823438106/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1477,7 +1477,7 @@ to the present time. She was among the first then, sir,
 to step forward and offer her rich domain as a sacrifice on  
 the altar of harmony and brotherhood, consecrated, as i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347892:1842081101:0428/pct:264.427716657016,301.30632614120066,62.78710673615132,47.923088213709086/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347892:1842081101:0428/pct:66.09417213431108,75.31552685647198,15.693747587803937,11.979013795127678/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1510,7 +1510,7 @@ and uncultivated territory, the propriety of
 making cessions, equally liberal, for the  
 common benefit and support of the Union.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1842090301:0519/pct:8.83054892601432,14.32049916298889,19.84884645982498,15.416222797138945/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1842090301:0519/pct:6.626865671641791,10.744178968193578,14.90547263681592,11.565971693806118/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1901,7 +1901,7 @@ ofthe federal Union, having tile same right- of sovereigt
 freedom, and indejiendenec, as the other State ;.&quot;  
 That waathe condition of the cession. The donatio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661150:1847011401:0057/pct:68.92302768442951,49.746381294073984,14.674347895663306,6.148707163181987/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661150:1847011401:0057/pct:68.93369605803595,49.754629056868325,14.68501626926975,6.144583281784816/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2023,7 +2023,7 @@ be/ore States were formed, prohibit slavery. This
 is as far as Mr. Jefferson&#x27;s authority can be made  
 to go. Whatever power heclaimed for Congress
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664291:1847082701:0512/pct:31.275657594648017,38.00652967159593,13.896913486391972,18.340695217975803/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664291:1847082701:0512/pct:31.280725761492068,38.01293131041547,13.901981653236025,18.340695217975803/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2144,7 +2144,7 @@ ball have their possessions and titles confirmed to them, 1,1
 nd shall be protected in the enjoyment of their rights &#x27;t!  
 nd liberties.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848051801:0517/pct:62.38239515228831,80.61723748588633,16.28129484930633,3.2743695897628906/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848051801:0517/pct:62.39302609897411,80.61723748588633,16.27597937596343,3.2827332413331662/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2169,9 +2169,9 @@ near thereto as circumstances would admit. In
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1849-07_25_133/page/n6/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1849-07_25_133/page/n6/mode/1up?view=theater)
 
-#### 1849-07-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1849-07-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2306,7 +2306,7 @@ land, after the adoption of the Constitution, and even aftei;
 she had opened her land office, and made considerable dis­  
 positions of her domain, to the United States, upon the ex
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1852052201:0206/pct:2.7336122733612274,3.120628430001076,31.380753138075313,93.59733132465297/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1852052201:0206/pct:2.738261273826127,3.120628430001076,31.394700139470014,93.60450518311274/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2478,7 +2478,7 @@ e following condition, among others:
 &quot;That the lands so ceded should be considered  
 according their usual respective proportions i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156360:1854051701:1036/pct:259.5531587057011,269.80682720296375,58.8597842835131,27.626356178883302/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156360:1854051701:1036/pct:64.9007898285494,67.45170680074094,14.71778077441726,6.906589044720826/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2513,7 +2513,7 @@ ca, and not appropriated as beforementioned, shall
 be considered as a common fund, for the use and  
 benefit of the United States of America, Nort
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156360:1854051701:1036/pct:319.79969183359015,263.19132045514687,58.24345146379045,49.11352209579254/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156360:1854051701:1036/pct:79.9653246002697,65.79783011378672,14.563667886727028,12.278380523948135/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2623,7 +2623,7 @@ States,&quot; &amp;c.
 Congress having accepted the deed of cession,  
 passed an act for the Government of the Territory
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:0020029323A:1857061001:0540/pct:67.91744840525328,284.65759961822954,50.15634771732333,43.474111190646624/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:0020029323A:1857061001:0540/pct:16.982017200938234,71.16439990455738,12.541047693510555,10.868527797661656/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2874,7 +2874,7 @@ On the same day of the deed of cession Mr.
 Jefferson, as chairman of a commitree which  
 had been appointed, consisting of Mr. Jeffer-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290070:1859090901:0239/pct:133.446519524618,42.90362392011669,34.97453310696095,24.054751486592618/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290070:1859090901:0239/pct:33.37579617834395,10.725905980029172,8.747346072186836,6.0136878716481545/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3225,7 +3225,7 @@ thorizing the Delegates in Congress from
 that State to convey to the United States  
 “
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347282:1860083101:0476/pct:76.00124668848372,40.13468013468013,12.981143836683808,13.176206509539844/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347282:1860083101:0476/pct:76.00124668848372,40.138421249532364,12.986338372032622,13.183688739244294/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3260,7 +3260,7 @@ day of the deed of cession, Mr. Jefferson, as
 chairman of the committee which had been  
 appointed, consisting of Mr. Jefferson, o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347282:1860083101:0476/pct:76.00124668848372,54.13019079685746,12.94997662459093,10.886644219977553/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347282:1860083101:0476/pct:76.00124668848372,54.13767302656191,12.960365695288557,10.886644219977553/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3282,7 +3282,7 @@ to
   
 dred. The paper weekly can be had ir the ceede 1 shall he laid out and formed into States permission to do so—he declined to do so on I lady, Aurora 111 Mr Scuftleben of firm o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027352:00279528578:1860091301:0571/pct:5.987768453989475,69.67688483844242,51.47205233963874,1.9884009942004972/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027352:00279528578:1860091301:0571/pct:5.987768453989475,69.6803369235018,51.486275067557955,1.9953051643192488/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3309,7 +3309,7 @@ agreed to most of the conditions prescribed by
 Virginia, while good reasons were given by the  
 Committce for declining to accede to the residue
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530662:1860092101:0154/pct:55.24161181570076,128.9266712930835,47.56782790174988,24.936386768447836/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530662:1860092101:0154/pct:18.413870605233583,42.975557097694505,15.855942633916627,8.312128922815946/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3331,7 +3331,7 @@ tity of good land on the Southeast Fide of
 the Ohio, upon the waters of the Cumber­  
 land River, and between the Green river and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027352:00279528578:1860100401:0582/pct:18.513323983169705,48.15419131144198,38.064516129032256,3.9465633285743422/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027352:00279528578:1860100401:0582/pct:18.513323983169705,48.16098987014753,38.06919121084619,3.953361887279897/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3365,7 +3365,7 @@ NOT ONLY BETTER OFF AS TO PHY- yield to the Congress of the United States,
   
 LABORERS, RUT THEIR MORAL tittle, and claim, which the said common-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027352:00279528578:1860100401:0582/pct:18.457223001402525,61.80909647154803,25.525946704067323,17.438303079747094/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027352:00279528578:1860100401:0582/pct:18.46657316503039,61.815895030253586,25.525946704067323,17.438303079747094/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3407,7 +3407,7 @@ thorize their delegates in Congress to convej&#x27;
   
 to the United States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027352:00279528578:1860100401:0582/pct:18.401122019635345,55.40485417091577,25.38569424964937,40.730165204976544/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027352:00279528578:1860100401:0582/pct:18.410472183263206,55.41165272962132,25.395044413277233,40.730165204976544/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3525,7 +3525,7 @@ those who are posted in regard to the history
 of that transaction. And, jret, small as it is,  
 there are those who can be, and are delude
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027352:00279528578:1860100401:0582/pct:18.44319775596073,11.166632673873139,50.813464235624124,79.68590658780339/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027352:00279528578:1860100401:0582/pct:18.44319775596073,11.166632673873139,50.82748948106592,79.6995037052145/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3575,7 +3575,7 @@ nental establisment, should, from the North
 and whereas the delegates of the said com- tions as have been engaged to them by the kiss them for it, too.  
 monwealth have presented to Congress the of Virginia That all the lands within When, though tired with my day&#x27;s tramp
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027352:00279528578:1860100401:0582/pct:31.276297335203367,34.22394452376096,38.02244039270687,24.97450540485417/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027352:00279528578:1860100401:0582/pct:31.285647498831228,34.22394452376096,38.01309022907901,24.97450540485417/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3609,7 +3609,7 @@ sec these presents, we, disposed of in bounties to the officers and ilitv I am o
   
 Lee, and James Monroe, the under-written considered a common fund for the use and I hen I am bound to New ork, and som
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027352:00279528578:1860100401:0582/pct:31.220196353436187,53.997552518866,38.064516129032256,38.6192127269019/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027352:00279528578:1860100401:0582/pct:31.220196353436187,53.997552518866,38.07386629266012,38.626011285607454/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3636,7 +3636,7 @@ country within the limits of the Virginia when after I have read-Pauline, Juliet
 charter, situate, lying, and being to the Wcrter, through and through with her  
 Northwest of the river Ohio, to and for the when after I have done all these, and many
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027352:00279528578:1860100401:0582/pct:44.02524544179523,80.22639200489496,25.245441795231418,15.7964511523557/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027352:00279528578:1860100401:0582/pct:44.02524544179523,80.22639200489496,25.250116877045347,15.7964511523557/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3672,7 +3672,7 @@ that we, the said Thomas Jefferson, Samuel
 Hard}*, Arthur Lee, and James Monroe, by  
 virtue of the power and authority committed mghter or aunt loan her ten dollars
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027352:00279528578:1860100401:0582/pct:44.067321178120615,63.399959208647765,25.17531556802244,13.85886192127269/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027352:00279528578:1860100401:0582/pct:44.07199625993455,63.399959208647765,25.189340813464234,13.869059759331021/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3703,7 +3703,7 @@ to the United States of a portion
 their respective claims, for the come  
 mon benefit of the Union.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn85042591:00280774959:1860100501:0326/pct:154.37589670014347,85.21497919556172,49.28263988522238,35.728155339805824/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn85042591:00280774959:1860100501:0326/pct:38.614749685986006,21.30374479889043,12.327292302171182,8.932038834951456/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3736,7 +3736,7 @@ the territory so ceded to the United
 States, and not reserve! for or ap­  
 propriated to any of the befor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn85042591:00280774959:1860100501:0326/pct:154.519368723099,209.32038834951456,44.76327116212339,30.013869625520112/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn85042591:00280774959:1860100501:0326/pct:38.65063699982056,52.33009708737864,11.196841916382558,7.503467406380028/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3766,7 +3766,7 @@ United States by the State of North Caro
 shall he one State, and the same is hereby  
 declared to be one of the United States o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774674:1862040901:0574/pct:70.3012912482066,133.05362527861544,49.64131994261119,34.29920020978104/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774674:1862040901:0574/pct:17.57532281205165,33.26340631965386,12.410329985652798,8.57480005244526/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3843,7 +3843,7 @@ tinct republican States, and that the pro­
 posed new States were to be made distinct  
 republican States after the same pattern, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_klm_ver01:data:sn86053572:0023728902A:1870031501:0256/pct:67.70833333333333,234.46800926751024,45.359848484848484,32.65015148814828/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_klm_ver01:data:sn86053572:0023728902A:1870031501:0256/pct:16.935101847465656,58.61700231687756,11.345333964945523,8.16253787203707/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3868,7 +3868,7 @@ firmed to them, and be protected in the enjoyment of
 their right* and liberties.  
 The substance of this is incorporated in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grand_ver02:data:sn84031492:no_reel:1875050901:0002/pct:4.103535353535354,51.493126876283775,12.89983164983165,4.424079633433402/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grand_ver02:data:sn84031492:no_reel:1875050901:0002/pct:4.103535353535354,51.50497708958761,12.89983164983165,4.424079633433402/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3934,7 +3934,7 @@ and liberties;&quot; and that the deed executed by the
 delegates embodied the act of Virginia; held that  
 the acceptance of the deed by the United State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:00271743932:1875061201:1004/pct:148.5260399606944,33.67952522255193,45.266950540452015,13.695503309746632/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:00271743932:1875061201:1004/pct:49.50867998689813,11.22650840751731,15.088983513484004,4.565167769915544/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3986,7 +3986,7 @@ Litllo Miami.**
   
 G. Iliat nil the land within the terri
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187158:1876030301:0200/pct:54.749809499619,13.404715329970143,25.285750571501143,80.58272418408319/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187158:1876030301:0200/pct:54.74285714285714,13.403335392217418,25.286772486772488,80.57786013314117/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4006,7 +4006,7 @@ any part of the territory that may be ceded or relin.­
 quished to the United States, shall be reimbursed.&quot;  
 The debt represented by this draft comes directl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:0027174397A:1876053101:0779/pct:53.07956216304525,142.8441926345609,45.58078745303055,7.18413597733711/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:0027174397A:1876053101:0779/pct:17.69318738768175,47.61473087818697,15.19359581767685,2.3947119924457034/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4030,7 +4030,7 @@ peated by the Virginia legislature in the act of ces
 sion. The Court and ne oifficulty in coming to the con­  
 clusion that the clali is a just one, and that under th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:00206533481:1876053101:0145/pct:164.8134044173648,254.41506051098162,49.733434881949734,12.49066188555207/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:00206533481:1876053101:0145/pct:41.21904761904762,63.603765127745405,12.438095238095238,3.1226654713880175/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4115,7 +4115,7 @@ or states, containing a suitable extent of
 territory, the inhabitants of which shall  
 enjoy all the privilege, benefits and ad
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_avenger_ver01:data:sn91099608:00415665398:1883052801:0407/pct:53.913575214023645,62.59047044632087,15.246636771300448,7.93124246079614/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_avenger_ver01:data:sn91099608:00415665398:1883052801:0407/pct:43.14055875638656,50.0723763570567,12.207848679204261,6.353035786087656/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4268,7 +4268,7 @@ out entering into a discussion of the right of
 the state of Virginia to the said land, and by  
 the act of Congress it appears to have bee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn86053573:00211102007:1885042501:0498/pct:32.6278659611993,309.33997509339974,48.94179894179894,26.650062266500623/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn86053573:00211102007:1885042501:0498/pct:8.158765159867695,77.33499377334994,12.238147739801544,6.662515566625156/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4306,7 +4306,7 @@ delegates of this state shall hot be exeouted
 unless three of them at least are present in  
 Congress
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn86053573:00211102007:1885042501:0498/pct:32.804232804232804,345.5790784557908,48.76543209876543,34.99377334993773/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn86053573:00211102007:1885042501:0498/pct:8.202866593164277,86.3947696139477,12.194046306504962,8.748443337484433/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4721,7 +4721,7 @@ bursed;&quot;,
 Many Patients.  
 At the Pasteur institute in Paler
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jones_ver02:data:sn84037844:00415664850:1896071001:0912/pct:21.386603995299648,74.3414120126449,15.746180963572268,9.940288022479804/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jones_ver02:data:sn84037844:00415664850:1896071001:0912/pct:21.40129259694477,74.35458377239199,15.746180963572268,9.940288022479804/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4751,7 +4751,7 @@ bursed. &quot;
 Many Patients.  
 At the Pasteur institute in Paler
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jones_ver02:data:sn84037844:00415664850:1896071001:0913/pct:20.850684116597265,74.41819150826079,15.823914336704343,10.019541659264522/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jones_ver02:data:sn84037844:00415664850:1896071001:0913/pct:20.850684116597265,74.41819150826079,15.831350386674599,10.03286551785397/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

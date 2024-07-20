@@ -36,7 +36,7 @@ said State, by an aft, intituled &quot; An act for
 the .more general promulgation of the. laws of  
 the United States&quot; to be depofijed and diflri
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1800020501:0003/pct:74.77182307512287,73.206046141607,16.288322021998596,1.9252187748607796/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1800020501:0003/pct:74.77182307512287,73.2140015910899,16.30587409314299,1.9212410501193318/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -81,7 +81,7 @@ District of Columbia, and in not more than three
 newspapers in each of the several states and  
 territories of the United States. And he shal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1820061301:0093/pct:58.93895348837209,14.94218200100553,16.337209302325583,5.942684766214178/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1820061301:0093/pct:58.93895348837209,14.948885537120832,16.342054263565892,5.9393329981565275/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -131,7 +131,7 @@ passed by Congress, except such orders,
 resolutions, and laws, as are ol a private,  
 nature, cause the same to be publishe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898000:1820071101:0211/pct:57.10574175110418,37.05041878797832,17.355157183684074,6.536377073411069/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898000:1820071101:0211/pct:57.09090909090909,37.04433497536946,17.357142857142858,6.539408866995074/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

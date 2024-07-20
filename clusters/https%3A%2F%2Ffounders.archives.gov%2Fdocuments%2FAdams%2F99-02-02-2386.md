@@ -219,7 +219,7 @@ By the Prefldent,
 Timothy Pickering e  
 Secretary of State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798032701:0003/pct:22.778297474275025,16.53891509433962,16.908325537885876,61.71875/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798032701:0003/pct:22.78999064546305,16.53891509433962,16.90247895229186,61.73349056603774/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -473,7 +473,7 @@ By roe-Presißny, o vil w 0
 TIMOTHY PICKERING, Secreta­  
 : oy of Blage., T
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798041101:0476/pct:5.681818181818182,2.906802517231046,35.445205479452056,91.60922984716811/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798041101:0476/pct:5.687007056870071,2.910132187926614,35.45039435450394,91.61588918855925/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -585,7 +585,7 @@ John Adams•
 Bv the Presides r,  
 TIMOTHY PICKERING. Secretary of State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83045634:00332895059:1798041601:0005/pct:26.233502538071065,17.49309641013327,24.487309644670052,71.46115980309762/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83045634:00332895059:1798041601:0005/pct:26.22817701989444,17.490996398559425,24.48741372310191,71.45558223289316/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -667,7 +667,7 @@ has been set apart by recommendation of the P&amp;I­
 SIDENT of the United States as a day of solemn  
 Humiliation, Fasting, and Prayer, to the end tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661630:1863043001:0107/pct:0.6643598615916955,6.812520307592332,15.90311418685121,3.8449041481641935/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661630:1863043001:0107/pct:0.6689734717416378,6.816130546229106,15.90311418685121,3.8485143868009675/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -747,7 +747,7 @@ and demands of a foreign power, evinced by
 repeated refusals to receive our messengers of  
 reconciliation and peace,&quot; therefore a day wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pug_ver01:data:sn83045462:00280654826:1891112101:0486/pct:49.62889658584859,23.52006356773937,12.980372752762658,3.0591974572904252/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pug_ver01:data:sn83045462:00280654826:1891112101:0486/pct:49.633019957116936,23.526685207257316,13.000989609104403,3.0558866375314526/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -768,7 +768,7 @@ mands of a foreign power, evinced by repeated
 refusals to receive our messengers of recoucila­  
 tion and peace,&quot; therefore a day was set apar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_entiat_ver01:data:sn83045604:00202199100:1891112601:0149/pct:41.99316329213779,97.63338615953514,34.53852221930055,10.132065504490226/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_entiat_ver01:data:sn83045604:00202199100:1891112601:0149/pct:13.997721097379262,32.54446205317838,11.512840739766851,3.377355168163409/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -789,7 +789,7 @@ world freely to remit all our of­
 fenses and to incline us by His  
 Holy Spirit etc The Senate of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_airplane_ver01:data:sn87060004:00100481649:1896120301:0968/pct:36.9204152249135,61.87340411235049,14.671280276816608,5.993818035210321/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_airplane_ver01:data:sn87060004:00100481649:1896120301:0968/pct:27.708549671166494,46.40505308426287,11.007268951194185,4.502083053353044/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -820,7 +820,7 @@ power, evinced by repeated reconsilia­
 tion and peace,” a day was set apart  
 for fasting, humiliation and prayer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_bobidosh_ver01:data:sn85040613:00514150941:1897112201:0287/pct:19.169096209912535,49.944065900539,28.848396501457724,45.967659920675274/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_bobidosh_ver01:data:sn85040613:00514150941:1897112201:0287/pct:19.169096209912535,49.95084579138276,28.858114674441204,45.967659920675274/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -845,7 +845,7 @@ foreign power, evinced by repeated re­
 fusals to receive our messengers of rec  
 onciliation and peace,&quot; a day was se
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_gaylord_ver02:data:sn85033781:00296023814:1897112401:1153/pct:76.64630908125332,43.42484876686831,20.406266595857673,9.660307119590508/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_gaylord_ver02:data:sn85033781:00296023814:1897112401:1153/pct:51.11553784860558,28.95300139599814,13.612217795484728,6.440204746393672/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -932,7 +932,7 @@ foreign power, evinced by repeated re­
 fusals to receive our messengers of rec­  
 onciliation and peace,” a day was se
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_gorham_ver01:data:sn84022565:00332895515:1897112501:1270/pct:41.46435452793834,56.295163979988885,12.678227360308286,4.724847137298499/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_gorham_ver01:data:sn84022565:00332895515:1897112501:1270/pct:41.4563667886727,56.287341948033905,12.680601040261992,4.727664304571349/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -954,7 +954,7 @@ foreign power, evinced by repeated re­
 fusals to receive our messengers of rec­  
 onciliation and peace, ’ ’ a day was se
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_furio_ver01:data:sn87068079:00332896507:1897112501:0188/pct:87.09873725848166,82.55799829952629,9.767229575536286,3.5709947771164825/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_furio_ver01:data:sn87068079:00332896507:1897112501:0188/pct:87.08548828719196,82.5479718241438,9.769546699117736,3.573597279572504/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -979,7 +979,7 @@ power, evinced by repeated reconsllia­
 tiou and peace,” a day was set apart  
 for fasting, humiliation and prayer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_lucretia_ver01:data:sn86086852:00271768965:1897112501:0316/pct:28.124377117799483,64.40445116087375,37.57225433526011,59.81590877867839/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_lucretia_ver01:data:sn86086852:00271768965:1897112501:0316/pct:21.795994027084085,49.91659864428434,29.123114154780907,46.36050679632324/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -998,7 +998,7 @@ foreign power, evinced by repeated refusals
 to receive oar messengers of reconciliation  
 nnd peace,&quot; a day was se
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_dracula_ver01:data:sn86069313:00206533158:1897112601:0408/pct:70.41763341067285,72.25328487559408,15.31322505800464,3.145093653899916/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_dracula_ver01:data:sn86069313:00206533158:1897112601:0408/pct:52.85355000967305,54.189963656695554,11.491584445734185,2.3623147889292704/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1020,7 +1020,7 @@ foreign power , evinced by repeated re­
 fusals to receive our messengers of rec­  
 onciliation and peace , &quot; a day was se
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_indianola_ver01:data:sn94056415:00206536664:1897112601:0636/pct:86.95212407282536,86.98590236514039,18.358057990559676,5.8021670744494935/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_indianola_ver01:data:sn94056415:00206536664:1897112601:0636/pct:65.24030354131534,65.24233950833042,13.781618887015178,4.360363509262496/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1042,7 +1042,7 @@ bi iju power, evinced by repeated re­
 fusals to receive our messengers of rec­  
 oni lint ion and peace,” a day was se
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_capemay_ver01:data:sn85035661:0051415580A:1897112701:0794/pct:5.736322005302482,64.95627784194028,15.473608098336948,4.966177198482098/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_capemay_ver01:data:sn85035661:0051415580A:1897112701:0794/pct:5.734939759036145,64.94556252062026,15.475903614457831,4.969482019135599/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1070,7 +1070,7 @@ foreign power, evinced by repeated re
 fusals to receive our messengers of rec­  
 onciliation and peace,&quot; a day was sa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_gordon_ver01:data:sn89058370:00296021209:1897112701:0417/pct:85.80086580086581,101.95970946964506,37.61904761904762,23.790598876250513/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_gordon_ver01:data:sn89058370:00296021209:1897112701:0417/pct:64.39246263807668,76.4697821022338,28.243448126489064,17.842949157187885/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1104,7 +1104,7 @@ God and the national acknowledgment
 of this truih.  
 During Ms first term as Presiden
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_griffin_ver01:data:sn85042104:00332892058:1899112601:0502/pct:6.198483349818662,64.3765903307888,14.309264754368613,4.701847549507689/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_griffin_ver01:data:sn85042104:00332892058:1899112601:0502/pct:6.203978459171338,64.3765903307888,14.309264754368613,4.701847549507689/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1127,7 +1127,7 @@ God and the national acknowledgement
 of this truth.  
 During his first term as Presiden
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_miller_ver01:data:sn86092523:00514157911:1899112601:0488/pct:70.06544953496383,53.8432171035887,12.590423699621082,6.006617459913464/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_miller_ver01:data:sn86092523:00514157911:1899112601:0488/pct:70.05338384708111,53.8363659498664,12.59256070260031,6.009034228273317/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1169,7 +1169,7 @@ God and the natlonul acknowledgment
 of this truth.  
 I&gt;urlng his first term as Presiden
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_asburypark_ver01:data:sn84026089:00514155914:1899112901:0614/pct:27.66565458117521,61.71070931849791,10.537595999285587,2.1279554937413074/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_asburypark_ver01:data:sn84026089:00514155914:1899112901:0614/pct:27.660714285714285,61.702127659574465,10.540178571428571,2.1311361424002224/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1215,7 +1215,7 @@ God and the national acknowledgment
 of this truth.  
 During his first term as Presiden
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jesse_ver01:data:sn82016014:00295871453:1899113001:0443/pct:110.98081023454158,34.44902949717255,16.631130063965884,5.670181873758215/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jesse_ver01:data:sn82016014:00295871453:1899113001:0443/pct:83.25928558734672,25.844413877426256,12.475564243824419,4.248815528045239/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1238,7 +1238,7 @@ the frjteotlon and blessing of Almighty
 God and the national acknowledgment.**/  
 ibis truth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_isleboro_ver01:data:sn83016025:00414210752:1899113001:0328/pct:56.90471290388969,48.384382362840796,12.224737600329286,4.35880175025244/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_isleboro_ver01:data:sn83016025:00414210752:1899113001:0328/pct:56.89300411522634,48.376240955746255,12.227366255144032,4.362274945313815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -270,7 +270,7 @@ Mr. Livingfton next moved .to strike out the
 words &quot; wife, firm and patriotic administration**  
 m the next paragraph, and to introduce in thei
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796121601:0003/pct:26.663001649257833,22.91888062345023,19.7086311159978,3.9319872476089266/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796121601:0003/pct:26.683617372182518,22.927736450584483,19.71550302363936,3.9319872476089266/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -290,7 +290,7 @@ less rare and indruftive to mankind, than valuable
 to a republic.&quot;  
 Mr. Harper he had no objection ts the ad
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796122001:0003/pct:7.959335482271262,86.9643148117973,19.241259608232085,3.943294769431318/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796122001:0003/pct:7.96553434168113,86.97246211503992,19.26605504587156,3.943294769431318/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -449,7 +449,7 @@ rand fafeguard of the present age, become
 OF THE PRESIDENT, TO THE AD­  
 - DRESS OF THE HOUSE OF RE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796123101:0211/pct:5.682340327768418,6.728860658991663,32.884055751263595,85.97657800714569/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796123101:0211/pct:5.692551181906366,6.735477041153897,32.87384489712564,85.97657800714569/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -484,7 +484,7 @@ those endcavors with fuccels.
 mandiag yeur attention.—And while di­  
 refting your labors to advance the real in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796123101:0211/pct:22.71404502986675,30.428741564112745,16.128044110889874,12.22707423580786/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796123101:0211/pct:22.719150456935722,30.428741564112745,16.138254965027823,12.240307000132328/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1144,7 +1144,7 @@ and of the sensations of regret with
 which we contemplate his intended  
 retirement from office
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797010701:0214/pct:75.9190031152648,31.907537291316803,15.669781931464174,3.8624913563172973/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797010701:0214/pct:75.9190031152648,31.907537291316803,15.67497403946002,3.872369850834733/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1948,7 +1948,7 @@ may be the guide of your successors&#x27;; and thus af.
 t«*r being the ornament and safeguard of the piesen&#x27;  
 age. become the patrimony of our descendant*.’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183992:1825112201:0207/pct:18.455684160456634,15.984289454891693,14.872364039955604,9.116876934063319/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183992:1825112201:0207/pct:18.45275840202917,15.982387242651434,14.875290636229128,9.119758816295768/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2060,7 +2060,7 @@ ment and safe-guard ol the present
 age, become the patrimony of our de­  
 scendants.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216341:1825121301:0579/pct:5.882352941176471,32.18518108317643,15.19746708881853,58.998781703400155/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216341:1825121301:0579/pct:5.881372875708097,32.181616832779625,15.200488725980229,58.99593946105574/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2173,7 +2173,7 @@ j that your example may be the guide of your suc­
 i safeguard of the prestnt age, become the patri­  
 mony of our descendants
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216389:1827102401:0272/pct:62.540941217031545,43.330145828352855,18.84157903809688,49.509921109251735/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216389:1827102401:0272/pct:62.53016201309893,43.324967132783556,18.844076755141906,49.50798772957253/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2235,7 +2235,7 @@ sors, aud thus, nxﬁc&#x27;r z:&#x27;i‘n&#x27; the ou’:&#x27;smont and
 safeguard of the present age, become the pat­  
 rimony « [ our desceandants.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021389:00340588022:1827102701:0232/pct:80.38857522417801,14.984746796827334,14.646296911325141,3.075045759609518/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021389:00340588022:1827102701:0232/pct:80.38857522417801,14.988814317673379,14.646296911325141,3.075045759609518/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2317,7 +2317,7 @@ iv--t wish that v-»r example may h* the guide of
 a, &#x27;i • d of t Re prem-i* ago, become the patrimo­  
 ny 11 mr dcscendan**-.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184558:1827102701:0260/pct:5.817610062893082,33.71230253709909,18.30188679245283,36.27333652465295/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184558:1827102701:0260/pct:5.816695488130797,33.70826851741055,18.304249855892678,36.27298472338558/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2337,7 +2337,7 @@ o/j;n:tr Successor*, and thus after being the ornament and
 safeguard of the present age, become the patrimony of our  
 nrsccnriantF. Mr. Hloiint moved to strike out this sen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184558:1827102701:0260/pct:78.42767295597484,85.02872187649594,17.62578616352201,3.1235040689325038/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184558:1827102701:0260/pct:78.41534349944978,85.0185473255953,17.628255515380182,3.127118982090862/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2376,7 +2376,7 @@ thus, alter being the ornament and safe­
 guaid of the present age, become the  
 patrimony of our descendants.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1827110801:0401/pct:1.134301270417423,49.447553450997276,18.647912885662432,10.116229014205768/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1827110801:0401/pct:1.1340440009072352,49.440459110473455,18.649353594919482,10.118364418938308/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2440,7 +2440,7 @@ enthusiasm could not bestow, a d which adula­
 tion would tarnish) ft urn the transcendent me­  
 rit of which it is the voluntary testimony 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216390:1828013101:0112/pct:24.070551616807887,53.83876006247747,18.467923223240533,24.93091433377388/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216390:1828013101:0112/pct:24.066390041493776,53.832292167227294,18.470493314891655,24.931923754605158/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2462,7 +2462,7 @@ edoess of vour i“al in its service; and an ear­
 liest of the patriotism and sue css which have  
 characterized your adminisna ion
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216390:1828013101:0112/pct:24.087843679750993,79.53862789859426,18.243126404980114,4.998197765228884/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216390:1828013101:0112/pct:24.08367911479945,79.52907256126862,18.245735361917934,5.00160179400929/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2488,7 +2488,7 @@ after being the ornament and safeguard of
 the present age, become the patrimony of  
 our aescendanJs. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216390:1828013101:0112/pct:24.15701193152343,85.16160038447676,18.485215286183642,7.953862789859426/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216390:1828013101:0112/pct:24.15283540802213,85.15136953387794,18.487782388197324,7.956911741150088/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2512,7 +2512,7 @@ thus, after being the ornament and safe­
 guard of the present age, become the  
 patrimony of our descendants.” Mr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1828013101:0455/pct:2.935625917383099,46.63894663894664,17.23631788634934,6.832986832986833/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1828013101:0455/pct:2.9350104821802936,46.63248337028825,17.237945492662472,6.835504434589801/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2737,7 +2737,7 @@ which accident or enthusiasm could not bestow, amt
 which adulation would taruidi) from the transcendent  
 merit of which it is the voluntary testimony.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184303:1828022001:0063/pct:75.57003257328991,43.832835820895525,17.7601985419575,19.86865671641791/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184303:1828022001:0063/pct:75.55831265508685,43.82760267430754,17.762613730355667,19.87026424705508/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2757,7 +2757,7 @@ new proof of the devotedness of your zeal in ite sor­
 rier, and an earnest of the patriotism and success  
 which have characterized your administration
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184303:1828022001:0063/pct:76.05087637660928,64.54925373134328,17.341399100356757,3.2/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184303:1828022001:0063/pct:76.03908188585608,64.54154727793696,17.34387923904053,3.2035975803884114/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2781,7 +2781,7 @@ i -hr the fake \of Jlcjaib/ican liberty, it is our earnest
 \ guard of the present age, become the patrimony of oar  
 ; descendant .
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184303:1828022001:0063/pct:75.94229874360167,68.63283582089552,17.636109818520243,5.397014925373134/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184303:1828022001:0063/pct:75.93052109181141,68.62464183381088,17.638544251447478,5.400350206940465/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2827,7 +2827,7 @@ being the ornament and safeguard of the
 age, become the patrimony of their des­  
 ,i laiauts. I will not detain you, 6ir, t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn84038586:00414187377:1828030501:0041/pct:7.203593775068185,65.78832276404985,15.161238568907429,7.708287776076974/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn84038586:00414187377:1828030501:0041/pct:7.202438241899262,65.78113042527605,15.16415356646348,7.711089246018731/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2850,7 +2850,7 @@ cessors, and thus, after deing the ornament
 and safe guard of the present age, become  
 the patrimony of our descendants.’” Mr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153188:1828041001:0057/pct:8.853783982365908,64.44444444444444,17.211609110947833,5.204678362573099/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153188:1828041001:0057/pct:8.853783982365908,64.44834307992203,17.211609110947833,5.208576998050682/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3017,7 +3017,7 @@ and thus, alter being the ornament and
 safe guard of the present age, become  
 the patrimony of our descendants.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1828062601:0539/pct:38.62559241706161,7.847783663228324,17.75096940973718,8.87928631168107/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1828062601:0539/pct:38.617273314667244,7.846689895470384,17.752530691363344,8.881533101045296/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3054,7 +3054,7 @@ and thus, alter being the ornament and
 sate guard of the presenl age, become  
 tbe patrimony of our descendants.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1828070301:0542/pct:61.879165770801976,6.915706151923344,17.802623091808215,8.915428412720455/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1828070301:0542/pct:61.865864144454,6.914745903915579,17.804170249355117,8.91766176062205/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3112,7 +3112,7 @@ and thus, after being the ornament and safe­
 guard of the present ag», become the patri  
 “mony of our descendant* »
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1828091801:0589/pct:1.8410223088585662,24.20757363253857,17.457223305176523,8.597475455820478/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1828091801:0589/pct:1.84062364660026,24.20417893703548,17.458856647899523,8.59977562754172/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3329,7 +3329,7 @@ fortitude, of our countrymen, w *• cherish the pleasing
 hop ’ that a mutual spirit of justice and moderation  
 wid ensure Jin- success of your perseverance:
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184303:1828092401:0311/pct:21.90356129845572,53.73997168475696,17.58588086983927,3.798961774421897/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184303:1828092401:0311/pct:21.900110288325195,53.73363218119618,17.588361955779632,3.8024458338248595/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3348,7 +3348,7 @@ he the guide of your successors; and thus, after be­
 ing the ornament, and safeguard of flic present age,  
 become the patrimony of our descendants.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184303:1828092401:0311/pct:21.935077213993065,86.62104766399244,17.696186574219983,2.6899480887210947/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184303:1828092401:0311/pct:21.931621238380338,86.6108293028194,17.69865028097264,2.693562974322677/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3474,7 +3474,7 @@ i Riiecespors; ami thus, after being the ornarrient and
 safeguard of the present ng&#x27;v become the patrimony ol  
 j our descendants
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184303:1828092401:0311/pct:39.82035928143713,23.961774421897122,17.932555940750078,59.6271826333176/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184303:1828092401:0311/pct:39.81408539467465,23.95894774094609,17.93498240638622,59.624080846211314/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3493,7 +3493,7 @@ nally conducive 1o the success of the present form of
 Govermment,” &amp;e. [lere Mr. Livingston moved to  
 strike ont the words “aetse, firm, and patriotic adminis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1828102101:0579/pct:79.01103886284591,14.102698729391998,16.08952064116135,2.247191011235955/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1828102101:0579/pct:79.01607943948788,14.106199026917288,16.094561217803317,2.250691308761245/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3514,7 +3514,7 @@ ing the. ornament and safe guard of the
 present sge, become the patrimony of  
 our descendants.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1828102301:0608/pct:76.68711656441718,29.65747702589808,18.01051709027169,4.594820384294069/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1828102301:0608/pct:76.67031763417306,29.65334818321036,18.012048192771083,4.597661144368648/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3535,7 +3535,7 @@ after being the ornament and safe guard
 of the present age, become the patri­  
 mony ol our descendants ” Yes, th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1828102301:0610/pct:58.329689549628334,28.09928880211965,18.080454744206385,4.699484032910333/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1828102301:0610/pct:58.31693989071038,28.09537088678193,18.081967213114755,4.702314556609035/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3636,7 +3636,7 @@ ol government, we cannot forbear to express the deep
 sensations of regret with which we contemplate your  
 intended retirement Irom office.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184042:1830051401:0007/pct:64.81726111845002,50.71753986332574,15.206223396447967,2.65375854214123/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184042:1830051401:0007/pct:64.80774875256824,50.71176403598679,15.208883670873691,2.657252401017348/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3655,7 +3655,7 @@ cannot forbear to express the deep sensations of re­
 gret, wi&#x27;li which we contemplate your intended re­  
 tirement from olfice.&quot; Nowiltyr, compare this clause
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184042:1830051401:0007/pct:64.92000587112872,61.56036446469248,15.147512109202994,2.3120728929384966/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184042:1830051401:0007/pct:64.91047842676842,61.55335383213757,15.150180999902162,2.315605663743689/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3708,7 +3708,7 @@ government, we cannot forbear to express the deep sen­
 sation ol rkorbt with which we routeinplate your in­  
 tended re ireuicnt Inun ollice.’* “Now, sir, mark wha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184054:1831061701:0048/pct:21.90932131793861,4.741283588718632,14.587440157702055,2.7093049078392184/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184054:1831061701:0048/pct:21.906236801351543,4.740757188853114,14.59007930921207,2.7127049332001034/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3941,7 +3941,7 @@ after deing the ornament and&#x27; safeguard of the
 present age; become the patrimony of our de­  
 scendants.”’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1834090901:0459/pct:18.76820034944671,14.489031567683254,14.239953407105416,5.339753879079722/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1834090901:0459/pct:18.777907202484954,14.492598537542358,14.239953407105416,5.343320848938826/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3962,7 +3962,7 @@ present form of government, we cannot forbear to
 express the deep sensdtion of regret, with which we  
 contemplate your intended retirement from office.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1834090901:0459/pct:18.593476994758298,29.684323167469234,14.239953407105416,3.156768325307651/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1834090901:0459/pct:18.593476994758298,29.691457107187443,14.239953407105416,3.1532013554485463/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4023,7 +4023,7 @@ may be the guide of our successors, and thus, afte,
 being the ornament and safeguard of the present  
 age, become the patrimony of our descendants.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348872:1840072701:0417/pct:5.153230528986922,251.88211263495768,61.46788990825688,14.254449956229939/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348872:1840072701:0417/pct:1.288056206088993,62.96134208606856,15.363973458235753,3.5630926331145147/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4049,7 +4049,7 @@ so dear. May your own virtues and a nation&#x27;s pray
 ers obtain the happiest sunshine for the decline of  
 your days and the choicest of future blessings.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348872:1840072701:0417/pct:5.231309779426118,280.128392179749,61.389810657817684,24.93434490808287/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348872:1840072701:0417/pct:1.3075722092115534,70.02188183807439,15.344457455113194,6.232676878191102/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4153,7 +4153,7 @@ alter being the ornament and safe-guard of the pre­
 sent age, become trie patrimony of our descend­  
 ants.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348963:1840073001:0543/pct:18.286270691333982,40.881105486386645,14.917234664070108,2.7910794910384458/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348963:1840073001:0543/pct:18.28271028037383,40.87551299589603,14.919197819314642,2.7941176470588234/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4180,7 +4180,7 @@ and a nation&#x27;s prayers obtain the happiest sunshine
 lot the decline of your days and the choicest of fu­  
 ture blessings.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348963:1840073001:0543/pct:18.227848101265824,47.24312491448899,15.034079844206426,6.348337665891367/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348963:1840073001:0543/pct:18.22429906542056,47.23666210670314,15.036020249221183,6.350889192886457/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4328,7 +4328,7 @@ The gratitude and admiration of your coun
 trrmen are still drawn to the recollectiort of  
 thuse resolendent virtues and talente which wcare
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667693:1840081301:1005/pct:34.45761166818596,200.93051178147982,58.70556061987238,12.726999849917455/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667693:1840081301:1005/pct:8.62029646522235,50.232627945369956,14.686431014823262,3.1817499624793637/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4347,7 +4347,7 @@ may be the guide ot our successors, and thus, after
 being iho ornament and safeguard of the present  
 age, become the patrimony of our descendants.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840081501:0081/pct:66.64,76.27222562844881,19.5,3.3874923359901903/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840081501:0081/pct:50.0,57.204169221336606,14.645858343337334,2.544451256897609/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4374,7 +4374,7 @@ nation&#x27;s prayers obtain the happiest sun-finr- fir
 the decline of jour days und the choicest of fuli-re  
 blessings.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840081501:0081/pct:66.66,85.8062538320049,19.6,9.135499693439607/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840081501:0081/pct:50.02000800320128,64.36235438381361,14.705882352941176,6.851624770079706/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4507,7 +4507,7 @@ bein tho ornament and safeguard of t!m present rig&quot;, be­
 come tiie patrimony of our descendants.&quot;  
 Ti;o u iviio vole I in the negative, were, Thomas IlJount
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058217:00271744754:1844030801:0040/pct:105.06547208821502,26.511309115832763,23.48380427291523,49.115832762165866/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058217:00271744754:1844030801:0040/pct:78.83488452257842,19.890335846470187,17.61461564977594,36.83344756682659/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4689,7 +4689,7 @@ centemplate your intended retirement from effice.
 present to pass, without attempting to disclose some of the emo  
 Which it cannot fall to awaken.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038518:00200293319:1861031501:0255/pct:212.14848143982002,266.6104375329468,44.65691788526434,9.024775962045334/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038518:00200293319:1861031501:0255/pct:53.037120359955004,66.6526093832367,11.164229471316085,2.2561939905113335/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4710,7 +4710,7 @@ our conutry&#x27;s sake, for the sake of republicon ladesitts e
 oessors; and thus, after being the ornament and safeguard o tthe  
 présent age, become the patrimony of our descendents.&quot; Lous
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038518:00200293319:1861031501:0255/pct:211.92350956130483,276.73168160253033,45.669291338582674,9.319978914074856/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038518:00200293319:1861031501:0255/pct:52.98087739032621,69.18292040063258,11.417322834645669,2.329994728518714/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4726,7 +4726,7 @@ présent age, become the patrimony of our descendents.&quot; Lous
 Mark the words, sir; &quot;it is our earnest wish that  
 your example may be the guide of your successors.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038518:00200293319:1861031501:0255/pct:211.86726659167604,287.6541908276226,44.488188976377955,3.16288877174486/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038518:00200293319:1861031501:0255/pct:52.96681664791901,71.91354770690565,11.122047244094489,0.790722192936215/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4751,7 +4751,7 @@ cessors; and thus,alter being the ornament and
 safeguard of the present age, become the patri­  
 mony ot your descendants
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_farmington_ver01:data:sn83016025:00279525322:1871101801:0063/pct:73.12881464824927,59.45335441608313,10.85769354320591,4.562909419471425/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_farmington_ver01:data:sn83016025:00279525322:1871101801:0063/pct:73.11707082061989,59.44664031620553,10.859964669985548,4.565217391304348/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4867,7 +4867,7 @@ and thus, after being the ornament and sateguard of
 the present age, become the patrimony of our descend­  
 ants
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hugo_ver01:data:sn83030214:00206531186:1874091401:0590/pct:149.92787305657959,76.56666280551373,47.53966981888123,67.97173636047724/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hugo_ver01:data:sn83030214:00206531186:1874091401:0590/pct:49.975957685526524,25.52222093517124,15.846556606293744,22.65724545349241/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4915,7 +4915,7 @@ thus, after being the ornament and safeguard
 of the present age, become the patrimony of  
 our descendants
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_charlie_ver01:data:sn83045160:00280779581:1880042501:0375/pct:88.54320987654322,200.72756669361357,35.45679012345679,17.78496362166532/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_charlie_ver01:data:sn83045160:00280779581:1880042501:0375/pct:22.135802469135804,50.18189167340339,8.864197530864198,4.44624090541633/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5023,7 +5023,7 @@ upe, become the patrtmony of our descendants.&quot;
 Washington&#x27;s farewell address is, or ought to  
 be, a household word. It is dated Sept, 17
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:00175042908:1896110801:0115/pct:81.03574033552152,14.016990291262136,100.36469730123997,374.6966019417476/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:00175042908:1896110801:0115/pct:20.262629947109247,3.504247572815534,25.095750501550246,93.6741504854369/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5046,7 +5046,7 @@ you in the most sincere and uniform
 disposition to preserve our neutral re­  
 lations inviolate.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_grace_ver02:data:sn83045604:00202199458:1898022301:0543/pct:17.319255022730605,222.65446224256294,37.41017744537322,16.430205949656752/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_grace_ver02:data:sn83045604:00202199458:1898022301:0543/pct:5.773085007576869,74.2181540808543,12.470059148457741,5.47673531655225/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -41,7 +41,7 @@ cannot go; beyond the Constitution the Legislature cannot
 go, so as to bind the people. The Constitution is made by  
 the people for the people, and is responsible to the peopl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191253:1847010701:0026/pct:17.044463818657366,292.4942752947163,59.54664341761116,21.4400814180307/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191253:1847010701:0026/pct:4.2620449095269235,73.12356882367908,14.889906256812731,5.360020354507675/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -133,7 +133,7 @@ this Convention in preference to Congress, for preposing the
 reform, were in fasor of Stale conventions in preference t  
 the Legislatures, for examining and adopting it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743373:1861011901:0173/pct:250.84610472541507,140.01126126126127,45.9610472541507,29.414414414414413/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743373:1861011901:0173/pct:83.61536824180503,46.67042042042042,15.3203490847169,9.804804804804805/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -187,7 +187,7 @@ tho pooplo to bo the difTeronco between a
 league and a contlitution. A law  
 violating tho Constitution would be nul
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038521:0020029337A:1868031701:0264/pct:22.469458987783597,74.72466960352423,14.077952297847586,7.23568281938326/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038521:0020029337A:1868031701:0264/pct:16.85818181818182,56.04625550660793,10.56,5.429515418502203/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -235,7 +235,7 @@ considered by the indges as null and void.&quot;
 Mr. ELISsWORTh:  
 &quot;Heartily approved of the motion. Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200293010:1870011101:0044/pct:142.64962231260895,77.15189132216888,38.11737361998838,23.8435413982902/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200293010:1870011101:0044/pct:35.66240557815224,19.28797283054222,9.529343404997094,5.96088534957255/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -266,7 +266,7 @@ the Constitution under which it held :ts
 existence.  
 If the doci r i ue had been admired
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_deforest_ver02:data:sn84026847:00415665143:1872041101:0349/pct:61.43152913339249,30.878706199460918,12.111801242236025,8.840970350404312/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_deforest_ver02:data:sn84026847:00415665143:1872041101:0349/pct:61.43152913339249,30.878706199460918,12.116730750271122,8.848158131177/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

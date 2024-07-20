@@ -43,7 +43,7 @@ ing lands to the inhabitants and settlers at Vin
 • cennes, in the Illinois country, ill the territory  
 N. W. of the Ohio ; and having adopted th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791030501:0002/pct:9.278350515463918,66.87037037037037,27.960012496094972,9.055555555555555/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791030501:0002/pct:9.30178069353327,66.88425925925925,27.96782255545142,9.060185185185185/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -66,7 +66,7 @@ and Settlers at Vincennes and the Illinois Conn-
 try, in the Territory North Weft of the Ohio,  
 and for confirming them in their Poflefllons.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791040901:0004/pct:8.033689666342728,14.464079907798693,28.53903466148364,5.993084902036112/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791040901:0004/pct:8.033689666342728,14.473684210526315,28.547133138969873,6.012293507491356/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -92,7 +92,7 @@ and Public Piers.
 BE itenafted by the Senate and House of Reprefcntatives of  
 the United States of America in Congress aflembled, That the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791041601:0004/pct:8.650742414460943,14.598401218119529,28.244028405422853,8.184240578606776/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791041601:0004/pct:8.650742414460943,14.612676056338028,28.29244673983215,8.184240578606776/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -115,7 +115,7 @@ A resolve requesting the President tocaufe an estimate to
 be made ot the lands not claimed nor granted within the cel­  
 fion of North-Carolina, and the territory north-weft of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791042001:0004/pct:38.222361809045225,14.576923076923077,27.449748743718594,5.596153846153846/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791042001:0004/pct:38.24591708542714,14.58173076923077,27.449748743718594,5.610576923076923/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -149,7 +149,7 @@ ritory north-weit of the Ohio,
 and for confirming them in  
 their Poffeflions.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791051201:0799/pct:6.263550951577933,5.7726040503906875,83.9556733317273,23.170148301706266/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791051201:0799/pct:6.263550951577933,5.777919523733589,83.98779410583795,23.175463775049167/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -184,7 +184,7 @@ I wth entitled “ An aft for granting lands to
 1 nois country, in the territory north well of the Ohio,  
 and for confirming them in their poffeflions,” be, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1807041001:0420/pct:21.78107606679035,89.79516742303447,18.014842300556587,2.1955108549000366/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1807041001:0420/pct:21.777035800408086,89.7841550159431,18.017683793977618,2.199329572398005/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -211,7 +211,7 @@ counntry, in the territory north weft of
 the Ohio, and for confirming them in  
 ‘. their pofleflions,” be and the fame ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1807091501:0567/pct:41.308761518038416,44.232109087289736,16.898328908324224,9.246541256096346/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1807091501:0567/pct:41.31917330418033,44.232109087289736,16.898328908324224,9.24985899605189/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -261,7 +261,7 @@ for granting binds to the inhabitants and settlers at Vin­
 connes, and the Illinois couutry in tho territory northwest  
 of the Ohio, and for confirming them in their possessions,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022731:1854090901:0294/pct:70.4653937947494,76.5367053038286,19.83890214797136,4.1798384264137685/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022731:1854090901:0294/pct:52.86481647269472,57.40545603559302,14.891077290361086,3.137805877531905/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -307,7 +307,7 @@ to the inhabitants &quot;and settlers at Vmcennes, aud the lii.­
 n jis country iu the territory northwest of tbe Ohio, aud for  
 confirming them in their possessions,&quot; and the several act
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022743:1855022801:0072/pct:6.140084899939358,76.79777992277992,19.496664645239537,6.274131274131274/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022743:1855022801:0072/pct:4.610251744009706,57.601351351351354,14.634516226872915,4.705598455598456/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -332,7 +332,7 @@ tyne, entitled &quot; An act for granring lands to tho inhabit-&#x27;
 the territory. northwest of the Ohio, and for confirming  
 them in their possessions,&quot; and the several acts in aid of an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022755:1856102501:0345/pct:6.822643979057592,104.03363392639532,20.43520942408377,6.190592249573482/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022755:1856102501:0345/pct:5.123588148633164,78.02827199610041,15.33802586348011,4.642944187180112/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -367,7 +367,7 @@ colored pcigons.
 An act to incorporate the Honda Sub Tropi­  
 cal Exposition
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:fu:batch_fu_frenchfries_ver01:data:sn82015289:00414180577:1887052601:0376/pct:80.09585565266423,2.1725571725571724,12.672681138990697,4.293139293139293/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:fu:batch_fu_frenchfries_ver01:data:sn82015289:00414180577:1887052601:0376/pct:80.09585565266423,2.176022176022176,12.677379945493845,4.28967428967429/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

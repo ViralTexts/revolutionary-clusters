@@ -179,7 +179,7 @@ tive principle, becomes nothing, if it may be smother­
 ed by the enormous patronage of the General Govern­  
 ment.” Bow beautifully this language contrasts wit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:0041418294A:1836091501:0363/pct:21.8321562110511,85.61151079136691,16.95056086414624,2.338129496402878/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:0041418294A:1836091501:0363/pct:21.8276220145379,85.59966800387329,16.952232606438216,2.3412643519158944/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -232,7 +232,7 @@ tiotia 1 remedy bv the elective principle becomes
 nothing. if it may be smothered by the enormous]  
 patronage of the General Government.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215634:1836100801:0412/pct:18.37424003602792,63.50071953343937,18.07025444719658,4.991289858365523/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215634:1836100801:0412/pct:18.372171563660924,63.49591033020297,18.07197268190176,4.993436332424518/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -260,7 +260,7 @@ peated that Horace Everett, was not
 elected from Vermont. The Clare,  
 mont (N. II.) Eagle states, on the au
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348951:1836101301:0348/pct:11.69905714835482,68.054211035818,14.104290937079083,9.030562854376988/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348951:1836101301:0348/pct:11.696806464024625,68.04480088495575,14.106387071950751,9.032771017699115/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -278,7 +278,7 @@ principle becomes nothing if it may be
 smothered by the enormous patronage of  
 the general government.” If the pro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348951:1836102701:0355/pct:16.029354963306297,51.27030403998334,14.21398223252221,2.4434263501318894/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348951:1836102701:0355/pct:16.026259895732768,51.26318711826763,14.216064877389458,2.4465574680732924/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -407,7 +407,7 @@ active “ interference with elections both of the state
 and general governments by officers of the latter&quot; a  
 matter of every day occurrence 7 Has one of thes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:0041418294A:1837032301:0477/pct:21.951219512195124,49.24012158054711,16.98833510074231,5.775075987841945/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:0041418294A:1837032301:0477/pct:21.946564885496183,49.233319519270616,16.990033927056828,5.777731730902058/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -458,7 +458,7 @@ ments as among the first objects.
 Accept assurances of my high consideration, tee­  
 peet, awl esteem. THO: JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:0041418294A:1837032301:0477/pct:21.993637327677625,75.24177949709865,17.264050901378578,17.22851616468638/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:0041418294A:1837032301:0477/pct:21.98897370653096,75.2313855504904,17.265691263782866,17.22958972233734/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -510,7 +510,7 @@ IT MAY BE SMOTHKREO BY THE ENOR­
 MOUS PATRONAGE OF THE FEDERAL  
 GOVERNMENT.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1839010801:0741/pct:82.38741001171941,74.9577192558589,15.888163401975557,4.252234839333172/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1839010801:0741/pct:82.3929906802835,74.9657727309334,15.882582733411462,4.252234839333172/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -528,7 +528,7 @@ Whereas, &quot;the constitutional remedy by the elec­
 tive principle becomes nothing if it may be smother­  
 ed by the enormous patronage of the General Go
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1839021401:0805/pct:82.69100743745774,47.14386459802539,15.500338066260987,2.0216267042783262/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1839021401:0805/pct:82.69100743745774,47.15170036044507,15.511606941627226,2.0216267042783262/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -547,7 +547,7 @@ by the elective principle becomes nothing
 if it may be smothered by the enormous  
 patronage of the General Government.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215658:1839021401:0060/pct:37.65664160401003,50.82678550486689,15.717866093805943,2.8849536765568193/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215658:1839021401:0060/pct:37.653271278976106,50.823805335678685,15.719442704137952,2.886738981725789/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -564,7 +564,7 @@ Whereas, &#x27; the cuii.-titutmnal remedy by the elective ;
 principle becnnira nothing if it may be smothered  
 by the enormous patronage of the General Gover
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_armani_ver02:data:sn84024735:00415664230:1839021401:0553/pct:51.067373202119605,12.090418913313977,15.897047691143074,1.6279552053090005/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_armani_ver02:data:sn84024735:00415664230:1839021401:0553/pct:51.067373202119605,12.097331674270704,15.902094372949785,1.6244988248306373/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -683,7 +683,7 @@ tive principle becomes nothing, if it may be
 smothered by the enormous patronage of the  
 General Government.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1839032001:0854/pct:33.00081766148814,41.97851493330185,15.486508585445625,16.456144492976037/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1839032001:0854/pct:33.011719814663394,41.982449927202616,15.475606432270373,16.460079486876797/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -732,7 +732,7 @@ duction into office, is in the following words :
 with dissatisfaction officers of the General Govern­  
 ment taking, on various occasions, active parts i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1839041701:0885/pct:50.36496350364963,69.27933293627159,15.786793413681888,7.290053603335319/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1839041701:0885/pct:50.36496350364963,69.28727417113362,15.79245176257568,7.294024220766329/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -756,7 +756,7 @@ ciple becomes nothing, if it may be smothered
 bv the enormous patronage of the General  
 Government.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016942:00295878204:1839050901:0851/pct:4.170403587443946,32.3331039229181,24.282511210762333,7.955953200275292/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016942:00295878204:1839050901:0851/pct:3.140421713772992,24.253269098417068,18.214445939883355,5.973847212663455/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -785,7 +785,7 @@ elective principle becomes nothing if it may be
 smothered by the enormous patrdnape ol tho  
 benernl Government;&#x27; and whereas, lso,&#x27;lre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016942:00295878204:1839050901:0851/pct:28.968609865470853,20.674466620784585,24.37219730941704,11.438403303509979/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016942:00295878204:1839050901:0851/pct:21.736204576043068,15.512732278045423,18.304172274562585,8.575361321403992/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -868,7 +868,7 @@ elective principle becomes nothing, if it
 uaj oe smothered by the enormous pat  
 ronageof the General Government.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn86074078:0029587885A:1839052501:0570/pct:3.2382650029708855,92.68585131894484,16.0427807486631,21.810551558752998/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn86074078:0029587885A:1839052501:0570/pct:2.4368499257057947,69.52038369304556,12.035661218424963,16.354916067146284/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -921,7 +921,7 @@ principles becomes nothing, if it may be
 smothered by the enormous patronage  
 of the Gefleral Government
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_kingsombra_ver01:data:sn83016884:0041566199A:1839060401:0002/pct:108.35365853658537,71.77789642285104,17.454268292682926,12.418579818473038/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_kingsombra_ver01:data:sn83016884:0041566199A:1839060401:0002/pct:81.27763378563806,53.83876134543513,13.096508614118006,9.311265349706353/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -948,7 +948,7 @@ principles becomes nothing, if it may be smoth
 el-nil hv tho enormous Datronaso of tho Gcner  
 al Government.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016942:00295878204:1839062001:0876/pct:55.32243816254417,6.599123767798466,49.734982332155475,118.03121577217962/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016942:00295878204:1839062001:0876/pct:41.506516456814666,4.95618838992333,37.30947647448642,88.52683461117196/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -968,7 +968,7 @@ tho &quot;elective principle becomes nothing, if it
 may be smothered by they nor mows patronage of the  
 general government. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016942:00295878204:1839062001:0876/pct:80.32243816254417,61.36363636363637,24.33745583038869,4.572836801752464/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016942:00295878204:1839062001:0876/pct:60.2606582725867,46.029572836801755,18.268168765186658,3.4227820372398687/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1119,7 +1119,7 @@ constitutional remedy by the eleclive franchise be
 comes nothing, if it may be smothered by the enor  
 mous patronage of the Generel Government.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348872:1840022401:0239/pct:12.219020172910662,146.57952069716777,59.88472622478386,15.991285403050108/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348872:1840022401:0239/pct:3.0541682673837878,36.63955852454255,14.968305800998847,3.997240778390938/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1194,7 +1194,7 @@ vention?
 N. B. Haswell, agent for the breakwater.  
 Who compose the State Committee which calle
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1840060101:0117/pct:198.66369710467706,227.4749721913237,57.6837416481069,36.92992213570634/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1840060101:0117/pct:49.693593314763234,56.868743047830925,14.428969359331477,9.232480533926585/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1214,7 +1214,7 @@ the elective principle becomes nothing, if it inay
 be smothered by the enormous patronage of the  
 General Government.&quot; How piously Mr. Va
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1840062201:0127/pct:256.86131386861314,107.52447552447552,55.62043795620438,11.524475524475525/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1840062201:0127/pct:64.23877327491785,26.88111888111888,13.910186199342826,2.8811188811188813/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1252,7 +1252,7 @@ several heads of Departmen ts, imgediately after his
 induction into office, is in the following words.  
  &quot;The President of the United States has seen wit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186427:1840062701:0280/pct:51.28504672897196,125.25542784163474,39.10955347871236,21.338867603235418/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186427:1840062701:0280/pct:17.09279688513952,41.74736618069597,13.034825870646767,7.112198928736121/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1287,7 +1287,7 @@ constitutional remedy by the elective principle
 becomes nothing, if it may be smother :d try the  
 enormous patronage of the General Govern
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016475:00296026402:1840072001:0337/pct:65.69045771916214,87.39889314601959,14.235841737781225,4.682843763303533/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016475:00296026402:1840072001:0337/pct:65.69692267907939,87.39889314601959,14.235841737781225,4.69230405373445/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1310,7 +1310,7 @@ remedy, by the elective principle, becomes
 nothing, if it may he smothered hy the enor- i  
 mous patronage of the Federal Government.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215671:1840080801:0726/pct:52.36725663716814,27.24682325760493,15.011061946902656,5.560261840585291/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215671:1840080801:0726/pct:52.36146443977436,27.24472508855691,15.013088522656048,5.562400533908312/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1348,7 +1348,7 @@ hat, fellow citizens, is the practise at this
 day? Why, your modest assumers of all the de­  
 mocracy in creation absolutely insist, that the fed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1840083101:0168/pct:80.05930318754633,168.8600817246724,57.15344699777613,51.68381006058898/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1840083101:0168/pct:20.018535681186282,42.2150204311681,14.291010194624652,12.920952515147246/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1399,7 +1399,7 @@ terferences with elections, whether of the State or
 &#x27;comes nothing, if it may be smothered by the  
 j &#x27;enormous patronage of the General Govcrn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_larrybird_ver01:data:sn86058217:00271744742:1840101001:0192/pct:103.78343118069145,104.88141202426917,21.771037181996086,5.501930501930502/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_larrybird_ver01:data:sn86058217:00271744742:1840101001:0192/pct:77.87567302985805,78.66795366795367,16.348507097405776,4.12300055157198/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1426,7 +1426,7 @@ remedy by the elective principle becomes
 nothing, ll it niav be smothered by the enor­  
 mous patronage of the General Government.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183682:1840101501:0335/pct:47.80722891566265,57.55964890592162,14.29718875502008,7.083693905303498/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183682:1840101501:0335/pct:47.7995502730485,57.552533992583434,14.300246279044865,7.086938607334157/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1461,7 +1461,7 @@ in the Senate of the U. States were the first to
 declare any dissent fromthese wholesome truths;  
 according to their doctrine, it is the right and 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016475:00296026402:1840102101:0512/pct:2.013036809815951,89.91963908078387,15.260736196319018,5.145918511208233/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016475:00296026402:1840102101:0512/pct:2.0258179959100207,89.91963908078387,15.273517382413088,5.150617980168241/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1514,7 +1514,7 @@ live principle lecoines nothing, if it may be
 smut tiered hy the enormous patronage of ttie  
 General Government.&#x27;’—Jefferson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215683:1840102601:0225/pct:17.231670233134363,3.5429720739537403,14.9679017907422,4.65691962558985/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215683:1840102601:0225/pct:17.22972972972973,3.54269801980198,14.96996996996997,4.659137788778878/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1557,7 +1557,7 @@ elective principle becomes nuthing, if
 it may be smothered by the enormous  
 patronage of the General Govern
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156347:1840110501:0898/pct:162.29379418695993,201.7904160084255,57.03063629222309,22.274881516587676/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156347:1840110501:0898/pct:40.58939096267191,50.447604002106374,14.263261296660119,5.568720379146919/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1604,7 +1604,7 @@ lective principle become s nothing, if it may
 be smothered by the enormous patron?™ of  
 the general government.’*—Jefferson,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183682:1840111901:0348/pct:82.65483922065579,91.8415792103948,14.858229051164264,5.697151424287856/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183682:1840111901:0348/pct:82.64174849540703,91.83010618363522,14.861155105057543,5.700603789298355/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1626,7 +1626,7 @@ if it may be smothared by the ensomous patronage
 af the general government.&quot;  
 The Sonth Carolina papars give the particular
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296187:1840112401:0701/pct:320.95761381475666,229.12026726057906,69.4662480376766,22.160356347438753/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296187:1840112401:0701/pct:80.25515210991168,57.280066815144764,17.369970559371932,5.540089086859688/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1657,7 +1657,7 @@ tive principle becomes nothing, if it may be
 smoothered by the enormous patronage of the  
 General Government.&#x27;Page 150, Jefferson’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215683:1841022001:0623/pct:16.48542341508561,63.88304093567251,15.131883387320684,3.423001949317739/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215683:1841022001:0623/pct:16.483516483516482,63.87806019023858,15.133988818199345,3.4253339570663757/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1724,7 +1724,7 @@ nolhing, if it may be smothered by the enormous
   
 patronage of the General Government.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186427:1841050401:0712/pct:64.76831478125808,184.9808847624249,37.09552161532488,32.94374658656472/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186427:1841050401:0712/pct:21.586644234502394,61.65356050677151,12.363573616323713,10.980049512159605/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1780,7 +1780,7 @@ tional remedy by the elective principle becomes
 nothing, if it may be smomered by the enormous  
 patronage of the General Government.&quot;Jeferson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186427:1841050601:0716/pct:61.77528988404638,17.35050196420777,38.198054111688656,28.033609777389785/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186427:1841050601:0716/pct:20.58901918976546,5.782869612656847,12.730987917555082,9.34351700309147/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1918,7 +1918,7 @@ may be smothered by the enormous patron­
 age of the general government.  
 .. Thomas Jefferson.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn87090028:00295877959:1842102801:0117/pct:96.18366129994037,46.98412698412698,21.48181276088253,12.09750566893424/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn87090028:00295877959:1842102801:0117/pct:72.15926036385326,35.23809523809524,16.11989263346257,9.081632653061224/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1940,7 +1940,7 @@ becomes nothing, if it may be smothered by th
 enormous patronage of the General Government.  
 This was written more than 40years ago—a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215737:1843112701:0428/pct:54.49136837998635,45.09987307101343,14.112942553399005,4.048366624357005/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215737:1843112701:0428/pct:54.48605422274235,45.09686038744155,14.114816981990767,4.050322867958139/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1978,7 +1978,7 @@ tive principle becomes nothing if it may be
 smothered by the enormous patronage of  
 the General Government.&quot; Not only ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_flareon_ver02:data:sn82014073:00279529194:1848082401:0206/pct:60.771951407042906,88.48743267504489,43.48762109795479,8.381956912028725/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_flareon_ver02:data:sn82014073:00279529194:1848082401:0206/pct:20.257317135680967,29.49581089168163,14.495873699318263,2.7939856373429084/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2015,7 +2015,7 @@ the constitutional remedy becomes nothin&quot;, if it
 max be smothered by the enormous patronage  
 of the General Government.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215816:1848091401:0164/pct:18.143297380585516,65.28689096747173,13.222265023112481,5.821583135557727/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215816:1848091401:0164/pct:18.141550312951374,65.28233405458225,13.224201572781254,5.823503408482818/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2043,7 +2043,7 @@ nothing if it may be smothered by the
 enormous pntronage of the General Gov­  
 ment. But how is H u ith Mr. Polk ?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82014751:00513688210:1848101801:0412/pct:4.776622646810902,68.27666151468316,14.44225906153414,2.6468315301391034/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82014751:00513688210:1848101801:0412/pct:4.776622646810902,68.27666151468316,14.470356841809497,2.6468315301391034/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2075,7 +2075,7 @@ fkinciim.i. becomes nothing if it may be smoth­
 er ki&gt; bu the enormous put ravage of the General  
 Government better to Gov. M&lt;Kean. Feb
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215816:1848102601:0300/pct:31.97375926982316,16.51447035684181,12.65449705267161,3.5965158752458555/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215816:1848102601:0300/pct:31.97071965015686,16.51331038842453,12.656462908387997,3.5986045749338578/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2095,7 +2095,7 @@ terferences witli elections, whether of the State
 or General Governments, by officers of the lat­  
 ter. .-hon&#x27;d he deemed causeo! removal. Suc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215816:1848102601:0300/pct:58.005324206122836,41.00871031188536,12.673512074538886,2.697386906434392/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215816:1848102601:0300/pct:57.99980986785816,41.00582987989043,12.675476122571855,2.699538760506661/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2115,7 +2115,7 @@ HKCAesE THE CONSTITUTION IL REMEDY HT THE ELECTIVE
 raixciPLE bee-/rites nothing if it may be smotiiehku by the  
 enormous patronage of the General Government.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848102801:0377/pct:1.4054209092212822,17.627844109033568,15.832496773268321,3.7508447848614552/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848102801:0377/pct:1.4149815956785696,17.635353307802056,15.842057459725607,3.7508447848614552/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2135,7 +2135,7 @@ adopted as one rule by which he 44 acted on&quot; and
 4 Governments, by officers of the latter, should be  
 &#x27;4 deemed cause ok removal.&quot; Such interference
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848102801:0377/pct:48.745159902481,13.719306150033791,15.646063387351212,4.167605316512728/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848102801:0377/pct:48.745159902481,13.726815348802283,15.646063387351212,4.167605316512728/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2206,7 +2206,7 @@ sued by his order, the following circular:
   
 &quot;The President of the Inited Siates has
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn89080032:00415668132:1848112101:0493/pct:95.39439543331603,70.7154213036566,38.103269330565645,18.696343402225754/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn89080032:00415668132:1848112101:0493/pct:31.80638463534908,23.571807101218866,12.704386192577212,6.232114467408585/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2304,7 +2304,7 @@ patronage of the General Government.
 Soon after his election, he caused his hoads of  
 departments to issue a circular, of which the fol
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855061801:0742/pct:35.015060240963855,12.902411311703068,15.512048192771084,7.486428481252367/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855061801:0742/pct:35.015060240963855,12.910827757438033,15.53714859437751,7.486428481252367/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2359,7 +2359,7 @@ principle becemes nothing if it may be smothered
 by the enormous patronnge of the general Govern  
 ment.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393347983:1856041601:0851/pct:23.65097588978186,165.88666478714407,60.17986988136242,28.319706794474204/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393347983:1856041601:0851/pct:5.911612779797207,41.46582100070472,15.042089152477521,7.07892882311487/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2386,7 +2386,7 @@ ral Government.
 This was the language of Mr. Jefferson before  
 his elevation to the Presidency. In order to sh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn86053516:00212470065:1856042301:0395/pct:178.8034188034188,243.75191580668232,49.173789173789174,21.416164299581077/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn86053516:00212470065:1856042301:0395/pct:44.70722325117538,60.93797895167058,12.295198746260152,5.354041074895269/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2407,7 +2407,7 @@ constiutional remedy by the elective principle be­
 comes nothing, if it may be smothered by the enor­  
 mous patronage of the General Government.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393347983:1856070901:1131/pct:85.71428571428571,102.88298473713962,57.84761904761905,13.185415488976822/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393347983:1856070901:1131/pct:21.424490573224148,25.717111770524234,14.45915063797372,3.2958880881729544/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2432,7 +2432,7 @@ ciple becomes nothing, if it may be smoth­
 ered by the enormous patronage of the Gen­  
 eral Government.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn85033711:00212470259:1859011101:0038/pct:13.157894736842104,208.35890381970162,44.3609022556391,22.558459422283356/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn85033711:00212470259:1859011101:0038/pct:3.2903572387859255,52.089725954925406,11.093204405049692,5.639614855570839/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2527,7 +2527,7 @@ ciples becomes not hint if it may be smothered
 Toy the enormous patronage of the general gov­  
 ernment.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn84027186:00279528918:1877072001:0331/pct:6.782974883441119,75.1195652173913,10.964054745074447,2.4347826086956523/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn84027186:00279528918:1877072001:0331/pct:6.7930014538527095,75.1195652173913,10.969068030280242,2.4456521739130435/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

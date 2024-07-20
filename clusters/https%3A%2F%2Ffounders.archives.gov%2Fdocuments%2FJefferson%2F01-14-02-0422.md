@@ -88,7 +88,7 @@ of character, are peculiarly necellary, to get the
 government so under way, as that it may after­  
 wards be carried on by subordinate characters
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789060301:0002/pct:17.793904208998548,41.514860977948224,26.008708272859216,45.63758389261745/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789060301:0002/pct:17.793904208998548,41.514860977948224,26.02322206095791,45.63758389261745/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -196,7 +196,7 @@ paign ; but the people arc heartily tired of the
 war, and anxioully waiting for peace, which by  
 recent accounts from
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789060301:0003/pct:4.324956165984804,19.35359753751443,26.329631794272355,73.16275490573297/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789060301:0003/pct:4.3468731735827,19.358407079646017,26.336937463471653,73.16756444786456/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -285,7 +285,7 @@ Thom them—that they are entirely capable of sell-gov­
 •rument—that whenever our affairs go obviously wrong  
 the good sense of the people will interpose and sot the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024718:00414183736:1850041001:0061/pct:4.037747524752476,49.4540109197816,14.619430693069306,1.7744645107097858/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024718:00414183736:1850041001:0061/pct:4.037122969837587,49.44881889763779,14.622325341582883,1.7777777777777777/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -309,7 +309,7 @@ many particulars, is defective. 1 am one who
 believes that many important rights are not suf­  
 ficiently secured. I am therefore, uuquivocall
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024652:00393348677:1850041501:0234/pct:1.599514071674428,25.035929864903707,14.537355740028346,4.929577464788732/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024652:00393348677:1850041501:0234/pct:1.5991902834008098,25.032332231642478,14.539473684210526,4.932461560569047/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -505,7 +505,7 @@ wish it to remain uncorrected so long ns
 we can avail ourselves of the services  
 of our great leader.” That is to say. h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn85044812:00340583218:1895121101:0555/pct:5.668885548636461,75.93114705445912,14.30105217951471,7.864668348419647/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn85044812:00340583218:1895121101:0555/pct:5.6676685272649205,75.91988130563799,14.303349076857021,7.867210682492582/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

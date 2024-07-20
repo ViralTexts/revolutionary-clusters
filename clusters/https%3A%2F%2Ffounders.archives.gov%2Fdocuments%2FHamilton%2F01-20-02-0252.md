@@ -110,7 +110,7 @@ with Fiance, arc bound to admit the fitting out
 ef French privateers, to the exclusion ojail others,  
 when Franve 19at war, and the Untied State* at
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793082101:0002/pct:7.699530516431925,7.163714230095386,20.125195618153363,27.428460190772824/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793082101:0002/pct:7.723004694835681,7.173447537473233,20.14866979655712,27.428460190772824/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -136,7 +136,7 @@ their departure, and to cause them to retire as
 soon as poflible. Nothing in this Treaty con­  
 tained shall however be conflrued
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795071401:0471/pct:7.321482374209099,19.564781387886082,19.810183790298282,7.952266345768151/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795071401:0471/pct:7.331525559907603,19.56812408075946,19.810183790298282,7.958951731514908/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -159,7 +159,7 @@ the fubjefls, people or property of France.
 vateers shall come in, being forced by stress  
 of weather or the danger of the seas, al
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798071001:0531/pct:25.23595853318892,26.202581149784905,16.40105214296766,5.201407899882675/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798071001:0531/pct:25.241116096755892,26.205840177291098,16.40105214296766,5.201407899882675/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -234,7 +234,7 @@ them to retire as soon as possible. No­
 thing in this treaty contained shall how­  
 ever be construcd to operate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215981:1801010101:0080/pct:30.241356816699284,7.21227621483376,45.8969341161122,87.25319693094629/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215981:1801010101:0080/pct:30.23741194886512,7.211538461538462,45.895295243064616,87.24768139661757/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -274,7 +274,7 @@ particular care shall be taken to hasten
 t.ieir departure, and to cause them to re­  
 tire as soon as possible : Nothing in thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808040801:0123/pct:40.22773940638417,30.831031885513433,17.56580175471346,4.745166959578207/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808040801:0123/pct:40.22023142963793,30.827162043429144,17.568744556426527,4.7487552822057655/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -294,7 +294,7 @@ but if fold&#x27;d by stress of weather or lire dangers 1
 taken to hasten their departure, and to cause them i  
 lo retire as soon as possible : Nothing in dibitrca- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808041201:0443/pct:22.92232482346551,29.623266658485704,17.74397972116603,3.7427905264449626/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808041201:0443/pct:22.91817523533671,29.619631901840492,17.746801834419504,3.7464212678936604/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -345,7 +345,7 @@ I shew. j !
 No shelter or refuge shall be given &#x27;  
 in their ports
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808051801:0001/pct:60.07744039127777,43.03651505445227,18.44304055431017,7.354260089686099/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808051801:0001/pct:60.07744039127777,43.03651505445227,18.45662658786767,7.362801622891309/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -422,7 +422,7 @@ Second, the United States stipulated—
 To open their ports to French ships of war and *  
 privateers with their prizes, and to close them 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623896:1888081801:0158/pct:61.19705340699816,92.03081232492997,11.197053406998158,1.8067226890756303/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623896:1888081801:0158/pct:61.19705340699816,92.04014939309057,11.221608348680173,1.8067226890756303/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

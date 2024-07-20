@@ -106,7 +106,7 @@ it mav butter enable those who may endeavor
 to civilize and instruct them, to adapt mea­  
 sures to the existing notions and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814032601:0063/pct:74.86300159094927,39.415546464056106,16.77567615343822,15.043834015195792/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814032601:0063/pct:74.8497702368328,39.410939691444604,16.778602568634383,15.045971637836995/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -345,7 +345,7 @@ taken: and are to be ren I ere ! to the Wai 1 &#x27;thee,
 for the pm pose of having the calculations made  
 concurrently bv proper persons w.thin the I ni
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215804:1848062101:0572/pct:56.908934214306235,62.57417349533767,12.553863832232118,5.4464538005086185/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215804:1848062101:0572/pct:56.90348525469169,62.56975347884439,12.555853440571939,5.448423630241812/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -368,7 +368,7 @@ plai t- put forth or lose their flower 01 leaf.
 ! or insects. . . ,  
 Now. what ha 1 tin- &lt; iovernment to do w it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215804:1848062101:0572/pct:69.67346547926842,16.89742865216163,12.889016566120846,4.068946029951964/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215804:1848062101:0572/pct:69.66679433167369,16.89623507805326,12.890974084003574,4.071013161922253/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

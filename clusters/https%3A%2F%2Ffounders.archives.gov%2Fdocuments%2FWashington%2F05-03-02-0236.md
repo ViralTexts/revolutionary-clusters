@@ -278,7 +278,7 @@ will never again occur, unless, unfortunately, we
 /hould again be involved in a long and arduous war.  
 CEO. WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789081201:0002/pct:45.80108913728862,31.316590563165907,25.45141874462597,40.20167427701674/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789081201:0002/pct:45.80108913728862,31.326103500761036,25.458584121524794,40.20167427701674/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -685,7 +685,7 @@ dence by an amicable treaty with the Indian tribes
 in that quarter, I think proper to fuggell, &amp;c. &#x27;  
 Here, Mr. Lyman said, he witiled it to be noticed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1796042101:0002/pct:8.022774327122153,5.653827078856009,41.77018633540373,91.35394280046289/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1796042101:0002/pct:8.042184265010352,5.662092907918664,41.75077639751553,91.35807571499421/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -720,7 +720,7 @@ In coufequence of this meflage, Congress took
 into consideration the expediency of the measure  
 recommended to them, and palled the aft of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1796050901:0002/pct:7.236154649947753,30.427549492596906,21.08150470219436,14.390284478456163/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1796050901:0002/pct:7.2492163009404385,30.435867576110464,21.074973876698014,14.402761603726502/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -812,7 +812,7 @@ annece ssary to offer arguments in recommendation of a
 measure on which the honor, safety, and well deing on our  
 country so evidently and so essentially depeid. 70,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:0020653350A:1878012101:0682/pct:289.4019682059046,309.2471843509188,50.26495079485238,6.579727326615293/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:0020653350A:1878012101:0682/pct:72.37788716395305,77.3117960877297,12.570995834911018,1.6449318316538233/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

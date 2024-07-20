@@ -45,7 +45,7 @@ Rttoltti, That our representatives in Congress
 be requested, and our Senators be instructed to  
 oppose the repeat of that provision of the Dis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157303:1842042801:0056/pct:31.616090331686664,44.936708860759495,12.332392378263938,1.834151382071816/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157303:1842042801:0056/pct:31.61051331804551,44.93090533384993,12.334626918327748,1.8371432261397391/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -113,7 +113,7 @@ Speaker of the House Representutives.
   
 LESTER TAYLOR
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774947:1856100201:0427/pct:88.88888888888889,90.52171537831194,54.57516339869281,26.16771373941546/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774947:1856100201:0427/pct:22.23584712855099,22.630428844577985,13.652156141426527,6.541928434853865/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -147,7 +147,7 @@ and that the Governor is hereby requested to trans­
 mit a copy of this resolution to our Representatives  
 and Senators in Cengress
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293289:1859102101:0388/pct:116.33879781420765,26.01993628609598,43.442622950819676,14.592539307368204/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293289:1859102101:0388/pct:29.092648264553155,6.504984071523995,10.863623940967477,3.648134826842051/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -169,7 +169,7 @@ of Ohio, That our Representatives in Congress be
 requested and our Senators be instructed, to use  
 their best exertions to procure the repeal of sai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1860022301:0034/pct:258.6235489220564,172.11112602335257,55.38971807628524,13.957858005636828/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1860022301:0034/pct:64.69612113669363,43.02778150583814,13.856046463389339,3.489464501409207/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -197,7 +197,7 @@ ed to be prisoners of war, to be held and treated as
 snch during the continuance of the existing con­  
 test.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1862011801:0001/pct:11.69634489222118,26.168765378491823,10.028116213683225,4.139528151686206/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1862011801:0001/pct:11.710402999062794,26.172383847155885,10.028116213683225,4.139528151686206/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -253,7 +253,7 @@ vate soldiers, musicians and non-commissioned
 officers in the army of tbe United States at the rate  
 or Cfiy per cent, of their present pay
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_edgewater_ver02:data:sn84031490:no_reel:1863011501:0003/pct:23.414820473644003,29.880817253121453,10.026737967914439,2.412031782065834/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_edgewater_ver02:data:sn84031490:no_reel:1863011501:0003/pct:23.414820473644003,29.880817253121453,10.041061879297173,2.429767309875142/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -281,7 +281,7 @@ Mr. Pilkington, from the Committee on Registra­
 tion, matle unfavorable reports on the petitions of  
 Samuel Whitei&#x27;ord and one hundred and nl&#x27;ty others
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009569:00296026177:1866012601:0090/pct:50.112528132033006,79.39984667615815,10.982745686421605,4.150695433139854/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009569:00296026177:1866012601:0090/pct:50.112528132033006,79.40349724382142,10.987746936734183,4.157996568466396/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -314,7 +314,7 @@ Representatives in Congress, and to
 each of the Governors of the respee­  
 tive States, to be laid before the Leg
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn87075001:00237286935:1869031901:0563/pct:223.37254901960785,97.40902474526929,48.549019607843135,50.24745269286754/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn87075001:00237286935:1869031901:0563/pct:55.85408903706609,24.352256186317323,12.139635222592664,12.561863173216885/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -336,7 +336,7 @@ provement of the Mississippi River, so&#x27;to ex­
 pend the same as to protect the navigation of said  
 river at tho points endangered, and at the sam
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pulaski_ver01:data:sn84031492:no_reel:1879031001:0008/pct:44.57384859714134,65.89317863572714,13.075701429327687,2.9405881176235247/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pulaski_ver01:data:sn84031492:no_reel:1879031001:0008/pct:44.58046585494971,65.89317863572714,13.069084171519322,2.9555911182236447/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -372,7 +372,7 @@ States which have paid these taxes the full amounts
 paid.  
 The resolution was laid on the table
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210089:1885022501:0476/pct:44.89333333333333,116.2355636155388,18.72,6.223155483439916/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210089:1885022501:0476/pct:34.792642601267566,90.08284840714074,14.515017911270322,4.832823749876714/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

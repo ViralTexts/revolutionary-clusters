@@ -35,7 +35,7 @@ rate Chart for each county, and a general
 Map of the territory of this Common­  
 wealth,” was read a 3d time and rejecte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183906:1816022201:0229/pct:49.03010033444816,46.24117053481332,14.933110367892976,2.2704339051463167/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183906:1816022201:0229/pct:49.02190269185755,46.23533863034431,14.936186813799253,2.2743515365535796/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -69,7 +69,7 @@ That in the surveys of such chains of mountains the
 intervallations or gaps thervol hi noted, mill the • I­  
 evalion
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183906:1816030601:0246/pct:20.453020134228186,55.872420262664164,14.949664429530202,9.568480300187618/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183906:1816030601:0246/pct:20.449588995135045,55.86543271635818,14.952748420287424,9.571452392863097/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -125,7 +125,7 @@ t pony to ihu Caro ine line; Barnaul, y to Nort .
 Wall* ; Nertlianna to the O ring ■ line ; Piat.ka­  
 tan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1816051801:0017/pct:33.7123745819398,38.064845545059995,15.117056856187292,20.666326270104673/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1816051801:0017/pct:33.70673800367832,38.05998723675814,15.120102546954245,20.66794299085301/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -208,7 +208,7 @@ tive surveys as may be uteesiary to complete the
 I am. Gentlemen, with great ie»peet,your hum­  
 Me servants
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1816052101:0965/pct:8.083832335329342,14.52991452991453,21.357285429141715,45.9603289791969/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1816052101:0965/pct:8.081815914193065,14.527571751048049,21.358194063357445,45.95694937117059/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -234,7 +234,7 @@ cau«- such surveys to he made of llie gi. at rfivi.ioas of die
 territory of ihe cornmonivenltli, where thi same are occa­  
 sion-si by chains of mountains or risers.&quot; By die v.me act
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1816052501:0023/pct:50.21132713440406,73.37687283903189,14.911242603550296,5.2631578947368425/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1816052501:0023/pct:50.20283975659229,73.3674775928297,14.914356547216588,5.266752027315408/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -260,7 +260,7 @@ cause such surveys to be made of the great divisions of the
 territory of th • commonwealth, where tin* sjine are occa­  
 sioned by chains of mountains or rivers.” By tlie same act
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1816060101:0031/pct:16.975724881995955,20.470438652256835,14.969656102494943,5.060394151303242/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1816060101:0031/pct:16.972863644024944,20.46783625730994,14.972751278161695,5.063988473599458/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -284,7 +284,7 @@ cause such surveys to be made, of the great divisions of the
 territory of th • comimmvw tilth, where the same are oceu­  
 sioned hy eluting of mountains or rivers.” Ily the s:ti:.c act
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1816060501:0035/pct:1.5632795609512722,42.687292252620814,14.851155829037086,4.078240859115316/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1816060501:0035/pct:1.5630196208846026,42.68183561293621,14.854229021172818,4.0819804848949675/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -412,7 +412,7 @@ ble servant
 of each county, and a general .Vapofihe  
 tenitOiy of thi* commonwealth.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216213:1816062701:0309/pct:56.01168511685117,48.22127025516856,17.804428044280442,1.927733283665487/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216213:1816062701:0309/pct:56.00307455803228,48.216779960890214,17.806815270304895,1.9306577272868362/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -429,7 +429,7 @@ a An Act to provide an accurate Chan
 of each county, and a general Map of the  
 territory of tins commonwealth.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216213:1816062801:0312/pct:28.1371668164121,39.802360691737576,17.47529200359389,1.9306432427486504/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216213:1816062801:0312/pct:28.132954035035183,39.79871912168344,17.47766631731297,1.9335163159499849/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -446,7 +446,7 @@ An Act t(» provide an accurate Chart
 if each county, and a general Map of the  
 territory of this commonwealth.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216213:1816062901:0318/pct:44.434165895775514,38.510007412898446,17.97718162195498,2.029280948851001/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216213:1816062901:0318/pct:44.427316170803145,38.50643935884369,17.979548841272287,2.032181352110936/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -476,7 +476,7 @@ of Assembly passed at the iast Session, entitled, “ an
 Act to provide an accurate CHART of each Coun­  
 ty, and a General MAF of the Commonwealth,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1816062901:0066/pct:52.188495723629046,56.032306915699145,15.042763709542177,7.786471479050984/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1816062901:0066/pct:52.179745137491615,56.02523659305994,15.045830538788286,7.7896950578338595/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -493,7 +493,7 @@ ty, and a General MAF of the Commonwealth,
 of each county, and a general Map of the  
 territory of tins commonwealth.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216213:1816070801:0340/pct:9.150426309378807,84.34703196347031,17.70706455542022,1.9634703196347032/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216213:1816070801:0340/pct:9.149033338407673,84.33932974157611,17.709443345004313,1.9663348857029799/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -511,7 +511,7 @@ territory of tins commonwealth.
 and a general Map of the territory of this  
 commonwealth 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184133:1816070801:0026/pct:24.458204334365327,48.66289534584726,17.685758513931887,2.224222165080998/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184133:1816070801:0026/pct:24.45347262526601,48.65663967090886,17.6887857096795,2.2282212795132192/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -528,7 +528,7 @@ commonwealth
 of each county, and a general Map ol the  
 territory of tliis commonwealth.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216213:1816071601:0368/pct:26.73600489446314,31.829896907216494,17.8036096665647,2.034241531664212/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216213:1816071601:0368/pct:26.731916195136872,31.826967326277035,17.805984605189376,2.037122258015033/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -545,7 +545,7 @@ territory of tliis commonwealth.
 of each county, and a general Map of the  
 territory of this commonwealth.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216213:1816071701:0374/pct:80.72634116937914,32.53610108303249,16.681735985533454,1.9494584837545126/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216213:1816071701:0374/pct:80.71417809251167,32.53316487681617,16.68424488975943,1.9522907078181873/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -563,7 +563,7 @@ prov dc an accurate Chart of each county,
 and a general Map of the territory of this  
 commonwealth 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184133:1816071901:0038/pct:42.169848071679006,65.74014221073044,17.45227892481496,2.2365869424692955/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184133:1816071901:0038/pct:42.16163583252191,65.7316442605998,17.45537163258682,2.24060668734919/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -580,7 +580,7 @@ commonwealth
 of each county, and a general Map of the  
 territory of this commonwealth.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216213:1816072001:0386/pct:45.630921943149346,86.76657584014532,17.325913671228758,1.9346049046321525/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216213:1816072001:0386/pct:45.62406015037594,86.75869584960493,17.328320802005013,1.9374564829110283/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -597,7 +597,7 @@ territory of this commonwealth.
 county, and a General Map of the Territory of  
 Uiis Commonwealth.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1816072001:0087/pct:17.959909473003556,19.675661978968705,14.856126737795021,1.3809704801723046/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1816072001:0087/pct:17.957006626798126,19.67316949581961,14.859113194332203,1.3850181572502323/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -614,7 +614,7 @@ Uiis Commonwealth.
 of each county, ami a general Map of the  
 territory of this commonwealth.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216213:1816072201:0390/pct:63.186472230840835,62.22304283604136,17.856034750232702,1.9756277695716395/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216213:1816072201:0390/pct:63.176671319993794,62.21729899381519,17.858435448011996,1.9785224160743407/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -633,7 +633,7 @@ provide an accura e Chart of each county,
 and a general Map of the territory of this  
 commonwealth 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184133:1816072201:0042/pct:41.87718616401088,65.5181313717899,17.41158181111543,2.2067363530778166/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184133:1816072201:0042/pct:41.86904993199922,65.50967741935484,17.414675215335794,2.210752688172043/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -650,7 +650,7 @@ commonwealth
 of each county, and a general Map of the  
 territory of this commonwealth.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216213:1816072301:0394/pct:26.636363636363637,63.36246131440014,17.818181818181817,2.0662661569269978/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216213:1816072301:0394/pct:26.632328435085594,63.356694275052334,17.820532242589508,2.0691119808258245/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -667,7 +667,7 @@ territory of this commonwealth.
 county, and a General Map of the Territory of  
 this Common wealth. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1816072401:0091/pct:18.118466898954704,60.63394683026585,14.899618383938941,1.3675869120654396/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1816072401:0091/pct:18.11546118115461,60.626198083067095,14.902676399026763,1.3716719914802982/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -684,7 +684,7 @@ An Act to provide an accurate Chart,
 if each county, and a general Map of the  
 territory of this commonwealth.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216213:1816073001:0418/pct:62.75198533903482,25.049362771495243,18.112400733048258,1.9834859091725003/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216213:1816073001:0418/pct:62.74240342036952,25.047114780579737,18.114724894385912,1.9862993209488766/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -701,7 +701,7 @@ territory of this commonwealth.
 county, and a General Map of the Territory of  
 this Common wealth.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1816073101:0099/pct:18.156239655743132,33.98132753549047,14.879179079774909,1.3812507993349534/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1816073101:0099/pct:18.153235148105246,33.9769820971867,14.882232886535386,1.3853367433930093/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -718,7 +718,7 @@ of the last Assembly, entitled &quot; An act to provide
 an accurate Chart of each County ami a General  
 Map of the Territory of this Contmmw&#x27;-nlth. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1816080701:0107/pct:1.7395710184090525,58.69620901639344,14.946799527106908,1.4984631147540983/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1816080701:0107/pct:1.739277271192165,58.688692534255345,14.949904311606439,1.5025398044990823/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -735,7 +735,7 @@ M An act to provide an accurate Chart of each
 county&#x27;, and :&gt; (ienor&#x27;d ,\I.»p of the Territory of  
 this Commonwealth. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1816082401:0127/pct:19.321977287909153,90.2940043651303,14.86305945223781,1.3994094235460264/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1816082401:0127/pct:19.318751043579898,90.28241335044929,14.866143485278567,1.4035087719298245/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -752,7 +752,7 @@ of tire General Assembly, entitled “ Alt act, to provide an
 accurate CHART of each County, Ik a general Map of the  
 Territory of this vununonwealtli,” except that part thereo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1816082801:0131/pct:33.41094295692666,33.29053793811786,15.034092798935639,1.2581846193349595/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1816082801:0131/pct:33.40538742933156,33.28626444159178,15.037135572552932,1.2623020967051777/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -769,7 +769,7 @@ Territory of this vununonwealtli,” except that part thereo
 county, and a General Map of the Territory of  
 this Commonwealth.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1816082801:0134/pct:83.28358208955224,59.28346951602766,14.82587064676617,1.3576367064739159/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1816082801:0134/pct:83.26977284032499,59.276018099547514,14.82893936881667,1.3616557734204793/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -786,7 +786,7 @@ of the last Ass mbly, entitle l‘« An act to provide
 an Accurate Chart of each Oonr.tv a d a Gen&#x27;-&gt;-:il  
 Map of the Territory of this Commonwealth.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1816083101:0135/pct:47.3475458601884,57.90216972653742,14.989257973888613,1.5919887020156631/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1816083101:0135/pct:47.33972240581626,57.89473684210526,14.99228905045164,1.5960633290543431/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -803,7 +803,7 @@ of the last Assembly, entitled “ An act to provide
 an accurate Chart of each County and a Ceneral  
 Alap of the Territory of this Commonwealth.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1816091801:0155/pct:16.154982761451322,71.86785260482846,14.595304547693319,1.5120711562897078/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1816091801:0155/pct:16.152330925804332,71.85872189048405,14.598380389581965,1.5161140049972472/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -820,7 +820,7 @@ Alap of the Territory of this Commonwealth.”
 county, and a general map of the Territory ol&#x27;tbis  
 Commonwealth,” will receive proposals ui.ril tb
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1816101201:0183/pct:17.273482959268495,41.996689163377056,15.012468827930174,1.5153444543486565/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1816101201:0183/pct:17.27061170212766,41.99134199134199,15.015514184397164,1.5193956370426958/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -837,7 +837,7 @@ Commonwealth,” will receive proposals ui.ril tb
 county, am! a general map of the Territory of this  
 Cnmoicnwealth ” will receive proposals u,til th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1816101601:0190/pct:82.93289146644574,71.24495967741936,14.647887323943662,1.6129032258064515/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1816101601:0190/pct:82.91915175612989,71.23598336903112,14.650982990943229,1.6168997522153628/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -854,7 +854,7 @@ Cnmoicnwealth ” will receive proposals u,til th
 county, and a general map of the Territory of this  
 Commonwealth,” will receive proposals until th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1816101901:0191/pct:18.327491236855284,84.45661867753854,14.955766983809047,1.5161167027646834/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1816101901:0191/pct:18.324432576769027,84.44585987261146,14.958834000890075,1.5201698513800426/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -871,7 +871,7 @@ Commonwealth,” will receive proposals until th
 county, and a general map of the Territory oftbh  
 Commonwealth,” will receive proposda iiitilth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1816102301:0195/pct:16.390423572744016,87.2438524590164,14.732965009208103,1.5496926229508197/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1816102301:0195/pct:16.38767994643455,87.23268024074785,14.736078562660417,1.5537627523797328/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -888,7 +888,7 @@ Commonwealth,” will receive proposda iiitilth
 county, and a general map of the Territory of this  
 Common wealth,” will receive proposals uxtil th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1816103001:0206/pct:51.74987560126058,42.44540375825292,14.894675733952562,1.5236160487557135/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1816103001:0206/pct:51.74129353233831,42.44001523422623,14.897733554449973,1.5276543523337989/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -920,7 +920,7 @@ templated. Many of the Courts have not
 yet forwarded contracts. The time allow­  
 ed by the law to make 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1816111201:0221/pct:31.962338949454907,36.96556942867953,15.163528245787909,10.278723672594275/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1816111201:0221/pct:31.957060280759702,36.9609079445145,15.166529039361409,10.281630937368643/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -936,7 +936,7 @@ ed by the law to make
 “ An Act to provide an accurate Chartof each County,  
 and a general Map of this Cointnouwcalih,” hereby giv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1816112301:0239/pct:18.323910874625874,44.51296249685376,14.981709344861988,0.8809463881198087/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1816112301:0239/pct:18.320864505403158,44.50736126840317,14.984760321418676,0.8850299903527536/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -982,7 +982,7 @@ accurate chart of each county, and
 general map of the territory of this  
 commonwealth,” the executive pro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216237:1817120501:0224/pct:27.254729432468103,78.99046851926433,17.619885613726353,2.8057457376829102/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216237:1817120501:0224/pct:27.248735429953815,78.97986577181209,17.623341397258265,2.809843400447427/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1056,7 +1056,7 @@ Washington. ’Flic result of their ellorls
 cannot be entirely ascertained until after  
 the loth instant, the period limited fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1818120801:0247/pct:33.716726914229376,82.37794510565946,14.590864278672363,9.3879038134564/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1818120801:0247/pct:33.711187777230165,82.367941712204,14.593943376594929,9.390811576603927/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1077,7 +1077,7 @@ fount of tiic contingent expenses
 o! the survey of James rivei, in  
 pursuance of the resolution of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1818123101:0283/pct:3.0144167758846656,60.791454236465164,14.580602883355176,3.192522456907016/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1818123101:0283/pct:3.013923013923014,60.78407573734677,14.583674583674584,3.196180766274224/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1143,7 +1143,7 @@ I enclose the eopy of a communication
 to this department from Mr Boye, the  
 gentleman employed by the Execut
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn85025230:00414184108:1825010801:0020/pct:8.696435001800504,73.9295791927371,16.99675909254591,12.366580787633419/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn85025230:00414184108:1825010801:0020/pct:8.694869486948695,73.92051030421982,16.999699969997,12.369152764147858/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1170,7 +1170,7 @@ sliall milled and account for them, as now requir­
 ed bs law.  
 9*&gt;. An act to alter the time of holding th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184534:1825022201:0056/pct:5.106719367588933,16.768507638072855,15.067193675889328,6.968272620446533/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184534:1825022201:0056/pct:5.105912108757509,16.76653742215956,15.07008114659079,6.971370383425371/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1195,7 +1195,7 @@ if any marshal shall voluntarily receive then)
 lor collection, he shall give a receipt therefor,  
 and shall collect and account tor them, as no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348914:1825030301:0462/pct:39.56331877729258,69.34034020190845,17.882096069868997,5.90513068731849/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348914:1825030301:0462/pct:39.554682383759,69.33075221238938,17.88364985810958,5.907771017699115/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

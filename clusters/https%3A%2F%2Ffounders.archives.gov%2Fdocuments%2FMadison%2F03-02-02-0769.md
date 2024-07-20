@@ -67,7 +67,7 @@ thirty.fourth.
 By the President,  
 R. Smith, Secretary of Stale
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810021601:0060/pct:77.44971396936704,59.60754332313965,17.494002583502493,7.568807339449541/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810021601:0060/pct:77.43542435424354,59.599949038094024,17.496924969249694,7.572089862827537/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -116,7 +116,7 @@ the nation thus refns&#x27;tng or neglecting to re­
 vc-ke or modisy her edtcts in the manner n- -  
 foresaid
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216110:1810040901:0368/pct:45.89714654199581,16.85717030064355,21.87651136546832,17.16453750840457/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216110:1810040901:0368/pct:45.889748549323016,16.855551286976567,21.878358048570814,17.16609040850301/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -158,7 +158,7 @@ for a term of twenty years, the act entitled “ An
 a t to incorporate the subscribers to the Bank of  
 the United States,” on the terms and condition
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810041301:1026/pct:50.649026460309535,9.624375302273094,21.193210184722915,18.748992423021118/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810041301:1026/pct:50.63638632393312,9.622823984526113,21.19416021961567,18.75/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -198,7 +198,7 @@ The bill was read a first time, and passed a
 second reading, 51 to 30.  
 The bill for the relief of Moses Young ; th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810041301:0434/pct:4.511686899800688,4.282603435760948,35.60427613698134,90.91458988628115/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810041301:0434/pct:4.510869565217392,4.282085399782267,35.60386473429951,90.90762469255272/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -240,7 +240,7 @@ The bill was read a first time, and
 passed a second reading, 51 to 39.  
 ihe bill for the relief of Mose
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810041301:0124/pct:22.551928783382788,4.93968253968254,36.053412462908014,91.06031746031746/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810041301:0124/pct:22.547747079547563,4.939055358049772,36.0529080907349,91.05298798036229/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -353,7 +353,7 @@ dependencies of the nation thus refufing
 or neglecting to revoke or modify her cdicéts  
 in the maoner aforefaid
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1810041701:0487/pct:38.61654135338346,26.382893283806848,16.195488721804512,15.420138540307198/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1810041701:0487/pct:38.6265664160401,26.386239668038684,16.195488721804512,15.41679215607536/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -540,7 +540,7 @@ turned in relation to the nation revoking
 or modifying her decrees in the man.  
 ner aioresaid : Provided, That th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810042401:0137/pct:41.6399017570376,37.55725190839695,17.38144719440771,23.11704834605598/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810042401:0137/pct:41.63203626747261,37.55247423991859,17.384460395416195,23.118347962515372/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -584,7 +584,7 @@ date of such proclamation, cease and be disconti­
 nued in relation to the nation tevoking or modify­  
 ing her derrers in the manner aforesaid : Provided
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810042501:1045/pct:29.203097676742445,42.86642833929152,21.284036972270798,20.149496262593434/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810042501:1045/pct:29.195804195804197,42.85946385052802,21.284965034965033,20.150284321689682/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -640,7 +640,7 @@ u.ncjAq, t me nation iiiut refusing or ne«
 g:e..tihg to revoke or mod ty her edicts m  
 «&gt;• manner aforesaid. And tne r
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810050801:0153/pct:78.62147320583223,49.063574977704164,17.856466578299564,18.1934004331762/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810050801:0153/pct:78.60658841347974,49.05732484076433,17.859396693171778,18.195329087048833/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -678,7 +678,7 @@ growth, pradure or mamiffrtw* of the- dominion*,
 eotonus and dependencies of th* nation thee refusing  
 or negtetUng to revoke or modify her edicts in the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810050901:1069/pct:51.47839272175891,79.11484412857374,21.58200657063432,16.184784364399935/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810050901:1069/pct:51.46538655886812,79.10206718346254,21.582870136432543,16.186208010335918/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -775,7 +775,7 @@ and be discontinued in ielation to the na­
 tion revoking or modifying her decrees in  
 the manner aforesaid
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810051101:0008/pct:5.255366395262769,51.504359572639075,18.15321983715766,18.383888001964877/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810051101:0008/pct:5.254394079555967,51.49803536345776,18.156028368794328,18.385723641126393/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -921,7 +921,7 @@ OAI - e o ™ AR TN RBT st STt oy oTR L e ) TSN S T
 to the nation revoking or modifying hier de­  
 crees in the manner aforefatd
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1810051501:0501/pct:24.278996865203762,8.147332599339405,35.376175548589345,84.10569512561305/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1810051501:0501/pct:24.28944618599791,8.15066893537517,35.37095088819227,84.10569512561305/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1174,7 +1174,7 @@ moi* energetic measures—.but this w,ll be
 of course for our own discretion to decide.  
 But whiFe this is very clear from the 4 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810100201:0173/pct:41.248626876601975,55.884165126309306,17.630904430611498,25.089340727048675/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810100201:0173/pct:41.24107633168589,55.87727944800394,17.633778754042346,25.09035649745359/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1229,7 +1229,7 @@ learn that the President is expected at
 the seat of government in a very few  
 days, where also all the Heads of De
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810100201:0319/pct:40.762081784386616,28.662016487000635,17.695167286245354,27.96448953709575/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810100201:0319/pct:40.75450659728675,28.658381942683235,17.698073468376386,27.96517034406966/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1481,7 +1481,7 @@ turn cease and be discontinued in relation to I
 the nation invoking or mollifying .her de-!  
 crees in the manner aforesaid.’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810100901:0179/pct:41.145739506395245,12.215320910973086,35.05674653215637,83.09584703446596/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810100901:0179/pct:41.138328530259365,12.213833414515344,35.056436119116235,83.08978730313362/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1732,7 +1732,7 @@ fifth
 By. the president,  
 R. Smith, Secretary of State; ■ 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1810110501:0193/pct:5.174129353233831,13.094852703140175,23.955223880597014,47.05406280349628/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1810110501:0193/pct:5.172842576473514,13.092733452014889,23.955483710519772,47.050493607379835/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1814,7 +1814,7 @@ JAMES MADISON.
 By the President.  
 K. SMITH. Secretary of State.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810110601:0217/pct:76.82034394438347,50.0,17.78265642151482,38.404203323558164/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810110601:0217/pct:76.80629229925005,49.99389126450825,17.785500884092432,38.403583791488494/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1905,7 +1905,7 @@ JAMES MADISON.
 By the P esident,  
 B*J&gt;MH H, Secretary of State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810110601:0361/pct:23.571428571428573,4.895104895104895,18.1203007518797,52.42212333121424/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810110601:0361/pct:23.566998684457808,4.8944825832697685,18.123159807053813,52.41969658445631/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2190,7 +2190,7 @@ annoyance from her than is authorised by
 the established laws and usages of nation:..  
 It is scarcely necessary to remark, tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810110901:0221/pct:76.96344553022078,8.810572687224669,17.263843648208468,9.520313264806656/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810110901:0221/pct:76.94952053555274,8.809494677596966,17.26675110065738,9.523226885272646/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2218,7 +2218,7 @@ of the unqualified directions of an act
 of Congress, declares all existing re­  
 strictions on the commerce and ves
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810110901:0365/pct:23.74740026470032,64.79429372054516,17.526942711287578,9.603872118201503/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810110901:0365/pct:23.742911153119092,64.78604177279674,17.529930686830497,9.606894209543217/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2289,7 +2289,7 @@ la testimony whereof, 1 have cau*ei
 the seal ol the United States to ba  
 i.creuiitoifiived, ji^i4oalic jcif
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1810110901:0016/pct:73.70490286771508,9.242618741976893,22.548566142460686,42.36200256739409/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1810110901:0016/pct:73.6878612716763,9.241300627495722,22.54913294797688,42.3595265259555/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2665,7 +2665,7 @@ B States the thirty fifth. ;
 -’ By the President, - :  
 R.“SMITH, Secretary of Stce
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1810111301:0603/pct:6.085862557005819,3.0532073595226255,17.282591602453216,48.55295872700149/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1810111301:0603/pct:6.0911044713529385,3.0532073595226255,17.287833516800337,48.55295872700149/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2753,7 +2753,7 @@ JAMES MADISGON.
 By the Presidens,  
 R. SMI&#x27;I H, Secretary of State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1810111401:0310/pct:3.598887616554883,2.948717948717949,45.75494847047276,93.97435897435898/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1810111401:0310/pct:3.6043404765799663,2.952005259697567,45.75494847047276,93.97435897435898/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3304,7 +3304,7 @@ of the United States have been so revoked
 as to cease to have effect on the fust of the  
 present month* [Nov
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1811021501:0045/pct:25.66531348669373,27.59009009009009,21.60577356788453,4.64527027027027/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1811021501:0045/pct:25.659526493799323,27.586206896551722,21.606538895152198,4.648135116115411/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3332,7 +3332,7 @@ in he expressed himself at follows : “ Whereat it
 “ said first day of the present month to violate lbs  
 “ neatral commerce of the United Stales.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811022001:0373/pct:53.2967032967033,58.8407684793227,21.053946053946053,8.694236405079778/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811022001:0373/pct:53.28339575530587,58.83118997232622,21.05493133583021,8.696890769982094/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3368,7 +3368,7 @@ j from the date of the proclamation a­
 j foresaid, be revolted and have full  
 | ff»rce and effect,” 8cc. Law of Ma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811022201:0073/pct:21.71077152441297,14.167175106772422,17.685426761088333,15.045759609517999/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811022201:0073/pct:21.70672629029253,14.165446559297218,17.688342338985155,15.047990889864975/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3397,7 +3397,7 @@ United S»a&#x27;* s.” President&#x27;s procla­
 mation of Nov. %d^ 1310.  
 I will be seen that the act of the 1s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811022201:0073/pct:21.80395080134178,31.787675411836485,17.59224748415952,10.06711409395973/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811022201:0073/pct:21.79988820570151,31.783796974133725,17.595180423576174,10.069952822515049/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3426,7 +3426,7 @@ cease and he discontinued.
 &gt;&gt;ec. 3*. And be it further enacted, that until the  
 ‘proclamation afoicsaid, shall have been iseued, th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811030101:0390/pct:3.5220125786163523,46.31613112625771,21.660377358490567,3.3430704316780266/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811030101:0390/pct:3.5211267605633805,46.30861593379848,21.661217303822937,3.3465844556222617/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3467,7 +3467,7 @@ and Milan decrees ate revoked, send her ships with
 Ameiican produce into his ports, vs* ran have no  
 right to complain. It is for her t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811030101:0390/pct:26.08805031446541,5.030834144758195,21.735849056603772,17.47809152872444/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811030101:0390/pct:26.08148893360161,5.03001784845043,21.736670020120723,17.479312023365246/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3495,7 +3495,7 @@ posed. by virtue of the said act, shall, from
 the date of such proclamation, cease and be  
 discontinued
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1811030501:0392/pct:77.46123332131266,23.887731339624953,17.796610169491526,7.697021693835029/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1811030501:0392/pct:77.44726879394267,23.88480392156863,17.79941109308335,7.70016339869281/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3545,7 +3545,7 @@ j States and Great Britain aad Frar.-.e and
 th-ir dependencies, and for other purposes ”  
 | sh.il) have full force and be immediatel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811031201:0093/pct:40.37955655768508,41.09030696726531,18.000751597143932,8.941536110049675/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811031201:0093/pct:40.37197069321811,41.08507386653082,18.003632037071828,8.944642553914077/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3586,7 +3586,7 @@ virtue of the said act, shall, from the date of such
 proclamation, cease and be discontinued.  
 Ses. 3. And be it further enacted, That uir
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1811031501:0407/pct:41.81165919282511,23.68548582505452,17.255605381165918,3.0894111945723286/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1811031501:0407/pct:41.80416068866571,23.682616596002422,17.2584887613582,3.0930749040985264/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3607,7 +3607,7 @@ the U. States and G. Britain and Prance and
 their dependencies, And for other purposes,”  
 shall have full force arid be immediately carrie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1811031501:0407/pct:41.75784753363229,27.283741216379937,17.381165919282513,3.6588320814150714/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1811031501:0407/pct:41.75035868005739,27.280436099333738,17.384026781444284,3.6624268120331114/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3627,7 +3627,7 @@ from the date of such proclamation, cease
 and be discontinued.  
 Sec. 3 And be it further enacted, Tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1811031501:0057/pct:3.3619290517041502,15.741935483870968,21.817760259680036,4.702508960573477/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1811031501:0057/pct:3.361149745016226,15.739678899082568,21.818497913769125,4.705418577981652/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3814,7 +3814,7 @@ nation rsi-vo&#x27;.&#x27;t_.-: or zzzodilsiyisss her decrees in ss
 .;  
 the musim- dien Said.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216134:1811032201:0267/pct:2.3337222870478413,48.18164508758568,22.12035339223204,24.685833968012187/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216134:1811032201:0267/pct:2.3333333333333335,48.17705854355069,22.122222222222224,24.686657147390132/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4026,7 +4026,7 @@ dencies, and for other purposes,” to state to your lordship that a
 4tb sect1 on ol the act, to which this is a supplement; and the restrictions imposed, or wh’ch may be imposed by  
 virtue of the said act, shall from the date of such proclamation cease and be discontinued.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811040401:0119/pct:40.84117321527393,40.766331658291456,51.22671093894115,1.4824120603015076/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811040401:0119/pct:40.83364072298045,40.76121090315287,51.22341079552441,1.486412929698949/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4162,7 +4162,7 @@ vein tier la-^t] been so invoked as to ce.ijx&#x27;
 to have that effect ! Thus proclaiming to  
 the United States and to the world as 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216146:1811080501:0084/pct:31.49526387009472,63.97647285700511,21.786197564276048,4.252241828174718/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216146:1811080501:0084/pct:31.489937426010485,63.97030466640956,21.788150403066687,4.25504563568582/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4181,7 +4181,7 @@ Jon the 1st of November las’ j been so revoked
 as to cease to have that effect!’’ Thu* pro­  
 claiming to the IT. States and to the world a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1811081601:0136/pct:31.584948688711517,18.730518560498727,21.391106043329533,3.4145650325871353/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1811081601:0136/pct:31.577747378020977,18.727865136704917,21.391928864569085,3.417622892761014/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4221,7 +4221,7 @@ on the first day of the present month to violate the
 neotial commerce of the United States.”  
 It is also tr ue, that .Congress, on the mere e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811110801:0819/pct:29.32622394571013,34.93346007604563,21.25545322346098,4.6261089987325725/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811110801:0819/pct:29.319118003392294,34.927926500871216,21.256360552459412,4.629336290194836/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4251,7 +4251,7 @@ should from and after the expiration of three
 months from the date of the proclamation,  
 be revived and have full force against th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216146:1811110901:0390/pct:54.16116248348745,29.23597678916828,21.631439894319684,9.381044487427467/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216146:1811110901:0390/pct:54.15222057123989,29.233149598684847,21.63337185625447,9.383360732359861/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4278,7 +4278,7 @@ the restrictions imposed by the act of May 1st,
 1810, should cease and be discontinued in re­  
 lation to France and her dependencies. It wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216146:1811110901:0390/pct:54.04557463672391,64.63249516441006,21.136063408190225,8.733075435203094/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216146:1811110901:0390/pct:54.036651807825656,64.62624504399962,21.138077155907766,8.735454340328143/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4349,7 +4349,7 @@ tween the United States and Great Britain
 and France 6c their dependencies, should  
 from and after the expiration of three month
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811111201:0216/pct:23.583517292126565,65.29289470465942,17.49448123620309,6.151400269047328/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811111201:0216/pct:23.57917969468457,65.2849107361213,17.497394396419594,6.154724056411511/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4377,7 +4377,7 @@ months from the date of the proclamation,
 be revived ami have full force against the  
 former, its colonies and dependencies, and a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811111401:0371/pct:40.2864044168392,12.969323700106598,33.74741200828157,80.19661257846737/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811111401:0371/pct:40.279454890460585,12.967787778304121,33.747340578460125,80.19106268750987/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4521,7 +4521,7 @@ United States.” Your memorialists, reposing trust
 and confidence in the truth of the facts therein  
 proclaimed, embarked a Urge amount in an ad
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1812010801:0920/pct:26.363407891430008,74.66906357247916,21.713998492083437,9.576728223565942/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1812010801:0920/pct:26.35678391959799,74.65686274509804,21.714824120603016,9.579248366013072/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4674,7 +4674,7 @@ dominions, rolnnies and dependencies of the nation
 thus refusing or neglecting to revuke or modify its  
 edicts, in the manner aforesaid
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1812060101:1167/pct:5.87512291052114,49.30330524951393,23.328416912487707,12.81594296824368/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1812060101:1167/pct:5.873679036618333,49.295318321723634,23.32882772179897,12.817916734164912/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4713,7 +4713,7 @@ dependencies of the nation tnus refusing or
 neglecting to revoke or modify its edicts, in  
 the manner aforesaid
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812060101:0500/pct:4.032378953680108,50.86726310023736,22.770199370409234,18.449881321891546/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812060101:0500/pct:4.031774580335731,50.86261980830671,22.771782573940847,18.451239920888483/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4761,7 +4761,7 @@ colonies and dependencies of the nation thus
 refusing or neglecting to revoke or modify  
 Its edicts, in the manner aforesaid
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812060101:0176/pct:9.557273366127898,36.67252489748096,16.584680252986647,18.371411833626244/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812060101:0176/pct:9.55559458984718,36.66822867853796,16.587622226125653,18.373164636051236/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4795,7 +4795,7 @@ pendencies of the nation thus refusing or
 neglecting to revoke or modify its edicts, in  
 the manner aforesaid
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812060201:0032/pct:41.46252285191956,9.656862745098039,18.043875685557587,10.968137254901961/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812060201:0032/pct:41.45494425150795,9.655679451047666,18.046670322305488,10.970877751909487/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4904,7 +4904,7 @@ dependencies of the nation thus retusing or
 neglecting to revoke or modily its edicts, in  
 the manner aforesaid
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812061701:0637/pct:2.6315789473684212,52.84152467251059,21.81611435997401,15.473259135230967/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812061701:0637/pct:2.636993718865064,52.84480777438524,21.82152913147065,15.479825338980268/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4962,7 +4962,7 @@ virtue of the said act, shall, from the date of such
 Proclamation, cease and be discontinued.”  
 It is thus obligatory on the President, War o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1812081201:0050/pct:25.990411304567246,19.33647747601236,21.221296997224325,2.7158887624003905/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1812081201:0050/pct:25.98385469223007,19.333333333333332,21.222250252270435,2.7195121951219514/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4982,7 +4982,7 @@ posed or which may be imposed by virtue of the
 said act, shall from the date of such proclama­  
 tion cease and be discontinued s” And unti
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812081901:0765/pct:24.882849109653232,81.61046618758061,22.5398313027179,5.021190344573429/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812081901:0765/pct:24.878962986100266,81.60294795025334,22.541516997240876,5.023798556732689/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5001,7 +5001,7 @@ sed by virtue of the said act, shall, from the
 date of such proclamation, cease and be  
 discontinued.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812121001:0259/pct:40.406654343807766,34.0085942295887,17.44916820702403,2.664211172498465/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812121001:0259/pct:40.39918684161893,34.00441934691873,17.452103739296494,2.667976102790736/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5041,7 +5041,7 @@ courwla#, M to fce proved. shut„our
 harbor* against the merchant as wrjl as  
 the armed vu*»eis of France and Lrer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813042301:0104/pct:30.67165392746788,7.732094328044184,38.998211091234346,86.42938546506531/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813042301:0104/pct:30.666666666666668,7.731416549789621,38.99728997289973,86.4247311827957/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5104,7 +5104,7 @@ be revived against the nsimn. so refusing
 to revoke or modify/*—The sections  
 hns to be revived, constituted an iro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813070901:0363/pct:63.25581395348837,83.25141088658292,17.147286821705425,7.973784817039869/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813070901:0363/pct:63.246008370795224,83.24383362155274,17.149795897276906,7.976092958344711/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5126,7 +5126,7 @@ proclamation, and if the other nation should
 not, within three months thereafter, revoke  
 or modify her edicts in like manner, the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024513:00414184121:1813072301:0050/pct:29.556100825340174,26.911270282122498,21.726522418023645,5.832480631486625/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024513:00414184121:1813072301:0050/pct:29.549509366636933,26.9073370359544,21.72911091287541,5.836500048718698/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5175,7 +5175,7 @@ ernment had hitherto pursued, relative to the
 belligerent orders and decrees, the candid  
 foreigner as well as the patriotic citizen, ma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1815032901:0412/pct:6.028880866425993,57.56562654779594,17.310469314079423,13.967310549777118/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1815032901:0412/pct:6.027792817181014,57.55849944286245,17.31336100583529,13.969708225001032/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

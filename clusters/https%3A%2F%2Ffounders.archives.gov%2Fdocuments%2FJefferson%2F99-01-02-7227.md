@@ -208,7 +208,7 @@ I that the most perfect happiness may
 i the assurance of on conside­  
 ration and est
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808011801:0001/pct:42.39508700102354,12.926321270502473,35.55783009211873,80.38271283519917/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808011801:0001/pct:42.39508700102354,12.93499956608522,35.55783009211873,80.37837368740779/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -229,7 +229,7 @@ choice of our next President is to be
 made.  
 Resolved, That this meeting hav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808091901:0001/pct:22.43642329778507,15.37168713639302,17.821985233798195,4.059469941822883/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808091901:0001/pct:22.44325950232431,15.37168713639302,17.828821438337435,4.072398190045249/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -247,7 +247,7 @@ In these few words President Washington
 declined a third term. The example of  
 Washington is not unworthy the imitatio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:00271743919:1875112201:0691/pct:56.70791273200912,266.0915573959052,46.043633995441226,8.925695882217621/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:00271743919:1875112201:0691/pct:18.90263757733637,88.69718579863508,15.347877998480408,2.9752319607392073/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -287,7 +287,7 @@ It Is plain that the majority of the
 citizens of Maryland took no alarm  
 about the dangers of a third term i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_baggs_ver01:data:sn84022149:00393349943:1879042301:0062/pct:5.095948827292111,6.14853195164076,22.83582089552239,89.49913644214162/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_baggs_ver01:data:sn84022149:00393349943:1879042301:0062/pct:5.111940298507463,6.161485319516408,22.841151385927507,89.49050086355786/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -306,7 +306,7 @@ number of those out of whom the choice
 is to be made,&quot; a precedent has been es­  
 tablished which in practice has had th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_grace_ver02:data:sn83045604:00202199343:1895071401:0204/pct:54.5045045045045,157.64681469184478,37.89596047660564,7.543058725876738/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_grace_ver02:data:sn83045604:00202199343:1895071401:0204/pct:18.16816816816817,52.54893823061493,12.631986825535213,2.5143529086255794/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -359,7 +359,7 @@ If the above had been
 (Signed) GROVER CLEVELAND,  
 it would have been received with profoun
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_denmark_ver01:data:sn84026844:00202193651:1896022201:0374/pct:1.3145238858608528,32.95475361787873,17.37736453991664,3.920131892287965/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_denmark_ver01:data:sn84026844:00202193651:1896022201:0374/pct:1.3385700545046488,32.95933321121085,17.36934915036871,3.920131892287965/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

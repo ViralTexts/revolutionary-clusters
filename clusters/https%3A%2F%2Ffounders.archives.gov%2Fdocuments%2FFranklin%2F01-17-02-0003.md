@@ -204,7 +204,7 @@ at all, for I have no Property in that which
 another can by Right take from me when  
 he pleases against my Consent., lence ’ii
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774102101:0335/pct:36.07668926817863,34.08151210868281,28.61819032031798,3.780271707028943/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774102101:0335/pct:36.084482892993535,34.0913565662532,28.610396695503077,3.770427249458555/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -347,7 +347,7 @@ tive power can do what it will, and
 diapose of the estates of the subjects,  
 arbitrarily, or take any part of the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eagle_ver01:data:sn84022278:00200296540:1869030601:0252/pct:17.762660619803476,286.0619469026549,43.91534391534392,22.123893805309734/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eagle_ver01:data:sn84022278:00200296540:1869030601:0252/pct:4.443183966723388,71.51548672566372,10.985063339005483,5.530973451327434/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

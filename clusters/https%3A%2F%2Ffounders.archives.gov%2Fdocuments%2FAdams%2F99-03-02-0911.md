@@ -61,7 +61,7 @@ ted States south of the river Ohio: and do
 authorize and empower him to execute  
 and fulfil the duties of that office
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153188:1828091801:0147/pct:27.11227938415321,38.66542664496629,17.179872324446112,8.149267612183213/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153188:1828091801:0147/pct:27.11227938415321,38.66542664496629,17.179872324446112,8.16476788343796/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -112,7 +112,7 @@ JSUTtVti.
 STATE OF MISSISSIPPI Tippah county  
 noocn o. f Bin in Chaacery ia th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn87065204:00295877935:1841100101:0391/pct:72.38664987405542,89.3096020859313,23.583123425692694,24.498356195442692/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn87065204:00295877935:1841100101:0391/pct:54.30640843961581,66.9878698560254,17.698000314911038,18.37660129237048/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -174,7 +174,7 @@ annex* d.
   
 Given under my hand, at the city o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_debaptiste_ver01:data:sn83016710:00211664204:1867041901:0365/pct:24.151309408341415,61.49791346365034,14.532816036210798,8.379090709422359/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_debaptiste_ver01:data:sn83016710:00211664204:1867041901:0365/pct:24.156697920034485,61.49791346365034,14.538204547903868,8.386411889596603/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -247,7 +247,7 @@ HAMILTON FISH, Secretary of State.
 TAKINd THE OATHS OF OFFICE.  
 Judge Miller, of the United States Supreme Court
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743695:1870011301:0146/pct:11.355849241311796,124.3424036281179,45.880241474955135,24.489795918367346/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743695:1870011301:0146/pct:3.7852830804372655,41.447467876039305,15.293413824985043,8.16326530612245/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -311,7 +311,7 @@ year of our Lord one thousand eight hut.­
 dred and eighty one, and of the indepen­  
 dence of the United States of America the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_beetlebailey_ver01:data:sn89066350:0028077974A:1881061601:0776/pct:245.2523524379812,73.45950037850113,43.11377245508982,45.54125662376987/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_beetlebailey_ver01:data:sn89066350:0028077974A:1881061601:0776/pct:61.339323919554985,18.364875094625283,10.783055198973042,11.385314155942467/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -424,7 +424,7 @@ January in the year of our Lord 1884
 and of the independence of the United  
 States of America the 109t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_eaton_ver01:data:sn85058130:00206535076:1885012401:0176/pct:78.1429745275267,41.137076090054144,20.973705834018077,22.770019948703336/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_eaton_ver01:data:sn85058130:00206535076:1885012401:0176/pct:52.1167283189478,27.429467084639498,13.995067817509248,15.175263607865489/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -466,7 +466,7 @@ to tho conditions prescribed by law.
 The document is signed by tho Presi­  
 dent and by tho Secretary of State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn82000205:00211103589:1888051701:0551/pct:150.61818181818182,158.98177610645067,43.27272727272727,25.744865490309518/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn82000205:00211103589:1888051701:0551/pct:37.66824299745362,39.74544402661267,10.822117133503092,6.4362163725773796/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -514,7 +514,7 @@ dred and thirteenth
 GROVER CLEVELAND  
 By the Presid
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_fisher_ver01:data:sn85058130:00206535660:1889010101:0010/pct:76.97172619047619,35.50806149231346,21.316964285714285,22.2472190976128/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_fisher_ver01:data:sn85058130:00206535660:1889010101:0010/pct:51.330232558139535,23.67204099487564,14.213953488372093,14.835645544306962/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -543,7 +543,7 @@ bold the said cilice, Willi all Hie powers, priv­
 ileges and emoluments to the same of rlnlit ap­  
 pertaining, unto liiiii, Hie soul William W. Mor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_kaweah_ver01:data:sn94052989:00175040110:1891100601:0292/pct:60.84989497495557,81.37436658015079,10.857973824527388,4.85724879495736/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_kaweah_ver01:data:sn94052989:00175040110:1891100601:0292/pct:60.857973824527384,81.38363613891978,10.857973824527388,4.8603386478803605/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -600,7 +600,7 @@ ers privileges and emoluments to the
 same of right appertaiuing unto him tho  
 said George W Bartch for the term o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_boozer_ver01:data:sn85058130:175048637:1892041501:0258/pct:45.99805573558004,6.088245354007525,38.78807517822424,115.61965568350246/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_boozer_ver01:data:sn85058130:175048637:1892041501:0258/pct:30.685686497001136,4.058830236005017,25.87129194358891,77.083570858511/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -689,7 +689,7 @@ ninety-three, and of the independence
 of the United States of America the  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_beetlebailey_ver01:data:sn88068010:00294556059:1893102701:0265/pct:104.12371134020619,33.214285714285715,18.846649484536083,22.345238095238095/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_beetlebailey_ver01:data:sn88068010:00294556059:1893102701:0265/pct:78.13053988718775,24.916666666666668,14.149879129734085,16.761904761904763/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -864,7 +864,7 @@ Lord one thousand, seven hundred and
 ninety-six, and of the independence of the  
 United Stales of America, the twenty-firs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_fletcher_ver01:data:sn86063034:00414182288:1899100501:0378/pct:30.65792012348061,67.96827333740086,12.849700945398418,11.882245271507017/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_fletcher_ver01:data:sn86063034:00414182288:1899100501:0378/pct:30.65792012348061,67.97844213951596,12.856132227152871,11.887329672564572/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

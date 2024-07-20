@@ -55,7 +55,7 @@ aristoeracy of bankers, led by the nose by an
 OLIGARCHY OF SHYLOCKS, all sycophants  
 to Britain.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1834032501:0378/pct:38.078551613374216,54.00277155953523,14.22105416849175,1.8441530753650996/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1834032501:0378/pct:38.078551613374216,54.00277155953523,14.230787949579014,1.8512596382759479/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -197,7 +197,7 @@ without a cause, she may be locked up i
 this chamber to pout, and see, in every di  
 rectiott how beautiful she is.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn84026897:00237288336:1841010701:0394/pct:66.12394957983193,80.39144617615078,14.8984593837535,11.187628367766099/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn84026897:00237288336:1841010701:0394/pct:66.12978524743231,80.39950062421973,14.904295051353875,11.191655591800572/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -236,7 +236,7 @@ ber to pout, sad see in every direction how beautiful
 she is  
 The Cabinet Minister* are patting their howua in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182951:1841011401:0208/pct:78.05096110862763,80.61744575506043,17.45641484130532,7.2666375418669/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182951:1841011401:0208/pct:78.03351955307262,80.60570762958649,17.45810055865922,7.269219569015725/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -276,7 +276,7 @@ ed lettei remarkably preserved during the late
 bombardment of the city ef Beyrout (Syria,) bi­  
 lbo British fleet. Three of the mission familie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016475:00296026402:1841011401:0802/pct:51.55829165063486,5.77524893314367,29.10734898037707,90.34139402560456/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016475:00296026402:1841011401:0802/pct:51.56470437347698,5.779990516832622,29.113761703219186,90.34139402560456/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -317,7 +317,7 @@ direction how beautiful she is.&quot;
   
 TO THE DEAD
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186427:1841012101:0552/pct:131.76050753370342,181.06297936696555,39.22812582606397,25.580641676569083/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186427:1841012101:0552/pct:43.91436500594688,60.34780730179305,13.074313906876348,8.525959530496147/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -395,7 +395,7 @@ w ithout a cause, she may be locked up in
 this chamber to pout, and see in every di­  
 rection how beautiful she is.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348975:1841020401:0023/pct:17.05087440381558,66.51731160896131,15.361685214626391,15.179904955872368/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348975:1841020401:0023/pct:17.047486588515795,66.50828129242466,15.363600238426386,15.181238121096932/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -431,7 +431,7 @@ AMERICAN.
   
 there i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn85054702:00280776002:1841020601:0109/pct:138.1025248661056,29.242232531983692,158.14843152257077,337.4666104316041/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn85054702:00280776002:1841020601:0109/pct:34.53884424033678,7.310558132995923,39.55223880597015,84.36665260790103/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -460,7 +460,7 @@ weeps without a cause, she may he locked up in
 this chamber to pout, and see, in every direction  
 how beautiful she is.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023294:00200296096:1841021201:0168/pct:22.73489932885906,131.86003683241253,59.22818791946309,36.15242952259527/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023294:00200296096:1841021201:0168/pct:5.6861099454469155,32.96500920810313,14.813260595887536,9.038107380648817/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -539,7 +539,7 @@ the audience always followed the old woman,
 and never failed to laugh in the same place.  
 [Adduon.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82014594:00415661046:1851043001:0144/pct:49.570432809207325,77.88104089219331,15.46441886853623,16.438197026022305/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82014594:00415661046:1851043001:0144/pct:49.58123953098828,77.88878562577447,15.453612146755281,16.438197026022305/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -659,7 +659,7 @@ many improvements he has succeeded in making
 in the Daguerreotype process. The latest improve­  
 ment consists of a mode of enameling the silve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_diglett_ver01:data:sn82015378:00295872354:1851070101:0641/pct:46.82804674457429,115.31818181818181,39.31552587646077,23.045454545454547/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_diglett_ver01:data:sn82015378:00295872354:1851070101:0641/pct:15.609348914858098,38.43939393939394,13.10517529215359,7.681818181818182/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -710,7 +710,7 @@ and see in every direction how be autiful
   
 she is.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn87070038:00296028058:1851073101:0884/pct:70.16871165644172,28.30030700530282,51.45705521472393,42.14345520513536/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn87070038:00296028058:1851073101:0884/pct:17.54554170661553,7.075076751325705,12.86673058485139,10.53586380128384/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -744,7 +744,7 @@ On the 22d June, at the residence of his son,
 at Clearfield Bridge, Clearfield county, Mr. John  
 Devine, father of II. C. Devine, Esq., of thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn86071377:0021247762A:1853063001:0181/pct:23.848484848484848,8.501012025241101,20.363636363636363,13.513513513513514/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn86071377:0021247762A:1853063001:0181/pct:17.896651007728444,6.381712108584355,15.275041672980755,10.13215859030837/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -761,7 +761,7 @@ of the federal papers in Boston : &quot; They are under the
 control of an aristocracy of bankers, led by the nose by  
 an oligarchy of Shylocks, all sycophants to Britain.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854041101:0549/pct:5.88138113332232,46.61730916517743,15.793821245663308,1.9274955322951237/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854041101:0549/pct:5.8868880444958425,46.621564122202365,15.793821245663308,1.9360054463449918/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

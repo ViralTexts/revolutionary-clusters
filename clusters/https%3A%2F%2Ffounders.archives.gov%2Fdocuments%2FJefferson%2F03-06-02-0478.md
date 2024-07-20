@@ -52,7 +52,7 @@ be corrupted. Our pure, virtuous, publiu-splritod,
 federative Republic, wifi last forever, govern the globe,  
 and Introduce tbo perfection of man. (Jefferson&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fullerton_ver02:data:sn84031492:no_reel:1874032101:0003/pct:4.090909090909091,62.92523194469711,12.840909090909092,1.5644897216663636/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fullerton_ver02:data:sn84031492:no_reel:1874032101:0003/pct:4.107954545454546,62.93432781517191,12.829545454545455,1.5690376569037656/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -146,7 +146,7 @@ but this would have borne the imposi­
 tion so long.”  
 But John Adams never dreame
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346812:1896060301:0572/pct:30.675105485232066,57.91608839543077,12.151898734177216,8.754136863456816/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346812:1896060301:0572/pct:30.675105485232066,57.91964698765168,12.161275199249882,8.757695455677734/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -242,7 +242,7 @@ ous, public-spirited federated Republic will
 last forever, govern the globe and introduce  
 the perfection of man.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:00271740517:1898052201:0207/pct:31.92648059904697,42.4855197642516,12.552756977535738,3.5159028554008738/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:00271740517:1898052201:0207/pct:31.92648059904697,42.4855197642516,12.5618334467892,3.5192900450496225/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

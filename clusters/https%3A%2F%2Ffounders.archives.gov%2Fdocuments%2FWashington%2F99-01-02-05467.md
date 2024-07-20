@@ -32,7 +32,7 @@ vation, consists in every mini&#x27;s being allow­
 ed lo sneak his thoughts and lay open his senti­  
 ments.&quot; W&#x27;berelbie, then, in u country hith
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035487:00237283776:1851041201:0270/pct:9.198691741618969,86.47457093371122,18.254292722812757,3.5584947252401196/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035487:00237283776:1851041201:0270/pct:6.910652218360253,64.85592820028342,13.698630136986301,2.6767438198708864/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -49,7 +49,7 @@ Larrs, to the effect that &quot;liberty consists in every
 &quot;man&#x27;s being allowed to speak his thoughts and  
 &quot;lay open his sentiments.&quot; But the Courts o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530479:1855061401:0308/pct:201.79551122194513,69.46474887998113,48.14630091438072,6.672954491865126/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530479:1855061401:0308/pct:67.26517040731504,23.154916293327044,16.04876697146024,2.2243181639550422/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -87,7 +87,7 @@ support and preservation, consist in every
 man&#x27;s being allowed to speak his thoughts  
 and lay open his sentiments
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014489:00279557244:1862050301:0073/pct:28.57905982905983,79.5301570542431,11.200142450142451,2.7319519598785797/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014489:00279557244:1862050301:0073/pct:28.57905982905983,79.5301570542431,11.213497150997151,2.7418503365448066/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -129,7 +129,7 @@ port and preservation, consists in every
 man&#x27;s being allowed to speak his thoughts,  
 and lay open his sentiments.&quot; Hopin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028822:00280775459:1865092101:1216/pct:75.12915129151291,71.483539974348,49.52029520295203,9.291720108308393/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028822:00280775459:1865092101:1216/pct:18.785753829119763,17.870884993587,12.382358368702713,2.3229300270770983/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -147,7 +147,7 @@ and even its support and preservation, con-,
 sists in every ian&#x27;s being allowed to speak  
 his thoughts, and lay open his sentiments.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774716:1865092601:0759/pct:232.057761732852,94.70021413276231,50.68592057761733,7.173447537473233/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774716:1865092601:0759/pct:58.04587321654326,23.675053533190578,12.678345674553007,1.7933618843683083/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -202,7 +202,7 @@ its support and preservation, consists in
 every man&#x27;s being allowed to speak his  
 thoughts, and lay open his sentiments.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879129:1868042401:0284/pct:5.649717514124294,74.01956037571415,17.308680020544426,2.9437397114360415/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879129:1868042401:0284/pct:4.238921001926783,55.51467028178561,12.986512524084779,2.207804783577031/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

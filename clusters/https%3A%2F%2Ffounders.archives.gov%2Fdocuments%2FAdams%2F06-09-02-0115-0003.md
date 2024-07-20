@@ -3664,7 +3664,7 @@ not be reckoned among the nations.&#x27;
 It is a matter for very serious reflection that  
 the Christians themselves have cast innumer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1839051101:0913/pct:19.403995936335928,16.080760095011875,15.66203860480867,4.144893111638955/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1839051101:0913/pct:19.415283892087142,16.08867775138559,15.673326560559882,4.140934283452098/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3807,7 +3807,7 @@ Who can count the dust of Jacob, and the number of
 the fourth pert of Israel? Let me die the death of the  
 righteous, and let my last end be like his
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:0027174318A:1843071601:0076/pct:147.13721618953602,50.66981875492514,54.91938137545245,27.704604300348983/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:0027174318A:1843071601:0076/pct:49.04573872984535,16.889939584975046,18.30646045848415,9.234868100116326/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3848,7 +3848,7 @@ people shall dwell alone, and shall not be reck­
 oned among the nations.” “Their preserva­  
 tion” says a distinguished writer, “is really on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517013547:1847032601:0085/pct:21.95909580193757,77.55617604042016,14.190886257624687,4.706820901475868/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517013547:1847032601:0085/pct:21.955156950672645,77.54586546131348,14.192825112107624,4.709518745014623/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3931,7 +3931,7 @@ ever did exist in any other, to the same degree, va
 unless in some of the ancient republics, where &#x27;al  
 tho&quot;peop|e were under the sarno predicament. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661484:1851102801:1032/pct:71.70408317010697,43.526365348399246,14.37396414042489,8.604048964218455/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661484:1851102801:1032/pct:71.70910551956204,43.53028876333961,14.378986489879965,8.60797237915882/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3957,7 +3957,7 @@ f adventure and heeome the irresislable cause
 f an almost general emigration to that new  
 )orld
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661484:1851102801:1032/pct:85.64110290794034,8.745291902071562,14.102757269850835,5.979284369114877/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661484:1851102801:1032/pct:85.65114760685049,8.749215317011927,14.107779619305912,5.983207784055241/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3992,7 +3992,7 @@ nlesa iu eome o( the ancient republics, where &lt;
 ? people were under the same predicament. I  
 &#x27;his turn of character, which in the ordinary 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014763:00415661460:1851102901:0199/pct:68.33998859098688,69.5964125560538,13.434112949229892,10.807174887892376/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014763:00415661460:1851102901:0199/pct:68.33998859098688,69.60014947683109,13.448374215630349,10.810911808669657/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4057,7 +4057,7 @@ in America. Let U3 see how clear-sigh&#x27;ed he was on
 the subject of the character of the peoplu of ihia coun*  
 tr 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348379:1851121301:0557/pct:5.900681596884128,62.328282113015156,14.83933787731256,4.503611386489166/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348379:1851121301:0557/pct:5.899532710280374,62.31945624468989,14.841316199376948,4.506513735485698/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4085,7 +4085,7 @@ which is not to be met with, nor ever did exist, in any
 other to the same degree, unless in some of the ancient  
 republics, where the people were under the same predica
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1852020701:0085/pct:4.011103400416378,57.971959569612,15.572519083969466,6.760134767960005/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1852020701:0085/pct:4.020356234096692,57.97558236423577,15.58177191764978,6.76738035720755/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4104,7 +4104,7 @@ claim a navigation restrained by no laws but the
 laws of nations, reformed as the rising crisis re­  
 quires.” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348409:1852032901:0288/pct:83.33333333333333,81.11552692887489,15.531177829099308,2.466767164588187/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348409:1852032901:0288/pct:83.31729844140851,81.10441216771719,15.532999807581296,2.4698547547273226/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4124,7 +4124,7 @@ there has never yet been any example in
 Europe.&quot;  
 &quot;It is young and strong.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:0020219090A:1852032901:0255/pct:193.10222851078882,88.92816563565206,42.71312345242306,8.938265370534024/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:0020219090A:1852032901:0255/pct:64.36740950359628,29.642721878550688,14.237707817474355,2.979421790178008/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4153,7 +4153,7 @@ they dwell upon; yet is their mind all the while
 enlarging all its powers, and their spirit rises  
 as their improvements advance.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:0020219090A:1852032901:0255/pct:193.34984082065793,103.30766317384169,42.71312345242306,20.16159575811135/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:0020219090A:1852032901:0255/pct:64.44994694021932,34.4358877246139,14.237707817474355,6.72053191937045/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4175,7 +4175,7 @@ her own system and to change the system of
 Europe.&quot;  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:0020219090A:1852032901:0255/pct:193.52670675627874,123.51975760636283,42.943049168730106,10.25123090518874/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:0020219090A:1852032901:0255/pct:64.50890225209291,41.173252535454274,14.314349722910034,3.417076968396246/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4195,7 +4195,7 @@ raise a spirit of adventure, and become the ir­
 resistible cause of an almost general emigra­  
 sion to the nete tcorld.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:0020219090A:1852032901:0255/pct:193.43827378846834,168.13533644741827,42.35939158118146,8.35753061482136/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:0020219090A:1852032901:0255/pct:64.47942459615611,56.04511214913942,14.119797193727155,2.785843538273787/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4215,7 +4215,7 @@ dwell upon; yet is their uiind ull the while enlarging
 all its powers, and their spirit rises as  
 their improvements advance.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014763:00415661460:1852033001:0387/pct:84.1569975648188,17.788193281999778,15.49921214725684,3.225086485883272/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014763:00415661460:1852033001:0387/pct:84.16654729503891,17.79563292787263,15.489662417036719,3.221366662946844/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4233,7 +4233,7 @@ She is mistress of her own fortune, knows that
 she is so, and will actuate that power which she  
 feels, both so as to establish her own sys&#x27;em
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014763:00415661460:1852033001:0387/pct:84.08537458816788,20.77893092288807,13.508093396361552,2.354647918759067/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014763:00415661460:1852033001:0387/pct:84.08537458816788,20.786370568760926,13.508093396361552,2.358367741695495/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4253,7 +4253,7 @@ of adventure, and become the irresistible cause
 of an almost general emigration to that new  
 world.*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014763:00415661460:1852033001:0387/pct:83.92780403953589,35.8330543466131,15.384615384615385,3.12465126659971/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014763:00415661460:1852033001:0387/pct:83.937353769756,35.84049399248596,15.375065654395263,3.120931443663282/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4280,7 +4280,7 @@ of adventure, and become the irresistible cause
 of an almost general emigration to that new  
 world.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661496:1852033001:0324/pct:84.11827465325408,34.43197755960729,15.378753238835543,6.007480130902291/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661496:1852033001:0324/pct:84.11827465325408,34.43197755960729,15.39907534420566,6.0152719339255105/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4393,7 +4393,7 @@ with a steady and continually accelerating
 motion, of which there has never yet been  
 any example in Europe.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1852040501:0430/pct:291.12070583818286,286.62274419936983,44.62173831424817,10.326553995989688/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1852040501:0430/pct:72.76651651651652,71.64542460260633,11.15334084084084,2.58126879564657/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4411,7 +4411,7 @@ cing, to growth of State, with a steady and continually ac
 celerating motion, of which there has never yet been any  
 example in Europe. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_pearse_ver01:data:sn82015753:0020219039A:1852042101:0390/pct:174.66777408637873,25.061652281134403,38.558970099667775,4.06905055487053/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_pearse_ver01:data:sn82015753:0020219039A:1852042101:0390/pct:58.222591362126245,8.353884093711468,12.852990033222591,1.3563501849568433/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4432,7 +4432,7 @@ ated, in this new world, if I may so express it, with th
 one sees the inhabitants laboring after the plou  
 or with the spade and hoe, as though they had not an ide
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_pearse_ver01:data:sn82015753:0020219039A:1852042101:0390/pct:174.8546511627907,33.43094944512947,38.185215946843854,8.554254007398274/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_pearse_ver01:data:sn82015753:0020219039A:1852042101:0390/pct:58.28488372093023,11.143649815043156,12.728405315614618,2.851418002466091/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4457,7 +4457,7 @@ specting the settlement which they look to in America.
 will raise a spirit of adventure, and become the irresist  
 cause of an almost general emigration to the new world
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_pearse_ver01:data:sn82015753:0020219039A:1852042101:0390/pct:175.22840531561462,59.787299630086316,38.372093023255815,13.686806411837239/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_pearse_ver01:data:sn82015753:0020219039A:1852042101:0390/pct:58.409468438538205,19.92909987669544,12.790697674418604,4.562268803945746/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4637,7 +4637,7 @@ and wise men, &#x27;Come, curse me this people, for they are too
 mighty for me;&#x27; their statesmen will be dnmb; bat the spirit  
 or truth will answer : &#x27;How shall 1 curse whom God hatli no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661083:1857020701:0191/pct:7.921581128466688,53.48925410872314,15.47656997131017,3.70417193426043/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661083:1857020701:0191/pct:7.926894060142387,53.497682258744206,15.492508766337265,3.708386009270965/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4653,7 +4653,7 @@ uires.&quot;
 &quot;America will seem every: day to approach nearer and  
 nearer to Europe.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022640:1857021801:0241/pct:7.084276018099548,72.13642928563493,19.273190045248867,1.688701255416065/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022640:1857021801:0241/pct:5.317493989534719,54.10509943339629,14.453401216235328,1.2665259415620487/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4671,7 +4671,7 @@ M The independence of America is fixed as fate. She is
 actuate that power which she feels, both so as to establish  
 her own system, and to change the system of Europe.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022640:1857021801:0241/pct:6.787330316742081,73.825130541051,19.584276018099548,2.188645706032663/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022640:1857021801:0241/pct:5.091217649554518,55.371625374958334,14.69381982746429,1.6442617486945894/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4688,7 +4688,7 @@ her own system, and to change the system of Europe.
 world, and perhaps the mediatrix of peace and of the politi­  
 cal business of the world.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022640:1857021801:0241/pct:7.09841628959276,75.90267748027996,19.188348416289593,1.6442617486945894/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022640:1857021801:0241/pct:5.3316362607834815,56.927008110209975,14.396832131240277,1.2331963115209421/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4704,7 +4704,7 @@ for me ;&#x27; their statesmen will be dumb : but the
 spirit of truth will answer: &#x27;How shall I curse whom God  
 hath not cursed?&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022640:1857021801:0241/pct:7.2539592760181,83.96844795022776,19.131787330316744,1.5553827352516387/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022640:1857021801:0241/pct:5.444774430773582,62.981890901011,14.35440531749399,1.166537051438729/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4722,7 +4722,7 @@ mistress of ber own fortune knows that it is so; and will
 actuate that power which she feels, both so a to establish  
 her own system, and to change the system of Europe.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022767:1857021801:0058/pct:8.866183256427158,74.88291841262016,19.100197758734343,2.119792950456002/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022767:1857021801:0058/pct:6.660072535443455,56.16218880946512,14.32575008242664,1.6021690904609318/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4739,7 +4739,7 @@ her own system, and to change the system of Europe.
 world, and perhaps the mediatrix of peace and of the politi­  
 cal business of the world.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022767:1857021801:0058/pct:8.866183256427158,76.96573823021937,19.034278180619644,1.466600936652699/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022767:1857021801:0058/pct:6.660072535443455,57.72738476706926,14.276294098252555,1.0968696080847917/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4814,7 +4814,7 @@ a secluded state, the depositary of
 God&#x27;s word and promises; but as  
 the time drew near when the day
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn88077265:00280774819:1861112101:0227/pct:63.229416466826535,101.64533820840951,49.64028776978417,29.194206159471243/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn88077265:00280774819:1861112101:0227/pct:15.813674530187924,25.411334552102378,12.415033986405438,7.298551539867811/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5203,7 +5203,7 @@ We do not core to be so different from
 other nations; let us have a King that we can  
 see and let us be like other people.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ingstad_ver01:data:sn84028296:00296029154:1889072501:0426/pct:70.72630646589903,39.45677570093458,17.980513728963686,5.125584112149533/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ingstad_ver01:data:sn84028296:00296029154:1889072501:0426/pct:53.091070241524484,29.599883177570092,13.494349656547751,3.84053738317757/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5353,7 +5353,7 @@ formerly a British governor in the
 colonies, and then a member of the  
 House of Commons. The words wer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_jaeger_ver01:data:2003260222:00200298962:1898111201:0371/pct:50.444162436548226,77.64215540339387,18.972081218274113,11.506400714498362/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_jaeger_ver01:data:2003260222:00200298962:1898111201:0371/pct:37.854422344477356,58.231616552545404,14.240372407955988,8.633521881512355/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

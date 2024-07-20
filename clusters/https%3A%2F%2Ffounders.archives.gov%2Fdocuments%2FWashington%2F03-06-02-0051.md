@@ -69,7 +69,7 @@ without delay to some place of safety, with their |
 most valuable effects. 1  
 1 have the honor to be, with much regard, gentlemen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661277:1842012901:0157/pct:6.863406408094435,41.54327675454436,17.2681281618887,12.110268448296617/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661277:1842012901:0157/pct:6.8690275435638,41.547289434613376,17.273749297358066,12.114281128365635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -243,7 +243,7 @@ concern, Can uo method bo dovlsod
   
 for their ivmov nit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_dracula_ver01:data:sn84037890:00206533626:1888022201:0691/pct:21.005509641873278,18.793195108984584,20.609504132231404,108.29346092503987/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_dracula_ver01:data:sn84037890:00206533626:1888022201:0691/pct:15.759559076817085,14.10154173312068,15.466758525663106,81.21677299308878/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -265,7 +265,7 @@ son* remaining in it with the most melan­
 choly concern. Can no method be devised  
 for their removal 1”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_fencing_ver02:data:sn83016589:00393340691:1888022401:0320/pct:28.89799975152193,98.82411067193677,10.585165859112934,3.3596837944664033/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_fencing_ver02:data:sn83016589:00393340691:1888022401:0320/pct:25.285357104033046,86.47721705046546,9.261876290901185,2.939735423811857/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -287,7 +287,7 @@ sons remaining in it with the most melan­
 choly concern. Can no method be devised  
 for their removal 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_apple_ver01:data:sn2001063565:00279522758:1888022401:0398/pct:64.95327102803738,8.868742609381158,13.682242990654206,3.862830114308238/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_apple_ver01:data:sn2001063565:00279522758:1888022401:0398/pct:64.96573208722741,8.877501861341042,13.688473520249222,3.8672097402881795/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -307,7 +307,7 @@ a bloody conflict, I cannot but view the great
 umbers of women, children and infirm per­  
 tons recnaining a i with the To
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_ferrari_ver02:data:sn86088181:00200296953:1888030101:0616/pct:268.36115326251894,329.93014508328855,49.69650986342944,12.62761955937668/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_ferrari_ver02:data:sn86088181:00200296953:1888030101:0616/pct:67.10301650540694,82.48253627082214,12.426484538038324,3.15690488984417/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -329,7 +329,7 @@ concern. Can no method be devised for their
 romoval?ast a the at at in  
 The representatives of the city, met in tiay
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042945:1897080101:0799/pct:66.29955947136564,358.6749357132053,49.118942731277535,12.222054152170625/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042945:1897080101:0799/pct:16.584022038567493,89.66873392830132,12.286501377410469,3.055513538042656/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -351,7 +351,7 @@ firm persons, remaining in it, with
 the most melancholy concern. Can no  
 method be devised for their removal?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_evadeestruction_ver01:data:sn84026965:00294550835:1899030101:0002/pct:43.65268621124982,35.047137719895034,13.606396409033525,6.132763145106424/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_evadeestruction_ver01:data:sn84026965:00294550835:1899030101:0002/pct:43.65736194884743,35.05361713156445,13.601720671435919,6.132763145106424/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -373,7 +373,7 @@ firm persons, remaining in it. with
 the most melancholy concern. Can no  
 method be devised for their removal?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_evadeestruction_ver01:data:sn84026965:00294550859:1899030102:0580/pct:45.629629629629626,36.231723526805496,14.192592592592593,5.427558706247231/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_evadeestruction_ver01:data:sn84026965:00294550859:1899030102:0580/pct:45.6395061728395,36.23910796041944,14.187654320987654,5.427558706247231/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

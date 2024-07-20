@@ -1035,7 +1035,7 @@ or traufcending it in amount.&quot; it is gconfi »-rHy
 believed that whoever ffi all xlMge or infinuateu/  
 *th: Coutiary, tbay be Uufergcd to pjut cert
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1802041901:0790/pct:66.21448212648946,21.312526720820863,21.943171402383136,69.21761436511329/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1802041901:0790/pct:66.20234604105572,21.31024901143529,21.943731671554254,69.21288874639308/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1207,7 +1207,7 @@ of Uf‘ftanve and er-cmivr favor. Put vain wilt he the
 attempt to add l#fture to the ditn luminary of a benigh­  
 ted admmiflration ! LUCIU3 CRASSUS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1802041901:0791/pct:12.38831615120275,5.744178890142579,42.74914089347079,83.11621704790235/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1802041901:0791/pct:12.386187940216457,5.743589743589744,42.74609173681498,83.11025641025641/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1233,7 +1233,7 @@ veoth Cougrcfs, lie lays—“In our cate too, of the
 “departmental! accountabilities, where&#x27;the exami­  
 “ nation may be prompt, efficacious, and uniform.” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1806042501:0440/pct:39.8979398979399,11.539936102236421,18.38971838971839,6.696485623003195/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1806042501:0440/pct:39.89040060468632,11.538461538461538,18.39254220206601,6.699889258028793/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1261,7 +1261,7 @@ sipation, by appropriating sperifick sums, to evc­
 “ countabili&#x27;ies, where the examination may be  
 “ prompt, efficacious, and uniform.” IIow far thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806050201:1091/pct:32.09967924993832,64.2925430210325,20.94744633604737,8.253664754620777/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806050201:1091/pct:32.09176122348298,64.28230046200414,20.948445979279725,8.256332642982317/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1287,7 +1287,7 @@ I “ examination may be prompt, efficacious,}
 I “bind uniform.&quot; How far this bill, ap- j  
 propriating two millions of dollars to-1
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806050201:0153/pct:58.90568203558446,21.257216164207826,18.347044193610103,8.313021167415009/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806050201:0153/pct:58.89441469013007,21.25448948178553,18.349910737056874,8.316230545578929/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1312,7 +1312,7 @@ _g&#x27;.e deparzmenr all zccoumabilittes for mo­
 ney, where the examination may be prompt,  
 efficacions and uniform.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216079:1807111401:0016/pct:77.61785871640475,68.48758065941837,21.236598619474226,8.609564218156104/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216079:1807111401:0016/pct:77.6064610866373,68.48152731129574,21.23837493881547,8.611749454952566/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1340,7 +1340,7 @@ he alluded, as follows : “ In our care too ot the
 “ ney, where the examination may he prompt*  
 “ efheions and uniform.” Thofe opinions
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1807111701:0236/pct:59.76190476190476,45.5514705882353,17.655677655677657,7.794117647058823/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1807111701:0236/pct:59.75096136238784,45.54588898419311,17.658548495391564,7.79724706939509/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1391,7 +1391,7 @@ may be prompt, effi
 &#x27; cacious ana uni­  
 form” -lv 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1807112001:0865/pct:46.36388966285873,12.740509620384815,20.089161326274727,28.063789218235396/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1807112001:0865/pct:46.35097493036211,12.738301559792028,20.090529247910865,28.0632582322357/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1449,7 +1449,7 @@ w here the examination may be prompt]
 I had always believed that a law bad  
 immediately passed to cans into execu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183943:1820011301:0299/pct:65.55664381325498,81.11111111111111,14.822069866144304,9.420289855072463/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183943:1820011301:0299/pct:65.54594418149176,81.10131626615143,14.825091126706926,9.423177555045687/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1511,7 +1511,7 @@ To miss the point will ever be the lot of
  the mist of theory, are constantly seeking  
 for an ideal perfection.&quot; There i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271744018:1878031201:0877/pct:54.122099720256706,114.68131365144754,47.14497284844496,11.900675134454744/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271744018:1878031201:0877/pct:18.040699906752234,38.22710455048251,15.714990949481653,3.9668917114849145/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

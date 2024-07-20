@@ -91,7 +91,7 @@ the laithful fubjecls of our free government, en­
 joy every temporal and spiritual felicity.  
 GEORGE WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790031701:0003/pct:5.954952175254551,6.179664363277394,57.142857142857146,88.84501480750247/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790031701:0003/pct:5.9780931811169395,6.179664363277394,57.142857142857146,88.86969397828233/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -184,7 +184,7 @@ zens will not forget the jiatriotick part which you
 took in the accomplishment of their revolutiott, and  
 the establishment of thi irgovernment.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805073101:0629/pct:31.39396817857991,69.18549156856507,20.137734504868202,5.902004454342984/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805073101:0629/pct:31.38651471984805,69.17448703674249,20.13888888888889,5.905042150469222/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -212,7 +212,7 @@ which you took in the accomplishment of
 their revolution, and the establishment  
 of their government.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805080901:0003/pct:39.12405699916178,65.97138654900388,17.958927074601846,8.70437224227838/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805080901:0003/pct:39.138027381950266,65.97138654900388,17.9519418832076,8.713286089940723/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -441,7 +441,7 @@ ful subjects of our Government, enjoy every tempo­
 ral and spiritnal felicity. |  
 GEORGE WASIHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1835061601:0093/pct:19.943511689941943,10.746685275645499,41.47183430095716,86.22935566410793/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1835061601:0093/pct:19.943511689941943,10.75056214623556,41.48752549819551,86.22935566410793/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -504,7 +504,7 @@ as the laithlul subjects ol our Government, enjoy every
 temporal and ^.irttual felicity.  
 (JF.UKCiC WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184091:1835061901:0057/pct:3.5056608921020325,2.1438676678637503,30.132314827445096,94.47165088693002/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184091:1835061901:0057/pct:3.5051827605019095,2.1436343852013056,30.132751409347154,94.46499818643453/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -526,7 +526,7 @@ in the arcumjilishiueiit oj their revolution, and the rsta
 blishment of tbrir Government?” Yet our Correspond­  
 ent suspects the C alholics ot being the deadliest foes t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184091:1835061901:0057/pct:18.810530623380167,13.875285667646098,14.772882280725685,3.5477201001197085/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184091:1835061901:0057/pct:18.80796508456083,13.873775843307943,14.775413711583925,3.550961189698948/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -903,7 +903,7 @@ spirit of Christianity, and still conducting themselves as ]
 the faithful subjects of our Government, enjoy every  
 temporal and spiritual 1! licity.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_armani_ver02:data:sn84024735:00415664229:1836110101:0528/pct:20.341334813375884,14.622266401590457,19.328430692382405,21.153081510934392/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_armani_ver02:data:sn84024735:00415664229:1836110101:0528/pct:20.350585079321032,14.625579854208086,19.323805559409834,21.153081510934392/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -991,7 +991,7 @@ the establishment of their government, or the
 tmportant which they recewved from a nalion,  
 n which the Roman Catholic faith is professed.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153267:1845123101:0592/pct:44.454569122624314,24.480033277870216,12.548815412652955,6.447587354409317/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153267:1845123101:0592/pct:44.46324741820706,24.483499722684414,12.544476264861581,6.451053799223517/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1062,7 +1062,7 @@ tiding themttlvf at th e faithful tubjectt of mv free govirnt,
 rujoy cptry leuijioral ami npiritual felicity.  
 &#x27; GEORGE WASHINGTON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:0041566123A:1854083001:0211/pct:21.10569105691057,42.6511161274141,15.577235772357724,16.466014547278654/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:0041566123A:1854083001:0211/pct:21.11111111111111,42.655296379901344,15.577235772357724,16.474375052253155/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1137,7 +1137,7 @@ fessed.&quot;?Writing- of Washington, Vol. XII, page 178. i
 The know-nothing conspirators insist that birth and sect J  
 shall be made tests of public confidence, and refuse to sup- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:0041566123A:1854090801:0243/pct:66.4390243902439,44.426270759939605,16.097560975609756,6.05183694011072/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:0041566123A:1854090801:0243/pct:66.44444444444444,44.43465861432646,16.10840108401084,6.05183694011072/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1200,7 +1200,7 @@ ing themselves as the faithful subjects of our freo
 Government, enjoy every temporal and spiritualfe­  
 licity  Gronoz wasm
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530455:1854090801:0051/pct:248.20092625578908,181.2046988252937,48.45030281439259,66.3709072731817/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530455:1854090801:0051/pct:82.73364208526303,60.40156627509789,16.150100938130862,22.123635757727236/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1243,7 +1243,7 @@ subject of our free government, enjoy
 every tetnpotal and spiritual fi-liciiy.  
 V GEORGE WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85038078:00296026815:1854090801:0401/pct:65.55269922879178,40.83615486530252,18.35904027420737,22.920653614014427/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85038078:00296026815:1854090801:0401/pct:49.19614147909968,30.63447666715737,13.783494105037514,17.194170469601058/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1335,7 +1335,7 @@ ernment, enjoy every temporal and spiritmmi
 felicity.  
 &quot;GEORGE WASHINGTON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn86083363:00415668831:1854091301:0652/pct:85.32520830742445,67.12328767123287,11.006093769431663,9.812692200167739/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn86083363:00415668831:1854091301:0652/pct:85.33349915018862,67.12639393657007,11.006093769431663,9.818904730842108/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1370,7 +1370,7 @@ foremost nations in examples of justice and
 liberality.&quot; But we have a secret society  
 among
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn86083363:00415668831:1854091301:0652/pct:85.25059072254695,79.75025626689032,10.96878497699291,5.824247507222067/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn86083363:00415668831:1854091301:0652/pct:85.25888156531111,79.7564687975647,10.964639555610828,5.8304600378964375/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1449,7 +1449,7 @@ ly in America, animated alone by the pi
 ristianity, and still conducting themselves  
 subjects of our free government, enjov ev
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:0041566123A:1854091501:0267/pct:37.248268084420815,48.19368741285334,11.632028355082971,20.10394219799721/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:0041566123A:1854091501:0267/pct:37.253638365286506,48.197912705454854,11.632028355082971,20.108167490598724/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1473,7 +1473,7 @@ the patriotic pari you took in the accomplishment of
 their revolution, and the establishment of their gov­  
 ernment, of the important assistance received from 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn82005159:00296028435:1854091501:0031/pct:63.452492944496704,82.70889965725091,14.722483537158984,4.6093842335421344/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn82005159:00296028435:1854091501:0031/pct:63.45771924323194,82.71283930189497,14.73816243336469,4.617263522830241/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1498,7 +1498,7 @@ tion, and the establishment of their government, or
 the important assistance received from a nation in  
 which the Roman Catholic religion is professed.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn82005159:00296028435:1854091501:0032/pct:37.0021950454688,74.778394988772,14.863593603010347,5.082141590828507/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn82005159:00296028435:1854091501:0032/pct:37.01264764293927,74.78627427806012,14.863593603010347,5.082141590828507/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1536,7 +1536,7 @@ from a nation in which the Roman Catholic religion
   
 is professed.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022731:1854091601:0302/pct:70.76119402985074,74.07364114552892,19.940298507462686,7.632963179427236/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022731:1854091601:0302/pct:53.082549634273775,55.55815312682642,14.95745633676668,5.727644652250146/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1553,7 +1553,7 @@ tled to the protection of civil government.
   
 I hope ever to see America among the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477837:1854091601:0030/pct:184.25391591096454,104.58869613878008,56.141797197032155,4.420817011751539/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477837:1854091601:0030/pct:46.09197772736647,26.14717403469502,14.044132810888843,1.1052042529378847/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1581,7 +1581,7 @@ ment of their revolution and the establish.
   
 ly defiance of all the dragooning, brow
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477837:1854091601:0030/pct:9.810387469084914,109.45719082260773,231.98680956306677,12.311135982092893/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477837:1854091601:0030/pct:2.4541142503608993,27.364297705651932,58.032584037945966,3.077783995523223/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1642,7 +1642,7 @@ o o a een ee e e oe  e o e e ee e e e ei e e  oeee o o
   
 wealth. Because under the present man that instance in which he has not shown are pleased to express of my conduct; and regard to thickness of plates and quality of metalo i  ti on te seon o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477837:1854091601:0030/pct:10.222588623248145,100.72747621712367,347.73289365210223,45.77504196978176/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477837:1854091601:0030/pct:2.55722829449371,25.181869054280916,86.98700763043927,11.44376049244544/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1814,7 +1814,7 @@ still conducting themselves as tho faithful subjects of
 our free government, enjoy every temporal and spir­  
 itual felicity. . GEORGE WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022639:1854092701:0367/pct:48.40487238979118,63.897937024972855,20.533642691415313,34.212812160694895/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022639:1854092701:0367/pct:36.326708254751196,47.92616720955483,15.406934571304221,25.656894679695984/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1881,7 +1881,7 @@ still conducting themselves as the faithful subjects of
 our free government, enjoy every temporal and spir-  
 tual felicity. uEOKGE WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022731:1854092701:0314/pct:50.43465227817746,65.06929762743717,20.11390887290168,33.36856941508104/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022731:1854092701:0314/pct:37.84107946026987,48.80197322057787,15.097451274362818,25.029363401456425/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1924,7 +1924,7 @@ the important assistance mey receiveu iruin
 a nation ii wuiuu iuo .jwiuuu yinuvo.  
 ligion IS :prpiessep,Tni&#x27;rMts of . wmftmy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035102:00296027078:1854092701:0276/pct:59.97130559540889,82.57625343631365,17.055236728837876,24.977091242309204/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035102:00296027078:1854092701:0276/pct:44.98654708520179,61.93219007723524,12.807174887892376,18.732818431731904/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1959,7 +1959,7 @@ of my conduct; and may the members of your society in
 - our free government, enjoy every temporal and spiritual  
 [. felicity. GEORGE WASHINGTON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:0041566123A:1854102401:0403/pct:82.43331164606376,55.738944185460504,17.35523747560182,9.147032883961195/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:0041566123A:1854102401:0403/pct:82.43331164606376,55.738944185460504,17.360659292995013,9.151232623577338/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1988,7 +1988,7 @@ ernment, or the important assistance they
 received from a nation in which the Roman  
 Catholic religion is professed.&quot; Writing
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn83025141:no_reel:1854110401:0154/pct:154.04891304347825,226.28026994839223,42.90760869565217,28.046843985708616/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn83025141:no_reel:1854110401:0154/pct:51.34963768115942,75.42675664946407,14.302536231884059,9.348947995236205/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2066,7 +2066,7 @@ as the faithful subject of our free institu­
 tions and Government, enjoy every tempo  
 ral apd spiritual felicity
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035102:00296027078:1854110801:0304/pct:58.429394812680115,37.75496775891565,17.237031700288185,51.94104487432557/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035102:00296027078:1854110801:0304/pct:43.82994055125203,28.319515725753387,12.934606377229327,38.965653375444134/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2178,7 +2178,7 @@ of their government- or the important assistance
 which they received from a nation in which the  
 Roman Catholic faith is professed.&quot;- Life of Wash
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293198:1855021301:0149/pct:126.89912826899128,226.99256110520722,50.0,58.42484354705396/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293198:1855021301:0149/pct:31.73466209903457,56.748140276301804,12.503892868265337,14.60621088676349/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2201,7 +2201,7 @@ iUiili:i ihlttlid to the protection oj ctril jrernneit,
 the toieiiiost na-  
 lions in examples of justice and liberality
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022639:1855021401:0451/pct:46.01490825688074,58.65038700534176,20.97190366972477,4.622260983320615/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022639:1855021401:0451/pct:34.528247777459136,43.98779025400632,15.72985374247204,3.4666957374904612/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2227,7 +2227,7 @@ government or the important assistance which they
 received from a nation in which the Roman Catho­  
 lic faith is professed.&quot; Life of Washington, p. l&#x27;J7
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022743:1855021401:0055/pct:45.876288659793815,59.12979711561965,20.057610673135233,7.663163040821315/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022743:1855021401:0055/pct:34.43045654482027,44.353458812026396,15.046261186106477,5.744316792960157/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2298,7 +2298,7 @@ of their government or the -important assis
 tance wsica they received from a nation in  
 wench tbesRotnanrGathoUo-faith is professed.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn86071378:0021247762A:1855030101:0497/pct:65.69506726457399,17.27977977977978,19.650864830237026,6.956956956956957/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn86071378:0021247762A:1855030101:0497/pct:49.28720166586577,12.962962962962964,14.736504885471728,5.217717717717718/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2327,7 +2327,7 @@ fast assietaar &#x27; whieh thap reeoirsd from
 n nation in which the Uomad&#x27;Catholic faith  
 ic professed.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059861:00514157364:1855030701:0042/pct:5.230050323508268,5.900621118012422,25.970524802300503,91.0067287784679/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059861:00514157364:1855030701:0042/pct:5.22911051212938,5.899857678871782,25.97035040431267,90.99818864018631/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2357,7 +2357,7 @@ ance which they received from a nation
 in which the Roman Catholic faith is  
 professed.&quot;  Life of Washington pag
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774947:1855030901:0046/pct:88.9871382636656,52.45382585751979,56.02893890675241,37.73087071240106/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774947:1855030901:0046/pct:22.255729794933654,13.113456464379947,14.01286690792119,9.432717678100264/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2383,7 +2383,7 @@ ment of their government, or the important assis­
 tance which they received from a nation in which  
 the Roman Catholic religion is professed.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022743:1855031001:0083/pct:2.3658830620855937,63.00704396405149,19.4544906570223,7.736215691037163/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022743:1855031001:0083/pct:1.7789838685361072,47.25528297303862,14.608774310266847,5.805197959679378/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2411,7 +2411,7 @@ m : t of their government, er the impOrlant assis- -;
 Unco I. ich they received from a nation in which ;  
 the Roman Catholic religion is professed.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022639:1855031401:0465/pct:2.739331026528258,71.05954465849388,19.434832756632066,8.099824868651488/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022639:1855031401:0465/pct:2.0623017017594463,53.2946584938704,14.580328814537063,6.074868651488616/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2448,7 +2448,7 @@ lion, ami the establishment of their government, &lt;
 the important u-?it&gt;taiice tliey received Irom u imlioi  
 in which tiiu Koiiiun Catholic religion is professed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1855031601:0568/pct:29.616114435848782,36.82390239216063,14.596409283316305,8.588721298875972/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1855031601:0568/pct:29.616114435848782,36.827104749095334,14.615871162360726,8.588721298875972/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2490,7 +2490,7 @@ will not forge.t the patriolio part wbich&#x27;you
 took in the accomplishment of, their gov­  
 ernnieut or the important assistance the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027509:1855032101:0586/pct:26.670609107037254,65.08442555201323,16.839148432879952,20.002361553902468/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027509:1855032101:0586/pct:20.008873114463178,48.81331916400992,12.644188110026619,15.007675050183021/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2523,7 +2523,7 @@ eondtictiny themie.lvet n? the faithful ? uhjectt of our free
 i rnment, enjoy terry temporal unit npiritual felicity,  
 &quot; QEORQE WASHINGTON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855032201:0363/pct:5.347679460414325,63.84517766497462,15.882447406455757,9.543147208121827/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855032201:0363/pct:5.347679460414325,63.853637901861255,15.893153471441572,9.543147208121827/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2578,7 +2578,7 @@ government—or the important assistance which
 tl ey received horn a nation iri w kick Ilia Human  
 Catholic iaillr is protested.” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024652:00393348689:1855033101:0236/pct:83.39272986457591,18.228325255788906,12.972202423378475,6.044695745826602/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024652:00393348689:1855033101:0236/pct:83.37787279529664,18.225871584331674,12.97434526990914,6.047247274195719/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2620,7 +2620,7 @@ the faithful subjects of our free government,
 enjoy every temporal and spiritual felicity.  
 GEORGe WASHixGTON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn83025141:no_reel:1855033101:0237/pct:57.82668500687758,135.01489572989075,42.91609353507565,46.9116186693148/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn83025141:no_reel:1855033101:0237/pct:19.27556166895919,45.00496524329692,14.305364511691884,15.637206223104933/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2688,7 +2688,7 @@ portant assistance which they received
 from a nation in which the Roman  
 Catholic faith is protessed.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774947:1855042701:0081/pct:142.03252032520325,324.56783656364587,56.260162601626014,37.87323205866946/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774947:1855042701:0081/pct:35.52257015046767,81.14195914091147,14.070760471736477,9.468308014667365/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2714,7 +2714,7 @@ Government, or the important H*si?tauco which !
 they received from a nation in which the Ro- |  
 man Catholic religion is professed.&quot; Shame, then. I 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1855051501:0633/pct:69.32356742783283,88.23078397546483,14.864282636794485,4.6578493387004025/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1855051501:0633/pct:69.32356742783283,88.23717334355632,14.869069845373163,4.6578493387004025/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2791,7 +2791,7 @@ as the faithful subjects of our government,
 e-ijoy every temporal and spiritual felicity,  
 GEORGE WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn84028794:00296026670:1855052301:0999/pct:38.375451263537904,8.331111703545721,33.68231046931408,121.60757131431619/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn84028794:00296026670:1855052301:0999/pct:28.806212750586962,6.25166622234071,25.266389741737402,91.2156758197814/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2861,7 +2861,7 @@ faithful subjects of our government, enjoy every
 temporal and spiritual felicity.  
 GEORGE WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293198:1855060701:0541/pct:172.80701754385964,53.180570473803556,51.37844611528822,95.52452559971357/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293198:1855060701:0541/pct:43.208522638257875,13.295142618450889,12.846623844587185,23.881131399928393/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2891,7 +2891,7 @@ yths pare spirit of Christianlty, and athf conducting themaciver
 as the faithful subjects of our free Government, enjoy  
 every temporal and spiritual telicity&quot; ICheecsl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530479:1855062801:0405/pct:200.87733818904155,6.7073901065995924,90.99486839927164,288.7052341597796/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530479:1855062801:0405/pct:66.95911272968051,2.235796702199864,30.331622799757216,96.23507805325987/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2919,7 +2919,7 @@ pure spirit of Christianity, and still conducting themselves
 as the faithful subjects or our free government, enjoy for  
 ever every temporal and spiritual felicity
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:0027174321A:1855062801:1413/pct:201.21143595541915,115.0103998151144,45.51768696494912,15.29928356829212/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:0027174321A:1855062801:1413/pct:67.07047865180638,38.33679993837146,15.172562321649707,5.099761189430707/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2947,7 +2947,7 @@ the important ass stance which they received from
 a nation in which the Roman Catholic religion is  
 professed.&quot; And again in his letter to the Ba
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293204:1855070101:0005/pct:182.30579531442663,48.68405382874836,48.82860665844636,24.389662974871978/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293204:1855070101:0005/pct:45.59050262102991,12.17101345718709,12.210915818686402,6.0974157437179946/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2968,7 +2968,7 @@ ducting themselves as the faithful subjects of our
 froe government, enjoy for ever every temporal  
 uud spiiitual felicity
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82014835:00415661514:1855070301:0210/pct:69.35756002595717,7.467429297743883,12.783906554185593,3.3788793560004238/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82014835:00415661514:1855070301:0210/pct:69.36621241617998,7.474490696606998,12.779580359074194,3.382410055431981/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2998,7 +2998,7 @@ ducting themselves as the faithful subjects of our
 froe government, enjoy for ever every temporal  
 and spititual felicity
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82014835:00415661514:1855070301:0212/pct:70.48257372654156,3.9454199280727735,13.2171581769437,7.414850856780199/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82014835:00415661514:1855070301:0212/pct:70.48257372654156,3.9454199280727735,13.221626452189454,7.421902545659686/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3034,7 +3034,7 @@ tVi neat r their G-Kernmsht. or the important as-&#x27;
 flanre which they received from a nation in which  
 tin-Roman Catholic Faith is professed.&#x27;&#x27; By th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022639:1855070401:0532/pct:0.9758897818599311,51.47753487861144,19.316877152698048,14.588597165769526/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022639:1855070401:0532/pct:0.7320223912731448,38.61364385367461,14.496914023252476,10.941447874327144/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3071,7 +3071,7 @@ i .:.&#x27;.! their Goeernmsat, or the important as-
 raiice which iney recetvea irom a nation in wnicn  
 ,: Rmuiuii Catholic Faith is professed.&quot; By th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022743:1855070401:0223/pct:0.6137724550898204,51.33398011156925,18.48802395209581,14.249333009944216/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022743:1855070401:0223/pct:0.4641413385237311,38.503516856657775,13.864350950741128,10.683967984477322/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3158,7 +3158,7 @@ faithful sutjects of our government, enjoy every
 temporal and spiritual felicity.  
 March, 1790. GEORGE WASHINGTON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293204:1855071101:0033/pct:20.413274890419537,131.91439044578456,50.78271759549155,92.84616294194159/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293204:1855071101:0033/pct:5.103318722604884,32.97859761144614,12.695679398872887,23.211540735485396/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3236,7 +3236,7 @@ ment; or the important assistance they
 received from a nation in which the  
 Roman Catholic faith is professed.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774947:1855072001:0123/pct:318.8254223652454,121.02510460251047,56.23491552695093,32.74058577405858/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774947:1855072001:0123/pct:79.72238986119493,30.256276150627617,14.061557030778516,8.185146443514645/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3292,7 +3292,7 @@ the faithful subjects of our free governy
 ment, enjoy every temporal and spiritual  
 felicity.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279559836:1855080401:1217/pct:56.19458967947261,44.852050527772974,104.95567174357808,337.03062813635574/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279559836:1855080401:1217/pct:14.045454545454545,11.211072664359861,26.232954545454547,84.24307958477509/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3333,7 +3333,7 @@ government; or the important assistance
 they received from a nation tn which the  
 Roman Cuvwlic faith is professed.&quot; (be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027492:1855090501:0047/pct:92.06040669856459,95.44197233914612,16.507177033492823,21.034275405892963/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027492:1855090501:0047/pct:69.05936892477942,71.58147925435959,12.382234185733513,15.778713168971738/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3362,7 +3362,7 @@ ant assistance, which they received from a na­
 tion in which the Roman Catholic religion is  
 professed.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn84022882:00414212426:1855091101:0262/pct:72.21414408460014,23.764145324597976,11.434236615994713,6.472106412547151/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn84022882:00414212426:1855091101:0262/pct:72.20459952418716,23.76178660049628,11.4360296061327,6.47394540942928/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3493,7 +3493,7 @@ government, or the important assistance which they
 received from a nation in which the Roman Catholic  
 Religion is professed Writings of Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879087:1855121401:0416/pct:26.289207868155238,115.56039173014146,20.095693779904305,7.755465426847364/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879087:1855121401:0416/pct:19.728795533102897,86.67523988525076,15.075777718691837,5.816599070135523/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3514,7 +3514,7 @@ their Government, or the impertant assistance which they re-­
 ceived fom a nation in which the Roman Catholic religion is  
 professed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743233:1856022301:0431/pct:41.92262991864519,140.0457142857143,53.445127013116384,7.234285714285714/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743233:1856022301:0431/pct:13.97420997288173,46.68190476190476,17.815042337705464,2.4114285714285715/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3540,7 +3540,7 @@ the name of Washington to sanction their big­
 otry ?  
 Again : Let it be hoped that those wh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021205:00517171931:1856022301:0166/pct:70.52973799961752,48.809354056751744,15.643526486899981,6.987024098103522/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021205:00517171931:1856022301:0166/pct:54.66627142927721,37.83475153792316,12.133787856331208,5.411279331049472/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3753,7 +3753,7 @@ which they received from a nation in
 which the Reman Catholic faith is pro­  
 fessed.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_chekhov_ver01:data:sn84026847:00415665039:1866122101:0491/pct:37.17772692601068,21.145564168819984,12.143401983218917,7.590439276485788/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_chekhov_ver01:data:sn84026847:00415665039:1866122101:0491/pct:37.18789727943046,21.14915302899799,12.153572336638698,7.594028136663796/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3799,7 +3799,7 @@ ment of our Government, and in the valuable assistance
 which we received from a nation down-trodden and  
 professing the Catholic religion
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536147:1872112201:0536/pct:118.02281368821293,65.5978820414767,50.57034220532319,10.119135166936314/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536147:1872112201:0536/pct:29.522541373406884,16.399470510369174,12.649800266311585,2.5297837917340784/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3821,7 +3821,7 @@ important assistance which they received from
 a nation in which the Roman Catholic faith  
 is professed.&quot; The gratitude which the coun
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:00271743932:1875042701:0409/pct:55.52066115702479,211.2325929335942,46.95867768595041,15.214639198987225/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:00271743932:1875042701:0409/pct:18.506887052341597,70.41086431119807,15.652892561983471,5.071546399662409/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3851,7 +3851,7 @@ portant assistance which they received
 from a nation in which the Roman  
 Catholic - faith is professed.&quot; Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn85033699:00200293514:1875050101:0422/pct:22.887323943661972,73.45612134344529,14.128521126760564,9.404117009750813/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn85033699:00200293514:1875050101:0422/pct:17.170531259172293,55.09209100758397,10.610507778103903,7.05308775731311/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3874,7 +3874,7 @@ sistance which they received from a
 nation in which the Roman Catholic  
 faith is professed. The gratitud
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477862:1875051201:0787/pct:98.2017200938233,345.0086555106751,39.09304143862393,16.09924985574149/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477862:1875051201:0787/pct:24.56003128666406,86.25216387766878,9.777082518576456,4.024812463935373/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3942,7 +3942,7 @@ the futlifnl subjects of our free Government, en­
 joy every temporal aud spiritual felicity.  
 George Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555651:1875092301:0474/pct:76.73357664233576,83.48830656522964,16.67883211678832,29.092702169625248/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555651:1875092301:0474/pct:57.57575757575758,62.6232741617357,12.522818546914932,21.823048746125668/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4038,7 +4038,7 @@ ment, enjoying every temporal and spir-
 ual felicity.&quot;  
 WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_juliet_ver01:data:sn85033413:00211101179:1876010701:0867/pct:69.86831913245545,23.18427798348049,101.31680867544539,355.68214183993166/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_juliet_ver01:data:sn85033413:00211101179:1876010701:0867/pct:17.47723309436156,5.796069495870123,25.343925595814763,88.92053545998291/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4104,7 +4104,7 @@ four free Government, eo Joy every
 amnnral anil ani ritual fallnlt  
 r - r . . 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_frank_ver01:data:sn86053406:00296020813:1876020401:0053/pct:11.590038314176246,49.17175239755885,15.756704980842912,10.46207497820401/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_frank_ver01:data:sn86053406:00296020813:1876020401:0053/pct:8.701900047900367,36.87881429816914,11.81542391825004,7.846556233653008/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4127,7 +4127,7 @@ important easistanee which they received from
 a Eiation in which the Roman Cathollo faith is  
 pro feseedl.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_Cypher_ver01:data:sn86086284:00280762027:1876062501:0784/pct:50.030819806862546,65.38332212508406,15.759194575713993,4.421654337592468/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_Cypher_ver01:data:sn86086284:00280762027:1876062501:0784/pct:50.030819806862546,65.37233148428307,15.759194575713993,4.420911077492016/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4289,7 +4289,7 @@ worthy members of the community are
 equally entitled to the protection of the  
 civil government. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_odona_ver04:data:sn86092523:00383341723:1884110901:0014/pct:29.57766642806013,56.99384065169879,11.567644953471724,3.2684283727399164/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_odona_ver04:data:sn86092523:00383341723:1884110901:0014/pct:29.573432579444603,56.98817919936426,11.57076056875656,3.2714148538127876/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4407,7 +4407,7 @@ I hope ever to see America among the
 foremost nations in examples of justice and  
 liberality. — Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn86077146:00513685129:1887112301:1098/pct:7.921854873336196,43.272555800062875,13.482181193645342,1.9805092738132664/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn86077146:00513685129:1887112301:1098/pct:7.920154539600773,43.26575514694326,13.484653359089933,1.9841269841269842/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4637,7 +4637,7 @@ faithful subjects of our free government ,
 enjoy every temporal and spiritual  
 felicitv. G. WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_chadron_ver01:data:sn99021999:0020653963A:1889050401:0491/pct:44.55128205128205,22.0833899225859,12.784900284900285,31.16936031508896/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_chadron_ver01:data:sn99021999:0020653963A:1889050401:0491/pct:44.55128205128205,22.0833899225859,12.784900284900285,31.179546380551404/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4726,7 +4726,7 @@ ution, or the important aid from a
 nation in which the Roman Cath­  
 olic faith was professed.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_kubb_ver01:data:sn83045350:00393341610:1890050801:0221/pct:56.82192425311691,81.80622121981017,9.774170783345095,3.946997462644488/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_kubb_ver01:data:sn83045350:00393341610:1890050801:0221/pct:49.7221269296741,71.58676643916344,8.55917667238422,3.456404352712222/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4765,7 +4765,7 @@ faithful subjects of our free govern­
 ment, enjoy every temporal and spirit­  
 ual felicity.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_gum_ver01:data:sn94053256:00271763098:1891022601:0202/pct:52.50481695568401,33.267387003500225,14.771997430956969,9.846294323542839/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_gum_ver01:data:sn94053256:00271763098:1891022601:0202/pct:39.40562248995984,24.958149444528992,11.08433734939759,7.38091614670522/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4790,7 +4790,7 @@ important assistance which they received
 from a Nation in which the Catholic faith is  
 professed,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_franklin_ver01:data:sn82016187:00211102317:1891091701:0399/pct:39.89504843918191,107.29290527150218,16.778794402583422,8.05588585017836/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_franklin_ver01:data:sn82016187:00211102317:1891091701:0399/pct:29.93270524899058,80.46967895362664,12.584118438761777,6.044391597304796/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4825,7 +4825,7 @@ important assistance they received from
 a nation in which the Roman Catholic  
 faith is professed.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_betelgeuse_ver01:data:sn90059959:00271742824:1892101501:0646/pct:7.457034663559569,84.41624884886933,14.12758520244684,6.998874450015348/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_betelgeuse_ver01:data:sn90059959:00271742824:1892101501:0646/pct:7.461889503835324,84.42307036392783,14.12758520244684,6.992052934956854/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4852,7 +4852,7 @@ the important assistance which they re­
 ceived from a nation in which the Ro­  
 man Catholic faith is professed.” Gen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_holt_ver01:data:sn86092523:00414186701:1893022601:0389/pct:30.912921348314608,18.874987685942273,12.457865168539326,6.1767313565165995/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_holt_ver01:data:sn86092523:00414186701:1893022601:0389/pct:30.90858025558208,18.87312844759653,12.46079670458269,6.179406356711321/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4917,7 +4917,7 @@ assistance which they received from
 a nation in which the Roman  
 Catholic religion is professed.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_neon_ver01:data:sn89064525:00212479251:1893111001:0293/pct:48.30977258758451,39.52692796403089,10.534726490473263,9.168214250806372/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_neon_ver01:data:sn89064525:00212479251:1893111001:0293/pct:44.68617343844755,36.56199144114279,9.75212249848393,8.483515158821048/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4948,7 +4948,7 @@ should reply to said article by* refut­
 ing the historical fact quoted therein  
 that the first steps to wards religiou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_neon_ver01:data:sn89064525:00212479251:1893111001:0294/pct:37.96319018404908,14.114669522048088,10.723926380368098,8.536941497128394/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_neon_ver01:data:sn89064525:00212479251:1893111001:0294/pct:35.11652542372882,13.059007143285912,9.93114406779661,7.899633831562519/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5042,7 +5042,7 @@ portant assistance which they received
 rom a nationin which the Roman Ga­  
 tholic faith is professed.,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_maia_ver01:data:sn83045239:00295876621:1893121401:0633/pct:2.8319606993209074,82.34297214278149,25.083080479699465,10.592098294672175/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_maia_ver01:data:sn83045239:00295876621:1893121401:0633/pct:2.8415932187063526,82.34650284221304,25.09271299908491,10.59915969353529/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5073,7 +5073,7 @@ ordinary candor of my fellow-citizens of
 all denominations.  
 o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_forks_ver01:data:sn83045604:0020219929A:1894031701:0141/pct:54.72600753841693,143.86461280519754,37.53261815018846,6.737923084983758/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_forks_ver01:data:sn83045604:0020219929A:1894031701:0141/pct:18.242002512805644,47.95487093506584,12.510872716729487,2.2459743616612524/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5101,7 +5101,7 @@ themseives as the faithful subjects of our
 free Government, enjoy every temporal  
 and spiritual felicity
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_forks_ver01:data:sn83045604:0020219929A:1894031701:0141/pct:54.72600753841693,151.1474379126061,37.53261815018846,16.12700408676517/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_forks_ver01:data:sn83045604:0020219929A:1894031701:0141/pct:18.242002512805644,50.382479304202036,12.510872716729487,5.375668028921723/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5157,7 +5157,7 @@ felicity.&quot;,
   
 SAYS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_betelgeuse_ver01:data:sn90059959:00271742836:1894032401:0599/pct:50.088235294117645,5.856811067353327,28.955882352941178,89.7606785822478/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_betelgeuse_ver01:data:sn90059959:00271742836:1894032401:0599/pct:50.09803921568628,5.863543034097412,28.955882352941178,89.7606785822478/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5177,7 +5177,7 @@ worthy members of a community are
 equally entitled to the protection of our  
 civil government.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_betelgeuse_ver01:data:sn90059959:00271742836:1894033101:0604/pct:20.952659263588544,16.82452388226907,14.18760958503799,3.1673286485385477/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_betelgeuse_ver01:data:sn90059959:00271742836:1894033101:0604/pct:20.95752970972141,16.82791866109923,14.19735047730372,3.1673286485385477/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5290,7 +5290,7 @@ ment, or the important assistance which
 they received from a nation in which  
 the Roman Catholic faith is professed.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:okhi:batch_okhi_beaver_ver01:data:45043535:00237280350:1895100101:0295/pct:79.53655352480418,26.913700633837152,55.61357702349869,19.258898098488544/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:okhi:batch_okhi_beaver_ver01:data:45043535:00237280350:1895100101:0295/pct:53.06988896146309,17.942467089224767,37.09993468321358,12.847391516333495/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5326,7 +5326,7 @@ ing themselves as the faithful subjects,
 of our free government, enjoy every tem­  
 poral and spiritual felicity.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_betelgeuse_ver01:data:sn90059959:0027174285A:1895113001:0005/pct:56.82313617206801,5.830618892508143,12.658043888969626,12.301845819761128/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_betelgeuse_ver01:data:sn90059959:0027174285A:1895113001:0005/pct:56.82313617206801,5.837857401375317,12.667732403235965,12.294607310893955/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5367,7 +5367,7 @@ their Government, or the important assistance
 which they received from a nation in which  
 the Roman Catholic faith is professed.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_dogtown_ver01:data:sn85066387:00175037317:1895122101:0609/pct:15.9510130027215,30.31694478665024,13.108557605080133,10.269907044461865/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_dogtown_ver01:data:sn85066387:00175037317:1895122101:0609/pct:15.9510130027215,30.31694478665024,13.123677048684609,10.284839661029604/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5398,7 +5398,7 @@ nation iu which the Roman Catholic a
 faith is professed.” &lt;  
 Iu the days of the Revolution, iu | 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_frederick_ver03:data:sn89060092:00279521894:1896030601:0095/pct:14.01539448364336,59.00606348828914,13.422065426555484,8.191653786707883/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_frederick_ver03:data:sn89060092:00279521894:1896030601:0095/pct:14.01539448364336,59.01398961677169,13.43810134701732,8.199579915190425/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5528,7 +5528,7 @@ still conducting themselves as the faithful sub­
 jects of our free government, enjoy ever)- tem­  
 poral and spiritual felicity.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn82006687:00415623574:1896042301:0479/pct:34.61181154611811,27.904667328699105,11.426675514266755,10.956636875206884/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn82006687:00415623574:1896042301:0479/pct:34.61181154611811,27.904667328699105,11.431099314310993,10.967670749200044/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5557,7 +5557,7 @@ or the Important assistance which they
 received from a nation In which the Ro­  
 man Catholic faith Is professed.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovelock_ver01:data:sn85042461:00280769678:1896061001:0430/pct:55.084082909659756,48.352958712177674,12.4168947985921,6.290058130868982/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovelock_ver01:data:sn85042461:00280769678:1896061001:0430/pct:55.084082909659756,48.36041138768818,12.426671881110677,6.286331793113728/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5681,7 +5681,7 @@ not forget the patriotic part which you Irish
 took in the accomplishment of our rebellion,  
 and in the valuable assistance which we receive
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_goethe_ver01:data:sn83030272:00175042891:1896101802:0824/pct:81.12781954887218,230.75759866928777,51.42857142857143,15.000756086496295/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_goethe_ver01:data:sn83030272:00175042891:1896101802:0824/pct:20.281954887218046,57.68939966732194,12.857142857142858,3.750189021624074/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5769,7 +5769,7 @@ sistance which they received from a na­
 tion in which the Roman Catholic faith  
 is professed.’ 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_irwin_ver01:data:sn86092518:00340582238:1898053101:0411/pct:20.735717221537197,34.287531806615775,15.248664200575421,5.521628498727735/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_irwin_ver01:data:sn86092518:00340582238:1898053101:0411/pct:20.731456749537703,34.283170080142476,15.250667762482022,5.524106347792902/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5863,7 +5863,7 @@ of tue constitution, or the important
 aid from a nation in which the Ro­  
 man Catholic faith was professed.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_neon_ver01:data:sn89064515:00212479020:1898090901:0276/pct:63.39604281543951,47.87743732590529,14.15828738241972,4.947075208913649/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_neon_ver01:data:sn89064515:00212479020:1898090901:0276/pct:63.39604281543951,47.8811513463324,14.179911341766678,4.943361188486537/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5885,7 +5885,7 @@ the important assistance which they
 received from a nation in which the Ro­  
 man Catholic faith is professed.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_betelgeuse_ver01:data:sn90059959:00271742861:1898092401:0557/pct:44.0105640445199,27.829099307159353,12.356159215242407,4.662240184757506/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_betelgeuse_ver01:data:sn90059959:00271742861:1898092401:0557/pct:44.01528013582343,27.829099307159353,12.365591397849462,4.680282909930716/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5962,7 +5962,7 @@ establishment of their government.&quot;
 The second instance: &quot;Our war with  
 the Confederate states, as we now kno
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_betelgeuse_ver01:data:sn90059959:00271742861:1899032501:0768/pct:18.04597701149425,30.555555555555557,12.126436781609195,5.33625730994152/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_betelgeuse_ver01:data:sn90059959:00271742861:1899032501:0768/pct:18.055555555555557,30.555555555555557,12.126436781609195,5.343567251461988/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6000,7 +6000,7 @@ I they will prove a graven monument of I
 shame and reproach to the vile brood  
 of conspirators who seek to ostracis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_kirilenko_ver01:data:sn93062856:0020653574A:1899123001:0100/pct:81.95843828715365,117.39806688145761,19.600125944584384,8.876791467614709/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_kirilenko_ver01:data:sn93062856:0020653574A:1899123001:0100/pct:54.661417322834644,78.26537792097174,13.070866141732283,5.921564270636596/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

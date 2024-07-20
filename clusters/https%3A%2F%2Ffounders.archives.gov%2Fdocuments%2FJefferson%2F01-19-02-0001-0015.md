@@ -50,7 +50,7 @@ ted States, in like manner and to all intents and purposes, as if the
 lame had been within the purview of the above recited ast, Pro­  
 tided,, That nothing herein contained, shall authorize the erectio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791031601:0004/pct:10.444444444444445,74.77934272300469,28.126984126984127,11.11737089201878/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791031601:0004/pct:10.46031746031746,74.79342723004694,28.126984126984127,11.112676056338028/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -136,7 +136,7 @@ mnning another direst line, at a right angle with the firft, across
 the Parowmac, ten miles for the second line : then from the termi­  
 nations of the said firft and second lines, running two other direst
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791040901:0003/pct:35.38663171690695,29.472874182377836,28.60419397116645,21.489034243939976/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791040901:0003/pct:35.41120576671035,29.472874182377836,28.60419397116645,21.513081954597922/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -197,7 +197,7 @@ and bounds defined and limited, and thereof to make due report
 under their hands and seals; and the territory so to be located,  
 defined, and limited, (hall
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791041301:0004/pct:38.30958549222798,14.143349942506708,28.95077720207254,27.155998466845535/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791041301:0004/pct:38.32577720207254,14.148141050210809,28.95077720207254,27.160789574549636/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -244,7 +244,7 @@ The inhabitants of the town of Pors­
 land, have taken into consideration the  
 fubjeét of the separation of the Difric
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791042301:0788/pct:71.86595949855352,4.659035950346606,21.022179363548698,27.29324520393358/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791042301:0788/pct:71.86595949855352,4.669783438121339,21.030215364834458,27.29324520393358/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -269,7 +269,7 @@ shall form a part of the diftri not ex­
 ceeding ten miles square, for the per­  
 manent feat of the government” of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791051201:0799/pct:28.065526379185737,84.50007973210015,20.33245001204529,9.05756657630362/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791051201:0799/pct:28.073556572713404,84.50539520544305,20.33245001204529,9.062882049646522/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -326,7 +326,7 @@ In thefe ie veral acts of cefton and accept- 1
 ince it, was provided, that the operation of &lt;  
 the (late law,s thould not thereby be affected,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801042401:0004/pct:2.7250868287469943,9.830508474576272,24.52578145872295,14.947538337368846/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801042401:0004/pct:2.7339923412592393,9.835889157923056,24.534686971235196,14.952919020715632/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -432,7 +432,7 @@ fax, and is recognized by the acts of retroces
 sion. The south buu .d^iry of the city is from  
 near the Stone Bridge to Jones&#x27; Point, identi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_fezza_ver01:data:sn85025007:00415663778:1876111001:0436/pct:4.551860202931229,47.497123130034524,16.023111612175875,13.50210970464135/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_fezza_ver01:data:sn85025007:00415663778:1876111001:0436/pct:4.551860202931229,47.50351617440225,16.02780909432544,13.505306226825214/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -460,7 +460,7 @@ and the other the Potomac, and meeting in a
 point.  
 These lines are defined in a proclamation b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_yorkie_ver01:data:sn83045462:00280654528:1879102501:0131/pct:16.362651255192343,34.414879174585934,13.472999819396785,5.511811023622047/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_yorkie_ver01:data:sn83045462:00280654528:1879102501:0131/pct:16.36867136235025,34.41940447099285,13.466979712238878,5.5163363200289615/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -490,7 +490,7 @@ The cornerstone of the District, at Jones&#x27;
 Point, was placed in position with the Imposing  
 ceremonies of the ancient order of Free an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_newfoundland_ver04:data:sn83045462:00280654541:1880112001:0157/pct:17.057569296375267,79.31326833403985,13.47547974413646,6.337431114879186/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_newfoundland_ver04:data:sn83045462:00280654541:1880112001:0157/pct:17.061122956645345,79.31856718948707,13.482587064676617,6.34272997032641/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -520,7 +520,7 @@ direct lines of ten miles each. The one crossing the
 eastern branch aforesaid and the other the Potomac,  
 and meeting each other in a point.&quot; The plot, te
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_isuzu_ver01:data:sn83030214:00175038620:1893042301:0769/pct:99.30912596401028,171.0468681559352,75.33740359897172,30.946123521681997/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_isuzu_ver01:data:sn83030214:00175038620:1893042301:0769/pct:33.103041988003426,57.015622718645055,25.112467866323907,10.315374507227332/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -548,7 +548,7 @@ branch aforesaid and llio other tho
 l&#x27;otouiae, and mooting each other in a  
 point.&quot; Tho plot, ten miles aquaro wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_france_ver01:data:sn84026844:00202193596:1893042501:0788/pct:2.1195172210774214,43.46733668341709,17.72151898734177,7.035175879396985/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_france_ver01:data:sn84026844:00202193596:1893042501:0788/pct:2.1415955254636443,43.46733668341709,17.72151898734177,7.039363484087102/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -644,7 +644,7 @@ the proprietors refused to sign the deeds. The
 work must be done over. Again he summoned  
 the Commissioners to Georgetown. Hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:00175042908:1896112901:0397/pct:181.88512518409425,201.51929504709815,48.52724594992636,37.192342752962624/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:00175042908:1896112901:0397/pct:45.47128129602356,50.37982376177454,12.13181148748159,9.298085688240656/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -680,7 +680,7 @@ not exceeding ten miles square, for the per­
 manent seat of government of the United  
 State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_havanese_ver01:data:sn83045462:00280655107:1896121901:0145/pct:57.18237138115434,18.283120099050763,13.75622349253181,8.845783464025313/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_havanese_ver01:data:sn83045462:00280655107:1896121901:0145/pct:57.19620136455836,18.286559361672857,13.75622349253181,8.852661989269501/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -704,7 +704,7 @@ act of Congress as the District for the per­
 manent seat of government of the United  
 States.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_havanese_ver01:data:sn83045462:00280655107:1896121901:0145/pct:57.16393140328232,27.858027238959966,13.75622349253181,4.0170587426055855/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_havanese_ver01:data:sn83045462:00280655107:1896121901:0145/pct:57.168541397750325,27.86146650158206,13.765443481467821,4.0204980052276795/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -743,7 +743,7 @@ point.
 missioners named mulct the authority of  
 the said first mentioned ad of Congres
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_harry_ver01:data:sn82016187:00211102366:1897111801:0019/pct:23.5949098621421,94.64,16.675503711558854,13.77/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_harry_ver01:data:sn82016187:00211102366:1897111801:0019/pct:17.700875099443117,70.98,12.516573853089366,10.33/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -768,7 +768,7 @@ accepted by the said act of Congress as
 the district. Tor he permanent seat of  
 Government of the United .Stales.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_harry_ver01:data:sn82016187:00211102366:1897111801:0019/pct:23.78048780487805,108.96,16.51643690349947,5.98/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_harry_ver01:data:sn82016187:00211102366:1897111801:0019/pct:17.84672500662954,81.72,12.39724211084593,4.49/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

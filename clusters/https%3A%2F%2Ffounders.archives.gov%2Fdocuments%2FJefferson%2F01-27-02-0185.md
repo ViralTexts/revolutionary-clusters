@@ -70,7 +70,7 @@ os this mcafure is founded.
 And to be, tte.  
 Th : JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798022001:0003/pct:55.61072492552135,8.825859610204406,16.037735849056602,22.848993820313737/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798022001:0003/pct:55.62313803376365,8.833782284899382,16.043942403177756,22.848993820313737/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -101,7 +101,7 @@ quatur heretofore granted to you, and to make public
 these letters patent.  
 I have the honor to be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024669:00414184741:1863060601:0268/pct:14.737186834779761,85.85823488533704,44.326183068609794,22.978920546675933/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024669:00414184741:1863060601:0268/pct:4.911591355599215,28.61609727851766,14.772975332896747,7.658753136460143/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -133,7 +133,7 @@ tofore granted to you, and to make public these
 letters patent  
 I have the honor to be your ob&#x27;t sery&#x27;t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:0020029001A:1863061001:0226/pct:202.7663331371395,88.19770946353225,42.26015303119482,29.077757685352623/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:0020029001A:1863061001:0226/pct:50.6990434142752,22.049427365883062,10.566593083149375,7.269439421338156/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -221,7 +221,7 @@ exequatur heretofore granted to you, and to
 make public these letters patent;  
 I have the honor to be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349475:1863061201:0033/pct:58.7641692009953,20.853909465020575,12.676251036770804,9.938271604938272/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349475:1863061201:0033/pct:58.75604699378024,20.85176422178788,12.679106196728865,9.940678256695128/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -265,7 +265,7 @@ heretofore granted to you, and to make
 public these letters patent.,  
 # I have the honor to be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862701:1863061701:0425/pct:57.58321273516643,23.57029388403495,15.354558610709118,11.159650516282763/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862701:1863061701:0425/pct:57.58321273516643,23.573603388933016,15.373854317414375,11.162960021180831/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -299,7 +299,7 @@ hertttofore granted to you, and to make public
 these letters patent.  
 I have the honor to be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_adam_ver02:data:sn84026526:00295879440:1863061901:0460/pct:3.5140562248995986,57.74166961026728,30.053547523427042,17.94418933239138/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_adam_ver02:data:sn84026526:00295879440:1863061901:0460/pct:2.6452368993805457,43.30625220770046,22.55148166750377,13.469916401742612/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -333,7 +333,7 @@ patent of which I enclose you a copy, to revoke
 I to make public these letters patent.  
 ; 1 have the honor to b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82014751:00513688258:1863070801:0169/pct:85.6470588235294,45.17133956386293,12.768627450980393,9.10615863886892/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82014751:00513688258:1863070801:0169/pct:85.6470588235294,45.17133956386293,12.768627450980393,9.114146497324068/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

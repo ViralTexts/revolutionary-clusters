@@ -519,7 +519,7 @@ WhileVirtuous actions are but born to die.&quot;
 Yes, &#x27;tis time, but without making any com  
 ment upon the sentiment of the past in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn86053481:00212470090:1854101101:0307/pct:85.9214501510574,59.72147252509986,17.522658610271904,4.167116484940085/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn86053481:00212470090:1854101101:0307/pct:64.47030376303461,44.791104393824895,13.163064833005894,3.1307351829860735/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -537,7 +537,7 @@ Of loudly publishing his neighbor’s shame;
 On eagle’s wings immortal scandals fly.  
 While virtuous actions are but born to die.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn97066026:print:1855021401:0034/pct:52.60300223570744,54.21237384817903,20.664324496965826,2.7643703378674855/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn97066026:print:1855021401:0034/pct:52.58620689655172,54.200482561965345,20.665708812260537,2.76924764202676/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -675,7 +675,7 @@ shame.Harvey.
   
 ad dle.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200293034:1871012201:0085/pct:259.5307917888563,30.39060736057801,78.7683284457478,72.25107247685708/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200293034:1871012201:0085/pct:64.901730712819,7.597651840144502,19.69785860956292,18.06276811921427/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -715,7 +715,7 @@ Yhile virtuous actions are but born and die.
 HarveY.  
 Be good yourself, nor think another&#x27;s sham
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn83035216:00280775186:1871022501:0468/pct:67.94871794871794,45.28514963297572,103.98860398860398,342.63128176171654/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn83035216:00280775186:1871022501:0468/pct:16.993231207695047,11.32128740824393,26.006412540078376,85.65782044042913/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -762,7 +762,7 @@ Pope.
 There is a lust in man no charm can tame,  
 Of loudly publishing his noighbor&#x27;s shame
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00280779155:1871092801:0160/pct:265.9626320064988,99.71141954101965,48.7408610885459,48.75635564106088/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00280779155:1871092801:0160/pct:66.53119284698232,24.927854885254913,12.19264377159114,12.18908891026522/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -802,7 +802,7 @@ Harvey.
 Be good yourself, nor think another&#x27;  
 sham
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_kilo_ver01:data:sn88074142:00280761485:1871100601:0587/pct:54.072924747866566,37.20797720797721,51.90069821567106,63.7037037037037/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_kilo_ver01:data:sn88074142:00280761485:1871100601:0587/pct:13.523476911136981,9.301994301994302,12.980209545983701,15.925925925925926/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -901,7 +901,7 @@ While virtuous actions are but born to die.
 It is always easy enough to find a satisfactory reason  
 for doing whatever you are bent on doing. Reveng
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:00271744006:1877120901:0889/pct:102.75153323388032,28.102312074165084,46.643460964694185,26.672623701552553/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:00271744006:1877120901:0889/pct:34.250511077960105,9.367437358055028,15.547820321564727,8.890874567184184/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -929,7 +929,7 @@ Of loudly publishing his neighbor&#x27;s shame.;
 On eagle&#x27;s wings immortal scandals fly.  
 While virtuous actious are but born to di
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_berenice_ver01:data:sn90061066:0020029192A:1878012201:0129/pct:9.348175965665236,46.44236633462086,12.942596566523605,1.7178288269973572/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_berenice_ver01:data:sn90061066:0020029192A:1878012201:0129/pct:7.016367051247652,34.83431591786949,9.712905822377246,1.2909127871518602/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -957,7 +957,7 @@ Of loudly publishing his neighbor&#x27;s shame;
 On eagle&#x27;s wings immortal scandals fly,  
 While virtnous actions are but born to die.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_archives_ver01:data:sn87082573:00211101131:1881020501:0770/pct:268.34415584415586,161.93790149892934,50.48701298701299,7.548179871520342/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_archives_ver01:data:sn87082573:00211101131:1881020501:0770/pct:67.11327649208283,40.484475374732334,12.62687779131141,1.8870449678800856/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1015,7 +1015,7 @@ What will the world of ten thousand years
 hence recall of Fletcher of Saltoun, but this:  
 I know a very wise man that believed that, if 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777079:1884021501:0051/pct:246.9521044992743,274.0887256287087,44.62989840348331,11.867759254026561/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777079:1884021501:0051/pct:61.74922881509708,68.52218140717717,11.15949918345128,2.9669398135066403/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1062,7 +1062,7 @@ dals fly.
 While virtuous actions are born but  
 to die.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_caddoa_ver02:data:sn86063206:00383341012:1888091801:0776/pct:3.945775841200678,61.71204774337934,12.394093439845074,4.755688176053711/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_caddoa_ver02:data:sn86063206:00383341012:1888091801:0776/pct:3.945775841200678,61.72137262215591,12.406197046719923,4.755688176053711/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1109,7 +1109,7 @@ great town to maintain one of those
 courts by subscription. A shrewd ob­  
 server once said that in walking th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_firebaugh_ver01:data:sn82015104:00280768704:1896060101:0538/pct:17.8486646884273,13.99203530298138,12.640949554896142,15.961683349477989/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_firebaugh_ver01:data:sn82015104:00280768704:1896060101:0538/pct:17.8486646884273,13.999210705700857,12.645895153313552,15.965271050837728/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -154,7 +154,7 @@ aro the only pnrty who hold Mr Jefferson&#x27;s memory
 in so much respect and venere.lion, ns to be disposed  
 to n&#x27; t on them in their fullest extent They have bo&lt;-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830090301:0841/pct:40.1738845144357,72.7857909166766,18.37270341207349,12.540231255215163/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830090301:0841/pct:40.16729539117599,72.77711561382598,18.37515718112733,12.542709574890743/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -187,7 +187,7 @@ liberties, if its natives nro not warned from time to
 j time, with the blood of patriots and tyrants. It is  
 its natural manure.&quot;—In those opinions, may fnirly b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830090301:0285/pct:42.01221472195436,72.50479846449136,18.081002892960463,10.400671785028791/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830090301:0285/pct:42.00546360276394,72.49610171524529,18.083453853982537,10.403422494102594/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -355,7 +355,7 @@ ting up a kite to keep the hen-yard in order. ’
 
 ---
 
-## [From _The American Whig review_](https://archive.org/details/sim_american-whig-review_1850-07_12_31/page/n41/mode/1up?view=theater)
+## [From _The American Whig Review (1850-1852)_](https://archive.org/details/sim_american-whig-review_1850-07_12_31/page/n41/mode/1up?view=theater)
 
 #### 1850-07-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -395,7 +395,7 @@ prrstrre Me spirit of resistance 7 Lot tktn Uit mrmi.
 The remedy is to set them right as to facts, pirdo* j  
 and pacitv thetp. Tit- trteaf hhfrty west it rtfrtsk- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157339:1853110301:0151/pct:80.27553763440861,76.28389353992253,13.22244623655914,2.0117455954017243/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157339:1853110301:0151/pct:80.26205274651436,76.2743628185907,13.224424659835377,2.014617691154423/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -427,7 +427,7 @@ they are setting up a kite to keep the hen-yard in
 worder.&quot; We hope the Senate of the United  
 States will pay due attention to this hint. Tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530492:1856041901:0762/pct:199.65443475399044,250.8786711603274,48.412045417146615,35.399614829080406/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530492:1856041901:0762/pct:66.55147825133015,83.62622372010914,16.137348472382207,11.799871609693469/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -455,7 +455,7 @@ this people preserve the spirit of resistence.&quot;
 With respect to the people of Kansas, there can  
 be no doubt, however they may be denounced an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530492:1856041901:0762/pct:247.42471614283363,27.467501203659126,48.34622346552575,27.76841598459316/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530492:1856041901:0762/pct:82.47490538094455,9.155833734553042,16.115407821841917,9.256138661531054/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -489,7 +489,7 @@ little too much impressed with the alleged
 insurrection in Kansas, and they, too are get.  
 ling reay their &quot;kite in the shape of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1856042501:0067/pct:116.56441717791411,293.235077376566,44.47852760736196,34.369933677229184/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1856042501:0067/pct:29.15787454440821,73.3087693441415,11.126031076155764,8.592483419307296/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -517,7 +517,7 @@ and on the spur uf the moment they are setting up a kite
 to keep the hen-yard in order.’ ”  
 Declined the Honor.—We are informed that 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn84038779:00279557529:1856062801:0033/pct:26.77313292625646,78.36029001673174,16.37701581337091,6.915783602900167/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn84038779:00279557529:1856062801:0033/pct:26.778351860550075,78.3640081799591,16.37179687907729,6.919501766127533/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -546,7 +546,7 @@ appeal to the love of life so implanted in
 every instrument of tyranny in Kansas  
 or elsewhere. If the dogma of taxatio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn86086437:00514152329:1857080501:0026/pct:34.89655172413793,81.9154571458841,11.6,7.871596567432991/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn86086437:00514152329:1857080501:0026/pct:34.90574712643678,81.91898859342444,11.6,7.875128014973337/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -571,7 +571,7 @@ dangerous than these anywhere be found?
 Can the pages of Machiavelli disclose more  
 that is reprehensible in theory or exception
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:0039334801A:1860033101:0807/pct:18.917866874270143,206.79485326008384,58.797197353055665,26.210785022408558/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:0039334801A:1860033101:0807/pct:4.728546409807356,51.69124024284475,14.696438995913601,6.551749060422087/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -596,7 +596,7 @@ more wonderful, we have believed them our­
 selves.” And it may bo well remarked now,  
 to similar purport, about the lies uttered b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014488:00279557438:1860080401:0726/pct:18.807092960773776,42.71870436744989,12.77091169622067,6.425063055887429/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014488:00279557438:1860080401:0726/pct:18.807092960773776,42.72534182928448,12.797778971878918,6.428381786804726/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -712,7 +712,7 @@ tury or two? The tree of liberty must be re­
 freshed from time to time with the blood of pat­  
 riots and tyrants. It is its natural manure.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_continental_ver02:data:sn82014760:00237288804:1861032501:0288/pct:24.611161939615737,270.7952622673435,56.633119853613906,41.21827411167513/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_continental_ver02:data:sn82014760:00237288804:1861032501:0288/pct:6.1570153353170065,67.69881556683588,14.168001831082627,10.304568527918782/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -732,7 +732,7 @@ tion to!th facts they preconceive. If
 thr quiet&quot;o r such -  
 conceVuGusricl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85033611:00202198016:1861041801:0036/pct:125.09636563876651,53.17839329300647,18.708700440528634,4.892284834978245/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85033611:00202198016:1861041801:0036/pct:83.40905961723806,35.455799639180725,12.474184221396117,3.2579857794757507/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -804,7 +804,7 @@ clear of the gun, as it was liable to ex­
 plode. He had scarcely uttered the  
 words before it went off, capsizing th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293769:1863052401:0468/pct:190.9090909090909,171.5842740365901,47.451790633608816,33.99506941741274/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293769:1863052401:0468/pct:47.73549164801102,42.896068509147526,11.864990528672292,8.498767354353186/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -878,7 +878,7 @@ I am, with much affection, dear sir,
 your most obedient and most humble ser­  
 an Thowas Terrseser
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84024082:00212471628:1863081101:0124/pct:332.27848101265823,69.58948714966857,43.958573072497124,107.73345737876497/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84024082:00212471628:1863081101:0124/pct:83.08157099697885,17.397371787417143,10.991224284275644,26.933364344691242/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -923,7 +923,7 @@ election, ami allow the approaching Judi­
 cial election to go by default. The partial  
 success of our ticket and trie small major
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014487:00279557244:1865093001:0781/pct:21.5675057208238,23.842054925536274,12.929061784897025,19.38789452110944/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014487:00279557244:1865093001:0781/pct:21.577040427154845,23.8523022270802,12.924294431731502,19.381062986746823/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1039,7 +1039,7 @@ of libetty mast be refreshed., from tinie to
 time, With the blood of patriots and ty­  
 rant.. It is natural manure.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_himilco_ver01:data:sn85025759:0029602711A:1876121501:0480/pct:9.772516248839368,113.74116200430372,19.33611884865367,12.419305256686135/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_himilco_ver01:data:sn85025759:0029602711A:1876121501:0480/pct:7.340301974448316,85.30587150322779,14.518002322880372,9.314478942514603/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1061,7 +1061,7 @@ of uttering specious general propositions which had
 no true bearing upon the circumstances to which  
 he applied them; for nobody knew better than h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chrysler_ver01:data:sn83030214:00175039958:1883042701:0238/pct:10.686427457098285,271.211783084133,46.41185647425897,12.809640705199731/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chrysler_ver01:data:sn83030214:00175039958:1883042701:0238/pct:3.562142485699428,90.403927694711,15.47061882475299,4.269880235066577/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1337,7 +1337,7 @@ them. Yet where does this anarchy exist?
 Where did it ever exist except in one single  
 instance in Massachusetts?&quot;- To CoL. Smit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042945:1897070401:0439/pct:156.981981981982,271.0382513661202,50.0,20.34001214329083/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042945:1897070401:0439/pct:39.2454954954955,67.75956284153006,12.5,5.085003035822708/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1382,7 +1382,7 @@ Piratical Invasion
 wrong it is a lethargy, the forerunner  
 of death to the public liberty,&quot; wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_frawley_ver01:data:sn88059319:00415622855:1898052001:0163/pct:124.76280834914611,346.4922206506365,49.297912713472485,4.1867043847241865/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_frawley_ver01:data:sn88059319:00415622855:1898052001:0163/pct:31.190702087286528,86.62305516265913,12.324478178368121,1.0466760961810466/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1411,7 +1411,7 @@ ties if its rulers are not warned from
 time to time that the people preserve  
 the spirit of resistance!&quot; was said b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_frawley_ver01:data:sn88059319:00415622855:1898052001:0164/pct:280.969128565846,119.52762547448334,50.95740523642048,25.727541121889498/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_frawley_ver01:data:sn88059319:00415622855:1898052001:0164/pct:70.2422821414615,29.881906368620836,12.73935130910512,6.4318852804723745/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1438,7 +1438,7 @@ fertili .-.cr.&quot;
   
 Did yon ever notice with what dare
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_hemlock_ver02:data:sn88085617:00211108484:1898092401:0089/pct:8.621068836595558,77.38219895287958,14.2071695623488,7.883320867614061/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_hemlock_ver02:data:sn88085617:00211108484:1898092401:0089/pct:8.626566967231142,77.38593866866118,14.2071695623488,7.87958115183246/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

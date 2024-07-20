@@ -892,7 +892,7 @@ power vested in you for discouraging every spesies of ?
 triifHo In the persons of our fello?-in&#x27;-n.  
 &quot;BBW. PKANKL.1N, President
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850032601:0397/pct:51.9011711856249,50.58132266533317,15.835071394192203,23.452931616452055/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850032601:0397/pct:51.9011711856249,50.58132266533317,15.835071394192203,23.46126599158228/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -965,7 +965,7 @@ the power vested in you for discouraging every species of
 traffic in the persons of our tellow  
 REN FrAnKLIN, Presiden
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530303:1850033001:0567/pct:1.6642430117951204,174.64951917506662,43.28647600581677,61.279110184219675/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530303:1850033001:0567/pct:0.5547476705983735,58.216506391688874,14.428825335272258,20.42637006140656/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1042,7 +1042,7 @@ i roiiaiMenry frooi the rlumcitr of the Amertran people,
 that you will promote mtrrjr ami juatke tnwar&lt;l? lluailia  
 I re aw . I rare ; ami that you will alep hi Ivery o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1850040401:0065/pct:55.37767428321933,67.87985520007827,15.223402707029544,19.949124351824675/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1850040401:0065/pct:55.38252559064668,67.88311645957668,15.218551399602193,19.95564687082151/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1472,7 +1472,7 @@ What do we see in the year of grace lhf&gt;| ?
 Tell it not in Oath ! The rulers of the nation,  
 the chief priests, the scribes and pharisees. practicall
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1851070301:0340/pct:4.123711340206185,83.61381753764394,15.115434877305068,8.109438047436276/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1851070301:0340/pct:4.133391413774745,83.6203785716629,15.105754803736508,8.109438047436276/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1517,7 +1517,7 @@ of the fiower rested ih yon foi l)fS(&#x27;&lt;)lrHA(s&#x27;llVf!
 entry species of hoflie ill the pnsons of om fellow  
 men.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1852090201:0606/pct:69.45691527878348,53.12865497076023,15.133960897900073,11.773879142300196/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1852090201:0606/pct:69.46657011827179,53.135152696556204,15.133960897900073,11.773879142300196/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1548,7 +1548,7 @@ i n nhn/i/n/ ohjrrts of thnr ran , will hr rithrr nmiltfil 01
 thhiynl.&quot; &quot; I&#x27;nder those impressions, they earnestly  
 entreat your serious attention to the subject of Si
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1852090201:0607/pct:68.41199254052503,54.16788820482752,14.04389614115622,6.781979869051109/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1852090201:0607/pct:68.42155596997083,54.17440307501873,14.039114426433319,6.781979869051109/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1633,7 +1633,7 @@ will step to the very vrge of th- power vested in
 you for I)ISCOritACL\&#x27;(i every speews of  
 traffic in the persons of cur f llow m n.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040305:00514151350:1852092401:0357/pct:82.80162412993039,64.07423773751657,12.848027842227378,12.450287229341582/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040305:00514151350:1852092401:0357/pct:82.80645784996133,64.07423773751657,12.852861562258314,12.45765208425394/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1707,7 +1707,7 @@ ut you for discouraging every spejies of Irallic in tho per |(
 tout ol our letlow-ineu &quot; i  
 Important words! In themselves a key-note of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661204:1852092801:0942/pct:64.40929312901632,70.07864028411974,16.460701927829955,5.542871638762049/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661204:1852092801:0942/pct:64.40929312901632,70.07864028411974,16.460701927829955,5.551327583291053/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1747,7 +1747,7 @@ AGING every species of trajfi; in the persons of our fellow
   
 men.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035044:00296027133:1852093001:0144/pct:72.1792392005158,29.048191162728607,15.925209542230819,9.451341609931918/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035044:00296027133:1852093001:0144/pct:54.15994840374073,21.786143372046457,11.947758787487906,7.088506207448939/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1838,7 +1838,7 @@ atep to the very verge of the power vested in them for
 discouraging every species of traffic in the persons of our  
 fellow creatures.&quot; Since, General Pierce alludes to wha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743075:1853040401:0707/pct:139.33829611248967,70.13299701903233,58.13068651778329,9.573492318275624/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743075:1853040401:0707/pct:46.44609870416322,23.377665673010778,19.376895505927763,3.191164106091875/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1859,7 +1859,7 @@ age, and to step to the very verge of the power vested
 in tiiern for discouraging every species of traffic in the  
 persons of our fellow-creatures.&quot; Since General Pierc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661216:1853040501:0435/pct:19.8714859437751,26.118362691674058,15.357429718875501,3.4089469015333926/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661216:1853040501:0435/pct:19.882195448460507,26.118362691674058,15.346720214190094,3.4216195665948548/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1887,7 +1887,7 @@ toration ol liberty to those unhappy men who, alone in this
 land of freedom, are degraded into perpetual bondage, and  
 to sten to the very verge of the power vested in them fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664333:1853040801:0414/pct:17.94871794871795,48.09014514896868,16.104363472784524,1.680672268907563/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664333:1853040801:0414/pct:17.95871444994252,48.09651133180545,16.094366971559953,1.680672268907563/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1908,7 +1908,7 @@ Christian religion teaches us to believe,
 ! ansi the political crjed of the Americans  
 ! fully coincides withjlhc positions.” Ye
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_adirondack_ver01:data:sn83035397:00220720469:1853040901:0003/pct:44.9358690844759,9.563812600969305,12.516585581601062,4.448034464189553/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_adirondack_ver01:data:sn83035397:00220720469:1853040901:0003/pct:44.945697577276526,9.567402620714414,12.516585581601062,4.458804523424879/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1995,7 +1995,7 @@ you for discouraging every species of traffic in
 ( the persons of our fellow men.  
 Bcnjamin Franklin, President
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1853090101:0824/pct:33.98207784934192,4.682114132516277,26.533183982077848,91.88050555342781/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1853090101:0824/pct:33.9867450760758,4.688497382867356,26.537851208811723,91.87731392825226/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2017,7 +2017,7 @@ of the power vested in it for DISCOUR­
 AGING every species of trnftic in the per­  
 sons of our fellow men.&quot; Only a shor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053546:00415660984:1854022201:0195/pct:15.922764796418077,79.14157451001861,13.334266125647124,4.8614912953027485/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053546:00415660984:1854022201:0195/pct:15.93209271955599,79.14522427825833,13.338930087216081,4.865141063542465/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2047,7 +2047,7 @@ relief Ol ll.e unhappy objects ol their caro will be either
 omitted oi delayed &quot;  
 I admit, Mr. President, that we are bound &quot;to a sa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854022501:0308/pct:20.848979591836734,41.019140575484855,15.461224489795919,6.6801876029915075/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854022501:0308/pct:20.85986394557823,41.02759116068788,15.45578231292517,6.6801876029915075/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2088,7 +2088,7 @@ of tho power vested in it for DISCOUR
 AGING every species of traffic in the per  
 sons of our fellow men. &#x27; Only a sho
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1854030201:0043/pct:2.864394488759971,91.64235294117647,12.158569011360889,4.235294117647059/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1854030201:0043/pct:2.8724518572234308,91.64549019607843,12.15051164289743,4.2384313725490195/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2113,7 +2113,7 @@ seems still to call upon Congress, in memorable words,
 to step to the very verge of the powers vested in it to  
 discourage slavery -, and this prayer, now sounding fro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854030401:0347/pct:63.64230832107242,30.402460907459627,15.53048880170018,5.203793899000257/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854030401:0347/pct:63.64230832107242,30.402460907459627,15.552285978965724,5.208066307784329/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2153,7 +2153,7 @@ t would step to the very verge of the powers vested in it
 or wscouKAuiHa every species of traffio in the persona  
 f our fellow-men.&quot; Only a short time after utterin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661617:1854031101:0106/pct:1.7273113407900325,6.57606313020605,15.20600311482373,3.156510302498904/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661617:1854031101:0106/pct:1.7273113407900325,6.58336986701739,15.210722544716598,3.156510302498904/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2170,7 +2170,7 @@ to coun&#x27;enance the restoration of liberty to those
 unhappy men, who nlono in this land of Freedom,  
 are degraded into iicrncttial bontbtiro.&quot; and &quot; thn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035487:00237283776:1854031101:0874/pct:63.73713380839271,48.64944649446495,18.92319873317498,1.7269372693726937/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035487:00237283776:1854031101:0874/pct:47.81231439318947,36.48708487084871,14.195208869530786,1.2988929889298892/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2202,7 +2202,7 @@ verge of the power vested in it for DIS­
 -001 RAGING every species of tratio in  
 the persons of our fellow men.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040305:00514151350:1854031701:0662/pct:27.397260273972602,33.20775623268698,11.492429704397981,4.8310249307479225/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040305:00514151350:1854031701:0662/pct:27.406873347752946,33.20775623268698,11.492429704397981,4.8310249307479225/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2233,7 +2233,7 @@ of the unhappy objects of their caro will be either omitted
 or delayed.&quot; 1 admit, Mr. President, that we are bound  
 .? to a sacred observance of the compact which unites u
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661617:1854031801:0114/pct:80.38548752834467,6.741573033707865,15.391156462585034,8.129543952412426/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661617:1854031801:0114/pct:80.38548752834467,6.741573033707865,15.41005291005291,8.136887713887052/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2252,7 +2252,7 @@ who alone in this fund of Freedom , are degraded
 into perpetual bondage,&quot; and &quot; that it would  
 step to thc very verge of the power vested in4it :&#x27;u
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199276:1854032301:0041/pct:104.16083916083916,68.73477759261633,15.55944055944056,2.9996154339187284/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199276:1854032301:0041/pct:78.17036907468952,51.55749262915011,11.666958194857443,2.2433021407511857/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2289,7 +2289,7 @@ will over-balance all the pleasures h
 ever enjoyed in this life, and fo  
 every act of unnecessary severity 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777626:1855020901:0864/pct:243.30357142857142,51.754756871035944,43.00595238095238,47.526427061310784/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777626:1855020901:0864/pct:60.84852995906215,12.938689217758986,10.755489393375512,11.881606765327696/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2315,7 +2315,7 @@ will devise, means lor removing this in
 consistency, from the. character, of .the  
 American people. , , 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn82006863:00212472827:1855041401:0062/pct:58.52187028657617,109.42657342657343,16.377576671694317,8.755244755244755/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn82006863:00212472827:1855041401:0062/pct:39.02439024390244,72.95104895104895,10.92532059341212,5.836829836829837/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2368,7 +2368,7 @@ will promote mercy and justice toward this
 every species of traffic in the persons of our  
 &quot;fellow-men.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530479:1855080301:0644/pct:105.1324779203466,75.61588136809375,48.00866522246292,74.37215977038986/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530479:1855080301:0644/pct:35.044159306782205,25.205293789364585,16.002888407487642,24.790719923463286/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2441,7 +2441,7 @@ that you will step to theo very verge of tha power vested in
 you for discouraging every spoctes of traflic in the persons of our  
 fellow men. EEnAMiN FRAnkLiN, Frosiden
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530510:1856072101:0141/pct:103.0258662762323,159.1769547325103,47.71433219456645,20.96413874191652/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530510:1856072101:0141/pct:34.34195542541077,53.05898491083676,15.904777398188818,6.9880462473055065/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2547,7 +2547,7 @@ their institution, your memorialists conceive
 themselves bound to use all justifiable en-­  
 deavors to loosen the bands of slavery, and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_hypno_ver01:data:sn83025182:00279528657:1858081901:1169/pct:60.42031523642732,24.67188288743059,36.37955739531922,10.2221100454316/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_hypno_ver01:data:sn83025182:00279528657:1858081901:1169/pct:20.140105078809107,8.223960962476864,12.126519131773073,3.407370015143867/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2632,7 +2632,7 @@ that you will step to the very vere of the
 powers vested in you for discouraging  
 every species of traffic in our fellow-men.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296027546:1858091401:0307/pct:7.273838630806846,61.579564707415614,17.970660146699267,46.16186628437378/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296027546:1858091401:0307/pct:5.456212746446584,46.18793170858856,13.495338529726425,34.62791606933403/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2705,7 +2705,7 @@ fellow-men.&quot;
 This petition was signed by Benjamin Franklin,  
 President of the Society
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn83035487:00211100497:1858111301:0900/pct:64.91291727140784,60.45814016907554,18.34179970972424,16.443959640032723/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn83035487:00211100497:1858111301:0900/pct:48.72027591214376,45.35042268884647,13.7593029587947,12.326152167984729/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2747,7 +2747,7 @@ felhiw men..
   
 BENJAMIN FRANKLIN, Pres&#x27;t.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775381:1858111801:0426/pct:9.510086455331413,72.11875843454791,16.64265129682997,19.02834008097166/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775381:1858111801:0426/pct:7.1338497568005765,54.08906882591093,12.484237074401008,14.27800269905533/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2808,7 +2808,7 @@ you wiH Step to the very verge of the power
 vested jn you for discouraging every species  
 of traffic in the persons of our fellpw men.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn90059500:00383347191:1859061801:0105/pct:39.11239627860196,65.25737131434283,10.862459140055318,10.224887556221889/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn90059500:00383347191:1859061801:0105/pct:39.1207778057162,65.25737131434283,10.870840667169558,10.23488255872064/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2847,7 +2847,7 @@ very verge of the power vested in you for
 discouraging every species of traffic in the  
 persons of our fellow men.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_datsun_ver01:data:sn83016836:00212472517:1859063001:0178/pct:51.8270944741533,36.895450038559,18.062982768865123,14.795637325107414/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_datsun_ver01:data:sn83016836:00212472517:1859063001:0178/pct:51.8270944741533,36.89912232382211,18.077837195484253,14.799309610370534/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2878,7 +2878,7 @@ follows:
   
 Ist. The government joined to cut off th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn90059500:00383347191:1859090301:0148/pct:5.382970695509999,62.82712133227597,10.791095459690604,7.2065820777160985/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn90059500:00383347191:1859090301:0148/pct:5.387163040288433,62.83372984403912,10.791095459690604,7.213190589479249/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2898,7 +2898,7 @@ ual bondage, and who amidst the general
 joy of surrounding freemen, are groaning  
 in servile subjection.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_datsun_ver01:data:sn83016836:00212472517:1859092201:0228/pct:65.4328270166642,42.219274977895665,13.891756378115323,3.5587975243147656/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_datsun_ver01:data:sn83016836:00212472517:1859092201:0228/pct:65.44265840829769,42.22295903330386,13.896672073932065,3.555113468906572/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2916,7 +2916,7 @@ in servile subjection.&quot;
 &quot;this land of Freedom, are degraded into perpetual  
 &quot;bondage.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_flavory_ver01:data:sn83030213:00206530637:1859122401:0811/pct:200.66526042511765,276.50241091379513,46.04900210936233,6.1390097612607315/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_flavory_ver01:data:sn83030213:00206530637:1859122401:0811/pct:66.88842014170588,92.16747030459838,15.349667369787442,2.0463365870869104/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2947,7 +2947,7 @@ verge of tho power vested in you for dis­
 couraging every-«pecies of traffic in the  
 persons of oar fellow men.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn85049908:00415668892:1859122401:0517/pct:30.023923444976077,7.391161311547319,11.31877990430622,8.5426033556311/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn85049908:00415668892:1859122401:0517/pct:30.02890749601276,7.398472054684358,11.323763955342903,8.54625872719962/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2986,7 +2986,7 @@ liberty to those unhappy men who alone, in
 this land of freedom, are degraded into per­  
 petual bondage.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058250:00271744778:1860040501:0618/pct:37.845622119815665,42.47132815390307,16.67626728110599,4.858798865458133/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058250:00271744778:1860040501:0618/pct:28.388304767391617,31.8534961154273,12.516203370301023,3.6502651375015414/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3011,7 +3011,7 @@ rounding freemen, are groaning in servile subiec-
 inconsistency of character from the American peo-  
 pie; that vou will step to the scry aar o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_chacha_ver03:data:sn84038034:00200295894:1860051701:0724/pct:42.641932270916335,111.0285006195787,16.372011952191237,6.8439614908016395/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_chacha_ver03:data:sn84038034:00200295894:1860051701:0724/pct:31.99651264167393,83.27137546468401,12.280483248225183,5.137737107997331/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3050,7 +3050,7 @@ nroving this inconsistency of charactar from
 the American people; that you will premote  
 mercy and justice
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009571:00279523891:1860071301:0116/pct:7.96875,32.403067746058795,34.27556818181818,31.966340008521517/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009571:00279523891:1860071301:0116/pct:2.655872745348672,10.799872190861647,11.423566728210956,10.654311783292506/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3069,7 +3069,7 @@ will step to the very verge of the power vested
 in you for discouraging every species of trathe  
 in the persons of our fellow-men.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009571:00279523891:1860071301:0116/pct:7.96875,66.020451640392,34.19034090909091,6.88112484022156/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009571:00279523891:1860071301:0116/pct:2.655872745348672,22.00447331984237,11.39516167211097,2.293463982674761/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3107,7 +3107,7 @@ GEorGe WasHinoroN, in a letter to LaFay-­
 ette, in 1783, tells him that he would be hap-­  
 py to join him in efforts to promot
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528670:1860100301:1161/pct:152.7295810410495,12.156782688578136,45.112145577655525,37.736041645401656/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528670:1860100301:1161/pct:50.909860347016505,4.0522608961927125,15.037381859218508,12.578680548467219/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3242,7 +3242,7 @@ step to the very verge of the powers invested
 iu that body lor discouraging evely species of  
 traffic in the persons of our fellow-men. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1861020801:0003/pct:33.30857779428147,19.047619047619047,10.211659858893427,5.744739756367664/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1861020801:0003/pct:33.30857779428147,19.047619047619047,10.220943186037877,5.7551218161683275/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3369,7 +3369,7 @@ discouraging every species of traffic in the persons
 of our fellow-men.  
 &quot;BENg. FRANELIN, President.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038518:00200293319:1861022701:0199/pct:160.71628427532175,9.870240374388429,92.7811975377728,238.07700489257604/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038518:00200293319:1861022701:0199/pct:40.19031626084523,2.467560093597107,23.20179121186678,59.51925122314401/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3414,7 +3414,7 @@ the very verge of the power vested
 n you for discouraging every spe-  
 cies of traffic in our fellow-men.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn85042591:00280774959:1862091201:0692/pct:122.7307398932113,47.25640654408571,47.74980930587338,54.49543940929492/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn85042591:00280774959:1862091201:0692/pct:30.694391453643647,11.814101636021428,11.942006867607784,13.62385985232373/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3443,7 +3443,7 @@ wil promote wency and rueries toward this distressed raee
 powen vasrad in vow for discouraging every specles of traste  
 the persons of our follow men.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basic_ver01:data:sn83030213:0020653073A:1863022701:0395/pct:249.2920353982301,80.41417165668663,48.4070796460177,23.241017964071855/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basic_ver01:data:sn83030213:0020653073A:1863022701:0395/pct:83.09734513274336,26.804723885562208,16.135693215339234,7.747005988023952/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3477,7 +3477,7 @@ TO THB VKKY VRHIIK OF TUB POWER VKSTKI) IN YOU
 for discouraging every Siecies of traffic in the per­  
 sons of our fellow meu.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026193:00280775769:1863031101:1068/pct:107.31065918653576,73.61521655314228,16.479663394109398,9.034828428222594/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026193:00280775769:1863031101:1068/pct:80.51560855840056,55.2114124148567,12.36408277797264,6.785760185066187/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3639,7 +3639,7 @@ petition closed with the assertion, that “bless­
 ings of liberty ought rightfully to be adminis- |  
 tered, without distinction of color, to all peo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_damariscotta_ver02:data:sn83016025:00279525188:1864072001:0458/pct:4.444811632518176,9.060234941264683,22.604097818902844,86.76580854786303/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_damariscotta_ver02:data:sn83016025:00279525188:1864072001:0458/pct:4.4440773170328765,9.059102836436336,22.604493639517596,86.75809071598151/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3694,7 +3694,7 @@ er vetted in you for discouraging every
 species of traffic in the .persons of o;jr  
 fellow men.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carlisle_ver01:data:sn86053370:00296027911:1865110101:0419/pct:45.316647705726204,25.3051503423638,12.36253318164581,22.298303066388804/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carlisle_ver01:data:sn86053370:00296027911:1865110101:0419/pct:45.3292883327013,25.31507393073335,12.36253318164581,22.293341272204028/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3741,7 +3741,7 @@ which Calhoun is the patron saint. Van Bu­
 ren’s name will chiefly endure along with and  
 because of the despised Free-Soil party of 1848
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:0027952522A:1866100601:0420/pct:16.93561532192339,35.113468179575726,10.904645476772616,5.081401085347805/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:0027952522A:1866100601:0420/pct:16.932855280312907,35.10913799482057,10.906942633637549,5.083857442348008/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3768,7 +3768,7 @@ their care, will be either omitted or delayed. ,.,
 “ From a persuasion that equal liberty teas ori  
 gmaOg the portion and is still the birthright oj a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ellsworth_ver01:data:sn84020071:00393347247:1868091001:0352/pct:4.797297297297297,68.64509605662285,12.445945945945946,4.93427704752275/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ellsworth_ver01:data:sn84020071:00393347247:1868091001:0352/pct:4.796649101472774,68.63815589930239,12.448768184479574,4.93714824925016/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3786,7 +3786,7 @@ liberty ot those unhappy men, who, alone in
 this laud of freedom, are degraded into perpet­  
 ual bondage.” This memorial was dated Feb
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_demeter_ver01:data:sn83021205:00517171876:1872112101:1112/pct:20.968948746726525,30.021863897239683,13.898241676019454,2.0907351735446844/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_demeter_ver01:data:sn83021205:00517171876:1872112101:1112/pct:16.25591959021939,23.26673256142333,10.776070358558036,1.6308952273369104/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3816,7 +3816,7 @@ elves in the pleasing expeetation that nothing
 which ean be dune for the rellef of the unhapity  
 objects of their eare will be omitted or delayed.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558342:1875080501:0128/pct:13.76659678546471,180.09796339262698,44.23480083857442,17.11781386955401/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558342:1875080501:0128/pct:3.4428521495980426,45.024490848156745,11.06256553652569,4.279453467388502/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3957,7 +3957,7 @@ U?,tt ten,to tho very verge of the power
 yosted fn you for dtticoureging overyepecle ol  
 tramo te the persona of our follow taen.&#x27;1,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_milosz_ver01:data:sn83030272:0017504498A:1891121301:0950/pct:6.124031007751938,248.13805631244324,51.24031007751938,37.4205267938238/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_milosz_ver01:data:sn83030272:0017504498A:1891121301:0950/pct:1.5313045163791432,62.03451407811081,12.812560573754604,9.35513169845595/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3986,7 +3986,7 @@ done for the relief of the unhappy ob­
 jects of their care, will be either omitted  
 or delayed.” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_demeter_ver01:data:sn93058748:00517171803:1898022701:0561/pct:5.9598621528481655,52.802707076651465,15.872694100952767,8.10651758128586/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_demeter_ver01:data:sn93058748:00517171803:1898022701:0561/pct:4.624247185126997,40.92204781270191,12.30164964650432,6.282543422902968/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

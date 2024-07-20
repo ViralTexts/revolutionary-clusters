@@ -93,7 +93,7 @@ them to make. This may give you a general view of
 our plan.&quot;3d Jeff. Corr. 456  
 In another to Wm. B. Giles, dated 231 March, 1801 h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347922:1849072301:0401/pct:21.750090025207058,49.24467033742764,60.01080302484696,35.818156148524636/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347922:1849072301:0401/pct:5.436543654365437,12.309429700734048,15.0,8.95327498588368/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -121,7 +121,7 @@ that 44 deprivations of office, if made
 would revolt new converts, and give a  
 body to leaders who stand alone.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661368:1849080201:0192/pct:57.94829482948295,83.0255529310715,13.215071507150714,2.909598453940305/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661368:1849080201:0192/pct:57.95746241290796,83.02913177295827,13.21048771543821,2.9131772958270705/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -139,7 +139,7 @@ line between retaining all and none, is not
 yet settled, and will not be till we get our  
 administration together.&quot; In the letter t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661368:1849080201:0192/pct:71.21837183718372,22.707751771526734,13.503850385038504,2.780760146016749/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661368:1849080201:0192/pct:71.22295562889623,22.707751771526734,13.499266593325999,2.7843389879035145/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -161,7 +161,7 @@ we shall proceed, perhaps, a tatorut, balancing
 our measures according to the impression  
 we perceive them to make.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661368:1849082101:0254/pct:31.828163601427395,82.55004817471362,15.41312105407631,5.3955679263462155/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661368:1849082101:0254/pct:31.83273858541495,82.55004817471362,15.408546070088756,5.402704920957785/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -181,7 +181,7 @@ of their (Federalists) leaders, in order to
 reconcile. 1 have given, and will give,  
 only to Republicans.&quot; Against the Essex 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661368:1849082101:0254/pct:44.757068350260774,27.630874638689647,14.781773263793577,4.132319880098491/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661368:1849082101:0254/pct:44.757068350260774,27.630874638689647,14.800073199743801,4.135888377404275/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -201,7 +201,7 @@ versation, or inherent disqualification.&quot; To
 Mr. Jerry he said: &quot;The instances ought to  
 be few, and governed by strict rule, and not b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_harrison_ver01:data:sn82015672:0029602188A:1856030801:0242/pct:138.6629910406616,139.40445987448257,57.27084769124742,15.703031112298037/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_harrison_ver01:data:sn82015672:0029602188A:1856030801:0242/pct:34.67769734574285,34.85111496862064,14.322647362978284,3.925757778074509/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -225,7 +225,7 @@ then, we shall proceed a futous, balancing
 our measures according to the impression we  
 serceive them to make.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296205:1858100201:0784/pct:24.06896551724138,112.77959823336657,50.55172413793103,24.67587975495085/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296205:1858100201:0784/pct:6.020355356218734,28.194899558341643,12.64447127824737,6.168969938737712/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -246,7 +246,7 @@ Some, I know, must be made. They must be a
 few as possible, done gradually, and bottomed on  
 some malversation or inherent disqualification
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777651:1869033101:0729/pct:111.41516810007819,193.1443080829454,45.89523064894449,12.582874876569333/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777651:1869033101:0729/pct:27.870134950127127,48.28607702073635,11.480539800508508,3.1457187191423333/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -264,7 +264,7 @@ be as few as possible, done gradually,
 ami bottomed on some malversation or &#x27;  
 inherent disqualification.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kingjulius_ver01:data:sn93067668:00202193961:1885040101:0102/pct:16.197596012899442,11.637591446257737,13.778950454412195,2.656162070906021/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kingjulius_ver01:data:sn93067668:00202193961:1885040101:0102/pct:16.20736831818626,11.641343087600825,13.778950454412195,2.659913712249109/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -282,7 +282,7 @@ as few as possible, done gradually, and hot
 turned on some malversation, or inherent  
 disqualification.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fireweed_ver01:data:sn83016209:00383342429:1885071701:0662/pct:36.184448462929474,40.55696918292338,13.381555153707053,2.1204410517387617/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fireweed_ver01:data:sn83016209:00383342429:1885071701:0662/pct:28.05288236942913,31.435562210130374,10.375595627394189,1.6543110689113685/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -361,7 +361,7 @@ done gradually, and bottomed on some
   
 malversation or inherent disqualificatio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_hotel_ver02:data:sn86064205:00206535568:1886080501:0533/pct:173.17317317317318,227.09798406000937,61.56156156156156,10.126582278481013/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_hotel_ver02:data:sn86064205:00206535568:1886080501:0533/pct:43.32582018532432,56.77449601500234,15.401953418482345,2.5316455696202533/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -379,7 +379,7 @@ as few as possible, done gradually, and bot­
 tomed &lt;&gt;n some malversation or inherent  
 disqualification, (lood men, to who
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_mojave_ver01:data:sn82014381:00175036507:1886082001:0337/pct:16.733601070950467,34.75669099756691,10.759705488621151,1.9951338199513382/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_mojave_ver01:data:sn82014381:00175036507:1886082001:0337/pct:16.741967871485944,34.75669099756691,10.751338688085676,2.0103406326034063/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -415,7 +415,7 @@ ponents must be as few as possible,
 • tomed on some malversation or in­  
 herent disqualification. Mere dif
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_onamia_ver01:data:sn90059522:00206536822:1895041601:0474/pct:14.790346501280842,73.44668345927792,10.67817176756101,1.8157010915197314/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_onamia_ver01:data:sn90059522:00206536822:1895041601:0474/pct:14.799334861354545,73.45018191995521,10.67817176756101,1.8191995521970332/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

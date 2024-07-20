@@ -97,7 +97,7 @@ John Adams, second President of the Uni­
 ted States, with a life of the author, notes,  
 and illustrations, by his grandson, Charle
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851082501:0200/pct:194.6377638334284,154.88657440433727,46.49172846548773,7.946925381652162/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851082501:0200/pct:48.650190114068444,38.71611982881598,11.620722433460076,1.9864479315263908/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

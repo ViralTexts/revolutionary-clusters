@@ -176,7 +176,7 @@ who shall enjoy the same privileges and powers
 as those of the most favored nations ; but if any  
 of the said consuls, shall carry on trade, the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197978:1841051201:0080/pct:48.44808126410835,11.503819404856914,20.48532731376975,12.438718504161441/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197978:1841051201:0080/pct:36.34824326231127,8.630714855774713,15.366163397770565,9.337589784517158/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -230,7 +230,7 @@ to the same laws and usages to which private in­
 dividuals of their nation are subjected in the  
 same place
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016867:00295877637:1841052201:0759/pct:315.2922337870296,74.2567474996575,58.927141713370695,43.34840389094396/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016867:00295877637:1841052201:0759/pct:78.8230584467574,18.564186874914373,14.731785428342674,10.83710097273599/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -265,7 +265,7 @@ they shall be subjected to the saine laws and
 usages to which private individuals ol ther  
 nation are subjected in the same place
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153243:1841052201:0291/pct:21.644547817758927,7.389952872756442,14.229032699411684,10.137370901433872/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153243:1841052201:0291/pct:21.653668992566242,7.389952872756442,14.219911524604369,10.150740332230356/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -300,7 +300,7 @@ be subjected 1o the same laws and usages 10 which
 private ndividuals of their nation are subjected in the  
 same place. :
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015209:1841052501:0080/pct:20.88055797733217,77.1045520681771,14.603312990409764,10.527956765745166/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015209:1841052501:0080/pct:20.89024508379347,77.1045520681771,14.603312990409764,10.53834961546456/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -359,7 +359,7 @@ pointment, who shall enjoy the same privileges
 and powers as those of the most favored nations;  
 but if any ol the said consuls sha I carry on trade, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82014751:00513688222:1850050801:0229/pct:46.92975532754538,41.78998460992068,14.506708760852407,3.788327216763348/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82014751:00513688222:1850050801:0229/pct:46.935017100762956,41.79787695828894,14.517232307287555,3.7843810425792195/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

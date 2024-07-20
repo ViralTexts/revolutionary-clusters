@@ -75,7 +75,7 @@ the fame, with 4 copy of this refclu­
 their fidelity, and the emineant service  
 - they have rendered their zountry
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1780120401:0438/pct:3.145917001338688,9.961629279811097,29.808121374386435,54.85537190082645/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1780120401:0438/pct:3.1607913134017553,9.97146792601338,29.800684218354903,54.845533254624165/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -355,7 +355,7 @@ ed to present the fame, with the thanks
 of Congress, for their fidelity and the emi.  
 ‘nent service they had readered their coun
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010832:1817021101:0022/pct:25.720461095100866,41.38133437683428,16.844380403458214,10.868714537272549/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010832:1817021101:0022/pct:25.730067243035542,41.38133437683428,16.839577329490876,10.875236418183004/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -659,7 +659,7 @@ same, with a copy ol this resolution, ana the thanks
 of Congress for their fidelity and the eminent ser­  
 vice they have rendered tljeir country
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157327:1851012401:0315/pct:17.167600611309222,56.25386613880985,12.769570385464425,12.495360633428183/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157327:1851012401:0315/pct:17.164685908319186,56.24690747154874,12.771646859083193,12.496907471548738/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -715,7 +715,7 @@ THE FOURTH OF ULY- ThE PROCESSION ANd
 orAtIon,  
 Come pext in order. The dawn of the morning of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743087:1853070601:0058/pct:93.57202331390508,47.676144798446956,59.61698584512906,44.7756080849606/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743087:1853070601:0058/pct:31.190674437968358,15.892048266148986,19.87232861504302,14.925202694986867/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -870,7 +870,7 @@ to light, the insidious designs of the enemy
 baffled, and the United States rescued from  
 impending danger. A pension of two hu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:0020653607A:1866102601:1024/pct:162.04268292682926,142.9514097180564,44.89329268292683,19.85602879424115/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:0020653607A:1866102601:1024/pct:40.53384175405148,35.7378524295141,11.229742612011439,4.964007198560288/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -988,7 +988,7 @@ whereby the dangerous and traitorous conspir­
 acy of Arnold was brought to light, the Insid  
 ious ilef igns of the enem) batlled, the America
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_eden_ver01:data:sn98060050:00280777432:1893081101:0267/pct:38.21056845476381,61.7027588252744,16.833466773418735,6.6300800949273215/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_eden_ver01:data:sn98060050:00280777432:1893081101:0267/pct:28.66866866866867,46.2770691189558,12.632632632632633,4.983684366656778/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

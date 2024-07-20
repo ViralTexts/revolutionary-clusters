@@ -70,7 +70,7 @@ inous national economy, &#x27;.Villi gnat respect
 I hive tlie tumor to be&#x27;, sir, your moMnbedi­  
 e t i iunlile-ervaot ADAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183943:1820012201:0318/pct:19.86045756936557,63.914446170390725,14.879117312996916,7.754809415700801/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183943:1820012201:0318/pct:19.857235561323815,63.90681003584229,14.882111183214363,7.757865392273994/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -111,7 +111,7 @@ With great respect,
 Y our most oiedient humble servant,  
 JOULIN ADAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1820012601:1046/pct:47.25946372239748,28.978052126200275,21.214511041009462,17.79835390946502/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1820012601:1046/pct:47.25946372239748,28.981862520957172,21.23422712933754,17.805974698978815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -248,7 +248,7 @@ With great respect, I have the honor to be, sir,
 your mostjobedient lumble servant.  
 JOHIN ADAAIS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030212:00206530169:1842020301:0113/pct:102.18978102189782,97.27526060480957,48.488008342022944,28.909072143668077/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030212:00206530169:1842020301:0113/pct:34.0632603406326,32.42508686826986,16.16266944734098,9.636357381222693/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

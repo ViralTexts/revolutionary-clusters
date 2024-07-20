@@ -155,7 +155,7 @@ tain interest in the companies eftablithing for
 opening and extending the navigation of James  
 and Potowmack rivers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025586:0051701512A:1786021801:0238/pct:66.38424547744447,65.50475328202806,28.07419280970918,4.8287309491474275/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025586:0051701512A:1786021801:0238/pct:66.39187848255858,65.51481313817213,28.08945881993741,4.8287309491474275/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -529,7 +529,7 @@ couraged by his patronage, will be durable
 monuments also of the gratitude of uic Cotlli.  
 try; tit u enacted?&#x27; Scc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1826061501:0101/pct:40.68263726945092,88.75764906788103,17.320330718677127,6.731179735306674/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1826061501:0101/pct:40.67401441288682,88.74501992031873,17.321958456973295,6.733779169038133/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -581,7 +581,7 @@ leave be given to bring in a bill &#x27;&#x27;flir vesting
 in George Washington, Hvj., a certain in­  
 ! terest in the companies t/roptnins and extend
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1846010201:0455/pct:68.7583247003108,23.375174337517432,13.45271570223472,1.3761041376104137/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1846010201:0455/pct:68.76819101179024,23.38137300480397,13.447782546494993,1.3792034712536805/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -630,7 +630,7 @@ under snch distributions, as the said Geo. Wash­
 ington, Esq., by deed during his life time, or by  
 his Inst will and testament, shall direct and ap
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1846010201:0455/pct:68.7435252330916,27.763830776383077,13.600710374426521,13.705253370525337/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1846010201:0455/pct:68.7435252330916,27.766930110026344,13.6155098416457,13.708352704168604/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -649,7 +649,7 @@ the gratitude of his country,&quot; and can never fail
 to&#x27;exult even his &quot;illustrious merits&quot; in the estima­  
 tion of all mankind
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1846010201:0455/pct:68.99511617581767,41.67364016736402,13.393517833357999,2.0641562064156207/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1846010201:0455/pct:69.00004933155739,41.67673950100728,13.398450989097725,2.070354873702154/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -696,7 +696,7 @@ private use?thus avoiding even the appear­
 ance of receiving pecuniary recompense for  
 past services to the country
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dior_ver01:data:sn85025007:0041566350A:1860060401:0126/pct:29.061194396657655,25.725270884306187,13.774883263701154,10.922754281719678/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dior_ver01:data:sn85025007:0041566350A:1860060401:0126/pct:29.061194396657655,25.731096353256437,13.778979274186941,10.922754281719678/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -868,7 +868,7 @@ gratitude, by preferring such as may appear
 must subservient to the enlightened and patriot,  
 io views ot the Legislature, i am. eta
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_north_ver02:data:sn84031492:no_reel:1880022801:0012/pct:86.26455026455027,13.891032566754129,12.529100529100528,21.546534959098626/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_north_ver02:data:sn84031492:no_reel:1880022801:0012/pct:86.26455026455027,13.891032566754129,12.55026455026455,21.565828059885785/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -935,7 +935,7 @@ Iwtin!? these to Drove tbe sincerity of my grat-
 anuservieufc iu iue Hi-iguKun. uu t... ........  
 Tiewaof tho Legislature., I am, eto- , .
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555675:1880040801:0021/pct:24.52135493372607,96.91170073945193,16.88144329896907,29.08510946788459/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555675:1880040801:0021/pct:18.401178854300976,72.68377555458895,12.672683735494566,21.82108162969407/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -963,7 +963,7 @@ A SHREWD MANEUVRE
 on the part of the incorporators and directors of the  
 “■ James and Powtomack improvement companies 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ginsberg_ver01:data:sn85026214:print0020595823A:1881010201:0001/pct:18.4,71.50780343092997,11.981818181818182,5.958983619244163/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ginsberg_ver01:data:sn85026214:print0020595823A:1881010201:0001/pct:18.404545454545456,71.50780343092997,11.981818181818182,5.975106410421772/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1030,7 +1030,7 @@ for the honor conferred on me by preferring such
 as may appear most subservient to the enlightened  
 and patriotic views of the legislature. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ginsberg_ver01:data:sn85026214:print0020595823A:1881010201:0001/pct:18.4,18.044627885979622,49.0,76.80897717012769/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ginsberg_ver01:data:sn85026214:print0020595823A:1881010201:0001/pct:18.404545454545456,18.051077002450665,49.00454545454546,76.81220172836322/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1084,7 +1084,7 @@ the said George Washington, Esquire, by
 deed during his life, or by his last will and  
 testament should direct and appoint.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_journey_ver01:data:sn84024738:00175030827:1883060701:0565/pct:10.582509028104884,237.11195240670634,40.383105668079764,56.09518658734451/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_journey_ver01:data:sn84024738:00175030827:1883060701:0565/pct:3.5275030093682944,79.0373174689021,13.461035222693253,18.698395529114837/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1151,7 +1151,7 @@ ington with the same warmth ot sensi­
 bility and&#x27;acknowledgment that prompted  
 it on the part of the Legislature. But h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00383342132:1885011201:0335/pct:34.32321357550046,11.744863538791781,9.956250828582792,10.497802310129817/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00383342132:1885011201:0335/pct:34.32321357550046,11.751678081024908,9.960669936806752,10.494395039013254/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1172,7 +1172,7 @@ Potomac company, which, by the terms of the
 law, were vested In George Washington, esq.,  
 his heirs and assigns forever. The object o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pug_ver01:data:sn83045462:00280654899:1893051301:0136/pct:13.6035891684025,74.12177985948477,12.145489504887037,3.0054644808743167/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pug_ver01:data:sn83045462:00280654899:1893051301:0136/pct:13.611600705015222,74.12177985948477,12.141483736580676,3.021727816809784/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1200,7 +1200,7 @@ monuments of his glory. may be made also
 monuments of thne gratitude of his country.&quot;  
 This donation was dechined by Gen. Wash
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pug_ver01:data:sn83045462:00280654899:1893051301:0136/pct:13.459381509373499,77.01014832162373,12.417881749719596,20.218579234972676/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pug_ver01:data:sn83045462:00280654899:1893051301:0136/pct:13.46739304598622,77.01665365599791,12.417881749719596,20.22183190215977/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

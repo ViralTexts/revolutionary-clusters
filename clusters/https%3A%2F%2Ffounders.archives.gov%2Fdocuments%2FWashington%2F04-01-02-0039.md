@@ -193,7 +193,7 @@ and conciliation sufficient to stimulate us to vest
 more exteneive and adequate powers in the sovereign  
 of these United States!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743038:1851022401:0290/pct:8.341592335645855,98.65158267626558,53.93128510075983,37.081476402696836/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743038:1851022401:0290/pct:2.780530778548618,32.88386089208852,17.97709503358661,12.360492134232278/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -237,7 +237,7 @@ i laration, while we are Hi the very act ol peace inakiu&lt; arid
 sive and adequate powers in the sovereign ol ttiC-e United  
 &#x27; Stales 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851022701:0235/pct:31.29644921552436,51.10120942075111,15.672997522708505,11.92870782940802/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851022701:0235/pct:31.30745939994495,51.10545300233397,15.66749243049821,11.92870782940802/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -296,7 +296,7 @@ ciliation, sufficient to stimulate us lo rest more ex­
 tensive and adequate powers in ihe sovereign of  
 Ihese United Stales?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_lightningbolt_ver03:data:sn83016794:00415662397:1851031401:0059/pct:107.95180722891567,57.10597650703498,17.259036144578314,20.782238285788047/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_lightningbolt_ver03:data:sn83016794:00415662397:1851031401:0059/pct:81.00045201145096,42.82948238027624,12.957661594093716,15.593132825609914/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -409,7 +409,7 @@ powerful withiu itself, will, if there in not a
 a change in the system, be our downfall as  
 a nation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn85025182:00212477886:1861073101:0232/pct:23.866150442477878,97.62344254730041,16.634402654867255,7.348869404706968/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn85025182:00212477886:1861073101:0232/pct:17.909002904162634,73.22335025380711,12.474069976490112,5.514536225196124/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -588,7 +588,7 @@ we shall soon be everything which is the direct
 reverse. I predict the worst consequences  
 from a half-starved, limping government, al
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_rottweiler_ver01:data:sn83045462:00280654723:1889043001:0344/pct:16.014834794335805,4.87071557426338,13.92447741065408,2.6458208057726997/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_rottweiler_ver01:data:sn83045462:00280654723:1889043001:0344/pct:16.02747808496291,4.879735417919423,13.937120701281186,2.6458208057726997/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -647,7 +647,7 @@ powerful liatuna that iver inhabited the
 terrestrial globe. Without them we shall  
 be everything which is the direct reve-se
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_keswick_ver01:data:sn85042460:00280769265:1889050101:0008/pct:63.6129585925767,48.55888807607901,13.645140527783738,1.8288222384784198/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_keswick_ver01:data:sn85042460:00280769265:1889050101:0008/pct:63.62011013373382,48.568641794684225,13.652292068940858,1.8239453791758107/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -671,7 +671,7 @@ upon crutches, and tottering ut every step.
 Tne response of the country was the convention  
 of I7d4, at Philadelphia. The leclaration o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_ashbel_ver01:data:sn82015679:00295870333:1889050101:0012/pct:110.13814616755793,68.43377654981869,16.577540106951872,4.740113969953376/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_ashbel_ver01:data:sn82015679:00295870333:1889050101:0012/pct:82.61838440111421,51.32964945605249,12.434540389972145,3.557243999309273/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -710,7 +710,7 @@ ver inhabited the terrestrial globe. Without
 hem we shall soon be everything which is the  
 irect reverse. I predict the worst conse
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_graftonnotch_ver01:data:sn83016025:00414210909:1889050101:0488/pct:60.887286408527984,44.381558778445935,10.189684903589905,2.2874661006956725/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_graftonnotch_ver01:data:sn83016025:00414210909:1889050101:0488/pct:60.877742946708466,44.3763263381278,10.192006269592477,2.2901438340014146/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -730,7 +730,7 @@ powerful nations that over inhabited the
 terrestrial globe Without them we shall  
 soon be everything which is the direc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_fisher_ver01:data:sn85058130:00206535775:1889050101:0470/pct:40.92465753424658,84.37371943723535,12.747336377473363,2.540636525064882/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_fisher_ver01:data:sn85058130:00206535775:1889050101:0470/pct:40.92465753424658,84.37371943723535,12.747336377473363,2.549742749169057/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -829,7 +829,7 @@ every tiling which is the direct reverse. 1
 predict the worst consequences from a half­  
 starved, limping Government, always mov
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_igglybuff_ver01:data:sn84023017:00414212992:1889050201:0443/pct:26.930101278432673,16.770347330222915,11.107421550722231,2.928978745463971/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_igglybuff_ver01:data:sn84023017:00414212992:1889050201:0443/pct:26.92563081009296,16.76817416094337,11.10972775564409,2.931838797460153/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -892,7 +892,7 @@ every thing which is the direct reverse. I
 predict the worst consequences from a half­  
 starved, limping Government, always mov
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_finney_ver02:data:sn83040198:00212473467:1889050201:0293/pct:47.60551948051948,35.51176792556103,18.033008658008658,4.116037219485495/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_finney_ver02:data:sn83040198:00212473467:1889050201:0293/pct:31.745602165087956,23.67816091954023,12.0297699594046,2.7476737821565407/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -913,7 +913,7 @@ every thing which is the direct reverse. I
 predict the worst consequences from a half­  
 starved, limping Government, always mov
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_garwood_ver02:data:sn84029386:00237285220:1889050201:0591/pct:24.454214675560944,33.912462412295355,16.00970285021225,3.6418309388573338/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_garwood_ver02:data:sn84029386:00237285220:1889050201:0591/pct:18.347232752084913,25.437131083639603,12.00909780136467,2.7285889297249137/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -954,7 +954,7 @@ that ever Inhabited the terrestrial globe.
 Without them we shall soon be  
 every tlilnj which la tba direct reverse. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:okhi:batch_okhi_comanche_ver01:data:sn83025010:00237284653:1889050201:1008/pct:81.98713366690494,41.065171688857745,14.242315939957113,3.4618079887876663/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:okhi:batch_okhi_comanche_ver01:data:sn83025010:00237284653:1889050201:1008/pct:61.52333273735026,30.805886475122634,10.691936349007689,2.592852137351086/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -974,7 +974,7 @@ erlul nations that ever inhabited the ter­
 restrial ulolie. Without &quot;Will we shall  
 soon be everything which is the direct re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_bittern_ver01:data:sn86072021:no_reel:1889050201:1003/pct:185.92272914097822,202.68507281553397,41.86189889025894,8.798543689320388/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_bittern_ver01:data:sn86072021:no_reel:1889050201:1003/pct:61.97424304699274,67.56169093851133,13.95396629675298,2.9328478964401294/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1015,7 +1015,7 @@ that eVct inbhbitcd tin terrestrial globe.
 Without them we shall soon lie  
 every thing which is the direct reverse. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_coldplay_ver02:data:sn83007654:00393342742:1889050301:0251/pct:30.08932142381016,17.13679102214134,10.63858152246367,1.8400566171266808/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_coldplay_ver02:data:sn83007654:00393342742:1889050301:0251/pct:30.085310583844308,17.13505863323898,10.640495867768594,1.84239789729074/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1055,7 +1055,7 @@ that ever Inhabited the terrestrial glolx).
 Without them we shall soon be  
 every thing which is tho direct retcrso. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_dracula_ver01:data:sn85052141:00206533766:1889050301:0298/pct:92.89372599231754,77.17171717171718,38.732394366197184,7.121212121212121/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_dracula_ver01:data:sn85052141:00206533766:1889050301:0298/pct:23.223431498079385,19.292929292929294,9.683098591549296,1.7803030303030303/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1081,7 +1081,7 @@ every thing which is the direct reverse. I
 predict the worst consequences from a half­  
 starved, limping Government, always mov
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_dunning_ver01:data:sn84022835:00237285049:1889050301:0412/pct:64.5448758752387,101.4019765571133,49.8408656906429,19.030108021144564/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_dunning_ver01:data:sn84022835:00237285049:1889050301:0412/pct:16.141356255969438,25.350494139278325,12.464183381088825,4.757527005286141/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1102,7 +1102,7 @@ every thing which is the direct reverse. I
 predict the worst consequences from a half­  
 starved, limping Government, always mov
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_dysprosium_ver01:data:sn88076998:00199918138:1889050301:1210/pct:25.950054288816503,43.91733818559917,15.83423814694173,3.5222251104756954/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_dysprosium_ver01:data:sn88076998:00199918138:1889050301:1210/pct:22.05701394585726,37.33382434174185,13.463904840032814,2.99760633400847/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1120,7 +1120,7 @@ wealthy, respectable and po*verlul nations
 that ever inhabited tho terrestrial globe.  
 Without them we shall soon b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_cayman_ver01:data:sn00065152:00279523374:1889050301:0555/pct:20.13613159387408,52.70635200187859,17.394592550576668,1.9373018668545263/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_cayman_ver01:data:sn00065152:00279523374:1889050301:0555/pct:20.13613159387408,52.710265743023754,17.41349971639251,1.9373018668545263/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1141,7 +1141,7 @@ every thing which is the direct reverse. I
 predict the worst consequences from a half  
 starved, limping Government, always mov
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_ida_ver01:data:sn89058007:00296020461:1889050301:0674/pct:38.82113821138211,24.137541002149078,14.13279132791328,3.348037552313087/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_ida_ver01:data:sn89058007:00296020461:1889050301:0674/pct:29.127134724857687,18.108811220450175,10.599078341013826,2.511028164234815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1161,7 +1161,7 @@ tottering at every step.&quot; The response
 of the country was the convention of  
 1787, at Philadelphia. The Declaratio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_hedgehog_ver01:data:sn82015133:00211104661:1889050401:0033/pct:42.5625,62.212572781999405,15.9125,3.888285798874963/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_hedgehog_ver01:data:sn82015133:00211104661:1889050401:0033/pct:28.38209552388097,41.47833810322708,10.615153788447111,2.59548011447745/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1187,7 +1187,7 @@ thing which is the direct reverse. 1
 predict the worst consequences from a  
 half starved, limping Government, al
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068402:00295878666:1889051601:0087/pct:57.14694110920526,32.525839793281655,16.23785020011435,7.558139534883721/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068402:00295878666:1889051601:0087/pct:42.8734810578985,24.397071490094746,12.180128663330951,5.673987941429802/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

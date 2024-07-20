@@ -58,7 +58,7 @@ forcement ?
 As a remedy for this danger of the concentra­  
 tion of power and authority in the judiciary, Mr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021205:00517171906:1857032801:0286/pct:5.7109557109557105,47.62658227848101,16.006216006216007,9.853279631760644/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021205:00517171906:1857032801:0286/pct:4.43095142513047,36.9179889264613,12.404656764351666,7.639998513618966/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -77,7 +77,7 @@ I cannot lay down my pen without recur­
 ring to one of the subjects of my former let­  
 in truth there is no danger I ap
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776981:1857040301:0693/pct:294.7826086956522,262.79271465741544,42.7536231884058,9.771610291991905/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776981:1857040301:0693/pct:73.69565217391305,65.69817866435386,10.68840579710145,2.4429025729979763/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -112,7 +112,7 @@ ces began to war, the canons of the­
 church were destroyed.  
 &quot;It was,&quot; says he, &quot;first mitrum that
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776981:1857040301:0693/pct:249.92753623188406,276.66955767562877,88.40579710144928,21.220005782017925/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776981:1857040301:0693/pct:62.481884057971016,69.16738941890719,22.10144927536232,5.305001445504481/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -147,7 +147,7 @@ ng by degrees, must produce at some time
 ins &quot;Jlmaeut of tenure, facility of removal  
 or some
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776981:1857040301:0693/pct:246.8840579710145,301.35877421220005,92.2463768115942,41.74616941312518/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776981:1857040301:0693/pct:61.721014492753625,75.33969355305001,23.06159420289855,10.436542353281295/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -193,7 +193,7 @@ solidation is the present principle of dis­
 tinction between Kepubl: ana and pseudo  
 !;••:.ublisans, but rvai Federalist*.’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:00332895047:1858040201:0683/pct:5.7214449780747545,86.88771665410701,12.758404677385675,5.35041446872645/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:00332895047:1858040201:0683/pct:5.720250521920668,86.87462326702833,12.760960334029228,5.35337552742616/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -252,7 +252,7 @@ the people should remain quiet, and not
 venture upon epening their mouths in  
 condemnation of that decision, and o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:0027952939A:1858082801:0958/pct:125.97233098407726,142.57244534824605,55.9383972853041,91.13370615149975/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:0027952939A:1858082801:0958/pct:41.990776994692425,47.52414844941536,18.6461324284347,30.377902050499916/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -269,7 +269,7 @@ condemnation of that decision, and o
 and consolidation is the present principle o  o o te aie o a  
 of distinction between Republicans and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:0027952939A:1858082801:0958/pct:146.9590185330201,155.10930350788,69.17253980683894,3.019827147941027/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:0027952939A:1858082801:0958/pct:48.9863395110067,51.70310116929334,23.057513268946316,1.0066090493136757/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -291,7 +291,7 @@ Kedi-ralism now arrays itself, and consolidation is the pre!
 mg cut principle of distinction between Republicans and |&gt;seudi  
 Lbe Republicans, but real Federalists.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1859022401:0470/pct:61.856918048662386,24.93629070316187,12.916111850865512,2.6710712600283153/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1859022401:0470/pct:61.856918048662386,24.942582979392796,12.920146874873906,2.6710712600283153/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -316,7 +316,7 @@ Ard General dackson entertained similar opinions in
 refertnce to the powers of the Supreme Court. In his  
 mesrrge vetoing the bill for rechartering the Bank o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530650:1860061201:0320/pct:201.88710478397616,35.00889152341435,48.28670749875848,13.941908713692946/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530650:1860061201:0320/pct:67.29570159465872,11.669630507804781,16.09556916625283,4.647302904564316/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -341,7 +341,7 @@ present principle of distinction between Repub I
 licans and pseudo Republicans, but real feder j  
 alists.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn83032276:00296028599:1860061401:0345/pct:7.0923152871482635,55.879243509926,15.007404969557347,5.567954892517326/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn83032276:00296028599:1860061401:0345/pct:7.097800449783336,55.883159090019184,15.001919806922276,5.567954892517326/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -368,7 +368,7 @@ Federalists.&quot;
 In the celebrated controversy on the   
 S. Bank, the Democratic party were force
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn82015672:00296021969:1860061901:0140/pct:18.872870249017037,257.5916230366492,50.262123197903016,27.49362330514163/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn82015672:00296021969:1860061901:0140/pct:4.71976401179941,64.3979057591623,12.569649295313011,6.873405826285407/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -407,7 +407,7 @@ ty of the Supreme Court must not, therefore,
 be permitted to control the Congress or the Ex­  
 ecutive when a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009571:00279523891:1860071301:0115/pct:82.37202087152728,46.68652271034996,69.69397828232971,242.4103818742687/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009571:00279523891:1860071301:0115/pct:27.45346869712352,15.560519038502447,23.228050385410793,80.79486634049493/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -432,7 +432,7 @@ present principle of distinction between Re­
 publicans and peeudo-Republicans, but real  
 Federalists.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009571:00279523891:1860080301:0128/pct:78.80748136689635,48.10300974989402,34.059907186049784,15.271301398897839/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009571:00279523891:1860080301:0128/pct:26.26546681664792,16.032637490727986,11.351706036745407,5.0898943873406095/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -482,7 +482,7 @@ tions: “1 should greatly, prefer -four
 “current opinions out of four gives a  
 “ strong presumption of right.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kedzie_ver02:data:sn82014064:no_reel:1868020401:0002/pct:1.8001978239366963,88.40461863717678,9.218595450049456,4.683688404618637/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kedzie_ver02:data:sn82014064:no_reel:1868020401:0002/pct:1.8001978239366963,88.41275004065702,9.228486646884273,4.687754106358757/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -503,7 +503,7 @@ hi- government by tho noiseless, and iheie­
 iu:v unmanning, instrumentality of tho Su­  
 preme Court,&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293460:1872112401:0499/pct:6.974690994702766,124.95803021824287,14.302530900529723,4.073866815892558/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293460:1872112401:0499/pct:5.239146431199411,93.72132064913262,10.728476821192054,3.055400111919418/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -532,7 +532,7 @@ the consolidation of our government by
 the noiseless and, therefore, unalarmlng,  
 instrumentality of the Supreme Court.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665568:1895091701:0176/pct:38.13305709023941,85.38327526132404,16.75874769797422,3.484320557491289/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665568:1895091701:0176/pct:28.609256274464656,64.0418118466899,12.571954869905595,2.6132404181184667/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -557,7 +557,7 @@ consolidation of our government by
 the noiseless and therefore uaalarming  
 instrumentality of the supreme court.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn85030821:00212472888:1895092001:0193/pct:30.579613590939374,110.80978928470188,21.152564956695535,9.335727109515261/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn85030821:00212472888:1895092001:0193/pct:20.389805097451273,73.87319285646792,14.1096118607363,6.226967778512709/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -587,7 +587,7 @@ successively as the maturity of circum­
 stances may render their appearance sea­  
 sonable.&quot; Hls premonition was that hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:00175042933:1897051601:0813/pct:63.02521008403362,41.600970285021226,50.7257448433919,12.795633717404488/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:00175042933:1897051601:0813/pct:15.765335371679726,10.400242571255307,12.688706287024651,3.198908429351122/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -610,7 +610,7 @@ government by the noiseless, and
 therefore unalarmlng, Instrumentality  
 of the supreme court.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_marmaduke_ver02:data:sn89066695:00415661782:1897072901:0503/pct:39.006024096385545,19.88697524219591,14.081325301204819,6.472012917115178/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_marmaduke_ver02:data:sn89066695:00415661782:1897072901:0503/pct:29.271049161800715,14.921959095801938,10.566961763043889,4.857373519913886/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -188,7 +188,7 @@ They petitioned for a retribution of their
 wr ongs* they prayed for a cessation of their grie­  
 runee&#x27;s) but their&#x27; petitions did not procure th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216468:1832070701:0340/pct:7.766011094301564,80.13633102128678,18.204740292486132,9.315953121262856/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216468:1832070701:0340/pct:7.764705882352941,80.12674877436326,18.207282913165265,9.318824983060304/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

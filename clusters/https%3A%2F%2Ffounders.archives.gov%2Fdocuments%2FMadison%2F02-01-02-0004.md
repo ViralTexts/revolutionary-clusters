@@ -124,7 +124,7 @@ and of the Independence of the United Sattcs of Amer­
 ica the 15th.  
 (Signed) JAMES L. CATFCABT
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1801042001:0582/pct:32.61892315734448,20.6878362696487,20.125457396759018,51.2184829623378/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1801042001:0582/pct:32.613240418118465,20.685654008438817,20.12630662020906,51.21571729957806/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -240,7 +240,7 @@ January 1801, and of the Independence of
 the United States of America the 25h.  
 (Signed) JAMES L, CATHCART
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1801042101:0485/pct:23.263780753659297,5.816466889369228,16.78604796013703,66.76164275889172/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1801042101:0485/pct:23.268971244679747,5.816466889369228,16.79642894217793,66.76491779655466/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -349,7 +349,7 @@ dence of the United States of America
 the 2 st!i.  
 (Signed) JAMES L. CATHCART
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801042701:0002/pct:2.443510246978455,1.4452214452214451,47.609038360483446,94.68531468531468/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801042701:0002/pct:2.443510246978455,1.4452214452214451,47.626554562970746,94.7060347060347/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -876,7 +876,7 @@ I HAD the honor to inform you
 .in my ¢ircular letters of Nov. 1800,  
 ~and 3d of January 1801, of the stat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1801060901:0512/pct:42.04527953180348,78.71651457168089,16.540890189434776,8.370130507310371/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1801060901:0512/pct:42.05554699933261,78.71651457168089,16.540890189434776,8.376672227128513/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

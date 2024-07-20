@@ -79,7 +79,7 @@ neutrality, to the commerce or property
 of the French o-n the sea. or in the ports of  
 France.&quot; Thus have they faithfully en
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793092501:0002/pct:72.91399229781771,43.14862972594519,20.892169448010268,4.140828165633127/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793092501:0002/pct:72.93003851091143,43.16363272654531,20.884146341463413,4.135827165433087/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -158,7 +158,7 @@ commetce with the continent of Europe
 generally; because, if those powers  
 would not suffer provisions to he car
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810111301:0367/pct:59.49834009590557,43.119734490681644,17.244559203246034,9.752361501148838/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810111301:0367/pct:59.48736861515766,43.11423101467773,17.247525969635504,9.755371197617528/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -227,7 +227,7 @@ of their neutrality, to the commerce or
 properly &lt;u me r rencn on ine sea or ill mo pons  
 of France.** You well know, Mr. President
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661496:1852032901:0320/pct:45.10188679245283,20.93538605085141,14.822641509433963,3.6738978306508048/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661496:1852032901:0320/pct:45.106918238993714,20.93927377342353,14.837735849056603,3.6816732757950392/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

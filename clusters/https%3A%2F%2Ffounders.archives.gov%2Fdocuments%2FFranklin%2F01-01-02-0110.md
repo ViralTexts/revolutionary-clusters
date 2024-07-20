@@ -610,7 +610,7 @@ Mary Philipse, &amp;c., unto the said Joanna Philipse and Bever
 “the statute for transferring of uses into possession,  
 “—All that tlie manor and lordship of Shandy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830031101:0241/pct:21.09475032010243,53.1261038502296,18.213828425096033,6.511244554338868/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830031101:0241/pct:21.09137461993919,53.119849305392044,18.216247933002613,6.5144023232085395/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -636,7 +636,7 @@ merchant, thereof made; which said bargain and i
 ^tlie statute tor transferring ot uses into possession,  
 -;-A11 that the manor and lordship of Shandy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830031201:0095/pct:41.03167137033553,35.41691518549445,17.497648165569142,6.632470475963259/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830031201:0095/pct:41.025239065684275,35.412690839694655,17.500130636985944,6.635655216284987/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -838,7 +838,7 @@ and the said party of the first part, and his heirs, the above
 described and hereby granted and released premises, and every  
 part and parcel thereof, with the appurtenances, unto the sal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530492:1856013001:0195/pct:200.91362126245846,120.90139501609634,46.97674418604651,22.701800405389292/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530492:1856013001:0195/pct:66.97120708748616,40.300465005365446,15.65891472868217,7.567266801796431/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -866,7 +866,7 @@ ond part, his heirs and assigns, make, do and execute,
 or cause to be made, done, and executed, all and ev­  
 ery such
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:0020653610A:1869102101:0495/pct:121.52996845425868,297.35171132104693,50.078864353312305,20.7526715192814/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:0020653610A:1869102101:0495/pct:30.400473466166897,74.33792783026173,12.527125665811797,5.18816787982035/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -958,7 +958,7 @@ the day of the date of these presents, and by force of
 the statutes for transferring uses into possession and to their  
 heirs and assignees forever
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_itchweed_ver01:data:sn83030313:00271743750:1871082801:0590/pct:53.03030303030303,186.17068811438784,48.21083172147002,6.1997319034852545/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_itchweed_ver01:data:sn83030313:00271743750:1871082801:0590/pct:17.67676767676768,62.05689603812928,16.070277240490007,2.0665773011617516/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -981,7 +981,7 @@ corts and charges in the law, of the said parties of the second pari, their
 beirs and assigha, make, do and execute or cause to be made, done and  
 erecuted all and every such
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fortran_ver01:data:sn83030214:00206531095:1871092501:0171/pct:100.714865962632,94.9766355140187,47.09991876523152,9.485981308411215/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fortran_ver01:data:sn83030214:00206531095:1871092501:0171/pct:33.571621987544,31.6588785046729,15.69997292174384,3.161993769470405/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1046,7 +1046,7 @@ counsel learned in the law, shall be reasonably advised
 or required.  
 In witness whereof, the said Ida has horeunto set he
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grass_ver01:data:sn83030214:00206531125:1872121901:0793/pct:151.65838807883353,106.27658351534659,46.851466111200125,17.116909989653983/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grass_ver01:data:sn83030214:00206531125:1872121901:0793/pct:50.55279602627784,35.425527838448865,15.617155370400043,5.7056366632179945/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1073,7 +1073,7 @@ her or their counsel learned in the same shall be reasona­
 bly advised or required.  
 In witness whereof the said Ida has hereunto set he
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743804:1872121901:1018/pct:52.164644145621516,94.82002768804799,46.53984913086258,13.474850023073373/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743804:1872121901:1018/pct:17.388214715207173,31.606675896015997,15.51328304362086,4.491616674357791/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1108,7 +1108,7 @@ HoW THe AGRreMeNt WAs DRAWN UF.
 The witness said that the paper was drawn up,  
 executed, and delivered on the grounds of wha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536147:1872121901:0638/pct:57.77439024390244,55.94487611787128,50.6859756097561,27.444656208767043/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536147:1872121901:0638/pct:14.4463502954069,13.98621902946782,12.673908900323994,6.861164052191761/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1198,7 +1198,7 @@ cept the sajd trusts and covenant, and agree to
 xecute them.  
 In withess whereof the parties to these
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:0020653350A:1878021901:0817/pct:162.52838758516276,82.31970260223048,50.03785011355034,39.078066914498145/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:0020653350A:1878021901:0817/pct:40.655178943381934,20.57992565055762,12.51656883166067,9.769516728624536/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

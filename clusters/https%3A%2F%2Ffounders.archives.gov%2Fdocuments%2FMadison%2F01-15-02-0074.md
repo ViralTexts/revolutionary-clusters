@@ -187,7 +187,7 @@ the Proclamation, it cou&#x27;dnbt avail the wri­
 ter, in the prfifent difcuflion ; but the fact ll  
 rto Itch iprm is to be found in it, nor any other
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793091801:0001/pct:46.37120761451517,17.09237564816593,20.285544318857823,74.30382177837527/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793091801:0001/pct:46.37120761451517,17.101978106395237,20.30785246876859,74.31342423660458/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -325,7 +325,7 @@ an&lt; conducive to the latter ? The sense of
 treaties was to N- learnt fri.ni the treaties  
 tbtnifelves.&quot; Ha&lt;! he coufulted tis Vattel,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793091801:0001/pct:66.59726353361094,16.400998655655847,20.91017251635931,78.35605915114269/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793091801:0001/pct:66.60469958358121,16.400998655655847,20.91017251635931,78.365661609372/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -539,7 +539,7 @@ Executive d?d or did not brieve a Hate of neu
 trality to be confident with our treaties.  
 I^ELVIDIUS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793091801:0002/pct:11.956521739130435,4.334305150631681,40.48913043478261,89.50437317784257/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793091801:0002/pct:11.979166666666666,4.339164237123421,40.481582125603865,89.50437317784257/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -559,7 +559,7 @@ to Spain as we&#x27;ll as to Great-Britain € id Holland
 He had jorgotten that &#x27;Spain was not included in the  
 proclamation.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793091801:0002/pct:33.54468599033817,42.371234207968904,19.32367149758454,3.187560738581147/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793091801:0002/pct:33.55978260869565,42.37609329446064,19.32367149758454,3.192419825072886/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -580,7 +580,7 @@ proclamation.
 contrary to my intention, and beyond my  
 “ engagement.” Again, lie says, that the fait
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1821052901:0029/pct:18.47879083373964,66.90216740510118,14.578254509995125,3.8917494910789125/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1821052901:0029/pct:18.47578810529737,66.89415708812261,14.581302134113313,3.895274584929757/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -606,7 +606,7 @@ them a am ami allusive, by giving them a sense quite dif­
 ferent Iron, that ill which they were presented to you. and  
 Contrary to what was our mutual understanding 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1833022801:0383/pct:2.7613412228796843,51.52688647930958,15.384615384615385,5.355167072361142/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1833022801:0383/pct:2.7609522467953234,51.52118597189955,15.387143729163732,5.358262344654645/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

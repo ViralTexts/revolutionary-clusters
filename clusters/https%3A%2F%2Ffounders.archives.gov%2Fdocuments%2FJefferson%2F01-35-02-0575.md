@@ -81,7 +81,7 @@ pendence of the United States of
 America, the twentv-fixth.  
 Tii. JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801120401:0003/pct:56.20229007633588,36.60736347912034,16.583969465648856,32.83914010378058/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801120401:0003/pct:56.20229007633588,36.61560003294622,16.59033078880407,32.84325838069352/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -147,7 +147,7 @@ United States of America,
 the twenty-fixth.  
 Th. JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801120701:0003/pct:40.256211180124225,41.571072319201996,16.42080745341615,33.915211970074814/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801120701:0003/pct:40.256211180124225,41.571072319201996,16.446687370600415,33.927680798004985/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -353,7 +353,7 @@ L. S. Washington, this loth day of July, A.
 D. iHil.a’nd of the Independence ot  
 the United 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn83026170:00414216298:1821071201:0612/pct:3.1977754605491833,70.51146010186757,18.335071254779283,21.76358234295416/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn83026170:00414216298:1821071201:0612/pct:3.1972198088618593,70.50397877984085,18.33767738198668,21.764809902740936/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -405,7 +405,7 @@ L. S. Washington, this loth day of July. A.
 D. 1821, and of the Independence of  
 the United Slates the forty six&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn83026170:00414216298:1821071301:0616/pct:77.9045643153527,42.07523245984785,17.997925311203318,21.565934065934066/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn83026170:00414216298:1821071301:0616/pct:77.89109766637857,42.07078711040676,18.000576202823392,21.567177319950694/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -448,7 +448,7 @@ L. S. Washington, this loth day of July, A.
 D. 1821, and of (he Independence ot  
 the 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn83026170:00414216298:1821071401:0620/pct:78.20007171029043,42.095706045716724,19.0032269630692,16.64174321726127/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn83026170:00414216298:1821071401:0620/pct:78.18605484853917,42.0912100822386,19.005795542809345,16.64352593541956/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -502,7 +502,7 @@ with my hand. Done at the City of
 L. S. Washington, this loth day of July, A.  
 D. 1821, and of the Independence
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn83026170:00414216298:1821071601:0624/pct:78.02040451047074,27.462815261909896,18.34616073026669,21.340806208234532/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn83026170:00414216298:1821071601:0624/pct:78.00644237652112,27.459855587886626,18.34884275829158,21.342098645687393/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -553,7 +553,7 @@ w ith my band. Done at the City
 L. S. Washington, this loth day of July, A*  
 D. 1821, and of the Independence o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn83026170:00414216304:1821071801:0009/pct:76.46851916989095,19.539239961244483,18.22018994020401,21.11099149531704/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn83026170:00414216304:1821071801:0009/pct:76.45507297344821,19.53713670613563,18.22284742981068,21.112307140294224/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -609,7 +609,7 @@ jnjr all officers, according to their respective fl
 stations, to use their utmost endeavors to ^ fl  
 prebend and bring the said WILLIS AN. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216389:1827091201:0128/pct:79.57600827300931,2.911242603550296,20.2688728024819,13.846153846153847/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216389:1827091201:0128/pct:79.56229536446665,2.91089811856585,20.27112413119651,13.848459748353251/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -799,7 +799,7 @@ I crime, or crimes aforesaid.
 JAMES MONROE.  
 By the President
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ellis_ver01:data:sn85025007:00415663596:1866073101:0315/pct:17.59351620947631,65.11921813126632,17.65586034912718,11.56795012216699/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ellis_ver01:data:sn85025007:00415663596:1866073101:0315/pct:17.601828761429758,65.11921813126632,17.65586034912718,11.570758558710367/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -843,7 +843,7 @@ ents, and signed the same with my hand.
 Done at the city of Washington the 10th day of  
 July, A. D. 1821, and the Independence of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558329:1874120301:0560/pct:18.314763231197773,67.29979466119096,43.5933147632312,36.29363449691992/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558329:1874120301:0560/pct:4.579488072436009,16.82494866529774,10.900226362528295,9.07340862422998/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -888,7 +888,7 @@ presents, and signed the same with my
 hand.  
 D.me at the city of Washington the 10th da
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_fezza_ver01:data:sn85025007:00415663742:1874120401:0539/pct:1.397624039133473,41.17591275486012,15.457721872816212,15.941204362256993/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_fezza_ver01:data:sn85025007:00415663742:1874120401:0539/pct:1.4069415327276962,41.17591275486012,15.467039366410436,15.950687529634898/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

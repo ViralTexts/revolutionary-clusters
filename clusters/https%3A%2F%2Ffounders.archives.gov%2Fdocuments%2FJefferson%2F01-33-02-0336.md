@@ -103,7 +103,7 @@ would have been on the ground in eight week?,
 would have repaired the constitution where it  
 was defective, and wound it up again.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826081201:0661/pct:42.432387031748696,57.267344430789855,17.83974466655468,37.962238855993746/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826081201:0661/pct:42.42526032919046,57.2609472743521,17.84234688164819,37.9617217753947/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -170,7 +170,7 @@ tual l resident and Vice President, would have been on !
 constitution where it was defective, and wound it up !  
 Jga in.71 1 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826090801:0220/pct:6.080655324511657,36.391801715919925,17.926906112161312,28.01477597712107/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826090801:0220/pct:6.079697590171681,36.38746574526391,17.92933270331286,28.015409666785814/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

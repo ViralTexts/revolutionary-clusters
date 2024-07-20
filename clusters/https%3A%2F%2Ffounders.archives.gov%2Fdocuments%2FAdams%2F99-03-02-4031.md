@@ -136,7 +136,7 @@ HENRY ADAMs,
 whe took his flight from the dragon  
 persecution in Devonshire, in Eng and,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271742976:1848031401:0318/pct:60.773212552571984,184.71117260463507,32.869621481721126,5.1539259771705295/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271742976:1848031401:0318/pct:20.257737517523996,61.57039086821169,10.956540493907042,1.7179753257235097/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -168,7 +168,7 @@ gality, industry, and perseverance ef his ancestors, in hopes
 of recommending an imitation of their virtues to their pos­  
 terity.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1851080201:0715/pct:2.97790585975024,11.901461021648714,30.616165774667216,86.08296896662046/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1851080201:0715/pct:2.97790585975024,11.908570616046354,30.634463199304697,86.08652376381927/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

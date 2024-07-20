@@ -194,7 +194,7 @@ and rest of the partners, settlers of the tract of land
 herein before granted, their heirs and assigns, that  
 the said tract of land so butted and bounded as a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182963:1845082101:0103/pct:60.54100472305711,65.16838674633351,17.668527264920566,11.977186311787072/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182963:1845082101:0103/pct:60.52801030264005,65.15953835709436,17.67010088001717,11.978954514596062/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -240,7 +240,7 @@ A successors that the said Ludwick &amp; Ca-
 described lols, or parcel of Ground, Heredit-  
 aments, &amp; premises hereby granted, sol
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn85055197:00280776361:1853093001:0092/pct:13.407407407407407,56.32819319173698,101.48148148148148,319.46464940354963/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn85055197:00280776361:1853093001:0092/pct:3.3518518518518516,14.082048297934245,25.37037037037037,79.86616235088741/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -306,7 +306,7 @@ fully claiming or to claim che same, and that the saine now are
 free, clear, discharged and unincumbered, of and from all fore  
 mef and other grants, titles, charges, estates, judgments, taxe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530492:1856013001:0195/pct:200.79734219269102,91.5225944914749,47.093023255813954,31.10766662692262/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530492:1856013001:0195/pct:66.93244739756368,30.5075314971583,15.69767441860465,10.369222208974206/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -418,7 +418,7 @@ ground, situate and lying in the said city
 ; of Washington, and known and described  
 a? Lois numbered one (I.) two (2.) thre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gorn_ver01:data:sn84026826:00271768187:1859051301:0060/pct:29.90592507014359,19.680715197956577,13.863673873576499,12.515964240102171/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gorn_ver01:data:sn84026826:00271768187:1859051301:0060/pct:29.90592507014359,19.689229459344403,13.874676789349177,12.51170710940826/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -442,7 +442,7 @@ persons, shall and will warrant and for
 ever defend by these presents.  
 In witness whereof, I have hereunto se
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn84026399:00237287897:1860102501:0450/pct:49.817961165048544,56.77179962894249,19.068567961165048,6.947021232735518/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn84026399:00237287897:1860102501:0450/pct:37.37481031866464,42.57884972170687,14.309559939301973,5.215419501133787/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -482,7 +482,7 @@ And that the same now are free, clear, discharged,
 and unincumbered, of and from all former and other  
 grants, titles, charges, estates, Judgments, taxes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:0020653610A:1869102101:0495/pct:121.52996845425868,277.03267771410873,50.078864353312305,21.92968870992721/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:0020653610A:1869102101:0495/pct:30.400473466166897,69.25816942852718,12.527125665811797,5.482422177481802/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -556,7 +556,7 @@ other grants, titles, charges, estates, judgments, taxes,
 sments, and incumbrances of what nature or kind soerer.  
 And also that the said
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fortran_ver01:data:sn83030214:00206531095:1871092501:0171/pct:100.47116165718927,72.1144859813084,47.44110479285134,25.4088785046729/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fortran_ver01:data:sn83030214:00206531095:1871092501:0171/pct:33.490387219063095,24.03816199376947,15.813701597617113,8.469626168224298/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -606,7 +606,7 @@ claiming or to claim any estate, right, title, or
 interest of, in, or to the same, by, from, or under  
 them or either of them; and that said parties o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:0020653350A:1878021901:0817/pct:160.93868281604844,46.27509293680298,51.62755488266465,39.078066914498145/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:0020653350A:1878021901:0817/pct:40.25752698352585,11.568773234200744,12.914220791516758,9.769516728624536/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

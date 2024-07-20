@@ -32,7 +32,7 @@ Again, in writing to President Monroe on the 2&#x27;td
 confederacy is exactly what is wanting to advance our &#x27; 1  
 power as a nation to the point of its utmost interest.&quot; j 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82006534:00415661101:1859012701:0093/pct:1.501937984496124,46.85341037558096,15.810723514211887,3.152870242431855/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82006534:00415661101:1859012701:0093/pct:1.5073212747631353,46.85341037558096,15.821490094745908,3.1570573211070636/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -51,7 +51,7 @@ For certainly her addition to our confederacy is exactly what
 is wanting to advance our power as a nation to the point of its  
 utmost interest
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743312:1859012701:0208/pct:98.08186333276245,194.7703931058907,45.94964891248502,7.13020894817613/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743312:1859012701:0208/pct:32.69395444425415,64.92346436863023,15.316549637495005,2.37673631605871/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -87,7 +87,7 @@ fullness of its maturity from its native tree gractint
 bosem of the common mother earth; and that her ultimate an  
 nexation to this republic will be indispensable to the continn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743312:1859020501:0284/pct:146.47267805785822,178.92693258030357,48.299780071053966,11.35427697376162/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743312:1859020501:0284/pct:48.82422601928608,59.64231086010119,16.09992669035132,3.784758991253873/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -107,7 +107,7 @@ our Confederacy is exactly what is wanting to
 advance our power as a nation to the point of  
 its utmost interest,&quot; and would &quot;fill up th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290082:1859021101:0140/pct:130.74324324324326,103.73906125696102,33.8963963963964,4.909648823729969/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290082:1859021101:0140/pct:32.69501548859476,25.934765314240256,8.476485497043086,1.2274122059324923/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -132,7 +132,7 @@ Here is adireet proposition from Mr. Jefferso
 
 ---
 
-## [From _The United States democratic review_](https://archive.org/details/sim_united-states-democratic-review_1859-04_43/page/n24/mode/1up?view=theater)
+## [From _The United States Democratic Review (1856-1859)_](https://archive.org/details/sim_united-states-democratic-review_1859-04_43/page/n24/mode/1up?view=theater)
 
 #### 1859-04-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -180,7 +180,7 @@ terest.”
   
 ANOLDSUrUtCT RtVAMPtO.^(icucral .Ionian, once iMuiiitimdcr of^the Cuban levolutlonists, contributes^to l he.I illy number of the PWtMH an^artice on ^Why we need Cuba.&#x27;&#x27; We^need it principally, he says, in ord^ r lo^control the (Jull of Mexico. Its im^^portance from a strategic point ot view^lias long been recogn.red. In ls-j;{ \|r^.lelfy KM wrote:^ l ite addition of the^Island of Cuba to our confederacy is^exactly what is wanted to round our^power as a nation to the point of its^utmost interest.^ John QtslMf Ailains,^Van Huren and Webster are quoted by^(ieticral .Ionian to the same purpose.^^ | t bars,^ said Mr. Webster, ^lite en-^trance to that great river which drains^halt of the North American cant tt t.^It keeps watch at the doorway ot anr^intercourse with California. Terri^^torially mi l couunereally, it would, tu^our hands, be ex1 remely valuable^^ it^is upon the comtii.TCial import mice of^Cuba to tlm I inte l S a&#x27;cs that UaQ.^i ral Jordan lays chief stiess, ;mi| h,.^presents agur. s relating to the islau i&#x27;s^trade that are simply as&#x27;.otiiil.iug. \\,.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_cutthroat_ver01:data:sn84036012:00294550586:1891070601:0161/pct:78.22843822843822,316.5873771011735,58.55477855477856,62.733904218204884/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_cutthroat_ver01:data:sn84036012:00294550586:1891070601:0161/pct:19.557109557109555,79.14684427529338,14.63869463869464,15.683476054551221/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -213,7 +213,7 @@ predictions will nut be questioned, but the
 propriety of his exercising that right in the  
 pulpit is another matter. To a great man
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_oakland_ver01:data:sn94052989:00175040109:1891070801:0070/pct:27.027898726011934,26.64183736809435,10.965973230124174,7.932960893854749/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_oakland_ver01:data:sn94052989:00175040109:1891070801:0070/pct:27.027898726011934,26.64183736809435,10.970004837929366,7.948479205462446/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -231,7 +231,7 @@ confederacy is exactly what is wanted to
 round our power as a nation to the point  
 of its utmost interest.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_ketchup_ver01:data:sn87068192:00279529650:1891080601:0702/pct:65.70091375083575,62.95332823259373,14.46400713171384,2.325937260902831/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_ketchup_ver01:data:sn87068192:00279529650:1891080601:0702/pct:65.68627450980392,62.9436964504284,14.466354723707665,2.329406364749082/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -284,7 +284,7 @@ what Is wanted to round our power as
 a nation to the point of it,s utmost in­  
 terest.&quot; Again he wrote: &quot;I candidl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665581:1896013101:0323/pct:22.436479128856625,92.70994332818135,16.696914700544465,6.955177743431221/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665581:1896013101:0323/pct:16.83494044242768,69.53460415593337,12.524106636415201,5.220676627168126/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -305,7 +305,7 @@ is exactly what is wanted to round our
 power as a nation to the point of its utmost  
 interest.&quot; In a later letter, the famous on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175042854:1896030601:0865/pct:72.82282282282283,363.47653264026906,49.474474474474476,15.532793150894358/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175042854:1896030601:0865/pct:18.209123333959077,90.86913316006726,12.370940491834054,3.8831982877235895/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -389,7 +389,7 @@ the addition of Cuba &quot;is exactly what is
 wanting to advance our power as a nation  
 to the point of its utmost interest;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:0017504291A:1897010101:0014/pct:234.1925701288855,149.51111111111112,50.49279757391964,6.103703703703704/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:0017504291A:1897010101:0014/pct:58.57034508911642,37.37777777777778,12.627986348122867,1.525925925925926/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -432,7 +432,7 @@ exactly what is wanting to round our
 power as a nation to the point of its utmost  
 interest
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:00415665702:1897061801:0462/pct:16.538513422366112,40.03413997389296,12.532038311075139,12.169896575961442/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:00415665702:1897061801:0462/pct:16.547506632492468,40.037487030156974,12.536534916138315,12.176590688489474/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -463,7 +463,7 @@ country shall annex it, and that this has
 been our interest and policy for genera­  
 tions. Yet how could we carry out tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042982:1898013101:0415/pct:125.67672080433101,13.00167862047917,105.02706883217324,377.5980466961697/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042982:1898013101:0415/pct:31.431334622823986,3.2504196551197926,26.266924564796906,94.39951167404243/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -480,7 +480,7 @@ tions. Yet how could we carry out tha
 advance our power as a nation to the  
 point of its utmost interest.&quot; If thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn86071719:00280777729:1898021601:0904/pct:69.31649331352155,259.5700518902891,49.18276374442794,7.175685693106004/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn86071719:00280777729:1898021601:0904/pct:17.33234255991083,64.89251297257228,12.29797510681776,1.793921423276501/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -635,7 +635,7 @@ statesmen and played an important part in our foreign policy.
 
 ---
 
-## [From _The Living Age (1897-1941)_](https://archive.org/details/sim_living-age_1898-07-16_218_2819/page/n13/mode/1up?view=theater)
+## [From _The Living age_](https://archive.org/details/sim_living-age_1898-07-16_218_2819/page/n13/mode/1up?view=theater)
 
 #### 1898-07-16 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -703,7 +703,7 @@ wanted to round our power as a nation
 to the point of Its utmost interest.&quot;  
 Mr. Calhoun, at a later date, sai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_garfield_ver01:data:sn89067274:00294556977:1898080401:0759/pct:59.07936507936508,38.909774436090224,13.126984126984127,5.137844611528822/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_garfield_ver01:data:sn89067274:00294556977:1898080401:0759/pct:44.32449595173837,29.18546365914787,9.8428321955866,3.8596491228070176/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

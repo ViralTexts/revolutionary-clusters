@@ -62,7 +62,7 @@ coneetsion too much to tegain her good will.
 With cempect to the distubution of your time, the  
 follow ngls what I thould approver Prout s to to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_latvia_ver01:data:sn86092535:00202190510:1854112701:0447/pct:115.6896551724138,69.55526955526956,57.2198275862069,41.14114114114114/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_latvia_ver01:data:sn86092535:00202190510:1854112701:0447/pct:28.92241379310345,17.38881738881739,14.304956896551724,10.285285285285285/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -132,7 +132,7 @@ P. S.?Keep my letters and read them at times, tluit you
 will always have preaent in your mind thoee things that  
 will endear you to me.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:0041566123A:1854120201:0536/pct:15.801501795625205,60.84510563820478,18.543911198171728,24.6530816352044/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:0041566123A:1854120201:0536/pct:15.812384372619436,60.853440013335,18.53846990967461,24.64891444763929/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -239,7 +239,7 @@ times, that you will always have pr**&gt;ent in
 ▼our mind those things that will endear \o»i  
 to me.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215920:1854121401:0494/pct:6.537805571347357,26.43106022896964,12.639757437938222,35.646732560620066/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215920:1854121401:0494/pct:6.5371861676930365,26.429180887372013,12.641717985157113,35.64656806977626/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -322,7 +322,7 @@ tine s, tnat vou wiil always have present in
 your mind those things that will endear vou to  
 me.&#x27;&#x27;-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016750:00383347166:1854121601:0695/pct:68.99758870134343,22.25332400279916,12.693765070616603,31.980405878236528/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016750:00383347166:1854121601:0695/pct:69.00332988862097,22.262654536972242,12.693765070616603,31.980405878236528/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -482,7 +482,7 @@ Th. JEFFERSON.
 times, that you will always have present in your  
 mind those things that will endear you to me.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293198:1855010401:0012/pct:127.37875997544506,42.975598199478796,102.57826887661142,341.3882966121772/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293198:1855010401:0012/pct:31.85446730119742,10.743899549869699,25.65244089653055,85.3470741530443/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -537,7 +537,7 @@ lon ae ite ww
 self in music. From five  
 English, write, ete. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279559836:1855011301:1103/pct:324.53166815343445,285.49273021001613,51.761819803746654,83.5702746365105/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279559836:1855011301:1103/pct:81.11482720178373,71.36165401389113,12.937569676700111,20.88919399127766/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -580,7 +580,7 @@ in your taind those things that will endear
 you to me.&quot;  
 An admirable portrait of Miss Jefferson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279559836:1855011301:1104/pct:23.683615819209038,17.36604260813428,51.728813559322035,61.991607488702385/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279559836:1855011301:1104/pct:5.919566199728875,4.3408100693884135,12.929281518300948,15.495401000484105/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -663,7 +663,7 @@ at times, that you will always have present in
 your mind those things that will endear you  
 to me.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_iceland_ver01:data:sn84026788:00202192300:1855012301:0288/pct:70.02743484224966,26.842800528401586,13.614540466392318,35.25759577278732/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_iceland_ver01:data:sn84026788:00202192300:1855012301:0288/pct:70.03600823045268,26.849405548216644,13.627400548696844,35.270805812417436/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -739,7 +739,7 @@ f,lber Tit. JtKFMSO*.
 lat you will a ways have present in your mini]  
 those things that will endear you to ine 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82014835:00415661514:1855041401:0070/pct:4.350709643188752,35.74793258662201,13.17150815758058,27.122369936145713/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82014835:00415661514:1855041401:0070/pct:4.355131096078171,35.75142189190132,13.18035106335942,27.125859241425033/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -981,7 +981,7 @@ hind those things which
 will endear you to  
 ne
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn83045160:0020029290A:1858011001:0033/pct:95.1152579582876,19.455335382006993,79.69264544456641,369.5665995549433/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn83045160:0020029290A:1858011001:0033/pct:23.788606726149624,4.863833845501748,19.93136582017845,92.39164988873583/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

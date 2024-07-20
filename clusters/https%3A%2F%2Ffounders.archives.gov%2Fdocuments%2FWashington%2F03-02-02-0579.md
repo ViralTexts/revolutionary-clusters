@@ -75,7 +75,7 @@ to depart from tho resolution respecting them.
 | Jl this is disapproved of hy Congress, I will  
 put a stop to it 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1853051901:0766/pct:7.835563526003587,53.40389016018307,13.215615947027176,4.147597254004577/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1853051901:0766/pct:7.835563526003587,53.41024663107043,13.224812617832345,4.147597254004577/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -155,7 +155,7 @@ have given license for their being enlisted.&quot;
 
 ---
 
-## [From _The Continental monthly_](https://archive.org/details/sim_continental-monthly_1862-09_2_3/page/n72/mode/1up?view=theater)
+## [From _The Continental Monthly; Devoted to Literature and National Policy (1862-1864)_](https://archive.org/details/sim_continental-monthly_1862-09_2_3/page/n72/mode/1up?view=theater)
 
 #### 1862-09-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -205,7 +205,7 @@ Accordingly free negroes were enlisted in
 several of the colonies, and served during the  
 war. As at Lexington and Bunker Hill, so i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_damariscotta_ver02:data:sn83016025:00279525152:1862090601:0250/pct:17.01931922723091,70.45889101338432,12.32750689972401,7.101884730947829/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_damariscotta_ver02:data:sn83016025:00279525152:1862090601:0250/pct:17.01618837380427,70.449269425099,12.329838116261957,7.104328826983477/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -266,7 +266,7 @@ have given license for their being enlisted
 If this is disapproved of by Congress, I  
 will put a stop to it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293769:1863062701:0586/pct:198.6013986013986,251.1859520377408,47.41258741258741,19.866334687459048/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293769:1863062701:0586/pct:49.65903129917818,62.7964880094352,11.855219443958735,4.966583671864762/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -289,7 +289,7 @@ I have presumed to depart from the
 resolution respecting them, and have given  
 license for their being enlistac-winl pu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775617:1863062901:0415/pct:23.711340206185568,211.011301072153,44.10898379970545,14.662416690814256/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775617:1863062901:0415/pct:5.931110701786701,52.75282526803825,11.033339473199485,3.665604172703564/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

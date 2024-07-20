@@ -301,7 +301,7 @@ a mi valuable trade of a rising empire.&quot;
 If such were the views of Washington in  
 1770 of the importance of this route, wha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_emeralds_ver02:data:sn85025007:00414215890:1853042801:0398/pct:35.71924947880473,38.06814549638816,12.23940236275191,2.135140318353257/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_emeralds_ver02:data:sn85025007:00414215890:1853042801:0398/pct:35.716146964301224,38.065712094093584,12.241234546454733,2.137134577686866/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -342,7 +342,7 @@ whencea competition will arise between them; all
 The reader should understand that this refers  
 to a recent rapid passage from New Orleans t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014434:00415661447:1853060101:0250/pct:45.21953221173574,88.00815188244127,14.7585829571878,5.298723586828274/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014434:00415661447:1853060101:0250/pct:45.21953221173574,88.01530265651257,14.7585829571878,5.298723586828274/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -377,7 +377,7 @@ present period of mature adolescence, human
 ingenuity has been racked in the vain en  
 deavor to overleap the limits which Provi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn83025143:no_reel:1853082701:0201/pct:147.7577834904313,41.70048701298701,89.20308483290488,230.17451298701297/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn83025143:no_reel:1853082701:0201/pct:49.25259449681044,13.900162337662337,29.734361610968296,76.72483766233766/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -399,7 +399,7 @@ land calling attention to the &quot;immense
 &quot;tory,&quot; the West, &quot;S S and by this  
 means secure &quot;the extensive and valuabl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558354:1876020101:0113/pct:67.88927335640139,66.9624217118998,43.46020761245675,15.031315240083508/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558354:1876020101:0113/pct:16.9811320754717,16.74060542797495,10.870694131902372,3.757828810020877/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -420,7 +420,7 @@ the channel of conveyance of the ex­
 tensive and valuable tradeof a rising  
 empire; but he did not dream of ask
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588290:1885021401:0873/pct:46.186803770351325,70.59446377250038,16.988003427592115,5.672364241415822/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588290:1885021401:0873/pct:35.794133923630326,54.71845570708452,13.176535694521306,4.396076745730921/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -482,7 +482,7 @@ wrested from ne aad eonductedi through other
 channels.&quot; lij efforts were unavailing. The  
 jealousy of central Virginia in favor of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pug_ver01:data:sn83045462:00280654887:1893041301:0536/pct:1.2380323539121822,69.2944369063772,12.281280950808847,6.702849389416554/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pug_ver01:data:sn83045462:00280654887:1893041301:0536/pct:1.2462859029382634,69.2944369063772,12.285407725321889,6.719810040705563/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

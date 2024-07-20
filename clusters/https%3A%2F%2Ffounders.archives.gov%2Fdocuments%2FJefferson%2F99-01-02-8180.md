@@ -327,7 +327,7 @@ they were in danger of starviug. Supplies
 of readt&#x27; baked hreadwcre sent from hence  
 to their—relics, and large boata were sent t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216092:1809022501:0277/pct:23.91239570917759,84.7291534343526,22.64600715137068,7.295163778241539/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216092:1809022501:0277/pct:23.908833606435273,84.72146615859191,22.647599185659665,7.297526159801609/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -503,7 +503,7 @@ ty they were in danger of starving,
 but lai ge supplies of baked bread  
 were sent them from Fayal, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159373:1871112101:0390/pct:26.978368937256484,12.65066446893994,36.47722692462717,82.81652415782425/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159373:1871112101:0390/pct:26.978368937256484,12.654098416949967,36.47722692462717,82.81995810583427/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

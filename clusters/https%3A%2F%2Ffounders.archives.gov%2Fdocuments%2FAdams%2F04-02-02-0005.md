@@ -465,7 +465,7 @@ against this great company that com­
 eth against us; neither know we what  
 to do; but our eyes are upon thee.” Bu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ditto_ver02:data:sn87058308:00279529030:1888091301:0183/pct:14.800079570320271,24.04845706801997,8.344937338372787,3.0285667512482606/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ditto_ver02:data:sn87058308:00279529030:1888091301:0183/pct:14.803395000331543,24.05391394504925,8.348252768384059,3.0285667512482606/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

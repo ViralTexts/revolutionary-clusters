@@ -91,7 +91,7 @@ of the court at which the same shall be heard ; and
 in case the said owner or owners, or any them, are  
 not residents of this State, the said court shall cas
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024518:0029602272A:1853030901:0083/pct:42.41420830824804,107.52191423833214,20.033112582781456,9.51196398957593/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024518:0029602272A:1853030901:0083/pct:31.8325553380515,80.6443970623075,15.027857250414094,7.142857142857143/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -215,7 +215,7 @@ and shall be called and known by the name
 of Staunton.”  
 The part of the town above referred t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024653:00393349578:1886072301:0121/pct:4.858104858104858,49.99357078564999,11.127144460477794,6.802108782306802/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024653:00393349578:1886072301:0121/pct:4.85732606604681,49.987143224479304,11.129368387303623,6.804448444330162/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

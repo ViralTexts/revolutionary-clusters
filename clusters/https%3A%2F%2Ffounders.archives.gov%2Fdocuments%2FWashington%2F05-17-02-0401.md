@@ -58,7 +58,7 @@ i 1795, President Washington says: &quot;It affords me
 the highest pleasure to inform Congress that perfect  
 harmony reigns between the two republics.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846091401:0930/pct:17.199738903394255,13.879849812265332,14.001305483028721,1.5769712140175218/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846091401:0930/pct:17.199738903394255,13.879849812265332,14.01218450826806,1.5853149770546517/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -77,7 +77,7 @@ harmony reigns between the two republics.&quot;
 The ratification of that treaty, however, pro­  
 duced an entire change in the tone of Freuch di
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664291:1846091501:0114/pct:58.67309659506065,24.39047528697467,13.21058015490282,2.1345223413338394/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664291:1846091501:0114/pct:58.682838910809096,24.393637542295163,13.205708997028594,2.1408468519748283/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -112,7 +112,7 @@ We can urge no such justification. (See note B.) Had
 France, then, no claim on us for damages under the  
 treaty of amity and commerce ? Might she not point t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661204:1852050601:0440/pct:32.64759993309918,40.646562739585995,16.13982271282823,5.12394582162024/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661204:1852050601:0440/pct:32.64759993309918,40.65508135275577,16.150972849417407,5.12394582162024/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -137,7 +137,7 @@ mony reigns between the tWP republic*, and that those
 claims are in a train of being uscussed with candor, and  
 of being amicably adjusted.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855031001:0308/pct:17.161121127683987,70.71401775665875,16.046549745943288,5.214455420782794/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855031001:0308/pct:17.166584712888596,70.72235421616439,16.046549745943288,5.214455420782794/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -155,7 +155,7 @@ Britain may depend upen the resulf of our late negotia­
 tions in London, thai until that result shall arrive 1 can­  
 not undertake to make any communication on tbe sub
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855031001:0308/pct:17.22668415013932,77.51656871326747,15.849860678577283,2.213329998749531/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855031001:0308/pct:17.22668415013932,77.52490517277312,15.860787848986504,2.2174982285023552/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -176,7 +176,7 @@ against which our country wan arming, and Congress wu
 preparing tbe means of defence, was altogether on the port  
 of Great Britain. In addition to the warlike preparation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855032301:0367/pct:5.38931788931789,6.121418654550044,15.814028314028315,3.8874163826833272/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855032301:0367/pct:5.38931788931789,6.125625815137364,15.814028314028315,3.8916235432706467/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

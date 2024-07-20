@@ -273,7 +273,7 @@ brutal appetites ; the dog is inclined, in
 a very eafy way, to feci; his living ; and  
 fattens his fides from what comes from
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_burmese_ver01:data:sn83045242:print:1802090801:0001/pct:7.208063902624572,13.778118609406953,32.86420692278433,79.37116564417178/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_burmese_ver01:data:sn83045242:print:1802090801:0001/pct:7.220742994801572,13.786639400136332,32.85786737669583,79.36690524880709/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -389,7 +389,7 @@ on, than another who boadsthathe fprang
 from thofe who were rich or nolde, but  
 nevei ifttfcgree of virtue o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_burmese_ver01:data:sn83045242:print:1802090801:0001/pct:40.0722708254089,15.069018404907975,16.717383035374667,67.36963190184049/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_burmese_ver01:data:sn83045242:print:1802090801:0001/pct:40.0722708254089,15.077539195637355,16.717383035374667,67.3653715064758/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -435,7 +435,7 @@ jme not loin the benefit of your valuable
 Believe me to be your fincere friend,  
 SAMUEL ADAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_burmese_ver01:data:sn83045242:print:1802090801:0001/pct:40.37656903765691,13.82924335378323,32.76911373145683,79.20501022494888/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_burmese_ver01:data:sn83045242:print:1802090801:0001/pct:40.37656903765691,13.82924335378323,32.76911373145683,79.21779141104294/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -485,7 +485,7 @@ fzlt the weight of imperial domination.
 ““but the natural and a&amp;ual Arifto­  
 “cracy among mankind.”’” This i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802101201:0159/pct:58.561062220163656,25.19437063281173,15.948741701404971,3.9956697175474853/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802101201:0159/pct:58.57135505120684,25.20093166683069,15.948741701404971,3.9956697175474853/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1041,7 +1041,7 @@ aliew, in promoting the happiness of mankind, in my
 opinion, and I am melined to think in yours, is in  
 deed well born.&quot;&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186427:1841110901:0950/pct:136.5890002709293,121.81164159581425,39.06800325115145,39.02332679311097/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186427:1841110901:0950/pct:45.52349993227685,40.59945504087194,13.02090387827893,13.006357856494096/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1130,7 +1130,7 @@ ment to particular persons, who, after short intervals, re­
 sign their powers to the people, and they will re-el-ct thein  
 or appoint others a they fee fit.&quot; (Juim Adams&quot; Work
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202197589:1866022001:0033/pct:25.956865127582017,35.24049418255967,16.8134872417983,3.5864219743312944/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202197589:1866022001:0033/pct:19.474403767279355,26.436367998080843,12.608233328269785,2.686817800167926/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

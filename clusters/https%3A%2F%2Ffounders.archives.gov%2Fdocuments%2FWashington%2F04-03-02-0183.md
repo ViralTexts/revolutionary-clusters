@@ -158,7 +158,7 @@ I haie never heard, and I hope
 mention of a paper emission in  
 this state.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016867:00295877637:1837101401:0066/pct:69.69817315329627,114.6195652173913,19.936457505957108,6.195652173913044/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016867:00295877637:1837101401:0066/pct:52.29394240317776,85.96467391304348,14.955312810327706,4.6603260869565215/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -179,7 +179,7 @@ hear, any serious mention of a paper emission in
   
 this State. .
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197966:1838050201:0071/pct:43.86606640405177,88.35777454382627,20.86381541924592,2.876973021381395/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197966:1838050201:0071/pct:32.920478536242086,66.2711295197582,15.650950035186488,2.160528377924549/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -214,7 +214,7 @@ a paper emission in this state.
 hear, any serious mention of a paper emission in  
 this State.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197966:1838061301:0096/pct:25.602916432978127,80.27020991514068,20.751542344363433,1.942831621259491/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197966:1838061301:0096/pct:19.21728152616075,60.2054488610987,15.570206200028055,1.462706565430996/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -255,7 +255,7 @@ Treaty with Spain in Congress, in 17S6,
 Spain demanding the relinquishment of the  
 right to navigate the Mississippi, he. write
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn83016785:00295877947:1845091801:0375/pct:89.4907908992416,15.026654820079964,19.33911159263272,10.728565082185694/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn83016785:00295877947:1845091801:0375/pct:67.12718407151564,11.272767658818303,14.506298252742788,8.05197689915593/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -275,7 +275,7 @@ Ignorance and design are productive of much mis­
 chief. The former is tlie tool of the latter, and is  
 often set at work suddenly and unexpectedly.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn82015677:00296029804:1846082701:0390/pct:65.94086021505376,17.799726804665337,19.287634408602152,4.150467584322791/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn82015677:00296029804:1846082701:0390/pct:49.47566550147889,13.355048859934854,14.466254369454154,3.1102238100241673/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -300,7 +300,7 @@ robate the idea exceedingly.
 And under date of August 1, 1786, Washington  
 thus wrote to thomas leferson:
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743865:1874040601:0095/pct:6.003026736169497,112.3259052924791,46.67899781402388,14.322191272051997/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743865:1874040601:0095/pct:2.001008912056499,37.44196843082637,15.55966593800796,4.774063757350666/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -332,7 +332,7 @@ asitation. Ignorance and desiitn are pro
 &quot;is th.3 tool of the latter, and is often set  
 &quot;to work suddenly and unexpectedly.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_broadsheet_ver01:data:sn92053942:00295873644:1874092901:0307/pct:7.822878228782288,50.90620452440799,16.512915129151292,5.0006614631565025/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_broadsheet_ver01:data:sn92053942:00295873644:1874092901:0307/pct:5.870407974893853,38.17965339330599,12.405390437511537,3.7571107289323984/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -363,7 +363,7 @@ of the latter, and is often set to werk suddenly and unex-­
 pectedly. Those with whom I have conversed in this part  
 of the State reprobate the idea exceedingly
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:00271744043:1878101701:0214/pct:9.075797872340425,209.80164714070293,46.392952127659576,7.20334067973553/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:00271744043:1878101701:0214/pct:3.0252659574468086,69.93388238023431,15.464317375886525,2.401113559911843/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -384,7 +384,7 @@ ol the latter an is otten act to werk auddenny and anes,­
 pectedly. THose with whom I have conversed in this part  
 of the State reprobate the ides excesuingly
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:00271744043:1878101701:0216/pct:8.329152032112393,209.27274829460052,46.780398059876234,7.191582841947046/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:00271744043:1878101701:0216/pct:2.776384010704131,69.75758276486684,15.593466019958745,2.3971942806490154/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -407,7 +407,7 @@ unexpectedly. Those with whom I have conversed
 in this part of the State reprobate the idea exceed­  
 lligly.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558391:1878101701:0391/pct:117.57281553398059,306.9695802849442,49.70873786407767,12.860993453985367/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558391:1878101701:0391/pct:29.414622297789652,76.74239507123605,12.436239980568375,3.215248363496342/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -449,7 +449,7 @@ never shall hear, and serious men­
 tion of a paper emission in this  
 State yet such a tiling may be in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_allemande_ver01:data:sn85025570:00199919933:1878102401:0375/pct:6.210098665118979,75.42516049104628,12.333139872315728,2.3763937380335625/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_allemande_ver01:data:sn85025570:00199919933:1878102401:0375/pct:5.438002539145154,66.0009197818803,10.799830723656369,2.0760791012417057/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -471,7 +471,7 @@ tool of the latter, and is often set to work sud­
 denly and unexpectedly. Those with whom I have  
 conversed in this part of thQ State reprobatd th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348720:1878103101:0567/pct:17.535211267605632,37.498361085616885,10.721830985915492,2.3600367116821817/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348720:1878103101:0567/pct:17.532124625946135,37.49344520188778,10.724344305580004,2.363004719454641/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

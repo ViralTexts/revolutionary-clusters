@@ -298,7 +298,7 @@ my affectionate Friends, and kind Neighbours
 farewell ! 6 &#x27;  
 G. WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789050201:0004/pct:42.82373574978077,9.014084507042254,27.243496053785442,40.882629107981224/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789050201:0004/pct:42.845659163987136,9.028169014084508,27.243496053785442,40.87793427230047/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -583,7 +583,7 @@ then be left to move expletive silence, while,
 from an aching heart, I bid you all, my aflec*  
 lionale friends and kind neighbor.&quot;, lure well
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_emeralds_ver02:data:sn85025007:00414215798:1847070501:0088/pct:81.3832967909109,60.14100896707509,14.540562088897747,24.724484906564445/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_emeralds_ver02:data:sn85025007:00414215798:1847070501:0088/pct:81.37518684603886,60.1368925393566,14.542434811493107,24.725074150125486/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -851,7 +851,7 @@ t fxpressive silence, while, fr&gt;&gt;m an aching , |
 i- j and kind Neighbors, farcweli! &lt;  
 &quot; ~ 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn85025007:00415663468:1858092401:0207/pct:27.117194183062445,46.19340526368862,15.85400627316795,28.899868911969346/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn85025007:00415663468:1858092401:0207/pct:27.126698982986408,46.200127726799096,15.849253873205969,28.896507680414103/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -916,7 +916,7 @@ jxprossive silence, while from an acning heart I
 bid all 1117 affectionate friends and kind neigh&#x27;  
 oors farewell.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_gabbana_ver01:data:sn85025007:0041566378A:1877020701:0083/pct:81.91188929680881,34.98387402769873,18.088110703191187,22.462530829064693/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_gabbana_ver01:data:sn85025007:0041566378A:1877020701:0083/pct:81.92130283347454,34.99019793840511,18.083403934858325,22.462530829064693/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -947,7 +947,7 @@ an acning heart I bid all inv at­
 fectionate friends and kind neighbors  
 farewell.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00414181909:1885072001:0887/pct:15.719489981785063,24.314045096441184,12.531876138433516,7.5251290410214615/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00414181909:1885072001:0887/pct:15.719489981785063,24.323100606719187,12.531876138433516,7.529656796160464/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -974,7 +974,7 @@ a lon^ and distressing separation. Perhaps
 the same graeioas Providence wilt again  
 indulge we.&quot; But wor:i? fail me. Unuiter
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_mojave_ver01:data:sn82014381:00175036581:1889022301:0230/pct:50.323803506555045,6.7871720116618075,10.819775706839362,5.037900874635569/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_mojave_ver01:data:sn82014381:00175036581:1889022301:0230/pct:50.331701153056386,6.790087463556851,10.823724530090033,5.040816326530612/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1054,7 +1054,7 @@ know bettor I linn any others, my lovo of
 retirement is so great, that no earthly con­  
 sideration Bhortof a conviction of dut
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn84024448:00296020771:1889042101:0910/pct:126.52414885193983,17.105446441008496,50.43547110055424,35.38097228026187/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn84024448:00296020771:1889042101:0910/pct:31.637299544644623,4.276361610252124,12.61136408631954,8.845243070065468/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1108,7 +1108,7 @@ from an aching heart, I bid you all. my
 nHeclionato friends ami kind neighbors,  
 farewell. G. Wasiiinotom
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn84024448:00296020771:1889042101:0910/pct:127.07838479809976,56.052374982588105,51.06888361045131,70.4833542276083/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn84024448:00296020771:1889042101:0910/pct:31.775885963175607,14.013093745647026,12.769748564640665,17.620838556902076/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1200,7 +1200,7 @@ bid you all, my affectionate Friends and
 kind Neighbours, farewell!  
 G. WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_pink_ver01:data:sn85025007:00175034353:1889050801:0081/pct:32.581777859914986,53.749395258829225,16.558861578266495,30.63618771165941/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_pink_ver01:data:sn85025007:00175034353:1889050801:0081/pct:32.594098441446434,53.75745847443961,16.55270128750077,30.63618771165941/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1273,7 +1273,7 @@ ing hi „it, I bid you all, my affectionate
 Friends and kind Neighbours, farewell !  
 G. Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762283:1889051501:0244/pct:50.232403718459494,27.81703713221123,11.00597609561753,24.73339329307465/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762283:1889051501:0244/pct:50.232403718459494,27.81703713221123,11.018426294820717,24.73660542207375/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

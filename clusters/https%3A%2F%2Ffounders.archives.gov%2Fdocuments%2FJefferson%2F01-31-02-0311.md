@@ -88,7 +88,7 @@ never yields ; it scarcely get out of tuue
 at all, and then for the most part the  
 three unisons are tuned at once. Juliu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn84026497:00280776129:1879050701:0611/pct:68.75483372003093,114.76425052779733,18.832173240525908,5.320197044334975/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn84026497:00280776129:1879050701:0611/pct:51.59605339524086,86.08022519352569,14.142000386922035,3.98311048557354/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -110,7 +110,7 @@ never yields; it scarcely get out of tuue
 at all, and then for tho most part the  
 three unisons are tuned at once. Juliu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn84026497:00280776129:1879050701:0613/pct:68.24480369515011,114.54854231531276,18.879907621247114,5.3778658363996605/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn84026497:00280776129:1879050701:0613/pct:51.21293800539083,85.918482875743,14.170196380438968,4.033399377299745/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -156,7 +156,7 @@ therefore never yields it scarcely gets
 out of tune at all, and then for the most  
 part the three unisons are tuned at once.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_dunbar_ver01:data:sn83025287:00280768145:1879062201:0443/pct:80.41722745625842,37.650418111360395,11.64199192462988,3.8037935957576994/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_dunbar_ver01:data:sn83025287:00280768145:1879062201:0443/pct:80.42620008972634,37.65721667006595,11.64199192462988,3.8071928751104767/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -178,7 +178,7 @@ therefore never yields it scarcely gets
 out of tune at all, and then for the most  
 part the three unisons are tuned at once.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_mazda_ver01:data:sn89064525:00212479214:1879062601:0208/pct:72.26941747572816,13.133792842979888,10.521844660194175,3.4935322443584176/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_mazda_ver01:data:sn89064525:00212479214:1879062601:0208/pct:72.26941747572816,13.133792842979888,10.529935275080906,3.502974223397224/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -241,7 +241,7 @@ the memory, ears Prof. W. H. Burnham in
 Scribner&#x27;s Magazine, tt must be remembered  
 that memory is not. as used to be supposed, a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_columbo_ver02:data:sn86063034:00414182069:1892022201:1000/pct:91.70974889217135,75.47797173732336,16.100443131462335,7.370462732058742/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_columbo_ver02:data:sn86063034:00414182069:1892022201:1000/pct:71.07560219413308,58.50184316953581,12.487479131886477,5.7156150459897646/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

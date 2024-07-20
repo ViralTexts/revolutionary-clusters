@@ -84,7 +84,7 @@ country. I now offer to you?
 essential liberty to purchase a little temporary  
 safety, deserve neither liberty nor safely.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661125:1845100801:0552/pct:55.185305591677505,56.785127102567344,15.165799739921976,2.68116858479828/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661125:1845100801:0552/pct:55.185305591677505,56.785127102567344,15.176636324230602,2.685384258673749/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -102,7 +102,7 @@ to you—
 essential liberty to purchase a little temporary  
 safety deserve neither liberty nor safety.’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215774:1845101101:0026/pct:7.4242274656925655,55.81333333333333,14.769473788133084,1.82/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215774:1845101101:0026/pct:7.423494570582428,55.809612692487164,14.77130635077328,1.8221007488389662/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -145,7 +145,7 @@ literature of monarchy; that it is shown in
 devotion to the Constitution and laws of  
 the United States and of the several State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn85025181:00237287952:1863082901:0374/pct:10.997067448680351,91.74785100286533,102.78592375366568,256.1031518624642/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn85025181:00237287952:1863082901:0374/pct:2.75027502750275,22.936962750716333,25.705903923725707,64.02578796561605/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -213,7 +213,7 @@ literature of monarchy ; that it is shown in
 devotion to the Constitutions and laws of  
 the United States and of the several States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn85025182:00212477886:1863090201:0496/pct:24.029395452024403,28.620102214650768,17.23516361619523,19.114139693356048/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn85025182:00212477886:1863090201:0496/pct:18.030513176144243,21.465076660988075,12.940360610263523,14.34412265758092/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -249,7 +249,7 @@ literature of monarchy; that it is shown in
 devotion to the Constitutions and laws of  
 the United States and of the several States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn85025181:00237287952:1863090501:0379/pct:171.52221412964312,286.7956989247312,52.8040786598689,57.577060931899645/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn85025181:00237287952:1863090501:0379/pct:42.90398979777737,71.6989247311828,13.208234651120422,14.394265232974911/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -308,7 +308,7 @@ ed from the literature of monarchy; that
 it is shown in devotion to the Constitution  
 and laws of the United States and of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477837:1863090901:1008/pct:185.95458368376788,241.31334760885082,58.62068965517241,44.4825124910778/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477837:1863090901:1008/pct:46.49842271293375,60.328336902212705,14.65825446898002,11.12062812276945/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -327,7 +327,7 @@ ucndd give up essential liberty to purchase a
 Ititle temporary safety, deserve neither liberty  
 nor safety /&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_chekhov_ver01:data:sn86092517:00415660583:1863091101:0020/pct:4.309195912927588,81.57186779400462,16.140974381756255,3.5837817063797077/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_chekhov_ver01:data:sn86092517:00415660583:1863091101:0020/pct:4.314131990720174,81.57186779400462,16.145910459548844,3.593389700230592/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -397,7 +397,7 @@ ho would give up essential liberty to pur-
 chase a little temporary safety, deserve  
 neither liberty nor safety
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_abraham_ver02:data:sn84023963:00200295997:1863091901:0913/pct:294.0838126540674,103.63836824696803,67.6253081347576,8.654906284454245/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_abraham_ver02:data:sn84023963:00200295997:1863091901:0913/pct:73.53605917402918,25.909592061742007,16.909800698582288,2.1637265711135614/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -425,7 +425,7 @@ A LITTLE TEMPORARY SAFETY, DE
 SERVE NEITHER LIBERTY NOR  
 SAFETY.&quot; Benjamin Franklin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_bunting_ver01:data:sn86069123:00202195234:1863092401:0162/pct:65.51724137931035,106.84734223618749,19.20689655172414,10.539408222047657/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_bunting_ver01:data:sn86069123:00202195234:1863092401:0162/pct:49.146404552509054,80.1387797852841,14.41627866873599,7.907829274679235/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -471,7 +471,7 @@ American Union that &quot;Those who would give
 essential liberty to purchase a little temporary  
 safety deserve neither liberty nor safety.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028822:00280775459:1863092401:0787/pct:180.0145878920496,330.2823758519961,49.08825674690007,14.967311169842816/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028822:00280775459:1863092401:0787/pct:45.02827951103813,82.57059396299903,12.278781244298486,3.741827792460704/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -505,7 +505,7 @@ propitious and tho entries numerous, and
 tho attendance very general, in compari­  
 son with tho previous year. Lot us hav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85033622:00296026462:1863093001:0870/pct:23.40308370044053,41.123210571393614,21.93465491923642,11.892817814755903/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85033622:00296026462:1863093001:0870/pct:15.604920139526344,27.419552184020556,14.631907472002938,7.928545209837269/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -537,7 +537,7 @@ give up essential liberty to purchase a
 little temporary safety deserve neither lib­  
 erty nor safety.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014487:00279557244:1863112801:0396/pct:15.769304464456793,86.46264130135098,12.224564092738072,9.443065894678798/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014487:00279557244:1863112801:0396/pct:15.774094654148305,86.47298042459333,12.243724851504119,9.443065894678798/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -555,7 +555,7 @@ gain a little temporary safety deserve
 neither liberty nor safety.—Franklin.  
 It is the nature of parties to retai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346824:1899011801:0627/pct:68.83936080740118,71.96210201608461,11.788617886178862,2.104219455767324/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346824:1899011801:0627/pct:68.8487057284366,71.96577430134774,11.788617886178862,2.1152363115566817/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

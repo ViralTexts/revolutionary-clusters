@@ -177,7 +177,7 @@ but before its arrival in this country by the bril­
 liant victory at New Orleans. I may mention  
 here, as bearing on the probable value of the sub
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:0039334801A:1860041601:0858/pct:329.7491039426523,124.14595144643117,60.23496614894464,24.262247419683092/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:0039334801A:1860041601:0858/pct:82.42086402548279,31.031976744186046,15.055743579534143,6.06468023255814/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -222,7 +222,7 @@ And asks no omen but his country’s cause
 &quot;Without a sign his sword the brave man draws,  
 And asks no omen but his country&#x27;s cause
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chester_ver02:data:sn82016187:00211102305:1881082001:0007/pct:56.02477477477478,119.75284804016219,19.28490990990991,1.1971423054643753/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chester_ver02:data:sn82016187:00211102305:1881082001:0007/pct:42.036332910857624,89.81463603012165,14.476834248697367,0.8978567290982815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

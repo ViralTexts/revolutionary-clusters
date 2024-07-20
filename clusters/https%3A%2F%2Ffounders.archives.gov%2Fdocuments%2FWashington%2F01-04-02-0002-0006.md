@@ -426,7 +426,7 @@ MELISIl&#x27;S Geographical Description of the United States. b&#x27;e.
 MeMoirs of a life chiefly passed in Pennsy lvania within the  
 last sixty years, (Graydon&#x27;s.) $1.50
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184698:1860050901:0448/pct:254.94329747019484,228.69275098574462,38.615876708345446,18.875745627337984/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184698:1860050901:0448/pct:84.96874545718855,76.22321067529316,12.870087706546494,6.291279148133172/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -442,7 +442,7 @@ last sixty years, (Graydon&#x27;s.) $1.50
 MEMO1r8 of a life chiefly passed in Pennsy lvania within the  
 last sixty years, (Graydon&#x27;s.) $1.50
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184698:1860051201:0461/pct:208.76084080552698,200.16218955904714,38.77701014258415,1.926001013684744/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184698:1860051201:0461/pct:69.57671957671958,66.71396715994324,12.923770331177739,0.6419352658963443/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -474,7 +474,7 @@ MELISHl&#x27;s Geographical Description of the United States. 50c.
 MEMOirs of a Life chiefly passed in Pennsy lvania within the  
 last sixty years, (Graydon&#x27;s.) $1.50
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184698:1860051401:0463/pct:130.0204918032787,206.5397605158121,39.62236533957845,18.063657762767374/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184698:1860051401:0463/pct:43.3338211620079,68.83954154727793,13.205522220596126,6.020603083640333/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -508,7 +508,7 @@ The author of &quot;Memoirs of a Life Chiefly
 Passed in Pennsylvania. Within the Last  
 Sixty Years,&quot; printed in Harrisburg, b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282322:1885022701:0632/pct:125.28047868362005,221.82270778592172,50.11219147344802,5.697690499239386/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282322:1885022701:0632/pct:31.32011967090501,55.45567694648043,12.528047868362005,1.4244226248098466/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -574,7 +574,7 @@ in Pennsylvania. Harrisburgh, 1811.
 which, I believe, is the first instance of  
 it since my retirement from public life.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_fletcher_ver01:data:sn86063034:00414182264:1899021901:0540/pct:31.36060894386299,16.350037397157816,12.559467174119886,1.5706806282722514/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_fletcher_ver01:data:sn86063034:00414182264:1899021901:0540/pct:31.373295274341896,16.350037397157816,12.559467174119886,1.5806532036898528/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -592,7 +592,7 @@ Washington which I believe is the
 first instance of it since my retirement  
 from public life That was eightee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_dantley_ver01:data:sn85058130:00206534813:1899021901:0510/pct:7.544802867383512,43.032944494295606,19.229390681003583,2.909883348288681/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_dantley_ver01:data:sn85058130:00206534813:1899021901:0510/pct:5.038551192397346,28.688629662863736,12.820512820512821,1.9484681451096013/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

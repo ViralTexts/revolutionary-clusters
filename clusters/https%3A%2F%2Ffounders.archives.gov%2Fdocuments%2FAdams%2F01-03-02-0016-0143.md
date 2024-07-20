@@ -113,7 +113,7 @@ Resolved, That Dr. Franklin, Mr. J. Adams and
 Mr. Jefferson be a committee to prepare a device  
 for a seal for the United States of America
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777055:1877051801:0078/pct:18.045112781954888,174.42769402568396,38.19548872180451,5.080960357342267/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777055:1877051801:0078/pct:4.512126339537507,43.60692350642099,9.550667418687723,1.2702400893355668/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -199,7 +199,7 @@ pointed a committee to prepare a de­
 vice for a great seal for the United  
 States of America. August 10, 1776
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dorothy_ver01:data:sn85033295:00279550080:1889013001:0150/pct:24.715338245144004,32.140845070422536,14.092431346282652,2.835680751173709/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dorothy_ver01:data:sn85033295:00279550080:1889013001:0150/pct:24.724268810002233,32.147104851330205,14.092431346282652,2.838810641627543/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -217,7 +217,7 @@ Mr. Jefferson be a committee to prepare a
 device for a Great Seal for the United States  
 of America
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_elm_ver01:data:sn82015483:00271764315:1889062801:0618/pct:33.44927536231884,61.921535284829346,13.333333333333334,1.8219361107737155/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_elm_ver01:data:sn82015483:00271764315:1889062801:0618/pct:25.094230211655553,46.44722458399126,10.017396346767178,1.3725252034495323/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -281,7 +281,7 @@ Mr. Jefferson be a committee to pre?
 pare a device for a seal of the Uni- I  
 ted States.&quot; They reported on Augus
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aqua_ver01:data:sn83045830:00175031613:1898061201:0497/pct:57.31367078517338,65.02409451266905,14.049422080510164,2.409451266905021/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aqua_ver01:data:sn83045830:00175031613:1898061201:0497/pct:57.32695629068686,65.0292761282968,14.049422080510164,2.4198144981605263/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -319,7 +319,7 @@ Dr. Franklin, Mr. J. Adams and Mr. (
 Jefferson be a committee to prepare a de- i  
 vice for a seal of the United States.’’ 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623987:1898073001:0137/pct:73.74639769452449,12.824083994000429,11.772334293948127,1.8855796014570387/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623987:1898073001:0137/pct:73.74639769452449,12.824083994000429,11.781940441882805,1.8855796014570387/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -338,7 +338,7 @@ Mr. Jefferson be a committee to pre­
 pare a device for a seal of the United  
 States.” They reported on August 10
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_frisco_ver01:data:sn86090439:00517175122:1898080601:0303/pct:76.49769585253456,29.69706735417338,16.22604899345137,2.852078633580406/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_frisco_ver01:data:sn86090439:00517175122:1898080601:0303/pct:76.5158864904196,29.70915243312923,16.213921901528014,2.856106993232356/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -356,7 +356,7 @@ Continental Congress, it was resolved
 ■Mr, Jefferson be a committee to pre­  
 pare a device for a seal of the Unite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_jackman_ver02:data:sn82014248:00514156001:1899021601:0383/pct:69.08144886932159,30.38682381384104,12.56754052431459,2.009670595346026/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_jackman_ver02:data:sn82014248:00514156001:1899021601:0383/pct:69.06762705082033,30.38223296570479,12.570028011204482,2.0131439794530896/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

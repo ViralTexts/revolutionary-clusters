@@ -242,7 +242,7 @@ of staves, and descriptions of personal estate I
 cons eyed thereby ; and, in like manner, a list of  
 all certificates for probats and administration
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1811021901:0378/pct:41.280353200883,31.342001962708537,17.641648270787343,3.704612365063788/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1811021901:0378/pct:41.27276071362884,31.338157733349686,17.644534363313102,3.708246453248293/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1175,7 +1175,7 @@ Justices of the peace of any State or territory of the
 United States, or of the District of Columbia, and,  
 being by them exaniined
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1838051501:0077/pct:33.458364591147784,10.151655834107087,14.44861215303826,4.663158980707728/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1838051501:0077/pct:33.458364591147784,10.15509474190997,14.458614653663416,4.659720072904846/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1252,7 +1252,7 @@ his wife shall have sealed and delivered a writing
 purporting to bea conveyance of any. estate or in-  
 terest, and such feme covert shall-appear befor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197966:1838060601:0092/pct:25.88334268087493,90.52357797127672,20.807627593942794,8.458667872893814/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197966:1838060601:0092/pct:19.427689718053024,67.89551057333485,15.612287838406509,6.344000904670361/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1276,7 +1276,7 @@ sealed and delivered a writing purporting to
 be a conveyance of any estate or interest, and |  
 such feme covert shall appear before any tw
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153231:1838060601:0610/pct:2.4827403080191184,77.55042099079695,14.737121614445034,5.169375367143137/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153231:1838060601:0610/pct:2.4871658700654984,77.5536844853469,14.741547176491414,5.166111872593173/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1501,7 +1501,7 @@ sealed and delivered by the party whose estate is conveyed, o
 No conveyance of any estate of inheritance or  
 freehold, or for a term of more than five years, i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn86071855:00393348343:1849071301:0005/pct:54.4362292051756,13.455822750607943,14.177449168207024,1.1078087003512564/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn86071855:00393348343:1849071301:0005/pct:54.426168915172795,13.454005133054167,14.179449270005545,1.1110360664595433/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1561,7 +1561,7 @@ in any wise affect the possession of his landlord, unless it be
 made with the consent of the landlord ; or, pursuant to, or in  
 consequence of, a judgment at lawr, or the order or decree of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barnes_ver02:data:sn83030364:print00211110053:1855102801:0001/pct:18.64466915025723,33.49791112799088,12.205073620720242,1.392581339410052/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barnes_ver02:data:sn83030364:print00211110053:1855102801:0001/pct:18.649104133404293,33.50740600075959,12.21394358701437,1.392581339410052/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1743,7 +1743,7 @@ few members of tbe legal profession, and u here
 stated for tbe benefit of our lawmakers generally.  
 What, then. Is tbe object of the section pro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_clark_ver03:data:sn82014064:no_reel:1871012301:0004/pct:20.621094489679987,46.51860744297719,9.051316038629048,2.265906362545018/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_clark_ver03:data:sn82014064:no_reel:1871012301:0004/pct:20.621094489679987,46.52611044417767,9.056049990532097,2.265906362545018/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2010,7 +2010,7 @@ and wishes not to retract it, and shall ac
 knowledge the said deed or writing so  
 again shown her to be her act, and not t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_foxtrot_ver01:data:sn86064205:00175035199:1886120601:0287/pct:288.7562189054726,195.5205047318612,63.28358208955224,14.258675078864353/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_foxtrot_ver01:data:sn86064205:00175035199:1886120601:0287/pct:72.24296738859846,48.8801261829653,15.832710978342046,3.5646687697160884/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

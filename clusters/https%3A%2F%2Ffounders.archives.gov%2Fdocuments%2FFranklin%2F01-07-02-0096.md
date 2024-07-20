@@ -119,7 +119,7 @@ Bot if my friends require of me to gratify,
 not only their inclinations but their resent­  
 ments, they expect loo much of mo.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186920:1833081501:0229/pct:9.308136810869904,35.42185026012214,14.727471497735436,8.00723818140692/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186920:1833081501:0229/pct:9.306683322923172,35.417844622865545,14.730376847803456,8.010102152361567/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -283,7 +283,7 @@ But it&#x27; my friends require of metogra%
 not only their inclinations but their rose#  
 ments, they expect too much of me.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn87062070:0039334295A:1833091101:0659/pct:82.76571428571428,52.529027091952486,16.045714285714286,9.275323635393033/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn87062070:0039334295A:1833091101:0659/pct:82.74680073126143,52.522017614091276,16.049664838513102,9.27853393826172/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -530,7 +530,7 @@ my friends require of me to gratify, not
 only their inclinations, but their resent­  
 ments, they expect too much of me
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_belle_ver01:data:sn85033078:00271768540:1892021801:0137/pct:4.837398373983739,23.360287511230908,12.466124661246612,4.672057502246181/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_belle_ver01:data:sn85033078:00271768540:1892021801:0137/pct:4.841915085817525,23.360287511230908,12.466124661246612,4.672057502246181/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -554,7 +554,7 @@ my friends require of me to gratify, not
 only their inclinations, but their resent­  
 ments, they expect too much of me
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_bermuda_ver01:data:sn99062858:00415625133:1892022701:0031/pct:4.748603351955308,25.772960638904735,14.147223135064081,5.054192812321734/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_bermuda_ver01:data:sn99062858:00415625133:1892022701:0031/pct:4.754080403110965,25.77676364327819,14.15270018621974,5.057995816695189/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

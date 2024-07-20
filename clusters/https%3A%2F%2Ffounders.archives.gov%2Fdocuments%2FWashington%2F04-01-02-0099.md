@@ -150,7 +150,7 @@ which none but the all powerful Guide and
 Clhispenser of human events could have pre­  
 vented his faling. 1 have
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153188:1829021201:0232/pct:18.59504132231405,7.423117709437964,17.486851990984224,15.05832449628844/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153188:1829021201:0232/pct:18.607563235662408,7.423117709437964,17.48059103431004,15.06617964730372/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -746,7 +746,7 @@ none but the all-powerful Guide and Dis­
 penser of human events could have pre­  
 vented his falling. 1 have
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83020243:00517172194:1829032401:0221/pct:74.25277540563621,63.68166089965398,20.239111870196414,20.968858131487888/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83020243:00517172194:1829032401:0221/pct:57.55570262519303,49.359982837528605,15.690491947937348,16.247139588100687/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -784,7 +784,7 @@ none but the all-powerfttl Guide and Dis­
 penser of hutnau events could have pre­  
 vented hie falling, I have become a pri
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182938:1829032601:0038/pct:5.103534825350345,34.958333333333336,18.42710729972809,15.527777777777779/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182938:1829032601:0038/pct:5.1024675867837725,34.95347868351618,18.42848180677541,15.529093181502569/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1306,7 +1306,7 @@ of my anpringat andina after revolving many thinge i
 my mind, that I was no longer a public man, nor had  
 any thing to do with public transactio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044826:1883122501:0724/pct:180.78055964653902,185.86529749320448,48.52724594992636,9.845967985502869/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044826:1883122501:0724/pct:45.220114201510405,46.46632437330112,12.138515380364709,2.461491996375717/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1357,7 +1357,7 @@ could have prevented his falling.” From
 tho very origin of this government to the  
 presont time it has reverenced God as th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_isleboro_ver01:data:sn83016025:00414210612:1895120201:0072/pct:38.09271054493984,13.441767684517416,11.234961075725407,6.812950744207457/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_isleboro_ver01:data:sn83016025:00414210612:1895120201:0072/pct:38.08597205023881,13.439705431113838,11.237396072881655,6.815741024854249/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

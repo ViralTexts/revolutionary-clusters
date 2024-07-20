@@ -117,7 +117,7 @@ have not men fit for the times,’ he ex­
 claimed; ’we are deficient in genius, in edu­  
 cation, in travel, in fortune, in everything.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:0041421003A:1883112701:0644/pct:28.870466321243523,85.23702031602708,18.61139896373057,2.377727614747931/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:0041421003A:1883112701:0644/pct:22.385822134175726,66.06538895152198,14.41880387642555,1.8504840026435485/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -138,7 +138,7 @@ in education, in travel, in fortune, in
   
 everything.&quot; But scarcely had h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_echo_ver03:data:sn86064205:00206536524:1883112701:0213/pct:305.72556762092796,202.82457879088207,57.74925962487661,10.257680872150644/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_echo_ver03:data:sn86064205:00206536524:1883112701:0213/pct:76.45025919526043,50.70614469772052,14.44087879535917,2.564420218037661/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -175,7 +175,7 @@ lie exclaimed; “we are deficient in
 genius, in education, in travel, in fort­  
 une, in everything.” But scarcely ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_agate_ver01:data:sn86074058:00383343598:1883122001:0176/pct:29.116465863453815,49.381566697699164,12.687112084702447,1.9816464955446202/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_agate_ver01:data:sn86074058:00383343598:1883122001:0176/pct:29.111151670012777,49.375,12.689359372148202,1.9847074468085106/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -193,7 +193,7 @@ he exclaimed: &quot;we are deficient in
 genius, in education, in travel, in fort­  
 une, in everything.&quot; But scarcely ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_agate_ver01:data:sn87065175:00383343549:1883122001:0292/pct:90.21437946623888,143.9347290640394,36.0653346944728,5.983169129720854/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_agate_ver01:data:sn87065175:00383343549:1883122001:0292/pct:30.067074948964713,47.97331965110313,12.020025274618451,1.9941850521635027/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -211,7 +211,7 @@ he exclaimed; &quot;we are deficient in
 genius, in education, in travel, in fort­  
 une, in everything.&quot; But scarce)v ba
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_harvey_ver03:data:sn82015080:00212473777:1883122101:0257/pct:77.11734693877551,56.771300448430495,16.10969387755102,2.780269058295964/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_harvey_ver03:data:sn82015080:00212473777:1883122101:0257/pct:51.42237530297232,37.847533632286996,10.741165965046562,1.8535127055306428/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -146,7 +146,7 @@ pinefs may attend you through life,
 and that you may finally receive the  
 plandit of the Great Judge of ALL. -
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1803120601:0401/pct:6.159475529806373,6.020864381520119,16.72511053514255,72.68753104818678/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1803120601:0401/pct:6.169639680845657,6.024176188110614,16.714946384103268,72.69084285477729/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -266,7 +266,7 @@ of tlte_re:.t Judge of all.
 -: ler of the House,  
 ABIL SPENCER, Speaker
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803121201:0002/pct:59.70026688564976,2.6070511954612994,36.932867994251694,92.90828042685398/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803121201:0002/pct:59.7139533292274,2.6160565536494214,36.926024772462874,92.89927506866586/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -324,7 +324,7 @@ A secret world of wonders in thyself,
 Sound his stupendous praisa. whose greater voice .  
 i , Or bill you roar, or bids your roarings fall
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_ariel_ver01:data:sn82015418:00212474290:1876123001:0325/pct:6.813471502590674,47.286821705426355,14.689119170984457,1.849390919158361/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_ariel_ver01:data:sn82015418:00212474290:1876123001:0325/pct:5.118569392250874,35.47065337763012,11.027601399507581,1.3842746400885935/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

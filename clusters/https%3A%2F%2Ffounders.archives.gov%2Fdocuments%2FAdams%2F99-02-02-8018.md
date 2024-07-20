@@ -60,7 +60,7 @@ have presented this splendid token to me.
 I am your friend and humble servant,  
 JOHN ADAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826062701:0511/pct:42.93952875267754,13.812402059547795,17.169220629428242,11.484217595701812/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826062701:0511/pct:42.932454695222404,13.810856183547845,17.171883580450302,11.4866629360194/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -313,7 +313,7 @@ i am your IricntI aud humble servant,
   
 JOHN ADAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826070401:0159/pct:59.60984969619444,56.55373831775701,17.732651103293893,8.948598130841122/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826070401:0159/pct:59.60031974420463,56.54713234435229,17.735145217159605,8.951446482108787/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -345,7 +345,7 @@ you have presented this splendid token to me.
 I am your friend and humble servant,  
 JOHN ADAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826070401:0070/pct:35.94896331738437,25.106486552269686,15.279106858054227,9.249117682852622/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826070401:0070/pct:35.943230744697814,25.103431491847164,15.281985860840908,9.252048349152268/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

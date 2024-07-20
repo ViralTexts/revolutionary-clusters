@@ -544,7 +544,7 @@ Kmg Charles the Tuft, “ give, grant,
 bargain, SELL, enfeoff, ALIEN and  
 confirm, to Sir Henry Roswell and others
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021193:00517172169:1772020601:0184/pct:12.345941351466214,8.26401200054548,83.70165745856353,110.15955270694123/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021193:00517172169:1772020601:0184/pct:9.567985947192183,6.40808849432819,64.889937970028,85.38011695906432/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1072,7 +1072,7 @@ Enghih miles u the northward of Merimack
 river, or to the northward of any and every  
 part thereof,’ throughout the main land, fro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1774020301:0525/pct:95.8120983824507,100.12722646310432,27.099490361178816,4.028837998303647/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1774020301:0525/pct:74.2587292501431,77.60289230544498,21.013165426445333,3.1260270971040427/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2466,7 +2466,7 @@ miles northward of the said river to the
 Atlantib or Western Sea, or Ocean, on  
 the south part,’? &amp;.c. A controversy af
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021206:00517171955:1825092801:0054/pct:105.49428909019299,26.009892827699918,18.78692398582119,22.6023632866172/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021206:00517171955:1825092801:0054/pct:81.7622221091723,20.15759769992546,14.564786081294196,17.523870372342312/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2535,7 +2535,7 @@ vourably on the behalf, and for the best
 benefit aid behoof, of the said Guvernor  
 and company, and their successors ; al
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153139:1833121801:0603/pct:82.14285714285714,72.81495594189093,15.646258503401361,4.489164086687307/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153139:1833121801:0603/pct:82.14285714285714,72.81495594189093,15.66326530612245,4.497102484718583/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2875,7 +2875,7 @@ granted to the Counell establisbed at clymouth, in the county
 of Devon, for the planting, ruling, ordering and governing of  
 New England in America
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271743324:1859080301:0841/pct:143.38570704510897,240.50632911392404,45.02449738131441,3.395244291967349/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271743324:1859080301:0841/pct:47.79523568170299,80.16877637130801,15.00816579377147,1.1317480973224496/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2912,7 +2912,7 @@ of trees,&quot; were incorporated as &quot;The Council
 established at Plymouth, in the county of  
 Devon, for the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_johnhenry_ver01:data:sn84024738:00280777973:1861012401:0084/pct:18.400713436385256,117.28695284415309,37.84185493460166,3.8380207231972934/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_johnhenry_ver01:data:sn84024738:00280777973:1861012401:0084/pct:6.133571145461752,39.09565094805103,12.613951644867221,1.2793402410657644/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2928,7 +2928,7 @@ Devon, for the
 were incorporated as &quot;The Council established at  
 Plymouth, in the county of Devon, for the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84020712:0029587918A:1861020501:0235/pct:88.19789939192924,44.52311983692737,20.066334991708125,1.4590709151378607/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84020712:0029587918A:1861020501:0235/pct:66.18277339969583,33.39770410900118,15.055993363749481,1.0943031863533956/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3364,7 +3364,7 @@ Plymouth, in the county of Devon, for the
 planting, ruling, ordering and governing of  
 New England in America.&quot; We are phr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_nuthatch_ver01:data:sn83025308:00212477369:1890122001:0762/pct:11.32179675994109,128.69505494505495,37.33431516936672,18.791208791208792/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_nuthatch_ver01:data:sn83025308:00212477369:1890122001:0762/pct:3.7739322533136965,42.89835164835165,12.444771723122239,6.263736263736264/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3385,7 +3385,7 @@ therly latitude froip the equinoctiall line,
 to fourty-eight degrees of the said northerly  
 latitude, and in length by
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_nuthatch_ver01:data:sn83025308:00212477369:1890122001:0762/pct:11.156111929307805,150.82417582417582,37.5,8.612637362637363/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_nuthatch_ver01:data:sn83025308:00212477369:1890122001:0762/pct:3.7187039764359353,50.27472527472528,12.5,2.870879120879121/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3402,7 +3402,7 @@ in the said islands and seas adjoining * *
 not actually possessed or inhabited by any  
 other Christian prince or estate.&quot; The ex
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_nuthatch_ver01:data:sn83025308:00212477369:1890122001:0762/pct:10.93519882179676,174.06593406593407,37.389543446244474,3.956043956043956/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_nuthatch_ver01:data:sn83025308:00212477369:1890122001:0762/pct:3.6450662739322532,58.02197802197802,12.46318114874816,1.3186813186813187/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3675,7 +3675,7 @@ of the Merrimac River, southerly by a line three
 miles south of the Charles River, and extending  
 from the Atlantic Ocean to the South Sea. Be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:0017504291A:1897011701:0222/pct:173.08282208588957,225.93887790786073,52.530674846625764,19.522578683290252/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:0017504291A:1897011701:0222/pct:43.29560713600614,56.48471947696518,13.140226357183963,4.880644670822563/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

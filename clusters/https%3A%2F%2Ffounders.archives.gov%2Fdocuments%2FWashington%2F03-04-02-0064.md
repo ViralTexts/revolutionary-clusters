@@ -65,7 +65,7 @@ the only reward I wish to receive, the
 aflection and esteem of my country­  
 men.&quot;” —Pathfinder.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn92064025:00514153504:1895021601:0029/pct:50.85084033613445,25.45933855248442,10.714285714285714,3.6906854130052724/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn92064025:00514153504:1895021601:0029/pct:50.85084033613445,25.46200138467274,10.717787114845938,3.688022580816957/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -87,7 +87,7 @@ the only reward I wish to receive, tho
 aflection and esteem of my country  
 men.&quot; Pathfinder
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_irvin_ver01:data:sn87078321:00280776622:1895022001:0063/pct:44.47838345864662,47.63124199743918,18.773496240601503,5.857874519846351/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_irvin_ver01:data:sn87078321:00280776622:1895022001:0063/pct:33.37250293772033,35.723431498079385,14.077555816686251,4.401408450704225/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -108,7 +108,7 @@ that success which has procured i
 the only reward I wish to receive, th  
 aflection and esteem of my count
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_irvin_ver01:data:sn86081895:00280776609:1895022101:0451/pct:335.5195911413969,149.0989010989011,55.28109028960818,16.05860805860806/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_irvin_ver01:data:sn86081895:00280776609:1895022101:0451/pct:83.93351800554017,37.27472527472528,13.829107180907735,4.014652014652015/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -131,7 +131,7 @@ aflection and esteem of my oountry
 men. &quot; Pathfinder.  
 As to Giants
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ira_ver01:data:sn84023416:0020219753A:1895022201:0031/pct:57.63779527559055,56.96527496284286,16.12204724409449,6.769355492501013/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ira_ver01:data:sn84023416:0020219753A:1895022201:0031/pct:43.23685764914353,42.723956222132145,12.108682811577083,5.0803945412782054/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -159,7 +159,7 @@ I wish to receive, the affection and esteem
 of my countrymen. ”  
 The uniform of tho regiment, whe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_isleboro_ver01:data:sn83016025:00414210624:1896042501:0453/pct:39.28258967629046,70.86830459331604,11.216097987751532,6.256676331451244/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_isleboro_ver01:data:sn83016025:00414210624:1896042501:0453/pct:39.275717284814554,70.85749160817821,11.21850944716585,6.259536161122979/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -181,7 +181,7 @@ which has procured me the only reward
 I wish to receive the affection and es­  
 teem Xti my countrymen. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_garwood_ver02:data:sn83040340:00237285293:1897051401:0368/pct:9.385783298826777,53.29378321591892,20.496894409937887,7.71227289581016/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_garwood_ver02:data:sn83040340:00237285293:1897051401:0368/pct:6.264020707506471,35.53330861450995,13.66695427092321,5.14151526387344/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -201,7 +201,7 @@ flourishes in greater purity without
 than with the aid of government.&quot;  
 The state of Michigan has wisely en
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_faribault_ver01:data:sn90059522:00206538624:1892021201:0426/pct:25.967372252932453,23.10911183178157,10.67817176756101,4.833141542002301/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_faribault_ver01:data:sn90059522:00206538624:1892021201:0426/pct:25.967372252932453,23.112598946891236,10.67817176756101,4.84360288733131/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -222,7 +222,7 @@ B:tid James Madison, &#x27;&quot;that religion
 Hounshos in greater purity without than  
 with the aid of government.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_cayman_ver01:data:sn00065154:00279523386:1892041501:0309/pct:12.147288373023814,60.12531032036884,18.15089053432059,3.8538834377586/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_cayman_ver01:data:sn00065154:00279523386:1892041501:0309/pct:12.153959042091921,60.133191472593296,18.164231872456806,3.8617645899830557/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -263,7 +263,7 @@ the church would forever cease.
 The usual social exercises were held  
 this morning and the remainder o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_fencing_ver02:data:sn83016589:00393340745:1894102601:0346/pct:62.11624441132638,61.51260504201681,13.517138599105813,9.67436974789916/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_fencing_ver02:data:sn83016589:00393340745:1894102601:0346/pct:62.126179831097865,61.51960784313726,13.517138599105813,9.677871148459383/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -651,7 +651,7 @@ In 1799 , as follows : &quot;It Is hoped and will
 be expected that more effectual measures  
 will be pursued to make butter anothe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_beatrice_ver01:data:sn99021999:00206538934:1899022001:0237/pct:110.6050305914344,71.33868808567604,16.26444595513256,13.534136546184738/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_beatrice_ver01:data:sn99021999:00206538934:1899022001:0237/pct:82.98197891873512,53.50736278447122,12.206732403944237,10.157295850066934/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

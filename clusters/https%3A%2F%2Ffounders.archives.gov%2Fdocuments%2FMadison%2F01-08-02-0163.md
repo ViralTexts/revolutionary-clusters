@@ -2099,7 +2099,7 @@ i be H&lt; cessary for .he former. If religion be
 j mv within the cognis nice of civil govern  
 tnent, how can its legal establishment b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810101901:0198/pct:41.095393543706926,3.3611383709519136,35.437069278200944,91.51128557409224/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810101901:0198/pct:41.08794197642792,3.3607261130872073,35.43668782109398,91.50414980170898/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2295,7 +2295,7 @@ and may establish more firmly the liberties,
 the property, and the happiness of this  
 | commonwealth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810101901:0198/pct:58.88647080159594,3.6555446516192345,35.81791802684077,91.67075564278704/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810101901:0198/pct:58.87579329102448,3.6550962835765977,35.81746751284376,91.66360031072406/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4077,7 +4077,7 @@ to their own praise, and may estublish more
 firmly the liberties, the property, and the  
 happiness of this commonwealth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1810112101:0313/pct:6.889859291606016,3.423848878394333,69.14119359534207,94.46084218811491/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1810112101:0313/pct:6.900641544018545,3.423848878394333,69.13041134292953,94.46740128558311/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5068,7 +5068,7 @@ er should In* invariably maintained,bill more eapei i |­
 ly that neither of them lie sufieted to ovrliup the  
 great barrier which tie fends tin* rights of the people
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183979:1823080801:0114/pct:36.32315521628499,40.14932562620424,14.742366412213741,4.997591522157996/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183979:1823080801:0114/pct:36.31737955159803,40.14449127031909,14.74532252080352,5.001003411599438/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5108,7 +5108,7 @@ ly it is limited with regard to ‘the con­
 stituents. The preservition of &amp; free  
 federative government requires not mere
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015143:1824090701:0349/pct:22.656960873521385,85.18899989700279,16.833484986351227,10.680811618086311/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015143:1824090701:0349/pct:22.662015974117885,85.18899989700279,16.83854008694773,10.687678099357983/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5129,7 +5129,7 @@ overleap the great barricr which defends
 the rights of the people. Who does not  
 see that the same authority which ca
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015143:1824090701:0349/pct:40.400363967242946,10.814708002883922,16.257203518350014,4.624575136471315/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015143:1824090701:0349/pct:40.410474168435954,10.818141243519758,16.262258618946518,4.624575136471315/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5482,7 +5482,7 @@ his blessing, may redound to their own praise, and
 may establish more firmly the liberties, the pros­  
 perity and the happiness of the Commonwealth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826110301:0220/pct:5.08777633289987,3.400383141762452,46.700260078023405,93.330938697318/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826110301:0220/pct:5.086949455550138,3.3999760565066444,46.69808765371905,93.32375593599106/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5690,7 +5690,7 @@ Because, the establishment in question is not
 necessary for the support of civil government.  
 If it be urged as necessary for the support o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216365:1826110801:0288/pct:5.678066816321141,4.1998936735778845,39.12584180641753,92.15842636895269/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216365:1826110801:0288/pct:5.677317137575917,4.199521573491627,39.12507701786814,92.15321461268125/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5880,7 +5880,7 @@ and may establish more tirmly the liberties, the
 [ prosperity and the happiness of the Common­  
 wealth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216365:1826110801:0288/pct:44.89634226858576,3.6505404926457556,37.73933711871121,92.46854510012405/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216365:1826110801:0288/pct:44.890414576181676,3.6502170638787987,37.73875539125077,92.46330586810785/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6956,7 +6956,7 @@ sentence; and if we take, “and are slaves,” to be the
 result of the people being “governed by laws, made  
 neither by themselves nor by an authority derived fro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826112401:0286/pct:23.490461926533186,36.198386902612256,17.48384045404383,3.8280967858432646/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826112401:0286/pct:23.486759142496847,36.19402985074627,17.48633879781421,3.8316482105601026/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7424,7 +7424,7 @@ may establish more firmly the iiberties,
 the prosperity and the happiness of tb#  
 roommanwoaslt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021518:00340588034:1826120901:0179/pct:2.136669874879692,8.223724646588813,84.42733397497594,84.25322679778733/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021518:00340588034:1826120901:0179/pct:2.1495027269810714,8.22782216758861,84.42733397497594,84.24912927678754/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8407,7 +8407,7 @@ they avoided the consequences by denying the
 principle.” “Who dors not see that the same  
 authority which can” interdict on Sunday, a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216419:1829030201:0060/pct:4.888733134746802,43.85445063411165,18.76642719467321,7.822685788787484/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216419:1829030201:0060/pct:4.887876664330764,43.849253377577625,18.768979210464845,7.825709093782097/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11173,7 +11173,7 @@ society. Before auy man can be considered a
 member of civil society, he must be considered  
 as a subject of the Governor of the universe;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn89053987:00414184406:1868051301:0096/pct:7.545308839847121,73.88422035480859,11.848107508322032,4.173669467787115/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn89053987:00414184406:1868051301:0096/pct:7.544378698224852,73.87732237886286,11.850756081525311,4.176391871284972/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11383,7 +11383,7 @@ items were these:
 not to be considered as an object of hu­  
 man legislation, but may in a civil vie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016184:1881090801:0143/pct:43.05310601606898,80.78098943857698,12.345679012345679,2.473596442468038/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016184:1881090801:0143/pct:43.044670846394986,80.76976517993609,12.348158307210031,2.476726413783521/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11537,7 +11537,7 @@ conscience. It is noteworthy that while
 George Mason proceeded unflinchingly to the  
 disestablishment of the Anglican Church i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_neruda_ver01:data:sn83030272:00175045053:1892110601:0083/pct:175.3998476770754,293.84288747346073,50.266565118050266,17.470427661510463/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_neruda_ver01:data:sn83030272:00175045053:1892110601:0083/pct:43.85831270234241,73.46072186836518,12.569034469624834,4.367606915377616/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11600,7 +11600,7 @@ establish with the same ease any partic­
 ular sect of Christians to the exclusion of  
 all other sects? And is impossible fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_hobbs_ver01:data:sn84024283:00294556862:1893042001:0440/pct:91.74772036474164,53.237657864523534,16.35258358662614,33.237657864523534/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_hobbs_ver01:data:sn84024283:00294556862:1893042001:0440/pct:68.84597840960924,39.931113662456944,12.270031929451118,24.925373134328357/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11692,7 +11692,7 @@ tion of our government as a beacon on-our
 coast warning him that now there :  
 is on earth no haven where he may b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_hobbs_ver01:data:sn84024283:00294556862:1893042001:0440/pct:91.82370820668693,9.058553386911596,33.9209726443769,115.1894374282434/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_hobbs_ver01:data:sn84024283:00294556862:1893042001:0440/pct:68.90679641173787,6.796785304247991,25.452333890831685,86.39494833524684/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11738,7 +11738,7 @@ the declaration and decision, or to pass
 the acts under consideration. , &quot;&#x27;.  
 Not to be Criticised
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_hobbs_ver01:data:sn84024283:00294556862:1893042001:0440/pct:108.58662613981762,56.45235361653272,17.142857142857142,22.11251435132032/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_hobbs_ver01:data:sn84024283:00294556862:1893042001:0440/pct:81.48091835183214,42.34213547646384,12.863007450205261,16.59012629161883/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11790,7 +11790,7 @@ can be considered a member of civil so­
 ciety, he must be considered as a sub­  
 ject of the governcr of the universe.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_eigg_ver01:data:sn99062034:00279523313:1893062001:0340/pct:33.333333333333336,58.932714617169374,14.159571113213497,10.672853828306264/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_eigg_ver01:data:sn99062034:00279523313:1893062001:0340/pct:33.333333333333336,58.936397451478655,14.170083044255229,10.672853828306264/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11883,7 +11883,7 @@ every man to exercise It as these may dic­
 tate.&quot; For these and other reasons we pro­  
 test against the proposed District Sunda
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_havanese_ver01:data:sn83045462:00280655053:1896040801:0692/pct:2.0545518951470068,72.65127388535032,13.655685441020191,6.210191082802548/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_havanese_ver01:data:sn83045462:00280655053:1896040801:0692/pct:2.0634077222812612,72.65459129511677,13.6733970952887,6.206873673036093/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11993,7 +11993,7 @@ greatest weight— for, or when against,
 their interest ?  
 &quot;It is proper now to see if there is an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_joshuaTree_ver01:data:sn85066387:00175037391:1896061501:0265/pct:1.1424944462075532,51.141819885232465,13.805141225007935,38.16606159971894/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_joshuaTree_ver01:data:sn85066387:00175037391:1896061501:0265/pct:1.147783772347403,51.141819885232465,13.821009203427483,38.173868915173514/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

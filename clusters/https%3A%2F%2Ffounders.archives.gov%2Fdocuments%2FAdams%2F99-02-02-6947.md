@@ -57,7 +57,7 @@ t biiikatu should give religion, m t only to
 Heinewr, hut to I&#x27;lirislhins and Mahomet.iris,  
 the gieatcst put of the modelu civilize
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1819020401:0344/pct:19.828580847206197,2.9712498496331046,15.229932421295533,10.814387104535065/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1819020401:0344/pct:19.825313117996046,2.9708924705316333,15.23291584267194,10.81709566193569/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -169,7 +169,7 @@ to Hebiews, but to Christians and Mahome­
 tans, the greatest part ot the modern civiliz­  
 ed world ! :
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1819021701:0851/pct:50.54305663304888,61.525802280474906,21.52831652443755,16.809686140825203/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1819021701:0851/pct:50.54952159296612,61.53363896399044,21.5347814843548,16.809686140825203/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -137,7 +137,7 @@ the falfe estimates they had made of the vajn &#x27;
 things, and by their giving too much for ,£1  
 WhtJHei. l
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790072101:0004/pct:38.742138364779876,5.377821393523062,57.20125786163522,89.6368989205103/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790072101:0004/pct:38.742138364779876,5.377821393523062,57.23270440251572,89.66633954857704/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -230,7 +230,7 @@ had made of the value of things, and
 by their giving too much for their  
 Whistles.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790072901:0635/pct:6.491017964071856,3.3973646610573107,42.15568862275449,86.29941260517542/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790072901:0635/pct:6.491017964071856,3.4026565063237553,42.17165668662675,86.29941260517542/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2395,7 +2395,7 @@ observed &#x27;.lie. actions of men. 1 thought I
 met with many, very many, who &#x27;gave  
 too much for the whistle.&#x27;&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lytton_ver01:data:sn82014381:0017503643A:1884081801:0512/pct:56.36532795782292,11.153586687654599,11.381609551868507,13.447267821002923/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lytton_ver01:data:sn82014381:0017503643A:1884081801:0512/pct:56.373081097844626,11.156397571396447,11.39323926190107,13.45288958848662/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2819,7 +2819,7 @@ by the false estimate they had made of the value
 of things, and by their giving too much for their  
 whistles. Benjamin Franklin.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685154:1896110501:0880/pct:7.345971563981043,28.765992571192736,21.011058451816744,35.27307745219425/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685154:1896110501:0880/pct:7.34452122408687,28.76203576341128,21.013491280026326,35.27281063732233/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

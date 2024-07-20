@@ -153,7 +153,7 @@ dear George, your sincere friend and affection­
 ate uncle.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:0041421566A:1839112801:0307/pct:82.10993513144417,55.568643618587664,15.030727210652099,40.06714176335473/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:0041421566A:1839112801:0307/pct:82.10292737048732,55.56537102473498,15.032289266308213,40.0667451904201/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -176,7 +176,7 @@ medicine. Mirthfulness is a philosophy not
 well understood. It is the sunny-side of  
 You may as well feed a man without 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85026105:00296028046:1855040501:0529/pct:23.396501457725947,215.0856834435299,52.478134110787174,22.34516259614087/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85026105:00296028046:1855040501:0529/pct:5.8523245214220605,53.77142086088247,13.126709206927986,5.5862906490352175/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -207,7 +207,7 @@ be learned, but virtuous.
 The greatest truths are the simples  
 co are the greatest mem
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777808:1855071801:0321/pct:309.87158908507223,360.95360824742266,46.30818619582664,15.721649484536082/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777808:1855071801:0321/pct:77.48344370860927,90.23840206185567,11.579369857515553,3.9304123711340204/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -226,7 +226,7 @@ sential in a man. It is therefore, highly im­
 portant to endeavor not only to be learned but  
 virtuous.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn85025594:00383347348:1855092501:0287/pct:31.617152843124074,38.590355060943295,12.380696330151903,1.8335983041865396/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn85025594:00383347348:1855092501:0287/pct:31.626114621140836,38.590355060943295,12.385177219160282,1.8335983041865396/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -249,7 +249,7 @@ COMMUNiCATED.
   
 &quot;From Ererlasting to Everlasting Tho
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85026105:00296028046:1856010301:0687/pct:180.24513338139872,85.80786026200873,95.45782263878876,293.0131004366812/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85026105:00296028046:1856010301:0687/pct:45.07753335737468,21.451965065502183,23.873061666065635,73.2532751091703/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -268,7 +268,7 @@ essential in man. It is, therefore, highly
 important to endeavor not only to be  
 learned but to be virtuous
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn85025090:00279557463:1856101801:0020/pct:36.28800917957545,75.1010853373058,14.099254159495123,3.053841242817621/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn85025090:00279557463:1856101801:0020/pct:36.297571237330274,75.10463219124637,14.099254159495123,3.050294388877066/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -328,7 +328,7 @@ important to endeavor not only to be learn
   
 ed but to be virtuous.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn90061416:00294559954:1882122201:0826/pct:238.57791225416037,227.20897615708276,48.1089258698941,7.068723702664797/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn90061416:00294559954:1882122201:0826/pct:59.655759409873276,56.80224403927069,12.029506336296576,1.7671809256661992/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -363,7 +363,7 @@ A good character is the first essential in a
 man. It is, therefore, highly important to en­  
 deavor not only to be learned’ but virtuous
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210089:1885022101:0448/pct:26.186338724769417,13.360053440213761,18.84774762732255,1.7272640519133504/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210089:1885022101:0448/pct:20.294209054180048,10.354008480425993,14.617217445353775,1.3410906222266048/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -399,7 +399,7 @@ sential in a man. It is, therefore, highly
 important to endeavor not only to be  
 learned, but to be virtuous
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775289:1885123101:0218/pct:5.182529335071708,81.74481168332052,14.423076923076923,14.706635921086344/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775289:1885123101:0218/pct:3.8963156178676233,61.31181142710735,10.824910335833062,11.029976940814757/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

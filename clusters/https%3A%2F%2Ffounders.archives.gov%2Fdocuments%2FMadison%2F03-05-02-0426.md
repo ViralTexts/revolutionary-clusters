@@ -45,7 +45,7 @@ bte»oh&gt;edi That the President of United i«
 itute-i be also requested to inform the pa-1 &#x27;  
 enlv, or nearest connettion* of ihe^e gal- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805030601:0089/pct:59.05697445972495,62.55804696828977,19.292730844793713,7.549422847286719/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805030601:0089/pct:59.04537418974661,62.54974794375166,19.29548877103385,7.552843371362872/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -149,7 +149,7 @@ Bcommander in the feveral at­
 edt That the Prefi&gt;ntof the  
 tates be alfo requeftcd to com- j
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805032701:0002/pct:20.975609756097562,78.05354155047407,19.556541019955652,21.58393753485778/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805032701:0002/pct:20.9830007390983,78.05818925450828,19.556541019955652,21.58393753485778/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -189,7 +189,7 @@ fi ig, under the orders of their gallant
 commander in the several attacks.  
 Rcso V rf, That the President of the U
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805041001:0139/pct:57.173615188882366,46.78185175415457,18.927383049520454,17.251384858876285/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805041001:0139/pct:57.16242661448141,46.77568244758012,18.93020221787345,17.253505648599937/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -296,7 +296,7 @@ veral attacks. . . ;
 . Resolved, That the President of the  
 United States be also requested t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1805072301:0117/pct:58.86313811462574,32.50336473755047,16.70842467898528,19.063641607383197/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1805072301:0117/pct:58.86313811462574,32.50336473755047,16.718864182064934,19.063641607383197/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -323,7 +323,7 @@ squadron under my command. You
 will be pleased to communicate to the  
 President of the United States, that 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1806071501:0322/pct:25.351242859348464,10.433482810164424,16.056816427358346,8.749377179870454/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1806071501:0322/pct:25.36153569039164,10.436804517522006,16.046523596315165,8.756020594585618/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -409,7 +409,7 @@ I has e the nonor to be, with the greatest
 respect, your ob’t servant,  
 PAUL HAMILTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812122901:0288/pct:59.13461538461539,36.261316368974796,17.363165680473372,28.71299241497431/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812122901:0288/pct:59.1236827509706,36.25688073394495,17.366118198064953,28.71355759429154/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -488,7 +488,7 @@ greatest respect, your obedient ser­
 vant,  
 P U L HAMILTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:0041421616A:1812123001:0290/pct:25.857805255023184,15.101557518899718,17.001545595054097,43.610529192094/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:0041421616A:1812123001:0290/pct:25.85380930304435,15.100182149362476,17.00406943800546,43.609593199757136/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -509,7 +509,7 @@ the attacks on the town, batteries,
 and naval forte of Tripoli, by the  
 squadron under your command, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:0041421616A:1812123001:0290/pct:26.058732612055643,62.501138537207396,16.754250386398763,4.854722652336278/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:0041421616A:1812123001:0290/pct:26.054705609643023,62.49544626593807,16.756812445268633,4.857316332726168/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -650,7 +650,7 @@ been grateful to the honorable feelings of the fa­
 vored officers.  
 I have the honor to be, Ac. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813010101:0282/pct:47.38035264483627,49.608610567514674,22.015113350125944,30.528375733855185/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813010101:0282/pct:47.36842105263158,49.600521767487365,22.015865021405187,30.52747431925648/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -754,7 +754,7 @@ serving as SUoh, whoso gloriously- supported tin
 honor ot the American flag under the orders oi theii  
 gallant commander on that signal occusinu.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814010601:0008/pct:64.54352441613588,27.884841363102232,16.401273885350317,2.855464159811986/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814010601:0008/pct:64.53210684592251,27.881565033486076,16.404269119641487,2.8590451572474835/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -859,7 +859,7 @@ der on that signal occasion,
 . H CLAY,  
 Spaaker of the Hmse of Representatives
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1814021001:0980/pct:25.30018603077964,57.776679841897234,22.289869778454253,4.575098814229249/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1814021001:0980/pct:25.30018603077964,57.77997364953887,22.295507074806924,4.575098814229249/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -889,7 +889,7 @@ ing as such, who so gloriously fagported the hon
 our of the American flag under the orders of their  
 gallant commander on that Mlignal occasion
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814041201:0061/pct:41.837606837606835,15.207283998450214,16.837606837606838,3.3707865168539324/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814041201:0061/pct:41.837606837606835,15.207283998450214,16.84710351377018,3.3707865168539324/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -922,7 +922,7 @@ the Ainericsn flag on that nnn&gt;r&gt;rablo day.
 Frida v, October 7.  
 The report yesterday made br Mr. Tait wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814101201:0267/pct:40.4247460757156,56.039850560398506,17.285318559556785,4.508094645080947/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814101201:0267/pct:40.41728212703102,56.032872618602916,17.288281634662727,4.511683891586768/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1034,7 +1034,7 @@ Pi&#x27;tvy officers, seamen, marines, and infantry
 serving as marines, who so gloriously support­  
 ed the honor of the American flagon that me
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814111201:0298/pct:22.898706896551722,38.652862073069144,16.774425287356323,3.582054028323218/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814111201:0298/pct:22.894595079906626,38.648262732032364,16.777398695157718,3.5855941615103917/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1088,7 +1088,7 @@ officers, seamen, marines, and infuntrz serving ad
 _ marines, who so gloriously supported the honor of  
 “the American flag on that memorable day. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1814112301:1144/pct:5.661934631891714,30.643734643734643,22.89534499834929,4.068796068796069/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1814112301:1144/pct:5.667436997909101,30.643734643734643,22.900847364366676,4.072072072072072/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1292,7 +1292,7 @@ emblematical of the attacks on the town, bat­
 teries and naval force of Tripoli, by the squad­  
 ron under Commodore Preble&#x27;s command, i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_harpswell_ver01:data:sn83016025:00279525279:1869061401:0444/pct:62.6604621309371,53.331024131162685,10.799101412066753,2.5401223877150443/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_harpswell_ver01:data:sn83016025:00279525279:1869061401:0444/pct:62.65040911278678,53.32486723620411,10.801379752927964,2.5427153082429/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -3095,7 +3095,7 @@ s When the Cloaths are wet, if a Flash in its Way to the
 wet Rat cannot be killed by the exploding electrical Bottle,  
 when a dry Rat may.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025581:00517015052:1757070801:0102/pct:33.22566752799311,63.93162393162393,30.060292850990525,10.925925925925926/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025581:00517015052:1757070801:0102/pct:33.23284524834912,63.9363722697056,30.074648291702555,10.921177587844255/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3849,7 +3849,7 @@ ly, even to the Zenith of Northern Countries.
 ¢ Body. Hence a wet Rat cannot be killed by the  
 ¢ exploding eleétrical Botile, when adry Rat may.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025581:00517015052:1762070901:0860/pct:36.382206082614616,44.470553678954325,28.007262823422607,12.204435306212366/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025581:00517015052:1762070901:0860/pct:36.382206082614616,44.47544916042493,28.022393705553032,12.209330787682969/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3930,7 +3930,7 @@ the fire really moves northward.”
   
 LL PERSONS that are Indcbted to the Ffa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015076:1770091401:0536/pct:65.2029826014913,13.31880702710064,27.651201325600663,33.1608334468201/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015076:1770091401:0536/pct:65.2029826014913,13.31880702710064,27.658105495719415,33.17445185891325/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4935,7 +4935,7 @@ motion, namely, in the most northern part,
 and the appearance proceeds southward,  
 though the fire really moves northwar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027239:00279529443:1868072201:0558/pct:38.71008616320324,31.52901228403076,11.06183476938672,5.043443523419555/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027239:00279529443:1868072201:0558/pct:38.71853353607028,31.53234128965678,11.057611082953201,5.040114517793535/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

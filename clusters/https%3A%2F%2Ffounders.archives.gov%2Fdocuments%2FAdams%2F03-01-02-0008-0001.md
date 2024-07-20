@@ -950,7 +950,7 @@ expended in seeking that which is below it. Every one
 itzes, however, that the first thing in the order of  
 time for a man to do is to win bread and clothes and t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_java_ver01:data:sn83030214:00206531332:1878091601:0108/pct:102.26163358281809,282.37116951681395,47.55938821998048,10.81143119476644/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_java_ver01:data:sn83030214:00206531332:1878091601:0108/pct:34.0872111942727,94.12372317227131,15.853129406660159,3.6038103982554803/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1012,7 +1012,7 @@ thank thee, O Father, Lord of Heaven and
 earth,because thou hast hid these things from  
 the wise and prudent, and hast revealed the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588289:1880041001:0115/pct:23.814632053207465,38.60451394010916,18.386612314953872,12.494468210650538/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588289:1880041001:0115/pct:18.46145319514493,29.92264014328722,14.265920301501968,9.683319995427004/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1043,7 +1043,7 @@ from Matthew vi 33: “But seek ye first
 the kingdom of God and His righteousness  
 and all things shall be added unto you.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn92064025:00514153383:1882120601:0102/pct:64.19753086419753,47.929402484717016,14.062721725556974,3.4608558469729838/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn92064025:00514153383:1882120601:0102/pct:64.202261009413,47.93268914743969,14.07691216120335,3.464142509695655/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1086,7 +1086,7 @@ tolerable for the Radical par­
 ty at the day of Judgement  
 than foi you.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_agate_ver01:data:2018270504:00383343562:1885070401:0628/pct:85.32154340836013,25.276225946617007,10.771704180064308,7.697082557417753/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_agate_ver01:data:2018270504:00383343562:1885070401:0628/pct:85.30782832342067,25.273088381330684,10.773991319723518,7.699230387288977/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1183,7 +1183,7 @@ doom. Nevertheless I say unto you, it shall
 be more tolerable for Tyre and Sidon at the  
 day of judgment than for you.—James Mo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn90053049:00332897901:1887111201:0574/pct:5.122452794914937,78.21837475565485,12.020938493176295,1.6475844736107232/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn90053049:00332897901:1887111201:0574/pct:5.121495327102804,78.20745497696495,12.023364485981308,1.6508446181767416/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1256,7 +1256,7 @@ in thee, had been done in Sodom, i
 and Sidon at the day of judgment, than  
 for you.” “The Tyrians and Sldonians
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_aerodactyl_ver01:data:sn87058235:0027952844A:1898022301:0061/pct:50.521207764198415,36.798597194388776,13.641265276779295,1.2900801603206413/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_aerodactyl_ver01:data:sn87058235:0027952844A:1898022301:0061/pct:50.521207764198415,36.80694722778891,13.647256170620656,1.2817301269205077/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

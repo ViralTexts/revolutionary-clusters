@@ -67,7 +67,7 @@ other purposes,&quot; passed on the 28th day of
 &#x27;June, is therefore in every respect applica­  
 ble to Great Britain and her dependencies
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216109:1809081101:0197/pct:48.31321572268647,49.620527647271416,23.290003095017024,12.396096855800506/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216109:1809081101:0197/pct:48.30574036825004,49.616044809829255,23.29155706844087,12.39798837594483/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -100,7 +100,7 @@ ing sallcd&#x27; for the same, before information
 of_thc enclosed proclamation had been re­  
 ceived at the port of departure ;.so far a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216109:1809081101:0197/pct:48.467966573816156,81.51427538850741,23.506654286598575,13.19118178532707/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216109:1809081101:0197/pct:48.46046727525917,81.50691119342308,23.50817473825365,13.193001475592496/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -117,7 +117,7 @@ course act of 1st March last, arising
 from acts which would, in conformity  
 with his proclamation of the 19tii A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809081201:0251/pct:61.48573955339376,24.151080443072452,21.224850762768074,2.9961866715089887/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809081201:0251/pct:61.47214854111406,24.146695715323165,21.22752726201002,3.001694504962479/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -152,7 +152,7 @@ ter enter such port, having sailed for ti e same, be­
 fore information of the enclosed proclamation had  
 been received at the port of departure ; so far a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809081401:0624/pct:4.251572327044025,52.85528877352369,21.10691823899371,14.114211550940947/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809081401:0624/pct:4.250503018108652,52.846715328467155,21.107897384305836,14.115977291159773/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -180,7 +180,7 @@ may hereafter enter such port, h ving sailed
 for the same, before information of the en­  
 closed proclamation had been received at th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809081501:0117/pct:23.778022785740536,63.74832337519815,17.438441749356855,7.767345445677356/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809081501:0117/pct:23.773654234796986,63.740551085101195,17.44136199399841,7.770462488823864/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -212,7 +212,7 @@ course act of 1st March last, arising
 from acts which would, in conformity  
 with his proclamation of the 19th A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809081501:0254/pct:3.6020903322135127,52.539969056214545,17.76782381485629,12.893243940175347/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809081501:0254/pct:3.6014181750326553,52.5331958231275,17.770728369720718,12.895878991018865/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -295,7 +295,7 @@ being withdrawn, is to be considered s under the
 cperation ‘of the several acts by&quot; which such trade  
 was suspended. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1809081601:0082/pct:3.4705789556712414,40.46940980064814,21.186306988483988,5.656486300697241/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1809081601:0082/pct:3.47583740863438,40.472683230220305,21.196823894410265,5.659759730269403/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -410,7 +410,7 @@ for}otf’itr pz‘rrpnf;s,’; P rir; i’:&quot;s!‘
 ery respect applicable to G Britain  
 and -her depéndencizs, as ivcll as t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809082201:0340/pct:59.95670995670996,1.3647151898734178,33.673469387755105,91.02056962025317/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809082201:0340/pct:59.967017109874256,1.371308016877637,33.673469387755105,91.02716244725738/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -450,7 +450,7 @@ ration of the several laws by which it was suspend­
 ed—that the act passed on the 28th of June 1809, is  
 in every respect applicable to Great Britain, as we
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809082801:0643/pct:52.27216900024564,86.65392578436057,20.60918693195775,3.5674470457079153/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809082801:0643/pct:52.25933202357564,86.64012738853503,20.6102652259332,3.570859872611465/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

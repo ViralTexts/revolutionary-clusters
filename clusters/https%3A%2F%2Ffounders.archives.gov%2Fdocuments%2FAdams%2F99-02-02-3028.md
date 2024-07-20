@@ -208,7 +208,7 @@ sil
   
 that his loss will be irreparablc.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216018:1803082501:0085/pct:22.212310437109725,29.081678097443664,21.647338685697296,35.940144295003115/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216018:1803082501:0085/pct:22.209008473316487,29.079087994299964,21.649075863435904,35.93991212445078/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -390,7 +390,7 @@ ciTential to a great military character, and there­
 fore I REPEAT tttAT HIS LOSS WILL »* Iftic*  
 ►arable. GEORGE WASHINGTON/
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016081:00332895060:1804082001:0172/pct:6.004874806115666,13.509564293304996,22.49058276091292,27.70988310308183/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016081:00332895060:1804082001:0172/pct:6.003544528134692,13.507769956169478,22.49113867966327,27.709523177048744/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -594,7 +594,7 @@ thereby strength from the disaffected and
 the slaves, whom I hare no doubt they will  
 arm.&quot; The same opinion was expressed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:0027952939A:1858110601:1011/pct:113.77163491470552,87.22356252513067,32.723197609264105,6.001206272617612/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:0027952939A:1858110601:1011/pct:37.92387830490184,29.074520841710225,10.907732536421367,2.0004020908725373/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

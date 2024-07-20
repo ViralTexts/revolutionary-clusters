@@ -151,7 +151,7 @@ honor of being, with very perfect esteem and
 re pect, sir, your most obedient and most  
 humble servant. THos. JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn83045160:00200293083:1873092801:0365/pct:65.26806526806527,83.7632087262811,34.20745920745921,50.17611635041472/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn83045160:00200293083:1873092801:0365/pct:16.324150998396735,20.940802181570277,8.55560413933829,12.54402908760368/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -224,7 +224,7 @@ I have the honor of being with very
 perfect esteem and respect, Sir, your most  
 humble servant.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_mazda_ver01:data:sn89064525:00212479214:1880013001:0333/pct:84.54888591257762,54.14591268678582,9.740655059052722,24.074616661783377/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_mazda_ver01:data:sn89064525:00212479214:1880013001:0333/pct:84.55294451885223,54.152423739297454,9.748772271601933,24.077872188039198/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -297,7 +297,7 @@ I have the honor of being with very
 perfect esteem and respect. Sir, your most  
 humble servant.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_alamo_ver01:data:sn85042331:0021247082A:1880020601:0555/pct:41.6021602160216,19.234484424052162,15.841584158415841,33.192465588022216/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_alamo_ver01:data:sn85042331:0021247082A:1880020601:0555/pct:41.61416141614161,19.234484424052162,15.841584158415841,33.20051517346857/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -327,7 +327,7 @@ The other theory is that in humble life the
 mothers are the central figures who shape their  
 sons to greatness through privations, and edi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_blaine_ver01:data:sn83025287:00175035229:1880091901:0409/pct:29.363481492953383,80.92846780493248,13.133033916679572,8.369601606963508/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_blaine_ver01:data:sn83025287:00175035229:1880091901:0409/pct:29.363481492953383,80.92846780493248,13.148520984977544,8.38448089870922/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -352,7 +352,7 @@ head I calculate at about fourteen to one, and, of
 course, that the education of her family will probably  
 rest on her own ideas and direction without assist
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ike_ver01:data:sn85042682:00211103401:1880101701:0143/pct:153.6636427076064,202.56722064585867,44.033496161898114,13.349547358465072/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ike_ver01:data:sn85042682:00211103401:1880101701:0143/pct:38.43602722988305,50.64180516146467,11.01413859312271,3.337386839616268/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -420,7 +420,7 @@ honor, being with very perfect esteem and
 respect, sir, your most obedient and most  
 humble servi., THos. JEFFERsON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_journey_ver01:data:sn84024738:00206531010:1880101901:0388/pct:6.464339908952959,63.57629568449308,41.95751138088012,74.58187074127606/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_journey_ver01:data:sn84024738:00206531010:1880101901:0388/pct:2.154779969650986,21.192098561497694,13.98583712696004,24.860623580425358/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -564,7 +564,7 @@ perfect esteem and respect, sir, your most obedient
 and most humble servant,  
 THOMAS JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_charlie_ver01:data:sn83045160:00280779593:1880102101:0445/pct:129.5643153526971,105.87385155362857,36.04771784232365,62.516775059357904/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_charlie_ver01:data:sn83045160:00280779593:1880102101:0445/pct:32.39527947088575,26.468462888407142,9.013098171443392,15.629193764839476/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -641,7 +641,7 @@ arts as she could not prosecute to equal ad­
 vantage in a more retired situation, - &#x27;  
 have the honor be big with Very per
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016926:00295877650:1880102701:0431/pct:51.06861642294713,98.23267917163612,15.087176602924634,29.35053670172395/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016926:00295877650:1880102701:0431/pct:38.312236286919834,73.6745093787271,11.322081575246132,22.021034370595252/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -700,7 +700,7 @@ education of her family will probably
 rest &gt;n her own ideas and direction  
 without assistance.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_fleshgolem_ver02:data:sn92063989:00514153553:1880103001:0218/pct:75.98848982201855,84.02737211048986,9.78365128423745,6.90978886756238/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_fleshgolem_ver02:data:sn92063989:00514153553:1880103001:0218/pct:75.99559487015524,84.03015382903558,9.7872038083058,6.912570586108098/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -766,7 +766,7 @@ education of her family will probably
 rest on her own ideas and direction  
 without assistance.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn84009409:00296028757:1880110401:0764/pct:5.8353925109294815,81.20350690754516,14.217829310017107,10.626992561105208/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn84009409:00296028757:1880110401:0764/pct:5.8353925109294815,81.20793482111229,14.224165241082178,10.626992561105208/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

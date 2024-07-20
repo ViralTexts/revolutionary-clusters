@@ -48,7 +48,7 @@ izing and revolutionary&quot; proposition?that
 philosophers stone which is to turn everything  
 into gold and silver, for the benefit of govern
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1837121201:0174/pct:33.443544387502065,49.7255369928401,15.424037030914201,3.448687350835322/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1837121201:0174/pct:33.45456549291894,49.7255369928401,15.418526478205765,3.456642800318218/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -71,7 +71,7 @@ nor can they be safe with them,withont V&#x27;i :i:
 iuformation. - When the press isfrfee, and &#x27;  
 every man able to read all is safe&#x27;&#x27;.r &#x27;.k 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027492:1856032601:0125/pct:110.67432273262662,24.938126104890983,19.037102473498233,8.096641131408367/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027492:1856032601:0125/pct:83.04610399175137,18.703594578668238,14.28781852997496,6.0813199764289925/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -127,7 +127,7 @@ them without information. When the
 press is free and every man able to read,  
 all is safe.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn85055197:00280776373:1857010201:0062/pct:324.1686942416869,285.89841951818323,50.28386050283861,30.62758938161731/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn85055197:00280776373:1857010201:0062/pct:81.09149928991683,71.47460487954581,12.578616352201259,7.656897345404327/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -154,7 +154,7 @@ themselves; nor can they be safe with hem, without infor­
 mation. Where the press is free, and every man able to  
 read and write, all is sa&#x27;e.&quot; An ther no less forcibly de
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:0020029323A:1857030501:0214/pct:74.31485022307201,335.15187611673616,50.478011472275334,23.823704586063133/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:0020029323A:1857030501:0214/pct:18.578712555768004,83.78796902918404,12.619502868068833,5.955926146515783/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -177,7 +177,7 @@ nor can they be safe with them, with­
 out information.&quot; Jefferson. But he was  
 a fogy, for the people nave not sense to elec
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn83025725:00212470284:1860080101:0107/pct:109.44,124.72840701301494,44.32,16.4784339034097/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn83025725:00212470284:1860080101:0107/pct:27.36364848646486,31.182101753253736,11.081477530337379,4.119608475852425/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -266,7 +266,7 @@ themselves ; nor can they be safe with them
 without information. When the press is  
 free and every man able to read, all is safe.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_eiffel_ver02:data:sn83016926:00295878770:1867020701:0044/pct:25.3133514986376,76.11583973427445,16.362397820163487,7.566950384056467/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_eiffel_ver02:data:sn83016926:00295878770:1867020701:0044/pct:18.99441340782123,57.089474776832056,12.276876958713721,5.67780776416857/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -291,7 +291,7 @@ ae e in i e o e e e a e i e o e e o ee e e o oe eo ea e o onge an wo wer admitte
   
 reaved partner two children. Of theseo oe i or o aeo e an bubbe as England was un
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00280779155:1873121801:0661/pct:26.375404530744337,286.2630480167015,210.84142394822007,13.24982602644398/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00280779155:1873121801:0661/pct:6.595185110256929,71.56576200417537,52.7210196237103,3.312456506610995/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -333,7 +333,7 @@ e o e a e a ea e e  ee o i aee
   
 Superintendent oI the Tullahoma Woo!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00280779155:1873121801:0661/pct:25.323624595469255,299.5128740431454,159.2233009708738,24.384133611691023/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00280779155:1873121801:0661/pct:6.332186931013554,74.87821851078635,39.81387821161238,6.096033402922756/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -391,7 +391,7 @@ As to the religious instructions to be
 given in the schools, Jefferson, who was a  
 great student of Montesquien, only oppose
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00271742101:1876051701:0481/pct:70.50107758620689,238.8827126181212,59.30765086206897,20.418751158050767/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00271742101:1876051701:0481/pct:23.5003591954023,79.62757087270705,19.769216954022987,6.806250386016923/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -424,7 +424,7 @@ lieve in a whilosopner&#x27;s stone which is to turn everything.
 into goid, and to redeem man from the original sontence of  
 his maker--&quot;In the sweat of his brow shall he eat hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:00271744043:1878101701:0214/pct:8.976063829787234,228.05938986196497,46.525930851063826,8.920078877160423/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:00271744043:1878101701:0214/pct:2.992021276595745,76.01979662065499,15.508643617021276,2.973359625720141/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -449,7 +449,7 @@ lleve in a philozopner stone whien is to turn avarything
 into goisd, and to fadsem man from the orginal sentence of  
 sir iaskare in the svear af bus bree shah be eet al
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:00271744043:1878101701:0216/pct:8.295701622344874,225.2630361891548,47.59993309918047,12.278876170655566/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:00271744043:1878101701:0216/pct:2.765233874114958,75.08767872971828,15.866644366393489,4.092958723551856/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -475,7 +475,7 @@ which is to turn everything into gold, and to re
 deem man from the original sentence of his Maker,  
 In the sweat of his brow shall he eat his brea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558391:1878101701:0391/pct:118.7378640776699,329.84212552945706,48.54368932038835,17.32768579129765/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558391:1878101701:0391/pct:29.706096672334223,82.46053138236427,12.144765606023803,4.331921447824413/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -494,7 +494,7 @@ can proouce as solid wealth as hard labor in
 the tarth. It is in vain for common sense to  
 urge that nothing
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_java_ver01:data:sn83030214:00206531332:1878101701:0354/pct:3.8894405825885467,188.2508326633743,47.38497186362132,4.479154703112438/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_java_ver01:data:sn83030214:00206531332:1878101701:0354/pct:1.2964801941961823,62.7502775544581,15.794990621207106,1.493051567704146/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -513,7 +513,7 @@ seen in the history of other nations. We are
 now taught to believe that legerdemain tricks  
 Won paper can produce as solid wealth as har
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_newfoundland_ver04:data:sn83045462:00280654504:1878101701:0257/pct:43.121091529278,43.20321591029303,13.615690733371233,2.2638315878557074/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_newfoundland_ver04:data:sn83045462:00280654504:1878101701:0257/pct:43.131750994883454,43.20321591029303,13.619243888573052,2.2796995662752564/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -537,7 +537,7 @@ tone which is to turn everything into gold and
 is Maker: &quot;In the sweat of his trow &amp;hall he  
 at h&#x27;s bread.&#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_gabbana_ver01:data:sn85025007:00415663808:1878101701:0272/pct:51.458990536277604,51.34263295553618,15.08937960042061,5.143853530950305/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_gabbana_ver01:data:sn85025007:00415663808:1878101701:0272/pct:51.46775324220119,51.34553908747457,15.08937960042061,5.146759662888695/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -590,7 +590,7 @@ everything into gold and to redeem man from the
 original sentence of his Maker: *ln the sweat of  
 his brow shall he eat his bread.’ 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348720:1878103101:0567/pct:17.464788732394368,42.46754949521437,10.79225352112676,3.5138324373934706/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348720:1878103101:0567/pct:17.461714486886112,42.461982170949135,10.794754444640029,3.5166491872050343/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -635,7 +635,7 @@ Igold, s-d to redeem man from tbc
   
 rgieni gectfcr.ee of his sicker, I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_audi_ver01:data:sn83021327:0020029712A:1879100901:0275/pct:19.802816901408452,4.982950170498295,26.43661971830986,120.39379606203939/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_audi_ver01:data:sn83021327:0020029712A:1879100901:0275/pct:14.865436099760462,3.739962600373996,19.839368747358037,90.29809701902981/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -671,7 +671,7 @@ and free, in a state of civilization, it expects
 what never will be.&quot; Where the press is  
 free, and every man able to read, all is sale
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eagle_ver01:data:sn83025733:00200297143:1884040801:0660/pct:177.44418783679754,209.6060142001949,50.19245573518091,5.1788946122789925/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eagle_ver01:data:sn83025733:00200297143:1884040801:0660/pct:44.37812860993454,52.40150355004872,12.55294570658452,1.2947236530697481/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -714,7 +714,7 @@ eoinc* a personal difference.
 Where the press is free and every  
 man able to read, all is safe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_neely_ver01:data:sn85059778:00340582135:1888102601:0356/pct:58.50704225352113,5.7093948242875845,25.014084507042252,90.36350820662572/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_neely_ver01:data:sn85059778:00340582135:1888102601:0356/pct:58.498802985495004,5.708819975835683,25.01525606722058,90.35776614310646/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -733,7 +733,7 @@ Where the press is free and every
 man able to read all is safe.  
 The execution of the laws is more im
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn90061417:00294559966:1888110901:0609/pct:111.36842105263158,37.83142065690542,43.43859649122807,10.341643582640813/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn90061417:00294559966:1888110901:0609/pct:27.851877851877852,9.457855164226356,10.863460863460864,2.5854108956602033/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -749,7 +749,7 @@ ence.
 Where the press is free and every man  
 able to read all is safe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn84024448:0029602076A:1888111801:1219/pct:180.1857585139319,91.61576901721266,49.53560371517028,5.663520266518601/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn84024448:0029602076A:1888111801:1219/pct:45.055157731759245,22.903942254303164,12.386297658215598,1.4158800666296503/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -767,7 +767,7 @@ Where the press is free and every
   
 man able to read all is safe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_hubert_ver01:data:sn89058128:0029602112A:1888120601:0947/pct:73.9709013484741,26.623628147191738,15.542938254080909,1.394448030987734/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_hubert_ver01:data:sn89058128:0029602112A:1888120601:0947/pct:55.4924578527063,19.974176888315043,11.65927240461402,1.0458360232408006/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -783,7 +783,7 @@ ence.
 Where the press is free and every  
 man able to read all is safe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271768515:1889020701:0206/pct:82.29250066720043,10.120170821332804,11.929543634907926,1.3109544145396763/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271768515:1889020701:0206/pct:82.29250066720043,10.120170821332804,11.933991637754648,1.3142649054854836/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -867,7 +867,7 @@ the original sentence of his Maker: In
 the sweat of his brow shall he eat his  
 brea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_hotel_ver02:data:sn86071158:00206536536:1893100101:0275/pct:237.74680603948897,42.20700765203383,54.35540069686411,43.65686669351591/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_hotel_ver02:data:sn86071158:00206536536:1893100101:0275/pct:59.43670150987224,10.551751913008458,13.588850174216027,10.914216673378977/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -972,7 +972,7 @@ jealousy and not in confidence.
 Where the press is free, and  
 every man able to read, all is safe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_coldplay_ver02:data:sn89051294:0039334281A:1898042801:0117/pct:42.18428630193336,23.624767472761096,16.742081447963802,4.305075737443529/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_coldplay_ver02:data:sn89051294:0039334281A:1898042801:0117/pct:42.17561176228666,23.621628802975952,16.74377955994242,4.307825162747442/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -993,7 +993,7 @@ PUNISHMENT.
 .All excess of punishment is  
 a crime
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_coldplay_ver02:data:sn83007654:00393342754:1898082601:0051/pct:24.675148890092043,59.36145053212456,11.220898754737412,4.700433582972014/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_coldplay_ver02:data:sn83007654:00393342754:1898082601:0051/pct:24.67180944647449,59.35560153709725,11.222763567465151,4.7024337373140215/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

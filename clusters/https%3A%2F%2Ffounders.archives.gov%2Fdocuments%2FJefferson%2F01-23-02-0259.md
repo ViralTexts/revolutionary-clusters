@@ -415,7 +415,7 @@ inhabitants of Canada, inserted in ‘the Ild article,
 Jhall alfs take place with regard to the inbabitants  
 of the countries ceded by this article. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025581:00517015052:1763021101:0962/pct:39.061154177433245,37.852311161217585,27.97157622739018,10.047914317925592/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025581:00517015052:1763021101:0962/pct:39.068331897789264,37.861706125516726,27.97157622739018,10.05261180007516/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -693,7 +693,7 @@ retained till the peace, and then by the
 &#x27; definit-ive treaty in 1783 with Great­  
 Britain, she obtained the sesiion of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803011501:0052/pct:54.10464937854841,74.55631699174134,22.034678533067364,9.576524336671937/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803011501:0052/pct:54.096348573181956,74.54976719669683,22.036411987317173,9.578611379542593/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -713,7 +713,7 @@ the id md of New Orleans and the right
 bank of that river, as well as the paffige  
 both in and o»»t ofits rnoutb, In *7
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016072:00332895060:1803013101:0142/pct:42.069799585348996,64.48748127541194,17.639944713199725,4.183607960624866/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016072:00332895060:1803013101:0142/pct:42.06253238901365,64.48058200492136,17.64121609949905,4.185835027281481/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -789,7 +789,7 @@ New Orleans, uud the right bank of that river,
 as well as the passage both in and out of its  
 mouth 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1811011701:0325/pct:59.85480943738657,23.664588681090333,17.277676950998185,2.933626696002934/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1811011701:0325/pct:59.843948466702955,23.66169640674652,17.28059033448255,2.9373421331377823/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1245,7 +1245,7 @@ ciety against a weaker, condemned by tbe judgment of
 mankind.&quot; ?  
 Now, the case of the South American republics at th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661216:1853081601:0922/pct:79.52097733483363,38.867261082506595,15.737019771740878,7.924149190003767/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661216:1853081601:0922/pct:79.52097733483363,38.87563313659006,15.74237796710068,7.919963162962032/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1287,7 +1287,7 @@ i condemned by the judgment ot inan­
 : kind.”  
 I Now, the case of I lie South America
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624463:1853082701:0444/pct:25.69320214669052,14.710509754562619,56.864937388193205,107.31592196349905/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624463:1853082701:0444/pct:19.92374790595575,11.40464965046334,44.0760210270926,83.18159648837587/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1340,7 +1340,7 @@ miles is a navigation tbat will rairy the heavieM ships.
 About two thou-.itid live bundled miles more will bear  
 i vessels ol from ten tons to o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661216:1853112701:1278/pct:32.97172912557528,47.458260652878145,15.94345825115056,17.206578619486667/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661216:1853112701:1278/pct:32.977207977207975,47.46241382174599,15.954415954415955,17.210731788354515/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1369,7 +1369,7 @@ I for the peace and salety of the inhabitants aa to render
 its asa impracticable, it would ihen be an injury of which  
 we should bo entitled to demand rcdre?? 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661216:1853112701:1278/pct:33.004602235371465,72.29005731373037,15.877712031558186,6.865188138549714/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661216:1853112701:1278/pct:33.01555993863686,72.29836365146606,15.872233179925487,6.865188138549714/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1393,7 +1393,7 @@ founded in natural reason, was evidenced by ihe common
 sense of mankind, aud declared by the writers before  
 quoted.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661216:1853120201:1294/pct:16.31459213519662,9.827092922005225,15.827104322391941,4.764274163453166/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661216:1853120201:1294/pct:16.31459213519662,9.831239374714931,15.848770447405482,4.768420616162873/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1427,7 +1427,7 @@ recent as November ttid. He sayi:
 are plain oner, and the rights of the nalions at the sources  
 of Ihe great rivers are us well settled as the riparia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661216:1853120201:1294/pct:16.23334416639584,16.171165567856697,15.729606759831004,9.441472820002488/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661216:1853120201:1294/pct:16.238760697649226,16.179458473276114,15.72419022857762,9.441472820002488/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1510,7 +1510,7 @@ to descend the stream is in any case obstructed, it is an act
 of force by a stronger society against a weaker, con­  
 demned b&gt; the judgment of mankind &quot; This great de
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854041201:0552/pct:32.04601479046836,23.35435056746532,15.71076417419885,10.03783102143758/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854041201:0552/pct:32.05697069296083,23.362757461118118,15.71076417419885,10.033627574611181/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1614,7 +1614,7 @@ her pretensions were advocated on tin
 gioinid of licalies, und not, uf natural  
 light. Tho islltltnenl of tight ill favo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_monroe_ver01:data:sn84024443:00280779234:1861031501:0030/pct:39.686009538950714,107.57513939888482,16.017488076311604,15.503875968992247/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_monroe_ver01:data:sn84024443:00280779234:1861031501:0030/pct:29.77539256609024,80.68815449476404,12.025442258000398,11.627906976744185/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1698,7 +1698,7 @@ States of Alabama, Louisiana, and Mississippi respec­
 tively, through their sovereign conventions, have, by  
 ordinance, recognized the right of thc navigation of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024669:00414184741:1863030301:0108/pct:67.37233354880414,22.13598980655624,14.511958629605688,3.1622842580794623/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024669:00414184741:1863030301:0108/pct:67.36144772984326,22.13342599027102,14.514999730705014,3.165778704347155/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1729,7 +1729,7 @@ Mississippi River and its tributaries, free to all
 friendly people living upon the same; and  
 Whereas, The Provisional Congress of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347312:1863032001:0120/pct:49.27420641250598,16.63258350374915,13.415217738076247,7.396046353101568/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347312:1863032001:0120/pct:49.284840750784284,16.64015753995304,13.415217738076247,7.403620389305461/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1788,7 +1788,7 @@ regulations they please, and to give what
 preference the find expedient to native  
 merehants, veseis and productions.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_yorkie_ver01:data:sn83045462:00280654978:1894122201:0701/pct:55.76036866359447,49.69025494400763,13.6183060543461,2.192041934715273/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_yorkie_ver01:data:sn83045462:00280654978:1894122201:0701/pct:55.76036866359447,49.699189897545864,13.642142062609249,2.197998570407434/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1806,7 +1806,7 @@ leave each party free to make what internal
 regulations they please, and to give what pref­  
 crence they deemed expedient to native me
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_fernandez_ver01:data:sn83030272:0017504517A:1894122301:0690/pct:227.17638152914458,146.75383913638436,50.64345193035579,7.237342253306979/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_fernandez_ver01:data:sn83030272:0017504517A:1894122301:0690/pct:56.81560015145778,36.68845978409609,12.66565694812571,1.8093355633267447/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1840,7 +1840,7 @@ the United States on terms of recipro
 cal benefit to both nations. But it  
 was declined on our part, until ou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033429:00280779337:1896061001:0852/pct:24.65034965034965,76.66839110191412,15.384615384615385,15.610450077599586/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033429:00280779337:1896061001:0852/pct:18.502973067506122,57.501293326435594,11.54249737670514,11.717537506466632/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1862,7 +1862,7 @@ necessity is above law, and oblige them to abandon a
 part of a State. But nothing short of this can justiry  
 or obtain such an abandonment
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:0017504291A:1897021801:0639/pct:344.64831804281346,137.1324643831464,51.37614678899082,13.70112155198545/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:0017504291A:1897021801:0639/pct:86.17855094628179,34.2831160957866,12.846492066526476,3.4252803879963625/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1885,7 +1885,7 @@ Commissioners to obtain them. It will be something
 to obtain for our vessels, flour, &amp;tc., the admission  
 to those ports during their pleasure
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043019:1898072401:0698/pct:286.4482501861504,111.31782945736434,49.739389426656736,16.992248062015506/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043019:1898072401:0698/pct:71.6520767368225,27.829457364341085,12.44179549264295,4.248062015503876/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1905,7 +1905,7 @@ the treaty of peace and by a renunciation or
 abandonment by the former proprietors.&quot;  
 &quot;Everything that has been stipulated by a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kaiser_ver01:data:sn83030214:00175036957:1899011901:0335/pct:248.21860390133807,159.67991169977924,47.15460261163953,9.834437086092715/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kaiser_ver01:data:sn83030214:00175036957:1899011901:0335/pct:82.73953463377936,53.22663723325975,15.718200870546509,3.2781456953642385/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

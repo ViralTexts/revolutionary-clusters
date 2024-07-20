@@ -364,7 +364,7 @@ any person of murder or manslaughter, un­
 less the fact was proved to be done, or at  
 least the body found dead.&quot; The fact ma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042945:1897080501:0836/pct:177.0864946889226,132.78787878787878,50.3793626707132,12.909090909090908/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042945:1897080501:0836/pct:44.28842504743833,33.196969696969695,12.599620493358634,3.227272727272727/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

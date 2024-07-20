@@ -131,7 +131,7 @@ ents. Would to God they were to end
 here.&quot;  
 rIn another letter he said after a mos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_inge_ver01:data:sn82016014:0029587126A:1895022101:0372/pct:28.221649484536083,113.49141455437449,18.685567010309278,4.279095121286454/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_inge_ver01:data:sn82016014:0029587126A:1895022101:0372/pct:21.174737617381698,85.11856091578086,14.012152458110846,3.2161351866993733/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -151,7 +151,7 @@ ents. Would to God they were to end
 here.”  
 In another letter he said after a mos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_elliot_ver01:data:sn87068079:00332896490:1895022101:0032/pct:35.46034639927074,76.53733528550512,9.708295350957156,2.6964372864812103/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_elliot_ver01:data:sn87068079:00332896490:1895022101:0032/pct:35.45495974479721,76.52799804806637,9.710618259152362,2.699158228620227/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -193,7 +193,7 @@ ents. Would to God they were to end
 here. ”  
 In another letter he said after a mos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_annapolis_ver01:data:sn85025350:00415627671:1895030901:0485/pct:59.274350019402405,88.59777517564403,15.3279006596818,3.8348946135831383/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_annapolis_ver01:data:sn85025350:00415627671:1895030901:0485/pct:45.93754699012581,68.6720108901157,11.889128364493008,2.964531498147168/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -233,7 +233,7 @@ false hopes and temporary expedients.
 Would to God they were to end here.  
 In another letter he said, after a mos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_flycatcher_ver01:data:sn85033162:00200298500:1897021801:0877/pct:27.283511269276392,97.54874651810584,23.072360616844602,3.7697307335190344/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_flycatcher_ver01:data:sn85033162:00200298500:1897021801:0877/pct:20.480854853072127,73.16620241411327,17.334520629266844,2.8226555246053855/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -253,7 +253,7 @@ Would to God they were to end here.&quot;
   
 In another letter he said, after a mos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_kauai_ver01:data:sn84022137:00279523593:1897021801:0888/pct:51.384451544195954,64.65060240963855,14.589989350372736,2.6626506024096384/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_kauai_ver01:data:sn84022137:00279523593:1897021801:0888/pct:51.396284463377114,64.65863453815261,14.589989350372736,2.6626506024096384/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -272,7 +272,7 @@ false hopes and temporary expedients.
 Would to God they were to end here.&quot;  
 In another letter he said, after a mos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_green_ver01:data:sn87093220:0020029032A:1897021801:0080/pct:65.07149666348904,59.217724288840266,12.373689227836035,2.2702407002188183/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_green_ver01:data:sn87093220:0020029032A:1897021801:0080/pct:65.08102955195424,59.217724288840266,12.383222116301239,2.273659737417943/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -301,7 +301,7 @@ false hopes and temporary expedients.
 Would to God they wer6 to end here.&quot;  
 In another letter he said, after a mos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_pearsoll_ver01:data:sn84022650:00295868776:1897021901:0456/pct:84.23101881894874,37.75857554333595,14.519792342634652,2.9196124639958105/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_pearsoll_ver01:data:sn84022650:00295868776:1897021901:0456/pct:63.193768257059396,28.318931657501963,10.905550146056475,2.199528672427337/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -359,7 +359,7 @@ himself and moved forward for the final
 and crushing blow ut Yorktown. And  
 when, hemmed in on every side, over- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_garwood_ver02:data:sn83040340:00237285293:1897060401:0392/pct:9.802220680083275,94.53018891221139,21.16585704371964,12.717619459192493/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_garwood_ver02:data:sn83040340:00237285293:1897060401:0392/pct:6.541731736942564,63.020125941474255,14.107235814679854,8.482528707247809/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

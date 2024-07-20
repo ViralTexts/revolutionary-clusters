@@ -63,7 +63,7 @@ DE WITT CLINTON.
 Bv order of the Common Council,  
 &#x27; T. WOUTMAN, City Clfrlt, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806050501:1096/pct:4.8107448107448105,81.9831290784657,21.05006105006105,14.324367340442464/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806050501:1096/pct:4.8095703125,81.97008274984087,21.051025390625,14.326066199872692/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -167,7 +167,7 @@ DE WIIT CLINTON.
 Ry order of the C.omiiiou Council,  
 T. VVOili&#x27;M AN, City Clerk. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806050701:0003/pct:21.58368063171748,51.3719512195122,18.863785917964467,22.838137472283815/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806050701:0003/pct:21.590992176646925,51.3719512195122,18.863785917964467,22.8519955654102/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -211,7 +211,7 @@ additional enormities.
   
 We therefore refpeitfully zoqueff
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1806050801:0744/pct:70.59842216663459,72.43551646261737,21.069847989224552,21.95411862593605/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1806050801:0744/pct:70.60483612340452,72.43947858472998,21.063434032454623,21.958080748048655/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -231,7 +231,7 @@ out delay, be~fcm&quot; ¢ proteétion.
 By order of the Comnion Ceuncil.  
 T, WORTMAN, City Clerk.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1806050801:0745/pct:10.82375478927203,6.598523566155594,20.306513409961685,5.746734809767178/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1806050801:0745/pct:10.8301404853129,6.598523566155594,20.306513409961685,5.7580919931856895/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -278,7 +278,7 @@ DEWITT CLINTON.
 gy order of the common council.  
 . T. WORTMAN, City Clerk
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1806051301:0286/pct:57.95345871852088,68.91703230953331,17.341408989480396,22.746310331072994/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1806051301:0286/pct:57.95877165019658,68.92368036165404,17.346721921156092,22.742986305012632/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

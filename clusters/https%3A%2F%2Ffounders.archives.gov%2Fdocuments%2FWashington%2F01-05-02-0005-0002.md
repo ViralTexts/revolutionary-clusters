@@ -852,7 +852,7 @@ the President of the United States to establish
 ports, to raise troops, and call forth the militia of  
 the States of Georgia and South-Carolina, in caf
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789092301:0003/pct:4.983780595694485,28.297589675460237,25.56767915069301,6.908331751755552/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789092301:0003/pct:4.983780595694485,28.311823875498195,25.59716897670304,6.903587018409565/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -873,7 +873,7 @@ the resolve of the the United States in
 Congrefsaflembled and for other gurpofcs  
 therein mentioned. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789101501:0474/pct:50.85193184545236,4.119431582308798,43.676505879529635,87.01900047900367/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789101501:0474/pct:50.86793056555476,4.124753845335037,43.68450523958084,87.02432274202991/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -892,7 +892,7 @@ called (Quakers, from their yearly meeting far
 Pcnnjylvania,NNew-Jerseyyy Delaware, g.ni tbi  
 ■wejteru parts of Maryland and Virginia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789101701:0004/pct:71.15330121847549,29.89809651990002,23.632757155001418,4.095366275716208/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789101701:0004/pct:71.15330121847549,29.907710055758507,23.661093794276,4.090559507786964/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -919,7 +919,7 @@ dent—exprctled to him the pleasure the citizens
 enjoyed 011 his arrival,and gave a hearty welcome,  
 THE PROCESSIO
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789110401:0002/pct:46.80488497585913,15.636363636363637,25.163305879011645,10.220095693779903/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789110401:0002/pct:46.82618574268674,15.641148325358852,25.163305879011645,10.220095693779903/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -938,7 +938,7 @@ Mufick was postponed until Wednesday next.
 Several pieces were however given, which merited  
 and received applause
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789110401:0003/pct:32.07212533254508,38.064516129032256,26.01241501625776,3.870967741935484/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789110401:0003/pct:32.08690511380431,38.07874762808349,26.00502512562814,3.8757115749525615/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -964,7 +964,7 @@ of tliefociety) opposite to Aniefbury ferry, wheie
 it waited his arrival. The barge-men were -  
 drefled in white
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789111401:0002/pct:72.33740414654928,77.47368421052632,23.09003124112468,9.224880382775119/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789111401:0002/pct:72.35870491337688,77.48803827751196,23.075830729906276,9.220095693779903/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -989,7 +989,7 @@ gress assembled, &#x27;That the ef­
 tablithment contained in the  
 resolve of the late Congress, of the thir
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790012001:0525/pct:9.288299155609169,15.328467153284672,21.109770808202654,8.394160583941606/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790012001:0525/pct:9.304382790510655,15.333333333333334,21.093687173301166,8.394160583941606/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1032,7 +1032,7 @@ under the resolves of the United States
 in Congress assembled, and for other  
 purposes therein mentioned,” passe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790090201:0653/pct:50.02415458937198,68.98692810457516,20.33816425120773,5.130718954248366/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790090201:0653/pct:50.02415458937198,68.98692810457516,20.34621578099839,5.147058823529412/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1534,7 +1534,7 @@ people not very clean--&quot;to Lynn,&quot; where it is said
 175,000 pairs of shoes (women&#x27;s chiefly,) have been  
 made in a year by about 400 workmen&quot;--along th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293277:1859022201:0180/pct:283.5331230283912,141.5770185601135,49.8422712933754,12.152736730109941/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293277:1859022201:0180/pct:70.89446284902982,35.39425464002837,12.46253352263764,3.0381841825274853/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1562,7 +1562,7 @@ not bow to the spectators as he passed, but sat on his
 borse with a calm, dignified air. He dismounted at  
 the old State-House, now City Hall, and came out o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_flavory_ver01:data:sn83030213:00206530625:1859052001:0135/pct:150.91058244462675,234.31325874791716,48.20344544708777,19.673887169721496/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_flavory_ver01:data:sn83030213:00206530625:1859052001:0135/pct:50.30352748154225,78.10441958263905,16.067815149029258,6.557962389907165/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1648,7 +1648,7 @@ field is Horses and Cattle--salted Beef and Pork-Lums
 ber and Indian Corn, to the Welt Indies, and in a small  
 degree Wheat and Flour
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530674:1861030201:0425/pct:53.64741641337386,46.33353401565322,49.56095913542722,100.52980132450331/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530674:1861030201:0425/pct:17.882472137791286,15.444511338551074,16.520319711809073,33.50993377483444/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2054,7 +2054,7 @@ Its second section reéstablished the pay and
 allowances of the troops voted by the old  
 Congress, before the adoption of the Con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:00206533523:1879061101:1030/pct:27.94759825327511,341.12094395280235,48.03493449781659,16.519174041297934/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:00206533523:1879061101:1030/pct:6.986899563318778,85.28023598820059,12.008733624454148,4.129793510324483/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2145,7 +2145,7 @@ The Life and Times of John Jay, Secretary
 of Foreign Affairs under the Confederation and  
 First Chief Justice of the United Slates, with 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_graftonnotch_ver01:data:sn83016025:00414210570:1887101501:0574/pct:24.028880866425993,68.06120009562515,9.703971119133573,1.1355486492947646/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_graftonnotch_ver01:data:sn83016025:00414210570:1887101501:0574/pct:24.02541149292521,68.05306561491574,9.706179613052267,1.1384008605234852/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2184,7 +2184,7 @@ pected by the southern States.&quot;
 It is in these lines that we find the origin  
 of presidential tours. Washington carrie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn84024448:00296020746:1887101501:0901/pct:23.094867807153967,68.0,52.17729393468118,49.611111111111114/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn84024448:00296020746:1887101501:0901/pct:5.775962660443407,17.0,13.049397121742512,12.402777777777779/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2243,7 +2243,7 @@ To bSy up the knights with ton thousand in gold
 Tii,t the sheen of that metal was shameful to see  
 In the hands of the briber to barter the free
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_indianhead_ver01:data:sn83016368:00415627579:1887102201:0404/pct:13.83505446314896,7.620211898940505,22.690621021360872,88.92624286878565/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_indianhead_ver01:data:sn83016368:00415627579:1887102201:0404/pct:13.83505446314896,7.620211898940505,22.700051869665675,88.9296386851399/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2302,7 +2302,7 @@ above tour, who also recommended
 it accordingly.” Two days later he  
 notes that “Mr. Madison finds n
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624591:1887112601:0569/pct:71.8197739213501,23.156130268199234,13.039324948256647,19.971264367816094/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624591:1887112601:0569/pct:55.66751665707,17.946180018558614,10.109401990622686,15.487163625115992/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2339,7 +2339,7 @@ ed with General Knox, Secretary of War,
 on the above tour, who also recommended  
 it accordingly.” Two days later he note
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623884:1887122401:0245/pct:73.5852534562212,37.359550561797754,10.63594470046083,6.137640449438202/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623884:1887122401:0245/pct:73.5852534562212,37.359550561797754,10.654377880184331,6.147003745318352/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2645,7 +2645,7 @@ of this business are performed at the manufact­
 ory, except the spinning; this is done by tho coun­  
 try people, who are paid by the cut.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_ashbel_ver01:data:sn82015679:0029587031A:1889020301:0359/pct:60.07940008822232,81.2667184398999,15.935156594618439,6.626973854517215/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_ashbel_ver01:data:sn82015679:0029587031A:1889020301:0359/pct:45.07446221731936,60.95435326602813,11.9580805295091,4.970230390887911/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2680,7 +2680,7 @@ beef and pork—lumber and Indian corn,
 to the West Indies, aud in a small degree­  
 wheat and flour.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_mojave_ver01:data:sn82014381:00175036581:1889022301:0231/pct:50.055283525509395,12.548104956268222,10.914547464855474,8.151603498542274/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_mojave_ver01:data:sn82014381:00175036581:1889022301:0231/pct:50.055283525509395,12.548104956268222,10.914547464855474,8.154518950437318/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2741,7 +2741,7 @@ AT NEW HAVEN.
   
 He reached New Haven and spent Sun
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_mojave_ver01:data:sn82014381:00175036581:1889022301:0231/pct:50.055283525509395,22.588921282798832,10.851366292844732,18.79883381924198/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_mojave_ver01:data:sn82014381:00175036581:1889022301:0231/pct:50.055283525509395,22.588921282798832,10.855315116095404,18.816326530612244/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2774,7 +2774,7 @@ WHO USED HIS EYES
   
 And despised not small tilings among th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_mojave_ver01:data:sn82014381:00175036581:1889022301:0231/pct:50.02369293950403,52.15160349854227,10.819775706839362,6.973760932944606/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_mojave_ver01:data:sn82014381:00175036581:1889022301:0231/pct:50.03553940925604,52.160349854227405,10.819775706839362,6.970845481049563/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2918,7 +2918,7 @@ hysterical old woman, whose delight is
 playing with a negro child and caressing  
 a monkey,” succeeded in the wish of he
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_fleshgolem_ver02:data:sn92063989:00514153577:1889042701:0402/pct:15.85,49.096454441479224,11.03,7.037743042317956/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_fleshgolem_ver02:data:sn92063989:00514153577:1889042701:0402/pct:15.856666666666667,49.098996060490535,11.023333333333333,7.035201423306646/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2969,7 +2969,7 @@ hysterical old woman, whose delight is
 playing with a negro child and caressing J  
 I a monkey,&quot; succeeded in the w ish of her 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mauve_ver04:data:sn85034357:00175033877:1889060701:0486/pct:29.39823687236489,47.334970388559874,13.855883480260637,4.535605951177235/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mauve_ver04:data:sn85034357:00175033877:1889060701:0486/pct:29.39823687236489,47.344600125186574,13.862271623866105,4.535605951177235/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3057,7 +3057,7 @@ to the tavern of a Mrs. Haviland, at Rye,
 who keeps a very neat and decent inn.&quot;  
 This is his entry concerning the road an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_hickok_ver01:data:sn85032490:00237286650:1889112901:0522/pct:106.5340909090909,22.757712152815895,18.585526315789473,3.5239872653419693/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_hickok_ver01:data:sn85032490:00237286650:1889112901:0522/pct:71.03334828772245,15.171808101877264,12.397188574846718,2.349324843561313/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3079,7 +3079,7 @@ one inclosure also is from another, by fences
 of stone, which are indeed easily made, as  
 tho country is immensely stoay. After pass
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_hickok_ver01:data:sn85032490:00237286650:1889112901:0522/pct:106.5340909090909,27.11603908222637,18.54066985645933,6.224613020090021/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_hickok_ver01:data:sn85032490:00237286650:1889112901:0522/pct:71.03334828772245,18.08101877264244,12.367279796620307,4.149742013393348/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3105,7 +3105,7 @@ whole wst was vers- rniicrh anrl k
 the land strong, well covered with grass and  
 - uui crop oi inaian corn. The) far
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_deckle_ver01:data:sn92053945:00212471653:1889120501:0399/pct:31.89189189189189,116.2761869344242,13.168168168168169,6.012148258336432/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_deckle_ver01:data:sn92053945:00212471653:1889120501:0399/pct:23.926103935115652,87.20714020081815,9.882847702012617,4.512210239246312/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3135,7 +3135,7 @@ who keeps a very neat and decent inn.”
 This is his entry concerning the road and  
 the impression made upon him by th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271768515:1890010201:0571/pct:69.28859060402685,16.38423645320197,12.134228187919463,2.7881773399014778/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271768515:1890010201:0571/pct:69.2930648769575,16.38423645320197,12.134228187919463,2.7914614121510675/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3153,7 +3153,7 @@ the whole way—was very rough and stony,
 but the land strong, well covered with  
 grass and a luxuriant crop of Indian corn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271768515:1890010201:0571/pct:69.30201342281879,19.576354679802957,12.134228187919463,1.8817733990147782/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271768515:1890010201:0571/pct:69.31096196868009,19.579638752052546,12.134228187919463,1.8784893267651888/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3172,7 +3172,7 @@ another, by fences of stone, which are in­
 deed easily made, as the country is im­  
 mensely stony. After passing Horseneck
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271768515:1890010201:0571/pct:69.35570469798658,21.41871921182266,12.10738255033557,2.3251231527093594/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271768515:1890010201:0571/pct:69.35570469798658,21.42528735632184,12.10738255033557,2.328407224958949/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3193,7 +3193,7 @@ who keeps a very neat and decent inn.
 This is his entry concerning the road and  
 the impression made upon him by th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_bermuda_ver01:data:sn99062858:00415625121:1890010401:0009/pct:20.644391408114558,17.715004574565416,14.677804295942721,3.0992680695333945/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_bermuda_ver01:data:sn99062858:00415625121:1890010401:0009/pct:20.644391408114558,17.722628850259227,14.683486759859075,3.0992680695333945/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3211,7 +3211,7 @@ the whole way—WHS very rough and stony,
 but the land strong, well covered with  
 grass and a luxuriant crop of Indian corn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_bermuda_ver01:data:sn99062858:00415625121:1890010401:0009/pct:20.644391408114558,21.214547118023788,14.626662120695533,2.0814272644098812/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_bermuda_ver01:data:sn99062858:00415625121:1890010401:0009/pct:20.655756335947267,21.214547118023788,14.620979656779179,2.0852394022567857/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3230,7 +3230,7 @@ another, by fences of stone, which are in­
 deed easily made, as the country is im­  
 mensely stony. After passing Horseneck
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_bermuda_ver01:data:sn99062858:00415625121:1890010401:0009/pct:20.627344016365495,23.181610247026534,14.626662120695533,2.5960658737419946/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_bermuda_ver01:data:sn99062858:00415625121:1890010401:0009/pct:20.627344016365495,23.185422384873437,14.632344584611888,2.59225373589509/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3261,7 +3261,7 @@ the whole way was very rough and stony,
 but the land strong, well covered with  
 gra*s and a luxuriant crop of Indian corn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_bermuda_ver01:data:sn99062858:00415625121:1890010402:0018/pct:20.168067226890756,18.03673938002296,14.74875664551535,5.522388059701493/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_bermuda_ver01:data:sn99062858:00415625121:1890010402:0018/pct:20.179500371577202,18.03673938002296,14.737323500828904,5.530042097206277/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3287,7 +3287,7 @@ deed easily
 made, a.s the country is im­  
 mensely stony. After passing llorseneck
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_bermuda_ver01:data:sn99062858:00415625121:1890010402:0018/pct:20.202366660950094,23.52468427095293,14.697307494426342,2.5832376578645238/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_bermuda_ver01:data:sn99062858:00415625121:1890010402:0018/pct:20.208083233293316,23.52468427095293,14.703024066769565,2.5947187141216994/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3328,7 +3328,7 @@ at Rye, who keeps a very neat and decent
 inn.”  
 This is his entry concerning the roa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_gargoyle_ver02:data:sn92064114:00514153292:1890072601:0723/pct:27.123815641560945,20.301298701298702,20.73229484502971,3.8233766233766233/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_gargoyle_ver02:data:sn92064114:00514153292:1890072601:0723/pct:27.13452170654676,20.304761904761904,20.743000910015525,3.826839826839827/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3346,7 +3346,7 @@ the whole way—was very rough and stony,
 but the land strong, well covered with  
 grass and a luxariant crop of Indian corn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_gargoyle_ver02:data:sn92064114:00514153292:1890072601:0723/pct:27.73406134575237,25.194805194805195,20.218403725710616,2.7844155844155845/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_gargoyle_ver02:data:sn92064114:00514153292:1890072601:0723/pct:27.744767410738184,25.198268398268397,20.2076976607248,2.794805194805195/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3364,7 +3364,7 @@ rated, as one inclosure ulso is from another,
 by fences of stone, which are indeed easily  
 made, as the country is immensely stony
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_gargoyle_ver02:data:sn92064114:00514153292:1890072601:0723/pct:27.76617954070981,27.70909090909091,20.298699213104225,2.7012987012987013/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_gargoyle_ver02:data:sn92064114:00514153292:1890072601:0723/pct:27.76617954070981,27.716017316017314,20.309405278090036,2.7012987012987013/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3482,7 +3482,7 @@ hours to-day, who was drawing a minia­
 ture picture of me for Mrs. Washing­  
 ton.” What is believed to bo thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gore_ver01:data:sn86092523:0041418666A:1892030601:0474/pct:59.12397696271597,37.20349563046192,12.579569566535314,1.8310445276737413/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gore_ver01:data:sn86092523:0041418666A:1892030601:0474/pct:59.11501742688286,37.199625507125766,12.582714552710007,1.8343215784181144/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3500,7 +3500,7 @@ ton.” What is believed to bo thi
 drawing a miniature picture of me for Mra.  
 Washington.&quot; What is believed to be this iden
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_forks_ver01:data:sn83045604:00202199112:1892040201:0502/pct:126.65232694563942,375.823717503128,50.175987485334375,5.06047546225497/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_forks_ver01:data:sn83045604:00202199112:1892040201:0502/pct:31.663081736409854,93.955929375782,12.543996871333594,1.2651188655637424/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3777,7 +3777,7 @@ flowers, black satin breeches, white silk
 stockings, silver shoe buckles, a small  
 cocked hat, well powdered curls an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drew_ver02:data:sn86063034:00414182112:1894021801:1016/pct:5.95952023988006,85.04901960784314,16.173163418290855,5.666089965397924/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drew_ver02:data:sn86063034:00414182112:1894021801:1016/pct:4.618736383442266,65.91679392156132,12.534495279593319,4.398674066073224/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3887,7 +3887,7 @@ lumber and Indian corn, to the West In­
 dies, and, in a small degree, wheat and  
 flour
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drew_ver02:data:sn86063034:00414182112:1894021801:1016/pct:6.221889055472264,7.828719723183391,32.85232383808096,116.27739331026528/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drew_ver02:data:sn86063034:00414182112:1894021801:1016/pct:4.826918421689664,6.070989608551529,25.461147421931734,90.12626168572386/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3915,7 +3915,7 @@ cept the spinning—this is done by the
 Country people, who aro paid by the  
 cut. * * 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drew_ver02:data:sn86063034:00414182112:1894021801:1016/pct:39.91754122938531,9.674163783160322,15.854572713643178,7.814302191464821/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drew_ver02:data:sn86063034:00414182112:1894021801:1016/pct:30.94650205761317,7.49748593988603,12.282740256596465,6.06726507504935/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3955,7 +3955,7 @@ In their light Lands, and in their sleighs,
 they work their Horses, but find them  
 much more expensive then oxeu. * * 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drew_ver02:data:sn86063034:00414182112:1894021801:1016/pct:39.861319340329835,17.618223760092274,15.929535232383808,14.907727797001153/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drew_ver02:data:sn86063034:00414182112:1894021801:1016/pct:30.902929072863714,13.654139818987671,12.35052045509562,11.560951990763156/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3983,7 +3983,7 @@ though far from good, begins to mend; to
 this is called 15 miles—among thin Pines  
 and Ponds of fresh water * * * 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drew_ver02:data:sn86063034:00414182112:1894021801:1016/pct:39.84257871064468,32.68454440599769,15.929535232383808,8.001730103806228/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drew_ver02:data:sn86063034:00414182112:1894021801:1016/pct:30.878721859114016,25.33800141532273,12.355361897845558,6.193899214123431/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4064,7 +4064,7 @@ where tho Vice-President favored me
 with his Company.  
 SUNDAY 25th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drew_ver02:data:sn86063034:00414182112:1894021801:1016/pct:39.78635682158921,42.08477508650519,16.004497751124436,38.4083044982699/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drew_ver02:data:sn86063034:00414182112:1894021801:1016/pct:30.83514887436456,32.623188945584566,12.418300653594772,29.773920816417743/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4104,7 +4104,7 @@ tho dispute with Great Britain was
 drawn |. Received the complimonts of  
 many visits to-day.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drew_ver02:data:sn86063034:00414182112:1894021801:1016/pct:39.84257871064468,80.73817762399078,16.023238380809595,15.08073817762399/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drew_ver02:data:sn86063034:00414182112:1894021801:1016/pct:30.878721859114016,62.57216283660472,12.418300653594772,11.698759730343774/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4147,7 +4147,7 @@ of shoes [women&#x27;s chiefly 1 have been
 made iu one year abt. 400 workmen. * *  
 *
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drew_ver02:data:sn86063034:00414182112:1894021801:1016/pct:39.89880059970015,7.713379469434833,32.72113943028486,116.49365628604383/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drew_ver02:data:sn86063034:00414182112:1894021801:1016/pct:30.922294843863472,5.981600804499236,25.369160009682886,90.28641662631756/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4742,7 +4742,7 @@ town. I informed them in explicit terms
 that I should not see the Governor unless  
 he came to my lodgings.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_forks_ver01:data:sn83045604:0020219929A:1894030701:0057/pct:15.722173786689916,18.861993083935868,77.70996803254867,271.4869537881169/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_forks_ver01:data:sn83045604:0020219929A:1894030701:0057/pct:5.2407245955633055,6.287331027978623,25.903322677516226,90.49565126270565/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4833,7 +4833,7 @@ Colonel Wadsworth at their head and
 escorted to Bull&#x27;s tavern, where we  
 lodged.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_forest_ver01:data:sn84020358:00271763025:1894082101:0348/pct:25.608221476510067,22.765700483091788,16.904362416107382,51.434178743961354/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_forest_ver01:data:sn84020358:00271763025:1894082101:0348/pct:19.21947125472094,17.07427536231884,12.694083088543852,38.58695652173913/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5428,7 +5428,7 @@ Lapostry a before him, as a carpet, the other
 he ldes were ter handsomely dresand  
 His Malesty while here went to the manufa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175042817:1895062301:0297/pct:14.789272030651341,370.44215626892793,51.417624521072796,8.22228952150212/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175042817:1895062301:0297/pct:3.69944412497604,92.61053906723198,12.861797968180946,2.05557238037553/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5560,7 +5560,7 @@ mittee of three members of the Senate and
 five members of the ouse should receive  
 the President at such place as he shoul
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_havanese_ver01:data:sn83045462:00280655119:1897012301:0298/pct:56.649522409992656,48.48942598187311,13.703159441587069,3.790167536391101/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_havanese_ver01:data:sn83045462:00280655119:1897012301:0298/pct:56.65870683321087,48.48942598187311,13.712343864805291,3.7936006591595715/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5588,7 +5588,7 @@ factures; the object is of too much conse­
 quence not to insure a continuance of  
 their efforts in every way which shal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_grace_ver02:data:sn83045604:00202199422:1897071801:0542/pct:103.2183241519281,162.07649137393474,37.73557552913888,22.147162752026606/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_grace_ver02:data:sn83045604:00202199422:1897071801:0542/pct:34.4061080506427,54.025497124644914,12.578525176379626,7.382387584008868/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5617,7 +5617,7 @@ agement of manufactures; the object
 is of too much consequence not to in­  
 sure a continuance of their efforts i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_lopez_ver03:data:sn88085081:0020219977A:1897073001:0318/pct:67.67351322325145,24.57552262243596,12.135857162035173,9.36303857100795/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_lopez_ver03:data:sn88085081:0020219977A:1897073001:0318/pct:67.67351322325145,24.57552262243596,12.135857162035173,9.366310072954493/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5638,7 +5638,7 @@ other gentlemen sat an hour or two with
 me at Parsons&#x27; .tavern, where I lodged,  
 and which Is a good house.&quot; From whic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_edwards_ver01:data:sn86063615:00211109129:1897092401:0449/pct:94.54787234042553,37.456470260481964,16.736322188449847,3.3570135116311466/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_edwards_ver01:data:sn86063615:00211109129:1897092401:0449/pct:70.95609199771907,28.095835074522913,12.564151302033833,2.521242512884803/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5672,7 +5672,7 @@ many other gentlemen sat an hour or two
 with me at Parsons’s tavern, where I  
 lodged, and which is a good house.” Fro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:00415665726:1897102401:0484/pct:56.22392679316377,80.7059767348576,12.4343964473153,3.5599679101484156/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:00415665726:1897102401:0484/pct:56.22392679316377,80.71266212060436,12.438882160319382,3.553282524401658/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5689,7 +5689,7 @@ oi sieep in every state. Hy a little legis­
 lative encouragement the farmers of Con­  
 necticut have. In two jears past, adde
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dred_ver01:data:sn86063615:00211109130:1897111501:0141/pct:94.35422960725076,87.67218589119243,16.597432024169184,1.447057186586893/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dred_ver01:data:sn86063615:00211109130:1897111501:0141/pct:70.81050443982619,65.75761792124669,12.450406196863783,1.0852928899401697/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

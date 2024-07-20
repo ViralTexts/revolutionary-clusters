@@ -93,7 +93,7 @@ Thus the oce an presents : 53 15 ofss&#x27;
 where no haweuc 15 to be reaped b&#x27;J&#x27; &#x27;  
 sick danger, of SP Nation and ofdffigssis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216079:1807122401:0144/pct:76.22117175189801,82.31912258977535,20.512820512820515,12.00247656111799/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216079:1807122401:0144/pct:76.21025494127757,82.31184222163262,20.514656736369712,12.004363078918663/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -168,7 +168,7 @@ oftlte had: of the world ; would have se­
 *_ ilst her eve-nice and she] would go  
 rsihaosslltogether; and to crown th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216079:1807122401:0145/pct:0.9853644399362411,44.44444444444444,22.77930734676134,47.01399964557859/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216079:1807122401:0145/pct:0.9852216748768473,44.44050677770887,22.780836472520043,47.01278757272378/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -381,7 +381,7 @@ j by patiently and proudly submitting to every
 inconvenience which such a measure neces­  
 sarily carries with it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1807122901:0295/pct:25.18558754300199,2.172814552804447,35.88629368097049,93.91106619504801/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1807122901:0295/pct:25.181028240405503,2.1725401035745864,35.88583152305093,93.90341459306977/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -522,7 +522,7 @@ of war. War, therefore. lef t be r« prat­
 pitrsn nice of « predetermined plan of hos­  
 t liiy aga.nst this country
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807122901:0436/pct:21.94518462124096,4.231738035264484,36.04872478111915,90.47858942065491/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807122901:0436/pct:21.941008563273073,4.231205137891953,36.048208055819856,90.47139319145364/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -722,7 +722,7 @@ and to secure its just eifret, bv patiently and proud­
 ly submitting to every inconvenience winch such a  
 measure necessarily carries with it.—Nat. Intel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807123001:0903/pct:51.877394636015325,2.599069468955559,45.312899106002554,94.07989732071233/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807123001:0903/pct:51.86414708886619,2.598652550529355,45.30771195097038,94.06881616939364/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -949,7 +949,7 @@ round the measure which that govern­
 racot has adopted for their good, and ta  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808010101:0888/pct:52.224952224952226,3.761921582479689,42.42424242424242,93.51819145178382/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808010101:0888/pct:52.21069868995633,3.7612572841250222,42.41948689956332,93.5060921772912/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1111,7 +1111,7 @@ _by patiently and proudly fubwmitting to every
 inconvenience which such a measure necefla­  
 nily cargies with it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808010501:0002/pct:9.204131227217497,3.96049481245012,17.451397326852977,85.34517158818835/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808010501:0002/pct:9.209194005670312,3.96049481245012,17.461522883758608,85.35182229316308/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1749,7 +1749,7 @@ to pay for them : and that they will carry their
 to a vessel where they can get Spanish dollars for  
 them how does he intend to stop this course o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808020401:0963/pct:72.99695740365111,57.46184738955823,21.72920892494929,12.899598393574298/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808020401:0963/pct:72.97845373891002,57.45261805332477,21.730038022813687,12.90154192097655/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1917,7 +1917,7 @@ they can get Spanish dollars for them :
 course of procedure ? Does he intend  
 to pass new laws, and set one militi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808021501:0344/pct:40.4581438436921,16.17135473610973,17.56779518275223,14.511479972169765/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808021501:0344/pct:40.4513304142809,16.1697475650964,17.569046817110138,14.51252236135957/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1993,7 +1993,7 @@ HcntiOn says, “ France, will feel it jn the loss of all
 rification of this prediction, France refuses to  
 receive from us those colonial productions, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810052101:1089/pct:8.660844250363901,62.243109765811695,20.69383794274624,4.014656683128883/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810052101:1089/pct:8.65874363327674,62.23319528512265,20.694882367208344,4.017999362854412/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

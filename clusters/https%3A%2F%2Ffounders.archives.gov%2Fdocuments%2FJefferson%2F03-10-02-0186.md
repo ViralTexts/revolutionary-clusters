@@ -68,7 +68,7 @@ of the religion of o hers by their lives. It is in our lives
 and not from our words that our religion must be read.  
 The example of four
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_lorca_ver01:data:sn83030272:00206533109:1888102101:0609/pct:283.34612432847274,305.30811470408787,50.65234075211051,11.531421598535692/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_lorca_ver01:data:sn83030272:00206533109:1888102101:0609/pct:70.8637236084453,76.32702867602197,12.667946257197697,2.882855399633923/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -98,7 +98,7 @@ I havo never judged of tbo religion of others
 by their lives 1 Is in our lives and notfrom  
 our words that our religion must bo rea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_borges_ver01:data:sn83030272:00175044851:1889070401:0630/pct:66.32492113564669,264.4214687547514,51.813880126182966,19.522578683290252/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_borges_ver01:data:sn83030272:00175044851:1889070401:0630/pct:16.581230283911673,66.10536718868785,12.953470031545741,4.880644670822563/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -116,7 +116,7 @@ that of another, i sever attempted to make a con­
 vert nor wished to change another&#x27;s creed.  
 The example of four
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ingstad_ver01:data:sn84028296:00296029154:1889071101:0394/pct:50.944244604316545,81.67080473199941,18.637589928057555,2.3659997079012705/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ingstad_ver01:data:sn84028296:00296029154:1889071101:0394/pct:38.228018889138745,61.25310354899956,13.986957499437823,1.7818022491602161/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -138,7 +138,7 @@ gion of others by their lives. I&#x27; is
 in our lives and not from our words  
 that our religion mast be read
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ozzyosbourne_ver01:data:sn85026941:00175032381:1889071901:0317/pct:45.448963929393706,86.77649643053267,10.39140445126631,3.9209225700164745/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ozzyosbourne_ver01:data:sn85026941:00175032381:1889071901:0317/pct:45.454080327449475,86.7838184147904,10.406753645433614,3.9209225700164745/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

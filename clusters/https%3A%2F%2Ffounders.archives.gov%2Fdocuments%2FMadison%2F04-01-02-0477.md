@@ -33,7 +33,7 @@ amine, state, settle, and to the Court report,
 with any matter specially stated which he may  
 deem pertinent, or either party may require t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215671:1840060601:0529/pct:17.348794906775808,47.24603115450548,15.245566166439291,3.4508459417157336/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215671:1840060601:0529/pct:17.34682278049335,47.242510061111936,15.24762229547952,3.4530729865354997/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -54,7 +54,7 @@ amine, state, settle, and to the Court report,
 withany matter specially stated which he may  
 deem pertinent, or either party may require t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215671:1840060801:0533/pct:17.703995498030388,47.425978277042105,15.070343275182893,3.3923523285225414/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215671:1840060801:0533/pct:17.702003151024083,47.422450345904934,15.072398529522095,3.3945795829303975/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -75,7 +75,7 @@ amine, state, settle. and to the Court report,
 i with an v ma ?ter speciaM v stafed which he may  
 i &#x27;deem pertinent, or either patty mav require t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215671:1840061601:0561/pct:17.622767857142858,48.119911176905994,15.234375,3.3604737231680235/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215671:1840061601:0561/pct:17.620801249860506,48.11634964103323,15.236394747610014,3.3626921274023633/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -96,7 +96,7 @@ count :he said Commissioner is directed to ex- &#x27;
 | wit h a u v matter spec in II y sta ted which lie ma y |  
 | deem pertinent, or eitleu* party may require t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215671:1840061801:0569/pct:16.10313242112405,47.9606293341287,15.729955897319915,3.482216091268362/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215671:1840061801:0569/pct:16.101311623699683,47.95705338502833,15.731946328961254,3.4844417934188288/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -123,7 +123,7 @@ amine, state, settle, and to theCoirt report, j
 with a n v matter spec in i! y stated which he ma y t  
 deem pertinent, or either party may require t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215671:1840061901:0573/pct:16.347884788478847,45.21386430678466,15.38028802880288,6.231563421828908/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215671:1840061901:0573/pct:16.34604567442907,45.210530196888136,15.382307721153486,6.23356193004449/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -144,7 +144,7 @@ amine, state, settle, and to the Court report,
 with any matter specially stated which lie may  
 deem pertinent, or either party may require t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215671:1840062401:0585/pct:16.849775784753362,66.59021972331139,14.977578475336323,3.2847525338462678/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215671:1840062401:0585/pct:16.84788700818294,66.58529368249741,14.979636064716212,3.2869753908369086/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -165,7 +165,7 @@ amine, state, settle, and to the Court report,
 with any matter specially stated which he may  
 deem pertinent, or either party may re quire t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215671:1840062501:0589/pct:17.426636568848757,65.38346539094034,15.146726862302483,3.4160562116908357/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215671:1840062501:0589/pct:17.42466990181695,65.37857836908589,15.148779295038182,3.418292348705683/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -195,7 +195,7 @@ amine, state, settle, and to.the Court report,
 with any matter specially stated which lie may  
 deem pertinent, or either party may require t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215671:1840062901:0601/pct:16.484630109221936,60.65246338215712,15.493750703749578,7.833999112294718/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215671:1840062901:0601/pct:16.482774149966225,60.647976921369924,15.495759213390377,7.835885297235989/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -216,7 +216,7 @@ amine, state, settle, and to the Court report,
 with any matter specially stated which he may  
 deem pertinent, or either party may require t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215671:1840070201:0605/pct:63.55540897097625,25.511057071206018,14.929639401934917,3.5337031689338096/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215671:1840070201:0605/pct:63.548422556886884,25.509118541033434,14.931662452823275,3.53596757852077/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -237,7 +237,7 @@ amine, state, settle, and to the Court report,
 I withany matter specially stated which he nia »  
 j deem pertinent, or either party may require t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215671:1840070301:0609/pct:64.34269478745492,23.863287250384026,14.807124904382034,3.525345622119816/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215671:1840070301:0609/pct:64.33566433566433,23.86145457338146,14.809149184149184,3.5276348462739677/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -258,7 +258,7 @@ amine, state, settle, and to the Court report,
 withany matter specially stated which he may  
 deem pertinent, or either party may require t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215671:1840070401:0613/pct:64.10680790025378,23.494578174267478,14.906763764757807,3.499192494039837/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215671:1840070401:0613/pct:64.09973521624008,23.492771454936943,14.90879670491321,3.501486722034246/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -287,7 +287,7 @@ amine state, settle, and to the Court report,
 i«?theny matter specially stated which he may  
 deem pertinent, or either party may require to 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215671:1840070901:0621/pct:63.471129336140976,19.698246151489624,14.895267649340575,7.49023512292257/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215671:1840070901:0621/pct:63.464095744680854,19.696737632102927,14.897310874704491,7.492214223719814/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

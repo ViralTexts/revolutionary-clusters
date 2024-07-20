@@ -107,7 +107,7 @@ for the support of the laws amd liberties of
 - will accord&amp;gly survive the wreck of cvery  
 thing now living
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1811070301:0437/pct:27.556952081696778,17.66205746788271,21.822466614296935,49.29881337648328/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1811070301:0437/pct:27.562189054726367,17.66859533849825,21.822466614296935,49.29554444117551/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -127,7 +127,7 @@ the world—but it har.gs on the thread of opi­
 nion, which may break from cue day to ano­  
 ther.” Mr. J. eulogizes, in the highest terms,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811070801:0229/pct:56.0853199498118,30.513523174073633,16.66965405986736,3.300369355415227/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811070801:0229/pct:56.075268817204304,30.509888015248986,16.6726403823178,3.303947263918672/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -337,7 +337,7 @@ TH : JEFFERSON.”
 T UE subscribers, a majority of the act­  
 ing Commissioners of the L- tiers fi r the be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811071501:0237/pct:40.91588785046729,4.9968612680477085,35.570093457943926,91.77652228499686/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811071501:0237/pct:40.90824145019622,4.996233994476525,35.569675450071635,91.76918570591681/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -424,7 +424,7 @@ ties of our country, not for its destruction­
 and Aiswill accordingly survive the wreck  
 of every thing now living
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811071601:0086/pct:21.717634132942685,3.3283840633506556,36.69657571873283,93.80103934669636/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811071601:0086/pct:21.713658000732334,3.327972287517011,36.695959965824485,93.79355849725762/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -981,7 +981,7 @@ iiunkinJ, and asruranccs of my very high ,
 :onsideration and respect.  
 THO.Y1 AS JKFFKRSON. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184145:1822121601:0256/pct:62.32575902234103,37.25067385444744,17.299980905098337,52.42587601078167/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184145:1822121601:0256/pct:62.31386025200458,37.24565422449805,17.30304187348861,52.423303238557246/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1039,7 +1039,7 @@ ti&quot;&quot;&#x27; will Inn);, In tin elniiti r ut our land T
 ami llial il prosperity, undei (hi* charier,  
 will re m i nn the mind nl I&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1822121701:0156/pct:81.54838709677419,23.474040300044123,15.763440860215054,24.753640241211944/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1822121701:0156/pct:81.5308535798753,23.470588235294116,15.765426789937647,24.753676470588236/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1073,7 +1073,7 @@ rb disinterested Iricrwi oi mankind, and Ml—
 suranecs nl my v cry lngli eonsulcration a in?  
 respect, T. JLkTLUSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1822121701:0156/pct:81.3763440860215,53.963818208560085,15.870967741935484,12.045889101338432/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1822121701:0156/pct:81.35884755966458,53.955882352941174,15.87293055256934,12.047794117647058/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1239,7 +1239,7 @@ will, accordingly, survive the wreck of everything
 now living. THOMAS JEFFERSON.  
 Perhaps
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042982:1898022201:0694/pct:172.98136645962734,304.7300380228137,51.475155279503106,17.9467680608365/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042982:1898022201:0694/pct:43.245341614906835,76.18250950570342,12.868788819875776,4.486692015209125/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

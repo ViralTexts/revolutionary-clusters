@@ -256,7 +256,7 @@ be conferred upon the National Gov-
   
 ernment. Its authority would be e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293812:1866032101:0274/pct:62.514551804423746,302.0153750259713,37.951105937136205,11.967587783087472/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293812:1866032101:0274/pct:15.633187772925764,75.50384375649283,9.490538573508006,2.991896945771868/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -295,7 +295,7 @@ to substitute men who would be dis­
 posed to avenge the violated majesty of  
 the people?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293812:1866032101:0274/pct:104.83119906868451,24.600041554124246,38.70779976717113,38.60378142530646/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293812:1866032101:0274/pct:26.21542940320233,6.1500103885310615,9.67976710334789,9.650945356326615/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -326,7 +326,7 @@ lature.&quot; Mr. Hamilton then admitted
   
 for argument sake, that Congress might
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293812:1866032101:0274/pct:62.28172293364377,316.14377726989403,37.60186263096624,11.884479534593808/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293812:1866032101:0274/pct:15.574963609898107,79.03594431747351,9.403202328966522,2.971119883648452/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -378,7 +378,7 @@ Government shall be supposed to be in
   
 the actual possession of it. What will
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293812:1866032101:0274/pct:60.59371362048894,340.2036152088095,53.14318975552968,37.232495325161025/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293812:1866032101:0274/pct:15.152838427947598,85.05090380220237,13.28966521106259,9.308123831290256/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -431,7 +431,7 @@ dousg shall n e
 concerning them, may be altered by  
 States.&quot; At the sug
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_riel_ver01:data:sn82015753:00212475117:1866101701:0338/pct:57.54201680672269,197.4609375,37.752100840336134,61.669921875/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_riel_ver01:data:sn82015753:00212475117:1866101701:0338/pct:19.180672268907564,65.8203125,12.584033613445378,20.556640625/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -510,7 +510,7 @@ of the sentence, and make it strictly applicable to
 the words &quot;times, places and manner.&quot;  
 The construction of the Radioals, to disfranchis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551244:1866121301:0435/pct:1.6009055627425615,69.96876394466756,16.089909443725745,10.486390004462294/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551244:1866121301:0435/pct:1.60629581716257,69.97620110069909,16.100689952565762,10.49010858247806/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -564,7 +564,7 @@ upon another occasion, are diflued aud lined in
 t/rc &lt; &#x27;on»titut ion, and are os A i.t c u a l: [: l. by  
 the legitlutun. The b&#x27;ederatitt, No. U)
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:00279525243:1867110101:0391/pct:73.71142349329456,87.25859901725516,10.954920019389238,2.7196891783796135/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:00279525243:1867110101:0391/pct:73.69951534733441,87.24862888482633,10.95718901453958,2.72223491773309/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -940,7 +940,7 @@ injury to the construction of this part
 of the constitution, eight of the thirteen  
 states in ratifying the constitution, rec
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_mankato_ver01:data:sn90059522:00206538661:1892092501:0253/pct:27.787683445343575,16.138390458794454,10.670689891647235,4.426775545288493/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_mankato_ver01:data:sn90059522:00206538661:1892092501:0253/pct:27.796827138481234,16.14197199240715,10.670689891647235,4.433938612513878/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -965,7 +965,7 @@ the Government, without occasioning a popu
 occasloning.  
 lar revolntion, is altogether inconceivable an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_fernandez_ver01:data:sn83030272:00175044905:1892092501:0484/pct:126.23574144486692,249.37671024627545,50.19011406844106,14.715719063545151/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_fernandez_ver01:data:sn83030272:00175044905:1892092501:0484/pct:31.55893536121673,62.34417756156886,12.547528517110266,3.678929765886288/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

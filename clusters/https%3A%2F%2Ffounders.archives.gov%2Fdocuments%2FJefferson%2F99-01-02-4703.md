@@ -79,7 +79,7 @@ have got rid of that affair alfo, under theufHal !i- 1
 ability for damages, in which calc I fhall look  
 to our country for protection
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1807012701:0330/pct:60.09615384615385,45.8125,17.86242603550296,13.975/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1807012701:0330/pct:60.08504344610834,45.80677415323085,17.865286251309545,13.977419489230513/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -119,7 +119,7 @@ ie ot that affair also, under (ho usual liability fo
 damages, in which case I shall look to our conn  
 try for protection.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807012701:0035/pct:39.666919000757005,9.059763989341453,35.143830431491295,82.43877680497398/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807012701:0035/pct:39.659413434247874,9.058614564831261,35.143487858719645,82.43254673094815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -166,7 +166,7 @@ got rid of that affair also, under the usual liability
 fordamages, in which case 1 shall look to our coun­  
 try for protection
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807013001:0342/pct:73.43101343101343,14.194271083373339,20.976800976800977,15.250440070411265/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807013001:0342/pct:73.4130859375,14.192,20.977783203125,15.252/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -256,7 +256,7 @@ the usual liability for damages, in which
 case I shall look to our country for pro*  
 lectio#. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1807020601:0713/pct:6.421761076836792,7.431144985276286,21.172181716208637,22.06824874415382/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1807020601:0713/pct:6.419960751331652,7.429857984066505,21.173254835996637,22.068756494631106/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -347,7 +347,7 @@ but I have got rid of that affair alio, under the
 ufual liability for ciamages, in which cafe t  
 lliall look to our country for protection
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1807020901:0132/pct:58.212233862791486,43.37145698657385,17.91145657316661,13.525609149676777/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1807020901:0132/pct:58.20239905389424,43.36714399363564,17.912654164554823,13.526750198886237/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -386,7 +386,7 @@ that affair also, under the ulual liability for
 damages, in which caie I thall lock to cur  
 country for prowélion
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1807021001:0443/pct:59.371088861076345,21.634326865373076,16.48936170212766,14.692938587717544/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1807021001:0443/pct:59.376303712974554,21.640994865639794,16.484146850229454,14.696272587850904/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

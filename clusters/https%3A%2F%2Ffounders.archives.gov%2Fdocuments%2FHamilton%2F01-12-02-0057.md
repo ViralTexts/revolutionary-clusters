@@ -38,7 +38,7 @@ ivered at any other place, with the
 addition of the like postage, as other  
 letters are made subject to the paymen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792022701:0001/pct:71.67277167277167,54.26265012797795,20.268620268620268,7.186454026383147/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792022701:0001/pct:71.67277167277167,54.27741681433353,20.299145299145298,7.186454026383147/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -95,7 +95,7 @@ the payment of by this ad.
 And be it further enaded, That if any deputy postmaster, or  
 other person authorized by the Postmaster-General, to rcccive th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792030301:0001/pct:37.8698224852071,72.42603550295858,27.49922142634693,11.893491124260356/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792030301:0001/pct:37.88539395826845,72.42603550295858,27.514792899408285,11.903353057199212/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -119,7 +119,7 @@ rected to bedelivered at any other
 plece, wich the addition of the like  
 postage, as other letters are mad
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1792032801:0983/pct:3.6408364083640836,36.21621621621622,21.328413284132843,10.238473767885532/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1792032801:0983/pct:3.6408364083640836,36.22681505034446,21.3530135301353,10.243773184949655/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -141,7 +141,7 @@ entry, or break bulk, until the
 master or commander shall have  
 delivered to the postmaster, al
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1792032801:0983/pct:4.009840098400984,64.24483306836248,21.03321033210332,8.267090620031796/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1792032801:0983/pct:4.026240262402624,64.24483306836248,21.041410414104142,8.282988871224166/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -193,7 +193,7 @@ to report,* make entry, or break bulk,
 until the master or commander shall  
 have delivered to the polt-matfter, al
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1792060701:1025/pct:49.867947178871546,77.26406101048617,20.43217286914766,7.451541150301875/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1792060701:1025/pct:49.867947178871546,77.26406101048617,20.456182472989195,7.456837199449211/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -222,7 +222,7 @@ other place, with the addition of the like portage,
 as other letters are made fubjeft to the payment  
 I of by this act.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792070701:0003/pct:71.70398009950249,53.37652139772281,20.833333333333332,8.873184138201806/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792070701:0003/pct:71.72730099502488,53.37652139772281,20.825559701492537,8.902630545740086/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -242,7 +242,7 @@ mander shall have delivered to the postmaster, all
 letters directed to any person or ptrfons within  
 the United States, which, under hiscare or withi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792070701:0003/pct:71.8905472636816,62.93678837848449,20.74004975124378,3.7298782881821753/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792070701:0003/pct:71.90609452736318,62.95151158225363,20.747823383084576,3.7298782881821753/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -277,7 +277,7 @@ make entry or break bulk, till the mailer or com­
 mander (ball have delivered to the poilmafter, all  
 letters directed to any person or persons withi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792071101:0001/pct:5.771604938271605,53.60202492211838,20.864197530864196,12.77258566978193/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792071101:0001/pct:5.794753086419753,53.606892523364486,20.85648148148148,12.782320872274143/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -312,7 +312,7 @@ office is ettablilhed, (hall be permitjed to report,
 make entry or break bulk, till the mailer or com­  
 mander lhall have-delivered to the pottmafter, al
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792071401:0001/pct:29.316888045540797,28.81619937694704,21.44212523719165,12.071651090342678/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792071401:0001/pct:29.324794433902593,28.81619937694704,21.44212523719165,12.09598909657321/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -347,7 +347,7 @@ office is established, (hall be permit;ed to report,
 make entry or break bulk, till the mailer or com­  
 mander (hall have delivered to the postmaster, al
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792072501:0004/pct:50.204466813463355,51.930577223088925,21.516200062912866,12.070982839313572/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792072501:0004/pct:50.22805913809374,51.94032761310452,21.516200062912866,12.090483619344774/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -383,7 +383,7 @@ make entry or break bulk, till the mailer or com­
 mander shall have delivered to the poltinaller, all  
 letters dire&amp;cd to any per (on or persons withi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792072801:0004/pct:53.95752895752896,44.26197458455523,21.364221364221365,12.649071358748778/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792072801:0004/pct:53.96557271557271,44.266862170087975,21.396396396396398,12.653958944281525/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -417,7 +417,7 @@ office is established, (Hall be permiijed to report
 make entry or break bulk, till the mailer or com­  
 mander (hall have delivered to the poftmaOer, al
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792080101:0004/pct:53.026941362916006,45.994475138121544,21.55309033280507,12.371744277821627/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792080101:0004/pct:53.04278922345483,46.0043409629045,21.5689381933439,12.376677190213101/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -444,7 +444,7 @@ office .seftabl, bed, (hall be permuicd to report
 make entry 0,-break bulk, till the master or com­  
 mander (ball have delivered to the postmaster, al
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792080801:0004/pct:51.71188630490956,53.09338521400778,21.899224806201552,8.385214007782102/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792080801:0004/pct:51.72803617571059,53.10311284046693,21.899224806201552,8.390077821011673/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -646,7 +646,7 @@ mined to report, make entry, or break
 bulk, until tho master or commander  
 shall have delivered to the postmaster u
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898036:1825041901:0044/pct:58.32900882200311,51.53935763022133,17.358588479501815,3.2284905974371774/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898036:1825041901:0044/pct:58.313878080415044,51.53078202995008,17.360570687418935,3.2321131447587352/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -677,7 +677,7 @@ any private ship or vessel, shall be charged
 with six cents, if delivered at the post office  
 where the same shall arrive ; and if destine
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015143:1825072601:0533/pct:38.35780641294576,49.54946034260818,16.601738088103087,3.8320625804535102/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015143:1825072601:0533/pct:38.36779542503246,49.5560616562696,16.611727100189793,3.8353632372842195/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -697,7 +697,7 @@ shall be permitied to report, make entry, or
 break buik, until the master.or commander shall  
 have delivered to the postmaster all letters di
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015143:1825072601:0533/pct:38.672460293676956,59.144469749480145,16.10728198981121,3.228042380433706/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015143:1825072601:0533/pct:38.672460293676956,59.147770406310855,16.11727100189791,3.228042380433706/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -839,7 +839,7 @@ shall be permitted to report, make entry, or break
 bulk, until the master or commander shall have de­  
 livered to the Postmaster at such port, all letters di
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_lilac_ver02:data:sn82015408:00212471380:1859062501:0678/pct:89.76708074534162,54.59585319880253,19.906832298136646,6.03171083268655/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_lilac_ver02:data:sn82015408:00212471380:1859062501:0678/pct:67.36057169488892,40.9468898991019,14.94485008544353,4.534870828251469/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -862,7 +862,7 @@ shall be permitted to report, make entry, or break,
 bulk, until the master or commander shall have de­  
 livered to the Postmaster at such port, all letter
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_ariel_ver01:data:sn82015418:00212474216:1859080401:0464/pct:24.713584288052374,41.687344913151364,17.539552645935625,6.03085553997195/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_ariel_ver01:data:sn82015418:00212474216:1859080401:0464/pct:18.537716546173783,31.265508684863523,13.16327922520802,4.531233142733844/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -880,7 +880,7 @@ report, make entry or break bulk, until the master or
 commander shall have delivered at s-ich port any mail  
 the may have brought.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_lilac_ver02:data:sn82015408:00212471379:1860061601:0027/pct:8.777915632754343,37.52391671356219,19.509925558312656,2.6336522228474957/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_lilac_ver02:data:sn82015408:00212471379:1860061601:0027/pct:6.594259115593483,28.14856499718627,14.647013188518232,1.9696117051209905/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -936,7 +936,7 @@ vessel, shall be charged with five cents,
 if delivered at the post office where the  
 same shall arrive; and if destined to b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_coyote_ver02:data:sn88071076:00296025161:1861061501:0118/pct:131.9277108433735,220.08995502248877,59.397590361445786,21.58920539730135/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_coyote_ver02:data:sn88071076:00296025161:1861061501:0118/pct:32.99186501958421,55.02248875562219,14.853871648086773,5.397301349325337/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -961,7 +961,7 @@ any private ship or vessel, shall be charged
 with five cents, if delivered at the post office  
 where the same shall arrive; and if destined t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_continental_ver02:data:sn82014760:00237288804:1861062601:0594/pct:84.55134135060129,200.89330024813896,58.74190564292322,22.8287841191067/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_continental_ver02:data:sn82014760:00237288804:1861062601:0594/pct:21.137835337650323,50.22332506203474,14.685476410730805,5.707196029776675/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

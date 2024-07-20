@@ -170,7 +170,7 @@ Jll(} anéd Happin:/;_ia the Unxr’ao’ Ntates of Ameiica,
 FISH-KILL, Apnlag  
 We hear that the communication of theNorth River s open’d
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1783050301:0349/pct:5.605962410887881,6.184059333542255,55.34672715489307,85.43821163689543/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1783050301:0349/pct:5.611363145387773,6.184059333542255,55.34672715489307,85.44517566767645/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -825,7 +825,7 @@ row evening at the head of every regiment
 and corps ol the army ; after which the  
 chaplain?,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216249:1819020801:0672/pct:8.216538192011212,34.844192634560905,17.274001401541696,7.343647853562867/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216249:1819020801:0672/pct:8.215098966544053,34.84039655735919,17.276814386640975,7.346479282420017/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -892,7 +892,7 @@ Quarters for the form.-—An extra ration of
 Jiquor to be issued to every man io-mornj»  
 to drink, “Perpetual Peace and Happines
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216249:1819020801:0672/pct:7.76103714085494,4.390934844192635,35.65171688857743,90.76051427326215/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216249:1819020801:0672/pct:7.759677701874233,4.390456476740385,35.65131079581947,90.75425790754258/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -921,7 +921,7 @@ anything, who have performed the meanest
 flee in erecting this stupendous fabrie of  
 freedom.&quot; These pillars of the revolution ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn85025750:00280774650:1860022101:0632/pct:7.685589519650655,50.16968325791855,19.08296943231441,3.76131221719457/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn85025750:00280774650:1860022101:0632/pct:5.76545097182791,37.627262443438916,14.326272111814808,2.828054298642534/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -962,7 +962,7 @@ ligious culture of the sons and daughters
 of our widely extended church; drawing  
 its quickening life from God and his peo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:0028077781A:1867121701:0735/pct:122.83594394064303,25.153751537515376,101.81368507831822,364.20664206642067/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:0028077781A:1867121701:0735/pct:30.727985151577645,6.288437884378844,25.469168900804288,91.05166051660517/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -983,7 +983,7 @@ rights of human nature and establishing an asy­
 lum for the poor and oppressed of all nations  
 and religions.&quot; We have just commemorate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206533468:1875080901:1013/pct:112.66209000762777,242.7446903312045,49.58047292143402,8.554878954403684/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206533468:1875080901:1013/pct:28.17626859977108,60.68617258280113,12.399847386493704,2.138719738600921/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1039,7 +1039,7 @@ congratulated the army for the success
 that had crowned their efforts. At the  
 Temple the proclamation was followe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn86053488:00212470016:1876070601:0489/pct:37.87831995058678,12.743133325474478,14.190858554663372,8.911941530119062/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn86053488:00212470016:1876070601:0489/pct:28.416988416988417,9.560297064717671,10.64092664092664,6.683956147589297/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1063,7 +1063,7 @@ his overruling the wrath of man for his
 own glory, and causing the rage of war  
 to cease among the nations
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_cardinal_ver01:data:sn85052141:00202195192:1876092901:0185/pct:144.68085106382978,332.28215767634856,39.209726443769,19.83402489626556/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_cardinal_ver01:data:sn85052141:00202195192:1876092901:0185/pct:36.170212765957444,83.07053941908714,9.80243161094225,4.95850622406639/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1332,7 +1332,7 @@ with applause, and to retire from the military theatre
 with the same approbation of angels and men which  
 have survived all their former virtuous actio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044814:1883041901:0505/pct:3.7837837837837838,288.90240194588023,66.64092664092664,42.30769230769231/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044814:1883041901:0505/pct:0.9463113171108536,72.22560048647006,16.666666666666668,10.576923076923077/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1350,7 +1350,7 @@ to rejoice; it would be insensibility not to par-­
 ticipate in the general felicity.&quot;  
 The regular toasts and responses wer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044814:1883042001:0508/pct:333.5632183908046,187.72541294135476,61.513409961685824,6.061524473405061/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044814:1883042001:0508/pct:83.43875790684301,46.93135323533869,15.387195706344643,1.5153811183512653/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1435,7 +1435,7 @@ The moisture engendered by its pres­
 ence will brine vast tracts of desert land  
 into cultivation, and an approach to va
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_fluorine_ver01:data:sn88076013:00271740876:1883042101:0012/pct:28.900018549434243,24.063787851639493,13.040252272305695,11.180791972764737/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_fluorine_ver01:data:sn88076013:00271740876:1883042101:0012/pct:28.913930625115935,24.072746819566387,13.030977555184567,11.17631248880129/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1476,7 +1476,7 @@ which have survived all their former vir­
 tuous actions.”  
 In order to fulfil &quot;more decorously thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_elliot_ver01:data:sn87068079:00332896453:1883042601:0069/pct:15.115601321157957,5.894519131334023,11.38527297454828,12.4981533461368/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_elliot_ver01:data:sn87068079:00332896453:1883042601:0069/pct:15.112665112665113,5.8936484490398815,11.387917637917639,12.5/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1510,7 +1510,7 @@ he nations.&quot; le did not stop at ti
 nind the army that the day designate  
 or this return of thanks had more th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_drinksmall_ver01:data:sn93067705:00237288415:1883052201:0245/pct:28.567552902875747,26.161700354240466,12.479652740097666,10.14794748906022/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_drinksmall_ver01:data:sn93067705:00237288415:1883052201:0245/pct:28.567552902875747,26.165173299993054,12.484174353409296,10.14794748906022/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1541,7 +1541,7 @@ olved to &lt;defend the rights of their ii
 &#x27;aded country so long as the war shoul  
 ontinue. . . . . Being immort.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_drinksmall_ver01:data:sn93067705:00237288415:1883052201:0245/pct:28.63537710255019,41.05021879558241,12.357569180683669,8.564284225880392/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_drinksmall_ver01:data:sn93067705:00237288415:1883052201:0245/pct:28.63989871586182,41.057164687087585,12.362090793995298,8.564284225880392/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1569,7 +1569,7 @@ same approbation of angels and men
 which has crowned all their former vir­  
 tuous actions;&quot; and by ordering that a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_ernie_ver01:data:sn83045160:00280779957:1883101901:0378/pct:54.34203516249334,336.3907360697088,34.04368673415024,15.409309791332264/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_ernie_ver01:data:sn83045160:00280779957:1883101901:0378/pct:13.589128697042366,84.0976840174272,8.513189448441247,3.852327447833066/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1598,7 +1598,7 @@ was begun with divine service in some church
 about noon; in the afternoon entertainments were  
 given, at which suitable toasts were read, and i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chrysler_ver01:data:sn83030214:00175039983:1883112501:0482/pct:149.12841835918758,237.52530933633295,47.72109387494003,22.65466816647919/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chrysler_ver01:data:sn83030214:00175039983:1883112501:0482/pct:49.709472786395864,79.17510311211099,15.907031291646677,7.551556055493063/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

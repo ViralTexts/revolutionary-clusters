@@ -169,7 +169,7 @@ o! v-Ut atj ^Cadeujy- to enter into those scenes
 th n dissipation which too often present  
 ticuuVi/&#x27;es t0 J,0UtVD everyplace, and par
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_fezza_ver01:data:sn85025007:00415663730:1874052301:0491/pct:2.4217532927347403,25.795120098737303,15.663503753009488,64.74888445836893/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_fezza_ver01:data:sn85025007:00415663730:1874052301:0491/pct:2.4217532927347403,25.795120098737303,15.668224519661994,64.75521377258774/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -210,7 +210,7 @@ warmest attachment and sincere regard of,
 Your Affectionate Friend and Uncle,  
 G. Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_fezza_ver01:data:sn85025007:00415663730:1874052301:0491/pct:3.257328990228013,11.649102819709485,30.902138507293586,86.41412702933637/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_fezza_ver01:data:sn85025007:00415663730:1874052301:0491/pct:3.2620497568805176,11.649102819709485,30.902138507293586,86.42045634355517/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -543,7 +543,7 @@ suit ol those things which are profitable,
 it must be In pursuit of those which are  
 destructive. Your affec. friend A unde
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00414181909:1885052701:0451/pct:41.87568157033806,17.940199335548172,12.559069429298438,67.09579180509414/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00414181909:1885052701:0451/pct:41.87568157033806,17.940199335548172,12.565127832303405,67.10040605389443/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1079,7 +1079,7 @@ certain degree is necessary, but it does
 not follow from thence that a man should a  
 always get a new coat or other clothes f
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_u2_ver01:data:sn85038614:00175032873:1897040401:0050/pct:171.0084705130254,170.33971188991615,42.879974428639926,122.65104278649753/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_u2_ver01:data:sn85038614:00175032873:1897040401:0050/pct:57.002823504341805,56.77990396330538,14.293324809546641,40.88368092883251/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1150,7 +1150,7 @@ be in pursuit of those which are destruce
 tive. Your affec, friend a uncle,  
 GO. WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_u2_ver01:data:sn85038614:00175032873:1897040401:0050/pct:212.97746523893238,168.77015695549343,41.63337062490011,74.56460976134164/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_u2_ver01:data:sn85038614:00175032873:1897040401:0050/pct:70.99248841297747,56.25671898516448,13.877790208300038,24.854869920447214/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -175,7 +175,7 @@ deserters from the enemy be without de­
 lay t aken to t he Major General command­  
 ing, “some of the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00414181909:1885070301:0750/pct:4.944063514976543,24.129014697876972,12.59473114399134,12.41154055525313/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00414181909:1885070301:0750/pct:4.944063514976543,24.133551079658865,12.618789847227234,12.40700417347124/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -269,7 +269,7 @@ noncommissioned from the private it is
 desired that some badges of distinc­  
 J tion may be immediately provided for
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_boozer_ver01:data:sn85058130:00175048546:1894021801:0404/pct:66.22390891840607,99.69525959367945,19.228336495888676,6.027088036117381/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_boozer_ver01:data:sn85058130:00175048546:1894021801:0404/pct:44.17022623002689,66.46726862302484,12.830248378421135,4.018058690744921/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

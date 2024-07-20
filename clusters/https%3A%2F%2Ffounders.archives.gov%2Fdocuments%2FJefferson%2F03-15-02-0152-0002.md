@@ -102,7 +102,7 @@ of a Peace Society in \ ermnr.t.
 The merchants and trader*:, in several sec­  
 tions! t the Union, are uniting in a memoria
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn83026170:00414216262:1819110501:0103/pct:22.08686440677966,31.7470525187567,19.262005649717516,44.147909967845656/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn83026170:00414216262:1819110501:0103/pct:22.08296557811121,31.74365019826385,19.26448955575169,44.14675097345765/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -425,7 +425,7 @@ resolutions, and to use all lawful arid
 proper means for effecting the object of  
 the same. Signed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_beachhaven_ver01:data:sn85025061:00513684939:1819110901:0246/pct:38.13538308951153,7.625438462711606,34.66402181998512,83.60530730517004/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_beachhaven_ver01:data:sn85025061:00513684939:1819110901:0246/pct:38.125929598413485,7.624275693809088,34.66162617749132,83.59637084476975/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -628,7 +628,7 @@ winch represent&quot; the law in this country
 as in the most degraded state, our Chief  
 Justice as a drunkard and boxer, and 011
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183943:1819111601:0219/pct:3.340464044758927,42.04353083434099,14.925127530031265,12.539298669891172/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183943:1819111601:0219/pct:3.3399144455412966,42.038447587957926,14.928156191729736,12.541812759440615/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -789,7 +789,7 @@ Missouri.
 Resolved—That the senators and rep­  
 resentatives in the Congress of the Unite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_beachhaven_ver01:data:sn85025061:00513684939:1819112301:0253/pct:29.13695598721416,52.21159593544531,17.088763216129827,8.682008368200837/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_beachhaven_ver01:data:sn85025061:00513684939:1819112301:0253/pct:29.129793510324482,52.20379500971164,17.09070796460177,8.684446436575527/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -850,7 +850,7 @@ Refslved, That the Senators and Repre­
 sentatives in the Cungrefs of the United  
 States from this State, be refpe&amp;fully an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010832:1819120701:0557/pct:25.237352982853903,12.193221659524736,15.984129233385291,3.7884690299961044/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010832:1819120701:0557/pct:25.237352982853903,12.193221659524736,16.003023003164706,3.7884690299961044/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -949,7 +949,7 @@ Signed
 JESSE UPSON, Chairman.  
 William Griffith, Sec’ry
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898000:1819121101:0097/pct:20.60889929742389,3.9315676920546143,17.87665886026542,54.910347096561935/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898000:1819121101:0097/pct:20.60353798126951,3.9309210526315788,17.878511966701353,54.905427631578945/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1016,7 +1016,7 @@ requisitions of the law, is, it will be re­
 collected, one per cent per day on all  
 monies which they stand charged wit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898000:1819121101:0097/pct:2.2898776997137653,63.74403684816582,36.0655737704918,31.00838953775292/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898000:1819121101:0097/pct:2.2892819979188346,63.733552631578945,36.062695109261185,31.007401315789473/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1074,7 +1074,7 @@ Missouri.
 Resolved, That the senators and re­  
 presentatives in the congress of the Uru
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898000:1819122501:0104/pct:62.123986398116664,43.580023075655184,17.525503531258174,8.999505521674633/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898000:1819122501:0104/pct:62.10774058577406,43.572841133816745,17.527458158995817,9.002142386288728/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1124,7 +1124,7 @@ The Mecting, aiter due consideration
 and discussion, unanimously adopwd the  
 following resolutivns : 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1820010501:1035/pct:28.19148936170213,46.63761629961135,21.49330181245075,12.130491108232246/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1820010501:1035/pct:28.19805621224061,46.645467750166844,21.49986866298923,12.126565382954501/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1143,7 +1143,7 @@ may hereafter be admitted into tlie
 Union.  
 Resolved, That the Governor |*e re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898000:1820012201:0121/pct:21.877444589308997,13.67084432717678,17.23598435462842,3.199208443271768/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898000:1820012201:0121/pct:21.871741397288844,13.668590272052763,17.23800834202294,3.20280296784831/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1161,7 +1161,7 @@ of the State of New-Jersey, held at the
 State House in Trenton, ou the 14th No­  
 vember, 1820, Richard Stockton wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_beachhaven_ver01:data:sn85025061:00513684939:1820112101:0454/pct:37.55201958384333,67.46721673788124,17.209302325581394,2.445852364815088/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_beachhaven_ver01:data:sn85025061:00513684939:1820112101:0454/pct:37.54282917278512,67.45727754861521,17.21120900636319,2.4491750147318796/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

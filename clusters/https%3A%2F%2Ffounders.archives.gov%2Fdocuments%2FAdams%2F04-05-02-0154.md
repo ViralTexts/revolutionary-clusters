@@ -265,7 +265,7 @@ en quarrelling with the disposal of things,
 to relish that share which is allotted to him­  
 self.—. Mackenzie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021206:00517171955:1829120201:0926/pct:6.002400960384153,36.440435280641466,19.267707082833134,8.877434135166094/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021206:00517171955:1829120201:0926/pct:4.66222153305422,28.24116885518772,14.92221016178219,6.883669317551322/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -295,7 +295,7 @@ posel of things; to relish that sharg
 which is sllotied to himeell.—[Mack­  
 enzie.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021518:00340588034:1830010201:0223/pct:52.14430333149273,66.67917917917917,15.497883305724278,9.50950950950951/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021518:00340588034:1830010201:0223/pct:52.14430333149273,66.67917917917917,15.51015399717774,9.517851184517852/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -417,7 +417,7 @@ share which is allotted to himself. I
   
 The deepest malice often vents itselfinthe 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152755:1837041301:0280/pct:21.663778162911612,51.1275415896488,15.33795493934142,7.763401109057301/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152755:1837041301:0280/pct:21.66955517042172,51.13575682891764,15.33795493934142,7.763401109057301/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -639,7 +639,7 @@ or indignation at the sight, will be too often ouarrell.ag with the
   
 disposal of this lo re!ih that shire which U ailottci fcia-.ttif-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn83016785:00295877947:1844111301:0212/pct:84.63024282560707,117.69703745109,29.746136865342162,6.595863610955841/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn83016785:00295877947:1844111301:0212/pct:63.497101849296165,88.2727780883175,22.315760419541817,4.95248742314142/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -664,7 +664,7 @@ annul restrain his contempt or indignation at
 lisposal of this to relish that share which is al­  
 lotted to hiin&gt;olf.—^Mackenzie&#x27;s A/rm &lt;j Feiifaig
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215750:1844121401:0368/pct:81.9298245614035,45.08690065598161,13.937621832358674,5.3154798133495635/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215750:1844121401:0368/pct:81.92183997661047,45.08385177170679,13.939512068349414,5.317374447750428/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -874,7 +874,7 @@ peace, the mountains and the hills shall break forth before
 you into singing, and all the trees of the field shall clap their  
 hands
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_diglett_ver01:data:sn82015378:00295872378:1849022601:0198/pct:105.39291217257319,120.25299238302503,43.56702619414484,3.9581066376496192/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_diglett_ver01:data:sn82015378:00295872378:1849022601:0198/pct:35.130970724191066,40.084330794341675,14.522342064714946,1.3193688792165397/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1075,7 +1075,7 @@ snare which is allotted to himself.
 &#x27;■ imams .. ■  
 ffPThere seems to he
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182987:1856060501:0306/pct:4.07627711686494,62.94863242161441,14.923023093072079,5.883922615076718/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182987:1856060501:0306/pct:4.075564107049152,62.940234791889004,14.92478572677978,5.8864727854855925/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1113,7 +1113,7 @@ lottd tO himself.
 , — &lt; ■»»»■&gt;­  
 There is nothing in this world which is s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182987:1857040901:0475/pct:78.19854892939303,75.71135606254806,14.404530171651036,7.228915662650603/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182987:1857040901:0475/pct:78.18471337579618,75.70165321030373,14.406404812455769,7.23119313084711/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1210,7 +1210,7 @@ shall break forth before you into
 singing, and all the trees ol the  
 field shall clap their hands.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_naomi_ver01:data:sn85033019:00271769118:1864122901:0249/pct:12.272935429705388,47.04977475002747,12.257670584643567,3.5160971321832766/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_naomi_ver01:data:sn85033019:00271769118:1864122901:0249/pct:12.283111993079936,47.04977475002747,12.26275886633084,3.527084935721349/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1551,7 +1551,7 @@ restrain his contempt or indignation at
 with the -disposal of -things to-jrelteh that  
 ahar which, is allotted to himselL . : 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_ida_ver01:data:sn85033681:00296021106:1880042101:0272/pct:6.059797116924719,117.58032022054925,14.789108382274426,5.248648075495706/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_ida_ver01:data:sn85033681:00296021106:1880042101:0272/pct:4.552736982643525,88.1878909977733,11.09479305740988,3.9444385537058637/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1731,7 +1731,7 @@ singing, and all the trees of the field shall
 clsp their bands.&quot; A. F. Starr.  
 The Great Benefi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cousteau_ver02:data:sn84028272:00296028095:1890100801:0443/pct:12.752293577981652,112.63752171395484,18.30275229357798,5.61667631731326/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cousteau_ver02:data:sn84028272:00296028095:1890100801:0443/pct:9.568609453877926,84.48176027793862,13.744837081229923,4.212507237984945/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1749,7 +1749,7 @@ peace: the mountains and the hills shall break
 forth before you into singing and all the trees  
 of the field shall clap their hands. Instead o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pug_ver01:data:sn83045462:00280654826:1891100701:0112/pct:13.039853259963316,41.02598626632557,12.339503084875771,1.9254072976975898/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pug_ver01:data:sn83045462:00280654826:1891100701:0112/pct:13.04819076204769,41.032718459674165,12.34367183591796,1.9220412010232935/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1900,7 +1900,7 @@ Dr. J.uliug E. Grammer of Baltimore, a
 Protestant Episcopal minister. His text  
 was &quot;Rejoice in the Lord always, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_horseradish_ver02:data:sn87068097:0038334024A:1896082501:0200/pct:38.17608962016454,30.975537872089596,11.22002450551374,3.5366931918656057/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_horseradish_ver02:data:sn87068097:0038334024A:1896082501:0200/pct:38.16940847042352,30.97097392073081,11.22243612180609,3.5398556063061735/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1919,7 +1919,7 @@ the hills shall break forth before you
 Into singing .and all tbe trees of the  
 field shall clap their hands.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_plasse_ver01:data:sn85042461:0028076971A:1897011001:0104/pct:56.48112105877773,6.592920353982301,12.300506033476061,2.094395280235988/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_plasse_ver01:data:sn85042461:0028076971A:1897011001:0104/pct:56.48112105877773,6.603982300884955,12.319968859478397,2.105457227138643/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

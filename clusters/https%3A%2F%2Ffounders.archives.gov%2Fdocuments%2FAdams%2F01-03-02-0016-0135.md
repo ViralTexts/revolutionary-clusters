@@ -58,7 +58,7 @@ Oun the eighth, the Congress resolved iteslf into a
 committee of the Whole, 1o take into consideration  
 the vesolutions, Mr. Harrison of Virginia in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021391:00340588010:1826042201:0011/pct:40.0409530900968,44.92250464972102,17.2933730454207,5.319280843149411/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021391:00340588010:1826042201:0011/pct:40.047158103747826,44.93077082041744,17.2933730454207,5.311014672452986/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -452,7 +452,7 @@ of our lord one thoufarid leven hundred
 and ninety tour, and ia the thirty-filth  
 year of our reign
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_zarley_ver01:data:sn84038410:01000424529:1796031001:0094/pct:9.873495834618945,10.122195878168885,29.342795433508176,32.57340871785519/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_zarley_ver01:data:sn84038410:01000424529:1796031001:0094/pct:9.870450339296731,10.120350109409191,29.341455891425046,32.572027716994896/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -674,7 +674,7 @@ ties are hereby declared liable for any and
 all the moneys, and other property, be  
 longing to the school fund, remaining i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058217:00271744766:1849031401:0245/pct:89.47055324211779,99.86706948640483,17.221891731112432,13.885196374622357/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058217:00271744766:1849031401:0245/pct:67.11289602855868,74.90030211480362,12.925777182805295,10.41691842900302/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -763,7 +763,7 @@ Great Britain and said United States of America,
 and in order to evince a dieposition of Great Britain  
 to be on terms of the most perfect amity with th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743075:1853021201:0326/pct:242.92444893151608,104.69790948770962,48.22480228840653,26.0969446358833/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743075:1853021201:0326/pct:80.97481631050536,34.89930316256987,16.07493409613551,8.698981545294433/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -95,7 +95,7 @@ In obedience *o the laws tetpiiring that the Rec
 tor and Visitor* of the Uni versify of Virginia should  
 nv.k. . liepor-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183992:1825121001:0230/pct:82.69323477422465,43.15148677124795,15.040977020729551,5.022243034418169/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183992:1825121001:0230/pct:82.67994858611826,43.14643567833314,15.043916023993145,5.02555698622654/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -135,7 +135,7 @@ on hand, and a general statement oftlie
 condition of the said University, the  
 said Rector ami
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216341:1825121401:0583/pct:5.250717541786257,40.0464499004645,14.840452473408746,16.25746516257465/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216341:1825121401:0583/pct:5.24983119513842,40.042021453057615,14.84357416160252,16.259353459397694/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -294,7 +294,7 @@ iroiu tl.e ilebis otherwise weighing upon them&#x27;
 and of the prospect thrnce opened of earlier en­  
 largement!, of its scope of action and usefulness
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826120701:0265/pct:63.4910382690134,4.456991830850552,31.099628612950106,93.56078808265256/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826120701:0265/pct:63.4807878592186,4.456456456456457,31.099989236895922,93.55355355355356/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -345,7 +345,7 @@ Ok was that of providing for the
 J “H*&lt;-•»! the whole land ni mourning; and  
 , , H hdlen with peculiar force on the In
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348811:1826121801:0158/pct:1.4773200166458593,79.78165319722105,14.06575114440283,8.351056288104353/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348811:1826121801:0158/pct:1.4770126898273352,79.77034306776297,14.068025795714583,8.353416501275872/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -360,7 +360,7 @@ J “H*&lt;-•»! the whole land ni mourning; and
 s will he disappointed, in the progress of  
 the University to its destined usefulness.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348811:1826121801:0158/pct:16.084061589679568,14.064936906281016,14.731585518102372,0.9357720119098256/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348811:1826121801:0158/pct:16.08071562304972,14.062943011057556,14.733721655918453,0.9391834420187127/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -431,7 +431,7 @@ ing upon them; and of the prospect thence
 opened of earlier enlargements of its scope of ac­  
 tion and usefulness
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348811:1826121801:0158/pct:16.16729088639201,29.703672196228556,14.96046608406159,27.633631078973487/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348811:1826121801:0158/pct:16.163927605575203,29.699461298554013,14.962554607863533,27.633257726112845/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -673,7 +673,7 @@ I funds from the debts otherwise weighing
 ; opened of earlier enlarge merits ol ux  
 scope ef action and u&#x27;efutfc* **
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1827010401:0219/pct:0.8277404921700223,11.05121293800539,37.67337807606264,86.76408001134912/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1827010401:0219/pct:0.8275553567434578,11.049645390070921,37.67054350257213,86.75531914893617/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -698,7 +698,7 @@ all the schools, and no n.nr* during each session ;
 to commence on &#x27;he Fifteenth and terminate on the  
 Thirty-first of December
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827012001:0334/pct:4.292807944898286,71.68109668109668,15.233061028351754,5.4954304954304956/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827012001:0334/pct:4.292120435618194,71.67247805699171,15.235959854793936,5.498777604104044/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

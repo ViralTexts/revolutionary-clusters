@@ -252,7 +252,7 @@ mission to return to my orders atNew-York,
 8 o} ghedicnt and most kumble ferv’t.  
 | « H. CLINTON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1780120401:0436/pct:6.412825651302605,63.76446158409967,28.679581384992208,17.472560071195492/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1780120401:0436/pct:6.420247903213835,63.7694057154158,28.679581384992208,17.472560071195492/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

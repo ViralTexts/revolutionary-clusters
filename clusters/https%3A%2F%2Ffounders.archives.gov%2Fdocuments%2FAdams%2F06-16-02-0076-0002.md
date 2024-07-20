@@ -527,7 +527,7 @@ be takew from the said free ships, un­
 less they -are in a military capacity,  
 and afually in the service of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1800122301:0414/pct:44.92618492618492,73.8482650460694,16.317016317016318,9.380513624779455/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1800122301:0414/pct:44.93136493136493,73.8482650460694,16.322196322196323,9.383780957982095/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -552,7 +552,7 @@ year aoci day by the owners or their agents
 shall be restored on paying the same ex­  
 r&gt; nsos of salvage, as the natives would i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184133:1819010601:0324/pct:25.172790105492908,60.52698899974418,16.44234267006184,7.0862113072397035/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184133:1819010601:0324/pct:25.168212402254955,60.51924798567592,16.445414317754743,7.089568145969221/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -682,7 +682,7 @@ duits sauvés du naufrage ne seront pas assujëtis a paver les droits, excepte q
 shall have the liberty of having in their respec­  
 tive ports,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1833060401:0229/pct:34.36988543371522,15.53334781664132,14.357982443088826,0.9884857701499022/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1833060401:0229/pct:34.37484501314289,15.53334781664132,14.36294202251649,0.9921065971467883/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -736,7 +736,7 @@ this purpose, to coucludt? a treaty of commerce and
 nav&gt;gaaon, aud have judge i that the said end can­  
 not be better obtuiuvu than by tabiug the moe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn84026845:00202190716:1863060101:0527/pct:4.193997217253031,8.332005735223833,13.337308686145896,3.313684881312729/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn84026845:00202190716:1863060101:0527/pct:4.203935599284437,8.343954118209336,13.337308686145896,3.3176676756412298/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -757,7 +757,7 @@ l thing should be regarded as free which should be found
 tirely or in part to the enemies of one of the two, contra­  
 band articles excepted. This, however, only applied t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fortran_ver01:data:sn83030214:00206531083:1871062301:0388/pct:2.29328165374677,126.4983509609917,52.68087855297158,10.553849653133174/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fortran_ver01:data:sn83030214:00206531083:1871062301:0388/pct:0.76442721791559,42.16611698699723,17.560292850990525,3.5179498843777246/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -777,7 +777,7 @@ servances thereof.
 Article 7. The citizens of each of the high con­  
 tracting parties&#x27;shall in the territory of the other hav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_ariel_ver01:data:sn82015418:00212474290:1876061001:0208/pct:59.38628158844765,51.71180931744312,16.774110366168127,3.1852654387865655/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_ariel_ver01:data:sn82015418:00212474290:1876061001:0208/pct:44.56339481491036,38.78656554712893,12.588675351476848,2.3943661971830985/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

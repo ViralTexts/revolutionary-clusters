@@ -131,7 +131,7 @@ Virginia, to be my true and lawful Attorney, for
 me and in my name, and for my own proper use  
 and benefit, to sell and dispose of any MErCHA.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202191022:1858042901:0408/pct:95.31908254017787,159.6162138852954,37.50975191137463,5.756791720569211/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202191022:1858042901:0408/pct:31.773027513392623,53.20540462843179,12.503250637124877,1.9189305735230704/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -153,7 +153,7 @@ Virginia, to be my true and lawful Attorney, for
 me, and in my name, and for my own proper use  
 and benefit, to sell and dispose of any MurChat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202191022:1858043001:0412/pct:131.73662037759402,263.3139284174213,37.806210017163366,7.546356188012074/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202191022:1858043001:0412/pct:43.912206792531336,87.77130947247377,12.60207000572112,2.5154520626706915/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -173,7 +173,7 @@ Virginia, to be my true and lawful Attorney, for
 me and in my name, and for my own proper use  
 and benefit, to sell and dispose of any heona
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202191022:1858050301:0421/pct:49.86093943139679,250.53277365192122,37.577255871446226,5.951996555806694/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202191022:1858050301:0421/pct:16.620313143798928,83.51092455064041,12.525751957148744,1.983998851935565/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -193,7 +193,7 @@ Virginia, to be my true and lawful Attorney, for
 me and in my name, and for my own proper us­  
 and benefit, to sell and dispose of any MERCHA!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202191022:1858050701:0438/pct:96.64709517923362,178.88278979657733,37.2991347342398,5.704445161984716/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202191022:1858050701:0438/pct:32.21569839307787,59.627596598859114,12.433044911413267,1.9014817206615722/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -220,7 +220,7 @@ credit, any MErChAnDiSE which I, from time to
 time, may require to replace any Merchandise  
 which may be sold as aforesaid, and which he ma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202191022:1858051001:0446/pct:98.33127317676143,172.68324184694865,37.221878862793574,12.35604348294048/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202191022:1858051001:0446/pct:32.777091058920476,57.56108061564955,12.407292954264523,4.11868116098016/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -247,7 +247,7 @@ credit, any MERChAnDlse which I, from time to
 ime, may require to replace any Merchandise  
 which may be sold as aforesaid, and which he ma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202191022:1858051301:0458/pct:97.8831891223733,185.95414917662254,37.39184177997528,12.409859003336562/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202191022:1858051301:0458/pct:32.62772970745777,61.98471639220751,12.463947259991759,4.136619667778854/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -264,7 +264,7 @@ ns if they had never been married, giving and grant­
 lug unto my said attorney full power and authority to  
 do and perform, etc. lu witness whereof I have here
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fullerton_ver02:data:sn84031492:no_reel:1874011301:0002/pct:83.45864661654136,44.549418604651166,12.993421052631579,1.126453488372093/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fullerton_ver02:data:sn84031492:no_reel:1874011301:0002/pct:83.47626879699249,44.549418604651166,12.987546992481203,1.1355377906976745/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -325,7 +325,7 @@ with fall powar af aubstitntion and rerocation, heraby rati
 ing and confirming all that the said attorney or his suh.  
 stitute shall tawfully do or cause to be done by virtue hereof
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crowfoot_ver01:data:sn83030313:00271743968:1877091601:0933/pct:54.109926168990974,27.139945652173914,46.11977030352748,7.914402173913044/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crowfoot_ver01:data:sn83030313:00271743968:1877091601:0933/pct:18.036642056330326,9.046648550724637,15.373256767842493,2.6381340579710146/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -374,7 +374,7 @@ my hand and seal, this fourth day of March, A.D.,
 i9ee Ewand purceL.  
 Signed, sealed, acknowledged and delivered in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271744055:1879030601:0837/pct:1.9166106254203092,103.65514040380599,51.44586415601883,18.61220700858668/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271744055:1879030601:0837/pct:0.6388702084734365,34.55171346793533,17.14862138533961,6.2040690028622265/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -468,7 +468,7 @@ grading shid road to be, ehtcre mt
 by our attorney, we hereby agree and  
 obligate ourselves respectively to se
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_india_ver02:data:sn86071158:0020653655A:1894051701:0165/pct:156.09480812641084,254.2713567839196,51.24153498871332,20.268006700167504/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_india_ver02:data:sn86071158:0020653655A:1894051701:0165/pct:39.03471634208298,63.5678391959799,12.813999435506632,5.067001675041876/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -542,7 +542,7 @@ the premises, as fully to all intents and pur­
 poses as we might or could do if personally  
 present, with full power of substitution an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ak:batch_ak_albatross_ver01:data:sn84021930:00279526727:1899101801:0214/pct:41.05428796223446,80.83358380923755,17.057435090479938,3.1960725378218617/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ak:batch_ak_albatross_ver01:data:sn84021930:00279526727:1899101801:0214/pct:41.059533175976924,80.83692348796046,17.062680304222397,3.1994122165447685/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

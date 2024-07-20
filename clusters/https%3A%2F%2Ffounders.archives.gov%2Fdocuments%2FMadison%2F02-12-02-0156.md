@@ -66,7 +66,7 @@ pnypofe of taking, in tii.il mode, our respective
 “ H. DPARBORN,  
 “ R. SMITH
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1806072501:0091/pct:22.896245607545772,45.44104911542744,17.88422415387461,20.165780032166275/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1806072501:0091/pct:22.892011834319526,45.43542800593765,17.8870808678501,20.16740887349497/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -111,7 +111,7 @@ Your most obedient servants,
 f . JAMES MADISON,  
 .... II. DEARBORNS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1806072801:0021/pct:27.902291614202973,57.415494096716806,21.65701334676404,18.680252304706453/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1806072801:0021/pct:27.895266868076536,57.40620957309185,21.65785498489426,18.68127425614489/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -170,7 +170,7 @@ JAMES MADISON.
 3 H. DEARBORN.  
 R. SMITH
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1806072901:0330/pct:60.27439975054568,3.341645885286783,33.925787340193324,91.94014962593516/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1806072901:0330/pct:60.27439975054568,3.3449709060681627,33.93098430516579,91.94679966749793/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -224,7 +224,7 @@ of the district attorney of the United
 44II. D;* AH HORN.  
 » H. SMI I H 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806073001:0252/pct:21.776669224865696,68.90132777922416,18.227168073676133,25.917729757875552/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806073001:0252/pct:21.772491847304813,68.89235975530391,18.230065860988553,25.91869495422795/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -324,7 +324,7 @@ cial duties,” without any assignable rea­
 son except their own convenience or a­  
 (feuscmem, and that too when the “ stat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1806081501:0645/pct:25.8630289532294,59.69005746125718,20.629175946547885,19.449764931220617/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1806081501:0645/pct:25.85583078207626,59.67966573816156,20.630392429724463,19.45073119777159/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -364,7 +364,7 @@ United, States, for the purpose of taking, in that
 mode, our respective testimonies !  
 1 VV’c have the honour to be, fee. See
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1806081801:0057/pct:28.490239683716332,75.63790021127905,21.447986162589572,14.529497805948317/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1806081801:0057/pct:28.483201581027668,75.625609359766,21.448863636363637,14.5311992200195/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -392,7 +392,7 @@ Great Britain, or of that of France, or Spain, had
 made such a return to the writ of a court ? His ma­  
 jesty has specially signified, &amp;c. and the court will
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1806081801:0057/pct:50.4571287373363,6.890947505281976,21.25030887076847,8.548675442873396/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1806081801:0057/pct:50.444664031620555,6.889827754306142,21.251235177865613,8.551348716282092/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -420,7 +420,7 @@ concerning the reconcilement of publick justice with
 the wishep of heads of departments ; the indecent  
 proposal, to a character so angust as that of a judge
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1806081801:0057/pct:50.6548060291574,65.17146107589794,21.176179886335557,7.93109052494718/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1806081801:0057/pct:50.64229249011858,65.16087097822555,21.177124505928855,7.933864153396165/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -577,7 +577,7 @@ spective testimonies
 The reading of this letter increased the sen­  
 sation. The defendant&#x27;s counsel refused t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175042854:1896031501:0989/pct:70.91722595078299,144.95995163971588,49.515287099179716,32.14447634879855/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175042854:1896031501:0989/pct:17.73591943304737,36.23998790992897,12.383439015292801,8.036119087199637/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

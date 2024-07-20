@@ -494,7 +494,7 @@ daughter.
 Giving more light than heat, extinct in  
 both
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn87062070:0039334295A:1831081001:0290/pct:22.12916023804276,55.80118083207469,17.610756006171478,3.6248798572017025/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn87062070:0039334295A:1831081001:0290/pct:22.12428382547378,55.793520043931906,17.614220655207873,3.6289584477393375/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -578,7 +578,7 @@ publican City, Kansas.
 When the blood burns, how prodi­  
 gal the soul lends, the tongue vows.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_animals_ver01:data:sn84027718:00271763839:1878050901:0099/pct:68.32429174201326,119.77522716403635,14.91862567811935,11.549497847919655/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_animals_ver01:data:sn84027718:00271763839:1878050901:0099/pct:51.25847776940467,89.83739837398375,11.18311981914092,8.656145384983262/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -617,7 +617,7 @@ ness is faith mi the virtue of woman.
 When the blood burns, how prodigal  
 the soul lends the tongue vows
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_alvarez_ver01:data:sn84026688:00415623434:1885120301:0231/pct:70.10609171800137,9.893319786639573,25.256673511293634,86.16967233934467/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_alvarez_ver01:data:sn84026688:00415623434:1885120301:0231/pct:70.11749942961443,9.901786470239607,25.250969655487108,86.16120565574464/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

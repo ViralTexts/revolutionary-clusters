@@ -327,7 +327,7 @@ coort martial, shall tran{mit, with as much
 { expedition as the opportunity of time and  
 ~ distance of place can admit, the ocrigina
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1806090201:0349/pct:59.65598123534011,74.3999196545144,17.12275215011728,10.033142512805062/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1806090201:0349/pct:59.66640604639041,74.3999196545144,17.11232733906698,10.043185698503565/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -714,7 +714,7 @@ other punishment as may be ordered by sentence of a
 general court martial.  
 Art. 6. Any officer or soldier who shall str
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743245:1856071601:0137/pct:105.50550550550551,116.09805693628559,46.76343009676343,25.858563036601897/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743245:1856071601:0137/pct:35.1685018351685,38.69935231209519,15.587810032254477,8.619521012200632/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -756,7 +756,7 @@ begin, excite, cause, or join in any mutiny or
 sedition, in any troop or company in the ser-  
 vice of the United States, or in any party
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668156:1861060401:0879/pct:90.53687635574838,165.91436405821557,38.313449023861175,28.221894115165576/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668156:1861060401:0879/pct:30.187144019528073,55.30478801940519,12.774613506916191,9.407298038388525/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -777,7 +777,7 @@ Art. 7. Anv officer or soldier who shall begin, excite, cause, or join
 in, any mutiny&#x27;, or sedition, in any troop or company in the service of  
 the Confederate States, or in any party, post, detachment, or guard
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn82014282:0041421244A:1861062701:0243/pct:58.85574290243551,91.23484604656153,18.619397607724455,3.3365518721167255/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn82014282:0041421244A:1861062701:0243/pct:58.847262247838614,91.22505900021454,18.620317002881844,3.338875777730101/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -796,7 +796,7 @@ Art. 90. Every judge-advocate, or person officiating as such, at anv
 general court-martial, shall transmit, with as much expedition as the  
 opportunity of time and distance of place can admit,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn82014282:0041421244A:1861062701:0244/pct:24.107919930374237,79.7290031186149,18.682912677690744,2.4303688568663295/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn82014282:0041421244A:1861062701:0244/pct:24.10442349528644,79.72043010752688,18.683828861493836,2.432795698924731/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -825,7 +825,7 @@ Art. 7. Any officer or soldier who shall begin,
 excite, cause, or join in any mutiny or sedition,  
 in any troon or company in the service of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_continental_ver02:data:sn82014760:00237288804:1861093001:0918/pct:12.686567164179104,215.50146728810634,56.4365671641791,26.30761263593993/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_continental_ver02:data:sn82014760:00237288804:1861093001:0918/pct:3.172381618847679,53.875366822026585,14.11243293678563,6.576903158984982/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

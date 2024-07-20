@@ -180,7 +180,7 @@ owned by the fubjeéts of the said Unit -
 ed States, or any of them, and whereof’  
 the master and 3-4ths of the mariner
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790062401:0615/pct:69.28758637121754,12.73926331027827,20.514653323802715,12.321055171304488/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790062401:0615/pct:69.30347073306329,12.73926331027827,20.53053768564848,12.337140099726556/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -220,7 +220,7 @@ built in the countries belonging to the
 United States of America, or of any  
 of them, and owned by the fubje&amp;s o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791010801:0729/pct:25.1434034416826,26.01289895816107,20.697896749521988,21.92822887382173/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791010801:0729/pct:25.1434034416826,26.01841133344358,20.705863607393244,21.92822887382173/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -829,7 +829,7 @@ islands, plantations or colonies now remaining or be­
 longing to the Crown of Great Britain in America.&quot;  
 it has been well said, &quot;That in the long and event
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743075:1853021201:0326/pct:244.28739693757362,174.22467263955892,47.11425206124853,12.324833448196646/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743075:1853021201:0326/pct:81.42913231252454,58.07489087985297,15.704750687082843,4.108277816065549/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

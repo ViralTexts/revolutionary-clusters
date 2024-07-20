@@ -188,7 +188,7 @@ pared with those of the present day, their in­
 fluence was deemed so vast by the great  
 philosopher, how can that influence at th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033221:00514152366:1867062901:0245/pct:69.53225575740237,68.66133333333333,12.07266485481333,8.469333333333333/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033221:00514152366:1867062901:0245/pct:69.53702379249512,68.66844444444445,12.07743288990607,8.469333333333333/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -56,7 +56,7 @@ I first instance to distinguish themselves
 j dearest privileges from the bulk of the  
 people.&#x27; This intimidation lasted long
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lydia_ver01:data:sn87080287:00296028770:1891043001:0421/pct:29.78678038379531,12.690750545001556,12.55863539445629,5.278729367798194/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lydia_ver01:data:sn87080287:00296028770:1891043001:0421/pct:29.78678038379531,12.701131527042458,12.55863539445629,5.273538876777743/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -190,7 +190,7 @@ uses with us, or that they can have any ten­
 dency unfriendly to the purest spirit of republi­  
 canism.&quot; Washington then goes on to conside
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042945:1897072501:0702/pct:285.25096525096524,301.75332527206774,51.50579150579151,13.361547762998791/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042945:1897072501:0702/pct:71.31274131274131,75.43833131801694,12.876447876447877,3.3403869407496978/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -211,7 +211,7 @@ their compatriots and to wrest the dearest privi­
 leges from the bulk of the people,&quot; re objec­  
 tions to the publication of the work
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042945:1897072501:0702/pct:283.9382239382239,320.49576783555017,52.818532818532816,10.217654171704957/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042945:1897072501:0702/pct:70.98455598455598,80.12394195888754,13.204633204633204,2.5544135429262393/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

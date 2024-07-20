@@ -821,7 +821,7 @@ with, of course, his “‘ intellectual expanse of forehead an
 mooa, deplores that she had &quot; run from her  
 guardage to the sooty bosom of such a thing&quot; a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661630:1864040701:0285/pct:3.1211666893825813,63.21726868423907,15.592203898050975,1.5945330296127562/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661630:1864040701:0285/pct:3.1211666893825813,63.21726868423907,15.592203898050975,1.6017644719239252/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -844,7 +844,7 @@ That heaven had made her such ad man?
 he lov&#x27;d me for the dangers I had passed;  
 And I loved her that she did pity them.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn88077244:00280775071:1866060201:1272/pct:84.10958904109589,94.56504515924576,56.073059360730596,13.056567897322136/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn88077244:00280775071:1866060201:1272/pct:21.037003197807216,23.64126128981144,14.024668798538146,3.264141974330534/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -868,7 +868,7 @@ That heaven had mads her such a man!
 She loved me for the danger, I had passed;  
 And I loved her that she did pity them.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774728:1866061201:0668/pct:335.22149600580974,194.01007156109196,52.069716775599126,13.040021203286509/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774728:1866061201:0668/pct:83.80537400145244,48.50251789027299,13.017429193899781,3.260005300821627/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -909,7 +909,7 @@ That heaven hcid iiiade het uJi it man
 Sho loved ma lor the dangers I had passe l  
 And I loved her that sho did pity them 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_chekhov_ver01:data:sn84026847:00415665027:1866061301:0564/pct:42.98473062518006,31.3195070634205,13.699222126188419,13.19507063420499/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_chekhov_ver01:data:sn84026847:00415665027:1866061301:0564/pct:42.98473062518006,31.326186420866314,13.704023816383367,13.191730955482083/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -967,7 +967,7 @@ Twas pitiful, &#x27;twas wondrous pitit ul
 vy itie ethe ruin, the ravages and the waste pree  
 nit in every part of the ancient spot. The ver
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_itchweed_ver01:data:sn83030313:00271743713:1870070301:0054/pct:57.32546705998033,41.211771494518175,48.13176007866274,6.658972879399885/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_itchweed_ver01:data:sn83030313:00271743713:1870070301:0054/pct:19.108489019993446,13.737257164839392,16.04392002622091,2.219657626466628/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1166,7 +1166,7 @@ So there&#x27;s the long and short of It.
 THE 11AOOT WILL CASE.  
 Tho widow boa won her point In tho grea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_michigan_ver01:data:sn84031492:no_reel:1878060801:0012/pct:70.87174084803793,43.36497677236922,13.14195417434817,8.180165623106443/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_michigan_ver01:data:sn84031492:no_reel:1878060801:0012/pct:70.89149328417172,43.370026257321754,13.15512246510403,8.185215108058978/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1198,7 +1198,7 @@ And we were wed forthwith.
 So there&#x27;s the long and short of it.  
 --Oił City Der
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_palisade_ver02:data:sn84022046:00279553895:1878061101:0543/pct:19.214997070884593,121.69798190675017,45.63561804335091,28.573416840640224/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_palisade_ver02:data:sn84022046:00279553895:1878061101:0543/pct:4.802811401796173,30.42026161981631,11.406677079265911,7.142360144725856/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1241,7 +1241,7 @@ fallacy that improvements in machinery
 take the bread out of the mouth of the  
 laborer, and the great number of unem
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn84027186:00279528918:1878070501:0531/pct:39.130434782608695,31.11895592640137,10.950626381724392,9.959349593495935/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn84027186:00279528918:1878070501:0531/pct:39.14026037828543,31.11895592640137,10.96045197740113,9.966481243759805/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1303,7 +1303,7 @@ And bade me. if I had a friend that loved her
 i snouui teacn nim bow to tell my story,  
 And that would woo ber
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn82016419:00212472980:1878092001:0401/pct:6.086956521739131,34.527796383121235,12.798913043478262,6.251395400759098/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn82016419:00212472980:1878092001:0401/pct:4.566458276705626,25.89863808885912,9.608589290568089,4.688546550569323/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1330,7 +1330,7 @@ Now, I haven&#x27;t a word to say against
 Desdentona, for it was perfectly right, and  
 no more than I would have done myself
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_gambit_ver01:data:sn88064592:00280761849:1880113001:0076/pct:15.865943432777993,144.0042954301396,47.772181325067805,23.266913256174682/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_gambit_ver01:data:sn88064592:00280761849:1880113001:0076/pct:5.288647810925998,48.00143181004653,15.924060441689267,7.755637752058227/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1360,7 +1360,7 @@ for her- when the gas was turned down,
 she was sure no ine would hear, her,  
 and never dreamd it would get into th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_gambit_ver01:data:sn88064592:00280761849:1880120401:0083/pct:9.517241379310345,144.4284168770285,44.98522167487685,28.957807428777496/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_gambit_ver01:data:sn88064592:00280761849:1880120401:0083/pct:3.1724137931034484,48.13701923076923,14.995073891625616,9.651442307692308/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1472,7 +1472,7 @@ She loved me for the danger* I had passed,
 For Six Cents.  
 We are pleased to announce that w
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn90050009:00393342948:1889101201:0722/pct:50.87825560266505,64.46362864421172,20.411871592973956,6.991225587319558/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn90050009:00393342948:1889101201:0722/pct:50.867985466289866,64.45450686288383,20.412797739200645,6.993773878590632/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1563,7 +1563,7 @@ Twentieth Kansas boy got out an InjunC&#x27;
 tlon to prevent some of the two fisted sons  
 from interfering with their happy hone
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_franklin_ver01:data:sn86063615:00211109026:1899080301:0361/pct:40.94368340943684,62.51202418579085,16.7427701674277,8.355091383812011/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_franklin_ver01:data:sn86063615:00211109026:1899080301:0361/pct:30.725299828669332,46.88745362099766,12.564249000571102,6.266318537859008/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

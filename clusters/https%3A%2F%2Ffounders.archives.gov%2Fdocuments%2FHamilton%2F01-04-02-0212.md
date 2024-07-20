@@ -259,7 +259,7 @@ in which it may be said with some truth,
 that law* are m^de for tbe/rtr, not fur  
 the mo p.*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1814061401:0447/pct:44.14049307666329,69.49682554723775,18.541033434650455,18.572917653747748/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1814061401:0447/pct:44.13304068884011,69.49024066704567,18.543530868366254,18.57431621502116/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -351,7 +351,7 @@ recognition of the portion of sovereignty remaining in the
 States, and an instrument for preserving it to thein(p). j  
 It is said, in another part of the same work, that
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1833012401:0322/pct:50.076399499930545,83.69433754810335,15.057646895402138,2.2429906542056073/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1833012401:0322/pct:50.06944444444444,83.68513632365875,15.060185185185185,2.2464086778070946/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -522,7 +522,7 @@ for Foreign in/&quot;&#x27;unec on the National Councils.&quot;
 It is thus evident, that he did not consider the  
 clause, any more than the objections, applicable a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1845012801:0052/pct:32.02926683589667,32.723265619011116,13.797222637001642,9.936757378305865/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1845012801:0052/pct:32.02926683589667,32.723265619011116,13.802199990045294,9.943145521911333/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -538,7 +538,7 @@ clause, any more than the objections, applicable a
 
 ---
 
-## [From _The American Whig review_](https://archive.org/details/sim_american-whig-review_1850-09_12_33/page/n82/mode/1up?view=theater)
+## [From _The American Whig Review (1850-1852)_](https://archive.org/details/sim_american-whig-review_1850-09_12_33/page/n82/mode/1up?view=theater)
 
 #### 1850-09-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -592,7 +592,7 @@ It is undeniably true,and true without arvexception,
 that the Constitution did intend to devolve the elec­  
 tion of Senator on the Legislature, in every case
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024518:0029602272A:1853022301:0066/pct:8.995186522262335,103.71387628373537,19.750300842358605,10.89085263912109/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024518:0029602272A:1853022301:0066/pct:6.75594342461631,77.78839264389778,14.82094492928077,8.168139479340816/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -642,7 +642,7 @@ ond from the early practice of the Federal Government,
 that the Senate was intended to be regarded as a nigh ad­  
 sory body, for the superintendence and revision of meas
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184674:1856031701:0132/pct:173.57800848077204,105.49183176920403,38.52902471121509,30.772795736299386/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184674:1856031701:0132/pct:57.85087719298246,35.1598702502317,12.8411306042885,10.256410256410257/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -951,7 +951,7 @@ preparatory labors and advances will not
 lender him a victim to an inconstant gov­  
 ernment 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85033123:00514151398:1865112301:0224/pct:27.804396843291997,27.115867642240907,10.978015783540023,5.809763022824069/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85033123:00514151398:1865112301:0224/pct:27.809094325441563,27.11950784463616,10.98271326568959,5.813403225219322/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1172,7 +1172,7 @@ every prospect of success. The individual
 who is vacillating in his methods, or carries  
 on his business without any definite nlun, i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ditto_ver02:data:sn87058308:00279529029:1886012101:0123/pct:80.78489951113525,16.85074475630763,11.461162411732754,4.762387273279968/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ditto_ver02:data:sn87058308:00279529029:1886012101:0123/pct:80.7939525620134,16.85074475630763,11.461162411732754,4.769142432532847/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1281,7 +1281,7 @@ this right|as memhers of the federal
 t. If prevents the&#x27; party  
 rity from exercising un
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn2007060551:00514157467:1892060701:0135/pct:27.795744680851065,83.02620032593707,11.880851063829788,6.017299736743136/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn2007060551:00514157467:1892060701:0135/pct:27.791014295439073,83.01579343193782,11.883083730428863,6.019679117573327/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1324,7 +1324,7 @@ declared that &quot;no Government, any more
 than an individual, will long be  
 without being truly respectable.&quot; A go
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_vanhalen_ver01:data:sn85034438:0017504923A:1894032501:0528/pct:88.4372034166403,65.93636463723439,40.90477696931351,4.370802598260487/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_vanhalen_ver01:data:sn85034438:0017504923A:1894032501:0528/pct:29.47906780554677,21.978788212411466,13.634925656437836,1.4569341994201621/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1635,7 +1635,7 @@ of sovereignty remaining in tho individual
 states and an instrument for preserving  
 that residuary sovereignty.&quot; This, it wil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_calumet_ver01:data:sn86086632:00296023486:1897051401:1028/pct:73.50961538461539,55.64150734887833,21.55448717948718,3.7020665266880317/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_calumet_ver01:data:sn86086632:00296023486:1897051401:1028/pct:49.022122475152294,37.09802188087082,14.379608848990062,2.464360702840093/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1654,7 +1654,7 @@ of sovereignty remaining in the individual
 states and an instrument for preserving  
 that residuary sovereignty.&quot; This, it wil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_rolls_ver01:data:sn85025431:00212479901:1897051901:0161/pct:49.17118004267192,37.257308636465076,14.048908583620548,2.5217585360410624/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_rolls_ver01:data:sn85025431:00212479901:1897051901:0161/pct:49.182121560260406,37.26474745220561,14.048908583620548,2.529197351781596/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1745,7 +1745,7 @@ mut secure tho authority of the former,
 and may form a convenient link between  
 the two stems,&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_franklin_ver01:data:sn86063615:00211109038:1899112701:0769/pct:24.90566037735849,6.942889137737962,34.113207547169814,120.94064949608062/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_franklin_ver01:data:sn86063615:00211109038:1899112701:0769/pct:18.68277033402529,5.207166853303471,25.58973391205888,90.70548712206048/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

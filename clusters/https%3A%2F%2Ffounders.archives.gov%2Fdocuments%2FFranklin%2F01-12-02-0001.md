@@ -720,7 +720,7 @@ yearly Remittance to” Great Britzin of a Miiliva
 Swerling, snd no Ways inteifere whi the eihar age  
 ecflary Branches of Laboar ip the Gammuniy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015064:1764082401:0275/pct:34.22712933753943,4.926470588235294,57.210455159981976,88.88235294117646/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015064:1764082401:0275/pct:34.24215111912273,4.931372549019608,57.202944269190326,88.88725490196079/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

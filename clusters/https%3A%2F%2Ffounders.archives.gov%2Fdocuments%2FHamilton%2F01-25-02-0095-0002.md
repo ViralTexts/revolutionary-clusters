@@ -101,7 +101,7 @@ the United States and Great Britain, rela­
 tive to the jirote&amp;ion granted to the armed  
 veflels of that nation. Fiance will mos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800093001:0002/pct:42.66376601401982,70.59110893991206,16.799613246313754,11.805894805406286/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800093001:0002/pct:42.68189509306261,70.60332193453834,16.787527193618565,11.809965803615047/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -139,7 +139,7 @@ by her enemies. ;
 There is another principle which France  
 is verv anxious eftablith ; and on the a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1800093001:0367/pct:21.800062285892245,63.80152373510451,16.350046714419182,12.541512014065248/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1800093001:0367/pct:21.800062285892245,63.804779579344924,16.360427696460086,12.551279546786482/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -175,7 +175,7 @@ as it is p* fell&#x27; d to her injury by her enemies.
 There is another principle which France is  
 very anxious to tftablifii; and on the adoptio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1800100601:0467/pct:47.40043162644693,12.340425531914894,46.22326858936629,83.4617596319724/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1800100601:0467/pct:47.391133777952135,12.33900643974241,46.219105531581015,83.45503679852806/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -529,7 +529,7 @@ Abford indeed nuift be that American
 ,ny other foundation than her own ability  
 o repel violence. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800100801:0002/pct:6.1107117181883535,4.314230521571153,53.798226695422954,93.27108821635544/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800100801:0002/pct:6.1107117181883535,4.314230521571153,53.81020848310568,93.2831616226658/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -652,7 +652,7 @@ the treaty of 1778 could not have
 - French government, that when one  
 party 10 a treaty violates the compa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1800102101:0377/pct:75.21551724137932,30.676045330207113,16.6564039408867,66.24658069558421/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1800102101:0377/pct:75.22577996715928,30.676045330207113,16.651272577996718,66.2498371759802/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -964,7 +964,7 @@ than her owe ability so repel vio­
 letice: ;  
 ORSERVATOR.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1800102101:0378/pct:8.906944657366243,6.374075515764889,50.91215698298329,90.49240949785909/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1800102101:0378/pct:8.906944657366243,6.374075515764889,50.91726710613726,90.4956533021928/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

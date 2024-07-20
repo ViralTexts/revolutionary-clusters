@@ -239,7 +239,7 @@ LRetirement, rural quiet, friendship, b oks,
 Ease and alternate labor, useful life.  
 Progressive virtue and appreving Heaven
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202191022:1858050101:0416/pct:133.14276885043265,46.625766871165645,37.16007416563659,10.881498224087826/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202191022:1858050101:0416/pct:44.38092295014421,15.541922290388548,12.386691388545529,3.627166074695942/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -105,7 +105,7 @@ iarity with us, and the preferenee they merit in compe­
 tition with corresponding articles now in use.” .  
 Should the reeent treaty be ratitied on th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1831091301:0567/pct:80.2928615009152,71.02065613608748,16.366687004270897,14.95544754961523/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1831091301:0567/pct:80.3030303030303,71.02403132172269,16.356518202155787,14.95544754961523/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -195,7 +195,7 @@ been temperate,” it does not destroy our argu­
 ment. Nor is our doctrine the less true from  
 the fact that rich men who could afiord to bu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015209:1841021601:0023/pct:35.32767700409596,9.501557632398754,14.89174956114687,10.799584631360332/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015209:1841021601:0023/pct:35.33742929588453,9.501557632398754,14.886873415252584,10.809968847352025/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -224,7 +224,7 @@ Whether the editor of the Journal can * keep
 his countenance,” on reading the above, we  
 don’t know nor care. In the days of commo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015209:1841022301:0027/pct:35.68513119533527,25.83385125336648,14.723032069970845,6.701885228920655/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015209:1841022301:0027/pct:35.694849368318756,25.83730405358746,14.718172983479105,6.705338029141634/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -258,7 +258,7 @@ driven bv om
 rorermnnt. And th? treasury itself will  
 1.-1.I ttiif n nnnnLVi.niniii for n d.i7Pfl- IS more
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn83016924:00200292091:1841041001:0264/pct:10.120643431635388,86.84986803291415,23.81590705987489,13.538270454898308/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn83016924:00200292091:1841041001:0264/pct:7.599463567277604,65.14516379444186,17.881090746535538,10.15370284117373/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -295,7 +295,7 @@ fimilliarty with us, and the preference they
 merit in competition with corresponding  
 articles now in use.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn83016924:00200292091:1841041001:0264/pct:10.187667560321715,83.10821301040211,47.58713136729222,32.37074988355845/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn83016924:00200292091:1841041001:0264/pct:7.644166294143943,62.33504114267971,35.717478766204735,24.281943797546965/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -322,7 +322,7 @@ tion of wine manufacture into the United States will
 prove of immenze benefit to the country. Waen the  
 French lesuits planted a vineyard at Kaskashle, on th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_airy_ver01:data:sn83030213:0020653039A:1852100901:0063/pct:199.8473023413641,204.34633421022534,47.28537495758398,16.927827976667047/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_airy_ver01:data:sn83030213:0020653039A:1852100901:0063/pct:66.61576744712137,68.11544473674178,15.761791652527995,5.642609325555683/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -367,7 +367,7 @@ wine would be of vast more benefit to the morals of
 our country than all Maine Laws, even if they could  
 be enforced.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_airy_ver01:data:sn83030213:0020653042A:1853120501:0651/pct:101.85155108007146,182.89176666270643,47.555627740782846,32.06605678983011/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_airy_ver01:data:sn83030213:0020653042A:1853120501:0651/pct:33.95051702669049,60.96392222090214,15.851875913594283,10.688685596610036/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -407,7 +407,7 @@ says the Home Journal,) a drunkard is less reputabi.
 than a thief,-necessity may make the one, nothing bu  
 inherent depravity the other. They drink wine alwa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_pearse_ver01:data:sn82015753:00212475361:1854011701:0057/pct:91.5264423076923,265.6135531135531,37.43990384615385,18.635531135531135/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_pearse_ver01:data:sn82015753:00212475361:1854011701:0057/pct:30.508814102564102,88.53785103785104,12.479967948717949,6.211843711843712/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -448,7 +448,7 @@ may make the one, nothing but inherent
 depravity the other. They drink wine  
 always, and never to excess.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159336:1854013001:0121/pct:53.297872340425535,49.83720669136634,12.735562310030396,4.805209385876277/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159336:1854013001:0121/pct:53.297872340425535,49.84094906627746,12.75582573454914,4.808951760787395/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -471,7 +471,7 @@ necessity may make the one. nothing but
 inherent depravity the other. They drink  
 wine always, and never to excess
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kuvasz_ver02:data:sn83045461:00280654036:1854020701:0142/pct:84.99106611078022,46.70756646216769,14.175104228707564,4.979550102249489/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kuvasz_ver02:data:sn83045461:00280654036:1854020701:0142/pct:84.99851101846338,46.70756646216769,14.189994044073854,4.989775051124744/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -505,7 +505,7 @@ rent depravity the other. They drink wine
 always, and never to excess._  
 The longer we live in this world o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024718:0041418375A:1854021501:0031/pct:69.58824308221898,81.16193784983594,12.339467761154507,5.568423084346652/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024718:0041418375A:1854021501:0031/pct:69.57903097696584,81.15410595387436,12.342246933192127,5.571102319148252/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -630,7 +630,7 @@ published a valuable pamphlet collating
 the opinions of the leading medical  
 writers of the last fifty or seventy-fiv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn95068565:00280779192:1883011001:0193/pct:120.35472972972973,37.11001642036125,53.29391891891892,71.37383689107827/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn95068565:00280779192:1883011001:0193/pct:30.095036958817317,9.277504105090312,13.326293558606125,17.843459222769567/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -715,7 +715,7 @@ variety of cheap and good wines to be
 had in Europe; and particularly in France,  
 in Italy aud the Grecian islands.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_audi_ver01:data:sn86088296:00200297672:1887061601:0785/pct:51.62999185004075,54.90360435875943,18.52078239608802,22.813635093601565/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_audi_ver01:data:sn86088296:00200297672:1887061601:0785/pct:38.740574689219486,41.18468846046382,13.898512329325454,17.113718915898296/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -844,7 +844,7 @@ tutes ardent spirits as the common bever­
 age.” Christ made wine at the wedding,  
 we are told. It is the discovery of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524792:1896030501:0081/pct:13.726315789473684,2.2003385136174796,26.926315789473684,94.53762117248807/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524792:1896030501:0081/pct:13.723426647021679,2.2,26.925910334666387,94.52692307692308/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

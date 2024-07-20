@@ -79,7 +79,7 @@ a«t to regulate the collection of duties on
 imports and tonnage, and for other pm po­  
 ses.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1817020801:0370/pct:52.159844685326,48.511829051132025,14.593107911341207,2.747392520987026/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1817020801:0370/pct:52.15140731154966,48.505659417525116,14.596139329235415,2.751282377379287/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -125,7 +125,7 @@ and therein to amend an act, entitled “ An act t&lt;
 regulate the collection of duties on iasjtorta am  
 tonnage, and for other purposes.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016082:00332895096:1817040801:0438/pct:55.865837001062374,17.22063037249284,17.438154499924117,2.702960840496657/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016082:00332895096:1817040801:0438/pct:55.85735963581184,17.21898577022252,17.439301972685886,2.7050902492598605/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -154,7 +154,7 @@ amend an act, entitled ‘“ an act to regulate
 the collection of dutics on dmports and ton­  
 nage, and for other purposes.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1817042301:0473/pct:5.616382806163828,20.686757113699123,22.26277372262774,3.4337855684956176/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1817042301:0473/pct:5.616382806163828,20.686757113699123,22.26277372262774,3.441789730659943/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

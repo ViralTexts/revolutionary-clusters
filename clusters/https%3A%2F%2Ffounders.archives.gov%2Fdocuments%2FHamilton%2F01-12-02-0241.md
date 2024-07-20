@@ -36,7 +36,7 @@ dize, which shall be liable to seizure by
 virtue of this a&amp;, as well without, as  
 within their refpetive districts
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789091001:0454/pct:51.446330384891226,28.184410646387832,20.870188859670094,6.55893536121673/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789091001:0454/pct:51.46226790979361,28.194972539079004,20.862220097218902,6.55893536121673/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -68,7 +68,7 @@ and place appointed for trial, to be in­
 serted in some public new{paper, nearest  
 the place of seizure, and aifo by postin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789091701:0458/pct:30.11472275334608,50.55519268451992,20.91300191204589,15.169823644676683/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789091701:0458/pct:30.11472275334608,50.55519268451992,20.9289356277884,15.175266710211192/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -87,7 +87,7 @@ orvcflel, goods, wares or merchandise, which (hall beliableto
 fctzu/e by virtue ol this a£t, as well without as within their rc­  
 fpective diftrifts.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790092501:0001/pct:63.1562787841572,23.955267804590935,26.680994780472826,3.0998626643123406/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790092501:0001/pct:63.1716303346638,23.960172650578773,26.688670555726127,3.1047675103001766/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -111,7 +111,7 @@ lhall become forfeited by vntue of this ast, (hall be seized, libel-
 Jed and prosecuted as atorelaid, in the proper court having cog­  
 nizance th&lt;T7*of; which court (hall cause fourteen days notice to b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790100201:0001/pct:8.531090417542806,60.60724779627816,26.34424752177831,6.346718903036239/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790100201:0001/pct:8.553619705617303,60.617042115572964,26.35926704716131,6.361410381978453/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -136,7 +136,7 @@ officer or other person, execcuting or
 aiding and aflifting in the seizure of  
 goods, shall be sued or molested for a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791010101:0724/pct:10.098581389757154,12.694258138393588,20.485693676364512,9.618845084246688/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791010101:0724/pct:10.10659613689188,12.69971099841867,20.49370842349924,9.635203664321937/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -167,7 +167,7 @@ shall be seized, libelled and prosecuted
 as aforefaid, in the proper court having  
 cognizance thereof, which court shal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791010801:0727/pct:6.835564053537285,13.22970067802216,41.27629063097514,79.69240945923599/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791010801:0727/pct:6.8514977692797965,13.22970067802216,41.2842574888464,79.69240945923599/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

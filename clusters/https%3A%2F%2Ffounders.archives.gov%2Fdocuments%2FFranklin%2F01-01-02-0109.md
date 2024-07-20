@@ -432,7 +432,7 @@ Fsor himself, his heirs, executors, adminL
 si&#x27;sirators and asiigns, doth hereby cove­  
 ctnant, promise and agree, to and with th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803031101:0192/pct:5.386454183266932,34.544626593806925,22.54980079681275,6.748633879781421/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803031101:0192/pct:5.38559592096877,34.54148073945907,22.55151901423412,6.751054852320675/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -851,7 +851,7 @@ Much Money to Take Care Of.
 Nancy Anderson, a colored damsel, came  
 into possession of about |350 on March 3, a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_bobbsey_ver02:data:sn86063034:00414181971:1888040801:0312/pct:5.71689497716895,53.06659282846463,16.073059360730593,9.497438737366744/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_bobbsey_ver02:data:sn86063034:00414181971:1888040801:0312/pct:4.435217514390866,41.12660944206009,12.461073888836463,7.367668097281832/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -938,7 +938,7 @@ The first thing to do is to visit
 the Echool which your children attend.  
 Make a point of this, even i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_damsel_ver01:data:sn83025121:00294552406:1895101501:0082/pct:31.322314049586776,17.411627227578148,17.334710743801654,12.82500730353491/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_damsel_ver01:data:sn83025121:00294552406:1895101501:0082/pct:23.496590204587726,13.058720420683612,13.019218846869189,9.62605901256208/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

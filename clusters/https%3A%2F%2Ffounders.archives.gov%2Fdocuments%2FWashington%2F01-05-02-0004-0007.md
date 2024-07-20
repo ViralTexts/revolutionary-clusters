@@ -122,7 +122,7 @@ near the bafon and at Fell’s Point,
 producing a scene of devastation  
 and horror, not to be described
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1788081401:0234/pct:56.42578970142795,76.68154976235057,19.147555170921677,9.246723318450238/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1788081401:0234/pct:56.42578970142795,76.68635076095828,19.147555170921677,9.25632531566566/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -142,7 +142,7 @@ quantities of sugar, rice, salt, dry
 goods and other valuab&#x27;e merchan~  
 dize, were entirely ruined. Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1788081401:0234/pct:56.490696668109045,87.95909549186231,19.21246213760277,5.545153391905516/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1788081401:0234/pct:56.490696668109045,87.95909549186231,19.219674022789558,5.559556387728647/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

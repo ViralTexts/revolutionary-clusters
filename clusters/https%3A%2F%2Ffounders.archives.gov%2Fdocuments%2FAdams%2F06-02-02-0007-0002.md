@@ -702,7 +702,7 @@ all Pennsylvania, and the whole of the coun­
 try west of these States, comprising, and at  
 the time believed to comprise,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_johnhenry_ver01:data:sn84024738:00280777973:1861012401:0084/pct:18.326397146254457,120.07824064284203,37.91617122473246,20.23683654049482/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_johnhenry_ver01:data:sn84024738:00280777973:1861012401:0084/pct:6.108799048751487,40.02608021428068,12.638723741577486,6.745612180164939/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -724,7 +724,7 @@ ernment,&quot; extendsd in breadth from the 40th to
 the 48th degree of noith latitude, arid in length  
 from ihe Atlantic to the Pacific that is to say
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84020712:0029587918A:1861020501:0235/pct:88.14262023217248,45.37066838322068,20.066334991708125,6.576547580731681/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84020712:0029587918A:1861020501:0235/pct:66.14129683395548,34.03068340306834,15.055993363749481,4.935092801201588/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -795,7 +795,7 @@ without the consent or even the know!­
 edge of the couneil. As this grant to  
 the counell extended from the Atlanti
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_dunning_ver01:data:sn84022835:00237285001:1878041801:0712/pct:199.3548387096774,197.36431911577156,55.32258064516129,24.939776108828113/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_dunning_ver01:data:sn84022835:00237285001:1878041801:0712/pct:49.85881403791851,49.34107977894289,13.836224283985478,6.234944027207028/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -860,7 +860,7 @@ endng at a point due north of Pautucket
 Falls, and a straight line drawn from thence,  
 due west, till it mects with His Majesty&#x27;s oth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777079:1885082801:0863/pct:266.75531914893617,219.96946564885496,59.04255319148936,18.3206106870229/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777079:1885082801:0863/pct:66.71840354767184,54.99236641221374,14.767184035476719,4.580152671755725/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -879,7 +879,7 @@ distance of three miles on the north
 side thereof, beginning at the Atlantic  
 ocean and ending at a point due nort
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271769489:1885111901:0514/pct:82.69967177242889,24.445924093978885,14.154814004376368,2.739465423761058/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271769489:1885111901:0514/pct:82.70423048869438,24.445924093978885,14.150255288110868,2.739465423761058/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -899,7 +899,7 @@ side thereof, beginning at the Atlantic
 ocean and ending at a point due north  
 from Pawtucket Falls (now Lowel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_jane_ver01:data:sn86086770:00271768837:1885111901:1245/pct:83.68794326241135,24.136496046608407,14.205256570713392,3.343043417949785/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_jane_ver01:data:sn86086770:00271768837:1885111901:1245/pct:83.7018495341399,24.136496046608407,14.191350298984842,3.347667267767143/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1097,7 +1097,7 @@ the jurisdiction of that province; and being situated on the west side
 of the Connecticut, it was supposed that New Hampshire extended as  
 far westward as Massachusett; that is, to a line twenty miles cast o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jamaica_ver01:data:sn93063557:00280777894:1897100101:0750/pct:28.94033837934105,205.37056928034372,118.34372217275155,48.795458032837196/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jamaica_ver01:data:sn93063557:00280777894:1897100101:0750/pct:7.239919803965249,51.34264232008593,29.605702829137893,12.198864508209299/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

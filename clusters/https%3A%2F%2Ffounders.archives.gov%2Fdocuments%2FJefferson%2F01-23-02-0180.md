@@ -336,7 +336,7 @@ Since the alliance so happily concluded
 between the King my master and theUnited  
 States, you have taken too intimate a par
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1782060801:0160/pct:10.478845523122335,69.66839378238342,26.877664808133815,6.290155440414508/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1782060801:0160/pct:10.484311796217339,69.66839378238342,26.883131081228818,6.297063903281519/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -744,7 +744,7 @@ thing in said alls, resolves, or partsof
 aéls, to the contrafy therecf in any wife  
 votwithitanding. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1788051501:0189/pct:6.853582554517134,44.02323448486701,19.581664441477525,15.041271782329563/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1788051501:0189/pct:6.86841714879098,44.0283297666361,19.58908173861445,15.041271782329563/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1942,7 +1942,7 @@ in the constitution or laws of any state to
 the contrary notwithstanding.—Surely then  
 the treaty is now law in this state, and th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797051701:0002/pct:77.42009657392504,59.955621301775146,15.543803173143251,5.84319526627219/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797051701:0002/pct:77.4258450218441,59.96301775147929,15.538054725224189,5.850591715976331/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2078,7 +2078,7 @@ jects. * * Audit is also heveby
 earnestly recommended to tho several  
 States to reconsider and rev&#x27;.se al
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_alexiavalentine_ver01:data:sn84027008:00294551669:1866122701:0300/pct:49.38341870612787,5.076000557802259,16.315689622462532,6.512341374982569/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_alexiavalentine_ver01:data:sn84027008:00294551669:1866122701:0300/pct:49.38974261683425,5.076000557802259,16.315689622462532,6.526286431460047/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2103,7 +2103,7 @@ mended to tlic several States to rceon­
 &#x27; siderand revise all their nets and laws  
 j regarding the premises, so as to rende
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_dragonair_ver01:data:sn89051370:00414212578:1867020201:0184/pct:17.51143292682927,10.417775412453432,14.138719512195122,5.561468866418307/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_dragonair_ver01:data:sn89051370:00414212578:1867020201:0184/pct:17.508096780339113,10.416389517094586,14.140788721661268,5.564054809099375/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2128,7 +2128,7 @@ the blessings of peace, should univer-
   
 lly prevail.&quot; The same policy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867020501:0112/pct:92.96636085626912,332.9181689063695,38.042813455657495,13.547470774609417/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867020501:0112/pct:23.24159021406728,83.22954222659237,9.510703363914374,3.3868676936523543/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2156,7 +2156,7 @@ blessings of peace, should universally
 prevail.&quot; The same policy was pur­  
 sued by Washington in the instanc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_icydrop_ver05:data:sn83016739:00295877534:1867020901:0632/pct:73.30938292476755,47.34842729068531,17.413355874894336,8.72207871144203/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_icydrop_ver05:data:sn83016739:00295877534:1867020901:0632/pct:55.02220342567139,35.51132046801398,13.06830196658913,6.5491566631211064/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2193,7 +2193,7 @@ with that SCI HIT OS&#x27; CONCILIATION WHICH ON THE
 IIETCItN OK THE BLESSINGS OK PEACE SHOCI.U I’M­  
 VEIISAI.LX niEVAIL
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn82014998:00279558017:1867030201:0039/pct:32.4477436999414,22.371671699149054,14.651299081851924,5.846829536096624/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn82014998:00279558017:1867030201:0039/pct:32.462394999023246,22.371671699149054,14.656182848212541,5.850260774087291/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2212,7 +2212,7 @@ hereby earnestly recommended to
 the several States to reconsider and  
 revise all their acts and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eagle_ver01:data:sn84022278:00200296539:1867030901:0583/pct:338.5577630610743,94.21579532814238,44.66519499632082,10.622914349276975/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eagle_ver01:data:sn84022278:00200296539:1867030901:0583/pct:84.65501379944803,23.553948832035594,11.168353265869365,2.6557285873192438/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2293,7 +2293,7 @@ August, 1877, a permanent committee of five
 was appointed “ to consider the state of the  
 money and finances of the United States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_north_ver02:data:sn84031492:no_reel:1880022801:0009/pct:14.499066583696328,73.65434749271584,13.316739265712508,7.130808158257936/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_north_ver02:data:sn84031492:no_reel:1880022801:0009/pct:14.504252229827836,73.66201502836988,13.327110557975523,7.1384756939119764/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

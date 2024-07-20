@@ -74,7 +74,7 @@ discretion they were to judge,and in the integrity
 of that judgment, I had the most perfect confi­  
 dence
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183992:1826032401:0391/pct:32.538167938931295,4.634898055950687,30.10496183206107,91.2873399715505/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183992:1826032401:0391/pct:32.53299411671172,4.634348702145313,30.105475168283245,91.28047094148789/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -189,7 +189,7 @@ of that judgment, I had the most perfect confi­
 dence.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826033101:0220/pct:61.459353574926546,68.07127647652135,17.091087169441725,23.265717807912136/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826033101:0220/pct:61.449322670148526,68.0636485880771,17.093738099124096,23.266845958464067/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -302,7 +302,7 @@ integrity of that judgment, I had the
 most perfect confidence.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn84024505:00542866962:1826040401:0412/pct:56.16524097642395,3.3146591970121384,25.203421656582517,92.71708683473389/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn84024505:00542866962:1826040401:0412/pct:56.15352523988319,3.3141434572895596,25.203379224030037,92.70655049011981/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -420,7 +420,7 @@ ol that juCjjfm-nt, I had the most perfect
 Confidence.  
 “Toe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1826040601:0061/pct:74.32663531423685,46.668556847178905,17.336468576314665,33.11596257442586/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1826040601:0061/pct:74.31075016029067,46.66194188518781,17.338106432998504,33.11481218993622/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -512,7 +512,7 @@ sitions to need any assurance that in nil cases respect­
 ing myself, whatever yon do, is done from the most&#x27;  
 friendly motives.”—The other letter bears date
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1832101201:0183/pct:2.855954526549286,52.332568556757344,14.986829335921254,2.949852507374631/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1832101201:0183/pct:2.8555586359855836,52.32685164955211,14.98937251640329,2.953171655378341/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

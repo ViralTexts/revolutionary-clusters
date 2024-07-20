@@ -256,7 +256,7 @@ it had its birth in the Cabinet of France, and was put into
 this artjul dress to give it a readier currency.&quot;  
 Mrv. FRAMPTON&#x27;S INTRODUCTION TO A ROYA
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1847103001:0716/pct:51.46174290110505,23.273054026732563,15.820394460763744,20.566101314163767/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1847103001:0716/pct:51.46174290110505,23.280542139353777,15.825057117545578,20.566101314163767/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -284,7 +284,7 @@ France would engross the whole trade of Newfoundland
 whenever she pleased, and thus secure  
 the finest nursery of seamen in the world.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014166:00415661459:1853072701:0092/pct:3.72108615487764,51.44832518774586,19.46027489104928,8.475384431994279/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014166:00415661459:1853072701:0092/pct:3.7322605877751704,51.45229864505106,19.46027489104928,8.479357889299479/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

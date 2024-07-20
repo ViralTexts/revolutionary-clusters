@@ -148,7 +148,7 @@ lutties, charrges, or fees, on the patt which
 hey shall relade and carry away.&quot;  
 All these portions of the treaty with
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn84026897:00237288336:1841031101:0432/pct:23.794871794871796,50.01718409898041,14.324786324786325,9.130484591591248/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn84026897:00237288336:1841031101:0432/pct:23.794871794871796,50.01718409898041,14.347578347578347,9.130484591591248/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -187,7 +187,7 @@ any part of the cargo be unloaded, tliey shall pay no duties I
 ufcustoin, churges.oi fees, ou the part&quot;which they shall re- I  
 Iliad and cany away, except such ns arc payable in the like 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661150:1847042401:0406/pct:78.86938315348688,20.460168233547748,16.65324528909647,6.1603166749134095/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661150:1847042401:0406/pct:78.86938315348688,20.468414976084446,16.66398239115263,6.1603166749134095/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -255,7 +255,7 @@ whole of any part of the cargo be unloaded, they
 shall pay no duties of custom, charges, or fees,  
 on the part which they shall reload and carr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023296:00200296102:1848092101:0429/pct:66.69557675628795,294.4361311386206,60.450997398091936,32.15888994694599/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023296:00200296102:1848092101:0429/pct:16.68474723367325,73.60903278465516,15.122586244304621,8.039722486736498/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -284,7 +284,7 @@ whole or any part of the cargo be unloaded, they
 sltall pay uo duties of (Alstom, charges, or fees, on  
 their pat! which they shall reload and carry away
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82007022:00393342894:1848102401:0383/pct:15.139993086761148,53.811536888040365,13.03145523677843,6.8866766671212325/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82007022:00393342894:1848102401:0383/pct:15.137376879212027,53.80419961821653,13.033523414549853,6.889146441232615/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -355,7 +355,7 @@ loaded, no duties of custom, charges, or fees on
 such cargo as may be carried away shall be  
 paid, except such as are payable in like cas
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_continental_ver02:data:sn82014760:00237288804:1861101201:0963/pct:73.88475836431226,189.63261197785607,57.15613382899628,48.78376111390706/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_continental_ver02:data:sn82014760:00237288804:1861101201:0963/pct:18.484073471285747,47.40815299446402,14.299000232504069,12.195940278476765/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -386,7 +386,7 @@ of her cargo should be unloaded, no duties ot cus­
 tom. charges, or tecs on Mich cargo as may be car­  
 ried aw ay shall be paid, except such as are pay
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172182:1861103001:0660/pct:22.661581694098757,15.920993565763878,15.756724207145725,7.586413287445758/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172182:1861103001:0660/pct:17.56287269898885,12.346347120216468,12.2219341457091,5.8793969849246235/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -472,7 +472,7 @@ other to discharge the re
   
 sels in such cases, so long as this lib-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn82014140:00279529467:1861103101:0043/pct:121.94712077078198,116.90440904038533,65.81895585928747,126.87106335679881/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn82014140:00279529467:1861103101:0043/pct:40.64904025692733,38.968136346795106,21.939651953095826,42.29035445226627/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -533,7 +533,7 @@ quire shall render it neeary that the whole or
 uny part of her cargo should be unloaded no duties  
 of custom charges or fees ,oa such cargo as may b 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_lee_ver01:data:sn84020109:00212470685:1863061101:0120/pct:39.03365906623235,103.17011314865393,17.38599348534202,8.798283261802576/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_lee_ver01:data:sn84020109:00212470685:1863061101:0120/pct:29.279218134926023,77.38002341006633,13.044658612732455,6.603589543503706/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -611,7 +611,7 @@ the other, the respective citisen. shall reoeive the
 greatt st possible aid, a well for themselves as for  
 their vessel, and effects. All possible aid shall be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn84022367:0041562833A:1863110501:0730/pct:81.18049615055602,32.34493625555078,19.097519247219847,5.199828104856038/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn84022367:0041562833A:1863110501:0730/pct:60.92445966188744,24.265864489328177,14.33768457093944,3.896289929809483/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -632,7 +632,7 @@ citizens shall receive the greatest possible aid
 as well for themselves as for their vessels and  
 effects. All possible aid shall be given t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291049:1863121901:0671/pct:19.333829549683664,27.441665502305437,14.700409378489022,4.079921754925248/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291049:1863121901:0671/pct:19.338481577967993,27.44515858599972,14.705061406773353,4.090401006008104/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -668,7 +668,7 @@ laden and kept in a place of deposit destined for
 the reception of goods, the duties on which have  
 not bceu paid, the cargo shall be liable to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn85042146:00296022822:1866112901:0434/pct:56.72900061312078,18.94321960832615,34.1814837522992,104.88976474935338/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn85042146:00296022822:1866112901:0434/pct:42.56363078810181,14.213573100135484,25.651640601042626,78.66732356201503/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

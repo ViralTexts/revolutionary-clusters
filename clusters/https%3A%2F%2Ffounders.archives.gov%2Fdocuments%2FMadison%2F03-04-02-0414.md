@@ -49,7 +49,7 @@ Orders in Council; whenever it does cessc, ;t
 will cease because there will be no adequate  
 force applied to maintain it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216146:1811111101:0394/pct:51.93510224776069,28.59106529209622,22.122697312827448,4.0942562592047125/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216146:1811111101:0394/pct:51.92632646164245,28.588258393873943,22.124591641320265,4.09712677531252/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -68,7 +68,7 @@ of a revocation of theprder&#x27;s in cnuiifil; whenever
 it does cease, it will cease because there will be no  
 adequate force applied to maintain it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811111301:0827/pct:51.863207547169814,44.465408805031444,19.858490566037737,2.9245283018867925/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811111301:0827/pct:51.85097854279651,44.45841848765917,19.85970290025937,2.9279987423361105/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -87,7 +87,7 @@ the Orders in Council; whenever it does cease
 it will cease because there will be no Adequate  
 force applied to maintain it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811111401:0372/pct:26.62078956899674,51.58730158730159,16.859833393697937,2.55863539445629/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811111401:0372/pct:26.61596958174905,51.58119151960204,16.86281610235983,2.562280390066722/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

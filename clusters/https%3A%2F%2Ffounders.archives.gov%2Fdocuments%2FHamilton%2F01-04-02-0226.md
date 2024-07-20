@@ -63,7 +63,7 @@ the &quot;application of the public force&quot; against the enen
 then the right to levy them belongs most manifestly  
 the President
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661150:1847042301:0401/pct:37.612790881747664,84.36030685473892,14.785499445939529,9.502598366740905/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661150:1847042301:0401/pct:37.618067648145214,84.36855563804339,14.785499445939529,9.502598366740905/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -95,7 +95,7 @@ sngth; and the power of directing and employing the
 onion strength, (onus an usual and essential part in litinitKin  
 of the executive authority.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661150:1847082101:0809/pct:84.20305848967365,70.21647175914407,16.64827368752956,8.994774819606867/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661150:1847082101:0809/pct:84.20305848967365,70.22476569627602,16.66403909821851,8.994774819606867/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -110,7 +110,7 @@ of the executive authority.
 t; in of war most peculiarly demands those qualities which  
 distinguish die exercise of power by a single hand. Unit) \
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661150:1847082101:0810/pct:1.355611601513241,7.118141374196737,16.156998738965953,1.1492832427088482/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661150:1847082101:0810/pct:1.366120218579235,7.122260668973472,16.151744430432956,1.1575218322623166/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -292,7 +292,7 @@ or one ot Its branolies, ior the purpose of obtaining
 its sanotion, would frequently b the occasion of  
 letting slip the golden opportunity.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_ewing_ver01:data:sn83025925:00280776191:1866112201:0602/pct:8.598726114649681,38.65686138476481,19.002123142250532,8.158734563618705/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_ewing_ver01:data:sn83025925:00280776191:1866112201:0602/pct:6.461320587714639,28.99958373803247,14.250309789343246,6.119050922714028/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -458,7 +458,7 @@ tunity.&quot;On the basis of the expressions thus ital­
 icised, the Times proceeds to argue that tho  
 President has no power to grant an amnest
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879117:1866112901:0632/pct:93.67669556348801,4.550389892409436,35.21162672106068,122.58414766558089/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879117:1866112901:0632/pct:70.27543993879112,3.4152600927845227,26.421831165519,91.93564307570823/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -496,7 +496,7 @@ After a debate in which several of the most
 eminent members participated, the amend­  
 ment was lost, only two States (Virginia an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879117:1866112901:0632/pct:111.67771545130036,28.309150133254366,17.312595614482408,15.35879972362057/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879117:1866112901:0632/pct:83.7796480489671,21.231862599940776,12.994134149451671,11.519099792715428/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -569,7 +569,7 @@ mayometimes be fatal.&quot; &quot;
 This great authority would seem to  
 eonclude that .the thirteenth section o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038521:00200293344:1866120701:0556/pct:51.31278538812786,73.92857142857143,18.43607305936073,16.613756613756614/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038521:00200293344:1866120701:0556/pct:38.51132686084142,55.44973544973545,13.839710641538169,12.46031746031746/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -612,7 +612,7 @@ may sometimes be fatal.&quot;
 This great authority would seem to  
 conclude that the thirteenth sectio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_alexiavalentine_ver01:data:sn84027008:00294551669:1866121101:0244/pct:34.343434343434346,6.518082422203532,16.180321735877293,19.189795346229324/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_alexiavalentine_ver01:data:sn84027008:00294551669:1866121101:0244/pct:34.34966953485472,6.52742734323895,16.180321735877293,19.19446780674703/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -645,7 +645,7 @@ restore tranquility, would beot no avail-; lor
 the dilatory process of convening the l-:-gis  
 lature would allow the opportunity to pas
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033306:00212470107:1866121501:0446/pct:42.806150466776494,50.09378792894185,16.85886875343218,5.682445106476884/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033306:00212470107:1866121501:0446/pct:32.1202966218072,37.57034094670639,12.64762427904422,4.270109235352532/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -714,7 +714,7 @@ when a well-timed offer of pardon to the
 insurgents or Rebels may restore thctran­  
 quillity of the commonwealth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038521:00200293368:1867090801:0238/pct:7.940663176265271,7.6073887856596345,29.49389179755672,119.7726527489343/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038521:00200293368:1867090801:0238/pct:5.963636363636364,5.705541589244726,22.123636363636365,89.83495463985135/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -743,7 +743,7 @@ answered in the first place, that it is questiona?
 ble whether in a limited constitutor! that power  
 could bo delegated by law.&quot; In speaking o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_brandonblaze_ver01:data:sn84026994:00294555237:1867091001:0763/pct:29.801437863745292,65.00541711809318,13.882232112290312,8.221981461418082/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_brandonblaze_ver01:data:sn84026994:00294555237:1867091001:0763/pct:29.80714367225836,65.00942979816219,13.893643729316445,8.230006821556117/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -766,7 +766,7 @@ gents or rebels, may restore the tranquility of
 week, a day, an hour, may sometimes be  
 fatal.&quot; &quot; If it should be observed&quot; he goes o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_brandonblaze_ver01:data:sn84026994:00294555262:1867091002:0030/pct:29.625258188256122,65.02463054187191,13.720861611094719,4.850322091701402/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_brandonblaze_ver01:data:sn84026994:00294555262:1867091002:0030/pct:29.625258188256122,65.03094606542882,13.725779482639913,4.8471643299229505/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -786,7 +786,7 @@ answered in the first place, that it is questiona?
 ble whether in a limited constituion that power  
 L&#x27;ould be delegated by law.&quot; In speaking o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_brandonblaze_ver01:data:sn84026994:00294555262:1867091002:0030/pct:29.64001180289171,69.84653277756726,13.720861611094719,3.2682834406972336/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_brandonblaze_ver01:data:sn84026994:00294555262:1867091002:0030/pct:29.64001180289171,69.85284830112417,13.725779482639913,3.2682834406972336/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -957,7 +957,7 @@ often critical moments when a well-timed offer of pardon
 to the insurgents or rebels may restore the tranquillity  
 of the commonwealth.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_delphi_ver02:data:sn83030214:0020653087A:1867092101:0152/pct:54.36774587660354,250.4715946479491,46.93036041539401,8.927396358850626/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_delphi_ver02:data:sn83030214:0020653087A:1867092101:0152/pct:18.122581958867848,83.49053154931637,15.643453471798004,2.9757987862835416/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1176,7 +1176,7 @@ tion of tho then sovereign Stales. These
 &#x27; sovereign authorities, by their Constitu­  
 l lions, lodged this power absolutely in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn84026840:00202192488:1869010401:0027/pct:18.41176470588235,74.924578527063,16.294117647058822,10.559006211180124/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn84026840:00202192488:1869010401:0027/pct:18.433823529411764,74.92901508429459,16.28676470588235,10.57231588287489/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1348,7 +1348,7 @@ rebels may rpatore the tranquillity of tbe
 Cotamgnwealtb; and which, if suffered  
 to pass onimproyed, it may cever b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn85033673:00280779374:1869011501:0049/pct:25.602660016625105,42.453917050691246,16.83291770573566,36.9815668202765/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn85033673:00280779374:1869011501:0049/pct:19.20598628143837,31.840437788018434,12.637705258781958,27.736175115207374/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1531,7 +1531,7 @@ to be construed into an argument of
 timidity or of weakness, and would have  
 a tendency to embolden guilt.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293435:1871022401:0189/pct:26.514678326046223,6.517867743084412,28.326046221111806,120.6221061379556/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293435:1871022401:0189/pct:19.900031240237425,4.891368870948593,21.243361449547017,90.4665796034667/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1622,7 +1622,7 @@ men&#x27; The force of that conclusion is
 much augmented if it be conceded  
 that the one man is conscientious
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_beveridge_ver01:data:sn82015679:00295870497:1892010201:0024/pct:40.42714657415438,110.63365505665128,16.045099739809192,5.791019723038187/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_beveridge_ver01:data:sn82015679:00295870497:1892010201:0024/pct:30.329646497505966,82.97943768359211,12.036434612882237,4.339068401174989/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

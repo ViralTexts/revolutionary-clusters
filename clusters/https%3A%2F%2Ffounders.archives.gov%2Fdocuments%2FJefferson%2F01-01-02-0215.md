@@ -89,7 +89,7 @@ to impair tbe credit of the said bills by
 raising the nominal value of gold and sil­  
 ver, or any other species ot money wbats
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_chekhov_ver01:data:sn86092517:00415660601:1864121501:0520/pct:2.041141763674055,36.94404591104735,16.50454472970818,9.551137528182004/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_chekhov_ver01:data:sn86092517:00415660601:1864121501:0520/pct:2.0517727103598578,36.95087791214046,16.49922925636528,9.547721527635444/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -114,7 +114,7 @@ lars; and tbat whoever shall offer, ask or]
 receive more in the said bills, or in the  
 bills of credit emitted by authority of thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_chekhov_ver01:data:sn86092517:00415660601:1864121501:0520/pct:2.0730346037314624,46.11600737856118,16.50454472970818,6.26152900184464/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_chekhov_ver01:data:sn86092517:00415660601:1864121501:0520/pct:2.0730346037314624,46.1228393796543,16.509860203051083,6.258113001298081/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -215,7 +215,7 @@ nicious urtilloes of tho enemies of American liberty to
 impair tho credit of tho said bills, by raising tho  
 nominal value of gold and silver, or any other specie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fullerton_ver02:data:sn84031492:no_reel:1874031401:0004/pct:56.994082840236686,30.55855855855856,13.088757396449704,4.036036036036036/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fullerton_ver02:data:sn84031492:no_reel:1874031401:0004/pct:57.0,30.55855855855856,13.088757396449704,4.045045045045045/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

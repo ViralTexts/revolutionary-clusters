@@ -34,7 +34,7 @@ whole on the bill for an amicable settlement
 thorizing the eftablifhuent of a government  
 in the Miffiilippi Territory ; when a debat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798032101:0002/pct:77.40984350192788,25.34206695778748,15.785892492628713,2.3726346433770016/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798032101:0002/pct:77.42118394193695,25.34206695778748,15.774552052619642,2.3726346433770016/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -65,7 +65,7 @@ faidvommiflioners on the part of the United
 States, or any two of them, after such fet­  
 tle men t with the state of Georgia (hall b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1800042301:0003/pct:22.598140495867767,63.91682290778933,16.425619834710744,10.65280381796489/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1800042301:0003/pct:22.604597107438018,63.91682290778933,16.438533057851238,10.669848304073632/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -118,7 +118,7 @@ i
 _TH: JEFFE-RSON.  
 ss April 26th, 1802. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802051101:0065/pct:1.5087223008015087,2.9079900926520503,44.16155901304416,94.57847903862032/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802051101:0065/pct:1.508485229415462,2.907723353513117,44.15985753195056,94.57286124870055/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -176,7 +176,7 @@ legiflature.
 Th : JEFFERSON.  
 April 20th, 1802
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804121501:0272/pct:4.636614535418583,38.03327911922933,17.939282428702853,13.561866633304142/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804121501:0272/pct:4.635761589403973,38.028521391043284,17.942114299730193,13.564339921607873/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -198,7 +198,7 @@ mils with the state of Georgia,” and au­
 hmising the establishment ot a government  
 n the Mississippi territory in ohedVncc t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1813011601:0319/pct:77.01149425287356,78.09780610368918,17.908787541713014,4.473587449442333/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1813011601:0319/pct:76.99721964782206,78.08823529411765,17.91164658634538,4.477124183006536/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -258,7 +258,7 @@ Attorney General of the U. S. commission
 ers appointed in pursuance of the act, en­  
 titled &quot; An Act tor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1813020901:0360/pct:41.23864268496199,39.43264153260469,17.467086964583718,4.359572639076507/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1813020901:0360/pct:41.23099740452354,39.42779960707269,17.47002842664689,4.363130320890635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -317,7 +317,7 @@ and upright men. He appointed James Madison, then Sec­
 retary of State; Albert Gallatin, Secretary of t!u Treasury;  
 and Levi Lincoln, Attorney General. Cannot we now f.n
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566431A:1850073001:0442/pct:20.58139534883721,44.075199392328145,15.828488372093023,4.434105582985188/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566431A:1850073001:0442/pct:20.59108527131783,44.07836434991771,15.818798449612403,4.440435498164325/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -337,7 +337,7 @@ He appointed James Madison, then Secretary of State;
 Albert Gallatin, Secretary of the Treasury ; and Levi Lin­  
 coln, then Attorney General. There was no difficulty in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1850080301:0302/pct:52.79242731575389,56.2181502764827,15.321162947937795,3.1768405074270847/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1850080301:0302/pct:52.79242731575389,56.221764429505946,15.32567049808429,3.1804546604503234/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

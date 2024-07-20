@@ -69,7 +69,7 @@ Your very humble and very obedient
 * servaut,  
 (Signed) Fran. De Miranda
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806052801:1135/pct:73.06002928257686,71.71588188347965,21.083455344070277,15.546687948922585/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806052801:1135/pct:73.04220541595511,71.70443664219597,21.084410831910223,15.548196616661347/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -126,7 +126,7 @@ And very obedient servant
 (Signed) ,  
 FHAN. DE MIRANDA
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1806052901:0572/pct:52.88333333333333,3.3825220390954387,46.083333333333336,91.83595247221157/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1806052901:0572/pct:52.87452091318114,3.382197949602376,46.081208687440984,91.83034716233911/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -162,7 +162,7 @@ Renews its fimfhed courfe ; Saturnian times
 Roll round again, and mighty years began  
 From this firft orb, in radiant circle* ran
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1806053001:0026/pct:41.137974913652066,3.873884883294635,34.52099618251227,91.45790052547966/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1806053001:0026/pct:41.13049800072701,3.8734115347018574,34.52078032230704,91.45079830563702/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -205,7 +205,7 @@ Your very humble
 And very obedient Servant,  
 (Signed) FRAN. DE MIRANDA
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806053001:0185/pct:40.671217292377705,38.78749202297384,17.95601061812666,18.123803446075303/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806053001:0185/pct:40.66350710900474,38.782542113323125,17.958925750394943,18.12574442742896/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -573,7 +573,7 @@ gun,
 From their first orbit in radiant circles  
 run
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_daisy_ver01:data:sn87065532:00295878812:1888101201:0775/pct:189.08649959579628,163.6071793375164,49.47453516572352,22.471910112359552/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_daisy_ver01:data:sn87065532:00295878812:1888101201:0775/pct:47.30030333670374,40.9017948343791,12.37613751263903,5.617977528089888/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

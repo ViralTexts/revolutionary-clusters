@@ -73,7 +73,7 @@ representatives in convention. This is more rational,
 tlmu the jus fvrtioris, or the cannon’s mouth, the ulti­  
 ma el sola folio regum 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1821071701:0085/pct:17.234179248313524,19.96678135010084,14.857051076132349,24.522481907699607/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1821071701:0085/pct:17.23141159466838,19.964412811387902,14.860018200310476,24.523527085804666/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -165,7 +165,7 @@ states for the attempts to defend thuir rights?
 hut that it is against the attempts to infringe  
 their rights, that he most emphatically level
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1821072701:0097/pct:17.265954000647877,2.7072152653548,15.079365079365079,4.889683959451402/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1821072701:0097/pct:17.263157894736842,2.706892439780587,15.082321187584345,4.893075761189284/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -212,7 +212,7 @@ ploye rspt a era Wy ar-tirbltJ by their representa­
 tives in convention.&quot;  
 But “ s.iv (adds tin* Intelligencer) that th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1821080301:0105/pct:64.74203461103025,3.389830508474576,15.02506873685913,7.018381475292433/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1821080301:0105/pct:64.73156532988357,3.389425945816923,15.028029322984045,7.021522059116044/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -246,7 +246,7 @@ distinct departments, the leading characters
 “ have appointed for each a distinct set of  
 “ iiniclionaries.” Now we leave it to the de
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1821081001:0112/pct:37.24554707379135,45.64708635619003,15.060432569974555,5.253919962555582/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1821081001:0112/pct:37.23962474161234,45.64174564174564,15.063338103567075,5.257205257205257/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -291,7 +291,7 @@ to neither, but to their EMPt.oVERS [i. e. the UF.O­
 in Convention.&quot;  
 Now this opinion of the rage of Montirello obvious
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1821083101:0137/pct:48.223431498079385,66.99751861042184,14.820742637644047,4.915514592933948/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1821083101:0137/pct:48.21571451432229,66.98960302457466,14.823705126153518,4.918872085696282/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -404,7 +404,7 @@ and compromise, and not of encroachment
 and usurpation, (to both parties as) the healing  
 oalin ot suclijaconstitution,” fcte.—awl-presse
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1821090401:0141/pct:18.280427500398787,48.32956842230413,14.898707927899187,7.59719415051718/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1821090401:0141/pct:18.27751196172249,48.32382310984308,14.901648059542797,7.60025360595974/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -432,7 +432,7 @@ tionaries, authoritatively as a standing instruction and true
 exposition of our Constitution, as understood at the time we  
 agreed to itSAMI.. OAKY
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1822010801:0302/pct:36.22072505614373,45.78836227123416,15.33525826114854,5.126701079305491/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1822010801:0302/pct:36.214915797915,45.78299120234604,15.338144881047848,5.130009775171065/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -460,7 +460,7 @@ tmr.aries, authoritatively as a standing ins,ruction ami true
 exposition of our Constitution, as understood at the time we  
 agreed to It.” SAMI.. CARY
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1822012401:0328/pct:83.31743002544529,85.18475210477081,14.996819338422393,5.180074836295604/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1822012401:0328/pct:83.30418190491334,85.1747924704782,14.999734987014364,5.183366460111462/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -480,7 +480,7 @@ agreed to It.” SAMI.. CARY
 • wh it belongs to itself, or its co-parcenor in gov­  
 eminent;” (lint “ in ditlercnces of opinion betwee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1828081501:0120/pct:82.56939961265333,17.75723376155601,15.380890897353131,2.89350462240365/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1828081501:0120/pct:82.5560755204131,17.755102040816325,15.38378785433812,2.897158863545418/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -578,7 +578,7 @@ i.ii.il lirn-sy to 5iippo«o that either our State Govern­
 ment* are supetior to the Federal, or the Federal to  
 the Sate; neither is authorised literally to decid
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830022301:0310/pct:4.086432456269293,27.996772706316275,15.125679847126268,1.855693868142001/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830022301:0310/pct:4.085831863609641,27.993546156505705,15.12835586909661,1.8593215781183974/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -598,7 +598,7 @@ he expressed himself m this emphatic manner: “It is
 to the Srtitc; neither is authorised literally to decido  
 which belongs to itself or its copartner in govern
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022601:0196/pct:41.977881070684404,35.62180781565507,18.079820484051933,3.3733222472977786/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022601:0196/pct:41.97115384615385,35.61757719714964,18.082264957264957,3.376880443388757/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -616,7 +616,7 @@ a lain! heresy to suppose that either our Slutc &quot;o­
 verumen!s are superior to the Federal, or the Federal  
 to the btnte; ntith.r is authorised literally to decid
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830022601:0080/pct:41.05833598979917,33.99383009017561,17.91520561045585,2.313716184148078/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830022601:0080/pct:41.05179282868526,33.989797128959545,17.91766268260292,2.3173962905840946/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -634,7 +634,7 @@ eut sets ot public servants the appeal is to neither, but
 to tnc.r employers peaceably assembled by their re­  
 prcscnlaiivts in convention.” The opinion of Mr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830022601:0080/pct:41.3292955052598,36.68723303274798,17.62830729996812,2.3018509729473187/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830022601:0080/pct:41.322709163346616,36.6828805314984,17.630810092961486,2.3055324870486813/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -781,7 +781,7 @@ ments are superiour to the Federal, or the j
 Federal to the State ; neither, is authorized  
 literally to decide which belongs to itself o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83020243:00517172194:1830031601:0333/pct:55.0556586270872,15.91452270490651,20.89517625231911,6.05932799100239/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83020243:00517172194:1830031601:0333/pct:42.679127725856695,12.337473668918427,16.193386053199138,4.699644076414614/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -801,7 +801,7 @@ but to their employers peaceably assembled
 by their representatives in convention.”  
 The opinion of Mr. Jefferson on this subject
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83020243:00517172194:1830031601:0333/pct:55.032467532467535,21.87543933642626,20.918367346938776,5.243919583860537/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83020243:00517172194:1830031601:0333/pct:42.65516415049125,16.953584658967095,16.21734962856458,4.06769811868962/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -824,7 +824,7 @@ lic s&lt; rvante, the appeal is to neither, hut to their em­
 ploy* rs peaceably assembled by their representa’ives in  
 Convention.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830031901:0337/pct:65.68988366956266,34.03766651355076,15.12295685466058,3.99632521819017/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830031901:0337/pct:65.68021201413427,34.03375818119187,15.125638005496663,3.9996938033451985/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -872,7 +872,7 @@ their employers peaceably assembled hv
 their representatives in Convention.”  
 The opinion of Mr. Jefferson on thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn87062070:0039334295A:1830042101:0018/pct:57.97356828193833,33.4096417990843,18.215859030837006,9.412873687045515/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn87062070:0039334295A:1830042101:0018/pct:57.960801585553845,33.405143395718326,18.219188137708286,9.416094430232036/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -946,7 +946,7 @@ convention. This is more rational, than the jus
 fortioris, or the cannon’s mouth, the wltima et  
 sola ratio regum.’”’ s 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1830071301:0319/pct:62.98208320680231,56.613972463029064,16.246583662314,30.402855685874552/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1830071301:0319/pct:62.98208320680231,56.6173720890702,16.26176738536289,30.402855685874552/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1017,7 +1017,7 @@ their representatives in Convention. This is more ration­
 al than the jus fortioris ; or the cannon&#x27;s mouth, the ul­  
 tima et sola ratio reguni.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1833020701:0347/pct:18.809220760854192,9.63363495917016,15.202941592419743,5.82652836018539/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1833020701:0347/pct:18.806561085972852,9.632571996027805,15.205505279034691,5.829563426385671/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1104,7 +1104,7 @@ tween the different acts of public servants,
 the appeal is to neither,&quot; but to the people rep­  
 resented in Convention assembled. Hut in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn82005159:00296028447:1864050601:0638/pct:21.40510092317321,49.45852671664882,14.426537318103582,3.2488397001071045/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn82005159:00296028447:1864050601:0638/pct:21.415532258905753,49.45852671664882,14.436968653836123,3.2567733745884406/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1122,7 +1122,7 @@ It is a fatal heresy to suppose that either our State
 Governments are superior to the Federal, or the Federal  
 to the State&#x27;s.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_lorca_ver01:data:sn83030272:00206533109:1888102101:0609/pct:283.34612432847274,135.32641854789506,50.65234075211051,6.162294081757169/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_lorca_ver01:data:sn83030272:00206533109:1888102101:0609/pct:70.8637236084453,33.831604636973765,12.667946257197697,1.5405735204392923/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1140,7 +1140,7 @@ either our State Governments are 1
 superior to the Federal, or the Fed­  
 eral to the State&#x27;s.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_neely_ver01:data:sn85059778:00340582135:1888102601:0356/pct:71.12676056338029,61.85681200281945,12.32394366197183,2.819454234216091/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_neely_ver01:data:sn85059778:00340582135:1888102601:0356/pct:71.1167441205464,61.85058397100282,12.326902314228043,2.82252651362599/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1158,7 +1158,7 @@ either our State Governments are sup­
 erior to the Federal, or the Federal to  
 the State&#x27;s.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn90061417:00294559966:1888110901:0609/pct:111.08771929824562,206.3052367761509,43.228070175438596,8.020050125313283/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn90061417:00294559966:1888110901:0609/pct:27.781677781677782,51.57630919403773,10.81081081081081,2.0050125313283207/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1176,7 +1176,7 @@ a tatal heresy to suppose that either our
 State governments are superior to the Fed-­  
 eral or the Federal to the State&#x27;s&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_heart_ver01:data:sn85038614:00175030979:1888111601:0570/pct:47.187039764359355,253.2284597984783,34.889543446244474,5.089450956199877/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_heart_ver01:data:sn85038614:00175030979:1888111601:0570/pct:15.72901325478645,84.40948659949277,11.629847815414825,1.6964836520666255/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1193,7 +1193,7 @@ It is a fatal heresy to suppose that either
 our State Governments are superior to the  
 Federal, or the Federal to the State s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn84024448:0029602076A:1888111801:1219/pct:180.95975232198143,229.87229317046086,50.0,7.551360355358135/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn84024448:0029602076A:1888111801:1219/pct:45.24869363266886,57.468073292615216,12.50241919876137,1.8878400888395337/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1213,7 +1213,7 @@ It Is 1 fatal heresy to suppose that either our
 State Governments aro superior to the Fed­  
 eral or the Federal to the State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_borges_ver01:data:sn83030272:00175044851:1889070401:0630/pct:0.0,277.49733921240687,62.93375394321767,14.246616998631595/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_borges_ver01:data:sn83030272:00175044851:1889070401:0630/pct:0.0,69.37433480310172,15.733438485804417,3.5616542496578987/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1230,7 +1230,7 @@ It is a fatal heresy to suppose that either our
 state governments are superior to the federal ,or the  
 leaerai to toe slates
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ingstad_ver01:data:sn84028296:00296029154:1889071101:0394/pct:51.101618705035975,64.58302906382357,18.72751798561151,1.8694318679713744/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ingstad_ver01:data:sn84028296:00296029154:1889071101:0394/pct:38.34045423881268,48.444574266101945,14.054418709242185,1.4020739009785308/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1253,7 +1253,7 @@ are superior to the Federal, or the
 Federal to the State.  
 The press is tbe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ozzyosbourne_ver01:data:sn85026941:00175032381:1889071901:0317/pct:45.23407521105142,26.98517298187809,10.66768994627782,4.909390444810544/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ozzyosbourne_ver01:data:sn85026941:00175032381:1889071901:0317/pct:45.23407521105142,26.98517298187809,10.677922742389358,4.916712429068277/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1271,7 +1271,7 @@ State Governments are superior to the Federal
 or the Federal to the State  
 The press is
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175045181:1895012301:0288/pct:278.89908256880733,121.60146140965139,51.223241590214066,15.649261683665703/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175045181:1895012301:0288/pct:69.72477064220183,30.400365352412848,12.805810397553516,3.9123154209164257/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

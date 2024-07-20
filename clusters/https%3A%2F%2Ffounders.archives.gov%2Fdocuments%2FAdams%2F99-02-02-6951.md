@@ -117,7 +117,7 @@ Charles the Second, intituled, An A&amp; for the En­
 coursgement of the Greenland and Eastland Trades ;  
 and for the better securing the Plantation Trade 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015064:1764062901:0242/pct:44.20309530274233,30.132391879964697,34.10263372250883,11.774051191526919/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015064:1764062901:0242/pct:44.21214589555616,30.132391879964697,34.120734908136484,11.785819358634892/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -223,7 +223,7 @@ English navigstion, and the loss of a great part of the
 p!mmion trade; to this kingdom, by the artifice &amp; cun­  
 ning of ill disposed persons ; For REMEDY WHEREOF
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015076:1768012901:0017/pct:35.353753235547885,44.442873303167424,27.610008628127698,4.4400452488687785/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015076:1768012901:0017/pct:35.36094334196146,44.447586726998495,27.617198734541272,4.435331825037707/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -274,7 +274,7 @@ Charles the Second, intitled Au art for the encou­
 ragement of the Greenland and Eallland Trades,  
 and for the better securing the plantation trade
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1774051201:0585/pct:83.60655737704919,42.25961538461539,35.47643442622951,5.464743589743589/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1774051201:0585/pct:64.8094229751191,32.759263092527426,27.48147167813658,4.226868143241565/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -294,7 +294,7 @@ cond, irtitled An aét for the Encouragement
 of the Greenland and Egftland trades, and for  
 the better securing the plantation trade ; an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774052001:0252/pct:66.32054176072235,51.287711552612215,27.674943566591423,6.37233259749816/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774052001:0252/pct:66.33559066967645,51.287711552612215,27.689992475545523,6.377238165317635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -601,7 +601,7 @@ art to allow the trade between Ireland
 ;in America and the West Indus, snd  
 the British settlements on the coast o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805111801:0002/pct:59.87835097995044,18.84386511759705,19.71164676728993,12.170586568432984/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805111801:0002/pct:59.88586017871893,18.853310664021915,19.719155966058423,12.180032114857845/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -699,7 +699,7 @@ duties and visitations, searches, penal­
 ties and forfeitures, as any ships and  
 thoir Landings, and any commandor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kikideville_ver02:data:sn93067760:00211109907:1894010901:0267/pct:5.804287589324778,64.37570303712036,12.979437071605659,5.343082114735658/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kikideville_ver02:data:sn93067760:00211109907:1894010901:0267/pct:5.814010014097516,64.37945256842895,12.989159496378397,5.343082114735658/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

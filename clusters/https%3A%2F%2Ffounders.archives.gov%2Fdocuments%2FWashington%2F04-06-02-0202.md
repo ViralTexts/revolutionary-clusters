@@ -371,7 +371,7 @@ P&#x27;f»-»&#x27;ot.. by our lolly or perverseness •
 With sentiments ot thn purest attachment  
 *&#x27;&quot;1 ‘’sfeein, I have the honor lo lie my dear
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183955:1821010201:0294/pct:35.031116934163116,1.6458433445458913,14.88699639698657,34.91110043248438/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183955:1821010201:0294/pct:35.025380710659896,1.6456456456456456,14.890016920473773,34.910910910910914/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -542,7 +542,7 @@ The Treasurer of the American
 Board of Commissioners for Foreign  
 Missions has received the box of let
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021200:00517172133:1821040401:0020/pct:33.05537737866153,2.7076575941334085,45.15715202052598,120.18051050627557/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021200:00517172133:1821040401:0020/pct:25.622756144711406,2.0984371015337535,34.995857497928746,93.14729134030384/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -607,7 +607,7 @@ Acntei runt&#x27;., into a national system ol
 uucauoii, i and placing the cultivators  
 ol the soil and their instruction and ex
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898012:1822083101:0294/pct:1.8115942028985508,27.380554627464083,18.348861283643892,20.063481456732376/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898012:1822083101:0294/pct:1.8111254851228977,27.375981292801068,18.35058214747736,20.064305996325373/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1427,7 +1427,7 @@ expresses it, the nations learn war no more.”
 The New Yoik Gazette thus whimsically dlos  
 trates the mode by which certain jurymen try th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216481:1833072601:0064/pct:24.519813116456135,7.150782887436814,17.75393666724347,16.027616816668722/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216481:1833072601:0064/pct:24.515570934256054,7.149901380670611,17.75663206459054,16.02975016436555/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1916,13 +1916,13 @@ men ; and tlmt they look upon them as a kind
 of asylum for mankind, God grant that we may  
 nol disappoint their honest expeclations nY ou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153267:1845123101:0592/pct:57.47201249674564,49.71921797004992,12.431658422285864,4.523710482529118/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153267:1845123101:0592/pct:57.48069079232839,49.71921797004992,12.422980126703116,4.537576261785913/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The American review : a Whig journal of politics, literature, art, and science_](https://archive.org/details/sim_american-whig-review_1847-04_5_4/page/n23/mode/1up?view=theater)
+## [From _The American Review: a Whig Journal Devoted to Politics and Literature (1848-1850)_](https://archive.org/details/sim_american-whig-review_1847-04_5_4/page/n23/mode/1up?view=theater)
 
 #### 1847-04-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -2002,7 +2002,7 @@ us a kind ol asylum lor mankind (?od ?r ml that we may
 not disappoint their honest expectations by our folly or  
 perversenras
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850082401:0938/pct:63.76409083483091,10.65460484985551,15.994118608070577,4.535745696695565/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850082401:0938/pct:63.774982301366876,10.662981111529923,15.983227141534607,4.535745696695565/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2044,7 +2044,7 @@ upon them as a kind of atylum Jor n unkind. God giant
 that we may not disappoint their honest expectations by  
 our folly or perverseness I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855053101:0625/pct:34.83870967741935,15.635261429653953,16.112489660876758,2.9552917403384695/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855053101:0625/pct:34.84973807554453,15.643681064241813,16.106975461814173,2.959501557632399/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2064,7 +2064,7 @@ tions, and that they look apon it as a kind of asylum for
 mankind. God grant that we may not disappoint their  
 honest expeotuttons by our fotly or perverseness
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743221:1855113001:1231/pct:100.84599447513813,138.1054131054131,46.68508287292818,7.894112060778728/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743221:1855113001:1231/pct:33.61533149171271,46.035137701804366,15.561694290976058,2.6313706869262425/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2374,7 +2374,7 @@ Receipt for Making Every Day Happy.
 Rev. Sydney Smith said :?When you arise in  
 the morning form the resolution to make th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ellis_ver01:data:sn85025007:00415663638:1868070901:0239/pct:1.7249876786594383,57.14046402546277,18.1123706259241,18.49401122372058/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ellis_ver01:data:sn85025007:00415663638:1868070901:0239/pct:1.729094792180056,57.14604796604964,18.1123706259241,18.49401122372058/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2504,7 +2504,7 @@ Jo^ge McAdam, of New York, has
 decided that a newspoper has no right  
 to publish pictures of persons withou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:0023728737A:1894030701:0044/pct:2.7245835279464425,26.68656080144943,17.390627432663866,11.883193008632633/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:0023728737A:1894030701:0044/pct:2.7297732108568167,26.68656080144943,17.39581711557424,11.890298056769335/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2555,7 +2555,7 @@ France--for his whole lifetime
 And here is another, to Francis Hopkinson  
 who had asked him to sit for his portrait, t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175042854:1896022301:0725/pct:174.90692479523454,51.57750342935528,49.51600893521966,56.02804450541076/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175042854:1896022301:0725/pct:43.726731198808636,12.89437585733882,12.379002233804915,14.00701112635269/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2607,7 +2607,7 @@ France--for his whole lifetime
 And here is another, to Francis Honkinson  
 who had asked him to sit for his portrait, t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175042854:1896022301:0726/pct:171.47169811320754,51.55015197568389,50.264150943396224,55.80547112462006/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175042854:1896022301:0726/pct:42.88410721026803,12.887537993920972,12.570781426953568,13.951367781155016/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2647,7 +2647,7 @@ iI am glad of it, with ,all my heart anu
 ypr—atleast with usjiR ^nier^ca—I fenow not  
 yooj, manage mattere in. E^rapicfr—fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_betelgeuse_ver01:data:sn90059959:0027174285A:1896031401:0124/pct:1.4222873900293256,73.51080078551168,15.073313782991203,11.869954178485708/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_betelgeuse_ver01:data:sn90059959:0027174285A:1896031401:0124/pct:1.4320625610948192,73.51443741363008,15.078201368523949,11.866317550367299/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2775,7 +2775,7 @@ of agriculture and the humanizing bene­
 fit of commerce will supersede the waste  
 of war and the rage of conquest
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_kryptonite_ver01:data:sn86069180:00100481790:1899022501:0163/pct:42.72037572254335,106.20851769911505,16.329479768786126,4.535398230088496/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_kryptonite_ver01:data:sn86069180:00100481790:1899022501:0163/pct:32.056378749548244,79.65984513274336,12.251535959522949,3.4015486725663715/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

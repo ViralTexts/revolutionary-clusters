@@ -250,7 +250,7 @@ obliged to buv butter for bison n ta­
 ble.  
 He built the finest barn in Vir
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_lyle_ver01:data:sn86092472:00514157790:1883041101:0903/pct:57.053376906318086,8.099794941900205,36.84640522875817,87.50854408749146/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_lyle_ver01:data:sn86092472:00514157790:1883041101:0903/pct:57.037843724475906,8.098411071245515,36.84317996188402,87.49786434307192/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -300,7 +300,7 @@ the owner of one hundred and two cow
 and yet was obl ged to buy butter for  
 his own table. He built the finest bar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn90061416:00294559954:1883052501:1000/pct:144.1067457375834,165.11595992864005,48.776871756856934,66.96857417318512/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn90061416:00294559954:1883052501:1000/pct:36.03336422613531,41.27898998216001,12.196478220574607,16.74214354329628/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -469,7 +469,7 @@ hoen is at your service and wead pesen
 maet sesuly end mods devoutly to asnS  
 but Is m sesmiandr seqsa e to o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pug_ver01:data:sn83045462:00280654863:1892100101:0185/pct:62.039800995024876,37.84,12.371475953565506,43.48/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pug_ver01:data:sn83045462:00280654863:1892100101:0185/pct:62.039800995024876,37.85,12.388059701492537,43.483333333333334/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -687,7 +687,7 @@ ness and serenity of mind which, in my opinion,
 you ought uow to prefer to every other considera­  
 tion in life.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ike_ver01:data:sn82016187:00211102329:1892112401:0436/pct:39.85372340425532,101.01959216313475,16.78191489361702,17.802878848460615/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ike_ver01:data:sn82016187:00211102329:1892112401:0436/pct:29.905547425834776,75.76969212315073,12.598110948516695,13.354658136745302/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -747,7 +747,7 @@ calmness and serenity of mind, which, in
 my opinion, you ought now to prefer to  
 every other consideratich in life.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_heart_ver01:data:sn85038614:00175031078:1892112701:0646/pct:132.06028429525603,115.03807106598985,41.394074327795856,42.11082910321489/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_heart_ver01:data:sn85038614:00175031078:1892112701:0646/pct:44.02009476508535,38.34602368866328,13.798024775931951,14.036943034404963/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

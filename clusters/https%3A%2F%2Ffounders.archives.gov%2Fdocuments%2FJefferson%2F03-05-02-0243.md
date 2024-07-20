@@ -34,7 +34,7 @@ for the future” should lie painted
 on our banners.—Thomas Jeffer­  
 son.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_abolitionist_ver02:data:sn86074033:00199916270:1898030501:0897/pct:4.532360284232763,55.02652890254119,15.632801997311311,6.2691985478916505/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_abolitionist_ver02:data:sn86074033:00199916270:1898030501:0897/pct:3.5175630085334393,42.652575385947195,12.120460408811272,4.858606261722695/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -65,7 +65,7 @@ must be done. &quot;Indemnity for the
 past and security for the future&quot;  
 should he painted on our banners.?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_manhattan_ver01:data:sn84020355:00279554875:1898030501:0216/pct:4.761904761904762,9.57645178476292,18.969233784048598,16.848694725626/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_manhattan_ver01:data:sn84020355:00279554875:1898030501:0216/pct:4.771702919851068,9.586441129461907,18.959435626102294,16.84203516249334/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -84,7 +84,7 @@ tion for the past and security for
 the future” should be painted on  
 our banners.—Thomas Jefferson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_eclipse_ver01:data:sn86090500:00513687989:1898030601:0141/pct:31.36672325976231,64.89331836047164,12.818336162988116,3.7198203256597417/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_eclipse_ver01:data:sn86090500:00513687989:1898030601:0141/pct:31.38087153367289,64.90267639902676,12.804187889077532,3.7151413063821823/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -125,7 +125,7 @@ must be done. &#x27;Indemnification for tho
 past and security for the future&#x27; should  
 be painted oh our banners.&quot;?Thoma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_orange_ver01:data:sn85025715:00175031571:1898030901:1182/pct:1.9070321811680573,49.48311509303928,16.22963845848232,11.840110268780151/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_orange_ver01:data:sn85025715:00175031571:1898030901:1182/pct:1.9070321811680573,49.4877096255456,16.249503377036156,11.844704801286468/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -183,7 +183,7 @@ for the past and security for the fu­
 ture” should be painted on our ban­  
 ners.”—Tnowmas Jeflerson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drteeth_ver01:data:sn85034082:00517177325:1898031701:0700/pct:10.106774668630338,56.47801985303597,18.262150220913107,15.830862446822225/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drteeth_ver01:data:sn85034082:00517177325:1898031701:0700/pct:7.842297997812336,43.77060645419123,14.153231559423599,12.272288273886835/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -220,7 +220,7 @@ must be done. “Indemnification for the
 past and security for tbo future” should  
 be painted on our banners.—Thomas Jef
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_furio_ver01:data:sn87068079:00332896507:1898032401:0256/pct:76.80451701510758,88.45780795344326,9.78177933770792,2.3642095053346264/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_furio_ver01:data:sn87068079:00332896507:1898032401:0256/pct:76.79279829111992,88.44708449509031,9.784101312175771,2.366953570129713/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -240,7 +240,7 @@ and security for the future&quot; should be
 painted on our banners. • • • We  
 think It
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_moonstone_ver01:data:sn85042461:00280769782:1898041001:0504/pct:19.942140790742528,15.100378236834448,11.108968177434908,2.705848123363398/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_moonstone_ver01:data:sn85042461:00280769782:1898041001:0504/pct:19.956605593056896,15.104015129473378,11.113789778206364,2.713121908641257/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -259,7 +259,7 @@ must be done. &quot;Indemnification for the
 past and security for the future&quot; should  
 be painted on our banners. Thomas Jef
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_frankenbatch_ver01:data:sn92073232:00295879737:1898041401:0518/pct:51.93775689958896,103.16010369090236,14.415736934820904,3.3699543266263423/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_frankenbatch_ver01:data:sn92073232:00295879737:1898041401:0518/pct:38.97782346893817,77.37316380693741,10.809223087090615,2.5305517837304037/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

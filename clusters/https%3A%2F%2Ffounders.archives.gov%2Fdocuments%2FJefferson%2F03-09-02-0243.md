@@ -1727,7 +1727,7 @@ dor and glory, as elements of happiness:
 &#x27;and looked on all the works that my hands  
 had wrought; and behold,&#x27;—was I a happ
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn83032276:00296028587:1849081801:0065/pct:16.626736942980354,32.479404130459315,14.853857211308098,8.949328518225935/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn83032276:00296028587:1849081801:0065/pct:16.626736942980354,32.48692773577098,14.864505137624448,8.9568521235376/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2100,7 +2100,7 @@ ed me houses : 1 planted mo vineyards ; I
 made me gardens and orchards, and I planted  
 trees iu them of all kinds of fruits ; I mad
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn84038814:00279557207:1861010601:0648/pct:15.227193895248005,83.84429461900521,12.140131807145334,1.7300597888309375/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn84038814:00279557207:1861010601:0648/pct:15.240201179327089,83.8538353898995,12.12712452306625,1.7268795318661747/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2591,7 +2591,7 @@ provinces: I gat me men singers and women
 singers, and the delights of the sons of men,  
 as musical instruments and that of all sorts
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn97064666:00517016056:1870080201:0226/pct:5.353144718094851,69.83248154457695,15.021371870547528,13.188529244747302/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn97064666:00517016056:1870080201:0226/pct:5.352055352055352,69.82256919801277,15.023402523402524,13.190205819730306/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2614,7 +2614,7 @@ hands had wrought, and on the labor that I
 had labored to do: and behold all was van­  
 ity and vexation of spirit, and there was n
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn97064666:00517016056:1870080201:0226/pct:5.210665581111337,84.58262350936968,15.021371870547528,6.005110732538331/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn97064666:00517016056:1870080201:0226/pct:5.2096052096052095,84.57061745919091,15.023402523402524,6.007806955287438/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2636,7 +2636,7 @@ In quem manca ruit semper fortuna.
 And as we leave the monumentar apot let us allitee  
 this last line, as expressing our wish towar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_itchweed_ver01:data:sn83030313:00271743750:1871081601:0470/pct:189.89053444945267,216.6090351366425,52.94591113972955,8.823201338538762/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_itchweed_ver01:data:sn83030313:00271743750:1871081601:0470/pct:63.296844816484224,72.20301171221416,17.648637046576518,2.941067112846254/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2681,7 +2681,7 @@ last line, as expressing our wish towards the statue soon t
 wrought.&quot; These words were spoken by a man  
 marked for his wisdom and insight. He came to 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743804:1872122301:1075/pct:12.631749635154856,203.42017674738895,45.938057402302576,4.820383335246184/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743804:1872122301:1075/pct:4.210583211718285,67.80672558246299,15.312685800767525,1.6067944450820613/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2819,7 +2819,7 @@ on the labor that I had labored to do,
 and, behold, all was vanity and vexation of  
 spirit, and there was no profit under th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743889:1874122801:1122/pct:247.71088378333053,79.0919674039581,46.671138688579575,9.685681024447032/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743889:1874122801:1122/pct:82.57029459444351,26.363989134652698,15.557046229526525,3.2285603414823436/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2846,7 +2846,7 @@ works that my hands had wrought, and on the
 labor that I had labored to do; and, benold, all  
 was vanity and vexation of spirit, and there wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743889:1874122801:1126/pct:9.27662424648359,124.6683732836863,46.45010046885466,15.999534558994647/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743889:1874122801:1126/pct:3.092208082161197,41.55612442789543,15.483366822951552,5.3331781863315495/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2920,7 +2920,7 @@ wrought, and all the labor that I
 had labored to do; and behold, all  
 was vanity and vexation of spirit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_floydcouncil_ver01:data:sn84026909:00237287058:1876020901:0022/pct:74.6289107102078,24.398597406833563,11.87485727335008,26.771589333768247/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_floydcouncil_ver01:data:sn84026909:00237287058:1876020901:0022/pct:74.6289107102078,24.398597406833563,11.882469361345818,26.77702574139009/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3105,7 +3105,7 @@ Fortis; et in seipso totus, teres atque rotundus,
 11. Then I looked on all the works that my hands had  
 wrought, and on the labor that I had labored to do; an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_kobayashi_ver01:data:sn83030272:00175044784:1882031201:0061/pct:129.94732881866065,102.51716247139588,49.510910458991724,3.2951945080091534/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_kobayashi_ver01:data:sn83030272:00175044784:1882031201:0061/pct:32.50517598343685,25.62929061784897,12.38471673254282,0.8237986270022883/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3477,7 +3477,7 @@ of all sorts. Then I looked on all the
 works that my hands had wrought, and behold  
 all was vanity and vexation of spiri
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044851:1885042001:0952/pct:117.61148904006046,337.4567864121449,50.18896447467876,11.724034270254021/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044851:1885042001:0952/pct:29.402872260015116,84.36419660303622,12.54724111866969,2.9310085675635054/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3765,7 +3765,7 @@ remembrance of the wise more than of th
 &quot;Then I saw that wisdom excelleth folly as far  
 as light excelleth darkness.&quot; Ecclesiastes, ii, 13
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn82015679:00271745709:1887050901:0614/pct:27.772435897435898,26.316416487967597,18.541666666666668,1.2032404098165357/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn82015679:00271745709:1887050901:0614/pct:20.836672543676872,19.740290683821776,13.912485975316557,0.9054086252084822/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3806,7 +3806,7 @@ Susan E. Wallace
   
 The truth of the report that Laboucher
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_hotel_ver02:data:sn86064205:00206535635:1888021901:0192/pct:283.9009287925697,294.73460721868366,51.0061919504644,15.626326963906582/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_hotel_ver02:data:sn86064205:00206535635:1888021901:0192/pct:70.98896845364816,73.68365180467092,12.754015869943874,3.9065817409766455/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3856,7 +3856,7 @@ king at Bethlehem And whatsoever
 mine eyes desired I kept not from them  
 I withheld not my heart from any jo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_hotel_ver02:data:sn86088529:00206535635:1888022401:0243/pct:23.898763523956724,93.71444429027335,17.098145285935086,9.435271264048842/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_hotel_ver02:data:sn86088529:00206535635:1888022401:0243/pct:17.932367149758456,70.29277091716386,12.830917874396135,7.072984598307201/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3874,7 +3874,7 @@ desired I kept not from them; I withheld
 not my heart from any joy.”  
 Susan E. Wallace
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_bobbsey_ver02:data:sn86063034:00414181971:1888030101:0005/pct:21.188539087371772,67.96313863667163,15.91793420587195,2.2225233771513757/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_bobbsey_ver02:data:sn86063034:00414181971:1888030101:0005/pct:16.426025769898565,52.678196331046074,12.345791830393859,1.7224478364374738/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3921,7 +3921,7 @@ preashing is only for men. Now I
 frankdy own to forty one, and am not  
 ashamed of it&quot; thless her! she 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_tesla_ver01:data:sn85038614:00175030955:1888030401:0262/pct:5.109379682349416,58.40432162892167,37.14414144441115,19.520049864949097/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_tesla_ver01:data:sn85038614:00175030955:1888030401:0262/pct:1.7031265607831385,19.468107209640557,12.381380481470382,6.506683288316365/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3944,7 +3944,7 @@ mirth, What doeth it?&quot; And he looketh
 upon &quot;the rcan singers and women singers,  
 and the delights of the sons of men,&quot; an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_gary_ver01:data:sn87056600:00202191526:1888030701:0112/pct:7.43801652892562,35.104023656141095,16.088154269972453,5.301510191150069/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_gary_ver01:data:sn87056600:00202191526:1888030701:0112/pct:5.580049600440892,26.328017742105818,12.083218517497933,3.981413031999155/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3970,7 +3970,7 @@ ers and women singers, and the de­
 lights of the sons of men.&quot; and be  
 hold, all is vanity and vexation o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_antares_ver02:data:sn84026824:00271767845:1888040601:0059/pct:51.026940517471324,35.8668653750621,11.749799946652441,6.76602086438152/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_antares_ver02:data:sn84026824:00271767845:1888040601:0059/pct:51.03138614741709,35.87348898824309,11.749799946652441,6.769332670972015/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4011,7 +4011,7 @@ and women singers, and the delights of
 the sons of men,&quot; and behold all is  
 vanity and vexation of spirit, and ther
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_mustang_ver01:data:sn99067997:00415625078:1888062201:0646/pct:49.09353110836424,51.05702364394993,18.026370004120313,8.414464534075105/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_mustang_ver01:data:sn99067997:00415625078:1888062201:0646/pct:39.27923968576608,40.84486147683863,14.4206998846344,6.731446797463191/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4037,7 +4037,7 @@ women singers, and the delights of
 the sons of men,&quot; and behold, all is  
 vanity and vexation of spirit, and ther
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_bowbells_ver01:data:sn84024779:00295863705:1888090601:0673/pct:100.69854916711445,60.60443250503694,15.565108364678489,7.602417730020147/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_bowbells_ver01:data:sn84024779:00295863705:1888090601:0673/pct:80.5645777607948,48.48311185930728,12.466564768819259,6.081879723485798/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4085,7 +4085,7 @@ a Bible off his table and read aloud:
 kept not from them, I withheld not my  
 heart from any joy; and, be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84038582:00212471586:1890032201:0151/pct:196.52722967640094,25.18032786885246,58.011049723756905,31.37049180327869/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84038582:00212471586:1890032201:0151/pct:49.1609081934847,6.295081967213115,14.511352418558737,7.842622950819672/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4122,7 +4122,7 @@ snowy white in chariot decked with
 gold, drawn by eight horses, high met­  
 tled and housings as brilliant as i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_middlebury_ver01:data:sn84022871:0020219641A:1890110301:0173/pct:20.013262599469495,19.8377438671045,14.761273209549072,7.996909406992467/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_middlebury_ver01:data:sn84022871:0020219641A:1890110301:0173/pct:15.019238423776038,14.883136951902646,11.078678519304763,5.99768205524435/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4188,7 +4188,7 @@ planted me vineyards, I made me gar­
 dens and orchards, and planted treea in  
 them of all kinds of fruits; 1 made m
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_americanrobin_ver01:data:2010270509:00517013894:1890110601:0373/pct:6.04370060437006,18.32107843137255,15.271966527196653,4.013480392156863/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_americanrobin_ver01:data:2010270509:00517013894:1890110601:0373/pct:6.042296072507553,18.31827232347986,15.274227283290728,4.016694746515546/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4217,7 +4217,7 @@ snowy white in chariot decked with gold,
 drawn by eight horses, high mettled and  
 housings as brilliant as if scolloped ou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ingstad_ver01:data:sn84028296:00296029166:1890110601:0084/pct:49.75620567375886,18.773448773448774,18.59485815602837,9.63924963924964/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ingstad_ver01:data:sn84028296:00296029166:1890110601:0084/pct:37.33096874307249,14.083694083694084,13.943693194413655,7.229437229437229/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4249,7 +4249,7 @@ white in chariot docked with gold drawn
 eight horses high mettled ana  
 uslngs as brilliant as if scolloped ou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_india_ver02:data:sn86088529:00206536627:1890110601:0634/pct:22.690763052208837,28.669590643274855,17.59036144578313,12.631578947368421/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_india_ver02:data:sn86088529:00206536627:1890110601:0634/pct:17.034953796705505,21.505847953216374,13.198071514664523,9.484649122807017/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4276,7 +4276,7 @@ snowy white in chariot decked with
 gold, drawn by eight horses, high met­  
 tled and housings as brilliant as i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jay_ver01:data:sn97067613:00202197292:1890110601:0498/pct:22.075320512820515,86.23604638560745,12.433226495726496,7.651457678552076/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jay_ver01:data:sn97067613:00202197292:1890110601:0498/pct:16.566466265865063,64.67974422889347,9.325317301269205,5.7440121382898015/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4312,7 +4312,7 @@ snowy white in chariot decked with
 gold, drawn, by eight horses, high met­  
 tled, and housings as brilliant as i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_douglas_ver01:data:sn84029671:00212473273:1890110701:0028/pct:7.306273062730627,16.201019153048673,14.243542435424354,7.327358987875593/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_douglas_ver01:data:sn84029671:00212473273:1890110701:0028/pct:5.482739523721617,12.159550166930241,10.688573010891638,5.499912141978562/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4340,7 +4340,7 @@ me houses, I planted me vineyards, I made
 me gardens and orchards, and planted trees  
 tn them of all kinds of {enuts; I made m
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_fleshgolem_ver02:data:sn92063989:00514153589:1890110801:0265/pct:52.21039705280393,10.359212050984937,10.857552189930413,1.8308227114716107/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_fleshgolem_ver02:data:sn92063989:00514153589:1890110801:0265/pct:52.2138081593669,10.364362044547445,10.86437440305635,1.8256727179091026/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4358,7 +4358,7 @@ me houses, I planted me vineyards, I made
 me gardens and orchards, and planted trees  
 in them of all kinds of f mi its; l made m
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059533:00393349104:1890110801:0180/pct:35.19014461703267,7.5719822812846065,9.766113194072487,1.4673311184939093/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059533:00393349104:1890110801:0180/pct:35.18386290610496,7.570934256055363,9.768832559800071,1.4705882352941178/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4390,7 +4390,7 @@ drawn by eight horses, high mettled,
 and housings as brilliant as if scollop­  
 ed out of that very sunrise, and lik
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_andersonpink_ver02:data:sn86063760:00294550781:1890111201:0185/pct:2.8292682926829267,16.505927265420937,12.348432055749129,8.479003415712276/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_andersonpink_ver02:data:sn86063760:00294550781:1890111201:0185/pct:2.8292682926829267,16.505927265420937,12.357723577235772,8.489049628290134/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4410,7 +4410,7 @@ me houses, I planted me vineyards, I made
 me gardens and orchards, and planted trees  
 in them of all kinds of fruits 1 made m
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_goshen_ver01:data:sn83016758:00280767980:1890111301:0135/pct:32.90218270008084,13.041059307889173,14.017784963621665,2.6148881718037167/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_goshen_ver01:data:sn83016758:00280767980:1890111301:0135/pct:32.912961465912154,13.048477430362375,14.017784963621665,2.6185972330403176/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4442,7 +4442,7 @@ drawn by eight horses, high mettled,
 and housings as brilliant as if scollop­  
 ed out of that very 3unrise. and lik
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_ettabaker_ver02:data:sn84026913:00237288099:1890111301:0170/pct:9.095935858446227,54.606126914660834,40.14376555156207,26.783369803063458/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_ettabaker_ver02:data:sn84026913:00237288099:1890111301:0170/pct:3.0319786194820755,18.202042304886945,13.381255183854023,8.927789934354486/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4706,7 +4706,7 @@ There was nothing in it. One of our
 own poets complains in this way:  
 The sails re Bee on the ocea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_beatles_ver01:data:sn84027718:00271763566:1895081501:0372/pct:23.224043715846996,24.475524475524477,14.207650273224044,4.916958041958042/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_beatles_ver01:data:sn84027718:00271763566:1895081501:0372/pct:17.42279311287237,18.356643356643357,10.67231484012025,3.6931818181818183/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4799,7 +4799,7 @@ withheld not my heart frmo any joy.
 hands had wrought, and behold all was  
 vanity and a striving after wind&quot; . (Eccl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_douglas_ver01:data:sn96076998:00415669422:1896111201:0063/pct:124.62707974756168,34.73448973076514,18.602983362019508,7.800361817601362/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_douglas_ver01:data:sn96076998:00415669422:1896111201:0063/pct:83.11334289813486,23.15632648717676,12.410329985652798,5.203788443120144/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4817,7 +4817,7 @@ fnm all my labor. Then I looked on all
 the works that my hands had wrought, and  
 em the lalor that I had labored to elo; an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665647:1897022101:0554/pct:21.891952983725137,76.94404224512392,16.557414104882458,1.9078443062771484/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665647:1897022101:0554/pct:16.423646433819375,57.71229026488374,12.422290041822087,1.4308832297078613/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4833,7 +4833,7 @@ em the lalor that I had labored to elo; an
 Hear him: “Then I looked on all the  
 works that my hands had wrought, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016172:1897061001:0512/pct:14.73384030418251,53.38912133891213,11.273764258555133,0.9483960948396095/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016172:1897061001:0512/pct:14.731039726287777,53.38167619578859,11.276373313058354,0.9517501045879235/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

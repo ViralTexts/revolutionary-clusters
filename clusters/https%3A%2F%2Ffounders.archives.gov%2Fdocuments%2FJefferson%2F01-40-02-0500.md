@@ -166,7 +166,7 @@ this letter of general credit for you with
 my own hand and signed it with my  
 name. - Thomas Jefferson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_ibis_ver01:data:sn85042448:00200298743:1892100501:0328/pct:64.62829736211032,56.96570728720147,19.344524380495603,62.5535823637477/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_ibis_ver01:data:sn85042448:00200298743:1892100501:0328/pct:48.50059976009596,42.728107777097364,14.514194322271091,46.92284139620331/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -296,7 +296,7 @@ general credit for you with my own hand,
 and signed it with my name.  
 &quot;PI JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_grace_ver02:data:sn83045604:00202199343:1895070401:0120/pct:11.086669599648042,134.32587194169705,38.31940167179938,60.65590838105154/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_grace_ver02:data:sn83045604:00202199343:1895070401:0120/pct:3.6955565332160143,44.775290647232346,12.773133890599794,20.218636127017177/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -411,7 +411,7 @@ iea
 aunmino  
 SoRE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kiss_ver01:data:sn85038614:00175031182:1895071901:0142/pct:47.628116343490305,127.46071133167908,43.022853185595565,58.419000354484226/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kiss_ver01:data:sn85038614:00175031182:1895071901:0142/pct:15.876038781163436,42.48690377722636,14.340951061865189,19.47300011816141/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -433,7 +433,7 @@ ppen
 ted a required toI  
 you in whatsoever may be necessar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kiss_ver01:data:sn85038614:00175031182:1895071901:0142/pct:90.32202216066482,6.888810114616566,41.17036011080332,9.89010989010989/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kiss_ver01:data:sn85038614:00175031182:1895071901:0142/pct:30.107340720221607,2.296270038205522,13.723453370267775,3.2967032967032965/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -521,7 +521,7 @@ general credit for you with my own hand
 and signed It with my name.  
 TH. JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_havanese_ver01:data:sn83045462:00280655016:1895080701:0305/pct:56.23873422791909,22.2972972972973,14.440216302823954,26.02102102102102/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_havanese_ver01:data:sn83045462:00280655016:1895080701:0305/pct:56.24374123773283,22.304804804804803,14.450230322451432,26.02852852852853/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -583,7 +583,7 @@ ter of general credit for you with my own
 hand, and signed it with my name.  
 &quot;TH: JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665568:1895090401:0048/pct:91.80778032036613,50.29641721797405,16.704805491990847,23.326746284045022/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665568:1895090401:0048/pct:68.87947808172142,37.72660881519031,12.532906031818703,17.49291176217888/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

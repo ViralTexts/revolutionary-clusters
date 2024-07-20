@@ -43,7 +43,7 @@ and especially the port of Carthag aia, to
 ers in amity with his majesty! under the  
 j regulations, and subject to the dutieshere
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1816111401:0226/pct:34.15711947626841,39.62192336970312,15.237315875613747,6.457751839634611/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1816111401:0226/pct:34.15153002781869,39.61689712038564,15.2402770959472,6.461161148462937/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -125,7 +125,7 @@ nions, and that comports with his inte­
 rest*.  
 f rcnc^ my respect*, &amp;c. and pra
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216237:1818022701:0505/pct:2.7420736932305054,35.59344262295082,17.373607540702658,19.42295081967213/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216237:1818022701:0505/pct:2.741486399657314,35.58877524259113,17.37702577282787,19.424774892910218/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -169,7 +169,7 @@ minions, and that comport* with his in­
 tt routs.  
 i renew my respects, iVc. ami pray Go
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:0041418392A:1818022801:0354/pct:3.4062447821005177,47.17741935483871,15.26131240607781,16.006842619745846/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:0041418392A:1818022801:0354/pct:3.4056761268781304,47.17165546731827,15.264329437952142,16.008959478721238/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

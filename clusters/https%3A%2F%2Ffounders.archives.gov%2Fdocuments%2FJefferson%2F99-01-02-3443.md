@@ -57,7 +57,7 @@ kame time, to permit no ad&#x27;
 post to be taken, nor armed men to re­  
 main, within it. In consequence of these 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806032401:0002/pct:2.6681367144432193,51.86520593537651,18.98566703417861,8.292885868811538/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806032401:0002/pct:2.6754869533259833,51.86520593537651,19.000367511944138,8.302131003559376/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -116,7 +116,7 @@ which &#x27;sihcy accodmgzv did
 l&#x27;havc xhought &quot;it prnpcr&#x27;to communicate  
 A) uD-ugrd&#x27;da lhr 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1806032501:0349/pct:47.52039151712887,32.034011655679755,23.507340946166394,24.07566638005159/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1806032501:0349/pct:47.512640678519,32.030951471150175,23.50894361985538,24.076550757865242/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -161,7 +161,7 @@ vifion for its (ecurity, as, in their wifdom, they
 Cull deem fufficient.  
 TH: JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1806032801:0406/pct:4.4619422572178475,0.539568345323741,36.014248218972625,95.19527235354573/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1806032801:0406/pct:4.4611059044048735,0.5394990366088632,36.013745704467354,95.18732605437808/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -205,7 +205,7 @@ enabled to make sucli provision for its security, as
 in their wisdom they shall deem sufficient.  
 Tu : JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806033101:1035/pct:54.43873807776963,2.1634615384615383,42.65101491807288,93.86217948717949/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806033101:1035/pct:54.42542787286064,2.1631148854350264,42.64669926650367,93.85114564973561/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -256,7 +256,7 @@ btc.iriiy. as. in their wisdom,, they shall
 . deem sufficient*  
 Tfl : JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806040101:0115/pct:4.917719096823574,33.90625,19.154228855721392,23.763020833333332/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806040101:0115/pct:4.916778266692175,33.90183569847676,19.156941521586635,23.764266805537474/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -393,7 +393,7 @@ such provisions for its security as in their
 wisdom they shall deem sufficient.  
 THOMAS JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_arbok_ver04:data:sn82003383:00295875045:1846062701:0524/pct:18.073453608247423,28.793418647166362,37.2583762886598,50.251371115173676/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_arbok_ver04:data:sn82003383:00295875045:1846062701:0524/pct:6.024484536082475,9.597806215722121,12.419458762886597,16.750457038391225/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

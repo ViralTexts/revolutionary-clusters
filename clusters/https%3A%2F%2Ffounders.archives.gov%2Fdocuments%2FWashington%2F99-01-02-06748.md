@@ -159,7 +159,7 @@ persons applying for permission to go to the
 enemy. One volume.  
 6. Proceedings and opinions of Councils of War
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021389:00340588022:1827052601:0056/pct:20.452626245566627,46.38820638820639,14.490795473737544,11.01965601965602/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021389:00340588022:1827052601:0056/pct:20.452626245566627,46.39230139230139,14.49642515340877,11.027846027846028/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -239,7 +239,7 @@ emy. One vol.
 G. Proceedings and opinions of Councils of War, and  
 opinions of the Genera! Officers respecting th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184558:1827060101:0131/pct:60.58196851645731,29.041453854377004,17.665765622515504,13.992160589143603/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184558:1827060101:0131/pct:60.57233704292528,29.038004750593824,17.668256491785904,13.9944576405384/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -281,7 +281,7 @@ mission to go to the enemy. One volume. &#x27;.
 b. Procceumgs and opinions of Councils of ।  
 n ar, and opinions of the General Officer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021206:00517171955:1827060601:0403/pct:82.49211356466877,41.58680947012402,19.242902208201894,18.010146561443065/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021206:00517171955:1827060601:0403/pct:63.9350106957319,32.23387214212902,14.91799938881532,13.965341488277268/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

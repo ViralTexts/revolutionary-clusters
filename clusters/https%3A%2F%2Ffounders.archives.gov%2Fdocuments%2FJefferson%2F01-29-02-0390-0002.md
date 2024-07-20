@@ -198,7 +198,7 @@ the attorney general, or such other per­
 sons as the house of assembly shall ap­  
 point, according to the laws of the land.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805080901:0002/pct:4.966471081307628,22.382671480144403,18.378038558256495,10.522797165396444/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805080901:0002/pct:4.980441464096116,22.382671480144403,18.385023749650742,10.527254089227615/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -219,7 +219,7 @@ endangered, shall be impeachable by the House of
 Delegate*.” From this clause he contended that  
 the hignedient of crime was not the only found
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183992:1826022501:0355/pct:34.39228702386597,22.19712281536084,14.730519993677888,3.6856497443823564/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183992:1826022501:0355/pct:34.38685208596713,22.194484070375655,14.733459755583649,3.6891741955935964/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -240,7 +240,7 @@ t or oilier means, shall be impeached by the House
 j of Delegates : such impeachment to be prosecuted  
 j
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184017:1828030401:0413/pct:19.572158365261814,20.83082480433474,15.421455938697317,3.3473810957254666/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184017:1828030401:0413/pct:19.56903431763767,20.828316879364316,15.424314977387603,3.350991251304278/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -269,7 +269,7 @@ House must concur in such vote, and the cause
 uf removal shall be entered on the Journals of  
 rach. The Judges against whom the legisla
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216420:1829102401:0084/pct:24.42273534635879,74.5381927109336,18.383658969804618,9.52321517723415/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216420:1829102401:0084/pct:24.418398153081156,74.52889055285162,18.38631385781093,9.52618661341986/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -313,7 +313,7 @@ each House must concur in ouch vote, and
 Journal# of each- The Judge# against whom  
 l the legislature is about to proceed, sh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1829102901:0183/pct:36.06663781912592,3.886628314858987,36.69407183037646,89.75726111968571/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1829102901:0183/pct:36.05883625351503,3.8860830527497194,36.691542288557216,89.74817620650954/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -334,7 +334,7 @@ office, and any Judge so impeached shall bo suspend­
 ed from exercising the functions of Ins office until his  
 acquittal,or until the impeachment shall he dischn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184315:1829122901:0421/pct:4.7807503561817315,71.37822070977151,17.76159569415862,3.816237238697132/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184315:1829122901:0421/pct:4.7799936688825575,71.36954672499697,17.764060356652948,3.8198241989711184/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -403,7 +403,7 @@ ahull not extern! further llieu to removal from
 oilieo, and dis«|nalificiilion to holil and enjoy tuir  
 ollico of honor, trust or profi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830010801:0120/pct:36.380510440835266,5.2288316653547735,30.162412993039442,85.06690655571798/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830010801:0120/pct:36.374884008660686,5.228243759838093,30.16290339210228,85.06108987332284/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -436,7 +436,7 @@ fore the Senato, which shall have the sole power to
 try all impeachments. When sitting for that pur­  
 pose, tho Senate shall be on oath or affirmation: an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012301:0082/pct:60.40290088638195,18.750736593989394,18.14665592264303,4.832056570418385/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012301:0082/pct:60.39316790203029,18.74852698562338,18.149103018584167,4.83541519365229/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -457,7 +457,7 @@ other high crimo or misdemeanor, shall bo ini­
 pouchabic by the House of Delegates ; such im­  
 peachment to he prosecuted.before tho Senate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830020501:0135/pct:64.30893050611361,29.050472459091957,14.316669246246711,3.399400783590689/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830020501:0135/pct:64.29897864438254,29.047125244843876,14.319612091199835,3.4028497906824904/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -478,7 +478,7 @@ misdemeanor, shall bo impeachable by the House of
 Delegates; such impeachment to be prosecuted be­  
 fore tiie Senate, which shall have the sole power t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021701:0166/pct:59.33416303671437,15.233270499528746,17.081518357187306,3.7582469368520264/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021701:0166/pct:59.324933893296006,15.231476027800683,17.0840462487686,3.7617308673970236/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -502,7 +502,7 @@ foro the Senate, which feliall have the eole power to
 try oil impeachments. When silting for that pur­  
 pose, the Senate shall be on oath or affirmation: nn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022501:0194/pct:60.454914703493095,68.57849487692852,18.034118602761982,4.875750794959369/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022501:0194/pct:60.44509421702404,68.57041921808761,18.036603855317306,4.879101899827289/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -523,7 +523,7 @@ misdemeanor, shall be impcnrhable by the IIouso of
 Delegates; such impeachment to be prosecuted be­  
 fore the Senate, which shall have the sole power t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030301:0214/pct:60.39941548952752,69.12759643916914,18.038642636791685,3.691394658753709/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030301:0214/pct:60.38961038961039,69.11939235699028,18.041125541125542,3.6949125721971674/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -543,7 +543,7 @@ misdemeanor, shall he impeachable by the House of
 Delegates; such impeachment to bo prosecuted be­  
 fore the Senate, which shall have the sole power t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030501:0222/pct:60.74918566775244,69.55333808505583,18.15960912052117,3.421240199572345/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030501:0222/pct:60.73929327471096,69.54507661242428,18.162080008684796,3.4247931266579563/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -564,7 +564,7 @@ placed in the exercise of their functions, under the direc­
 tion and coercion of either the other departments of Go­  
 vernment, nml one
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1833011201:0303/pct:49.860685427695735,78.39965019676433,15.143494009473391,3.3777874945343243/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1833011201:0303/pct:49.85374007521939,78.39108099245819,15.146027766169848,3.3810616825153934/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -585,7 +585,7 @@ administration, corruption, neglect of duty, or any other
 high crime or misdemeanor, shall be impeachable by the  
 House of Delegates. The gentleman seems to think tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184613:1843022001:0172/pct:173.82892057026476,32.97084683017122,39.24934535932499,8.063396575659416/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184613:1843022001:0172/pct:57.93454545454546,10.989010989010989,13.081212121212122,2.6874879506458456/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -607,7 +607,7 @@ administration, corruption, neglect of duty, or
 any other high crime or misdemeanor, shall be  
 impeachable by the House of Delegates. Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215725:1843022201:0184/pct:53.18878796757496,56.69836956521739,14.60103525734935,4.048913043478261/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215725:1843022201:0184/pct:53.18359375,56.694518035459545,14.602864583333334,4.050902339062111/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -639,7 +639,7 @@ office of honor, trust or profit under the
 Commonwealth; but the party convicted  
 shall nevertheless be subject to indictment
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851080701:0180/pct:339.99624976561034,341.916252661462,46.6716669791862,34.421575585521644/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851080701:0180/pct:84.98312710911136,85.46693159239285,11.66572928383952,8.60417258018734/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -663,7 +663,7 @@ shall tie convicted, without the concurrence of two thirds of
 the members present. Judgment in cases of impeachment  
 shall not extend further than to removal from office, and dis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851081501:0398/pct:34.30310227104052,58.41622781353618,16.164464895354016,4.02769650867954/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851081501:0398/pct:34.30805007174311,58.422729341395225,16.169412696056604,4.024445744750016/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -775,7 +775,7 @@ trestty of peace, which closed our rovo-­
 lutionary war, and whother the ignor.  
 ance of our laws, and nataral
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gorn_ver01:data:sn85059652:00415664989:1856052001:0007/pct:114.0410527641355,235.55884217198394,35.90227930991059,24.508768223114306/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gorn_ver01:data:sn85059652:00415664989:1856052001:0007/pct:38.01368425471183,78.51961405732798,11.967426436636863,8.169589407704768/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -806,7 +806,7 @@ higher authority than the opinion of Mr. Jeffer­
 son alone, because it is the united opinion of  
 both branches of the General Assembly of Vir
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415661009:1856070201:0733/pct:35.53276178812003,65.03589177250139,15.814451928965095,9.884041965764771/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415661009:1856070201:0733/pct:35.53276178812003,65.04325418737346,15.81955501122678,9.880360758328731/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -835,7 +835,7 @@ in case of impeachment shall not extend
 further than to removal from office, and  
 disqualification to hold or enjoy any offic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741960:1869051801:0485/pct:249.9799277398635,150.89957774921976,40.050849725679114,22.058013585459886/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741960:1869051801:0485/pct:83.32664257995451,50.29985924973992,13.350283241893036,7.352671195153295/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

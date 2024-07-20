@@ -45,7 +45,7 @@ the plan&quot; of or laid out the city. In the
 I spring of the previous year Mr. Jefferson had  
 j instructed I/Enfant: &quot;You are directed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_newfoundland_ver04:data:sn83045462:00280654620:1884062801:0292/pct:57.42372881355932,26.400158321789036,15.457627118644067,6.995844053037799/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_newfoundland_ver04:data:sn83045462:00280654620:1884062801:0292/pct:57.4271186440678,26.405105877696418,15.464406779661017,7.005739164852563/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -88,7 +88,7 @@ sive one.
 Maj. Ellicott at once entered upon his  
 duties, and proceeded to lay off the street
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pug_ver01:data:sn83045462:00280654930:1894040701:0632/pct:42.8834468790278,28.035643037637985,14.12262935002762,13.96462295518021/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pug_ver01:data:sn83045462:00280654930:1894040701:0632/pct:42.89265328668753,28.035643037637985,14.118026146197753,13.977922596089906/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -116,7 +116,7 @@ $2,500 or $3,000.&quot; A few days later the
 commissioners, in reply to Mr. Jefferson&#x27;s  
 letter, inform him that they
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_havanese_ver01:data:sn83045462:00280654991:1895030201:0070/pct:42.39555464087261,55.959258133171176,14.035809837415107,5.822438431134083/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_havanese_ver01:data:sn83045462:00280654991:1895030201:0070/pct:42.40069973245524,55.959258133171176,14.030664745832476,5.845241714806932/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -144,7 +144,7 @@ committee to whom had been referred a
 resolution of the House respecting the ad­  
 justment of existing disputes between th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_havanese_ver01:data:sn83045462:00280655119:1897020201:0409/pct:29.799374194735872,21.54081490752329,13.620467513344376,5.882352941176471/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_havanese_ver01:data:sn83045462:00280655119:1897020201:0409/pct:29.80857721332597,21.54081490752329,13.625069022639426,5.89625921290502/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -191,7 +191,7 @@ and his expenses, and he has proposed
 striking ofr the latter.&quot; I&#x27;nder these cir­  
 cumstances it is not probable that Baneke
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ibizanhound_ver01:data:sn83045462:0028065517A:1897121801:0282/pct:1.4813425839114944,87.99612778315586,13.838364897806112,2.9318213248513345/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ibizanhound_ver01:data:sn83045462:0028065517A:1897121801:0282/pct:1.486030376898556,88.00649979255981,13.838364897806112,2.9352786613193196/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -212,7 +212,7 @@ penses, and he has proposed striking off
 the latter.’ Under these circumstances it  
 is not probable that Baneker was pa 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_brown_ver01:data:sn86072192:00340583280:1898010201:0018/pct:36.56169111302847,65.17897259248166,14.279551337359793,3.0103339823273925/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_brown_ver01:data:sn86072192:00340583280:1898010201:0018/pct:36.55380634030623,65.16921233902366,14.28186327366832,3.0136268343815513/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -235,7 +235,7 @@ penses. and he has proposed striking
 off the latter.’ Under these circum­  
 stances it is not probable that Baneke
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588496:1898012701:0029/pct:46.0497599301615,95.72160289243749,17.74334351811436,6.2217535402229585/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588496:1898012701:0029/pct:35.693747533404746,74.18953103716676,13.745278231944523,4.833625218914186/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -268,7 +268,7 @@ penses, and he has proposed striking
 off the latter.&#x27; Under these circum­  
 stances it is not probable that Bancke
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_dysprosium_ver01:data:sn88076998:00199918163:1898020401:0942/pct:43.074522044479124,94.3776764746512,17.40148263753414,6.202514159414283/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_dysprosium_ver01:data:sn88076998:00199918163:1898020401:0942/pct:34.463923425063726,75.50283651366684,13.931228216199344,4.962057024976056/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -292,7 +292,7 @@ penses. and he ha* proposed striking
 off the latter.’ Under these circum­  
 stance* it is not probable that Baneke
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_dearfield_ver01:data:sn85067315:00383341061:1898021001:0480/pct:50.099184483138636,36.08344296184928,10.822129160238044,4.829919188122533/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_dearfield_ver01:data:sn85067315:00383341061:1898021001:0480/pct:50.110204981265156,36.092839691787255,10.833149658364558,4.839315918060515/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -315,7 +315,7 @@ penses, and he has proposed striking
 off the latter.&quot; Under these circum­  
 stances it is not probable that Daneke
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_nittany_ver01:data:sn86081895:00280776920:1898030301:0470/pct:194.98657117278424,309.19591292758776,57.6544315129812,20.316896194284023/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_nittany_ver01:data:sn86081895:00280776920:1898030301:0470/pct:48.77939529675252,77.29897823189694,14.423292273236282,5.079224048571006/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -343,7 +343,7 @@ withstanding the value of his services.
 Ellicott was but little over half the age  
 of his assistant, Banneker, and he ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_evans_ver01:data:sn83035387:00211664526:1898041601:0517/pct:30.56934306569343,35.362443536244356,11.81021897810219,6.01204560120456/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_evans_ver01:data:sn83035387:00211664526:1898041601:0517/pct:30.574209245742093,35.366028536602855,11.819951338199514,6.01204560120456/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -371,7 +371,7 @@ withstanding the value of his service*.
 Ellicott was but little over half the age  
 of his assistant. Banneker, aud he ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_evans_ver01:data:sn83035387:00211664526:1898042301:0519/pct:81.4711496109235,42.745475961023665,11.951255322272795,5.953528215012314/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_evans_ver01:data:sn83035387:00211664526:1898042301:0519/pct:81.48093769882054,42.745475961023665,11.95614936622131,5.953528215012314/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -393,7 +393,7 @@ penset, and he has proposed striking
 off the latter.’ Under these circum­  
 stances it is not probable that Baneke
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_juanita_ver01:data:sn84002889:00513681008:1898060201:0507/pct:45.89489433327099,38.07366267173341,12.455582569665232,4.486992107570885/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_juanita_ver01:data:sn84002889:00513681008:1898060201:0507/pct:45.8995698522536,38.08097047646887,12.46025808864784,4.486992107570885/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -415,7 +415,7 @@ penses, and he has proposed striking
 off the latter.&#x27; Under these circum­  
 stances it is not probable that Baneke
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_hornedowl_ver01:data:sn94050572:00202192026:1898061801:0228/pct:69.66776045939295,58.879636638909915,16.365873666940114,5.662376987130961/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_hornedowl_ver01:data:sn94050572:00202192026:1898061801:0228/pct:52.28811820233942,44.16351249053747,12.292222450235995,4.254352763058289/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

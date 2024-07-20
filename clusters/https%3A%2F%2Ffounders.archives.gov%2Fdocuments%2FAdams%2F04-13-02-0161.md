@@ -191,7 +191,7 @@ Nor made to court an amorous looking-glass.”
 &quot;I was not shaped for sportive tricks, &#x27; - 1  
 Nor made to court an amorous looking -glass.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn85042199:00296026670:1851110501:0198/pct:59.597411933860535,28.488678251711427,16.445003594536306,1.395471300684571/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn85042199:00296026670:1851110501:0198/pct:44.70609383426209,21.366508688783572,12.349451734675535,1.05318588730911/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -273,7 +273,7 @@ Nor made to court an amorous looking-glass;
 I, that am rudely stamp&#x27;d, and want love&#x27;s majesty;  
 To strut before a wanton ambling nymph
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dagwood_ver01:data:sn85033995:00294555882:1868030701:0043/pct:197.33096085409252,230.0447374617377,42.23013048635824,7.110901813044502/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dagwood_ver01:data:sn85033995:00294555882:1868030701:0043/pct:49.354695149087675,57.511184365434424,10.562231122978787,1.7777254532611255/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -368,7 +368,7 @@ But I, that am not shaped for sportive tricks,
 Nor made to court a forty-dollar looking-glass;  
 I, that am rudely stump&#x27;d and want love&#x27;s majesty
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_cardinal_ver01:data:sn85052141:00202195192:1878112201:0566/pct:19.506048387096776,54.23171733771569,38.457661290322584,8.545603944124897/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_cardinal_ver01:data:sn85052141:00202195192:1878112201:0566/pct:4.878356233455187,13.557929334428923,9.61805117862095,2.1364009860312243/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -403,7 +403,7 @@ served of all observers, though not “ formed
 for sportive tricks nor made to court an  
 amorous looking-glass.&#x27;* Ho was courte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pulaski_ver01:data:sn84031492:no_reel:1879060701:0004/pct:58.81439295884028,48.303747534516766,12.839761843127103,1.5976331360946745/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pulaski_ver01:data:sn84031492:no_reel:1879060701:0004/pct:58.82733626714988,48.31360946745562,12.86564845974631,1.6074950690335306/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -436,7 +436,7 @@ famous Duke of Gloster, I was not form
 ed for sportive tricks, nor made to court  
 an amorous looking-glans. In othe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_himilco_ver01:data:sn85025759:00296026967:1880022301:0271/pct:26.01128880526811,42.96329996966939,19.708372530573847,2.259629966636336/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_himilco_ver01:data:sn85025759:00296026967:1880022301:0271/pct:19.529411764705884,32.22626630269942,14.776470588235295,1.6985138004246285/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -498,7 +498,7 @@ Nor made to court an amorous looking-glass;
 I, that am rudely stamp’d and want love’s ma­  
 jesty
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn90053038:00332897974:1880091701:0940/pct:58.544839255499156,47.21462501799338,16.243654822335024,5.182092989779761/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn90053038:00332897974:1880091701:0940/pct:58.532459293719604,47.20782959124928,16.24726862620709,5.186144693916715/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -661,7 +661,7 @@ I that am rudely stamped and want love’s
 majesty,  
 To start before a wanton, ambling nymph
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346812:1895062601:0244/pct:57.74586597040905,21.844713056735273,12.315056570931244,5.292388108461287/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346812:1895062601:0244/pct:57.74586597040905,21.84834295255726,12.315056570931244,5.296018004283277/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

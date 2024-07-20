@@ -160,7 +160,7 @@ called to crush the Ilumis sot our cities and to
   
 maintain the principles which severed us from
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn84028793:00296026669:1844112001:0161/pct:46.24233128834356,24.06732117812062,19.95782208588957,33.18373071528752/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn84028793:00296026669:1844112001:0161/pct:34.68839884947268,18.050490883590463,14.976030680728668,24.894810659186536/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -181,7 +181,7 @@ and lender you the assurance of my esteem and
   
 respect. Til. JEl&#x27;l&#x27;EKSU.N. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn84028793:00296026669:1844112001:0161/pct:46.58742331288344,58.02244039270687,19.42101226993865,3.7868162692847123/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn84028793:00296026669:1844112001:0161/pct:34.9568552253116,43.520336605890606,14.573346116970278,2.847124824684432/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -273,7 +273,7 @@ priests and lawvers. Merchants have no
 ry.  In every country and in every  
 the priest has been hostile to liberty.&quot; If this lacks th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_geo_ver01:data:sn83030214:00175038073:1885041401:0120/pct:200.0,185.56333984150683,46.483480536473664,5.087860342253359/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_geo_ver01:data:sn83030214:00175038073:1885041401:0120/pct:66.66666666666667,61.85444661383561,15.49449351215789,1.6959534474177864/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -332,7 +332,7 @@ bv Christ himself.
 A Torrent ot A buse.  
 And thus went on the campaign of de
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn85044812:00340583243:1896101801:0355/pct:6.32233176168024,66.31406436233611,14.187741105872268,6.1084624553039335/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn85044812:00340583243:1896101801:0355/pct:6.320977073066209,66.30418590793983,14.190057853010499,6.111276627439297/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -365,7 +365,7 @@ country to a policy dietnted Dy tengianu
 Theii Attitude Toward “Trusts.”  
 There were those In Mr. Jefferson&#x27;s da
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn85044812:00340583243:1896101801:0355/pct:21.2816116588084,61.94874851013111,14.402057436776682,7.82181168057211/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn85044812:00340583243:1896101801:0355/pct:21.27705163916863,61.93952033368092,14.404328262266981,7.824370624162073/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -390,7 +390,7 @@ dices, English manners and the apes, the dupes, and
 designers among our own professional classes.&quot;  
 Shall this generation of Americans hee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:0017504291A:1897031401:0938/pct:72.22635889798957,113.31936545944328,49.292628443782576,22.747680335228974/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:0017504291A:1897031401:0938/pct:18.063314711359403,28.32984136486082,12.327746741154563,5.686920083807244/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -441,7 +441,7 @@ les banners said:
  manners, and the apes, the dupes, and designers  
 3 among our own professional classes.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:00175042933:1897031901:0039/pct:2.404965089216447,71.05423522242535,63.847944142746314,11.395490554539915/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:00175042933:1897031901:0039/pct:0.6012412723041117,17.763558805606337,15.961986035686579,2.8488726386349787/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -464,7 +464,7 @@ professional classes&quot;
 Shall this generation of Americans  
 heed the wise counsel of Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_manhattan_ver01:data:sn84020355:00279554887:1897032201:0273/pct:37.239634027642595,41.06005151145452,18.06501849328402,7.27938186254575/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_manhattan_ver01:data:sn84020355:00279554887:1897032201:0273/pct:37.254233988709366,41.063440422936154,18.055285185906172,7.2861596855090145/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -530,7 +530,7 @@ sons; in Great Britain one to every
 six persons; in France one to every  
 three and a half persons; in Italy on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_keystone_ver03:data:sn86076366:00279555132:1897032801:0054/pct:16.390643674235957,152.1476421909891,65.35769165101588,50.58452646788388/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_keystone_ver03:data:sn86076366:00279555132:1897032801:0054/pct:4.097660918558989,38.036910547747276,16.33942291275397,12.64613161697097/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -567,7 +567,7 @@ manners and the apes, the dupes and
 designers among our own professional  
 classes.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346824:1897041401:0202/pct:55.91353996737357,21.34307806376443,11.66394779771615,12.329202414998411/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346824:1897041401:0202/pct:55.91807141562443,21.350139462627546,11.668479245967012,12.329202414998411/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -591,7 +591,7 @@ manners, and tho apes, tho dupes, aud
 designers among cur own professional  
 classes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_dracula_ver01:data:sn84037890:00206533614:1897042801:0291/pct:83.33333333333333,72.42122273094533,14.548319327731093,7.756531106921627/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_dracula_ver01:data:sn84037890:00206533614:1897042801:0291/pct:62.521891418563925,54.3226501481282,10.928196147110333,5.81739833019122/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -613,7 +613,7 @@ Tho government which can wield tha
 arm of the people must bo the strongest  
 tosslble.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_atherton_ver01:data:sn84026355:00211100229:1897060901:0648/pct:72.80478955007257,23.079019073569484,15.947024673439767,4.959128065395095/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_atherton_ver01:data:sn84026355:00211100229:1897060901:0648/pct:54.6180366539648,17.31607629427793,11.976047904191617,3.7193460490463215/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -660,7 +660,7 @@ lives with the sacrifice of which ho will
 stand loaded before the judgment-seat  
 of his Maker. &quot; And to Madame D
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_fairbury_ver01:data:sn96080161:00206539215:1898110301:0252/pct:60.66933638443936,89.55437448896157,32.66590389016018,17.273098937040064/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_fairbury_ver01:data:sn96080161:00206539215:1898110301:0252/pct:45.53520320549514,67.17089125102207,24.527761877504293,12.959934587080948/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -803,7 +803,7 @@ English manners and the ages, the
 dupes and designers among our own  
 professional classes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068402:00295878691:1899120701:0404/pct:96.05714285714286,77.16003005259203,14.785714285714286,3.209187506708168/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068402:00295878691:1899120701:0404/pct:72.0531504500643,57.872705806590105,11.101585940848693,2.414940431469357/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -57,7 +57,7 @@ Congress the actual posture of our relations
 with France.  
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812052701:0485/pct:25.36510376633359,85.4075723830735,23.489623366641045,6.9309576837416484/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812052701:0485/pct:25.361205041500153,85.39996436843043,23.49113638692489,6.93330957895362/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -88,7 +88,7 @@ Eccrejaey of State and the Minister Plenipotentiary
 - /- relations with France.  
 V. * JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1812060101:1167/pct:5.87512291052114,9.478289047310435,23.59882005899705,4.666234607906675/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1812060101:1167/pct:5.873679036618333,9.476753604406285,23.5991644138609,4.669528592256602/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -110,7 +110,7 @@ before Congress the actual posture of our
 &#x27;relations with France.  
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812060101:0176/pct:9.27617709065355,8.014059753954307,16.549543218552355,4.381956649091975/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812060101:0176/pct:9.274547690145793,8.013120899718837,16.552491363662977,4.385348328647297/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -149,7 +149,7 @@ before Congress the actual posture of our
 relations with France.  
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812060201:0032/pct:23.19926873857404,54.90196078431372,17.952468007312614,15.159313725490197/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812060201:0032/pct:23.195028331200877,54.89523342727607,17.95527935173338,15.161540660866724/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -213,7 +213,7 @@ at Paris. These documents will place before
 Congress the actual posture of our relaiions  
 with France. JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812060501:0630/pct:5.172960964773088,64.37175594946626,21.628054585845764,4.779159729703261/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812060501:0630/pct:5.172960964773088,64.37502040283354,21.63863323812546,4.779159729703261/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -251,7 +251,7 @@ place before Congress the actual posture of
 our relations with France.  
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1812060501:0258/pct:28.851206114162885,16.34980988593156,22.40267494626224,19.801111436092423/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1812060501:0258/pct:28.844317096466092,16.347419213335282,22.403295128939828,19.8018716186577/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

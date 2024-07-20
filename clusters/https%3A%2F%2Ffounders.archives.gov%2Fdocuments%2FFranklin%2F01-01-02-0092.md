@@ -362,7 +362,7 @@ Prodigal; Breakfast in Bed; Cyster Law-
 suit, &amp;c. By Richard Saunders, Philomat.  
 Irinted and old by D rankli
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776014:1849031001:0810/pct:119.18103448275862,138.7835370136255,51.36494252873563,37.58954909397387/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776014:1849031001:0810/pct:29.80596478620194,34.695884253406376,12.845849802371541,9.397387273493468/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -623,7 +623,7 @@ never should be read—
 Explain a thing till all men doubt it  
 And write about it and about it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_annapolis_ver01:data:sn85025350:00415627671:1894091501:0378/pct:10.693301997649824,68.37544065804936,15.354484919702312,3.7015276145710927/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_annapolis_ver01:data:sn85025350:00415627671:1894091501:0378/pct:8.292436124462434,52.99005843515216,11.904882367821907,2.8724292327540413/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

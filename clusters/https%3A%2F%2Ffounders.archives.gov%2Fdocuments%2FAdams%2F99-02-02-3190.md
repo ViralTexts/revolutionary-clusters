@@ -100,7 +100,7 @@ dise tbe producfio&#x27;i oj England or of ber pofjef­
 fioHS- Jball be declared good prize, whoever the  
 owner of theft goods or merchandize may u
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798051201:0003/pct:22.157906922898817,76.91973969631236,16.647372076869647,3.7165582067968184/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798051201:0003/pct:22.17527205371614,76.93058568329718,16.630006946052326,3.705712219812003/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -156,7 +156,7 @@ the government, that they can be support­
 ed, and the general felicity promoted.  
 Without a law written or unwritten of thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798113001:0002/pct:76.7538782125492,74.49750534568781,16.207455429497568,4.06272273699216/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798113001:0002/pct:76.7596665894883,74.50463292943692,16.21903218337578,4.073414112615823/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -184,7 +184,7 @@ found at sea, loaded, in whole nr in part, with nur­
 ons, shall be declared good prize, whoever the own­  
 er of these goods or merchandize may be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808080301:0032/pct:26.8913676042677,54.88636363636363,20.077594568380214,9.285714285714286/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808080301:0032/pct:26.884848484848487,54.87745495861061,20.078787878787878,9.288264892062976/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -207,7 +207,7 @@ or merchandize may be, S
 . 2 That every foreign’ vessel, which in  
 the course of her voyage shall have entere
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1810080701:0550/pct:22.928526249209362,52.69746646795827,16.603415559772294,5.136612021857924/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1810080701:0550/pct:22.93379717478389,52.69746646795827,16.61395741092136,5.146547441629409/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -242,7 +242,7 @@ prize, whoever the owner of these goods ov incicuuu­
 Uize may be.  
 •Atiti*ls 2
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1814080301:0021/pct:7.063960955561264,14.87019388761091,21.474441304906243,12.044035491291488/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1814080301:0021/pct:7.062146892655368,14.867750944636109,21.475346687211093,12.046163955971743/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -285,7 +285,7 @@ merchandise the production of Koglend or of her possesions, ehall
 be declared good priae, whoever the owner of these goods or mer­  
 chandise may ba
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851020401:0143/pct:16.80809399477807,89.34843471621278,15.698433420365536,3.3341817256299313/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851020401:0143/pct:16.80809399477807,89.35691863917876,15.709312445604874,3.3341817256299313/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -348,7 +348,7 @@ the
 against them the hatred of the people of  
 United States; or to stir up seditio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1864041401:0800/pct:142.48151191454397,316.45748131434215,64.25636811832375,36.44055845437879/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1864041401:0800/pct:35.64234326824255,79.11437032858554,16.073997944501542,9.110139613594697/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -364,7 +364,7 @@ United States; or to stir up seditio
 the United States, or Congress, or the Presi-­  
 dent, with intent to defame or bring the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_hypno_ver01:data:sn83045646:00279528608:1867030601:0676/pct:14.147420826994884,41.89490091293698,29.304383902641405,2.9280783789801825/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_hypno_ver01:data:sn83045646:00279528608:1867030601:0676/pct:4.715806942331628,13.964966970978995,9.768127967547136,0.9760261263267276/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -391,7 +391,7 @@ Congress, or the President, with intent to
 defame them or bring them in disrepute,  
 or to excite against them the hatred o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dorothea_ver01:data:sn90061771:00200292790:1868012301:0441/pct:321.415770609319,254.48858304660618,59.13978494623656,30.528620581795433/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dorothea_ver01:data:sn90061771:00200292790:1868012301:0441/pct:80.35394265232975,63.622145761651545,14.78494623655914,7.632155145448858/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -419,7 +419,7 @@ judges and jurors to execute it, and he can
 easily fill all the jails in the country. Mat  
 thew Lyon, of this county, wrote a letter
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84022473:00280777560:1876031801:0263/pct:18.513119533527696,299.8284734133791,42.93002915451895,29.616923956546596/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84022473:00280777560:1876031801:0263/pct:4.628279883381924,74.95711835334477,10.732507288629737,7.404230989136649/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

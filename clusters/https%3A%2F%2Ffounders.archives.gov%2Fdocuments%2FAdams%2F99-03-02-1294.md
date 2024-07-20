@@ -77,7 +77,7 @@ accordingly done, in every instance, without
 asking what the offenders had done, or against  
 whom they had offended.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1832041701:0045/pct:22.291427634813964,85.04127682993946,16.35797410260613,8.013208585580628/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1832041701:0045/pct:22.30235480522319,85.04127682993946,16.36343768781074,8.024215740231151/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -115,7 +115,7 @@ done, or against whom they had offended ; but
 whether the pains they were suffering were in­  
 flicted under the pretended sedition law.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1840100601:0578/pct:66.43532191376255,64.74012474012474,14.840519787359716,6.704781704781705/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1840100601:0578/pct:66.44024414254774,64.74358974358974,14.835597558574522,6.711711711711712/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

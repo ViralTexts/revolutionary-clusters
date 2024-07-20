@@ -274,7 +274,7 @@ posed for state objects, upon the pre­
 4 truciionol tin stale governments.”  
 The- objections to the constitutio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1819032301:0414/pct:50.24,56.28243814121907,14.24,13.735666867833434/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1819032301:0414/pct:50.23196288593825,56.275645667390776,14.243054444622194,13.738032021884303/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -445,7 +445,7 @@ kind, there arc certain primary truths, or first princi­
 ples, on which all subsequent reasonings must de­  
 pend.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184315:1829121201:0398/pct:60.44705136334813,35.56208670095518,17.549143944197844,2.020573108008817/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184315:1829121201:0398/pct:60.437470280551594,35.55773233745561,17.551645797009563,2.024407167054406/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -463,7 +463,7 @@ late, that &quot; In disquisitions of every kind, (here are
 certain primary truths, or first principles, on which all  
 subsequent reasonings must depend.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1829121701:0203/pct:80.13048635824437,79.01276789785682,14.783511269276394,1.9835841313269493/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1829121701:0203/pct:80.11860637509267,79.00376154109199,14.786261428218433,1.9871575667768533/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -481,7 +481,7 @@ are certain pi unary tiufht, or fust principles,
 on w hich all subsequent reasonings must de­  
 pend 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1829122101:0558/pct:32.26143244936313,81.00348027842227,14.846523282522448,2.0591647331786542/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1829122101:0558/pct:32.25469728601253,80.99173553719008,14.848643006263048,2.062490938089024/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -592,7 +592,7 @@ ralist,&quot; Mr. Hamilton says: &quot;The State Gov
 ernments, by their original constitutions, nr  
 invested with complete sovereignty;&quot; and 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664382:1860121401:0405/pct:26.81982102310672,62.534902273633826,11.686924001602778,2.0143597925807737/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664382:1860121401:0405/pct:26.81982102310672,62.534902273633826,11.70028048617604,2.0210078447015025/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -641,7 +641,7 @@ own hands, it is to be hoped, will always tohe care to preervt
 thei constitutional equilibrinm between the General and the  
 State Governm
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basic_ver01:data:sn83030213:00206530728:1862102201:0378/pct:153.6354056902002,108.09716599190283,48.647699332630836,18.54987118145013/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basic_ver01:data:sn83030213:00206530728:1862102201:0378/pct:51.211801896733405,36.03238866396761,16.215899777543612,6.183290393816709/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -673,7 +673,7 @@ monopoly, to the entire exclusion and destruc­
 tion of the State Governments.&quot;  
 In answer to these apprehensions. it was shown that th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basic_ver01:data:sn83030213:00206530728:1862102201:0378/pct:153.26659641728133,185.57232241442767,48.26132771338251,20.66004171267329/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basic_ver01:data:sn83030213:00206530728:1862102201:0378/pct:51.088865472427116,61.85744080480922,16.08710923779417,6.886680570891097/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -819,7 +819,7 @@ with Hamilton:
 nal constitutions, are invested with com­  
 plete &#x27;(sovereignty. &quot;A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn85034406:00296026700:1864072701:0018/pct:75.81254724111866,24.541979702122052,16.402116402116402,3.637801502570186/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn85034406:00296026700:1864072701:0018/pct:56.880907372400756,18.41307499670489,12.325141776937619,2.7283511269276395/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -871,7 +871,7 @@ iginal Constitutions***!* invested with
 complete sovereignty.&quot; As in the ar­  
 ticles of confederation, so in the Con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn87058042:00279529340:1865011301:1101/pct:36.24390243902439,58.068386322735456,14.504065040650406,5.398920215956808/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn87058042:00279529340:1865011301:1101/pct:36.24390243902439,58.07638472305539,14.525745257452575,5.398920215956808/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1005,7 +1005,7 @@ State Governments, by their original Constitutions,
 were invested with complete sovereignty,  
 and that they would in all
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ellis_ver01:data:sn85025007:00415663584:1865121301:0147/pct:0.7991475759190197,23.491013903017972,26.931273308470963,7.951848084096304/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ellis_ver01:data:sn85025007:00415663584:1865121301:0147/pct:0.808026993429231,23.493839719678988,26.922393890960752,7.957499717418334/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1032,7 +1032,7 @@ by their original Constitution, were in­
 vested with complete sovereignty, and j  
 that they would in all contingencies af- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn84026844:00202190765:1865121501:0553/pct:14.232537770965623,16.452000686931136,12.130501423253778,5.78739481366993/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn84026844:00202190765:1865121501:0553/pct:14.24348587694329,16.46488064571527,12.152397635209109,5.78739481366993/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1126,7 +1126,7 @@ sense of the people.&quot;
 In conclusion, it will be evident the proposed  
 bill taken as a whole was not framed in the inter.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_american_ver01:data:sn86053573:00294558305:1874032401:0313/pct:153.57902197023387,156.69508196721313,44.5074415308292,16.62950819672131/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_american_ver01:data:sn86053573:00294558305:1874032401:0313/pct:38.415174614430065,39.17377049180328,11.132777876263074,4.157377049180328/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1152,7 +1152,7 @@ Itnoo finnnl anntneo o snaiu&gt; ?? -J su.i
 all right angles are equal to each other. ^  
 The mind that attempts to conceiv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_belgium_ver01:data:sn84026844:00202190893:1874102901:1041/pct:25.147783251231527,28.60218912614391,13.448275862068966,5.0062802799210475/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_belgium_ver01:data:sn84026844:00202190893:1874102901:1041/pct:25.147783251231527,28.611160954602546,13.472906403940886,5.024223936838328/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1175,7 +1175,7 @@ ward bias they entangle themselves in
 words and confound themselves in sub­  
 tleties.&quot; That was just a century ago
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_gary_ver01:data:sn87056600:00202191526:1888103101:0366/pct:7.631160572337043,19.820737421063352,15.818759936406995,6.314931757995518/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_gary_ver01:data:sn87056600:00202191526:1888103101:0366/pct:5.725646123260438,14.870645752699124,11.875414181577204,4.736198818496639/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

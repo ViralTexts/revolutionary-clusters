@@ -1960,7 +1960,7 @@ exit look upon a small and distant part
 of the blue mountains.  
 Thus wrote Jefferson on the fly-lea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477874:1878112001:0426/pct:97.63406940063092,285.7714857714858,40.53627760252366,26.76962676962677/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477874:1878112001:0426/pct:24.422963109094496,71.44287144287145,10.140067074373643,6.692406692406692/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1996,7 +1996,7 @@ ly; the other to strangers, servants,
 etc. Let Hie exit look upon a Final I  
 ami distant pari of the Him; Mountains.0 Thos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pulaski_ver01:data:sn84031492:no_reel:1879032501:0009/pct:70.40951122853369,6.9210472904404305,12.998678996036988,4.952303633042419/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pulaski_ver01:data:sn84031492:no_reel:1879032501:0009/pct:70.42932628797887,6.926121372031663,12.98546895640687,4.962451796224883/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2023,7 +2023,7 @@ other to strangers, servants, etc. * * &#x27; j,et
 the exit look on a small and distant part of the  
 Blue mountains.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_newfoundland_ver04:data:sn83045462:0028065453A:1880052201:0212/pct:15.177548682703321,53.22394025454928,16.824169530355096,5.164615546439466/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_newfoundland_ver04:data:sn83045462:0028065453A:1880052201:0212/pct:15.181128293241695,53.22394025454928,16.824169530355096,5.180393394341012/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2054,7 +2054,7 @@ of the Blue mountains.&quot; &quot; t]
 Tbe grave-yard is located on an unfre?  
 quented slope of the mountain, &quot;amon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551116:1880061701:0049/pct:1.1639052444201012,76.27787645549635,12.214158564973298,8.52575488454707/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551116:1880061701:0049/pct:1.1639052444201012,76.28116571278206,12.218722899265142,8.529044141832774/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2082,7 +2082,7 @@ use of tay own family, the. Other to
 strangers, servants, etc. * * * Let  
 the exit look on e small and distant por
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_evadeestruction_ver01:data:sn84026965:00294550847:1880061702:0803/pct:1.8452803406671399,75.51942186088527,12.079488999290277,6.775067750677507/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_evadeestruction_ver01:data:sn84026965:00294550847:1880061702:0803/pct:1.8500118287201326,75.52694971394159,12.079488999290277,6.771303824149353/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2121,7 +2121,7 @@ Btrunyorn , servants , etc. Lot the exit
 look upon a small and distant part of  
 the liluo mountains , &quot; His wishe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_chadron_ver01:data:sn99021999:00206538041:1881092901:0169/pct:14.47939262472885,99.30620413609073,16.196673897324658,9.833222148098733/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_chadron_ver01:data:sn99021999:00206538041:1881092901:0169/pct:10.867992766726944,74.4863242161441,12.151898734177216,7.368245496997998/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2145,7 +2145,7 @@ oaks; intersperse some gloomy evergreens.
 Appropriate one-half to the use of my &quot;family  
 the other to strangers, servants, etc. Let th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_newfoundland_ver04:data:sn83045462:00280654565:1881100101:0008/pct:56.904577191621414,47.704007019596375,15.296095164209982,4.455493809105977/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_newfoundland_ver04:data:sn83045462:00280654565:1881100101:0008/pct:56.904577191621414,47.71050664586786,15.300405137488148,4.458743622241721/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2187,7 +2187,7 @@ have been well carried out. The old
 family house was in ruins three years  
 ago and tenanted by an old man wh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00279529601:1881100601:0159/pct:16.194591134581533,12.173588659537428,22.691630660905744,84.8669485202686/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00279529601:1881100601:0159/pct:16.192,12.17207509635708,22.692,84.85950515976626/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2240,7 +2240,7 @@ other to strangers, servants, etc. Let the
 exit look upon a small and distant part  
 of the Blue mountains.&quot; His wishe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_blaine_ver01:data:sn83025287:00100493950:1881102301:0106/pct:1.00345451554532,65.6431728308909,13.42326040467182,6.815538497324959/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_blaine_ver01:data:sn83025287:00100493950:1881102301:0106/pct:1.0089378735537644,65.6431728308909,13.42326040467182,6.815538497324959/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2274,7 +2274,7 @@ distant part of the Blue Mountains.”
 His wishes have been well carried out  
 The old family house was in ruins thre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159191:1881102701:0709/pct:25.100764419735928,7.236335642802156,49.49270326615705,15.154514461673815/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159191:1881102701:0709/pct:25.105397266620336,7.240001466329411,49.488070419272645,15.154514461673815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2324,7 +2324,7 @@ ange, Va., James Madison is buried.
 The grave is in the center of a large  
 field, in a lot about 100 feet square
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_funston_ver01:data:sn84027670:00237283399:1881112401:0191/pct:196.9114619080302,294.41750590575657,43.51407000686342,61.121472087529526/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_funston_ver01:data:sn84027670:00237283399:1881112401:0191/pct:49.2363137120302,73.60437647643914,10.880384417367427,15.280368021882381/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2425,7 +2425,7 @@ servants, etc. Let the exit look upon
 a small and distant part of the Blue  
 Mountains.&quot; These directions were sub
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_eiffel_ver02:data:sn83016926:00295878769:1882110801:0263/pct:82.65726043503821,89.30027548209367,14.491475602586714,5.509641873278237/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_eiffel_ver02:data:sn83016926:00295878769:1882110801:0263/pct:62.00205791562546,66.97520661157024,10.877554020285169,4.132231404958677/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2489,7 +2489,7 @@ strangers, servants, etc. Let the exit
 look upon a small and distant part of  
 the Blue mountains.&quot; Thase direction
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_dungeness_ver03:data:sn83045611:00202198272:1883030201:0424/pct:197.32818284242717,62.000698730639336,44.567841622404636,17.724467217887504/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_dungeness_ver03:data:sn83045611:00202198272:1883030201:0424/pct:49.33204571060679,15.500174682659834,11.141960405601159,4.431116804471876/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2514,7 +2514,7 @@ strangers, servants, 4c. Let tho exit look
 upon a small and distant part of the Blue  
 mountains.” These directions were sub
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685300:1884031301:0255/pct:48.95330112721417,43.934267762203966,10.933977455716587,4.639922667955534/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685300:1884031301:0255/pct:48.945419417163095,43.928959768031895,10.93624215102238,4.642382505738794/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2539,7 +2539,7 @@ strangers, servants, etc. Let the exit
 look upon a small and distant part of  
 the Blue mountains.&quot; These direction
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_tesla_ver01:data:sn85038614:0017503089A:1885072601:0113/pct:151.17146694523205,80.20499679692504,33.87554096403522,16.42109758701687/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_tesla_ver01:data:sn85038614:0017503089A:1885072601:0113/pct:50.39048898174402,26.73499893230835,11.29184698801174,5.47369919567229/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2562,7 +2562,7 @@ strangers, servants, ete. Let the exit look upon a amall
 and distant part of the itue Mountains.&quot;  
 These directions were substantially carrled out. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_geo_ver01:data:sn83030214:00175038061:1885072801:0248/pct:152.35039306914808,224.0732368896926,46.1415048933098,10.375226039783001/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_geo_ver01:data:sn83030214:00175038061:1885072801:0248/pct:50.783464356382694,74.69107896323086,15.380501631103268,3.4584086799276674/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2582,7 +2582,7 @@ winds among the woods. Let it he among
 ; ancient and venerable oaks, interspersed  
 j with some gloomy evergreens. Appro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00414181909:1885072801:0946/pct:32.343946753013135,70.552063405302,12.754092462673142,2.705657283410768/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00414181909:1885072801:0946/pct:32.349943035318105,70.56117336248519,12.754092462673142,2.7147672405939693/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2617,7 +2617,7 @@ last survivor ol the signers of the United States
 Constitution, died June 28,1836. During his  
 la-t illness, when the family and doctor were a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mastiff_ver01:data:sn83045462:00280654449:1885080101:0009/pct:62.288557213930346,52.31875253138923,12.288557213930348,8.343458890238963/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mastiff_ver01:data:sn83045462:00280654449:1885080101:0009/pct:62.288557213930346,52.32381530984204,12.294776119402986,8.348521668691777/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2641,7 +2641,7 @@ ily, and the other to strangers, servants, etc.
 Let the exit look upon a small and distant  
 part of the Blue Mountains.&quot; These direc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_graftonnotch_ver01:data:sn83016025:00414210533:1885080101:0427/pct:86.1233840615284,20.237529691211403,10.94747177221404,3.4085510688836105/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_graftonnotch_ver01:data:sn83016025:00414210533:1885080101:0427/pct:86.10929319371728,20.235126469540436,10.949770942408376,3.4111150694691843/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2665,7 +2665,7 @@ gers, servants, etc. Let the exit look upon
 a anal and distant part of the blue uiouti­  
 i.:in&lt;.&quot; These directions were substantiall
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_chaska_ver01:data:sn90059522:00175035278:1885080101:0320/pct:26.0982619406049,22.905441098784998,11.701108526070891,4.479661912308505/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_chaska_ver01:data:sn90059522:00175035278:1885080101:0320/pct:26.0982619406049,22.91248459235781,11.705670361753569,4.472618418735693/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2690,7 +2690,7 @@ and the other to strangers, servants, ae. Let
 the exit look upon a small and distant part  
 of the blue mountains.&quot; These direction
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282322:1885080101:1163/pct:120.84241103848947,359.79899497487435,50.108932461873636,17.492869754176287/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282322:1885080101:1163/pct:30.22157646204141,89.94974874371859,12.531783508899382,4.373217438544072/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2715,7 +2715,7 @@ in. Lot it bo among nnolont and ven
 crrtble oaks ; intetsperto some gloom ;  
 evergreens. Appropriate one-halt to t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_dewitt_ver01:data:sn99021999:00206538120:1885080301:0381/pct:28.196022727272727,4.498222586819797,33.02556818181818,124.35056056877222/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_dewitt_ver01:data:sn99021999:00206538120:1885080301:0381/pct:21.154529307282417,3.377085042384468,24.77797513321492,93.2697566311184/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2748,7 +2748,7 @@ evergreens. Appropriate one-half
 to the use of my family and the  
 other to strangers, servants, etc. Le
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_grange_ver01:data:sn84026409:00280776506:1885080501:0070/pct:101.36452241715399,363.836285888821,40.35087719298246,17.54428833231521/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_grange_ver01:data:sn84026409:00280776506:1885080501:0070/pct:25.349366265843354,90.95907147220525,10.090997725056873,4.386072083078803/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2806,7 +2806,7 @@ rangers, servants, etc. Let the exit
 look upon a small and distant part of  
 the Blue Mountains.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775289:1885080601:0129/pct:50.928943937418516,95.80545548121462,14.586049543676662,7.938754503345343/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775289:1885080601:0129/pct:38.21946844937225,71.8605249613999,10.94081200065221,5.957282552753474/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2830,7 +2830,7 @@ strangers, servants, etc. Let the exit look
 upon a small and distant part of the Blue  
 Mountains.” These directions were sub
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623860:1885080801:0142/pct:82.46771879483501,23.14614050303556,10.43041606886657,4.477450130095403/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623860:1885080801:0142/pct:82.46771879483501,23.14975426423822,10.439980870396939,4.473836368892743/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2850,7 +2850,7 @@ among the woods. Let it be among ancient
 and venerable oaks, interspersed with some  
 gloomy evergreens. Appropriate one-hal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623860:1885080802:0245/pct:83.47463716051156,23.4178563818453,10.863629831872396,2.7381206051566163/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623860:1885080802:0245/pct:83.47942712075489,23.42140777043824,10.863629831872396,2.7381206051566163/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2872,7 +2872,7 @@ with some gloomy evergreens. Appropriate
 one-half to the use of my family and tho other  
 to strangers, servants, etc. Let the exit loo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hughes_ver01:data:sn85026214:print00205958277:1885080901:0007/pct:54.88422575976845,27.929436003090395,11.903039073806077,2.8457378315735258/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hughes_ver01:data:sn85026214:print00205958277:1885080901:0007/pct:54.888748191027496,27.939093484419264,11.921128798842258,2.8457378315735258/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2897,7 +2897,7 @@ strangers, servants, etc. Let the exit
 look upon a small and distant part of  
 the Blue Mountains.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271769489:1885081301:0399/pct:34.461372522583254,21.55802258278774,14.278009977079682,5.79751399563526/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271769489:1885081301:0399/pct:34.461372522583254,21.56118543821362,14.286998337153387,5.79751399563526/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2922,7 +2922,7 @@ s rangers, servants, e\c. L-t the exit
 look upon a small and distant part of  
 the Blue Mountains.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_jane_ver01:data:sn86086770:00271768837:1885081301:1128/pct:32.75470138458359,21.631057114928083,14.486464145484604,5.87906716938975/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_jane_ver01:data:sn86086770:00271768837:1885081301:1128/pct:32.7684783357443,21.640366801657123,14.486464145484604,5.869757482660709/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2947,7 +2947,7 @@ strangers, servants, etc. Let the exit
 look upon a small and distant part of  
 the lilue mountains.&quot; I hesa direction
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn86053634:00280776701:1885081901:0338/pct:94.14366595895258,34.06130772266807,14.720452937013446,6.525457176687278/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn86053634:00280776701:1885081901:0338/pct:70.64967250840857,25.54926983291672,11.046202867764206,4.894092882515459/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3033,7 +3033,7 @@ Let it be among ancient and vener­
 able oaks, interspersed with some  
 gloomy evergreens. Appropriat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291104:1885082101:0417/pct:71.2796664528544,56.275449101796404,10.95253367543297,4.155688622754491/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291104:1885082101:0417/pct:71.29169339320077,56.2814371257485,10.944515715202053,4.161676646706587/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3086,7 +3086,7 @@ other to strangers, servants, etc. Let the
 exit look upon a small and distant part of  
 the Blue mountains. &quot;These direction
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_antelope_ver02:data:sn86075021:00294550422:1885082801:0836/pct:149.82993197278913,97.76286353467562,53.74149659863946,20.58165548098434/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_antelope_ver02:data:sn86075021:00294550422:1885082801:0836/pct:37.45748299319728,24.440715883668904,13.435374149659864,5.145413870246085/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3136,7 +3136,7 @@ strangers, servants, etc. Let the exit
 look upon a small and distant part of  
 the Blue Mountains.” These direction
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159208:1885091701:0569/pct:24.394681595521345,14.573643410852712,9.559132260321903,4.584717607973422/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159208:1885091701:0569/pct:24.399346862607885,14.581026208933185,9.568462794494986,4.584717607973422/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3172,7 +3172,7 @@ etc. Let the exit look upon a small
 and distant part of the Blue Moun­  
 tains.&quot; These directions were substan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quiring_ver01:data:sn89064939:00206537954:1885092301:0272/pct:66.5785997357992,16.101408450704227,14.39894319682959,6.3887323943661976/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quiring_ver01:data:sn89064939:00206537954:1885092301:0272/pct:66.58960810215764,16.105164319248825,14.393439013650374,6.384976525821596/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3198,7 +3198,7 @@ strangers, servants, etc. v Let the exit
 look upon a small and distant part of  
 the Blue Mountains.&quot; Those direction
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035083:00296027224:1885092401:0239/pct:23.35589941972921,19.83450660738545,13.926499032882012,6.088674817833765/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035083:00296027224:1885092401:0239/pct:17.526604321186714,14.882055082129183,10.448242502418575,4.5695936766703715/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3224,7 +3224,7 @@ etc. Let the exit look upon a small
 j and distant part of the Blue Moun­  
 , tains.&quot; These directions were substan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_quartz_ver02:data:sn84022650:00295868752:1885102301:0562/pct:101.61681487469684,23.56160331311936,18.714632174616007,8.120100576837746/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_quartz_ver02:data:sn84022650:00295868752:1885102301:0562/pct:76.24342903356248,17.674900162697824,14.05175899716943,6.093773110486614/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3250,7 +3250,7 @@ etc. Let the exit look upon a small
 and distant part of the Blue Moun­  
 tains.” Tl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_apple_ver01:data:sn2001063565:00279522746:1885111301:0868/pct:62.5676720804331,21.738263729692015,16.009280742459396,6.767666699890362/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_apple_ver01:data:sn2001063565:00279522746:1885111301:0868/pct:62.577984016499094,21.738263729692015,16.004124774426398,6.767666699890362/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3283,7 +3283,7 @@ etc. Let the exit look upon a small
 and distant part of the Blue Moun­  
 tains.&quot; These directions were substan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_falcon_ver01:data:sn99068076:00415623355:1885112001:1087/pct:70.45068828964737,19.668015064862605,23.892136526494436,8.467010740689078/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_falcon_ver01:data:sn99068076:00415623355:1885112001:1087/pct:70.45540260230058,19.67847677500349,23.901565151800867,8.467010740689078/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3334,7 +3334,7 @@ be the skeleton of some poor wretch who sought out
 the spot to despair and die in. Let it be among the  
 venerable oaks. Intersperse some gloomy evergreen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_dante_ver01:data:sn83030272:00175044899:1886112701:0965/pct:282.1455792682927,247.49143963078757,52.38185975609756,11.552776537144558/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_dante_ver01:data:sn83030272:00175044899:1886112701:0965/pct:70.5498380026682,61.87285990769689,13.097960739470173,2.8881941342861395/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3358,7 +3358,7 @@ out the spot to despair and die in. Let it
 be among the venerable oaks. inter  
 sperse some gloomy evergreens. Appro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84020714:00296023024:1886120301:0612/pct:25.64773980154355,26.324859974149074,16.60694597574421,6.861266695389918/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84020714:00296023024:1886120301:0612/pct:19.24720805184062,19.743644980611805,12.463808079415415,5.1486428263679445/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3393,7 +3393,7 @@ despair and die in. Let it be among
 the venerable oaks. Intersperse some  
 gloomy evergreens. Appropriate one
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_incadove_ver01:data:sn84021912:00211104697:1887010801:0052/pct:79.45151033386327,38.60512226884676,16.772655007949126,7.422948922008392/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_incadove_ver01:data:sn84021912:00211104697:1887010801:0052/pct:59.62226640159046,28.953841701635074,12.584493041749504,5.570829113008248/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3413,7 +3413,7 @@ die in. Let it be among the vener­
 able oaks. Intersperse some gloomy  
 evergreens. Appropriate one hal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kay_ver01:data:sn85033964:00296020564:1887011301:0012/pct:86.6461366181411,97.97552327576346,12.486002239641657,3.79732357314423/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kay_ver01:data:sn85033964:00296020564:1887011301:0012/pct:65.01890491527797,73.48736131762553,9.36843579330626,2.847992679858172/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3432,7 +3432,7 @@ despair and die in. Let it be among
 the venerable oaks. Intersperse some  
 gloomy evergreens. Appropriate one
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_gordon_ver01:data:sn89058248:00296020424:1887020301:0284/pct:90.51596139569413,45.8218909376226,15.60876020786934,3.060023538642605/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_gordon_ver01:data:sn89058248:00296020424:1887020301:0284/pct:67.90421384815296,34.366418203216945,11.713384072767774,2.30155616581666/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3549,7 +3549,7 @@ femd distant part of the Blue Moun­
 tains.” These directions were sulwtan­  
 tially carriwi out. A little inclosure
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_banana_ver02:data:sn00065129:00279522850:1890071901:1113/pct:29.30994691899377,17.940994063967395,10.720055388876068,5.758837600779658/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_banana_ver02:data:sn00065129:00279522850:1890071901:1113/pct:29.30994691899377,17.943947314019077,10.72390183860297,5.76179085083134/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3815,7 +3815,7 @@ There shall we view the billow&#x27;s strife.
 Ald the kind breast, and waft his boat to land.&quot;  
 This is interesting as the work of a distingutshe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_triumph_ver01:data:sn83030214:00175038589:1892100201:0430/pct:151.29296235679215,69.49490474080638,47.43044189852701,13.424900310146212/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_triumph_ver01:data:sn83030214:00175038589:1892100201:0430/pct:50.43098745226405,23.16496824693546,15.810147299509001,4.474966770048737/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3868,7 +3868,7 @@ character or expression of the partisular
 spot. Benches or seats of rock or turf  
 passim.&quot; (Extract frOm Jifferson&#x27;s Cur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_melon_ver01:data:sn84022549:00415628493:1892101301:0272/pct:28.710462287104622,10.664158587758646,18.5117599351176,18.955288670235856/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_melon_ver01:data:sn84022549:00415628493:1892101301:0272/pct:21.545952525867317,8.001736362320937,13.897342260093325,14.223701345680798/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3923,7 +3923,7 @@ particular spot. Benches or seats of rook
 or turf }uts»*m.—Extract from Jefferson&#x27;s  
 Current Ex (Sense Book
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_dyerbrook_ver01:data:sn82014248:00332895783:1892102801:0409/pct:24.638783269961976,67.28247073755465,10.152091254752852,18.770272175997743/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_dyerbrook_ver01:data:sn82014248:00332895783:1892102801:0409/pct:24.634099980992207,67.27298364354202,10.154913514540961,18.771150592216582/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3960,7 +3960,7 @@ or metal plates, suited to the character
 or expression of the particular spot.  
 Benches or seats of rock or turf passim.*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_belle_ver01:data:sn85033078:00271768540:1892120101:0458/pct:31.041069723018147,70.02498750624687,12.430072315459135,11.694152923538232/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_belle_ver01:data:sn85033078:00271768540:1892120101:0458/pct:31.050166007186064,70.02831917374645,12.420976031291218,11.694152923538232/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

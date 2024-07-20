@@ -260,9 +260,9 @@ Nocte, carent quia vate sacro
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1842-11_11_53/page/n94/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1842-11_11_53/page/n94/mode/1up?view=theater)
 
-#### 1842-11-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1842-11-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -361,7 +361,7 @@ Nocte, carent quia vate sacro
 
 ---
 
-## [From _The American review : a Whig journal of politics, literature, art, and science_](https://archive.org/details/sim_american-whig-review_1847-06_5_6/page/n26/mode/1up?view=theater)
+## [From _The American Review: a Whig Journal Devoted to Politics and Literature (1848-1850)_](https://archive.org/details/sim_american-whig-review_1847-06_5_6/page/n26/mode/1up?view=theater)
 
 #### 1847-06-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -396,7 +396,7 @@ Nocte, carent quia vate sacro
 
 ---
 
-## [From _The American review : a Whig journal of politics, literature, art, and science_](https://archive.org/details/sim_american-whig-review_1848-09_8_3/page/n61/mode/1up?view=theater)
+## [From _The American Review: a Whig Journal Devoted to Politics and Literature (1848-1850)_](https://archive.org/details/sim_american-whig-review_1848-09_8_3/page/n61/mode/1up?view=theater)
 
 #### 1848-09-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -486,7 +486,7 @@ Multi; sed omnes illachrimabiles
 Urgentur, ignotique, longa  
 Nocte, carent quia vate sacra
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_pearse_ver01:data:sn82015753:00212475361:1854021801:0169/pct:14.852700490998364,166.28228782287823,37.377250409165306,8.902214022140221/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_pearse_ver01:data:sn82015753:00212475361:1854021801:0169/pct:4.950900163666121,55.42742927429274,12.459083469721767,2.9674046740467404/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

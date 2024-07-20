@@ -392,7 +392,7 @@ chief atmospheric disturbances of this
 continent pass in an easterly or north­  
 easterly direction toward the Atlanti
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291086:1880081301:0552/pct:65.49968173138129,12.01667385367256,14.279652026310206,24.220209860572087/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291086:1880081301:0552/pct:65.51029068533843,12.020267356619232,14.284956503288775,24.22380336351876/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

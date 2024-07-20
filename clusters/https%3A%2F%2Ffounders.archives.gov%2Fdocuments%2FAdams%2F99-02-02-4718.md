@@ -89,7 +89,7 @@ mission will soon follow this letter.” But the president ha
 
 ---
 
-## [From _The American review : a Whig journal of politics, literature, art, and science_](https://archive.org/details/sim_american-whig-review_1845-07_2_1/page/n64/mode/1up?view=theater)
+## [From _The American Review: a Whig Journal Devoted to Politics and Literature (1848-1850)_](https://archive.org/details/sim_american-whig-review_1845-07_2_1/page/n64/mode/1up?view=theater)
 
 #### 1845-07-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -200,7 +200,7 @@ more and more in the affection and trust
 of the people— judiciary, national  
 and state; for the federal and stat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_edina_ver01:data:sn90059522:00175033464:1890022301:0504/pct:28.107803019613378,39.58537915984724,10.723860589812332,4.440807419530824/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_edina_ver01:data:sn90059522:00175033464:1890022301:0504/pct:28.107803019613378,39.589016184760865,10.733267485066554,4.4480814693580655/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -222,7 +222,7 @@ or fluctuating theories will be in a solid
 judiciary.&#x27; And it seems to me that as  
 the years roll on the judiciary gain
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_edina_ver01:data:sn90059522:00175033464:1890022301:0505/pct:27.83970650486807,39.82542280414621,10.709750246931,3.2951445717403165/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_edina_ver01:data:sn90059522:00175033464:1890022301:0505/pct:27.84440995249518,39.82905982905983,10.709750246931,3.298781596653937/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -241,7 +241,7 @@ The firmest security we can have against the
 effects of visionary scheme of fluctuating  
 theories will be in a solid judiciary. And i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_franco_ver01:data:sn84024546:00237280118:1890022301:0559/pct:19.07849829351536,55.53748136098685,14.863481228668942,2.8060187067913787/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_franco_ver01:data:sn84024546:00237280118:1890022301:0559/pct:14.3247396277958,41.65649993222177,11.149052415912584,2.1146807645384302/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

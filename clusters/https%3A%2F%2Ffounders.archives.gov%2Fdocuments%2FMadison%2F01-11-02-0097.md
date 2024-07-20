@@ -91,7 +91,7 @@ fresh from framing the Federal Constitution,
 to blunder as above?  
 THE UNION FERrF BRIdGE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_delphi_ver02:data:sn83030214:00206530856:1867020401:0236/pct:150.8270911360799,102.4446393334795,49.48501872659176,57.443543082657314/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_delphi_ver02:data:sn83030214:00206530856:1867020401:0236/pct:50.27569704535997,34.14821311115983,16.495006242197253,19.147847694219102/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -124,7 +124,7 @@ lKKSIDKNT UK COMMKCTKU IN AN V BUHI&#x27;K lOU U A N­
 NV.K WITH ANY PKHSIIK, AND ir THKKE HIC ANY  
 grounds to aruKVK hkwili, shki.tkh him, th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_ewing_ver01:data:sn83025925:00280776208:1867020401:0222/pct:4.0028591851322375,105.30936454849498,19.317369549678343,9.11371237458194/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_ewing_ver01:data:sn83025925:00280776208:1867020401:0222/pct:3.0037546933667083,78.98550724637681,14.500268192383336,6.842251950947603/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -152,7 +152,7 @@ And mnrk ! that, &quot;should he (the Vice­
 President) be suspected also, be may likewise  
 le suspended till he be impeached, and th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_ewing_ver01:data:sn83025925:00280776208:1867020401:0222/pct:23.32022873481058,27.759197324414714,19.067190850607577,8.54236343366778/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_ewing_ver01:data:sn83025925:00280776208:1867020401:0222/pct:17.504022885750043,20.819397993311036,14.303593777936706,6.410256410256411/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -181,7 +181,7 @@ ing the dullest comprehension.
 RECONSTRUCTION.  
 The President&#x27;s New Plan It Is to b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_ewing_ver01:data:sn83025925:00280776208:1867020401:0222/pct:23.409578270192995,43.603678929765884,19.120800571837027,10.353957636566332/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_ewing_ver01:data:sn83025925:00280776208:1867020401:0222/pct:17.57554085463973,32.706243032329986,14.339352762381548,7.761984392419175/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -223,7 +223,7 @@ the same by whom the leaders of the late rebellion jus-­
 tified themselves when they protested that the constitu-­  
 tion had become the instrument of Executive power
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743579:1867020501:0328/pct:245.91953086821957,152.51460648413334,46.14758103925721,28.43395577958529/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743579:1867020501:0328/pct:81.97317695607319,50.83820216137778,15.382527013085737,9.477985259861763/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -247,7 +247,7 @@ savage conspiracy to overthrow it? Mr. Madison says:
 any suspicious manner with any person, and there be  
 grounds to believe he will shelter him.&quot; The lavis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743579:1867020501:0328/pct:245.77292718683825,197.26200022912133,45.96839876201336,11.925764692404629/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743579:1867020501:0328/pct:81.92430906227942,65.75400007637377,15.322799587337785,3.9752548974682096/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -295,7 +295,7 @@ suspended until he bo impeached and removed,
 ana the Legislature may make a temporary ap?  
 pointment.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_brandonblaze_ver01:data:sn84026994:00294555237:1867020701:0196/pct:14.8123211580542,36.86327077747989,13.701397071200134,5.288813063611991/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_brandonblaze_ver01:data:sn84026994:00294555237:1867020701:0196/pct:14.817931885765583,36.86733284588512,13.707007798911519,5.288813063611991/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -321,7 +321,7 @@ suspended until he bc impeached and romov?d,
 ana the Legislature may make a temporary ap?  
 pointment.&#x27;&#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_brandonblaze_ver01:data:sn84026994:00294555249:1867020702:0129/pct:16.432865731462925,37.58247558722618,13.96125584502338,4.732999032286443/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_brandonblaze_ver01:data:sn84026994:00294555249:1867020702:0129/pct:16.437319082609665,37.58247558722618,13.970162547316855,4.741796428257236/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -383,7 +383,7 @@ ment and conviction&quot; for certain offenses.
 This settles the question, no matter what  
 Mr. Madison may have said anywhere o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038521:00200293356:1867020801:0134/pct:34.96559025939651,40.698510529019,12.678665960825834,11.217257318952234/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038521:00200293356:1867020801:0134/pct:26.23775483187715,30.529019003595273,9.518136086841409,8.412942989214176/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -437,7 +437,7 @@ favor the oath, and Judges Fisher and
 Wylie think that it has been set aside  
 by the decision of the Supreme Court
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023246:00280777511:1867020801:0594/pct:21.317542561065878,172.15392838054515,105.84752035529237,77.81934794227686/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023246:00280777511:1867020801:0594/pct:5.33135875601629,43.03848209513629,26.471677156608663,19.454836985569216/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -483,7 +483,7 @@ and the Legislature may make a
 temporary appointment. This is a  
 great security.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_kirby_ver02:data:sn84022552:0020219722A:1867020801:0080/pct:131.35261923377638,259.5402935474938,101.56372165754496,69.7867626696206/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_kirby_ver02:data:sn84022552:0020219722A:1867020801:0080/pct:32.84457478005865,64.88507338687344,25.39589442815249,17.44669066740515/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -579,7 +579,7 @@ a temporary appointment. This is a 1
 great security.&quot;  
 Mr. George T. Curtis replies, in the 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_belgium_ver01:data:sn84026844:00202190790:1867020901:0138/pct:3.9086607693890145,54.69613259668508,14.60604813824316,7.3935651608709785/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_belgium_ver01:data:sn84026844:00202190790:1867020901:0138/pct:3.9155180689844338,54.70696565919185,14.619762737433998,7.388148629617593/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -609,7 +609,7 @@ This is a great
 security.  
 Mr. George T. Curtis replies, in the New Yor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777651:1867021301:0244/pct:274.58693941778125,72.58406543471675,50.82612116443745,24.78036958497425/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777651:1867021301:0244/pct:68.67375049193231,18.146016358679187,12.711530893349074,6.195092396243562/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -696,7 +696,7 @@ A TEMPORARY APPOINTMENT. THIS IS
 A GREAT SECURITY.”  
 Mr. Madison has heretofore been pretty hig
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685269:1867021401:0173/pct:6.7595818815331015,49.313765457263216,12.212543554006968,10.558499796167958/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685269:1867021401:0173/pct:6.758404459153458,49.307065217391305,12.214770945828253,10.560461956521738/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -776,7 +776,7 @@ manner with any person, and there be ground
   
 to believe he will shelter him.&quot; The lavi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_idacox_ver02:data:sn85042527:00202193997:1867021501:0312/pct:3.067838110326948,119.47143872955677,49.50309664410197,43.0196729082721/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_idacox_ver02:data:sn85042527:00202193997:1867021501:0312/pct:1.022612703442316,39.82381290985226,16.501032214700658,14.339890969424035/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -804,7 +804,7 @@ impeached and remored, and the Legislature
 may make a lemporary appointmenf. This is  
 a great security.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777018:1867021501:0444/pct:146.0406447091801,192.1059465074007,44.07848633496847,22.383796416515192/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777018:1867021501:0444/pct:36.52936021034181,48.02648662685017,11.025416301489921,5.595949104128798/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -889,7 +889,7 @@ be impeached and removed, and the
 Legislature may make tempory ap  
 pointment Vol. 2, page 367
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn83035595:00296026645:1868031301:0476/pct:33.79088785046729,39.99491158885638,13.011098130841122,20.073781961582498/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn83035595:00296026645:1868031301:0476/pct:25.361577794010227,29.996183691642283,9.758948137326517,15.061696985116397/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -934,7 +934,7 @@ dent ere ion te vieres
 FuNERAL OF HON. PORTUS BANTER.  
 The funeral of Hon. Portus Baxter wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023246:00280777511:1868031301:0822/pct:64.54159077109897,306.62201577184834,45.11232544019429,58.07497029275143/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023246:00280777511:1868031301:0822/pct:16.142748671222474,76.65550394296208,11.283219438116932,14.518742573187858/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -977,7 +977,7 @@ if found guilty; they can suspend him when pay the bonds in gold will be no hard
   
 suxpected, and the power will devolve upo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777651:1868031801:0483/pct:104.85952923310555,19.45514191984025,147.60820045558086,369.30537726429895/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777651:1868031801:0483/pct:26.21985950256313,4.863785479960063,36.90905638883615,92.32634431607474/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1060,7 +1060,7 @@ with any person, and there be grounds to be­
 lieve he will shelter him, the House of Repre-  
 sentatives can impeach him; they (evidently re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009571:0027952391A:1868032001:0469/pct:50.75588273958196,83.25939071280686,33.37715262258446,29.55733017844819/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009571:0027952391A:1868032001:0469/pct:16.91640378548896,27.75039432176656,11.124255169996495,9.851472134595163/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1079,7 +1079,7 @@ guilty; they can suspend him tehen suspected,
 and the power will devolve upon the Vice Presi­  
 dent.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009571:0027952391A:1868032001:0469/pct:50.71644537925595,112.74770777876368,33.25884054160642,6.398501429557331/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009571:0027952391A:1868032001:0469/pct:16.903259726603576,37.578864353312305,11.084822993340344,2.132623554153523/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1108,7 +1108,7 @@ suspended till he be impeached and re­
 moved, and the Legislature may make a  
 temporary appointment. Ivol. 2. pag
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn83035216:00280775174:1868032101:0164/pct:125.17053206002728,41.67779855730697,48.908594815825374,32.2201442693027/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn83035216:00280775174:1868032101:0164/pct:31.308650400955468,10.419449639326743,12.233407268384235,8.055036067325675/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1133,7 +1133,7 @@ can remove him if found guilty; they can
 suspend him when suspected, and the power  
 will devolve upon the Vice-President.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:0028077604A:1868032101:0605/pct:19.71326164874552,289.143018494988,50.46594982078853,21.798672878723703/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:0028077604A:1868032101:0605/pct:4.92831541218638,72.285754623747,12.616487455197133,5.449668219680926/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1169,7 +1169,7 @@ any person, and there be grounds to believe
 he will shelter him, the House of Represen­  
 tatives can impeach him; they (evidentl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_osceola_ver01:data:sn84022046:00279554152:1868033001:0308/pct:73.55123320633648,116.7325787535797,48.86705434128735,45.28842220100913/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_osceola_ver01:data:sn84022046:00279554152:1868033001:0308/pct:18.3841218925421,29.179165530406326,12.214314354450682,11.32056176711208/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1190,7 +1190,7 @@ Vice President.
 Where would the pure and spotless  
 statesman who spoke these words b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_osceola_ver01:data:sn84022046:00279554152:1868033001:0308/pct:73.79185883296572,161.8437201690986,48.786845799077604,12.723305604800219/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_osceola_ver01:data:sn84022046:00279554152:1868033001:0308/pct:18.444266238973537,40.455413144259616,12.194266238973537,3.1803926915734935/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1230,7 +1230,7 @@ peached and removed, and the Legis­
 lature may make a temporary ap­  
 pointment.— JW. 2 page 367
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_diamondville_ver05:data:sn84022150:00514150084:1868040101:0504/pct:6.80402491614758,69.7604225617808,13.392429324389076,8.35691378985097/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_diamondville_ver05:data:sn84022150:00514150084:1868040101:0504/pct:6.821993291806421,69.7604225617808,13.380450407283181,8.375778155065083/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

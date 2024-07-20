@@ -201,7 +201,7 @@ ulent bankruptcies. &#x27;—Tunomas JEF¥ERson.
 The following article is from the Bay  
 State Democrat. It correct, and time wil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153243:1840100301:0039/pct:52.674952715482306,58.31983805668016,13.86111861659011,5.283400809716599/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153243:1840100301:0039/pct:52.679456002882105,58.323211875843455,13.870125191389715,5.290148448043185/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -254,7 +254,7 @@ stocks for swindlers and shavers, who
 are to close their career of piracies by  
 fraudulent bankruptcies.&quot; Thomas Jef
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035312:00296026864:1840102701:0068/pct:82.82182438192669,114.02042711234911,17.838874680306905,5.772206747137109/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035312:00296026864:1840102701:0068/pct:62.16677329921092,85.51532033426184,13.393047558114736,4.333023831631074/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -278,7 +278,7 @@ The Murder of Professor Davis. The
 Richmond Star says that the young man  
 who was with the assassin of Professor Davis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn83016924:00200292091:1840121901:0198/pct:78.00702370500439,107.85175879396985,22.892888498683057,10.332914572864322/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn83016924:00200292091:1840121901:0198/pct:58.5419411506368,80.88881909547739,17.171717171717173,7.757537688442211/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -366,7 +366,7 @@ they will have more worldly wisdom and
 enough, I hope, to know that honesty is  
 the first chapter in the book of wisdo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_hotel_ver02:data:sn86071158:00206536536:1893100101:0275/pct:238.0952380952381,128.15142972211035,55.16840882694541,60.491341119613374/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_hotel_ver02:data:sn86071158:00206536536:1893100101:0275/pct:59.523809523809526,32.03785743052759,13.792102206736352,15.122835279903343/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

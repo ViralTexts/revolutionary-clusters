@@ -74,7 +74,7 @@ might afier aily e might not, at thar pleasure, make
 propofeim Parliam nt any amen:ment of the als complai­  
 ned of, wie appribended any expellation from the (ffiét of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025583:0051701509A:1776100501:0078/pct:65.00956022944551,74.28358367955683,29.115244220406744,21.22083732821988/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025583:0051701509A:1776100501:0078/pct:65.00956022944551,74.28713468981925,29.12683237731039,21.22083732821988/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -491,7 +491,7 @@ CHAS. THOMSON, Bec’ry.
 By order of Congress, .  
 JOHN HANCOCK, President
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1801072801:0540/pct:8.454855724480298,18.210422812192725,16.366739062984795,7.020648967551622/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1801072801:0540/pct:8.454855724480298,18.210422812192725,16.366739062984795,7.030481809242871/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -535,7 +535,7 @@ had to say. he might consider them as he pleas­
 ed; but that, as to them, they could not look  
 upon themselves in any other character excep
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216365:1826082601:0036/pct:44.16502946954813,25.77680525164114,17.87819253438114,5.680525164113786/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216365:1826082601:0036/pct:44.159245678365636,25.77454927358656,17.8802165182469,5.682945329365774/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

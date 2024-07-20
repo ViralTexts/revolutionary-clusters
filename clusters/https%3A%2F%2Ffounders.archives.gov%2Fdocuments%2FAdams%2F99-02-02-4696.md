@@ -91,7 +91,7 @@ tivc confideration, 1 .1 in mj
 communication to b- - eceivc  
 from the Senate, a deliberate and candi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800112801:0001/pct:30.574162679425836,13.02185380557649,30.406698564593302,55.13187641296157/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800112801:0001/pct:30.59011164274322,13.031901532278322,30.406698564593302,55.13690027631248/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -160,7 +160,7 @@ tute the dignity ot human nature, and lay
 the -nly found-,.tion for the prolperity or du-  
 Yation of Empires.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800120101:0002/pct:7.141139697042559,13.11213909714468,16.734792017311854,34.58286808103366/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800120101:0002/pct:7.1591728780956965,13.11213909714468,16.75282519836499,34.59084383474238/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -397,7 +397,7 @@ nature, and lay the only foundat—ion for;
 the prosperity or duration of siEmpireaiss  
 &#x27; ]OHN ADAMS. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215981:1800121001:0014/pct:28.677792041078305,6.507903921166085,22.22079589216945,42.38349414904537/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215981:1800121001:0014/pct:28.67411115389552,6.5072359642820485,22.22222222222222,42.38256526052893/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -456,7 +456,7 @@ nature. and lay the only foimda’ion for the
 rofp&#x27;erity or duration of empires  
 &quot;John Adams
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1800121501:0507/pct:47.99449469130948,62.826210826210826,23.47620920173024,32.96866096866097/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1800121501:0507/pct:47.98505995675251,62.81905195989061,23.47650874778848,32.96775296262534/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -532,7 +532,7 @@ the only foundation for the prosperity or­
 &quot;deration of empires. - ‘ !  
 S - John Adams
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1800121601:0410/pct:6.506584043377227,4.270741502595749,34.03563129357087,90.38103634048389/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1800121601:0410/pct:6.511747998967209,4.274006595487641,34.03563129357087,90.377771247592/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

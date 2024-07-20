@@ -60,7 +60,7 @@ children So long as they fhould ad juftly
 and peaceably towards the white people and  
 their red brethren
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801071501:0002/pct:49.915885604422016,58.43621399176955,21.629416005767844,7.466196355085244/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801071501:0002/pct:49.915885604422016,58.4411130707427,21.6534486902187,7.47599451303155/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -218,7 +218,7 @@ and the observance of the pledge
 which it adorns. The following is a  
 literal transcription of tho Document.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_topsn83020874_ver01:data:sn83020874:print:1831021201:0001/pct:6.937109937590014,63.79390375986384,15.986557849255881,11.124864613956367/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_topsn83020874_ver01:data:sn83020874:print:1831021201:0001/pct:6.943110897743639,63.79777193253907,15.992558809409505,11.128732786631595/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

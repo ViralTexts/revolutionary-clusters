@@ -70,7 +70,7 @@ and insufficiency of the Confederation to conduct the af­
 fairs of a country of such extent, and of such diversified  
 interests. The objects and motives for the adoption of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1832090401:0135/pct:33.95616746277044,82.37695872875744,15.018263557178983,10.251600088280732/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1832090401:0135/pct:33.951397668211825,82.36786935893193,15.020836259774313,10.254146897642428/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -97,7 +97,7 @@ A numerous meeting of the Democratic Citizens of
 the City and county of Philadelphia, have met and  
 determined to celebrate on the 17th, “the glorious triump
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1832091101:0143/pct:18.3206106870229,45.39524599226092,15.47921967769296,6.003316749585406/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1832091101:0143/pct:18.318021201413426,45.390227724961306,15.481743227326266,6.006337976269438/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -141,7 +141,7 @@ to all Constitutions.” w
 If Mr. Nuckolls definition of Nullifi­  
 cation be correct, that it is a revolution
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153139:1832092501:0353/pct:1.7094017094017093,18.411981457268514,15.334338863750629,16.866753833353144/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153139:1832092501:0353/pct:1.7149879894977935,18.41990570149372,15.334338863750629,16.866753833353144/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -293,7 +293,7 @@ ratio which appeals from a Constitution can­
 celled by its abuses, to original rights, para­  
 mount to all Constitutions
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1833021201:0175/pct:34.350810573974,74.6254176996874,14.48809697677815,12.644173763069958/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1833021201:0175/pct:34.360547198286355,74.6254176996874,14.48809697677815,12.644173763069958/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -377,7 +377,7 @@ and the ultimaratio which appeals from a
 Constitution conceded by its abuses, to orig­  
 inal rights, paramount to all Constitutions
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:0039334894A:1833022101:0250/pct:37.98399307808782,22.53863766456783,18.191650443434998,21.222095020034345/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:0039334894A:1833022101:0250/pct:37.9757785467128,22.535412791529545,18.193122837370243,21.222635570181716/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -423,7 +423,7 @@ purview of the Constitution ,and tUcJinal right, which
 appeals from a Constitution, cancelled by its abuses,to  
 original rights, paramount to all constitutions.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661472:1850082001:0227/pct:53.97557666214383,34.44883994440286,15.41383989145183,6.169143590291885/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661472:1850082001:0227/pct:53.9846223428313,34.455967782173275,15.422885572139304,6.169143590291885/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -452,7 +452,7 @@ nt to nil constitutions.&quot;
 \t a meeting nt Charlotte Court bouse in Vir-,  
 tin, shortly after the proclamation, the lat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661484:1851013101:0126/pct:59.27376826879614,87.6400518929119,13.635678770528854,7.017336950112042/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661484:1851013101:0126/pct:59.27376826879614,87.64398317411644,13.640701119983929,7.021268231316586/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -530,7 +530,7 @@ euner mi convention or the legislature. In
 DeSoto county, if wc mistake not, a meeting  
 called to ratify the first Nashville convention
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_lightningbolt_ver03:data:sn83016794:00415662397:1851052301:0100/pct:27.061248527679624,96.03224587479531,34.77620730270907,23.050762060712938/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_lightningbolt_ver03:data:sn83016794:00415662397:1851052301:0100/pct:20.31226984828399,72.02418440609648,26.101045809397554,17.294369567955663/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -557,7 +557,7 @@ final right which appeals from a Constitution, can­
 celled by its abuses to original rights, paramount  
 lo all Constitutions. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016866:00295878198:1852011001:0580/pct:73.2202447163515,15.215355805243446,18.451056729699665,11.505149812734082/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016866:00295878198:1852011001:0580/pct:54.93741307371349,11.411516853932584,13.838664812239221,8.637640449438202/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -629,7 +629,7 @@ o o a i ae tom a onition ca ee
 by its abuses, to original right paramount to all  
 constitutions.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743361:1860102801:0623/pct:50.465999309630654,125.85958163019957,56.29962029685882,23.106515989420533/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743361:1860102801:0623/pct:16.821999769876886,41.95319387673319,18.76654009895294,7.702171996473512/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -231,7 +231,7 @@ must forever &lt;h p nil, until you get a large
 standing army sufficient of its If to oppose the  
 enem . V i 2, pa. 537. 53H 539
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813121301:0397/pct:23.821428571428573,16.143607278055928,17.071428571428573,13.176211991696178/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813121301:0397/pct:23.81717550437422,16.14163614163614,17.074331964530142,13.17867317867318/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -396,7 +396,7 @@ ness. None of the French gentlemen whom I have
 sten with appoittments in that way, appear to know  
 anything of the matter.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530455:1854100501:0235/pct:101.84720229555236,216.4218789566979,48.54734576757532,18.30843251456065/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530455:1854100501:0235/pct:33.949067431850786,72.1406263188993,16.182448589191775,6.102810838186882/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -548,7 +548,7 @@ of the militia, who oome in, you canuot tell how, go, o
 i- sums your provisions, exhaust your storug, and leave you at  
 i- last at a critical moment.&quot; e e e e 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661083:1857010901:0054/pct:46.42800318217979,12.391604876209627,17.342879872712807,7.540530350634661/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661083:1857010901:0054/pct:46.43330681516839,12.395794059737756,17.348183505701407,7.544719534162792/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -571,7 +571,7 @@ g adept these measures or to advise thus freely. A character th
 y to lose, an estate to forfeit, the inestimable blessings of libsr- vc  
 l- ty at slake, and a life devoted, must be my excuse.?&lt;t Sparks, u
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661083:1857010901:0054/pct:46.52346857597454,19.693351765740857,16.84964200477327,3.958778434083197/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661083:1857010901:0054/pct:46.52877220896314,19.701730132797117,16.84964200477327,3.958778434083197/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -652,7 +652,7 @@ the greater name of Amerioa.&quot; It is not im­
 possible that, in the lapse ot lime, history will  
 vindicate tbe name adopted by Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_ewing_ver01:data:sn83025925:00280776221:1867112001:0553/pct:26.594613749114103,74.4746427570748,19.046775336640682,4.959372373213785/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_ewing_ver01:data:sn83025925:00280776221:1867112001:0553/pct:19.957461892945766,55.85598206780611,14.285714285714286,3.7265340431493414/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -818,7 +818,7 @@ John Hancock, “Ten days more will put
 an end to the existence of our army.” Yet  
 at Christmas he surprised the He-siau
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gore_ver01:data:sn86092518:00279550389:1889070401:0018/pct:37.3347679065478,17.070244328097733,11.005225945281278,1.2107329842931938/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gore_ver01:data:sn86092518:00279550389:1889070401:0018/pct:37.329030275088364,17.068382593521648,11.008657343373802,1.2142363761951502/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -911,7 +911,7 @@ liberty at stake , and a life devoted must bo
 my excuse. &quot; Across the country these  
 solemn words came freighted with the bur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_alliance_ver01:data:sn99021999:00206538831:1892121801:0895/pct:41.878531073446325,47.96523658435646,16.701977401129945,7.228583252862464/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_alliance_ver01:data:sn99021999:00206538831:1892121801:0895/pct:31.41999293535853,35.973927438267346,12.53973860826563,5.4248861911987865/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -932,7 +932,7 @@ liberty at stake,-and a life devoted,
 must be my excuse.&quot; He also hinted  
 at the propriety of enlarging his pow
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_dunning_ver01:data:sn84022835:00237285050:1894071301:0883/pct:31.54471544715447,326.9252709640616,56.17886178861789,20.308043354249858/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_dunning_ver01:data:sn84022835:00237285050:1894071301:0883/pct:7.8877820695263265,81.7313177410154,14.047570644439928,5.077010838562464/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -954,7 +954,7 @@ greater choice of difficulties to con­
 tend with than himself.&quot;  
 In this very dangerous crisis, Wash
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_dunning_ver01:data:sn84022835:00237285050:1894071301:0883/pct:27.642276422764226,361.9509412435824,61.05691056910569,23.103251568739303/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_dunning_ver01:data:sn84022835:00237285050:1894071301:0883/pct:6.911973978450905,90.4877353108956,15.267330758284205,5.775812892184826/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1029,7 +1029,7 @@ Had he missed at Trenton the jealousy of
 some officers and of many civilians, the spirit  
 that feared danger in his very virtues or tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_furio_ver01:data:sn85035816:00332896581:1898022501:0314/pct:31.64652567975831,19.222495390288874,12.292296072507552,3.5955746773202213/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_furio_ver01:data:sn85035816:00332896581:1898022501:0314/pct:31.6405512554276,19.21954217237671,12.294695110439871,3.5988631126133046/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1088,7 +1088,7 @@ In his lifo. We can rend it all now in Iiis
 letters, but lie showed nothing of It to his  
 men. Soliuylor, always faithful, sent hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aqua_ver01:data:sn83045830:00175031613:1898051401:0431/pct:56.8154643284177,9.855072463768115,13.7106416899163,4.073226544622425/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aqua_ver01:data:sn83045830:00175031613:1898051401:0431/pct:56.8154643284177,9.855072463768115,13.717284442673044,4.078311721332316/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1112,7 +1112,7 @@ well worthy of notice in the milit iry line,
 He has proved himself on all occasions an  
 active, spirited, sensible man.” Wash
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_gargoyle_ver02:data:sn92064114:00514153401:1898121001:0682/pct:71.08357165554496,18.57304643261608,19.812519860184302,5.466900030886441/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_gargoyle_ver02:data:sn92064114:00514153401:1898121001:0682/pct:71.08357165554496,18.579910086138852,19.81781590933164,5.466900030886441/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1132,7 +1132,7 @@ come useless. Many of these threw their
 arms away; some lost them, whilst others  
 deserted and took them away.” He depre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:00271740554:1899010101:0014/pct:43.22334333242433,52.07573916565411,12.871557131169894,3.027541514783313/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:00271740554:1899010101:0014/pct:43.22334333242433,52.07911435128932,12.885192255249523,3.030916700418523/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

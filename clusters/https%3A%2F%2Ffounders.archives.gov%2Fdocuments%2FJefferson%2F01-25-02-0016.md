@@ -190,7 +190,7 @@ American Minister in France,—a
 very able gentleman and honorably  
 frank in the avowal of his opinions
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85033123:00514151234:1873031301:0220/pct:5.250628223779923,13.13170731707317,14.574791694220341,10.8/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85033123:00514151234:1873031301:0220/pct:5.250628223779923,13.134959349593496,14.579200282149628,10.803252032520325/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -214,7 +214,7 @@ better than as it now is.&quot;
 Gouverneur Morris was then Amer-  
 ican Minister in France--a very abl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn87076794:00280775125:1873032001:0596/pct:278.1725888324873,55.27714502657555,36.99943598420756,14.838919622518711/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn87076794:00280775125:1873032001:0596/pct:69.57257723233178,13.819286256643888,9.253773451826774,3.7097299056296777/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

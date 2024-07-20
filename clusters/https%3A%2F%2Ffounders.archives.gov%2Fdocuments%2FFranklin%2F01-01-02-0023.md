@@ -327,7 +327,7 @@ has no Types, and therefore we entreat the candid Reader
 not to impute the defect to our Ignorance, for our Doctor  
 can fay all the Oreek Letters by heart
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184674:1856121501:0845/pct:206.37333723139892,128.26393789696542,38.82473322613653,47.89461303222771/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184674:1856121501:0845/pct:68.78105817012569,42.74961778195931,12.939686251583357,15.962993453290995/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -348,7 +348,7 @@ wanting to fill up thefe Papers with a grateful Interfperfion
 of more ferious Morals, which may be drawn from the moft  
 ludicrous and odd Parts of Life
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184674:1856121501:0845/pct:206.680309896214,178.54622441778406,38.43005408565999,8.19807104210774/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184674:1856121501:0845/pct:68.8833674364221,59.50840879689521,12.808145766345124,2.732368967815281/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -369,7 +369,7 @@ town with the most comical and diverting incident
 cf humane life, which in no large a place as Boston, j  
 will tot fail of a nnive al exemplification.&quot; Itsedi- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_ariel_ver01:data:sn82015418:0021247423A:1860030101:0038/pct:3.259141494435612,47.34882671480145,17.30259671436142,4.884927797833935/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_ariel_ver01:data:sn82015418:0021247423A:1860030101:0038/pct:2.4513051543659734,35.514440433213,12.972041870942096,3.6665162454873648/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -395,7 +395,7 @@ theref re we in treat the candid Reader uot to impute
 the defect to onr Ignorance, for our Doctor can say  
 II the Greek Letters by heart.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_ariel_ver01:data:sn82015418:0021247423A:1860030101:0038/pct:3.1531531531531534,55.2797833935018,17.36883942766296,7.321750902527076/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_ariel_ver01:data:sn82015418:0021247423A:1860030101:0038/pct:2.3718033655757256,41.459837545126355,13.025043063468928,5.49413357400722/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -509,13 +509,13 @@ fore we intreat the candid trader not to im­
 pute the defect to our ifnoranee, for our Doc­  
 tor can aay all the Greek letters by heart
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291049:1862050301:0309/pct:64.02450009007386,21.21466554715925,14.141596108809223,55.40162328575427/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291049:1862050301:0309/pct:64.02450009007386,21.221662468513856,14.15060349486579,55.40512174643157/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Continental monthly_](https://archive.org/details/sim_continental-monthly_1863-09_4_3/page/n19/mode/1up?view=theater)
+## [From _The Continental Monthly; Devoted to Literature and National Policy (1862-1864)_](https://archive.org/details/sim_continental-monthly_1863-09_4_3/page/n19/mode/1up?view=theater)
 
 #### 1863-09-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -694,7 +694,7 @@ not 1 1 impute the defect to our Ignorance, for
 our Doctor can sjy ail the Orsti Letters by i  
 &quot;tari
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202197589:1866041101:0064/pct:34.843158464034616,16.385191812996307,30.394808004326663,112.3140588301085/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202197589:1866041101:0064/pct:26.142818501487692,12.29168996756515,22.802272112523667,84.2411363382172/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -746,7 +746,7 @@ In another place appears the follow
 ing : His Majesty s speech to the Far-  
 liament, Oct. 11, tho&#x27; already published, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn83035595:00296026657:1870052701:0401/pct:48.38032393521296,50.8315348482925,13.392321535692862,19.893360416402185/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn83035595:00296026657:1870052701:0401/pct:36.30907726931733,38.12365113621937,10.05251312828207,14.9295417036943/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -829,7 +829,7 @@ ccptanre in Town and Country as to require a
 far greater Number of them to bo printed than  
 tbere ;a of other public papers; and it bein
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_lake_ver02:data:sn82014064:no_reel:1870071001:0006/pct:20.655546935609,68.41691557931144,9.115593483320403,10.15563590630404/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_lake_ver02:data:sn82014064:no_reel:1870071001:0006/pct:20.660395655546935,68.42084577896557,9.12044220325834,10.15563590630404/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -888,7 +888,7 @@ require a far greater number of them to be
 printed, than there is of other public Pa­  
 pers; and it being besides more generall
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_carrie_ver01:data:sn85033295:00271768722:1870072701:0665/pct:25.23474178403756,30.175015087507543,10.941575378195097,14.494065580366124/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_carrie_ver01:data:sn85033295:00271768722:1870072701:0665/pct:25.239088854112328,30.175015087507543,10.950269518344635,14.494065580366124/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1051,7 +1051,7 @@ not to impel the defect to our Ignorance, for
 our Doctor can say all the Greek Letters by  
 heart. - .
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058250:0027174481A:1872020301:0228/pct:7.974010632014176,3.2805821878248818,121.83992911990549,15.039852142774633/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058250:0027174481A:1872020301:0228/pct:5.983158516767617,2.4604366408686613,91.43152607475255,11.285664779946863/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1143,7 +1143,7 @@ may be drawn from the most ludicrous and odd
 Earts of life.&quot; The advertisements afe curious,  
 fere is a specimen : &quot;A servant boy&#x27;s time, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:0029455127A:1872053001:0237/pct:18.563344860106884,54.695895121427036,15.859792518076077,11.551687083601978/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:0029455127A:1872053001:0237/pct:18.5685843026302,54.70305895837811,15.865031960599392,11.551687083601978/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1162,7 +1162,7 @@ er pamphlet or paper of the like nature, unless
 it should be first supervised by the secretary of  
 the province. As a consequence, James Frank
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:0029455127A:1873041701:0418/pct:34.03604763437399,34.411384217335055,16.044415835210813,2.8676153514445883/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:0029455127A:1873041701:0418/pct:34.046776096985305,34.418571223228405,16.044415835210813,2.8640218484979156/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1208,7 +1208,7 @@ not to impute the defect to our Ignoiance,
 for our Doctor can say all The Greek Litters  
 by heart.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:0027952536A:1873122401:0133/pct:31.77391304347826,5.815292491939198,14.591304347826087,15.096729617687702/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:0027952536A:1873122401:0133/pct:31.768388106416275,5.814622913068509,14.593114241001565,15.097869890616005/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1228,7 +1228,7 @@ paper will be to entertain the town with
 the most comical and diverting incidents of  
 human life&quot;; he announced himself 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777043:1874032701:0051/pct:183.53188507358095,245.22794782384088,38.89278206026629,10.486891385767791/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777043:1874032701:0051/pct:45.88297126839524,61.30698695596022,9.723195515066573,2.6217228464419478/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1253,7 +1253,7 @@ not to impute the defect to our ignorance,
 for our doctor can say all the Greek letters  
 by heart.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777043:1874032701:0051/pct:183.3917309039944,259.9509234146972,38.68255080588648,15.652847733436653/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777043:1874032701:0051/pct:45.8479327259986,64.9877308536743,9.67063770147162,3.9132119333591633/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1293,7 +1293,7 @@ nounced to be &quot;to entertain the town with
 the most comical and diverting incidents  
 of Human life.&quot; It was also announce
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777833:1875010501:0005/pct:9.538002980625931,333.5758254057079,44.48584202682564,9.904868494683827/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777833:1875010501:0005/pct:2.384500745156483,83.39395635142698,11.12146050670641,2.4762171236709567/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1381,7 +1381,7 @@ place as Boston, will not fail of universal
 exemplification, and of most serious morals,  
 which may be drawn from the odd parts o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_bentley_ver01:data:sn83025733:00200297593:1880052001:0141/pct:80.40152963671129,263.8083973979894,58.31739961759082,19.455943228858665/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_bentley_ver01:data:sn83025733:00200297593:1880052001:0141/pct:20.109995217599234,65.95209934949735,14.586322333811573,4.863985807214666/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1426,7 +1426,7 @@ Piece, desires the Readers to accept of
 it as a Preface to what they may herea  
 ter meet with in this Paper
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00280779179:1882100401:0455/pct:126.28099173553719,69.64500273074823,48.37465564738292,22.98197706171491/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00280779179:1882100401:0455/pct:31.583298883836296,17.411250682687058,12.098663359514951,5.745494265428728/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1456,7 +1456,7 @@ candid Reader not to impute the defect
 to our Ignorance, for our Doctor can  
 say all the Greeh Letters by heart.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00280779179:1882100401:0455/pct:125.6198347107438,92.97651556526488,48.59504132231405,33.11851447296559/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00280779179:1882100401:0455/pct:31.41794129805705,23.24412889131622,12.1537825547747,8.279628618241398/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1477,7 +1477,7 @@ carrying it on unprofitable, has entirely dropt
 the undertaking.&quot;  
 Tho greatest portion of the paper is occu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555675:1883011801:0611/pct:84.08594319009468,85.10925276503912,14.566642388929353,3.264094955489614/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555675:1883011801:0611/pct:63.108034250318816,63.83868357162126,10.93095281472035,2.44132721877529/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1561,7 +1561,7 @@ supervised by the Becretary as to render his
 carrying it on improfltable, has intlrely dropt  
 the Undertaking.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_franco_ver01:data:sn84024546:00237280027:1889050501:0060/pct:65.60077519379846,102.54472159234064,14.03423772609819,2.6455026455026456/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_franco_ver01:data:sn84024546:00237280027:1889050501:0060/pct:49.21660474882894,76.90854119425548,10.53141657244387,1.9904257999496096/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1583,7 +1583,7 @@ intirely dropt the Undertaking.&quot;
   
 This neat piece of prevarication i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_mustang_ver01:data:sn99067997:0041562508A:1889080201:0371/pct:85.02994011976048,30.924975731521286,18.14990708238695,4.534738593815005/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_mustang_ver01:data:sn99067997:0041562508A:1889080201:0371/pct:68.03039480204835,24.743907399874264,14.520125543747591,3.631522502866018/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1643,7 +1643,7 @@ except It be first supervised by the secretary
 of the province. For some tune Franklin  
 yielded obedience to this edict, but within 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_freeport_ver01:data:sn82014248:00332895722:1889112701:0517/pct:35.97246127366609,21.454165422514183,9.581181870338497,4.5535980889817855/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_freeport_ver01:data:sn82014248:00332895722:1889112701:0517/pct:35.96558317399617,21.450962830273173,9.584130019120458,4.556650246305419/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1663,7 +1663,7 @@ except it be first supervised by the secretary
 of the province. For some time Franklin  
 yielded obedience to this edict, but within 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_hickok_ver01:data:sn85032490:00237286650:1889120301:0556/pct:24.16317991631799,39.13760862391376,18.4997011356844,4.234957650423496/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_hickok_ver01:data:sn85032490:00237286650:1889120301:0556/pct:16.11601136193751,26.091739082609173,12.348632082523546,2.8269717302826973/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1689,7 +1689,7 @@ secretary of the province. For some time
 Franklin yielded obedience to this edict, but with­  
 in a few months after it was issued his pape
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685142:1889120501:0230/pct:71.3181367690783,24.516129032258064,21.40733399405352,7.330130404941661/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685142:1889120501:0230/pct:71.30400317082838,24.512764205325283,21.409697450125513,7.333699332052338/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -220,7 +220,7 @@ ia*tt proceeds theivof to my wife charged with
 thJ following Legacies, to be paid out of that  
 land only,” £ c. vVt\
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215634:1836081201:0216/pct:2.009204175552812,27.476038338658146,17.521607363340443,22.39464475886201/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215634:1836081201:0216/pct:2.0089786756453423,27.47394842929946,17.523381967826413,22.395476788113893/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -351,7 +351,7 @@ U ssiiim. i o.\ INIiim mi nt.— The Hoard ol
 M.matters ol the \\ ashiiiulon National iMommicnl  
 Societs invite designs for tins structure, intende
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348860:1836081801:0022/pct:49.08354234999035,27.30083934619349,15.64730850858576,17.685171550581654/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348860:1836081801:0022/pct:49.074074074074076,27.296819787985864,15.649112654320987,17.686248527679624/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -401,7 +401,7 @@ coeds thereof to my wife charged with the
 follo wing Legacies, to he paid out of that  
 fund only,” Sic. &amp;c_„Yuf. /,it. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348951:1836081801:0316/pct:55.32857968780112,68.04790748898678,14.896897282713432,19.60352422907489/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348951:1836081801:0316/pct:55.31791907514451,68.03854094975912,14.898843930635838,19.604267033723332/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -456,7 +456,7 @@ out of that fund only,” 8tc. A-c.
 Mont tinpvlnr and horrid death.—  
 The history of accidents for fifty year
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186932:1836081801:0537/pct:57.877911402039885,5.87072773773541,13.304917034556249,24.308300395256918/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186932:1836081801:0537/pct:57.86910197869102,5.870045333023364,13.307965499746322,24.30934945174164/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -547,7 +547,7 @@ will&#x27;be particularly gratifying to the people
 4 ;ng legacies, to be paid out of that fund only,&quot; &amp;c. &amp;e.  
 LATER FROM FLORIDA
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_armani_ver02:data:sn84024735:00415664229:1836081901:0442/pct:0.5973051812751771,51.47729526075749,21.516877344075567,13.087447947650208/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_armani_ver02:data:sn84024735:00415664229:1836081901:0442/pct:0.5973051812751771,51.48390508295327,21.526137889521692,13.0907528587481/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -903,7 +903,7 @@ I give the nett proceeds thereof to my wife, charged
 with the following lLegacies, to be %aad out of that  
 fund, only,” &amp;e. &amp;e. : 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1836082301:0341/pct:19.465355661391918,78.79679415643704,14.70271931172223,12.945115146596327/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1836082301:0341/pct:19.475597890100886,78.79679415643704,14.712961540431198,12.958641912684724/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -960,7 +960,7 @@ day it is not unworthy to notice the whosolt
 removal ol&quot; a building with its stores and theii  
 contents, families, and the business of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_hookandcook_ver03:data:sn88084121:00295861800:1836082301:0139/pct:3.735144312393888,4.613023880310732,31.295981890209394,93.88126978037786/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_hookandcook_ver03:data:sn88084121:00295861800:1836082301:0139/pct:3.7445764950009433,4.616220709056615,31.30541407281645,93.88446660912375/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1079,7 +1079,7 @@ of to my wife, charged with the fol­
 lowing legacies, to Oe paid out of that  
 fund only,&quot; &amp;c. &amp;c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn83035366:00296029087:1836082601:0226/pct:103.81543921916592,82.20547523838819,19.01064773735581,35.28145186096586/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn83035366:00296029087:1836082601:0226/pct:77.89613848202397,61.65795139956936,14.269862405681314,26.468778837280837/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1458,7 +1458,7 @@ i»11e. e&gt;f in the prog es&gt; of political science and
 tie* cause of true libel ty  
 &#x27;Phis provision bears * valence oi the vn n. li
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215634:1836121001:0624/pct:18.69306039815544,27.165324704642938,17.66955348104825,9.88035217096847/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215634:1836121001:0624/pct:18.690958164642375,27.163280662151994,17.671315039736093,9.882116879859543/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1489,7 +1489,7 @@ cal science and the cause of true liberty. j l*&#x27;
 This provision bears evidence of the value lie set on &#x27; dv  
 his Report ol the Debates in the Convention; and he 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_armani_ver02:data:sn84024735:00415664229:1836121301:0581/pct:1.8823201338538762,76.2589928057554,19.88287785833798,7.394084732214228/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_armani_ver02:data:sn84024735:00415664229:1836121301:0581/pct:1.8916155419222904,76.26565414335198,19.88752556237219,7.394084732214228/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1598,7 +1598,7 @@ rue liberty.&quot; *
 This provision bears evidence of the value  
 c set on his Report of the Debates in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_hookandcook_ver03:data:sn88084121:00295861800:1837012401:0221/pct:80.6635844438401,9.16247747320497,17.024748436225185,13.572986815896803/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_hookandcook_ver03:data:sn88084121:00295861800:1837012401:0221/pct:80.66811712446741,9.16880078409055,17.02021575559786,13.569825160454014/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1659,7 +1659,7 @@ timber of the frigate Constitution
 and presented to him by Comme-  
 dore Elliott, then her commander
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_grange_ver01:data:sn84026409:0028077649A:1883091201:0329/pct:293.8150642988365,272.42570836212855,40.90630740967544,15.29601474314674/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_grange_ver01:data:sn84026409:0028077649A:1883091201:0329/pct:73.46501301485225,68.10642709053214,10.228142704026949,3.824003685786685/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1679,7 +1679,7 @@ heretofore made.&quot; He first devises to his wife,
 for her life, &quot;the tract of land whereon I live,&quot; with  
 condition that if she should pay to his estate th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ike_ver01:data:sn85042682:00211103383:1886091901:0321/pct:162.64124293785312,241.06463878326997,42.867231638418076,9.505703422053232/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ike_ver01:data:sn85042682:00211103383:1886091901:0321/pct:40.68185832891715,60.26615969581749,10.722487193075429,2.376425855513308/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1721,7 +1721,7 @@ thereor I give the net proceeds to my wife, charged
  te tatse soioe  
 The legacies include $2,000 to the Colonization So
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ike_ver01:data:sn85042682:00211103383:1886091901:0321/pct:162.42937853107344,271.5372080391092,43.50282485875706,36.77349266702879/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ike_ver01:data:sn85042682:00211103383:1886091901:0321/pct:40.628864158275924,67.8843020097773,10.881469704999116,9.193373166757198/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1741,7 +1741,7 @@ Ewing, and the walking staff made from a timber of
 the frigate Constitution, and presented me by Com-  
 modore Elliott, her present commander.&quot; Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ike_ver01:data:sn85042682:00211103383:1886091901:0321/pct:162.21751412429379,313.3079847908745,42.79661016949152,9.451385116784357/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ike_ver01:data:sn85042682:00211103383:1886091901:0321/pct:40.5758699876347,78.32699619771863,10.704822469528352,2.362846279196089/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

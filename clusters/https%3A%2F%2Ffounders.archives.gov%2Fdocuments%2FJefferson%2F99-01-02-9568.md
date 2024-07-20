@@ -145,7 +145,7 @@ me proper that the whole should
 ought into public, view.  
 TH: JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809011801:0002/pct:7.019308125502816,50.247653806047964,17.035398230088497,16.25391032325339/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809011801:0002/pct:7.0327165459908825,50.247653806047964,17.035398230088497,16.26259993048314/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -186,7 +186,7 @@ Pinkney, it has heroine proper that the whole
 should be brought into publii k view.  
 Til: JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809012301:0323/pct:54.71938775510204,48.59463850528026,21.25,17.67668562144598/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809012301:0323/pct:54.70543228768172,48.58674463937622,21.250956388676357,17.67787524366472/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -244,7 +244,7 @@ Pinkney, it has become proper that the
 Whole should be brought into public view.  
 TH: JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809012401:0334/pct:6.1343012704174225,20.134654471544714,17.477313974591652,25.8130081300813/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809012401:0334/pct:6.133188169116313,20.132097040518225,17.480191132885743,25.813963334603496/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -302,7 +302,7 @@ the whole should be brought into public
 View.  
 Til : JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809012401:0031/pct:6.413345690454125,34.50442364405693,17.36793327154773,26.272599051160405/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809012401:0031/pct:6.412157153446998,34.5,17.370892018779344,26.273504273504273/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -708,7 +708,7 @@ the fiatements of Mr. Pinkney, it has
 become proper that the whole should  
 ‘be brought into publicwiew. .
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809021401:0233/pct:4.390694808195963,57.635074403275745,22.06131566784779,28.043543393588337/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809021401:0233/pct:4.390694808195963,57.64173241452778,22.081856930108355,28.040214387962315/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

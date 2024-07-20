@@ -176,7 +176,7 @@ may be Bappy 2s they have been ity frions,
 antt that he will finally give you that re­  
 ward which this world cannot give
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1784012401:0496/pct:3.3877692842251563,3.3285094066570187,59.20778318276581,90.48202159634866/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1784012401:0496/pct:3.3935603428306695,3.332220119484953,59.2019921241603,90.49315373483246/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -471,7 +471,7 @@ titude, invariably regarding the rights of
 civil power, throughout all disasters and  
 changes.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1828042401:0502/pct:43.203259005145796,58.12889812889813,17.753001715265867,3.367983367983368/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1828042401:0502/pct:43.19399785637728,58.12084257206208,17.7545551982851,3.370981152993348/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -594,7 +594,7 @@ days may be happy as they have been illustrious; and I
 that he will finally give you that reward which this)  
 world cannot give. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1837090201:0073/pct:58.34747200542925,46.669723718904045,19.172039362063114,20.97902097902098/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1837090201:0073/pct:58.34747200542925,46.669723718904045,19.189005768578216,20.990484924911154/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -725,7 +725,7 @@ MILITARY CONTEST WITH WIS POM AND FORTITUDE, INVARI­
 ABLY REGARDING THE RIGHTS OF THE CIVIL POWER.  
 Til HOUGH ALL DISASTERS AND CHANGES &quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026396:1861081601:0164/pct:60.9287317620651,71.23981720643751,10.732323232323232,1.867673355851381/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026396:1861081601:0164/pct:60.933408155630374,71.2464401616001,10.736999625888515,1.8643618782700841/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -815,7 +815,7 @@ all disasters and changes.
 DR. RoBert thoHpson  
 Surgeon and Phvsician
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774686:1863062501:1046/pct:195.98689598689597,315.9187014049925,56.92055692055692,54.453689810394216/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774686:1863062501:1046/pct:49.02683876254866,78.97967535124812,14.238885474288056,13.613422452598554/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -834,7 +834,7 @@ wisdom and fortitude, invariably regarding
 t$ rights of the civil power, through alldia-  
 sters and changes.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_bunting_ver01:data:sn86069123:00202195234:1863072301:0128/pct:4.996530187369882,119.97917480150983,19.222761970853576,3.7225042301184432/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_bunting_ver01:data:sn86069123:00202195234:1863072301:0128/pct:3.748047891723061,89.99088897566055,14.41957313899011,2.7853702980606534/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -863,7 +863,7 @@ power through all disasters and changes.&quot;
   
 THE RIoTARS ANd THE NeOREEs.Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn82014129:00279528724:1863080601:0619/pct:220.79177999395588,192.0447985221106,62.14868540344515,27.45641380902898/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn82014129:00279528724:1863080601:0619/pct:73.59725999798529,64.01493284070354,20.71622846781505,9.152137936342994/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -881,7 +881,7 @@ contest with wisdom and fortitude, invariably
 regarding the rights of the civil pouter, through  
 all disasters and changes.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn86058108:00279557360:1863080801:0347/pct:57.599360894747356,68.36565929935348,13.241461953265429,1.8493459630130806/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn86058108:00279557360:1863080801:0347/pct:57.60435390453365,68.36941813261164,13.256440982624326,1.8643812960457073/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -899,7 +899,7 @@ ry contest with wisdom and fortitude, in-
 variably regarding the rights of the civil  
 power, through all disasters and cha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn85025181:00237287952:1863082201:0371/pct:232.4127906976744,260.632183908046,51.96220930232558,11.494252873563218/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn85025181:00237287952:1863082201:0371/pct:58.12431842966194,65.1580459770115,12.995274445656126,2.8735632183908044/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1011,7 +1011,7 @@ military contest, invariably regard­
 ing the rights of the civil power  
 through all disasters and changes.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn87075001:00237286935:1869030501:0555/pct:168.65203761755487,197.03041660660227,48.275862068965516,9.571861035029551/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn87075001:00237286935:1869030501:0555/pct:42.17127180090143,49.25760415165057,12.071330589849108,2.3929652587573877/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1033,7 +1033,7 @@ ry of your virtues will not terminate with your
 military command. It will continue to animate  
 remotest ages.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477850:1869080401:0737/pct:163.2090761750405,145.4233409610984,45.05672609400324,12.013729977116705/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477850:1869080401:0737/pct:40.810536980749745,36.3558352402746,11.26646403242148,3.0034324942791764/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1167,7 +1167,7 @@ fest with wisdom and fortitude, invariably re
 garding the rights of the civil power through  
 all disasters and changes.&quot; This is the Dem
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044747:1880072901:0703/pct:275.2817430503381,277.4169069661557,49.43651389932381,12.278039156169374/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044747:1880072901:0703/pct:68.84629838406615,69.35422674153892,12.363773017662533,3.0695097890423435/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1286,7 +1286,7 @@ fellow citizens; but the glory of your virtues will not
 terminate with your military command; it will continue  
 to animate remotest ages
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044826:1883122201:0708/pct:29.135618479880776,20.832702498107494,97.0193740685544,368.4330052990159/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044826:1883122201:0708/pct:7.287977632805219,5.2081756245268735,24.268406337371854,92.10825132475398/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1308,7 +1308,7 @@ mand; it will continue to animate re-
 motest ages.&quot; The next morning, &quot;eased  
 of a great load of public care,&quot; Washin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn86071719:00280777687:1883122601:0560/pct:87.92229729729729,299.5160831198406,56.41891891891892,19.64133219470538/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn86071719:00280777687:1883122601:0560/pct:21.989860583016476,74.87902077996014,14.110688635403465,4.910333048676345/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1394,7 +1394,7 @@ prayers,
   
 that your days may be happy as they have
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282346:1887051401:0397/pct:71.99074074074075,33.24211435978683,105.70987654320987,39.34898458879447/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282346:1887051401:0397/pct:18.00463141644153,8.310528589946708,26.437668853724432,9.837246147198618/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1485,7 +1485,7 @@ motest ages.&quot;’
   
 What Caused His Joy.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_elderbrain_ver03:data:sn92064073:00514153309:1898122001:0720/pct:30.28505094802012,51.127272727272725,12.292015993808848,5.672727272727273/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_elderbrain_ver03:data:sn92064073:00514153309:1898122001:0720/pct:30.28505094802012,51.13073593073593,12.30921363773163,5.6761904761904765/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1505,7 +1505,7 @@ military commands, but it will continue to animate remot­
 est ages.”  
 There is no class of men who give away from their mean
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685166:1898122201:0464/pct:7.957213670753979,81.16313094367227,20.89746934516045,3.017556693489393/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685166:1898122201:0464/pct:7.955138236828378,81.14829036386908,20.898539384454878,3.021576156518559/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1528,7 +1528,7 @@ minate with your military commands,
 but it will ootidnue to animate re­  
 motest ages.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carlisle_ver01:data:sn86081854:00296026086:1898122201:0390/pct:81.22224571791077,50.843304021911486,14.548530344681751,5.751765893037336/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carlisle_ver01:data:sn86081854:00296026086:1898122201:0390/pct:81.22224571791077,50.85291432415549,14.555579051244097,5.74215559079333/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1547,7 +1547,7 @@ great theater of action with the blessings of your fellow-citizens. But the glor
 virtues will not terminate with your military command; it will continue to animate re­  
 motest ages 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_harry_ver01:data:sn82016187:00211102366:1899021601:0681/pct:24.44,109.71818272991676,34.14666666666667,3.1090161468257946/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_harry_ver01:data:sn82016187:00211102366:1899021601:0681/pct:18.340669601173804,82.28863704743758,25.62358276643991,2.3367766522916456/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -83,7 +83,7 @@ wem it expedient and confident with the in­
 ■ tereftof the United States, to remit and dis­  
 continue the reft mints and prohibitions afore
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799021901:0002/pct:9.51923076923077,5.090582422518341,34.87980769230769,88.30663272945051/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799021901:0002/pct:9.537259615384615,5.094325497829017,34.86778846153846,88.3103758047612/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -205,7 +205,7 @@ L *
   
 purpofe iC ia heSn? rtqmrej, that fucli refT’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1800051901:0390/pct:51.21861152141802,6.138367623784761,44.442392909896604,89.57721003843545/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1800051901:0390/pct:51.20915635960864,6.137673787724652,44.438803765922096,89.56991070419352/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -269,7 +269,7 @@ ports and places in the said Hland of
 north, rodnd by the eastern end there­  
 of, as far as the port of Jacmel, on the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1800052001:0290/pct:76.42201834862385,61.37162954279015,16.452599388379205,33.26494724501759/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1800052001:0290/pct:76.42711518858307,61.37162954279015,16.44750254841998,33.27471668620555/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -304,7 +304,7 @@ and citizens of the United States, aree
 to take due notice, and govern them­  
 selves. ~
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1800052001:0291/pct:5.6606675896016,5.869692819409118,17.02814951545916,14.723146155351204/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1800052001:0291/pct:5.670922422191458,5.869692819409118,17.02814951545916,14.726407095806431/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -336,7 +336,7 @@ To provide for salvage in cases of re­
 capture.—ls Declaring the aflent of  
 Congress to certain a&amp;s of the state o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1800052701:0294/pct:9.624268555589776,27.7979046313522,16.692331382814906,12.023891119161853/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1800052701:0294/pct:9.629401498819423,27.80116844544535,16.7025972692742,12.027154933255002/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -443,7 +443,7 @@ of the cuftoms, and all other officers and citi
 yens of the United States are to take due no­  
 tice and govern themfclves accordingly
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1800101301:0472/pct:3.7661050545094152,54.91183879093199,22.973240832507432,34.48591710556446/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1800101301:0472/pct:3.7653586999603648,54.90555237550086,22.97364248910028,34.48483113909559/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -493,7 +493,7 @@ said Republic, with which in his opi­
 nion a commercial intercourse may  
 be safely renewed ; and also i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808061001:0002/pct:22.16738638700391,42.65085095410005,17.56117622866543,12.261474987106755/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808061001:0002/pct:22.181095345808487,42.659446450060166,17.554321749263142,12.261474987106755/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

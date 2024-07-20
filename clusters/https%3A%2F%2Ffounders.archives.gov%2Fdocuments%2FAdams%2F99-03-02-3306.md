@@ -246,7 +246,7 @@ Fire from the mind as vigor from the
 limb; [near the brim.  
 And life’s enchanted cup but sparkle
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216237:1817112601:0192/pct:6.118842500552242,57.66442953020134,17.738016346366248,3.302013422818792/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216237:1817112601:0192/pct:6.1174911660777385,57.65669037713059,17.7414605418139,3.3060439314633383/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -379,7 +379,7 @@ And vigor from the limb,
 And life&#x27;s enchanted cup,  
 But sparkles near the brim.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776026:1853111901:0817/pct:22.684852835606605,204.48823207443897,50.753768844221106,11.822660098522167/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776026:1853111901:0817/pct:5.674268270784701,51.12205801860974,12.695277428622733,2.955665024630542/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -462,7 +462,7 @@ Fire from the mind as vigor from the tomb;
 And life&#x27;s enchanted cup but sparkles near the  
 brim
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn86071719:00280777687:1884122401:0984/pct:20.883882149046794,318.88746984532423,57.62564991334489,6.187029941819214/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn86071719:00280777687:1884122401:0984/pct:5.220970537261699,79.72186746133106,14.406412478336222,1.5467574854548034/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -496,7 +496,7 @@ Bro. Geo. H. Milled, of Americus Lodge, is
 the genial conductor of one of the &quot;owl” trains  
 on the New York and New Haven railroad
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hughes_ver01:data:sn85026214:print00205958290:1887032001:0003/pct:55.192342423695145,11.188811188811188,11.883691529709228,7.575757575757576/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hughes_ver01:data:sn85026214:print00205958290:1887032001:0003/pct:55.205887664800436,11.195286195286196,11.883691529709228,7.5725200725200725/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -546,7 +546,7 @@ me hack to his hospitable home, were as
 genuine as ol old.  
 Within the last six years I have stood b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fireweed_ver01:data:sn83016209:00332899016:1895032901:0268/pct:50.752773375594295,70.31202202508412,14.263074484944532,7.80055062710309/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fireweed_ver01:data:sn83016209:00332899016:1895032901:0268/pct:39.33780256895758,54.492650545282125,11.069034338058442,6.049470523154734/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

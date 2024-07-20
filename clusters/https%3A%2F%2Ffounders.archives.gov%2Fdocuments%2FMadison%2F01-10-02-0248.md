@@ -146,7 +146,7 @@ I ous, arbitrary and constructive have
 i often been the most tremendous engines  
 i of despotic or legislati
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805082601:0002/pct:79.45528629637572,72.08946929702695,18.485953248981343,18.67185329258127/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805082601:0002/pct:79.46958324397741,72.08946929702695,18.471656301379657,18.68111512457164/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -165,7 +165,7 @@ to authors and inventors, the exclusive
 right to their respefctive writings and dis­  
 coveries, this power to promote the pro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805091801:0334/pct:3.8016852831667647,55.96017815037988,18.479325886733296,3.366518208016767/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805091801:0334/pct:3.800940438871473,55.952848722986246,18.482236154649947,3.3704431346867496/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -298,7 +298,7 @@ millions ; the destiny of this vast confedera­
 ted empire—should be r&lt; quired to consume  
 their time in the correction of the abuse* i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn83026170:00414216274:1820021601:0164/pct:62.15191718909462,51.2008128579346,18.238810322204404,8.802881950859042/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn83026170:00414216274:1820021601:0164/pct:62.142857142857146,51.19608386441304,18.241010689990283,8.805147624765247/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -323,7 +323,7 @@ sold any where in Ihe states without their
 intervention i And yet where is the real  
 difference between the cases ! Take to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183955:1820082501:0133/pct:35.50854353132628,87.7981541411962,14.613506916192026,5.957089775860003/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183955:1820082501:0133/pct:35.50276602668402,87.787631831256,14.616552771450266,5.960370725471397/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -415,7 +415,7 @@ submit to proceedings which a sense of
 strict justice to themselves would have  
 otherwise impelled them to resist
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183955:1821020101:0345/pct:2.082324455205811,2.890728079644956,31.832122679580305,92.40734077006117/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183955:1821020101:0345/pct:2.081988379599742,2.890381386423603,31.832364966645148,92.40025585672024/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -575,7 +575,7 @@ the entire independence of government, while,
 i for all local purposes, the inhabitants of the ced­  
 &#x27; etl portion of territory were to consider that thei
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216456:1831121701:0424/pct:7.053941908713693,4.762473143948436,36.946749654218536,91.76414418715684/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216456:1831121701:0424/pct:7.052722558340536,4.761904761904762,36.946125036012674,91.75717070453912/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -616,7 +616,7 @@ Ampliyclyonio Council.&quot; it is probable, however, that
 the disproportionate force, as well as the monarchical form  
 of the new confederate, had its share ol influence in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1833013101:0333/pct:66.32567264573991,31.87092496408443,15.064461883408072,2.1880870814454636/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1833013101:0333/pct:66.31637943113353,31.867403314917127,15.067021624398674,2.1915285451197053/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -648,7 +648,7 @@ nut though as individuals composing one aggregate, or
 homogeneous mass, hut ms composing itisiinet and inde­  
 pendent Sutnu, to u liidi they belonged. T he authorit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1833020501:0343/pct:49.832261671792004,18.313120176405732,14.984623986580933,8.224917309812568/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1833020501:0343/pct:49.82529699510832,18.311101311873003,14.987188446307943,8.227685297468122/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -693,7 +693,7 @@ These were the fundamental truths lo which they ap­
 pealed as a justification lor dispensing with the conseut ol  
 particular States to a dissolution of the Federal&#x27; compact.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1833022801:0383/pct:18.441814595660748,16.13188758574906,15.131022823330516,9.283027218411153/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1833022801:0383/pct:18.439216791097337,16.130102887487553,15.133586890172325,9.285687944831656/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -729,7 +729,7 @@ more pet ibliabed. Let us see the radical
 defects ol , -.Iciaey, and examine the remedies to  
 remove the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1833031501:0407/pct:49.91721854304636,31.470458553791886,14.94205298013245,5.180776014109347/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1833031501:0407/pct:49.91033245964961,31.466989970241375,14.944590058398859,5.183878908115655/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1046,7 +1046,7 @@ these lines, never had the conception entered
 his pure and upright mind that the people of  
 the ceded territory were to be reduced to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1840080801:0639/pct:7.665169980756896,28.29228812579489,17.799871712636307,13.261648745519713/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1840080801:0639/pct:7.665169980756896,28.2999961459899,17.80521701945692,13.261648745519713/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1239,7 +1239,7 @@ ol the states, the others are able to quell it. Should
 abuse creep into one part, they are reformed by  
 those that remain sound.”’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153243:1841100601:0440/pct:66.94783285751363,9.846396218983852,13.625746171814171,82.96573454115794/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153243:1841100601:0440/pct:66.94783285751363,9.846396218983852,13.634397439224847,82.97229880530392/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1315,7 +1315,7 @@ heir cause by a bloody and obstinate contest. The
 existence of the right to interpose will, generally,  
 prevent the necessity of exercising it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186427:1841120201:0982/pct:60.32760687175389,18.45601045296167,75.32294579837529,267.1493902439024/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186427:1841120201:0982/pct:20.10652463382157,6.151333696243876,25.104305370616956,89.04010161495191/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1439,7 +1439,7 @@ into the human character, und give a superi­
 lmily of strength to nn[v party with which they  
 may associate themselves.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152767:1842051901:0300/pct:58.41359773371105,6.2406015037593985,26.076487252124647,90.52631578947368/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152767:1842051901:0300/pct:58.418319169027384,6.2406015037593985,26.076487252124647,90.53347654851414/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1555,7 +1555,7 @@ Fromtk* X. 0. Advertiser
 Somebody said, about tbe time that the Constitution  
 was adopted, thai the greatest danger, it woul
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82015015:00415661289:1842052401:0190/pct:20.054945054945055,2.9887364781978367,32.15811965811966,93.57644697223152/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82015015:00415661289:1842052401:0190/pct:20.06003256003256,2.992453812125943,32.16829466829467,93.58388164008772/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1647,7 +1647,7 @@ enes of civil violence, may emerge into the human |
 laractcr, and give a superiority of strength to any i  
 irty with which thry may associate themselves &#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661277:1842052401:0549/pct:21.228863217813494,58.064516129032256,17.47865394274234,34.70400567174761/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661277:1842052401:0549/pct:21.228863217813494,58.07239355626452,17.489815279870527,34.70400567174761/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1743,7 +1743,7 @@ forenoon while the new drama, &quot;The Lion of the
 Desere&quot;&#x27; was being rehearsed at the Bowery theatre,  
 the principal actor in the piece, the king of beasts
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184601:1842052501:0604/pct:93.19007742139358,140.5226480836237,39.548111866013585,99.52380952380952/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184601:1842052501:0604/pct:31.058451816745656,46.835443037974684,13.180621379673513,33.1707505903302/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1759,9 +1759,9 @@ the principal actor in the piece, the king of beasts
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1842-07_11_49/page/n78/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1842-07_11_49/page/n78/mode/1up?view=theater)
 
-#### 1842-07-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1842-07-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1776,9 +1776,9 @@ the level of men.” Their exclusion i
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1842-07_11_49/page/n82/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1842-07_11_49/page/n82/mode/1up?view=theater)
 
-#### 1842-07-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1842-07-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1826,7 +1826,7 @@ lent fuctions, the nutural offspring of free govern­
   
 mty on each other, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153243:1842080601:0784/pct:65.87889805621592,60.94,14.445532093413508,3.05/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153243:1842080601:0784/pct:65.88822076166504,60.943333333333335,14.45019344613807,3.0566666666666666/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1964,7 +1964,7 @@ erection of new States in our own domain. Mr.
 ety, therefore, has the new system supplied this  
 defect, thereby intimating, that there was no re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1845020801:0072/pct:3.2051282051282053,4.961061436400346,27.728085867620752,92.94298625132198/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1845020801:0072/pct:3.2051282051282053,4.967471076499055,27.74299344066786,92.94298625132198/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2017,7 +2017,7 @@ of power into which Congress hove been led by
 it. With great propriety, therefore, ha* the new ?y*.  
 tern supplied the delect
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82015015:00415661319:1845021801:0351/pct:65.87827658933413,81.87493273059951,17.309430551370895,8.578193951135507/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82015015:00415661319:1845021801:0351/pct:65.8832981821834,81.87852043195925,17.314452144220148,8.585369353854984/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2050,7 +2050,7 @@ tion of power into which Congress have been led b)
 ii. w iin greai proprieiy, mereioie, naa tne new aya  
 l tern supplied the delect. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661356:1845021801:0175/pct:67.5641940085592,80.82998996990973,16.119828815977176,8.600802407221664/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661356:1845021801:0175/pct:67.57608178792202,80.83834837846874,16.119828815977176,8.59662320294216/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2087,7 +2087,7 @@ The new Constitution was our great national rrmedud
 act. It was intanded to correct the evils and defects of  
 the Confederation. Under the old system, there had ex
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1845022201:0105/pct:50.66465670823626,59.47887625991851,15.26654789639578,11.205232682822217/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1845022201:0105/pct:50.66465670823626,59.486024733719354,15.271115983737609,11.205232682822217/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2271,7 +2271,7 @@ within the limits of the United States--that was t
 to be corrected, and this shed irresgtible light on the true  
 meaning of the new clause. Admission int the Confed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845030301:0182/pct:92.76344878408254,102.97986264695612,38.614591009579954,20.684437201722734/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845030301:0182/pct:30.916592985558502,34.322625698324025,12.869633559288731,6.894009931719429/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2311,7 +2311,7 @@ new States arising within the limits of the United States
 --that was the defect to be corrected, and this shed irre­  
 sistible light on the true meaning of the new clause
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347909:1845030301:0244/pct:318.4852625414796,225.65191024863555,60.92133515518251,49.68162522741055/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347909:1845030301:0244/pct:79.60577673692428,56.40442625435804,15.22736143637783,12.418523571320296/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2346,7 +2346,7 @@ which Congress have been led by it. With
 great propriety, has the new system supplied the  
 delect.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1845031801:0129/pct:30.60674157303371,49.67828675693844,13.902621722846442,8.297320656871218/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1845031801:0129/pct:30.611735330836453,49.684689010531706,13.902621722846442,8.297320656871218/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2381,7 +2381,7 @@ er into which Cmigre.-s have been 1-d by it.
 With u cat propriety, therefore, has tiie new  
 system supplied the def. ct.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82007022:00393342882:1845031901:0322/pct:19.034530149458856,47.156888084776426,13.657447174025082,11.57921943654691/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82007022:00393342882:1845031901:0322/pct:19.031260735142563,47.15079467631477,13.659395396770869,11.580953611577723/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2407,7 +2407,7 @@ has the new system supplied the deject.&quot;
 The objections now rained in the Senate were unsuccessfully  
 urged upon the adop ion of the Constitution
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661356:1845031901:0275/pct:51.383681485449024,49.860759493670884,18.960899839314408,6.075949367088608/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661356:1845031901:0275/pct:51.38963280366601,49.869198312236286,18.960899839314408,6.071729957805907/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2466,7 +2466,7 @@ j , d b ,t
 With great propriety, there  
 fore, has the new system supplied the defect.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022603:1845042301:0282/pct:69.88852637302882,77.79201366645313,20.513866231647636,9.096732863549008/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022603:1845042301:0282/pct:52.43404949687245,58.3493487080931,15.392983410388904,6.822549647661755/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2496,7 +2496,7 @@ treason, that 44 new-fangled and artificial treasons
 &#x27; each other.&quot;t What wisdom, and what forecast,  
 guided all the deliberations and all the actions o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1845051701:0153/pct:7.9543874287303575,82.5979602791197,15.130023640661939,4.0042941492216855/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1845051701:0153/pct:7.96365827654939,82.60153873680444,15.125388216752421,4.007872606906424/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2559,7 +2559,7 @@ r. two or more States, or parts of States, without the con- ;
 sent of the le &#x27;islatures of the Slates concerned, as well j  
 n as of the Congress.&quot; The fourth section of the same articl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661150:1847030801:0240/pct:14.719367588932807,50.13593672763223,17.343873517786562,13.408304498269896/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661150:1847030801:0240/pct:14.729907773386035,50.1441753171857,17.33860342555995,13.41242379304663/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2582,7 +2582,7 @@ tli u existing republican forms are continued
 by the Stales, they are guaranteed by the  
 Constitution.1
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn83035487:00211100473:1847043001:0370/pct:47.13247172859451,72.40898528272656,17.97253634894992,7.048799380325329/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn83035487:00211100473:1847043001:0370/pct:35.36659260755403,54.3144848954299,13.492223793173096,5.28272656855151/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2615,7 +2615,7 @@ Constitution.1
 4 a prophetic eye they looked into the future, how  
 ? powerfully attests this infamous pretension of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1847060501:0563/pct:17.5859649122807,53.48811740225605,15.43859649122807,5.289672544080605/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1847060501:0563/pct:17.5859649122807,53.495418537582594,15.44795321637427,5.289672544080605/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2635,7 +2635,7 @@ Constitution.1
 &quot;wreaked their alternate malignity on each  
 &quot;&quot;other.&quot; What wisdom, and what forecast
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776956:1847061801:0464/pct:270.6537890044577,225.79505300353358,48.51411589895988,11.366313309776208/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776956:1847061801:0464/pct:67.66344725111442,56.448763250883395,12.12852897473997,2.841578327444052/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2788,7 +2788,7 @@ tution themselves for adopting it. 44 As new-fangled
 * rier to this peculiar danger, by inserting a Consti­  
 - tutional definition of the crime.&quot; LitUe did Mr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848072201:0266/pct:3.044397463002114,56.85245169217022,15.870331219168428,7.56171115827097/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848072201:0266/pct:3.044397463002114,56.85989798577758,15.879727507634485,7.565434305074649/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2810,7 +2810,7 @@ tion of power Into which Congress waa led by
 iL With great propriety, therefore, ha. th new  
 system supplied the defect.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn82015050:00280763366:1848072201:0232/pct:22.14941022280472,98.73417721518987,17.480340760157272,4.649021864211738/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn82015050:00280763366:1848072201:0232/pct:16.61477961658201,74.0506329113924,13.12469277404555,3.4982738780207137/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2828,7 +2828,7 @@ very great Importance, and required by consid­
 eration, similar to those which show the propri­  
 ety of th former.&quot; By tit former, is mean
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn82015050:00280763366:1848072201:0232/pct:22.165792922673656,105.0517836593786,17.513106159895152,2.4050632911392404/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn82015050:00280763366:1848072201:0232/pct:16.63116500081927,78.79171461449943,13.141078158282811,1.806674338319908/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2852,7 +2852,7 @@ omission, and the assumption ot power into which Con- liibitec
 gress have been led by it. With great propriety, there- the co  
 lore,.has the new system supplied the defect.&quot; tion 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848091701:0933/pct:16.413662239089184,49.88111625578776,17.4573055028463,4.767863846827681/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848091701:0933/pct:16.418933164663716,49.88111625578776,17.4573055028463,4.772035206273725/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2868,7 +2868,7 @@ lore,.has the new system supplied the defect.&quot; tion
 it was &quot; required by considerations similar to those which bound  
 show the propriety of the former&quot;?the admission of new Orlea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848091701:0933/pct:16.587602783048702,60.11763233637843,17.251739405439594,1.1763233637842574/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848091701:0933/pct:16.587602783048702,60.12180369582447,17.257010331014126,1.1804947232303007/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2921,7 +2921,7 @@ American And it is upon this the argument is based. Cot
 ion or pre- full force, and it amounts to no inore than this, t  
 erritories,&quot; constitution supplied the want of authority of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848120201:1191/pct:18.490983865865232,12.233909341347358,16.561214805441317,8.79038317054846/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848120201:1191/pct:18.490983865865232,12.242257283579598,16.566487398502584,8.79455714166458/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3099,7 +3099,7 @@ gued in the Federalist, &quot;as it is to be appropriated to this
 ? concurrence of the States concerned in every such estab |  
 4 lishment.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1850042701:0167/pct:67.25202359720126,25.719769673704416,15.708602003018246,9.127745788014503/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1850042701:0167/pct:67.25659669822106,25.719769673704416,15.708602003018246,9.134854624298002/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3118,7 +3118,7 @@ marks, &quot; this is a power of very great importance, and re­
 What slave Slate would have consen&#x27;ed to the purchase of  
 these places within its limits, had it been understood thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1850042701:0167/pct:67.00507614213198,35.75389208786522,15.708602003018246,2.5698443164853915/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1850042701:0167/pct:67.00507614213198,35.757446506006964,15.71774820505785,2.576953152768892/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3188,7 +3188,7 @@ those which show the propriety of the form-
 er.&quot;  
 Hy the former is meant, the power to a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279523969:1850060401:0071/pct:168.35196888672826,122.53841159922095,38.275806190244694,54.187405323523045/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279523969:1850060401:0071/pct:56.108230719377836,40.84171805690793,12.75653488874487,18.06051426304591/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3223,7 +3223,7 @@ is, ihO.i, proving the opinions that were held by a large
 number of the representative* of the people at that time  
 I he resolution then presented waa not adopted, but w
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850091201:1001/pct:83.9622641509434,70.62232300327538,15.484710474951203,5.228017132779038/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850091201:1001/pct:83.97310778572978,70.62232300327538,15.495554109737585,5.236415553875871/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3258,7 +3258,7 @@ the opinions that were held by a large number of the Repre­
 sentatives of the people at that time. The resolution then  
 presented was not adopted, but we shall see presently ho
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1850091401:0353/pct:1.0273972602739727,38.99643127500811,15.712328767123287,5.591002487293176/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1850091401:0353/pct:1.0319634703196348,39.00364082044627,15.71689497716895,5.591002487293176/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3277,7 +3277,7 @@ power exercised by ever)* Legislature of the Union?I might
 say of the world?by virtue of its general supremacy.  
 Yes, sir, it is a complete, not an imperfect power. It i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1850092101:0357/pct:1.0359116022099448,48.12646370023419,15.6353591160221,2.5548222269533745/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1850092101:0357/pct:1.0359116022099448,48.1335604286424,15.639963167587476,2.5512738627492726/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3307,7 +3307,7 @@ evidence with it. It is a power exercised by p*
 every Legislature of the Union?I might say of ei  
 the world?by virtue of its general supremacy.&quot; ti
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1850092601:0174/pct:3.5326883611844035,63.44467435215292,14.570507182644386,6.473544191545965/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1850092601:0174/pct:3.537574513827812,63.44467435215292,14.580279487931202,6.4801129832167375/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3327,7 +3327,7 @@ Legislature of the Union?I might say of the J
 world?by virtue of its general supremacy.&quot;  
 Yes, sir, it is a complete, not an imperfect power, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661472:1850100901:0400/pct:5.953031130529765,69.37947239132757,13.503549972692518,3.075937199615508/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661472:1850100901:0400/pct:5.953031130529765,69.38659261632668,13.517203713817587,3.072377087115953/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3360,7 +3360,7 @@ which the narrowness of our limits prevents our
 copying, show how entirely those wise framers of  
 the Constitution realized the difficulties which thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1851020101:0518/pct:67.30185031759183,13.797916890368302,15.810549571941452,5.776871040481048/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1851020101:0518/pct:67.30185031759183,13.801496116539605,15.81515235202062,5.78045026665235/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3408,7 +3408,7 @@ judgment, oji|toHod a barrier to this peculiar
 danger, by inserting a constitutional definition  
 of the crime.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1851100901:0400/pct:30.501432664756447,51.993034055727556,15.05730659025788,6.666021671826625/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1851100901:0400/pct:30.51098376313276,51.993034055727556,15.05730659025788,6.672471620227038/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3435,7 +3435,7 @@ have, with great judgment, opposed a barrier
 to this rsMjuliar danger, by inserting a constitutional  
 definition of the crime.-&#x27;?2 Federalist
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1851103001:0411/pct:68.9615769175832,58.639151172977705,16.04056563348093,6.483013725299329/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1851103001:0411/pct:68.9615769175832,58.639151172977705,16.05008808265486,6.489503228527856/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3494,7 +3494,7 @@ eeritial interests oI the whole to the caprice or cor
 rupiion of a single member. Can it be possible lha  
 those who, in the forinatisn o( the Governmen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:0041566140A:1851122901:0712/pct:4.966795794133923,84.31994747784222,14.831211953514112,7.834555202976255/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:0041566140A:1851122901:0712/pct:4.966795794133923,84.32724222197906,14.845047039291643,7.830907830907831/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3520,7 +3520,7 @@ would have marked a want of foresight in the convention, !
 which our own experience would have renders! ine* 1  
 disable.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851123001:1387/pct:47.920078611202094,77.0650375461372,15.77137242056993,5.358279241440753/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851123001:1387/pct:47.925537722458785,77.07352254889483,15.782290643083305,5.358279241440753/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3540,7 +3540,7 @@ of the whole to the caprice or corruption of a single mem­
 ber. Can it he possible that those who, in the formation  
 ol the government, were unwilling to subject their hap
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851123001:1387/pct:47.985587946282344,82.30876925035001,15.673108417949559,2.965508463790251/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851123001:1387/pct:47.985587946282344,82.31725425310763,15.68948575171962,2.9697509651690637/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3616,7 +3616,7 @@ man assert that men in their senses,
 much less men renowned for wisdomn  
 men whose names history will per
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn86053240:00237288476:1852031601:0043/pct:51.92878338278932,151.11363636363637,40.0,59.68181818181818/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn86053240:00237288476:1852031601:0043/pct:17.309594460929773,50.371212121212125,13.333333333333334,19.893939393939394/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3636,7 +3636,7 @@ securing for a limited time, to authors and inven-­
 tors, the exclusive right to their respective writings  
  and discoveries. The law acknowledges the existenc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530376:1852050101:0638/pct:100.98959221975772,169.30889563390147,48.71182392083262,8.522063973850106/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530376:1852050101:0638/pct:33.66319740658591,56.43629854463382,16.23727464027754,2.8406879912833682/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3656,7 +3656,7 @@ ing for a limited time, to authors and inventors, the
 exclusive right to their respective writings and dis­  
 coveries. The law acknowledges the existence o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743051:1852051501:0837/pct:11.280788177339902,57.13483146067416,46.73234811165845,8.314606741573034/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743051:1852051501:0837/pct:3.7602627257799672,19.04494382022472,15.577449370552818,2.7715355805243447/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3699,7 +3699,7 @@ Federalist, with this remark : &quot;This can only be
 &#x27;of society lias the magical effect of dissolving  
 &#x27; its moral obligations.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053546:00415660984:1854061901:0595/pct:28.499440089585665,80.72222833865463,13.479843225083986,9.754486403170759/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053546:00415660984:1854061901:0595/pct:28.499440089585665,80.72222833865463,13.484509145203434,9.758156262615142/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3741,7 +3741,7 @@ eto the pretended doctrine, that a change in the political
 form of society has the magical effect of dissolving it­  
 moral obligations.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_airy_ver01:data:sn83030213:00206530443:1854062001:0349/pct:102.30236676863629,120.25286541415574,47.238769924327805,23.27779747134586/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_airy_ver01:data:sn83030213:00206530443:1854062001:0349/pct:34.10078892287876,40.08428847138524,15.746256641442601,7.759265823781953/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3767,7 +3767,7 @@ whe cannot be strangers to the pretended doctrine that
 a ctange in the political form of society has the mat­  
 gical effect of cissolving its normal obligations.&quot; Ther
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743099:1854062001:1391/pct:98.20466786355476,61.28003644231864,46.20532071160437,14.110010249402118/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743099:1854062001:1391/pct:32.73488928785159,20.426678814106214,15.401773570534791,4.703336749800706/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3834,7 +3834,7 @@ The absurdity of the pretence of an implied
 obligation to Maryland, or to any other State, to  
 maintain Slavery in the Federal District, accordin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1855032201:0265/pct:27.304368698991837,53.608732473887265,12.578012481997119,3.1711677801825537/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1855032201:0265/pct:27.304368698991837,53.61500580282927,12.586013762201953,3.1680311157115524/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3907,7 +3907,7 @@ would be--&quot;HEre LIes The ExpOUnder oF
 AMericAn Constitution.&quot; He has lately  
 been revewed in the Sen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668156:1857021701:0002/pct:22.094712376525276,69.32081839274414,42.882045322486924,60.52520565281586/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668156:1857021701:0002/pct:7.365974139183495,23.10693946424805,14.29609182042714,20.175068550938622/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3945,7 +3945,7 @@ Union from its just and equal proportion of
 them, both the deeds of cession and the con­  
 stitution have been violated. And there is n
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn96091000:00212470089:1857051901:0478/pct:78.41163310961969,84.4680637721849,48.32214765100671,51.01774791938233/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn96091000:00212470089:1857051901:0478/pct:19.61113442439502,21.117015943046226,12.085606378514477,12.754436979845583/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4046,7 +4046,7 @@ question, stand; that there can be no such
 thing as an existing State, organised with­  
 in the national Territories, outside of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn83035366:00296029105:1858051901:0962/pct:41.14942528735632,43.6151445243588,16.226053639846743,24.290948568326776/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn83035366:00296029105:1858051901:0962/pct:30.867982372101935,32.71814357443344,12.186242575205979,18.211426245080744/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4091,7 +4091,7 @@ existing State, organized within tho national
 territories, outside of the Union, and without  
 the consent of the Federal Government; tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1858052001:0303/pct:27.42712599373645,3.445003321628547,24.60852806552638,96.40315080193604/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1858052001:0303/pct:27.42712599373645,3.4513302331466895,24.612543162290212,96.40315080193604/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4135,7 +4135,7 @@ ate to investigate all the tacts growing out
 of the Harper&#x27;s Ferry invasion, with power  
 to send for persons and papers, which power
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn85033711:00212470272:1860010201:0005/pct:114.69359331476323,87.52270504401285,43.1058495821727,16.20790834148386/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn85033711:00212470272:1860010201:0005/pct:28.688381815014807,21.880676261003213,10.782093711896882,4.051977085370965/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4195,7 +4195,7 @@ an express provision of the Constitution, to protect
 each State against invasion or violence from other  
 States, it follows that it is the duty of Congres
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530649:1860012401:0159/pct:54.39506973726889,110.73565645899332,48.54038274408044,25.202393523407252/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530649:1860012401:0159/pct:18.131689912422964,36.9118854863311,16.180127581360146,8.40079784113575/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4228,7 +4228,7 @@ powerful neighbors. The history of eoth ancient and mouern
 confederacles proves that the weaker member of the Union  
 ought not to be insenaible to the policy of this article
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743348:1860012401:0214/pct:102.69607843137256,124.20460933108488,49.34640522875817,19.494097807757168/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743348:1860012401:0214/pct:34.23202614379085,41.40153644369496,16.44880174291939,6.498032602585722/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4296,7 +4296,7 @@ confedera ies proves that the weaker mambers
 It will be observed that in case of insurree­  
 ion or domestic violence in any State againg
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290069:1860012701:0068/pct:128.48518111964873,111.6381203337725,34.90669593852909,37.46157224418094/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290069:1860012701:0068/pct:32.13452299245024,27.909530083443126,8.730267673301304,9.365393061045236/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4353,7 +4353,7 @@ States, the United States are bound to pro­
 tect such State without waiting for the  
 State to apply for assistance. The pledg
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347282:1860020301:0224/pct:38.34396794776673,55.68077276908924,12.449918385517138,12.258509659613615/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347282:1860020301:0224/pct:38.34891428006134,55.6884391291015,12.454864717811743,12.258509659613615/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4378,7 +4378,7 @@ policy. Tbi wa written after the Constitution
 wa made, and with a view to secure it ratifica  
 tion. Uoce the people of the State knew thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn83035487:00211100497:1860020401:1160/pct:44.94773519163763,113.04108836058815,17.804878048780488,8.176446337776555/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn83035487:00211100497:1860020401:1160/pct:33.72255141164169,84.78768723375018,13.367026838619728,6.12889927167789/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4431,7 +4431,7 @@ modern confederacies proves that the weak
 members of the Union ought not to be in  
 sensible to the policy of this article.&quot; , ..
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035102:0029602708A:1860020801:0467/pct:23.308404558404558,100.26011184809468,16.595441595441596,6.47678501755755/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035102:0029602708A:1860020801:0467/pct:17.495100659184036,75.19833528417219,12.453233564938536,4.86409155937053/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4461,7 +4461,7 @@ acies, proves that the weaker memher of the
 Union aught not to be insensible to the pol­  
 icy of this article.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290069:1860020801:0107/pct:19.129949804796432,319.61173615707037,34.802007808142776,20.604456210015442/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290069:1860020801:0107/pct:4.783154371775206,79.90293403926759,8.70171524194673,5.151114052503861/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4493,7 +4493,7 @@ Iiroves that tho weaker members of the
 Jnion ouirht not to bo insensible to the  
 policy of this article.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_flint_ver01:data:sn97063063:00296024302:1860020901:0134/pct:62.5937680323139,115.49978457561396,18.998845931909983,14.928909952606634/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_flint_ver01:data:sn97063063:00296024302:1860020901:0134/pct:41.74603174603175,77.00344679017665,12.669552669552669,9.95260663507109/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4576,7 +4576,7 @@ history both of ancient and modern confederacies proves
 that the weaker members of the Union ought not to be  
 insensible to the policy of this article.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84020712:0029587918A:1860030601:0041/pct:25.069560378408458,65.71147325823034,19.88035614913745,9.187356447555507/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84020712:0029587918A:1860030601:0041/pct:18.8169798190675,49.283604943672756,14.919972164231037,6.901454664770863/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4623,7 +4623,7 @@ and give a superiority of strength to any :
 party with which thev may associate them­  
 selves.&quot; See Federalist, 43d number, page 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn84026845:00202190650:1860032801:0295/pct:44.2775974025974,76.24796084828711,14.143668831168831,5.921696574225122/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn84026845:00202190650:1860032801:0295/pct:44.29281655844156,76.25203915171289,14.158887987012987,5.929853181076672/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4653,7 +4653,7 @@ acies, proves that the weaker member of the
 Wnion ought not to be insensible to the policy  
 of this article.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290057:1860100301:0286/pct:24.498644986449865,329.7636063771303,34.579945799457995,20.098955470038483/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290057:1860100301:0286/pct:6.125491258978181,82.44090159428258,8.646158015991327,5.024738867509621/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4706,7 +4706,7 @@ commitied by either of the parties absolves the
 others, and an thorizes them, if they please, to  
 pronounce the compact ofolosed and cott
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_johnhenry_ver01:data:sn84024738:00280777973:1861012101:0071/pct:124.08423550348509,117.67136349189533,38.113599288150674,21.771374086237948/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_johnhenry_ver01:data:sn84024738:00280777973:1861012101:0071/pct:41.36141183449503,39.22378783063178,12.704533096050225,7.257124695412649/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4740,7 +4740,7 @@ committed by either of the parties absolves th&lt;
   
 pronounce the compact violated arid void.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664382:1861012901:0459/pct:16.153846153846153,41.33398247322298,14.005305039787798,8.471275559883155/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664382:1861012901:0459/pct:16.158267020335987,41.33398247322298,14.005305039787798,8.477766958779617/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4771,7 +4771,7 @@ tiea absolves the others, and authorizes them, if
 they please, to pronounce th tmpavct violated  
 and void. Ib.. page 1 Ts
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn82014306:00202191691:1861021301:0048/pct:112.57082152974505,77.22949937197201,14.18791312559018,8.532208864166517/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn82014306:00202191691:1861021301:0048/pct:84.46097532176172,57.922124528979005,10.650608100129885,6.4058855194688675/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4808,7 +4808,7 @@ j er of the parties absolves the others, ami
 | authorize them, if they please, to pronounce  
 | the compact violated and void. In in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dior_ver01:data:sn85025007:00415663511:1861031401:0452/pct:86.04249011857708,23.655913978494624,13.154644268774703,6.93148493735004/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dior_ver01:data:sn85025007:00415663511:1861031401:0452/pct:86.04249011857708,23.66183832459492,13.158761528326746,6.93444711040019/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4833,7 +4833,7 @@ God, which declares that the safety and i.ap
 j pin ess of society are the objects to which all  
 i political institutions must be sacrified.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dior_ver01:data:sn85025007:00415663511:1861031401:0452/pct:86.03013833992095,30.383008975384342,13.080533596837945,5.856216120145739/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dior_ver01:data:sn85025007:00415663511:1861031401:0452/pct:86.03013833992095,30.38893332148464,13.080533596837945,5.859178293195889/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4866,7 +4866,7 @@ committed by either of the parties absolves
 the others, and authories them, if they please,  
 to pronounce the compact violated and void.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200290045:1861031501:0166/pct:54.401805869074494,41.24678806837225,71.16252821670429,346.8662719249246/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200290045:1861031501:0166/pct:13.60621030345801,10.311697017093062,17.798165137614678,86.71656798123115/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4916,7 +4916,7 @@ ties, absolves the others, and uuthotucs ! ., ? - j
 if they please, to pronounce therein; v. t  
 luted and to id.&quot;?(Federalist. page it.&#x27;. V 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664382:1861050301:0617/pct:87.86902844873859,16.736976356322966,12.278582930756844,15.500833905621505/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664382:1861050301:0617/pct:87.87797459295044,16.740246574446516,12.278582930756844,15.507374341868603/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4984,7 +4984,7 @@ was entered into should be substantialry main.
   
 tiined.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774662:1861053001:0529/pct:22.94159042927516,72.10277923439958,51.090781140042225,64.97115888830623/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774662:1861053001:0529/pct:5.737416402675114,18.025694808599894,12.777191129883844,16.24278972207656/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5016,7 +5016,7 @@ ernment to interpose and save it from its ene
 mles.  
 These views are of great significance an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774662:1861053001:0529/pct:23.78606615059817,136.49711588883062,53.97607318789585,34.24226533822758/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774662:1861053001:0529/pct:5.948609644491376,34.124278972207655,13.498768039422739,8.560566334556896/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5082,7 +5082,7 @@ ivor the obstacles to remain, will, it is hoped, t
 tot urge in vain moderation on one side and  
 irudcncc on the other.&quot; i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664394:1861101701:0160/pct:38.0583043594544,75.50601349369316,12.449852901845412,10.677618069815194/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664394:1861101701:0160/pct:38.0583043594544,75.51253218604349,12.45876794151734,10.680877415990352/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5102,7 +5102,7 @@ offspring of Iree governments, have usually
 wreaked their alternate malignity on each  
 other. It was under the influence of thes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347294:1861101801:0404/pct:48.90347366736033,73.43582409724705,13.078277573235153,3.1462281015373614/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347294:1861101801:0404/pct:48.90347366736033,73.43979660747627,13.083613467797877,3.154173121995789/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5129,7 +5129,7 @@ islature. Indiepensible necessity of complete
 authority at the seat of Government carries  
 its own evidence with it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_braniff_ver01:data:sn82014760:00237288890:1862031901:0280/pct:84.95412844036697,170.42303590472804,49.81651376146789,6.3988624244578745/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_braniff_ver01:data:sn82014760:00237288890:1862031901:0280/pct:21.238532110091743,42.60575897618201,12.454128440366972,1.5997156061144686/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5186,7 +5186,7 @@ er&quot;to promote the progress of science and useful arts
 the exelusive right to their respective writings and dis-  
 coveries,&quot; nor do I believe that my friend from Mass
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:0028077764A:1862062001:0337/pct:122.53968253968254,143.86229805224218,53.095238095238095,5.979163521062962/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:0028077764A:1862062001:0337/pct:30.641000198452073,35.965574513060545,13.27644373883707,1.4947908802657406/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5234,7 +5234,7 @@ bond of allegiance, and forfeited his social rights.
 Among these social rights, that of transmitting  
 property to others is deemed one of the chief an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_coyote_ver02:data:sn88071076:00296025161:1862062801:0211/pct:90.35714285714286,151.54908547965658,59.642857142857146,70.47405748413587/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_coyote_ver02:data:sn88071076:00296025161:1862062801:0211/pct:22.609472743521,37.887271369914146,14.924039320822162,17.618514371033967/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5284,7 +5284,7 @@ to fight the battles of the Revolution,--Jackson
 deemed them fit to fight in the sscond war for  
 independence; nelther would consent tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_braniff_ver01:data:sn82014760:00237288890:1862071701:0693/pct:56.848030018761726,232.55484784147205,51.031894934333955,63.340410474168436/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_braniff_ver01:data:sn82014760:00237288890:1862071701:0693/pct:14.218676677616143,58.13871196036801,12.763960581886439,15.835102618542109/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5311,7 +5311,7 @@ stecies,&quot; even in their chains, are the
 strength of this Rebellion. Siiver the setters thut  
 bind hem and iley will the from the degradall 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basic_ver01:data:sn83030213:00206530716:1862071901:0606/pct:56.31940772078266,91.46190121618268,49.074563722897935,19.583023082650783/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basic_ver01:data:sn83030213:00206530716:1862071901:0606/pct:18.77313590692755,30.487300405394226,16.358187907632647,6.527674360883594/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5447,7 +5447,7 @@ happiness of society are the objects at
 which all the political institutions aim, and  
 to which all such institutions must be sac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775630:1862072201:0393/pct:165.57152635181382,177.808484178527,42.64202600958248,25.59071438441343/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775630:1862072201:0393/pct:41.40705237932215,44.45212104463175,10.664156110920917,6.397678596103358/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5482,7 +5482,7 @@ battles of the Revolution. Jackson deemed
 them fit to fight in the second war for in  
 dependence. Neither would consent tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775630:1862072201:0393/pct:165.0924024640657,203.84137073372943,43.05270362765229,40.67983971258809/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775630:1862072201:0393/pct:41.287230400547756,50.96034268343236,10.76686066415611,10.169959928147023/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5528,7 +5528,7 @@ to any party wiih which they may associate
 Et their chains, are the strength ot this rebel­  
 on. Shbmr the fetters that bind them an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1862072301:0002/pct:46.45185323151425,1.439162668992586,18.49506425777612,97.39787759848815/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1862072301:0002/pct:46.461165952691374,1.4427969181567089,18.499720618364687,97.4051460968164/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5628,7 +5628,7 @@ with which they may associate themselves.&quot;—
 This &quot;unhappy species,&quot; even in their chains  
 are the strength of this Rebellion. Shiver th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84027060:00415668909:1862072601:0333/pct:17.82932317812013,43.31891372266282,14.575038947550631,13.938956981494833/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84027060:00415668909:1862072601:0333/pct:17.82932317812013,43.322919170071295,14.580808955051642,13.938956981494833/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5680,7 +5680,7 @@ enslaved men fit to fight the battles of the revo­
 lution. Jackson deemed them fit to fight in the  
 second war for independence. Neither would
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200290021:1862073001:0411/pct:200.6677796327212,108.53027233851002,43.1274346132443,56.043214044564486/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200290021:1862073001:0411/pct:50.18789144050104,27.132568084627504,10.786360473208072,14.010803511141122/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5706,7 +5706,7 @@ the human character and give a superior­
 ity of strength to any party with which  
 they may associate themselves.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn84022367:0041562833A:1862073101:0242/pct:61.94690265486726,21.920438957475994,19.428801287208366,9.766803840877914/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn84022367:0041562833A:1862073101:0242/pct:46.46952323476162,16.44718792866941,14.584590625628646,7.325102880658436/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5806,7 +5806,7 @@ riority of strength to any party with which
 they may associate themtof othatmea  
 species,&quot; even in their chains, ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn84028083:00280775241:1862080101:0772/pct:184.65491923641704,272.0747009045813,48.01762114537445,52.40735337029472/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn84028083:00280775241:1862080101:0772/pct:46.17220488342207,68.01867522614532,12.00660914264733,13.10183834257368/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5831,7 +5831,7 @@ to any party with which they may as­
 sociate Ihernsdves.&quot;  
 JtdF Wealthy men who are not will
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033221:00514152342:1862080601:0252/pct:5.114238160084733,81.44970080162584,12.70994098955969,6.830755334763464/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033221:00514152342:1862080601:0252/pct:5.124325414838352,81.45346430318769,12.699853734806073,6.842045839449024/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5855,7 +5855,7 @@ who, in the tempestuons scenes of
 civil violence, may emerge into the  
 human character and give a superi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn85042591:00280774959:1862080801:0672/pct:69.4980694980695,210.37291041577367,146.40926640926642,22.631804543506217/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn85042591:00280774959:1862080801:0672/pct:17.384585667374928,52.59322760394342,36.62352713926985,5.657951135876554/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5872,7 +5872,7 @@ teans for their accomplihmente mi e ecre in ther ig ority of strength to any par
 which they may associate them  
 by selves.&quot; This unhappy species,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn85042591:00280774959:1862080801:0672/pct:69.65250965250965,232.89041291613088,146.48648648648648,6.629518502643235/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn85042591:00280774959:1862080801:0672/pct:17.423218079969093,58.22260322903272,36.64284334556693,1.6573796256608087/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5914,7 +5914,7 @@ country in chains. Can we not in
 this deadly conflict with this gigan  
 tic revolt imitate the example o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn85042591:00280774959:1862080801:0672/pct:167.56756756756758,132.0760108586941,48.803088803088805,141.1058722674668/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn85042591:00280774959:1862080801:0672/pct:41.91616766467066,33.019002714673526,12.207842379756617,35.2764680668667/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5952,7 +5952,7 @@ character and give a superiority of strength
 to any party with which they may associate  
 tlicmselves
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_melon_ver01:data:sn84022549:00415628407:1862080801:0794/pct:90.53090332805071,63.476107226107224,17.432646592709983,19.216200466200466/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_melon_ver01:data:sn84022549:00415628407:1862080801:0794/pct:67.92153754705765,47.61072261072261,13.077075490390332,14.423076923076923/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5985,7 +5985,7 @@ ciety are the objects at which all the politi
 cal institutions aim, and to which all such  
 institutions must be sacrificed.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn83035216:00280775150:1862080901:0903/pct:178.33109017496636,121.31236442516268,49.39434724091521,40.88937093275488/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn83035216:00280775150:1862080901:0903/pct:44.59027427225307,30.32809110629067,12.350664647484436,10.22234273318872/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6017,7 +6017,7 @@ freemen, and render faithful service to your
 country. Washington deemed these en  
 slaved men fit to fight the battles of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn83035216:00280775150:1862080901:0903/pct:178.53297442799462,165.29284164859,50.26917900403768,38.17787418655097/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn83035216:00280775150:1862080901:0903/pct:44.64075382803298,41.3232104121475,12.569409389197375,9.544468546637743/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6043,7 +6043,7 @@ into the human character and give a superior­
 ity of strength to any party with which they  
 may associate themselves.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1862081601:0002/pct:23.702585393470468,49.51582598641422,10.266087941120967,4.697210579563521/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1862081601:0002/pct:23.71673900735988,49.52305246422893,10.251934327231552,4.711663535192947/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6075,7 +6075,7 @@ turo and of Nature&#x27;s God—which de-j enroling the militia and otherwise pu
 clares that the safety and happiness of so- ting this act in execution, the President  
 ciety are tho objects at which all political is authorized in such cases to make al
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn87058348:00279529376:1862081901:0869/pct:55.7649667405765,15.426613852906542,25.318736141906875,9.977518466973557/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn87058348:00279529376:1862081901:0869/pct:55.7649667405765,15.426613852906542,25.327974870657798,9.981086964279342/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6132,7 +6132,7 @@ SEC.
   
 Men of America! we but utter what That, for the purpose of filling up th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn87058348:00279529376:1862081901:0869/pct:55.69567627494457,17.62123969596403,25.346452328159646,27.352531848838453/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn87058348:00279529376:1862081901:0869/pct:55.70029563932003,17.6283766905756,25.346452328159646,27.345394854226885/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6160,7 +6160,7 @@ which all political institutions aim, and to
 whith all -uch instilutk.ns must lie sacri­  
 ficed.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn84028794:00296026694:1862082001:0571/pct:92.96759941089837,20.43383391092286,16.108247422680414,7.611346425362598/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn84028794:00296026694:1862082001:0571/pct:69.74774443012336,15.325375433192145,12.078806849567298,5.71171864972404/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6181,7 +6181,7 @@ he is for doing with this Government what
 out lathers of nine States did with the old  
 Con&#x27;o ieration of thirteen States.. He says i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn84028794:00296026694:1862082001:0571/pct:92.67304860088365,40.76498523937877,16.08983799705449,4.1458092671030675/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn84028794:00296026694:1862082001:0571/pct:69.52679064628981,30.573738929534077,12.060394034247837,3.1189834424335774/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6229,7 +6229,7 @@ manner that no traces of the indictments
 are left. They also stole many horses and  
 mules and took possession of a larg
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293757:1862090401:0484/pct:82.35709244883557,240.89414858645628,47.49470712773465,53.70151216305062/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293757:1862090401:0484/pct:20.596540769502294,60.22353714661407,11.877867984468761,13.425378040762656/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6345,7 +6345,7 @@ die human character and give a superiority „f
 strength to any party with which they m ly asso­  
 ciate themselves.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn85025202:00279557293:1862100401:0580/pct:37.77406168710517,86.34286460373417,14.62281679672984,4.51756103930017/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn85025202:00279557293:1862100401:0580/pct:37.78799702712746,86.34286460373417,14.618171683389075,4.5208251729990865/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6539,7 +6539,7 @@ Teaed by this action of the people, of Vir­
 ginia. Need I sund here to argne that  
 there is not one line or letter in the Feder
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn84026845:00202190704:1862122301:0588/pct:42.79475982532751,12.248563218390805,27.487933808319926,86.36853448275862/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn84026845:00202190704:1862122301:0588/pct:42.811997242013334,12.257543103448276,27.487933808319926,86.36404454022988/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6582,7 +6582,7 @@ Virginia, as wfeU as by the Federal Con­
 stitution, to take an oath to luppart the  
 Constitution of the United States, wan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn84026845:00202190704:1862122401:0592/pct:29.19972795284516,55.30469897209985,13.851734300612106,14.73935389133627/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn84026845:00202190704:1862122401:0592/pct:29.21673090002267,55.313876651982376,13.840399002493765,14.748531571218797/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6690,7 +6690,7 @@ same overt act, or on couiession io open
 Court.&quot; - &#x27;  
 1h Express forget that that applied t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_bunting_ver01:data:sn86069123:00202195234:1863040201:0065/pct:10.163154316791298,53.37670787247885,19.35757987763426,18.73780091086532/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_bunting_ver01:data:sn86069123:00202195234:1863040201:0065/pct:7.632160462349142,40.03903708523097,14.51640319564848,14.053350683148992/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6737,7 +6737,7 @@ the President, or still less, his clerks,
 the Cabinet ministers, would attempt  
 to declare and punish treason. An
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1863061101:0626/pct:150.49180327868854,152.56764218663722,54.59016393442623,52.622860298177805/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1863061101:0626/pct:37.638376383763834,38.141910546659304,13.653136531365314,13.155715074544451/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6774,7 +6774,7 @@ canment, which supposes a pre-existing Gov
 ernment of the form which is to be guaranteed,  
 nd in eifecting this guaranty both Madiso
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_american_ver01:data:sn86053570:00237288865:1863100501:0335/pct:327.88649706457926,323.98942198715525,49.90215264187867,8.613524744994333/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_american_ver01:data:sn86053570:00237288865:1863100501:0335/pct:82.03182374541004,80.99735549678881,12.48470012239902,2.153381186248583/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6809,7 +6809,7 @@ which are so inter o wir t o
 Mltation that a violent blow cannot be given to  
 blatomuninatin the waund t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_american_ver01:data:sn86053570:00237288865:1863100501:0335/pct:327.6908023483366,337.89195315451457,50.19569471624266,33.24518322629392/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_american_ver01:data:sn86053570:00237288865:1863100501:0335/pct:81.9828641370869,84.47298828862864,12.55813953488372,8.31129580657348/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6836,7 +6836,7 @@ actual force victory may be calculated by the
 rules which prevail in a census of the inhabl  
 tants or which determine an election.&quot; Ham
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_american_ver01:data:sn86053570:00237288865:1863100501:0336/pct:17.17670286278381,22.26835251934327,52.122408687068116,23.098697867522173/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_american_ver01:data:sn86053570:00237288865:1863100501:0336/pct:4.294175715695952,5.567088129835818,13.030602171767029,5.774674466880543/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6899,7 +6899,7 @@ imegine that in a trial of actual force victory may be cal.
 culated by the rules which prevall in a census of the in  
 habitantr, or which determine an election.&quot; Hamilton
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_itchweed_ver01:data:sn83030313:00271743464:1863100601:0061/pct:51.190680143909546,218.0255000584864,51.68751070755525,42.58977658205638/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_itchweed_ver01:data:sn83030313:00271743464:1863100601:0061/pct:17.063560047969847,72.67516668616213,17.22917023585175,14.196592194018793/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6917,7 +6917,7 @@ reputilican form of government, which supposes a pre­
 existing Government of the form wbieh is to be guarantied,  
 and hi ?0&#x27;*cting thistgu iranty both Madison aud Hamilto
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661630:1863100801:0193/pct:65.41707013418177,29.712737127371273,15.451653064047585,2.037940379403794/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661630:1863100801:0193/pct:65.42168119149721,29.712737127371273,15.451653064047585,2.04516711833785/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6962,7 +6962,7 @@ State ought in the latter case to protect the local niagis­
 &#x27; prevail in a census ot the inhabitants or which determine  
 * an election.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661630:1863100801:0193/pct:65.40323696223544,32.45528455284553,15.520818923779222,14.341463414634147/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661630:1863100801:0193/pct:65.40784801955088,32.45528455284553,15.530041038410108,14.348690153568203/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7006,7 +7006,7 @@ vr.rnment, WHICH SUPPOSES A PRE-EXISTING GOVEKN­
 MENT OP THE PORM WHICH IS TO BE GUARANTIED.&quot;  
 Could any language be more explicit or mo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661630:1863101501:0197/pct:49.562363238512035,24.923813670004353,15.522428884026258,10.393992163691772/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661630:1863101501:0197/pct:49.562363238512035,24.93106951095632,15.531546316557257,10.393992163691772/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7182,7 +7182,7 @@ following quotations:
 be put to death for the children; neither  
 shall the children be put to death for th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295778:1864012501:0091/pct:14.595842956120093,39.72447467085186,50.993071593533486,88.1681053274043/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295778:1864012501:0091/pct:3.6493821457443123,9.931118667712965,12.749740154752281,22.042026331851076/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7378,7 +7378,7 @@ of
 in  
 th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028822:00280775459:1864021101:0868/pct:127.04447632711621,70.21926172633916,51.93687230989957,302.5811823480433/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028822:00280775459:1864021101:0868/pct:31.766816143497756,17.55481543158479,12.986547085201794,75.64529558701082/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7409,7 +7409,7 @@ Congress even is punishing it, from extend­
 ing the consequence of guilt beyond the per­  
 son of its author.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn83035173:00296027303:1864021701:0027/pct:44.517282479141834,83.07392996108949,16.507747318235996,11.4526588845655/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn83035173:00296027303:1864021701:0027/pct:33.392936969155116,62.30869001297017,12.38265534197586,8.586251621271076/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7470,7 +7470,7 @@ tates from a remote ancestor of the felon
 to his posterity below. It is well known  
 that those acts were indulged in to gratif
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775605:1864021901:0485/pct:160.7462686567164,291.72434547096,43.35820895522388,69.75624435750828/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775605:1864021901:0485/pct:40.19406605710021,72.93108636774,10.841574920694159,17.43906108937707/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7499,7 +7499,7 @@ in ether sineda, that pun-slimem fo
 treason does not work corruption of  
 blood, or forfeiture of interests in prop
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_iceberg_ver01:data:sn83025668:00415629217:1864022301:0550/pct:172.32,173.2679825142403,51.04,33.27593058683269/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_iceberg_ver01:data:sn83025668:00415629217:1864022301:0550/pct:43.08,43.31699562856007,12.76,8.318982646708173/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7671,7 +7671,7 @@ fore, and Mr. Madison answered it as It was hoped
 republican forms are continued by the States they  
 are guaranteed by the federal constitutio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_edgewater_ver02:data:sn84031490:no_reel:1864050501:0004/pct:55.11308718345254,20.214151352915643,10.187512081964044,2.3874981912892492/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_edgewater_ver02:data:sn84031490:no_reel:1864050501:0004/pct:55.11791996907017,20.217768774417596,10.182679296346414,2.3911156127912023/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7793,7 +7793,7 @@ ter them into service, and use them to put
 lown the most wicked and unauthorized of  
 all rebellions
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_monroe_ver01:data:sn83045586:00200293617:1864050701:0594/pct:216.21848739495798,102.62225372076541,61.51260504201681,52.78525868178597/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_monroe_ver01:data:sn83045586:00200293617:1864050701:0594/pct:54.054621848739494,25.655563430191354,15.378151260504202,13.196314670446492/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7830,7 +7830,7 @@ they are entitled to the benefits and sube
 are foreign to the United States, and the  
 Federal Government has no power ove
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_dillinger_ver02:data:sn87056248:00200295808:1864051201:0512/pct:172.0729366602687,213.4512622074811,52.39923224568138,58.41164547632209/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_dillinger_ver02:data:sn87056248:00200295808:1864051201:0512/pct:43.02339532093581,53.36281555187028,13.101379724055189,14.602911369080523/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7867,7 +7867,7 @@ iven a superiority of strength to any
 rty with which they may associa  
 with them.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn86059181:00296022032:1864052001:0278/pct:151.9704433497537,31.034914278563384,124.13793103448276,350.093855587536/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn86059181:00296022032:1864052001:0278/pct:38.0043116723129,7.758728569640846,31.04404065291038,87.523463896884/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7928,7 +7928,7 @@ slave In the South, muster them into service,
 and use them to put down the most wicked  
 and unauthorized o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_damariscotta_ver02:data:sn83016025:00279525188:1864060201:0298/pct:14.728810748051087,65.00941619585687,11.096367556808758,8.286252354048964/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_damariscotta_ver02:data:sn83016025:00279525188:1864060201:0298/pct:14.72636815920398,65.00125533517449,11.098673300165837,8.288350489580719/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7957,7 +7957,7 @@ This power was given to prevent changes
 toward monarchy or aristocracy in the mem­  
 bers of the Union. It assumed that th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn85034406:00296026694:1864061501:0991/pct:58.87528691660291,72.13399172561057,16.679418515684773,8.127585746696917/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn85034406:00296026694:1864061501:0991/pct:44.17447866845227,54.10383024155879,12.511957145590205,6.099025757373549/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7994,7 +7994,7 @@ constitutions; a restriction, which, it is pre­
 sumed, will hardly bo considered as a griev­  
 ance.&quot;The conclusion, then, to which I am fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn85034406:00296026694:1864061501:0991/pct:76.7406273909717,33.44454824502869,16.88982402448355,13.70612571733618/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn85034406:00296026694:1864061501:0991/pct:57.56648172948154,25.090084078473243,12.684140042089153,10.276257840651274/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8020,7 +8020,7 @@ the old constitution and laws as the govern
 or the President or the Congress may  
 select? Where is the author ty to prescrib
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028822:00280775459:1864061601:0944/pct:127.6064610866373,174.88628532046863,50.0,42.34321157822192/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028822:00280775459:1864061601:0944/pct:31.901615271659324,43.72157133011716,12.5,10.58580289455548/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8045,7 +8045,7 @@ This power was given to prevent changes
 monarchy or aristocracy in the mem  
 bers of the Union. It assumed that th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028822:00280775459:1864061601:0944/pct:127.6064610866373,181.61268090971743,50.220264317180614,46.42315644383184/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028822:00280775459:1864061601:0944/pct:31.901615271659324,45.40317022742936,12.555066079295154,11.60578911095796/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8090,7 +8090,7 @@ serted in this bill, whatever
 lation of the seceded State.  
 ie conditions as
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028822:00280775459:1864061601:0944/pct:177.3861967694567,82.92212267401791,51.17474302496329,47.470709855272226/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028822:00280775459:1864061601:0944/pct:44.34654919236417,20.73053066850448,12.793685756240823,11.867677463818056/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8281,7 +8281,7 @@ ges toward monarchy or aristocracy in
 the members cf tho Union. It assumed  
 that the governments then existing wer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn83035173:00296027303:1864070601:0101/pct:58.50430178689609,75.02426847871308,16.379880873593645,13.950908334488975/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn83035173:00296027303:1864070601:0101/pct:43.8927507447865,56.275135210095684,12.297252565375704,10.470115101927611/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8313,7 +8313,7 @@ for antirrepubucan constitutions; a re­
 striction, which, it -is presumed, will  
 hardly be considered as a grievance
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn83035173:00296027303:1864070601:0101/pct:75.46326935804103,63.62501733462765,16.363335539377896,12.966301483844127/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn83035173:00296027303:1864070601:0101/pct:56.6203243958954,47.71876300097074,12.280701754385966,9.735126889474413/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8417,7 +8417,7 @@ ernments to originate the amendment of errors
 they may b pointed out by the experience on one  
 side or on the other.t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774704:1865011901:0921/pct:68.50789096126256,74.22193040052528,49.64131994261119,32.72488509520683/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774704:1865011901:0921/pct:17.130044843049326,18.55548260013132,12.41255605381166,8.181221273801707/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8450,7 +8450,7 @@ he Pederalist maintained that &quot;justice is the end of gov-
 rnment that it will be pursed until it be obtained, and  
 hat in a socicty,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024669:00414184765:1865012501:0048/pct:59.16921590726131,120.20773225620312,44.11527934310095,22.204270051933065/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024669:00414184765:1865012501:0048/pct:19.719896973599486,40.064620355411954,14.702725906846963,7.400569274559581/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8613,7 +8613,7 @@ State? Among the advantages of a
 confederate Republic, enumerated by Montes­  
 quieu, an important one is, that should
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024660:00414184765:1865062101:0180/pct:135.7501213788639,23.585841878928218,37.54652856449264,17.146322637556512/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024660:00414184765:1865062101:0180/pct:45.24271844660194,7.8610804851157665,12.513484358144552,5.714810731348769/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8657,7 +8657,7 @@ orate opinion giver! by Chief .fustici
 28th, 1798, provided &quot;that, iii case of in  
 i tirivetion in any State against the go
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_eclipse_ver01:data:sn85038624:00280762635:1865062201:0015/pct:84.1674595623216,18.253202920512468,13.415794481446241,16.145474583275934/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_eclipse_ver01:data:sn85038624:00280762635:1865062201:0015/pct:84.17221693625119,18.256646921063506,13.420551855375832,16.155806584929053/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8782,7 +8782,7 @@ the judges of those times, holding office at
 the pleasure of the crown, because, but too  
 often instruments in its hands of fou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn85026002:00280775071:1865081401:0342/pct:152.16989843028625,211.69446883230904,57.52539242843952,88.21773485513609/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn85026002:00280775071:1865081401:0342/pct:38.06883806883807,52.92361720807726,14.391314391314392,22.05443371378402/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8840,7 +8840,7 @@ of the Constitution had before them the
 Constitutions of the then States, which they  
 deemed truly republican. These were th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038519:00200293332:1866011801:0156/pct:88.15718157181571,50.96196373286156,12.723577235772357,12.218045112781954/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038519:00200293332:1866011801:0156/pct:66.1515521214586,38.22423706324635,9.543174732275993,9.166298098186642/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8875,7 +8875,7 @@ the trainers ot too constitution had before
 them the constitutions of the then states,  
 which they deemed truly republican. -Thes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_article_ver01:data:sn84038628:00295879907:1866012601:0088/pct:30.303547066848566,79.5934023782125,19.218963165075035,14.537782892213272/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_article_ver01:data:sn84038628:00295879907:1866012601:0088/pct:22.739679290344593,59.698248305843244,14.431934493346981,10.906533691343817/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8952,7 +8952,7 @@ implies a remedy; and where else would the
 remedy be deposited than where it is deposi  
 ted by; the Constitution? meaning, as th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528347:1866031601:0772/pct:53.72481649226925,237.37292975442605,37.451194752459784,22.36436322101656/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528347:1866031601:0772/pct:17.908272164089748,79.12430991814202,12.483731584153261,7.454787740338854/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8986,7 +8986,7 @@ upon them is that they shall not exchange
 Republican for anti-Republican Constitu­  
 tions.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_osceola_ver01:data:sn84022046:00279554231:1866053001:0516/pct:174.8108925869894,266.10963413090263,46.91754916792738,36.118496012153436/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_osceola_ver01:data:sn84022046:00279554231:1866053001:0516/pct:43.69446020041596,66.51898734177215,11.727169597277369,9.028481012658228/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9026,7 +9026,7 @@ ing Government of the form which is to be guaranteed.&quot;
 It is not pretended that the existing Governments of the  
 States in question are not of the required form. The ob-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743555:1866062001:0176/pct:66.99726402188783,197.83544606553457,45.31463748290014,5.082516144463047/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743555:1866062001:0176/pct:22.332421340629274,65.94514868851152,15.104879160966712,1.694172048154349/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9059,7 +9059,7 @@ vernment of the form which is to be
 guaranteed.&quot;  
 It is not pretended that the existing g
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:0027174190A:1866062101:0582/pct:86.0725360657948,248.55703160787905,41.70149656195227,29.39990838295923/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:0027174190A:1866062101:0582/pct:28.690845355264933,82.85234386929302,13.900498853984091,9.79996946098641/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9078,7 +9078,7 @@ form which is to be guaranteed.&quot; It is not
 pretended that the existing governments  
 of the States in question are not of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774728:1866062901:0729/pct:229.25416364952932,309.1679915209327,49.9637943519189,9.00900900900901/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774728:1866062901:0729/pct:57.323918160420064,77.29199788023317,12.49321021184139,2.2522522522522523/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9111,7 +9111,7 @@ republican for anti-republican constitu­
 tions.&quot; E us gteth tin n  
 This new doctrine is that Congress ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn88077244:00280775083:1866082101:0132/pct:28.41328413284133,279.41827379070503,57.47232472324723,34.52418589946254/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn88077244:00280775083:1866082101:0132/pct:7.1082390953150245,69.85456844767626,14.378029079159935,8.631046474865634/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9170,7 +9170,7 @@ wreaked their alternate malignity on each
   
 oilier.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038519:00200293344:1866092001:0257/pct:22.531199131850244,36.75591945120602,12.859468258274552,4.115954857269307/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038519:00200293344:1866092001:0257/pct:16.904083570750238,27.57247178579332,9.645909645909645,3.0869661429519804/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9196,7 +9196,7 @@ tfuaran oe lor the latter.&quot;
 Mark too, more especially, the laus-uago of this  
 bitter clause, &quot;When the States mat cuooo;&quot; no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_ewing_ver01:data:sn83025925:00280776191:1866121301:0748/pct:7.952949438202247,45.73407202216067,18.92556179775281,6.759002770083103/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_ewing_ver01:data:sn83025925:00280776191:1866121301:0748/pct:5.970149253731344,34.307479224376735,14.205443371378403,5.069252077562327/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9312,7 +9312,7 @@ tinued bv the States, they are guaranteed
 by the Federal constitution. Whenever  
 the States may choose to-substitute othe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038521:00200293344:1866122201:0610/pct:20.066889632107024,90.54416657722443,12.94593088071349,4.776215520017173/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038521:00200293344:1866122201:0610/pct:15.05226480836237,67.90812493291833,9.714285714285714,3.5848449071589568/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9329,7 +9329,7 @@ would be allowed &gt;*a municipal legislature, for
 local purposes, derived from their orwn snf  
 fraii e?.&quot; when, for tbe first time, Con greet, in 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_leonberger_ver03:data:sn83045462:00280654280:1867010701:0207/pct:33.50474047886871,92.00723712217965,15.71589265627511,1.3942103022562793/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_leonberger_ver03:data:sn83045462:00280654280:1867010701:0207/pct:33.508757833842196,92.01521924223074,15.71589265627511,1.3942103022562793/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9359,7 +9359,7 @@ at Washington, President Adams, in his speech
 at its opening, reminded the two Houses that it  
 was for them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_ewing_ver01:data:sn83025925:00280776208:1867010701:0030/pct:26.141953619114545,31.980609418282548,18.86858749121574,9.598337950138504/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_ewing_ver01:data:sn83025925:00280776208:1867010701:0030/pct:19.61335676625659,23.98891966759003,14.165202108963094,7.202216066481994/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9383,7 +9383,7 @@ dent Adam in hi speech at it opening
 reminded the two House that it wm for  
 them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn85033673:00280779350:1867010701:0017/pct:23.105745212323065,93.95827296435816,16.81931723563697,6.418429440741814/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn85033673:00280779350:1867010701:0017/pct:17.35055196833993,70.4723268617792,12.622370339512601,4.8101999420457835/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9466,7 +9466,7 @@ his speech at its opening, reminded the two Houses that
 it was for them to consider whether the los  
 strict
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_delphi_ver02:data:sn83030214:00206530856:1867010801:0050/pct:4.716837124103191,235.52473517527574,47.32101969165013,20.8583597248007/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_delphi_ver02:data:sn83030214:00206530856:1867010801:0050/pct:1.5722790413677301,78.50824505842525,15.773673230550044,6.952786574933566/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9496,7 +9496,7 @@ year 1800, assembled at Washington, Presi.
 dent Adams, in his speech at its opening, re-  
 minded the two Houses that it was for them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053571:00237289043:1867010801:0032/pct:120.16651248843664,144.35381547942723,49.58371877890842,31.46637665397861/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053571:00237289043:1867010801:0032/pct:30.04857737682165,36.08845386985681,12.39879713162156,7.866594163494653/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9524,7 +9524,7 @@ time, Congress, in the year 1800, aszembled at Washing­
 ton, President adams, in his spesch at its opening, rs.­  
 minded the two Houses that it was for them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743579:1867010801:0079/pct:105.22897044494965,15.765300264094614,90.90613835660929,277.33379262831556/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743579:1867010801:0079/pct:35.07632348164989,5.255100088031538,30.302046118869765,92.44459754277185/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9543,7 +9543,7 @@ habitants would be allowed &quot;a municipal legislat?
 ure&quot; for local purposes, derived&quot; from their own suf?  
 frages. Whon for the first time -Congress in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_brandonblaze_ver01:data:sn84026994:00294555237:1867010801:0127/pct:0.6236305410416315,80.39407661240975,13.753581661891117,2.1172439113939543/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_brandonblaze_ver01:data:sn84026994:00294555237:1867010801:0127/pct:0.6236305410416315,80.39815608044711,13.764818248216192,2.1172439113939543/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9566,7 +9566,7 @@ year 1300 assembled at Washington, President
 Adams in his speech at its opening reminded the  
 two Houses that it was for thom
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_brandonblaze_ver01:data:sn84026994:00294555249:1867010802:0021/pct:2.050147492625369,80.56734851408723,13.893805309734514,3.5025086839058277/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_brandonblaze_ver01:data:sn84026994:00294555249:1867010802:0021/pct:2.055063913470993,80.57378103692268,13.88888888888889,3.5025086839058277/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9596,7 +9596,7 @@ Adams, in his speech at its opening, reminded tho
 two Houses that it was for them to consider whether  
 tho local powers over tho
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664400:1867010801:0511/pct:31.510457010069715,68.49203105843891,16.266460108443066,6.497752349816102/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664400:1867010801:0511/pct:31.510457010069715,68.49884211960223,16.27162406403305,6.497752349816102/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9626,7 +9626,7 @@ Washington, President Adams, in his speech
 at its opening, reminded the two Houses that  
 it was for them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741923:1867010801:0035/pct:85.4511227645556,89.63608312914057,41.54901169826543,18.032489336600417/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741923:1867010801:0035/pct:28.4837075881852,29.878694376380192,13.849670566088477,6.010829778866806/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9668,7 +9668,7 @@ Washington, President Adums, in his
 speech at its opening, reminded the two  
 Houses that it was for them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_belgium_ver01:data:sn84026844:00202190790:1867010901:0031/pct:37.99253421816674,22.834645669291337,12.94068851099129,7.545931758530184/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_belgium_ver01:data:sn84026844:00202190790:1867010901:0031/pct:37.99253421816674,22.845581802274715,12.961426793861468,7.540463692038495/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9702,7 +9702,7 @@ speech at its opening, reminded the two
 Houses that it was lor them to consider  
 whether tbe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_chekhov_ver01:data:sn84026847:00415665040:1867010901:0031/pct:25.098098400241472,38.50222128199704,12.17929369151826,8.811085254918552/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_chekhov_ver01:data:sn84026847:00415665040:1867010901:0031/pct:25.103129087433345,38.50222128199704,12.174263004326392,8.814611099358297/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9735,7 +9735,7 @@ Washington, President Adams, in his
 speech at its opening, reminded the  
 two Houses that it was for them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn82014296:00296022093:1867011001:0284/pct:256.71863400148476,198.22222222222223,55.82776540460282,45.666666666666664/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn82014296:00296022093:1867011001:0284/pct:64.20349053100631,49.55555555555556,13.96212402525065,11.416666666666666/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9768,7 +9768,7 @@ at Washington, President Adams, in his
 peeeh at its opening, reminded the two  
 Houses that it was for them to consiuer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879129:1867011001:0009/pct:58.333333333333336,74.38904217579818,16.67917917917918,11.982656681119433/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879129:1867011001:0009/pct:43.76720901126408,55.79424517146236,12.515644555694617,8.986992510839574/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9799,7 +9799,7 @@ at Washington, President Adams, in his
 speech at its opening, reminded the two  
 houses that it was for them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:0028077473A:1867011201:0355/pct:170.74204946996466,91.87023394080393,50.31802120141343,29.36538710094352/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:0028077473A:1867011201:0355/pct:42.70060091905267,22.967558485200982,12.583951926475786,7.34134677523588/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9837,7 +9837,7 @@ Columbia, vc
   
 Congress of the United Statrs, should b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033306:00212470107:1867011201:0460/pct:24.33206106870229,17.24590163934426,17.025627044711015,12.098360655737705/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033306:00212470107:1867011201:0460/pct:18.257431142623396,12.939890710382514,12.77611126261249,9.07103825136612/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9907,7 +9907,7 @@ dent Adams, in his speech at its open­
 ing, reminded the two Houses that it  
 was for them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn86081582:00280776543:1867011601:0177/pct:127.40458015267176,71.83696575148599,96.4885496183206,292.66911972827626/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn86081582:00280776543:1867011601:0177/pct:31.85114503816794,17.959241437871498,24.12213740458015,73.16727993206906/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9931,7 +9931,7 @@ hand it was eld aon oter eaieo o one i o e ie­
 sons, and successfully, that the coned as an arbitrary exerise of power,  
 stitution, the acts of cession of Virginiaand as an indication by the countr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477850:1867011701:0221/pct:64.09130816505707,200.08830022075054,104.65320456540826,95.42310522442973/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477850:1867011701:0221/pct:16.033384581594554,50.022075055187635,26.18054030309686,23.855776306107433/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9957,7 +9957,7 @@ assembled at Washington, President Adams,
 in his speech at its opening, reminded the  
 two Houses that it was for them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eagle_ver01:data:sn84022278:00200296539:1867011901:0555/pct:109.47136563876651,63.778546712802765,43.75917767988253,20.484429065743946/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eagle_ver01:data:sn84022278:00200296539:1867011901:0555/pct:27.3728657976868,15.944636678200691,10.941802827244354,5.1211072664359865/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9991,7 +9991,7 @@ Chion a republican form of govern­
 ment.&quot; Thus we have here, under the  
 constitution, a Confederacy, a Union, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867030501:0206/pct:104.14887126296523,279.38257993384786,37.58389261744966,25.843439911797134/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867030501:0206/pct:26.045163259078425,69.84564498346197,9.398840402807446,6.4608599779492835/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10119,7 +10119,7 @@ posed on them is, that they shall not ex
 change Republican for anti- Republican  
 Constitutions.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:0028077473A:1867042001:0699/pct:118.10982048574445,139.9362872864176,49.36642027455122,55.449367699584904/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:0028077473A:1867042001:0699/pct:29.535252178505413,34.9840718216044,12.34486400844996,13.862341924896226/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10170,7 +10170,7 @@ republican for unu-republlcan constitutions, a re­
 itiiclioiiwhich it is presumed will hardly be con­  
 sidered as a grievance.” Before tnese States at
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kedzie_ver02:data:sn82014064:no_reel:1867062301:0001/pct:31.138495493838512,32.52516010978957,9.196247930844216,10.506251906068924/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kedzie_ver02:data:sn82014064:no_reel:1867062301:0001/pct:31.15228986573478,32.52516010978957,9.18705168291337,10.517688319609636/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10212,7 +10212,7 @@ republican for antt-icpnb&#x27;ican constitutions, a re­
 striction which it is presumed will hardly be con­  
 sidered as a grievance.” Before tnese stales at
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kedzie_ver02:data:sn82014064:no_reel:1867062401:0003/pct:0.9541984732824428,26.349453978159126,9.293893129770993,7.9875195007800315/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kedzie_ver02:data:sn82014064:no_reel:1867062401:0003/pct:0.9685114503816794,26.349453978159126,9.289122137404581,7.9992199687987515/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10276,7 +10276,7 @@ publican forms are continued by the States
 thsy are guaranteed by the Federal Constitu­  
 tion—The Federalist, No. 43
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:00279525243:1867110101:0391/pct:73.6144772984327,53.91383841846646,11.068023913394732,4.570906182150611/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:00279525243:1867110101:0391/pct:73.60258481421648,53.90767824497258,11.0702746365105,4.573240402193784/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10346,7 +10346,7 @@ ine grouna toai in a conieaeracy iounueu ljnT0ive the refusal to recognize tne n
 &quot;that. they shall not exchange republican  
 &quot; for anti-republican constitutions, ..
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202197589:1868020501:0455/pct:20.986486486486488,3.265940902021773,30.135135135135137,120.41768495889802/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202197589:1868020501:0455/pct:15.74749932414166,2.4550099977782716,22.614220059475535,90.31326371917352/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10473,7 +10473,7 @@ considered as a grievance.
 These are two identical questions now  
 under discussion by this House. Bu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774753:1868021301:0428/pct:129.87377279102384,118.35129993658846,50.35063113604488,124.03297400126823/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774753:1868021301:0428/pct:32.47413641942837,29.587824984147115,12.589864983342101,31.008243500317057/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10516,7 +10516,7 @@ been changed, llow is this interposition
 to be secured? Before what tribunal are  
 those who seek redress to go, and who U
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kedzie_ver02:data:sn82014064:no_reel:1868022701:0002/pct:3.859981078524125,2.9893014474512274,17.237464522232735,95.20138451856513/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kedzie_ver02:data:sn82014064:no_reel:1868022701:0002/pct:3.8647114474929043,2.9932347388294525,17.232734153263955,95.21711768407803/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10558,7 +10558,7 @@ forms are continued by the State? they are
 guaranteed by the Federal Constitution.”  
 The Federalist thus asserts that the State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348690:1868070101:0339/pct:70.37755822159492,57.75023324003732,12.632321806633733,4.038384646141544/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348690:1868070101:0339/pct:70.36514376433233,57.742537313432834,12.634503439760099,4.041178038379531/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10592,7 +10592,7 @@ themselves.”
 How strikingly applicable to eur oase 1 We  
 have a republican form of government whic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348690:1868070101:0339/pct:83.60973888496824,22.404371584699454,13.073394495412844,10.51579368252699/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348690:1868070101:0339/pct:83.59499029811255,22.40138592750533,13.075498324219438,10.517723880597014/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10674,7 +10674,7 @@ existing republican forms are continued
 by the States they are guaranteed by the  
 Federal Coustitution.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292984:1868070201:0007/pct:155.4164057608015,357.5326215895611,41.76581089542893,16.559905100830367/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292984:1868070201:0007/pct:38.860184750273994,89.38315539739027,10.443087521528104,4.139976275207592/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10708,7 +10708,7 @@ and give a superiority of strength to any
 party with which they may associate  
 themselves.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292984:1868070201:0007/pct:201.37758296806513,49.537366548042705,42.64245460237946,32.88256227758007/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292984:1868070201:0007/pct:50.35227806481917,12.384341637010676,10.662282761860029,8.220640569395018/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10745,7 +10745,7 @@ tion of time, and to States in the Union. The first er
 tial, therefore, to enable the Central Government to per.  
 form its constitutional duty is that every State in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_euclid_ver01:data:sn83030214:00206530893:1868082101:0768/pct:151.38376383763838,7.205240174672489,95.8179581795818,288.75545851528386/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_euclid_ver01:data:sn83030214:00206530893:1868082101:0768/pct:50.46125461254613,2.4017467248908297,31.939319393193934,96.25181950509462/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10800,7 +10800,7 @@ would it be proper for the places on which the sc.
 curity of the entire Lnion may depend to be In any  
 uegrt;e ui&#x27;iiriitirni uu a purueuiitr mciiiDcr OI it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_ewing_ver01:data:sn83025925:00280776257:1869042001:0761/pct:47.11469534050179,27.598665925514176,19.480286738351253,22.790439132851585/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_ewing_ver01:data:sn83025925:00280776257:1869042001:0761/pct:35.34683635060047,20.705947748749306,14.608352751389138,17.092829349638688/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10882,7 +10882,7 @@ authority; out tne autnority extenas no lunner
 than to a guaranty of a republican form -of gov­  
 ernment, of the form which is .to be- guarantied.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280775009:1870011901:0334/pct:114.54081632653062,40.7113218731476,13.236961451247165,16.965026674570243/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280775009:1870011901:0334/pct:85.9492414575358,30.53941908713693,9.924854671770877,12.720806164789566/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10935,7 +10935,7 @@ the constitution of the United States by
 One of the trainers of that instrument, is  
 to be seen in the legislation of the las
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293411:1870032901:0303/pct:20.960187353629976,43.22406218316999,13.085480093676814,22.958206601329277/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293411:1870032901:0303/pct:15.724743777452415,32.42086290413428,9.824304538799414,17.224287484510533/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10966,7 +10966,7 @@ The present Congress and the 40th
 Congress have acted in the presump-­  
 tion that Congress was above th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn83025167:00279529352:1870041501:0518/pct:7.85466203580016,28.980925281905364,38.59203847181405,24.206976499104226/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn83025167:00279529352:1870041501:0518/pct:2.6182206786000535,9.660308427301787,12.864012823938017,8.068992166368075/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10993,7 +10993,7 @@ that of the smaller ii quited by the like
 pracaolion against a junction of States  
 without their cowe^t.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn84026817:00202193766:1870111701:0203/pct:3.1458277792588643,4.378782484870061,31.19168221807518,93.12922748309006/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn84026817:00202193766:1870111701:0203/pct:3.1458277792588643,4.378782484870061,31.225006664889364,93.14702741189035/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11042,7 +11042,7 @@ Ouring the recent war of the Rebellion. The guar­
 antee was not kept and duties under It performed  
 by the United States, and by reason of their defaul
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_grange_ver01:data:sn83025925:00280776312:1871042101:0768/pct:6.25,59.79516806722689,19.302949061662197,5.86922268907563/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_grange_ver01:data:sn83025925:00280776312:1871042101:0768/pct:4.6932618169627895,44.85294117647059,14.482065035199463,4.398634453781512/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11062,7 +11062,7 @@ This correlative of allegiance rests upon every
 State, and In the absence of compact or treaty be­  
 tween States is exclusively a State obligation. Bu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_grange_ver01:data:sn83025925:00280776312:1871042101:0768/pct:6.5180965147453085,71.875,19.185656836461128,3.243172268907563/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_grange_ver01:data:sn83025925:00280776312:1871042101:0768/pct:4.894401609118337,53.91281512605042,14.398256788467986,2.429096638655462/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11326,7 +11326,7 @@ change republican for anti-republican
 constitutions.&quot; According to this con­  
 struction, the guaranty was to operat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn85033699:00200293496:1874041201:0353/pct:22.713950762016413,113.2511724288363,14.331770222743259,13.861926055185952/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn85033699:00200293496:1874041201:0353/pct:17.045287996482486,84.93837932162722,10.743074893741756,10.404624277456648/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11345,7 +11345,7 @@ Constitution was that States should not exchange
 republican for anti-republican constitutions. The  
 proposition now urged is that a fraudulent elec-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743865:1874041701:0247/pct:56.5,62.258440046565774,46.416666666666664,5.983701979045402/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743865:1874041701:0247/pct:18.833333333333332,20.75281334885526,15.472222222222221,1.9945673263484671/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11388,7 +11388,7 @@ would add the affection of friends.&quot; True
 and forcible as this doubtless is when applied  
 to the kind of cases in contemplation by th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743865:1874042401:0343/pct:53.95527369826435,181.90884842862113,47.496662216288385,18.705786849124436/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743865:1874042401:0343/pct:17.985091232754783,60.636282809540376,15.832220738762794,6.235262283041478/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11409,7 +11409,7 @@ alist says:-&quot;The existence of a right to inter-­
 fere will generally prevent the necessity of ex-­  
 erting it.&quot; Most true again, as the provisio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743865:1874042401:0343/pct:54.67289719626168,203.85016815493447,46.62883845126836,13.185666241447292/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743865:1874042401:0343/pct:18.22429906542056,67.95005605164482,15.542946150422786,4.395222080482431/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11451,7 +11451,7 @@ selves: &quot;The authority extends no further
 scope of this much-abused provision.  
 We had hoped that some progress had bee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hugo_ver01:data:sn83030214:00206531174:1874052101:0426/pct:247.7510881831372,104.60533852674992,48.154118974689666,52.73227173788521/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hugo_ver01:data:sn83030214:00206531174:1874052101:0426/pct:82.58369606104573,34.8684461755833,16.051372991563223,17.577423912628404/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11532,7 +11532,7 @@ no such thing as a local government of the Dis­
 trict of Columbia, for there can be no govern-  
 ment within the District independent of that o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_braniff_ver01:data:sn86053573:00294558317:1874060601:0368/pct:26.53342522398346,128.66881028938906,44.10751206064783,25.620578778135048/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_braniff_ver01:data:sn86053573:00294558317:1874060601:0368/pct:6.636786760903292,32.167202572347264,11.032580589553525,6.405144694533762/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11567,7 +11567,7 @@ ual accumulation of public improvements at the
 ; further to abridge its necessary independence.”  
 The committee show also from the history o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348719:1874061101:0496/pct:30.985678180286435,30.933472204140084,12.737994945240102,9.048301002473636/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348719:1874061101:0496/pct:30.980458221024257,30.929445456912262,12.74006064690027,9.050377505857849/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11598,7 +11598,7 @@ stacles to a removal of the Government as still further
 to abridge its necessary independence.  
 The subsequent action of Congress confirm
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fullerton_ver02:data:sn84031492:no_reel:1874062801:0008/pct:15.48663101604278,24.76479030457662,13.283422459893048,7.39913889331845/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fullerton_ver02:data:sn84031492:no_reel:1874062801:0008/pct:15.48663101604278,24.7687769095838,13.288770053475936,7.419071918354329/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11704,7 +11704,7 @@ obstacles to a removal of tbo Govern*
 moot as Btill further to abridge its necessary in*  
 dependence.” Tbo uatlior of ibis minority repor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grand_ver02:data:sn84031492:no_reel:1875020101:0003/pct:56.23678646934461,76.4516777175005,13.054968287526426,3.817560779586096/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grand_ver02:data:sn84031492:no_reel:1875020101:0003/pct:56.243393234672304,76.46172393007836,13.048361522198732,3.817560779586096/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11785,7 +11785,7 @@ But I especially repudiate this imputation when
 rests upon those members of the commission who at  
 to come from the Supreme Court. It is true ther
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271743944:1877012601:0277/pct:102.69376962485539,194.82698761717393,44.80251198149066,30.11225552598079/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271743944:1877012601:0277/pct:34.231256541618464,64.94232920572465,14.934170660496887,10.037418508660263/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11826,7 +11826,7 @@ But I especially repudiate this imputation when
 rests upon those members of the commission who ar  
 to come from the Supreme Court. It is true ther
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271743944:1877012601:0279/pct:102.64419104280285,193.25543729754745,45.08345727978846,31.189264229523367/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271743944:1877012601:0279/pct:34.21473034760095,64.41847909918248,15.027819093262822,10.396421409841123/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11863,7 +11863,7 @@ bristling with the spirit of tho hour,
 the Journal of Commerce, would not  
 sound so antiquated. We have ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_heddalettuce_ver01:data:sn86053227:00294558779:1877031001:0421/pct:50.03365870077415,33.69631714180839,15.853248064624706,11.19539948611281/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_heddalettuce_ver01:data:sn86053227:00294558779:1877031001:0421/pct:50.03926848423651,33.70039561156654,15.853248064624706,11.203556425629104/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11956,7 +11956,7 @@ the State in their adoption of the Constitu­
 tion, every imaginable objection seems to be  
 obviated.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:0029455838A:1878021801:0188/pct:79.68164794007491,29.12515848578156,50.0936329588015,103.3870675602246/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:0029455838A:1878021801:0188/pct:19.925076094591432,7.28128962144539,12.5263404354952,25.84676689005615/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11988,7 +11988,7 @@ whoiej^opJe of the state, in their adoption of
 the constitution every imaginary objection  
 seems to be obviated.&#x27; X. Y 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_otterhound_ver01:data:sn83045462:00280654498:1878022801:0191/pct:42.64936546413803,86.88223207526765,13.560530443462142,7.126635665621283/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_otterhound_ver01:data:sn83045462:00280654498:1878022801:0191/pct:42.66005988877799,86.88223207526765,13.56409525167546,7.137449983778523/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12022,7 +12022,7 @@ objection seems to be obviated.
 If MAdison were living, what a frightful  
 minority he would be in, according to Mr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:0029455838A:1878030101:0231/pct:183.7406015037594,217.3359985462475,50.18796992481203,28.275486098491733/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:0029455838A:1878030101:0231/pct:45.945945945945944,54.33399963656188,12.54994124559342,7.068871524622933/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12058,13 +12058,13 @@ tablished in one State, it would bring
 on the ruin of the whole republic.”  
 A vast amount of learning as well a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:fu:batch_fu_albert_ver01:data:sn96027724:00271766294:1878071701:0077/pct:7.9606440071556355,72.35285307772952,20.796064400715565,10.34895911337427/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:fu:batch_fu_albert_ver01:data:sn96027724:00271766294:1878071701:0077/pct:6.169487609034718,56.078309989940415,16.122696551325745,8.024452526503135/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Scientific American (1845-1908)_](https://archive.org/details/sim_scientific-american_1878-12-28_39_26/page/n2/mode/1up?view=theater)
+## [From _Scientific American_](https://archive.org/details/sim_scientific-american_1878-12-28_39_26/page/n2/mode/1up?view=theater)
 
 #### 1878-12-28 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -12115,7 +12115,7 @@ ventors the exclusive right to their respective
 writings and discoveries. With regard to  
 this point the court holds that an ordinar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_charlie_ver01:data:sn83045160:0028077957A:1879111901:0299/pct:73.16428948758585,200.51502145922746,40.94030639197042,9.399141630901287/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_charlie_ver01:data:sn83045160:0028077957A:1879111901:0299/pct:18.295904887714663,50.128755364806864,10.23778071334214,2.3497854077253217/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12156,7 +12156,7 @@ existing government of the form which
 is to be guaranteed, and that the form  
 must be substantially republican. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn84009409:00296028757:1880051301:0573/pct:48.073538040289456,35.5463347164592,14.394680226872678,3.8450899031811896/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn84009409:00296028757:1880051301:0573/pct:48.08005737010235,35.5463347164592,14.407718886498468,3.8543107422775473/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12187,7 +12187,7 @@ uch a real estato owner. This rule applied
 equally to native and foreign born citizens,  
 Ily her constitution of 1812, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn83032011:00237288002:1880061801:0772/pct:64.78555304740406,76.16515045486354,15.048908954100828,11.546536039188243/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn83032011:00237288002:1880061801:0772/pct:48.616600790513836,57.13086074177747,11.311876529267833,8.663400979706088/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12215,7 +12215,7 @@ conviction of it, and restraining Congress, even
 in punishing it, from extending the consequences of  
 guilt beyend the person of its author.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ike_ver01:data:sn85042682:00211103401:1880101701:0144/pct:249.85915492957747,117.4721189591078,44.436619718309856,16.463090812533192/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ike_ver01:data:sn85042682:00211103401:1880101701:0144/pct:62.49779813281663,29.36802973977695,11.115025541659326,4.115772703133298/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12264,7 +12264,7 @@ made by the people of the several states and
 ratified by the states, and thereby became  
 established as a constitution between th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_aubrey_ver01:data:sn86089542:0051717547A:1882040701:0319/pct:24.147665580890337,51.503593956285755,16.720955483170467,6.205075546428048/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_aubrey_ver01:data:sn86089542:0051717547A:1882040701:0319/pct:24.158523344191096,51.51092856095057,16.72638436482085,6.219744755757665/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12314,7 +12314,7 @@ derived from the whole people of the state in their
 adoption of the Constitution every imaginable ob­  
 jection seems to be obviate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chester_ver02:data:sn86053573:00211101970:1883101501:0732/pct:9.50266429840142,205.7363888483433,58.259325044404974,25.00364910232083/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chester_ver02:data:sn86053573:00211101970:1883101501:0732/pct:2.3772495001110863,51.434097212085824,14.57453899133526,6.250912275580207/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12339,7 +12339,7 @@ ington a city charter. It was altered and
 extended from time to time as the growing  
 wants of the city demanded, and that for
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barack_ver01:data:sn86053573:00211101982:1884011501:0100/pct:320.2057998129093,218.84644194756555,58.8400374181478,17.06367041198502/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barack_ver01:data:sn86053573:00211101982:1884011501:0100/pct:80.05144995322732,54.71161048689139,14.71000935453695,4.265917602996255/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12379,7 +12379,7 @@ These passages show that the power in question
 was given to congeess in an enlarged and patri  
 otic view, and that the framers of the Constitutio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barack_ver01:data:sn86053573:00211101982:1884013001:0205/pct:90.21739130434783,215.0518778313605,56.88405797101449,36.00759900628379/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barack_ver01:data:sn86053573:00211101982:1884013001:0205/pct:22.554347826086957,53.76296945784013,14.221014492753623,9.001899751570948/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12421,7 +12421,7 @@ state, in their adoption of the constitution
 every imaginable objection seems to be ob­  
 viate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barack_ver01:data:sn86053573:00211101982:1884032401:0576/pct:70.533208606174,78.04149873115391,59.30776426566885,42.03612479474548/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barack_ver01:data:sn86053573:00211101982:1884032401:0576/pct:17.637426900584796,19.510374682788477,14.830409356725147,10.50903119868637/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12483,7 +12483,7 @@ authority.&quot; al
 JUSTICE TO A LOYAL PEOPLE. ai  
 Mr. Segar, who represented the distric
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_france_ver01:data:sn84026844:00202193493:1884051701:0477/pct:48.76919327321472,52.5557461406518,14.550329027540824,5.368782161234991/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_france_ver01:data:sn84026844:00202193493:1884051701:0477/pct:48.787472581038266,52.56003430531732,14.556422130148672,5.377358490566038/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12511,7 +12511,7 @@ in tha farmar case to sunnart tha ute to anth
 ity?  
 Mr. Segar, who represented the district in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barack_ver01:data:sn86053573:00211101982:1884061901:1191/pct:134.75836431226764,180.82847315687155,59.20074349442379,16.55450874831763/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barack_ver01:data:sn86053573:00211101982:1884061901:1191/pct:33.68959107806691,45.20711828921789,14.800185873605948,4.138627187079408/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12545,7 +12545,7 @@ within the counties which were to com­
 pose the new state had over given their  
 assent to its formation. The ordinar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348495:1884070301:0330/pct:84.56849534809112,45.48872180451128,10.891883221045877,7.894736842105263/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348495:1884070301:0330/pct:84.55493183640738,45.4833783625044,10.894145950280674,7.896746152942558/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12686,7 +12686,7 @@ transactions. The particular precaution
 against the erection of new states, by the  
 partition of a state without its consent
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_alamo_ver01:data:sn85042588:00212470867:1886011501:0275/pct:6.6893424036281175,30.77721551835993,16.723356009070294,16.93265862203192/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_alamo_ver01:data:sn85042588:00212470867:1886011501:0275/pct:5.691187493307635,26.16815558251535,14.20923011029018,14.392853203926327/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12705,7 +12705,7 @@ larger states as that of the smaller is
 quieted by a like precaution, against a  
 junction of states without their consent.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_alamo_ver01:data:sn85042588:00212470867:1886011501:0275/pct:6.63265306122449,47.722849357726744,16.74225245653817,3.5941352017646295/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_alamo_ver01:data:sn85042588:00212470867:1886011501:0275/pct:5.648356355070136,40.56468512187052,14.23064567940893,3.058711076798647/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12742,7 +12742,7 @@ securing for a limited time to authors and
 inventors the exclusivo right lothcirrespei­  
 tivewti iugs aud discoveries, Ibis Gover
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_moonstone_ver01:data:sn85042460:00280769137:1886120701:0502/pct:44.79610468654899,8.414564220183486,12.030837898153784,2.021215596330275/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_moonstone_ver01:data:sn85042460:00280769137:1886120701:0502/pct:44.79610468654899,8.41934250764526,12.037600595117333,2.0355504587155964/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12939,13 +12939,13 @@ vision for either of the cases. and met of
 have anticipated the deciion of this  
 joint by laws passed at the Instance of Con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pug_ver01:data:sn83045462:00280654802:1891040401:0100/pct:0.9063941990771259,53.02139037433155,12.310481212920237,7.633689839572193/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pug_ver01:data:sn83045462:00280654802:1891040401:0100/pct:0.9146341463414634,53.02807486631016,12.318721160184575,7.640374331550802/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Scientific American (1845-1908)_](https://archive.org/details/sim_scientific-american_1891-04-18_64_16/page/n2/mode/1up?view=theater)
+## [From _Scientific American_](https://archive.org/details/sim_scientific-american_1891-04-18_64_16/page/n2/mode/1up?view=theater)
 
 #### 1891-04-18 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -13023,7 +13023,7 @@ The only restriction imposed on them is
 that they shall not exchange republican for  
 antirepublican constitution
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_boozer_ver01:data:sn85058130:175048510:1891053101:0618/pct:44.98069498069498,18.42647732478241,19.047619047619047,8.749427393495191/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_boozer_ver01:data:sn85058130:175048510:1891053101:0618/pct:30.001609528408178,12.288135593220339,12.715274424593595,5.829134218964727/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13043,7 +13043,7 @@ a preéxisting Government of the form to be
 guaranteed.&quot; The guarantee, in short, was  
 understood to express a corrective and not 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_fernandez_ver01:data:sn83030272:00175045065:1893010301:0041/pct:177.55725190839695,244.56273764258555,50.30534351145038,8.8212927756654/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_fernandez_ver01:data:sn83030272:00175045065:1893010301:0041/pct:44.397785836991794,61.14068441064639,12.57873640007635,2.20532319391635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13130,7 +13130,7 @@ the security of the entire Union may de­
 pend to be in any degree dependent on a  
 particular member of it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_havanese_ver01:data:sn83045462:00280654991:1895042301:0673/pct:1.2888707037643208,42.878949778659745,14.259410801963993,16.47076782170661/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_havanese_ver01:data:sn83045462:00280654991:1895042301:0673/pct:1.2939852700491,42.882765989925204,14.264525368248773,16.47840024423752/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13174,7 +13174,7 @@ evidence that whether the framers of the
 Constitution intended the people of the  
 District to participate in the affairs o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_havanese_ver01:data:sn83045462:00280654991:1895042501:0697/pct:43.27756500705503,42.70629054155981,13.82785728683733,12.339719414693015/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_havanese_ver01:data:sn83045462:00280654991:1895042501:0697/pct:43.282604313646445,42.71760446522854,13.832896593428744,12.339719414693015/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13451,7 +13451,7 @@ tions, the natural offspring of free gov­
 ernments, have usually wreaked their  
 alternate malignity on each other. I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_nuthatch_ver01:data:sn84036012:0021247728A:1899062101:1123/pct:52.66222961730449,115.46184738955823,37.5,18.87550200803213/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_nuthatch_ver01:data:sn84036012:0021247728A:1899062101:1123/pct:17.554076539101498,38.48728246318608,12.5,6.291834002677376/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

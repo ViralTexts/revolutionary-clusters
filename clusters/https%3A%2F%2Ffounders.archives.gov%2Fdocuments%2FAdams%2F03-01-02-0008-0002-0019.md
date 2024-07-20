@@ -177,7 +177,7 @@ ted calf, and kill it; and let us eat and be
 merry :  
 ‘For this my son was dead ; and js alive a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153139:1832011001:0214/pct:35.603663613655286,17.455038186745504,15.220649458784345,7.40330130574033/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153139:1832011001:0214/pct:35.614765473216764,17.45914428841258,15.20954759922287,7.411513509074485/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -370,7 +370,7 @@ nned against heaven and in thy sight,
 and am no more worthy to be called  
 thy son.&quot; But how affectionately, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293794:1865052101:0473/pct:219.6685082872928,223.15394242803504,37.29281767955801,25.114726741760535/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293794:1865052101:0473/pct:54.924713358198645,55.78848560700876,9.324492333195193,6.278681685440134/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -463,7 +463,7 @@ sight, and am no more worthy to tie called
 thy son.  
 The hoy doesn’t get through with all h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016184:1881042801:0068/pct:4.169101889733099,13.560743743883686,26.319890902006623,81.92366839088494/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016184:1881042801:0068/pct:4.168289832489287,13.558848196812972,26.319633813790418,81.91571149007548/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -582,7 +582,7 @@ VOL
 him, and put a ring on his hand and shoes  
 on his feet
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623914:1891022801:0071/pct:62.57344300822562,7.747386510095947,22.561692126909517,89.53171989116426/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623914:1891022801:0071/pct:62.57997127562345,7.756933505179245,22.574748661705183,89.53171989116426/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

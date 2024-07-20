@@ -85,7 +85,7 @@ al punilhment) be fubjeft to the upuraidings
 of all, who are now witneffej of the present  
 l&#x27;olemn ceremony
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793030901:0003/pct:48.326917382291974,65.6290531776913,19.573586023097423,27.941448953122105/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793030901:0003/pct:48.33432040272431,65.63368538076709,19.588392063962097,27.946081156197888/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -162,7 +162,7 @@ tional punishment, be subjected to the upbraid
 ing of all who are now witnosses to the present  
 solemn ceremon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044851:1885030501:0735/pct:14.069591527987898,102.78860569715143,51.059001512859304,28.00599700149925/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044851:1885030501:0735/pct:3.519394512771996,25.697151424287856,12.771996215704824,7.001499250374812/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -186,7 +186,7 @@ banishment, be subjected to the up
 braiding of all who are now witnesses  
 to the present solemn ceremony.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775290:1887122901:0132/pct:67.41591203104787,20.22443575841634,14.34346701164295,7.540032782751229/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775290:1887122901:0132/pct:50.58233581365254,15.168326818812256,10.757036557748302,5.661328962299836/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -218,7 +218,7 @@ incurring constitutional punishment, t&gt;e sub­
 ject to the upbraiding of all wh*&gt; are now  
 witnerara &lt;*f this solemn ceremony.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_freeport_ver01:data:sn82014248:00332895138:1889022601:0197/pct:23.86086248982913,51.903614457831324,9.580960130187144,7.839357429718875/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_freeport_ver01:data:sn82014248:00332895138:1889022601:0197/pct:23.856009762050032,51.89527786700931,9.584095993491967,7.842113716672021/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -250,7 +250,7 @@ incurring constitutional punishment, be sub­
 ject to the upbraiding of all who are aow  
 witnesses of this solemn ceremony.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ibo_ver01:data:sn91059394:00383347749:1889022701:0258/pct:17.76140261720239,68.3165411327399,10.621267945623174,8.461312726205614/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ibo_ver01:data:sn91059394:00383347749:1889022701:0258/pct:17.76563757252361,68.3165411327399,10.621267945623174,8.46783396915452/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -283,7 +283,7 @@ incurring constitutional punishment, be sub­
 ject to the upbraiding of all who HOW  
 witnesses of this solemn ceremony.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ibo_ver01:data:sn91059394:00383347749:1889022701:0259/pct:17.71443115296513,68.26277372262774,10.613387630440316,8.30170316301703/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ibo_ver01:data:sn91059394:00383347749:1889022701:0259/pct:17.72291507593111,68.26277372262774,10.613387630440316,8.308191403081914/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -334,7 +334,7 @@ Incurring constitutional punishment, be sub­
 ject to tho upbraiding of all who are now  
 witnoses of thi . solemn ceremony.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84038582:00212471574:1889030201:0876/pct:154.36664044059796,73.47906241769819,57.27773406766326,40.13695022386094/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84038582:00212471574:1889030201:0876/pct:38.60684769775679,18.369765604424547,14.325068870523417,10.034237555965236/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -366,7 +366,7 @@ incurring constitutional punishment bo sub­
 ject to tho upbraiding of all who aro now  
 witnesses of this solemn ceremon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_fisher_ver01:data:sn85058130:00206535775:1889030301:0028/pct:45.854922279792746,36.373433921595044,18.874907475943747,14.374242220126634/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_fisher_ver01:data:sn85058130:00206535775:1889030301:0028/pct:30.575606144734408,24.24895594773003,12.585600592263557,9.591809241546544/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -398,7 +398,7 @@ Incurring constitutional punishment, be sub­
 ject to the upbraiding . of all who are now  
 witnesses of this solemn ceremony. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_deckle_ver01:data:sn92053945:00212471641:1889030401:0214/pct:23.014383989993746,97.27932285368803,15.07191994996873,11.753325272067714/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_deckle_ver01:data:sn92053945:00212471641:1889030401:0214/pct:17.26618705035971,72.96251511487303,11.307475758523616,8.814993954050786/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -430,7 +430,7 @@ incurring constitutional punishment, lie sub­
 ject to the upbraiding of all who are now  
 witnesses of this solemn ceremony.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_calpet_ver02:data:sn86072173:00514150023:1889030601:0283/pct:31.692959736284436,17.507082152974505,12.267482929126443,9.386213408876298/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_calpet_ver02:data:sn86072173:00514150023:1889030601:0283/pct:31.7047327525312,17.51180358829084,12.267482929126443,9.390934844192634/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -462,7 +462,7 @@ incurring constitutional punishment, be sub­
 ject to the upbraiding of all who are now  
 witnesses of this solemn ceremony.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685324:1889030701:0081/pct:37.39925942060553,18.36055656382335,14.223480723153997,10.012099213551119/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685324:1889030701:0081/pct:37.391114982578394,18.357780130046876,14.225827526132404,10.014365643429608/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -505,7 +505,7 @@ incurring constitutional punishment, be sub­
 ject to the upbraiding of all who are now  
 witnesses of this solemn ceremony.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_fencing_ver02:data:sn83016589:00393340708:1889030801:0046/pct:35.12713340299547,20.863488894434738,12.887495646116335,9.508360369353632/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_fencing_ver02:data:sn83016589:00393340708:1889030801:0046/pct:35.13293858121445,20.867648282172865,12.893300824335308,9.508360369353632/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -539,7 +539,7 @@ incurring constitutional punishment, be sub­
 ject to the upbraiding of all who are now  
 witnesses of this solemn ceremony.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_kirby_ver02:data:sn85038102:00202197255:1889030801:0636/pct:50.525040387722136,24.171901770416905,18.3562197092084,13.4351798972016/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_kirby_ver02:data:sn85038102:00202197255:1889030801:0636/pct:37.91919191919192,18.132495716733295,13.777777777777779,10.079954311821815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -691,7 +691,7 @@ who are nov witness, s of the present
   
 solemn c -reiuony
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn92072978:00416156876:1893030901:0237/pct:14.551607445008461,49.405080930431986,15.05922165820643,17.901168399614107/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn92072978:00416156876:1893030901:0237/pct:10.918324164198053,37.05649051345267,11.299195937367752,13.431235930967949/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -767,7 +767,7 @@ ment), be subject to the upbraidings
 of all, who are now witnesses of the  
 present solemn ceremony
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_frankenbatch_ver01:data:sn92073232:00295879725:1893031601:0269/pct:67.67617938264415,55.477374742205505,14.269073966220152,13.465971127016862/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_frankenbatch_ver01:data:sn92073232:00295879725:1893031601:0269/pct:50.771919603845035,41.61106393303409,10.71948732886688,10.105544098022564/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -821,7 +821,7 @@ IshnienH, be subjected to the upraidiugs or
 all who are now witnesses of the present  
 solemn ceremony.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ike_ver01:data:sn84024441:00211102445:1897030301:0326/pct:28.812537673297168,86.72138520350798,17.917420132610005,10.41151337980661/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ike_ver01:data:sn84024441:00211102445:1897030301:0326/pct:19.21627731725697,57.814256802338654,11.951770911831199,6.948504609849337/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -850,7 +850,7 @@ ishment) be subjected to the upbraiding
 of all who ore row wltneswea of the pres­  
 ent solemn ceremony.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_elsie_ver01:data:sn96076817:00415669458:1897030601:0836/pct:31.792803970223325,44.91111111111111,21.029776674937967,10.011111111111111/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_elsie_ver01:data:sn96076817:00415669458:1897030601:0836/pct:21.21024049650892,29.944444444444443,14.026377036462375,6.677777777777778/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -879,7 +879,7 @@ ishment) be subjected to the upbraidings
 of all who arjB now witnesses of the pres­  
 ent solemn ceremony.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_honda_ver01:data:sn85025620:0021247938A:1897031101:0085/pct:21.320785331818918,31.71386992051942,14.019146519552166,6.705474084853912/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_honda_ver01:data:sn85025620:0021247938A:1897031101:0085/pct:21.320785331818918,31.71386992051942,14.040781004921845,6.705474084853912/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -908,7 +908,7 @@ ishment) be subjected to the upbruidings
 of all who are now witnesses of the pres­  
 ent solemn ceremony.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033255:00514152536:1897031101:0671/pct:65.34937782031997,52.11766006856132,9.70873786407767,5.108924029636182/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033255:00514152536:1897031101:0671/pct:65.35849400610785,52.12134616093479,9.713295956971603,5.105237937262708/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -73,7 +73,7 @@ tatives of Massachusetts by a single vote. Most of
 the acts of Congress, in the memorable session of  
 1794, were carried by the casting vote of the Vic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82015015:00415661289:1842081801:0332/pct:6.529158628876688,26.59138713605668,17.24291437898798,9.93025572899369/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82015015:00415661289:1842081801:0332/pct:6.534104961171291,26.59138713605668,17.23796804669338,9.933945902062806/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -110,7 +110,7 @@ of Massachusetts by a single vote. Most of
 the acts of Congress, in the memorable session of  
 1794, were carried by the casting vote of the V&#x27;ic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661290:1842081801:0166/pct:2.7427842449370115,28.38958972610524,17.557008451602616,9.898852142288897/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661290:1842081801:0166/pct:2.7427842449370115,28.397166344660377,17.557008451602616,9.898852142288897/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -156,7 +156,7 @@ t&amp;tires of Massachusetts by u single vote. Most of
 the acts of Congress, in the memorable session of  
 M 1794, were carried by the casting vote of the Vic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661290:1842081901:0170/pct:3.4722222222222223,28.492377188029362,17.960858585858585,9.779785431959345/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661290:1842081901:0170/pct:3.477483164983165,28.49990589121024,17.96611952861953,9.776021080368906/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -202,7 +202,7 @@ gle rote. Most of the acts of Congress, in I
 the memorable session of 1791, were carried  
 Ky the casting vote of the Vice President 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215713:1842081901:0148/pct:6.662747403488145,51.26351396166346,15.098961395257692,15.235126351396167/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215713:1842081901:0148/pct:6.662094640932693,51.260114073484544,15.10074785278077,15.23632665693947/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -273,7 +273,7 @@ tatives of Massachusetts by a single vote. Most of (
 the acts of Congress, in the memorable session of (  
 1794, were carried by the casting vote of the Vic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82015015:00415661289:1842082001:0338/pct:5.164670658682635,26.645423579826392,17.350299401197606,9.878035380727393/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82015015:00415661289:1842082001:0338/pct:5.169660678642715,26.64908618100575,17.355289421157686,9.88169798190675/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -318,7 +318,7 @@ Massachusetts by a single vole. Mo&gt;t of the acts ol
 Congress, in the memorable session of 17S-I, were car­  
 ried by the casting vote of the Vice President. Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664266:1842082301:0213/pct:2.3078098731468746,85.94495785518431,16.506189821182943,9.69838529501371/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664266:1842082301:0213/pct:2.317998879209333,85.95172810669916,16.511284324214174,9.69838529501371/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -409,7 +409,7 @@ questions about men and measures from 1774 10 1778,
 were decided by the vote of a single Siate, and that  
 ofien by the vote of one individual. The Declaratio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015209:1842083001:0341/pct:50.26493965263468,34.325252315055664,14.792463938769503,4.6613255644573925/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015209:1842083001:0341/pct:50.27475223236189,34.32872056324351,14.792463938769503,4.668262060833073/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -481,7 +481,7 @@ Massachusetts by a single vote. Most of the acts
 of Congress in the memorable session of 1794,  
 were carried by the casting vote of the Vice Presi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197978:1842083101:0354/pct:6.629526462395543,90.60478838080108,20.30640668523677,17.417451492113923/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197978:1842083101:0354/pct:4.972837442540744,67.95642800408487,15.238891210474996,13.071598774537614/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -503,7 +503,7 @@ the great critical questions about mon and n:ea
 sure.-, from 1771 to 1776, were dec: led by tin  
 vote of a single, and lliaL^d&#x27;um Uy ?lm e?&lt;&lt;M
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn85042796:00295863092:1842083101:0385/pct:22.363455809334656,45.93689632968448,18.768619662363456,4.958145524790727/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn85042796:00295863092:1842083101:0385/pct:22.37669645812645,45.94548186306074,18.76199933796756,4.953852758102597/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -544,7 +544,7 @@ vote. Mest of the acts of Congress, in
 the memorable session of 1794, were car  
 ried by the casting vote of the Vice Pre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156347:1842090101:1228/pct:96.85781618224667,150.33413525795243,56.873527101335426,64.36781609195403/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156347:1842090101:1228/pct:24.223968565815323,37.583533814488106,14.223968565815325,16.091954022988507/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

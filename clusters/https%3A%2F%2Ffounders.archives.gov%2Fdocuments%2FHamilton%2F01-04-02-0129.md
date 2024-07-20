@@ -61,7 +61,7 @@ fourths of tho several states, or hy conventions in
 three-fourths thereof, as one or the other mode of  
 ratification may be proposed by the congress.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1829010601:0317/pct:1.7283548018914072,18.92865721835215,15.538887983042557,3.435022820081672/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1829010601:0317/pct:1.7280730355396152,18.926384051879428,15.541788935985219,3.4386133461430686/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -133,7 +133,7 @@ fourths of the several States, or by Conventions in
 three-fourths thereof, as one or the other mode of  
 ratification may be proposed by Congress; but s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184595:1841022201:0168/pct:52.82083075015499,26.24490719782707,38.422194668319904,7.209144409234948/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184595:1841022201:0168/pct:17.604215093754842,8.747312436347176,12.805413502763573,2.402776206103127/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -153,7 +153,7 @@ of the several States, or by Conventions in three-fourths
 thereof, as one or the other mode of ratification may  
 be proposed by Congress ; but so important was th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1841022501:0190/pct:34.64792988818374,46.888888888888886,15.835599879117558,2.404040404040404/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1841022501:0190/pct:34.64792988818374,46.89562289562289,15.840636647526948,2.404040404040404/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -210,7 +210,7 @@ of the several States, or by Conventions in
 three-fourths thereof, as one or the other  
 mode of ratification may be proposed by th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_eiffel_ver02:data:sn87065471:00295877558:1860111401:0100/pct:23.050036791758647,63.34778352677947,16.92420897718911,10.19437840861418/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_eiffel_ver02:data:sn87065471:00295877558:1860111401:0100/pct:17.29849098270151,47.517829674171445,12.697828487302171,7.649279821004056/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -237,7 +237,7 @@ by conventions in three fourths thereof, as one
 or the other mode of ratification may be pro­  
 posed by the Congress
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347282:1860120701:0580/pct:35.93652769135034,18.535110314704895,12.69446172993155,4.9837607794825844/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347282:1860120701:0580/pct:35.94171333748185,18.535110314704895,12.689276083800042,4.994960241908388/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -427,7 +427,7 @@ three-fourths thereof, as one or the other mode of
 r. t;h&lt; a?io:i may Ut proposed by tin* Legislature of  
 the failed Slates.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624517:1865012101:0317/pct:89.81269113149847,67.65127616862632,16.07415902140673,7.398910238026957/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624517:1865012101:0317/pct:69.60944057670469,52.429989628093054,12.452476176368933,5.741591346866202/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -501,7 +501,7 @@ thereof as one or the other mode of ratification
 may be proposed by Congress.  
 Amendments incorporated into th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_quartz_ver02:data:sn84022643:00416152615:1869112001:0201/pct:25.67398119122257,20.861497680583167,31.22257053291536,104.75811795891319/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_quartz_ver02:data:sn84022643:00416152615:1869112001:0201/pct:19.26936343681405,15.65275016567263,23.424270931326436,78.56858846918489/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -520,7 +520,7 @@ by Conventions in three-fourths there­
 of, as one or the other mode of ratifi­  
 cation may be proposed by the Con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn84009409:00296028757:1880090901:0701/pct:48.3687106918239,16.085753803596127,14.48506289308176,3.706777316735823/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn84009409:00296028757:1880090901:0701/pct:48.37526205450734,16.094974642692485,14.48506289308176,3.7021668971876442/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -574,7 +574,7 @@ as one or the other mode of ratification
 may be proposed by the legislature of the  
 United States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624591:1887090301:0521/pct:112.73764258555133,107.36652669466106,12.896070975918885,9.202159568086383/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624591:1887090301:0521/pct:87.37824343128428,83.21400898806756,9.99427027911926,7.131566713156671/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

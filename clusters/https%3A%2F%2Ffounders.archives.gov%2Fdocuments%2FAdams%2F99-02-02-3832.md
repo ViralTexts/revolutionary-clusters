@@ -592,7 +592,7 @@ loss, if the {faid impediments had not exifled,
 nor to {uch lofles or damages as have been oc­  
 casioned by the manifelt delay
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795071401:0469/pct:47.85410868609931,60.95409901783925,19.422879742200088,21.888153938665063/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795071401:0469/pct:47.863873834285435,60.95409901783925,19.422879742200088,21.888153938665063/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -624,7 +624,7 @@ tisfattion and friendfhip ; and that the {aid aru­
 cles, after having been duly ranhed, shall be  
 added to, and make a part of this Treaty. I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795071401:0471/pct:7.185899367279301,5.635780184516647,40.56944862910515,88.07661452065784/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795071401:0471/pct:7.185899367279301,5.639122877390025,40.56944862910515,88.07327182778447/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -647,7 +647,7 @@ tend to promote mum.I latisfact ion and fricndfhip :
 and that the laid articles, after having been truL  
 ratified, Ihali be added to, and make a parr of thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_zarley_ver01:data:sn84038410:01000424529:1795071801:0054/pct:41.84342460470498,25.7568359375,25.723100655611262,6.7138671875/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_zarley_ver01:data:sn84038410:01000424529:1795071801:0054/pct:41.82729375481881,25.750549182328534,25.722821896684657,6.71833048572126/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1026,7 +1026,7 @@ plainants.&quot;
 • The other part of the charge, eontainad in tkis  
 reason, is that the mode of indemnification bears n
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795082001:0002/pct:29.118873826903023,29.81552268572378,20.855057351407716,5.417982383247465/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795082001:0002/pct:29.12539103232534,29.81552268572378,20.87460896767466,5.417982383247465/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1325,7 +1325,7 @@ Exira&lt;st from the said article,
 d it owing to thjan by citizens or inhabitants of the  
 it « United States; and that by the operation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797060201:0002/pct:27.806997484564373,39.440993788819874,17.17356505831237,9.479443951493641/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797060201:0002/pct:27.81843128287217,39.440993788819874,17.17928195746627,9.483141082519964/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1354,7 +1354,7 @@ n&quot; &quot; complete compensation for the fame to the (aid
 ■I aforefaid, and is not to extend to losses oceafion­  
 « ed by such insolvency of the debtors Or othe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797060201:0002/pct:27.806997484564373,50.88731144631766,16.716213126000458,8.118899733806566/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797060201:0002/pct:27.81843128287217,50.89840283939663,16.721930025154357,8.118899733806566/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1401,7 +1401,7 @@ _ &quot; obtain and actually have and receive full and
 &quot; creditors: but it is dil&#x27;tindly understood, that  
 &quot; this provision is to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797060501:0001/pct:39.24168411258432,17.813231850117095,16.841125843219352,16.74473067915691/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797060501:0001/pct:39.25913003023959,17.824209601873537,16.841125843219352,16.75204918032787/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1431,7 +1431,7 @@ u fide contracted, before the peace, still remain
 44 owing to them by Citizens or iahabitanta of the  
 a United States; and that by the operation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797060601:0003/pct:56.5767878077374,68.60602480803308,15.8968347010551,7.914943886591849/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797060601:0003/pct:56.5767878077374,68.61340815121086,15.8968347010551,7.918635558180744/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1465,7 +1465,7 @@ u d\ice such loss, if the said impediments had not
 &quot; been occasioned by the mar.iieft delay, ornegli  
 44 gcncc, or wilful omiflion of the claimint.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797060601:0003/pct:56.506447831184055,78.52923803898405,15.8968347010551,10.425280567040756/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797060601:0003/pct:56.524032825322394,78.53662138216184,15.890973036342322,10.428972238629651/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1485,7 +1485,7 @@ u d\ice such loss, if the said impediments had not
 11 owing to them by citizen# or i»habitar.ts .of the  
 •• United States; and that by the operation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797060701:0004/pct:11.613805970149254,17.495585638610947,15.74160447761194,3.060623896409653/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797060701:0004/pct:11.625466417910447,17.499264273101826,15.753264925373134,3.060623896409653/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1514,7 +1514,7 @@ rse of judicial
 « aforcfaid, and is not to extend to losses occalion­  
 &quot; ed by such infolvcnty
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797060701:0004/pct:11.66044776119403,22.454384932313125,15.788246268656716,8.01942319011183/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797060701:0004/pct:11.677938432835822,22.454384932313125,15.788246268656716,8.030459093584462/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1553,7 +1553,7 @@ u ever rcufon be a&amp;uilly obtained, had and recei­
 &quot; creditors : but it is diftin&amp;ly underfrood, that  
 &quot; this provision is to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797060801:0004/pct:11.556169429097606,16.68142899320933,15.83793738489871,12.326542663123709/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797060801:0004/pct:11.556169429097606,16.685119574844997,15.855202578268877,12.344995571302038/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1602,7 +1602,7 @@ complete compensation for the lame to the said
 creditors: but i,is diftindliy understood, that -  
 this provision is to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797060901:0001/pct:72.62569832402235,32.44906932434413,16.573556797020483,18.26176168840686/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797060901:0001/pct:72.63733705772812,32.456397479114756,16.57937616387337,18.265425765792173/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1654,7 +1654,7 @@ II delayed, but also the value and security thereof
 &quot; have been occasioned by the lawful impediments  
 &quot; aforefaid, and is
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797061001:0001/pct:72.6547842401501,32.9108327192336,16.04127579737336,18.703021370670598/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797061001:0001/pct:72.6547842401501,32.918201915991155,16.064727954971858,18.71039056742815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1688,7 +1688,7 @@ Exjrad from the said article,
 44 United States; and that by the operation of va­  
 &quot; riot®
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797061201:0001/pct:72.62765213336442,32.41603787542536,15.971088831895546,9.77955318834147/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797061201:0001/pct:72.64513872697599,32.41603787542536,15.971088831895546,9.801745820387632/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1722,7 +1722,7 @@ c&lt; have been occasioned by the lawful impediments
 &quot; been oceafioned by the manifeft delay, ornegli­  
 &#x27;• or wilful omifiion of the claimant.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797061201:0001/pct:72.74422942410818,43.823050747151946,15.994404290044299,10.252996005326231/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797061201:0001/pct:72.75588715318256,43.82674951915964,16.000233154581487,10.256694777333925/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1764,7 +1764,7 @@ this proviuon is to extend to fiicfi losses only as
 aforc said, and is not to extend to losses occasion­  
 &quot; ed by such infolvcncy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797061301:0001/pct:72.35621521335807,38.12316715542522,15.793135435992578,13.739002932551319/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797061301:0001/pct:72.36781076066791,38.1341642228739,15.804730983302411,13.7316715542522/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1822,7 +1822,7 @@ exifced ; nor to such It-nes or damages rs have
 &quot; boeo occafioncd by the tnanifeft delay, orncdi­  
 &#x27;• teucc, or wilful omiflibn of the claimant.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797061401:0001/pct:72.23632587122086,32.393538913362704,15.901223171013156,21.997063142437593/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797061401:0001/pct:72.23632587122086,32.39720998531571,15.918532194784214,21.993392070484582/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1860,7 +1860,7 @@ of justice, the United States will make fall and
 - creditors: but it is diftin&amp;ly understood, that  
 &quot; this provision is to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797061501:0001/pct:72.67052023121387,39.16691198115985,15.93063583815029,11.789814542243155/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797061501:0001/pct:72.67052023121387,39.16691198115985,15.947976878612717,11.789814542243155/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1908,7 +1908,7 @@ ExirsS from the said article,
 &quot; duce such loss, if the said impediments had not  
 &quot; existed ; nor to such losses or damages ?s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797061601:0001/pct:76.77496991576415,35.64911157355531,16.967509025270758,18.680966864094767/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797061601:0001/pct:76.78098676293622,35.65711541539939,16.967509025270758,18.680966864094767/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1966,7 +1966,7 @@ u duce such loss, if the said impediments had not
 •• been occasioned by the manifeft delay, or neglii  
 &#x27;• j,encc, or wilful omiflion of the claimant.*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797061701:0001/pct:72.3552662171588,31.73925838728664,16.0427807486631,21.659799882283696/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797061701:0001/pct:72.36107881887934,31.75029429075927,16.060218553824694,21.656121247792818/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2005,7 +2005,7 @@ u have been in several instances impaired and less­
   
 &quot; this provision is to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797061901:0004/pct:75.6454816285998,14.220255964607363,17.27904667328699,12.513825248854479/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797061901:0004/pct:75.65168818272096,14.220255964607363,17.27284011916584,12.52172539105704/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2031,7 +2031,7 @@ the loffesand damages fofuftatued.
 The general agent thinki it his duty farther to sug­  
 gest that the ftvcral claims ought to be accompanie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797061901:0004/pct:76.3157894736842,56.64401959235266,17.15491559086395,5.182493284879127/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797061901:0004/pct:76.32820258192652,56.6558698056565,17.15491559086395,5.190393427081688/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2077,7 +2077,7 @@ Ex&gt;ra&lt;sl from the said artirie,
 &quot; bee» occasioned by the man licit delay, oinegli­  
 &#x27;• fccucc, or wilful oiniflion of the cLimant.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797062001:0004/pct:78.36270871985158,16.744868035190617,15.653988868274583,15.733137829912023/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797062001:0004/pct:78.36850649350649,16.748533724340177,15.665584415584416,15.740469208211143/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2124,7 +2124,7 @@ u aforefaid, and is not to extend to lodes occasion­
 M been occalioned by the manileft delay, ornegli­  
 &#x27;• t,encc, or wilful omiflion of the claimant.*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797062101:0001/pct:72.91280148423006,23.592375366568916,16.117810760667904,16.24633431085044/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797062101:0001/pct:72.91280148423006,23.603372434017594,16.135204081632654,16.24266862170088/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2148,7 +2148,7 @@ the ictfcs ar.d damages so fuftamed.
 The general agent thinks it his duty further to fug­  
 gelt that the several claims ought to be accompanie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797062201:0004/pct:9.21421889616464,26.93443591258122,16.27689429373246,4.710572947430596/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797062201:0004/pct:9.225912067352667,26.945510927347904,16.271047708138447,4.710572947430596/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2206,7 +2206,7 @@ ExtraS from the said article,
 been occasioned by the manileft delay, ornegli­  
 &#x27;• t&gt;encc, or wilful omifiion of the claimant.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797062201:0004/pct:75.95884003741814,10.7944477259303,16.86155285313377,22.341996455995275/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797062201:0004/pct:75.95884003741814,10.7944477259303,16.87909260991581,22.360454813939754/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2256,7 +2256,7 @@ Extrad from the said article,
 &quot; ed by such insolvency of the debtors or pthcr  
 &quot; cairfes,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797062301:0004/pct:77.32410611303345,12.015276145710928,17.185697808535178,17.92009400705053/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797062301:0004/pct:77.32410611303345,12.02262044653349,17.191464821222606,17.92009400705053/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2303,7 +2303,7 @@ of justice, the United States will make full and
 &quot; been occasioned by the manileft delay, ornegli-  
 or wilful ornifiion of the claimant.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797062401:0002/pct:11.627906976744185,27.258040828315465,16.46511627906977,16.1697752974005/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797062401:0002/pct:11.645348837209303,27.26905566162432,16.453488372093023,16.166103686297546/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2381,7 +2381,7 @@ u ed by such insolvency of the &#x27; debtors or other
 causes, as would equally have operated to pro-   
 duce such loss, if the feid
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797062801:0001/pct:42.00542005420054,34.197471595455276,18.674550381867455,16.53064490318451/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797062801:0001/pct:42.01773835920177,34.209473515762525,18.68686868686869,16.538646183389343/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2547,7 +2547,7 @@ gents a» they may specially authorize, in prosecuting
 their claims before Ihe CemmilConers for carrying in­  
 to effeft the sixth article ot the Treaty of Amity, Com- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797070501:0001/pct:39.145052833813644,22.043418855321086,18.13160422670509,22.969485349931684/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797070501:0001/pct:39.145052833813644,22.054804918779414,18.155619596541786,22.969485349931684/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2663,7 +2663,7 @@ complete compensation for the fame to the (aid
 &quot; been occasioned by the manifeft delay, ornegli  
 *• tencc, Of wilful omifhon of the claimant.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797070601:0001/pct:41.21933446684479,16.59355619422175,17.634199659946564,21.73649977310543/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797070601:0001/pct:41.225406849647804,16.597337770382694,17.646344425552588,21.74406292542732/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2687,7 +2687,7 @@ the lodes and damages so foAaiucd.
 The general agent thinks it his*duty further to fug- &lt; j  
 geft that the several claims ought to be accompanied 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797070601:0001/pct:41.340782122905026,62.30524882771139,17.609910128734516,4.931175313870821/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797070601:0001/pct:41.340782122905026,62.31659355619422,17.615982511537528,4.931175313870821/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2742,7 +2742,7 @@ j&quot; owing to them by citizens or inhabitants of the
 &quot; beep occasioned by tlie nianifeft delay, ornegli­  
 &#x27;■ beuee, or wilful omiifion of the claimant.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797070701:0001/pct:41.26249086034609,17.30072463768116,17.304411406288082,21.195652173913043/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797070701:0001/pct:41.28077016816963,17.312047101449274,17.298318303680233,21.199426328502415/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2792,7 +2792,7 @@ nitcd btatcs j and that by the operation of va­
 &quot; creditors : but it is diftinaly understood, that  
 &quot; this provision is to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797070801:0001/pct:41.21933446684479,24.306713138354297,17.099829973281516,19.093802091225943/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797070801:0001/pct:41.225406849647804,24.306713138354297,17.099829973281516,19.09759054402182/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2848,7 +2848,7 @@ u greed that in all such cases where full compenfa­
 •• been occasioned by the maaileft delay, or ncgli-  
 or wilful omilfion of the claimant?.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797071001:0001/pct:41.204819277108435,25.359793970610514,16.93975903614458,22.102711710346917/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797071001:0001/pct:41.21084337349398,25.371155885471897,16.957831325301203,22.114073625208302/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2890,7 +2890,7 @@ I &quot; this provjfiyn is to.ejtwnd to such laiTesonly as 1
 &quot; .itori l.iid, aad is not to extend to losses occasion- 1;  
 &quot; ed by such insolvency of the debtors or other&#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797071101:0001/pct:41.14520415559314,30.535390199637025,17.854554240154627,14.57955232909861/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797071101:0001/pct:41.15124426189901,30.5467332123412,17.8605943464605,14.575771324863885/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2936,7 +2936,7 @@ Ted by the said creditors in the ordinary courfa t!
 &#x27; &quot; been occafloned by the ounifeft delay, or ncgli- f&lt;  
 &#x27; fccil&#x27;-c, or wilful omillion of the claimant.*&#x27; t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797071201:0001/pct:40.862275449101794,31.272727272727273,18.275449101796408,16.62121212121212/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797071201:0001/pct:40.880239520958085,31.28030303030303,18.275449101796408,16.625/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3020,7 +3020,7 @@ United State* ; and that by the operatidp of va­
 •• been occasioned by the manifeft delay, or negli- (  
 &#x27;• fcciicc, or wilful omiflion of the claimant.*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797071301:0001/pct:40.21556886227545,31.422984356197354,17.34131736526946,16.87725631768953/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797071301:0001/pct:40.22754491017964,31.426744885679902,17.34131736526946,16.88101684717208/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3066,7 +3066,7 @@ c &quot; &quot;&quot;ted ; nor to furh losses or damages as have r,.
 been occasioned by the manifeft delay, .or ncgli- .1,  
 * or wilful omi/llon of tbe claimant.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797071401:0001/pct:40.24715289556578,31.914251207729468,18.924157984007753,16.666666666666668/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797071401:0001/pct:40.265325902592686,31.91802536231884,18.91810031499879,16.67044082125604/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3125,7 +3125,7 @@ exilted j ®or to fofh lodes or datnsges ss have r
 or wilful omillion of the claimaot;&quot;  
 Bj order the Board, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797071501:0001/pct:40.024009603841534,25.675675675675677,18.319327731092436,23.22822822822823/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797071501:0001/pct:40.04201680672269,25.67942942942943,18.319327731092436,23.23198198198198/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3222,7 +3222,7 @@ heen occasioned by the manileft delay, ornegii­
 i,iucc, or wilXul omiilion of the claimant.&quot;  
 By order of ibs Board
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797071701:0001/pct:41.05642256902761,40.41364734299517,17.358943577430974,17.678140096618357/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797071701:0001/pct:41.062424969987994,40.421195652173914,17.38295318127251,17.670591787439612/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3273,7 +3273,7 @@ Extradl from the said article,
 &quot; aforefaid, and is not to extend to losses occasion­  
 &quot; ed by such infelvency
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797071801:0001/pct:40.80641243623998,36.7992766726944,16.784066067524897,18.9873417721519/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797071801:0001/pct:40.82462958464902,36.806811332127786,16.777993684721885,18.991109101868595/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3320,7 +3320,7 @@ been occafioncd by the manilgft delay, crnegli- re
 &#x27;• fccucc, or wilful omifiion of the claimant.&quot; pi  
 order of the Boardy 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797071901:0001/pct:39.176498916445944,42.23137973137973,18.372261016132917,17.17032967032967/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797071901:0001/pct:39.188538405971585,42.23519536019536,18.378280760895738,17.18177655677656/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3530,7 +3530,7 @@ the losses and damages so fullaiued.
 The general ageni thinks it his duty further to sug­  
 gest that the leveral claims ought to be accompanie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797082901:0004/pct:58.19889236696364,51.721014492753625,17.144233084517218,8.318236714975846/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797082901:0004/pct:58.216951601252106,51.72856280193237,17.144233084517218,8.32578502415459/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3550,7 +3550,7 @@ the losses and damages so fuftaiucd.
 The general agent thinks it his duty further to fug­  
 ged that the fcveral claims ought to be accompanie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797090701:0004/pct:59.842894548916924,56.14754098360656,16.472268507498214,2.9751062537947783/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797090701:0004/pct:59.85479647702928,56.1513357619915,16.478219471554393,2.99408014571949/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3570,7 +3570,7 @@ the lofles and dimoges so fuftaiued.
 The general agent thinks it his duty further to fug­  
 £efl that the feveial claims ought to be accompanie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797091501:0004/pct:59.60650959436483,57.54688445251059,16.832645129948993,2.9491833030852996/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797091501:0004/pct:59.61258197716784,57.55444646098004,16.838717512752005,2.9643073200241985/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3590,7 +3590,7 @@ the losses and damages (o fultaiued.
 The general agent thinks it his duty further to fpg»  
 gefl that the f feral claims ought 10 be accompanie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797091801:0004/pct:59.961913830040466,57.96903460837887,16.448464651273508,2.94474802671524/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797091801:0004/pct:59.96786479409664,57.9804189435337,16.448464651273508,2.956132361870067/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3611,7 +3611,7 @@ the ordinary course of justice, the U­
 nited States will make full and  
 complete compensation ; but thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797112201:0397/pct:24.64767156862745,10.774079180618475,15.517769607843137,4.697656096119756/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797112201:0397/pct:24.65277777777778,10.777361959162235,15.51266339869281,4.700938874663515/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3665,7 +3665,7 @@ be added to and make a part of that
 arisen with refpe&amp; to the execution of  
 {o much of the fifth article of the sai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798082101:0556/pct:41.39331458919088,22.642619094295235,16.9009684473602,9.380513624779455/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798082101:0556/pct:41.39852129542851,22.645886427497878,16.9009684473602,9.383780957982095/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4589,7 +4589,7 @@ by the unanimous voice of the other four;
 and if they mould not agree in fuch eh ice,  
 then the commiflioners named by the tw
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800112101:0004/pct:7.005899705014749,10.447087159415927,22.22222222222222,41.246424808068646/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800112101:0004/pct:7.005899705014749,10.452104972652918,22.22222222222222,41.251442621305635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4738,7 +4738,7 @@ tion cannot, for whatever reason, be now
 ‘the said merchants and others, in the  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152743:1835030501:1039/pct:81.00309172105806,33.64752573483815,15.063552043971145,5.5190375790648645/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152743:1835030501:1039/pct:81.01454253979159,33.651659845384266,15.063552043971145,5.527305800157096/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4814,7 +4814,7 @@ TJoited States assumed to&#x27;make full and com­
 plete compensation for the same to the said  
 creditors.** For which purpose commission
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215683:1840090101:0040/pct:35.84544328038752,32.53236183241609,15.016334347189366,2.4881792109138825/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215683:1840090101:0040/pct:35.84140572200946,32.52984033483181,15.018397536982803,2.4905699374773937/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4833,7 +4833,7 @@ found difficulty in collecting them, the United
 States assumed to &quot;make full and complete com­  
 pensation for the same to the said creditors.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016475:00296026402:1840090301:0462/pct:33.31400966183575,57.87676106446563,14.222222222222221,2.4619325458944075/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016475:00296026402:1840090301:0462/pct:33.32045088566828,57.8862482804421,14.215780998389693,2.466676153882643/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4878,7 +4878,7 @@ same to the said creditors.” For which purpos
 full and complete compensation for the same to the said  
  creditors.&quot; For which purpose commissioners were t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186427:1840091901:0392/pct:45.26663910706904,181.57980989839396,40.69174590050985,4.337375723806402/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186427:1840091901:0392/pct:15.086800771562414,60.51999126065108,13.56204647745017,1.44563396693613/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4896,7 +4896,7 @@ collecting them, the United States assumed to &quot;make
 fill and complete compensation for the same to the said  
 creditors.&quot; For which curpose commis-ioners were t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186427:1840092201:0396/pct:52.32843137254902,181.15057746785791,39.55610021786492,5.371540640662453/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186427:1840092201:0396/pct:17.440435670524167,60.376947379888875,13.183571590651237,1.790318480589752/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

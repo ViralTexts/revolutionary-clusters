@@ -895,7 +895,7 @@ ready have been such if we had con
 tinued the Saxon spelling and writing  
 used by odr forefathers.&quot; We s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_gary_ver01:data:sn84023881:00202191368:1855081701:0434/pct:183.93203883495147,226.57787496272735,38.883495145631066,14.113905178411688/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_gary_ver01:data:sn84023881:00202191368:1855081701:0434/pct:45.99417334304443,56.64446874068184,9.723233794610342,3.528476294602922/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -958,7 +958,7 @@ have been such if we had continned
 the Saxon spelling and writing used by  
 our forefathers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_gary_ver01:data:sn84023881:0020219137A:1856041101:0081/pct:340.9178743961353,273.01397205588825,41.35265700483092,17.964071856287426/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_gary_ver01:data:sn84023881:0020219137A:1856041101:0081/pct:85.23976325643194,68.25349301397206,10.33941297258123,4.491017964071856/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -978,7 +978,7 @@ using it.&quot; He continues: &quot;It would have been
 such if we had continued the Saxon spelling and  
 writing used by our forefathers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn86092535:00202190613:1858021801:0162/pct:143.06346623270952,272.013256006628,63.6899918633035,14.150787075393538/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn86092535:00202190613:1858021801:0162/pct:35.76586655817738,68.003314001657,15.922497965825874,3.5376967688483845/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1131,7 +1131,7 @@ most probably in error, as he may he in­
 clined to give to the Latin what belongs  
 to the French
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn86081096:00296028666:1859022401:0315/pct:7.560082763011301,15.542781339818704,15.088333598599394,15.84125580367013/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn86081096:00296028666:1859022401:0315/pct:7.570693405485702,15.546466209742796,15.088333598599394,15.84125580367013/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1152,7 +1152,7 @@ gists will find them. Besides, our best
 etymologists contend that the sound* of  
 words are a better index to their origi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85033123:00514151210:1871020201:0520/pct:18.65154379332073,83.78910776361529,14.760554505356017,5.156431054461182/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85033123:00514151210:1871020201:0520/pct:18.65679479101029,83.79297025878718,14.755303507666456,5.164156044804944/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

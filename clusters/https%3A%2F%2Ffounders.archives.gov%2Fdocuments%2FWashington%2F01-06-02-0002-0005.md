@@ -333,7 +333,7 @@ propriating the fame.
 AND be it further enacted, That the supervisor of the reve­  
 nue for the diftrift wherein any houfe,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791032301:0001/pct:6.9393939393939394,12.076190476190476,78.42424242424242,16.8/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791032301:0001/pct:6.946969696969697,12.08095238095238,78.45454545454545,16.804761904761904/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -768,7 +768,7 @@ they readily waived their objections and ag&#x27;d
 to convey to the utmost extent of what was re­  
 quired hand of the master was a gain at th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:00175042908:1896112901:0397/pct:181.81148748159058,240.170161045275,48.45360824742268,27.77271346095412/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:00175042908:1896112901:0397/pct:45.452871870397644,60.04254026131875,12.11340206185567,6.94317836523853/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -830,7 +830,7 @@ with much pleasure that a general approba­
 tion of the measure seemed to pervade the  
 whole.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:00175042908:1896112901:0397/pct:181.51693667157585,295.29018535399575,48.45360824742268,69.03676694013977/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:00175042908:1896112901:0397/pct:45.37923416789396,73.82254633849894,12.11340206185567,17.259191735034943/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

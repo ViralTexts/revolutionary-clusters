@@ -149,7 +149,7 @@ Miidififiis irh-‘rli irio&#x27;ld h.udir me frmn pursu­
 ing the measures which I should them Jdr the  
 imhue goad.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215816:1848091501:0168/pct:58.393881453154876,67.2177080414682,12.896749521988527,9.071168394508266/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215816:1848091501:0168/pct:58.38829939776312,67.21299992995728,12.898703119523308,9.072867782680769/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -194,7 +194,7 @@ bo lx*: and still more certainly- xva? neither lie nor
 anv other person ever authorized bx me to sax  
 xv hat I would or would not do
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215816:1848091501:0168/pct:58.52772466539197,76.26786214625946,13.011472275334608,14.128607453068087/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215816:1848091501:0168/pct:58.52212981550521,76.26252013728374,13.013414906159385,14.12995260442203/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -220,7 +220,7 @@ capitulation, nor with my hancs thed by any condl
 which would hinder me from purauing the meas,  
 which I should deem for the public good.&quot; An
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271742988:1848091701:0334/pct:243.4768374529383,97.3077800593201,49.82812244229825,14.30527036276523/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271742988:1848091701:0334/pct:81.1589458176461,32.435926686440034,16.60937414743275,4.7684234542550765/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -299,7 +299,7 @@ reader of the Gazette and every voter
   
 in the county, to the letter of the 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn87070038:00296028058:1848102001:0287/pct:129.80988593155894,310.1166781056966,103.11787072243347,77.19972546328071/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn87070038:00296028058:1848102001:0287/pct:32.46481551920883,77.52916952642416,25.789273488018257,19.29993136582018/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -339,7 +339,7 @@ time serving candidate of the spurious De
 mocracy! JEFFErSON REpUrLICAN.  
 For the Vermont Watchman and Journal.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1856081501:0132/pct:209.25349922239502,210.58840878926412,44.556765163297044,46.36484294351865/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1856081501:0132/pct:52.33372228704784,52.64710219731603,11.143523920653442,11.591210735879663/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -522,7 +522,7 @@ in a letter to Jonn Wanen, written Jan, as
 1ee1, Manrson said very truly of this direct  
 contradiction, &quot;that there has been grea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_dante_ver01:data:sn83030272:00175044863:1885062801:0310/pct:123.30475448168356,293.7921520539546,51.51987529228371,65.35867565910485/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_dante_ver01:data:sn83030272:00175044863:1885062801:0310/pct:30.83820662768031,73.44803801348866,12.884990253411306,16.33966891477621/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -585,7 +585,7 @@ a character, with the public of their own, and not
 merely a secondary one through the Executive.&quot;  
 ise and pregnant words! What can be mor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ike_ver01:data:sn85042682:00211103383:1886011001:0174/pct:160.22646850672328,66.19123085050185,43.453644727530076,9.720021130480719/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ike_ver01:data:sn85042682:00211103383:1886011001:0174/pct:40.07079646017699,16.547807712625463,10.867256637168142,2.4300052826201797/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -724,7 +724,7 @@ will not be able to defend itself.
 places and promotions in the army and  
 navy, and make it. as in Europe, a larg
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_earnhardt_ver01:data:sn85042104:00332891923:1894120401:0214/pct:6.003382187147689,28.702490170380077,11.034385569334837,21.39580602883355/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_earnhardt_ver01:data:sn85042104:00332891923:1894120401:0214/pct:6.012777151446825,28.706130770350953,11.029688087185269,21.39580602883355/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

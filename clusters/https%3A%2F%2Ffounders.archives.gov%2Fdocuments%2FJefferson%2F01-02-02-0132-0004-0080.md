@@ -309,7 +309,7 @@ manuring the said lands.&quot; The balance of the
 money was &quot;placed out at interest.&quot; This estae  
 is referred to in the following extracts aom th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202191046:1859021001:0135/pct:166.5098777046096,85.74989163415691,37.20602069614299,9.731252709146077/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202191046:1859021001:0135/pct:55.5032925682032,28.583297211385638,12.40200689871433,3.243750903048692/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -326,7 +326,7 @@ of entertainments be given during the coming
 winter, the preceeds thereof to be expended  
 in purchasing a library for the society. S
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn83025182:00279528360:1866120701:0533/pct:88.3881882497693,172.8965270318654,31.5287603814211,4.296455424274973/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn83025182:00279528360:1866120701:0533/pct:29.462729416589767,57.63217567728846,10.509586793807033,1.4321518080916578/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

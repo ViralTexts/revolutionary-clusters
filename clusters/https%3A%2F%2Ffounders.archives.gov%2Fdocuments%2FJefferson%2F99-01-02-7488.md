@@ -131,7 +131,7 @@ of Congress the term at which the
 act of April 18, 1806, concerning  
 militia will expire, and th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808022901:0003/pct:58.07787903893952,7.4170801775920605,17.35708367854184,24.236092974667017/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808022901:0003/pct:58.091687379177024,7.425785670758248,17.35708367854184,24.244798467833203/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -196,7 +196,7 @@ the eﬀectof that expiration.
   
 -. MH JLEEERSOssN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216079:1808022901:0341/pct:23.30009066183137,68.86708296164139,24.070716228467816,27.10972346119536/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216079:1808022901:0341/pct:23.29657047892431,68.86094014806886,24.072115626731126,27.11027859542711/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -240,7 +240,7 @@ ing the militia will expire, and the effect uf that ex­
 piration.  
 Til: JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808030401:1015/pct:29.21406411582213,8.919354838709678,22.104446742502585,20.032258064516128/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808030401:1015/pct:29.206513310933058,8.917916465086277,22.105195140863273,20.033059184002582/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -301,7 +301,7 @@ gress the term at which the act of April 18,
 the effect of that expiration.  
 TH: JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808030401:0399/pct:40.49586776859504,2.218700475435816,35.41142651814589,91.51529928075094/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808030401:0399/pct:40.488593497395364,2.218430034129693,35.41105323034549,91.50820737851454/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -362,7 +362,7 @@ ft om the si cVetarv of wart
 1 recommend to the aucnthm ofct nrv*s  
 the term at which th *nct of \i;cj 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808030401:0080/pct:59.550561797752806,5.221439355812783,35.50561797752809,90.65173628585808/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808030401:0080/pct:59.53941209511328,5.220782488363316,35.50521125881545,90.6445255168365/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -412,7 +412,7 @@ pril 18, 1806, concerning the militia will
 expire, and the effect of that expiration.  
 TH:JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808030401:0920/pct:30.80697928026172,5.000868206285814,40.70338058887677,90.6233721132141/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808030401:0920/pct:30.798582720087218,5.0,40.699100572363044,90.61197916666667/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -471,7 +471,7 @@ tia will expire, and the effeé of that
 expiration.  
 ; TH: JEFFERSON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808030801:0039/pct:6.5836025226888175,2.834819192627467,16.489770804491616,32.04447560853451/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808030801:0039/pct:6.588729938983746,2.8381582022772047,16.494898220786546,32.04113659888477/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -670,7 +670,7 @@ gress the term at which the act of April
 expire, and the effect of that expira­  
 tion. TH. JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808031401:0361/pct:23.416346314557913,5.509164969450102,35.95186361357179,89.11405295315683/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808031401:0361/pct:23.412433155080215,5.508604011811425,35.950033422459896,89.10752469198655/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -776,7 +776,7 @@ will expire, and the effect of that expi­
 ration.  
 Th: Jefferson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1808031701:0343/pct:36.97339246119734,9.090909090909092,56.45787139689579,83.03188957639219/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1808031701:0343/pct:36.96314768633971,9.088746133714015,56.45146393276069,83.020065032913/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

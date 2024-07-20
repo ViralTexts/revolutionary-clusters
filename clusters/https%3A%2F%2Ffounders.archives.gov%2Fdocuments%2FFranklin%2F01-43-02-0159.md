@@ -50,7 +50,7 @@ irons, or bound, or otherwise restrained in the
 use of their limbs. The officers shall enjoy  
 liberty on their paroles, within convenient diss
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271742976:1848031301:0314/pct:193.609756097561,93.87731746395056,56.4390243902439,30.62485694666972/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271742976:1848031301:0314/pct:64.53658536585365,31.292439154650186,18.8130081300813,10.208285648889905/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -70,7 +70,7 @@ necessity arise to take anything from them for
  the use of such armed force, the sime shall be  
 paid for at an equitable price. All churches
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186488:1848031701:0241/pct:226.1917808219178,240.6426972211247,49.990867579908674,12.81443434742526/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186488:1848031701:0241/pct:56.537618699780865,60.152752172767975,12.495434623813003,3.203186726362918/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -108,7 +108,7 @@ harracks as roomy and good as are provided by the party
 in whose power they are for its own troops. But if any  
 officer shall break his parole by leaving the district so a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191289:1848032501:0135/pct:194.0252943741823,91.3372859025033,58.744003488879194,43.24769433465086/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191289:1848032501:0135/pct:48.51690294438386,22.834321475625824,14.689203925845147,10.811923583662715/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -138,7 +138,7 @@ ing which, its stipulations are to be as sacredly observed
 as the most acknowledged obligations under the law of  
 Nature or Nations
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191289:1848032501:0135/pct:194.85390318360226,175.32938076416337,58.13344962930658,26.877470355731226/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191289:1848032501:0135/pct:48.724100327153764,43.832345191040844,14.536532170119957,6.719367588932807/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -193,7 +193,7 @@ any placc in tie interior whilst such place colleges, libraries, and other cstab
 was in the occupation of the forccs of the ments, for charitable and bcncficent pur­  
 nited States, shall, during their continu- poses, shall be respected, and all person
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn82014116:00279528530:1848040501:0202/pct:68.19314641744548,66.81619643489553,25.76323987538941,6.12678550348247/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn82014116:00279528530:1848040501:0202/pct:68.19833852544133,66.81619643489553,25.76323987538941,6.142525479085507/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -213,7 +213,7 @@ established laws of Avr.r. The officers
 shall be daily furnished by the party in  
 whose power they are with as many, ra
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn82014116:00279528530:1848040501:0202/pct:81.23052959501558,90.94557903435249,12.710280373831775,3.329004840042498/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn82014116:00279528530:1848040501:0202/pct:81.23052959501558,90.94951402825326,12.731048805815162,3.332939833943257/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -251,7 +251,7 @@ lodged in barracks as roomy and good as are pro.
 vided by the party in whose power they are, for its  
 i own troops
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848070701:0686/pct:5.018320853911104,38.40688107703814,19.420105145770272,10.832710047369734/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848070701:0686/pct:5.0236312463491055,38.41103631679548,19.420105145770272,10.832710047369734/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -386,7 +386,7 @@ roomy and good as are provided by the party
 in whose power they are, for its own troop..  
 But if any ofiicer shall break his parole b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879063:1848071401:0113/pct:110.28795811518324,47.03793683423659,17.31675392670157,17.772378994580453/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879063:1848071401:0113/pct:82.7550085111955,35.28312464959821,12.989393740997773,13.324612222014578/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -420,7 +420,7 @@ put in irmis or b mini, or otherwise restrained in the
 on their paroles, within convenient districts, and j  
 have comfortable quarters; and the common soldier
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009597:00296026153:1848071501:0279/pct:20.774219700040536,34.433475762487106,14.957438184029185,9.326653897156328/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009597:00296026153:1848071501:0279/pct:20.780975543845425,34.433475762487106,14.970949871638968,9.331565247286479/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -492,7 +492,7 @@ and lodged in barracks as roomy and good as are provided by
 the party in whose power they are, for its own troops. But  
 if any officer shall break his parole by leaving the district s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191289:1848072901:0283/pct:144.99568593615186,239.88493104323547,115.57377049180327,19.426347406717998/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191289:1848072901:0283/pct:36.248921484037965,59.97123276080887,28.89344262295082,4.856586851679499/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -540,7 +540,7 @@ ment in the days of its respectability, let the farms laid
 waste, the defaced sanctuaries, the plundered banks, the  
 pillaged libraries and the confiscated wealth of citie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024669:00414184741:1863101201:0483/pct:13.579454253611557,222.10344827586206,45.90690208667737,49.45977011494253/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024669:00414184741:1863101201:0483/pct:4.525758305247954,74.02597402597402,15.299844861712941,16.48469524575719/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -626,7 +626,7 @@ mosx acknowledged obligations in tbe lew of
 nations.  
 ARTICLE XXH
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_quartz_ver02:data:sn84022643:00416152627:1872111501:0375/pct:71.83056872037915,34.14008067473414,12.929502369668246,4.9504950495049505/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_quartz_ver02:data:sn84022643:00416152627:1872111501:0375/pct:53.8962962962963,25.608116367192274,9.703703703703704,3.7159271482703824/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -976,7 +976,7 @@ provided, and during which its provisions are to
 be sacmily observed, a the most acknowledged  
 obturations in the law of nations
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_ashbel_ver01:data:sn82015679:00295870448:1891040301:0331/pct:8.813877168307547,86.81406076029903,18.44819503047351,5.6147606171464925/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_ashbel_ver01:data:sn82015679:00295870448:1891040301:0331/pct:6.61273302849103,65.11054557022428,13.846875366396999,4.215046922220455/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1000,7 +1000,7 @@ its provisions are to be sacredly ob­
 sarved as the most acknowledged obli­  
 gations in the law of nations.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gore_ver01:data:sn86092518:00414186610:1891040301:0012/pct:46.337988030778,53.94518272425249,10.11684240524366,4.422757475083056/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gore_ver01:data:sn86092518:00414186610:1891040301:0012/pct:46.33138623735575,53.93958268452196,10.120150068860712,4.425758676770823/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

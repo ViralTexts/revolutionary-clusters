@@ -90,7 +90,7 @@ K &#x27; i vttsr, salubrious air, and safe harbor, by any In lite
 v&#x27; I ii and where elegant buildings are erecting and iu  
 W cilueu for the reception of Congress la the year It**).
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82003410:00415661174:1849082101:0174/pct:-0.06507239303725394,5.391786344167296,15.991540588905156,6.109851347946586/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82003410:00415661174:1849082101:0174/pct:-0.07049509245702511,5.391786344167296,16.00780868716447,6.114050558495003/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -120,7 +120,7 @@ vear lSCO.&#x27;&#x27;
   
 A fresh emeute has broken out in the settle
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215828:1849082201:0616/pct:32.048170276325614,22.457361642882006,12.481329350261388,8.576400974591019/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215828:1849082201:0616/pct:32.045178754783905,22.455798412919393,12.483275770870282,8.57812427490835/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -149,7 +149,7 @@ bottom,- and be wise and temperate in its government, it
 bids fair to be one of the greatest and happiest nations in  
 the world
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1852012401:0067/pct:50.2082176568573,39.036687406136025,15.546918378678512,2.756919116069513/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1852012401:0067/pct:50.21284471589858,39.04383894729314,15.551545437719785,2.756919116069513/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -182,7 +182,7 @@ friendship, no longer reside there, and the
 ruins only can be viewed as the mementoes  
 of former pleasures?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_idacox_ver02:data:sn93067882:0020219428A:1859062401:0950/pct:51.94504699927693,202.66466720498326,39.522776572668114,18.583458299688544/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_idacox_ver02:data:sn93067882:0020219428A:1859062401:0950/pct:17.315015666425644,67.55488906832775,13.174258857556037,6.1944860998961815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -365,7 +365,7 @@ A little l?oy asked for a bottle of &quot;ect ni&gt; in
 the morning as fast as you can.&quot; The drug­  
 etst recognized a household name foi &quot;He
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_red_ver01:data:sn85025007:00175033774:1898050501:0285/pct:29.24640135478408,52.65245975969168,13.88653683319221,7.08456132396282/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_red_ver01:data:sn85025007:00175033774:1898050501:0285/pct:29.25204628845611,52.66001662510391,13.892181766864239,7.080782891256707/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

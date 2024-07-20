@@ -275,7 +275,7 @@ to the benefit of mankind in general.&quot;
 In letnin for th*s art ot courtesy (he Bntisli j  
 Government sent l)r. Frank on a supeib fop\ of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215828:1849062301:0424/pct:58.868846298384064,74.2417918753478,12.711386696730552,7.477740678909293/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215828:1849062301:0424/pct:58.863316110850164,74.23662794741601,12.713323939251605,7.479539078620945/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

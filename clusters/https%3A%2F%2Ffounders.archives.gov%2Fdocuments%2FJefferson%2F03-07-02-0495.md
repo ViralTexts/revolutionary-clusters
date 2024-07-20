@@ -74,7 +74,7 @@ united us nil &quot;
 I another? &#x27;1V&gt; bis own master he standeth oi falletL &quot;  
 Let us not forget that the greatest of Christian affection
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82006534:00415661095:1858080801:0137/pct:80.36056158264199,31.569045528659224,17.34205488194001,8.616580960742507/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82006534:00415661095:1858080801:0137/pct:80.3658796000851,31.57322630544755,17.336736864496917,8.620761737530833/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -111,7 +111,7 @@ we have been authorized by one whom you and
   
 I eqaly respect, to judge of the tree by its
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290094:1858081501:0155/pct:67.36609607951408,269.02960881780854,76.697956929873,16.771125999567754/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290094:1858081501:0155/pct:16.84850158817843,67.25740220445213,19.182433365557245,4.192781499891939/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -137,7 +137,7 @@ a Catholic or a Protestant, in Heaven; that on
   
 ehehs that gate, we leave these badges of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290094:1858081501:0155/pct:105.35615681943678,287.18392046682516,38.487023743787965,12.189323535768317/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290094:1858081501:0155/pct:26.34995166413479,71.79598011670629,9.625742300787184,3.047330883942079/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -171,7 +171,7 @@ has united us all.&quot;
 ??Who art thou,&quot; said theapostle, ??that  
 judgest another? To his own master h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kuwait_ver02:data:sn85059716:00201293031:1858100101:0566/pct:16.455026455026456,51.15944116376206,13.774250440917108,11.637620625090019/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kuwait_ver02:data:sn85059716:00201293031:1858100101:0566/pct:16.46384479717813,51.17024341062941,13.783068783068783,11.637620625090019/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -187,7 +187,7 @@ ave not said.
 I must ever belleve that religion substantially good  
 which produces an honest life.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_lorca_ver01:data:sn83030272:00206533109:1888102101:0609/pct:283.26937835763624,56.80292861500915,50.80583269378358,5.247101891397193/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_lorca_ver01:data:sn83030272:00206533109:1888102101:0609/pct:70.84452975047985,14.200732153752288,12.706333973128599,1.3117754728492983/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -205,7 +205,7 @@ I must ever believe that religion
 substantially good which produces  
 an honest life.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_neely_ver01:data:sn85059778:00340582135:1888102601:0356/pct:71.25352112676056,19.65562380424932,11.985915492957746,2.950357466518981/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_neely_ver01:data:sn85059778:00340582135:1888102601:0356/pct:71.24348683284045,19.653644784534837,11.988921748110595,2.953416565982011/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -224,7 +224,7 @@ stantially good which produces an honest
 life.  
 No man will ever bring out of the Presi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn84024448:0029602076A:1888111801:1219/pct:180.41795665634675,128.98389783453638,49.61300309597523,10.161021654636313/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn84024448:0029602076A:1888111801:1219/pct:45.113218502032126,32.245974458634095,12.405651248306562,2.5402554136590783/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -253,7 +253,7 @@ substantially good which produces an
 honest life.”  
 English Spavin Liniment remove
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033255:00514152512:1888121301:0615/pct:56.32136469940845,31.644444444444446,9.684963543816206,2.7111111111111112/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033255:00514152512:1888121301:0615/pct:56.32595038290457,31.651851851851852,9.684963543816206,2.714814814814815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -288,7 +288,7 @@ sold at J. A. McMurpbey’s drug store.
 substantially good which produces an  
 honest life.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033255:00514152512:1888122001:0619/pct:56.14490772385509,28.39779005524862,9.63773069036227,2.0/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033255:00514152512:1888122001:0619/pct:56.14490772385509,28.39779005524862,9.646844383686489,2.0036832412523022/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -306,7 +306,7 @@ I must ever believe that religion sub­
 stantially good which produces an  
 honest life.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271768515:1889020701:0206/pct:82.29250066720043,16.367067236071108,11.91619962636776,2.27430727976959/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271768515:1889020701:0206/pct:82.29250066720043,16.373688217962723,11.91619962636776,2.2709967888237825/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -350,7 +350,7 @@ I must ever believe that religion sub­
 stantially good which produces an honest  
 life.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_engledinger_ver02:data:sn85040310:00514152123:1891040201:0583/pct:66.21405750798722,68.26557750759878,13.89776357827476,11.464665653495441/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_engledinger_ver02:data:sn85040310:00514152123:1891040201:0583/pct:66.2229321973731,68.26874366767984,13.902200922967696,11.470997973657548/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -368,7 +368,7 @@ I MtjBT ever believe that religion sub­
 stantially good which produces an honest  
 life
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_douglas_ver01:data:sn96076998:00415669252:1891041601:0286/pct:85.5637813211845,140.1448195080396,18.35136674259681,2.5982323501224576/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_douglas_ver01:data:sn96076998:00415669252:1891041601:0286/pct:57.063514668185704,93.4298796720264,12.23298205639419,1.7357043978277074/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

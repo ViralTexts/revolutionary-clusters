@@ -634,7 +634,7 @@ to these things, I have become quite
 indifferent at this time.  
 &quot;In the north room where we sit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_carbon_ver01:data:sn88076144:00199918023:1890021401:0490/pct:5.596935518195361,58.08199121522694,13.917854862736753,6.881405563689604/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_carbon_ver01:data:sn88076144:00199918023:1890021401:0490/pct:5.602255799106193,58.08931185944363,13.933815705469248,6.888726207906296/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -653,7 +653,7 @@ home and abroad, as everybody is
 afraid they shall do wrong, so every­  
 thing is left undone!&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_carbon_ver01:data:sn88076144:00199918023:1890021401:0490/pct:20.025537348371994,46.559297218155194,13.768886997233453,2.049780380673499/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_carbon_ver01:data:sn88076144:00199918023:1890021401:0490/pct:20.04149819110449,46.559297218155194,13.768886997233453,2.060761346998536/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -679,7 +679,7 @@ with a Turkey carpet, I should liks it;
 11 be vsry easy, lor as  
 «I have become quit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_banana_ver02:data:sn00065129:00279522850:1890021501:1025/pct:6.117921774664332,13.378724909364223,11.932282545242265,8.42691661508533/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_banana_ver02:data:sn00065129:00279522850:1890021501:1025/pct:6.121813582409029,13.381672414301294,11.936174352986962,8.42396911014826/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -708,7 +708,7 @@ thing is lift undone!”
 A Dog as a Mall Carrier.  
 Our. Ohio Fenner
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_banana_ver02:data:sn00065129:00279522850:1890021501:1025/pct:6.117921774664332,40.10080466884782,12.002335084646818,7.31275974887258/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_banana_ver02:data:sn00065129:00279522850:1890021501:1025/pct:6.121813582409029,40.10375217378489,12.006226892391515,7.31275974887258/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -734,7 +734,7 @@ very easy, for as to these things, I have
 become quite indifferent at this time.  
 &quot;Iu the north room where we Bit, w
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_corsair_ver06:data:sn96090256:00415623136:1890030701:0630/pct:31.043207473725186,67.69704072663346,12.08641494745037,5.962496337532962/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_corsair_ver06:data:sn96090256:00415623136:1890030701:0630/pct:31.052938886726352,67.70802812774686,12.105877773452706,5.969821271608556/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -761,7 +761,7 @@ home and abroad, as everybody is afraid
 they shall do wrong, so every thiugis  
 left uudone!&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_corsair_ver06:data:sn96090256:00415623136:1890030701:0630/pct:43.616193071233944,5.259302666276003,12.183729077462047,5.464400820392616/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_corsair_ver06:data:sn96090256:00415623136:1890030701:0630/pct:43.621058777734525,5.2629651333138,12.188594783962632,5.4827131555815996/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -786,7 +786,7 @@ I should like it; but if not 1 shall bo
 verv easy, for as to these things, 1 have  
 become quite indifferent nt this time.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_ginsberg_ver01:data:sn92067125:00517179711:1890040201:0314/pct:69.93087557603687,19.224806201550386,14.429723502304148,5.988372093023256/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_ginsberg_ver01:data:sn92067125:00517179711:1890040201:0314/pct:69.93807603686636,19.2296511627907,14.429723502304148,5.993217054263566/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -811,7 +811,7 @@ home and abroad, aseve.rybody is afraid
 they shall do wrong, so everything is  
 left undone!”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_ginsberg_ver01:data:sn92067125:00517179711:1890040201:0314/pct:69.95967741935483,50.05813953488372,14.660138248847927,5.736434108527132/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_ginsberg_ver01:data:sn92067125:00517179711:1890040201:0314/pct:69.97407834101382,50.05813953488372,14.66733870967742,5.746124031007752/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -833,7 +833,7 @@ j should like it; but if not I shall be
 very easy, for as to these things, I have  
 become quit&lt;‘ indifferent at this time.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_ginsberg_ver01:data:sn92067125:00517179711:1890040901:0322/pct:69.62792039226997,20.523255813953487,14.364003461205654,4.341085271317829/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_ginsberg_ver01:data:sn92067125:00517179711:1890040901:0322/pct:69.63513123738102,20.532945736434108,14.3712143063167,4.34593023255814/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -858,7 +858,7 @@ home and abroad, as everybody is afraid
 they shall do wrong, so everything is  
 left undone!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_ginsberg_ver01:data:sn92067125:00517179711:1890040901:0322/pct:69.71445053360254,49.786821705426355,14.681280646091722,5.775193798449612/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_ginsberg_ver01:data:sn92067125:00517179711:1890040901:0322/pct:69.73608306893568,49.786821705426355,14.681280646091722,5.7897286821705425/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

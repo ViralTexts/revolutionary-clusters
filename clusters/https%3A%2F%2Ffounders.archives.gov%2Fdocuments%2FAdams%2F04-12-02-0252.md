@@ -45,7 +45,7 @@ prudence which is wise; there is also a false
 reptile prudence, the result not of caution but  
 of fear. - I do not deny,” says Mr. Burke
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812040401:0311/pct:72.5251879098033,13.10561797752809,23.380777226931073,11.496629213483146/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812040401:0311/pct:72.513591301567,13.104440050332554,23.382368617418187,11.498591886871592/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -219,7 +219,7 @@ sition. He tells us that there is in State affaire
 ?a false reptile prudence, the result not of cau­  
 tion, but of fear;&quot; and he proceeds to add wha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82016317:00415661642:1844061201:0761/pct:76.44582723279649,73.63104731525785,18.41142020497804,3.29611908559277/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82016317:00415661642:1844061201:0761/pct:76.45802830649097,73.63104731525785,18.423621278672524,3.3005493531809322/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -249,7 +249,7 @@ tion. “There is,” says Edmund Burke, “a cour­
 ageous wisdom; there is also a false, reptile pru­  
 dence, the result not of caution, but of fear.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_bia_ver01:data:sn83021205:00517172042:1859040901:0324/pct:7.354938870560838,68.21303433777155,16.029497380166895,4.148563419761738/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_bia_ver01:data:sn83021205:00517172042:1859040901:0324/pct:5.710131849400913,52.873022194865854,12.432947310372487,3.218798653101126/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -269,7 +269,7 @@ there is also a false, reptile prudence, the result.
 not of cantion, but of fear.&quot;  
 In the two cases above referred to, as in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295730:1862010101:0015/pct:119.6178937558248,113.67368796858266,49.62721342031687,10.389146733309532/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295730:1862010101:0015/pct:29.907957590586044,28.418421992145664,12.408248864033554,2.597286683327383/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -294,7 +294,7 @@ founds all the faculties, that no future
 danger can be properly provided for, can  
 be justly estimated, can be so much a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292960:1867090601:0192/pct:57.68292682926829,195.24494083821742,37.3780487804878,14.773858232887315/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292960:1867090601:0192/pct:14.420731707317072,48.811235209554354,9.34451219512195,3.693464558221829/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -329,7 +329,7 @@ There is a courageous wisdom; ther
 is also a false, reptile prudence the re­  
 sult, not of caution, but of fear.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_gmc_ver02:data:sn86064199:00200296692:1899040801:0087/pct:106.61450924608819,56.47091566935708,18.207681365576104,2.129139994433621/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_gmc_ver02:data:sn86064199:00200296692:1899040801:0087/pct:79.97510225858083,42.36014472585583,13.6759736795305,1.600333982744225/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

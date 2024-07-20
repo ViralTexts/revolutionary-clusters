@@ -2855,7 +2855,7 @@ vmu of Afls of the British Pailiament, herein after m-n
 tiond, are not repealed, we* will nor, diredtly or indneAly,  
 ex-’.ut iny tE-TtH-diz
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1774111001:0662/pct:8.947822337214317,27.752451996132063,28.223372143165157,59.801077496891835/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1774111001:0662/pct:6.945527459062047,21.511669402612235,21.872563217110393,46.34929698094354/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2890,7 +2890,7 @@ L may be. efpeciallv th&lt;.fc of the moll profitable kind; nor will
 wcexpuit any to the Weft-Indies, or etfewhere; and thole of  
 us who ate or ma,’ become over flock
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1774111001:0662/pct:9.745579991375592,89.6256389004006,27.339370418283742,15.844729935073905/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1774111001:0662/pct:7.552634510415507,69.4632788523303,21.20418848167539,12.28677467703947/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3001,7 +3001,7 @@ Stephen Crane. Richard Smith.
 PgNNSYi VANIA. Joseph Callaway, John Dickinson,  
 Charles Humphreys, Thomas M.fHin, Edward Biddle, Joh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1774111001:0662/pct:12.246658042259595,4.627711009807984,53.6869340232859,116.70120182345627/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1774111001:0662/pct:9.502060822100924,3.590036399971451,41.60075749136683,90.45036043108986/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3299,7 +3299,7 @@ In Congress Pbiladelphia OFober 20, 1774. Signed,
 PEYTON RANDOLPH, Prefidert. ﬁ  
 For New Hampfbire, John Sullivan, Nathaniel Folsom
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774111101:0349/pct:7.476430607322955,5.005137237633935,85.63911422933568,90.41538235725818/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774111101:0349/pct:7.49104728495213,5.014922452174764,85.63180589052108,90.40559714271735/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4805,7 +4805,7 @@ to violate it, in such Case, the Majority of the Committee shall
 forthwith eaufe the Truth of the Case to be published in the Ga­  
 zettee according to the Recommendation of the Congress
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774121601:0367/pct:7.000219442615756,29.605963791267307,27.210884353741495,5.050966073330291/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774121601:0367/pct:7.014848950332821,29.611035042344948,27.19625484602443,5.0560373244079315/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4838,7 +4838,7 @@ thenceforth we respectively will break off all
 &#x27;DPealings with him or her.”  
 By Order ot the Committee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774122301:0374/pct:37.99165018677214,72.03274215552524,27.444517688420127,17.962710322874035/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774122301:0374/pct:37.99165018677214,72.0428477590824,27.444517688420127,17.952604719316863/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6386,7 +6386,7 @@ exported from Great: Britain or Ireland, and
 that no such goods, wares or merchandizes,  
 imported after the 1t day of Decem. nex
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775011301:0384/pct:6.16360752322683,73.06770521270222,28.18944029005212,6.635710005991612/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775011301:0384/pct:6.17116096381902,73.07769123227482,28.19699373064431,6.6307169962053125/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6457,7 +6457,7 @@ Inthe last feflion of parliament, an act was
 passed for blocking up the harbour of Boston,  
 another impowering thie governor of theMaf
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775021001:0399/pct:37.88313120176406,20.571774315534714,28.04851157662624,10.467402813492663/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775021001:0399/pct:37.88313120176406,20.581858518630565,28.06321205439177,10.457318610396813/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6476,7 +6476,7 @@ Cargo, ¢uring the Debates of theCommiteee, Aad yesterday they
 resolved that the WholssYat said Stoop Brough+ ought forthwith  
 so be sent back again without breaking any of the Packages. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775031001:0414/pct:5.160575858250277,65.0352799879898,27.707641196013288,3.5730370815192916/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775031001:0414/pct:5.160575858250277,65.04028424160536,27.729789590254708,3.5730370815192916/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7532,7 +7532,7 @@ tkuta to act with hostility against the
 free protectant colonies. wJvenever a  
 ad ministry shall choose so to d
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805111101:0001/pct:20.9438202247191,49.77362761743068,19.03370786516854,10.398981324278438/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805111101:0001/pct:20.95131086142322,49.77362761743068,19.04119850187266,10.408413506885493/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7553,7 +7553,7 @@ iniport, which we shall know or h.iw
 Cause to suspect, were imported after  
 the hrstday of December, e&gt;;e«|&#x27;t suei
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805111101:0001/pct:21.258426966292134,92.64289756649688,18.53932584269663,4.541595925297114/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805111101:0001/pct:21.265917602996254,92.64289756649688,18.54681647940075,4.546312016600641/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7597,7 +7597,7 @@ molasses, syrups, paneles, coffee, or &#x27;
 Jor from i) iminicfl ; nor wines from i  
 | M_ ieira,dr the WeSlei 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808120201:0003/pct:41.15673114883537,64.13937100352342,17.706277141729174,20.814302492496413/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808120201:0003/pct:41.15673114883537,64.13937100352342,17.719436767995788,20.818652398973423/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8571,7 +8571,7 @@ rr -&#x27; &#x27; ics or manufactures to those who arc
   
 Cv crned in it.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_kirby_ver02:data:sn83025661:00202197371:1838050901:0344/pct:2.946708463949843,24.035640551993914,21.865203761755485,6.4435510159730525/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_kirby_ver02:data:sn83025661:00202197371:1838050901:0344/pct:2.2103778021633484,18.026730413995438,16.413230913936353,4.83537976746713/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8605,7 +8605,7 @@ or scarfs at funerals.
 This was the spirit of those who declared  
 the independence of our country tho
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1842012901:0392/pct:108.60591900311526,12.733911455956184,19.1588785046729,8.063289213448957/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1842012901:0392/pct:81.51178647964153,9.554237030275369,14.377556984219755,6.05507378670318/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8864,7 +8864,7 @@ In Congress, Philadelphia, Octeber, 20, 1774.
 PEYTON RANDOLrt, President.  
 Newe Hampshire- John Sullivan, Nathaniel Fol
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186427:1842060401:1185/pct:170.42753722169104,18.462549277266753,78.97828165551154,267.38939991239596/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186427:1842060401:1185/pct:56.80142037694619,6.153509252162488,26.322498406628426,89.12004087740428/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9282,7 +9282,7 @@ ing into execution this Association.
 Ater a session of seven weeks the Congress  
 dissolved itself, advising that another Congres
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530182:1843051901:0280/pct:55.65570076611086,253.0839962806075,48.670572329878325,12.150015497468747/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530182:1843051901:0280/pct:18.55190025537029,84.36133209353584,16.223524109959442,4.050005165822916/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9394,7 +9394,7 @@ selves, nor will we hire our vessels, nor
 sell our commodities or manufactures to those  
 who are concerned in (Aruhieves, vol
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn83035366:00296029087:1844083001:0840/pct:25.08896797153025,57.51405561464823,19.21708185053381,13.873271539279745/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn83035366:00296029087:1844083001:0840/pct:18.82510013351135,43.13934052575596,14.419225634178906,10.4087524692296/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9627,7 +9627,7 @@ neither be concerned iu it ourselves, nor will wa
 hire our vessels or sell our commodities or man &#x27;  
 ufictiires to those who may bo concerned in it.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199252:1845073101:0285/pct:105.58307926829268,40.059068331319644,19.96951219512195,5.46382064706672/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199252:1845073101:0285/pct:79.22226458253908,30.04430124848973,14.982844071673656,4.107933950865888/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9695,7 +9695,7 @@ their commodities or manufactures lo thoso
 who should be concerned in it,&quot; yet So un­  
 meaning was this declaration that vessel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn83035487:00211100473:1847110501:0475/pct:89.11483253588517,16.300109187334268,17.70334928229665,7.565122445796288/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn83035487:00211100473:1847110501:0475/pct:66.85942173479562,12.228981438153173,13.280159521435692,5.677741381999688/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9732,7 +9732,7 @@ it ourselves, nor will hire our vessels, nor sell
 our commodities or manufactures to those who  
 are concerned in it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn83035487:00211100473:1848021101:0527/pct:34.515077424612876,64.71494607087827,18.459657701711492,9.060092449922958/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn83035487:00211100473:1848021101:0527/pct:25.901772977379252,48.536209553158706,13.837375178316691,6.8104776579352855/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9796,7 +9796,7 @@ sell our commodities or manufactures to those
   
 who are concerned in i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn82015050:00280763366:1848071501:0229/pct:23.57233502538071,47.00884142840739,16.798857868020306,3.9614192214950052/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn82015050:00280763366:1848071501:0229/pct:17.689988894177375,35.26237225858308,12.597175947961288,2.9739350097600186/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9855,7 +9855,7 @@ of the Congress whose names are given be­
 low, and may be found in the first volume of  
 the journals of that Congress
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186488:1848072101:0595/pct:73.83125349227043,56.169052488070896,50.30731979884522,24.280845262440355/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186488:1848072101:0595/pct:18.45437616387337,14.040348964013086,12.574487895716945,6.069383860414395/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9876,7 +9876,7 @@ nor hire our vessels nor sell our commodities, or manu-
   
 fortunes, to those who are concerned in it.&quot; A goodly
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199252:1848072701:0920/pct:65.19984627209838,21.421148350220836,19.542659492697926,3.6892699402442193/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199252:1848072701:0920/pct:48.93289751970775,16.06910885944401,14.670255720053836,2.7669524551831643/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10005,7 +10005,7 @@ me we will wholly discontinne the slare trude, and w
 neither be concerned in it ourseives, nor will we hire our  
 vesrels, nor sell our commodittes or manufactures to thos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530303:1850030601:0471/pct:87.54614026640989,65.60074151315027,41.35772749157439,6.766307496234504/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530303:1850030601:0471/pct:29.182046755469962,21.86691383771676,13.785909163858129,2.255435832078168/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10028,7 +10028,7 @@ limits of their appointment has violated this Association, that
 such majority do forthwith cause the truth of the case to he  
 published in the gazette^ to the end that all such koks
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1850030701:0052/pct:84.69547853373271,19.978528206129223,13.307659392383398,3.15244973648253/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1850030701:0052/pct:84.70023296724196,19.981781508230853,13.307659392383398,3.15244973648253/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10051,7 +10051,7 @@ PEVTON RANDOLPH,
 i&#x27;i etulent.  
 Nrtr Unmftihire?John Sullivan, Nathaniel folsom
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1850030701:0052/pct:84.72400513478819,26.244388053874683,13.378975895022108,3.552605894983408/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1850030701:0052/pct:84.72400513478819,26.244388053874683,13.383730328531355,3.5591124991866745/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10157,7 +10157,7 @@ p ?u7 OOUO&lt;&quot;U&quot;J io &lt;Am. Archive*. 4th ser., vol. 1,
 wi^-w- another article in this agreement, which I  
 14 An&lt;1 *e do further agree and reeojve that w
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850041301:0481/pct:67.96320206584893,58.46441947565543,15.994189799870885,4.544319600499376/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850041301:0481/pct:67.97396169571766,58.47274240532668,15.999569614805251,4.540158135663754/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10176,7 +10176,7 @@ r!* r.&#x27;.&quot;wl?&quot; ?* Jw Ihem as unworthy of the
 rights of freemen, a ,d ns Inimical to the iibertie, of thi?  
 country. ?(Am Arcuive*. 4Ui ser., vol. 1, p. BIS 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850041301:0481/pct:67.97934151065203,63.1960049937578,15.703679793415107,2.1972534332084894/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850041301:0481/pct:67.99010114052076,63.20432792342905,15.714439423283839,2.1972534332084894/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10222,7 +10222,7 @@ will not be concerned in it oursclves, nor will we
 hire our vessels, nor sell our commodities or Manu  
 factures to those who are concerned in it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667711:1850042401:0453/pct:274.56503728251863,298.65700920476837,58.49212924606462,13.39972838388411/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667711:1850042401:0453/pct:68.6839378238342,74.66425230119209,14.632124352331607,3.3499320959710275/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10262,7 +10262,7 @@ ther be concerned ia it ourseirea, nor wilt we ht(£
 our ratfela nor seh oor commodities or m-inufae­  
 tarcs to those who are coouerned ia is
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157327:1851012401:0315/pct:4.007471557140431,21.415316095509095,12.633723892002038,4.206359025114438/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157327:1851012401:0315/pct:4.006791171477079,21.41266699653637,12.635823429541595,4.208931222167244/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10346,7 +10346,7 @@ concerned in it our .-elves, nor will-we hire our
 vessels, nor sell our commodities or manufactures.  
 to those w ho are concerned in it?Page
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1853051201:0762/pct:33.30135672194052,23.723150357995227,14.087981362203646,5.861575178997613/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1853051201:0762/pct:33.30135672194052,23.726332537788384,14.092549449545475,5.861575178997613/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10393,7 +10393,7 @@ hereupon we have hereunto sot our respective
 lames accordingly.  
 In Congress, Philadelphia, Get. 20, 1774
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1853051201:0762/pct:33.17801836371111,30.272076372315034,14.416883650815404,15.083532219570406/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1853051201:0762/pct:33.17801836371111,30.272076372315034,14.430587912840894,15.089896579156722/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10416,7 +10416,7 @@ ereof; and thereupon, we have hereunto set
 our respective names accordingly.  
 In Congress, Philadelphia. October 24, 1764.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_pearse_ver01:data:sn82015753:0021247535A:1853052401:0545/pct:49.361614497528834,67.997542997543,38.67380560131796,11.332923832923832/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_pearse_ver01:data:sn82015753:0021247535A:1853052401:0545/pct:16.453871499176277,22.665847665847664,12.891268533772653,3.7776412776412776/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10503,7 +10503,7 @@ or manufactures to those who are
 concerned in it.&quot;  
 &quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1855072601:0339/pct:38.44014510278114,48.166996513052496,13.579201934703748,4.278578833286212/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1855072601:0339/pct:38.44417573559049,48.17327930135394,13.58726320032245,4.278578833286212/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10658,7 +10658,7 @@ and, there a jkiii, wo have hereunto set our respective
 names Kcunliia&#x27;ly.  
 &#x27;&#x27;In (AtHi/rftw, J&#x27;/tilaJil/iin&#x27;&#x27;.x, fW. &#x27;2(t, 1771
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1855092001:0371/pct:1.33202981791519,58.3600982429624,13.943541488451668,13.980729265067069/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1855092001:0371/pct:1.33202981791519,58.363247055859944,13.947614974133366,13.983878077964608/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10758,7 +10758,7 @@ ano we will neither be concerned in it ourselves, nor
 will we bure our vessels, nor sell our commodities or  
 manufactures to thore who are concerned in it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530510:1856080201:0227/pct:195.98780292087946,144.34061441420394,46.429144599582735,20.967176731690223/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530510:1856080201:0227/pct:65.32926764029315,48.11353813806798,15.476381533194244,6.989058910563408/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10819,7 +10819,7 @@ scribed by the several members thereof; and
 October, 20, 1774.  
 44 PEYTON RANDOLPH, I&#x27;rendent.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1856091101:0581/pct:0.6944444444444444,6.347101174687381,26.556513409961685,92.45926487305798/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1856091101:0581/pct:0.6984355044699873,6.350258936465833,26.552522349936144,92.46242263483643/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10835,7 +10835,7 @@ October, 20, 1774.
 resolved, “ We for ourselves and the inhabitants ol  
 the several Colonies whom we represent,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182987:1856100901:0376/pct:36.6614933609243,69.45385553598048,14.623210898430765,1.2061254912589783/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182987:1856100901:0376/pct:36.6551724137931,69.44444444444444,14.625,1.2093495934959348/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10856,7 +10856,7 @@ ourselves, nor will we biro our vessels, nor fell our
 commodities or manufactures to thoso w ho arc con­  
 cerned in it,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn83035487:00211100497:1856101101:0466/pct:81.86029935851747,32.102619790959686,18.175338560228084,4.126510112664585/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn83035487:00211100497:1856101101:0466/pct:61.42602495543672,24.080358354825574,13.636363636363637,3.094882584498439/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10878,7 +10878,7 @@ wo havo hereunto sot our rcpectivo namesaccordingly.
   
 &quot;PEYTON RANDOLPH, President.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn83035487:00211100497:1856101101:0466/pct:81.62865288667142,49.80317632686304,18.08624376336422,5.877562101262386/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn83035487:00211100497:1856101101:0466/pct:61.24777183600713,37.35577575675309,13.5650623885918,4.411565087552599/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10920,7 +10920,7 @@ oar respective names accordingly.&#x27;&#x27;
 &quot; Peyton Randolph. President.  
 &quot; A&#x27;?i# Hampshire ?John Sullivan, Nailiaine! Folio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1856101601:0599/pct:84.72255584914726,32.29690018011186,14.532788854191688,9.252061806806333/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1856101601:0599/pct:84.72255584914726,32.300060037286315,14.540795900392345,9.258381521155243/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10941,7 +10941,7 @@ he concerned in it ourselves, nor will we
 hire our vessels nor sell our commodities or  
 manufactures to those who are concerned in it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1857031901:0056/pct:1.3642891335567258,76.11007462686567,13.989947343226424,3.171641791044776/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1857031901:0056/pct:1.3642891335567258,76.1162935323383,14.001914791766396,3.1747512437810945/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10987,7 +10987,7 @@ those who are concerned in it.
 EdmUND RANDOIPLS.  
 The Constitution of the United State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn85055197:00280776373:1857121101:0260/pct:112.28641171684296,217.29613072298443,51.26118795768918,22.999845845537227/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn85055197:00280776373:1857121101:0260/pct:28.077314343845373,54.32403268074611,12.817904374364192,5.749961461384307/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11060,7 +11060,7 @@ leither be concerned in it ourselves, nor will we hire our
 vessels, nor sell our commodities nor manufactures, to i  
 hose who are concerned in it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1858020401:0243/pct:63.98802395209581,63.97017179535586,12.107784431137725,2.010572021899188/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1858020401:0243/pct:63.992015968063875,63.97646466553395,12.107784431137725,2.0137184569882325/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11223,7 +11223,7 @@ neither be concerned in it ourselves, nor will
 we hire our vessels nor sell our commodities or  
 manufactures to those who are engaged in it.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290070:1859090901:0239/pct:95.01980758347482,256.03051722203526,34.57838143746463,9.020531807472231/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290070:1859090901:0239/pct:23.76503892427459,64.00762930550881,8.6482661004954,2.255132951868058/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11382,7 +11382,7 @@ concerned in it ourselves, nor wiil we hue our
 vessels, nor sell our commodities or manufactu­  
 i iers. to those who aie concerned in it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn86086769:00271769775:1860052901:0441/pct:71.85163027221058,59.30448941614329,13.027221058929106,2.9890672249360315/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn86086769:00271769775:1860052901:0441/pct:68.2675002368097,56.34207424867413,12.375674907644218,2.8358868591632294/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11412,7 +11412,7 @@ selves, nor will we hire our vessels, nor sell our
 commodities or manufactures, to those who are con-­  
 cerned in it.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:00279529406:1860062801:0200/pct:162.80690638365277,177.94865728143853,75.47916996673531,7.393824677629244/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:00279529406:1860062801:0200/pct:54.26896879455093,59.31621909381285,25.159723322245103,2.4646082258764146/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11434,7 +11434,7 @@ exhibitions of shows and plays, and other ex­
 pensive diversions and entertainments,&quot; the  
 committee remark
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_johnhenry_ver01:data:sn84024738:0028077800A:1860081801:0160/pct:21.970357454228424,211.5687902054368,37.416448706771284,10.583108528740402/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_johnhenry_ver01:data:sn84024738:0028077800A:1860081801:0160/pct:7.323452484742807,70.52293006847894,12.472149568923763,3.5277028429134676/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11484,7 +11484,7 @@ horse-racing and all kinds of gaming, cock-fighting, ex­
 hibitions of shows and plays, and other expansive diver­  
 sions and entertainments,&quot; the committee remark 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879105:1860082301:0155/pct:48.65221987315011,13.683502976762052,19.873150105708245,3.658536585365854/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879105:1860082301:0155/pct:36.5005946874587,10.265027847128865,14.906832298136646,2.746303053581717/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11547,7 +11547,7 @@ continue the slave trade, and will neither be
 ►vessel.*, nor sell our commodities or manufac­  
 tures to those Who are engaged in it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347282:1860083101:0476/pct:62.22533894343151,80.59483726150393,12.981143836683808,2.974186307519641/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347282:1860083101:0476/pct:62.23572801412914,80.59483726150393,12.981143836683808,2.985409652076319/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11567,7 +11567,7 @@ cember next; after which time we will
 wholly discontinue the slave trade, and will  
 be neither concerned in it onrselves, nor will
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528670:1860100301:1161/pct:61.602482719706586,124.6095743594978,43.63097757088447,7.788098397468612/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528670:1860100301:1161/pct:20.53416090656886,41.53652478649927,14.543659190294823,2.5960327991562044/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11612,7 +11612,7 @@ purchase any slave imported after the first
   
 day of December, J774. In the declare
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_melon_ver01:data:sn84022549:00415628407:1861071901:0572/pct:109.2094861660079,88.38625489343192,17.529644268774703,2.1168624039437436/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_melon_ver01:data:sn84022549:00415628407:1861071901:0572/pct:81.93318837714963,66.28969117007395,13.14489029452461,1.594896331738437/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11709,7 +11709,7 @@ u affection and regard for our fellow-sub­
 “jects in Great Britain and elsewhere, etc,”  
 Here was a solemn pledge of allegiance, un
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1862051501:0002/pct:1.9406605710020526,37.97649756377186,10.11382720656839,4.256233877901978/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1862051501:0002/pct:1.9406605710020526,37.983662940670676,10.118492256017914,4.263399254800802/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11796,7 +11796,7 @@ be concerned in it ourselves, nor will/we hire
 our vessels, nor sell out commodities-vr man­  
 ufactures to those who are in it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn82015099:00279556665:1863050201:0353/pct:39.722116482679866,21.286855883163405,13.075751808146174,3.2240286580325157/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn82015099:00279556665:1863050201:0353/pct:39.722116482679866,21.286855883163405,13.08051008755234,3.237806558280518/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12057,7 +12057,7 @@ the first day of December next; after
 which time we will wholly discontinue  
 the slave trade, and will neither be con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867021201:0135/pct:61.74496644295302,114.53028972783143,39.9633923123856,115.75943810359965/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867021201:0135/pct:15.43859649122807,28.632572431957858,9.992372234935164,28.939859525899912/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12133,7 +12133,7 @@ public; and, on the same being so done,
   
 we will not from thenceforth have any
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867021201:0135/pct:61.68395363026236,231.69446883230904,38.86516168395363,70.50043898156278/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867021201:0135/pct:15.423340961098399,57.92361720807726,9.717772692601068,17.625109745390695/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12153,7 +12153,7 @@ their vessels any goods prohibited by thea i e o ee te oe
 said non-importation agreement, on pain into watchwords, and inscribe them on  
 e o e oee te ee tete ear te ag and then necessit force
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867021201:0135/pct:63.148261134838314,304.69710272168567,76.75411836485662,7.594381035996488/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867021201:0135/pct:15.789473684210526,76.17427568042142,19.191456903127385,1.898595258999122/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12196,7 +12196,7 @@ eeca a ae a an a i te ena oen an aai
   
 of gaming cockfighting, exhibitions ofain te ee o te aner 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867021201:0135/pct:63.148261134838314,311.8525021949078,76.93715680292861,30.728709394205442/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867021201:0135/pct:15.789473684210526,77.96312554872695,19.2372234935164,7.6821773485513605/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12217,7 +12217,7 @@ death of any relation or friend, none of somties ust an soetines n
   
 us or any of our families will go intout pofee by
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867021201:0135/pct:63.453325198291644,342.58121158911325,76.38804148871263,5.355575065847234/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867021201:0135/pct:15.865751334858887,85.64530289727831,19.099923722349352,1.3388937664618086/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12266,7 +12266,7 @@ after, for any commodities whatever.
   
 Tenth. In case any merchant, trader or
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867021201:0135/pct:23.7339841366687,348.1562774363477,82.36729713239781,30.77260755048288/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867021201:0135/pct:5.93440122044241,87.03906935908692,20.594965675057207,7.69315188762072/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12428,7 +12428,7 @@ members thereof; and thereupon we have
 hereunto set our respective names ac­  
 cordingly res, ruiladejphia, octoter so
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867021201:0135/pct:87.065283709579,30.421422300263387,55.033557046979865,349.6927129060579/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867021201:0135/pct:21.769641495041952,7.605355575065847,13.760488176964149,87.42317822651448/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12466,7 +12466,7 @@ we will not sell any cotton or tobacco
 for shipment to any place or port in the  
 Northern States aforesaid, but only t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867031301:0235/pct:59.877300613496935,19.17230666814601,38.95705521472393,27.07200710085432/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867031301:0235/pct:14.976216050329906,4.793076667036503,9.743747122909314,6.76800177521358/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12508,7 +12508,7 @@ now exposed to be tried by Military Com­
 missions, and other unconstitutional ri­  
 bunals established by Military officers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867031301:0235/pct:22.024539877300615,172.01819593919893,38.52760736196319,42.38322423166537/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867031301:0235/pct:5.508669633266841,43.00454898479973,9.63633573730244,10.595806057916343/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12550,7 +12550,7 @@ try, as follows;
 Fiest:--That from and after the first  
 lay of May next, we will not purchase
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867031301:0235/pct:21.042944785276074,238.455564185066,38.895705521472394,37.27948518806169/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867031301:0235/pct:5.2631578947368425,59.6138910462665,9.72840263925119,9.319871297015423/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12600,7 +12600,7 @@ EeepH!That such as are venders of
 goos or merchandize will not take ad  
 sotage of the scarcity of goods that
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867031301:0235/pct:20.429447852760735,325.7073116609342,39.01840490797546,57.91634306002441/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867031301:0235/pct:5.109713058155593,81.42682791523355,9.75909160656744,14.479085765006102/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12655,7 +12655,7 @@ from time to time of the true state of
   
 their Province, and concert measures fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867031301:0235/pct:61.84049079754601,73.89326528347942,38.34355828220859,40.78553200931987/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867031301:0235/pct:15.467239527389903,18.473316320869856,9.590302286328065,10.196383002329968/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12675,7 +12675,7 @@ under the ties aforesaid, to adhere to
   
 this Association, until all acts of the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867031301:0235/pct:61.77914110429448,205.74725396649285,37.91411042944785,4.704315988017308/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867031301:0235/pct:15.451895043731778,51.43681349162321,9.482890900721191,1.176078997004327/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12702,7 +12702,7 @@ tion” reads as follows:
   
 1. After the first of May next, not to purchas
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kedzie_ver02:data:sn82014064:no_reel:1867040401:0002/pct:20.696877380045695,9.58649527644417,9.329779131759329,4.336379123431934/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kedzie_ver02:data:sn82014064:no_reel:1867040401:0002/pct:20.711157654226962,9.58649527644417,9.334539223153085,4.351866191729906/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12747,7 +12747,7 @@ him or her. Journal of Congress, vol.
 That&#x27;s the way they commenced.  
 When these men used their influenc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058250:00271744808:1868102001:0246/pct:59.347707423580786,84.53045095304509,16.266375545851528,15.097629009762901/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058250:00271744808:1868102001:0246/pct:44.52026750375324,63.400743840074384,12.201446703971612,11.331938633193863/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12793,7 +12793,7 @@ control over the &quot;Colonics,&quot; tho future &quot;Blares,&quot;
 und against human enslavement, than it dues of  
 n &quot;guaranty&quot; of 41 State Sovereignty,” iu it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fullerton_ver02:data:sn84031492:no_reel:1874061501:0008/pct:43.104693140794225,40.71468246620996,13.140794223826715,6.424736159970376/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fullerton_ver02:data:sn84031492:no_reel:1874061501:0008/pct:43.12274368231047,40.71931123865951,13.134777376654633,6.447880022218108/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12813,7 +12813,7 @@ nor will wo hire our vessels, nor sell our
 commodities or manufactures, to those who  
 aro concerned in tho slave-trade.&quot; At th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fullerton_ver02:data:sn84031492:no_reel:1874072501:0009/pct:1.2783405692233478,31.985361390667887,13.048721659430777,2.4519670631290027/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fullerton_ver02:data:sn84031492:no_reel:1874072501:0009/pct:1.284370477568741,31.985361390667887,13.072841292812349,2.465690759377859/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12865,7 +12865,7 @@ their vessels nor sell their manufactures to any
 person concerned in it. The slave trade had  
 never been regarded as piracy by the law of na
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558330:1875052701:0509/pct:112.2184300341297,178.0832378770523,42.79863481228669,9.825633193330788/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558330:1875052701:0509/pct:28.059395801331284,44.52080946926308,10.701484895033282,2.456408298332697/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12896,7 +12896,7 @@ crape or ribbon on the arm or hat for gentlemen,
 and a black ribbon or necklace for ladies, and we  
 will disconiinue the slving of gloves and scaris a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:00271743932:1875061601:1049/pct:59.26107569069806,220.33142857142857,45.888507438286744,20.685714285714287/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:00271743932:1875061601:1049/pct:19.75369189689935,73.44380952380952,15.29616914609558,6.895238095238096/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13165,7 +13165,7 @@ gentlemen and a black ribbon or necklace for
 ladies, aDd we will diacot tinue the giving cf  
 gloves and scarfs at funerals.” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00383342089:1882100201:0311/pct:76.00752283718431,80.09923986486487,9.806555615260612,2.512668918918919/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00383342089:1882100201:0311/pct:76.01200071646069,80.102759009009,9.811033494536987,2.512668918918919/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13345,7 +13345,7 @@ encourage finality, economy and in­
 dustry and promote agriculture, arts  
 and manufacturies of our country
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_johns_ver01:data:sn92073049:00295879269:1889102901:0346/pct:90.66247858366647,9.017283950617283,19.60308395202741,4.118518518518519/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_johns_ver01:data:sn92073049:00295879269:1889102901:0346/pct:68.01370841068113,6.765432098765432,14.70798229330287,3.091358024691358/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13374,7 +13374,7 @@ reasonable prices, so that no undue
 advantage be taken of a future scar­  
 city of goods.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_johns_ver01:data:sn92073049:00295879269:1889102901:0346/pct:90.63392347230155,13.955555555555556,19.560251284980012,12.138271604938272/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_johns_ver01:data:sn92073049:00295879269:1889102901:0346/pct:67.9851492217621,10.469135802469136,14.679423104383835,9.106172839506172/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13453,7 +13453,7 @@ unworthy of the rights of freemen as In­
 imical to the liberties of this country.  
 And that If newspapers who ought t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn85029079:00280760936:1890061101:0469/pct:44.56623134328358,128.095013371087,29.267723880597014,7.896806669812805/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn85029079:00280760936:1890061101:0469/pct:29.7246850209986,85.40191914425043,19.528698086794215,5.269781343400975/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13746,7 +13746,7 @@ promote agriculture, arts, and the man­
 ufactures of this country.’”&#x27; The nation  
 rested on industry; the nation wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_efreeti_ver01:data:sn91070630:00514152913:1897051301:0077/pct:57.09124966550709,61.32927341453171,12.710730532512711,2.225955480890382/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_efreeti_ver01:data:sn91070630:00514152913:1897051301:0077/pct:57.1001694764071,61.32927341453171,12.706270627062706,2.232955340893182/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13880,7 +13880,7 @@ lina and South Carolina, deputed to
 represent them in a continental con  
 sress,&quot; etn. A lengthy declaration o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_charlie_ver01:data:sn86071197:00175034948:1898060501:0455/pct:187.65331152902698,341.66921898928024,50.44971381847915,21.562021439509955/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_charlie_ver01:data:sn86071197:00175034948:1898060501:0455/pct:46.913327882256745,85.41730474732006,12.612428454619787,5.390505359877489/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

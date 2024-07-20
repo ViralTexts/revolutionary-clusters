@@ -42,7 +42,7 @@ measures, to which, uader the influence of
 these matives, I gave my affent.—&lt;As far as  
 the opinions of a majority in the Legislatur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808061401:0095/pct:6.366867562973265,32.35294117647059,16.056250965847628,4.597470387472395/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808061401:0095/pct:6.377169937670633,32.359633273104464,16.061402153196312,4.600816435789333/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -65,7 +65,7 @@ expressed your disapprobation of measures to which,
 under the intiuence of these motives, 1 gave my as­  
 sent ; as far as the opinions of a majority in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808062001:1191/pct:5.634861006761833,80.96442687747036,21.487603305785125,6.055335968379446/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808062001:1191/pct:5.633450175262895,80.95162820107493,21.48848272408613,6.058330698703762/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -94,7 +94,7 @@ sures, to which under the influence of these
 motives 1 gave my assept—as far as the o­  
 pinions of a majority in the Legislature ca
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808062101:0064/pct:41.52604548789435,13.722257450856056,17.534849596478356,8.61128725428028/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808062101:0064/pct:41.5184302218962,13.720517372558966,17.53774680603949,8.614422182771156/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -117,7 +117,7 @@ measures, to which under the influence of
 these motives, T gave ipy assent. As far  
 as the opinions of a majority in the legisla
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808062101:0206/pct:40.53950640903004,21.77450108046269,17.96441553472355,5.300622854963772/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808062101:0206/pct:40.53175210405509,21.77173360447382,17.967355266513646,5.304185731231994/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -161,7 +161,7 @@ of measures to which, under the influ­
 ence of these motives, I gave my assent;  
 as far as the opinions of a majority in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808062401:0986/pct:54.83250961010434,81.22598672720922,19.71444261394838,6.880894166957737/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808062401:0986/pct:54.81745813889651,81.21180373668588,19.715893494372768,6.884057971014493/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -225,7 +225,7 @@ i tivcs 1 gave my assent—as lar as the opinions
 cannot but consider these resolutions, as en­  
 : joining upon the represen&#x27;ation of the State i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216389:1827080901:0017/pct:21.3877688172043,68.69482223812932,18.245967741935484,6.537819136244333/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216389:1827080901:0017/pct:21.384176045691248,68.68662769891446,18.2485021557758,6.541015547337866/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -247,7 +247,7 @@ expressed your disapprobation of measures, to which,
 under the influence of these motives, I gave my as­  
 sent. As far as the opinion of a majority in the Legis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn82014309:00414182926:1828070301:0415/pct:22.654552636776614,56.75936123348018,17.025478965040488,3.923458149779736/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn82014309:00414182926:1828070301:0415/pct:22.650078988941548,56.75154852030282,17.027053712480253,3.9263592567102545/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

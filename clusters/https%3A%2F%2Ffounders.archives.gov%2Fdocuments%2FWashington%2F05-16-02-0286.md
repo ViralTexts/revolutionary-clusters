@@ -41,7 +41,7 @@ hereafter make, or attempt to make a fettle­
 nient thereon.  
 And be it further ena&amp;ed. That no perso
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793050101:0001/pct:8.26888756692445,85.42094455852155,19.363474122546105,5.824155310808289/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793050101:0001/pct:8.291195716835217,85.43494493186485,19.363474122546105,5.824155310808289/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -86,7 +86,7 @@ mike, a settlement thereon.
   
 There is one fact connected with this af
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_topsn83020866_ver01:data:sn83020866:print:1829020401:0002/pct:60.747451868629675,25.924821002386636,14.858437146092864,5.563842482100239/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_topsn83020866_ver01:data:sn83020866:print:1829020401:0002/pct:60.75311438278596,25.932279236276848,14.875424688561722,5.5713007159904535/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -198,7 +198,7 @@ son, who has made or shall hereafter
 make or attempt to make a settle­  
 ment thereon.&quot; Here, again, the un
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_topsn83020874_ver01:data:sn83020874:print:1831041601:0001/pct:64.16893732970027,21.15056333219529,17.983651226158038,7.306247866165927/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_topsn83020874_ver01:data:sn83020874:print:1831041601:0001/pct:64.16893732970027,21.15056333219529,17.997275204359674,7.319050870604301/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -294,7 +294,7 @@ who has made, or shall hereafter make, or
 attempt to make a settlement thereon.&quot;  
 There is upon our Federal Statute boo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_neruda_ver01:data:sn83030272:00175045107:1893111501:1017/pct:123.08845577211395,316.21008021795063,49.70014992503748,21.068563644619342/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_neruda_ver01:data:sn83030272:00175045107:1893111501:1017/pct:30.78942433902119,79.05252005448766,12.432027001687606,5.2671409111548355/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -319,7 +319,7 @@ make, or attempt to make a settlement
 thereon.”  
 There is upon our Federal statute boo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_halfwayrock_ver01:data:sn83016025:00414210831:1893111701:0169/pct:44.02131018153118,63.143382352941174,12.54932912391476,4.932598039215686/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_halfwayrock_ver01:data:sn83016025:00414210831:1893111701:0169/pct:44.01262576445058,63.13371113493644,12.55178536200434,4.9356716189309235/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

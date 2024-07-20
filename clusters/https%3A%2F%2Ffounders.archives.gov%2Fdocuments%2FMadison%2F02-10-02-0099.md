@@ -731,7 +731,7 @@ Uie port vessels-and ladi
 other countries. British ships  
 \ from the is! di
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805071701:0001/pct:57.178841309823675,52.571949472587576,18.42989084802687,36.52819377523115/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805071701:0001/pct:57.18583823117828,52.580631158570995,18.443884690736077,36.52819377523115/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -851,7 +851,7 @@ lSalS, (it one dzcked vessels, of all the
 t-eountrit-cts growing the commulities im­  
 &#x27; pol&#x27;tcd into the islands. I submit this pro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216031:1805071701:0324/pct:52.69154557463673,4.457065845206007,45.34346103038309,91.00885637273777/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216031:1805071701:0324/pct:52.68284629354466,4.45663682741361,45.34147817951681,91.003304777489/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -932,7 +932,7 @@ permit them the employment, jointly with British
 ships, or one decked vessels, of all the countries,  
 growing the commodities imported into the islands
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805072201:0614/pct:27.387120651369354,7.5718849840255595,21.169504071058476,39.56869009584665/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805072201:0614/pct:27.380365071534285,7.570675610924773,21.17044893931919,39.56636320076665/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1020,7 +1020,7 @@ the employment, jointly with Britifh flops, of
 one-dcckcd veflels, of all the countries growing  
 the commodities imported into the ifiands. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1805072301:0090/pct:40.21044720030064,6.718710007678526,17.85043216835776,42.38546199129767/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1805072301:0090/pct:40.202893105391695,6.717850287907869,17.85334084789279,42.38430368948603/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1123,7 +1123,7 @@ ships, of bne decked vessels, of all the ,
 countries growing the commodities im­  
 ported into the islands. I submit th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1805080201:0471/pct:52.87899860917942,4.549525344796704,42.94853963838665,91.54576392620454/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1805080201:0471/pct:52.8642936596218,4.548710601719198,42.943548387096776,91.53384670487107/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1143,7 +1143,7 @@ leges of an enemy’s Jhip, and is thus adopted and natura­
 lised,Jhs mail be looked span as an ensrsty’s flip, and it li­  
 st. Je to he taicn.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1805121301:0256/pct:4.0202893105391695,32.80990680454487,17.565282735299643,3.0894931699221244/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1805121301:0256/pct:4.019534184823441,32.80571866224151,17.56824442774856,3.093353757127053/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1241,7 +1241,7 @@ week for stverul months past. The gentle­
 man from whom we have obtained this in­  
 formation, Mark Scofield, is of the opinio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn84038814:00279557219:1861030501:0082/pct:15.299742552408974,34.08065799946935,12.541375505700625,1.3531440700451047/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn84038814:00279557219:1861030501:0082/pct:15.313534387642516,34.08065799946935,12.555167340934167,1.3630936587954365/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

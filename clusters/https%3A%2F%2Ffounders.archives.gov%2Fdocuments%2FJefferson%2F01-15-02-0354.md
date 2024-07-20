@@ -122,7 +122,7 @@ You will please to insert the following ex­
 n a£l from a Pamphlet now pubhlliinc; in  
 Virginia, on the nereffitiei of &lt;,n A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792092901:0001/pct:72.31467473524962,21.09359797625997,21.149773071104388,55.497178439385095/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792092901:0001/pct:72.32980332829047,21.098462735940846,21.157337367624812,55.50690795874684/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -150,7 +150,7 @@ liberty, property, or reputation of olheri, or
 ajfeSing the peace of the confederacy •with so j  
 reign nations.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798121501:0003/pct:6.615240766713417,28.237222470570703,16.97054698457223,8.612725376247951/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798121501:0003/pct:6.626928471248247,28.24839815228729,16.98223468910706,8.605274921770228/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -175,7 +175,7 @@ perty or reputation ofothers, or aﬂettzng
 the peace of the confLctduacy with foreign  
 nations.&quot; [Here Mr. Nicholas interrupt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215981:1801021401:0233/pct:25.464876033057852,42.19847008278319,21.293904958677686,11.359111390548046/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215981:1801021401:0233/pct:25.461588121368624,42.1940486169321,21.295459436195394,11.361413802738195/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -203,7 +203,7 @@ revealed tame that you will be Precis
 debt of the U. States ; and that under  
 your administration, there will be at
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1803091601:0141/pct:47.61904761904762,30.34459111949254,20.597351366582135,10.440596605520316/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1803091601:0141/pct:47.605633802816904,30.339389784024682,20.598591549295776,10.443092218032225/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -573,7 +573,7 @@ mer assertion, but not in the hitter.&quot;
 The I&#x27;uited States has come nearer than  
 any other large nation to living up t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ira_ver01:data:sn84023416:0020219753A:1899081101:1011/pct:29.125475285171103,30.21058315334773,15.874524714828897,8.801295896328293/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ira_ver01:data:sn84023416:0020219753A:1899081101:1011/pct:21.85241536705972,22.664686825053995,11.92468619246862,6.60097192224622/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

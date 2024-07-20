@@ -186,7 +186,7 @@ Each stroke some kind design fulfils,
 And shall we murmur at our God,  
 When sovereign love directs the rod?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184613:1843092601:0884/pct:159.89528795811518,136.62986635676933,44.17352281226627,11.237652527600233/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184613:1843092601:0884/pct:53.29045767274903,45.53799674645596,14.722305314587695,3.7454489116120535/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -212,7 +212,7 @@ And shall I murmur at my God,
 When sovereign love directs the rod 1”  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517013535:1848091501:0060/pct:51.055151622628124,54.68456375838926,14.080510728852634,6.429530201342282/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517013535:1848091501:0060/pct:51.04609929078014,54.67722453361965,14.082446808510639,6.432022547309086/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -257,7 +257,7 @@ Each stroke some kind design fulfils;
 And shall I murmur at my God,  
 When sovereign love directs the rod
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:0023728737A:1894042501:0099/pct:43.02633629421848,65.50842037945002,12.94997662459093,4.6578554679172885/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:0023728737A:1894042501:0099/pct:43.02633629421848,65.51197328217154,12.955171159939743,4.664961273360335/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

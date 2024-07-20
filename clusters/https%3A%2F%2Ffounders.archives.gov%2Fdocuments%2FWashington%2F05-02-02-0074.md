@@ -62,7 +62,7 @@ ver it may be done without involving unreasonable cxpentts, or
 very great inconveniences.  
 GEORGE WASHINGTON. *
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789051601:0001/pct:29.365079365079364,14.321319018404909,52.05761316872428,80.00383435582822/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789051601:0001/pct:29.372427983539094,14.335697852760736,52.07965902410347,79.99904141104294/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -123,7 +123,7 @@ days of the Union, by those patriots who first
 fought the bat&#x27;les, and then framed a constitution  
 to govern their country. The instances quote
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82016317:00415661642:1844093001:1122/pct:59.98531571218796,55.04246284501062,18.355359765051396,11.398619957537155/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82016317:00415661642:1844093001:1122/pct:59.997552618697995,55.05130927105449,18.355359765051396,11.403043170559094/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -152,7 +152,7 @@ to ihe former.&quot;
 This is in entire coincidence with varjous  
 other opinions expressed and acted on in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_danby_ver01:data:sn98060050:0028077733A:1844100401:0386/pct:105.79142621599341,88.51258581235697,20.197856553998353,10.541571319603356/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_danby_ver01:data:sn98060050:0028077733A:1844100401:0386/pct:79.36507936507937,66.39206712433257,15.151515151515152,7.9023646071700995/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -180,7 +180,7 @@ ions expr ssed and acted on in the early days of the U
 aion, by those patriots who first fought the batties, and  
 then ssamed a Constitution to govern their country
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347909:1844100701:0081/pct:23.300970873786408,346.6546384002406,59.28155339805825,27.6199067809352/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347909:1844100701:0081/pct:5.824111822947001,86.65063138905592,14.817511162880994,6.903938665063139/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -208,7 +208,7 @@ Wise ,io t manner idle) can be detrimental to th
 form or.”  
 This is hi entire coincidence with various oth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182951:1844101701:0924/pct:7.23181123006336,66.08907346412717,16.932488529604544,7.0313618788486325/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182951:1844101701:0924/pct:7.230231542158148,66.07961053837343,16.934250764525995,7.03393470790378/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -266,7 +266,7 @@ would hr1 otherwise in a manner bib ) can ho det­
 rimental to the former ”  
 I his is in entire coincidence with various oth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183700:1844101701:0163/pct:48.78372401592216,82.51267605633802,15.022851245761462,6.580281690140845/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183700:1844101701:0163/pct:48.77653301886792,82.50337990085625,15.02555031446541,6.583295778879375/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -353,7 +353,7 @@ grsaj number, of hands which, would &quot;be other­
 wise, in atrnannec-idle,) can be. detrimental, to.  
 the former.&quot; ,( 4f . . , 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn86053954:0023728236A:1844102401:0184/pct:99.73309608540926,112.30621319552938,23.89679715302491,9.866602571806274/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn86053954:0023728236A:1844102401:0184/pct:74.83090067639729,84.23266434322798,17.942328230687078,7.402956375435645/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -481,7 +481,7 @@ whenever it may be done without in­
 volving unreasonable expense or very  
 great inconvenience.-Letter of Gcorg
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_dragonfly_ver01:data:sn86075021:00294550033:1892110901:1083/pct:68.96243291592128,238.35740072202165,43.135062611806795,21.119133574007222/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_dragonfly_ver01:data:sn86075021:00294550033:1892110901:1083/pct:22.987477638640428,79.45246690734055,14.378354203935599,7.03971119133574/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -511,7 +511,7 @@ quences which may naturally bo ex­
 pected to How from an energetic govern­  
 ment.&quot; He was outrageously wron
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_india_ver01:data:sn85038161:00237289407:1894011101:0524/pct:82.91489361702128,45.31873983138589,18.893617021276597,4.8217719272297/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_india_ver01:data:sn85038161:00237289407:1894011101:0524/pct:62.23121141153928,33.989054873539416,14.179263359591229,3.6237243011388847/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -530,7 +530,7 @@ ception, be among the first consequences
 which may naturally be expected to flow  
 from an energetic government.&quot; He de
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_grace_ver02:data:sn83045604:00202199422:1897071801:0542/pct:103.07335459553494,153.98046144252754,37.6630907509423,7.555601745998753/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_grace_ver02:data:sn83045604:00202199422:1897071801:0542/pct:34.35778486517831,51.326820480842514,12.554363583647435,2.5185339153329176/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -550,7 +550,7 @@ consequences whieli iftay naturally be
 expected to flow from an energetic  
 government.” He declared also in 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_lopez_ver03:data:sn88085081:0020219977A:1897073001:0318/pct:67.71378708551484,21.326921189518107,12.109007920526246,3.6804396898616156/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_lopez_ver03:data:sn88085081:0020219977A:1897073001:0318/pct:67.71378708551484,21.330192691464653,12.117957667695888,3.677168187915072/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -569,7 +569,7 @@ cnception, be among the first conse­
 quences which may be naturally expected  
 trom an energetic government.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_japanesechin_ver01:data:sn83045462:00280655302:1899121501:0165/pct:15.903866248693834,12.799248943827257,13.646812957157785,2.112345485839462/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_japanesechin_ver01:data:sn83045462:00280655302:1899121501:0165/pct:15.919540229885058,12.807072445626662,13.64158829676071,2.108433734939759/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

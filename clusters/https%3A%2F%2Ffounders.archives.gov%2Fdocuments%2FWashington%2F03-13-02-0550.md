@@ -60,7 +60,7 @@ at the rate of one hundred and twenty pounds for the
 ISie I!&#x27; &quot;I* j&quot; Pr?P?rtion of less .  
 hut ft I nu&quot;&#x27;be?- of slaves in this State is not grea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1853060401:0637/pct:18.94297635605007,71.53370307167235,15.618915159944367,8.820392491467576/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1853060401:0637/pct:18.947612424663884,71.54081342434584,15.618915159944367,8.816837315130831/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -84,7 +84,7 @@ of slaves is not great, but it is generally
 thought three hundred and upwards will be  
 enlisted.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172157:1862080701:0742/pct:39.644268774703555,50.62271062271062,16.08695652173913,5.714285714285714/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172157:1862080701:0742/pct:30.72956552815643,39.23312767326545,12.467452902435289,4.436201218819789/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -185,7 +185,7 @@ service. ♦ * ♦ The number of slaves Is j
 not great, but it is generally thought that 300  
 and upwards will be enlisted.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_edgewater_ver02:data:sn84031490:no_reel:1863021001:0003/pct:23.105181747873164,41.760688836104514,10.59551430781129,3.102731591448931/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_edgewater_ver02:data:sn84031490:no_reel:1863021001:0003/pct:23.1100154679041,41.76811163895487,10.600348027842227,3.102731591448931/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -206,7 +206,7 @@ ges, be unties, *&#x27;ii encouragements givea by
 , Congress to any soldier enlisting into their  
 1 service. * • • The number of slaves i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016179:00296026190:1863021201:0290/pct:44.04115996258185,73.42967520389183,12.815715622076707,3.061954499928459/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016179:00296026190:1863021201:0290/pct:44.0473963205488,73.43444460342442,12.815715622076707,3.0667238994610577/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -231,7 +231,7 @@ is not great, but it is generally thought
 that 300 and upwards will be enlisted.&quot;  
 His expectations were not disappoin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293769:1863021801:0141/pct:219.92424242424244,289.5060883841839,48.333333333333336,20.796278560678616/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293769:1863021801:0141/pct:54.99147565826861,72.37652209604597,12.085622276946392,5.199069640169654/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -294,7 +294,7 @@ slaTes is not great, but it is generally thought that
 three hundred and upwards will be unlisted.&quot;  
 Ilia expectations were not disappointed 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026193:00280775769:1863022501:1058/pct:57.24841660802252,17.511041829046505,33.58550316678396,109.37905949597298/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026193:00280775769:1863022501:1058/pct:42.96778736138004,13.133281371784879,25.20682978348882,82.04728500909327/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -378,7 +378,7 @@ upwards will be enlisted.
 lency’s most obedient, humble servant,  
 Nicholas Cooke
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_edgewater_ver02:data:sn84031490:no_reel:1863040701:0002/pct:23.714285714285715,52.265112891478516,10.133333333333333,9.613983976693373/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_edgewater_ver02:data:sn84031490:no_reel:1863040701:0002/pct:23.714285714285715,52.26875455207575,10.142857142857142,9.617625637290605/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -410,7 +410,7 @@ the war; upon passing muster he w&amp;a made
 free and entitled to al! the wages, bounties  
 and encouragements given to any soldie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349475:1864120201:0155/pct:18.530701754385966,44.99586435070306,12.376644736842104,4.321753515301903/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349475:1864120201:0155/pct:18.52816225846238,44.99121265377856,12.379516696359234,4.324752748199455/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

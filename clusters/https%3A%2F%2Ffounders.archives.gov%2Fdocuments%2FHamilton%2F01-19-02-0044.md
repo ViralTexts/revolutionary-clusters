@@ -381,7 +381,7 @@ and that neither they nor their heirs or afligns
 shall so faras may relpettthe {aid lands &amp; the legal  
 remedies incident thereto, be regarded as aliens
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795071401:0470/pct:12.383488681757656,50.02985074626866,19.292794792129012,7.313432835820896/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795071401:0470/pct:12.393352073778173,50.033167495854066,19.297726488139272,7.320066334991708/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -535,7 +535,7 @@ fame to whom they please, in like manner as if
 &quot; to, be regarded as aliens.&quot;  
 Let us consider the effects of this provision, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795081201:0002/pct:7.2052980132450335,4.511527616520152,42.78145695364238,91.2589152429922/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795081201:0002/pct:7.225165562913907,4.523967490462764,42.7682119205298,91.25476861834467/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -779,7 +779,7 @@ biens meubles et immeublea,&quot; answering to bona or
 ret mobilia,or immobilia, things moveable and im­  
 moveable, eltates real and personal.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795092301:0003/pct:22.981674096087172,5.640050697084917,43.93263992075285,87.40494296577947/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795092301:0003/pct:22.987865279841504,5.651932826362484,43.93883110450718,87.40494296577947/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1679,7 +1679,7 @@ fame to whom they (hould pleare, in like |mi
 s &#x27; the legal remedies incident thereto, be re- 1 lie  
 &#x27; garded as aliens ; be it therefore enafted by | b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797111101:0002/pct:56.97377581805523,17.30253353204173,18.705035971223023,7.004470938897168/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797111101:0002/pct:56.985379438384776,17.30253353204173,18.693432350893477,7.004470938897168/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1721,7 +1721,7 @@ all the lands in the Northern Neck became l.v.vful­
 “ lv vested in Lord Fairfax, and his heirs, prior to  
 “ the year 1736, and remained vested in him, and i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805112901:0833/pct:52.382115807476175,6.109685695958948,20.962619105790374,10.615779345734445/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805112901:0833/pct:52.36932095749878,6.108706108706109,20.963605276013677,10.618085618085619/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1751,7 +1751,7 @@ the new commissioner shall take the same
 oath and do the same duties.  
 article v.. f 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808051701:0019/pct:23.096726737771238,24.429885347108478,18.0397204854726,9.336021166687665/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808051701:0019/pct:23.09248023533738,24.426807760141095,18.042532328246615,9.33904425967918/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1929,7 +1929,7 @@ their Senate,anc by His Pritannic Majesty, shall
 be delivered by each of the contracting parties  
 respectively, to the minister or other agent o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015143:1823020401:0017/pct:57.98700317364364,11.761721128475745,16.593622487532116,10.52364522021514/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015143:1823020401:0017/pct:57.99707823283462,11.761721128475745,16.58858495793663,10.530410662336784/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1963,7 +1963,7 @@ sident or the United States, by and with
 Ihe advice and consent 01 their Senate,  
 and by his Britanic Majesty, shall be de
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1823032901:0036/pct:40.356564019448946,82.78169014084507,18.04430037817396,14.102112676056338/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1823032901:0036/pct:40.34566567647853,82.76711846505897,18.046178773967053,14.104030980461186/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

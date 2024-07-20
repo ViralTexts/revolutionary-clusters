@@ -383,7 +383,7 @@ is, by the disposition of the ptWcr which
 attacks »t with ships stationary, or stilflc.  
 ently r ear, so evidf nt danger in entering.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810121801:0413/pct:41.7991397045072,87.55375664052619,17.355526463437442,4.983556792309638/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810121801:0413/pct:41.79132385938669,87.54268369798912,17.358514086262776,4.987142194679819/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -431,7 +431,7 @@ of the power which attacks it, with ship* |
 •tationary or sufiiciently near, an evident .  
 danger in entering.** The President »» 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1814102901:0617/pct:5.247573614081263,28.411268685320046,18.358282612271754,4.609045611345343/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1814102901:0617/pct:5.246710526315789,28.408546517198427,18.36074561403509,4.611797770751493/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -521,7 +521,7 @@ a one where there is, by the disposition of the
 Power which attacks it with ships stationary or  
 sufficiently near, an evident danger in entering.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271743324:1859052101:0214/pct:116.66666666666667,37.71353482260184,48.05695142378559,8.338310835025684/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271743324:1859052101:0214/pct:38.888888888888886,12.571178274200614,16.01898380792853,2.779436945008561/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -549,7 +549,7 @@ cists, which it would be well for all governments
 to adupt and athere to. Tnat is that contra  
 bend d was should nor comprhe any othur ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271743324:1859053101:0304/pct:108.24477202605416,169.14577640489486,52.00548508741858,25.899964357847214/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271743324:1859053101:0304/pct:36.081590675351386,56.381925468298284,17.335161695806192,8.633321452615737/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -589,7 +589,7 @@ or hoarding caps, sword-belts, saddles and
 bridles, (excepting the quantity of these arti­  
 cles which may be necessary for the defens
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1862060401:0002/pct:68.10407569141194,79.88098611504675,9.697962154294032,2.663644091810711/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1862060401:0002/pct:68.10407569141194,79.8880702748654,9.711608442503639,2.677812411448002/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -633,7 +633,7 @@ the smallest part of the goods, unless the
 lading be brought on shore in the presence of  
 the competent officers, and an inventory b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deltaair_ver01:data:sn86053570:0023728897A:1865072701:0086/pct:222.2543352601156,335.51435841512176,50.77071290944124,39.476553980370774/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deltaair_ver01:data:sn86053570:0023728897A:1865072701:0086/pct:55.57696940496266,83.87858960378044,12.69573596723681,9.869138495092693/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -672,7 +672,7 @@ trunks, casks, bales, or vessels found on
 board, or remove the smallest part of the  
 goode,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053571:00237289031:1869061401:0586/pct:102.94117647058823,162.78906797477225,44.212523719165084,16.818500350385424/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053571:00237289031:1869061401:0586/pct:25.741399762752074,40.69726699369306,11.055753262158957,4.204625087596356/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

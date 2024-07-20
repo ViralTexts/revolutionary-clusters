@@ -144,7 +144,7 @@ and to a-lmit tliem to a participation &#x27; of the
 benefits of civil and religious .freedom&quot;?  
 that we therefore proclaim the language o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035102:00296027078:1855011001:0342/pct:59.470246734397676,54.32259747033512,16.9811320754717,3.9509714434737253/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035102:00296027078:1855011001:0342/pct:44.62794918330309,40.74846785760855,12.740471869328493,2.9599687051766854/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -163,7 +163,7 @@ The following gentlemen were aunounc- of whatever nation or religion they may
 ed a4andidatos,-:. : I&#x27; w De&#x27; nd to adnut them to a participation (  
 Wm.. Bushnell. of Richland; John ; 6. of the benefits of civil and religious free- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85026203:0029602756A:1855011201:0664/pct:88.11305070656691,63.620242804528715,38.42477140482128,3.819397080889374/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85026203:0029602756A:1855011201:0664/pct:66.09852421533985,47.715182103396536,28.829765121596342,2.8645478106670303/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -184,7 +184,7 @@ tiuipation of the benefits of civil and relig
 ious freedom that we therefore proolaim  
 the language of Jefferson as our part
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027509:1855011701:0545/pct:74.80433473810957,30.241499459329567,16.375677302829622,4.9140934759101285/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027509:1855011701:0545/pct:56.11922324251091,22.684128319115704,12.283606804154749,3.6885738315511234/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -206,7 +206,7 @@ il and religious fraedom;&quot; that we there­
 fore proclaim the language of Jefferson  
 as our party creed, to wit: &quot;Equal an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774947:1855011901:0018/pct:142.03718674211802,330.87594133967497,55.37590945836702,17.228167525432685/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774947:1855011901:0018/pct:35.509296685529506,82.71898533491874,13.843977364591755,4.307041881358171/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -226,7 +226,7 @@ participation of the benefits of civil and reli­
 gious freedom&quot;- that we therefore proclaim  
 the language of Jefferson as our party creed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661551:1855012801:0108/pct:57.21734357848518,90.40598290598291,13.254665203073545,3.344017094017094/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661551:1855012801:0108/pct:57.22191730698866,90.40598290598291,13.254665203073545,3.351139601139601/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -251,7 +251,7 @@ salutary effects, have rendered it worthy
 of being continued in future times.&#x27;  
 Sec. 4. That a secret noliiiotl nartv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027509:1855032801:0590/pct:74.74489795918367,46.9419324131366,16.431572629051622,7.853403141361256/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027509:1855032801:0590/pct:56.087674523344845,35.20942408376963,12.325476655156884,5.890052356020942/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -324,7 +324,7 @@ of civil and religious freedom;&quot; that we
 therefore proclaim the language of Jel­  
 ferson as our party creed, to wit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774947:1855081001:0138/pct:153.125,92.53809774040988,53.92628205128205,17.078297425118233/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774947:1855081001:0138/pct:38.28125,23.13452443510247,13.481570512820513,4.269574356279558/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -346,7 +346,7 @@ of civil and religious freedom;&quot; that we
 therefore proclaim the language of Jef-  
 ferson as our party creed, to wi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774947:1855081701:0144/pct:140.89795918367346,225.29341949096664,55.183673469387756,17.46010813662139/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774947:1855081701:0144/pct:35.23887300939159,56.32335487274166,13.801551653736219,4.365027034155347/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -390,7 +390,7 @@ GIVE TO ALL OFFICERS
   
 who should leave his Majesty’s service th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_north_ver02:data:sn84031492:no_reel:1880021501:0011/pct:28.49751655629139,73.28360481047343,13.141556291390728,11.021464454254833/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_north_ver02:data:sn84031492:no_reel:1880021501:0011/pct:28.502690397350992,73.28741056477394,13.151903973509933,11.036687471456842/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -436,7 +436,7 @@ property.
 They also further resolved that they  
 would give to all officers who shoul
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035083:00296027200:1880022601:0074/pct:37.77318369757826,60.38721938472503,14.397519196692262,20.453735598052024/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035083:00296027200:1880022601:0074/pct:28.345642540620386,45.29041453854377,10.797636632200886,15.3462406461575/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

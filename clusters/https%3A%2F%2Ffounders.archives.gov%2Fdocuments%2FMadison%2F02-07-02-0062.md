@@ -75,7 +75,7 @@ above mentioned board of commissioners should ar­
 bitrate the claims originating from the excesses of  
 foreign cruizers,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804100401:0142/pct:4.086294416243655,82.88012872083668,22.15736040609137,2.3974255832662914/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804100401:0142/pct:4.085257548845471,82.86679536679537,22.158081705150977,2.401061776061776/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -93,7 +93,7 @@ zers, agents, confuls or tribunals, in their refpeCtive
 territories, which might be imputable to their two go­  
 vernments, they have exprefsly agreed that each go
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804100601:0183/pct:23.494410385863684,24.866210329807092,17.20158672917418,2.700684505289359/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804100601:0183/pct:23.49017486929872,24.863115978098556,17.204494922180157,2.7044964327194294/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -111,7 +111,7 @@ t !i»* claims originating from theexces r sof i
 in their re^peflive territories, which might  
 be imputable to their two governments
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804101701:0319/pct:4.292589027911453,33.59621451104101,18.36381135707411,3.2465825446898/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804101701:0319/pct:4.291762894534257,33.591799185175454,18.36669232743136,3.250536645200859/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -165,7 +165,7 @@ nals, in their respective territories, which
 might be imputable to their two govern­  
 men&#x27;s, they have expressly agreed tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_beachhaven_ver01:data:sn85025061:00513684939:1819010501:0073/pct:81.68875797741777,30.068027210884352,16.224840451644575,2.433862433862434/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_beachhaven_ver01:data:sn85025061:00513684939:1819010501:0073/pct:81.66871165644172,30.063482466747278,16.226993865030675,2.437273276904474/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -187,7 +187,7 @@ might be imputable to their two govern-,
 moots, they have expressly agreed that;  
 each government shall reserve (as it does
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184133:1819010601:0324/pct:42.506365951255,91.08467638782297,16.71516915241906,5.871066768994628/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184133:1819010601:0324/pct:42.49863611565739,91.07302724133521,16.718191186276293,5.874579016924585/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -219,7 +219,7 @@ ginating from the ex­
 cesses of foreign crui­  
 zers, agents, gonsu!-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010832:1819011201:0389/pct:33.93075980392157,40.01031991744066,8.226102941176471,5.077399380804954/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010832:1819011201:0389/pct:33.94097222222222,40.01031991744066,8.231209150326798,5.091159270725834/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

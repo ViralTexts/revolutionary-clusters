@@ -318,7 +318,7 @@ any duty beyond the line of their immediate profession,
 except by the special order of the President of the United  
 States.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661204:1852020101:0117/pct:47.88128606760099,60.14455997971088,15.630667765869745,2.7390311945219374/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661204:1852020101:0117/pct:47.88128606760099,60.15301377969397,15.636163781258588,2.7390311945219374/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -341,7 +341,7 @@ instructed engineers, who could always be relied upon in
 time of peace to direct in the best and most economical  
 manner the works of the government, civil as well a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854040501:0528/pct:51.56972901520159,51.10345707360633,15.746860541969596,5.625717566016074/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854040501:0528/pct:51.57523683630755,51.10345707360633,15.763384005287508,5.629969809074287/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -417,7 +417,7 @@ teachers, and that, therefore, there was some­
 thing like a military school here for a brief pe­  
 riod before its formal establishment by Con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_continental_ver02:data:sn82014760:00237288804:1861070201:0612/pct:78.33638025594149,143.0965147453083,58.409506398537474,34.316353887399465/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_continental_ver02:data:sn82014760:00237288804:1861070201:0612/pct:19.597530299565516,35.774128686327074,14.612394237365653,8.579088471849866/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -436,7 +436,7 @@ dered on any duty beyond the line of their im­
 mediate profession, except by the special or­  
 ders of the President of the United States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347336:1865032401:0119/pct:79.98746278012851,19.664183516613456,13.211095439586272,2.9443064916637107/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347336:1865032401:0119/pct:79.98746278012851,19.664183516613456,13.22676696442564,2.960072523747586/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -532,7 +532,7 @@ country residences, is the act of Congress
 approved April 29, 1812. The third section  
 of that Statute required that each cade
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:0020653350A:1878021301:0786/pct:72.94649585531273,27.74635308127419,49.510173323285606,21.434950878237572/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:0020653350A:1878021301:0786/pct:18.24693685202639,6.9365882703185475,12.38454288407163,5.358737719559393/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -678,7 +678,7 @@ the provisions of the 122d article of war, to the
 efiect that where different corps of the army  
 happen to Join or do duty together, the office
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mastiff_ver01:data:sn83045462:00280654449:1885101701:0341/pct:50.15249481517628,74.59421312632321,11.943393924606564,2.419598749873979/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mastiff_ver01:data:sn83045462:00280654449:1885101701:0341/pct:50.158594607783336,74.59421312632321,11.943393924606564,2.4347212420606916/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

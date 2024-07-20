@@ -1885,7 +1885,7 @@ houses, and lead captive silly women,
   
 | laden with sins, led away with divers lusts.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kershawhogjam_ver03:data:sn85042795:0029586185A:1841012701:0312/pct:3.702672605790646,3.3684827182190977,31.01336302895323,93.78051161882445/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kershawhogjam_ver03:data:sn85042795:0029586185A:1841012701:0312/pct:3.702672605790646,3.3717372908937056,31.02728285077951,93.78376619149905/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1958,7 +1958,7 @@ of this sort are they which creep into houses, and
 lead captive silly women, laden with sins, led  
 away with divers lusts.&quot; The samo apostle ob
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn86053954:00237281846:1842110901:0509/pct:7.835558678847505,34.871049763893936,24.10400562192551,2.397384671267708/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn86053954:00237281846:1842110901:0509/pct:5.888556864123748,26.153287322920452,18.08753735278608,1.8040925051459014/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2091,7 +2091,7 @@ The spirit, in sincerity,
 Which other men are tempted to,  
 And at the devil&#x27;s instance do
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743063:1852100401:0616/pct:100.11570247933884,211.0531685749915,46.892561983471076,20.745947171522502/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743063:1852100401:0616/pct:33.37190082644628,70.35105619166383,15.630853994490359,6.915315723840834/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2109,7 +2109,7 @@ The spirit, in sincerity,
 Which other men are tempted to,  
 And, at the devil&#x27;s instance, do
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743063:1852101001:0660/pct:62.71572777596874,200.74745186862967,32.87202865516119,4.9150622876557195/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743063:1852101001:0660/pct:20.90524259198958,66.91581728954323,10.957342885053729,1.6383540958852396/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2182,7 +2182,7 @@ this sort are they which creep into houses and
 lea 1 captive silly women laden with sins, led  
 away Avith divers lusts.&quot; Lxstly, it is writ
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_black_ver02:data:sn84026561:00415667802:1853020201:0362/pct:33.96907216494845,86.35390486828632,17.74484536082474,2.587731546123057/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_black_ver02:data:sn84026561:00415667802:1853020201:0362/pct:25.48337200309358,64.76775574792889,13.31528744521784,1.9454528530205715/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2343,7 +2343,7 @@ the rest soon follow: “ but they shall pro­
 ceed no further; for their folly shall be  
 manifest unto all men.&quot; He who looks wit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:0051701655A:1856042401:0173/pct:19.174635128334174,11.108270484468873,12.162388860929374,9.126933401508373/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:0051701655A:1856042401:0173/pct:19.171418986917143,11.106850715746422,12.164542099966454,9.128962167689162/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2383,7 +2383,7 @@ are they which creep into houses, and lead
 captive silly women. II. Tim., 3d chap., 2d,  
 3d, 4th, 5th and 6th verses
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033306:00212470107:1867050401:0526/pct:8.495670995670995,42.0329974532167,16.653138528138527,6.311593400509357/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033306:00212470107:1867050401:0526/pct:6.374340235485181,31.524748089912524,12.505075111652456,4.739231535821061/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2459,7 +2459,7 @@ they which creep into men&#x27;s houses and
 lead captive silly women, laden with sins,  
 led away with divers lusts.&quot; I think i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn84022367:00415628377:1871030201:0488/pct:63.36032388663968,49.67064865468349,14.76286871023713,7.725801049458524/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn84022367:00415628377:1871030201:0488/pct:47.53434562545192,37.255777604108516,11.077368040491685,5.794350787093893/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2490,7 +2490,7 @@ or church, or party—onchardly knows which
 to cull it—their bond of union being nut any  
 particular views in respec
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_clark_ver03:data:sn82014064:no_reel:1871091701:0006/pct:21.9562371423228,17.34505087881591,8.90218814288386,5.519580635214307/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_clark_ver03:data:sn82014064:no_reel:1871091701:0006/pct:21.9562371423228,17.352759790317606,8.90218814288386,5.519580635214307/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2535,7 +2535,7 @@ mdure sound doctiioe; but alter tbeir owe
 lusts shall they heap to themselves teachc.i  
 having itching curs; and they shall tu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn97064666:0051701607A:1874121001:0379/pct:32.7148645766688,62.19459303166113,14.075495841330774,7.373138643920775/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn97064666:0051701607A:1874121001:0379/pct:32.707889125799575,62.1856027753686,14.077825159914712,7.375686614628505/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2572,7 +2572,7 @@ power thereof, for of this sort are they
 which creep into houses and lead cap­  
 tive silly women laden with sin,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_montpelier_ver01:data:sn84023253:00200296291:1877011901:0012/pct:147.63898191560617,90.58744091829844,33.40589417280643,4.983119513841999/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_montpelier_ver01:data:sn84023253:00200296291:1877011901:0012/pct:49.21299397186872,30.195813639432817,11.135298057602144,1.6610398379473328/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2612,7 +2612,7 @@ for some time in their festivals to have
 certain pretty girls for kissing posts,  
 and any one can kiss them for fiftee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023296:00200296126:1878082801:0123/pct:273.41389728096675,56.60328547406545,101.28398791540785,321.9247186651145/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023296:00200296126:1878082801:0123/pct:68.35347432024169,14.150821368516363,25.320996978851962,80.48117966627862/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2664,7 +2664,7 @@ them alter those dayssaith the Lord, I will
 put mv laws into their hearts and iu their  
 minds will I write them;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033255:00514152500:1883051701:0277/pct:34.415495839585326,75.36886148425457,9.643977629245668,4.745650737722968/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033255:00514152500:1883051701:0277/pct:34.415495839585326,75.37620201130441,9.643977629245668,4.74932100124789/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2681,7 +2681,7 @@ Prophecy,&quot; said he, &quot;says: &quot;For of this sort are they
 which creep into houses and lead captive silly women  
 laden with sins, and never able to come to the knowl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044851:1884101301:0070/pct:222.3037417461482,252.22205817215414,50.03668378576669,3.5582459766720804/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044851:1884101301:0070/pct:55.57593543653705,63.055514543038534,12.509170946441673,0.8895614941680201/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2701,7 +2701,7 @@ Many learnod Russians do not like this turn
 toward religion in general, and Christianity in  
 particular. Thirty years ago the philosophi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_dante_ver01:data:sn83030272:00175044863:1885071901:0415/pct:59.47867298578199,183.73382624768945,51.65876777251185,8.980283425754775/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_dante_ver01:data:sn83030272:00175044863:1885071901:0415/pct:14.878482513337286,45.93345656192236,12.922347362181387,2.245070856438694/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2868,7 +2868,7 @@ to come to the knowledge of the truth.
 Now as Jannes and Jainbres withstood  
 Moses, so do these also resist the truth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_fox_ver01:data:sn82016399:0051717354A:1896032001:0101/pct:1.4081358962896737,55.27306967984934,14.908359409924005,5.555555555555555/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_fox_ver01:data:sn82016399:0051717354A:1896032001:0101/pct:1.4078212290502794,55.26439667346619,14.910614525139664,5.558606621685235/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2923,7 +2923,7 @@ so sure you are undone. For besides the cords
 that he will be constantly drawing around you,  
 in order to secure his prey, your own natura
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685154:1896071601:0813/pct:29.17078962992282,24.09556313993174,21.096378389075795,7.822525597269625/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685154:1896071601:0813/pct:29.16501780767709,24.092274092274092,21.098799630655588,7.826007826007826/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2984,7 +2984,7 @@ of truth. The Bible is the emhodi­
 uitnt of truth. The church stand  
 for truth. The church of the Latte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_frankenbatch_ver01:data:sn92073232:00295879737:1898012701:0472/pct:67.05607476635514,8.615384615384615,14.339953271028037,7.458461538461538/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_frankenbatch_ver01:data:sn92073232:00295879737:1898012701:0472/pct:50.31409788166545,6.461538461538462,10.766983199415632,5.6/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

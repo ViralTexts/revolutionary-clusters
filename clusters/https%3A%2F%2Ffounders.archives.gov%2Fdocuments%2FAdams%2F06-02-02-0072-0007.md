@@ -499,7 +499,7 @@ But if all the world (hould observe preten­
 ces of one kind, and actions of another ; area  
 used to elude the law, and the trust of prero
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021193:00517172169:1771082201:0117/pct:90.6927774268267,83.81825999713344,26.67930090545378,15.551096459796474/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021193:00517172169:1771082201:0117/pct:70.28776587064135,64.96593601895735,20.693031605287494,12.051984597156398/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -527,7 +527,7 @@ and takes care of theqL ‘
 But if all the WorM should obferyt Pre­  
 tences of one kind, and Adions of another 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021193:00517172169:1772073001:0283/pct:93.98137633431752,72.4534117976741,28.094481035657505,13.53509878100042/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021193:00517172169:1772073001:0283/pct:72.84674958929828,56.15883012994534,21.761323632950013,10.482499004596953/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -838,7 +838,7 @@ and are pmpWßebcls ; which they who
 are in Power, by the Pretence they have to  
 Authority, the Temptation of Force in thei
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774102101:0335/pct:4.816460135609072,45.24512699350266,29.202712181435587,39.79621972829297/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774102101:0335/pct:4.824253760423973,45.25497145107305,29.202712181435587,39.79129749950778/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -912,7 +912,7 @@ upon which the blockade Act was made; It
 was the violent Attack upon the Property of  
 the East-India Company, in the Defiructio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775021701:0403/pct:64.68056184866334,25.161873211865682,28.115088355233347,3.7644932992019275/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775021701:0403/pct:64.68056184866334,25.161873211865682,28.115088355233347,3.769512623600863/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -938,7 +938,7 @@ anOpportunity presented of firengthening his
 own Interest. The Consignees were connec­  
 ted with the Tories, and that was&#x27;a furthe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775022401:0407/pct:38.90577507598784,78.5080463227553,27.13851498046027,11.415250413596029/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775022401:0407/pct:38.90577507598784,78.5130596079611,27.152988855116515,11.420263698801826/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -957,7 +957,7 @@ geni s, call’&#x27;d a Comfmittee ¢t Correspondence.
 Fhis is the foulett, fubtlefl &amp; most venemous  
 Serpent that ever-issued from theEggs of Sedi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775031001:0415/pct:66.5938864628821,26.384316073032025,27.24890829694323,4.744088596228674/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775031001:0415/pct:66.60116448326055,26.394293125810634,27.263464337700146,4.7391000698393695/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -975,7 +975,7 @@ to have been regulated by principle, asmuch
 as those of theV&amp;higs ? You must answer, yes.  
 Why then do you fuffer them to be so cruelly
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775031001:0416/pct:6.969563299514777,4.093829373972808,27.635641817379796,5.662632601225161/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775031001:0416/pct:6.984267019555948,4.093829373972808,27.642993677400383,5.672593256636286/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1005,7 +1005,7 @@ to the other. . I have yet many Things to fay,
 But have already trefpafled on the Printér’s  
 Patience, perhaps the Readers, and promis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775031001:0416/pct:6.660785178650198,76.81159420289855,27.988531098367886,15.000747049155834/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775031001:0416/pct:6.668137038670784,76.82155485830968,27.99588295838847,14.990786393744708/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2811,7 +2811,7 @@ mankind, Mr. Locke.-&quot; When the -
 &quot;&#x27; on to ease themselves of a burden, *«i:  
 &quot; that sets heavy upon them. They
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1795021001:0003/pct:37.67075711970364,13.07997557997558,16.25376244501042,8.928571428571429/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1795021001:0003/pct:37.68233387358185,13.087606837606838,16.24797406807131,8.940018315018316/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3498,7 +3498,7 @@ regards any more than the justice of the sen
   
 timent. As a forlorn hope, they must cal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00416156888:1840012501:0190/pct:2.8505897771952817,24.551852343646264,19.806684141546526,7.143805603505511/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00416156888:1840012501:0190/pct:2.1464853350811075,18.417208870003982,14.86154350319515,5.364493427167707/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3522,15 +3522,15 @@ tlism fraught tvith resentment.
 The days of Whiggery arc numbered the hand  
 witing is upon the wall, &quot;Jlenc, mene tekel vphar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00416156888:1841101601:0556/pct:67.61987290583478,101.93208430913349,20.046216060080877,7.423887587822014/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00416156888:1841101601:0556/pct:50.736781277087545,76.4519906323185,15.039006067610517,5.573770491803279/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1842-07_11_49/page/n78/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1842-07_11_49/page/n78/mode/1up?view=theater)
 
-#### 1842-07-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1842-07-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3569,9 +3569,9 @@ In North Carolina, also, the same doctrine was appealed to some years since by t
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1842-07_11_49/page/n79/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1842-07_11_49/page/n79/mode/1up?view=theater)
 
-#### 1842-07-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1842-07-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3613,7 +3613,7 @@ If upon our bread and butter, cheese and milk,
 we may live on sweet potatoes and cold wa­  
 ter.Thus, cairy out this slavish principle, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:0041615689A:1845050301:0157/pct:25.227272727272727,57.66156656770952,19.97159090909091,16.36218314683718/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:0041615689A:1845050301:0157/pct:18.925831202046037,43.251883991778946,14.990053992611537,12.274491893126285/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3634,7 +3634,7 @@ manufacturer received protection from the
 whig, and he, in turn, received support from  
 the manufacturer. Some years ago the whig
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:0041615689A:1845050301:0157/pct:45.80965909090909,92.4069422242521,19.886363636363637,6.633934688284997/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:0041615689A:1845050301:0157/pct:34.370559818130154,69.30806120118748,14.919011082693947,4.978305549212149/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3946,7 +3946,7 @@ divine descended or authorized from
 heaven give them out for whom or what  
 please the same will happe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_layden_ver01:data:sn85058117:206534886:1885041101:0145/pct:63.35227272727273,110.15368852459017,19.108851674641148,8.00204918032787/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_layden_ver01:data:sn85058117:206534886:1885041101:0145/pct:42.24614924480335,73.43920765027322,12.741139524450427,5.338114754098361/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -111,7 +111,7 @@ This difference of opinion resulted in th
 and exclusive right of regulating the internal g&lt;?v­  
 ernment and police of tho same
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661538:1854031801:0276/pct:30.662683324280284,84.10321758521822,13.145029875067898,1.5291494106403314/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661538:1854031801:0276/pct:30.667209849719356,84.11029698063786,13.14955640050697,1.5326891083501468/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -139,7 +139,7 @@ Connecticut, in authorizing her delegates to vote for the
 declaration of independence, attached lo it the following  
 condition
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854040101:0517/pct:32.4449594438007,72.58542875564152,15.941069359377586,7.0019342359767895/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854040101:0517/pct:32.455995144291784,72.58542875564152,15.94658720962313,7.014829142488717/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -156,7 +156,7 @@ condition
 &quot;Reserving to the people of this colony  
  the sole and exclusive right of regulating
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472062:1854041501:0004/pct:336.08247422680415,381.134047556833,44.60481099656357,5.644107656127515/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472062:1854041501:0004/pct:84.03505757002921,95.28351188920826,11.1531190926276,1.4110269140318787/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -186,7 +186,7 @@ Connecticut, in authorizing her delegates to
 vote for the Declaration of Independence, attach  
 ed to it the following condition
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035101:00296027078:1854052401:0202/pct:27.786032689450224,38.92833221701272,19.205052005943536,10.783657066309445/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035101:00296027078:1854052401:0202/pct:20.843395875905628,29.202947086403213,14.415753297417798,8.091091761553919/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -227,7 +227,7 @@ same.”
 The Constitution of the United States  
 was formed and adopted by the people o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024652:00393348689:1854073101:0108/pct:30.608974358974358,67.43187004967109,12.678062678062679,3.302456705598067/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024652:00393348689:1854073101:0108/pct:30.603525013352325,67.42281879194631,12.680256364607441,3.3053691275167787/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -251,7 +251,7 @@ nal government and fabric of the sune.&quot;—
 The constitution of the United States wa»  
 formi and adopted by the people of these thir
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn86083363:00415668831:1854080201:0627/pct:48.958460226580584,62.12490622655664,10.780850286271166,3.216429107276819/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn86083363:00415668831:1854080201:0627/pct:48.96252081049255,62.12490622655664,10.780850286271166,3.216429107276819/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -273,7 +273,7 @@ same.&quot; Cheers and applause. ,
 The constitution of the UiiKe.. Stales was  
 formed and adopted by the people of thes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn84028794:00296026670:1854082301:0819/pct:9.209572153734591,80.75073470478226,16.588107324147934,5.650547689019503/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn84028794:00296026670:1854082301:0819/pct:6.910937783421005,60.566390595778785,12.461454743333938,4.234571199572535/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -291,7 +291,7 @@ ing resolution :, ..... .
 sole and exclusive right of regulating the in­  
 ternal government and policp of the same.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn84028570:00280774790:1856081401:0460/pct:80.88235294117646,98.59498207885305,18.247721623860812,2.6379928315412187/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn84028570:00280774790:1856081401:0460/pct:60.692084542063824,73.94982078853046,13.69664318276005,1.978494623655914/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -371,7 +371,7 @@ ernment and police of the Bamc&quot; :
 Connecticut, New. Hampshire and other  
 colonies made similar reservations of authori
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn83035173:00296027297:1860080101:0337/pct:25.46674445740957,94.39506172839506,16.33605600933489,2.9753086419753085/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn83035173:00296027297:1860080101:0337/pct:19.112926758097462,70.80246913580247,12.255617157864021,2.234567901234568/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -388,7 +388,7 @@ colonies made similar reservations of authori
 sole and exclusive right of regulating the  
 internal government and policy of the same.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn85026002:00280775228:1860081401:1301/pct:83.96150761828387,205.13429292179848,49.077786688051326,5.638818815848048/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn85026002:00280775228:1860081401:1301/pct:20.99037690457097,51.28357323044962,12.269446672012831,1.409704703962012/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -406,7 +406,7 @@ ony the sole and exclusive right of regn­
 lating the internal Government and pol­  
 icy of the same.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028822:00280775459:1860092701:0138/pct:232.45877061469267,167.2758181045474,48.20089955022489,8.613118005383198/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028822:00280775459:1860092701:0138/pct:58.14738421151322,41.81895452613685,12.05700356272267,2.1532795013457995/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

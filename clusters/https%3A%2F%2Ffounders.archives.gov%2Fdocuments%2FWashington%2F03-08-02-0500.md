@@ -100,7 +100,7 @@ and kinudness.&quot;--Yol. TIL pgE48.
 more thoroughly evince that magnanimity  
 which was his grand characteristic, than i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_johnhenry_ver01:data:sn84024738:00280778059:1861103101:0424/pct:57.92245793708852,230.92482535710562,38.434528163862474,16.796997184860807/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_johnhenry_ver01:data:sn84024738:00280778059:1861103101:0424/pct:19.307485979029504,76.97494178570187,12.811509387954157,5.598999061620269/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -139,7 +139,7 @@ ness.PoL II, page 18.
 more thoroughly evince that magnanimity  
 which was his grand characteristic, than i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn83025725:00212470405:1861110601:0390/pct:327.82193958664544,286.51971174226367,50.026497085320614,27.596439169139465/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn83025725:00212470405:1861110601:0390/pct:81.96634424274546,71.62992793556592,12.508281436332318,6.899109792284866/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -185,7 +185,7 @@ when the evil3 which may and must result from i. ex
 ceed thoso intended to be redressed, prudence and policy  
 require that it should be avoided
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879117:1864122201:0421/pct:66.60759493670886,80.13148989654839,19.911392405063292,5.365947984143865/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879117:1864122201:0421/pct:49.968350424104315,60.098617422411294,14.938599822762376,4.031712269167553/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

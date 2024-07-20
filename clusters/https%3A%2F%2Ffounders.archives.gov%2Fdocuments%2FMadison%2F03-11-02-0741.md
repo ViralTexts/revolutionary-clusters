@@ -106,7 +106,7 @@ to he wanted.
 Ali which is respectfully submitted.  
 JAS. MONROE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216225:1817022701:0515/pct:43.13412408759124,13.506085590891244,18.270985401459853,11.804737599790604/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216225:1817022701:0515/pct:43.12428734321551,13.504318241298089,18.274420372481945,11.807554741341708/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -175,7 +175,7 @@ tween the two nations, except such part
 as he may deem improper to disclose,&quot;  
 has the honor to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1817030401:0403/pct:48.0893300248139,47.61599589848757,14.871794871794872,6.729043834914124/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1817030401:0403/pct:48.08137611644062,47.609893630654874,14.874848384606903,6.732453329915844/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

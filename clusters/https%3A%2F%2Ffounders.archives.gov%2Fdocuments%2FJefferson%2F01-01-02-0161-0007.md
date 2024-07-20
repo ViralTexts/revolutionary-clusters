@@ -37,7 +37,7 @@ where the prosecution shall haveheen carried on 1 v
 lb ■ Ho,, e o! Delegates, or the law shall otherwise  
 particularly direct. This power must evidentl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1813122101:0265/pct:41.40782944311707,70.78973592426507,17.84598419408197,2.628300946686597/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1813122101:0265/pct:41.40022050716648,70.78091916801594,17.848830086977827,2.632125212770374/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -58,7 +58,7 @@ the ectinctl have power of granting reorjevex
 “ cubirly direct, in which case* no reprieve 01  
 “luirdoii shall be ji anted but b\ tiie r, s.i.Vc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:0041418392A:1818010601:0264/pct:35.05456914806972,70.36004364165353,14.660368138133247,3.1155291550490967/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:0041418392A:1818010601:0264/pct:35.04885993485342,70.35151515151514,14.66340933767644,3.1191919191919193/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -103,7 +103,7 @@ fill vacancies occurring during tho recess ol the Leis­
 ure, in ollices, the appointment to which is vested in the  
 Legislative body,” ami to insert in lieu thereof the fol
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1829122501:0216/pct:50.46005549875858,5.040762429670456,14.794800642617204,10.161901481226318/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1829122501:0216/pct:50.45268691588785,5.040183696900115,14.797507788161994,10.164561806352852/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -123,7 +123,7 @@ I cept wlie-rc the prosecution, shall hare been carried on hy the
 rect; to conduct, either 10 person, or in such manner as shall be  
 &#x27; prescribed by law, all intercourse with other and foreign States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830010501:0012/pct:59.905362776025235,11.590746482232293,17.77602523659306,2.7665156212735513/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830010501:0012/pct:59.89591547074594,11.589364492667222,17.77847868369868,2.770160168514765/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -149,7 +149,7 @@ ments to such vacancies shall be by commissions to ex­
 pire at the end of the next succeeding session of the  
 Getters! Assembly
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830010501:0229/pct:2.6502813147764286,58.33716123105191,14.954101273319514,5.374368396876435/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830010501:0229/pct:2.6498889711324947,58.33046273969457,14.956822107081175,5.377578749952157/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -174,7 +174,7 @@ the legislature tnav designate, nil i c
 gotiation* or correspondence with  
 other or foreign States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84024746:00414186920:1830011301:0009/pct:24.2007722007722,38.38442037335792,14.424710424710424,6.625950679880157/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84024746:00414186920:1830011301:0009/pct:24.19703520691785,38.37999769558705,14.427630224418365,6.629027921803587/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -195,7 +195,7 @@ direct; to conduct, either in person, or in such manner os ih.tO
 he prescrilied hy law, all inurrcoiirse with other aud foreign  
 States; »n&lt;l during die recess of the l.ogislator«, lo HU. prm ffi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830011801:0062/pct:60.552521683263734,54.45334590009425,17.956954706071315,3.192742695570217/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830011801:0062/pct:60.54279749478079,54.446931322888446,17.959424013703764,3.196293242235049/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -216,7 +216,7 @@ direct; to conduct, cither i:s iiervni, or in stscli maiiner as shall
 he prescribed by law, all intercourse with other and foreign  
 States; ami during Ihe recess of the Legislature, to fill, pro tem
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012301:0082/pct:60.3706688154714,66.75309369475545,18.114423851732475,3.264584560989982/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012301:0082/pct:60.36094102481469,66.74522743341976,18.116876141368568,3.268127896928274/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -236,7 +236,7 @@ House of Delegates, m the law shall otherwise particularly
 tlirect; to conduct, either hi person, or m such manner ,is vlmll  
 he prescribed hy luw. all intercourse with oilier and foreig
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012501:0086/pct:60.24191014765944,66.44326866549089,17.546339930882816,2.7395649617871842/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012501:0086/pct:60.23244856290247,66.43545732424171,17.54881943353751,2.743161689787601/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -255,7 +255,7 @@ I louse of Delegatus, or the law shall otherwise particularly
 direct; to conduct, ( ..her in person, or in such manner as slutll  
 ho prescribed by law, all intercourse with other and foreig
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830020101:0110/pct:60.67801905952195,65.28877503493247,17.387908139353225,2.247321844434094/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830020101:0110/pct:60.66854108091221,65.28117359413203,17.3903988336978,2.2509411262467496/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -275,7 +275,7 @@ direct; to conduct, cither in person, or in such maimer ns shall j
 be prescrilied by law, all intercourse with other nnd foreign  
 States; and during the recess of the Legislature, to fill, pro tan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830020801:0134/pct:60.4551920341394,66.95560501347077,18.223486644539275,2.7761508726718986/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830020801:0134/pct:60.4456384323641,66.94776294214101,18.225874420564686,2.7797298352463495/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -301,7 +301,7 @@ the end of the next succeeding session of the General Asicm­
 5. There shall be a Council of State, to consist of three mem­  
 ber*. n..y one &lt;»i more of whom mnv act. They shall lie elect
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830020901:0138/pct:79.75067923925204,24.081729065784813,18.251558254754674,5.846226526514704/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830020901:0138/pct:79.73793544263343,24.078885214926782,18.253968253968253,5.849472524011967/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -323,7 +323,7 @@ ly direct; to conduct, either in person, or in
 such manner ns si.all he prescribed by law, all  
 intercourse with other and foreign States; an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830021201:0139/pct:65.82489036745804,83.89762423964191,14.017843641312567,3.8103982554803166/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830021201:0139/pct:65.81493801028122,83.88799632774845,14.020764035883479,3.8137862443577384/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -344,7 +344,7 @@ ly direct ; to conduct, either ill person, or in
 such manner as shall tie prescribed by law. all  
 intercourse yvitlr other and foreign Stales ; an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1830021501:0625/pct:51.457725947521865,91.1909591422776,15.056226572261558,3.4192987539843522/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1830021501:0625/pct:51.447012283989174,91.17774880486745,15.058296897772225,3.422425032594524/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -365,7 +365,7 @@ ly direct; to conduct, either in person, or i-i
 such manner ns shall ho prcacribcd bv law, all  
 intercourse with other and foreign Plates; an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830021901:0143/pct:65.12466677120904,86.10692334454366,14.662066802571742,3.525455178012293/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830021901:0143/pct:65.11445594230166,86.09693877551021,14.664994251071391,3.5289115646258504/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -385,7 +385,7 @@ drrcct; to conduct, either in pcisou, or in such manner as shall
 he prescribed by law, all intercourse with other and foreign  
 States; and during the recess of the Legislature, to fill, pro tem
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022001:0178/pct:61.350088609634284,65.94633103775826,17.915256967939424,2.802184754215151/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022001:0178/pct:61.34020618556701,65.93850172147691,17.917740549828178,2.8058094898887966/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -405,7 +405,7 @@ direct; to conduct, either in person, or in such manner as shall
 be prescribed by law, all lutercotirso with other and foreign  
 .States; and during die recess of the Legislature, to fill, pro tem
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022201:0182/pct:61.421401975068804,65.42755344418052,18.050833738060547,2.7790973871733966/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022201:0182/pct:61.411460019423764,65.41978387364921,18.053307434984355,2.782725725369117/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -425,7 +425,7 @@ direct; to conduct, either in person, or in such maimer as shall
 be preserilied by law, all intercourse with other and foreign  
 States; and during the recess of the Legislature, to fill, pro tern
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022301:0186/pct:61.61862888780329,64.75964391691394,18.156652011073117,2.8130563798219583/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022301:0186/pct:61.608596548355585,64.75195822454307,18.159122978400088,2.8166785346942005/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -443,7 +443,7 @@ cept where the prosecution shall have been canted on by the
 House of Delegatus, or tho law shall otherwise particularly  
 direct; to couduct, either m person, or in auch manner aa shhi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022501:0194/pct:78.87896019496344,25.874455305617712,18.115353371242893,1.8372394299846897/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022501:0194/pct:78.866146848603,25.871408384361754,18.11782542776695,1.840948343539017/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -464,7 +464,7 @@ s*n, *r in such ma*ner as shsll be prescnbed
 by law, all intercourse with other and foreign  
 states and during the recess oftbe legislature
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1830022501:0253/pct:61.67447805709416,30.728733721252425,17.70345121431615,3.837628151842616/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1830022501:0253/pct:61.66134185303515,30.724477074387035,17.70500532481363,3.8405596342983794/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -483,7 +483,7 @@ House of Delegates, or the law shall otherwise particulatly
 direct; to conduct, eiiliet in person, or in such manner a* shall  
 be prescribed by law, all intercourse with other and foreiu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030301:0214/pct:78.74654976457217,25.94658753709199,18.00616983276506,2.2908011869436202/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030301:0214/pct:78.73376623376623,25.943508188939,18.00865800865801,2.29448532320595/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -503,7 +503,7 @@ House of Delegates, or tho law shall otherwise particular^
 direct, to conduct, either in jterson, or in such manner as shad  
 be prescribed by law, all intercourse with other and foreig
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030501:0222/pct:79.2671009771987,25.243525778094558,18.192182410423452,2.77975766215253/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030501:0222/pct:79.25419312815502,25.24052737854852,18.19464799435488,2.7833867838618995/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -522,7 +522,7 @@ been carried on by the ilouse of Delegates, or
 the law shall otherwise particularly direct.&quot;?  
 The Governor has the power of pardoning, to b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1846011301:0467/pct:28.43380528390016,19.871973281380463,13.691431907750694,2.170887837461731/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1846011301:0467/pct:28.43380528390016,19.878158147014258,13.70602831703401,2.173980270278628/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -542,7 +542,7 @@ bv the House of Delegates, or the law shaU
 otherwise particularly direct. rius scctn i.  
 nranis to the Governor the lull power to gram i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1846012901:0488/pct:85.08196721311475,34.86767485822306,13.62146050670641,2.608695652173913/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1846012901:0488/pct:85.0869349230005,34.873976055450534,13.631395926477893,2.608695652173913/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -586,7 +586,7 @@ j or commute the punishment, except when the prosecution
 j law shall otherwise particulaily direct; to conJuct, either in  
 person or in such other manner uu shall be prescribed b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851071501:0348/pct:51.634373613370805,55.11780610274237,15.900014790711433,2.182309772112785/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851071501:0348/pct:51.64423408765962,55.12424359469551,15.89015431642262,2.182309772112785/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -618,7 +618,7 @@ mission.”
 The committee of the whole first amended  
 by striking out t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851071601:0245/pct:3.5456273764258555,35.83916083916084,12.404942965779467,8.272727272727273/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851071601:0245/pct:3.545290371637677,35.83665477938606,12.40693216741121,8.274479640118406/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -636,7 +636,7 @@ the prosecution has been carried on by the
 House of Delegates, or the law shall other­  
 wise particularly direct, to grant reprieve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851080701:0181/pct:58.83910001890717,172.48378911756413,45.62299111363207,7.626162954609529/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851080701:0181/pct:14.706994328922494,43.11486962649753,11.403591682419659,1.9062720225510923/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -653,7 +653,7 @@ be prescribed by law; and except when the prose­
 cution has been carried on by the House of Dele­  
 gates, or the law shall otherwise particularly direct
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851081401:0188/pct:242.34816318995755,225.43401552575864,44.69263429942773,4.6436132674664785/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851081401:0188/pct:60.57585825027685,56.350550381033024,11.17109634551495,1.1607394863110359/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -671,7 +671,7 @@ when the prosecution has been carried «&gt;n by the
 House of Delegates, or the law shall otherwise  
 particularly direct, to giant reprieves and par
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851081901:0364/pct:14.827384435342305,19.849726775956285,15.564657694558221,1.7622950819672132/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851081901:0364/pct:14.825649426632342,19.848371012908956,15.566736874951244,1.764451426359766/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -692,7 +692,7 @@ ention has been carried on by the House of
 Delegates, or the law shall otherwise partien­  
 larly direct, to grant reprieves and pardon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_johnhenry_ver01:data:sn84024738:00280778059:1861121701:0580/pct:165.91792656587472,32.509644458346365,37.88336933045356,8.028359920759044/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_johnhenry_ver01:data:sn84024738:00280778059:1861121701:0580/pct:55.305975521958246,10.836548152782122,12.627789776817854,2.6761199735863483/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -712,7 +712,7 @@ when the prosecution has been carried on by the
 House of Delegate?, or the law shall otherwise par­  
 ticularly direct, to grant reprieves and pardons afte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762465:1862011401:0017/pct:30.760203416351544,64.24166506070534,12.622245403572826,2.2354981692040856/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762465:1862011401:0017/pct:30.760203416351544,64.24808890601915,12.630938410049115,2.2322862465471833/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -730,7 +730,7 @@ law; and except when the prosecution has
 been carried on by the House of Delegates, or  
 the law shall ot&#x27;nerwiso particularly direct, t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664394:1862022501:0312/pct:61.86294078509648,92.42573283493999,11.803060545575516,1.9476686995868582/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664394:1862022501:0312/pct:61.87181193169217,92.42573283493999,11.803060545575516,1.9542265066561741/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -765,7 +765,7 @@ line &quot;or when in his opinion the interest
 of the Commonwealth may require it.&quot;  
 Lost
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741947:1868020501:0131/pct:92.50503693754197,209.82433311646065,40.79247817327065,30.012082907333394/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741947:1868020501:0131/pct:30.835012312513992,69.94144437215354,13.597492724423551,10.004027635777799/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

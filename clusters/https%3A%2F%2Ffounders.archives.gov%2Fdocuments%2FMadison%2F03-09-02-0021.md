@@ -48,7 +48,7 @@ taken for carrying into elTeft, the treaty between
 the United States and the Dey and Regency of  
 Algiers; and alfo, whether any, and what fur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1807012901:0334/pct:5.111762550384756,5.713933111193385,17.845364602418467,8.922621251388374/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1807012901:0334/pct:5.110826158637113,5.713228035538006,17.84820174635159,8.925633432050017/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -99,7 +99,7 @@ requisite for a vigorous prosecution of it to a
 successful issue.  
 ... , _ JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1815030801:0388/pct:59.920491507047345,66.60096094616237,17.130466208890496,14.672908710114575/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1815030801:0388/pct:59.9096657633243,66.59275683665928,17.133393556157785,14.675207358134188/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -140,7 +140,7 @@ sions as may be requisite for a vigorous
 prosecution of it to a successful issue.  
 JAMBS MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184285:1815030801:0069/pct:38.86486486486486,28.76856508010759,16.756756756756758,14.536311542509647/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184285:1815030801:0069/pct:38.85786344802738,28.765201122544433,16.759742989251187,14.5385095104459/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -255,7 +255,7 @@ provisions as may be requisite for a vigorous prose­
 cution of it to a successtul issue.  
 Feb. 23, 1815. JAMES MADISON. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1815031501:0043/pct:4.345284489477787,46.71931250725816,21.72642244738893,13.192428289397283/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1815031501:0043/pct:4.358274876591323,46.72705454263926,21.72642244738893,13.188557271706731/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -482,7 +482,7 @@ provisions as muy be requisite for a vigorous
 prosccution of it to a successful issue.  
 . vAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1815032101:0258/pct:8.976400752859417,55.139355603874286,16.73664398436369,25.50899387230678/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1815032101:0258/pct:8.981226774769558,55.14594452131515,16.73664398436369,25.50899387230678/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -553,7 +553,7 @@ the Treaty ol Peace and Amify between
 the United States and the Dey and Re­  
 gency of Algiers, and concluded at Algier
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn83026170:00414216316:1822022701:0204/pct:62.50366891693572,78.75427409666389,17.09715292045788,7.8181314111449955/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn83026170:00414216316:1822022701:0204/pct:62.494497432135,78.7469968582517,17.099535338713622,7.820489127086798/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -590,7 +590,7 @@ llgiers, and of ?u?A provisions as may be requisite for a
 rigorous prosecution of it Is a successful issue.&quot;  
 J
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846051601:0523/pct:-0.515625,86.78474114441417,15.21875,13.301956898687143/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846051601:0523/pct:-0.515625,86.79299810090001,15.239583333333334,13.301956898687143/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -629,7 +629,7 @@ Algiers, and of such provisions as may be requi­
 site for a vigorous prosecution of it to a success­  
 ful issue.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1846052601:0626/pct:59.096385542168676,54.362735759192226,13.855421686746988,10.068584492284245/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1846052601:0626/pct:59.096385542168676,54.36591096716835,13.860441767068274,10.07493490823649/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -678,7 +678,7 @@ can merchants in Spain, with the task of endeavor&quot;
 ing to procure the liberation of the eleven or twelve  
 of our citizens captives in Algiers, for whom he wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661617:1854100701:0299/pct:19.522370881887497,20.422379478107032,15.983311753704504,10.183547103051747/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661617:1854100701:0299/pct:19.522370881887497,20.422379478107032,16.00249364599818,10.187232787851983/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

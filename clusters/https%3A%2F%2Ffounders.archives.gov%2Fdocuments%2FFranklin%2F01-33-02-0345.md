@@ -567,7 +567,7 @@ and we would not hear.&quot; It was years after the
 act. No voice from the skies had broken upon  
 them recalling their guilt. The sense of it wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530327:1850122801:0814/pct:155.06294471811714,63.20297951582868,47.69202700237183,12.004965859714464/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530327:1850122801:0814/pct:51.68764823937238,21.067659838609558,15.897342334123943,4.001655286571488/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -702,7 +702,7 @@ our brother; in that wo saw the anguish of his
 soul, when he besought us, and we would not hear;  
 therefore is this&#x27; distress cuius upon us.&quot; Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn83035487:00211100497:1857021401:0543/pct:45.22270114942529,45.54536745586424,18.121408045977013,5.8710825236075/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn83035487:00211100497:1857021401:0543/pct:33.94429469901168,34.15902559189818,13.602875112309075,4.406733269467634/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -866,7 +866,7 @@ brother, in that we saw the anguish of his soul,
 when he besought us, and we would not hear;  
 therefore is this distress come upon us.&quot; Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_american_ver01:data:sn82014760:00237288816:1860121001:0059/pct:17.350746268656717,228.6508074318458,56.90298507462686,8.47369334953985/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_american_ver01:data:sn82014760:00237288816:1860121001:0059/pct:4.33971068595427,57.16270185796145,14.232384507699487,2.1184233373849626/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -946,7 +946,7 @@ I tbe anguish of his soul, when he besought us,
 ! and we would not hear him; therefore is this  
 distress come upon us!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1861092701:0004/pct:22.974243278811805,48.29479768786127,10.20868584320361,3.0635838150289016/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1861092701:0004/pct:22.983643542019177,48.302023121387286,10.213385974807295,3.05635838150289/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1000,7 +1000,7 @@ in that we saw the anguish of his soul, when
 he besought us and we would not hear;  
 therefore is this distress come upon us.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:0028077764A:1862050901:0310/pct:224.27107959022854,215.2085529287758,50.8274231678487,8.071073633488933/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:0028077764A:1862050901:0310/pct:56.07881773399015,53.80213823219395,12.70935960591133,2.017768408372233/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1133,7 +1133,7 @@ cerning our brother, in that we saw the anguish
 ofhis soul, when he besought us, and we would not  
 hear; therefore is this distress come upon us.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_frontier_ver01:data:sn86053571:00237288567:1868021001:0171/pct:72.44796828543112,61.71341925701289,50.74331020812686,5.837755875663381/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_frontier_ver01:data:sn86053571:00237288567:1868021001:0171/pct:18.11648079306072,15.428354814253222,12.688971499380422,1.4594389689158453/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1154,7 +1154,7 @@ Joseph, “in that^^saw the anguish of his
 soul when he bcsJBt us, and we would not  
 hear: therefore is tMr distress ooiue upon ua.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn89053987:00414184406:1868032501:0084/pct:44.42310154949417,22.040243331773514,11.986169804072224,3.5002339728591485/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn89053987:00414184406:1868032501:0084/pct:44.41741357234315,22.038180797304886,11.988903115663678,3.5030257657994883/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1737,7 +1737,7 @@ anguish of his soul, when he besought
 us, and we would not hear; therefore is  
 this distress come upon us.” To huma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_gardevoir_ver02:data:sn87057928:00340584405:1896092401:0764/pct:89.28817056396149,25.36125397991673,15.612104539202202,3.0982120989468527/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_gardevoir_ver02:data:sn87057928:00340584405:1896092401:0764/pct:78.13549972418635,22.190870776484033,13.650268291459806,2.7144796056861202/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1758,7 +1758,7 @@ therefore is this distress come upon us.”
 —Gex. xlii, 21.  
 rpHE Btory of Joseph and hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn90053049:00332897913:1897062601:1133/pct:3.1006240249609984,9.450738563028825,12.714508580343214,4.302308905779435/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn90053049:00332897913:1897062601:1133/pct:3.1000194969779686,9.44938342414683,12.716903879898616,4.305276742185259/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

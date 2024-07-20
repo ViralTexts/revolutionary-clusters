@@ -327,7 +327,7 @@ noble woman. The church a alls here upon the
 right of the pulpit bear ample testimony of the  
 virtues of the deceased. The inscription is from th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661368:1849102501:0478/pct:18.148549742477638,32.10367821036782,15.573326104635402,12.862981286298128/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661368:1849102501:0478/pct:18.15758561489112,32.10726321072632,15.573326104635402,12.866566286656628/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -364,7 +364,7 @@ little. Lise stagnates withoul action. I could
 never bear merely to vegitate  
 Wate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279559836:1850011701:0135/pct:63.74207188160676,353.89177168272795,59.43446088794926,27.74277242401779/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279559836:1850011701:0135/pct:15.931307793923382,88.45654993514916,14.854689564068693,6.934408004446915/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -422,7 +422,7 @@ He that baa none, must make them, or be wretched.
 Cares an employments; and wiihout employ /,. ,  
 The snul is on a rack ; the rack of rest 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1851091301:0768/pct:66.5934065934066,58.81158490969328,14.07967032967033,3.997007587902105/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1851091301:0768/pct:66.5934065934066,58.81870970040255,14.084249084249084,4.000569983256741/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -469,7 +469,7 @@ He that has none must make them, or be wretched.
 Cares are employments, and without employ  
 The soul is on a rack, the rack of rest
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517016561:1853122301:0068/pct:57.200538358008075,32.77439024390244,12.298115746971737,5.157520325203252/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517016561:1853122301:0068/pct:57.19091673675357,32.770227359329354,12.300252312867956,5.160040645243236/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -537,7 +537,7 @@ an a helpmate for man, and she who
 fails in these duties docs not answer the  
 end of her creation.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_lyonsport_ver02:data:sn84022673:00200298433:1871102001:0039/pct:74.49056603773585,31.364124597207304,16.81132075471698,6.511815252416756/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_lyonsport_ver02:data:sn84022673:00200298433:1871102001:0039/pct:55.89956579195771,23.523093447905477,12.629790447423069,4.887218045112782/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

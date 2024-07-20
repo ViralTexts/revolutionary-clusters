@@ -250,7 +250,7 @@ ton sat before the
 artist who designed  
 the dies. This is ver
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_ida_ver01:data:sn85033306:00296020461:1886031201:0044/pct:8.76865671641791,45.87565576515236,14.112473347547974,25.27067753097444/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_ida_ver01:data:sn85033306:00296020461:1886031201:0044/pct:6.58578856152513,34.412322803884365,10.585255299293427,18.95300814823083/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -289,7 +289,7 @@ purpose, and that
 Martha Washing­  
 ton sat before th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588307:1886031301:0090/pct:7.172717271727173,74.9434644957033,17.733773377337734,17.669229609528116/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588307:1886031301:0090/pct:5.558713197681028,58.089266240847486,13.749005342730475,13.689827075868516/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -328,7 +328,7 @@ mnelted up for that
 h3farthe Wehin&#x27;g­  
 4ton sat before th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_lila_ver02:data:sn88064176:00211100850:1886060501:0094/pct:49.83660130718954,61.26277474450511,15.257352941176471,13.173736525269495/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_lila_ver02:data:sn88064176:00211100850:1886060501:0094/pct:49.82642434143353,61.26277474450511,15.254237288135593,13.173736525269495/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -362,7 +362,7 @@ dimes had been completed, the &quot;want of
 small coins in circulation calling the first  
 attention to them.” Before the end of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_fletcher_ver01:data:sn86063034:00414182264:1899031901:0851/pct:28.335889570552148,83.2657353162085,12.710889570552148,1.7725702268289019/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_fletcher_ver01:data:sn86063034:00414182264:1899031901:0851/pct:28.348670756646218,83.27074257673627,12.710889570552148,1.7725702268289019/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -380,7 +380,7 @@ half dimes had been completed, the &quot;want
 of small coins in circulation calling the  
 first attention to them.&quot; Before the end o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_franklin_ver01:data:sn86063615:00211109191:1899040201:0608/pct:58.29510703363914,88.99635548079618,16.80045871559633,1.934398654331371/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_franklin_ver01:data:sn86063615:00211109191:1899040201:0608/pct:43.747609942638626,66.75077095598542,12.60038240917782,1.457807681525091/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -416,7 +416,7 @@ half dollars were coined and in the
 next year th? first gold eagles and half  
 eagles were produced. Up to the yea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_jayhawk_ver01:data:sn97065832:00415624839:1899051201:0834/pct:19.525310587798998,16.875589702116187,19.673651029111813,33.279417711281845/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_jayhawk_ver01:data:sn97065832:00415624839:1899051201:0834/pct:19.539217504172075,16.878959428494408,19.67828666790284,33.292896616794714/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -438,7 +438,7 @@ em.&quot; Before the end of the first yea#
 In 1794 the first silver dollars and  
 half dollars were coined and in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_kia_ver02:data:sn90060625:00212478908:1899061001:0111/pct:49.74326059050064,16.468875951634573,13.671373555840821,35.244066278549035/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_kia_ver02:data:sn90060625:00212478908:1899061001:0111/pct:49.74326059050064,16.468875951634573,13.676722293538726,35.251530079116286/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

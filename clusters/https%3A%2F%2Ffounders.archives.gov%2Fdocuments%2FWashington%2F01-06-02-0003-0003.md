@@ -342,7 +342,7 @@ t&#x27;tntv; the line of artillery, hovfe and
 infantry, appeared in the mull perfect  
 ordei : the grcateft silence was observed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794100901:0003/pct:74.53716125570163,12.429659053293612,16.742688489401665,23.320092684541542/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794100901:0003/pct:74.53716125570163,12.433796756041046,16.76281191306681,23.320092684541542/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -409,7 +409,7 @@ societies afiiimed the
 tone of condemna­  
 tion.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794121601:0003/pct:23.532508554882863,17.752550180980585,7.765201368781258,11.105626850937808/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794121601:0003/pct:23.532508554882863,17.76077657124054,7.7783627270334295,11.097400460677855/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -451,7 +451,7 @@ in the following extradts.
 &quot; createdfocietiesa.fumed the toneof coo­  
 &quot; demnation.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1795012301:0002/pct:44.41980783444198,31.148867313915858,15.151515151515152,11.877022653721683/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1795012301:0002/pct:44.43212613944321,31.152912621359224,15.163833456516384,11.885113268608414/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -483,7 +483,7 @@ terviews to which we were admitted,
 this ridicuious ftory Wis believed by­  
 many in the army.during the whol
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807033001:0002/pct:78.80411487355336,28.17016634851377,18.452636090870126,12.77611126261249/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807033001:0002/pct:78.80411487355336,28.17016634851377,18.466923846263754,12.780656303972366/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -682,7 +682,7 @@ officers employed. From a belief that, by a more i
 al concert, their operation might be defcated, certain  
 greated soctelies assumed the tone of condemnatio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530303:1850030201:0461/pct:44.59919028340081,215.99112253241444,41.506072874493924,9.917065763345404/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530303:1850030201:0461/pct:14.866396761133604,71.99704084413814,13.835357624831309,3.3056885877818014/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -709,7 +709,7 @@ Under the Insurrection in 1794, in Western
 Pennsylvania, (commonly called the Whiskey In­  
 surrection,) Philip Vizol and John Mitchell wer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1851020101:0518/pct:82.8086164043082,75.74358423708794,15.810549571941452,2.2119617738644903/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1851020101:0518/pct:82.81321918438736,75.75074268943054,15.810549571941452,2.2119617738644903/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1444,7 +1444,7 @@ the civil magistrate, and let it ever be
 our pride and our glory to leave the  
 sacred deposits there inviolate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_kryptonite_ver01:data:sn86069180:00100481790:1899022501:0163/pct:42.66618497109827,100.05530973451327,16.329479768786126,3.7610619469026547/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_kryptonite_ver01:data:sn86069180:00100481790:1899022501:0163/pct:32.02023852547886,75.04148230088495,12.251535959522949,2.8207964601769913/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

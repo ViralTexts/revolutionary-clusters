@@ -113,7 +113,7 @@ A’-nv trout: and Champajpiy, which it would
 K* iinpvoper to make public.  
 t ii: JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1807122901:0295/pct:7.387289516567083,10.699848408287014,17.653449212384572,14.135927235977766/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1807122901:0295/pct:7.385952208544533,10.698496905393457,17.656287714216752,14.138352069386553/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -151,7 +151,7 @@ Armstrong and Champagny, which it
 would be improper to make public.  
 TH: JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807122901:0435/pct:41.58023760135772,39.10095429432446,17.49952856873468,13.711702661978904/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807122901:0435/pct:41.57239819004525,39.09604519774011,17.502513826043238,13.714166143544675/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -186,7 +186,7 @@ and Chaiiipngny, which it would be improper to
 make publitk.  
 TH : JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807123001:0903/pct:29.374201787994892,2.3102839724049415,45.08301404853129,94.22429006898764/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807123001:0903/pct:29.366700715015323,2.3099133782483157,45.077885597548516,94.21318575553417/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -236,7 +236,7 @@ the pie sent crisis.
 Armstrong and Chartipagny, wi.ich it  
 would be improper to make public
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808010401:0321/pct:24.11060529421683,10.367280496489979,17.70359129994942,17.56028080170923/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808010401:0321/pct:24.106540795684424,10.366225839267548,17.704821308159136,17.561037639877924/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -275,7 +275,7 @@ ArMmsTro¥G and ,Cmamracny, which it
 would be Fmpmpcr to make public.  
 ‘ TH : JEFFERSQN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808010501:0002/pct:44.86634264884569,16.929369513168396,15.826245443499392,8.928571428571429/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808010501:0002/pct:44.8714054272985,16.936020218143124,15.831308221952208,8.925246076084065/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -359,7 +359,7 @@ M I ask a return of the letters of Messrs. Arm­
 strong and Champagny which it would be improper  
 to make publick.” &lt;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808010801:0920/pct:47.998953701281714,60.02294705785937,21.78917080826576,3.9665628585477792/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808010801:0920/pct:47.98640167364017,60.01311045558833,21.790010460251047,3.9700098328416913/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -493,7 +493,7 @@ threatened on the high seas and elsewhere,
 from the belligerent- powers of Europe ;&quot;  
 and concludes with recommending an em
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808091601:0360/pct:6.665647454517658,41.854281155823436,22.748815165876778,5.690480411274597/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808091601:0360/pct:6.664628553959034,41.850571656474344,22.75043309895037,5.6929303672191205/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -527,7 +527,7 @@ dom will c the necessity of
 making c\cry preparation for what­  
 ever events may grow out of ti
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808122801:0002/pct:42.64734677893088,70.64255983350677,16.898374779714118,13.735691987513007/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808122801:0002/pct:42.64734677893088,70.64689559486646,16.898374779714118,13.744363510232397/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -560,7 +560,7 @@ Stales. But, says the gentleman, no papers
 were communicated respecting these orders  
 of council, and therefore the gentleman in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809010701:0305/pct:76.55035255830772,71.77836678026,17.2482372084614,10.968067651142244/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809010701:0305/pct:76.53651482284889,71.76930843008581,17.25114485418173,10.970890122833586/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -582,7 +582,7 @@ essential resources,&quot; are lite sole
 causes enumerated as exphmato  
 that policy. At the court of Grea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809012701:0001/pct:76.71979019568288,33.276584599266634,16.80451886221505,5.460974332111053/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809012701:0001/pct:76.71979019568288,33.28531517373843,16.80451886221505,5.4653396193469534/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -622,7 +622,7 @@ Armsisrrong- and Chumpzignssvsi, which it would
 .- be improper to make public.  
 &#x27; _ &#x27;sl&#x27;IOMAS JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216134:1811052901:0482/pct:51.829167356397946,37.254320987654324,22.380400595927828,13.501234567901234/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216134:1811052901:0482/pct:51.82058920887123,37.25064191190994,22.382213395123028,13.503193100269932/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -655,7 +655,7 @@ Ghnafpagny, which it would be improper tc
 ..___• public. .■■■ &#x27; ■■  
 * ’ .&lt;/!**?*■« A. v TH: JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811053101:0545/pct:6.220686250308566,19.280038916815307,22.932609232288325,12.161504783525215/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811053101:0545/pct:6.219151036525172,19.2769130998703,22.933119447186574,12.163586251621272/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -737,7 +737,7 @@ Armstrong and Champagny, which it would
 be improper to make public.  
 TH : JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1811061401:0099/pct:48.47426042394596,30.621664503101112,21.94269741439553,17.726813789124478/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1811061401:0099/pct:48.46297158826269,30.617248341505626,21.943409408476946,17.727862705509086/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -782,7 +782,7 @@ Armstrong and Champagny, which it would
 be improper to make public.  
 * TH. JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812052101:0464/pct:26.73557543967911,42.63600572655691,23.41869793273681,15.023264137437366/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812052101:0464/pct:26.731451488508405,42.63219110673705,23.4202272610417,15.024902329187915/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -842,7 +842,7 @@ the United Stales.— I hen- wisdom will also see the
 necessity ol making every preparation for whatever  
 events may grow out ol rIi.. present c,isi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183979:1823091901:0161/pct:33.77893707205739,46.216572730543234,15.112487773068144,5.828036934884278/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183979:1823091901:0161/pct:33.77343113284434,46.21103117505995,15.115457756044552,5.831334932054356/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -896,7 +896,7 @@ slrong and Chumpnguy, which it would be improper
 to make public.  
 TH: JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183980:1824090701:0142/pct:36.83698296836983,61.51419558359621,15.150040551500405,8.881339480708565/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183980:1824090701:0142/pct:36.831008757703536,61.50673298556351,15.152989512379717,8.884305875692506/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -922,7 +922,7 @@ gro w out of the present crisis.
 strong and Champagoy, wl.i. l, U would be imnro­  
 per to make public. TH: JEFFERSO
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184522:1824092101:0276/pct:50.483436360754474,78.06942229854042,14.994452369630686,6.402551208144241/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184522:1824092101:0276/pct:50.47543581616482,78.0598479273976,14.997358689910195,6.405853977597907/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -952,7 +952,7 @@ St.lies. Hut, says the gentleman, no papers were
 communicated respecting these order, of t-ou-icil  
 ai d therefore the gentleman infers that not ppre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183992:1826010701:0274/pct:83.92541392059154,62.71064897812836,14.901141295611637,7.804469941436596/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183992:1826010701:0274/pct:83.91192542590807,62.70315487571702,14.904103717989928,7.807520713830465/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

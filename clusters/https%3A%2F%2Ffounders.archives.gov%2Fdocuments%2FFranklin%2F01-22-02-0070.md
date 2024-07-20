@@ -524,7 +524,7 @@ late acts of parliament for restraining the commerce
 and fisheries, and disallowing the laws and charters  
 of any of the colonies shall coittinue unrepealed.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022846:1858111301:0366/pct:28.9541639767592,64.82180788293604,19.641704325371208,14.550389426481/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022846:1858111301:0366/pct:21.734216050379462,48.61930611281567,14.742451154529308,10.915742270474393/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -300,7 +300,7 @@ at y plaintMf or plaintiff’s who shall sue up.
   
 v I -UU11 ur.uo, &gt;»ur may ne put m suit an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811032801:0113/pct:58.32716506291636,20.36327690596812,17.2279792746114,12.96181885580131/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811032801:0113/pct:58.3163737280296,20.360761057573512,17.23095898859081,12.964335721933942/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -341,7 +341,7 @@ fore the Governor for the time being, or before
 the court of the County of Henrico, for the true  
 and faithful performance of the duties of his of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1811040901:0435/pct:41.04304340060725,47.53619661759338,17.36024290051795,13.991969826012896/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1811040901:0435/pct:41.035714285714285,47.530413625304135,17.363095238095237,13.994322789943228/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -392,7 +392,7 @@ costs by action of debt or information, in
 any court ct record—and moreover such  
 master shall be Lable to the suit ot th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025001:00414216328:1822101701:0036/pct:7.263957907044723,43.53284413402882,18.401052323881906,3.660153832552383/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025001:00414216328:1822101701:0036/pct:7.262896390472015,43.52899575671853,18.403234448828485,3.662776991984913/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -656,7 +656,7 @@ from time&#x27; to time until the whole penalty shall be
 recovered.  
 5. And be it Jurther enacted, That the Agen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197978:1841021701:0032/pct:49.35297356828194,86.95453506968244,19.89262114537445,4.15809915467215/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197978:1841021701:0032/pct:37.02326862178163,65.21590130226183,14.924962136858047,3.1185743660041125/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -889,7 +889,7 @@ cute the said office ot sheriff during his con­
 tinuance therein, then the alwve obligation  
 to be void, otherwise to remain in full forc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn85042148:00296022676:1868072201:0552/pct:18.219076005961252,15.541868693487093,16.821907600596123,12.069191455903551/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn85042148:00296022676:1868072201:0552/pct:13.67871785314946,11.662953741318306,12.616474096161014,9.055169702529158/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -967,7 +967,7 @@ fully execute the said office of sheriff during his con­
 tinuance therein, then the above obligation to  
 be void, otherwise to remain in full force and effect 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84020712:00295879208:1868072801:0538/pct:47.15435868961688,36.895541134603306,20.016657412548586,12.151978229014025/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84020712:00295879208:1868072801:0538/pct:35.38397444799333,27.674272555997486,15.025690876267186,9.116600376805527/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1047,7 +1047,7 @@ Orange and the other moiety to the informer,
 to be recovered with oost bv action of debt or  
 information, in any court of record withiu thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_fezza_ver01:data:sn85025007:00415663699:1872082601:0212/pct:2.1023513139695713,33.626977360992704,15.767634854771785,4.793028322440088/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_fezza_ver01:data:sn85025007:00415663699:1872082601:0212/pct:2.1023513139695713,33.626977360992704,15.767634854771785,4.799343247766095/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1095,7 +1095,7 @@ moned, empannelcd and returned, good
 and lawful men for jurors, able and suffi­  
 cient, and not suspected or procured, as i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685282:1876060801:0297/pct:27.744289340101524,35.03301540719002,10.70748730964467,3.4238200048911716/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685282:1876060801:0297/pct:27.73988897700238,35.028732118840935,10.70975416336241,3.426458002200758/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1162,7 +1162,7 @@ sioners. That of the county clerk is
 required to be from $2,000 to 810,000  
 the bond of justice of the peace is fixe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_kilo_ver02:data:sn84022109:00211101866:1882121301:0662/pct:69.66911764705883,218.2739402128019,45.77205882352941,30.332714068569498/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_kilo_ver02:data:sn84022109:00211101866:1882121301:0662/pct:17.42929409059554,54.568485053200476,11.450908254771212,7.5831785171423745/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

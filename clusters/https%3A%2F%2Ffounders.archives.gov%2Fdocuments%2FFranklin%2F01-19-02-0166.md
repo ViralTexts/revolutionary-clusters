@@ -243,7 +243,7 @@ srubly lncreases with quickness of puise.
 \ - B FRANKLIN  
 ® Dr Franklin’s Son, to whom 4he fust pars o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1819090101:0963/pct:29.30214115781126,25.74023829184853,21.590007930214117,28.05237702017223/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1819090101:0963/pct:29.31535818133756,25.74810270929181,21.576790906687815,28.05237702017223/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -370,7 +370,7 @@ to one hundred tieats in a minute, couuieu oy a
 second watch: andI suppo-e the warmth&quot; gen­  
 erally increases with quickness of pulse.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn86053954:0023728236A:1843110201:0005/pct:50.73891625615764,83.24996950103696,24.313863476425052,28.754422349640112/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn86053954:0023728236A:1843110201:0005/pct:38.067581837381205,62.437477125777725,18.250615980288632,21.56886665853361/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -498,7 +498,7 @@ generally increases with the quickness of pulse.
 B. FRANKLIN.  
 TO WILLIAM FRANKLIN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_fernandez_ver01:data:sn83030272:00175044796:1888010101:0312/pct:226.29144178874324,131.77966101694915,50.57825751734772,61.56174334140436/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_fernandez_ver01:data:sn83030272:00175044796:1888010101:0312/pct:56.60559305689489,32.94491525423729,12.651880424300868,15.39043583535109/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -695,7 +695,7 @@ and I suppose tho warmth generally
 increases with quickness of pulse.&quot;  
 Youth&#x27;s Coinnnnio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn87078321:00280776610:1892102601:0210/pct:85.28301886792453,54.31791811702304,18.985849056603772,19.592242665340628/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn87078321:00280776610:1892102601:0210/pct:63.99244926852289,40.74258246311951,14.252005663048608,14.702469749709929/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -724,7 +724,7 @@ swings quic &gt;i
   
 of it I have in fort
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_alpha_ver01:data:sn86089174:00175036015:1892103101:0645/pct:8.615702479338843,112.9182029222996,44.31818181818182,8.50744230506623/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_alpha_ver01:data:sn86089174:00175036015:1892103101:0645/pct:6.4709530700847635,84.6886521917247,33.26442009510027,6.390823433019254/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -764,7 +764,7 @@ and 1 suppose the warmth generally
 increases with quickness of pulse.&quot;—  
 Youth&#x27;s Companion
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kensington_ver02:data:sn88065721:00279521705:1892110401:0587/pct:69.62998558385392,41.211835435577036,12.702226493672914,13.320759165389603/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kensington_ver02:data:sn88065721:00279521705:1892110401:0587/pct:69.6419990389236,41.211835435577036,12.694217523626461,13.338441589060475/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -803,7 +803,7 @@ second watch, and I suppose the
 warmth generally increases with  
 quickness of pulse.&quot; Youth&#x27;sCompanion.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jimmy_ver02:data:sn89058007:00296020473:1892110401:0542/pct:59.236186348862404,111.04767945871657,15.70964247020585,17.380272756105295/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jimmy_ver02:data:sn89058007:00296020473:1892110401:0542/pct:44.43992956792632,83.28575959403743,11.783827712312068,13.04577650914473/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -888,7 +888,7 @@ counted by a second watch, and I suppose
 the warmth generally increases with  
 quickness of pulse.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_isahakyan_ver01:data:sn83030193:00206535404:1892110801:0510/pct:58.76993166287016,170.55374592833877,46.01366742596811,68.72964169381108/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_isahakyan_ver01:data:sn83030193:00206535404:1892110801:0510/pct:14.698063045955184,42.63843648208469,11.507785795670339,17.18241042345277/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -929,7 +929,7 @@ and I suppose the warmth generally
 increases with quickness of pulse.&quot;  
 Youth&#x27;s Companion
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_fisher_ver01:data:sn91068305:0029602420A:1892111101:0476/pct:31.75872093023256,44.15364712906757,19.2296511627907,19.773111752413175/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_fisher_ver01:data:sn91068305:0029602420A:1892111101:0476/pct:23.82613751998837,33.11772315653299,14.435237679895334,14.82734600457757/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1003,7 +1003,7 @@ and I suppose the warmth generally
 increases with quickness of pulse.&quot;—  
 Youth&#x27;s Companion-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ibo_ver01:data:sn91059394:00383347750:1892120701:0365/pct:16.527355623100306,43.651729559748425,10.663627152988855,12.32311320754717/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ibo_ver01:data:sn91059394:00383347750:1892120701:0365/pct:16.527355623100306,43.658280922431864,10.680513340087808,12.32638888888889/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1045,7 +1045,7 @@ quickness of pulse.”—Youth’s Com­
 panion.  
 V ■
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_abolitionist_ver02:data:sn86074033:00199916294:1892121701:0197/pct:45.10532837670384,94.68599033816425,18.442792234613798,19.82097186700767/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_abolitionist_ver02:data:sn86074033:00199916294:1892121701:0197/pct:34.962385957424104,73.38863602995156,14.2933361788401,15.361180443400382/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1085,7 +1085,7 @@ and 1 suppose the warmth generally
 increases with quickness of pulse.”-  
 Youth’s Companion
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_hartville_ver01:data:sn90051455:00514150515:1893010501:0797/pct:29.432416617905208,31.246175810728126,15.272088940901112,14.378951662247603/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_hartville_ver01:data:sn90051455:00514150515:1893010501:0797/pct:29.439730836746634,31.246175810728126,15.272088940901112,14.399347338364267/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1182,7 +1182,7 @@ minute, counted by a second watch
 and I suppose the warmth goneral  
 increases with quickness of pulse.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_james_ver01:data:sn83045555:00206539781:1893012501:0509/pct:65.28497409326425,240.75096631695197,36.917098445595855,39.315295416896745/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_james_ver01:data:sn83045555:00206539781:1893012501:0509/pct:21.77858439201452,80.25032210565065,12.31527093596059,13.105098472298915/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1221,7 +1221,7 @@ and I suppose the warmth generaliy
 increases with quickness of pulse.&quot;  
 Youth&#x27;s Companion
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_blackwidow_ver01:data:sn84021913:00211105124:1893031101:0321/pct:126.75635276532138,126.7605633802817,47.309417040358746,51.84182015167931/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_blackwidow_ver01:data:sn84021913:00211105124:1893031101:0321/pct:31.706861095531874,31.690140845070424,11.833987661245093,12.960455037919827/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

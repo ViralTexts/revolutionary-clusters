@@ -106,7 +106,7 @@ As these enumerated a.tides constitute ;
 the great mass of the exports from the U. !  
 States to France, the mind ic n-.r-.ir--.il., .. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1811010501:0304/pct:41.198237885462554,11.658595641646489,34.519823788546255,82.4818401937046/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1811010501:0304/pct:41.19097956307259,11.657184360246944,34.51961475217289,82.47589073154985/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -156,7 +156,7 @@ Salt Fish, Cod fish, Hides au^.Ptllry.
 ; mass of the exports from th« United States to  
 France, the mind is naturally awakened to a suive
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811010701:0297/pct:52.61701056869653,73.84740259740259,21.615500754906893,13.53896103896104/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811010701:0297/pct:52.60377358490566,73.8354163285181,21.61635220125786,13.540821295244278/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -193,7 +193,7 @@ be substantial und extensive. ~ V
 from from your government will soon enabjeytt  
 give some satisfactory explanations ot the th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811010701:0297/pct:75.01258178158027,26.72077922077922,22.52138902868646,15.551948051948052/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811010701:0297/pct:74.99371069182389,26.71644213601688,22.52201257861635,15.553481577665963/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -221,7 +221,7 @@ seized and detained by the privlieers I* Dei^irtk v5&#x27;
 upontbe supposition that these certificatw of origin  
 were spurious and not authorised by the French go
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811010701:0297/pct:75.0880724710619,48.23051948051948,22.496225465525917,9.577922077922079/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811010701:0297/pct:75.06918238993711,48.222691121571174,22.49685534591195,9.580425255640318/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -316,7 +316,7 @@ A3 these enumciared articles con­
 stitute the great mass of ths exports  
 f.om the United States to France, the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811011101:0021/pct:57.31462925851704,45.51544473390398,17.43486973947896,12.380597940702145/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811011101:0021/pct:57.30418943533698,45.50979905730588,17.437765634486947,12.383196890763251/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -342,7 +342,7 @@ which co-operate with her own retu­
 latior.s ?  
 However sensible the United Stat 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811011101:0021/pct:75.204955365276,25.021709465326882,17.08872290034615,8.212380597940703/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811011101:0021/pct:75.19125683060109,25.018605805011163,17.091681845780208,8.215496568262632/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -368,7 +368,7 @@ the produte of the United States, as they
 {of those deérees. hi s g  
 | The teftri®ions of the Berlin an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1811011501:0010/pct:60.138866971753195,50.88809946714032,16.39577086949661,8.140911782119597/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1811011501:0010/pct:60.138866971753195,50.89138872442602,16.406291094629424,8.144201039405303/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -505,7 +505,7 @@ instructions from your government will soon
 enable you to give some satistactory expluna­  
 tions of the measures to which referunce ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1811011601:0346/pct:2.8870558375634516,8.370130507310371,21.367385786802032,6.741242272593465/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1811011601:0346/pct:2.8976311336717426,8.376672227128513,21.362098138747886,6.737971412684395/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -535,7 +535,7 @@ been seized and detained by the privateers of
 Denmark, upon the supposition that these  
 certificates of origin were spurvious and no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1811011601:0346/pct:3.013959390862944,20.76341870277696,21.46256345177665,10.950838975566677/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1811011601:0346/pct:3.024534686971235,20.7699604225951,21.457275803722503,10.957380695384817/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -677,7 +677,7 @@ As these enumerated articles constitutes
 the gre .t mass of the exports from the U.  
 States to France, the mind is naturally awak
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1811011801:0028/pct:6.530801296896711,4.806732277849094,21.977767484946735,8.429610611895592/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1811011801:0028/pct:6.5292891873118775,4.806046776953793,21.978467237786525,8.431973759269823/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -695,7 +695,7 @@ has this government, in a discussion with a,
 third power, to insist on the privilege of go­  
 ing to France .* Wnenee the inducement t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1811011801:0028/pct:6.090782769800834,45.571245186136075,22.67253358036128,2.8954500071316502/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1811011801:0028/pct:6.089372539939801,45.564746149458074,22.673072470479276,2.8986023958927554/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -732,7 +732,7 @@ faction the information, that the consuls of
 France have been heretofore in the oilicial  
 and authorised practice of furnishing certifi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1811011801:0028/pct:5.998147290412228,62.430466409927256,22.417786012042612,15.432891171016973/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1811011801:0028/pct:5.996758508914101,62.42156303479749,22.4183838851586,15.434255561893897/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -766,7 +766,7 @@ It is, nevertheless, to be regretted, that t e
 functionaries ot f rame in Denmark had not  
 made known to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1811011801:0028/pct:6.090782769800834,78.54799600627585,22.440944881889763,13.764085009271145/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1811011801:0028/pct:6.089372539939801,78.53679406731318,22.441537392915027,13.765687393040501/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1071,7 +1071,7 @@ soon enable you to give soine satiss-f&#x27;zivtnry
 explanations of the measures to which W­  
 serenee has been made, and that their 0
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216134:1811070101:0586/pct:74.97453310696095,77.38425009893155,21.528013582342954,9.289671547289275/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216134:1811070101:0586/pct:74.9618061449669,77.37659511326541,21.53001754088157,9.292049988459128/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1150,7 +1150,7 @@ structions from ycur Govr-ri.ment will soon ena­
 ble you to give some satisfactory explanations of  
 thi measures to which reference has been made
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811070901:0075/pct:23.606082548877623,45.41998773758431,17.19768283852281,12.49540159411404/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811070901:0075/pct:23.601809954751133,45.41441883276116,17.200603318250376,12.497956514631355/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1349,7 +1349,7 @@ As these enumerated articles constitute the
 great mass 01 tne exports trom uie u.tttait!.  
 to France, the mind is naturally awalcend t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811071101:0231/pct:25.08768691157467,34.24417147154676,17.408159497877055,6.944096264728002/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811071101:0231/pct:25.083056478405314,34.23987968417095,17.411098806447644,6.947403601119605/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1422,7 +1422,7 @@ ceding. This fatisfa&amp;tion arises from
 have been given to the Dagith Gov.  
 ernment, and from a f{enfe of the hap
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1811073001:0121/pct:23.125676302365125,66.9340637839953,16.648631936929974,9.332811582860497/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1811073001:0121/pct:23.125676302365125,66.94058566490575,16.653784716854744,9.332811582860497/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1439,7 +1439,7 @@ the products of the United Stul-s, what m -live has
 this governm-nt, in&#x27; a discussion with a third pow»  
 er, to insist on the privilege of going to France ?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1812071001:1235/pct:49.79838709677419,40.557175251052804,21.52217741935484,2.0732102364755427/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1812071001:1235/pct:49.78584026203074,40.550607287449395,21.52305366591081,2.076923076923077/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1476,7 +1476,7 @@ the United States, what motive has thi* government, in a
 discussion with a third power, to insist on the privilege of  
 going to France ? Whence the inducement to urge the an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1812072401:0282/pct:6.4655172413793105,17.751133206609154,30.07662835249042,2.3541453428863868/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1812072401:0282/pct:6.463969355997127,17.748538011695906,30.075412975819965,2.357456140350877/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

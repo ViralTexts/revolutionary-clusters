@@ -118,7 +118,7 @@ i leUer to Mr rC-?Py * lettlCr t0 (-onKreli8 and my official
 , Mr .lI?S8.ton, wh.ch I request him to commu­  
 nicate to yon, will lully inform you of the reasons tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1853060401:0637/pct:18.650904033379692,30.844709897610922,15.980528511821975,16.776877133105803/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1853060401:0637/pct:18.660176170607325,30.844709897610922,15.989800649049606,16.783987485779296/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -153,7 +153,7 @@ mined, and articles of confederation revised. It is a work
 conoerned. It is the finishing stroke that is wauting to  
 the perfection of the temple of liberty. * 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1853060401:0637/pct:18.567454798331017,50.53327645051195,16.091794158553547,10.110921501706486/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1853060401:0637/pct:18.576726935558646,50.54038680318544,16.08715808993973,10.110921501706486/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -264,7 +264,7 @@ wisher of America must desire to be concerned.
 It is the finishing stroke that is wanting to the  
 perfection of the temple of liberty
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199276:1853072801:0100/pct:106.65251238499646,24.83178875206297,17.3036093418259,56.44280817570141/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199276:1853072801:0100/pct:80.03186404673393,18.623841564047225,12.993450168171357,42.338453726037834/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -298,7 +298,7 @@ the* method fashionable in the West In­
   
 dies.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn84026845:00202190704:1862121201:0552/pct:42.360475754803296,38.103919781221514,13.655077767612077,4.740200546946217/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn84026845:00202190704:1862121201:0552/pct:42.360475754803296,38.10847766636281,13.66651418115279,4.749316317228806/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -341,7 +341,7 @@ virtuous and good heart feel in the happy mo­
 ment when the revolution you have made is  
 now firmly established.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn82014424:00211102834:1885022101:0184/pct:273.7976782752902,302.62741373852487,47.8441127694859,15.764482431149098/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn82014424:00211102834:1885022101:0184/pct:68.47781003732891,75.65685343463122,11.965989216092908,3.9411206077872745/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -369,7 +369,7 @@ have made is now firmly established!&quot; Rightly
 and truly did Lafayette say that his beloved  
 General was of another spirit and of a differen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_newfoundland_ver04:data:sn83045462:00280654632:1885022101:0630/pct:82.20817643894567,82.20583839792766,14.537385691231846,5.04134701604065/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_newfoundland_ver04:data:sn83045462:00280654632:1885022101:0630/pct:82.20817643894567,82.20583839792766,14.557557826788596,5.056291720633656/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -395,7 +395,7 @@ your virtuous and good heart feel in the
 hsppy mitnent when the revolution you have  
 made is now firmly established&quot; Rightl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_hotel_ver01:data:sn87076916:00237289262:1885022101:0241/pct:44.23676012461059,97.2637821808869,16.121495327102803,7.035988677719369/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_hotel_ver01:data:sn87076916:00237289262:1885022101:0241/pct:33.1840311587147,72.94783663566518,12.112950340798442,5.283730961045963/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -505,7 +505,7 @@ an affection and a respect which I too well feel not
 to know it is impossible to me to express it.&quot;  
 Here is another letter written on the eve of his de
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ike_ver01:data:sn85042682:00211103383:1885081601:0090/pct:199.36708860759492,206.72025299775993,43.53023909985935,29.35828172354724/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ike_ver01:data:sn85042682:00211103383:1885081601:0090/pct:49.84177215189873,51.68006324943998,10.882559774964838,7.33957043088681/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -531,7 +531,7 @@ and respect which I too well feel no to know
 that it Is impossible for me to express it &quot;  
 After his return to his native land, th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_dole_ver01:data:sn83040340:00237283223:1891022001:0346/pct:6.596260387811634,62.97196979393319,18.05747922437673,7.641110968897991/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_dole_ver01:data:sn83040340:00237283223:1891022001:0346/pct:4.399030135088327,41.98131319595546,12.05403533079321,5.094073979265327/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -557,7 +557,7 @@ and respect which I too well feel not to know
 that It is impossible for me to express it.&#x27;  
 After his return to his native land, th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_gum_ver01:data:sn94053256:00271763098:1891022301:0189/pct:64.18875242404654,72.86162113748321,14.75436328377505,7.001044932079415/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_gum_ver01:data:sn94053256:00271763098:1891022301:0189/pct:48.16491511721908,54.64994775339603,11.075181891673404,5.254515599343185/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

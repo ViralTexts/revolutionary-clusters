@@ -61,7 +61,7 @@ rh h.V my exploring every avenue of information respecting jl
 to obtain.&quot;  
 a And there was as little of the vulgar hero about him
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848070801:0689/pct:76.99568069108942,80.97615778304831,17.901135818269076,9.78654350268381/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848070801:0689/pct:77.00634565136245,80.97615778304831,17.901135818269076,9.790704448050597/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -94,7 +94,7 @@ j ? function* to the interest and credit of the American Union ;
 J 4 avenue of information respecting their merits and pieten­  
 I 4 aions that it was in my power to obtnin.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848070801:0245/pct:63.61556064073226,3.960507124424997,15.889588100686499,11.387860428587457/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848070801:0245/pct:63.61556064073226,3.9679868357081416,15.894355453852022,11.387860428587457/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -132,7 +132,7 @@ ing every avenue of information respecting their
 merits and pretensions that it was in iu&gt; lKlU*!  
 to obtain.&quot; .... . 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215804:1848070801:0620/pct:4.128660585693711,15.974886641088245,12.942870859337495,10.966166724799441/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215804:1848070801:0620/pct:4.12826420890937,15.973772321428571,12.944828469022017,10.96772693452381/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -218,7 +218,7 @@ ploring every avenne of information respecting then
 merits and pretentious thal it was in my power to ob  
 tatu.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347910:1848071701:0397/pct:134.8718951691766,132.8865194211729,62.057500488949735,42.54379284082254/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347910:1848071701:0397/pct:33.71138052405162,33.21657021017362,15.51134141572155,10.634328358208956/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -348,7 +348,7 @@ by my exploring every avenue of information
 respecting their merits and pretensions, that  
 it was in my power to obtain.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296199:1848080501:1183/pct:262.2366288492707,122.47478548848412,60.94003241491086,53.04832154147223/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296199:1848080501:1183/pct:65.55915721231767,30.61869637212103,15.235008103727715,13.262080385368057/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

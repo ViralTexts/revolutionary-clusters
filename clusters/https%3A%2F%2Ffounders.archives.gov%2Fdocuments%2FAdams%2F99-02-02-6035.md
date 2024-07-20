@@ -94,7 +94,7 @@ tin* Naval Rst bl.s m-lit; Likewise an AP
 I’ENIHS wherein the chief par’ of the Im;ior  
 t.mt Documents coryvrnmg ttie Navy are code
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813070501:0211/pct:60.19700839109814,62.930930930930934,16.94636993797884,6.078078078078078/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813070501:0211/pct:60.18602954586905,62.923372567859715,16.949358623624537,6.081351589398671/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -121,7 +121,7 @@ tarn Documents concerning the Naw arc co&#x27;leo
 ted.--.lly Thomas Clarke, U. 3. Topographical  
 hnpnc-r. 1
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813070801:0215/pct:77.70010485844111,27.53589354499825,16.218105557497378,6.781837282596008/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813070801:0215/pct:77.68652804473179,27.53267973856209,16.22109616168676,6.784936196700903/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -167,7 +167,7 @@ tant Documents con^rning the Navy arecollec
 ted.— By Thomas (jfcfctr-L-kk Topographical  
 Engineer. f s 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813072901:0239/pct:60.33662641785584,54.674527734328,17.325283571167216,20.190109493442424/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813072901:0239/pct:60.32558990305469,54.66794995187681,17.32821169440888,20.19169072826436/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -211,7 +211,7 @@ t*nt Document* concerning the Navv are collec
 ted —By Thomas Clarke, U. S. Topographical  
 Knrineer.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813080901:0251/pct:60.171972191730696,61.71121689246918,17.069154774972557,17.62480165995362/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813080901:0251/pct:60.160965794768615,61.703685623627045,17.072129748186086,17.626718737287447/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -236,7 +236,7 @@ the Naval Establishment: L&#x27;lkewh
 PENDIX wherein the chief part of  
 taut Documents concerning the Na
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813081901:0263/pct:76.87590187590187,7.434259031703121,17.08152958152958,6.2300319488817895/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813081901:0263/pct:76.86203787195672,7.433345619855019,17.084460474902315,6.2333620018839335/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -278,7 +278,7 @@ lic vessels Of the United Slates ami ol CrJVa
 ; tcers l and an Historical View of the policy 8c  
 ctss of the United State# Government relativ
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813091301:0291/pct:41.4868540344515,61.14848630466122,17.751586582048958,18.789043728976452/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813091301:0291/pct:41.47933284989123,61.14114114114114,17.754411409233743,18.79079079079079/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -305,7 +305,7 @@ tant Documents concerning the Navy are collec
 te-i.—Ily Thomas Chute, U. 8 Topographical  
 Engineer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813093001:0311/pct:76.96096315213425,8.65606410100765,17.29295877417001,7.417749180526891/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813093001:0311/pct:76.946926864855,8.655013352755523,17.29588424828257,7.420895039249008/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -332,7 +332,7 @@ tant Documents concerning the Naw are collet?
 tet*- By I homas Clarke, U. S. Topographical  
 Engineer.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813100701:0319/pct:77.98868406643548,41.58367743502551,16.992151852527833,7.21399076997814/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813100701:0319/pct:77.97445255474453,41.578627808136005,16.995133819951338,7.2171625177089656/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -359,7 +359,7 @@ tant Documents concerning the Navy are codec
 ted.—Ily Thomas Clarke, U. S Topographical  
 Engineer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813102501:0342/pct:59.744635573683276,69.80070913314586,16.900159602766447,7.445898031544199/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813102501:0342/pct:59.734042553191486,69.79217603911981,16.90307328605201,7.449062754686227/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -386,7 +386,7 @@ tant Documents concerning the Navy are codec
 ted-—By l&#x27;hoinas Clarke, U. S. Topographical  
 Engineer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813112201:0375/pct:59.750045947436135,19.570204032355427,17.2210990626723,7.086804297959676/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813112201:0375/pct:59.73906651966189,19.567841622404636,17.224059781942913,7.089972638017061/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -413,7 +413,7 @@ tant Documents concerning the Navy are colSec
 ted. By lhom&amp;s Clarke, U. 8. Topographical  
 Engineer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813112501:0379/pct:61.688873507527255,15.798045602605864,16.335006056411142,6.840390879478828/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813112501:0379/pct:61.67820069204152,15.796207979527741,16.337946943483274,6.843472529176845/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -460,7 +460,7 @@ tant Documents concerning the Navy are collec
 H’&lt;1. Bj l houuis Clarke, U. S. Topographical  
 Engineer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813120201:0387/pct:60.34328625067048,32.595281306715066,16.80672268907563,19.939503932244403/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813120201:0387/pct:60.332499106185196,32.59133801112993,16.809677034918366,19.941124284216468/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -486,7 +486,7 @@ PENDIX wherein the chiefpart of the lmpor.
 tant Documents concerning the Navv arc collee  
 Fngineer 1 *‘omas Clarke, U. S. Topographica
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813120901:0396/pct:79.5590095788903,53.72521412648128,16.8443882161576,6.816848527513786/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813120901:0396/pct:79.5446331767257,53.71891130924448,16.847367787013614,6.8199593305177535/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -513,7 +513,7 @@ tant Documents concerning the Navy are cnllcc
 ted.—By Thomas Clarke, U. 8. Topographical  
 Engineer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813122001:0410/pct:78.50779510022272,69.27381097190123,18.838158871566446,7.152414548108503/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813122001:0410/pct:78.49322694377436,69.26538555096084,18.840848642296034,7.155598799967566/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -540,7 +540,7 @@ tant Documents concerning the Nnv* are collee
 ted.—By lliomas CU.ke, U. 8. Topographical  
 Engineer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813122301:0414/pct:78.41345275086822,68.40044058254803,16.962164138183148,7.110512789132297/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813122301:0414/pct:78.39912280701755,68.3920704845815,16.965155945419102,7.1137216511665855/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -567,7 +567,7 @@ the Naval Establishment: Likewise an AP­
 rd.—Hy 1 homas Clarke, U. $. Topographical  
 • nginecr. ° 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813122701:0418/pct:77.00563943969438,67.56560648204136,17.31853738402765,7.014149232071593/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813122701:0418/pct:76.99163332120771,67.55743651753325,17.321450224323996,7.017331721080209/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -594,7 +594,7 @@ tant Documents concerning tlie Navv are colleo.
 ted.—By 1 homas Clarke, U. S. Topographical  
 Engineer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813123001:0422/pct:77.4604329634346,69.59028459273797,17.04566126978352,7.2252208047105/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813123001:0422/pct:77.44634412513642,69.58174904942966,17.048623741966775,7.2284230753505865/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -642,7 +642,7 @@ tant Documents concerning the Navy are codec
 ted. &#x27;By 1 homas Clarke, U. S. Topographical  
 Engineer.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814010601:0010/pct:80.59332509270705,54.99120234604106,16.38707398905174,19.143695014662757/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814010601:0010/pct:80.57909604519774,54.98475252169833,16.390065913370996,19.145359293142544/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -669,7 +669,7 @@ tant Documents concerning the Navv are collcc
 ted.-~Uyl bonus Clarke, U. S. Topographical  
 Engineer. &#x27; ** 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814011001:0014/pct:78.20702402957487,66.7560648543216,17.22735674676525,7.08277459466049/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814011001:0014/pct:78.19257068933653,66.747927840078,17.230333271730427,7.085974321469202/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -696,7 +696,7 @@ tant Documents concerning the Naw are collcc
 ted.—By 1 homas Clarte, U. S. Topographical  
 Engineer. ° 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814011301:0018/pct:78.13132242045245,67.71488469601677,17.196983630678684,7.177210506844247/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814011301:0018/pct:78.11695476278044,67.70653514180025,17.199950962363616,7.180435676120016/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -721,7 +721,7 @@ ctss of the United States’Government, relative
 I ENDIX wherein the chiefpart of the Impor­  
 tant Documents concerning the Naw are colle
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814011701:0022/pct:78.22780332507959,66.302560488607,16.501591793420587,5.990133897110641/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814011701:0022/pct:78.21396993810787,66.29477392836172,16.50456822870616,5.993345077314543/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -771,7 +771,7 @@ tant Documents concerning the Navy are codec
 ted.—By 1 homas Clarke, L). S. Topographical  
 Engineer.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814020901:0041/pct:71.82009838369642,18.232950550738224,16.654954321855236,22.990391375673777/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814020901:0041/pct:71.80748287370454,18.23081429408319,16.657883951050998,22.991603202499512/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -798,7 +798,7 @@ tant Documents concerning the Navy are collet
 ted.-—illy 1 homas Clarke, U. &amp;. Topographical  
 Engineer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814030501:0054/pct:45.246753246753244,73.9865647440352,16.31168831168831,6.775538568450313/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814030501:0054/pct:45.238919667590025,73.97799652576722,16.314635272391506,6.778614167149199/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -842,7 +842,7 @@ inents concerning the Navy are collected —By
 Thomas Clarks, U. 8. Topographical Engi­  
 neer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814062901:0161/pct:60.098973607038126,61.4103819784525,17.357038123167154,16.29529872673849/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814062901:0161/pct:60.087960417811985,61.40286448769739,17.35996579317085,16.297384420777735/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -868,7 +868,7 @@ Wherein the chief pan of the Important Docul
 m -nts concerning the Navy are collected_By  
 J harassClark?, U. 8. Topograpiucal Eng.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814070201:0165/pct:61.75496688741722,26.891875529725148,17.328918322295806,6.659401864632522/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814070201:0165/pct:61.74360860768806,26.88861985472155,17.3318619336644,6.6626311541565775/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -912,7 +912,7 @@ menu concerning the Navy are collected._By
 1 lismas Clark?, U. S. Topographical Engi­  
 neer. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814070601:0169/pct:60.92875792614696,49.926308032424465,17.43752331219694,16.396462785556373/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814070601:0169/pct:60.91739697930263,49.92017683900283,17.44048728945242,16.39854271562487/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -955,7 +955,7 @@ tnents concerning the Navy are collected.—By
 Thomas Clarke, U. 8. &#x27;I typographical Engi­  
 neer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814070901:0173/pct:78.59275849197462,45.95959595959596,17.581187010078388,15.536315536315536/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814070901:0173/pct:78.57809292778504,45.95406997715522,17.58412639173975,15.538455372530159/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -981,7 +981,7 @@ wherein the chief part of the Important Docu!
 ments concerning the Navy are collecied.-By  
 neer!&quot;4&quot; C aPk?* U&#x27;8’ ToP(,Kr,‘P1,ic,‘1 Engi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814071301:0177/pct:79.33236045238964,50.47838197892697,17.219992703392922,6.770013322029793/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814071301:0177/pct:79.31789166514682,50.47226931460402,17.222931485196668,6.773229999192702/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1008,7 +1008,7 @@ menls concerning the Navy are collected.—by
 Thuinxs Clarke, U. S. Topographical Engi­  
 neer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814073001:0196/pct:73.24863243338628,66.33998790078645,16.64019763543321,6.7392619479733815/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814073001:0196/pct:73.23570924488355,66.33196225502057,16.64314278993178,6.742479232196144/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

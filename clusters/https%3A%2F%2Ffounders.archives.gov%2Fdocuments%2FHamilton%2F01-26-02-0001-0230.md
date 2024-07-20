@@ -257,7 +257,7 @@ your obedient ft i vanr,
 NATHL. PENDLEION.  
 Will am P. Van Nefs, efq
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804072301:0002/pct:74.15841584158416,8.13155509517027,17.06930693069307,35.97047779360352/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804072301:0002/pct:74.15841584158416,8.135871207216539,17.082508250825082,35.97047779360352/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -320,7 +320,7 @@ I have the honour to be respectfully,
 Nathaniel Pendleton.  
 William P. Van Ness, Esq
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804072401:0017/pct:30.746342672948177,41.198738170347006,20.30746342672948,34.60567823343849/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804072401:0017/pct:30.738720872583045,41.192240971455604,20.308626673277143,34.60416338117016/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -380,7 +380,7 @@ Your obedient Servant,
 NATHAN IE L PE NDLET ON.  
 William P. Van Nefa, F.fq
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804072501:0098/pct:76.33103947844984,46.91404297851074,17.475552336110106,26.349325337331333/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804072501:0098/pct:76.31721890277024,46.90818238600875,17.47842356207375,26.350197793046014/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -431,7 +431,7 @@ your obvdient servant,
 Natiianibi. Pkmii.etom,  
 William l*. Van Ness, lv.q
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804072501:0223/pct:60.76216009191881,70.27239392352017,17.885867483722713,25.550026191723415/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804072501:0223/pct:60.75052651732721,70.2631923530182,17.888825068606803,25.551045349395487/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -486,7 +486,7 @@ Your obedient fervant,
 Natuasiel. PENDLETON,  
 William P. Van Nefs, Fiq
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1804072601:0528/pct:67.42954416493285,50.17135023989034,19.992434272744468,25.325565455791637/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1804072601:0528/pct:67.4358489376458,50.17135023989034,19.986129500031524,25.333181022008986/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -610,7 +610,7 @@ f.U- obttiir l ju ».«/,
 N \THAN1LL PENDLETON  
 »T», P- Fan Nut. Et
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016081:00332895060:1804073001:0159/pct:48.860871488608716,11.353594858749497,45.98540145985402,84.09425625920471/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016081:00332895060:1804073001:0159/pct:48.85006634232641,11.352074966532799,45.98076072534277,84.0863453815261/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -671,7 +671,7 @@ norable g&amp;cpmmodn_ion. “His obje&amp;tion is,
 i s % i T ey  
 “the _yer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804073101:0535/pct:23.124708805715173,61.48233486943165,17.098928405031838,20.516513056835638/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804073101:0535/pct:23.135062380286794,61.48873527905786,17.098928405031838,20.516513056835638/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -728,7 +728,7 @@ tion is, the very indefinite ground, which
 Colonel Burr has assuatodi in wk  
 is sorry to be able to mgM nothin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1804080301:0311/pct:69.01181525241675,62.796742332351414,20.46186895810956,31.60630739906429/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1804080301:0311/pct:68.99328859060402,62.78586278586278,20.463087248322147,31.605162855162856/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1208,7 +1208,7 @@ Your obedient servant,
 NaTH’l PfcNDLETON.  
 Wm. P. Van Ness, Esq
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00279550304:1846092501:0512/pct:7.1141882400160545,4.353788138498457,30.583985550872967,91.26499828591018/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00279550304:1846092501:0512/pct:7.113474465736932,4.353489647607295,30.584261395939937,91.2610265551442/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1319,7 +1319,7 @@ willingness to come to a satisfactory, provided
 it be an honorable, accommodation. His ob-  
 jection is, the very indefinite ground which Col.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776956:1846101601:0332/pct:270.2080237741456,314.87088156723064,49.18276374442794,63.579697239536955/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776956:1846101601:0332/pct:67.5520059435364,78.71772039180766,12.295690936106984,15.894924309884239/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1346,7 +1346,7 @@ Your obedient servant.
 NATII&#x27;L. PENDLETON.  
 WM. P. VAN Ness, Esq
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776956:1846101601:0332/pct:319.16790490341754,63.99525081626595,48.21693907875186,22.38052834669041/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776956:1846101601:0332/pct:79.79197622585438,15.998812704066488,12.054234769687964,5.595132086672603/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1409,7 +1409,7 @@ Your obedient servant,
 NATH&#x27;L PENDLETON.  
 Wm. P. Vau Ness, E.q
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:0041615689A:1846112101:0482/pct:26.171654432523997,9.298867665561021,39.3845285149633,119.158183689809/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:0041615689A:1846112101:0482/pct:19.638571226881265,6.977010179572229,29.549625864746577,89.37435662815967/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

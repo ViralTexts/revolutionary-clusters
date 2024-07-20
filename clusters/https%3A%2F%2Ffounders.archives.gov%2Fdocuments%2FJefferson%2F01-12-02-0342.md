@@ -37,7 +37,7 @@ But, notni hslandlng his own opin on*, Mr. lefferson
 consented to serve a second term—And glad enough  
 would bis enemies have been to get clear of him, udo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184042:1830122501:0270/pct:35.24057217165149,42.24196855775803,14.766652217887588,4.522670312143997/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184042:1830122501:0270/pct:35.235481074833864,42.23715685157763,14.76933448906867,4.525952082621407/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -131,7 +131,7 @@ At the end oF the Four Years,
 THEY HAD MADE hiM Forever inEl­  
 1GIBLE Aa SECONd TiME.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1840082401:0164/pct:77.86824574389341,17.788861180382376,115.98815692079941,360.0443336104184/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1840082401:0164/pct:19.470664445678327,4.447215295095594,29.00240607070146,90.0110834026046/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -159,7 +159,7 @@ Under the date of Deo. 20,1767, ho writes to Mad­
 ison at more length, thus:  
 “ If once elected, and nt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_north_ver02:data:sn84031492:no_reel:1880031601:0012/pct:44.32531380753138,47.78619864379737,13.127615062761507,5.2054248105305145/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_north_ver02:data:sn84031492:no_reel:1880031601:0012/pct:44.32531380753138,47.79617072197846,13.127615062761507,5.2054248105305145/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -205,7 +205,7 @@ Again and again, in letters to other
 distiuguised patriots, Jefferson urged  
 this objection to the adoption of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_erie_ver02:data:sn86071045:00296026475:1880033101:0115/pct:60.611664295874824,42.1680157514767,11.152204836415363,15.44519798731131/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_erie_ver02:data:sn86071045:00296026475:1880033101:0115/pct:60.61640587956377,42.1680157514767,11.156946420104315,15.45249033763582/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

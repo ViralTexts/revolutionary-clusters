@@ -121,7 +121,7 @@ my privity, with my acknowledgements
 for tlie communication I tender y&gt;u my  
 falntations. Tv : JEFtEItSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804092401:0002/pct:25.125325847202728,74.58533975387908,17.084419490675756,14.593365436062065/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804092401:0002/pct:25.138693937571016,74.58979846620296,17.084419490675756,14.597824148385946/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -168,7 +168,7 @@ my acknowledgments for the commu.
 nication, I tender you &#x27;l?l&#x27;t fatutations.  
 Tu : JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1804092701:0566/pct:2.255782833110304,24.048881715471524,19.977059835595487,17.719621858427484/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1804092701:0566/pct:2.255782833110304,24.056567519790946,19.996176639265915,17.719621858427484/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -200,7 +200,7 @@ m to you, their loss will not lie gneat/No stfoh*
 ray pnvity: with tny acknpwledrerbQjts for the com*.  
 nunication I tender you my salutations
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804092901:0133/pct:74.5017884517118,84.9691257718557,21.94685743484926,7.99480012999675/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804092901:0133/pct:74.48275862068965,84.9553208773355,21.94763729246488,7.997562956945573/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -231,7 +231,7 @@ ledgements for the communication 1 tender you my
 falutations.  
 m, . Th: JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804092901:0175/pct:25.421297956256723,43.027545499262175,17.06704912154894,9.075258239055582/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804092901:0175/pct:25.416741351496682,43.02225501045125,17.06996474876023,9.078240911512767/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -267,7 +267,7 @@ knouledgments for tlie communication I
 tender you my salutations  
 Th:JLFFFRSO
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804092901:0298/pct:40.34243939976914,30.833333333333332,18.62254713351289,13.75/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804092901:0298/pct:40.33467974610502,30.82931909907564,18.625376675001604,13.752549581217723/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -299,7 +299,7 @@ my pri&#x27; iry—-w ith my acknowledgments for th€
 communication I tender you my lalutaiions.  
 Tk. JAFFLicbON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016081:00332895060:1804100101:0196/pct:72.50544662309368,14.681627686900095,22.374727668845317,12.802487494930377/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016081:00332895060:1804100101:0196/pct:72.48965367022436,14.679643146796431,22.37529949901982,12.804136253041362/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -336,7 +336,7 @@ with my acknowledgements for the
 communication I tender yon my sal­  
 utations. © T ::%FERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804100201:0572/pct:58.59579044400061,77.0314296665389,16.561683822399754,14.411651973936374/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804100201:0572/pct:58.6009115583551,77.03462373834164,16.571926051108722,14.411651973936374/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

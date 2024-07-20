@@ -68,7 +68,7 @@ That copies of the Declaration be seut to the
 several assemblies, conventions, and committees  
 or councils of safety, and to the several command
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855080201:0894/pct:35.021178282633805,21.584801899762528,15.498652291105122,1.5623047119110112/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855080201:0894/pct:35.034013605442176,21.58896804566096,15.492234629700937,1.5664708578094404/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -96,13 +96,13 @@ tion be Bent to the several assemblies,
 conventions, and committees, or councils  
 of safety, and to the soveral commandin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kuwait_ver02:data:sn85059716:00201293031:1857070301:0309/pct:15.462274176408076,60.449148905735946,13.850513637973787,6.279502217136318/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kuwait_ver02:data:sn85059716:00201293031:1857070301:0309/pct:15.475557917109459,60.45987698469461,13.841657810839532,6.272350164497211/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The United States democratic review_](https://archive.org/details/sim_united-states-democratic-review_1858-07_42/page/n95/mode/1up?view=theater)
+## [From _The United States Democratic Review (1856-1859)_](https://archive.org/details/sim_united-states-democratic-review_1858-07_42/page/n95/mode/1up?view=theater)
 
 #### 1858-07-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -157,7 +157,7 @@ ventions, and Committees or Councils of
 Safety, and to the several commanding offi­  
 cers of the Continental troops; and it wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156372:1860071101:1143/pct:323.4660033167496,156.59027879141732,59.78441127694859,9.108159392789373/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156372:1860071101:1143/pct:80.9168222360506,39.14756969785433,14.95540344326903,2.2770398481973433/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -191,7 +191,7 @@ Congress resolved:
 That it be recommended to the several assem­  
 blies, conventions,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1861090401:0003/pct:22.98076923076923,65.46190545033974,9.942307692307692,0.9541708833309238/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1861090401:0003/pct:22.985576923076923,65.46551973398873,9.947115384615385,0.9577851669799046/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -208,7 +208,7 @@ Congress resolved
 &quot;That it be recommended to the several as­  
 semblies, conventions,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:0028077764A:1861092001:0171/pct:186.85847589424571,166.7472793228537,50.69984447900467,5.804111245465538/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:0028077764A:1861092001:0171/pct:46.74187901186539,41.686819830713425,12.682357517992608,1.4510278113663846/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -245,7 +245,7 @@ cers of the continental troops; that it be proclaimed in
 ach of the Gatted States, and at the head of the arm­  
 This resolution was carried into effect, th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044838:1884070401:0648/pct:74.71612414837244,128.60201896604465,50.64345193035579,12.419700214132762/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044838:1884070401:0648/pct:18.682566723452585,32.15050474151116,12.663259511641114,3.1049250535331905/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

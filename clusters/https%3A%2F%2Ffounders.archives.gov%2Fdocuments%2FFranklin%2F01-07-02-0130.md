@@ -865,7 +865,7 @@ and therefore add uo professions to it: but sub­
 scribe simplv yours,  
 B. FRANKLIN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826062701:0511/pct:42.80771131982205,53.413924334004925,17.564672927994728,32.32594582493844/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826062701:0511/pct:42.80065897858319,53.407946278679354,17.56727073036793,32.32605857116209/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -942,7 +942,7 @@ uit it? I intend this letter as a firooj
 if my friendship, and therefore add no  
 &#x27;irofeasion to it: but simply subscrib
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn84024505:00542866962:1826080101:0550/pct:32.752100840336134,33.90221402214022,12.878151260504202,30.50430504305043/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn84024505:00542866962:1826080101:0550/pct:32.7452215921025,33.89700230591853,12.880697332493174,30.50345887778632/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1758,7 +1758,7 @@ you, and perhaps a good deal ol regrci
 and repentance. If men are so wicked  
 •with lirligion, what would they bi Kit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898036:1826092901:0269/pct:42.51968503937008,20.016556291390728,17.769028871391075,38.841059602649004/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898036:1826092901:0269/pct:42.50852794542115,20.013242840589307,17.770926266071896,38.83876841582519/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2220,7 +2220,7 @@ the enemies it may rai e against you, and
 | would they be without it I in end (his letter  
 I itself as a proof of my ft iendship, and theie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348823:1828092201:0049/pct:52.63047138047138,58.82438316400581,15.151515151515152,26.618287373004353/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348823:1828092201:0049/pct:52.61939827477383,58.8158467566391,15.153587208079108,26.61805253228849/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2411,7 +2411,7 @@ and therefore add no profession to it : but sim­
 ply subscribe wyself, your&#x27;s  
 B. FRANKLIN.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830070201:0190/pct:67.66747133373566,7.327971403038427,28.92275196137598,85.6680071492404/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830070201:0190/pct:67.65726353899532,7.327152909639227,28.92341730778901,85.66216165903421/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2884,7 +2884,7 @@ letter itself as a proof of my friendship,
 and therefore add uo profession to it, but,  
 simply subscribe yours
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182938:1833101001:0977/pct:74.63544875744506,10.657468675207658,17.23146436639967,33.6618330282979/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182938:1833101001:0977/pct:74.62012320328542,10.655968468468469,17.23305954825462,33.66061373873874/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3786,7 +3786,7 @@ add no professions to it, but subscribe simply,
 &quot;Yours  
 &quot;B. franklin:
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_green_ver02:data:sn84022687:00202199240:1839021601:0021/pct:81.61641541038526,7.124277456647399,48.80653266331658,45.31791907514451/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_green_ver02:data:sn84022687:00202199240:1839021601:0021/pct:61.248428990364474,5.3468208092485545,36.614997905320486,33.98843930635838/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3807,7 +3807,7 @@ lief of a Providence, that takes cognizance of,
 guards and guides, and may favor particular per­  
 sons, there is no motive to worship a , Deity, to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_green_ver02:data:sn84022687:00202199240:1839021601:0021/pct:80.40201005025126,120.30346820809248,23.65996649916248,4.72543352601156/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_green_ver02:data:sn84022687:00202199240:1839021601:0021/pct:60.326770004189356,90.23121387283237,17.76288227901131,3.554913294797688/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3987,7 +3987,7 @@ Hut weic you to succeed, no jou imagino any
   
 on yourfcll may find
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84022355:00200290100:1839062501:0757/pct:53.87579329102448,70.54662379421222,23.86672710788758,15.40192926045016/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84022355:00200290100:1839062501:0757/pct:40.421673090002265,52.90996784565916,17.90977102697801,11.559485530546624/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4025,7 +4025,7 @@ You might easily display your excellent talents j june Oth) honor Judge Willard 
   
 of reasoning upon n lca hawrdotia subject, ar.d charge lo tho jury, and concluded ot about halt pas
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84022355:00200290100:1839062501:0757/pct:54.71441523118767,87.09003215434083,47.8014505893019,13.102893890675242/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84022355:00200290100:1839062501:0757/pct:41.056449784629336,65.32154340836013,35.86488324642938,9.82315112540193/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4068,7 +4068,7 @@ against you, and perhaps a good deal of regret
 and repentance.  
 If men are wicked with religion, what would
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84022355:00200290100:1839062501:0757/pct:31.323662737987306,86.96141479099678,47.00815956482321,22.909967845659164/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84022355:00200290100:1839062501:0757/pct:23.509408297438224,65.2250803858521,35.252777148038994,17.186495176848876/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4191,7 +4191,7 @@ Mil It becomes habitual, which is the gte.it point ol
 ilaiecuiny. And pethapsyou are indebted to het  
 originally, that is to your relu.ous eduction, fur th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348860:1839070801:1212/pct:3.5929306661487668,60.002957267484845,15.828316177898621,15.998817093006062/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348860:1839070801:1212/pct:3.592233009708738,59.99408633944412,15.830097087378642,16.000147841513897/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4231,7 +4231,7 @@ y &quot;Yours,
   
 B. Franklin.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016942:00295878204:1839072501:0898/pct:31.42222222222222,12.855172413793104,24.91111111111111,10.413793103448276/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016942:00295878204:1839072501:0898/pct:23.58301844854412,9.641379310344828,18.693042898421872,7.820689655172414/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4275,7 +4275,7 @@ be a great deal of odium drawn upon yourself,
 I1M3C1IH-I iu yuu,unu no oenetit to others. lie  
 that spits against the wind spits on his own
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016942:00295878204:1839072501:0898/pct:4.266666666666667,97.21379310344828,24.866666666666667,14.4/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016942:00295878204:1839072501:0898/pct:3.200711269170927,72.9103448275862,18.670815736830406,10.8/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4322,7 +4322,7 @@ ents of reasoning upon a less hazardous subject.
   
 tnd thereby obtain a rank with our most dis-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016942:00295878204:1839072501:0898/pct:2.8666666666666667,102.6896551724138,49.46666666666667,26.56551724137931/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016942:00295878204:1839072501:0898/pct:2.1560346743720826,77.02068965517242,37.11935985774617,19.93103448275862/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4408,7 +4408,7 @@ ir?rha&#x27;iiiog lite tiger, hut to hunt the piece |
 In-iore it is seen Ivy any oilier person, i  
 wit rehy 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn85042796:00295863092:1842030901:0285/pct:2.955082742316785,37.3731043990475,23.207249802994482,35.99448552450182/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn85042796:00295863092:1842030901:0285/pct:2.9616495928552666,37.3731043990475,23.200682952456003,36.00284079040816/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4486,7 +4486,7 @@ ed litis letter as a prof of my friendship,
 and therefore add no profession to it, but  
 simply subscribe, Yours
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn95079484:00393348392:1843020201:0135/pct:23.521731020332027,14.411529223378704,14.400298451781383,36.78943154523619/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn95079484:00393348392:1843020201:0135/pct:23.51734427452443,14.409606404269512,14.403829416884248,36.788970424727594/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4801,7 +4801,7 @@ a ,
   
 my friendship, and, therefore, add no pro- crn. Consequently Mr. Matson&#x27;s field fifty bushel crongrowers ? What sort o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058217:00271744766:1850103001:0583/pct:70.634684147795,25.727676369018255,56.093563766388556,49.62999506660089/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058217:00271744766:1850103001:0583/pct:53.00342823073483,19.301924025653676,42.092711283350724,37.22249629995066/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4837,7 +4837,7 @@ advise you not to attempt unchaining the
 tiger, but to burn this piece before it is seen  
 by any other person. If men aro so w icke
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn84024443:00280779210:1854063001:0541/pct:108.59314107560405,107.89920724801812,16.30943102104443,3.029445073612684/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn84024443:00280779210:1854063001:0541/pct:81.48148148148148,80.93148357870895,12.241715399610136,2.2650056625141564/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4860,7 +4860,7 @@ is not recessary, as among the Hottentots, that a
 youth, to be raised inte the conpany of wen, should  
 prove his munhooc by beating his mother. In th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530480:1855121301:0710/pct:102.61144377910846,16.198704103671705,47.70459081836327,13.234941204703624/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530480:1855121301:0710/pct:34.20381459303615,5.399568034557236,15.901530272787758,4.411647068234541/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4942,7 +4942,7 @@ tracted : “I would advise you not toattempt
 unchaining the tiger, but to burn this piece be­  
 fore it is seen by any other person. If me
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517016548:1857121701:0255/pct:43.51780484045013,25.942095588235293,12.594419608447664,1.4705882352941178/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517016548:1857121701:0255/pct:43.511097410604194,25.93911545089029,12.596331689272503,1.4732912119471568/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4970,7 +4970,7 @@ ger from the same cause, he bore his solemn
 treated his reckless friend to burn the manu­  
 script before it should be seen by any other in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517016548:1857121701:0255/pct:43.240326807461074,39.05101102941177,12.7794049637737,6.904871323529412/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517016548:1857121701:0255/pct:43.23366214549938,39.04652498564044,12.78128853267571,6.906950028719127/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4998,7 +4998,7 @@ letter, from which the following is extracted:
 chaining the tiger, but to burn this piece  
 before it is seen by any other person. I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn85030219:00212472803:1858013001:0131/pct:56.03343465045592,68.59715429079591,21.914893617021278,3.2347710093374835/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn85030219:00212472803:1858013001:0131/pct:37.361301109591125,45.73143619386394,14.622283021735827,2.156514006224989/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5252,7 +5252,7 @@ lent talent of reason upon a less hazardous c
 subject, and thereby obtain rank with our t  
 most distinguished authors.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862695:1859020301:0153/pct:56.77727784026997,14.98200214028602,28.74015748031496,83.35441190777313/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862695:1859020301:0153/pct:56.77727784026997,14.98200214028602,28.744844394450695,83.36089762298538/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5323,7 +5323,7 @@ pet aps a good feal of regret and repe
 they be without it? I intend this letter itself  
 an tprool of ay tshentanip, an theretere
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290082:1859050101:0410/pct:92.26519337016575,204.65747230386614,69.00552486187846,72.16821162107168/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290082:1859050101:0410/pct:23.075860163050987,51.164368075966536,17.258532541108195,18.04205290526792/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5410,7 +5410,7 @@ I intend this letter itsclfas a proof of
 my friendship, and therefore, add no pro­  
 fession to it; But simply subscrib
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_galloway_ver01:data:sn83032308:00513685506:1859050501:0390/pct:58.375969631952465,24.96491899476974,12.427793365241788,33.39711697920653/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_galloway_ver01:data:sn83032308:00513685506:1859050501:0390/pct:58.366336633663366,24.961734693877553,12.42986798679868,33.39604591836735/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5554,7 +5554,7 @@ if without it? I intend this letter itself as
 a proof of my friendship, and, therefore,  
 add no profession to it; but simply su
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn83035216:00280775150:1859052101:0203/pct:232.01342281879195,50.28962611901,99.39597315436242,334.1758820431806/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn83035216:00280775150:1859052101:0203/pct:58.022826451829474,12.5724065297525,24.857334676065793,83.54397051079515/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5625,7 +5625,7 @@ l:religion, what would they be if withot ii I
 fieadthip, and, therefore, add no profesion to  
 if- but simply subsc ibe, yours
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn84026897:00237288257:1859052501:0425/pct:49.70437017994858,19.863013698630137,11.773778920308484,25.680240195158568/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn84026897:00237288257:1859052501:0425/pct:49.70865467009426,19.863013698630137,11.773778920308484,25.6864952774129/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5768,7 +5768,7 @@ intend this letter itself as a proof of my friend- !
 ship, and therefore udd no profession to  
 it, but simply subscribe, yours
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn85025007:0041566347A:1859060101:0403/pct:2.2110552763819094,11.680999180999182,16.195262024407754,29.207616707616708/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn85025007:0041566347A:1859060101:0403/pct:2.2158411103134723,11.687824187824187,16.200047858339314,29.207616707616708/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6011,7 +6011,7 @@ tend this letter itself as a proof of my
 friendship, and, therefore, add no pro-  
 fession to it; but simply subscribe,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn84028083:00280775241:1859072201:0120/pct:230.62730627306274,115.80174927113703,54.02214022140221,130.8454810495627/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn84028083:00280775241:1859072201:0120/pct:57.667466322199665,28.950437317784257,13.50802731131205,32.71137026239067/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6087,7 +6087,7 @@ letter itself as a j-rooj ot my friendship, and
 therefore add no pmjtssion to it ; bat simply  
 subscribe, yours, Benj. i- jiam.i.in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn85025202:00279557281:1859101501:0829/pct:7.81221346048047,13.899564437612094,14.487438107463781,23.7253394824494/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn85025202:00279557281:1859101501:0829/pct:7.821382725105447,13.905969766846017,14.487438107463781,23.7253394824494/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6187,7 +6187,7 @@ religion, what would they be if without it i
 friendship, and therelore add no proies­  
 sion to it; but simply subscribe, yours
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dior_ver01:data:sn85025007:0041566350A:1860103101:0637/pct:58.23318052285962,19.698180204172214,13.864452979804238,36.813138038171324/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dior_ver01:data:sn85025007:0041566350A:1860103101:0637/pct:58.23318052285962,19.704098239384525,13.864452979804238,36.81609705577748/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6304,7 +6304,7 @@ ance affoeded by religion; you, having
 a clear perception of the advantages of  
 wirtue and the disadvantages of vice,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:00279529418:1868010901:0432/pct:10.825062034739455,19.440086883069867,38.44602977667494,60.87848437311452/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:00279529418:1868010901:0432/pct:3.608354011579818,6.480028961023289,12.815343258891646,20.292828124371507/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6367,7 +6367,7 @@ intend this letter itself as a poof of o ae o o i io a
 friendaip, anu herefore add no profes iu i e o o o e­  
 sions to it, but subscribe simply,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:00279529418:1868010901:0432/pct:11.833126550868487,80.37890672137083,76.30272952853598,64.4986122843007/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:00279529418:1868010901:0432/pct:3.9443755169561623,26.79296890712361,25.43424317617866,21.499537428100236/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6663,7 +6663,7 @@ the Cross of Christ was shivered into a thous-
 and pieces in his hand.  
 His assault was as powerless to move th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777651:1869011301:0674/pct:244.36033308099925,222.19686162624822,44.73883421650265,27.275320970042795/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777651:1869011301:0674/pct:61.11321469140477,55.549215406562055,11.188943581976524,6.818830242510699/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6693,7 +6693,7 @@ ot men should prove his manhood by
 beating his mother. Paine persist  
 ed. His &quot;Age of Reason&quot; for the m
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn84022548:00202194965:1869033001:0047/pct:91.05333333333333,76.15291262135922,13.84,3.9644012944983817/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn84022548:00202194965:1869033001:0047/pct:68.32066159797252,57.11974110032362,10.390822995865012,2.9733009708737863/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6732,7 +6732,7 @@ of Christ was shivered into a thousand pieces
 in his hand.  
 His assault was as powerless to move th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862737:1869102801:0137/pct:84.43792505667422,70.47743379336069,14.655287371649553,7.888847444983215/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862737:1869102801:0137/pct:84.43792505667422,70.48365037921174,14.668622482997733,7.888847444983215/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6764,7 +6764,7 @@ moment out-rivalled the wide spread pop­
 ularity of his &quot;Common Sense&quot; and his  
 &quot;Rights of Man.&quot; The Church of Chris
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_antares_ver02:data:sn84026824:00271767778:1869120401:0615/pct:70.6108442004118,43.195967981025795,13.095401509951957,10.050400237177588/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_antares_ver02:data:sn84026824:00271767778:1869120401:0615/pct:70.6108442004118,43.195967981025795,13.104552733928163,10.05698850347531/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6787,7 +6787,7 @@ moment outrivaled the wide spread popu­
 larity of his &quot;Common Sense&quot; and his  
 &quot;Rights of Man.&quot; The Church of Chris
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dorothea_ver01:data:sn90061771:00200292807:1870020301:0019/pct:320.01733102253036,219.4868566031796,56.84575389948007,21.28128443255155/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dorothea_ver01:data:sn90061771:00200292807:1870020301:0019/pct:80.00433275563259,54.8717141507949,14.211438474870018,5.320321108137888/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6822,7 +6822,7 @@ ble under the blow. Christian men fear­
 ed for the safety of their faith before an  
 attack so audacions from a pen so powe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_baxter_ver01:data:sn83009653:00279524019:1870022501:0471/pct:207.5511732401398,154.72154963680387,38.691962056914626,37.469733656174334/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_baxter_ver01:data:sn83009653:00279524019:1870022501:0471/pct:69.1750904779733,51.56939040207523,12.895711136070553,12.488831243695056/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6851,7 +6851,7 @@ the Cross of Christ was shivered into a thou­
 sond pieces in his hand.  
 His assualt was as powerless to move th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340640:1870022501:0243/pct:73.28537170263789,52.508361204013376,10.887290167865707,7.717081630125108/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340640:1870022501:0243/pct:73.27365728900256,52.50185781520931,10.889546035805626,7.719222194699034/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6873,7 +6873,7 @@ on for the moment outrivaled the
 wide spread popularity of his &quot;Common  
 Sense and his &quot;Rights of Man.&quot; Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn87075001:00237286935:1870031101:0774/pct:246.35503617139676,35.323011211959425,42.73789649415693,17.255739455419114/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn87075001:00237286935:1870031101:0774/pct:61.58875904284919,8.830752802989856,10.684474123539232,4.3139348638547785/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7065,7 +7065,7 @@ should prove his manhood by beating his
 mother.&quot; Faino persiste I. His &#x27; Ago of  
 Reason,&quot;&#x27; for tho moment, cutrivalled th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_gnomiemoore_ver01:data:sn84026912:00294558627:1871011301:0887/pct:2.5515660809778455,62.00858170010437,15.75248281130634,4.34883451235069/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_gnomiemoore_ver01:data:sn84026912:00294558627:1871011301:0887/pct:2.5566590272472625,62.01244733078202,15.757575757575758,4.352700143028335/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7291,7 +7291,7 @@ intend this letter itself as a proof o
 my friendship, and therefore add no  
 profession to it, but simply subscribe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn84026106:00280776555:1871030201:0252/pct:36.14262560777958,56.89252336448598,102.18800648298217,161.03971962616822/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn84026106:00280776555:1871030201:0252/pct:9.039319010944467,14.223130841121495,25.557357113903528,40.259929906542055/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7364,7 +7364,7 @@ j I intend this letter itself as a proof of
 my friendship, and therefore add no pro-  
 fession to it, but simply subscribe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn84026118:00280776348:1871071201:0113/pct:89.90384615384616,24.713715046604527,32.87721893491124,45.80559254327563/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn84026118:00280776348:1871071201:0113/pct:67.46207917129115,18.535286284953397,24.676285608583054,34.354194407456724/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7382,7 +7382,7 @@ advise you not to attempt unchaining
 the tiger, but to burn this piece before  
 it is seen by any other person. If me
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_osceola_ver01:data:sn84022046:0027955520A:1871091901:0276/pct:82.9916476841306,348.8636363636364,46.1085801063022,7.4509297520661155/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_osceola_ver01:data:sn84022046:0027955520A:1871091901:0276/pct:20.743974188650597,87.20464816010329,11.524957297399887,1.8624919302775984/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7427,7 +7427,7 @@ tempt unchaining the tiger, but to burn
 this piece before it is seen by any other  
 person. If men are so wicked with relig
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn82015099:00279556690:1871120201:0199/pct:24.675076452599388,18.991874397465914,13.09250764525994,2.1622366065280265/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn82015099:00279556690:1871120201:0199/pct:24.675076452599388,18.99876050130836,13.116399082568808,2.1656796584492493/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7706,7 +7706,7 @@ attempt unchaining the tiger; but to
 burn this piece before it is seen by any  
 other person. If men are so wicke
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn85034039:00294559929:1876111001:0394/pct:59.45587259455873,285.14046014999366,43.39747843397478,69.70891063937968/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn85034039:00294559929:1876111001:0394/pct:14.87136929460581,71.28511503749841,10.854771784232366,17.42722765984492/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7746,7 +7746,7 @@ not to attempt unchaning the ti­
 ger; but to burn this piece before  
 it is seen by any other person. I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn85034374:00295877996:1876120901:0497/pct:165.0087260034904,210.80552840988412,49.12739965095986,62.99036716459584/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn85034374:00295877996:1876120901:0497/pct:41.27018769096465,52.70138210247103,12.287210824967262,15.74759179114896/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7781,7 +7781,7 @@ not to attempt unchaintng.the tiger, but
 to burn this piece before it is seen by any  
 other person. If men are so wicked-wit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jordan_ver01:data:sn90069164:00280776828:1877041001:0127/pct:102.72727272727273,92.84901673980173,23.106060606060606,19.323907037217616/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jordan_ver01:data:sn90069164:00280776828:1877041001:0127/pct:77.0649153826724,69.64082561352186,17.352866885577168,14.496993336583781/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7805,7 +7805,7 @@ ance. If men are not so sick with relig
 ion, what would they be if without it P&quot;  
 writing a tew weeks before his death t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_felice_ver01:data:sn87052128:00200292182:1877061501:0609/pct:32.231404958677686,20.541036221916553,23.32415059687787,7.672321565031331/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_felice_ver01:data:sn87052128:00200292182:1877061501:0609/pct:24.18465778594396,15.405777166437414,17.501148369315572,5.761882928320342/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7851,7 +7851,7 @@ mother. I would advise you not to attempt unchaining
 tho tiger, but to burn this pieco before it is  
 seen by any other person. If men aro so wicke
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_cardinal_ver01:data:sn83025121:00211108873:1878031301:0176/pct:60.09305654974946,35.38355217691776,16.338582677165356,7.961299239806496/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_cardinal_ver01:data:sn83025121:00211108873:1878031301:0176/pct:45.09488005728607,26.53766413268832,12.262799856784818,5.970974429854873/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7925,7 +7925,7 @@ Intend thia letter itself aa a proof of my
 friendship, and therefore add no profM­  
 .iona, but subscrib
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_eritrea_ver01:data:sn84026844:00202193432:1878050301:0432/pct:28.310381355932204,13.135593220338983,12.579449152542374,30.34957627118644/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_eritrea_ver01:data:sn84026844:00202193432:1878050301:0432/pct:28.310381355932204,13.135593220338983,12.592690677966102,30.36723163841808/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8078,7 +8078,7 @@ proof of
 my friendship, 18c. Now, if there is  
 one man who ever lived, noted for be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00280779180:1880021901:0038/pct:113.27287716405606,71.28768667230206,52.019785655399836,63.285432516201745/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00280779180:1880021901:0038/pct:28.329896907216494,17.821921668075515,13.010309278350515,15.821358129050436/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8165,7 +8165,7 @@ I intend this letter itself as a proof of my friend
 ship, and therefore add no profession to it; but  
 simply subscribe, yours, B. FRANKLIN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn83045160:00280779623:1882041601:0355/pct:62.578288100208766,242.46560733710143,34.864300626304804,51.99957342433614/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn83045160:00280779623:1882041601:0355/pct:15.648655703471679,60.61640183427536,8.71835030018272,12.999893356084035/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8214,7 +8214,7 @@ i intend thia letter itaelf as a pronr or my
 friendship and therefore add no jroeion te  
 it, butsc&quot; ?ribo simply yours
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_harvey_ver03:data:sn82015080:00212473777:1883100501:0181/pct:110.42623787646758,7.280343073701007,31.92955589586524,136.85050364017152/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_harvey_ver03:data:sn82015080:00212473777:1883100501:0181/pct:73.64054123053357,4.856886406701904,21.291804952769976,91.23366909344769/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8249,7 +8249,7 @@ mischief to you, and no benefit to others. He
 that spits against the wind spits In his own  
 fac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_mustang_ver01:data:sn99067997:00415625054:1883100602:0242/pct:94.97772377480761,28.93966838511913,17.51721344673957,9.892712832659885/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_mustang_ver01:data:sn99067997:00415625054:1883100602:0242/pct:75.99092774597689,23.151519655198037,14.0133923749865,7.9140967526194546/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8277,7 +8277,7 @@ it, but subscribe simply yours,
   
 —N. Y. Observer.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_mustang_ver01:data:sn99067997:00415625054:1883100602:0242/pct:95.0384771162414,38.60944684408527,17.43620899149453,6.423296642050996/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_mustang_ver01:data:sn99067997:00415625054:1883100602:0242/pct:76.03412895561075,30.890986103886455,13.948590560535695,5.134874043248867/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8360,7 +8360,7 @@ proof of my friendship, and therefore
 add no professions to it, but subscribe.  
 simply your.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn83032011:00237288014:1884022201:0715/pct:93.90075809786354,44.918074756784435,14.886285320468643,42.93394777265745/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn83032011:00237288014:1884022201:0715/pct:70.45846259910375,33.691756272401435,11.168562564632886,32.206861239119306/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8517,7 +8517,7 @@ fAlibones&#x27; Dictionary of Authors,
 V-USL)  
 1 utterly lail to see anv bad r
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_apachetrout_ver01:data:sn85032938:00211105586:1896070801:0357/pct:48.53128991060026,92.01221660989076,14.846743295019158,9.62058028896981/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_apachetrout_ver01:data:sn85032938:00211105586:1896070801:0357/pct:36.41009262216544,69.01209914248795,11.146598530820825,7.224245271937037/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

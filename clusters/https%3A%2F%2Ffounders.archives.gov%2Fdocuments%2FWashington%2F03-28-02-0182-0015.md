@@ -811,7 +811,7 @@ Obedient and most humble
 Servant,  
 JAMES ROBERTSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1780120401:0437/pct:36.70189343901365,19.060977410305625,28.159401144870102,71.51926768049609/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1780120401:0437/pct:36.71657126082489,19.06589891234805,28.15206223396448,71.51926768049609/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

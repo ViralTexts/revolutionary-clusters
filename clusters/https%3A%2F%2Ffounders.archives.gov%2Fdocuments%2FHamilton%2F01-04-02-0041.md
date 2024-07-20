@@ -161,7 +161,7 @@ Resolved, (if the Honorable the Senate
 concur herein,) That this legislature does  
 approve of the principles contained in the r
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183955:1820112401:0235/pct:19.72195279663757,57.257870704157654,14.500484966052376,9.745253544820956/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183955:1820112401:0235/pct:19.718765152739614,57.25099122912411,14.503528904692635,9.748087628659539/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -228,7 +228,7 @@ Resolved, if the honorable the Senate
 concur herein, That the person administer­  
 ing the government of this State be re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021206:00517171955:1827041101:0372/pct:104.7188360204483,98.24314827828532,18.85568226504129,14.293745607870695/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021206:00517171955:1827041101:0372/pct:81.15603413246647,76.14552320092949,14.612962210483543,11.077626897102608/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -288,7 +288,7 @@ herein) that our Senators be instructed, and ou
 
 ---
 
-## [From _The United States Review (1853-1856)_](https://archive.org/details/sim_united-states-democratic-review_1855-07_36/page/n54/mode/1up?view=theater)
+## [From _The United States review_](https://archive.org/details/sim_united-states-democratic-review_1855-07_36/page/n54/mode/1up?view=theater)
 
 #### 1855-07-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 

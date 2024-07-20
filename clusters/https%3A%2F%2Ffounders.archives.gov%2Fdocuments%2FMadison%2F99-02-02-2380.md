@@ -89,7 +89,7 @@ nCS*^.i«n that would the citizens of the Uni­
 promote their own personal benefit, but the good  
 • of their country and the worl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jumboshrimp_ver01:data:sn85025007:0041421650A:1834111801:0468/pct:6.29190304280557,88.74984959691974,19.167955991060683,6.665864516905306/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jumboshrimp_ver01:data:sn85025007:0041421650A:1834111801:0468/pct:6.29082158817463,88.73917228103946,19.170390741377336,6.669072826435675/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -116,7 +116,7 @@ JAMES MADISON,
 ANDREW JACKSON,  
 JOHN QUINCY ADAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182938:1834112001:1207/pct:22.15749296906388,75.50312283136711,17.255926074728805,5.9541984732824424/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182938:1834112001:1207/pct:22.153042779674635,75.49264501804052,17.257481421972283,5.95684152095476/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -408,7 +408,7 @@ James Madison,
 Axdrk.w Jackson,  
 John IJuincy Adams
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1834121701:1115/pct:59.643435980551054,67.98741405430603,22.042139384116695,10.371751544109078/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1834121701:1115/pct:59.643435980551054,67.99518315658625,22.060147667927247,10.367866992968963/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -440,7 +440,7 @@ JAMES M A DISOX
 JOHN QUINCY ADAMS  
 ANDREW JACKSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186932:1834122501:0206/pct:46.31596144420846,49.143468950749465,13.772259434732886,10.373542707589817/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186932:1834122501:0206/pct:46.30839594903626,49.13762340906388,13.775454644451704,10.376273740137187/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -516,7 +516,7 @@ JAMES MADISON,
 ANDREW JACKSON,  
 JOHN QUINCY ADAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182963:1845021301:0032/pct:59.283734811340864,40.79966795794134,17.011298230654443,6.3918096292197015/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182963:1845021301:0032/pct:59.271099744245525,40.794024069719185,17.01300085251492,6.394383732189791/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -560,7 +560,7 @@ James Madison,
 Andrew Jackson,  
 John Guincy A dams
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn84023649:00280777778:1845022601:0850/pct:9.30047694753577,18.09320743222662,149.92050874403816,358.7572342369784/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn84023649:00280777778:1845022601:0850/pct:2.3251192368839426,4.523301858056655,37.48012718600954,89.6893085592446/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -590,7 +590,7 @@ JAMES MADISON,:
 ANDREW JACKSON,  
 JOlN Q. ADAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472037:1845022801:0298/pct:335.22550544323485,247.35406437534098,59.72006220839813,41.02564102564103/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472037:1845022801:0298/pct:83.80637636080871,61.838516093835246,14.930015552099533,10.256410256410257/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -618,7 +618,7 @@ world. JAMES MADISON,
 ANDREW JACKSON,  
 JOHN QUIXCV ADAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_jalapeno_ver02:data:sn83009567:0029602613A:1845030401:0224/pct:62.88542063189951,84.05677277111754,14.370003806623524,7.441091360066143/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_jalapeno_ver02:data:sn83009567:0029602613A:1845030401:0224/pct:62.88542063189951,84.06595930366083,14.382692551706636,7.441091360066143/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -654,7 +654,7 @@ JAMES MADISON.
 ANDREW JACKSON.  
 JOHN QUINCY ADAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82007022:00393342882:1845030501:0313/pct:0.6544953496383052,60.20779220779221,11.109197382018602,6.311688311688312/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82007022:00393342882:1845030501:0313/pct:0.6543826416394007,60.19997402934684,11.11158946099535,6.314115049993507/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -684,7 +684,7 @@ JAMES MADISON,
 ANDRE W JACKSON.  
 JOHN QUINCY ADAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn84026897:00237288312:1845030501:0282/pct:78.0013759889921,37.01502970989165,14.826281389748882,9.390655947803799/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn84026897:00237288312:1845030501:0282/pct:78.00710927645912,37.02279700182531,14.832014677215916,9.386772301836965/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -780,7 +780,7 @@ JAMES MADISON.
 ADREW JACESON.  
 JoHN GuINCY ADAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn85054702:00280776014:1847021301:0383/pct:76.0522496371553,241.432664756447,56.821480406386065,37.87965616045845/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn85054702:00280776014:1847021301:0383/pct:19.019963702359348,60.35816618911175,14.210526315789474,9.469914040114613/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -806,7 +806,7 @@ they would no! only pmmo&#x27;e their own personal
 benefit, but the goal ol onrcountry and the world.  
 Signed, Jimes Madison
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664291:1847080601:0486/pct:59.18518518518518,88.58873293597385,13.6,5.191309363583926/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664291:1847080601:0486/pct:59.19506172839506,88.59514195987951,13.609876543209877,5.191309363583926/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -835,7 +835,7 @@ JAMES MADISON,
 JOHN QUINCY ADAMS,  
 ANDREW JACKSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021169:00514152780:1849041901:0071/pct:44.65062336909249,31.672558550596552,12.902290518991013,8.605832965090588/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021169:00514152780:1849041901:0071/pct:44.65545568763893,31.679923405508912,12.902290518991013,8.613197820002945/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -869,7 +869,7 @@ only promote their own personal benefit, but the good of the
 country and the world.  
 JAMEs MAdisOn. John TYler
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_diglett_ver01:data:sn82015378:00295872378:1849042301:0396/pct:192.1082949308756,273.93048128342247,43.663594470046085,9.946524064171124/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_diglett_ver01:data:sn82015378:00295872378:1849042301:0396/pct:64.03609831029186,91.31016042780749,14.55453149001536,3.3155080213903743/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -941,7 +941,7 @@ efit, but the good of the eountry and the world.
 James Madison, Martin Van Buren,  
 J C Adams. John Tyler
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279559836:1849060101:0011/pct:311.72920493308845,278.6921381337252,59.32826029913409,18.681116825863334/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279559836:1849060101:0011/pct:77.9118572927597,69.66023875114784,14.828174186778593,4.669421487603306/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -968,7 +968,7 @@ MADISON.
 JOHN QUINCY ADAMS,  
 ANDREW JACKSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ingstad_ver01:data:sn90068957:00296027005:1849090801:0112/pct:85.3528153955809,70.26789635485288,19.44048467569494,9.354413702239789/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ingstad_ver01:data:sn90068957:00296027005:1849090801:0112/pct:64.0463458110517,52.700922266139656,14.581105169340464,7.0267896354852875/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1034,7 +1034,7 @@ JAMES MADISoN,
 ANDREW JACKSON,  
 JOhN quISCY AOAMs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530339:1851021301:0292/pct:151.606963508537,45.91245947197777,48.275862068965516,14.161648911533117/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530339:1851021301:0292/pct:50.53565450284567,15.304153157325922,16.091954022988507,4.720549637177705/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1145,7 +1145,7 @@ country and the world.
 &quot;(Signed)--James Madison, Andrew  
 Jackson, John Quincy Adams, M. Va
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn87070038:00296028058:1851022701:0791/pct:17.374517374517374,347.81872088098265,50.19305019305019,33.48863475928279/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn87070038:00296028058:1851022701:0791/pct:4.345307068366164,86.95468022024566,12.553109308613363,8.372158689820697/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1173,7 +1173,7 @@ wurld
 &#x27;&#x27; (Signed) Jas. Madison, Andrew Jackson,  
 John Quincy Adams, M. Van Boren. John Tr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_black_ver02:data:sn84026561:00415667802:1851022801:0113/pct:68.16298342541437,116.26875852660301,19.244935543278086,10.027285129604365/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_black_ver02:data:sn84026561:00415667802:1851022801:0113/pct:51.1633264224833,87.21009549795362,14.443676572218383,7.520463847203274/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1275,7 +1275,7 @@ nal benefit, but the good of our country and the&#x27;-world.-
 JAMES MADISON, &quot; &quot; &quot;T &quot; :  
 JOHN QUINCY ADAMS. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_lilac_ver02:data:sn82015408:00237289687:1851122701:0353/pct:104.6964856230032,82.72789581905414,20.159744408945688,8.293351610692255/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_lilac_ver02:data:sn82015408:00237289687:1851122701:0353/pct:78.55544902524768,62.051633538953624,15.132630233301374,6.21430203335618/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1380,7 +1380,7 @@ Mes MAdisOn,
 ANdrEW JAcEsoN,  
 JoHN G Adaws
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_kingler_ver01:data:sn87058152:00279529224:1856022201:0424/pct:48.53721129170231,188.42834728033472,38.203592814371255,21.48274058577406/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_kingler_ver01:data:sn87058152:00279529224:1856022201:0424/pct:16.179070430567435,62.80944909344491,12.734530938123752,7.160913528591353/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1435,7 +1435,7 @@ but the good of our country and the world.”
 : James Madison, James K. Polk,  
 ! John Quincy Adams, Z. Taylor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:0041421597A:1857111401:0472/pct:46.3013698630137,74.14843533647189,12.827788649706457,6.8886734976460815/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:0041421597A:1857111401:0472/pct:46.29683983954603,74.14330218068535,12.829794866777549,6.890504211376485/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1461,7 +1461,7 @@ would not only promote their own personal
 health, but the good of our country and the  
 world
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn86092535:00202190601:1857111401:0469/pct:140.59466019417476,327.586768779534,62.034789644012946,26.739449242300797/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn86092535:00202190601:1857111401:0469/pct:35.14866504854369,81.8966921948835,15.508697411003237,6.684862310575199/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1488,7 +1488,7 @@ would not only promote their own personal
 health, but the good of our country and the  
 world.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn86060019:00415668892:1857111801:0080/pct:13.18208778173191,46.56480158293943,11.284104389086595,4.66087721226778/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn86060019:00415668892:1857111801:0080/pct:13.187030446816923,46.56480158293943,11.28904705417161,4.675534058847239/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1543,7 +1543,7 @@ good of the country and the world.&quot;
 JAMEs MADisoN, JAMEs K. PoLk,  
 JoHn QuIncY ADAMs, Z. TAYLOr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_gonne_ver01:data:sn88067030:00202190133:1857112801:0384/pct:129.7058823529412,244.79418886198548,50.79831932773109,18.568401937046005/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_gonne_ver01:data:sn88067030:00202190133:1857112801:0384/pct:43.23529411764706,81.59806295399515,16.932773109243698,6.189467312348668/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1618,7 +1618,7 @@ the good of our country and the world.&quot;
 James Madison, James K. Polk,  
 John Qnincy Adams, Z. Taylor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237286893:1857123001:0103/pct:79.85050890585242,87.65103914934751,14.456106870229007,11.660222329627839/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237286893:1857123001:0103/pct:59.920445505171045,65.74432092798453,10.85123309466985,8.74818753020783/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1714,7 +1714,7 @@ promote their own personal benefit, but the good
 of the coentry and the world.  
 Janes Madison, James K. Polk
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414183402:1861072501:0117/pct:3.2235701906412477,73.08673469387755,12.547660311958406,5.051020408163265/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414183402:1861072501:0117/pct:3.223011609773003,73.07741359520469,12.549818055796223,5.053564596352506/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1744,7 +1744,7 @@ the world.
 James Madison. Andrew Jackson,  
 John Quincy Adams, M. Van Buren
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035144:00280775575:1865051701:0165/pct:67.2992700729927,278.6035440359693,43.7956204379562,25.760380851626554/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035144:00280775575:1865051701:0165/pct:16.834033229870368,69.65088600899233,10.954902318787658,6.4400952129066384/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1773,7 +1773,7 @@ ot onr country and the world.
 James Madison, . Andrew Jackson,  
 John Quincy Adams, M. Van Huron
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_halsted_ver02:data:sn82014064:no_reel:1865051801:0003/pct:44.005320159604786,72.39921060050747,9.842295268858066,4.510854243022273/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_halsted_ver02:data:sn82014064:no_reel:1865051801:0003/pct:44.010070302109064,72.40625881026219,9.851795553866616,4.514378347899633/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1881,7 +1881,7 @@ j world.
 James Madison, Andrew Jackson,  
 I John CJuincy Adams, M. Van Buren
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn82005159:00296028460:1865060201:0057/pct:77.64724559453882,65.90122317101316,14.70074615018257,7.800600046157396/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn82005159:00296028460:1865060201:0057/pct:77.65253743980526,65.90891607046696,14.70074615018257,7.796753596430495/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1994,7 +1994,7 @@ good of the&quot; country and the world. ?
 James Madison- - Andrew Jackson,  
 John Quincy Adams, M. Van Buren
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn82016419:00212472931:1865070101:0409/pct:95.01424501424502,49.66727856815053,20.014245014245013,8.398347865993575/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn82016419:00212472931:1865070101:0409/pct:63.37466153626906,33.11151904543369,13.353284879578167,5.59889857732905/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2024,7 +2024,7 @@ Andrew Jackson.
   
 John Quincy Adams M. Van Buren
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn84024207:00296028022:1865070601:0112/pct:318.46504559270517,327.5761368377138,51.443768996960486,35.37755527743012/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn84024207:00296028022:1865070601:0112/pct:79.61626139817629,81.89403420942845,12.860942249240122,8.84438881935753/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2052,7 +2052,7 @@ try and the world.
 James Madison Andrew Jackson,  
 John Quinoy Adams, M. Van Buren
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gorn_ver01:data:sn84026789:00271768047:1865090601:0187/pct:212.05886769785252,97.22858701582106,40.71181859138009,25.57555919258047/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gorn_ver01:data:sn84026789:00271768047:1865090601:0187/pct:70.68628923261751,32.40952900527368,13.570606197126695,8.525186397526824/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2082,7 +2082,7 @@ fis, but the good of our country and the
 world.  
 James Madison, Andrew Jackson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn85029094:00237281858:1865102101:0958/pct:230.13698630136986,306.7410035478966,49.45205479452055,36.08717688798784/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn85029094:00237281858:1865102101:0958/pct:57.55395683453237,76.68525088697415,12.36724905789654,9.02179422199696/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2114,7 +2114,7 @@ Signed, JAMES MaADISON.
 JOHN Q.ADAMS.  
 Oor., 1834. ANDrEW JACKSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn87075001:00237286935:1868021301:0351/pct:36.02533650039588,107.73739742086752,56.13618368962787,39.44900351699883/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn87075001:00237286935:1868021301:0351/pct:9.008117204513958,26.93434935521688,14.036824391209661,9.862250879249707/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2170,7 +2170,7 @@ JAMEs MADIsoN,nu 54 2. TaYLok,
 ANDREW JACrsON. MILLARd EILLMORe,  
 Jols OuiNoY ADeis, JAMEs K. PoLk
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_euclid_ver01:data:sn83030214:00206530911:1869040301:0670/pct:246.99862532457615,11.666484775728474,47.976172292653125,16.86128997053367/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_euclid_ver01:data:sn83030214:00206530911:1869040301:0670/pct:82.33287510819204,3.8888282585761575,15.992057430884374,5.62042999017789/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2196,7 +2196,7 @@ they would not only promote their own person­
 al benefit, hut the good of our country and the  
 world. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_harpswell_ver01:data:sn83016025:00279525279:1869040801:0220/pct:17.731758615110824,23.51792279411765,10.904384403818153,3.9751838235294117/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_harpswell_ver01:data:sn83016025:00279525279:1869040801:0220/pct:17.728890326755096,23.515221137277425,10.906664509867356,3.977599080987938/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2227,7 +2227,7 @@ world.
 JAMES MADISON, Z. TAYLOR,  
 A. JACKSON, M. FILLMORE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159361:1869042001:0609/pct:27.88030582652254,15.810438157491573,10.703928288953335,8.354611377795935/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159361:1869042001:0609/pct:27.88030582652254,15.810438157491573,10.712716407417172,8.361420352023968/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2291,7 +2291,7 @@ the world.
 JAMes MAdIson, Z. TAYLOr,  
 AndreW Jackson, MilLArd FILLMOre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292996:1869042501:0468/pct:23.587833643699565,229.85250737463127,43.265052762259465,31.008849557522122/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292996:1869042501:0468/pct:5.899705014749262,57.46312684365782,10.821301040211146,7.752212389380531/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2320,7 +2320,7 @@ country and the world.
 James Madison, Andrew Jackson,  
 John Quiucy Adam. M. Van Buren
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn85038180:00296026724:1869052701:0540/pct:7.575757575757576,11.41933746296795,16.609848484848484,11.230810665230273/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn85038180:00296026724:1869052701:0540/pct:5.6839712012125805,8.564503097225963,12.46684350132626,8.429841098841907/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2347,7 +2347,7 @@ mote their own personal benefit but the good
 of our country and the world. James Madi­  
 son, John Quincy Adams, Andrew Jackson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_dyerbrook_ver01:data:sn82014248:00332895904:1874052701:0813/pct:30.829966948218875,37.70049680624557,12.66984943077488,7.622427253371185/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_dyerbrook_ver01:data:sn82014248:00332895904:1874052701:0813/pct:30.82430695795851,37.695146182231056,12.672113089774188,7.624893556627874/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2382,7 +2382,7 @@ continue entirely the use of it, they would not
 not only promote their own personal benefit, but  
 the good of our country and the world
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777675:1877121201:0204/pct:200.22641509433961,194.7688392478439,41.660377358490564,14.421037749187049/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777675:1877121201:0204/pct:50.08495374740419,48.69220981196098,10.420993014914103,3.605259437296762/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2409,7 +2409,7 @@ they would not only promote their own psr­
 &#x27; the world.  
 .lames Madison, Andrew Jackson. J. &lt;J
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_otterhound_ver01:data:sn83045462:00280654498:1878022501:0182/pct:14.534800628840932,54.61105804945346,13.720165785336572,5.136368460150695/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_otterhound_ver01:data:sn83045462:00280654498:1878022501:0182/pct:14.538373588680864,54.619017298100395,13.727311705016435,5.139021543033004/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2505,7 +2505,7 @@ Andrew Jackson.
   
 John Quincy Adams
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jimmy_ver02:data:sn88061082:0029602062A:1884100401:0577/pct:46.463815789473685,6.988390621443205,12.870065789473685,10.972000910539494/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jimmy_ver02:data:sn88061082:0029602062A:1884100401:0577/pct:34.86905251611134,5.24698383792397,9.653092006033182,8.229000682904621/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2568,7 +2568,7 @@ our country and the world.&quot; Sign­
 ed by thirteen of our presidents, viz :  
 James Madison, John Quinc&#x27; Adams
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_beetlebailey_ver01:data:sn88068010:00294556084:1885011601:0222/pct:25.410997732426303,81.56703977137414,14.299886621315192,13.276970707311264/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_beetlebailey_ver01:data:sn88068010:00294556084:1885011601:0222/pct:19.064493267186393,61.18123362705406,10.729978738483345,9.95475113122172/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2598,7 +2598,7 @@ world.
 Andrew Jackson,  
 Johh Quthct Adams
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762349:1885062401:0109/pct:71.06067922098825,89.47895791583166,10.606792209882505,6.625751503006012/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762349:1885062401:0109/pct:71.06067922098825,89.48522044088176,10.606792209882505,6.625751503006012/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2618,7 +2618,7 @@ our country and the world.
 Andrew Jackson,  
 John.Quincv Adams
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348495:1885112601:0625/pct:49.23173408592035,27.58417706616435,10.693007212292255,2.8726159642100306/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348495:1885112601:0625/pct:49.224016303495844,27.580929958799295,10.695250039191096,2.8752207180694525/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2684,7 +2684,7 @@ James Madison, Z. Taylor.
 Andrew Jackson, Millard Fillmore,  
 John Quincy Adams, James K. Polk
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210156:1886032101:0179/pct:65.46433378196501,70.37108620023193,14.481830417227457,5.1024352531890225/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210156:1886032101:0179/pct:65.47330641543293,70.37108620023193,14.477344100493495,5.112098956320062/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2715,7 +2715,7 @@ est and weighty testimonial are now
 appended the honored names of James  
 Madison. John Quiney Adams, Andre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_gargoyle_ver02:data:sn92064114:00514153292:1886032701:0124/pct:27.714103788602355,63.43853135313531,19.929958611907036,13.046617161716172/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_gargoyle_ver02:data:sn92064114:00514153292:1886032701:0124/pct:27.724716120131593,63.44196919691969,19.935264777671655,13.043179317931793/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2744,7 +2744,7 @@ benefit but the good of our country and
 the world.&quot; James Madison, Andrew  
 Jackson, John O. Adams, M. Va
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn86071719:00280777699:1886040701:0114/pct:195.97197898423818,321.23024348568987,57.443082311733804,29.73088423750534/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn86071719:00280777699:1886040701:0114/pct:49.003722356032405,80.30756087142247,14.363915042697613,7.432721059376335/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2846,7 +2846,7 @@ James Madison, Z. Taylor,
 Andrew Jackson, Millard Fillmore,  
 Joon Quincy Adams, James K. Folk
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn90053049:00332897901:1887021901:0268/pct:68.49809885931559,58.64223831842068,12.395437262357415,7.2716943615963645/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn90053049:00332897901:1887021901:0268/pct:68.48507888234175,58.633910820789545,12.397833111575746,7.2742118716273785/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2934,7 +2934,7 @@ Signed James MAntsos.
 Andrew Jacksok.  
 Jolts Quinxy Adams
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_foxtrot_ver01:data:sn87076843:00237282735:1887062401:0253/pct:78.8671875,46.75207234363225,14.5703125,11.19819140919367/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_foxtrot_ver01:data:sn87076843:00237282735:1887062401:0253/pct:59.1717132252393,35.071590052750565,10.920101582340301,8.394875659382064/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2963,7 +2963,7 @@ country and the world.
 Andrew Jackson ,  
 John Qdtxcv Adams. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_indianola_ver01:data:sn94056415:00206537760:1889041901:0518/pct:43.172454384932315,78.61587982832619,16.05356091818717,9.216738197424892/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_indianola_ver01:data:sn94056415:00206537760:1889041901:0518/pct:32.397320771382304,58.967274678111586,12.045488002355366,6.909871244635193/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2995,7 +2995,7 @@ James Madison.
 Andrew Jackson.  
 &#x27;John Quincy Adams
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn86069867:00175044152:1891060601:0062/pct:37.05420827389444,98.15195071868582,15.263908701854493,12.615503080082135/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn86069867:00175044152:1891060601:0062/pct:27.809489832322512,73.61396303901438,11.452015697466999,9.471252566735114/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3046,7 +3046,7 @@ and the world,
 Andrew Jackson,  
 JohnQuincy Adams
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_middlebury_ver01:data:sn84022871:00202196457:1899052201:0631/pct:45.32181168057211,73.95338311835256,19.398092967818833,12.514143471373615/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_middlebury_ver01:data:sn84022871:00202196457:1899052201:0631/pct:34.008941877794335,55.465037338764425,14.560357675111774,9.391264992079655/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3074,7 +3074,7 @@ the use of it, they not only promote
 their personal benefit, but the good of  
 our country and-the world-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_mitchell_ver01:data:sn92073908:00416156761:1899082401:0544/pct:71.35350318471338,110.23724792408066,16.751592356687897,11.696322657176749/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_mitchell_ver01:data:sn92073908:00416156761:1899082401:0544/pct:53.536158012105766,82.68090154211151,12.567696718700223,8.778173190984578/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

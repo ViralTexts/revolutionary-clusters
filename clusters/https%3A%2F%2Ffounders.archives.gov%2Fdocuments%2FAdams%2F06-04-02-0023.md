@@ -139,7 +139,7 @@ ance of the Southern Colonies to repablican goverament.
 Papular principles and artome are abhorrent to the inclinations  
 of the Biroas of the South.&quot;  JOHN Adaes in 1776
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basic_ver01:data:sn83030213:00206530704:1862032101:0551/pct:103.43355274862124,159.13526868437307,48.65682262942537,15.25633106856084/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basic_ver01:data:sn83030213:00206530704:1862032101:0551/pct:34.47785091620708,53.04508956145769,16.218940876475124,5.08544368952028/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -267,7 +267,7 @@ tors of Baltimore to inaugurate seces
 aion and all its woes in Maryland, to  
 compass the destruction of the Natio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:0023728690A:1862051501:0092/pct:7.29525120440468,59.87096774193548,17.102546455609083,47.85806451612903/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:0023728690A:1862051501:0092/pct:5.473321858864027,44.903225806451616,12.839931153184166,35.89677419354839/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -341,7 +341,7 @@ su this sontinent to many votarles te Memmon thati
   
 sometimes dread the consoquences.&quot; He pad this ti
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chrysler_ver01:data:sn83030214:00175039946:1883012801:0244/pct:12.529146587906109,11.026016443293164,92.50738380226954,285.83173780831174/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chrysler_ver01:data:sn83030214:00175039946:1883012801:0244/pct:4.176382195968703,3.6753388144310546,30.835794600756515,95.27724593610391/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -366,7 +366,7 @@ land which has made on thia continent
 so many votaries to Mammon that I  
 sometimes dread the consequences.” He pai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_diamondville_ver05:data:sn84022149:00514150072:1883022801:0402/pct:51.34838851129138,7.847010235230742,11.00635825476869,4.435266654695637/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_diamondville_ver05:data:sn84022149:00514150072:1883022801:0402/pct:51.35386976540232,7.847010235230742,11.00635825476869,4.453223199856348/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -392,7 +392,7 @@ land which has made on this continent
 so many votaries to Mammon that I  
 sometimes dread the consequences.&quot; He pai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_alamo_ver01:data:sn85042331:00212470843:1883030901:0520/pct:63.1238289899506,79.03168387326451,13.898824731732244,5.256912305684111/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_alamo_ver01:data:sn85042331:00212470843:1883030901:0520/pct:63.13518423891444,79.03563941299791,13.893147107250327,5.260867845417507/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

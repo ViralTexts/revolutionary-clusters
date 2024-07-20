@@ -506,7 +506,7 @@ Neceflity of their taking up Arms,”” It was received with great
 Applause, and the Approbation of the Army, with that of a great  
 Number of other People, was immediately announced by thre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775072501:0471/pct:37.34309623430963,26.827614268276143,26.171548117154813,3.8790180387901803/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775072501:0471/pct:37.357043235704325,26.827614268276143,26.16457461645746,3.8880600388806004/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1466,7 +1466,7 @@ ting forth the causes and necessity of taking
 up arms, July 6, 1775.—The petition of the  
 Representatives of the United Colonies, t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1823051001:0055/pct:59.15875169606513,13.014273719563391,18.046132971506104,2.720403022670025/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1823051001:0055/pct:59.14270211611503,13.012088650100738,18.048019533369505,2.7241437206178643/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1494,7 +1494,7 @@ for the work in various parts of the United
 Stages.  
 The favorable reception that has been give
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1823053101:0067/pct:60.2300080235357,40.21594684385382,17.865739502540787,8.654485049833887/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1823053101:0067/pct:60.213903743315505,40.20926756352765,17.86764705882353,8.657199800697558/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1513,7 +1513,7 @@ ting forth the causes and necessity of taking
 up arms, July 6, 177.5.—The petition of the  
 Representatives of the United Colonies, t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1823060701:0071/pct:59.369102183877054,16.444296197464976,18.198975465084928,2.7685123415610406/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1823060701:0071/pct:59.35309973045822,16.441554110388527,18.200808625336926,2.7722194430548606/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1532,7 +1532,7 @@ ting forth the causes and necessity of taking
 up arms, July 6, 177.5.—The petition of tile  
 Representatives of the United Colonies, t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1823061401:0075/pct:59.93012631013168,19.463753723932474,17.575920451491534,2.730883813306852/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1823061401:0075/pct:59.914024717893604,19.46053284792322,17.57791509940892,2.734568922720503/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1551,7 +1551,7 @@ ting forth the causes and necessity of taking
 up arms, July 6, 1773.—The petition of the  
 Representatives of the United Colonies, t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1823062801:0079/pct:60.26881720430107,20.833333333333332,18.037634408602152,2.755644090305445/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1823062801:0079/pct:60.25262026337006,20.8298755186722,18.039505509271702,2.759336099585062/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1954,7 +1954,7 @@ It is entitled, 44 A Declaration by the Representa­
 &#x27; setting forth the causes and necessity of their  
 &#x27; taking up arms.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1845110101:0250/pct:3.4750613246116107,24.721048640450654,14.799672935404743,3.379915502112447/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1845110101:0250/pct:3.4750613246116107,24.728270682121835,14.808758063050785,3.376304481276857/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2052,7 +2052,7 @@ independant States. We fight not lor
 glory or for conquest. We exhibst to  
 mankind the remarkable spectacle of a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1845111301:0552/pct:104.52801227935534,242.71793521200948,113.27705295471988,46.77376876481433/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1845111301:0552/pct:26.14705317719332,60.67948380300237,28.33557304665003,11.693442191203582/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2079,7 +2079,7 @@ inhanitants of the said prorince, at th
 town of Leriugton, as appears by the af­  
 fidavits of a great anmber
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1845111301:0552/pct:46.508058326937835,310.9296813273637,113.81427475057559,23.439557545430603/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1845111301:0552/pct:11.63371088500672,77.73242033184093,28.469955845651757,5.859889386357651/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2300,7 +2300,7 @@ believe thai the Divine Author of our existence lutend.rf 2
 part of the human race to hold an absolute property in anil  
 n?t?i&#x27;nd&lt;Jd P??&quot;fr-&quot;&quot;her.. aSESSSK! Wtat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850070901:0780/pct:16.319218241042346,34.8563472978104,15.798045602605864,2.0630299962030123/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850070901:0780/pct:16.319218241042346,34.8563472978104,15.814332247557003,2.07146774669873/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2334,7 +2334,7 @@ causes and necessity of taking up arms,” i
 gress, setting forth the causes and necessity of their taking |  
 ! up attus, they say, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664382:1860030201:0078/pct:15.482671623954323,64.04052326153241,12.149780905590227,0.8557096488639717/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664382:1860030201:0078/pct:15.487097773646704,64.04380184256254,12.158633204974992,0.8589882298941018/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2383,7 +2383,7 @@ these colonies might, at least, require j
 tlmritv ov.-r them has been granted;  
 jto that body. Hut a reverence for our
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_alvarez_ver01:data:sn84026688:00415623458:1871051301:0039/pct:32.131147540983605,21.80342887056668,14.549180327868852,8.1010338960869/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_alvarez_ver01:data:sn84026688:00415623458:1871051301:0039/pct:32.1448087431694,21.80342887056668,14.549180327868852,8.1010338960869/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

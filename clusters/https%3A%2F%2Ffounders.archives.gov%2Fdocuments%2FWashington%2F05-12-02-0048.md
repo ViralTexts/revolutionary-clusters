@@ -78,7 +78,7 @@ tect of the Univet fe.may bless you here, and
 receive you hereafter in tys fmmortal Temple.  
 . , &amp; WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793022001:0002/pct:34.44173276388042,6.791961295124675,40.359975594874925,87.14179382210644/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793022001:0002/pct:34.44935936546675,6.791961295124675,40.390482001220256,87.1650539635281/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -829,7 +829,7 @@ convince mankind that the great object of
 masonry is, to promote the happiness of the  
 human race.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn87090028:00295877959:1843063001:0225/pct:71.51935297515887,27.573696145124718,20.566146735990756,11.882086167800454/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn87090028:00295877959:1843063001:0225/pct:53.66276549631556,20.68027210884354,15.431296055483312,8.91156462585034/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -871,7 +871,7 @@ i ington is held among the Mas*nic frater­
 England, on the lGth of June, which was  
 intended to commemorate the anniver
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn85059716:00202193018:1852111701:0221/pct:30.9748427672956,44.77114716106605,13.55695317959469,10.906720741599074/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn85059716:00202193018:1852111701:0221/pct:30.987945492662472,44.778389339513325,13.552585604472396,10.910341830822711/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -896,7 +896,7 @@ liberal principles must be founded in the immutable
 laws of truth and justice.&quot;  
 The orator referred to an instance of the remarkabl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn93067980:00295862270:1852112301:0201/pct:39.33579335793358,28.038839606808917,21.457564575645755,7.2524574442579715/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn93067980:00295862270:1852112301:0201/pct:39.33579335793358,28.04683129545273,21.469864698646987,7.2524574442579715/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -924,7 +924,7 @@ ples uiusl be louinled in the immutable
 laws of trulh am! justice.&quot;  
 The orator referred lo an instance o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_applejack_ver01:data:sn84020023:00295878460:1852121401:0491/pct:43.64035087719298,44.02628434886499,20.526315789473685,11.678614097968937/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_applejack_ver01:data:sn84020023:00295878460:1852121401:0491/pct:32.76278253236779,33.01971326164875,15.404871626069783,8.766427718040621/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1007,7 +1007,7 @@ the principles which actuate them, may tend to con­
 vince mankind that the grand objoct of Masonry is  
 to promote the happiness of the human race.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dunbar_ver01:data:sn85026214:print0021111017A:1869012401:0003/pct:6.658083501931212,84.27096774193548,12.102262276990988,3.7419354838709675/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dunbar_ver01:data:sn85026214:print0021111017A:1869012401:0003/pct:6.667279749862057,84.27741935483871,12.102262276990988,3.7483870967741937/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1030,7 +1030,7 @@ tend to convince mankind that the grand object of
 Masonry is to promote the happiness of the human  
 race.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dunbar_ver01:data:sn85026214:print0021111017A:1869020701:0003/pct:56.38766519823788,53.03638482455005,12.09618208516887,3.651430791143338/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dunbar_ver01:data:sn85026214:print0021111017A:1869020701:0003/pct:56.38766519823788,53.03638482455005,12.119126284875184,3.657904959212741/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1098,7 +1098,7 @@ grand object of Masonry is, to promote
 the happiness of the human race.&quot; So,  
 if we live and act, and so our successor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775435:1874101501:0391/pct:34.743005855562785,78.57234726688102,14.459986987638256,5.877813504823151/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775435:1874101501:0391/pct:26.065733810608524,58.932475884244376,10.852587048486821,4.411575562700965/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1147,7 +1147,7 @@ Masonry is to promote the happiness of the
 human race, and the principles are foundid  
 in the laws of Truth and Justice;” confi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kump_ver01:data:sn84026784:004141867109:1894011701:0219/pct:45.8592132505176,58.32143249478194,12.422360248447205,2.9221135889267273/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kump_ver01:data:sn84026784:004141867109:1894011701:0219/pct:45.852432352506284,58.315026362038665,12.425452215486224,2.9254540128881077/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -34,7 +34,7 @@ was to engage the co-operation of Kentucky in an
 energetic protestation ngainst the constitutionality of&#x27;  
 those laws. If Mr. Jeflfen-on had bel t ved Vi guu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830111901:0368/pct:4.5094936708860756,29.06499154385117,17.895569620253166,1.6670693404203913/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830111901:0368/pct:4.508780256288562,29.061480855175745,17.89801191794547,1.6708942303820913/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -52,7 +52,7 @@ ergetic protestation »gain*t the corsti&#x27;utlona&#x27;i’y ot
 those laws, li Mr, J&gt; ff. r.son had believed Virginia had  
 the constitutional power to nullify tl ose laws, why en
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184042:1830112301:0224/pct:5.8266360505166475,73.39177957417739,14.638346727898966,1.8444722759877035/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184042:1830112301:0224/pct:5.825799971301478,73.38342440801458,14.641029320323337,1.8480570734669095/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -68,9 +68,9 @@ the constitutional power to nullify tl ose laws, why en
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1840-06_7_30/page/n40/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1840-06_7_30/page/n40/mode/1up?view=theater)
 
-#### 1840-06-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1840-06-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -116,7 +116,7 @@ It may almost be said of him, what Mr. Jefleraon says of .
 and talents were too well known to derive any additional j  
 distinction froui the penning of these resolutions.&quot; Ye
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82003410:00415661174:1849082201:0177/pct:51.56987148202375,10.095911155981828,16.47958353668456,7.508833922261484/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82003410:00415661174:1849082201:0177/pct:51.56987148202375,10.104324415278478,16.490428935524104,7.508833922261484/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -200,7 +200,7 @@ in all Its ohastity and purity, will prove in the end a
 blessing to ell (he nations of the earth. With these prayers,  
 aooept those for your own happineee^and jjrosjrrnd^
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82003410:00415661174:1849082201:0177/pct:51.32585000813405,64.53811206461383,19.001138766878153,27.83947501261989/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82003410:00415661174:1849082201:0177/pct:51.33127270755382,64.54652532391049,19.001138766878153,27.835268382971563/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -239,7 +239,7 @@ constitution, which, cherished in all its chastity
 and purity, will prove in the end a blessing to all  
 the nations of the earth. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016866:00295878198:1852011701:0584/pct:35.25963149078727,62.591283863368666,18.620882188721385,17.879858657243815/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016866:00295878198:1852011701:0584/pct:26.455395783889433,46.94935217903416,13.97459165154265,13.404004711425205/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -289,7 +289,7 @@ that our central agent is “ a government
 proper,&quot; by which I understand him to  
 mean, that it has the right to judge fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_henson_ver01:data:sn83016108:00415625649:1861072001:0015/pct:39.613259668508285,32.142857142857146,36.16942909760589,86.455525606469/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_henson_ver01:data:sn83016108:00415625649:1861072001:0015/pct:30.70555211951092,24.917313651081017,28.0270231695133,66.99509104202207/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -353,7 +353,7 @@ sedition laws, and preserve inviolate a constitutich
 which cherished in all its chastity and purlty,  
 will prove, in the ond, a blessing to all theneton  o ee 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn83025182:00279528360:1867012001:0673/pct:47.79650032404407,19.673478975804557,57.16137394685677,139.29997650927882/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn83025182:00279528360:1867012001:0673/pct:15.932166774681356,6.557826325268186,19.053791315618923,46.433325503092945/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

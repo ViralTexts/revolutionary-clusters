@@ -552,7 +552,7 @@ return the haughty took, give truth its
 due force, and scorn the embroidered  
 iie.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_galloway_ver01:data:sn83032308:00513685506:1860032901:0515/pct:81.5894701766078,27.97281993204983,12.379206931022992,11.023027557568893/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_galloway_ver01:data:sn83032308:00513685506:1860032901:0515/pct:81.57587872730302,27.969300452944136,12.381309345327336,11.024786109713135/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -597,7 +597,7 @@ stand firm, return the hanghty look, bmile at
 the soperellUlos power, give truth its due  
 force, and scorn the embroidered lio.--ztrags
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_Cypher_ver01:data:sn86086284:00280762015:1874060701:1099/pct:35.96208148446954,70.85060520643343,15.711980637353772,20.261979771182226/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_Cypher_ver01:data:sn86086284:00280762015:1874060701:1099/pct:35.954829602742485,70.85060520643343,15.708812260536398,20.261979771182226/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

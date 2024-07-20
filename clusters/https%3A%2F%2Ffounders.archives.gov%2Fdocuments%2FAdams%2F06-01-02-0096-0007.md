@@ -346,7 +346,7 @@ children born there, or on the seas in going
 thither, thall have and enjoy all liberties and  
 immunities of free and natural fubjedts of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1773012801:0366/pct:4.132231404958677,39.06012439530062,26.685515441496303,3.372494816862474/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1773012801:0366/pct:3.2136636889712906,30.279225880168536,20.675318838136974,2.6137256302220955/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -532,7 +532,7 @@ were born within the realm of England.
 And in the said charter it is further  
 granted and ordained, that the Great an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1774030301:0541/pct:6.829810901001112,43.46073662265462,28.78754171301446,23.780403057678942/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1774030301:0541/pct:5.293103448275862,33.68878357030016,22.32183908045977,18.436737038632774/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -560,7 +560,7 @@ and Purposes whatever, as if they and every of them were bern
 within the Realm of England. 2 ¢  
 And in the said Charter itis further granted and ordained tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774031101:0207/pct:64.77174849267873,59.11053540587219,25.90439276485788,9.55670696603339/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774031101:0207/pct:64.77174849267873,59.11053540587219,25.911570485213897,9.566302053348686/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -383,7 +383,7 @@ jects.
 Art. 12 The present treaty shall continue  
 in force for ten years, Counting from the day 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn84021903:00414187432:1831032301:0040/pct:33.75751966682092,42.35333444760154,15.201295696436835,4.8972087581480865/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn84021903:00414187432:1831032301:0040/pct:33.74971084894749,42.346256684491976,15.20356234096692,4.900568181818182/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -412,7 +412,7 @@ hereafter to be published, by His Majesty
 the Emperor of Austria, to prevent the  
 emigration of his subjects
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn87062070:0039334295A:1831040601:0218/pct:40.31130160162418,25.59589800443459,17.978795398150236,3.395232815964523/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn87062070:0039334295A:1831040601:0218/pct:40.302210193955794,25.59235139254538,17.9822583070215,3.399381090942682/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -430,7 +430,7 @@ force of the laws already published, or hereafter |
 to be published by His Majesty the Emperor of |  
 Austria, to prevent the emigration of his subjects
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1831062801:0522/pct:23.013120193032726,37.73946360153257,16.377620268436132,2.9239766081871346/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1831062801:0522/pct:23.013120193032726,37.742824494185655,16.387674056200673,2.920615715534046/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -479,7 +479,7 @@ any manner from the force of the laws already published,
 or hereafter to be published by his Miajesty the King of  
 Bavaria, to prevent the emigration of his subjects
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271742940:1846082201:0222/pct:196.94434960737453,216.9481721425266,53.379993171730966,17.34150856085146/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271742940:1846082201:0222/pct:65.64811653579152,72.3160573808422,17.793331057243655,5.780502853617152/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -555,7 +555,7 @@ already published, or hereafter to be published,
 by his Majesty the King of Bavaria, to prevent  
 the emigration of his subjects
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn82014116:00279528530:1847021701:0042/pct:28.90272373540856,31.230659366817424,12.700389105058365,3.142109021661509/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn82014116:00279528530:1847021701:0042/pct:28.913099870298314,31.23462667618821,12.710765239948119,3.146076331032294/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -595,7 +595,7 @@ from all rights of detraction on the part of the govern-­
 ment of the respective States.  
 A glance at the wording of this article shows ho
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:00271743919:1875111601:0618/pct:151.26986727838766,116.7162471395881,46.223168933311484,5.354691075514874/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:00271743919:1875111601:0618/pct:50.42328909279589,38.905415713196035,15.407722977770495,1.7848970251716247/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

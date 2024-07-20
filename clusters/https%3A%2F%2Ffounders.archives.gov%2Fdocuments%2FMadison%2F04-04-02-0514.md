@@ -70,7 +70,7 @@ that owe of the*publication. I must observe, al*
 £o,timt tho’it i* true, that F have spoken of  
 the power of Congress in its enlarged sense
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348811:1827101801:0502/pct:1.2938230383973288,36.424128453638076,14.64941569282137,19.716476204252857/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348811:1827101801:0502/pct:1.2935530982683079,36.418860283482786,14.651575213853537,19.71724038183396/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -160,7 +160,7 @@ to the itt--, on any subject connected with the &#x27;,
 ex.sting state of parlies, Wiih m-pe.-t,  
 JA.MKS MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184017:1827102301:0209/pct:65.44992858276464,28.01302931596091,15.378511347405174,22.946073108939558/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184017:1827102301:0209/pct:65.43954300222151,28.00965018094089,15.381360414683169,22.947326095697626/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -218,7 +218,7 @@ any subject connected with the existing state of par­
 ties. With respect, ’  
 . T , JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184558:1827102401:0256/pct:6.243137254901961,28.19746593354052,17.725490196078432,22.95003585943103/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184558:1827102401:0256/pct:6.242158092848181,28.19409585275487,17.72793810121288,22.951276841560098/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -262,7 +262,7 @@ course now pursuing by some of the most emi­
 nent politicians of Virginia— 1 hat he reproba­  
 ted it, as vanping the foundations of her powe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216389:1827102501:0276/pct:5.957300275482094,23.051251489868893,18.47451790633609,6.412395709177592/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216389:1827102501:0276/pct:5.956274746083663,23.0485043498987,18.477075801916566,6.415604020180352/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -339,7 +339,7 @@ nication from me to the press, on any subject
 connecteo with the existing state of parties.  
 With respect, JAMES M \DISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216389:1827102501:0276/pct:3.994490358126722,40.56019070321812,20.43732782369146,39.17759237187128/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216389:1827102501:0276/pct:3.99380271991737,40.5553569300441,20.43954782808286,39.17689588050689/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -790,7 +790,7 @@ erwise known to me to be particularly entitled
 i to it, than might be inferred from the tone of  
 j the publication.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021206:00517171955:1827103101:0489/pct:24.745437079731026,63.29378925331473,18.65513928914505,24.145150034891834/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021206:00517171955:1827103101:0489/pct:19.183045463569584,49.05714800793221,14.46793726424459,18.723634396971335/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1084,7 +1084,7 @@ gication from me to the press, on any subject
 connected with the existing state of parties.  
 With respect, JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1827110601:0387/pct:30.785994479151533,45.54029116259996,15.472904256864739,26.85052286241542/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1827110601:0387/pct:30.795680178216863,45.547125965415894,15.468061407332074,26.847105461007448/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1163,7 +1163,7 @@ i couM n«t conjecture &quot; the ground on which the:
 misrepresenting his opinions of the powers of the  
 federal government a* tu the taritT, could not let s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184017:1827110901:0230/pct:34.04357577699455,55.58927054254157,15.668055110541493,2.5003034348828743/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184017:1827110901:0230/pct:34.03812269742111,55.58252427184466,15.670884724224464,2.5040453074433655/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1182,7 +1182,7 @@ he was “very eure that I could never have so
 far fo gotten what I owed to myself or the respect  
 due to him,” (die Governor) as to have spoke
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184017:1827110901:0230/pct:34.41204742069849,62.62895982522151,14.979173341877603,2.548853016142736/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184017:1827110901:0230/pct:34.406535319557904,62.62135922330097,14.98211330022959,2.552588996763754/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1436,7 +1436,7 @@ course to these explanatery remarks, withdrawn
 as I am from ecenes of political agitation by my  
 age, and pursuits more congenial with it.”’ Wil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1828022601:0447/pct:61.52694610778443,51.801892490436884,16.25748502994012,2.8790014093013894/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1828022601:0447/pct:61.53193612774451,51.8052479699349,16.26746506986028,2.8857123682974297/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1500,7 +1500,7 @@ foundotom of her ooy hate od pruenee ha ieht
 whist, os et a mme parity of her sister States, to embruce her  
 har le that by cefended the roght of the Natjonal Govern
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530200:1844081901:0478/pct:211.96850393700788,8.431781329627055,42.67716535433071,15.23048413249942/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530200:1844081901:0478/pct:70.65616797900262,2.810593776542352,14.225721784776903,5.076828044166474/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1562,7 +1562,7 @@ me to the press, on any subject connected with
 the existing state of parties.  
 With respect,JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530200:1844081901:0478/pct:212.18897637795277,42.91174426685198,42.74015748031496,73.24530924252953/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530200:1844081901:0478/pct:70.72965879265092,14.303914755617328,14.246719160104988,24.415103080843178/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1610,7 +1610,7 @@ the commencement of the Constitution of the
 United States by the several branches of  
 every administration under it,&quot; and tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chester_ver02:data:sn86053573:00211101970:1883072601:0174/pct:90.82412914188615,213.93336218087407,55.310110450297366,11.539016298860522/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chester_ver02:data:sn86053573:00211101970:1883072601:0174/pct:22.71085617165923,53.48334054521852,13.830465264499681,2.8847540747151306/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1631,7 +1631,7 @@ the United States by the several
 branches of every administration under  
 it, and that the power of Congress, i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn90061417:00294559917:1884091201:1076/pct:80.51851851851852,343.8968092328581,48.370370370370374,18.46571622539036/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn90061417:00294559917:1884091201:1076/pct:20.12962962962963,85.97420230821453,12.092592592592593,4.61642905634759/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1684,7 +1684,7 @@ candid mind the intentions of theframers
 of the constitution on the question of pro  
 tection. The entire constitution withou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_emerson_ver01:data:sn84020631:00415628936:1892081801:0783/pct:40.32889584964761,68.41284689741191,14.330462020360219,11.038353601496725/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_emerson_ver01:data:sn84020631:00415628936:1892081801:0783/pct:30.25259447816722,51.309635173058936,10.769532014881536,8.278765201122544/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

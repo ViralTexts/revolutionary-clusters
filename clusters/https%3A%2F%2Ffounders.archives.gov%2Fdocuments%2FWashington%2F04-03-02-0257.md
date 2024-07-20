@@ -80,7 +80,7 @@ forgotten.” _
 PHILADELPHIA, Dec. 31.  
 The House of Representatives o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1800011501:0218/pct:44.637725003781576,18.765940749460466,15.912872485251853,28.428487345497352/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1800011501:0218/pct:44.642767105329504,18.76921064678569,15.912872485251853,28.425217448172127/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -350,7 +350,7 @@ solation ever comes too soon; there is
 ; fine almost as a hair, for a comforter  
 I to take aim at
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn84026817:00202193778:1875101401:0476/pct:45.985060690943044,11.104120792702108,13.445378151260504,4.985844605221768/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn84026817:00202193778:1875101401:0476/pct:46.00256769374416,11.104120792702108,13.445378151260504,4.989776659326832/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -534,7 +534,7 @@ is digested it comes too late there is but
 a mark between these two, as fine almost  
 as a hair, for a comforter to take aim at
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_antares_ver03:data:sn90059959:00271742800:1889040601:0549/pct:20.534458509142052,32.59372609028309,14.283481794030317,15.422450541042737/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_antares_ver03:data:sn90059959:00271742800:1889040601:0549/pct:20.534458509142052,32.59736947571684,14.299109235818097,15.422450541042737/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -554,7 +554,7 @@ but one mark between these, as line al­
 most as a hair, for a comforter to take  
 aim at. Sterne
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_hobbs_ver01:data:sn84024283:00294556850:1890041001:0117/pct:8.647516457211252,35.17130003460607,16.008378216636743,3.7835967239589343/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_hobbs_ver01:data:sn84024283:00294556850:1890041001:0117/pct:6.496033527914983,26.381358864920983,12.004190989372848,2.8376975429692006/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -574,7 +574,7 @@ but one mark between these, as fine al­
 most as a hair, for a comforter to take  
 aim at—Sterne
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quasar_ver01:data:sn85025431:00212479834:1890042301:0133/pct:80.48421397022739,28.753351206434317,13.921151644037298,3.340035746201966/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quasar_ver01:data:sn85025431:00212479834:1890042301:0133/pct:80.49511969027755,28.757074769139113,13.910245923987132,3.343759308906762/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -594,7 +594,7 @@ but one mark between these, as fine al­
 most as a hair, for a comforter to take  
 aim at—Steftie.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033255:00514152524:1890042401:0066/pct:76.53268371904181,22.73522975929978,9.541209906617945,2.472647702407002/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033255:00514152524:1890042401:0066/pct:76.53268371904181,22.74252370532458,9.545721116975685,2.4799416484318018/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -638,7 +638,7 @@ but one mark between these, as fine
 almost as a hair, for a comforter to take  
 aim at
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_betelgeuse_ver01:data:sn90059959:00271742812:1890051701:0347/pct:39.52954675846242,5.888800318852132,25.301204819277107,88.07293742526903/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_betelgeuse_ver01:data:sn90059959:00271742812:1890051701:0347/pct:39.53910881621725,5.895443071608875,25.301204819277107,88.06961604889067/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -659,7 +659,7 @@ for a true comforter to aim at.
 There is an instinctive fitness In all true,  
 genuine sympathy. It adapts itself to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_kaweah_ver01:data:sn94052989:00175040237:1893041701:0441/pct:38.61949139156531,29.195891783567134,10.646027483809824,2.5425851703406814/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_kaweah_ver01:data:sn94052989:00175040237:1893041701:0441/pct:38.61949139156531,29.202154308617235,10.649976307060497,2.5457164328657313/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

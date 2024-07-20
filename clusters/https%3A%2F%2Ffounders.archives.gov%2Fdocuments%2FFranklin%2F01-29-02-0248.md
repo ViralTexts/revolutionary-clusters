@@ -346,7 +346,7 @@ and ind ependence, absoute and unlimited, of the
 United States, as well in matters of government  
 as of commerce.&quot; In the treaty of amity and commerc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:0027174321A:1855022801:0484/pct:153.8662486938349,119.21947638854905,47.17868338557994,9.725960362123807/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:0027174321A:1855022801:0484/pct:51.288749564611635,39.73982546284969,15.726227795193312,3.241986787374602/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -388,7 +388,7 @@ i Of the said United States,
 As well in matters of Government as of Com­  
 merce
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_easton_ver01:data:sn85025407:00279522230:1881101401:0205/pct:50.872776099362206,116.58344283837056,14.434373950990265,3.9553219448094614/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_easton_ver01:data:sn85025407:00279522230:1881101401:0205/pct:39.43112344447817,90.35576074411026,11.186749338767724,3.0653812207210267/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -420,7 +420,7 @@ Of the satd United States,
 As well in matters of Government as of Com­  
 merce
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_galloway_ver01:data:sn84026314:00513685518:1881102201:0282/pct:21.778124390719437,68.57792371811064,14.661727432248002,3.3468047486739074/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_galloway_ver01:data:sn84026314:00513685518:1881102201:0282/pct:21.773879142300196,68.56926379593384,14.663742690058479,3.3495390832175778/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -447,7 +447,7 @@ As well in matters of Government as of Com-
   
 merce
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_fleshgolem_ver02:data:sn92063989:00514153553:1881102201:0429/pct:55.631723265133935,70.43420616506464,9.565492512128243,3.3808418959231026/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_fleshgolem_ver02:data:sn92063989:00514153553:1881102201:0429/pct:55.63875413063348,70.43973041652856,9.565492512128243,3.3808418959231026/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -491,7 +491,7 @@ of Commerce
 ; Ab well in matters of Government as of ;  
 ; Commerce. ;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_engledinger_ver02:data:sn85033123:00514151283:1881102801:0464/pct:39.34051144010767,84.28513568246254,10.0,2.5212636695018227/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_engledinger_ver02:data:sn85033123:00514151283:1881102801:0464/pct:39.34051144010767,84.28851086809775,10.004486316733962,2.5212636695018227/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

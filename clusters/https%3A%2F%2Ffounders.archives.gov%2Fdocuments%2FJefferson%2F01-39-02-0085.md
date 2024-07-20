@@ -179,7 +179,7 @@ si&#x27; port at the expence. ofour lives and for
 alones, such measures as the honor, and  
 jotetffi of the Uuitcd Statcs may require
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802122001:0657/pct:5.5504446488807115,13.367515107123237,21.297148114075437,24.748214612708296/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802122001:0657/pct:5.549593745209259,13.366291311910647,21.29899330573867,24.74900057981629/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -317,7 +317,7 @@ they complain, and pledge themselves to
 fortunes, such measures as the honor and  
 Interestof the U. States may require, i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1803021101:0029/pct:6.966538672517828,68.93728222996516,21.036752605595172,16.428571428571427/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1803021101:0029/pct:6.964628461749383,68.92527434244906,21.037839319989033,16.430064448702318/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

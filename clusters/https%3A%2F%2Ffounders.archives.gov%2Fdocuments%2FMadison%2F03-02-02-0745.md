@@ -41,7 +41,7 @@ of the French Deer cs shall have actually token
 effect, a no the Commerce of neutral nations shall  
 have been restored to the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810102301:0202/pct:59.46886446886447,13.762703563119873,17.16117216117216,2.0448144973674545/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810102301:0202/pct:59.45797472990295,13.76101860920666,17.16413355307331,2.048645119164218/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -60,7 +60,7 @@ Ercnch^ftcreo shall have actually ta­
 ken the commerce of neutral  
 nations a mu! have been restored to the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810102301:0345/pct:22.483781278962002,4.652326163081541,17.516218721037998,3.414207103551776/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810102301:0345/pct:22.479614529280948,4.6517444041515565,17.519149987645168,3.41794839731566/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -94,7 +94,7 @@ restored to the condition in which it stood
 previously to the promulgation of those dc.  
 trees, his majesty will feel the highest sa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1810102601:0012/pct:52.95063145809414,3.9615166949632146,44.362801377726754,92.33163554046406/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1810102601:0012/pct:52.93847566574839,3.960956288018107,44.35835629017447,92.32211062385062/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -328,7 +328,7 @@ edicts shall have actually taken effect and
 the commerce of neutral nations shall have  
 been restored to the condition in which thos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810122001:0277/pct:40.69090909090909,37.134256472004814,17.054545454545455,2.1794099939795304/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810122001:0277/pct:40.68351208871114,37.12978569708644,17.057504696115856,2.183160767316799/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -350,7 +350,7 @@ to the condition in which it stood pre_
 viously to u,e promulgation of tho^e  
 decrees, his majesty would feel th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811012201:0036/pct:60.79807869942731,35.893611732537906,17.45797154997229,5.456127268207805/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811012201:0036/pct:60.78684891023273,35.889151236485645,17.46090382957764,5.459591566215153/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -463,7 +463,7 @@ fect.” Well, but there is something more.
 “ And the commerce of neutral nations shall  
 have been restored to the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811061701:0204/pct:5.784973621975623,70.6653351641493,17.245770420229217,2.7212582698789163/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811061701:0204/pct:5.783921425973081,70.65651522715926,17.248696495695405,2.725079048094525/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -522,7 +522,7 @@ on in which it stood previously to the ftro­
 &#x27;nufifution or those decrees.”  
 1 hese terms, vague as they are, wer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811112601:0229/pct:41.68036529680365,90.14206300185299,17.442922374429223,4.076590487955528/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811112601:0229/pct:41.672753834915994,90.13092885375494,17.44582420258096,4.080204216073781/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -543,7 +543,7 @@ shall have been restcrod to the condition
 I in which it stood previously to tho pro­  
 mulgation of tho!»e decrees, his Majest
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813060301:0244/pct:31.63787587971849,79.8373699396695,18.58605246321177,4.3892629185975345/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813060301:0244/pct:31.632816248200864,79.83038992830915,18.588410896103206,4.391793437081075/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

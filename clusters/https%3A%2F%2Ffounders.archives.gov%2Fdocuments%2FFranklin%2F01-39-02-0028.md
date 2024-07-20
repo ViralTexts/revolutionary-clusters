@@ -499,7 +499,7 @@ culties by deliberation? Were they to do it even
 by the cast of a die, it would be better than by  
 fighting and destroying each other.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295729:1863101901:0386/pct:168.8919796012981,59.50704225352113,49.2814093648586,8.80281690140845/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295729:1863101901:0386/pct:42.227889185116496,14.876760563380282,12.32178045670569,2.2007042253521125/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -518,7 +518,7 @@ culties by deliberation? Were they to do it even
 by the cast of a die, it would be better than by  
 fighting and destroying each other.&#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn82014306:00202191630:1863102601:0193/pct:26.30666666666667,76.22901678657074,16.12,2.80775379696243/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn82014306:00202191630:1863102601:0193/pct:19.738596959189117,57.17426059152678,12.09655908242198,2.1083133493205435/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -820,7 +820,7 @@ and very mischievous ones,&quot; he askedt
 &quot;When will mankind be convinced of this)  
 and agree to settle their differences by ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_beveridge_ver01:data:sn82015679:00295871921:1899072701:0282/pct:109.45637277295569,80.88033012379643,17.302421196893558,3.3614167812929847/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_beveridge_ver01:data:sn82015679:00295871921:1899072701:0282/pct:82.10165619645916,60.66024759284732,12.98686464877213,2.5275103163686383/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -840,7 +840,7 @@ mankind be convinced of this, and
 agree to settle their differences by ar­  
 bitration?&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_inskip_ver01:data:sn82015104:00280768868:1899073101:0530/pct:69.24336717982312,86.28953771289538,12.070094988535866,2.7493917274939172/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_inskip_ver01:data:sn82015104:00280768868:1899073101:0530/pct:69.24746151326563,86.29866180048661,12.090566655748445,2.7463503649635035/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

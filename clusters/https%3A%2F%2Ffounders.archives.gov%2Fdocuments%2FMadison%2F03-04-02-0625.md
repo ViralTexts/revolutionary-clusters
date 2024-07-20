@@ -92,7 +92,7 @@ By the President,
 JAMES MONROE,  
 Secretary cf State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812071401:0081/pct:76.25713759440045,53.73906615744733,17.92226929452938,20.216828877664163/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812071401:0081/pct:76.24309392265194,53.732446415373246,17.925107427869857,20.21844460868851/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -197,7 +197,7 @@ d one thousand
 JAMES MQNROE,  
 &#x27; y§- -Secretary of State.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1812071701:0005/pct:27.949367088607595,27.296981824245456,22.20253164556962,29.91495747873937/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1812071701:0005/pct:27.942293090356873,27.29243081027009,22.203239686155403,29.91413804601534/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -399,7 +399,7 @@ By the Prefideut, :
 JAMES &#x27;MONROE,  
 - Secretary of State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1812072101:0326/pct:62.787159592271415,4.762375259361723,32.89213448957858,88.77581266673253/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1812072101:0326/pct:62.7973020944267,4.762375259361723,32.89213448957858,88.78239963112999/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -714,7 +714,7 @@ JL)) UIW X
 JAMES MONROE,  
 Secretary of State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812081501:0752/pct:31.262253053838034,7.1133926116050965,22.48529633539436,33.00944174534788/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812081501:0752/pct:31.257539203860073,7.112740604949588,22.48693204664254,33.009471432936145/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -804,7 +804,7 @@ quence of the destruction of the capi­
 tal by the enemy, it was necessary for  
 that body to provide other accommoda
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_hoquiam_ver01:data:sn83045604:0020219946A:1898032601:0196/pct:95.55361813426329,20.37351443123939,37.634408602150536,20.96208262591964/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_hoquiam_ver01:data:sn83045604:0020219946A:1898032601:0196/pct:31.85120604475443,6.791171477079796,12.544802867383513,6.987360875306546/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

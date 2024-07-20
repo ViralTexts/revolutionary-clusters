@@ -79,7 +79,7 @@ pound ; of the rules of i eduction ; of single
 and compound ^proportion : and also &quot;of  
 Vulgar and Decimal Fractions
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816070601:0216/pct:24.296296296296298,43.02848575712144,17.333333333333332,6.884057971014493/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816070601:0216/pct:24.291797815219404,43.02311055590256,17.336295747701044,6.8873620653758065/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -127,7 +127,7 @@ both simple and compound ; of the rules of reduc­
 tion; of single and compound proportion ; and also  
 of vulgar and decimal fg::.tion
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1816071701:0318/pct:49.879324215607404,74.17806575473962,21.50040225261464,5.099592032637389/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1816071701:0318/pct:49.886028425851435,74.18606511479082,21.507106462858676,5.099592032637389/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -153,7 +153,7 @@ both simple and compound ; of the rules of reduc­
 tion ; of single and compound proportion ; and also  
 of vulgar and decimal fractions
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1816072401:0323/pct:73.59120361280189,27.31400628711142,21.814254859611232,6.648038188380487/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1816072401:0323/pct:73.59120361280189,27.31788722008771,21.82734472151319,6.655800054333062/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -176,7 +176,7 @@ both simple and compound ; of the rules of reduc­
 tion ; of single and compound proportion ; and also  
 of vulgar and decimal fractiops
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1816073101:0327/pct:74.64644394343104,29.10803720486525,22.730067636810823,5.556880515144288/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1816073101:0327/pct:74.66010794561727,29.10803720486525,22.723235635717703,5.556880515144288/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

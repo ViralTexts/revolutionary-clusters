@@ -78,7 +78,7 @@ which neither t;ie representatives o£ a na­
 tion, nor even the whole nation itfelf as­  
 sembled, can validly extend a debt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793022301:0003/pct:26.868620349028646,3.557154276578737,44.155416529469875,89.34852118305356/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793022301:0003/pct:26.87685215673362,3.562150279776179,44.18011195258479,89.34352517985612/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -389,7 +389,7 @@ ciety and society, or generation and generation, there is nomu.
 nicipal obligation, no umpire but the law of natureAnd  
 then goes on to make, by reference to the bills of mortality, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184613:1843121401:1138/pct:213.9908256880734,188.33565459610028,39.664564220183486,15.993500464252554/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184613:1843121401:1138/pct:71.32005159810807,62.77126610189161,13.219626391476757,5.330548141271131/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -433,7 +433,7 @@ Jubilee.
 bats at our neighbor Defrees? Did the latter refuse  
 to bargain for his powerful support in the matter o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191253:1847022001:0086/pct:199.47916666666666,331.27503337783713,57.37847222222222,23.798397863818426/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191253:1847022001:0086/pct:49.869791666666664,82.81875834445928,14.344618055555555,5.9495994659546065/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -451,7 +451,7 @@ self-evident, that the earth belong, in usufruct to the
 living.&quot; Jefferson.  
 &quot; The most undone being in the limits of Judea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn82015677:00296029798:1847022501:0052/pct:69.27194860813705,121.65333887215702,19.08458244111349,2.7105618444282897/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn82015677:00296029798:1847022501:0052/pct:51.967871485943775,91.24519680132931,14.323962516733602,2.035517706926991/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -467,7 +467,7 @@ living.&quot; Jefferson.
 &quot; I set out on this ground, which I suppose to be self­  
 evident, that the earth belongs in usufruct to the living.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1852052201:0206/pct:81.03207810320781,17.970515441730335,15.411436541143654,1.1729258581728184/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1852052201:0206/pct:81.03207810320781,17.977689300190107,15.420734542073454,1.1765127874027046/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -483,7 +483,7 @@ evident, that the earth belongs in usufruct to the living.
 &quot;I set out on this ground, which I suppose to besely-­  
 evident, that the earth belongs, in usufruct, to the li
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293150:1853052101:0483/pct:14.971572962728995,36.603221083455345,50.28427037271005,3.6603221083455346/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293150:1853052101:0483/pct:3.744075829383886,9.150805270863836,12.575039494470774,0.9150805270863837/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -505,7 +505,7 @@ seems to me best to abandon the idea of raising a fa-
 ture revenue out of the public lands.&quot;  Andrew  
 JACESON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293150:1853052401:0491/pct:23.785803237858033,38.26635911132694,50.37359900373599,14.568410829185384/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293150:1853052401:0491/pct:5.948302709436312,9.566589777831735,12.597321706633448,3.642102707296346/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -527,7 +527,7 @@ opportunity of securing an independent freehold, it
 seems to me best to abandon the idea of raising a fut­  
 ture revenue out of the public lands.&quot; Andre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293150:1853060701:0539/pct:28.73204247345409,35.95721668068742,52.841973766396,12.64271121259464/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293150:1853060701:0539/pct:7.18637712857366,8.989304170171854,13.216684892985471,3.16067780314866/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -549,7 +549,7 @@ seems to me best to abandon the idea of raising a fu­
 ture revenue out of the public lands.&quot;  Andrew  
 JAcESON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293150:1853062301:0595/pct:14.385297845373891,35.70479526512864,51.01394169835235,14.156299069935983/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293150:1853062301:0595/pct:3.5974643423137875,8.92619881628216,12.757527733755943,3.5390747674839957/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -566,7 +566,7 @@ JAcESON
 evident, that the earth belongs, in ususrnct, to the hir-  
 ing.&quot; THOMAs JeiFerson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293150:1853062601:0607/pct:20.888055034396498,37.259876766944544,50.343964978111316,5.31593572550441/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293150:1853062601:0607/pct:5.222013758599124,9.314969191736136,12.585991244527829,1.3289839313761025/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -582,7 +582,7 @@ ing.&quot; THOMAs JeiFerson
 &quot;I set out on this ground, which I suppose to beself­  
 evident, thut the earth belongs, in usufruct, to the lin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293162:1853070201:0009/pct:22.48157248157248,31.68080277147294,49.57002457002457,3.5360172022458487/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293162:1853070201:0009/pct:5.622983561222922,7.920200692868235,12.39821785220464,0.8840043005614622/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -604,7 +604,7 @@ seems to me best to abundon the idea of raising a fu
 ture revenue out of the public lands.&quot; Andrew  
 JAOKSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293162:1853070801:0025/pct:17.963314358001266,32.263533971175974,53.00442757748261,14.145573452827904/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293162:1853070801:0025/pct:4.490828589500317,8.065883492793994,13.251106894370652,3.536393363206976/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -621,7 +621,7 @@ JAOKSON
 evident, thut the earth belongs, in usufruct, to the lin­  
 ing.&quot; THONAS JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293162:1853071901:0061/pct:18.69918699186992,46.05884489647657,50.78173858661663,5.666545586632764/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293162:1853071901:0061/pct:4.675527756059421,11.514711224119143,12.69741985926505,1.416636396658191/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -637,7 +637,7 @@ ing.&quot; THONAS JEFFERSON
  &quot;I set out on this ground, which I suppose to be self-  
 evident, that the earth belongs, in usufruct, to the liv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293162:1853072101:0069/pct:22.592825676526118,33.85884065001213,53.36689741976085,3.6381275770070336/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293162:1853072101:0069/pct:5.6482064191315295,8.464710162503032,13.341724354940213,0.9095318942517584/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -660,7 +660,7 @@ seems to me best to abundon the idea of raising a fu­
 ture revenue out of the public lands.&quot;  Andrew  
 JACEsoN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293162:1853072201:0073/pct:22.340425531914892,34.547647768395656,51.752190237797244,14.13751507840772/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293162:1853072201:0073/pct:5.585980284775466,8.636911942098914,12.940071976216554,3.53437876960193/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -702,7 +702,7 @@ The platform of the American workmen adopted at
  Hope chapel was also endorsed, with two amendments;  
 one to secure the payment of wages after work is d
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:0027174321A:1855010801:0076/pct:5.354659248956884,22.565174618789964,96.00139082058415,269.97048696507625/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:0027174321A:1855010801:0076/pct:1.7848864163189615,7.521724872929989,32.00046360686138,89.99016232169208/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1178,7 +1178,7 @@ individuals. He further says, &quot;that the
 representatives of a nation, nor the wholt  
 nation itself assembled, can validly engag
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_frank_ver01:data:sn86053406:00296020813:1876050501:0126/pct:98.3955812730142,14.418398938522778,13.177275118358759,19.040247678018577/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_frank_ver01:data:sn86053406:00296020813:1876050501:0126/pct:73.82267824256775,10.813799203892083,9.878979215995791,14.285714285714286/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1224,7 +1224,7 @@ Mr. Jefferson b reasoning, which we think,
 is conclusive, and demonstrates without  
 the shadow of a doubt, &quot;that oue generatio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_frank_ver01:data:sn86053406:00296020813:1876050501:0126/pct:98.43503419253025,33.88987173816895,12.795896896370332,12.726669615214506/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_frank_ver01:data:sn86053406:00296020813:1876050501:0126/pct:73.84898710865562,25.42016806722689,9.60273612207314,9.542237947810703/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1264,7 +1264,7 @@ guard.&quot;
 in this letter nothing is indicated  
 as to the invalidity of contracts alread
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jimmy_ver02:data:sn88061082:00296020606:1876100701:0164/pct:75.36031042128603,31.74497389758969,13.040465631929047,14.628457180939687/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jimmy_ver02:data:sn88061082:00296020606:1876100701:0164/pct:56.542833379539786,23.81428412751305,9.786526199057388,10.974119737865156/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1304,7 +1304,7 @@ remain unpaid at the end of thirty-four years
 from their date. This would put the borrows  
 ers and the lenderson their guard
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn83045160:00200293149:1876103101:0416/pct:75.2411575562701,174.74041110404747,37.62057877813505,42.38186056367874/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn83045160:00200293149:1876103101:0416/pct:18.812809861985798,43.68510277601187,9.406404930992899,10.595465140919686/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1439,7 +1439,7 @@ tion, and ho admitted it to be such.
 But if it is right for ono genera­  
 tion to compel the next to pa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_cosmic_ver01:data:sn88051105:00513688131:1886091101:0228/pct:7.892107892107892,72.52973131698722,12.287712287712287,9.778299809132285/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_cosmic_ver01:data:sn88051105:00513688131:1886091101:0228/pct:7.898767898767899,72.52973131698722,12.3010323010323,9.783193853080801/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1460,7 +1460,7 @@ despots with means which nature
 does not sanction for binding in  
 idmins their fellow-men.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_cosmic_ver01:data:sn88051105:00513688131:1886091101:0228/pct:8.111888111888112,90.30979298194097,12.087912087912088,3.920129202760241/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_cosmic_ver01:data:sn88051105:00513688131:1886091101:0228/pct:8.11854811854812,90.3146870258895,12.081252081252082,3.9250232467087556/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1520,7 +1520,7 @@ have purchased, are in the case of
 &quot;bona fide purchasers of what the seller  
 had no right to convey
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_johns_ver01:data:sn92073049:00295879269:1889071601:0225/pct:9.697055492638732,22.20138203356367,19.42242355605889,16.169792694965448/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_johns_ver01:data:sn92073049:00295879269:1889071601:0225/pct:7.279422178161734,16.65350444225074,14.57300665628098,12.13228035538006/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1562,7 +1562,7 @@ and it renders the Question of reim -
 bursement a question of generosity  
 and not of right.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_johns_ver01:data:sn92073049:00295879269:1889071601:0225/pct:9.470554926387315,49.01283316880553,39.73669309173273,19.318854886475815/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_johns_ver01:data:sn92073049:00295879269:1889071601:0225/pct:7.109474578671576,36.76209279368213,29.811641410565077,14.491609081934847/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1658,7 +1658,7 @@ suppose to be self evident the land be­
 longs In usufruct to the living. Jef­  
 ferson.The most undono being in the limit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn85030821:00212472876:1892022601:0064/pct:27.58386219401632,89.83198146002317,18.88032638259293,18.047508690614137/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn85030821:00212472876:1892022601:0064/pct:20.698254364089774,67.38122827346466,14.16912264792564,13.542873696407879/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1703,7 +1703,7 @@ the living and not to the dead, is of very
 extensive application and consequences  
 in every country.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_eridanus_ver02:data:sn83016235:00393344520:1892092301:0092/pct:22.654174241364846,37.45382210855357,13.494616137603133,17.95964762716681/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_eridanus_ver02:data:sn83016235:00393344520:1892092301:0092/pct:22.658835594089403,37.45697957121657,13.499277490327692,17.962805089829814/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1953,7 +1953,7 @@ round, that earth belongs in usufruct to
 ite living; that the dead have neither  
 owers nor rights over it.. No man can b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_andersonpink_ver02:data:sn86063760:00294550793:1895050101:0274/pct:37.678721614802356,61.83107028753994,12.601626016260163,5.041932907348243/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_andersonpink_ver02:data:sn86063760:00294550793:1895050101:0274/pct:37.68806653583777,61.83107028753994,12.596953555742454,5.05524494142705/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1975,7 +1975,7 @@ either the representatives of a nation, nor
 te whole nation itself assembled, can val­  
 ly engage debts beyond what they may 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_andersonpink_ver02:data:sn86063760:00294550793:1895050101:0274/pct:37.706756377908604,67.15255591054313,12.64367816091954,3.704073482428115/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_andersonpink_ver02:data:sn86063760:00294550793:1895050101:0274/pct:37.716101298944025,67.15921192758253,12.653023081954958,3.704073482428115/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1993,7 +1993,7 @@ returned home to be first secretary of state ,
 living ; that the dead have neither power nor  
 rights over It. &quot; From this premise h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_alliance_ver01:data:sn99021999:00206539410:1895051101:0322/pct:93.59799713876967,55.89380038921323,16.84549356223176,2.1962746733388934/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_alliance_ver01:data:sn99021999:00206539410:1895051101:0322/pct:70.22808586762075,41.92035029190993,12.652057245080501,1.6541562413122046/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2022,7 +2022,7 @@ predecessors beyond the letter&#x27;s faculties of
 paying. &quot; He elaborated this theory In an  
 Ingenious way nnd urged Madison to &quot;forc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_alliance_ver01:data:sn99021999:00206539410:1895051101:0322/pct:93.63376251788269,61.50959132610509,16.9170243204578,8.340283569641368/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_alliance_ver01:data:sn99021999:00206539410:1895051101:0322/pct:70.25044722719142,46.135668612732836,12.696779964221825,6.255212677231026/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -169,7 +169,7 @@ with brotherly love and causa them that are
 baptized, to come to church and receive the&quot;  
 Sacraments, Baptism and the Lord&#x27;s Suppe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_icydrop_ver05:data:sn83016872:00295878502:1847030601:0209/pct:103.42304060434373,38.479018330555974,23.630783758262513,34.22208756249053/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_icydrop_ver05:data:sn83016872:00295878502:1847030601:0209/pct:77.62815969761398,28.859263747916984,17.741554453106545,25.677927586729282/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -208,7 +208,7 @@ vruten with&quot; my hand, and keep it in his house
 nothing shall hurt them, neither lightning,  
 pestilence nor thunder shall do tbem any hurt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_icydrop_ver05:data:sn83016872:00295878502:1847030601:0209/pct:104.83947119924457,78.79109225874868,21.175637393767705,16.92167853355552/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_icydrop_ver05:data:sn83016872:00295878502:1847030601:0209/pct:78.69123553035672,59.097106499015304,15.898889676352468,12.695046205120436/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -287,7 +287,7 @@ lirve not in this writing. and keep nct
 my commandments I will send my  
 plague upon them, and consume both
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021169:00514152780:1850112101:0388/pct:75.49494060712715,33.730684326710815,18.24314415603461,36.40176600441501/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021169:00514152780:1850112101:0388/pct:75.49494060712715,33.73804267844003,18.248032458327224,36.398086828550404/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -373,7 +373,7 @@ also end hardness of heart upon them, till
 the hardens! ami impenitent believers;  
 lie that imtli given to tho poor, be shal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038521:00200293356:1867030101:0206/pct:6.569867740080506,48.59802726365954,13.6860264519839,7.968524880860024/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038521:00200293356:1867030101:0206/pct:4.933122393211564,36.45129114485204,10.268948655256724,5.984705751967195/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -402,7 +402,7 @@ n copy of this letter shall lc found.
 The negro who has these documents for  
 (tale claims that the original copy had bee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038521:00200293356:1867030101:0206/pct:6.52673950546291,64.41316635265433,13.772282921219091,8.434001994901918/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038521:00200293356:1867030101:0206/pct:4.904357831152021,48.30987476449074,10.326477779375809,6.32827219328383/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -655,7 +655,7 @@ and cause them that uro not baptized
 to come to church and bear tho holy  
 Sacrament, viz: Baptism und th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_alexiavalentine_ver01:data:sn84027008:00294551682:1868030801:0536/pct:2.367901775926332,63.134304466143746,18.70203902652927,25.70834000320154/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_alexiavalentine_ver01:data:sn84027008:00294551682:1868030801:0536/pct:2.3752101147409195,63.13964036070647,18.70203902652927,25.70834000320154/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -680,7 +680,7 @@ I have nikon to myself; and he thnt
 bath a copy of this lotter, written  
 with my own hand, and spoken vfit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_alexiavalentine_ver01:data:sn84027008:00294551682:1868030801:0536/pct:2.8502521376891035,16.551944933568112,36.85595264196448,80.24651832879782/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_alexiavalentine_ver01:data:sn84027008:00294551682:1868030801:0536/pct:2.8502521376891035,16.56261672269356,36.86326098077907,80.2411824342351/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -734,7 +734,7 @@ You shall love one another with brotherly
 love, and cause them that are not baptued  
 to come to the church and receive th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85038229:00280775824:1868061901:0514/pct:45.2731737262124,56.364692218350754,13.014119091467158,19.070847851335657/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85038229:00280775824:1868061901:0514/pct:33.96776669224866,42.27642276422764,9.762087490406754,14.308943089430894/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -779,7 +779,7 @@ shall be lonnd. Amen.
   
 JESU HOMINUM SALVATOR.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85038229:00280775824:1868061901:0514/pct:45.25782688766114,82.00929152148665,13.029465930018416,14.506387921022068/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85038229:00280775824:1868061901:0514/pct:33.95241749808135,61.50987224157956,9.77743668457406,10.882694541231126/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -825,7 +825,7 @@ another with brotherly love, and cause them that
 are not baptized ta come to the church and receive  
 the sacrament of baptism, and the Lord&#x27;s supper
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743622:1868062801:1066/pct:6.683209263854425,205.69170865781035,57.08850289495451,35.82226294090701/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743622:1868062801:1066/pct:2.2277364212848085,68.56390288593678,19.029500964984837,11.94075431363567/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -869,7 +869,7 @@ prosperity shall be in the house where a copy of this
 fetter shall be found. Amen.  
 &quot;JESU HOMINUM SALVATOr.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743622:1868062801:1066/pct:6.765922249793218,246.38112688960146,52.572373862696445,34.43655519926706/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743622:1868062801:1066/pct:2.255307416597739,82.12704229653382,17.524124620898814,11.478851733089021/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -900,7 +900,7 @@ holy, that your sins may be forgiven you. You
 shall not break my commandments, but observe  
 and keep them. Write them in your heart, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_psylocke_ver01:data:sn82015775:00200299504:1868062801:0488/pct:7.115085536547434,198.12049433573637,44.90668740279938,22.245108135942328/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_psylocke_ver01:data:sn82015775:00200299504:1868062801:0488/pct:2.3716951788491447,66.04016477857878,14.968895800933126,7.4150360453141095/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -930,7 +930,7 @@ them to do them any harm. And if a wom
 with child and in labor has a copy of this lett  
 about her, and the family put their trust in i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_psylocke_ver01:data:sn82015775:00200299504:1868062801:0488/pct:8.80637636080871,257.3249227600412,43.56531881804044,20.35272914521112/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_psylocke_ver01:data:sn82015775:00200299504:1868062801:0488/pct:2.9354587869362363,85.77497425334707,14.521772939346812,6.784243048403708/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1100,7 +1100,7 @@ brotherly love, and cause them that are
 not baptised to come to the church and  
 receive the sacrament or baptism, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058250:00271744808:1868070701:0196/pct:40.966850828729285,70.33018317582545,16.54696132596685,23.21782755804457/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058250:00271744808:1868070701:0196/pct:30.736289542754523,52.74763738186909,12.418842381544412,17.41920429354801/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1127,7 +1127,7 @@ and if he believe not in this writing and
 these commandments, I will send my  
 own plague upon him, and consume bot
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058250:00271744808:1868070701:0196/pct:41.229281767955804,103.4768405086921,16.42265193370166,9.077120522692802/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058250:00271744808:1868070701:0196/pct:30.92968642077635,77.61054719402637,12.322143942533499,6.813674017034185/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1188,7 +1188,7 @@ You shall love one another with brotherly
 Jove, and cause them that are not baptized to  
 come to the church and receive the sacra
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685269:1868072301:0439/pct:7.7235085347304375,32.48847926267281,11.72891668075038,23.298997018162105/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685269:1868072301:0439/pct:7.72220344711051,32.48407643312102,11.731159175397094,23.299227537606722/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1220,7 +1220,7 @@ pardoned; and if he believes act in this wri­
 ting and these commandments, I will send  
 my own plague upon him and consume bot
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685269:1868072301:0439/pct:7.80801081629204,59.27080509623204,11.593713030251816,8.809975603144483/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685269:1868072301:0439/pct:7.806691449814126,59.26277273343271,11.595978371071308,8.812169670687085/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1360,7 +1360,7 @@ nothing shall hurt them, neither pes­
 tilence, lightning nor thunder shall do  
 them any hurt.&quot; That literary specu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033386:00200293873:1871071401:0371/pct:36.50479954827781,34.62242809436604,12.676453980801806,3.6626090703436387/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033386:00200293873:1871071401:0371/pct:27.397260273972602,25.97220726058386,9.50430730122864,2.746956802757729/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1488,7 +1488,7 @@ spective callings in which it has pleased
 (i&lt; d to call you. . You shall love one  
 another with brotherly low: and the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_heddalettuce_ver01:data:sn84026920:00294558731:1872120701:0073/pct:2.2724024581963698,21.861202309521115,13.705873945976847,27.26140609079588/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_heddalettuce_ver01:data:sn84026920:00294558731:1872120701:0073/pct:2.2819303511028535,21.86874976414204,13.71063789243009,27.26140609079588/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1724,7 +1724,7 @@ uf the sky. and he believes in this he shall
 ho pardoned, and if he believes not in this  
 writing, and this Commandment, I wil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624530:1874010301:0719/pct:80.24983119513843,28.408244350633225,14.719783929777178,45.939905636950584/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624530:1874010301:0719/pct:62.19693005407291,22.0194374057799,11.416361416361417,35.60958398819643/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1868,7 +1868,7 @@ come to church and receive the holv sacra­
 ments, vis: Baptism aud the Lord’s Snp­  
 pea, aud be made members thereof, and i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340688:1878070401:0322/pct:3.5628310062590276,15.145151327980235,11.153907879955064,22.865966646077826/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340688:1878070401:0322/pct:3.562259306803594,15.143280632411066,11.156129653401797,22.86623023715415/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1924,7 +1924,7 @@ healeth those that are formented with dis­
 ease of long continuance. Having heard  
 all this of thee, I am fully persuaded to be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340688:1878070401:0322/pct:3.5788797945755095,39.71587399629401,11.073663938372652,21.98888202594194/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340688:1878070401:0322/pct:3.578305519897304,39.71096837944664,11.075898587933247,21.98925395256917/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1994,7 +1994,7 @@ to go to church and the noiy
 sacraments, viz: baptism and  
 the Lord&#x27;s 6upper, to be mad
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn85033395:00212470399:1878110701:0391/pct:52.00490998363339,34.02841664111213,15.125477359519913,43.50403761627312/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn85033395:00212470399:1878110701:0391/pct:39.01241304051289,25.523867934171523,11.349065611785567,32.628028212204846/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2081,7 +2081,7 @@ labor in your respectve “vocations
 wherein it has pleased God to call 1  
 you,” You shall love one. anothe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_igglybuff_ver01:data:sn84023017:00414213017:1880021901:0220/pct:57.24623508703305,47.31543624161074,13.221200860551535,2.237136465324385/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_igglybuff_ver01:data:sn84023017:00414213017:1880021901:0220/pct:57.23504106374658,47.30882147350762,13.223504106374659,2.2403187473787223/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2131,7 +2131,7 @@ the day of Judgement.” A “good
 neas and prosperity shall be in the  
 house where a copy of this letter i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_igglybuff_ver01:data:sn84023017:00414213017:1880021901:0220/pct:57.16800312927831,59.130313199105146,13.221200860551535,19.742729306487696/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_igglybuff_ver01:data:sn84023017:00414213017:1880021901:0220/pct:57.156824403597966,59.122046693694955,13.223504106374659,19.743464280721376/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2175,7 +2175,7 @@ holy, that your sins be forgiven you.
 You shall not break my command­  
 ments, but observe and keep them i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn85038180:00296029038:1880040101:0410/pct:82.90845886442642,38.28536436007349,14.281575898030127,22.2902633190447/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn85038180:00296029038:1880040101:0410/pct:62.19936250362214,28.720146968769136,10.721529991306868,16.717697489283527/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2194,7 +2194,7 @@ ings, wherein it hath pleased God to
 place you. You shall love one anoth­  
 er with brotherly Love, and them tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn85038180:00296029038:1880040101:0410/pct:83.37195828505214,67.89957134109002,13.948435689455389,3.2700551132884264/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn85038180:00296029038:1880040101:0410/pct:62.5470878006375,50.92467850581751,10.475224572587656,2.4617268830373544/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2237,7 +2237,7 @@ Judgment. All goodness, happiness
 and prosperity shall be in the house  
 where a copy of this letter is to b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn85038180:00296029038:1880040101:0410/pct:83.42989571263035,77.25658297611757,13.962920046349941,19.314145744029393/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn85038180:00296029038:1880040101:0410/pct:62.59055346276442,57.94243723208818,10.475224572587656,14.488671157379057/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2446,7 +2446,7 @@ hand, spoken by my own mouth. You shall
 not only go to church yourself, but youri  
 manservants and your maid servants and 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_ettabaker_ver02:data:sn84026913:00237288105:1883110101:0176/pct:88.81360619469027,68.7962860616779,43.92975663716814,21.001436940422238/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_ettabaker_ver02:data:sn84026913:00237288105:1883110101:0176/pct:29.604535398230087,22.932095353892635,14.643252212389381,7.0004789801407465/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2485,7 +2485,7 @@ and though his sins be in namber as the
 stars in the sky, and he that believes in  
 this shall be pardoned, and he that believe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_ettabaker_ver02:data:sn84026913:00237288105:1883110101:0176/pct:88.88274336283186,104.02343318227037,43.1554203539823,37.360450978224826/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_ettabaker_ver02:data:sn84026913:00237288105:1883110101:0176/pct:29.627581120943955,34.67447772742346,14.3851401179941,12.453483659408276/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2568,7 +2568,7 @@ his sins be in number as the stars in the
 sky, and he bellaves in thas, he shall be  
 pardoned, and if he believes not thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ike_ver01:data:sn86053573:00211101994:1884111501:0559/pct:133.42245989304814,18.88975762314308,100.62388591800357,366.9116497263487/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ike_ver01:data:sn86053573:00211101994:1884111501:0559/pct:33.37792642140468,4.72243940578577,25.172798216276476,91.72791243158717/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2587,7 +2587,7 @@ At the foot is a hand and this warning:
 &quot;You shall not have any tidings of me  
 but by the Holy Scriptures until the da
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ike_ver01:data:sn86053573:00211101994:1884111501:0559/pct:184.58110516934047,65.36356528537921,48.75222816399287,8.694292415949961/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ike_ver01:data:sn86053573:00211101994:1884111501:0559/pct:46.17614269788183,16.340891321344802,12.196209587513936,2.1735731039874904/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2670,7 +2670,7 @@ with my own hand, and keep it in their
 houses, nothing shall hurt them, neither  
 lightning,1 pestilence nor thunder shall d
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lytton_ver01:data:sn82014381:00175036453:1884120901:0285/pct:84.05728674850488,41.30680533574497,11.567516525023608,28.894415555053133/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lytton_ver01:data:sn82014381:00175036453:1884120901:0285/pct:84.05728674850488,41.30963147185168,11.579320113314447,28.90572009947999/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2869,7 +2869,7 @@ following, in remembrance of
 the five bloody wounds I have received  
 for maukind.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_dracula_ver01:data:sn84037890:00206533626:1887060801:0537/pct:66.30508474576271,41.19521912350598,14.322033898305085,14.249667994687915/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_dracula_ver01:data:sn84037890:00206533626:1887060801:0537/pct:49.745676500508644,30.90305444887118,10.762122753475754,10.687250996015937/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2921,7 +2921,7 @@ the Holy Spirit, till the day or judgment.
 All prosperity shall be In the house  
 where a copy of this letter bo found.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_dracula_ver01:data:sn84037890:00206533626:1887060801:0537/pct:65.98305084745763,60.1062416998672,14.35593220338983,21.288180610889775/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_dracula_ver01:data:sn84037890:00206533626:1887060801:0537/pct:49.50830790098338,45.0863213811421,10.766361478467276,15.95949535192563/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3073,7 +3073,7 @@ iodtocall you. You shall lovo one another
 with brotherly lovo, nnd cause them that aro  
 baptized to come to church nndrocclvo th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_lorca_ver01:data:sn83030272:00206533109:1888082101:0151/pct:124.08759124087591,44.01451027811366,48.24817518248175,43.7726723095526/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_lorca_ver01:data:sn83030272:00206533109:1888082101:0151/pct:31.021897810218977,11.003627569528415,12.062043795620438,10.94316807738815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3099,7 +3099,7 @@ If he believes not this writing and command­
 ment I will send many plagues upon him. and  
 consumo both him and bis children and hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_lorca_ver01:data:sn83030272:00206533109:1888082101:0151/pct:123.64963503649635,105.01813784764208,48.1021897810219,17.59371221281741/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_lorca_ver01:data:sn83030272:00206533109:1888082101:0151/pct:30.912408759124087,26.25453446191052,12.025547445255475,4.398428053204353/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3182,7 +3182,7 @@ shall love one another willi&#x27;brotherly love, nnd
 cause them that lire not baptized to come to  
 church and receive the sacraments, baptis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_applejack_ver01:data:sn83016943:00295877832:1888082501:0578/pct:130.8602999210734,66.90450054884742,43.25177584846093,65.25795828759605/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_applejack_ver01:data:sn83016943:00295877832:1888082501:0578/pct:32.721531478192226,16.726125137211856,10.81507795539767,16.314489571899013/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3210,7 +3210,7 @@ letter written wnl. my own hand and keep II
 in the house, nothing shall hnri thun,. neither  
 pestilence, lighinmg nor thunder shall do llien
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_applejack_ver01:data:sn83016943:00295877832:1888082501:0578/pct:130.8602999210734,153.18331503841932,43.25177584846093,22.063666300768386/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_applejack_ver01:data:sn83016943:00295877832:1888082501:0578/pct:32.721531478192226,38.29582875960483,10.81507795539767,5.515916575192096/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3321,7 +3321,7 @@ erly love, and cause them that arc not baptized
 to come to church and receive tbe Holy Sacra­  
 ment. To those who do not believe, in thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_franco_ver01:data:sn84024546:00237280003:1889012801:0268/pct:34.51268357810414,75.20560873668599,14.536048064085447,3.950384252393151/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_franco_ver01:data:sn84024546:00237280003:1889012801:0268/pct:25.88883324987481,56.410947822569774,10.916374561842764,2.9661588243225023/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3343,7 +3343,7 @@ them that are not baptized to come to
 church and receive the Holy Sacrament.  
 To those who do not believe, in this writ
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_delta_ver01:data:sn85038119:0023728267A:1889013101:0118/pct:46.642899584076055,61.753886317788066,13.131313131313131,4.497448676871959/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_delta_ver01:data:sn85038119:0023728267A:1889013101:0118/pct:34.99777084262149,46.31541473834105,9.852875613018279,3.3819864720541117/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3398,7 +3398,7 @@ days in succession, in rememberence
 of five bloody wounds I received  
 for 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_igglybuff_ver01:data:sn84023017:00414212992:1889121901:0571/pct:16.272040302267,23.196881091617932,11.402183039462637,25.588044184535413/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_igglybuff_ver01:data:sn84023017:00414212992:1889121901:0571/pct:16.269308260577567,23.193866943866944,11.40446608462055,25.587967775467774/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3464,7 +3464,7 @@ Spirit, until the day of Judgement.”
 A “goodness and prosperity shall be  
 in the house where a copy of thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_igglybuff_ver01:data:sn84023017:00414212992:1889121901:0571/pct:16.188077246011755,50.162443144899285,11.553316540722083,32.52761533463288/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_igglybuff_ver01:data:sn84023017:00414212992:1889121901:0571/pct:16.18535930154466,50.15592515592515,11.555574210879785,32.52663721413722/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4001,7 +4001,7 @@ trust in me, she shall safely be de­
 livered of her birth. You shall have  
 no news of me but by the Holy Spiri
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crater_ver01:data:sn84025833:00220720391:1894110201:0008/pct:36.784957627118644,29.60727969348659,13.73146186440678,46.30268199233716/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crater_ver01:data:sn84025833:00220720391:1894110201:0008/pct:36.784957627118644,29.610472541507026,13.740289548022599,46.309067688378036/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4098,7 +4098,7 @@ the Holy Spirit, till the day of Judgment.
 All prosperity shall be in the house  
 where a copy of this letter shall be found
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn84020639:00340583206:1895061701:0723/pct:5.210120068610634,26.381009256494476,14.429674099485421,35.56285458345775/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn84020639:00340583206:1895061701:0723/pct:5.209003215434084,26.377071204657412,14.431939978563772,35.561277802657116/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4159,7 +4159,7 @@ brotherly love and cause them that
 are not babtized to come to church  
 and receive the holy sacrament an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_batman_ver01:data:sn86069395:00206533237:1895062801:0418/pct:44.67147435897436,37.22206972275597,20.212339743589745,36.329947845182545/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_batman_ver01:data:sn86069395:00206533237:1895062801:0418/pct:33.53377430346763,27.916552292066978,15.173381439166166,27.25432335986824/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4326,7 +4326,7 @@ have destroyed them, but especially upon
 hardened and impenitent unlielievers. He  
 that hath given to the poor shall not be un
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dutch_ver02:data:sn84024441:211102469:1896090801:0061/pct:91.95634599838318,46.43727161997564,16.228779304769603,34.119975639464066/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dutch_ver02:data:sn84024441:211102469:1896090801:0061/pct:69.00525677315002,34.835566382460414,12.171451678123736,25.593788063337392/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4471,7 +4471,7 @@ All goodness, happiness and prosperity
 shall be In the house where a copy of  
 this letter is to be found.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_denmark_ver01:data:sn84026844:00202193675:1897052401:1001/pct:33.9652448657188,24.302788844621514,18.420221169036335,10.358565737051793/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_denmark_ver01:data:sn84026844:00202193675:1897052401:1001/pct:33.9652448657188,24.30731618978631,18.42812006319115,10.358565737051793/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4589,7 +4589,7 @@ itiu by my own mouth.
 i?lr. but also your man-servants and  
 naid-servants. Observe my word
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:okhi:batch_okhi_avocado_ver01:data:sn85042303:00200295353:1898052201:0596/pct:30.324459234608984,57.04558910597987,19.467554076539102,13.913558318531676/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:okhi:batch_okhi_avocado_ver01:data:sn85042303:00200295353:1898052201:0596/pct:22.767950052029136,42.79159265837774,14.609781477627472,10.435168738898756/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4662,7 +4662,7 @@ of Judgment. j
 &quot;A good and prosperity shall be in :  
 the house where a copy of ibid ic;&#x27;,.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:okhi:batch_okhi_avocado_ver01:data:sn85042303:00200295353:1898052201:0596/pct:30.303660565723792,6.335109532267614,40.349417637271216,120.42628774422735/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:okhi:batch_okhi_avocado_ver01:data:sn85042303:00200295353:1898052201:0596/pct:22.747138397502603,4.75133214920071,30.28095733610822,90.31971580817051/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

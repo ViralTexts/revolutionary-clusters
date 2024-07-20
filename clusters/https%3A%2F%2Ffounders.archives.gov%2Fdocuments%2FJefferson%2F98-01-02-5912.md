@@ -137,7 +137,7 @@ b-en devoted. To myself you have been a pillar of
 support through life. Take care of rn« when dead,  
 and be assured that I shall leave with you my Inst af
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184042:1830112301:0221/pct:80.69006367540352,22.433200682205797,15.341329779357324,5.79874928936896/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184042:1830112301:0221/pct:80.67811667160201,22.430650295588904,15.343993682755897,5.801879642261634/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -161,7 +161,7 @@ I these remarks be also correct sir, they may
 afford us some clue, in these days, while our op­  
 penents are using every endeavor to involve u
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1831032201:0465/pct:62.346969244550614,11.575626109248669,15.974917885936101,4.831394202326957/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1831032201:0465/pct:62.35194585448392,11.582199434694012,15.98984771573604,4.831394202326957/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -186,7 +186,7 @@ know reproach, it is that, lo which our lives have been
 devoted, lo my*elf, you have been a pillar of support  
 through life—Take care of me when dead,&quot; -Mi Cor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1833122101:0269/pct:49.33297032398584,74.0231150247661,14.497685815409747,4.920198128783709/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1833122101:0269/pct:49.32625561453654,74.0149680827647,14.500249534957579,4.923325262308313/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -221,7 +221,7 @@ that “they suppose themselves, indeed, to be
 whigs, because they no longer know what  
 whig&#x27;sm or republicanismn means I’ If thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1838071001:0111/pct:18.96122896854426,52.20891824938068,13.9575713240673,1.4450867052023122/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1838071001:0111/pct:18.96122896854426,52.21235893201211,13.96244818336991,1.4485273878337461/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -262,7 +262,7 @@ by truth, ran never know reproach?it is that to
 which our lives have been devoted.&quot; With these principles  
 in danger of being trodden down?with a militar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848122201:1260/pct:0.9493670886075949,75.16003514497301,16.29746835443038,5.020710430525919/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848122201:1260/pct:0.9493670886075949,75.16840299569056,16.30801687763713,5.020710430525919/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -280,7 +280,7 @@ ficturet, he., w ;h the calamitous fluctuations of value in
 our paper medium, have kept agriculture in a Hate oj ab­  
 ject depretnon 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851082101:0850/pct:19.6849087893864,66.0531955124165,15.903814262023218,2.445480902558931/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851082101:0850/pct:19.695964621337755,66.06159922685828,15.89828634604754,2.445480902558931/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -352,7 +352,7 @@ Madison: &quot;Take care of me when dead,
 and be assured I shall leave with you my  
 last affections.&quot; Although Mr. Randal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551116:1880061701:0049/pct:13.172668766260442,38.928359976317346,12.186772559222238,1.6873889875666075/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551116:1880061701:0049/pct:13.172668766260442,38.934938490888754,12.195901227805924,1.6906782448523123/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -374,7 +374,7 @@ Bedford, move thither with my family,
 where I bave not even a log but to put my  
 head into.” The privilege asked was finall
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_fleshgolem_ver02:data:sn92063989:00514153577:1887092401:0068/pct:14.469350897694678,62.46430371241391,9.699351960055242,3.141273307576012/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_fleshgolem_ver02:data:sn92063989:00514153577:1887092401:0068/pct:14.472892099578598,62.46990313007447,9.702893161939162,3.1356738899154486/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -293,7 +293,7 @@ very singular expressions, at the time of meeting you, as
 you intimate. What I recollect to have said was dictated  
 by duty and warranted by the occasion,&quot; Ac. &amp;c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184674:1856081901:0554/pct:131.12874779541445,68.27634011090574,38.68312757201646,7.463031423290204/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184674:1856081901:0554/pct:43.70315944158707,22.75615109160217,12.892481018858682,2.487389780909476/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -412,7 +412,7 @@ my meeting you, as you intimate. What I rec­
 ollect to have said was dictated by duty and  
 warranted by the occasion.&quot; Subsequentl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043056:1899021901:0678/pct:238.30258302583024,39.31752982032312,49.298892988929886,11.414766722029292/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043056:1899021901:0678/pct:59.586639601402474,9.82938245508078,12.326997601033401,2.853691680507323/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

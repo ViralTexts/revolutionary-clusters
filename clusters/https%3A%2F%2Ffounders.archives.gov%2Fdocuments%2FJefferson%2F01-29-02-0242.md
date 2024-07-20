@@ -204,7 +204,7 @@ vointerrupted friendfbip between us ; and
 for the government, the happiness, aod  
 prosperity of our common country. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797031801:0255/pct:7.65220058273271,12.457845665542552,15.580432449010887,34.75500892680024/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797031801:0255/pct:7.657312273168737,12.464458110163328,15.575320758574861,34.75500892680024/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -827,7 +827,7 @@ ter his excellency&#x27;s friend had left us, and
 a considerable time after the writing of the  
 letter even, we may presume ; or, that Mr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797090201:0002/pct:76.79124018090931,48.26702833031947,16.424660795048798,10.623869801084991/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797090201:0002/pct:76.80909307307783,48.270795660036164,16.418709830992622,10.623869801084991/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -867,7 +867,7 @@ pray, lie may be long preferred for the go­
 vernment, the happiness, and prosperity of  
 our common country;&quot;—and yet, thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797090701:0002/pct:77.70883054892602,58.3786231884058,16.75417661097852,16.183574879227052/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797090701:0002/pct:77.71479713603819,58.3786231884058,16.772076372315034,16.187349033816425/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -904,7 +904,7 @@ tween lis, and I devoutly pray be niay be
 10-ng preserved for the government, the ■hap­  
 piness., and prosperity of our country.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799012201:0003/pct:23.314943631566322,54.87147914422041,17.893979371551932,14.699091888563952/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799012201:0003/pct:23.314943631566322,54.88302293366169,17.905972655313025,14.687548099122672/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -944,7 +944,7 @@ be long preserved for the government, the
 hsppinels and profp&lt;;rity of our common  
 country.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800072401:0003/pct:4.584456974748713,4.072031148604802,37.215003677371904,94.38676184295912/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800072401:0003/pct:4.602843834273106,4.080142764438676,37.20887472419711,94.39081765087606/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1170,7 +1170,7 @@ character who preceded him--whose talents and in
 tegrity have been known and revered by me through  
 a long term of years.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743087:1853071801:0147/pct:198.8674217188541,214.6660598475367,47.43504330446369,21.640687222664695/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743087:1853071801:0147/pct:66.28914057295137,71.55535328251223,15.811681101487897,7.213562407554898/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1188,7 +1188,7 @@ these States as the greatest of blessings,
 and as the greatest of duties the preserva  
 tion of that constitution which secure
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jay_ver01:data:sn84023428:00202197413:1863040201:0515/pct:88.8458401305057,15.069874657830283,18.984502446982056,3.774672237429765/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jay_ver01:data:sn84023428:00202197413:1863040201:0515/pct:66.68026933278922,11.309609566344907,14.241991430320343,2.82380060510013/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1215,7 +1215,7 @@ devoutly pray he may be long preserved for
 the government, the happiness, and prosperi­  
 ty of our common country.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202197607:1873043001:0070/pct:48.72611464968153,13.648059067009733,15.026056745801968,7.0030204720886005/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202197607:1873043001:0070/pct:36.56240949898639,10.2360443002573,11.28004633651897,5.257858820897192/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1294,7 +1294,7 @@ long be preserved for the Government,
 the happinesti aud prosperity of our com  
 mon country.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280775046:1880111801:0598/pct:11.22715404699739,63.27209797657082,18.255004351610097,16.69329073482428/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280775046:1880111801:0598/pct:8.424031345232912,47.45740149094782,13.71353939921637,12.526624068157615/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1327,7 +1327,7 @@ j relY on the liberality and candor of those from
 ! whom I aiffer to beiieve that I do so from pure  
 motives.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00383342053:1881011001:0029/pct:65.43905635648755,23.79566439181052,10.34076015727392,5.810919309514252/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00383342053:1881011001:0029/pct:65.44779379641766,23.80235514518935,10.34076015727392,5.814264686203667/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1360,7 +1360,7 @@ as must, front necessity, happen—l shall rely on
 the libelalitv and candor ot those from whom I  
 differ to believe that 1 do it from pure motives.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:fu:batch_fu_frenchfries_ver01:data:sn82015289:00414180553:1881011101:0239/pct:15.309069901790872,22.47214854111406,12.824956672443674,7.883289124668435/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:fu:batch_fu_frenchfries_ver01:data:sn82015289:00414180553:1881011101:0239/pct:15.309069901790872,22.47214854111406,12.824956672443674,7.8868258178603/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

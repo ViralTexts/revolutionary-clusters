@@ -1344,7 +1344,7 @@ the services of the army, and from full conviftion es
 its meriis and (ufferings, will do it completejuilice  
 that their endesvours 1o discover and eitadlih sand
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1783050301:0348/pct:10.742060920285159,4.609407811843763,83.149708360337,85.75178496430071/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1783050301:0348/pct:10.742060920285159,4.612907741845163,83.1551090948369,85.75178496430071/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1424,7 +1424,7 @@ ture is capable of at&#x27;aining.” v
 (Copy) GEORGE WASHINGTON:  
 For the vamainder fee lafl poge. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1783050301:0348/pct:67.20674011665587,13.145737085258295,26.928062216461438,54.89290214195716/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1783050301:0348/pct:67.20674011665587,13.145737085258295,26.944264419961115,54.89640207195856/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1464,7 +1464,7 @@ these powers I am bound to refpe,
 you may freely command my {ervices  
 to the utmost of the abilities.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789081301:0438/pct:30.345334313005143,64.72007722007721,19.985304922850844,21.2998712998713/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789081301:0438/pct:30.353498244754675,64.73080223080223,19.985304922850844,21.305233805233804/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1508,7 +1508,7 @@ road to the attainment of your wishes ; you
 will defeat the insidious designs of our ene­  
 mies, who are compelled to retort from open
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793012601:0001/pct:72.62516046213094,73.06772908366534,21.14890885750963,20.657370517928285/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793012601:0001/pct:72.62516046213094,73.07768924302789,21.156931964056483,20.657370517928285/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1530,7 +1530,7 @@ world had never lee n thclaft irage of perfec­
 tion* to which human nature is capable  
 of attaining.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793012601:0002/pct:6.318152661962797,4.990980156343957,21.039127645926875,6.313890559230306/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793012601:0002/pct:6.326170622193714,4.995991180597314,21.063181526619626,6.318901583483664/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1708,7 +1708,7 @@ ception, to fuppofe you flood in need of them.
 A moment&#x27;s reflection will convince every dif­  
 pafliouatc ariud of the phyfical i.npoffibilry of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016081:00332895060:1804080601:0164/pct:73.62587649852975,22.666123114553606,23.682424790771318,72.2244870226933/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016081:00332895060:1804080601:0164/pct:73.60922659430122,22.66304347826087,23.682722749886928,72.2180706521739/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1823,7 +1823,7 @@ attaining.”
   
 GEORGF. WASHINGTON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016081:00332895060:1804080601:0165/pct:2.577319587628866,4.129312686769899,25.235320484087854,70.70089649551753/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016081:00332895060:1804080601:0165/pct:2.576742101725297,4.1287518674453345,25.23526775711405,70.69468966453891/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1912,7 +1912,7 @@ been wanting, the world had never seen
 the last stage of perfection, which human  
 nature is capable of attaining.&quot; Oth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1806022501:0252/pct:77.34311328443358,63.511420828493996,20.37489812550937,13.172667440960124/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1806022501:0252/pct:77.33050847457628,63.50527436368915,20.377009995654063,13.174618536081809/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1935,7 +1935,7 @@ ties of our country ; who wickedly attempts to open
 the flood gates of civil discord, and deluge our rising  
 empire in blood.” Other heroes, my audience, hav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806030501:0991/pct:9.861212563915267,48.34935897435897,21.085950815680544,5.368589743589744/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806030501:0991/pct:9.858812074001948,48.34161192116648,21.086903602726387,5.371735298830315/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2149,7 +2149,7 @@ vet turn the liberties of our country.”
 Washington’s Address to the Army,  
 on the subject of the anonymous letters
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813052001:0196/pct:51.463135523949646,69.4773519163763,18.309628903057053,6.689895470383275/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813052001:0196/pct:51.45472376593658,69.471300409372,18.312084559224147,6.692216125192346/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2527,7 +2527,7 @@ the world had never seen the last stage of perfec-
 tion to which human nature is capable of attain­  
 ing.&quot; It was to this house he returned afte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743038:1851030301:0326/pct:141.19205298013244,256.54547566500173,55.76158940397351,14.728772215123708/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743038:1851030301:0326/pct:47.06401766004415,85.51515855500058,18.58719646799117,4.909590738374569/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2656,7 +2656,7 @@ How are these interests to be preserved?
   
 Not, he plainly shows, by following the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eadweard_ver01:data:sn85034076:0020029239A:1876062901:0141/pct:101.93948797517456,237.07617789520035,44.99612102404965,46.85160722148833/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eadweard_ver01:data:sn85034076:0020029239A:1876062901:0141/pct:25.489815712900096,59.269044473800086,11.25121241513094,11.712901805372082/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2725,7 +2725,7 @@ nature is capable of attaining.&quot;&quot;
   
 It was enough. The conspiracy was
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eadweard_ver01:data:sn85034076:0020029239A:1876062901:0141/pct:102.56012412723041,284.28005284015853,45.30643910007758,61.764274181711436/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eadweard_ver01:data:sn85034076:0020029239A:1876062901:0141/pct:25.645004849660523,71.07001321003963,11.328806983511154,15.441068545427859/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2794,7 +2794,7 @@ the world would nover have soon the
 of perfection to which human  
 nature is capable of attaining.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_gordon_ver01:data:sn87052181:00200292510:1876062901:0108/pct:252.83582089552237,175.92886630676406,68.45771144278606,135.34455382661162/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_gordon_ver01:data:sn87052181:00200292510:1876062901:0108/pct:63.25616131441374,43.982216576691016,17.12720936021907,33.836138456652904/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2984,7 +2984,7 @@ different to its interests.” But he asks:
 How are these interests tobe preserved ?  
 Not, he plainly shows, by following th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_fleshgolem_ver02:data:sn92063991:00514153541:1876070701:0046/pct:17.44980552927573,84.84562809333019,12.687900767370966,10.943514808704533/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_fleshgolem_ver02:data:sn92063991:00514153541:1876070701:0046/pct:17.44980552927573,84.84562809333019,12.694908721398788,10.94875219315474/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3023,7 +3023,7 @@ world would never have seen the last
 stage of perfection to which human na­  
 ture is capaple of attaining.’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_fleshgolem_ver02:data:sn92063991:00514153541:1876070701:0046/pct:30.88405340060969,15.657160813889544,12.61431725007884,11.925524393118076/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_fleshgolem_ver02:data:sn92063991:00514153541:1876070701:0046/pct:30.891061354637515,15.66239819833975,12.61431725007884,11.925524393118076/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3087,7 +3087,7 @@ world would never have seen the last
 stage of perfection to which human na­  
 ture is capaple of attaining.&#x27;&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn83032058:00296028733:1876072701:0465/pct:15.949004813321192,59.68904448105437,9.613633407050864,20.737232289950576/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn83032058:00296028733:1876072701:0465/pct:15.957677464116907,59.68904448105437,9.609297081653008,20.750961010433826/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3124,7 +3124,7 @@ to its interests.&quot; Lut he asks:
 How are these interest* tobe preserved ?  
 Not, he plainly shows, by following th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00202194035:1876080201:0001/pct:12.333417148604475,61.28555596601404,13.364344983656022,9.761728851126708/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00202194035:1876080201:0001/pct:12.333417148604475,61.28555596601404,13.364344983656022,9.77096416697451/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3160,7 +3160,7 @@ world would never have seen the last i
 stage of perfection to which human na- &lt;  
 ture is capaple of attaining.&quot;&#x27;. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00202194035:1876080201:0001/pct:12.371134020618557,73.81787957148134,11.503645964294694,9.281492427041005/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00202194035:1876080201:0001/pct:12.379515547732797,73.81787957148134,11.499455200737575,9.287649304272874/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3408,7 +3408,7 @@ been wanting, the world had never seen the
 last stage of perfection to which human nature  
 is capable of attaining.&quot; At the conclusio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn86071719:00280777687:1883101001:0468/pct:256.1241610738255,67.41701097022367,55.95637583892618,31.34349622453341/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn86071719:00280777687:1883101001:0468/pct:64.04447241451646,16.854252742555918,13.992028529473464,7.835874056133353/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3433,7 +3433,7 @@ mnst horror and detestation of the man who wishes
 under any seecions pretence, to overthrow the linertie  
 of our countr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044826:1883101501:0371/pct:80.1616458486407,328.9252407888702,48.34680382072006,20.85308056872038/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044826:1883101501:0371/pct:20.051461128469033,82.23131019721755,12.093365190222386,5.213270142180095/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

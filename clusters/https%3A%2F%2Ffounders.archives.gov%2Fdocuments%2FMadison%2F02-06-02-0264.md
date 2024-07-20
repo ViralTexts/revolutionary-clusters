@@ -195,7 +195,7 @@ fend their boats on board the merchant
 : m%*cm’er her, to the number of two ‘or  
 three men ‘ohl,,&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796040901:0057/pct:59.414679467327346,77.43283582089552,16.150510994115827,7.253731343283582/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796040901:0057/pct:59.42500258077836,77.43946932006634,16.145349437390315,7.253731343283582/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -218,7 +218,7 @@ manded, be delivered to the commander or
 agent of the faid veffel, without any delay,  
 he paying the legal fees for th* fame
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800122201:0003/pct:28.137450199203187,7.555089192025184,21.887450199203187,6.9554789386898515/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800122201:0003/pct:28.154050464807437,7.555089192025184,21.887450199203187,6.965472442912107/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1012,7 +1012,7 @@ side to a greater object en the o.
 but a san nice of right on one side to  
 [ exp&lt;:4ienr.y on the oiher %\&amp;/t.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806021001:0001/pct:3.6472859901308734,5.037573058725299,92.66251877279554,94.03005844698023/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806021001:0001/pct:3.6472859901308734,5.042211707950645,92.67682185510978,94.03469709620559/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1302,7 +1302,7 @@ mcu \o_provide xhgmsclvcs wuh such ,a
 edocumcnc. Yet izsi&#x27;la siccrcam that m :- va.  
 may of instances, scamc-n
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1806021301:0216/pct:4.1155719805140265,5.31985889979979,72.41726860406517,91.10496710839928/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1806021301:0216/pct:4.1148807524353375,5.319351763584366,72.41070428843355,91.09945980298697/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1562,7 +1562,7 @@ lone decided questions of sighs,
 _ the ignorance and want&#x27;of Cow:  
 i_ other maratime countries at
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1806021301:0216/pct:53.015286410213335,5.415196872914482,45.825634134050055,90.53293926971112/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1806021301:0216/pct:53.00638226402418,5.414680648236415,45.823535998208484,90.52748649507467/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1620,7 +1620,7 @@ practrnsh that with such exception any remedy&quot;
 5&quot; to Purcluse a parzial remedy, by confirming  
 &#x27;M evil, and by srrhjectiog ourselves to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1806021301:0217/pct:1.2666450146151347,54.28162291169451,21.224423514127963,27.560859188544153/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1806021301:0217/pct:1.2664393570384802,54.27644138984345,21.22638956540564,27.561410207458316/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1659,7 +1659,7 @@ I)&quot; the next place, it is not only : puterence of &amp;
 the other; but safecrificc of right on one&quot; siiidc te  
 siexPcdieucy on the other.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1806021301:0217/pct:1.2016888600194868,5.145584725536993,44.55992205261448,89.97613365155131/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1806021301:0217/pct:1.2014937489852249,5.145093547155403,44.55809925853764,89.97072674048619/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2113,7 +2113,7 @@ peace at A mien*, the abolition of it wa* repeat. „y
 a. d ftrongly prefltd by France ; „,d it i* not impro­  
 that at no remote day it will follow the (a*rtf
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1806021501:0358/pct:40.0,0.30939796313007606,54.24103035878565,96.19698336985948/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1806021501:0358/pct:39.99264164827079,0.30935808197989173,54.237184204071625,96.18888029560884/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2205,7 +2205,7 @@ In the next place, it is no: only a preference of a fmall­
 er objea on one flde to a greater objea on the other  
 th- other fide °f one fide t0 ^fediency on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1806021501:0359/pct:3.8931728418280986,0.5394990366088632,18.61952228700395,43.42967244701349/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1806021501:0359/pct:3.8924407672057164,0.5394297456974056,18.622289081108185,43.428375717099065/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2719,7 +2719,7 @@ preference of ,a smaller object on one side to a greater
 object on the other ; but a soenflee of right on ene  
 side to expediency on the other side.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806021901:0967/pct:9.552746718522119,1.3326910725754657,86.38794360719494,93.75401412973667/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806021901:0967/pct:9.550425273390037,1.3324771231337293,86.3730255164034,93.74297640070637/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3027,7 +3027,7 @@ titixens, that they volm.’enly engaged in
 t. Nsf.morr. whilst -he impresses her  
 &gt;wn subjects from the American aervics,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806022501:0070/pct:42.5768722882475,14.869599065784351,55.253725712129786,81.93849746983263/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806022501:0070/pct:42.568841946435306,14.867669953295279,55.24959134917641,81.93219166234215/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3402,7 +3402,7 @@ expediency on the other side.
 The following letters are given in the Philadelphia  
 Gazette of the 14th inst. Those of the Ma-qui
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806022501:0071/pct:4.684014869888476,4.856343757945589,53.71747211895911,89.89321128909229/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806022501:0071/pct:4.6831443969522395,4.855726452268971,53.71368394969956,89.88602177873818/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3430,7 +3430,7 @@ to four leagues from the shore is inferred frbm an act
 of parliament passed in the year I&#x27;Jfi.”—The fact  
 of this British extension of jurisdiction I believe t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806042101:1071/pct:8.88293988805062,37.718034885581694,21.173034801654904,8.353336533845415/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806042101:1071/pct:8.880778588807786,37.712,21.17396593673966,8.356/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3915,7 +3915,7 @@ found for the Britifh pradiceof making imprefsinents
 from American vefTels on the high feas.”  
 The law of nations circunafcribes the right ofJearch 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1807041401:0423/pct:60.29439165269238,51.156716417910445,18.20383827091485,3.2338308457711444/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1807041401:0423/pct:60.28315946348733,51.15035443352817,18.206656731246895,3.2375740994072046/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4016,7 +4016,7 @@ our wi!) the British ministry, on
 ■j, toi im press m&lt; vis f; om Artie­  
 rican i.:g■; 1- .. ~ At th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807050401:0003/pct:22.203317737133133,82.78766471946746,18.20501914079115,5.610650726803423/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807050401:0003/pct:22.203317737133133,82.79219308970701,18.226286686516374,5.610650726803423/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4303,7 +4303,7 @@ ny reproaches, it is for*feeo. that ebjeftions of
 different forts will he prefled oti you. You  
 wilt be told tirit, of the great cumber of Rrtd&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1807071401:0085/pct:61.24676285608583,2.8427270489785874,35.5715871254162,91.91484125030766/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1807071401:0085/pct:61.23543554651378,2.842377260981912,35.571173170581346,91.90763299290431/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4607,7 +4607,7 @@ The very honorable part which has been aft­
 ed by this diltingoifhed veteran, in relation to  
 the affaiii of Col. Burr ; the flittering manner
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1807071401:0086/pct:4.068169323804288,2.6034630971386465,35.82554517133956,91.66154979737198/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1807071401:0086/pct:4.06742396482228,2.6031434184675835,35.82508855502626,91.65438768827767/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4820,7 +4820,7 @@ The evil taaes a t&#x27;.e pet die, when
 viewed in itspi well as Its prin­  
 ciples, Wert- it ah livable that Britis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807071501:0001/pct:40.41125541125541,12.102085620197585,37.81385281385281,86.04555433589462/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807071501:0001/pct:40.42568542568542,12.102085620197585,37.80663780663781,86.06384924990853/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4971,7 +4971,7 @@ channel to trance.
 111. With rei&quot;pec\ to the ferittm fe.i­  
 men i&#x27;crviutf in out trade, it auy vtif
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807071501:0001/pct:59.41558441558441,8.424807903402854,37.57575757575758,89.66794731064763/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807071501:0001/pct:59.41558441558441,8.42938163190633,37.59018759018759,89.67252103915112/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5302,7 +5302,7 @@ the other ; but a pacrin.ee of right on
 one ;.uie, to expediency on the other  
 side.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807071501:0002/pct:2.380952380952381,2.2365532381997806,57.35930735930736,96.10318331503842/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807071501:0002/pct:2.388167388167388,2.2457006952067324,57.36652236652237,96.11233077204537/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5612,7 +5612,7 @@ She keeps by force American citizens in­
 voluntarily serving in&gt;hers. More flagrant  
 inconsistent&#x27;.**, cannot be imagined
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807071501:0231/pct:4.664778092540132,4.224820822331195,55.448536355051935,90.61989186470514/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807071501:0231/pct:4.663897280966768,4.224289665577068,55.44436052366566,90.61268963205096/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5704,7 +5704,7 @@ _.an univereel&#x27;emp&#x27;tre of theeeassi. .lcxyould.
 be in: admissihle too, ag it would be. ap.­  
 si&#x27;plieablesi&#x27;totirhes of peace ad Well as t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216067:1807071701:0225/pct:23.845248602530155,14.080662205001762,23.40394233598117,58.18069742867207/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216067:1807071701:0225/pct:23.841741432563612,14.07942238267148,23.405402755307154,58.17850958292976/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5733,7 +5733,7 @@ Mtich&#x27;sor that as well as other sirea&#x27;som,
 may be regarded as cumradtcdog the pr&#x27;sh­  
 cipl&#x27;e from whiEhsi&#x27; it would ﬂsi-sipw. c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216067:1807071701:0225/pct:47.366872609591056,3.539978865797816,23.37452191821124,11.570975695667489/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216067:1807071701:0225/pct:47.359905868510076,3.5396671656247247,23.375986664705593,11.572891902204221/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5775,7 +5775,7 @@ nature idc&#x27;qm&#x27;patib&#x27;le with theohjec: is to
 ndmit the objecrior. is jusxifiable raince the  
 oﬂysi meio&#x27;s&#x27; by; which is. can be pursued are
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216067:1807071801:0228/pct:5.702405702405702,36.01417183348096,24.264924264924264,23.3392382639504/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216067:1807071801:0228/pct:5.701559020044543,36.01098219821097,24.266270725068054,23.340123402119684/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5894,7 +5894,7 @@ ct-TKing. and which&#x27; it the opens-any for. him
 tb renew. These appltcauous, therefore;  
 m&#x27;ay fairly&#x27;be considered as embracing the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216067:1807071801:0228/pct:30.204930204930204,26.41275465013286,23.656073656073655,68.06023029229407/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216067:1807071801:0228/pct:30.20044543429844,26.410415375077495,23.657510517198713,68.05715466595814/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6043,7 +6043,7 @@ LW&#x27;SB urged and insisizled-on by&#x27;lssord St.,Vjae
 cessm; ;, andssb&#x27;e&#x27;msig 11erer iaadmissieiblesissou  
 ctou-r _parc&#x27;, tsihecthcgociutidn- w&#x27;as&#x27;si&#x27;abaqdpn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216067:1807071801:0228/pct:53.96495396495396,15.721877767936228,23.522423522423523,73.30380868024801/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216067:1807071801:0228/pct:53.956941351150704,15.720485342308033,23.52388022766642,73.30026865054764/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6161,7 +6161,7 @@ si&#x27;pnrchase&#x27;a partiai remedy by confirming H.?i&#x27;ct}
 neral evil) and by subjetting care-ches to 0&quot;:  
 ctbwr} rÞþroaclms-hchll as&#x27; to sithoss of ,OW&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216067:1807071801:0228/pct:77.22007722007721,20.593445527015056,22.171072171072172,75.59787422497786/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216067:1807071801:0228/pct:77.20861172976986,20.59162164555841,22.172729522395446,75.59413101880554/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6505,7 +6505,7 @@ on before Hampton, have required the ci­
 tizens ot Norfolk and Portsmouth to rescind  
 their resolutions, and have declared, tlia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807071801:0234/pct:40.12557077625571,15.325910171399975,54.03348554033486,79.18178406105342/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807071801:0234/pct:40.11793798744531,15.32399299474606,54.02954790438146,79.17604870319406/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7339,7 +7339,7 @@ Mr. Mitnroe, we ftml the following : j
 H will not be inllexilily maintained. Should it Li !  
 “ so, your negotiation kouLIbe at an enJ.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807072401:0638/pct:7.492581602373887,72.02572347266882,21.6864490603363,4.823151125401929/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807072401:0638/pct:7.490729295426452,72.01414563574988,21.687268232385662,4.826394470342389/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7379,7 +7379,7 @@ be remarked, that the number,
 though c&#x27;vfideroblc, is probably le^s  
 than may be fuppofed.” But canno
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1807072701:0228/pct:56.33464769415395,27.033242734685345,18.172466998114178,18.09533765419193/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1807072701:0228/pct:56.324991429550906,27.03041705863907,18.173637298594446,18.096059370753633/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7661,7 +7661,7 @@ would flow.&quot;
 But let us take a rapid view of all the claims  
 of Grcat-Britain in relation to our feamcn 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1807111301:0229/pct:39.40513578422317,53.62496927992136,18.363199704415297,28.7048414843942/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1807111301:0229/pct:39.39785740672331,53.61838063644182,18.365964782662235,28.705410165048942/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7709,7 +7709,7 @@ prtf whatever, i« pad to cither. She taktshy 1
 g;a it inconfiHrrvIe* cannot he imagined.**  
 Not on’y juftice 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1807111301:0229/pct:57.84223166451136,75.903170312116,18.38167374838352,17.965101990661097/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1807111301:0229/pct:57.83154783893609,75.89384445263546,18.38443541435784,17.966990211737723/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7738,7 +7738,7 @@ navigation even on the high feas, the document
 Any for*, it is an incidental advantage only ; of  
 vWh they avail thcmfelves.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1807112001:0241/pct:3.6175710594315245,5.140186915887851,17.88482834994463,8.337432365961632/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1807112001:0241/pct:3.6169034877283632,5.1395548997909755,17.887679153595375,8.340505758432723/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7785,7 +7785,7 @@ proseb.es, ns well as to those of other nati­
 ons.”  
 * It scans it vias then supposed there veufj Le r
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1807123101:0299/pct:42.722047098090115,10.438439969411165,17.59688485073243,18.87586031098649/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1807123101:0299/pct:42.71412680756396,10.437109723461194,17.599802249412928,18.87770273140478/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8068,7 +8068,7 @@ either ! She takes, by force, her own sub­
 tarily serving in hers. More flagrant in­  
 t confiltencies cannot be imagined. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808011201:0006/pct:26.891143911439116,2.9947916666666665,33.6869618696187,91.90705128205128/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808011201:0006/pct:26.901394013940138,2.998130341880342,33.68183681836818,91.91038995726495/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8183,7 +8183,7 @@ the Lrilish government may possibly |)(.(
 requite, and which it may be expeoi- (.().  
 ent for us ultimately to admit. a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808040801:0001/pct:5.503844597329016,21.26517571884984,18.8587616349656,68.21725239616613/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808040801:0001/pct:5.510589504923782,21.273695420660278,18.872251450155133,68.22151224707136/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8701,7 +8701,7 @@ ty for a light decision on them.
 s: y that precautions of this sort  
 incompatible with th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808040801:0001/pct:22.723593686766492,8.651757188498403,72.42007284500203,88.5111821086262/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808040801:0001/pct:22.723593686766492,8.651757188498403,72.42681775259679,88.51544195953142/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8761,7 +8761,7 @@ situations to v,
 tnsnor the law of their own country  
 are :&#x27;s to pro­
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808040801:0002/pct:5.879908580926657,2.531321912554334,17.909827550384374,31.84607517259013/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808040801:0002/pct:5.886834268301129,2.535583397255604,17.902901863009905,31.8503366572914/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8825,7 +8825,7 @@ pretensions, it goes for no­
 thing. When mavtiage or resi­  
 ■ can be pleaded in Iter favor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808040801:0002/pct:5.630583835445668,47.353618000511375,17.59817161853314,33.91715673740731/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808040801:0002/pct:5.630583835445668,47.353618000511375,17.605097305907613,33.92567970680985/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9360,7 +9360,7 @@ I r,y -O ,1 property, is
 &#x27; addition of the terms &quot;in any case or&#x27;  
 ion any pretext.&quot; it is
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808040801:0002/pct:5.547475586952005,2.531321912554334,90.96197797631415,95.4103809767323/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808040801:0002/pct:5.561326961700948,2.535583397255604,90.96197797631415,95.4103809767323/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9408,7 +9408,7 @@ ly, that tit
 her t  
 enemy of their &lt;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808040801:0002/pct:78.45418657801787,68.99769879826131,17.99293579887804,23.80465354129379/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808040801:0002/pct:78.46111226539234,68.99769879826131,17.99986148625251,23.817437995397597/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9505,7 +9505,7 @@ proper, that negotiation may be em­
 ployed for redressing past or guard­  
 ing against future injustice.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808040801:0003/pct:2.957329953527672,2.319620658721005,18.335445711871568,56.824298346789696/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808040801:0003/pct:2.957329953527672,2.319620658721005,18.335445711871568,56.83284206928959/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9554,7 +9554,7 @@ Inclosed herewith are three letters &#x27;
 on this subject ; two from  
 Sri ~ i c second to 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808041101:0001/pct:6.029441419641056,38.62263908518566,17.947166767493446,23.52563278941282/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808041101:0001/pct:6.036163204947234,38.62692192385113,17.94044498218727,23.534198466743756/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9613,7 +9613,7 @@ i. Liston
 i proper stipulations against British ■  
 , impressments o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808041101:0001/pct:22.78685218794112,22.960298085571118,18.6731195805606,31.69728896312476/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808041101:0001/pct:22.80029575855347,22.964580924236586,18.679841365866775,31.705854640455694/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9774,7 +9774,7 @@ l- ; dient servant.
 JAMES MADISON.  
 C O i\ G.K ri S s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808041101:0001/pct:40.229885057471265,9.328022613388153,35.692679975801575,85.05717589618399/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808041101:0001/pct:40.23660684277744,9.328022613388153,35.692679975801575,85.06574157351493/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9976,7 +9976,7 @@ her approach towards such port she shall have bed®
 previously warned against entering the  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808041101:1074/pct:48.43951508898633,14.016433059449009,47.8720660304359,83.37361043982601/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808041101:1074/pct:48.42702423929861,14.014175257731958,47.86616812790098,83.3642074742268/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10079,7 +10079,7 @@ er if possible; and the ratifications exchanged with­
 &#x27; out.delay, in the United States, at the city of Wash­  
 ington. % *
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808041101:1075/pct:4.525584983286191,2.8617623282134197,24.247878632039086,59.22392886014551/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808041101:1075/pct:4.5244215938303345,2.8612997090203685,24.248071979434446,59.21839637892014/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10109,7 +10109,7 @@ the Britishgovcmmem wouxd bsiwc notified
 formaﬂy to the Unized Sraxea as : ocmral  
 power, she state of war belWe-Zzo (}. Bissuai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216079:1808041101:0460/pct:29.628542064307737,16.87305122494432,22.977536338276316,11.403118040089087/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216079:1808041101:0460/pct:29.62419260129184,16.871548191697844,22.979056566842825,11.405071560068889/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10162,7 +10162,7 @@ ny. The: (My topic on which any thing
 has passcd&#x27;io wrinng between the depart,  
 meot of sun: and him, is that of tho; pre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216079:1808041101:0460/pct:29.540449273234472,28.89086859688196,23.38863602995155,25.915367483296215/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216079:1808041101:0460/pct:29.53611274221961,28.888295029396044,23.39009590917988,25.91602826771186/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10238,7 +10238,7 @@ require,}od which it may be qxpcdiem {or
 as uhimatcly to admit._  
 [To save room instead of arranging th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216079:1808041101:0460/pct:29.540449273234472,54.093541202672604,23.38863602995155,33.220489977728285/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216079:1808041101:0460/pct:29.53611274221961,54.088722608230896,23.39009590917988,33.22050002969297/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10526,7 +10526,7 @@ the exchange of rntificutions. It shall he l&quot;:- *
 tificd on both sides within month:  
 from the day of its sigtmture, or sooncrif
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216079:1808041101:0460/pct:29.540449273234472,3.4298440979955456,68.2131845543973,92.6325167037862/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216079:1808041101:0460/pct:29.53611274221961,3.42953857117406,68.20806420043061,92.62723439634182/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11011,7 +11011,7 @@ ss ought to have weight in this question. Al;
 ! some respects lost to their own nation  
 ss yet such is the intimate and extensivecon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216079:1808041201:0464/pct:6.55884995507637,2.785936804628393,92.81221922731356,92.65687583444593/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216079:1808041201:0464/pct:6.557867944303039,2.785688857244571,92.80331386934172,92.65159606028243/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11072,7 +11072,7 @@ indesensihle, that they never W—siUsi-ss hctssct
 ss case, if they had nocactuaily smsswsc si  
 a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216079:1808041201:0464/pct:78.55645402815215,44.00534045393859,20.634920634920636,34.32131731197152/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216079:1808041201:0464/pct:78.54469231920946,44.00142399430402,20.636821879522884,34.32122938174914/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11421,7 +11421,7 @@ ble ; and the ratifications exchanged with­
 out delay, in the United States, at the city  
 of Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808041201:0442/pct:5.810176831468784,9.79089790897909,71.54456874774449,85.30135301353013/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808041201:0442/pct:5.809128630705394,9.7896937646046,71.53767514582958,85.29496166933137/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11496,7 +11496,7 @@ tions, are first, the complimcnt paid by o­
 ther ﬂsgstu here; secottdly, the e&#x27;ztension  
 Of her territorial jurisdiction in certain
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216079:1808041301:0468/pct:8.40701550949413,13.516134720507846,24.597767792433686,36.325163110562514/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216079:1808041301:0468/pct:8.405797101449275,13.514943136736314,24.59903381642512,36.32489935055394/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11904,7 +11904,7 @@ I
   
 .- turn, the: direct trade hente-en itp 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216079:1808041301:0468/pct:8.899840556602406,3.976371010403809,86.53428033048267,94.26027155704462/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216079:1808041301:0468/pct:8.898550724637682,3.9760204531429073,86.52657004830918,94.25490023215492/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12037,7 +12037,7 @@ on the contrary wishes them to bs? &#x27;;C&gt;si*&quot;&#x27;ss
 as PY&#x27;OCCWHUJ {issmn zm officcr ffi&#x27;ﬄ (&quot;&#x27;&quot;ssf  
 pursue the intents of his gm&#x27; (&#x27;ss s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216079:1808041301:0468/pct:79.09842006087838,17.704108622817845,19.770981301637917,66.8753306295186/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216079:1808041301:0468/pct:79.08695652173913,17.702547826853564,19.77294685990338,66.87237356372506/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12063,7 +12063,7 @@ ssPccuziqjmy as to admit a want of informa­
   
 tion to :. pjea for going cosiablockaded port,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216079:1808041401:0472/pct:4.593058049072412,14.577207520270873,24.625972471573906,5.82731889869019/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216079:1808041401:0472/pct:4.592370979805535,14.575908766928011,24.62727499376714,5.829769541458779/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12352,7 +12352,7 @@ vant, !
   
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216079:1808041401:0472/pct:5.161579892280072,4.027443642519826,72.18731298623578,94.83204134366925/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216079:1808041401:0472/pct:5.160807778608826,4.027084818246615,72.18150087260035,94.82656212877168/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13078,7 +13078,7 @@ tion ot t.ie pecans comprehended b- this ar .
 tic. c, therefore. Cannot heJustly or ho ora—  
 Wy vc.used and &#x27;be ^ •, ’M
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808041501:0446/pct:5.595667870036101,10.42997542997543,90.07220216606498,86.42506142506143/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808041501:0446/pct:5.594658003970403,10.42869426360398,90.0619623413343,86.41853990091307/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13612,7 +13612,7 @@ teem,
 Your most obedient servant,  
 (Signed) JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808041501:0447/pct:4.2015278283012005,1.9256715319514288,72.84467078937796,92.76339997546916/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808041501:0447/pct:4.20076377523186,1.9254353691439785,72.83748560344306,92.75611151990843/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13715,7 +13715,7 @@ qu re, and which t may be expedient for
 u-i ultimately to admit.  
 £ l*o s.ive mom, instead of arranging the ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808041501:0130/pct:3.0845392231530844,9.618320610687023,18.335872048743337,51.463104325699746/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808041501:0130/pct:3.083952027412907,9.617097061442564,18.338727076591155,51.46079803248102/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13748,7 +13748,7 @@ t’on passing trom one port to another port
 of either of the part rs  
 Art. I. Nd person whattver shall, upo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808041501:0130/pct:3.313023610053313,67.02290076335878,18.107387661843106,11.717557251908397/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808041501:0130/pct:3.3123929183323817,67.01437476148072,18.11028618567168,11.720307000805665/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14399,7 +14399,7 @@ some kmd will ore long be called f r in a
 tone not to he disregarded. A copy of the &lt;  
 hill referred to is herewith inclosed.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808041501:0130/pct:1.827875095201828,2.72264631043257,95.18278750952018,91.69211195928753/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808041501:0130/pct:1.8275271273557967,2.7222999618369164,95.17101338917443,91.68468812280032/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14567,7 +14567,7 @@ pretext cither of withholding the wonted
 homage to the British fl &#x27;g, or of smuggling  
 in denanre nf British laws.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808041501:0132/pct:2.9082774049217,2.9535327816677275,19.854586129753915,90.65563335455124/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808041501:0132/pct:2.907735321528425,2.9531568228105907,19.85709847778813,90.64833672776646/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14793,7 +14793,7 @@ given to prove their real rharacter, in situations
 to which neither the law of nations nor the law of  
 their own country are applicable. In other words
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808041801:1086/pct:4.525696752748658,13.20694087403599,45.76834569163897,82.63174807197943/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808041801:1086/pct:4.524539877300613,13.204819277108435,45.76303680981595,82.62248995983936/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15067,7 +15067,7 @@ the exemption of American vessels from impress­
 Iments,&#x27;whish um no wit* sooasctsd mtfe aitkaty  
 ■ ;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808041801:1086/pct:27.614420864229096,13.319408740359897,69.16389670161084,83.66002570694087/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808041801:1086/pct:27.607361963190183,13.317269076305221,69.15260736196319,83.65060240963855/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15346,7 +15346,7 @@ subjects, in order, if deemed proper, that negotia­
 tion may be employed for redressiug past or guard­  
 ing against future injustice. . L
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808041801:1087/pct:2.053915275994865,0.8912655971479501,47.034659820282414,96.14325068870524/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808041801:1087/pct:2.0533880903490758,0.8911211924821776,47.02900410677618,96.13172391445237/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15369,7 +15369,7 @@ ried before a legal tribunal, win re a regular trial
 ma&gt; be had, and where the captor himself is liable  
 to damages lor an abuse of Ins power.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808041801:1087/pct:50.012836970474964,55.85804569761789,22.053915275994864,6.498136444660509/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808041801:1087/pct:50.0,55.84899546338302,22.054671457905545,6.501134154244977/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15411,7 +15411,7 @@ been previously warned against t: . i «£
 same. - *» l,ie  
 Art. 6. It is a feed that no refuge or protcc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808041901:0450/pct:77.48964523680893,48.46153846153846,17.3419773095624,15.824175824175825/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808041901:0450/pct:77.47569319409435,48.455622024172875,17.344856559836753,15.82631343344321/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15868,7 +15868,7 @@ require two mon.hs more, the blockade
 ■ will have ceased ; ami may accordm^y  
 c.ear and steer for such a port with
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808041901:0133/pct:23.450236966824644,13.756345177664974,73.08056872037915,81.63705583756345/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808041901:0133/pct:23.44579226686884,13.754599670092627,73.07303512762194,81.63092670134924/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16118,7 +16118,7 @@ teem, I remain, vir, your most obdL servt.
 (tignedj  
 JAM F.S MADISON, j
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808041901:0134/pct:1.5311004784688995,3.4817711618518987,38.94736842105263,90.43774441781254/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808041901:0134/pct:1.5308075009567548,3.481331987891019,38.94629417017477,90.43054154053145/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16460,7 +16460,7 @@ With sentiments of great respect aad ft*
 vant, &#x27;i  
 | (Signed) JAMES MADISON. ,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808042001:1090/pct:26.956959476466146,13.746587441785772,69.56959476466146,83.87666613136342/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808042001:1090/pct:26.950176144942123,13.744380218368658,69.55837946653246,83.86721258831085/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16494,7 +16494,7 @@ sli.Ui respeilively prescribe, shewing that the
 pr rs n claiming. under it is a citizen or subject  
 oi either powei, shall be deemed satisia. tor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808042201:1094/pct:50.289745527840765,53.68,21.592340639959687,13.872/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808042201:1094/pct:50.277078085642316,53.671412573988164,21.593198992443323,13.873780195168774/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16524,7 +16524,7 @@ own boat to the other, and may enter her to
 the number of two dr three men only, who  
 may in an orderly manner examine the same
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808042201:1094/pct:50.289745527840765,72.448,21.693121693121693,11.568/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808042201:1094/pct:50.277078085642316,72.4364101743721,21.693954659949622,11.57014877619581/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16597,7 +16597,7 @@ the date of its signature, or sooner, if ‘pot*
 sible, aqfl the ratifications exchanged  
 delay in the United States at th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808042201:1094/pct:50.289745527840765,14.336,45.35147392290249,81.936/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808042201:1094/pct:50.277078085642316,14.33370660694289,45.3463476070529,81.92689169732843/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17931,7 +17931,7 @@ d ships belonging to or in t he service of the
 the military service of an enemy of such o­  
 thcr party
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808051001:0007/pct:77.09881129271916,84.73224458792252,18.10921248142645,2.3294087859222685/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808051001:0007/pct:77.0844939647168,84.72151898734177,18.11203961621789,2.3333333333333335/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17959,7 +17959,7 @@ to return to their own Conn, i \.
 in II qiu stiont which timj itrivg w!  
 , tlie dominions n riiher p &gt;vvi\ i t » er
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808051001:0007/pct:77.11738484398217,87.06165337384479,19.910846953937593,7.760476009621471/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808051001:0007/pct:77.10306406685237,87.0506329113924,19.91333952336738,7.763713080168777/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18016,7 +18016,7 @@ of their arrest, they shall he Set at liberty,
 and shall not be again arrested for the same  
 Cause.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808051001:0010/pct:3.118656578704558,11.505771914245846,17.97379590330319,24.72408981352277/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808051001:0010/pct:3.1180811808118083,11.504312531709791,17.976629766297663,24.725181802807374/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18036,7 +18036,7 @@ denomination is given only to a port where there
 is. by the dis|H&gt;n*ion of the power which block­  
 ades it with strips stationary, an wvident danger i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808051701:0020/pct:4.048807542983916,18.1165806370389,17.72970974302089,3.2985018255067353/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808051701:0020/pct:4.048059149722736,18.114300100704934,17.732593961799136,3.3022826451829475/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18103,7 +18103,7 @@ neutral vessels on the high seas was Lil
 admitted, can any nation without sur- &#x27;&lt;&gt;  
 rendering its pretensions to indepen- tl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808060301:0001/pct:4.400575776269792,61.18534197645191,19.144560970594284,32.68950919433787/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808060301:0001/pct:4.4074302556720815,61.18975173082859,19.137706491191995,32.68509943996119/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18127,7 +18127,7 @@ pt him off from his most tender core
 A son to the most humiliiti line  
 se and his life itself to the greatest 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808060301:0001/pct:22.24964013983138,23.561317634607754,18.58934813900884,6.164836618600344/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808060301:0001/pct:22.24964013983138,23.561317634607754,18.58934813900884,6.1692463729770255/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18196,7 +18196,7 @@ any person who claims to be. a citizen \
 or subject of the other power, due h  
 credit shall be given to such publi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808091401:0003/pct:6.517690875232774,39.06068055375857,18.55990068280571,14.361495665674731/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808091401:0003/pct:6.517690875232774,39.06068055375857,18.573694737568108,14.365808427135896/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18257,7 +18257,7 @@ mi from the day of their arrests, they
 eh Shall be set at liberty and shall no  
 iin arrested for the same cause.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808091401:0003/pct:5.834885164494103,5.00711605641092,36.768052969170284,90.05045930909561/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808091401:0003/pct:5.834885164494103,5.011428817872083,36.781847023932684,90.05908483201794/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18310,7 +18310,7 @@ to our own coasts, to neutral ports and
 to neutral territory ; and, in some in  
 stances, to our own harbors.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808102401:0001/pct:76.34982549784438,45.17792676637442,18.086635187846436,26.431150077359465/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808102401:0001/pct:76.36351194142202,45.17792676637442,18.072948744268803,26.435447825339523/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18345,7 +18345,7 @@ ber may have exceeded the J i
 of twenty to one.  
 &quot; tt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808102401:0001/pct:76.67830014370766,80.55698813821557,17.40915623075344,14.066529138731305/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808102401:0001/pct:76.68514336549647,80.5655836341757,17.429685896119892,14.070826886711362/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18375,7 +18375,7 @@ reel trade between hostile colonies ;
 and ni nerally. You ]  
 will be careful, however, so to mo- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808102401:0002/pct:6.600863664404688,71.3130535232961,18.0341353074234,10.730329867796176/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808102401:0002/pct:6.607718143806978,71.3130535232961,18.04098978682569,10.734608308732298/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18487,7 +18487,7 @@ your discretion, in which the Prcsi­
 -:s great confidence, must  
 de ydu in ail that relates to the io
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808102401:0002/pct:6.539173349784084,5.429341547939931,35.574748097881965,89.37235271467077/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808102401:0002/pct:6.539173349784084,5.437898429812177,35.595311536088836,89.36379583279853/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18526,7 +18526,7 @@ i hi;, life itself to the greatest dangers.
 i Passing from the consid&lt;  
 Mr Madison&#x27;s letter, I Vill rectir t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809031501:0001/pct:76.09264853977845,57.46825500719989,17.442094662638468,4.791203037046734/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809031501:0001/pct:76.09264853977845,57.476982152986864,17.442094662638468,4.782475891259764/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18565,7 +18565,7 @@ vessel in which they may be, nor to persons
 ol any description passing ^/rom one fiort to  
 another fiort of either of the fiurties.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809111701:0225/pct:24.443627000183923,20.046307579819644,17.43608607688063,14.294418718011212/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809111701:0225/pct:24.439132033835968,20.043864993298403,17.439009439745004,14.296738556516795/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18606,7 +18606,7 @@ fact was sacrificed to form and right to
 power and plunder. The IT. Stales were  
 among the greatest sufferers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809112401:0233/pct:5.037174721189591,28.618381010346926,18.587360594795538,14.826536822884966/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809112401:0233/pct:5.036238617357369,28.614897760467382,18.590100972557764,14.82878935410581/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18637,7 +18637,7 @@ approach towards such (blockaded) port, j
 flu^ shall have been firrvifjusJy warned a. *  
 g &#x27;inst entering the same but as the Bt i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809112401:0233/pct:5.855018587360595,63.26232501521607,17.82527881040892,9.409616555082167/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809112401:0233/pct:5.8539304961903,63.25462512171373,17.828160812736172,9.412528399870173/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18661,7 +18661,7 @@ articles which may be necessary for the de 1
 fence or use of the ship and those who com  
 pose the crew.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809112401:0233/pct:23.940520446096656,7.87583688374924,17.881040892193308,5.465611685940353/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809112401:0233/pct:23.936071362200334,7.874878286270691,17.883912531747505,5.469003570269393/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18808,7 +18808,7 @@ description had not occurred at tMe
 time of the composition oi Mr. Ma*  
 disqp\ letter. Among these, it i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809121101:0001/pct:6.330385852090032,31.30139668450594,17.70498392282958,26.19762433102728/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809121101:0001/pct:6.330385852090032,31.305747726580517,17.725080385852092,26.206326415176434/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18838,7 +18838,7 @@ kude, unless- on hei approach toward­
 such (blockaded) port, she shall have  
 been previously warned against cnter
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809121101:0001/pct:6.993569131832797,83.84022973502154,16.881028938906752,11.095157290170995/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809121101:0001/pct:6.993569131832797,83.84893181917069,16.90112540192926,11.099508332245573/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18864,7 +18864,7 @@ for the defence or use of the ship and
 those who compose the c;tvv.&quot; i  
 The 9th art. of the treaty of Messrs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809121101:0001/pct:24.015273311897108,50.463385980942434,17.765273311897108,8.158203889831615/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809121101:0001/pct:24.021972132904608,50.463385980942434,17.785369774919616,8.162554931906191/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18919,7 +18919,7 @@ as violating in any manner the blockade, unless on
 her approacirtowards such port she shall have been  
 1 previously warned not to enter it—that this vie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811111801:0836/pct:4.617283950617284,73.07692307692308,21.77777777777778,2.9561347743165927/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811111801:0836/pct:4.616144161935325,73.06531066264102,21.778573191804494,2.9596376926744/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18939,7 +18939,7 @@ manner the blockade, unleis on her approach j
 towards such port she shall nave been previ- ;  
 oush warned not tu enter it; that this riew of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216146:1811111901:0422/pct:31.807628524046436,82.28909718796251,21.807628524046436,4.104588061174149/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216146:1811111901:0422/pct:31.802354501741004,82.28097868981847,21.809539600950643,4.107471717968956/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18959,7 +18959,7 @@ be considered as violating in any manner (he block,
 ijie, nub *s on her approach towards such port she  
 ’ have been pr&lt; •. iondv warned not to *n: *r it 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811112201:0226/pct:23.638324644975732,87.10349050826699,17.059140751393134,2.976117575015309/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811112201:0226/pct:23.634076204169663,87.09282390399217,17.062065660196502,2.9798350885786595/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18978,7 +18978,7 @@ to a blockaded port, shall not be considered as
 her approach towards such port she shall have  
 been previously warned not to enter it ^ tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811120201:0394/pct:5.1071761416589005,80.04538005798562,17.81919850885368,2.7984369091138284/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811120201:0394/pct:5.106224375698845,80.03529115200404,17.822089700583923,2.802285522225023/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -19118,7 +19118,7 @@ Mr. King seems to he of opinion, however, “ tliat with
 “ jection might have been- overcome.’ What time was ie:t  
 Mr. King for the experiment, or whether anv was ever mad
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1812071701:0278/pct:5.149501661129568,9.50503723171266,29.686758424299953,5.811067309096218/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1812071701:0278/pct:5.148279952550415,9.503649635036496,29.68564650059312,5.813868613138686/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -19146,7 +19146,7 @@ gant, on the part of France. Without waiting for any
 knowledge of the course, the American government would  
 take, in relation to the British orders in council, the Frenc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1812071701:0278/pct:66.39772187944945,57.4828442108337,29.75794969150451,9.140020440940283/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1812071701:0278/pct:66.38196915776987,57.47445255474452,29.75682087781732,9.142335766423358/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -19285,7 +19285,7 @@ ccrtficatr having tern first mggesttdlu
 the Prithhft is pretty certainj from the  
 whole tenor of the act of Mry 28&#x27;/j, 17J
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812081401:0115/pct:77.48788669399926,82.7654077992373,17.983600447260528,8.488128921146512/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812081401:0115/pct:77.47344885410844,82.75522755227553,17.986460468293895,8.491184911849118/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -19314,7 +19314,7 @@ liating discipline, and his life itself to the
 mnianity unite in protesting against so ex­  
 t 1?ag:int a proceeding.” And again, o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812081401:0116/pct:5.396012438265959,84.14798480950631,17.57819645143589,8.440524317040303/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812081401:0116/pct:5.395025603511339,84.13767760901518,17.581077785905876,8.443573411726279/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -19492,7 +19492,7 @@ posts, or veaaela, of the other party, or t«&gt;
 ise violence to the persons of the comman­  
 ders or other officers of the forts, posts, o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812081801:0122/pct:23.6924206276381,36.46986469864699,17.342631675536797,5.559655596555966/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812081801:0122/pct:23.68807339449541,36.46537941212643,17.345565749235472,5.563071372934858/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -19511,7 +19511,7 @@ the service of the other party, and strict 8c
 effectual orders shall be given for the due  
 observance of this engagement.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812081801:0122/pct:23.61901266287392,64.20664206642067,17.287575701963664,2.804428044280443/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812081801:0122/pct:23.61467889908257,64.19874554175378,17.29051987767584,2.8081826753576844/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -19541,7 +19541,7 @@ spective nations, or to such other person* as
 may be duly authorised to make requisition,  
 in that behalf.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812081801:0122/pct:23.600660671682878,67.19557195571956,17.672967516975593,8.081180811808117/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812081801:0122/pct:23.59633027522936,67.18730783421474,17.67584097859327,8.084286475628254/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -19591,7 +19591,7 @@ of right; and when the ignorance and want
 of concert among other maritime countries  
 facilitated such an usurpation.” Furthe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812081801:0122/pct:41.64066801247935,31.40221402214022,17.250871719581575,19.40959409594096/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812081801:0122/pct:41.63302752293578,31.398351986225556,17.25382262996942,19.411306522362974/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -19615,7 +19615,7 @@ as much as if they were within the harbors &amp;
 rivers of the country.” And in conclusion  
 of the subject of the “ narrow aeus” in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812081801:0122/pct:41.603964030097266,50.76260762607626,17.287575701963664,5.584255842558425/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812081801:0122/pct:41.596330275229356,50.75636453080802,17.29051987767584,5.5876685934489405/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -19640,7 +19640,7 @@ a general evil, and by subjecting ourselves
 to our own reproaches, as well as“to those of  
 other nations.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812081801:0122/pct:41.58561203890622,56.309963099631,17.232519728390532,6.002460024600246/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812081801:0122/pct:41.57798165137615,56.30303775673349,17.23547400611621,6.005821342188333/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -19660,7 +19660,7 @@ time than was left him for the experiment,
 the oljjection might have been overcome —.  
 What time was left Mr. King for the expe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812081801:0122/pct:41.603964030097266,66.9249692496925,17.232519728390532,3.5055350553505535/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812081801:0122/pct:41.596330275229356,66.91673840855984,17.23547400611621,3.509203460009019/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -19765,7 +19765,7 @@ in every ether jurisdiction, the righ.s and immunaties
 dite to them.” This view of the subject is no doubt just;  
 but the ceriificate Aaving been firsl suggeste by th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812090301:0681/pct:29.29915639195328,84.49113071053414,21.576898118105127,6.550391437914974/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812090301:0681/pct:29.304564135842526,84.49113071053414,21.587713605883625,6.556997985003138/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -19790,7 +19790,7 @@ to the persons of the commanders, or other officers
 of the Foru, posts, or vessels of the other party. with  
 a view,to compel delivery of such persons as shal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812091001:0685/pct:28.143227478937135,34.1576354679803,21.19248217757615,6.561576354679803/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812091001:0685/pct:28.143227478937135,34.164203612479476,21.203283646575933,6.564860426929393/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -19825,7 +19825,7 @@ the ships of war of the respectise nations, or
 to such other persons as may be duly suther­  
 ized 1o make requisition in that behalt.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812091001:0685/pct:28.143227478937135,64.60098522167488,21.160077770576798,14.236453201970443/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812091001:0685/pct:28.143227478937135,64.60426929392446,21.176279974076476,14.246305418719212/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -19853,7 +19853,7 @@ ond of right ; and when the igoorance and
 rant of coacert among other maritime coun­  
 ies facilitated such an usurpation.” [Furth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812091701:0689/pct:7.068104975044276,45.848982012255384,21.043310255997422,9.665941885748172/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812091701:0689/pct:7.07347179734879,45.852276470975816,21.04867707830194,9.665941885748172/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -19876,7 +19876,7 @@ spulations framed for them, as much as if
 ey were within the barbors and rivers of the  
 suntry,” And ia conclusion of the subjec
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812091701:0689/pct:7.068104975044276,55.59399090729393,21.075511189824503,6.345127495552481/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812091701:0689/pct:7.07347179734879,55.59728536601436,21.075511189824503,6.348421954272913/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -19900,7 +19900,7 @@ onfirming a general evil, and Ly subjecting
 urselves to our own reproaches, as well as  
 o those of other nations.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812091701:0689/pct:7.068104975044276,62.52223759636292,21.075511189824503,6.977663569875469/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812091701:0689/pct:7.07347179734879,62.52223759636292,21.075511189824503,6.987546946036766/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -19920,7 +19920,7 @@ vas left him for the experiment, the uhjec­
 ion might have been overcome. \Vhat time  
 vas left Mr. King for the experiment (con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812091701:0689/pct:7.068104975044276,75.23225933979047,21.123812590565127,4.249851749357581/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812091701:0689/pct:7.07347179734879,75.23884825723134,21.123812590565127,4.249851749357581/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -20276,7 +20276,7 @@ TO TIW ED IT OH—dated
 .. T . . . B ashington, Jan IS.  
 I nave great pleasure in informing von that di
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1813011901:0325/pct:22.144047398629883,3.644871321265854,55.06387705980374,91.42962689323974/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1813011901:0325/pct:22.139948167345427,3.6444225560206847,55.05985437492287,91.42247393909545/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -20324,7 +20324,7 @@ She keeps by force American citizens in­
 voluntarily serving in hers. More flagrant  
 inconsistencies cannot be imagined.”*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1813012101:0329/pct:22.532864284391778,29.089563286454478,17.626365487872615,18.35677276091784/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1813012101:0329/pct:22.528693076638284,29.085975083261378,17.629273108725165,18.358620122527856/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -20406,7 +20406,7 @@ disagreeable to them * an embat ra sing to
 good understanding wmch ought to be  
 faithfully}culivated by bmi .
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1813012101:0329/pct:22.662469912979077,3.552923760177646,36.04887983706721,90.90796940537874/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1813012101:0329/pct:22.658274713069233,3.552485506352535,36.048377144267555,90.90086756301139/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -20441,7 +20441,7 @@ protection of the American flag.”. &#x27; :r
 The claim then ou tire pari of the British is,  
 that in time of war, tlicy have a right to ente
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813030301:0380/pct:48.22411205602801,44.83870967741935,21.5607803901951,7.483870967741935/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813030301:0380/pct:48.21205301325331,44.831478793742946,21.561640410102527,7.486695694242864/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -20470,7 +20470,7 @@ proof, with the strongest presumption that the grea­
 ter part of the whole were Americans, or aliena  
 whose proof ol citir.unship had been lost or destroy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1813040601:0424/pct:22.834204630321135,47.36906810917138,17.886482449589245,2.5079911482665356/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1813040601:0424/pct:22.82994213179018,47.36324523663184,17.889365938647252,2.511780372874411/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -20531,7 +20531,7 @@ the delivery of any person whatever ; on
 the contrary it is expressly declared to he  
 the understanding of the contracting parties
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814040201:0071/pct:21.92951228195087,64.82750472589792,16.553933784264864,7.136105860113422/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814040201:0071/pct:21.925609539063892,64.81984642646191,16.556919973898083,7.139200630045284/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -20604,7 +20604,7 @@ ments, it cannot be presumed that the British gov­
 ernment will ohj et to the renewal of it. Nothing  
 is more natural after the differences which have ta
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1814102201:0101/pct:52.020725388601036,51.80425111220959,21.735751295336787,8.815290822211237/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1814102201:0101/pct:52.007252007252006,51.795716639209225,21.736596736596738,8.817957166392093/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -20631,7 +20631,7 @@ mal act between the two governments, it can- 4
 not be presumed that the British government J  
 will tbject to the removal ot it. Nothing i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1814110201:1133/pct:47.93976501737548,18.78361200743131,22.50537812344862,8.9077930967048/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1814110201:1133/pct:47.95079706547521,18.786871353606468,22.516410171548348,8.914311789055116/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -20673,7 +20673,7 @@ ed, that &quot;the suppression of impressment,
 and the definition of blockades, were abso­  
 lutely indispensable ;:s and that, &quot; without 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1815032901:0411/pct:22.83421484588729,32.65229380797192,17.417472186759074,1.76736024066182/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1815032901:0411/pct:22.830051057622175,32.64820152901366,17.420374422562606,1.7713163721435434/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -20726,7 +20726,7 @@ a blockaded pert ; nor, as he has maintain­
 ed, and an we have not contented, enemy’s  
 property of any kind.” In the 8&#x27;h articl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184285:1815041201:0103/pct:41.127120189677186,78.08098591549296,17.03447018055809,6.99195171026157/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184285:1815041201:0103/pct:41.11962071480671,78.0711681126619,17.037442256260636,6.995263841736871/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -21047,7 +21047,7 @@ no citizen of the other contracting party shall ac­
 cept a commission, or letter of marque, for the pur­  
 pose of assisting or co-operating hostilely, with th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183992:1825062101:0054/pct:36.44282546721571,48.683740321620014,14.76084890719037,8.219178082191782/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183992:1825062101:0054/pct:36.43705463182898,48.67794187708433,14.763789918184218,8.222169286962046/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -21123,7 +21123,7 @@ commander or agent ol said vessel, with­
 out any delay, lie paying the legal fees  
 for the same
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898036:1825082701:0092/pct:57.61693232296838,77.8865295288653,17.559446041285604,10.865958858659589/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898036:1825082701:0092/pct:57.60188087774295,77.87361088074307,17.561389759665623,10.868303201194228/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -21142,7 +21142,7 @@ shall be counted from this day, or sooner if
 possible, and the ratifications shall be exchang­  
 ed without delay in the time which the distanc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826032701:0204/pct:60.6524962926347,17.6979374584165,17.61410446531554,3.082723442004879/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826032701:0204/pct:60.642504118616145,17.69597516354363,17.61669412410763,3.086077540008131/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -21171,7 +21171,7 @@ ap°&#x27;*’where there is, by the disposition of the
 power that a-tacks it with ships, stationary or suf­  
 aU eviJent d*inScr entering;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826082201:0123/pct:48.08441558441559,51.930967897658704,15.113636363636363,2.7636978035240163/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826082201:0123/pct:48.076610939782505,51.924701339447324,15.116593626575773,2.767386669884558/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -21205,7 +21205,7 @@ the legal fees for the same.”
 Such is a part of the solemn compact into  
 which the French Government entered, wit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216365:1826103001:0256/pct:24.870466321243523,50.45172719220549,18.37385412514946,6.235606731620903/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216365:1826103001:0256/pct:24.867162592986183,50.44725887875299,18.375841303577754,6.238006671980633/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -21243,7 +21243,7 @@ I aSer&gt;t °f the said vessel without delay, he paying the
 &#x27; legal fees for the same.”  
 | ^ Huch is a part of the solemn compact into which th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826110701:0264/pct:40.99640793378104,49.81006647673314,17.80415430267062,7.668566001899335/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826110701:0264/pct:40.99000624609619,49.804154302670625,17.806579221320007,7.671612265084075/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -21380,7 +21380,7 @@ shall be engaged in war with another State, no
 citizen of the other contracting party shall  
 accept a commission, or letter of marque, fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1826112101:0185/pct:74.09867172675521,26.493108728943337,16.666666666666668,14.977029096477795/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1826112101:0185/pct:74.10921357790428,26.49651182576144,16.656124815517604,14.983835290114003/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -21435,7 +21435,7 @@ I sentence or decree, and of all the proceedings in
 | commander or ageut of said vessel, without any  
 ; delay, he puying the legal fees for the sam
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348811:1826112301:0129/pct:37.201873935264054,78.50640113798009,15.417376490630323,6.770981507823613/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348811:1826112301:0129/pct:37.19395358739621,78.49523538614706,15.419416648924846,6.773574171526099/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -21512,7 +21512,7 @@ fees for the same. :
 Article XXlV.—Whenever one of the contract­  
 ing parties shall be-engaged in war with anothe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1829041401:0057/pct:40.87476400251731,80.6685118160528,17.023285084959095,7.2705982542048115/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1829041401:0057/pct:40.880008391021605,80.6685118160528,17.023285084959095,7.274146618408913/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -21661,7 +21661,7 @@ de&#x27;ay, he paying the legal fees for the same,
   
 Annrcry XXIV
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153188:1830093001:0558/pct:51.841258491240616,71.90392501464558,16.14229531641044,8.283538371411833/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153188:1830093001:0558/pct:51.853176021928256,71.90392501464558,16.13633655106662,8.283538371411833/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -21713,7 +21713,7 @@ the case, shall, if demanded, be delivered to the
 commandantipr egent of said vessel, without any  
 delay, he paying the legal fees for the same. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1834061701:0409/pct:47.59825327510917,17.009616378864646,13.818847725031695,3.8568917381863304/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1834061701:0409/pct:47.60764426914589,17.016509840416365,13.818847725031695,3.8603384689621896/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -21783,7 +21783,7 @@ Whenever one of the contracting parties shall be
 engaged in war with another State, no citizen of the  
 other contracting party shall accept a commtission o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1836091301:0351/pct:33.75985716411248,60.36436818133672,13.926499032882012,6.768350810295519/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1836091301:0351/pct:33.764816743540145,60.36789888076828,13.921539453454347,6.771881509727077/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -21865,7 +21865,7 @@ contracting party shall accept a commission or letter of
 marque, for the purpose of assisting or co-operating hos­  
 tilely with the said enemy, against the said paity, sv a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1839052101:0289/pct:48.78761320479112,63.382918963903045,14.723926380368098,7.167377509622386/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1839052101:0289/pct:48.78761320479112,63.382918963903045,14.743402473463822,7.17431256284892/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -21933,7 +21933,7 @@ Wheunever one of the contracting parties
 shall be engaged in war with another state, e  
 citizen of the other contructi,l party 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1839062601:1094/pct:79.13774205334308,42.172650475184795,14.377055169894044,8.342133051742344/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1839062601:1094/pct:79.14383144562173,42.1770503343893,14.383144562172696,8.35533262935586/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -22009,7 +22009,7 @@ that in case a war should unforlunately take place bes
 them hostilities shall only be carrled on by par  
 duly commissioned by the Government, and b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271742976:1848061901:0716/pct:57.24508050089445,251.68704710144928,51.30915596031875,17.866847826086957/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271742976:1848061901:0716/pct:19.08169350029815,83.89568236714976,17.10305198677292,5.955615942028985/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -22045,7 +22045,7 @@ case, shall, if demanded, be delivered to the commander or
 agent of said vessel, without any delay, he paying the legal  
 fees for the same
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191289:1848072201:0275/pct:140.65502183406113,296.8976897689769,60.08733624454148,18.91089108910891/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191289:1848072201:0275/pct:35.16375545851528,74.22442244224422,15.02183406113537,4.727722772277228/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -22094,7 +22094,7 @@ for the same. gy
   
 Anricre XX
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153279:1848081601:0789/pct:56.121919584954604,73.17465099929697,12.399481193255513,5.122024706236818/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153279:1848081601:0789/pct:56.1305663640294,73.18134645642931,12.399481193255513,5.125372434802986/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -22132,7 +22132,7 @@ that in case a war should .unfortunately take place
 between therriV hostilities shall only bo carried on bf  
 persons duly commissioned by the government,- an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022615:1849032801:0479/pct:43.82716049382716,92.77210884353741,20.454545454545453,8.875425170068027/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022615:1849032801:0479/pct:32.88421052631579,69.57908163265306,15.35438596491228,6.6645408163265305/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -22164,7 +22164,7 @@ sel, mnerchandise, or property, without any ex-
 cuse or delay, upon payment of the establish­  
 ed legal fees for the same
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777791:1852081801:0558/pct:72.35023041474655,233.86699507389162,44.77726574500768,32.142857142857146/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777791:1852081801:0558/pct:18.097982708933717,58.466748768472904,11.200768491834774,8.035714285714286/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -22207,7 +22207,7 @@ shall be engaged in war with another State,no
 citizen of the other contracting Pa ty shall  
 accept a commission or letter of marque fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777791:1852090101:0566/pct:24.905374716124147,14.944112693308835,87.81226343679032,365.0895728066146/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777791:1852090101:0566/pct:6.2275222411508615,3.7360281733272087,21.95722127579027,91.27239320165366/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -22386,7 +22386,7 @@ For the purpose of lessening the evils of war, the two
 high contracting parties luntier agree that in case a war  
 should unfortunately take place between them, hostilitie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661216:1853042001:0490/pct:63.08757244043786,37.39163211458726,15.808113329040566,7.727101394647569/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661216:1853042001:0490/pct:63.08757244043786,37.39163211458726,15.824211204121056,7.731289525484776/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -22434,7 +22434,7 @@ clarations, protests, and seports of all captains of
 vessels of their nation in reference to injuries expe,­  
 rienced at sea; they shall examine and take note o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743087:1853082201:0411/pct:108.20220957482424,12.351190476190476,46.869768998995646,30.21978021978022/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743087:1853082201:0411/pct:36.06740319160808,4.117063492063492,15.62325633299855,10.073260073260073/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -22488,7 +22488,7 @@ ton within the exact, period of six months from the
   
 date of its signature, or sooner if possible
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879087:1854070701:0114/pct:106.9246972090574,44.30292936220241,20.181674565560822,9.062408151268738/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879087:1854070701:0114/pct:80.21066491112575,33.232095620652494,15.141540487162606,6.799255412951895/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -22518,7 +22518,7 @@ agree that in case a war should unfortunately take
 place between them, hostilities shall only be carried  
 on by persons duly commissioned by the Govern
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293186:1854110501:0434/pct:228.89165628891655,61.076102762966556,49.68866749688667,29.520116335433833/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293186:1854110501:0434/pct:57.22291407222914,15.269025690741639,12.422166874221668,7.380029083858458/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -22546,7 +22546,7 @@ enemy to one of the two contracting parties, shall be
 permitted to fit out his vessels in tbe port* of the other  
 nation, nor to sell his prizes, or in any manner to alien
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743208:1854122801:1482/pct:65.1944065484311,161.29882029549879,47.83424283765348,16.43568892452182/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743208:1854122801:1482/pct:21.731468849477036,53.766273431832936,15.94474761255116,5.478562974840607/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -22585,7 +22585,7 @@ delivered to the commander - or agent- of said
 vessel, without any delay, he paying the legal  
 fees for the same
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn85029297:00212472840:1855022301:0095/pct:118.90143171806167,94.9937159614579,21.351872246696036,10.305823209049015/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn85029297:00212472840:1855022301:0095/pct:79.30037184960749,63.332635106828654,14.240462746178212,6.870548806032677/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -22608,7 +22608,7 @@ in the case, shall, if demanded, be delivered to the
 commander or agent of said vessel, without any de­  
 lay, he paying the legal fees for the same
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn84022882:00414212426:1855050101:0198/pct:41.948017148981776,13.67934224049332,12.754555198285102,3.720452209660843/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn84022882:00414212426:1855050101:0198/pct:41.942397856664435,13.677936491624704,12.756195579370395,3.7226389887986846/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -22635,7 +22635,7 @@ be delivered to the commander or agent of said
 vessel, without any delay, he paying the legal  
 fees for the same
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_coyote_ver02:data:sn88071075:0029602515A:1856011901:0085/pct:296.1451247165533,64.80561740023977,68.25396825396825,35.96506251070389/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_coyote_ver02:data:sn88071075:0029602515A:1856011901:0085/pct:74.09929078014184,16.201404350059942,17.078014184397162,8.991265627675972/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -22662,7 +22662,7 @@ however that if such an opportunity shall not occur in
 the space of four months from the date of their arrest, tthe  
 said deserters shall be set at liberty, and shall not b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82003410:00415661071:1856121301:1288/pct:36.01489155066365,24.95913491764114,15.474263515700875,6.010310574625927/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82003410:00415661071:1856121301:1288/pct:36.01489155066365,24.95913491764114,15.495845473184417,6.014501865124272/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -22755,7 +22755,7 @@ that if such an opportunity shall not occur in the space of
 four months from the date of their arrest, the said deserters  
 shall be set at liberty, and shall not be again arrested fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:0020029323A:1857050201:0414/pct:177.82002534854246,279.3916173226518,50.19011406844106,18.112156043190527/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:0020029323A:1857050201:0414/pct:44.455006337135615,69.84790433066296,12.547528517110266,4.528039010797632/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -22783,7 +22783,7 @@ proportionate number of ships sufficiently near, there is
 evident danger in entering.  
 ARTICLE III
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290008:1857050701:0426/pct:112.60945709281961,152.79716279601877,43.724460011675426,17.48083743278801/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290008:1857050701:0426/pct:28.164695575996497,38.19929069900469,10.935903051540372,4.370209358197003/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -22811,7 +22811,7 @@ their arrest, the said deserters shall be set at liberty, and
 shall f ot be again arrested for the same cause. Never­  
 theless, if the deserter shall be found to have committe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290008:1857050701:0426/pct:157.85172212492702,218.00709300995308,44.01634559252773,17.618121496396295/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290008:1857050701:0426/pct:39.480216089940136,54.50177325248827,11.008906409694847,4.404530374099074/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -22842,7 +22842,7 @@ ships* sufficiently near, there is evident danger
 in entering.  
 ARTICLE HI
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_eclipse_ver01:data:sn82016488:00513688039:1857061201:0474/pct:18.288911795022823,82.32329595565075,12.649094389633339,9.839989920624921/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_eclipse_ver01:data:sn82016488:00513688039:1857061201:0474/pct:18.298728709566582,82.32329595565075,12.658911304177098,9.839989920624921/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -22867,7 +22867,7 @@ be detained and kept in the prisons of the !
 country, at the request and cost of the con­  
 suls, until the said consuls shall have found 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_eclipse_ver01:data:sn82016488:00513688039:1857061201:0474/pct:57.04609041378295,71.24858258787955,12.6343690178177,5.972029734156482/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_eclipse_ver01:data:sn82016488:00513688039:1857061201:0474/pct:57.04609041378295,71.24858258787955,12.63927747508958,5.9762294737726265/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -22896,7 +22896,7 @@ from the date of their arrest, the said deserters shall beset
 at. liberty, and shall not be again arrested fur the same  
 caue. Nevertheless, if the deserter shall be found t har
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022767:1857062001:0197/pct:112.17779246530073,45.918615984405456,18.126239259748843,7.87037037037037/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022767:1857062001:0197/pct:84.17920317407837,34.44200779727095,13.605554637130105,5.908869395711501/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -22925,7 +22925,7 @@ from the date of their arrest, the said deserters shall
 be set at liberty, and shall not he again arrested for  
 the same cause. Nevertheless. if the deserter shall b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn82014282:00414212438:1857102701:0216/pct:73.69795444653997,76.78002125398513,11.402872479326854,5.100956429330499/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn82014282:00414212438:1857102701:0216/pct:73.68726428778648,76.7718627138455,11.404844792573252,5.103070874508554/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -22957,7 +22957,7 @@ again arrested for the same cause. Neverhe­
 less, if the deserter shall be found to have com­  
 mitted any other crime or offence on shore
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_coyote_ver02:data:sn88071075:0029602515A:1858050101:0383/pct:236.76470588235293,93.0045294413689,65.83710407239819,44.82469384331488/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_coyote_ver02:data:sn88071075:0029602515A:1858050101:0383/pct:59.20792079207921,23.251132360342226,16.463932107496465,11.20617346082872/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -23015,7 +23015,7 @@ paying the legal fees for the same.
 ARTICLE xXII.  
 And
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_continental_ver02:data:sn82014760:00237288804:1861101201:0963/pct:132.43494423791822,296.25901694346584,56.04089219330855,42.74450595537662/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_continental_ver02:data:sn82014760:00237288804:1861101201:0963/pct:33.131829807021624,74.06475423586646,14.019995349918624,10.686126488844154/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -23049,7 +23049,7 @@ may send their boats on board the merchant ship
 which they shall so meet with, and may enter her  
 to the number ol
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172182:1861102901:0653/pct:20.52726906822298,69.5828331332533,15.958945461863554,9.318727490996398/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172182:1861102901:0653/pct:15.91369898622303,53.93471856101721,12.378476735118275,7.218173360210885/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -23074,7 +23074,7 @@ agent of the said vessel without any delay, he pay­
 ing the legal fees for the same.  
 Article XXII. And
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172182:1861102901:0653/pct:20.68826725699336,106.78271308523409,15.797947273093177,4.801920768307323/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172182:1861102901:0653/pct:16.038471536262023,82.76476973174135,12.253704185079282,3.7176306404093657/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -23110,7 +23110,7 @@ ing the legal tees for the same.
 Article XXII. And that more abundant care  
 mav be taken lorthe security of the citizens of the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172182:1861103001:0660/pct:22.90244881573665,107.49663324854107,15.616218386190285,9.741134221158163/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172182:1861103001:0660/pct:17.75991703396422,83.31271743332044,12.10267046927664,7.557015848473135/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -23142,7 +23142,7 @@ ered to the commander or agent of
 the said vessel, he paying the legal  
 fees for the same
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn82014140:00279529467:1861103101:0043/pct:219.35917544252746,99.46276398666173,60.74389424154156,25.750277880696554/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn82014140:00279529467:1861103101:0043/pct:73.11972514750914,33.15425466222057,20.24796474718052,8.583425960232185/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -23169,7 +23169,7 @@ ing the legal tees for the same.
 Article XXII. And that more abundant care  
 mav be taken lor the security of the citizens of the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172182:1861103101:0664/pct:25.481927710843372,112.01608100059559,15.642570281124499,5.74746873138773/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172182:1861103101:0664/pct:19.754111116875034,86.81386313805439,12.128443222493127,4.469746509212602/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -23204,7 +23204,7 @@ agent of the said vessel without any delay, he pay­
 ing the legal fees for the same. ’ 1 J  
 Article XXII. And
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172182:1861110101:0668/pct:23.767178658043655,107.00209017617199,15.72352465642684,9.181845326963273/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172182:1861110101:0668/pct:18.42435000522084,82.92579450786795,12.185444293620131,7.123572971305153/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -23239,7 +23239,7 @@ agent of the said vessel without any delay, he pay­
 ing the legal lies for the same. ’ v J  
 Article XXII. And
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172182:1861110201:0672/pct:22.999191592562653,107.05338502833284,15.622473726758287,9.111243662391887/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172182:1861110201:0672/pct:17.8343949044586,82.97314996725606,12.107131669625144,7.061134866520282/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -23371,7 +23371,7 @@ If I decide this case in favor of my own govern-­
 ment, I must disavow its most cherished principles,  
 and reverse and forever abandon its essentia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743397:1861122901:0820/pct:17.06496129249411,18.434046555372678,92.89801413665433,271.9256995062309/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743397:1861122901:0820/pct:5.68832043083137,6.144682185124226,30.96600471221811,90.6418998354103/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -23519,7 +23519,7 @@ line, and his life itself to the greatest danger!
 Hesson, justice, and humanity unite in protesting  
 againat so extravagant a proceeding
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530698:1861123001:0852/pct:202.8126119670369,79.33606863110779,49.4446434969545,40.86783538480666/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530698:1861123001:0852/pct:67.6042039890123,26.445356210369265,16.481547832318167,13.622611794935555/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -23571,7 +23571,7 @@ in prute suns exaint so t atravagant a proceed
 It I decide this case in favor of my own  
 tvernment, I must disavow its most cherishe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_continental_ver02:data:sn82014760:00237288804:1861123001:1234/pct:46.783088235294116,233.57021996615904,56.341911764705884,66.0575296108291/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_continental_ver02:data:sn82014760:00237288804:1861123001:1234/pct:11.6984601241094,58.39255499153976,14.08871523787635,16.514382402707277/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -23606,7 +23606,7 @@ the moat huilitating discioline, and his lie itself to the
 greato.t dangor? Reason, fustice and humanity unite in  
 protesling agaiust so extravagant a procceding.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743397:1861123001:0822/pct:152.49626803781723,124.99426210695432,43.78835627798971,23.123708974064723/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743397:1861123001:0822/pct:50.832089345939075,41.66475403565144,14.596118759329906,7.707902991354908/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -23648,7 +23648,7 @@ It I decide this ease in favor of my own
 government, I must disavow its most cher­  
 ished principles, and reverse and forever aban
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172182:1861123001:0858/pct:90.62625451625853,7.54068986113185,32.557205941389,115.64879796923996/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172182:1861123001:0858/pct:70.23593466424683,5.851720413516433,25.23204563131968,89.62737231908656/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -23687,7 +23687,7 @@ against so extravagant a tro ceding.&quot;
 If I decide this case in favor of my own Govorn-  
 ment, I must di-avow its moat coerihed pr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:00206539884:1861123001:0706/pct:21.996753246753247,52.84912902273398,50.56818181818182,34.661942722173016/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:00206539884:1861123001:0706/pct:5.50253807106599,13.212282255683496,12.649746192893401,8.665485680543254/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -23726,7 +23726,7 @@ ing against so extravagant a proceeding.&quot;
 Mr. Seward has by this very able State paper  
 shown himself e qual to the emergency, and ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023210:00202197656:1861123101:0229/pct:62.48003194888179,63.60284435080327,23.063099041533548,19.383723992625757/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023210:00202197656:1861123101:0229/pct:46.883739512584896,47.70871740848038,17.29924091090691,14.537792994469317/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -23780,7 +23780,7 @@ If I docido this case in favor of my own
 Government, I must disavow its most cher­  
 ished principles, and reverse and foreve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn84026845:00202190686:1861123101:0623/pct:67.49022030059707,32.51989389920424,12.909203211859172,19.964633068081344/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn84026845:00202190686:1861123101:0623/pct:67.50566193123328,32.53315649867374,12.909203211859172,19.964633068081344/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -23851,7 +23851,7 @@ vacant a proceeding.”
 Government, I must disavow its most cher­  
 ished principles, and reverse and forever aban
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1862010101:0002/pct:65.62145825462788,2.1399652978600345,20.759350207782393,96.44303065355697/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1862010101:0002/pct:65.63562523611635,2.1508097165991904,20.749905553456742,96.43941584731058/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -23891,7 +23891,7 @@ in protesting against such an extravagant pro |
 ceeding &quot;  
 If I decide this ease in favor of my own 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_hera_ver01:data:sn83021295:0051717158A:1862010101:0034/pct:25.624553890078516,35.21190261496844,10.678087080656674,9.772317403065825/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_hera_ver01:data:sn83021295:0051717158A:1862010101:0034/pct:25.629312395907686,35.21565975353171,10.678087080656674,9.783588818755636/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -23939,7 +23939,7 @@ pline, and his life itself to the greatest danger ?
 lteasfln, justice and humanity unite in protest­  
 ing against so extravagant a proceeding.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_danby_ver01:data:sn98060050:00280777365:1862010201:0201/pct:108.65963855421687,48.331147063110336,16.34036144578313,14.108730505757178/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_danby_ver01:data:sn98060050:00280777365:1862010201:0201/pct:81.51007343249859,36.24836029733275,12.25757861043118,10.59612301413788/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -24073,7 +24073,7 @@ d.tog-r- / I lea son, justice and humanity
 iinin* i.i j rotesting against sj extravagant a  
 J r le.-edlllg.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:00332895035:1862010301:0426/pct:16.213474025974026,6.348741954359275,12.723214285714286,12.463428905792862/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:00332895035:1862010301:0426/pct:16.210184621627103,6.347813368436449,12.72570501115845,12.465262542050606/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -24115,7 +24115,7 @@ ing against so extravagant a proceeding.&quot;
 If I decide this case in favor of my own  
 Government, I must disavow its most cherish
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774674:1862010301:0232/pct:73.26951399116348,221.4436248682824,50.36818851251841,49.84193888303477/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774674:1862010301:0232/pct:18.31737849779087,55.3609062170706,12.592047128129602,12.460484720758693/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -24151,7 +24151,7 @@ hia tr.ii-ii tvnu h t i-&#x27; Tsoa to the most bumihaling
 dis&#x27;- plirtc :: ! his life itself to the greatest  
 danger ? ju-.Moc ar.d humanity unit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664394:1862010301:0252/pct:73.77556512378902,35.14665584086065,14.141550053821312,10.169491525423728/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664394:1862010301:0252/pct:73.78453534266237,35.153421969620084,14.146035163257984,10.169491525423728/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -24263,7 +24263,7 @@ gait a proceeding.&quot; ~. . • • ] , ;II i ..
 &quot;in protesting agaiast so extravagant a pro­  
 &quot;eeeding.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84027060:00415668909:1862010401:0203/pct:71.67300380228137,8.764809126810004,11.128985083357707,10.212812637121544/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84027060:00415668909:1862010401:0203/pct:71.67300380228137,8.768465701330992,11.13873452276494,10.220125786163521/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -24306,7 +24306,7 @@ If 1 decide this case in favor of my own
 Government, I must disavow its most cher­  
 ished principles, and reverse and foreve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624505:1862010401:0313/pct:8.91755468311834,6.703436571913449,31.968592260235557,116.57474190354971/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624505:1862010401:0313/pct:6.911040278180238,5.19508987286278,24.78025693035835,90.35510740903112/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -24347,7 +24347,7 @@ If I decide this case infavor of my own Govern­
 ment, I must disavow its most cherished principles,  
 and reverse and forever al andon its essential policy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn99066040:00206539884:1862010401:0727/pct:72.29508196721312,15.630657815328908,101.39344262295081,365.4797827398914/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn99066040:00206539884:1862010401:0727/pct:18.077474892395983,3.907664453832227,25.35355605656897,91.36994568497285/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -24387,7 +24387,7 @@ his life itself to the greatest danger? Reason,
 justice, humanity unite in protesting againat  
 se ex ra agan a pto cedin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn83035216:00280775150:1862010401:0776/pct:282.3612087139845,335.6116083536751,52.002810962754744,50.176295090859774/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn83035216:00280775150:1862010401:0776/pct:70.59030217849613,83.90290208841877,13.000702740688686,12.544073772714944/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -24425,7 +24425,7 @@ self to the greatest danger? Reason, justice and hu­
 manity unite in protesting against so extravagant a pro.  
 ceeding
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn86071866:0041418473A:1862010401:0020/pct:12.493180578286962,18.158403090792014,89.70721949445354,274.32066967160335/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn86071866:0041418473A:1862010401:0020/pct:4.163636363636364,6.052021632758176,29.8969696969697,91.42844879388788/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -24478,7 +24478,7 @@ If I decide this case in favor of my own
 Government, I must disavow its most cher­  
 ishet principles, and reverse and foreve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024738:00280777985:1862010401:0016/pct:62.55474452554745,32.165571890313835,36.481751824817515,42.25836721926807/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024738:00280777985:1862010401:0016/pct:20.851581508515814,10.721857296771278,12.16058394160584,14.086122406422687/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -24629,7 +24629,7 @@ itself to the greatest danger Reason, jus­
 tice, and humanity unite in protesting  
 against FO extravagant a proceeding.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027238:00279529431:1862010801:0157/pct:84.24657534246575,71.00562023283821,11.199898528665653,11.481332798073064/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027238:00279529431:1862010801:0157/pct:84.25503128699475,71.00562023283821,11.204126500930155,11.481332798073064/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -24701,7 +24701,7 @@ the mont bumiltarlng discintine and his life itself to the
 greatest danger? Ite ason, justice and humanity unite in  
 protesting against so extravagant a proceoding
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200290021:1862010801:0030/pct:118.41216216216216,320.44882070070986,41.722972972972975,25.555301122051752/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200290021:1862010801:0030/pct:29.60720822187808,80.11220517517746,10.43221174151767,6.388825280512938/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -24819,7 +24819,7 @@ Capt. Wilks conduct as the established
 policy of nations is too patent to need  
 elucidation. If Capt. Wilks is to consti
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn88078724:00296028034:1862010901:0435/pct:21.6006216006216,236.48909743306652,50.116550116550115,64.64256141319349/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn88078724:00296028034:1862010901:0435/pct:5.402254178002332,59.12227435826663,12.534006995724836,16.160640353298373/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -24857,7 +24857,7 @@ danger? Reason, justice, and humanity
 unite in protecting againit so extravagant a  
 proceeding. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775393:1862010901:0538/pct:105.28391167192429,21.613607990012483,17.626182965299684,16.619850187265918/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775393:1862010901:0538/pct:78.99408284023669,16.21410736579276,13.234714003944774,12.468789013732835/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -24893,7 +24893,7 @@ ger ? Reason, justice, and humanity unite in
 protesting sgainst so extravagant a proceed­  
 ing.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn84024558:00296028642:1862010901:0738/pct:8.11023622047244,5.368516833484986,14.89763779527559,12.545495905368517/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn84024558:00296028642:1862010901:0738/pct:8.11023622047244,5.372308158932363,14.902887139107612,12.556869881710647/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -25177,7 +25177,7 @@ But, driven from this pretension, other pretensions,
 less local, but hardly ess offensive, were avowed.  
 The boast of &quot;Rule, Britannia, rule the waves,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271743403:1862011001:0088/pct:143.91304347826087,175.4699466233465,43.80032206119163,7.345091668600603/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271743403:1862011001:0088/pct:47.971014492753625,58.48998220778216,14.600107353730541,2.4483638895335345/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -25229,7 +25229,7 @@ extravagant a proceeding. STaTE Papers, vol. 3, D.84.
 Negotiations, on this principle, thus distinctly declared,  
 were intrusted at London to James Monroe, afterward
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271743403:1862011001:0088/pct:188.13204508856683,58.01810164771409,51.4170692431562,39.67277790670689/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271743403:1862011001:0088/pct:62.71068169618894,19.339367215904694,17.139023081052066,13.22425930223563/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -25249,7 +25249,7 @@ to come within the law of natious, on the subject of con
 of war. Wtth this crreption, we consider a nentral  
 tong on the hith seus as a sedfepuard to those saiting under if
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271743403:1862011001:0088/pct:233.28502415458937,81.87514504525411,51.191626409017715,6.486423764214435/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271743403:1862011001:0088/pct:77.76167471819646,27.291715015084705,17.06387546967257,2.162141254738145/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -25278,7 +25278,7 @@ acruter alone are encepted from the general immunity of per
 in that altuatlin; and this saegpsiss sonfrand the ta  
 of those who are not included in it.- Ihid., P. 8t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271743403:1862011001:0088/pct:233.52657004830917,89.0229751682525,48.61513687600644,17.393826873984683/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271743403:1862011001:0088/pct:77.84219001610306,29.674325056084164,16.20504562533548,5.797942291328228/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -25300,7 +25300,7 @@ he cond get no sathtaction with reraru to it. Tord liat
 the Foreign Secretary, in one of his conversations,  
 &quot;expressed a concern to find the United States opposed t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271743403:1862011001:0088/pct:234.12238325281803,113.5762357855651,46.5378421900161,10.431654676258994/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271743403:1862011001:0088/pct:78.04079441760601,37.858745261855034,15.5126140633387,3.4772182254196644/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -25318,7 +25318,7 @@ given, particularly in the British Channel by the
 immunity claimed by American vessels, to the escape of  
 traitors, (State Papers, vol. 3, p.86,) thus assumin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271743403:1862011001:0095/pct:15.5053974484789,40.080183276059564,45.10958456002617,5.063001145475372/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271743403:1862011001:0095/pct:5.1684658161596335,13.360061092019855,15.03652818667539,1.6876670484917908/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -25348,7 +25348,7 @@ trat vessel, to decide the imporidal gher
 petire altepmncrs, and to carry that decision lat  
 y forcing every individual he may choore into 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basic_ver01:data:sn83030213:00206530704:1862011001:0069/pct:151.22038765254845,203.3571339095578,48.02584350323044,19.215833646498808/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basic_ver01:data:sn83030213:00206530704:1862011001:0069/pct:50.40679588418282,67.78571130318593,16.008614501076813,6.40527788216627/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -25371,7 +25371,7 @@ to it. Lord Harrowby, the Foreign Secretary, in
 one of his conversations expressed a concern to find  
 the United States opposed to Great
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basic_ver01:data:sn83030213:00206530704:1862011001:0069/pct:248.2232591529074,14.305398972817237,48.77961234745155,13.716647876738069/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basic_ver01:data:sn83030213:00206530704:1862011001:0069/pct:82.74108638430246,4.768466324272413,16.259870782483848,4.57221595891269/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -25414,7 +25414,7 @@ Reason, justice and humanity unite in
 protesting against so extravagant a pro­  
 ceeding.&quot; . v 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85038184:00296026797:1862011001:0027/pct:66.9035846724351,43.40610238733563,14.446847960444995,19.583812077109663/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85038184:00296026797:1862011001:0027/pct:50.20868758695316,32.55457679050172,10.836296181790075,14.694242308183327/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -25454,7 +25454,7 @@ manity unite in protesting agaiost so extravi­
 gant a j.roceediug.&quot;  
 If I decide this oase in favor of tny ow
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn83032006:00296028563:1862011001:0230/pct:8.278662917838176,34.47135262847017,13.776944704779757,14.31777909037212/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn83032006:00296028563:1862011001:0230/pct:8.289076330313444,34.47135262847017,13.776944704779757,14.32565465642843/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -25500,7 +25500,7 @@ niiiig (ii-ti jiiiiie, anil ins lite itseit tv) iiiimi&quot;&#x27;-&quot;-
 greatest danger ! Kcason, justice and ; &quot; &quot; &quot;&quot;, I&quot;&quot;1-&quot; ui-su. t.....g,  
 humanity unite in protesting a;;aint go! of Ut week. T!u-y gave an interestin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn84022548:00202194941:1862011001:0217/pct:42.00968523002421,24.34570031636468,34.463276836158194,24.50388265746333/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn84022548:00202194941:1862011001:0217/pct:31.536442560064607,18.2628702904803,25.863113264688067,18.3779119930975/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -25692,7 +25692,7 @@ vessels, tothe escape of traitors,’’ (State Papers, vol
 
 ---
 
-## [From _Scientific American (1845-1908)_](https://archive.org/details/sim_scientific-american_1862-01-11_6_2/page/n1/mode/1up?view=theater)
+## [From _Scientific American_](https://archive.org/details/sim_scientific-american_1862-01-11_6_2/page/n1/mode/1up?view=theater)
 
 #### 1862-01-11 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -25976,7 +25976,7 @@ the greatest danger? Keason, justice, and tu
 manity unite in pro esting against so extravagant  
 a proceeding.&quot; -STaTE PapiRS, VoL. 3.P.84
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280777006:1862011701:0011/pct:70.94644167278064,86.82559598494353,43.94717534849597,47.12114875226544/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280777006:1862011701:0011/pct:17.73661041819516,21.706398996235883,10.986793837123992,11.78028718806636/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -26273,7 +26273,7 @@ If I decide this case in favor of my own
 Government, I must disavow its mos che­  
 rished principles, and reverse and foreve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_coyote_ver02:data:sn88071076:00296025161:1862020101:0183/pct:65.86538461538461,65.83710407239819,59.97596153846154,69.23076923076923/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_coyote_ver02:data:sn88071076:00296025161:1862020101:0183/pct:16.471295461376616,16.459276018099548,14.998497144574692,17.307692307692307/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -26655,7 +26655,7 @@ of the said vessel without any delay, he paying the
 legal fees for the same.  
 Art. NNII. And
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn86059058:00296022007:1862103101:0358/pct:173.9652870493992,102.00336047563655,48.531375166889184,29.623885226832105/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn86059058:00296022007:1862103101:0358/pct:43.4913217623498,25.50084011890914,12.132843791722296,7.405971306708026/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -26692,7 +26692,7 @@ paying the legal fees for the same.
 ARTICLE xxII.  
 And
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_coyote_ver02:data:sn88071076:00296025161:1862112901:0294/pct:270.6367924528302,282.3618758306436,58.60849056603774,47.541294854756025/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_coyote_ver02:data:sn88071076:00296025161:1862112901:0294/pct:67.69911504424779,70.5904689576609,14.660766961651918,11.885323713689006/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -26743,7 +26743,7 @@ vessel for the purpose of exhibiting his papers, or tor
 any other examination wnatever.  
 ARTICLE XVUl.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn84022367:0041562833A:1863021901:0459/pct:15.050448430493274,56.952324076838856,45.221412556053814,51.069971135662385/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn84022367:0041562833A:1863021901:0459/pct:11.296426068675544,42.719219667562456,33.91730903994394,38.29999004678013/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -26767,7 +26767,7 @@ fees for the same.
 ARTICLE XXII.  
 And
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn84022367:0041562833A:1863021901:0459/pct:44.14237668161435,88.64337613217876,16.816143497757846,4.697919777047875/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn84022367:0041562833A:1863021901:0459/pct:33.11843027330063,66.48750870906738,12.613875262789067,3.5234398327859062/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -26805,7 +26805,7 @@ paying the legal fees for the same.
   
 Ait Tin, K XXV.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291049:1863032101:0513/pct:21.58907064533525,65.04338091239855,14.165018874707892,7.724601175482787/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291049:1863032101:0513/pct:21.59356462340464,65.05387629443045,14.160524896638504,7.721102714805485/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -26837,7 +26837,7 @@ prejudicially affected, and must continue so to affect,
 during the existing war, the interests of the Confed­  
 erate States, nor could this be better shown than by th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024669:00414184741:1863040601:0162/pct:158.60025624599615,166.95163368075887,42.92120435618193,24.885818011476754/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024669:00414184741:1863040601:0162/pct:52.85828662930344,55.6440281030445,14.30477715505738,8.294301327088212/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -26879,7 +26879,7 @@ through it (the bleckade) wilt not of itself prevent
 the blockade from being an effectual one by inter­  
 national law.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:0020029001A:1863041401:0173/pct:104.99728408473656,257.1300649205283,41.227593699076586,43.92209536601746/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:0020029001A:1863041401:0173/pct:26.25645205107308,64.28251623013207,10.309698451507742,10.980523841504365/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -26901,7 +26901,7 @@ the said vcs;ei without any delay he paying the le­
 gal fees for the same.  
 Art. 22, Aud that unre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_lee_ver01:data:sn84020109:00212470685:1863061101:0120/pct:57.16612377850163,96.42021069059696,17.41313789359392,4.340616465079984/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_lee_ver01:data:sn84020109:00212470685:1863061101:0120/pct:42.88041265101127,72.3175965665236,13.071806705578933,3.257900897385876/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -26923,7 +26923,7 @@ shall, if demanded, be delivered to the commander of
 agent of said vessel without any delay, he paying  
 the legal fees for the same
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293769:1863081401:0745/pct:262.2800844475721,253.68283093053736,47.64250527797326,11.061598951507209/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293769:1863081401:0745/pct:65.57002111189303,63.42070773263434,11.910626319493314,2.7653997378768023/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -26957,7 +26957,7 @@ ded, be delivered to the commander or ag­
 ent of said vessel without any delay; h  
 paying the legal fees for the same
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_coyote_ver02:data:sn88071076:00296025161:1863091201:0415/pct:313.436385255648,41.477491342824166,62.425683709869205,39.16891111966141/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_coyote_ver02:data:sn88071076:00296025161:1863091201:0415/pct:78.40571088637715,10.369372835706042,15.61570493753718,9.792227779915352/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -27100,7 +27100,7 @@ vey no persons, property or information
 excepted or prohibited above, either to or  
 from the said port, which lic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deltaair_ver01:data:sn86053570:00237288853:1864021801:0191/pct:180.76923076923077,168.89540208829456,50.84427767354597,51.80435977285217/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deltaair_ver01:data:sn86053570:00237288853:1864021801:0191/pct:45.21351478179258,42.22385052207364,12.717034256217739,12.951089943213043/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -27208,7 +27208,7 @@ factory evidence that the vessel so licensed
 will convey no persons, property or informa­  
 tion excepted or prohibited above, either t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_damariscotta_ver02:data:sn83016025:00279525176:1864021901:0629/pct:30.327717089427885,22.03643284393692,12.44214034438067,7.816748232735182/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_damariscotta_ver02:data:sn83016025:00279525176:1864021901:0629/pct:30.32210292484265,22.033437542476552,12.444465012958164,7.81908386570613/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -27238,7 +27238,7 @@ of the United States upon satisfactory evidence
 that the vessel so licensed will convey no persons,  
 property, or information excepted or prohibite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deltaair_ver01:data:sn86053570:00237288853:1864031101:0279/pct:167.4812030075188,140.2189781021898,49.90601503759399,28.978102189781023/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deltaair_ver01:data:sn86053570:00237288853:1864031101:0279/pct:41.8703007518797,35.05474452554745,12.476503759398497,7.244525547445256/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -27270,7 +27270,7 @@ property, or information excepted or prohibited
 above, either to or from the said port; which If  
 censes shall be exhibited to the collec
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deltaair_ver01:data:sn86053570:00237288853:1864031201:0286/pct:83.09859154929578,231.76750137086455,50.328638497652584,32.60829830012795/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deltaair_ver01:data:sn86053570:00237288853:1864031201:0286/pct:20.779525710260625,57.94187534271614,12.58511387649683,8.152074575031987/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -27320,7 +27320,7 @@ most inconsiderable article of property captured on
 the high seas is entitled, and leaves thir destiny to  
 the will of an officer.&quot; Am. State Papers. Vol
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_indy_ver01:data:sn84024738:0028077795A:1865011701:0056/pct:248.07384794301498,160.97014925373134,44.0907108591365,47.10021321961621/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_indy_ver01:data:sn84024738:0028077795A:1865011701:0056/pct:82.69128264767166,53.656716417910445,14.696903619712167,15.700071073205402/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -27358,7 +27358,7 @@ said vessel without any delay, he paying the
 legal fees for the same.  
 ARTICLE xNI
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deltaair_ver01:data:sn86053570:0023728897A:1865072701:0086/pct:271.1946050096339,85.35078153398764,50.481695568400774,45.00181752090149/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deltaair_ver01:data:sn86053570:0023728897A:1865072701:0086/pct:67.81498434112262,21.33769538349691,12.623464225487835,11.250454380225372/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -27395,7 +27395,7 @@ he paying the legal fees for the same.
 ARTICLE XXII.  
 And that more abundant
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn85042146:00296022822:1866112901:0434/pct:91.4316370324954,26.813647000862176,16.584917228694053,12.181303116147308/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn85042146:00296022822:1866112901:0434/pct:68.59858938975775,20.113314447592067,12.45016865992027,9.139056534055918/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -27435,7 +27435,7 @@ parties or those belonging to their citizens
 which are armedtin war shall be admitted to en­  
 ter with their prizes the ports of either of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053571:00237288579:1867111301:0473/pct:273.40637450199205,286.0821814050369,50.49800796812749,45.67316796061352/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053571:00237288579:1867111301:0473/pct:68.36861768368618,71.52054535125923,12.627646326276464,11.41829199015338/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -27471,7 +27471,7 @@ Arr. 14. In the absence of any agreement to the
  contrary between the owners, freighters and insur  
 ers all damages suffered at sea by the vessels of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_itchweed_ver01:data:sn83030313:00271743634:1868080501:0348/pct:149.8378728923476,50.16618911174785,48.135538261997404,26.636103151862464/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_itchweed_ver01:data:sn83030313:00271743634:1868080501:0348/pct:49.94595763078253,16.722063037249285,16.045179420665804,8.87870105062082/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -27513,7 +27513,7 @@ In the absence of an agreement to the con-
 trary between the owners, freighters and in­  
 surers, all damages suffered at sea by th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053571:00237289031:1869031901:0280/pct:55.04761904761905,157.1932299012694,44.285714285714285,41.74894217207334/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053571:00237289031:1869031901:0280/pct:13.761904761904763,39.29830747531735,11.071428571428571,10.437235543018335/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -27551,7 +27551,7 @@ ARTICLE xIV.
 In the absence of an agreement to the contrary  
 between the owners, freighters, and insurers, al
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009571:00279523921:1869032601:0057/pct:117.9442740967871,100.52016880950045,34.08878816157846,24.506821081558545/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009571:00279523921:1869032601:0057/pct:39.30951746201013,33.50343473994112,11.36141473384875,8.168138698070003/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -27601,7 +27601,7 @@ two countries whether they enter
 port voluntarily or are forced by  
 stress of weather, shall be settled b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn82014296:00296022160:1869052801:0039/pct:199.61046188091262,141.23627960716348,42.904841402337226,69.83246678220682/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn82014296:00296022160:1869052801:0039/pct:49.90955892583832,35.30906990179087,10.727702796716294,17.458116695551706/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -27644,7 +27644,7 @@ which are armed in war, shall be admitted to
 enter with their prizes the ports of either of  
 the two parties, the said public or privat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053571:00237289031:1869061401:0586/pct:102.75142314990512,212.19341275402942,44.686907020872866,46.0406447091801/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053571:00237289031:1869061401:0586/pct:25.693950177935942,53.048353188507356,11.174377224199288,11.510161177295025/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -27684,7 +27684,7 @@ In the absence of an agreement to the contrary
   
 between the owners, freighters, and insurers, all
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_dayton_ver01:data:sn84022040:00415668302:1869061701:1802/pct:236.5695792880259,211.08486280210795,66.12729234088458,44.1213883336362/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_dayton_ver01:data:sn84022040:00415668302:1869061701:1802/pct:59.19028340080972,52.77121570052699,16.545209176788124,11.03034708340905/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -27732,7 +27732,7 @@ their prizes the ports of either of the
 two parties, the said public or private  
 ships, as well as their prizes, shall no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn82014296:00296022160:1869062401:0129/pct:204.15496911847276,30.54512347786503,90.34250421111734,356.79981791282574/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn82014296:00296022160:1869062401:0129/pct:51.04590762319248,7.636280869466257,22.588796855257616,89.19995447820644/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -27771,7 +27771,7 @@ parties, or those belonging to their citizens, which
 are armed in war, shall be admitted to enter with  
 their prizes the ports of either of the two parties
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_ely_ver01:data:sn84022040:00415668314:1869072801:0092/pct:91.3594470046083,246.91071082703854,70.6221198156682,48.34398605461941/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_ely_ver01:data:sn84022040:00415668314:1869072801:0092/pct:22.846441947565545,61.727677706759636,17.66061653702103,12.085996513654852/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -27850,7 +27850,7 @@ In \he absence of an agreement to the con­
   
 trary between the owners, freighters, and i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kuvasz_ver02:data:sn83045462:00280654346:1870032801:0047/pct:15.026994601079783,12.420771711331035,27.504499100179963,85.41087512509729/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kuvasz_ver02:data:sn83045462:00280654346:1870032801:0047/pct:15.034493101379724,12.423551651284333,27.500749850029994,85.41643500500389/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -28086,7 +28086,7 @@ ARTICLE AIII.
 In the absence of an agreement to the contrary  
 between the owners, frelghters, and insurers, al
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009571:00279523921:1870080501:0342/pct:84.23898707465048,226.04135451003896,33.6454761276708,25.002497253021676/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009571:00279523921:1870080501:0342/pct:28.075959382830014,75.33959248901319,11.21367972218559,8.333333333333334/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -28493,7 +28493,7 @@ or delay, upon payment of the established
 legal fees for the same.  
 ARTICLE NKVIII
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558329:1874090101:0226/pct:111.16471399035149,207.02924576706002,43.0737422467264,28.732683427398666/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558329:1874090101:0226/pct:27.805550767109118,51.757311441765005,10.774004481985864,7.183170856849666/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -28593,7 +28593,7 @@ Whenever one, of the contracting parties
 shall be engaged in war with another nation,  
 no citizen of the other contracting party shal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348719:1874100101:0543/pct:56.364885758460744,43.702539931919354,12.317471224875451,8.57554333595182/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348719:1874100101:0543/pct:56.35520439711439,43.69681895536065,12.319649604946754,8.577693415368504/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -28728,7 +28728,7 @@ engaged in war with another nation, no citizen of
 the other contracting party shall accept a commis­  
 sion or letter of maroue for t he purpose of assist in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_farmington_ver01:data:sn83016025:00279525383:1875020201:0194/pct:26.67324453214932,12.970462124821344,11.116592665679986,5.300142925202477/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_farmington_ver01:data:sn83016025:00279525383:1875020201:0194/pct:26.668858927984214,12.968917470525188,11.118875369944098,5.30248898416101/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -28821,7 +28821,7 @@ der; excepting, however, the quantity of said
 articles necessary for the defence or use of the  
 ship and those who compose the cre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175042830:1895112401:0316/pct:61.25984251968504,201.80576631259484,51.574803149606296,15.918057663125948/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175042830:1895112401:0316/pct:15.317975979523528,50.45144157814871,12.896239417208111,3.979514415781487/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

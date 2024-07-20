@@ -35,7 +35,7 @@ neral concern by an anntd force, to be in constructi­
 on of law, high treason within the clause of levying  
 war
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807090901:0715/pct:28.013749079302727,61.808,21.1146575006138,3.84/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807090901:0715/pct:28.006872852233677,61.798112302031676,21.115611192930782,3.8433850583906577/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -53,7 +53,7 @@ armed force, to lie in construction of
 law, high treason within the clause of  
 log war
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807091601:0002/pct:5.523329129886507,68.52915828784832,20.983606557377048,2.642918701522551/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807091601:0002/pct:5.523329129886507,68.53873408024513,21.008827238335435,2.642918701522551/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -375,7 +375,7 @@ by numbers and an armed force. Insurrections likewise fo
 
 ---
 
-## [From _The American review : a Whig journal of politics, literature, art, and science_](https://archive.org/details/sim_american-whig-review_1845-12_2_6/page/n36/mode/1up?view=theater)
+## [From _The American Review: a Whig Journal Devoted to Politics and Literature (1848-1850)_](https://archive.org/details/sim_american-whig-review_1845-12_2_6/page/n36/mode/1up?view=theater)
 
 #### 1845-12-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -433,7 +433,7 @@ pie conspire and meditate an insurrection
 &#x27; statute of the United States by force,  
 &#x27; they are only guilty of a high misdemeanor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:0041566140A:1851091501:0276/pct:18.112995934389456,71.90936354548484,14.762372073461377,6.90880817505276/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:0041566140A:1851091501:0276/pct:18.112995934389456,71.91306601503203,14.77639142015982,6.912510644599948/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

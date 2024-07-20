@@ -1247,7 +1247,7 @@ mad;
 Love free as air, at sight of human ties,  
 Spreads his light wings and in a moment f
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_kobayashi_ver01:data:sn83030193:00206535246:1894071901:0770/pct:352.94117647058823,274.4066709429121,42.81459419210722,32.2001282873637/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_kobayashi_ver01:data:sn83030193:00206535246:1894071901:0770/pct:88.2517222118786,68.60166773572803,10.705641407559114,8.050032071840924/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1279,7 +1279,7 @@ Love free as air, at sight of human ties,
 Spreads his light wings and in a moment flisa.  
 FiN DE SIECIR
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_kobayashi_ver01:data:sn83030193:00206535246:1894071902:0776/pct:353.39366515837105,270.75441412520064,45.55052790346908,35.76243980738363/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_kobayashi_ver01:data:sn83030193:00206535246:1894071902:0776/pct:88.34841628959276,67.68860353130016,11.38763197586727,8.940609951845907/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1314,7 +1314,7 @@ made!
 Love free as air, at sight of human ties,  
 Spreads his light wings and in a moment 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_kobayashi_ver01:data:sn83030193:00206535246:1894071904:0784/pct:358.1183611532625,266.2146892655367,41.274658573596355,44.293785310734464/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_kobayashi_ver01:data:sn83030193:00206535246:1894071904:0784/pct:89.56356736242884,66.55367231638418,10.32258064516129,11.073446327683616/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -62,7 +62,7 @@ Department.
 Respectfully submitted,  
 JAMES MONROE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813070101:0339/pct:24.261603375527425,71.56809549647315,16.847498493068112,14.026044492674986/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813070101:0339/pct:24.257947868012657,71.56162401663804,16.849982421776907,14.027790336679024/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -104,7 +104,7 @@ Department. ...
 Respectfully submitted,  
 „ JAMES MONBOB
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813081101:0567/pct:74.80552070263488,14.766966475878986,21.22961104140527,10.08994276369583/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813081101:0567/pct:74.78675363773206,14.764551994767823,21.23055694932263,10.092380640941792/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -140,7 +140,7 @@ been made known to this department,
 Respectfully submitted,  
 JAMES MONROE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024513:00414184121:1813081101:0077/pct:72.45762711864407,32.887661677081816,22.056199821587867,15.448335997674757/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024513:00414184121:1813081101:0077/pct:72.44147157190635,32.88288288288288,22.058714232627278,15.450934805773516/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -167,7 +167,7 @@ tween the said governments.
 Thursday. Jcoe S.  
 The Senate proceeded to conside
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813081201:0479/pct:29.5441089402013,82.75581290147471,16.222616933096507,8.830181851081154/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813081201:0479/pct:29.539736569483498,82.7483263976841,16.225149227961126,8.832398528436162/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -207,7 +207,7 @@ made known to this Department.
 Respectfully submitted.  
 James moxroe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813081201:0479/pct:46.462403789224396,26.988148014113815,17.021906453522796,16.737537320184565/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813081201:0479/pct:46.45552760100637,26.98570653157228,17.024320457796854,16.73903865870575/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -242,7 +242,7 @@ have been made known to this Department.
 Respectfully submitted,  
 JAMES MONROE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813081201:0252/pct:39.894965592176746,16.591600730371272,17.05903658094893,11.722458916615947/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813081201:0252/pct:39.88774216911099,16.58958130477118,17.06198322167904,11.725089256734826/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -275,7 +275,7 @@ have been made known to this depai irpent.
 ftuipicUuliy submitted.  
 JWIUS MONROE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1813081301:0122/pct:5.559673832468495,62.83285410676334,17.772424017790957,9.213651706463308/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1813081301:0122/pct:5.558643690939411,62.825,17.775307269470694,9.216666666666667/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -408,7 +408,7 @@ Resncctfullv submitted*
   
 JAMES MONROE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813111101:0360/pct:41.51459854014598,58.541666666666664,17.098540145985403,10.563725490196079/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813111101:0360/pct:41.50702426564496,58.534493321896825,17.101502158973425,10.56651554139607/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -453,7 +453,7 @@ ment. &#x27;• t- ‘ft . 1
 Respectfully submitted, ., +.  
 JAMER MONKOf
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813111701:0668/pct:25.763407749550936,62.77070590180195,22.786759045419554,20.54885104976029/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813111701:0668/pct:25.756798358132375,62.760330578512395,22.787326834273987,20.549586776859503/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -490,7 +490,7 @@ Oepar ment. v
 &#x27;Respectfully submitted,  
 JAMES MONROE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1813112301:0133/pct:27.893709653205224,70.15060787515877,16.64915177901216,13.944837597532208/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1813112301:0133/pct:27.889522665866107,70.14424385376032,16.651656159311518,13.946596510326891/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -592,7 +592,7 @@ had through the Department of State
 or otherwise with the British authori­  
 ties, for the purpose of securing th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_james_ver01:data:sn83045555:0020653980A:1892010601:0306/pct:239.76897689768978,120.04855351001416,38.03630363036304,8.73963180254906/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_james_ver01:data:sn83045555:0020653980A:1892010601:0306/pct:79.92299229922992,40.01618450333805,12.67876787678768,2.9132106008496863/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

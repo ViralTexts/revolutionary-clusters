@@ -85,7 +85,7 @@ true history.”
 We would merely observe, in closing, that  
 the term anti-Federalist is applied here to thos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153231:1838011301:0455/pct:7.027603680490732,70.18730999313523,14.721962928390452,5.030891438658429/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153231:1838011301:0455/pct:7.036493754722852,70.190578928443,14.717517891274392,5.0374293092739695/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -260,7 +260,7 @@ I tremble, and 1o prevent which I consider your
 continuance at the head of public affairs as of the  
 last importance.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1838020601:0021/pct:4.1332143919119835,4.908485856905158,69.44692239072256,90.25582362728785/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1838020601:0021/pct:4.143126177024482,4.9119523017193565,69.44196649816632,90.25235718247366/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -316,7 +316,7 @@ faith of which the Stales acceded to that mstru-
 menl ; that trie ultimate ooject oj an mis is w  
 vrevare the way for a change from the presen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197966:1838071101:0110/pct:24.66254218222722,23.110909708847853,20.697412823397077,16.914013821230316/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197966:1838071101:0110/pct:18.506539164674447,17.33318228163589,15.525242581915343,12.688342585249801/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -374,7 +374,7 @@ and it was the same question, on which Mr Jeffer-
 son appealed to the peeple at the time he was so  
 trinmphantly elected to the Presidency
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023294:00200296096:1840052901:0015/pct:66.27218934911242,119.01108269394715,60.01690617075232,78.94288150042625/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023294:00200296096:1840052901:0015/pct:16.57505285412262,29.752770673486786,15.010570824524313,19.735720375106563/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -451,13 +451,13 @@ choose.&quot;
 This pregnant passage exhibits the embryo of  
 that colossal power which Hamilton engrafted o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846070801:0697/pct:0.0,73.48437694510146,16.78343949044586,18.46134694385659/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846070801:0697/pct:0.0,73.4885264948753,16.78343949044586,18.46549649363044/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The American review : a Whig journal of politics, literature, art, and science_](https://archive.org/details/sim_american-whig-review_1849-07_10_19/page/n3/mode/1up?view=theater)
+## [From _The American Review: a Whig Journal Devoted to Politics and Literature (1848-1850)_](https://archive.org/details/sim_american-whig-review_1849-07_10_19/page/n3/mode/1up?view=theater)
 
 #### 1849-07-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -542,7 +542,7 @@ ficed to the good o( mankind.
 And thus wrote Mr. Hamilton on the same subject:  
 It it clear that, If you continue In olfioe,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850070601:0775/pct:36.43171089044441,41.266624445851804,15.822887839817678,19.797340088663713/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850070601:0775/pct:36.43171089044441,41.27506860882415,15.844592761408649,19.79311800717754/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -597,7 +597,7 @@ you can resolve to acid one-or two more to the many years you
 have alrtady sacrificed to the good of mankind.&quot;  
 And thus wrote Mr. Hamilton on the same subject
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1850071301:0284/pct:52.86538719634948,43.51871431592303,15.35364380620051,13.501797420173398/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1850071301:0284/pct:52.86538719634948,43.51871431592303,15.362591151075918,13.508846126735744/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -619,7 +619,7 @@ into violence or secession. North and South
 will hang together, if they have you to hang  
 on,&quot; Ac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82014835:00415661514:1856052901:0762/pct:71.5261958997722,20.756311397486005,13.359238911965697,5.017428963768881/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82014835:00415661514:1856052901:0762/pct:71.53066237884676,20.756311397486005,13.363705391040243,5.027991972113658/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -639,7 +639,7 @@ more parts,&quot; and his simple statesmanship con
 sisted in this, to keep the local governments in  
 all their integrity and the nationality in all it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295730:1862031901:0278/pct:171.06244175209693,18.90547263681592,49.48741845293569,10.696517412935323/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295730:1862031901:0278/pct:42.76561043802423,4.72636815920398,12.371854613233923,2.674129353233831/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -656,7 +656,7 @@ all their integrity and the nationality in all it
 incalculable evil than the breaking of the  
 Union into two or more partsand hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027238:00279529431:1862040901:0209/pct:38.45468431771894,92.13088427180568,11.061608961303463,1.314865000501857/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027238:00279529431:1862040901:0209/pct:38.463170400543106,92.13757569674462,11.053122878479295,1.3215564254407977/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -753,7 +753,7 @@ mankind.
 Jefferson then proceeds with an elaborate indict.­  
 ment of the financial policy of Government, fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hugo_ver01:data:sn83030214:00206531186:1874091401:0590/pct:5.9624939894213815,69.41966871307773,47.89229043115884,79.16135758137379/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hugo_ver01:data:sn83030214:00206531186:1874091401:0590/pct:1.9874979964737938,23.139889571025908,15.96409681038628,26.387119193791268/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -778,7 +778,7 @@ and idleness instead of industry and mor
 ality.&quot; From all of which will it be seen  
 that the author of tho Declaration of I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn87076843:00280775733:1876100601:0359/pct:39.85771012574454,57.472738935214885,14.427531436135009,7.517639512508018/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn87076843:00280775733:1876100601:0359/pct:29.907315458457465,43.10455420141116,10.824230387288978,5.644644002565747/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -807,7 +807,7 @@ er a nobody for Iresident as the most sapre
 and experienced statesman in the  
 country if he is to be a mere passive spec
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271744018:1878012801:0321/pct:101.86900430036388,52.155074116305585,52.894475686404235,29.543899657924744/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271744018:1878012801:0321/pct:33.95633476678796,17.385024705435196,17.631491895468077,9.847966552641582/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -875,7 +875,7 @@ can be much longer preserved.&quot;
 The Farewell Address  
 is in full harmoy with the above, and i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn82000205:00211103589:1888022501:0228/pct:65.0329188002926,22.935113949775005,43.81858083394294,21.948033096240383/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn82000205:00211103589:1888022501:0228/pct:16.264178558360776,5.733778487443751,10.958653494328576,5.487008274060096/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

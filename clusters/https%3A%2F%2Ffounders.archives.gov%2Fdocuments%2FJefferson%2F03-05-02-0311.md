@@ -146,7 +146,7 @@ I protess so much of the Roman principle as to deem
 it honorable for the General of vesterday to act as a cor.­  
 poral to-day, if his services can be useful to his country
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_lorca_ver01:data:sn83030272:00206533109:1888102101:0609/pct:283.1926323867997,202.56253813300793,50.575594781273985,4.087858450274558/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_lorca_ver01:data:sn83030272:00206533109:1888102101:0609/pct:70.82533589251439,50.64063453325198,12.648752399232245,1.0219646125686395/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -165,7 +165,7 @@ for the General of yesterday to act
 as a corporal to day, if his services  
 can be useful to Ins country
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_neely_ver01:data:sn85059778:00340582135:1888110201:0360/pct:70.45806906272023,56.61140315406389,12.036645525017619,2.82046097856854/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_neely_ver01:data:sn85059778:00340582135:1888110201:0360/pct:70.44813979706878,56.605680784393,12.039646749342353,2.823545267697699/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -186,7 +186,7 @@ General of vesterday to act as a cor­
 poral to day if his service can be useful  
 to his country
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn90061417:00294559966:1888110901:0609/pct:110.66666666666667,322.1210922041947,44.49122807017544,10.499934045640417/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn90061417:00294559966:1888110901:0609/pct:27.676377676377676,80.53027305104868,11.126711126711127,2.6249835114101043/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -445,7 +445,7 @@ principle, which esteems it honorable
 for the general of yesterday to act as a  
 corporal to-day. Every man was 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_heart_ver01:data:sn85038614:00175031078:1892121401:0722/pct:136.6822429906542,223.07220290447944,40.48731642189586,15.534874207404377/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_heart_ver01:data:sn85038614:00175031078:1892121401:0722/pct:45.5607476635514,74.35740096815981,13.495772140631953,5.178291402468126/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -485,7 +485,7 @@ to deem it honorable for the General of yester.­
 day to act as a corporal to-day, if his services  
 can be useful to his countr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175045181:1895012301:0288/pct:278.2683486238532,227.29486984320292,51.39525993883792,9.072918252397626/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175045181:1895012301:0288/pct:69.5670871559633,56.82371746080073,12.84881498470948,2.2682295630994065/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -504,7 +504,7 @@ of yesterday to act aa a corporal today If
 bis services can be useful to hla eountry.  
 Were It left to me to decide whether w
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_gum_ver01:data:sn94053256:00271762975:1895012901:0104/pct:19.329742669060444,117.99053129931615,13.1508078994614,2.91951604418727/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_gum_ver01:data:sn94053256:00271762975:1895012901:0104/pct:14.50164621370847,88.4928984744871,9.877282250823107,2.1962125197264597/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -560,7 +560,7 @@ ple as to deem it honorable for the general
 of yesterday to act as a corporal today If  
 his services can be useful to his country
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_elliot_ver01:data:sn87068079:00332896490:1895022101:0032/pct:86.58462473412337,67.630551488531,9.738681251899118,1.5739385065885798/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_elliot_ver01:data:sn87068079:00332896490:1895022101:0032/pct:86.57147197326447,67.62230084177138,9.740999544280722,1.5767963889227765/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -579,7 +579,7 @@ of yesterday to act as a corporal today if
 his services cun be useful to his country.  
 Were it left to mo to decide whether w
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_belair_ver01:data:sn89060136:00279522564:1895022201:0711/pct:106.26576139670223,99.15978560046356,15.712900096993211,2.9842097638707807/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_belair_ver01:data:sn89060136:00279522564:1895022201:0711/pct:82.3653219744425,76.8571535496426,12.172387872713605,2.3165300699824107/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -600,7 +600,7 @@ can be useful to his country.”—
 Thomas Jefferson.  
 A special dispatch to the Salt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_boozer_ver01:data:sn95060636:0041421664A:1895040501:0334/pct:5.305785123966942,7.39209726443769,14.347107438016529,7.805471124620061/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_boozer_ver01:data:sn95060636:0041421664A:1895040501:0334/pct:5.311294765840221,7.39209726443769,14.341597796143251,7.809523809523809/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

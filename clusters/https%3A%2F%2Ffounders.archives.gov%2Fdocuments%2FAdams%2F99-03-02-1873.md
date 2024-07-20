@@ -246,7 +246,7 @@ he &#x27; :- ; &#x27; &quot;&#x27; &#x27;
 - &quot;Who builds on less than an Immortal base.  
 Fond as he seems condemn bis joy to death.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_dean_ver02:data:sn84038034:00271740566:1871113001:0076/pct:82.55494505494505,94.0945846606224,14.362026862026863,12.423425630972801/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_dean_ver02:data:sn84038034:00271740566:1871113001:0076/pct:61.93893129770992,70.57093849546679,10.778625954198473,9.323695172751776/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

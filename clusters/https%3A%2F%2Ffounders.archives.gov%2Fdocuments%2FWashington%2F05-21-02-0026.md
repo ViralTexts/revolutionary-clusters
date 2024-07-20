@@ -37,7 +37,7 @@ and articles as may hereafter by law be
 established.  
 And be it further enafed, That th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790090201:0653/pct:49.927536231884055,61.42156862745098,20.458937198067634,7.5816993464052285/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790090201:0653/pct:49.94363929146538,61.42156862745098,20.466988727858293,7.592592592592593/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -85,7 +85,7 @@ eftablithed ; provided nevertheless,
 that the sentence of general courts  
 meartial,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802051101:0075/pct:77.25846925972397,14.395007046506946,16.358218318695105,5.697604187638413/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802051101:0075/pct:77.25846925972397,14.395007046506946,16.373902132998744,5.707670626132474/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -122,7 +122,7 @@ been established cr may 12 here­
 after, by law [be] established:  
 And that the previous of the act enti
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808051701:0167/pct:78.07984790874525,41.3801852086769,17.813688212927758,3.5012051249524294/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808051701:0167/pct:78.06500665272762,41.37493658041603,17.816638154976875,3.5049890072721124/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -162,7 +162,7 @@ after the passage thereof and contin.
 ve in force for one year, and from  
 thence to the end of the next feflion o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1812012801:0225/pct:41.78302900107411,82.54428986087478,16.280497161270524,10.969872885597038/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1812012801:0225/pct:41.78302900107411,82.54762619691056,16.285611989156564,10.969872885597038/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -180,7 +180,7 @@ to the rules and articles of war, which have
 been established, or may hereafter by law  
 be established ; and the provisions of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812020501:0560/pct:49.1376505043931,90.57252283217126,21.656361861373252,2.7693214180496906/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812020501:0560/pct:49.143074086126475,90.5790696913156,21.656361861373252,2.7660479884775278/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -206,7 +206,7 @@ large in the same. This art shall take cfTect
 and he in force from and after the passage  
 thereof, and continue in force for one year, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812020601:0047/pct:74.7942754919499,66.50223161851069,16.70840787119857,6.1428235846840495/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812020601:0047/pct:74.78089787157933,66.49442160892542,16.711381386752517,6.146016833039734/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -232,7 +232,7 @@ be governed by the rules and articles of
 rules and articles as may be hereafter, by  
 law, established. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1812021101:0349/pct:5.730501647748078,47.42457689477557,17.61259611863786,6.524405199901889/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1812021101:0349/pct:5.729452681676735,47.41876149601472,17.61547379339801,6.527692622113223/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

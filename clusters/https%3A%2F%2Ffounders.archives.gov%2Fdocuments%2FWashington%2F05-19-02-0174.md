@@ -933,7 +933,7 @@ have been borrowed and re-imburfed, pursuant
 to different afts of Congress, will be submitted  
 from the proper departments ; together with
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795122201:0562/pct:52.045217908671724,3.7144335230212104,39.44667559125391,88.67046042421107/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795122201:0562/pct:52.050176012692745,3.7144335230212104,39.44171748723288,88.67390929470598/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -984,7 +984,7 @@ ceffary for the peace, happine(s 4nd welfare of
 our Country, to need any recommeéndation of  
 mine. ;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795122201:0563/pct:6.770833333333333,3.968582058701943,20.02144607843137,25.671765192228193/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795122201:0563/pct:6.781045751633987,3.9720270084056772,20.02144607843137,25.682100041339396/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3676,7 +3676,7 @@ ishing our magazines with military (lores and to re­
 port what further measures are necessary refpe&amp;ing  
 the fame. The report was in the following words
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1796051401:0002/pct:28.63552388493006,44.3717497064251,20.797044074953813,4.881731253145445/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1796051401:0002/pct:28.64871997888625,44.384331488005365,20.816838215888097,4.894313034725717/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3718,7 +3718,7 @@ ssand fafety may permit.”
 Now I contend that the fame rea­  
 sonings and feelings which led to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1800070101:0313/pct:5.936777178103315,38.47581827063996,16.515034695451043,18.768930141670737/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1800070101:0313/pct:5.947057311745053,38.48233186777398,16.515034695451043,18.772186940237745/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3782,7 +3782,7 @@ to fay, that our country exhibits a fpec •
 tasle ov nn&#x27;ional happinef* he-Ver furpaf­  
 feds if ever before equalled.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804102901:0002/pct:75.5618546264426,24.726416401163597,16.744280218667747,35.58664634990996/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804102901:0002/pct:75.56860363096443,24.735651290575795,16.737531214145914,35.58202890520386/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3813,7 +3813,7 @@ i -i^&#x27;-t’nce has embitter d *&gt;*h:r sufferings : ^
 wh.ie even |lr? &#x27;icipaiions of a return o! |  
 , the blessings of pc irr and repose a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804110701:0341/pct:59.79027645376549,34.39264609323703,18.34127740705434,10.9258043335522/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804110701:0341/pct:59.77887914601601,34.388130252100844,18.344135214131402,10.92874649859944/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3852,7 +3852,7 @@ to sav, thar ( nr countiv exhibits a spedVa-j
 jcle of nation;;! happim*. s never sni passed,  
 if ever before equalled.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804110701:0341/pct:59.79027645376549,49.86211424819435,18.379408960915157,16.887721602101117/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804110701:0341/pct:59.77887914601601,49.855567226890756,18.382259499301053,16.889880952380953/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3904,7 +3904,7 @@ necessary tor tho peace, happiness and
 welfare of our country, to need any recom  
 mendation of mine.&quot; This is the Ia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027509:1854080201:0445/pct:41.60692951015532,112.6443624240981,16.367980884109915,5.512561019168949/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027509:1854080201:0445/pct:31.22198984164924,84.48624836290034,12.279653420974007,4.131444219549946/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4023,7 +4023,7 @@ the pleasure of informing Congress that
 disorder and insurrection now enjoys the  
 blessing of quiet and order.  A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775605:1863123001:0312/pct:153.419452887538,197.48079877112136,43.61702127659574,10.937019969278033/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775605:1863123001:0312/pct:38.3548632218845,49.37019969278034,10.904255319148936,2.7342549923195083/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4116,7 +4116,7 @@ honorable extinction of our public debt accords as
 much with the true interests of the country as  
 with the general sense of our constituents.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743865:1874040301:0049/pct:9.819639278557114,122.32142857142857,46.40948563794255,6.157235621521336/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743865:1874040301:0049/pct:3.2732130928523713,40.773809523809526,15.469828545980851,2.052411873840445/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4137,7 +4137,7 @@ greatest attainable perfection shall be ac­
 complished.&quot;Jefferson, Mason, Randolph, and others of  
 the statesmen of those early days of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn82016187:00211103504:1884020701:0385/pct:57.27748691099477,38.11234161428714,16.531413612565444,6.754464731118428/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn82016187:00211103504:1884020701:0385/pct:42.96373870925514,28.584256210715356,12.410001309071868,5.068342811533473/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4171,7 +4171,7 @@ a spectacle of national happiness never
 surpassed, if ever before equaled?&quot;  
 So much to begin with. Presiden
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_americanrobin_ver01:data:2010270509:00517013882:1888100401:0871/pct:22.809841342837434,58.977921877412385,14.716026672798344,5.311100818280068/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_americanrobin_ver01:data:2010270509:00517013882:1888100401:0871/pct:22.804597701149426,58.96881753627663,14.718390804597702,5.314140166718123/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4190,7 +4190,7 @@ part of the Union displaying indications of
 - rapid -and various improvement,-with bur­  
 dens so light as scarcely to. be perceived.&quot; I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_abbott_ver01:data:sn95073194:00206539264:1888101001:0027/pct:7.769355711965349,61.45268862025844,15.213860314022739,2.7928303459774906/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_abbott_ver01:data:sn95073194:00206539264:1888101001:0027/pct:5.835364202545356,46.09212171738224,11.413484971567831,2.094622759483118/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4211,7 +4211,7 @@ dens so light as scarcely to be perceived.” In
 his message of the following year he urged  
 upon congress 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_fox_ver01:data:sn82016399:00517173472:1888101201:0321/pct:4.04557463672391,54.02661854274758,14.068692206076618,3.4739454094292803/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_fox_ver01:data:sn82016399:00517173472:1888101201:0321/pct:4.044906719498101,54.02052554415248,14.071872764294755,3.4773128829743243/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4259,7 +4259,7 @@ ing the object, while none better deserves the
 persevering attention of the public councils.&quot;  
 NO Lr.SS INTERESTED WAS PRESIDENT JKFFEltHOX
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_otterhound_ver01:data:sn83045462:00280654760:1890040901:0032/pct:15.367819952972791,22.535547855179832,13.654685925428284,5.496475086629227/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_otterhound_ver01:data:sn83045462:00280654760:1890040901:0032/pct:15.376217668794087,22.544509499342812,13.658884783338932,5.505436730792209/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4288,7 +4288,7 @@ hibits a spectacle of national happiness
   
 sever surpassed, from 1880 up to thin time
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn85029079:00280760948:1891051301:0019/pct:13.031161473087819,38.51755947564331,29.768649669499528,3.7546528564492636/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn85029079:00280760948:1891051301:0019/pct:8.69359792109615,25.683767599935265,19.867706118592015,2.508496520472568/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4311,7 +4311,7 @@ but the first President, in nearing the end of
 his term of office, urged &quot;the persevering at­  
 tention of the public councils&quot; for the solu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_milosz_ver01:data:sn83030272:00175045016:1892040401:0251/pct:270.1981707317073,82.5561840697141,50.30487804878049,19.446567803088215/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_milosz_ver01:data:sn83030272:00175045016:1892040401:0251/pct:67.57529546321007,20.639046017428527,12.581014105985513,4.861641950772054/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4332,7 +4332,7 @@ burdens so light a* scarcely to be perceived.
 hibit* a spectacle of national happiness  
 never surpassed, if ever before equalled-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_dyerbrook_ver01:data:sn82014248:00332895783:1892090201:0217/pct:14.428706326723324,32.86604361370716,10.047214353163362,3.398470688190314/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_dyerbrook_ver01:data:sn82014248:00332895783:1892090201:0217/pct:14.425981873111782,32.86139034404644,10.050037764350453,3.4015290952852895/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4365,7 +4365,7 @@ tures. The object is of too much
 consequence not to insure a con­  
 tinuance of their efforts in ever
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_belle_ver01:data:sn85033078:00271768552:1894042601:0486/pct:45.65068960808412,78.21117015943047,12.344667486003004,13.666900631705605/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_belle_ver01:data:sn85033078:00271768552:1894042601:0486/pct:45.65524147662615,78.21117015943047,12.344667486003004,13.673585347103847/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4389,7 +4389,7 @@ hibits a spectacle of national happiness
 never surpassed, If ever before equal­  
 ed?&quot;(In his eighth and last met sage.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_oystercatcher_ver01:data:sn96061150:00202194576:1894052201:0243/pct:35.19396551724138,40.566177560397215,17.75862068965517,9.396768934341189/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_oystercatcher_ver01:data:sn96061150:00202194576:1894052201:0243/pct:26.417942635324565,30.42833852082407,13.327582488678024,7.054987401808211/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4461,7 +4461,7 @@ tional bimetallism. Tl.e Senate resolu­
 tion authorizing President M:Kinley te  
 appoint delegates te an international con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_gandhi_ver01:data:sn86069117:00206533754:1897022701:0206/pct:105.7478122513922,39.06228516430634,18.834526650755766,23.332875017186854/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_gandhi_ver01:data:sn86069117:00206533754:1897022701:0206/pct:79.33160930972747,29.300151244328337,14.123731848020688,17.503093633988726/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4493,7 +4493,7 @@ The object is of too much consequence
 not to insure a continuance of their ef­  
 forts in every way which shall appea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283053:1897031801:0540/pct:74.91559756921,112.05631803123521,21.38757596218771,15.416469474680548/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283053:1897031801:0540/pct:49.97466644147948,74.70421202082348,14.271237966559703,10.281590156176053/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4517,7 +4517,7 @@ ay that our country exhibits a spec-
 icle of national happiness never sur-  
 assed if ever before equaled ? 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_indianola_ver01:data:sn94056415:00206536664:1897032601:0344/pct:47.91383989145183,97.3359934280014,17.995251017639077,7.252669874427884/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_indianola_ver01:data:sn94056415:00206536664:1897032601:0344/pct:35.95791617172917,73.00492899894378,13.50755133208892,5.445370261706373/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4540,7 +4540,7 @@ scarcely perceived. Is it too much to
 i tact* of nalionsi happiness never sur­  
 | passed if ever before equaled?*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_bailey_ver02:data:sn86063147:00279528244:1897032701:0735/pct:20.735930735930737,16.215393976270157,21.082251082251084,7.210222087009431/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_bailey_ver02:data:sn86063147:00279528244:1897032701:0735/pct:20.757575757575758,16.23821113477335,21.071428571428573,7.195010648007301/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4572,7 +4572,7 @@ The object is of too much consequence
 not to insure a continuance of their ef­  
 forts In every way which shall appea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_diamondville_ver05:data:sn83002748:00514150151:1897040101:0419/pct:31.57251161653216,67.38122827346466,12.741501589630717,9.540363074546157/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_diamondville_ver05:data:sn83002748:00514150151:1897040101:0419/pct:31.57251161653216,67.38122827346466,12.76595744680851,9.554847431440711/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

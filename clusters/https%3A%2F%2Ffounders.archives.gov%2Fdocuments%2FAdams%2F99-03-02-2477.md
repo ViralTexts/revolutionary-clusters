@@ -224,7 +224,7 @@ So perfect was he, that he stood
 Upon the boundary line  
 Of infinite and sinite goo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn82014968:00212472025:1841120301:0325/pct:12.420886075949367,191.17567931127252,58.46518987341772,48.695184288404626/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn82014968:00212472025:1841120301:0325/pct:3.1052215189873418,47.79391982781813,14.61629746835443,12.173796072101156/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -266,7 +266,7 @@ The proud to gain it, toils on toils endure,
 The modest shun it but to make it sure.  
 THIE YANKEESVISIT
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn85054702:00280776002:1841121801:0284/pct:28.294862248696948,235.587987650856,52.717795979151155,21.105809710917764/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn85054702:00280776002:1841121801:0284/pct:7.077668094617247,58.896996912714,13.186813186813186,5.276452427729441/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -346,7 +346,7 @@ Glows more or less, and reigns in every heart.
 The proud, to gain it, toils on toils endure;  
 The modest shun it, but to make it sure
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624256:1849052401:0010/pct:19.38017108399944,84.05016063840813,14.331790772682654,5.7933464607731375/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624256:1849052401:0010/pct:19.389519936427803,84.05361522783018,14.331790772682654,5.7933464607731375/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -368,7 +368,7 @@ Reigns, more or less, and glows in every heart;
 The proud, to gain it, toils on toils endure,  
 The modest shun it but to make it sure.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_arbok_ver04:data:sn82003383:00295874429:1850060801:0077/pct:17.875647668393782,162.51155268022183,34.97409326424871,13.066081330868762/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_arbok_ver04:data:sn82003383:00295874429:1850060801:0077/pct:5.958549222797927,54.17051756007394,11.658031088082902,4.355360443622921/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -393,7 +393,7 @@ The modest shun it but to make it sure.&quot;
 On the above principle, we may be par­  
 doned for giving place to the followin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84022366:0020029015A:1853030501:0036/pct:164.74763406940062,222.83464566929135,43.45425867507886,23.561477892186552/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84022366:0020029015A:1853030501:0036/pct:41.21128427697771,55.70866141732284,10.869994081672914,5.890369473046638/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -413,7 +413,7 @@ The proud to gain it, toils on toils endure,
 The modest shun it but to to make it sure!”  
 The great entertainment at the Frenc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215919:1854060701:0537/pct:81.68582375478927,35.12869065151834,12.452107279693486,3.4434392313626483/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215919:1854060701:0537/pct:81.67800019155253,35.126227208976154,12.454107205567794,3.4455352968676953/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -437,7 +437,7 @@ heart:
 The proud, to gain it, toils on toils endure;  
 The modest shun it, but to make it sure
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn97066026:print:1855022801:0050/pct:51.07890499194847,16.798418972332016,21.867954911433173,9.552042160737813/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn97066026:print:1855022801:0050/pct:51.0624597553123,16.794731064763997,21.868963296844818,9.55543358946213/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -488,7 +488,7 @@ Itaidsthe dancer&#x27;s heel, the writer&#x27;s head J
 And heaps the plain with mountains of the dead;  
 Nor end with life; but nods in sable plumes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_chacha_ver03:data:sn87056247:00200294531:1857121701:0233/pct:106.23987034035656,103.29453541132374,19.057266342517558,14.49990136121523/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_chacha_ver03:data:sn87056247:00200294531:1857121701:0233/pct:79.70818697649284,77.4709015584928,14.293434206971089,10.87985796014993/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -512,7 +512,7 @@ Ton, ALBriGHt &amp; Co., No. 15 Cedar st., Nash­
 ville, Tenn.  may3l  
 BANK OF COMIMERCE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn85033711:00212470235:1858053101:0512/pct:61.35629709364908,7.0296495956873315,44.13347685683531,21.21832884097035/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn85033711:00212470235:1858053101:0512/pct:15.341138473960436,1.7574123989218329,11.034853990041718,5.304582210242588/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -532,7 +532,7 @@ The proud, to gain it, toils on toils endure,
 The modest shun it but to make it sure.&quot;  
 It is our province to praise the garment
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn85033711:00212470235:1858060201:0520/pct:19.97874601487779,352.93112653497064,42.4548352816153,11.105178857447944/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn85033711:00212470235:1858060201:0520/pct:4.994686503719447,88.23278163374266,10.613708820403826,2.776294714361986/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -559,7 +559,7 @@ erick and Summer streets is for rent for the be
 of the present year. Apply at Gtoven a co.&#x27;s Ex­  
 press office, or to Taanes a Lecas.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn85033711:00212470235:1858060301:0524/pct:9.655172413793103,358.4676128481485,44.827586206896555,26.934158574325046/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn85033711:00212470235:1858060301:0524/pct:2.4141132776230267,89.61690321203713,11.20838307467834,6.733539643581262/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -845,7 +845,7 @@ The love of praise, howe&#x27;er concealed by art,
 The proud to gain it toils on toils endure;  
 The modest shun it, but to make it sore
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_bunting_ver01:data:sn84038223:00202195234:1864051201:0300/pct:4.346338124572211,100.25879917184265,18.993839835728952,2.9373706004140785/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_bunting_ver01:data:sn84038223:00202195234:1864051201:0300/pct:3.268868731815848,75.19409937888199,14.25637514975184,2.2127329192546585/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -869,7 +869,7 @@ The proud to gain it toils on toils endure.
 The modest shun it but to make it sure.&quot;  
 Anagrains Nos. I and 2 answered by Mrs. A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009571:0027952391A:1868082801:0563/pct:11.812276282646161,147.96569605105705,33.10353970568739,12.844036697247706/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009571:0027952391A:1868082801:0563/pct:3.936903499469777,49.31698075580815,11.033050547896783,4.280918669192674/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -929,7 +929,7 @@ The proud, to gain it, toils on toils endure;
 The modest shun it, but to make it sure.&quot;  
 There it is, the modest shun it, but to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_abraham_ver02:data:sn84023963:00200295936:1879072501:1032/pct:76.29127857747672,351.3283740701381,111.7696867061812,16.259298618490966/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_abraham_ver02:data:sn84023963:00200295936:1879072501:1032/pct:19.076857929282237,87.83209351753453,27.948337920813042,4.064824654622742/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1001,7 +1001,7 @@ Reigns, more or less, and glows in ev&#x27;ry heart;
 The proud to gain it toils on toils endure,  
 The modest shun it but to make it sure.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685154:1896020601:0728/pct:51.067580803134184,61.43284393692224,21.038197845249755,4.431756389342033/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685154:1896020601:0728/pct:51.05757931844888,61.424493679488926,21.04060582321452,4.4356848353042455/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

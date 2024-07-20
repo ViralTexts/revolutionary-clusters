@@ -115,7 +115,7 @@ districts. - 1
 For a Congress-man (Lyon) to refuse  
 to wait on the president in person wit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1803090901:0135/pct:48.25174825174825,82.22611744084136,20.055944055944057,3.8913234005258546/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1803090901:0135/pct:48.238255033557046,82.21170697511391,20.057326621923938,3.8950227830354014/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -278,7 +278,7 @@ can have nowill or judgment of his own. 1
 mbst carnestly entreat all parties to reconsid­  
 cr their resolutions on this subject
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1809080201:0073/pct:0.9880803011292346,2.133878982753581,50.32936010037641,92.59475786806976/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1809080201:0073/pct:0.9880803011292346,2.133878982753581,50.33981597657884,92.60125369450128/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -382,7 +382,7 @@ them ednfifen %%*gﬁmtﬂﬂéusl ’
 mma?a? {1 sud ot the pr­  
 vious consent of the heads of depart
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809080801:0331/pct:24.078967822166952,18.876941457586618,17.11487641846728,62.69414575866189/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809080801:0331/pct:24.089331053422455,18.876941457586618,17.109694802839524,62.70078322049648/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -449,7 +449,7 @@ all partigs to reconsider their, refolu­
 ‘ tions on this fubje@.” - e  
 s o JOHN ADAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809080801:0331/pct:41.95554173791388,24.631620868180008,16.83506917456863,36.86778176025488/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809080801:0331/pct:41.96072335354163,24.631620868180008,16.840250790196382,36.87773795300677/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -470,7 +470,7 @@ conciliating parties, as far ss he possibly
 could, consistently with his principles.”  
 What the disposition of either was, on en
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1809100201:0686/pct:24.0608228980322,82.59890187244827,17.397137745974955,4.702238490778544/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1809100201:0686/pct:24.055443773753634,82.58727477477477,17.398837469260005,4.7050957207207205/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -489,7 +489,7 @@ and virtues, and qualities eminently useful
 to the public, merely on account of a differ­  
 ence in opinion.” Yet Jefferson has reject
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1809100201:0686/pct:42.35241502683363,24.172884696607067,17.285330948121647,3.3647754469942277/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1809100201:0686/pct:42.34294656829868,24.16948198198198,17.28705566733736,3.367820945945946/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -522,7 +522,7 @@ after a formal und a very uncivil repronstrance
 of one of their large, unconstituiional com­  
 mittee, in secret,”” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1811040301:0386/pct:4.135941006732927,40.451866404715126,21.785828791279258,13.035363457760313/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1811040301:0386/pct:4.141284599764882,40.451866404715126,21.785828791279258,13.041912246234446/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -548,7 +548,7 @@ mittee, in secret,””
 that the people cannot be too careful in the  
 choice of their officers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_earhart_ver01:data:sn84027691:00237283338:1873091101:0524/pct:33.79154078549849,105.41576803259046,13.006042296072508,0.9944883776659478/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_earhart_ver01:data:sn84027691:00237283338:1873091101:0524/pct:25.351261519867048,79.06781691828421,9.759782444478018,0.7428708363287803/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -622,7 +622,7 @@ idated by factious combinations of Sena­
 &#x27; tors. Representatives, heads of depart­  
 ments or military officers. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_odona_ver04:data:sn86092518:00383341760:1886031101:0044/pct:14.416509228309838,34.260289210233594,11.916872547594826,7.301041561330772/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_odona_ver04:data:sn86092518:00383341760:1886031101:0044/pct:14.414414414414415,34.25682507583418,11.919984500629662,7.3036737445230875/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -685,7 +685,7 @@ In 1808, in reviewing certain amendments pro­
 posed by Senator Hillhouse to the United States  
 Constitution, one of which made appointments t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ike_ver01:data:sn85042682:00211103383:1886032801:0216/pct:244.32699083861874,82.12428141253764,43.12896405919662,62.031207226936765/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ike_ver01:data:sn85042682:00211103383:1886032801:0216/pct:61.09251101321586,20.53107035313441,10.784140969162996,15.507801806734191/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

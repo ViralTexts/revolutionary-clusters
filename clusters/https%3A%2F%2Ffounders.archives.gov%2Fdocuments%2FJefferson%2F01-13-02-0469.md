@@ -416,7 +416,7 @@ of villages, both on its banks, and as
 far along the meadows as one can see  
 in any direction. The river is als
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_topsn83020866_ver01:data:sn83020866:print:1828073001:0001/pct:53.840749414519905,41.63465970195114,15.76112412177986,45.29113535105239/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_topsn83020866_ver01:data:sn83020866:print:1828073001:0001/pct:53.85245901639344,41.646182209248735,15.772833723653395,45.29113535105239/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -960,13 +960,13 @@ must do it as one Ui&amp;t regards you for your
 own sake, and for the sake of my country.  
 wnicn nas set me Uie example. Lift o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn82015050:00280763366:1848060301:0211/pct:79.71375233354075,99.87478656801366,16.645924082140635,12.953898690950483/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn82015050:00280763366:1848060301:0211/pct:59.81322957198444,74.91178144564599,12.498054474708171,9.721115537848606/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Scientific American (1845-1908)_](https://archive.org/details/sim_scientific-american_1849-09-01_4_50/page/n5/mode/1up?view=theater)
+## [From _Scientific American_](https://archive.org/details/sim_scientific-american_1849-09-01_4_50/page/n5/mode/1up?view=theater)
 
 #### 1849-09-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 

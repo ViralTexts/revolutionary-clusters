@@ -170,7 +170,7 @@ they shall suffer the English to treat them An official
 coi&gt;y of this resolve ?m furnished lo Mr. Monroe, with  
 a letter notifying In in that the functions ol I he Frenc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661204:1852050801:0448/pct:15.609595793624713,11.599341522097,32.090042720999016,84.56375838926175/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661204:1852050801:0448/pct:15.609595793624713,11.603562534295724,32.10647387446599,84.57220041365919/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -186,7 +186,7 @@ a letter notifying In in that the functions ol I he Frenc
 7th, 8th, 9th, 10th, 11th, 12th, 13th, 16th,  
 18th, 19th, 20th, 21st, 22d and 23d, and th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84022473:00280777535:1873123101:0830/pct:66.78966789667896,309.9337748344371,43.247232472324725,4.120676968359088/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84022473:00280777535:1873123101:0830/pct:16.69741697416974,77.48344370860927,10.811808118081181,1.030169242089772/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -239,7 +239,7 @@ j Edict followed edict in rapid succession, while the
 protestations of diplomacy failed to effect cither re­  
 lief or remedy. Our relations thus continued unti
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623896:1888081801:0158/pct:72.41252302025782,39.719887955182074,11.049723756906078,5.602240896358543/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623896:1888081801:0158/pct:72.41866175567833,39.72455648926237,11.049723756906078,5.602240896358543/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

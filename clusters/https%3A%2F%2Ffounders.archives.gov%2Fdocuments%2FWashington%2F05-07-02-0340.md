@@ -106,7 +106,7 @@ additional arrangements of
 finance to establish the public credit and  
 provide for the expenditures of govern
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:0041566770A:1843080201:0326/pct:267.2790901137358,63.145470640306876,64.91688538932634,21.599291826497492/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:0041566770A:1843080201:0326/pct:66.81977252843394,15.786367660076719,16.229221347331585,5.399822956624373/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -131,7 +131,7 @@ sir, (and it is truly yours,) is fast advancing
 n its political importance and social happi­  
 ness.&quot; And as truly as was this nation, the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200292911:1857091301:0324/pct:63.349646547036436,29.032926071650444,37.302882001087546,14.537171256989025/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200292911:1857091301:0324/pct:15.83956492182189,7.258231517912611,9.326988443235894,3.634292814247256/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -154,7 +154,7 @@ begin a long journey to the southward.&quot;
 He had been invited by many of the  
 leading characters of the Southern states
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_norgay_ver01:data:sn84028193:00296028988:1872020301:0124/pct:73.76093294460641,23.208232445520583,12.988338192419825,4.673123486682809/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_norgay_ver01:data:sn84028193:00296028988:1872020301:0124/pct:55.328765126111676,17.409200968523002,9.753608397725616,3.5108958837772395/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

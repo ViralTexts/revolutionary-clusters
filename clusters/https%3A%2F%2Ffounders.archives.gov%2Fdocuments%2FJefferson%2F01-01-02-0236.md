@@ -1462,7 +1462,7 @@ to give the whole grant such interpretation
 as would be most beneficial and profitable to  
 the grantee. According to the estimate o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn85026864:00414184510:1832062201:0165/pct:32.962101063829785,63.3836180027428,14.76063829787234,11.906246103977061/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn85026864:00414184510:1832062201:0165/pct:32.956622901778296,63.37571677885814,14.763725001384964,11.908917144519238/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1743,7 +1743,7 @@ In the sear id— a grant was made by Charles
 the II to Lord Fairfax, of the country called the  
 | Northern Neck ot V irginia, lying between th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_emeralds_ver02:data:sn85025007:00414215890:1853031201:0238/pct:46.83391003460208,10.12080709420383,12.534602076124568,12.382727155892558/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_emeralds_ver02:data:sn85025007:00414215890:1853031201:0238/pct:46.82985900873627,10.120156782111419,12.536401118703688,12.384073336331898/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1760,7 +1760,7 @@ of the present State of Maryland. In iea Charles
 al the south unto the further banke of said river,  
 andfollowing the west and south side thereof un;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn86092535:00202190534:1853031901:0215/pct:118.27031074503931,194.19532723842693,55.76563084986896,16.804527644754028/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn86092535:00202190534:1853031901:0215/pct:29.567577686259828,48.54883180960673,13.94140771246724,4.201131911188507/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1796,7 +1796,7 @@ to a certain place called Cinquack.near the
 mouth of said river, &amp;.C.’ .  
 &quot;The difficulty between the two States a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024718:00414183748:1853032301:0257/pct:83.37606260963433,16.408403840669266,12.683848333558224,11.369902081946954/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024718:00414183748:1853032301:0257/pct:83.36481381543443,16.40684410646388,12.686634286742219,11.371989860583016/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1817,7 +1817,7 @@ side thereof unto a certain place called Ciu­
 quack, near the mouth ot said river, file.  
 &#x27;i lie difficulty between the two States ali
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393349001:1853033001:0428/pct:33.44923504867872,17.43407569340074,12.482614742698193,3.798333105615521/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393349001:1853033001:0428/pct:33.443420823917954,17.43169398907104,12.484790544063967,3.8012295081967213/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1981,7 +1981,7 @@ North latitude,&quot; thence &quot;in a right line, by the
 degree aforesaid, to the true meridian of the  
 first fountain of the river Potomac, &amp;c.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn86092535:00202190649:1859090201:0216/pct:7.041383570105003,91.89494038027715,66.851966234301,33.38704479535933/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn86092535:00202190649:1859090201:0216/pct:1.7603458925262507,22.973735095069287,16.71299155857525,8.346761198839832/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2007,7 +2007,7 @@ beginning of the fortieth degree of northern
 latitude, and then by a straight line westward  
 to the limits of the longitude above mentioned.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn86092535:00202190649:1859090201:0216/pct:7.329627341980647,129.69706735417338,65.7195799876467,33.951015146632294/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn86092535:00202190649:1859090201:0216/pct:1.8324068354951617,32.424266838543346,16.429894996911674,8.487753786658073/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2034,7 +2034,7 @@ tude, and then i&gt;g a .straight tine vcxttcard to (
 the limits of the longitude above men- :  
 i tinned.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn85025007:0041566347A:1859090701:0733/pct:44.197389183761295,23.672679099154184,13.785683546119639,6.7461530622643435/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn85025007:0041566347A:1859090701:0733/pct:44.197389183761295,23.679472808179625,13.790465260842538,6.749549916777064/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2054,7 +2054,7 @@ fude,&quot; thence &quot;in a right line, by the degree afore­
 said, to the true meridian of the first fountain of  
 river Putomac, &amp;e.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:0039334801A:1859091001:0126/pct:196.14021268215834,171.61140197789413,59.728239464356044,11.649214659685864/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:0039334801A:1859091001:0126/pct:49.0253987005316,42.89661189472154,14.929119905493208,2.911880180311182/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2080,7 +2080,7 @@ unto the beginning of the fortieth degree of north­
 ern latitude, and then by a straight line westward  
 to the limits of the longitude above mentioned.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:0039334801A:1859091001:0126/pct:196.14021268215834,185.39848749272832,60.04332414336353,23.923792902850494/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:0039334801A:1859091001:0126/pct:49.0253987005316,46.34288207067035,15.00787556605631,5.9800785226116036/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2105,7 +2105,7 @@ the Potomac, and from thence tending down
 to ward the south to the further bank of said  
 river, and following the W. and S. side of it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:0028077764A:1861031501:0046/pct:270.4368174726989,293.1478466775196,51.40405616224649,23.38315820630457/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:0028077764A:1861031501:0046/pct:67.64878048780488,73.2869616693799,12.858536585365854,5.845789551576143/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2140,7 +2140,7 @@ a straight line westward to the limits of lon­
 gitude above mentioned.&quot; In 1682 Penn dis­  
 patched a colony to his territory, and soo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:0028077764A:1861031501:0046/pct:271.06084243369736,49.84460559419861,104.44617784711389,330.8568891519905/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:0028077764A:1861031501:0046/pct:67.8048780487805,12.461151398549653,26.12682926829268,82.71422228799763/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2331,7 +2331,7 @@ Penn and Lord Baltimore executed a deed
 of boundary settlement, under which,  
 together with the decisions of the Englis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn83032006:00296028575:1869050701:0535/pct:50.22386907518913,31.73687926570958,11.116257526632701,9.602259355142387/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn83032006:00296028575:1869050701:0535/pct:50.23416190623231,31.744724248842864,11.11111111111111,9.598336863575744/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2502,7 +2502,7 @@ bogues into the aforesaid bay of Chesapeake.
 And also, all islands and islets from the Last  
 ern shore towaris the castwhien nave been O
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deltaair_ver01:data:sn86053573:00237288932:1873012101:0071/pct:290.98591549295776,325.8126195028681,44.7887323943662,24.47418738049713/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deltaair_ver01:data:sn86053573:00237288932:1873012101:0071/pct:72.79774489076814,81.45315487571702,11.20507399577167,6.118546845124283/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2770,7 +2770,7 @@ land anil what is now West Virginia,
 is the meridian of the fountain of the  
 Potomac from the point where it cut
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588290:1884012601:0442/pct:25.950340584486927,79.88935406698565,18.215776752362117,21.067583732057415/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588290:1884012601:0442/pct:20.111256173014702,61.918189192321066,14.134075041153432,16.331260380856733/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2870,7 +2870,7 @@ near the mouth of the said river,&quot;
 where it disembogues into the Bay of  
 Chesapeake. The grant also embrace
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn82000205:00211103085:1886032201:0282/pct:102.65151515151516,320.3915171288744,43.86363636363637,13.05057096247961/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn82000205:00211103085:1886032201:0282/pct:25.66287878787879,80.0978792822186,10.965909090909092,3.2626427406199023/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2990,7 +2990,7 @@ entirely remain excepted forever to
 us, our heirs and successors,”  
 Subsequent to the reports made by
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588307:1887060401:0583/pct:28.786556089044087,83.78867924528302,17.699694456569183,35.54716981132076/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588307:1887060401:0583/pct:22.320572813891864,64.94053421719633,13.717088571911823,27.557028660557613/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3145,7 +3145,7 @@ westward unto the beginning of the fortieth
 dogreo of northorn Intltudo. Thnt cut olT  
 Ponnfrom tho lower Delaware, and Willia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_milosz_ver01:data:sn83030272:0017504498A:1891120601:0862/pct:118.64661654135338,280.12084592145015,50.45112781954887,23.50453172205438/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_milosz_ver01:data:sn83030272:0017504498A:1891120601:0862/pct:29.678390069588115,70.03021148036254,12.619898438969344,5.876132930513595/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3175,7 +3175,7 @@ from New Castle northward and westward un­
 to the beginning of the fortieth degree of  
 north latitude,&quot; irreconcilable conditions, b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_fernandez_ver01:data:sn83030272:00175044905:1892101601:0766/pct:279.04098994586235,259.6745027124774,51.27610208816705,24.095840867992766/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_fernandez_ver01:data:sn83030272:00175044905:1892101601:0766/pct:69.77373815509573,64.91862567811935,12.821504544575518,6.023960216998192/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3220,7 +3220,7 @@ j ward, until the fortieth degree of
 I north latitude, and then by a straight­  
 line westward &quot; This makes a clrcu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_kilo_ver02:data:sn86090270:00206536251:1893072701:0037/pct:105.16194331983806,103.01903303434698,22.267206477732792,18.09232115510829/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_kilo_ver02:data:sn86090270:00206536251:1893072701:0037/pct:78.90651366857914,77.2697440385036,16.706041174485318,13.563771603587837/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3249,7 +3249,7 @@ until the fortieth degree of north lati­
 tude and then by a straight line west­  
 ward.” This makes a circu’ar bounda
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_fleshgolem_ver02:data:sn92063989:00514153590:1893072901:0616/pct:83.59783045399759,13.505346350534635,10.827641623141824,7.314427398109406/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_fleshgolem_ver02:data:sn92063989:00514153590:1893072901:0616/pct:83.59783045399759,13.50792912857069,10.834337752778893,7.319592954181518/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3279,7 +3279,7 @@ vard, until the fortieth degree of
 north latitude, and then by a straight  
 line westward. This makes a circu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_eclipse_ver01:data:sn89051301:00513688015:1893080201:1256/pct:7.096774193548387,5.8321678321678325,25.889698231009366,90.4055944055944/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_eclipse_ver01:data:sn89051301:00513688015:1893080201:1256/pct:7.11064862989941,5.836829836829837,25.896635449184878,90.41025641025641/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3326,7 +3326,7 @@ westward until the fortieth degree of
 north latitude and then by a straight  
 line westward.&quot; This makes a circu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_americanrobin_ver01:data:2010270509:00517013900:1893090701:0258/pct:47.51604468742572,86.97264719517848,15.212740670311385,6.459588935249575/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_americanrobin_ver01:data:2010270509:00517013900:1893090701:0258/pct:47.504752851711025,86.95920889987639,15.215066539923955,6.462453646477132/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3387,7 +3387,7 @@ and successors, are entirely remain­
 ing forever excepted. And also all  
 the islands and isles within th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:0034058854A:1894030801:0078/pct:66.6955955738772,76.4031382015691,17.704491212844435,37.130356065178034/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:0034058854A:1894030801:0078/pct:51.68992769463595,59.21970612308532,13.743624236309623,28.77967026542464/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3441,7 +3441,7 @@ after it was issued, claiming that
 ! the territory belonged to Virginia  
 I and that it was an unwarranted an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:0034058854A:1894030801:0078/pct:84.83402039487959,29.601689800844902,17.726187893252334,31.578153289076646/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:0034058854A:1894030801:0078/pct:65.75304074883695,22.945005261721946,13.743624236309623,24.47285341232412/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3502,7 +3502,7 @@ boundary at a point on the Delaware riv
 er, twelve miles north of Newcastle town  
 y a circular line until &quot;unto the begi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn84026409:00280776531:1895042401:0137/pct:175.55948174322734,97.68991559306974,40.51825677267373,47.845402043536204/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn84026409:00280776531:1895042401:0137/pct:43.89633338241791,24.422478898267435,10.13105580915918,11.961350510884051/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3558,7 +3558,7 @@ gree of northern latitude, and
 then by a straight line westward to the  
 limits of longitude above mentioned.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_whitesnake_ver01:data:sn85034438:00175049319:1895112401:0403/pct:132.43873978996498,5.662405925218015,83.31388564760793,290.4193047425636/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_whitesnake_ver01:data:sn85034438:00175049319:1895112401:0403/pct:44.146246596655,1.8874686417393383,27.771295215869312,96.80643491418788/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3631,7 +3631,7 @@ tended to the northern boundary of the
 grant to Lord Baltimore. There were at  
 that time but two settlements within Ne
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_franklin_ver01:data:sn85054468:211102196:1899071601:0530/pct:73.58790771678599,31.384248210023866,15.970564836913285,11.76909307875895/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_franklin_ver01:data:sn85054468:211102196:1899071601:0530/pct:55.212892956625545,23.5381861575179,11.997612415439713,8.83054892601432/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3651,7 +3651,7 @@ miles distance from Newcastle northward
 and westward to the beginning of the for­  
 tieth degree of north latitude. Penn, afte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_franklin_ver01:data:sn85054468:211102196:1899071601:0530/pct:73.68735083532219,71.33054892601432,15.990453460620525,3.8484486873508352/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_franklin_ver01:data:sn85054468:211102196:1899071601:0530/pct:55.2924791086351,53.50536992840095,11.997612415439713,2.8937947494033414/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

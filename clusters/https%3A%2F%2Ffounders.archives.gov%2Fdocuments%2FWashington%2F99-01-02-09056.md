@@ -91,7 +91,7 @@ der isalfo to have retrofpeét to the earliest
 stages of the war, and to be considered as a  
 permaneént one, |
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1782090701:0211/pct:61.924274709064086,41.934117148607136,27.028356007211933,48.511810189598556/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1782090701:0211/pct:61.924274709064086,41.934117148607136,27.050210348030376,48.52240228789323/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -340,7 +340,7 @@ nental Congress to set the best artist la
 1&#x27;arts to work on tbe design for the Wash  
 ington medal. He objected to the medal u
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn82015679:00296029865:1893090601:0093/pct:91.8021978021978,6.74205067165448,33.26373626373626,122.92977384798503/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn82015679:00296029865:1893090601:0093/pct:68.87985050016489,5.058663492603299,24.953281301527976,92.20370685257609/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -412,7 +412,7 @@ stances of unusual gallantry, but also of
 extraordinary fidelity and essential service  
 in any way shall meet with a due reward
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_havanese_ver01:data:sn83045462:00280655120:1897032001:0460/pct:29.124767225325886,77.05742629593405,13.761638733705773,5.924269945507894/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_havanese_ver01:data:sn83045462:00280655120:1897032001:0460/pct:29.124767225325886,77.06091937962833,13.7756052141527,5.938242280285036/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -438,7 +438,7 @@ were also struck by order of Congress in
 favor of other heroes of the revolution.  
 They were made in France under the super
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_havanese_ver01:data:sn83045462:00280655120:1897032001:0460/pct:29.124767225325886,82.86991756322482,13.780260707635009,5.0020958502165715/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_havanese_ver01:data:sn83045462:00280655120:1897032001:0460/pct:29.124767225325886,82.8734106469191,13.789571694599628,5.0125751012994275/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -479,7 +479,7 @@ Xf
 UNITED STATES MEDAL OP HONOB.  
 Honor was created and was amende
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn85035722:00513685208:1898040901:0104/pct:78.45420857596612,30.47951176983435,17.25780836421387,32.18831734960767/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn85035722:00513685208:1898040901:0104/pct:78.43344800211696,30.474198047419804,17.259857105054248,32.18706415620642/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -504,7 +504,7 @@ order this characteristic semtence:
 and a free country is thus opened to  
 all.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_gargoyle_ver02:data:sn92063989:00514153437:1898041601:0297/pct:27.332405012930177,27.472943313403466,10.911080167097673,5.146446681298721/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_gargoyle_ver02:data:sn92063989:00514153437:1898041601:0297/pct:27.332405012930177,27.472943313403466,10.917711027120218,5.146446681298721/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -558,7 +558,7 @@ order this characteristic sentence:
 and a free country is thus opened to  
 all.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carlisle_ver01:data:sn86081854:00296026086:1898042101:0130/pct:65.17382413087934,27.63589670423741,14.130879345603272,5.9780282493936365/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carlisle_ver01:data:sn86081854:00296026086:1898042101:0130/pct:65.18064076346285,27.63589670423741,14.137695978186775,5.9780282493936365/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -585,7 +585,7 @@ all.&quot;
 In the year lSG2the order empower­  
 ed to confer the American Medal o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_jinx_ver01:data:sn84026897:00211101295:1898050401:0161/pct:73.94684761096975,67.55246126691509,12.199604184337009,6.628750735438321/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_jinx_ver01:data:sn84026897:00211101295:1898050401:0161/pct:73.94684761096975,67.55899849643721,12.199604184337009,6.628750735438321/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

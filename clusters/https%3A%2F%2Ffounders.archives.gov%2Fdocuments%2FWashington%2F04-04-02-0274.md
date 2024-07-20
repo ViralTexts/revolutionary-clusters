@@ -37,9 +37,9 @@ We have arrived at that point of time in which we are forced to see our national
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1840-07_8_31/page/n4/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1840-07_8_31/page/n4/mode/1up?view=theater)
 
-#### 1840-07-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1840-07-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -117,7 +117,7 @@ wrefore, oughi to be common to all and he that attempts
 oppost ion to this creed is an enemy to equity and justice and  
 ought to be swept from the face of the earth.&quot; Marshal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743348:1860021601:0397/pct:152.54959829480242,46.42695099818512,48.483357927529106,12.749546279491833/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743348:1860021601:0397/pct:50.849866098267476,15.475650332728373,16.161119309176367,4.249848759830611/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -178,7 +178,7 @@ have agrarian laws, which are easily
 effected by means of unfunded paper money  
 to be a tender in all cases whatever.&quot; Thu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743865:1874042401:0343/pct:55.4739652870494,6.621825350805984,93.82510013351134,281.82767018439057/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743865:1874042401:0343/pct:18.4913217623498,2.207275116935328,31.275033377837115,93.9425567281302/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -219,7 +219,7 @@ They are determined to annihilate all debts
 me e..&gt;i!y eliect.-d |.y the mean - of unfunded pap. r.  
 &#x27;vhich shall lie a tender in all cases whateve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524688:1878100301:0175/pct:60.9332884097035,15.056570931244561,11.236522911051212,6.527415143603133/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524688:1878100301:0175/pct:60.92302509685026,15.054699154649429,11.238841165571838,6.529711586275485/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -241,7 +241,7 @@ volved in all the horrors of failure, and of
 civil .war, without a prospect oh its termina­  
 tion.” A letter was read from Knox t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_farmington_ver01:data:sn83016025:00279525516:1881111701:0281/pct:15.223395613322502,57.40518482957273,10.771730300568644,2.844455112818051/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_farmington_ver01:data:sn83016025:00279525516:1881111701:0281/pct:15.220922677063028,57.398295931837275,10.774041585445094,2.847113884555382/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -268,7 +268,7 @@ have agrarian laws, which are easily effected,
 by the means of unfunded paper which shall  
 be a tender in all cases whatever.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_franklin_ver01:data:sn82016187:00211102330:1893081001:0145/pct:110.82583377448385,50.99457504520796,16.874007411328744,33.1725939320876/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_franklin_ver01:data:sn82016187:00211102330:1893081001:0145/pct:83.15900966503376,38.24593128390597,12.657222295776513,24.88446855535463/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

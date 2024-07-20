@@ -143,7 +143,7 @@ The source of evil one, and one 01&#x27; good?
 From tbore the cup tf mortal mun be tills;  
 lib s-iug&gt; to these distributes ills 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ibizanhound_ver01:data:sn83045461:00280654000:1853030801:0252/pct:61.826891311529565,59.44329896907217,19.739015526924348,6.123711340206185/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ibizanhound_ver01:data:sn83045461:00280654000:1853030801:0252/pct:61.835150313842085,59.44845360824742,19.74314502808061,6.128865979381444/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -272,7 +272,7 @@ fiee and buoyant.”
 DowuiLg’s Calisaya Compound, the  
 great spring medicine, tones the torpi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033255:00514152512:1888121301:0615/pct:35.960929976613016,80.4888888888889,9.781262897234832,3.6666666666666665/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033255:00514152512:1888121301:0615/pct:35.96551566010914,80.4888888888889,9.790434264227082,3.674074074074074/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -293,7 +293,7 @@ Bigotry is the disease of ignorance,
 of morbid minds; enthusiasm of the  
 free aud buoyant
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271768515:1889020701:0206/pct:82.29250066720043,23.68656271725097,11.956231651988258,3.873274406594498/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271768515:1889020701:0206/pct:82.29250066720043,23.693183699142583,11.956231651988258,3.8798953884861125/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -317,7 +317,7 @@ Government Truth can stand by Itself
 Bigotry Is the disease of Ignorance of mor­  
 bid minds enthusiasm of the free and buoyan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_borges_ver01:data:sn83030272:00175044851:1889070401:0630/pct:11.593059936908517,134.5750342101262,52.602523659305994,36.68845978409609/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_borges_ver01:data:sn83030272:00175044851:1889070401:0630/pct:2.8982649842271293,33.64375855253155,13.150630914826499,9.172114946024022/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -512,7 +512,7 @@ health, I am happy in what is around me,
 yet I assure you I am ready to leave all this  
 day, this year, this hour.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drew_ver02:data:sn86063034:00414182094:1893041601:0679/pct:19.82097186700767,59.419283134203944,16.094263792473512,4.987496526813004/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drew_ver02:data:sn86063034:00414182094:1893041601:0679/pct:15.36101934874941,46.05031762552489,12.48230297310052,3.8689301223845245/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -533,7 +533,7 @@ ant. Education and free dis
 mission are the antidotes of  
 both
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_coldplay_ver02:data:sn83007654:00393342754:1898082601:0051/pct:12.885760693015701,46.186440677966104,11.20736329182458,5.30153724871896/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_coldplay_ver02:data:sn83007654:00393342754:1898082601:0051/pct:12.884016781702531,46.181889841363684,11.209229936391933,5.303478175189674/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

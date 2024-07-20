@@ -744,7 +744,7 @@ Attend, O Earth! his sovereign word,
 Restore thy trust, a glorious form,  
 Shall then arise to meet the Lord
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1841042601:0310/pct:19.302152932442464,291.868488702476,46.39940608760208,15.370044648897307/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1841042601:0310/pct:4.827330115113257,72.967122175619,11.604158930560713,3.842511162224327/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -827,7 +827,7 @@ Attend, O, earth, his sovereign word!
 Restore thy trust! the glorious form  
 Shall then arise, to meet the Lord.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271743166:1842101401:0437/pct:63.98824105830475,130.29012203545935,39.114813000163316,21.31015427124108/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271743166:1842101401:0437/pct:21.329413686101585,43.430040678486456,13.03827100005444,7.103384757080359/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -969,7 +969,7 @@ I Attend, O earth, h.s sovereign world ;
 it Restore thy trust?a glorious form  
 Shall then arise to meet the Lotd
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661356:1845041701:0376/pct:2.1758358393773216,84.06052963430012,15.05395365292765,8.877679697351828/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661356:1845041701:0376/pct:2.1758358393773216,84.06893652795293,15.065746801108556,8.877679697351828/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1139,7 +1139,7 @@ Invade thy bounds; no mortal woes
 Can reach the silent sleepers here.  
 And angels watch their soft repose
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743063:1852110501:0856/pct:253.98931865997733,137.83419456301954,31.315746884609162,9.975286452482589/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743063:1852110501:0856/pct:84.66310621999244,45.94473152100652,10.43858229486972,3.3250954841608626/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1165,7 +1165,7 @@ Passed through the grave and blessed the bed;
 Then rest in peace departed one,  
 Till morning break and pierce the shade
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743099:1854053001:1226/pct:109.38477580813347,23.91999053142384,39.67674661105318,14.759143093857261/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743099:1854053001:1226/pct:36.46159193604449,7.973330177141279,13.225582203684393,4.919714364619087/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1184,7 +1184,7 @@ Pass&#x27;d throuah the grave, and bless&#x27;d the bed;
 Rest here. bless&#x27;d saint till from his throne  
 The morning break, and pierce the shade.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn84026897:00237288270:1854112901:0317/pct:83.41198341198341,37.91847183930681,13.313313313313314,2.4911382434029146/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn84026897:00237288270:1854112901:0317/pct:83.42151675485009,37.91847183930681,13.322846656179989,2.4944203754759093/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1225,7 +1225,7 @@ ro slumber in iho silent dust.
 Nor pain, nor grief, nor anxious fear  
 Invade thy bonds-no mortal woe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kuvasz_ver02:data:sn83045462:00280654115:1858040601:0229/pct:36.12321095208463,24.305340357401096,11.667703795892969,2.5410598078710875/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kuvasz_ver02:data:sn83045462:00280654115:1858040601:0229/pct:36.13487865588052,24.305340357401096,11.663814561294338,2.5488069414316703/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1256,7 +1256,7 @@ Nor pain, nor grief, nor anxious fear
 Invade thy bonds?no mortal woes  
 Can reach our little Lilly nere
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn85025007:00415663456:1858040801:0335/pct:15.202606970813262,86.53963725290401,10.810427883253046,3.7395557367026697/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn85025007:00415663456:1858040801:0335/pct:15.202606970813262,86.53963725290401,10.819873429677907,3.746348753481421/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1403,7 +1403,7 @@ Pas&#x27;d through the grave, and blest the bed ;
 Rest here, blest one. till from his throne  
 Tire morning break, and pierce the shade.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_lee_ver01:data:sn84020109:00212470594:1862032001:0564/pct:96.90845824411134,93.2594191522763,14.039079229122056,7.957221350078493/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_lee_ver01:data:sn84020109:00212470594:1862032001:0564/pct:72.7041499330656,69.94701726844583,10.535475234270415,5.965463108320251/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1426,7 +1426,7 @@ Invade thy bound* ;,uo mortal woe#
 Can reach the peaceful sleeper here  
 Whilaangel* watch hi* soft reposa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_leonberger_ver03:data:sn83045462:0028065419A:1862121501:0377/pct:35.46059148153389,75.03802281368822,11.688127918494411,2.918250950570342/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_leonberger_ver03:data:sn83045462:0028065419A:1862121501:0377/pct:35.47120418848168,75.04039923954373,11.688127918494411,2.918250950570342/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1446,7 +1446,7 @@ Pass&#x27;d through the grave aud bless&#x27;d the bed;
 Rest then, blest saiat, till from his throne,  
 The morning break and pierce the shade.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_barbaro_ver01:data:sn84025980:00280762210:1863112001:0238/pct:44.26450742240216,41.55777606968998,17.717370348949295,4.214706635921086/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_barbaro_ver01:data:sn84025980:00280762210:1863112001:0238/pct:44.26450742240216,41.55777606968998,17.730222993380888,4.214706635921086/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1471,7 +1471,7 @@ The morning break and pieree the shade.&quot;
 ooen ar i osir  
 This is a noble institution worthy of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_idacox_ver02:data:sn85042527:00202193997:1863121101:0060/pct:197.7936297279363,230.08529033765626,47.90975447909754,19.862133426802195/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_idacox_ver02:data:sn85042527:00202193997:1863121101:0060/pct:65.9312099093121,76.69509677921876,15.969918159699182,6.620711142267399/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1495,7 +1495,7 @@ Invade thy bounds no mortal woes
 Can reach the peaceful sleeper late,  
 While angels watch the soft repose
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn87058348:00279529376:1863122901:1139/pct:17.95946890286513,18.563261784057815,9.727463312368974,3.9909394887282925/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn87058348:00279529376:1863122901:1139/pct:17.968786396459354,18.563261784057815,9.71814581877475,3.998130370689965/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1525,7 +1525,7 @@ Attend, O earth 1 His sovereign vzord;
 Restore thy trust—a glorious form—  
 Call’d to ascend and meet the Lord.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairview_ver01:data:sn83016563:00220720408:1865041501:0001/pct:54.03784648187633,29.888803680981596,10.19456289978678,5.57898773006135/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairview_ver01:data:sn83016563:00220720408:1865041501:0001/pct:54.03784648187633,29.888803680981596,10.199004975124378,5.588573619631902/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1543,7 +1543,7 @@ Invades thy bounds,-no mortal woes
 Can reach the peaceful sleeper here,  
 While angels watch his soft repose.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_idacox_ver02:data:sn85042527:00202193997:1866030201:0136/pct:193.85092154624041,109.93470149253731,38.101451639210566,6.634794776119403/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_idacox_ver02:data:sn85042527:00202193997:1866030201:0136/pct:64.61697384874681,36.64490049751244,12.700483879736856,2.2115982587064678/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1565,7 +1565,7 @@ Invade thy bounds no&quot;mojtal woe
 Can reach the peaceful sleeper here,  
 While angels watch his soft repose
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn85054616:00212477813:1866030701:0103/pct:25.61533052039381,112.57547912838015,15.611814345991561,5.316355998949856/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn85054616:00212477813:1866030701:0103/pct:19.21927202391419,84.43160934628511,11.710919641287147,3.990548700446311/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1587,7 +1587,7 @@ Invades thy- bounds—no mortal woes
 Can reach the peaceful sleeper here  
 While angels watch the soft repose
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn83032276:00296028605:1866101001:0492/pct:53.20965358725989,59.237089201877936,13.807256608110327,4.131455399061033/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn83032276:00296028605:1866101001:0492/pct:53.20965358725989,59.24100156494523,13.829146828654299,4.139280125195618/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1620,7 +1620,7 @@ iiiviiiie my pounds ; no niorlnl woes.
 t-n reach the peaceful sleeper here,  
 hile angels watch the soft rcposo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_melon_ver01:data:sn84022549:0041562847A:1869020501:0683/pct:71.32234726688102,53.577817531305904,12.962218649517684,3.9505068574836018/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_melon_ver01:data:sn84022549:0041562847A:1869020501:0683/pct:53.518295134700445,40.19081693500298,9.73059911540008,2.9666070363744783/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1642,7 +1642,7 @@ Invace thy bounds; no mortal woos
 Can reach the peaceful sleeper here,  
 While ange&#x27;s watch the soft repose
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deltaair_ver01:data:sn86053572:00237289018:1872032801:0313/pct:15.704824976348155,161.79854841564878,37.27530747398297,10.408921933085502/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deltaair_ver01:data:sn86053572:00237289018:1872032801:0313/pct:3.928064363464269,40.449637103912195,9.323237103644107,2.6022304832713754/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1669,7 +1669,7 @@ Rest here, sweet saint, till from his throne
 The morning break and pierce the shade.  
 Funeral from Ryland chapel. Tenth and D strect
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558330:1875050601:0437/pct:115.69444444444444,53.01452628872606,41.736111111111114,15.631829283969662/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558330:1875050601:0437/pct:28.93365751997221,13.253631572181515,10.437651962486974,3.9079573209924154/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1696,7 +1696,7 @@ Rest here, sweet saint, till from his throne
 The morning break and pierce the shade.  
 Funeral from Ryland chapel. Tenth and D street
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558330:1875050701:0441/pct:115.55402615278733,241.31975770073464,41.63799036476256,15.723675731408687/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558330:1875050701:0441/pct:28.888506538196832,60.32993942518366,10.40949759119064,3.9309189328521716/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1723,7 +1723,7 @@ Rest here, sweet saint, till from his throne
 The morning break and plerce the shade.  
 Funeral from Ryland chapel, Tenth and D street
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558330:1875050801:0445/pct:67.81529979324604,353.8382277176713,41.69538249483115,16.228748068006183/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558330:1875050801:0445/pct:16.959669079627716,88.45955692941783,10.427438814201999,4.057187017001546/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1745,7 +1745,7 @@ Invade thy bounds; no mortal woes
 Can reach the peaceful sleeper here,  
 Vv bile angel? watch the soft repose
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_fezza_ver01:data:sn85025007:00415663754:1875091001:0268/pct:84.20302252637582,32.33616901935122,12.560593099515255,3.888940824530242/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_fezza_ver01:data:sn85025007:00415663754:1875091001:0268/pct:84.20302252637582,32.34240129631361,12.560593099515255,3.885824686049048/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1775,7 +1775,7 @@ throfie
 The morning break and pierce the t  
 shade
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jordan_ver01:data:2020236717:00332892861:1875091801:0185/pct:42.52348993288591,18.27316710085597,38.65771812080537,103.59136583550428/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jordan_ver01:data:2020236717:00332892861:1875091801:0185/pct:32.96345100214994,14.171033024083066,29.98127470698384,80.28169014084507/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1818,7 +1818,7 @@ invade thy bounds, no mortal woes
 Can reach the lovely sleeper here,  
 e While angels watch the sweet repose
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_henson_ver01:data:sn83016107:00415625510:1877030901:0040/pct:78.9853882777869,70.22576361221779,14.578886882285339,3.7184594953519254/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_henson_ver01:data:sn83016107:00415625510:1877030901:0040/pct:61.21384341335143,54.42912035131055,11.302909491899229,2.8852751475229863/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1845,7 +1845,7 @@ Passed through the grsre and blessed the bed ■
 Rest here, blest saint, till from his throne ’ ’  
 The morning break*, and pierce the hade.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685282:1877031501:0462/pct:50.25624070094231,4.831278794670651,11.19193255083485,5.329348773502677/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685282:1877031501:0462/pct:50.247933884297524,4.830677290836653,11.194214876033058,5.33179780876494/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1865,7 +1865,7 @@ Attend, O earth! his sov’reign word;
 Restore thy trust—a glorious form—  
 Call’d to ascend and meet the Lord
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624542:1877041401:0581/pct:96.01345668629101,103.47944526993561,14.146341463414634,3.033680039623576/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624542:1877041401:0581/pct:74.41880676139573,80.1996033523127,10.963368530830401,2.357494722026742/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1890,7 +1890,7 @@ Attend, O earth, his sovereign word !
 Restore thy trust ; a glorious i&#x27;orm  
 Shall then arise to meet the Lord.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jimmy_ver02:data:sn88061082:00296020606:1877080401:0339/pct:59.27124366910523,85.76654472896574,13.069780528981429,5.110298193104978/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jimmy_ver02:data:sn88061082:00296020606:1877080401:0339/pct:44.47572132301196,64.32767985810885,9.809992962702323,3.8354949562132803/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1906,7 +1906,7 @@ Shall then arise to meet the Lord.
 Rest here, blessed saint, till from his throne,  
 The morning break, and pierce the shade.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn84038328:00280763391:1878011101:1257/pct:66.74757281553399,204.93589743589743,38.18770226537217,3.269230769230769/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn84038328:00280763391:1878011101:1257/pct:16.686893203883496,51.23397435897436,9.546925566343042,0.8173076923076923/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1959,7 +1959,7 @@ Attend, Dearth, his sovereign word;
 Restore thy trust; a glorious lorra  
 Shall then arise to meet the Lord
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624542:1878062201:0835/pct:65.74336726180545,97.61401764632782,14.08309694643751,9.89188517459923/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624542:1878062201:0835/pct:50.950472003103584,75.65008025682182,10.918574076468813,7.675762439807384/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2025,7 +2025,7 @@ Attend, 0 earth, his sovereign word :
 Restore thy trust ; a glorious form  
 HlitUl then arise to meet the Lord
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280775034:1878070401:0542/pct:103.20567986230637,36.62458471760797,15.598106712564544,9.767441860465116/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280775034:1878070401:0542/pct:77.45963401506997,27.46843853820598,11.711517761033369,7.335548172757475/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2052,7 +2052,7 @@ Rest here, blest saint, till from his thren
 The morning break, and pierce the shade.  
 Hreak f
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_irvin_ver01:data:sn84026106:00280776567:1878112101:0673/pct:169.39271255060729,196.45940014630577,47.611336032388664,22.179956108266275/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_irvin_ver01:data:sn84026106:00280776567:1878112101:0673/pct:42.356752379024094,49.11485003657644,11.905243976513464,5.544989027066569/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2147,7 +2147,7 @@ Invade thy bounds; no mortal woes
 Can rqach the peaceful sleeper here,  
 While angels watch the soft repose
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_henson_ver01:data:sn83016107:00415625522:1881040101:0271/pct:49.922879177377894,106.72945672945673,11.842330762639246,4.436254436254436/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_henson_ver01:data:sn83016107:00415625522:1881040101:0271/pct:38.6948244565458,82.71448217497091,9.182272988887414,3.4486406431820584/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2231,7 +2231,7 @@ bed ;
 Rest hpre, sister, &#x27;till from His throne  
 The morning break and pierce the shade.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016184:1881100601:0161/pct:28.58530897784687,77.15971344289929,12.359113874854255,2.359882005899705/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016184:1881100601:0161/pct:28.579755197202253,77.14887640449439,12.361569846512532,2.363061797752809/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2253,7 +2253,7 @@ Invade thy bounds; no mortal woes
 Can reach the peaceful sleeper here.  
 While angels watch the soft repose
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_journey_ver01:data:sn84024738:00206531046:1882010301:0018/pct:178.64640451198497,72.20543806646526,29.421901926993577,8.728959861890376/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_journey_ver01:data:sn84024738:00206531046:1882010301:0018/pct:59.54880150399499,24.068479355488417,9.807300642331192,2.9096532872967917/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2279,7 +2279,7 @@ here,
 While angels watch thy sweet  
 repose.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_agate_ver01:data:2018270504:00383343562:1882022501:0248/pct:60.54269752593775,54.34940634843712,10.502793296089385,5.984976980857766/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_agate_ver01:data:2018270504:00383343562:1882022501:0248/pct:60.53303542930099,54.34282253179891,10.505106926268752,5.987280436099334/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2301,7 +2301,7 @@ Invade thy bounds! no mortal woes
 Can reach the peaceful sleeper here,  
 While angels watch thy soft repose
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84038582:00212471550:1882052001:0365/pct:78.97553516819572,230.16972165648338,37.691131498470945,15.641547861507128/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84038582:00212471550:1882052001:0365/pct:19.74765819155037,57.542430414120844,9.424584209520168,3.910386965376782/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2355,7 +2355,7 @@ Passed through the grave and blessed the deadRest
 here, blest saint, ti 1 from his throne  
 The morning break and pierce the shade
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_newfoundland_ver04:data:sn83045462:00280654590:1883030301:0394/pct:57.64705882352941,80.72241853160581,12.449903038138332,3.0035335689045937/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_newfoundland_ver04:data:sn83045462:00280654590:1883030301:0394/pct:57.64705882352941,80.72487239890067,12.449903038138332,3.010895170789164/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2418,7 +2418,7 @@ Passed through tho grave and blessed the bed;
 Rest here, blest saint till from his throne  
 The morning break, and pierce the shade
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hilfiger_ver01:data:sn85025007:00415663924:1884090501:0321/pct:18.28432119457565,64.54787779372565,15.313119000457108,5.9052696329710885/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hilfiger_ver01:data:sn85025007:00415663924:1884090501:0321/pct:18.289400172685255,64.55471259654159,15.313119000457108,5.908687034379058/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2444,7 +2444,7 @@ Attend, O earth, his sovereign word;
 Restore thy trust; a glorious form  
 Shall then arise to greet the Lord.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_franklin_ver01:data:sn82014424:00211102858:1884091101:0875/pct:121.89781021897811,168.49336455893834,42.903487429034875,20.29664324746292/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_franklin_ver01:data:sn82014424:00211102858:1884091101:0875/pct:30.480632731697426,42.123341139734585,10.728047049280065,5.07416081186573/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2470,7 +2470,7 @@ Attend, O earth, his sovereign word;
 Restore thy trust, a glorious formr  
 Shall then arise to greet the Lord.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ike_ver01:data:sn86053573:00211101994:1884091101:0293/pct:291.14832535885165,184.33322971712775,37.400318979266345,16.910164749766864/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ike_ver01:data:sn86053573:00211101994:1884091101:0293/pct:72.83064033512866,46.08330742928194,9.355675244364653,4.227541187441716/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2492,7 +2492,7 @@ Invade thy bounds; no mortal woes
 Can reach the peaceful sleeper her,  
 While angels watch the soit repose
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn83032231:00237287496:1885072501:0355/pct:160.2290076335878,371.89065407184773,36.87022900763359,14.713038500071562/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn83032231:00237287496:1885072501:0355/pct:40.080198586977275,92.97266351796193,9.222837502386863,3.6782596250178905/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2621,7 +2621,7 @@ Attend. O &lt;arth, his sovereign word;
 Restore thy trust—a glorious form  
 Shall then arise to meet the Lord
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_corinth_ver01:data:sn86090439:00517176618:1889121101:1107/pct:24.896836313617605,43.40506514419558,17.05639614855571,8.241838676621285/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_corinth_ver01:data:sn86090439:00517176618:1889121101:1107/pct:24.908298945437874,43.416044503001025,17.062127464465842,8.245498462889767/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2641,7 +2641,7 @@ Passed through the grave and blest the bed ;
 Rest here, beloved saint, till from His throne  
 The morning break and pierce the shade.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_maple_ver01:data:sn92051487:00271763219:1891112701:0312/pct:36.69330055316534,18.555417185554173,14.689612784265519,3.6861768368617684/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_maple_ver01:data:sn92051487:00271763219:1891112701:0312/pct:27.528435290501076,13.922789539227896,11.020596372579158,2.7646326276463262/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2667,7 +2667,7 @@ Passed thro’ the grave and blessed the bed;
 Rest here, blest soul, &#x27;till from his throne  
 The morning break and pierce the shade.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_honeydew_ver01:data:sn82004649:00517016196:1898060901:0788/pct:10.554561717352415,85.06700701978302,20.005963029218844,9.380982769623484/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_honeydew_ver01:data:sn82004649:00517016196:1898060901:0788/pct:10.551415797317437,85.04891535516802,20.007451564828614,9.384304551254786/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

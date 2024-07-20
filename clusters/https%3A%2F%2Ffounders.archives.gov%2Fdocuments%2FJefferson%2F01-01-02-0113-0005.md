@@ -10331,7 +10331,7 @@ and -» hich onr innocent posterity have a right to re­
 ceive from ns.”  
 By the First dent of the Day— (The heads ofDcpnri
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1814070901:0073/pct:5.665112943707422,68.21628340584213,17.335962710648978,2.5605966438781853/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1814070901:0073/pct:5.664097508514071,68.2078051205568,17.338830136822608,2.56442124451073/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10354,7 +10354,7 @@ tors, and which our innocent posterity have a
 right to receive from us.”  
 The President of the United States—May his per
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814072601:0124/pct:7.230099677102345,62.10930009587728,16.93106837006879,5.11025886864813/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814072601:0124/pct:7.230099677102345,62.11569191434963,16.9357480462352,5.103867050175775/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10579,7 +10579,7 @@ i “ The arms we have been compelled by
 “with one mind resolved to die freemen  
 “rather than-to live slaves.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn83026162:00542866561:1823021501:0090/pct:46.08621667612025,41.30242434967263,21.752694271128757,17.83755087595116/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn83026162:00542866561:1823021501:0090/pct:46.07314998582365,41.29511677282378,21.753614970229656,17.83881811748054/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10656,7 +10656,7 @@ have a rigid to receive from
 “with one mind resolved to die freemen  
 “rather than to live slaves.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn83026162:00542866561:1823022201:0092/pct:24.900171135196807,41.47636749867233,20.96406160867085,25.154894671623296/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn83026162:00542866561:1823022201:0092/pct:24.893071000855432,41.469026548672566,20.9652124322783,25.154867256637168/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10756,7 +10756,7 @@ THOMAb J. ROGERS.
 “er ltubly awaits them, if we basely cu­  
 rtail hereditary bondage upon them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn83026162:00542866561:1823030101:0096/pct:28.497550353837777,40.88858035404373,20.0870985302123,19.680666435265532/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn83026162:00542866561:1823030101:0096/pct:28.489795918367346,40.88148533749783,20.08843537414966,19.681589449939267/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10777,7 +10777,7 @@ rtail hereditary bondage upon them
 “with one mind resolved to die freemen  
 &#x27;■rattier than to life slaves.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn83026162:00542866561:1823030101:0096/pct:28.470332063146433,60.56924678930927,20.413718018508437,5.119750086775425/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn83026162:00542866561:1823030101:0096/pct:28.462585034013607,60.558736769043904,20.41496598639456,5.123199722366823/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10817,7 +10817,7 @@ cestors, and which our inhocent eos­
 evitably awaits them, if we basely en­  
 “tail hereditary bondage upon them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn83026162:00542866561:1823030801:0100/pct:6.478177326379358,60.630332578791574,21.273675542135603,19.72836496604562/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn83026162:00542866561:1823030801:0100/pct:6.476399560922063,60.619777158774376,21.274698133918772,19.729282729805014/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10838,7 +10838,7 @@ fiance of every hazard, with unabtaing
 “with one mind resolved to die freemen  
 “rather than to lice slaces.,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn83026162:00542866561:1823030801:0100/pct:8.07027175404886,80.32387254048406,19.6815811144661,4.927738115967265/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn83026162:00542866561:1823030801:0100/pct:8.068057080131723,80.30988857938719,19.68304061470911,4.931232590529248/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10885,7 +10885,7 @@ nounce ol every hazard, with unabtning
 “with one lull&#x27;d resolved Ut &lt;heJrcunen  
 “rather than In live slaves.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn83026162:00542866561:1823031501:0107/pct:54.31274346132443,32.1182091665192,20.75681691708403,25.906919129357636/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn83026162:00542866561:1823031501:0107/pct:54.29763560500695,32.11252653927813,20.75799721835883,25.906758669497524/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10913,7 +10913,7 @@ reeding generations to that wretchedness vv ti ch
 inevitably awaiis them, it we basely entail tieie­  
 uitaiy bondage upon them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1823032101:0260/pct:2.5015634771732334,29.87183221672007,14.717531790702523,7.646373434314011/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1823032101:0260/pct:2.501042100875365,29.867482161060142,14.719674864526887,7.648900538808796/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10931,7 +10931,7 @@ of the United Colonies of North Amer­
 ica, setting forth the causes and necessi­  
 ty of taking up arms, July 0, 1770.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn83026162:00542866561:1823032201:0111/pct:51.94990037005409,34.108251996450754,20.80842584685454,3.070097604259095/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn83026162:00542866561:1823032201:0111/pct:51.93511667615253,34.10220014194464,20.809618668184406,3.073988644428673/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10981,7 +10981,7 @@ fiance of every hazard, with unabtaipg
 Declaration of Congress, setting  
 forth the necessity of taking u
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn83026162:00542866561:1823032201:0111/pct:51.864503273555364,42.37799467613132,21.178479931682322,28.34072759538598/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn83026162:00542866561:1823032201:0111/pct:51.84974388161639,42.37047551454933,21.179567444507683,28.34013484740951/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11009,7 +11009,7 @@ ceeding generations to that wreichertncss wh ch
 inevitably awaits them, it we Lastly entail nere­  
 dita y bondage upon them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1823032801:0268/pct:2.14896724389735,30.732064421669108,14.437721677446277,7.6281112737920935/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1823032801:0268/pct:2.1485189820609096,30.727565510174205,14.439924906132665,7.630654369784804/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11045,7 +11045,7 @@ ce-’.Ihtg , generations to that wretch. &#x27;in ss
 whieli inevitahh awaits them, if we basely  
 entail hereditary bondage upon the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1823042601:0050/pct:76.93557119653492,18.181818181818183,19.166215484569573,12.51890438581751/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1823042601:0050/pct:76.914749661705,18.178763440860216,19.167794316644112,12.521001344086022/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11086,7 +11086,7 @@ lira—being with one iniiui icsolved to die tree
 men . athei than to live slaves.”—[Declaration  
 of Congress, sitting forth the necessity of tubin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1823050901:0314/pct:17.96106342893029,23.446864493495102,15.365292024283022,15.114749305657067/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1823050901:0314/pct:17.957304311427375,23.44343759134756,15.367308497279197,15.116194095293773/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11128,7 +11128,7 @@ persevereticc, employ for the preservation
 of our liberties ; being with one mind resolv­  
 ed to di- freemen rather than to live slaves.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1823051001:0055/pct:59.13161465400271,19.61376994122586,18.127544097693352,15.852225020990764/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1823051001:0055/pct:59.11557243624525,19.610476830087308,18.12940857297884,15.853760913364674/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11156,7 +11156,7 @@ ce.diiiggci.ei.druoslo that wietcheune&gt;» wh eh,
 uievil.ihly .rvvai s iliciu.il we hwse.y ent.ut l.eie*  
 dit r y Oo il.ige upon them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1823051601:0322/pct:18.418292427103,27.31622444541105,15.124816446402349,7.53950993185443/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1823051601:0322/pct:18.414429530201343,27.31226442447086,15.126887583892618,7.542041171354016/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11175,7 +11175,7 @@ ting forth the causes and necessity of taking
 up arms, July 6, 1775.—The petition of the  
 Representatives of the United Colonies, t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1823051701:0059/pct:58.47140566541956,17.854120832628194,17.744521646178516,2.7923506515484853/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1823051701:0059/pct:58.455784130376706,17.851099830795263,17.746460058776382,2.796108291032149/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11218,7 +11218,7 @@ of onr libertiesbeing with one mind resolv­
 ed to die freemen rather than to&#x27;live slaves.**  
 Declaration of Congress setting forth th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1823051701:0059/pct:58.4179583110636,24.55576239634456,18.038482095136292,16.567947199187678/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1823051701:0059/pct:58.402351055303235,24.55160744500846,18.04034197168047,16.56937394247039/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11237,7 +11237,7 @@ ling forth the causes and necessity of taking t ‘
 up arms, July 6, 1775.—The petition of ilie .  
 Representatives of the United Colonies, to 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1823052401:0063/pct:58.60158311345646,17.082785808147175,18.179419525065963,2.775952693823916/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1823052401:0063/pct:58.58612503297283,17.079980292330433,18.18121867581113,2.7796025619970437/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11273,7 +11273,7 @@ ceeding generations to that wretchedness
 which inevitably awaits them, if we has !v  
 entail hereditary bondage upon the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1823052401:0063/pct:58.60158311345646,23.538107752956638,18.179419525065963,12.155059132720105/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1823052401:0063/pct:58.58612503297283,23.534242075874527,18.18121867581113,12.157168664805386/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11307,7 +11307,7 @@ grateful to the compiler, nu»; be regarded as
 honorable to the American community. 7’he .  
 ancient republics raised monuments of stone t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1823052401:0063/pct:58.31134564643799,35.69316688567674,18.46965699208443,11.251642575558476/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1823052401:0063/pct:58.29596412556054,35.68730497618657,18.471379583223424,11.253900476268681/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11326,7 +11326,7 @@ ting forth the causes and necessity of taking
 up arms, July 6, 1775.—The petition of the  
 Representatives of the United Colonies, t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1823053101:0067/pct:60.14977266648837,20.764119601328904,17.892484621556566,2.7574750830564785/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1823053101:0067/pct:60.13368983957219,20.760670984886232,17.894385026737968,2.7611692409898687/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11364,7 +11364,7 @@ entail hereditary bondage Upon the n
 The arms we have been compelled by our  
 enemies to assume,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1823053101:0067/pct:60.203262904519924,27.292358803986712,17.838994383525005,13.40531561461794/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1823053101:0067/pct:60.18716577540107,27.287825942534464,17.84090909090909,13.407241322039528/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11406,7 +11406,7 @@ persevere nee, employ for the novation
 0/ our a ’e e&#x27;/es .. bring with one mind resolv­  
 ed to die feetamt rather than to liv • slaves.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1823060701:0071/pct:59.23429495820976,22.981987991994664,18.11809112968455,15.693795863909273/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1823060701:0071/pct:59.21832884097035,22.978155744538935,18.119946091644206,15.695347673836919/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11448,7 +11448,7 @@ persevt rence, employ for the preservation
 of our liberties ; being with one mind resolv­  
 ed to die freemen rather than to live slaves.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1823061401:0075/pct:59.7420048374093,25.9682224428997,17.844665412523515,15.574313141343925/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1823061401:0075/pct:59.72595378828587,25.963925202713884,17.8465878559914,15.575872910805892/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11490,7 +11490,7 @@ perseverance, employ for the preservation
 of our liberties ; being with one mind resolv­  
 ed to die freemen rather than to live slaves.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1823062801:0079/pct:59.73118279569893,27.4070385126162,18.36021505376344,15.720451527224435/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1823062801:0079/pct:59.7151303413061,27.402489626556015,18.361999462510077,15.721991701244812/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11507,7 +11507,7 @@ ed to die freemen rather than to live slaves.
 | the United Colonies of North Amen, a,  
 forth the causes and necessity of &#x27;&#x27;kin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1823071101:0384/pct:3.171247357293869,17.748538011695906,14.545454545454545,1.6374269005847952/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1823071101:0384/pct:3.170577045022194,17.745943575500657,14.547664341576834,1.64084198216635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11541,7 +11541,7 @@ aiice, employ for the preservation ol out liber­
 tjrs_being with one mind les aved to dieltce­  
 liieu lather than to live slave-:.” —j Declaratio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1823072201:0396/pct:2.6477441220080493,27.524406236339793,15.229824189790298,10.767885764243042/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1823072201:0396/pct:2.647183396865735,27.52039627039627,15.231893265565438,10.769959207459207/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11575,7 +11575,7 @@ iinre employ for the pi enervation ol oui libei­
 l„3_being with one iniuil resolved to die tree­  
 men ratnei than to live slaves.”—[Declaratio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1823072501:0400/pct:2.975311247098544,26.704795424549054,15.171977210381938,10.83736618272474/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1823072501:0400/pct:2.9746835443037973,26.700879765395893,15.174050632911392,10.839442815249267/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11609,7 +11609,7 @@ reeding generations to that Wretchedness wli di
 inevitably awai * them,if we basely entail lieie­  
 &lt;iit.ii y bondage upon them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1823080801:0416/pct:31.89245087900724,25.219042056074766,14.953464322647363,10.893691588785046/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1823080801:0416/pct:31.885856079404466,25.2153599065557,14.955541770057899,10.89575120455541/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11637,7 +11637,7 @@ reeding genet alionsto that wretchedness which
 inevitably awai » them, il m basely entail licie­  
 ditaiy bondage upon them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1823090201:0444/pct:31.916649473901384,27.859536645781727,14.792655250670517,7.474865219291855/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1823090201:0444/pct:31.910066006600662,27.855477855477854,14.794760726072607,7.477418414918415/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11665,7 +11665,7 @@ ceeding generstionsto that wretchedness wti ch
 i levitab&#x27;y avvai s ihem.it we basely entail here­  
 dit iiy bondage upon them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1823091201:0456/pct:1.4273893256102606,27.1729587357331,15.059991725279271,7.5797483172373425/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1823091201:0456/pct:1.4270941054808686,27.168983174835407,15.062047569803516,7.582297000731529/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11699,7 +11699,7 @@ afire, employ for the preservation ol our liber­
 (hh_being with one mind resolved to dieiree­  
 n,cn rather than to live slaves.”— [Dsclaratii
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1823091601:0460/pct:2.6961281167646463,27.928188793977125,14.87938374214474,10.670334443318373/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1823091601:0460/pct:2.6955816781516013,27.924145917776492,14.881434941224159,10.672408801389693/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11728,7 +11728,7 @@ ceeding generations to that wretchedness wli cli
 inevitably avvai » them,it we taseiy entail iieie­  
 ditaiy bondage upon them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1823102101:0498/pct:0.8250825082508251,27.203625200994008,14.954620462046204,7.44043268527993/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1823102101:0498/pct:0.8249123530624871,27.1996492253727,14.956692101464219,7.442999123063432/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11749,7 +11749,7 @@ ante, employ foi the piescrvation ot oui libei­
 tiis—heiug w ith one inuiil icsolved to die In e­  
 ’iieti latliei than to live slave-.&quot;—[Declaratio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1823110701:0514/pct:31.870151082074315,35.87752710225608,14.924458962841976,3.7064166422502196/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1823110701:0514/pct:31.86364564196775,35.8722718617255,14.92651561543172,3.70953566720375/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11784,7 +11784,7 @@ urei ilably atiai s them, it we ba-cly eiit nl here­
 ditary bondage upon them.  
 •• The a ins H i h &gt;v been coinpe&#x27;led by ou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1823120901:0550/pct:32.402583871639926,23.435204231560387,15.232340070848092,11.578019394651777/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1823120901:0550/pct:32.395833333333336,23.43176142206552,15.234375,11.579991185544293/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11812,7 +11812,7 @@ eiitlin e the inlamy and guilt of .t&#x27;signing site
 inevitably uwai s mein,if w c basely entail here  
 dilury bondage upon lliein
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1823122301:0566/pct:33.06105779048397,30.836746635459335,14.723299979579334,6.889994148624927/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1823122301:0566/pct:33.05430788076766,30.83223636097704,14.72539812168232,6.89264297206377/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11840,7 +11840,7 @@ ceeding generations to that wretchedness which
 inevitably awai a lliem.il we basely entail hcie­  
 dit.vy hood ge upon them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1823122601:0570/pct:32.122093023255815,27.825705512501827,15.199335548172758,7.442608568504167/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1823122601:0570/pct:32.11542453809425,27.821637426900583,15.201370147394645,7.4451754385964914/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11891,7 +11891,7 @@ seeding genet alions to that wretchedness which
 nevilably awai s them,it wc basely entail here*  
 Jit&#x27; V bondage nisatn them.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1824010601:0576/pct:16.805866775310655,27.749304436960024,14.544713790996129,6.9263435349245865/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1824010601:0576/pct:16.80244399185336,27.74524158125915,14.546843177189409,6.928989751098096/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11939,7 +11939,7 @@ ceeding generations to that wretchedness winch
 inevitably anal s them, it we basely eul ul i.ci e  
 dita.y bondage upon them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1824042701:0704/pct:1.5764364239784276,28.33308941899605,15.183571873055383,7.551587882335724/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1824042701:0704/pct:1.5761094981335546,28.32894351770559,15.185607631688097,7.554141059408838/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11967,7 +11967,7 @@ ce dmg generations to that wretchedness which
 inevitably avvai s lhciu,ii webaaeiy entail here­  
 dibny bondage upon them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1824060501:0744/pct:1.144879267277269,28.91760904684976,15.424646128226478,7.607578205316493/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1824060501:0744/pct:1.1446409989594173,28.91336270190896,15.426638917793964,7.610132158590308/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11995,7 +11995,7 @@ endure the infamy and guilt ol lesigmng sue.
 inevitably awai s them,il we basely entail hcie.  
 ititaiy bondage upon them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1824060801:0748/pct:1.116394459375646,27.393617021276597,14.967955344221625,7.254728132387707/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1824060801:0748/pct:1.1161637040099215,27.38957009898065,14.970028937577512,7.257349682375535/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12023,7 +12023,7 @@ ceedii.g generationxto that wretchedness which
 inevitably awai s them,it we b&amp;dny entail heie*  
 dit.uy bondage upon them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1824062901:0772/pct:32.070861331704336,29.74163241338814,14.905314599877824,7.119788608338227/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1824062901:0772/pct:32.064332247557005,29.737266989578746,14.907369706840392,7.122413033905769/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12057,7 +12057,7 @@ oeedirggenerationsto that wretchedne- s which
 inevitably awai s them,it we basely entail liese­  
 dit.uy bondage upon them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1824072701:0800/pct:32.87671232876713,26.246719160104988,14.761807401349417,10.396617089530475/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1824072701:0800/pct:32.86999182338512,26.242892549934393,14.763900245298446,10.398746172911503/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12085,7 +12085,7 @@ ceeding gcnci .itiousto t hat wi etched ness which
 inevitably awai s them,it we basely entail here*  
 ditaiy bondage upon them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:0039334880A:1824083101:0028/pct:33.50367947669665,29.40406976744186,14.983646770237122,7.223837209302325/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:0039334880A:1824083101:0028/pct:33.49683220927856,29.399796541200406,14.985693848354792,7.226420578404301/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12106,7 +12106,7 @@ ance, employ fot the pi esei valion ol our lihei -
 tir»—living with one mind resolved to die fire­  
 men i athi i t turn to live slave*.[ Drt ltiration 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:0039334880A:1824091701:0048/pct:33.25571549534293,35.529411764705884,15.812870448772227,3.6176470588235294/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:0039334880A:1824091701:0048/pct:33.24867724867725,35.524187619467725,15.814814814814815,3.620791060138215/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12140,7 +12140,7 @@ ceediiiggeneralionsto that wrctchediicss wInch
 inevitably awaiis them,it W’e basely entail liere.  
 dit.ny bondage upon them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:0039334880A:1824092101:0052/pct:32.36847665328544,25.409596255119954,15.782801605746883,10.634874195435927/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:0039334880A:1824092101:0052/pct:32.36163920574567,25.40587977182975,15.78474862695395,10.636975281556238/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12168,7 +12168,7 @@ cerdinegcnei.itions to that wieli liC.lucss which
 inevitably avvai s them,it we barely entail licie­  
 dita.y bondage upon them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:0039334880A:1824092401:0056/pct:32.3015371657191,28.87551379917792,15.45588544956833,7.28126834997064/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:0039334880A:1824092401:0056/pct:32.294736842105266,28.871275502715395,15.457894736842105,7.283869073829444/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12196,7 +12196,7 @@ editinggciici atiuu-’to that xx i etchedne-s xvh » h i
 inevitably avxai ft them,il we ta eiyenl.il lu ie  
 ditaiy bondage upon them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:0039334880A:1824102901:0090/pct:31.998331247392574,26.57518075844769,15.540258656654151,7.27460528257341/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:0039334880A:1824102901:0090/pct:31.991657977059436,26.57125995868988,15.5422314911366,7.2772204190026555/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12224,7 +12224,7 @@ ccedinggeneiatinii*to that wretchedness which
 mevitubU awai » them,it we basely entail here­  
 ditary bondage upon them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:0039334880A:1824110901:0102/pct:31.777076761303892,29.628002343292327,15.289169295478445,7.117750439367311/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:0039334880A:1824110901:0102/pct:31.770395290159797,29.623663786791624,15.29121110176619,7.120369014496998/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12258,7 +12258,7 @@ cecdinggeneiationsto that tvi etchedne** which
 inevitably awai s them, it we basely ent nl hei e­  
 ditaiy bondage upon them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:0039334880A:1825011101:0160/pct:31.934191098924277,21.99823425544438,15.73507698797722,10.712183637433785/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:0039334880A:1825011101:0160/pct:31.927456769295656,21.994997793144034,15.737030788696753,10.714285714285714/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12292,7 +12292,7 @@ ce ui ggeneiationsto tha* wieieliednesh wh « 11
 mev it util\ awai » t hem, it we basely entail fiei r  
 ditai V bo .d.igr upon them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:0039334880A:1825012501:0176/pct:30.943551709929956,22.83869073829444,15.34816646065101,10.289153089681491/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:0039334880A:1825012501:0176/pct:30.93717816683831,22.835339007924862,15.350154479917611,10.291312004696215/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12647,7 +12647,7 @@ unabated firmness and perse\ efance employ for the j
 preservation of their liberties, being wi ii one mind |  
 resolved to die freemen rather than to live slaves.” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826072101:0087/pct:48.78441474802769,33.2405277811403,15.34374496860409,3.2562643747730298/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826072101:0087/pct:48.77656149388281,33.236504478334545,15.346640910066538,3.259904784959251/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12847,7 +12847,7 @@ from our gallant ancestors We cannot en
 dure the infamy of entailing hereditary  
 1 oridage upon our po Imily Our caii.se 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348811:1828080701:0834/pct:33.07102919859184,52.972660205410094,14.412921930006213,3.876753941848691/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348811:1828080701:0834/pct:33.064182194616976,52.96499855365924,14.415113871635612,3.8798090830199596/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14144,7 +14144,7 @@ in cases aflecting bath life and property;
 for suspending the legislature of one of  
 the colonies; for interdicting all commerce
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1845111301:0551/pct:292.862509391435,88.70427442047433,58.0015026296018,274.31327884228864/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1845111301:0551/pct:73.2293819274845,22.176068605118584,14.503099755776818,68.57831971057216/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14275,7 +14275,7 @@ hould be sufficient to gratify, if possible
   
 to gratify, mrinisterial repacity, with the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1845111301:0552/pct:43.054489639293934,79.69449565446405,59.86185725249425,209.95522781143006/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1845111301:0552/pct:10.769821462852756,19.923623913616012,14.974083317335381,52.488806952857516/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14321,7 +14321,7 @@ Honor, justice, and humanity, forbid as
   
 tamely to surrender that frecdom which
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1845111301:0552/pct:101.76515732924021,129.9446931788254,56.17805065234075,51.46168027390045/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1845111301:0552/pct:25.455941639470147,32.48617329470635,14.052601267037819,12.865420068475112/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14372,7 +14372,7 @@ arms we have been compelled by our en-
   
 emies to assume, we will, in deflance ofo te oee ea totea e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1845111301:0552/pct:102.60936300844206,176.4550961285225,229.77743668457407,66.52620489860416/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1845111301:0552/pct:25.667114609330007,44.11377403213063,57.477442887310424,16.63155122465104/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14414,7 +14414,7 @@ ted between us, and which we sincerely
   
 tion by the Representatives
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1845111301:0552/pct:104.14428242517268,180.98498814853832,228.8564850345357,87.64814327100342/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1845111301:0552/pct:26.051065463620656,45.24624703713458,57.247072374736035,21.912035817750855/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14438,7 +14438,7 @@ Soon after the intelligence of these pro-
   
 csedings srrived on this continent, Ge
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1845111301:0552/pct:46.58480429777437,294.12694232288646,56.02455871066769,16.75006584145378/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1845111301:0552/pct:11.652908427721252,73.53173558072162,14.014206181608754,4.187516460363445/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14459,7 +14459,7 @@ the freedom that is our birth-right, and
 which we ever enjoyed till the late vio­  
 lation of it--for the protection of our
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1845111301:0552/pct:104.68150422102839,296.8132736370819,55.87106676899463,13.747695549117724/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1845111301:0552/pct:26.185448262622383,74.20331840927048,13.975811096179688,3.436923887279431/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14477,7 +14477,7 @@ of that detachment, murdered eight of the
 inhabitants, and wounded many others.  
 Frath thence the troops proceeded in war
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1845111301:0552/pct:46.12432847275518,332.1569660258098,56.33154259401381,11.272056887016065/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1845111301:0552/pct:11.537723171434056,83.03924150645246,14.090996352466885,2.8180142217540163/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14511,7 +14511,7 @@ lke array to the town of Coneord, where cition on resonabe term and they
 to releve the empire from the calamities  
 of civil war
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1845111301:0552/pct:46.12432847275518,313.1946273373716,114.12125863392171,37.661311561759284/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1845111301:0552/pct:11.537723171434056,78.2986568343429,28.546746016509886,9.415327890439821/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14540,7 +14540,7 @@ dem without regard to faith or reputation,to the oppressive and ruinous systen o
 cannon was fired from the fort, and the  
 standard lately sent to General Putha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1845111301:0552/pct:45.58710667689946,296.7606004740585,172.06446661550268,68.63313141954174/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1845111301:0552/pct:11.403340372432329,74.19015011851462,43.040890765981956,17.158282854885435/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14938,7 +14938,7 @@ cannot endure the infamy and guilt of resigning succeed
 ing generations to that wret hedness which mnevitably a  
 walts them, if we basely entall hereditary bondage upo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347910:1847082601:0034/pct:10.644041650597764,169.57110609480813,61.02969533359044,22.34762979683973/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347910:1847082601:0034/pct:2.6604973973395025,42.386397833283176,15.254482359745518,5.586066807102016/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14979,7 +14979,7 @@ We may rely with confidence upon these extracts to
 show that our ancestors believed themselves free, and  
 asked for no new privileges
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347910:1847082601:0034/pct:10.25838796760509,193.58916478555304,61.338218279984574,56.418359668924005/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347910:1847082601:0034/pct:2.5641025641025643,48.39000902798676,15.331598226335068,14.102467649714114/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15014,7 +15014,7 @@ guilt of resigning succeeding generations to that wretchedness
 which inevitably awaits them if we basely entail hereditary  
 bondage upon them. ? ? ? ? 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1847090401:0651/pct:65.23272214386459,36.091330394484004,15.627644569816644,5.629026788741946/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1847090401:0651/pct:65.23272214386459,36.09509815003202,15.646450399623884,5.6327945442899665/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15048,7 +15048,7 @@ V\ e may rely with confidence upon these extracts to show
 that our ancestors believed themselves free, and asked for no  
 new privileges
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1847090401:0651/pct:64.37235543018336,41.449078783768506,16.544428772919606,12.75008477449983/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1847090401:0651/pct:64.37235543018336,41.45284653931653,16.553831687823227,12.753852530047851/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15066,7 +15066,7 @@ reason to believe that the Di
 existence intended a part of the human race to  
 hold an absolute property over others.&quot; Look a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_buttery_ver01:data:sn83030213:00206530261:1848022601:0791/pct:46.33287398560711,191.6485776305267,41.44847649670801,7.128984348223466/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_buttery_ver01:data:sn83030213:00206530261:1848022601:0791/pct:15.444291328535702,63.88285921017556,13.816158832236002,2.3763281160744887/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15118,7 +15118,7 @@ ment of Great Britain some evidence that this
 dreadful authority over them had been granted  
 to that body.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777614:1850080101:0127/pct:120.95671981776765,64.92361927144536,51.78435839028094,22.972972972972972/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777614:1850080101:0127/pct:30.244921207518512,16.23090481786134,12.948547560280995,5.743243243243243/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15216,7 +15216,7 @@ to that wretchedness which inevitably awaits
 them, if we basely entail hereditary bondage  
 upou them.&quot; The contest, of which thes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn84024558:00296028630:1856073101:0361/pct:16.387541086241978,53.38550527390269,14.791047112224135,6.680276738119542/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn84024558:00296028630:1856073101:0361/pct:16.392758386810666,53.38550527390269,14.791047112224135,6.680276738119542/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15275,7 +15275,7 @@ resistance by force. The latter is onr choice. We have
 counted the cost of this contest, and find nothing so dreadful  
 as voluntary slavery.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661083:1857010901:0054/pct:1.9570405727923628,76.96367977881111,16.897374701670646,2.262159105190398/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661083:1857010901:0054/pct:1.9570405727923628,76.97205814586736,16.902678334659242,2.266348288718529/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15323,7 +15323,7 @@ j We have not raised armies with ambitious designs ofsep&#x27;
 urutiiig Irotn Ureal liritain, ami establishing independent ,  
 I states.&quot; These professions t-uys art able writer) of a tie- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664382:1860030201:0078/pct:15.416279378568584,64.24707386643061,12.229451600053114,2.1638634798859053/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664382:1860030201:0078/pct:15.420705528260966,64.25363102849087,12.233877749745496,2.160584898855775/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15501,7 +15501,7 @@ with June 17th, 1775, and marches down such
 a glorious path in our history, and to rekindle  
 our patriotism with some coals of fire from th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_continental_ver02:data:sn86053570:00237288877:1863061701:0582/pct:27.07749766573296,235.31518624641834,50.326797385620914,23.20916905444126/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_continental_ver02:data:sn86053570:00237288877:1863061701:0582/pct:6.774118196683018,58.828796561604584,12.590516234524644,5.802292263610315/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15649,7 +15649,7 @@ of martial law, they spoke of it as an &quot;attempt to
 supercede the course of the common law, and in  
 stead thereof to publish and order the use of mar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053571:00237289043:1867010101:0008/pct:272.6432532347505,345.4713152554879,48.613678373382626,6.7884154215089465/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053571:00237289043:1867010101:0008/pct:68.19232547387887,86.36782881387198,12.159038372630606,1.6971038553772366/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15666,7 +15666,7 @@ proclamat on of martial law, they spoke of it as an &quot;at
 tempt to sapersede the course of the common law, and  
 instead thereof to publish and order the use of martia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743579:1867010101:0019/pct:150.32467532467533,185.9022343200635,44.496753246753244,4.048996257230351/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743579:1867010101:0019/pct:50.108225108225106,61.96741144002117,14.832251082251082,1.3496654190767834/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15695,7 +15695,7 @@ of it as an &quot;attempt to supersede the course
 of the common law, and instead thereof to  
 publish and order the use of martial law.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_hypno_ver01:data:sn83045646:00279528608:1867010801:0478/pct:73.69222252975366,184.8132408857079,29.518405756988653,6.8776560053679265/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_hypno_ver01:data:sn83045646:00279528608:1867010801:0478/pct:24.564074176584555,61.6044136285693,9.839468585662884,2.292552001789309/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15714,7 +15714,7 @@ and instead thereof to publish and order
   
 the use of martial law.&quot; The virgini
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867020601:0115/pct:64.99694563225412,355.0272628135223,37.62981062919975,4.0130861504907305/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867020601:0115/pct:16.251718344279823,88.75681570338058,9.40888956774095,1.0032715376226826/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15857,7 +15857,7 @@ r the preservation of our liberties, being
 ith one mind resolved to die freemen  
 thor than live slaves.&quot; How exalted th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_forego_ver01:data:sn84024670:00280762374:1872030201:0224/pct:2.768924302788845,82.24546927950493,13.147410358565738,12.36186827758951/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_forego_ver01:data:sn84024670:00280762374:1872030201:0224/pct:2.7739043824701195,82.24546927950493,13.152390438247012,12.372918815382349/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16015,7 +16015,7 @@ they said to the British government, “We
 - find nothing so dreadful as voluntary sla­  
 3 very.” The prosenco of a strong foreig
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340664:1874112601:0391/pct:49.98394863563403,88.66816591704148,11.492776886035314,2.048975512243878/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340664:1874112601:0391/pct:49.97592681752528,88.65708931917551,11.494944631680308,2.051842598376015/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16064,7 +16064,7 @@ Great Britain and establishing independence.
 Other evidences might be multiplied to the same  
 other evidences might ne murtipited to the samh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:00271743932:1875052101:0714/pct:199.12440112340988,185.1703176969836,46.241533124070706,7.168253240050465/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:00271743932:1875052101:0714/pct:66.37480037446996,61.72343923232787,15.413844374690235,2.3894177466834883/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16150,7 +16150,7 @@ written by Jefferson, as follows: &quot;We have not
 raised armies with designs of separating from Great  
 Britain and establishing independent States. Nec
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:00206531228:1875070301:0031/pct:52.8582995951417,223.41692431008818,47.77327935222672,11.725638383144394/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:00206531228:1875070301:0031/pct:17.619433198380566,74.47230810336272,15.92442645074224,3.908546127714798/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16173,7 +16173,7 @@ ce actually offered, we have taken up arms.
 We sha  
 on the part of the aggressors, and all danger of thei
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:00206531228:1875070301:0031/pct:52.76113360323887,234.61582503148975,48.064777327935225,15.229588915607465/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:00206531228:1875070301:0031/pct:17.587044534412957,78.20527501049658,16.021592442645073,5.076529638535822/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16205,7 +16205,7 @@ concluding with these words: &quot;We have
 &quot;and all danger of their being renewed  
 &quot;shall be removed, and not before.&quot; I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84022473:00280777559:1875070501:0598/pct:69.72814107274063,35.65891472868217,43.423952975753124,38.24289405684755/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84022473:00280777559:1875070501:0598/pct:17.44164675611101,8.914728682170542,10.861973901856276,9.560723514211887/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16223,7 +16223,7 @@ with the ambitious design of separating
 from Great Britain and establishing inde­  
 pendent Sts tee.&quot; Only in “defence of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623768:1875071701:0134/pct:60.96138374899437,68.06321753391978,10.981496379726469,2.2811987475771582/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623768:1875071701:0134/pct:60.9680879592384,68.06818746583171,10.994904800214535,2.2762288156652253/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16315,7 +16315,7 @@ seeing few, that no terms of redress or
 concination could be obtained by the  
 Colonies consistently with what the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477862:1875081101:0835/pct:217.65637371338084,22.946544980443285,114.56848772763261,362.3352165725047/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477862:1875081101:0835/pct:54.44642503466033,5.736636245110821,28.659140423846306,90.58380414312617/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16380,7 +16380,7 @@ Declaration of 1773 a like sentiment is ex
 pressed, and what is more remarkable, not only  
 do the bassages in the two Declarations para
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044759:1881060501:1010/pct:58.23095823095823,298.87676000632814,53.644553644553646,11.833570637557349/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044759:1881060501:1010/pct:14.560720868318656,74.71919000158204,13.413884906819579,2.9583926593893373/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16453,7 +16453,7 @@ Our fathers said In that Fame declaration
 designs to separate from Great Britain and  
 establish Independent btute
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_borges_ver01:data:sn83030272:00175044851:1889053101:0297/pct:57.72482705611068,283.36317517159057,51.11452728670254,16.29364368845121/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_borges_ver01:data:sn83030272:00175044851:1889053101:0297/pct:14.433980395925428,70.84079379289764,12.781087833941957,4.073410922112802/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16511,7 +16511,7 @@ attacked without any imputation or
 even suspicion of offence. They  
 boast of their privileges and proffe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_johns_ver01:data:sn92073049:00295879269:1889100101:0311/pct:42.698231602966345,70.59580364212194,19.78037649743297,21.229216152019003/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_johns_ver01:data:sn92073049:00295879269:1889100101:0311/pct:32.03994293865906,52.94932699920823,14.835948644793152,15.924386381631038/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16725,7 +16725,7 @@ renewed shall be removed, and not be­
 When en. Washinston iolaed the  
 American army, he found the Britis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_dunning_ver01:data:sn84022835:00237285050:1894052501:0835/pct:144.66338259441707,180.41237113402062,57.307060755336614,64.5475372279496/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_dunning_ver01:data:sn84022835:00237285050:1894052501:0835/pct:36.18812897925652,45.103092783505154,14.335592524132265,16.1368843069874/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16751,7 +16751,7 @@ Wo have not raised armies with ambitious
 des&#x27;gn to separate from Great Britain and es­  
 tablish an independent sta&#x27;e. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_garwood_ver02:data:sn83040340:00237285281:1895062801:0229/pct:48.51129363449692,40.51262433052793,17.77891854893908,7.128283601122162/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_garwood_ver02:data:sn83040340:00237285281:1895062801:0229/pct:32.35193426908593,27.00841622035195,11.86237589866484,4.756439683754144/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16874,7 +16874,7 @@ met in Congress at Philadelphia, setting
 fcrth the causes and necessities of their  
 taking up arms.&quot; This declaration, for it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_havanese_ver01:data:sn83045462:00280655144:1897070301:0406/pct:29.248426508700483,66.24344465912228,13.88374676045909,2.5945349158156223/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_havanese_ver01:data:sn83045462:00280655144:1897070301:0406/pct:29.26231025546094,66.25379519735026,13.88837467604591,2.5945349158156223/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16907,7 +16907,7 @@ the aggressors and all danger of their be­
 Ing renewed shall be removed, and not be­  
 fore.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_havanese_ver01:data:sn83045462:00280655144:1897070301:0406/pct:29.285449833395038,70.17664918575765,13.754165124028138,9.301683687551753/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_havanese_ver01:data:sn83045462:00280655144:1897070301:0406/pct:29.299333580155498,70.17664918575765,13.754165124028138,9.31548440518907/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16936,7 +16936,7 @@ for the preservation of .ar liberties; being
 rth one mind reselv.$ to die freemen  
 rather than live slavesu&#x27;s 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_havanese_ver01:data:sn83045462:00280655144:1897070301:0406/pct:43.90966308774528,79.64394148495722,12.921140318400592,7.645597571073695/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_havanese_ver01:data:sn83045462:00280655144:1897070301:0406/pct:43.923546834505736,79.64394148495722,12.930396149574232,7.6524979298923546/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17241,7 +17241,7 @@ siity has not yet driven us to that des­
 perate measure Yet when the time came  
 they did sever the ties of uuion with th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_jonesport_ver02:data:sn83016025:00414210727:1898120701:0230/pct:14.91585473870682,20.303077160971085,11.479185119574845,6.293490026287305/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_jonesport_ver02:data:sn83016025:00414210727:1898120701:0230/pct:14.913212894084307,20.299938157081016,11.481579879560751,6.296382189239332/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17290,7 +17290,7 @@ armies with ambitious djesigns to sep­
 arate from Great Britain and establish  
 independent states.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_hawk_ver01:data:2015270501:00415623069:1899063001:0369/pct:52.555879494655,42.67247065030998,14.46064139941691,6.859253396649518/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_hawk_ver01:data:2015270501:00415623069:1899063001:0369/pct:52.560738581146744,42.67576836828914,14.470359572400389,6.862551114628677/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17316,7 +17316,7 @@ armies with ambitious designs to sep­
 arate from Great Britain and establish  
 independent states.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_abbott_ver01:data:sn95073194:0020653929A:1899070501:0206/pct:22.08686440677966,49.60581550117743,14.088983050847459,7.863212859629364/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_abbott_ver01:data:sn95073194:0020653929A:1899070501:0206/pct:16.571731355146376,37.20692126548582,10.584183335541132,5.897409644722023/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17342,7 +17342,7 @@ armies with ambitious designs to sep­
 arate from Great Britain and establish  
 : Independent states.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_fairview_ver02:data:sn86076270:00332891212:1899101901:0417/pct:66.21681415929204,44.90761271249076,15.221238938053098,6.96230598669623/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_fairview_ver02:data:sn86076270:00332891212:1899101901:0417/pct:66.20216766202168,44.90097546556311,15.22340190223402,6.964971918415608/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

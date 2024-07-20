@@ -59,7 +59,7 @@ citizens of eachmay frequent all the coasts and coun­
 trigs of the other, and reside and trade there in all  
 kinds of pioduce, maufactures and merchandise; an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1836091301:0351/pct:4.567772652879036,46.37220633407478,14.060407677428953,1.46170956466476/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1836091301:0351/pct:4.567772652879036,46.37220633407478,14.060407677428953,1.4652402640963176/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -121,7 +121,7 @@ of each may frequent with their vessels, all the
 coasts and countries of the other, and may re­  
 side and trade there in all kinds of proJuce
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1839062601:1094/pct:34.39897698209719,70.08975712777192,14.559736938253563,3.062302006335797/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1839062601:1094/pct:34.405066374375835,70.09415698697642,14.559736938253563,3.075501583949314/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

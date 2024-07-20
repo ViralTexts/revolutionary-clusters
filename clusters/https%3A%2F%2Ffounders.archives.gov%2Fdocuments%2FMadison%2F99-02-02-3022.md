@@ -93,7 +93,7 @@ manent incompatibility of interest between the
 two sections, the fulcrum or point of support  
 on which disunion could rest its lever, and par
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn84024558:00296028630:1855090101:0172/pct:77.26082267755353,65.10738783312718,14.55861962717609,7.770156302709997/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn84024558:00296028630:1855090101:0172/pct:77.27109330868382,65.11488436598073,14.55861962717609,7.770156302709997/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -143,7 +143,7 @@ reasing impractibility of retaining in the
 Jnion a large and discon&#x27;entcd section  
 gainst its will. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:0028077537A:1856052201:0734/pct:51.29716981132076,91.84819222995733,14.932193396226415,23.175387379294857/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:0028077537A:1856052201:0734/pct:38.48422294308464,68.886144172468,11.206133883810086,17.39276891982933/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -185,7 +185,7 @@ the first and most obe-aus step is nullification, the nesrl secession,
 and the last a farnttll separation.&quot;  
 Thus wrote Mr. Madison, in the stormy time
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1858042201:0284/pct:83.78896882494004,14.54339408820474,13.117505995203837,5.760695060912267/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1858042201:0284/pct:83.78896882494004,14.546542009003053,13.125499600319744,5.760695060912267/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -230,7 +230,7 @@ father of the Constitution foresaw the con
 dition of things existing at the present  
 time. He nowhere speaks of Northern ag.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_gary_ver01:data:sn82016350:00202191496:1861011601:0250/pct:109.02564102564102,58.29596412556054,43.333333333333336,40.436732306492495/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_gary_ver01:data:sn82016350:00202191496:1861011601:0250/pct:27.259905116040517,14.573991031390134,10.834722400307731,10.109183076623124/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -260,7 +260,7 @@ ration the last.&quot;
   
 If this reallv be so, then indeed hav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291049:1861021601:0056/pct:7.6126453488372094,67.98496031193427,14.244186046511627,11.112658404121989/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291049:1861021601:0056/pct:7.6171875,67.9954045397577,14.248728197674419,11.119621222670936/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -334,7 +334,7 @@ some criiicul occasion, in a course that will an(j nol eitijer save or destroy s
 end in creating a theatre of great though A. Lincoln.  
 interior extent. In pursuing this course, . &quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058250:0027174478A:1862110101:0117/pct:24.43687018375815,15.905433840821884,33.26911677534084,21.648718900854067/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058250:0027174478A:1862110101:0117/pct:18.334074403438564,11.932169822997896,24.959241144212243,16.239633618022033/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -350,7 +350,7 @@ interior extent. In pursuing this course, . &quot;
 Ihe first and most obvious Step IS nulllfica- ;Mtioni and platforms la the ltr of hU country  
 tion the next secess-ion and the last, a &#x27; n,,t de&quot; npprt an unten.pce . f boo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058250:0027174478A:1862110101:0117/pct:24.481327800829874,37.72744151503899,33.28393598103142,1.4110657259561827/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058250:0027174478A:1862110101:0117/pct:18.363717207647845,28.295581136279242,24.974062546316883,1.0644881792301026/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -369,7 +369,7 @@ T . .
 tbe Union l&amp;fge and&#x27; Cemented section  
 against its will.&quot; Sj wrote Mr. Madiso
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058250:0027174478A:1862110101:0117/pct:24.555423829282752,43.668770887486076,16.315945465323058,2.3641539794529027/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058250:0027174478A:1862110101:0117/pct:18.4230028160664,32.75157816561455,12.242478138431895,1.7823988117341256/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -408,7 +408,7 @@ i no ursi ana raw odvious step is
 nullification,&quot; says Mr. Mddison to Mr.  
 Clay, &quot;the next is Secession, and th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:0023728690A:1864063001:0554/pct:91.34009797060882,53.73968591961672,16.445066480055985,12.110726643598616/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:0023728690A:1864063001:0554/pct:68.54542272011203,40.311418685121104,12.340276562226501,9.07639073729039/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -471,7 +471,7 @@ ment the pretension was odious, &quot;that offices and emolu­
 ments were the spoils of victory, the personal property  
 of the successful candidate for the Presidency and h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grass_ver01:data:sn83030214:00206531101:1872060101:0241/pct:151.5523932729625,264.92158671586714,47.121604139715394,4.070571955719557/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grass_ver01:data:sn83030214:00206531101:1872060101:0241/pct:50.51746442432083,88.30719557195572,15.70720137990513,1.3568573185731858/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -492,7 +492,7 @@ sonal property of the successful can-­
  e i o e ee a ea i  
 a en oo  o e e ai oe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743786:1872060101:0802/pct:141.57212317666125,231.03763871410592,57.86061588330632,8.660336345955841/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743786:1872060101:0802/pct:47.19070772555376,77.01254623803531,19.286871961102108,2.88677878198528/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -516,7 +516,7 @@ in te otatif the Presdentean not apon this relations they
 e a oa izen a ee o oe o  
 It is said, should not be. But is it not for the pube
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743786:1872060101:0802/pct:137.77957860615882,240.37295503946916,62.12317666126418,12.149639629333029/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743786:1872060101:0802/pct:45.92652620205295,80.12431834648972,20.707725553754727,4.049879876444343/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -540,7 +540,7 @@ tised without the avowal, could not fall to degrade any
 administration, both together completely so.  
 These are strong words. The rule in its earl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536135:1872060101:0984/pct:112.14450422751729,203.0334265940215,50.88393543428132,14.843174790163452/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536135:1872060101:0984/pct:28.046905036524414,50.75835664850538,12.725874663590927,3.710793697540863/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -572,7 +572,7 @@ s*i Letter to _i:&lt;l&gt;rnrd Coic, Awj 29,1334. Letters and
 Writings, Trt»l IV, p 356.  
 These are strong words. The rule iu its earl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_clark_ver03:data:sn82014064:no_reel:1872060301:0002/pct:38.676415448068994,78.37723024638912,11.323584551931008,5.989804587935429/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_clark_ver03:data:sn82014064:no_reel:1872060301:0002/pct:38.68578927634046,78.38785046728972,11.314210723659542,5.989804587935429/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

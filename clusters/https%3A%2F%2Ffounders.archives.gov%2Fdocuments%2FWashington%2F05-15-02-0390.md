@@ -295,7 +295,7 @@ able to satisfy our minds that “ little villains
 should submit to fate that great ones may en­  
 joy the world in state. ’ 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_frost_ver02:data:sn85026213:print00211110090:1862020901:0004/pct:5.468042730400144,49.094153170463905,11.968133260908926,1.5509195717814988/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_frost_ver02:data:sn85026213:print00211110090:1862020901:0004/pct:5.472569255839217,49.10101564644524,11.977186311787072,1.5577820477628328/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -480,7 +480,7 @@ hall:
 That great ones may enjoy the world  
 and state, ”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_efreeti_ver01:data:sn91070630:00514152913:1897062901:0391/pct:16.264900662251655,69.56567352077214,12.62251655629139,2.7486361728913136/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_efreeti_ver01:data:sn91070630:00514152913:1897062901:0391/pct:16.26931567328918,69.56917051335851,12.62251655629139,2.7451391803049376/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

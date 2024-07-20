@@ -252,7 +252,7 @@ organised into companies, battali
 regiments and brigades, or other corps, j  
 as shall be found expedien
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808022901:0003/pct:57.725766362883185,62.039697048837816,17.709196354598177,28.741185688169235/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808022901:0003/pct:57.73267053300194,62.04404979542091,17.71610052471693,28.74989118133542/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -357,7 +357,7 @@ talent,-two cadets, four serjeants, foureor­
 porals, four-simusicianssieight axaificers, and  
 fifty. e&#x27;gght px-iyates. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216079:1808022901:0341/pct:47.476579026896346,28.56378233719893,23.828951344817167,56.97591436217663/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216079:1808022901:0341/pct:47.46940625472126,28.56123450182856,23.83038726897316,56.97380548865697/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -454,7 +454,7 @@ four corporals, two musicians, one sad­
 dler, one farrier, and thirty eight pri­  
 vates
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808030401:0920/pct:51.39040348964013,4.6362215662441395,42.148309705561616,92.7765237020316/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808030401:0920/pct:51.37639683837558,4.635416666666667,42.14363586808395,92.76475694444444/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -645,7 +645,7 @@ st o, on-rsp.a.n, one lirst lieutenant, one second
 1. ot mnt, one nstgn, four sergeants, four corpo­  
 rats, font umstuans, aud sixty-eight privates. *
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808030701:1019/pct:73.48251028806584,67.46774193548387,22.067901234567902,27.177419354838708/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808030701:1019/pct:73.46361532527642,67.45686179648443,22.068655181280533,27.177068214804063/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -662,7 +662,7 @@ t&#x27;On to the p.esent force, five regiments of infan­
 try, one regiment of riflemen, one regiment of  
 light artillery, and one regiment of cavalry. The
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808030801:0403/pct:76.38244737780948,71.57384987893462,17.3207277916518,1.6464891041162228/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808030801:0403/pct:76.36882468343143,71.56518581285559,17.323583615718448,1.6503248194326756/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -694,7 +694,7 @@ NO. 1
 IT is proposed to have engaged in the several  
 states and territories, 24,000 volunteers, to b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808030801:0405/pct:22.36913602608223,29.595588235294116,17.714182213367145,9.926470588235293/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808030801:0405/pct:22.365085114089098,29.591961769391006,17.71701074489919,9.929338724829474/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -768,7 +768,7 @@ one cornet, four sergeants, four corporals, two
 musicians, one saddler,one farrier, and thirty -  
 eigiit privates
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808030801:0405/pct:22.36913602608223,41.666666666666664,17.804745517116466,31.05392156862745/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808030801:0405/pct:22.365085114089098,41.66156108320059,17.807557648195097,31.05420087407589/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -850,7 +850,7 @@ lieutenant, two cadets, four sergeants, four
 corporals, four musician*, eight artificers,  
 and flit, eight privates
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808030801:0085/pct:78.21122740247384,26.53422750854106,18.173168411037107,39.79501455143616/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808030801:0085/pct:78.19634703196347,26.530870445344128,18.17605276509386,39.79419703103914/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -890,7 +890,7 @@ giments of infantry, one regiment of rifle­
 men, one regiment of light nrtillerv, art!  
 one of cavalry—to be enlisted for fiv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808031101:0089/pct:40.86184086184086,30.639097744360903,18.106218106218105,3.4335839598997495/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808031101:0089/pct:40.854119425548,30.635258739506327,18.10909549004787,3.437330326191371/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -960,7 +960,7 @@ posed to be raised to consist of five re­
 giments of infantry one regiment of  
 horse artillery and one regiment of ri
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808031401:0361/pct:41.88534180177169,5.570264765784114,35.88500752131038,89.28716904276986/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808031401:0361/pct:41.8783422459893,5.5696975868037875,35.8831885026738,89.28062315446492/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1032,7 +1032,7 @@ cight hundred mien each, exciufive of com-.
 mi{fioned officers, and one reziment of cav­  
 alry, to consist of eight companics of fift
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808031501:0042/pct:60.87928464977645,34.72017310907839,15.752608047690014,27.599095111635684/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808031501:0042/pct:60.87928464977645,34.72673027113865,15.752608047690014,27.602373692665815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1246,7 +1246,7 @@ shall serve twelve months in any twen­
 ty-four months, within the term of five  
 years, to be armed and equipped by th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1808031701:0344/pct:7.20350588879759,18.80401775286148,27.225417693782525,13.244569025928522/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1808031701:0344/pct:7.2015334063526835,18.799626342830454,27.22709017889741,13.249260470185272/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1310,7 +1310,7 @@ consist of eight companies, of fifty men
 each, exclusive of commissioned offi­  
 cers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1808031701:0344/pct:7.011777595179403,9.203457136183134,56.039441248972885,82.59752394300398/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1808031701:0344/pct:7.0098576122672505,9.201307800093414,56.03322380430814,82.58601899423945/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1360,7 +1360,7 @@ eight privates ; each company of artillery of one
 captain, one first and one second lieutenant, two  
 cadets, four sergeants, lour corporals, two musici
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808051101:1126/pct:28.431372549019606,73.50167812050503,21.518350930115638,17.436471152309412/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808051101:1126/pct:28.424227192762,73.48993288590604,21.519225936164865,17.437679769894537/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1447,7 +1447,7 @@ ans, and sixty-eight privates; eaJi
 company of artillery of one captain,  
 one. first and second lieutenant, tw
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808051701:0167/pct:58.91634980988593,30.31840669795763,18.688212927756656,18.178358492959532/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808051701:0167/pct:58.9051511119559,30.314561136478943,18.690996641956534,18.180280737358363/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1485,7 +1485,7 @@ sompany of artiilery of one captain, one firft
 _and one [econd licutenant, two cadets, four  
 sergeants, four corporals, two musicians
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808070501:0105/pct:6.369717239282457,24.438902743142144,16.463970811796898,13.775561097256858/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808070501:0105/pct:6.369717239282457,24.442227763923526,16.469038208168644,13.775561097256858/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1531,7 +1531,7 @@ cond lieutenant, one cornel, two cadets, four
 sergeants, four corporals, two musicians, one  
 saddler, one farrier and sixty-four privates
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808070501:0082/pct:41.14075436982521,43.069118579581485,17.68169273229071,17.438173747622066/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808070501:0082/pct:41.13318616629875,43.06365711387269,17.68457198920775,17.440189365119622/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1564,7 +1564,7 @@ sist eaeh of one Captain, one first and second Lieu­
 tenant, one ensign, four serjeants, lour corporals,  
 tw&#x27;o musician
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1813021901:0374/pct:5.1474629052940095,18.003651856360317,17.65891188862429,8.37492391965916/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1813021901:0374/pct:5.146520146520147,18.001460564751703,17.661782661782663,8.37796170074651/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1594,7 +1594,7 @@ vates. The company of rifleman shall consist of one
 captain, cne first and one second lieutenant, one en­  
 sign, four Serjeants, four corporals, two musician
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1813030201:0386/pct:23.314348704758405,60.243482538121,17.26988792945067,7.661091982292179/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1813030201:0386/pct:23.310066127847172,60.236075248985614,17.272838599069313,7.664248534776015/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1703,7 +1703,7 @@ to the commandants of regiments or bat
   
 talions, upon all instruments of musi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296027546:1857042101:0034/pct:39.208308248043345,12.921199257097374,15.909090909090908,7.52188909525073/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296027546:1857042101:0034/pct:29.41442119524311,9.697532501989917,11.937377690802348,5.638100291854603/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1727,7 +1727,7 @@ drum-major and fife-major, to examine
 and report to the commandants of regt­  
 ments or I attallions, upon a l instrumen s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn85026279:00280775095:1857042401:0148/pct:276.47907647907647,179.0787774429617,48.268398268398265,22.155259004161287/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn85026279:00280775095:1857042401:0148/pct:69.1322388598232,44.769694360740424,12.069276565036983,5.538814751040322/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1745,7 +1745,7 @@ quarter master, one paymaster, one sur­
 geon, one surgeon&#x27;s mate, one sergeant­  
 major, one quarter master sergeant, on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn85026031:00280774807:1857043001:0086/pct:26.188151041666668,21.0989010989011,15.478515625,2.71978021978022/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn85026031:00280774807:1857043001:0086/pct:19.648380270226273,15.824175824175825,11.60670682077161,2.0467032967032965/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1776,7 +1776,7 @@ Lieutenant), one Regimental Quartermaster,
 fa Lieutenant), one Surgeon, one Surgeon’s-  
 Mate, one Sergeant-Major, one Drum-Major
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_edgewater_ver02:data:sn84031490:no_reel:1863011701:0002/pct:75.90163934426229,3.553517695944978,9.690346083788707,2.435879065768735/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_edgewater_ver02:data:sn84031490:no_reel:1863011701:0002/pct:75.90163934426229,3.553517695944978,9.699453551912569,2.4394612408654535/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

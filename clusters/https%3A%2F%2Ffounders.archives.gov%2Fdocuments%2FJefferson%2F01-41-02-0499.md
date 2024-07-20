@@ -74,7 +74,7 @@ depredations of this power, fhould they
 be continued.&quot;  
 &quot;TH : JEFFERSON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803110701:0003/pct:57.719966159052454,67.76225691591345,18.14720812182741,26.06135305395782/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803110701:0003/pct:57.719966159052454,67.76225691591345,18.161308516638467,26.075047932073403/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -130,7 +130,7 @@ necessary-to restrain the eprcsiiations of this p.,w—
 er, &#x27; should they be comimxcd.&quot;  
 &quot; &#x27;ctlssH: JEFFERSON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216018:1803110801:0304/pct:74.71529479602134,51.71618625277162,22.08447455672481,23.024390243902438/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216018:1803110801:0304/pct:74.70452579994235,51.711599858105714,22.086095896992408,23.02530448149462/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -195,7 +195,7 @@ power, fhould they be continuved,
 TH : JEFFERSON,  
 Nov, 4, 1803. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1803111701:0410/pct:28.27332242225859,16.022643366970218,21.317512274959082,21.006645335958652/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1803111701:0410/pct:28.28696126568467,16.026745426203956,21.33115111838516,21.006645335958652/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -245,7 +245,7 @@ depredations of this power, should they
 be continued-’* . r  
 »TH: JEFFERSO
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1803111801:0173/pct:4.032258064516129,12.38953693884765,20.967741935483872,27.430187345351715/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1803111801:0173/pct:4.031137058659994,12.387347587913059,20.968862941340007,27.429757907757555/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -298,7 +298,7 @@ should they be continued.”
 Tu : JEFFERSQON.  
 Nov. 4, 1803. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1803112201:0392/pct:76.75253708040593,42.21405147570307,16.59640905542545,26.532843088542183/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1803112201:0392/pct:76.76294561540463,42.22067640531319,16.5912047879261,26.529530623737124/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -370,7 +370,7 @@ bout the means—“ to restrain the de»
 predations of this power, should they be  
 continued *This “ restrained&quot; an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1803112501:0177/pct:27.175141242937855,86.83651804670913,20.282485875706215,4.40552016985138/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1803112501:0177/pct:27.167466817283252,86.82115690783655,20.28381813047162,4.409163276136565/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -411,7 +411,7 @@ authorities which may be necessary to restrain the
 depredations of this power should they be con­  
 tinued.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_ahwahnee_ver01:data:sn85066387:00175037676:1898033001:0500/pct:20.35670356703567,77.43916570104287,17.51230012300123,4.287369640787949/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_ahwahnee_ver01:data:sn85066387:00175037676:1898033001:0500/pct:20.361828618286182,77.44302819621475,17.507175071750716,4.29123213595983/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

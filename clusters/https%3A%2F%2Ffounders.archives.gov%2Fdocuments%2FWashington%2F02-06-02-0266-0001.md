@@ -145,7 +145,7 @@ and sometimes very slight and indif­
 ferent goods upon us, taking care at  
 th** same time to advance the price,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_iona_ver01:data:sn90059523:00206537413:1897021501:0433/pct:57.247914014990805,15.287083805793218,12.459340970159808,3.793423358416658/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_iona_ver01:data:sn90059523:00206537413:1897021501:0433/pct:57.25734219582331,15.290519877675841,12.4499127893273,3.8002955021819056/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -181,7 +181,7 @@ ters, this good woman made the long and peril­
 ous fourneys from her home in Mt. Vernon  
 and spent every winter in camp with her hus
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:0017504291A:1897022101:0685/pct:71.96261682242991,327.1287128712871,50.93457943925234,17.66945925361767/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:0017504291A:1897022101:0685/pct:17.994157740993185,81.78217821782178,12.736124634858813,4.417364813404418/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -203,7 +203,7 @@ sometimes old and sometimes vory slight
 and indifferent goods upon ub, taking &#x27;flr  
 at the same time to advance tho price,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chester_ver02:data:sn84024442:0021110207A:1897030301:0492/pct:85.02415458937197,128.52272727272728,18.055555555555557,5.636363636363637/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chester_ver02:data:sn84024442:0021110207A:1897030301:0492/pct:56.70492298399275,85.68181818181819,12.035638779824826,3.7613636363636362/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -229,7 +229,7 @@ of the army, and the army went into
 winter quarters, this good woman made  
 the long and perilous journeys from he
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn86071719:00280777729:1897041401:0546/pct:66.1144578313253,191.50259067357513,49.84939759036145,25.699481865284973/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn86071719:00280777729:1897041401:0546/pct:16.531726605159104,47.87564766839378,12.464695914140464,6.424870466321243/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -260,7 +260,7 @@ riot. should be held up as a pattern
 for all youth to cut their coming  
 lives by.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_belle_ver01:data:sn85033078:00271768588:1898021701:0190/pct:69.59385290889132,82.70525575319063,12.609769484083424,8.612199778916692/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_belle_ver01:data:sn85033078:00271768588:1898021701:0190/pct:69.59842663739481,82.70525575319063,12.623490669593853,8.622249020198975/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -282,7 +282,7 @@ afford that, then to be thrown Into a
 genteel Night Gown.&quot;  
 There ran be no question but wha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_eritrea_ver01:data:sn84026844:00202193699:1898022201:0371/pct:30.131248254677466,86.12602935911207,14.018430605975984,3.6877909058360188/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_eritrea_ver01:data:sn84026844:00202193699:1898022201:0371/pct:30.138229544819882,86.13498030791264,14.025411896118403,3.692266380236305/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

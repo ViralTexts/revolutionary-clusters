@@ -722,7 +722,7 @@ to them. 1 have the honor to be,
 &#x27; With very great esteem, Sir,  
 ~ Your most obedient Servant
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1783080901:0403/pct:6.836167705000842,16.868120008633714,65.60026940562385,75.27519965465142/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1783080901:0403/pct:6.841780322164225,16.875314770846824,65.60026940562385,75.27519965465142/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

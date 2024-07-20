@@ -488,7 +488,7 @@ as feice is lelt to any but a permanent, standing
 th armny, I mean, one to exist during the  
 Carrenen Towse et a well conrisce
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn93068003:00295862300:1864031801:0036/pct:74.17501231324906,57.123793882159724,73.94516499753735,17.542599055635392/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn93068003:00295862300:1864031801:0036/pct:24.725004104416353,19.041264627386575,24.64838833251245,5.847533018545131/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -624,7 +624,7 @@ by whole regiments, by half ones, and by
 companies at a time.&quot;  
 The American forces on Long Islan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:0041562377A:1876081901:0151/pct:83.99100388468617,42.303696007124834,11.286035575546922,8.891197862550097/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:0041562377A:1876081901:0151/pct:84.0046343624344,42.30864380782742,11.272405097798678,8.90604126465786/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -824,7 +824,7 @@ regularity and oonfusion they occa­
 oth is daye after this serious r­  
 monstrance, congress resolved t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_dunning_ver01:data:sn84022835:00237285050:1894062901:0867/pct:73.05487305487306,23.086716650162682,192.7927927927928,345.7914839439808/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_dunning_ver01:data:sn84022835:00237285050:1894062901:0867/pct:18.274943659086254,5.7716791625406705,48.227822167588606,86.4478709859952/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -865,7 +865,7 @@ in order to repair our losses, are dis­
 mayed, intractable and impatient to  
 return. Great numbers, almost b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_horseradish_ver02:data:sn87068097:00383340275:1898021201:0169/pct:37.37286674711257,50.80091533180778,10.394759524219962,2.5600686498855834/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_horseradish_ver02:data:sn87068097:00383340275:1898021201:0169/pct:37.36642537056188,50.79365079365079,10.397276801103068,2.563277563277563/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

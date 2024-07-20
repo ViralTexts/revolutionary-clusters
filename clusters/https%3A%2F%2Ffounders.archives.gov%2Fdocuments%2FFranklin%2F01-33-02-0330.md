@@ -200,7 +200,7 @@ to support it, so that its professors are obliged to
 call upon the civu power, it is a sign, I apprenend,  
 of its being a bad one.&quot; &quot;Nothing,&quot; he says else
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743889:1874102601:0352/pct:55.81472842385871,207.57909375362152,46.417860713095635,19.97914010893499/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743889:1874102601:0352/pct:18.60490947461957,69.19303125120717,15.472620237698544,6.6597133696449955/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -363,7 +363,7 @@ obliged to call for help from the civil
 power, I apprehend of its being a bad  
 one.&quot; President Garfield said: &quot;The di
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_joyce_ver01:data:sn83030193:00206535210:1894031201:0303/pct:245.4614797864226,181.80630409929773,45.46147978642258,12.542871141597256/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_joyce_ver01:data:sn83030193:00206535210:1894031201:0303/pct:61.36536994660565,45.45157602482443,11.365369946605645,3.135717785399314/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -426,7 +426,7 @@ civil power, it is a bad sign, l appre
 knnil nf (in iuilmf a funk  
 bend, of its being a bad on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_larkspur_ver01:data:2017270212:00279527549:1894060101:0667/pct:10.289115646258503,67.87557539405775,18.707482993197278,4.756590877388757/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_larkspur_ver01:data:2017270212:00279527549:1894060101:0667/pct:7.721761327377154,50.91365601897057,14.060838119549032,3.570930394755196/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -446,7 +446,7 @@ bend, of its being a bad on
  from the civil power, it is a sign, I apprehend,  
  of its being a bad one
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_stein_ver01:data:sn83030272:00175045144:1894060401:0268/pct:7.180254300673149,264.2911067492073,71.20418848167539,8.696965121546127/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_stein_ver01:data:sn83030272:00175045144:1894060401:0268/pct:1.7960710944808231,66.07277668730183,17.811038353601496,2.1742412803865316/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -496,7 +496,7 @@ professors are obliged to call for help
 from the civil power it is a sign I  
 apprehend of Its being a bad on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_dantley_ver01:data:sn85058130:00175048613:1894090901:0232/pct:63.62605314322748,4.9063032367972745,19.604666234607908,4.735945485519591/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_dantley_ver01:data:sn85058130:00175048613:1894090901:0232/pct:42.43799643378181,3.270868824531516,13.08153671583725,3.157296990346394/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -539,7 +539,7 @@ The churches enjoy no immunity
 from tho operations of the laws of  
 God. They place roofs upon thei
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_larkspur_ver01:data:2017270212:0027952746A:1896112001:0924/pct:88.61062717770035,84.77554636739515,18.880662020905923,7.634376845835795/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_larkspur_ver01:data:2017270212:0027952746A:1896112001:0924/pct:66.50686424057528,63.58535144713526,14.164305949008499,5.729474305965741/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -560,7 +560,7 @@ it so its professors are obliged to call to
 help from the civil power, it is a sign, I  
 apprehend, of its being a bad on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_hotel_ver02:data:sn86071197:00175034857:1897020801:0816/pct:259.0034965034965,297.82204963700826,50.87412587412587,12.949518824919805/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_hotel_ver02:data:sn86071197:00175034857:1897020801:0816/pct:64.77918670747704,74.45551240925207,12.724092697857456,3.237379706229951/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -597,7 +597,7 @@ a bad one.” All patriotic citizens
 should agree with the patriotic Benja­  
 min. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_elizabethtown_ver01:data:sn86090439:00517175158:1897042501:0953/pct:1.3412489006156552,50.50776583034648,15.98504837291117,12.335722819593787/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_elizabethtown_ver01:data:sn86090439:00517175158:1897042501:0953/pct:1.3522427440633245,50.518966547192356,15.99604221635884,12.343189964157705/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

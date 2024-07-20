@@ -118,7 +118,7 @@ f only the full recovery of the said debts has been
 1; &quot; have been in feveral|inftances impaired and leff­  
 -I,j &quot; ened, so that by the ordinary course of judicia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797060201:0002/pct:27.806997484564373,48.388050872522925,16.64761033615367,3.1203785862170954/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797060201:0002/pct:27.81843128287217,48.399142265601895,16.664761033615367,3.1129843241644486/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -137,7 +137,7 @@ ere &quot; causes, as would equally have operated to pro­
 14 been occasioned by the manifeft delay, ornegli­  
 &#x27;fl* &quot; gepc?, or wilful omission of the claimant
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797060201:0002/pct:27.806997484564373,58.39988169180716,16.76194831923165,3.1055900621118013/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797060201:0002/pct:27.81843128287217,58.4072759538598,16.773382117539448,3.1092871931381247/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -161,7 +161,7 @@ ere &quot; causes, as would equally have operated to pro­
 By order of the Board,  
 GRIFFITH EVANS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797060501:0001/pct:39.7534310304722,34.14812646370024,15.95719934868574,5.518149882903981/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797060501:0001/pct:39.7534310304722,34.15910421545667,15.96301465457083,5.518149882903981/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -180,7 +180,7 @@ delayed, but alfothe value and security tnereof
 &#x27; have been in fevcral inl&#x27;tanccs impaired and ieff­  
 -14 enei, so that by the ordinary course
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797060601:0003/pct:56.5767878077374,76.0484347312463,15.920281359906213,2.9238038984051977/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797060601:0003/pct:56.5767878077374,76.05950974601299,15.955451348182883,2.9311872415829887/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -199,7 +199,7 @@ n of va­
 &quot; have been in several instances impaired and jeff­  
 &quot; ened, so that by the ordinary course
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797060701:0004/pct:11.590485074626866,19.98234255444379,15.811567164179104,3.0459093584461447/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797060701:0004/pct:11.596315298507463,19.986021188934668,15.811567164179104,3.060623896409653/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -221,7 +221,7 @@ es occalion­
 Br order of the Board,  
 GRIFFITH EVANS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797060701:0004/pct:11.730410447761194,29.355503237198352,15.764925373134329,4.532077692760447/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797060701:0004/pct:11.736240671641792,29.355503237198352,15.78241604477612,4.532077692760447/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -245,7 +245,7 @@ u ed by such insolvency of the debtors or other
 By order of the Board,  
 GRIFFITH EVANS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797060801:0004/pct:11.71731123388582,28.520814880425156,15.630755064456721,5.491585473870682/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797060801:0004/pct:11.71731123388582,28.52450546206082,15.659530386740332,5.495276055506348/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -269,7 +269,7 @@ been occasioned by the manifeft delay, ornegli­
 By order of the Board,  
 GRIFFITH EVANS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797060901:0001/pct:72.74208566108007,50.38839220284333,15.758845437616387,5.554741316136597/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797060901:0001/pct:72.74790502793296,50.39205628022864,15.7530260707635,5.573061703063169/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -291,7 +291,7 @@ GRIFFITH EVANS
 By order of the hoard,  
 GRIFFITH EVANS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797061001:0001/pct:72.70168855534709,51.20117907148121,15.924015009380863,4.539425202652911/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797061001:0001/pct:72.71341463414635,51.21223286661754,15.929878048780488,4.5431098010316875/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -310,7 +310,7 @@ i* delayed, but also the value and security thereof
 ,c have been in several instances impaired and leff­  
 -14 ened, so that by the ordinary course
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797061201:0001/pct:72.69759850781068,41.45583666222814,15.994404290044299,2.8110667258470188/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797061201:0001/pct:72.69759850781068,41.46693297825122,16.006062019118676,2.814765497854712/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -331,7 +331,7 @@ existed ; nor to furfi losses br damages as have
 By order as the Board,  
 GRIFFITH EVANS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797061301:0001/pct:72.35621521335807,51.348973607038126,15.538033395176253,4.120234604105572/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797061301:0001/pct:72.36781076066791,51.348973607038126,15.555426716141001,4.1385630498533725/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -355,7 +355,7 @@ existed ; nor to furh losses or damages as have
 By order of the Board,  
 GRIFFITH EVANS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797061501:0001/pct:72.48554913294798,50.54459817486017,15.976878612716764,5.5342949661466/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797061501:0001/pct:72.5028901734104,50.55563732705328,15.976878612716764,5.541654400942008/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -373,7 +373,7 @@ sses or damages ?s have
 By order of the Board,  
 GRIFFITH EVANS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797061601:0001/pct:76.84717208182911,53.76980950856411,16.726835138387486,2.785336961741636/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797061601:0001/pct:76.86522262334536,53.76980950856411,16.738868832731647,2.7973427245077636/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -395,7 +395,7 @@ s to extend to such losses only as
 •• been occasioned by the manifeft delay, or negli­  
 &#x27;• fecncc, or wilful omiflTon of the claimant.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797061901:0004/pct:75.76961271102284,26.228472112498025,17.229394240317777,4.834887027966503/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797061901:0004/pct:75.76961271102284,26.240322325801863,17.24180734856008,4.830936956865224/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -414,7 +414,7 @@ ebtors or pthcr
 &quot; lieea occasioned by the manifeft delay, or negli­  
 &lt;• or wilful omission of the claimant
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797062301:0004/pct:77.6470588235294,28.877790834312574,15.778546712802768,2.9670975323149236/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797062301:0004/pct:77.65282583621683,28.885135135135137,15.80161476355248,2.9670975323149236/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -433,7 +433,7 @@ been occasioned by the manifeft delay, ornegli­
 By ordtr of the Board,  
 GRIFFITH EVANS, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797062801:0001/pct:42.49815225424982,50.23203712594015,18.181818181818183,3.5845735317650824/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797062801:0001/pct:42.51047055925105,50.236037766042564,18.1879773343188,3.5925748119699152/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -455,7 +455,7 @@ GRIFFITH EVANS,
 &quot; been occasioned by t,he manifeft delay, or nco-li.  
 ft teucc, or wilful omiflion of the claimant.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797070801:0001/pct:41.09788681078455,42.94590089407486,16.905513723585134,4.637066222154872/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797070801:0001/pct:41.110031576390575,42.957266252462496,16.92373087199417,4.633277769358994/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -474,7 +474,7 @@ s or other&#x27; t
 &quot; been occasioned by the manifeft delay, or ncgli- t  
 &#x27;• tcucc, or wilful qmiflion ps the claimant.&quot; l
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797071101:0001/pct:41.31432713215752,44.600725952813065,17.68543126359024,2.9945553539019962/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797071101:0001/pct:41.3203672384634,44.60450695704779,17.69147136989611,2.9983363581367213/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -495,7 +495,7 @@ s or other&#x27; t
 By order of the Board,  
 GRIFFITH EVANS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797071801:0001/pct:40.90357056108817,55.27426160337553,16.686907942676708,4.17420132610006/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797071801:0001/pct:40.909642943891185,55.28179626280892,16.69905270828273,4.166666666666667/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

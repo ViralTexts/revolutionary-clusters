@@ -114,7 +114,7 @@ Ihe country from a repetition of .bos. dep.
 redaiiona which it bath already suffered,  
 but alan In onerate nrTensivelv aud strik
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn85038443:00280776385:1863031001:0735/pct:38.32897033158813,51.489015459723355,17.38656195462478,15.915378356387306/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn85038443:00280776385:1863031001:0735/pct:28.764731558271496,38.616761594792514,13.051069402007856,11.9446704637917/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -140,7 +140,7 @@ from pIund..ri ,heir fciniiCs from insult,
 j ,ud their own persons from abuse, hopeless  
 cobfioemcnt, or perhaps . violent death
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn85038443:00280776385:1863031001:0735/pct:38.045375218150085,71.99349064279902,17.233856893542757,8.087876322213182/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn85038443:00280776385:1863031001:0735/pct:28.546486250545613,53.995117982099266,12.941946748144915,6.069975589910496/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -235,7 +235,7 @@ price will be given, and the proprietors
 may assure themselves that they will  
 render a most essential service to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_honda_ver01:data:sn85025620:00212479378:1894092701:0297/pct:23.604999119873263,75.40942617827228,15.279000176025347,3.462932866608326/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_honda_ver01:data:sn85025620:00212479378:1894092701:0297/pct:21.254686592385276,67.86933203315456,13.74557744098854,3.120429058995612/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

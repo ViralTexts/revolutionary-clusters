@@ -610,7 +610,7 @@ Depariment of State,
 . April 3d, 1798,  
 The names designated by the letters 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798041901:0483/pct:5.799348736238176,48.3189146677153,16.70026360676074,34.7620920173024/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798041901:0483/pct:5.809686256267121,48.3189146677153,16.70026360676074,34.77192292567833/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -830,7 +830,7 @@ By the President of th&quot; United St es,
 TIMOTHY PICKERING,  
 Srcretarif of State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809122501:0002/pct:59.23630547780888,3.212128999100604,35.14594162335066,90.28652190671977/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809122501:0002/pct:59.24963347994136,3.2164118377660715,35.13927762228442,90.28652190671977/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -887,7 +887,7 @@ JOHN ADAMS.
 By the President of the United States.  
 TIMOTHY PI KI RING
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810010101:0855/pct:51.779535343549185,16.664001279385896,21.255561047948593,22.565168719014874/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810010101:0855/pct:51.7667407956511,16.66133674448353,21.25648628613788,22.565558042852576/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -906,7 +906,7 @@ America and the French Republic, and of
 restoring that harmony and good understan  
 ding, and that commercial and friendly in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810010201:0292/pct:59.13452833604925,67.35090489493501,17.291327177258736,2.7936353698530305/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810010201:0292/pct:59.12382331643737,67.342725285402,17.294231233405746,2.797344344587483/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -977,7 +977,7 @@ TIMOTHY PICK EE ING,
   
 beert-1ary ol State*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810010201:0292/pct:76.80608365019012,14.28397910846593,17.689661415897156,30.7785740313373/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810010201:0292/pct:76.79217958001448,14.282244352683993,17.692493362297853,30.778884300866327/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1071,7 +1071,7 @@ IV,
 &#x27; The Secretary of State to the .Minister of Foreign Af  
 fatri of Hungar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:0041566137A:1850052301:0639/pct:18.23881447705899,59.417540727516176,15.97321174123682,17.819683106449453/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:0041566137A:1850052301:0639/pct:18.248313859599126,59.417540727516176,15.968462049966751,17.82712192218999/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1198,7 +1198,7 @@ Q. Did any other person, so far as you know, hold
 a similar authority from the President of the United  
 States in regard to the formation of the treat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743701:1870062301:1012/pct:54.5679012345679,176.36588937704178,51.851851851851855,31.880139686831136/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743701:1870062301:1012/pct:18.189300411522634,58.788629792347265,17.28395061728395,10.626713228943713/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1224,7 +1224,7 @@ States in regard to the formation of the treat
 igan, for and in the name of the United States,  
 to meet and confer with the plenipotentiarie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_hobbs_ver01:data:sn84024283:00294556849:1888030101:0074/pct:42.780748663101605,27.602630982082104,15.834818775995247,0.9639374007711499/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_hobbs_ver01:data:sn84024283:00294556849:1888030101:0074/pct:32.09032833160006,20.707643456566114,11.885306789481504,0.7257881605806306/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

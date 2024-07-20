@@ -44,7 +44,7 @@ tbc fact that false pride is one of the most&#x27;
 fearful errors of our tocial system. Its  
 victims may be counted by hundreds. It 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn85059716:00202193018:1852112401:0224/pct:29.915134370579914,61.87399030694669,13.666902404526168,4.890585989132031/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn85059716:00202193018:1852112401:0224/pct:29.915134370579914,61.885005140255544,13.693422913719944,4.890585989132031/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -171,7 +171,7 @@ Pride still is aiming at the blest abodes,
 All quit their sphere and rush into the skies.  
 Pride still is aiming at the blest abodes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_leek_ver02:data:sn99068116:00340581222:1896060401:0155/pct:23.431158289103966,66.78620398692121,14.408367155791446,1.3817107900010548/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_leek_ver02:data:sn99068116:00340581222:1896060401:0155/pct:23.4350608804246,66.78620398692121,14.41617233843272,1.3948950532644235/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

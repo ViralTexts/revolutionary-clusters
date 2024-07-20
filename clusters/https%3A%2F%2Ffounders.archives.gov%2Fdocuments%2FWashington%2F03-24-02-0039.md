@@ -187,7 +187,7 @@ follows: &quot;The present state of the army with respect
 to provisions is the most distressing of any we have  
 experienced since the beginning of the war.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:0027174397A:1876061701:0992/pct:12.453198762819468,258.47476804706946,45.124531987628195,3.9714867617107945/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:0027174397A:1876061701:0992/pct:4.1510662542731565,86.15825601568983,15.041510662542732,1.3238289205702647/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

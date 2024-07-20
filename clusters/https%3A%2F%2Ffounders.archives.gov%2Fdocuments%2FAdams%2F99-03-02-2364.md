@@ -365,7 +365,7 @@ and this mortal shall put on immortality.&quot;
 Heaven lifts its everlasting portals hich,  
 And bids the pure in heart behold their God.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530212:1845031901:0471/pct:133.24480549914077,209.95992456388495,40.7905014841431,16.371994342291373/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530212:1845031901:0471/pct:44.41493516638025,69.98664152129498,13.596833828047702,5.457331447430457/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -401,7 +401,7 @@ And bids the pure in heart behold their God.
 Heaven lifts its everiasting portals high,  
 And bids the pure in heart behold their God.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845032001:0238/pct:96.97754749568222,212.93264733395696,29.63442717328728,2.3269410664172123/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845032001:0238/pct:32.32119729457476,70.96925055536069,9.876720871108553,0.7755563350091585/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -430,7 +430,7 @@ Twas even to him; but the dark vale once trod,
 Heaven lifts its everlasting portals high.  
 And bids the pure in heart behold their God
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1845032101:0133/pct:2.7160864345738296,87.50240338396462,14.390756302521009,6.325706594885599/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1845032101:0133/pct:2.7160864345738296,87.50881240787028,14.395758303321328,6.325706594885599/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -473,7 +473,7 @@ and, this mortal shall put on immortality.&quot;
 Heaven lifts its everlasting portals high,  
 And bids the pure in heart behold their God.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1845032201:0120/pct:32.9520697167756,34.380434782608695,15.073529411764707,7.380434782608695/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1845032201:0120/pct:32.961147421931734,34.380434782608695,15.078068264342773,7.38768115942029/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -578,7 +578,7 @@ im mortality.
 Heaven lifts its everlasting portals high,  
 And bids the pure in heart behold their God.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1845032701:0421/pct:14.492753623188406,255.81213307240705,113.50114416475972,115.06849315068493/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1845032701:0421/pct:3.6245707745135443,63.95303326810176,28.386112170927127,28.767123287671232/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -606,7 +606,7 @@ Twas, even to him; but the dark vale once trod,
 Heaven lifts its everlasting portals high,  
 And bids the pure in heart behold their God.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:0041566770A:1845032801:0615/pct:7.192982456140351,179.63369963369962,57.89473684210526,28.71794871794872/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:0041566770A:1845032801:0615/pct:1.7982456140350878,44.908424908424905,14.473684210526315,7.17948717948718/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -634,7 +634,7 @@ put on immortality.&quot;
 Heaven lifts its everlasting portals high,  
 And bids the pure in heart behold their God.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776956:1845032801:0045/pct:126.46616541353383,316.1418439716312,48.57142857142857,22.921985815602838/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776956:1845032801:0045/pct:31.62248542959203,79.0354609929078,12.14514006392179,5.7304964539007095/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -716,7 +716,7 @@ the purest enjoyments of heaven. Which
 Lifts its everlasting portals high.  
 And bids the pure in heart behold their God.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022743:1855122201:0427/pct:105.20833333333333,37.928082191780824,17.142857142857142,1.577788649706458/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022743:1855122201:0427/pct:78.94893553669793,28.44911937377691,12.86288521661456,1.186399217221135/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -742,7 +742,7 @@ the purest enjoyments of heaven. Which -
 Lifts its everlasting portals high.  
 And bids the pure in heart behold their God.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022639:1855122601:0630/pct:107.04610951008645,66.5174672489083,19.89913544668588,6.888646288209607/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022639:1855122601:0630/pct:80.31132891323148,49.890829694323145,14.932257134620928,5.17467248908297/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -783,7 +783,7 @@ Twas e&#x27;en to thee) yet the dread path ofce tred,
 Heaven lifts its everlasting portals high,  
 And bids the pure in heart behold their God
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:0028077473A:1866100301:0017/pct:276.51349380014585,66.4388961892247,50.182348650619986,10.670170827858081/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:0028077473A:1866100301:0017/pct:69.14098121466351,16.609724047306177,12.547875250775123,2.6675427069645203/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

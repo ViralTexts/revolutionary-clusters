@@ -552,7 +552,7 @@ ty ley), or to a recovery thereof, with
 costs by action of debt, against the instices  
 rcfuctsmg to levy the same.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802072201:0256/pct:7.850048061518744,8.5307196660314,46.074975969240626,90.6888102368636/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802072201:0256/pct:7.848790645522985,8.52994555353902,46.07293502055636,90.68360556563823/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -580,7 +580,7 @@ cither party, to mect on some certain place
 ‘¢anal is proposed to be condu&amp;ed, and on  
 a certain day to be cxpreiled in th ¢ warran
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1812072101:0325/pct:6.9602710194025255,42.57012134473841,16.599938404681243,8.006763477222997/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1812072101:0325/pct:6.9602710194025255,42.57343677474969,16.61020429114054,8.003448047211723/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -646,7 +646,7 @@ costs shall, in like manner, be adjudged against
 the party applying for the landing, if the corn t  
 shall he of opinion ihat the same ought not t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813022501:0059/pct:56.27124405166553,38.92958412098299,15.771583956492183,13.338846880907372/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813022501:0059/pct:56.26168224299065,38.92498523331364,15.774568111016709,13.341208899389644/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -684,7 +684,7 @@ of the inqu.st: K all costs shall, hi like mtti&#x27;irr, be
 adjudged against the party applying lor the landing,  
 if the court sindl be oi opinion that the same ought -
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1813030201:0386/pct:23.00202094433217,4.648303000491884,35.97280911262172,90.60501721593704/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1813030201:0386/pct:22.997795738427627,4.647731464404279,35.97232427136909,90.59797532685766/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -746,7 +746,7 @@ visor snail contract for hiring the same, at a
 reasonable rate ; and the account of the owner  
 shall be certified by tile supervisor, and pai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898000:1819081401:0043/pct:2.850418410041841,63.93388429752066,17.494769874476987,26.231404958677686/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898000:1819081401:0043/pct:2.849673202614379,63.92331845975872,17.49673202614379,26.231201454305072/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -783,7 +783,7 @@ priated for opening, improving, ami repairing
 roads, or to an action of debt against tlie said  
 commissioners refusing to pay tlie&#x27;same out o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898000:1819081401:0043/pct:3.0334728033472804,10.892561983471074,35.35564853556485,85.35537190082644/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898000:1819081401:0043/pct:3.0326797385620914,10.890761857544208,35.35294117647059,85.34539745496612/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -926,7 +926,7 @@ more! (except such as tire masters of two or more male la
 • boring sleeves, of the age of sixteen years or more ) shall be  
 “ appointed by the Court, to mark ontomrpub&#x27;ic road&quot;.’—If
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183980:1824052101:0021/pct:17.65943671090968,46.53105702869597,15.085788280997086,3.1601888848528876/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183980:1824052101:0021/pct:17.656578734423046,46.52542372881356,15.088741436046826,3.1638418079096047/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -946,7 +946,7 @@ at are m isters of two or more male laboring
 slnrrt, of the age of sixteen years or more,) shall  
 be appointed by the Court to work on some pub
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184522:1824052501:0141/pct:2.9953547973730577,82.97474275023386,15.393240429280795,3.1688493919550984/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184522:1824052501:0141/pct:2.994875080076874,82.96504150590437,15.39611360239163,3.1723761643088193/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -982,7 +982,7 @@ said petition, were both novel and difficult, adjourn­
 ed the following questions to the General Court  
 for their decision, to wit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826081101:0113/pct:49.03647077560121,42.543701024713684,14.906832298136646,11.259795057263412/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826081101:0113/pct:49.02866242038217,42.53857280617165,14.909766454352441,11.262455801992928/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1195,7 +1195,7 @@ passes to keep the same in repair; prohibits horse-racing
 ill roads, under a penalty not less thun jjjilO nor more  
 than 4:10; vests in the courts tho power of establishin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:0041418408A:1835032001:0435/pct:80.49284140969164,34.42088091353997,14.936674008810572,3.1538879825992385/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:0041418408A:1835032001:0435/pct:80.481761871989,34.41713788603741,14.939206239963294,3.1571697839640422/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1217,7 +1217,7 @@ aonuhle excuse, may give judgment for the penalty utul
 costs imposed l&gt;v the act for such default; or the olt’end­  
 er* may be presented by the grand juries; prosecution
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:0041418408A:1835032001:0435/pct:80.23127753303964,37.85753126699293,15.184471365638766,3.5997824904839586/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:0041418408A:1835032001:0435/pct:80.22023399862354,37.85341452805567,15.186969488414775,3.603015803972742/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1237,7 +1237,7 @@ paySI 6tJ cents for every 24 hours the
 same is continued. The owner of every  
 dam over which a public, road passes t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348951:1835032601:0024/pct:26.909854851031323,60.73402295593028,13.808250572956455,3.3583675782910585/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348951:1835032601:0024/pct:26.90471644071033,60.7254179654293,13.810387626503724,3.361433833947294/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1262,7 +1262,7 @@ the penalty and costs imposed by the act
 for such default; or the offenders may be  
 presented by the grand juries; prosecu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348951:1835032601:0024/pct:26.757066462948817,66.89811534646451,13.941940412528648,6.135751735865099/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348951:1835032601:0024/pct:26.751957227420277,66.8886370076509,13.94405193813252,6.138424482856333/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1283,7 +1283,7 @@ $1 06 cents for every 24 hours the same
 is continued. The owner of every dam  
 over which a public road passes to kee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_queen_ver01:data:sn84026826:00393349414:1835032801:0113/pct:50.20961775585697,46.94765010871383,15.141800246609124,4.030774376986118/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_queen_ver01:data:sn84026826:00393349414:1835032801:0113/pct:50.19723865877712,46.93979933110368,15.14423076923077,4.0342809364548495/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1308,7 +1308,7 @@ for the penalty and costs imposed by the
 act for such default ; or the offenders  
 may be presented by the grand juries 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_queen_ver01:data:sn84026826:00393349414:1835032801:0113/pct:50.11097410604192,53.88861013547416,15.191122071516647,6.372303060712493/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_queen_ver01:data:sn84026826:00393349414:1835032801:0113/pct:50.09861932938856,53.87959866220736,15.19354043392505,6.375418060200669/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1331,7 +1331,7 @@ cauctway, or mill-dam in rej «ir, and
 lor want ol reason*! !e exi uve, may,  
 give judgment for the penalty an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186932:1835042301:0274/pct:69.41103916127042,15.633167023045853,13.058896083872957,5.333808505583274/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186932:1835042301:0274/pct:69.4003391398181,15.631310131844637,13.062021478855145,5.337134259809162/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1353,7 +1353,7 @@ plain inscriptions thereon, in large letters and figures,
 giving the distance to tho most noted places to which  
 said road may lead
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn87062070:0039334295A:1837010601:1234/pct:47.47209455022981,16.239079184579115,22.258699934340118,5.033975870198308/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn87062070:0039334295A:1837010601:1234/pct:47.461706783369806,16.236827509706046,22.261123267687818,5.037899796635237/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1386,7 +1386,7 @@ in letters and figures, giving the direction
 and distance to the most noted places to  
 which said roads may lead
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn92053237:00212472025:1841040201:0188/pct:17.78996865203762,56.72140272752574,121.9435736677116,334.2610631784024/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn92053237:00212472025:1841040201:0188/pct:4.447492163009405,14.180350681881436,30.4858934169279,83.5652657946006/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1411,7 +1411,7 @@ and according to their respective interest and estates therein ;
 and if the said valuation cannot be completed in one day,  
 ilien
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664333:1852051801:0043/pct:64.40579710144928,51.81543116490167,15.666666666666666,4.595310136157337/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664333:1852051801:0043/pct:64.41545893719807,51.82173474533535,15.666666666666666,4.595310136157337/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1433,7 +1433,7 @@ and repairing tho same ; and the charge thereof shnll be defray­
 ed by both counties, in proportion to the number of taxnblesin  
 each
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_applejack_ver01:data:sn84020023:00295878460:1852060101:0391/pct:65.85365853658537,42.933491686460805,29.899825783972126,6.0866983372921615/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_applejack_ver01:data:sn84020023:00295878460:1852060101:0391/pct:49.40100196035722,32.200118764845605,22.4351993029841,4.572446555819478/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1464,7 +1464,7 @@ of all overseers of roads iu his Comity, under the penalty of ten
   
 dollars, for each neglect.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_applejack_ver01:data:sn84020023:00295878460:1852060101:0391/pct:65.81010452961672,102.09323040380048,29.856271777003485,10.21377672209026/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_applejack_ver01:data:sn84020023:00295878460:1852060101:0391/pct:49.37922021346112,76.57363420427554,22.391635809191897,7.660332541567696/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1494,7 +1494,7 @@ if a slave, then by his master. Said
 sums shall be paid to said surveyor,  
 for the use of said precinct; and if no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kuwait_ver02:data:sn86092163:00202192464:1853040901:0244/pct:42.437629937629936,13.823529411764707,26.16943866943867,81.81985294117646/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kuwait_ver02:data:sn86092163:00202192464:1853040901:0244/pct:42.44412681912682,13.837316176470589,26.16943866943867,81.83363970588235/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1534,7 +1534,7 @@ der is to open a former road, they
 shall also view the former road, and  
 report in like manner thofeupon. f
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kuwait_ver02:data:sn86092163:00202192464:1853040901:0244/pct:55.37941787941788,79.74264705882354,13.27962577962578,16.084558823529413/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kuwait_ver02:data:sn86092163:00202192464:1853040901:0244/pct:55.37941787941788,79.75183823529412,13.305613305613306,16.09375/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1616,7 +1616,7 @@ road to bo opened through any lot of
 lam! in any town without tho consent  
 of the owners or tenants thereof
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kuwait_ver02:data:sn86092163:00202192464:1853040901:0244/pct:67.95738045738045,38.400735294117645,13.981288981288982,40.47794117647059/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kuwait_ver02:data:sn86092163:00202192464:1853040901:0244/pct:67.96387733887734,38.400735294117645,13.994282744282744,40.49172794117647/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1677,7 +1677,7 @@ not practicable for the surveyor or sur­
 veyors thereof, with his or their assist­  
 ants, to build at repair the same, th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kuwait_ver02:data:sn86092163:00202192464:1853040901:0244/pct:81.34095634095634,20.863970588235293,13.565488565488565,28.38235294117647/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kuwait_ver02:data:sn86092163:00202192464:1853040901:0244/pct:81.34095634095634,20.873161764705884,13.58497920997921,28.391544117647058/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1693,7 +1693,7 @@ ants, to build at repair the same, th
 bone shall be made payable to the Governor and his suc­  
 cessors, for the use of the said Territory or future Stat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016750:0038334718A:1857040401:0056/pct:21.275497030725536,77.82595543006958,12.057836302607798,0.8167792679237673/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016750:0038334718A:1857040401:0056/pct:21.284103623375504,77.82595543006958,12.057836302607798,0.8268629625894928/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1713,7 +1713,7 @@ above and below said proposed dam and ascertain
 and appraise the ddamaged as by said writ directed.­  
 to each of the proprietors of said land propose
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn83025182:00279528360:1866081201:0135/pct:112.46046805819101,241.61358811040338,32.35294117647059,6.805850436423685/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn83025182:00279528360:1866081201:0135/pct:37.486822686063675,80.5378627034678,10.784313725490197,2.2686168121412282/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1735,7 +1735,7 @@ ascertain and appraise the damages as by
 Skid writ directed, to each of the proprietors  
 of said land proposed to be affected by sai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027238:00279529443:1866082201:0155/pct:6.065615462868769,60.96066416287804,11.101220752797559,3.5382486657442183/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027238:00279529443:1866082201:0155/pct:6.074092912851814,60.96066416287804,11.105459477789081,3.551426500625947/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1769,7 +1769,7 @@ each of the proprietors of said land pro-­
 posed to be affected by sald dam, and al  
 so
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:00279529418:1866090601:0181/pct:184.09161732626987,118.17445627024526,41.78871922717357,19.655252198056456/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:00279529418:1866090601:0181/pct:61.363872442089956,39.391485423415084,13.929573075724525,6.551750732685485/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1805,7 +1805,7 @@ hoard the sum of ten dollars for each neg­
 lect. r . i  
 Article. 14. If any person shnll refus
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_junebug_ver01:data:sn87065677:00415662300:1869100901:0771/pct:43.19047619047619,38.98560428523602,17.357142857142858,15.349849347171075/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_junebug_ver01:data:sn87065677:00415662300:1869100901:0771/pct:32.42792470812485,29.2433880147305,13.033118894448416,11.516571811181787/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1858,7 +1858,7 @@ road, a snide board, on which shall he stated j
 in plain letters the most noted place to which ;  
 each road leads. Across every stream where 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_iceland_ver01:data:sn84026788:00202192348:1874012701:0019/pct:57.77428371767994,53.94227908360607,13.53948287910552,4.537340077357929/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_iceland_ver01:data:sn84026788:00202192348:1874012701:0019/pct:57.783018867924525,53.94227908360607,13.535115303983229,4.548497470990776/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1883,7 +1883,7 @@ shall, so far a* s road passes over the samo,
 keep such dam in pood order, nt least twelve  
 feet wide at the top. and also keep in poo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_iceland_ver01:data:sn84026788:00202192348:1874020301:0023/pct:84.28198433420366,15.367383512544803,13.1940818102698,6.511350059737157/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_iceland_ver01:data:sn84026788:00202192348:1874020301:0023/pct:84.29503916449086,15.371117084826762,13.1940818102698,6.511350059737157/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1921,7 +1921,7 @@ y previous process, except only that it
 need not be given to one present at the  
 time of making the crdir
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_enterprise_ver02:data:sn84026847:00415665180:1874031801:0265/pct:24.74566556813297,4.796264855687606,15.131107608539905,11.40704584040747/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_enterprise_ver02:data:sn84026847:00415665180:1874031801:0265/pct:24.74566556813297,4.803338992642898,15.131107608539905,11.40704584040747/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1943,7 +1943,7 @@ guide board, on which shall be stated in
 pl*in letters the most noted place to which  
 each road Jeads. Across every stream where 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gorn_ver01:data:sn84026826:00271768126:1874050801:0007/pct:2.8097248507788617,53.55434039644566,14.004949774348523,5.30872636135794/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gorn_ver01:data:sn84026826:00271768126:1874050801:0007/pct:2.8097248507788617,53.56193514088251,14.009802494298054,5.30872636135794/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1979,7 +1979,7 @@ I like the previous process, except onlj that it need
 | not be given to one present at the time of mak­  
 ing the order
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gorn_ver01:data:sn84026826:00271768126:1874050801:0007/pct:54.141796476925315,68.68307131465026,17.178628621342263,11.380724538619276/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gorn_ver01:data:sn84026826:00271768126:1874050801:0007/pct:54.141796476925315,68.68686868686869,17.188334061241324,11.3845219108377/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2007,7 +2007,7 @@ ccution, exceed fifty dollar^, and where a mill­
 dam is carried away or destroyed, the owner or  
 occupier thereof shall not be thenceforth subject
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gorn_ver01:data:sn84026826:00271768126:1874050801:0007/pct:70.79633134371815,32.581453634085214,13.59732129858786,7.222601959444065/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gorn_ver01:data:sn84026826:00271768126:1874050801:0007/pct:70.79633134371815,32.589048378522065,13.611879458436453,7.222601959444065/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2055,7 +2055,7 @@ in any magisterial district therein, or
 whenever, in the opinion of the judge  
 thereof, ,a necessity therefor exists
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jennet_ver02:data:sn85026941:0039334846A:1875111101:0181/pct:33.267892200606816,44.556451612903224,11.975727288952347,17.1875/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jennet_ver02:data:sn85026941:0039334846A:1875111101:0181/pct:33.26195574589579,44.55083784805342,11.978051391862955,17.188484313972534/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2102,7 +2102,7 @@ perform the duties prescribed in
 this section, shall be fined two  
 dollars and a h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_dracula_ver01:data:sn85052141:0020653364A:1884052301:0088/pct:112.72727272727273,77.9505076142132,70.08264462809917,51.90355329949239/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_dracula_ver01:data:sn85052141:0020653364A:1884052301:0088/pct:28.18570050971208,19.4876269035533,17.52307480369197,12.975888324873097/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2138,7 +2138,7 @@ repair as the agreement of the
 contractor therein with the County  
 Court requires. No surveyor shal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_dracula_ver01:data:sn85052141:0020653364A:1884072501:0125/pct:157.2142064372919,26.91376224070759,41.56492785793563,40.970832894598296/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_dracula_ver01:data:sn85052141:0020653364A:1884072501:0125/pct:39.3090051338976,6.728440560176898,10.392673789371445,10.242708223649574/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2181,7 +2181,7 @@ The Clerks or Sheriffs failing to
 perform the duties prescribed in  
 this section, shall be fined tw
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_dracula_ver01:data:sn85052141:0020653364A:1884072501:0125/pct:157.4361820199778,69.7062230177951,41.620421753607104,57.52342845108982/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_dracula_ver01:data:sn85052141:0020653364A:1884072501:0125/pct:39.364506729568475,17.426555754448774,10.406549188289164,14.380857112772455/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2199,7 +2199,7 @@ at the top. A bridge in good order shall be kept
 over the pur-head flood gates or any  
 waste cut through or around the dam
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ironmaiden_ver02:data:sn85038614:00175031066:1892011201:0058/pct:147.53058450385137,226.57305743243242,36.06705935659266,4.581925675675675/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ironmaiden_ver02:data:sn85038614:00175031066:1892011201:0058/pct:49.176861501283796,75.52435247747748,12.02235311886422,1.5273085585585586/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2228,7 +2228,7 @@ face auy stone or post or finger-board
   
 erected for the direction of! travelers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_dracula_ver01:data:sn84037890:00206533791:1893122701:0862/pct:24.64438122332859,67.47978812378032,14.366998577524893,7.415667688876498/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_dracula_ver01:data:sn84037890:00206533791:1893122701:0862/pct:18.498754891497686,50.61332589908001,10.779082177161152,5.561750766657374/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

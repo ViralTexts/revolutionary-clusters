@@ -65,7 +65,7 @@ sense of justice towards as. Accordingly,
 as &amp;! comment on this hint, we have see;;  
 a resolution brought into the house of te
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215981:1802011301:0652/pct:74.35750999428898,81.32378083530082,20.202741290691034,9.28112024749654/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215981:1802011301:0652/pct:74.34689507494647,81.317160534028,20.204615750654295,9.283078258981874/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -350,7 +350,7 @@ Sjct&#x27;z&#x27;ers in Macbeth, &quot; Keep: [is promise to
 (be car But break: it to (be saye- !&quot;  
 LUCIUS CRASSUS.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215981:1802011301:0653/pct:7.079400333148251,3.9018768521567337,62.20155469183787,87.52057951926243/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215981:1802011301:0653/pct:7.078417765440666,3.9015556835953578,62.197547999074715,87.51611929651274/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1256,7 +1256,7 @@ in Macbeth, ¢¢ Keeps Ais premise to tkhe ear,
 but breaks it to the sense I’ :  
 LUCIUS CRASSUS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802020901:0021/pct:5.383435582822086,12.941292162454518,65.23006134969326,80.95191267577933/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802020901:0021/pct:5.3885480572597135,12.947848034877241,65.23517382413088,80.9453568033566/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1480,7 +1480,7 @@ isjin. and ha&gt; beeO calami 1 tie J in cve-y Hags
 of irs progrds ?  
 Alas . How
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1802030801:0766/pct:45.57243423490181,12.849775046636672,43.831048536495,79.83101064413475/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1802030801:0766/pct:45.56399333209853,12.848365152512619,43.82756065938137,79.82499451393461/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1499,7 +1499,7 @@ ed, first for the payment of the interest of the
 debt, and next for the re-imbursement of cer­  
 tain instalments of the principal. Yet the firs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216146:1811100201:0262/pct:32.57086026852312,70.6792199058507,21.282943809050224,3.3624747814391394/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216146:1811100201:0262/pct:32.56546237984753,70.67243035542748,21.284940890509336,3.3653538264489273/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1528,7 +1528,7 @@ orel
   
 t the same time the Washington Federalist saw in the polcy of the net
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_echo_ver03:data:sn86071197:00175034869:1896072401:1226/pct:86.91099476439791,97.73351648351648,104.18848167539267,26.99175824175824/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_echo_ver03:data:sn86071197:00175034869:1896072401:1226/pct:21.74197773411919,24.43337912087912,26.064178127046496,6.74793956043956/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1557,7 +1557,7 @@ seal to a measure as motiveless—as precipitate—as impolitic
 ate hostility to the vital principles of our national credit.”  
 At the same time the Washington Federalists saw iivthe policy of the new Presiden
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024653:0039334961A:1896080701:0545/pct:71.98310865681339,30.42149497007513,22.624654864382006,10.187189609066598/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024653:0039334961A:1896080701:0545/pct:71.97141929197791,30.417621594092182,22.625040597596623,10.1890756302521/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -58,7 +58,7 @@ ry.&quot;
 We are sorry to state that from the  
 Western papers we learn that our In
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808052301:0003/pct:42.56524377908153,12.105733622781255,17.742261784341494,14.787383475929/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808052301:0003/pct:42.56524377908153,12.105733622781255,17.749005327399015,14.800153237134465/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -96,7 +96,7 @@ people, and the houor and indepen­
   
 dence of the government and ccuft
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808052701:0179/pct:23.189230185817216,3.779807204464739,36.310200985968905,91.5017757483511/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808052701:0179/pct:23.18483412322275,3.779327837666455,36.30963665086888,91.49439864722046/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -181,7 +181,7 @@ Speaker of the House of Representatives.
 o S Ui G RNI R e  
 - President of t};c Legul ative Council
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808060701:0090/pct:59.563681056998,40.502793296089386,16.25441696113074,47.8950518754988/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808060701:0090/pct:59.563681056998,40.502793296089386,16.259538075485224,47.89837722798617/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -267,7 +267,7 @@ I cordially unite with the Association in expressing my
 regret at youir retirement from the office which you have  
 filled with so much credit to yourself and adrantage to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530182:1843071201:0458/pct:200.0,102.19097116070519,49.280735577636065,7.357586874554163/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530182:1843071201:0458/pct:66.66666666666667,34.0636570535684,16.426911859212023,2.452528958184721/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -284,7 +284,7 @@ I cordially unite with the Association in expressing my
 regret at your retirement from the office which you have  
 filled with so much credit to yourself and advantage to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:0027174318A:1843071201:0061/pct:202.11864406779662,26.876622643639237,46.789439374185136,4.255559318207473/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:0027174318A:1843071201:0061/pct:67.37288135593221,8.958874214546412,15.596479791395046,1.4185197727358243/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -377,7 +377,7 @@ have filled with so much credit to yourself and advan­
 tage to the city. But under the circumstances it seem  
 to me that the place ought to be filled b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_lorca_ver01:data:sn83030272:00206533109:1888121501:1087/pct:339.81409759876067,211.17216117216117,51.82029434546863,13.492063492063492/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_lorca_ver01:data:sn83030272:00206533109:1888121501:1087/pct:84.96997869455743,52.79304029304029,12.957582800697269,3.373015873015873/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

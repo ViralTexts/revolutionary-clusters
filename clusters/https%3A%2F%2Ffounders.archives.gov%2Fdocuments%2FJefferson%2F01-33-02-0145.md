@@ -83,7 +83,7 @@ The greatest meeting held in Philadelphia sinc
 
 ---
 
-## [From _The American Whig review_](https://archive.org/details/sim_american-whig-review_1851-12_14_84/page/n66/mode/1up?view=theater)
+## [From _The American Whig Review (1850-1852)_](https://archive.org/details/sim_american-whig-review_1851-12_14_84/page/n66/mode/1up?view=theater)
 
 #### 1851-12-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 

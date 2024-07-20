@@ -903,7 +903,7 @@ venomous poison. The English,
 real friends, are  
 And thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1803080501:0120/pct:30.154277699859747,64.16754663850757,21.009817671809255,11.210841253079902/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1803080501:0120/pct:30.145821648906338,64.15625549885624,21.010936623667977,11.21326764033081/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -995,7 +995,7 @@ one prisoners among them were M. de
 la Force. &gt;1 Drouiilon and two Cadets.  
 After this 1 set out out with the prison
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025001:00414216328:1823111101:0613/pct:19.76333451077358,27.106577409414516,17.555634051571882,30.804377855700775/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025001:00414216328:1823111101:0613/pct:19.759844605332862,27.103697407564812,17.558420154217433,30.804646550502905/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1174,7 +1174,7 @@ characters of the different speakers at the close is very amusing. Pitt&#x27;
 determined to keep fast hold of the chain of friend­  
 ship which has so long subsisted betaeen you an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186439:1843071001:0544/pct:100.89749645725082,240.05770617937003,44.4654385136199,3.005530175522962/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186439:1843071001:0544/pct:33.6272040302267,80.00961654044957,14.819479429051217,1.0017229634972151/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1200,7 +1200,7 @@ up to manhood. We are strong and will not let them
 hurt you nor ourselves. We don&#x27;t want you to take  
 up the hatchet for ns, except you choose it; but w
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296199:1843071101:0111/pct:304.05819295558956,224.23136318966726,70.52067381316998,31.952828864242594/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296199:1843071101:0111/pct:76.01454823889739,56.057840797416816,17.630168453292494,7.9882072160606485/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1445,7 +1445,7 @@ A Belt of Wampum.
 
 ---
 
-## [From _The American review : a Whig journal of politics, literature, art, and science_](https://archive.org/details/sim_american-whig-review_1847-05_5_5/page/n90/mode/1up?view=theater)
+## [From _The American Review: a Whig Journal Devoted to Politics and Literature (1848-1850)_](https://archive.org/details/sim_american-whig-review_1847-05_5_5/page/n90/mode/1up?view=theater)
 
 #### 1847-05-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -2864,7 +2864,7 @@ ing in the sound.” In this first trial, he showe
 I &quot;I heard the bullets whistle, and believe me,  
 there is something charming in the sound.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016179:00296026189:1859091501:0122/pct:72.5483113599422,33.6272040302267,11.107097706339173,0.8536244052616848/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016179:00296026189:1859091501:0122/pct:72.55433146710011,33.6272040302267,11.119137920654987,0.8629536337344902/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3432,7 +3432,7 @@ I heard the bullets whistle, and be­
 lieve me there is something charming in  
 the soun
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_delta_ver01:data:sn86071197:00175034833:1896010301:0378/pct:304.140127388535,193.69053580370556,46.73566878980892,33.65047571357036/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_delta_ver01:data:sn86071197:00175034833:1896010301:0378/pct:76.05016922158073,48.42263395092639,11.686243280907824,8.41261892839259/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3480,7 +3480,7 @@ served, when it had come to his ears,
 used to hear many. &quot; And Horace Wal­  
 rpole called him, because of this remark,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_garwood_ver02:data:sn83040340:00237285293:1897041601:0334/pct:9.31473829201102,113.42092337917485,20.90220385674931,30.69744597249509/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_garwood_ver02:data:sn83040340:00237285293:1897041601:0334/pct:6.218776916451335,75.6139489194499,13.936261843238588,20.469056974459725/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3527,7 +3527,7 @@ fire. I heard the bullets whistle, and,
 believe me, there is something charm­  
 ing in the sound.&quot; In the engagemen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_evadeestruction_ver01:data:sn84026965:00294550835:1899030101:0002/pct:43.722822275213915,11.66294100495675,13.325852153177165,3.596073476528331/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_evadeestruction_ver01:data:sn84026965:00294550835:1899030101:0002/pct:43.722822275213915,11.66942041662617,13.339879365969981,3.5993131823630415/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3594,7 +3594,7 @@ and the rest wounded. I heard the bul­
 lets whistle, and believe me, there is  
 something charming in the sound.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_orr_ver01:data:sn90059228:0028076646A:1899070601:0238/pct:21.926024658447183,87.94853635505194,13.878707097634122,4.957507082152975/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_orr_ver01:data:sn90059228:0028076646A:1899070601:0238/pct:21.937132067088747,87.94853635505194,13.87315339331334,4.961441611583255/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3617,7 +3617,7 @@ lets whistle, and believe me, there ii
 something charming in the sound.”—  
 Ladies’ Home Journal.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588496:1899072701:0636/pct:26.615384615384617,114.25528677924844,17.64835164835165,6.222425072265328/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588496:1899072701:0636/pct:20.626809742803612,88.5513284074831,13.67739737693749,4.8262851752869045/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3649,7 +3649,7 @@ Self-confidence is either a petty
 pride in our own narrowness or a  
 realization of our duty and privileg
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_andromeda_ver01:data:sn89051293:00513687795:1899121501:0530/pct:17.636252296387017,56.98304693806943,10.777709736680956,5.593357167570061/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_andromeda_ver01:data:sn89051293:00513687795:1899121501:0530/pct:17.64645846091039,56.99073540153,10.777709736680956,5.59720139930035/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

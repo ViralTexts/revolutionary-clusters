@@ -436,7 +436,7 @@ ot nations agree in this principle, but it is
 more accurately laid down in the following  
 extra&lt;st f 0111 Burlcmaqui
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793070301:0002/pct:75.77659240665203,17.172107398107013,20.332601192343898,74.42534286266178/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793070301:0002/pct:75.78443677439599,17.176936449681282,20.348289927831818,74.42534286266178/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -751,7 +751,7 @@ litiorj that the United States are not bound
 toexeeute the clause of guaranteej are re­  
 served for another paper.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793070301:0003/pct:6.519742883379247,2.8493894165535956,63.45270890725436,91.76196937390968/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793070301:0003/pct:6.542699724517906,2.863927117658461,63.45270890725436,91.75712347354138/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -775,7 +775,7 @@ going largely into this examination, unless
 it (hall be rendered neeeflary by the future  
 turn of the discussion.&quot; Foul and scanda
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793070601:0002/pct:72.32684328120013,16.90056134723336,20.90647941270348,6.756214915797915/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793070601:0002/pct:72.34280242578998,16.905573376102648,20.92243855729333,6.771251002405774/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1052,7 +1052,7 @@ absolute ‘and unlimited of the United
 States, as well as in matters of Govern­  
 ment as of Commerce.” There were se
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797030401:0245/pct:8.814028610982925,57.56670649143767,15.597600369173973,4.62962962962963/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797030401:0245/pct:8.819156027277854,57.57334395327227,15.602727785468902,4.622992167795035/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1256,7 +1256,7 @@ ments: “Principles are v, a ing war a­
 “placed by tlie side of Thrones, is a de­  
 vouring fire wliich \\ ill consume them.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1807062501:0133/pct:9.261744966442953,23.607427055702917,26.523489932885905,10.75476247890041/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1807062501:0133/pct:9.25925925925926,23.601735776277724,26.52531758811952,10.760205721632916/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1275,7 +1275,7 @@ liberty, sovereignty and independence, ab­
 solute and unlimited, of the United States;”  
 as soon as that object should be obtained
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1811081601:0135/pct:47.61461484756807,17.776507573592454,22.06190365371189,3.4867104887110605/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1811081601:0135/pct:47.60353652861796,17.77396770967281,22.062587249883666,3.4897842548935563/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1479,7 +1479,7 @@ not obliged to w^re Vr battles. Valid expressly declares that -&#x27;it dot s no
 power, to take eil\ \auee of the administration of the sovereign of another country, and to set  
 himself up as a judgfc X&#x27;his conduct, or oblige him lo after it.” Whatever the conduct of on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn95079484:00393348392:1844100301:0384/pct:36.627694556083306,20.60969254820219,29.08293752283522,1.6284523189161022/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn95079484:00393348392:1844100301:0384/pct:36.62100456621005,20.607007945812168,29.08371385083714,1.6325821718553255/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1647,7 +1647,7 @@ effectually the liberty, sovereignty and ind­
 sendence, absolute and unlimited, (not of each  
 State or of the several States, but)
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_klm_ver01:data:sn86053572:0023728902A:1870033001:0328/pct:67.01421800947867,67.96637453049544,44.2654028436019,18.100518690752995/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_klm_ver01:data:sn86053572:0023728902A:1870033001:0328/pct:16.76547308513161,16.99159363262386,11.074223381550865,4.525129672688249/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1765,7 +1765,7 @@ ally the liberty, sovercignty and independence, absolute
 and unlimired, of the said United Stafes, as well in mate  
 ters of Government as of commerce.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chrysler_ver01:data:sn83030214:0017503982A:1880122101:0711/pct:61.395839614109136,115.40675152185943,44.54326198372023,5.843940232429441/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chrysler_ver01:data:sn83030214:0017503982A:1880122101:0711/pct:20.465279871369713,38.468917173953145,14.84775399457341,1.9479800774764804/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1786,7 +1786,7 @@ United States as well in matters of gov.
 ernment as of commerce.  
 Eust Side.The provisional articles o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_journey_ver01:data:sn84024738:00206531022:1881032201:0287/pct:91.31440913298364,82.6673751328374,40.51218759642086,11.806588735387885/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_journey_ver01:data:sn84024738:00206531022:1881032201:0287/pct:30.438136377661216,27.5557917109458,13.504062532140287,3.9355295784626283/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1867,7 +1867,7 @@ of commerce
 Eas!  
 The provisional articles of peace con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barack_ver01:data:sn82014424:00211102998:1881101501:0453/pct:173.60066833751046,338.7446232276565,49.3734335839599,18.352716265732038/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barack_ver01:data:sn82014424:00211102998:1881101501:0453/pct:43.400167084377614,84.68615580691413,12.343358395989975,4.5881790664330095/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1893,7 +1893,7 @@ of commerce.&quot;
 EASt.  
 The provisional articles of peace concluded N
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barack_ver01:data:sn86053573:00211101933:1881101501:0374/pct:285.3174603174603,203.97322700085445,49.92063492063492,14.867559099971517/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barack_ver01:data:sn86053573:00211101933:1881101501:0374/pct:71.35768161969035,50.99330675021361,12.485113140134974,3.7168897749928793/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1954,7 +1954,7 @@ merce.
 EAST.  
 The Provisional Articles of Peace
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_danastjames_ver01:data:sn93067846:00294551323:1881101801:0045/pct:74.10608572105139,26.81931723563697,12.171442102770543,9.367194004995836/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_danastjames_ver01:data:sn93067846:00294551323:1881101801:0045/pct:74.11397900386771,26.82486816541771,12.175388744178704,9.364418540105468/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1987,7 +1987,7 @@ merce.
 [bast 7  
 The Provisional Articles of Peace
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00383342065:1881101901:0381/pct:57.0134541094978,16.161407139161923,9.870787265219128,6.187273667873772/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00383342065:1881101901:0381/pct:57.01789440966209,16.164856009656837,9.879667865547711,6.190722538368684/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2088,7 +2088,7 @@ absolute and unlimited, of the said
 United States, as well in matters of  
 Government as of commerce
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777845:1881102101:0169/pct:62.297496318114874,373.03695150115476,44.03534609720177,13.04849884526559/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777845:1881102101:0169/pct:15.577241760265144,93.25923787528869,11.010863561038482,3.2621247113163974/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2106,7 +2106,7 @@ XVI, King of France, declares the essential and
 direct end of the present defensive alliance is to  
 maintain effectively
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chester_ver02:data:sn82016187:00211102305:1881102201:0077/pct:30.448354143019298,110.9050082983501,22.60215664018161,3.1631358000585768/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chester_ver02:data:sn82016187:00211102305:1881102201:0077/pct:22.853087295954577,83.17875622376258,16.962384669978707,2.382114614858928/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2129,7 +2129,7 @@ matters of government as of commerce.&quot;
 EAST.  
 &#x27;The provisional articles of peace conclude
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_orr_ver01:data:sn90059228:00280766409:1881102201:0176/pct:49.14620263457473,72.21877713010046,14.16490486257928,4.253999751953367/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_orr_ver01:data:sn90059228:00280766409:1881102201:0176/pct:49.157044505881714,72.22704535119269,14.159483926925788,4.2498656414072515/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2160,7 +2160,7 @@ Of the present Defensive Alliance,
 Is to maintain effectively  
 The Liberty, Sovereignty and Independence,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762325:1881102501:0405/pct:41.00638977635783,62.50458155161881,10.750798722044728,5.497861942577886/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762325:1881102501:0405/pct:41.01837060702876,62.51069028711057,10.754792332268371,5.497861942577886/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2201,7 +2201,7 @@ Absolute and Unlimited,
 Of the eaid United States,  
 As well in matters of Government as of Commerce
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00202194047:1881102601:0214/pct:44.56426332288401,59.57428247404693,11.561128526645769,9.421617377649829/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00202194047:1881102601:0214/pct:44.56426332288401,59.57719038064497,11.569487983281087,9.42452528424787/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2246,7 +2246,7 @@ East-
   
 The Provisional Articles of Peace
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_lapras_ver01:data:sn83025167:00279528402:1881102701:0188/pct:254.12254160363085,176.5552099533437,30.799293998991427,24.086314152410576/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_lapras_ver01:data:sn83025167:00279528402:1881102701:0188/pct:84.70751386787695,58.851736651114564,10.266431332997142,8.028771384136858/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

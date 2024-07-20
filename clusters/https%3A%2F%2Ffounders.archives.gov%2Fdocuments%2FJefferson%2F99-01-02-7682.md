@@ -214,7 +214,7 @@ hat my sole object was to do justice to lity­
 iclt&#x27;in a case of peculiar hardship, andttiat  
 never went beyond that limit. * * *
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808110101:0214/pct:3.9509785988659227,3.683104684217031,36.61971830985915,92.01582004696577/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808110101:0214/pct:3.950256035113387,3.6826495304003957,36.61911728846623,92.00856813313561/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -263,7 +263,7 @@ c.yy it, which 1 have to request that you
 v.&#x27;iil be «o good as to return me after perus­  
 ing it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808110101:0214/pct:22.864459484177793,7.613397602274132,17.43186391073715,19.57730812013348/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808110101:0214/pct:22.86027798098025,7.612456747404845,17.434772006827604,19.57900807381776/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -547,7 +547,7 @@ sell in a case of a peculiar hardship,
 and that I never wen* beyond that li­  
 mit. * *• * *■ &#x27; *• 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808110101:0358/pct:5.174353205849269,4.348370927318296,53.84326959130109,89.81203007518798/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808110101:0358/pct:5.173383317713214,4.3478260869565215,53.83942517963136,89.80495343106544/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -596,7 +596,7 @@ send you a c &gt;py of it, which I have to re­
 quest that y w will be so good as to return ,  
 me after perusing H
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808110101:0358/pct:41.1886014248219,57.68170426065163,17.82902137232846,20.225563909774436/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808110101:0358/pct:41.180880974695405,57.67447688259617,17.83192752264917,20.22720628158543/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -617,7 +617,7 @@ that any unpleasant occurrence has arisen
 between the administration arid myself’  
 What war the result and th•• course whic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808110101:0359/pct:3.686635944700461,51.43834748447598,18.14516129032258,4.029907489545051/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808110101:0359/pct:3.6859282011902477,51.431829700963,18.148077046138095,4.033620544010812/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -643,7 +643,7 @@ and if it does not destroy him, it is because
 his character is sufficiently strong to bear  
 the.shock
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808110101:0359/pct:3.878648233486943,70.66278038271449,17.991551459293394,6.906602458497022/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808110101:0359/pct:3.8779036283355732,70.65382665990877,17.994496704421834,6.909951005237371/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -783,7 +783,7 @@ mission was decided on by the gcrzcmmct,
   
 As I had received no answer to an&quot;; him,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808110201:0520/pct:54.41712204007286,2.1036475261827374,44.94535519125683,93.49945828819068/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808110201:0520/pct:54.40886325694339,2.1034576148776742,44.94359285678151,93.49402666185189/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -838,7 +838,7 @@ fv confidencc, which it had &quot;&#x27;11 q&gt;s
 — accsi wromed to cl1e11s.1.  
 (Am nericc ._&#x27;, sssi&#x27;sixsficd , 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808110201:0521/pct:0.39097744360902253,6.587252200195573,21.774436090225564,28.073606542803805/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808110201:0521/pct:0.39091865884829347,6.586666666666667,21.776174008920965,28.074074074074073/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -889,7 +889,7 @@ sict liss&#x27;bmary Ld, 1806. I therefore send
 - ss_ &#x27;foþy of it, which I have to request  
 &quot;si 70&quot; Fill be so good as to return me as
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808110201:0521/pct:0.5413533834586466,35.71873055382701,21.774436090225564,56.885056449462176/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808110201:0521/pct:0.5412719891745602,35.715555555555554,21.776174008920965,56.882962962962964/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1005,7 +1005,7 @@ ver will be, while crricd j
 by those useful passions, which sti«;.j  
 mu&#x27;i.it-.: thfttn to vir
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808110401:0001/pct:58.02688809806248,17.644792603056377,17.16093317516805,68.80698600231155/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808110401:0001/pct:58.033478318175824,17.653353880398956,17.16093317516805,68.80270536364026/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1908,7 +1908,7 @@ taifight me. which Whs dcUerred
 tnhim and by him to wim;  
 war in the same tan*. It *it|M
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808111801:1066/pct:7.052148068089705,4.625735912531539,37.179140772764114,91.28679562657696/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808111801:1066/pct:7.050243111831443,4.624957954927683,37.17585089141005,91.27564749411368/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2076,7 +2076,7 @@ posed that I had entertained any
 objection to the association of any  
 oMgte&#x27;in Wbdsmdto a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808111801:1066/pct:27.26290191840043,4.659377628259041,51.06727911375304,90.21026072329688/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808111801:1066/pct:27.255537547271746,4.658594012781702,51.060237709346296,90.19929364278507/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

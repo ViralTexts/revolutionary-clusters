@@ -145,7 +145,7 @@ but hope that he will meet with such a
 reception as will make the country and  
 his expedition agreeable to him. The
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_queen_ver01:data:sn84026826:00393349414:1835020701:0085/pct:1.1439940313354886,49.93342210386152,15.493658293956727,14.364181091877496/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_queen_ver01:data:sn84026826:00393349414:1835020701:0085/pct:1.1437095972153157,49.925112331502746,15.49602187966186,14.365951073389915/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -174,7 +174,7 @@ would be a little restrained by the Gen­
 eral’s [Washington’s] prudence, so as  
 not to permit his being hazarded much
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_queen_ver01:data:sn84026826:00393349414:1835020701:0085/pct:1.2683412086545636,64.2809587217044,15.419049987565282,9.803595206391478/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_queen_ver01:data:sn84026826:00393349414:1835020701:0085/pct:1.268025857782198,64.27026127475453,15.42143212332173,9.806124147112664/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

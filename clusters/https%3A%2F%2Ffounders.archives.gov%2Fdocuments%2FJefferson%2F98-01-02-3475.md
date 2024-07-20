@@ -309,7 +309,7 @@ it I&#x27;l&#x27;etarv, and published.
 WAf.TKR IKIW NR, Chairman.  
 James Mulj.ett, Jit. Stc&#x27;rn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1823050601:0312/pct:17.997914494264858,4.597701149425287,14.932221063607924,65.40084388185655/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1823050601:0312/pct:17.99416180150125,4.597032295606634,14.934320266889074,65.39496654058772/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -332,7 +332,7 @@ There is but little difficulty, in our opi­
 nion, in discovering the clue to the^rectf  
 object, which is, most unquestionably, t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_palmer_ver02:data:sn84037834:print:1823050701:0158/pct:13.988393035821494,40.28894472361809,19.111466880128077,6.105527638190955/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_palmer_ver02:data:sn84037834:print:1823050701:0158/pct:13.985594237695079,40.28388393417912,19.114312391623315,6.10894778712892/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -612,7 +612,7 @@ signed by lilt- Clia rman and Secretary, and published
 WALTER BOYYNE, Chairman.  
 J imk.s Mui.lett, Jr. Sec&#x27;nj
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183979:1824010601:0301/pct:17.410003185727938,14.335081029551954,15.179993628544123,39.84747378455672/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183979:1824010601:0301/pct:17.407230450708713,14.33337304896938,15.18288474810214,39.84669764486278/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -742,7 +742,7 @@ Secretary, and published.
 WALTER ROWNE, Chairman.  
 Jasks Muu.itt, Jr. Secretary
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025001:0041421633A:1824011001:0024/pct:27.10661699485542,5.0,35.51534504168884,91.34573304157549/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025001:0041421633A:1824011001:0024/pct:27.101809152181623,4.999453013893447,35.514958022939574,91.33938664624586/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1020,7 +1020,7 @@ prospered under die aduiiiiisiiatiou of the dlu.irious
 .lelf.T-.on  
 And whereas the republican members of bot
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183979:1824012701:0336/pct:83.1531386154591,31.282112558250688,15.02339841858964,12.367068944915761/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183979:1824012701:0336/pct:83.13972249112616,31.278375149342892,15.026352586855975,12.36957387495022/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1137,7 +1137,7 @@ a series of resolutions, concluding with the
 expression, that in the absence of a national  
 nomination, in conformity with those usages, i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1828021201:0440/pct:39.664469742360694,62.10355659134664,15.952666267225883,9.26132333569764/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1828021201:0440/pct:39.674455761933295,62.10355659134664,15.947673257439584,9.271456074576959/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1193,7 +1193,7 @@ and events dear to the Democracy ol the nation, which
 trminp cd in the election, and prospered under the ad- 1  
 ministration, of the illustrious Jefferson.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184054:1832032301:0420/pct:34.40800444691495,53.76391010255291,15.244580322401333,9.578878463888282/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184054:1832032301:0420/pct:34.40322356537446,53.75804516199411,15.247093696447594,9.581469764735829/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1233,7 +1233,7 @@ and events dear to tho Democracy of tho nation,
 which triumphed in the election, and prospered  
 under tin: administration, of the illustrious Jctter
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184340:1832032801:0130/pct:52.15276784437133,7.079452054794521,14.504362752109856,12.065753424657535/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184340:1832032801:0130/pct:52.14530892448513,7.07867630944554,14.507055682684973,12.068083862955659/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1272,7 +1272,7 @@ May h. 18tt, pursuant to the call of the joint Committee, the
 Hea. FREDERICK F. BACKtS of the Senate, was called to  
 the chair, and Mr. lant of the Assembly, appointed Secretary
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530200:1844051501:0153/pct:2.98811013767209,40.18581677055157,41.379849812265334,7.3973891567682/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530200:1844051501:0153/pct:0.9960367125573634,13.395272256850523,13.793283270755111,2.4657963855893996/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

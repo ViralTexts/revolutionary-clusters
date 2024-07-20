@@ -423,7 +423,7 @@ country without the limits thereof, in lieu of a drawback of the
 duties imposed on the importation of the salt employed, and exe  
 pended therein, viz
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789052801:0395/pct:48.437878420925166,40.506127646028965,40.978445144102686,20.611173006525544/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789052801:0395/pct:48.437878420925166,40.506127646028965,41.00266408331315,20.621783648999948/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -442,7 +442,7 @@ ter, brass, iron and brass wire, copper in plates, wool, cotton,
 dying woods and dying drugs, raw hides, beaver and all other  
 &#x27;urs and deer-(kins
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789070801:0002/pct:71.13103847266416,40.31860421012706,23.980329765692797,2.9774322017826664/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789070801:0002/pct:71.13103847266416,40.31860421012706,23.98756146948221,2.9774322017826664/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -473,7 +473,7 @@ country without the limits thereof, in lieu of a drawback of the
 duties imposed on the importation of the fait employed and ex­  
 pended therein, viz. Cents
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789070801:0002/pct:70.9864043968759,46.50104304949744,24.12496384148105,10.46842404703205/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789070801:0002/pct:70.99363610066531,46.50104304949744,24.12496384148105,10.482647449269866/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -503,7 +503,7 @@ On all blank books, . ,
 hangings and pasteboard,  
 On all cabinet wares
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789071601:0422/pct:7.28119637165972,4.843077903457066,87.44790389801422,87.20726461685518/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789071601:0422/pct:7.297540246792514,4.843077903457066,87.44790389801422,87.20726461685518/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -531,7 +531,7 @@ On pold, silver and plated ware, and on jewecllery |
 and paste work,  
 On anchors and on all wrought. tin and. pewter 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789071601:0422/pct:53.297376808041186,17.301258563007806,39.544005883795045,14.465509001115182/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789071601:0422/pct:53.31372068317398,17.31187934788381,39.53583394622865,14.476129785991185/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -556,7 +556,7 @@ pewter, brass, iron and brass wire, copper in plates, wool, cot­
 ton, dying woods and dying drugs, raw hides, beaver and all  
 other furs and deer-skins. _ 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789071601:0422/pct:53.12576611914685,31.830492273379004,41.50527089973033,11.311135892942488/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789071601:0422/pct:53.12576611914685,31.835802665817003,41.50527089973033,11.31644628538049/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -583,7 +583,7 @@ be allowed and paid on every quintal of dried, and on every
 barrel of pickled fifh, of the fitheries of the United States, and  
 on every barrel of salted provision of the United States, ex
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789071601:0422/pct:53.02770286835008,51.47363390154533,41.480755087031135,13.525569539588975/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789071601:0422/pct:53.04404674348288,51.478944293983325,41.47258314946474,13.525569539588975/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -840,7 +840,7 @@ above proof, according to the fame hydrometer, twenty-five
   
 ccnts.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790022401:0004/pct:10.273972602739725,4.91867528904566,55.10585305105853,88.45776993925142/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790022401:0004/pct:10.297322540473225,4.9284734469919655,55.11363636363637,88.46266901822457/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -896,7 +896,7 @@ sorter in bottles, per dozen, twenty cents. Teas from China an&lt;
 India, in lhios 01 vc lids of the Unit d States, bohca, per pound  
 en cents ; souchong and other black teas, per pound, cightee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790082801:0001/pct:36.198298621296566,32.066601371204705,25.960692285127603,23.3692458374143/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790082801:0001/pct:36.205632150190674,32.066601371204705,25.982692871809913,23.39373163565132/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -939,7 +939,7 @@ handize imported dire&amp;ly from China or India in ships or vef­
 els not of the United States, teas excepted, twelve and an hall pei  
 er.turv ad valorem, All coaches, chariots, phaetons, chaises,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790082801:0001/pct:38.13435024933998,74.41723800195886,25.696685244939864,18.609206660137122/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790082801:0001/pct:38.14901730712819,74.42703232125368,25.70401877383397,18.604309500489716/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1011,7 +1011,7 @@ construed to prevent the lcgiflature of the United State* from sub­
 stituting other duties or taxes of equal value to any or all ot the  
 said duties and irrpofh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790082801:0001/pct:62.68700498679965,16.748285994123407,27.01672044587856,36.92458374142997/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790082801:0001/pct:62.70900557348196,16.748285994123407,26.994719859196245,36.94906953966699/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1709,7 +1709,7 @@ fame hydrometer, thirty cents. For every gallon of those spirits
 more than forty per cent above proof, according to the lame hy­  
 drometer, forty cents
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791031601:0001/pct:34.76950888821934,80.74074074074075,26.664658029526965,9.166666666666666/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791031601:0001/pct:34.76950888821934,80.75462962962963,26.69478758662248,9.162037037037036/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1741,7 +1741,7 @@ the legiflaturd of the Uruted States from substituting other duties
 or taxes of equal value to all or any of the said duties and im­  
 posts
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791032601:0001/pct:61.60606060606061,70.14084507042253,27.0,10.948356807511738/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791032601:0001/pct:61.628787878787875,70.15492957746478,26.992424242424242,10.95774647887324/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1801,7 +1801,7 @@ every gallon of those fprits, more than
 forty per cent. above&#x27;proof, according  
 to the fame hydrometer, forty cents
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791041601:0783/pct:4.1437125748503,40.43031470777135,21.17365269461078,20.054592164418754/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791041601:0783/pct:4.151696606786427,40.43031470777135,21.197604790419163,20.054592164418754/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1835,7 +1835,7 @@ States, from substituting other duties
 or taxes of equal value to all or any of  
 the said duties and imposts
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791050501:0796/pct:8.813720819437828,25.57548817272583,20.462124821343497,16.46293062390856/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791050501:0796/pct:8.813720819437828,25.57548817272583,20.485945688423058,16.473514314441445/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1977,7 +1977,7 @@ lefsthan such fpecific quantity.
   
 And be it further
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792051901:0001/pct:34.632446134347276,34.58631662688942,27.85171102661597,3.7191726332537787/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792051901:0001/pct:34.65621039290241,34.60123309466985,27.84378960709759,3.714200477326969/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1997,7 +1997,7 @@ utensils of marble or
 (late, and generally all  
 flone or eartheu ware 10 1
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792082201:0001/pct:27.221526908635795,64.61508401719422,17.866082603254068,4.122704181320828/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792082201:0001/pct:27.237171464330412,64.61508401719422,17.85043804755945,4.132473622508792/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2041,7 +2041,7 @@ prunes,raifins,oranges,lemons, limes,
 and generally all fruits and comfits,  
 olives, capers, pickles, oil, mustar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794022501:0003/pct:29.816661305886136,58.791666666666664,18.205210678674813,7.020833333333333/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794022501:0003/pct:29.824702476680606,58.807291666666664,18.229334191058218,7.015625/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2065,7 +2065,7 @@ dy .oranges, lemons, limes, &amp;, gene­
 rally, all fruits and comfits, olives,  
 capers, pickles of every fort, oil, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794050201:0003/pct:27.71771771771772,30.681392736802696,16.666666666666668,6.739049045301385/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794050201:0003/pct:27.73273273273273,30.686072631973044,16.674174174174173,6.743728940471733/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2083,7 +2083,7 @@ on bricks, tiles, tables, mortars a»d
 other itcne, and generally, all stone  
 and earthen ware
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794050201:0003/pct:27.86786786786787,38.056907525271434,16.486486486486488,2.6207412953949834/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794050201:0003/pct:27.875375375375377,38.07094721078248,16.5015015015015,2.6301010857356797/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2159,7 +2159,7 @@ lemons, limes, and generally, all
 fruits and comfits, olives, ra­  
 pers, picklcs of every fort, oi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794070101:0002/pct:42.77620396600567,69.21934312592838,13.855266546484676,7.509490014853936/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794070101:0002/pct:42.795518928663405,69.21934312592838,13.842389904712851,7.525994388512956/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2205,7 +2205,7 @@ tion of the duties, fmpofed -by law on
 goods, wares and merchandise imported  
 into the United States, and on the ton
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794070101:0002/pct:59.670357970641255,16.52087803267866,16.32758176667525,21.323650767453376/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794070101:0002/pct:59.67679629152717,16.52913021950817,16.340458408447077,21.32777686086813/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2359,7 +2359,7 @@ treaty or conventions concluded be­
 tween the United States of America  
 aid the French Republic, on the thirti
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804040401:0003/pct:20.516185476815398,2.4924678170364283,19.181977252843396,14.941112024102985/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804040401:0003/pct:20.530766987459902,2.5015977357801518,19.181977252843396,14.945676983474847/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2389,7 +2389,7 @@ on the articles on which the said additional
 duty is laid by this aft.  
 Sec. 1. ,4nd If it farther enacted. Tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804042101:0105/pct:5.0876524390243905,23.397602918186557,17.797256097560975,10.591453882230327/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804042101:0105/pct:5.086683177748142,23.39455516477791,17.800215914142377,10.594416221614345/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2569,7 +2569,7 @@ tion of ten per centum shall be made to the several
 rates of duties ah.ive specified and nnpuerl, in res­  
 pect to ail goods, wares, &amp;. merchandize, ou the im
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1816050901:0946/pct:3.4036068072136145,55.96931436790794,21.46304292608585,3.2763305098289917/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1816050901:0946/pct:3.4027425088877603,55.9603707254714,21.463941086846116,3.2798018536273568/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2609,7 +2609,7 @@ posed, in fespoct toall goods, WW
 chandize, on the importation of Which in Ameri.  
 ot heen harein slrpwly madey which&quot; Witct W
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1816051401:0513/pct:42.11009174311926,90.22894521668029,18.119266055045873,4.548242027800491/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1816051401:0513/pct:42.11518858307849,90.23235213954756,18.134556574923547,4.555055873535023/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2629,7 +2629,7 @@ the seversl rates of duties above specified
 and imposed, in respect to all goods, wares,  
 and merchandise, on the importation of whic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1816051501:0281/pct:2.4784924211388777,40.46438505260612,22.818517001229004,3.4587011730559922/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1816051501:0281/pct:2.4853202239519323,40.46841617285444,22.832172606855114,3.466763413552626/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2678,7 +2678,7 @@ made to the several rates of duties above
 specuied and imposed, in respect to- ail  
 goods, wares and merchandise, on the im
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816081401:0260/pct:27.346133141934327,42.24739672731434,16.61582630540104,2.9866117404737382/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816081401:0260/pct:27.341227125941874,42.24256292906178,16.618825499342183,2.9900839054157133/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2793,7 +2793,7 @@ eight hundred and eighteen, shall be im- ’
 ported in ships or vessels not of the United |  
 States : Pro*v:&#x27;a’eé That this additional du- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010832:1818060901:0265/pct:42.13341256871193,14.0097600650671,16.966275441984845,8.71289141927613/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010832:1818060901:0265/pct:42.138364779874216,14.0097600650671,16.96132323082256,8.726447065202658/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2863,7 +2863,7 @@ day of June, one thousand eight hundred and
 eighteen; shall be il‘rted in ships or vessels  
 not of the United States : Provided, That thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010832:1818062301:0273/pct:6.397857461687249,25.081639102496577,17.080791548876654,11.608553671126092/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010832:1818062301:0273/pct:6.397857461687249,25.081639102496577,17.080791548876654,11.612065030373257/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2959,7 +2959,7 @@ said toiciieth day of June, one thousand eight
 bundred and nineteen, shall be imported in  
 ships or vessels pot of whe United States 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1819071401:0934/pct:28.305946791862286,15.739324785319374,21.009389671361504,12.727914363016115/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1819071401:0934/pct:28.31246739697444,15.74716699996079,21.009389671361504,12.727914363016115/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3083,7 +3083,7 @@ Sec. 4. And be it further enacted.
 That an addition of ten per centum shall  
 be made to the several rates of dutie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025001:00414216328:1823011601:0194/pct:26.74625801853172,58.91820869374795,17.248752672843906,3.022008102485492/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025001:00414216328:1823011601:0194/pct:26.741492962765008,58.91175826582001,17.251618267118,3.0253266184950003/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3164,7 +3164,7 @@ led Slates : 1’iovided, That this addition shall not tie
 applied to anil les imported ill ships or vessels, not of  
 the Coiled Suites, entitled by treaty, or Ivy any act o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183980:1824052501:0025/pct:6.3189889617661175,19.051086033248392,14.90961446168613,4.101443999514622/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183980:1824052501:0025/pct:6.317978246960973,19.048774569279303,14.912561313712946,4.104990698050635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3214,7 +3214,7 @@ articles imported in ship* or vessels of the U,
 States.  
 Sec. 3. And be it further tr,acted, That ther
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348914:1824052701:0300/pct:43.403361344537814,33.989391401451705,16.89075630252101,8.807928531546622/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348914:1824052701:0300/pct:43.39424490653224,33.98464759246336,16.89245956731779,8.810188415910677/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3343,7 +3343,7 @@ States.
   
 Sec. 3. And be it further enacled, Tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015143:1824060801:0297/pct:37.63708144465565,27.27704435368981,15.981868694253546,10.82723905404122/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015143:1824060801:0297/pct:37.646829458497834,27.280210213062336,15.981868694253546,10.830404913413746/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3534,7 +3534,7 @@ couragement and protection of manufactures,” are
 omitted altogether, and the objects confined ex­  
 clusively to “ the support of govornineut, and th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1829021201:0380/pct:66.81672025723472,21.642327028968158,15.0,8.30739765381853/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1829021201:0380/pct:66.80597974602153,21.639736684619987,15.002947007447892,8.310392978256534/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3772,7 +3772,7 @@ lar and twenty-five cents per ton,
 this act imposed, in respect to all goods,  
 wares, and merchandise, on the importa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152743:1832051701:0455/pct:67.86376664980611,89.95660260384376,15.629742033383915,4.550526968381897/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152743:1832051701:0455/pct:67.86938683752037,89.95660260384376,15.635362221098184,4.567059309774747/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3802,7 +3802,7 @@ addition of ten per centum shall be made to
 the several rates of duties by this act imposed,  
 in respect to all goods, wares, and mercha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153139:1832052901:0284/pct:4.642494069806845,39.1355972453099,15.486275838698747,3.395867964853954/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153139:1832052901:0284/pct:4.642494069806845,39.1355972453099,15.50321924771264,3.4037837409958045/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3926,7 +3926,7 @@ ditinn of ten per centum shall be made to the se­
 veral rater, of duties by this act imposed, in respect  
 to all goods, wares, and merchandise, on tho im
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184340:1832070601:0235/pct:48.3095204413637,51.41626278944534,14.58480690338096,4.544964997307485/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184340:1832070601:0235/pct:48.3026874115983,51.410725823820805,14.587458745874587,4.548065187737813/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3999,7 +3999,7 @@ often per centum shall he made to the several rates of
 duties by this act imposed, in respect to all goods, wares  
 and merchandise, on the importation of which, in Ameri
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1832072401:0096/pct:35.474975872052944,51.05985722130698,14.61464221701365,2.2405271828665567/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1832072401:0096/pct:35.47008547008547,51.05424994509115,14.617222681738811,2.243941723405813/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4124,7 +4124,7 @@ addition of ten per centum shall be made to the
 several rates of duties by this act imposed, in  
 respect to all goods, wares, and merchandise, o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216468:1832091501:0578/pct:62.857142857142854,68.90391115403187,17.639007698887937,8.305166586190246/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216468:1832091501:0578/pct:62.84639069449196,68.89559444779722,17.64169232523663,8.308187487427077/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4182,7 +4182,7 @@ made to the several rates n&lt; duties by this
 act imposed, in respect to all goods, wares  
 and merchandise, on the importation o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn87062070:0039334295A:1832100301:0511/pct:24.257315166406077,12.343011478730588,18.740227831136924,7.643484132343011/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn87062070:0039334295A:1832100301:0511/pct:24.251898168825367,12.34134485552255,18.743486675599225,7.646952921055/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4319,7 +4319,7 @@ addition of ten per centum shall be made to the
 several rates of duties by this act imposed, in re­  
 spect to all goods, wares, and merchandise, on th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1842091601:0610/pct:28.86996904024768,138.23990871487663,55.57275541795666,11.752959634859506/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1842091601:0610/pct:7.218889103928778,34.55997717871916,13.895877685310625,2.9382399087148765/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4338,7 +4338,7 @@ addition of tea per centum shall be made to the
 several rates of duties by this act imposed, in rc...  
 spcct to all goods, wares, and merchandise, on th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kershawhogjam_ver03:data:sn85042795:00295861848:1842092701:0123/pct:1.828049128820337,48.59721404747891,16.466723793201943,3.3843437316068274/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kershawhogjam_ver03:data:sn85042795:00295861848:1842092701:0123/pct:1.828049128820337,48.59721404747891,16.471484337808246,3.3876136289320513/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4387,7 +4387,7 @@ to the several rates of duties by this act im­
 posed, in respect to all goods, wares, and  
 merchandise, on the importation of which
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn84023647:00280777778:1842112201:0370/pct:74.47470817120623,108.19573701591113,52.06225680933852,16.091263884719304/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn84023647:00280777778:1842112201:0370/pct:18.629550321199144,27.048934253977784,13.023165271559275,4.022815971179826/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4453,7 +4453,7 @@ Preamble recites that ol the act of June 17th,
 vernment. and the discharge ot the said debts,  
 render it necessary to increase the said duties.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664278:1844090601:0527/pct:45.631929046563194,78.7573225775473,13.628972653362897,1.738211850571401/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664278:1844090601:0527/pct:45.631929046563194,78.7573225775473,13.63389997536339,1.744614104164666/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4471,7 +4471,7 @@ paid until the debts and purposes for which they
 are pledged and appropriated shall be fully dis­  
 charged.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664278:1844090601:0527/pct:45.6910569105691,81.57111303178719,13.377679231337767,1.8438490348602707/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664278:1844090601:0527/pct:45.70091155457009,81.57431415858382,13.377679231337767,1.8438490348602707/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4501,7 +4501,7 @@ as and coffees, on spirits und wines, and on those
 urnerated in .he following clause, show that the  
 incipleof protection to manufactures was not iniduced
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846062001:0642/pct:59.06925031766201,60.321043391020815,14.51715374841169,7.850514171055932/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846062001:0642/pct:59.06925031766201,60.321043391020815,14.527742481999153,7.858874676030433/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4529,7 +4529,7 @@ her wrought silks; cambrics, muslins, muelmets,
 wns, laces, gauzes, chintzes, and colored calicoes  
 d nankeens, seven ami a half per cent., ad valom.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846062001:0642/pct:59.03748411689962,68.008527715074,13.83418043202033,6.8597943315776275/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846062001:0642/pct:59.03748411689962,68.01688822004849,13.844769165607794,6.8597943315776275/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4553,7 +4553,7 @@ and the discharge of the said debts render it nccess iry to in­
 crease the said duties.&quot; The act then provides a long list  
 ol specific duties; then a list of ad valorem duties; then 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664333:1852041601:0008/pct:35.81071273043983,63.63199384733705,15.764261866744084,4.028071524706787/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664333:1852041601:0008/pct:35.81071273043983,63.63199384733705,15.769100498379059,4.031276036659617/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4692,7 +4692,7 @@ prevent the Legislature of the United States from
 substituting other duties or taxes, of equal value  
 to any or all of the said duties and imposts.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661630:1864051201:0307/pct:33.59407163441745,35.924324324324324,15.685467270481679,14.659459459459459/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661630:1864051201:0307/pct:33.603220346736194,35.924324324324324,15.680892914322309,14.666666666666666/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4803,7 +4803,7 @@ that act was as follows:
 That an addition of ten per centum shall be  
 made to the several rates of duties hereb
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ibizanhound_ver01:data:sn83045462:00280655156:1897092101:0597/pct:43.18737079496335,53.637123745819395,14.113888366848336,4.222408026755853/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ibizanhound_ver01:data:sn83045462:00280655156:1897092101:0597/pct:43.20146588987033,53.637123745819395,14.109190001879346,4.23634336677815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4835,7 +4835,7 @@ vided, That thlfc addition shall not be ap­
 plied 10 articlesimported in ships or vessels,  
 not ot the United States, entitled by treat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dutch_ver02:data:sn85054468:211102111:1897092201:0104/pct:27.922661870503596,88.90287152499714,17.850719424460433,11.520421004461731/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dutch_ver02:data:sn85054468:211102111:1897092201:0104/pct:18.62348178137652,59.2723944628761,11.905832958464538,7.676467223429814/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

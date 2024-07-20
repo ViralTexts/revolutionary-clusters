@@ -994,7 +994,7 @@ crowns,
 And push us from our stools. This is  
 most s&#x27;range 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216237:1818030601:0526/pct:45.00634786288616,22.479721900347624,16.906474820143885,5.780867773915283/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216237:1818030601:0526/pct:44.99682674000423,22.476828012358393,16.909949933008956,5.7844146927566085/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1716,7 +1716,7 @@ Now hatched to the woeful time. * *
 * * * * some say the earth  
 Was feverous and shake.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_mica_ver01:data:sn83016869:print:1849020701:0001/pct:64.62227414330218,37.73987206823028,14.816978193146417,3.7979744136460556/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_mica_ver01:data:sn83016869:print:1849020701:0001/pct:64.60969437414833,37.73484343770819,14.818960482772045,3.800799467021985/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1868,7 +1868,7 @@ And there an end: but now they rise again,
 With twenty mortal murders on their crowns,  
 And push us from our stools.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661617:1854100701:0297/pct:20.63239965347964,40.18123549563488,12.691308114351719,2.530666371974804/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661617:1854100701:0297/pct:20.642025218981615,40.1886027922054,12.691308114351719,2.530666371974804/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2089,7 +2089,7 @@ body, forsnaify reasons, the first of wliich is,
 there is a® .such :a thing.  
 The air displaced by the ball closes instantl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_frost_ver02:data:sn85026213:print00211110090:1862041301:0006/pct:44.770177343467246,26.94739674424862,12.015924719507781,10.345755415041033/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_frost_ver02:data:sn85026213:print00211110090:1862041301:0006/pct:44.779225479551215,26.950760123772366,12.011400651465799,10.345755415041033/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2122,7 +2122,7 @@ thing, for many reasons, the first of which
 is, that there is no such thing.  
 The air displaced by the ball closes instant
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009571:00279523891:1862050201:0491/pct:128.60535064112713,197.83675289919714,37.91356656640811,33.195807314897415/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009571:00279523891:1862050201:0491/pct:42.8616650838873,65.93823168692163,12.635855228447822,11.064035381127587/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2144,7 +2144,7 @@ And there an end; but now they rise again,
 With twenty mortal murders on their crowns,  
 And push us from our stools.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271769416:1862050301:0644/pct:9.028691760989734,23.39519318527533,13.345617267702027,4.72568704999493/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271769416:1862050301:0644/pct:9.037465999824516,23.39519318527533,13.345617267702027,4.72568704999493/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2170,7 +2170,7 @@ With twenty mortal murders on their crowns,
   
 And push us from our stools
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295730:1862050801:0452/pct:26.6046511627907,278.3798187955232,98.69767441860465,29.52567063421567/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295730:1862050801:0452/pct:6.653483773409329,69.5949546988808,24.68302896359195,7.381417658553917/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2190,7 +2190,7 @@ And there an end; but now they rise again,
 With twenty mortal murders on their crowns,  
 And push us from our stools.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414183402:1862071001:0311/pct:68.36716681376876,16.33208133661443,12.65666372462489,2.564434658722963/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414183402:1862071001:0311/pct:68.3551006000706,16.32996632996633,12.65884221673138,2.5673400673400675/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2519,7 +2519,7 @@ ow hatch&#x27;d to the woeful time. The obscure bird
 Clamor&#x27;d the livelong night; some say the earth  
 Was feverous and did shake.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn83045629:00200293551:1867121801:0176/pct:71.8851570964247,55.51004486054223,48.97074756229686,12.287887653598595/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn83045629:00200293551:1867121801:0176/pct:17.976158222703873,13.877511215135558,12.246003793010024,3.071971913399649/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

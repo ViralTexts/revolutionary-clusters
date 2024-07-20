@@ -90,7 +90,7 @@ pemlcnoe of the U. S.
 &#x27;Hi : JEFFERSON.  
 By t!ie Prefiden
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1807080401:0109/pct:80.14158649482664,29.180804653417354,16.954075149754946,13.96025206010664/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1807080401:0109/pct:80.12704174228675,29.17726887192536,16.957047791893526,13.962599458782664/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -133,7 +133,7 @@ By the President,
 James Madison,  
 Secretory of State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807080501:0657/pct:27.87588294651867,69.13401064344461,21.871846619576186,19.045315271730367/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807080501:0657/pct:27.868852459016395,69.12286359238955,21.872635561160152,19.04627539503386/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -180,7 +180,7 @@ By the President,
 JAMES MADISON,  
 Secretary of State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807080501:0255/pct:6.422018348623853,22.533062054933875,17.775229357798164,19.086978636826043/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807080501:0255/pct:6.420791133193197,22.53019707565162,17.778202433276004,19.088789997880905/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -230,7 +230,7 @@ By the President
 JA-V11i.6 iYIADSISON,  
 &#x27;. cr tary of State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807080701:0004/pct:78.44066336420418,2.287044645302657,18.651733792806375,23.240208162147358/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807080701:0004/pct:78.45502189676215,2.287044645302657,18.651733792806375,23.24933808089108/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -278,7 +278,7 @@ dence of tiic United States.
 By the President, J A.Mha M ALISON,  
 •Sec. tf Si t 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1807081001:0237/pct:43.54212392368732,11.447949850991677,17.963869660644942,26.26657075326277/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1807081001:0237/pct:43.534773801485485,11.446773530620632,17.965057393652938,26.266440608302506/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -327,7 +327,7 @@ By the President.
 JAMES MADISON, ,  
 * _ Secretary sf State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1807081101:0548/pct:41.232898254442524,24.441340782122904,16.826545054253813,22.15682362330407/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1807081101:0548/pct:41.232898254442524,24.44466613461027,16.84227079729517,22.153498270816705/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -428,7 +428,7 @@ liundi&#x27;t- I and seven ; an*l
 In the thirty second year  
 of tiie Independ
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807081201:0004/pct:59.422492401215806,2.998065764023211,37.32088580112896,95.09533020171318/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807081201:0004/pct:59.422492401215806,3.002671087777471,37.335359675785206,95.1045408492217/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -566,7 +566,7 @@ By tiie President
 &#x27; JAMIiS MADSISON,  
 &#x27;Secretary of State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807081401:0004/pct:78.60633099638835,2.6971522453450163,18.270660718079455,22.864184008762322/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807081401:0004/pct:78.62049429927059,2.6971522453450163,18.270660718079455,22.873311427528296/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -617,7 +617,7 @@ By the President
 &#x27; JAMES MADSISON,  
 &#x27;Secretary of State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807081701:0004/pct:59.49529512403764,2.3287484679286394,37.5748502994012,95.50592400926053/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807081701:0004/pct:59.50955232392358,2.3378274093240727,37.58910749928714,95.5013845385628/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -699,7 +699,7 @@ Whereas great and weighty matters,
 claiming the consideration of the congress  
 of the U. States, form an extraordinary
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016082:00332895084:1814082201:0095/pct:39.55602536997886,57.526037951205595,17.88583509513742,4.394350121272649/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016082:00332895084:1814082201:0095/pct:39.547664341576834,57.51783166904422,17.88733882900021,4.397289586305278/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -786,7 +786,7 @@ teenth day of May, in the year of our
 Lord one thousand eight hundred and  
 thirty even, and of the independence o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197954:1837052401:0538/pct:83.8882618510158,7.487996731024619,20.076185101580137,20.19613852283175/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197954:1837052401:0538/pct:62.94989414255469,5.618551435284503,15.059985885673958,15.14965777913985/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -824,7 +824,7 @@ day of May, [in the year of&#x27;our Lord one
 thonsand eight hundred and thirty-seven  
 and of the indepandence of the Unite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1837052401:0664/pct:22.30509678565086,40.4622776262823,14.455691706624046,10.453187897675626/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1837052401:0664/pct:22.31693600899781,40.47093451066961,14.46161131829752,10.448859455481973/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -877,7 +877,7 @@ of our Lord, ono thousand eight
 hundred and thirty seven, and of  
 . v tho independence of tho Unite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn83016620:00202197991:1837053101:0204/pct:108.96424815983175,8.83170355120947,35.291798107255524,129.27431806484816/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn83016620:00202197991:1837053101:0204/pct:72.6567635072959,5.88780236747298,23.530958327855924,86.18630983015954/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -935,7 +935,7 @@ fifteenth day of May, in the year
 of our Lord, one thousand eight  
 hundred and thirty seven, and o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn83016620:00202197991:1837061401:0215/pct:118.91361256544502,80.78923218109513,17.93193717277487,19.567655756092588/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn83016620:00202197991:1837061401:0215/pct:79.2904830475193,53.85948812073009,11.951826155255924,13.051901702865301/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1086,7 +1086,7 @@ By the President,
 JAMES MADISON,  
 Secretary of State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152755:1837102601:0390/pct:20.916368591381367,4.517505333166018,46.39754726622381,92.82218597063621/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152755:1837102601:0390/pct:20.922046215863283,4.5258710837829925,46.40322489070573,92.82218597063621/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

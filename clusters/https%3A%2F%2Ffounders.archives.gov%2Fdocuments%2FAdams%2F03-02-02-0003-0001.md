@@ -116,7 +116,7 @@ stone&#x27;s Sketches of Men and Manners,
 the Citizen of the World, or Letters  
 from a Chinese Philosopher, and al
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1803061001:0091/pct:6.198798470780994,12.728212194281777,42.162752594210815,80.6751636238374/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1803061001:0091/pct:6.197106197106197,12.726020320303082,42.158067158067155,80.6655760289306/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -152,7 +152,7 @@ stone’*.Sketches of Men and Manners\
 the Citizen of the World, or Letters  
 from a Chinese Philosopher, am* a/
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1803061701:0095/pct:5.946239478685854,11.835334476843911,41.542221015476514,80.97770154373929/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1803061701:0095/pct:5.944625407166124,11.833304750471617,41.53773072747014,80.96810152632482/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -189,7 +189,7 @@ stone&#x27;s Sketches of Men and Monsters,
 the Citizen of the World, or Letters  
 from a Chinese Philosopher, and al
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1803062401:0099/pct:26.819184123484014,13.680555555555555,20.369349503858874,20.59027777777778/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1803062401:0099/pct:26.81179388261229,13.678180871376497,20.37062551667126,20.591043221662904/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -321,7 +321,7 @@ Federal Constitution, and has ever been on
 July 4, 1776, calculated chiefly for the use of the  
 commonwealth of Massachusetts, Boston, th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_hera_ver01:data:sn83021205:00517171530:1876061401:0553/pct:19.6274246207029,18.652997294603445,13.961974265411946,1.0109639755090418/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_hera_ver01:data:sn83021205:00517171530:1876061401:0553/pct:15.211351458622742,14.459648348414625,10.830521928954157,0.7834915029794747/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

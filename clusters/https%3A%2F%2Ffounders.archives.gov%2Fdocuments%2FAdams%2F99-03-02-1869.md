@@ -57,7 +57,7 @@ pors since my arrival here -~
 eor s, HE. o, frbidess DS  
 _neitter Englith vessels nor Englifl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1811021901:0029/pct:77.53894080996885,73.02892234548337,16.838006230529594,16.24405705229794/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1811021901:0029/pct:77.53894080996885,73.03222398309562,16.853582554517136,16.253961965134707/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -187,7 +187,7 @@ and of papers. The inevitable and
 “ané all of them involved in one gene­  
 ‘ tat proscription.” ’ ot 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1811021901:0030/pct:6.078215800219883,4.330591616291745,17.73205591330297,78.0992964027351/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1811021901:0030/pct:6.0834511282131825,4.3371981633799095,17.737291241296266,78.09599312919103/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -291,7 +291,7 @@ althct&#x27; thisdclermtnation, so explicatly ma
 niteated, did not sCCQMMCHd messlo the la­  
 vur ofEnglidtmmsi nor even to thm of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216134:1811022001:0163/pct:46.29538360440282,20.08243865030675,22.063413832758336,55.01342024539877/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216134:1811022001:0163/pct:46.287779237844944,20.08051375443305,22.065265002190102,55.011342215406245/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -336,7 +336,7 @@ qumce ol which Would haw been. that the
 ed with the lilse, and all of them invulred  
 in one general proscripiion.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216134:1811022001:0163/pct:68.49022506982092,7.668711656441718,22.753408904222113,22.49808282208589/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216134:1811022001:0163/pct:68.47897503285151,7.667976612671332,22.75514673674989,22.4991213776798/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -483,7 +483,7 @@ been, that the true Americans would have
 been confounded with thw false, and «ll of  
 them involved in one general procrastinations
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1811022101:0365/pct:51.77171527124491,0.8462763839107925,44.873000940733775,94.95221027479091/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1811022101:0365/pct:51.77694156998014,0.8462763839107925,44.86777464199854,94.95221027479091/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -628,7 +628,7 @@ q u nee of which would have been confound
 ed wi h the false, and &#x27;&lt;11 ot them involved in  
 cine general proscription.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1811030101:0389/pct:6.018434845472619,17.75242301558091,17.802277245617205,73.16893632683106/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1811030101:0389/pct:6.017347307553307,17.750245338567222,17.805083724852427,73.16404972194962/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -768,7 +768,7 @@ and all of thefn involved in ouc general pro.
 Svript.oii.&quot;  
 KOTt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811030101:0082/pct:4.230274048188339,16.91305437233776,20.489240389920912,67.13856176396894/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811030101:0082/pct:4.229496138286135,16.910935738444195,20.49160230476891,67.1343271117792/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

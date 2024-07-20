@@ -156,7 +156,7 @@ of 2000 men every year to our present number :
 Our lund is fertile, and we are not in the use of  
 luxuries. He®ce it is, that we have a great dea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025586:0051701512A:1787032401:0461/pct:5.405405405405405,5.146124523506988,56.14803993182372,85.24459974587039/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025586:0051701512A:1787032401:0461/pct:5.405405405405405,5.15141889030072,56.17238860482104,85.24459974587039/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -834,7 +834,7 @@ And be it further enarted. That in case of the death of any
 ol the -*fd deputies, or ol thmr declining their appoint­  
 ments, the executive is hereby authoriard to supp y saa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850020901:0176/pct:49.08302767589196,63.829508196721314,16.355451817272424,25.049180327868854/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850020901:0176/pct:49.08302767589196,63.829508196721314,16.377681449372012,25.062295081967214/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -855,7 +855,7 @@ KqnvocAi. ?Our old friend, ex-Senator Weetcott, on
 learning that Messrs. Clay and Houston had severally ex  
 preened their fervent desires to be immured in grave o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850020901:0176/pct:49.2164054684895,88.66885245901639,16.138712904301435,4.406557377049181/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850020901:0176/pct:49.2219628765144,88.6775956284153,16.14982772035123,4.4021857923497265/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -894,7 +894,7 @@ Sec. III. The Gorernnr of this State shall
 issue writs of election to the Managers of EU  
 ection, requiring them to holdelection* in thei
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn85042796:00202193973:1850122401:0400/pct:4.723096869790702,18.477371067711378,19.170216706797554,15.530347327797918/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn85042796:00202193973:1850122401:0400/pct:4.735444835463357,18.485167426811678,19.170216706797554,15.530347327797918/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -931,7 +931,7 @@ Sec. 3. The Governor of this Statfi shall issue writs oi
 election to the managers of Elections, requiring them to  
 hold elections in th. ir respective Congressional Districts o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566431A:1850122401:0606/pct:4.306569343065694,20.781661029688088,15.927007299270073,8.765501691093574/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566431A:1850122401:0606/pct:4.311435523114355,20.787924339220844,15.931873479318735,8.768633345859952/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -962,7 +962,7 @@ in Congress or Convention as above recom.
 mended, and to join with them in discuss.  
 ing and devising such measures, as in thei
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn86053240:00237288488:1850122501:0328/pct:53.91531322505801,102.63591433278418,39.60266821345708,26.974190005491486/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn86053240:00237288488:1850122501:0328/pct:17.971771075019333,34.211971444261394,13.200889404485693,8.991396668497163/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -993,7 +993,7 @@ in Congress or Convention as above recom­
 mended, and to join with them in discuss.­  
 ing and devising such measures, as in thei
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn86053240:00237288488:1850122501:0329/pct:51.44230769230769,101.90202366471304,40.39918414918415,26.971137896715693/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn86053240:00237288488:1850122501:0329/pct:17.147435897435898,33.96734122157101,13.466394716394717,8.99037929890523/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1043,7 +1043,7 @@ Sec. 3. The Governor of thia State ihall iaaue writs of elec­
 tion to the managers of election, requiring them to hold elec­  
 tions in their respective Congressional districts on the secon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1851010401:0486/pct:67.50139120756818,14.894298526585523,15.55370061213133,13.121930386504378/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1851010401:0486/pct:67.50139120756818,14.89785749875436,15.558337970691895,13.121930386504378/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1231,13 +1231,13 @@ at the end of neurly seventy years since this constitu- Ameri
 was given to the world, and since the laws necessary worth;  
 trry it into effect were passed, we have a miserable will s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:0041566123A:1854070901:0034/pct:53.84124960153012,51.672768589824514,16.01848900223143,9.241257416992804/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:0041566123A:1854070901:0034/pct:53.84656253320582,51.672768589824514,16.01848900223143,9.253882085595253/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The United States Review (1853-1856)_](https://archive.org/details/sim_united-states-democratic-review_1855-07_36/page/n53/mode/1up?view=theater)
+## [From _The United States review_](https://archive.org/details/sim_united-states-democratic-review_1855-07_36/page/n53/mode/1up?view=theater)
 
 #### 1855-07-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -1255,7 +1255,7 @@ Union,” ete., with the usual clause for reporting
 
 ---
 
-## [From _The United States Review (1853-1856)_](https://archive.org/details/sim_united-states-democratic-review_1855-07_36/page/n55/mode/1up?view=theater)
+## [From _The United States review_](https://archive.org/details/sim_united-states-democratic-review_1855-07_36/page/n55/mode/1up?view=theater)
 
 #### 1855-07-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -1312,7 +1312,7 @@ South Carolina stated the object to be &quot;devising
 &quot;the confederated States.&quot;  
 All the other States stated t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530662:1860112101:0577/pct:152.03730976926855,103.44256476990418,47.586319751268206,25.55305808588667/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530662:1860112101:0577/pct:50.67910325642284,34.48085492330139,15.862106583756068,8.517686028628889/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1344,7 +1344,7 @@ vidual State, and for no other purpose; and
 whereas, in the combined wisdom of the delegates  
 of the several States thus assembled, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026372:1860112601:0517/pct:50.826210826210826,51.506600826363,11.21082621082621,5.945782525445933/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026372:1860112601:0517/pct:50.83570750237417,51.51331922469683,11.215574548907883,5.939064127112096/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1416,7 +1416,7 @@ adcqhatc to the exigencies of the Union, and
 for such enactments as will effectually provide  
 for the sam**,”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1861020801:0003/pct:23.264017823988116,84.13621262458472,10.174526550315633,10.949612403100776/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1861020801:0003/pct:23.268659487560342,84.13621262458472,10.174526550315633,10.970376522702104/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1450,7 +1450,7 @@ Constitution. Their sentiments accord with
 the opinions of those who, at on earlier day,  
 vindicated the rights.of the people, even to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1861020801:0003/pct:33.23431117712588,3.1284606866002216,10.137393241737838,6.4091915836101885/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1861020801:0003/pct:33.243594504270334,3.138842746400886,10.132751578165614,6.4091915836101885/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1475,7 +1475,7 @@ is requested to transmit copies of these resolutions
 to the Executives of each of the States of  
 the Union
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664382:1861021501:0479/pct:39.90206458443621,26.995054785222536,12.983059820010588,5.0421797731019105/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664382:1861021501:0479/pct:39.906476089641785,26.995054785222536,12.987471325216164,5.045411939623129/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1543,7 +1543,7 @@ States, will ellectually provide for thtt purpose.
 Nexrcame the State of North Carolina, using the fol  
 lowing words: &quot; For the purpose of revising the redera
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022810:1863062301:0160/pct:27.105427323767934,49.42258100683933,19.089207735495947,4.98934858167956/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022810:1863062301:0160/pct:20.34321372854914,37.0669357551295,14.321372854914197,3.744814441080839/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1567,7 +1567,7 @@ pose to the-United States in Congress a5-airjled. as, when
 agreed to by them, and duly confirmed br Hie several  
 Slates, will effectually provide. ibr lb.it purpose.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045706:00296022664:1863062401:0316/pct:26.882530120481928,47.916930479929086,20.237198795180724,5.1918450044320625/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045706:00296022664:1863062401:0316/pct:20.17329063853833,35.937697859946816,15.20060275004709,3.9002152716221348/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1585,7 +1585,7 @@ of extending the revision of the Federal
 system to all its defects;&quot; and that, as  
 her citizens had &quot;united with the othe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867022801:0191/pct:65.8934169278997,370.11725293132326,38.43260188087774,5.449469570072585/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867022801:0191/pct:16.473354231974923,92.52931323283082,9.608150470219435,1.3623673925181463/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1617,7 +1617,7 @@ men who framed the Constitution of
 1787 were not of that class of men in  
 which the grub of subserviency to the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867022801:0191/pct:65.95611285266457,209.67057509771078,76.61442006269593,174.07035175879398/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867022801:0191/pct:16.489028213166144,52.417643774427695,19.153605015673982,43.517587939698494/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1824,7 +1824,7 @@ been glorious in war.&quot;
 Liberty has anointed him as the first citizen  
 in the Great Republic of Humanity
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn82014424:00211102834:1885022101:0186/pct:16.090985678180285,178.58392999204455,48.69418702611626,18.64757358790772/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn82014424:00211102834:1885022101:0186/pct:4.022746419545071,44.645982498011136,12.173546756529065,4.66189339697693/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1859,7 +1859,7 @@ men, Virginia, adopting the words of
 Madison, and moved by the constant  
 spirit of Washington, joined in convo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_tesla_ver01:data:sn85038614:00175030876:1885022201:0197/pct:7.202993451824135,233.46166185434714,35.25101340816963,31.066196128756282/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_tesla_ver01:data:sn85038614:00175030876:1885022201:0197/pct:2.4009978172747117,77.82055395144904,11.750337802723209,10.355398709585428/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

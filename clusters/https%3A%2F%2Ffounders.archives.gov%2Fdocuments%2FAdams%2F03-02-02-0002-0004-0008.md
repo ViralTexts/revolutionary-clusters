@@ -897,7 +897,7 @@ KKails her in onliv’nmg airs.
 Warriors she (Ires with animated sounds,  
 Hours balm into the bleeding lover&#x27;s wounds 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn93051027:00279557931:1856092701:0205/pct:52.147239263803684,50.55722891566265,15.153374233128835,12.033132530120483/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn93051027:00279557931:1856092701:0205/pct:52.147239263803684,50.568524096385545,15.168711656441717,12.044427710843374/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -953,7 +953,7 @@ Music her soft assuasive voice applies;
 Or, when the soul is pressed with cares,  
 Exalts her in enlivening air
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279520956:1867102601:0758/pct:106.49122807017544,185.35645472061657,39.32017543859649,6.438664097623636/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279520956:1867102601:0758/pct:26.61696996272747,46.3316744260716,9.827888620916466,1.6094076095681489/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1100,7 +1100,7 @@ I Exalts her in ehllvcning airs.
 j Pours balm into the bleeding lover&#x27;s  
 | wounds
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_eclipse_ver01:data:sn86090500:00513688027:1894060901:0969/pct:68.24963227568817,44.470851391024745,13.196049590250052,4.208024605060814/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_eclipse_ver01:data:sn86090500:00513688027:1894060901:0969/pct:68.26364082090075,44.470851391024745,13.203053862856342,4.2266648026469085/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

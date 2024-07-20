@@ -224,7 +224,7 @@ us,&quot; and the submarine bombs, to
 which he now gave the name of tor­  
 pedoes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hershey_ver01:data:sn83032011:00296028423:1898052601:0123/pct:35.57562076749436,58.53231454950652,13.769751693002258,15.663801337153773/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hershey_ver01:data:sn83032011:00296028423:1898052601:0123/pct:35.58314522197141,58.53231454950652,13.792325056433409,15.669107502918392/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

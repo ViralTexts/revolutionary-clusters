@@ -794,7 +794,7 @@ tion of your health, I have the honor to be,
 very refpeifully, Sir, your most obedient  
 servant, GEORGE WASHINGTON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1778100601:0066/pct:35.91136215511623,21.004172061573875,28.24245057571149,38.29664796432168/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1778100601:0066/pct:35.92584546310377,21.004172061573875,28.227967267723947,38.306238910468515/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -875,7 +875,7 @@ of malice and detraction.&quot;
 Burgoyne was free to acknowledge  
 every noble and lofty sentiment. H
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_gary_ver01:data:sn84023881:00202191368:1853120901:0065/pct:25.82710779082177,125.5629691409508,42.79615795090715,35.40450375312761/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_gary_ver01:data:sn84023881:00202191368:1853120901:0065/pct:6.456776947705443,31.3907422852377,10.699039487726788,8.851125938281902/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1005,7 +1005,7 @@ storation of your health, I have the honor to be,
 &quot; Very respectfully, sir, your mo?t obedient servant,  
 &quot;GEORGE WASHING ION.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661617:1854111101:0343/pct:20.271428571428572,67.36911425749095,15.514285714285714,13.719679508286687/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661617:1854111101:0343/pct:20.271428571428572,67.37643141989537,15.528571428571428,13.719679508286687/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -248,7 +248,7 @@ State, at Boston the Fourth Day of February in
 the Year of our Lord 1779.  
 By the Command of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_baxter_ver01:data:sn83009653:00279524044:1876050901:0088/pct:95.2833078101072,48.41212371987173,40.03062787136294,15.744284679838627/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_baxter_ver01:data:sn83009653:00279524044:1876050901:0088/pct:31.756239473281273,16.135705419942077,13.341499515132956,5.247552061784582/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -284,7 +284,7 @@ iSAAC JOHNSON.
 ChARLEs GAvArrE,  
 Secretary of State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_forge_ver01:data:sn85038558:00280761540:1879041901:0068/pct:126.864,118.56606136505948,37.584,31.778334376956796/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_forge_ver01:data:sn85038558:00280761540:1879041901:0068/pct:42.288,39.52202045501983,12.528,10.592778125652265/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -315,7 +315,7 @@ ai he and   ade  e er a
 doing this shall be your commission. Signed by Com  
 doing the whan ha y oun sommiasional sonh ba to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044851:1884122101:0395/pct:173.07984790874525,312.30534351145036,54.06844106463878,24.30534351145038/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044851:1884122101:0395/pct:43.26996197718631,78.07633587786259,13.517110266159696,6.076335877862595/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -334,7 +334,7 @@ Chief of the Province of Pennsylvania and
 counties of New Castle, Kent and Sussex, \
 on Delaware, to John Fraser, Bernard 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:0041562394A:1894080401:0145/pct:36.78025851938895,85.76972833117723,11.770466118292205,2.400459968377174/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:0041562394A:1894080401:0145/pct:36.79331505418462,85.76972833117723,11.78352265308787,2.400459968377174/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -355,7 +355,7 @@ discipline of the Miitia of this State: And this shall
 be your sufficient WARRANT.  
 GivEn under my Hand, at Kandolph this 1ath da
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jaguar_ver01:data:sn83030214:00175038899:1896021601:0304/pct:51.57416423239208,113.30357142857143,47.32229795520935,8.772321428571429/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jaguar_ver01:data:sn83030214:00175038899:1896021601:0304/pct:17.191388077464026,37.767857142857146,15.774099318403115,2.924107142857143/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -408,7 +408,7 @@ By His Excellency’s command.
 J. Bklchkr.  
 CASTORf
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:0051368535A:1897040101:0104/pct:6.431079894644425,66.06813996316758,14.596136962247586,22.298956414978516/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:0051368535A:1897040101:0104/pct:6.429668641650209,66.05800214822771,14.598420013166557,22.299370876170016/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

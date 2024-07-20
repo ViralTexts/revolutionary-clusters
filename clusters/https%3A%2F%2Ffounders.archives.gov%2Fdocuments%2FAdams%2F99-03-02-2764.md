@@ -599,7 +599,7 @@ thy neighbor as thyself.
 anwered right: This do and thou shalt  
 live
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn84028083:00280775241:1860062901:0322/pct:278.7644787644788,187.09960508995172,50.03861003861004,20.88635366388767/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn84028083:00280775241:1860062901:0322/pct:69.6911196911197,46.77490127248793,12.50965250965251,5.221588415971918/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -622,7 +622,7 @@ neighbor as thyself. And lie said unto him,
 thou hast answered right; this do and thou  
 shaltlive. L’ut lie, willing to justify himself
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn84038814:00279557207:1860072801:0095/pct:30.012431184514295,63.07515337423313,12.395666844255016,4.115541922290388/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn84038814:00279557207:1860072801:0095/pct:30.016870893269402,63.084739263803684,12.395666844255016,4.1219325153374236/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -806,7 +806,7 @@ eternal life. We are to love od with all the
 motions and inclinations of the heart, with all the  
 thoughts and conceptions of the soul, with all th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_itchweed_ver01:data:sn83030313:0027174383A:1873082501:0630/pct:106.60501981505945,39.597161821927216,46.31770145310436,27.306019684138246/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_itchweed_ver01:data:sn83030313:0027174383A:1873082501:0630/pct:35.53500660501982,13.199053940642404,15.439233817701453,9.102006561379415/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -830,7 +830,7 @@ with all thy mind; and thy neighbor as thyself. And
 he said unto him, Thou hast answered right, this do and  
 thou shalt live.&quot; The preacher said substantially
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hugo_ver01:data:sn83030214:00206531174:1874062901:0753/pct:101.79727979274611,40.6818441825878,48.170336787564764,15.45589749456584/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hugo_ver01:data:sn83030214:00206531174:1874062901:0753/pct:33.93242659758204,13.560614727529268,16.056778929188255,5.151965831521946/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1014,7 +1014,7 @@ eternally.
 2t&gt; Hut he, willing to justify himself, said  
 untoJesus, And who is my neighbor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016184:1881033101:0052/pct:3.826728826728827,55.663926431656684,12.626262626262626,11.857322000836003/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016184:1881033101:0052/pct:3.8259856282773352,55.65617163555308,12.628665760341814,11.85915296740039/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1039,7 +1039,7 @@ this do, and thou shalt live. But he,
 lesiring to justify himself, said unto  
 Jesus, And who is my neighbor? Je
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_montpelier_ver01:data:sn84023253:00200296308:1882061601:0312/pct:14.581881533101045,33.410577971646674,33.65853658536585,18.484187568157033/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_montpelier_ver01:data:sn84023253:00200296308:1882061601:0312/pct:4.861474124411918,11.136859323882225,11.221467154556542,6.161395856052344/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1231,7 +1231,7 @@ than many of us would have been.
 swered right; this do, and thou shalt live.&quot;  
 The keeping of the law which God require
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_beatles_ver01:data:sn84027718:00271762707:1890052801:0104/pct:113.68948247078464,63.053691275167786,14.468558708959376,4.541387024608501/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_beatles_ver01:data:sn84027718:00271762707:1890052801:0104/pct:85.27897592876026,47.293064876957494,10.852928899401698,3.411633109619687/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1261,7 +1261,7 @@ The keeping of law which God requires was
 explained by the Saviour in His sermon on  
 the mount, when He taught that hatred i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287356:1890052801:0246/pct:84.43002780352178,31.00074444326279,15.801668211306765,6.5723705200467935/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287356:1890052801:0246/pct:84.4351766038513,31.00074444326279,15.801668211306765,6.583005423800914/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1401,7 +1401,7 @@ thy soul and with all thy strength and with all
 thy mind, and thy neighbor as thy self.&quot; John  
 11. 3. 5,7: &quot;Jesus answered and said unto him
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_kobayashi_ver01:data:sn83030193:00206539811:1894092201:0345/pct:271.53179190751445,166.30434782608697,43.713872832369944,14.89769820971867/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_kobayashi_ver01:data:sn83030193:00206539811:1894092201:0345/pct:67.89521228545618,41.57608695652174,10.930442637759711,3.7244245524296673/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1423,7 +1423,7 @@ thy soul and with all thy strength and with all
 thy mind, and thy neighbor as thy self.&quot; John  
 114.. 3, 5, 7 &quot;Jesus answered and said unto him
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_kobayashi_ver01:data:sn83030193:00206539811:1894092202:0351/pct:259.88243938280675,174.19661231597277,44.52608376193975,14.817160044324838/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_kobayashi_ver01:data:sn83030193:00206539811:1894092202:0351/pct:64.97060984570169,43.54915307899319,11.131520940484938,3.7042900110812096/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1445,7 +1445,7 @@ thy soul and with all thy strength and with all
 thy mind, and thy neighbor as thy self.&quot; John  
 il4.. 3. 5.7 &quot;Jesus answered and said unto him
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_kobayashi_ver01:data:sn83030193:00206539811:1894092203:0359/pct:262.3893805309734,175.38860103626942,44.91150442477876,15.025906735751295/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_kobayashi_ver01:data:sn83030193:00206539811:1894092203:0359/pct:65.60944126867048,43.847150259067355,11.229946524064172,3.756476683937824/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1467,7 +1467,7 @@ thy soul and with all thy strength and with all
 thy mind, and thy neighbor as thy self.&quot; John  
 ill. 3, 5,7 &quot;Jesus answered and said unto him
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_kobayashi_ver01:data:sn83030193:00206539811:1894092204:0367/pct:260.88534107402035,172.3448166375615,43.68650217706821,14.541990792189237/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_kobayashi_ver01:data:sn83030193:00206539811:1894092204:0367/pct:65.22133526850509,43.08620415939038,10.921625544267053,3.6354976980473093/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1524,7 +1524,7 @@ truth, that gives eternal life.
 answered right. This do, and thou shalt  
 live.&quot; If any one could perfectly kee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jamaica_ver01:data:sn93063557:00280777882:1895021501:0901/pct:72.68760907504362,127.56756756756756,56.45724258289703,7.687687687687688/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jamaica_ver01:data:sn93063557:00280777882:1895021501:0901/pct:18.17586733580624,31.89189189189189,14.11739035566223,1.921921921921922/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1542,7 +1542,7 @@ truth, that gives eternal life.
 answered right. This do, and thou shalt  
 live.” If any one could perfectly kee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_crane_ver01:data:sn84020107:00517014102:1895021601:0602/pct:41.36336215564046,29.439809296781885,12.065151819827067,1.8176400476758046/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_crane_ver01:data:sn84020107:00517014102:1895021601:0602/pct:41.35504624045034,29.43542380455832,12.067752312022517,1.8210934008639952/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1567,7 +1567,7 @@ ized in the quotations cf this lawyer he
 would have life and need no Saviour, or, as  
 it is written in Gal. Hi., 21, “If there ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn85035722:0051368518A:1895021601:0376/pct:43.62258233141662,31.997282608695652,16.701515943544173,5.4177989130434785/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn85035722:0051368518A:1895021601:0376/pct:43.611183694800104,31.991849210392257,16.703684348053304,5.421124129733402/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1585,7 +1585,7 @@ him, Thou hast answered right. This
 do, and thou Shalt live.” Dr.Blanchard  
 spoke in substance as follows: In be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_halfwayrock_ver01:data:sn83016025:00414210880:1895042901:0538/pct:27.949120055758844,10.10426249616682,11.099494685485276,2.1925789635081263/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_halfwayrock_ver01:data:sn83016025:00414210880:1895042901:0538/pct:27.94425087108014,10.102713475394758,11.10191637630662,2.1960754254177526/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1625,7 +1625,7 @@ thy neighbor as thyself. And H
 ald unto him: Thou hast answered  
 right; this do and thou shalt live.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_hornacek_ver01:data:sn83045555:206539732:1895082401:0623/pct:72.01530612244898,69.18090748379493,35.73979591836735,46.19917501473188/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_hornacek_ver01:data:sn83045555:206539732:1895082401:0623/pct:24.01735579377233,23.06030249459831,11.919346605410924,15.399725004910627/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1705,7 +1705,7 @@ herit eternal lite, and hero is his task, this &#x27;n?
 and nothing short of it, perfect love to for  
 God and to his neighbor. There must be h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_dogwood_ver01:data:sn84026925:00295862191:1896022601:0028/pct:35.723028501486276,33.56768217832831,16.576324532260884,6.673362347952238/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_dogwood_ver01:data:sn84026925:00295862191:1896022601:0028/pct:35.73468555108702,33.57140200126474,16.576324532260884,6.673362347952238/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1823,7 +1823,7 @@ said unto him, &quot;Thou answerest right:
   
 this do and thou shalt live.&quot; I imag
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eadweard_ver01:data:sn90061576:0020029208A:1896030501:1264/pct:154.26975259377494,295.9049703032198,43.335993615323225,18.75586120662707/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eadweard_ver01:data:sn90061576:0020029208A:1896030501:1264/pct:38.567438148443735,73.97624257580495,10.833998403830806,4.688965301656768/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1843,7 +1843,7 @@ law for righteousness to every believer.
 answered right; this do, and thou shalt  
 Live.” He wanted to do something to In
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_elliot_ver01:data:sn87068079:00332896490:1896030501:0260/pct:86.69703872437357,34.757210660825116,9.597570235383447,2.3731288791529757/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_elliot_ver01:data:sn87068079:00332896490:1896030501:0260/pct:86.68387488612208,34.75298126064736,9.599908897661706,2.3758822097834025/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1863,7 +1863,7 @@ law for righteousness to every believer.
 answered right; this do, and thou shalt  
 live.&quot; He wanted to do something to in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jamaica_ver01:data:sn93063557:00280777894:1896030601:0080/pct:193.64937388193204,130.060966077849,58.318425760286225,12.068156948569642/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jamaica_ver01:data:sn93063557:00280777894:1896030601:0080/pct:48.41234347048301,32.51524151946225,14.579606440071556,3.0170392371424106/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1887,7 +1887,7 @@ law for righteousness to every believer.
 answered right; this do, and thou shalt  
 live.&quot; He wanted to do something to in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_hagerstown_ver01:data:sn88065721:00279521341:1896030701:0658/pct:41.62515566625156,27.738771871169064,12.717932752179328,4.602696979828374/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_hagerstown_ver01:data:sn88065721:00279521341:1896030701:0658/pct:41.62515566625156,27.74620156766596,12.723121627231217,4.598982131579925/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1907,7 +1907,7 @@ law for righteousness to every believer.
 swered right; this do, and thon shalt live.”  
 He wanted to do something to inherit eter
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn85035722:00513685191:1896030701:0081/pct:5.893358278765201,34.23534869336632,16.838166510757716,2.9843822483377145/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn85035722:00513685191:1896030701:0081/pct:5.8919803600654665,34.23005565862709,16.84007481879822,2.987786023500309/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1927,7 +1927,7 @@ law for righteousness to every believer
 answered right; this do, and thou shalt  
 live.&quot; He wanted to do something to i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_delta_ver01:data:sn86071197:00175034833:1896030801:1037/pct:226.44305772230888,124.73262032085562,45.16380655226209,11.898395721925134/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_delta_ver01:data:sn86071197:00175034833:1896030801:1037/pct:56.61076443057722,31.183155080213904,11.290951638065522,2.9745989304812834/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1961,7 +1961,7 @@ neighbor as thyself.
 answered right: this do, anil thou shalt  
 live
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_aerodactyl_ver01:data:sn87058235:00279528396:1896031001:0193/pct:63.87231984523618,23.178216716884275,13.622440754473642,8.514674701484209/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_aerodactyl_ver01:data:sn87058235:00279528396:1896031001:0193/pct:63.877693589123545,23.178216716884275,13.633188242248375,8.525834170293495/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2026,7 +2026,7 @@ all thy mind, aud thy neighbor as thyself.&quot;
 &quot;These commandments %Thou 6halt not,  
 thou shalt not,&#x27; grate upon our inclina
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_dogtown_ver01:data:sn85066387:00175037354:1896032601:0452/pct:29.591371715023545,20.293425915556053,26.689958985265076,37.80938514951282/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_dogtown_ver01:data:sn85066387:00175037354:1896032601:0452/pct:29.591371715023545,20.300892223839924,26.69502253278647,37.81311830365476/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -207,7 +207,7 @@ vided the fame does not exceed one dollar for every fifty persons
 by them returned. The several marshals shall receive as follows i  
 the Marshal of the diftri£t of Maine, two hundred dollars ; th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790031001:0001/pct:63.84266263237519,21.196614839598503,26.59606656580938,9.604408580987995/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790031001:0001/pct:63.86535552193646,21.201535130879748,26.588502269288956,9.619169454831725/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -241,7 +241,7 @@ quate compensation, provided the fame
 does not exceed one dollar for every fifty  
 persons by them returned. &#x27;The severa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790041401:0573/pct:26.96385542168675,57.03561731352819,20.481927710843372,16.54687749560773/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790041401:0573/pct:26.97991967871486,57.04626523984454,20.48995983935743,16.54687749560773/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -264,7 +264,7 @@ employed, by the said Commissioners,
 shall receive the like salaries as clerks  
 ‘employed in the treasury department
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790070801:0622/pct:32.50299401197605,12.97192642787996,20.526946107784433,7.534688609228784/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790070801:0622/pct:32.510978043912175,12.98268258578036,20.526946107784433,7.523932451328386/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -317,7 +317,7 @@ clerks employed, or to be employed, by
 salaries as clerks employed in the trea­  
 sury department
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790111301:0693/pct:27.64677574590953,67.496765847348,20.692974013474494,4.964424320827943/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790111301:0693/pct:27.662816811036254,67.50754635618802,20.684953480911133,4.964424320827943/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -397,7 +397,7 @@ and secretaries shall receive as fol­
 lows : The marshal ot the district of  
 Maine, two hundred and fifty dollura 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810041001:0119/pct:76.05248769819573,23.938708867118816,17.56879897940587,15.636774679728711/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810041001:0119/pct:76.03862973760933,23.935702624638957,17.571671525753157,15.6389970279208/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -427,7 +427,7 @@ S&amp;w%s: O the 08,
 -divisions, one dollar (or every h ndred per­  
 judges, of their respective diftricts.‘or tepei
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1810042401:0489/pct:23.651191969887076,81.0204486797697,17.189460476787954,6.025411951558468/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1810042401:0489/pct:23.6616478460895,81.02375752762887,17.189460476787954,6.0320296472768185/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -495,7 +495,7 @@ sons by them returned. The several marshals
 and secretaries shall receive as follows : The  
 marshal of the district of Maine, two hundre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810062201:0058/pct:24.55057199927365,7.988274093074386,17.396041401852187,10.333455478197141/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810062201:0058/pct:24.546114742193172,7.987298485588666,17.398934882595015,10.336264452043642/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -675,7 +675,7 @@ Provided further, That before any assis.
 tant, as aloresaid, shall be entitled to re­  
 ceive said compensation, he shall tak
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1820040501:1084/pct:46.437393121793654,18.322170507435576,20.615618468554057,20.876376433193325/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1820040501:1084/pct:46.437393121793654,18.325954516214477,20.615618468554057,20.880160441972226/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -756,7 +756,7 @@ quate compensation; Prewvided, The same
 does not exceed one dollar and twenty-five  
 cents for every fifty persons by them returned 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1820041101:0057/pct:24.433178425573864,71.07334869431644,16.223067173637517,10.483870967741936/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1820041101:0057/pct:24.437872600103272,71.07334869431644,16.232455522696334,10.49347158218126/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -827,7 +827,7 @@ docs pot exceed one dollar and twenty­
 (live cents for every fifty persons by them  
 | returned; Provided further, That befor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898000:1820041801:0167/pct:19.915589554207333,10.94890510948905,36.138222104985495,86.41340411413404/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898000:1820041801:0167/pct:19.910337552742615,10.947089069497428,36.135284810126585,86.4032177807265/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -956,7 +956,7 @@ nUal, J he same does not exceed ..»c dollar and
 •evenly live cents ti.r every tiltv persons by them  
 &gt;eturned : Provided furihe.r, That, before am
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830040901:0158/pct:49.9234068627451,15.601312365652223,14.705882352941176,9.005543613530943/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830040901:0158/pct:49.915760453361926,15.599547511312217,14.708735385715014,9.008295625942685/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1027,7 +1027,7 @@ ants in such divisions, ns shall be deemed an adequate
 compensation : Provided, the samo does not exceed ft l  
 75 (or every 50 persons by them returned The com
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830042001:0376/pct:50.976042590949426,84.27148482742645,15.23217982845312,6.034283066944638/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830042001:0376/pct:50.96850510128641,84.26172553561089,15.234856326088028,6.037444508782088/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1063,7 +1063,7 @@ lar and seventy-five cents for every fifty
 persons by them returned: Provided, fur­  
 ther, ‘l&#x27;hat, before any assistant, as afore
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153188:1830042201:0466/pct:18.205175261515876,57.38357126140885,16.75536795742338,12.719400889304938/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153188:1830042201:0466/pct:18.205175261515876,57.38357126140885,16.761485287820395,12.731102270067868/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1129,7 +1129,7 @@ tion : Provided, The same does not exceed one
 dollar and seventy-five cents for every fifty per­  
 sons by them returned : Provided, tarther, That
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1830050401:0278/pct:21.267799724391363,60.99399124147062,16.704945643852398,11.20277013952541/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1830050401:0278/pct:21.267799724391363,60.99399124147062,16.71004950747716,11.212954476015888/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1208,7 +1208,7 @@ ritories, may make Such further allowance
 to the assistants in such divisions as shall  
 he deemed an adequate compensation : Pro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn87062070:0039334295A:1834042501:0742/pct:37.3769024171889,42.35784379620917,17.927484333034915,9.141013577093695/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn87062070:0039334295A:1834042501:0742/pct:37.36853882300291,42.35215053763441,17.93093160289401,9.144265232974911/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1260,7 +1260,7 @@ rsuch further allowance (o the assistauts in such divis­
 | Provided, The same does not exceed two dollars and  
 fifty cents for every fifly persons by them returned :
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1839040901:0265/pct:48.81774122484946,11.996251171508904,30.01909237773535,85.69197125898157/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1839040901:0265/pct:48.82263670632007,12.003193446492416,30.023987859205953,85.68850012148981/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1291,7 +1291,7 @@ be deemed an adequate conif ensation : Provided,
 The same does not exceed two dollar? ana nxiy  
 cc-nts tor everv hhv persons Dy tnem returne
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197966:1839041001:0272/pct:27.206287920573637,20.42293339364469,20.573634859349145,10.96912812393984/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197966:1839041001:0272/pct:20.410977796166048,15.322854234988126,15.432354158047167,8.221191903200271/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1386,7 +1386,7 @@ vided, The same does not exceed two dollars
 and §ifty cents for every fifty persons by them  
 returned : Provided further, &#x27;That before an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153231:1839042401:0954/pct:18.572195383789587,48.1386645656884,14.895330112721417,9.198345479613945/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153231:1839042401:0954/pct:18.576668455895508,48.14194734423216,14.89980318482734,9.195062701070185/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1554,7 +1554,7 @@ does not exceed two uuuara aim nny cents
   
 for every fifty persons by them returned 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn87065304:0029587806A:1839052501:0369/pct:71.81978798586573,39.79450152735351,22.901943462897528,14.023882254929186/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn87065304:0029587806A:1839052501:0369/pct:53.90055248618785,29.85281866148292,17.193370165745858,10.510969175229103/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1594,7 +1594,7 @@ quate compensation : Provided, The same
 does not exceed two dollars and fifty cents  
 for every fifty persons by&#x27; them returned
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn87065304:0029587806A:1839060101:0374/pct:40.272808586762075,39.7831291367413,23.859570661896242,14.181101253344599/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn87065304:0029587806A:1839060101:0374/pct:30.230476616692773,29.840867483453035,17.92347281270978,10.632305309111393/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1629,7 +1629,7 @@ in sueh divisions as shall be deemed an ade­
 oes not exceed two dollars and fifty cents for  
 evez ﬁﬂ* persons by them returned : Provided
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1839060501:1082/pct:78.4849032724643,80.59544197075485,14.500090399566082,11.157950204189172/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1839060501:1082/pct:78.4969565479419,80.59544197075485,14.494063761827277,11.16234136916524/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1711,7 +1711,7 @@ for
   
 Provided, further. Thai before anv assistant
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn87065304:0029587806A:1839072001:0378/pct:41.24087591240876,40.74537616465026,24.315693430656935,14.907523293005145/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn87065304:0029587806A:1839072001:0378/pct:30.937713894592743,30.56598525935197,18.252338580880675,11.18064246975386/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1768,7 +1768,7 @@ does not exceed two dollars and fifty cents
   
 tor every filty persons by them returne
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn87065304:0029587806A:1839083101:0382/pct:41.32922535211268,36.57420249653259,23.217429577464788,17.0873786407767/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn87065304:0029587806A:1839083101:0382/pct:31.028407839682888,27.434119278779473,17.41907068927549,12.815533980582524/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

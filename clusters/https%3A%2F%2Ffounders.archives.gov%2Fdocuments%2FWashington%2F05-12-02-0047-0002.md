@@ -80,7 +80,7 @@ hpnor to be, your most obedient and
 most humble servant,  
 G. WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216341:1825112201:0531/pct:66.63341645885286,12.546857772877619,14.84621778886118,21.267916207276738/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216341:1825112201:0531/pct:66.62234042553192,12.545474589350677,14.849290780141844,21.269246316098922/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -171,7 +171,7 @@ honor to be your most obedient and
 most humble servant,  
 G. WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn84024505:00542866962:1825112501:0265/pct:5.681341719077568,31.544241680723815,13.144654088050315,17.34396564944027/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn84024505:00542866962:1825112501:0265/pct:5.680150911758541,31.53940509046305,13.147138964577657,17.345139527752224/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -303,7 +303,7 @@ gard of bim who bas the honor to be, your
 most obedient and most humble servant..  
 G. WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015143:1825112901:0606/pct:10.68120705109053,61.93904724331788,16.447564983567375,15.405858565933524/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015143:1825112901:0606/pct:10.68120705109053,61.942334878521876,16.46748331839458,15.405858565933524/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -340,7 +340,7 @@ will possess tiie ti(Tertinr,ai« regnid &lt; f h:-n who has the ho­
 nor to be, your most obedient and riuist himihle sc. va nt.  
 (i KORG E VV A S i 11 N G T OiV
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184534:1825112901:0266/pct:23.93608606233191,58.59256670161948,17.655434266729948,11.091692881276943/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184534:1825112901:0266/pct:23.932299905093323,58.58574091332712,17.657914162184962,11.094283939111525/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -377,7 +377,7 @@ which by that confederation sheuld be sub­
 niitted to them.”  
 Under the confederation then, no Stat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153139:1832121801:0399/pct:64.91582491582491,65.09883305548941,14.848484848484848,5.144081924267683/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153139:1832121801:0399/pct:64.9270482603816,65.10677145352068,14.848484848484848,5.136143526236405/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -427,7 +427,7 @@ strument forming that union is found an arti­
 cle which declares that “ every State shall  
 abide by the determinations of Congress o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182938:1832122001:0812/pct:24.49657463151339,16.6928011404134,17.43823956819597,1.7676407697790448/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182938:1832122001:0812/pct:24.491490244914903,16.69042189281642,17.43980904939809,1.770952109464082/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -447,7 +447,7 @@ ling that union is found an article which de­
 ‘clares that ** every State shall abide by the  
 determinations of Congress ci all question
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152743:1832122001:0578/pct:17.250301880282905,69.24530679097896,14.697257202001035,3.389189870228046/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152743:1832122001:0578/pct:17.250301880282905,69.24530679097896,14.697257202001035,3.39338960984419/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -512,7 +512,7 @@ by the determinations of the United States in Congress
 • assembled, on all mirations, which, by this confederation  
 are Nubmtlled to them. And the Articles ot this Con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1833012401:0322/pct:80.6361994721489,82.85871357888949,15.18266425892485,3.617372182517867/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1833012401:0322/pct:80.625,82.84960422163589,15.185185185185185,3.620639108765758/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -596,7 +596,7 @@ its Legislature, for ihcir assent and ratification.” Since
 then tin; Articles ol Co’nfcdna&#x27;ion could not l&gt;e altered with­  
 out the assent of every State; and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1833022801:0382/pct:20.011195074167368,53.09054460407618,15.085362440526168,8.319411961242901/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1833022801:0382/pct:20.008395130824123,53.084632516703785,15.087915675574834,8.32219747587231/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -635,7 +635,7 @@ i them could be altered “ unless such alteration
 and be afterwards continued by the Legislature  
 of evervSU’e.” These were the lesttiction
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:0041421647A:1833032201:0404/pct:26.94765935394714,70.25856736360262,18.086025220245293,3.1795125572188545/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:0041421647A:1833032201:0404/pct:26.94300518134715,70.24987629886195,18.08865860679332,3.1832426191654295/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -678,7 +678,7 @@ he afterwards confirmed hy the Legislature of every
 State.” Vet did eleven only of tire thirteen States, in op­  
 posing to the w illof the two others, alter that solemn Cove
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1833052801:0030/pct:20.790976187160563,10.999779784188505,14.830803509260548,3.5454745650737722/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1833052801:0030/pct:20.788081314397104,10.99856875481669,14.833379745660448,3.5487540827186317/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -699,7 +699,7 @@ sembled, on all questions which by this confederation
 „ S|.a e’.ianJ &gt;e °1 &#x27;’h-’11 be perpetual: nor shall any  
 alteration at any lime hereafter be made in any of them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1833120301:0244/pct:66.6080605896673,40.69410991898402,14.390045983229646,3.295379899277425/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1833120301:0244/pct:66.59905341446924,40.689655172413794,14.392607617759747,3.2986681262543334/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -739,7 +739,7 @@ of the Union : bulnootker colony shall he admitted
 into the same, unless such admission be agreed to  
 by nino states.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84022355:00200290100:1837041101:0280/pct:57.95863309352518,61.04660410370606,23.426258992805757,4.86718625735645/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84022355:00200290100:1837041101:0280/pct:43.50956130483689,45.792905996500714,17.570303712035994,3.6424367742961667/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -844,7 +844,7 @@ mitted into, and entitled to ail the adrantages &quot;f this
 Union; hut no other Colony shall lie admitted into the same,  
 unless sucit admission be agreed to by nine Slates 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664278:1844032901:0336/pct:48.69539287311764,36.493669662704164,15.714924705531534,3.614574272736059/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664278:1844032901:0336/pct:48.69539287311764,36.50011275409942,15.714924705531534,3.6177958184336845/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -867,7 +867,7 @@ The practicability, as well as expediency of making
 Canada a member of the Umion, did certainly, to  
 some extent at least, occupy the minds of our publi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530200:1844043001:0101/pct:43.37236533957845,48.43603010348072,43.247462919594064,13.123236124176858/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530200:1844043001:0101/pct:14.457455113192818,16.145343367826904,14.415820973198022,4.374412041392286/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -890,7 +890,7 @@ ted into the same, unless such admission bo agreed
 t.o by nine States.” The practicability, as well  
 as expediency, of making Canada a member o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215749:1844043001:0272/pct:37.22200546234881,3.4309117765543173,29.847834568864613,90.47267355982275/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215749:1844043001:0272/pct:37.218375109723986,3.4306814367237326,29.848174518027243,90.4688374174779/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -922,7 +922,7 @@ COLONY shall be admitted ir.t&gt; the suite, unless iiich
 admission be a agreed to by nine States.&#x27;&#x27; Th prac­  
 I licubility, as well as expediency, of making Canada 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664278:1844050301:0382/pct:63.084181040837386,22.65953381734811,15.656789031402035,3.6110049675200613/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664278:1844050301:0382/pct:63.094009533638015,22.65953381734811,15.66170327780235,3.6173735829830593/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -957,7 +957,7 @@ practicaomiy as waii as expeuiency, oi mailing
 kCanada a&#x27;member of the Union, did certainly, to  
 seme extent at least, ocefbtf the &quot;miners of bu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022603:1844050801:0077/pct:23.28049435787211,104.45485241259122,20.21762493283181,8.267073303561704/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022603:1844050801:0077/pct:17.468422467078742,78.34658533928766,15.170653050255307,6.1975819627491555/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -982,7 +982,7 @@ admitted into the same, unless sweh admission be
 agreed to by nine States.&quot; The practicability,  
 i as well as expediency, of making Canada a rnem
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn84028793:00296026669:1844050801:0039/pct:27.69495412844037,77.99500831946756,19.877675840978593,8.180809761508597/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn84028793:00296026669:1844050801:0039/pct:20.77996558975339,58.49972268441486,14.911106862932519,6.142540210759845/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1027,7 +1027,7 @@ such admission be agreed lo by nine
 .Slates.&quot; The practicability, as well as  
 expediency , of Making Canada a mern
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035312:00296026864:1844051401:0901/pct:45.25261324041812,55.157766990291265,19.403310104529616,7.084344660194175/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035312:00296026864:1844051401:0901/pct:33.95774341102156,41.36832524271845,14.550206926595513,5.324635922330097/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1150,7 +1150,7 @@ tion, and joining in the measures of the United States,
 should be admitted into and entitled to all the advantages  
 of the Union; but no other colony could be admitted un
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845011601:0052/pct:13.64033809385019,187.4388254486134,37.9189740600408,14.134234444185504/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845011601:0052/pct:4.546116858516684,62.47232902248631,12.637816309679927,4.710862557769234/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1174,7 +1174,7 @@ In this was found the orrgtn of the present ar­
 ticle in the Constitution, conferring ou Congress  
 the power to admit new States into the Union.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1845011701:0042/pct:4.107142857142857,91.96898631185987,13.898809523809524,4.393605819852589/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1845011701:0042/pct:4.112103174603175,91.97536772917265,13.913690476190476,4.390415111196197/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1207,7 +1207,7 @@ AU.MIS.SION UK A&#x27;iUKKl) To BV MXK STaTKn.&quot;
 No*&#x27;, be it noted, that the Colonies hrnl /A??  
 been struggling lor many years against the mo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1845012401:0048/pct:58.83845924156465,49.279815632802,13.720513586145119,3.3992702131745727/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1845012401:0048/pct:58.84343585149796,49.28301645221177,13.730466806011744,3.4024710325843417/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1316,7 +1316,7 @@ this was found the origin of the pfes­
 irticle in the Constitution, conferring on  
 }ress the power to admit new States in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82007022:00393342882:1845020501:0297/pct:0.7404856208024798,58.15231614760534,11.623902187015672,5.116461659251505/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82007022:00393342882:1845020501:0297/pct:0.740358126721763,58.14470757555934,11.62620523415978,5.119063195080466/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1336,7 +1336,7 @@ measures of the United States, shall be admitted
 into, and entitled to, all the advantages of this Un­  
 ion.&quot; Then follow these words--
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777602:1845020701:0023/pct:88.4437596302003,108.29893238434164,55.85516178736518,11.04626334519573/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777602:1845020701:0023/pct:22.11519938354845,27.07473309608541,13.966480446927374,2.7615658362989324/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1369,7 +1369,7 @@ ticles of Confederation were formed, there were thirtecu
 named States parties to it, and named in the caption.  
 Vermont, although claiming to be a State and aiding in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845020801:0120/pct:15.66971951917573,14.052324917171255,79.86548368631941,270.2616245858563/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845020801:0120/pct:5.222492488195736,4.68357322366918,26.61801879143416,90.07691721879522/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1443,7 +1443,7 @@ northward of the Ohio, and stipulated that it
 should be formed into States.  
 The old provision in the eleventh article o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199252:1845021401:0189/pct:106.63615560640733,63.77942165433759,19.832189168573606,16.67787491593813/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199252:1845021401:0189/pct:80.00763067531477,47.84129119031607,14.879816863792446,12.508406186953598/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1476,7 +1476,7 @@ States.&quot;
 Mr. Madison said that by &quot;colony&quot; in this article  
 was meant a British colony; and that it was for thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82015015:00415661319:1845021801:0351/pct:65.80295269659536,74.738994726079,17.053329316059052,4.402109568399527/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82015015:00415661319:1845021801:0351/pct:65.80797428944462,74.74617012879848,17.058350908908306,4.405697269759266/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1510,7 +1510,7 @@ i in o Union!
 riadic ion of any other State ; nor any State bo form  
 &#x27; ed by the junction of two or more Stats-, or parts o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661356:1845021801:0175/pct:67.61768901569187,73.74623871614844,17.528530670470754,9.114844533600802/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661356:1845021801:0175/pct:67.62957679505469,73.75041792042795,17.528530670470754,9.119023737880308/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1536,7 +1536,7 @@ admission be&quot; sg reed to by nine Slates.&#x27;
 Tbns Canada bad the right to admis­  
 sion upon her own act of secession an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035312:00296026864:1845021801:1068/pct:7.1182053494391715,98.34381229872719,18.98188093183779,9.799110565864131/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035312:00296026864:1845021801:1068/pct:5.351747949935261,73.76169299187241,14.242555028053518,7.36083422787916/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1569,7 +1569,7 @@ From tills article it seems that tbe then thirteen
 Stales cuntemplaied a probable union with other colonies  
 betides Canada , but as to such other colonies
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661356:1845022501:0199/pct:37.00053753807561,34.35800126502214,16.663680344024367,4.604680581910183/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661356:1845022501:0199/pct:37.012482828644806,34.362218005481765,16.675625634593562,4.608897322369808/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1595,7 +1595,7 @@ States.&quot;
 This article, jt wjl) *t once be perceived, was »p«­  
 eifie in its terms, and ngfropwi down the admissio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn84020566:00414187468:1845022701:0179/pct:30.697586010264207,86.89731832708073,12.412088956472154,4.793664026677782/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn84020566:00414187468:1845022701:0179/pct:30.691752185480805,86.88524590163935,12.41448118586089,4.79647124201167/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1679,7 +1679,7 @@ to it, and named in the caption. Vermont, although
 claiming to be a State and aiding in the Revolutionary  
 war, was claimed by New York. And that each o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347909:1845031701:0260/pct:259.6614127262113,215.48250265111346,60.73165985600311,19.83032873806999/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347909:1845031701:0260/pct:64.90272373540856,53.862465919418355,15.179961089494164,4.95683126325356/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1711,7 +1711,7 @@ new State shall be formed or erected within t..e
 i jurisdiction of any other Stale: nor any State be  
 ! funned bv the junction of two or
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1845031801:0129/pct:30.621722846441948,43.50331316623451,13.857677902621722,7.990012484394507/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1845031801:0129/pct:30.621722846441948,43.50971541982778,13.877652933832708,7.990012484394507/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1801,7 +1801,7 @@ Now, did the Convention add to or dimin­
 ish that power? Let facts speak. It was  
 proposed to limit the power ol Congress t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85038078:00269026803:1845081201:0092/pct:56.49062191510365,85.62662985120417,23.05034550839092,9.679398680779261/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85038078:00269026803:1845081201:0092/pct:42.38459639595162,64.22764227642277,17.304369291532954,7.255714066574628/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1921,7 +1921,7 @@ other Colony shall be admitted into the same unless
 such admission be agreed to by the nine States.&quot;  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_diglett_ver01:data:sn82015378:00295872378:1849080201:0727/pct:101.59883720930233,49.73118279569893,43.1063122923588,8.512544802867383/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_diglett_ver01:data:sn82015378:00295872378:1849080201:0727/pct:33.866279069767444,16.57706093189964,14.368770764119601,2.837514934289128/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1940,7 +1940,7 @@ to hy the nine States.&quot;
 The coinace of Gold Dollars at the mint  
 in thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn82015677:00202191617:1849080901:0060/pct:28.096995255666844,122.45193301633243,18.858724301528728,2.9357039487285506/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn82015677:00202191617:1849080901:0060/pct:21.075523922499013,91.84411825511681,14.155792803479637,2.201777961546413/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1962,7 +1962,7 @@ mitted into the same unless such admission he agreed
 to by the nine States.”  
 OToiin K. list i. has lateu appointed by the gov
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82007022:00393342894:1849081401:0492/pct:44.51913133402275,63.34792122538293,12.892106170286109,4.335339168490153/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82007022:00393342894:1849081401:0492/pct:44.51145958986731,63.33925885409545,12.894192658969498,4.338164911800902/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1989,7 +1989,7 @@ in Pittsburg, exeeeds two and a half millions of
 dollars, and the annual value of property of  
 all kinds on the river, for which its citize
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279559836:1849081601:0057/pct:122.80334728033473,226.5105038111173,60.38179916317991,28.648447666852576/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279559836:1849081601:0057/pct:30.69281045751634,56.61710037174721,15.091503267973856,7.160780669144981/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2055,7 +2055,7 @@ BONAPAKTE FAMILY.
   
 The position of present, and the pros
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn82014327:00415668867:1849083001:0163/pct:57.775548229898234,12.282202030999466,25.182743299412355,83.65579903794762/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn82014327:00415668867:1849083001:0163/pct:57.775548229898234,12.28576518795653,25.1970761072094,83.66292535186174/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2119,7 +2119,7 @@ wecehls to this conlederation and joming in the meas­
 &quot;ures of the United States, shall be admitted into and en­  
 &quot;titled to all the advantages of this Union:
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777602:1849112201:1031/pct:16.80911680911681,280.2895322939866,75.56980056980056,6.180400890868597/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777602:1849112201:1031/pct:4.204525209335471,70.07238307349665,18.9025476572243,1.5451002227171493/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2150,7 +2150,7 @@ icasures of the United States, shall be a
 mitted into and entitled to all the advant:  
 ges of this Unio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296205:1849120101:0187/pct:273.801652892562,285.25289457647773,120.9090909090909,94.51553930530164/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296205:1849120101:0187/pct:68.47871021083093,71.31322364411943,30.23976849937991,23.62888482632541/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2188,7 +2188,7 @@ it was provided that &quot;Canada, acceding to
 &quot;ureroC&#x27;Ene United States, shall be admitted.  
 &quot; into, and entitled to all the advantages, pf tliis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199252:1849120601:1150/pct:41.79834462001505,14.195250659630608,16.4033107599699,8.905013192612138/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199252:1849120601:1150/pct:31.36996612721114,10.646437994722955,12.307113285660519,6.688654353562005/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2249,7 +2249,7 @@ be afterwards confirmed by the Legislatures
 of every State,” But there is oilier proof  
 stronger than this. For the purpose of in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624256:1850120401:0190/pct:34.85650599052661,22.700205338809035,14.43298969072165,5.80082135523614/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624256:1850120401:0190/pct:34.86114980960342,22.700205338809035,14.437633509798458,5.804243668720055/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2291,7 +2291,7 @@ firm each and every of the said Articles of
 Confederation and perpetual union, and all  
 id singular the matters and 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851080401:0177/pct:15.44487968662563,71.09341674960899,45.23409811602313,65.02203895919237/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851080401:0177/pct:3.8604998135024244,17.7708274097242,11.306415516598284,16.25319874893375/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2328,7 +2328,7 @@ entirely ratify and confirm each and every of the said
 Articles of the Confederation and perpetual union, and  
 all and singular the matters
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348379:1851080601:0117/pct:37.281035795887284,39.97750913691313,14.26123381568926,9.361821759910036/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348379:1851080601:0117/pct:37.27393870169427,39.97189037245256,14.263278126784694,9.364019676739284/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2381,7 +2381,7 @@ ing words :
 4 Articles of Confederation and Perpetual Union,  
 * Know ye that we, the undersigned Delegates, b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1851080901:0725/pct:3.384741367544698,20.86230876216968,15.62713252354306,11.565208088156627/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1851080901:0725/pct:3.3938401346617533,20.869441175421702,15.622583139984533,11.565208088156627/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2444,7 +2444,7 @@ to the advices from that island of July 22.
   
 ohsarved he every State and the Haten shall
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667711:1851081301:0717/pct:150.0,84.40583124723899,238.48684210526315,41.0543366219997/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667711:1851081301:0717/pct:37.51542575071987,21.101457811809748,59.646236116824355,10.263584155499926/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2478,7 +2478,7 @@ dersigned delegates, by virtue of the power the people of any one State or any a
   
  and authority to us given, for that purpose, States. It is not a limited Conlederation,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667711:1851081301:0717/pct:267.68092105263156,96.48063613606243,122.36842105263158,31.3355912236784/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667711:1851081301:0717/pct:66.94775812422871,24.120159034015607,30.60468942821884,7.8338978059196/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2507,7 +2507,7 @@ islatures of every State.&quot;
 &quot;And whereas it ha pleased the great Gover­  
 ernor of the World to inc-l ne the heart of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_lightningbolt_ver03:data:sn83016794:00415662397:1851082901:0157/pct:89.18111177525404,57.1170240247998,17.408846383741782,8.344097132523896/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_lightningbolt_ver03:data:sn83016794:00415662397:1851082901:0157/pct:66.9158319629242,42.84422629811418,13.066228135745254,6.251614569878584/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2536,7 +2536,7 @@ lowing words:
 of the World to incline the hearts of the Legis­  
 latures we respectively represent in Congress t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82014751:00513688222:1851091001:0489/pct:16.4596761515485,47.068518954556154,14.274485143845308,7.487638332940899/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82014751:00513688222:1851091001:0489/pct:16.464916417754022,47.07244329330508,14.284965676256354,7.49156267168982/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2557,7 +2557,7 @@ in a Congress of the United States, and be afterwards con- I
 firmed by the legislature of every State And whereas  
 it has pleased the great (Jovernorof the World to inclin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661204:1852011101:0044/pct:19.76343026121242,77.55796370967742,15.952028914079186,3.4274193548387095/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661204:1852011101:0044/pct:19.77438256393407,77.56636424731182,15.946552762718362,3.4274193548387095/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2617,7 +2617,7 @@ guarded by requiring the assent of nine States
 to the admission, is it not trifling to say that it  
 required less than nine St
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661538:1854040701:0345/pct:55.88635127786841,61.97137975224263,13.33605220228385,10.433575395130287/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661538:1854040701:0345/pct:55.89541417437013,61.97849921685889,13.33605220228385,10.437135127438417/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2640,7 +2640,7 @@ eft titled to all tbe adv??Usr?? at ihi? I&#x27;nion : bul uu ,*k-r
 eul#aji *JW/ be admtflmU tMlv far *vm&lt; . unl*** ?wnA udukiwm &#x27;?&lt;  
 uprrtd It i) WIKI SlATW.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854042001:0584/pct:1.0648754914809961,46.36664966853646,15.317824377457406,4.245283018867925/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854042001:0584/pct:1.0648754914809961,46.37089920108788,15.317824377457406,4.245283018867925/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2698,7 +2698,7 @@ States of Ohjo, Indiana, Illinois, Michi­
 gan, and Wisconsin.  
 North Carolina claimed the territo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156360:1854051701:1036/pct:259.47611710323577,152.95051600952632,58.39753466872111,53.92961100820323/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156360:1854051701:1036/pct:64.88152571758813,38.23762900238158,14.602196108649586,13.482402752050808/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2728,13 +2728,13 @@ Congress of the United States, and be af­
 terwards confirmed by the legislature of  
 every State.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_dillinger_ver02:data:sn87056241:00200295638:1854070601:0307/pct:8.59450337512054,105.52527025778434,16.38138862102218,12.223967476670055/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_dillinger_ver02:data:sn87056241:00200295638:1854070601:0307/pct:6.451223923791149,79.14626258893098,12.287471361389123,9.174905294280698/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The United States Review (1853-1856)_](https://archive.org/details/sim_united-states-democratic-review_1855-07_36/page/n52/mode/1up?view=theater)
+## [From _The United States review_](https://archive.org/details/sim_united-states-democratic-review_1855-07_36/page/n52/mode/1up?view=theater)
 
 #### 1855-07-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -2798,7 +2798,7 @@ violably observed by every State, and the Union shall be
 perpetnale.  
 And the concluding paragraph declares
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184698:1860011901:0068/pct:216.3820549927641,178.16487745594492,39.95658465991317,14.290054689082439/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184698:1860011901:0068/pct:72.11691506294314,59.382278481012655,13.31693435585781,4.762869198312236/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3114,7 +3114,7 @@ The doctrine that a State has a right to
 secede is derived from the belief that the  
 States respectivly have not relinquishe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477837:1861071701:0566/pct:64.14141414141415,158.40044432102195,122.97979797979798,30.102749236323245/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477837:1861071701:0566/pct:16.045483259633606,39.60011108025549,30.76437144662034,7.525687309080811/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3149,7 +3149,7 @@ at the instance of the General asembl
 of Virginia, to consider the best means of  
 remedying the defects of the Federa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477849:1861071702:0396/pct:68.01051709027169,163.91348526636668,123.92638036809817,35.418783568006965/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477849:1861071702:0396/pct:17.002629272567923,40.97837131659167,30.98159509202454,8.854695892001741/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3176,7 +3176,7 @@ legislature of every State.
 The insufficiency of the powers confered on  
 Congress ; the necessity for providing for th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn85054616:00212477795:1861071701:0309/pct:64.56996148908857,35.35511877487037,19.57637997432606,8.778487881345713/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn85054616:00212477795:1861071701:0309/pct:48.435243139143,26.51633908115278,14.700690097897608,6.583865911009285/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3315,7 +3315,7 @@ and nothing is plainer than their desire forever
 to close the door on the withdrawal of any State.&quot;  
 Among those patriots, the heresy of secessio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn88085145:no_reel:1862090401:0881/pct:195.42825667860095,130.5451518934665,42.6879647480033,32.93799417394923/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn88085145:no_reel:1862090401:0881/pct:65.14275222620032,43.5150506311555,14.229321582667769,10.97933139131641/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3356,7 +3356,7 @@ any of them, unless such alteration be agreed to
 in-a txjngress oi tne united States, aiel he at  
 terwards confirmed bv the Legislatures of entr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:0020029001A:1863032101:0133/pct:79.41501103752759,89.13952464788733,13.824503311258278,3.6641725352112675/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:0020029001A:1863032101:0133/pct:59.58592132505176,66.85739436619718,10.379572118702553,2.750880281690141/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3376,7 +3376,7 @@ be agreed to in a Congress of the United States, and be af­
 terwards confirmed by the Legislatures of every State.&quot;  
 It will be seen by reference to the recommendation of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045706:00296022664:1863062401:0316/pct:28.200301204819276,11.751297961251108,20.33132530120482,3.1404330758515893/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045706:00296022664:1863062401:0316/pct:21.171595404030892,8.81347347093833,15.257110566961764,2.355324806888692/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3465,7 +3465,7 @@ having been originally convened for the purpose
 of &quot;revising the Articles of Confederation,&quot; and  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295729:1863112401:0510/pct:117.63888888888889,52.90333950127764,50.324074074074076,36.97242047757511/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295729:1863112401:0510/pct:29.413126519273064,13.22583487531941,12.58247482347494,9.243105119393778/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3628,7 +3628,7 @@ any time herealtcr, be made in &#x27; any o:
 them, unless such alteration be agreed to  
 in a Congress of the United States an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_ireland_ver01:data:sn84022644:0029586753A:1865112501:0043/pct:42.37668161434978,89.456496384418,15.204596412556054,4.910193608584091/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_ireland_ver01:data:sn84022644:0029586753A:1865112501:0043/pct:31.79587831207066,67.09820387217168,11.411748212533295,3.6855609983671567/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3652,7 +3652,7 @@ Legislatures ot every btata.
 In the new Constitution there is no  
 t . . o - 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_ireland_ver01:data:sn84022644:0029586753A:1865112501:0043/pct:57.7914798206278,56.09983671565197,14.966367713004484,6.508047585724283/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_ireland_ver01:data:sn84022644:0029586753A:1865112501:0043/pct:43.361839338286835,42.080709120597156,11.229496705453526,4.875204105435036/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3701,7 +3701,7 @@ unless such alteration bo agreed to in a Congress
 Of tbe United States, and be afierwards confirmed  
 by tho Legislature of every Stato.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_gnomiemoore_ver01:data:sn84026994:00294555201:1866072301:0719/pct:1.9641170915958452,37.504721138109026,18.753541076487252,5.262495278861891/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_gnomiemoore_ver01:data:sn84026994:00294555201:1866072301:0719/pct:1.9641170915958452,37.504721138109026,18.7598363235757,5.275084980485962/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3743,7 +3743,7 @@ Legislatures of every State.&quot; It was to
 perfect the old articles of confederation  
 that the convention which framed the Con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:0028077473A:1867010501:0331/pct:177.1306818181818,238.69366427171784,49.14772727272727,13.742651861528413/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:0028077473A:1867010501:0331/pct:44.298401420959145,59.67341606792946,12.291296625222024,3.4356629653821034/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3768,7 +3768,7 @@ States, and afterwards confirmed by the
 Legislature of every State.&quot;  
 The phrase, &quot;the United States o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867022801:0191/pct:64.01253918495298,183.31658291457288,38.495297805642636,15.142378559463987/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867022801:0191/pct:16.003134796238246,45.82914572864322,9.623824451410659,3.7855946398659968/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3793,7 +3793,7 @@ other colony shall be admifted into the same, un-
 less such ddmission shall be agreed to by nine  
 States;&quot; He., nine of the original Hirteen name
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_klm_ver01:data:sn86053572:0023728902A:1870030801:0232/pct:71.42857142857143,302.3470839260313,43.80321665089877,15.07823613086771/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_klm_ver01:data:sn86053572:0023728902A:1870030801:0232/pct:17.857142857142858,75.58677098150783,10.950804162724692,3.7695590327169275/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3815,7 +3815,7 @@ that no such provision was contained in the
 Federal Constitution. We refer to it again  
 only as evincive of the plan of empire whic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_klm_ver01:data:sn86053572:0023728902A:1870061501:0781/pct:111.60799238820171,85.36672629695886,44.24357754519505,10.876565295169947/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_klm_ver01:data:sn86053572:0023728902A:1870061501:0781/pct:27.901998097050427,21.341681574239715,11.060894386298763,2.7191413237924866/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3859,7 +3859,7 @@ tion of the present federal union,
 formed in 1787, singularly omits the  
 t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477862:1872013101:0126/pct:293.2378679395386,316.03813860822544,45.346062052505964,64.38024761633699/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477862:1872013101:0126/pct:73.35323383084577,79.00953465205636,11.343283582089553,16.095061904084247/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3881,7 +3881,7 @@ the United States, and be afterwards con­
 firmed by the legislatures of every State.&quot;  
 Recognizing the early New Englan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dorothea_ver01:data:sn90061771:00200292807:1872022901:0453/pct:255.7591623036649,274.70104053424444,57.32984293193717,19.257648703214784/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dorothea_ver01:data:sn90061771:00200292807:1872022901:0453/pct:63.95374209033384,68.67526013356111,14.335588042766746,4.814412175803696/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4103,7 +4103,7 @@ nine states.(” Canada, however, did
 not accede to the confederation, nor  
 did she strive to • become free; so al
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_baggs_ver01:data:sn84022149:00393349931:1879032201:1058/pct:16.14641814507074,57.2373123659757,11.38558275320009,6.182987848463188/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_baggs_ver01:data:sn84022149:00393349931:1879032201:1058/pct:16.15203233774983,57.24177984274482,11.379968560520997,6.182987848463188/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4572,7 +4572,7 @@ federation, adequate to tho preser­
 vation of the Union; an 1 the infer­  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_earnhardt_ver01:data:sn84024516:00332892113:1892051201:0294/pct:45.94715629198388,8.968903436988544,12.494402149574563,13.20240043644299/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_earnhardt_ver01:data:sn84024516:00332892113:1892051201:0294/pct:45.95710802607354,8.968903436988544,12.484450415484899,13.213311511183852/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4686,7 +4686,7 @@ admission be agreed upon by nine states.
 Thus it appears that if we let in any  
 ontsiders at all, Canada will be our firs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059533:00393349104:1892111901:0604/pct:33.52430555555556,70.77360021639167,10.243055555555555,7.032729239924263/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059533:00393349104:1892111901:0604/pct:33.518486373893424,70.76402974983097,10.245617080367992,7.035158891142664/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4718,7 +4718,7 @@ admission be agreed upon by nine states.
 Thus it appears that if we let in any  
 outsiders at all, Canada will be our firs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_heron_ver02:data:sn88085722:0041418991A:1892120201:0692/pct:20.28023598820059,54.92025788937903,14.577187807276303,9.195792331184256/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_heron_ver02:data:sn88085722:0041418991A:1892120201:0692/pct:20.292527040314653,54.92874109263658,14.577187807276303,9.195792331184256/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4879,7 +4879,7 @@ This placed it out of the power of Con-
 gress to acquire any other territory except  
 Canada without the concurrence of nine o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:00271740542:1898121401:0406/pct:29.53416565982011,5.555555555555555,25.547053295744394,91.42972373462392/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:00271740542:1898121401:0406/pct:29.53416565982011,5.558916448208644,25.560477916498858,91.43980641258318/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

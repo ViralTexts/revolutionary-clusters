@@ -32,7 +32,7 @@ of the person or persons who may be
 appointed by the President for the fu­  
 perintendance and care of the fame. 1
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804061901:0511/pct:41.79993728441518,21.394138064018513,16.807776732518033,3.422676436559969/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804061901:0511/pct:41.79993728441518,21.394138064018513,16.8182293299885,3.4291039979431805/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -110,7 +110,7 @@ cocke, and to have the same piaced at the
 narrows in the Potomac river.  
 Sec. 3. And be it further enacted, Tlha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1822061201:0294/pct:2.0108586366378445,38.18774131274131,21.656947516589582,16.300675675675677/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1822061201:0294/pct:2.0242643608820967,38.191763191763194,21.656947516589582,16.304697554697555/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -148,7 +148,7 @@ tomac river.
 Sec. 3. And be it further enacted, That the  
 Secretary of the Treasury be, and he hereb
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1822071601:0529/pct:5.165542611894543,26.67081776670818,17.933782955242183,13.459941884599418/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1822071601:0529/pct:5.165542611894543,26.67081776670818,17.938892295115473,13.466860384668603/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -183,7 +183,7 @@ be appropriated, out of any money in the
 Treasury, nct otherwise appropriated, the fol.  
 lewing sums of money, @ wit: for buildin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015143:1823040101:0049/pct:23.499342777858917,55.99847050951152,16.22608441653279,10.84982315266227/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015143:1823040101:0049/pct:23.50421109001509,56.001656948029186,16.240689353001315,10.853009591179939/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -231,7 +231,7 @@ idence and care of the same.
 ;c. 4- And be it further enacted, That all pilots  
 buys, inlets, rivers, harbors, and ports of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846050201:0473/pct:14.066656235330933,77.4975272007913,11.453606634329526,6.515825914935707/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846050201:0473/pct:14.071871903197204,77.4975272007913,11.458822302195797,6.524068578964721/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -251,7 +251,7 @@ he President tor rebuild ng, when necessary, and keep*
 ng in good repair, the lighthouses, beacons, buoys and  
 .ubiro piers, in the several States, and for furnishing
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348367:1851031501:0245/pct:21.513235875148162,94.5945945945946,14.539707625444489,2.5197072072072073/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348367:1851031501:0245/pct:21.50898676673909,94.58128078817734,14.54177365198499,2.522871217452498/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

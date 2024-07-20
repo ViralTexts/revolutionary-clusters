@@ -726,7 +726,7 @@ tory; The Settlement of Boston Bay; The
 Antinomian&#x27; Controversy; A Study of  
 Church and Town Government, 2 vols
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_halfwayrock_ver01:data:sn83016025:00414210995:1892111201:0230/pct:16.48373186985496,29.191321499013807,12.524500196001568,2.291002882718859/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_halfwayrock_ver01:data:sn83016025:00414210995:1892111201:0230/pct:16.48050166568685,29.186893203883496,12.526944934352342,2.2944478155339807/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

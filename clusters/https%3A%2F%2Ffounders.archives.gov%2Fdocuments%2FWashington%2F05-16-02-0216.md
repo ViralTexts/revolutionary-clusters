@@ -83,7 +83,7 @@ guardians of them and such infallil
 guides that one is at no loss for a direc  
 or at any turn.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287290:1891021801:0107/pct:21.248457062246516,67.30791516977634,14.353729500969846,3.546181481052266/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287290:1891021801:0107/pct:21.248457062246516,67.31177811256616,14.365485217186857,3.550044423842083/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -134,7 +134,7 @@ guardians of them and such infallible
 guides that one is at no loss for a direct­  
 or at any turn.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_fencing_ver02:data:sn83016589:0039334071A:1891022001:0177/pct:20.90120261835896,68.26086956521739,13.5484853097884,3.1601272534464475/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_fencing_ver02:data:sn83016589:0039334071A:1891022001:0177/pct:20.906276957426297,68.26793920113114,13.543410970721064,3.1565924354895722/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -166,7 +166,7 @@ or at any turn.&quot;
 PCT UP YOUR REEKING SWORD.  
 That he was simply an &quot;English gen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068402:00295878666:1891022601:0484/pct:67.43721461187215,88.539375274967,14.155251141552512,18.114826220853498/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068402:00295878666:1891022601:0484/pct:50.59226487797916,66.41003079630444,10.617953475096332,13.583369995600528/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -189,7 +189,7 @@ loss for a director at any turn.&quot;
 B74S ratal Nerves.  
 Father- Well, young man, I under
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279524123:1894022001:0248/pct:256.421133821828,268.6694021101993,29.74675408150148,13.139898397811645/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279524123:1894022001:0248/pct:85.46272493573265,89.54771905831787,9.914310197086547,4.379538276187685/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -210,7 +210,7 @@ so many watchful guardians of them, and
 such infallible guides, that one is at no  
 loss for a director at any turn.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_elliot_ver01:data:sn87068079:00332896489:1894022201:0245/pct:24.383116883116884,83.9377572016461,9.772727272727273,3.0864197530864197/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_elliot_ver01:data:sn87068079:00332896489:1894022201:0245/pct:24.379159227398148,83.92696412498393,9.775198831358546,3.0892374951780894/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -231,7 +231,7 @@ to many watchful guardians of them, and
 such infallible gnidea, that one is at no  
 loea for a director at any turn. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_detroit_ver02:data:sn96077385:00296023607:1894022301:0234/pct:97.01704545454545,133.78858538751942,20.40719696969697,5.762824783477681/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_detroit_ver02:data:sn96077385:00296023607:1894022301:0234/pct:64.69845279444269,89.19609149455918,13.609093779602148,3.841883188985121/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -252,7 +252,7 @@ si many watchful guardians of them, and
 such infallible guides, that one is at no  
 loss for a director at any turn.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762313:1894030701:0050/pct:72.95338494481963,88.77715704531347,10.278372591006423,3.1036623215394163/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762313:1894030701:0050/pct:72.95750288255641,88.78336436995654,10.290726404216768,3.106765983860956/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

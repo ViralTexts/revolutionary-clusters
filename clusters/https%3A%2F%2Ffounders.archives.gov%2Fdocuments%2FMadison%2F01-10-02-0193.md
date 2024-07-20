@@ -194,7 +194,7 @@ jMltes con corning boundary, jurisdiction, and other causes
 between Stales. The following article, however, contains  
 the elements of its own w eakness and inadaptability 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855092301:1017/pct:4.143965659567443,70.9991045157989,15.783391117715041,4.2343610080593574/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855092301:1017/pct:4.154972208464036,70.9991045157989,15.777887843266743,4.242889429022217/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

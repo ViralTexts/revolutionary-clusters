@@ -64,7 +64,7 @@ country, who shall appear in his judg­
 considerations that induced him to fend  
 it to the present pofieflor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1792020101:0952/pct:72.7385071675729,20.443310476797958,21.79930795847751,20.459256896826663/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1792020101:0952/pct:72.74674575712638,20.443310476797958,21.79930795847751,20.464572370169563/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -246,7 +246,7 @@ arsons that .b-&#x27;ve induced tuc to lend it to y. u:
 w  
 txfceilocey
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1800030301:0347/pct:69.81621112158341,60.31904287138584,21.795475966069745,32.046716991881496/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1800030301:0347/pct:69.79976442873969,60.310452862432356,21.7962308598351,32.04571347194531/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

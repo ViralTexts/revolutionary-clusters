@@ -95,7 +95,7 @@ celebrated the twenty-fifth anniver­
 sary of his accession to the throne  
 of his fathers. The event was one 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dutch_ver02:data:sn84024441:211103152:1898110501:0461/pct:49.89589530041642,7.871621621621622,36.228435455086256,136.77927927927928/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dutch_ver02:data:sn84024441:211103152:1898110501:0461/pct:33.273836085081065,5.247747747747748,24.155882790420943,91.19369369369369/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -129,7 +129,7 @@ lived a good life, as well as long one.
 and is happy.”—Paul Leicester Ford, in  
 Century
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_belair_ver01:data:sn89060136:00279522576:1898120201:0667/pct:57.93063133281372,99.6545768566494,15.744349181605612,7.210708117443868/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_belair_ver01:data:sn89060136:00279522576:1898120201:0667/pct:44.900835598510014,77.2374047220673,12.201751736635458,5.588399330730619/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -158,7 +158,7 @@ What Alexander the Great Did.
 Prof. Benjamin Ide Wheeler has  
 written for the Century a new life o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_volvo_ver01:data:sn00065127:00295876529:1898120201:0988/pct:60.27633851468048,63.8373849745914,15.659182498560737,9.147095179233622/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_volvo_ver01:data:sn00065127:00295876529:1898120201:0988/pct:52.74263965073324,55.866682690381765,13.713198253666182,7.9998397628490165/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -181,7 +181,7 @@ you have supplied all. She has lived a
 good life, as well as a long* one, and is  
 happy.’ ’—Century.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_horseradish_ver02:data:sn87068097:00383340287:1898121001:0669/pct:15.677819937909623,93.46433770014556,11.021041738530528,3.668122270742358/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_horseradish_ver02:data:sn87068097:00383340287:1898121001:0669/pct:15.675116399379203,93.45073497307524,11.023452319365408,3.671226895648377/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -266,7 +266,7 @@ A lady had long expected to see some one
 thrown out of the open car at one of the sharp  
 curves, and one day she actually saw a woma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685166:1899020901:0497/pct:73.13899010931806,55.541378053226396,20.79646017699115,7.728764126868392/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685166:1899020901:0497/pct:73.11995836586,55.531255695279754,20.797553994275304,7.731911791507199/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -330,7 +330,7 @@ of his life spend about sixty days of his
 valuable time winding the clock, to say  
 nothing of time and temper lost throug
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_gargoyle_ver02:data:sn92064114:00514153401:1899080501:0786/pct:30.04949704614402,29.165360910895227,20.054287082867635,19.680350987151364/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_gargoyle_ver02:data:sn92064114:00514153401:1899080501:0786/pct:30.04949704614402,29.165360910895227,20.064931608920112,19.690797033322887/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

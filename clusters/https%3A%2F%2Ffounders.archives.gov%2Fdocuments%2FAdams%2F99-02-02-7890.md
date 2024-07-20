@@ -701,7 +701,7 @@ By Providence secured.
 THE PIRATE  
 Eighteen years ago, the ship I commanded we
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_diglett_ver01:data:sn82015378:00295872366:1850110201:1066/pct:15.125,14.332932692307692,35.25,44.30588942307692/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_diglett_ver01:data:sn82015378:00295872366:1850110201:1066/pct:5.041666666666667,4.777644230769231,11.75,14.768629807692308/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -807,7 +807,7 @@ His treasure to employ,
 Whom no reward can ever bribo  
 The guiltless to destroy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777791:1851111201:0395/pct:68.38858905165768,67.2341742764278,39.16730917501928,43.770314192849405/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777791:1851111201:0395/pct:17.10044341623289,16.80854356910695,9.793715056872951,10.942578548212351/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -982,7 +982,7 @@ His treasure to employ,
 Whom no reward can ever bribe  
 The guiltless to deslroy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867022401:0180/pct:301.0474430067776,96.684350132626,28.773875539125076,9.195402298850574/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867022401:0180/pct:75.2618607516944,24.1710875331565,7.193468884781269,2.2988505747126435/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1020,7 +1020,7 @@ The guiltless to destroy.
 RICHMOND  
 WEEKLY DISPATCH
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn86053067:00295862348:1868021301:0008/pct:4.868466006149641,7.7223960661600355,15.117868124359413,16.417076441662942/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn86053067:00295862348:1868021301:0008/pct:4.868466006149641,7.729846520637759,15.134950461223095,16.417076441662942/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1057,7 +1057,7 @@ And though he promised to his loss
 He made his bromise good.  
 The following toasts were drunk with all th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743749:1871061901:1046/pct:146.70197400096293,256.98766549734074,46.332851869683836,27.713024782165892/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743749:1871061901:1046/pct:48.90065800032097,85.66255516578025,15.44428395656128,9.237674927388632/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1089,7 +1089,7 @@ Who to his pUgtited words and trust
 Has ever firmly stood  
 And, though he promised to his lost,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn92056106:0027952875A:1873052201:0318/pct:74.96571689776017,13.444964294508742,8.395550815175987,5.478946072395962/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn92056106:0027952875A:1873052201:0318/pct:74.97714459850678,13.454198473282442,8.395550815175987,5.475868012804728/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1119,7 +1119,7 @@ Han ever flrmly stood ; &#x27; .
 And though he promise to bin low  
 He makes bla promise good
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280775022:1877030801:0948/pct:31.905594405594407,8.004731861198739,17.416958041958043,10.160357518401682/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280775022:1877030801:0948/pct:23.939658941845213,6.0068349106204,13.073895933537385,7.6235541535226075/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1304,7 +1304,7 @@ Religiously respect
 Who to Ids plighted vows and tn:s:  
 Has .-ve* linaiy st
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_quartz_ver01:data:sn85025007:00175033634:1893011801:0464/pct:4.002043596730245,10.52263182454503,12.55108991825613,6.264582361175922/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_quartz_ver01:data:sn85025007:00175033634:1893011801:0464/pct:4.002043596730245,10.52263182454503,12.56244323342416,6.276248250116659/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1337,7 +1337,7 @@ Whom no reward can ever l?rll&gt;e
 The guiltless lo destroy.  
 The l&#x27;t-aliu wan copied hy Thoma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_bones_ver01:data:sn84026824:00271767857:1893022401:0445/pct:85.39600597744871,40.669100957268334,11.370737671512023,8.86213362281654/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_bones_ver01:data:sn84026824:00271767857:1893022401:0445/pct:85.39600597744871,40.67239053916247,11.384322782230676,8.868712786604823/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

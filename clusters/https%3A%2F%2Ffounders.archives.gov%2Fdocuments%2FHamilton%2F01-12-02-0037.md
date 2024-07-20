@@ -34,7 +34,7 @@ and providing compensations for the officer:
 of the said courts, and for jurors, and wit­  
 nesses. Adjourned
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792021601:0002/pct:5.977082688138743,81.91925102399064,20.935274078662125,3.6083479617710164/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792021601:0002/pct:6.000309693403531,81.91925102399064,20.927531743573862,3.6181002535595863/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -59,7 +59,7 @@ for the officers of the said courts, and ror
 jurors and witnefles,&quot; was twice read, and  
 committed to a feleft committee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792022001:0002/pct:4.18227215980025,11.640211640211641,21.504369538077402,7.720948461689202/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792022001:0002/pct:4.205680399500624,11.640211640211641,21.48876404494382,7.730746619635508/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -78,7 +78,7 @@ and providing compensations for
 the officers of the said courts, and  
 for jurors, and witnefles.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1792030701:0971/pct:50.25996533795494,88.13912485975317,21.193364694231246,5.145055297323289/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1792030701:0971/pct:50.25996533795494,88.14446759630283,21.209870429974416,5.145055297323289/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -113,7 +113,7 @@ TUESDAY, April 17.
 A bill to provide for calling forth the militia  
 to execute the laws, fupprels infurretflions, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792041801:0003/pct:6.345256609642302,26.978774052767307,27.433903576982893,14.560603054949414/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792041801:0003/pct:6.3530326594090205,26.993652053164055,27.44167962674961,14.545725054552667/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -133,7 +133,7 @@ jf the United States, and providing com­
 lenfations for the officers of the said courts,  
 md for jurors and witnesses,&quot; togethe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792041901:0002/pct:29.662851840395916,20.132786565124,19.981441385709868,4.335090802577621/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792041901:0002/pct:29.662851840395916,20.132786565124,19.98917414166409,4.339972661589533/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -152,7 +152,7 @@ said courts, and for jurors and witnefles, was read the third
 time, and passed.  
 The following bills were also read the third time, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792042801:0003/pct:6.273525721455458,25.79624134520277,27.352572145545796,3.3827893175074184/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792042801:0003/pct:6.297051442910916,25.79624134520277,27.34473023839398,3.407517309594461/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -180,7 +180,7 @@ the United States, arid providing compen­
 sations for the officers of the said courts  
 And for jurors and vvitneffes 5&quot; and havin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792043001:0002/pct:8.343672456575682,14.302393461762989,20.905707196029777,9.768437439190503/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792043001:0002/pct:8.351426799007443,14.316987740805605,20.9212158808933,9.768437439190503/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -207,7 +207,7 @@ the courts of the United States, and pro­
 viding compensations for the officers ot laid  
 courts and for jurors and witnefles—and a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792051401:0002/pct:5.764411027568922,15.469935785172213,21.271929824561404,9.165207238762406/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792051401:0002/pct:5.772243107769423,15.469935785172213,21.271929824561404,9.165207238762406/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -229,7 +229,7 @@ for Jurors and Witnesses.
 BE it enacted by the Senate and House of Representatives of  
 the United States of America, in Congress assembled, Tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792053001:0001/pct:7.558859975216852,21.547619047619047,27.44733581164808,5.773809523809524/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792053001:0001/pct:7.574349442379182,21.557539682539684,27.439591078066915,5.788690476190476/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -270,7 +270,7 @@ cers of the said Courts, and for jurors
 and witnesses, do not confer upon the  
 said Courts the power, by rules and or
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn84024505:00542866962:1825122001:0295/pct:3.9561384648462696,64.66165413533835,13.35196731885616,3.5752646923431026/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn84024505:00542866962:1825122001:0295/pct:3.9552880481513326,64.65173366063209,13.354471195184868,3.578551702976373/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -313,7 +313,7 @@ The second section of that act provided that in
 suits in equity in the Circuit and District Courts  
 of the United States the forms and moge
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206533468:1875042201:0620/pct:184.2654735272185,300.5440376415233,49.4407158836689,13.05690339655933/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206533468:1875042201:0620/pct:46.06636838180462,75.13600941038082,12.360178970917225,3.2642258491398324/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

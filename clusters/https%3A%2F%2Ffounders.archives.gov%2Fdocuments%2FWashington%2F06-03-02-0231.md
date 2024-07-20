@@ -36,7 +36,7 @@ with the policy of this government, to bestow
 offices, civil or military, upon foreigners, to  
 the exclusion of our own citizens. * 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_jalapeno_ver02:data:sn83009567:0029602613A:1845011001:0043/pct:23.519426631459826,38.46366399557889,14.447378347793286,2.5421387123514783/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_jalapeno_ver02:data:sn83009567:0029602613A:1845011001:0043/pct:23.525713567207344,38.468269319333146,14.466239155035835,2.5421387123514783/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -117,7 +117,7 @@ country; at what time your ancestors left Eng­
 land is not mentioned; mine came to America  
 nearly 150 years ago.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_jalapeno_ver02:data:sn83009567:0029602613A:1845022701:0207/pct:3.4694268736821927,62.57439446366782,14.66359976998275,6.906574394463668/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_jalapeno_ver02:data:sn83009567:0029602613A:1845022701:0207/pct:3.4694268736821927,62.57900807381776,14.67637850616574,6.91118800461361/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -138,7 +138,7 @@ MILLITArY, UpON FOrEIGNers,
 to the exclusion of our own citizens.  
 Yours, &amp;c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:0041566770A:1845022801:0597/pct:316.11754229741763,167.20011745705477,60.64113980409617,15.621788283658788/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:0041566770A:1845022801:0597/pct:79.0822009356204,41.80002936426369,15.170416573847183,3.905447070914697/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -162,7 +162,7 @@ the branches of it proceeded from the same country ; at what
 time your ancestors left England is not mentioned ; mine came  
 to America neaily one hundred and fifty years ago
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1845030101:0111/pct:49.83782259201805,26.17346377926789,15.879283598928218,5.947015499615258/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1845030101:0111/pct:49.842523386452314,26.18079220255762,15.87458280449396,5.950679711260122/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -182,7 +182,7 @@ time your ancestors left England is not mentioned; mine
 came to America nearly one hundred and fifty years  
 ago.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845030501:0190/pct:211.43943826799298,84.94311585790574,38.32650672908133,6.768052008358486/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845030501:0190/pct:70.46950416849495,28.311085316308763,12.773633659987324,2.2557554652737473/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -208,7 +208,7 @@ country; at what time your ancestors left En­
 gland is not mentioned; mine came to America  
 nearly one hundred and fifty years ago.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879051:1845030701:0109/pct:8.735440931780365,50.01962708537782,19.633943427620633,8.459273797841021/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879051:1845030701:0109/pct:6.560332871012482,37.517173699705594,14.729542302357837,6.349362119725221/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -264,7 +264,7 @@ ed from the same country; at what time your ances­
 tors left England is not mentioned; in inn caiue to  
 America nearly one hundred and Ally years ago.*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn84020566:00414187468:1845031501:0219/pct:57.30642344265476,15.047995482778092,12.516980399767126,4.827780914737437/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn84020566:00414187468:1845031501:0219/pct:57.2953046177726,15.045871559633028,12.519402405898331,4.8306280875088214/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -364,7 +364,7 @@ it does not accord with the policy of this govern­
 mhent to bestow offices, civll or military, upon foreigners,  
 to the exclusion of our citizens. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184662:1854110101:0913/pct:208.1017149615612,44.77768701131988,37.80307510348906,4.773019022056249/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184662:1854110101:0913/pct:69.3569844789357,14.924154025670946,12.599162355259915,1.5908206923376118/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -383,7 +383,7 @@ ernment to bestow offices, civil or wiliUrv, u|&gt;on
 foreigners, to the exclusion of-our citizen*.  
 Thomas Jefferson, the great apostle and founde
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1854113001:0071/pct:32.2898880667805,47.9903024116371,15.518876873458547,2.6030368763557483/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1854113001:0071/pct:32.2898880667805,47.99455573986644,15.525200784164928,2.6115435328144274/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -402,7 +402,7 @@ sage:
 eminent, to bestow offices, civil or militarv, upou  
 foreigner*, to the exclusion of our citizens
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1854121101:0105/pct:79.77976077463451,52.78584965255843,15.435731915701538,2.653190145293746/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1854121101:0105/pct:79.77976077463451,52.78584965255843,15.448389342446681,2.6658243840808593/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -422,7 +422,7 @@ policy of this Government, to bestow off­
 ces; civil or military, upon foreigners, to the  
 exclusion of our own oitisens
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn88078726:00296028046:1854122101:0466/pct:15.50561797752809,345.8156416929188,51.760299625468164,12.655800575263662/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn88078726:00296028046:1854122101:0466/pct:3.8771305487919085,86.4539104232297,12.942498595242554,3.1639501438159154/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -470,7 +470,7 @@ trance.&quot;
 Mr. Webster, too, the great defender or the  
 constitution, beholding with the ssgacity of a state
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855011701:0226/pct:19.440242057488653,46.49884998722208,15.412254160363085,5.277280858676208/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855011701:0226/pct:19.440242057488653,46.49884998722208,15.424861321230459,5.281540165261095/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -492,7 +492,7 @@ of our own citizen?.
 The same principle of Americanism is found  
 in the constitutions of the several States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855012201:0242/pct:34.87091875474563,88.6990635282207,15.546697038724373,4.328018223234624/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855012201:0242/pct:34.88357377879018,88.70750021091706,15.546697038724373,4.332236564582806/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -532,7 +532,7 @@ ley.
 (fir’The Legislature of Florida has abolished  
 the Supreme Court.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn85025594:00383347348:1855022001:0162/pct:42.32420826623725,34.869780901198844,12.385936661298981,3.379495659363373/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn85025594:00383347348:1855022001:0162/pct:42.32868133834317,34.87667080060631,12.385936661298981,3.3726057599559045/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -562,7 +562,7 @@ I this ^overnmsnt, to bestow offices, civil
 or military, upon foreigners, to the ex­  
 ; elusion of our citizens.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_antares_ver02:data:sn84026824:00271767742:1855022401:0470/pct:14.889167712254286,24.324324324324323,21.023281751010735,11.091736898188511/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_antares_ver02:data:sn84026824:00271767742:1855022401:0470/pct:14.889167712254286,24.330782395298524,21.0279288071007,11.091736898188511/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -605,7 +605,7 @@ Constitution, beholding with the sagacity o
 ernment to bestow offices, civil or military, upon  
 Ibreigners, to the exclusion of our own ritisens
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855031501:0418/pct:18.887823585810164,87.40467717336045,15.627996164908916,1.690391459074733/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855031501:0418/pct:18.89421540428252,87.40467717336045,15.627996164908916,1.6988645992204712/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -628,7 +628,7 @@ Yours, ec.G.WAShiNToN.
 WAR DEPAkTMENr, Feb. Ith, 1790.  
 InstrectIoNs oF The SeCReTalY or WAr r
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393347971:1855031601:0705/pct:141.8317317121004,257.81180974819614,60.737399490096095,20.394639964659106/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393347971:1855031601:0705/pct:35.450980392156865,64.4434628975265,15.181372549019608,5.097909305064782/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -651,7 +651,7 @@ izens. Yours, 4c. G. Washington.
 INSTRUCTIONS OF THE SECRETARY OF WAR  
 TO THE INSPECTOR GENERAL
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cousteau_ver02:data:sn84028817:00296027352:1855032901:0061/pct:42.81468531468531,26.48221343873518,16.03146853146853,8.473320158102768/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cousteau_ver02:data:sn84028817:00296027352:1855032901:0061/pct:32.12661769849598,19.861660079051383,12.032179083595663,6.361166007905139/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -762,7 +762,7 @@ of our own citizens.
 Yours, ect. G.WASHinGTON.  
 And in his farewell address, which should b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393347971:1855052101:0929/pct:265.3100403148397,26.030240142306553,59.45478978690728,17.032315446190335/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393347971:1855052101:0929/pct:66.3147792706334,6.506595523936564,14.86084452975048,4.257447754557581/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -814,7 +814,7 @@ icy of this Government to bestow offices,
 civil or military, upon foreigners, to the exclu  
 sion or our own citizens. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn84024443:00280779209:1855072001:0390/pct:22.110365398956002,96.63658736669402,16.68530947054437,6.740497675690457/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn84024443:00280779209:1855072001:0390/pct:16.6013803394889,72.47744052502051,12.516321581794442,5.058791359037462/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -833,7 +833,7 @@ this Government to bestow offices, civil or military,
 upon foreigners, to the exclusion of our own citi­  
 zens. Yours, etc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn86071224:00212470053:1855072401:0078/pct:70.19562715765247,230.1294535456524,50.34522439585731,9.714743956925192/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn86071224:00212470053:1855072401:0078/pct:17.553956834532375,57.5323633864131,12.589928057553957,2.428685989231298/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1020,7 +1020,7 @@ atisentr-- lVash bag fon.
 ernment to bestow offices, civil or military, upon  
 foreigners, to tlie exclusion of onr own citizens 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855102001:1162/pct:80.41918429003022,91.36594493450949,15.31344410876133,1.7241379310344827/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855102001:1162/pct:80.43177240684794,91.36594493450949,15.300855991943605,1.7375033413525796/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1063,7 +1063,7 @@ that it does not accord with the policy of this Govern
 ment to bestow offices, civil or military, upon foreigner­  
 to the exclusion of our own citizens. (Washingt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_pearse_ver01:data:sn82015753:00212475373:1855103001:0417/pct:89.29765886287625,223.0488578680203,38.56605351170568,7.899746192893401/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_pearse_ver01:data:sn82015753:00212475373:1855103001:0417/pct:29.765886287625417,74.3496192893401,12.855351170568563,2.633248730964467/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1119,7 +1119,7 @@ Government to bestow offices, civil or military,
 upon foreigners, to the exclusion of our own  
 citizens.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156372:1856043001:0276/pct:83.10428455941795,242.1420256111758,59.741309620048504,20.023282887077997/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156372:1856043001:0276/pct:20.780270871235093,60.53550640279395,14.938346472609663,5.005820721769499/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1158,7 +1158,7 @@ upon foreigners, to the exclusion of our citizens.&quot;
 During the evening one of the delegations dis­  
 played the following motto on one of their transa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415661009:1856070101:0729/pct:50.467719674896486,47.07579624902896,15.672442876859378,3.495727444234824/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415661009:1856070101:0729/pct:50.467719674896486,47.08319461399031,15.682666257731432,3.495727444234824/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1186,7 +1186,7 @@ author of a petition to the Vis
 irginia Legisla-  
 ture in 1707 praying that foreigners by birt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156372:1856071601:0320/pct:145.61544650040224,345.2367036820573,59.372485921158486,23.728813559322035/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156372:1856071601:0320/pct:36.42584020929765,86.30917592051432,14.852082914067216,5.932203389830509/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1321,7 +1321,7 @@ England is not mentioned; mine
 came to America nearly one hun­  
 dred and fifty years ago.?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_kirby_ver02:data:sn84022553:00202197243:1876093001:0475/pct:161.48936170212767,362.17028836955035,43.758865248226954,18.149514828481617/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_kirby_ver02:data:sn84022553:00202197243:1876093001:0475/pct:40.37234042553192,90.54257209238759,10.939716312056738,4.537378707120404/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1430,7 +1430,7 @@ this government to bestow offices, civil
 or military, on foreigners, to the ex­  
 clusion of our own citizens.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_larkspur_ver01:data:2017270212:0027952746A:1895071201:0410/pct:49.05579399141631,93.72151154242023,18.540772532188843,3.1760035288928097/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_larkspur_ver01:data:2017270212:0027952746A:1895071201:0410/pct:36.826283014816404,70.29848551683575,13.914537255744042,2.3820026466696076/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

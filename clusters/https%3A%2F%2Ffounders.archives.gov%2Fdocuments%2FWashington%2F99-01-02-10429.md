@@ -134,7 +134,7 @@ stow, as merit rarely goes unrewarded.
 I am, dear Bushrod, your affectionate uncle,  
 GEORGE WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030212:00206530157:1841041401:0013/pct:239.01993051746206,98.10102053998192,59.82812214298775,119.68737889161606/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030212:00206530157:1841041401:0013/pct:79.67331017248735,32.70034017999397,19.942707380995916,39.895792963872026/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -318,7 +318,7 @@ I am, dear Bushrod,
 your affectionate uncle,  
 GEO. WASHLINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00200290197:1841041601:0065/pct:69.21944035346097,79.62253022707166,52.650957290132546,221.5275729873194/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00200290197:1841041601:0065/pct:17.308046400294604,19.905632556767916,13.165162953415578,55.38189324682985/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -420,7 +420,7 @@ a man&#x27;s honor, and the cause of suicide. To all
 those who enter the lists it is equally fascinating.  
 The snecessful gameoter pushes his good rortune,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn85054702:00280776002:1841042401:0150/pct:261.3413715146948,66.12971598134803,60.66314996232102,179.96326126889926/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn85054702:00280776002:1841042401:0150/pct:65.3353428786737,16.532428995337007,15.165787490580255,44.990815317224815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -448,7 +448,7 @@ bestow; as merit rarely goes unrewarded.
 I am, dear Bushrod, your affectionate uncle,  
 GEO. WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn85054702:00280776002:1841042401:0150/pct:263.4513941220799,268.2492581602374,59.23134890730972,20.06499929348594/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn85054702:00280776002:1841042401:0150/pct:65.86284853051997,67.06231454005935,14.80783722682743,5.016249823371485/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -560,7 +560,7 @@ country caa bestow j as merit saroly goes
 unrewarded. .  
 I am. dea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182951:1841042901:0267/pct:74.2906649339398,41.41517726340463,17.11067792939138,52.59302666276003/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182951:1841042901:0267/pct:74.27457773928107,41.409110883257654,17.112386314421826,52.58898491284605/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -661,7 +661,7 @@ goes uinrowarded.
 I am, dear Bushrod, your affectionate uncle,  
 GEO. WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1841050301:0312/pct:198.0,49.66607605288265,58.81481481481482,167.20730543819/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1841050301:0312/pct:49.518340125972585,12.416519013220663,14.709151537606521,41.8018263595475/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -822,7 +822,7 @@ ed3l6end
 &quot;I am, deur Rushrod, your aslectionate unale,  
   oe a adGEO. WASHIINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296187:1841051101:0798/pct:214.91160645657186,119.97250859106529,73.86625672559569,223.6151202749141/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296187:1841051101:0798/pct:53.7588925206691,29.993127147766323,18.477215920015382,55.90378006872852/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1108,7 +1108,7 @@ stow; as merit rarely goes unrewarded.
 1 am, dear Bushrod, your affectionate un  
 cle, GEO. WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn86074084:00295878186:1841060501:0182/pct:54.26136363636363,13.317811408614668,49.54229797979798,116.77532013969733/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn86074084:00295878186:1841060501:0182/pct:40.71676665614146,9.988358556461002,37.16450899905273,87.59022118742725/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1142,7 +1142,7 @@ genteel dress is more admired- and obtains more cred­
 it, than lacs and embroidery, in the eyes of the judi­  
 cious aad sensible.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182951:1841092301:0348/pct:23.182411841532435,89.03635314483554,16.913365259033522,5.8280438545874205/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182951:1841092301:0348/pct:23.177366702937977,89.02351074570893,16.91512513601741,5.830809173517958/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1388,7 +1388,7 @@ hopes of rsirieving post misliginnes, goes oo fross
 bed to worse, liligrown desperste, he poses as ay  
 ery thing and hae his all. In a waed few gals b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186427:1842021501:1045/pct:52.98788132051818,156.5074496056091,39.713051957097086,99.59465381244523/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186427:1842021501:1045/pct:17.66016713091922,52.16343520648483,13.235840297121634,33.194581370723334/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1515,7 +1515,7 @@ goes unrewarded.
 I a id , dear Bushrnd votir aff &#x27;CtwnBte  
 G WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn83035366:00296029087:1842022501:0316/pct:26.238938053097346,13.95278450363196,58.517699115044245,114.36138014527845/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn83035366:00296029087:1842022501:0316/pct:19.703342926721277,10.472154963680387,43.92295771529776,85.77481840193704/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1826,7 +1826,7 @@ growth, and must undergo and withstand tho
 shocks of adversity, before it is entitled to tho  
 appellation.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82014835:00415661514:1855042101:0080/pct:69.22166710491717,85.10438413361169,13.265842755719168,10.22964509394572/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82014835:00415661514:1855042101:0080/pct:69.22166710491717,85.10438413361169,13.278990270838811,10.236604036186499/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1849,7 +1849,7 @@ estimation of the widow&#x27;s mites, but, that
 it is not every one who asketh, that  
 deserveth charity. All, however, are
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn85049614:0027952939A:1855062001:0316/pct:132.6431718061674,88.63662424033942,37.00440528634361,19.642242862057103/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn85049614:0027952939A:1855062001:0316/pct:44.2143906020558,29.545541413446472,12.334801762114537,6.5474142873523675/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1882,7 +1882,7 @@ aee i an eeae a e e a a o a ae i
 True friendship! is a plants of slow  
 growth, and must undergo and withstand
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn85049614:0027952939A:1855062001:0316/pct:94.68428781204112,122.64648549478271,74.59618208516886,31.693613117761725/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn85049614:0027952939A:1855062001:0316/pct:31.56142927068037,40.88216183159424,24.865394028389623,10.564537705920575/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1938,7 +1938,7 @@ growth, and must undergo and withstand
 the shocks of adversity, before it is enti-­  
 tled to the appellation.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:0027952939A:1859022601:1071/pct:205.24619747357568,221.22718052738335,68.79350348027842,61.156186612576064/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:0027952939A:1859022601:1071/pct:68.41539915785856,73.7423935091278,22.931167826759474,20.385395537525355/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1956,7 +1956,7 @@ Be courtcous to all, but intimate to
 few; and let those few be well tried, be  
 fore you give them your confidence
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:0027952939A:1859022601:1071/pct:240.61613817994328,273.2961460446247,34.106728538283065,4.695740365111562/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:0027952939A:1859022601:1071/pct:80.20537939331443,91.09871534820824,11.368909512761022,1.5652467883705206/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2065,7 +2065,7 @@ lace and embroidery in, tbe eyes of the judicious and
 sensible.  
 The Beat Answer to Calumny
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879117:1864122201:0421/pct:66.69620253164557,55.245093299816304,19.89873417721519,5.646330851783815/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879117:1864122201:0421/pct:50.031649575895685,41.43865416223533,14.925939992404102,4.234748138837861/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2161,7 +2161,7 @@ Washington was wont to say, be &quot;courteous to a
 but intimate with few, and let those few be well  
 tried before you give them your confidence.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777651:1867021301:0244/pct:170.57435090479936,284.58043017267494,50.35405192761605,6.240533171766131/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777651:1867021301:0244/pct:42.66036993309721,71.14510754316873,12.593467138921685,1.5601332929415328/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2211,7 +2211,7 @@ say, &quot;Deal with a few for a while and
 then select one of them and give him  
 your confidence.&quot; That is the wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn85042591:00280774960:1867072601:0957/pct:257.13350785340316,38.50294154462386,39.397905759162306,20.578295155839278/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn85042591:00280774960:1867072601:0957/pct:64.29389625265914,9.625735386155965,9.851088201603666,5.1445737889598195/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2228,7 +2228,7 @@ w.&#x27;.htto ay, L«courteous to all but intimate
 with few j and let those b v ! • well tried,  
 before you give them your confidence.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187134:1867080901:0135/pct:3.868860695892476,49.96298254891592,13.076246702675544,2.020095187731359/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187134:1867080901:0135/pct:3.8683747802059782,49.957698815566836,13.078790923553546,2.023406655386351/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2255,7 +2255,7 @@ few, and let those few be well tried
 before you give them your confi?  
 dence
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_alexiavalentine_ver01:data:sn84027008:00294551670:1867091301:0557/pct:50.16255498183209,53.48771533465123,16.714476955440812,8.75458909912454/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_alexiavalentine_ver01:data:sn84027008:00294551670:1867091301:0557/pct:50.16255498183209,53.49712887131695,16.7208516606107,8.749882330791678/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2273,7 +2273,7 @@ dangers of society. Avold gaming, the child of
  avarice, the brother of iniquity, the father  
 of mischief. It has been the ruin of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743774:1872022301:0652/pct:244.52237808951236,170.7555757851616,47.77889111556446,4.813381884387802/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743774:1872022301:0652/pct:81.50745936317078,56.918525261720525,15.926297038521488,1.6044606281292673/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2313,7 +2313,7 @@ worthy families, the loss of many a
 man&#x27;s home and the cause of many a  
 suicide.-Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_montpelier_ver01:data:sn84023253:00200296278:1872030801:0249/pct:252.63433356594558,237.8758078111829,33.496161898115844,39.660016858668165/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_montpelier_ver01:data:sn84023253:00200296278:1872030801:0249/pct:84.25554197940303,79.29193593706097,11.171234072263921,13.220005619556055/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2338,7 +2338,7 @@ worthy families, the loss of many a
 man&#x27;s home and the cause of many a su­  
 icide. Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_melon_ver01:data:sn84022549:00415628481:1872031501:0047/pct:63.282504012841095,45.79655621473014,17.215088282504013,9.911734915352337/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_melon_ver01:data:sn84022549:00415628481:1872031501:0047/pct:47.50050190724754,34.35103458254956,12.92913069664726,7.437418608016206/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2452,7 +2452,7 @@ been the ruin of many worthy families, the
 loss of many a man’s homo, and the cause  
 of many a suicide. Washington.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85033123:00514151234:1873101601:0472/pct:33.85826771653543,83.56447329595751,14.747097290804751,6.56044064129045/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85033123:00514151234:1873101601:0472/pct:33.85826771653543,83.56447329595751,14.75599448374038,6.56699780335071/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2477,7 +2477,7 @@ slow growth, and must stand the
 hocks of adversity before it is en­  
 titled to that appellation. Wash­
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn82016419:00212472980:1877060801:0129/pct:6.556728232189974,5.617352614015573,12.994722955145118,8.53170189098999/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn82016419:00212472980:1877060801:0129/pct:4.922792662003431,4.215795328142381,9.75320047512208,6.407119021134594/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2516,7 +2516,7 @@ stand many shocks of adversity before
 it is eiritled to the appellation.  
 A man to he a success must not he 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_floyd_ver01:data:sn86092245:00414186580:1879051701:0331/pct:83.69185264856144,57.985854533938564,12.342027426727615,2.4596220838171647/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_floyd_ver01:data:sn86092245:00414186580:1879051701:0331/pct:83.68060223148272,57.97973400886637,12.344849218084867,2.462880866934065/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2561,7 +2561,7 @@ stand many shocks of adversity before
   
 it is entitled to the appellation,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477874:1879052101:0526/pct:99.39668174962293,340.2686481851958,78.28054298642535,47.499285510145754/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477874:1879052101:0526/pct:24.858543945680875,85.06716204629895,19.57751791776688,11.874821377536438/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2651,7 +2651,7 @@ growth, and must undergo and with­
 stand many shocks of adversity before  
 it is en&#x27;itled to the appellation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_drinksmall_ver01:data:sn93067705:00237288439:1879053101:0412/pct:84.50312717164698,48.58317110101665,13.356497567755385,12.00519143413368/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_drinksmall_ver01:data:sn93067705:00237288439:1879053101:0412/pct:84.50776001853139,48.59038142620232,13.365763261524206,12.001586271540846/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2691,7 +2691,7 @@ and must undergo and withstand many
 shocks of adversity before it is entitled to&#x27;She  
 appellation. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_asburypark_ver01:data:sn84026089:00514155872:1880010701:0585/pct:81.52467883705206,86.82552725280745,12.068965517241379,4.902766365379348/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_asburypark_ver01:data:sn84026089:00514155872:1880010701:0585/pct:81.51090079432144,86.81363823086403,12.071150921074869,4.905518280158839/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2735,7 +2735,7 @@ in our day as to the rights of capital
 and the rignts oi iana,ana tne nguta  
 of nroDertv ten e rail v. as they have
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85026421:00415669215:1880020501:0588/pct:94.19204322200393,95.32214506172839,31.974459724950883,47.21257716049383/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85026421:00415669215:1880020501:0588/pct:62.817835646726444,63.55131172839506,21.324161650902838,31.471836419753085/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2774,7 +2774,7 @@ the main work, yet sufforing so un bolts
 the door of the heart that both the word  
 and the spirit have entrance
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_drinksmall_ver01:data:sn93067705:00237288439:1880030401:0882/pct:83.36622497885537,38.724373576309794,13.377502114462926,13.580648660375312/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_drinksmall_ver01:data:sn93067705:00237288439:1880030401:0882/pct:83.37092378535851,38.72798929746538,13.382200920966074,13.580648660375312/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2797,7 +2797,7 @@ and withstand many shocks of ad­
 versity before it is entitled to the  
 appellation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_floydcouncil_ver01:data:sn84026909:0023728706A:1880051901:0077/pct:85.02770552979759,65.83897046691965,11.61370575596517,6.616069955452896/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_floydcouncil_ver01:data:sn84026909:0023728706A:1880051901:0077/pct:85.03147498963399,65.84447010944288,11.609936296128765,6.610570312929659/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2839,7 +2839,7 @@ tled to the appellation.
 If you have performed an act of great  
 and disinterested virtue; conceal it; if yo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn2007060551:00514157467:1880060901:0020/pct:81.42446286584334,62.06984126984127,15.614955168330232,20.5968253968254/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn2007060551:00514157467:1880060901:0020/pct:81.4106901217862,62.06196038598273,15.616542625169147,20.597384459116302/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2858,7 +2858,7 @@ with few; and let those few be well
 tried before you give them your confi  
 dence. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_maple_ver01:data:sn92051487:00271763190:1880111001:0362/pct:80.97294185377086,111.33418933115443,14.349453080023029,2.836465507178709/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_maple_ver01:data:sn92051487:00271763190:1880111001:0362/pct:60.76313894888409,83.50647834714603,10.770338372930166,2.12443095599393/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2877,7 +2877,7 @@ with few: and let those few he well
 tried before you give them your con­  
 fidence
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_katherine_ver01:data:sn86086852:00271769623:1880111901:0692/pct:102.27812995245642,28.273114438796537,18.225039619651348,3.558181068828136/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_katherine_ver01:data:sn86086852:00271769623:1880111901:0692/pct:79.27434624635382,21.91503708698584,14.124149224707025,2.7646662171274445/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2896,7 +2896,7 @@ with few and let those few be well
 tried before you give them your con­  
 fidence
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_volvo_ver01:data:sn83025440:00295876487:1880112501:0125/pct:47.68822461237603,73.80851514509638,10.951250174605391,1.8004660029654733/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_volvo_ver01:data:sn83025440:00295876487:1880112501:0125/pct:47.68822461237603,73.8155757960884,10.969874749732272,1.8075266539574948/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2915,7 +2915,7 @@ Be courteous with all, but intimate
 with few; and let those few be well  
 tried before you give them your confi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_beetlebailey_ver01:data:sn89066350:0028077974A:1881010601:0684/pct:331.1241610738255,216.65910808767953,43.03691275167785,9.795918367346939/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_beetlebailey_ver01:data:sn89066350:0028077974A:1881010601:0684/pct:82.81577843054973,54.16477702191988,10.763743180864456,2.4489795918367347/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2933,7 +2933,7 @@ with few ; and let those few be well
 tried before you give them your confi­  
 dence
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762325:1881011101:0248/pct:50.13502779984115,89.12779397473275,10.67513899920572,1.5427599611273082/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762325:1881011101:0248/pct:50.13502779984115,89.12779397473275,10.67513899920572,1.5488338192419826/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2952,7 +2952,7 @@ He courteous with all, hut intimate
 with few; and let those few be well tried  
 before yon give tbem your confidence
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn84009409:00296028757:1881011301:0840/pct:49.941451990632316,69.31990619395779,14.285714285714286,3.15905642157539/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn84009409:00296028757:1881011301:0840/pct:49.941451990632316,69.32450452936037,14.292219620088472,3.1682530923805583/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2971,7 +2971,7 @@ mate with few ; and let those few be
 well tiied before you give them your  
 confidence
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn82006687:00415623628:1881012001:0121/pct:6.633733239237826,13.860426474660759,15.790402258292167,3.1570202160066465/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn82006687:00415623628:1881012001:0121/pct:5.145617793172599,10.749034196594648,12.251036871610227,2.450279009872657/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2993,7 +2993,7 @@ spirit and virtue.. It is bard for an
 empty bag to stand upright. . ; &#x27;;  
 It is to be doubted whether he wil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn84022871:00202194400:1881012401:0014/pct:112.83039647577093,110.33498890415302,14.57874449339207,8.126386980872873/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn84022871:00202194400:1881012401:0014/pct:84.63444857496903,82.75388354644404,10.945890128046262,6.097432103983937/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3030,7 +3030,7 @@ ate with few, and let those few be well |
 tried before you give them your confi­  
 dence
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_easton_ver01:data:sn85025407:00279522230:1881012801:0098/pct:37.09381769705049,16.060606060606062,14.230961506415598,2.938076416337286/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_easton_ver01:data:sn85025407:00279522230:1881012801:0098/pct:28.755919070167888,12.446819373064224,11.020232458028412,2.283788843129914/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3067,7 +3067,7 @@ Be courteous with all but intimate
 with few; and let those few be well  
 tried before you give them your cont
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00280779180:1881022301:0245/pct:233.89830508474577,82.58173618940248,52.28813559322034,8.511837655016912/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00280779180:1881022301:0245/pct:58.47457627118644,20.64543404735062,13.072033898305085,2.127959413754228/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3136,7 +3136,7 @@ mate with few; and let those few be
 well tried before you give them  
 your confidence
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_chert_ver01:data:sn86053968:00383343781:1881033101:0460/pct:86.26609442060087,90.58051739076619,9.755694948827996,1.9680653546230968/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_chert_ver01:data:sn86053968:00383343781:1881033101:0460/pct:86.25185674203664,90.56930693069307,9.758210925895362,1.9709158415841583/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3172,7 +3172,7 @@ with few ; and let those few be well
 trigd before you give them your con­  
 fidence
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drteeth_ver01:data:sn85034082:00517177283:1881042101:0245/pct:101.06613661004698,73.94059405940594,14.835561980484279,3.735973597359736/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drteeth_ver01:data:sn85034082:00517177283:1881042101:0245/pct:78.33535617589393,57.30996146369744,11.492857809728317,2.898748422739829/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3190,7 +3190,7 @@ with few; and let those few be
 well tried before you give them your  
 confidence
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624360:1881102101:0170/pct:83.02481831893597,70.41387638599187,10.626628273687098,1.8992205511033045/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624360:1881102101:0170/pct:83.02481831893597,70.41753577048341,10.626628273687098,1.902879935594833/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3209,7 +3209,7 @@ mate with few; and let those few be
 well tried before you give them your  
 confidence
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn84026106:00280776579:1881111001:0361/pct:212.43072050673,148.7067075843928,48.69358669833729,12.509133421014175/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn84026106:00280776579:1881111001:0361/pct:53.12871287128713,37.1766768960982,12.178217821782178,3.1272833552535437/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3245,7 +3245,7 @@ with few; and let those few b* well
 tri«l before you give them your confi­  
 dence
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762325:1881112901:0427/pct:28.697183098591548,91.00973236009732,10.659411011523687,1.532846715328467/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762325:1881112901:0427/pct:28.697183098591548,91.00973236009732,10.679417413572343,1.551094890510949/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3267,7 +3267,7 @@ with few; and let those few be well
 tried before you give them ycur eonfi­  
 dence
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_fleshgolem_ver02:data:sn92063989:00514153553:1882021101:0497/pct:80.45602605863192,30.96727121117365,13.577139472904944,4.450698353137377/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_fleshgolem_ver02:data:sn92063989:00514153553:1882021101:0497/pct:80.46589675254171,30.97421999861024,13.567268778995164,4.447223959419081/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3285,7 +3285,7 @@ with few ; and let those few be well
 tried before you give them your con­  
 fidence
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_floydcouncil_ver01:data:sn84026909:00237287083:1882072001:0411/pct:73.62976894142933,90.19380966155626,11.633530360021494,2.61305563590782/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_floydcouncil_ver01:data:sn84026909:00237287083:1882072001:0411/pct:73.62976894142933,90.19702375212934,11.633530360021494,2.61305563590782/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3303,7 +3303,7 @@ with few; and let those few be well
 tried before you give them your confi­  
 dence
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024653:00393349554:1882081101:0339/pct:51.59496155733682,93.56118791602663,11.09111729101914,1.9329237071172556/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024653:00393349554:1882081101:0339/pct:51.58652273470723,93.54921285037757,11.093392214589468,1.9358761039293486/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3320,7 +3320,7 @@ Be courteous with all, but intimate with
 few; and let those few be well tried before  
 you give them your confidence
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024653:00393349554:1882082501:0347/pct:64.0528203456146,90.8058882235529,11.03684382132377,1.4221556886227544/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024653:00393349554:1882082501:0347/pct:64.04237978810106,90.79456155669203,11.039119804400977,1.4250966695771485/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3337,7 +3337,7 @@ you give them your confidence
 ‘ prove most will be least expeusive to  
 | you
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_abby_ver02:data:sn89053287:00517177155:1883052401:0081/pct:70.286629873598,108.59435671757701,15.59551361936977,2.3039088791095006/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_abby_ver02:data:sn89053287:00517177155:1883052401:0081/pct:54.472703858713146,84.16758618383656,12.105045301936256,1.7855351589928778/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3355,7 +3355,7 @@ Washington: The company in which
 you will improve most will be least expen­  
 sive to you
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_anoka_ver02:data:sn83025287:0017503545A:1883061701:0440/pct:1.3383131030189854,17.36842105263158,13.305322128851541,2.127659574468085/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_anoka_ver02:data:sn83025287:0017503545A:1883061701:0440/pct:1.3486876231974272,17.372153788727136,13.305322128851541,2.131392310563643/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3394,7 +3394,7 @@ him.
 Too great refinement, is false delica­  
 t. cy, and true delicacy is solid refine
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn87068192:00279529625:1884031301:0085/pct:0.8558262014483212,52.97528227036924,16.787360105332457,17.39395788831248/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn87068192:00279529625:1884031301:0085/pct:0.8556384379113646,52.967200610221205,16.789161913119788,17.395118230358506/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3437,7 +3437,7 @@ that of the mind is innate and un­
 changeable.  
 There is a key that will open ever
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_lucretia_ver01:data:sn86086852:00271768916:1884091201:0432/pct:25.389513616041185,48.29144620811287,9.741227475951767,13.668430335097002/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_lucretia_ver01:data:sn86086852:00271768916:1884091201:0432/pct:25.389513616041185,48.29144620811287,9.750259675744028,13.679453262786597/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3485,7 +3485,7 @@ the mere epidermis, but that of the mind is
 innate and unchangeable.—Molicre.  
 There is a key that will open every lock
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_nova_ver02:data:sn86092523:00383341711:1884091401:0070/pct:50.50157638291774,7.361423404047317,11.636572083691602,11.829113305308438/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_nova_ver02:data:sn86092523:00383341711:1884091401:0070/pct:50.49434016334718,7.360703812316715,11.639680947604718,11.831215379602476/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3512,7 +3512,7 @@ that of the mind is innate and un­
 changeable.  
 There is a key that will open ever
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271769489:1884091801:0064/pct:22.788422339991847,30.105784808920234,14.28183177062101,7.2143333651005435/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271769489:1884091801:0064/pct:22.788422339991847,30.105784808920234,14.29542057344748,7.220686807077734/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3552,7 +3552,7 @@ of the mind is innate and unchange­
 able.  
 There is a key that will open ever
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn87068192:00279529625:1884100901:0321/pct:33.51016799292661,35.5074672355989,14.610963748894783,17.63181956720512/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn87068192:00279529625:1884100901:0321/pct:33.50276243093923,35.50205698613439,14.613259668508288,17.632942252018893/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3592,7 +3592,7 @@ True wealth consists in heaith. vigor
 and courage, domestic quiet, concord, pub­  
 lic liberty, plenty of all that is, necessary
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_galloway_ver01:data:sn91064052:00513685579:1884101701:0192/pct:16.56502065709227,51.15933412604043,12.650009836710604,15.63614744351962/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_galloway_ver01:data:sn91064052:00513685579:1884101701:0192/pct:16.561762391817467,51.151731312230645,12.652439024390244,15.637539010254123/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3804,7 +3804,7 @@ The knowledge which we have acquired
 ought not to resemble a great  
 shop without order, and without an inventory
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00202194059:1884112601:0056/pct:66.55021834061135,1.0377358490566038,22.93200249532127,98.82504288164665/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00202194059:1884112601:0056/pct:66.55021834061135,1.043453401943968,22.940320232896653,98.82790165809034/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3943,7 +3943,7 @@ the world the men who look
 for the crooked will see the  
 crooked, and the men wh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn83032231:00237287496:1885013101:0250/pct:18.47328244274809,30.12987012987013,86.79389312977099,354.6320346320346/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn83032231:00237287496:1885013101:0250/pct:4.6200840015273,7.532467532467533,21.70675830469645,88.65800865800865/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4001,7 +4001,7 @@ similar circumstances. I would not grant.
 Let your heart feel for the afflictions and dis­  
 tresses of every one
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210089:1885022101:0448/pct:26.266541906162278,20.688997041702454,18.767544445929687,10.182269300505773/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210089:1885022101:0448/pct:20.359819054525364,16.038852184202742,14.551607445008461,7.896164086382013/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4042,7 +4042,7 @@ An Irishman was once threatened with
 dismissal by his employer on the ground  
 of stupidity and perfect inability to lear
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_capemay_ver01:data:sn85035661:00513685075:1885022801:0558/pct:82.19800181653042,34.23312883435583,12.606721162579474,16.441717791411044/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_capemay_ver01:data:sn85035661:00513685075:1885022801:0558/pct:82.18307301126045,34.22846237731734,12.608972030512168,16.442884405670664/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4096,7 +4096,7 @@ prove most will be least expensive to
 you.  
 A noble part of every true life is t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn87068192:00279529625:1885102201:0753/pct:79.27369353410097,51.26398038915275,14.282550930026572,7.936264746437874/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn87068192:00279529625:1885102201:0753/pct:79.25614345804738,51.256127450980394,14.284923621872924,7.938878676470588/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4157,7 +4157,7 @@ the Lord is thankful for these
 small favors.  
 1 am not over-curious, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_galena_ver02:data:sn88065721:00279521584:1886011301:0432/pct:4.690553745928339,32.66852367688022,15.635179153094462,12.52367688022284/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_galena_ver02:data:sn88065721:00279521584:1886011301:0432/pct:4.695982627578719,32.67223769730734,15.640608034744842,12.527390900649953/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4219,7 +4219,7 @@ you give them your confidence.
 Revengp is a debt, in the paying of \
 which the greatest knave is honest an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287277:1887062901:0452/pct:57.93538219070134,8.438218233555872,15.49251379038613,14.983036007442267/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287277:1887062901:0452/pct:57.94063567113213,8.445514574440917,15.497767270816917,14.983036007442267/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4252,7 +4252,7 @@ Be courteous to all, but intimate with
 few; and let those few be well tried, before  
 you give them your conndence
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn83032231:00237287903:1887070201:0123/pct:295.0354609929078,323.1562804963056,43.687943262411345,39.31409452112087/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn83032231:00237287903:1887070201:0123/pct:73.7719453803866,80.7890701240764,10.923922681326477,9.828523630280218/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4311,7 +4311,7 @@ Be courteous to alt, but intimate with
 few; and let those tew be well tried be  
 fore you give them your confidence
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775290:1887092201:0076/pct:20.26453298497714,77.83018867924528,14.581972566949705,1.7593064762876083/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775290:1887092201:0076/pct:15.209933017480804,58.375828658847524,10.945923868648913,1.3258541560428352/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4507,7 +4507,7 @@ desperate, he pushes at everything and
 loses his all. In a word, few gain by thia  
 abominable practice, whilo thousands ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn82015679:00296029865:1893100101:0324/pct:29.734141791044777,35.69026265214606,18.14365671641791,12.251761691223575/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn82015679:00296029865:1893100101:0324/pct:22.31163984138092,26.769698910954517,13.610916724982506,9.192825112107624/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4535,7 +4535,7 @@ and must undergo and withstand the
 shocks of adversity before It la entitled  
 to the appellation.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_gary_ver01:data:sn87056600:00202191563:1893102501:0218/pct:23.131094257854823,114.76288659793815,16.26489707475623,2.216494845360825/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_gary_ver01:data:sn87056600:00202191563:1893102501:0218/pct:17.353020861555134,86.0721649484536,12.205364399891629,1.6701030927835052/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4572,7 +4572,7 @@ stand ths shocks of adver-i’y before it
 is entitled to the appellation.  
 Not one minute elapses bitweea th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_jyme_ver01:data:sn85033133:00514159233:1894010401:1284/pct:27.498048399687743,4.580358345682338,70.86260733801717,119.06237370335444/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_jyme_ver01:data:sn85033133:00514159233:1894010401:1284/pct:21.315855810436098,3.549801628732512,54.92815729770607,92.27396116099395/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4606,7 +4606,7 @@ him who did tbe injury. Antoninus.
 The company in which you will improve  
 most will be least expensive to you. Genera
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_earl_ver02:data:sn87062244:211103103:1894041301:0123/pct:92.93388429752066,78.6029411764706,16.59090909090909,12.808823529411764/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_earl_ver02:data:sn87062244:211103103:1894041301:0123/pct:69.73956180239769,58.955882352941174,12.443158329888384,9.602941176470589/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4623,7 +4623,7 @@ De courteous wiih all.but intimate with
 few, and lot those fe v be well tried before  
 you give them your: confidence
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_displacerbeast_ver02:data:sn91070630:00514152858:1894090701:0896/pct:71.20755750273823,84.63169051404346,12.74644030668127,1.5262321144674087/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_displacerbeast_ver02:data:sn91070630:00514152858:1894090701:0896/pct:71.2166849215042,84.63875640346228,12.741876597298283,1.5226991697579932/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4659,7 +4659,7 @@ to all, intimate with few, and let those
 few be well tried before you give them  
 your confidence. ” Aim high. Get int
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_ketchup_ver01:data:sn87068192:00279529674:1895110701:0787/pct:51.23373710183939,76.00498597693986,14.62539255271422,2.29043315674665/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_ketchup_ver01:data:sn87068192:00279529674:1895110701:0787/pct:51.222247140614485,75.99314534974295,14.627719219555955,2.2939710235239135/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4676,7 +4676,7 @@ courteous to ail, intimate with few,
 and let those few be well tried before  
 you give them your confidence.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_duval_ver01:data:sn84038206:00393349268:1896011101:0218/pct:15.371650092701838,56.80812910938434,10.770267992583854,1.6377764494919307/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_duval_ver01:data:sn84038206:00393349268:1896011101:0218/pct:15.369059656218402,56.8013387520918,10.772665992585102,1.640568969639015/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4702,7 +4702,7 @@ one else Is doing so, lie deserves no es­
 pecial reward of merit. The test comes  
 In walking aright when In the midst o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_empire_ver01:data:sn86091319:00332890748:1896072901:0119/pct:20.927495291902073,79.1256830601093,14.66572504708098,7.010148321623731/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_empire_ver01:data:sn86091319:00332890748:1896072901:0119/pct:20.922570016474463,79.1133312519513,14.66815721346199,7.012956603184515/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4721,7 +4721,7 @@ must undergo ana withstand the shocks of
 adversity before it is entitled to the appella­  
 tion.—Washington.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_motocross_ver01:data:sn90059182:0039334104A:1896091601:0478/pct:40.373974432360235,79.18884664131812,15.95115435985499,1.8757921419518377/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_motocross_ver01:data:sn90059182:0039334104A:1896091601:0478/pct:40.386694651148,79.19729615547107,15.95751446924887,1.880016899028306/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4739,7 +4739,7 @@ must, ur.derco soul v.-:th--.:and th&quot; shocks of
 adversity before it is entitled to the appella­  
 tion.. V.ashh&#x27;.gl on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_marmaduke_ver02:data:sn90061371:00294557179:1896091601:0472/pct:110.08953168044077,54.81145163324505,15.702479338842975,2.030520872745617/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_marmaduke_ver02:data:sn90061371:00294557179:1896091601:0472/pct:82.60420254908715,41.1148946903771,11.780916293489494,1.5260436372808677/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4756,7 +4756,7 @@ Friendshir is a plant of slow growth, and
 must undergo and withstand the shocks of  
 adversity before it is entitled to the appella
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn85034374:00295878162:1896091601:1303/pct:27.085285848172447,163.29763825729793,52.85848172446111,5.046208009388294/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn85034374:00295878162:1896091601:1303/pct:6.771321462043112,40.82440956432448,13.214620431115277,1.2615520023470734/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4789,7 +4789,7 @@ must undergo and withstand the shocks of
 fcdversity before it is entitled to the appella­  
 tion. Washington. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_finney_ver02:data:sn83040198:00212473509:1896091701:0352/pct:88.0943931866572,22.10997442455243,24.76933995741661,17.17391304347826/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_finney_ver02:data:sn83040198:00212473509:1896091701:0352/pct:58.75044373446929,14.744245524296675,16.524671636492723,11.445012787723785/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4809,7 +4809,7 @@ adversity before it is entitled to the
 appella­  
 tion.—Washington.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_honda_ver01:data:sn85025620:00212479378:1896091701:1162/pct:73.38680926916221,28.830292426893276,15.650623885918003,1.9995001249687578/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_honda_ver01:data:sn85025620:00212479378:1896091701:1162/pct:66.05347593582887,25.95508566715405,14.080213903743315,1.799572601507142/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4826,7 +4826,7 @@ FRIENDSHIP is a slant of slow growth, and
 must undergo and withstand the shocks of  
 adversity before it is entitled to the appella
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_orr_ver01:data:sn90059228:00280766434:1896091701:0307/pct:40.733911119306654,81.07974855170714,16.15342061589526,1.4544558116602984/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_orr_ver01:data:sn90059228:00280766434:1896091701:0307/pct:40.733911119306654,81.08796581617979,16.165713934476614,1.4626730761329554/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4844,7 +4844,7 @@ must undergo and withstand the shocks of
 adversity before it is entitled to the appella­  
 tion. Washington. j
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_hobbs_ver01:data:sn84024283:00294556886:1896091701:0092/pct:109.53389830508475,51.2045347189419,16.298426150121067,2.2201228153046766/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_hobbs_ver01:data:sn84024283:00294556886:1896091701:0092/pct:82.17042530649312,38.40340103920642,12.229453609807779,1.6650921114785073/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4863,7 +4863,7 @@ must undergo and withstand tlie shocks of
 adversity before it is entitled to the appella­  
 tion.—Washington.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_argon_ver01:data:sn87096037:00271740852:1896091701:0490/pct:68.83237423426768,32.97066519763118,11.806200111379246,1.5838038837625672/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_argon_ver01:data:sn87096037:00271740852:1896091701:0490/pct:68.83237423426768,32.9741082495524,11.81084091330982,1.597576091447459/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4881,7 +4881,7 @@ must undergo nnd withstand the shocks ot
 adrorslt? before It is entitled to the appella­  
 tion. Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:okhi:batch_okhi_comanche_ver01:data:sn83025010:00237284732:1896091701:0266/pct:9.417685118619698,80.45345725954091,14.378145219266715,1.9997183495282354/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:okhi:batch_okhi_comanche_ver01:data:sn83025010:00237284732:1896091701:0266/pct:7.065803667745415,60.34361357555274,10.787486515641856,1.50683002394029/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4900,7 +4900,7 @@ adversity before it is entitled to the appella­
 tion.—Washington.   
 “That child cried for an hour this after
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033255:00514152536:1896091701:0567/pct:76.49613244673633,34.88243123336291,9.499253630071923,2.051907719609583/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033255:00514152536:1896091701:0567/pct:76.50517935495544,34.88243123336291,9.490206721852807,2.0629991126885536/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4918,7 +4918,7 @@ must undergo and withstand tho shocks of
 adversity before it is entitled to the appella­  
 tion. Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_douglas_ver01:data:sn84029671:00212473297:1896091801:0085/pct:105.38229376257546,54.3520061530573,18.259557344064387,2.3971285732598386/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_douglas_ver01:data:sn84029671:00212473297:1896091801:0085/pct:70.2666443065571,36.23894372516344,12.175079657890324,1.6023586719651326/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4937,7 +4937,7 @@ must undo gn and withstand Urn shocks of
 adversity before It is entitled to the appella­  
 tion. Washington.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_gibson_ver01:data:2010270508:00237280593:1896091801:0365/pct:78.69458128078817,6.180469715698393,22.00328407224959,2.6370004120313144/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_gibson_ver01:data:2010270508:00237280593:1896091801:0365/pct:59.04331759392322,4.642219475346793,16.50585095462944,1.9777503090234858/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4957,7 +4957,7 @@ adversity before it is entitled to the
 appella­  
 tion.—Washington.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_dysprosium_ver01:data:sn88076998:00199918163:1896091801:0317/pct:80.92960979342004,31.966538672517828,16.947207345065035,2.276467361492046/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_dysprosium_ver01:data:sn88076998:00199918163:1896091801:0317/pct:64.75388931395052,25.580544889376487,13.552665136444784,1.817516913512525/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4997,7 +4997,7 @@ adversity before it is entitled to theappella*
 tion.—Washington.  
 V bry low rates will be made by the Mis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_evans_ver01:data:sn83035387:00211664526:1896091901:0188/pct:7.7682783018867925,38.640256959314776,11.984080188679245,2.1306209850107067/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_evans_ver01:data:sn83035387:00211664526:1896091901:0188/pct:7.77810534591195,38.64382583868665,11.979166666666666,2.1270521056388296/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5015,7 +5015,7 @@ must undergo and withstand the shecks of
 adversity be fore it is entitled to the appella­  
 tion. Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_gordon_ver01:data:sn87052181:0020029256A:1896091901:0205/pct:33.7173579109063,162.72222222222223,47.004608294930875,6.111111111111111/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_gordon_ver01:data:sn87052181:0020029256A:1896091901:0205/pct:8.432577794852094,40.68055555555556,11.755666538609297,1.5277777777777777/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5054,7 +5054,7 @@ must undergo ana withstand the shocks of
 adversity before it is entitled to the appella­  
 tion.—Washington.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_gardevoir_ver02:data:sn87057928:00340584405:1896092401:0768/pct:91.5102316928801,32.21895664952241,15.339083375613056,1.947097722263042/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_gardevoir_ver02:data:sn87057928:00340584405:1896092401:0768/pct:80.07201696838159,28.19487106221873,13.421792531939031,1.707264804628902/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5088,7 +5088,7 @@ adversity before it is entitled to the appella­
 tion.—Washington.  
 Very iow rates will be made by the Mis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588484:1896092401:0715/pct:82.701062215478,24.08021712907117,17.472360719705183,13.841978287092884/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588484:1896092401:0715/pct:64.10371282970264,18.662355874104083,13.546508372066976,10.72764100966033/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5106,7 +5106,7 @@ j PitiEXDsnrp I3 a plant of slow growth, and
 adversity before it is entitled to the appeila­  
 - tion. Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_calvin_ver03:data:sn89067390:0029455595A:1896092401:0179/pct:7.752179327521794,54.52588783929212,17.185554171855543,2.0686356570608635/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_calvin_ver03:data:sn89067390:0029455595A:1896092401:0179/pct:5.824637906868089,40.89441587946909,12.895187665472667,1.5544661006815736/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5125,7 +5125,7 @@ must undergo and withstand the shocks of
 adversity before it is entitled to the appella­  
 tion.—Washington.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_argon_ver01:data:sn87096037:00271740852:1896092401:0496/pct:68.25070159027128,32.20456116102281,11.76800748362956,1.603317208016586/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_argon_ver01:data:sn87096037:00271740852:1896092401:0496/pct:68.26473339569691,32.21492743607464,11.76333021515435,1.5964063579820318/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5160,7 +5160,7 @@ must undergo and withstand the shocks of
 adversity before it is entitled to the appella  
 tion.-Washington.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bird_ver02:data:sn84023963:00212470715:1896092501:0111/pct:206.79970436067998,53.44995140913508,116.4079822616408,135.03401360544217/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bird_ver02:data:sn84023963:00212470715:1896092501:0111/pct:51.70948068748845,13.36248785228377,29.107373868046572,33.75850340136054/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5179,7 +5179,7 @@ growth, and must undergo and with­
 stand the shocks of adversity before it  
 is entitled to the appellation.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn85034374:00295878162:1896100301:1334/pct:210.68773234200742,118.04621234279028,52.78810408921933,8.131032465633226/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn85034374:00295878162:1896100301:1334/pct:52.684173832210085,29.51155308569757,13.200092958401115,2.0327581164083064/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5216,7 +5216,7 @@ must undergo anu withstand the shocks of
 adversity before it is entitled to the appella­  
 tion.—Washington.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_krypton_ver01:data:sn88076086:00199918382:1896101001:0621/pct:64.578111946533,25.46977586597238,14.335839598997493,1.7998641611953814/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_krypton_ver01:data:sn88076086:00199918382:1896101001:0621/pct:64.58925090504037,25.477322466228962,14.330270119743805,1.8036374613236736/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5309,7 +5309,7 @@ Be courteous to all, but intimate with few
 and let those few be well-tried, before you give  
 them your confidence
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_daisy_ver01:data:sn87065532:00295878848:1898031101:0084/pct:116.41914191419141,218.25352112676057,50.0,40.50704225352113/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_daisy_ver01:data:sn87065532:00295878848:1898031101:0084/pct:29.104785478547853,54.563380281690144,12.5,10.126760563380282/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5397,7 +5397,7 @@ growth, and must undergo and with­
 stand the shocks of adversity before it is  
 entitled to the appellation— Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_furio_ver01:data:sn85035816:00332896593:1899021701:0055/pct:17.804268409921168,34.46715556249025,12.459142472601423,15.08815727882665/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_furio_ver01:data:sn85035816:00332896593:1899021701:0055/pct:17.80084582852749,34.46177847113884,12.46155324875048,15.089703588143525/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5418,7 +5418,7 @@ before it is entitled to the appellation.
   
 Tiiic fourth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_cayman_ver01:data:sn00065154:00279523404:1899070701:0363/pct:63.64278150370632,28.405122235157158,14.63113307447935,9.755529685681024/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_cayman_ver01:data:sn00065154:00279523404:1899070701:0363/pct:63.64278150370632,28.405122235157158,14.6428991646076,9.759410166860691/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

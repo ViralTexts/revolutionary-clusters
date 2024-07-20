@@ -77,7 +77,7 @@ obsequies.
 Bv His Excellency&#x27;s Command.  
 &#x27; WM. H. SUMNER, J)dj. Gtntrd
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826071001:0551/pct:78.98024649670775,74.1467767120232,17.896336316056054,12.313183136292661/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826071001:0551/pct:78.96691424713032,74.13850786216126,17.898942156200764,12.315527303817701/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -102,7 +102,7 @@ of Independence, who departed this life tester­
 day afternoon, at 5 o’clock, at his residence in  
 Quincy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826071001:0551/pct:79.35167989194665,87.0733883560116,17.744386290731047,6.814633058219942/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826071001:0551/pct:79.33828494260635,87.06367793018848,17.74701778077875,6.817590424147801/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -123,7 +123,7 @@ their official capacity attend the funeral obse­
 quies of the late hoti. JOH^J ADAMS, on Fri­  
 day next, at 3 o’clock, P. M.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826071001:0552/pct:3.121835977050287,4.657719634600203,17.752278096523792,5.007330551483027/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826071001:0552/pct:3.1213092626961365,4.657194406856112,17.754906923120185,5.010524733122839/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -420,7 +420,7 @@ Essex Register.
 Great G»D I thy ways are inscrutable—  
 the wonders of thy providence are “ past find
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021206:00517171955:1826071201:0216/pct:63.65287588294652,6.6250531990353245,59.19273461150353,115.32132217335793/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021206:00517171955:1826071201:0216/pct:49.335279703873624,5.141830975591879,45.88394765653511,89.37550392142491/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -639,7 +639,7 @@ those of his whole life, thoughts and words
 which evinced a soul replete with love of coun­  
 try and interest in her welfare
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826071201:0559/pct:23.2416933715635,5.183946488294314,55.11890706695902,89.68784838350055/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826071201:0559/pct:23.23777403035413,5.183368632259503,55.11523327712198,89.68156652918664/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -730,7 +730,7 @@ those of his whole life, thoughts and words
 which evinced a soul replete with luve of coun­  
 try and interest in her welfare.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826071301:0564/pct:3.783420211871532,21.355742296918766,17.84092819909198,7.3165266106442575/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826071301:0564/pct:3.7827841291190314,21.353349764732243,17.843532840170365,7.3194413324370755/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -825,7 +825,7 @@ Christian virtues of his venerated parishioner.
 The body was then borne to the burial ground  
 ar.J deposited in the family tomb
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826071301:0564/pct:22.095174037329745,17.680672268907564,18.093156213216748,47.19327731092437/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826071301:0564/pct:22.091459314055143,17.678691463141384,18.0957184487783,47.191724550003734/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -889,7 +889,7 @@ a soul replete with love of country aud
 interest in her welfare.’’  
 In this town on the 4tn inst. SA MEE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1826071301:0121/pct:3.755364806866953,59.541232761047006,18.369098712446352,32.423304249929636/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1826071301:0121/pct:3.7545591074876636,59.53285493175742,18.370521347350355,32.42225974391445/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1044,7 +1044,7 @@ And though no Delphian oracle foretold
 His plans more perfect than all codes of old,  
 The wisdom of our Father’s early sa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826071401:0567/pct:7.238649216351591,28.20710124216775,18.048149943448053,58.1840167088051/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826071401:0567/pct:7.237479806138934,28.204000879314133,18.05061927840603,58.18128526416062/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1122,7 +1122,7 @@ Wish’d not a pilgrimage of pride to go,
 To kneel beside the bed of Quincy’s sage,  
 To hail him Father of this happy age. OROLIO.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826071401:0567/pct:7.949587978671837,6.991315818401671,35.28841492971401,88.52368912828405/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826071401:0567/pct:7.948303715670436,6.990547373049022,35.28809908454497,88.51762292078845/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1157,7 +1157,7 @@ of this order.
 By His KxcellfcncCs Command.  
 WM. II. SUMNKK, Adj. General
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826071401:0172/pct:22.9127432517263,3.7979134919704607,35.7187696170747,88.5593717032001/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826071401:0172/pct:22.90914796798996,3.7974683544303796,35.718395313562425,88.55289889045163/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1194,7 +1194,7 @@ j ed, minute gnus tired, and all the shipping iri the har­
 I bor bon: their ll .gs at half-mast in respect to the memo­  
 I ry of the deceased
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826071401:0172/pct:40.78782172002511,10.854530535693353,17.843691148775896,12.4956042667917/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826071401:0172/pct:40.78142162246979,10.853258321612753,17.846121659082588,12.498046569776527/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1219,7 +1219,7 @@ for some days failing,—** On the Jubilee of Indepen­
 “ evinced a soul replete with love of country and  
 “ interest in her welfare.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826071401:0080/pct:67.39511883873026,14.131348301116581,14.739192853724678,5.510865650138072/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826071401:0080/pct:67.38437001594896,14.129651860744298,14.742158426368952,5.514205682272909/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1277,7 +1277,7 @@ Vr M. II. SUMNER, General.
 HARVARD UNIVERSITY.  
 At a meeting of the Corporation of Harvar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826071401:0080/pct:67.29940979422555,43.210469444110934,15.010368479821343,22.82386841157402/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826071401:0080/pct:67.28867623604465,43.20528211284514,15.013290802764487,22.825130052020807/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1886,7 +1886,7 @@ II spoke more. -Thus Ins last thoughts
 “ evinced a soul replete with love nt couu­  
 “ try ai d interest u her welfare.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:0039334880A:1826071701:0780/pct:33.73240915773997,60.102264426588754,15.038857382902751,6.837107377647918/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:0039334880A:1826071701:0780/pct:33.72532549349013,60.09348524685948,15.04094918101638,6.839760444054923/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2146,7 +2146,7 @@ whole life, thoughts anIFwords which evin­
 ced a soul replete with love of country and  
 interest in her welfare.—Essex Register
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn82014309:00414182926:1826071801:0016/pct:58.26911677534084,4.61392319174922,36.75163011262596,89.52368028226354/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn82014309:00414182926:1826071801:0016/pct:58.25760568945081,4.613297150610584,36.74930857368629,89.51492537313433/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2521,7 +2521,7 @@ against foreign^; ii •&#x27;M--i.ir.it, i- mo; of the v.Biv-1 am!
 most irr* i-lible a gnmeijs in thci’ngli-hlari&quot;;i„ge.—  
 So satisfiod were those ivl.oi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826071801:0176/pct:3.4736673603329598,18.47111319868483,18.344805506643187,60.41568811648661/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826071801:0176/pct:3.473111395646607,18.468944464013152,18.347204438753735,60.412508316699935/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2568,7 +2568,7 @@ were like those of Ins whole life, thoughts and words
 which evinced a soul replete with love ofcountrx and  
 interest m her welfare
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826071801:0176/pct:3.281575156074916,3.0413339596054487,36.80166479910357,88.48050728041333/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826071801:0176/pct:3.2810499359795133,3.0409768697898323,36.801109688433634,88.47403232750186/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2594,7 +2594,7 @@ himself to the gratitude of his fellow citizens, and ac­
 quired an imperishable fame, which will be dear to the  
 hearts and cherished in the remembrance of generation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826071801:0177/pct:58.67755363432597,38.85888706269077,18.123599103426194,6.292556938248415/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826071801:0177/pct:58.66816071714423,38.854325625073365,18.12603382957153,6.295731110850256/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2680,7 +2680,7 @@ of hi* venerable parishioner.
 The body was then borne to the burial ground  
 and deposited in the faintly tomb. [Centinel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826071801:0084/pct:20.67021105203802,30.798845043310877,15.337522152408571,38.053416746871996/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826071801:0084/pct:20.66688144329897,30.795140141946348,15.340420962199312,38.05284895144152/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2788,7 +2788,7 @@ cers, Military Officers, United States’
 Civil Officers, and Mourning Relatives.  
 During the exercises, minute guns wer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021206:00517171955:1826071901:0220/pct:46.194225721784775,77.38628158844766,19.079345850999395,13.169675090252708/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021206:00517171955:1826071901:0220/pct:35.80555990194544,59.97537864657166,14.781202733009962,10.206670148474222/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2890,7 +2890,7 @@ The body was then born* to the buri­
 al ground, and deposited in the family  
 tomb
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1826072001:0123/pct:40.935297885970535,28.659997181907848,17.189835575485798,57.954065097928705/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1826072001:0123/pct:40.9265584970111,28.655959425190193,17.191502988898378,57.94942237249929/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3144,7 +3144,7 @@ words which evinced a soul replete with
 love of country and interest in her wel­  
 fare
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1826072001:0125/pct:21.981292517006803,4.506286198615624,51.48809523809524,91.19932193812686/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1826072001:0125/pct:21.97662061636557,4.505649717514125,51.48246546227418,91.18997175141243/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3655,7 +3655,7 @@ head of the Committee, was to engage the hearty
 I co-operation 01 that great Slate in the work of inde­  
 pendence.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826072501:0093/pct:33.6466464871754,79.46245630950946,15.23020551218735,14.053272267084488/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826072501:0093/pct:33.64128703408729,79.4528802120993,15.233089094191357,14.05559572587772/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4605,7 +4605,7 @@ sequies.
 .Major General Crane is charged with  
 the execution of ihis order
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898036:1826080401:0257/pct:6.353809649354074,2.9632095888130516,35.43369364619035,91.77626102879974/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898036:1826080401:0257/pct:6.352134949920928,2.96271637816245,35.43094359515024,91.76514647137151/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5574,7 +5574,7 @@ tion of the people&#x27;s will,- and the independence
   
 ana nappmess ol the governed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn86053954:00237281846:1841042101:0219/pct:27.953655352480418,104.08990846947052,23.56396866840731,7.878577221642915/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn86053954:00237281846:1841042101:0219/pct:20.97616715638263,78.06743135210289,17.678746327130263,5.908932916232186/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

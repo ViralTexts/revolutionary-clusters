@@ -33,7 +33,7 @@ less than thirteen, where that hum c.
 can be convened, without manifest in­  
 jury to the service
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806042101:0001/pct:40.868813486060084,78.83788656219664,18.003025718608168,4.57634170018028/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806042101:0001/pct:40.87601757798429,78.83788656219664,18.003025718608168,4.5902094023020386/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -103,7 +103,7 @@ neral court martial,nor by officers of ait inferior rank,
 if it can he avoided. Nor (hall any proceedings or  
 trials he carried on excepting between the hours of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1806102401:0196/pct:41.192711209276645,37.297097884899166,17.81704399042886,2.1396950319724546/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1806102401:0196/pct:41.18513065881487,37.29251198819624,17.81989939884677,2.143530472560351/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -128,7 +128,7 @@ but they shall not consist of less than 13.
 wherethat number can be convened wjui­  
 ou&#x27; manifest injury to ibr service.”-No
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811062501:0061/pct:59.86271676300578,72.07514944491888,17.61199421965318,6.160790533121874/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811062501:0061/pct:59.85190536391548,72.06635764820687,17.614833544037083,6.164105066276328/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -269,7 +269,7 @@ m knowIrdged tiimselfio have with tin* ciid/.when
 he resigned the office of fudge —In diiect vinla ‘  
 lion of this section, the co irt whs ordered t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348811:1827082701:0442/pct:18.479604449938197,3.903211868068558,30.016481252575197,90.96932161889673/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348811:1827082701:0442/pct:18.47579814624099,3.9026497695852536,30.01544799176107,90.95982142857143/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -329,7 +329,7 @@ ter of fact, that ench was the pressure of the
 moment, and the scarcity of officers, that, even  
 orgamized as the court was of seven, that num
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1827112001:0394/pct:38.99256561978456,32.19233903830481,16.310119860415718,7.070089649551752/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1827112001:0394/pct:38.99256561978456,32.199130671013314,16.32023466342993,7.073485465906004/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -356,7 +356,7 @@ orgamized as the court was of seven, that num
 fio-r*. I ..in live to thirteen in&lt; luttvely ; but they shall not consist of ir»t than thir­  
 teen, when thrt number can be convened without manifest injury to the service
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186944:1840072301:0538/pct:30.43803259082075,9.688260516861746,25.28031095828973,1.8078572256344883/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186944:1840072301:0538/pct:30.433482810164424,9.687137891077636,25.281514698555057,1.8115102356122055/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -397,7 +397,7 @@ Court thus violated the 75th Article of War, which
 provides that no officer shall be tried, but by a  
 General Court Martial
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn86071753:00414184388:1846081301:0184/pct:52.68372024249594,19.50821455771951,14.875055448765341,4.417364813404418/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn86071753:00414184388:1846081301:0184/pct:52.675931401537554,19.50609225413403,14.877784348511728,4.4205105889178995/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -415,7 +415,7 @@ court martial, nor by officers of an inferior rank, if it can
 be avoided; nor shall any proceedings be carried on ex.  
 cepting between the hours of eight in the morning an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743245:1856071601:0137/pct:153.33667000333668,132.9755987347492,46.32966299632966,5.106190691369182/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743245:1856071601:0137/pct:51.11222333444556,44.32519957824974,15.443220998776555,1.7020635637897275/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -434,7 +434,7 @@ inrationed officers, from five to thir.ee melnA-aly; but they shall not
 &quot;asiat of less than thirteen, wh re that number can ba convened with­  
 out manifest injury to the service
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn82014282:0041421244A:1861062701:0244/pct:4.859297940237888,93.0745241423809,18.639396576733393,2.3981073233681043/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn82014282:0041421244A:1861062701:0244/pct:4.85859318346628,93.06451612903226,18.640319071791154,2.400537634408602/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -451,7 +451,7 @@ are duly notified thereof.
 Art. 7o. No officer shall be tried but by a general cotirt-mariial, nor  
 by officers of an inferior rank, if it can be avoided. Nor shall any pro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn82014282:0041421244A:1861062701:0244/pct:24.07890919640267,41.88622432519626,18.827966347548593,1.7851381869018175/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn82014282:0041421244A:1861062701:0244/pct:24.075416968817983,41.88172043010753,18.82886149383611,1.7876344086021505/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

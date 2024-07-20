@@ -61,7 +61,7 @@ perfevereance, integrity and deligence, with
 which he kas ably and faithfully served his  
 country.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1787110901:0086/pct:37.150433944069434,14.4,26.301832208293153,19.68/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1787110901:0086/pct:37.16650594664095,14.410666666666666,26.309868209578912,19.68/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -154,7 +154,7 @@ he presented to him, for the patriotism, perseverance,
 a integrity and diligence, with which he has ably and  
 »d faithfully served his country
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796111201:0003/pct:47.10500490677134,7.155240346729708,20.976447497546616,7.785657998423956/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796111201:0003/pct:47.117271835132485,7.167060677698975,20.982580961727184,7.781717888100867/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -194,7 +194,7 @@ to the United States in the execution of the va.
   
 rions important trusts which they have from
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667693:1840111901:1066/pct:6.109613656783468,80.06006006006007,361.18598382749326,20.6006006006006/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667693:1840111901:1066/pct:1.527403414195867,20.015015015015017,90.29649595687331,5.15015015015015/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -227,7 +227,7 @@ for the patriotism, perseverance, integrity and
 diligence, with which he had ably and faithfully  
 served his country
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530182:1843061301:0364/pct:5.701357466063349,196.72597864768684,49.26093514328809,31.12353838332486/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530182:1843061301:0364/pct:1.9004524886877827,65.57532621589561,16.42031171442936,10.37451279444162/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

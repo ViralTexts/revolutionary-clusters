@@ -46,7 +46,7 @@ sident of the Senate do make out J
 and sign a corliucale in the Words, i  
 following: [Here follows the certi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809021001:0003/pct:25.562700964630224,43.57040696918476,17.463826366559484,9.543622415810688/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809021001:0003/pct:25.569399785637728,43.57474103931001,17.470525187566988,9.539288345685433/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -81,7 +81,7 @@ be made byliw tor pruhilming all mnuneirial in­
 tercourse with those, nations and their dependencies,  
 and the importation of any article into the Unite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809021501:0350/pct:2.4660291897332662,69.10755148741418,20.810266733769502,14.040536122915986/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809021501:0350/pct:2.4654088050314464,69.09625755842458,20.81132075471698,14.042327177643406/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -168,7 +168,7 @@ cause the certificate aforesaid to be laid before
 the President of the United States, with this  
 resolution
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216341:1825021501:0083/pct:19.231392897681207,8.594860579551668,14.48029836225069,16.052487698195737/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216341:1825021501:0083/pct:19.228274967574578,8.59392083971135,14.48335495028102,16.05437714119105/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -252,7 +252,7 @@ I the cci tificate afoiesaid, to belaid before the
 Pie ident of the United States, with this resolu­  
 tion
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184534:1825022201:0056/pct:20.42687747035573,63.631022326674504,15.351778656126482,16.18096357226792/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184534:1825022201:0056/pct:20.423648435030035,63.62354599929503,15.354621140267678,16.18297889006384/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -289,7 +289,7 @@ of our Lord 1869, the under written President of the Senate
 did, in the presence of said Senate and House of Repree  
 sentatives, open all
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_euclid_ver01:data:sn83030214:00206530911:1869021001:0279/pct:52.68148608736204,246.82689112858566,47.784859319135705,3.887473695868867/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_euclid_ver01:data:sn83030214:00206530911:1869021001:0279/pct:17.560495362454013,82.27563037619522,15.928286439711902,1.2958245652896223/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -320,7 +320,7 @@ sentatives, open all tliecertillcateaand count
 ad the votes of the electors for a President  
 and Vice lretdent, by which it appears tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237286868:1869021701:0276/pct:73.48629700446143,26.6050333846944,12.890376035691522,7.627118644067797/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237286868:1869021701:0276/pct:55.14108082257293,19.953775038520803,9.676390881555875,5.726759116589625/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -377,7 +377,7 @@ preseuce of said Senate mid House of Rep
 resentatives, open all-the certificates :and  
 count alt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn85054846:00212477679:1869021801:0550/pct:34.578107183580386,7.61353517364203,37.62827822120867,117.13045414069457/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn85054846:00212477679:1869021801:0550/pct:25.94440484675695,5.7101513802315225,28.225231646471848,87.85618878005343/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -415,7 +415,7 @@ Burr, Esq. of New York, is duly elected, agreeably to the
 constitution, Vice President of the United States of America.  
 In witness whereof I have hereunto set my hand an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:00271743993:1876120601:0835/pct:55.54266777133389,84.87511563367252,46.478873239436616,24.502775208140612/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:00271743993:1876120601:0835/pct:18.51422259044463,28.291705211224176,15.492957746478874,8.16759173604687/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -454,7 +454,7 @@ And that the President of the Senate do cause the
 certificate aforesald to be laid before the Presidont  
 of the United States, with this resorution
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:00271743993:1876120601:0835/pct:55.12841756420878,257.1230342275671,46.42916321458161,25.300647548566143/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:00271743993:1876120601:0835/pct:18.376139188069594,85.70767807585568,15.47638773819387,8.433549182855382/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -500,7 +500,7 @@ day notified to the Senate that Thomas Jefferson
 has by them been duly chosen President; by all of  
 which lUappcara that Aaron Rorr. Esq., of No
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1876121801:0009/pct:71.08208955223881,16.5601278465841,13.192963752665245,8.509788254095087/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1876121801:0009/pct:71.08208955223881,16.56512185377547,13.192963752665245,8.514782261286456/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -592,7 +592,7 @@ States and President of the Senate, did, in
 the presence of the said Senate and House  
 of Representatives, open all the certificate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_odoric_ver01:data:sn85038145:00415665817:1876122801:0147/pct:80.2064631956912,57.21331689272503,14.377618192698982,12.19482120838471/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_odoric_ver01:data:sn85038145:00415665817:1876122801:0147/pct:60.16758940595541,42.909987669543774,10.788568008379471,9.149198520345253/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -670,7 +670,7 @@ the votes, and a debate arose in the
 House as to who should preside there.  
 Mr. Randolph of Virginia, objected t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn85026034:00280774996:1877010501:0236/pct:255.87570621468927,316.9577713906699,37.11864406779661,49.96683617068317/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn85026034:00280774996:1877010501:0236/pct:63.97796298912276,79.23944284766748,9.280971888684842,12.491709042670793/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -713,7 +713,7 @@ have this dav notified to the Restate that Thomas
 -tei r kk-on lias by them been doty chosen Prosi­  
 dent; bv all of which it appears that Aaro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_dyerbrook_ver01:data:sn82014248:0033289593A:1877010901:0393/pct:17.610408649441084,29.226847918436704,12.479384277075317,8.382894364202775/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_dyerbrook_ver01:data:sn82014248:0033289593A:1877010901:0393/pct:17.60718211799194,29.222709896644485,12.481678270428729,8.385247062154892/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -778,7 +778,7 @@ States of America.
 “In witness whereof, I have hereunto  
 set my hand and seal this 18th day o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_baggs_ver01:data:sn84022149:00393349918:1877011801:0053/pct:15.505419155054192,49.208044135967256,12.541473125414731,16.05267841252892/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_baggs_ver01:data:sn84022149:00393349918:1877011801:0053/pct:15.516478655164786,49.208044135967256,12.541473125414731,16.057127602776294/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -812,7 +812,7 @@ tioned and confirmed by the practice of the Ge
 ment during the first forty years after the adoption of  
 the Constitution. From thes poried the formality seems
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:00206531289:1877011901:0147/pct:198.96171317326412,105.13556985294117,47.64763140817651,24.126838235294116/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:00206531289:1877011901:0147/pct:66.3205710577547,35.045189950980394,15.882543802725502,8.042279411764707/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -914,7 +914,7 @@ New York is duly elected agreeably
 to the Constitution. Vice President of  
 the United States of America
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271769453:1877012501:0104/pct:20.35433070866142,22.732197380084703,11.94225721784777,21.441938343346795/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271769453:1877012501:0104/pct:20.35870516185477,22.738763583834007,11.94225721784777,21.448504547096096/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1114,7 +1114,7 @@ I have hereunto set ray hand this day of
 February, 1885, and have sealed with the  
 seal of the Senate, and th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00383342132:1885021201:0473/pct:45.79290176791174,75.04311656690676,9.849793965173468,12.265395150654358/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00383342132:1885021201:0473/pct:45.80176348088085,75.04311656690676,9.84093225220435,12.268776842176457/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1154,7 +1154,7 @@ State or New York, had a majority of the votes of tip?
 electors as President, and Thomas A. Hendricks, of  
 the State of Indiana, had a majoiity of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210089:1885021201:0366/pct:5.564516129032258,94.6236559139785,18.79032258064516,13.239247311827956/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210089:1885021201:0366/pct:4.315972222222222,73.33829365079364,14.5625,10.262896825396826/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1203,7 +1203,7 @@ New York, had a majority of the votes of the
 electors as President, and Thomas A. Hendrics,  
 of the Sate of Indiana, had a majority of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_charlie_ver01:data:sn83045160:00280779982:1885021201:0149/pct:128.4796573875803,209.4454887218045,34.20770877944325,28.571428571428573/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_charlie_ver01:data:sn83045160:00280779982:1885021201:0149/pct:32.11991434689507,52.36137218045113,8.551927194860813,7.142857142857143/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1251,7 +1251,7 @@ appeared that e rover Cleveland, of the
 state of new York, had a majority of  
 the votes I electors as president
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_chevy_ver01:data:sn83025733:00200294774:1885021201:0838/pct:218.39464882943145,316.75182985775444,50.50167224080268,56.12484463471896/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_chevy_ver01:data:sn83025733:00200294774:1885021201:0838/pct:54.59866220735786,79.18795746443861,12.62541806020067,14.03121115867974/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1308,7 +1308,7 @@ upon it appeared that Grover Cleve­
 land of the State of New York had a  
 majority of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_foxtrot_ver01:data:sn86064205:0017503514A:1885021201:1266/pct:174.92537313432837,226.88568555145827,60.09950248756219,73.01374455246396/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_foxtrot_ver01:data:sn86064205:0017503514A:1885021201:1266/pct:43.75311100049776,56.72142138786457,15.032354405176704,18.25343613811599/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1369,7 +1369,7 @@ set my hand this blank day of Febru­
 ary 1885 and have sealed it with the  
 seal of the Senate And that a com
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_eaton_ver01:data:sn85058130:00206535076:1885021201:0314/pct:25.976042590949422,76.01614298068608,22.759538598047914,32.689535889305276/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_eaton_ver01:data:sn85058130:00206535076:1885021201:0314/pct:17.328599955624583,50.67742865379072,15.176392278677612,21.802632843278563/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1439,7 +1439,7 @@ pointed, when notifying the persons
 elected of their election to the office of  
 President and Vice-President of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_tesla_ver01:data:sn85038614:00175030876:1885021201:0159/pct:114.94039324972906,7.410617551462622,69.63926304381484,287.8764897074756/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_tesla_ver01:data:sn85038614:00175030876:1885021201:0159/pct:38.31346441657635,2.470205850487541,23.21308768127161,95.95882990249187/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1500,7 +1500,7 @@ ed when notifying the person fleeted of la1
 their ejection tQ the office qf President W(  
 and Vice President of the United States, h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_denmark_ver01:data:sn84026844:0020219350A:1885021201:0151/pct:36.79980516317584,16.977839818530796,13.638577691183634,22.352120048857092/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_denmark_ver01:data:sn84026844:0020219350A:1885021201:0151/pct:36.811982464685826,16.977839818530796,13.650754992693619,22.36956901064387/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1609,7 +1609,7 @@ tho persons elected of their election to
 tho offico of president and vico president of  
 the United States shall present to each o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brockovich_ver02:data:sn85032575:00237281901:1885021301:0256/pct:91.78885630498533,8.527401228131156,12.052785923753666,16.37122002085506/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brockovich_ver02:data:sn85032575:00237281901:1885021301:0256/pct:68.86183631563509,6.3955509210983665,9.049574655324141,12.281311551384544/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

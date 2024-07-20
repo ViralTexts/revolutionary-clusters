@@ -73,7 +73,7 @@ which you have been pleafed to communi-
 Icate their will.  
 THOMAS JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801022301:0002/pct:27.630285152409048,36.701883325677535,22.22222222222222,33.532384014699126/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801022301:0002/pct:27.638479187151752,36.701883325677535,22.23041625696493,33.542591741948655/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -134,7 +134,7 @@ s which you have been pleased to commu­
 ( nicate their Will. &#x27;  
 THOMAS ]EFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215981:1801022401:0265/pct:47.559695617948044,15.653463249311587,22.067698766727894,46.473204829485276/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215981:1801022401:0265/pct:47.55345664436574,15.651805570263688,22.06917661463116,46.4718133361573/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -252,7 +252,7 @@ i ever oi juftice, or o! a c t&gt;ona t cofcc*. ri: * &gt;&gt;r the It.p
 j tor t\ »t.t h*i j( &lt; oi tli. auric* cor‘idr! o me, and lor  
 . prociiriij. to mv kllow-ri, Yen- a.i the benefi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1801030901:0557/pct:25.451719448222267,28.51775956284153,23.37283854672625,10.780965391621129/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1801030901:0557/pct:25.446775446775447,28.514513375071143,23.373154623154623,10.782583949914628/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -307,7 +307,7 @@ which you have been plealed to commiuni­
 cate their will.  
 THOMAS JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1801031001:0460/pct:42.77089783281734,6.69660288949629,16.57894736842105,23.70167903162827/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1801031001:0460/pct:42.781217750258,6.70311076402447,16.57894736842105,23.70493296889236/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -416,7 +416,7 @@ j 1 already been derived from the fuffrages of my
 &#x27; benefits, which onr conltrrutior. has placed  
 4 under the guardiaimrp of the general govern
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016081:00332895060:1804070201:0143/pct:72.48809253799047,16.087603082330673,23.24790201859832,17.75043936731107/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016081:00332895060:1804070201:0143/pct:72.47165532879819,16.085428494187617,23.24829931972789,17.751419302514194/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -469,7 +469,7 @@ the benefits, which oar constitution has
 placed under the guardianship of the ge­  
 Bend government-*&#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1804071301:0300/pct:9.910414333706607,3.9649122807017543,42.13325867861142,90.70175438596492/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1804071301:0300/pct:9.907640638119227,3.9642168040694616,42.12846347607053,90.69022978424837/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -521,7 +521,7 @@ I am sensible that age has been respected
 rather than m &gt;re active and uslfl&#x27;I. qualifi­  
 cations.” Mask this 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808020801:0340/pct:23.361774744027304,54.660529344073645,17.252559726962456,5.387592844439795/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808020801:0340/pct:23.357788773246885,54.65481171548117,17.253881590172327,5.389644351464435/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -538,7 +538,7 @@ pressed gratitude at receiving such a &quot;testimony
 of confidence from the groat representative  
 council of our nation&quot;; bad spoken of tho &quot;leg
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grand_ver02:data:sn84031492:no_reel:1875090601:0003/pct:1.4485119831445878,70.24909602249899,13.299973663418488,1.2856568903173966/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grand_ver02:data:sn84031492:no_reel:1875090601:0003/pct:1.4616802739004477,70.2541181197268,13.319726099552279,1.305745279228606/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -235,7 +235,7 @@ eftabli‘hing couits, for receiving and determin­
 ing finally appeals, in all cases of capture.”  
 New-Hampshire ratified them, in 1778, befor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795092201:0510/pct:12.895593019816623,62.36688768334338,19.50606329488317,4.048623668876833/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795092201:0510/pct:12.90052252785172,62.36688768334338,19.515922310953368,4.048623668876833/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -411,7 +411,7 @@ ceiving and determining,finally, appeals in
 all cases of capture ; but they had no autho­  
 rity to establish inferior courts, of this cha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1821060801:0041/pct:34.97059291050707,14.174641148325358,14.32204736925767,5.442583732057416/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1821060801:0041/pct:34.96503496503497,14.172945819878006,14.325068870523417,5.445919547103616/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

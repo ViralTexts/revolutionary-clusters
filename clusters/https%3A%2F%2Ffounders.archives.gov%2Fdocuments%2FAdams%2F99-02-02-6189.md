@@ -410,7 +410,7 @@ ordinate branches, and be a prntection to wealth
 against the agrarian and plundering enterprises  
 of a majority of the people. u That&quot; wrote Jef
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022603:1845092401:0369/pct:43.817934782608695,24.481948301644948,20.190217391304348,8.748130741294595/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022603:1845092401:0369/pct:32.88025010194373,18.36146122623371,15.15563408998233,6.5691091647083955/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -550,7 +550,7 @@ certain, number of the most prominent
 subjects, to be completed at a university.  
 If the French had fought the Germansalon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ellis_ver01:data:sn85025007:0041566364A:1871041801:0389/pct:2.8688524590163933,32.59308259308259,15.927077444884116,8.467208467208467/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ellis_ver01:data:sn85025007:0041566364A:1871041801:0389/pct:2.8782739777652155,32.59308259308259,15.931788204258526,8.473508473508474/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -577,7 +577,7 @@ these district schools to select a certain
 number of the most prominent subjects,  
 to bo completed at a university
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_forego_ver01:data:sn84024670:00280762386:1871041901:0392/pct:5.53049617572073,24.408394106265813,12.629927436752304,8.245274594433695/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_forego_ver01:data:sn84024670:00280762386:1871041901:0392/pct:5.535399097862326,24.415835689834797,12.625024514610708,8.245274594433695/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -606,7 +606,7 @@ nent suljects, to be completed at a univer.­
 sity, where all the useful sciences should  
 be taught. Mr. Jefferson regarded thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271742009:1871041901:0379/pct:44.884893066339735,145.1039387308534,42.62362076011443,20.14952589350839/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271742009:1871041901:0379/pct:14.961631022113245,48.36797957695113,14.207873586704808,6.716508631169463/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -624,7 +624,7 @@ the privilege of primogeniture, and di­
 viding the lands of intestates equally among  
 all their children, and the law for religiou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271742009:1871041901:0379/pct:45.143713390546246,165.57257476294674,43.345593243427324,5.935448577680525/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271742009:1871041901:0379/pct:15.047904463515415,55.190858254315586,14.448531081142441,1.9784828592268418/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -658,7 +658,7 @@ the country or State.&quot; He even said such
 a system would be &quot;the keystone of the  
 arch of our Government. The scheme i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271742009:1871041901:0379/pct:45.10284702356627,174.69000729394602,42.528265903827815,26.176148796498907/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271742009:1871041901:0379/pct:15.034282341188757,58.23000243131534,14.176088634609272,8.725382932166301/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -688,7 +688,7 @@ subjects, to be completed at a university,
 where all the useful sciences should be  
 LaughL Mr. Jefferson regarded thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn85033673:00280779398:1871042401:0380/pct:28.183673469387756,115.83749109052032,16.3265306122449,10.064148253741982/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn85033673:00280779398:1871042401:0380/pct:21.15149040424663,86.88524590163935,12.249897917517353,7.540983606557377/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -716,7 +716,7 @@ select a certain number of the most prominent
 subjects, to be completed at a university, where  
 all tne useful sciences should be taught M
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762490:1871042501:0064/pct:81.11506223012447,17.900637927701528,12.204724409448819,6.2342934467427025/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762490:1871042501:0064/pct:81.11929557192448,17.900637927701528,12.200491067648802,6.240737160899543/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -733,7 +733,7 @@ law abolishing the privilege of primogeniture,
 and dividing the lands of intestates   
 among all their children, and the law for reli
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762490:1871042501:0064/pct:81.11506223012447,24.86951478832399,12.052324104648209,1.4401701140537406/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762490:1871042501:0064/pct:81.11929557192448,24.87273664540241,12.060790788248243,1.4466138282105805/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -754,7 +754,7 @@ the larger republics of the county or State.&quot;
 He even said such a system would bo &quot;the key­  
 stone of the arch of our government.&quot; Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762490:1871042501:0064/pct:81.01346202692406,32.437657065532576,12.153924307848616,3.1413106514595013/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762490:1871042501:0064/pct:81.0219287105241,32.437657065532576,12.158157649648633,3.1509762226947613/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -825,7 +825,7 @@ tocracy 1 consider as the most precious j
 gift of nature, for the instruction, the  
 trust and the government of society.” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:00332891960:1895120101:0209/pct:6.899668574871949,17.252467014081383,12.609219644471226,5.144694533762058/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:00332891960:1895120101:0209/pct:6.904690167721201,17.252467014081383,12.61926283016973,5.148390435007577/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -845,7 +845,7 @@ completely prepared by education for
 defeating the competition of wealth and  
 birth for public trusts. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_fairbury_ver01:data:sn96080161:00206539215:1898110301:0252/pct:94.50800915331808,53.413736713000816,32.608695652173914,8.605887162714636/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_fairbury_ver01:data:sn96080161:00206539215:1898110301:0252/pct:70.92157985117343,40.06541291905151,24.499141385231827,6.459525756336877/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -867,7 +867,7 @@ nature for the instruction , the trusts
 and govrumeut ot society&quot;- How  
 docs the idea of virtue and talent
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_gering_ver01:data:sn94055463:0020653851A:1899110201:0270/pct:65.62745098039215,52.54260210981877,14.509803921568627,5.86962401947525/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_gering_ver01:data:sn94055463:0020653851A:1899110201:0270/pct:65.62745098039215,52.55274546929943,14.509803921568627,5.85948065999459/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

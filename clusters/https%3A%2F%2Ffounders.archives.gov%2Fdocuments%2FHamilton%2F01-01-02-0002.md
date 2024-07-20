@@ -126,7 +126,7 @@ for futurity.”
 In 1772. Hamilton came to New York,  
 and at the close of 1773, entered Columbi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82014751:00513688246:1855060601:0069/pct:44.038929440389296,27.138029633480635,13.816475495307612,5.042890564075903/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82014751:00513688246:1855060601:0069/pct:44.038929440389296,27.14236201369032,13.822268566794115,5.055887704704965/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -196,7 +196,7 @@ the way for futurity. I&#x27;m no phitonopher, you see, and may
   
 The sequel will show whether the fruition of the ma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743233:1856050401:1019/pct:241.8218085106383,133.34092980856883,47.12433510638298,12.408842297174111/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743233:1856050401:1019/pct:80.60726950354609,44.446976602856274,15.70811170212766,4.136280765724703/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -221,7 +221,7 @@ conceal it; yet, Neddy, we hear such ashemes successful
 whon the projector is constant. I shall conclude by say-­  
 ing, I wish there was war.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743233:1856051101:1075/pct:242.64343251685023,219.62075621664584,46.60529344073648,16.532303849210855/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743233:1856051101:1075/pct:80.88114417228341,73.20691873888195,15.535097813578826,5.510767949736952/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -274,7 +274,7 @@ ter, to exalt my station. I mean to prepare the way
 of futurity ; we have seen such schemes successful  
 when the projector is constant&#x27; That way he pre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022846:1858042401:0134/pct:71.1038961038961,69.90588235294118,19.886363636363637,4.894117647058824/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022846:1858042401:0134/pct:53.34524196167587,52.43529411764706,14.923676518350113,3.6705882352941175/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -296,7 +296,7 @@ I mean to prepare the way fur futurity; we have
 seen such schemes successful when the projector is  
 constant.&#x27; That way he prepared by integrity o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_danby_ver01:data:sn98060050:00280777353:1858042401:0292/pct:91.33858267716535,71.08874656907594,16.811023622047244,4.772796584324489/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_danby_ver01:data:sn98060050:00280777353:1858042401:0292/pct:68.51742468989958,53.32418420250076,12.620594605237251,3.5834095760902716/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -313,7 +313,7 @@ to exhalt my station. I mean to prepare the
 way for futurity; we have seen such schemes  
 successful when the projector is constant.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775381:1858050601:0308/pct:55.190373563218394,40.32649757150567,15.98419540229885,2.0642201834862384/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775381:1858050601:0308/pct:41.40470630501168,30.248246087425795,11.99928148015089,1.551538046411225/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -336,7 +336,7 @@ prepare the way lor futurity; we have seen
 such schemes successful wbeo tbe projector  
 i: constant.&quot; That way be prepared by intogrit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn85025007:00415663456:1858051901:0476/pct:3.777904979965655,19.948822927328557,15.512306811677162,5.649948822927328/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn85025007:00415663456:1858051901:0476/pct:3.787445144056478,19.955646537018083,15.512306811677162,5.649948822927328/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -387,7 +387,7 @@ demns me, and would willingly risk my life
 though not my character, to exalt my sta­  
 tion. I wish there was a war.” Hamilto
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_fox_ver01:data:sn82016399:00517173435:1884020101:0041/pct:34.08214585079631,32.69751693002257,14.383906119027662,4.401805869074492/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_fox_ver01:data:sn82016399:00517173435:1884020101:0041/pct:34.07643312101911,32.69382688184178,14.387082355570454,4.405070909980062/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -410,7 +410,7 @@ demns me, and would willingly risk my life
 though not ray character, to exalt my sta­  
 tion. I wish there was a war.” Hamilto
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_calpet_ver02:data:sn88067211:00393349980:1884020801:0443/pct:17.104967408406385,47.09447415329768,11.148572712969207,3.7789661319073082/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_calpet_ver02:data:sn88067211:00393349980:1884020801:0443/pct:17.121825129242527,47.098930481283425,11.15419195324792,3.787878787878788/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -433,7 +433,7 @@ demns me, and would willingly risk my life
 though not my character, to exalt my sta­  
 tion. I wish there was a war.&quot; Hamilto
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ibo_ver01:data:sn91059394:00383347725:1884032601:0066/pct:28.773281952472704,73.43565525383707,10.571612074502248,3.689492325855962/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ibo_ver01:data:sn91059394:00383347725:1884032601:0066/pct:28.773281952472704,73.43565525383707,10.584457289659602,3.699330972058245/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

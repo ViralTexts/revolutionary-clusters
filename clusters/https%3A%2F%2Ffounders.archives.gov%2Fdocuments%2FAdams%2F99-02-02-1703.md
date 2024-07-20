@@ -64,7 +64,7 @@ but the nation will meet with ample punifliment,
 in their own misery, and the leaders who delude  
 them, in the detestation of their own posterity
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791062901:0001/pct:62.39545997610514,42.64490095377843,26.73237753882915,6.07116654438738/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791062901:0001/pct:62.402927120669055,42.6540719002201,26.747311827956988,6.066581071166544/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -82,7 +82,7 @@ a more than Herculean talk it is, to unite the opi­
 nions of a free people upon any system of govern­  
 ment whatever
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791062901:0002/pct:11.158021712907116,30.367929708951127,26.35705669481303,2.8372688998718654/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791062901:0002/pct:11.180639324487334,30.377082189273292,26.35705669481303,2.8326926597107818/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

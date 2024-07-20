@@ -128,7 +128,7 @@ Hand, lince the ltth June laft) that tktf
 may have no plea for attempting to en­  
 ter the pelts of thofe iflinds. By you
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803122101:0001/pct:78.56833910034602,27.590902900721776,18.10121107266436,5.7469699033092745/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803122101:0001/pct:78.56833910034602,27.59998184211721,18.11562860438293,5.751509374006991/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -150,7 +150,7 @@ an evident danger is entering. It was al­
 most unnecessary to give t:..s evidence of  
 he admission of these principles on the par
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809040701:0109/pct:24.139207700851536,89.25811437403401,18.419104035542393,5.023183925811438/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809040701:0109/pct:24.13473995928188,89.2466194462331,18.42186439632303,5.026829791800815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -237,7 +237,7 @@ hand, can be 1 .gaily obstructed to any place,
 not :.cm illy block.fed, or that any notification or  
 proclamation can be of force, unless accompani
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810121101:0261/pct:40.77879935100054,72.72945699183084,17.216513430683253,22.501201345506967/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810121101:0261/pct:40.77144917087239,72.72072072072072,17.21941840903629,22.5025025025025/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -330,7 +330,7 @@ oltoe case.
 I have the honor to be, ?&lt;»  
 (sighcj) James Madison
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810121101:0261/pct:58.44600685054985,54.012493993272464,17.486929872002886,41.098029793368575/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810121101:0261/pct:58.43547224224946,54.006006006006004,17.489786109108387,41.0970970970971/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -460,7 +460,7 @@ piert motives with you to employ the inlerpositipiti
 with commodore,Hood, wliicH v/yimnVjudge brci&quot;  
 adapted to the nature of tbs. &#x27;bid/&#x27; I have t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1810121201:0257/pct:74.7092303885177,18.892666342884894,22.642910170749815,74.85834547514975/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1810121201:0257/pct:74.69074715487382,18.889608287471674,22.643493320138546,74.85027516995791/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -476,7 +476,7 @@ adapted to the nature of tbs. &#x27;bid/&#x27; I have t
 tle “ an invariable determination of their  
 principles upon the right? of neutrali’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810121501:0268/pct:23.652205481938648,69.33333333333333,16.917770920312215,1.235474006116208/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810121501:0268/pct:23.647912885662432,69.32485322896282,16.92075015124017,1.2393998695368558/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -501,7 +501,7 @@ attacks it with shifts stationary, or stiff ci.
 entity near, an evident danger in enter  
 ing.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810121501:0268/pct:23.7792702849882,85.60244648318043,17.135596296968597,6.409785932721713/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810121501:0268/pct:23.77495462794918,85.59197651663405,17.138535995160314,6.413078930202218/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -541,7 +541,7 @@ the disposition of the power which attacks it ,
 with ships stat ionary, or sufficxenﬂy near. an ;  
 ctident danger m entering.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216122:1810121701:0552/pct:27.15221924337206,81.97091500316141,23.249925528745905,14.677987535001355/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216122:1810121701:0552/pct:27.148175725986597,81.96351156069365,23.251427153139737,14.679672447013488/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -680,7 +680,7 @@ countries with which she is at war : In
 ■ to the pleasure or the policy of the pnr­  
 r ties at war. But it deserves to be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810121801:0412/pct:56.76027524641994,10.835358833312013,36.637530221313,82.19265702955097/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810121801:0412/pct:56.74972108590554,10.833972883090304,36.636915829924384,82.18640743583184/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -730,7 +730,7 @@ commodore Mood, which yt.u may
 judge best ad«| t&lt; d to the nature of ih«  
 case
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810121801:0413/pct:5.573218627267627,63.74905135340248,17.617355526463438,25.486971920060714/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810121801:0413/pct:5.572176514584892,63.740988997091186,17.620294190974818,25.487964251085536/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1020,7 +1020,7 @@ Hood. which yoa may judge best adapted
 3990 Bad s R R  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1811010101:0001/pct:75.95797280593325,21.22678783089688,16.50185414091471,73.80482022915844/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1811010101:0001/pct:75.96827358879275,21.233372843408404,16.49670374948496,73.8081127354142/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1091,7 +1091,7 @@ ent force so disposed as to amount to an actual
 and particular blockade.” Vattel is precise : In  
 trea mg the subject, he invariably connects th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1811041601:0443/pct:5.095204513399154,51.17697280156116,16.889985895627646,6.8179046225149404/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1811041601:0443/pct:5.0943063634761145,51.170731707317074,16.892884423291616,6.821138211382114/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1111,7 +1111,7 @@ flte disposition of the power which attacks it
 •Wit -dll,Vi stationary o&gt; sufficiently near, an evi­  
 Utit. uaiiijei of enterinrr’*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1811041601:0443/pct:5.112834978843441,62.532016099524334,16.819464033850494,3.0247591169654835/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1811041601:0443/pct:5.111933721135202,62.52439024390244,16.822374992655266,3.0284552845528454/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1156,7 +1156,7 @@ the first as more precise anil determinate ; tc
 ■when it is considered that it was made the  
 crit erion by so form?.l an act between the tw
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1814102201:0196/pct:6.77196804647785,34.04175050301811,17.483660130718953,6.149396378269618/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1814102201:0196/pct:6.770738791069159,34.0374701370552,17.486537181581653,6.152814451569638/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1216,7 +1216,7 @@ lefinitions hint prefers the first, as much
 more precise and determinate ; and when  
 it ig considered that it was made the criter
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1814102701:0582/pct:53.0389363722697,83.6728837876614,21.557454890788225,7.560975609756097/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1814102701:0582/pct:53.02634702112509,83.66088079185195,21.558272015191076,7.563477262946493/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1245,7 +1245,7 @@ of it. Nothing is more natural after the difter­
 ences which have taken place between the two  
 countries, on this smd other subjects, and th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814110101:0178/pct:23.777427219274344,44.447691408533025,16.908073999713178,8.27975842587181/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814110101:0178/pct:23.782207562502986,44.454185336710175,16.917634686170466,8.283005389960387/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1371,7 +1371,7 @@ sitions of the power which attacks it with ships
 stationary or sufficiently near,an evident danger  
 in enieriug it.**
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216365:1826103101:0260/pct:5.846235985050721,91.7724327682613,18.432995194874533,4.313481849649419/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216365:1826103101:0260/pct:5.845455758708128,91.76428824991126,18.434983762622892,4.3160572713288365/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1408,7 +1408,7 @@ il the previous labours of that distinguished patriot,
 had not given immortality to Lis name, his manful resis­  
 t.mce, both as Piimc Minister and Chief .Magistrate, t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826111001:0267/pct:57.74294670846395,13.915318744053282,35.642633228840126,81.27973358705994/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826111001:0267/pct:57.73389750822755,13.913663931501961,35.642271326333386,81.27403179133468/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1482,7 +1482,7 @@ the disposition of the power which attached it,
 with ships stationary or sufficiently near, an  
 evident danger in entering.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200290033:1861101601:0315/pct:33.40987370838117,134.30625603605537,42.13547646383467,16.73999356154094/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200290033:1861101601:0315/pct:8.352468427095292,33.57656400901384,10.533869115958668,4.184998390385235/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1540,7 +1540,7 @@ ol&quot; i: o power which attacks it with ships stn- !
 uon?ry or sufficiently near to create an evi- &lt;  
 dcr.t darjr/r in entering.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664400:1863020301:0011/pct:1.025236593059937,16.439564748554062,12.092534174553101,2.911479266738555/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664400:1863020301:0011/pct:1.033999298983526,16.446100055550108,12.092534174553101,2.908211613240532/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1561,7 +1561,7 @@ a, article 3, section a, declares:
 That in order to determine what characterizes a blockaded  
 art, that denomination is given only where there is, by th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743439:1863020601:0301/pct:2.6434001382170007,203.04404918228482,44.16033172080166,7.23409335084159/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743439:1863020601:0301/pct:0.8811333794056669,67.68134972742827,14.720110573600554,2.41136445028053/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1610,7 +1610,7 @@ ary or sutticienily near, as ecitlnU danger In entering.?Ar­
 ticle S, aectlou *.  
 The lores end effect of these superadded words, it mus
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743439:1863033001:0732/pct:4.081984154323114,58.1334599857516,15.380640716500173,4.927570648302066/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743439:1863033001:0732/pct:4.081984154323114,58.1334599857516,15.386381903777702,4.9354864244439165/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2270,7 +2270,7 @@ tion as in a state of blockade with a force
 rendering access to the prohibited places  
 manifestly difficult and dangerou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_charlie_ver01:data:sn86071197:00175034948:1898061901:0647/pct:85.02847843775427,252.60045489006822,51.830756712774615,27.308567096285064/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_charlie_ver01:data:sn86071197:00175034948:1898061901:0647/pct:21.25711960943857,63.150113722517055,12.957689178193654,6.827141774071266/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

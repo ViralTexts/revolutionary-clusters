@@ -348,7 +348,7 @@ forthwith, the President’s House, Cupitol and
 Public Offices, on their present scites in the civy  
 of Washingtor, and that he be authorised t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1816013001:0457/pct:76.5791750793193,40.458697378872124,16.123449668301124,5.3415409054805405/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1816013001:0457/pct:76.58398230939332,40.465316388668256,16.123449668301124,5.344850410378608/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

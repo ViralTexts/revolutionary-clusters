@@ -879,7 +879,7 @@ Here, said Mr J. llic revo! .lion was
 commenced with the assertion of tlie  
 principle, and terminated with its recog
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1819021101:0354/pct:19.78998384491115,7.409609895337773,15.638126009693053,7.992388201712655/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1819021101:0354/pct:19.78678727184623,7.408728743013438,15.640984224411781,7.995401752091014/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1007,7 +1007,7 @@ unfortunate are ever entitled.
 I beg to be favored with an answer  
 as soon as possible, and am. sir, you
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84024746:00414186920:1830111701:0186/pct:1.03029371059511,22.822239981733073,16.223281562355837,30.471515013129352/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84024746:00414186920:1830111701:0186/pct:1.0301353013530135,22.819634703196346,16.22591225912259,30.47184170471842/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1258,7 +1258,7 @@ closed.
 &quot;eractly by the rule you shall obzerve towards those of  
 &quot;ours now in your custody.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024656:00414184728:1861071001:0036/pct:14.7725496326403,111.61695447409733,42.457401907143975,36.54406817672124/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024656:00414184728:1861071001:0036/pct:4.923413566739606,37.20147998654558,14.150255288110868,12.17999028291662/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1551,7 +1551,7 @@ shall receive the treatment to which
 the unfortunate are ever entitled.&quot;  
 Let us pause for a moment to co
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477862:1876080901:1035/pct:93.38118022328548,255.18750912009338,39.792663476874004,17.685685101415437/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477862:1876080901:1035/pct:23.354607100119665,63.796877280023345,9.952134024730753,4.421421275353859/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1575,7 +1575,7 @@ shall receive the treatment to which
 the unfortunate are ever entitled.&quot;  
 Let us pause for a moment to co
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477862:1876080901:1036/pct:93.63057324840764,254.9150573544359,39.49044585987261,17.8306955132859/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477862:1876080901:1036/pct:23.40764331210191,63.728764338608975,9.872611464968152,4.457673878321475/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1601,7 +1601,7 @@ from the noblest of all principles?love
 of freedom and their country. The obli?  
 gations arising from humanity are uni
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551104:1878031401:0025/pct:26.0257195345989,86.3551810920232,12.094304960195958,5.919684867053288/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551104:1878031401:0025/pct:26.0257195345989,86.36247583616004,12.10451112471933,5.923332239121713/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

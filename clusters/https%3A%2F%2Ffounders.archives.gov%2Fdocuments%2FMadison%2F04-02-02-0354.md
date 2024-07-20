@@ -93,7 +93,7 @@ mat the noarn oi nniera commenced tt« regular annual
 mealing at ilia University on the 12tli July, ami coniinuail  
 tha meeting till Ilia 20i|i of the inonih, making a session o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1834010401:0289/pct:3.3798576902025177,13.386777948605316,14.75095785440613,6.578080386558313/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1834010401:0289/pct:3.379395266110275,13.38530800483145,14.753500250832307,6.581018264338787/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -127,7 +127,7 @@ l‘nh of July, and continued the meeting till the
 •&gt;0th of the month, making a session of nine  
 davs Its attention was directed as usual to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025007:00414216493:1834010801:0032/pct:3.7987812783612083,13.297449924997794,18.695708544016597,13.959234095120445/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025007:00414216493:1834010801:0032/pct:3.798288825512056,13.296276689606493,18.697606084175955,13.9609434739133/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -221,7 +221,7 @@ lesson—that no nation is permitted to live in ignor­
 ance with impunity.  
 Day, panting with heat, and laden with 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_collins_ver01:data:sn83030364:print00211110107:1861051801:0003/pct:82.18290119131044,38.43152064451158,12.070777855641206,7.477341389728097/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_collins_ver01:data:sn83030364:print00211110107:1861051801:0003/pct:82.18728100911002,38.434667673716014,12.066398037841626,7.477341389728097/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -282,7 +282,7 @@ to perish with ourselves, but what would re­
 main and be respected and preserved through  
 other ages.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_goethe_ver01:data:sn83030272:00175042878:1896061402:0179/pct:130.23774145616642,25.113190461817084,48.95988112927191,14.790220344099003/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_goethe_ver01:data:sn83030272:00175042878:1896061402:0179/pct:32.57153474544779,6.278297615454271,12.244518766257897,3.697555086024751/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

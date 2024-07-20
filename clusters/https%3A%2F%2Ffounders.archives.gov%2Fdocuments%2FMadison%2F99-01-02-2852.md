@@ -128,7 +128,7 @@ force.”
 This demand, sir, might justly suggest the sim­  
 pie answer, that before the proclamation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808040701:1070/pct:50.0,16.292950475883206,22.11886304909561,4.629778996612357/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808040701:1070/pct:49.987083440971325,16.29032258064516,22.11960733660553,4.633064516129032/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -157,7 +157,7 @@ bad violated.
 This expectation was considered as not only ho­  
 nourable to the sentiments of his majesty, but wan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808040701:1070/pct:73.04909560723515,56.75108888530408,22.299741602067183,10.75979996773673/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808040701:1070/pct:73.0302247481271,56.74193548387097,22.300439163006974,10.762096774193548/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -187,7 +187,7 @@ of the United States to represent to the *
 British government the signal aggres­  
 sion which
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808041801:0381/pct:43.0668016194332,17.993858751279426,17.155870445344128,4.58546571136131/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808041801:0381/pct:43.05953786473267,17.99201719373657,17.157193455894756,4.5875550097226485/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -254,7 +254,7 @@ any reparation at all. :
 But this is net all—Tlt cannot, be forgotten that when  
 that atrovious decd was committed, .mid@l the genera
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808042601:0066/pct:50.49992308875557,22.315982106547377,20.935240732195048,18.696624644164295/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808042601:0066/pct:50.505050505050505,22.31937101802901,20.93011331590012,18.700013555645928/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -604,7 +604,7 @@ pagated by British official characters, in this
 country, were persisted in until the disavow­  
 al of the British government took away th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808050301:0469/pct:22.968325791855204,2.2419315102241932,35.547511312217196,92.8430647942843/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808050301:0469/pct:22.964169381107492,2.241655376277867,35.547110628543855,92.83573510695078/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -667,7 +667,7 @@ any reparation at all.
   
 liut tins is not all—It cannot be forgotten tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808050401:1114/pct:49.85163204747774,14.9085123309467,45.202769535113745,81.76610978520286/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808050401:1114/pct:49.83930778739184,14.906140629971365,45.19777503090235,81.75707922367165/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -736,7 +736,7 @@ never intended to make for that wrong any
 reparation at nil  
 But this is not all—it cannot lie forgotte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808051001:0158/pct:4.693486590038314,4.253164556962025,36.53256704980843,90.73417721518987/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808051001:0158/pct:4.6925876268914,4.252626249841792,36.53195428717359,90.72691220520609/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -946,7 +946,7 @@ by British cffitial characters, -in this
 country, were persisted in until the dis­  
 avowal of the British government too
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808052701:0969/pct:46.95465521867454,12.41159830268741,40.488328414274214,84.7949080622348/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808052701:0969/pct:46.94206008583691,12.409404277885805,40.48417381974249,84.78433798833304/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -971,7 +971,7 @@ us of the claim which she asserts for herself.” To 1
 assert is to claim, or assert an assertion. We pte- 1  
 sume it was intended to say, that she asserts or 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808060601:1170/pct:49.72361809045226,47.612270714737505,22.763819095477388,7.352941176470588/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808060601:1170/pct:49.71112785732228,47.60474308300395,22.764380808842,7.355731225296442/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -996,7 +996,7 @@ ig the frigate of the U. S. the Che
 ie peake, as long as the proclamation of  
 the President of the U. S. of the 2
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808090201:0002/pct:60.13152486642006,3.8406270411495753,35.121249486230994,91.77008491182234/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808090201:0002/pct:60.13152486642006,3.844981493577183,35.14180024660912,91.77443936424994/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1036,7 +1036,7 @@ restored also wic buildings and tracts
 of land ol which the British subjects  
 had ■ -eU. The British
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808091601:0003/pct:59.27272727272727,17.853470437017997,17.393939393939394,18.753213367609256/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808091601:0003/pct:59.27272727272727,17.853470437017997,17.4006734006734,18.76606683804627/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1118,7 +1118,7 @@ i, were in a short time evacuated, and
 c port Egmorit remains with every  
 her part of them in the hands o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808101201:0002/pct:23.05646481178396,5.448267041821205,37.15220949263502,89.51272541245683/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808101201:0002/pct:23.070103655210037,5.4567932813232725,37.145390070921984,89.5084622927058/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1222,7 +1222,7 @@ sible, and is ot itsell proof nearly conclusive
 that her cabinet never intended to make, for  
 that wrong, any reparation at all
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184522:1824081701:0237/pct:19.10381119438686,19.301404393230104,15.499920267899856,19.001320369703517/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184522:1824081701:0237/pct:19.100765306122447,19.299087854056648,15.502763605442176,19.003040486477836/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1332,7 +1332,7 @@ consideration satisfaction should be made
 for the acknowledged aggression which  
 preceded it, and which was in accordanc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chester_ver02:data:sn86053573:00211102044:1887012901:0118/pct:75.54882664647994,68.3060943943791,42.69492808478425,21.261646555674353/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chester_ver02:data:sn86053573:00211102044:1887012901:0118/pct:18.894358197652405,17.076523598594775,10.677773570617191,5.315411638918588/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1358,7 +1358,7 @@ sideration satisfaction should be made
 for the acknowledged rggression which  
 preceded it, and which was in accordanc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:0029455113A:1887021701:0011/pct:76.51953690303907,22.037383177570092,10.672937771345875,6.859813084112149/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:0029455113A:1887021701:0011/pct:76.523556841936,22.037383177570092,10.672937771345875,6.866043613707165/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

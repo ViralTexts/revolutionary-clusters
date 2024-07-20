@@ -103,7 +103,7 @@ Ui may be employed in the lerviee of the
 44 Of the different grounds whir.hhave  
 Jbeen taken in oppolttion to this plan* 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_burmese_ver01:data:sn83045242:print:1802122001:0001/pct:8.04369414101291,27.010723860589813,17.060575968222444,21.595174262734584/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_burmese_ver01:data:sn83045242:print:1802122001:0001/pct:8.061900033101622,27.010723860589813,17.060575968222444,21.595174262734584/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -132,7 +132,7 @@ iinaeceHary will be a more certain me­
 thod of preventing its exillence than a  
 thoufand prohibitions upon pa[&gt;er
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_burmese_ver01:data:sn83045242:print:1802122001:0001/pct:8.083416087388281,56.152815013404826,16.583912611717974,10.308310991957105/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_burmese_ver01:data:sn83045242:print:1802122001:0001/pct:8.099966898378021,56.152815013404826,16.585567692816948,10.32283288650581/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -188,7 +188,7 @@ h nience and lofsi It would form ,m
 m annual deduction from the produ  
 «4 labour of the country to an a&gt; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_burmese_ver01:data:sn83045242:print:1802122001:0001/pct:8.2025819265144,66.52815013404826,16.643495531281033,28.900804289544237/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_burmese_ver01:data:sn83045242:print:1802122001:0001/pct:8.217477656405164,66.52815013404826,16.648460774577956,28.904155495978554/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -367,7 +367,7 @@ its near approach had fsperadded the in­
 citement! of (tlf preservation to the too  
 feeble inwulfes of duty and fympathy.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_burmese_ver01:data:sn83045242:print:1802122001:0001/pct:25.48162859980139,10.402144772117962,33.68421052631579,85.24128686327077/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_burmese_ver01:data:sn83045242:print:1802122001:0001/pct:25.498179410791128,10.402144772117962,33.68586560741476,85.24128686327077/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -593,7 +593,7 @@ opened to the ft..-but it was neither denied
 by the friends por the opponents of the Con­  
 stitution. that such v/as the propositio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1813060101:0037/pct:40.771198830409354,64.43260654112983,17.85453216374269,15.18830525272547/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1813060101:0037/pct:40.7637493148182,64.4246252941905,17.8573603751751,15.190552871712292/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -785,7 +785,7 @@ der to see that this be not neglected, it will
 be necessary to assemble them once or twice  
 in the course of a year.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn82014309:00414182926:1828091801:0457/pct:22.033219931959177,46.905582356995176,17.490494296577946,19.600275671950378/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn82014309:00414182926:1828091801:0457/pct:22.028811524609843,46.89911797133407,17.491996798719487,19.601019845644984/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -981,7 +981,7 @@ into another, to resist a common enemy, or to
 guard the republic against, the violence ot  
 faction or sedition — J&#x27;eiln&#x27;al 1st AV XXI
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn84038814:00279557219:1861102401:0898/pct:31.12947658402204,22.966316069764346,12.598714416896236,2.689388896285448/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn84038814:00279557219:1861102401:0898/pct:31.12947658402204,22.972972972972972,12.598714416896236,2.689388896285448/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1002,7 +1002,7 @@ boring State should he marched another, to resist
 a common enemy, or to guard the republic  
 against the violences of faction or sedition.’’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn85025202:00279557293:1861110201:0430/pct:23.230593607305938,23.275862068965516,14.78310502283105,3.317659352142111/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn85025202:00279557293:1861110201:0430/pct:23.2353500761035,23.27912748171369,14.806887366818874,3.330721003134796/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1100,7 +1100,7 @@ imagined enirench.nents of jrascr, and
 in .ko them an example of the ju-t ven­  
 geance of an abused an 1 indignat people
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_grace_ver01:data:sn85033139:00271769313:1863032701:0041/pct:43.22678843226788,41.072177926982796,12.619344126193441,14.813260595887536/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_grace_ver01:data:sn85033139:00271769313:1863032701:0041/pct:43.231400765647344,41.072177926982796,12.614731792813984,14.816757588473912/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1122,7 +1122,7 @@ of watching over the internal peace ot
 the country, and was wesely visted in Con­  
 gress by the framers ot the constitution
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn86086769:00271769787:1863040801:0119/pct:9.090909090909092,53.733449099196875,12.686868686868687,3.624918602127198/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn86086769:00271769787:1863040801:0119/pct:8.645029214824925,51.04993641956215,12.048449695056936,3.440217204522803/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1139,7 +1139,7 @@ he asks, &quot;can exist, while the particular
 States are to have the sole and exclusive ap  
 pointment of tits officers!&quot; -&#x27; Hamilton is re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_bunting_ver01:data:sn86069123:00202195234:1863040901:0066/pct:25.120274914089347,72.6402896302043,19.38144329896907,2.1980863718644943/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_bunting_ver01:data:sn86069123:00202195234:1863040901:0066/pct:18.852036432376696,54.48668218257047,14.538580512115484,1.6420998189811222/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1173,7 +1173,7 @@ governable ambition, it is impossible to be
 lievn that thev would employ such pre  
 posterous means to accomplish their de
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_bunting_ver01:data:sn86069123:00202195234:1863040901:0066/pct:25.36082474226804,77.54072924747867,19.467353951890033,14.197051978277734/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_bunting_ver01:data:sn86069123:00202195234:1863040901:0066/pct:19.02388726585324,58.15877941556762,14.6073208455061,10.65425394362555/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1206,7 +1206,7 @@ ident of the United Slates shall call forth
 the militia ot the States to be employed  
 in the service of the United States, h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271769428:1863040901:0182/pct:7.818930041152264,50.34128004748244,11.664094650205762,9.179938668513206/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271769428:1863040901:0182/pct:7.818930041152264,50.347874831008674,11.681241426611797,9.176641276750091/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1278,7 +1278,7 @@ duties of superintending the common defense,
 and of watching over the internal peace of the  
 Confederacy, (The Federalist, No. 29,) thes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558366:1876112701:0519/pct:159.79381443298968,207.07712248865846,43.09278350515464,11.976668826960466/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558366:1876112701:0519/pct:39.96905621454358,51.769280622164615,10.778751933986591,2.9941672067401166/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1397,7 +1397,7 @@ watching over tho internal peace;&quot; he
 notes that Mr. Justice Story, in deliv­  
 ering the opinion of the court iu Ma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_nittany_ver01:data:sn84026355:00212478167:1894082701:0419/pct:9.469403563129356,6.583442838370565,32.358636715724245,118.68593955321944/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_nittany_ver01:data:sn84026355:00212478167:1894082701:0419/pct:7.108270385434825,4.940867279894875,24.268835948092196,89.01445466491458/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

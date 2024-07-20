@@ -102,7 +102,7 @@ of any incorporated society, for philo­
 sophical or literary purposes, and lor  
 the use of any seminary of learning
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216201:1816022201:0466/pct:45.131712996652595,7.154398563734291,18.06141755203027,8.429084380610412/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216201:1816022201:0466/pct:45.125145518044235,7.153756395296652,18.063639891346526,8.431319749872841/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -118,7 +118,7 @@ the use of any seminary of learning
 . Fimrst. Jrticles fres of duty—All articles for  
 the use of the United States—philosopliical ap
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1816022701:0474/pct:22.17464444104603,12.479440789473685,17.46444410460315,1.1204769736842106/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1816022701:0474/pct:22.179742060457766,12.482867324561404,17.459346485191414,1.1170504385964912/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -247,7 +247,7 @@ order or for the usd of any society incorporated
 eneofirngemeut of the fine arts, m by order and for  
 the use of any seminary of learning ; specimen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1816050901:0946/pct:3.1750063500127,35.704011507112035,21.920243840487682,7.223909221671728/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1816050901:0946/pct:3.1742001015744035,35.69830616810483,21.921025901472827,7.226749760306808/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -304,7 +304,7 @@ cal or Titerarvy pérposes, or for the encourage­
 ment of the fine afts, or by order and for the  
 use of any seminary of learning, specimens i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1816051401:0513/pct:42.11009174311926,71.4125102207686,18.119266055045873,6.725265739983647/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1816051401:0513/pct:42.11518858307849,71.41591714363587,18.134556574923547,6.728672662850913/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -331,7 +331,7 @@ ted for philosophieal or litefary purpoees, or
 order and for the use of iny seminary of  
 Yearning ; specimens in natasul bistory, min
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1816051501:0281/pct:1.9868906185989348,16.471157334623292,23.248668578451454,8.912806869028904/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1816051501:0281/pct:2.0005462242250442,16.47518845487161,23.25549638126451,8.912806869028904/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -500,7 +500,7 @@ encouragement ol the line arts, or bv or­
 der and lor the use ol any seminary of  
 learning ; specimens in natural history
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816081401:0260/pct:27.13080925892697,20.974939924476484,16.938812129912076,8.158828241217531/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816081401:0260/pct:27.125941872981702,20.97254004576659,16.941753378782444,8.161708619374524/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -575,7 +575,7 @@ University, praying for a repeal of th«* duties
 on books imported into the United States,”  
 have made a Report, concluding with the ful­
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1822011901:0319/pct:48.26713087513847,55.29147451815064,14.527615128976104,2.8024122029088328/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1822011901:0319/pct:48.25949367088607,55.28493733743202,14.530590717299578,2.806021912193584/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -606,7 +606,7 @@ ket, and even his own productions from a
 foreign press might he made to impair, if not  
 defeat his exclusive right}”—that it woul
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1822011901:0319/pct:48.26713087513847,58.507745063261204,14.590916284222187,9.447794726262268/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1822011901:0319/pct:48.25949367088607,58.50082761882242,14.593881856540085,9.450618743595808/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -624,7 +624,7 @@ and highly finished editions,” which are “ as
 much a luxury as any other extravagant ex­  
 penditure,” and as little deserve the indul
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1822011901:0319/pct:48.40955847444216,72.68534941468606,14.46431397373002,2.1638879035118834/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1822011901:0319/pct:48.401898734177216,72.67675573421613,14.467299578059071,2.1675731063293133/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -644,7 +644,7 @@ ments, and acquire habits of flunking adverse
 to our prosperity, unfriendly to our govern­  
 ment and dangerous to our liberties.”—_W
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1822011901:0319/pct:48.40955847444216,76.4100744945016,14.511789840164584,3.2517441172992787/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1822011901:0319/pct:48.401898734177216,76.40104043509103,14.514767932489452,3.2553007015054782/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -761,7 +761,7 @@ literary purposcs, or for the encouragement
 of fine a-ts, or by order, and for the use of  
 any seminary of learning, school or college,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1831030701:0458/pct:6.7929065223925456,13.033080908728577,16.095581605049595,2.7600637704264646/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1831030701:0458/pct:6.7929065223925456,13.03972366148532,16.095581605049595,2.7600637704264646/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -910,7 +910,7 @@ preparations, models of machinery and the models of
 other inventions, plants and trees, wearing apparel and  
 other personal baggage in actual use, and the imple
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84022355:00200290112:1841081001:0343/pct:6.443071491615181,127.89608820419876,74.31597528684907,43.558374867844734/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84022355:00200290112:1841081001:0343/pct:1.6107678729037953,31.97402205104969,18.578993821712267,10.889593716961183/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -959,7 +959,7 @@ sophical or literary purposes, or for the encourages
 ment of the Fine Arts, or by order and for the use  
 of any College, Academy, School or Seminary o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030212:00206530157:1841091401:0534/pct:52.85507770148175,174.50507614213197,48.915793277918326,9.02284263959391/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030212:00206530157:1841091401:0534/pct:17.61835923382725,58.16835871404399,16.305264425972773,3.0076142131979697/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -978,7 +978,7 @@ sculpture, cabinets of coins, gems, medals, and all
 ther collections of antiquitics, statuary, modeling,  
 painting, drawing, etching, or eagraving;-and als
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030212:00206530157:1841091401:0534/pct:52.87314781351645,186.0279187817259,49.006143838091795,8.845177664974619/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030212:00206530157:1841091401:0534/pct:17.62438260450548,62.00930626057529,16.335381279363933,2.94839255499154/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1025,7 +1025,7 @@ coin*, gems, medals, and all other collections of anti­
 quities, statuary, modelling, painting, drawing, elch­  
 mg, or engraving ; and, also, all importation. of speci
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1841091601:0896/pct:81.9380121125757,16.02328819136818,15.817598859992875,6.1890899886090365/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1841091601:0896/pct:81.94394964968531,16.0317259418639,15.823536397102481,6.184871113361178/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1043,7 +1043,7 @@ society incorporated or established for philosophical
 or literary purposes, or for the encouragement of  
 the fine arts, or by order and for the use of any col
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184595:1841091701:0848/pct:8.732304755845396,57.52232919614894,39.812311118180375,4.77902795499362/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184595:1841091701:0848/pct:2.9103053435114505,19.17188587334725,13.268659881255301,1.592824557333952/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1065,7 +1065,7 @@ ing, drawing, etching, or engreving; and, also, all
 importations of specimens in natural history, miner  
 alogy, botany, and anatomical preparations, model
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184595:1841091701:0848/pct:8.541434706537299,64.62127363414918,39.812311118180375,9.720450063797703/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184595:1841091701:0848/pct:2.8466921119592876,21.537926235212247,13.268659881255301,3.239774220985077/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1115,7 +1115,7 @@ ure, cabinets of coins, gems, medals, and all other
 collections of antiquities, statuary, modelling, paint­  
 ng, drawing, etching, or engraving; and also, all im
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186427:1841092101:0886/pct:212.86880927291887,20.766948686957477,36.683350895679666,8.21887704647841/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186427:1841092101:0886/pct:70.94692479915712,6.921555702043507,12.226173229729136,2.7393246905442026/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1158,7 +1158,7 @@ cabinets of coins, gems, medals, aud ail oth-
   
 collectious of antiquities, statuary, modelling,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00416156888:1841092501:0543/pct:65.85641605426795,121.09918622479066,19.474279253815716,4.127845264771789/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00416156888:1841092501:0543/pct:49.399293286219084,90.824389668593,14.614840989399294,3.101780870385659/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1276,7 +1276,7 @@ sophical or literary purposss, or for the encouras
 of the fine arts, or by order and for the use of ans Semie  
 nary of Learmine, School or College; pparel, wearing
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030212:00206530157:1841100401:0602/pct:153.76008804108585,89.97619345946623,47.39545121056493,7.179551434657311/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030212:00206530157:1841100401:0602/pct:51.253362680361946,29.992064486488744,15.798483736854976,2.393183811552437/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1296,7 +1296,7 @@ purposes, or for the encouragment of the fine
 arts, or by order and for the use of any college,  
 academy, school or seminary of learning, in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1841100401:0401/pct:16.494082840236686,107.6417419884963,56.43491124260355,11.613256642015886/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1841100401:0401/pct:4.1235207100591715,26.910435497124077,14.108727810650887,2.9033141605039714/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1318,7 +1318,7 @@ painting, drawing, etching, or engraving; and, al­
 so, all importations of specimens in natural histo­  
 ty, mineralogy, botany, and anatomical prepara
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1841100401:0401/pct:16.494082840236686,120.9531635168447,56.80473372781065,14.90002738975623/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1841100401:0401/pct:4.1235207100591715,30.238290879211174,14.201183431952662,3.7250068474390576/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1429,7 +1429,7 @@ mient of the line arls, or by order and for the
 use of any college, academy, school or semina  
 ry of learning, in the United States, to wit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn84023647:00280777778:1841101901:0138/pct:10.38961038961039,183.87428403583493,61.4448051948052,15.626376854163606/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn84023647:00280777778:1841101901:0138/pct:2.5979297747107775,45.96857100895873,15.364319058250457,3.9065942135409015/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1450,7 +1450,7 @@ collections of antiquities, statuary, modelling.
 painting, drawing, etching, or engraving; and  
 also, all importations of specimens in natura
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn84023647:00280777778:1841101901:0138/pct:10.227272727272727,202.0267293288295,59.82142857142857,15.802614187105302/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn84023647:00280777778:1841101901:0138/pct:2.5573371219809213,50.506682332207376,14.958392530951897,3.9506535467763255/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1481,7 +1481,7 @@ er collections of antiquities, statury, model­
 ing, painting, drawing, etching or engraving;  
 and also all importations of specimens in&#x27;nat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn87065204:00295877935:1841111201:0403/pct:36.258697027197975,60.115672488092535,23.719165085388994,14.878657291902925/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn87065204:00295877935:1841111201:0403/pct:27.20658019614046,45.08958947607167,17.795001581777917,11.158992968927194/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1597,7 +1597,7 @@ phical or literary purposes, or for the encouragement
 of the fine arts or by order and for the use of any col­  
 ege, academy, school, or seminary of learning in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186427:1842051901:1157/pct:175.02686727565825,266.6522210184182,37.53358409457281,6.868905742145179/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186427:1842051901:1157/pct:58.33445265278711,88.87444480554653,12.509514215357063,2.2893872097642003/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1672,7 +1672,7 @@ ment of the fine arts, or by order and for
 the use of any college, academy, school  
 or seminary of learaing in the Unite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:00271743415:1862071201:0654/pct:100.78239608801955,162.3022745641381,34.73512632436838,12.943078166493477/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:00271743415:1862071201:0654/pct:33.59413202933985,54.10075818804603,11.578375441456126,4.314359388831159/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1693,7 +1693,7 @@ arts, or by order and for the use of any
 college, scademy, school or seminary of  
 learning in the United States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basic_ver01:data:sn83030213:00206530716:1862080601:0732/pct:9.073222497347011,121.18196338616538,30.633180049522462,8.465413441454723/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basic_ver01:data:sn83030213:00206530716:1862080601:0732/pct:3.02440749911567,40.39398779538846,10.211060016507487,2.821804480484908/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -183,7 +183,7 @@ have paid on purchasing any of the said
 lands, rights or properties, {ince the confif­  
 cation,”’ 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1784021401:0508/pct:37.14336661911555,4.44000444000444,59.7360912981455,89.57708957708958/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1784021401:0508/pct:37.14931050879696,4.44000444000444,59.7301474084641,89.58448958448959/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -424,7 +424,7 @@ I (lie said laws or acts perfectly consist­
 j which, oti the return of the blessings  
 ; of peace, should universally prevail.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_dragonair_ver01:data:sn89051370:00414212578:1867020201:0184/pct:17.492378048780488,15.447046301224056,14.119664634146341,2.9936136242682276/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_dragonair_ver01:data:sn89051370:00414212578:1867020201:0184/pct:17.48904553248238,15.444991352933352,14.121737473804535,2.9965411733404284/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

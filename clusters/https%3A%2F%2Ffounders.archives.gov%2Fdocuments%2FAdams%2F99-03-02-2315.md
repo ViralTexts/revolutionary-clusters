@@ -359,7 +359,7 @@ weakness IS to Im limited hv the efforts to
 Heroine it, and not by indulgence to it.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1824031201:0653/pct:22.361546499477534,81.90268700072622,15.047021943573668,8.714596949891067/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1824031201:0653/pct:22.35687421646469,81.89079291315713,15.049101546176347,8.716961951786233/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -388,7 +388,7 @@ w In ii uthei i i\ mild demand salisfaet inn ;
 giving way to the pushes nf rmpudrnce,  
 euiieecln&#x27;g und indulgent In the prejudices,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1824031201:0653/pct:37.55485893416928,24.444444444444443,15.506792058516197,7.915758896151053/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1824031201:0653/pct:37.54701211867948,24.440894568690094,15.508775595486837,7.9182399070577985/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -420,7 +420,7 @@ t V• I le said Iii his disciples ( Matthew, xti.
 ! in heart, and ye shiill find rest to ymir  
 souls.&#x27; Hut where did lie ever say , Iran
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1824031201:0653/pct:37.55485893416928,50.93681917211329,15.590386624869383,9.745824255628177/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1824031201:0653/pct:37.54701211867948,50.929422015684,15.592352695361472,9.748039500435667/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -482,7 +482,7 @@ way to the pushes of impudence or show 1
 yonrsell yielding and cnninlv iotr to ore a  
 descend, and the llaoils come, and the 1 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1824031201:0653/pct:37.55485893416928,60.66811909949165,15.694879832810868,29.034132171387075/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1824031201:0653/pct:37.54701211867948,60.659308742375835,15.696824070204764,29.033546325878593/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -554,7 +554,7 @@ the Gospel; in which is the following passage,
 tions of characters iiuiler which, mankind may  
 generally he classed.—The one possesses vigor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184522:1824031201:0058/pct:34.14595535855628,63.4639842756388,15.133766028177932,30.708752456931435/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184522:1824031201:0058/pct:34.14055080721747,63.456647398843934,15.136646618128099,30.709055876685934/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -681,7 +681,7 @@ on a rocK\—So promises your blessed Lord and
 Saviour, and prays your affectionate father.”  
 “
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184522:1824031201:0058/pct:49.39053348108279,3.4223609665857326,15.703656799113503,58.96635449184877/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184522:1824031201:0058/pct:49.382716049382715,3.421965317919075,15.706447187928669,58.96339113680154/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -945,7 +945,7 @@ sblest ond warmest defeaders. I Paley&#x27;s
 “ View of the. LEvidences of Cheitianity,”  
 there is a chapier upon the morslity of the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1824032501:0663/pct:51.63809523809524,60.30463881837064,20.83809523809524,31.89476113547196/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1824032501:0663/pct:51.65079365079365,60.31233171782445,20.85079365079365,31.89476113547196/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1013,7 +1013,7 @@ he ever sry, learn of e, for } um temie 2nd
 ebject. “There lo certeinly, nething more  
 strongly maiked in the precept 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1824032501:0663/pct:73.63809523809523,13.316408954534964,21.104761904761904,35.448880683129474/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1824032501:0663/pct:73.63809523809523,13.320255404261866,21.123809523809523,35.456573582583275/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1075,7 +1075,7 @@ founded upon @ rock. So promises your bies.
 sed Lord snd Savicur, and prays your sficgs  
 tionate father.” B 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1824032501:0663/pct:73.86666666666666,52.746365105008074,21.02857142857143,31.998615278098317/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1824032501:0663/pct:73.87936507936507,52.75405800446188,21.02857142857143,32.00246172782522/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1349,7 +1349,7 @@ it shall not fall; it will be founded
 upon a rock. So promises your blessed  
 Lord and Savior, and prays your affe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184157:1824032901:0385/pct:38.56958048419885,13.410596026490067,51.32138236924783,81.95364238410596/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184157:1824032901:0385/pct:38.562453806356245,13.40888832293391,51.318058635131806,81.94745108026656/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1796,7 +1796,7 @@ promises your blessed Lord and Saviour,
 and prays your affectionate father.”  
 “ The principal i dles
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1824040601:0214/pct:40.96927966101695,11.843188930983363,35.7521186440678,83.95651457749959/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1824040601:0214/pct:40.95843261848027,11.841238471673254,35.749271908922424,83.94680500658761/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2296,7 +2296,7 @@ promises your blessed Lord and Saviour,
 and prays your affectionate father.”  
 “
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021202:00517171980:1824042101:0128/pct:82.80680437424058,14.190812720848056,38.983394086674764,109.93639575971731/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021202:00517171980:1824042101:0128/pct:64.18519487313628,11.005221455435061,30.206643996861104,85.20100777741264/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3159,7 +3159,7 @@ and in the practice of benevolence 1o our fel.
 low creatures, includmg among them our most  
 mveterate enemnies,””’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021389:00340588022:1828081601:0569/pct:21.003187384667,57.57137694253704,14.678745176983728,7.721961209492832/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021389:00340588022:1828081601:0569/pct:21.003187384667,57.57940810344135,14.689928982832859,7.721961209492832/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3218,7 +3218,7 @@ fence. It is also very inconel,n •:&lt;&#x27; ref, onin&quot; ; -s ur-r
 *h:i*. because perfection is net absolutely to bo att-en­  
 e 1, it is, therefore. not to lie soiepii— Human ov’cl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184303:1828101801:0339/pct:58.72111427666983,79.59569689088545,17.806267806267805,13.772313512235488/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184303:1828101801:0339/pct:58.7118214907422,79.58628841607565,17.80872500923142,13.774625689519306/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3249,7 +3249,7 @@ eitvr o.ye n/ men, There is a dignity in it, which
 ^nivorn.my commands inspect.— The latter fa poor  
 -p.r.. i tame, and abject, so it happened wit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184303:1828101801:0339/pct:76.89142133586579,23.253339638255113,18.05951250395695,9.090909090909092/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184303:1828101801:0339/pct:76.87925304636809,23.250591016548462,18.06192963021575,9.09377462568952/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3285,7 +3285,7 @@ yielding or complying lo yjrciutliccs, ivronglieadcti­
 n *-s, or intractability, which would lead or flrav. voir  
 f.&#x27;stray I rom t.fie dictates of your own conscience o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184303:1828101801:0339/pct:76.8755935422602,61.79217401584111,17.917062361506805,12.282775741813452/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184303:1828101801:0339/pct:76.86342775755658,61.78486997635934,17.919502030912064,12.285263987391646/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3526,7 +3526,7 @@ and the floods come, and the winds blow, and beat upon
   
 that house, &quot;it shall &quot;not fall,&quot;let us combine, and sup
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184637:1846061801:0552/pct:134.94098790616349,14.31578947368421,77.5608334547574,276.5730994152047/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184637:1846061801:0552/pct:44.97377622377623,4.7713717693836974,25.8498445998446,92.18025182239894/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3758,7 +3758,7 @@ who, to use a vulgar phrase, can never say no, to
 anybody. The true Christian is the &quot;Justum et  
 tenacem propositivirum&quot; of Horace, (the man wh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_buttery_ver01:data:sn83030213:00206530273:1848041501:0179/pct:2.0003125488357556,23.974507531865584,86.52914517893421,272.22479721900345/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_buttery_ver01:data:sn83030213:00206530273:1848041501:0179/pct:0.6667708496119186,7.991502510621862,28.84304839297807,90.74159907300115/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3796,7 +3796,7 @@ promises your blessed Lord and Master, and so
 prays your affectionate Father,  
 JOHN QUINCY ADAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_buttery_ver01:data:sn83030213:00206530273:1848041501:0179/pct:45.85091420534459,140.33603707995366,42.39724957024535,39.44380069524913/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_buttery_ver01:data:sn83030213:00206530273:1848041501:0179/pct:15.283638068448195,46.77867902665122,14.132416523415117,13.147933565083044/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4439,7 +4439,7 @@ J,u well as for the actions of i csiameni, but even in some ot tho hea- oi iiriM
   
 discourses &#x27; and often is great danger of falling into
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058217:00271744766:1848051001:0072/pct:1.7953321364452424,55.90903592597073,51.70556552962298,2.8910124591750335/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058217:00271744766:1848051001:0072/pct:1.347103726986978,41.93782508769808,38.79658733722496,2.1652352727712594/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4458,7 +4458,7 @@ criptions cf character, under which man­
 kind may generally be . classed: the one  
 possesses viiror, firmness, resolution, is
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058217:00271744766:1848051001:0072/pct:36.41532016756433,66.69892343050684,17.0556552962298,2.782145881214467/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058217:00271744766:1848051001:0072/pct:27.33123783864691,50.03024071610016,12.79748540637629,2.0805612676908187/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5290,7 +5290,7 @@ cannot find that any considerable person
 among the supporters of the Adminis­  
 tration, whether lay or clerical, has eve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347324:1864111801:0442/pct:61.61305964118313,78.1246290801187,13.108129949894941,6.5044510385756675/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347324:1864111801:0442/pct:61.62383492268736,78.13254203758655,13.108129949894941,6.5044510385756675/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5316,7 +5316,7 @@ cannot find that any considerable person
 ainc ng the supporters of the Adminis­  
 tration, whether lay or clerical, has eve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347324:1864111801:0443/pct:60.7564247615969,78.74183976261128,13.091967027638598,6.5044510385756675/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347324:1864111801:0443/pct:60.7564247615969,78.74975272007913,13.108129949894941,6.5044510385756675/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5372,7 +5372,7 @@ God had in view, according to His
 word to us, was to make us a  
 different people from others--to giv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_james_ver01:data:sn83045555:00206534060:1891090701:0714/pct:116.04361370716511,75.98704191131809,34.42367601246106,26.543834784369306/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_james_ver01:data:sn83045555:00206534060:1891090701:0714/pct:38.68120456905503,25.32901397043936,11.474558670820352,8.847944928123102/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5428,7 +5428,7 @@ composition Paley
 We think Paley is mistaken in thus  
 entirely separating the qualities that 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:2065344540:1896030801:0610/pct:65.65916398713826,75.05500868558194,20.128617363344052,27.805442964678633/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:2065344540:1896030801:0610/pct:43.79926009329259,50.04053271569195,13.430915232427216,18.540822235089752/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

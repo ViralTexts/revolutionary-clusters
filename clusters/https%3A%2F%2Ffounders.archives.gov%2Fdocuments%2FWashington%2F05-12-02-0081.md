@@ -33,7 +33,7 @@ election, and for regulating the time, place,
 and manner of administering the oath of  
 | office to the President
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809020601:0002/pct:76.01277190181601,8.206607236497115,17.002594292556378,3.9984268484530676/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809020601:0002/pct:76.01942393401184,8.215346967313407,17.002594292556378,4.0071665792693585/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -65,7 +65,7 @@ the House of Representatives in the Senate Chamber
 on Wednesday next, at 12 o&#x27;clock, tor the purpose of  
 being present at the opening and counting of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:00271743993:1876120501:0821/pct:247.21991701244812,24.20699235934244,46.522821576763484,20.849733734660802/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:00271743993:1876120501:0821/pct:82.40663900414938,8.068997453114147,15.507607192254495,6.949911244886934/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -84,7 +84,7 @@ dent, and of notifying the persons who shall be elected
 of their election, and to regulate the time, place and  
 manner of administering the oath of office to the Presi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:00271743993:1876120601:0835/pct:7.522783761391881,228.422756706753,46.478873239436616,5.989824236817761/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:00271743993:1876120601:0835/pct:2.507594587130627,76.140918902251,15.492957746478874,1.9966080789392537/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -125,7 +125,7 @@ ready to receive the House of Represen­
 tatives in the Senate Chamber on Wed­  
 nesday next, at 12 o&#x27;clock, for the pur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_bentley_ver01:data:sn83025733:00200297568:1876121301:0695/pct:89.06644238856181,75.59011385726187,50.04205214465938,49.708414329352955/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_bentley_ver01:data:sn83025733:00200297568:1876121301:0695/pct:22.266610597140453,18.897528464315467,12.510513036164845,12.427103582338239/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -155,7 +155,7 @@ of this House, to make a il*l of the voles as they
 shall be declared; that tho result shall If delivered  
 to tho President of the Senate, «lio shall announc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1877010201:0006/pct:5.022947475777665,57.99398194583751,12.672106068332484,7.181544633901705/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1877010201:0006/pct:5.029321774604793,57.99899699097292,12.678480367159612,7.206619859578736/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -190,7 +190,7 @@ passed the following resolution:
 to receive the House of Representatives in  
 the Senate chamber on Wednesday next a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00271742125:1877010301:0022/pct:86.45791516124716,199.89078995267565,42.75391409072662,29.004368401892975/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00271742125:1877010301:0022/pct:28.81930505374905,66.63026331755854,14.251304696908871,9.668122800630991/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -313,7 +313,7 @@ Vice-President, which list, having been read to
 the two Houses, the Vice-President declared  
 that George Washington had been unanimou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_goethe_ver01:data:sn83030272:00175042891:1896101102:0728/pct:227.76934749620636,106.2273276904474,50.531107738998486,36.396614268440146/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_goethe_ver01:data:sn83030272:00175042891:1896101102:0728/pct:56.953139821665715,26.55683192261185,12.63517359134889,9.099153567110037/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

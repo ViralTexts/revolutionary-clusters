@@ -316,7 +316,7 @@ own. 3
   
 (Signed) P. A ADET.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796012301:0014/pct:26.47517951920075,36.49786938856407,15.797689665938183,34.73392131602418/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796012301:0014/pct:26.47517951920075,36.50117266210815,15.808096576126548,34.74052786311234/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -501,7 +501,7 @@ that it guides to combat men who have shared
 their toils, and who were prepared for liberty  
 by aiding them to acyuiie tluir own.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215877:1852012801:0222/pct:83.2065370526909,32.16244359597362,12.60448952756645,4.255466851787574/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215877:1852012801:0222/pct:83.19872276483846,32.160211023184786,12.606436263461056,4.25748530704799/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

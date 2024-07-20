@@ -2366,7 +2366,7 @@ tioal laws or treaties make no distinction between them
 every thing sald of the territory of a nation ought also  
 o catend to its coionies. Gattell. B 1 Ch 18,8210
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271742964:1847080301:0150/pct:189.21775898520085,112.01313405797102,46.641730362660596,9.476902173913043/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271742964:1847080301:0150/pct:63.072586328400284,37.337711352657,15.5472434542202,3.1589673913043477/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2516,7 +2516,7 @@ throned sovereign ; and, on the submission of his people, he is
 to govern it according to the laws of the State.&quot;  
 These authorities sustain the position I assumed. The
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848081901:0292/pct:81.47510403214234,53.834063096441,15.798536375376669,7.8702144380824075/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848081901:0292/pct:81.48467020615105,53.83780547135212,15.798536375376669,7.873956812993526/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2614,7 +2614,7 @@ them up as property or patrimony to others.
 Let us argue on principles countenanced by  
 reason and becoming humanity. The petitioner
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1853090101:0824/pct:47.017642117054045,51.417081577939484,14.757770932511901,5.96514745308311/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1853090101:0824/pct:47.017642117054045,51.42027320311502,14.76710538597965,5.96833907825865/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2632,7 +2632,7 @@ of nations, by the voice of universal reason and of God,
 by the the Statute law and the common law, they pos-­  
 sesred the power of local legislation.&quot; They maintaine
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743099:1854031701:0629/pct:244.06637613141132,85.42902784116842,46.832048273550114,5.100410771337289/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743099:1854031701:0629/pct:81.35545871047044,28.476342613722807,15.61068275785004,1.7001369237790962/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2765,7 +2765,7 @@ up as the property or patrimony of another
 man—let us argue on principles countenanced  
 by reason and conformable to humanity
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn86058108:00279557360:1862050301:0084/pct:3.5522921214526693,41.06955084873066,12.99861083548323,6.579540333483551/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn86058108:00279557360:1862050301:0084/pct:3.562214725143878,41.07330629412648,13.008533439174439,6.579540333483551/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3063,7 +3063,7 @@ they derive one of’tin* sources ol a d
 such writer-, who reduce men 1&lt;&gt; the |  
 state ei tran.-f rrahle goods ur hen- i ■ o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_lyle_ver01:data:sn84026851:00514157844:1866051001:0276/pct:25.334323922734026,5.460809646856158,36.428925210500246,88.9922480620155/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_lyle_ver01:data:sn84026851:00514157844:1866051001:0276/pct:25.32805149789552,5.459869100930073,36.42609556820995,88.98122631760248/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3118,7 +3118,7 @@ deliver them up as the property or patris territory, and the people as conquered
 mony of another man. Let us argue on ects It is a virtual deniat of the power  
 principles countenanced by reaton and of self preservation, and a pregnant ad
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_dillinger_ver02:data:sn87056248:0020029564A:1867013101:0404/pct:272.36414305620065,292.1445950643031,98.32791453785416,35.73166492874522/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_dillinger_ver02:data:sn87056248:0020029564A:1867013101:0404/pct:68.114763619468,73.03614876607577,24.590544778719945,8.932916232186304/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3146,7 +3146,7 @@ of tho conqueror should be oxercised for no other or
 farther objects than - tho-support and prosecution of his  
 right; that ovorything beyond that .would be contrar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_brandonblaze_ver01:data:sn84026994:00294555237:1867050101:0389/pct:1.032579668862382,71.9201030927835,13.672779063557059,4.768041237113402/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_brandonblaze_ver01:data:sn84026994:00294555237:1867050101:0389/pct:1.032579668862382,71.9286941580756,13.678713429470061,4.768041237113402/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3176,7 +3176,7 @@ be may treat it as he pleases, according to the common
 ment.&quot; Be then proceeds tb argue the question &quot;on  
 aS*S*Sg! rmrmtonanrmfl by reason and conformable t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_brandonblaze_ver01:data:sn84026994:00294555250:1867050102:0004/pct:1.6956521739130435,69.89338616850647,14.115942028985508,5.49108406453439/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_brandonblaze_ver01:data:sn84026994:00294555250:1867050102:0004/pct:1.6956521739130435,69.89653111928799,14.120772946859903,5.497373966097431/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3214,7 +3214,7 @@ we are slaves.&quot; &quot;Ireland,&quot; they sald,
 &quot;was a conquered country, yet no duties  
 h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867060101:0509/pct:63.12312312312312,97.56948228882834,37.65765765765766,38.71389645776567/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867060101:0509/pct:15.78552117753079,24.392370572207085,9.41724241513968,9.678474114441418/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3252,7 +3252,7 @@ has conquered, attempts to reduce them to
 slavery, he perpetuates the state of warfare  
 between that nation and himself. Shoul
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_mateer_ver01:data:sn85055236:00212477904:1867082801:0104/pct:219.7860962566845,200.94955489614244,48.357524828113064,11.632047477744807/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_mateer_ver01:data:sn85055236:00212477904:1867082801:0104/pct:54.94652406417112,50.23738872403561,12.089381207028266,2.908011869436202/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3280,7 +3280,7 @@ ral equity, as to make a man Judge in
 his own case was void; and induced Chief­  
 Justice Holt to say, in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293423:1870110801:0449/pct:49.45086705202312,100.10867202782003,12.716763005780347,2.1408389480547707/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293423:1870110801:0449/pct:37.11146450773457,75.08150402086503,9.541708833309238,1.608346011736579/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

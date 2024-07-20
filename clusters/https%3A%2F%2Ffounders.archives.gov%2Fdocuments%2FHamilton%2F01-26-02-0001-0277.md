@@ -632,7 +632,7 @@ duced. by a mortal wound, in jphieh case i
 he could not have been conscious of- hav­  
 ..ing fire^. y ■■ W) *
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804072801:0025/pct:74.59016393442623,6.217532467532467,21.684053651266765,88.86363636363636/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804072801:0025/pct:74.57164142041222,6.21652329167343,21.684877079711946,88.85327057295893/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -676,7 +676,7 @@ ing from the facts, nor will any comments
 be made. They are leit to the candid judg­  
 ment and feelings of the puLnick.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804072801:0026/pct:3.9074550128534704,5.045425048669695,20.848329048843187,22.582738481505515/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804072801:0026/pct:3.90645078386019,5.044606650446067,20.84939604214855,22.583130575831305/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -764,7 +764,7 @@ hoar, the irlt tvotds he uttei ! ;V.r ivn «f.
 !t il to*i gentleman pivfcnr w!,o t.. ‘ vs til  
 lecr.cmbcrslt} “ PmHlt to* 4nr. vs i..j; ttuc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804072801:0102/pct:58.0871757925072,1.6421995521273949,35.21253602305475,93.35655635730281/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804072801:0102/pct:58.076715289032954,1.641995273043911,35.212197610901015,93.34908985363022/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -805,7 +805,7 @@ from thefe f.idts, nor will any comi&#x27;mnls !e
 made. They are left to the candid Judgment  
 and feelings of the public
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804072801:0102/pct:75.95461095100865,17.4048270714108,17.219020172910664,14.705150534958944/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804072801:0102/pct:75.94093282910138,17.402662022639632,17.221922084158713,14.707467761330182/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -967,7 +967,7 @@ ing from these fuels, nor will any com­
 ments be made. They are left to the  
 candid judgment and feelings of the pul
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804080101:0230/pct:59.633893187393845,3.2797595714099046,37.15795433100585,93.55808179798771/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804080101:0230/pct:59.62264150943396,3.279331068722237,37.15723270440252,93.55021339604563/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1544,7 +1544,7 @@ Pendleton always maintained that Mr Ham­
 ilton did not fire first, and that he did not  
 fire at all, at his opponent. Mr. Van Nes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn96027384:00393349451:1859030501:0244/pct:30.8334473792254,83.28049902853053,12.453811413712877,3.2314142550363023/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn96027384:00393349451:1859030501:0244/pct:30.829228243021348,83.2719836400818,12.45666849115125,3.234492160872529/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1560,7 +1560,7 @@ fire at all, at his opponent. Mr. Van Nes
 the cedar tree,- about; four feet wide of  
 the direct line between him and Burr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551293:1875122301:0034/pct:2.565597667638484,56.45412130637636,12.201166180758017,1.119751166407465/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551293:1875122301:0034/pct:2.565597667638484,56.46103335061344,12.206025267249757,1.1232071885260067/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

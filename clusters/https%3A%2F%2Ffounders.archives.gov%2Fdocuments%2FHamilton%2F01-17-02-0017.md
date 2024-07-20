@@ -192,7 +192,7 @@ David Philips, he appointed for the purpose of
 drawing a remonstrance to Congress ilatng our  
 ohj&lt; ftions against the law that imposes a duty up
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792090501:0003/pct:71.9052073589024,35.85052549630206,21.20361708762083,11.580381471389646/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792090501:0003/pct:71.92859370127846,35.86025690930323,21.211412535079514,11.58524717789023/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -448,7 +448,7 @@ issue, the hope entertained has never been rea­
 lised, and isfiow at an end, as far ns the ordi­  
 nary means of executing laws are coueeraed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813090801:0599/pct:74.0276035131744,25.695687550854352,23.488080301129234,49.79658258746949/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813090801:0599/pct:74.00903161063724,25.69150667100553,23.488459608630205,49.79254799869834/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -516,7 +516,7 @@ ous itotit.ei.lmi., there met at Pittsburg, nil the
 tlteniseli.es •* ;i meeting of sundry iuhabiiauts of  
 the western cousiies of Peinnyivtuiia.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813091101:0602/pct:26.35169277412835,19.176276771004943,21.728145528044468,36.14497528830313/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813091101:0602/pct:26.345036625410458,19.17311810245429,21.72897196261682,36.143139515730525/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -589,7 +589,7 @@ mi other defects was brought in, hut it s* hap­
 pencd thr.t tJiis &#x27;olijtpl, by l&#x27;easori of &lt;S5ore ftr»  
 gent&#x27; tvus .dsftrmt/HVsnl; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813091101:0602/pct:48.357756442647805,14.761120263591433,44.669024759979784,83.87149917627677/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813091101:0602/pct:48.34554180348573,14.758688848624608,44.66405657994443,83.86180200955361/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -725,7 +725,7 @@ a memorial to Congress urging a repeal of the
 law; to correspond with similar committees in  
 other counties; if necessary, to call meetings o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661381:1850110601:0465/pct:32.80079174324897,30.372460496613996,15.35416372119327,6.704288939051919/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661381:1850110601:0465/pct:32.80079174324897,30.379984951091046,15.35416372119327,6.700526711813393/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

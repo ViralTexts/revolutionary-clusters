@@ -95,7 +95,7 @@ sidered those principles and all the |
   
 And white-robed innocence from heaven descend
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296187:1842100101:1097/pct:35.316846986089644,239.81494080827324,70.40185471406491,3.701183834535311/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296187:1842100101:1097/pct:8.834332109027644,59.95373520206831,17.610670790643727,0.9252959586338277/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -151,7 +151,7 @@ Returning Justice lift aloft her scale ; &#x27;
 Peace o&#x27;er the world her olive-branch extend ;  
 And white-robed Innocence from heav&#x27;n descend 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848093001:0342/pct:66.04736916749397,19.025600541333034,15.614806410438236,10.093605503552498/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848093001:0342/pct:66.05209662931972,19.025600541333034,15.61953387226398,10.101124017894064/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -242,7 +242,7 @@ Peace o&#x27;er the world her- olive branch ex­
 tend.And white robed Innocence from Heaven  
 descend
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_garwood_ver02:data:sn84029386:00237285232:1890020601:0305/pct:93.6574074074074,58.01129943502825,16.234567901234566,13.107344632768362/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_garwood_ver02:data:sn84029386:00237285232:1890020601:0305/pct:70.25775582651644,43.51412429378531,12.177805216854454,9.830508474576272/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

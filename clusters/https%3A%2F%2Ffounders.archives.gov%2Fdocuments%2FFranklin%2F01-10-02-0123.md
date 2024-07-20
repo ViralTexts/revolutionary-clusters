@@ -442,7 +442,7 @@ compared to America is but a stepping-
 stone in a brook, scarce enough of it  
 above water to keep our shoes dry.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_elk_ver01:data:sn91068084:0029602322A:1894113001:0515/pct:6.902887139107611,80.90117767537123,14.63254593175853,2.6625704045058884/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_elk_ver01:data:sn91068084:0029602322A:1894113001:0515/pct:5.184407402546266,60.675883256528415,10.972568578553616,2.007168458781362/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -124,7 +124,7 @@ In a new and more elegant Edition,
 Revised and corrected  
 By the Author
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530194:1844012501:0412/pct:52.114989733059545,16.93006529762468,49.47296372347707,40.11545377117441/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530194:1844012501:0412/pct:17.371663244353183,5.643355099208227,16.49098790782569,13.371817923724803/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -161,7 +161,7 @@ revised and corrected
 by  
 ThE AUTHOR.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212471513:1870121701:0418/pct:30.92948717948718,145.8153805979893,49.19871794871795,17.913565739652697/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212471513:1870121701:0418/pct:7.733921057904228,36.453845149497326,12.302143858946103,4.478391434913174/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -189,7 +189,7 @@ Jifviicdand corrected
 by  
 The Author.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_dyerbrook_ver01:data:sn82014248:00332895928:1875110901:0198/pct:17.228739002932553,22.294895492677377,11.381964809384165,5.715910706668563/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_dyerbrook_ver01:data:sn82014248:00332895928:1875110901:0198/pct:17.225581821513654,22.29172590275803,11.384460326186549,5.718652260449247/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -220,7 +220,7 @@ believed, appear onoe more in a new and more perfect
 edition, corrected and amended by the author. He wag  
 bom January 6, 1706; died , 17
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chester_ver02:data:sn82016187:00211102305:1881110501:0090/pct:102.8603477285474,13.315190980658956,22.50420639371845,4.49995140441248/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chester_ver02:data:sn82016187:00211102305:1881110501:0090/pct:77.17772478608501,9.991252794246282,16.888764202552952,3.372533773933327/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -243,7 +243,7 @@ appear once more in a new and more perfect
 edition, corrected and amended by the author.  
 He was born January 6V 1706; died , 17
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_dole_ver01:data:sn83040340:00237283168:1882012001:0432/pct:98.93579902302861,10.562431074623207,20.743196092114445,5.1709349344443085/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_dole_ver01:data:sn83040340:00237283168:1882012001:0432/pct:65.97452451579132,7.045705183188335,13.837026696911535,3.4432054895233426/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -265,7 +265,7 @@ appear once more in a new- and more perfect
 edition, corrected and amended by the author.  
 He was born Jauuary ti, 1700; died —, 17—
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588289:1882012101:0844/pct:65.2109075415424,11.609930132302662,17.36259054111632,4.32585104801546/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588289:1882012101:0844/pct:50.54485415520088,8.997695852534562,13.467253714914694,3.360215053763441/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -380,7 +380,7 @@ edition, corrected and amended by the
 author. He was born January 17. 1706.  
 Died,-, 17—. B. F
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_elliot_ver01:data:sn87068079:00332896453:1884040301:0264/pct:62.284400153315445,31.240724250519442,10.981218857799924,11.130899376669635/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_elliot_ver01:data:sn87068079:00332896453:1884040301:0264/pct:62.27246598965319,31.236088440421426,10.98390496263652,11.132957412078943/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -522,7 +522,7 @@ In a new and elegant edition.
 Revised and corrected by  
 The Author
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:0041562394A:1894061601:0115/pct:24.901883830455258,34.40459110473458,11.30298273155416,5.710186513629842/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:0041562394A:1894061601:0115/pct:24.90842490842491,34.40937350549976,11.30952380952381,5.71975131516021/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -550,7 +550,7 @@ MORE, IN A NEW AND MORE
 PERFECT EDITION, CORRECTED AND  
 AMENDED BY THE AUTHOR.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00542865994:1895062001:0478/pct:63.59139784946237,30.492480094367444,13.89247311827957,10.10026540843409/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00542865994:1895062001:0478/pct:63.57772522038271,30.48798466755123,13.894861320146205,10.102462037446557/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

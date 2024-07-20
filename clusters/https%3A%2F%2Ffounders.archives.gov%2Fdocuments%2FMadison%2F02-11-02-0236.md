@@ -133,7 +133,7 @@ I appears to hang over this affair, and
 which i threatens the interest  
 of our fellow citizen-..
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806022601:0002/pct:40.60935799782372,29.583276028056662,19.56474428726877,55.17810479988997/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806022601:0002/pct:40.60935799782372,29.587860450190252,19.571998549147626,55.18268922202356/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -226,7 +226,7 @@ Channel neglect ?
   
 port; sortnight after clearing out at the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1806022601:0257/pct:1.1954175659970114,13.662567255956956,22.663124688693344,52.22905457340507/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1806022601:0257/pct:1.1952191235059761,13.661254683447018,22.66489597166888,52.22723924808659/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -289,7 +289,7 @@ Mdlltciy intereotcd in the clcanng Up
 dmyfss&#x27;siy Which appears to hang on-F  
 si&#x27;ss&#x27;usi and which ssicriously thra,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1806022601:0257/pct:2.09198074049477,33.39738662567256,21.766561514195583,59.675249807840125/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1806022601:0257/pct:2.091633466135458,33.39417811509271,21.7684816290394,59.67271912127326/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -387,7 +387,7 @@ immediately interested in the clearing up of a miste­
 ry which appears to hang over this affair, and which  
 seriously threatens the interest of our fellow citizen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806022801:0983/pct:73.88059701492537,23.59980852082336,20.967741935483872,49.545236955481094/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806022801:0983/pct:73.86281588447653,23.596043395022335,20.968712394705175,49.541320995532864/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -493,7 +493,7 @@ mediately mrerefled in the clearing up of a mi fiery
 which appears to hang over this affair, and which  
 ferioufly threatens the intcre.&#x27;l of our fallow-citizens
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1806022801:0375/pct:78.11857116139892,6.513166263834118,18.34673648775014,54.39511512530213/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1806022801:0375/pct:78.1039640987285,6.512337827524803,18.349538768386935,54.39243619096074/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -620,7 +620,7 @@ to hang over this affair, and «hich seii­
 ously threatens the interest of our fel­  
 low-citizens.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806030401:0079/pct:59.55334987593052,4.1698841698841695,36.82000381752243,91.42857142857143/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806030401:0079/pct:59.541984732824424,4.16934757431476,36.81933842239186,91.42109552610131/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -886,7 +886,7 @@ ceedings could have been checked and
 prevented as the true causes of their mis­  
 fortunes ?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1806030701:0572/pct:73.39887640449439,8.848766535573828,22.219101123595507,86.57490168037182/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1806030701:0572/pct:73.37826453243471,8.847184986595174,22.21988205560236,86.5638963360143/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -910,7 +910,7 @@ to hang over this affair, and which seri­
 ously threatens the interest of our fellow  
 citizens.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1806030701:0573/pct:7.688022284122563,3.820863692909188,19.832869080779943,7.783899058112671/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1806030701:0573/pct:7.685881370091896,3.8201847903340442,19.834307992202728,7.786958066808813/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1168,7 +1168,7 @@ would hive permitted his tldcft {on
 co attend General Miranda in th .  
 djpredit iy i\/eii:ionf u* ih« can^
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895060:1806031701:0795/pct:76.19941949803653,65.99752933909821,18.029708041659553,30.7597282273008/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895060:1806031701:0795/pct:76.18641174462273,65.99073597529593,18.030897917377946,30.759135357694287/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1225,7 +1225,7 @@ Miranda’s attempt takes place, to lay ;
 sin embargo on all property within j  
 their jtinfdi£T.ton ? j
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895060:1806031701:0796/pct:5.18955349620893,5.443920442895222,18.48357203032856,31.351240516711094/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895060:1806031701:0796/pct:5.188679245283019,5.4433623782675555,18.484669811320753,31.35058944131215/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1339,7 +1339,7 @@ terv which app&#x27;c:%rs to hang over s affair,
 and which seriously threatens the interest of  
 our fellow citizens 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1806031801:0254/pct:26.713349225268175,10.588235294117647,15.792610250297974,56.374940219990435/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1806031801:0254/pct:26.723281684545093,10.588235294117647,15.792610250297974,56.38131675434401/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -153,7 +153,7 @@ Washington; but, as you are on the spot, I leave it to
 you to give such orders as to evacuating Mount Wash-­  
 soton ae you may judge best, and so far revoking th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:00271743993:1876111601:0584/pct:196.70733745612569,118.46456237715343,46.531840213939496,11.781708868077235/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:00271743993:1876111601:0584/pct:65.56911248537523,39.48818745905114,15.510613404646499,3.927236289359078/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

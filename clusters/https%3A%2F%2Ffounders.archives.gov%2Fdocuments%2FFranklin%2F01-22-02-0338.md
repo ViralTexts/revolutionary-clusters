@@ -57,7 +57,7 @@ e l able to procure proper materials for
 the importance of each colony.  
 That no perlon (hall speak mor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1774121601:0677/pct:2.7370689655172415,86.24811100425883,27.93103448275862,5.5364747904932/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1774121601:0677/pct:2.1323979733867824,66.84884835149235,21.64690162017705,4.294282570891152/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -92,7 +92,7 @@ them to be made public.
 Resolved, That a comniittee be appointed  
 to state the rights
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774123001:0376/pct:10.540184453227932,19.66817496229261,27.36056214317084,23.15233785822021/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774123001:0376/pct:10.547504025764896,19.66817496229261,27.353242570633874,23.157365510306686/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -253,7 +253,7 @@ ity; not as the delegat* d agent-of the govern­
 onies, prepared petition- and resolved again-t  
 &quot; the Importation ot British goods and the ex
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_hemet_ver01:data:sn94052989:00175040341:1894040301:0041/pct:1.0108987521718529,76.04093975343103,14.105196651397883,5.326820190742033/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_hemet_ver01:data:sn94052989:00175040341:1894040301:0041/pct:1.0214289475069762,76.04869349461114,14.105196651397883,5.326820190742033/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -278,7 +278,7 @@ I sovereign authority not as the dele­
 gated agents of the governments of the  
 colonies de facto but in virtue o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_boozer_ver01:data:sn85058130:0017504842A:1894040601:0179/pct:64.87789203084833,45.50619247812749,19.344473007712082,6.760595386887854/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_boozer_ver01:data:sn85058130:0017504842A:1894040601:0179/pct:43.2588783544914,30.33746165208499,12.903744174835289,4.510851039654585/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -165,7 +165,7 @@ jor Lee.’’
 the remarkable prudence, address, and  
 bravery displayed,&quot; and emphasized lt b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_endeavour_ver01:data:sn86063034:00414182197:1896110801:0657/pct:55.14070259334191,92.95065458207452,16.185396358285818,1.107754279959718/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_endeavour_ver01:data:sn86063034:00414182197:1896110801:0657/pct:42.73971300959802,72.04073289478575,12.54870284139504,0.8622291596982198/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -186,7 +186,7 @@ which congress characterized by a vote of
 thanks &quot;for the remarkable prudence, ad­  
 dress, and bravery displayed,&quot; and em
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_edwards_ver01:data:sn86063624:00211109385:1896110801:0821/pct:25.18953752843063,57.31707317073171,16.64139499620925,3.727827050997783/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_edwards_ver01:data:sn86063624:00211109385:1896110801:0821/pct:18.907642708135786,42.98780487804878,12.497629432960364,2.7993348115299335/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -207,7 +207,7 @@ characterized by a vote of thanks &quot;for
 the remarkable prudence, address and  
 bravery displayed,&quot; and emphasized it b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_grace_ver02:data:sn83045604:00202199392:1896112201:0780/pct:59.727457233980864,123.3259981138007,37.12670339228762,8.655559048517238/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_grace_ver02:data:sn83045604:00202199392:1896112201:0780/pct:19.909152411326954,41.10866603793357,12.375567797429207,2.8851863495057457/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -236,7 +236,7 @@ privates. David hiekiniey is also said to have
 istinguished himself for bravery at Brandy­  
 wine, Germantown, and Monmouth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:0017504291A:1897010301:0050/pct:233.3843797856049,30.902570233114165,50.91883614088821,21.578003586371786/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:0017504291A:1897010301:0050/pct:58.34609494640122,7.725642558278541,12.729709035222053,5.394500896592946/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -258,7 +258,7 @@ for ‘the remarkable prudence, address
 and bravery displayed,’ and empha­  
 sized it by presenting a gold medal t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_diamondville_ver05:data:sn83002748:00514150151:1898120101:0767/pct:29.1031726205346,41.171875,12.990257307019736,4.39453125/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_diamondville_ver05:data:sn83002748:00514150151:1898120101:0767/pct:29.12190856857357,41.1767578125,12.984011991006746,4.404296875/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -280,7 +280,7 @@ for ‘the remarkable prudence, address
 and bravery displayed,’ and empha­  
 sized it by presenting a gold medal t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_illif_ver01:data:sn89052133:00383341152:1898120201:0317/pct:30.739198334200935,42.4378312270689,12.41540864133264,4.2193232776192415/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_illif_ver01:data:sn89052133:00383341152:1898120201:0317/pct:30.739198334200935,42.44292702812882,12.447943779281625,4.214227476559315/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -297,7 +297,7 @@ sized it by presenting a gold medal t
 and bravery displayed,’ and empha­  
 sized It by presenting a gold medal t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_leadville_ver01:data:sn90051167:00340586049:1898120201:0299/pct:36.91045796308954,41.62260711030082,11.255411255411255,1.4038286235186874/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_leadville_ver01:data:sn90051167:00340586049:1898120201:0299/pct:36.921850079744814,41.62260711030082,11.249715197083619,1.422060164083865/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

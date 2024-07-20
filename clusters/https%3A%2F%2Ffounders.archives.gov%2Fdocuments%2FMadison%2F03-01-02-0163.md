@@ -51,7 +51,7 @@ ought to limit our views. Nothing should ever
 be accepted, which would require a navy to  
 defend it.&quot;- To James Madison, PresidENt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290094:1858070201:0008/pct:20.577027762656506,286.9325413661434,37.23462166575939,34.78998727195587/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290094:1858070201:0008/pct:5.144957125357289,71.73313534153586,9.309922417313189,8.697496817988968/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -89,7 +89,7 @@ principle which ought to limit our views. Nothing j
 should ever bo acquired which would require a navy to I  
 defend it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82006534:00415661095:1858071001:0038/pct:83.79496975485515,30.168855534709195,17.319325055714742,11.58223889931207/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82006534:00415661095:1858071001:0038/pct:83.80558208638438,30.17302480717115,17.329937387243977,11.586408171774025/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -132,7 +132,7 @@ which ought to limit our views. Nothing
 should ever be acquired which wonld require a  
 navy to defend it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00415667309:1858071701:0067/pct:45.62641083521445,9.184149184149184,19.723476297968396,21.864801864801866/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00415667309:1858071701:0067/pct:34.23169183011147,6.888111888111888,14.787639339635954,16.41025641025641/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -255,7 +255,7 @@ and this develops the principle which oig‘
 limit our views. Nothing should ever b-*&#x27;  
 cepted which would require a navy to J&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn82014282:00414212438:1858080401:0377/pct:88.68784936746101,68.07647121649045,10.194174757281553,6.087792374239026/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn82014282:00414212438:1858080401:0377/pct:88.67480511839976,68.06920119607005,10.196352404765406,6.0898120461341305/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -284,7 +284,7 @@ which ought to limit our views. Nothing
 ! should ever be accepted which would require  
 ■ a navy to defend it.— To James Madison
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_eclipse_ver01:data:sn82016488:00513688039:1858081301:0531/pct:18.925408974936214,52.70740188772976,12.9971484316374,8.283656234475906/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_eclipse_ver01:data:sn82016488:00513688039:1858081301:0531/pct:18.93041172644955,52.70740188772976,13.002151183150733,8.291935750952144/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -368,7 +368,7 @@ the prlnclplo which ought to limit our views. Nothing &lt;
 should ever be accepted which would require a navy to  
 . I..I i* &quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82006534:00415661101:1859012701:0093/pct:-0.5006459948320413,33.877653561110414,17.877906976744185,13.70430850395679/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82006534:00415661101:1859012701:0093/pct:-0.5060292850990525,33.88184063978562,17.88867355727821,13.708495582631997/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -419,7 +419,7 @@ by us without a navy, and this developes the principle
 which ought to limit our viewa. Nothinz shauld ever be ae  
 I which would require a navy to defend it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743312:1859012701:0208/pct:97.89347491008735,156.28615275646322,52.71450590854598,40.18415771455554/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743312:1859012701:0208/pct:32.63115830336245,52.09538425215441,17.571501969515328,13.39471923818518/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -448,13 +448,13 @@ i course, in the first war; and we should have
 1 such an empire for Liberty as she has never  
 &#x27; surveyed since the creation.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1859031001:0478/pct:63.80963797650443,59.926192278576835,11.687844641572765,2.4318697956093867/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1859031001:0478/pct:63.80963797650443,59.926192278576835,11.69184048589467,2.4350239717385818/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The United States democratic review_](https://archive.org/details/sim_united-states-democratic-review_1859-04_43/page/n24/mode/1up?view=theater)
+## [From _The United States Democratic Review (1856-1859)_](https://archive.org/details/sim_united-states-democratic-review_1859-04_43/page/n24/mode/1up?view=theater)
 
 #### 1859-04-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -527,7 +527,7 @@ suaded no flflktitution was ever before so
 well calculated as ours for extensive em­  
 pire and self-government.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014489:00279557244:1862020801:0025/pct:16.142857142857142,71.02642411366352,11.303571428571429,10.436860974638162/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014489:00279557244:1862020801:0025/pct:16.15625,71.02974372593282,11.303571428571429,10.446819811446023/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -580,7 +580,7 @@ was ever i,fore so well calculated as&quot;
 ours for extensive empire and self  
 government
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_adam_ver02:data:sn84026526:00295879683:1883051001:0052/pct:109.54595185995623,30.16815034619189,16.315645514223196,7.0447301901307835/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_adam_ver02:data:sn84026526:00295879683:1883051001:0052/pct:82.20002736352443,22.628860314320256,12.245177178820633,5.286295197274426/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -603,7 +603,7 @@ ought to limit our views.
 which would require a navy to defend  
 it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_floydcouncil_ver01:data:sn93067777:00237287034:1893020801:0113/pct:60.563919367185505,75.76829949711306,11.571829548354172,5.066120320357609/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_floydcouncil_ver01:data:sn93067777:00237287034:1893020801:0113/pct:60.563919367185505,75.77140373750544,11.571829548354172,5.066120320357609/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -657,7 +657,7 @@ ceiving Cuba that no limit can then be
  drawn to our future acquisitions. Cuba  
  can be defended by us without a nav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175042854:1896013001:0393/pct:17.60772659732541,150.28554253080853,63.59583952451709,8.536218815749924/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175042854:1896013001:0393/pct:4.4019316493313525,37.57138563270213,15.898959881129272,2.134054703937481/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -689,7 +689,7 @@ drawn to our furure acquisitions. Cuba can be defended by us without a navy, and
 this develops the principle which ought to limit our views. Nothing should ever be  
 accepted which would require a navy to defend i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_delta_ver01:data:sn86071197:00175034833:1896031601:1121/pct:213.53503184713375,197.55566716892685,92.67515923566879,34.55549974886991/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_delta_ver01:data:sn86071197:00175034833:1896031601:1121/pct:53.39438582520406,49.38891679223171,23.173402349193708,8.638874937217478/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -728,7 +728,7 @@ include the North in our Union, and we
 shall have such an empire for Liberty as she  
 has never surveyed since the creation.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_iceman_ver01:data:sn88064111:00280761680:1897070301:0716/pct:3.4386096056811812,12.242883001480994,30.498972154737434,85.91410235313477/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_iceman_ver01:data:sn88064111:00280761680:1897070301:0716/pct:3.4386096056811812,12.244897959183673,30.498972154737434,85.92824226464779/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -754,7 +754,7 @@ be accepted which would require
 a navy to defend it.&quot;  
 Thus spoke Jefferson. No
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_black_ver02:data:sn84020751:00415667851:1897081201:0357/pct:23.153978248425872,58.55966572446848,14.13852318259874,8.61496866166892/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_black_ver02:data:sn84020751:00415667851:1897081201:0357/pct:17.37512523257478,43.92282167875138,10.60541004723057,6.464298881651715/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -777,7 +777,7 @@ views. Nothing should ever be ac­
 cepted which would require a navy  
 to defend it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:00332892150:1897121601:0644/pct:21.867407150295037,23.70388528005883,13.085734120097188,4.718715528863831/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:00332892150:1897121601:0644/pct:21.867407150295037,23.70388528005883,13.085734120097188,4.726886464844548/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -793,7 +793,7 @@ to defend it.
 said: “Nothing should ever be accepted  
 which would require a navy to defend it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:00415665738:1897122501:0514/pct:2.6748133061778683,80.61547898987834,12.410047522063815,0.8997035067988958/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:00415665738:1897122501:0514/pct:2.6748133061778683,80.61547898987834,12.419099343742928,0.9031114746276795/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -814,7 +814,7 @@ the principle which ought to limit our
 views Nothing should ever be accepted  
 which v.v lid reeiuiro a navy to defend it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dred_ver01:data:sn86063615:00211109130:1898010401:0729/pct:75.6559220389805,60.44456716830043,16.43553223388306,3.368769846748585/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dred_ver01:data:sn86063615:00211109130:1898010401:0729/pct:56.778548659291204,45.3403285931244,12.338271141946372,2.526577385061439/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -842,7 +842,7 @@ a
   
 navy to defend it.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_europium_ver01:data:sn88076432:00271740712:1898011301:0480/pct:7.571649883810999,73.86302111532214,17.641363284275755,9.244721169463995/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_europium_ver01:data:sn88076432:00271740712:1898011301:0480/pct:6.067647818228763,59.09402634903447,14.107926671830622,7.399386392347951/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -864,7 +864,7 @@ Nothing should ever be accepted
 which would require a navy to defend  
 it.” These words exactly lit th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_irwin_ver01:data:sn86092151:00514157522:1898011401:0433/pct:5.442334414080593,70.79685413266063,17.4617878647522,6.039471731710936/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_irwin_ver01:data:sn86092151:00514157522:1898011401:0433/pct:5.441074322759898,70.78635014836796,17.46353322528363,6.042284866468843/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -885,7 +885,7 @@ ple which ought to limit our views.
 Nothing should ever be accepted  
 which would require a navy to defend 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kite_ver01:data:sn86092182:00514157510:1898011901:0013/pct:5.355024572106423,93.04918032786885,10.320284697508896,3.619672131147541/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kite_ver01:data:sn86092182:00514157510:1898011901:0013/pct:5.354117248390376,93.03697875688434,10.322771941714674,3.622475740886441/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -959,7 +959,7 @@ a navy, and this develops tht
 principle which ought to limit oui j  
 views
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_elgincatfishstomp_ver02:data:sn93067841:0029586249A:1898081801:0121/pct:4.657866788044303,36.44711842938569,14.671521772113488,5.161494616846105/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_elgincatfishstomp_ver02:data:sn93067841:0029586249A:1898081801:0121/pct:4.657866788044303,36.45063683062416,14.676579173620594,5.161494616846105/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -991,7 +991,7 @@ in that direction.”
 It may be argued that Jefferson was  
 wrong in asserting that we should con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:00332892125:1898122901:0631/pct:20.633365981064316,10.985977696809098,14.316030035912505,4.383349895108756/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:00332892125:1898122901:0631/pct:20.64424855805855,10.989658091347392,14.316030035912505,4.383349895108756/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1051,7 +1051,7 @@ no constitution was ever before so well
 calculated as ours, for extensive empire  
 and self government.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jesse_ver01:data:sn82016014:00295871441:1899081401:0301/pct:5.651547876169906,90.91326999693534,16.918646508279338,3.999387067116151/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jesse_ver01:data:sn82016014:00295871441:1899081401:0301/pct:4.249954979290473,68.18878332822555,12.695840086439762,3.003371130861171/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1105,7 +1105,7 @@ ever before so well calculated as ours for
 extensive empire and self-government  
 His followers seem to be straying awa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_charlie_ver01:data:sn86071197:00175034936:1899111201:0831/pct:110.22997620935766,355.3425471838312,104.203013481364,24.44642591766979/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_charlie_ver01:data:sn86071197:00175034936:1899111201:0831/pct:27.557494052339415,88.8356367959578,26.050753370341,6.111606479417447/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1123,7 +1123,7 @@ Constitution was ever before so well calcu­
 lated as ours for extensive empire and self­  
 Government.&quot; The Democrats, while pro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_rumi_ver01:data:sn83030272:00206539045:1899111901:0263/pct:132.25563909774436,369.83071342200725,49.54887218045113,8.464328899637243/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_rumi_ver01:data:sn83030272:00206539045:1899111901:0263/pct:33.070125963526976,92.45767835550181,12.389546907313404,2.1160822249093107/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1143,7 +1143,7 @@ and self-government. &quot; .
 His followers seem to be straying  
 away from the Jeffersonlan faith whe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_gmc_ver02:data:sn86064199:00212477515:1899112001:0288/pct:103.46374730796842,99.81976985997504,18.933955491744438,3.923471509774019/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_gmc_ver02:data:sn86064199:00212477515:1899112001:0288/pct:77.6441012749147,74.86482739498129,14.203627222122464,2.953001525024262/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1195,7 +1195,7 @@ before so well calculated as ours for ex­
 tensive empire and self-government.&quot;  
 so o t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_hoquiam_ver01:data:sn83045604:00202199677:1899120201:0018/pct:177.54473734847028,45.79004496821213,50.18279776794304,22.127461621956893/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_hoquiam_ver01:data:sn83045604:00202199677:1899120201:0018/pct:44.38618433711757,11.447511242053032,12.54569944198576,5.531865405489223/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

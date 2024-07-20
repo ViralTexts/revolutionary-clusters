@@ -83,7 +83,7 @@ definitively tali rrotmd, I can­
 not be wrong in concluding that you |  
 will immediately take yours.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809031001:0002/pct:40.79078084641367,2.328014648182056,34.41287502483608,91.17185456447815/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809031001:0002/pct:40.80402675673886,2.328014648182056,34.41287502483608,91.18057372046385/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -141,7 +141,7 @@ as, the cmpn-or had by a special (,{ctsisisz&#x27;ass&#x27;siss
 confisc 11c1l tv, 0 0! (: ur ships and the 1r , ?.l—  
 goes,(thc]u1us 71} nrv, a&#x27;ml Junin- ) sc. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216092:1809031001:0316/pct:29.71968406380672,4.638350808601386,48.102834133498526,91.21201350630886/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216092:1809031001:0316/pct:29.715082068751936,4.637938693913816,48.1005471250129,91.20687102028728/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -264,7 +264,7 @@ supposing that the emperour has definitively taken
 his ground, I cannot be wrong in concluding, that  
 you will immediately take yours.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809031301:0382/pct:3.762770994268627,25.08028259473346,20.807376027909296,20.889531149646757/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809031301:0382/pct:3.761833582461385,25.07625622090223,20.80842052815147,20.89019104190079/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -304,7 +304,7 @@ g’and wi.ee bu.tigiit t&lt;&gt; .. cl si-, md revet) da...
 xonfitvulcd two .four ships and their cargoes,  
 (the Julius lli-nsy, ana Jtminta} lor w:mt\.f 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809031401:0390/pct:42.28955007256894,11.977786192098952,17.307692307692307,13.833144011106905/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809031401:0390/pct:42.281879194630875,11.976274608783443,17.31059918979382,13.83560491334343/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -365,7 +365,7 @@ taken hi ; ground, i cannot be w ong in
 concluding that you vih imniedialeiy take  
 yours.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809031401:0089/pct:5.191873589164786,16.17704154264268,17.55079006772009,30.12812216901773/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809031401:0089/pct:5.190897122437465,16.17494824016563,17.553758385054227,30.128536922015183/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -393,7 +393,7 @@ clared, “ that these decrees should suffer no change”
 and “that the Americans should be compelled to  
 take the positive character of either alliet or cne
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809032201:0397/pct:53.0786629806484,50.501131587455546,20.758984669514952,2.764306498545102/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809032201:0397/pct:53.06532663316583,50.49296912881849,20.76005025125628,2.767900436398901/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -691,7 +691,7 @@ na; supported by the whole weight of the
 (t&#x27;-. &quot;med thenche-decrees should sun-n&#x27;: no  
 When and that the Amerieam thoul
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216110:1810061901:0598/pct:2.0568070519098924,63.83286693042555,21.221025138752857,14.493872430763293/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216110:1810061901:0598/pct:2.056471356291823,63.826707834812815,21.223002012948154,14.495690209700244/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -708,7 +708,7 @@ of one hundred million francr, in order •• that the
 Americans should be compelled to take the positive  
 character ol either aliis or enenu*” general Arm
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810062201:1145/pct:74.36404050382811,38.616575298290876,20.770560632254877,2.0638503708481135/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810062201:1145/pct:74.34567901234568,38.61034983072707,20.771604938271604,2.0675479606641947/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -727,7 +727,7 @@ cannot be wrong in concluding that you will imme­
 diately take yours.” JM.  
 IMPORTANT DOCUMENT
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810062201:1145/pct:74.31464559150407,40.64817800709449,20.894047913064956,3.950338600451467/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810062201:1145/pct:74.29629629629629,40.64162502015154,20.895061728395063,3.953732065129776/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -780,7 +780,7 @@ wrong in concluding that you -jsill immediate*# take
 yours.” &#x27;  
 !
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810062201:1145/pct:74.21585576685601,54.15994840374073,21.116325018523092,25.701386649467914/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810062201:1145/pct:74.19753086419753,54.15121715299049,21.117283950617285,25.701273577301304/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -904,7 +904,7 @@ On Thursday laat Mr Jackson entered
 the loyal city of New London, the resu  
 dence of many a little tory sachem, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810062901:0212/pct:23.02405498281787,4.193671368661837,36.52157311951127,90.26559918668191/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810062901:0212/pct:23.019660240503914,4.193138500635324,36.52096456066679,90.25836509953409/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -927,7 +927,7 @@ dence of many a little tory sachem, an
 *** aU ly take yours.” Witness the concealment of  
 Armstrong’s despatch of the 30lh Aug. 1808, o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1810081001:0045/pct:52.883675464320625,56.83430045132173,20.869990224828936,6.0606060606060606/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1810081001:0045/pct:52.87075494747129,56.82514101531024,20.87099926704129,6.063658340048348/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -948,7 +948,7 @@ ary 1808, when “in a council of administration,
 “ ricans should be compelled to take the positive  
 “ character of either allies or enemies T
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1810110201:0189/pct:51.88492063492063,18.565400843881857,21.006944444444443,4.592664719246998/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1810110201:0189/pct:51.87205554178031,18.562388447184812,21.00793454004463,4.59597598572124/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1049,7 +1049,7 @@ mericans should be compelled to take the
 positive character of either allies or ene­  
 mies” But with all the baseness whic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1811071901:0120/pct:53.05594734367654,83.4145642201835,21.932299012693935,2.9529816513761467/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1811071901:0120/pct:53.04347826086956,83.40260857101906,21.933019976498237,2.956141608141035/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

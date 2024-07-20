@@ -62,7 +62,7 @@ to the second quadrennial election of President.
 To the citizens of the City and County of Phila-­  
 delphia, who in town meeting had expressed thei
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hugo_ver01:data:sn83030214:00206531186:1874091401:0590/pct:198.1086712614201,115.56816865516043,47.187049206603625,13.170392679254025/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hugo_ver01:data:sn83030214:00206531186:1874091401:0590/pct:66.0362237538067,38.522722885053476,15.729016402201207,4.390130893084675/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -85,7 +85,7 @@ ever, ineligibility forever after; and I wish it were
 now ancexed to the second quadrennial election of  
 Presinent.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206533468:1875051701:0708/pct:187.39746457867264,120.55852644087938,49.66442953020134,11.170528817587641/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206533468:1875051701:0708/pct:46.87558291363552,30.139631610219844,12.42305540011192,2.7926322043969103/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -105,7 +105,7 @@ tion for life, or even for long terms of years.
   
 of the past. His was one of those
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dorothea_ver01:data:sn86063984:00200292819:1875052601:0814/pct:92.44897959183673,151.44964831017327,136.6326530612245,20.31223194372963/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dorothea_ver01:data:sn86063984:00200292819:1875052601:0814/pct:23.118142383261034,37.86241207754332,34.16687930594539,5.078057985932407/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -134,7 +134,7 @@ after; and I wish it were now annexed to
 the second quadriennial election of Presi  
 dent
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn84038328:00280763391:1875052801:0699/pct:332.4814509480627,142.4174414876563,43.03380049464138,30.907342096825907/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn84038328:00280763391:1875052801:0699/pct:83.17178799752526,35.604360371914076,10.765106207465458,7.726835524206477/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -160,7 +160,7 @@ to choose its agents st its own good pleas­
 are. There is a school of politicians who  
 are in the habit of exalting the moment
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_eritrea_ver01:data:sn84026844:00202193456:1880021601:0163/pct:10.936329588014981,74.19469026548673,12.709113607990012,5.68141592920354/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_eritrea_ver01:data:sn84026844:00202193456:1880021601:0163/pct:10.942571785268415,74.20353982300885,12.727840199750313,5.6902654867256635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -494,7 +494,7 @@ their mate. With my tharks for the paper in­
 closed, nccept the assmmnee of my esteem and  
 respect. TH. JEFFEREON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn92064025:00514153383:1884122401:0535/pct:84.15394824153948,9.697379870443779,12.36894492368945,38.42212124141932/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn92064025:00514153383:1884122401:0535/pct:84.16279584162795,9.697379870443779,12.373368723733687,38.431789616165524/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -603,7 +603,7 @@ their stale. With my llinnks for the paper in­
 closed, aocept the assurance of my esteem and  
 respect. Th. Jkitehsos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn90000523:00415629588:1884122501:0210/pct:36.56576980568012,10.859854829704076,14.53662182361734,47.278056951423785/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn90000523:00415629588:1884122501:0210/pct:27.43412446271725,8.151870463428253,10.91384787890114,35.455053042992745/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -662,7 +662,7 @@ aft
   
 to the 2nd
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_fennal_ver01:data:sn96086441:00415628869:1895083001:0057/pct:61.27753303964758,48.110530246452576,17.995594713656388,9.48469006721434/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_fennal_ver01:data:sn96086441:00415628869:1895083001:0057/pct:45.979290592641554,36.086631814787154,13.505177351839611,7.109783420463032/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -681,7 +681,7 @@ making public functionaries Independent
 of tho nation for life, or even for long  
 terms of years
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_atherton_ver01:data:sn84026355:00211100229:1897061101:0672/pct:55.678519593613935,53.08827548510522,15.892597968069666,3.7168625307461056/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_atherton_ver01:data:sn84026355:00211100229:1897061101:0672/pct:41.78616808858232,39.819622847772614,11.925939371936831,2.787646898059579/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -729,7 +729,7 @@ None Such to Name.
 From the Kansas City Times: If  
 the president can mention the name o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_caesar_ver01:data:sn82002441:00517011800:1899071501:0204/pct:62.21562809099901,82.21384509938314,13.63336630398945,7.996344528215673/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_caesar_ver01:data:sn82002441:00517011800:1899071501:0204/pct:62.226618309704364,82.21384509938314,13.63336630398945,8.00396009443302/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -753,7 +753,7 @@ in making public functionaries. Inde­
 pendent of the nation for life, or even  
 for long terms of years.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_marmaduke_ver02:data:sn89066695:00415661794:1899072001:0022/pct:53.84615384615385,28.924833491912466,13.498168498168498,6.30691858094332/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_marmaduke_ver02:data:sn89066695:00415661794:1899072001:0022/pct:40.40681693238043,21.69362511893435,10.133773135422393,4.730188935707489/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -874,7 +874,7 @@ safety in making public function­
 aries dependents of the nation for  
 life, or even for long terms of years
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068402:00295878691:1899120701:0404/pct:95.91428571428571,41.9984973703982,14.742857142857142,6.794032413867124/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068402:00295878691:1899120701:0404/pct:71.95313616230891,31.501556294944724,11.05872267466781,5.098207577546421/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -80,7 +80,7 @@ extinguished, not exceeding in the whole,
 six millions of acres, two millions in the Il­  
 linois territory, north of the Illinois river
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812052801:0171/pct:38.29565217391304,29.445284335387836,16.330434782608695,10.745435515757647/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812052801:0171/pct:38.28899321857068,29.441860465116278,16.333391294267663,10.748062015503876/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -191,7 +191,7 @@ ed in the territory of Michigan, two millions
 in the lllinois territory, north of the lllinois  
 River, two millions ib the territory of Louis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812071501:0652/pct:28.68663594470046,7.465364297817203,45.73732718894009,90.3020033888169/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812071501:0652/pct:28.69212201009436,7.472009036845078,45.74281325433399,90.3020033888169/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -223,7 +223,7 @@ and granting the Military Bounty Lauds.
 P ^1 E it en acted try the Semite and Ihuse ofltepre­  
 « * tentative! of the U. States of America in Von
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812082501:0130/pct:22.756706753006476,61.19985367638093,35.72617946345976,12.632605779782953/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812082501:0130/pct:22.752497225305216,61.19239209948793,35.72573683561475,12.63512964317646/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -239,7 +239,7 @@ P ^1 E it en acted try the Semite and Ihuse ofltepre­
 title&#x27;. An act for designating, surveying,  
 and granting, the military bounty land/&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184285:1815080501:0234/pct:76.10361182050346,21.696227829128155,17.01933600875593,1.4239320509617788/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184285:1815080501:0234/pct:76.08973189859566,21.69351817159985,17.022311386710438,1.4279172390824695/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -265,7 +265,7 @@ and granting, the military bounty land/&#x27;
 gress, entitled “ An a&amp; for designating, survey­  
 ing, and granting, the military bounty land,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1815082201:0363/pct:56.97406340057637,66.97788697788698,16.412103746397694,1.2088452088452089/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1815082201:0363/pct:56.97886647454371,66.98443898443898,16.407300672430356,1.2088452088452089/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -338,7 +338,7 @@ gtiished, not exceeding in the whole si* millions of
 acres, two millions to be surveyed in the territory  
 of Michigan, two millions in the Illinois territory
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816022401:0069/pct:55.911420204978036,61.267080745341616,17.002196193265007,18.012422360248447/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816022401:0069/pct:55.90118938700824,61.25947087318345,17.00518450747179,18.014325342607542/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -359,7 +359,7 @@ guished, notcxceeding in the whole six millions of
 acres, two millions to be surveyed in the territory  
 of Michigan, two millions in the Illinois territory
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816022801:0071/pct:4.391767732451305,53.35294838788771,17.199558985667036,3.788157410812799/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816022801:0071/pct:4.3909608671688405,53.34640843343957,17.202523118378345,3.7917790308082044/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -440,7 +440,7 @@ appropriated and to which the Indian title isextin­
 aci-es, two millions to be surveyed in the territory  
 of Michigan, two millions in the Illinois territory
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816030201:0075/pct:3.498168498168498,49.13253012048193,17.72893772893773,7.156626506024097/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816030201:0075/pct:3.497527925288409,49.12661125165643,17.73179515351279,7.159779946191222/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -475,7 +475,7 @@ guishcil, notexoeeding in cbe whole six millions of
 act es, two million* to so surveyed m tlie territory  
 ot Micnigan, two millions in the Illinois territory&#x27;,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816030601:0079/pct:3.364762432982067,13.62864077669903,17.378443335182105,14.04126213592233/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816030601:0079/pct:3.364140480591497,13.626987016138818,17.381392483056068,14.04360312259839/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -566,7 +566,7 @@ V F. it enacted by tfst• Senate and House of Re­
 presentative* of thr United State* of .America in  
 f &#x27;onsrreu assembled. That the l*rcsilent of Ui
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816030901:0086/pct:8.975277678251523,6.865744706890221,17.03690433536367,3.1697466650348796/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816030901:0086/pct:8.973670069854917,6.864904552129222,17.039823273031224,3.173437754935552/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -587,7 +587,7 @@ guished, not exceeding in the whole six null ions of
 acres, two millions to be surveyed in the ten-itorv  
 of Michigan, two millions in the Illinois territory
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816030901:0086/pct:9.118595485489072,10.0354913719251,17.03690433536367,3.806143678864276/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816030901:0086/pct:9.116962206698908,10.034263338228095,17.039823273031224,3.809756893457334/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -638,7 +638,7 @@ AN ACT
 To provide for designating, •urreytrttf and grant­  
 ing the military bounty lauds.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816031301:0087/pct:3.7757009345794392,9.99143940320411,89.1214953271028,11.153234682646447/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816031301:0087/pct:3.7749953279760793,9.990217657128882,89.11106958200959,11.1559468492704/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -659,7 +659,7 @@ guished,not exceed in* in dte whole six millio&#x27;.i3 of
 acro9, two millions to be surveyed in the territory  
 of Michigan, two millions in the Illiiiois territory
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816031301:0087/pct:3.8130841121495327,22.68558150911092,17.53271028037383,3.6565977742448332/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816031301:0087/pct:3.812371519342179,22.68280753240401,17.535663115928486,3.6602266242765142/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -696,7 +696,7 @@ be surveyed in ihe territory of Michigan, two
 milliens in the Lilicois territory, north of the  
 filinois river, and two miilions in e territory o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1816031901:0484/pct:76.91358024691358,7.014276846679081,17.59259259259259,14.018208152286364/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1816031901:0484/pct:76.91872427983539,7.02117387406028,17.59259259259259,14.014759638595764/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -718,7 +718,7 @@ guished, not exceeding in the whole six millions of
 scies, two millions to be surveyed in the tcrritory  
 of Michigan, two millions in the llinois territory
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1816032001:0255/pct:50.43814958222947,7.478005865102639,22.21316486651722,4.704301075268817/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1816032001:0255/pct:50.45173561578697,7.4861518409905505,22.21316486651722,4.712447051156729/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -818,7 +818,7 @@ be surveyed in the territoty of Michigan, two
 Ailljons in the lilinois territory, north es the  
 Hlinois river, and two millions in the territory of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1816040201:0489/pct:4.86969471332837,9.948578024976388,35.62174236783321,87.30192045335292/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1816040201:0489/pct:4.879622735170018,9.948578024976388,35.62174236783321,87.30891664043097/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -846,7 +846,7 @@ the “ act to previde for designating. survey­
 ing and granting the military bounty lands,”  
 approved the sixth day of May, one thousan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1816061201:0297/pct:24.34643783675913,61.58354263844038,21.65236479744562,2.7389068293266354/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1816061201:0297/pct:24.353089868954967,61.59151616632779,21.65236479744562,2.7468803572140494/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -868,7 +868,7 @@ million five hundred thousand acres in the
 Illinois territory, and five hundred thousand  
 acres in the Missouri territory, north of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1816061201:0297/pct:24.286569546996606,70.52984092811865,21.63240870085811,5.4658533668221505/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1816061201:0297/pct:24.293221579192444,70.53781445600606,21.625756668662277,5.461866602878444/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -907,7 +907,7 @@ Indian title is extinguished, l,5&#x27;iK),000 seres in
 the Illinois territory, and foe hundred thousand  
 acres in the Missouri territory, north of the rive
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816062901:0210/pct:7.2980804056501265,75.27845036319613,17.258239768199928,4.213075060532687/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816062901:0210/pct:7.2967590077856235,75.26933785256023,17.26115034099825,4.216600088770528/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -960,7 +960,7 @@ tary of War for military bounty lands.
 Mr. Williams, of Miss, offered to the  
 Senate instructions from the legislatur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:0041418392A:1818021701:0334/pct:66.14029255319149,52.93686652826963,14.943484042553191,4.371718158505312/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:0041418392A:1818021701:0334/pct:66.12930031577199,52.93040293040293,14.94654035787491,4.375254375254375/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -976,7 +976,7 @@ Senate instructions from the legislatur
 net to provide for designating, surveying and  
 granting the military bounty land-, approve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:0041418392A:1818022101:0341/pct:79.26350245499182,49.09953760038939,14.795417348608838,1.0464833292771965/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:0041418392A:1818022101:0341/pct:79.25053182785142,49.093563693880036,14.798450880925108,1.0504116478079246/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1067,7 +1067,7 @@ ond section of the act, entitled “An act to
 provide for designating, surveying, and grant­  
 ing the military bounty lands,” passed on the 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010832:1818042801:0241/pct:5.299196189342066,40.459793396799675,17.43078297112236,1.8432246303423132/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010832:1818042801:0241/pct:5.299196189342066,40.46316926608602,17.44070655949191,1.8499763689149955/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

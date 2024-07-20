@@ -74,7 +74,7 @@ of the Ex. Council, Kiehmoml.
 Extract of a letter from Benjamin Cleateland,  
 grandson to the latrCol. Cleveland
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183979:1823051601:0017/pct:48.45893174116508,50.75955376216473,15.249314184282717,21.777830524566816/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183979:1823051601:0017/pct:48.451113262342695,50.753530319212054,15.252231902764333,21.7792017720818/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -124,7 +124,7 @@ the joyful enunciation of that turn in the tide ot success that
 terminated the Revolutionary war with the seal &lt;i&gt;f our inde­  
 pendence.&quot; s ... 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851060301:0263/pct:76.6897746967071,61.6795185254843,15.540150202195262,2.6142561594884333/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851060301:0263/pct:76.6945888696322,61.68265312519591,15.544964375120355,2.620525358911667/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -185,7 +185,7 @@ Revolutionary war with the seal of our indepen
   
 dence.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024517:00296022706:1851061101:0259/pct:51.35178117048346,21.527345209916533,20.006361323155215,9.642456708608446/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024517:00296022706:1851061101:0259/pct:38.523938285350724,16.1455089074374,15.015110545570224,7.238071508658279/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -214,7 +214,7 @@ the joyful annunciation of the tide of sticcess,
 which terminated the revolutionary war with the  
 seal of success.&quot; Thomas Jesferso
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deltaair_ver01:data:sn86053570:00237288889:1862111801:0039/pct:275.6029684601113,148.809100604337,49.62894248608534,7.1098471382865265/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deltaair_ver01:data:sn86053570:00237288889:1862111801:0039/pct:68.916724657852,37.20227515108425,12.410113662723266,1.7774617845716316/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -258,7 +258,7 @@ of that turn in the tide of succesN, that
 terminated the revolutionary war with  
 the seal -of our independence.&quot; Gen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_hubert_ver01:data:sn85033681:00296021088:1874101401:0401/pct:96.41740489838458,111.41072358146799,14.291297550807712,3.98750650702759/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_hubert_ver01:data:sn85033681:00296021088:1874101401:0401/pct:72.33515767526714,83.5606454971369,10.72452436799583,2.9880270692347737/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -283,7 +283,7 @@ annunciation of that turn of the tide of success
 which terminated the Revolutionary x  
 war with the seal of Independence.&quot; &quot;It ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295861915:1880101401:0113/pct:83.95743003547497,32.94138929088278,15.950597818946262,5.065123010130246/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295861915:1880101401:0113/pct:83.96618928743486,32.94440424505547,15.954977444926204,5.071152918475639/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -315,7 +315,7 @@ ciation of that turn of the tide of success
 which terminated the Revolutionary war  
 with the seal of independence.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_journey_ver01:data:sn84024738:00206531034:1881111901:0494/pct:49.725834247219176,241.67278833035996,40.889863700454335,31.33592192255221/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_journey_ver01:data:sn84024738:00206531034:1881111901:0494/pct:16.575278082406392,80.55759611011999,13.62995456681811,10.445307307517403/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -357,7 +357,7 @@ annunciation of that turn in the tide of sue­
 cess which terminated the revolutionary war  
 with the seal of independence. It was als
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_dante_ver01:data:sn83030272:00175044899:1886070401:0187/pct:63.7329286798179,185.25938107340409,50.531107738998486,12.318732246972642/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_dante_ver01:data:sn83030272:00175044899:1886070401:0187/pct:15.936254980079681,46.31484526835102,12.63517359134889,3.0796830617431605/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -451,7 +451,7 @@ minated the Revolutionary
 war with the seal.of indepen­  
 danee.&quot;No citizen ofJthisStatonee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn82007642:00202197899:1892033101:0760/pct:35.45288197621226,46.02598972499244,17.772186642268984,9.700815956482321/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn82007642:00202197899:1892033101:0760/pct:26.613272311212814,34.52704744635842,13.34096109839817,7.283167119975824/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -499,7 +499,7 @@ cause the Cumberland Mountains were long
 the very battlegrounds of the contending  
 armies. Feared by the secessionists because o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043056:1899012201:0315/pct:222.5581395348837,148.060962728233,51.627906976744185,15.874452995322168/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043056:1899012201:0315/pct:55.661108956960064,37.01524068205825,12.911981388134937,3.968613248830542/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -530,7 +530,7 @@ of that turn of the tide of success
 which terminated the Revolutionary  
 war with the seal of independence
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_dogwood_ver01:data:sn84026925:0029586218A:1899111801:0229/pct:82.59231348907309,76.24553289888586,15.614167294649585,4.141265503468572/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_dogwood_ver01:data:sn84026925:0029586218A:1899111801:0229/pct:82.59231348907309,76.24553289888586,15.62421502135142,4.148272720902529/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

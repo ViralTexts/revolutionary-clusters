@@ -61,7 +61,7 @@ C. C. Claiborne, Governor of the Orleans
 territory, passed through townfiostJiaate,  
 trn I ut-sd iy last, on his return to New O
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810111601:0230/pct:4.738472753781665,75.52944056800098,17.350100236923637,3.452074917370547/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810111601:0230/pct:4.737609329446064,75.5201958384333,17.35301263362488,3.455732354141167/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -282,7 +282,7 @@ r ... October A. D„ 1810, and in thu thirty fifth
 K--. *&gt; lt&gt;* President, H y&#x27;1 • &quot; ,  
 - /J. R, SMItK, 5«mary &lt;5f Stated*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1810121001:0253/pct:75.53509208561474,38.35750366628646,22.34942757590841,54.50545869317256/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1810121001:0253/pct:75.51629758646429,38.35125448028674,22.350087086339887,54.50065167807103/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -394,7 +394,7 @@ said United States.
 By the President,  
 K. SMITH, Secretary of Star c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810121101:0260/pct:40.99926524614254,12.310722639418934,36.68258633357825,84.22996429890435/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810121101:0260/pct:40.99173553719008,12.309207287050715,36.68197122742577,84.22369932709667/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -500,7 +500,7 @@ n i to ch» fish harmonv ) and in every man*.
 jsbk cit&gt;7,«aa, under tad asswra .«e,tLa  
 *
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810121101:0400/pct:77.1363463729586,30.503304524656837,20.224078997341437,64.04422979156075/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810121101:0400/pct:77.12170115815455,30.499428135722454,20.226567938738054,64.04032702164612/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1578,7 +1578,7 @@ Independence of the saad United States.
 By the President,  
 R. SMITH, Secretary of State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1810122101:0329/pct:51.211129296235676,13.449367088607595,22.454991816693944,63.06368670886076/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1810122101:0329/pct:51.211129296235676,13.455959915611814,22.454991816693944,63.05709388185654/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1869,7 +1869,7 @@ and eastward of the river Mississippi to tbe river
 Perdido and to the boundaries of tbe said territory.  
 The Yeas and Nays on this question stood thus
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1810122801:0282/pct:26.854156296665007,15.600981193785772,20.68193130910901,4.088307440719542/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1810122801:0282/pct:26.84747449614332,15.598430346631785,20.68300572281662,4.091726618705036/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1905,7 +1905,7 @@ to land within tl*e territory described
 in the first section of this act, the same  
 shall be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810122801:0422/pct:77.07472775065716,20.066334991708125,17.442733758918514,15.23153463451971/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810122801:0422/pct:77.06025905763093,20.06377551020408,17.445716788686564,15.233843537414966/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2426,7 +2426,7 @@ addressed to him &#x27;.n the same day by order
 of the President, hat in case the occupation  
 ot :he said t erritory, on the pari of the U
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811100801:0181/pct:24.518613607188705,30.118988596926126,17.641665138455895,23.710956866633616/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811100801:0181/pct:24.514118078474514,30.115255917709753,17.644542232000976,23.712149378279012/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2474,7 +2474,7 @@ contravening the views of both parties, whilst in
 the mean lime the tranquillity and security of their  
 adjoining territories were endangered, proceeded t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811101101:0771/pct:51.59772108000991,33.187843517620436,21.47634381966807,16.2786938247656/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811101101:0771/pct:51.58494304110946,33.182479392274125,21.47721644378405,16.28010344270244/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2500,7 +2500,7 @@ an official letter addressed to him rin the same day
 by older of the President, that in rase the occupa­  
 tion of the said territory, on the part of the Uni
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811101101:0771/pct:51.82065890512757,49.48270287746524,21.22863512509289,8.050436469447138/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811101101:0771/pct:51.80782565626548,49.47470502666882,21.2295690936107,8.053176014223371/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2517,7 +2517,7 @@ embraced thj country south of the Mi-sis«;p­
 pi territory, and eastward of the river Mis­  
 sissippi, and extending to the river P rdido 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1815032501:0408/pct:5.210826735407844,32.41344706472654,17.36328484625299,1.6808830908178625/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1815032501:0408/pct:5.2098674521354935,32.40938166311301,17.366224840451643,1.6848530456958903/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2553,7 +2553,7 @@ views i f both parties, and endangering the
 tranquility and security of the adjoining ter­  
 ritories, by the intrusive establishment of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1815032501:0408/pct:5.247652366046768,34.094330155544405,17.51058736880869,11.151530356246864/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1815032501:0408/pct:5.246686303387334,34.09005393202057,17.51350024545901,11.15431247125716/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2707,7 +2707,7 @@ States, contributing to violate :heir laws—and
 nue and commercial laws, and of those prohi­  
 biting the introduction of slaves.” Proclama
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:0041418392A:1818012701:0299/pct:34.61790751065923,40.71965107826508,14.644145621515252,5.9122849527501815/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:0041418392A:1818012701:0299/pct:34.61223151336284,40.71471835251363,14.647209925124338,5.915606703008278/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2748,7 +2748,7 @@ arc endangi red, und new facilities given to viola- in
 tors of our revenue and commercial laws,&quot; 4c. t  
 Under these oircmiislances, tin l&#x27;re*ideut.,&gt;decnied i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661125:1845080901:0348/pct:45.92976209742677,10.029124984171204,14.387441333549118,3.368367734582753/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661125:1845080901:0348/pct:45.93515671359983,10.029124984171204,14.387441333549118,3.3768097589802033/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2770,7 +2770,7 @@ our ajjoining icrnioritj are endangered, ana
 new facilitus givento violators of our revenue  
 and commercial laws,&quot; ic. Under these cir
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_eiffel_ver02:data:sn87065542:0029587756A:1845090301:0434/pct:27.027027027027028,96.04410751206065,22.3996723996724,6.25775327360441/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_eiffel_ver02:data:sn87065542:0029587756A:1845090301:0434/pct:20.278574354772633,72.03308063404549,16.816878328553873,4.700206753962784/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2849,7 +2849,7 @@ and thority vested in me] have deemed it right and requisite &#x27;hey &lt;1
 ding that possession should he taken of the said territory, in J&#x27;,&#x27; J  
 sted. the name and in behalf of the United States.&quot;?[3 For ued
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661150:1847031101:0252/pct:47.24459182062214,12.809099901088032,32.13327017211432,83.20969337289812/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661150:1847031101:0252/pct:47.249855255539764,12.817342565117047,32.143797041949576,83.20969337289812/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2896,7 +2896,7 @@ their title ; to which he added, that though the laws of
 &#x27; the United States had not yet been extended over  
 this territory, yet they hail been so framed as to b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848012701:0109/pct:5.365387677121477,60.198318062005775,16.016557872950166,3.865947031504958/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848012701:0109/pct:5.365387677121477,60.206685912723316,16.021864883511117,3.865947031504958/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2925,7 +2925,7 @@ ity and that, under the puultmr urt?mt&lt;mce* of the case,
 forbear inee on the part of the United States to occupy the ter­  
 ritory in question might be construed into .ideu-Urtionof Aei
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848012901:0059/pct:64.1146953405018,52.345068046338994,15.612903225806452,3.036778765043302/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848012901:0059/pct:64.1242532855436,52.345068046338994,15.608124253285544,3.0442769842162485/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

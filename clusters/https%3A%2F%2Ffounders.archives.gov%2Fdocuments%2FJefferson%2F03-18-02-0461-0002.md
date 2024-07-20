@@ -149,7 +149,7 @@ House of Repreientatives refpe&amp;ively, from. the
 commencement of the present ieflion, there (hall  
 be printed two hundred copies beyond the num
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814041201:0061/pct:41.73789173789174,36.487795428128635,16.965811965811966,5.666408368849283/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814041201:0061/pct:41.74738841405508,36.487795428128635,16.961063627730294,5.6728658142838695/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -222,7 +222,7 @@ cutives of the several states and territories,
 one set to each University and Coll~ge in  
 the United States ; fix sets to the Secreta
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010832:1818022401:0205/pct:5.216535433070866,67.6363287250384,16.338582677165356,11.904761904761905/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010832:1818022401:0205/pct:5.225909261342332,67.64272913466462,16.343269591301087,11.898361495135688/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -264,7 +264,7 @@ State papers.and public documents printed
 alts of Congrels heretofore passed, to the  
 Chief Justice, .and to each of the Judges o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010832:1818040701:0229/pct:41.71584203359056,45.729303547963205,17.627477681948857,5.387647831800263/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010832:1818040701:0229/pct:41.72088566096737,45.73267293372418,17.632521309325668,5.384278446039287/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -411,7 +411,7 @@ State cause to be distributed one copy of
 Seybert’s Statistical Anoals to the Prefi.  
 dent of the United States ; to the Vic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010832:1819022301:0413/pct:5.104934770277936,17.990402507100185,16.520136131593873,8.481049848202918/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010832:1819022301:0413/pct:5.114388353185857,17.996931413834755,16.524862923047834,8.481049848202918/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -434,7 +434,7 @@ PY to each college and university in the U­
 nited States, if applied for by such college  
 or university ; and the residue of the fiv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010832:1819022301:0413/pct:5.104934770277936,27.822936049358535,16.335791264889394,5.7389090196846535/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010832:1819022301:0413/pct:5.114388353185857,27.822936049358535,16.345244847797314,5.7389090196846535/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -515,7 +515,7 @@ cure, oideied to be printed hv the several resolutions
 ol C onaresy, pn-sed on the 27th of March, 1818, and  
 of Apt it 21st, 182ft
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1821122001:0272/pct:21.185090793246257,79.97175806072016,14.87734947435489,2.6476818074841137/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1821122001:0272/pct:21.181716833890746,79.9623485115896,14.880288793332271,2.651292308899086/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -571,7 +571,7 @@ ed to be printed by the several resolutions of
 Congress, passed on the twenty.segventh of  
 March, one thousand eight hundred and eig
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1822031201:0457/pct:5.59580699861261,48.161611965101784,17.77400955757669,6.771915247195679/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1822031201:0457/pct:5.606083962797389,48.1685362138208,17.77400955757669,6.775377371555186/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -678,7 +678,7 @@ respondence, ordered to be printed by
 the several resolutions of Congress,  
 u passed on the twenty-seventh of March
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898012:1822040201:0224/pct:1.9633169723585637,34.43403975685888,18.729010591578405,8.312797765730245/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898012:1822040201:0224/pct:1.962809917355372,34.42838370565046,18.730630165289256,8.31553876478318/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -709,7 +709,7 @@ tives, respectively, which have been or shall be
 published by virtue of a resolution passed Dec.  
 27, 1813, be transmitted to the Executive o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216341:1825012201:0043/pct:48.73137993124897,74.93648514304651,14.437714846947127,3.6341544239478627/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216341:1825012201:0043/pct:48.723404255319146,74.92820852661806,14.440807419530824,3.6374346513511524/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -776,7 +776,7 @@ passsed Decetnber the twenty-seventh,one thou­
 sand eight hundred and thirteen ; be transmit­  
 ted to the Executive of the state of Maine, fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015143:1825051701:0493/pct:22.357194504699926,79.31301402999516,15.892986261749819,7.082728592162554/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015143:1825051701:0493/pct:22.362014943359846,79.31301402999516,15.897806700409737,7.082728592162554/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

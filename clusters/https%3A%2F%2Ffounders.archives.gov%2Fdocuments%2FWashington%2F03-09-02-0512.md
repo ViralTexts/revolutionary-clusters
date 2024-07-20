@@ -131,7 +131,7 @@ G ALlGL WASHINGTON.
 tht: northern market.  
 Since the emitting of the Supple merttaV
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808042501:0384/pct:20.827770360480642,33.49121768304717,18.574766355140188,42.61890665087823/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808042501:0384/pct:20.824295010845987,33.48791317217563,18.575838478224597,42.61716822890972/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -336,7 +336,7 @@ honor to themselves it the iiaa in which
 they tnave **  
 Gen. Howe having embarked hie a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1829021201:0032/pct:37.834894358527556,38.48716169326856,17.94815944238728,51.977793199167245/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1829021201:0032/pct:37.82665505226481,38.48182070496808,17.94969512195122,51.974049403275046/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

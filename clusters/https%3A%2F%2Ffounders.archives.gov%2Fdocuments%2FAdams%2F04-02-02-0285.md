@@ -192,7 +192,7 @@ he shall direct thy paths.”
 Giving authority includes also a grant  
 of power. They were sent, they wer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_honeydew_ver01:data:sn82004649:00517016202:1899070601:0435/pct:5.569080949482654,64.42370306056002,20.663420572124163,3.082266116778815/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_honeydew_ver01:data:sn82004649:00517016202:1899070601:0435/pct:5.567386674779434,64.40972222222223,20.664739884393065,3.0870225694444446/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

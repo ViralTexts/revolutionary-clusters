@@ -79,7 +79,7 @@ out alarm, the foundations of the Constitu
 tion, can do what open force would not dare  
 to attempt.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_kingler_ver01:data:sn87058152:00279529236:1857032301:0343/pct:123.08444734268015,108.05787554405364,32.8985979784806,7.55205269968239/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_kingler_ver01:data:sn87058152:00279529236:1857032301:0343/pct:41.028149114226714,36.01929184801788,10.9661993261602,2.5173508998941303/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -116,7 +116,7 @@ would not dare to attempt
 &quot; the constitution, can do what open force  
 &quot; would not dare to attempt.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn84024558:00296028630:1857032601:0498/pct:54.02601424589656,47.45898818400826,14.431712604521524,2.776184467133188/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn84024558:00296028630:1857032601:0498/pct:54.03633735934758,47.45898818400826,14.436874161247031,2.783832358227219/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -136,7 +136,7 @@ the. foundations of the constitution, can do
 what open force would not dare to at­  
 tempt,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159348:1857032801:0053/pct:27.175080558539204,71.901983663944,13.027466625748044,3.4655775962660442/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159348:1857032801:0053/pct:27.18531021431129,71.90587320108907,13.027466625748044,3.473356670556204/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -154,7 +154,7 @@ mining, slyly and without alarm, the foun
 dations of the constitution, can do what  
 open force would not dare to attempt.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn87076863:00296028861:1857040201:0432/pct:6.755986316989738,79.00763358778626,16.305587229190422,4.198473282442748/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn87076863:00296028861:1857040201:0432/pct:5.076286895765008,59.25845147219193,12.2344217881078,3.1515812431842964/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -180,7 +180,7 @@ and without alarm, the foundations of the
 constitution, can do what open force would  
 not dare to attempt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776981:1857040301:0693/pct:294.71014492753625,45.62012142237641,87.46376811594203,158.60075166233014/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776981:1857040301:0693/pct:73.67753623188406,11.405030355594102,21.865942028985508,39.650187915582535/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -214,7 +214,7 @@ do not sacvmned by a ntapdence and con
   
 casion et e e ta a o e   ei o o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776981:1857040301:0693/pct:253.55072463768116,346.1115929459381,87.17391304347827,29.546111592945937/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776981:1857040301:0693/pct:63.38768115942029,86.52789823648453,21.793478260869566,7.386527898236484/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -233,7 +233,7 @@ mining, slyly and without alarm, the founds­
 tions of the Constitution, can do what open  
 force would not dare to attempt.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1857040301:0268/pct:77.60252365930599,23.104693140794225,50.867507886435334,9.747292418772563/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1857040301:0268/pct:19.40828402366864,5.776173285198556,12.721893491124261,2.436823104693141/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -273,7 +273,7 @@ ping and mining, slyly, and without alarm, the
 foundations of the Constitution, can do what  
 open force would not dare to attempt.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021205:00517171906:1857040601:0314/pct:6.899239914246736,55.687849662889114,16.468524654063536,13.312293788552575/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021205:00517171906:1857040601:0314/pct:5.351928305306616,43.15730961645359,12.773134628939683,10.327959977765426/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -293,7 +293,7 @@ alarm, the foundations of the Constitution
 can do what open force would not dare to  
 attempt.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775381:1857040901:0070/pct:38.75079668578712,89.84511616287784,14.244741873804971,3.8720959280539597/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775381:1857040901:0070/pct:29.076996652319465,67.38695978016487,10.696636378128487,2.91031726205346/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -311,7 +311,7 @@ ning, slyly and without alarm, the foundations of
 constitution, can do what open force would not  
 dare to attempt J
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn85025594:0038334735A:1857041801:0271/pct:32.11125158027813,54.411483253588514,11.896333754740834,2.076555023923445/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn85025594:0038334735A:1857041801:0271/pct:32.11125158027813,54.41786283891547,11.904761904761905,2.079744816586922/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -330,7 +330,7 @@ without alarm, the foundations of the Constitution,
 can do what open force would not dare to  
 attempt.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1857070901:0121/pct:51.53159671972986,39.875389408099686,13.241678726483357,2.426130463513641/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1857070901:0121/pct:51.53159671972986,39.87853614021839,13.241678726483357,2.429277195632336/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -352,7 +352,7 @@ Bid ! our toreign dejiartinent. They are practicing on the Const
 Jed tution by inferences, analogies,and sophisms, as they woul  
 em on an ordinary law.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1859022401:0470/pct:61.965863696888995,28.16422840962718,12.795061130613727,2.784332232184993/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1859022401:0470/pct:61.973933744905786,28.170520685858108,12.795061130613727,2.787478370300456/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -372,7 +372,7 @@ son said) on the Constitution by inferences, anal­
 ogies and sophisme as they would on an ordinary  
 Law&quot; decides the infamous Fugitive Law con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775708:1859050201:0113/pct:27.830533235938642,269.2627903853901,49.159970781592406,12.676245467973681/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775708:1859050201:0113/pct:6.958904109589041,67.31569759634752,12.292237442922374,3.1690613669934202/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -572,7 +572,7 @@ ence and control, but that it is a compact of
 4 which claims an equal right to understand it,  
 4 and to require its observance.&quot;?7 Jefferson, 403
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1860031501:0687/pct:50.884433962264154,29.93414863593603,12.983490566037736,6.942615239887112/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1860031501:0687/pct:50.89229559748428,29.93414863593603,12.983490566037736,6.945751019128253/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -593,7 +593,7 @@ ence and control, but that it is a compact of
 4 alarm, the fonndations of the Constitution, can  
 4 do what open force would not dare to attempt.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1860031501:0687/pct:50.943396226415096,37.055503292568204,11.556603773584905,3.1984948259642523/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1860031501:0687/pct:50.943396226415096,37.055503292568204,11.564465408805031,3.2016306052053936/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -745,7 +745,7 @@ the Constitution by inferences, ana­
 logies and sophisims, as they would any  
 ordinary law. They imagine they ca
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_osceola_ver01:data:sn84022046:00279555223:1867051301:0452/pct:131.11234499352213,119.9847153228888,46.06699981491764,22.481212584384156/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_osceola_ver01:data:sn84022046:00279555223:1867051301:0452/pct:32.7720207253886,29.99235863474274,11.51461880088823,5.619587366276108/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -768,7 +768,7 @@ out alarm, the foundations of the Consti­
 tution, can do what open force would not  
 dare to attempt.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665568:1895091701:0176/pct:38.052486187845304,90.50522648083624,16.816298342541437,6.463414634146342/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665568:1895091701:0176/pct:28.551692378540178,67.88327526132404,12.618005986645176,4.851916376306621/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -789,7 +789,7 @@ conscience is dormant or indo
 lence inexcitable.  
 The government has let th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_coldplay_ver02:data:sn83007654:00393342754:1898082601:0051/pct:24.715755278830535,78.14347654710288,11.193827828911749,4.936933385888845/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_coldplay_ver02:data:sn83007654:00393342754:1898082601:0051/pct:24.71241033969414,78.13577692383485,11.195696305318718,4.938910237461819/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

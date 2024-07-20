@@ -1368,7 +1368,7 @@ scarcely call any thing hisown. Whoever
 would overthrow the liberties of our nation,  
 must begin by subduing the liberty of speech
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472049:1848060901:0185/pct:276.3341067285383,353.5450195737277,52.20417633410673,33.05785123966942/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472049:1848060901:0185/pct:69.11025145067698,88.38625489343192,13.056092843326885,8.264462809917354/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1438,7 +1438,7 @@ t0
   
 }aVe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn87058348:00279529376:1859051901:0177/pct:17.39313244569026,67.24119003183665,12.768044849334268,7.959161269074541/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn87058348:00279529376:1859051901:0177/pct:17.39313244569026,67.2485088008197,12.772716654987153,7.959161269074541/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1456,7 +1456,7 @@ which drags it out of its lurking holes aud
 exposes its deformity and horrjr to day­  
 light. The best rulers have ever en
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn87058348:00279529376:1859051901:0177/pct:17.435178696566222,81.82017784608628,12.655921513665032,2.612800526951367/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn87058348:00279529376:1859051901:0177/pct:17.43985050221911,81.82383723057782,12.660593319317917,2.612800526951367/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

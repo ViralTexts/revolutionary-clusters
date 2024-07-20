@@ -125,7 +125,7 @@ taken an oath of allegiance, and should ac
 lu&amp;ily reside withiu some one of the United  
 states
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810021601:0368/pct:41.00165107319758,11.794121234296865,36.3052650889745,83.83949262105135/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810021601:0368/pct:40.99413059427733,11.792682926829269,36.304719980435316,83.83333333333333/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -158,7 +158,7 @@ t (luring the war, anti not Hold any office of profit under
 j ot / years if they live so long, one half of (lie preseut  
 | pay ot such officers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826012001:0019/pct:39.43232841565106,23.08411214953271,18.13662604233483,4.719626168224299/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826012001:0019/pct:39.42600609267276,23.081415722462328,18.139062583507027,4.722968500564575/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -276,7 +276,7 @@ olution : “
 “ Resolved, That the officers, who shall con­  
 tinue in the service to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021206:00517171955:1828070901:0633/pct:45.57260920897284,62.575993213629296,19.126328217237308,15.000706913615156/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021206:00517171955:1828070901:0633/pct:35.32940219601464,48.50432813470178,14.812932086213909,11.633003396763943/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -311,7 +311,7 @@ pears that all persons who enlisted for and re­
 mained during the war, were to have this re­  
 ward, and consequently all such wore entitle
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021206:00517171955:1828070901:0633/pct:45.7103502558048,83.0199349639474,18.94923258559622,13.86964512936519/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021206:00517171955:1828070901:0633/pct:35.42598617324116,64.3449358997772,14.696014640097602,10.752766719018226/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -525,7 +525,7 @@ hall continue therein to the end thereof, shall be entitled to
 ecelre the further reward of eighty dollars at the expiration  
 f the war.&quot;?Journal of Congress, vol. 11., p. 664
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661083:1857010901:0054/pct:62.92760540970565,69.56139248460475,17.024661893396978,8.3322860374513/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661083:1857010901:0054/pct:62.93821267568284,69.569770851661,17.01405462741978,8.3322860374513/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -617,7 +617,7 @@ vice during the war, and not holding any
 office of profit in the States, should be en  
 titled to receive half pay for seven year
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84038582:00212471562:1886041001:0838/pct:27.38095238095238,17.6130389064143,119.04761904761905,359.5688748685594/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84038582:00212471562:1886041001:0838/pct:6.8493150684931505,4.403259726603575,29.779630732578916,89.89221871713985/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -670,7 +670,7 @@ of the war.
 On the 24th day of August, 1780, the  
 half-pay system was extended to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_fencing_ver02:data:sn83016589:00393340691:1887022501:0030/pct:30.74932360898718,49.31087289433384,10.810492883190213,11.150459418070444/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_fencing_ver02:data:sn83016589:00393340691:1887022501:0030/pct:26.909352912921154,43.152252805538495,9.462705002401702,9.759365752889286/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

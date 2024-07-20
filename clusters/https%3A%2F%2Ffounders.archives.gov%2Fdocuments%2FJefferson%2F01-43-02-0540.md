@@ -44,7 +44,7 @@ ernment-os the United States; or if&#x27;Sny
 person, being a citizen of, or resident within  
 the United States, and not duly authorized
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799020101:0003/pct:75.73865001201057,21.67457523343028,17.15109296180639,10.776060003061382/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799020101:0003/pct:75.75066058131155,21.678401959283637,17.169108815757866,10.77223327720802/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -112,7 +112,7 @@ measures of the Government of the United
 States; or if any person, being a citizen of, or  
 resident w ithin the United States, and not dul
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216377:1827032201:0268/pct:42.85221589929298,30.138568129330253,18.020348335919987,10.404157043879907/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216377:1827032201:0268/pct:42.8448275862069,30.135088326983027,18.022988505747126,10.406804449062848/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -159,7 +159,7 @@ i Government,nr of any officer or agent thereof, in relation
 , to any disputes or controversies with the United Staf«s, nr  
 defeat tin- iner. votes of the Government of tin. United States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184558:1827032701:0071/pct:77.22318749012794,70.55192878338279,18.0382246090665,4.106824925816023/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184558:1827032701:0071/pct:77.21099178774479,70.54355566104914,18.040640134765212,4.110293535881003/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -182,7 +182,7 @@ government, or any officer or ugent thereof, in rela­
 tion to any dispules or controversies with the United  
 States, he or they shall be deemed guilty of a hig
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021391:00340588010:1827033101:0207/pct:40.55944055944056,34.57406944791406,17.822717822717824,6.1079190607044715/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021391:00340588010:1827033101:0207/pct:40.56574056574057,34.58239653593139,17.835317835317834,6.116246148721792/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -244,7 +244,7 @@ le measures of the government of the United Stutes ;
 r if any parson, being a citizen of or resident within  
 le United States, and not duly authorized, shall coune|
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848022301:0218/pct:46.53179190751445,39.408119387884156,17.16441875401413,4.249399266472746/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848022301:0218/pct:46.542496253478916,39.408119387884156,17.16441875401413,4.257830614223684/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -287,7 +287,7 @@ shall be punished by a fine not exceeding five thousand
 dollars, and by imprisonment during a term not  
 lees than six months, nor exceeding three years.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271742976:1848022501:0249/pct:54.33918516064922,49.272853185595565,58.463067240808215,22.564635272391506/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271742976:1848022501:0249/pct:18.113061720216407,16.424284395198523,19.487689080269405,7.521545090797169/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -317,7 +317,7 @@ feat the measures of the government ol the
 United States; or if any person being a citi­  
 zen of, or a resident within the United States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664308:1848022501:0096/pct:58.79292403746098,25.21772788852332,13.631633714880333,6.860847687245984/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664308:1848022501:0096/pct:58.79292403746098,25.224179085220307,13.646499182399287,6.864073285594478/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -365,7 +365,7 @@ controversies with the United States, or defeat the measures of
 the Government of the United Slates j or if any peraon, being a  
 citise* of or resident within the United States, and nfct dul
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848022601:0091/pct:33.53017427624946,85.61589703059727,15.8288924096212,3.6694140228068193/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848022601:0091/pct:33.53977627346488,85.61966053215912,15.833693408228912,3.6731775243686724/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -392,7 +392,7 @@ of the United States, or if any person being a t­
   
 zen of or resident within the United States, and no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271742976:1848022601:0252/pct:149.97523526498267,196.28558204119417,50.2559022618458,14.45267299236288/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271742976:1848022601:0252/pct:49.991745088327555,65.42852734706473,16.751967420615266,4.81755766412096/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -484,7 +484,7 @@ or if any person, being a citizen of or resident
   
 within the United States, and not duly autho
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00415667279:1848030401:0043/pct:47.46317512274959,39.39732142857143,18.930714675395528,8.616071428571429/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00415667279:1848030401:0043/pct:35.611952517396645,29.553571428571427,14.203847728203028,6.462053571428571/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -539,7 +539,7 @@ respondence, with intent, as aforesaid, he or they
 shall be deemed guilty of a high  
 and, on conviction before any court of the Unite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82014593:00415661034:1852010601:0074/pct:20.034953924372417,15.038470505945442,15.506831903400064,10.958265329913733/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82014593:00415661034:1852010601:0074/pct:20.034953924372417,15.04624232532836,15.506831903400064,10.962151239605191/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -561,7 +561,7 @@ ir agent thereof, in relation to any disputes or conroversies
 with the United States, or defeat the tncattres  
 of the Government of the United Slates ; o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852010601:0038/pct:44.43074393752569,33.69470945359931,14.81024797917523,4.032957502168257/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852010601:0038/pct:44.43074393752569,33.701936976004625,14.8193816504544,4.032957502168257/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -584,7 +584,7 @@ defeat tne measure* ol the governmentof the United States,
 or if any person, being a citizen of or resident within the  
 United States, and not duly authorized, shall counsel, a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661204:1852010701:0030/pct:3.963314772355061,32.018152023194254,16.082541762201114,3.7816714988024707/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661204:1852010701:0030/pct:3.968773883611748,32.018152023194254,16.0880008734578,3.7942770704651454/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -609,7 +609,7 @@ ftcr or agent thereof, in relation to any dis­
 putes or cm,truveisies with the United Stales or de­  
 feat the measures of ihe Government oi the’ Un te
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348409:1852010801:0021/pct:50.3857008466604,46.697472139168255,13.885230479774224,4.47132372927426/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348409:1852010801:0021/pct:50.37622272385252,46.69112651175431,13.88732129420617,4.474113330615573/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -642,7 +642,7 @@ ernment of the United State.; or if any person,
 being a citixen of or resident within the United  
 States and not duly authorized, shall counsel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82014593:00415661034:1852010901:0088/pct:20.006341154090045,2.7001970100822805,30.73874445149017,94.83138254722448/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82014593:00415661034:1852010901:0088/pct:20.016909744240117,2.7079228956619152,30.73874445149017,94.83138254722448/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -677,7 +677,7 @@ measures of the Government of the United
 States; or if any person, being a citizen of, or  
 resident within the United States, and not dul
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:0020219090A:1852012401:0040/pct:65.64643799472296,188.13026530868854,42.56816182937555,30.06412674462467/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:0020219090A:1852012401:0040/pct:21.882145998240986,62.71008843622951,14.189387276458516,10.021375581541557/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -702,7 +702,7 @@ foreign government in relation to any disputes with the
 United States, or defeat the measures of their govern-­  
 ment, or, if any person resident within the United States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743051:1852020301:0202/pct:246.8102734051367,239.9547511312217,47.07539353769677,13.438914027149321/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743051:1852020301:0202/pct:82.27009113504556,79.98491704374057,15.691797845898924,4.479638009049774/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -733,7 +733,7 @@ duly authorized; shall counsel, advise, aid, or
   
 in any inch correspondence with inten
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kuvasz_ver02:data:sn83045461:00280654036:1854041101:0359/pct:29.258160237388726,2.0833333333333335,27.967359050445104,97.15242881072027/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kuvasz_ver02:data:sn83045461:00280654036:1854041101:0359/pct:29.26186943620178,2.091185092127303,27.974777448071215,97.14719430485762/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -777,7 +777,7 @@ sies with the United Statec, or to defeat the measures of
 the Government of the United States; or if any person,  
 being a citiren of, or resident within the United States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743099:1854052401:1172/pct:5.792311706383719,227.52588361299536,46.87771786397634,11.864810186838033/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743099:1854052401:1172/pct:1.9307705687945729,75.84196120433178,15.625905954658782,3.9549367289460116/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -804,7 +804,7 @@ troversies with the United States, or deleat the measures
 of the Government of the United States; or if any person,  
 being a citizen of, or resident within the Ucited States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743221:1855112801:1218/pct:155.82023990538943,184.01235301104643,45.41307653319817,15.144316427129112/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743221:1855112801:1218/pct:51.94007996846314,61.33745100368215,15.137692177732726,5.048105475709704/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -850,7 +850,7 @@ lation to any disputes or controversies with the United
 States, or the deleat of the measures of the Government  
 of the United States, he was liable to punishmen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530686:1861062701:0459/pct:198.9163562478835,220.93923989348826,48.42533017270572,14.548535463568143/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530686:1861062701:0459/pct:66.30545208262784,73.64641329782943,16.141776724235243,4.849511821189381/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -881,7 +881,7 @@ Advices from Texas regarding the superior condition of
 the crops continued to come from all sections of the  
 State. Sugar and cotton were in excellent order
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271743385:1861062701:0229/pct:193.77777777777777,258.1213084961381,46.48559670781893,25.238527941844616/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271743385:1861062701:0229/pct:64.5925925925926,86.04043616537938,15.49519890260631,8.412842647281538/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -903,7 +903,7 @@ or agent thereof, in relation to any disputes or
 controversies with the United States, or the de­  
 feat of the measures of the Governmant of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_nelson_ver01:data:sn83030272:00206539872:1861062701:1092/pct:216.4885496183206,283.80075345332773,47.099236641221374,11.999441886423888/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_nelson_ver01:data:sn83030272:00206539872:1861062701:1092/pct:54.13246802824967,70.95018836333193,11.777056690208054,2.999860471605972/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -932,7 +932,7 @@ recognized as sach by th laws of the nation.
 The funeral of Lieut. Walker of the 2d New  
 Hampshire regiment who was killed on the Ne
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn84022367:00415628328:1861062701:0115/pct:20.618729096989966,13.643104300543747,18.62876254180602,9.330202669303015/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn84022367:00415628328:1861062701:0115/pct:15.475991299983269,10.23232822540781,13.986949974903798,7.006920415224913/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -966,7 +966,7 @@ or defeat the measures of the government of
 the United States ; or if any citizen of or resi­  
 dent within the United Stales, not duly au
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172182:1861062801:0294/pct:89.78559870550161,56.567858180761405,16.039644012944983,5.521650682941005/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172182:1861062801:0294/pct:69.5892987773017,43.840090090090094,12.441216428048907,4.29054054054054/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -987,7 +987,7 @@ any officer or agent thereof, in relation to any disputes
 or controversies trith the United States, or to defeat the  
 measures of the Government of the Untted States, h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024656:00414184728:1861070201:0009/pct:14.515388148828663,34.04490653688751,37.54402082376359,8.007963720827343/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024656:00414184728:1861070201:0009/pct:4.837721984078383,11.347047113470472,12.512757705654215,2.6690260266902603/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1013,7 +1013,7 @@ measures of the Government of the Untted States, h
 States with foreigners, with the intent to influ­  
 ence the measures or conduct of any forelr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1861070401:0002/pct:54.92984816452047,8.981521272024064,10.109552181433788,0.6589313851883685/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1861070401:0002/pct:54.93465308475879,8.985102420856611,10.12396694214876,0.6589313851883685/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1035,7 +1035,7 @@ any disputes or controversies with the Un­
 ited States, or the defeat of the measures  
 of the Government of the United States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn89060119:00415623495:1861070401:0070/pct:197.7298668357641,140.257906626506,40.79898541534559,13.516566265060241/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn89060119:00415623495:1861070401:0070/pct:65.90995561192138,46.752635542168676,13.599661805115197,4.5055220883534135/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1162,7 +1162,7 @@ ment of the United States.&quot; It would be a source
 of profound regret to the many admirers of our  
 zealous contemporary, if, for an Infringement o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661630:1863020501:0059/pct:49.863013698630134,56.28291948833709,15.657534246575343,4.890895410082769/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661630:1863020501:0059/pct:49.863013698630134,56.2900856354581,15.666666666666666,4.887312336522268/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1187,7 +1187,7 @@ feat the measures of the government of the
 United State? ; or if any person, being a citi­  
 zen of, or resident within the United States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_bunting_ver01:data:sn86069123:00202195234:1863070901:0119/pct:71.15912208504801,37.764311500773594,19.170096021947874,7.748839608045384/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_bunting_ver01:data:sn86069123:00202195234:1863070901:0119/pct:53.4053868588094,28.32645693656524,14.376393892605936,5.814853017019082/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1220,7 +1220,7 @@ with the United States, or to
 DeFeatt the MeAsures oF the GovernMent  
 of the United States, or who shall counsel, advise, aid o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743774:1872022001:0617/pct:55.36039768019884,89.47855243380738,50.75393537696769,8.359347901491502/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743774:1872022001:0617/pct:18.453465893399613,29.826184144602458,16.91797845898923,2.7864493004971673/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1247,7 +1247,7 @@ of the Government of the United States, or who
 shall counsel, advise, aid, or assist in such cor­  
 respondence with an intent as aforesaid, shal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536135:1872022001:0608/pct:236.01213040181955,67.75796550716164,50.18953752843063,19.467991815258696/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536135:1872022001:0608/pct:59.014218009478675,16.93949137679041,12.549763033175356,4.866997953814674/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1278,7 +1278,7 @@ the United States, or who shall coun­
 sel, advise, aid or assist in stich oor­  
 respondence, with intent as afore
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200293058:1872022001:0215/pct:146.57772621809744,304.8108047773189,37.47099767981439,26.342225694832013/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200293058:1872022001:0215/pct:36.66038009574931,76.20270119432972,9.37182649064268,6.585556423708003/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1306,7 +1306,7 @@ or controversies with the United
 States, or to defeat the measures of the  
 Government of the United States, o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_belgium_ver01:data:sn84026844:0020219087A:1872022001:0175/pct:73.95957193816885,24.930458970792767,13.935790725326992,7.110570236439499/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_belgium_ver01:data:sn84026844:0020219087A:1872022001:0175/pct:73.96551724137932,24.930458970792767,13.94768133174792,7.114916550764951/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1379,7 +1379,7 @@ person being a citizen of or resident
 within the United States, and not duly  
 anthorized, who couusels, advises or assists
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn82000205:00211103085:1886081801:0807/pct:57.17455621301775,70.62305756992748,43.56508875739645,37.70904247447092/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn82000205:00211103085:1886081801:0807/pct:14.298927118017017,17.65576439248187,10.895301516833149,9.42726061861773/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1414,7 +1414,7 @@ PATENT OFFICE LISTS.
 The list of patents issued to-day from  
 the United Sta&#x27;es Patent Office was e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_bobbsey_ver02:data:sn82015137:00414181934:1886081801:0385/pct:3.1947721909602467,54.27438106962112,16.13722998729352,12.173437286280947/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_bobbsey_ver02:data:sn82015137:00414181934:1886081801:0385/pct:2.480656506447831,42.06918483445815,12.515826494724502,9.430762163881134/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1442,7 +1442,7 @@ measures of the Government of the United
 States; and every person being a citizen of  
 or resident within the United States, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barack_ver01:data:sn86053573:00211102032:1886081901:0186/pct:196.4451313755796,313.62389515391646,43.276661514683155,22.051203901249618/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barack_ver01:data:sn86053573:00211102032:1886081901:0186/pct:49.1112828438949,78.40597378847912,10.819165378670789,5.5128009753124045/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1539,7 +1539,7 @@ intent above quoted cou^ only through a vio­
 Unt disregard of the spirit of the statute be  
 attributed to him. If the letter is bogus, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_rottweiler_ver01:data:sn83045462:0028065470A:1888103101:0472/pct:1.3921901528013583,59.83655810599687,14.00679117147708,6.645835837038818/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_rottweiler_ver01:data:sn83045462:0028065470A:1888103101:0472/pct:1.3921901528013583,59.83956255257782,14.011035653650255,6.654849176781637/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1605,7 +1605,7 @@ United States. Probably the Mur
 letter lays its author open to pr  
 under the law. The fact that no Murchi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_pinkfloyd_ver01:data:sn86071854:00175048224:1888110301:0508/pct:60.69473286766094,211.22922776148582,46.25259580894846,20.05131964809384/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_pinkfloyd_ver01:data:sn86071854:00175048224:1888110301:0508/pct:20.231577622553647,70.40974258716194,15.417531936316154,6.68377321603128/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1709,7 +1709,7 @@ the United States, or to defeat the measures of the
 Government of the United States, and every person,  
 being a citizen of or resident within the United States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_neruda_ver01:data:sn83030272:00175045119:1893121101:0255/pct:220.28443113772454,198.1785063752277,50.1497005988024,14.996964177292046/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_neruda_ver01:data:sn83030272:00175045119:1893121101:0255/pct:55.071107784431135,49.544626593806925,12.5374251497006,3.7492410443230115/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1746,7 +1746,7 @@ six months nor more than three years;
 but nothing In this section shall be con­  
 strued to abridge the right of a citizen t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn82015679:00415665453:1893121201:0402/pct:59.60780017528484,104.40230274297325,16.115249780893954,11.03962072468676/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn82015679:00415665453:1893121201:0402/pct:44.71348745480443,78.30172705722994,12.095978963514845,8.28818151032848/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1776,7 +1776,7 @@ the United States, and every person, be
 ing a citizen of, or resident within the  
 United States, and not duly authorized
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_adrian_ver01:data:sn83016672:00415668120:1893121201:0423/pct:54.84221980413493,106.43415514131088,36.88792165397171,22.21888153938665/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_adrian_ver01:data:sn83016672:00415668120:1893121201:0423/pct:18.28820247652742,35.47805171377029,12.30099333242618,7.406293846462217/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1808,7 +1808,7 @@ States, and every person being a citi­
 zen of or a resident within the United  
 States, and not duly authorized, wh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_caliban_ver02:data:sn85047084:00202195726:1893122301:0592/pct:42.30964467005076,92.64660573071788,15.67258883248731,10.85549964054637/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_caliban_ver02:data:sn85047084:00202195726:1893122301:0592/pct:31.746636202081746,69.48752182397043,11.754252348311754,8.144192256341789/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1840,7 +1840,7 @@ States, and every person being a citizen
 of or a resident within the United  
 States, and not duly authorized, wh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_damsel_ver01:data:sn83025121:00211108976:1893122601:0628/pct:65.99729241877256,48.241891482267356,19.156137184115522,12.246135192482571/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_damsel_ver01:data:sn83025121:00211108976:1893122601:0628/pct:49.52595936794582,36.18899666565626,14.37923250564334,9.1883904213398/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1870,7 +1870,7 @@ United States; and every person, being
 a citizen of, or resident within, the  
 United States, and not duly authorized
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_horseradish_ver02:data:sn87068097:00383340238:1896010401:0015/pct:74.29011289770783,50.33798360419963,11.22134793020869,5.724147849848986/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_horseradish_ver02:data:sn87068097:00383340238:1896010401:0015/pct:74.27740721737644,50.330744895024445,11.223704463827604,5.726919758412424/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1897,7 +1897,7 @@ he Government of the United States; and every
 person being a citizen of, or resident within, the  
 United States, and not duly authorized, wh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175042854:1896010501:0049/pct:67.64928193499622,45.89269475598666,50.642479213907784,24.916641406486814/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175042854:1896010501:0049/pct:16.915516915516914,11.473173688996665,12.663012663012664,6.229160351621704/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1968,7 +1968,7 @@ of any foreign Government, with an intent
 to influence the measures or conduct of  
 any foreign Government in relation to an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_dogtown_ver01:data:sn85066387:00175037330:1896011401:0227/pct:1.5796809663930618,90.53227110033484,13.411801146043054,2.5285763768617944/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_dogtown_ver01:data:sn85066387:00175037330:1896011401:0227/pct:1.5848433224923855,90.53227110033484,13.416963502142378,2.5285763768617944/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2049,7 +2049,7 @@ dent within the United States, and not
 duly authorized, who counsels, advises  
 or assists in any such correspondence
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn85030821:00212472888:1896031301:0294/pct:46.75585284280937,20.047309284447074,19.264214046822744,15.399172087522176/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn85030821:00212472888:1896031301:0294/pct:31.180996988959517,13.364872856298048,12.847106055536969,10.266114725014784/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2073,7 +2073,7 @@ Government, or of any officer or agent thereof, in re­
 lation to any disputes or controversies with the  
 United States, or to defeat the measures of the Unite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043019:1898060701:0097/pct:123.27327327327328,351.307484220018,49.77477477477478,17.553351367598438/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043019:1898060701:0097/pct:30.835680751173708,87.8268710550045,12.450704225352112,4.3883378418996095/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2119,7 +2119,7 @@ government of the United States, and
 so forth, shall be deemed guilty of  
 treason, the statute fixing the psnalt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_ephemera_ver01:data:sn92053934:00212471884:1898072701:0709/pct:76.91723614274868,19.13649025069638,16.419893697798027,14.317548746518106/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_ephemera_ver01:data:sn92053934:00212471884:1898072701:0709/pct:57.72079772079772,14.35933147632312,12.326685660018994,10.73816155988858/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2163,7 +2163,7 @@ and held for examination under the
 section, but they were not ready to say  
 whether the &quot;in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jesse_ver01:data:sn82016014:00295871404:1898072701:0186/pct:40.114204139900075,100.18492834026814,16.8807994289793,17.552781630451534/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jesse_ver01:data:sn82016014:00295871404:1898072701:0186/pct:30.101767541510444,75.1425489289567,12.676307802178183,13.160733549083064/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2187,7 +2187,7 @@ any disputes or controversies with the
 United States, or to defeat the meas­  
 ures of the government of the Unite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ash_ver01:data:sn84020358:0041562119A:1898072801:0195/pct:24.09018987341772,118.67833433916717,16.51503164556962,8.132166566083283/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ash_ver01:data:sn84020358:0041562119A:1898072801:0195/pct:18.08468539770479,89.01629450814725,12.386228729719035,6.095353047676523/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2213,7 +2213,7 @@ tion to any disputes or controversies with
 the United States, or to defeat the measures  
 of the government of the United States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:00271740529:1898072801:0254/pct:29.468272222973887,21.216093576686497,12.55581112163442,4.25531914893617/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:00271740529:1898072801:0254/pct:29.468272222973887,21.216093576686497,12.569341090515492,4.25531914893617/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2250,7 +2250,7 @@ at a fine not to exceed $3,000 and Impris­
 onment at from six months to three  
 years, the same penalty applying to ac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_earl_ver02:data:sn85054468:211102147:1898072901:0749/pct:47.51626256652868,43.91617845876521,17.593140153755176,14.522307345651194/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_earl_ver02:data:sn85054468:211102147:1898072901:0749/pct:31.687121100103504,29.281207751239297,11.725565577406476,9.677782785038305/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2289,7 +2289,7 @@ ures of the government of the United
 States, and so forth, shall be deemed  
 guilty of treason, the statute fixin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_frisco_ver01:data:sn86090439:00517175122:1898072901:0232/pct:72.94943140575853,26.373278454962797,16.041616259375758,14.706347949976255/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_frisco_ver01:data:sn86090439:00517175122:1898072901:0232/pct:72.9554802806678,26.381193604559126,16.03556738446649,14.698432800379928/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2321,7 +2321,7 @@ of the United States etc etc shall
 be punished by a fine of not more than  
 5000 and by imprisonment during 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:00206534783:1898080401:0320/pct:30.67240280433397,77.85665216395695,13.049713193116634,8.701625830089306/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:00206534783:1898080401:0320/pct:30.67240280433397,77.85665216395695,13.049713193116634,8.70925883520342/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2421,7 +2421,7 @@ the measures of the government of
 the United States, and so forth, shall  
 lie deemed gni&#x27;ty of treason, the stat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_betelgeuse_ver01:data:sn90059959:00271742861:1898091001:0544/pct:17.958484098266997,11.279731504450606,12.016758712626167,10.929519918283964/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_betelgeuse_ver01:data:sn90059959:00271742861:1898091001:0544/pct:17.96324509617216,11.290675616518314,12.040563702151971,10.92587188092806/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2448,7 +2448,7 @@ troversies with the United States, or to de
 feat the measures of the government of the  
 United States, and every citizen of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_franklin_ver01:data:sn86063615:00211109191:1899020801:0315/pct:23.234410217881294,76.29166666666667,16.94214876033058,8.86111111111111/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_franklin_ver01:data:sn86063615:00211109191:1899020801:0315/pct:17.43377794476799,57.22222222222222,12.718391884275784,6.652777777777778/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2479,7 +2479,7 @@ of or resident within the United States, and not
 duly authorized to, counsels, advises, or assists  
 in any such correspondence, with such intent
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_earl_ver02:data:sn85054468:211102184:1899050301:0472/pct:41.7128164556962,42.876465284039675,16.119462025316455,8.896904117823865/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_earl_ver02:data:sn85054468:211102184:1899050301:0472/pct:31.301939058171744,32.16110610159303,12.089434111594777,6.672678088367899/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

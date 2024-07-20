@@ -577,7 +577,7 @@ tains and crews ; the trade of the United States
 with f ranee must cease. 1 cannot give you an am­  
 ple detail ot all the inronven enrrx and oppression
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808053001:1159/pct:73.1528895391368,39.09321496512365,20.60473055352353,6.024096385542169/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808053001:1159/pct:73.13505607020966,39.08701854493581,20.60580204778157,6.0271041369472185/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -596,7 +596,7 @@ may be developed under lour, general heads—1st,
 the capture, indiscriminately, of our vessels at sea,  
 by the vessels of war of the republirk—the im
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808053001:1159/pct:73.17727383564984,52.28281547241598,20.702267739575714,3.329105897273304/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808053001:1159/pct:73.15943442223306,52.27452845141861,20.70331545587518,3.3325408147091458/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -88,7 +88,7 @@ No person in order to raise money for
 Let the Grand Jury look to this matter.  
 HARD TIMES.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn83026170:00414216262:1819112401:0167/pct:4.325832897261469,15.541038878937941,18.437118437118436,11.916552523443261/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn83026170:00414216262:1819112401:0167/pct:4.325078479246599,15.539401601348503,18.43971631205674,11.918808821463688/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -160,7 +160,7 @@ and hereditaments, so leased, mortgaged, bar­
 gained or sold, and in the slaves or other per­  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016884:00295877662:1838052901:0465/pct:7.186544342507645,27.78541953232462,34.464831804281346,9.554544492646281/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016884:00295877662:1838052901:0465/pct:5.400030595074193,20.844355094698972,25.852837693131406,7.1632631467569565/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -197,7 +197,7 @@ UP&quot; J goods and chattels of the offenders
 the full penalty incurred, to accrue to the State  
 for the use and benefit of the literary fund. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016884:00295877662:1838052901:0465/pct:6.850152905198777,88.28695376150672,17.201834862385322,13.913871547984341/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016884:00295877662:1838052901:0465/pct:5.139972464433226,66.21521532113005,12.911121309469175,10.443339329171517/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -220,7 +220,7 @@ whole sum of money nroDosed to bo ruiaA hv
 such lottery, rafSing or. playing, to be recov­  
 ered by action of debt, in the name of an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016884:00295877662:1838052901:0465/pct:42.217125382263,33.27690191514125,17.522935779816514,5.7348428737699715/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016884:00295877662:1838052901:0465/pct:31.681199326908366,24.960321659083696,13.155881903013615,4.3064226007829856/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -263,7 +263,7 @@ the recovery, within a limited time, of any money
 or other valuable thing, so lost and paid, or de­  
 livered in any Court of record, having cognizanc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293290:1860032901:0307/pct:116.3961038961039,123.89089037570767,42.74891774891775,15.357694287184765/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293290:1860032901:0307/pct:29.102963063184955,30.972722593926918,10.688675416046543,3.8394235717961913/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -286,7 +286,7 @@ lars, he shall be fined thirty dollars, and
 shall, if required by the court, give security  
 for his good behavior for one year, or in de
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00271742101:1876021001:0147/pct:128.80442294402212,164.29640718562874,41.83828610919143,13.510479041916168/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00271742101:1876021001:0147/pct:42.93480764800737,54.765469061876246,13.946095369730477,4.503493013972056/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -320,7 +320,7 @@ persons, before entering upon the discharge
 of any functions as officers of this State, shall  
 take and subscribe the following oath o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00271742101:1876022801:0207/pct:86.98072223730654,147.4820143884892,41.81373879989139,28.675521121564287/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00271742101:1876022801:0207/pct:28.99357407910218,49.16067146282974,13.937912933297131,9.558507040521429/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -379,7 +379,7 @@ adventured for, or any prize or
 thing, to be raffled or played for, or  
 if any person shall sell, or expos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_daisy_ver01:data:sn87065532:00295878812:1887040101:0453/pct:196.045197740113,65.58516801853997,49.47538337368846,17.786790266512167/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_daisy_ver01:data:sn87065532:00295878812:1887040101:0453/pct:49.0409852614577,16.396292004634994,12.376337573187968,4.446697566628042/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -426,7 +426,7 @@ From this it will be seen that any
 person guilty of rattling—which is only  
 one of the many forms of gambling
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_agate_ver01:data:sn86074064:00383343616:1895070201:0419/pct:27.588677893228233,58.36027414974783,13.006091006807596,6.103711366869262/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_agate_ver01:data:sn86074064:00383343616:1895070201:0419/pct:27.583736342468207,58.35272821308508,13.00823929786853,6.10615464184122/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -447,7 +447,7 @@ to be raifiled or played for, he shall, upon
 conviction be fined not more than $20 or  
 be imprisoned not more than one mont
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_daisy_ver01:data:sn87065532:00295878836:1895071201:0737/pct:113.42554922701383,326.158940397351,48.25061025223759,11.975717439293598/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_daisy_ver01:data:sn87065532:00295878836:1895071201:0737/pct:28.356387306753458,81.53973509933775,12.062652563059398,2.9939293598233996/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -478,7 +478,7 @@ eruel, and will srequently en­
 dure obloquy rather than hurt  
 the innocent in the punishmen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_diamond_ver01:data:sn87065469:00383344037:1895071801:1314/pct:148.35314753459366,310.4753389956787,40.16760865328396,36.90955148264044/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_diamond_ver01:data:sn87065469:00383344037:1895071801:1314/pct:37.08106001558846,77.6072705601907,10.039945440374122,9.226013110846246/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -500,7 +500,7 @@ fled or played for, he shall, on convic­
 tion, be fined not more than $20, or be  
 imprisoned not more than one mont
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_daisy_ver01:data:sn87065532:00295878836:1895121301:0824/pct:190.6301824212272,111.49089898568847,48.8391376451078,17.896345699597056/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_daisy_ver01:data:sn87065532:00295878836:1895121301:0824/pct:47.667426912709935,27.87272474642212,12.212315985900892,4.474086424899264/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -533,7 +533,7 @@ licly or privately put up or in any way offer
   
 any prize or thing to be raffled or played fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_daisy_ver01:data:sn87065532:00295878836:1897022601:1070/pct:58.53061224489796,267.5389755011136,48.48979591836735,14.365256124721604/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_daisy_ver01:data:sn87065532:00295878836:1897022601:1070/pct:14.638628011433237,66.8847438752784,12.12739893834218,3.591314031180401/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

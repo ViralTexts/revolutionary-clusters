@@ -360,7 +360,7 @@ tion, by competent persons, would be invaluable. Such a
 map can never he stilfuicutly appreciated until it is  
 executed. Men would then wonder why it hail been ne
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1833083001:0138/pct:21.00770925110132,53.81495286121464,15.129405286343612,4.0013155009866255/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1833083001:0138/pct:21.00481761871989,53.80905403924148,15.13191098875889,4.004530673389602/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -380,7 +380,7 @@ ral and metallic beds, and not altogether—as they atill
 continue to be—by the physical geography of particular  
 lines ol direction.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1833083001:0138/pct:21.02147577092511,63.99912299934225,14.922907488986784,2.5323393992545493/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1833083001:0138/pct:21.018582243633862,63.992107859256826,14.925441615049323,2.5357155906317366/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -467,7 +467,7 @@ ginia, the quartz contains from ten to forty per cent, in
 weight of native gold, so puio as to rise as high as twen­  
 ty-three to twenty-three and a half carats
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1833122401:0273/pct:17.487011211375446,59.16859631712427,14.670494941208641,1.3231888852133642/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1833122401:0273/pct:17.48462064251538,59.16207276736494,14.67304625199362,1.3267181183388461/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1136,7 +1136,7 @@ Most respectfully,
 Your d&lt;-vot*d and faithful servant,  
 u. w. feathebstonhauuii
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:0039334894A:1834010901:0435/pct:1.224239951030402,12.045616535994299,92.65456029381758,81.42551674982181/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:0039334894A:1834010901:0435/pct:1.2239902080783354,12.043899657924744,92.640758873929,81.41747434435575/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

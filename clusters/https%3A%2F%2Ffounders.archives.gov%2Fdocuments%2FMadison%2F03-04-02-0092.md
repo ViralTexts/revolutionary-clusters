@@ -76,7 +76,7 @@ William Pinkney, Esq. of Maryland, our late minis­
 ter to Great-Britam, has been appointed by the Pre­  
 s dent of the United States with the consent of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1811122701:0185/pct:49.203329369797856,79.84270317506554,22.473246135552913,15.919021264200408/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1811122701:0185/pct:49.19163100332858,79.83107616135139,22.473846885401805,15.92034367263725/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -412,7 +412,7 @@ the United States, with a request that he
 communicate them to Congress.  
 NoutoLK, December 1G
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812122101:0329/pct:76.02256699576868,34.953538241601144,16.590267983074753,2.728139147009769/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812122101:0329/pct:76.00916622598272,34.949374627754615,16.59321934308714,2.7317847925352394/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -452,7 +452,7 @@ tions to the President of the United States with
 a request that he communicate them to Congress.  
 Which was decided in the negative by 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:0041566770A:1843020901:0237/pct:312.677304964539,188.71884564932225,58.86524822695036,8.511878734878298/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:0041566770A:1843020901:0237/pct:78.2039911308204,47.17971141233056,14.722838137472284,2.1279696837195745/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

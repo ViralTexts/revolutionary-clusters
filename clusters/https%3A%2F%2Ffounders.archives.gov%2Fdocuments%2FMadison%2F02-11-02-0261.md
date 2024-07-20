@@ -56,7 +56,7 @@ since the last state&#x27;
 mem* wa•-• ma&#x27;d&lt;  
 lination in the par
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806032101:0003/pct:4.04341349223239,23.355525965379496,18.174079591402425,13.422103861517977/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806032101:0003/pct:4.057600907994609,23.359964491788727,18.166985883521317,13.422103861517977/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -98,7 +98,7 @@ wWch,though ota\recent date, are hot
 included in tne \ port.  
 All which is resfi.ee t fi;l lif su
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806032101:0003/pct:4.192381357735688,41.63781624500666,17.62077037667589,17.0439414114514/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806032101:0003/pct:4.192381357735688,41.646693297825124,17.62077037667589,17.04837993786063/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -168,7 +168,7 @@ sent report. ,
 All which is respectfully submitted.  
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806032801:1031/pct:30.598831548198635,2.5591501690004828,42.52677702044791,94.543698696282/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806032801:1031/pct:30.591384765149673,2.55873833279691,42.522511559990264,94.53250724171227/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -237,7 +237,7 @@ in the prefent report.
 All xvbirb it refpeSlfully fubmittiJ.  
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1806032801:0408/pct:22.717900656044986,23.97277863379558,17.844423617619494,29.840780688238315/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1806032801:0408/pct:22.713643178410795,23.969700860187444,17.847326336831586,29.841229083750587/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -497,7 +497,7 @@ are not included in the present report.
 All which is refpeétfully submitted.  
 ~ JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1806041501:0270/pct:59.91832888330454,3.1392807470693422,16.192869483273128,46.3043910192728/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1806041501:0270/pct:59.928799539291134,3.145903702231936,16.198104811266425,46.3043910192728/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

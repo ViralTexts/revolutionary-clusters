@@ -49,7 +49,7 @@ eight, and in the twenty-third year of
 the Independence and Sovereignty of  
 the United States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799020401:0003/pct:76.2964717025811,12.895339954163484,16.78901255031968,9.304812834224599/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799020401:0003/pct:76.2964717025811,12.902979373567609,16.806772436656406,9.312452253628724/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -272,7 +272,7 @@ of war. This commission to continue in fore
 during the pleasure of the President of the Unite  
 States for the time being
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661125:1845081401:0365/pct:27.71861890932559,61.84541792547835,13.310745401742498,9.504028197381672/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661125:1845081401:0365/pct:27.723996988275786,61.84961396441759,13.321501559642895,9.512420275260155/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -304,7 +304,7 @@ the pleasure of tho President of the United States for the
 time being.  
 &quot; Oiven under roy hand, at the city of Washington, th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855103101:1142/pct:16.386138613861387,36.88734924300744,15.75907590759076,7.621247113163972/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855103101:1142/pct:16.386138613861387,36.895902831237706,15.764576457645765,7.621247113163972/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -344,7 +344,7 @@ m sion to continue in force curing the pleasure of the President
 of the United States for the time being.  
 Givep ur der my hand at the city of Washin gton, the sevent
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530480:1855110101:0421/pct:249.258456923846,118.2564597923207,48.041993001166475,18.763583675440714/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530480:1855110101:0421/pct:83.08615230794868,39.418819930773566,16.01399766705549,6.254527891813572/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -395,7 +395,7 @@ independence of the United States.
 And upon the question, whether there is now  
 in force any law fixing the pay and allowance
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82014835:00415661514:1855110101:0410/pct:32.441113490364025,18.619379354021532,13.276231263383298,18.936035465484483/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82014835:00415661514:1855110101:0410/pct:32.441113490364025,18.626416156498486,13.280692362598144,18.936035465484483/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -435,7 +435,7 @@ By the President--JEET&#x27;s Davis, Secretary of War.
 And upon the question, whether there is now in force  
 any law fixing the pay and allowances of the grade o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743221:1855110101:0998/pct:155.12820512820514,59.80975029726516,45.965811965811966,25.90963139120095/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743221:1855110101:0998/pct:51.70940170940171,19.93658343242172,15.321937321937321,8.636543797066984/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -468,7 +468,7 @@ ton, the seventh day of March, in the year of our
 Lord one thousand eight hundred and fifty-five, and  
 in the seventy-ninth year of the independence o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn86071224:00212470053:1855110801:0438/pct:76.07433217189315,87.2938443670151,49.88385598141696,16.771196283391404/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn86071224:00212470053:1855110801:0438/pct:19.026870007262165,21.823461091753774,12.476397966594044,4.192799070847851/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -505,7 +505,7 @@ in the seventy-ninth year of the independence o
 States of America, to all who shall see these pre­  
 sents, greeting: Know yc that, bv virtue of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026384:1861061901:0602/pct:38.68174835916771,49.650004929508036,10.766652702136573,0.9267475105984423/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026384:1861061901:0602/pct:38.68174835916771,49.6532912681981,10.775962388865615,0.9300338492885076/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -522,7 +522,7 @@ sents, greeting: Know yc that, bv virtue of th
 crate Slates ot America, to all who shall see  
 these presents, greeting: Know ye that, b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn84028745:00280775332:1861062001:0953/pct:35.332625619249825,26.66207845836201,14.59660297239915,1.6792842395044736/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn84028745:00280775332:1861062001:0953/pct:26.50858255176075,20.0,10.953813484339054,1.2663454920853408/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -549,7 +549,7 @@ of T. Harrison Baker is commander,
 to act as a private armed vessel in  
 the service of the Confederate States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_beachhaven_ver01:data:sn85035610:00513684976:1861062601:0300/pct:27.925824175824175,23.748014822657492,11.030219780219781,8.014822657490736/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_beachhaven_ver01:data:sn85035610:00513684976:1861062601:0300/pct:27.92198873781074,23.745500741054414,11.033282973950465,8.017502999505965/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -631,7 +631,7 @@ On the morning of the 10th inst, at S a me,
 the p acket-ship Harvey Birch of New-York;  
 bore down upon her; when near enough
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530698:1861120901:0708/pct:59.947916666666664,20.790611488573195,49.96527777777778,40.568252007411985/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530698:1861120901:0708/pct:19.98263888888889,6.930203829524398,16.65509259259259,13.522750669137327/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -679,7 +679,7 @@ lRFFERSON DAYIs.
 By the President. S. R. MALLoRr, Secretary  
 of the Navy.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:00206539884:1861121001:0633/pct:272.8314238952537,152.13270142180096,51.47299509001637,39.040284360189574/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:00206539884:1861121001:0633/pct:68.24974411463664,38.03317535545024,12.876151484135107,9.760071090047393/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -703,7 +703,7 @@ States, to rank as such from the 10th day of
 June, A. D. 1861. He is, therefore, carefully  
 and dilligently
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn99066040:00206539884:1861121401:0653/pct:276.778413736713,145.80509112818194,51.34914145543745,15.363759602349752/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn99066040:00206539884:1861121401:0653/pct:69.22290388548058,36.451272782045486,12.842535787321063,3.840939900587438/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1010,7 +1010,7 @@ This commission to continue In force during tho
 Xdt-afcre of the President of the United Slates for  
 liic limebtitig
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1862081401:0001/pct:1.9927880053141014,57.61863922241281,10.457392294553046,9.476843910806174/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1862081401:0001/pct:1.9927880053141014,57.61863922241281,10.471626494591003,9.487564322469982/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1103,7 +1103,7 @@ observe and follow suich orders and directione, from time to
 sline, es he shall receive from me, or the futurs Governor of  
 the State of houlriana, or othor superlor officern according
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basic_ver01:data:sn83030213:00206530728:1862090401:0037/pct:53.161019909186166,213.55333658061375,48.14879497031086,20.920603994154895/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basic_ver01:data:sn83030213:00206530728:1862090401:0037/pct:17.720339969728723,71.18444552687124,16.049598323436953,6.973534664718298/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1183,7 +1183,7 @@ Done in Chicago, Illinois, this tenth day ol
 February, in the year ol our Lord one thousand  
 eight hundred and sixty-three
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn82014998:00279557992:1863042501:0067/pct:17.633717633717634,78.08574549426542,14.137214137214137,8.315128345166576/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn82014998:00279557992:1863042501:0067/pct:17.633717633717634,78.08574549426542,14.151389151389152,8.32195521572911/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1216,7 +1216,7 @@ land, to be obedient to bis orders as Assistant
 urgeon.  
 Given under my hand at the War Depart
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340615:1864031201:0251/pct:32.021857923497265,73.04739211014032,12.076502732240437,8.419380460683081/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340615:1864031201:0251/pct:32.01602622473138,73.03772336201192,12.078856310325987,8.421575115817339/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1249,7 +1249,7 @@ to continte in force during the pleasure of the United States
 for the time being.  
 Given ander my hand at the city of Washington the i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_cobol_ver01:data:sn83030213:00206530777:1864062201:0382/pct:8.020447734884542,98.18520820385332,48.915917503966156,21.95152268489745/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_cobol_ver01:data:sn83030213:00206530777:1864062201:0382/pct:2.673482578294847,32.728402734617774,16.305305834655385,7.317174228299151/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1311,7 +1311,7 @@ ficers and privates, under his command,
 to be obedient to his orders as 24 Lieut-  
 enant and he is
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_forge_ver01:data:sn85038558:00280761540:1879041901:0068/pct:125.856,100.53224796493426,38.256,19.254852849092046/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_forge_ver01:data:sn85038558:00280761540:1879041901:0068/pct:41.952,33.51074932164475,12.752,6.418284283030682/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1339,7 +1339,7 @@ charge and require all officers and soldier
 under his command, to be obedient to his  
 orders as such. AnJ he is to obAerve an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_eiffel_ver02:data:sn83016925:00295878769:1884041601:0635/pct:59.84500574052813,48.469601677148844,13.059701492537313,1.970649895178197/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_eiffel_ver02:data:sn83016925:00295878769:1884041601:0635/pct:44.9038185472294,36.35220125786164,9.790410565604365,1.4884696016771488/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1374,7 +1374,7 @@ Presiit ill of tbe United rHates for tbe tine being.
 Given under my hand, at the city of Washington.  
 Uit fifteenth day of July, in tlte year o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_franklin_ver01:data:sn82016187:00211102950:1888052401:0197/pct:4.628647214854111,33.97403642950589,16.69761273209549,10.033209218073866/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_franklin_ver01:data:sn82016187:00211102950:1888052401:0197/pct:3.4757230034491906,25.480527322129415,12.536481825417884,7.52742276340948/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1492,7 +1492,7 @@ as aforesaid by doing and performing all
 manner of things thereunto properly be­  
 longing, this commission to continue i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_ginger_ver02:data:sn87068097:0038334072A:1889093001:0722/pct:17.22772277227723,15.915783274440518,12.554455445544555,8.81919905771496/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_ginger_ver02:data:sn87068097:0038334072A:1889093001:0722/pct:17.224312017422292,15.913440306197556,12.556919421896653,8.821581039305167/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1618,7 +1618,7 @@ of the United of America ti
 hundred and eighteenth  
 By the General and Commander i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_batman_ver01:data:sn86069161:00100481881:1894091901:0411/pct:34.36957779063042,25.359401955146637,9.89010989010989,22.84071305347901/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_batman_ver01:data:sn86069161:00100481881:1894091901:0411/pct:34.36957779063042,25.359401955146637,9.89010989010989,22.84933870040253/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1659,7 +1659,7 @@ ruloaand discipline of war.
 &quot;Given under my hand and the seal of  
 tho state at the city of Charleston thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_denmark_ver01:data:sn84026844:00202193626:1894112301:1016/pct:15.391733497840839,65.30648610121169,18.445404071560766,13.310762651461154/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_denmark_ver01:data:sn84026844:00202193626:1894112301:1016/pct:15.399444787168415,65.30648610121169,18.46853793954349,13.324126870990733/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1763,7 +1763,7 @@ by doing and performing all manner
 of things thereto belonging or not to­  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:0020653476A:1898040401:0340/pct:84.65589887640449,72.90282131661442,19.030898876404493,7.786833855799373/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:0020653476A:1898040401:0340/pct:56.47286140874758,48.60188087774295,12.699806780256456,5.191222570532916/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1803,7 +1803,7 @@ United States for the time being.
 liven under my hand at the city of  
 Helena, Montana, thisday of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_avocet_ver01:data:sn84036012:00294550161:1898051201:0658/pct:168.77659574468086,239.49543899657925,38.191489361702125,36.944127708095785/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_avocet_ver01:data:sn84036012:00294550161:1898051201:0658/pct:56.258865248226954,79.83181299885975,12.73049645390071,12.314709236031927/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1831,7 +1831,7 @@ strictly require all officers and soldiers
 under her command to be obedient to her  
 orders, and she is to obey all such or­
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_ahwahnee_ver01:data:sn85066387:00175037706:1898052201:0347/pct:71.06966707768187,71.14920050615437,13.270653514180024,5.3031174508225005/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_ahwahnee_ver01:data:sn85066387:00175037706:1898052201:0347/pct:71.06966707768187,71.15686951186778,13.275791204274558,5.306951953679206/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1885,7 +1885,7 @@ during tin* pleasure of flu* President of
 the United States for tin* time being.  
 Given under my hand at the city o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:00332892137:1898063001:0012/pct:49.3861515796366,29.733907474881306,14.568669176624653,14.773103676714143/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:00332892137:1898063001:0012/pct:49.39160801003983,29.733907474881306,14.563212746221422,14.776784071252438/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1933,7 +1933,7 @@ of our Lord One Thousand Seven Hundred
 and Ninety-Three, and in the Seventeonth  
 year of the Independence of the Unite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_hoquiam_ver01:data:sn83045604:00202199483:1898072001:0519/pct:202.91290416545294,138.26066950419877,39.92135158753277,39.89416772115495/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_hoquiam_ver01:data:sn83045604:00202199483:1898072001:0519/pct:67.63763472181765,46.08688983473293,13.307117195844256,13.298055907051651/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2011,7 +2011,7 @@ force during the pleasure of the presi­
 dent of the United States for the time  
 being. Given under my hand at th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_fleming_ver01:data:sn84020630:00415628997:1898111801:1116/pct:78.8322632423756,38.45503242176487,16.151685393258425,19.438962503524106/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_fleming_ver01:data:sn84020630:00415628997:1898111801:1116/pct:59.164826340092354,28.841274316323652,12.126079100582212,14.589794192275162/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2052,7 +2052,7 @@ orce during the pleasure of the president
 of the United States for the time being.  
 iven under my hand at the city o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_hollyhock_ver01:data:sn84020613:00280774030:1898112201:1125/pct:153.01632363378283,81.2858141160028,42.086586231369765,46.009783368273936/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_hollyhock_ver01:data:sn84020613:00280774030:1898112201:1125/pct:38.26086956521739,20.3214535290007,10.523513753327418,11.502445842068484/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2105,7 +2105,7 @@ dent of the United States for the time
   
 belni. (liven under my band at the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_juniper_ver02:data:sn92070422:00200290203:1898112601:0469/pct:9.815546772068512,57.39659984775437,28.326745718050066,29.6878964729764/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_juniper_ver02:data:sn92070422:00200290203:1898112601:0469/pct:7.382992748846408,43.06013702106065,21.25906394199077,22.25323521948744/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2210,7 +2210,7 @@ he shall receive from me or the future pres
 ident of tbe United S&#x27;ates of America.  
 By the president : Given under my han
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_melon_ver01:data:sn84022549:0041562931A:1899030801:0073/pct:35.032362459546924,92.45441795231416,14.77346278317152,19.817671809256662/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_melon_ver01:data:sn84022549:0041562931A:1899030801:0073/pct:26.282569995144847,69.34081346423562,11.085936235636835,14.866760168302946/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2259,7 +2259,7 @@ the rules and discipline of the navy.
 during the pleasure of the president of the  
 United States for the tlmo being
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_beatrice_ver01:data:sn99021999:00206538934:1899031601:0538/pct:54.082661290322584,11.600316372264698,12.163978494623656,11.389401529132613/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_beatrice_ver01:data:sn99021999:00206538934:1899031601:0538/pct:54.082661290322584,11.600316372264698,12.163978494623656,11.39928816240443/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2299,7 +2299,7 @@ Lord one thousand eight hundred and
 ninety-nine and of the independence of the  
 United States the hundred and twenty-third.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_beatrice_ver01:data:sn99021999:00206539471:1899060101:0444/pct:10.010337698139214,59.61881255998903,16.40248104755341,15.13780337309749/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_beatrice_ver01:data:sn99021999:00206539471:1899060101:0444/pct:7.513355161123557,44.71410941999177,12.303980699638117,11.36706430824078/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2327,7 +2327,7 @@ Navy from the 2d day of March, 1S99.
 In the service ot the United States. He  
 is
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_earl_ver02:data:sn85054468:211102202:1899100101:0541/pct:123.49023090586145,27.808988764044944,16.444641799881587,24.51685393258427/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_earl_ver02:data:sn85054468:211102202:1899100101:0541/pct:82.36339404709018,18.53932584269663,10.972900932918703,16.348314606741575/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2388,7 +2388,7 @@ things thereunto belonging, and I do
 under his command to be obedient to  
 his orders, and he is to obey such
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_isbell_ver01:data:sn86061214:00415668673:1899122601:0448/pct:6.211046636578551,67.89873417721519,15.387921770900494,6.70042194092827/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_isbell_ver01:data:sn86061214:00415668673:1899122601:0448/pct:4.9687661184022005,54.31837616454386,12.327354003094733,5.369278545389081/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

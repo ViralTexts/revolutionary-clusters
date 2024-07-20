@@ -195,7 +195,7 @@ the number of vessals of war to bn built or p’urcha.m?
 nor upon the number of land forces to be r.i.!d, no! .D­  
 pomt a Commander in Chief, unless nine States assent t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1833120301:0244/pct:81.593183662429,59.9737245456536,14.525290776305113,5.5068973067659295/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1833120301:0244/pct:81.58215010141988,59.9671592775041,14.527834122154609,5.509943440977923/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -252,7 +252,7 @@ I sea forces to be raised, nor appoint a commander-in-chief
 of the Army or Navy, unless nine States assent to the  
 | same; nor shall a question on any other point. except fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215919:1854050601:0430/pct:32.626519649420416,10.907172995780591,12.609556121006502,3.523206751054852/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215919:1854050601:0430/pct:32.62344515642668,10.906406019267282,12.611508983540645,3.5253029557227573/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -282,7 +282,7 @@ gross assembled.&quot;
 In passing, let mo take occasion to refer to the gen- 11  
 tlemon from Miaaouri. who made reference to the 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1854052601:0238/pct:16.930607543910163,66.80700411443881,15.562913907284768,6.028131279303416/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1854052601:0238/pct:16.930607543910163,66.81338308933755,15.562913907284768,6.024941791854049/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -311,7 +311,7 @@ of the States.
   
 Such was the Confederation under which, it wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026372:1860111301:0473/pct:3.7204696562455792,58.08514891065361,11.133116423822322,6.146312212672396/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026372:1860111301:0473/pct:3.7204696562455792,58.091811579718836,11.137831847974725,6.152974881737624/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -340,7 +340,7 @@ of the States.
   
 Such was the Confederation tinder which, it wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026372:1860111301:0474/pct:3.4516904795586365,58.045172896262244,11.133116423822322,6.01639016590046/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026372:1860111301:0474/pct:3.4516904795586365,58.045172896262244,11.137831847974725,6.026384169498301/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -466,7 +466,7 @@ or the number of land or sea force- to he raised,
 nor appoint a Commander-In-Chief of the army or  
 navy, unless nine bUtes assent to the same
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1877110501:0005/pct:57.17684377478192,40.66532258064516,13.137721385144065,4.133064516129032/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1877110501:0005/pct:57.19666931007137,40.67036290322581,13.117895849854612,4.143145161290323/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -542,7 +542,7 @@ unless nine states assent to the same.
 Just before the close of the war in  
 1788, I find that for five years Ne
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_elkweed_ver01:data:sn92070464:00280773797:1893060301:0273/pct:115.6390977443609,348.9929156827337,50.07518796992481,28.892901791915545/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_elkweed_ver01:data:sn92070464:00280773797:1893060301:0273/pct:28.9206468597217,87.24822892068343,12.523505077096653,7.223225447978886/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

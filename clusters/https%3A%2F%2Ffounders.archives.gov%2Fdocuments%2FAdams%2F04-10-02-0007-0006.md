@@ -82,7 +82,7 @@ permission, allowing to all people the
 &quot;right to emigrate from one state to an  
 other that will receive them.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84022473:00280777535:1873051901:0064/pct:24.655547498187094,233.94919168591224,42.494561276287165,14.203233256351039/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84022473:00280777535:1873051901:0064/pct:6.166122597025753,58.48729792147806,10.627493652520856,3.5508083140877598/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -101,7 +101,7 @@ it is odd, and it is only in the Constitution
 as a relic of a bygone time, of questions  
 since settled, and of a confederate theor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84022473:00280777535:1873052101:0072/pct:23.608017817371937,164.24870466321244,43.57832219747587,10.305123776626367/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84022473:00280777535:1873052101:0072/pct:5.903100055689623,41.06217616580311,10.89660293298682,2.5762809441565917/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -122,7 +122,7 @@ permission, allowing to all people the
 &quot;right to emigrate from one state to an­  
 other that will receive them.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn84022488:00280777936:1873052301:0832/pct:29.160636758321274,338.3096137089747,42.54703328509407,14.289863491141446/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn84022488:00280777936:1873052301:0832/pct:7.290159189580319,84.57740342724368,10.636758321273517,3.5724658727853615/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -152,7 +152,7 @@ as follows: &quot;That all people have a natural
 and inherent right to emigrate from one  
 State to another that will receive thein
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777067:1883040601:0633/pct:108.6048454469507,25.81512605042017,43.35839598997494,9.949579831932773/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777067:1883040601:0633/pct:27.162557459256163,6.453781512605042,10.844128708733807,2.4873949579831933/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -198,7 +198,7 @@ for the purpose of escaping taxation, and
 says that if the courts decide against him in  
 the pending suits he will cheerfully pay hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_elm_ver01:data:sn82015483:00271764194:1883040901:0421/pct:75.04327755337565,117.14217500298436,13.286208886324292,6.625283514384624/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_elm_ver01:data:sn82015483:00271764194:1883040901:0421/pct:56.314042430365134,87.85961561418169,9.972579015730986,4.965978273845052/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -220,7 +220,7 @@ from one State to another that will receive
 them.  
 Did he emigrate to any other &quot;State?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777067:1883041301:0642/pct:158.9700996677741,259.98317914213624,43.438538205980066,13.793103448275861/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777067:1883041301:0642/pct:39.74252491694352,64.99579478553406,10.859634551495017,3.4482758620689653/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -241,7 +241,7 @@ Did he emigrate to any other &quot;State?
 &quot;chase whenever they think that thereby  
 &quot;they can promote their own happiness.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_avenger_ver01:data:sn91099608:00415665398:1883072701:0615/pct:54.06179660323307,90.4951709336195,15.326376099856763,4.062547907404569/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_avenger_ver01:data:sn91099608:00415665398:1883072701:0615/pct:43.255484011786535,72.40505294141695,12.266724871766888,3.2500715424553372/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

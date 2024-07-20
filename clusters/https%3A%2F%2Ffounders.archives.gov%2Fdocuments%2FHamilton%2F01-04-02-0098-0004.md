@@ -174,7 +174,7 @@ upon a democratic plan. See the excellency oft ho
 British executive-lie is placed above temptation—  
 Ke can have no distinct interest from the public vvul
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1821090701:0146/pct:20.62480076506216,22.168646360108198,14.966528530443098,21.380689168528754/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1821090701:0146/pct:20.621513944223107,22.16603951081844,14.96945551128818,21.38209470053308/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -576,7 +576,7 @@ contravene the general laws. An officer to
 be appointed in each State to have a nega  
 tire on all State laws.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:0039334894A:1833022801:0252/pct:33.52679435093829,56.535719278624356,15.283420390791255,9.017195582273173/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:0039334894A:1833022801:0252/pct:33.520309477756285,56.52781660609449,15.285299806576402,9.019429689684094/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -663,7 +663,7 @@ answer the purpose of a good Government, SO
 LONG AS STATE SOVEREIGNTIES DO IN  
 ANY SHAPE EXIST.””—Ibid - p. 129.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1837092601:0559/pct:19.502074688796682,41.83683836228792,14.09306461173681,3.952047140099563/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1837092601:0559/pct:19.511954159257066,41.83683836228792,14.098004346967002,3.9554336415049614/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -682,7 +682,7 @@ and national Government, compl:tsly soverign, and
 ANNIHILATE THE STATE DISTINCTIONS  
 AND STATE OPERATIONS.” —lbid. p. 132
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1837092601:0559/pct:19.457617071724954,45.79904500660368,14.078245406046236,2.306207457076095/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1837092601:0559/pct:19.462556806955146,45.80581800941447,14.073305670816044,2.306207457076095/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -711,7 +711,7 @@ the oxtremities, the STATE GOVERNMENTS RE­
 DUCED TO CORPORATIONS, and with very  
 limited powers might be NECESSESSARY.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1837092601:0559/pct:19.427978660343804,48.0544549425988,14.137522228808535,6.613837244742457/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1837092601:0559/pct:19.437858130804187,48.0612279454096,14.142461964038727,6.610450743337059/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -748,7 +748,7 @@ It comes, it comes with the golden sheaf
 In the time of the sere and yellow leaf,  
 And it flings the fruit from the bended tree
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1837092601:0559/pct:19.502074688796682,55.115310372853806,14.09306461173681,10.576043889058214/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1837092601:0559/pct:19.511954159257066,55.1186968742592,14.09306461173681,10.576043889058214/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1021,7 +1021,7 @@ lb.
 &quot; See the excellency of the British excutive.-  
 He is placed above temptation. Nothing short o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197966:1838092601:0154/pct:112.76233692569484,49.63800904977376,20.54736245036869,12.56787330316742/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197966:1838092601:0154/pct:84.58374698624309,37.22850678733032,15.416253013756913,9.434389140271493/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1052,7 +1052,7 @@ the rich and the weli born, the other the mass
 of the people.” —llb,  
 “I&#x27;he peeple are turbulent and changinz y
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153231:1838092601:0735/pct:6.865987564492658,26.858817782120177,14.47281386426776,8.676111382510992/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153231:1838092601:0735/pct:6.8748070732460205,26.865331379254194,14.481633373021122,8.676111382510992/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1072,7 +1072,7 @@ Jogislaters.] can check the imprudence of De-
 “ Bee the excelleney of the British Execu­  
 tive. He is placed above temptation. Nothin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153231:1838092601:0735/pct:6.865987564492658,35.90620420127015,14.552189443048022,2.589154860771861/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153231:1838092601:0735/pct:6.8748070732460205,35.91271779840417,14.54336993429466,2.5858980622048526/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1124,7 +1124,7 @@ PEOPLE.” —[ALExANDER HamiLTON. :
 *“ The people are turbulent and changiug ; they sel­  
 dom judge, or determine nght.”’—[ALEXANDER HA
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1838111301:0181/pct:33.348115299334815,17.724016197694944,15.018477457501847,9.157927525698266/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1838111301:0181/pct:33.357969943335796,17.724016197694944,15.018477457501847,9.157927525698266/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1143,7 +1143,7 @@ executive, [a king] can be eflicient.” —[ALEXANDER
 HaminToN.  
 ‘“ I confess the plan of government which I propose, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1838111301:0181/pct:33.4220251293422,29.052019520299034,14.98891352549889,2.616550721628076/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1838111301:0181/pct:33.42695245134269,29.055480566227114,14.993840847499385,2.616550721628076/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1183,7 +1183,7 @@ can answer the purpose of a good gov
 ernment, so Jong as the state govern­  
 ments do, in any shape, exist. Alkx
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn87065654:00295878216:1838112401:0634/pct:8.64304235090752,23.92444910807975,61.1495246326707,18.99265477439664/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn87065654:00295878216:1838112401:0634/pct:6.483682731791657,17.94333683105981,45.882861465312295,14.255733773047519/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1220,7 +1220,7 @@ exander Hamilton.
 &#x27;I confess the plan of government  
 wliith I propose,- is very remote fro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn87065654:00295878216:1838112401:0634/pct:8.47018150388937,42.932094138809774,20.095073465859983,21.001349123070003/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn87065654:00295878216:1838112401:0634/pct:6.354009077155824,32.19907060410733,15.085368489301924,15.75475940638585/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1251,7 +1251,7 @@ changing ; they seldom judge or determine right »
 that ** nothing but a permanent body [of life legislators]  
 can check the imprudence of democracy.”” The elde
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1839030501:0245/pct:49.14069327119138,43.51176838158717,14.695601514710166,3.3222245365548844/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1839030501:0245/pct:49.15040295174289,43.51176838158717,14.705311195261675,3.329167534541415/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1267,7 +1267,7 @@ can check the imprudence of democracy.”” The elde
 ~ The people are turbulent and changing—  
 they seldom judge or determine right
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1839041001:1051/pct:40.153452685421996,20.825121534620944,14.65107782243332,1.0116936013664433/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1839041001:1051/pct:40.15954207770064,20.833880786580828,14.64498843015467,1.0160732273463846/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1285,7 +1285,7 @@ cracy.”—A. HamiLron.
 1 believe the British Government forms the  
 best model the world ever produced.”A. Ham
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1839041001:1051/pct:40.189989039093895,22.336092497700697,14.523200584581659,2.0365260806727106/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1839041001:1051/pct:40.189989039093895,22.344851749660577,14.529289976860309,2.032146454692769/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1322,7 +1322,7 @@ f &#x27; 1&quot;&quot; O&#x27;-O 7 J
 &quot; See the excellency of the British Executive.  
 &quot; He is placed above temptation. Nothing short of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197966:1839051501:0291/pct:2.014348785871965,65.91958553891205,20.59878587196468,13.075796823966662/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197966:1839051501:0291/pct:1.5178694632261625,49.442504786575064,15.454670898302746,9.809663250366032/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1381,7 +1381,7 @@ Such was the form of Government pro­
 posed by Alexander Hamilton a Gov  
 ernment of the &quot; rich and well-born&quot; a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_kingsombra_ver01:data:sn87065337:00415662002:1839083101:0252/pct:74.40312213039486,60.84544253632761,24.012855831037648,36.90885072655218/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_kingsombra_ver01:data:sn87065337:00415662002:1839083101:0252/pct:55.82089552238806,45.640686922060766,18.025258323765787,27.675033025099076/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1424,7 +1424,7 @@ of (lie people.” &#x27; —lb, :
 “The people are turbulent and changing ;  
 they seldam judge or determive right.” /6
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153231:1839092501:1127/pct:6.748630228517974,28.1524926686217,14.646532139516237,9.110459433040079/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153231:1839092501:1127/pct:6.757539311327899,28.155751058976865,14.646532139516237,9.113717823395243/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1441,7 +1441,7 @@ mocrac) N, .
 “ See the excellerey of the British Execu­  
 tive. He is placed above temptation. Nothin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153231:1839092501:1127/pct:6.8956300948817315,38.220918866080154,14.392623279433382,1.4858260019550342/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153231:1839092501:1127/pct:6.904539177691657,38.22417725643532,14.392623279433382,1.4923427826653632/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1574,7 +1574,7 @@ check the imprudence ot Democracy. Their turbulent
 and uncontrolling disposition requires checks.  
 John Lancrdon, Senator from New Hampshire, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1840032101:0417/pct:16.972408650261,12.295984780214278,16.286353467561522,8.21067387603885/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1840032101:0417/pct:16.977380064628388,12.302660124828945,16.281382053194132,8.214011548346184/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1590,7 +1590,7 @@ John Lancrdon, Senator from New Hampshire, an
 said &quot;nothing but a permanent bod, ycan check the impru-  
 dence ofdemocracy. &quot;He therefore advocated a Senate forlife
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023294:00200296096:1840050801:0004/pct:158.50973751058424,168.67605633802816,59.695173581710414,3.436619718309859/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023294:00200296096:1840050801:0004/pct:39.64421855146124,42.16901408450704,14.930114358322745,0.8591549295774648/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1608,7 +1608,7 @@ the people should be strong and the Government weak.
 He is above temptation. Nothing short of such an executive­  
 ta king can be efficient.&quot; He therefore advocated a Presi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023294:00200296096:1840050801:0004/pct:158.5944115156647,180.7887323943662,59.441151566469095,7.605633802816901/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023294:00200296096:1840050801:0004/pct:39.66539601863617,45.19718309859155,14.866581956797967,1.9014084507042253/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1669,7 +1669,7 @@ tie Who, then, was the founder of have a negattve on all State law, AN
 that party, and what hte principles? Al. the militia and the appointment 0(  
 exander Hamilton was the min. It was cers to be under the National Govern.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cousteau_ver02:data:sn84028888:00296027376:1840051501:0151/pct:86.18363794604004,32.05167640725931,40.57876414273281,13.503537373115964/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cousteau_ver02:data:sn84028888:00296027376:1840051501:0151/pct:64.67131040487592,24.038757305444477,30.4527644754027,10.135342971393417/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1690,7 +1690,7 @@ am convinced that no ammarnent of the iew choice spirits who may act from
 Confederation ado answer the purpoet more worthy motivea, One great er4  
 of a good Government so long as State ror
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cousteau_ver02:data:sn84028888:00296027376:1840051501:0151/pct:86.90165361183638,65.11842509996924,38.81636205395996,6.1980928944940015/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cousteau_ver02:data:sn84028888:00296027376:1840051501:0151/pct:65.2154984762734,48.846508766533375,29.12494558119286,4.644724700092279/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1712,7 +1712,7 @@ us to be unattainable. it was once for- eral party ptonounce the American, pee.
 med it would maintain itself. All corn- ple incapable ofe Democratic Gevern.b  
 and the many. The first are the riz
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cousteau_ver02:data:sn84028888:00296027376:1840051501:0151/pct:86.94516971279373,75.3306674869271,39.07745865970409,7.982159335589049/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cousteau_ver02:data:sn84028888:00296027376:1840051501:0151/pct:65.23726599912929,56.505690556751766,29.32085328689595,5.982774530913565/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1745,7 +1745,7 @@ receive any advantage .by a change, reasons it was, as he boldly declared,
 they, therefore, will over maintain a that he prefered the English ferm &quot;fats  
 good Government.. Can a democratic vernment, with all its abuses, with it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cousteau_ver02:data:sn84028888:00296027376:1840051501:0151/pct:86.96692776327241,81.34420178406644,39.273281114012185,13.949553983389727/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cousteau_ver02:data:sn84028888:00296027376:1840051501:0151/pct:65.2590335219852,61.01199630882805,29.473225946887244,10.47370039987696/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1796,7 +1796,7 @@ mode in which I would propose the elec. power ehobld remelts rit the ;fitatee in
   
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cousteau_ver02:data:sn84028888:00296027376:1840051501:0151/pct:86.64055700609225,99.49246385727469,41.601392515230636,28.591202706859427/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cousteau_ver02:data:sn84028888:00296027376:1840051501:0151/pct:65.0195907705703,74.62319286373423,31.214627775359165,21.439557059366347/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1839,7 +1839,7 @@ officers to be appointed by the execiiiiió
 and the senate. The legielatere Iti ,  
 , point courts in each State, so as to makti
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cousteau_ver02:data:sn84028888:00296027376:1840051501:0151/pct:86.77110530896432,18.332820670562903,41.4490861618799,111.48877268532759/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cousteau_ver02:data:sn84028888:00296027376:1840051501:0151/pct:65.1066608619939,13.749615502922177,31.105790161079668,83.62042448477392/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1867,7 +1867,7 @@ he can have no distinct interest from the public
 welfare. Nothing short of such an Erecutive  
 can be esficient.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016867:00295877637:1840051601:0560/pct:145.86345381526104,60.66795473364615,60.88353413654618,24.56527739442451/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016867:00295877637:1840051601:0560/pct:36.473187387025504,15.166988683411537,15.223940550311308,6.141319348606127/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1892,7 +1892,7 @@ hies. ao, the end of government. and
 government se nothing but the appro­  
 priate instrument , of plunder. Whil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cousteau_ver02:data:sn84028888:00296027376:1840052201:0155/pct:105.87478559176672,96.59437996334759,18.95368782161235,9.453268173488087/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cousteau_ver02:data:sn84028888:00296027376:1840052201:0155/pct:79.4338408749732,72.44960293219303,14.218314389877762,7.101405009163103/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2026,7 +2026,7 @@ tiie appointment of officers to be under the
   
 National Government.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00416156888:1840052301:0258/pct:1.364522417153996,34.251086813331575,19.49317738791423,82.05769990778553/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00416156888:1840052301:0258/pct:1.0237244068898277,25.688315109998683,14.640883977900552,61.5465683045712/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2122,7 +2122,7 @@ good? Nothing but a permanent body can check the imprie
 lence of Democracy. Their turbulent and uncontroling  
 disposition requires checks.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023294:00200296096:1840061201:0023/pct:64.65076660988075,319.7529130984136,59.54003407155025,35.93991295802331/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023294:00200296096:1840061201:0023/pct:16.17302365224803,79.9382282746034,14.894523758789687,8.984978239505827/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2180,7 +2180,7 @@ placed above temptation. Nothing short of such an ex­
 ecutive, (a king) can be efficient.&quot; -ALExANdER HAMIl­  
 I confess the plan of government which I propose, i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023294:00200296096:1840081401:0060/pct:157.2986577181208,300.42170368287884,59.31208053691275,36.26651672757942/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023294:00200296096:1840081401:0060/pct:39.33291378225299,75.10542592071971,14.831130690161528,9.066629181894855/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2212,7 +2212,7 @@ changing, and seldom determine right;&quot; and
 tinct and permanent share in the Government, so  
 that they can check the unsteadiness of the mas
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn92053237:00212472025:1840082801:0062/pct:23.45301757066463,301.8186790646793,60.42780748663102,49.66498017229591/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn92053237:00212472025:1840082801:0062/pct:5.863254392666158,75.45466976616983,15.106951871657754,12.416245043073978/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2229,7 +2229,7 @@ that they can check the unsteadiness of the mas
 ernmeat forms the best model  
 the world ever produced.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1840090101:0558/pct:21.293997371111434,15.807560137457045,7.112604060172338,1.228782672081641/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1840090101:0558/pct:21.29886568326761,15.807560137457045,7.107735748016163,1.2322538095733973/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2250,7 +2250,7 @@ Nothing short of such an Ex­
 ecutive (a King) can be sufl­  
 ficien
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1840090101:0558/pct:21.293997371111434,17.046756222013954,7.112604060172338,2.7491408934707904/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1840090101:0558/pct:21.29886568326761,17.053698496997466,7.107735748016163,2.7421986184872784/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2270,7 +2270,7 @@ Al political esmmunities cught 10 be divided into !
 L,;&quot;KLLOPLE»”——-[A‘LEXA NDER [IaMmiLTOoN. i  
 ’ B 3¢ The peaple are tuwrbulent and changing : they seldom 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1840090801:0561/pct:65.19643639550168,23.36631622345908,14.838615452022784,2.9890744176458464/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1840090801:0561/pct:65.20617301981403,23.373187658901944,14.833747139866608,2.985638699924414/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2291,7 +2291,7 @@ placed above 11-‘,n)p[ill]ull. Nothing short of such an Ex- |
 ecutive (a Kmg) can be suflicient &gt;—~A HamiLToN. |  
 ~ ““ I confess the plun of government which 1 propose, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1840090801:0561/pct:65.19643639550168,26.716141001855288,14.838615452022784,3.370439084724799/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1840090801:0561/pct:65.20617301981403,26.716141001855288,14.833747139866608,3.377310520167663/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2314,7 +2314,7 @@ TON,
 ¢« [ despair that axy republican form of  
 &amp;nmment can remove the difficuitie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153243:1840091901:0025/pct:3.233323623652782,61.065400843881854,15.161666181182639,5.675105485232067/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153243:1840091901:0025/pct:3.233323623652782,61.065400843881854,15.161666181182639,5.682137834036568/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2340,7 +2340,7 @@ PEOPLE.”—A. HamiLron.
 ing ; they seldom judge of, or determine  
 right.”—A. HamiLToN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153243:1840091901:0025/pct:3.291581706961841,67.19409282700423,15.117972618700845,6.487341772151899/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153243:1840091901:0025/pct:3.3012913875133507,67.19409282700423,15.117972618700845,6.4978902953586495/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2362,7 +2362,7 @@ TON,
 «“] confess the plan of government  
 which I propose, is very remote from th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153243:1840091901:0025/pct:3.291581706961841,74.68354430379746,15.117972618700845,4.725738396624473/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153243:1840091901:0025/pct:3.3012913875133507,74.68706047819971,15.11311777842509,4.732770745428973/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2474,9 +2474,9 @@ can be efficient.&quot; Alexander Uamnton.
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1842-08_11_50/page/n30/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1842-08_11_50/page/n30/mode/1up?view=theater)
 
-#### 1842-08-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1842-08-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2543,7 +2543,7 @@ as Stats sonhkiomtibs do itr any shafb
   
 exist, f The General Government, a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn87065337:00295878204:1842082001:0367/pct:71.46974063400576,110.82238720731011,23.29490874159462,9.40890919474586/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn87065337:00295878204:1842082001:0367/pct:53.61518135959645,83.12392918332381,17.487388902233967,7.053112507138778/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2581,7 +2581,7 @@ cannot receive any advantage by a change,
 they therefore will ever maintain good  
 government.&quot; Such were the bold an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn87065337:00295878204:1842082001:0367/pct:96.15754082612872,20.98800685322673,23.60710854947166,16.70474014848658/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn87065337:00295878204:1842082001:0367/pct:72.13547922171512,15.74814391776128,17.72760028825366,12.535693889206168/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2618,7 +2618,7 @@ The people are turbulent and changing;
   
 they seldom judge or determine right.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn82014968:00212472025:1842111101:0520/pct:269.21862667719023,246.77195899141037,120.83662194159432,117.2623995566639/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn82014968:00212472025:1842111101:0520/pct:67.33122779313068,61.69298974785259,30.221081721279116,29.315599889165973/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2659,7 +2659,7 @@ welfare. Nothing but such an executive
 can be efficient.&quot; He then submits his  
 plan of an executive and senate for life
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn82014968:00212472025:1842111101:0520/pct:327.94001578531964,288.8334718758659,62.11523283346488,66.27874757550568/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn82014968:00212472025:1842111101:0520/pct:82.01737070667193,72.20836796896647,15.534938807737861,16.56968689387642/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2802,7 +2802,7 @@ appointed who dares execute Lis powers.”
 less dangerous to the liberties of the people when  
 in office during life, than for seven years.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153218:1844042701:0207/pct:30.429362880886426,53.83335182514146,12.340720221606649,11.239320980805504/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153218:1844042701:0207/pct:30.429362880886426,53.83335182514146,12.34533702677747,11.250416065682902/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2833,7 +2833,7 @@ The people are turbulent and change
 ing they seldom judge or determine  
 right.&#x27;—A. Hamilton.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn85050801:00279528499:1844062801:0442/pct:30.73572872919583,25.91317863883646,15.258982734484368,6.8391251249028535/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn85050801:00279528499:1844062801:0442/pct:30.73572872919583,25.920580289404537,15.269352413542801,6.835424299618815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2852,7 +2852,7 @@ ecutive. He is placed above temptation.
 Nothing short of such an executive [a  
 King can be efficient.&#x27;—A. Hamilton.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn85050801:00279528499:1844062801:0442/pct:30.73572872919583,32.83002109470412,15.274537253072017,2.442544687465305/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn85050801:00279528499:1844062801:0442/pct:30.73572872919583,32.83002109470412,15.279722092601235,2.4536471633174197/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2871,7 +2871,7 @@ born, the other the mass of the people- Alexander Uam-
 tuim.  
 &quot;Oar constitution Is no better than any other piece o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cousteau_ver02:data:sn84028889:00296027364:1844071801:0507/pct:78.1164695177434,49.18229557389348,23.202911737943584,3.5408852213053263/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cousteau_ver02:data:sn84028889:00296027364:1844071801:0507/pct:58.625398270368684,36.89422355588897,17.4101046882112,2.6556639159789945/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3011,7 +3011,7 @@ first are the rich and well born, the oth
   
 er the mass of the people.&quot; Alexander
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn87065297:0029587806A:1844080101:0454/pct:91.57327586206897,19.3905031892275,21.07758620689655,10.729978738483345/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn87065297:0029587806A:1844080101:0454/pct:68.72978218675868,14.542877391920623,15.82919991373733,8.051027639971652/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3030,7 +3030,7 @@ born, the other the mass of people.1&#x27;
 The following gentlemen were next elected of­  
 ficers of the association
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215749:1844081901:0646/pct:54.095904095904096,50.50477489768076,14.645354645354645,2.421555252387449/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215749:1844081901:0646/pct:54.09050044950554,50.50133005934111,14.647221389804548,2.423663688243185/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3082,7 +3082,7 @@ utive. He is placed above temptation.— j
 Nothing short of such an executive fa  
 King] can be efficient.—A. Hamilton. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040303:00514151325:1844092401:0205/pct:43.28358208955224,13.59002169197397,25.795550549141087,82.19088937093275/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040303:00514151325:1844092401:0205/pct:43.28358208955224,13.597252349963847,25.80963108983385,82.19088937093275/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3126,7 +3126,7 @@ reign independent States before the cen fac. e o er arue an an o ai ee
   
 eral government was founded. In the coneire. They seldom judge or determine the members of Congress became
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84037932:00415668946:1845090601:0366/pct:51.10835529375291,70.91259057971014,124.70934738800186,17.32336956521739/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84037932:00415668946:1845090601:0366/pct:17.03611843125097,23.637530193236714,41.569782462667284,5.774456521739131/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3149,7 +3149,7 @@ Nothing short of such an Executive can be ef­
 ficient.&quot; And Mr. Adams, another Federlist,  
 declared that &quot;the English Government is th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879051:1847082701:0622/pct:95.2127659574468,16.95561059249381,17.579787234042552,5.743951228805487/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879051:1847082701:0622/pct:71.43807369961421,12.716707944370356,13.196754024211787,4.315107639550391/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3168,7 +3168,7 @@ the rich and the well born, the other the mass
 of the people. The people are turbulent and  
 ch.i umg. they seldom judge or determine right
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215816:1848090201:0129/pct:4.196677230385095,11.127544193253046,12.839719581292615,2.8030142967814635/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215816:1848090201:0129/pct:4.196274246207029,11.126760563380282,12.841687471992831,2.8051643192488265/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3194,7 +3194,7 @@ tinct and permanent share in the Government.”
 Opposed to these views, were such men as James  
 Madison in the Convention, and Thomas Jefferso
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn84023141:00517015222:1848110601:0391/pct:49.88422575976845,25.773860705073087,14.413892908827785,5.846947549441101/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn84023141:00517015222:1848110601:0391/pct:49.889049686444764,25.7774433935225,14.42836468885673,5.857695614789338/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3239,7 +3239,7 @@ ence.”’
 that of &quot;force,&quot; and added, &quot;by force I mean the  
 coercion of law and the coercion of arms &quot; and i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022810:1863102001:0217/pct:50.528750826173166,75.27230590961761,20.27428949107733,1.100811123986095/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022810:1863102001:0217/pct:37.91108907618575,56.45422943221321,15.204098496116345,0.8342989571263036/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3256,7 +3256,7 @@ that of &quot; force,&quot; and added, &quot; by force I mean the
 coercion of law and the coercion of arms ;&quot; and in  
 the 23th number of that immortal work the Feder
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045706:00296022664:1863102101:0369/pct:48.46671652954375,76.04707073263317,19.87658937920718,1.8853599898772617/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045706:00296022664:1863102101:0369/pct:36.36363636363637,57.04162976085031,14.927048260381595,1.41718334809566/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3296,7 +3296,7 @@ in any shape, exist,&quot; and doubted
 whether a National Government, on the  
 Virginia plan, could be made effectual
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867030801:0218/pct:64.5398773006135,170.97833223900196,37.97546012269939,9.630115999124534/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867030801:0218/pct:16.134969325153374,42.74458305975049,9.493865030674847,2.4075289997811335/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3357,7 +3357,7 @@ strength to the State Governments. Madison
 disposed in the Convention of the question of pay  
 as followaer with reapoct
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_itchweed_ver01:data:sn83030313:0027174383A:1873081301:0492/pct:55.83905789990187,187.694403451016,50.78508341511286,20.853672380519924/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_itchweed_ver01:data:sn83030313:0027174383A:1873081301:0492/pct:18.613019299967288,62.56480115033867,16.928361138370953,6.951224126839974/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3453,7 +3453,7 @@ of government; they begin to tire
 of an excess of democracy. Yates&#x27;s  
 Debates of the convention, pages 132-137
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_gary_ver01:data:sn87056600:00202191587:1876030801:0105/pct:9.465273509526737,57.61159420289855,19.053472649047325,22.794202898550726/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_gary_ver01:data:sn87056600:00202191587:1876030801:0105/pct:7.102229054573405,43.21159420289855,14.296694850115296,17.10144927536232/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3498,7 +3498,7 @@ checks. Let one body of tbe Legislature be
 constituted annng eooa oenavtor or me. Liit  
 one executive be appointed (for life) wh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kautsky_ver01:data:sn87056600:00271740578:1879091701:0281/pct:45.29527559055118,43.66096866096866,19.015748031496063,15.37037037037037/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kautsky_ver01:data:sn87056600:00271740578:1879091701:0281/pct:33.989759747932254,32.74928774928775,14.277274517526585,11.524216524216524/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3522,7 +3522,7 @@ lng in their opinions of governments: tney
 begin to tire or an excess ot democracy.&quot;  
 rates&#x27; Debates of tne convention, pages lil t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kautsky_ver01:data:sn87056600:00271740578:1879091701:0281/pct:45.39370078740158,59.05982905982906,19.015748031496063,4.9002849002849/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kautsky_ver01:data:sn87056600:00271740578:1879091701:0281/pct:34.06853091768413,44.3019943019943,14.257581725088617,3.675213675213675/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3586,7 +3586,7 @@ born a permanent share in the Government. You
 cannot have a good Executive on the Democratic plan.  
 See the excellency of the British executive
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ike_ver01:data:sn85042682:00211103401:1880103101:0152/pct:155.98615916955018,243.76420264670497,43.46020761245675,19.997326560620238/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ike_ver01:data:sn85042682:00211103401:1880103101:0152/pct:39.01003807545864,60.94105066167624,10.868812737971616,4.999331640155059/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3639,7 +3639,7 @@ eral ideas are again pushed to the front
 and we are told that &quot;a permanent share in  
 the G
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044759:1880110201:0016/pct:61.12449799196787,208.38699544526466,54.77911646586345,83.72860059682739/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044759:1880110201:0016/pct:15.281124497991968,52.096748861316165,13.694779116465863,20.932150149206848/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3662,7 +3662,7 @@ well-born, and ought to govern; the
 many, poor and ignoble.&quot; (See speech  
 of Hamilton, June 18, 1787.) They be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_judaspriest_ver01:data:sn84037890:00280763597:1880110301:0502/pct:84.01102687801516,47.06353443673252,14.903514817367332,6.526962092899092/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_judaspriest_ver01:data:sn84037890:00280763597:1880110301:0502/pct:63.029989658738366,35.304324612920446,11.185798000689417,4.89855846235985/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3684,7 +3684,7 @@ however generally this masim has been
 quoted and l&gt;elieved, it i* rot tmr in foci.  
 &#x27;1 be peopleare turbulent and charging
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_nova_ver02:data:sn86092518:00383341620:1880110801:0448/pct:17.191525908960777,21.243470244801802,11.22244488977956,3.574720884973881/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_nova_ver02:data:sn86092518:00383341620:1880110801:0448/pct:17.18906540718477,21.241294551413354,11.225609465197271,3.5777686740406938/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3724,7 +3724,7 @@ manent Hiare ill the government.&quot;
 The plsii of Hamilton was bussed up  
 • on the model of Great llritain. ‘I h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_floyd_ver01:data:sn86092245:00414186580:1880112001:0629/pct:18.92613864030987,30.010559662090813,12.18111393081341,7.9303062302006335/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_floyd_ver01:data:sn86092245:00414186580:1880112001:0629/pct:18.92361111111111,30.00739098300074,12.183938746438747,7.932988420793299/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3755,7 +3755,7 @@ a permanent share in the government.
 You cannot have a good executive on  
 the democratic plan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_nova_ver02:data:sn86092518:00383341620:1880112301:0499/pct:60.41576440017324,29.232951666835547,11.173668254655695,7.690748809403182/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_nova_ver02:data:sn86092518:00383341620:1880112301:0499/pct:60.40704387990762,29.229989868287742,11.176866820631254,7.693346842283012/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3800,7 +3800,7 @@ on the democratic plan.&quot; Alex.
 Hamilton in a speech before the  
 Convention which framed the Con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_beetlebailey_ver01:data:sn89066350:0028077974A:1880112501:0661/pct:161.839863713799,126.07709750566893,43.52640545144804,43.35600907029478/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_beetlebailey_ver01:data:sn89066350:0028077974A:1880112501:0661/pct:40.48582995951417,31.519274376417233,10.888557425953548,10.839002267573695/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3819,7 +3819,7 @@ completely sovereign, and annihilate all State distino
 tions and operations,&quot; and that the legislative branch of  
 this Government should have &quot;the unlimited power o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044759:1881040301:0723/pct:327.24481964696855,148.89252266983797,64.15963161933999,6.302958228036272/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044759:1881040301:0723/pct:81.8426103646833,37.22313066745949,16.046065259117082,1.575739557009068/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3876,7 +3876,7 @@ duced his planl, to consist of two branches, and
 I would give them the unlimited power of pass  
 ing all laws without exception. The sentenc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044772:1881070301:0021/pct:70.59669302659957,224.93957059576283,50.39539899352984,80.06540594340964/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044772:1881070301:0021/pct:17.65869447941018,56.23489264894071,12.605646466462867,20.01635148585241/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3923,7 +3923,7 @@ to be tired of an excess of democracy; and
 what aven is the Virginia plan, but pork still  
 with a litlle change of the sauc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044772:1881070301:0021/pct:70.4529115744069,305.3462249395706,50.25161754133717,62.27783307265747/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044772:1881070301:0021/pct:17.62272972486963,76.33655623489265,12.569681711922316,15.569458268164368/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3978,7 +3978,7 @@ effectaully done. Just before the last
 presidential election General Garfield an­  
 nounced that the influence of Hamilto
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282292:1882081201:0141/pct:229.7211660329531,173.27036599763872,48.73257287705957,31.16883116883117/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282292:1882081201:0141/pct:57.44849445324881,43.31759149940968,12.187004754358162,7.792207792207792/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4009,7 +4009,7 @@ the government.&quot; No one will deny
 that this has been pretty eflectually  
 done. Just before the last presidentia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn84009409:00296028769:1882081701:0375/pct:34.23441199684294,71.67083680845148,14.108129439621152,8.729496802891298/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn84009409:00296028769:1882081701:0375/pct:34.240989213364905,71.67083680845148,14.108129439621152,8.734130293763322/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4109,7 +4109,7 @@ nent body can check the imprudence
 of democracy.  
 Thus it will be seen that, great a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_igglybuff_ver01:data:sn84023017:00414213017:1882101901:0759/pct:25.690800979363413,38.11331365106144,11.629940538649878,10.68466188668635/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_igglybuff_ver01:data:sn84023017:00414213017:1882101901:0759/pct:25.686308795243924,38.10795614281698,11.632278370344466,10.68667416362103/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4143,7 +4143,7 @@ an excess of democracy. Aud what even is
 the Virginia plan, lint pork still, with a lit­  
 tle change of the sauce 7
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_elliot_ver01:data:sn87068079:00332896441:1882111601:0377/pct:2.0719376761147026,64.1533877445265,11.586275484833417,8.835341365461847/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_elliot_ver01:data:sn87068079:00332896441:1882111601:0377/pct:2.071594298972489,64.14507772020725,11.588498508452105,8.837435233160623/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4210,7 +4210,7 @@ erations.&quot; Madison: &quot;It is evident,
 if we do not radically depart from a  
 federal plan, we shall share t.he fate o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eeyore_ver01:data:sn87052143:00294556588:1884040501:0627/pct:86.68478260869566,57.82873522035113,13.330314009661835,7.356980771527529/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eeyore_ver01:data:sn87052143:00294556588:1884040501:0627/pct:65.03095274044995,43.37752299056491,9.995470330665862,5.517735578645647/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4251,7 +4251,7 @@ and such has been its progress in the
 minds of many, that this truth gradu­  
 ally gains ground.&#x27; It will from thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eeyore_ver01:data:sn87052143:00294556588:1884040501:0627/pct:86.77536231884058,84.55750627015406,13.315217391304348,19.192643019228473/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eeyore_ver01:data:sn87052143:00294556588:1884040501:0627/pct:65.0913483315718,63.41812970261555,9.995470330665862,14.403439627373702/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4280,7 +4280,7 @@ sembly, who annually revolve in the mass
 of the people, be supposed steadily to pursue  
 the public good?&quot; To this question o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282334:1886091501:0753/pct:175.2663622526636,193.18602993585174,50.68493150684932,24.29080541696365/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282334:1886091501:0753/pct:43.8165905631659,48.296507483962934,12.67123287671233,6.0727013542409125/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4297,7 +4297,7 @@ his own Hamilton answers. &quot;No; noth­
 ing but a permanent body can check  
 the imprudence of a democracy.&quot; H
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282334:1886091501:0753/pct:175.57077625570776,217.19173200285104,50.38051750380517,5.074839629365645/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282334:1886091501:0753/pct:43.89269406392694,54.29793300071276,12.595129375951293,1.2687099073414112/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4382,7 +4382,7 @@ second class, tbe massof the people,
 and will ever maintain good govern  
 ment.&quot; His parliality for monarch
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_delta_ver01:data:sn85038119:0023728267A:1890082101:0446/pct:62.43339253996447,83.08338332333533,12.90704558910598,14.829034193161368/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_delta_ver01:data:sn85038119:0023728267A:1890082101:0446/pct:46.85325040722642,62.31553689262147,9.684584629053754,11.121775644871025/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4506,7 +4506,7 @@ they begin to be tired of an excess of de­
 mocracy and what even is the Virginia  
 sauce plan bIt pork still with a little changeo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_boozer_ver01:data:sn85058130:175048479:1891062101:0167/pct:25.921299188007495,7.588628383735418,38.88194878201124,137.65998414316456/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_boozer_ver01:data:sn85058130:175048479:1891062101:0167/pct:17.288770888645946,5.0628610261637785,25.925347493362487,91.77332276210971/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4649,7 +4649,7 @@ they begin to bo tired of an excess of do
 rnocraey and whit even is tho Virjjinlu  
 lemi but pork ctill with a lIttle change o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_kirilenko_ver01:data:sn86091037:206535696:1891072501:0199/pct:58.526785714285715,39.21020248349927,16.383928571428573,46.40340082783309/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_kirilenko_ver01:data:sn86091037:206535696:1891072501:0199/pct:39.03528360875391,26.143863966886677,10.92749739467024,30.93932952977589/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4682,7 +4682,7 @@ behavior for life; and then let one excu­
 tlve be appointed for life who dares to  
 execute his powers.&#x27; Hamilton&#x27;s onl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn85029079:00280760948:1892061501:0932/pct:76.04368932038835,12.526401299756296,60.14563106796116,128.80584890333063/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn85029079:00280760948:1892061501:0932/pct:50.740830701967454,8.35093419983753,40.12630556230265,85.88139723801787/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4727,7 +4727,7 @@ This declaration of Mr. Hamilton has
 formed the foundation stone of every pplit­  
 ical party that has ever existed in the Unite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn85031982:00280760948:1892081701:1059/pct:102.75096525096525,86.6938775510204,29.51254826254826,30.955102040816328/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn85031982:00280760948:1892081701:1059/pct:68.5583192465588,57.795918367346935,19.68123641632456,20.63673469387755/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4750,7 +4750,7 @@ masses, who could not be trused.
 Political Faith of the Democracy.  
 The first formulated political faith of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_finney_ver02:data:sn83040198:00212473480:1892081801:0171/pct:28.03475935828877,66.38564634673584,18.02139037433155,5.998702983138781/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_finney_ver02:data:sn83040198:00212473480:1892081801:0171/pct:18.694838192029955,44.26070038910506,12.02193099759294,3.9991353220925205/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

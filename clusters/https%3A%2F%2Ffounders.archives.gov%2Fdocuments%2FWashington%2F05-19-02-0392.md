@@ -74,7 +74,7 @@ ties of Peace) shall be made by either par­
 ty with the Indians living within the boun­  
 dary of the other, but both parties will en
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796040901:0057/pct:8.748838649736761,9.00497512437811,73.19603592443481,85.2139303482587/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796040901:0057/pct:8.754000206462269,9.011608623548922,73.20635903788583,85.2106135986733/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -123,7 +123,7 @@ laid river, in iu whole breadth from its
 source to the ocean, shall be free only to  
 his subjects and the citizens of the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1803031801:0047/pct:7.75,57.37335183900069,20.38888888888889,4.3893129770992365/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1803031801:0047/pct:7.747847820049986,57.363399826539464,20.390169397389613,4.392888117953166/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -188,7 +188,7 @@ ns living n ithin
 On the strict execution of Ibis article,  
 on the part of Spain, it is understood tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1818073101:0100/pct:67.33431037290343,51.91433357262503,14.525321608858492,6.44891122278057/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1818073101:0100/pct:67.32334744382938,51.90812298121785,14.52838380549224,6.452127447461818/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -286,7 +286,7 @@ any manner whatever.”
 On the strict execution of this article, on  
 the part of Spain, it is understood that th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016083:00332895096:1818080401:0715/pct:23.62966374942423,38.62793572311496,17.319207738369414,7.035434693036671/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016083:00332895096:1818080401:0715/pct:23.626036229659196,38.623957153156866,17.320386859072766,7.037284993305181/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -308,7 +308,7 @@ esty, or his Indians, in any manner whatever.”
 On the strict execution of this articie, on the  
 part of Spain, it is wnderstood that the Presi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010832:1818080401:0298/pct:44.34203062960862,19.402402109169028,15.896199659671016,4.716336295283663/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010832:1818080401:0298/pct:44.351484212516546,19.405656999641963,15.896199659671016,4.719591185756599/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -518,7 +518,7 @@ ans to commence hostilities against the
 subjects of His Catholic Majesty, or his  
 Indians in any manner whatever.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1818123101:0282/pct:6.897111327491074,46.9998792707956,14.459591041869523,4.3221055173246405/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1818123101:0282/pct:6.895992211585267,46.994205697730564,14.462653469630592,4.325607596974087/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -770,7 +770,7 @@ the clause of the 4th article being in the words following:
 &quot;His Catholic Majesty has likewise agreed that the naviga­  
 &#x27; tion of the said river,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848022601:0096/pct:3.5445909542038847,29.591606498194945,15.298454558343968,1.861462093862816/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848022601:0096/pct:3.5445909542038847,29.59912755716005,15.30790680088851,1.861462093862816/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -848,7 +848,7 @@ His Catholic Majesty has likewise
 agreed that the navigation of the said  
 river, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_gastly_ver01:data:sn82015737:00279529108:1861011501:0691/pct:57.37776484284051,222.69701524586642,37.06344586728754,14.440627013098561/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_gastly_ver01:data:sn82015737:00279529108:1861011501:0691/pct:19.12592161428017,74.23233841528881,12.354481955762514,4.813542337699521/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -873,7 +873,7 @@ nniM.rntiiil. . .1&#x27; ftl4l L&#x27;i I I I T 1 VI»1* MfW*
 ! source to the ocean, shall he free only to his  
 subjects and the citizens of the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_dragonair_ver01:data:sn87090585:00414212414:1861012501:0044/pct:31.816211530125706,64.97418244406197,13.350671868227135,5.271084337349397/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_dragonair_ver01:data:sn87090585:00414212414:1861012501:0044/pct:31.81161514013291,64.96719371840379,13.352354810748338,5.273206410670109/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -890,7 +890,7 @@ subjects and the citizens of the
 His Catholic Majesty has likewise agreed  
 that the navigation of the said river 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347294:1861012501:0030/pct:23.899570951851263,43.630386286251024,12.950897822977913,0.8923329810966303/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347294:1861012501:0030/pct:23.899570951851263,43.63821376854135,12.9614916044282,0.8884192399514697/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -920,7 +920,7 @@ satien of the said river (the Mississippt), in its whole
 hreath, from its source to the ocean, shall be free only  
 se
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743373:1861012801:0259/pct:12.890750886239124,93.346114807714,45.77827908475669,20.029322205932107/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743373:1861012801:0259/pct:4.296916962079708,31.115371602571333,15.259426361585563,6.6764407353107025/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -939,7 +939,7 @@ vides: 59gen nd3431 n
 His Catholic Majesty has likewise agreed  
 that the navigation of the said river 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774662:1861013001:0112/pct:176.05131860299358,252.84810126582278,48.325017818959374,9.071729957805907/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774662:1861013001:0112/pct:44.03637011945088,63.212025316455694,12.087716170440364,2.2679324894514767/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -956,7 +956,7 @@ that the navigation of the said river
 agreed that the navigation of the said river  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn82015672:00296021970:1861013101:0213/pct:174.73152242577385,147.3519843851659,48.76816171825647,5.985686402081978/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn82015672:00296021970:1861013101:0213/pct:43.69668246445497,36.83799609629148,12.195892575039494,1.4964216005204944/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -976,7 +976,7 @@ His Catholic Majesty has likewise
 agreed that the navigation of the said riv­  
 er 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028822:00280775459:1861020701:0215/pct:177.47615553925166,318.6868686868687,49.1562729273661,13.075196408529742/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028822:00280775459:1861020701:0215/pct:44.38532110091743,79.67171717171718,12.293577981651376,3.2687991021324354/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -993,7 +993,7 @@ er
 His Catholic Majesty has likewise agreed that the  
 navigation of the said river 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:00271743415:1862060801:0372/pct:143.1219512195122,74.12089174902322,44.73170731707317,2.7809698919788555/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:00271743415:1862060801:0372/pct:47.707317073170735,24.70696391634107,14.910569105691057,0.9269899639929519/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1020,7 +1020,7 @@ ries to commit hostilities against the citizen
 of the United States of America, nor against  
 the Indians residing within the limits of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deltaair_ver01:data:sn86053573:00237288932:1873051701:0483/pct:286.829727187206,131.9732676749912,43.179680150517406,19.275413295814282/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deltaair_ver01:data:sn86053573:00237288932:1873051701:0483/pct:71.74117647058823,32.9933169187478,10.8,4.8188533239535705/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

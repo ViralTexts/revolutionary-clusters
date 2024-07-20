@@ -242,7 +242,7 @@ not at all applicable to the subject under
 consideration. They concur in the opiuion’  
 &quot; that the power to remove from office is identi-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152755:1837032301:0265/pct:49.057573680603156,71.01323765928493,15.644276901987663,4.787826302115551/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152755:1837032301:0265/pct:49.057573680603156,71.01323765928493,15.649988576650674,4.796074064909893/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -292,7 +292,7 @@ ing. With regard to mere Quotations, the tuppression
 of public records, their mutilation, and the suppression  
 of truth, and the suggestion of falsehood in the journal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664266:1843052301:0600/pct:31.881896808827914,83.3284643100594,16.075156576200417,12.055701626253773/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664266:1843052301:0600/pct:31.881896808827914,83.33495634109131,16.080127249229545,12.055701626253773/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -318,7 +318,7 @@ improper&#x27; to be vested in the. General Gov­
 ernment. -  
 OPINION OF THOMAS JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn83016785:00295877935:1843083001:0647/pct:47.36763831052944,52.12878877226088,20.270672218917312,10.378582379997642/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn83016785:00295877935:1843083001:0647/pct:35.54001785182981,39.09659157919566,15.203808390360011,7.783936784998231/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -345,7 +345,7 @@ Mr. Jefferson, -speak-ing orf tha constitution­
 ality of such an institution, says: &#x27; &quot;.&#x27;  
 &quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197978:1843090601:0571/pct:2.9961517317207256,100.32340805174529,20.382078064870807,9.869521579123452/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197978:1843090601:0571/pct:2.254295532646048,75.24255603880897,15.285223367697595,7.40492918478867/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -373,7 +373,7 @@ OPINION OF HUGH L. WHITE.
 &quot;I hold that, by tho constitution of the  
 United States Congress has no poire r t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_kingsombra_ver01:data:sn83016863:00415662051:1843093001:0184/pct:82.61750405186386,20.43244812073719,19.448946515397083,12.320417936438833/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_kingsombra_ver01:data:sn83016863:00415662051:1843093001:0184/pct:61.98581560283688,15.324336090552896,14.589665653495441,9.243941372805109/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -397,7 +397,7 @@ a power improper to be vested in the General Govern­
 ment.&quot;  
 , : wer ,aTP l&#x27;,e ?l,inion of Tliomns JefTerson 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664278:1843102701:0121/pct:51.51605675877521,19.371779627427667,15.967139656460045,4.726516052318669/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664278:1843102701:0121/pct:51.5260144386358,19.3750825736557,15.962160816529748,4.729818998546704/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -438,7 +438,7 @@ give 1 fe to the grant must by a necessary inij lication
 be intended: for, it would be idle to give a power, a-id  
 deny the nt ans to give il effect: but that this chine li
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664278:1843112801:0156/pct:15.75301204819277,3.0864197530864197,32.68072289156626,94.28047839506173/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664278:1843112801:0156/pct:15.758032128514056,3.092849794238683,32.68574297188755,94.28047839506173/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -475,7 +475,7 @@ the latter.
 to carry into effect the powers granted, was not  
 a new power, but was inserted through abundant caution
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82015015:00415661319:1843120401:0228/pct:3.9127923765521224,8.800167224080267,17.152757724516317,10.535117056856187/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82015015:00415661319:1843120401:0228/pct:3.9127923765521224,8.800167224080267,17.1575705072673,10.542084726867335/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -507,7 +507,7 @@ the latter.
 to carry into eflect the poweis granted, was not  
 a new power, hut was inserted through uhundant caution
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661320:1843120401:0536/pct:1.5536723163841808,10.915090747556796,17.266949152542374,8.579769006219063/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661320:1843120401:0536/pct:1.5595574387947269,10.923552058213817,17.27283427495292,8.583999661547574/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -539,7 +539,7 @@ ibe authors of the objections, or on the authors of tieeih
 the constitution, we must take the liberty of sup- murii  
 pQitnghud not^its origin with thu latter.&quot; nav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846031601:0293/pct:0.4226013460635467,49.117135041034565,14.196274847393958,3.7677194727679684/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846031601:0293/pct:0.43303594720091826,49.117135041034565,14.20670944853133,3.77600928458924/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -631,7 +631,7 @@ the President, and to what would be an invasion of those
 right*. If the President possesses the power of removal  
 *o independently of the Senate that it can make no inqui
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850060601:0672/pct:78.25112107623319,59.11379657603223,15.791159513132607,9.000503524672709/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850060601:0672/pct:78.25112107623319,59.12218865391071,15.796497971385865,9.000503524672709/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -704,7 +704,7 @@ guing for its adoption by the several States;
 that the constitution had nowhere given the  
 President power of removal either expressly o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743579:1867030301:0581/pct:145.60303580267282,97.45520940317243,46.444481108727935,33.78979801437864/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743579:1867030301:0581/pct:48.53434526755761,32.48506980105748,15.481493702909312,11.263266004792879/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -739,7 +739,7 @@ States.&quot; It was moved to strike out these words,
 and the motion was sustained with great ability  
 and vigor. It was insisted that the Presiden
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053571:00237289043:1867030401:0222/pct:218.01075268817203,152.18490429758035,48.47670250896057,36.61971830985915/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053571:00237289043:1867030401:0222/pct:54.50268817204301,38.046226074395086,12.119175627240143,9.154929577464788/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -771,7 +771,7 @@ when arguing for its adoption by the sey-
 eral States; that the Constitution had no  
 where given the President power of remov
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:0028077473A:1867030501:0538/pct:19.22873745377707,232.1039961482908,49.07554146856841,28.61819932595089/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:0028077473A:1867030501:0538/pct:4.807184363444268,58.0259990370727,12.268885367142103,7.1545498314877225/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -801,7 +801,7 @@ which was not the ease, for the Constitution
 had expressly given tire power of appoint­  
 ment in the words there used. He also ob
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:00279525255:1868031301:0191/pct:63.06380186977202,86.19505494505495,10.939806462194522,2.186355311355311/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:00279525255:1868031301:0191/pct:63.053460150869135,86.18518942428751,10.94211216792391,2.1889664644614855/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -941,7 +941,7 @@ tinued at great length, some members affirming
 and others denying that the Constitution con­  
 ferred the power of removal upon the Presi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009571:0027952391A:1868032701:0472/pct:250.80655912544995,142.15393794749403,33.128916144514065,19.013524264120925/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009571:0027952391A:1868032701:0472/pct:83.59104238869635,47.379934374067815,11.041500044432595,6.337211229326174/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -960,7 +960,7 @@ tion, thaf, inasmuch &quot;as the Senate was to participate in
 the business of appointments, its consent would there  
 fore be necessary to displace as well as to appoint.&quot; No
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_euclid_ver01:data:sn83030214:00206530881:1868042801:0820/pct:104.10343759677919,154.5424403183024,47.55342211210901,6.20026525198939/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_euclid_ver01:data:sn83030214:00206530881:1868042801:0820/pct:34.70114586559306,51.51414677276746,15.851140704036338,2.0667550839964632/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -980,7 +980,7 @@ was to participate in the business of appointments
 its consent would therefore be necessary to displace  
 as well as to appoint, mor was it considered even n
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743622:1868042801:0360/pct:57.03740157480315,50.25841277133341,52.65748031496063,8.889399333869301/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743622:1868042801:0360/pct:19.01246719160105,16.752804257111137,17.55249343832021,2.9631331112897668/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

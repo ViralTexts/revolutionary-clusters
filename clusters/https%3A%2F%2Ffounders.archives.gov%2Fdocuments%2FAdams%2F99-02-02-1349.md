@@ -413,7 +413,7 @@ so i in that day and hour it always h.i« been,
 and l duii’jt not, alwuy* will Le gwcu us to  
 provide a^aiiiit its dai gers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184169:1800090901:0099/pct:42.028985507246375,17.037817894320728,17.677345537757436,63.65792594544736/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184169:1800090901:0099/pct:42.02097235462345,17.035573122529645,17.680330473466793,63.65393061045235/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -574,7 +574,7 @@ they expected, and that the public received the letter you did me the honor
 may derive from it, dignity and utrl- i to write to me, on the sixteenth of Sep­  
 ity. But knowing as I do, the long 1 tember. For the friendly and refpe£t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800102701:0002/pct:5.815392229646127,18.309178743961354,35.2140559267508,41.65861513687601/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800102701:0002/pct:5.815392229646127,18.317230273752013,35.22024251422915,41.650563607085346/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -594,7 +594,7 @@ ure* cannot much less thrive, with- your million. As I knew of nothing
 out honor, fidelity, punctuality, pub- \ that could make it neceflaryfor you, to  
 lie and private faith, a sacred respeCt take a journey to Quincy, or for me t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800102701:0002/pct:5.543182380598862,76.26409017713365,35.38728037614452,4.879227053140097/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800102701:0002/pct:5.555555555555555,76.26811594202898,35.38728037614452,4.887278582930757/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -627,7 +627,7 @@ and hour it always has been, and I
 doubt not, always will be given us  
 to provide against its dangers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800102701:0002/pct:23.979213066072756,3.3011272141706924,17.24820588963128,14.798711755233494/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800102701:0002/pct:23.997772828507795,3.3091787439613527,17.242019302152933,14.798711755233494/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -654,7 +654,7 @@ The Duke ol&#x27; Leeds once (inquired of me,
 very kindly, after his Clafs-mates at Wcft­  
 minifb the two Mr. Pinck
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800103101:0001/pct:72.16674987518722,60.343493733560265,22.01697453819271,9.453814018257775/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800103101:0001/pct:72.17507072724247,60.35380886069421,22.01697453819271,9.453814018257775/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -700,7 +700,7 @@ own evil ; and in that d ty, and hour
 it dways ha; been, and 1 doubt not always  
 ■will be, given us to provide againft 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800103101:0002/pct:6.240639041437843,5.1833513848058175,22.241637543684472,25.4525762030017/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800103101:0002/pct:6.248959893493094,5.188508948372789,22.249958395739725,25.462891330135644/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -803,7 +803,7 @@ in that day and hour it always has been, and I
 doubt not aiw-’ays will be, given us to provide  
 againll its dangers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1800111701:0492/pct:7.289075951788789,13.472917614929449,22.670748039028123,60.91260810195721/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1800111701:0492/pct:7.287681713848508,13.471384685402207,22.671193573068095,60.90852201615656/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -821,7 +821,7 @@ endanger and destroy our peace, if we know not
 how to govern them;&quot; that &quot;they will moreover  
 corrupt our elections and tear us to pieces.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1839060101:0399/pct:21.523716699155294,45.05698999767388,17.657569850552306,3.0937427308676435/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1839060101:0399/pct:21.523716699155294,45.064743738854,17.66839939354559,3.0976196014577035/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -844,7 +844,7 @@ corrupt our elections and tear us to pieces.
 4 against its dangers.&quot;  
 PREFERENCES IN APPOINTMENTS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1839060101:0399/pct:21.734892787524366,68.20190742033031,17.560103963612736,6.234007908816004/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1839060101:0399/pct:21.734892787524366,68.20578429092036,17.576348278102664,6.241761649996123/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

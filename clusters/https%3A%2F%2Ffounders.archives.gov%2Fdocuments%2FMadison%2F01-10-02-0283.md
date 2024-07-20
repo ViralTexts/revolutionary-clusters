@@ -347,7 +347,7 @@ tion of that provision of the Constitution, of him
 who has been appropriately regarded as the father  
 of the Constitution of the United States; whic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293198:1855042701:0401/pct:21.042944785276074,293.1214421252372,49.50920245398773,76.61290322580645/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293198:1855042701:0401/pct:5.2607361963190185,73.2803605313093,12.377300613496933,19.153225806451612/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -387,7 +387,7 @@ fathers--of the fathers of this confederacy of States
 of those who bore the heat and burden of the day  
 as well as the toils and hardships of years in the u
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293198:1855042701:0401/pct:71.59509202453988,62.00189753320683,49.38650306748466,50.23719165085389/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293198:1855042701:0401/pct:17.89877300613497,15.500474383301707,12.346625766871165,12.559297912713472/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -409,7 +409,7 @@ r:.L I r . &quot;
 r y w  
 faith. In reference to a religious test, the Co
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84020712:00295879166:1855070601:0277/pct:84.11617565314063,119.29824561403508,19.691495275152864,4.583333333333333/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84020712:00295879166:1855070601:0277/pct:63.108145676953015,89.47368421052632,14.77620239088129,3.442982456140351/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -508,7 +508,7 @@ whether young or old, and without regard to
 poverty or wealth, or to any particular profes­  
 sion of religious faith.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762465:1865102401:0263/pct:64.43218780936219,77.52774352651048,13.930137180031114,11.056309083436087/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762465:1865102401:0263/pct:64.43218780936219,77.52774352651048,13.939565360863622,11.066584463625155/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -545,7 +545,7 @@ voting or old. and without regard to poverty or
 wraith, or to ;u»y particular profession of reli­  
 gions faith.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186968:1865111601:0056/pct:5.52099533437014,71.78563863588222,14.94556765163297,12.137259055284897/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186968:1865111601:0056/pct:5.520136837194838,71.77803664089802,14.948426890582077,12.139503688799463/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -602,7 +602,7 @@ and without regard to poverty or wealth, or to any
 particular prolession or religious faith.&quot;-Federalist,  
 NO
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774728:1866032301:0391/pct:177.9985805535841,190.50111212874526,49.254790631653655,33.33769462253042/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774728:1866032301:0391/pct:44.499645138396026,47.625278032186316,12.313697657913414,8.334423655632605/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -680,7 +680,7 @@ stitution. To have left it open for the oc­
 “ uiont which on got to he dependent on the  
 “pcopl*- alone/
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_illinois_ver02:data:sn82014064:no_reel:1866112401:0002/pct:2.4906600249066004,55.57535263548627,9.179861234655755,10.334075723830734/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_illinois_ver02:data:sn82014064:no_reel:1866112401:0002/pct:2.4995552392812668,55.57535263548627,9.18430884184309,10.345211581291759/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -833,7 +833,7 @@ abridge the rights secured to them by the Fed­
 eral constitution.  
 The “reason just mentioned,” twice allude
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:00279525243:1867102401:0363/pct:60.68348250610252,46.316030709292995,11.017087062652562,13.601466712501432/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:00279525243:1867102401:0363/pct:60.67360885128539,46.31072410632447,11.019362186788156,13.602772685609532/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -869,7 +869,7 @@ All that is said by Madison, in the other
 portions of the quotation in the Press, in re­  
 gard to the power of the States, relists in thei
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:00279525243:1867103001:0383/pct:72.96862429605792,27.357207615593836,10.973451327433628,10.040797824116048/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:00279525243:1867103001:0383/pct:72.95688545688546,27.35410764872521,10.97570785070785,10.042492917847026/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -985,7 +985,7 @@ to grasp and control this right, so that a body of
 men elected for a temporary period and maintain  
 their seat of power at a distant point from the grea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743695:1870010501:0058/pct:100.65692231893578,37.853361865074895,45.95171620955822,18.02004730262417/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743695:1870010501:0058/pct:33.55230743964526,12.617787288358299,15.317238736519407,6.006682434208057/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1020,7 +1020,7 @@ ernments that branch of the Federal Government which
 ought to be dependent on the people slone.  
 a   t a  
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536159:1873082901:0552/pct:73.25227963525836,217.968291250734,51.51975683890578,31.650029359953024/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536159:1873082901:0552/pct:18.316549496484896,54.4920728126835,12.882386471594147,7.912507339988256/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1239,7 +1239,7 @@ the United States, Bince it was not likely that &quot;the&#x27; people of the St
 would so alter the Constitutions of their States as to &quot;abridge the rights  
 secured to them by the Federal Constitution.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_fargo_ver01:data:sn86069162:00100481844:1898012601:0427/pct:37.318638392857146,88.89745566692368,24.162946428571427,8.05154752726071/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_fargo_ver01:data:sn86069162:00100481844:1898012601:0427/pct:27.99986047160597,66.67859896464368,18.1282265941119,6.038660645445534/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -113,7 +113,7 @@ dian market on that side. The British
 vernment now complains of the d&lt; ndvrr.tagt!  
 resulting to their Indian traders on the ca
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808050601:0470/pct:76.4578051430641,59.28703134603565,17.76530242665701,32.55070682237246/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808050601:0470/pct:76.44396161506428,59.279744346116026,17.768121190174423,32.55080301540479/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -204,7 +204,7 @@ stated by the collector, have alsobcen trans­
 mitted, by him.  
 I have the honor to he, 8cc.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808050601:0471/pct:6.311706629055007,2.1741800761577204,17.454160789844853,43.66785407198133/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808050601:0471/pct:6.310594041953111,2.1739130434782608,17.456959868382395,43.66658478670269/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -446,7 +446,7 @@ missiouers of both nations at Ghent, on the
 new li.ie, from Lake Superiour to the Missisip­  
 pi, and the navigation of that liver. To thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021201:00517172108:1822070301:0234/pct:75.56374674761491,20.2649930264993,22.05117085862966,13.821478382147838/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021201:00517172108:1822070301:0234/pct:58.56158628801882,15.712484237074401,17.09516607853022,10.707980544046118/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -575,7 +575,7 @@ saaly limits our claim to the Rocky mountains,
 der not to excite the jealousy of a most )ea!oiia  
 n, by even the appearance of interfering wit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846040201:0371/pct:15.18530150753769,48.487853247397126,13.662060301507537,7.151710461080813/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846040201:0371/pct:15.195770519262982,48.4919847959015,13.662060301507537,7.155842009585193/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -686,7 +686,7 @@ pohtic, especially af the present moment to strengthen
    a o e e  
 tiiy is teat ohis thas ws te t 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271742939:1846040401:0403/pct:13.862206028486254,192.46750232126277,48.64193441536933,22.667130919220057/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271742939:1846040401:0403/pct:4.620735342828751,64.15583410708759,16.213978138456444,7.555710306406685/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -718,7 +718,7 @@ Monroe in London,) under date of July 30th, 1807 :
 4 isli jealousies of the United States, which it is probably an  
 4 object with Great Britain to excite by the clause in quesiiou.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1846040401:0340/pct:36.14010989010989,44.33547514372675,15.233516483516484,7.992334573328824/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1846040401:0340/pct:36.14010989010989,44.342990267914175,15.233516483516484,7.988577011235111/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -752,7 +752,7 @@ Monroe in London,) under date of July 30th, 1807 ;
 ? it is probably an objcct with Great Britain to excite by the  
 4 clause in question.&quot; -. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1846040401:0342/pct:52.20273442894628,1.835781041388518,30.68636928601022,94.31464174454828/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1846040401:0342/pct:52.20733784468075,1.8394896899569797,30.68636928601022,94.31464174454828/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -790,7 +790,7 @@ of the United States, which it i« probably an ob- i
 ject with (iruat Dritain to excite by the clause j  
 I in question.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215774:1846040401:0612/pct:37.23340040241449,3.6999112567410744,31.167002012072434,91.69909208819715/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215774:1846040401:0612/pct:37.22965496428931,3.6996587030716723,31.167219930925796,91.69510807736064/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -889,7 +889,7 @@ it is probably an object with Great Britain to er
 cite by the claims in question.&quot;  
  e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn85054702:00280776014:1846041101:0204/pct:75.51020408163265,261.3219616204691,60.84656084656085,33.546552949538025/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn85054702:00280776014:1846041101:0204/pct:18.88468809073724,65.33049040511727,15.217391304347826,8.386638237384506/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1023,7 +1023,7 @@ question.&quot;
 
 ---
 
-## [From _The American review : a Whig journal of politics, literature, art, and science_](https://archive.org/details/sim_american-whig-review_1846-08_4_2/page/n4/mode/1up?view=theater)
+## [From _The American Review: a Whig Journal Devoted to Politics and Literature (1848-1850)_](https://archive.org/details/sim_american-whig-review_1846-08_4_2/page/n4/mode/1up?view=theater)
 
 #### 1846-08-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -1045,7 +1045,7 @@ However reasonable,” continues Mr. Jef
 
 ---
 
-## [From _The American review : a Whig journal of politics, literature, art, and science_](https://archive.org/details/sim_american-whig-review_1846-08_4_2/page/n4/mode/1up?view=theater)
+## [From _The American Review: a Whig Journal Devoted to Politics and Literature (1848-1850)_](https://archive.org/details/sim_american-whig-review_1846-08_4_2/page/n4/mode/1up?view=theater)
 
 #### 1846-08-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 

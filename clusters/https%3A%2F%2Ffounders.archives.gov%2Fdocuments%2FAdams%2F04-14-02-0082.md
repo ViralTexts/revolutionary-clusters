@@ -57,7 +57,7 @@ tke hiwv and&quot;the Americans, bravely
 ficht for liberty. T&#x27;he Fist Coxsur,  
 i conmequence, orders, that for ten days
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1821122601:0204/pct:1.9517102615694164,67.38026124818578,22.092555331991953,10.716013546202225/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1821122601:0204/pct:1.9651240778001342,67.38832446379617,22.085848423876595,10.724076761812611/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -126,7 +126,7 @@ io consequence, orders, that for ten days,
 black crape shall lie suspended to all the stand­  
 ards and flags of the French Republic.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1822011701:0314/pct:52.71514766592569,78.77798507462687,14.703080342966022,8.04570895522388/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1822011701:0314/pct:52.70677885378632,78.76880027981812,14.706037995449012,8.048657261668804/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -236,7 +236,7 @@ be suspended from all the standards and
 flags of the Republic.  
 Paris, 22d, Pluviose
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_palmer_ver02:data:sn84037834:print:1822012901:0044/pct:30.280804694048616,37.092992966918466,20.075440067057837,14.196405313883824/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_palmer_ver02:data:sn84037834:print:1822012901:0044/pct:30.274460507018645,37.08816252116161,20.07821775263636,14.198897425880105/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -298,7 +298,7 @@ liberly and equality. The first Consul gave
 crape should be suspended upon “the flags and  
 standards of the republic.—Gourgaud’s Np
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1828010801:0422/pct:72.17832115700016,87.15403128760529,15.983301028775905,5.996791014841556/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1828010801:0422/pct:72.17832115700016,87.15737398047867,15.988270960687839,6.0001337077149355/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -383,7 +383,7 @@ orders, that, during ten days, black crape
 should he suspended upon the flags and  
 standards of the republic.—Gourgaud&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn84038586:00414187377:1828022001:0033/pct:53.686050206545914,66.86046511627907,15.061963775023832,7.810443176831944/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn84038586:00414187377:1828022001:0033/pct:53.677521842732325,66.85313151255896,15.064866296002117,7.8132426602318015/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -568,7 +568,7 @@ cially to the French soldiers, who. like him and
 the Americans, bravely fought for liberty. The  
 First Consul, in consequente. orders that for te
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216456:1832022701:0661/pct:2.978507361651718,77.33948294695958,17.414114063293283,7.949993931302343/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216456:1832022701:0661/pct:2.978003384094755,77.33009708737865,17.416807670614777,7.953074433656958/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -674,7 +674,7 @@ worlds; and especially to French soldiers,
 who like him and the American soldiers,  
 have combatted for liberty and equality.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_idacox_ver02:data:sn85026945:00202194278:1847041401:0028/pct:40.52805280528053,21.38005005362889,21.435643564356436,5.553569300440949/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_idacox_ver02:data:sn85026945:00202194278:1847041401:0028/pct:40.52805280528053,21.387995074087314,21.435643564356436,5.553569300440949/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -702,7 +702,7 @@ wtabiished the liberty of his country. His memory will be
 always dear *o the French people, as it will be to all freemen  
 of the two worlds.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848070801:0245/pct:63.54405034324943,58.91394592168742,15.675057208237986,2.3224503534163583/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848070801:0245/pct:63.54405034324943,58.91394592168742,15.694126620900077,2.3299300646995027/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -953,7 +953,7 @@ people, as it will be to all freemen of the two
 worlds.&#x27; The standards and flags throughout  
 the French republic wore for two months th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661538:1854022401:0201/pct:16.637642330877426,29.277932065797906,13.154722036168788,3.7598803674428543/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661538:1854022401:0201/pct:16.637642330877426,29.277932065797906,13.163652601027016,3.763440860215054/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1022,7 +1022,7 @@ Consul commands that, for the space of
 ten days, black crape shall be hung up  
 on all the colors of the Republlo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_gary_ver01:data:sn85048197:00202191356:1858040201:0036/pct:268.67021276595744,314.8506860371267,47.4468085106383,26.432606941081517/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_gary_ver01:data:sn85048197:00202191356:1858040201:0036/pct:67.19435945190901,78.71267150928168,11.866436078222696,6.608151735270379/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1187,7 +1187,7 @@ his cuuatry. Ills memory must always
 be dear to the French people, as well as  
 to all the free of both worlds, and espe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn86081096:00296028678:1862051401:0208/pct:23.361735089078234,7.745398773006135,14.53137103020914,5.620070113935145/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn86081096:00296028678:1862051401:0208/pct:23.372063000258198,7.745398773006135,14.536534985799122,5.623721881390593/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1215,7 +1215,7 @@ our lives, liberties and properties will be
 secure.  
 THE GOVERNMENT OF ThE UNITED STATES.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293757:1862100301:0584/pct:74.36456063907045,25.86070959264126,49.16485112563544,35.006570302233904/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293757:1862100301:0584/pct:18.591140159767612,6.465177398160315,12.29121278140886,8.751642575558476/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1239,7 +1239,7 @@ new worlds, and especisily to the sol
 France, who like him and the American  
 fight for equality and liberty.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deltaair_ver01:data:sn86053570:00237288981:1865060601:0369/pct:126.0536398467433,231.06420404573439,52.10727969348659,10.413368513632365/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deltaair_ver01:data:sn86053570:00237288981:1865060601:0369/pct:31.528509822712028,57.766051011433596,13.033061811212267,2.6033421284080913/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1299,7 +1299,7 @@ He even went further, when, in 1803,
 he ceded Louisiana. To cede a French  
 tersitory for moncy, to furd the tricolo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn87076793:00280775101:1865061501:0728/pct:202.32907588279488,189.76989594020225,44.17731029301277,22.277590502711416/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn87076793:00280775101:1865061501:0728/pct:50.60127771514468,47.44247398505056,11.04847801578354,5.569397625677854/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1334,7 +1334,7 @@ ill the standards and flags throughout the Republic.
 Dn the same day a splendid ceremony took place in the  
 Champ de Mars, and the trophies brought by the arm
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dunbar_ver01:data:sn85026214:print0021111020A:1872012101:0004/pct:6.408594184108169,17.521532330633757,12.205964067419892,4.0622187941894845/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dunbar_ver01:data:sn85026214:print0021111020A:1872012101:0004/pct:6.408594184108169,17.521532330633757,12.210594554547137,4.068646355572696/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1355,7 +1355,7 @@ country. His memory will be always dear to the
 French people, as it will be to all freemen of the  
 tWO WOrIDS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_braniff_ver01:data:sn86053573:00294558317:1874060501:0364/pct:67.03678001387925,284.1092727972297,43.09507286606523,6.412722842118764/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_braniff_ver01:data:sn86053573:00294558317:1874060501:0364/pct:16.759195003469813,71.02731819930743,10.773768216516308,1.603180710529691/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1392,7 +1392,7 @@ ir. Tiffany also quoted eloquent extracts in
 the same vein from the pens of Foulcon, Thomas  
 Erskine, Charles James Fox, Henry Grattan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558329:1874112301:0519/pct:24.255024255024257,295.2271273192578,43.72834372834373,30.095969289827256/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558329:1874112301:0519/pct:6.063756063756064,73.80678182981445,10.932085932085933,7.523992322456814/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1428,7 +1428,7 @@ men lu both lbs Old and tbs Mew World*, and es­
 pecially to tbs aoldkra of France, who, tike him aud  
 {be American soldi on, fight for equality and liberty
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grand_ver02:data:sn84031492:no_reel:1875051301:0011/pct:57.30481834578717,87.19646799116998,12.85751095078588,4.435079269516356/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grand_ver02:data:sn84031492:no_reel:1875051301:0011/pct:57.30481834578717,87.20148504916718,12.870394228291678,4.435079269516356/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1470,7 +1470,7 @@ men oi tne two worlds, and especially to French
 bo.diets, who, like him and the American soldiers,  
 have combatted lor libeit.y and equality.” Bonapart
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_frost_ver02:data:sn85026214:print00205958216:1878111701:0004/pct:5.834262356001487,17.439008648509102,12.077294685990339,2.2589389441073964/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_frost_ver02:data:sn85026214:print00205958216:1878111701:0004/pct:5.838907469342252,17.44223570414354,12.091230026012635,2.2557118884729572/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1496,7 +1496,7 @@ French soldiers, who, like him and the
 American soldiers, have combated for  
 liberty and equality.&quot; The first consu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85026421:00415669215:1879100201:0516/pct:74.6832358674464,118.069355152932,15.81384015594542,8.172608610948762/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85026421:00415669215:1879100201:0516/pct:49.79895211404898,78.71615039937659,10.53978311197758,5.4451587765439315/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1546,7 +1546,7 @@ two worlds; and especially to French
 soldiers who like him and the Amer­  
 ican soldiers have combatted for libert
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033673:00280779490:1881022201:0176/pct:2.703252032520325,59.41255006675567,16.6260162601626,6.461949265687584/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033673:00280779490:1881022201:0176/pct:2.03334688897926,44.56608811748999,12.484749898332655,4.846461949265688/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1584,7 +1584,7 @@ Consul has ordered that for the space of ten
 davs, crape shall be hung on all the colors and  
 standards of the Republic.&quot; From &#x27;all na
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_detroit_ver02:data:sn96077385:00296023565:1884070401:0385/pct:121.81325685149777,41.96458779745122,21.064372211599746,22.72470959738356/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_detroit_ver02:data:sn96077385:00296023565:1884070401:0385/pct:81.24003825310807,27.980151122138267,14.042078418871533,15.146047141084921/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1663,7 +1663,7 @@ quently, the First Counsel directs that for tho
 next ten days all the standards and pennons  
 of tho Republic shall be vested in crape.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_gum_ver01:data:sn94053256:00271763098:1891022301:0189/pct:79.3956043956044,35.647111509180476,14.75436328377505,5.075384385729214/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_gum_ver01:data:sn94053256:00271763098:1891022301:0189/pct:59.57962813257882,26.735333631885357,11.075181891673404,3.80653828929691/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

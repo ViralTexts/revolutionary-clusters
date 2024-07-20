@@ -1096,7 +1096,7 @@ are lavvs here [i.e. in Pennsylvania] for the gradual aboii- &#x27;
 .loned have at prosei,!, but which nothing is more certain  
 than that they must have, and at a period not remote.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1839011201:0317/pct:22.401315789473685,43.82373351839001,18.486842105263158,2.7064538514920193/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1839011201:0317/pct:22.401315789473685,43.82373351839001,18.50328947368421,2.7141645462256148/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1205,9 +1205,9 @@ riod not remote.”
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1843-11_13_65/page/n107/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1843-11_13_65/page/n107/mode/1up?view=theater)
 
-#### 1843-11-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1843-11-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2024,7 +2024,7 @@ nothing is more certain than that they must have
   
 and at a period not remote.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199252:1845073101:0286/pct:9.30232558139535,86.33190118152524,39.6124031007752,3.128356605800215/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199252:1845073101:0286/pct:6.979449398991857,64.75563909774436,29.720822024040327,2.3496240601503757/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2509,7 +2509,7 @@ thing is more certain than that they must have
 tnd nt a period not remote.”   
 Washington and Madison were slaveholders
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040305:00514151337:1850051701:0602/pct:18.208578637510513,89.52442855595277,12.461452200728903,2.968259126855162/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040305:00514151337:1850051701:0602/pct:18.213251098028223,89.53165059762395,12.47079712176432,2.968259126855162/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2600,7 +2600,7 @@ Maryland have at present, &quot;but which nothing is
 more certain than tfiey must have, and at a period  
 not rrio&#x27;e.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:0028077537A:1856071001:0763/pct:111.63062536528346,50.32716606498195,14.40677966101695,2.267599277978339/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:0028077537A:1856071001:0763/pct:83.75968425668762,37.748194945848375,10.81713199824587,1.7035198555956679/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2702,7 +2702,7 @@ land and Virginis) have
   
 pares. Notng like the attacke that
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_kingler_ver01:data:sn87058152:00279529224:1856081201:0781/pct:44.0650406504065,153.82830626450115,78.99186991869918,11.508120649651973/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_kingler_ver01:data:sn87058152:00279529224:1856081201:0781/pct:14.688346883468835,51.27610208816705,26.33062330623306,3.8360402165506575/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2724,7 +2724,7 @@ The partiality of Washington to his birth­
 place is well known. Kven this, however did  
 not blind him to the superior value of the farm
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn85033189:00271769763:1856081201:0565/pct:61.99472759226713,47.11146352514726,13.75219683655536,3.7381060262800183/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn85033189:00271769763:1856081201:0565/pct:58.89527873110101,44.75572135734271,13.0832019293201,3.5583614319535117/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2747,7 +2747,7 @@ land and Virginia j have at present, but which 1
 awl c&lt;i a period not remote.  
 May not we, instead of giving any hoed to 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn85033189:00271769763:1856081201:0565/pct:61.84827182190978,51.77843226098776,14.045108377270065,4.191209787041233/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn85033189:00271769763:1856081201:0565/pct:58.765420647435306,49.19649903149437,13.342918096651516,3.981634263577014/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2801,7 +2801,7 @@ ment alone is intended to show that,
 if that party is successful in the Pres­  
 idental contest, disunion will resul
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1856091901:0151/pct:286.6359447004608,167.65970060767748,44.31643625192012,90.70698088039128/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1856091901:0151/pct:71.70028818443804,41.91492515191937,11.085494716618635,22.67674522009782/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2832,7 +2832,7 @@ alr eeertain than that they must have, and at a period
 not remote.&quot;  Spurks 12, 2.  
 B, the last will and testament of Gen. Wa hing.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530522:1856110401:0236/pct:152.6037361547363,10.664315108759553,97.07389651182014,281.38741916519695/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530522:1856110401:0236/pct:50.86791205157877,3.554771702919851,32.357965503940044,93.79580638839899/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2873,7 +2873,7 @@ lition of slavery, which neither Virginia nor Maryland
 have at present, but which nothing is more certain than  
 they must have, and at a period not remote.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1857010901:0217/pct:115.42635658914729,348.8329796908154,50.62015503875969,10.184904516520158/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1857010901:0217/pct:28.856589147286822,87.20824492270386,12.655038759689923,2.5462261291300394/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2894,7 +2894,7 @@ neither of the two States above mentioned have at
 present, buf which nothing is more certuin than that  
 they must tave, and at a period not remtote.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530534:1857011001:0059/pct:248.10273405136704,100.09500059375371,46.94283347141673,9.654435340220877/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530534:1857011001:0059/pct:82.70091135045567,33.3650001979179,15.647611157138911,3.2181451134069587/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2972,7 +2972,7 @@ Virginia nor Maryland have at present, but
 which nothing is more certain than they most  
 nave, ana ai a penoa not remote.&#x27; .
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035045:00296027157:1860032101:0053/pct:52.76699029126213,107.2530660688382,14.789644012944985,3.033100356059607/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035045:00296027157:1860032101:0053/pct:39.598510603853,80.44309639984175,11.105714748259674,2.2814189634709217/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2996,7 +2996,7 @@ certain thun that they must huve, and at
 pertod not remote.&quot;  
 Lafayette, having purchased an estat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn84028083:00280775241:1860101201:0386/pct:228.7425149700599,131.5919315048614,48.35329341317365,19.15542011319112/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn84028083:00280775241:1860101201:0386/pct:57.18562874251497,32.89798287621535,12.088323353293413,4.78885502829778/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3358,7 +3358,7 @@ opinion I have given relative to the value
 of land on the Potomac, (in Virginia) con­  
 troverted by impartial men.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_forego_ver01:data:sn84024670:00280762374:1872012701:0104/pct:2.031063321385902,12.829966081698865,12.843488649940262,64.99041439315735/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_forego_ver01:data:sn84024670:00280762374:1872012701:0104/pct:2.0459976105137394,12.83733962542398,12.843488649940262,64.98304084943224/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3460,7 +3460,7 @@ consuming a great part of the summer&#x27;s labor
 in support of their stock during the winter.  
 Nevertheless it is a country abouuding in grass
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_fezza_ver01:data:sn85025007:00415663687:1872051301:0461/pct:3.57343837929094,25.02567933513867,15.953854811480022,10.281071995517788/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_fezza_ver01:data:sn85025007:00415663687:1872051301:0461/pct:3.57343837929094,25.028791981822142,15.963233914837742,10.284184642201264/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3561,7 +3561,7 @@ plicable to the present; aod we think the day
 is fast approaching, and not far distant, when  
 his prediction will be realized. Slavery havin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_fezza_ver01:data:sn85025007:00415663687:1872051301:0461/pct:3.47495779403489,35.55887571201793,16.08047270680923,44.63535344103091/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_fezza_ver01:data:sn85025007:00415663687:1872051301:0461/pct:3.47495779403489,35.56510100538488,16.089851810166948,44.63535344103091/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3604,7 +3604,7 @@ certain than that they most hare, and at a
 period not remote.’7  
 Unfoitunately the first President failed t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_clark_ver03:data:sn82014064:no_reel:1872060901:0005/pct:37.38108561835478,2.6044647967945047,24.099981346763663,94.59072696050372/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_clark_ver03:data:sn82014064:no_reel:1872060901:0005/pct:37.38574892743891,2.6044647967945047,24.099981346763663,94.59788208357183/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3632,7 +3632,7 @@ The land of ihe neighborhood, at the time
 we have indicated, sold at a good price, for  
 he says of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_clark_ver03:data:sn82014064:no_reel:1872060901:0005/pct:50.02797985450476,14.066971951917573,11.229248274575639,5.037206639954207/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_clark_ver03:data:sn82014064:no_reel:1872060901:0005/pct:50.03264316358888,14.077704636519748,11.238574892743891,5.037206639954207/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3766,7 +3766,7 @@ which some day will yield a ducal revenue
 to those who have the foresight to become  
 owners thereof. The mineral 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348720:1879091101:0751/pct:73.74183295073283,25.247653806047968,10.895285184531167,15.680396246089677/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348720:1879091101:0751/pct:73.72881355932203,25.244363352013554,10.897775423728813,15.681610843216474/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3808,7 +3808,7 @@ mand and in higher estimation than
 in any part of the United IStates.&quot; In  
 speaking of the close proximity of thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jimmy_ver02:data:sn85033437:00296021039:1880081101:0151/pct:62.957610789980734,77.93625638316605,26.97495183044316,9.948934671597112/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jimmy_ver02:data:sn85033437:00296021039:1880081101:0151/pct:47.2644010604965,58.460996654340555,20.245842371655822,7.466103187180842/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3829,7 +3829,7 @@ separated therefrom by water only,
 was in that day one of the most beau­  
 tiful seats on the river, called &quot;Bel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jimmy_ver02:data:sn85033437:00296021039:1880081101:0151/pct:63.31888246628131,89.94541292481071,26.613680154142582,6.920232435287903/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jimmy_ver02:data:sn85033437:00296021039:1880081101:0151/pct:47.529525186792,67.45905969360803,19.98071824536033,5.194576509948934/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3857,7 +3857,7 @@ productions: &quot;In my opinion, it will be consider­
 ed, if it is not considered so already, as the garden-  
 spot of Amcrica.&quot; The mountain region of Vir
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_charlie_ver01:data:sn83045160:0028077960A:1881011601:0057/pct:92.98429319371728,247.62704745905083,35.13089005235602,3.9479210415791686/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_charlie_ver01:data:sn83045160:0028077960A:1881011601:0057/pct:23.24911637648907,61.90676186476271,8.78387223458568,0.9869802603947921/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3890,7 +3890,7 @@ may be said is1 among the most fertile
 lands in America east of the Appalachian  
 Mountains.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348768:1890061901:0114/pct:49.43396226415094,5.692379182156134,10.927672955974844,9.026486988847584/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348768:1890061901:0114/pct:49.4261908504952,5.691717969566732,10.9298852381701,9.02834243233825/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3918,7 +3918,7 @@ be ci. itl is among the most fertile lands in
 America east of the Appalachian Moun­  
 tains.&quot;—George Washington to Sir John Sinclai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762507:1890091001:0159/pct:16.882470119521912,49.54896907216495,10.856573705179283,6.005154639175258/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762507:1890091001:0159/pct:16.882470119521912,49.558634020618555,10.860723771580345,6.01159793814433/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3988,7 +3988,7 @@ tbe river bluff, there waa standing at tbe
 time of the writer&#x27;s first visit to tbe plaoe,  
 nearly forty years ago, a large walnut tre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_quartz_ver01:data:sn85025007:00175033610:1891081501:0085/pct:18.065980101239308,34.43159247575652,16.09355908535521,28.940296763640614/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_quartz_ver01:data:sn85025007:00175033610:1891081501:0085/pct:18.065980101239308,34.43159247575652,16.105195787513818,28.94808583557269/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4042,7 +4042,7 @@ lies between the two extremes of
 heat and cold, partaking in a degree  
 of the advantages of both, withou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_garfield_ver01:data:sn89067274:00294556977:1898072801:0754/pct:75.44136191677175,31.026644778381108,13.146279949558638,3.220103548427832/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_garfield_ver01:data:sn89067274:00294556977:1898072801:0754/pct:56.61567576092099,23.273140548048996,9.856489512695159,2.411920697057709/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -614,7 +614,7 @@ Most friendship is feigning, most loving mere folly.&quot;
 One of those days in the latter end of autumn, so  
 peculiar to the climate of America, that they hav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84022355:00200290112:1843071301:0542/pct:151.8319928507596,150.88138631610397,70.15192135835568,21.691066626829997/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84022355:00200290112:1843071301:0542/pct:37.96648044692738,37.72034657902599,17.54189944134078,5.422766656707499/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -928,7 +928,7 @@ Though thou the waters warp,
 Thy sting is not so sharp,  
 As friends remembered not.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn85054616:00212477801:1864012701:0290/pct:69.44832402234637,105.80928968818735,18.261173184357542,4.942424634493467/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn85054616:00212477801:1864012701:0290/pct:52.11316800558854,79.36343640833225,13.691931540342297,3.7003493336783544/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -994,7 +994,7 @@ Though thon the waters warp,
 - Thy sting is not so sharp  
 &quot; As friend remembered not
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033221:00514152378:1869112601:0351/pct:5.146627565982405,19.267374944665782,8.255131964809385,2.080566622399292/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033221:00514152378:1869112601:0351/pct:5.151515151515151,19.274752840489892,8.264907135874878,2.0768776744872364/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1148,7 +1148,7 @@ Though thou the waters warp,
 Thy sting is not so sharp.  
 As friend remembered not
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271744055:1879010401:0050/pct:20.958476940751684,255.96068122071094,23.715739373051044,6.0006857926620185/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271744055:1879010401:0050/pct:6.98615898025056,85.32022707357031,7.90524645768368,2.000228597554006/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1208,7 +1208,7 @@ Though thou the waters warp,
 Thy sting is not so sharp  
 As friend remembered not
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777055:1879031401:0458/pct:19.486404833836858,108.32632464255677,24.47129909365559,6.56013456686291/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777055:1879031401:0458/pct:4.874362365388249,27.081581160639193,6.121292272813149,1.6400336417157275/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1319,7 +1319,7 @@ Though thou the waters warp,
 Thy sting is not so sharp  
 As friend remembered not
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210144:1886011401:0117/pct:52.218241939928355,78.511746780694,8.294295949297327,2.3198663127887547/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210144:1886011401:0117/pct:52.22742720676035,78.51502342802844,8.285110682465326,2.323142960123202/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1360,7 +1360,7 @@ Though thou the waters warp,
 Thy sting is not so sharp  
 As friend remember’d not
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624591:1887122401:0586/pct:100.60586734693878,113.27390990122862,9.056122448979592,3.3004095398699107/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624591:1887122401:0586/pct:77.97273363812349,87.79288670379935,7.022529758227274,2.5609110993558826/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1490,7 +1490,7 @@ Thy sting is not so sharp
   
 As friend remembered not
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_almont_ver01:data:sn88076741:00295863560:1890041101:0481/pct:26.14170584284755,62.829308452250274,6.715916722632639,2.209110867178924/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_almont_ver01:data:sn88076741:00295863560:1890041101:0481/pct:26.14170584284755,62.83959934138309,6.732706514439221,2.2159714599341385/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1521,7 +1521,7 @@ Though thou the waters warp,
 Thy sting is not so sharp.  
 As friend remember’d not
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_galena_ver02:data:sn88065721:00279521675:1890091701:0437/pct:51.80867478141608,22.93146917258767,9.77198697068404,2.6014210405684164/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_galena_ver02:data:sn88065721:00279521675:1890091701:0437/pct:51.80867478141608,22.93910917564367,9.77198697068404,2.597601039040416/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1541,7 +1541,7 @@ Though thou the waters warp,
 Thy sting is not so sharp.  
 As friend remember’d not
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_annapolis_ver01:data:sn85025350:00415627683:1890092701:0172/pct:61.409001956947165,15.399351606248159,9.921722113502936,3.020925434718538/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_annapolis_ver01:data:sn85025350:00415627683:1890092701:0172/pct:47.60123350690056,11.942287193543475,7.689196703907791,2.3412517131110095/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1562,7 +1562,7 @@ Thy sting is not so sharp.
 As friend remember’d not.  
 ho! sing heigh ho! unto the gree
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_annapolis_ver01:data:sn85025350:00415627683:1890101101:0178/pct:88.92591140729125,31.536867041753034,12.857702861622894,3.5682558483861415/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_annapolis_ver01:data:sn85025350:00415627683:1890101101:0178/pct:68.91645569620253,24.448269267546376,9.974683544303797,2.7653471026965004/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1683,7 +1683,7 @@ Though thou the waters warp,
 Thy sting is not so sharp  
 As friend remember&#x27;d not.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_lawrencium_ver01:data:sn88076679:00199918527:1893071501:1160/pct:22.499307287337214,9.885080850198312,8.077029648101968,2.1153259432523135/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_lawrencium_ver01:data:sn88076679:00199918527:1893071501:1160/pct:22.503925371755795,9.885080850198312,8.077029648101968,2.1288857249398285/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1813,7 +1813,7 @@ Though thou the waters warp,
 Thy sting in not so sharp  
 As friend remember’d not
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_elizabethtown_ver01:data:sn86090439:00517175146:1897122101:1443/pct:48.60094705122686,34.136018680677175,11.902712010331468,3.021015761821366/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_elizabethtown_ver01:data:sn86090439:00517175146:1897122101:1443/pct:48.60632802410676,34.14696438995914,11.924235901851056,3.0319614711033274/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1843,7 +1843,7 @@ Though thou the waters warp,
 Thy sting is not so sharp  
 As friend remember’d not
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685166:1898122201:0464/pct:53.013305504826505,87.65544989027066,10.879206887555439,2.651792245793709/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685166:1898122201:0464/pct:52.99947835159103,87.63942219784238,10.882889932185707,2.655878588407387/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1863,7 +1863,7 @@ Though thou the waters warp.
 Thy sting is not so sharp  
 As friend remember&#x27;d not
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carlisle_ver01:data:sn86081854:00296026086:1898122201:0390/pct:81.11651511947558,14.41545336600836,11.545781349122436,3.2867233674499063/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carlisle_ver01:data:sn86081854:00296026086:1898122201:0390/pct:81.12356382603792,14.41545336600836,11.552830055684781,3.291528518571909/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1906,7 +1906,7 @@ Though thou the waters warp
 Thy sting is not so sharp  
 As friend remembered no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_dantley_ver01:data:sn85058130:00206534813:1899021201:0425/pct:68.63433312061264,22.700498414136838,14.231014677728142,3.987313094698686/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_dantley_ver01:data:sn85058130:00206534813:1899021201:0425/pct:45.7781324820431,15.133665609424558,9.497206703910615,2.661984594472134/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1926,7 +1926,7 @@ Though thou the waters warp,
 Thy sting is not so sharp  
 As friend* remember’d not
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_jackman_ver02:data:sn82014248:00514156001:1899030801:0558/pct:8.790133124510572,91.33989401968206,8.241973375097885,2.619227857683573/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_jackman_ver02:data:sn82014248:00514156001:1899030801:0558/pct:8.788412605206497,91.3260672116258,8.245253474261109,2.622615803814714/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1956,7 +1956,7 @@ Though thou the waters warp,
 Thy sting is not so sharp  
 As friend remembered not
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283077:1899062201:0238/pct:96.80631868131869,28.85962792945156,19.059065934065934,3.950229524039623/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283077:1899062201:0238/pct:64.57653324171105,19.243778690504953,12.712592338086239,2.6334863493597487/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1996,7 +1996,7 @@ Though ttiou the waters warp.
 Thy sting Is not so sharp  
 As friend remembered not
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_fairview_ver02:data:sn86076270:00332891212:1899072001:0341/pct:64.80017566974088,19.70210883350538,14.668423364075538,2.6839699159416015/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_fairview_ver02:data:sn86076270:00332891212:1899072001:0341/pct:64.78594950603733,19.69920377469773,14.670691547749726,2.6872603951636687/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2017,7 +2017,7 @@ Thy sting is not so sharp
 As friend remembered not.  
 Mark should have pondered the fat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_furio_ver01:data:sn87068079:00332896519:1899112301:0188/pct:66.67675544794189,59.78932074100981,9.185835351089588,2.55478871534084/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_furio_ver01:data:sn87068079:00332896519:1899112301:0188/pct:66.66666666666667,59.7820823244552,9.188228173702527,2.557506053268765/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

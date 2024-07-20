@@ -507,7 +507,7 @@ Sacred by birth, and built by hands divine ;
 Hor soul the deity tnat lodes therein ;  
 Nor is the pile unworthy of the god.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_junebug_ver01:data:sn98021556:00415661915:1858091101:0292/pct:31.153846153846153,40.66252587991718,17.521367521367523,2.484472049689441/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_junebug_ver01:data:sn98021556:00415661915:1858091101:0292/pct:23.386062419837536,30.503795721187025,13.146643864899529,1.8633540372670807/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -605,7 +605,7 @@ Sacred by birth and built by bands divine ;
 His soul’s the Deity that lodges there ;  
 Nor is the pile unworthy of the God.’ 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624347:1872030101:0041/pct:18.425281199785754,60.00208376745155,12.185324049276915,5.917899562408835/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624347:1872030101:0041/pct:18.42974468844849,60.00208376745155,12.189787537939653,5.92484545391401/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -630,7 +630,7 @@ Sacred by birth and built by hands devine;
 His soul’s the Deity that lodges there;  
 Nor is the pile unworthy of the God.’ 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340652:1872032201:0251/pct:39.62085308056872,29.524969549330084,10.726698262243286,5.274056029232643/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340652:1872032201:0251/pct:39.614594850734484,29.521373766898062,10.728952772073923,5.276458409450737/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -654,7 +654,7 @@ Sucred by birth, and built by hands divine;
 His soul&#x27;s the Deity that lodges there:  
 Nor is the pile unworthy of the God.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776051:1872033001:0048/pct:226.43845593590677,64.37041219649916,50.76474872541879,19.25465838509317/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776051:1872033001:0048/pct:56.60961398397669,16.09260304912479,12.691187181354698,4.813664596273292/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -682,7 +682,7 @@ His soul’s the deitv that lodges there,
 Nor is the pile unworthy of the God 1 ”  
 We have never seen. In so few words, a fine
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eliot_ver01:data:sn85026214:print00205958198:1872111001:0003/pct:42.080549033772805,25.406241939644055,11.865631208235506,5.13283466597885/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eliot_ver01:data:sn85026214:print00205958198:1872111001:0003/pct:42.08506411414123,25.406241939644055,11.883691529709228,5.136058808356977/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -702,7 +702,7 @@ Sacred by birth and built by hands divine.
 His soul&#x27;s the deity that lodges there,  
 Nor is the pile unworthy of the God
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743889:1874110801:0528/pct:249.05153600805775,123.826799297835,46.1473896256505,7.267407840842598/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743889:1874110801:0528/pct:83.01717866935259,41.275599765944996,15.382463208550165,2.422469280280866/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -722,7 +722,7 @@ tacred by birth and surlt by hands aivine;
 His soul is the deity that lodges there,  
 Nor is the pile unworthy of the God
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crowfoot_ver01:data:sn83030313:00271743907:1875070401:0061/pct:15.275252107786411,279.52457510335324,44.618945280211605,7.039503904455673/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crowfoot_ver01:data:sn83030313:00271743907:1875070401:0061/pct:5.09175070259547,93.17485836778441,14.872981760070536,2.3465013014852243/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -789,7 +789,7 @@ Kmrrrd hy birth, and. built by hmml. diviue ;
 Bin sours the deity thai klRi there:  
 Kor is the pile uuwtirthy of tlie Gud
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn86053634:00280776671:1875092201:0403/pct:33.95994378074491,84.68893078373283,14.564300773014757,5.346081335847024/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn86053634:00280776671:1875092201:0403/pct:25.478826216833596,63.520064637759226,10.92953786680724,4.01292755184487/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -921,7 +921,7 @@ the soldler look equally blended in
 him, modesty marks every line and  
 feature of his face&quot; And yet he wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_echo_ver03:data:sn86064205:00206536524:1884021701:0904/pct:326.57342657342656,52.449311824774306,54.69842657342657,9.35326328252183/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_echo_ver03:data:sn86064205:00206536524:1884021701:0904/pct:81.67905553126367,13.112327956193576,13.680585920419764,2.3383158206304575/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -940,7 +940,7 @@ the soldier look equally blended in
 him, modesty marks every line and  
 feature of his face.&quot; And yet he wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_echo_ver03:data:sn86064205:00206536524:1884021801:0912/pct:335.6140350877193,43.62336114421931,54.73684210526316,9.535160905840286/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_echo_ver03:data:sn86064205:00206536524:1884021801:0912/pct:83.95874478823788,10.905840286054827,13.69321922317314,2.3837902264600714/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -959,7 +959,7 @@ the soldier look equally blended in
 him, modesty marks every line and  
 feature of his face.&quot; And yet he wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_echo_ver03:data:sn86064205:00206536524:1884022001:0928/pct:323.4458259325044,41.766109785202865,55.239786856127886,9.427207637231504/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_echo_ver03:data:sn86064205:00206536524:1884022001:0928/pct:80.87941372418388,10.441527446300716,13.81301354652454,2.356801909307876/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -978,7 +978,7 @@ the soldier look equally blended in
 him, modesty marks every line and  
 feature of his face.&quot; And yet he wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_echo_ver03:data:sn86064205:00206536524:1884022201:0944/pct:325.53003533568904,45.3763765273797,54.59363957597173,9.594207271081611/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_echo_ver03:data:sn86064205:00206536524:1884022201:0944/pct:81.40048597305058,11.344094131844924,13.65142478462558,2.398551817770403/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -997,7 +997,7 @@ the soldier look equally blended in
 him, modesty marks every line and  
 feature of his face.&quot; And yet he wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_echo_ver03:data:sn86064205:00206536524:1884022301:0952/pct:326.41342756183747,45.48554484803558,54.68197879858657,9.429206819866568/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_echo_ver03:data:sn86064205:00206536524:1884022301:0952/pct:81.62138281422575,11.371386212008895,13.673514468743097,2.357301704966642/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1019,7 +1019,7 @@ Sacred by birth and built by hands divine ;
 His soul’s the Deity that lodges there ;  
 Nor is the pile unworthy of the god.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_furio_ver01:data:sn85035816:00332896581:1887022601:0110/pct:50.56071771867991,16.829942225571465,10.157000961230375,2.8008038181361465/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_furio_ver01:data:sn85035816:00332896581:1887022601:0110/pct:50.55261893320519,16.827828707773453,10.159378503924396,2.803591611201808/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1046,7 +1046,7 @@ All else beneath the sun,
 Thou know&#x27;st if best bestowed or not,  
 And let thy will be done
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn83032231:00237287903:1887030501:0049/pct:201.61857846586912,191.39874739039666,34.34201266713582,24.384133611691023/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn83032231:00237287903:1887030501:0049/pct:50.42238648363252,47.849686847599166,8.58852516719465,6.096033402922756/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1083,7 +1083,7 @@ from Connecticut
 ne along the stoel  
 ston stock! Their ancestors ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jaguar_ver01:data:sn83030214:0017503853A:1892022301:0752/pct:51.8213866039953,199.10643592353807,48.7157965418835,43.46793349168646/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jaguar_ver01:data:sn83030214:0017503853A:1892022301:0752/pct:17.2737955346651,66.36881197451268,16.2385988472945,14.489311163895486/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1159,7 +1159,7 @@ being a part ot the public, I lav claim to
 a larger share than 1 have had.&quot;  
 Well indeed might her heart cravo ten
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_ogilby_ver01:data:sn85042461:00280769642:1895112801:0381/pct:31.436837029893926,6.976401179941003,12.131147540983607,3.2890855457227137/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_ogilby_ver01:data:sn85042461:00280769642:1895112801:0381/pct:31.436837029893926,6.98377581120944,12.14079074252652,3.2927728613569323/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

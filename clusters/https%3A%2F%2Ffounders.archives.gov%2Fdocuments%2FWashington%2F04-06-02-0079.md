@@ -142,7 +142,7 @@ enthusiastic, partial, or nmlitcfunmating a^rn,felr? _i
 ?n&lt;Hh?re&quot;ve ii is tinctured with some real though  
 not radicaFdefects &quot; Doctor Franklin, in a short speec
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851010201:0012/pct:5.4787759131293186,45.719443011861784,16.1072721289898,4.7060340381640025/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851010201:0012/pct:5.4897444334759244,45.7280385078219,16.101787868816498,4.71033178614406/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -166,7 +166,7 @@ A undiscriiniuate admirer of it, as not to per^
 ceive it is tinctured with some real though not  
 radical defects.&quot; Doctor Franklin, in a shor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661393:1851010201:0028/pct:3.3765871354820707,42.347816118307925,13.408678666108553,4.218732087584547/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661393:1851010201:0028/pct:3.3812380819496766,42.347816118307925,13.422631505511372,4.226374718177997/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -189,7 +189,7 @@ am I yet such an enthutiastic, partial, or undiscrimi­
 nating admirer of it as not to perceive it is tinctured  
 with some real though not radical defects
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743038:1851022401:0290/pct:62.85100759828213,69.55776482687693,46.33300297324083,10.570220546223288/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743038:1851022401:0290/pct:20.950335866094044,23.185921608958974,15.44433432441361,3.523406848741096/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -210,7 +210,7 @@ siastic, pariial, or undiscriininatmg admirer of it as not 10
 perceive it is tinctured wnh some real though not radical  
 delecis &quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851022701:0235/pct:46.98596201486375,56.906429026098024,15.590421139554088,2.8389560789306176/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851022701:0235/pct:46.98596201486375,56.914916189263735,15.595926231764382,2.8431996605134735/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -244,7 +244,7 @@ thusiastic, parlial, or nndiscriminaiing admirer of
 of it as not to perceive it is tinctured with some  
 real though radkal defecis.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_lightningbolt_ver03:data:sn83016794:00415662397:1851031401:0060/pct:8.009563658099223,74.56879782129425,17.22952779438135,5.926598365970691/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_lightningbolt_ver03:data:sn83016794:00415662397:1851031401:0060/pct:6.008070542519802,55.9330826092595,12.927813480795098,4.448190896122423/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -285,7 +285,7 @@ I yet such an enthuslactic, partial or indiscriminating ad.­
  mirer of it as not to perceive it is tinctured with some  
 real, though not radical, defects.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743373:1861030901:0596/pct:236.50588804645912,226.2265633771191,47.15276657525407,13.528685303693724/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743373:1861030901:0596/pct:78.83529601548636,75.4088544590397,15.717588858418024,4.509561767897908/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -312,7 +312,7 @@ or indiscriminating admirer of it as
 not to notice it is tinctured with some  
 real, though not radical, defects.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gorn_ver01:data:sn85059652:00415664953:1861032301:0007/pct:114.14141414141415,85.84539916132606,35.071141522754424,24.645937178574254/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gorn_ver01:data:sn85059652:00415664953:1861032301:0007/pct:38.04713804713805,28.615133053775352,11.690380507584809,8.215312392858085/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -332,7 +332,7 @@ any other oppressive or despotic form, so
 long as there shall remain any virtue in  
 the hody- of the people.&quot; lif it Joh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014489:00279557438:1861070601:1006/pct:38.88689407540395,13.255692227165664,11.346499102333931,2.8003140539125884/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014489:00279557438:1861070601:1006/pct:38.89138240574506,13.262235017011253,11.346499102333931,2.8101282386809734/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -352,7 +352,7 @@ or any other oppressive or despotic form, so long
 as there shall remain any virtue in the body of  
 the people.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn85025202:00279557293:1861072001:0361/pct:62.56643887623387,70.49980218910721,14.768413059984814,2.9276012132401426/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn85025202:00279557293:1861072001:0361/pct:62.575930144267275,70.50969273374653,14.773158694001518,2.9276012132401426/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -404,7 +404,7 @@ in the original Constitution. So fearful were
 they that under some great emergency, this  
 sacred chart of our liberties might be abuse
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774686:1862123101:0436/pct:223.01013024602025,259.2671269251195,49.71056439942113,34.041423260754115/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774686:1862123101:0436/pct:55.772710821570755,64.81678173127987,12.432138979370249,8.510355815188529/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -430,7 +430,7 @@ This Constitution
 expressly forbids the arbitrary arrost and  
 imprisonment of the citizen. Washin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028822:00280775459:1863010801:0636/pct:118.82783882783883,18.290812770110136,50.256410256410255,28.10539523212045/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028822:00280775459:1863010801:0636/pct:29.706959706959708,4.572703192527534,12.564102564102564,7.026348808030113/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -464,7 +464,7 @@ mounted, than any Government heretofore
 stituted among mortals.&quot; Yet it is a remarka­  
 ble fact, that our fathers were not satisfie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774686:1863020701:0567/pct:205.7396928051738,336.1208524413272,56.1034761519806,38.73752360399245/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774686:1863020701:0567/pct:51.44532039619972,84.0302131103318,14.028704265211239,9.684380900998113/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -550,7 +550,7 @@ against the introduction of tyranny
 than any government hitherto Institu­  
 ted among mortals.” In 1789, Wash
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033255:00514152500:1884082801:0545/pct:45.53704456183124,63.880694854146185,9.56250846539347,8.292363159619796/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033255:00514152500:1884082801:0545/pct:45.54155943834936,63.88433664736516,9.557993588875345,8.292363159619796/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -662,7 +662,7 @@ New Jersey and Connecticut have already
 done it. It is also said that Georgia has  
 keceged. And to the same he writes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn82000205:00211103589:1888022501:0228/pct:18.727139722019018,185.3389461460299,44.11119239209949,10.509507911162723/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn82000205:00211103589:1888022501:0228/pct:4.683497987559458,46.33473653650748,11.031833150384193,2.627376977790681/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -693,7 +693,7 @@ state of anarchy with all its deplorable
 consequenses.&quot;&#x27;  
 ; was the language he employed i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_mojave_ver01:data:sn82014381:00175036593:1889060101:0006/pct:40.191535372258265,10.500173270185977,10.54989187519308,2.737668938431327/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_mojave_ver01:data:sn82014381:00175036593:1889060101:0006/pct:40.191535372258265,10.505948943051866,10.561476675934507,2.7405567748642716/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -712,7 +712,7 @@ ating into any desnotic or oppressive
 form so long as their shall remain anv  
 virtue in the body of the people&#x27;, no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_betelgeuse_ver01:data:sn90059959:00271742824:1891102401:0250/pct:50.92405428818943,17.88146792721358,13.961882760612186,3.110704483074108/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_betelgeuse_ver01:data:sn90059959:00271742824:1891102401:0250/pct:50.9336798536914,17.884856494188607,13.952257195110212,3.110704483074108/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

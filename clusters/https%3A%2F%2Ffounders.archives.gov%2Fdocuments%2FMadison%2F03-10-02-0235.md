@@ -174,7 +174,7 @@ this Department, it was immediately referred to
 Major General Scott, and other officers who have  
 been stationed on the frontier referred to, for suc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00200290185:1840041001:0697/pct:121.84766763848397,260.7077400253771,41.16253644314869,16.875793035387/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00200290185:1840041001:0697/pct:40.63810391978122,86.90258000845904,13.728350045578852,5.6252643451290005/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -402,7 +402,7 @@ where they are not. But a great; embarkation for Europe, expressing a
 part of the people of America, ap- great anxiety, that an interview should  
 pear to be so determined to have no take place, between you and me, befor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800102701:0002/pct:5.543182380598862,59.17874396135266,35.46151942588468,16.264090177133657/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800102701:0002/pct:5.555555555555555,59.186795491143315,35.48007918831972,16.264090177133657/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -424,7 +424,7 @@ But tome it appears, that the ge- gentlemen, who bear the name of Pinck­
 neral intcrefl of agriculture in par- ney. I had never seen one of them in  
 ticular, as well as of the nation in my life as I can recollect, and knew not
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800102701:0002/pct:5.369957931205147,89.30756843800322,35.238802276664195,6.505636070853462/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800102701:0002/pct:5.376144518683494,89.31561996779388,35.25117545162089,6.521739130434782/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -541,7 +541,7 @@ way to me, I lhall publish this answer
 immediately, which I hope you will ex­  
 cuse. &lt;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800102701:0002/pct:41.57386785449146,3.317230273752013,17.718386537985648,79.9194847020934/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800102701:0002/pct:41.5924276169265,3.3293075684380034,17.7121999505073,79.91545893719807/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -573,7 +573,7 @@ government, and wrote me many letters
 when I was abl&#x27;ent from it. I have alfo an  
 fcidi I •■; of his writing t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800103101:0002/pct:6.315526709935098,38.573417917375835,22.191712431352972,14.35865697044716/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800103101:0002/pct:6.332168414045598,38.573417917375835,22.20835413546347,14.379287224715045/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -646,7 +646,7 @@ into my mind and diverted m■•, bee rule I
 fuppofedMr. Pinckney aftfcr 8 years, had  
 I his point) and ot i alipned. th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800103101:0002/pct:6.090863704443335,3.605136933312703,44.73290064902646,93.48599721491567/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800103101:0002/pct:6.090863704443335,3.605136933312703,44.73290064902646,93.49631234204962/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -691,7 +691,7 @@ Your friend and bumble Servant.
 JOHN A.DAMS.  
 P. S. An your letter has bee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800103101:0002/pct:28.93160259610584,26.705864149775646,21.917124313529705,22.296147300015473/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800103101:0002/pct:28.93160259610584,26.705864149775646,21.933766017640206,22.296147300015473/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -726,7 +726,7 @@ P. S. An your letter has bee
 &quot; chara&amp;ers and conduft are more deftrv­  
 &quot; ing of confidence.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800110101:0002/pct:59.45212240868707,67.93242156074014,17.546890424481738,13.773129525341915/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800110101:0002/pct:59.464461994077,67.94046661303298,17.546890424481738,13.777152051488335/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1071,7 +1071,7 @@ diately, which 1 hope you will excuse.”
   
 : BOSTON, November 6
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1800111101:0390/pct:43.244485294117645,5.520046484601975,33.42524509803921,89.13422428820454/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1800111101:0390/pct:43.2546977124183,5.520046484601975,33.41503267973856,89.14390858028278/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1205,7 +1205,7 @@ I am Sir with great truth and regard your
 ft iend and humble fervant,  
 JOHN ADAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1800111701:0492/pct:30.112875454371533,12.551206190259444,22.651616606083795,82.88575329995449/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1800111701:0492/pct:30.107115531752104,12.549778131755604,22.652065799540935,82.87916714074412/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

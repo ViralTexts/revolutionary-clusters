@@ -50,7 +50,7 @@ To James Monroe, Feb. 15, 1800.
 hare not been Acknowledged. By post 1 dare not,  
 Mnd one jr two confidential opportunities liave passe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840040201:0166/pct:65.30868628858579,19.29268601850678,15.811198851399856,4.246419064520218/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840040201:0166/pct:65.31466858100023,19.296911311108293,15.811198851399856,4.246419064520218/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -71,7 +71,7 @@ that they will prevent an election, and will name a 1 re­
 sident oftlie Senate pro tcm , by what they say would  
 only be a stretch of the Constitution. &#x27;I lie month o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1840051901:0483/pct:63.68381804623415,76.56878519710378,15.749440715883669,3.2783588093322606/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1840051901:0483/pct:63.68381804623415,76.56878519710378,15.76932637335322,3.2884151246983104/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -120,7 +120,7 @@ tem. by what they say would only be a stretch of
 the constitution. The month of February will  
 therefore present us storms of a new character.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023294:00200296096:1840061901:0027/pct:312.64755480607084,304.3416772733701,60.11804384485666,17.649554518455663/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023294:00200296096:1840061901:0027/pct:78.17836812144212,76.08541931834253,15.032679738562091,4.412388629613916/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -145,7 +145,7 @@ only be a stretch of the Constitntion. &quot;T&#x27;he month
 of February will therefore present us storms of a  
 new character.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153255:1842122801:0030/pct:44.42401155917509,26.61711530735235,12.688821752265861,4.710727199678586/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153255:1842122801:0030/pct:44.43276851000481,26.620463372170885,12.68006480143614,4.71407526449712/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -167,7 +167,7 @@ which, they say, would only be a stretch
 of the Constitution.”  
 The Federalists then were willing t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn91059360:0019991988A:1860012601:0004/pct:10.270998652492889,70.94934585709494,13.040874382392573,5.635692720563569/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn91059360:0019991988A:1860012601:0004/pct:10.28098018665469,70.94934585709494,13.040874382392573,5.635692720563569/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -196,7 +196,7 @@ the Federalists, &quot;who openly declare they will pre­
 &quot;Senate pro tem, by what they say woald only be a  
 &quot;sretch of the Constitution
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530650:1860082201:0809/pct:3.0754130541469,117.5771132564163,49.255684606576146,22.521780080056512/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530650:1860082201:0809/pct:1.0251376847156333,39.1923710854721,16.418561535525384,7.507260026685503/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -224,7 +224,7 @@ by what they say would only be a stretch of
 the Constitution.&quot;  
 The following, from a letter which h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn84028745:00280775332:1860111001:0249/pct:11.069836552748885,82.55215775935982,17.27340267459138,9.8313803943984/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn84028745:00280775332:1860111001:0249/pct:8.303919747352777,61.91769076879108,12.966747167007245,7.3735352957988/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

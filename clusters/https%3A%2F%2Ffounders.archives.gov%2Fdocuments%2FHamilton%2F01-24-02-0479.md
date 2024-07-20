@@ -54,7 +54,7 @@ them, individually, by ailions a? well as words,
 the high regard which he cherifhes for them.  
 W. NORTH, Adj. Gen. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1800063001:0414/pct:28.602576808721505,6.899304367658798,22.537165510406343,16.432888584787317/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1800063001:0414/pct:28.59690844233056,6.898517673888255,22.537653586999603,16.43386545039909/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -108,7 +108,7 @@ no doubt will be keenly feit Ly their friends and coun­
 trymen, but at the sume time will be borne with that  
 fortitude and resignation which become good citi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1814092801:1115/pct:52.99716146268158,7.192552670259676,22.307563867089666,11.347378735913768/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1814092801:1115/pct:53.008292981577334,7.192552670259676,22.29643234819391,11.357177853993141/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -128,7 +128,7 @@ more pleasure than opportunities of testifying to
 them individually, by actions, as well as words, the  
 high regard he cherighes for them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1814092801:1115/pct:53.030556019368845,18.128368446839783,22.157288361996994,3.9000489955903967/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1814092801:1115/pct:53.03612177881672,18.13163481953291,22.16285412144487,3.9065817409766455/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -183,7 +183,7 @@ portunities of testifying to them individually, by
 actions as well as words the high rigard he cherish­  
 es for them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1814092801:0081/pct:29.337058674117348,62.40576860045886,21.59004318008636,27.745001638806947/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1814092801:0081/pct:29.329608938547487,62.39554317548747,21.59090909090909,27.74455185974111/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -212,7 +212,7 @@ pared to meet the enemies of their country.—
 In testifying the merits of the troops tiifc gen­  
 eral cannot but express his sorrow and regret
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1814092801:0160/pct:43.02055406613047,47.4622431294875,17.08668453976765,8.38078732359495/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1814092801:0160/pct:43.01286633309507,47.456368362421095,17.0895878008101,8.383875892230886/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -240,7 +240,7 @@ tifying to them individually, by actions as
 well as words the high regard he. cherishes  
 for them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1814092801:0160/pct:43.02055406613047,55.719237435008665,17.033065236818587,7.675167120574399/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1814092801:0160/pct:43.01286633309507,55.712340636217355,17.03597807958065,7.678343029252796/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -385,7 +385,7 @@ tifying to them individvally, by a&amp;ions as
 well as words, the high regard he cherithes  
 forthems =0 iLo 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814100401:0161/pct:58.25589706933524,12.005799903334944,34.38170121515368,83.04494925084582/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814100401:0161/pct:58.2654276864427,12.012244240373771,34.376935906599954,83.0417270823264/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

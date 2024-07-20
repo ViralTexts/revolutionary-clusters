@@ -103,7 +103,7 @@ The public {h ps which have been taken
 »n one part and the other, or which may  
 be taken before the exchange of ratifica
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801041501:0001/pct:5.8402860548271756,63.8301043219076,21.09654350417163,17.839046199701937/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801041501:0001/pct:5.856177989670242,63.835072031793345,21.104489471593165,17.839046199701937/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -191,7 +191,7 @@ Senate, that they considered t&#x27;&lt;e said con­
 vention as fully ratified, and returned it to  
 the Piesident for the usual promulgation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:0039334880A:1826060501:0731/pct:52.24730526743949,34.98330672085934,14.968476713443156,8.622441573523007/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:0039334880A:1826060501:0731/pct:52.236681577877185,34.97822931785196,14.9705164701098,8.624818577648766/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -219,7 +219,7 @@ the Senate, that they considered the said con­
 vention as fully ratified, and returned it to the  
 Presidént for the usual promulgation. It wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1826060601:0090/pct:11.41132075471698,6.46460577988118,33.615094339622644,86.67807874332897/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1826060601:0090/pct:11.41132075471698,6.471318766153123,33.63522012578616,86.674722250193/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -360,7 +360,7 @@ labor the smallest portion of its earnings on which it
 can subsist, government itself shall consume the resi­  
 due of what it was instituted to guard.&quot; And we hea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1838010901:0218/pct:19.752883031301483,68.41596130592502,15.205930807248764,2.1160822249093107/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1838010901:0218/pct:19.752883031301483,68.41999193873438,15.211422295442064,2.124143490528013/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -389,7 +389,7 @@ its earnings on which it can subaist, government itsell
 shall cmisume the residue of what it was intended to  
 guard.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186427:1840101501:0426/pct:215.07293354943275,111.7402431222009,39.883846569421934,6.53657496267861/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186427:1840101501:0426/pct:71.68129642133694,37.2427764153961,13.29282016655413,2.1786260084586133/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -459,7 +459,7 @@ two states venounce the respective pre­
 tensions which are the object of the said  
 article,”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152767:1843122101:0628/pct:6.329113924050633,10.664687798155413,12.714486638537272,9.752994805470157/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152767:1843122101:0628/pct:6.333802156586967,10.66822149192551,12.714486638537272,9.763595886780452/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -482,7 +482,7 @@ said treaties and couventioa shall
   
 no operation,1&#x27; &amp;c.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038189:00296028010:1844021401:0010/pct:10.938967136150234,80.2258292166549,20.657276995305164,4.714184897671136/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038189:00296028010:1844021401:0010/pct:8.221752407798919,60.16937191249118,15.503875968992247,3.542695836273818/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -513,7 +513,7 @@ satisfaction, adding, that &quot;by this retrenchment the
 two Slates renounce the respective pretensions  
 which are the object of ihe said article.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664291:1846091501:0114/pct:58.52696185883384,81.14979603453183,13.38594183837498,7.209942130727635/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664291:1846091501:0114/pct:58.53183301670807,81.15295828985232,13.395684154123435,7.21310438604813/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -599,7 +599,7 @@ renounced were the claims for indemnities lor spoliations
 upon the property ol American merchants, which are the  
 subjects of the bill now before the Senate of the Unite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851012301:0096/pct:38.206785137318256,5.516265912305516,30.98546042003231,92.7992799279928/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851012301:0096/pct:38.206785137318256,5.524838198105525,30.98546042003231,92.7949937850928/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -639,7 +639,7 @@ thut they considered the said Convention -&quot;.s fullv rutitied.?
 So, wo r- nounced the claims of American citizens, but d:d  
 not ntk France to renounce her pretentions as to the treatie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851013101:0007/pct:48.480442053220884,67.43211052882324,15.966264359459066,6.21248213434969/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851013101:0007/pct:48.49013620280161,67.43846276004446,15.961417284668702,6.21248213434969/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -669,7 +669,7 @@ deemed it to be his duty to take the sense of the Senate
 on the subject; and that body, by declaring the convention  
 already latified, concurred in 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851020401:0143/pct:63.740208877284594,19.95418681598371,15.567885117493473,7.381012980402138/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851020401:0143/pct:63.740208877284594,19.96267073894969,15.573324630113142,7.381012980402138/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -724,7 +724,7 @@ the relations of the two countries shall be regulated a* fol­
 low*f&quot; 4c.  
 Thi* article was stricken out by the Senate, and the fol
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855020301:0146/pct:2.9560672872774783,16.82917563631759,15.956230605912134,4.976573382297075/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855020301:0146/pct:2.9560672872774783,16.83761766071504,15.967118514889215,4.9807943944958/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -750,7 +750,7 @@ without adopting this declaration of Bonaparte, the&#x27; rel
 ratified. Is this to be the foundation of our liability?an  
 inference drawn from a declaration of Bonaparte, whic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855020301:0146/pct:3.119385921933693,48.929973407623145,15.939898742446513,5.938964163606433/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855020301:0146/pct:3.119385921933693,48.93419441982187,15.945342696935054,5.943185175805158/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -792,7 +792,7 @@ the discussion of those questions to that most indefinite j?e­
 riod, a &quot;convenient time. All, then, of these subjects  
 which was revived by the convention was the right to re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855021801:0215/pct:68.31066688513846,54.780652418447694,16.008520399803377,12.835895513060867/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855021801:0215/pct:68.31612867988422,54.784818564346125,16.008520399803377,12.840061658959296/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -814,7 +814,7 @@ States, that body resolved that &quot; they considered the
 vention as fully ratified,&quot; and returned the san?* x&gt;&quot;*  
 President for promulgation, and it was mtordingly 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855021801:0215/pct:84.204489595281,87.1016122984627,15.549729641160086,3.8120234970628672/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855021801:0215/pct:84.20995139002676,87.10577844436112,15.555191435905838,3.8161896429612967/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -865,7 +865,7 @@ When the treaty was submitted to the Senate of the
 e anited States the second article was disagreed to, and  
 the treaty amended by striking it out and inserting 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:0027174321A:1855022001:0421/pct:47.40701938187533,141.34954407294833,60.467958791688496,19.343465045592705/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:0027174321A:1855022001:0421/pct:15.802339793958442,47.116514690982775,20.155986263896164,6.447821681864235/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -901,7 +901,7 @@ vention shall have no operation.
 \\ hen thetreaty vva’* submitted t-* the Senate  
 ( of the United States tlie second article wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215932:1855022001:0032/pct:47.59833768242002,39.01674385464909,12.680003865854838,10.879942999643747/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215932:1855022001:0032/pct:47.59373792037108,39.013964092334,12.68199974230125,10.881542699724518/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -938,7 +938,7 @@ cungenient time, ami until they shall have agreed up
 have uo nperruion.  
 When the treaty wax pjbinitted to tho Senate 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1855022201:0544/pct:30.490281404119525,36.640490327523466,13.649550333623441,4.6255506607929515/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1855022201:0544/pct:30.49511652644812,36.640490327523466,13.644715211294846,4.631935133754708/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -971,7 +971,7 @@ r resolution, it is, that they regarded the proviso anne
 1 ed by the Kirs: Consul to bis declaration of accej  
 nuce as foreign t?? the *
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1855022201:0544/pct:43.73368146214099,52.719785481708485,13.794604003481288,7.249569048075082/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1855022201:0544/pct:43.74335170679818,52.719785481708485,13.799439125809883,7.259145757517717/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -999,7 +999,7 @@ agieed upon these points, &quot;the said treaties and
 ?r&quot;U?&quot; i huV- 1,0 0Perntlonf&#x27;&quot; Ike. What  
 treaties and convention are here referred to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855022401:0353/pct:80.02278769464489,41.394279877425944,16.21724268894797,6.677732379979571/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855022401:0353/pct:80.02911760982403,41.394279877425944,16.223572604127106,6.686244467143344/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1030,7 +1030,7 @@ djsscnt or assent to the construction put by the
 First Consul oti tho retrenchment of the second  
 article; and that, therefore, if any inf
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855022401:0353/pct:80.91530573490316,70.23748723186925,15.609570831750855,8.758937691521961/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855022401:0353/pct:80.9216356500823,70.24174327545114,15.609570831750855,8.767449778685734/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1058,7 +1058,7 @@ thirds concurring, that they consider this conven­
 tion as fully ratified;&#x27; and they further resolved  
 that it be returned
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855022401:0354/pct:3.870967741935484,28.847130523108177,15.578747628083491,7.757745048247841/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855022401:0354/pct:3.870967741935484,28.851362789910276,15.578747628083491,7.757745048247841/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1083,7 +1083,7 @@ of December, 18(11, it was resolved by the Senate that
 they considered the said convention us fully ratified, and  
 returned it to the President for the usual promulgation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82006534:00415661101:1859020101:0109/pct:16.591276252019387,44.52545568824639,15.444264943457188,5.367693274670019/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82006534:00415661101:1859020101:0109/pct:16.591276252019387,44.52545568824639,15.460420032310179,5.376073748166771/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

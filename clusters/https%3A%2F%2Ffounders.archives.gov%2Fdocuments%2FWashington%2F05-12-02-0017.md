@@ -640,7 +640,7 @@ lievers here and very often a minieti
   
 of this belief delivers a series of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_juliet_ver02:data:sn86064205:00206536603:1890053101:0453/pct:125.9083728278041,115.6958393113343,51.73775671406003,10.961262553802008/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_juliet_ver02:data:sn86064205:00206536603:1890053101:0453/pct:31.495751827702033,28.923959827833574,12.942106303102154,2.740315638450502/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -658,7 +658,7 @@ week The Swedenborgians or the New
 Church signified by the New Jerusalem  
 in the Revelation number several b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_juliet_ver02:data:sn86064205:00206536603:1890060101:0457/pct:58.94428152492669,115.4978354978355,63.929618768328446,7.041847041847042/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_juliet_ver02:data:sn86064205:00206536603:1890060101:0457/pct:14.739672451723296,28.874458874458874,15.986311415301882,1.7604617604617605/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

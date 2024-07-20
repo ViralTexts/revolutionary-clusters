@@ -104,7 +104,7 @@ wuat shall be made, the State of New Hamp­
 shire shall be entitled to choose three.  
  Messachusetts eight, Rhode Island an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477837:1861021301:0473/pct:0.0,171.77295024526978,64.74464579901154,12.83812193412754/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477837:1861021301:0473/pct:0.0,42.943237561317446,16.19616731918401,3.209530483531885/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -124,7 +124,7 @@ and until such enumeration shall be made,
 the State of New Hampshire shall be entitled  
 to choose turee; Massachusetts eight; Rhod
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn86081912:00296028617:1862091701:0024/pct:17.08293307716939,45.3777873998701,14.985590778097983,3.734574583243126/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn86081912:00296028617:1862091701:0024/pct:17.093606574874585,45.3777873998701,14.980254029245383,3.734574583243126/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -143,7 +143,7 @@ representative; and until such enumeration shall be
 made, the State of New Hampshire shall be entitied to  
 choose three. Massachusetts cight, Rhode Islan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:00206539902:1864082501:1089/pct:93.66812227074236,108.81253338080826,67.79475982532752,7.690938223250845/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:00206539902:1864082501:1089/pct:23.436219612127832,27.203133345202065,16.96257853045616,1.9227345558127114/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -171,7 +171,7 @@ Virginia ten, North Carolina five,
 South Carolina five, and Georgia  
 three.&quot;-Constitution of the Unite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_alexiavalentine_ver01:data:sn84027008:00294551645:1866011901:0470/pct:4.30780559646539,49.24467033742764,15.905743740795288,9.035719327968375/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_alexiavalentine_ver01:data:sn84027008:00294551645:1866011901:0470/pct:4.30780559646539,49.254082545060946,15.924153166421208,9.031013224151724/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -194,7 +194,7 @@ such enumeration shall be made the State of
 New Hampshire shall be entitled to choose  
 three, Massachusetts eight, Rhode Island an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053571:00237288956:1866121001:0564/pct:35.41102077687444,244.3484521238301,49.32249322493225,17.63858891288697/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053571:00237288956:1866121001:0564/pct:8.858757062146893,61.087113030957525,12.338983050847459,4.4096472282217425/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -251,7 +251,7 @@ until such enumeration shall be made
 the state of New Hampshire shall be  
 entitled to choose three, Massachusett
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_larkspur_ver01:data:2017270212:0027952746A:1896081401:0826/pct:66.42732811140122,76.33948339483395,18.711923411662315,5.830258302583026/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_larkspur_ver01:data:2017270212:0027952746A:1896081401:0826/pct:49.85848029610276,57.254612546125465,14.04310907903331,4.3837638376383765/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -272,7 +272,7 @@ shall be made, the State of New Hamp­
 shire shall be entitled to choose three,  
 Massachusetts eight, Rhode Island an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_harry_ver01:data:sn85054468:211102159:1898092501:0576/pct:9.424778761061948,77.29717615419095,17.61061946902655,5.1882563872702825/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_harry_ver01:data:sn85054468:211102159:1898092501:0576/pct:6.285967242142541,51.5351860152398,11.745610151984653,3.462572837292694/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -1436,7 +1436,7 @@ into France from the United Stacesin
 their or in French vessels, or carried from  
 France to the said United Statesin French
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1788043001:0181/pct:24.944920440636476,12.401960784313726,43.549571603427175,80.37581699346406/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1788043001:0181/pct:24.944920440636476,12.401960784313726,43.565891472868216,80.38671023965142/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1494,7 +1494,7 @@ sailles, the twenty-uinth of Decem­
 and eighty-seven. .  
 Signed LezCre.petasa LUZERNE.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1788043001:0181/pct:69.03304773561811,17.336601307189543,21.297429620563037,34.77124183006536/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1788043001:0181/pct:69.04120767033864,17.342047930283226,21.321909424724602,34.765795206971674/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1682,7 +1682,7 @@ has ordained, and does ordain as fol- |
 lows : |  
 ArT. I. There shall be paid to al
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789022501:0342/pct:49.44403261675315,26.248995983935743,21.003212255992093,16.11244979919679/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789022501:0342/pct:49.46050572440491,26.25970548862115,21.01144880981797,16.11244979919679/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1814,7 +1814,7 @@ America ; and moreover his Majesty aflares to the said citizens and
 inhabitants of the United States, all the privileges and advantages  
 which his own fubjedtsof France enjoy, or shall enjoy, in Asia and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791061501:0001/pct:7.312079555425563,24.77728285077951,26.732962854635858,65.57164068299926/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791061501:0001/pct:7.326703714536414,24.79120267260579,26.732962854635858,65.56700074239049/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1845,7 +1845,7 @@ tieid at Verfalllcs the twenty-ninth ot December,
 one thousand seven hundred and eighty-seven.  
 (Signed) &#x27; Le Ct. De La LUZERNE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791061501:0001/pct:34.630008774495465,19.320712694877507,26.26498976308862,9.37268002969562/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791061501:0001/pct:34.65194501316174,19.334632516703785,26.25036560397777,9.35876020786934/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1872,7 +1872,7 @@ held at Versailles, 28th September, 1788,
 (Signed)  
 No. XI
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791062201:0004/pct:13.251935675997618,32.79419966536531,25.967837998808815,7.770961145194274/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791062201:0004/pct:13.259380583680763,32.80349507343372,25.96039309112567,7.775608849228481/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1906,7 +1906,7 @@ poftcd wherever it may appear necellary.
 Done in the King&#x27;s Council of State, his Majrfty being present,  
 held at Vcifaillcs the seventh of December, 1 88.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791062201:0004/pct:13.341274568195354,60.0111544896821,25.967837998808815,12.028258040527978/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791062201:0004/pct:13.363609291244789,60.0111544896821,25.96039309112567,12.032905744562186/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2170,7 +2170,7 @@ the -ah. and fi.&#x27;h of the Same kind, the |
 &gt;■ :e oS the (liberies of the ilanSeatic  
 Towns, or of other the moft Savoured na
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803062701:0001/pct:9.4518302677108,10.976063499937988,59.351666363139685,81.12365124643433/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803062701:0001/pct:9.463971347052754,10.976063499937988,59.33952528379773,81.13191946752656/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

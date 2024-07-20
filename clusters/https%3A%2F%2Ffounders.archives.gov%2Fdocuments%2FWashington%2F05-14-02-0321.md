@@ -363,7 +363,7 @@ admonirtiing our citizens of the confequenees of
 &quot; our rtghr to the immunities belrkging to our  
 &quot; situation.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797012401:0002/pct:11.823397355949114,28.02232854864434,20.229483661761037,12.025518341307816/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797012401:0002/pct:11.842105263157896,28.03030303030303,20.21701172362185,12.033492822966506/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -398,7 +398,7 @@ ration of the existing lcgal state of things
 an easier admission of our right to the im­  
 munities belonging to our fitnation.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797021801:0237/pct:9.755725190839694,8.707616707616708,72.87022900763358,83.95085995085995/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797021801:0237/pct:9.760814249363868,8.714168714168714,72.87531806615776,83.94758394758395/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -434,7 +434,7 @@ ct&#x27;f/&quot;Cl dEissZIUG-ctlsssifl Qj s/Zd&#x27; csstisi&#x27;fstmsigj [egg]
 ctt/ulzg-S, :ln easmr admtsswn of our sight to  
 the immttnitics brlongmg to our Sutuaucm.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216109:1809061501:0020/pct:77.11725168035848,24.530831099195712,22.83793876026886,14.941912421805183/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216109:1809061501:0020/pct:77.10573476702508,24.528639084979,22.839506172839506,14.943555833556728/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -465,7 +465,7 @@ declaration oj the existing legal state of
 things, an easier admission of our right to)  
 the immunities belonging to our situation.” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809062301:0056/pct:59.30441018286124,48.09957498482088,17.12083183936895,9.192471159684274/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809062301:0056/pct:59.29378024735616,48.09373482272948,17.123737826372707,9.195402298850574/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -481,7 +481,7 @@ ore that
 Being on whose will the fate of nations depends,  
 to crown with success our mutual endeavors fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530182:1843061301:0364/pct:103.27300150829562,110.1067615658363,48.582202111613874,5.541433655312659/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530182:1843061301:0364/pct:34.42433383609854,36.70225385527877,16.194067370537958,1.8471445517708862/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

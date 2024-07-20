@@ -291,7 +291,7 @@ all the above articles are hereby declared to be
 just objeéts of confifcation, whenever they are  
 attempted to be carried to an enemy.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795071401:0470/pct:52.981210238200916,54.71641791044776,19.322384968190562,10.716417910447761/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795071401:0470/pct:52.981210238200916,54.71973466003317,19.337180056221335,10.716417910447761/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -322,7 +322,7 @@ ticles arc hereby declared to be jc.ft . objectfi of con­
 fifeation, whenever they are attempted to be carried  
 to an enemy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_zarley_ver01:data:sn84038410:01000424529:1795071801:0053/pct:32.687927107061505,58.716265499635306,25.360668185269553,12.472647702407002/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_zarley_ver01:data:sn84038410:01000424529:1795071801:0053/pct:32.675521821631875,58.7019931939718,25.36053130929791,12.47569275644142/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -770,7 +770,7 @@ bove articles are hereby declared to be just
 obje&amp;s of confiscation, whenever they are  
 attempted&#x27; to be carried to an enemy. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797091901:0002/pct:42.98097760654948,46.835443037974684,17.047917168312065,10.563592525617842/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797091901:0002/pct:42.999036840837945,46.846745027124776,17.03587767878642,10.556057866184448/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -861,7 +861,7 @@ of the treaty of London of the Igth of Nov.
 17944 %o the articles declared contraband by  
 the 24th articles of the treaty of the 6th o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798060501:0511/pct:25.83694978301302,43.319996096418464,16.80099194048357,15.565531375036596/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798060501:0511/pct:25.84728249638355,43.32324908103185,16.795825583798305,15.568784359649978/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1003,7 +1003,7 @@ articles arc here!*&#x27; declared to be just ob­
 jects of confiscation, whenever they are  
 attempted to lie earned to n enemy. Hu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808040801:0123/pct:4.592122456598843,21.893045443133317,17.771140563748368,11.963344212904845/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808040801:0123/pct:4.591265397536394,21.890297477093007,17.77404504168222,11.966026526086775/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1035,7 +1035,7 @@ the equipment of vessels ; and all the above articles
 are hereby declared to be just objects of confiscation  
 whenever they are attempted to he carried to an e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808041101:1075/pct:52.37850347132939,20.032336297493938,22.010799691437388,12.756669361358124/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808041101:1075/pct:52.365038560411314,20.02909796314258,22.011568123393317,12.758648561267378/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1070,7 +1070,7 @@ sels j and all the above articles are hereby declar­
 ed to he just objects of confiscation, whenever  
 they are attempted to be carried to an enemy. Bu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808041201:0442/pct:77.75171418260555,61.03321033210332,17.466618549260193,11.291512915129152/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808041201:0442/pct:77.73768717301101,61.02570409543721,17.469481027121294,11.294223752715943/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1123,7 +1123,7 @@ ture, holsters, belts, and generally all 1
 other implamcnis of War ; as also j  
 timber for ship building, copper in 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808051801:0001/pct:7.275320970042796,39.88468930172966,17.525983289178725,8.14862267777066/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808051801:0001/pct:7.282113986821548,39.88896006833227,17.525983289178725,8.152893444373264/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1334,7 +1334,7 @@ o an enemy.&quot; This part of the treaty
 expired by limitation in 1807. Indeed the  
 whole treaty was suspended by the war o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290082:1859060301:0525/pct:25.403899721448468,138.53680737285242,33.98328690807799,14.154056206621913/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290082:1859060301:0525/pct:6.350974930362117,34.634201843213106,8.495821727019498,3.5385140516554783/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1351,7 +1351,7 @@ will also certainly include, timber for ship
 building, tar or resin, copper in sheets, sails,  
 hemp and cordage, and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027253:00279528517:1859061001:0296/pct:62.17527833285755,62.99481751019958,11.019126463031688,1.3893483294740325/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027253:00279528517:1859061001:0296/pct:62.17527833285755,62.99849303488073,11.038157769530878,1.3930238541551807/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1418,7 +1418,7 @@ land or sea, such as cannons, mortars, guns, muskets, riftes,
 pistols, petards, bombs, grenades, balls, shot, shell, pikes, swords,  
 bayoners, savelins, lances, horse furniture, holaters, belts, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530686:1861052501:0204/pct:249.0642387455741,173.23977740140333,48.17062889900523,10.391967094120494/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530686:1861052501:0204/pct:83.02141291519136,57.74659246713445,16.05687629966841,3.463989031373498/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1456,7 +1456,7 @@ Also, timber for ship building, pitch, tar,
 rosin, copper in sheets, sails, hemp, cordage,  
 and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347294:1861060701:0211/pct:22.46584048299968,51.58429888862615,13.520813473149031,5.2139985812248755/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347294:1861060701:0211/pct:22.471136532147018,51.59218097264917,13.536701620591039,5.2139985812248755/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1532,7 +1532,7 @@ Also, timber for ship building, pitch, tar,
 rosin, copper in sheet, sails, hemp, cordage,  
 and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn84038814:00279557219:1861061201:0437/pct:29.674418604651162,62.81982224616213,12.576744186046511,5.386479935362241/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn84038814:00279557219:1861061201:0437/pct:29.688372093023254,62.823188796121734,12.572093023255814,5.393213035281444/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1569,7 +1569,7 @@ Also, timber for ship building, pitch,
 tar, rosin, copper in sheets, sails, hemp,  
 cordage, and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_flint_ver01:data:sn97063063:00296024302:1861061301:0462/pct:64.59885386819484,103.09412658777549,18.839541547277936,10.715448919769841/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_flint_ver01:data:sn97063063:00296024302:1861061301:0462/pct:43.07824591573517,68.73303658668982,12.568071080538836,7.143632613179894/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1639,7 +1639,7 @@ Also, timber for shipbuilding, pitch, tar,
 IU ouvvioj OUIIOJ uuiuj/) vu?uage,  
 and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862701:1861061301:0205/pct:25.75019235701462,18.300466800038105,13.349576814567838,6.820996475183386/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862701:1861061301:0205/pct:25.75019235701462,18.303642310501413,13.349576814567838,6.824171985646693/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1754,7 +1754,7 @@ ernment had no alternative but to issue the orders
 to which your Excellency has drawn attention,  
 I have thus shown that the practrce of Great Bri
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743725:1870111401:0571/pct:57.547327860613166,256.6220581449008,47.00954933824761,12.921089063221043/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743725:1870111401:0571/pct:19.18244262020439,85.54068604830026,15.669849779415872,4.307029687740347/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

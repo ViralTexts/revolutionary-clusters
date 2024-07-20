@@ -105,7 +105,7 @@ read in his plaee, and then delivered in at
 the clerk&#x27;s table, where the fame were again  
 read, and are as follows 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799012501:0003/pct:40.31591737545565,73.4982332155477,17.059538274605103,3.9176524811799047/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799012501:0003/pct:40.328068043742405,73.50975572284528,17.04738760631835,3.9176524811799047/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -130,7 +130,7 @@ the committee had, according to order, nad under consideration- sundry petitions
 them referred, and had come* to several resolutions thereupon, which he*Landed in at  
 the clerk’s table, where the same were twice read, a., follows
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804121901:0403/pct:53.415559772296014,54.770917634773525,42.63757115749526,8.876125832136797/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804121901:0403/pct:53.405425915386076,54.76376925084834,42.63580598241953,8.879317845645176/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -155,7 +155,7 @@ twice read, and agreed to by the house, as follow s :
 L, 1&lt;C3oh;cJ1&#x27; That lt the opinion of this committee, that the petition of Abner Waugh, in­  
 enmoento. me pans!, of St. Mary, in the county ol Caroline, and of sundry oilier persons?,tabi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804122201:0409/pct:6.244069083317518,64.20942953894243,48.09261719491364,9.351393592081271/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804122201:0409/pct:6.242884250474384,64.20106784737597,48.08981657179,9.354516647132874/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -176,7 +176,7 @@ J, Resolved, That it is the opinion of this * committee, that the petition of su
 ow ners and captains of craft, navigating,the river Appomattox, graving that an act may pass, to  
 explain and amend the act, intituled, “ An act to amend and reduce into one, the several &#x27;acts o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805011201:0027/pct:2.87283481199831,46.23350829904951,53.02070130967469,6.341325010639807/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805011201:0027/pct:2.8722280887011618,46.226950354609926,53.01654347060894,6.3451536643026/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -200,7 +200,7 @@ tee, that the petition of sundry inhabitants of the
 borough of Norfolk, praying that an act may pass,  
 authorising the pavement of the streets in the sai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1806121901:0271/pct:29.443757725587144,73.08438409311348,21.681087762669964,6.789524733268671/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1806121901:0271/pct:29.43648047454276,73.07257152093098,21.681908057340582,6.792468078228544/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -220,7 +220,7 @@ fifth article thereof 5 and he read the same in his place,
 and afterwards delivered them in at the clerk’s table, where  
 the same were again read, and are as fol.owt th 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813122701:0415/pct:49.831460674157306,28.074503515480448,22.00374531835206,3.170099913654866/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813122701:0415/pct:49.82213068713724,28.07104094721263,22.00586656681021,3.1738200953790496/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -286,7 +286,7 @@ viz.
 “ Resolved that it is the opinion of this  
 committe, that the sole right of imposin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1837102501:0746/pct:1.2303851640513552,49.41297897045543,14.621968616262482,6.786221132757063/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1837102501:0746/pct:1.2363290537327627,49.41297897045543,14.633856395625298,6.786221132757063/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -325,7 +325,7 @@ thereof: which he read in his place, and after­
 wards delivered m at the clerk’s table, when &#x27;  
 the same was again twice read and agreed to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215853:1851050301:0683/pct:60.64846087040432,29.4811320754717,12.930618546752871,2.705327413984462/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215853:1851050301:0683/pct:60.64260903126206,29.47908718873552,12.93258716068442,2.7074518508242584/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -344,7 +344,7 @@ the following device &#x27;hereof: which ho read in his
 place, and afterwards delivered in at the clerk&#x27;s table,  
 where the suune was again twice read, and agreed to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664357:1855082401:0103/pct:27.589208006962576,93.65636260193438,15.54975340876124,2.133510335672293/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664357:1855082401:0103/pct:27.589208006962576,93.65952335798723,15.559423653418431,2.1366710917251406/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -364,7 +364,7 @@ which he read in his place, and afterwards deliver­
 ed in at the clerk&#x27;s table, where tho same was  
 again twice read, and agreed to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82014835:00415661514:1855082501:0298/pct:70.74599661502408,58.86428046604387,12.680640541596146,2.918022462475071/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82014835:00415661514:1855082501:0298/pct:70.7503363277351,58.871278121829185,12.680640541596146,2.921521290367727/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

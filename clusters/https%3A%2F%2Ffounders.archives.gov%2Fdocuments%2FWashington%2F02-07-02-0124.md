@@ -142,7 +142,7 @@ inclosed is the exact size, without any allow­
 ance for seams, &amp;c. .  
 Go. Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_angelou_ver01:data:sn83030362:print00211110028:1847112101:0004/pct:43.522860492379834,69.96733130562127,9.671746776084408,14.475611129886223/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_angelou_ver01:data:sn83030362:print00211110028:1847112101:0004/pct:43.53018757327081,69.97296383913485,9.675410316529895,14.486876196913371/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -192,7 +192,7 @@ go amss. You must take notice that en­
 closedis ye exact size, without any allow­  
 ance br seams, etc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_gordon_ver01:data:sn87052181:00200292510:1876092801:0149/pct:12.916246215943492,219.9012896035663,66.29667003027245,83.17146951122433/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_gordon_ver01:data:sn87052181:00200292510:1876092801:0149/pct:3.2298763562957356,54.97532240089158,16.578349735049205,20.792867377806083/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -355,7 +355,7 @@ ihink you * anT go amiss. N on must take no­
 tice that enclosed is ye **xa«*t si/,-, without an\
 allowance for seams, Ac. &lt; Jo. \\ asiiin*;ton
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524676:1876111601:0403/pct:49.05441274054413,61.691603808581675,11.347047113470472,11.945097069370595/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524676:1876111601:0403/pct:49.046276331066515,61.6839762611276,11.349311660308508,11.946711177052423/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -431,7 +431,7 @@ nil can&#x27;t go amiss. You must take
 otice the inclosed is tho exact size with- i  
 ut any allowance for seams, &amp;c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_eritrea_ver01:data:sn84026844:00202193547:1889050201:0425/pct:22.48587570621469,34.716788569484606,10.734463276836157,18.200374213301583/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_eritrea_ver01:data:sn84026844:00202193547:1889050201:0425/pct:22.502824858757062,34.72954584112944,10.740112994350282,18.21313148494642/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -502,7 +502,7 @@ found receiving pecuniary rewards but, feet high of this bigness I think you can
 go amiss. You must tako notice the in­  
 paid them wero inadequate, they certainly closed is the exact size without any allow
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_corsair_ver06:data:sn96090256:00415623136:1890042501:0678/pct:55.825986968187046,33.78774552917033,24.31966270601763,1.3192612137203166/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_corsair_ver06:data:sn96090256:00415623136:1890042501:0678/pct:55.84036029129935,33.79141014365289,24.30528938290533,1.3265904426854296/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -539,7 +539,7 @@ in cabs during the last few years, &quot;&#x27;hefol- jany alteration is require
 lowing is a list of soma of tliu /ticipal shall bo pointed out.  
 ones, with the values on which tho rewards A&#x27;,.(e, for your further government an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_corsair_ver06:data:sn96090256:00415623136:1890042501:0678/pct:55.74932924492143,18.704192318968044,24.31966270601763,8.839050131926122/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_corsair_ver06:data:sn96090256:00415623136:1890042501:0678/pct:55.75412035262553,18.7078569334506,24.34361824453814,8.835385517443566/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -555,7 +555,7 @@ ones, with the values on which tho rewards A&#x27;,.(e, for your further governm
 to tho drivers woro based: A bag of jew- knowledge of my size I have sent the in­  
 o&#x27;.-y, valued nt £1,50(1, and another at closed, and you must observethat from th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_corsair_ver06:data:sn96090256:00415623136:1890042501:0678/pct:55.76849367573783,27.55790090882439,24.28133384438482,0.8941659337437702/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_corsair_ver06:data:sn96090256:00415623136:1890042501:0678/pct:55.78286699885013,27.56156552330695,24.27654273668072,0.8978305482263266/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -699,7 +699,7 @@ can&#x27;t go amiss; you must take notice that the
 inclosed is the exact size, without any allow.  
 ance for seams. &amp;c. GEonOE WASHINoTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_neruda_ver01:data:sn83030272:00175045028:1892062701:0376/pct:338.996138996139,108.28160484481454,52.04633204633205,50.26495079485238/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_neruda_ver01:data:sn83030272:00175045028:1892062701:0376/pct:84.78176902278872,27.070401211203635,13.016608729239088,12.566237698713095/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -747,7 +747,7 @@ can’t go amiss; you must take notice tbat
 the inclosed is the exact size, without any  
 allowance for seams, etc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drew_ver02:data:sn86063034:00414182070:1892070301:0816/pct:109.26517571884985,17.925883366848606,16.293929712460063,16.676242459063488/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drew_ver02:data:sn86063034:00414182070:1892070301:0816/pct:84.68709035296402,13.899814471243042,12.637762780987522,12.923933209647496/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -807,7 +807,7 @@ that the inclosed is the exact size, without
 any allowanca for seams, &amp;c.  
 &lt; &quot;&#x27;GEORGE WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_fleshgolem_ver02:data:sn92063989:00514153590:1892071601:0184/pct:48.354792560801144,56.280894468418985,10.862456570611077,13.974107493134563/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_fleshgolem_ver02:data:sn92063989:00514153590:1892071601:0184/pct:48.35819878738334,56.28350987315287,10.862456570611077,13.974107493134563/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -858,7 +858,7 @@ I think you can&#x27;t go amis; you must
 take notice that the inclosed is the exact  
 stze, without any allowance for seams
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_goethe_ver01:data:sn83030193:00206535386:1892072701:0810/pct:244.05864197530863,66.8392106114526,47.4537037037037,64.50986735684245/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_goethe_ver01:data:sn83030193:00206535386:1892072701:0810/pct:61.026432568010804,16.70980265286315,11.865714836967008,16.127466839210612/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -909,7 +909,7 @@ think you can&#x27;t go amiss; you must
 take notice that the inclosed is the exact  
 size, without any allowance for seams
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_goethe_ver01:data:sn83030193:00206535386:1892072702:0814/pct:289.73765432098764,68.45965770171149,46.99074074074074,64.93887530562347/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_goethe_ver01:data:sn83030193:00206535386:1892072702:0814/pct:72.46236974141259,17.114914425427873,11.752219220378233,16.234718826405867/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1065,7 +1065,7 @@ t you cant go amiss; you rau&#x27;t take notice 1
 any allowance for seams, Ac.  
 8 &quot;Gkoboe Washington, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_flopeye_ver01:data:sn84026918:00295861435:1892072901:0253/pct:55.837272597049136,48.515719136816735,15.155421859332474,14.185562493153686/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_flopeye_ver01:data:sn84026918:00295861435:1892072901:0253/pct:55.842047462159194,48.51937050425384,15.160196724442535,14.185562493153686/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1112,7 +1112,7 @@ a that the inclosed is the exact size, witbou
 any allowance for seams, Ac.  
 * &quot;George Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grandamericancoonhunt_ver01:data:sn84026918:00295862099:1892072902:0561/pct:55.99112426035503,49.5838558887242,15.399408284023668,13.55603693991563/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grandamericancoonhunt_ver01:data:sn84026918:00295862099:1892072902:0561/pct:55.99605522682446,49.58765629156691,15.409270216962526,13.563637745601033/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1216,7 +1216,7 @@ notice that the inclosed is the exact size,
 without any allowance lor seams etc.  
 &quot;GEORGE WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_goshen_ver01:data:sn83016758:00280767992:1892081101:0252/pct:66.55443322109988,41.1841108345059,14.542247875581209,20.651585669444746/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_goshen_ver01:data:sn83016758:00280767992:1892081101:0252/pct:66.56512212067767,41.19132662265036,14.536903425792314,20.655193563516974/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1271,7 +1271,7 @@ think you can&#x27;t go amiss you must take
 notice that the inclosed is the exact size,  
 without any allowance tor seams, etc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_europium_ver01:data:sn88076432:00271740694:1892081101:0527/pct:37.344306049822066,41.53846153846154,14.590747330960854,20.792079207920793/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_europium_ver01:data:sn88076432:00271740694:1892081101:0527/pct:37.349866548042705,41.54607768469155,14.585186832740213,20.7996953541508/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1319,7 +1319,7 @@ can&#x27;t go amiss; you must take notice that the
 inclosed is the exact size, without any allow­  
 ance for seams, &amp;e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_desalvo_ver01:data:sn99063952:00280760328:1892081201:0225/pct:119.94091580502216,71.58968850698174,48.44903988183161,49.140708915145005/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_desalvo_ver01:data:sn99063952:00280760328:1892081201:0225/pct:30.001847404396823,17.897422126745436,12.118972843155367,12.285177228786251/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1372,7 +1372,7 @@ knee bnml c, or teiiRili of&#x27; «eehes.
 con about six feet liis-li ol this bigness, I  
 Ihink you eun&#x27;t go amiss you inuat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_fluorine_ver01:data:sn88076013:00271740888:1892081301:0589/pct:60.85481682496608,19.6530260892597,10.786974219810041,16.69977486425639/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_fluorine_ver01:data:sn88076013:00271740888:1892081301:0589/pct:60.85481682496608,19.656336909018673,10.795454545454545,16.703085684015363/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1433,7 +1433,7 @@ nut ice that the inclosed is the exact size,
 without any allowance lor scams, ctc.  
 &quot;GEOKOK WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_lawrencium_ver01:data:sn88076679:00199918527:1892081301:0962/pct:68.34592779177162,28.59061789625956,12.258606213266162,19.435833849969/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_lawrencium_ver01:data:sn88076679:00199918527:1892081301:0962/pct:68.34592779177162,28.59061789625956,12.267935441738969,19.442722325549354/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1634,7 +1634,7 @@ Hides-d is the exact size, without any allow­
 ance for seams. Ac.  
 (•K.ißov: Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340586320:1892081901:0258/pct:45.93580658607753,91.38652431106622,17.98666110879533,18.958303275140672/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340586320:1892081901:0258/pct:35.61083292952135,70.82370480805069,13.939589727023098,14.69996272828923/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1682,7 +1682,7 @@ inclosed is tne exact size, without any allow­
 ance for seams, &amp;c.  
 George Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_gum_ver01:data:sn94053256:00271762926:1892082001:0180/pct:95.88385449904276,20.356458977758138,14.613911933631142,19.074974223007807/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_gum_ver01:data:sn94053256:00271762926:1892082001:0180/pct:71.95530726256983,15.274709088230962,10.965682362330407,14.302548239799677/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

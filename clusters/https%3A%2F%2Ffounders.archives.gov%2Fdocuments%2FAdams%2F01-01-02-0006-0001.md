@@ -364,7 +364,7 @@ erable victims of their own imprudence
 and the ill policy ot rulers in permitting  
 the causes of their ruin to exist.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_antares_ver02:data:sn84026824:00271767791:1875013001:0433/pct:42.01963534361851,7.079646017699115,13.225806451612904,6.821119618176395/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_antares_ver02:data:sn84026824:00271767791:1875013001:0433/pct:42.028985507246375,7.086274899738159,13.221131369798972,6.824434059195917/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -465,7 +465,7 @@ In the mercantile line, selling stove
 polish. They resolve themselves Into  
 a committee of visitation and mak
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85026421:00415669215:1878070401:0252/pct:42.92013718765311,39.22785915219711,16.156295933365996,45.562130177514796/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85026421:00415669215:1878070401:0252/pct:28.61693005022663,26.15190610146474,10.780350361386745,30.38122029294791/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -520,7 +520,7 @@ July &quot;3. Emlle C. wuJn
   
 called. He ten tilled that he had seen th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85026421:00415669215:1878071101:0256/pct:57.00729927007299,8.343091334894613,31.982968369829685,134.16276346604215/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85026421:00415669215:1878071101:0256/pct:38.01411535653444,5.562060889929742,21.331224142127038,89.44184231069477/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -637,7 +637,7 @@ towns within my observation, make
 &quot; i a. 1.  
 very large, peruiipx w
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:0028077585A:1881060901:0446/pct:21.341463414634145,42.92115780549837,14.740853658536585,40.57163618747729/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:0028077585A:1881060901:0446/pct:16.010978956999086,32.19086835412377,11.070448307410796,30.434782608695652/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

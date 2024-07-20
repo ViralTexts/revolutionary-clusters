@@ -442,7 +442,7 @@ scchding to the area of tiie pal
 where the Danish consul had b  
 d, I expected the &#x27;.pit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808112101:0001/pct:58.46758349705304,8.285565398645128,33.654223968565816,87.83220427305889/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808112101:0001/pct:58.474132285527176,8.289907938162237,33.66077275703995,87.84523189161021/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -460,7 +460,7 @@ one is ludd in, or threatened with. &#x27;
 durance vile.  
 On- respective governn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808112101:0002/pct:8.045977011494253,2.5791324736225087,16.94411414982164,3.464895141331249/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808112101:0002/pct:8.052582903950324,2.5834744474838263,16.950720042277712,3.4692371151925667/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -609,7 +609,7 @@ gainst Tunis, and their i ruizera are said to t»e inten­
 ded for that quarter; hot there is ik&gt; doubt but some  
 of them will cruize in eVery part of the *e«, and pro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808112801:0230/pct:46.940847930946944,14.791734995080354,43.462807819243466,81.0101672679567/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808112801:0230/pct:46.92893401015228,14.789309722905394,43.45812182741117,81.00098376783079/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -651,7 +651,7 @@ on board the American schodner Mary &#x27;
 ss is;}, as menpened at my fomctt&#x27;er let­  
 W sigmmneg-for answer that 1 had ap
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216092:1808120101:0008/pct:29.144620811287478,72.43698986456184,22.97178130511464,18.997219481567853/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216092:1808120101:0008/pct:29.14033798677443,72.4304932735426,22.973303943179037,18.998505231689087/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -695,7 +695,7 @@ lish. - ss &quot;
   
 _ .­
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216092:1808120101:0008/pct:52.219282774838334,2.215445331419858,23.883009994121107,22.674679343438875/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216092:1808120101:0008/pct:52.21160911094783,2.2152466367713006,23.884398726426646,22.675635276532137/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -832,7 +832,7 @@ i ct&#x27;ssi—Th&#x27;e camp is expected to man}: m ;c.
 there 18 no doubt but some o. thcnn; 11:  
 sisi cmize in every part o; this sea, and &#x27;z-m&#x27;oa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216092:1808120101:0008/pct:52.219282774838334,1.4799533590456544,45.311581422692534,93.94564534935868/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216092:1808120101:0008/pct:52.21160911094783,1.4798206278026906,45.309821209894686,93.94020926756353/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -992,7 +992,7 @@ most sincere attachment,
 I have the honor to be,  
 Sir, Your most faithful and obedient servant
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808120201:0248/pct:23.459318562651276,3.7825059101654848,36.10128467696891,93.89075525693667/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808120201:0248/pct:23.454951600893523,3.7820353321721822,36.100769421692725,93.88322136518205/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

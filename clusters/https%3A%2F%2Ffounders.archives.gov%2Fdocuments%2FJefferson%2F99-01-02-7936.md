@@ -47,7 +47,7 @@ the conlPuuiion way formed. The arti­
 cles of confederation w.r. but a feeble  
 barid of union, the •&#x27;fhadow of a fliadr,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803110701:0003/pct:21.467851099830796,50.24650780608052,17.406937394247038,14.804163242947137/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803110701:0003/pct:21.48195149464185,50.251072765452385,17.392836999435985,14.813293161690861/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -69,7 +69,7 @@ entry within the ceded territory, in the tame man­
 ner as the (hips of the Ufi ted States comming di  
 recFy from France or SjMin&quot;, or any cf then col
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016081:00332895060:1803110701:0007/pct:24.636938322227916,19.574989783408256,22.91132752434649,5.445443400081733/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016081:00332895060:1803110701:0007/pct:24.632729757430816,19.572990090918378,22.91168431841476,5.44744100520993/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -99,7 +99,7 @@ je&amp;t to any other c¢r greater duty on
 merchandise, or other or greater ton­  
 nage than that paid by the citizens o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1803110801:0383/pct:58.47639484978541,57.3197523467146,16.569589209074188,10.984621529858199/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1803110801:0383/pct:58.486613529531986,57.3197523467146,16.5644798692009,10.994607549430796/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -120,7 +120,7 @@ twelve years, in the port of New-Orleans,
 and in all other legal ports of entr) within  
 the ceded territorv, in the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216018:1803111101:0316/pct:29.382279227480467,28.943649531884827,22.674332891051158,6.3416357534004595/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216018:1803111101:0316/pct:29.377948113207548,28.941093349818953,22.675904088050313,6.344019547234243/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -151,7 +151,7 @@ fhall be admitted for twelve years into
 New Orleans and the other legal ports  
 of entry in Louifiana, without bein
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803112101:0002/pct:20.272382228175932,27.067460867156115,19.91515963384684,12.106940019393267/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803112101:0002/pct:20.287266502939644,27.072078311862214,19.90027535908313,12.106940019393267/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -172,7 +172,7 @@ twelve years in the port of New-Orleans,
 and in all other legal ports of entry with­  
 in the ceded territories,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1803112501:0175/pct:27.589086859688194,54.184944727145115,20.267260579064587,5.965958940164941/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1803112501:0175/pct:27.581408293904815,54.175438596491226,20.26857779014751,5.969298245614035/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -237,7 +237,7 @@ of Spair coming from Spain or any of her
  colonies, loaded only with the produce or  
 manufactures of Spain or her colonics,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn89060119:00415623495:1861111401:0018/pct:144.2723665685396,128.03270803270803,40.63739920645079,8.446368446368446/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn89060119:00415623495:1861111401:0018/pct:48.09078885617987,42.67756934423601,13.545799735483596,2.8154561487894822/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

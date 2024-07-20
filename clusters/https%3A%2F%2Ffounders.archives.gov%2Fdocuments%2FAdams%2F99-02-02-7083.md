@@ -64,7 +64,7 @@ ing, beastly vice ot Intemperance ? I
 am, sir, your obedient friend and humble  
 •e^ant, JOHN ADAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1819041301:0439/pct:5.400192864030858,51.05820105820106,14.529090324654453,17.965367965367964/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1819041301:0439/pct:5.399325084364454,51.05206204160154,14.532112057421394,17.967215742856/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -267,7 +267,7 @@ beastly vice of intemperance ? I am sir,
 your obedient friend and humble servant,  
 JOHN ADAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_beachhaven_ver01:data:sn85025061:00513684939:1819042701:0137/pct:10.522531160115053,36.51030773827308,17.114093959731544,20.66029279952196/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_beachhaven_ver01:data:sn85025061:00513684939:1819042701:0137/pct:10.520009585430147,36.50485436893204,17.11598370476875,20.660941000746828/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -582,7 +582,7 @@ Iegrading, heastlv vice of intemperance?
 I am,Sir.y our obnged friend and hum­  
 tie servant, JOHN ADAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1826031601:0049/pct:25.463162429987076,36.043435890296536,17.277035760448083,21.3420576360852/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1826031601:0049/pct:25.457678225285377,36.038418708240535,17.278699116950246,21.342566815144767/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -626,7 +626,7 @@ virtue? And is it not.rhprtifying bey on. 11
 all expression that we American­  
 should exceed all the other S aiiUiot.;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn84024505:00542866962:1826031701:0391/pct:83.9375,83.1356845833975,13.25,15.555213306637917/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn84024505:00542866962:1826031701:0391/pct:83.92001666319517,83.12288266091777,13.252447406790251,15.556667693255312/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -664,7 +664,7 @@ ple on the globe, as I verily believe we do, in this de­
 grading, beastly v ice of intemperance.  
 I ant, Fir, your obliged friend and humble servant
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826032101:0062/pct:77.08826780356861,63.198481433147464,17.858834675509236,13.180685727844347/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826032101:0062/pct:77.07609725292075,63.19098457888494,17.861277760235765,13.183076314748913/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1021,7 +1021,7 @@ I am, Sir, your obliged Irlend and
 bumble servant,  
 1 our Adams
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_eritrea_ver01:data:sn84026844:00202193511:1886061001:0558/pct:24.47637603507063,82.2431506849315,12.713102776424744,15.513698630136986/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_eritrea_ver01:data:sn84026844:00202193511:1886061001:0558/pct:24.494641987335605,82.25599315068493,12.713102776424744,15.513698630136986/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1075,7 +1075,7 @@ I am, Sir, your obliged friend
 and humble servant,  
 John Adams
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_lyle_ver01:data:sn86092473:00514157807:1886090801:0643/pct:19.602504764497684,31.366350544432738,18.404573917778382,28.644186863364947/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_lyle_ver01:data:sn86092473:00514157807:1886090801:0643/pct:19.5971692977681,31.360842844600526,18.406369080021776,28.643546971027217/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

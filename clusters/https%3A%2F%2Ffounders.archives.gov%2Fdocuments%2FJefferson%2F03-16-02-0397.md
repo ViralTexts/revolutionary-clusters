@@ -74,7 +74,7 @@ gencer of the Btli inst., complains grievously, of the Tost­
 maslar-Ueiieral slut ting the door# ol lit# Department in  
 the lace of (he Committee of (ho Senate. Now, what ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:0041418408A:1834101401:0203/pct:34.40474548213547,32.25,15.00896675403504,13.956521739130435/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:0041418408A:1834101401:0203/pct:34.4,32.2464949462015,15.011494252873563,13.958627685396515/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -130,7 +130,7 @@ whites south of the Potomac and the Ohio miisl evucui
 their Stales, and most fortunate those who can do it first  
 And in this letter, after speculating on the probable 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848093001:0977/pct:15.270379338175948,75.56253928346952,15.39951573849879,12.771841609050911/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848093001:0977/pct:15.281140704869518,75.56672952021789,15.394135055152004,12.776031845799288/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -174,7 +174,7 @@ States shall be that ol freemen ; in which oata all the whites
 south of the Potomac and the Ohio must evacuate their  
 Sister, and inott fortunate those who can d.j It first.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854021501:0241/pct:81.54731674284747,71.73322993408298,16.336549856102927,14.760242988238335/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854021501:0241/pct:81.54731674284747,71.73322993408298,16.347835900908528,14.768859592434621/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -217,7 +217,7 @@ ed States shall be that of freemen; in which case all the
 vhitcs south of the Potomac and the Ohio must evacuate  
 heir States, and most fortunate-those who can do it first.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1854021701:0126/pct:20.078625509609786,56.70043415340087,16.94816540477577,11.133622768933913/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1854021701:0126/pct:20.083478936128905,56.70365010451841,16.957872257814017,11.136838720051456/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -401,7 +401,7 @@ wh&#x27;cn case all ihe whiles south of the Potomac
 and Ihe Ohio must evacuate their Stat.*a, and  
 most fortunate those who can do it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn86083363:00415668831:1854030801:0543/pct:66.46565285789198,76.91436125011802,11.71997902464604,14.663393447266547/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn86083363:00415668831:1854030801:0543/pct:66.46565285789198,76.92065590281057,11.71997902464604,14.669688099959085/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -460,7 +460,7 @@ Ohio must evacuate their States, and
 most fortunate those who san do at  
 first.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_gastly_ver01:data:sn82014134:00279529248:1856072501:0063/pct:86.70841041696315,196.06491774121832,33.49935961292159,64.22854602045354/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_gastly_ver01:data:sn82014134:00279529248:1856072501:0063/pct:28.902803472321047,65.35497258040611,11.166453204307196,21.409515340151177/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -515,7 +515,7 @@ Potomac and the Ohio must evacuate their
 States, and most fortunate are those who  
 can do it first.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472062:1856072601:0398/pct:113.56898517673888,250.52417991207304,44.98289623717218,72.41573667004847/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472062:1856072601:0398/pct:28.40439184371881,62.63104497801826,11.250534721231999,18.10393416751212/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -628,7 +628,7 @@ the Ohio must evacuate their States,
 and most fortunate those who can do it  
 first.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn83035173:00296027285:1856082001:0034/pct:53.516548463356976,74.56824868875528,14.406028368794326,29.550978636305487/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn83035173:00296027285:1856082001:0034/pct:40.16260162601626,55.92938467442753,10.80561714708056,22.16963029295126/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -793,7 +793,7 @@ Potomac and the Ohio, must evacuate their
 States, and most fortunate for those that can  
 do it first.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035102:00296027078:1856100901:0705/pct:55.45977011494253,18.502434530859322,33.9080459770115,109.58020792209501/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035102:00296027078:1856100901:0705/pct:41.60229926351715,13.883405711277799,25.435602658523443,82.1818660350046/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -859,7 +859,7 @@ fore the Golden Calf of abolitionism, and now
 who shall we look to to follow the wise precepts  
 you have left us, other than those f
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn84026881:00279557268:1856102901:0047/pct:64.55046569093328,11.088844355377422,30.41246911233606,85.99866399465598/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn84026881:00279557268:1856102901:0047/pct:64.56472153582969,11.092184368737476,30.40296521573845,86.00200400801603/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -951,7 +951,7 @@ tunate, those who can do it first.”
 Having proved that this Republican  
 movement is an innovation, and that it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347294:1861040501:0122/pct:77.01883179061602,63.98535317741555,13.517395467602936,17.93054571226081/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347294:1861040501:0122/pct:77.02947122034259,63.98929049531459,13.52271518246622,17.93054571226081/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

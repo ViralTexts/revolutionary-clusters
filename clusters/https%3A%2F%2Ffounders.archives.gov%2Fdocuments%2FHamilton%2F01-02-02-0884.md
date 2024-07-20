@@ -51,7 +51,7 @@ the measure. I confess to yon I had the weakness to value
 the esteem of a dying man, because I reverenced his merit.  
 A HAMILTON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661204:1852030201:0218/pct:19.721577726218097,88.57394809775762,16.340735830294996,10.17888636936256/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661204:1852030201:0218/pct:19.721577726218097,88.58234651885445,16.34626008175892,10.17888636936256/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -89,7 +89,7 @@ j routes* io you I had the weakness to value
 th»* fHvem or a living man, because 1 tever­  
 euc»d hi* merit. A. HAMILTON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215877:1852030401:0344/pct:6.346190385711571,15.724418849638317,12.93938818164545,10.780251422150432/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215877:1852030401:0344/pct:6.345587536810108,15.723314606741573,12.941325480510434,10.78183520599251/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -169,7 +169,7 @@ to you | had the weakness to value the |
 esteem of a dying man, because | re- I  
 verenced his merit, ,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021169:00514152780:1852031101:0660/pct:53.74784606547961,26.888912112028425,12.36358414704193,13.251123419375066/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021169:00514152780:1852031101:0660/pct:53.75263258663603,26.89239558295886,12.368370668198354,13.24763994844463/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -198,7 +198,7 @@ some people are only sensible to motives if policy
 and sometimes from a narrow disposition mutak  
 i * 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014763:00415661460:1852031601:0366/pct:44.92154065620542,51.91422476703716,13.523537803138375,3.27832042213989/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014763:00415661460:1852031601:0366/pct:44.92154065620542,51.91796714194828,13.537803138373752,3.27832042213989/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -215,7 +215,7 @@ j time people are only sensible to motives of pel&#x27;.i;,
 and sometimes from a narrow disposition mistake  
 it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661496:1852031601:0276/pct:44.157234628326705,52.10344416636873,13.413888039155704,1.8233821952091527/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661496:1852031601:0276/pct:44.16233302742939,52.111389186827154,13.413888039155704,1.8194096849799388/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -358,7 +358,7 @@ A. HLAMILTON.
 PRoPOSED NEW STATE. The Leg.­  
 islature of Wisconsin are deliberatin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn86053240:00237288476:1852032301:0045/pct:130.2491103202847,79.22980517261023,40.00593119810202,57.81018571265808/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn86053240:00237288476:1852032301:0045/pct:43.41637010676157,26.409935057536742,13.335310399367339,19.27006190421936/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -416,7 +416,7 @@ to value the esteem of a dying man,because
 I reverenced his merit A. Hamilton.  
 To Miss Scih tler.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_irmookrastrut_ver01:data:sn84026900:00295862634:1852032501:0026/pct:53.182227559291505,70.98988019076423,18.703092164515162,25.33441898336629/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_irmookrastrut_ver01:data:sn84026900:00295862634:1852032501:0026/pct:53.19223456419493,70.99763483385676,18.693085159611726,25.33441898336629/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -474,7 +474,7 @@ I confess to you I ha&lt;i the weakneaa
 &gt; value the esteem of a dying man,because  
 reverenced his merit A. Hamilton
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_irmookrastrut_ver01:data:sn84026900:00295862634:1852032501:0027/pct:56.95314831393614,70.57025279247502,13.995822142643988,25.584950029394474/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_irmookrastrut_ver01:data:sn84026900:00295862634:1852032501:0027/pct:56.96309559335522,70.57417205565353,13.995822142643988,25.588869292572998/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -521,7 +521,7 @@ feeling myeelf the impropriety of the
 sure. I confess to you I had the  
 to value the esteem of ad
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1852032501:0418/pct:345.48181477315336,330.08153340008585,45.763029621297335,65.4126734372765/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1852032501:0418/pct:86.35426429240862,82.50858123569795,11.438612933458295,16.3508295194508/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -562,7 +562,7 @@ ure. I confess to you, I had the weakness
 to value the esteem of a dying man, be­  
 cause I reverenced his merit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279559836:1852040301:0555/pct:57.826887661141804,255.41626486660238,52.14088397790055,56.33236901317904/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279559836:1852040301:0555/pct:14.453394706559264,63.843805238630885,13.032220943613348,14.080829182066527/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -604,7 +604,7 @@ weakness to value the esteem of a dying
   
 mint, because I reverenced his merit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn85059716:00202193018:1852041401:0094/pct:16.34480337078652,41.767304860088366,13.88693820224719,15.581737849779087/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn85059716:00202193018:1852041401:0094/pct:16.349192415730336,41.77098674521355,13.895716292134832,15.581737849779087/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -651,7 +651,7 @@ the impropriety of the measure. I confess to you
 f I had the weakness to value the esteem of a  
 dying man, because I reverenced his merit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn84020104:0041566154A:1854111101:0475/pct:29.809335963182118,20.741671904462603,15.029585798816568,10.119421747328724/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn84020104:0041566154A:1854111101:0475/pct:29.813719044488277,20.741671904462603,15.02520271751041,10.126405475242684/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -686,7 +686,7 @@ priety of the measure. I confess to you I had the weak­
 ness to value the esteem of a dying man, because I rev­  
 erenced his merit. A. Hamilton.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661617:1854111101:0340/pct:2.506051544923822,61.715210355987054,15.748255731169015,11.769147788565265/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661617:1854111101:0340/pct:2.5107978546679957,61.72240201366415,15.762494660401538,11.769147788565265/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -720,7 +720,7 @@ the impropriety of the measure. I confess to you I had
 the weakness to value the esteem of a dying man, be-­  
 cause I reverenced his merit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743208:1854111201:1112/pct:150.77455504284774,153.3681699420652,46.91825972313777,22.651368851527888/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743208:1854111201:1112/pct:50.258185014282574,51.122723314021734,15.639419907712591,7.550456283842629/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -754,7 +754,7 @@ the impropriety of the measure. I confess to you I had
 the weakness to value the esteem of a dying man, be-­  
 cause I reverenced his merit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743208:1854111201:1113/pct:149.72532045946397,151.8754988028731,48.360246379224236,22.699806179455024/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743208:1854111201:1113/pct:49.90844015315465,50.625166267624365,16.12008212640808,7.566602059818341/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -783,7 +783,7 @@ apable of meanness  o tin bis light of supposing him
 , or of not feeling myself the impro  
 I conless to you I had the wes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184662:1854111301:0942/pct:63.75646180356117,271.4974182444062,36.80356117174038,21.698221457257603/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184662:1854111301:0942/pct:21.249102656137833,90.48875631023405,12.26609236659488,7.231910662383356/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -827,7 +827,7 @@ meanuess, of of not feeling tuyself the improptis
 aiy a the psrsait eshhed to mon Ihee  
 eIephlets to son Ihad it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_latvia_ver01:data:sn86092535:00202190510:1854111401:0403/pct:175.20938023450586,158.96777872825777,60.40619765494137,35.14399771884802/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_latvia_ver01:data:sn86092535:00202190510:1854111401:0403/pct:43.802345058626464,39.74194468206444,15.101549413735343,8.785999429712005/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -865,7 +865,7 @@ fess to you I had the weakness to valne the
 esteem of a dying man, becuuse I reverenced his  
 merit.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393347971:1854111501:0299/pct:141.13075578006607,319.61073429666766,60.015543034777544,48.84989678560896/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393347971:1854111501:0299/pct:35.27583527583528,79.89090372991302,15.00097125097125,12.210673743181482/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -904,7 +904,7 @@ man, because I reverenced his merit.
 A. Hamilton.  
 Charlotte Railroad
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84020712:00295879166:1854111701:0162/pct:69.23076923076923,40.89601769911504,20.840455840455842,19.446902654867255/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84020712:00295879166:1854111701:0162/pct:51.94527575887131,30.674778761061948,15.647712697734075,14.59070796460177/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -944,7 +944,7 @@ priety of the measure. 1 confess to you I
 had the weakness to value the esteem of a  
 dying man, because I reverenced bis merit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624475:1854111801:0176/pct:57.848222862632085,56.10039170172639,16.253602305475503,20.034817931234585/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624475:1854111801:0176/pct:44.83323406789756,43.48461567290035,12.616636887035934,15.53048757635948/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -980,7 +980,7 @@ of the measure. I confess to you I had the weak
 ness to va hie the esteem of a dying man, because I  
 reverenced his merit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022731:1854111801:0374/pct:47.86869943995022,60.87484811664642,20.239576851275668,14.434993924665857/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022731:1854111801:0374/pct:35.916588857765326,45.66221142162819,15.188297541238718,10.826245443499392/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1014,7 +1014,7 @@ feeling myself the impropriety of the measure. I con­
 fess to you I had the weaknese to value the esteem  
 of a dying man, because I reverenced his merit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668144:1854112101:0655/pct:192.55102040816325,173.89536749759282,41.370262390670554,25.09896223387183/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668144:1854112101:0655/pct:64.21175441155025,57.965122499197605,13.796120752515677,8.366320744623943/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1050,7 +1050,7 @@ of the measure. I confess to you I had the weak­
 ness to value the esteem of a dying man, because I  
 reverenced his merit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022639:1854112201:0401/pct:48.28288707799767,60.39176626826029,20.983701979045403,15.0066401062417/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022639:1854112201:0401/pct:36.22471256003493,45.29659141212926,15.73278998690147,11.254980079681275/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1143,7 +1143,7 @@ ed big memory.
 Central Horse —This old Hotel appears to  
 be getting along well under the managemen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016750:00383347166:1854122301:0699/pct:42.869445401308994,82.07137858642407,12.590423699621082,13.226032190342897/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016750:00383347166:1854122301:0699/pct:42.88092777586405,82.08070912059715,12.590423699621082,13.221366923256356/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1182,7 +1182,7 @@ I confess to you 1 had the weakness to value
 the esteem of a dying man, because I reverenc­  
 ed his merit. A. Hamilton.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn84022882:00414212426:1854122701:0135/pct:83.19316332067281,34.91490458999484,12.967986977753663,12.387828777720474/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn84022882:00414212426:1854122701:0135/pct:83.1818798318188,34.91130363036304,12.969618879696188,12.389129537953796/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1456,7 +1456,7 @@ her, &quot;Wilt thou be still, bad one? If thou be­
 havest ill, thou shatt not go with me to see the  
 robber guillotined. And the little
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867051901:0464/pct:77.02786377708978,148.27206691613472,141.60990712074303,44.99229583975347/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867051901:0464/pct:19.265912962676165,37.06801672903368,35.41892519746012,11.248073959938367/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1492,7 +1492,7 @@ MYselF the HMpropriety oF The
 weasure. I confess to you, I had the  
 weakness to value the esteem of a dyin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867051901:0464/pct:61.73374613003096,195.24543253356813,77.46130030959752,63.87849438696896/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867051901:0464/pct:15.440607093077281,48.811358133392034,19.374322440761965,15.96962359674224/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1626,7 +1626,7 @@ the manner of his death will be
   
 branded with too much obstinac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn84024448:00296020722:1886102001:0656/pct:71.60596026490066,275.0786916655262,48.59271523178808,8.922950595319557/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn84024448:00296020722:1886102001:0656/pct:17.901490066225165,68.76967291638155,12.14817880794702,2.2307376488298893/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

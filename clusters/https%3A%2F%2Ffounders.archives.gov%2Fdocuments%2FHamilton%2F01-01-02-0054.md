@@ -1304,7 +1304,7 @@ have one common original, they participate in one com
 &quot;senses can hesitate in choosing to be free rather than a  
 &quot;elave.&quot; IApplause.! This is the key-note in the fole­
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_airy_ver01:data:sn83030213:00206530443:1854070601:0454/pct:102.18438805011243,284.28588473929125,47.044651461612595,11.156186612576064/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_airy_ver01:data:sn83030213:00206530443:1854070601:0454/pct:34.06146268337081,94.76196157976375,15.681550487204197,3.7187288708586883/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1332,7 +1332,7 @@ exercise any power or pre-eminence over his
 follow creatures more than another, unless they  
 hare voluntarily vested him with it.&quot; From thes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn83035487:00211100497:1857040401:0570/pct:32.724312590448626,91.76695842450766,18.288712011577424,8.438183807439826/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn83035487:00211100497:1857040401:0570/pct:24.556641331885633,68.832056892779,13.716974303293522,6.3320568927789935/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1377,7 +1377,7 @@ one man should exercise any power or preeminence
 ohe Tun sellow creatures more than another, naloss  
 ovey have veluntarily vested him with it.I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530650:1860070901:0503/pct:106.519967400163,282.01413427561835,48.80195599022005,9.352179034157833/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530650:1860070901:0503/pct:35.50665580005433,94.00471142520612,16.267318663406684,3.117393011385944/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1399,7 +1399,7 @@ er or preeminence over his fellow-creatures
 more than another, unless they have vol­  
 untarily vested him with it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:00332895035:1863031301:0668/pct:83.7241932250952,78.29513939570866,12.888354379635198,4.320537147861626/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:00332895035:1863031301:0668/pct:83.70741482965931,78.28371278458845,12.890781563126252,4.323555166374781/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1426,7 +1426,7 @@ shapp. The pages of history are replete,
 with, instances that loudly warn us to be­  
 ware of slavery. What original titlo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:00332895035:1863031301:0668/pct:83.7843255161355,82.61567654357029,13.128883543796352,7.10845132097504/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:00332895035:1863031301:0668/pct:83.76753507014028,82.60361938120256,13.1312625250501,7.111062463514302/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1490,7 +1490,7 @@ the sinews of industry and clips the
 wings of commerce, and works mi?  
 sery and indigence in every shape.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_alexiavalentine_ver01:data:sn84027008:00294551670:1867071701:0356/pct:1.6331181162172428,62.03549639489739,16.06532472464869,7.9173599556295065/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_alexiavalentine_ver01:data:sn84027008:00294551670:1867071701:0356/pct:1.6457779465755158,62.044740247735255,16.06532472464869,7.912738029210575/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1594,7 +1594,7 @@ the steady, uniform, unshaken security of
 constitutional freedom.—Alexander Hamil­  
 ton
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_antares_ver03:data:sn90059959:00295876864:1887081301:0538/pct:20.92293203578716,71.40535269259942,13.922461152095432,2.3837902264600714/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_antares_ver03:data:sn90059959:00295876864:1887081301:0538/pct:20.92816407680636,71.40535269259942,13.927693193114633,2.3910138332069204/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1615,7 +1615,7 @@ constitutional freedom.— Alexander Hamil­
 ton.  
 Civil liberty is only national
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_ketchup_ver01:data:sn87068192:00279529637:1887082501:0692/pct:6.068015114469882,71.61042944785277,14.047566125805735,3.4049079754601226/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_ketchup_ver01:data:sn87068192:00279529637:1887082501:0692/pct:6.066666666666666,71.59944793743291,14.05,3.4082195982211316/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1636,7 +1636,7 @@ justice. Give me the steady, uni­
 form, unshaken security of consti­  
 tutional freedom. Alexander Ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn84025891:00211102925:1887082701:0279/pct:80.47404063205417,22.251959472376218,19.145033860045146,6.719556490154846/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn84025891:00211102925:1887082701:0279/pct:60.36404684633837,16.688969604282164,14.364329053195993,5.046836168992544/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1657,7 +1657,7 @@ constitutional freedom.—Alexander Hamil­
 ton.  
 Civil liberty is only national
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn86077146:00513685129:1887112301:1098/pct:7.857449549162731,71.80132033951588,13.739802490339201,3.5366237032379755/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn86077146:00513685129:1887112301:1098/pct:7.855763039278815,71.79003614647179,13.742219360377764,3.53999685682854/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

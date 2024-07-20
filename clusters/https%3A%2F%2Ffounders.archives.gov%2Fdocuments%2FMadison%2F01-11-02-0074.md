@@ -242,7 +242,7 @@ merce of the nations at war; for none of them
 would choose to add U.S. to the numbir of  
 their enemies.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793052501:0003/pct:7.161803713527852,41.871366960435026,19.245505452402003,34.464654040877555/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793052501:0003/pct:7.169171824344238,41.88074254640915,19.25287356321839,34.47871741983874/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -334,7 +334,7 @@ tions at war / for none of them would be wil­
 ling to add us to the number of their ene­  
 mies.” (Del), in Va. Con. 1«1 5c 182 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809012701:0337/pct:23.98557258791704,50.21557189956886,17.348963029756536,9.751458280497083/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809012701:0337/pct:23.981247746123334,50.2092050209205,17.351845173698763,9.754448248172098/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -362,7 +362,7 @@ advantages .of carrying on the tommerce of the natioms at awar ;
 for nore of them wonld be willing to add us to the number of  
 their enemios.” . (Deb. in Va. Con. 181 and 182.) 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809022101:0235/pct:40.97954122752635,78.95945676053525,26.549907005579666,9.636508887557419/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809022101:0235/pct:40.97954122752635,78.95945676053525,26.560239718950196,9.643166233939152/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -390,7 +390,7 @@ fa) &quot;The powers not delegated to the Unl­
 “ tod State* by the constitution, nor prohibited  
 “ by it to the states, arp reserved to the states 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183943:1819061801:0052/pct:82.62718796008507,84.72021225277376,15.802388352690986,7.7665219488663775/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183943:1819061801:0052/pct:82.61367353614655,84.70999638249125,15.805255697306727,7.769604887656256/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -410,7 +410,7 @@ in the general government,as a change
 rendered necessary for the purpose of  
 giving efficacy to those vested m it he
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183943:1819062201:0057/pct:34.74063164784814,58.21022039234681,14.514809360170185,3.305885202228142/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183943:1819062201:0057/pct:34.734947643979055,58.20317229688824,14.517888307155323,3.3095209266658596/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -444,7 +444,7 @@ the supreme court itself, in the case of Hun­
 ter vs. Martinet?) that the sovereign powers  
 vested in the state governments, remain un
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1821052901:0029/pct:18.21875507882334,13.710932822416478,15.472127417519909,10.753203209196503/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1821052901:0029/pct:18.21579460513487,13.709291187739463,15.475029790921894,10.755906768837804/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -484,7 +484,7 @@ the legislature fovors violations on her regula­
 tions.—This will not be the case when uniform  
 regulations will be made.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184522:1824021301:0024/pct:34.064,33.445280833815865,15.712,8.5002895193978/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184522:1824021301:0024/pct:34.058550631898896,33.44140805928671,15.714818962299365,8.503165045545778/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -516,7 +516,7 @@ New \ oik, the Legislature favors violations
 on her regulations. This will not be the case  
 when uniform regulations will be made.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183979:1824021401:0367/pct:48.83459250924289,59.8747932908103,15.351229705835074,9.626742263170328/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183979:1824021401:0367/pct:48.82674381227901,59.867721743238455,15.3541197899925,9.629542144010077/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -548,7 +548,7 @@ dial Selected | w Hi &quot;they net be able to Carry
 dbeir knowledge into thedeneral Council ?”&#x27;•  
 &#x27; It will here bfc plainly seen,&#x27;that Mr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn84024505:00542866962:1826012701:0336/pct:2.961521833117164,17.15540222675239,14.375270211846088,8.64042653285244/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn84024505:00542866962:1826012701:0336/pct:2.9608817808515235,17.152712449043587,14.377566457748001,8.64299153339605/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -573,7 +573,7 @@ raising money) exiais in the ” (limited) “ con­
 federation as fully as in this constitution.”—  
 The “ Federalist” makes the same remark: “ If th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826112101:0243/pct:17.572610741521984,32.17213114754098,15.317215641732922,5.617164898746384/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826112101:0243/pct:17.569759896171316,32.16825358563336,15.320138438243564,5.62050540355952/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -616,7 +616,7 @@ One more quotation from these ancient au&#x27;hori­
 ties, and we have done : In the Federalist Mr.  
 Hamilton says : “ The encouragement of agri
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826112101:0243/pct:17.718643517767322,56.774349083895856,15.025150089242253,14.754098360655737/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826112101:0243/pct:17.71576898118105,56.767506327588286,15.028120268224097,14.756337632075851/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -649,7 +649,7 @@ Chihuahua, (Mexico,) has appropriated monies
 from the public treasury, fertile education ot twelve  
 of their young men in the United States, in orde
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1829020701:0374/pct:35.46892474836236,14.495873699318263,15.178143473398306,4.808037316110513/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1829020701:0374/pct:35.46325878594249,14.494140157856972,15.181043663471778,4.8114486167583514/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -721,7 +721,7 @@ Virginia Convention, that ‘the powers vested in the pro­
 “If, then, every thing conspires to shew that our go­  
 vernment is a federal, and not a consolidated one, ho
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1833012401:0322/pct:65.35629948603973,26.761957119296316,14.807612168356716,4.0021990104453/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1833012401:0322/pct:65.34722222222223,26.75901495162709,14.810185185185185,4.005423629434183/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -767,7 +767,7 @@ a manner as that they should fall in a due degree on every
 member of the community. They will be limited to   
 brooortlon of each State, but theg must ralse it in the mad,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743622:1868040901:0112/pct:246.07541673409938,259.6263200649878,47.87182391972811,34.23465243124057/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743622:1868040901:0112/pct:82.02513891136645,86.54210668832927,15.95727463990937,11.411550810413523/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -899,7 +899,7 @@ They will be limited to fix the proportion of each
 State, but they must raise it in the most con  
 venient and satisfactory manner to the publi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_fernandez_ver01:data:sn83030272:0017504517A:1894120101:0407/pct:72.04545454545455,44.552499620118525,51.28787878787879,82.96611457225346/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_fernandez_ver01:data:sn83030272:0017504517A:1894120101:0407/pct:18.01477552566774,11.138124905029631,12.824398560333396,20.741528643063365/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

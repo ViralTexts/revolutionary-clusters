@@ -110,7 +110,7 @@ source- the depreciation of the money (which in
 a great measure is the consequence of it), and  
 our own internal divisions
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295742:1862110501:0458/pct:174.75638051044083,210.0714348707999,49.1415313225058,47.37631184407796/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295742:1862110501:0458/pct:43.694164056155,52.51785871769997,12.286808214410025,11.84407796101949/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -186,7 +186,7 @@ the depreciation of the money (which in a great
 measure is the consequence of it), and our own  
 internal divisions
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774686:1862110901:0269/pct:126.21564482029598,276.81045751633985,48.5553206483439,48.26143790849673/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774686:1862110901:0269/pct:31.565033486076842,69.20261437908496,12.14310891787099,12.065359477124183/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -236,7 +236,7 @@ money (which in a great measure is the
 consequence of it), and our own internal  
 divisions
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028822:00280775459:1862111301:0603/pct:178.09110629067246,192.42275968125261,49.60231381055676,68.22312316510555/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028822:00280775459:1862111301:0603/pct:44.546934346174716,48.105689920313154,12.407306927111593,17.055780791276387/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -273,7 +273,7 @@ agement the enemy dorived from this soureethe dipres
 ciation of the money (which in a great measure is the  
 consequence of it) and our own internal divisions
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:0028077764A:1862112101:0426/pct:116.95951107715814,84.25827914713443,48.96867838044309,33.086345077876906/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:0028077764A:1862112101:0426/pct:29.24546322827125,21.064569786783608,12.24450811843362,8.271586269469227/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -330,7 +330,7 @@ ciation of money (which in a great measure
 is the consequence of it,) and our own inter­  
 nal divisions
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn85026002:00280775058:1862112601:0282/pct:77.20588235294117,47.460061030335666,56.893382352941174,66.5589660743134/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn85026002:00280775058:1862112601:0282/pct:19.310344827586206,11.865015257583917,14.229885057471265,16.63974151857835/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

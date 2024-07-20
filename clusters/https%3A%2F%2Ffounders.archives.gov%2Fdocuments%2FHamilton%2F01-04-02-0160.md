@@ -512,7 +512,7 @@ in the system of war, and have rendered disciplined
 armies distinct from the body uf the riti:ens, the in­  
 separable companion of frequent hostilitiy.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840080701:0333/pct:48.248607867792344,63.38783852835974,15.771510687982756,6.502299437915176/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840080701:0333/pct:48.2545955332016,63.38783852835974,15.771510687982756,6.510815874638052/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -540,7 +540,7 @@ terlv incompetent to the pur|K&gt;*c of enforcing encroach­
 ments again! the united etlorts of the /&#x27;rent hndy of the  
 P topic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840080701:0333/pct:48.248607867792344,70.00510986203372,15.789473684210526,6.783341849770056/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840080701:0333/pct:48.2545955332016,70.00936808039516,15.789473684210526,6.787600068131494/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1048,7 +1048,7 @@ and delegates; they are solid conclusions, drawn
 from the natural and necessary progress of hu­  
 man affaire.—Alnwntler llamilvn.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn84038768:00279556719:1856111501:0053/pct:45.3660870952305,9.476223294279807,15.137980539160951,82.96577073282793/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn84038768:00279556719:1856111501:0053/pct:45.3660870952305,9.480052071368405,15.148614877439252,82.97342828700513/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1201,7 +1201,7 @@ or their representatives or deligates ; they
 | arc solid conclusions, drawn from the natu­  
 ral and necessary progress of human affairs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn93053243:00279557281:1856112201:0184/pct:20.906567992599445,7.09043250327654,29.343200740055504,88.42726081258192/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn93053243:00279557281:1856112201:0184/pct:20.911193339500464,7.09043250327654,29.347826086956523,88.43709043250328/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1228,7 +1228,7 @@ would be subject to those vicissitude of
 &quot;lot of all neighboring nations, not united  
 &quot;under one Government,&quot; and Madison said
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn85033711:00212470272:1860011001:0036/pct:112.22869242985706,144.3979933110368,45.47379565907888,26.212374581939798/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn85033711:00212470272:1860011001:0036/pct:28.06831722494373,36.0994983277592,11.372964385012578,6.5530936454849495/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1266,7 +1266,7 @@ some of the evils to which the South would be sub­
 jected by a separation from the existing Union and  
 the erection of a new Confederacy, the inqui
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022792:1861010301:0008/pct:47.58011772400262,18.261383796570076,19.60431654676259,13.932584269662922/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022792:1861010301:0008/pct:35.70493948315342,13.696037847427558,14.703958128884528,10.455351862803075/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1532,7 +1532,7 @@ to institutions which have a tendency to
   
 destroy their civnl and political rights.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn82014129:00279528724:1862091701:0445/pct:38.7228879114212,190.50427943557713,34.33945093280752,13.809854267869534/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn82014129:00279528724:1862091701:0445/pct:12.907629303807068,63.501426478525715,11.446483644269174,4.603284755956512/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1602,7 +1602,7 @@ ple under such impressions, to make a bold,
 or effectual resistance to usurpations sup  
 ported by the military power.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774698:1864012101:0703/pct:36.8421052631579,126.3357743422837,55.66188197767145,67.860048820179/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774698:1864012101:0703/pct:9.214200239329877,31.583943585570925,13.921021140805744,16.96501220504475/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1626,7 +1626,7 @@ into two or three Confederacies, etc.&quot;
 Plainly, the &quot;integral parts,&#x27; so to be  
 &quot;disunited,&quot; were the States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867030501:0206/pct:107.07748627211714,62.932745314222714,37.46186699206834,10.760749724366041/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867030501:0206/pct:26.77754043332316,15.733186328555679,9.368324687213915,2.6901874310915104/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1733,7 +1733,7 @@ organization.
 tonomy of the people deserves the most serious and  
 mature consideration of every prudent man of what.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nash_ver01:data:sn83030214:00175038747:1894091101:0158/pct:9.481790470078614,123.29717033888826,47.03994866035617,3.37769824404429/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nash_ver01:data:sn83030214:00175038747:1894091101:0158/pct:3.160596823359538,41.09905677962942,15.679982886785389,1.12589941468143/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1858,7 +1858,7 @@ lag Inttutlon ar more dangerousto
 our lbere than standing armiesAl­  
 i ready they have raIsed up D mone
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_dantley_ver01:data:sn85058130:00206534266:1899122601:0578/pct:0.2697841726618705,105.16137295081967,26.151079136690647,36.193647540983605/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_dantley_ver01:data:sn85058130:00206534266:1899122601:0578/pct:0.17995321216483715,70.10758196721312,17.4554615799892,24.12909836065574/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

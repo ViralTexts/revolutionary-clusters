@@ -253,7 +253,7 @@ with grealn saiistariion lo Ihemselvcs. and
 with greater satisfaction to the penptu of the  
 Cnmsonweulfr. at laige JOHN ADAM
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183955:1820112401:0236/pct:20.511559272011805,2.7626274602798198,30.365633710444335,91.09556556793929/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183955:1820112401:0236/pct:20.508196721311474,2.762299940723177,30.366120218579233,91.08871764473425/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -393,7 +393,7 @@ I convenient e to themselves and with
 greater satisfaction to they people of  
 the common* e?|rh n* large
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1820120601:0140/pct:8.29799004241195,6.10489098408957,36.087036695555966,88.12021213906894/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1820120601:0140/pct:8.29799004241195,6.112747986643096,36.099330014137315,88.12414064034571/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

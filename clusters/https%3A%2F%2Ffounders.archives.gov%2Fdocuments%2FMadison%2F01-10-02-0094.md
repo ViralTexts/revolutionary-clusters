@@ -93,7 +93,7 @@ encouraged them most, had advanced most
 rapidly in population, pgricullure, and tho  
 arts.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn86053972:00295878472:1845010801:0016/pct:110.43367346938776,90.02493765586036,19.71938775510204,5.593159957249733/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn86053972:00295878472:1845010801:0016/pct:82.87391526288923,67.52760954755968,14.803471158754467,4.185963662272889/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -181,7 +181,7 @@ among natives having full confidence of j
 u;c people, not amorg s.raneers wnui.  
 would be regarded with a jealous ey
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn89066057:0020029211A:1845110101:0152/pct:26.195652173913043,19.719179139021755,39.04347826086956,106.72735688936892/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn89066057:0020029211A:1845110101:0152/pct:19.66499891233413,14.797099213084401,29.30171851207309,80.04937509643574/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -289,7 +289,7 @@ dAmerica which hgd encouraged them most, had ad­
 vanced most rapidly in populatiou, agriculture,  
 aud the arts.” Aud Docror Franklin vemarked
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153267:1845123101:0593/pct:30.673027333677155,10.940737670949026,12.44198040226921,3.2117695814338996/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153267:1845123101:0593/pct:30.68162282963727,10.947644702306949,12.44198040226921,3.215223097112861/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -313,7 +313,7 @@ Amnrica which had encouraged them most, had
 idvanced mos.t ranidiy in population, agtituliure  
 and the arts.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024652:00393348689:1854092501:0132/pct:43.846293275330794,59.90272899216428,13.123074134493384,4.728451769791948/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024652:00393348689:1854092501:0132/pct:43.83834722725625,59.89463730919897,13.12522653135194,4.73119005808456/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -340,7 +340,7 @@ had encouraged them most, had advanced most rap­
 idly in population, agriculture and the arts.&quot;  
 Contrast this noble and benevolent language wit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022639:1854100401:0371/pct:6.841801385681293,73.58408047233763,19.933602771362587,8.6267220642904/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022639:1854100401:0371/pct:5.140051978053711,55.1935272250164,14.958128790066416,6.472774983599388/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -374,7 +374,7 @@ had encouraged them most, had advanced most rap
 idly in population, agriculture and the arts.  
 Contrast this noble and benevolent language wit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022731:1854100401:0322/pct:8.793517406962785,72.60594708499181,20.243097238895558,8.136267852961836/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022731:1854100401:0322/pct:6.604623236265386,54.460313743853895,15.190633443410388,6.099274174666355/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -397,7 +397,7 @@ prosperity. That part of America which had
 pidly in population, agricultite, and the arts.&quot;  
 Dr. Franklin has also condemned N
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn84028880:00296027558:1854121901:0364/pct:14.623000761614623,332.653354403103,54.60776846915461,13.561269932480965/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn84028880:00296027558:1854121901:0364/pct:3.656446391163588,83.16333860077575,13.654541992001523,3.390317483120241/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -437,7 +437,7 @@ nowers it would not tie attempted among the electors, but
 dence of the people not among strangers who would be  
 ; r, jarded with a jealous eye.&#x27; ? Ui.iuon 1 uprre, vol..*, p
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855070601:0745/pct:50.728765287317806,70.01907183725366,16.116602445970848,12.256834075015894/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855070601:0745/pct:50.728765287317806,70.01907183725366,16.127771262634724,12.269548633184996/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -463,7 +463,7 @@ aged them most&quot; had advanced most rap
 idly&quot; in population, agriculture, and the  
 arts.&quot; ; , ,, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027492:1855072501:0023/pct:91.90690690690691,58.39904420549582,16.486486486486488,9.127837514934289/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027492:1855072501:0023/pct:68.96499924891091,43.799283154121866,12.377948024635721,6.845878136200717/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -532,7 +532,7 @@ elected, and among natives having full con-
 fidence of the people, not among strangers  
 who would be regarded with a jealous eye.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn83025141:no_reel:1855091401:0333/pct:103.69044340402093,151.7860706445819,42.82566786009364,50.728397525444024/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn83025141:no_reel:1855091401:0333/pct:34.563481134673644,50.59535688152731,14.275222620031213,16.909465841814676/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -556,7 +556,7 @@ the spirit of tho great men, who framed the Constitu­
 tions with the doctrines of modernKnow-Noth-ingism  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022743:1855111701:0386/pct:48.473967684021545,98.83381924198251,19.494314781567923,6.389698736637512/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022743:1855111701:0386/pct:36.36635737803053,74.12536443148689,14.636336426219694,4.798347910592809/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -637,7 +637,7 @@ America which had encouraged them most
 had advanced most rapidly in population,  
 agriculture and the arts.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_gastly_ver01:data:sn82014134:0027952925A:1857081501:0748/pct:42.54392333381734,113.7862020249588,33.396253811528965,42.677183894513774/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_gastly_ver01:data:sn82014134:0027952925A:1857081501:0748/pct:14.181307777939113,37.9287340083196,11.132084603842989,14.225727964837924/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

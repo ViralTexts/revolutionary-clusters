@@ -265,7 +265,7 @@ md religion of your country, as your father (he was
 ou will find it a treasure, neither moth nor rust can  
 levour.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1841012301:0537/pct:35.07779349363508,37.46644509778857,15.558698727015559,7.516298095359836/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1841012301:0537/pct:35.07779349363508,37.47496697771528,15.564592173503065,7.516298095359836/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -484,7 +484,7 @@ vinces of North America,” 4to. 1787
 A History of the campaigns of 1780 and 1781,  
 in the Southern provinces of North America, b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn96091000:00212470223:1857120301:0532/pct:75.41666666666667,297.21917671683445,47.708333333333336,3.907106548390312/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn96091000:00212470223:1857120301:0532/pct:18.85907788486585,74.30479417920861,11.930190153685857,0.976776637097578/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2129,7 +2129,7 @@ Itinerary of General Washington from June 15, 1775, to December,
 Mr. W. S. Baker&#x27;s &quot;Itinerary of General Washington&quot;  
 from June 15, 1775, to December 23, 1783, is in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_triumph_ver01:data:sn83030214:00175038577:1892081001:0562/pct:6.245836109260493,146.6310646517441,47.85143237841439,3.0678332007726397/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_triumph_ver01:data:sn83030214:00175038577:1892081001:0562/pct:2.0819453697534978,48.877021550581375,15.950477459471463,1.0226110669242132/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

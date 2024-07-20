@@ -243,7 +243,7 @@ adhering to &#x27;.!&gt; I hat!
 formed upon the first appearance cf&#x27;  
 ihc order* in council to niaki 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808111801:0001/pct:75.20759193357058,63.56164383561644,17.338869118228548,26.666666666666668/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808111801:0001/pct:75.22077237379729,63.565992607088496,17.338869118228548,26.671015438138724/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -276,7 +276,7 @@ east upon it. But &#x27;hewise and mag-j
 nous course would be, at oi.ee,  
 •ir steps upon th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808111801:0002/pct:7.845877420642843,6.187181830048297,17.228987821920544,12.896488709045817/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808111801:0002/pct:7.859186797098556,6.187181830048297,17.2356425101484,12.909541835269547/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -306,7 +306,7 @@ I&#x27;hoso will be found to be explained
 la the letter above mentioned.  
 c the bono; to be, kc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808111801:0002/pct:8.065482132162108,27.998955749902102,17.049311239768418,10.821041639472654/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808111801:0002/pct:8.07879150861782,27.998955749902102,17.04265655154056,10.829743723621807/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -392,7 +392,7 @@ acquainted with them) in the letter above mentioned,
 Wsr. PINKNEY.  
 IfdfiouraUe James Jladison, Secretary of State.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808112501:0226/pct:46.59262998485613,21.500981033355135,21.075214538112064,47.15500327011118/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808112501:0226/pct:46.58087307595256,21.49746607814288,21.076204895281354,47.1513813961092/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -499,7 +499,7 @@ mions. ThCSe will be found to he-exoldined
 letter above mentioned.­  
 I have the honor to be, &amp;c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808112801:0608/pct:28.83147386964181,17.715305667112897,23.399882560187905,59.892904953145916/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808112801:0608/pct:28.827242037281668,17.713724790290915,23.401340574392094,59.89053483253019/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -594,7 +594,7 @@ hs I am acquainted with them) in the let­
 ter above mentioned.  
 I have the honor to be, Stc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808112901:0244/pct:6.665452558732471,8.292682926829269,17.665270442542344,46.053783614759226/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808112901:0244/pct:6.664238892935178,8.291645822911455,17.66812333090556,46.05219276304819/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -702,7 +702,7 @@ be er.blainrd fas far as I am ii^trunt­
 tioned.  
 I have the h^nor *o h*», *rr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808120601:0397/pct:3.9745031871016123,26.15150361629235,19.366329208848892,65.3470371780231/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808120601:0397/pct:3.973758200562324,26.148185739659986,19.36894720399875,65.34297555611943/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

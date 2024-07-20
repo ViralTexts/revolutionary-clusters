@@ -372,7 +372,7 @@ America, and the provinces of Upper and
 Lower Canada, during the years 1795, 1796,  
 and 1797.&quot; This is a work entitled to 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800071701:0002/pct:6.87894992707827,12.314874436574373,16.96645600388916,2.6078557630392787/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800071701:0002/pct:6.89110354885756,12.318898905344495,16.96645600388916,2.6078557630392787/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -463,7 +463,7 @@ through the states of North America and
 the provinces of Upper and Lower C=anada  
 4 theyears115, 116 and 117W. The au
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pug_ver01:data:sn83045462:00280654905:1893091801:0553/pct:13.00383877159309,67.817876083301,12.523992322456813,2.030785150692019/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pug_ver01:data:sn83045462:00280654905:1893091801:0553/pct:13.00783749200256,67.82110981761738,12.53998720409469,2.046953822273962/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

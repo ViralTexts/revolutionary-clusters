@@ -128,7 +128,7 @@ public answer; and I pray you to accept the assurances
 of my high esieem and respect.  
 Til. JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1841052801:0310/pct:65.89099816289038,2.636291285316355,32.287201469687695,94.83684838838042/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1841052801:0310/pct:65.89099816289038,2.6396073749834197,32.287201469687695,94.83684838838042/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -196,7 +196,7 @@ because it would be &quot;indirectly assuming an
 authority over religious exercises, which the  
 constitution has directly precluded them from.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271743324:1859072001:0724/pct:197.4732262382865,255.7997849719269,53.028781793842036,25.69585473659061/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271743324:1859072001:0724/pct:65.8244087460955,85.2665949906423,17.676260597947344,8.56528491219687/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -381,7 +381,7 @@ the president of the United States,
 and no authority to direct the relig­  
 ious exercises of his constituent.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_audi_ver01:data:sn83021327:00200297131:1881072801:0109/pct:31.945279615153336,22.367194780987884,13.349368610944078,27.12022367194781/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_audi_ver01:data:sn83021327:00200297131:1881072801:0109/pct:23.966320854006916,16.775396085740912,10.013531799729364,20.340167753960856/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -440,7 +440,7 @@ given to the President of the United
 States, and no authority to direct the  
 religious exercises of his constituents.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00383342065:1881072901:0098/pct:35.4296066252588,53.34740651387214,9.808488612836438,18.154402895054282/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00383342065:1881072901:0098/pct:35.43823326432022,53.34740651387214,9.804175293305729,18.157753652325425/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -594,7 +594,7 @@ this right can never be safer than
 in their own hands, where the  
 constitution has deposited it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_goshen_ver01:data:sn83016758:00280767992:1892020401:0038/pct:50.12787723785166,41.70787998681174,14.226342710997443,20.49675788548192/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_goshen_ver01:data:sn83016758:00280767992:1892020401:0038/pct:50.1385336743393,41.71520679928197,14.236999147485081,20.504084697952155/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -656,7 +656,7 @@ to the United Status an authority over
 religious exercises, which the constitu­  
 tion has directly precluded from them.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_eigg_ver01:data:sn99062034:00279523313:1893061701:0331/pct:22.576068106574176,29.40017513134851,14.01545010247517,6.786339754816112/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_eigg_ver01:data:sn99062034:00279523313:1893061701:0331/pct:22.58657838036681,29.40017513134851,14.01545010247517,6.797285464098073/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -687,7 +687,7 @@ tions, their doctrines
 disciplines or ex  
 ercise
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_hotel_ver02:data:sn86071197:00175034857:1897020801:0816/pct:259.09090909090907,286.79723113287184,50.78671328671329,10.619618436603073/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_hotel_ver02:data:sn86071197:00175034857:1897020801:0816/pct:64.80104940970703,71.69930778321796,12.702229995627459,2.654904609150768/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -2018,7 +2018,7 @@ tho province of Pennsylvania, and coun
 ties of New Cattle, Kent and Sussex, upon  
 tho Delaware, to the said Francis We
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_calumet_ver01:data:sn86086632:00296023498:1897090701:0434/pct:47.656755009696184,78.70107150666958,21.67097608274079,3.6628034113273564/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_calumet_ver01:data:sn86086632:00296023498:1897090701:0434/pct:31.786580436540017,52.47102558495517,14.454324979789813,2.438224360376121/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

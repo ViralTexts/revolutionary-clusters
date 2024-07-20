@@ -54,7 +54,7 @@ sometime* assigned to Mr. Jay, and at other times to
 . r. Hamilton. Mr. Mercer had attributed it to  
 Mr. Hamilton
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184315:1829110701:0338/pct:59.53648606326339,67.90827469060908,17.287817099906043,7.570977917981073/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184315:1829110701:0338/pct:59.52716455299828,67.90003639451656,17.290329314753926,7.574103279550325/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -92,7 +92,7 @@ edifi ms of the Federalist, the authorship of this
 •md at etnei* t • Air. Hamilton. All . Mercer  
 bad attributed it to Mr Hamilton.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1829111201:0516/pct:1.8487744079767345,50.2332361516035,14.790195263813876,6.9533527696793005/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1829111201:0516/pct:1.8483904465212877,50.22591458970995,14.792315680166148,6.955983092843609/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -213,7 +213,7 @@ times assigaed to Mr. Jay, and at other
 times to Mr. Hamilton. Mr. Mercer had  
 attributed it te Mr. Hamilten.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1829120101:0189/pct:57.567567567567565,52.02944880364235,15.885885885885886,10.16177467790371/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1829120101:0189/pct:57.57757757757758,52.03590687461655,15.89089089089089,10.16177467790371/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

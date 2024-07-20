@@ -142,7 +142,7 @@ often wisdom without eloquence; in the present
 instance I see both united, and b6th, as I think, in  
 the highest degree possible.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1847073101:0613/pct:17.13003185635679,59.32432432432432,16.029539530842744,3.7274774774774775/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1847073101:0613/pct:17.13003185635679,59.32807807807808,16.03919297229462,3.7312312312312312/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -185,7 +185,7 @@ note:
 4 quence : in the present instance he sees both united, and  
 4 both, as he thinks in the highest degree possible
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848112501:0408/pct:51.05087693868676,48.44013965536659,15.91535005073199,5.113188422119608/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848112501:0408/pct:51.05570855679567,48.44764800840935,15.925013286949799,5.113188422119608/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -204,7 +204,7 @@ sometimes eloquence without wisdom, and often wisdom with­
 out eloquence. In the present instance, I see both united, an 1  
 bq h, as I think, in the highest degree possible.” Dr. Benja
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_collins_ver01:data:sn83030364:print00211110077:1857011101:0007/pct:6.345044572627163,92.37774451097805,12.02586960321622,1.3847305389221556/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_collins_ver01:data:sn83030364:print00211110077:1857011101:0007/pct:6.358154168851599,92.38398203592814,12.012760006991785,1.3847305389221556/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

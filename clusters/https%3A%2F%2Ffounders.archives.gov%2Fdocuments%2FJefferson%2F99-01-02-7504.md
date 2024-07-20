@@ -86,7 +86,7 @@ wibi“ to thet*tiects produced hi th. se .&#x27;tacks,
 i hty have injured ms, and continue* to in­  
 jure me &#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808110101:0213/pct:58.762331838565025,24.285352896534278,18.152466367713004,29.838097647356438/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808110101:0213/pct:58.75179340028694,24.282281522701403,18.155188904830226,29.838539690569537/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -222,7 +222,7 @@ my friendship for him. which is sia­
 cere and strong.  
 I am, dear sir
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808110101:0357/pct:59.13224706328155,12.165263963274676,36.52898825312619,80.9487375669472/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808110101:0357/pct:59.121045652585714,12.163712864975137,36.52838290080192,80.94266649666369/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -270,7 +270,7 @@ lems asindsivmues, ! have seen {he national
   
 &#x27; meekest, my! vour advance-ment and fame,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808110201:0520/pct:6.6788099574984825,70.1336222462983,23.93746205221615,26.01119537739256/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808110201:0520/pct:6.67779632721202,70.1272907827029,23.93888804573279,26.011856399145376/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -384,7 +384,7 @@ PCYLODRl mortification. it will no;..lesscn
 my friendship for him, which is sieinq: &quot;e  
 siand strong. ;;isiss 55
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808110201:0520/pct:30.722525804493017,2.1939328277356447,23.96782027929569,56.33802816901409/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808110201:0520/pct:30.717863105175294,2.1937347657307935,23.96924166540193,56.335951370708074/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -410,7 +410,7 @@ t ration, hi the several trusts con
 to me abroad, with the utmost inte- &#x27;  
 grity, industry and zeal ; that in som
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808110401:0001/pct:23.21075523922499,37.89649415692821,17.63542902332938,8.10324900475151/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808110401:0001/pct:23.223935679451692,37.9007747955995,17.628838803216027,8.107529643422799/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -454,7 +454,7 @@ ias well on &#x27; feal int
 welfare, as in ■&#x27; i ountry.  
 ; success will gjreme no personal imir- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808110401:0001/pct:23.03281929616449,62.83549505586233,17.991300909450377,20.495697958135352/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808110401:0001/pct:23.039409516277843,62.83549505586233,17.997891129563726,20.50425923547793/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -914,7 +914,7 @@ f&amp;&#x27;v
 mortification. It will not least*  
 my friendship for him, whic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808111801:1065/pct:55.60622317596567,12.331309041835357,33.98605150214592,83.08029689608637/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808111801:1065/pct:55.591311343523735,12.329229212346096,33.98364172700456,83.07050092764378/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

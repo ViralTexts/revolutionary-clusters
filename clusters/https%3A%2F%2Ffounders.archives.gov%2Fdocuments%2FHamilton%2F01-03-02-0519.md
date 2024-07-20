@@ -103,7 +103,7 @@ moulfly ratified by them, will enable the Uanited
 States: in Congress aflembled more cffcétually to  
 provide for the fame.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025586:0051701512A:1786081701:0341/pct:61.10506852294975,74.76825028968713,26.060474222318902,10.515643105446118/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025586:0051701512A:1786081701:0341/pct:61.112319628743386,74.77307840865198,26.07497643390617,10.515643105446118/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -134,7 +134,7 @@ len.]
 Resolved, if the honorable the assembly  
 concur herein. That a joint committee of to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1814100801:0172/pct:59.917798427448176,70.78316991436019,16.869192280200142,9.519672334615862/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1814100801:0172/pct:59.907093085581565,70.77438570364855,16.872133881245905,9.522627616447423/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -178,7 +178,7 @@ Report was drawn by him. H.s msocinte from this
 State was the venerable Judge B-nson, who has lived  
 lony, and still lives, to *ee fho happy resultsof the couii
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184042:1831040501:0437/pct:50.92920353982301,49.39289805269187,15.309734513274336,4.616265750286368/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184042:1831040501:0437/pct:50.92169296563929,49.387240865880194,15.312392469154009,4.6195548428969575/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -198,7 +198,7 @@ mercial intercourse and regulations might he ne­
 cessary to their common interest and permanent  
 harmony.’”— [Madison Papers, 698 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183700:1844041801:0067/pct:48.85418187125967,68.6620504802323,14.581812874032988,3.0600848782666965/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183700:1844041801:0067/pct:48.84705195563339,68.65438302624233,14.584549523253552,3.063465475525777/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -299,7 +299,7 @@ wide for the same.&quot;
 The doctrines taught by Lincoln, Sew  
 ard and other leaders of the Black k
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279520944:1860111701:1070/pct:59.36395759717315,67.93054006691095,50.46378091872791,28.118527959216188/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279520944:1860111701:1070/pct:14.837712519319938,16.979929913985345,12.613159637889158,7.028512265052565/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -326,7 +326,7 @@ cHhe Several Btates V The address further expresses th
 Pinion of tbe Commissioners &quot; that the idea of extending  
 tbe powers M
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045706:00296022664:1863062401:0316/pct:4.009789156626506,111.73863492465493,21.423192771084338,6.673420286184627/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045706:00296022664:1863062401:0316/pct:3.013750235449237,83.8039761934912,16.085891881710303,5.014562492085602/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -416,7 +416,7 @@ be necessary to the common interest and
 permanent harmony of the several  
 States,” the commissioners at An
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00383342089:1882080701:0118/pct:14.545454545454545,31.15142768786723,9.847378898473789,3.4532522420369034/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00383342089:1882080701:0118/pct:14.545454545454545,31.15142768786723,9.847378898473789,3.460124385802151/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -469,7 +469,7 @@ gress assembled to provide for the
 same.&quot;  
 Examining &quot;the re&#x27;ative situation o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn84024448:00296020746:1887091701:0657/pct:289.7496087636933,45.96524316314159,46.713615023474176,32.38582783241277/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn84024448:00296020746:1887091701:0657/pct:72.43740219092332,11.491310790785397,11.678403755868544,8.096456958103193/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -118,7 +118,7 @@ gulated as follows :
 - State taken on either fide or which  
 may be taken before the exehange o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1800122301:0414/pct:9.61926961926962,42.22701431091943,17.482517482517483,12.75240148990394/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1800122301:0414/pct:9.61926961926962,42.23354897732471,17.4980574980575,12.75240148990394/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -149,7 +149,7 @@ r 11
   
 III. The fhips belonging to the State take
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1800122901:0515/pct:4.044767327704693,35.818160998511395,22.93343805222855,11.233253177602199/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1800122901:0515/pct:4.043973301923832,35.814059995420195,22.933843737730662,11.2348294023357/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -241,7 +241,7 @@ follows.&quot;
 tofore concluded with France, no long­  
 er obligatory on the United States. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215981:1800123101:0076/pct:54.489003880983184,15.624359237236005,21.63001293661061,19.058847652245234/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215981:1800123101:0076/pct:54.48195576251455,15.622757560225525,21.63152675376191,19.060310951648727/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -310,7 +310,7 @@ vention shall bave no effclt, and the reia­
 tions of the two naticas shall be regulared  
 as follows
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1801012701:0436/pct:78.14148309028855,27.65811631094576,16.10300961836798,10.87722733503035/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1801012701:0436/pct:78.15182542145,27.661379805495724,16.097838452787258,10.883754324130278/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -352,7 +352,7 @@ until! they may have agreed upon thefe poinfs,
 the fa*;! treaties a; d conventions ihall have no  
 operation.” &amp;c.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1801022301:0548/pct:74.98104624715694,25.195334616691202,21.89158453373768,12.716566640244594/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1801022301:0548/pct:74.96683721811635,25.192481884057973,21.892173583475458,12.717957427536232/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -383,7 +383,7 @@ treatries and convention fiiall have no
 operation, and&#x27;the relations of the two  
 countries {hall be regulated as follows
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801122301:0002/pct:27.06352225180677,66.27863777089783,16.12780524914416,11.578947368421053/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801122301:0002/pct:27.076201343983772,66.28689370485036,16.11512615696716,11.583075335397316/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -436,7 +436,7 @@ THE fpirit of faétion muft be drained to
 the very dregs, when there is nothing to be faid  
 again®t the Prefident but that his communica
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1802010901:0049/pct:54.781582054309325,17.896079795871028,20.070838252656433,12.676873115286476/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1802010901:0049/pct:54.788141151777516,17.89994587489368,20.077397350124624,12.676873115286476/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -462,7 +462,7 @@ thife points, the fard treaties and convention
 (hall h ave no operation, ,*nd the relations of the  
 two countries Hi ill oe, he
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1802011101:0735/pct:54.23876944590106,34.32835820895522,20.643244188079006,7.565620174987133/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1802011101:0735/pct:54.22929045788186,34.3248250308769,20.644005592450192,7.5674145738987235/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -570,7 +570,7 @@ ga’ll*h‘av‘e ‘no operation, and the re­
 lation of the two countries shall be  
 | tegtﬂated;as follows, &amp;¢. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802041301:0060/pct:41.48606811145511,75.87447531481111,16.764705882352942,11.692984209474316/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802041301:0060/pct:41.49122807017544,75.87447531481111,16.769865841073273,11.696315544006929/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -637,7 +637,7 @@ _ &quot; same date, &amp; the Convcntiosinoisithsi- 1th
 The &#x27;only pnrtssos this articlc which we  
 canpcrceive even giant—es at at the qucs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803022301:0148/pct:53.741074200558835,6.242805277605596,43.38714684880472,90.63136456211812/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803022301:0148/pct:53.732733198820426,6.242252523463786,43.38558642454343,90.62629124608937/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -669,7 +669,7 @@ Adams) the treaty was laid before&quot; a
 Federal Senate, and after feveral days  
 difculiion, was ratified by the Senate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803060601:0001/pct:39.68406858023502,51.34459036898061,15.85436332113273,11.694809255784866/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803060601:0001/pct:39.68406858023502,51.35292891390452,15.860784691453157,11.69897852824682/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -698,7 +698,7 @@ siidii have no operation, and the relation:
 ; &#x27;•T the two nations with individuals of thi  
 I oilier, by the individuals of one with ti
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804111001:0346/pct:40.40191387559808,63.5370611183355,17.626794258373206,9.29778933680104/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804111001:0346/pct:40.39418293149637,63.52879989598232,17.629799719351958,9.300914488796428/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -745,7 +745,7 @@ is agieed that the present convention shall be in
 h&gt;rce for the term of eight years from the lime of  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810041001:0431/pct:41.49226569608735,33.46172363986519,17.361237488626024,17.308618199325952/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810041001:0431/pct:41.48471615720524,33.457696473703216,17.364143619602135,17.310546796646207/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -804,7 +804,7 @@ On the 3d of February, 1801, this treaty was rati-•
 lied l&gt;y the Senate, with the exception of the article  
 just retried, winch the .Senate refused to ratify. Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184534:1825101401:0228/pct:59.0676883780332,81.05507246376811,18.215197956577267,8.231884057971014/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184534:1825101401:0228/pct:59.05826017557861,81.04567586366798,18.217611066773078,8.234794033542006/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -918,7 +918,7 @@ expunged, and 1 list the following article be ad-)
 ded or inserted. 4 * It is agreed that the present  
 convention shall be in force for the term of cigtit 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826060201:0034/pct:36.33471205854279,56.650544135429264,15.11294941139039,9.975816203143893/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826060201:0034/pct:36.32893271830762,56.64369483738363,15.115847516038386,9.978640228912264/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -947,7 +947,7 @@ I neressary again lo submit the convention, in thi«
 and ret time! it to the President for the usual pro i  
 tnulgation. It was accordingly promulgated, and 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826060201:0034/pct:36.127903277123764,74.88512696493349,15.319758192809418,7.4365175332527205/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826060201:0034/pct:36.122156831557184,74.87607302623624,15.322623402788823,7.439648571313424/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -983,7 +983,7 @@ second article lie expunged, ;in&lt;l that tin*
 follow ing article he added or inserted : “ It  
 is agreed that the pie tent convention shal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:0039334880A:1826060501:0731/pct:52.20663005897905,11.975613296559732,15.273540776896482,12.048192771084338/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:0039334880A:1826060501:0731/pct:52.1960146400976,11.97387518142235,15.27551850345669,12.050072568940493/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1014,7 +1014,7 @@ demnities due to citizens of the United J
 State- was very large; and, on the other |  
 hand, the obligation wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:0039334880A:1826060501:0731/pct:52.36933089282083,49.93467847292786,15.090502338824486,9.682101901582232/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:0039334880A:1826060501:0731/pct:52.35868239121594,49.92743105950653,15.092517283448556,9.684325108853411/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1051,7 +1051,7 @@ of eight years from the time of the exchange of
 the ratificatiors,—and it was accordingly so  
 ratified by the President of the United States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1826060601:0090/pct:11.41132075471698,71.10059409928506,16.241509433962264,12.627127177524923/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1826060601:0090/pct:11.41132075471698,71.10395059242104,16.256603773584906,12.623770684388951/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1079,7 +1079,7 @@ cally renounced, canonly be matter of specula­
 tion. The amount of the indemnities due to  
 citizens of the United States was very large, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1826060601:0090/pct:28.78490566037736,17.631658443258484,16.241509433962264,7.713221226462592/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1826060601:0090/pct:28.78490566037736,17.635014936394455,16.261635220125786,7.719934212734535/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1361,7 +1361,7 @@ have agreed upon these points, the said treaties and con­
 vention shall have no operation, and fho relations of the  
 two countries shall he regulated as follows
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184054:1831121701:0267/pct:19.819318971507993,76.76316083603443,14.954829742876997,5.912596401028278/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184054:1831121701:0267/pct:19.816564758199,76.7545820295038,14.957383731702798,5.915660855312174/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1390,7 +1390,7 @@ liter may have agreed upon these points, the trea­
 ties md &lt; &#x27;onventinn shall have no operation.”  
 Tho Treaty was submitted to tiic Senate an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184339:1831122001:0417/pct:35.11144130757801,37.07506274241387,14.918276374442794,2.3613963039014374/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184339:1831122001:0417/pct:35.106224929430994,37.07083380860043,14.921012231961571,2.3649290901486637/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1761,15 +1761,15 @@ same date, and the convention of the 14th
 of November, 1788 ; nor upon the indem­  
 nities mutually due nud
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152767:1843122101:0628/pct:6.329113924050633,6.286441217004135,12.686357243319268,4.8976995653556665/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152767:1843122101:0628/pct:6.333802156586967,6.29350860454433,12.691045475855603,4.894165871585568/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1844-02_14_78/page/n24/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1844-02_14_78/page/n24/mode/1up?view=theater)
 
-#### 1844-02-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1844-02-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1831,7 +1831,7 @@ operation.
 a a a  
 -lrticU 5th The
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661332:1844021201:0150/pct:18.002510310202616,27.411555103079664,17.357001972386588,9.557139221175872/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661332:1844021201:0150/pct:18.00848723925647,27.420039026045643,17.357001972386588,9.557139221175872/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1853,7 +1853,7 @@ Alliance of tho Oth ( February, 1778.
 the tieaty of Amity 81 Commerce of ihe  
 same date, and the convention of the 14ih
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038189:00296028010:1844021401:0010/pct:10.938967136150234,73.11220889202541,20.586854460093896,6.252646436132674/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038189:00296028010:1844021401:0010/pct:8.221752407798919,54.83415666901905,15.45689452666197,4.700070571630205/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1957,7 +1957,7 @@ this satisfaction, adding that &quot;by this retrenchment
 the two States renounce the respective pretensions  
 which are the object of the said article.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846091401:0930/pct:17.362924281984334,77.53441802252816,15.633159268929504,4.605757196495619/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846091401:0930/pct:17.362924281984334,77.53858990404673,15.644038294168842,4.609929078014185/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2001,7 +2001,7 @@ these points, the said treaties and convention shall har
 no operation, and the relations of the two countries shal  
 be regulated as follows.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661137:1849021601:0192/pct:0.7771609833465504,39.937849596022374,15.00396510705789,6.103169670602859/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661137:1849021601:0192/pct:0.7771609833465504,39.946136316552725,15.009251916468411,6.107313030868034/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2030,7 +2030,7 @@ tindemnities mutually due or claimed, the parties will
 &quot;relations of the two countties shall be regulated as fol­  
 lows.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347922:1849022201:0233/pct:25.07418397626113,278.7206823027719,60.03338278931751,29.18265813788202/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347922:1849022201:0233/pct:6.267383645466345,69.67026719727117,15.00556276654923,7.294627629334849/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2159,7 +2159,7 @@ This is the Convention of 1800. &quot;The preten-
 sions which France thus relinquished were  
 claims for indemnities for violations of the ancien
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530339:1851012501:0166/pct:56.74589889521259,96.95001739533805,47.87412119183127,48.38223356140554/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530339:1851012501:0166/pct:18.91529963173753,32.31667246511268,15.95804039727709,16.12741118713518/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2207,7 +2207,7 @@ The United States nmended the now nor
 lact by striking out this second article alt  
 [ether, and by adding a new one which limit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661484:1851012701:0110/pct:32.836495031616984,64.28741943184531,12.556458897922312,11.864406779661017/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661484:1851012701:0110/pct:32.841513600321186,64.29537678045675,12.556458897922312,11.864406779661017/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2255,7 +2255,7 @@ which are the objects of the said (seooud) article &quot;
 The United .States assented, and the compact  
 w is ratified as thus mutually amended
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1851013001:0250/pct:44.470588235294116,44.51682953311618,14.911764705882353,14.361859638732604/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1851013001:0250/pct:44.48039215686274,44.51682953311618,14.916666666666666,14.365149870035863/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2303,7 +2303,7 @@ I1 This is the convention of 1800. &quot;The prctcn
 sions&quot; which France thus relinquished were claims  
 for indemnities for violations of the ancient treaties
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661393:1851013101:0144/pct:54.316955410394776,39.4733789583575,15.364953138312979,14.244287205660596/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661393:1851013101:0144/pct:54.32168891413424,39.48111201330085,15.364953138312979,14.248153733132273/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2330,7 +2330,7 @@ Mini tit. relations &lt;&gt;(the two countries shall N regulated a* follows
 AaT. &quot; The aMps which hivi bean takfi on a&lt;Ni psrt  
 snd the other, c?r which may be taken before tl?e exchange of rat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851020401:0143/pct:48.237597911227155,78.97683889030287,15.551566579634464,5.243064392975311/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851020401:0143/pct:48.237597911227155,78.98532281326885,15.557006092254134,5.243064392975311/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2353,7 +2353,7 @@ vena tfeil ot tti finiii&#x27; by die other parti od ftita pnHMtoas
 What wao the value of the obligations and indemnities no r?Cipro  
 | cally renaunced, can only be matter of speculation The amoun
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851020401:0143/pct:63.740208877284594,71.5321964876559,15.551566579634464,3.4741664545685924/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851020401:0143/pct:63.74564838990427,71.54068041062187,15.551566579634464,3.4741664545685924/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2409,7 +2409,7 @@ at a convenient time ; and, until they insy have agreed upon
 these points, the ?aid treaties and convention .hall have  
 no operation, and the relations of the two oountries snsl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661204:1852050801:0448/pct:15.64245810055866,50.56350512852982,15.954650016431154,5.318475370393821/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661204:1852050801:0448/pct:15.653412202869974,50.57194715292727,15.943695914119838,5.318475370393821/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2431,7 +2431,7 @@ of this resolution of the Senate, the treaty was proclaim­
 ed by the President ot the United States.  
 On the provisions of this convention of 18UQ, ami th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661204:1852050801:0448/pct:15.79033848176142,60.66860833227808,15.79033848176142,3.798910978852729/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661204:1852050801:0448/pct:15.795815532917077,60.67705035667553,15.806769635228394,3.798910978852729/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2466,7 +2466,7 @@ cluinia of her own at the Mine time against the United
 States  
 3 That by the ratification of the convention of Sep
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661204:1852050801:0448/pct:63.09562931317779,11.649993668481702,32.467959250739405,84.46245409649234/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661204:1852050801:0448/pct:63.10110636433344,11.658435692879152,32.467959250739405,84.46667510869106/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2515,7 +2515,7 @@ the States renounce their respective pretensions which are
 the object of said article,&quot; and this modification was after­  
 wards assented to by the American Senate. Then the ide
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855021301:0189/pct:3.8863487916394512,56.39739086803813,16.018941868060093,6.73607626693427/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855021301:0189/pct:3.8972349227084693,56.405753470480015,16.013498802525582,6.73189496571333/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2573,7 +2573,7 @@ shall be regulated as follows:
 Art. V. &quot;The debts contracted by one ol the two nation  
 w Uh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855021801:0215/pct:84.35195805341635,55.618047744032,15.402261183024741,5.461817272840895/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855021801:0215/pct:84.35195805341635,55.62638003582885,15.41318477251625,5.461817272840895/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2621,7 +2621,7 @@ treaties and convention shall have no operation,
 and the relations of the two countries shall be re­  
 gulated as follows
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661551:1855022001:0184/pct:43.68652209717266,6.690065943416294,13.450452923414767,6.168900233992767/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661551:1855022001:0184/pct:43.68652209717266,6.690065943416294,13.45960289138988,6.175990923916897/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2651,7 +2651,7 @@ lows:­
 Art. 5. &quot;The debts contricted by one of the two na-­  
 tiens
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:0027174321A:1855022001:0421/pct:109.06233630172865,104.2917933130699,46.5863453815261,19.01519756838906/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:0027174321A:1855022001:0421/pct:36.35411210057622,34.76393110435664,15.528781793842034,6.338399189463019/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2680,7 +2680,7 @@ treaties and convention shall have no opera j
 tion, and the relation &lt;d the two countries  
 bhall he regulated as follow*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215932:1855022001:0032/pct:60.403981830482266,79.03099394371215,12.950613704455398,7.3459209120057/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215932:1855022001:0032/pct:60.39814456899884,79.02536335138215,12.952583429970364,7.3477723947943385/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2716,7 +2716,7 @@ _ upon these points, the said treaties and eonventio
 ir shall have no operation, and the relations of the tv  
 ,1 countries ahull ho regulated as follows
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1855022201:0544/pct:43.69016536118364,24.430185788163186,13.780098636495504,4.261635701972802/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1855022201:0544/pct:43.69016536118364,24.436570261124945,13.794604003481288,4.261635701972802/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2816,7 +2816,7 @@ poviso
 That the States renounce their respective pretensions, which  
 are the of ject of said article
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743312:1859011101:0086/pct:144.14857530529173,8.88967384905216,94.25033921302578,284.02213587660424/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743312:1859011101:0086/pct:48.049525101763905,2.96322461635072,31.41677973767526,94.67404529220143/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2859,7 +2859,7 @@ I ratified the treaty, as
 | doclamtlon. &quot; - &lt; amended, with the furthei  
 &#x27; oy thus retreneidng tlie second article
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82006534:00415661101:1859020101:0109/pct:63.004846526655896,38.81835323695789,17.02746365105008,8.912633563796355/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82006534:00415661101:1859020101:0109/pct:63.01023155627356,38.82254347370626,17.032848680667744,8.91682380054473/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3052,7 +3052,7 @@ claimed, the parties will negotiate
 further on these subjects at a con­  
 venient time,” etc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_galena_ver02:data:sn88065721:00279521626:1887082601:0066/pct:21.40468227424749,30.438228966142,16.08695652173913,6.035556562110746/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_galena_ver02:data:sn88065721:00279521626:1887082601:0066/pct:21.41025641025641,30.442003548107046,16.09253065774805,6.043105726040841/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3093,7 +3093,7 @@ under the old treaties as open to discussion and not
 providing for the indemnities. The Senate in ad -  
 vising the ratification of tho treaty, expunged thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623896:1888081801:0158/pct:83.75690607734806,53.17927170868347,10.810313075506446,5.840336134453781/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623896:1888081801:0158/pct:83.75690607734806,53.17927170868347,10.81645181092695,5.84500466853408/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -166,7 +166,7 @@ ries high, and because the same resul mav he had
   
 in a mure simple way, by d eirliHi; against tli
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1816022201:0817/pct:29.442903957650618,19.664462010001614,21.42677085959163,8.727214066784965/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1816022201:0817/pct:29.43548387096774,19.661290322580644,21.42767137096774,8.72983870967742/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -198,7 +198,7 @@ having been adopted by the bouse, stand ol
 course, unless altered or struck out by a  
 vote. E?en
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn83026170:00414216298:1821012701:0089/pct:61.31361760660248,86.38732319472508,17.65818431911967,4.658087844305009/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn83026170:00414216298:1821012701:0089/pct:61.30307718755372,86.37813696299447,17.66087903272019,4.661137104778109/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

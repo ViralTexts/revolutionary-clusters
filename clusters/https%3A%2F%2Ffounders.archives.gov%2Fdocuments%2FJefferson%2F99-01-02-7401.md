@@ -42,7 +42,7 @@ pose by a majority of the hooae of Re­
 presentives, and two thirds of the Se­  
 nate, in Congress assembled.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1807111301:0861/pct:26.85810810810811,28.963575576280135,20.27027027027027,9.906739398205174/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1807111301:0861/pct:26.85054883197298,28.95847994370162,20.271601463551928,9.909394792399718/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -129,7 +129,7 @@ Senator and tbc Representative in Congress
 from thisstate, and to the Executive of each  
 state, a copy of this resolution, that the sam
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808031501:0411/pct:41.43897996357013,75.42591003799485,17.650273224043715,11.851942640029415/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808031501:0411/pct:41.43143325441632,75.41666666666667,17.65312936320039,11.854575163398692/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -221,7 +221,7 @@ state in the Congress of the U. States; also to the
 executive of each state in the Union, that the same may  
 be laid before their several legislatures for their co
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00200290185:1840102301:0809/pct:169.16129032258064,16.138253638253637,75.7741935483871,275.44178794178794/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00200290185:1840102301:0809/pct:56.39619293434425,5.379417879417879,25.26213905468624,91.81392931392931/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -251,7 +251,7 @@ from this State in the Congress of the be Sinstro
 to the Executive of each State in the Union  
 that the same may be laid before their several Leg
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023294:00200296096:1840102301:0099/pct:319.662447257384,142.92943491706495,59.24050632911393,31.31852684846781/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023294:00200296096:1840102301:0099/pct:79.94934571549177,35.73235872926624,14.816378218657661,7.829631712116952/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -279,7 +279,7 @@ States. Also to the Executive of each State
 in the Union that the same may be laid before  
 their several legislatures for their co-operation i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1840102601:0201/pct:20.476545048399107,57.238307349665924,57.483246463142216,27.00445434298441/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1840102601:0201/pct:5.12008936883262,14.309576837416481,14.373487246322846,6.751113585746102/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -303,7 +303,7 @@ United States to a single term of six years.
 Resolved, also, That the uovern vj,  
 &quot;rfX Uniied Slate,. AU
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_kirby_ver02:data:sn83025661:00202197206:1840102801:0027/pct:6.388206388206388,14.49588922544353,20.59275184275184,10.103851146689745/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_kirby_ver02:data:sn83025661:00202197206:1840102801:0027/pct:4.793363035796589,10.871916919082649,15.45552312183131,7.5832972739074/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -324,7 +324,7 @@ THE BRAnCH StAte PrisoN.
 This project was finally thrown out by the  
 House. The times were not considere
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn83016318:00296024582:1865032201:0503/pct:18.092282784673504,99.65652600588813,32.946573124662706,9.86261040235525/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn83016318:00296024582:1865032201:0503/pct:6.031574686277156,33.218842001962706,10.983672918634463,3.2875368007850834/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -352,7 +352,7 @@ in congress might be removed from office
 on the vote of a majurity of the whole  
 number of members of the legislature o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn84022473:00280777936:1877082301:0793/pct:78.86977886977887,138.71748336358138,48.23914823914824,31.276467029643072/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn84022473:00280777936:1877082301:0793/pct:19.72956361401352,34.679370840895345,12.06719934439664,7.819116757410768/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

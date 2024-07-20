@@ -61,7 +61,7 @@ the least information of late.’? In thi
 &quot;We can not learn, nor have we been able to  
 procure the least informat ion of late.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_ida_ver01:data:sn85033306:00296020461:1887090201:0342/pct:64.96848739495799,54.65783664459161,13.944327731092438,0.9050772626931567/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_ida_ver01:data:sn85033306:00296020461:1887090201:0342/pct:48.74556679364245,40.99337748344371,10.468934716931564,0.6843267108167771/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -77,7 +77,7 @@ procure the least informat ion of late.
 “We can not learn, nor have we been able to  
 procure the least information of late.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_inman_ver01:data:sn84020151:00340583644:1887090301:0007/pct:7.888138862102218,40.735502121640735,14.580520732883317,0.8357978655008358/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_inman_ver01:data:sn84020151:00340583644:1887090301:0007/pct:7.886617817200154,40.730264849575725,14.582529888160431,0.8389046027256364/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -189,7 +189,7 @@ ington was compelled to confess:
 able to procure the least information  
 of late.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_curry_ver01:data:sn85030687:00212473133:1898021701:1289/pct:7.029177718832892,66.09947643979058,18.76657824933687,12.798138452588715/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_curry_ver01:data:sn85030687:00212473133:1898021701:1289/pct:5.284103471147469,49.5782431646306,14.083572849878399,9.598603839441536/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -220,7 +220,7 @@ ington was compelled to confess:
 able to procure the least information  
 of late.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_isabel_ver01:data:sn85030529:00212473893:1898021801:0458/pct:65.66886870355079,67.71719425463674,18.435177539223783,12.690001394505648/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_isabel_ver01:data:sn85030529:00212473893:1898021801:0458/pct:49.27715819909128,50.78789569097755,13.837257331681123,9.524473574117975/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -282,7 +282,7 @@ ington was compelled to confess:
 able to procure the least information  
 of late.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_agave_ver01:data:sn93061674:0028077456A:1898021901:0796/pct:37.63713080168776,203.61772686162195,55.69620253164557,37.98613204703045/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_agave_ver01:data:sn93061674:0028077456A:1898021901:0796/pct:9.413254537779654,50.90443171540549,13.929928239763614,9.496533011757613/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -313,7 +313,7 @@ ington was compelled to confess:
 able to procure the least information  
 of late.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_mabel_ver01:data:sn85041553:00514159014:1898022201:0202/pct:6.154910096818811,44.64203233256351,16.33817427385892,10.66974595842956/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_mabel_ver01:data:sn85041553:00514159014:1898022201:0202/pct:6.154910096818811,44.64203233256351,16.33817427385892,10.677444187836798/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -345,7 +345,7 @@ ington was compelled to confess:
 able to procure the least information  
 of late.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_aerodactyl_ver01:data:sn87058235:0027952844A:1898022301:0064/pct:8.081916255256903,49.45440862912329,14.079356372280124,9.419290104101343/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_aerodactyl_ver01:data:sn87058235:0027952844A:1898022301:0064/pct:8.094106174193941,49.45858940591162,14.079356372280124,9.419290104101343/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -376,7 +376,7 @@ ington was compelled to confess:
 able to procure the least information  
 of late.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_irving_ver01:data:sn92067221:00514150126:1898022401:0938/pct:19.509345794392523,46.185336806847786,11.77570093457944,8.429475251209528/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_irving_ver01:data:sn92067221:00514150126:1898022401:0938/pct:19.509345794392523,46.19929289170078,11.787383177570094,8.43877930777819/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -408,7 +408,7 @@ ington was compelled to confess:
 able to procure the least information  
 of late.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_almont_ver01:data:sn88076741:00295863584:1898022501:0056/pct:56.6859344894027,57.8501278084219,16.840077071290946,11.42203686263958/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_almont_ver01:data:sn88076741:00295863584:1898022501:0056/pct:48.18757506277978,49.17664100022871,14.31924882629108,9.712586719524282/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

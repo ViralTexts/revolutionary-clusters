@@ -1580,7 +1580,7 @@ standing his rebellion against me : at v..
 couluest not thou, w ho art thyself a sinum j  
 bear with him one night.*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216213:1816082801:0517/pct:19.237275103798247,68.62977481994713,18.560664308780563,28.30704713282888/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216213:1816082801:0517/pct:19.23431734317343,68.62351868732908,18.562935629356293,28.307505317532666/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1716,7 +1716,7 @@ ed him, notwithsianding hjis rebeliion against me :
 and couldest not thow, who art thyseif a sianer, bear  
 with him one nmight 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1816092501:0358/pct:0.8786610878661087,65.25105584232755,23.11715481171548,19.462693571093382/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1816092501:0358/pct:0.8926080892608089,65.2549663694666,23.124128312412832,19.4705146253715/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2407,7 +2407,7 @@ im, notwithstanding his rebellion against
 me—-and couldst not thou, who art thy.  
 eelf a sinner, bear with him one night ?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1822011601:0213/pct:9.39323220536756,41.5431306174857,22.0731232983275,35.07645616902066/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1822011601:0213/pct:9.399714767276027,41.5431306174857,22.08608842214443,35.092019765767866/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3406,7 +3406,7 @@ withstanding his rebellion against me:
 and couldest not thow, who art thyself a  
 sinner, bear with him one night ?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153139:1831071901:0114/pct:5.510774798486593,27.642756016989146,14.821516696825135,27.383199622463426/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153139:1831071901:0114/pct:5.516258156495038,27.646688689633475,14.821516696825135,27.387132295107754/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3571,7 +3571,7 @@ and clothed him, notwithstanding his rebel­
 lion against me: and couldst not thou, who  
 art thyself a sianer, bear with him one night?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1832020701:0024/pct:11.441573216317243,71.97968446077373,16.235982447586544,21.136805705640803/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1832020701:0024/pct:11.441573216317243,71.98328650673582,16.252234682268814,21.136805705640803/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3629,7 +3629,7 @@ notwithstanding his rebellion against
 me: and,couldst not thou who art thy­  
 self a sinner, hear with him one night
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn87062070:0039334295A:1832042501:0418/pct:39.70555431630604,57.80030132858513,18.04595137184921,29.543898096151214/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn87062070:0039334295A:1832042501:0418/pct:39.696699375557536,57.79238564776774,18.049360689860244,29.544417054688214/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3899,7 +3899,7 @@ d ninety ye? •#, and nodrr
 dthed him, n withstands  
 o again&quot;* — :.end roulds
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn82015332:00332897925:1833100201:0238/pct:64.13987326918564,11.397699546880446,30.039896737854964,84.26280934123388/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn82015332:00332897925:1833100201:0238/pct:64.12482402627874,11.395713538944067,30.038714218676677,84.25248301097753/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4201,7 +4201,7 @@ ished him und clothed him, notwithstanding he
 rebelled against me, and couldstnot thou, who  
 art thyselt a sinner, bear with him one night?’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153231:1838101301:0757/pct:21.06715731370745,71.73338553391406,14.430279931659877,13.223059606538122/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153231:1838101301:0757/pct:21.06715731370745,71.73338553391406,14.430279931659877,13.226322142833839/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4414,7 +4414,7 @@ power, and with gladness of heart, and
 with much substance.  
 We commend the preceding to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472037:1843110301:0021/pct:14.911606456571867,22.48713085884584,119.36971560338202,358.60200487672716/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472037:1843110301:0021/pct:3.730051913093636,5.62178271471146,29.859642376466063,89.65050121918179/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4684,7 +4684,7 @@ nower, and with gladness of heart, and
 with much substance&quot;  
 fNeE 2 Spark&#x27;s FrANRLIn, 118
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186452:1845011701:0060/pct:10.651612025574751,11.405181114724684,79.06407291524962,269.5637546259953/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186452:1845011701:0060/pct:3.5500544069640916,3.8013007400762504,26.351106274936527,89.84450923226433/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4745,9 +4745,9 @@ art thyself a sinner, bear with him ope night?
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1846-10_19_100/page/n56/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1846-10_19_100/page/n56/mode/1up?view=theater)
 
-#### 1846-10-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1846-10-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4879,7 +4879,7 @@ and they shall come forth with power, and with
   
 gladness of heart, and with much substance.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_lilac_ver02:data:sn82015408:00237289699:1847020601:0135/pct:36.02700490998363,18.71345029239766,57.59001636661211,107.77511961722487/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_lilac_ver02:data:sn82015408:00237289699:1847020601:0135/pct:27.04196519959058,14.035087719298245,43.21392016376663,80.83466241360978/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4903,7 +4903,7 @@ of humor, in which he is a great master, have al
   
 ways a useful and benevolent tendency.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_lilac_ver02:data:sn82015408:00237289699:1847020601:0135/pct:65.05728314238952,42.22488038277512,28.5392798690671,6.45933014354067/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_lilac_ver02:data:sn82015408:00237289699:1847020601:0135/pct:48.82292732855681,31.671982987772463,21.43295803480041,4.851143009037746/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5097,7 +5097,7 @@ and clothed him, although he has dishonors
 ed me, and could&#x27;st not thou, who art thy  
 self a sinner, bear with him one night?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_flareon_ver02:data:sn82014073:00279529200:1851022001:0315/pct:235.93976777939042,116.02415831405808,44.865747460087086,22.410691338987405/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_flareon_ver02:data:sn82014073:00279529200:1851022001:0315/pct:78.64658925979681,38.67471943801936,14.955249153362361,7.470230446329135/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5276,7 +5276,7 @@ him, notwithstanding his rebellion against me; and
 couldst not thou, that art thyself a sinner, bear with  
 him one night?&quot; And thus it is, we are prone to driv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743099:1854051601:1112/pct:10.17753559500791,24.86892278360343,47.9346106521357,20.877025738798856/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743099:1854051601:1112/pct:3.3925118650026365,8.289640927867811,15.9782035507119,6.959008579599619/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6008,7 +6008,7 @@ ing his rebellion against me, and couldst not
 thou, who art thyself a sinner, bear, with him  
 jne sight?&#x27; . . 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84020712:00295879191:1865052901:0484/pct:14.61187214611872,87.66157461809635,28.51978691019787,35.82713147930539/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84020712:00295879191:1865052901:0484/pct:10.963075751808146,65.7527092309701,21.412257327750286,26.870348609479045/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6150,7 +6150,7 @@ him one night ^ew Covtmnt.
   
 A curious theory relating tn th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn87058333:00279528943:1872112101:0612/pct:50.9966535719482,34.48196908986834,10.985013822202824,23.961076130509444/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn87058333:00279528943:1872112101:0612/pct:51.00635336340269,34.489601221141,10.989863717930065,23.961076130509444/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6241,7 +6241,7 @@ liver them, and they shall come forth
 with power, and with gladness of heart,  
 and with much substance.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn84022991:00513688088:1876032101:0136/pct:84.38585734723074,16.590202752700904,13.222971592070305,40.68373538552612/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn84022991:00513688088:1876032101:0136/pct:84.38585734723074,16.59513590844063,13.236596498399074,40.693601697005576/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6561,7 +6561,7 @@ these hundred and nivety years, and
 couldst not thou, who art a sinner thy  
 self, bear with him one night?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_gargoyle_ver02:data:sn92064114:00514153292:1887082701:0328/pct:50.22082018927445,63.21131959397108,19.842271293375394,31.354455039475035/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_gargoyle_ver02:data:sn92064114:00514153292:1887082701:0328/pct:50.2260778128286,63.21473734577395,19.847528916929548,31.3578727912779/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6644,7 +6644,7 @@ deliver them, and they shall come
 forth with power, and with gladness  
 of heart, and with much substance
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quiring_ver01:data:sn89064939:00206537978:1887083101:0277/pct:63.63328822733423,10.223529411764705,14.546684709066305,37.64705882352941/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quiring_ver01:data:sn89064939:00206537978:1887083101:0277/pct:63.64456472710871,10.223529411764705,14.546684709066305,37.65098039215686/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6677,7 +6677,7 @@ marks:
 Persecution&#x27; was communicated tome  
 by Dr. Franklin of Philadelphia, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quiring_ver01:data:sn89064939:00206537978:1887083101:0277/pct:63.59945872801082,49.98823529411764,14.49594046008119,10.494117647058824/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quiring_ver01:data:sn89064939:00206537978:1887083101:0277/pct:63.6107352277853,49.9921568627451,14.507216959855661,10.490196078431373/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6801,7 +6801,7 @@ them, and they shall come forth with
 power, and with gladness of heart, and with  
 much substance
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84038582:00212471574:1887100101:0267/pct:130.31496062992127,103.23439371755623,58.188976377952756,121.54931452149607/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84038582:00212471574:1887100101:0267/pct:32.585154557983856,25.808598429389058,14.550108289033274,30.387328630374018/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6966,7 +6966,7 @@ four years in a strange &#x27;.and.
 and they snail come forth with power, and with  
 gladness of heart, and with much substance
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588307:1887100801:0729/pct:48.76783398184176,80.22522522522523,17.293558149589277,29.354354354354353/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588307:1887100801:0729/pct:37.806444407215054,62.17757263100733,13.402579996649354,22.757069159458517/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7046,7 +7046,7 @@ deliver them, and they shall come
 forth with power, and with gladness of  
 heart, and with much substance
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_empire_ver01:data:sn86091319:00332890359:1887101201:0165/pct:23.061172254927055,13.668820129207752,15.254671103148196,44.30465827949677/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_empire_ver01:data:sn86091319:00332890359:1887101201:0165/pct:23.055271238485158,13.66649668536461,15.257164790174002,44.30137684854666/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7129,7 +7129,7 @@ deliver them, and they shall come
 forth with power, and with gladness  
 of heart, and with much substance
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eagle_ver01:data:sn83025733:0020029659A:1887101201:0441/pct:84.81012658227849,49.86095206936038,68.24894514767932,161.36103386226077/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eagle_ver01:data:sn83025733:0020029659A:1887101201:0441/pct:21.208124505407543,12.465238017340095,17.066737008704827,40.34025846556519/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7161,7 +7161,7 @@ The following &quot;Parable against
 Persecution&#x27; was communicated to me  
 by Dr. Franklin of Philadelphia, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eagle_ver01:data:sn83025733:0020029659A:1887101201:0441/pct:84.915611814346,226.14101096024865,68.35443037974683,39.849501063307706/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eagle_ver01:data:sn83025733:0020029659A:1887101201:0441/pct:21.234502769717754,56.53525274006216,17.093115273015037,9.962375265826926/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7227,7 +7227,7 @@ four hundred years in a strange land.
 and they shall come forth with power, and with,  
 gladness of heart, and with much substance
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_garwood_ver02:data:sn84029385:00237285219:1887101301:0566/pct:109.97536945812809,86.07479822666818,16.717980295566502,29.282710014777766/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_garwood_ver02:data:sn84029385:00237285219:1887101301:0566/pct:82.51963653164947,64.55609867000113,12.55197905436624,21.973400022735024/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7299,7 +7299,7 @@ four hundred years in a strange land.
 and they shall oome forth with power, and with  
 gladness of henrt, nnd with much substnnoe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_imbe_ver01:data:sn98062948:00340581064:1887101301:1457/pct:14.842691555020322,68.27963242991741,10.642781875658589,20.076770966616262/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_imbe_ver01:data:sn98062948:00340581064:1887101301:1457/pct:14.846454914948065,68.27963242991741,10.650308595514074,20.08840293125509/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7426,7 +7426,7 @@ deliver them, and they shall come forth
 with power, and with gladness of heart,  
 and with much substance
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029838:00237283107:1887102001:0381/pct:2.046525323910483,1.569482288828338,139.89988221436985,143.1607629427793/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029838:00237283107:1887102001:0381/pct:1.36986301369863,1.0463215258855585,93.31271173957873,95.4441416893733/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7529,7 +7529,7 @@ deliver them, and they shall come
 forth with power, and with gladness of  
 heart, and with much substance
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291116:1887102101:0118/pct:15.497398707236323,17.284240150093808,53.71275421724736,76.2546904315197/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291116:1887102101:0118/pct:15.509222765253035,17.284240150093808,53.72063692259184,76.2576219512195/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7635,7 +7635,7 @@ I deliver them, and they shall come
 forth with power, and with gladness  
 of heart, and with much substance
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_iago_ver01:data:sn82016412:00294551979:1887110201:0429/pct:40.38610038610039,11.901015591474753,15.617760617760618,71.67787154913461/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_iago_ver01:data:sn82016412:00294551979:1887110201:0429/pct:30.295423826993627,8.925761693606065,11.720409345433481,53.76913174080961/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7719,7 +7719,7 @@ four hundred years in a strange land.
 and they shall come forth with power, and with  
 gladness of heart, and with much substance
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_ingalls_ver02:data:sn84027670:00237283417:1887110301:0401/pct:201.80180180180182,156.46425073457394,42.55024255024255,107.14985308521058/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_ingalls_ver02:data:sn84027670:00237283417:1887110301:0401/pct:50.459192514295616,39.116062683643484,10.639403916132386,26.787463271302645/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7891,7 +7891,7 @@ come forth with power and with glad­
 ness of heart, and with much sub­  
 stance
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_americanrobin_ver01:data:2010270509:00517013882:1887111001:0510/pct:17.946910970166783,14.32192648922687,15.151515151515152,43.631178707224336/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_americanrobin_ver01:data:2010270509:00517013882:1887111001:0510/pct:17.942696101456082,14.319657848883256,15.153828088304369,43.62822746713132/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7982,7 +7982,7 @@ away on the morrow with gifts.
 Abraham saying, For this sin scull  
 thy seed be, afHictod 400 fears in 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_echo_ver01:data:sn85038119:00237282668:1887111001:0341/pct:113.78344741754823,24.353421606236854,12.896701929060361,51.515901497339435/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_echo_ver01:data:sn85038119:00237282668:1887111001:0341/pct:85.3852140077821,18.265066204677638,9.680933852140077,38.646207152580125/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8074,7 +8074,7 @@ come forth with power and with glad­
 ness of heart, and with much sub­  
 stance.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_daikon_ver02:data:sn97065762:00332899661:1887111201:0598/pct:23.457388774396897,15.65180102915952,13.383440417020244,40.8147512864494/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_daikon_ver02:data:sn97065762:00332899661:1887111201:0598/pct:23.461429668242616,15.654659805603202,13.383440417020244,40.8147512864494/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8291,7 +8291,7 @@ deliver them, and they shall come forth
 with power, and with gladness of heart  
 and with much substanc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_echo_ver03:data:sn86064205:00206535611:1887112501:0474/pct:110.20142949967511,144.48058989373237,59.51916829109812,168.3691173281284/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_echo_ver03:data:sn86064205:00206535611:1887112501:0474/pct:27.55931101722457,36.12014747343309,14.884627884302892,42.0922793320321/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8616,7 +8616,7 @@ all things.
 s. Vml \ i iham - zeal wa- kindled  
 aga&#x27;m-t th- man. and lie ar* »-•• ami drov
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:00332895321:1889080801:0136/pct:55.377648390748824,14.07909893766799,9.865760957464014,11.698451299116856/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:00332895321:1889080801:0136/pct:55.36869340232859,14.077297158945482,9.868208279430789,11.70015357051446/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8643,7 +8643,7 @@ ing the remarks of the Scripturanians up­
 on it, w hich were sometimes very divert­  
 ing
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:00332895321:1889080801:0136/pct:55.29678149765486,79.54690899782413,9.833414200226427,5.132471521822604/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:00332895321:1889080801:0136/pct:55.28783958602846,79.53672894804198,9.835866752910738,5.135014077297159/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8744,7 +8744,7 @@ years in a strange land.
 them, and tiicv shall come forth  
 with power and witfi gladness of heart
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_denmark_ver01:data:sn84026844:00202193560:1891061101:0669/pct:15.86917019987886,7.951974943448755,18.837068443367656,42.317730990081785/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_denmark_ver01:data:sn84026844:00202193560:1891061101:0669/pct:15.884312537855845,7.965025230555073,18.837068443367656,42.330781277188095/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9089,7 +9089,7 @@ liver them, and they Bhall come forth with
 power and with gladness of heart.  
 The author of this pseudo-biblical cu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_columbo_ver02:data:sn86063034:00414182057:1891062201:0187/pct:54.80805068952665,31.76372248537197,16.38091688408498,46.78183337977153/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_columbo_ver02:data:sn86063034:00414182057:1891062201:0187/pct:42.48507606393222,24.62031238753329,12.694974003466205,36.26646512632261/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9197,7 +9197,7 @@ hundred years in a strange land.
 liver them, and they shall come forth with  
 power and with gladness of heart
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn91068247:00296023048:1891062601:0322/pct:73.08126410835214,19.655283160261213,34.55135440180587,106.690932448346/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn91068247:00296023048:1891062601:0322/pct:54.8264182895851,14.74146237019591,25.924357888794805,80.02355208221817/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9302,7 +9302,7 @@ forthwith powrer and with gladnesi
 of heart.  
 The author of this pseudo-hiblic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_bones_ver01:data:sn84026824:00271767857:1891062601:0103/pct:72.55883148498783,30.08415147265077,11.65810116310522,50.91164095371669/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_bones_ver01:data:sn84026824:00271767857:1891062601:0103/pct:72.5678478045262,30.090830160956386,11.653593003336038,50.91164095371669/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9481,7 +9481,7 @@ them, and they shall come forth with
 power and with&#x27; gladness of heart.  
 The author of this pseudo-Biblical curios
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_ingalls_ver02:data:sn82014635:00237286728:1891070201:0275/pct:27.56828978622328,73.66277790006603,37.796912114014255,58.815760510675766/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_ingalls_ver02:data:sn82014635:00237286728:1891070201:0275/pct:18.38158871566444,49.10851860004402,25.211581291759465,39.21417565485362/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9550,7 +9550,7 @@ with blows into the wilderness.
 upon Abraham, saying, Abraham,  
 where is the stranger that came b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_kittitas_ver01:data:sn84022770:00200291128:1891070301:0190/pct:33.96980461811723,15.759806741056023,29.928952042628776,80.6971126193489/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_kittitas_ver01:data:sn84022770:00200291128:1891070301:0190/pct:33.96980461811723,15.759806741056023,29.947454114860864,80.70574025077649/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9597,7 +9597,7 @@ deliver them, and they shalt come
 forth with power and with gladness of  
 heart.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_kittitas_ver01:data:sn84022770:00200291128:1891070301:0190/pct:44.449378330373,46.29011848613827,9.946714031971581,18.03750143793857/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_kittitas_ver01:data:sn84022770:00200291128:1891070301:0190/pct:44.456779159265835,46.29011848613827,9.946714031971581,18.043253192223627/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9969,7 +9969,7 @@ Abraham, saying, Abraham, where is the
 stranger that came by the way of the tent  
 at the going down of the sun
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024653:00393349591:1891071701:0368/pct:52.195754334791765,17.686557709362727,10.030789175174203,14.088432788546813/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024653:00393349591:1891071701:0368/pct:52.18729747245625,17.684317202938942,10.033214517174336,14.089815049404612/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10012,7 +10012,7 @@ them, and they shall come forth with
 power and with gladness of heart.  
 The author of this pseudo-Biblical curios
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024653:00393349591:1891071701:0368/pct:52.14713984767461,31.82566831369568,10.079403662291362,11.70657544659825/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024653:00393349591:1891071701:0368/pct:52.13869086195723,31.821636686090702,10.081821127673363,11.708259437547504/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10215,7 +10215,7 @@ i,„ i /m 1 i ., As she did not assert her individual
   
 to Chicago and or- 5 And Abraham pressed him greatly, so
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_bermuda_ver01:data:sn99062858:00415625121:1891072501:0683/pct:40.05449591280654,13.465529167627393,39.862157397018755,9.142264237952501/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_bermuda_ver01:data:sn99062858:00415625121:1891072501:0683/pct:40.0598386493562,13.469372069787104,39.86750013356841,9.146107140112212/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10253,7 +10253,7 @@ into the wilderness. &quot;At 3 o&#x27;clock I will return. If there is no
 11. And God said, Have I not borne with change in her condition I will then  
 nun these hundred and ninety and eignt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_bermuda_ver01:data:sn99062858:00415625121:1891072501:0683/pct:51.96345568200032,27.495964952732304,28.22567719185767,10.61793866728153/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_bermuda_ver01:data:sn99062858:00415625121:1891072501:0683/pct:51.96879841854998,27.495964952732304,28.236362664956992,10.621781569441241/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10270,7 +10270,7 @@ nun these hundred and ninety and eignt
 them, and they shall come forth with  
 power and with gladness of heart
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_bermuda_ver01:data:sn99062858:00415625121:1891072501:0683/pct:51.96345568200032,43.88978556605949,13.7842602981247,1.0029974636845747/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_bermuda_ver01:data:sn99062858:00415625121:1891072501:0683/pct:51.974141155099645,43.8936284682192,13.778917561575039,1.0106832680039965/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10302,7 +10302,7 @@ strange land.
   
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_bermuda_ver01:data:sn99062858:00415625121:1891072501:0683/pct:51.562750440775766,38.44823610790869,28.45007212694342,4.980401198985474/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_bermuda_ver01:data:sn99062858:00415625121:1891072501:0683/pct:51.57343591387509,38.44823610790869,28.44472939039376,4.984244101145185/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10380,7 +10380,7 @@ them, and they shall come forth with
 power am! with gladness of heart.  
 The antho&quot; of this pseudo-Biblical curios
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_jane_ver01:data:sn86086770:00271768850:1891072501:0415/pct:53.45554150863885,14.169586545199719,14.917825537294563,32.19341275402943/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_jane_ver01:data:sn86086770:00271768850:1891072501:0415/pct:53.45554150863885,14.169586545199719,14.931872453996348,32.202756365335205/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10546,7 +10546,7 @@ forth with power and with gladnoss of
 heart.  
 The author of this pseudo-biblica
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_chelsea_ver01:data:sn85038709:00415669276:1891073101:0796/pct:29.74644403215832,19.14149443561208,21.861471861471863,59.66083730789613/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_chelsea_ver01:data:sn85038709:00415669276:1891073101:0796/pct:19.84225177853387,12.760996290408055,14.583977729662852,39.77742448330684/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10740,7 +10740,7 @@ I t. Ar.d ( iovi spr.i. e again unto Abraham,
 cajtaj, fur ti ts thy sin against the stranger,  
 thy seed -hall be afflicted 400 years in 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_marmaduke_ver02:data:sn89066695:00415661769:1891080601:0401/pct:45.658557046979865,17.706355003652302,15.708892617449665,33.513513513513516/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_marmaduke_ver02:data:sn89066695:00415661769:1891080601:0401/pct:34.2563457100902,13.279766252739226,11.789385357667296,25.14243973703433/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10827,7 +10827,7 @@ liver them, and they shall come forth
 with power and with gladness of heart.  
 The author of this pseudo-Biblica
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_animals_ver01:data:sn92051501:00271763645:1891082001:0125/pct:111.54295733489188,63.57519345071212,15.195791934541203,37.781765167657284/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_animals_ver01:data:sn92051501:00271763645:1891082001:0125/pct:83.70121327291332,47.68419872154312,11.40184183598889,28.33912750925199/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10878,7 +10878,7 @@ Abraham, saying, Abraham, where is the
 stranger that came by the way of the tent  
 at the going down of the sun
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_denton_ver02:data:sn86090439:00517175468:1891082601:0386/pct:42.474370922646784,23.55019134530468,16.821994408201306,19.222843685604946/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_denton_ver02:data:sn86090439:00517175468:1891082601:0386/pct:42.486020503261884,23.557550780100087,16.816169617893756,19.22652340300265/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10923,7 +10923,7 @@ them, aud they shall come forth with
 power and wit h gladness of heart.  
 The author of this pseudo-Biblical curios
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_denton_ver02:data:sn86090439:00517175468:1891082601:0386/pct:42.49767008387698,42.86134824845452,16.821994408201306,15.940535766853106/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_denton_ver02:data:sn86090439:00517175468:1891082601:0386/pct:42.515144454799625,42.86870768324992,16.816169617893756,15.94421548425081/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11065,7 +11065,7 @@ age, came from the way of the wil- baß&gt; b7 lbe Burvival °i the fittest in­
 derness, leaning on a staff. creased this endurance tenfold. Ho is  
 3. And Abraham arose and met him “91 handsome. His middle piece i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_laramie_ver03:data:sn92067047:0051415076A:1891090901:0406/pct:37.771053958648515,6.476399560922063,28.69389813414019,10.958653494328576/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_laramie_ver03:data:sn92067047:0051415076A:1891090901:0406/pct:37.78996469994957,6.48097328942554,28.68129097327282,10.958653494328576/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11095,7 +11095,7 @@ leavened bread and they did eat cont Plcce’, One ,Ol™ ,of racinff ls to
 heaven and earth. cross the first turn between the two,  
 7. And.the man answered and said, and gallop back to the starting poin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_laramie_ver03:data:sn92067047:0051415076A:1891090901:0406/pct:37.39283913262733,17.361873399195023,28.794755421079174,8.909623124771313/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_laramie_ver03:data:sn92067047:0051415076A:1891090901:0406/pct:37.405446293494705,17.371020856201977,28.801059001512858,8.923344310281742/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11120,7 +11120,7 @@ with blows into the wilderness. apt 1,0111 to Btart curbs and breuk 1118
 9. And at midnight God called upon n£Tß* &lt; v j .  
 Abraham, saying, Abraham, where is Tho “Wbness and strength of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_laramie_ver03:data:sn92067047:0051415076A:1891090901:0406/pct:37.39283913262733,26.180021953896816,28.769541099344426,6.220270764727406/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_laramie_ver03:data:sn92067047:0051415076A:1891090901:0406/pct:37.405446293494705,26.18916941090377,28.769541099344426,6.224844493230882/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11145,7 +11145,7 @@ tho tent, and when he hnd entertained ,fbero 81ml&gt;ly ooond f 0 this wonder-
 I him kindly he sent him away on the ,ul P,oduct of ‘h° Prarlc?- yo,klJ  
 • morrow with many gifts. many years. So long as he will fat u
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_laramie_ver03:data:sn92067047:0051415076A:1891090901:0406/pct:37.39283913262733,40.50493962678375,28.71911245587494,6.293450420783023/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_laramie_ver03:data:sn92067047:0051415076A:1891090901:0406/pct:37.405446293494705,40.514087083790706,28.706505295007563,6.288876692279547/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11166,7 +11166,7 @@ I tho stranger, thy seed shill bo afflicted ’“ffß®9t9 tho curious query of
 deliver them, and they shall come areways of accounting for this.  
 &#x27; forth with power and with gladness of Tlo lndinn 8 »a« bit- m&#x27;ariably appli
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_laramie_ver03:data:sn92067047:0051415076A:1891090901:0406/pct:37.39283913262733,46.59714599341383,28.69389813414019,4.043175997072813/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_laramie_ver03:data:sn92067047:0051415076A:1891090901:0406/pct:37.405446293494705,46.61086717892426,28.68129097327282,4.0386022685693375/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

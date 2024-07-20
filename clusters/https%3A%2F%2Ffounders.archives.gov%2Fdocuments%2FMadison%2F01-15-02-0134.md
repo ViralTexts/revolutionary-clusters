@@ -446,7 +446,7 @@ without a rival. It was well known that
 this and the other apparent favors to this  
 country, were a remnant of the Old Colo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794030401:0001/pct:48.665364583333336,13.99276236429433,39.713541666666664,76.25653397667872/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794030401:0001/pct:48.673502604166664,14.007840772014475,39.754231770833336,76.25150784077202/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -583,7 +583,7 @@ minating duties in Great Britain in favor
 &#x27;■&#x27;gh.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794030401:0002/pct:10.350529100529101,5.856039040260268,19.477513227513228,80.35786905246034/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794030401:0002/pct:10.350529100529101,5.861122407482717,19.527116402116402,80.37820252135015/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -700,7 +700,7 @@ fi(heries, changed the true afpeft of the at­
 tempt to draw away the- Nantucket fifli­  
 ermen. The faS was, that although- tfce
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794030501:0001/pct:68.31841432225065,17.346938775510203,19.437340153452684,73.54941976790717/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794030501:0001/pct:68.34239130434783,17.346938775510203,19.445332480818415,73.5594237695078/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1018,7 +1018,7 @@ position of the Secretary of State, was
 well founded.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794030501:0002/pct:11.136363636363637,7.647531112003212,60.0,84.28342031312725/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794030501:0002/pct:11.160714285714286,7.657567242071457,60.008116883116884,84.28342031312725/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1134,7 +1134,7 @@ return of our exports, that the dired ex­
 ports of this article to France, -(lands at  
 3 8+.641 dollars. The indirect fupplios
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794030601:0001/pct:68.89386189258312,24.509018036072145,19.501278772378516,67.1943887775551/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794030601:0001/pct:68.90984654731457,24.519038076152306,19.517263427109974,67.1993987975952/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1340,7 +1340,7 @@ Mr.Sedgwick of the committee to whom
 was referred the resolution of the House,  
 authorizing the President of the United
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794030601:0002/pct:11.760925449871465,8.054772452678211,39.49228791773779,84.91743858236005/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794030601:0002/pct:11.768958868894602,8.064840918244059,39.50835475578406,84.9275070479259/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1560,7 +1560,7 @@ of adjournment being nearly arrived, he fat
 down, with an intimation that the fubjecft  
 would be renewed.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794030701:0002/pct:11.955128205128204,7.373737373737374,40.16025641025641,84.84848484848484/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794030701:0002/pct:11.963141025641026,7.373737373737374,40.16826923076923,84.84848484848484/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1654,7 +1654,7 @@ by the British government, and pro­
 rl by th post* which &lt;&gt;t right were  
 on fsii and ought to be mcd tor p&#x27;u
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807080701:0002/pct:40.38337281929787,2.1911804984935634,38.05729054490631,95.9463160777869/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807080701:0002/pct:40.39773135185584,2.2003104172372865,38.05729054490631,95.95088103715877/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1714,7 +1714,7 @@ Algerine depredations 000,000
 lb sunt nee not reduced by the  
 nay i , nt 1/00,00
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807081401:0003/pct:3.7816018695559803,22.13855421686747,18.10070108349267,28.36801752464403/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807081401:0003/pct:3.7816018695559803,22.143117926250458,18.10070108349267,28.372581234027017/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1743,7 +1743,7 @@ vations, tiie hour t.t aj&#x27; unnnent being
 timation that toe bUbject would he re­  
 cew
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807081401:0003/pct:4.2065009560229445,62.62322015334063,17.99447631187593,9.446878422782037/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807081401:0003/pct:4.213582607464061,62.63234757210661,18.001557963317044,9.446878422782037/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1847,7 +1847,7 @@ sum that wi&#x27;itid probably be sufficient for
 the ilt fence ct our frontiers, if the posts  
 were incur hands. The furtiadetli-ptnd
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807081501:0266/pct:76.43481565944508,19.58396752917301,18.07297605473204,52.52409944190766/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807081501:0266/pct:76.42029260877827,19.58148383005707,18.07587560960162,52.52166560980765/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

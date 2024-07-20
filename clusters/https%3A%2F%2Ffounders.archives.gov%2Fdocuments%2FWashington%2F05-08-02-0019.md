@@ -106,7 +106,7 @@ required for parks, walks, squares, &amp;s ,the present pro­
 prietors shall be allowed £25 per acre. Nothing is to be  
 allowed for ground taken for streets and alleys.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barnes_ver02:data:sn83030362:print00211110041:1853041001:0001/pct:34.987384356602185,29.476613507438724,9.629941126997476,5.769024938456599/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barnes_ver02:data:sn83030362:print00211110041:1853041001:0001/pct:34.99789739276703,29.479289307502942,9.622932436220914,5.7770523386492565/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -149,7 +149,7 @@ is made of those lots, which, by this agreement, become
 public property. Nothing is to lie allowed for the grounds  
 which may he occupied for streets and alleys.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82006534:00415661083:1857072401:0349/pct:83.7696335078534,71.38731952291275,17.594796128827543,13.67231638418079/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82006534:00415661083:1857072401:0349/pct:83.7696335078534,71.39568947478551,17.60008461579142,13.676501360117179/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -193,7 +193,7 @@ which, by this agreement, become public proper­
 ^othin? ^ allowed for the grounds  
 which may be occupied for streets and alleys.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kuvasz_ver02:data:sn83045462:00280654097:1857072501:0509/pct:33.90612569610183,5.717811600164541,16.610978520286395,12.320032908268203/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kuvasz_ver02:data:sn83045462:00280654097:1857072501:0509/pct:33.91010342084328,5.722953517071164,16.60700079554495,12.317461949814891/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -427,7 +427,7 @@ THE DUTY OF THE NATION TOWARD ITS CAPITAL
 of the United States, with the landholders of  
 Georgetown
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_rottweiler_ver01:data:sn83045462:00280654723:1889042701:0327/pct:42.24589886690343,42.722049317692125,13.800101471334347,1.3646157529327267/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_rottweiler_ver01:data:sn83045462:00280654723:1889042701:0327/pct:42.24589886690343,42.72504189609768,13.817013360392355,1.3735934881493894/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -459,7 +459,7 @@ owners a plan of the city is contradicted I
 by the language of the above letter. A  
 rough sketch of the White House and the 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pug_ver01:data:sn83045462:00280654929:1894011201:0373/pct:57.23887375113533,22.406639004149376,14.713896457765667,7.235477178423237/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pug_ver01:data:sn83045462:00280654929:1894011201:0373/pct:57.23887375113533,22.40988070539419,14.727520435967303,7.251685684647303/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

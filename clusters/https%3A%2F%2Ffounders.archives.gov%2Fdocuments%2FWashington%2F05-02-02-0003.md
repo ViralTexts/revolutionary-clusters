@@ -171,7 +171,7 @@ w ithout that competency of political slnfi, abi­
 lities, and inclination, winch are necessary to  
 manage the helm.”* The message at lengt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215671:1840071601:0646/pct:37.67843310833241,65.26211520877781,14.77260152705544,6.415726912526669/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215671:1840071601:0646/pct:37.674264217747286,65.25714285714285,14.774655159696097,6.417777777777777/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -347,7 +347,7 @@ ing of life, nearly consumed in public cares, to quit
 a peaceful abode for an ocean of difficulties.” He,  
 however, informed Mr Thompson that at the en
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014869:0027955727A:1855060901:0366/pct:71.35124685868935,52.481974486966166,16.470133384883045,6.891292290626733/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014869:0027955727A:1855060901:0366/pct:71.35124685868935,52.48890737659456,16.484631741735935,6.894758735440932/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -376,7 +376,7 @@ ning of life, nearly consumed in public
 cares, to quit a peaceful abode for an ocean  
 of difficulties.&quot; He, however informed Mr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_gonne_ver01:data:sn88067030:00202190121:1855062301:0053/pct:23.9945155393053,126.60377358490567,52.65082266910421,30.141509433962263/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_gonne_ver01:data:sn88067030:00202190121:1855062301:0053/pct:7.998171846435101,42.20125786163522,17.550274223034734,10.047169811320755/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -497,7 +497,7 @@ helm. I am ecnsiblo that I am em­
 barking a good name of my own en (  
 this voyage, and what return will b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035083:00296027169:1871042701:0067/pct:110.56985294117646,21.717423864203695,14.322916666666666,8.087868197703445/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035083:00296027169:1871042701:0067/pct:82.96046582899173,16.28806789815277,10.741648789457555,6.065901148277583/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -523,7 +523,7 @@ sensible that I aui embarking a good name
 of my own on this voyage, and what return  
 ■will he made, Heaven can only foretell
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291062:1871050601:0424/pct:6.781631466770006,55.1627777001537,14.202673900406898,8.369428531507616/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291062:1871050601:0424/pct:6.796163534198799,55.169763867542265,14.192985855454369,8.36593544781333/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -613,7 +613,7 @@ firmness are all I can promise. These,
 be the voyage long or short, shall  
 never forsake me.” The State Affair
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159191:1880022601:0458/pct:35.012524352908436,84.8528276926469,9.85249095463401,6.945210009921729/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159191:1880022601:0458/pct:35.02180165135913,84.86017712122883,9.861768253084701,6.941535295630764/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -751,7 +751,7 @@ helm.&quot; His whole life had bceu spent in re­
 peated sacrifices for his country&#x27;s welfare, and  
 he did nor hesitate now, though there is an un
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_keswick_ver01:data:sn85042460:00280769265:1889050101:0008/pct:77.83737395408711,65.77907827359181,13.688049774726453,4.301389904901243/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_keswick_ver01:data:sn85042460:00280769265:1889050101:0008/pct:77.84452549524423,65.77907827359181,13.688049774726453,4.311143623506462/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -778,7 +778,7 @@ nation, which are necessary to manage the helm.&quot;
 His wholo life had been spent in reoeated sacri­  
 fices for his country&#x27;s welfare, and he did no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_ashbel_ver01:data:sn82015679:00295870333:1889050101:0013/pct:7.8841870824053455,84.75208044382802,16.280623608017816,6.154646324549237/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_ashbel_ver01:data:sn82015679:00295870333:1889050101:0013/pct:5.91445756293161,63.56622746185853,12.21875696146135,4.620319001386963/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -826,7 +826,7 @@ life, nearly consumed in public cares, to quit
 a peaceful abode for an ocean of difficult!»*,  
 without that competency of political skill
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_graftonnotch_ver01:data:sn83016025:00414210909:1889050101:0488/pct:71.78241103621258,71.2887631175569,10.362125725035272,2.7237354085603114/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_graftonnotch_ver01:data:sn83016025:00414210909:1889050101:0488/pct:71.77115987460814,71.28035840603631,10.364420062695924,2.7263617071445414/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -873,7 +873,7 @@ tency of notitieal skill, abilities audio
 elination, which are necessary to manage  
 tie aelm.&quot;* His wbote tt#a had been spen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_dungeness_ver03:data:sn83045604:00202198995:1889050101:0560/pct:126.62177020340846,39.500152392563244,32.00934579439252,11.368485217921366/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_dungeness_ver03:data:sn83045604:00202198995:1889050101:0560/pct:42.20725673446949,13.166717464187748,10.669781931464174,3.789495072640455/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1010,7 +1010,7 @@ tency of political skill. abilities and incli­
 nation. which are necesaarr to  
 manalre the helm.&quot; His whole its ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_bittern_ver01:data:sn86072021:no_reel:1889050201:1006/pct:109.51500205507604,209.5859872611465,41.94410193177148,17.085987261146496/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_bittern_ver01:data:sn86072021:no_reel:1889050201:1006/pct:36.505000685025344,69.8619957537155,13.981367310590493,5.695329087048832/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1055,7 +1055,7 @@ the consolations which are to be derived
 from these under any circumstances tho  
 world cannot deprive me.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_detroit_ver02:data:sn96077385:00296023589:1889050301:0088/pct:34.20275590551181,29.418319589926455,21.309055118110237,5.683084466235792/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_detroit_ver02:data:sn96077385:00296023589:1889050301:0088/pct:22.80557834290402,19.61221305995097,14.208367514356029,3.788722977490528/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1085,7 +1085,7 @@ II is whole life had been spent in repeat
 ed sacrifices for his country&#x27;s welfare,  
 and he did not hesitate now, thoug
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_hedgehog_ver01:data:sn82015133:00211104661:1889050401:0033/pct:59.025,6.197572288562124,32.475,140.2348761472417/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_hedgehog_ver01:data:sn82015133:00211104661:1889050401:0033/pct:39.35983995999,4.135004440935557,21.655413853463365,93.48662784960031/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

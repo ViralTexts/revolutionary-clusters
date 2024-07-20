@@ -107,7 +107,7 @@ having discovered a runaway slave on board,
 who nad secreted himself the night before the  
 vessel sailed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216432:1830061601:0065/pct:1.82381280110117,4.9856184084372,36.26978664831383,54.48226270373922/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216432:1830061601:0065/pct:1.8234990538448306,4.985020970641102,36.269281495498596,54.47972838026762/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -175,7 +175,7 @@ ter whether between nationt or the component pails
 of the name nation &quot;  
 To whom thi* hatter and Outline were addressed b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184042:1830061801:0049/pct:34.1962053243124,2.8206309002993324,30.592734225621413,94.75017269168778/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184042:1830061801:0049/pct:34.19117647058823,2.8203062046736505,30.59313725490196,94.74310272054026/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -254,7 +254,7 @@ rn&#x27;io applicable tu eiLeuie cases, vvaether
 between nation and nstinn, or the “omponent  
 parts ot the same nation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1830062401:0772/pct:31.230217345431527,5.159420289855072,30.47056341000211,91.47826086956522/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1830062401:0772/pct:31.223628691983123,5.158672656136792,30.469409282700422,91.46862773511086/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -395,7 +395,7 @@ clared to ne paramount to those of individual
 States, and appellative supremacy vested in  
 the judicial power o! the United States,&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215713:1842111401:0392/pct:51.21642662514597,82.01760147116774,15.073958738808875,9.542887166688558/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215713:1842111401:0392/pct:51.211443028121046,82.01221514415184,15.075735461061917,9.54444955233029/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -418,7 +418,7 @@ f the Unided Slates are declared to be parumeunt
 of the individual States, and appellative supreinas  
 y vested in the judicial power of the United Sta
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347892:1842112101:0544/pct:332.12214920757634,112.63622974963181,61.40316969462698,17.746686303387335/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347892:1842112101:0544/pct:83.01449275362319,28.154910911500515,15.347826086956522,4.4360182594610515/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -458,7 +458,7 @@ imposed without their assent by those
 on the Atlantic or the gulf, for their  
 own benefit? Shall there be a free por
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156360:1851010801:0419/pct:184.44444444444446,230.70278759324697,169.40740740740742,37.534354142127995/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156360:1851010801:0419/pct:46.111111111111114,57.67569689831174,42.351851851851855,9.383588535531999/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -437,7 +437,7 @@ ness, that U consistent with the security of him,
 should ho shown to thu unfortunate person  
 whono lot It Is to suffer.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1876070801:0009/pct:43.01499605367009,67.33011660635303,12.89134438305709,5.749899477281866/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1876070801:0009/pct:43.034727703235994,67.34016887816647,12.897921599579059,5.749899477281866/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -457,7 +457,7 @@ lieutenant, under the same circumstances
 from among the prisoners at auy of the  
 posts, either in Pennsylvania or Maryland.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685300:1883070501:0110/pct:61.424237585821494,88.32134292565948,10.921283729841928,2.5419664268585134/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685300:1883070501:0110/pct:61.41443167305236,88.31075410622228,10.923531289910601,2.5446589137993048/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -299,7 +299,7 @@ And waits upon the judgment.’
 An agez when man begins to think of the pall and  
 the tomb, not the nuptial couch; when he con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_angelou_ver01:data:sn83030362:print00211110028:1847032801:0002/pct:73.04987212276215,8.318436419973782,10.581841432225064,1.465856274579907/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_angelou_ver01:data:sn83030362:print00211110028:1847032801:0002/pct:73.06186061381074,8.318436419973782,10.5778452685422,1.465856274579907/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -316,7 +316,7 @@ say, that at a certain age—
 &quot; The hey-day in the blood is tame, it’s humble  
 And waits upon the judgment.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_angelou_ver01:data:sn83030362:print00211110004:1849070801:0002/pct:65.39048200122025,61.251448435689454,9.334960341671751,0.9385863267670915/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_angelou_ver01:data:sn83030362:print00211110004:1849070801:0002/pct:65.39810860280659,61.25724217844728,9.331147040878584,0.944380069524913/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -388,7 +388,7 @@ And melt in her own fire I
 Nothing can be finer in its way than Forrest’s  
 manner of heating himself in the enthusiasti
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_collins_ver01:data:sn83030364:print00211110107:1860120801:0006/pct:67.91695743196092,42.329367564182846,11.985345429169575,2.9931120851596744/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_collins_ver01:data:sn83030364:print00211110107:1860120801:0006/pct:67.91695743196092,42.33249843456481,11.989706908583392,2.9899812147777083/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -419,7 +419,7 @@ for at Col. Houston&#x27;s age, the &quot;hey-diy in
 the blood is tame; it&#x27;s humble, and waits  
 upon the judgment.&quot; Therefore, giving th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_earhart_ver01:data:sn84027691:00237283338:1873090401:0520/pct:33.10199155099578,48.27420324714372,13.126131563065782,4.60613349368611/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_earhart_ver01:data:sn84027691:00237283338:1873090401:0520/pct:24.841533353456082,36.21166566446182,9.855116208874133,3.4515935057125677/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -436,7 +436,7 @@ You cannot call it love, for af your age
 The heydey in the blood is tame  
 It&#x27;s humble, and waits upon the judgment
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crowfoot_ver01:data:sn83030313:00271743907:1875072601:0301/pct:200.2198545577541,265.05954445600645,35.295112464062235,3.6767256330211584/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crowfoot_ver01:data:sn83030313:00271743907:1875072601:0301/pct:66.73995151925136,88.3531814853355,11.765037488020745,1.2255752110070528/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -602,7 +602,7 @@ And waits upon the judgment; and what
 judgment  
 Would step from this to this
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_tower_ver01:data:sn90059523:00206536925:1896051801:0242/pct:31.12719751809721,69.24130663856691,12.409513960703206,2.1390937829293994/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_tower_ver01:data:sn90059523:00206536925:1896051801:0242/pct:31.12719751809721,69.2483315770987,12.424287191608805,2.1390937829293994/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

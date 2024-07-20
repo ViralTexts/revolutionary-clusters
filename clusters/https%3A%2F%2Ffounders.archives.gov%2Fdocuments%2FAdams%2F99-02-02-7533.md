@@ -261,7 +261,7 @@ That I may not fatigue you with too
 many words, allow me to addreu ev?r?  
 one ot you in the language of a P‘I 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn83026170:00414216304:1821082701:0132/pct:61.302549965541004,43.928004235044995,18.55616815988973,46.384330333509794/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn83026170:00414216304:1821082701:0132/pct:61.291989664082685,43.9233538005505,18.5587137525122,46.382948690803865/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -406,7 +406,7 @@ master ol the horse, after a daring mid dan­
 gerous exploit for the safety of bis country, m  
 “Mtcte Virtute uto.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1821083101:0135/pct:79.54472587367746,43.829433424397195,17.104841295286953,37.367858415488776/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1821083101:0135/pct:79.53197627824972,43.82422802850356,17.107442432013677,37.3673792557403/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -540,7 +540,7 @@ mi Milton ?? east pale and dreadful,*
 or ilie &quot;sudden hia/.e which far  
 round illumined hell.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1821110701:0226/pct:20.732149329467198,4.912364373435078,23.68611815875317,12.602837725050673/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1821110701:0226/pct:20.732149329467198,4.920313183100831,23.69215899480488,12.598863320217797/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -571,7 +571,7 @@ milar fate, and their glory he com­
 pared with the *? siidden blaze which  
 far round illumined lu ll.*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1821110701:0226/pct:26.73069952881479,22.248718254441396,17.905038057267127,11.92321449862883/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1821110701:0226/pct:26.73069952881479,22.25666706410715,17.917119729370544,11.919240093795954/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

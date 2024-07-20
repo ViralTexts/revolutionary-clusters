@@ -117,7 +117,7 @@ ture to the living, their title can extend to the
   
 earth in its natural stale only. The improv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_eiffel_ver02:data:sn87065340:00295877765:1843080801:0291/pct:61.5,336.43973214285717,75.91666666666667,13.113839285714286/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_eiffel_ver02:data:sn87065340:00295877765:1843080801:0291/pct:15.375,84.10993303571429,18.979166666666668,3.2784598214285716/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -138,7 +138,7 @@ This debt cannot be otherwise discharged,
 than by a proportionate obedience to the will  
 of the authors of the improvements.&quot; Such i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_eiffel_ver02:data:sn87065340:00295877765:1843080801:0291/pct:61.333333333333336,348.828125,154.83333333333334,14.229910714285714/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_eiffel_ver02:data:sn87065340:00295877765:1843080801:0291/pct:15.333333333333334,87.20703125,38.708333333333336,3.5574776785714284/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -176,7 +176,7 @@ salutary restraint on living generations from
 unjust unu uuiieueasury uiiiveii&quot;, on their  
 successors, we tltid la o:T State constitu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_frank_ver01:data:sn86053406:00296020813:1876050501:0126/pct:98.17201472908995,75.29854046881911,12.716991057338243,2.8416629809818663/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_frank_ver01:data:sn86053406:00296020813:1876050501:0126/pct:73.65167061299658,56.47943387881468,9.550118389897396,2.1340114993365766/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -228,7 +228,7 @@ former.&quot;
 According to the doctrine of Mr.  
 Jefferson, even as expounded by th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jimmy_ver02:data:sn88061082:00296020606:1876100701:0164/pct:75.18015521064302,51.98267244251916,12.874168514412418,21.20404309674553/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jimmy_ver02:data:sn88061082:00296020606:1876100701:0164/pct:56.404214028278346,38.98700433188937,9.661768782922096,15.905809174719538/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -418,7 +418,7 @@ premedy for the evils necessarily springing
 from ansunlimited admission of the con­  
 grary octrinettfof whether w be posatul
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00415664412:1879090601:0240/pct:39.33674844971691,87.69445738239403,52.85791318414667,183.9310666045645/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00415664412:1879090601:0240/pct:13.112249483238969,29.231485794131345,17.619304394715556,61.310355534854835/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -464,7 +464,7 @@ truths which are seen through the medinm
 of phllosophy become visible to the naked  
 eye of the ordinary politmian.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00415664412:1879090601:0240/pct:91.03531949312483,7.2007452258966,44.189808573739555,43.83791336748952/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00415664412:1879090601:0240/pct:30.345106497708276,2.4002484086322,14.729936191246518,14.612637789163173/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -556,7 +556,7 @@ The rich have as clear a right to their liberty
 and property as the poor. It is essential to  
 liberty that the rights of the rich be secured; i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:00175042933:1897041301:0388/pct:287.53731343283584,111.85776706343228,50.149253731343286,34.232333885791775/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:00175042933:1897041301:0388/pct:71.91116088092572,27.96444176585807,12.541993281075028,8.558083471447944/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -626,7 +626,7 @@ liberty and property as the poor It is
 essential to liberty that the rights of thq  
 rich be secured if they are not the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_airplane_ver01:data:sn86069309:00100481728:1897042101:0735/pct:42.10134128166915,53.530655391120504,16.225782414307005,16.87103594080338/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_airplane_ver01:data:sn86069309:00100481728:1897042101:0735/pct:31.58777487886694,40.15503875968992,12.187849422288483,12.653276955602538/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -652,7 +652,7 @@ wise discharged than by a proportion
 ate obedience to the will of the authors  
 of the improvements. James Madison
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn90061417:00294559991:1897051401:0082/pct:278.3203125,33.88481154372435,44.596354166666664,18.55952232864784/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn90061417:00294559991:1897051401:0082/pct:69.580078125,8.471202885931087,11.149088541666666,4.63988058216196/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -680,7 +680,7 @@ express declaration of the public will.&quot;
 &quot;This,&quot; he adds, &quot;I understand to be the  
 outline of the argument.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_hoquiam_ver01:data:sn83045604:00202199665:1899112401:0726/pct:17.966349670811997,190.73777980813156,37.74689100219459,17.4737322978529/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_hoquiam_ver01:data:sn83045604:00202199665:1899112401:0726/pct:5.988783223603999,63.579259936043854,12.58229700073153,5.824577432617634/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -711,7 +711,7 @@ who take the benefit of them.&quot; There
 is nothing said in either letter which  
 discloses the writer&#x27;s opposition to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_hoquiam_ver01:data:sn83045604:00202199665:1899112401:0726/pct:18.185808339429407,209.35358611238007,37.60058522311631,32.97167656464139/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_hoquiam_ver01:data:sn83045604:00202199665:1899112401:0726/pct:6.061936113143136,69.7845287041267,12.533528407705438,10.990558854880463/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

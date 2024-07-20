@@ -42,9 +42,9 @@ stituted the electoral college system of choosing the president, as the executiv
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1842-10_11_52/page/n13/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1842-10_11_52/page/n13/mode/1up?view=theater)
 
-#### 1842-10-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1842-10-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -213,7 +213,7 @@ treaties in behalf of tbe Unit3d States, and that the
 recent apoointment by the President without the  
 consent of the Senate of James B. Angell and Wm
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_elm_ver01:data:sn82015483:00271764303:1888072101:0068/pct:70.66515065378056,27.83641160949868,13.08982376350199,3.789877668505637/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_elm_ver01:data:sn82015483:00271764303:1888072101:0068/pct:53.01393232868922,20.880307028064284,9.823713392095536,2.8424082513792275/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -237,7 +237,7 @@ point, without the concurrence of the
 Senate, private citizens as plenipoten­  
 tiaries ; and to make and sign the pro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_janesville_ver01:data:sn85042460:00280769216:1888072101:0164/pct:50.399495374264085,51.333719918817046,13.540790580319596,4.856480139170774/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_janesville_ver01:data:sn85042460:00280769216:1888072101:0164/pct:50.399495374264085,51.34338455590993,13.540790580319596,4.866144776263651/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -288,7 +288,7 @@ potentiaries to make and sign such treaties in
 behalf of the United States, and that the recent  
 appointment by the President, without the con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_bobbsey_ver02:data:sn86063034:00414181971:1888072101:1137/pct:20.34269048487058,51.04625550660793,16.168428727670435,4.900881057268722/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_bobbsey_ver02:data:sn86063034:00414181971:1888072101:1137/pct:15.7750988886796,39.567552188911414,12.525899416085892,3.7981436039688465/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -311,7 +311,7 @@ citizens as plenipotentiaries to make and sign such
 treaties in tohalf of the United States; and that the  
 recent appointment by the President, without th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_ashbel_ver01:data:sn82015679:00202191393:1888072101:0205/pct:28.023529411764706,22.4599790845467,18.388235294117646,4.400289598584185/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_ashbel_ver01:data:sn82015679:00202191393:1888072101:0205/pct:21.02847728877383,16.844984313410023,13.79148034831725,3.30625050277532/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -458,7 +458,7 @@ In behalf of the United States, and that the
 recent appointment by tne president, with­  
 out consent of the senate, of James B
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_alamo_ver01:data:sn85042588:00212470879:1888072701:0249/pct:6.398923904688701,27.385111529158827,16.87163720215219,6.409567320612738/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_alamo_ver01:data:sn85042588:00212470879:1888072701:0249/pct:5.444547285893178,23.284854945556994,14.346382098328524,5.444300616766923/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -489,7 +489,7 @@ difficulty than other treaties. The whole
 discussion showed that it was not intended  
 to tie the hands of the President in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:00271740554:1899012501:0238/pct:2.730329522528581,75.3483709273183,12.494956287827842,8.75187969924812/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:00271740554:1899012501:0238/pct:2.730329522528581,75.35505430242273,12.499439587536427,8.745196324143693/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

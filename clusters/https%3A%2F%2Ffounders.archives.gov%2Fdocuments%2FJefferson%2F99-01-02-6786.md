@@ -87,7 +87,7 @@ The boundary of the lands, hereby allotted to the C\ A
 tior. to live and hunt on, within the limits of the Tlni, jo w na&#x27;  
 Amenca, is, and lhall be the following Vlz u„ ■Jn,tcd States o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790091801:0002/pct:39.41469489414695,2.88366581078412,56.75591531755915,89.72940944104286/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790091801:0002/pct:39.42247820672478,2.893541378629271,56.77148194271482,89.74422279281059/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -138,7 +138,7 @@ si-within the limits ofthe United States,f
 ? shallbe and continue under the care and  
 protection ofsithe said States; and that s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802051201:0068/pct:9.267825809539001,38.393351800554015,23.416812888817994,7.479224376731302/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802051201:0068/pct:9.26634768740032,38.389807035361464,23.41839447102605,7.4816114239990155/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -166,7 +166,7 @@ the foregoing concesstons on the part of
 the Chattaw nation, &amp; infull satisfaction  
 for the same, do give and deliver to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802051201:0068/pct:33.131280906045625,6.454293628808864,22.427819428936033,11.75438596491228/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802051201:0068/pct:33.12599681020733,6.453697719508817,22.42955874534822,11.75637829686394/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -68,7 +68,7 @@ tion, as my resolution is fuipended but for
 your answer, = - _  
 I have the honor to be, &amp;c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1782052501:0152/pct:5.90869939707149,4.343361741451894,58.776916451335055,84.58774001437519/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1782052501:0152/pct:5.914441573356302,4.350207071225657,58.78840080390468,84.58431734948832/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -492,7 +492,7 @@ failure of it, I shall hold myself justifiable,
 in the eyes of God and man,for the measure  
 to which I shall resort.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685300:1883070501:0110/pct:49.976049816381924,72.98561151079137,10.953217307999362,5.407673860911271/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685300:1883070501:0110/pct:49.96807151979566,72.97686128761539,10.955459770114942,5.41002277904328/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

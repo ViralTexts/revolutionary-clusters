@@ -66,7 +66,7 @@ it is no measure of tArir right. Because Sir Isnae New.
 ton was snperior to others in understanding, he was  
 not therefore lord of the person and property of others.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_cobol_ver01:data:sn83030213:00206530765:1864031801:0568/pct:103.90707497360084,103.81345336334084,48.85603660682858,22.630657664416105/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_cobol_ver01:data:sn83030213:00206530765:1864031801:0568/pct:34.63569165786695,34.60448445444695,16.285345535609526,7.543552554805368/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -130,7 +130,7 @@ the person aud property of others.&quot;
   
 Il is the duty of the Government t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn87058348:00279529376:1864053101:1212/pct:29.916584193411566,36.3130881094953,12.639615438993355,3.432420872540633/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn87058348:00279529376:1864053101:1212/pct:29.916584193411566,36.31665240946678,12.649040953862105,3.4359851725121184/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -156,7 +156,7 @@ the person and property of others.&quot;
   
 It is the duty of the Government t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84038074:00279529467:1864061601:0585/pct:105.68233683249657,122.55845942228336,30.305796439981744,9.289316827143512/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84038074:00279529467:1864061601:0585/pct:35.22744561083219,40.852819807427785,10.101932146660582,3.096438942381171/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -174,7 +174,7 @@ their HIoirrs. Because Sir linac Newton was superior
 to others in understanding, he was not, therefore, lord  
 of the persons or property of others.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_cobol_ver01:data:sn83030213:00206530777:1864081301:0730/pct:103.1980319803198,97.29389553178099,48.60305745914602,5.903083700440528/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_cobol_ver01:data:sn83030213:00206530777:1864081301:0730/pct:34.399343993439935,32.43129851059366,16.201019153048673,1.9676945668135095/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -195,7 +195,7 @@ Isaac Newton was superiorto others in un­
 derstanding, he was not, therefore, lord of  
 the persons or property of others.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84027060:00415668910:1864082001:0292/pct:62.38441215323646,25.758436541302125,14.580581241743726,3.260993068969435/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84027060:00415668910:1864082001:0292/pct:62.38991633641567,25.766011438094157,14.586085424922942,3.2685679657614664/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -269,7 +269,7 @@ race of men, which cannot fail
 to have effect in hastening the  
 day of their relief.&quot; Jefferson&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn85038222:00280774923:1870020301:0844/pct:27.428571428571427,199.38063821192944,49.55102040816327,132.004847179211/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn85038222:00280774923:1870020301:0844/pct:6.857142857142857,49.84515955298236,12.387755102040817,33.00121179480275/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -289,7 +289,7 @@ was superior to others in understanding he
 was not, therefore, lord of the i&gt;et-&gt;on or  
 property of others.&quot; I.et the people of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026753:00415620391:1873082101:0359/pct:16.899595439499816,41.047092160302256,13.479220301581464,3.521791930913507/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026753:00415620391:1873082101:0359/pct:16.9118548485963,41.05608779741825,13.473090597033224,3.521791930913507/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -138,7 +138,7 @@ relpeft, Gentlemen,
 Yourmoft obedient servant,  
 TIL JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793090401:0004/pct:51.08556832694764,33.24039036048596,21.008939974457217,35.72993427604063/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793090401:0004/pct:51.10153256704981,33.24039036048596,21.008939974457217,35.75482971519617/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -193,7 +193,7 @@ the trouble of giving it, in a caljUo interelt
 ing to themselves and^tielr^HHJj.  
 I have the honor to be witliJ(Jj|e|t 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793090401:0003/pct:49.480757483200975,4.2873475609756095,41.60048869883934,88.6814024390244/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793090401:0003/pct:49.49602932193036,4.296875,41.60048869883934,88.69569359756098/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -366,7 +366,7 @@ with great refpe@, Gentlemen,
 Your most obedient servant,  
 . TH: JEFFERSON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1793092401:0095/pct:69.18811318071947,12.121212121212121,19.394284089293333,35.24871355060034/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1793092401:0095/pct:69.18811318071947,12.12438853948288,19.394284089293333,35.251889968871104/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -675,7 +675,7 @@ and thai, on then forwarding hither wnll-autbentiaaled ?vl
 deuces ol the same, proper proceedings will be adopted for  
 their relief 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851012301:0096/pct:38.158319870759286,17.886074321717885,15.573505654281098,3.368908319403369/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851012301:0096/pct:38.16370490037695,17.894646607517895,15.573505654281098,3.368908319403369/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -732,7 +732,7 @@ The American merchants, thus stimulated, proe
 secuted more diligently than before a trade which  
 vielded enticing profits, while its risks seemed t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530339:1851012501:0166/pct:8.637428858386341,87.5333410645947,47.438901908269166,33.10912675402992/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530339:1851012501:0166/pct:2.879142952795447,29.177780354864897,15.81296730275639,11.03637558467664/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -765,7 +765,7 @@ luffbr on the high seas or in foreign countries, t
 well-authenticated evidences of the same, proper  
 proceeding* w ill be adopted for their relief.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661484:1851012701:0110/pct:19.482083709725988,52.18429219384101,13.670581150255947,4.750537121031273/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661484:1851012701:0110/pct:19.482083709725988,52.19224954245245,13.680618287664359,4.754515795336994/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -788,7 +788,7 @@ that., on their forwarding hither well-authenticated
 evidences of the same, proper proceedings  
 will be adopted for their relie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1851013001:0250/pct:30.808823529411764,52.43312604876123,14.882352941176471,3.9680189517323066/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1851013001:0250/pct:30.818627450980394,52.439706511367746,14.882352941176471,3.9647287204290462/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -811,7 +811,7 @@ leir forwardiDg hither well-authenticated eviences
 of the same, proper proceedings will be  
 dopted for their relief.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661393:1851013101:0144/pct:42.09031525134905,41.19011715578239,13.731894348196535,3.920658856281174/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661393:1851013101:0144/pct:42.09031525134905,41.19785021072575,13.736627851936003,3.916792328809496/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -858,7 +858,7 @@ looa to encourege a commerce that was filling the treaa
 ury witb the means to discharge the debt of revolutioa.  
 that it stimulated our merchants to prosecute their adven
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661204:1852050601:0440/pct:80.89981602274628,90.40378226424738,16.290349556782072,5.8522872476360845/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661204:1852050601:0440/pct:80.90539109104087,90.40378226424738,16.29592462507666,5.865065167390749/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -894,7 +894,7 @@ of nations or to existing treaties, and that, on their forward
 ine hither well-authenticated evidono. of the same, proper  
 proceedings will be adopted for their relief.&quot;? Voc. 102, p
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855020101:0137/pct:80.83578191315704,66.27426424546024,15.948416585047339,5.122103944896681/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855020101:0137/pct:80.83578191315704,66.27426424546024,15.959299162041571,5.130452932581925/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1011,7 +1011,7 @@ vival cf commerce, aud the replenishing of
 the National Treasury. The spoliations, how  
 ever, continued. Then came the treaty o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn85033711:00212470272:1860040401:0332/pct:160.22727272727272,134.134767478646,45.02164502164502,34.039860803543185/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn85033711:00212470272:1860040401:0332/pct:40.06223785685293,33.5336918696615,11.25693410905155,8.509965200885796/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1077,7 +1077,7 @@ treaties; aud that, ou their forwarding hither
 well authenticated evidence of the same, prop­  
 er proceediugs will he adopted for their relief.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_damariscotta_ver02:data:sn83016025:00279525346:1872112101:0092/pct:15.237329042638777,49.78480865418169,10.84473049074819,6.362684657438641/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_damariscotta_ver02:data:sn83016025:00279525346:1872112101:0092/pct:15.234877734877735,49.779018376366594,10.847007722007723,6.364852291230519/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1097,7 +1097,7 @@ trouble of giving it, in a case so interesting to
 themselves and their country.  
 I have the honor to be, gentlemen, &amp;e.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_damariscotta_ver02:data:sn83016025:00279525346:1872112101:0092/pct:15.269509251810137,56.46155635686868,10.812550281576831,2.058857741072467/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_damariscotta_ver02:data:sn83016025:00279525346:1872112101:0092/pct:15.267052767052768,56.45498953244941,10.81483268983269,2.0615259362642475/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1123,7 +1123,7 @@ they may suffer on the high seas or in foreign countries,
 sarstrary to the ta iyr of naitont aff to oatalug treatien  
 and tha an their fortiin itueto itnthenticate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743804:1872121701:0995/pct:58.867801047120416,18.260375213189313,47.169502617801044,12.006822057987494/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743804:1872121701:0995/pct:19.62260034904014,6.0867917377297704,15.723167539267015,4.002274019329164/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1147,7 +1147,7 @@ warding the Government well-authenticated evidence.
 of the same proper proceedings would be adbpted for  
 their renef. This assurance revived our commerce to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536147:1872121701:0631/pct:340.6985573272589,104.64259395725865,50.721336370539106,12.08548268238762/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536147:1872121701:0631/pct:85.22317188983855,26.160648489314664,12.687559354226021,3.021370670596905/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1300,7 +1300,7 @@ lief.
 &quot;the merchants of the United States con  
 cerned in foreign commerce or navigatio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044814:1883030201:0285/pct:77.76951672862454,385.5285044609103,48.40148698884759,3.8257976712535915/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044814:1883030201:0285/pct:19.445993679122513,96.38212611522758,12.102621305075292,0.9564494178133979/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -195,7 +195,7 @@ with tumuli and commotion that its re­
 fined dictates can be no longer heard, is  
 o break down the fortress of govern
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1813092301:0020/pct:27.897930605259063,23.280716329733224,16.975260619262485,4.910920336010339/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1813092301:0020/pct:27.893590541381457,23.278567472770906,16.977805434557144,4.9135437819211125/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

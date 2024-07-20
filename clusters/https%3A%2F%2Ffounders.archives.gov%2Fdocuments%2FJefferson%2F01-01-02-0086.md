@@ -237,7 +237,7 @@ acres, according as hath been used and al­
 lowed since the first plantation, to be held  
 of us, our heirs, and successors, as of ou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00271742071:1874122501:0618/pct:5.9289617486338795,172.92548298068078,41.37978142076503,4.793008279668813/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00271742071:1874122501:0618/pct:1.97632058287796,57.64182766022692,13.793260473588342,1.597669426556271/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -269,7 +269,7 @@ cescors, as against all and every other person
 and persons whatever, any law, statute, cus­  
 tome, or useage to the Contrary thereof i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00271742071:1874122501:0618/pct:4.385245901639344,215.45538178472862,43.04644808743169,25.19779208831647/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00271742071:1874122501:0618/pct:1.4617486338797814,71.81846059490954,14.348816029143897,8.399264029438822/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -309,7 +309,7 @@ and power of granting fifty acres of land
 for every person imported - into his  
 rmajestie&#x27;s colony of Virgmnia. Now,. kno
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_havanese_ver01:data:sn83045462:0028065498A:1895010801:0085/pct:70.3012666894899,68.27231856133591,13.950701814447108,2.903018625561978/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_havanese_ver01:data:sn83045462:0028065498A:1895010801:0085/pct:70.3141047586443,68.27874116891458,13.942143101677507,2.909441233140655/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

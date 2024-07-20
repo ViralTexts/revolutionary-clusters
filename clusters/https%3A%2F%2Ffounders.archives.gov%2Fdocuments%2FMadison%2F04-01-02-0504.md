@@ -286,7 +286,7 @@ each other?
 MR. BUCHANAN&#x27;S ACCEPTANCE.  
 WhEATLANd, NEAR LANCASTER, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184674:1856062101:0378/pct:55.093002657218776,15.936301290247588,76.8969589607322,274.59025921190283/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184674:1856062101:0378/pct:18.361623616236162,5.3114830311483034,25.628536285362852,91.5194483186115/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -312,7 +312,7 @@ to coincide with them, what is to control those
 great repulsive masses from awful shocks against  
 each other?&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202190984:1856062301:0600/pct:62.72710919230077,224.81886282696794,43.856808778557294,13.520815424290802/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202190984:1856062301:0600/pct:20.909036397433592,74.93962094232265,14.618936259519097,4.506938474763601/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -472,7 +472,7 @@ nally adopting the Constitution. The proposition hap­
 pily was rejected. The effect of such a discrimination  
 is sufficiently evident. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393347983:1856062601:1091/pct:139.92960500586625,54.71296952515946,62.0453656628862,273.29553508150246/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393347983:1856062601:1091/pct:34.97556207233627,13.676303854875284,15.50830889540567,68.31420068027211/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -534,7 +534,7 @@ happen to coincide with them, what is to control
 those great repulsive masses from awful shocks  
 against each other?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393347983:1856062601:1091/pct:141.33750488854125,21.261516654854713,124.61869378177552,370.1346562721474/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393347983:1856062601:1091/pct:35.32746823069404,5.3146258503401365,31.148582600195503,92.52054988662131/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -572,7 +572,7 @@ repulsive masses from awful shocks ug.iinst
 each other ?&quot;  
 That is tin; state of thing which tlj
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84020712:00295879166:1856070101:0481/pct:108.57221609702316,107.04349746080813,17.006615214994486,9.516449547361448/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84020712:00295879166:1856070101:0481/pct:81.45850565205404,80.2826230956061,12.751585332230494,7.142857142857143/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -720,7 +720,7 @@ States originally adopting the constitution. The proposi­
 tion, happily, was rejected. Tbe effect of such a discrimi­  
 nation is sufficiently evident ? ? * 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82003410:00415661071:1856071001:0757/pct:32.2454943984413,4.719467804694364,31.320019483682415,90.6614785992218/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82003410:00415661071:1856071001:0757/pct:32.256318666450184,4.719467804694364,31.314607349677978,90.6740303752981/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -775,7 +775,7 @@ and otber physical and permanent distinctions which hap­
 pen to coincide with them, what Is to control those great  
 repulsive masses froui awful shocks against each othe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82003410:00415661071:1856071001:0757/pct:47.67007631108946,43.780594954186014,15.635655138821237,18.43855905610644/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82003410:00415661071:1856071001:0757/pct:47.6754884450939,43.78477887954479,15.641067272825675,18.446926906823983/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -802,7 +802,7 @@ control those great repulsive masse from sw-
 lul shock Against each other!  
 That is the state of things, remarks th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn84024443:00280779209:1856071101:0574/pct:40.22861356932153,105.7014559804055,16.31637168141593,8.558987617362906/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn84024443:00280779209:1856071101:0574/pct:30.19738055709279,79.27609198530412,12.248662608374838,6.42264253639951/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -957,7 +957,7 @@ Precisely what wc claim, that Congreea
 has power over the Territory, not only as  
 property, but also, in the language of Mr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:0028077537A:1856073101:0777/pct:37.62376237623762,108.13283632666892,14.16715200931858,7.048458149779735/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:0028077537A:1856073101:0777/pct:28.22604136323915,81.10245114650401,10.632100203903292,5.286343612334802/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -977,7 +977,7 @@ MENT OF SETTLERS UNTIL RIPE
 FOR ADMISSION AS STATES INTO  
 THE UNION.&quot; Try quotii.g Madiso
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:0028077537A:1856073101:0777/pct:37.6820034944671,115.35072856658759,14.123471170646477,4.495651191686434/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:0028077537A:1856073101:0777/pct:28.269734925720943,86.5130464249407,10.602971162248762,3.3773861967694567/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -998,7 +998,7 @@ property, aud a power to make the provisions really n&gt; ?{&#x27; &quot;J
 or nectitory for the government oj selUern unlit rii&gt;e for uc  
 minion as State* into the Union.&quot; (Letter to Mr. \\ &quot;lib
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82003410:00415661071:1856080501:0843/pct:78.33279273434965,31.123156435144335,15.569250729808628,3.491743350560948/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82003410:00415661071:1856080501:0843/pct:78.3381987241864,31.131560149586118,15.569250729808628,3.4959452077818396/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1026,7 +1026,7 @@ which happen to coincide with them, what
 is to control those great repulsive musses  
 from awful shocks against each other 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_idacox_ver02:data:sn85026945:00202194278:1856080701:0458/pct:3.726442033123929,64.15669451343419,15.662478583666477,6.875141115375931/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_idacox_ver02:data:sn85026945:00202194278:1856080701:0458/pct:3.726442033123929,64.16422066681719,15.662478583666477,6.871378038684428/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1093,7 +1093,7 @@ necesvary for the Government of selllery anti
 rine for udmission as Stales into the Union.&quot;  
 Now, it is apparent that Messrs, Cass an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1856092601:0155/pct:104.23728813559322,162.23277909738718,88.82896764252696,39.42992874109264/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1856092601:0155/pct:26.064342130610672,40.558194774346795,22.211519938354844,9.85748218527316/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1123,7 +1123,7 @@ Z?r, r&#x27; ir Stipulations, expressed or implied,
 ?would not be nnllities, and so pronounced when brouelu  
 to a practical teat.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82003410:00415661071:1856112601:1228/pct:6.147341031061961,63.624873609706775,15.774922751666939,7.355915065722953/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82003410:00415661071:1856112601:1228/pct:6.152761966715455,63.63329962925514,15.780343687320432,7.35170205594877/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1143,7 +1143,7 @@ tion could have looked ?M aU to the existence of slavery in
 the new States; for he aays, &quot;the 9rtat object of the con­  
 vention seemed to be to prohibit ,nrr,a? by .mpcrt^nn o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82003410:00415661071:1856112601:1228/pct:6.098552610180517,80.62436804853387,15.758659944706457,2.9069767441860463/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82003410:00415661071:1856112601:1228/pct:6.103973545834011,80.63279406808223,15.758659944706457,2.911189753960229/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1162,7 +1162,7 @@ and the only ?o4. of checking it waa by narrwwing th^
 apaoa open U? them. It is not an unfair infetrnee that the  
 expedient would not hovo been undertaken if the power af
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82003410:00415661071:1856112601:1228/pct:6.196129451943405,85.9453993933266,15.596031875101643,2.4646107178968655/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82003410:00415661071:1856112601:1228/pct:6.206971323250393,85.9453993933266,15.585190003794654,2.4772497472194135/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1183,7 +1183,7 @@ no slight anxiety. Parties, under some denomination or
   
 our*. When the individual. belonging to tbj
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82003410:00415661071:1856112601:1228/pct:6.114815417140998,4.537411526794743,28.622540250447226,91.67087967644085/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82003410:00415661071:1856112601:1228/pct:6.125657288447986,4.545837546343107,28.622540250447226,91.67509268621504/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1220,7 +1220,7 @@ beet intention*, &quot; acted without the shadow of authority.
 The far-fetched notion of Mr. Blair, that (be constitution­  
 al convention, in providing against the importation o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82003410:00415661071:1856112601:1228/pct:21.678321678321677,4.48685540950455,31.078224101479915,91.64560161779575/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82003410:00415661071:1856112601:1228/pct:21.683742613975173,4.495281429052915,31.083645037133408,91.64560161779575/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1238,7 +1238,7 @@ peared that the present Congress never followed tbe exam­
 ple of the ordinance of &#x27;87 during the tweuty years pre­  
 ceding tbe prohibitory epoch of 1808;&quot; aud he might hav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82003410:00415661071:1856112601:1228/pct:37.24182793950236,13.902932254802831,15.465929419417792,2.0475227502527806/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82003410:00415661071:1856112601:1228/pct:37.24182793950236,13.902932254802831,15.465929419417792,2.0517357600269635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1399,7 +1399,7 @@ ineido with them, what is to control those
 great repulsive masses from awful shocks  
 ngaiust each other 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gorn_ver01:data:sn84026826:00271768187:1857041001:0041/pct:30.36949552893538,7.8441835645677696,13.497553568415725,7.617395944503735/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gorn_ver01:data:sn84026826:00271768187:1857041001:0041/pct:30.36949552893538,7.853077196727144,13.508801529722739,7.617395944503735/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1456,7 +1456,7 @@ tinctions, which happen to coincide with them
 -what is to control those great repulsive masses  
 from awful shocks against each other.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn86092535:00202190613:1858022401:0182/pct:80.06529279738828,345.7404326123128,64.76229340950826,12.579034941763727/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn86092535:00202190613:1858022401:0182/pct:20.01632319934707,86.4351081530782,16.190573352377065,3.1447587354409317/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1941,7 +1941,7 @@ given to terminate the importation everywhere
 ad not existed or been anticipated.”  
 Mr. Jefferson thought that toe diffusio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347282:1860020301:0233/pct:6.484641638225256,71.09015639374425,12.46475738240095,4.38132474701012/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347282:1860020301:0233/pct:6.494534302814463,71.09782275375652,12.459811050106346,4.38132474701012/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1979,7 +1979,7 @@ given to terminate the importation everywhere
 Bad not existed or been anticipated.”  
 Mr. Jefferson thought that the diffusio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347282:1860020301:0234/pct:10.817628728297967,63.488960441582336,12.494435376168571,12.270009199632014/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347282:1860020301:0234/pct:10.817628728297967,63.49279362158847,12.504328040757779,12.277675559644281/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2003,7 +2003,7 @@ fiven to terminate the importation everywhere
 ad not existed or been anticipated.”  
 Mr. Jeffersou thought that the diffusio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347282:1860020301:0232/pct:10.8621457189494,71.38914443422263,12.47959637928476,4.358325666973321/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347282:1860020301:0232/pct:10.867092051244002,71.38914443422263,12.47959637928476,4.365992026985587/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2052,7 +2052,7 @@ did not regard the interdiction of slavery
 mong peedful regulations contemplated by the  
 Constitution, since in none of the Territorial Gov
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293290:1860053001:0517/pct:107.96460176991151,233.05716652858325,43.639380530973455,3.8939519469759736/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293290:1860053001:0517/pct:26.994883142027383,58.26429163214581,10.911353892960863,0.9734879867439934/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -45,7 +45,7 @@ so described; and not now resident within this Commonwealth,” I have therefore
 the year 1779, entitled &#x27;* Jin act concerning Es­  
 cheats and Forfeitures from British subjects.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812081401:0115/pct:22.69847185985837,34.776725304465494,17.349981364144615,1.0579407061139132/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812081401:0115/pct:22.694242593627724,34.772447724477246,17.352959443512827,1.0619106191061911/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -61,7 +61,7 @@ cheats and Forfeitures from British subjects.
 passed in the year 1779, entitled &quot; An act concerning  
 escheats and forfeitures from I&#x27;ritish subjects.&quot; Win
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1819042301:0449/pct:4.425627096980349,63.96169958108917,14.33136283751398,0.8019150209455416/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1819042301:0449/pct:4.424920127795527,63.95404499760651,14.334398296059637,0.8058082016913994/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -77,7 +77,7 @@ escheats and forfeitures from I&#x27;ritish subjects.&quot; Win
 passed in the year 1779, emitted ‘‘Alt act concerning  
 escheats and forfeitures from British subjects.&quot; Win
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1819050401:0461/pct:4.027061855670103,64.73208910295003,14.368556701030927,0.8067429259482239/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1819050401:0461/pct:4.026413271058141,64.72429568986276,14.371611102163525,0.8106589613933702/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -93,7 +93,7 @@ escheats and forfeitures from British subjects.&quot; Win
 sersron of 1770, entitled “ An act concerning escheats  
 and forfeitures from British subjects.&quot; AA .lliain lla
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183943:1819080301:0100/pct:81.23061857352701,29.659896647037616,14.509547902725641,0.877298401634419/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183943:1819080301:0100/pct:81.21736292428199,29.6563326123528,14.512619669277633,0.8811984298646158/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -110,7 +110,7 @@ an act of the General Assembly, passed in the May
 session of 1779, entitled “ An act concerning escheats  
 and forfeitures from Uritixh subjects.&quot; » ilium Ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183943:1819081301:0109/pct:34.54021147068247,65.18102521209225,14.482537648189682,1.2187836061656112/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183943:1819081301:0109/pct:34.53467884030114,65.17323775388292,14.485557157349565,1.2226204699322978/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -127,7 +127,7 @@ an act of tbe General Assembly, passed in the May
 cession of 177!), entitled,” An act concerning escheats  
 and forfeitures from Jlrili\lt subjects.&quot; Win. Hay
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183943:1820020101:0331/pct:3.397341211225997,72.88829979515604,14.47562776957164,1.180865164477648/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183943:1820020101:0331/pct:3.396783721693469,72.87951807228916,14.478722240455092,1.1847389558232932/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -147,7 +147,7 @@ an act of the General Assembly, passed in the Hay
 session of 1779, entitled, “ An act concerning escheats  
 and forfeitures from British subjects.&quot; Win. Hay
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183943:1820021701:0362/pct:67.21964167219642,61.76965616734792,14.847378898473789,2.4525126232267374/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183943:1820021701:0362/pct:67.20849228727816,61.7622310373843,14.850445071045502,2.456224706495172/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -167,7 +167,7 @@ an act of the Geueral Atm ibly, passed in the May
 session of 1770, entitled, “ An act concerning escheats  
 and forfeitures from British subjects.” Wm. Hay
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183943:1820021901:0366/pct:82.19852337981952,70.18403441682601,14.913863822805578,2.461759082217973/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183943:1820021901:0366/pct:82.18503937007874,70.17564822559446,14.916885389326334,2.465447883060501/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -184,7 +184,7 @@ an act of the General Assemhlv, passed ;n Ihe Mr.y
 sessimi of 1770, eiitilied,&quot; .4h act concerning escheats  
 and forfeitures from British subjects.&quot; Win. y:»y
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183943:1820030301:0383/pct:3.7236648701616852,38.225009043771855,14.486362894006206,1.22995297238635/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183943:1820030301:0383/pct:3.7230568256041803,38.220400289365806,14.489440452863052,1.233823647616751/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -202,7 +202,7 @@ Assembly passed in the May .Session of I77P, entllled
 An act concerning esc heats and forfeitures from  
 British subjf ts.&quot; Win list. jr.&gt;and Drier V Daniel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183955:1821020101:0343/pct:4.976721785198266,54.00336619379659,14.159576175951196,1.586919932676124/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183955:1821020101:0343/pct:4.975922953451043,53.996874624353886,14.162653825575173,1.5907360660335776/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -270,7 +270,7 @@ the said States and joined the subjects of his Britannic
 Majesty of their own free will,&quot; &amp;c  
 The Governor and Council were empowered t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn83016318:00296024570:1862050701:0712/pct:126.77752293577981,123.56334116641743,37.32798165137615,23.456526383251443/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn83016318:00296024570:1862050701:0712/pct:42.2652329749104,41.18778038880581,12.444444444444445,7.8188421277504805/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -50,7 +50,7 @@ obliges me to bestow upon company) off my
 hands, it would render me a very accepta­  
 ble sen-fee.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347269:1859052601:1139/pct:7.004589902215127,73.44699777613047,13.171023747754939,8.910303928836175/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347269:1859052601:1139/pct:7.011241934410963,73.451939708426,13.164371715559103,8.915245861131703/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -87,7 +87,7 @@ thenceforward became an occasional
 inmate at Mount Vernon. The place at  
 this time possesed attractions for the gay a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_idacox_ver02:data:sn93067882:0020219428A:1859062401:0950/pct:52.16196673897325,245.13784750259546,43.86117136659436,41.04279617026185/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_idacox_ver02:data:sn93067882:0020219428A:1859062401:0950/pct:17.387322246324416,81.71261583419849,14.620390455531453,13.680932056753951/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -115,7 +115,7 @@ soul that the Legislature of this titate conld see
 the policy of a gradual abolition of slavery. It  
 might prevent much future mischief.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_belmont_ver02:data:sn82014511:no_reel:1859122601:0002/pct:35.58002658059616,53.53103026597371,9.531042339092462,1.3604402323448486/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_belmont_ver02:data:sn82014511:no_reel:1859122601:0002/pct:35.58951965065502,53.53103026597371,9.531042339092462,1.3719046163252828/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -136,7 +136,7 @@ see tbe policy of a gradual abolitlen of slavery.
 It might prevent much future mischief.&#x27;&quot;  
 The failure of Cook &amp; Sargent, bankers at Da
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_danby_ver01:data:sn98060050:00280777353:1859123101:0648/pct:110.59283088235294,61.31060731424789,18.910845588235293,4.997517789177561/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_danby_ver01:data:sn98060050:00280777353:1859123101:0648/pct:82.98850574712644,45.98709250372332,14.183908045977011,3.756412377957968/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -157,7 +157,7 @@ that the Legislature of this State could sce the
 policy of a gradual abolition of slavery. It  
 might prevent much further mischief.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn83016318:00296024570:1860010301:0214/pct:95.35087719298245,213.1721861356618,38.28947368421053,9.615589394100734/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn83016318:00296024570:1860010301:0214/pct:31.792921906990347,71.05739537855393,12.766890903773033,3.205196464700245/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -187,7 +187,7 @@ stand by the Union, even though the Con­
 gressional delegation from Georgia, as  
 gravely announced by Mr. Crawford, shal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668156:1860011001:0597/pct:17.32646420824295,195.91191655252345,36.03579175704989,27.84743441154778/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668156:1860011001:0597/pct:5.775488069414317,65.30397218417448,12.011930585683297,9.282478137182594/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -223,7 +223,7 @@ this otnle fvirginiaj could see the policy of a
 gradual abolition ot Miivery. it might prevent  
 much future mischict. n asntitfflon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026050:00280775848:1862053001:0864/pct:39.9548532731377,69.79032948224219,16.610233258088787,2.2821280844387393/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026050:00280775848:1862053001:0864/pct:29.977418140760257,52.346312936813575,12.4764772299586,1.7115960633290543/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -349,7 +349,7 @@ you, and I am your sincere friend and
 affectionate uncle.  
 :-:;y., ::. . G. Washington.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_kasota_ver01:data:sn90059522:00175033373:1888120101:0350/pct:26.03611604499704,55.795721805353345,11.619301361752516,31.69447866502408/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_kasota_ver01:data:sn90059522:00175033373:1888120101:0350/pct:26.03611604499704,55.80318811363721,11.634103019538188,31.69447866502408/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -437,7 +437,7 @@ with me in bost regards for you, and I
 am vour sincere friend and atlectionate  
 uncie, (r. &quot;Washington.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_gaylord_ver02:data:sn85033781:00296023796:1888121901:0428/pct:14.377040261153427,16.93926351028216,20.633841131664852,58.287900526064085/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_gaylord_ver02:data:sn85033781:00296023796:1888121901:0428/pct:9.59053190042171,11.296030607364898,13.753230852945178,38.86178861788618/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -526,7 +526,7 @@ with me in best regards for you, and I
 am your sincere friend and affectionate  
 uncle, O. Washington. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_douglas_ver01:data:sn96076998:00415669240:1888122001:0881/pct:67.61811023622047,16.86529048733773,18.475815523059616,55.777825069163654/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_douglas_ver01:data:sn96076998:00415669240:1888122001:0881/pct:45.09776339850893,11.247073845499042,12.32240821493881,37.188763566716325/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -546,7 +546,7 @@ lature of this state could see the policy
 of a gradual abolition of slavery. It  
 might prevent much future mischief.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_allemande_ver01:data:sn85025570:00199919969:1892021801:0440/pct:45.89070879837658,42.585722315907816,12.103203362806203,3.0916245081506464/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_allemande_ver01:data:sn85025570:00199919969:1892021801:0440/pct:40.16234040754207,37.26268157523691,10.59017502325188,2.715021149621274/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -566,7 +566,7 @@ lature of this state could see the policy
 of a gradual abolition of slavery. It  
 might prevent much future mischief.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_argon_ver01:data:sn87096037:00271740840:1892021901:0721/pct:42.87282708142727,64.8943421949557,11.655992680695334,2.876618950238582/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_argon_ver01:data:sn87096037:00271740840:1892021901:0721/pct:42.88655077767612,64.8943421949557,11.651418115279048,2.886843899113838/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -634,7 +634,7 @@ It might prevent much future mis­
 chief.” Eleven years before, in 1786.  
 lie had written to Mr. John F. Mercer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588484:1897022501:0892/pct:102.35777633571274,75.21289537712896,17.672507030067056,5.322384428223844/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588484:1897022501:0892/pct:79.33500977926795,58.2950304458849,13.702151438949427,4.120997839324298/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -655,7 +655,7 @@ icy of a gradual abolition of slavery It
 might prevent much future mischief ’  
 Alas, the mischief did come; the wine
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:00332895485:1899021501:0472/pct:21.251217137293086,24.96158442888851,14.459591041869523,3.978145808434352/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:00332895485:1899021501:0472/pct:21.246045266488196,24.95732331853875,14.462156242394743,3.981734380334585/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -678,7 +678,7 @@ of slavery. It might prevent much
 futute mischief.”’ Alas, the mis­  
 chief did come, the wine-press of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_alta_ver01:data:sn90051344:00340586116:1899021601:0408/pct:47.430939226519335,34.753184713375795,14.41988950276243,6.687898089171974/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_alta_ver01:data:sn90051344:00340586116:1899021601:0408/pct:47.437845303867405,34.76811305732484,14.426795580110497,6.677945859872612/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -699,7 +699,7 @@ of a gradual abolition of slavery. It
 might prevent much future mischief.&quot;  
 Alas, the mischief did come, the win
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_mitchell_ver01:data:sn92073908:00416156761:1899021601:0433/pct:30.450310559006212,87.74908619266596,16.242236024844722,4.846126636009904/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_mitchell_ver01:data:sn92073908:00416156761:1899021601:0433/pct:22.84516229228141,65.81771017568683,12.191334058083553,3.6316472114137484/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -737,7 +737,7 @@ filment, and supreme efforts for
 carying out Washington’s idea  
 to the full extent should be mad
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_frederick_ver03:data:sn89060092:00279521912:1899021701:0070/pct:58.796754403324755,102.66060104769782,16.90085097961607,18.017645437000276/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_frederick_ver03:data:sn89060092:00279521912:1899021701:0070/pct:45.577709611451944,79.56552706552706,13.093047034764826,13.963675213675213/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -758,7 +758,7 @@ of a gradual abolition of slavery. It
 might prevent much future mischief.&quot;  
 Alas, the mischief did come, the wine
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_inskip_ver01:data:sn82015104:00280768844:1899022001:0449/pct:56.47962591850367,63.6139224882745,12.207748830995325,3.1843989138484323/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_inskip_ver01:data:sn82015104:00280768844:1899022001:0449/pct:56.49215096860387,63.617008146136754,12.207748830995325,3.193655887435201/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -777,7 +777,7 @@ could see the policy of a gradual abo­
 lition of slavery. It might prevent  
 much future mischief.” Alas, th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588496:1899022301:0467/pct:4.865103936311367,102.94606436017526,18.155683325961963,3.746789545248527/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588496:1899022301:0467/pct:3.7760639817195085,79.78690188119585,14.064552984861468,2.911560377800328/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -178,7 +178,7 @@ for than were allowed by the institution
 besides a number of subscriptions which  
 awer cog on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:0041566770A:1843080201:0326/pct:269.3788276465442,29.861316022425495,63.42957130358705,37.94629684272647/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:0041566770A:1843080201:0326/pct:67.34470691163605,7.465329005606374,15.857392825896763,9.486574210681617/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -209,7 +209,7 @@ but 1 trust we shall never so far lose sight of our
 own interest and happiuess as to become unne­  
 cessarily a party in their political disputes.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82014593:00415661034:1852011001:0091/pct:79.48512951710904,16.151004386977604,15.334186120882634,3.844377741861002/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82014593:00415661034:1852011001:0091/pct:79.49578936147532,16.158700838913262,15.334186120882634,3.844377741861002/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -333,7 +333,7 @@ instances they even upute to the Government what i­
 due only to the goodness of Providence&quot;  
 We feas the madmen of the Ootten bete wit yer ss
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024656:00414184704:1860122201:0600/pct:51.78768309970074,135.33860045146727,38.33674594424319,18.87133182844244/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024656:00414184704:1860122201:0600/pct:17.25984251968504,45.10777564608961,12.776902887139107,6.289734040552233/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -364,7 +364,7 @@ good humor, and in some instances tin y even I
 impute to their government what is due only to j  
 the goodness of Providence.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_price_ver01:data:sn84026547:00296022962:1860122501:0223/pct:58.08711156393276,93.042523457776,17.231278655119716,9.452984627670194/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_price_ver01:data:sn84026547:00296022962:1860122501:0223/pct:43.57406699783467,69.78438810141745,12.928289389886638,7.087242962667199/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -385,7 +385,7 @@ consequent events, than it will gain by
 the stroke of the moment.  
 Candor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_kryptonite_ver01:data:sn86069180:00100481790:1899022501:0163/pct:42.59393063583815,93.15542035398231,16.365606936416185,5.904314159292035/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_kryptonite_ver01:data:sn86069180:00100481790:1899022501:0163/pct:31.966028189374775,69.8700221238938,12.269606071557643,4.438606194690266/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

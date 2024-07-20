@@ -966,7 +966,7 @@ ed upon the same idea, allegiance is due from the subject
 to the King, and in England tor upwards o( 600 yeais  
 and until the revolution tin* allegiance contained the Ico
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1833040901:0436/pct:19.731638418079097,39.78198634661969,15.240112994350282,4.4483593922043605/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1833040901:0436/pct:19.728851857082333,39.77760651767037,15.242668173045239,4.4515395060369185/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

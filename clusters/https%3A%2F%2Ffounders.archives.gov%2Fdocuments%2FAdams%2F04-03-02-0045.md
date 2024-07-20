@@ -147,7 +147,7 @@ there is most learning, sense, and knowledge,
 there is always observed to be the most modesty  
 and rectitude of manners.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517013523:1850020101:0023/pct:33.64791288566243,71.95666892349357,14.482758620689655,12.213947190250508/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517013523:1850020101:0023/pct:33.6418072945019,71.94692661792581,14.48466702957721,12.215678310316816/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

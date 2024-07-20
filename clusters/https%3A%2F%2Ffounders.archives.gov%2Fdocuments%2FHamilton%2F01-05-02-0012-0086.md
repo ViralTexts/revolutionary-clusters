@@ -168,7 +168,7 @@ started at Richmond, and considered as a condi­
 tional ratification, which was itselt abandoned as  
 worse than a rejection. Yours
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1851050301:0615/pct:1.5245158632056037,3.617021276595745,31.19077049855789,93.81914893617021/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1851050301:0615/pct:1.533672114636268,3.624113475177305,31.19077049855789,93.81914893617021/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -215,7 +215,7 @@ withdraw was started at Richmond, and consid­
 ered an a conditional ratification, which was itself  
 abn&quot;doned as worse than a rejection
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661484:1851050501:0440/pct:6.0188650995658035,57.36351845301262,15.07710735139991,17.250324254215304/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661484:1851050501:0440/pct:6.023855866646704,57.37137916126243,15.082098118480811,17.250324254215304/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -261,7 +261,7 @@ Richmond, and considered a5 a condi&#x27;ional rati-.
 fication, which was itself abandoned as worse  
 than a rejection. Yours
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215853:1851050501:0687/pct:46.972900249855854,67.9002079002079,12.886796079185086,15.356895356895357/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215853:1851050501:0687/pct:46.9683866628231,67.89550273716306,12.888760769994555,15.35814103896704/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -298,7 +298,7 @@ bile, Ala., on the 12th inst., of which th
 Advertiser says:  
 &quot;The mneeting was, without exceplion
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667711:1851050601:0665/pct:276.95507487520797,332.72673906662754,116.80532445923461,55.59142941003816/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667711:1851050601:0665/pct:69.28199791883455,83.18168476665689,29.219562955254943,13.89785735250954/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -341,7 +341,7 @@ withdraw was started at Richmond, and consid­
 erea an a conditional ratification, which wan itself  
 abandoned as worse than a rejection
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014763:00415661460:1851050701:0096/pct:2.824372759856631,58.18726425560239,15.78494623655914,14.29997781229199/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014763:00415661460:1851050701:0096/pct:2.824372759856631,58.19466015827232,15.799283154121865,14.29997781229199/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -385,7 +385,7 @@ started at Richmond, and considered as a
   
 conditional ratification, which was itself
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156360:1851050701:0489/pct:242.9770992366412,24.330270480134594,56.79389312977099,61.70570726025625/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156360:1851050701:0489/pct:60.7442748091603,6.0825676200336485,14.198473282442748,15.426426815064062/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -407,7 +407,7 @@ this instant come to hand, and I have but
   
 that your situation obliges you to listen to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156360:1851050701:0489/pct:189.31297709923663,355.37724860877444,57.099236641221374,10.094473922609033/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156360:1851050701:0489/pct:47.32824427480916,88.84431215219361,14.274809160305344,2.5236184806522584/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -445,7 +445,7 @@ and happiness. The idea of reserving a right to with­
 draw was started at Richmond, and considered as a  
 conditional ratification, which was itself abandoned a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348367:1851050701:0425/pct:64.71394984326018,47.03872437357631,14.45924764890282,10.022779043280183/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348367:1851050701:0425/pct:64.70127326150832,47.03202846975089,14.461312438785505,10.02491103202847/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -611,7 +611,7 @@ sidered as a conditional ratification, which
 was itself abandoned as worse than a re­  
 jection. Yours
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851051201:0086/pct:148.7584650112867,8.659968869392953,93.39729119638827,373.80783925286545/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851051201:0086/pct:37.1826217791988,2.164685908319185,23.344931352266315,93.43873797396718/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -801,7 +801,7 @@ Richmond, aod considered as a conditional ratifi­
 cation, which was itself abandoned as woise than  
 a rejection. Yours
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_lightningbolt_ver03:data:sn83016794:00415662397:1851052301:0099/pct:69.91425192193968,89.80254611587425,16.868716735659373,16.186022343465837/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_lightningbolt_ver03:data:sn83016794:00415662397:1851052301:0099/pct:52.45489500147885,67.35515718368407,12.658976634131914,12.146011951156144/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -826,7 +826,7 @@ would be no leciprocy in such a compact. &quot;The
 Constitution requires an adoption in ToToand for­  
 ever.&quot; The oiher States had adopted it; Ne
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_lightningbolt_ver03:data:sn83016794:00415662397:1851052301:0099/pct:69.85511531638085,117.23824369966225,16.839148432879952,6.638087815016887/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_lightningbolt_ver03:data:sn83016794:00415662397:1851052301:0099/pct:52.41052942916297,87.93193037152507,12.629399585921325,4.975318264484281/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1065,7 +1065,7 @@ Richmond, and considered as a conditional rati­
 fication, whkdi was itself abandoned as worse  
 than a rejection&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_lilac_ver02:data:sn82015408:00237289687:1851072601:0270/pct:28.87958789439794,41.1484339536995,20.36381197681906,28.415796640944166/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_lilac_ver02:data:sn82015408:00237289687:1851072601:0270/pct:21.674718196457327,30.866999546073536,15.281803542673108,21.311847480708124/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1114,7 +1114,7 @@ with the condition annexed :o her ratification of the con­
 stitution, ami the assertion of it would have been a use­  
 less interpolation anil a nullity. It wax not so regarded
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851082201:0854/pct:19.73227565691621,53.64229932146972,15.947777226904645,8.103955959544232/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851082201:0854/pct:19.73227565691621,53.65083429351769,15.953285958243816,8.09968847352025/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1160,7 +1160,7 @@ have been a useless, interpolation a nullity. it
 was not so regarded, however, at the time, by  
 those who h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016867:00295877637:1851091301:1118/pct:127.10651828298887,255.4468712314083,60.17488076311606,58.63593729063379/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016867:00295877637:1851091301:1118/pct:31.789264413518886,63.861717807852074,15.049701789264413,14.658984322658448/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1182,7 +1182,7 @@ Richmond, and considered as a condi­
 tional ratification, which was itself aban­  
 doned as worse than a rejection
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851091501:0224/pct:341.2251033446073,157.46427055327578,45.86621570838031,15.975661525399746/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851091501:0224/pct:85.290249859102,39.36049801924165,11.464399774563216,3.993350311262026/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1225,7 +1225,7 @@ at Richmond, and considered as a conditional ratifica­
 tion, which was itself abandoned as worse than a re­  
 jection. Yours
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348379:1851101101:0345/pct:50.71733229934083,32.46917040358744,14.540519581233037,12.780269058295964/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348379:1851101101:0345/pct:50.707501453770114,32.464620989211156,14.542547005233573,12.781981224604175/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1273,7 +1273,7 @@ Richmond, and considered as a conditional rati­
 fication. which was itself abandoned as worse  
 than a rejection
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851101401:0558/pct:44.81681340528259,36.43567109195802,12.676323014295182,15.270730520608883/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851101401:0558/pct:44.81257099583491,36.433138726716706,12.67827842988767,15.271985914187749/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1323,7 +1323,7 @@ was started at Richmond, and considered
 as a conditional ratification, which was it­  
 self abandoned as worse than a rejection
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851101601:0261/pct:296.88087185268694,185.54080768144593,46.16685456595265,75.13414289748658/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851101601:0261/pct:74.20627465714823,46.37865311308767,11.539545369152734,18.780883806296767/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1382,7 +1382,7 @@ started at Richmond, and considered as a
 conditional ratification, which was itself a­  
 bandoned as worse than a rejection
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851102001:0265/pct:105.8468502451905,208.3876452252763,46.341003394945304,92.50495891187305/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851102001:0265/pct:26.456722609843485,52.08953109505596,11.583066188949651,23.122963592576852/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1420,7 +1420,7 @@ at present.
 We have quoted, says the Intelligencer, this  
 epinion of the great Virginia statesman simply for
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:0039334801A:1860012401:0583/pct:137.53259779338015,43.51585014409222,61.80541624874624,48.02593659942363/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:0039334801A:1860012401:0583/pct:34.376253509827514,10.877395188013255,15.448255114320096,12.004754358161648/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1532,7 +1532,7 @@ serving the right to withdraw was started at Richmond,
 and considered as a conditional ratification, which was  
 itself abandoned as worse than rejection.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024656:00414184704:1860090601:0230/pct:92.75675675675676,90.38632326820604,37.729729729729726,16.23001776198934/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024656:00414184704:1860090601:0230/pct:30.914144533662753,30.125430125430125,12.574634548074943,5.40940540940541/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1562,7 +1562,7 @@ draw was started at Kichmond, and considered
 as a conditional ratification, which was itself  
 abandoned as worse than rejection.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn83025725:00212470284:1860090701:0234/pct:111.04620286776421,102.58017340436645,43.97238449283059,28.58038232528988/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn83025725:00212470284:1860090701:0234/pct:27.772612564749636,25.645043351091612,10.997476424491964,7.14509558132247/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1628,7 +1628,7 @@ serving the right to witadraw was started at Richmond,
 and considered as a conditional ratification, which was  
 eelf aondoned as worse thanr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024656:00414184704:1860101101:0351/pct:95.39689995302959,177.01884253028263,37.96774698606544,16.027366532077163/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024656:00414184704:1860101101:0351/pct:31.793988728866626,58.99966356397891,12.65393446044667,5.341856379200777/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1755,7 +1755,7 @@ withdraw, w^s started at Richmond, and
 considered as u conditional ratification,  
 which was itselt abandoned a&gt; worse tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dior_ver01:data:sn85025007:0041566350A:1860102901:0627/pct:85.70542250899615,13.785170766236064,13.736195557761508,14.970801628030436/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dior_ver01:data:sn85025007:0041566350A:1860102901:0627/pct:85.70542250899615,13.791069427240016,13.744467882698432,14.970801628030436/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1876,7 +1876,7 @@ to withdraw was started ut llichmond, and consid­
 ered as a conditional ratification, which was itself  
 aljandomul—worse than rejection
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_bia_ver01:data:sn83021205:00517172017:1860111401:1082/pct:23.126589708471922,98.9010989010989,16.12208961064371,18.30092983939138/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_bia_ver01:data:sn83021205:00517172017:1860111401:1082/pct:17.93277735658327,76.65235114281555,12.489259540055597,14.186926772455962/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1899,7 +1899,7 @@ pe not decided on under the form of the
 tional ratincation; that it does not make iew  
 York a member of the new Union; and, con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290057:1860111401:0416/pct:96.72667757774141,90.95450103159952,34.751773049645394,7.253773482462808/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290057:1860111401:0416/pct:24.184967944345928,22.73862525789988,8.689128359023325,1.813443370615702/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1930,7 +1930,7 @@ considered as a conditional ratification, which
 was itself abandoned as worse than a rejec  
 tion.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290057:1860111401:0416/pct:97.87234042553192,98.07796720599414,33.769776322967815,19.024866977956346/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290057:1860111401:0416/pct:24.47142272541263,24.519491801498535,8.443595689537581,4.756216744489087/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1962,7 +1962,7 @@ Richmond, and considered as a conditional
 ratification, which was itself abandoned?  
 worse than rejection.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dior_ver01:data:sn85025007:00415663511:1860111401:0052/pct:58.2511100148002,55.42200618647813,14.010853478046373,9.341581970835174/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dior_ver01:data:sn85025007:00415663511:1860111401:0052/pct:58.25933234665351,55.42495212844307,14.006742312119718,9.347473854765061/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1998,7 +1998,7 @@ useless interpolation and a nullity. It was not i
 so regarded, however, at the fine by those ■  
 who have been active participants in the fram
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_bia_ver01:data:sn83021205:00517172017:1860111501:1085/pct:5.300077942322681,49.270529387244686,16.134060795011692,11.226900097262748/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_bia_ver01:data:sn83021205:00517172017:1860111501:1085/pct:4.112554112554113,38.188736135539685,12.513842746400886,8.700958397645286/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2041,7 +2041,7 @@ the right t withd aw was started at Richmond.
 and considered as a conditional ratification, which  
 was atsef abundoned--worse than resection
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn83025725:00212470284:1860111501:0470/pct:70.61007957559681,215.44327931363202,44.19098143236074,47.45260036013134/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn83025725:00212470284:1860111501:0470/pct:17.652519893899203,53.860819828408005,11.047745358090186,11.863150090032835/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2087,7 +2087,7 @@ draw icas started at Richmond, and consider­
 ed as a conditional ratification, which was  
 itself abandoned?worse than rejection
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn84026845:00202190662:1860111601:0469/pct:42.3941141379996,39.087896480984696,14.277192284748459,16.411551207195835/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn84026845:00202190662:1860111601:0469/pct:42.3941141379996,39.09578664983431,14.307019288128853,16.419441376045448/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2185,7 +2185,7 @@ ed as a conditional ratification, which
 was itself abandoned--worse than re-­  
 jection. Yours
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_gastly_ver01:data:sn82015737:00279529108:1860111901:0539/pct:95.73859573859573,82.86972398238642,36.86543686543686,56.352701106218454/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_gastly_ver01:data:sn82015737:00279529108:1860111901:0539/pct:31.912865246198578,27.623241327462143,12.288478955145623,18.784233702072818/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2224,7 +2224,7 @@ right to withdraw was started at Richmond and consider­
 ed as a conditional ratification, which was itself abandon­  
 ed--worse than rejection. Yours
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024656:00414184704:1860111901:0483/pct:131.99063231850118,206.2288422477996,37.67369242779079,28.379598284811554/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024656:00414184704:1860111901:0483/pct:43.99000936621917,68.7351912444996,12.555937142262461,9.458798751363346/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2266,7 +2266,7 @@ ought to be sufficient to put the question
 at rest, so far as the intention of the  
 framers of the Constitution on thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85033123:00514151374:1860112201:0510/pct:3.669724770642202,24.910491483129,11.34278565471226,10.111750027123794/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85033123:00514151374:1860112201:0510/pct:3.678991752386248,24.910491483129,11.338152163840236,10.115366532855955/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2314,7 +2314,7 @@ Richmond, and considered as a conditional rati­
 fication, which was itself abandoned—worse than  
 rejection
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347282:1860112301:0561/pct:49.33105164903547,23.944450666368013,12.81891723708774,14.816888789338112/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347282:1860112301:0561/pct:49.34142294129848,23.951916974651883,12.813731590956234,14.816888789338112/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2338,7 +2338,7 @@ minutes to answer it. I am sorry that
 your situation obliges you to listen to pro­  
 positions of tho
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn84024443:00200293861:1860112301:0652/pct:41.720128307939056,40.6059705926036,15.817963111467522,6.891430268825189/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn84024443:00200293861:1860112301:0652/pct:31.30138359735312,30.46190405465617,11.87086424704231,5.168572701618892/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2379,7 +2379,7 @@ the material point at present. I have not a i
 moment to add more than my fervent wish- [  
 es for your success and happiness The idea 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349463:1860112301:0188/pct:69.09722222222223,46.4493716154082,12.406517094017094,14.202513538367223/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349463:1860112301:0188/pct:69.08799572706637,46.44462607274213,12.40931143454845,14.204468056123144/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2419,7 +2419,7 @@ withdraw ica* flatted at Richmond, and consider­
 ed asa conditional ratification, which was ittelf  
 abandoned—worse than rejected
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1860112401:0002/pct:22.23243839646929,14.76799110864129,10.169179845531445,7.724367879966658/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1860112401:0002/pct:22.241632953291653,14.76799110864129,10.182971680764988,7.7278410669630455/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2478,7 +2478,7 @@ withdraw was started at Richmond, and consid­
 ered as a conditional ratification, which was  
 itsetj abandoned—worse than rejection
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624505:1860112401:0082/pct:57.495724871746155,83.38535754824063,16.473494204826146,28.887627695800226/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624505:1860112401:0082/pct:44.56879202866539,64.62265879851923,12.757080449614685,22.391232635707215/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2525,7 +2525,7 @@ idea of reserving aright to withdraw, was started
 at Itichmond, and considered as a conditional rati­  
 fication, which was itself abandoned—worse tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_datsun_ver01:data:sn83016836:00212472517:1860112901:0469/pct:20.2771919252787,20.38920831490491,14.642964748418198,16.80672268907563/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_datsun_ver01:data:sn83016836:00212472517:1860112901:0469/pct:20.287235110977203,20.38920831490491,14.637943155568946,16.817779743476336/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2555,7 +2555,7 @@ that she should not be received on that
 plan.&#x27; Compacts must be reciprocal, this  
 principle would not in such
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn86063325:00200292480:1860112901:0574/pct:58.05270863836017,85.65359014303922,16.928989751098097,11.726384364820847/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn86063325:00200292480:1860112901:0574/pct:43.56344991759751,64.24019260727943,12.70829518403223,8.794788273615636/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2612,7 +2612,7 @@ started at Richmond, and considered as
 a conditional ratification, which was it­  
 sslf abandoned--worse than rejection
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn87076793:00280775095:1860113001:0899/pct:248.39432412247947,222.72460364063417,44.58551157580284,75.86611861421022/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn87076793:00280775095:1860113001:0899/pct:62.13338314963572,55.68115091015854,11.152624696431907,18.966529653552556/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2662,7 +2662,7 @@ right to withdraw was started at Richmond, and
 considered as a conditional ratification, which was  
 itself abandoned worse than rejection
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022780:1860120101:0390/pct:48.0,90.08728925026904,19.633333333333333,16.357766351787635/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022780:1860120101:0390/pct:36.018009004502254,67.57144565347363,14.740703685175921,12.268324763840727/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2743,7 +2743,7 @@ is this instant at hand, and I have but
 a few minutes to answer it. I am  
 sorry that your situation obliges you
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn82014141:00279529455:1860120601:0829/pct:170.23826508774434,88.40117994100295,30.175488657440432,6.017699115044247/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn82014141:00279529455:1860120601:0829/pct:56.746088362581446,29.467059980334316,10.05849621914681,2.005899705014749/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2819,7 +2819,7 @@ success and happiness. The idea of reserving the right to with­
 draw was started at Richmond, and considered as a conditional  
 ratification, which was itself abandoned—ic or sethan rejection
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_collins_ver01:data:sn83030364:print00211110107:1860120801:0007/pct:31.635530489954178,43.18724098957679,12.037363412054988,5.600904181841015/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_collins_ver01:data:sn83030364:print00211110107:1860120801:0007/pct:31.63993655269651,43.190380509858095,12.032957349312655,5.607183222403616/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2874,7 +2874,7 @@ mond, and considered as a conditional ratifi -
 cation, which was itself abandoned — worse  
 than rejection. Yours, James Madison
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn84038814:00279557207:1860121901:0584/pct:34.38658428949691,20.718409236690185,12.409532215357459,14.021808851828094/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn84038814:00279557207:1860121901:0584/pct:34.39982347749338,20.72803078896729,12.405119152691968,14.01539448364336/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3024,7 +3024,7 @@ started at Richmond, and considered as a con­
 ditional ratification, which was itselj abandon­  
 ed—worse then rejection
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn83032006:00296028563:1860122101:0035/pct:17.849736800127612,73.48610781287105,14.94656245015154,16.27879363571598/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn83032006:00296028563:1860122101:0035/pct:17.860371138405913,73.48610781287105,14.94656245015154,16.28670941185783/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3123,7 +3123,7 @@ mond and considered as a conditional ratifica­
 ion, which was itself abandoned--worse than  
 a rejection.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775666:1861020501:0326/pct:66.59589525831564,101.76335980616503,44.44444444444444,35.96715574101494/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775666:1861020501:0326/pct:16.654867256637168,25.440839951541257,11.11504424778761,8.991788935253735/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3175,7 +3175,7 @@ and considered as a conditional ratification,
 which was itself abandoned as worse  
 than rejection.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664382:1861030701:0504/pct:11.659789697857049,68.12768449824287,14.068947158259018,8.756345177664974/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664382:1861030701:0504/pct:11.659789697857049,68.13419237277105,14.086694174541906,8.756345177664974/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3361,7 +3361,7 @@ Richmond, and considered as a conditional ratifica­
 tion, which was itself abandoned as worse than a  
 rejection
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn84038763:0027955792A:1867101901:0379/pct:28.28692962103635,47.49644381223329,12.74168600154679,10.512091038406828/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn84038763:0027955792A:1867101901:0379/pct:28.296597061098222,47.49644381223329,12.74168600154679,10.519203413940255/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3398,7 +3398,7 @@ Richmond, and considered as a conditional rat­
 ification, which was itself abandoned as worse  
 than a rejection.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348719:1875121601:0805/pct:70.03904260736716,52.67822233806855,12.20505856391105,9.852730353186498/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348719:1875121601:0805/pct:70.02715546503734,52.6713578316393,12.20723014256619,9.854704195986448/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -184,7 +184,7 @@ plause.! A society distinguished for the firm adhe­
 rence of its members to the glorious cause in which we  
 are embarked. TAnplause
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536147:1872112201:0536/pct:118.25095057034221,77.30548610089718,50.72243346007605,26.356817178996913/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536147:1872112201:0536/pct:29.579608141525586,19.326371525224296,12.687844778390717,6.589204294749228/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -206,7 +206,7 @@ in which we are embarked.&quot; During that
 time what greater honor osald have bees  
 bestowed by Washingtoe, than that whisk
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_Cypher_ver01:data:sn86086284:00280762015:1872121501:0468/pct:52.24306688417618,48.05,23.205546492659053,6.866666666666666/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_Cypher_ver01:data:sn86086284:00280762015:1872121501:0468/pct:34.83581480726086,32.03333333333333,15.48031817254742,4.583333333333333/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -227,7 +227,7 @@ ciety distinguished for the firm adher­
 ence of its members to the glorious cause  
 in which we are embarked.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346770:1876072001:0297/pct:17.96092595632901,15.471651703357521,13.298308980462979,3.6403886360841224/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346770:1876072001:0297/pct:17.966398511465,15.475751240109867,13.292836425326986,3.6403886360841224/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -247,7 +247,7 @@ firm adhesion of its members to the cause in which
 we are all embarked.&quot; The address then adds:--&quot;It  
 has been a consolation to our country in her darkes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:00271743993:1876100201:0041/pct:244.70166286273232,80.98032447359337,45.63090968373003,7.686112069957427/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:00271743993:1876100201:0041/pct:81.5672209542441,26.993441491197792,15.21030322791001,2.5620373566524757/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -265,7 +265,7 @@ Sons of St. Patrick in this city--a
 socicty distinguished for the firm adherence of its mem  
 bers to the cause in which we are all embarked.&quot; It ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:00206531277:1876100201:0007/pct:101.0146373918829,28.244274809160306,48.17032601463739,4.967704051673517/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:00206531277:1876100201:0007/pct:33.6715457972943,9.414758269720101,16.056775338212464,1.655901350557839/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -287,7 +287,7 @@ are all embarked.” It has been a consolation to
 our country In her darkest sufferings; It has been,  
 and It shall bo through all time, cue of the great
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1876100501:0007/pct:29.08514013749339,60.557125555106985,13.167636171337916,3.108599111828825/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1876100501:0007/pct:29.104970914859862,60.557125555106985,13.1544156530936,3.1186919660880097/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -309,7 +309,7 @@ cause in which we are all embarked.&quot; It has
 been a consolation to our country in her  
 darkest sufferings; it has been, and it shall b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn83045160:00200293149:1876100501:0323/pct:240.32258064516128,222.12158949394316,43.11414392059553,9.690931733272954/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn83045160:00200293149:1876100501:0323/pct:60.08064516129032,55.53039737348579,10.778535980148883,2.4227329333182386/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -373,7 +373,7 @@ in which we are all embarked.&quot; It has
 been a consolation to our country in her  
 darkest sufferings, it has been and shall b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_Cypher_ver01:data:sn86086284:00280762027:1876110501:0941/pct:51.70913610938471,22.622064537928704,23.948622332711828,7.028214225375908/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_Cypher_ver01:data:sn86086284:00280762027:1876110501:0941/pct:34.479900538748446,15.089557282865833,15.97596353087443,4.6806353497803315/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -419,7 +419,7 @@ manner in which it was presented.
 I am, with respect and esteem, sir,  
 vour most obedient servant 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brockovich_ver02:data:sn85032575:00237281901:1885032701:0279/pct:45.37900874635569,80.82479030754892,11.428571428571429,6.0577819198508855/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brockovich_ver02:data:sn85032575:00237281901:1885032701:0279/pct:34.05279276651597,60.624417520969246,8.575178649555198,4.543336439888164/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -479,7 +479,7 @@ The medal of the society, which was udopted
 January 17,1772, Is thus described in the minutes:  
 &quot;Obverse?On the right, filberni* . oh the left, Amer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_rottweiler_ver01:data:sn83045462:0028065467a:1887091701:0621/pct:50.197579649296124,31.046243354398637,12.11410224746851,3.039422208847427/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_rottweiler_ver01:data:sn83045462:0028065467a:1887091701:0621/pct:50.197579649296124,31.051258902598054,12.126450975549519,3.0419299829471362/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -507,7 +507,7 @@ has always been noted * for the firm
 adherence of its members to the  
 glorious cause in which we engaged.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_chaska_ver01:data:sn90059522:00175033270:1887091801:0207/pct:86.6006408389164,81.83732269503547,11.418584328575589,1.4849290780141844/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_chaska_ver01:data:sn90059522:00175033270:1887091801:0207/pct:86.60549567919216,81.84471040189125,11.423439168851345,1.4849290780141844/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -529,7 +529,7 @@ ways be noted for the firm adherence of Its
 members to the glorious cause In which we  
 lahave engaged. &#x27; These nro priceless word
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_chadron_ver01:data:sn99021999:00206538181:1887091801:0651/pct:56.981818181818184,121.20619852017312,18.70909090909091,4.4255200335055145/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_chadron_ver01:data:sn99021999:00206538181:1887091801:0651/pct:42.76100400145508,90.90813904788496,14.041469625318298,3.326120340639397/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -623,7 +623,7 @@ has always been noted for the firm
 adherence of Its members to the glorious  
 cause in which we are engaged. One of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_norman_ver02:data:sn84030037:0022072041A:1887092801:0002/pct:67.84006376195536,28.8,13.496280552603613,1.7363636363636363/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_norman_ver02:data:sn84030037:0022072041A:1887092801:0002/pct:67.84006376195536,28.806060606060605,13.496280552603613,1.7303030303030302/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -641,7 +641,7 @@ has always been noted for the firm
 adherence of its members to the glorious  
 cause in which we are engaged. One of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_corsair_ver06:data:sn96090256:00415623136:1887093001:0087/pct:31.81129215611974,23.858803515735755,11.765820386510041,1.6302806918060675/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_corsair_ver06:data:sn96090256:00415623136:1887093001:0087/pct:31.820765441455098,23.862347604196202,11.770557029177718,1.6338247802665153/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -687,7 +687,7 @@ tinguished for the tinu adherence of its mem­
 bers to the glorious cause In which we are  
 embarked.&quot; Ills name appears as a sub
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_graftonnotch_ver01:data:sn83016025:00414210909:1889042901:0476/pct:74.86828990459918,46.52998703900082,9.454649010394418,2.13267350064805/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_graftonnotch_ver01:data:sn83016025:00414210909:1889042901:0476/pct:74.85763097949886,46.524505183788875,9.456862186788156,2.135367577756833/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -720,7 +720,7 @@ tributed so materially to tne success of
 American arms that on the day of the  
 British evacuation of JSoston—Marc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_betelgeuse_ver01:data:sn90059959:00271742812:1889122801:0176/pct:6.47419072615923,61.93371845545759,14.114902303878681,19.57028478767609/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_betelgeuse_ver01:data:sn90059959:00271742812:1889122801:0176/pct:6.47419072615923,61.937096719705416,14.124623310975018,19.573663051923923/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -808,7 +808,7 @@ which I am honored but with a grateful
 remembrance of the polite and affection­  
 ate manner in which it was presente
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_betelgeuse_ver01:data:sn90059959:00271742836:1894041401:0620/pct:20.74074074074074,57.66137347906785,14.385185185185184,7.10455764075067/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_betelgeuse_ver01:data:sn90059959:00271742836:1894041401:0620/pct:20.750617283950618,57.66481061387228,14.395061728395062,7.10455764075067/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -839,7 +839,7 @@ Patrick, a society distinguished for the firm
 adherence of its members to the glorious cause  
 on which we are embarked.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_dogtown_ver01:data:sn85066387:00175037317:1895112801:0215/pct:56.92307692307692,90.8645276292335,13.10708898944193,2.629233511586453/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_dogtown_ver01:data:sn85066387:00175037317:1895112801:0215/pct:56.93313222724987,90.8645276292335,13.112116641528406,2.632947118241236/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -875,7 +875,7 @@ ner in which it was presented.
 I am, with respect and esteem, sir, your  
 most obedient servant
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_beatles_ver01:data:sn84027718:00271763578:1896031201:0054/pct:36.81079512478236,70.82462253193961,14.26291352292513,5.807200929152149/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_beatles_ver01:data:sn84027718:00271763578:1896031201:0054/pct:27.619738751814225,53.124274099883856,10.6966618287373,4.355400696864112/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -911,7 +911,7 @@ in which it was presented.
 1 am. with respect and esteem, sir, your  
 rnost obedient servant
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_fargo_ver01:data:sn86069161:00100481844:1896031801:0045/pct:23.430555555555557,47.05492319593325,9.61111111111111,4.066747706928942/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_fargo_ver01:data:sn86069161:00100481844:1896031801:0045/pct:23.430555555555557,47.06321140457509,9.61111111111111,4.058459498287103/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -937,7 +937,7 @@ ner in which it was presented.
 I am, with respect and esteem, sir, your  
 most obedient servant
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685348:1896031901:0505/pct:64.04036066981537,78.59386686611818,13.890081580077286,5.0411368735976065/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685348:1896031901:0505/pct:64.02661515346641,78.58211187556087,13.892466194462331,5.044122046066407/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -982,7 +982,7 @@ the polite and affectionate man
 ner in which it was presented. I am, with respect  
 and esteem, sir, your obedient servant
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_fernandez_ver01:data:sn83030272:00175042866:1896032201:0072/pct:267.1863926293409,242.85932488162518,47.696669029057404,17.290361997861616/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_fernandez_ver01:data:sn83030272:00175042866:1896032201:0072/pct:66.83212196419075,60.714831220406296,11.930508775039886,4.322590499465404/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1018,7 +1018,7 @@ president for &#x27;the firm adherence of its
 members to the glorious cause In whlci?  
 we are embarked.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_betelgeuse_ver01:data:sn90059959:00271742861:1898021201:0290/pct:43.4407796101949,38.21693044867141,12.21889055472264,1.6262523595179323/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_betelgeuse_ver01:data:sn90059959:00271742861:1898021201:0290/pct:43.45483508245877,38.22782053143604,12.228260869565217,1.6153622767533033/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1057,7 +1057,7 @@ respect nnd esteem, sir, your most
   
 obedient servant
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_fargo_ver01:data:sn85052118:00206534230:1898031701:0250/pct:68.10810810810811,101.75697424892704,14.239864864864865,10.823497854077253/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_fargo_ver01:data:sn85052118:00206534230:1898031701:0250/pct:51.09834403514701,76.32443669527898,10.696181142277796,8.11762339055794/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

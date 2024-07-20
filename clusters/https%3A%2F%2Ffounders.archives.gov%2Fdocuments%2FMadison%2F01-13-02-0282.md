@@ -120,7 +120,7 @@ did not conceive that the appeal now made to the
 candor of the house, was in point the gent e  
 men who object to the bill had an opportunit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791021901:0003/pct:9.127351218008018,5.483933038291322,55.257477644156644,87.64671926111218/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791021901:0003/pct:9.142769041011409,5.498364441023668,55.242059821153255,87.65634019626708/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -143,7 +143,7 @@ in the committee of the whole.
 Mr. Stone and Mr. Giles were in favor of the  
 re-commitment: They objected to the unconsti
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791021901:0003/pct:36.69441874807277,21.454685395420434,27.412889300030837,7.196459495862998/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791021901:0003/pct:36.70983657107617,21.454685395420434,27.420598211532532,7.206080431017895/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -265,7 +265,7 @@ among the powers veiled by the constitution in
 the legillature of IHe United States? This is the  
 question to be examined.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791022301:0001/pct:35.82183186951067,4.377880184331797,56.304893350062734,87.59600614439324/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791022301:0001/pct:35.82967377666248,4.377880184331797,56.312735257214555,87.61040706605223/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -657,7 +657,7 @@ the want of a bill of rights, presupposed, he said.
 that the powers not given were retained; ani  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791022301:0002/pct:9.362962962962962,3.4589371980676327,82.51851851851852,89.0048309178744/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791022301:0002/pct:9.377777777777778,3.468599033816425,82.51851851851852,89.00966183574879/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -759,7 +759,7 @@ proposed by Congress themselves to the Constitu­
 tion ; and he hoped it would receive its final  
 condemnation, by the vote of this house.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791022301:0003/pct:8.835594824865888,5.197063369397218,28.841905964026505,65.66846986089645/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791022301:0003/pct:8.835594824865888,5.2018933539412675,28.84979488797728,65.6732998454405/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1305,7 +1305,7 @@ the debts and provide for the common
 defence and general welfare  
 “ The power to borrow money on the cre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808081601:0127/pct:23.06996926414753,62.290748898678416,16.741999638401737,2.2529893014474514/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808081601:0127/pct:23.065798987707883,62.28290964007048,16.744998794890336,2.2569007467069384/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1334,7 +1334,7 @@ selves to the constitution; and lie hoped it
 would ceeivc ;ts final condemnation, by the  
 vote of this house.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808081601:0127/pct:22.907250045199785,67.91692888609188,16.958958596998734,8.470736312146004/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808081601:0127/pct:22.903109182935648,67.90838157563554,16.961918534586648,8.473865257152445/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1498,7 +1498,7 @@ proper to carry into execution those powers.
 ih. bill did n&gt;t. some win,in the hr».&lt; ower  
 1* to., no Ux to pay ihe debts, or provide tor ttu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810010401:0299/pct:4.791400983785754,10.781932977173385,17.580615777008564,78.64254492472074/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810010401:0299/pct:4.790528233151184,10.780624013597183,17.58348512446873,78.637044231314/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1866,7 +1866,7 @@ pc i for our . o .Ktitii.&#x27;iits wb.i have li d i;,, . ,
 »vbo Hi&#x27;.- ti a.ns.Ives lo !&gt;*• booed d . t,, j:,  
 nit ilso.e lot so long a pert. d ; all lb. . c ,n
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810010401:0299/pct:22.49954454363272,1.9062651772705197,35.817088722900344,92.37493929091792/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810010401:0299/pct:22.49544626593807,1.9060337501517544,35.816636308439584,92.36777143782122/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2668,7 +2668,7 @@ either, 1st *• The power to I ay and collect tax­
 es. to p iy debts, aiv.l provide for llie common de­  
 fence and general welfare 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810112001:0235/pct:22.92395507273062,34.020118773482004,17.8972564905174,10.81081081081081/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810112001:0235/pct:22.919734904270985,34.0159961221522,17.900098183603337,10.813540151882371/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2756,7 +2756,7 @@ will reach every object ol legislation, , very ob­
 ject within the whole compass of political econ­  
 omy” The doctrine of implication Is always 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810112001:0235/pct:22.887129442091695,44.818809841231364,17.768366783281163,37.86207732396073/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810112001:0235/pct:22.882916053019144,44.81337857489093,17.771232204221896,37.861528518338986/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2791,7 +2791,7 @@ by • .e state cnnve iti&#x27;-ns ”
 No v let us enquire what power is it, given  
 by me constuu ion; to the execution . o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810121501:0270/pct:41.093665403356795,3.1693587860988743,35.372676412199965,92.0704845814978/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810121501:0270/pct:41.08625045110069,3.1689710020800197,35.37230843257549,92.06329785064644/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2824,7 +2824,7 @@ tut ion was nugatory.
 0 he&gt;‘ clauses in the constitution as well  
 as i s ge era I scope and spirit forbid thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810121501:0270/pct:58.47319978343259,27.06803720019579,17.4517235156109,10.083210964268233/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810121501:0270/pct:58.46264886322627,27.06472531506179,17.454589197642246,10.086055711896897/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2842,7 +2842,7 @@ to comply punctually with its engagements.
 when deficiencies or delays ha vp occurred .n the  
 revenue ; and has thus enabled it to maintai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810122701:0289/pct:77.11894586894587,8.067407673001076,17.147435897435898,2.1154535675869486/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810122701:0289/pct:77.10521630763753,8.066443594646271,17.150317488576345,2.1191841937539833/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3422,7 +3422,7 @@ selves to the cons itution ; and he hoped it
 would receive its final condemnation by  
 the vote of this hou^e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1811010101:0299/pct:6.278986799857296,4.297580353918382,71.2272565108812,90.69459491994704/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1811010101:0299/pct:6.277866952024255,4.2970630717380836,71.22049818679032,90.68769057936126/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3447,7 +3447,7 @@ He urged an attention to the diffuse and ductile
 t rms which had been found requisite to cover  
 the stretch of power contained in the bill ” Le
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1811020901:0366/pct:23.55394378966455,46.988099619678565,17.58839528558477,5.643479327689854/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1811020901:0366/pct:23.54967367657723,46.98233562315996,17.59124969784868,5.64687602224403/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3508,7 +3508,7 @@ ligious teachers in every parish, ami pay
 the&gt;n out of the treasury of the United  
 States.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216213:1816042001:0077/pct:19.02821789648408,21.19032635080464,17.851214727629394,3.775959723096287/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216213:1816042001:0077/pct:19.025347012673507,21.18842143113988,17.853550593441962,3.7786168045067723/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3537,7 +3537,7 @@ the explanatory amendments ptoposedby
 and he hoped would receive its final con­  
 demnation by the vote of tne house 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016082:00332895096:1816043001:0251/pct:1.5312632922160783,60.30157835400225,17.566992769034453,9.991544532130778/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016082:00332895096:1816043001:0251/pct:1.5309376993408463,60.29308158376779,17.56857325111631,9.99365929265887/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3575,7 +3575,7 @@ amendments piopose-d by congress themselves
 to tliM Constitution ; and be hoped it&quot; would  
 receive its final condemnation by the vote o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183979:1823052001:0021/pct:17.070805043646946,7.296340023612751,14.791464597478177,7.4970484061393154/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183979:1823052001:0021/pct:17.068045902699208,7.295478692008027,14.794461505306826,7.500098374847519/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4045,7 +4045,7 @@ With all this evidence of the sense in which the
 Constitution was understood, and adopted, will it not  
 be said, if the hill should pass, that its adoption was
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn84021903:00414187432:1831070201:0101/pct:50.74251770619146,4.717748495200911,46.972812428604065,89.45827232796486/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn84021903:00414187432:1831070201:0101/pct:50.73092736409319,4.716981132075472,46.96779351301964,89.44778789850358/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4093,7 +4093,7 @@ inendments proposed by Congress themselves to the
 Constitution ; and he hoped it would receive its final  
 condemnation by the vote of this house.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn84021903:00414187432:1831070201:0102/pct:5.115146147032772,4.716672125777923,14.946855624446412,17.016049787094662/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn84021903:00414187432:1831070201:0102/pct:5.114013725924286,4.715899787129524,14.949081248616338,17.017357131160963/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5463,7 +5463,7 @@ posed by Congress themselves to the Constitution.
 And he hoped it would receive its final condemna­  
 tion, by the vote of the House
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn84021903:00414187432:1831090301:0137/pct:82.22629409070088,31.14562458249833,15.231333027943197,7.414829659318637/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn84021903:00414187432:1831090301:0137/pct:82.20746507900161,31.14042411086993,15.233569956491872,7.417765904157623/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5633,7 +5633,7 @@ by Congress themselves to (lie Constitution:”
 “ And ho hoped it would receive its final condemnation  
 by the vote of the House.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184054:1832012601:0328/pct:33.84827586206897,34.535738142952574,14.841379310344827,6.134491204631485/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184054:1832012601:0328/pct:33.843607778237484,34.5318935767561,14.843929572932469,6.1375190174032435/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5787,7 +5787,7 @@ which ratified the constitution ; was condemn- ‘
 ed by the explanatory amendments proposed  
 by Congress themselvcs to the constitution.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153139:1832111301:0380/pct:36.834295136026384,8.30081589216034,30.667765869744436,88.49473808679201/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153139:1832111301:0380/pct:36.84528716680407,8.304757400181309,30.667765869744436,88.50656261085491/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5817,7 +5817,7 @@ by Congress themselves, to the Constitution;
 “ And lie hoped it would receive its final condemnation ,  
 by the vote of the House.” Although Mr. Madison wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1833072301:0093/pct:48.925915725695404,3.5596208948644477,15.064720462682457,6.6674013665417675/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1833072301:0093/pct:48.91917940245078,3.559228650137741,15.06723576116389,6.670339761248852/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5838,7 +5838,7 @@ by the vote of the House.” Although Mr. Madison wa
 “ receV“ry to the end, and incident to the nature  
 ••id the specified powers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1834022501:0378/pct:20.987654320987655,34.474860944486856,14.622770919067216,3.0537681317482823/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1834022501:0378/pct:20.9847757509258,34.471101417666304,14.625337173684452,3.0570701563067977/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5859,7 +5859,7 @@ Willi all this evidence of the sense in which the Con­
 Jefferson in Ids advisory note, as a member of tbe Cabinet  
 ol General \Y asliington, upon tbe subject of signing ili
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1834032501:0421/pct:34.4687203148324,41.42716642989837,14.628850590310762,3.223691399847011/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1834032501:0421/pct:34.4640434192673,41.42263986013986,14.631388511985527,3.226981351981352/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5975,7 +5975,7 @@ ro&gt;HI|&gt;i&gt;r.&#x27;rv #l&gt; &#x27; ffmciti runt exp***Hons are a reason�
 nHe eYl.h m • of tli- meaning «.t *he parties.  
 In &gt; uiiHiui; oi- i-j v&gt;i,.g » roiMlMirUvc authority,. no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:0041418408A:1834051601:0020/pct:3.493083694285315,1.852663889497917,30.82297051837362,95.02302126726595/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:0041418408A:1834051601:0020/pct:3.492595697122101,1.8524608133289489,30.82332122566825,95.01625927143849/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6179,7 +6179,7 @@ ptrmn previously not ekis&#x27;ing in law. It rotifer# import,
 si.l civil righv and attribute#, wliicli could not otherwise  
 lie claimed, |i w ,| otigh, no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:0041418408A:1834051601:0020/pct:19.267849657677797,4.966016224512169,15.467374598295375,84.02762552071914/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:0041418408A:1834051601:0020/pct:19.26515786532551,4.965471884248602,15.469870541119493,84.02206876393/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6324,7 +6324,7 @@ explanatory amendment* i»ropo»e«\ by t&#x27;ougie** lliciu­
 selves to the Constitution; and he lipped it would receive  
 its linal condemnation hy tin* vote o! this house
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:0041418408A:1834051601:0020/pct:19.267849657677797,2.0061390046042535,31.284057566019282,95.19842139881605/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:0041418408A:1834051601:0020/pct:19.26515786532551,2.0059191055573824,31.284343857688366,95.19164017684241/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7830,7 +7830,7 @@ The defence against ihe charge founded on ihe want: ot
 a bill of righta, preeupfKwed, he aeid. that the powe  
 given, were retained , and that those glv??
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1837082301:0015/pct:65.98347107438016,3.2837596668649613,31.768595041322314,91.51695419393218/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1837082301:0015/pct:65.98898071625344,3.2837596668649613,31.774104683195592,91.52885187388459/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7915,7 +7915,7 @@ hy Congress themselves to the constitution ; and
 * he hopea it would receive ita final condemnstioa by the  
 vote of this House.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1837082301:0016/pct:2.050113895216401,2.7728192312269426,15.53856166612431,33.90455789598953/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1837082301:0016/pct:2.050113895216401,2.7767860684676107,15.543985247857686,33.90455789598953/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7957,7 +7957,7 @@ can the advocates of the bill, to authorize an
 issue of Treasury notes, find a warrant for  
 the passage of the bill in the 17th clause 8t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1837092601:0067/pct:65.52186295861954,51.71310017783047,15.949070196012732,16.052163604030824/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1837092601:0067/pct:65.52186295861954,51.721003754198776,15.95465460434467,16.04821181584667/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8013,7 +8013,7 @@ whom I have borrowed the foregoing thoughts,
 regarding them as strictly applicable to Trea­  
 sury notes, as they are to bank notes, create
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1837092601:0067/pct:65.48835650862792,3.117960877296977,31.9484000670129,90.71724955542383/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1837092601:0067/pct:65.48835650862792,3.1258644536652835,31.959568883676774,90.71329776723968/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8036,7 +8036,7 @@ if the power to borrow does not comprise the
 power to create the ability to lend, it is evi­  
 dent that the advocates of an issue of Trea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1837092601:0067/pct:81.63846540459038,19.27682276229994,15.714525046071369,5.168938944872555/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1837092601:0067/pct:81.63846540459038,19.280774550484093,15.725693862735243,5.168938944872555/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8074,7 +8074,7 @@ the incidental powers &quot; necessary and proper
 for carrying into execution&quot; some one or more  
 of the particularly enumerated powers. An
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1837092601:0069/pct:65.85201415809877,52.279236276849645,15.809876959379741,14.021479713603819/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1837092601:0069/pct:65.85201415809877,52.28321400159109,15.83235013202989,14.021479713603819/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8130,7 +8130,7 @@ whom 1 have borrowed the foregoing thoughts,
 regarding them as strictly applicable to Trea­  
 sury notes, as they sre to bank notes, create
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1837092601:0069/pct:65.85201415809877,2.9236276849642007,31.973706387999325,91.28878281622912/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1837092601:0069/pct:65.85201415809877,2.9276054097056483,31.9849429743244,91.28878281622912/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8163,7 +8163,7 @@ to pay the&#x27; debts of the United States,&quot; nor
 in that of borrowing money, nor can truly  
 class it among the 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1837092601:0069/pct:81.86414967132986,19.176610978520287,15.978425754255857,11.229116945107398/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1837092601:0069/pct:81.86414967132986,19.184566428003183,15.984044047418394,11.229116945107398/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8313,7 +8313,7 @@ ments proposed in Congress to the Consti­
 tution.&quot;And ho honed it would receive its final  
 condemnatiou by the vote of this House.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016942:00295878204:1837092601:0559/pct:49.154804270462634,20.426167209554833,45.90747330960854,103.32519001085777/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016942:00295878204:1837092601:0559/pct:36.89363595905652,15.32301845819761,34.44592790387183,77.49728555917481/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8337,7 +8337,7 @@ free and irrevocable gift to the proposed bank, of using
 their notes in the federal revenue.&quot;  
 The arguments urged in favor of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1837092801:0072/pct:34.04433993953645,27.966402460664852,15.653342290896877,5.12244173666154/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1837092801:0072/pct:34.04433993953645,27.974289206987656,15.658940768111075,5.126385109822943/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8403,7 +8403,7 @@ best sicurities against delinquencies, lie stated, J
 on another occasion, &#x27;&#x27;that the public moneys  
 are safer, by being weekly deposited in banks
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1837102701:0115/pct:48.87696949379819,65.20502488741408,15.638618840093866,12.775539227305048/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1837102701:0115/pct:48.87696949379819,65.20502488741408,15.649793272991396,12.783439993679387/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8544,7 +8544,7 @@ Condemned by -the apparent intention of the
 M tion ; and he hoped it would receive its final con­  
 &quot; demnation by the vote of the House.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197966:1838061301:0096/pct:4.374649467190129,66.51406878070567,20.625350532809872,10.339437248771773/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197966:1838061301:0096/pct:3.2823677935194278,49.88834301027244,15.486042923271146,7.7601607860652075/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8562,7 +8562,7 @@ the constitution condemned by the rule of interpret.
 tion arising outof ,ihe cons&#x27;itutioii; condemned by iti  
 tendency to destroy the main characteristic of the con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1838070701:0521/pct:83.3665008291874,60.27900146842878,15.223880597014926,2.1047479197258934/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1838070701:0521/pct:83.37202874516308,60.27900146842878,15.240464344941957,2.1129058573992494/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8598,7 +8598,7 @@ thems:lves to the Consutation ; and he hoped it
 wounld receive its final condemnation by the vote of  
 this House &gt;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1838072401:0119/pct:17.667471333735666,41.87919463087248,14.453832226916113,9.63345379452762/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1838072401:0119/pct:17.67752967209817,41.88607812768887,14.448803057734862,9.626570297711238/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8656,7 +8656,7 @@ rent intention of the parties which ratified the Conslitu |
 lion: condemned by the explanatory amendments pro- I  
 posed by Congress themselves, to the Constitution; and 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_armani_ver02:data:sn84024735:00415664230:1838083101:0341/pct:51.269340543788495,84.35509138381201,15.983175604626709,4.16710182767624/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_armani_ver02:data:sn84024735:00415664230:1838083101:0341/pct:51.269340543788495,84.36205395996518,15.988182865154474,4.16710182767624/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8708,7 +8708,7 @@ to perform thetrojfice, At the expiration of its
 charter, in 1811, it had completely effected this  
 work
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197966:1838102401:0169/pct:88.45505617977528,68.92668093253745,20.660112359550563,6.836355445433044/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197966:1838102401:0169/pct:66.36695701039618,51.695010699403085,15.495925821860073,5.135713481247889/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8733,7 +8733,7 @@ derstood by its friends and Iocs at ils adoption, nml
 so it was and ought to be interpreted. Is the power  
 given to the general Government by the constitution
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016867:00295877637:1838121501:0275/pct:22.40841777084957,83.55773153814769,19.777864380358533,6.7455460356317145/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016867:00295877637:1838121501:0275/pct:16.825891986742054,62.66829865361077,14.837200233963735,5.0591595267237865/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8762,7 +8762,7 @@ per to carry into execution those powti.
   
 And irom these, ti:ey claim me rigni, ny me s&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016867:00295877637:1838121501:0275/pct:22.720187061574435,97.51121991024071,19.6024941543258,5.113559091527268/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016867:00295877637:1838121501:0275/pct:17.059855722363032,73.14021487828097,14.720218366153246,3.835169318645451/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8781,7 +8781,7 @@ And irom these, ti:ey claim me rigni, ny me s&#x27;
   
 ing out of the Constitution.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016867:00295877637:1838121501:0275/pct:23.421667965705378,119.14864681082551,19.427123928293064,2.1895824833401334/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016867:00295877637:1838121501:0275/pct:17.586274127510237,89.36488508091935,14.583739520374342,1.6455868353053176/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8838,9 +8838,9 @@ right to iicorporate a bank, could on
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1839-01_5_13/page/n127/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1839-01_5_13/page/n127/mode/1up?view=theater)
 
-#### 1839-01-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1839-01-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8882,7 +8882,7 @@ iisniiil prerogative. which, not being enumerated in the
 ed in it; and, not being included, could never be right­  
 joilv exftcised
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1839071901:0077/pct:0.2829907655644921,12.705043301069791,15.46023235031278,4.635761589403973/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1839071901:0077/pct:0.2929202661106146,12.71183562574291,15.450302849766656,4.635761589403973/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8908,7 +8908,7 @@ xphnatory amendments proposed by Congress them
 V-lves to the Constitution; and he hoped the bill would  
 scceiveii* final condemnation 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1839071901:0077/pct:0.2978850163836759,17.075904228222107,15.430443848674411,5.430463576158941/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1839071901:0077/pct:0.2978850163836759,17.08269655289523,15.435408598947474,5.4338597384955/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8942,7 +8942,7 @@ of any parly, contended that the power in question, was
 given by the Constitution, or even intended lo be be­  
 stowed by iis trainers: but the friends of the Hank as
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1840040701:0437/pct:48.02386278896346,30.14919395213778,16.152125279642057,8.941624111344748/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1840040701:0437/pct:48.02386278896346,30.155869296752446,16.162068108376832,8.941624111344748/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8967,7 +8967,7 @@ ments proposed by Congress themselves to the Con­
 stitution; and he hoped it would receive its final con­  
 demnation bv the vote of this House!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1840040701:0437/pct:79.68680089485458,12.626414338640233,15.734526472781507,4.916391308701312/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1840040701:0437/pct:79.69674372358936,12.626414338640233,15.72955505841412,4.919728981008644/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9050,7 +9050,7 @@ demned by the explanatory amendments proposed by
 it would receive its final condemnation by the vole ol  
 this house.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1841051101:0290/pct:64.26308643837683,10.767706785537396,16.111027304269122,15.770183259039129/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1841051101:0290/pct:64.26308643837683,10.767706785537396,16.116055714788555,15.780089153046063/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9071,7 +9071,7 @@ tins sense he said, it had been explained by the friends
 of the Constitution and ratified by the State Conven­  
 tions.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1841051401:0294/pct:49.78915662650602,71.41155449672424,15.798192771084338,3.245979749851102/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1841051401:0294/pct:49.78915662650602,71.41486334458341,15.803212851405622,3.2492885977102772/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9613,7 +9613,7 @@ posed by Congress themselves to the Constitution.
 And he hoped it would receive its final condemnation  
 by tiie vote of this House
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1841060101:0315/pct:2.437166793602437,3.314917127071823,48.53008377760853,95.61024610748368/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1841060101:0315/pct:2.437166793602437,3.314917127071823,48.53516120842853,95.6169429097606/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9651,7 +9651,7 @@ amendments proposed by Congress themselves
 to the Constitution ; and he hoped it would re­  
 ceive its final condemnation by the vote of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197978:1841060201:0090/pct:68.8945290468133,106.91519963180302,20.41737168640722,10.884823380508571/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197978:1841060201:0090/pct:51.69252468265162,80.18639972385226,15.31734837799718,8.169370613278105/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10361,7 +10361,7 @@ Constitution. impression might, perhaps, lie the stronger,
 bttamat Hr &gt;rttl rrrolhri... &quot;&lt;1 ;.i ifrr to i;rnnl tharttn &lt;?&#x27; inrirrjui  
 ralun Aid hit* prppmal is tht it. ?J : rjteted.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1841081701:0400/pct:48.092174173275474,45.058576148993694,15.816250187041748,2.2028637228396915/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1841081701:0400/pct:48.092174173275474,45.061913821301026,15.826225746920047,2.2028637228396915/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10388,7 +10388,7 @@ adduced lo prove that the proposition to grant Congress
 the power to create a National Bank had been made  
 and rejected in the Convention. But he had now a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1841081701:0400/pct:48.10713751309292,79.36317212376089,15.651653449049828,6.057875237809152/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1841081701:0400/pct:48.10713751309292,79.36984746837555,15.651653449049828,6.057875237809152/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10408,7 +10408,7 @@ because he well recoltected that a power to grant
 charters of incorporation had been proposed in the  
 General Convention, and rejected.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184595:1841081801:0744/pct:86.10765401369011,54.08826548067054,38.65899191039203,7.469494811266963/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184595:1841081801:0744/pct:28.69808679421372,18.027366020524514,12.884326230103179,2.489547700494109/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10426,7 +10426,7 @@ General Convention, and rejected.
 be admitted, where doubtful, it is fairly triable by  
 its consequences.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184595:1841081801:0744/pct:85.73428749222153,85.35750940814232,39.26571250777847,4.80100353518075/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184595:1841081801:0744/pct:28.573650645512522,28.44925883694413,13.086534971742624,1.6001520334473585/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10446,7 +10446,7 @@ have proved to be beneficial.
 to the instrument, if to be collected by reasonable  
 evidence, is a proper guide.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184595:1841081801:0744/pct:85.73428749222153,90.38658912076633,39.03235843186061,7.401071958033984/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184595:1841081801:0744/pct:28.573650645512522,30.125427594070697,13.008762378804375,2.466742683390346/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10477,7 +10477,7 @@ ted that a power to grant charters of incorpo­
 ration had been proposed in the General Gov  
 ernment, and rejected. Cong. Debates o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn83016924:00200292091:1841082801:0340/pct:58.223992502343016,42.55848680935789,23.289597000937206,14.916210386593661/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn83016924:00200292091:1841082801:0340/pct:43.68408718068901,31.9230131076821,17.483009139910944,11.183009789281567/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10689,7 +10689,7 @@ stitution, and hoped it would received i&#x27;4
 final condemnation by vol# of th®  
 House.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn85050801:00279528499:1841102901:0091/pct:84.0671811166591,80.33076074972436,14.434861552428506,15.55678059536935/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn85050801:00279528499:1841102901:0091/pct:84.07726837141271,80.33811098860713,14.434861552428506,15.553105475927968/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10730,7 +10730,7 @@ I cf tbe V S.- or
 pr&#x27;?j?i-r l&gt;? carry into execution those powers.&#x27;  
 lie then proceeded to nrgue, lh.it the power to incor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1841120301:0526/pct:33.19277108433735,2.2829678582156805,31.882530120481928,96.20506658656254/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1841120301:0526/pct:33.19277108433735,2.289643202830346,31.88755020080321,96.20506658656254/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10762,7 +10762,7 @@ assent given in any other manner than in the form
 of an amendment to the Constitution in the mode  
 prescribed therein; and whereas the experience of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1841122901:0566/pct:65.14579241577277,18.59412711182623,15.984287656745732,8.024939662107803/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1841122901:0566/pct:65.14579241577277,18.60083132207026,15.994359671652314,8.02829176722982/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10784,7 +10784,7 @@ tern power to lie deduced by implication, as a means o:
 executing another pow er, or in any o&#x27;?her mauu.-r and not  
 being included in it, can never be rightfully exercised
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1842010401:0574/pct:81.36712749615975,47.23140082106739,16.251920122887864,3.7048162611394813/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1842010401:0574/pct:81.37224782386073,47.23473849337472,16.25704045058884,3.7048162611394813/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10813,7 +10813,7 @@ posed by Congress themselves to the Coastitn­
 lion, and he hoped it would receive its final con­  
 demnation by the rote of this House.’ Wil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157303:1843040601:0227/pct:3.3356618931191058,68.67076691351826,13.569682151589243,6.577130663988955/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157303:1843040601:0227/pct:3.3350794482276935,68.66214859437751,13.57167801641348,6.579442771084337/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11149,7 +11149,7 @@ powers of the articles of Confederation. Congress be­
 trayed a consciousness of this, in recommending to the  
 Slates to incorporate the Bank also;&quot;?and on the re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664278:1844031201:0316/pct:64.5870736086176,48.04480061793956,15.78396169958109,2.278652119339577/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664278:1844031201:0316/pct:64.5870736086176,48.048019053136365,15.788948733293436,2.2818705545363844/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11183,7 +11183,7 @@ by Congress themselves to the Constitution, and he
 hoped the bill would receive its final condemnation.&quot;  
 These were the settled opinions of a statesman, wh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664278:1844041201:0356/pct:16.26737651582372,59.51350831650803,15.897663413191363,8.749158734737044/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664278:1844041201:0356/pct:16.26737651582372,59.51991795660674,15.912451937296657,8.752363554786399/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11246,7 +11246,7 @@ notes, by penalties against counterfeiters. These
 wen* reserved, wholly to the authority of the  
 States.&#x27;&#x27;?(Doeutnentarv If istorv. page II.)?Mr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664278:1844092401:0547/pct:3.0554731533669535,20.73417477598998,13.794126371996441,6.426437999807304/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664278:1844092401:0547/pct:3.065361415999209,20.740598002376593,13.794126371996441,6.426437999807304/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

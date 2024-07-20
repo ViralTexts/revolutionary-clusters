@@ -3516,7 +3516,7 @@ turc times, posterity will
 &quot; &quot; I &#x27;v4 IV I V; V1H C  
 the names of Van Wert. Pnuld innr iiml WI
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016942:00295878204:1839071801:0894/pct:30.629432624113477,96.10461114934618,24.17996453900709,7.873365450791466/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016942:00295878204:1839071801:0894/pct:22.993348115299334,72.08534067446662,18.137472283813747,5.905024088093599/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4487,7 +4487,7 @@ spired to make her en object of sympathy to
 all who were present.&quot; Hamilton&#x27;s judgment on  
 m matter where sympathy with afflicted beaut
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_emeralds_ver02:data:sn85025007:00414215798:1847061001:0012/pct:8.746591253408747,59.32040830307597,14.705585294414705,4.51462629307392/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_emeralds_ver02:data:sn85025007:00414215798:1847061001:0012/pct:8.745707937790346,59.31634470475407,14.707466505083149,4.516600447549893/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4520,7 +4520,7 @@ and exploding the idea, in his examination before the board
 of officers. &quot;It was a weakness to urge it.&quot;  
 in the statement submitted to that board Andre speak
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743087:1853070601:0058/pct:248.759367194005,72.79890373415553,46.178184845961695,22.633321913897454/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743087:1853070601:0058/pct:82.91978906466834,24.266301244718512,15.392728281987234,7.544440637965818/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4543,7 +4543,7 @@ Had he been caught, swift and sure as the lightnin
 would the deserved death have been visited apon his  
 But he survived to command as a British colonel, a for
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743087:1853070601:0058/pct:240.39966694421315,99.29199497544822,54.721065778517904,10.677172547676145/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743087:1853070601:0058/pct:80.13322231473772,33.09733165848274,18.240355259505968,3.5590575158920483/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4627,7 +4627,7 @@ travel, he united a peculiar elegance of
 mind and manners, and the advantage of  
 a most pleasing person He bad a pretty
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn85033189:00271769763:1855070401:0358/pct:15.371279976885294,93.22477795490776,13.709910430511412,7.68617626964245/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn85033189:00271769763:1855070401:0358/pct:14.611830367354408,88.56596834096564,13.0335330984949,7.308982079111527/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4663,7 +4663,7 @@ unlimited confidence of his general, and
 was making rapid advances in military  
 rank and reputation.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn85033189:00271769763:1855070401:0358/pct:16.425888471540016,13.914825780004556,26.84195319271887,24.231382373035753/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn85033189:00271769763:1855070401:0358/pct:15.604556475593578,13.21890888111636,25.499794135138846,23.030324883712545/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4686,7 +4686,7 @@ If, as Hamilton says,&quot; even by his en­
 emies was Andre universally esteemed  
 and universally regretted,&quot; it is natura
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_galloway_ver01:data:sn83032308:00513685506:1855081501:0043/pct:33.266932270916335,33.7238599143361,12.134794156706507,5.3036029226505415/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_galloway_ver01:data:sn83032308:00513685506:1855081501:0043/pct:33.261410788381745,33.71961204181887,12.136929460580912,5.306083889658647/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4710,7 +4710,7 @@ was Andie universally esteemed and univer­
 sally regretted&quot;, it Is natural enough that his  
 own AOuntrymeo should feel and speak wit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn86071378:0021247762A:1855082201:0584/pct:87.16645489199492,59.73993498374594,18.837357052096568,8.202050512628157/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn86071378:0021247762A:1855082201:0584/pct:65.39561487130601,44.81120280070017,14.140451223387354,6.151537884471118/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4812,7 +4812,7 @@ amiable. His spectators, who enjoy a hand
 pier lot, are leas prone to deteach fromt  
 through envy, and ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_idacox_ver02:data:sn93067882:0020219428A:1858070201:0773/pct:253.25059101654847,193.61409933623256,46.439125295508276,69.66124971389334/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_idacox_ver02:data:sn93067882:0020219428A:1858070201:0773/pct:84.41686367218283,64.53803311207751,15.479708431836091,23.22041657129778/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5258,7 +5258,7 @@ marked that he had a choice as to the mode of
 his death, &quot;which would make a material dif­  
 ference in his feelings,&quot; and which induce
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:00206533523:1879010101:0291/pct:7.920792079207921,93.13292071912761,55.293221629855296,59.06277630415561/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:00206533523:1879010101:0291/pct:1.9805751285469435,23.283230179781903,13.825937916587316,14.765694076038903/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5314,7 +5314,7 @@ was at once precipitated from the summit of
 prosperity, And saw all tho expectations of his  
 ambition blasted aud himself ruined.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pulaski_ver01:data:sn84031492:no_reel:1879012301:0003/pct:16.344370860927153,81.61389172625128,13.271523178807946,17.446373850868234/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pulaski_ver01:data:sn84031492:no_reel:1879012301:0003/pct:16.364238410596027,81.62921348314607,13.264900662251655,17.446373850868234/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5339,7 +5339,7 @@ amining witnesses, thu Board made up their re­
 port.&quot; .  
 The report, or death-sentence, waa approve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pulaski_ver01:data:sn84031492:no_reel:1879012501:0011/pct:57.79620219309976,83.42137342543681,13.105108317732014,4.672897196261682/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pulaski_ver01:data:sn84031492:no_reel:1879012501:0011/pct:57.80957475260765,83.43661113368549,13.111794597485959,4.677976432344575/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5403,7 +5403,7 @@ of prosperity and saw all the expecta­
 tions of his ambition blasted and him­  
 self ruined.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn84024448:00296020722:1886102001:0656/pct:70.19867549668874,289.5853291364445,49.66887417218543,61.58478171616258/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn84024448:00296020722:1886102001:0656/pct:17.549668874172184,72.39633228411112,12.417218543046358,15.396195429040645/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

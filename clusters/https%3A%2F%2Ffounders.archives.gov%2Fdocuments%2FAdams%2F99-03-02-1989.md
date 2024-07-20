@@ -118,7 +118,7 @@ tribes, at eternal war with one another, for a
 rock or a fish pond, the spogt and fable of Eu­  
 ropean masters and oppressors.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216419:1829022701:0052/pct:23.988084808130367,40.454222853087295,19.134396355353076,43.82540809084457/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216419:1829022701:0052/pct:23.983882270497546,40.449438202247194,19.136883905629524,43.82416715947171/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -168,7 +168,7 @@ ti id*’of litib- yisignifiran&#x27; chins and tribes,at eternal
 War wth one another, for a rork or « fisli pond, the!  
 ►port and fable ofEurnponn maulers and oppressors.*&#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:0041418456A:1829030201:0308/pct:42.91626870423432,64.26992437463642,18.19484240687679,14.96218731820826/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:0041418456A:1829030201:0308/pct:42.90943816648098,64.2624476500698,18.19725184359913,14.964324492011789/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -238,7 +238,7 @@ eternal war with one another for a rock or a h*h
 pond, the sport md fabJe of European masters and  
 oppressors,&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1829030301:0414/pct:19.47376969303232,60.926037282020445,15.900600942017217,26.746843054720387/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1829030301:0414/pct:19.47060734004547,60.91871091871092,15.903431850167804,26.747635080968415/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -297,7 +297,7 @@ war with one another, for a rock or a fish pond,
 the sport and fable ot European masters and op­  
 pressors.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1829030701:0066/pct:8.09134906231095,7.03567855951984,17.846339987900787,26.24208069356452/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1829030701:0066/pct:8.090125510358385,7.0348966436986,17.848681889208127,26.24286878565607/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -440,7 +440,7 @@ ficant c lans and tribes, at eternal war with one ;
 another, for a rock ora fish-pond, the sport and  
 fable of European masters and oppressors.” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1829030901:0039/pct:21.385268263110035,14.69939879759519,16.61109427099121,21.793587174348698/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1829030901:0039/pct:21.385268263110035,14.706078824315297,16.616146306961706,21.793587174348698/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -514,7 +514,7 @@ billed undei one social compact, we shall have
 a rock or a fr.li pond, the sport and fable of  
 j l.uiopeaa m ister* ami oppressors 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1829030901:0236/pct:63.463131731565866,40.761105484011,15.182270091135045,30.429749674432063/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1829030901:0236/pct:63.44998964588942,40.755208333333336,15.184303168357838,30.42896412037037/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -721,7 +721,7 @@ j nificant clans and tribes at eternal war with one
 l another lor a rock or a fish-pond, the spoit and  
 t liable of European masters and oppressors.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1845072901:0278/pct:58.45403488028377,8.111496913580247,13.715637008572273,5.217978395061729/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1845072901:0278/pct:58.45403488028377,8.11792695473251,13.72549019607843,5.22119341563786/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -749,7 +749,7 @@ tribes at eternal war with one another for a
 rock or a fish-pond, the sport and fable of  
 European masters and oppressors.&quot; Te
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023296:00200296102:1845081401:0131/pct:148.1825866441251,269.0207795735434,59.67878275570583,38.89718864593237/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023296:00200296102:1845081401:0131/pct:37.053477066159374,67.25519489338585,14.922849291904459,9.724297161483092/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -778,7 +778,7 @@ cant elans and tribes at eternal war with one
 another for a rock or a fish pond, the sport and fa­  
 ble of European masters and oppressors.’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn86071753:00414184376:1845081901:0108/pct:44.21238938053097,14.699440253102944,17.61061946902655,8.834266244828425/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn86071753:00414184376:1845081901:0108/pct:44.20456556361706,14.697651782455287,17.61340175780098,8.837247029241189/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

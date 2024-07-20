@@ -82,7 +82,7 @@ the great United States of America,
 seal.) £dm. Randolph.  
 Secretary of State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794111501:0002/pct:60.11205976520811,18.51360318513603,16.675560298826042,26.741871267418713/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794111501:0002/pct:60.12540021344717,18.517750497677504,16.675560298826042,26.746018579960186/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -145,7 +145,7 @@ the great United States of America, a
 seal.) Edm. Randolph. 0  
 Secretary of State 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794111701:0003/pct:22.357615894039736,52.76381909547739,17.721854304635762,31.809045226130653/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794111701:0003/pct:22.370860927152318,52.76381909547739,17.741721854304636,31.81323283082077/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -186,7 +186,7 @@ himfelf acceptable to you and give effeél to our
 desire of preserving and advancing on all occa­  
 sions,. the interest and conneélion
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1794112501:0339/pct:48.10560859188544,18.048830740702584,19.555489260143197,18.39909343772535/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1794112501:0339/pct:48.11058074781225,18.05569863672264,19.565433571996817,18.395659489715324/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -781,7 +781,7 @@ isull crcdcncc {0 whatever he shall lay to&#x27;
   
 year profit-ent); is an age:? of actzr aﬀectio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802111701:0573/pct:2.135892276737347,6.473609635139922,44.54418820616004,89.65639390719093/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802111701:0573/pct:2.1355617455896008,6.473036394226512,44.542453316826574,89.65140647598807/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -83,7 +83,7 @@ liny make him very useful to him.
 1 wish you a pleasant and prosperous  
 [insaagu and a nafo and speedy return
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_eritrea_ver01:data:sn84026844:00202193547:1889050201:0425/pct:22.508474576271187,53.35941486647389,10.689265536723164,17.417928219084878/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_eritrea_ver01:data:sn84026844:00202193547:1889050201:0425/pct:22.52542372881356,53.35941486647389,10.67231638418079,17.43493791461133/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -130,7 +130,7 @@ reason to hope he may, with your good manage­
 paW., sell well, if kept clean and trim&#x27;dap a Httte  
 when offered for sate.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ibo_ver01:data:sn91059394:00383347749:1889050801:0322/pct:5.577386233996704,83.73641437383726,10.673089111420966,10.917458141584255/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ibo_ver01:data:sn91059394:00383347749:1889050801:0322/pct:5.58583681919973,83.73641437383726,10.673089111420966,10.917458141584255/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -177,7 +177,7 @@ when offers for sale.
   
 A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ibo_ver01:data:sn91059394:00383347749:1889050801:0323/pct:5.76236613972463,83.88203017832647,10.708822029576746,11.963550852439742/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ibo_ver01:data:sn91059394:00383347749:1889050801:0323/pct:5.76661567227605,83.88856228362401,10.713071562128166,11.963550852439742/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -228,7 +228,7 @@ reason to hope he may, with your good manage­
 ment, sell well, if kept clean and trtm&#x27;d up a little  
 when offered for sale.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ditto_ver02:data:sn87058308:00279529030:1889051601:0414/pct:76.42268445839875,67.88654332056403,8.31043956043956,8.509250957698264/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ditto_ver02:data:sn87058308:00279529030:1889051601:0414/pct:76.42268445839875,67.88654332056403,8.313710099424386,8.51196783220583/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -267,7 +267,7 @@ WMOP to hope he may, with your good manage­
 ment, sell well, if kept clean and trtm&#x27;d up a little  
 when offered for sale.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_ketchup_ver01:data:sn87068192:00279529649:1889051601:0578/pct:20.885791366906474,81.2528718027263,14.388489208633093,12.743145964159902/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_ketchup_ver01:data:sn87068192:00279529649:1889051601:0578/pct:20.881096875702404,81.24042879019908,14.390874353787368,12.745022970903522/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -317,7 +317,7 @@ ful to you.
 I wish you a pleasant and prosperous  
 passage, and a safe and speedy return
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_ionia_ver01:data:sn98066392:00296024429:1889052901:0193/pct:101.42395772166765,87.69662921348315,42.36641221374046,48.56741573033708/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_ionia_ver01:data:sn98066392:00296024429:1889052901:0193/pct:33.81791483113069,29.232209737827716,14.126284875183554,16.189138576779026/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -515,7 +515,7 @@ I wish you u pleasant nod prosper?
 ous passage, and a safe and speedy  
 roturu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mauve_ver04:data:sn85034357:00175033877:1889071201:0529/pct:42.586272279105046,44.442815249266864,13.936291240045506,28.826979472140764/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mauve_ver04:data:sn85034357:00175033877:1889071201:0529/pct:42.592592592592595,44.452590420332356,13.942611553533055,28.826979472140764/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -547,7 +547,7 @@ One pot of tamarinds, containing
   
 about 10 pound
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gilamonster_ver01:data:sn82016246:00211106414:1889082401:0170/pct:73.75478927203065,33.395044146966676,15.057471264367816,13.187126174878951/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gilamonster_ver01:data:sn82016246:00211106414:1889082401:0170/pct:55.34687619777693,25.049843349473086,11.307014181678804,9.89746510965537/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -600,7 +600,7 @@ parous passage and a safe and speedy
 return. Sir, your most humbli  
 urn-ant, G. Washington&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gilamonster_ver01:data:sn82016246:00211106414:1889082401:0170/pct:74.06130268199233,47.63600113927656,15.268199233716475,28.367986328681287/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gilamonster_ver01:data:sn82016246:00211106414:1889082401:0170/pct:55.576849367573786,35.7305610937055,11.460329628210042,21.275989746510966/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -656,7 +656,7 @@ v.-isii yon a pleasant and prosperous
   
 %asiai e. and a safe and speedy return.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_corsair_ver06:data:sn96090256:00415623136:1890042501:0678/pct:67.80375622844002,35.986514218704194,12.4952088922959,16.3441805922017/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_corsair_ver06:data:sn96090256:00415623136:1890042501:0678/pct:67.80854733614412,35.99017883318675,12.5047911077041,16.351509821166815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -813,7 +813,7 @@ mak&#x27;- him very useful to you.
 I wish you a pleasant and prosperous  
 passage, aud a safe aud spoody return
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_napa_ver01:data:sn82015104:0017503674A:1893030901:0259/pct:43.97810218978102,18.722671260103354,12.864963503649635,15.012587783225122/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_napa_ver01:data:sn82015104:0017503674A:1893030901:0259/pct:43.99178832116788,18.732608983702132,12.864963503649635,15.00596263415927/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -892,7 +892,7 @@ meats, and the residue, much or little,
 in good old spirits!&quot;  
 As to his sense of humor there ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_garwood_ver02:data:sn83040340:00237285293:1897041601:0334/pct:52.73760330578512,76.39980353634577,20.55785123966942,9.945972495088409/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_garwood_ver02:data:sn83040340:00237285293:1897041601:0334/pct:35.176571920757965,50.93320235756385,13.712316968130922,6.630648330058939/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

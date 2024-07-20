@@ -128,7 +128,7 @@ the court, it (hall be forwarded to you. I fa.
 lute you with etieeni and relpedl,  
 r&lt; „ TH: JEbTERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1807061701:0054/pct:77.18218036943136,26.345332519829164,19.12350597609562,36.91275167785235/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1807061701:0054/pct:77.16820568531595,26.34211810639336,19.12607882189631,36.9123149503823/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -216,7 +216,7 @@ ceive in tne defence before the court, it
 with esteem and respect.  
 Til: JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807062001:0206/pct:22.17557251908397,4.371515458692347,36.583969465648856,90.82615306639634/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807062001:0206/pct:22.17134134707117,4.370961611554542,36.58334923360682,90.8188690400777/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -295,7 +295,7 @@ George IIay, Esq.
 LATEST FOREIGN IN I KLLIGENCF.,  
 From papers received at the office of the Public
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807062201:0585/pct:6.163215590742996,4.176745686179649,42.216808769792934,93.63005966779552/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807062201:0585/pct:6.161714564052606,4.176072234762979,42.212615684364344,93.61899387294422/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -427,7 +427,7 @@ cf the letter, w.rich aro no* directly
 mat -rial f*v the pui poses of justice.  
 With tl tion which i» spe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807062601:0002/pct:2.6816608996539792,65.11659997240237,18.728373702422147,26.838691872498966/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807062601:0002/pct:2.688869665513264,65.12579918127041,18.73558246828143,26.838691872498966/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -464,7 +464,7 @@ I before the court, it shall be; forwarded
 ! respect.  
 _ TH : JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807062601:0002/pct:21.58304498269896,3.7118807782530703,18.923010380622838,14.654339726783496/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807062601:0002/pct:21.590253748558247,3.716480382687089,18.937427912341406,14.668138540085552/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -643,7 +643,7 @@ court ; it fhali be forwarded to you. I fa­
 l lute you with esteem and refpet.  
 TH : JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1807063001:0524/pct:76.76089333125097,3.4951841922351305,16.617210682492583,34.79296991361335/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1807063001:0524/pct:76.76089333125097,3.501803859265879,16.622416575563538,34.79296991361335/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

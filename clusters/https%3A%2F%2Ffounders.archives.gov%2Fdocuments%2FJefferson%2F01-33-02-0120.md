@@ -79,7 +79,7 @@ March, 1801.
 (Signed)  
 TH. JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801031301:0003/pct:26.287262872628727,11.969811320754717,22.246858832224685,38.56603773584906/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801031301:0003/pct:26.303687279297037,11.979874213836478,22.238646628890532,38.5559748427673/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -120,7 +120,7 @@ March, 1801.
   
 TH. JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215981:1801031401:0329/pct:25.541694024950754,47.855811062771906,22.07485226526592,26.40356328982805/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215981:1801031401:0329/pct:25.538340336134453,47.850854479544275,22.076330532212886,26.404281028827896/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -183,7 +183,7 @@ March, 1801-
 (Signed)  
 TH. JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801031601:0002/pct:74.02894135567404,2.287029930928626,23.203858847423202,39.017651573292405/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801031601:0002/pct:74.04586612507404,2.2972627270401635,23.186934078023185,39.012535175236636/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -246,7 +246,7 @@ March, 1801.
 (Signed)  
 TH. JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801033001:0003/pct:50.19762845849802,1.833838303300909,23.689064558629777,40.886620953595916/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801033001:0003/pct:50.21519543258674,1.833838303300909,23.689064558629777,40.907882846967524/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -309,7 +309,7 @@ Marchy 1801.
 (Signed)  
 TH. JEFFERSQN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801040601:0003/pct:73.38603425559947,45.133030499675534,23.50461133069829,41.15833874107722/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801040601:0003/pct:73.40360122968819,45.143845987454036,23.487044356609573,41.15833874107722/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -371,7 +371,7 @@ March, 1801.
 (Signed)  
 TIL JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801040801:0003/pct:70.86349534643226,32.24735094100902,23.810754912099277,39.72797722600031/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801040801:0003/pct:70.8807307824888,32.252622700195055,23.819372630127543,39.72797722600031/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -419,7 +419,7 @@ I Tho?.i as J KFFEJiiOK, Frefident of tht
 j United State, do declare, that the opera­  
 tion of the firft and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801041301:0002/pct:72.02323330106486,37.942739079102715,21.418199419167472,26.6086186540732/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801041301:0002/pct:72.03130041949017,37.952577725305,21.42626653759277,26.613537977174342/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -482,7 +482,7 @@ Given under my hand this 1 \ tli Day or
 (Signed)  
 TH. JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801041701:0003/pct:49.90748083531589,0.7576978881186522,23.896378535553794,40.964049653393516/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801041701:0003/pct:49.91629218433342,0.7630716320060186,23.896378535553794,40.97479714116825/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -545,7 +545,7 @@ id March, 1801.
 ,e (Signed)  
 &quot; TIL JEfFERSCCI
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801042001:0002/pct:49.62541978816843,20.083617218953236,24.2056316197365,39.68720966243419/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801042001:0002/pct:49.63403082752088,20.09394033240425,24.2056316197365,39.67688654898318/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -608,7 +608,7 @@ March, 1801.
 (Signed)  
 l TH. JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801060501:0003/pct:73.0289354924343,0.9770943456671473,24.900451287496683,40.98990869774147/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801060501:0003/pct:73.03778426687904,0.9824336590314485,24.909300061941423,40.99524801110577/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -758,7 +758,7 @@ third day of January, in the
 year 1802.  
 Tn : JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_burmese_ver01:data:sn83045242:print:1802020501:0004/pct:10.285285285285285,13.089071383449147,15.803303303303304,36.55085281111813/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_burmese_ver01:data:sn83045242:print:1802020501:0004/pct:10.285285285285285,13.093282796378185,15.815815815815816,36.55085281111813/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -800,7 +800,7 @@ next.—and beneficial effeclii r.ril.ng from fuch
 fufpenfions having been experienced, it is  
 deemed proper to revive the fame with
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805012501:0004/pct:60.18538478120284,29.858803986710964,18.430696270748005,17.483388704318937/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805012501:0004/pct:60.18538478120284,29.863418235511258,18.437881727383775,17.483388704318937/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -847,7 +847,7 @@ Prefident of the United State*, do declare
 the firft and third artic er, above recited fhall  
 J be. and the fame are here&#x27; y ftjfpended unti
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805030801:0004/pct:59.91983967935872,47.178423236514526,19.394344244043644,21.70124481327801/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805030801:0004/pct:59.927261931269946,47.178423236514526,19.394344244043644,21.719686491470725/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -890,7 +890,7 @@ day of June in the year »7u6 to the firit day
 j from futh fofrenfiona having been exptrteac*  
 rd it is deemed proper to revive the fains wit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806031401:0004/pct:21.12269802529399,9.687282835302293,19.724872420678945,17.901320361362057/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806031401:0004/pct:21.13748983063383,9.696548529071114,19.710080615339102,17.901320361362057/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -930,7 +930,7 @@ Presidtat of the United .1 tat«», from the fifth
 day of June io the year 1 796 to the firft day  
 of January Ml, and Beneficial effects arifiti
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806040401:0001/pct:60.10224494332074,52.73250239693193,18.581907090464547,16.01150527325024/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806040401:0001/pct:60.10224494332074,52.737067981555036,18.589316144328368,16.006939688627128/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -975,7 +975,7 @@ j day of June 1796 to this day, and bene*
 [ tlcial&#x27;effects arising from such su-spen­  
 : stOUS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808022601:0004/pct:60.248190279214064,5.646844027125717,18.531540847983454,91.15805946791862/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808022601:0004/pct:60.25508445363668,5.646844027125717,18.531540847983454,91.16675360806816/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1014,7 +1014,7 @@ suspended by several acts ol the Presi­
 j ficivl effects arising from such suspen­  
 j sions
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808030401:0004/pct:77.17479674796748,38.49801358451877,17.378048780487806,14.750736896065616/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808030401:0004/pct:77.17479674796748,38.50655730701867,17.378048780487806,14.755008757315563/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1045,7 +1045,7 @@ c, &quot; the r ■ nor shall i
 d- &quot; any be lower than thirty-five feet on  
 c, &quot;ofthi &#x27; And whereas the abov
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809030301:0004/pct:39.68414658837821,63.169642857142854,18.789228588783153,10.14968487394958/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809030301:0004/pct:39.69764459742188,63.169642857142854,18.78247958426132,10.15406162464986/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

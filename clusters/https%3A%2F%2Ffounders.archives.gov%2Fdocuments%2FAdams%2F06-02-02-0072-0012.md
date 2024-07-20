@@ -257,7 +257,7 @@ Members to the British Parliament, is bound
 By its A&amp;ts, when expressly namied. Guern­  
 sey and Jersey
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775041401:0435/pct:8.271007479102508,83.35214446952595,27.56269247690277,4.500564334085778/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775041401:0435/pct:8.278339932541428,83.36155003762227,27.577357383780612,4.491158765989466/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -918,7 +918,7 @@ the See of Rome.&quot; He gave him entire right
 and authority over the Island, commanded all  
 the inhabitants to obey him as their sovereign
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn83025182:00279528359:1866060301:0266/pct:13.624234814000943,104.58199356913184,37.984617799403544,25.02296738631144/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn83025182:00279528359:1866060301:0266/pct:4.541411604666981,34.860664523043944,12.66153926646785,8.34098912877048/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

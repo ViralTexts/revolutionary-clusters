@@ -633,7 +633,7 @@ upright, and one that feared God and eschewed
 evil. And there is none like him in all the earth,  
 a perfect and upright man that feared God and es
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517013547:1847082001:0168/pct:20.44883303411131,51.8258047065188,14.344703770197487,3.2053015958885585/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517013547:1847082001:0168/pct:20.445162448393464,51.818796484110884,14.346616406390234,3.2082488167680867/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -842,7 +842,7 @@ crease learning; and a man of under­
 standing shall attain unto wiso coun­  
 sels.Franklin sayg : Of all our infir
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn85033435:00212470466:1872022401:0107/pct:6.771109930961232,58.958168902920285,11.417950079660116,2.8864584507836284/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn85033435:00212470466:1872022401:0107/pct:5.0869969451454375,44.22144548427106,8.566874750962944,2.1648438380877213/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -880,7 +880,7 @@ discretion. A wise man will learn and
 will increase in learning and a man of un­  
 derstanding shall attain unto wise counsels.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84022473:00280777559:1875041201:0350/pct:69.46676406135866,156.24014901848403,42.804967129291455,5.158332139274968/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84022473:00280777559:1875041201:0350/pct:17.36986301369863,39.06003725462101,10.703196347031964,1.289583034818742/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -949,7 +949,7 @@ the greatest of all the children of the East.
 And his sons went and feasted in their bouses,  
 every one bis day; and they sent and called fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pulaski_ver01:data:sn84031492:no_reel:1879033001:0009/pct:56.90972939475315,28.184737727481266,12.91055567031605,7.82994341642453/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pulaski_ver01:data:sn84031492:no_reel:1879033001:0009/pct:56.920057839289406,28.19620737115767,12.931212559388555,7.837589845542132/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -986,7 +986,7 @@ greatest of all the children of the east.
 And his sons went and feasted in their  
 houses, every one his day; and the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn87076794:00280775149:1879040301:0646/pct:128.76254180602007,333.8037203335471,35.00557413600892,32.371178105623265/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn87076794:00280775149:1879040301:0646/pct:32.19063545150502,83.45093008338678,8.75139353400223,8.092794526405816/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1041,7 +1041,7 @@ man in the land of Uz whose name was
 Job.”  
 The Musical on Monday night, was th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685294:1882062201:0317/pct:50.7274490785645,65.61245590560759,11.121888134497253,2.5301058265417833/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685294:1882062201:0317/pct:50.7192500404073,65.60447579664316,11.124131242928721,2.532838725370956/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1060,7 +1060,7 @@ chewed evil.&quot; Can you not picture what
 a happy home this must have been ? But  
 Satan, the ever present evil one, who i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016184:1882081701:0339/pct:30.243041944335555,16.306156405990016,12.544100352802822,2.925679423183583/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016184:1882081701:0339/pct:30.237115422300608,16.303895743795923,12.546541250244953,2.9287397754055178/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1087,7 +1087,7 @@ wisdom of God. Because the foolishness
 of God is wiser than men; and the weak­  
 ness of God is stronger than men.”—1s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016184:1882092801:0360/pct:44.187851736852316,52.647183396865735,12.109450805356103,6.960327544825639/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016184:1882092801:0360/pct:44.17927823050058,52.63975155279503,12.111951882033372,6.9628740824393/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1197,7 +1197,7 @@ There jivas a man in the land of Uz,
 whose name was .Job and that man  
 wa,s perfect and upright, &amp;c. And Jo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_mustang_ver01:data:sn99067997:00415625066:1885031301:0087/pct:60.570402871958514,26.87698030031685,17.271639409652973,1.9010883041741287/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_mustang_ver01:data:sn99067997:00415625066:1885031301:0087/pct:48.460352071477956,21.505455346974763,13.816944104664149,1.5208846111458065/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1304,7 +1304,7 @@ and notwithstanding all the critics had
 said, he believed that the character of  
 Job was perfect. In the course of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_vasa_ver01:data:sn90059522:00175033336:1888062401:0630/pct:14.320844785187328,55.66267730496454,11.340951829885723,5.939716312056738/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_vasa_ver01:data:sn90059522:00175033336:1888062401:0630/pct:14.33048845170934,55.670065011820334,11.340951829885723,5.936022458628842/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1420,7 +1420,7 @@ hear and will increase learning, and a man
 of understanding will attain unto wise  
 counsels.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_mojave_ver01:data:sn82014381:00175036623:1890060901:0400/pct:4.293210367307998,33.04621115120475,10.892033709651773,1.4666511465487138/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_mojave_ver01:data:sn82014381:00175036623:1890060901:0400/pct:4.301160756877087,33.04912117332092,10.892033709651773,1.47247119078105/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1444,7 +1444,7 @@ whose name was Job; and that man was
 perfect and upright, and one ihat fsarsd  
 God and eschewed evil” Or the words o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_columbo_ver02:data:sn86063034:00414182057:1891061501:0128/pct:40.544572920552035,23.29879585550266,16.654233494964565,5.586670400448054/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_columbo_ver02:data:sn86063034:00414182057:1891061501:0128/pct:31.4318751204471,18.06409607176445,12.907111196762383,4.32250596831368/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1574,7 +1574,7 @@ things which are mighty
 And base things of the world, an  
 things which are despised, hath Go
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_griffith_ver01:data:sn83045555:206534710:1898040201:1053/pct:11.422172452407615,120.02513615416841,37.45800671892497,25.261834939254292/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_griffith_ver01:data:sn83045555:206534710:1898040201:1053/pct:3.808457014841781,40.008378718056136,12.489498739848782,8.420611646418099/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

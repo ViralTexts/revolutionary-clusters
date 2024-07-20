@@ -163,7 +163,7 @@ and the single star? Be assured, that to be
 respected abroad, we must maintain our place  
 in the Union.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182938:1832120601:0804/pct:75.88042588042588,32.39034147735391,17.444717444717444,20.788684097728247/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182938:1832120601:0804/pct:75.8648925281474,32.385714285714286,17.446264073694984,20.789285714285715/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -555,7 +555,7 @@ rushing forward to attack it, as the place
 of refuge for their enemies, and hundreds  
 of muskets were levelled at the windows
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:0039334894A:1833052301:0301/pct:67.84123910939013,10.105857445306986,14.385285575992256,5.5469301340860975/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:0039334894A:1833052301:0301/pct:67.8281068524971,10.104431272932542,14.387340301974449,5.549675416313859/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -690,7 +690,7 @@ men who were about to make the attaek,
 cheered the Standard of the Unian, and plac­  
 ed sentinels to guard it from outrage. = -~
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1833052801:0225/pct:79.0034518985442,67.04905495465968,15.068287558156987,13.700426089806621/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1833052801:0225/pct:79.01345740157086,67.04905495465968,15.07829306118365,13.714993262682546/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1044,7 +1044,7 @@ country and placed sentinels to protect
 it from outrage.—-Fellow-citizens, such  
 a moment as that would it have bee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn82015686:00415668818:1838060901:0350/pct:51.47134744450181,10.728666060527342,14.747891929099982,23.587478893362775/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn82015686:00415668818:1838060901:0350/pct:51.47134744450181,10.737325193748106,14.753628176446968,23.58314932675239/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1109,7 +1109,7 @@ Sir In your last letter
 you recommended to the  
 candidates at the ensuin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197966:1840062401:0522/pct:49.72299168975069,14.888990615701534,83.31024930747922,84.68757152666514/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197966:1840062401:0522/pct:37.309504017733445,11.16960402838178,62.496536436686064,63.51567864499886/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1156,7 +1156,7 @@ poirjt pf attacking and massacreing the inhabi­
 tants, cheered tbe flag of onr country and placed  
 sentinels to protect it from outrage
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762453:1860120401:0205/pct:56.09189468249871,56.485598298859465,12.635518843572536,14.923641987241446/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762453:1860120401:0205/pct:56.096196868008946,56.485598298859465,12.644123214593014,14.933307558476706/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1254,7 +1254,7 @@ TALE, IF I HAD HUNG OUT THE PALMETTO ANd
 SinoLe Star? Be assured that, to be respected  
 abroad, we must maintain our place in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_american_ver01:data:sn82014760:00237288816:1860122101:0097/pct:16.9811320754717,139.40886699507388,57.83018867924528,76.28430682617875/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_american_ver01:data:sn82014760:00237288816:1860122101:0097/pct:4.245283018867925,34.85221674876847,14.45754716981132,19.071076706544687/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1315,7 +1315,7 @@ Be assured that to be respected abroad, we
 must maintain our place in the Union.&quot;  
 Sir, I intend to stand by that flag, and b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009571:00279523891:1861021501:0240/pct:119.42809083263246,123.16426146010187,33.82394168769274,44.99151103565365/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009571:00279523891:1861021501:0240/pct:39.803784162578836,41.05039787798408,11.273067040411119,14.995579133510168/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1357,7 +1357,7 @@ our country, and placed sentinels to protect
 t from outrage. Fellow citizens, in such a  
 moment as that, would it have been any pr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668168:1863082501:0220/pct:170.52077711818671,51.19173170217254,37.84403669724771,43.851508120649655/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668168:1863082501:0220/pct:56.855600539811064,17.063910567390845,12.618083670715249,14.617169373549883/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1377,7 +1377,7 @@ saulted and taken, and the houses of the Eu­
 ropean Spaniards, who were peculiarly  
 odious to thes native Mexicans, were ran
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn86053573:0021110238A:1879041201:0359/pct:233.35826477187734,163.54936929099608,48.31712789827973,12.005219660722053/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn86053573:0021110238A:1879041201:0359/pct:58.339566192969336,40.88734232274902,12.079281974569932,3.0013049151805133/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1407,7 +1407,7 @@ their guardian and protector, not only on their
 native soil, but in the land of strangers.  
 McMahon&#x27;s Opportunity
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn86053573:0021110238A:1879041201:0359/pct:233.8070306656694,205.1326663766855,48.541510845175765,28.418152820066695/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn86053573:0021110238A:1879041201:0359/pct:58.45175766641735,51.28316659417138,12.135377711293941,7.104538205016674/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1455,7 +1455,7 @@ out the palmetto and the single star!
 Be assured that to be respected abroad,  
 we &#x27; must maintain our place ln th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_austen_ver01:data:sn86063592:00296025628:1897062601:0415/pct:56.70141474311244,101.81223599945497,15.636634400595682,17.005041558795476/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_austen_ver01:data:sn86063592:00296025628:1897062601:0415/pct:42.54328802830013,76.35917699959123,11.729659281325638,12.767407003678976/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

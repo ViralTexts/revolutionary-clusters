@@ -57,7 +57,7 @@ Queflion 12. Should the future regent
 of France fend a Minister to the United  
 States, ought he to be received 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796121701:0202/pct:60.389212381244256,17.123015873015873,15.522525283481459,2.2817460317460316/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796121701:0202/pct:60.39942792930841,17.123015873015873,15.517417509449382,2.294973544973545/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -158,7 +158,7 @@ be received ? If received, shall it be
 , absolutely or with qualifications ; and  
 \if wiib qualifications, ol what kind?&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809102301:0001/pct:59.03420523138833,43.39573242571017,18.06841046277666,3.3512239821966228/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809102301:0001/pct:59.03420523138833,43.39573242571017,18.088531187122737,3.3599511279835927/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -250,7 +250,7 @@ Shall a proclamation issue for the purpose of prevent­
 ing interferences of the citizens of the tinited States in  
 the war between France and Great Eritain
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fortran_ver01:data:sn83030214:0020653106A:1870121401:0747/pct:196.97997416020672,20.06186984417965,96.0594315245478,270.69202566452793/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fortran_ver01:data:sn83030214:0020653106A:1870121401:0747/pct:65.65999138673557,6.687289948059884,32.0198105081826,90.23067522150932/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

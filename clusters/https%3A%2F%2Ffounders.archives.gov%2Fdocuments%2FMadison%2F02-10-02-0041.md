@@ -58,7 +58,7 @@ measures as the nature of his functions, the existing
 laws, and the publick good, may be thought to ad­  
 mit and require
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805081601:0656/pct:27.464091134224862,61.18326118326118,20.77761267954433,14.734648067981402/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805081601:0656/pct:27.457291408764547,61.173453029817246,20.778658083684082,14.736293683873036/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -170,7 +170,7 @@ istinglawf, and the public good, may
 j be thought to admit and require.  
 I have the honor to be, sir
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805081901:0003/pct:1.8683467303932217,0.8335648791330925,37.69280903758418,97.12420116699083/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805081901:0003/pct:1.8828300383807661,0.8335648791330925,37.70005069157796,97.13809391497638/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -215,7 +215,7 @@ ture of his sunctions and the existing laws
 and public good, may be thought proper to  
 admin 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216031:1805082201:0433/pct:23.605643044619423,54.63033536585366,23.4251968503937,23.913871951219512/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216031:1805082201:0433/pct:23.601771362965394,54.625130989806614,23.42682193428462,23.914769299164842/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -266,7 +266,7 @@ Very respectfully.
 Your most obedient servant,  
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805082801:0311/pct:20.922055088884548,53.188960781724546,18.734127759327993,24.098771952990887/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805082801:0311/pct:20.91796875,53.181938209664644,18.736979166666668,24.099991197957927/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -311,7 +311,7 @@ his Functions, the existing laws^ the
 publ ic good may he thought wad mit and  
 require. &#x27;■ -\v ^ r, jv;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1805083001:0488/pct:26.215827338129497,3.7057024644720276,41.55395683453237,91.85105234754452/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1805083001:0488/pct:26.208285385500574,3.7050359712230216,41.54919447640967,91.83902877697842/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

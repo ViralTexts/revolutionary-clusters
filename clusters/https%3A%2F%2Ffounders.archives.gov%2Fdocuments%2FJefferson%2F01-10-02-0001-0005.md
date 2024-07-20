@@ -886,7 +886,7 @@ be triennial only. The badges were now publicly worn in
 America, but it was wished that the Frenchmen who were en­  
 joiled in the order should wear them in their own country.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barnes_ver02:data:sn83030364:print00211110053:1855072201:0001/pct:6.1146717477914425,76.00350131299237,12.14273341416941,5.614605477053895/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barnes_ver02:data:sn83030364:print00211110053:1855072201:0001/pct:6.119002251862117,76.00350131299237,12.151394422310757,5.6271101663123675/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -920,7 +920,7 @@ much to our prejudice as his; but as to allowing him
   
 maintain real actions there is no reason for it, be-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_eiffel_ver02:data:sn84020047:0029587756A:1859080301:0305/pct:258.54724194429275,48.35820895522388,36.9197160021846,7.920398009950249/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_eiffel_ver02:data:sn84020047:0029587756A:1859080301:0305/pct:64.63681048607319,12.08955223880597,9.22992900054615,1.9800995024875623/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -952,7 +952,7 @@ awful moment,&quot; when &quot;Heaven was silent,&quot;
 and he hoped that &quot;the friends of the rights  
 of human nature would yet prevail,&quot; that th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009571:00279523891:1860083101:0144/pct:6.06103419044928,93.85992964502718,33.92201186775925,23.99530966847884/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009571:00279523891:1860083101:0144/pct:2.0200593304139,31.283308463014283,11.3057399821067,7.997584026149364/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -973,7 +973,7 @@ be hoped that it will not always be silent,
 and that the iriends to the rignts of human  
 nature will in the end prevail
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776993:1860083101:0352/pct:147.6590636254502,179.90958209284375,45.01800720288115,11.732274782225163/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776993:1860083101:0352/pct:36.91476590636255,44.97739552321094,11.254501800720288,2.933068695556291/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1223,7 +1223,7 @@ other emissions preceding Sept. 2. 177y, will
 amount to $li,9,948.8S0, the sum which Con  
 gress declared to be then in circulation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665507:1894101901:0469/pct:49.18799212598425,69.36975146322844,17.999507874015748,4.36847909067775/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665507:1894101901:0469/pct:36.90168573889504,52.031554839256934,13.498215823797219,3.274238697090508/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1242,7 +1242,7 @@ lent. The friends to tihe rights of hu­
 man nature will In the end prevail.”  
 The effect on the future history an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn86072192:00340583267:1897121201:0591/pct:64.25549915397632,67.99163179916317,14.086294416243655,2.121936640765093/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn86072192:00340583267:1897121201:0591/pct:64.24191160921971,67.98147318093531,14.088602241488687,2.1253548483490214/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

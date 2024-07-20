@@ -149,7 +149,7 @@ Your obedient ferv’t.
 , A. BURR.  
 General Hamirzron
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804072401:0532/pct:7.885802469135802,36.64393430025934,16.48148148148148,12.554029391989243/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804072401:0532/pct:7.8960905349794235,36.65033778375436,16.48148148148148,12.554029391989243/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -181,7 +181,7 @@ I have the honour to be, your obedient
 servant,  
 General Hamilton
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804072401:0016/pct:48.940464177598386,51.06625427315644,20.53481331987891,13.690379293504803/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804072401:0016/pct:48.9281210592686,51.057942708333336,20.5359394703657,13.692220052083334/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -215,7 +215,7 @@ Your obedient set.^mt,
 A. Burr.  
 General Hamilton
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804072501:0223/pct:5.917273075450019,37.59821896280775,17.751819226350058,14.235201676270298/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804072501:0223/pct:5.91614014933946,37.59329579677884,17.754802476226946,14.237702413687748/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -292,7 +292,7 @@ p I have the honor to be, yourob’t serv’t
 ■ A. BURR. I  
 ■ Gen, Kmiltos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1804080301:0311/pct:2.6047261009667024,38.260266851498876,23.979591836734695,13.411887021313463/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1804080301:0311/pct:2.6040268456375837,38.25363825363825,23.97986577181208,13.413894663894665/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -383,7 +383,7 @@ pression which would warrant the assertions of
 Dr. Cooper.”  
 On the 20th, General Hamilton made a repl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025007:00414216493:1834051401:0465/pct:23.61111111111111,32.77303450729278,18.5272536687631,2.9882604055496267/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025007:00414216493:1834051401:0465/pct:23.608017817371937,32.77012005335705,18.529193414559586,2.99095894471617/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -453,7 +453,7 @@ prompt and unqualified acknowledgment or
 denial of the use of any expression of Doctor  
 Cooper.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn82015686:00415668818:1838021001:0281/pct:33.14869309330102,42.736952806625474,14.124978362471872,2.0770343105034836/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn82015686:00415668818:1838021001:0281/pct:33.16023310830304,42.74133473555059,14.124978362471872,2.090180097278822/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -652,7 +652,7 @@ Your obedient servant,
 Gen. Hamilton. A. BURR.  
 Which received from General Hamilton th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00279550304:1846092501:0512/pct:7.555689343768814,28.7829962290024,14.710014047762392,7.781967775111416/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00279550304:1846092501:0512/pct:7.554931273201565,28.781022898669956,14.711882545734257,7.783719548425431/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -712,7 +712,7 @@ I have the honor to be your obedient servt,
 Gena HAMItos. A. BURR.  
 Which received from General Hamilton th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776956:1846101601:0332/pct:270.2080237741456,111.4277233600475,48.736998514115896,27.960819234194123/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776956:1846101601:0332/pct:67.5520059435364,27.856930840011874,12.184249628528974,6.990204808548531/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -742,7 +742,7 @@ Your obedient servant,
 Geu. Hamilton. A. BURR.  
 Which received from Gen. Hamilton th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:0041615689A:1846112101:0482/pct:25.197628458498023,23.527393343246025,19.678147939017503,13.050440352281825/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:0041615689A:1846112101:0482/pct:18.904419031483833,17.648404437835982,14.767753776648313,9.790689694612833/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -770,7 +770,7 @@ ment or denial of the use of any expres­
 sions which would warrant Cooper&#x27;s asser­  
 tions
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851091601:0462/pct:19.278261701924,84.3034617532105,12.40547525605437,1.7308766052484645/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851091601:0462/pct:19.276416539050537,84.29757833763696,12.407478305257785,1.7330820945867356/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -849,7 +849,7 @@ warrant Cooper’s assertions.’’
 ment or denial of the use of any expres  
 sion which would warrant Cooper&#x27;s a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777791:1852021101:0449/pct:60.55045871559633,322.4477244772448,43.730886850152906,7.072570725707257/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777791:1852021101:0449/pct:15.137614678899082,80.6119311193112,10.932721712538227,1.7681426814268142/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -911,7 +911,7 @@ I have the honor to be
 Your obedient servant,  
 A. BURR
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290070:1859090401:0226/pct:20.599886813808716,186.693593627286,34.5217883418223,18.848872433524065/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290070:1859090401:0226/pct:5.149971703452179,46.6733984068215,8.630447085455575,4.712218108381016/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -933,7 +933,7 @@ You must perceive, sir, the necessity of a
 prompt and unqualiliedaclnowledgmnentoren­  
 tion of De Coope
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn88085145:no_reel:1859111801:0353/pct:197.98036465638148,143.89583333333334,43.47826086956522,15.25/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn88085145:no_reel:1859111801:0353/pct:65.9934548854605,47.96527777777778,14.492753623188406,5.083333333333333/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -953,7 +953,7 @@ pressions which would warrant the as­
 sertions of Dr. Cooper.&quot;  
 Hamilton had not seen th totter
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_goshen_ver01:data:sn83016758:00280767827:1895050201:0151/pct:48.99252518687033,89.49076664801343,13.909652258693532,3.1337437045327365/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_goshen_ver01:data:sn83016758:00280767827:1895050201:0151/pct:48.99252518687033,89.49076664801343,13.920485321200303,3.1337437045327365/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -973,7 +973,7 @@ pressions which would warrant the as­
 sertions of Dr. Cooper.&quot;  
 Hamilton had not seen the letter
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_jicama_ver01:data:sn98062949:00340581088:1895050901:0163/pct:45.16070455783548,17.232163606785964,16.578899582349738,3.1954450383453405/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_jicama_ver01:data:sn98062949:00340581088:1895050901:0163/pct:45.16978391138551,17.23797350685568,16.59705828944979,3.1983499883802/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -994,7 +994,7 @@ sertions of Dr. Cooper.&quot;
   
 Hamilton had not seen the letter
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_krypton_ver01:data:sn88076086:00199918382:1895051101:0017/pct:51.99680511182109,14.788259018597357,13.91373801916933,3.092090522070356/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_krypton_ver01:data:sn88076086:00199918382:1895051101:0017/pct:52.00745473908413,14.791993427440437,13.903088391906284,3.0995593397565164/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1014,7 +1014,7 @@ expressions which would warrant the
 assertions of Dr. Cooper.&quot;  
 Hamilton had not seen the letter, bu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_nittany_ver01:data:sn84026355:00212478088:1895080301:0267/pct:25.887096774193548,96.61983586034219,16.693548387096776,3.672277089998609/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_nittany_ver01:data:sn84026355:00212478088:1895080301:0267/pct:19.427072826306233,72.47183196550286,12.527738551543273,2.7542078174989566/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

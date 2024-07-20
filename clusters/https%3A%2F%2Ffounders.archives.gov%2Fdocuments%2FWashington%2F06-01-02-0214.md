@@ -604,7 +604,7 @@ Is not the great want of American agricul
 ture some such organised system as at present  
 exists in England, France, and Scotland
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn86071378:0021247762A:1855102401:0620/pct:67.4373795761079,26.312476394309456,19.107257546563904,10.852322799949642/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn86071378:0021247762A:1855102401:0620/pct:50.5942820430453,19.740652146544125,14.343077417282364,8.132947249150195/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -625,7 +625,7 @@ life ns tranquil and free from care as the 1
 nature of things would admit, I was j  
 willing to make the experiment ”—Jul
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fireweed_ver01:data:sn83016209:00383342387:1856031501:0062/pct:29.82456140350877,72.81595806639487,14.744307577454274,4.935934769947583/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fireweed_ver01:data:sn83016209:00383342387:1856031501:0062/pct:23.11846101923726,56.43947942526142,11.436285617858347,3.817798841495524/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -688,7 +688,7 @@ to augment, thij. productiveness and
 profit, if they would ponder it more carefully,  
 and act i;&gt;orein accordance witty th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_irmookrastrut_ver01:data:sn84026900:00295862646:1856100101:0163/pct:2.660054102795311,61.134211134211135,15.689810640216411,10.29106029106029/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_irmookrastrut_ver01:data:sn84026900:00295862646:1856100101:0163/pct:2.665063620879671,61.13806113806114,15.694820158300772,10.294910294910295/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -762,7 +762,7 @@ Will such of our friends as think they have
 no canital to improve with nonder it well t  
 If it be true that one fourth, or one third, o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774947:1856110601:0441/pct:31.91140278917145,208.4669132757912,54.47087776866284,18.19427318810796/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774947:1856110601:0441/pct:7.981124333196553,52.1167283189478,13.62330734509643,4.54856829702699/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -785,7 +785,7 @@ Sled Corn. For preserving seed corn
 farmers should select it when well matured,  
 certainly not later than October, then plac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:0028077537A:1856111301:0837/pct:110.66413107080164,17.371686407219403,14.335868929198362,6.102650874224478/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:0028077537A:1856111301:0837/pct:83.01389904901244,13.028764805414552,10.75347476225311,4.57980823463057/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -821,7 +821,7 @@ half, &amp; thii d, or even a fourth of what we
 manp-lo, well wrought and properly drees-  
 ed, would produce more than the whole.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296027534:1856112501:0474/pct:27.480371163454674,63.16620607974733,16.077801570306924,17.21279115673115/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296027534:1856112501:0474/pct:20.6139568088524,47.3746545598105,12.064965197215777,12.909593367548363/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -881,7 +881,7 @@ sire to angment their productiveness and
 profit, if they would ponder it more careful  
 ly, and act more in accordance with th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279523970:1857010901:0430/pct:163.72832369942196,121.3628808864266,37.58831085420681,22.914127423822716/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279523970:1857010901:0430/pct:54.5673462835126,40.449811655218255,12.527425482956065,7.6371962478765045/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -938,7 +938,7 @@ even a fourth of what we mangle, well
 wrought, and properly dressed, would pro­  
 duce more than the whole, under our syste
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472062:1857060601:0559/pct:19.254312743461323,232.24516988674216,43.73956594323873,12.08083499888963/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472062:1857060601:0559/pct:4.814917895908711,58.06129247168554,10.937934873364876,3.0202087497224075/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -964,7 +964,7 @@ has been traced to some droves that passed
 through a tobacco growing district on  
 their way east.&quot; He also remarks &quot;tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn85055197:00280776373:1857061901:0158/pct:321.7990275526742,316.24326404926865,50.08103727714749,33.441108545034645/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn85055197:00280776373:1857061901:0158/pct:80.4660587639311,79.06081601231716,12.522796352583587,8.360277136258661/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1053,7 +1053,7 @@ ment their productiveness and profit if they
 would ponder it more carefully, and act  
 more in accordance with the systim it sug
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83021380:0027952388A:1857100901:0166/pct:44.587227414330215,177.49353262431734,34.43665628245068,27.316278624125708/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83021380:0027952388A:1857100901:0166/pct:14.860480207657366,59.15884269017053,11.477395630542938,9.104553873666731/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1129,7 +1129,7 @@ a fourth of what we mangle, well wrought,
 and properly dressed, would produce more  
 than the whole, under our system of man
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn82015486:00280760924:1859050501:0426/pct:7.2727272727272725,112.33740109963793,17.21590909090909,5.02883196996111/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn82015486:00280760924:1859050501:0426/pct:5.457646389994315,84.25640337937509,12.92400985408376,3.781681641410755/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1186,7 +1186,7 @@ er desire to augment their productiveness and
 profit, if they would ponder it more carefully,  
 and act more in accordance with the syste
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_indianhead_ver01:data:sn83016368:00415627476:1865060301:0086/pct:33.146298070343505,52.010026029114044,12.221157793896264,6.131302419743565/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_indianhead_ver01:data:sn83016368:00415627476:1865060301:0086/pct:33.146298070343505,52.01323949998393,12.221157793896264,6.134515890613452/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1252,7 +1252,7 @@ Very small! What do you mean, bretnren, why o we net hear men talk thas. It don&
   
 brother Thomas? That is more than we e eo o a a a ae a a in sean the on wa to it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416157108:1868042201:0057/pct:14.953271028037383,196.54060392846674,341.4018691588785,42.21635883905013/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416157108:1868042201:0057/pct:3.7400654511453952,49.135150982116684,85.3903693314633,10.554089709762533/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1276,7 +1276,7 @@ rises quick again after cutting, stands
   
 thick, yields well, both cattle and ho
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777821:1870080901:0123/pct:20.250368188512518,326.0381593714927,44.03534609720177,9.988776655443322/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777821:1870080901:0123/pct:5.063524212852145,81.50953984287318,11.010863561038482,2.4971941638608306/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1297,7 +1297,7 @@ cutting, stands thick, yields well, both
 cattle and horses are fond of it, green or  
 in hay.&quot; We have seen it growing lux
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_montpelier_ver01:data:sn84023253:00200296266:1870081901:0558/pct:250.07037297677692,57.955944725680666,33.62068965517241,10.712819811191682/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_montpelier_ver01:data:sn84023253:00200296266:1870081901:0558/pct:83.35679099225898,19.318648241893555,11.206896551724139,3.5709399370638937/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1323,7 +1323,7 @@ shell mounds and cairns, and is convinced from an ex-­
 amination of the skulls and bones found in them that  
 alt ough they are of great antiquity they belonged t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:00206531265:1876090101:0471/pct:248.46655791190864,158.2622912530655,47.17781402936379,16.477869905406983/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:00206531265:1876090101:0471/pct:82.82218597063621,52.75409708435517,15.725938009787928,5.492623301802328/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1350,7 +1350,7 @@ of management.&quot;
 There was a little gathering the other  
 evening, and a lady, with the desire t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_himilco_ver01:data:sn85025759:0029602711A:1876090501:0129/pct:26.246537396121884,66.05994037345049,19.02123730378578,8.190804958418328/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_himilco_ver01:data:sn85025759:0029602711A:1876090501:0129/pct:19.699769053117784,49.552800878707046,14.272517321016167,6.15094931743292/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1373,7 +1373,7 @@ Core hors nisug as ­
 hibition in Austria, recently, swam with  
 a bag of powder in his teeth to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eadweard_ver01:data:sn85034076:0020029239A:1876091401:0184/pct:121.24031007751938,347.17311906501095,44.031007751937985,22.848794740686632/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eadweard_ver01:data:sn85034076:0020029239A:1876091401:0184/pct:30.310077519379846,86.79327976625274,11.007751937984496,5.712198685171658/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1395,7 +1395,7 @@ y again after cutting, stands thick,
 yields well, and both cattle and horses  
 are fond of it green or in hay.&quot; Thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85026421:00415669215:1879072401:0476/pct:92.42647058823529,85.42568542568543,16.004901960784313,5.367965367965368/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85026421:00415669215:1879072401:0476/pct:61.64030893710923,56.95045695045695,10.677945323035429,3.578643578643579/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1417,7 +1417,7 @@ ly again after cutting, stands thick,
 yields well, and both cattle and horses  
 are fond of it, green or in hay.&quot; Thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn96076998:00415669239:1879073001:0042/pct:101.4519838987924,92.0886075949367,18.44450833812536,5.8544303797468356/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn96076998:00415669239:1879073001:0042/pct:67.66863224507406,61.392405063291136,12.29685028045448,3.9029535864978904/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1474,7 +1474,7 @@ ing a fair yield. The straw is some­
 what short and so is many of tho  
 heads, but the latter are well filled, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_hairspray_ver01:data:sn87060190:00211103863:1891062701:0876/pct:35.662393162393165,11.738884168790712,21.495726495726494,9.161710563579723/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_hairspray_ver01:data:sn87060190:00211103863:1891062701:0876/pct:26.769296557622408,8.807703200226564,16.14282659824674,6.86774284905126/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

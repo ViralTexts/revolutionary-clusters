@@ -132,7 +132,7 @@ kept in service beyond the periods for which they
 é had engaged to serve—no pay, and scarcely any  
 clothing, and this too, in an inclement season
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1828041501:0474/pct:21.813762722163148,66.15057680631452,16.618562965213428,13.66120218579235/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1828041501:0474/pct:21.818826269684543,66.15057680631452,16.623626512734823,13.671321594818863/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

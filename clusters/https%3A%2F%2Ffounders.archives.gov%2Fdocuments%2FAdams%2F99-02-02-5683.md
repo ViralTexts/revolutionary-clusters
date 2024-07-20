@@ -530,7 +530,7 @@ for ‘the {pace of fix months beyond the said equi­
 “particular distinction of time, or place; should  
 be restored on both sides,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025581:00517015052:1763021101:0961/pct:60.551248923341944,33.173618940248026,27.217915590008612,18.855693348365275/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025581:00517015052:1763021101:0961/pct:60.565604364053975,33.17831642239759,27.232271030720643,18.86508831266441/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -631,7 +631,7 @@ of the world, without any exception or
 other more particulardefcription of time  
 and place. STEPH. COTTRELL
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1780072901:0377/pct:11.42668428005284,60.760412131766074,27.23469837076178,14.076331446814686/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1780072901:0377/pct:11.441362101864083,60.76524935906738,27.220020548950536,14.081168674115997/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1004,7 +1004,7 @@ after the signing of these preliminary arii­
 cles, it is reciprecally agreed, that the ves­  
 sels and efic@s which may
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1783042601:0344/pct:11.11648919006131,32.42430526752385,26.686027750887384,3.6706760680215678/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1783042601:0344/pct:11.127245347961708,32.43121802848057,26.680649671937186,3.6741324484999307/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1040,7 +1040,7 @@ by the Authority ot the said United States,
 accept the said Declaration.and declare that  
 the laid Stares should cause all Hoflilities t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1783042601:0345/pct:36.44650842793258,5.436812616725462,58.10113519091847,83.35754305872588/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1783042601:0345/pct:36.45797500286665,5.4402711489243964,58.10113519091847,83.36446012312375/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1264,7 +1264,7 @@ ny more particular defcrjpt&#x27;on of time or
 place.  
 XII. The allies of the two parties, tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798010601:0003/pct:5.760639548553962,13.328313253012048,17.681636491888078,21.867469879518072/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798010601:0003/pct:5.778274159416882,13.33960843373494,17.68751469550905,21.878765060240966/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1421,7 +1421,7 @@ ss north,as far as the Canary Illands inclu­
 ss sively, whetherin the Ocean or in the Me­  
 ; diteranean; of two months from the sai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215981:1801112601:0577/pct:45.396047188601194,7.524846190250829,22.67504213267964,11.982962612399431/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215981:1801112601:0577/pct:45.3890931372549,7.524134014764338,22.676674836601308,11.98498327970219/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1464,7 +1464,7 @@ world, without any exception or any
 other diftindlion more particular with  
 refpeft to time and place
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801112701:0001/pct:73.90733445882573,66.22435188598108,15.88820108797599,12.089937338739404/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801112701:0001/pct:73.90733445882573,66.23254290043822,15.894453823547803,12.094032845967973/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1486,7 +1486,7 @@ and effects, which might be taten in the
 Britifh Chanel and in the North Seas,  
 after the fpace
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801112701:0002/pct:27.20197418375095,28.991389913899138,15.774487471526196,5.092250922509225/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801112701:0002/pct:27.20197418375095,28.99548995489955,15.787142495570741,5.096350963509635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1527,7 +1527,7 @@ of the world, withoat any exception or any
 other diftinction more particalar with refpect  
 to time and place
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1801120501:0035/pct:74.24357034795764,37.87561146051712,20.707261724659606,11.949685534591195/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1801120501:0035/pct:74.24357034795764,37.87561146051712,20.726172465960666,11.961332401583974/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1616,7 +1616,7 @@ party ; that the term {hall be one
 month from the Channel and the seas  
 of the north,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1801120801:0616/pct:26.146506617420744,27.66871764820783,16.343490304709142,7.901162222873327/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1801120801:0616/pct:26.15163640094388,27.66871764820783,16.35374987175541,7.904417749129147/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1786,7 +1786,7 @@ and the North Sea, to the Canary Isle*,
 the Equator; and five mentis in all the  
 other parts of the world, without an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1814063001:0469/pct:44.4277108433735,36.581003483008566,17.8714859437751,7.549656405911701/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1814063001:0469/pct:44.42027773130333,36.577560240963855,17.874072834755452,7.552083333333333/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1810,7 +1810,7 @@ that the period shall be one month from the
 Channel and the North Sea, to the Canary Isles,  
 the Equator, and five &#x27;mouths in all the othe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1814070201:0926/pct:48.86018237082067,54.940711462450594,21.479229989868287,6.752305665349144/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1814070201:0926/pct:48.84780957204355,54.931664745595256,21.48012154975943,6.7553103902519345/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1831,7 +1831,7 @@ on, ia reciprocally agi&lt; ••&lt;!, that the ships and
 effects w hich may be taken in the Channel,  
 and in the North Sea,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1814070201:0063/pct:23.762017050607653,42.37690577355661,17.21385815345547,3.9115221194701326/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1814070201:0063/pct:23.757707653246282,42.371610646007746,17.216781525813083,3.915198467241451/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1905,7 +1905,7 @@ Equator ; and five month&#x27;; in evety other part
 of the world, without any exception, or other  
 particular distinction of time or of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1814073001:0091/pct:41.61818181818182,12.404556264864189,17.236363636363638,8.411565903116786/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1814073001:0091/pct:41.61061625159062,12.403003754693367,17.239289826092225,8.41468502294535/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2129,7 +2129,7 @@ side I would try to get it insarted in the general
 treaty. I think it will do honer to the nations that  
 establish it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_rumi_ver01:data:sn83030272:00206539033:1899060101:0012/pct:287.0605833956619,80.50052137643378,49.81301421091997,18.114106956651273/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_rumi_ver01:data:sn83030272:00206539033:1899060101:0012/pct:71.76514584891548,20.125130344108445,12.453253552729992,4.528526739162818/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

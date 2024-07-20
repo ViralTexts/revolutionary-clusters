@@ -41,7 +41,7 @@ w!u!fe land force. II necessary The command,&#x27;n J&#x27;1&#x27;* ?*&#x27;&#x2
 woii&#x27;d VL-ry naturally fall upon ma ; and Hiope ^ should  
 appoint no lavorable anticipations iiu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661204:1852032501:0295/pct:32.19415552253591,42.47585155058464,16.031038467888393,5.630401626842908/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661204:1852032501:0295/pct:32.1996587969842,42.48432469073038,16.03654174233669,5.630401626842908/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -83,7 +83,7 @@ character and justice. I was told they would
 be pursued; but I am not able to say whether  
 they have been or not.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661496:1852032901:0320/pct:58.324528301886794,80.88406811289947,15.532075471698112,13.540937718684395/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661496:1852032901:0320/pct:58.324528301886794,80.88795583547159,15.552201257861634,13.540937718684395/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -124,7 +124,7 @@ character and justice, f was told they would
 be puraued; but I am not able to say whether  
 they have been or not,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014763:00415661460:1852033001:0385/pct:58.96892655367232,80.49487293802943,13.44632768361582,13.787338386090058/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014763:00415661460:1852033001:0385/pct:58.973634651600754,80.50230346262447,13.451035781544256,13.787338386090058/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -175,7 +175,7 @@ the United States, they to furnish the whole
 land force necessary.&quot; On Aug. 17 Mr. King  
 communicated to the Secretary of State the fol
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175045193:1895031701:0034/pct:281.29890453834116,313.62248014660963,52.42566510172144,11.59132559560171/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175045193:1895031701:0034/pct:70.32472613458529,78.40562003665241,13.10641627543036,2.8978313989004274/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -205,7 +205,7 @@ on nls own account, or seems to have un­
 dertaken, precisely what Hamilton would  
 have undertaken under the auppices of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:0041566557A:1895110301:0039/pct:40.69977426636569,105.3332209958716,17.03160270880361,8.678068919032775/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:0041566557A:1895110301:0039/pct:30.537367351546624,79.00412840171876,12.779408444344096,6.512764344089645/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -273,7 +273,7 @@ i eo e  e
 under a moderate government, with the joint guaran  
  o e o e oin oe i e 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175042854:1896012601:0341/pct:9.538002980625931,267.3339399454049,74.96274217585693,22.202001819836216/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175042854:1896012601:0341/pct:2.385834109972041,66.83348498635122,18.75116495806151,5.550500454959054/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

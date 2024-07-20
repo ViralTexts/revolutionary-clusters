@@ -42,7 +42,7 @@ ing our commerce from the ocean--the
 rapacity of the foreign traders,-had made the  
 American people sensible of their own inter
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chester_ver02:data:sn86053573:00211101970:1883080101:0215/pct:86.03006189213086,193.22617680826636,58.00176834659593,27.497129735935705/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chester_ver02:data:sn86053573:00211101970:1883080101:0215/pct:21.521787215217874,48.30654420206659,14.51006414510064,6.874282433983926/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -61,7 +61,7 @@ thlu of which we lalse the raw materia!
 And ngnln. In his letter to Mr. I.elpor, Jan. 21  
 of tho same sear, hu says
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_lorca_ver01:data:sn83030272:00206533092:1888052101:0426/pct:227.53067484662577,283.74903175832685,50.4601226993865,7.3741285824941905/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_lorca_ver01:data:sn83030272:00206533092:1888052101:0426/pct:56.91540379819681,70.93725793958171,12.622290427776711,1.8435321456235476/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -89,7 +89,7 @@ manufactories to the extent of our own
 j consumption of everything of which we  
 raise the raw materia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_apachetrout_ver01:data:sn85032938:00211105549:1888072501:0615/pct:53.591585428424835,37.38601823708207,14.725500256541816,3.409954407294833/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_apachetrout_ver01:data:sn85032938:00211105549:1888072501:0615/pct:40.21557808289491,28.03951367781155,11.048376748363916,2.564589665653495/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -111,7 +111,7 @@ the extent of our own consumption, of
 everything of which we raise tho raw  
 material.&quot; And when I have to choos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_hickok_ver01:data:sn85032490:00237286613:1888101701:0156/pct:86.2173649058895,127.1573881658099,18.624772313296905,5.41397790659521/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_hickok_ver01:data:sn85032490:00237286613:1888101701:0156/pct:57.50075918615244,84.77523788690802,12.42028545399332,3.6093186043968064/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -129,7 +129,7 @@ age home manufactures to the extent of
 our own consumption of everything ot  
 which we raise tho raw materia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_coyote_ver01:data:sn84020558:00211106426:1891042201:0645/pct:23.752012882447666,75.59188275084554,16.888083735909824,2.7762119503945883/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_coyote_ver01:data:sn84020558:00211106426:1891042201:0645/pct:17.81759613448762,56.69391206313416,12.68371250251661,2.0821589627959414/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -174,7 +174,7 @@ establish here with profit to ourselves.
 The total quantity of tin plates imported  
 into this country in the twenty years fro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_forks_ver01:data:sn83045604:00202199112:1892041301:0606/pct:74.44139553116425,218.29285218598196,50.84280674245394,20.971547536433032/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_forks_ver01:data:sn83045604:00202199112:1892041301:0606/pct:18.61034888279106,54.57321304649549,12.710701685613484,5.242886884108258/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -194,7 +194,7 @@ sumption of everything of which we raise the raw
 material. As an ardent Protectionist. I want, to  
 know the truth, that in controversy I may know lus
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_triumph_ver01:data:sn83030214:00175038577:1892070501:0075/pct:150.80411707944677,8.883248730964468,95.33612093920875,285.9412933127345/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_triumph_ver01:data:sn83030214:00175038577:1892070501:0075/pct:50.268039026482256,2.961082910321489,31.77870697973625,95.31376443757817/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -230,7 +230,7 @@ In execution of this Jeffersonian idea
 under the Mckinley law the Republican  
 party treats the tin plate industry as on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_forks_ver01:data:sn83045604:00202199124:1892072701:0742/pct:51.34183897932248,225.03159224936815,38.39272620618859,38.2055602358888/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_forks_ver01:data:sn83045604:00202199124:1892072701:0742/pct:17.11394632644083,75.01053074978938,12.797575402062863,12.735186745296264/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -250,7 +250,7 @@ sumption of everything of which we
 raise the raw materials.”  
 What is the matter with Jefferson 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ditto_ver02:data:sn87058308:00279529054:1892081801:0293/pct:34.27934319886479,89.7346600331675,8.260693290087168,2.512437810945274/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ditto_ver02:data:sn87058308:00279529054:1892081801:0293/pct:34.28610041219001,89.7346600331675,8.267450503412393,2.5207296849087895/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -283,7 +283,7 @@ For a century we tried to raise sugar,
 but found we could not produce one-tenth  
 part of our own consumption, so we place
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_forks_ver01:data:sn83045604:00202199136:1892090901:0298/pct:90.36287923854849,40.26290681649528,38.57822724568709,27.14936923566204/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_forks_ver01:data:sn83045604:00202199136:1892090901:0298/pct:30.120959746182827,13.420968938831761,12.859409081895697,9.049789745220679/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -301,7 +301,7 @@ We should encourage home manufactures
 to the extent of our consumption of every­  
 thing of which we raise the raw materials,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_displacerbeast_ver02:data:sn91070630:00514152810:1892091401:1123/pct:29.82977573628749,25.713983499048023,12.564171845447177,1.2798815316268246/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_displacerbeast_ver02:data:sn91070630:00514152810:1892091401:1123/pct:29.82977573628749,25.717509343487766,12.57317842024678,1.2834073760665679/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -319,7 +319,7 @@ tures to the extent of our consumption
 of everything of which we raise the raw  
 materials.—Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_crane_ver01:data:sn84020107:00517014060:1892092101:0773/pct:31.266514003875287,84.51809856083733,10.498502730315307,1.947957551969763/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_crane_ver01:data:sn84020107:00517014060:1892092101:0773/pct:31.261007396970765,84.50581395348837,10.501056710109193,1.9513081395348837/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -339,7 +339,7 @@ of everything of which we raise the
 raw  
 materials.—Washington.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_bisbee_ver01:data:sn85042588:00212470880:1892093001:1203/pct:57.74165953806672,109.93280747881975,16.958939264328485,2.6438796377446683/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_bisbee_ver01:data:sn85042588:00212470880:1892093001:1203/pct:49.09112942317014,93.44839003393759,14.420746485700436,2.2597467097094612/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -359,7 +359,7 @@ tures to the extent of our consumption
 or everything of which we raise the raw  
 materials. Washington.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_emerson_ver01:data:sn84020631:00415628936:1892100101:0937/pct:40.66170712607674,49.68963376784606,14.23257635082224,2.653631284916201/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_emerson_ver01:data:sn84020631:00415628936:1892100101:0937/pct:30.507147053064422,37.27498448168839,10.671627178382613,1.9863438857852265/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -391,7 +391,7 @@ We should encourage home manufactures
 to the extent of our consumption of every­  
 thing of which we raise the raw materials
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_displacerbeast_ver02:data:sn91070630:00514152822:1892102601:0147/pct:15.358315098468271,50.17447393465158,12.609409190371991,7.518240456804484/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_displacerbeast_ver02:data:sn91070630:00514152822:1892102601:0147/pct:15.358315098468271,50.17447393465158,12.61852662290299,7.525289908709598/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -469,7 +469,7 @@ He once wrote that his idea was that
 - tion of everything of which we raise the  
 - raw material.&quot; He also , said: &quot;Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_ibis_ver01:data:sn85042448:00200298767:1894050501:0436/pct:6.434852118305356,115.13389441469013,20.1638689048761,3.9020657995409334/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_ibis_ver01:data:sn85042448:00200298767:1894050501:0436/pct:4.839032193561287,86.3504208110176,15.136972605478904,2.938026013771997/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -488,7 +488,7 @@ tent of our own consumption of every.
 thing of which we raise the raw mate.  
 rials.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_oystercatcher_ver01:data:sn96061150:00202194576:1894052201:0243/pct:35.12931034482759,96.45768489699125,17.32758620689655,3.5126722987994663/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_oystercatcher_ver01:data:sn96061150:00202194576:1894052201:0243/pct:26.374811300409746,72.34326367274345,13.004097476816908,2.6382095746257597/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -509,7 +509,7 @@ terials
 Then the Tribune with an air of that  
 settles it says We think the fore
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:0020653459A:1895100701:0486/pct:24.11649214659686,66.64704497292206,19.846204188481675,4.968212856133741/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:0020653459A:1895100701:0486/pct:16.085747013582065,44.431363315281374,13.238422516773031,3.3199905815870028/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -543,7 +543,7 @@ hold manufacture such as was es­
 tablished in almost every home in  
 Utah in the years when Utah wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:0020653459A:1895100701:0486/pct:24.051047120418847,76.5363786202025,19.453534031413614,14.339533788556627/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:0020653459A:1895100701:0486/pct:16.036655211912944,51.02425241346833,12.976599574537719,9.559689192371085/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -573,7 +573,7 @@ everything of which we raise the raw
 materials.&quot;  
 In 1817, after the close of the secon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_alcott_ver01:data:sn92066979:00513687394:1896042301:0178/pct:9.150921921238334,53.19449346981998,11.85977691782381,3.22979174020473/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_alcott_ver01:data:sn92066979:00513687394:1896042301:0178/pct:9.167994536763032,53.19890575361807,11.854086045982244,3.22979174020473/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -598,7 +598,7 @@ sumption of everything of which we raise
 the raw material,&#x27; and in another place he  
 says: 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_carlsbad_ver01:data:sn85066387:00175037421:1896081401:0247/pct:15.99313465439226,58.6218917034627,12.966141363707287,4.880316058563793/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_carlsbad_ver01:data:sn85066387:00175037421:1896081401:0247/pct:15.998335673792063,58.629638236888994,12.976543402506891,4.884189325276939/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -646,7 +646,7 @@ to the extent of our own consumption.&#x27;
 (Applause.)  
 &quot;I have said the home market is th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ash_ver01:data:sn84020358:00415621152:1896091501:0525/pct:57.783018867924525,122.94423791821562,16.27358490566038,3.2267657992565058/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ash_ver01:data:sn84020358:00415621152:1896091501:0525/pct:43.35430593786866,92.2081784386617,12.20998820290995,2.423791821561338/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -667,7 +667,7 @@ I have said that the home market is
 the best maket. You know that from  
 experience, and the home market i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_firebaugh_ver01:data:sn82015104:00280768893:1896091501:0132/pct:24.070390206579955,55.07083885434716,13.542463657230298,3.2106818876770973/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_firebaugh_ver01:data:sn82015104:00280768893:1896091501:0132/pct:24.075490946187198,55.07083885434716,13.542463657230298,3.214079434648184/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -691,7 +691,7 @@ workingmen. (Great cheering. Put every idle
 man in the country to work and your consump,­  
 man iiloe inereased, CApplause and cries o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kaiser_ver01:data:sn83030214:0017503898A:1896091501:0256/pct:8.907077515647568,257.0860488235944,48.48338950409244,14.039544902242351/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kaiser_ver01:data:sn83030214:0017503898A:1896091501:0256/pct:2.9690258385491894,85.6953496078648,16.16112983469748,4.67984830074745/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -710,7 +710,7 @@ consumption.&#x27; (Applause.)
 &quot;BIGGEST HE EVER TOLD.&quot;  
 &quot;I have said that the home market I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665623:1896091501:0147/pct:5.139275766016713,105.33174068845695,16.462395543175486,3.12737539363666/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665623:1896091501:0147/pct:3.8595513445729415,78.99880551634271,12.358924341646928,2.345531545227495/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -730,7 +730,7 @@ to the extent of our own consumption.&#x27;
 the best market. You know that from  
 experience; and the home market i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760560:1896091501:0435/pct:25.25464349910126,113.01852052420665,18.52905931695626,4.548900682335102/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760560:1896091501:0435/pct:16.841474378183996,75.34929058810788,12.361402457296974,3.0326004548900682/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -749,7 +749,7 @@ our own consumption. IApplause,
 &quot;I have said that the home market is the best  
 market. You know that from experienoe; and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_goethe_ver01:data:sn83030272:00175042891:1896091501:0399/pct:274.7692307692308,288.25396825396825,51.84615384615385,7.377173091458806/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_goethe_ver01:data:sn83030272:00175042891:1896091501:0399/pct:68.70552029236391,72.06349206349206,12.964031544527794,1.8442932728647015/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -809,7 +809,7 @@ consumption. I have said that the home mar­
 ket is the best market. You know that from  
 experience; ami the home market is made bel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_carlsbad_ver01:data:sn85066387:00175037433:1896091901:0307/pct:29.218555417185556,17.733132040413423,13.309464508094646,4.52909069794449/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_carlsbad_ver01:data:sn85066387:00175037433:1896091901:0307/pct:29.218555417185556,17.740874075794526,13.314653383146533,4.53296171563504/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -826,7 +826,7 @@ that we should encourage home manufactures
 to the extent of our own consumption.—  
 Thomas Jefferson.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_carlsbad_ver01:data:sn85066387:00175037433:1896092301:0375/pct:43.158388003748826,10.02795248078267,13.214620431115277,1.9916142557651992/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_carlsbad_ver01:data:sn85066387:00175037433:1896092301:0375/pct:43.1688014162241,10.031834769780263,13.214620431115277,2.003261122757978/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -865,7 +865,7 @@ to the extent of our own consumption.’
 the best market. You know that from  
 experience; and the home market i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_evans_ver01:data:sn83035387:00211664526:1896092601:0191/pct:5.744774155825172,86.0654857756307,11.913462944014032,3.070316693505099/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_evans_ver01:data:sn83035387:00211664526:1896092601:0191/pct:5.754519319787556,86.06906423331544,11.903717780051648,3.0738951511898374/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -884,7 +884,7 @@ own consumpfiou.” (Applause.)
 Home Mnrkct Alwny* the Brat.  
 I have said tliat the home market is th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_jones_ver02:data:sn92067106:00542861915:1896100801:0621/pct:20.388349514563107,59.64492319968083,14.533686378346573,3.1119090365050868/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_jones_ver02:data:sn92067106:00542861915:1896100801:0621/pct:20.39570461900559,59.654897267105525,14.52633127390409,3.1119090365050868/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -918,7 +918,7 @@ My own idea is that we should encourage
 home manufactures to the extent of our  
 own consumption.” (Applause.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_lopez_ver03:data:sn88085081:0020219977A:1896100901:0136/pct:18.816787982035002,60.40614369652613,14.046770946259873,1.8864034635604576/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_lopez_ver03:data:sn88085081:0020219977A:1896100901:0136/pct:18.827112694233648,60.40614369652613,14.051933302359197,1.9001477510909528/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -976,7 +976,7 @@ courage home manufactures to the ex­
 tent of our own consumption of every­  
 thing of which we raise the raw materi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_casper_ver01:data:sn85059533:0039334913A:1899042901:0136/pct:4.333996023856859,20.68870523415978,14.353876739562624,2.6170798898071626/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_casper_ver01:data:sn85059533:0039334913A:1899042901:0136/pct:4.333134565692705,20.685855942707615,14.355992844364938,2.6201625120506815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1014,7 +1014,7 @@ our own consumption of everything of
 which we raise the raw materials.  
 Ilad Thomas Jefferson lived in thes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_clabbert_ver01:data:sn85040451:00414215142:1899051001:0279/pct:32.61307207086297,83.38253901307465,12.60233525701248,2.625474483340363/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_clabbert_ver01:data:sn85040451:00414215142:1899051001:0279/pct:25.274763374128906,64.62736979734147,9.777068959539577,2.032033122684681/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1033,7 +1033,7 @@ our own consumption of everything of
 which we raise the raw materials.  
 Had Thomas Jefferson lived in thes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_arbutus_ver01:data:sn85040614:00514152652:1899051101:0510/pct:30.60468249957891,84.48670944087992,14.957049014653865,2.7268560953253895/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_arbutus_ver01:data:sn85040614:00514152652:1899051101:0510/pct:30.610297007467295,84.49434769324779,14.962663522542249,2.7268560953253895/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1082,7 +1082,7 @@ age home manufactures to the extent of
 our own consumption of everything of  
 which we raise the raw materials.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_honeydew_ver01:data:sn99068086:0033289996A:1899051801:0990/pct:44.90286771507863,87.90104367993816,14.449583718778909,2.7187218141992013/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_honeydew_ver01:data:sn99068086:0033289996A:1899051801:0990/pct:44.90749306197965,87.90104367993816,14.46345975948196,2.725164282953228/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1103,7 +1103,7 @@ which we raise the raw materials.
   
 Had Thomas Jefferson lived in thes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_corsair_ver06:data:sn96090259:00415623161:1899051901:0471/pct:51.80151024811219,82.05813040062844,13.54908306364617,2.655145326001571/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_corsair_ver06:data:sn96090259:00415623161:1899051901:0471/pct:51.806903991370014,82.06205813040063,13.54908306364617,2.670856245090338/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1127,7 +1127,7 @@ ican victories In the contest for pos­
 session of the world’s markets, he  
 would point with pride to what h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_americanrobin_ver01:data:2010270509:00517013857:1899052501:0514/pct:34.860146423878355,84.708574505317,14.060446780551905,5.720823798627002/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_americanrobin_ver01:data:2010270509:00517013857:1899052501:0514/pct:34.8536036036036,84.6971736204576,14.0625,5.723418573351279/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1147,7 +1147,7 @@ thing of which wo raise the raw ma
 terials. &quot;  
 Had Thomas Jefferson lived in thes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_gering_ver01:data:sn94055463:0020653851A:1899052501:0089/pct:44.402420574886534,112.69755504525193,18.097579425113466,4.3360799675807105/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_gering_ver01:data:sn94055463:0020653851A:1899052501:0089/pct:33.30811424248156,84.52992030258004,13.580480423680726,3.2554369850060785/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1171,7 +1171,7 @@ ican victories in the contest for pos­
 session of the world&#x27;s markets , he  
 would point with pride to what h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_indianola_ver01:data:sn94056415:00206536676:1899052601:0515/pct:67.43353783231083,111.72265904217298,18.387866394001364,7.445794615201335/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_indianola_ver01:data:sn94056415:00206536676:1899052601:0515/pct:50.58803477075166,83.79497259947581,13.788989261973752,5.587324279247081/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1238,7 +1238,7 @@ the benefit of carrying the iron to
 Europe and bringing back the axes,  
 nails, ete.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_arbutus_ver01:data:sn85040614:00514152652:1899081001:0614/pct:48.43648208469055,37.29387847300655,14.364820846905538,5.590693471877118/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_arbutus_ver01:data:sn85040614:00514152652:1899081001:0614/pct:48.447339847991316,37.29764324975529,14.370249728555917,5.601987802123334/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1273,7 +1273,7 @@ the beneiit of carrying the iron to
 Europe and bringing back the axes,  
 nulls, et(j.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_honeydew_ver01:data:sn99068086:0033289996A:1899081701:1107/pct:62.16466234967623,55.859476276899144,14.48658649398705,6.002074150894478/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_honeydew_ver01:data:sn99068086:0033289996A:1899081701:1107/pct:62.16928769657724,55.86919885921701,14.491211840888067,6.002074150894478/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1297,7 +1297,7 @@ the benetit of carrying the iron to.
 Kurope and bringing back the axes,  
 nails, etc.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_corsair_ver06:data:sn96090259:00415623161:1899081801:0572/pct:67.26254576782253,39.84189723320158,13.698040060305837,5.644268774703558/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_corsair_ver06:data:sn96090259:00415623161:1899081801:0572/pct:67.27869911695025,39.85375494071146,13.692655610596598,5.6521739130434785/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1336,7 +1336,7 @@ they may have the benefit of carrying the
 iron to f.urope ana Bringing duck me axes,  
 nails, etc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_marmaduke_ver02:data:sn90061371:00294557192:1899082301:0253/pct:8.892382948986723,93.79067951054412,16.09014675052411,15.829211142931529/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_marmaduke_ver02:data:sn90061371:00294557192:1899082301:0253/pct:6.675987416987067,70.34626399375162,12.076197133869277,11.871908357198647/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

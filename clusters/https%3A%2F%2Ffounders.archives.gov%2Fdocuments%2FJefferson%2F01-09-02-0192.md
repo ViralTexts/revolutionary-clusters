@@ -46,7 +46,7 @@ credit. I see nothing else which run restrain our dispo­
 sition to luxury, and to the change of those manners  
 which can. alone preserve Republican Government.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1841112601:0519/pct:66.70722433460077,51.26109765940274,16.106463878326995,5.558918482647297/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1841112601:0519/pct:66.71229404309253,51.26782351358622,16.106463878326995,5.558918482647297/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -67,7 +67,7 @@ We should take care, toe, not to think it for the interest
  o ta e onien o e to son on the spano  
  a te oti ao e in ee an 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271742952:1847011401:0073/pct:101.92659026739744,279.40032043945985,58.94369706028899,9.235523002975508/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271742952:1847011401:0073/pct:33.975530089132484,93.1334401464866,19.64789902009633,3.0785076676585033/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -112,7 +112,7 @@ tinent, to press too soon on the Spaniards. These roan- assist
 feeble to hold them till our population can he sufficiently ,  
 anced to&#x27;gain it from them, piece by piece.&quot; then 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661150:1847020201:0126/pct:32.59729944400318,91.5625386613881,16.53693407466243,3.488803662006681/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661150:1847020201:0126/pct:32.59729944400318,91.57078642418244,16.54222928249934,3.488803662006681/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -136,7 +136,7 @@ that they are loo feeble to hold them till
 our population can be sufficiently advanc­  
 ed to gain it from them, piece by piece.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn85026335:00296028873:1847020501:0134/pct:108.86155129274395,88.44339622641509,18.994995829858215,8.505306603773585/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn85026335:00296028873:1847020501:0134/pct:81.7024827873983,66.33254716981132,14.270811600250365,6.382665094339623/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -159,7 +159,7 @@ too feeble to hold them till onr population can be
 sufficiently advanced to gain it from them, piece  
 by pisre.” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn86071753:00414184388:1847020901:0488/pct:21.177701389926767,88.01522566612289,15.558212524286354,4.5894507884719955/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn86071753:00414184388:1847020901:0488/pct:21.17453676031082,88.0056546324489,15.560868698944013,4.592576482528636/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -184,7 +184,7 @@ our population can be sufficiently advane­
 ed to gain it from them piece by piece.&quot;  
 HorrIele MASsAcre on the Wes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84024082:0021247163A:1847021601:0110/pct:79.72651605231867,324.44444444444446,56.36147443519619,27.511111111111113/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84024082:0021247163A:1847021601:0110/pct:19.934591942916605,81.11111111111111,14.09246320796789,6.877777777777778/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -208,7 +208,7 @@ My fear is, that they are too feeble to hold them till
 our population can be sufficiently advanced to gain it  
 from them, piece by piece.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191253:1847022701:0095/pct:26.849434290687554,359.7645079899075,58.224543080939945,17.12363330529857/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191253:1847022701:0095/pct:6.712358572671889,89.94112699747687,14.556135770234986,4.280908326324642/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -231,7 +231,7 @@ My fear is, that they arc too feeble to hold them till
 our population can be audiciently advanced to gain it  
 from them, piece by piece.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn82015677:00296029798:1847030401:0060/pct:6.895633652822151,120.82504449795833,19.195953141640043,5.842320175897812/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn82015677:00296029798:1847030401:0060/pct:5.180450126514849,90.61878337346874,14.396058063656945,4.386975185844414/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -254,15 +254,15 @@ better hands, My fear is, that they are too fee­
 ble to hold them till our population can be suffi  
 eiently advanced togain it piece by piece.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_angelou_ver01:data:sn83030362:print00211110028:1847030701:0004/pct:52.62404580152672,26.0264018408623,10.49618320610687,3.1367324694198864/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_angelou_ver01:data:sn83030362:print00211110028:1847030701:0004/pct:52.63199745547074,26.032457308949983,10.50015903307888,3.1337047353760448/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1847-10_21_112/page/n4/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1847-10_21_112/page/n4/mode/1up?view=theater)
 
-#### 1847-10-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1847-10-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -306,7 +306,7 @@ Spaniards. Those countries cannot he in better hands
 | Ay piece. &#x27;Ilie navigation of the Mississippi u c must hi  
 | This is all wo are, as yet, ready to receive
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848012201:0093/pct:85.16118836915297,30.634820867379005,14.333122629582807,7.039597737272156/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848012201:0093/pct:85.17172355667931,30.639011104127384,14.333122629582807,7.047978210768909/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -422,7 +422,7 @@ at least for the present, have plenty of room for
 expansion ; and neither covet their neighbor&#x27;s  
 lands nor fear their rivalry, either separate o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kuvasz_ver02:data:sn83045462:00280654097:1857070601:0440/pct:1.2888198757763976,29.876765855124738,16.08695652173913,3.887386033463581/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kuvasz_ver02:data:sn83045462:00280654097:1857070601:0440/pct:1.2927018633540373,29.876765855124738,16.09083850931677,3.889890792505761/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -564,7 +564,7 @@ packed in a box of sand and sent me.
 They might come either directly or via  
 N. York
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762325:1879050601:0070/pct:38.22736641826542,13.255926463473633,21.95972728714127,82.36574746008708/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762325:1879050601:0070/pct:38.23925796733788,13.255926463473633,21.95179958775963,82.36877116594098/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -722,7 +722,7 @@ at he tion can be sufficiently advanced to
 tress. gain it from them piece by piece.&quot;  
 eated This proposition of territorial ag
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_juggernaut_ver01:data:sn88064237:0021110093A:1896122601:0216/pct:15.049400141143261,26.349974528782475,14.908256880733944,6.737137035150281/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_juggernaut_ver01:data:sn88064237:0021110093A:1896122601:0216/pct:15.04674545775269,26.349974528782475,14.905627094725702,6.737137035150281/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -746,7 +746,7 @@ population can be sufficiently advanced to gain
 it from them piece by piece.&quot;  
 Here is an imperialist conception worthy o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:0017504291A:1897010101:0014/pct:341.0917361637604,168.2962962962963,50.18953752843063,18.903703703703705/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:0017504291A:1897010101:0014/pct:85.30527114144861,42.074074074074076,12.552142586272279,4.725925925925926/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -775,7 +775,7 @@ terests are more dangerous to our liber­
 ties than standing armies.” This is but  
 an example of his far-seeing statesman
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_isner_ver01:data:sn86092518:00414186907:1897041401:0086/pct:62.98976350158842,28.467470402954273,14.701729615248853,7.266210492016944/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_isner_ver01:data:sn86092518:00414186907:1897041401:0086/pct:62.978648314805014,28.46437880104257,14.705017351920475,7.269041413263828/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -835,7 +835,7 @@ which all America, North and South, is
 to be peopled.”  
 &quot;So shall a light that cannot fad
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524822:1899030901:0081/pct:55.0977506832037,15.250906892382105,13.201597645574942,5.8494558645707375/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524822:1899030901:0081/pct:55.08617065994115,15.248602085537252,13.204077343421606,5.852350007556295/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -866,7 +866,7 @@ are too feeble to hold them till our
 population can be sufficiently advanced  
 to gain it from them plece by piec
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_hornacek_ver01:data:sn83045555:206534710:1899041701:1263/pct:144.17177914110428,101.5411973918198,35.966257668711656,23.888559573206877/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_hornacek_ver01:data:sn83045555:206534710:1899041701:1263/pct:48.08184143222506,33.84706579727327,11.994884910485933,7.962853191068959/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

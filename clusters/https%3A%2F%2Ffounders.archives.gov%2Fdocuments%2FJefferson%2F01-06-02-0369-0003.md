@@ -423,7 +423,7 @@ comprehending Long Island and all the lands and
 rivers from the west side of tho Connecticut river  
 to the east side of Delaware bay. In September
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hughes_ver01:data:sn85026214:print00205958277:1885071201:0001/pct:68.07163531114327,30.868167202572348,11.884949348769899,1.9935691318327975/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hughes_ver01:data:sn85026214:print00205958277:1885071201:0001/pct:68.07163531114327,30.868167202572348,11.903039073806077,2.0064308681672025/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -480,7 +480,7 @@ out the main lands from the Western Ocean to the South Sea — o
 lands from the west side of Connecticut  
 to the east side of Delaware Bay
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_horseradish_ver02:data:sn87068097:00383340226:1895111901:0483/pct:2.4697666496337933,71.55283045772137,12.485096235734968,1.126479395408527/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_horseradish_ver02:data:sn87068097:00383340226:1895111901:0483/pct:2.4693460490463215,71.54262902765896,12.487227520435967,1.1298830909609352/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -502,7 +502,7 @@ Charles 11, to the Duke of York, in 106, and in 10y4, which (as he
 claimed) embraced among other parts all the lands from the west  
 side of Connecticut river to the east side of Delaware bay. Foundi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jamaica_ver01:data:sn93063557:00280777894:1897100101:0750/pct:29.919857524487977,357.1582016265153,117.80943900267141,25.28770906858984/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jamaica_ver01:data:sn93063557:00280777894:1897100101:0750/pct:7.4849632434840725,89.28955040662882,29.472042771218533,6.32192726714746/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -585,7 +585,7 @@ son&#x27;s river, and all the lands from the
 west side of Connecticut river to the  
 east side of Delaware bay.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ash_ver01:data:sn84020358:00415621188:1898050201:0944/pct:76.83939873417721,53.463720513586146,16.39636075949367,2.493281576590027/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ash_ver01:data:sn84020358:00415621188:1898050201:0944/pct:57.64589515331355,40.101522842639596,12.304648862512364,1.8811585547924754/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

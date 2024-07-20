@@ -43,7 +43,7 @@ am&amp;gmg out—Where are our men
 of abilities ? Why do they not come  
 forth to save their country ? Let thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1806021101:0234/pct:77.04436543515226,78.77067144849572,16.818673674447364,6.903765690376569/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1806021101:0234/pct:77.04951821507703,78.77067144849572,16.818673674447364,6.903765690376569/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -217,7 +217,7 @@ tjons ami other circumstances, push matters to
 prevent it hut tlve interposition of Spain and  
 &#x27;heir disappointed hone from Russia ”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216389:1827091301:0133/pct:1.0875194199896427,2.7338129496402876,37.85603314344899,93.72901678657074/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216389:1827091301:0133/pct:1.0873317224715222,2.733485193621868,37.855252560119666,93.72177596611118/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -446,7 +446,7 @@ t the present state of our currency, dissen­
 3 tioH of Spain, and their disappointed hopi  
 - from Russia.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn82014309:00414182926:1827100401:0258/pct:24.035964035964035,4.236373448461953,35.44455544455545,90.8256880733945/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn82014309:00414182926:1827100401:0258/pct:24.03116260487415,4.235801969513018,35.44246903715541,90.81680830972616/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -764,7 +764,7 @@ the sincerest regard, dear sir, your most obedi­
 ent and affectionate humble servant,  
 GO. WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215877:1852012801:0222/pct:44.78256785949094,14.835126692120792,12.6608434300742,67.80284623394655/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215877:1852012801:0222/pct:44.778362133734035,14.83409690406775,12.662784873528675,67.80045351473923/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -994,7 +994,7 @@ tween the Clonies, that each one was more
 intent in taking care of itself than in provie  
 a want of narifon at
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_kings_ver01:data:sn83025813:00415667115:1864022301:0054/pct:206.66666666666666,22.662889518413596,59.00262467191601,35.65627950897073/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_kings_ver01:data:sn83025813:00415667115:1864022301:0054/pct:51.68701588551923,5.665722379603399,14.756465800183799,8.914069877242682/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1018,7 +1018,7 @@ state of our currency, dissensions, and other
 circumstances, push matters to the utmost ex­  
 tremity.&quot; These words apply as well now
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_kings_ver01:data:sn83025813:00415667115:1864022301:0054/pct:207.61154855643045,203.5127478753541,58.425196850393704,20.77431539187913/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_kings_ver01:data:sn83025813:00415667115:1864022301:0054/pct:51.923329394774846,50.87818696883853,14.612051988972036,5.193578847969783/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1180,7 +1180,7 @@ with tbe sincerest regard, dear sir, yonr most
 obedient and affectionate humble servant.  
 » GEO. WAjSBINaTQi.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762465:1864041901:0199/pct:42.45618491236983,29.844140850490668,12.738125476250952,66.16317106022706/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762465:1864041901:0199/pct:42.460418254169845,29.847347828875634,12.742358818050969,66.16637803861202/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1204,7 +1204,7 @@ or spring which was to put the whole
 in motion. He summoned Jefferson,  
 Wythe, and Pendleton to his assistance
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_tesla_ver01:data:sn85038614:00175030876:1885022201:0194/pct:259.39141180105037,193.53196099674972,35.34136546184739,15.406283856988082/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_tesla_ver01:data:sn85038614:00175030876:1885022201:0194/pct:86.46380393368345,64.51065366558325,11.78045515394913,5.135427952329361/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1248,7 +1248,7 @@ since the commencement of hostilities when
 I have thought her liberties in such imminent  
 danger as at presen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_dante_ver01:data:sn83030272:00175044899:1886073001:0323/pct:68.61089792785879,132.87255050888652,51.49654643131235,21.039039951389945/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_dante_ver01:data:sn83030272:00175044899:1886073001:0323/pct:17.152724481964697,33.21813762722163,12.874136607828088,5.259759987847486/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1436,7 +1436,7 @@ ice and thirst for gain must plunge
 everything (including themselves) in  
 one common ruin.&quot; We are sorry t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_dakin_ver03:data:sn84023253:00202197061:1888022301:0033/pct:75.26315789473684,113.41595999130246,44.1578947368421,91.23722548380083/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_dakin_ver03:data:sn84023253:00202197061:1888022301:0033/pct:18.81578947368421,28.353989997825614,11.039473684210526,22.809306370950207/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1528,7 +1528,7 @@ men of abilities
 FreNCh CND  
 The GrOWIug Power of the GailE Elemen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_fernandez_ver01:data:sn83030272:00175044796:1888022601:0718/pct:284.0363777089783,162.84658040665434,50.94814241486068,115.0955021565003/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_fernandez_ver01:data:sn83030272:00175044796:1888022601:0718/pct:71.03658536585365,40.711645101663585,12.741966705381339,28.773875539125076/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -131,7 +131,7 @@ notwithitanding the most earnefl importuni­
 ties and assurances of a&#x27;liberal reward on his  
 part. ‘Their names are Fokn Paulding, Da
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1780112701:0432/pct:64.96787059605583,32.65845070422535,28.495457567028584,16.241197183098592/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1780112701:0432/pct:64.97525666592806,32.66823161189358,28.510229706773025,16.241197183098592/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -538,7 +538,7 @@ and usage of war, circumatanced as he was, were agalnat the
 indulgence.  
 Of the justice of Andre&#x27;s execution I never saw eaus
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743087:1853070601:0058/pct:247.99333888426312,16.912184538083817,47.91007493755204,21.71976704350805/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743087:1853070601:0058/pct:82.66444629475437,5.63739484602794,15.970024979184013,7.239922347836017/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -564,7 +564,7 @@ suffering one of the severest strokes that could have been
 medit ated against us. Their names are John Paulding, Da­  
 vid Williams, and Isaae Van Wart
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743087:1853070601:0058/pct:237.43547044129892,180.29005367134863,58.434637801831805,12.470023980815348/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743087:1853070601:0058/pct:79.1451568137663,60.09668455711621,19.478212600610604,4.156674660271783/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -618,7 +618,7 @@ severest strokes that could have been meditated against
  WASHiNGtON.  
 On the south side is the following
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_avanti_ver01:data:sn83030214:00175039818:1880092401:0737/pct:245.2623335943618,282.18339639439125,46.421299921691464,7.9902069886490095/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_avanti_ver01:data:sn83030214:00175039818:1880092401:0737/pct:81.7541111981206,94.06113213146376,15.473766640563822,2.66340232954967/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

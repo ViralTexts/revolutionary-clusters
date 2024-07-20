@@ -33,7 +33,7 @@ tism, too little leads to anarchy,
 and both lead to the ruin of the  
 people. Alexander Hamilton.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn84025891:00211102925:1887082701:0279/pct:80.43171557562077,31.93462053144714,18.905191873589164,5.285796214872874/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn84025891:00211102925:1887082701:0279/pct:60.3358261605757,23.95335499904416,14.180894595738677,3.966736761613458/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -50,7 +50,7 @@ Too much power leads to| despotism,
 too little leads to anarchy, and both lead  
 to the ruin of the people.—Alexander Ham
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn86077146:00513685129:1887112301:1098/pct:7.857449549162731,75.85664885256209,13.718334048948046,2.0433825840930524/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn86077146:00513685129:1887112301:1098/pct:7.855763039278815,75.84472732987585,13.720755526937111,2.046990413327047/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -78,7 +78,7 @@ despotism, too little leads to anarchy.&quot;
 Another inscription is: &quot;Presented to  
 the Hon. Thomas B. Reed by the Hamil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_dogtown_ver01:data:sn85066387:00175037317:1895120101:0254/pct:15.996371333534926,25.300802139037433,13.274871484729362,2.0276292335115866/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_dogtown_ver01:data:sn85066387:00175037317:1895120101:0254/pct:16.00141114806975,25.300802139037433,13.284951113799012,2.0350564468211525/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -116,7 +116,7 @@ much power leads to despotism, too little leads
 to anarchy.&quot; Another inscription is.   
 sented to the Honorable Thomas Bracket
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jaguar_ver01:data:sn83030214:00175038863:1895120101:0007/pct:149.58890859261646,260.8370866747226,47.92842173142028,6.89882456333077/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jaguar_ver01:data:sn83030214:00175038863:1895120101:0007/pct:49.86296953087216,86.94569555824087,15.976140577140093,2.2996081877769234/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -134,7 +134,7 @@ centre of the mallet is a quotation from Alex­
 ander Hamilton, reading: &quot;As too much power  
 leads to despotism, too little leads to anarch
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175042830:1895120101:0391/pct:334.49319213313163,295.48894943990314,50.37821482602118,5.994550408719346/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175042830:1895120101:0391/pct:83.67076631977294,73.87223735997578,12.601702932828761,1.4986376021798364/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -162,7 +162,7 @@ too little leads to anarchy.&quot;
 Another inseription is “Presented to  
 the Honorable Thomas Brackett lfeed b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn82014248:0033289528A:1895120201:0420/pct:68.41794569067297,24.307133121308496,12.672176308539944,2.014235953354536/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn82014248:0033289528A:1895120201:0420/pct:68.40448554003541,24.303452453058753,12.674601613220538,2.017716535433071/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -178,7 +178,7 @@ the Honorable Thomas Brackett lfeed b
 reading: “As too much power leads to  
 despotism, too little leads to anarchy.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_isleboro_ver01:data:sn83016025:00414210612:1895120201:0076/pct:14.566024394555418,61.310164539443335,11.242708149195687,1.0610487467322773/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_isleboro_ver01:data:sn83016025:00414210612:1895120201:0076/pct:14.56344998232591,61.300738007380076,11.245139625309296,1.0647293972939729/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -195,7 +195,7 @@ I’iackett Reed by the Hamilton club of
 Chicago, 18S5. &#x27;As too much power leads to  
 despotism, too little leads to anarchy.’ ’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033255:00514152536:1896010201:0417/pct:45.34836890857833,61.5891132572432,9.437508390387972,0.8779631255487269/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033255:00514152536:1896010201:0417/pct:45.34836890857833,61.59642961662277,9.446458137557615,0.8816213052385133/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

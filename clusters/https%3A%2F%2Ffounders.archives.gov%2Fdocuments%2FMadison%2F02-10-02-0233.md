@@ -80,7 +80,7 @@ iv ray character as comn*issioner or g&lt;&gt;- |
 veinor, 1 Could evn this occasion ial •  
 necessar) ory roe asures
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805121101:0003/pct:23.7029501525941,8.572541888556955,17.639877924720246,30.913105598129626/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805121101:0003/pct:23.709732112580536,8.572541888556955,17.653441844693116,30.926094297960773/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -162,7 +162,7 @@ occasion take, if necessary, &#x27;e&#x27;ompniour-y
   
 &#x27;meapursiesct : , ., _ ss
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1805121301:0016/pct:28.493414712495984,4.914669402219528,46.610986186957916,90.94469831203953/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1805121301:0016/pct:28.48883892725229,4.914211115255502,46.60885391574327,90.93932612209375/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -215,7 +215,7 @@ indeed be pleafed to have it hinted to me, that in my
 character as cotnmilfinner or governor, I cduld on this  
 occafion take (if uecellary) compuifory meafures
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1805121701:0264/pct:3.0155459823937067,1.1078568699859925,36.43004307922832,94.85546924742137/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1805121701:0264/pct:3.0149812734082397,1.1077158135981666,36.429463171036204,94.8476360241066/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -270,7 +270,7 @@ to have it hinted to me, that in niv character as com­
 missioner or gnvernour, I could on this occasion take  
 (if necessary) compulsory measures
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805121801:0865/pct:30.78393881453155,29.197196559413825,20.60229445506692,23.478814909206754/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805121801:0865/pct:30.77658303464755,29.19254658385093,20.603345280764636,23.47905717470935/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -332,7 +332,7 @@ character as coinmisbiotier or governor,!
 could on this occasion take (if necessary )  
 compulsory measures
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805121801:0438/pct:60.71705426356589,21.111985313401522,18.23643410852713,30.98610018358248/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805121801:0438/pct:60.70528967254408,21.109217254490627,18.239359297293806,30.986407936716052/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -427,7 +427,7 @@ character as Commissioner or Governor, f
 could on this occasion take (if necessary) com­  
 pulsory measuri —In Mr. Jefferson&#x27;s mes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1821112001:0227/pct:80.08032128514056,60.114435570389794,15.052208835341366,6.4608415782572415/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1821112001:0227/pct:80.06745904272407,60.107270560190706,15.05514509048078,6.464044497417561/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

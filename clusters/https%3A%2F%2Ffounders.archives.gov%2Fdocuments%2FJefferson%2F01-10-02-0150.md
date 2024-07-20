@@ -44,7 +44,7 @@ endanger our liberties, nor occasion bloodshed i a land
 luree n ould do bo&#x27;h.”  
 What dons lb* Jeffersonian think of his? I« this th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184054:1831080901:0112/pct:64.43298969072166,72.83706631532718,14.805269186712486,7.883179622310057/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184054:1831080901:0112/pct:64.42376521116678,72.8290701504007,14.807921737055596,7.885973579243971/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -155,7 +155,7 @@ treasury, but the tear tbutottieis will not lurni-h as much.
 ment of coercion, and should fear to see it on any other  
 clement than the water.” [Here Mr. Atkinson desire
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1833031901:0412/pct:20.444007306449347,3.031985784095957,30.434171701559645,91.84806752554421/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1833031901:0412/pct:20.441135150323124,3.03164908384231,30.43457900159221,91.8415694984268/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -247,7 +247,7 @@ ad to correct the abuses which those Legislatures
 hd defuged the country with paper money. The  
 Constitution declared, that &quot;that no State should emi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186439:1843080301:0620/pct:101.4657726493061,249.31919508374503,45.485732106658354,16.785154837932282/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186439:1843080301:0620/pct:33.81665107577175,83.09638554216868,15.159546824654402,5.594377510040161/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -355,7 +355,7 @@ instrument, we find how the Governmen,
 is created, how it is to be perpetuated, and  
 how it may be enlarged in reference to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_gary_ver01:data:sn82016350:00202191496:1861010201:0242/pct:23.404255319148938,147.72007295766537,42.75582573454914,67.31304598252856/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_gary_ver01:data:sn82016350:00202191496:1861010201:0242/pct:5.851063829787234,36.93001823941634,10.688956433637285,16.82826149563214/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -384,7 +384,7 @@ water.&quot;
 Mr. Johnson quoted from Madison, Mar­  
 shall, Jackson and Webster and finall
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028820:00280775472:1861010301:0393/pct:8.081180811808117,65.28411447532145,16.236162361623617,11.046592008848334/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028820:00280775472:1861010301:0393/pct:6.071230854401181,48.96999861744781,12.17936888724857,8.281487626157887/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -441,7 +441,7 @@ lowing year, and when the confederation was st its
 Ust gai-p. Mi. Jefferson was still of the opinion  
 that it possessed the power of coercing the &quot;Slates
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn83032006:00296028563:1861071901:0139/pct:76.74675940562757,38.00497571377799,14.226999683844452,5.437744343087312/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn83032006:00296028563:1861071901:0139/pct:76.74675940562757,38.00497571377799,14.242807461270946,5.445642301465071/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -620,7 +620,7 @@ them. lam persuaded all of them would rejoice
 to see every one obliged to furnish its contribu­  
 tions.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn83032006:00296028563:1864092301:0375/pct:62.243109765811695,63.873223550642905,14.624820774255218,3.2145274080757953/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn83032006:00296028563:1864092301:0375/pct:62.243109765811695,63.873223550642905,14.630131166693218,3.2295661327919394/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -645,7 +645,7 @@ by some of them. I am persuaded that
 all of them would rejoice to see every one  
 obliged to furbish their contributions&#x27;&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn84026399:00237287459:1864100601:0237/pct:65.59748427672956,82.19594228056852,19.19811320754717,6.129977216013887/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn84026399:00237287459:1864100601:0237/pct:49.2135891789871,61.64695671042639,14.407046240956275,4.600195291309537/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -672,7 +672,7 @@ must wish to see an effective instrument of cocr­
 So much for the author of the Kentucky resolu­  
 tions. It seems almost probable that Senato
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn84038763:0027955792A:1867101901:0379/pct:1.7788089713843773,74.63726884779517,12.780355761794278,5.519203413940256/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn84038763:0027955792A:1867101901:0379/pct:1.7836426914153132,74.6479374110953,12.804524361948955,5.52275960170697/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -688,7 +688,7 @@ tions. It seems almost probable that Senato
 ment, “The States must see the rod: perhaps it  
 must be felt by some of them.” says Mr. Jefferson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn84038763:0027955792A:1867101901:0379/pct:1.817478731631864,81.3655761024182,12.780355761794278,0.9957325746799431/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn84038763:0027955792A:1867101901:0379/pct:1.8271461716937354,81.3655761024182,12.785189481825213,1.0064011379800855/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -731,7 +731,7 @@ t bread.
 A naval force can never endanger our liberties nor oc­  
 casion bloodshed; a land force would do both.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_lorca_ver01:data:sn83030272:00206533109:1888102101:0609/pct:283.26937835763624,90.48200122025625,50.26861089792786,5.003050640634533/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_lorca_ver01:data:sn83030272:00206533109:1888102101:0609/pct:70.84452975047985,22.620500305064063,12.571976967370441,1.2507626601586332/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -765,7 +765,7 @@ form of tyranny over the mind of
 man.  
 I wish that at the end of four
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_neely_ver01:data:sn85059778:00340582135:1888102601:0356/pct:71.12676056338029,36.37095962138758,12.309859154929578,12.103514248313362/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_neely_ver01:data:sn85059778:00340582135:1888102601:0356/pct:71.1167441205464,36.36729762384213,12.312819790639816,12.10565176533763/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -786,7 +786,7 @@ sovercign legislativeexecutive and judr
 ciary power for itself.  
 The State and Federal Government
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn90061417:00294559966:1888110901:0609/pct:111.08771929824562,128.90120036934442,43.578947368421055,17.253660466956866/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn90061417:00294559966:1888110901:0609/pct:27.781677781677782,32.225300092336106,10.898560898560898,4.3134151167392165/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -804,7 +804,7 @@ liberties nor occasion bloodshed; a land
 force would do both.  
 I wish that at the end of four years Con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn84024448:0029602076A:1888111801:1219/pct:180.4953560371517,182.7318156579678,49.922600619195045,9.994447529150472/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn84024448:0029602076A:1888111801:1219/pct:45.13257209212309,45.68295391449195,12.483065608670408,2.498611882287618/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -834,7 +834,7 @@ our liberties or occasion bloodshed ; a
   
 land force would do both&#x27;.- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_hubert_ver01:data:sn89058128:0029602112A:1888120601:0947/pct:57.71823988644429,55.10652033570045,31.95528743789922,9.644932214331828/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_hubert_ver01:data:sn89058128:0029602112A:1888120601:0947/pct:43.30079858030169,41.32989025177534,23.975155279503106,7.24338282763073/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -863,7 +863,7 @@ fold than to trust to drawing bis teetb
 I wd claws after he has entered  
 1 bate sworn upon the altar of Go
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_galena_ver02:data:sn88065721:0027952164A:1889011201:0377/pct:1.8478078279858894,49.91487912836227,13.740970939022342,8.409942117807287/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_galena_ver02:data:sn88065721:0027952164A:1889011201:0377/pct:1.8534072456464528,49.91866227821284,13.757769192004032,8.417508417508417/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -889,7 +889,7 @@ judicial power for itself.
   
 The state and federal government
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_bermuda_ver01:data:sn99062858:0041562511A:1889020201:0590/pct:81.58761528326745,31.485536475740464,14.179841897233201,4.794283738619338/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_bermuda_ver01:data:sn99062858:0041562511A:1889020201:0590/pct:81.59310496267018,31.493219622757483,14.185331576635924,4.794283738619338/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -906,7 +906,7 @@ A naval force can never endanger
 our liberties nor occasion bloodshed,  
 a land force would do both.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271768515:1889020701:0206/pct:82.30584467574059,30.02284238752607,11.929543634907926,1.7975965835733438/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271768515:1889020701:0206/pct:82.31474068143403,30.029463369417684,11.933991637754648,1.800907074519151/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -927,7 +927,7 @@ ties nor occasion bloodshed a land force
 would do both  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_borges_ver01:data:sn83030272:00175044851:1889070401:0630/pct:0.0,227.03360194617608,63.24921135646688,17.45476661091683/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_borges_ver01:data:sn83030272:00175044851:1889070401:0630/pct:0.0,56.75840048654402,15.81230283911672,4.363691652729208/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -953,7 +953,7 @@ A naval force can never endanger our liberties
 nor occasion bloodshed, a land lorce could do both.  
 1
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ingstad_ver01:data:sn84028296:00296029154:1889071101:0394/pct:51.12410071942446,56.7839929896305,18.75,5.754344968599386/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ingstad_ver01:data:sn84028296:00296029154:1889071101:0394/pct:38.36294130874747,42.58799474222287,14.054418709242185,4.323061194683803/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -985,7 +985,7 @@ them.&quot;
   
 In along letter to a member of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_hazen_ver01:data:sn85042405:00212478738:1890013001:0037/pct:8.505622052956111,83.97226220070652,15.723612622415668,11.38296480439618/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_hazen_ver01:data:sn85042405:00212478738:1890013001:0037/pct:7.447765141496959,73.47834382751384,13.752975403332451,9.971379507727534/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1006,7 +1006,7 @@ WISCONSIN BRIE ELETS.
 items Gathered from vari­  
 ous sources.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_engledinger_ver02:data:sn85040310:00514152123:1891040201:0583/pct:66.01437699680511,3.7708966565349544,28.63418530351438,90.38753799392097/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_engledinger_ver02:data:sn85040310:00514152123:1891040201:0583/pct:66.01437699680511,3.7708966565349544,28.638622648207313,90.39070415400202/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1026,7 +1026,7 @@ ous sources.
 . E2. force would do both.&quot; At this period our  
  commerce in the Mediterranean was suffer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042957:1897090801:0293/pct:2.8461538461538463,177.7441332323997,69.46153846153847,12.475397426192279/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042957:1897090801:0293/pct:0.7119492014623822,44.43603330809992,17.375408889744083,3.1188493565480697/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

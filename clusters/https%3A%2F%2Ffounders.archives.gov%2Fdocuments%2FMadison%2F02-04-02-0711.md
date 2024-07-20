@@ -86,7 +86,7 @@ i? was useless to urge it. On mature deli­
 beration, the ref*‘T*-, we finally concluded a  
 treaty for the whole.” In a subsequent pa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216249:1819020101:0648/pct:7.600569597721609,47.08568943018704,17.515129939480243,4.980426272292301/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216249:1819020101:0648/pct:7.599216942516462,47.08056975100576,17.51794506733108,4.983509115291218/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -104,7 +104,7 @@ made to us was, that we should pay eighty
 millions, an.l front this quantum he never  
 • would depart.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216249:1819020101:0648/pct:6.924172303310787,53.501522401043935,18.17372730509078,2.925184862983906/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216249:1819020101:0648/pct:6.922940024915466,53.49570512123518,18.176425223942577,2.928491174658403/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -274,7 +274,7 @@ millions of Italics. Napoleon, their first
 Consul, thought he had made an advanta­  
 geous bargain in that exchange, as lie mani
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82007022:00393342882:1843121601:0061/pct:54.215017064846414,10.464810924369749,13.25938566552901,11.147584033613445/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82007022:00393342882:1843121601:0061/pct:54.20576693397031,10.46343704870684,13.261388841494625,11.149402651962715/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -311,7 +311,7 @@ he paid in twelve months, in i’aris, with the
 perpetual exemption from foreiglm duties, ae  
 above. This proposition was subsequentl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82007022:00393342882:1843121601:0061/pct:54.14675767918089,30.330882352941178,13.327645051194539,12.276785714285714/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82007022:00393342882:1843121601:0061/pct:54.13751919467668,30.326900354470265,13.32963658078826,12.278456085072863/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -346,7 +346,7 @@ The debts due to our citizens were t&lt;
 be discharged by draft on the U. S. &#x27;l’rea  
 1 sur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82007022:00393342882:1843121601:0061/pct:54.215017064846414,42.52888655462185,13.25938566552901,11.567752100840336/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82007022:00393342882:1843121601:0061/pct:54.20576693397031,42.52330313771826,13.261388841494625,11.569515557306026/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -415,7 +415,7 @@ us a copy of The History of Louisiana
 particularly of the cession of that col­  
 ny to the Uited States of Americ
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_gambit_ver01:data:sn88064592:00280761850:1881112201:0267/pct:59.570350299980646,167.76790004805383,43.89394232630153,6.054781355117732/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_gambit_ver01:data:sn88064592:00280761850:1881112201:0267/pct:19.856783433326882,55.92263334935127,14.631314108767176,2.0182604517059106/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -432,7 +432,7 @@ lis a copy of &quot;The History of Louisiana,
 particularly of the cession of that colo­  
 ny to the uited States of Americae
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_gambit_ver01:data:sn88064592:00280761850:1881112601:0277/pct:63.76068376068376,172.7426364075326,51.396011396011396,6.373732496378561/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_gambit_ver01:data:sn88064592:00280761850:1881112601:0277/pct:21.253561253561255,57.58087880251087,17.132003798670464,2.1245774987928536/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -471,7 +471,7 @@ history of Louisiana, particularly of the
 cegsion of that colony to the United  
 States of America’ (1830), by F. Barbe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_firefriend_ver01:data:sn91070630:00514152974:1899030601:1109/pct:30.785733440600698,12.550481515998758,12.617323679270582,3.9971005488246867/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_firefriend_ver01:data:sn91070630:00514152974:1899030601:1109/pct:30.785733440600698,12.557384971178074,12.626262626262626,3.9936488212350283/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -139,7 +139,7 @@ add more than a new ontahung ■
 a iiart of the proceedings &lt; f Congress  
 in relation to the emba
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808111601:0001/pct:59.229853116316,47.134838793891134,17.94362842397777,21.968411434538574/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808111601:0001/pct:59.23646949847823,47.134838793891134,17.94362842397777,21.977113518687727/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -177,7 +177,7 @@ not allow me loadd more than a newspaper contain­
 ing a part of the proceedings of Congress in relation  
 to the embargo.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808112101:0219/pct:53.791166709216235,72.98897845040302,21.087567015573143,16.022372100674453/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808112101:0219/pct:53.77743746809597,72.97697368421052,21.08856559469117,16.023848684210527/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -232,7 +232,7 @@ embnrgo.&quot; - -
   
 veyances to Paris, _whither We will for
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808112401:0596/pct:30.43293718166384,25.43399638336347,22.12790039615167,26.383363471971066/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808112401:0596/pct:30.428632055453388,25.4316969532592,22.129485547224974,26.383991803031673/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -276,7 +276,7 @@ Congress in relation to the embargo.”
 P. S. As you may be able to find conveya­  
 ces to Paris, whither none will for seine time o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808112501:0237/pct:77.17916592088777,41.732869910625624,17.308036513334528,16.199106256206555/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808112501:0237/pct:77.16535433070867,41.72769020727318,17.310904318778334,16.20123288237971/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -327,7 +327,7 @@ in relation to the embargo.”
 kk P. S. As you may he able to  
 find conveyances to Paris, whithe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808112901:0389/pct:58.84490342321668,46.56265854895992,18.18703384968445,24.58143074581431/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808112901:0389/pct:58.83365200764818,46.556753329105895,18.18992989165073,24.58254068907208/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -432,7 +432,7 @@ tins, Mr. Madison, in that letter, tells Mr. Pmkntv,
 that “ the policy and the causes of the measure, are  
 explained in the message itself.” The contents o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808122101:0271/pct:76.16161616161617,69.31743958197256,20.90909090909091,2.743305029392554/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808122101:0271/pct:76.14238828578642,69.3061224489796,20.910123706134815,2.746938775510204/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -515,7 +515,7 @@ to the embargo.* . , ~ j
 « P. 8. As you may be Able to !  
 find conveyances to Faria, whi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808123001:1089/pct:56.954887218045116,46.68801618068431,16.809881847475832,29.17579639305579/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808123001:1089/pct:56.939597315436245,46.68014829794405,16.812080536912752,29.17509268621503/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -596,7 +596,7 @@ nation whatever, and particularly as
 {subjects of difference between the tain  
 countries.&quot; Here our administratio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809012701:0001/pct:76.23562638692758,16.003143006809847,17.369376639096227,15.741225772655842/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809012701:0001/pct:76.24907538161523,16.003143006809847,17.369376639096227,15.758686921599441/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

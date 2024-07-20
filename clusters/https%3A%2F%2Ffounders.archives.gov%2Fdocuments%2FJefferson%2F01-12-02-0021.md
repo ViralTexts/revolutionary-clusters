@@ -826,7 +826,7 @@ ted, indeed, in some degree to the guidance of reason;
 but it is a small stock which is required for this; even a  
 less one than what we call commion sense.&quot; (ee Jeffer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347909:1845081801:0436/pct:192.96904852884984,243.32257117698856,59.935040122277414,39.16935720575286/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347909:1845081801:0436/pct:48.23304680038204,60.82171680117388,14.980897803247373,9.79090242112986/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1153,7 +1153,7 @@ they cannot safely be separated by
 surgical operation?  
 Tea, in this weather, is one of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00212470491:1870090101:0714/pct:274.4732576985413,265.0765686407372,51.620745542949756,39.571757690744/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00212470491:1870090101:0714/pct:68.6322188449848,66.2691421601843,12.907801418439716,9.892939422686/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1411,7 +1411,7 @@ Question with boldness even the existence of a God, be
 cause if there be one he must more approve the homage  
 t reason than that of blindfolded fear. Rea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044759:1881052301:0953/pct:288.46447669977084,171.1907239482682,49.88540870893812,6.942173331351271/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044759:1881052301:0953/pct:72.12989493791785,42.79768098706705,12.473734479465138,1.7355433328378178/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1459,7 +1459,7 @@ astute thinker, the purest man, and the most profound
 scholar who ever filled the Presidential chair,&quot; he gives  
 him only his due; but when he asserts in addition that he
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044759:1881052301:0953/pct:288.6745607333843,178.20722461721422,50.59205500381971,40.79084287200833/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044759:1881052301:0953/pct:72.18242597898758,44.551806154303556,12.650429799426934,10.197710718002082/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1790,7 +1790,7 @@ those sentiments of attachment with which I
 am, dear Peter, your affeotionate friend.  
 Tn. Jefferson.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn82015679:00271745710:1887082001:0447/pct:46.729776247848534,5.00471154852895,39.52954675846242,124.71992461522353/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn82015679:00271745710:1887082001:0447/pct:35.0595323483001,3.7587687153177676,29.651412996700618,93.53994346141765/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2071,7 +2071,7 @@ of attachments with which I am , dear
 Peter , your affectionate friend ,  
 TII. JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_chadron_ver01:data:sn99021999:00206538181:1887082101:0414/pct:75.54112554112554,6.95965617634826,35.191197691197694,124.01220019409399/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_chadron_ver01:data:sn99021999:00206538181:1887082101:0414/pct:56.66606530759517,5.226674060723694,26.41169042034999,93.0091501455705/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2418,7 +2418,7 @@ am dear Peter, your affectionate
 friend. “Tu. Jefferson.”  
 i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_neely_ver01:data:sn85059778:00340582135:1887091601:0137/pct:17.039464311155434,13.061597885749135,38.053853825331245,85.0274446025615/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_neely_ver01:data:sn85059778:00340582135:1887091601:0137/pct:17.037037037037038,13.060270352678117,38.05318138651472,85.02219060202596/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2442,7 +2442,7 @@ of a great part of America is written
 in that language.&quot;  
 It is really unfortunate that ou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_blackwidow_ver01:data:sn84021913:00211106244:1887101501:0609/pct:24.638783269961976,65.54044774069496,48.44106463878327,24.00769125120176/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_blackwidow_ver01:data:sn84021913:00211106244:1887101501:0609/pct:6.162038798022062,16.38511193517374,12.114872575123622,6.00192281280044/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2466,7 +2466,7 @@ habils which cannot be gratified when
 they return home.&#x27;&quot; Again, a- the former  
 few and simple requirements of the masse
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_mojave_ver01:data:sn82014381:00175036556:1888042801:0245/pct:14.733290488431876,62.52816316850468,10.732647814910026,4.185936203011977/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_mojave_ver01:data:sn82014381:00175036556:1888042801:0245/pct:14.745340616966581,62.53409225661093,10.72461439588689,4.188900747065102/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2687,7 +2687,7 @@ well and often better than the latter, be­
 cause ho has not brent led astray by arti­  
 ileial rules.” And when he looked aroun
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn85044812:00340583243:1896101801:0355/pct:21.195885126446637,59.32657926102503,14.380625803686241,2.2199046483909415/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn85044812:00340583243:1896101801:0355/pct:21.191343475466038,59.31774169521823,14.382901221341333,2.22329807835543/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2717,7 +2717,7 @@ God, for if there be one He will more
 approve the homage of reason than of  
 blindfolded fear. ’ 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn84022991:00513688192:1899012101:0667/pct:28.094855305466236,30.570536474595514,12.640675241157556,3.533919954584161/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn84022991:00513688192:1899012101:0667/pct:28.10155412647374,30.57526729113445,12.633976420150054,3.533919954584161/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -92,7 +92,7 @@ that lost liir paper money which appears in some
   
 ments in the States, and as we have never tn- ,,art,of ,hc jllit0(l States there will never b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn82015686:00415668818:1837091601:0211/pct:19.83356449375867,29.868247694334652,28.935506241331485,1.4097496706192358/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn82015686:00415668818:1837091601:0211/pct:19.839343504392048,29.877031181379007,28.935506241331485,1.4141414141414141/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -111,7 +111,7 @@ any clear credit, public or private, nor any settled
 confidence in public men or measures, until paper  
 money is done away.&quot;—[John Adams to Joh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn82015686:00415668818:1837091601:0211/pct:34.48335644937587,31.409749670619235,14.268377253814148,1.9367588932806323/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn82015686:00415668818:1837091601:0211/pct:34.489135460009244,31.414141414141415,14.274156264447527,1.9499341238471672/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -137,7 +137,7 @@ money is done away.&quot;-John Iams to John Jay,
 ted States--there was no nation which had guard­  
 ed the currency with more care--for the framer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023294:00200296096:1841121001:0337/pct:15.687919463087248,233.75712406839105,58.7248322147651,24.316820108139705/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023294:00200296096:1841121001:0337/pct:3.921979865771812,58.43928101709776,14.681208053691275,6.079205027034926/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -196,7 +196,7 @@ if there is a sense of justice, nor any clear credit, pub—
 lic or private, nor any settled confidence in public men  
 or measures. until paper money is done away---Joh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015209:1842091301:0350/pct:4.661389621811786,35.88893493576461,14.907651715039577,8.84790716949855/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015209:1842091301:0350/pct:4.661389621811786,35.89584196712253,14.917424020326395,8.841000138140627/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -217,7 +217,7 @@ any clear credit, public or private, nor any set­
 tled confidence in public men or measures, until  
 paper money is done away .-John Adams t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn86071753:00414184388:1846051401:0028/pct:78.82741823242867,78.22570911285456,17.18858733472512,4.140012070006035/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn86071753:00414184388:1846051401:0028/pct:78.81370673160549,78.21626840453777,17.19139560503276,4.14353528039263/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -238,7 +238,7 @@ any clear credit, public, or private, nor any settled
 confidence in public men or measures, until paper  
 money is done awayJohn Adams to Joh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn86071753:00414184388:1846071601:0135/pct:79.26613616268789,26.129032258064516,15.075154730327144,3.5053763440860215/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn86071753:00414184388:1846071601:0135/pct:79.25445705024312,26.126222986775616,15.07784489956289,3.508583306454503/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -260,7 +260,7 @@ clpar credit, public or private, imr any settled
 confidence in public men or measures, until paper  
 money j* Hone away.”—John Adams to Joh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn86071753:00414184388:1846082001:0196/pct:38.009049773755656,25.13667059706292,14.508830827616407,4.041161968056597/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn86071753:00414184388:1846082001:0196/pct:38.003502626970224,25.133976420150052,14.511578128040474,4.044301536262951/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -282,7 +282,7 @@ credit, public or private, nor any setiled confi­
 denee in public men or measures, until papor  
 woney is done away,&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153279:1848042901:0663/pct:45.25357607282184,23.930846223839854,12.418725617685306,4.8023455666767765/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153279:1848042901:0663/pct:45.257910706545296,23.930846223839854,12.431729518855656,4.809085700805446/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -303,7 +303,7 @@ oredit, public or private, nor any settled confidence
 in public men or measures, until paper money is  
 done away with.&quot;--John AdaMs to JohN Jay, 1786
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293241:1857112401:0503/pct:21.818181818181817,153.69727569159568,44.46280991735537,12.706426843378564/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293241:1857112401:0503/pct:5.456048498208873,38.42431892289892,11.11876550013778,3.176606710844641/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -324,7 +324,7 @@ credit, public, or private, nor any settled confidence
 in public men or meatures, until paper money is  
 done away with.&quot;---John AdaMs tO JOHN JUy, 1580
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293241:1857120301:0531/pct:119.2817679558011,63.24931158652828,43.53591160220994,10.209701334463038/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293241:1857120301:0531/pct:29.82868195634153,15.81232789663207,10.886985355070461,2.5524253336157594/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -345,7 +345,7 @@ of justice, nor any clear credit, public or pri
 vate, nor any settled confidence in public men  
 or measures, until paper money is done awa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200292911:1857120501:0604/pct:137.485779294653,245.29481513420288,38.907849829351534,9.744529481513421/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200292911:1857120501:0604/pct:34.37633338074242,61.32370378355072,9.728345896742995,2.4361323703783553/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -370,7 +370,7 @@ John Adums to John Jay, 1836.
 I now ask the House to pardon me for occu­  
 pying so much valuable time. I hope the olde
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200292911:1857120601:0608/pct:137.2369131138694,33.49733497334973,38.370210469508905,13.325133251332513/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200292911:1857120601:0608/pct:34.313857778977194,8.374333743337433,9.593846984212657,3.3312833128331283/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -422,7 +422,7 @@ Again, in his letters on government, addressed
 to John Taylor, of Caroline, in his latter days, Mr.  
 Adams thus wrote:
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743865:1874040601:0095/pct:43.80359845300151,60.00464252553389,57.524802421388934,23.444753946146704/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743865:1874040601:0095/pct:14.601199484333838,20.001547508511297,19.17493414046298,7.814917982048901/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -485,7 +485,7 @@ HAMILTON.
 In the very letter of Alexander Hamilton  
 to which the gentleman refers, on the subjec
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159191:1878032101:0045/pct:26.761689090182497,11.38594031644302,36.88557346476622,83.69717604646505/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159191:1878032101:0045/pct:26.766129390346787,11.38594031644302,36.89889436525909,83.70719006609254/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -508,7 +508,7 @@ credit, public or private, nor any settled
 confidence in public men or measures, un­  
 til paper money is done away.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_celebi_ver01:data:sn84027329:00279528992:1878042501:0067/pct:59.32813437312537,77.32134175984443,8.748250349930014,3.4030140982012638/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_celebi_ver01:data:sn84027329:00279528992:1878042501:0067/pct:59.32813437312537,77.32404256468428,8.75491568352996,3.4084157078809487/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -532,7 +532,7 @@ settled confidence in public men or meas­
 ures, until paper money is done away.”—  
 John Adams.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_celebi_ver01:data:sn84027329:00279528992:1878050201:0071/pct:33.521489403842345,34.112187576325,8.60566448801743,3.1588374175689977/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_celebi_ver01:data:sn84027329:00279528992:1878050201:0071/pct:33.528091371228626,34.11761513202529,8.60896547171057,3.1534098618687074/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -554,7 +554,7 @@ or private, nor any settled confidence in
 publie men or measures, until paper money  
 s done away with.-dohn dams, 1786.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn83032231:00237287472:1878061501:0330/pct:315.2859960552268,292.9510961214165,55.62130177514793,15.177065767284992/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn83032231:00237287472:1878061501:0330/pct:78.86038480513074,73.23777403035413,13.912185495806611,3.794266441821248/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -575,7 +575,7 @@ justice, nor any clear credit, public or private,
 nor any settled confidence in public men or  
 measures, until paper money is done awa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415669197:1878070901:0215/pct:46.98835647111509,190.5574819951987,28.851321092700402,7.17524673246199/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415669197:1878070901:0215/pct:15.668047933699182,63.51916066506624,9.620338223765259,2.391748910820663/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -621,7 +621,7 @@ inmost soul that lust for paper money which
 appears in some parts of the United States.  
 Thomas Jefferson:
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340688:1878101701:0379/pct:39.47921720847485,19.088639200998752,10.933203946304383,1.885143570536829/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340688:1878101701:0379/pct:39.472833117723155,19.0862563974535,10.935478654592497,1.8880289601797529/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -649,7 +649,7 @@ inv inmost soul that lust for paper money
 which appears in some puts of the  
 United States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85026455:0020219803A:1878102601:0107/pct:48.605092091007585,21.872751567478673,17.40249187432286,2.764929591941618/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85026455:0020219803A:1878102601:0107/pct:32.41668924410729,14.585260561208758,11.609319967488485,1.8398602117381027/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

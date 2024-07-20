@@ -191,7 +191,7 @@ peace from that source, the fertility of the country,
 its climate and extent, promise, in due season,  
 important aids to oar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803101701:0003/pct:3.0547676194632336,49.39595493416587,29.914902902029237,14.171304465861274/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803101701:0003/pct:3.0547676194632336,49.40047961630695,29.929449414502873,14.175829148002354/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -224,7 +224,7 @@ contraventions of right have already taken place,
 both within our jurisdictional limits, and on the high  
 seas. The friendly disposition
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803101701:0003/pct:64.93563168230416,30.921677752137914,30.002181976871046,17.605538210940683/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803101701:0003/pct:64.94290493854099,30.930727116420073,30.002181976871046,17.596488846658524/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -253,7 +253,7 @@ up, theOhio, though not so necessary as a
   
 &#x27;barrier,—smce
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216018:1803101801:0236/pct:53.01367803998196,5.2505755268284044,23.56831504584398,7.906853196387463/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216018:1803101801:0236/pct:53.00571085061617,5.250110668437362,23.56978258691514,7.909104323446953/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -318,7 +318,7 @@ reasonable expe-ctation, thatthey will be scctisicd
 and prevented in future : and the: no act willbe  
 countenance! by them which threatens todirsstusb
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216018:1803101801:0236/pct:76.68720877799488,4.719319992916593,22.425973245152562,76.35027448202585/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216018:1803101801:0236/pct:76.67568379921852,4.718902169101372,22.427612463680994,76.34646598790025/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -355,7 +355,7 @@ both widiin uur juri«di6lional limits, i t d
 ot» the high seas. The friendly disp&lt; •;  
 on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184169:1803101901:0247/pct:70.32361716777599,23.09301883203348,21.3449621299059,22.42723987064866/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184169:1803101901:0247/pct:70.3074804956402,23.08862685431723,21.347713018204068,22.429314061113224/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -396,7 +396,7 @@ righr have already taken place, both
 within oud jurisdictional limits, and on  
 the high seas. The friendly disposition
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1803102101:0160/pct:52.260044642857146,58.79678209164043,20.424107142857142,13.588667366211963/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1803102101:0160/pct:52.24546722454672,58.786501136562336,20.425383542538356,13.590662703269802/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -644,7 +644,7 @@ from collision with other powers,and the dangers to our peace |
 from that source, the fertility of the country, its climate and *  
 extent, promise, in due{eafon,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1803110101:0379/pct:23.91371340523883,47.651537624839314,34.05238828967642,15.435577968950856/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1803110101:0379/pct:23.923985618900872,47.651537624839314,34.047252182845405,15.445466231583111/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -667,7 +667,7 @@ taken ‘place, both within our jurizfictional limits, and on the high fgag. qu
 frigndly disposition of the governments from whp,fe agents thg)’ ha,vepmcﬁﬁd&#x27;  
 ed, as well as their wisdom and regard for juﬁlce,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1803110101:0379/pct:58.674884437596305,69.88035202214971,32.91217257318952,6.8723425294175815/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1803110101:0379/pct:58.674884437596305,69.88694419723788,32.92758089368259,6.869046441873496/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -733,7 +733,7 @@ alfo, for the exercile of their fundions &#x27;
 las to thofe conditions which are within  
 the powers vetted by the C .nltitution i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803110201:0002/pct:39.79322481302244,71.95408657170516,20.039595248570173,14.465495782049508/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803110201:0002/pct:39.80055726646136,71.95408657170516,20.061592608886933,14.483934909878762/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -771,7 +771,7 @@ had been rettored to them, has, on cer­
 tain conditions, been transferred to tiled  
 United States.* To have been more cor-&#x27;*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016081:00332895060:1803111901:0015/pct:48.995633187772924,83.94281570496219,23.685589519650655,11.789081114679375/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016081:00332895060:1803111901:0015/pct:48.987076493188965,83.93412057178372,23.685819070904646,11.790449554588772/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -812,7 +812,7 @@ contrav entions ol right have already taken
 place both Within our jut isdictional lin rits,  
 and on the high sees.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216018:1803112401:0345/pct:24.84238967277094,38.3283265594628,23.88171720204143,18.68704718148083/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216018:1803112401:0345/pct:24.838661263695034,38.324940365756696,23.883135724648557,18.68834113732073/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -929,7 +929,7 @@ right, have already taken place both with­
 in our jurifdicUoml limits, and oii the ]  
 high leas.’* s; !
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016081:00332895060:1803121001:0030/pct:5.871650678134304,73.08993949338529,22.411511743301357,15.270228694492873/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016081:00332895060:1803121001:0030/pct:5.870679675872333,73.08244462674323,22.411939804861916,15.27122641509434/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1199,7 +1199,7 @@ seas. The friendly disposition
   
 ** bitual wrongs.&quot; ct ,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216031:1805082201:0433/pct:48.080708661417326,34.28925304878049,22.801837270341206,3.8871951219512195/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216031:1805082201:0433/pct:48.07282269968837,34.285986472325426,22.80356459460937,3.8900003175510465/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1241,7 +1241,7 @@ to merit the character of a just nation, and maintain
 that of an independent one preferring every conse­  
 quence to insult and habitual wrong.&quot; These ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805091801:0709/pct:74.316807738815,74.20590582601756,20.94316807738815,3.6233040702314447/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805091801:0709/pct:74.29883945841392,74.19406319821258,20.944148936170212,3.626715608043409/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1284,9 +1284,9 @@ Indian Tribes, from 1778 to 1837: Witha copious Table of Contents
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1838-01_4/page/n39/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1838-01_4/page/n39/mode/1up?view=theater)
 
-#### 1838-01-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1838-01-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1332,7 +1332,7 @@ to our treasury and commerce, an ample provis­
 ion for our prosperity and a wide spread for the  
 blessings of freedom and equal rights.”’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153218:1844071001:0291/pct:43.827500688895014,44.861157207655715,12.220997519977955,2.2790131651731387/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153218:1844071001:0291/pct:43.827500688895014,44.861157207655715,12.220997519977955,2.2827008887413798/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1460,7 +1460,7 @@ it on the ground that “the property and
   
 “ cign powers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1861012901:0002/pct:3.4731448092617194,36.02530155928214,9.963940026570507,4.324801412180053/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1861012901:0002/pct:3.4731448092617194,36.03265666372462,9.978174226608465,4.328478964401294/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1511,7 +1511,7 @@ whole course, free from collisin wwith other
 DoworS.&quot;  
 Although the terms of the asnitl messa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_omahoney_ver01:data:sn83026413:00212475464:1878120101:0010/pct:4.282407407407407,248.14668769716087,46.2962962962963,12.973186119873818/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_omahoney_ver01:data:sn83026413:00212475464:1878120101:0010/pct:1.4274691358024691,82.71556256572029,15.432098765432098,4.3243953732912725/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1602,7 +1602,7 @@ to our treasury, an ample provision for our
 posterity, and a wide spread for the bless­  
 ings of freedom and equal laws 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_edwards_ver01:data:sn86063615:00211109154:1898050601:0370/pct:40.152671755725194,10.115200899128968,16.698473282442748,8.33099185164372/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_edwards_ver01:data:sn86063615:00211109154:1898050601:0370/pct:30.126002290950744,7.586400674346726,12.542955326460481,6.25175611126721/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1630,7 +1630,7 @@ treasury , on ample provision for our pos­
 terity , and a wldo spread for the blessing!  
 ot freedom and equal laws. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_alliance_ver01:data:sn99021999:00206539197:1898051101:0924/pct:109.05142460041695,28.884625924910935,16.365531619179986,8.82433543436558/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_alliance_ver01:data:sn99021999:00206539197:1898051101:0924/pct:81.80712423979149,21.6634694436832,12.284969591659426,6.628528363935325/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1666,7 +1666,7 @@ sury, an ample provision for our pos,­
 terity, and a wide spread for the bless-  
 ings of freedom and equal laws.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_rollingstone_ver01:data:sn85038614:00175032940:1898061801:0426/pct:47.29219143576826,71.92510491767997,40.853274559193956,29.94727214032067/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_rollingstone_ver01:data:sn85038614:00175032940:1898061801:0426/pct:15.764063811922753,23.975034972559992,13.617758186397985,9.982424046773557/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1701,7 +1701,7 @@ ITY, AND A WIDE SPREAD FOR
 THE BLESSINGS OF FREEDOM  
 AND EQUAL LAWS.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hazel_ver01:data:sn86071779:0017503139A:1899033101:0904/pct:1.3690232938291786,39.81427742309925,16.223947691050267,12.3476494486361/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hazel_ver01:data:sn86071779:0017503139A:1899033101:0904/pct:1.3758343549925078,39.81427742309925,16.223947691050267,12.352485974076224/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

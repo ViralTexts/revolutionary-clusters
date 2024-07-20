@@ -1429,7 +1429,7 @@ would remove the Burden from the People,
 as soon as it should bécome unncceffary for  
 them to bear it any longer.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775033101:0427/pct:37.18515245249669,6.9655483676846695,27.971718957136545,87.57334135700316/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775033101:0427/pct:37.19251730740904,6.9655483676846695,27.979083812048902,87.58838573792688/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1547,7 +1547,7 @@ of the Empire, as well as of the Colonies.
   
 The following is infetted by particular Desire
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775040701:0431/pct:34.60058836840914,3.9964736996767556,59.19891378139851,90.53776079929474/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775040701:0431/pct:34.60058836840914,4.001371339014595,59.19891378139851,90.54265843863259/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1658,7 +1658,7 @@ ther he could have lived in this country - --cer­
 tain it is, he would have had no friends in this  
 province out of the junto. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775041401:0435/pct:37.747470303563574,5.0648984198645595,27.826660800703916,86.32900677200902/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775041401:0435/pct:37.762135210441414,5.0648984198645595,27.819328347264996,86.33841234010534/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2904,7 +2904,7 @@ low to whirh he hat not contented. Americans would liav
 no way c| giving or withholding their con?ent to the act  
 &quot;i this Parliament; therefore tbev ipiuld not be freemen.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848120101:1188/pct:1.151213441194773,60.24906600249066,14.467952706907282,5.255292652552926/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848120101:1188/pct:1.151213441194773,60.25321710253217,14.473138353038788,5.263594852635949/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

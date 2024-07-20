@@ -91,7 +91,7 @@ past had little time t 0 attend to great national interests,
 much less to cur small American Affairs, whose remote:  
 nefs makes them appear fill {maller. Y 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015076:1768090901:0144/pct:37.697095435684645,6.073506456648219,56.09958506224066,89.22945934440187/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015076:1768090901:0144/pct:37.70401106500692,6.0782366018636775,56.09958506224066,89.23418948961734/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -111,7 +111,7 @@ tho’ they have long solicited this point with government
 hete, they have not yet bzen able to abtain it ; foappre­  
 henlivé are ministers of engaging in any novel measure.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015076:1768090901:0144/pct:66.45228215767635,8.783879665105719,27.448132780082986,5.136937703987512/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015076:1768090901:0144/pct:66.45228215767635,8.783879665105719,27.448132780082986,5.14166784920297/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

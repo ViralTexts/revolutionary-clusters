@@ -254,7 +254,7 @@ I jr Chatahouckie ; thence along the middle i
 ; ver to the Atlantic ocean.&quot; 1  
 The king of Great Britain prior to this 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801012801:0001/pct:28.709601321066287,58.44480376304571,21.585279547062985,6.08555049242981/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801012801:0001/pct:28.71746481088307,58.44970356215395,21.585279547062985,6.090450291538047/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -307,7 +307,7 @@ hame, to sign, aad thereupon make a
 treaty or treaties, and to tran{:&amp; eve­  
 ry
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809082201:0339/pct:59.57082879800964,9.307186940075653,34.426994246617944,84.24248457097352/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809082201:0339/pct:59.57601202508682,9.310505010286018,34.43217747369512,84.24248457097352/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -351,7 +351,7 @@ inated and &quot; constituted zhd. by &amp;&#x27; .y
 prefénts do nominate an €o’ ;i ute  
 him, the 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809082201:0339/pct:77.20416731457006,47.3820426040215,16.840304773752138,20.45590284690424/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809082201:0339/pct:77.20935054164723,47.38867874444223,16.850671227906496,20.459220917114607/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -654,7 +654,7 @@ and unlimited, and also their possessions, and the
 additions or conquests that the Confederation  
 might obtain during the war, conformably to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530339:1851012501:0165/pct:244.41489361702128,257.1095571095571,49.517952127659576,30.524475524475523/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530339:1851012501:0165/pct:81.47163120567376,85.70318570318571,16.50598404255319,10.174825174825175/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -764,7 +764,7 @@ ries shall be more explicitl guaranteed to the inhabitants of thest­
 han it already is by  
 Third. That in the treaty of peace with Great Britain a 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fortran_ver01:data:sn83030214:00206531083:1871051001:0071/pct:248.28084832904884,150.2442996742671,45.98329048843188,12.482550023266636/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fortran_ver01:data:sn83030214:00206531083:1871051001:0071/pct:82.76028277634961,50.0814332247557,15.327763496143959,4.1608500077555455/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -836,7 +836,7 @@ tween France and England the reciprocal
 guarantee shall have full force and effect  
 the moment such war shall break out.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_tesla_ver01:data:sn85038614:00175030876:1885032401:0297/pct:114.61656441717791,86.01279317697228,34.355828220858896,11.940298507462687/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_tesla_ver01:data:sn85038614:00175030876:1885032401:0297/pct:38.20552147239264,28.67093105899076,11.451942740286299,3.9800995024875623/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -896,7 +896,7 @@ Britain shall agree to treat with the
 United States as sovereign, free and ;  
 independent, and you shall not agree 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_irwin_ver01:data:sn86092523:00340582238:1898040301:0639/pct:45.68518849383598,18.5005737600408,13.668036448097196,5.457095499171236/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_irwin_ver01:data:sn86092523:00340582238:1898040301:0639/pct:45.67702750982494,18.498215196328402,13.670060735977135,5.459586945436002/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

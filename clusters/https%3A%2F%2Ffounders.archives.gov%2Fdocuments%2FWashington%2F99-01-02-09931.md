@@ -175,7 +175,7 @@ efffisn of the blood of an innocent person, is
 ot @ greater ‘g:zh‘e/ 1o you, tlya_n Rirle  
 Sir, Your mejt obedient, and bumble ferv’s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1782121401:0268/pct:66.5182253010061,54.552246771266944,26.752432789048324,34.88099050058704/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1782121401:0268/pct:66.5182253010061,54.559362436403745,26.757930617406124,34.87743266801864/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -701,7 +701,7 @@ nocent person, cannot be a greater relief to
 you than it is, sir, to your most obedient,  
 i hnmble servant, Geo. Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:00279525231:1867022201:0190/pct:17.06718979892104,73.3901624236839,11.329082883766553,5.575394539799563/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:00279525231:1867022201:0190/pct:17.064400130761687,73.38170928357522,11.33131742399477,5.577631882054826/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -727,7 +727,7 @@ to be answered without the effusion of the blood of
 an innocent person, Is not a creator relief to you  
 than it is to, sir, your moat obedient, humble serv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1876070801:0009/pct:56.669297553275456,64.59589867310012,12.89134438305709,4.483313228789706/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1876070801:0009/pct:56.675874769797424,64.61097708082026,12.897921599579059,4.4682348210695615/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

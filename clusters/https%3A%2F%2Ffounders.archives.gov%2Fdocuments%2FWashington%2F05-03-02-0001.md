@@ -536,7 +536,7 @@ be pafled to the credit of the states refpeitively, on the
 terms prescribed by the resolve of Congress of the 6th  
 day of Oftober;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025586:0051701512A:1786082401:0345/pct:6.084351233002996,55.191174248148705,27.909656602903894,19.64636542239686/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025586:0051701512A:1786082401:0345/pct:6.09971575631866,55.191174248148705,27.909656602903894,19.65644048158783/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -614,7 +614,7 @@ plies of the current year, including one year’s in­
 tereft on the foreign debt, and such part of the  
 principal as may become due the ensuing year, &amp;c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1787092201:0059/pct:34.69290965141096,5.715208266063933,54.5411429926488,86.30933161123669/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1787092201:0059/pct:34.69290965141096,5.720589818103541,54.56485653308039,86.3200947153159/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

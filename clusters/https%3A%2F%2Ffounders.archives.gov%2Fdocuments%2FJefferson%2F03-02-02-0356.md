@@ -102,7 +102,7 @@ them to you, but I have had none. I
 salute you affectionately,  
 THOMAS JEFFERSON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1827040501:0273/pct:61.608359836437984,12.485697940503432,18.33257610177192,32.17963386727689/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1827040501:0273/pct:61.594367476720414,12.483912483912484,18.33409039291392,32.17860717860718/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -321,7 +321,7 @@ efit of fine pastures as can be, the dog keeping 1
 • hern from injuring the grain in the same enclo­  
 »ure. A&quot; Dr. T had asked one of ihose dog*, a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827050401:0484/pct:66.46123905287058,76.59548653239504,15.520596821277977,17.79907789371512/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827050401:0484/pct:66.45046213718177,76.58619434671843,15.523485217015297,17.80096243277124/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -341,7 +341,7 @@ lay myself out for furnishing my whole state gra­
 ****• K&#x27;vmg » fall blooded ftain to every comi­  
 ty, as fast as they can be raised.” Wl.tlst th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184017:1827051801:0021/pct:34.93258074631546,87.6041038020519,14.346190028222013,3.1502715751357875/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184017:1827051801:0021/pct:34.92710456184355,87.59353125754285,14.349166536029681,3.1539142328425456/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

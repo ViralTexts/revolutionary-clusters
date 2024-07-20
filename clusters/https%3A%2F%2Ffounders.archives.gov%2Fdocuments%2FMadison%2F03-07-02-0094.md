@@ -187,7 +187,7 @@ imported, are without deduction for draw,
 backs paid on merchandise re-exported. Those  
 drawbacks paid fronrth* &lt;*f of July taj* iiat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813122501:0714/pct:47.680082030248656,59.406430338004945,22.481415021789285,29.068425391591095/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813122501:0714/pct:47.66786263454639,59.396636993076164,22.482060481804204,29.067754698318495/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -251,7 +251,7 @@ year 1313, to _ £5.36 000 00
 p&quot; do. 2C9J8IU 00&#x27;  
 dd* 148 000 0
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1813122801:0277/pct:23.1506601555435,11.316796248303097,17.308735756918068,26.86659262001728/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1813122801:0277/pct:23.146473779385172,11.315399802566633,17.31163351416516,26.867390589009542/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -324,7 +324,7 @@ year 1811, to the foliowii g sums, viz,:
 During th 1-t quarter of  
 1 have the honor to be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813123001:0420/pct:6.982680036463081,29.491147703355207,16.99179580674567,36.882505880896375/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813123001:0420/pct:6.981407218374043,29.48749690517455,16.994774577712967,36.882066518115046/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -520,7 +520,7 @@ spect, sir, your most obedient servaot.
 W. JONES.  
 Acting Secretary of the Treasury
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1814010601:0961/pct:73.9581589958159,27.041813208284488,22.644351464435147,42.93669402110199/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1814010601:0961/pct:73.9581589958159,27.04832616907646,22.666666666666668,42.93669402110199/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -608,7 +608,7 @@ Tour most obedient servant,
 &#x27; W. JONES,  
 Acting Secretary of the Treasury
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1814010801:0210/pct:0.663239927043608,6.810494560745955,37.29066489802686,87.01892311911509/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1814010801:0210/pct:0.6631299734748011,6.809872029250457,37.29000884173298,87.01401584399757/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

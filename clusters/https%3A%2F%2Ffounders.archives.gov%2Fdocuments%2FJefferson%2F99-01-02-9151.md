@@ -203,7 +203,7 @@ my paper vvarn me it is dme for me to close,
 with my eflVctionate adieu.  
 TH: JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216419:1829080401:0588/pct:23.413762287756924,3.414876443561406,38.48078641644325,94.6727927480442/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216419:1829080401:0588/pct:23.409578270192995,3.4144524459895704,38.479866571360496,94.66517672378114/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -345,7 +345,7 @@ lu-t. to rights either in fact or principle. They are
 deter,nmed „s to the facts they w,l| believe, nnd tho  
 opinions on winch they Will act. (Jet byiimm, therc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:0041418456A:1829081301:0868/pct:79.41129419292913,25.10509107893508,18.109102543593025,62.50583839327417/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:0041418456A:1829081301:0868/pct:79.39859245041586,25.102159953298308,18.11153764128812,62.502432379840435/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -371,7 +371,7 @@ i*&#x27;id your path more easy and tranquil. &#x27;Hie limits ■
 &lt;&gt;f my paper warn mo it is time for me to close, with &#x27;  
 my atfbctionato adieu. Tli: JKKFKU.so.W
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:0041418456A:1829081301:0869/pct:3.349738053659311,2.8521739130434782,18.479123670423878,6.828985507246377/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:0041418456A:1829081301:0869/pct:3.3492063492063493,2.851843264549038,18.48148148148148,6.8320581188654455/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -556,7 +556,7 @@ of my paper warn mo it is time for me to close
 with tuy affectionate a«ii&lt;11  
 111 JEFFEK?ON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1829081301:0411/pct:21.971422654793955,3.978091669068896,30.39966866846138,92.0005765350245/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1829081301:0411/pct:21.96687370600414,3.977518374405534,30.39855072463768,91.99092088197146/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1913,7 +1913,7 @@ ue it is tune for me to close with my a flee
 donate adieu.  
 THOMAS JEFFERSON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn84038587:00414187389:1829091601:0049/pct:4.4978737324174025,4.930988423864648,32.23748773307164,91.60730186999109/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn84038587:00414187389:1829091601:0049/pct:4.497138184791496,4.930439621591542,32.237666939220496,91.60081617510666/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2120,7 +2120,7 @@ will find your path more easy and tran­
 it is time for me to clese, with my affec­  
 * tionate adieu. TH. JEFFERSON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1829100601:0157/pct:56.3353115727003,13.4607564050427,32.8486646884273,79.07686051240341/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1829100601:0157/pct:56.3353115727003,13.464145316524332,32.8486646884273,79.07686051240341/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2253,7 +2253,7 @@ from you, and always show that you are not as
 fraid to leave my character to the whnpirage of  
 public opinion ”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1831022201:0449/pct:79.2404297170525,44.01160381268131,16.159782115297322,18.276004973062577/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1831022201:0449/pct:79.25051697180612,44.018510844039234,16.159782115297322,18.276004973062577/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2272,7 +2272,7 @@ hands of my fellow citizens at large, and will
 be consigned to infamy or honor by their ver­  
 diet, according to what they have seen an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1831122701:0630/pct:4.907306434023991,63.593037712391215,16.45116061691852,2.797347699958558/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1831122701:0630/pct:4.907306434023991,63.599944743749134,16.461546450641325,2.7904406686006356/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2291,7 +2291,7 @@ to the facta they will believe, and the opinion* on which the. will
 act. Del bv them, therefor,., a. you would by an angry hull : &quot;, {  
 for a man of venae to diapute tho mail with aueh an aninial,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1833022101:0370/pct:49.90930654388168,86.84035476718404,14.985349518627041,1.7405764966740576/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1833022101:0370/pct:49.90234375,86.83072830063186,14.987909226190476,1.7440786313416843/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2635,7 +2635,7 @@ jon, or of taste as to what constitutes a good (7.
 ‘ When a fair lady sends a fair note and requests the  
 &#x27;pleasure of your company to tea on a given even
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1836022401:0426/pct:21.389975777901995,2.125963327132607,37.600149059064655,93.11719372840818/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1836022401:0426/pct:21.389975777901995,2.134821507662326,37.61878144214645,93.11719372840818/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2717,7 +2717,7 @@ they will act.
 would an angry hull; it is nut for a man of  
 sense to dispute the road with such animal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348951:1836031001:0223/pct:15.0,13.80612673101133,29.431372549019606,81.39599944048119/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348951:1836031001:0223/pct:14.997059400117625,13.804195804195805,29.430503822779848,81.3881118881119/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2948,7 +2948,7 @@ gry bull; it is not for a man of sense to
 dispute the road with such an ani­  
 mal.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_queen_ver01:data:sn84026826:00393349414:1836052801:0341/pct:15.688743389574414,54.44388861097215,15.311004784688995,10.055027513756878/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_queen_ver01:data:sn84026826:00393349414:1836052801:0341/pct:15.68479355488419,54.434811603867956,15.31344410876133,10.057519173057687/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3161,7 +3161,7 @@ jmlitii .
 into mixed soriptv a question upon wbteh tbey fore­  
 tec there wilt by a diHS-wnco of opinion
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84022355:00200290100:1836083001:0148/pct:6.261180679785331,67.92270531400966,23.613595706618963,37.93880837359098/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84022355:00200290100:1836083001:0148/pct:4.697986577181208,50.950080515297905,17.74049217002237,28.454106280193237/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3900,7 +3900,7 @@ or infamy by the verdict of Alabama
 voters. He fears not to leave that char­  
 acter to the umpirage of public opinio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn85044812:00340583231:1896052401:0213/pct:34.62116333977249,22.129186602870814,14.230521571152607,1.7942583732057416/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn85044812:00340583231:1896052401:0213/pct:34.6137339055794,22.125878307669307,14.232832618025752,1.7977276124981312/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3926,7 +3926,7 @@ I am certain that this mode of deciding on my
 conduct tended more to correctness than any  
 reasoning powers I possessed.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:0017504291A:1897022801:0767/pct:78.93939393939394,165.83597643860443,49.92424242424242,23.259326385742334/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:0017504291A:1897022801:0767/pct:19.734848484848484,41.45899410965111,12.481060606060606,5.8148315964355834/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3976,7 +3976,7 @@ huunitcr ? An orator ? Or the hounest aulvo-
 &#x27; ? Be assured ,  
 cafe of my country&#x27;s right
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_emerson_ver01:data:sn99021999:00206538922:1898070301:0529/pct:46.33105802047782,54.87276664861938,12.150170648464163,7.173795343800758/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_emerson_ver01:data:sn99021999:00206538922:1898070301:0529/pct:46.33105802047782,54.88291824580401,12.150170648464163,7.173795343800758/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4022,7 +4022,7 @@ I Is right
 A LIVELY YOUTH  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:00206534783:1898070301:0032/pct:85.68677792041078,95.92415985467757,19.6405648267009,21.559945504087192/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:00206534783:1898070301:0032/pct:57.1336864066763,63.949439903118375,13.095811266249399,14.373297002724795/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4059,7 +4059,7 @@ ite horse, the issue of a uestien clequent
 with us as the ethical standard of the  
 Ten Commandments. That it is not s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_hoquiam_ver01:data:sn83045604:00202199483:1898070301:0276/pct:139.26160034477806,13.46329229366165,76.97169946846718,274.56680346557226/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_hoquiam_ver01:data:sn83045604:00202199483:1898070301:0276/pct:46.42053344825935,4.487764097887217,25.657233156155726,91.52226782185743/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4091,7 +4091,7 @@ to the prudent selection and steady pur­
 suit of what is right.&quot;  
 A LIvEly YOuth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_hoquiam_ver01:data:sn83045604:00202199483:1898070301:0276/pct:179.04036776325242,193.13725490196077,37.60953885935929,24.281805745554035/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_hoquiam_ver01:data:sn83045604:00202199483:1898070301:0276/pct:59.6801225877508,64.37908496732027,12.536512953119763,8.093935248518012/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4162,7 +4162,7 @@ Conviction is the effect of
 our own dispassionate reason­  
 ing.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_coldplay_ver02:data:sn83007654:00393342754:1898082601:0051/pct:24.688684353004874,60.7311785573512,11.247969680563076,7.617264485612929/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_coldplay_ver02:data:sn83007654:00393342754:1898082601:0051/pct:24.685343077547707,60.72519460045325,11.249830829611584,7.618977239136861/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4197,7 +4197,7 @@ devotee of the violin. If tradition
 speaks truly, his violin played a part  
 in helping him to win his wife, th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_horseradish_ver02:data:sn87068097:00383340299:1899040301:0362/pct:85.33355966728908,36.712485681557844,11.16958071634697,26.27434135166094/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_horseradish_ver02:data:sn87068097:00383340299:1899040301:0362/pct:85.31907671418872,36.70722977809592,11.17192803801765,26.27415891195419/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4231,7 +4231,7 @@ speaks truly, his violin played a part
 in helping him to win his wifo, the  
 bountiful und accomplished widow o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_golf_ver04:data:sn84028490:00237289468:1899041301:0301/pct:57.08762886597938,42.92589027911453,16.273932253313696,33.69998625051561/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_golf_ver04:data:sn84028490:00237289468:1899041301:0301/pct:42.84398600110518,32.20129245153307,12.212193774175724,25.27155231678812/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

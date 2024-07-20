@@ -55,7 +55,7 @@ the said treaty accordingly. b 51
 (L.S.) States of America, to, be affixed 10  
 these prelents, and signed the fam
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796031201:0043/pct:23.74323279195669,58.88899930438239,16.071152358855375,10.563450263340952/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796031201:0043/pct:23.748388759989687,58.88899930438239,16.08146429492137,10.563450263340952/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -112,7 +112,7 @@ and all others, c itizens or inhabitants there­
 of, or being within the fame, to execute am  
 obferve the faid Treaty accordingly.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800120501:0002/pct:28.599556977602756,76.42631341261479,21.9296086635491,14.090019569471623/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800120501:0002/pct:28.607761096070227,76.42631341261479,21.93781278201657,14.105073009182599/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -231,7 +231,7 @@ dence of the United States the
 twenty-sixth. ...  
 TH1. JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801122301:0003/pct:24.208456243854474,5.257960997284621,32.50737463126843,86.91681066403358/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801122301:0003/pct:24.21501147164864,5.2661894182506375,32.520485086856766,86.92092487451659/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -396,7 +396,7 @@ of Boston and Charleftown, during the
 last year :*  
 ENTERED, CLEARED
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802010501:0003/pct:58.96218952697358,13.92074029370348,16.642936244265147,36.48159324079662/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802010501:0003/pct:58.972736381374254,13.924093073157648,16.642936244265147,36.47824046134245/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -480,7 +480,7 @@ Prefident for his ufual g.oamtxdiou. New
 sherefore, to the u:l that the fai &quot;Conm&#x27;::m  
 may be obferved a mn-d wi t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1802010901:0049/pct:33.58913813459268,44.363256784968684,20.346320346320347,44.60681976339596/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1802010901:0049/pct:33.58913813459268,44.36712286399134,20.365997638724913,44.61841800046393/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -563,7 +563,7 @@ By the F/rfl Con fat, Tie Secretary of tit ate.
 Whi.h Ratification* were dulv eich.u a J at  
 Pen,, on the 31ft of July in the prefent3year,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1802011101:0734/pct:66.99633699633699,17.458470003174266,21.501831501831504,39.94286318908052/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1802011101:0734/pct:66.98406885185864,17.456622936944562,21.50247207471159,39.941282268303006/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -734,7 +734,7 @@ dred and one, and of the independence
 of the United States the twenty­  
 sixth.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802051201:0068/pct:33.370553517307386,28.337950138504155,21.981177221247407,11.532779316712835/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802051201:0068/pct:33.365231259968105,28.335333764195365,21.982987772461456,11.534792109069645/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -822,7 +822,7 @@ ofthe members concurring therein, con­
 iider the convention between the United  
 States and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803060601:0001/pct:39.02908880755153,14.884302689180737,33.19206318628395,77.82363977485929/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803060601:0001/pct:39.04193154819239,14.892641234104648,33.19206318628395,77.82363977485929/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -852,7 +852,7 @@ j caufed the* Seal of the United Statci to
 j the fame with my b .&quot;d  
 Done at the ( ity of Washington, th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805022001:0001/pct:60.04929419672866,22.912891986062718,19.33676898946897,11.567944250871081/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805022001:0001/pct:60.05676301441482,22.912891986062718,19.33676898946897,11.567944250871081/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -871,7 +871,7 @@ ed in it, we deed,ire tliat it is accepted, ratified and
 confirmed, and we promise that it shall be inviola­  
 bly observed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806032601:1026/pct:70.89973032606031,38.21086261980831,20.961019857808285,2.8753993610223643/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806032601:1026/pct:70.88235294117646,38.20475962306341,20.962009803921568,2.8789330777831017/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -902,7 +902,7 @@ presents, and sighed the s me
 with my hand. Don- at the city  
 (SEAL) of Washington the 23d d:.y o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807052501:0002/pct:1.8908465835840138,82.54877882385045,19.44563816072196,10.820030017737754/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807052501:0002/pct:1.8980088812491047,82.55332696593442,19.459962756052143,10.82912630190567/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1115,7 +1115,7 @@ thoueand tight hundred ar.d one.
 THOMAS JEFFERSON.  
 I) Y vittne of a trust deed, executed by the lat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810041001:0431/pct:41.3648771610555,59.015406836783825,17.688808007279345,29.8868560423688/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810041001:0431/pct:41.35735080058224,59.008304248405345,17.691654536632704,29.88727083082601/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1174,7 +1174,7 @@ jeond article, the Government of the French Re |
 | of eight years, and with the retrenchment of the ]  
 1 second article:
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826060201:0034/pct:36.127903277123764,67.5695284159613,15.319758192809418,7.702539298669891/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826060201:0034/pct:36.122156831557184,67.56135896505864,15.322623402788823,7.705638173538064/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1209,7 +1209,7 @@ the second article Provided (lint hi/ this
 retrenchment, the tune Slates renounce the  
 respective pretensions which ace
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:0039334880A:1826060501:0731/pct:52.308318080130164,24.633473653650746,15.192190359975594,12.062708665989259/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:0039334880A:1826060501:0731/pct:52.297681984546564,24.62989840348331,15.194184627897519,12.064586357039188/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1233,7 +1233,7 @@ ventien shall be in force for the space of eight
 years, and with tbe retreachment of the second  
 articl - :
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1826060601:0090/pct:11.592452830188678,86.46661967576276,16.286792452830188,5.54828315376095/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1826060601:0090/pct:11.60251572327044,86.46997616889874,16.281761006289308,5.5516396468969225/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1252,7 +1252,7 @@ renounce the respective pretensions which
 were the object of that article. The preien­  
 sions of the United States, to which allusion i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1826060601:0090/pct:29.041509433962265,13.170879065552311,15.939622641509434,2.7892457959923473/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1826060601:0090/pct:29.046540880503144,13.177592051824254,15.949685534591195,2.7892457959923473/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1647,7 +1647,7 @@ ment of the second article ; ‘
 ing of ihe 21 article,) the two parties renounce the respect  
 ive pretensions which are the object of the second article.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661137:1849021601:0192/pct:0.9040444091990484,53.225605966438785,14.766058683584458,1.3673088875077688/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661137:1849021601:0192/pct:0.9093312186095691,53.233892686969135,14.766058683584458,1.3631655272425938/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1764,7 +1764,7 @@ addition importing that the convention &#x27;?halt tie in for&#x27;*&#x27;
 the ipitce of eight years, and with the retrenchment of  
 second article:
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855021801:0215/pct:84.28641651646731,79.12760904886889,15.435031951499262,8.473940757405325/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855021801:0215/pct:84.29734010595882,79.13594134066575,15.42957015675351,8.473940757405325/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1824,7 +1824,7 @@ oic of tbe United Slates, th&#x27;nt body resolved that
 &quot;they considered the convention as fully ratified,&quot;  
 and returned the same to the President for pro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661551:1855022001:0184/pct:43.91984628053802,35.949797915337165,13.4367279714521,11.41246543288662/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661551:1855022001:0184/pct:43.91984628053802,35.95334326029923,13.441302955439657,11.41955612281075/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1862,7 +1862,7 @@ convention as fully ratified,&quot; and returned the same to
 the Eresident for promulgation, and it was accordingly  
 promulgated in the usual form by President Jefferson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:0027174321A:1855022001:0421/pct:108.48611838658984,174.88145896656536,47.00541295617251,28.401215805471125/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:0027174321A:1855022001:0421/pct:36.16203946219661,58.29381965552178,15.668470985390838,9.467071935157042/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1896,7 +1896,7 @@ tion as fully ratified,&quot; and returned the same j
 to the President for promulgation, and it was j  
 accordingly promulgated in the u*ual turrn 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215932:1855022001:0032/pct:73.4222479945878,29.333808336302102,13.114912535034309,10.017812611328822/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215932:1855022001:0032/pct:73.41515268650947,29.33171843830151,13.116866383198042,10.019473734207276/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1920,7 +1920,7 @@ s ears, and with the retrenchment of the d ?*
 , ] tje /Voyided, &#x27;J&#x27;hat by this relrchchlnont O t&quot;  
 . States itj.ouiir.w :|;&lt;?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1855022201:0544/pct:43.76269219611256,49.8659260678031,13.73658253553815,3.821107067611569/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1855022201:0544/pct:43.76269219611256,49.87231054076486,13.751087902523933,3.821107067611569/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1960,7 +1960,7 @@ tho space of eight years, and with the retrenchment
 of the second article: Piovlded that by this retrench­  
 ment the two State* renounce tho
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855022401:0353/pct:80.85833649829092,63.0873340143003,15.571591340676035,7.724719101123595/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855022401:0353/pct:80.85833649829092,63.0873340143003,15.584251171034309,7.7289751447054815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1978,7 +1978,7 @@ addition of an article Importing &#x27; that the conven­
 tion shall bo in force for eight years, and with the  
 retrenchment of the second article,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855022401:0354/pct:3.9278937381404173,27.463179278821737,15.502846299810246,2.1203656678517016/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855022401:0354/pct:3.9405439595192915,27.463179278821737,15.509171410499684,2.1245979346538006/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2008,7 +2008,7 @@ the United States ratified it with that understand
 w.  
 We have now but one.more remark to mak
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855022401:0354/pct:3.415559772296015,35.39867953275775,16.053130929791273,8.67191467750127/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855022401:0354/pct:3.4218848829854522,35.407144066361944,16.053130929791273,8.67191467750127/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2057,7 +2057,7 @@ ing that tho convention shall l&gt;e in force for the space of
 | eight years, and with the retrenchment of tho second article  
 : Provided that by this retrenchment tlie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82006534:00415661101:1859020101:0109/pct:16.381260096930532,40.7416719044626,16.720516962843295,4.424890006285355/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82006534:00415661101:1859020101:0109/pct:16.386645126548196,40.7416719044626,16.720516962843295,4.437460716530484/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2156,7 +2156,7 @@ This was on the 31st of July j
 ing thus conditioned was neverthe- ,  
 less exchanged at Pars on that day 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_galena_ver02:data:sn88065721:00279521626:1887082601:0066/pct:21.68896321070234,14.08673989355679,15.80267558528428,13.18084022194542/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_galena_ver02:data:sn88065721:00279521626:1887082601:0066/pct:21.700111482720178,14.08673989355679,15.80267558528428,13.18084022194542/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2189,7 +2189,7 @@ tion by the United States of tho second branch of
 the French proposition, namely:  
 Either the ancient treaties, with the privileges re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623896:1888081801:0158/pct:83.72007366482505,57.89915966386555,10.847145488029465,7.549019607843137/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623896:1888081801:0158/pct:83.72621240024554,57.89915966386555,10.85328422344997,7.563025210084033/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

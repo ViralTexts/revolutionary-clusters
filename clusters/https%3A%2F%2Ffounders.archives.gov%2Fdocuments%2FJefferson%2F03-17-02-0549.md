@@ -109,7 +109,7 @@ a steady course as to show by what road it will
 pass to destruction, to wit: by consolidation first,  
 and then corruption, its natural consequence.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295729:1863081901:0178/pct:120.5650764242705,209.17980794643643,49.235757295044,10.606994978416/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295729:1863081901:0178/pct:30.141269106067625,52.29495198660911,12.308939323761,2.651748744604/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -129,7 +129,7 @@ road it will pass to destruction, to wit: by
 consolidation first, and then corruption, its  
 natural consequence.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_dillinger_ver02:data:sn87056248:00200295808:1863082701:0356/pct:124.59093034128097,355.80579656636513,48.948106591865354,15.7282628761307/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_dillinger_ver02:data:sn87056248:00200295808:1863082701:0356/pct:31.15501519756839,88.95144914159128,12.239887771802666,3.932065719032675/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -151,7 +151,7 @@ bo the Federal judiciary; the two other
 brandies, the corrupting and corrupted in­  
 struments.Senator Daniel makes a masterly re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn85029079:00280760936:1891010701:0953/pct:103.9751838235294,127.42741180143615,29.067095588235293,9.288167343115829/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn85029079:00280760936:1891010701:0953/pct:69.3403815214893,84.9516078676241,19.374856354860952,6.197315017171402/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -209,7 +209,7 @@ the federal judiciary; the two other
 branches, the corrupting and cor­  
 rupted instruments.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_earnhardt_ver01:data:sn84024516:00332891704:1891102501:0272/pct:28.081643543223052,84.8252702277259,11.07257203842049,5.561968727043761/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_earnhardt_ver01:data:sn84024516:00332891704:1891102501:0272/pct:28.090537175382426,84.82876832126492,11.068125222340804,5.568964914121803/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

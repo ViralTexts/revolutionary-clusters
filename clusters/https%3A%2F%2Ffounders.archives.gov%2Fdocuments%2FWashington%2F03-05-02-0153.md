@@ -49,7 +49,7 @@ enclosed Declaration, which I am directed to transmit
 to you; and to request you will have it proclaimed  
 in your Colony, in the way you shall think
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661277:1842012901:0157/pct:22.54637436762226,83.01432526784639,18.819561551433388,7.6923076923076925/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661277:1842012901:0157/pct:22.55761663856099,83.02235062798444,18.825182686902753,7.688295012238674/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -124,7 +124,7 @@ n you, and to request you will have it prndtimsitf
 jt at fhe head of the army, in the way year shm  
 jl think tn^st proper
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn85042796:00295863080:1849071801:0337/pct:80.2937576499388,25.032411408815904,16.982864137086903,12.197493517718236/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn85042796:00295863080:1849071801:0337/pct:80.30395756833946,25.039613944108325,16.993064055487554,12.197493517718236/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -150,7 +150,7 @@ nection between Great Britain and the American
 Colonies, and to declare them free and independ­  
 ent States.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_diglett_ver01:data:sn82015378:00295872354:1851070401:0652/pct:55.53482587064676,103.88335287221571,37.99751243781095,16.57385697538101/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_diglett_ver01:data:sn82015378:00295872354:1851070401:0652/pct:18.511608623548923,34.62778429073857,12.665837479270316,5.52461899179367/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -199,7 +199,7 @@ sand flints, and the flints at Rhode Island are ordered to
 be-sent to you immediately.  
 &quot; I hafe the honor to b?, sir, with perfect esteem, you
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1853060401:0637/pct:3.2406119610570236,54.30887372013652,15.702364394993046,11.540102389078498/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1853060401:0637/pct:3.2406119610570236,54.312428896473264,15.707000463606862,11.540102389078498/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -220,7 +220,7 @@ way you shall think most proper.
 I have only time to add, that the importance of  
 it, will naturally suggest the Propriety of proclaim
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn86092535:00202190534:1853070801:0590/pct:11.86155285313377,190.66765578635014,54.94855004677269,13.442136498516321/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn86092535:00202190534:1853070801:0590/pct:2.9653882132834424,47.666913946587535,13.737137511693172,3.3605341246290803/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -243,7 +243,7 @@ shall think most proper. I have only
 time to add, that the importance ol it  
 will naturally soggest the propriety o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021169:00514152792:1853081101:0139/pct:46.07654795330279,67.6728334956183,12.221072853554013,4.814454181542789/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021169:00514152792:1853081101:0139/pct:46.07654795330279,67.6728334956183,12.221072853554013,4.821666846983303/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -292,7 +292,7 @@ shall think most proper. The impor­
 tant COnfequenees to the American  
 States from this Declaration of Inde
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_janesville_ver01:data:sn84038806:00280768972:1876022901:0200/pct:44.04588786556794,50.095260776375326,12.344482145742447,11.979042629197428/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_janesville_ver01:data:sn84038806:00280768972:1876022901:0200/pct:44.04588786556794,50.095260776375326,12.348521570528357,11.984996427720885/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -324,7 +324,7 @@ wmdi I am directed by Congress to transmit to
 you. and to request you will have It proc aimed  
 in your Colony in the way you may think mos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_henson_ver01:data:sn83016107:00415625546:1887100701:0175/pct:96.78240319941828,45.44196984368516,14.179240138156699,7.262415271821829/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_henson_ver01:data:sn83016107:00415625546:1887100701:0175/pct:75.01174039635578,35.217810813708326,10.984314830468676,5.639138048100633/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -344,7 +344,7 @@ declare them free and independent States,
 aa iroa will preceive by the enclosed decla­  
 ration, which I am directed to transmit t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_erie_ver02:data:sn86071045:00296026499:1892070101:0553/pct:6.337257049000821,47.95417348608838,9.526416643854366,2.2258592471358427/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_erie_ver02:data:sn86071045:00296026499:1892070101:0553/pct:6.337257049000821,47.957810511002,9.526416643854366,2.2331332969630844/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -417,7 +417,7 @@ sentative body was Pennsylvania. In
 the minutes of tho committee of safety  
 of that state, then in session at Philadel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lydia_ver01:data:sn87080287:00296028770:1893070301:1132/pct:42.93881007834004,40.033698399326035,12.195638365445692,7.262005054759899/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lydia_ver01:data:sn87080287:00296028770:1893070301:1132/pct:42.94586773943115,40.039314799213706,12.202696026536806,7.2732378545352425/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -440,7 +440,7 @@ co directed to transmit to you and to request
 ou will have it proclaimed at the head of the  
 nay in tiu? ^pWMMB
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_bogoff_ver01:data:sn84026907:00295862385:1893070501:0164/pct:61.51327330136826,41.77183865379857,11.963513039410595,3.34075723830735/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_bogoff_ver01:data:sn84026907:00295862385:1893070501:0164/pct:61.51327330136826,41.7773378426682,11.971309398510895,3.34075723830735/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -478,7 +478,7 @@ army in the way you shall think most proper.
 •Similar letters were sent to the other ;  
 generals commanding in the northern 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_gorham_ver01:data:sn84022565:00332895503:1893070601:0605/pct:31.710185838626206,30.076820307281228,12.985179957657023,11.138944555778224/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_gorham_ver01:data:sn84022565:00332895503:1893070601:0605/pct:31.702728127939793,30.07179829687761,12.988005644402634,11.14125897478711/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -523,7 +523,7 @@ you shall think most proper.”
 On the next day, J uly 9th, General  
 Washington issued the following or
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00542865982:1896070201:0423/pct:21.80725477570294,63.61633372502938,13.801244902339558,18.566392479435958/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00542865982:1896070201:0423/pct:21.802575107296136,63.60699074754002,13.803648068669528,18.56733734762814/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

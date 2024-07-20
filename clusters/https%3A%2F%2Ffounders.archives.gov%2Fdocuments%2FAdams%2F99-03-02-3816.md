@@ -72,7 +72,7 @@ from running all hazards for the salvation of
   
 my country&#x27;s liberties. Thomas Carlyle spen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chester_ver02:data:sn86053573:00211102068:1888021301:0162/pct:62.71062271062271,35.52554315913095,43.51648351648352,23.370522607163828/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chester_ver02:data:sn86053573:00211102068:1888021301:0162/pct:15.686274509803921,8.881385789782737,10.885101704233096,5.842630651790957/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -92,7 +92,7 @@ country’s liberties.” Thomas Carlyle spent
 tho last twenty years of his life in trying by  
 his |&gt;en to atone for the fact that during hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_bobbsey_ver02:data:sn86063034:0041418196A:1888021301:1089/pct:54.388799138395264,80.81756663444276,15.814036977203374,3.383510564839111/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_bobbsey_ver02:data:sn86063034:0041418196A:1888021301:1089/pct:42.151634593090655,62.63289332857652,12.26988175284025,2.6293257224402424/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -110,7 +110,7 @@ discouraged me from running all hazards for
 the salvation of my country&#x27;s liberties.  
 Thomas Carlyle spent the last twenty yea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_ionia_ver01:data:sn98066392:00296024387:1888021301:0490/pct:57.1356783919598,175.91147029111949,35.57788944723618,5.289741941408761/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_ionia_ver01:data:sn98066392:00296024387:1888021301:0490/pct:19.05001256597135,58.63715676370649,11.862276954008545,1.7632473138029203/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -128,7 +128,7 @@ discouraged me from running all hszanla for
 tlie salvation of my countrj&#x27;s liberties.&quot;  
 Thomas Curlyle spent the Lv-t twenty year
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_hotel_ver01:data:sn87076917:00237289213:1888021301:0697/pct:57.28744939271255,57.80769793648471,15.910931174089068,2.3415776379335576/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_hotel_ver01:data:sn87076917:00237289213:1888021301:0697/pct:43.001822969414626,43.36309088248207,11.950577273647964,1.7561832284501684/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -146,7 +146,7 @@ me from running all hazards for the salva
 tion of my country&#x27;s liberties.&quot; Thomas  
 Carlyle spent the last twenty years of hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn84024448:00296020758:1888021301:0361/pct:63.24786324786325,324.0506329113924,50.660450660450664,7.538677918424754/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn84024448:00296020758:1888021301:0361/pct:15.818111154294598,81.0126582278481,12.670034978624175,1.8846694796061885/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -165,7 +165,7 @@ from running all hazards for the salva­
 tion of my country&#x27;s liberties.&quot; Thomas  
 Carlyle spent the last twenty years of hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_hotel_ver02:data:sn86064205:00206535635:1888021301:0138/pct:64.37074829931973,294.6167097329888,55.86734693877551,9.819121447028424/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_hotel_ver02:data:sn86064205:00206535635:1888021301:0138/pct:16.092687074829932,73.6541774332472,13.966836734693878,2.454780361757106/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -183,7 +183,7 @@ look discouraged me l&#x27;rom running all
 hazards for the salvation of my country&#x27;s  
 liberties.&quot; Thomas Cxrlyle spent the las
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_odona_ver04:data:sn86092518:00383341814:1888021301:0365/pct:61.02877070619006,30.11864922421661,11.392037198488811,1.7239630869080216/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_odona_ver04:data:sn86092518:00383341814:1888021301:0365/pct:61.01990411157925,30.115595213952545,11.395224950360792,1.7271682552558643/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -201,7 +201,7 @@ never by word or look, discouraged me from
 running all hazards for the salvation of my  
 country’s liberties.” &#x27;Thomas Carlyle spen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_fornax_ver01:data:sn89053706:00393344659:1888021401:0248/pct:51.55618431689572,44.10684002261164,18.007275666936135,2.218767665347654/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_fornax_ver01:data:sn89053706:00393344659:1888021401:0248/pct:39.96032160384254,34.18641159504947,13.960530437506526,1.7231937497718228/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -255,7 +255,7 @@ look discouraged me from running all
 hazards for the salvation cf my country&#x27;s  
 liberties. Thomas Carlyle pent the las
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_frankenbatch_ver01:data:sn92073232:00295879701:1888021601:0139/pct:39.03712296983759,79.46494014170536,14.066125290023201,2.3454678719765454/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_frankenbatch_ver01:data:sn92073232:00295879701:1888021601:0139/pct:29.286335944299392,59.60175910090398,10.55990716565129,1.759100903982409/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -309,7 +309,7 @@ me from running all hazards for
 the salvation of my country&#x27;s liberties.&quot;  
 Thomas Carlyle spent the last twent
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_dracula_ver01:data:sn85052141:00206533766:1888021701:0039/pct:75.90361445783132,182.03756848421602,40.227576974564926,6.7310200887033655/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_dracula_ver01:data:sn85052141:00206533766:1888021701:0039/pct:18.97907949790795,45.509392121054006,10.05857740585774,1.6827550221758414/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -345,7 +345,7 @@ discouraged me from running all hazards for
 the salvation of my country&#x27;s liberties.&quot;  
 Thomas Carlyle spent the last twenty year
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ivory_ver01:data:sn94060041:00175033981:1888021801:0025/pct:50.578079235393865,51.46627565982405,11.79281640203484,2.0189487931423415/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ivory_ver01:data:sn94060041:00175033981:1888021801:0025/pct:50.578079235393865,51.46627565982405,11.803093366219619,2.0227084743213775/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -382,7 +382,7 @@ discouraged me from running all hazards
 for the salvation of my country&#x27;s liberties.&quot;  
 Thomas Carlyle spent the last twenty year
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762283:1888022201:0038/pct:49.61734693877551,76.58150851581509,10.411352040816327,1.5936739659367396/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762283:1888022201:0038/pct:49.62133290816327,76.5845498783455,10.415338010204081,1.5936739659367396/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -400,7 +400,7 @@ me from running al! hazards for the sal­
 &#x27; vation of my country’s liberties.”  
 Thomas Carlyle spent the last twent
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_igglybuff_ver01:data:sn84023017:00414212992:1888022301:0206/pct:15.035317860746721,43.85283067754891,11.436259670366633,1.7359761627153776/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_igglybuff_ver01:data:sn84023017:00414212992:1888022301:0206/pct:15.03278964183622,43.847150259067355,11.438540440558265,1.7389896373056994/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -418,7 +418,7 @@ me from running all hazards for the sal­
 vation of my country&#x27;s libertios.&quot;  
 Thomas CarJyle spent tho last twent
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029838:00237283107:1888022301:0504/pct:106.78421996413628,80.4862023653088,18.126120741183502,2.803328953131844/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029838:00237283107:1888022301:0504/pct:71.20011956359289,53.657468243539206,12.090868330593334,1.8725361366622864/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -436,7 +436,7 @@ m&quot; from running all hazards for the sal­
 vation of mv country’s liberties.”  
 Thomas Carlvle spent tiie last twent
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_agate_ver01:data:sn86074058:00383343598:1888022301:1052/pct:21.04976389393389,53.425925925925924,12.64075553941155,1.8915343915343916/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_agate_ver01:data:sn86074058:00383343598:1888022301:1052/pct:21.045941528963137,53.418859939161486,12.642999818412928,1.8945906626107658/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -454,7 +454,7 @@ look discouraged me from running all
 hazards for t&gt;.o salvation of my country&#x27;s  
 liberties.” Thomas Carlyle spent th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_americanrobin_ver01:data:2010270509:00517013882:1888022301:0630/pct:17.585484996510818,91.37119548164418,14.956966736450337,2.008158142453718/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_americanrobin_ver01:data:2010270509:00517013882:1888022301:0630/pct:17.58139534883721,91.35686274509804,14.959302325581396,2.011764705882353/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -473,7 +473,7 @@ discouraged me from running all hazards for
 the salvation of my country&#x27;s liberties,&quot;  
 Thomas Carlyle spent the lost twenty year
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn90000523:00415629588:1888022301:0868/pct:34.45945945945946,52.94527224620526,14.47072072072072,1.9913661049993037/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn90000523:00415629588:1888022301:0868/pct:25.849446217383143,39.7159170032029,10.86915712408485,1.4900431694750034/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -509,7 +509,7 @@ me from running all- hazards for the sal­
 vation of my country&#x27;s liberties.&quot;  
 Thomas Carlyie spent tho Inst twent
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_dole_ver01:data:sn83040340:0023728320A:1888022401:0413/pct:103.319357092942,79.51668584579977,18.238993710691823,2.7362229893875463/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_dole_ver01:data:sn83040340:0023728320A:1888022401:0413/pct:68.90947221251311,53.011123897199845,12.163579168123034,1.8284106891701828/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -527,7 +527,7 @@ me from running all hazards for the salva­
 tion of my country&#x27;s liberties.&quot; Thomas  
 Carlyle spent the last twenty yean of hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_mustang_ver01:data:sn99067997:00415625078:1888022401:0502/pct:22.332506203473944,70.96415671019727,18.23821339950372,2.542372881355932/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_mustang_ver01:data:sn99067997:00415625078:1888022401:0502/pct:17.866004962779158,56.77768310302671,14.596084918665564,2.0338606305338423/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -544,7 +544,7 @@ Carlyle spent the last twenty yean of hi
 me from running all hazards for the salva­  
 tion of my country&#x27;s liberties.&quot; Thomas
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_mustang_ver01:data:sn99067997:00415625078:1888022402:0797/pct:22.080066033842343,71.25556792873051,18.11803549319026,1.8234966592427617/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_mustang_ver01:data:sn99067997:00415625078:1888022402:0797/pct:17.67457216750124,57.00445434298441,14.488526935563748,1.4662212323682258/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -561,7 +561,7 @@ tion of my country&#x27;s liberties.&quot; Thomas
 me from running all hazards for the sal­  
 vation of my country&#x27;s liberties.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_ida_ver01:data:sn85033306:00296020461:1888022401:0436/pct:96.26091703056768,78.4373933810986,14.08296943231441,1.6262936426703059/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_ida_ver01:data:sn85033306:00296020461:1888022401:0436/pct:72.2320819112628,58.830888206527916,10.566552901023892,1.2168770612987603/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -579,7 +579,7 @@ discouraged me from running all hazards for
 the salvation of my country&#x27;s liberties.&quot;  
 Thomas Carlyle spent the last twenty year
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ira_ver01:data:sn84023416:00202197516:1888022401:0432/pct:41.82692307692308,36.40108122023427,15.972222222222221,2.22679881580641/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ira_ver01:data:sn84023416:00202197516:1888022401:0432/pct:31.38582116138226,27.3008109151757,11.987887424296401,1.6733170292186896/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -615,7 +615,7 @@ discouraged me from running all hazards for
 the salvation of my country&#x27;s liberties.&quot;  
 Thomas Carlyle spent the last twenty year
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00202194060:1888022901:0259/pct:15.830769230769231,27.221633085896077,13.4,1.8981972428419935/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00202194060:1888022901:0259/pct:15.835897435897436,27.228702721809828,13.4,1.8946624248851185/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -633,7 +633,7 @@ me from running all hazards for the sal­
 vation of my country&#x27;s liberties.&quot;  
 Thomas Carlyle spent the last twent
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_felice_ver01:data:sn86063662:00200292418:1888030101:0688/pct:149.33437744714175,143.5409732128705,37.901331245105716,5.959740053891267/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_felice_ver01:data:sn86063662:00200292418:1888030101:0688/pct:37.355533790401566,35.88524330321763,9.480901077375123,1.4899350134728166/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -651,7 +651,7 @@ discouraged me from running all hazards for
 the salvation of my country&#x27;s liberties.&quot;  
 Thomas Carlyle spent the last twenty year
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jay_ver01:data:sn97067613:00202197292:1888030101:0031/pct:98.90590809628009,41.06210421064326,12.527352297592998,1.7886901455393844/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jay_ver01:data:sn97067613:00202197292:1888030101:0031/pct:74.19972640218879,30.796578157982445,9.398084815321477,1.3442950783246306/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -741,7 +741,7 @@ me from running all hazards for tlie sal­
 vation of mv country’s liberties.”  
 Thomas Carlyle spent the last twent
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_deepspace_ver01:data:sn87091045:00513688155:1888032201:1067/pct:67.4544226873734,56.3372258615779,14.314652261985145,2.0222158929080036/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_deepspace_ver01:data:sn87091045:00513688155:1888032201:1067/pct:67.4544226873734,56.3372258615779,14.314652261985145,2.0364568499003135/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

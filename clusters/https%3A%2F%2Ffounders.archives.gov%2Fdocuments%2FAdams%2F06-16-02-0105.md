@@ -259,7 +259,7 @@ monthe before the expiration of that period,
 neither of the high contracting parties shall  
 bave announced (o Lthe other by an of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153243:1840092301:0026/pct:34.87573802004668,74.73076169962796,14.156254290814225,10.44644605443509/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153243:1840092301:0026/pct:34.87573802004668,74.73076169962796,14.165408027827361,10.452973043535017/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -292,7 +292,7 @@ menths belore the expiration ef that peried,
 neither of the high contracting parties shall  
 have anveunced to the ether by an off
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1840100701:1359/pct:22.37991266375546,34.3447554276746,14.574235807860262,10.214491237248234/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1840100701:1359/pct:22.37991266375546,34.3534745836603,14.58030082484231,10.218850815241085/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -317,7 +317,7 @@ tion and witheut payiog to the prelit of the re­
 spective Governments any other dues taxes or  
 charges than those te which the inhabitauts o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1840101401:1361/pct:22.79120086548864,34.71475409836066,14.875586007933645,6.19016393442623/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1840101401:1361/pct:22.803221541050608,34.719125683060106,14.875586007933645,6.194535519125683/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -335,7 +335,7 @@ estate would by the law of the land, descend on the
 citizen of the other were he not disqualified by alien­  
 age, the longest term which the laws of the countr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172182:1861103101:0664/pct:8.493975903614459,91.18522930315665,15.682730923694779,1.7718880285884455/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172182:1861103101:0664/pct:6.5933495875914305,70.67353925452937,12.159568397572237,1.3809285686810016/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -419,7 +419,7 @@ and powers of Congress, who have no authority
 to permit or refuse it, these powers being re  
 served to the several States individualiy.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042970:1897121201:0571/pct:332.37735849056605,177.24441743885765,66.26415094339623,13.671578307762418/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042970:1897121201:0571/pct:83.11002075863371,44.31110435971441,16.569163993206267,3.4178945769406046/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -475,7 +475,7 @@ vessels empowering them to take or destroy such
 trading ships, or interrupt such commerce.  
 Thus the United States, in less than a yea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_rumi_ver01:data:sn83030272:00206539033:1899060101:0012/pct:287.21017202692593,99.627588261582,50.71054599850412,78.29584388499926/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_rumi_ver01:data:sn83030272:00206539033:1899060101:0012/pct:71.80254300673148,24.9068970653955,12.67763649962603,19.573960971249814/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

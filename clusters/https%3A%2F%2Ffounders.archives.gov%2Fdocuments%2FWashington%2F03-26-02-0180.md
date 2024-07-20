@@ -68,7 +68,7 @@ sequence and respect which are due to them
 as the great representative body of America,  
 and am fearful of the consequences.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_kings_ver01:data:sn83025813:00415667115:1864022601:0060/pct:15.285640761708699,304.7709022201228,60.885229027277404,74.5583372697213/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_kings_ver01:data:sn83025813:00415667115:1864022601:0060/pct:3.8228858282919296,76.1927255550307,15.227184965890077,18.639584317430327/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -121,7 +121,7 @@ More Cheering Sews.
 Our telegrams of yesterday brought the wel­  
 come intelligence, that herman has bee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_kings_ver01:data:sn86077149:00415667127:1864030201:0194/pct:3.0463242698892246,88.20491198482134,17.623363544813696,27.374301675977655/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_kings_ver01:data:sn86077149:00415667127:1864030201:0194/pct:2.2913256955810146,66.153683988616,13.219186705275085,20.533361441973227/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -146,7 +146,7 @@ warning the statesmen of the country
 that unless Congress were invested with  
 adequate powers, or should assum
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_tesla_ver01:data:sn85038614:00175030876:1885022201:0194/pct:259.45319740500463,159.60996749729145,34.53815261044177,16.944745395449623/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_tesla_ver01:data:sn85038614:00175030876:1885022201:0194/pct:86.48439913500154,53.20332249909715,11.512717536813922,5.648248465149874/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -166,7 +166,7 @@ teen; which, instead of looking up to Congress
 m the snprt me controlling power, are consid­  
 winj; t!iein?tri%*es as &lt;k pending on their re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_rottweiler_ver01:data:sn83045462:00280654723:1889043001:0344/pct:2.157788267026298,73.81840048105833,13.907619689817937,2.9344558027660854/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_rottweiler_ver01:data:sn83045462:00280654723:1889043001:0344/pct:2.157788267026298,73.82441371016236,13.92447741065408,2.9464822609741432/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -217,7 +217,7 @@ ing themselves as depending ou their respec­
 tive States.&quot; And later, when independence  
 had been won, the imjoteucy of the govern
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_keswick_ver01:data:sn85042460:00280769265:1889050101:0008/pct:63.334048487449046,18.653986832479884,13.51641278695559,2.5457205559619607/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_keswick_ver01:data:sn85042460:00280769265:1889050101:0008/pct:63.34835156976328,18.6637405510851,13.51641278695559,2.5359668373567423/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -262,7 +262,7 @@ themselves as depending on their respective
 States.&quot; And later, when independence had  
 been won, the impotency of the governmen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_graftonnotch_ver01:data:sn83016025:00414210909:1889050101:0488/pct:60.887286408527984,12.03867468458908,10.53456654648064,3.10104940455135/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_graftonnotch_ver01:data:sn83016025:00414210909:1889050101:0488/pct:60.877742946708466,12.037255364300872,10.536833855799372,3.1036312190521103/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -306,7 +306,7 @@ supreme controlling power, are consider­
 ing themselves as depending on their re­  
 spective states.&quot; And later, when inde
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_dungeness_ver03:data:sn83045604:00202198995:1889050101:0560/pct:60.39032435404068,145.09803921568627,31.432105552501373,7.152290968200751/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_dungeness_ver03:data:sn83045604:00202198995:1889050101:0560/pct:20.13010811801356,48.36601307189542,10.477368517500459,2.3840969894002506/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -398,7 +398,7 @@ ing on their respective States.&quot; And
 later, when independence had been  
 won, the impotency of the Gov
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_finney_ver02:data:sn83040198:00212473467:1889050201:0293/pct:47.61904761904762,7.783251231527093,18.046536796536795,5.363984674329502/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_finney_ver02:data:sn83040198:00212473467:1889050201:0293/pct:31.75913396481732,5.188834154351396,12.0297699594046,3.5796387520525452/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -422,7 +422,7 @@ ing on their respective States.&quot; And
 later, when independence had been  
 won, the impotency of the Gov
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_garwood_ver02:data:sn84029386:00237285220:1889050201:0591/pct:24.802910855063676,9.188105579685933,16.07034566403881,4.677581022385566/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_garwood_ver02:data:sn84029386:00237285220:1889050201:0591/pct:18.60500379075057,6.893863459182537,12.054586808188022,3.508185766789175/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -491,7 +491,7 @@ Congresses the supreme controlling power. !
 are considering themselves as depend- I  
 lng on their respective States.” And 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_coldplay_ver02:data:sn83007654:00393342742:1889050301:0251/pct:18.730835888548192,91.40632898594681,11.091854419410746,2.5275502982509352/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_coldplay_ver02:data:sn83007654:00393342742:1889050301:0251/pct:18.728339109570783,91.39708855640922,11.093708344441483,2.5298220784472303/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -537,7 +537,7 @@ ing on their respective State?.&quot; And
 later, when independence had been  
 won, the impotency of the Gov
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_dunning_ver01:data:sn84022835:00237285049:1889050301:0412/pct:65.11775938892426,33.601470926223854,49.90451941438574,14.295564238106182/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_dunning_ver01:data:sn84022835:00237285049:1889050301:0412/pct:16.284622731614135,8.400367731555964,12.48010187838268,3.5738910595265456/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -560,7 +560,7 @@ ing on their respective States.&quot; And
 later, when independence had been  
 won, the lmpotency of the Gov
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_dysprosium_ver01:data:sn88076998:00199918138:1889050301:1210/pct:26.004343105320302,20.457499350142967,15.816141874773797,4.523004938913439/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_dysprosium_ver01:data:sn88076998:00199918138:1889050301:1210/pct:22.108285479901557,17.38906278770024,13.448523379819525,3.8519609648315227/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -580,7 +580,7 @@ n.irtiwn&#x27; which, instead of looking
 pp to Congress as the supreme controll  
 ing power, are cousiutnug iv.:&#x27;&quot;--o o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_hedgehog_ver01:data:sn82015133:00211104661:1889050401:0033/pct:25.85,136.0110529951643,16.0125,4.095529458205862/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_hedgehog_ver01:data:sn82015133:00211104661:1889050401:0033/pct:17.241810452613155,90.67403533010955,10.67766941735434,2.7336425540313827/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -603,7 +603,7 @@ ing on their resjiectlve Status. &quot; And
 later, when Indrtieudence had been  
 won, the iinpoUnoy of the Oor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_applejack_ver01:data:sn83016943:00295877832:1889050401:0697/pct:40.0320256204964,359.7665264015203,44.83586869495596,12.976788380616261/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_applejack_ver01:data:sn83016943:00295877832:1889050401:0697/pct:10.01401962747847,89.94163160038008,11.215701982775887,3.2441970951540653/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -632,7 +632,7 @@ in&quot; on their respective States. And
 later, when independence had been  
 won, the impotency of the Govern
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068402:00295878666:1889051601:0087/pct:41.5809033733562,95.90869939707149,16.452258433390508,6.944444444444445/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068402:00295878666:1889051601:0087/pct:31.19370979270908,71.93152454780362,12.35167977126519,5.211024978466839/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -690,7 +690,7 @@ them as the grand representative of America,
 and am fearful of the consequences of it.  
 There is a letter in this collection written b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_triumph_ver01:data:sn83030214:00175038590:1892112801:0394/pct:7.918999012183075,166.85057988965207,48.007902535396774,33.19446008332395/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_triumph_ver01:data:sn83030214:00175038590:1892112801:0394/pct:2.6396663373943583,55.61685996321736,16.00263417846559,11.06482002777465/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

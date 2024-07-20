@@ -43,7 +43,7 @@ And fierce as frenzy’s fevei ed blood.
 Thou many headed monster thing,  
 0. who would wish to be thy king?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021205:00517171906:1857041501:0346/pct:24.59965271078526,41.30653266331658,11.11325487169593,3.632447954055994/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021205:00517171906:1857041501:0346/pct:19.07491402083437,32.01290753310337,8.61785376065394,2.8225956010533735/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -128,7 +128,7 @@ And tierce as frenzy&#x27;s fevered blood.
 Thou many-headed&#x27; monster-tiling,  
 0 who would wish to he a King!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524676:1877102501:0609/pct:28.26955074875208,36.044637321760696,11.231281198003328,4.500929944203348/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524676:1877102501:0609/pct:28.2648477790717,36.04016860897595,11.233571785060722,4.5034713612695265/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -286,7 +286,7 @@ Now it may be said with truth, that ghe:
 “are,two na&#x27;ions,whofe worship, doétripje a 7  
 &quot;difeipline are more alike than thole G
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1781100601:0018/pct:12.636216090888013,2.2708505367464906,78.8546255506608,96.52146985962015/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1781100601:0018/pct:12.636216090888013,2.2742912193779246,78.8700826957261,96.52491054225159/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -484,7 +484,7 @@ ed governments are founded deep in the
 hearts, the passions, the imaginations and un­  
 derstandings 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1781100601:0019/pct:7.2727272727272725,1.036591686534674,76.63299663299664,96.81766352233855/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1781100601:0019/pct:7.280209502431725,1.0435022977782384,76.64047886270109,96.81766352233855/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

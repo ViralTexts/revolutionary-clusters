@@ -32,7 +32,7 @@ ritsattherateof half a gill per ration, and Vine­
 gar at the rate of two quarts for every hundred  
 rations. The proposals wifl fpecify the price of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799040101:0002/pct:26.58376349131863,89.80028530670471,16.28343500703895,2.5392296718972895/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799040101:0002/pct:26.60136086344439,89.80385164051356,16.295166588456123,2.5427960057061343/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -51,7 +51,7 @@ rits at tlie rate of half a gill per ration, and Vine­
 gar at the rate of two quarts for every hundred  
 rations. The projofals will fpetify the price o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799041701:0002/pct:12.139917695473251,84.63387051173311,16.163694558756287,2.4597116200169635/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799041701:0002/pct:12.151348879743942,84.63387051173311,16.175125743026978,2.473847893695222/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -80,7 +80,7 @@ thereof.
 The rations are to he furnified in such quantities  
 a&lt; that there fflall at all timet, during the term o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799042601:0004/pct:26.309794988610477,77.48936170212765,19.339407744874716,10.326241134751774/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799042601:0004/pct:26.309794988610477,77.5,19.350797266514807,10.319148936170214/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -98,7 +98,7 @@ supplies thereof shall be oil hand, there shall
 be issued to the troops vinegar at the rate of  
 two quarts for every hundred rations.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1800031401:0002/pct:28.144016227180526,57.44790769760634,15.922920892494929,2.531427587394524/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1800031401:0002/pct:28.150354969574035,57.456517995522645,15.929259634888439,2.5271224384363697/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -118,7 +118,7 @@ rits at the rate of half a gill per ration, and vine­
 gar at the rate of two quarts for every hundred  
 rations. The propolals will fpecify the prke o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1800041401:0001/pct:56.49087221095335,14.785265659480563,15.872210953346856,2.6141571889322694/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1800041401:0001/pct:56.50988843813388,14.797996944491597,15.872210953346856,2.6226447122729586/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -155,7 +155,7 @@ rits at tlje rata of half a gill per ration, and vine­
 gar at the rate of two quarts for every hundred  
 rations. The proposals will fpecify the price o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800071101:0004/pct:24.3520782396088,94.02014949626259,16.87041564792176,1.6899577510562236/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800071101:0004/pct:24.37041564792176,94.02421189470263,16.87041564792176,1.6858953526161846/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -182,7 +182,7 @@ The rations are to be furnilhed in fuel: quanti­
 ties as that there (hall ar all times, during the terra  
 of the proposed contrails be fuSHci nt for the con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800071501:0002/pct:77.37047898338221,69.57087126137841,16.739980449657867,6.290637191157347/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800071501:0002/pct:77.38269794721407,69.57493498049415,16.739980449657867,6.298764629388817/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -207,7 +207,7 @@ The rations are to be furnilhed in such quantt- |
 that there (hall at ail times, durfog the term |  
 of th&lt;r proposed co«tra«fts be fufficisnt for the con- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800071901:0004/pct:6.733106465726786,3.6845507433742726,34.17598444336412,93.63283775048481/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800071901:0004/pct:6.745260087506077,3.6845507433742726,34.16990763247448,93.6409179056238/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -230,7 +230,7 @@ The rations are to be furnifhcd in fitch quanfi- j
 ties as that there shall at all times, during the term  
 of the proposed contrails be fufficicnt for the coi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800072401:0004/pct:6.431890437759844,4.039087947882736,34.43384690633407,94.36482084690553/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800072401:0004/pct:6.44411836634874,4.039087947882736,34.42773294203962,94.3729641693811/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -251,7 +251,7 @@ Ihe rations are to be fumiflv d in fuch qnan &lt;
 tities as that there fhall at all times, during the  
 term of the nropofed contracts, be fufficient fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801062401:0003/pct:48.80982851292552,66.76675094816687,24.136165856155618,4.898862199747155/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801062401:0003/pct:48.80982851292552,66.77201854193005,24.15322924665131,4.904129793510324/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -271,7 +271,7 @@ dred rations. Jhe price of the leveral compo­
 nent parts of the ration, 3S well as fubftitutes  
 and alternatives mull be Specified
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801072901:0001/pct:29.204383039542638,63.69833212472806,20.986183897093856,3.8723712835387962/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801072901:0001/pct:29.22026361759568,63.69833212472806,20.978243608067334,3.886874546773024/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

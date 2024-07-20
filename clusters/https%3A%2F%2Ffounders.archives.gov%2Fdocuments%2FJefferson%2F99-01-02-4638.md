@@ -121,7 +121,7 @@ American people, is the sincere and &#x27;
 unanimous wish of the legislature of the j  
 state of Ohio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806122901:0001/pct:59.489598970619774,23.470073974445192,18.979197941239544,43.577673167451245/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806122901:0001/pct:59.50389591822146,23.470073974445192,18.986346415040387,43.591123066577/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -172,7 +172,7 @@ ot the American people, is the finccre and u­
 nsnimoun wilb of the le-iflaturc of the Hate of  
 Ohio.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1806123001:0282/pct:78.4749213399963,16.060381093788667,17.860447899315194,20.489977728285076/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1806123001:0282/pct:78.46039970392302,16.05839416058394,17.863311127559832,20.491566662542784/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -200,7 +200,7 @@ err
 ft  
 expr«| the opinions of our con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1806123101:0291/pct:52.114427860696516,85.46483427647534,21.26865671641791,10.493128536782539/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1806123101:0291/pct:52.10146729669236,85.45101842870999,21.269584680427755,10.495473650177821/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -229,7 +229,7 @@ went o? Ihe American people, is the sincere and u­
 ntinimbus wish of &quot;the legislature of the ajtata of  
 „phio. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1806123101:0291/pct:73.90547263681592,7.049312853678254,21.492537313432837,9.19967663702506/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1806123101:0291/pct:73.88709276299429,7.048173294536049,21.49340959960209,9.202230843840931/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -289,7 +289,7 @@ meiit of the American .people, is tac sine
 cere and unanimous wish of tiic legisluturji  
 ; of the state of Ohio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807010201:0009/pct:59.280195967589975,6.283572767020612,36.46127755794234,90.0312304809494/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807010201:0009/pct:59.2690278824416,6.282787909068199,36.460688269279075,90.02414855525024/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -449,7 +449,7 @@ people, is the sincere and, unanimous with
 of the legifiature of the slate of Ohio. ‘  
 s SR
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1807011301:0428/pct:59.166666666666664,60.657686212361334,16.589506172839506,25.723058637083994/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1807011301:0428/pct:59.17695473251029,60.66098784997359,16.599794238683128,25.723058637083994/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -497,7 +497,7 @@ may long live to enjoy the confidence and the attachment &#x27;
 of tire American people, is the sincere and unanimous  
 , wish ol tire legislature of Ohio.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848060701:0587/pct:15.163870158381684,26.27544609198291,17.312215775442997,13.40789143000754/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848060701:0587/pct:15.174324394961058,26.27963474909944,17.317442893732686,13.412080087124068/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -738,7 +738,7 @@ the confidence and attachment of the Am
 erican peo, le, is the sincere and unanimous  
 ish of the Legislature of Ohio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn89066057:00200292121:1848082101:0462/pct:73.3363309352518,51.235431235431236,23.178956834532375,37.97979797979798/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn89066057:00200292121:1848082101:0462/pct:55.025860130425,38.43045843045843,17.382505059590734,28.484848484848484/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -787,7 +787,7 @@ The young man, above described as a member of the
 Ohio legislature, and as being the author of this spirited  
 and eloquent address, is the same Lewis Cass who i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848110301:1095/pct:20.601963624657976,48.411898159818506,17.35071624014164,13.813965213007311/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848110301:1095/pct:20.607328719351898,48.42030081505756,17.3668115242234,13.813965213007311/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

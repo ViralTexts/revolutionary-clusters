@@ -89,7 +89,7 @@ With the most cordial esteem, however,
 1 am, sir, your friend and servant,  
 emesve JOHN ADANMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1816072401:0321/pct:53.37386018237082,52.25708620086318,22.04660587639311,25.090400093316227/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1816072401:0321/pct:53.38736913204998,52.26097437691978,22.05336035123269,25.094288269372836/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -205,7 +205,7 @@ vinced me, that wars aro as necessary and o 8
 ibevitable in our system, ns hurricancs, earth­  
 quakes and volcanves.~=Universal and per
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1817102901:0581/pct:30.552220888355343,15.208284849895275,22.368947579031612,7.3074237840353735/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1817102901:0581/pct:30.565559557156195,15.208284849895275,22.368947579031612,7.311302459079978/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

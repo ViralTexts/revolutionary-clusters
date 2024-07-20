@@ -171,7 +171,7 @@ read If a Trajan iound a Pliny, a Marcus
 Aurelius can reser want Bi igraphers, EulogilU  
 or Hiftorians. JOHN ADAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1800010601:0316/pct:29.788749109897935,17.122695852534562,22.169475433183006,41.28744239631337/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1800010601:0316/pct:29.781680113906027,17.120230381569474,22.17014712861889,41.28509719222462/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -337,7 +337,7 @@ want Biographers, Eulogists or His­
 torians. - v ,  
 S FJohn Adams
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1800010801:0214/pct:7.654994694558132,33.49542890488232,16.568137031984236,49.91246839136355/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1800010801:0214/pct:7.665100298115305,33.49542890488232,16.568137031984236,49.918952214225506/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -686,7 +686,7 @@ a Trojan found a P/tftjf, a Marcus *4u- &#x27;
 relius can never waut biographers, Eu­  
 logists or Historians. JOHN ADAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1826072701:0129/pct:20.663971057671844,2.8587602604019247,35.47563311342839,92.62666289272573/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1826072701:0129/pct:20.659574468085108,2.85835573793689,35.473404255319146,92.6170935333239/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -735,7 +735,7 @@ trrates, citizens and men, nto only in the
 present era, but in future generations, as  
 long as her history shall ie read
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn84026897:00237288336:1839071801:0097/pct:20.54964539007092,15.025528811086797,15.336879432624114,3.221492827619742/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn84026897:00237288336:1839071801:0097/pct:20.56146572104019,15.025528811086797,15.325059101654846,3.225545019855742/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -845,7 +845,7 @@ only in the prc?*nt a?e, but in future generations, as long
 a Maxcas Aurniius can never want biographers, enlogisU,  
 or historian*.&#x27;&#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1853102201:0781/pct:34.53865336658354,72.59354013431404,15.43363812690496,6.257328643001812/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1853102201:0781/pct:34.54788953542071,72.60064669722489,15.43363812690496,6.257328643001812/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1118,7 +1118,7 @@ shall be read. If a Trajan found a Pliny, a
 Marcus Aurelius can never want Biographers,  
 or Historians.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:0028077571A:1859022201:0385/pct:127.09923664122137,122.6028339524006,49.69465648854962,123.09808776998211/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:0028077571A:1859022201:0385/pct:31.77480916030534,30.65070848810015,12.423664122137405,30.77452194249553/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1241,7 +1241,7 @@ Projan found a Pliny, a Marcus Arelius
 an never want Biographers, Eulogists or  
 listerian. JouN AdAMs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_coyote_ver02:data:sn84022168:00296025185:1868022901:0045/pct:264.55696202531647,245.64885496183206,58.9873417721519,136.10687022900763/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_coyote_ver02:data:sn84022168:00296025185:1868022901:0045/pct:66.13924050632912,61.412213740458014,14.746835443037975,34.02671755725191/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1260,7 +1260,7 @@ when he thought it necessary to prepare
 for retirement, I feel myself alone, be­  
 reaved of my last brother.&quot; John Adams
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_baxter_ver01:data:sn83009653:00279524032:1873052001:0092/pct:134.0253920836445,204.0136901057872,37.654966392830474,8.660029039618337/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_baxter_ver01:data:sn83009653:00279524032:1873052001:0092/pct:44.668458781362006,67.99751114798299,12.549780963759458,2.886376991945798/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1601,7 +1601,7 @@ Jfliny,. a Marcus Aurelius can. never
 want Biographers, Eulogists -or His­  
 torians.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_floydcouncil_ver01:data:sn84026909:00237287058:1876062101:0099/pct:1.4352968193822482,9.939709956004563,12.458376392237914,51.507251099885934/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_floydcouncil_ver01:data:sn84026909:00237287058:1876062101:0099/pct:1.4391242775672677,9.945141491499648,12.454548934052896,51.507251099885934/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1781,7 +1781,7 @@ ound a Pliny, a MarcusjArelius can never
 vant biographers, eulogists and ^historians.  
 Jnited States 1 John Adans
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348720:1878102401:0559/pct:74.11328745367919,12.19832109129066,22.604552673372154,85.42759706190976/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348720:1878102401:0559/pct:74.10021171489062,12.19672131147541,22.60497529992943,85.41967213114754/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1799,7 +1799,7 @@ tended Washington in his highest elevation and
 most prosperous felicity, with uniform admiration  
 of his wisdom, moderation, and constancy.&quot; Tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn86053573:0021110238A:1879060401:0540/pct:219.18119787717967,269.73067915690865,48.29416224412434,7.02576112412178/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn86053573:0021110238A:1879060401:0540/pct:54.82647449269865,67.43266978922716,12.080409633984448,1.756440281030445/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1820,7 +1820,7 @@ have served to eclipse the majesty of those virtues
 which made him, from being a modest citizen, a  
 most resplendent luminary.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn86053573:0021110238A:1879060401:0540/pct:219.25701288855194,276.69789227166274,48.21834723275209,9.836065573770492/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn86053573:0021110238A:1879060401:0540/pct:54.84543902901574,69.17447306791568,12.061445097667361,2.459016393442623/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1858,7 +1858,7 @@ enough to life anil toglory. For his fellow
 citizens, if their pravers &quot;could have been  
 answered, he would have been immortal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_france_ver01:data:sn84026844:00202193468:1881092901:0938/pct:12.285505658999634,45.947163014109876,13.782402336619205,6.469528670069049/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_france_ver01:data:sn84026844:00202193468:1881092901:0938/pct:12.290069368382621,45.950915640948665,13.791529755385177,6.4882918042629845/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1877,7 +1877,7 @@ those superficial minds who belleving that characters and
 actions are marked by success alone, rarely deserve to  
 enjoy it.&quot; A little previous to this he wrote to his wife
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chrysler_ver01:data:sn83030214:00175039946:1883012801:0244/pct:59.878750194310584,12.478882757067238,45.76402922431214,7.883770694898074/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chrysler_ver01:data:sn83030214:00175039946:1883012801:0244/pct:19.95958339810353,4.159627585689079,15.254676408104046,2.6279235649660246/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1897,7 +1897,7 @@ who, believing that characters and actions
 marked by success alone, rarely deserve to en-  
 Joyit” A little previous to this he wrote t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_diamondville_ver05:data:sn84022149:00514150072:1883022801:0402/pct:51.34838851129138,12.210450709283533,11.00635825476869,2.478003232178129/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_diamondville_ver05:data:sn84022149:00514150072:1883022801:0402/pct:51.35386976540232,12.214939845573712,11.00087700065775,2.4824923684683067/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1917,7 +1917,7 @@ who. believing-that characters and actions are
 marKed by success alone, rarely deserve to en­  
 joy it&quot; A littlj previous to this he wrote t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_alamo_ver01:data:sn85042331:00212470843:1883030901:0520/pct:63.0556974961676,84.16992998694671,13.898824731732244,2.6225228432419603/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_alamo_ver01:data:sn85042331:00212470843:1883030901:0520/pct:63.067052745131434,84.1778410664135,13.90450235621416,2.6225228432419603/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2194,7 +2194,7 @@ will teach wisdom and virtue to magls-
 trates, citizens and men, not only in the  
 pregent age, but in future generations.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_chevy_ver01:data:sn83025733:00200294762:1884100601:0995/pct:169.44444444444446,321.9778640218485,51.0942760942761,20.23860859565905/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_chevy_ver01:data:sn83025733:00200294762:1884100601:0995/pct:42.387871130764374,80.49446600546213,12.781638239629396,5.059652148914762/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2221,7 +2221,7 @@ and virtue to magistrates citigens and men, not only in
 the present age, but in future generations, as long as our  
 history shal be read, ruture sener ations, as lon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044851:1885022201:0684/pct:232.29398663697106,168.5985247629083,51.206384558277655,20.457624567213607/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044851:1885022201:0684/pct:58.09506126995915,42.14963119072708,12.806349795766803,5.114406141803402/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2243,7 +2243,7 @@ of those virtues whicih made him, from being
 a modest citizen, a more replendent luminary.  
 For himself, he had lived encugh to lile an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_fleshgolem_ver02:data:sn92063989:00514153565:1885032101:0378/pct:65.71582346609257,59.52120037090112,9.76318622174381,2.6637444154092558/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_fleshgolem_ver02:data:sn92063989:00514153565:1885032101:0378/pct:65.72299964119125,59.5240102278794,9.76318622174381,2.6693641293658152/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2264,7 +2264,7 @@ and virtue to magistrates, citizens and men,
 not only in the present age, but in future gen­  
 erations, as long as our history shall be read
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_fleshgolem_ver02:data:sn92063989:00514153565:1885032101:0378/pct:65.71582346609257,62.201803928180055,9.784714747039828,2.4024277164292336/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_fleshgolem_ver02:data:sn92063989:00514153565:1885032101:0378/pct:65.72299964119125,62.20742364213662,9.781126659490491,2.4024277164292336/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2401,7 +2401,7 @@ want Biographers, Eulogists, or
 Historians.  
 UNITEd STaTEs,) J.ADAMs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_grange_ver01:data:sn84026409:00280776506:1885081901:0078/pct:16.44993498049415,145.39257455873403,40.377113133940185,143.29884357881923/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_grange_ver01:data:sn84026409:00280776506:1885081901:0078/pct:4.1138211382113825,36.34814363968351,10.097560975609756,35.82471089470481/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2473,7 +2473,7 @@ will of a free nation in America, he
 was the only one remaining in the  
 General Government.” An eye wit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_earnhardt_ver01:data:sn84024516:00332891911:1890051101:0396/pct:2.9784065524944157,26.28984554715741,12.851824274013403,5.290831416365429/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_earnhardt_ver01:data:sn84024516:00332891911:1890051101:0396/pct:2.9784065524944157,26.28984554715741,12.851824274013403,5.294482783802534/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2524,7 +2524,7 @@ If a Trajan found a Pliny, a Mar­
 cus Aurelius can never want bi­  
 ographers, eulogists or historians.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_fluorine_ver01:data:sn88076013:00271740888:1891112801:0430/pct:31.036811887875718,77.73370355678964,10.925363053022627,9.083696945656486/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_fluorine_ver01:data:sn88076013:00271740888:1891112801:0430/pct:31.041033434650455,77.74362025651196,10.94224924012158,9.083696945656486/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2599,7 +2599,7 @@ found a Pliny, a Ma.c 9 Arelius can
 never want Biographers, Eulogists  
 or Hiftorians
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carlisle_ver01:data:sn86081853:00296026062:1892052701:0603/pct:43.69867904319886,5.800807537012113,24.97322384862549,90.56527590847914/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carlisle_ver01:data:sn86081853:00296026062:1892052701:0603/pct:43.71057955492086,5.8052938537460745,24.96727359276449,90.5697622252131/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2801,7 +2801,7 @@ the General&#x27;s horse caparisoned with
 saddle, holsters and pistols, and the  
 names of all the pall-bearers are care
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_diamond_ver01:data:sn87065469:00383344037:1896022701:1411/pct:161.01167315175098,123.4164517053597,46.400778210116734,43.12123817712812/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_diamond_ver01:data:sn87065469:00383344037:1896022701:1411/pct:40.245088504182064,30.84969193294168,11.597938144329897,10.778764866026652/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2893,7 +2893,7 @@ found a I&#x27;liny, a Marcus Arelius can ncv-
 t wane bioerfi p&#x27;bei eulogist or he-to-  
 iau.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_maple_ver01:data:sn92051487:00271763244:1896050101:0143/pct:39.75672215108835,39.92161985630307,14.40460947503201,10.30698889614631/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_maple_ver01:data:sn92051487:00271763244:1896050101:0143/pct:29.82231471106131,29.941214892227304,10.805186489514966,7.733507511430438/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2975,7 +2975,7 @@ be read. If a Trojan found a Pliny, a
 Marcus Aurelius can never want biow­  
 aphers, eulogists or historians
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_jackrabbit_ver02:data:sn84036012:00294550264:1898022201:0938/pct:49.67672413793103,35.49488054607509,39.76293103448276,91.80887372013652/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_jackrabbit_ver02:data:sn84036012:00294550264:1898022201:0938/pct:16.558908045977013,11.831626848691695,13.254310344827585,30.602957906712174/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3010,7 +3010,7 @@ men, not only in the present age, but in all future
 generations, as long as our history shall be read.  
 JOHN ADAMs.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042982:1898022201:0694/pct:172.98136645962734,254.47908745247148,51.475155279503106,38.93536121673004/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042982:1898022201:0694/pct:43.245341614906835,63.61977186311787,12.868788819875776,9.73384030418251/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3169,7 +3169,7 @@ Pliny, a Marcus Aurelius can never
 want biographers, eulogists or histor­  
 ians
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_demeter_ver01:data:sn86086481:00517171840:1899022601:0619/pct:56.22024425584765,8.355957767722474,16.311322707513973,24.720965309200604/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_demeter_ver01:data:sn86086481:00517171840:1899022601:0619/pct:43.58055718945511,6.479641535164621,12.63034062349607,19.16228326514709/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3250,7 +3250,7 @@ will teach wisdom and virtue to Magis
 trates, Citizens and men, not only in  
 the present ane, but in futurt gener
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_hornacek_ver01:data:sn83045555:206534710:1899042901:1380/pct:164.88359201773835,16.421979865771814,76.16407982261642,134.45889261744966/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_hornacek_ver01:data:sn83045555:206534710:1899042901:1380/pct:54.96119733924612,5.473993288590604,25.3880266075388,44.81963087248322/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3285,7 +3285,7 @@ not only in the present age, but. in fu­
 ture generations, as long as our history  
 shall be read
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_hickory_ver01:data:2016270503:00271762859:1899121401:0518/pct:58.85673959068455,57.18408262454435,16.725476358503883,7.639732685297691/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_hickory_ver01:data:2016270503:00271762859:1899121401:0518/pct:44.16593115622242,42.891859052247874,12.568402471315093,5.726002430133657/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3308,7 +3308,7 @@ citizens, and men, not only in the present
 age, but in future generations, as long as  
 our history shall&#x27; be read.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dutch_ver02:data:sn84024441:211102809:1899121401:0340/pct:24.31174089068826,122.99366012061233,16.25506072874494,5.2419978351631356/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dutch_ver02:data:sn84024441:211102809:1899121401:0340/pct:18.246253543944917,92.25297665068811,12.19117051437829,3.927632596257925/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3442,7 +3442,7 @@ citizens, and men, not only in the present
 age, but in future generations, as long as  
 our history shall be read
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_earl_ver02:data:sn85054468:211102214:1899121501:0609/pct:83.77862595419847,67.21165610054499,17.865531415149736,5.638972305638973/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_earl_ver02:data:sn85054468:211102214:1899121501:0609/pct:55.87371512481645,44.81147814481148,11.908957415565345,3.7593148704259813/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3464,7 +3464,7 @@ magistrates, citizens, and men not only in the
 present age, but in future generations, as lons as  
 our history shall be read
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_lotus_ver01:data:sn83030214:0017503710A:1899121501:0284/pct:55.6475170399221,26.306010928961747,48.39337877312561,9.202185792349727/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_lotus_ver01:data:sn83030214:0017503710A:1899121501:0284/pct:18.549172346640702,8.768670309653917,16.131126257708537,3.0673952641165756/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3493,7 +3493,7 @@ and men, not only in the present age, but
 in future generations, as long as our his­  
 tory shall be read.’ 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_fletcher_ver01:data:sn86063034:00414182288:1899121501:1193/pct:42.18000383803493,78.06481198410272,12.780656303972366,6.786915316416998/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_fletcher_ver01:data:sn86063034:00414182288:1899121501:1193/pct:42.18640056291179,78.06481198410272,12.787053028849229,6.786915316416998/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3550,7 +3550,7 @@ in the present age, but in future genera­
 tions, ,as long as our history shall be  
 read
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_kurtis_ver01:data:sn82014635:00280760705:1899121501:0115/pct:66.23880597014926,19.53362255965293,18.19402985074627,10.433839479392624/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_kurtis_ver01:data:sn82014635:00280760705:1899121501:0115/pct:44.17077175697865,13.026030368763557,12.136139722346618,6.952277657266811/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3566,7 +3566,7 @@ read
 “ ‘For myself, he had lived enough to  
 life, and to glory. For his fellow citizens,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_griffin_ver01:data:sn85042104:00332892058:1899121501:0654/pct:34.804725959960614,65.04011429827453,14.489661962586151,0.9781294647763491/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_griffin_ver01:data:sn85042104:00332892058:1899121501:0654/pct:34.81019582102615,65.04011429827453,14.495131823651679,0.9854562772465839/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3588,7 +3588,7 @@ to magistrates, eitizens and men, not only in
 the present age, but in future generations, as  
 long as our history shall be read.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_rumi_ver01:data:sn83030272:00206539045:1899121501:0620/pct:80.42488619119878,42.09260372820204,49.468892261001514,11.665664461815995/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_rumi_ver01:data:sn83030272:00206539045:1899121501:0620/pct:20.117669386980452,10.52315093205051,12.374264566331373,2.9164161154539987/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3615,7 +3615,7 @@ the present age, but In future genera
 tlons as long as our history shall bo  
 read
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_charlie_ver01:data:sn87075213:00237283843:1899121501:0814/pct:89.12092283214001,55.112181900316216,15.85123309466985,5.872609546755006/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_charlie_ver01:data:sn87075213:00237283843:1899121501:0814/pct:66.88557213930348,41.33413642523716,11.900497512437811,4.411986146664659/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3639,7 +3639,7 @@ men, not only in the pres.-mt age, but
 In future generations, ns long as- our  
 history (mall bo read.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hazel_ver01:data:sn86071779:0017503142A:1899121501:1050/pct:33.86232481450948,90.08720930232558,16.364385820280297,5.334302325581396/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hazel_ver01:data:sn86071779:0017503142A:1899121501:1050/pct:33.86232481450948,90.09205426356588,16.378125858752405,5.3439922480620154/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3666,7 +3666,7 @@ In the present age, but in future gen- m
 erations, as long as our history shall h  
 be read.&#x27; J
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_germany_ver01:data:sn84026844:00202193729:1899121501:1169/pct:17.809943360604155,49.93625933345474,17.526746381371932,7.539610271353124/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_germany_ver01:data:sn84026844:00202193729:1899121501:1169/pct:17.809943360604155,49.93625933345474,17.550346129641284,7.5578218903660535/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3703,7 +3703,7 @@ men not only in tbe pr?tent age, but in
 foture generations, as long as our his?  
 tory shsll be read. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_glass_ver01:data:sn87060165:00175032149:1899121601:0461/pct:49.43413309189678,88.83765815998284,11.920929530707712,7.355779541067982/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_glass_ver01:data:sn87060165:00175032149:1899121601:0461/pct:49.43413309189678,88.84480663378369,11.930989386851769,7.359353777968404/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3730,7 +3730,7 @@ trates citizens and men, not only in the
 present age, but in tuture generations, as   
 long as our history shall be read
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_echo_ver01:data:sn87062234:100493627:1899121901:0213/pct:161.59239638516672,18.933994422063837,78.43564973511998,274.43445925007745/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_echo_ver01:data:sn87062234:100493627:1899121901:0213/pct:53.8641321283889,6.311331474021279,26.145216578373326,91.47815308335916/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3754,7 +3754,7 @@ in the present age, but in future gener­
 ations, as long as our history shall b  
 read.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_green_ver01:data:sn91068367:00296024272:1899121901:0791/pct:87.53439735828289,33.67619424389279,18.36818932305999,5.993472455741272/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_green_ver01:data:sn91068367:00296024272:1899121901:0791/pct:65.66671253612219,25.25961823756305,13.774597495527727,4.5000494510928695/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3787,7 +3787,7 @@ trates citizens and men not only in tlie
 jiresent age but in future generations as  
 long as our history hliall be rea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abe_ver01:data:sn82016187:0010049372A:1899122101:0329/pct:24.383611312545323,102.63852242744063,16.207396664249455,4.9437578114150815/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abe_ver01:data:sn82016187:0010049372A:1899122101:0329/pct:18.298875589408777,76.98583530065268,12.169024301777295,3.707818358561311/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

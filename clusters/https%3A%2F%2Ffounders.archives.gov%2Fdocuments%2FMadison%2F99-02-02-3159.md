@@ -214,7 +214,7 @@ ments due from me, and to yourself
 (be assurance of my high and cordial  
 esteem. JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186932:1835081301:0335/pct:17.546875,51.4446793516561,13.265625,18.59290580220813/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186932:1835081301:0335/pct:17.54413372910483,51.43863769817968,13.268760089569339,18.5946369152476/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -298,7 +298,7 @@ roent* due from me, and to yourself the
 assurance of my high and cordial esteem.  
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348951:1835090301:0115/pct:15.507411630558723,21.576299608719957,14.101102242493349,16.74119619899385/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348951:1835090301:0115/pct:15.50446513395402,21.573284895906106,14.103173095192856,16.742350146709516/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -318,7 +318,7 @@ ol liberty everywhere will sympathise,and |
 ol which our country may well be proud.” 1  
 In this District, where the experiment 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348951:1835090301:0115/pct:15.545419992398328,59.628283957518164,14.19612314709236,3.451648965902739/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348951:1835090301:0115/pct:15.54246627398822,59.61995249406176,14.198175945278358,3.4546597736481766/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -365,7 +365,7 @@ I tender to the Society the acknowledgments dun from
 me, and to yourself the assurance of my fiiirh and cor­  
 dial esteem. JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184091:1835110301:0201/pct:80.72505880725059,12.98546322412671,15.040819150408192,9.926231286613149/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184091:1835110301:0201/pct:80.71389042612064,12.984054669703873,15.043349935436266,9.928770293234985/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -536,7 +536,7 @@ where will sympathise, and of which our country
 may always be pre ud.&quot;  
 An appeal i? made to ttje enure press in tn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664291:1847050701:0384/pct:58.977777777777774,84.93319435231687,13.540740740740741,3.4966360276698567/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664291:1847050701:0384/pct:58.977777777777774,84.93951167124672,13.560493827160494,3.4966360276698567/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -563,7 +563,7 @@ i may always be proud.”
 An appeal is made to the entire press in the  
 United States, in the Territories, and in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348999:1847051301:0076/pct:85.34579439252336,80.47775947281713,13.570093457943925,6.28775398132894/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348999:1847051301:0076/pct:85.32984488880584,80.46671242278654,13.572229489814989,6.290322580645161/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -609,7 +609,7 @@ may always be proud.”
 An appeal is made to the entire press m the  
 United Mates, in the Territories, and in ih
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348999:1847052001:0081/pct:27.524677296886864,44.53514111787493,13.344722854973424,5.326508024349751/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348999:1847052001:0081/pct:27.519453406718544,44.52898049522756,13.346934902258493,5.32922949232259/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -631,7 +631,7 @@ twill sympathise, mid of which our country
 may always be proud.”  
 An appeal amnio to th - entire pros* tu ti
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348999:1847052701:0086/pct:5.5244494214259054,80.24076380240764,12.467338559163867,3.9158710391587106/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348999:1847052701:0086/pct:5.523418548236611,80.22966242390703,12.469677178578094,3.918788046485888/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -711,7 +711,7 @@ tune, a virtue, a patriotism, and a gratitude truly national,
 with which the friends of liberty everywhere will sympathise,  
 and of which our country may nl ways be proud
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661150:1847110601:1074/pct:36.926242481798035,71.34845463609173,16.71415004748338,7.951146560319043/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661150:1847110601:1074/pct:36.93151841299989,71.35676304420073,16.729977841088953,7.955300764373546/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -746,7 +746,7 @@ the same lime u virtue, a patriotism, and a gratitude
 where, will sympathize, and of which our country  
 inby always be proud. JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014405:00415660923:1847111201:0276/pct:4.35754189944134,77.95048934945308,15.270018621973929,10.434657455382844/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014405:00415660923:1847111201:0276/pct:4.35754189944134,77.96008443676837,15.270018621973929,10.43945499904049/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -877,7 +877,7 @@ ot liberty everywhere will svmpathize, and of
 which our country may always be proud.&quot;  
 Iu presenting to \ou&#x27;this block of marble, w
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kuvasz_ver02:data:sn83045462:00280654346:1870070501:0386/pct:15.659422447156892,85.9050611603636,13.486156594224472,2.670856245090338/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kuvasz_ver02:data:sn83045462:00280654346:1870070501:0386/pct:15.663143792795475,85.9106722028953,13.489877939863055,2.67646728762204/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -912,7 +912,7 @@ evervwhere will sympathize and of which our coun-­
 try may always be proud.&quot;  
 min order that contrioutions mignt he within th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743737:1871010101:0027/pct:56.564516129032256,10.971284750028602,92.08064516129032,282.4276398581398/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743737:1871010101:0027/pct:18.85483870967742,3.6570949166762,30.693548387096776,94.14254661937993/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -957,7 +957,7 @@ of liberty everywhere will sympathize, and of
 which our country may always be proud.&quot;  
 The progress of the society was at first slow
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558354:1876022201:0184/pct:334.2758620689655,140.6127258444619,42.89655172413793,26.027755957056822/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558354:1876022201:0184/pct:83.59779234218696,35.15318146111547,10.727837185236288,6.5069389892642056/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -993,7 +993,7 @@ was to allow every one an opportunity
   
 to contribute, and to carry out this
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477862:1876051701:0991/pct:136.77521842732327,110.66415858775865,80.85782366957903,277.23918390970914/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477862:1876051701:0991/pct:34.19380460683082,27.666039646939662,20.21445591739476,69.30979597742729/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1020,7 +1020,7 @@ national, with which the friends of liberty
 everywhere wHi sympathize, aud of which  
 our country may always be proud.” Thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623781:1877042101:0075/pct:37.146921357447674,76.78198628094243,11.501727291200975,6.322696093050999/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623781:1877042101:0075/pct:37.15369504843189,76.79192762700069,11.522048364153628,6.317725420021871/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1059,7 +1059,7 @@ TJiE LIST OF MEMBERS
 Of the society t&#x27;r .m is:&#x27;,3 to the present time  
 embraces many names identified with ou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_newfoundland_ver04:data:sn83045462:00280654632:1885022101:0631/pct:4.247311827956989,21.11961817639455,14.50268817204301,9.32683702893507/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_newfoundland_ver04:data:sn83045462:00280654632:1885022101:0631/pct:4.25739247311828,21.11961817639455,14.50268817204301,9.329322859699712/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

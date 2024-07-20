@@ -69,7 +69,7 @@ Be thy intent wicked or charitable.
 Thou rom’-t in sm h a qut stionable shape,  
 That 1 w ill speak to »het.”­
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216250:1819071901:0432/pct:7.490569426980421,63.04300608166812,18.465960122148374,4.148566463944396/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216250:1819071901:0432/pct:7.489224137931035,63.03616027798893,18.468630268199234,4.15173562095052/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -88,7 +88,7 @@ Be thy intents wicked or charitable,
 Thou cem’st in such a questionable shape,  
 That I will speak to thee.”——
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_beachhaven_ver01:data:sn85025061:00513684939:1819072701:0186/pct:2.2419315102241932,65.79590589673083,17.02389751170239,2.3984112435074856/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_beachhaven_ver01:data:sn85025061:00513684939:1819072701:0186/pct:2.2413793103448274,65.78585611730564,17.025862068965516,2.4018634489078967/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -249,7 +249,7 @@ Be thy intents wicked or charitable,
 Thou comes! in *urh questionable shape  
 That I Will speak to tit a.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn84020566:00414187468:1845030601:0191/pct:32.60448916408669,81.7951247005777,11.629256965944272,1.662674369451881/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn84020566:00414187468:1845030601:0191/pct:32.59818146643451,81.78360101437025,11.631843683497776,1.6659622428853198/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -293,7 +293,7 @@ Thou comest in such a questionable shape,
 Thet I will speak to thee.&quot;  
 Nr. wiles continued in an able axponitionor the ba
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271742952:1847030101:0259/pct:10.91358024691358,75.43458371454712,50.32098765432099,8.840347666971638/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271742952:1847030101:0259/pct:3.6378600823045266,25.144861238182372,16.773662551440328,2.9467825556572125/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -411,7 +411,7 @@ Be thy intents wicked or charitable,
 Thou com&#x27;st in such a questionable shape  
 That I will speak to thee! Hr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn85055197:0028077635A:1851102201:0434/pct:65.53755522827687,73.31893448524119,45.36082474226804,7.2570194384449245/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn85055197:0028077635A:1851102201:0434/pct:16.39344262295082,18.329733621310297,11.346472646896297,1.8142548596112311/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -442,7 +442,7 @@ Be thy intents wicked or charitable?
 Thou comest in such a questionable shape  
 That I will speak to thee.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn83025141:no_reel:1856030701:0427/pct:56.726579520697165,148.76739562624255,37.58169934640523,9.025844930417495/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn83025141:no_reel:1856030701:0427/pct:18.908859840232388,49.58913187541418,12.527233115468409,3.008614976805832/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -461,7 +461,7 @@ Be thy intents wicked, or charitable,
 Thou com&#x27;st in such a questionable shape,  
 That we wifl speak to thee.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290008:1857011301:0039/pct:110.8,369.11898274296095,41.6,6.4032697547683926/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290008:1857011301:0039/pct:27.7,92.27974568574024,10.4,1.6008174386920981/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -574,7 +574,7 @@ Be thy intents wicked, or charitable,
 Thou comest in such a questionable shape  
 That I will speak to thre.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_nelson_ver01:data:sn83030272:00206539872:1859112401:0228/pct:26.36579572446556,300.65508402164625,44.180522565320665,7.348333808031899/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_nelson_ver01:data:sn83030272:00206539872:1859112401:0228/pct:6.594059405940594,75.16377100541156,11.049504950495049,1.8370834520079748/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -594,7 +594,7 @@ Be thy intents wicked or charitable
   
 though 1 had heard noises for which 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn84024558:00296028654:1865080301:0321/pct:27.910092289371836,17.868997565833148,12.920512057159868,1.9362690860809915/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn84024558:00296028654:1865080301:0321/pct:27.920015877741392,17.87637382901822,12.915550262975092,1.9325809544884562/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -637,7 +637,7 @@ That I will speak to thee,&quot;
 No, sir! We are the last one to hold  
 confab with bones that have burst thei
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00212470491:1868030501:0445/pct:38.21263482280431,278.47304210940575,49.76887519260401,16.319034500852684/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00212470491:1868030501:0445/pct:9.554999036794452,69.61826052735144,12.444615680986322,4.079758625213171/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -658,7 +658,7 @@ Thou com&#x27;st in such a questionable shape
 That I will speak to thee!&quot;  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn83035216:00280775186:1869112001:0203/pct:127.16562716562717,257.5450450450451,49.064449064449065,34.346846846846844/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn83035216:00280775186:1869112001:0203/pct:31.807938984226034,64.38626126126127,12.272490899635985,8.586711711711711/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -768,7 +768,7 @@ II hell,
 Thou comest in such questionable shape,  
 That I will speak to thee: I’ll call thee Hamlet
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624347:1873060501:0261/pct:55.687397708674304,15.992513257772695,25.027277686852155,76.29198294686492/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624347:1873060501:0261/pct:55.69194398981633,15.999445426501682,25.027277686852155,76.29198294686492/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -839,7 +839,7 @@ and then the luize hurse inte a most proe
 at of hugiter, which they cdatt at al andere  
 &quot;Boys,&quot; said he, &quot;go to sleep. It won&#x27;t bother yo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271743944:1877031201:0819/pct:57.68784209653342,170.233574962605,50.539061204179795,13.094005292831666/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271743944:1877031201:0819/pct:19.229280698844473,56.744524987534994,16.8463537347266,4.364668430943889/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -859,7 +859,7 @@ Be thy intentions wicked or charitable,
 Thou comest in such questionable shape  
 That I will speak with thee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_nejat_ver01:data:sn83026413:00212475580:1877081801:0150/pct:13.861196319018404,265.73482428115017,44.40184049079755,7.707667731629393/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_nejat_ver01:data:sn83026413:00212475580:1877081801:0150/pct:4.620398773006135,88.57827476038338,14.800613496932515,2.5692225772097976/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -908,7 +908,7 @@ Thou comest in such a questionable shape
 That I will speak to thee.&quot;  
 Certainly, Capt,, Witherspoon cannot frighte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295861927:1882091401:0062/pct:16.065403581624707,25.212438980292895,13.50895406177005,3.5075031639848127/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295861927:1882091401:0062/pct:16.069729215330046,25.2184656180317,13.517605329180725,3.50448984511541/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1023,7 +1023,7 @@ damned, bring with the airs from heaven
 or blasts from hell, be thy inteut wicked  
 or charitable&#x27;-—~Hamlet,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_displacerbeast_ver02:data:sn91070630:00514152858:1894081501:0744/pct:2.2372600469548405,11.294563045535808,13.174975832067394,2.4082448206961824/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_displacerbeast_ver02:data:sn91070630:00514152858:1894081501:0744/pct:2.2418634626893157,11.294563045535808,13.179579247801868,2.4187611736249868/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

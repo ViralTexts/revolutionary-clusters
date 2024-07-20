@@ -255,7 +255,7 @@ of Maine, who had sent him a copy of his letter to his
 constituents. in which he assigned his reasons for hav­  
 ing voted for the unrestricted admission of Missour
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015210:1845081201:0338/pct:50.82536924413554,38.05135638848623,14.596003475238923,5.125284738041002/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015210:1845081201:0338/pct:50.830195964861474,38.05825912887416,14.591176754512984,5.118381997653068/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -280,7 +280,7 @@ it must ho borne in mind that the
 questions enumerated were the great and exciting  
 political questions of the day o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn85042796:00295863080:1848072601:0133/pct:50.58246474555487,81.27328511943897,18.85346413243409,7.089634012710936/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn85042796:00295863080:1848072601:0133/pct:50.58246474555487,81.28059025494923,18.868792152053956,7.085981444955804/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -304,7 +304,7 @@ I hear ot your high health, and welcomes to mc the conse­
 quences ot my want of it. 1 thank God that 1 shall not  
 live to witn?S&gt; its nine. Sua foe htcltnus.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854021501:0241/pct:81.75046554934823,24.609021584593513,16.082613847976976,4.976088923355306/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854021501:0241/pct:81.76175159415384,24.609021584593513,16.07697082557418,4.989013829649735/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -328,7 +328,7 @@ your high health, and welcomes to me the consequences ol
 my want of it. 1 thank God that I shall not live to witness  
 its issue. -Scd h&lt;zc kectenus.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1854021701:0126/pct:20.020384391380315,25.354558610709116,17.152009318578916,4.052098408104197/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1854021701:0126/pct:20.03009124441856,25.35777456182666,17.147155892059793,4.0585303103392825/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -381,7 +381,7 @@ tion is a breaker, on which wo lose tho Missouri country
 by revolt, and what more, God only knows.&quot;  
 Mr. BUTLER. Those were the words of Mr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661538:1854030301:0223/pct:83.3648393194707,50.86380498145204,13.313529570618417,2.586115527291998/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661538:1854030301:0223/pct:83.36934017463318,50.870870870870874,13.313529570618417,2.589648472001413/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -404,7 +404,7 @@ son, quoted by Mr. Calhoun. Now, will my friend be
 kind enough to read further I  
 Mr. Sebastian read the following 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854030701:0355/pct:47.70237121831562,27.220666836345124,15.699100572363042,4.135912445914991/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854030701:0355/pct:47.71327337149087,27.220666836345124,15.693649495775416,4.14863833036396/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -432,7 +432,7 @@ the consequences of my want of it. 1 thank
 God that I shall not live lo witness its issue.  
 icd hue htctcrtus.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn86083363:00415668831:1854030801:0543/pct:66.51809124278972,31.177414786139174,11.71997902464604,5.164762534227174/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn86083363:00415668831:1854030801:0543/pct:66.52246110819787,31.177414786139174,11.728718755462332,5.17735183961225/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -454,7 +454,7 @@ more, Ood knows.&#x27;
 be borne in uiiud that the questions enumerated were the  
 great and exciting political questions of the day, on whic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854060201:0752/pct:47.214897824653924,23.801088194356574,15.73829927488464,3.6062254839934202/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854060201:0752/pct:47.22039112283015,23.80952380952381,15.743792573060865,3.6020076764098024/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -480,7 +480,7 @@ ol it. 1 tliank Uod that I shall not live to witness it* issue.
 Ill his letter to John Holmes, dated April 22, 1820, we  
 find the following
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854061101:0788/pct:16.046549745943288,13.337531486146096,15.866251434191117,5.352644836272041/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854061101:0788/pct:16.046549745943288,13.34592779177162,15.88264218980495,5.352644836272041/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -507,7 +507,7 @@ fdom and in- wnnt of j( , thftnk ))od |lia| , ghal| |)()( ?V(&gt; ,
 ivine Provi- . , ., , . .  
 the cultiva- ds issue! .W Wr hactenu*.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:0041566123A:1854091501:0267/pct:48.39697116159175,50.89364938521992,16.578057032382794,6.984408670300418/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:0041566123A:1854091501:0267/pct:48.40234144245744,50.90209997042295,16.578057032382794,6.980183377698905/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -544,7 +544,7 @@ treaty of Paris, wo never had so ominott* a
 question ; it even damps the joy with which  
 I hear ol your high health and welcomes t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hershey_ver01:data:sn85025182:00296028411:1857080502:0123/pct:57.02236890355702,33.21966467746519,12.504583791712504,2.3586246092639955/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hershey_ver01:data:sn85025182:00296028411:1857080502:0123/pct:57.02848062584036,33.2291370654542,12.504583791712504,2.3491522212749834/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -568,7 +568,7 @@ Missouri question is a breaker on which arper&#x27;s erry insurrectin and the tr
   
 we lose the Missouri country by revol
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_chacha_ver03:data:sn87056248:00200294543:1860031501:0231/pct:174.2816091954023,127.96870634255379,103.01724137931035,21.27223619260501/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_chacha_ver03:data:sn87056248:00200294543:1860031501:0231/pct:43.58083832335329,31.992176585638447,25.760479041916167,5.318059048151253/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -1266,7 +1266,7 @@ dren of Israel, and all their transgressions in all their sins,
 putting them upen the head of the goat, and shall send  
 him away by the hands of a fit man into the wilderness
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743051:1852040701:0581/pct:202.42814667988108,164.13007039892724,46.4816650148662,6.179461392334339/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743051:1852040701:0581/pct:67.4760488932937,54.71002346630908,15.493888338288734,2.0598204641114464/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1591,7 +1591,7 @@ them upon the head of the goat, and the
 goat shall bear upon him all their ini  
 quities into a land not inhabited
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279520956:1868100201:0942/pct:187.79554154469713,248.22416562555773,40.013510470614726,14.438693557023024/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279520956:1868100201:0942/pct:46.93831607384061,62.04496788008565,10.0011256190905,3.6090292648108493/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1711,7 +1711,7 @@ sins, putting them upon the head of the goat,
 and shall send him away by the hand of a fit  
 man into the wilderness; and the goat shal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743889:1874111201:0578/pct:39.81358189081225,96.72455997202471,62.966045272969374,40.72735750087423/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743889:1874111201:0578/pct:13.271193963604084,32.2415199906749,20.988681757656458,13.575785833624742/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1886,7 +1886,7 @@ doing so. .1 fit mail—one instructed.
 their iniquities unto a land not inhabited :  
 and he shall let go tile goat ill the wilder
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016184:1881102701:0171/pct:3.3753637245392825,80.90832632464256,12.492725509214354,10.120549481356882/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016184:1881102701:0171/pct:3.374709076803724,80.8969866853539,12.495151280062064,10.122634898388227/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1977,7 +1977,7 @@ ting them upon the head of the goat
 and sent him away in the wilderness  
 to bear the sins of the people, and t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_egret_ver01:data:sn86069392:00202195088:1882052501:0769/pct:99.06928645294725,322.46487218554256,54.18821096173733,45.64076519383782/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_egret_ver01:data:sn86069392:00202195088:1882052501:0769/pct:24.780134505949302,80.61621804638564,13.55406104500776,11.410191298459456/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2039,7 +2039,7 @@ man into the wilderness.&quot;
 The only trouble about carrying out the  
 excellent method in use among the Israelite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ulan_ver01:data:sn90059522:00175035382:1884052401:0198/pct:13.679323495274415,1.6252992314476502,52.677831205438565,97.31636638528411/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ulan_ver01:data:sn90059522:00175035382:1884052401:0198/pct:13.684850494666446,1.6252992314476502,52.69441220361466,97.32056612490025/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2132,7 +2132,7 @@ their sins, putting them upon the head of
 the goat, and shall send him away by the  
 hand of a fit man into the wilderness.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_galena_ver02:data:sn88065721:00279521602:1887030201:0470/pct:32.29098090849243,11.457485169245086,15.602369980250165,3.8269163661742467/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_galena_ver02:data:sn88065721:00279521602:1887030201:0470/pct:32.29646697388633,11.465239812337638,15.602369980250165,3.8269163661742467/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2172,7 +2172,7 @@ wilderness And the goat shall bear
 upon him all their iniquities unto a  
 land inhabited and he shall let g
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_griffith_ver01:data:sn85058130:00206535817:1887090401:0150/pct:76.71532846715328,65.48203670199018,20.419708029197082,19.42362367536831/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_griffith_ver01:data:sn85058130:00206535817:1887090401:0150/pct:51.168309602044545,43.65469113466012,13.61810879883169,12.949082450245541/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2650,7 +2650,7 @@ into the wilderness.&quot;
 And this, it is believed, will be sufficlent  
 atonement for the follies, blunders and crime
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_lotus_ver01:data:sn83030214:0017503917A:1897110701:0086/pct:52.913411458333336,95.42174109156518,47.900390625,17.580063148398736/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_lotus_ver01:data:sn83030214:0017503917A:1897110701:0086/pct:17.637803819444443,31.807247030521726,15.966796875,5.860021049466246/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2750,7 +2750,7 @@ putting them upon the head of the goat,
 and shall send him away by the hand of  
 a fit man into the wilderness. And th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_griffin_ver01:data:sn85042104:00332892046:1899080101:0024/pct:19.314641744548286,81.4961496149615,14.444990982128218,3.8943894389438944/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_griffin_ver01:data:sn85042104:00332892046:1899080101:0024/pct:19.314641744548286,81.4961496149615,14.455921735803683,3.8943894389438944/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

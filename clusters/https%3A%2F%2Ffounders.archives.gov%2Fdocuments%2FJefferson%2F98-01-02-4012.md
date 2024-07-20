@@ -108,7 +108,7 @@ With these sentiments, accept those of good
 will and respect to yourself.  
 Til: JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216365:1826083101:0052/pct:43.35627316040233,4.89272632129775,36.95076760190577,90.41514041514041/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216365:1826083101:0052/pct:43.35053592695514,4.8905936709964255,36.95028891535442,90.37863598058873/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -256,7 +256,7 @@ With these sentiments, accept those i
 of good will and respect to yourself.  
 ■ 1 TH: JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn84024505:00542866962:1826090101:0586/pct:31.74061433447099,9.567126725219573,13.118600682593856,33.12421580928482/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn84024505:00542866962:1826090101:0586/pct:31.733845169545745,9.565626470127018,13.121134570270847,33.12294182217344/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -318,7 +318,7 @@ tine. With these- sentiments, accept those of good
 will and respect to yourself.  
 THOMAS JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826090101:0212/pct:6.563525550867323,41.3470757430489,17.79965619628067,25.323585810162992/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826090101:0212/pct:6.5625,41.34212103055722,17.802083333333332,25.32454563610945/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -384,7 +384,7 @@ vidence may yet destine. With these sentiments,
 accept those of good will and respect to yourself.  
 THOMAS JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826090501:0140/pct:67.02875399361022,26.085379126859355,15.079872204472844,26.859354214536218/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826090501:0140/pct:67.0180482351062,26.08222490931076,15.08278762710962,26.860137041515518/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -646,7 +646,7 @@ these sentuneuts, .cc?t those of good wil
 ‘wnd respect to yourself.  
 | &#x27;I’HOMAS JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1826090701:1122/pct:76.62014911106863,42.36297767909314,18.275664308927546,34.20591328736707/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1826090701:1122/pct:76.62014911106863,42.3668731253165,18.275664308927546,34.209808733590435/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -728,7 +728,7 @@ sentiments, accept those of good will
 and icspectto yourself.  
 TH JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1826090701:0152/pct:77.43055555555556,9.334839711905099,17.36111111111111,47.46504730970202/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1826090701:0152/pct:77.41375569537861,9.333521604066648,17.36276849642005,47.46187517650381/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1938,7 +1938,7 @@ Providence may yet d estine. With these sen­
 timents, accept those of good wil I and respect  
 for yourself. THOMAS JE FFERSO
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_angelou_ver01:data:sn83030362:print00211110004:1849021101:0002/pct:34.33679706601467,76.66666666666667,10.116136919315403,18.072009291521486/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_angelou_ver01:data:sn83030362:print00211110004:1849021101:0002/pct:34.34825794621027,76.66957026713125,10.104676039119804,18.077816492450637/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2013,7 +2013,7 @@ sentiments, accept those of good will and re­
 spoct to yourself.  
 TI JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83021380:00279523878:1854102001:0145/pct:12.084507042253522,67.64507747088827,39.056338028169016,85.0351265518237/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83021380:00279523878:1854102001:0145/pct:4.027601746232925,22.54618937644342,13.016945970051166,28.342314600975108/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

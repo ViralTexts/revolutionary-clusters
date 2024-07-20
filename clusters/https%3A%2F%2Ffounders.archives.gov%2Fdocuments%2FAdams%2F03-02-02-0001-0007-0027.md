@@ -294,7 +294,7 @@ doing this, but he would do it as an evidence
 of his sincerity and begin now. We give  
 nothing to God for our redemption. It is 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_irvin_ver01:data:sn86081895:00280776609:1895031401:0473/pct:135.70205479452054,221.79562906083873,59.16095890410959,41.6420555227407/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_irvin_ver01:data:sn86081895:00280776609:1895031401:0473/pct:33.947312058256585,55.448907265209684,14.799742985650033,10.410513880685174/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -322,7 +322,7 @@ for I have learned, in whatsoever state
 I am, therewith to be content.” Notice,  
 that Paul had to learn this lesson an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_disco_ver01:data:sn90060762:00199919775:1897021801:0027/pct:30.69356452150717,30.392981612786926,14.454818272757587,2.427592837399351/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_disco_ver01:data:sn90060762:00199919775:1897021801:0027/pct:30.69356452150717,30.392981612786926,14.46593308880738,2.4436165524976965/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

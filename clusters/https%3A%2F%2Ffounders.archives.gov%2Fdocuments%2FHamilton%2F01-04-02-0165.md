@@ -623,7 +623,7 @@ proportion is still greater. There seems to he noth­
 ing to hinder their being increased in this country,  
 to at least treble their present amount.&quot;&#x27; (vizi 9 pe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184054:1831122001:0271/pct:81.10041265474553,42.09813874788494,14.718019257221458,3.496897913141568/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184054:1831122001:0271/pct:81.089258698941,42.09339048048725,14.720579470957686,3.5002631776825326/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -778,7 +778,7 @@ I have long lield the cpinion that the system
 of taxation in Maryland could be amended  
 with benefit to lair traders. Cash taxes op
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_jalapeno_ver02:data:sn83009567:0029602613A:1845012301:0086/pct:33.94967594357606,59.042626569181955,14.639725505146778,5.807697613463926/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_jalapeno_ver02:data:sn83009567:0029602613A:1845012301:0086/pct:33.94967594357606,59.04722490458454,14.652433600203329,5.8214926196716785/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -832,7 +832,7 @@ graded condition of paal
 ee ecmen bid shutinee. Revenue,  
 therefore, must be had at all events. Di
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn85025180:00212477606:1847013001:0443/pct:78.73015873015873,359.4161005925712,58.57142857142857,14.684202919497038/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn85025180:00212477606:1847013001:0443/pct:19.68644572335781,89.8540251481428,14.645763048223854,3.6710507298742594/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -853,7 +853,7 @@ cent;”—“There seems to be nothing to hinder j
 their being increased, in this country, to at least  
 treble their present amount.” Tne America
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:0041421583A:1849092101:0052/pct:44.32715168806467,84.3087895951332,12.84831193533048,3.2305433186490453/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:0041421583A:1849092101:0052/pct:44.32293647774819,84.30289470004195,12.850259921389629,3.232648114482823/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -885,7 +885,7 @@ tempts of some to heap odium upon Mr. Beebe,
 the indefatigable presidentof the company, on  
 account of his political connections, and hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn84022882:00414212426:1856042901:0385/pct:51.813194165663056,75.94511894186161,11.58838485213435,7.738624025268976/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn84022882:00414212426:1856042901:0385/pct:51.80626170725181,75.93762337149624,11.59017928819909,7.740327674694039/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -907,7 +907,7 @@ which would be relinquished by separa­
 tior. the asth number, Mr. Madison  
 couples the continuance of the Unio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867030501:0206/pct:105.73520439292251,115.3252480705623,42.34289200732154,8.335170893054025/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867030501:0206/pct:26.441867561794325,28.831312017640574,10.588953310955143,2.0837927232635063/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -976,7 +976,7 @@ by which they may check or stop at
 avtll the circulation of the material  
 system of the whole State. We pi 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_quartz_ver01:data:sn84022044:00279554838:1873082101:0824/pct:9.410689812699863,37.99472295514512,15.692096847875742,11.961301671064204/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_quartz_ver01:data:sn84022044:00279554838:1873082101:0824/pct:9.408540762731217,37.98915433093947,15.694222425211235,11.963212663051443/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1044,7 +1044,7 @@ into which its war plunged it. The
 State of Tennessee will witness ten  
 thousand homes sold by the sheriff i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00280779167:1876071301:0327/pct:231.1918850380389,63.62709395484341,52.24006762468301,26.219956300072834/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00280779167:1876071301:0327/pct:57.81018812090467,15.906773488710853,13.06277742549144,6.5549890750182085/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1091,7 +1091,7 @@ principal part of our commerce, but
 one side to guard the Atlantic  
 coast&quot; &quot;With what feelings would h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_iraryan_ver01:data:sn96061150:00200298251:1887091701:0266/pct:9.225650332728373,49.35794542536116,18.133696309739868,5.60651226782848/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_iraryan_ver01:data:sn96061150:00200298251:1887091701:0266/pct:6.157337367624811,32.90529695024077,12.087745839636915,3.7376748452189865/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1110,7 +1110,7 @@ states, there will be, as to the principal
 part of our commerce, but one side to  
 guard—the Atlantic coast.&quot; With wha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_neon_ver01:data:sn89064525:0021247924A:1887092301:0103/pct:56.83480453972257,30.940153023792057,8.902900378310214,2.3058379624777277/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_neon_ver01:data:sn89064525:0021247924A:1887092301:0103/pct:56.843211433375366,30.940153023792057,8.907103825136613,2.3128253502428118/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1141,7 +1141,7 @@ Accordingly, such has been the course of
 taxation in our history. The first excise taxes  
 were levied in 1791, to meet the war debt of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_fernandez_ver01:data:sn83030272:00175044796:1888011601:0425/pct:278.6430223592907,214.23295891675642,50.65535851966076,25.25003846745653/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_fernandez_ver01:data:sn83030272:00175044796:1888011601:0425/pct:69.66075558982267,53.558239729189104,12.66383962991519,6.312509616864133/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1168,7 +1168,7 @@ internal revenue taxes repealed. In his
 cech last Friday in the Senate Senator  
 ance said of the national tax
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chester_ver02:data:sn86053573:00211102068:1888011701:0057/pct:25.290023201856147,158.72918894149993,43.69682907965971,23.522223919352374/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chester_ver02:data:sn86053573:00211102068:1888011701:0057/pct:6.322505800464037,39.68229723537498,10.924207269914927,5.8805559798380935/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1262,7 +1262,7 @@ countries that in proportion as com
 merce has nourished land has risen in  
 value.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_hobbs_ver01:data:sn84024283:00294556862:1892051901:0051/pct:89.74358974358974,63.85139033114111,15.966010733452594,5.549786546671282/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_hobbs_ver01:data:sn84024283:00294556862:1892051901:0051/pct:67.3277661795407,47.894311757240104,11.989263346257083,4.165224414445598/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1284,7 +1284,7 @@ to the (uantity of money in circulation
 and to the celerity with which it circu­  
 late.&quot;Those who attribue our repeated depres
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_gary_ver01:data:sn87056600:00202191514:1894013101:0078/pct:95.23026315789474,16.2948999895277,16.15953947368421,4.272698711907006/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_gary_ver01:data:sn87056600:00202191514:1894013101:0078/pct:71.43248800548321,12.221174992145775,12.131596984235777,3.2045240339302543/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1306,7 +1306,7 @@ under federal regulation might be made to
 furnish a considerable revenue. &quot; On page  
 75 ho says. In writing of moans to rais
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_alliance_ver01:data:sn99021999:00206539161:1894050201:0052/pct:30.853314527503525,51.688913102696816,12.623413258110014,3.350585671479161/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_alliance_ver01:data:sn99021999:00206539161:1894050201:0052/pct:30.853314527503525,51.688913102696816,12.623413258110014,3.3608008716970854/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1325,7 +1325,7 @@ revenue chiefly on such duties. * *
 Duties on imported articles form n Inrgo  
 branch of this latter description. &quot; Fro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_alliance_ver01:data:sn99021999:00206539161:1894050201:0052/pct:30.853314527503525,55.05311904113321,12.623413258110014,2.070280577499319/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_alliance_ver01:data:sn99021999:00206539161:1894050201:0052/pct:30.853314527503525,55.06333424135113,12.623413258110014,2.070280577499319/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1352,7 +1352,7 @@ accordingly, become a primary ob­
 ject of their political cares.  
 &quot;In only two places below th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_ephemera_ver01:data:sn92053934:00212471860:1897101201:0651/pct:75.7818459191457,30.194902548725636,16.533180778032037,9.550224887556222/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_ephemera_ver01:data:sn92053934:00212471860:1897101201:0651/pct:56.87845830948292,22.65367316341829,12.402213318069071,7.166416791604198/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

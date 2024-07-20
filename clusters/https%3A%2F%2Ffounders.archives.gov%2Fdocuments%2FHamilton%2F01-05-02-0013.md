@@ -432,7 +432,7 @@ ewhose labors resulted in the constitu.­
 ition was the creature of a recommen.  
  dation of the 14th September 1786, o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn86053240:00237288464:1854060701:0135/pct:168.14146197099734,14.709960711809568,80.98549866824504,276.95863184654496/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn86053240:00237288464:1854060701:0135/pct:56.04715399033245,4.903320237269856,26.99516622274835,92.31954394884832/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -463,7 +463,7 @@ President, rt. lid lime an i place for com­
 mencing proceedings under the Conslitu  
 tion.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_grace_ver01:data:sn85033139:00271769301:1860051801:0178/pct:3.7142857142857144,9.069417580055879,12.9,9.348807221147647/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_grace_ver01:data:sn85033139:00271769301:1860051801:0178/pct:3.7142857142857144,9.069417580055879,12.90952380952381,9.359552976574253/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -488,7 +488,7 @@ the same, aud a day oa which tbe electors should assemble
 to vote for the President, and tbe time aud place for din­  
 me&#x27;.icing proceedings under .the new Constitution. It wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022810:1863062301:0160/pct:27.02744853399875,69.04361475501737,19.29195258889582,5.549949545913219/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022810:1863062301:0160/pct:20.2808112324493,51.78831707590537,14.477379095163807,4.159659154613746/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -511,7 +511,7 @@ the same, and a day on which the electors should assemble
 to vote for tbe President, and the time and place for com­  
 mencing proceedings under the new Constitution. It wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045706:00296022664:1863062401:0316/pct:26.449548192771083,70.00126630365962,20.3125,4.6726605039888565/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045706:00296022664:1863062401:0316/pct:19.85307967602185,52.50094972774471,15.238274627990206,3.5076611371406865/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -538,7 +538,7 @@ assemble and vote; and &quot;the time and
 &quot;place for commencing proceedings under  
 &quot;the Constitution;&quot; that after congres
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84022473:00280777560:1876012601:0083/pct:26.937269372693727,23.216863990759457,85.90405904059041,360.0346520358071/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84022473:00280777560:1876012601:0083/pct:6.734317343173432,5.804215997689864,21.476014760147603,90.00866300895177/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -575,7 +575,7 @@ That the electors should meet on the day fixed for the elec-­
 tion of the President, and should tran smit their votes, cer.­  
 tified, signed, sealed and directed, as the Constitution ree
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:00271743993:1876120601:0835/pct:7.937033968516984,118.3163737280296,46.180613090306544,12.962534690101757/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:00271743993:1876120601:0835/pct:2.6456779895056615,39.43879124267654,15.393537696768849,4.320844896700586/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -614,7 +614,7 @@ resentatives should convene at the time and
 place assigned; that the Senators should  
 appoint a President of the Senate, for th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777043:1876121501:0631/pct:145.49266247379455,75.90161845291195,39.063591893780576,38.689945201988024/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777043:1876121501:0631/pct:36.37316561844864,18.975404613227987,9.765897973445144,9.672486300497006/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -647,7 +647,7 @@ president, and should transmit their
 votee, certified, signed, sealed and di­  
 rected as the constitution requires, t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_baggs_ver01:data:sn84022149:00393349906:1876121601:1189/pct:42.41662859753312,46.248462484624845,12.539972590223847,9.418379898084694/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_baggs_ver01:data:sn84022149:00393349906:1876121601:1189/pct:42.43375970762906,46.261641187840446,12.522841480127912,9.418379898084694/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -681,7 +681,7 @@ resentatives elected; that the electors should
 meet on ths day uxed for the election of the  
 freildent, and should transmit their vo&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_funston_ver01:data:sn84027691:0023728334A:1876122101:0427/pct:35.34015653220951,87.93062485150867,12.868753762793498,8.208600617723924/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_funston_ver01:data:sn84027691:0023728334A:1876122101:0427/pct:26.517090799578376,65.95390829175577,9.66721879235055,6.153480636730815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -720,7 +720,7 @@ be appointed by the States, and also a day
 on which the electors should assemble to  
 vote for the President, and that they shoul
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00271742125:1877010301:0020/pct:133.54898336414047,35.92427414216802,41.37839978875099,21.225084190406843/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00271742125:1877010301:0020/pct:44.51632778804683,11.974758047389338,13.792799929583664,7.075028063468948/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -791,7 +791,7 @@ fixed for the election of the President, and should
 transmit their votes, certified, signed, sealed and  
 directed as the Constitution requires, to the Sccre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_dyerbrook_ver01:data:sn82014248:0033289593A:1877010901:0393/pct:4.837822979659153,64.37269895213821,12.387758841854499,7.901444350042481/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_dyerbrook_ver01:data:sn82014248:0033289593A:1877010901:0393/pct:4.836936606815684,64.36358487894663,12.390069622572371,7.90386521308226/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -849,7 +849,7 @@ election of the President, and should transmit
 their votes, certified, signed, sealed and directed,  
 as the Constitution requires, to the secretary o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777675:1877011001:0007/pct:60.773899848254935,57.98680814453685,42.1092564491654,30.169199885288215/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777675:1877011001:0007/pct:15.202125640539002,14.496702036134213,10.533308028088822,7.542299971322054/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -895,7 +895,7 @@ vene at the time and place assigned ; that
 the Senators should appoint a President of  
 he Senate for the tole purpose of receivin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_funston_ver01:data:sn84027691:0023728334A:1877011801:0445/pct:44.27747419550698,88.22049131216298,12.978142076502733,12.210904733373278/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_funston_ver01:data:sn84027691:0023728334A:1877011801:0445/pct:33.2219860309748,66.1713600958658,9.732766474339508,9.155182744158179/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -965,7 +965,7 @@ and place assigned; that the Senators
 should appoint a President of the Senate,  
 for the sots parpoce of receiving, epesing, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_palisade_ver02:data:sn84022046:00279553871:1877012201:0076/pct:28.293413173652695,138.29995798907717,43.28218562874252,40.12043131214116/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_palisade_ver02:data:sn84022046:00279553871:1877012201:0076/pct:7.072029934518241,34.57014841781014,10.818521983161833,10.02870344441333/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -992,7 +992,7 @@ electors should meet on the day fixed for the election of
 the President, and should transmit their votes, certifled,  
 signed, sealed, and directed, as the Constitution r
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:00206531289:1877012401:0180/pct:103.96039603960396,139.45121256973698,48.14153546502191,19.810998519867926/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:00206531289:1877012401:0180/pct:34.65346534653465,46.483737523245665,16.047178488340638,6.603666173289309/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1027,7 +1027,7 @@ and should transmit their votes, cer­
 tified, signed, scaled and directed, as  
 the Constitution requires, to the Sec
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn92056106:00279528761:1877012401:0143/pct:3.4064586455920427,18.064584887562614,9.142935004769042,7.716082276457423/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn92056106:00279528761:1877012401:0143/pct:3.4132715628832266,18.069913673665138,9.146341463414634,7.721411062559949/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1060,7 +1060,7 @@ President, and should transmit xtheir
 votes, certified, signed, sealed,.and di­  
 rected, as the Constitution requires, t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_engledinger_ver02:data:sn85033123:0051415126A:1877012501:0051/pct:20.89489235964542,23.80294204758614,14.605318699873365,10.869779840063185/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_engledinger_ver02:data:sn85033123:0051415126A:1877012501:0051/pct:20.89489235964542,23.80294204758614,14.605318699873365,10.882943363938526/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1101,7 +1101,7 @@ and should transmit their votes, certified,
 signed and sealed and directed, as the Consti­  
 tution requires to the Secretary of the Unite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668168:1877013001:0938/pct:14.494549058473737,193.36144342027848,28.989098116947474,17.326926848401648/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668168:1877013001:0938/pct:4.832114979556437,64.45381447342616,9.664229959112873,5.775642282800549/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1135,7 +1135,7 @@ transmit their votes, certified, sinned.
 sealed, and directed, as the Cons t it u-4  
 tion requires, to the. Secretary ol th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775447:1877020101:0360/pct:67.94743845642049,95.0070594275446,15.186294078509647,11.962520857399564/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775447:1877020101:0360/pct:50.990181394574805,71.26171223206264,11.399567315693126,8.971890643049672/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1206,7 +1206,7 @@ the President, and should transmit their
 votes, certified, signed, sealed, and direc  
 ed, as the Constitution requires, to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_felice_ver01:data:sn87052128:00200292182:1877020201:0475/pct:8.286778398510242,19.317498496692725,23.88268156424581,18.625977149729405/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_felice_ver01:data:sn87052128:00200292182:1877020201:0475/pct:6.219426974143955,14.491882140709562,17.936175168879572,13.980757666867108/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1303,7 +1303,7 @@ electors should assemble to vote
   
 the President, and the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_barberry_ver04:data:sn87090072:00280774455:1883031701:0094/pct:141.12377850162866,143.50161117078412,107.73615635179154,11.723185514807426/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_barberry_ver04:data:sn87090072:00280774455:1883031701:0094/pct:35.302505601955595,35.87540279269603,26.95049908331636,2.9307963787018565/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1334,7 +1334,7 @@ dent, and should transmit their votes
 certifted, signed, sealed and directed as  
 the Constitution requires, to the Secre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn82014424:00211102834:1885021001:0145/pct:79.35973041280539,256.9662387066096,48.69418702611626,30.242510699001425/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn82014424:00211102834:1885021001:0145/pct:19.839932603201348,64.2415596766524,12.173546756529065,7.560627674750356/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1481,7 +1481,7 @@ with the president, should without delay
 proceed to execute tho constitution.  
 This resolution was adopted on th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_hickok_ver01:data:sn85032490:00237286625:1889021901:0396/pct:25.25695284159613,29.215068939311692,18.833131801692865,23.754206926500924/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_hickok_ver01:data:sn85032490:00237286625:1889021901:0396/pct:16.843060175385546,19.476712626207796,12.56425763531902,15.839756812506785/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

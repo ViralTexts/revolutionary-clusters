@@ -55,7 +55,7 @@ To the President (Monroe), June 11, 1823.
 Ideas, and little indeed of them, for l read but a single  
 paper, and that hastily.” (We shall show that (his singl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1832101201:0183/pct:2.911409954249272,25.718343712444007,14.834326909746292,1.8354637823664373/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1832101201:0183/pct:2.911006376490158,25.715534192702645,14.836891230015711,1.8389046682688805/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -87,7 +87,7 @@ not bound to go ; and, indeed, for the take of the world, we
 ought not to increase the jealousies, or draw on ourselvss  
 tbe power of the I&#x27;ormidaole confederacy &quot; (4th vol. Jel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661204:1852032001:0280/pct:37.180122172692755,66.81483362966726,16.031038467888393,7.797815595631191/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661204:1852032001:0280/pct:37.180122172692755,66.8233003132673,16.03654174233669,7.797815595631191/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -128,7 +128,7 @@ than this we are not bound to go; and indeed, for the sake of
 the world, we ought not to increase the jealousies or draw on  
 ourselves the power of the formidable confederacy.&quot; (+t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1852032701:0139/pct:34.70629865534324,80.98706381128383,15.83864118895966,7.6747472551364275/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1852032701:0139/pct:34.71573484312338,80.9943109758307,15.848077376739797,7.671123672862993/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -278,7 +278,7 @@ it because the first war on other accounts will
 give it to us, or the island will give itself to us  
 when able to do so
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175042829:1895100101:0581/pct:230.69306930693068,128.99893665502051,50.495049504950494,10.694212365183047/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175042829:1895100101:0581/pct:57.67326732673267,32.24973416375513,12.623762376237623,2.6735530912957617/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -319,7 +319,7 @@ Cuba: &quot;Its possession by Great Britain would
 indeed be a great calamity to us.&quot; Two years  
 later, when John Quincy Adams was Presiden
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kaiser_ver01:data:sn83030214:00175039028:1896120901:0152/pct:102.54223388551746,254.4076043906303,47.64638346727899,8.645467918977028/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kaiser_ver01:data:sn83030214:00175039028:1896120901:0152/pct:34.18074462850582,84.80253479687677,15.88212782242633,2.8818226396590094/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -337,7 +337,7 @@ dent Monroe about the island, that *‘its
 possession by Great Britain would in­  
 deed be a great calamity to us.” I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_deathkiss_ver01:data:sn92064073:00514153760:1897011501:0317/pct:6.991137994091996,76.44970414201184,14.066676044450697,2.485207100591716/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_deathkiss_ver01:data:sn92064073:00514153760:1897011501:0317/pct:7.00051577812163,76.45627876397107,14.066676044450697,2.485207100591716/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -384,7 +384,7 @@ Subsequently Jefferson was informed that
 there was not a man in Cuba who favored  
 its becoming a British colony, and tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:00415665702:1897061801:0462/pct:16.538513422366112,26.769755999598353,12.532038311075139,15.202329551159755/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:00415665702:1897061801:0462/pct:16.547506632492468,26.769755999598353,12.536534916138315,15.212370719951803/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -410,7 +410,7 @@ ances, their forms ami principles of gov­
 crnmi&#x27;iit aro all foreign to us. They aro  
 nations of eternal war.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_atherton_ver01:data:sn84026355:00211100242:1897100101:0017/pct:75.01915708812261,85.69871969490602,16.704980842911876,8.213020975211114/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_atherton_ver01:data:sn84026355:00211100242:1897100101:0017/pct:56.28593330778076,64.27403977117952,12.533537753928709,6.1699809316262595/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -469,7 +469,7 @@ complicated alliances, their forms and
 principles or gov?rnment are all foreign  
 to us. They are nations of eternal war.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_frank_ver01:data:sn96091104:00296020837:1898092301:1039/pct:48.53971962616822,62.41699867197875,18.419003115264797,8.685258964143426/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_frank_ver01:data:sn96091104:00296020837:1898092301:1039/pct:36.42384105960265,46.81274900398407,13.82937280872614,6.52058432934927/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -514,7 +514,7 @@ would not immediately go to war for it,
 accounts will give it to us, or the island  
 will give itself to us when able to do so.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_dakin_ver03:data:sn84023253:0020219705A:1898111601:0775/pct:42.11678832116788,304.7036938612809,47.88321167883212,11.480201966516077/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_dakin_ver03:data:sn84023253:0020219705A:1898111601:0775/pct:10.531118817302428,76.17592346532022,11.972987771491148,2.8700504916290193/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -532,7 +532,7 @@ for it, (Cuba) because the first war on other
 accounts will give it to us, or the is&#x27;and will  
 give itself to us when able to do so.&quot; I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn86071719:00280777729:1898111601:1219/pct:177.16827279466273,259.62935507783544,49.22164566345441,6.997776130467012/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn86071719:00280777729:1898111601:1219/pct:44.316706842202855,64.90733876945886,12.312256628963471,1.749444032616753/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -591,7 +591,7 @@ Jefferson is heard, “The day is not
 far distant when we may formally  
 acquire a meridian of partitio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588496:1899042001:0526/pct:45.204589738038536,20.569620253164558,17.64451179909071,16.606389391199517/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588496:1899042001:0526/pct:35.03914988814318,15.945188414824042,13.685682326621924,12.873715353472438/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -620,7 +620,7 @@ tin* direction of till our means and facttl
 ties to. the purposes of improvement in­  
 stead of destruction * Peace an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:0033289206A:1899042301:0708/pct:16.68702290076336,46.50534476682721,12.732824427480915,7.729355103958651/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:0033289206A:1899042301:0708/pct:16.68702290076336,46.50534476682721,12.743002544529261,7.733270684051842/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -731,7 +731,7 @@ with a little prudence and fors
 bearance, may be general&#x27;y ac­  
 commodated.&quot;That doctrine is as true an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_black_ver02:data:sn84020751:00415667863:1899050401:0085/pct:7.938114517061885,76.28616390267523,14.37246963562753,33.119477060888514/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_black_ver02:data:sn84020751:00415667863:1899050401:0085/pct:5.959785910603212,57.220675463019006,10.791262838131058,24.839607795666385/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -763,7 +763,7 @@ our means and f aoulties to the par­
 poses of improvement instead of de?  
 struction. * * * Peace and ne
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_franck_ver01:data:sn84024716:00175032629:1899051001:0287/pct:2.5838979045218213,39.71599733747504,13.990861824484009,13.756378966052807/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_franck_ver01:data:sn84024716:00175032629:1899051001:0287/pct:2.5838979045218213,39.71969528881,13.996113649493198,13.760076917387767/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -803,7 +803,7 @@ our means and faculties lo the pur?
 poses of improvement instead of de?  
 struction. ? * * Peace and neutral
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hazel_ver01:data:sn86071779:00175031418:1899051101:0181/pct:17.41479634247714,66.52616279069767,16.29260182876143,14.215116279069768/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hazel_ver01:data:sn86071779:00175031418:1899051101:0181/pct:17.421723469105014,66.53100775193798,16.299528955389306,14.224806201550388/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -855,7 +855,7 @@ kind and the direction of all our means
 and facilities to the. purposes of im­  
 proving instead of destruction
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_green_ver01:data:sn91068367:00296024272:1899071401:0433/pct:65.22408963585434,27.159280731060235,18.669467787114847,7.7134715535029965/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_green_ver01:data:sn91068367:00296024272:1899071401:0433/pct:48.942132548689926,20.369460548295176,14.011489421325487,5.787560184730274/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -895,7 +895,7 @@ tornity with mankind and the direction of all
 our means and facilities to the purposes of  
 improving instead of destructio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_charlie_ver01:data:sn86071197:00175034936:1899071801:0224/pct:29.235618597320723,253.9440580139115,106.30417651694248,31.493266242415274/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_charlie_ver01:data:sn86071197:00175034936:1899071801:0224/pct:7.310344827586207,63.486014503477875,26.58128078817734,7.8733165606038185/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

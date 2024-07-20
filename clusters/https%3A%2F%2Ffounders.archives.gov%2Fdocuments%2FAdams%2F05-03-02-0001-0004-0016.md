@@ -1128,7 +1128,7 @@ the fcalc of proximity is enlarged, and it was
 enough that the lord Dacre and his affociates  
 were in the fame park to implicate them in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1807092601:0170/pct:60.59275521405049,27.188264058679707,17.691181851445297,11.662591687041564/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1807092601:0170/pct:60.581671849277484,27.184940716293852,17.694043046155723,11.665240598133888/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1162,7 +1162,7 @@ ty and upon the fame put/uih and under the fame
 engagement and expedition of mutual defence 31  
 fuff or t UUP tbtje who did thefu(lt ” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1807092601:0170/pct:60.00731796560556,84.42542787286064,17.764361507500915,11.36919315403423/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1807092601:0170/pct:59.99634168648253,84.41510817748441,17.76720931650509,11.371877928533594/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1184,7 +1184,7 @@ sembly to rob or to do a-* t unlawful act of vi­
 olence^ there the offence of one is tae offence  
 of all the company
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812081401:0748/pct:76.8169843483651,35.33937895026106,21.32341546567488,5.917376568654392/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812081401:0748/pct:76.80508211961575,35.336142150577025,21.325276314430326,5.919887647310252/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1206,7 +1206,7 @@ Ibid 44 3. If any&#x27; come upon an unlawful
 fhe adverse party, in puisuauce of lm.t ded^ii,  
 all are principals
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812081401:0748/pct:76.80148768014877,41.2750755702116,21.354408802107546,5.798296235229459/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812081401:0748/pct:76.78958785249458,41.27129510899432,21.35626484867266,5.800818220675337/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1227,7 +1227,7 @@ tney are not ah gunty that are ol the
 coroW but only those that gave the stroke  
 or actually abetted him to do it. [ The au
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812081401:0749/pct:2.934947049924357,16.723329964164293,20.998487140695914,5.4212992740972155/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812081401:0749/pct:2.934503100892452,16.721793458287394,21.000352947108354,5.423863775572706/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1683,7 +1683,7 @@ criminately, fall where it may, and death ensue,
 agains r beside the original intention of the party,  
 it wilsbe murder--. S. saiile proposition 540
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00200290197:1841101501:0167/pct:66.76535899333827,287.40609809986745,50.11102886750555,9.544851966416262/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00200290197:1841101501:0167/pct:16.697519437245465,71.85152452496686,12.532395409107737,2.3862129916040655/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2243,7 +2243,7 @@ that the design is to destroy life or commit a felony
 upon the person assaulted, the killing of the  
 sailant in such case will be justifiable homicide i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_diglett_ver01:data:sn82015378:00295872366:1850052901:0519/pct:49.81617647058823,93.16265060240964,38.60294117647059,29.367469879518072/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_diglett_ver01:data:sn82015378:00295872366:1850052901:0519/pct:16.605392156862745,31.05421686746988,12.867647058823529,9.789156626506024/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2398,7 +2398,7 @@ person, habitation or property, against one who
 manifestly intends or endeavors, ly violence or  
 surprise, to commit a known felony, such as&#x27;mur-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_lilac_ver02:data:sn82015408:00237289687:1852101601:0523/pct:48.515013054830284,79.7544617483233,20.593994778067884,4.069569171308401/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_lilac_ver02:data:sn82015408:00237289687:1852101601:0523/pct:36.40816326530612,59.81584631124247,15.461224489795919,3.05786063430715/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2442,7 +2442,7 @@ finds himself out of danger; and il, in a
 conllict between them, he happeneth to kill,  
 such killing will be justifiable. (Whar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279559836:1854061701:0995/pct:218.98395721925132,242.50325945241198,50.378787878787875,20.746414602346807/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279559836:1854061701:0995/pct:54.73379371797728,60.615936125142575,12.591891289819559,5.185758513931889/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2505,7 +2505,7 @@ lawful, and the subsequent breach of the peace
 happening unexpectedly without any previous intention.  
 An affray differs also from a riot in this 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014015:0041566106A:1857082601:0045/pct:76.17021276595744,54.42546583850932,17.386018237082066,6.421916592724046/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014015:0041566106A:1857082601:0045/pct:76.17021276595744,54.43286010056197,17.391084093211752,6.421916592724046/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2550,7 +2550,7 @@ ffray, of which none are guilty but thoae who actually
 engaged In It; and this on the ground of  
 the design of their uoeting being innocent and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014016:00415661058:1858021301:0038/pct:26.468035869250794,89.38093603387115,14.391090540931444,6.568257237670214/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014016:00415661058:1858021301:0038/pct:26.468035869250794,89.38856467177786,14.405553948510269,6.572071556623565/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2589,7 +2589,7 @@ offer with force or violence to do a cor
   
 poral hurt to another, whether from malic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_junebug_ver01:data:sn84020047:00415661885:1861032201:0033/pct:197.6117886178862,140.2287009374678,34.40040650406504,4.203152364273205/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_junebug_ver01:data:sn84020047:00415661885:1861032201:0033/pct:49.40922373268962,35.05717523436695,8.601194257400584,1.0507880910683012/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2618,7 +2618,7 @@ fact, and to lie collected from circumstances
 given in evidence, and (lie net was done heedless­  
 ly and incautiously, it will be manslaughter
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn82014998:00279557980:1861071301:0121/pct:2.9156102861282145,50.32532200239012,14.541832669322709,7.223476297968397/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn82014998:00279557980:1861071301:0121/pct:2.9291923216226006,50.32864161465941,14.546360014487504,7.2301155225069715/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2669,7 +2669,7 @@ concerned, for Magna Chartaand the law;
 and if any one against law imprison a man,  
 be is an offender against Magna Charta.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_henson_ver01:data:sn88065733:00415625649:1862101101:0173/pct:54.634892872759075,114.07502863688431,21.665937909925667,5.040091638029782/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_henson_ver01:data:sn88065733:00415625649:1862101101:0173/pct:42.34722692872472,88.4076197521731,16.807861741782446,3.9134455335675975/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2857,7 +2857,7 @@ person present, may interpose to prevent the mis­
 chief; and if death ensue, the part y so interposing  
 will be justified. (I, Hale 491, 484. Post. 279. Ant
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_farmington_ver01:data:sn83016025:00279525280:1869092401:0139/pct:3.7655533726260644,73.18448613189089,10.821872953503602,4.534468868684543/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_farmington_ver01:data:sn83016025:00279525280:1869092401:0139/pct:3.764936978228843,73.17606444188722,10.824193812407923,4.536823935558113/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2954,7 +2954,7 @@ to kill him, and that he is not obliged to retreat,
 but may pursue his adversary until he has se­  
 cured himself from all danger, and if he kill hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_klm_ver01:data:sn86053572:00237288944:1872102801:0415/pct:29.633113828786453,359.90063875088714,43.93226716839135,7.735982966643009/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_klm_ver01:data:sn86053572:00237288944:1872102801:0415/pct:7.410021171489062,89.97515968772178,10.985650435191719,1.9339957416607523/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3272,7 +3272,7 @@ principals.t
 in popular tumults, such as we have  
 just passed through, (speaking of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477874:1877080801:0160/pct:135.90138674884437,189.26327812678468,40.36979969183359,30.496858937749856/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477874:1877080801:0160/pct:33.97534668721109,47.31581953169617,10.092449922958398,7.624214734437464/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3447,7 +3447,7 @@ able. The right of self-defense in cases of
 this kind is founded upon the law of nature,  
 and is not nor can lie stqierceded by an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fireweed_ver01:data:sn83016209:00383342417:1880111201:0607/pct:9.122486288848263,65.37979094076655,13.382084095063986,7.902439024390244/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fireweed_ver01:data:sn83016209:00383342417:1880111201:0607/pct:7.074714272220648,50.6732915676532,10.375932747709456,6.124432922877511/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3586,7 +3586,7 @@ ueatii onsucin iiih parly so Interposing will bo
 justified In this caso nature and social duty  
 cooporato Fost Cr Law 27
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_damsel_ver01:data:sn83025121:00211108915:1885101301:0142/pct:83.93118594436311,48.54082998661312,14.568081991215227,9.504685408299865/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_damsel_ver01:data:sn83025121:00211108915:1885101301:0142/pct:62.987548068119395,36.40896921017403,10.936641640725142,7.125167336010709/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3609,7 +3609,7 @@ tbeso cases he is not obliged to retreat but
 may pursuohis adversary until be lias secured  
 himself from all dinger and if ho kill him i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_damsel_ver01:data:sn83025121:00211108915:1885101301:0142/pct:84.00439238653001,58.5809906291834,14.421669106881405,4.779116465863454/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_damsel_ver01:data:sn83025121:00211108915:1885101301:0142/pct:63.04248306171031,43.93574297188755,10.826771653543307,3.5977242302543506/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3783,7 +3783,7 @@ or promotes ahd takes part in the riot,
 whether by words, signs or gestutes, or by  
 wearing the badge or ensign of the rioters
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_eisenhower_ver01:data:sn84024546:00237282188:1892070801:0101/pct:40.00757002271007,31.10372524581083,16.559424678274034,11.20343442736463/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_eisenhower_ver01:data:sn84024546:00237282188:1892070801:0101/pct:30.03219087294073,23.334718183077136,12.421889793599696,8.40603794488298/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3843,7 +3843,7 @@ violence or surprise, to commit a felony . . . . , aud in these
 cases he is not obliged to retreat, but may pursue his adversary  
 until he has freed himself from all danger
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287186:1894011701:0465/pct:28.514548238897397,92.85714285714286,23.108728943338438,3.304904051172708/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287186:1894011701:0465/pct:28.514548238897397,92.85714285714286,23.124042879019907,3.308457711442786/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3961,7 +3961,7 @@ be instantly met.
 Murder is divided into two degrees  
 by our statute: Murder in the firs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_krypton_ver01:data:sn88076086:00199918382:1896101701:0629/pct:47.50625521267723,65.89422966616955,14.361968306922435,8.225306871630147/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_krypton_ver01:data:sn88076086:00199918382:1896101701:0629/pct:47.51181540172366,65.90187755726359,14.361968306922435,8.217658980536116/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4078,7 +4078,7 @@ his adversary till he finds himself out of danger;
 and if in a conflict between them he happened  
 to kill, such killing is justifiable
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042982:1898030901:0880/pct:113.53441608662027,298.91107078039926,51.97215777262181,13.188142770719903/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042982:1898030901:0880/pct:28.389093018758462,74.72776769509981,12.995552117578805,3.2970356926799758/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4100,7 +4100,7 @@ mischief, and if death ensues the party so in­
 terposing will be justifled. Here the law of  
 self-defence plainly coincides with the dictate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042982:1898030901:0880/pct:113.61175560711524,316.33393829401086,51.430781129157,11.796733212341199/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042982:1898030901:0880/pct:28.40843163798105,79.08348457350272,12.860181783020693,2.9491833030852996/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

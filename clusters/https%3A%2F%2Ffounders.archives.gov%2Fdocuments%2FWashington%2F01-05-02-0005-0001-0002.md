@@ -123,7 +123,7 @@ filled my mind with sensatious as painful as
 Ibey were pleasing.&quot;  
 Before the arrival ofthc Presidentelect
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:0041615689A:1847061201:0601/pct:8.056805399325084,99.42275042444821,19.53037120359955,5.512167515563101/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:0041615689A:1847061201:0601/pct:6.046969483898186,74.56706281833617,14.653353958655604,4.142614601018676/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -175,7 +175,7 @@ mind with sensations as painful as they
 were pleasing.  
 Before the arrival of the Presiden
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1847062401:0887/pct:191.8918918918919,330.56465347831784,57.76061776061776,23.739027905148696/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1847062401:0887/pct:47.972972972972975,82.64116336957946,14.44015444015444,5.934756976287174/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -198,7 +198,7 @@ the whar ves, billed my mind with sensaticns
 as puinful as they were pleasing.&quot;  
  o e ae o e ee 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:0041566770A:1847071501:1060/pct:186.63194444444446,110.34280691473776,58.68055555555556,20.685613829475535/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:0041566770A:1847071501:1060/pct:46.657986111111114,27.58570172868444,14.67013888888889,5.171403457368884/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -223,7 +223,7 @@ as painful (considering the reverse of this
 Sonne, which may lie the cose alter all my  
 labors to do good) n they are pleas
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_felice_ver01:data:sn87052128:00200292170:1873032101:0050/pct:24.661552346570396,112.27154046997389,16.493682310469314,7.101827676240209/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_felice_ver01:data:sn87052128:00200292170:1873032101:0050/pct:18.514337322194628,84.21235857267189,12.372996161661774,5.326370757180157/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -280,7 +280,7 @@ ations of the ships, the roar of cannon,
 and the loud acclamations of the people  
 •which rent the skies, as I passed along
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_antares_ver03:data:sn90059959:00271742800:1889050401:0580/pct:64.95660260384376,92.80583369612538,13.93366398016119,4.288202002612103/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_antares_ver03:data:sn90059959:00271742800:1889050401:0580/pct:64.9669353172143,92.80583369612538,13.93366398016119,4.291829923088086/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -300,7 +300,7 @@ verse of this scene, which may be the
 case after all my labors to do good) as  
 they are pleasing-,&quot; remarks which in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_antares_ver03:data:sn90059959:00271742800:1889050401:0580/pct:79.54122752634842,19.09011754462342,14.088654680719157,3.0256856769699607/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_antares_ver03:data:sn90059959:00271742800:1889050401:0580/pct:79.54639388303369,19.097373385575388,14.093821037404423,3.0184298360179946/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

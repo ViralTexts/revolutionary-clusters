@@ -38,7 +38,7 @@ of the people, or by the more certain reliance?the hand of
 death. On this or that side of the Styx, 1 am ever aud devotedly  
 yours.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848120301:1195/pct:52.29939739930225,19.889572091855943,16.666666666666668,5.245325636842765/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848120301:1195/pct:52.29939739930225,19.89375496716443,16.677238608732424,5.249508512151253/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -65,7 +65,7 @@ storing his party to power, and wriggling himself
 his hopes, nor scrupulous as to the means of ful­  
 filling them ?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661538:1854031501:0264/pct:44.971917625033434,50.84419747809361,12.984755282161005,6.646719384483864/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661538:1854031501:0264/pct:44.976375144869394,50.84775949276911,12.984755282161005,6.650281399159365/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -91,7 +91,7 @@ back with tho highest approbation and pleasure.
 said Mr. Jefferfoo, &quot;is the most portentous one that I  
 have ever contemplated.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1854042801:0206/pct:20.81447963800905,76.80633769208742,17.909794190629107,4.276033215615157/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1854042801:0206/pct:20.82421057753126,76.80633769208742,17.900063251106893,4.285577932614298/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -133,7 +133,7 @@ t An altercation occurred on the 2d inst, at
 New Orleans, between the door-keeper of the Va­  
 rieties Theatre named McGarthy and a man name
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293174:1854051401:0459/pct:21.401752190237797,311.93455245428294,52.19023779724656,53.368623676612124/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293174:1854051401:0459/pct:5.350438047559449,77.98363811357073,13.04755944931164,13.342155919153031/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -151,7 +151,7 @@ line of division,” laid Mr. Jefferson, “is the
 most portentious one that I have ever contem­  
 plated.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn84022882:00414212426:1854051601:0024/pct:2.9400079459674213,83.53938185443668,13.097602966494504,1.9840478564307078/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn84022882:00414212426:1854051601:0024/pct:2.9396186440677967,83.53105373342638,13.099179025423728,1.9863423387498753/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -182,7 +182,7 @@ Monroe said &quot; that the proposed restriction as
 to territories which are to be admitted into the  
 Union, if not in direct violation of the Consti
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661538:1854060201:0546/pct:31.597084161696486,28.067436778020607,12.829688535453943,3.663232386304506/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661538:1854060201:0546/pct:31.60150209851999,28.067436778020607,12.83852440910095,3.6667013563672946/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -220,7 +220,7 @@ line of division,&quot; said Mr. Jefferson, &#x27;is the
 most portentous one that 1 have ever centeiu­  
 plated.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn86083363:00415668831:1854061401:0599/pct:38.17504655493482,77.29992520568437,11.024208566108008,1.5332834704562452/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn86083363:00415668831:1854061401:0599/pct:38.18332298779226,77.30304163550237,11.028346782536726,1.5363999002742459/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -238,7 +238,7 @@ line of division,&#x27; &quot; said Mr. Jefferson, &quot; &#x27;is the
 most portentous one that I have ever contem­  
 plated.&#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn86071378:0021247762A:1854062201:0360/pct:27.994875080076874,47.55270620145482,19.090326713645098,2.5274318826285294/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn86071378:0021247762A:1854062201:0360/pct:21.006248998557922,35.66761188509432,14.340650536772953,1.8986561459746023/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -281,7 +281,7 @@ s Thomas Jefferson once said :
 s I have ever contemplated.&quot;  
 In 1820 he wrote to John Holmes 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn82005159:00296028435:1854090101:0027/pct:31.545198623709727,81.03611045551098,14.90459806068189,2.7141845645503895/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn82005159:00296028435:1854090101:0027/pct:31.550411844437495,81.04397765714735,14.90459806068189,2.7141845645503895/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -365,7 +365,7 @@ to &#x27;power, and wriggling himself to the head of
 it.&quot; On another occasion, he declared the  
 question to be a mere parly trick,&quot; that (he
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hershey_ver01:data:sn85025182:0029602840A:1857080501:0278/pct:56.059269712471334,71.26517932787348,11.87158228964544,3.9819260096018074/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hershey_ver01:data:sn85025182:0029602840A:1857080501:0278/pct:56.059269712471334,71.26988609620635,11.883342153231023,3.9772192412689447/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -385,7 +385,7 @@ the Union for any chance of restoring his party
 to power, and wriggling himself to the heau of  
 it.&quot; On another occasion, he declared th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hershey_ver01:data:sn85025182:00296028411:1857080502:0123/pct:56.985698569856986,71.83859050866724,12.797946461312797,3.523728331912475/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hershey_ver01:data:sn85025182:00296028411:1857080502:0123/pct:56.997922014423665,71.84806289665624,12.791834739029458,3.5142559439234633/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -405,7 +405,7 @@ King (a distinguished federalist) was
 of restoring his party to power, and wrig­  
 gling himself to the head of it.&quot; On ano
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn85025181:00237287939:1857080801:0402/pct:278.4902597402597,232.01542912246865,50.48701298701299,16.00771456123433/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn85025181:00237287939:1857080801:0402/pct:69.66497461928934,58.00385728061716,12.629441624365482,4.0019286403085825/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -440,7 +440,7 @@ ever contemplated.&quot; He said, also, i
 line of division, is the most PORTENTOUS  
 oneul.have ever contemplated.&#x27;&#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn83035173:00296027297:1859101201:0173/pct:25.875933371625504,16.170475602223593,16.039632395175186,1.9888820259419395/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn83035173:00296027297:1859101201:0173/pct:19.42249676770579,12.130945027794935,12.03850021548628,1.4947498455836936/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -474,7 +474,7 @@ himself to the head of it: nor is
 the  
 means of fulfilling them.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_junebug_ver01:data:sn98021556:00415661915:1860030301:0602/pct:71.47186147186147,58.84334643458731,20.064935064935064,13.222908478382932/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_junebug_ver01:data:sn98021556:00415661915:1860030301:0602/pct:53.649555988737276,44.13250982594048,15.0530647606671,9.924199887703537/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

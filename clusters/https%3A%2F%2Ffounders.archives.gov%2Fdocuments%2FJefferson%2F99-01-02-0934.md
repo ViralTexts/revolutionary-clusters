@@ -200,7 +200,7 @@ nt ■MASSACt) VsE Tt S SPY, • for 1771
 fide, and the filial obedience on the other, be  
 had in everlasting remembrance”—So w»(h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021193:00517172169:1772091701:0298/pct:12.577012959422138,5.0435019032082655,83.06777140429148,117.46873300706906/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021193:00517172169:1772091701:0298/pct:9.746995225289501,3.915715539947322,64.38724548597772,91.0342405618964/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -92,7 +92,7 @@ affirmation :—¢ I do solemnly swear (or
 afti-m) that I will taithfully execute the of­  
 fizce ot president of the United States, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1787100601:0066/pct:67.61153561745132,8.159236716565225,28.025634705447374,14.657015956571804/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1787100601:0066/pct:67.61975186919727,8.159236716565225,28.01741845370142,14.667982672588693/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -176,7 +176,7 @@ territory, and but ing rcsided twelve calm.
 der mouths in his electoral division next  
 preceding an .election of representatives
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215981:1802020301:0684/pct:76.28161312371839,52.376629806898826,19.94531784005468,26.274962865159267/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215981:1802020301:0684/pct:76.27118644067797,52.37230794620018,19.947147803900126,26.27554528701488/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -206,7 +206,7 @@ It shall be the judge of the classification:
 and due election of its own members, and  
 a mathity shall co&#x27;nsiitute : quorotn to d
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215981:1802020301:0684/pct:76.3362952836637,78.59382736425152,20.177717019822282,12.246245254992573/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215981:1802020301:0684/pct:76.32586112629852,78.58734218994967,20.179515217787497,12.247985257309459/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -232,7 +232,7 @@ ntctvs us the members on every question,
 sisizlla: the dsisisite of one fifth of those  
 ; r- sent, be entered on the journsid.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215981:1802020301:0685/pct:4.736990950226244,4.7112970711297075,20.432692307692307,10.251046025104603/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215981:1802020301:0685/pct:4.736321221546727,4.710902853317714,20.43451623544936,10.252977435639975/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -283,7 +283,7 @@ sans wring for and against the bill, shall
 beentered on their jtssumal. If any bill  
 shall not be returned by the Preszdessi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215981:1802020301:0685/pct:4.963235294117647,32.79497907949791,20.17816742081448,24.652719665271967/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215981:1802020301:0685/pct:4.9625335783967195,32.79223495941762,20.18002733399312,24.65344601567512/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -349,7 +349,7 @@ ss States, and faithfully execute the office of
 governor of the tertitory otsi Columbia.&quot;  
 And the lie uteuam gotetnor (in ease one
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215981:1802020301:0685/pct:4.878393665158371,4.485355648535565,41.699660633484164,88.03347280334728/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215981:1802020301:0685/pct:4.877703944577973,4.484980336373526,41.6984777793487,88.02889576883385/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -393,7 +393,7 @@ oslife or limb; nor shall i.:c competled in
 any ctiminal calc to &#x27;xsie witncsa against  
 h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215981:1802020301:0685/pct:25.777714932126695,39.58995815899581,20.800339366515836,23.179916317991633/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215981:1802020301:0685/pct:25.77407040859607,39.58664546899841,20.8021113153306,23.18076590522411/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -451,7 +451,7 @@ time the office of those first chosen shall
   
 cease.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215981:1802020301:0685/pct:47.04468325791855,37.07949790794979,20.630656108597286,31.606694560669457/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215981:1802020301:0685/pct:47.0380319524954,37.07639528072965,20.632452047693103,31.606839037179594/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -515,7 +515,7 @@ ft led twelve palender month
 lecftoral divilion next proceed rg a 1 elec­  
 tion of representatives, and I ; yin 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_burmese_ver01:data:sn83045242:print:1802020501:0001/pct:57.92042042042042,67.6437144662034,15.728228228228229,24.902084649399875/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_burmese_ver01:data:sn83045242:print:1802020501:0001/pct:57.932932932932935,67.64792587913244,15.728228228228229,24.910507475257948/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -615,7 +615,7 @@ it; if after fuch i tion, two
 thirds of the Houfe Hull agree to pais  
 the bill, it (hall become alaw; but i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_burmese_ver01:data:sn83045242:print:1802020501:0001/pct:74.30555555555556,15.198989260897031,15.765765765765765,55.41377132027795/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_burmese_ver01:data:sn83045242:print:1802020501:0001/pct:74.30555555555556,15.198989260897031,15.784534534534535,55.41377132027795/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -674,7 +674,7 @@ but the Icgiilatuve may by law veit
 the appointment of any Inch officers as  
 they tiiinf: proper, in other perfon-;, t]
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_burmese_ver01:data:sn83045242:print:1802020501:0002/pct:10.04129129129129,3.7144662034112446,15.972222222222221,29.336702463676563/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_burmese_ver01:data:sn83045242:print:1802020501:0002/pct:10.047547547547548,3.7186776163402824,15.965965965965966,29.349336702463678/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -731,7 +731,7 @@ and caufe of the accufation, to bo con­
 fronted with the witneffes againft him,  
 to ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_burmese_ver01:data:sn83045242:print:1802020501:0002/pct:9.253003003003004,45.45799115603285,16.12237237237237,26.039166140240052/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_burmese_ver01:data:sn83045242:print:1802020501:0002/pct:9.253003003003004,45.462202568961885,16.134884884884883,26.047588966098125/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -762,7 +762,7 @@ ner Lo be --Scribed by law. The right of
 the y • fecure in their perfons,  
 bonfets, papers, mid efTeds, againft un
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_burmese_ver01:data:sn83045242:print:1802020501:0002/pct:8.652402402402402,78.20593809222994,15.953453453453454,11.156032849020846/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_burmese_ver01:data:sn83045242:print:1802020501:0002/pct:8.65865865865866,78.21436091808802,15.965965965965966,11.160244261949885/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -814,7 +814,7 @@ the &#x27; of at
 which time the office of thofe Sirft eho-  
 Sen flir.ll ccaSe.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_burmese_ver01:data:sn83045242:print:1802020501:0002/pct:25.975975975975977,36.34870499052432,15.99099099099099,23.967150979153505/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_burmese_ver01:data:sn83045242:print:1802020501:0002/pct:25.98223223223223,36.34870499052432,15.99099099099099,23.97557380501158/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -841,7 +841,7 @@ to maritime courts jurisdiction over occur­
 tences taking place on the land. He fear­  
 ed for the consequences of the Ih ng
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809011301:0019/pct:41.010598031794096,75.49057329742209,17.524602573807723,7.708092856226754/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809011301:0019/pct:41.00283822138127,75.48089253654783,17.52759381898455,7.711378986064803/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1189,7 +1189,7 @@ other Place than that in which the two Hou o a  o ata i
 se sa e iina eae e e  o ee o  
 Sze. 6. The Sehators and Reprtsentativas  a t  wil tothe bet of a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200292911:1857070401:0015/pct:183.33333333333334,198.25327510917032,76.08932461873638,12.89249324183822/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200292911:1857070401:0015/pct:45.84581857804413,49.56331877729258,19.027512939253608,3.223123310459555/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1224,7 +1224,7 @@ shall enjoy the right to a speedy and public
 trial, by an impartial jury of the State and  
 district wherein the crime shall have bee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn83025725:00212470284:1860111201:0458/pct:158.64461045891142,145.0277422108408,44.07684098185699,36.91848058045241/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn83025725:00212470284:1860111201:0458/pct:39.677031896436674,36.2569355527102,11.023622047244094,9.229620145113103/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1268,7 +1268,7 @@ law, shall be passed.
 No capitation or other direct tax shall  
 be laid, unless in proportion to the cen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477837:1861021301:0473/pct:127.92421746293246,90.76384022424668,58.73146622734761,19.117028731604766/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477837:1861021301:0473/pct:32.000824232433544,22.69096005606167,14.691943127962086,4.779257182901191/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1307,7 +1307,7 @@ to be taken.
 No tax or duty shall be laid on articles  
 exported from any State. No preferenc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477849:1861021302:0314/pct:69.01041666666667,67.16135603084534,123.17708333333333,317.70696930016004/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477849:1861021302:0314/pct:17.252604166666668,16.790339007711335,30.794270833333332,79.42674232504001/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1341,7 +1341,7 @@ accused shall enjoy the right to a speedy
 and public trial, by an impartial jury of  
 the State and district wherein the crim
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_junebug_ver01:data:sn84020047:00415661885:1861032201:0035/pct:305.4961832061069,86.92035766271574,34.55470737913486,28.363485132044083/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_junebug_ver01:data:sn84020047:00415661885:1861032201:0035/pct:76.38376383763837,21.730089415678936,8.639776052932943,7.090871283011021/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1371,7 +1371,7 @@ public use, without just compensation.
 enjoy the right to a speedy and public trial, by an  
 impartial jury of the State and district wherein th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038518:00200293319:1861051401:0459/pct:114.02404121350887,305.02899314707435,45.3921007441328,23.19451765946231/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038518:00200293319:1861051401:0459/pct:28.51417119954194,76.25724828676859,11.351273976524478,5.7986294148655775/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1408,7 +1408,7 @@ the accused shall enjoy the right to a SPEE­
 DY AND PUBLIC TRIAL, by an impartial  
 ’ jury of THE STATE AND DISTRICT WHERE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_henson_ver01:data:sn83016108:00415625649:1861092801:0029/pct:12.869435091657314,13.146314631463147,36.45716423494201,106.2981298129813/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_henson_ver01:data:sn83016108:00415625649:1861092801:0029/pct:9.97873779839567,10.188277087033748,28.26423117811926,82.38721136767317/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1448,7 +1448,7 @@ commerce or revenue to the ports of one State over
 those of another.  
 8. No money shall be drawn from the Treasury, bu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn83025725:00212470405:1861102401:0345/pct:295.39221064179924,87.42980561555076,44.267690619857376,33.08855291576674/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn83025725:00212470405:1861102401:0345/pct:73.84805266044981,21.85745140388769,11.066922654964344,8.272138228941685/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1481,7 +1481,7 @@ accused shall enjoy the right to a speedy and
 public trial, by an impartial jury of the State  
 and district wherein the crime shall have bee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn86081912:00296028617:1862091701:0025/pct:4.813516098182977,52.36194995685936,15.285304430985018,11.949956859361519/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn86081912:00296028617:1862091701:0025/pct:4.8188290298586764,52.36194995685936,15.290617362660717,11.96074201898188/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1545,7 +1545,7 @@ the accused shall enjoy the right to a
 speedy and public trial, by an impartial  
 jury of the State and district wherein th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn82014129:00279528724:1863061701:0591/pct:215.07659639011072,111.84423388028657,34.08160169877142,28.842153917263694/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn82014129:00279528724:1863061701:0591/pct:71.69219879670358,37.28141129342886,11.360533899590475,9.614051305754565/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1615,7 +1615,7 @@ be compelied, in any criminal case, to be witness
 against himself, nor shall be deprived of life, liberty  
 or property without due process of law,&quot; Ac. Now
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743622:1868042101:0266/pct:103.3657066309444,262.8338192419825,51.892163429336904,13.434402332361516/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743622:1868042101:0266/pct:34.455235543648136,87.61127308066084,17.297387809778968,4.478134110787172/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1641,7 +1641,7 @@ hereinbefore directed to be taken.
 No tax or duty shall be laii on  
 articles exported from any State. N
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_johns_ver01:data:sn92073049:00295879270:1890090901:0300/pct:50.66518847006652,116.32416787264833,19.53991130820399,9.686444766039557/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_johns_ver01:data:sn92073049:00295879270:1890090901:0300/pct:38.00942611588578,87.24553786782441,14.66592736345994,7.264833574529667/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1675,7 +1675,7 @@ No capitation or other direct tax
 shall be laid, unless in proportion to  
 the census or enumeration hereinbe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_larkspur_ver01:data:2017270212:0027952746A:1896081401:0826/pct:105.3307223672759,96.20664206642067,19.1035683202785,8.457564575645756/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_larkspur_ver01:data:2017270212:0027952746A:1896081401:0826/pct:79.05508382320923,72.16236162361623,14.347920748965818,6.3468634686346865/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1724,7 +1724,7 @@ national monetary conference, to convene on
 or before Oct. 1, 1897, at such place in the  
 city of Washington as the president ma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_iona_ver01:data:sn90059523:00206537413:1897012101:0198/pct:84.31259876454533,6.2158540356664265,12.799885073983623,1.834862385321101/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_iona_ver01:data:sn90059523:00206537413:1897012101:0198/pct:84.31738734856103,6.2158540356664265,12.804673657999329,1.8382984572037246/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1749,7 +1749,7 @@ sent the United States at such confer­
 ence, the duty of which United States  
 commissioners shall be to urge th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_eigg_ver01:data:sn99062034:00279523349:1897012101:1151/pct:23.120089786756452,34.62351240129018,14.157447490780823,6.039372706039373/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_eigg_ver01:data:sn99062034:00279523349:1897012101:1151/pct:23.12543423654535,34.627219812404995,14.162791940569718,6.043080117154191/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1783,7 +1783,7 @@ March 4, 1897, the President shall appoint
 five commissioners to represent  
 the United States at such conference
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_dogwood_ver01:data:sn84026925:00295862191:1897012301:0402/pct:3.377750232414007,65.89449299778877,15.168887511620701,5.580709697799305/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_dogwood_ver01:data:sn84026925:00295862191:1897012301:0402/pct:3.3880797438281167,65.89449299778877,15.163722755913644,5.587729458425468/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1848,7 +1848,7 @@ of which United States commissioners shall be
   
 to urge the adoption by said conference of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_lawrence_ver01:data:sn84029386:00295871477:1897012801:0049/pct:66.4252607184241,56.969192339716905,18.974507531865584,5.278934221482098/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_lawrence_ver01:data:sn84029386:00295871477:1897012801:0049/pct:49.84062590553463,42.73105745212323,14.22776006954506,3.9633638634471273/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1871,7 +1871,7 @@ the U tilted States at such conference, the duty
 of which United States commissioners shall be  
 to ure the adoption by sai 1 conference, of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jughead_ver01:data:sn89066489:00294556680:1897012801:0351/pct:71.75376088677751,57.34984193888303,19.873317498020587,5.202845100105374/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jughead_ver01:data:sn89066489:00294556680:1897012801:0351/pct:53.84158415841584,43.01896733403583,14.910891089108912,3.898840885142255/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1890,7 +1890,7 @@ monetary conference to convene, on or
 before October 1, 1897, at such place in  
 the city of Washington as the presiden
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juniper_ver01:data:sn88085189:00211107911:1897012801:0015/pct:14.37518205651034,64.48883905819999,12.845907369647538,2.619508714707981/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juniper_ver01:data:sn88085189:00211107911:1897012801:0015/pct:14.380036896786097,64.49563415214216,12.845907369647538,2.616111167736894/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1929,7 +1929,7 @@ monetary conference to convene on or
 before October 1, 1897, at such place in  
 the city of Washington as the presiden
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_neahkahnie_ver01:data:sn96088376:00295868399:1897012901:0778/pct:80.07469244288225,91.55853622977111,18.475395430579965,3.5865286484910337/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_neahkahnie_ver01:data:sn96088376:00295868399:1897012901:0778/pct:60.08791208791209,68.66890217232833,13.868131868131869,2.697186178743257/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1982,7 +1982,7 @@ lic safety may require it
 No bill of attainder or ex post facto  
 law shall be passed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_harry_ver01:data:sn85054468:211102159:1898092501:0576/pct:46.29793510324484,28.54101299865531,17.699115044247787,13.547736441057822/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_harry_ver01:data:sn85054468:211102159:1898092501:0576/pct:30.88387191972849,19.02734199910354,11.804633318577542,9.031824294038548/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2010,7 +2010,7 @@ Before he enter on the execution of his
 office, he shall take fhe following oath or  
 affirmation: &quot;X do solemnly swear (or af
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_harry_ver01:data:sn85054468:211102159:1898092501:0576/pct:65.01474926253687,8.000896458987002,17.654867256637168,10.410129986553116/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_harry_ver01:data:sn85054468:211102159:1898092501:0576/pct:43.367271654124245,5.333930972658001,11.775121735281099,6.947557149260422/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -79,7 +79,7 @@ protection and ellential interests of the nation may
 juftify and permit. (Signed)  
 E WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789101701:0004/pct:70.64324171153301,31.66698711786195,24.142816661943893,34.05114401076716/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789101701:0004/pct:70.65032587135165,31.681407421649684,24.16406914139983,34.04153047490867/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -540,7 +540,7 @@ ssire that
 commodated to  
 them as a due regard to the protection and s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_buttery_ver01:data:sn83030213:00206530261:1848010801:0593/pct:213.96310432569973,211.01576994434137,40.5057251908397,13.729128014842301/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_buttery_ver01:data:sn83030213:00206530261:1848010801:0593/pct:71.32103477523324,70.33858998144713,13.501908396946565,4.576376004947433/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -683,7 +683,7 @@ as a due regard to the protection and essential
 interests of the nation mav justifv and permit.  
 CPniKiK WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215804:1848011201:0044/pct:45.531069705854534,62.9312762973352,12.796746429584791,19.375876577840113/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215804:1848011201:0044/pct:45.526763760166446,62.92686347380969,12.798688607275707,19.376855292990207/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -724,7 +724,7 @@ r Jersey, nrUwrt,mt t ke rrttrrn rt, mj tes;VpJy acCommcM!atel to them, tM a H
 1 oei&#x27;HK ami Maryland. t , f . .  
 5 ( regard to the protection and essential in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058217:00271744766:1848011901:0007/pct:58.200589970501476,15.997113302862642,66.78466076696165,16.706759682463314/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058217:00271744766:1848011901:0007/pct:43.67714327873691,12.003848929516478,50.11066843736167,12.533076738032236/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -750,7 +750,7 @@ j not be wanting.
   
 Government being among other purp
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058217:00271744766:1848011901:0007/pct:54.64601769911504,104.94346884772672,52.1976401179941,4.161655039692086/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058217:00271744766:1848011901:0007/pct:41.006344990408735,78.7106086119798,39.161871034380994,3.1272552321385616/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -868,7 +868,7 @@ cty &quot;demand or expect, and remain responsible only to J
 their Maker for the religion or modes of faith which  
 they may prefer or profos?.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1855051501:0633/pct:69.42409880798506,82.13532681617788,13.916415338216286,2.8177113283496262/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1855051501:0633/pct:69.42888601656374,82.14171618426937,13.925989755373642,2.8177113283496262/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -890,7 +890,7 @@ stain from it themselves, but according to
 their stations, to prevent it in others.&quot;  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035102:00296027078:1855052301:0418/pct:77.07281903388609,69.72548008764016,16.94304253785148,5.309962624049491/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035102:00296027078:1855052301:0418/pct:57.83588818755636,52.300554195128235,12.7321911632101,3.9824719680371183/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -909,7 +909,7 @@ agreeably to their consciences, is not only
 the choicest of their blessings but also of their  
 rights.&quot; &#x27;.- -.. .. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035102:00296027078:1855052301:0418/pct:77.14491708723864,87.66593633200155,17.05118961788032,4.098466297203248/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035102:00296027078:1855052301:0418/pct:57.889990982867445,65.75589637839929,12.804328223624887,3.0802938523005543/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1032,7 +1032,7 @@ God agreeably to their consciences, is not only
 among the choicest of their blessings, but also  
 of their rights.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn84022882:00414212426:1855091101:0262/pct:60.806345009914075,83.81973396863212,11.275611368142762,4.288266825491364/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn84022882:00414212426:1855091101:0262/pct:60.79830822098863,83.81141439205955,11.277425323817077,4.290322580645161/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1107,7 +1107,7 @@ sible only to their maker for the relig­
 ion, or the modes of faith which they  
 may prefer or profess.Page 40
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn84020048:00295878034:1855101101:0009/pct:341.3709677419355,211.8646467506725,49.91935483870968,15.857284440039644/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn84020048:00295878034:1855101101:0009/pct:85.34274193548387,52.96616168766813,12.47983870967742,3.964321110009911/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1161,7 +1161,7 @@ desire to inform the De-
 mocracy of thi county that I am no  
 onger a candidate for the legislature.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn84020048:00295878034:1855110101:0017/pct:90.59760956175299,27.53103448275862,101.75298804780877,353.3241379310345/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn84020048:00295878034:1855110101:0017/pct:22.662945983655572,6.882758620689655,25.453458241977277,88.33103448275862/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1186,7 +1186,7 @@ agreeably to their own consciences, is not only
 the choicest of their blessings, but also of their  
 rights.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn84022882:00414212426:1855112001:0302/pct:48.18059299191375,41.37212073073868,11.684636118598382,4.616759332803812/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn84022882:00414212426:1855112001:0302/pct:48.17410052553564,41.36801350143949,11.686430400215604,4.618782884939939/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1214,7 +1214,7 @@ and remain responsible only to their Maker for the
 religion, or modes of faith, which they may prefer to  
 profess. Upon this question we stand upon Gen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293216:1856052901:0517/pct:24.469413233458177,288.1213535589265,49.75031210986267,27.63127187864644/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293216:1856052901:0517/pct:6.119263190758664,72.03033838973163,12.441461130190447,6.90781796966161/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1388,7 +1388,7 @@ lo or modes of taith whicn they may prefer or profess.
 in this broad American platform of equality the rell  
 anominations have gone on in their own way. T
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:00206531265:1876070301:0020/pct:102.4142926122646,65.0661099512874,46.096893610172216,10.728369287868244/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:00206531265:1876070301:0020/pct:34.13809753742154,21.6887033170958,15.36563120339074,3.5761230959560812/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1426,7 +1426,7 @@ duties faithfully , they do all that
 the society or the State can with  
 propriety demand or expect
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn84025891:00211102925:1887082701:0279/pct:60.510722347629795,35.99694131141273,19.03216704288939,3.2402982221372585/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn84025891:00211102925:1887082701:0279/pct:45.3929730492451,27.002485184477155,14.279666995908,2.4278340661441407/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1446,7 +1446,7 @@ faithfully, they d i all tliat the society»o.
 the State can with propriety demand or  
 expect. — Washi&#x27;igto i.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn86077146:00513685129:1887112301:1098/pct:7.986260197509661,27.790003143665515,13.482181193645342,3.552342030807922/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn86077146:00513685129:1887112301:1098/pct:7.98454603992273,27.785635706427787,13.484653359089933,3.5557127141285556/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

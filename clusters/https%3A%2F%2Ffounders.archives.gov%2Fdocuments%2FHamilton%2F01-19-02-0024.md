@@ -976,7 +976,7 @@ may in like manner be carried out of the fame
 by the two parties relpefively, paying duty- as  
 aforefaid. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795071401:0469/pct:27.728138274498317,26.969332531569453,19.54006152043357,40.899979955902985/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795071401:0469/pct:27.728138274498317,26.972673214405024,19.54006152043357,40.9100020044097/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1007,7 +1007,7 @@ merely be carried over any of the portages or’
 carrying places on either fide ; for the purpose  
 of being immediately reimbarked and carried to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795071401:0469/pct:27.889263219569358,67.85929043896573,19.364288853083345,11.65564241330928/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795071401:0469/pct:27.889263219569358,67.86597180463687,19.37893657536253,11.662323778980424/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1028,7 +1028,7 @@ vernments will mutually promote this amicable
 I justice to be done, and neceflary proteftion to be:  
 “extended to all who may be concerned therein,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795071401:0469/pct:27.698842829939945,87.73301262778112,19.569356964991943,5.462016436159551/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795071401:0469/pct:27.703725404033005,87.73635331061669,19.564474390898884,5.462016436159551/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1054,7 +1054,7 @@ limited for the citizens of the United States to
 carry to ahy of his:Majefly’s islands and ports in  
 the Weft
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795071401:0470/pct:12.27992306554224,64.636815920398,19.48513093652907,8.427860696517413/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795071401:0470/pct:12.27992306554224,64.636815920398,19.499926024559848,8.431177446102819/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1089,7 +1089,7 @@ increase the now {ublifting difference between
 the duties payable on the importation of any  
 articles in Briafh or in American veflels
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795071401:0470/pct:53.09957094244711,14.348258706467663,19.263204616067465,14.427860696517413/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795071401:0470/pct:53.09957094244711,14.354892205638475,19.268136312077722,14.431177446102819/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1113,7 +1113,7 @@ nor incrcafe the now lu Lifting difference between
 the duties payable on the importation of any arti­  
 cles in Britilh or in American vefsels
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_zarley_ver01:data:sn84038410:01000424529:1795071801:0053/pct:32.72589217919514,25.62606370046195,25.24677296886864,7.2210065645514225/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_zarley_ver01:data:sn84038410:01000424529:1795071801:0053/pct:32.7134724857685,25.619834710743802,25.246679316888045,7.225328147788041/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1559,7 +1559,7 @@ of his Majesty’s said territories,”” and also from
 mouths thereof &amp; the highest port of entry from  
 the sea, cXceXt 10 small veflels trading betwce
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795081101:0486/pct:33.2194324766008,67.72285169958889,19.328480166394296,5.875864835054648/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795081101:0486/pct:33.224384687763084,67.72619405728801,19.32352795523201,5.875864835054648/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1575,7 +1575,7 @@ the sea, cXceXt 10 small veflels trading betwce
 than are payable by our own citizens.  
 The fourth article concludes nothing, and th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795081101:0486/pct:53.61759025404843,10.54848089842575,19.328480166394296,2.0354958387646644/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795081101:0486/pct:53.622542465210714,10.54848089842575,19.328480166394296,2.0354958387646644/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1604,7 +1604,7 @@ import into tiie United States from their iflancis, with­
 out paying greater duties than the Am- :icani ; this  
 U&#x27;TStn is direct oppoiition to a law of the United &amp;ta.es
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795081201:0003/pct:4.730268402870051,36.375771733689305,21.525378687217646,8.476555981978976/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795081201:0003/pct:4.73691203826734,36.379943267145,21.532022322614935,8.472384448523277/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1623,7 +1623,7 @@ to what Biitith vefTels pay in American ports, and
 such duty as may be adequate to eountervail the  
 difference of duty, now payable
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795082001:0002/pct:50.86027111574557,24.94598637194615,20.855057351407716,3.4402526175835133/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795082001:0002/pct:50.86678832116788,24.950141266411833,20.87460896767466,3.436097723117833/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1709,7 +1709,7 @@ stablish, that navigation from Montreal to Qi cbtc,
 vail be canit-d on in what aie called &quot; fmali vcflcle  
 trading Won* fide between Montreal and Quftcc.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795082801:0002/pct:50.1999466808851,3.8222967309304274,42.948547054118904,92.52305113160101/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795082801:0002/pct:50.219941348973606,3.8222967309304274,42.955211943481736,92.54400670578374/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1786,7 +1786,7 @@ co»ftru&amp;ton which 1 oppose. « All goods and
 merchandise, whose importation into his m?jt.(ly&#x27;s  
 said territories in America (hall not be entirely pro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795082801:0002/pct:72.14076246334311,51.55071248952221,21.487603305785125,40.972338642078796/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795082801:0002/pct:72.14076246334311,51.55909471919531,21.507597973873633,40.98910310142498/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1987,7 +1987,7 @@ ports of which acctfs from the sea is granted under
 the qualification which has been pointed ont.  
 CAMILLUS.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795082801:0003/pct:4.24,3.5143769968051117,43.89333333333333,92.51723558096519/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795082801:0003/pct:4.253333333333333,3.5143769968051117,43.9,92.52984698167143/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3727,7 +3727,7 @@ lakes, rivers, and wa.ers thereof, and freely to car­
 ry on trade and commerce wirh each other, fnbjc£l  
 to the provisions and limitations contained in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1796062101:0003/pct:70.92870297290187,33.74294254400532,22.02052091554854,8.136831617402857/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1796062101:0003/pct:70.9418574059458,33.75539687811359,22.027098132070506,8.136831617402857/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3835,7 +3835,7 @@ I goods and merchandize whose importation
 t poics of commerce be carried, bro’t and  
 imported into the fame, from the sai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796080601:0127/pct:26.66562889165629,32.38522954091816,16.376089663760897,8.1437125748503/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796080601:0127/pct:26.67081776670818,32.391882900864935,16.376089663760897,8.140385894876912/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3894,7 +3894,7 @@ i whereas, by the fifteenth article of the said
 treaty, it is further agreed, that no other (  
 | or higher duties (hall pe paid by the (hips or t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797110401:0002/pct:43.03470919324578,63.75263316280469,17.823639774859288,6.9816430935901295/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797110401:0002/pct:43.04643527204503,63.76391814625339,17.81191369606004,6.985404754739693/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3918,7 +3918,7 @@ payable cn the importation of European and
 Asiatic goqds, when imported into the U­  
 nited States in British or in American veflels
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797110801:0002/pct:43.29207920792079,73.27044025157232,17.202970297029704,6.109613656783468/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797110801:0002/pct:43.29826732673267,73.27418388739143,17.221534653465348,6.120844564240791/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4004,7 +4004,7 @@ m the United States in Bntish or in American ve,
 sels. Instead of this, the following words make  
 part of the new article. « And in the &quot;ade of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807092801:0747/pct:73.91084093211752,23.965071151358345,21.656534954407295,4.867399741267787/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807092801:0747/pct:73.89212458850342,23.961196443007275,21.657381615598887,4.870654810024252/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4048,7 +4048,7 @@ the United States-, or any Of the ports
 or places of Ids majesty in Great Bri­  
 tain.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807093001:0001/pct:78.46707125196673,27.69469525959368,18.341200269723533,18.77821670428894/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807093001:0001/pct:78.47456357233835,27.70410082768999,18.333707949351915,18.77821670428894/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4085,7 +4085,7 @@ Atlantirk ports or places of the United Stales, or
 my of the ports or places of his majesty in Great*  
 Britain.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807093001:0751/pct:73.17194908909408,79.94858611825192,21.861741951584726,15.327763496143959/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807093001:0751/pct:73.15369261477046,79.93574297188755,21.8625249500998,15.329317269076306/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4105,7 +4105,7 @@ jn the United States in British or in American ves
 *els.’ Instead of this, the following words make  
 part of the new article. ‘ And in the trade ot th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807093001:0752/pct:4.161347970385499,34.33004687247454,21.878989022210877,4.816550832390496/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807093001:0752/pct:4.160285860132721,34.32449903038138,21.87978560490046,4.8198125404007754/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4126,7 +4126,7 @@ ted into ifie United States in Bi iti Hi or in /Ame­
 rican refills.’ Inllead of this, the following  
 words make part or the new article. ‘And i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1807093001:0173/pct:57.50915750915751,40.86520835879262,17.454212454212453,3.8372235121593548/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1807093001:0173/pct:57.49862662516023,40.86021505376344,17.4571201855582,3.8408276311502116/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4156,7 +4156,7 @@ i The f u&#x27;rth article, after mentioning that
 extends so far to the northward as to be  
 intersec ed by a line to in*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807093001:0323/pct:24.350649350649352,33.78006012024048,18.258212375859436,8.554609218436873/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807093001:0323/pct:24.345999618101967,33.77582968065122,18.26109095538158,8.557712377374243/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4178,7 +4178,7 @@ liran vessels.’ Instead of this, the follow­
 ing words made pari of the new article_  
 ‘ And in the »rade of the two nations with I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807093001:0323/pct:24.484339190221544,74.28607214428858,18.239113827349122,4.621743486973948/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807093001:0323/pct:24.479663929730762,74.27676894176581,18.241996053720325,4.625339177624713/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4219,7 +4219,7 @@ sin! thess-sisitﬂtiatsssittie pctoctrts or places sisﬀf the U. S.
 o&#x27;r asso&#x27;y os&#x27;he pcto&#x27;tcttssi or_ places of his majes­  
 ty &#x27;usitssG. si B tta&#x27;tn.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216067:1807100301:0484/pct:8.519449785534684,23.4566810915835,23.91658038751664,20.365627483882363/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216067:1807100301:0484/pct:8.518189884649512,23.454609678558814,23.91797298629597,20.366772636288708/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4311,7 +4311,7 @@ Atlantic porta or placet of the- United
 States, or any of the pom or places of  
 his majesty in Great-Britain.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1807101601:0843/pct:50.46702519105576,67.53246753246754,20.492499292386075,21.14777114777115/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1807101601:0843/pct:50.452744765138654,67.52061765221968,20.493774759479344,21.14844709598175/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4354,7 +4354,7 @@ posed, and the same drawback* and
 bounties allowed in either country, whe­  
 ther the exportation or importation shal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1807101601:0843/pct:71.24257005377866,40.25974025974026,21.454854231531275,21.305721305721306/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1807101601:0843/pct:71.22241086587437,40.252675908054044,21.455857385398982,21.30636953851553/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4390,7 +4390,7 @@ But notwithstanding this express stipulation,
 which secures to his majesty’s subjects without !  
 limitation or reservation the right of commercial 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808051401:0015/pct:59.3868349864743,36.958174904942965,17.853922452660054,6.489226869455006/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808051401:0015/pct:59.37612693833393,36.95349131922443,17.856713547301357,6.492628733155916/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4414,7 +4414,7 @@ Atlantic ports of the said states.
 But notwithstanding this stipulation, that the |  
 duties on goods imported into the United States 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808051401:0015/pct:59.42290351668169,57.034220532319395,17.81785392245266,5.576679340937896/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808051401:0015/pct:59.41218896501984,57.02699277658091,17.82065152061546,5.580196848730622/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4530,7 +4530,7 @@ would be p&#x27;.ynole by Ills majesty&#x27;s .subjects, on
 ttie importation of tin- seme from Euu pe, into  
 Itie said territories. All goods, uot prohibit&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1816011301:0755/pct:30.299923096641887,18.221433182698515,21.63547808254294,9.280180761781795/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1816011301:0755/pct:30.292157867760125,18.218492819106018,21.636340338288058,9.28271744392448/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4563,7 +4563,7 @@ exported from the said territories respec­
 tiv.ly, may, in 1 ke manner, be carried out  
 ot the same by the two parties. No dut
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183906:1816011301:0159/pct:66.8086500655308,38.3804143126177,14.793577981651376,10.232266164469554/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183906:1816011301:0159/pct:66.7977067977068,38.37559628420788,14.796614796614797,10.23516612268809/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4637,7 +4637,7 @@ the same from Europe, into the said te.ritorie*
 the smd territories respectively, may in like man­  
 ier be carried out of the same by the two par
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816012001:0027/pct:58.869760479041915,73.08564231738035,17.290419161676645,11.90176322418136/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816012001:0027/pct:58.858746492048645,73.07643873567561,17.29342064234487,11.904462074465853/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4666,7 +4666,7 @@ payable by his m •je$iy’s subjects on the impor­
 tation ol the same from Europe into the said e *.  
 ritories. No duty shall he levied by eitlier par­
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816012001:0028/pct:7.121495327102804,4.560509554140127,17.626168224299064,8.662420382165605/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816012001:0028/pct:7.120164455242011,4.559928671506815,17.629103594343736,8.665562773319747/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4967,7 +4967,7 @@ shall at all times be free to his Majesty&#x27;s subjects and the cUi­
 xens of the United States freely to pass by Is nil or inlanfl naviga­  
 tion into the respective territories and countries ot ie w 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1846052301:0368/pct:51.689142221604335,85.77658503857766,15.473376894202698,6.205971150620597/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1846052301:0368/pct:51.689142221604335,85.78403965857841,15.478011029241392,6.20969846062097/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5010,7 +5010,7 @@ vation, the luhtof commercial inteicourse by land or inland
 navigaiioo with all the territories of the Lotted States on  
 the continent of America, the Governor cf Louisiana ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn82015677:00296029804:1846060401:0340/pct:66.99520511454449,14.165191125924382,19.11294619072989,6.468076242058119/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn82015677:00296029804:1846060401:0340/pct:50.25975755961103,10.623893344443287,14.33328893033169,4.853661076971149/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5038,7 +5038,7 @@ posing such duly as might be adequate to
 goods, when imported into the United States  
 lin British or American vessels; and by ac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624244:1847052701:0019/pct:64.3010752688172,29.843959904929214,15.096774193548388,8.329027591195619/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624244:1847052701:0019/pct:64.3010752688172,29.847404498639385,15.106332138590203,8.332472184905791/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5097,7 +5097,7 @@ to be exported from the said territories respectively may
 in like mannes be cacried ont of the rame to the twe par.  
 Thus we perceive that England cunningl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:00206533511:1878100801:0879/pct:292.4231057764441,263.92857142857144,49.437359339834956,15.476190476190476/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:00206533511:1878100801:0879/pct:73.14693188215425,65.98214285714286,12.366297616813661,3.869047619047619/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5140,7 +5140,7 @@ two parties respectively, paying duty as afore-
 said.&quot;  
 Thus we perceive that England cunningl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_dunbar_ver01:data:sn83025287:00280768121:1878121601:0361/pct:54.902225219150374,45.17248418044499,11.975724881995955,11.441110430700142/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_dunbar_ver01:data:sn83025287:00280768121:1878121601:0361/pct:54.911216003596316,45.175886235286114,11.980220274218926,11.44791454038239/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5159,7 +5159,7 @@ doty, but that such exemption does not
 extend to goods in bales or other large  
 packages unusual among Indians.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_dungeness_ver03:data:sn83045611:00202198958:1887052601:0627/pct:335.041761579347,107.23292226686989,43.60288534548216,8.119717334072329/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_dungeness_ver03:data:sn83045611:00202198958:1887052601:0627/pct:83.76044039483675,26.808230566717473,10.90072133637054,2.029929333518082/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5184,7 +5184,7 @@ Philosophical and scientific apparatus, instruments,
 and preparations; statuary, casts of marble, bronze, ala  
 baster, or plaster of Faris; paintings, drawings, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_fernandez_ver01:data:sn83030272:00175044796:1888031201:0838/pct:217.29438893159107,152.38095238095238,50.03843197540353,13.504581643382906/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_fernandez_ver01:data:sn83030272:00175044796:1888031201:0838/pct:54.33403805496829,38.095238095238095,12.51201230059581,3.3761454108457265/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5218,7 +5218,7 @@ articles manufactured, in whole or in
 part, not herein enumerated or provid­  
 ed for, a duty of twenty per cent, a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ingstad_ver01:data:sn84028296:00296029142:1888092701:1089/pct:92.47169811320755,85.91984938138785,16.22641509433962,11.525013448090371/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ingstad_ver01:data:sn84028296:00296029142:1888092701:1089/pct:69.37157954331006,64.44324905863367,12.172107944895263,8.64712210866057/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

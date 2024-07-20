@@ -118,7 +118,7 @@ which the two others concluded that we
 thould really fink, and the Chief Gunner  
 thereupon run to the stern, without m
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1780042201:0328/pct:33.83838383838384,31.467473524962177,26.570048309178745,31.893824783386055/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1780042201:0328/pct:33.85302298345777,31.47205794709577,26.56272873664178,31.902993627653235/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -141,7 +141,7 @@ engaged with the Serapis. The Countcfs of
 Scarborough is an armed ship of twenty fix  
 pounders, commanded by a Licutenznt o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1780042201:0329/pct:10.694837725985623,6.717432689692684,27.205401873230233,7.72368778895839/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1780042201:0329/pct:10.702098308284324,6.7219653703200075,27.19814129093153,7.7327531502130356/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1312,7 +1312,7 @@ I lost even the best part of my clothes, books,
 and papers; and several of iny officers lost all  
 their clothes ar.d effects. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216420:1830051501:0768/pct:43.85933910584909,4.227720393946673,37.55080402898039,93.0939226519337/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216420:1830051501:0768/pct:43.851590106007066,4.227212681638045,37.55005889281507,93.08674592690444/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1878,7 +1878,7 @@ mainmast began to shake, their flring decreased,
 ours rather increased. The British colors  
 were struck at half an hour past ten o&#x27;clock.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202191058:1859072701:0088/pct:18.828078524687687,155.88841853902096,36.89767995240928,61.84738955823293/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202191058:1859072701:0088/pct:6.276026174895895,51.96280617967365,12.299226650803094,20.615796519410978/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1914,7 +1914,7 @@ Every tongue cried that he was firing at
 the wrong ship; but nothing availed, he  
 passed round, firing into the Richar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_indy_ver01:data:sn84024738:0028077795A:1865021601:0159/pct:50.02901073397157,49.7967044725016,43.22599361763853,48.78022683500963/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_indy_ver01:data:sn84024738:0028077795A:1865021601:0159/pct:16.676336911323858,16.598901490833867,14.408664539212841,16.260075611669876/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1953,7 +1953,7 @@ the wrong ship; but nothing availed, he passed round,
 firing into the Richard, head, stern and broadside, killing  
 several of the best men, and delivering various shot
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743506:1865022001:0416/pct:53.66178428761651,68.06000916170407,46.80426098535286,27.404947320201558/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743506:1865022001:0416/pct:17.887261429205505,22.686669720568027,15.601420328450954,9.134982440067185/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2228,7 +2228,7 @@ tears in his eyes, for a true sailor ever loves his ship.
 Homme Richard.”  
 She went down hows foremost
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685154:1894062801:0352/pct:6.182105471064586,6.729714912280702,42.54394627691092,87.26699561403508/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685154:1894062801:0352/pct:6.1808846761453395,6.728792654515554,42.54212743549236,87.2596044036362/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2701,7 +2701,7 @@ non against the ina&#x27;nmast With double headed
 Shot While the other two Were exceedingly  
 well served with grape and CanuUter shot to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_alliance_ver01:data:sn99021999:00206539410:1895041401:0037/pct:76.00706713780919,118.17068191098407,16.69611307420495,11.74629100313053/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_alliance_ver01:data:sn99021999:00206539410:1895041401:0037/pct:57.04436980731837,88.63141418265958,12.533144776383242,8.806315502926365/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2734,7 +2734,7 @@ quarter , and I having answered him In the
 must determined negative , they renewed the  
 battle with redoubled fury. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_alliance_ver01:data:sn99021999:00206539410:1895041401:0037/pct:93.28621908127208,59.52089288144821,31.130742049469966,21.35565536953859/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_alliance_ver01:data:sn99021999:00206539410:1895041401:0037/pct:70.0017677214071,44.64407241050769,23.36485769842673,16.020144276575472/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2772,7 +2772,7 @@ neither one in position to fire an effective
 shot, a sudden and awful silence ensued.  
 Presently a call came from the Serapis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_inge_ver01:data:sn82016014:00295871271:1895042401:0180/pct:85.44583640383198,106.7126810123156,18.773028739867353,15.496007578833401/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_inge_ver01:data:sn82016014:00295871271:1895042401:0180/pct:64.10539893126958,80.037894167005,14.077759351391192,11.625389091893355/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2803,7 +2803,7 @@ tho battle with redoubled fury.&quot;
 What Paul Jones calls a &quot;most deter­  
 mined negative&quot; was the celebrated an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_ogilby_ver01:data:sn85042461:00280769605:1895042901:0834/pct:50.23167649536647,82.26621735467565,14.111204717775905,8.017410839651783/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_ogilby_ver01:data:sn85042461:00280769605:1895042901:0834/pct:50.247472620050544,82.27323785453524,14.105939342881213,8.024431339511374/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2894,7 +2894,7 @@ neither one in position to fire an effective
 shot, a sudden and awful silence ensued.  
 Presently a call came from the Serapis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_inge_ver01:data:sn82016014:00295871271:1895051101:0305/pct:5.74755822689707,97.93410748042128,19.045830202854997,15.487442614096679/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_inge_ver01:data:sn82016014:00295871271:1895051101:0305/pct:4.3224957714715275,73.45395625168783,14.283029505732005,11.625708884688091/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2925,7 +2925,7 @@ ing answered him in the most deter­
 mined negative, they renewed tho bat­  
 tle with redoubled fury.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lydia_ver01:data:sn87080287:00296028782:1895061701:0435/pct:56.83391003460208,47.62639245929734,12.21885813148789,9.511568123393316/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lydia_ver01:data:sn87080287:00296028782:1895061701:0435/pct:56.84111880046136,47.63781776635247,12.226066897347174,9.500142816338188/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3021,7 +3021,7 @@ doubled fury.&quot;
 What Paul Jones calls a &quot;most deter­  
 mined negative&quot; was the celoJrate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_douglas_ver01:data:sn96076998:00415669410:1895080101:0630/pct:24.856897538637664,72.9847948344095,18.603319977103606,16.96521558008748/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_douglas_ver01:data:sn96076998:00415669410:1895080101:0630/pct:16.573636753971662,48.65652988960633,12.408759124087592,11.31014372005832/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3092,7 +3092,7 @@ doubled fury.&quot;
 What Paul Jones calls a “most deter­  
 mined negative&quot; was tho celebrate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_easton_ver01:data:sn85025407:00279522102:1895083001:0783/pct:67.43949562741508,34.19768151311776,13.402481187716088,13.148261134838316/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_easton_ver01:data:sn85025407:00279522102:1895083001:0783/pct:52.27487653672376,26.511151390968557,10.376168960806977,10.182047442666876/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3134,7 +3134,7 @@ sudden and awful silence ensued.
 Presently a call came from the Serapis:  
 &quot;Have you struck?&quot; to which Pau
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033429:00280779337:1895091101:0699/pct:43.59114015976761,27.332389653841204,16.08569353667393,21.721786127911464/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033429:00280779337:1895091101:0699/pct:32.70383148719811,20.499292240380903,12.075540221536226,16.304207952644447/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3188,7 +3188,7 @@ manity can not but recoil from the
 prospect of such finished horror and  
 lament that war should produce suc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_grace_ver01:data:sn85033139:00271769398:1897101401:0153/pct:49.7586484312148,20.15447991761071,10.847412174845804,9.062821833161689/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_grace_ver01:data:sn85033139:00271769398:1897101401:0153/pct:49.76758737820685,20.157912804668726,10.83847322785376,9.066254720219705/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3352,7 +3352,7 @@ the stern for a time, but it was rescued.
 And when it was seen that the old ship  
 was past saving, the battle-torn flag wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_lexus_ver01:data:sn90059180:00212472360:1898041501:0070/pct:53.82513661202186,9.258508914100487,11.306271142336715,28.23136142625608/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_lexus_ver01:data:sn90059180:00212472360:1898041501:0070/pct:51.13711272247858,8.79550922213312,10.74489123269611,26.82598235765838/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -174,7 +174,7 @@ for the employment, government and fupport,
 of m.alefaftors condemned to labour for the  
 commonwealth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1806061301:0043/pct:23.01851851851852,63.1657171166708,17.462962962962962,2.6876393361406987/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1806061301:0043/pct:23.014256619144604,63.1578947368421,17.465901376288343,2.691434468524252/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -193,7 +193,7 @@ a bill for the employment, government
 and support, of malefactors condemned  
 to labor for the commonwealth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806061701:0204/pct:41.601375883814256,89.57499031132929,17.38964265239824,3.319984498126857/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806061701:0204/pct:41.59342758884218,89.5634203048308,17.392688829448478,3.3238611900456383/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -233,7 +233,7 @@ informations, and prosecutions on penal sta­
 tutes ; and for preventing vexatious and mali­  
 cious prosecutions, and moderating amerce
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812010601:0011/pct:73.65507697630167,40.695754716981135,16.277460646946896,3.0306603773584904/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812010601:0011/pct:73.6423382912487,40.69095625515859,16.280410469272454,3.034233384427937/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -255,7 +255,7 @@ Isind bills of exchange, and allow tug assignees
 cl obligations to bring actions thereupon in  
 their own names”- being revised bills) wer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:0041418392A:1818011001:0271/pct:65.09978558469405,34.10880891796922,14.910110506349993,3.3078880407124682/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:0041418392A:1818011001:0271/pct:65.08905013192611,34.10467652047492,14.913148636763413,3.311525724901058/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -274,7 +274,7 @@ change, and allow ing assignees of obli­
 gations to bring actions thereupon in their  
 I ii#n names.&quot; See acts of 18fr&gt;,cli.2s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:0041418392A:1818022401:0345/pct:48.487853247397126,75.11582540843696,15.286729466203933,2.865154840282858/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:0041418392A:1818022401:0345/pct:48.47984137475215,75.10666829208826,15.289711390174046,2.8688691129261654/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -291,7 +291,7 @@ statutes; and lor preventing vexatious
 and malicious prosecutions, and mode­  
 gating amercements”—and b.“ To re luc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1819022501:0379/pct:3.6921562192320314,44.219409282700425,14.604529044962257,1.675708257986739/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1819022501:0379/pct:3.6915504511894994,44.21407907425265,14.607601859447634,1.679524268723883/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -314,7 +314,7 @@ cious prosecutions, aud moderating a­
 uiercements,&quot; with the Senate’s umeiid­  
 nisyits thereto, was taken up; and th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1819022701:0383/pct:3.977364591754244,48.63888219706095,14.567502021018594,4.87834256805589/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1819022701:0383/pct:3.9767216294859358,48.63302420811755,14.57053561806229,4.881769641495042/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -331,7 +331,7 @@ I lie several acts concerning wills, the dislrtbu­
 tmn ol intestates’ estates, and the duty of exe­  
 cutors and administrator*”—And they insist o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184534:1825021801:0053/pct:33.181102362204726,10.784660766961652,14.89763779527559,1.7227138643067847/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184534:1825021801:0053/pct:33.1758778145174,10.783388390750353,14.900540597281267,1.7264432908604688/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -347,7 +347,7 @@ cutors and administrator*”—And they insist o
 ral acts, for unlading ballast and buri  
 al of dead bodies from on board ship
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84024746:00414186920:1831060201:0294/pct:2.225609756097561,88.7661971830986,13.856707317073171,1.3408450704225352/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84024746:00414186920:1831060201:0294/pct:2.2252705380277398,88.75619648490311,13.859675862419346,1.3444494517049723/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -364,7 +364,7 @@ tions and prosecutions on penal slulutes, and for
 preventing vexatious and malicious prosecutions,  
 and moderating arricrcemenls,&quot; passed Februury ~G
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348859:1835020201:0195/pct:52.19822599305823,25.107727664464235,15.021210952564598,1.6805515656420569/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348859:1835020201:0195/pct:52.1881627144785,25.10412178658624,15.023134759976866,1.6839006175499067/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -384,7 +384,7 @@ I informations and prosecutions on penal statutes;
 j and lor preventing vexatious and malicious pro­  
 ; secutions and moderating amercements
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664291:1847010801:0246/pct:71.99173187656874,13.256893774282196,13.5538166248339,2.6532739505353926/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664291:1847010801:0246/pct:71.99173187656874,13.260052433747118,13.573502633003592,2.6564326100003157/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

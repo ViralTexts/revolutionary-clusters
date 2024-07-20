@@ -177,7 +177,7 @@ bitants.
 Th : JEFFERSON.  
 Murch 4, 1809
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809031701:0393/pct:4.632705795496493,9.344137756394025,35.991140642303435,86.05976196505445/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809031701:0393/pct:4.6318508949990775,9.34295480440562,35.990650181460296,86.05308688863569/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -373,7 +373,7 @@ ute attuchment to its inhabitunts.
 Ty : JEFFERSON.  
 March 4, 1809
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1809032901:0007/pct:50.91569048011879,3.434690372764926,21.92707474014189,40.29699969693908/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1809032901:0007/pct:50.926689765165264,3.434690372764926,21.92707474014189,40.29699969693908/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -431,7 +431,7 @@ alfetons which, without regard to
 political ¢reeds, conflitute the happi­  
 ‘iels of life *s’ﬁvatzhe imiprovement o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809042501:0271/pct:78.84525113440776,39.59167333867094,17.055233922703803,30.39431545236189/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809042501:0271/pct:78.85046680227403,39.59167333867094,17.055233922703803,30.400987456631974/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -493,7 +493,7 @@ vented when permitted to disturb the
 harmony of social intercouse and to  
 the tolerance of opinio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_echo_ver03:data:sn86064205:0020653560A:1887090401:0353/pct:111.03074141048825,61.610305958132045,84.81012658227849,20.665593129361245/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_echo_ver03:data:sn86064205:0020653560A:1887090401:0353/pct:27.770239710538217,15.402576489533011,21.21212121212121,5.166398282340311/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -518,7 +518,7 @@ turb the harmony of social intercourse and
 to lessen the tolerance of opinion.&quot;  
 9. We recommend that the war on th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_ferrari_ver02:data:sn86088181:00200296953:1887092201:0516/pct:323.13546423135466,106.16945434603784,48.858447488584474,17.877707704962983/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_ferrari_ver02:data:sn86088181:00200296953:1887092201:0516/pct:80.78386605783867,26.54236358650946,12.214611872146119,4.469426926240746/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

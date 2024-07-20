@@ -38,7 +38,7 @@ mentioned and loft, being S3 for it and .55 a­
 gainft it.  
 Mr. Thomas reported from the committee fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1805020801:0342/pct:27.495967019179066,78.94148341408871,16.99229252554221,6.187103988073052/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1805020801:0342/pct:27.491039426523297,78.93167701863354,16.995221027479094,6.190476190476191/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -61,7 +61,7 @@ cafes to the territorial courts.”
 and others.”  
 Joint Refolution, cxprefiive of the thanks o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1805031901:0382/pct:77.32836615220862,46.80163954788225,17.29643427354976,5.104955906098621/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1805031901:0382/pct:77.31465058531394,46.79582712369598,17.29927870403216,5.108461665838715/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -80,7 +80,7 @@ States, and in the waters wider their ju­
 risdiction.  
 Be it enacted by the Senate and House o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805033001:0122/pct:60.7391640866873,56.37468622010834,17.66640866873065,3.421852292244682/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805033001:0122/pct:60.72741342619462,56.3672391017173,17.669439607919003,3.4258036107441656/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -161,7 +161,7 @@ that they have leave to report by bill
 or otherwise.  
 On motion of Mr. Montgomery th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808031101:0001/pct:41.36801146835961,50.36731537569274,16.711038296129427,4.652661425441423/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808031101:0001/pct:41.37483787289235,50.375907548223566,16.711038296129427,4.648365339176011/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -187,7 +187,7 @@ went through the committee of the
 whole,and was ordered to a third read-  
 Ing 1O MOrrow. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808032201:0046/pct:60.22727272727273,40.98392980380558,16.013755980861244,8.449176772158138/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808032201:0046/pct:60.23225677830941,40.98721614249565,16.013755980861244,8.449176772158138/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -211,7 +211,7 @@ An act concerning public contracts.
 An act tor the establishment of a turnv  
 pike company in the county of Alexandria
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808050601:0156/pct:78.41848234410217,51.98038476046775,17.824943651389933,5.884571859675594/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808050601:0156/pct:78.40375586854461,51.97384963540357,17.827856025039125,5.8880227977537505/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

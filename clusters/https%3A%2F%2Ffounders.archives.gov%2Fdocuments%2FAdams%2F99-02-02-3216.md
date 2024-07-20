@@ -65,7 +65,7 @@ an opportunity »f so doing thall be sincerely
 held cut, If it be really true that the dif­  
 politions of your government are prepared t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798092901:0001/pct:23.65988909426987,33.555240793201136,16.173752310536045,4.674220963172805/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798092901:0001/pct:23.65988909426987,33.55878186968839,16.17952865064695,4.684844192634561/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -85,7 +85,7 @@ the intention of conciliating with sincerity
 ail the differences which have bappened be­  
 tween the two- countries. I corifirm it t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1799021301:0025/pct:77.4375,74.09797594602523,16.40625,3.3343111371858805/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1799021301:0025/pct:77.4375,74.09797594602523,16.411458333333332,3.340829829536195/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -106,7 +106,7 @@ French Republic and the United States. as
 soon a 3 an opportunity for thar purpufe fhail  
 be sincerely presented. If it be really true
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1799030601:0037/pct:76.83116076970826,47.5942655145326,16.10800744878957,4.08483896307934/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1799030601:0037/pct:76.83633354024415,47.59753862267609,16.10283467825367,4.081565854935847/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -231,7 +231,7 @@ assurances that lie would be properly
 received and respected. The French  
 minister of foreign relations. Talleyrand
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_eritrea_ver01:data:sn84026844:00202193699:1898030301:0434/pct:1.3106159895150722,78.57273225041065,16.644823066841415,3.997079759080124/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_eritrea_ver01:data:sn84026844:00202193699:1898030301:0434/pct:1.3106159895150722,78.58642087972258,16.653014416775886,3.987954006205512/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

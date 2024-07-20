@@ -682,7 +682,7 @@ Nor dares the fav&#x27;riie angel pry
 Between the folded leaves.  
 For the West Jersey Pioneer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340640:1869121001:0199/pct:61.63522012578616,24.393864423552696,10.933720367682632,13.087580405739732/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340640:1869121001:0199/pct:61.62528216704289,24.390847247990106,10.935988390841665,13.089053803339517/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -718,7 +718,7 @@ With all the fates of men,
 With every angel’s form and size  
 Drawn by the eternal pen.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn90053049:00332897901:1887040201:0316/pct:57.142857142857146,36.97536810238063,8.556643873590833,1.7201045823586074/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn90053049:00332897901:1887040201:0316/pct:57.13229859571323,36.97028068244359,8.559682187730969,1.7233076499724822/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

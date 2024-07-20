@@ -355,7 +355,7 @@ MAnch 18, 1887.
 The Board of Visitors of the College  
 of William and Mary have elected th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_tesla_ver01:data:sn85038614:00175030931:1887031901:0318/pct:116.9360818626724,106.23169376830623,35.39967373572594,34.107665892334104/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_tesla_ver01:data:sn85038614:00175030931:1887031901:0318/pct:38.978693954224134,35.41056458943541,11.79989124524198,11.36922196411137/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -392,7 +392,7 @@ dent of the Board of Visitors, of the
 College of William and Mary, has ap-  
 pointed Colonel William La
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_vanhalen_ver01:data:sn85034438:00175049228:1893102101:0313/pct:50.14386189258312,252.65987232612835,39.38618925831202,4.3229924963601745/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_vanhalen_ver01:data:sn85034438:00175049228:1893102101:0313/pct:16.71462063086104,84.21995744204278,13.128729752770674,1.440997498786725/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

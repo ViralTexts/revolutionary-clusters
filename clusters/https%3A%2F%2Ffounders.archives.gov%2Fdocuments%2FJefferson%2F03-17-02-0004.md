@@ -664,7 +664,7 @@ declarations of independence with one!
 hand, and with the other brandishing his  
 whip over I,is affughted si ve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1823042601:0051/pct:4.254173397953688,45.43019752259792,18.282175551965537,4.017408771342484/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1823042601:0051/pct:4.253028263795424,45.42259414225941,18.28398384925976,4.02092050209205/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -887,7 +887,7 @@ To till my ground, to fan me while ( sleep.
 And tremble when I wake, for all the wealth  
 That sinews bought and sold have ever earned-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021206:00517171955:1827032101:0361/pct:25.37517053206003,75.71652645087694,18.67082440070162,2.4383288179095963/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021206:00517171955:1827032101:0361/pct:19.670728023361193,58.684200832504516,14.484946128285168,1.8970788669097876/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -977,7 +977,7 @@ I o catry me— to-fan me while I sleep,
 A nd tremble when I wake, for all tlx* wealth  
 I hat sinews bought anti sold have ever earned.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830022301:0075/pct:79.53711093375898,39.25713603248537,13.647246608140463,1.8631314940881405/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830022301:0075/pct:79.52441749122247,39.252448053498924,13.65038833918502,1.8668895788551867/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1011,7 +1011,7 @@ I hat sinews bought anti sold have ever earned.
   
 \\ bust her orators were pouring forth similar lun
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830032301:0108/pct:5.001597954618089,27.134770564856076,17.48162352189198,4.43213296398892/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830032301:0108/pct:5.000798849656495,27.13150289017341,17.484156148479524,4.435613359023764/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1146,7 +1146,7 @@ Just estimation, priced above ail price,
 I had much rather he myself the slave,  
 And wear the bonds, than fasten them on him.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182938:1833010301:0821/pct:25.35328345802161,6.333808844507846,15.60681629260183,3.7375178316690443/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182938:1833010301:0821/pct:25.348015790567214,6.332905434317501,15.608767920216081,3.740550563400371/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1546,7 +1546,7 @@ Just estimation prized above all earthly price,
 I had much rather bo myself the slave,  
 And wear the bonds, than fasten them on him.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_green_ver02:data:sn84022687:00202199240:1839033001:0045/pct:10.387469084913437,65.78411405295316,19.24979389942292,5.979051498399767/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_green_ver02:data:sn84022687:00202199240:1839033001:0045/pct:7.793814432989691,49.34535932499273,14.45360824742268,4.480651731160896/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1595,7 +1595,7 @@ my heart&#x27;s just estimation prized abuve
 all price, I had rather be myself the slave.  
 and wear the bonds,&quot; than be guilty 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156347:1841051301:1013/pct:270.60702875399363,366.37403564777867,58.70607028753994,10.215482841181165/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156347:1841051301:1013/pct:67.6923076923077,91.59350891194467,14.685314685314685,2.5538707102952913/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1810,7 +1810,7 @@ I bad much rather be myself the slave,&#x27; , v h - J
 And wear the bonds, than las ten them on him.&quot;  
 At the same time I am unwilling t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027510:1848102101:0394/pct:106.06617647058823,73.87256328193192,19.56699346405229,7.550189118417224/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027510:1848102101:0394/pct:79.57099080694586,55.4116962467268,14.688457609805925,5.659004946173989/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1897,7 +1897,7 @@ Just eslimution prized above all price,
 1 had rather much be u.yself ihe slave.  
 And wear the bonds, than fasten them on him.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199264:1851020601:0194/pct:46.37992831541219,101.11041009463722,16.14695340501792,5.211356466876971/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199264:1851020601:0194/pct:34.79118121527156,75.83596214511041,12.116866822011113,3.911671924290221/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2247,7 +2247,7 @@ Just estimation priz’d above all price;
 I had much rather be myself the slave,  
 And wear the bonds, than fasten them on him
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn84022882:00414212426:1856031101:0356/pct:12.025316455696203,88.93638170974155,10.355507675733907,3.131212723658052/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn84022882:00414212426:1856031101:0356/pct:12.023697320587047,88.9275419938376,10.357479466810286,3.133386343305834/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2265,7 +2265,7 @@ To carry me, to fan me whie I sicep
 And tremble when I wake, for all the wealth  
 That sinews bought and suld have ever earned
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743245:1856110501:1062/pct:56.75901201602136,119.84099943214083,38.234312416555404,4.849517319704713/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743245:1856110501:1062/pct:18.919670672007122,39.946999810713606,12.744770805518469,1.6165057732349044/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2287,7 +2287,7 @@ Just estimation prized above all price,
 I had much rather be myself the slave  
 And wear the bonds than fasten them on him.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn83035487:00211100497:1857011701:0528/pct:33.58477011494253,27.09260008087343,16.846264367816094,5.768971559509368/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn83035487:00211100497:1857011701:0528/pct:25.206611570247933,20.32618951341151,12.648221343873518,4.3267286696320255/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2328,13 +2328,13 @@ w hen I w ake ;
 For all the wealth that sinews bought or Sold have  
 ever earned.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn83035487:00211100497:1858103001:0892/pct:82.1969696969697,28.01753664885601,18.362193362193363,3.4662282504452664/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn83035487:00211100497:1858103001:0892/pct:61.68561631474463,21.016577613371695,13.788124887204475,2.603096314563639/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The United States democratic review_](https://archive.org/details/sim_united-states-democratic-review_1859-10_43/page/n119/mode/1up?view=theater)
+## [From _The United States Democratic Review (1856-1859)_](https://archive.org/details/sim_united-states-democratic-review_1859-10_43/page/n119/mode/1up?view=theater)
 
 #### 1859-10-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -2373,7 +2373,7 @@ I had much rather he myself the slave,
   
 And vear the bons, than festen them on him.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:00279529406:1860062801:0200/pct:165.80072865515604,36.779841476398914,72.4378267067955,248.13675618123744/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:00279529406:1860062801:0200/pct:55.266909551718676,12.259947158799637,24.1459422355985,82.71225206041248/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2454,7 +2454,7 @@ Just estimation prized above all price,
 I had much ruther be wrsubr the slave,  
 And wear the bonds, than fasten them on Him.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basic_ver01:data:sn83030213:00206530716:1862060401:0277/pct:198.64912280701753,212.27918468190242,48.526315789473685,28.1408276714021/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basic_ver01:data:sn83030213:00206530716:1862060401:0277/pct:66.21637426900585,70.7597282273008,16.17543859649123,9.380275890467367/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2525,7 +2525,7 @@ Oper
 What can we think of the lamenta­  
 tions of those people who ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293769:1863041201:0324/pct:139.44827586206895,271.93097136880635,46.96551724137931,46.80350372597725/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293769:1863041201:0324/pct:34.86206896551724,67.98274284220159,11.741379310344827,11.700875931494313/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2571,7 +2571,7 @@ That sinews bought and sold have ever earned
 sleep,&quot;  
 And tremble when I wake, for all the gold,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn83035216:00280775162:1867051101:0907/pct:172.77339346110486,148.06135492117596,49.943630214205186,5.283340434597358/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn83035216:00280775162:1867051101:0907/pct:43.193348365276215,37.01533873029399,12.485907553551296,1.3208351086493395/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2775,7 +2775,7 @@ ground, to carry me, to fan me
 while I sleep, and tremble when I  
 wake,” he wus .n the line of ui
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159191:1879071001:0321/pct:35.62684677078936,46.09340416113324,9.821302940762628,3.2425852146967684/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159191:1879071001:0321/pct:35.631536982317904,46.0970931090453,9.81661272923409,3.2425852146967684/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2809,7 +2809,7 @@ Just estimation prized above all price,
 I had much rather be myselt the slave,  
 And wear the bonds, than fasten them on him
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_lisp_ver01:data:sn83030214:00206531368:1879092701:0196/pct:6.770415530242259,178.24263038548753,48.16300336916412,30.18140589569161/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_lisp_ver01:data:sn83030214:00206531368:1879092701:0196/pct:2.2568051767474198,59.414210128495846,16.05433445638804,10.060468631897203/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2856,7 +2856,7 @@ No, dear as freedem is, and in my heart&#x27;s
 fust estimate prized above all price,  
 I had much rather be myself the slave.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282310:1883091001:0032/pct:180.9971098265896,317.1773444753946,50.86705202312139,40.53588009019764/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282310:1883091001:0032/pct:45.2492774566474,79.29433611884865,12.716763005780347,10.13397002254941/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2877,7 +2877,7 @@ No, dear as freedom is, and in my heart&#x27;s
 Just estimate prized above all price,  
 I had much rather be myself the slave
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_ernie_ver01:data:sn83045160:00280779957:1883091201:0247/pct:210.61333333333334,322.48704663212436,34.026666666666664,7.4150834772596435/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_ernie_ver01:data:sn83045160:00280779957:1883091201:0247/pct:52.67440309457116,80.62176165803109,8.510070694944645,1.8537708693149109/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3020,7 +3020,7 @@ e
 That sinews bought and sold have  
 earned.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_rollingstone_ver01:data:sn85038614:00175032903:1897121201:0598/pct:46.446038474078904,59.348961226530385,41.45745027714379,34.8072436395956/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_rollingstone_ver01:data:sn85038614:00175032903:1897121201:0598/pct:15.482012824692967,19.78298707551013,13.819150092381262,11.602414546531866/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

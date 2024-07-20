@@ -117,7 +117,7 @@ a better effect if fired off in the House
 I find the &#x27;  
 Repisrt, however, to fully justified, that the 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157303:1844020801:0383/pct:6.6563733058843715,25.4271106122958,13.226968605249613,10.612295797480982/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157303:1844020801:0383/pct:6.655231560891938,25.423940149625935,13.228987993138936,10.614089775561098/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -159,7 +159,7 @@ quieted. In this quarter ALL ESPOUSED your *
 propositions with ardor, and without a dissenting  
 ■ voice.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183700:1844021501:0032/pct:81.17837202468411,15.316227774026558,16.558918601234204,13.684447445419762/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183700:1844021501:0032/pct:81.16644630527398,15.314504332170586,16.561382890162086,13.686658414913168/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -252,7 +252,7 @@ huble servants in the senate wer to o o a
 move a reference to him in order to pro e en ia te ien an  
 duce it. But I suppose they thought it modesty becoming the position of the New
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1844022201:0194/pct:216.18320610687022,253.82613222280062,120.61068702290076,50.286309213951064/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1844022201:0194/pct:54.05611757969078,63.456533055700156,30.158427180759688,12.571577303487766/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -302,7 +302,7 @@ in strict accordance with his report while
 Secretary of State, in which he recom  
 mended the enforcement of the policy &quot;o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:00200292431:1844033001:0054/pct:68.89067524115755,42.34647112740605,20.036173633440516,28.07821570424687/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:00200292431:1844033001:0054/pct:51.678391959798994,31.759853345554536,15.035175879396984,21.06630003055301/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -389,7 +389,7 @@ this quarter, .ILL LSI’UUSE your proportions
 with ardor, and without a dissenting voice.&quot;  
 1 lie nature of Mr. Aladison’s proposition
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183700:1844052301:0088/pct:21.10980622431004,38.63016810540663,14.73869641808573,14.584279872785098/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183700:1844052301:0088/pct:21.106707764567737,38.62578080636002,14.7414257057586,14.586409237175847/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -432,7 +432,7 @@ object.&quot;?Jilfatun&#x27;t H&#x27;uikt, vol. 3, p. 3U3.
 NOTE Ii.  
 Of that treaty, Mr. Jefferson aaya, in a teller to Man
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661204:1852050601:0441/pct:20.00662471016893,17.706084084846946,15.866180854587611,4.356662009399212/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661204:1852050601:0441/pct:20.00662471016893,17.706084084846946,15.888263221817379,4.365129768406791/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -453,7 +453,7 @@ proper time, and declare to both England and France that
 these islands are to rest with France; and that we will  
 make a common cause with the latter for that object
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855010701:0030/pct:19.141588554514062,69.3882807469414,15.96776845913501,3.451384417256922/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855010701:0030/pct:19.141588554514062,69.39257351362953,15.973250013703886,3.459969950633183/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

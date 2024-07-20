@@ -163,7 +163,7 @@ sand tight hundred and thir­
 teen.  
 __JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813072901:0236/pct:40.88096104841645,12.690044139283962,35.18383691299599,82.69985286905346/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813072901:0236/pct:40.87352138307552,12.688488414858403,35.18350015165302,82.69380082546688/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -318,7 +318,7 @@ year of our Lord ooe thousand &gt;v
 eight hundred and thirteen. |  
 . JAMES MADISON. J
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813073001:0435/pct:62.4099028517706,7.360201059150884,36.55593857724851,85.03724979804326/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813073001:0435/pct:62.40012533291556,7.359540477472626,36.55543370410987,85.03260934601806/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -440,7 +440,7 @@ w licit »)»» 3 can be acceptable i(y (liitt whom
 t..icr-ii es propitii&#x27;e,  
 Upcn this?! .-rincip’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1813073001:0106/pct:4.051054384017758,19.27096292610102,17.961524232334444,60.38815625777556/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1813073001:0106/pct:4.050305159977807,19.268565742007713,17.964367178349054,60.384790811460796/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -560,7 +560,7 @@ of July, in the yetr of our l^ord our thogn
 »ond eight hundred and thirteen,  
 u ; . JAMR* MADlM0tf.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813073101:0554/pct:48.49328944036465,14.38694792353329,44.922765257027095,83.86618325642716/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813073101:0554/pct:48.48101265822785,14.384577360355907,44.91772151898734,83.85648376997858/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -866,7 +866,7 @@ he has blefled the labors employed in
 its cultivation and ~improvemens  
 that be is nowy bl:fliag the exerijo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1813080301:0550/pct:79.53662182361734,59.4235248447205,15.530642750373692,24.029503105590063/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1813080301:0550/pct:79.54160438465371,59.4235248447205,15.535625311410065,24.039208074534162/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -961,7 +961,7 @@ Given at_Waﬁ:isgton“, this twenty­
 . bundted ang thitfeen., , . .  
 . JAMES MADIsON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1813080301:0551/pct:6.858440575321726,5.60477657935285,16.820590461771385,53.77503852080123/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1813080301:0551/pct:6.86853393893515,5.611196712891628,16.81049709815796,53.77503852080123/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1095,7 +1095,7 @@ day of July in the year of our Lord one
 thousand eight hundred and thirteen.  
 &quot; JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1813080501:0875/pct:1.9329456038316797,4.367455098635784,48.871022921655836,93.44391009912651/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1813080501:0875/pct:1.9386475082677614,4.373998102528871,48.871022921655836,93.44718160107305/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1284,7 +1284,7 @@ Washington system ; and here every
 genuine American heart will unite in  
 most grateful aspirations to “ the Give
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813083001:0532/pct:2.9094668438930733,7.216681776971895,33.86501255353714,85.00453309156845/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813083001:0532/pct:2.909037212049616,7.216027558698214,33.86493404213428,84.99984891064575/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1304,7 +1304,7 @@ sites of human life, with air.pfc means
 for convenient exchanges with foreign  
 countries.” But of what avail is such 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813083001:0532/pct:20.39580564170728,18.241160471441525,16.18667848176045,4.442429737080689/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813083001:0532/pct:20.392793857058475,18.239506844347748,16.189210474502854,4.445048801861421/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1359,7 +1359,7 @@ lie M o ocom ** tfp
 . What degradation on the ocean does  
 Britain require from us, which she ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813083001:0532/pct:20.174272633289025,37.207615593834994,16.2309850834441,29.764279238440615/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813083001:0532/pct:20.17129356172475,37.20424258906717,16.2335105335696,29.764602786087693/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1379,7 +1379,7 @@ joy in peace every man the fruits of his j
 it ut:stry and the rewards of his lawful  
 enterfirize** which have beeD so lon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813083001:0532/pct:20.262885836656327,77.22574796010879,16.688819967508493,4.487760652765186/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813083001:0532/pct:20.25989367985824,77.21874716707461,16.691277810592638,4.49037560813465/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1408,7 +1408,7 @@ and the eves of all turned to that Almighty
 Sower in whose hands are the welfare and the  
 estiny of nations.” Observe the cautious pbra­
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813090401:0594/pct:2.0010261672652643,61.54099983501072,24.037968188814776,10.39432436891602/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813090401:0594/pct:2.000512952038984,61.530847904981854,24.038214926904335,10.396733751237216/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1427,7 +1427,7 @@ pable of yielding nil the necessaries and requi­
 sites of human life, with ample means for enn­  
 lenient exchanges with foreign countries.” Bu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813090401:0594/pct:4.258594150846588,79.95380300280482,21.626475115443817,3.4482758620689653/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813090401:0594/pct:4.257501923570146,79.94061365885847,21.627340343677865,3.451831078851864/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1473,7 +1473,7 @@ arms, in resisting the hostile and persevering ef­
 forts of the same po wer to degrade us on the o­  
 cean,” &amp;c.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813090401:0594/pct:2.052334530528476,14.271572347797393,46.305797845048744,83.53407028543144/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813090401:0594/pct:2.0518081559374197,14.269218079841636,46.30033341882534,83.52441438469153/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1851,7 +1851,7 @@ ai e:T&gt;r z- .
   
 It Ujc public ol a peoj lc # an over t 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813090801:0284/pct:4.342342342342342,26.120857699805068,17.945945945945947,40.93567251461988/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813090801:0284/pct:4.3415600792649975,26.11767572176879,17.94871794871795,40.9347464165347/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1893,7 +1893,7 @@ one Jaoit one thousand tight
 huutirco and thirteen.  
 JAMKS .Via 1)130 V
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813090801:0284/pct:4.954954954954955,67.09307992202729,17.2972972972973,15.30214424951267/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813090801:0284/pct:4.954062331111511,67.08490680959922,17.300186152645168,15.304340764201893/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2099,7 +2099,7 @@ pendant on the precarious policy, cr the peaceable dis­
 positions of other nations” I well recollect a cir­  
 cular : ddressed to the people of the Norther
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215749:1844022201:0044/pct:37.32401299596337,79.54379197978321,15.014275868858915,9.084258828223716/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215749:1844022201:0044/pct:37.32033864934042,79.53850246043356,15.0160792806983,9.085871348140268/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2119,7 +2119,7 @@ important to remain dependent in the precarious
 policy, or the peaceable dispositions of other na­  
 tions.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215749:1844040501:0188/pct:39.0402202773134,53.71989057182892,14.711377716589634,2.855808367251618/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215749:1844040501:0188/pct:39.03638151425762,53.71630637843608,14.713208784005245,2.8578418290187706/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2139,7 +2139,7 @@ important to remain dependent up fheptebarious
 policy, the peaceable dispositions tf other na­  
 tions. v 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157303:1844041801:0414/pct:29.4157265532918,55.907960199004975,12.342145142279845,2.512437810945274/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157303:1844041801:0414/pct:29.410774410774412,55.901007337395846,12.344276094276093,2.5152344235791566/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2197,7 +2197,7 @@ essential io tils present happiness and
 so dear to his future success.”  
 THAKdtFUL FOR PEACE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_griffin_ver01:data:sn85042104:00332892058:1899112601:0502/pct:6.297395318166831,80.75008297378028,14.210352786020442,6.117933399712357/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_griffin_ver01:data:sn85042104:00332892058:1899112601:0502/pct:6.3083855368721835,80.75377069734853,14.204857676667766,6.114245676144116/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2225,7 +2225,7 @@ to his present happiness and so dear to
 his fuutrs success.”.  
 THANKFUL FOR PEACH 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_miller_ver01:data:sn86092523:00514157911:1899112601:0488/pct:83.31036858422321,34.38533978111479,12.797106441612126,8.46271315856452/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_miller_ver01:data:sn86092523:00514157911:1899112601:0488/pct:83.29602204236267,34.38096449930016,12.7992078525917,8.464817406794758/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2277,7 +2277,7 @@ those sacred rights of conscience so
 essential to his present happiness and  
 so dear to his future success.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_asburypark_ver01:data:sn84026089:00514155914:1899112901:0614/pct:27.68351491337739,74.75660639777469,10.573316663689944,3.5465924895688454/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_asburypark_ver01:data:sn84026089:00514155914:1899112901:0614/pct:27.678571428571427,74.74621054095397,10.575892857142858,3.5495758587122794/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2336,7 +2336,7 @@ those sacred rights of conscience so
 essential to his present happiness and  
 so dear to his future success.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jesse_ver01:data:sn82016014:00295871453:1899113001:0443/pct:111.1229566453447,55.50970502827449,16.613361762615494,7.381934892251261/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jesse_ver01:data:sn82016014:00295871453:1899113001:0443/pct:83.36591434156745,41.63227877120587,12.457792784787632,5.547913801008711/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

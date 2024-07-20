@@ -863,7 +863,7 @@ they are particularly reneFicial to fe-
 LEs, strengthening the boety, invigoratin  
 he mnind, and giving tone and elasticity to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dagwood_ver01:data:sn85033995:00294556515:1871111801:0187/pct:15.885111371629543,35.266604303087,79.30832356389215,346.5388213283442/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dagwood_ver01:data:sn85033995:00294556515:1871111801:0187/pct:3.9724420990911757,8.81665107577175,19.832893579595428,86.63470533208606/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -882,7 +882,7 @@ fame, .. ... .,
 Will never mark the marble with his  
 name.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_quartz_ver01:data:sn84022044:00279554838:1873011501:0085/pct:14.3272239606616,93.24925816023739,14.70719713902548,2.136498516320475/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_quartz_ver01:data:sn84022044:00279554838:1873011501:0085/pct:14.324022346368714,93.23542501112594,14.70949720670391,2.1398902240023734/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -936,7 +936,7 @@ Pope:
 He who builds a church to God and not to fame  
 Will never mark the marble with his name.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_funston_ver01:data:sn84027670:00237283387:1878112101:0202/pct:272.09302325581393,85.509246480817,47.41185296324081,6.624344465912228/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_funston_ver01:data:sn84027670:00237283387:1878112101:0202/pct:68.04878048780488,21.37731162020425,11.857410881801126,1.656086116478057/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1065,7 +1065,7 @@ of the Beacon Light was devoted to a
 photograph and biographical sketch of  
 the life of its editor, the notorious Ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_americanrobin_ver01:data:2010270509:00517013900:1894032901:0486/pct:24.186046511627907,36.39603346761698,15.186046511627907,5.330027889680818/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_americanrobin_ver01:data:2010270509:00517013900:1894032901:0486/pct:24.180423157405254,36.390395042602634,15.188328295745176,5.333075135553834/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1082,7 +1082,7 @@ who builds a house to God and not to fame will never mark the marble with his na
   
 SEE YOU DON&#x27;T MISS THIS SALE OF SALES.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_goshawk_ver03:data:sn2001063112:00415624645:1895032901:0426/pct:43.07425933051174,23.636363636363637,55.59830704116968,2.4194702934860417/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_goshawk_ver03:data:sn2001063112:00415624645:1895032901:0426/pct:39.84458417368609,21.868102763308908,51.43552022778503,2.2424295930078575/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1098,7 +1098,7 @@ SEE YOU DON&#x27;T MISS THIS SALE OF SALES.
 Who bullds a house to God, and not to fame,  
 Will never mark the marble with his name
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_baxter_ver01:data:sn83009653:00279524147:1896021801:0244/pct:80.18466771959665,143.28809829451677,27.63941197910339,1.7146524848707134/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_baxter_ver01:data:sn83009653:00279524147:1896021801:0244/pct:26.72497570456754,47.75832034473274,9.212018140589569,0.5714984260872222/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

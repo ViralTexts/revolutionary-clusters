@@ -146,7 +146,7 @@ health in any degree permitted. He
 now harards everything in respect to his  
 health for the desirable purpose
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn84024448:00296020746:1887101501:0901/pct:78.30482115085536,193.0,51.32192846034214,18.333333333333332/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn84024448:00296020746:1887101501:0901/pct:19.583819525476468,48.25,12.835472578763127,4.583333333333333/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -169,7 +169,7 @@ i- greo permitted. He now hazards everything
 t in respect to his health for the desirable pur  
 e pose
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00202194060:1887110201:0111/pct:28.177736491716985,25.02951593860685,14.119832791453785,4.089299130621445/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00202194060:1887110201:0111/pct:28.1828972493162,25.02951593860685,14.135315064251433,4.09645450967765/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

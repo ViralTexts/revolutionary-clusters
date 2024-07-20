@@ -339,7 +339,7 @@ piness than it seems you have lately
 experienced, I remain  
 Your aOn tioiiatf Father
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:0039334880A:1825062301:0340/pct:50.55624227441285,11.161497952018724,30.861145447053975,84.42071386775892/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:0039334880A:1825062301:0340/pct:50.54582904222451,11.159865438057627,30.859938208032954,84.412022817025/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -393,7 +393,7 @@ and not onty deserted, but to find him taking up arms
 egainst me in a cauce wherein my good lame, fortune and  
 life were all at stake.&quot; In his will, also, he alludes to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743245:1856092701:0733/pct:67.15702479338843,228.0619266055046,45.768595041322314,7.236238532110092/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743245:1856092701:0733/pct:22.385674931129476,76.02064220183486,15.256198347107437,2.412079510703364/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -412,7 +412,7 @@ serto 1 in my old age by my only son ; and not only j
 deserted, but to find him taking np arms against me !  
 in a cause wherein my good fume &amp; fortune were al
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182987:1856100901:0378/pct:4.7635605006954105,20.777461736421508,15.125173852573019,2.4515779493430854/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182987:1856100901:0378/pct:4.762732487397879,20.774647887323944,15.126890318094906,2.454631635969664/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -433,7 +433,7 @@ find him taking up arms against me in a
 cause wherein my good fame, fortune and j  
 life were all at stake.&quot; In his will, also
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84020712:00295879166:1856101401:0539/pct:74.22048997772829,57.3131335635513,17.177060133630288,5.5586498830344215/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84020712:00295879166:1856101401:0539/pct:55.68086883876357,42.98763506739445,12.89334447229184,4.177342096468753/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -455,7 +455,7 @@ therein my good fjnitf, fortune and life were
 all at stake.&quot; In bis will, alio, he alludes to  
 the part his son had acted. Aficr making hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_danby_ver01:data:sn98060050:00280777341:1856101801:0767/pct:5.678670360110804,67.71766391974202,16.966759002770083,5.840200644930133/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_danby_ver01:data:sn98060050:00280777341:1856101801:0767/pct:4.272517321016166,50.788247939806524,12.725173210161662,4.389107846649947/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -471,7 +471,7 @@ the part his son had acted. Aficr making hi
 is ever hurt me so much, and affected me the hats. &quot; Co!. And since my ap ler­  
 with slich keen sensations, as to find myself tempted $9, I will make you a present of a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296229:1856101801:0588/pct:18.33144154370034,262.5363825363825,97.95686719636777,4.116424116424116/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296229:1856101801:0588/pct:4.584811923349894,65.63409563409563,24.499645138396026,1.029106029106029/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -492,7 +492,7 @@ him taken up arms against me in a cause
 wherein my good fame, fortune, and life were  
 all at stake.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016750:00383347178:1856112901:0401/pct:44.89243674739548,77.39085239085239,11.919902584224056,3.2536382536382535/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016750:00383347178:1856112901:0401/pct:44.89243674739548,77.3977823977824,11.933432553105128,3.257103257103257/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -513,7 +513,7 @@ serted, but to find him taking l.p arms against
 me in a cause wherein my good fame, fortune,  
 and life, voce all at stake.&quot; In his will als
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn85054616:00212477771:1856121001:0594/pct:5.97972972972973,86.14197934370506,19.30743243243243,5.621649888874362/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn85054616:00212477771:1856121001:0594/pct:4.494761743832376,64.60975290887697,14.481243663399797,4.2227742188521376/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -631,7 +631,7 @@ find him taking up arms against me in a caus
 wherein my good fame, fortune, and life, were  
 all at stake.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:0027952939A:1857020701:0651/pct:131.82921605026417,260.6138380921827,37.26974153934028,9.410758207678324/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:0027952939A:1857020701:0651/pct:43.943072016754726,86.87127936406088,12.423247179780095,3.136919402559441/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -672,7 +672,7 @@ wherein my good fame, fortune, and life were
 all nt&#x27;atake.&quot; In his will also, he alludeslo the  
 part his .on had acted. After making-him som
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn84026897:00237288269:1857040101:0414/pct:84.20535839528685,47.693069306930695,13.774722962547342,4.00990099009901/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn84026897:00237288269:1857040101:0414/pct:84.21003413288446,47.696369636963695,13.779398700144949,4.016501650165017/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -694,7 +694,7 @@ where my good fame, fortune and life were at all
 stake.&quot; In his will, he also alludes to the part  
 his son had acted. After making him som
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_gonne_ver01:data:sn88067030:00202190133:1857051601:0246/pct:26.767461669505963,193.1832298136646,51.17120954003407,15.559006211180124/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_gonne_ver01:data:sn88067030:00202190133:1857051601:0246/pct:8.922487223168654,64.3944099378882,17.057069846678022,5.186335403726708/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -715,7 +715,7 @@ erted, but to find him taking up arms
 against me in a cause wherein my fame,  
 fortune, and life, were all at stake.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_gary_ver01:data:sn84023881:0020219137A:1857052201:0325/pct:250.04985044865404,307.02938840349486,41.924227318045865,13.780778395552025/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_gary_ver01:data:sn84023881:0020219137A:1857052201:0325/pct:62.528047868362,76.75734710087372,10.483669907753677,3.445194598888006/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -736,7 +736,7 @@ only deserted, but to find him taking up
 arms against me in a cause wherein my good  
 fame, fortune and life were at stake.” in hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn93051028:00279557931:1857062701:0352/pct:62.51805985552116,37.7750979801025,15.23219814241486,4.145312028941815/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn93051028:00279557931:1857062701:0352/pct:62.52837977296181,37.77886644558336,15.237358101135191,4.149080494422671/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -758,7 +758,7 @@ my good fame, fortune and life, were all
 at stake.&quot; In his will, he also alluded to  
 the part his son had acted. After makin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668156:1857110301:0139/pct:15.63011456628478,93.81377551020408,36.824877250409166,13.201530612244898/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668156:1857110301:0139/pct:5.212170828216673,31.27125850340136,12.279983626688498,4.400510204081633/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -779,7 +779,7 @@ deserted, but to find him taking up arms
 against me in a cause wherein my good  
 fame, fortune and life were all at stake
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237286893:1858081101:0235/pct:82.17200251098556,66.07164395127246,14.171374764595104,5.319020624773851/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237286893:1858081101:0235/pct:61.63867524721394,49.55976359908335,10.641971433056035,3.992280786394886/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -800,7 +800,7 @@ bim taking up arms against me in a cause
 wherein my good fame, . fortune and life  
 were all at stake.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035102:0029602708A:1858081901:0137/pct:75.98425196850394,79.24250535331906,16.678596993557623,5.487152034261242/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035102:0029602708A:1858081901:0137/pct:57.01754385964912,59.435224839400426,12.51342642320086,4.122055674518201/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -820,7 +820,7 @@ and not only deserted, but to find bira takirg up
 arms against me in a cause wherein my good  
 fame, fortune and life were all at stake.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024718:00414183773:1858091401:0135/pct:82.97673174645627,29.42332896461337,12.570205937416421,2.714847406852649/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024718:00414183773:1858091401:0135/pct:82.96563711726166,29.42057474492184,12.572982127735438,2.7177135012012856/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -869,7 +869,7 @@ a cause wherein my own good fame, for-
   
 intiB and life were all at stake.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn83035366:00296029105:1858092901:1040/pct:76.55410590943976,81.55650319829424,16.155026861089794,5.037313432835821/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn83035366:00296029105:1858092901:1040/pct:57.458245344595895,61.16737739872068,12.113649452870032,3.784648187633262/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -891,7 +891,7 @@ him taking up arms against me in a cause
 wherein my good fame, fortune and life were  
 all at stake.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862695:1858093001:0085/pct:57.330538085255064,15.050426687354538,26.61076170510133,83.13615205585725/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862695:1858093001:0085/pct:57.330538085255064,15.050426687354538,26.61542045189844,83.14584949573313/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -912,7 +912,7 @@ ing up arms against me in a cause wherein
 my good fame, fortune and life were all at  
 stake
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290094:1858102101:0379/pct:25.636766334440754,315.2872240242754,37.70764119601329,9.082348017160196/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290094:1858102101:0379/pct:6.410966491276655,78.82180600606885,9.429520908335641,2.270587004290049/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -933,7 +933,7 @@ him taking up urms against me in a cause
 wherein my good fame, fortune and life wer  
 all at stake.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn85033711:00212470247:1858110501:0438/pct:74.33628318584071,340.8266554196542,42.99843831337845,11.471952762547449/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn85033711:00212470247:1858110501:0438/pct:18.58407079646018,85.20666385491354,10.749609578344613,2.8679881906368623/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -954,7 +954,7 @@ him taking up arms against me in a cuime
 wliprein my gissl fame, fortune and life were  
 all al stake. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347269:1858111101:0904/pct:23.357955679776403,61.221759809750296,13.19624675583949,3.8198573127229487/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347269:1858111101:0904/pct:23.357955679776403,61.2316686484344,13.209556132295202,3.814902893380896/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -975,7 +975,7 @@ but to find him taking up arms against me
 in a cause wherein my good fame, for­  
 tune and life were all at stake.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_dragonair_ver01:data:sn89051343:00414212578:1858112001:0191/pct:54.431288123430214,44.11017515710657,13.00681736634374,3.7705575611712794/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_dragonair_ver01:data:sn89051343:00414212578:1858112001:0191/pct:54.42152466367713,44.10427807486631,13.008968609865471,3.7733957219251337/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -996,7 +996,7 @@ king up arms against me in a cause wherein
 my good tame, fortune and life were all at  
 stake.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn82005159:00296028435:1858112601:0744/pct:64.12940057088487,41.045939786493946,14.605137963843958,3.7183639198752547/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn82005159:00296028435:1858112601:0744/pct:64.12940057088487,41.045939786493946,14.610423934876836,3.7223621606493142/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1042,7 +1042,7 @@ good fame, fortune, and life, were all nt
 stake.” In his will, also, he alludes to the  
 part his son had acted. After making som
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_bia_ver01:data:sn83021205:00517172078:1858120901:1148/pct:7.979856672477242,117.90096722968096,15.766027503389502,5.254800057745055/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_bia_ver01:data:sn83021205:00517172078:1858120901:1148/pct:6.194336035224658,91.37390915193555,12.22355648954268,4.0874170209592/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1085,7 +1085,7 @@ against me in a cause wherein my
 good name, fortune and life were all  
 at stake.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00212470478:1858122301:0605/pct:268.16037735849056,168.90187226131988,51.022012578616355,20.342583986190412/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00212470478:1858122301:0605/pct:67.0532730489483,42.22546806532997,12.758010615293886,5.085645996547603/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1111,7 +1111,7 @@ at stake.
   
 proprietor politely .nested that
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn87058348:00279529376:1859022401:0128/pct:68.53823814133591,40.42461005199307,25.15558014105933,19.356585788561524/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn87058348:00279529376:1859022401:0128/pct:68.53823814133591,40.42461005199307,25.16940948693127,19.363807047949162/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1132,7 +1132,7 @@ but to End hiin taking up arms against uie in a
 cause wherein my good fame, fortune, and life  
 were all at stake.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199276:1859040701:1070/pct:73.09879175550817,98.19056054662786,16.044776119402986,4.985448563836518/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199276:1859040701:1070/pct:54.842722587524435,73.6429204099709,12.031277767904745,3.745413134252815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1152,7 +1152,7 @@ and not only deserted, but to God bim taking up
 arms ngainst me in a cause wherein my good  
 fnme, fortune, and life, were all at slime.&quot; In hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn83035487:00211100497:1859040901:0987/pct:32.37853517041334,60.496706915477496,18.29224075416969,4.4593852908891325/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn83035487:00211100497:1859040901:0987/pct:24.306185380010884,45.37596048298573,13.731180845274805,3.3479692645444565/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1178,7 +1178,7 @@ him taking up arms against me in a cause where­
 in my good fame, fortune and life were all at  
 stake.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393348008:1859041901:0850/pct:257.72230889235567,114.91485613623018,57.58580343213728,23.326482677627716/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393348008:1859041901:0850/pct:64.41801520764281,28.724497284602965,14.393643985182297,5.8307647145163655/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1216,7 +1216,7 @@ my old age, by my only son ; and not only deserted, but
 to nnd mm tasmg up arms against me in a cause where­  
 in my good fame, fortune and life&#x27; were all at stake.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879099:1859042901:0492/pct:70.60468833244539,116.53782170466778,20.498135322322856,3.150993247871612/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879099:1859042901:0492/pct:52.978014656895404,87.40581270182993,15.389740173217854,2.3681377825618943/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1239,7 +1239,7 @@ lame, fortune&#x27;and lifi were all atstake.’&#x27; |
 u li. iviM, alio, he alludes to tho part j  
 ! ! son had aco . After making eim 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fireweed_ver01:data:sn83016209:00383342387:1859050601:0551/pct:83.10494049765597,54.84490398818316,14.532996754417598,6.3220088626292466/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fireweed_ver01:data:sn83016209:00383342387:1859050601:0551/pct:64.41214831376934,42.50934900404488,11.272591764486679,4.903457223536595/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1261,7 +1261,7 @@ my good fame, fortune and life were all at
 stake.&quot; In his will, also, he alludes to the  
 part his son had acted. After making som
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn84024558:00296028642:1859051901:0206/pct:46.260086902545005,48.01702890432445,14.556176288019863,4.470087385166928/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn84024558:00296028642:1859051901:0206/pct:46.260086902545005,48.02449772201061,14.566521829091661,4.462618567480768/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1282,7 +1282,7 @@ serted, but to find him taking up arms
 against me in a cause wherein my good  
 fame, fortune and life were all at stake.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_eiffel_ver02:data:sn84020047:0029587756A:1859060801:0300/pct:330.4395008138904,350.4273504273504,37.276180141074335,9.819121447028424/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_eiffel_ver02:data:sn84020047:0029587756A:1859060801:0300/pct:82.6098752034726,87.6068376068376,9.319045035268584,2.454780361757106/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1303,7 +1303,7 @@ nim taking up arms against me in a cause
 wherein my good fame, fortune and life were  
 all at stake.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776038:1859061801:0714/pct:278.64845434938894,298.83056839815066,50.035945363048164,12.836551536578733/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776038:1859061801:0714/pct:69.68716289104638,74.70764209953767,12.513484358144552,3.2091378841446834/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1370,7 +1370,7 @@ in my old age, by my only s
 serted, but to find him taking up arms agains  
 a cause wherein my good fame, fortune and li
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_qualchan_ver01:data:sn82015753:00212475233:1859071601:0104/pct:244.06146179401992,127.59316770186335,33.63787375415282,14.347826086956522/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_qualchan_ver01:data:sn82015753:00212475233:1859071601:0104/pct:81.35382059800665,42.53105590062112,11.212624584717608,4.782608695652174/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1413,7 +1413,7 @@ find him taking Up arms against me in a
 cause whereon my good fame, fortune, and  
 life were all at stake.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn96027384:00393349451:1859072201:0324/pct:56.53362493165664,71.83949227147097,12.465828321487152,3.5520524106868665/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn96027384:00393349451:1859072201:0324/pct:56.52589859231926,71.83213920163767,12.46868024235798,3.5551006482429206/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1433,7 +1433,7 @@ him taking up arms against me in a cause
 wherein my good fame, fortune and life were  
 all at stake.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn86071378:00212477631:1859072701:0367/pct:77.06367924528301,56.29973474801061,18.72051886792453,3.381962864721485/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn86071378:00212477631:1859072701:0367/pct:57.81480389265703,42.230327144120245,14.051902093777647,2.541998231653404/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1511,7 +1511,7 @@ arms against me in a cause wherein my good
   
 fame, fortune and life were all at stake.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eagle_ver01:data:sn84022278:00200296527:1859081701:0346/pct:256.7479674796748,274.0061162079511,87.88617886178862,16.89238386486093/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eagle_ver01:data:sn84022278:00200296527:1859081701:0346/pct:64.22615415904006,68.50152905198777,21.984950172869635,4.223095966215232/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1538,7 +1538,7 @@ arms against me in a cause whereon
 my good fame, fortune, and life were  
 all at stake.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn82014141:00279529455:1859090101:0569/pct:11.48677323525251,160.24757678383745,29.84863488470788,19.023706644867453/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn82014141:00279529455:1859090101:0569/pct:3.828924411750837,53.41585892794581,9.949544961569293,6.341235548289151/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1564,7 +1564,7 @@ part ho acted against me in the late war,
 which if of public notoriety, will account  
 for my leaving him no more of an estat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn84030186:00294555699:1863011701:0263/pct:97.83024888321634,58.558030480656505,22.128270580727506,11.066822977725675/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn84030186:00294555699:1863011701:0263/pct:65.24098308330673,39.038686987104334,14.762208745611236,7.38569753810082/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1588,7 +1588,7 @@ and life were all at stake.&quot; In his will,
 also, he alludes to the part his son had  
 acted. After making him some b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn85029094:00237281858:1863013101:0410/pct:172.05363443895553,300.2707232177388,50.95271700776288,22.843882944437283/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn85029094:00237281858:1863013101:0410/pct:43.02099876477854,75.0676808044347,12.7404270337039,5.710970736109321/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1622,7 +1622,7 @@ my good name, fortune, and life, were
   
 all at stake.&quot; In his will also, h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477850:1868121001:0607/pct:336.07491856677524,114.36798157212785,46.17263843648208,17.621652749784047/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477850:1868121001:0607/pct:84.05295315682281,28.59199539303196,11.54786150712831,4.405413187446012/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1779,7 +1779,7 @@ ing up arms against me in a cause wherein !
 my good fame, fortune and life were at  
 | stake.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295861939:1885012901:0117/pct:44.662957691810064,68.62031306880233,15.318928710053047,4.322897706589006/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295861939:1885012901:0117/pct:44.66727045327123,68.62638029365368,15.314615948591884,4.322897706589006/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1803,7 +1803,7 @@ him taking up arms aitai nst. me in a cause
 wherein my good fame, fortune and life  
 were at stake.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551128:1885020501:0056/pct:26.31434830230011,81.09027305412496,12.061883899233298,4.839179865902245/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551128:1885020501:0056/pct:26.32347572106608,81.09027305412496,12.066447608616283,4.848897094548635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1827,7 +1827,7 @@ him taking up armaugainat me in a cause
 wherein my good fame, fortune and life  
 were at ?take.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_gnomiemoore_ver01:data:sn84026965:00294551190:1885020502:0552/pct:27.452354260089685,80.08112256084192,12.163677130044842,4.702916027187021/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_gnomiemoore_ver01:data:sn84026965:00294551190:1885020502:0552/pct:27.457025411061284,80.08477673024922,12.159005979073244,4.706570196594314/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

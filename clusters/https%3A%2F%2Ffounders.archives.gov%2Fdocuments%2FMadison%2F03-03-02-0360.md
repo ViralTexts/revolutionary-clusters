@@ -71,7 +71,7 @@ the claitnant shall be final, against the]&#x27;
 United States, any act of Congress toj&#x27;  
 the contrary notwithstandl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807031301:0002/pct:3.9982616253802696,60.419749764563434,18.470230334637115,7.25144625319521/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807031301:0002/pct:4.00550485296248,60.42423427059509,18.477473562219323,7.24696174716355/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -107,7 +107,7 @@ Sec. 5. And be it further enacted, That
 the time fixed by the act above-mentioned,  
 and by the acts supplementary to the same
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807033101:0108/pct:1.3967534918837297,52.06035247876252,19.158172895432237,12.831241283124129/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807033101:0108/pct:1.3964899037554255,52.053752535496955,19.16084795873435,12.833840432724815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -135,7 +135,7 @@ contrary notwithstanding. :
 Sec. 5. Aud be it furtber engßed, &#x27;That the time fixed by the a&amp;t a­  
 bovementioned, and by the, a&amp;s supplementary to the fame, for de
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1807101301:0583/pct:67.78039215686275,39.38369781312127,25.537254901960786,7.952286282306163/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1807101301:0583/pct:67.78562091503268,39.3870112657389,25.54248366013072,7.952286282306163/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -436,7 +436,7 @@ vision, the worst troubles of the Land Oommis­
 sions ended.  
 For nearly a year after the annexation o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043020:1898082101:0060/pct:120.31842304776346,199.69145325516817,50.87187263078089,15.48904659055847/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043020:1898082101:0060/pct:30.096719135217143,49.92286331379204,12.725203868765409,3.8722616476396174/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -134,7 +134,7 @@ l.ties, 1 know not; before that I never bad heard ad?po?tion
 to separate from Great Britain ; and after that lU possibility  
 was contemplated with aflliction by all
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1847090401:0651/pct:80.9308885754584,34.18107833163784,15.669957686882933,2.6788741946422516/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1847090401:0651/pct:80.9355900329102,34.188613842733886,15.674659144334743,2.6788741946422516/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -161,7 +161,7 @@ tion to separate from Great Britain and after
 that, its possibility was contemplated with af­  
 fliction by all,&quot; &amp;c.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn86083363:0041566882A:1849070401:0281/pct:43.70307408981442,66.89151208544126,12.693016007933135,5.9808881394041595/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn86083363:0041566882A:1849070401:0281/pct:43.70307408981442,66.89900693273374,12.711904424611607,5.977140715757916/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -241,7 +241,7 @@ that its possibility was contemplated with
 affliction by all.” In 1774 &#x27;Washington ap­  
 proved the Fairfax county resolves, whic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:00415665738:1897112901:0262/pct:14.816332104328827,37.9038854805726,12.508534753516319,4.846625766871166/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:00415665738:1897112901:0262/pct:14.816332104328827,37.9038854805726,12.517638490600392,4.846625766871166/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

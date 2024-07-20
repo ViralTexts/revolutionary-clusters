@@ -101,7 +101,7 @@ are such as will not be found unseceptable,
 With the greatest regard, we have the honor to  
 be, your Excellency&#x27;s most obedient servants,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_kingler_ver01:data:sn83025167:00279528785:1877083101:0153/pct:118.18523153942428,178.64329116445862,32.715894868585735,20.52993326028489/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_kingler_ver01:data:sn83025167:00279528785:1877083101:0153/pct:39.39507717980809,59.547763721486206,10.905298289528577,6.84331108676163/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -133,7 +133,7 @@ are such as will not be found unacceptable.
 With the greatest regard, we have the honor to  
 be, your Excellency&#x27; mottt obedient servant
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_gaylord_ver02:data:sn85033781:00296023759:1877083101:0590/pct:99.71759809750297,113.67078103931128,20.868014268727705,11.637796909034332/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_gaylord_ver02:data:sn85033781:00296023759:1877083101:0590/pct:66.49323621227887,75.78052069287418,13.914077597740448,7.758531272689555/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -191,7 +191,7 @@ lency&#x27;s most obedient servants, Benja­
 min Franklin, Silas Deane, Arthur Lee.&quot;  
 This letter was in the hand writing o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn83032231:00237287472:1877100601:0176/pct:187.9396984924623,301.66135257593555,56.68341708542714,49.13576103373049/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn83032231:00237287472:1877100601:0176/pct:47.00854700854701,75.41533814398389,14.177978883861236,12.283940258432622/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -232,7 +232,7 @@ acceptible. With the greatest regard, we
 have the honor to be your excellency&#x27;s  
 most obedient servants
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_kirby_ver02:data:sn84022553:00202197243:1877100601:0667/pct:242.98932384341637,328.1308661839635,43.629893238434164,37.06087422901582/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_kirby_ver02:data:sn84022553:00202197243:1877100601:0667/pct:60.7689569241723,82.03271654599088,10.91135635457458,9.265218557253956/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -301,7 +301,7 @@ will not bo found unacceptablo.
 tho honor to bo your Exoullcncy&#x27;s most  
 obedient icrvants
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn84038198:00202192506:1877110301:0471/pct:42.327530625402964,74.9459108610991,13.926499032882012,16.22674167027261/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn84038198:00202192506:1877110301:0471/pct:42.343649258542875,74.95131977498919,13.926499032882012,16.23755949805279/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -337,7 +337,7 @@ Silas Deane,
 Arthur Lee.  
 *3ig Excellency the Count de Vergcnnes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_michigan_ver01:data:sn84031492:no_reel:1878012701:0002/pct:4.135180520570949,82.8624941470267,12.65743073047859,7.601061339160293/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_michigan_ver01:data:sn84031492:no_reel:1878012701:0002/pct:4.140428211586902,82.8624941470267,12.67317380352645,7.612767285781177/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -373,7 +373,7 @@ Silas Drake,
 Arthur Lx a.  
 Ills Excellency tbe Count de Vergenncs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_michigan_ver01:data:sn84031492:no_reel:1878012801:0001/pct:70.87506589351608,47.04577535793507,13.046916183447548,7.824158096390401/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_michigan_ver01:data:sn84031492:no_reel:1878012801:0001/pct:70.88165524512388,47.06089937487397,13.046916183447548,7.814075418431135/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

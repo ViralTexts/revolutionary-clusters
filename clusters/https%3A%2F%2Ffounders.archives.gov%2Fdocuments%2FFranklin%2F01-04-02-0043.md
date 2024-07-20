@@ -726,7 +726,7 @@ and then lying as dead for some minutes,
 wonld recover in less than a quarter of an  
 hour.&quot; But with a charge from five jars 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_forest_ver01:data:sn82015483:00271764054:1891060201:0526/pct:84.65217391304348,70.94594594594595,12.376811594202898,5.767374517374518/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_forest_ver01:data:sn82015483:00271764054:1891060201:0526/pct:63.52037117587357,53.20945945945946,9.29389589676671,4.331563706563706/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -770,7 +770,7 @@ have known the after sensations, but .he
 would not have seen, heard or felt any  
 thing. The subject of a killing charg
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_forest_ver01:data:sn82015483:00271764054:1891060201:0526/pct:85.04347826086956,109.51978764478764,12.521739130434783,14.708011583011583/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_forest_ver01:data:sn82015483:00271764054:1891060201:0526/pct:63.81035232709874,82.14285714285714,9.39538929969552,11.027992277992277/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -887,7 +887,7 @@ Effects of the Electrical Matter Aris­
 ing from Experiments and Observa­  
 tions Made at Philadelphia 1749 th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:2065344540:1896020901:0366/pct:63.33860759493671,90.48488305761552,18.686708860759495,3.5253850541928125/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:2065344540:1896020901:0366/pct:42.2510685451955,60.32705837611713,12.458445464619281,2.354059707168663/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -905,7 +905,7 @@ Concerning tho Properties and Effects
 of the Electrical Matter Arising From  
 Experiments and Observations Made a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelly_ver01:data:sn95079481:00175031789:1896031701:0018/pct:34.76427750095822,7.608399236433051,16.21310847067842,2.5497682028906463/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelly_ver01:data:sn95079481:00175031789:1896031701:0018/pct:34.77066564456369,7.617489319152805,16.21310847067842,2.5497682028906463/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -924,7 +924,7 @@ Concerning the Properties and Effects
 of the Electrical Matter Arising From  
 Experiments and Obsorvations Mado a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_kirilenko_ver01:data:sn83045555:206539720:1896040401:1027/pct:93.58141858141857,118.07647740440325,36.56343656343656,5.967555040556199/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_kirilenko_ver01:data:sn83045555:206539720:1896040401:1027/pct:31.217195701074733,39.358825801467745,12.196950762309422,1.989185013518733/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -942,7 +942,7 @@ Concerning the Properties and Effects
 of the Electrical Matter Arising From  
 Experiments and Observations Made a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juniper_ver01:data:sn88085189:0021110790A:1896051401:0410/pct:71.39778767418474,9.163872803007214,12.570033041229708,2.042060347455044/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juniper_ver01:data:sn88085189:0021110790A:1896051401:0410/pct:71.39778767418474,9.167259304412612,12.579610209261121,2.0488333502658405/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -960,7 +960,7 @@ Couccrniux tbe Properties and Effects
 of the Electrical Matter Arising From  
 Experiments and Observations Made a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_calumet_ver01:data:sn86086632:00296023486:1897020101:0341/pct:32.94788273615635,81.93548387096774,21.612377850162865,3.3592880978865405/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_calumet_ver01:data:sn86086632:00296023486:1897020101:0341/pct:21.97426290926861,54.62736373748609,14.416028669164358,2.235817575083426/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

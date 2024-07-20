@@ -135,7 +135,7 @@ more able than i am to go into the ne.ces­
 surances of my great esteem and respect.  
 THOMAS JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184157:1823011701:0036/pct:26.086128048780488,6.408094435075886,17.244664634146343,59.605655727072254/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184157:1823011701:0036/pct:26.08115831586969,6.407263294422828,17.247729726297074,59.60224816255945/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -157,7 +157,7 @@ strengthen or weaken the genuine princi­
 ples ot republicanism, may be a good or  
 an evil, is yet to be seen.” The exac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025001:00414216328:1823012101:0200/pct:9.25531914893617,50.97377869655097,17.28723404255319,4.090958546404091/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025001:00414216328:1823012101:0200/pct:9.253678425811026,50.96823324630113,17.290078591266322,4.094139831737743/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -236,7 +236,7 @@ be thetr merit, is a solecism in a republic,
 of the firß order of ablurdity and inconfil­  
 tence. TH. JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015143:1823012801:0014/pct:26.20256946519271,23.02861130495464,16.7463400059755,42.79732828232479/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015143:1823012801:0014/pct:26.207549048899512,23.031934336888977,16.751319589682304,42.79732828232479/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -315,7 +315,7 @@ ol the nation, whatever may he t|&#x27;(.,r ,
 merit, is a solecism in a republic „r  
 Inst order of absurdity and inconsistenc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1823012801:0201/pct:66.51954602774275,2.9184298847220194,31.21059268600252,94.03181088574347/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1823012801:0201/pct:66.505568396722,2.918004085205719,31.20928766547594,94.02173913043478/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -609,7 +609,7 @@ Lunsisivnee,
 T JEFIERSON,  
 S e 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1823021901:0435/pct:10.086239220097488,8.925211665098777,20.603674540682416,42.53292568203199/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1823021901:0435/pct:10.098737657792777,8.925211665098777,20.60992375953006,42.53684540608341/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1025,7 +1025,7 @@ whatever may be their demerit, is&#x27;a solecism in
 a republic, of the first order of absurdity and in­  
 consistency.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1831020801:0441/pct:26.3595166163142,71.51832460732984,16.525679758308158,12.764397905759163/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1831020801:0441/pct:26.3595166163142,71.51832460732984,16.530715005035248,12.778359511343805/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1075,7 +1075,7 @@ er may be their demerit, is a solecism in a re­
 public, of the first urder of absurdity and incon­  
 eistency.”’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1832041001:0043/pct:2.668175937904269,23.75708678587004,16.251617076326003,17.716964675098126/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1832041001:0043/pct:2.6735661923242775,23.764355284198285,16.246226821905992,17.720598924262248/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1099,7 +1099,7 @@ dependent of the mation, whatever may be their
 demerit, is a solicism in a repwblic, of the first  
 order of absurdity and inconsistency.” —Jefferson.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1833030501:0186/pct:21.667628390075013,46.570130007398795,14.195037507212925,4.323010252616003/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1833030501:0186/pct:21.672437007116752,46.5736532431385,14.199846124254664,4.326533488355706/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1193,7 +1193,7 @@ On the Hilt instant, Mr. Pearce of Rhode Island,
 llto Administration convert, presented to Congress a  
 memorial from the city of Providence in favor of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182938:1834050801:1097/pct:39.76050334889385,47.61837655016911,16.967728841079765,4.298196166854566/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182938:1834050801:1097/pct:39.752435064935064,47.61166690150768,16.969358766233768,4.301113146399887/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1224,7 +1224,7 @@ which can exist in any government and
 well worthy ol being nounished to keep  
 out thuse ol a more dangerous character
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021520:00340588046:1834052401:0381/pct:48.44054580896686,82.74458148724703,14.522417153996102,4.5024547958328345/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021520:00340588046:1834052401:0381/pct:48.451375351960145,82.7485730251866,14.527831925492745,4.506446333772402/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1402,7 +1402,7 @@ under one single government, it will be one of the
 most extensive in corraption,indifferent,and incapable  
 of a wholesome care over so wide a spread surface.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1835022401:0031/pct:4.736192533168775,48.23099748915773,14.393705646405431,3.115727002967359/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1835022401:0031/pct:4.736192533168775,48.23860610210759,14.409132983647023,3.1119226964924294/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1479,7 +1479,7 @@ there should be public functionaries independent
 of the nation, whatever may be their demerit, is a  
 solecism in a republic of the first order of absurdity
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1837072501:0522/pct:82.55687973997833,29.173419773095624,14.347624206779136,2.2690437601296596/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1837072501:0522/pct:82.55687973997833,29.176796326310104,14.352783366867873,2.2791734197730955/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1516,7 +1516,7 @@ ished to keep out those ol a more dangerous
 c¢haracter.”  
 We have no objection to their publishin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1838031201:0043/pct:34.70252887004824,54.07322415771357,14.033036105832482,6.185459476374257/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1838031201:0043/pct:34.71227403401062,54.076701088279265,14.023290941870098,6.19241333750565/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1542,7 +1542,7 @@ tor hife and respousible to no authority,
 clng wi‘h a noiseiess and steady pace to the  
 great object of ¢ conseledalion,’ and adds tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1838031201:0043/pct:34.70252887004824,63.648690935642016,14.120742581493934,5.914258892249922/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1838031201:0043/pct:34.71227403401062,63.65216786620771,14.11099741753155,5.914258892249922/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1564,7 +1564,7 @@ are already deeply laid by their discussions :: . cm:::l
 | of every check, every counterpoise to ;0 W- ulpll!_ng  
 power of which themselves are to make &amp; Sovereig
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1839073001:0330/pct:82.21181977764775,89.97402597402598,14.584552369806906,3.864935064935065/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1839073001:0330/pct:82.21669592354203,89.97402597402598,14.584552369806906,3.8753246753246753/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1596,7 +1596,7 @@ fanctionaries independent of the nation, whatever may
 be their demerit, is a solecism in a republic of the first  
 ‘order of absurdity.”’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1839073001:0331/pct:3.7785588752196837,4.027749016359495,14.938488576449911,8.138330917374198/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1839073001:0331/pct:3.783440734231595,4.027749016359495,14.948252294473736,8.152136398150066/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1628,7 +1628,7 @@ Lis usual course, in picking eut such portions
 of our remarks as may suit his turn, and _enable  
 him, as he probably supposes, to take som
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1839112601:0399/pct:3.2992700729927007,75.07983929123313,15.343065693430656,11.012671268157/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1839112601:0399/pct:3.3090024330900243,75.08327323924316,15.338199513381996,11.016105216167027/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1650,7 +1650,7 @@ surface.”’
 THE N. H. ASYLUM FOR THE INSANE.  
 &quot;We ate not disposed to get into a controversy wit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1840022501:0451/pct:3.7492677211482133,78.62857142857143,14.967779730521382,4.1454545454545455/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1840022501:0451/pct:3.7590314391720367,78.63549783549783,14.967779730521382,4.138528138528138/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1666,9 +1666,9 @@ THE N. H. ASYLUM FOR THE INSANE.
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1846-06_18_96/page/n13/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1846-06_18_96/page/n13/mode/1up?view=theater)
 
-#### 1846-06-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1846-06-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1702,9 +1702,9 @@ aud incapable of a wholesome care over
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1846-06_18_96/page/n14/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1846-06_18_96/page/n14/mode/1up?view=theater)
 
-#### 1846-06-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1846-06-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1791,7 +1791,7 @@ removal of every check, every counterpoise to the
 ingulphing power of which themselves are to make  
 a sovereign part.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016866:00295878198:1852030601:0605/pct:3.123140987507436,6.454663671828821,19.735276621058894,16.25487646293888/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016866:00295878198:1852030601:0605/pct:2.3504909253198454,4.846908618039958,14.802142219577506,12.18820191511999/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1854,7 +1854,7 @@ We commend this extract also to the considera­
 tion of our whig neighbors. May it enlighten  
 them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293162:1853070101:0005/pct:78.32699619771863,173.86705132828465,52.97845373891001,67.50811395600432/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293162:1853070101:0005/pct:19.584851845983202,43.46676283207116,13.246712090001585,16.87702848900108/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1976,7 +1976,7 @@ We commend the above language to such
 as have such a horror of the reformatory  
 mearures suggested by the Republican press
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279523970:1857032701:0475/pct:174.3223736968725,156.5827578525284,37.73857257417803,27.444865226108266/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279523970:1857032701:0475/pct:58.098139833226426,52.18843969261611,12.577506948898867,9.14726955488733/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2001,7 +2001,7 @@ have to choose between reformation and
 revolution. If I know the spirit of this  
 country, the one or the other ts inevitable.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026050:00280775940:1857032701:0484/pct:42.71211022480058,19.52320496543941,16.316171138506164,7.77260544505572/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026050:00280775940:1857032701:0484/pct:32.039891205802356,14.64240372407956,12.257479601087942,5.840033855268726/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2031,7 +2031,7 @@ Court by the people, is henceforth to be one of
 the aims of the Abolitionists, for acquiring the  
 me
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021205:00517171906:1857032801:0286/pct:5.74980574980575,59.59436133486766,16.278166278166278,9.896432681242807/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021205:00517171906:1857032801:0286/pct:4.456041750301084,46.189290624651626,12.635487755921316,7.669726134294526/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2054,7 +2054,7 @@ deeply laid by their decisions for the annihila­
 tion of Constitutional Stale Rights. This will  
 not be borne. You will have to choose betwee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84037930:00415668880:1857040101:0358/pct:24.93438320209974,67.51488900920411,10.877806940799067,3.1510557661072007/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84037930:00415668880:1857040101:0358/pct:24.944104209196073,67.51488900920411,10.877806940799067,3.1654935932142214/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2081,7 +2081,7 @@ reformation and revolution. If I know the spirit of this
 country, the one or the other is inevitable.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530546:1857040301:0021/pct:248.13271090363455,195.52540759252648,47.66588862954318,19.838153040580746/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530546:1857040301:0021/pct:82.71090363454485,65.17513586417549,15.888629543181061,6.612717680193581/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2138,7 +2138,7 @@ of the first order of absurdity and incon
 sistency  
 To JuDGdE JOHNSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776981:1857040301:0693/pct:293.4782608695652,209.42468921653656,43.69565217391305,56.605955478461986/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776981:1857040301:0693/pct:73.3695652173913,52.35617230413414,10.923913043478262,14.151488869615497/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2177,7 +2177,7 @@ between reformation or revolution. It I
 know the spirit of this country, the one or  
 the other is inevitable.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:0027952939A:1857040401:0684/pct:169.7034502423724,28.105623262775282,37.23980610208155,39.15971776779987/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:0027952939A:1857040401:0684/pct:56.567816747457464,9.368541087591762,12.41326870069385,13.05323925593329/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2201,7 +2201,7 @@ will have to choose between reformation and rev­
 olution. If I know the spirit of this country, the  
 one or the other is inevitable.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021205:00517171906:1857040601:0314/pct:7.172091210290391,36.13541816095252,15.708438900799065,5.106871324056807/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021205:00517171906:1857040601:0314/pct:5.56842211257678,28.011858439874004,12.174000604168764,3.9540485454882344/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2232,7 +2232,7 @@ reformation or revolution. If I know
 the spirit of this country, the one or the  
 other is inevitable.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:0027952939A:1857041801:0691/pct:170.11200907415284,66.10662358642972,37.06224301715582,26.17124394184168/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:0027952939A:1857041801:0691/pct:56.704003024717615,22.035541195476576,12.354081005718607,8.723747980613894/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2250,7 +2250,7 @@ ery counterpoise to the cngulphing power
 of which themselves are to make a sove*  
 reign part.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn86083444:00296028551:1857051501:0255/pct:7.86274811509463,9.486025580293699,11.955685490075396,3.2804358124111794/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn86083444:00296028551:1857051501:0255/pct:7.873006103503103,9.49392073267014,11.95055649587116,3.2804358124111794/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2271,7 +2271,7 @@ Consolidation. The foundations are already
 deeply laid by their decisions for the anni­  
 hilation of constitutional state rights.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775381:1857061801:0113/pct:23.669871794871796,106.44152595372107,14.310897435897436,4.5528455284552845/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775381:1857061801:0113/pct:17.762103238217378,79.83739837398375,10.740621994228919,3.4146341463414633/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2317,7 +2317,7 @@ IF
   
 are J-iplded to, this i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027352:00279528566:1857062501:0728/pct:5.964811901015591,29.7244521588197,16.077814332713487,12.952918203514862/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027352:00279528566:1857062501:0728/pct:5.974347971201068,29.728068272221016,16.087350402898966,12.949302090113546/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2353,7 +2353,7 @@ country.
 HON. JoHN BELL AdVOCATiNG CONsTITUTIONAL Amend­  
 We have before us a circular of the Hon, Joli
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293241:1857071601:0054/pct:75.44303797468355,110.78882207286877,50.822784810126585,41.457375309515385/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293241:1857071601:0054/pct:18.863744263332805,27.697205518217192,12.70770691565121,10.364343827378846/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2383,7 +2383,7 @@ plied. Let the future appointments of Judges
 be for four or sir years, and removable by the  
 President and Senute.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200292911:1857072201:0077/pct:139.98902907295667,33.37489609310058,38.672517827756444,21.654197838736494/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200292911:1857072201:0077/pct:35.01166140760049,8.343724023275145,9.67210865688023,5.413549459684123/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2399,7 +2399,7 @@ President and Senute.
 see the Judiciary power advancing with a noiseless  
 and stedy pace, to the great object of consolida
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn83035487:00211100497:1857092601:0670/pct:52.578068264342775,57.406904050013594,18.500363108206244,1.386246262571351/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn83035487:00211100497:1857092601:0670/pct:39.45504087193461,43.055178037510196,13.896457765667575,1.0464800217450394/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2436,7 +2436,7 @@ should l»e public functionaries independent of the nu- ;
 tion. whatever may lie the demerit, is a soli Um in a  
 republic, of tlie tirst order of absurdity, etc*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn82014282:00414212438:1857111001:0225/pct:75.13111888111888,8.571734704810886,11.82983682983683,2.517947069538198/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn82014282:00414212438:1857111001:0225/pct:75.12017479970866,8.570816370259267,11.831755280407865,2.520355688879366/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2567,7 +2567,7 @@ The Supreme Court b dog the 1 -vjr
 used for the overthrow of tho constitu­  
 tional rights of the States, I wiil real 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:00332895047:1858040201:0683/pct:5.930256838588432,49.4197437829691,12.841929421591146,23.45139412207988/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:00332895047:1858040201:0683/pct:5.92901878914405,49.4122965641953,12.84446764091858,23.451627486437612/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2636,7 +2636,7 @@ J he [aiblic lunctkmartee independent of the nation, whatevc
 ier may he their demerit, is a solecism, in a Republic, o! the lire  
 ule order of absurdity and inconsistency.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1859022401:0470/pct:61.84481297663721,15.61113732892874,13.037162571117298,8.683341198678622/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1859022401:0470/pct:61.84481297663721,15.61113732892874,13.049267643142477,8.692779613025012/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2678,7 +2678,7 @@ every counterpoise, to the engulphing power, of
 which themselves are to make a sovereign part.”   
 The dangers which were so clearly seen b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040308:00514151374:1859033101:0174/pct:4.586022243580942,57.94168842471714,11.094329259920363,3.350739773716275/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040308:00514151374:1859033101:0174/pct:4.586022243580942,57.94168842471714,11.094329259920363,3.3579924572091673/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2698,7 +2698,7 @@ tr objects, may strengthen or weaken the genne
 principles of Republicanism, may be a  
 &gt;od or an evil, is yet to be seen:
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1859042101:0502/pct:39.80396844370069,62.847056578570744,11.642361941190533,2.8146169258658524/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1859042101:0502/pct:39.80396844370069,62.847056578570744,11.646346322416129,2.8209776420824983/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2724,7 +2724,7 @@ Every attentive reader of our history knows
 how this aristocratic Court, demanding to be  
 itself the sole arbiter of its own powers, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775708:1859042901:0105/pct:24.566473988439306,209.2191909689558,48.77167630057804,22.362585673968553/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775708:1859042901:0105/pct:6.144948490872944,52.30479774223895,12.199530092174227,5.590646418492138/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2747,7 +2747,7 @@ the removal of every check, every counterpoise to
 the engulphing power of which themselves are to  
 make a sovereign part.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775708:1859042901:0105/pct:24.421965317919074,286.1443354387851,48.84393063583815,15.804327375352775/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775708:1859042901:0105/pct:6.108801735044279,71.53608385969628,12.217603470088559,3.951081843838194/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2800,7 +2800,7 @@ rights, and the removal of every check, every e o te e
 counterpoise, to the engulfing power, of which e o e e e en io  
 themselves are to make a sovereign part.o een i ee o in a e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn83016318:00296024570:1860062701:0314/pct:165.47479484173505,34.25385023898035,115.92907385697538,253.79713223579395/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn83016318:00296024570:1860062701:0314/pct:55.174435649369684,11.417950079660116,38.65435356200528,84.59904407859798/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2818,7 +2818,7 @@ pendent of the nation, whatever may be theiraan aii o i eie
 demerit, is a solecism in a Republic of the firste o en oe  o e e  
 order of absurdity and inconsistency,&quot; the soil upon which they live to free l
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn83016318:00296024570:1860062701:0314/pct:203.7221570926143,45.3425385023898,77.54982415005861,5.735528412108338/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn83016318:00296024570:1860062701:0314/pct:67.92729404866608,15.1141795007966,25.857519788918207,1.9118428040361126/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2900,7 +2900,7 @@ ent of the nation, whatever may be their de­
 merit, is a solecism, in a republic, oMhe first  
 order of absurdity and inconsistency. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_belmont_ver02:data:sn82014511:no_reel:1860071201:0002/pct:45.951859956236326,79.53852851545494,9.591539022611233,12.46553475547816/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_belmont_ver02:data:sn82014511:no_reel:1860071201:0002/pct:45.960977388767326,79.54578435640691,9.605215171407732,12.461906835002177/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2965,7 +2965,7 @@ ever may be their demerit, is a solecism, in
 Republic, of the first order of absurdity and  
 inconsistency.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn85042591:00280774959:1860072001:0296/pct:245.3102453102453,302.12534059945506,49.78354978354978,77.11171662125341/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn85042591:00280774959:1860072001:0296/pct:61.32756132756133,75.53133514986376,12.445887445887445,19.277929155313352/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2990,7 +2990,7 @@ AND REVOLUTION. IF I KNOW THE
 SPIRIt OF THIS COUNTRY. THE ONE  
 OR THE OTHER IS INEVITABLE.”—Jef
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn82014998:00279557980:1861092801:0163/pct:31.941695159258593,82.43870112657389,14.522224221702357,5.844930417495029/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn82014998:00279557980:1861092801:0163/pct:31.946193989562715,82.44864148442677,14.53572071261472,5.841616964877402/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3008,7 +3008,7 @@ Goverament, It will be one of the most extens
 ive corruption, indifferent and incapable of  
 wholesome care over the whole.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774698:1863110501:0446/pct:141.49203688181055,332.9236651645501,57.921207041072925,9.6135463607811/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774698:1863110501:0446/pct:35.37300922045264,83.23091629113752,14.480301760268231,2.403386590195275/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3034,7 +3034,7 @@ single government, is upon us. The effort is
 being made to obliterate State lines, and through  
 the agency of the sword and purse make th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295729:1863110601:0450/pct:7.981220657276995,119.37544357700497,50.610328638497656,24.16607523066004/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295729:1863110601:0450/pct:1.9953051643192488,29.843860894251243,12.652582159624414,6.04151880766501/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3054,7 +3054,7 @@ tensive corruption, indifferent nnd Incapable of a,
 wholesome Citre over the whole. This will not  
 be home, and you will have to choose betwee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn82014306:00202191630:1863110901:0203/pct:6.71602326811211,37.417447018235585,16.274457958751984,3.4105470675209464/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn82014306:00202191630:1863110901:0203/pct:5.0383496429516,28.063085263676687,12.218989685268447,2.562838836865451/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3137,7 +3137,7 @@ pendent of the nation, whatever may be their de­
 merit, is a solecism in a republic of the first order  
 of absurdity and inconsistency.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_hera_ver01:data:sn83021205:00517171554:1868020601:0126/pct:37.91540785498489,94.3037088873338,14.19939577039275,22.757172848145558/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_hera_ver01:data:sn83021205:00517171554:1868020601:0126/pct:29.383932491097994,73.09277605032902,11.014096873323252,17.644081278472775/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3174,7 +3174,7 @@ before the venom has reached so much of
 the body politic as to get beyond control,  
 the remedy should be applied.&quot; Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293447:1871072901:0098/pct:8.072916666666666,99.9047732412808,14.485677083333334,9.284608975122008/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293447:1871072901:0098/pct:6.057645334636053,74.93155576717058,10.877707213808826,6.963456731341507/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3202,7 +3202,7 @@ has reached so much of the body politic
 as to get beyond control, the remedy  
 ashould be applied.&quot; The Harrisbur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn89058302:00212470417:1871080301:0491/pct:27.554882664647995,257.9031399680681,49.58364875094625,35.87014369345396/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn89058302:00212470417:1871080301:0491/pct:6.892633970838856,64.47578499201703,12.402953985987502,8.96753592336349/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3238,7 +3238,7 @@ before the venom has reached so much of
 the body politic as to get beyond control,  
 the remedy should be applied.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_elliot_ver01:data:sn87068079:00332896453:1883071901:0117/pct:14.473684210526315,57.57800891530461,11.18421052631579,5.289747399702823/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_elliot_ver01:data:sn87068079:00332896453:1883071901:0117/pct:14.470884116850455,57.569454761551036,11.186883343006384,5.292675679690982/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3344,7 +3344,7 @@ solecism in a republic of tho li r&amp;t
 order of absurdity aud inconsis­  
 tency.&quot;Let our people, and especially ou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_belgium_ver01:data:sn86088201:00211101829:1894021701:0325/pct:63.596966413867825,14.794383149448345,24.404117009750813,34.38649281176864/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_belgium_ver01:data:sn86088201:00211101829:1894021701:0325/pct:47.736513960422876,11.099966566365763,18.324749254540524,25.794048813105984/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3372,7 +3372,7 @@ running like a mogul locomotive over
 the Constitutional rights and liberties  
 of the people! The saddest of all i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_india_ver02:data:sn86071158:0020653655A:1894080101:0862/pct:244.0185830429733,82.46913580246914,52.613240418118465,23.374485596707817/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_india_ver02:data:sn86071158:0020653655A:1894080101:0862/pct:61.05783202557396,20.617283950617285,13.164777680906713,5.843621399176954/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3450,7 +3450,7 @@ functionaries independent cf the na­
 tion is a solecism, iu a republic of the  
 first order an absurdity aud incon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn85030821:00212472888:1895080901:0169/pct:30.13585155732273,91.30517503805174,21.206096752816435,28.614916286149164/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn85030821:00212472888:1895080901:0169/pct:20.106083209017072,60.87328767123287,14.13890270180673,19.0734398782344/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3476,7 +3476,7 @@ every counterpoise to the engulfing pow­
 er of. which? themselves are to make a  
 sovereign part.&quot; In a letter to Judg
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665568:1895091701:0176/pct:38.13305709023941,76.72473867595819,16.816298342541437,8.536585365853659/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665568:1895091701:0176/pct:28.609256274464656,57.54355400696864,12.618005986645176,6.402439024390244/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3519,7 +3519,7 @@ the most extensive corruption, Indifferent
 and incapable of a wholesome care over  
 so wide a spread of surface.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_atherton_ver01:data:sn84026355:00211100229:1897061101:0672/pct:39.15094339622642,68.18802951626127,15.856313497822931,4.318119704837387/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_atherton_ver01:data:sn84026355:00211100229:1897061101:0672/pct:29.38827373389,51.14785460508335,11.8896351424941,3.2385897786280404/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3585,7 +3585,7 @@ have to choose between reforma­
 tion and revolution ; the one or  
 the other is inevitable.&quot; Jeffer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_argentina_ver01:data:sn86089443:00206536007:1897101401:0500/pct:29.97393570807993,87.09253033182283,18.65768896611642,12.293524338546996/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_argentina_ver01:data:sn86089443:00206536007:1897101401:0500/pct:22.485335650662613,65.32670662183891,14.012600477949164,9.223797690396141/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3612,7 +3612,7 @@ have to choose between reformation
 and revolution; the one or the other  
 is inevitable.”—Jefferson&#x27;s Works, vol
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346824:1897102001:0309/pct:19.7570417834735,85.44964997307486,11.373648378053664,7.194399569197631/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346824:1897102001:0309/pct:19.761491567658968,85.44964997307486,11.373648378053664,7.205169628432956/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3633,7 +3633,7 @@ extensive corruptions, indifferent
 and incapable of wholesome care  
 over so wide a spread of surface
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_fargo_ver01:data:sn85052141:0020653378A:1898041501:0844/pct:120.92555331991952,205.52965552965554,42.25352112676056,15.863765863765863/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_fargo_ver01:data:sn85052141:0020653378A:1898041501:0844/pct:30.246602918973327,51.382413882413886,10.568696527428283,3.965941465941466/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3700,7 +3700,7 @@ is a solecism in a republic, of the first
 order of absurdity and inconsistency.  
 THO. JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:00332892137:1898091701:0604/pct:5.356561380657766,48.22138753866549,14.685770107456854,21.288113124171453/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:00332892137:1898091701:0604/pct:5.356561380657766,48.225069966121666,14.696624335178551,21.291795551627633/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -692,7 +692,7 @@ tive Treaty, and have canfed the seal of our arms to
 be put thereto.  
 - Done at Paris the Tenth of February, 1763
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015064:1763052701:0046/pct:5.516088591725867,10.722773661400812,28.26995403259507,19.292604501607716/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015064:1763052701:0046/pct:5.53001810837164,10.722773661400812,28.256024515949296,19.306584649797287/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

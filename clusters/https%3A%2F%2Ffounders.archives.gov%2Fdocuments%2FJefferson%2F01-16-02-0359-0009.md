@@ -1461,7 +1461,7 @@ That 10 ounces make a pound,
 10 stones a kental,  
 io kentals a hogshead.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792041401:0002/pct:69.48876587430804,54.15925706382138,26.310647997394984,14.344991108476586/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792041401:0002/pct:69.49690654509932,54.164196799051574,26.310647997394984,14.35487057893697/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1530,7 +1530,7 @@ The minim into 1o mites ;
 10 stones a kental,  
 10 kentals a hogshead
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1792080901:1059/pct:48.980087421078196,4.652270562083201,42.56920835356969,87.21816449666561/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1792080901:1059/pct:48.98818196535535,4.652270562083201,42.561113809292536,87.23933523870012/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1592,7 +1592,7 @@ twentieth part of its length, nor the arc of its vi­
 brations more than, four degrees, and that the  
 said standard rod fliall be divided into four hun
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793031301:0002/pct:53.582458307597285,63.829787234042556,20.012353304508956,10.544979469951475/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793031301:0002/pct:53.582458307597285,63.83911907428145,20.020074119827054,10.55431131019037/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1609,7 +1609,7 @@ the earth might b« considered as invariable in all its w
 dmevfions, and that its circumference would furnifh tl  
 an invariable measure. But if a small portion of the t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796112301:0002/pct:50.81164648286524,80.57553956834532,21.772738984797734,2.1909744931327664/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796112301:0002/pct:50.824529760371036,80.5878024852845,21.759855707291933,2.199149771092217/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1627,7 +1627,7 @@ and that the trials to measure portions have been of
 fueh various refolt, as to (hew that there i 9 no de.  
 i peadance on that operation for certainty,&quot; If thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796112301:0002/pct:71.37335738211802,17.871157619359057,21.618139654728164,2.844996729888816/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796112301:0002/pct:71.39268229837671,17.883420536298235,21.611698015975264,2.8368214519293655/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1655,7 +1655,7 @@ t diical rod of iron, of such length, as in latitude
 throughout the year, (hall perform   
 in froall and equal arcs, in one second ofjpcan time.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796112301:0002/pct:71.37335738211802,20.650752125572268,21.412007214635402,9.565075212557227/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796112301:0002/pct:71.39268229837671,20.663015042511446,21.4313321308941,9.577338129496402/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1675,7 +1675,7 @@ conftsnt effort to renew the waste of motion, but
 ~r so that they {hall neither retard nor accelerate the vi­  
 brations.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796112401:0002/pct:31.292689096888438,12.240437158469945,21.097900328864153,3.6846213895394224/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796112401:0002/pct:31.311662028838857,12.244340359094457,21.097900328864153,3.6885245901639343/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1705,7 +1705,7 @@ Jlrength ; but fqunre ones have the greater advan­
 &quot; tage ot enabling every pne, who hajs a rule in his  
 pocket, to verify their content}, by measuring them.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796112401:0002/pct:31.292689096888438,18.017174082747854,21.249683784467493,11.053864168618267/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796112401:0002/pct:31.311662028838857,18.017174082747854,21.249683784467493,11.06167056986729/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1725,7 +1725,7 @@ e vity of which is invariable T rain-water is such a
 t substance, and may bf referred to every where, and  
 through all time.&#x27;&#x27; But the temperature is nut dft
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796112401:0002/pct:31.292689096888438,32.911787665886024,20.84492790285859,3.9188134270101482/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796112401:0002/pct:31.311662028838857,32.91569086651054,20.857576524158866,3.9305230288836848/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1750,7 +1750,7 @@ be relied on by,him.&quot;
 After making free use of these report, and  
 dating all the varietiesof measures in England, h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796112401:0002/pct:31.292689096888438,52.25604996096799,20.870225145459145,7.228727556596409/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796112401:0002/pct:31.311662028838857,52.259953161592506,20.857576524158866,7.228727556596409/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1767,7 +1767,7 @@ candidly coafeffes, &quot; that he is not informed whe­
 ther there have been any and what alterations of these  
 , measures, by the laws of our Jalet.&quot; Now, thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796112401:0002/pct:31.292689096888438,59.359875097580016,20.870225145459145,2.029664324746292/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796112401:0002/pct:31.311662028838857,59.359875097580016,20.857576524158866,2.029664324746292/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2782,7 +2782,7 @@ designed? viz: &quot;That there should be one money of
 &quot;and that its parts and multiples should be in a doci­  
 mal ratio.&quot; HET Cong. Conf., 1786. Jeff. Rep
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:0020653056A:1857120201:0431/pct:1.9908616187989556,184.5514171937222,47.32375979112272,7.249941438275943/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:0020653056A:1857120201:0431/pct:0.6636205395996518,61.51713906457406,15.774586597040905,2.416647146091981/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2802,7 +2802,7 @@ weight of a cubic foot of rain water, weighed in
 the standard temperature. The following are  
 specimens of his proposed decimal divisions o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_collins_ver01:data:sn83030364:print00205958186:1859121701:0004/pct:18.745607870695714,37.4874245472837,12.087139845397049,2.640845070422535/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_collins_ver01:data:sn83030364:print00205958186:1859121701:0004/pct:18.758784258608575,37.4874245472837,12.078355586788476,2.647132796780684/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2851,7 +2851,7 @@ ratio already established in eoins, aud
 every uian who can multiply and divide  
 &#x27;ain numbers.&quot; Here is an essentia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carlisle_ver01:data:sn86053370:00296027911:1866112801:0620/pct:6.351915054986727,85.63665736525188,12.476298824421692,5.815831987075929/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carlisle_ver01:data:sn86053370:00296027911:1866112801:0620/pct:6.3582353684742765,85.64155284672248,12.482619137909241,5.810936505605326/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2915,7 +2915,7 @@ affairs of life within the arithmetic of
 every man who can multiply and divide  
 plain numbers.&quot; m
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415669197:1877112001:0083/pct:104.3,42.75040028464686,28.866666666666667,16.945383383739546/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415669197:1877112001:0083/pct:34.766666666666666,14.25013342821562,9.622222222222222,5.6484611279131824/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3025,7 +3025,7 @@ momenb In 1786 Congress had estab­
 lished the money unit at 37564 troy  
 grains of pure silver That was th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:0020653459A:1895091001:0238/pct:31.72282263191354,93.75732021550715,12.571519389701209,1.4757554462403373/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:0020653459A:1895091001:0238/pct:31.72282263191354,93.76512844538144,12.571519389701209,1.4757554462403373/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3103,7 +3103,7 @@ I&#x27;nited States, shall contain 371.2G2
 grains of pure silver.&quot; And this  
 is within a minute fraction of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068245:00295878976:1896050701:0323/pct:2.7170787809085684,89.63060396799298,14.936745255894191,18.73287295845665/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068245:00295878976:1896050701:0323/pct:2.0419902214552774,67.22569330264167,11.202185792349727,14.052395045489423/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

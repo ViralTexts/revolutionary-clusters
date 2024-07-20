@@ -727,7 +727,7 @@ planatory precaution against it.
 I close these remarks, which I fear may be found tedious  
 with assurances ol my great esteem and best regards. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1832060101:0035/pct:4.144791378833932,5.9257627492014535,45.330201713180436,89.52527811432977/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1832060101:0035/pct:4.144218814753419,5.92511013215859,45.328544458258506,89.51908957415566/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -793,7 +793,7 @@ identity with the harmless character attached
   
 ••ed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216468:1832060501:0233/pct:1.2703862660944205,31.566206729605423,16.8068669527897,38.74364560639071/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216468:1832060501:0233/pct:1.2701682114658428,31.562386542418007,16.809703627417324,38.742990842712494/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -818,7 +818,7 @@ Mr. Madison then enters into an argument to
 *■*&#x27; not taken by the States at the time of the  
 of the Constitution, or \ftrre they 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216468:1832060501:0233/pct:1.5107296137339057,70.64875332849189,16.566523605150216,8.557250060518035/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216468:1832060501:0233/pct:1.5104703055269482,70.64020331598692,16.56940153335622,8.560248497317358/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -842,7 +842,7 @@ the many eyes which saw danger in terms and
 ^ •li&#x27;dtrauon,&quot; by the enumerated powers which  
 l-y»»d them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216468:1832060501:0233/pct:1.5278969957081545,80.04115226337449,16.30901287553648,7.407407407407407/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216468:1832060501:0233/pct:1.5276347408170272,80.03146556940578,16.311935004005036,7.410544999798297/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -876,7 +876,7 @@ he had oroinally put on them; and therefore need­
 ed no explanatory precaution against it.”  
 We have thus given an abstract of the venera
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216468:1832060501:0233/pct:1.5965665236051503,3.5463568143306707,34.54077253218884,93.40353425320745/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216468:1832060501:0233/pct:1.596292481977343,3.5459276291903667,34.54056528206889,93.3962644721449/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3082,7 +3082,7 @@ why, on that supposition, so much critical labor was
 employed in enumerating the particular powers,  
 and in defining and limitung their extent 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1837111401:0585/pct:63.82946670683941,48.44146613869428,14.401928291654112,19.839577622093614/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1837111401:0585/pct:63.83950989253791,48.44823501539919,14.401928291654112,19.84296206044607/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3102,7 +3102,7 @@ instrument, merely as general terms, explained and
 limited by the subjoined specifications, and therefore  
 requiring no critical attention or studied precaution
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1837111401:0585/pct:63.85959626393492,68.88008934917251,14.191021391985538,2.4063356685957964/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1837111401:0585/pct:63.86461785678417,68.88347378752496,14.191021391985538,2.4131045453007074/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3133,7 +3133,7 @@ And here, sir, I think I may safely rest this
 part of the subject.  
 The second paragraph of the Bth section o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1837111401:0585/pct:63.85959626393492,71.86516397603818,14.371798734558602,7.1783937455579245/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1837111401:0585/pct:63.86461785678417,71.87193285274309,14.376820327407854,7.1783937455579245/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3165,9 +3165,9 @@ came the object proposed by the articles of Confederation,
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1847-09_21_111/page/n4/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1847-09_21_111/page/n4/mode/1up?view=theater)
 
-#### 1847-09-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1847-09-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3185,9 +3185,9 @@ th them a power to pay
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1847-09_21_111/page/n4/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1847-09_21_111/page/n4/mode/1up?view=theater)
 
-#### 1847-09-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1847-09-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3204,9 +3204,9 @@ association with the terms ‘ common defence and general welfare,’ the clause
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1847-09_21_111/page/n5/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1847-09_21_111/page/n5/mode/1up?view=theater)
 
-#### 1847-09-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1847-09-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3249,9 +3249,9 @@ it was borrow«¢ d.
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1847-09_21_111/page/n5/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1847-09_21_111/page/n5/mode/1up?view=theater)
 
-#### 1847-09-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1847-09-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3266,9 +3266,9 @@ to the known acceptation of them, avail his obiect
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1847-09_21_111/page/n6/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1847-09_21_111/page/n6/mode/1up?view=theater)
 
-#### 1847-09-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1847-09-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3312,9 +3312,9 @@ been rec ‘ormmme nded to the states by all the members of that body, whose nam
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1847-09_21_111/page/n6/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1847-09_21_111/page/n6/mode/1up?view=theater)
 
-#### 1847-09-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1847-09-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3338,9 +3338,9 @@ Without recurring to the published debates of those convent ions, which, as far 
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1847-09_21_111/page/n6/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1847-09_21_111/page/n6/mode/1up?view=theater)
 
-#### 1847-09-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1847-09-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3418,9 +3418,9 @@ n elected as known advocates for
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1847-09_21_111/page/n6/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1847-09_21_111/page/n6/mode/1up?view=theater)
 
-#### 1847-09-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1847-09-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3444,9 +3444,9 @@ It may be thought, perhaps, due to the subject, to advert to a letter of October
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1847-09_21_111/page/n7/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1847-09_21_111/page/n7/mode/1up?view=theater)
 
-#### 1847-09-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1847-09-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3492,7 +3492,7 @@ ginally — on them ; and therefore needed no explanatory precaution aguanit it
 so as to accomplish the objects proposed by their  
 institution;&quot; and another, from South Carolina
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1851011801:0503/pct:1.3978347265999727,23.145464304884594,15.609154447033028,1.5136876006441224/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1851011801:0503/pct:1.3978347265999727,23.15262122025407,15.613722534374856,1.5172660583288602/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3508,13 +3508,13 @@ institution;&quot; and another, from South Carolina
 ticles of Confederation, so as to accomplish the objects  
 proposed by their institution;” and another, from .Sout
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348367:1851012101:0073/pct:34.203809149813466,75.23206751054852,14.333398782642844,0.8579465541490858/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348367:1851012101:0073/pct:34.197094621122886,75.22148783574744,14.335492736552807,0.8613415834622415/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The United States Review (1853-1856)_](https://archive.org/details/sim_united-states-democratic-review_1855-07_36/page/n55/mode/1up?view=theater)
+## [From _The United States review_](https://archive.org/details/sim_united-states-democratic-review_1855-07_36/page/n55/mode/1up?view=theater)
 
 #### 1855-07-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -3798,7 +3798,7 @@ them intended to circumscribe the puwer
 granted to the Federal Government by ex  
 planations, restrictions, or prohibitions, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_fernandez_ver01:data:sn83030272:00175044905:1892102601:0878/pct:182.51121076233184,302.41055184960584,49.10313901345292,13.70527592480291/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_fernandez_ver01:data:sn83030272:00175044905:1892102601:0878/pct:45.65339315759955,75.60263796240146,12.282669657879978,3.4263189812007275/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3821,7 +3821,7 @@ siuestion was one of the most important
 of  
 these, and all of the amendments taken t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_fernandez_ver01:data:sn83030272:00175044905:1892102601:0878/pct:182.28699551569505,316.97998787143723,49.17787742899851,12.295330503335355/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_fernandez_ver01:data:sn83030272:00175044905:1892102601:0878/pct:45.59730790802019,79.24499696785931,12.301364741073098,3.073832625833839/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3864,7 +3864,7 @@ the late war for the common defence and general
 welfare.&quot; When this clause was taken up, how­  
 ever, on Aug. 22, the portion relating to the Stat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_rumi_ver01:data:sn83030272:00206539021:1899100801:0718/pct:235.459940652819,48.59926918392205,48.88724035608308,23.081607795371497/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_rumi_ver01:data:sn83030272:00206539021:1899100801:0718/pct:58.86498516320475,12.149817295980512,12.22181008902077,5.770401948842874/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

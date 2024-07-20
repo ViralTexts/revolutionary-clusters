@@ -129,7 +129,7 @@ required, fufficient to develope character
 and delign. But might not the general  
 i character and capabilities of a citizen b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801120901:0003/pct:54.728446638815036,46.87539135879775,16.0843144701861,23.29367564182843/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801120901:0003/pct:54.728446638815036,46.87956585264037,16.090644385365238,23.29367564182843/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -213,7 +213,7 @@ as
   
 Shall oppressed humanity find no asylum the source. Instend of belng stamitggled
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84037932:00415668946:1844121401:0221/pct:57.54053227286632,65.6599552572707,119.31783420006118,19.5413870246085/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84037932:00415668946:1844121401:0221/pct:19.18017742428877,21.886651752423564,39.772611400020395,6.513795674869501/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -265,7 +265,7 @@ lernc-s extended to our fathers arriving in this land? o
 shall oppressed huumnitv find no Rsvlutn on this ,i  
 l.?be?&quot; # &quot; th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1855031601:0568/pct:57.49525616698292,22.653472956095687,14.946723106115895,5.034105101354597/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1855031601:0568/pct:57.49525616698292,22.659877669965095,14.951588575877,5.030902744419893/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -295,7 +295,7 @@ Uliry which even the savages of the wil­
 derness extended to our fuLhers arrivinn  
 n Urn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kuwait_ver02:data:sn85059716:0020129302A:1855071801:0324/pct:57.05229793977813,63.3653574456061,13.805247402711744,9.268154846001696/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kuwait_ver02:data:sn85059716:0020129302A:1855071801:0324/pct:57.065504490227156,63.372421588019215,13.800845219228737,9.271686917208251/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -345,7 +345,7 @@ manifesting a bon ifute purpose of embmk
 ing his life and fortunes permanently among  
 us!” &gt; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024652:00393348689:1855072801:0304/pct:55.86083853702052,67.30923694779116,12.863514719000893,13.681392235609103/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024652:00393348689:1855072801:0304/pct:55.85087406350339,67.30022754651318,12.865679628968962,13.682907241333155/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

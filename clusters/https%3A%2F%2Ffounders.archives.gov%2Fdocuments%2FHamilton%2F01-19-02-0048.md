@@ -305,7 +305,7 @@ fpettive governments should ever be destroyed
 or impaired by national a2uthority on account of  
 national differences and discontents
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795071401:0470/pct:12.087586921142181,57.3134328358209,19.67746708092913,7.840796019900497/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795071401:0470/pct:12.09251861715244,57.32006633499171,19.687330472949647,7.834162520729685/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -640,7 +640,7 @@ the claims or funds which shall be
 found in the &#x27; public funds, or in the  
 publicor private banks
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1800122301:0414/pct:27.56798756798757,84.51284061948637,16.721056721056723,4.812781807488728/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1800122301:0414/pct:27.57834757834758,84.51284061948637,16.715876715876718,4.8160491406913675/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -702,7 +702,7 @@ til by national authority, on account of national
 differences and d-fcontcnts.”  
 The charge of injuftice and imoolicy her
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1805101101:0183/pct:42.88667543694794,76.83005274668724,18.079308400676563,8.400874823105623/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1805101101:0183/pct:42.87861706125517,76.82016979675842,18.082174621069772,8.404081982677301/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -764,7 +764,7 @@ ments, should ever He ilcstro\c«J or impaired
 by national authority, on account of national  
 dr%rence* and dasu nu ntB.’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1807071301:0221/pct:60.62992125984252,18.937620840541367,18.21522309711286,7.051999592958176/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1807071301:0221/pct:60.61931420573828,18.935693935693937,18.216410076976906,7.053825803825804/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -802,7 +802,7 @@ on account of national differences and discon­
 The following extract from the 19th n»m­  
 ] her of Camillas in defence and explanation o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812070101:0604/pct:75.25063594194224,65.0965529687782,22.534789765075566,9.222162064609277/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812070101:0604/pct:75.2393776181927,65.0906794189299,22.53640534610014,9.224337574062378/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -848,7 +848,7 @@ should ever be destroyed or impair Ou by iia- 1
 tionul authority, on account of national uii­  
 ference* and ells contents
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812070701:0621/pct:23.417055196270116,41.91528545119705,22.650022559783427,7.83609576427256/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812070701:0621/pct:23.413533834586467,41.911426203848634,22.651629072681704,7.838443360034374/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -891,7 +891,7 @@ vate banks, shall ever, in any event of war or
 national difference, L: sequestrated or coniis­  
 cated.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1829041401:0057/pct:58.57457520453115,17.19182456887375,16.661422278162366,4.545454545454546/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1829041401:0057/pct:58.57457520453115,17.198921297281952,16.671911055170966,4.541906181250444/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1042,7 +1042,7 @@ lic or private banks, shall ever, in any event of war
 or national differences, be sequestered or confiscat  
 ed.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038518:00200293319:1861062301:0596/pct:255.51136363636363,184.22337827794883,45.22727272727273,11.126446544219132/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038518:00200293319:1861062301:0596/pct:63.87784090909091,46.055844569487206,11.306818181818182,2.781611636054783/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1124,7 +1124,7 @@ recessarily suspended by war, subsist in their
 full force.  
 &quot;The tenth article of the trea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_continental_ver02:data:sn82014760:00237288804:1861122801:1230/pct:100.4595588235294,47.357723577235774,56.25,57.113821138211385/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_continental_ver02:data:sn82014760:00237288804:1861122801:1230/pct:25.132214302138422,11.839430894308943,14.072200505863417,14.278455284552846/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1172,7 +1172,7 @@ destroyed or impaired by national authority
 on account of national differences aud dis­  
 contents.This treaty was carried out on the occa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn84028745:00280775320:1862010301:0450/pct:24.34259954921112,61.376344086021504,16.51014274981217,9.921146953405017/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn84028745:00280775320:1862010301:0450/pct:18.267242999436196,46.03584229390681,12.403683518135688,7.440860215053763/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1196,7 +1196,7 @@ Governments should be destroyed or impaired by
 national authority on account of national differences and  
 discontents
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271743403:1862010401:0033/pct:157.26944535608794,143.2987338884453,51.78864456842796,9.866544998289038/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271743403:1862010401:0033/pct:52.42314845202932,47.76624462948177,17.26288152280932,3.288848332763013/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1264,7 +1264,7 @@ nor in public or private banks, shall ever,
 in any event of war or of national differen­  
 co, be sequestered or confiscated
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_coyote_ver02:data:sn88071076:00296025161:1863091201:0415/pct:319.2627824019025,302.88572527895343,58.62068965517241,23.778376298576376/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_coyote_ver02:data:sn88071076:00296025161:1863091201:0415/pct:79.8631766805473,75.72143131973836,14.663890541344438,5.944594074644094/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

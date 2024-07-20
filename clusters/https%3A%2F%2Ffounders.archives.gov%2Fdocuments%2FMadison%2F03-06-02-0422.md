@@ -79,7 +79,7 @@ of a cessation of the blockade of our
 ports.  
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813073001:0436/pct:2.8179626280892105,37.58480325644505,16.350210970464136,17.412935323383085/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813073001:0436/pct:2.8175380442971223,37.58140376266281,16.352769825724472,17.41437530149542/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -157,7 +157,7 @@ rew c.-&#x27;»h!e in the mean time, in the event
 of a cessation Of the filock?de of otir oorts.  
 J si MRS ivLdDlSOK
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1813080301:0108/pct:59.57681692732291,27.060730764434467,17.82888684452622,14.60281830652201/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1813080301:0108/pct:59.56585724797645,27.057356608478802,17.831739023792004,14.605153782211138/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -205,7 +205,7 @@ session, and removable, in the mean time, in
 the event of a cessation of tire blockade of our  
 Ports. JAMES MADISON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813080401:0560/pct:1.9439535470840696,1.814582645991422,23.15071951527392,23.391619927416695/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813080401:0560/pct:1.9434628975265018,1.814283358073561,23.151186269560828,23.39188520534389/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -245,7 +245,7 @@ next session, and removesble in the mean
 time, 1n the event of a cessstion of the Block­  
 ade of our ports. JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1813080501:0874/pct:49.39160239931448,20.774995070005914,22.742073693230505,17.23525931768882/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1813080501:0874/pct:49.39160239931448,20.774995070005914,22.753499000285633,17.23525931768882/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -304,7 +304,7 @@ movable, in the mean time, in the event of a
 cessation of the blockade of our ports.  
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813080501:0244/pct:75.99493487698987,55.532281912272055,17.329956584659914,27.082306554953178/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813080501:0244/pct:75.98119008862362,55.52544043365776,17.332851027913428,27.083076670362612/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -496,7 +496,7 @@ general cot.trerre remains obstructed.
 Keeping in rtrw o/io. thr irtridiom dir*  
 rriviir,alic7t bctivren dfTmut pert* t&gt;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813081301:0483/pct:47.39364889155183,84.10686605270357,16.387058118633913,6.720160481444333/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813081301:0483/pct:47.386550846188406,84.09919766593727,16.389596126004694,6.722586919523462/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -516,7 +516,7 @@ niited to a convenient day in the next session of
 Congress, and removable in the mean time in  
 the event of the cessation of the blockade o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813081801:0574/pct:26.84903748733536,49.44819634327129,21.555217831813575,4.0685224839400425/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813081801:0574/pct:26.842238541402885,49.440052700922266,21.556090149404913,4.071969696969697/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -541,7 +541,7 @@ stracted. Keeping in view also, the insidious
 discrimination between different partttof ike PSS,  
 ted States.” That is tu ssv, ’ nie enemy hate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813081801:0574/pct:26.84903748733536,82.3587547356284,21.783181357649443,7.642892439466316/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813081801:0574/pct:26.842238541402885,82.34519104084322,21.783995948341353,7.645750988142293/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

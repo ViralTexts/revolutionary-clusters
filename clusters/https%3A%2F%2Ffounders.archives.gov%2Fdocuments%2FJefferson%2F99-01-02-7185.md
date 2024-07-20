@@ -72,7 +72,7 @@ which presents to you the choice between
 &quot;national degradation and national honor?  
 J ask gentlemen is this a time for faction 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809021401:0360/pct:5.4135073179333455,39.7215602658974,16.945864926820665,2.9349053054057443/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809021401:0360/pct:5.4125528913963326,39.716578881364434,16.94875411377527,2.9387174985369118/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -91,7 +91,7 @@ ato connect in indissoluble bonds
 f friendship American brethren of  
 known attachment to the political
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:0020653607A:1866092201:0910/pct:30.221882172915073,107.91002532399821,44.75899005355777,9.712498137941308/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:0020653607A:1866092201:0910/pct:7.559808612440191,26.977506330999553,11.196172248803828,2.428124534485327/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -148,7 +148,7 @@ of known attachment to the political
 rights of human nature, and the liberties  
 of the country
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774753:1868013101:0383/pct:73.16725978647686,142.95480440562096,49.4661921708185,10.381060893784023/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774753:1868013101:0383/pct:18.30158447569877,35.73870110140524,12.373152928609578,2.5952652234460056/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -166,7 +166,7 @@ bonds of’friendship, American brethren
 of known attachment to the political  
 rights of human ‘nature and the liberty
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn85033153:00271769714:1868021301:0193/pct:16.16078753076292,13.739283358979996,11.348099535138092,1.9564739503187514/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn85033153:00271769714:1868021301:0193/pct:15.361302333636402,13.05558456023111,10.776291293241547,1.8586196094810483/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -188,7 +188,7 @@ on horseback rules the political hour, there should emphasis
 be given to the motto of our soclety,  
 &quot;CiViL LIBErTY THE GLOrY OF MAN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_itchweed_ver01:data:sn83030313:00271743671:1869070501:0064/pct:65.6871071853236,39.00429799426934,45.0653983353151,8.297516714422159/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_itchweed_ver01:data:sn83030313:00271743671:1869070501:0064/pct:21.895702395107865,13.001432664756447,15.021799445105033,2.7658389048073864/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -205,7 +205,7 @@ A It shall connect in the indissoluble bonds of patric
 otic friendship American brethren of known attache  
 ment to the political rights of human nature and th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:00271743919:1875121301:0944/pct:240.07595772787317,129.82415814274222,45.574636723910174,3.9765544190322952/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:00271743919:1875121301:0944/pct:80.02531924262439,43.27471938091407,15.191545574636724,1.3255181396774318/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -242,7 +242,7 @@ American brethren of known attach­
 ment to the political rights of human  
 nature and the liberties of the coun
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_gibson_ver01:data:sn84020109:00237285189:1879111301:0077/pct:39.8588604286461,28.65916069600819,14.074751698902247,3.480040941658137/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_gibson_ver01:data:sn84020109:00237285189:1879111301:0077/pct:29.9124068505687,21.49437052200614,10.563472349326709,2.610030706243603/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -263,7 +263,7 @@ bonds of friendship American brethren
 of known attachment to the political  
 rights of human nature aad the liber
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brockovich_ver02:data:sn85032573:00237281883:1879112001:0277/pct:60.56085918854415,27.8669592331678,12.91766109785203,3.787966277861185/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brockovich_ver02:data:sn85032573:00237281883:1879112001:0277/pct:45.43419874664279,20.903106594294954,9.69859743360191,2.8409747083958887/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -325,7 +325,7 @@ try.” It also incorporated a benevolent
 feature in its organization, and to carry out  
 fully the American features of its founder
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_columbo_ver02:data:sn86063034:00414182033:1890112401:0738/pct:56.53534609720177,63.80912747953946,16.42120765832106,3.939520044388958/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_columbo_ver02:data:sn86063034:00414182033:1890112401:0738/pct:43.81509487801398,49.45173081057837,12.74076187758596,3.063857235003225/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -391,7 +391,7 @@ dissoluble bonds of friendship, American
 brethren of attachment to the political  
 rights of human nature and the liberty o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_carlsbad_ver01:data:sn85066387:00175037421:1896080301:0060/pct:43.22467241930329,24.257309941520468,13.486736976669862,43.05263157894737/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_carlsbad_ver01:data:sn85066387:00175037421:1896080301:0060/pct:43.23532545009055,24.257309941520468,13.486736976669862,43.06432748538012/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -451,7 +451,7 @@ J.
   
 &quot;To add to patriotic principles th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_desdemona_ver03:data:sn85047084:00202195994:1898010801:0042/pct:90.35793562708102,23.983780041538918,37.666481687014425,101.18682622885966/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_desdemona_ver03:data:sn85047084:00202195994:1898010801:0042/pct:67.80013879250521,17.990307585797645,28.272033310201248,75.88764711700128/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -588,7 +588,7 @@ onds of friendship American brethren of
 attachment to the political rights of hu  
 man, nature and the liberty of the cou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_charlie_ver01:data:sn86071197:00175034936:1899070501:0064/pct:141.25098970704673,351.026350269326,50.98970704671417,18.969282282719465/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_charlie_ver01:data:sn86071197:00175034936:1899070501:0064/pct:35.32673267326733,87.7565875673315,12.752475247524753,4.742320570679866/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

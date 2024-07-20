@@ -130,7 +130,7 @@ improvement and management of the revenue.
   
 and for the support of. the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00416156888:1839051801:0042/pct:9.220779220779221,45.861237610500936,19.642857142857142,3.8039110634878113/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00416156888:1839051801:0042/pct:6.918954036056521,34.395928207875706,14.747441936007796,2.8663273506563085/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -170,7 +170,7 @@ of the Treasury to digest and prepare plans for the
 improvement and management of the revenue, and  
 for the support of public credit, &amp;c., &amp;c ,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82015015:00415661289:1842033101:0097/pct:2.896364459194449,19.9358336099126,15.205913410770854,3.385330235645536/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82015015:00415661289:1842033101:0097/pct:2.896364459194449,19.9358336099126,15.22099864232916,3.392705682782019/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

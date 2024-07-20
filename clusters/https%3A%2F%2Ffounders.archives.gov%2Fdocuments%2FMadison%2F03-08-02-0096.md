@@ -65,7 +65,7 @@ year at the Independence of the U. &#x27;
   
 State-s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803071801:0561/pct:23.125186734389004,3.0850594975760246,43.56139826710487,91.34420449537241/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803071801:0561/pct:23.121732636295743,3.084787590340208,43.55987055016181,91.33909160350197/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -105,7 +105,7 @@ JAMES MADISON,
 By the President,  
 Jamies Moxnoe, dceretary of State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1811073101:0454/pct:51.49662053427744,4.166666666666667,21.22626327647248,17.920616113744074/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1811073101:0454/pct:51.49662053427744,4.166666666666667,21.236991739083788,17.9304897314376/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -241,7 +241,7 @@ Bu the President,
 JAMES MONROE,  
 Secretary of State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1814081101:0536/pct:19.133753733820114,29.777902202314298,18.386989711251246,16.81597611048899/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1814081101:0536/pct:19.13057906089265,29.77512363534571,18.389469608981805,16.81751734005163/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -280,7 +280,7 @@ By the President,
 JAMES MONROE,  
 Secretary of State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1814081301:0033/pct:5.544041450777202,53.62510322047894,22.512953367875646,17.027250206440957/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1814081301:0033/pct:5.542605542605543,53.616248348745046,22.513597513597514,17.028566710700133/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -322,7 +322,7 @@ Py the President,
 JAMES MONROE,  
 Secretary of State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1814081301:0108/pct:24.30177729416032,53.30347144456887,17.373957199854914,15.777031230558666/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1814081301:0108/pct:24.2973708068903,53.296840009952724,17.37685101239045,15.779215393547316/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -360,7 +360,7 @@ g .. JAMES MADISON. .
 By tho Ireslent, JAMES MOXROR,  
 ; ; [Secrotaty of State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814081601:0134/pct:77.38571428571429,4.551213332033915,17.185714285714287,13.66338563492837/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814081601:0134/pct:77.39047619047619,4.557710424584998,17.19047619047619,13.660137088652828/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -393,7 +393,7 @@ v JAMES MANMISON,
 &quot;By the President.  
 _ /JAMES MONROE, Sec&#x27;ryof State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1814081701:1089/pct:3.0825933992293515,10.836909871244636,23.404255319148938,10.983222785797894/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1814081701:1089/pct:3.088177807561289,10.843412667447001,23.404255319148938,10.986474183899077/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -585,7 +585,7 @@ thirty ninth.
 JAMES MADISON.  
 By th, JAMES MONRO
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016082:00332895084:1814082201:0095/pct:39.55602536997886,61.22128691682123,17.9492600422833,18.404907975460123/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016082:00332895084:1814082201:0095/pct:39.547664341576834,61.212553495007135,17.950750369900657,18.405848787446505/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -753,7 +753,7 @@ their wisdom, may be deemed meet for
 the welfare ofthe State of Ohio.  
 “In testimony whereof,” &amp;c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_queen_ver01:data:sn84026826:00393349414:1835053001:0149/pct:1.3062044712383822,70.47171394997481,15.699572971615172,9.283196239717979/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_queen_ver01:data:sn84026826:00393349414:1835053001:0149/pct:1.3058764439979909,70.45988586774085,15.70190858864892,9.28583417254112/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -786,7 +786,7 @@ Lord one thousand eight hundred and
 thirty-seven, and of the independence of  
 the United Stales the sixty-first
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030311:00271743117:1837051801:0483/pct:79.14821124361158,76.86420039429433,18.603066439522998,9.95013336425838/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030311:00271743117:1837051801:0483/pct:79.15388983532084,76.87193165564962,18.603066439522998,9.946267733580735/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -905,7 +905,7 @@ M. VAN BUREN.
 By the President, John Forsyth.  
 Secretary of State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348951:1837052401:0464/pct:69.36416184971098,18.17663817663818,13.93063583815029,18.34757834757835/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348951:1837052401:0464/pct:69.35079946060489,18.17404928072924,13.932768252745136,18.348525851018373/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -945,7 +945,7 @@ the sixty-first, M. VAN BUREN. |
 &quot; By the President: |  
 &#x27; Jonx Forsvyrm, Secretury of State. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152755:1837052501:0302/pct:66.43498898118325,7.698047506529039,15.189015087302932,13.257057579902996/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152755:1837052501:0302/pct:66.44629033169464,7.698047506529039,15.194665762558627,13.26120300128508/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1160,7 +1160,7 @@ i teenth day of May, in the year of our
 Lord, vne thousand eight hundred and  
 . thirty-sev
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152755:1837102601:0390/pct:20.916368591381367,75.81879784163634,15.312553227729518,11.092985318107667/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152755:1837102601:0390/pct:20.922046215863283,75.82716359225331,15.318230852211435,11.084619567490693/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

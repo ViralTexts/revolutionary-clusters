@@ -1389,7 +1389,7 @@ tUeb.-n-tlt oi an argument on bv-halt uf
 the defendant ; but, as no counsel has  
 appeared for him, and the cause ha* be. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183955:1821032001:0415/pct:80.4751057598438,42.351804901605696,14.77383664171819,6.0606060606060606/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183955:1821032001:0415/pct:80.4620139905645,42.3466924191212,14.776855918876416,6.063898277804603/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1463,7 +1463,7 @@ tbe laws now existing in this state.”
 The court in their opinion, say, that if the  
 only intent of this article was to preserve t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1822010501:0296/pct:51.01130753304666,3.249911042580951,14.763497372193024,5.420472067370419/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1822010501:0296/pct:51.003184713375795,3.249525616698292,14.766454352441613,5.423782416192283/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1494,7 +1494,7 @@ ginia was aware of the. quantity of unsettled
 lauds in Kentucky and of the necessity and  
 policy of having them settled. She wag aware
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1822010501:0296/pct:51.186494664755536,48.535167832997274,14.95461060678452,9.192266635037361/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1822010501:0296/pct:51.17834394904459,48.529411764705884,14.957537154989383,9.195129664769134/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1516,7 +1516,7 @@ pi nation, until the first day of Mar, 1793, ami no lon­
 ger; and thereafter, the residue of all land* irmain­  
 mg within her limits, shall be subject to the disposi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1822020901:0356/pct:21.004929241532835,64.62712859659425,14.787724598505326,3.5936582501467997/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1822020901:0356/pct:21.001589825119236,64.6195396899953,14.790673025967143,3.597150461875685/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1549,7 +1549,7 @@ was to be determined by the rule of the Va.
 laws. They neither had in view, nor could  
 have had, the subject of a meliorations not the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1822021401:0363/pct:33.99615137908916,5.592338614329629,14.961513790891598,10.191534641759281/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1822021401:0363/pct:33.99070065736733,5.591677503250975,14.964459408903853,10.19427040233282/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1570,7 +1570,7 @@ dentsto forfeiture or other penalty within the
 term of six ^&#x27;ears after the admission of  
 tlie said stale into the Union. This limitatio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1822021401:0363/pct:33.78768441308531,20.962402459210214,15.169980756895447,3.7242847008749114/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1822021401:0363/pct:33.78226711560045,20.959924340938645,15.172892950670729,3.727785002167317/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1630,7 +1630,7 @@ shall lie chosen, by each &quot;I tile parties,and the
 remainder by the commissioners so first ap­  
 pointed. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1822022801:0386/pct:52.098292644008296,35.40630182421227,15.222594542843465,23.371239042880834/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1822022801:0386/pct:52.089980855137206,35.40210825535947,15.225483939587322,23.372418966402147/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1657,7 +1657,7 @@ said artier become a solemn compact, mutu­
 ally binding on the parlies, and unalterable by  
 either, will.nut the. consent of tile other.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1822022801:0386/pct:52.225945428434656,60.424070125562665,14.967288973990746,6.894100923951671/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1822022801:0386/pct:52.21761327377154,60.416913419400686,14.970219102318655,6.897232421335229/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1681,7 +1681,7 @@ der the law* of Kentucky, and shall be deter­
 mined by the laws then existing in Virginia,  
 It plainly imports, therefore, that these right
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jumboshrimp_ver01:data:sn84025997:00414183621:1822030201:0037/pct:23.65884706310238,47.289119426948254,16.657574104382615,5.569964184265777/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jumboshrimp_ver01:data:sn84025997:00414183621:1822030201:0037/pct:23.654545454545456,47.283279822178315,16.66060606060606,5.573392607228122/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1713,7 +1713,7 @@ ble, as well as the complete and legal rights
 of individuals, cannot he questioned. Ken­  
 tucky herself had always regarded it as ctn­
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1822030201:0389/pct:33.56186224489796,35.56400808272911,14.700255102040817,9.675502198977773/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1822030201:0389/pct:33.55651203570859,35.55978131685286,14.703225463627184,9.678313921242374/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1743,7 +1743,7 @@ most satisfactory reasons.
 Several considerations concur in shewing,  
 that Virginia could nut have intended this ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1822030201:0389/pct:33.56186224489796,54.712944252941874,14.795918367346939,8.546297396885771/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1822030201:0389/pct:33.55651203570859,54.706441644877586,14.798873478930867,8.5492433246177/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2299,7 +2299,7 @@ ed into an independent state on terms
 and conditions specified in said act  
 A he temperate perseverance, p
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1827052401:0300/pct:56.36445851232195,74.94961128707169,18.335971060366266,11.243881370572991/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1827052401:0300/pct:56.35171790235081,74.9388225133151,18.3374773960217,11.24586152295955/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2470,7 +2470,7 @@ ri• her wi h ml the consent of the «th*r—7V0
 1/87, &#x27;he U. States m Congress, shall sssent to  
 the erection ol the aaul district mtn an inde
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1827053101:0304/pct:40.466332534321204,11.988595866001425,34.38657659620832,82.49465431218817/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1827053101:0304/pct:40.45751633986928,11.986887115165336,34.38453159041394,82.48645952109464/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2508,7 +2508,7 @@ wealth in (.iiiigre.**, who are hereby instruct&#x27;d
 to use their endeavour* to obtain from Congress  
 a speedy act to tl e . licet above specifie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1827053101:0304/pct:58.226193070385705,17.847469707769065,17.084332098496404,12.972202423378475/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1827053101:0304/pct:58.21350762527233,17.844925883694412,17.086056644880173,12.97391676168757/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2837,7 +2837,7 @@ j resolution:
 by the name of the Kentucky District, being  
 part of this Commonwealth, should he separate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024718:00414183761:1856051401:0072/pct:56.922264748581235,55.42725173210162,12.709515639435132,2.74364896073903/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024718:00414183761:1856051401:0072/pct:56.91475323304302,55.42213190467393,12.712237177795373,2.746474536609397/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2903,7 +2903,7 @@ Federal Government.&quot;
 It was decided by the Supreme Court that this compact  
 was constitutional, alone upon the ground that the con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184698:1860030801:0236/pct:135.2014010507881,46.394599570420375,39.0251021599533,11.885036309706454/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184698:1860030801:0236/pct:45.06055742010798,15.463284925342606,13.006469186244468,3.961273607418013/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2942,7 +2942,7 @@ bv the commissioners no first appointed.
 3 He it further enacted, that if the said  
 tian Khali approve of an erection of a now.tate. tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn84026845:00202190686:1861072501:0087/pct:15.283582089552239,28.127490039840637,13.771144278606965,10.278884462151394/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn84026845:00202190686:1861072501:0087/pct:15.298507462686567,28.127490039840637,13.771144278606965,10.294820717131474/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2979,7 +2979,7 @@ the fame shall be abrogated or altered by toe Legis­
 lative authority* acting under the Constitution, so  
 to be framed and established
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn84026845:00202190686:1861072501:0087/pct:15.482587064676617,38.51792828685259,13.552238805970148,9.211155378486056/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn84026845:00202190686:1861072501:0087/pct:15.487562189054726,38.51792828685259,13.562189054726367,9.235059760956176/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3014,7 +3014,7 @@ UITTEE ON THE I1ITISION OF THE STATE.
 Whereas, It is necessary, with the con­  
 sent of the Legislature, for the people of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn84026845:00202190686:1861072501:0087/pct:29.27363184079602,75.34661354581674,13.771144278606965,11.235059760956176/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn84026845:00202190686:1861072501:0087/pct:29.28358208955224,75.35856573705179,13.766169154228855,11.239043824701195/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3185,7 +3185,7 @@ issued from the land olncc of \ rginm,
 which shall be located on lands: within the  
 saip proposed new Slate, now liable ther
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn84026845:00202190686:1861081501:0159/pct:29.61382113821138,31.307962903741604,14.065040650406504,9.290054365206268/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn84026845:00202190686:1861081501:0159/pct:29.61382113821138,31.31595778701631,14.075203252032521,9.306044131755677/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3222,7 +3222,7 @@ WtiEKKAS, It has been represented to
 this Convention that a large number of the  
 citizens of this Commonwealth, res.dn,?i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn84026845:00202190686:1861081501:0159/pct:29.634146341463413,40.518068436200835,14.065040650406504,13.159577870163096/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn84026845:00202190686:1861081501:0159/pct:29.649390243902438,40.52206587783818,14.065040650406504,13.159577870163096/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3258,7 +3258,7 @@ this Commonwealth, and to be erected into
 a separate and independent State, and ad­  
 mitted into the Union of States, and be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn84026845:00202190686:1861082101:0179/pct:17.722951561792666,11.717758026482858,13.626075147125396,12.11681480137856/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn84026845:00202190686:1861082101:0179/pct:17.7286102308737,11.72682749863958,13.648709823449524,12.12134953745692/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3290,7 +3290,7 @@ sued from the Land Office of Virginia, pri­
 or to the 17th day of April last, which j  
 shall be located ou lands within the pro- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn84026845:00202190686:1861082101:0179/pct:31.122679945676776,40.848902593869035,13.693979176097782,9.359695265735533/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn84026845:00202190686:1861082101:0179/pct:31.122679945676776,40.8534373299474,13.710955183340879,9.382368946127336/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3317,7 +3317,7 @@ sidents, therein. Ko. grants of lands, or
 ,lap.4 wjirranU:! i&amp;sued by.- the proposed  
 iSfate, shall interfere-ivith any warrant is
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn84026845:00202190686:1861082201:0182/pct:70.13134057971014,13.855206847360913,13.609601449275363,6.936519258202567/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn84026845:00202190686:1861082201:0182/pct:70.1370018115942,13.855206847360913,13.609601449275363,6.949893009985734/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3363,7 +3363,7 @@ looked ; but whatever may have been, the
 fact will soon be realized that the Buckeyes  
 are not to be an unimportant item in the war
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1861082701:0002/pct:22.84787173124642,20.50840155105558,10.326398167589234,9.751543874766623/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1861082701:0002/pct:22.862187440351214,20.50840155105558,10.321626264554304,9.769495906936665/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3425,7 +3425,7 @@ ef Virginia,
 THE BLOCKADING FLEET AND  
 THEIR STATIONS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347294:1861090601:0341/pct:37.617755069455534,37.698695136417555,13.092767044547342,11.103202846975089/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347294:1861090601:0341/pct:37.617755069455534,37.698695136417555,13.09808930757358,11.115065243179123/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3462,7 +3462,7 @@ of Virginia,
 THE BLOCKADING FLEET AND  
 THEIR STATION&#x27;S
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347294:1861090601:0342/pct:37.50598754590452,37.959667852906286,13.124700622704774,11.067615658362989/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347294:1861090601:0342/pct:37.516632071957,37.959667852906286,13.124700622704774,11.075523922499011/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3511,7 +3511,7 @@ time, and then or thereafter so perfected
 as to entitled the locator to a grant, the  
 Legislature shall make provision by la
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn84026845:00202190698:1862021501:0154/pct:44.65730097914006,8.057851239669422,13.324819071945509,7.954545454545454/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn84026845:00202190698:1862021501:0154/pct:44.66262239250745,8.057851239669422,13.33546189868029,7.967458677685951/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3641,7 +3641,7 @@ in the following described boundary ; be­
 ginning on the Tag Fork of Sandy river,  
 on the Ken tacky line, where the comitie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn84026845:00202190698:1862060501:0522/pct:16.99759982544185,36.63590457948807,13.702814750163649,8.009751001218875/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn84026845:00202190698:1862060501:0522/pct:17.01396465197469,36.6489639561205,13.702814750163649,8.001044750130594/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3676,7 +3676,7 @@ case be taxed higher than the laud? of res­
 idents therein. No grants of Iiitid or land  
 warrunta issued by the proposed Stal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn84026845:00202190698:1862060501:0522/pct:30.656775038184595,64.61779557722444,13.615535675321842,10.86540135817517/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn84026845:00202190698:1862060501:0522/pct:30.673139864717434,64.63085495385687,13.626445559677068,10.878460734807591/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3740,7 +3740,7 @@ said, shall be concurrent mly-n with the State
 winch may possess the opposite shores ot said  
 river. fSeo Statutes of Kehtncty as revised.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85038184:00296026797:1865092801:0392/pct:109.67874794069193,46.53570884726663,16.680395387149918,3.2891731384193696/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85038184:00296026797:1865092801:0392/pct:82.3032550473836,34.90178163544998,12.525751957148744,2.466879853814527/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3803,7 +3803,7 @@ residents therein.*1
 I need not mention how these and the  
 other propositions put forth by tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_belgium_ver01:data:sn84026844:00202190790:1867010401:0015/pct:26.91200657894737,79.22013820335637,13.877467105263158,8.341559723593287/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_belgium_ver01:data:sn84026844:00202190790:1867010401:0015/pct:26.91714638157895,79.22013820335637,13.892886513157896,8.366238894373149/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3834,7 +3834,7 @@ all imicenlly beneficial to the defendant, and
 ODcrons lo the plaintiff—were adopted into the  
 laws of that Slate. Se far as they affected th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kedzie_ver02:data:sn82014064:no_reel:1867062001:0002/pct:59.601415533618926,70.29657794676807,9.07059042652263,4.745247148288973/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kedzie_ver02:data:sn82014064:no_reel:1867062001:0002/pct:59.61538461538461,70.30798479087453,9.065934065934066,4.745247148288973/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3862,7 +3862,7 @@ proprietors&#x27; and to secure the aid and
 co-operation of these, with their frauds,  
 in the establishment of the new State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_chekhov_ver01:data:sn84026847:00415665052:1867091801:0275/pct:13.073289654121591,40.26539278131635,12.204784397379248,6.231422505307855/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_chekhov_ver01:data:sn84026847:00415665052:1867091801:0275/pct:13.073289654121591,40.27246992215145,12.209863375488851,6.231422505307855/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3917,7 +3917,7 @@ said States at sales made for the non­
 payment of taxes and become irredeem­  
 able, or hereafter forfeited or treated a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_deforest_ver02:data:sn84026847:00415665143:1872041301:0356/pct:64.07867494824016,56.84593957574459,12.20053238686779,11.345618170130704/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_deforest_ver02:data:sn84026847:00415665143:1872041301:0356/pct:64.07867494824016,56.849510749232195,12.20546189490289,11.345618170130704/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3976,7 +3976,7 @@ was, no doubt, in view of this compact, that in the
 charter for the bridge, It was required to be so ele­  
 vated a* net, at the greatest) *ight of the water, t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lytton_ver01:data:sn82014381:00175037974:1882040101:0131/pct:72.11723254324151,14.67012864392777,10.84240871236387,3.245603682284905/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lytton_ver01:data:sn82014381:00175037974:1882040101:0131/pct:72.1252402306214,14.678980290334001,10.84240871236387,3.245603682284905/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

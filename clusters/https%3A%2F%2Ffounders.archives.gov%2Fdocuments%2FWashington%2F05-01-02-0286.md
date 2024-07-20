@@ -50,7 +50,7 @@ The chair under no pre-engagement of any kind
 or nature whatsoever,&quot; and &quot;that he had oeter­  
 mined to go free from all positive engagement
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664291:1847111201:0601/pct:45.193751877440675,43.19058641975309,13.517572844698108,1.880787037037037/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664291:1847111201:0601/pct:45.193751877440675,43.19058641975309,13.537598878542104,1.8872170781893005/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -74,7 +74,7 @@ lies could a ain bring me into public life
 Twcill go to the chair under no pre engage  
 menl of any kind or nature Whatsoever.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186488:1848030701:0210/pct:119.24392439243924,42.71945819223756,50.13501350135014,17.83016410523574/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186488:1848030701:0210/pct:29.805615550755938,10.678473759604115,12.531497480201583,4.456960541737206/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -171,7 +171,7 @@ me into public life,) I will go to the chair vr. ;Vr
 no pre engagemeiit of any kind or n. &#x27; rt  
 whatsoever
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn86058890:00296029828:1848030901:0234/pct:102.56511444356748,30.951025056947607,21.902131018153117,7.474373576309795/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn86058890:00296029828:1848030901:0234/pct:76.94888494178015,23.220387243735765,16.4199723702388,5.609339407744875/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -205,7 +205,7 @@ me into public life,)-1 will go to the&#x27;ehair under
 no pA-engagement of any kind or nature  
 whats(ver
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn82016320:00296029816:1848031601:0610/pct:76.04289071680375,26.9304327038011,16.642185663924796,13.41142720535501/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn82016320:00296029816:1848031601:0610/pct:57.06098457016899,20.20081281377002,12.490815576781777,10.06454697585465/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -229,7 +229,7 @@ in me lies, could again bring me into public life,)
 will go to the chair under no pre engagement  
 of any kind or nature whatsoever
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:00200292443:1848031801:0475/pct:109.35483870967742,46.043956043956044,19.233870967741936,7.6923076923076925/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:00200292443:1848031801:0475/pct:82.03266787658802,34.53689167974882,14.438394837668884,5.777080062794348/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -275,7 +275,7 @@ me lies, could again bring me into public
 life,) i w&#x27;il go lo the chair nndc.i no pre-en­  
 gagement of any kind or nature whatsoever.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:0041562444A:1848071501:0208/pct:66.59321286910533,18.948693736229146,18.70868223887175,7.884796978281398/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:0041562444A:1848071501:0208/pct:51.611066833655926,14.693446088794927,14.499601502903335,6.110749715400878/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -299,7 +299,7 @@ me into public lite.) I will go to the chair
 under no pre-engagements of any kind or na­  
 ture whatever.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186488:1848071801:0585/pct:15.117994100294986,332.3412171140048,49.94469026548673,17.765081052351846/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186488:1848071801:0585/pct:3.7788018433179724,83.07426597582038,12.483870967741936,4.44068021788229/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -322,7 +322,7 @@ far as in me lies, could again bring me into pub
 lic life,) I will go to the chatir unsder no pre en  
 gagement of any kind or nature whatsoever.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777602:1848072001:0750/pct:180.6335493160547,352.759876716167,49.74802015838733,16.755393667694033/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777602:1848072001:0750/pct:45.18278408067711,88.18996917904175,12.443724113092022,4.188848416923508/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -346,7 +346,7 @@ far as in me lies, could again bring me into pub
 lie life,) J will go to the chair under no pre en.  
 gagtmant of any kind or nature whatsoever.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:00200292443:1848072201:0548/pct:27.088212334113972,18.97924145465897,18.81342701014832,7.55423755267676/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:00200292443:1848072201:0548/pct:20.32409215150332,14.234431090994224,14.115579851620462,5.66567816450757/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -396,7 +396,7 @@ in me lies, could again bring me into public life.)
 I will go to the chair under no pre-engagemcnt of  
 any kind or nature whatsoever
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn86053954:00237282358:1848072701:0236/pct:35.65190268247037,79.77887993387064,23.19089207735496,8.028518288902665/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn86053954:00237282358:1848072701:0236/pct:26.755070202808113,59.83674312874561,17.394695787831512,6.023971895019632/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -421,7 +421,7 @@ into public life,) I mll go to the chair un­
 der no presengagement of any kind or na  
 ture whatever.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn87070038:00296028058:1848072801:0239/pct:72.72042200452148,302.2002200220022,49.886963074604374,23.982398239823983/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn87070038:00296028058:1848072801:0239/pct:18.183531185227057,75.55005500550055,12.474090823440738,5.995599559955996/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -481,7 +481,7 @@ into public life,) I will go to the chair un
 der no pre engagement of any kind or na.  
 tare whatsoever.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn89080032:00415668132:1848080101:0430/pct:248.96103896103895,205.24967989756723,39.15584415584416,19.238156209987196/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn89080032:00415668132:1848080101:0430/pct:83.01935819150319,68.41655996585574,13.057035208522802,6.4127187366623986/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -504,7 +504,7 @@ parties* so far as in me lies, could asain bring
 me into public life,) i will go to the chair under  
 no pre-engagement of any kind or nature what
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215816:1848080101:0024/pct:6.655225019069412,56.65158371040724,12.623951182303585,4.357814131569787/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215816:1848080101:0024/pct:6.6545905234054725,56.64764026172908,12.625925572822322,4.359831082648847/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -529,7 +529,7 @@ me into public life,) I will go to the chair un­
 der no pre-engagement of any kind or nature  
 whatsoever.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_harrison_ver01:data:sn82015672:00296021805:1848080201:0264/pct:143.4059633027523,106.80100755667506,58.830275229357795,22.879932829554996/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_harrison_ver01:data:sn82015672:00296021805:1848080201:0264/pct:35.86177229710353,26.700251889168765,14.711786636076857,5.719983207388749/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -553,7 +553,7 @@ me lies, could again bring me into public
 life.) 7 trill go to Ike chair under no pre~en~  
 gage meat of any kind or uatate whatsoever.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182963:1848080301:0635/pct:36.059701492537314,69.03546480386889,14.527363184079602,5.091348737238044/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182963:1848080301:0635/pct:36.0525268603263,69.02619207521826,14.529446876243533,5.094022834116857/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -586,7 +586,7 @@ der no pre-engagement of any kind or nature
   
 wnatsoever.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn82016320:00296029816:1848080301:0692/pct:39.847864248098304,10.99869063206761,16.44236395552955,6.9158433519819065/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn82016320:00296029816:1848080301:0692/pct:29.890270665691293,8.249017974050709,12.333577176298464,5.189858350196405/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -610,7 +610,7 @@ bring me into public life) I will go to the chair
 under no pre-engagement of any kind ar nature  
 wchatener.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296199:1848080501:1184/pct:198.60655737704917,172.80436099333738,59.83606557377049,19.079345850999395/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296199:1848080501:1184/pct:49.66181594589055,43.201090248334346,14.962082393933184,4.769836462749849/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -660,7 +660,7 @@ Extract from a letter
 written by Genr Taylor  
 to the Editors of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777602:1848081701:0768/pct:30.89605734767025,141.41526484081746,49.60573476702509,25.636035034060892/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777602:1848081701:0768/pct:7.728169266630805,35.353816210204364,12.408104715797023,6.409008758515223/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -685,7 +685,7 @@ of any kind or nature
 wchatsoever.  
 refuse the nomination o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777602:1848081701:0768/pct:30.89605734767025,172.94591964409844,49.67741935483871,12.122897261226193/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777602:1848081701:0768/pct:7.728169266630805,43.23647991102461,12.42603550295858,3.030724315306548/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -710,7 +710,7 @@ life.) I will go to the chair under no
 pre-engagement of any kind or nature  
 whatsoever
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn86086768:0027176974A:1848082501:0206/pct:14.451038575667656,10.181649890084461,14.673590504451038,6.6643526553280115/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn86086768:0027176974A:1848082501:0206/pct:13.738019169329073,9.676119293617646,13.940048862995678,6.33472558071371/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -735,7 +735,7 @@ whatever. 9th March, 1789.&quot;
 To BeNraNIn LIncolN,  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1848083001:1110/pct:215.2851711026616,300.7111230377029,58.02281368821293,23.990339460619886/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1848083001:1110/pct:53.831526906255945,75.17778075942573,14.508461684730937,5.9975848651549715/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -763,7 +763,7 @@ kind or nature whats ever.
 Now heaar Gen. Faylor of whom it has been  
 truly sald that no candidate since the days o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186488:1848083001:0711/pct:73.39315143746566,224.40429431788425,49.60629921259842,24.888714323121235/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186488:1848083001:0711/pct:18.3449285975833,56.09372954575206,12.399304284145002,6.2213640528865035/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -882,7 +882,7 @@ than the appearance of the latter; for toth,
 the work of nature, aro alike un-­  
 avoidable.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn85049614:0027952939A:1855062001:0316/pct:132.79001468428783,72.3884875587662,36.96035242290749,13.72549019607843/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn85049614:0027952939A:1855062001:0316/pct:44.26333822809594,24.129495852922066,12.320117474302496,4.57516339869281/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -904,7 +904,7 @@ hare the least sway on decisions of a public
 nature.&quot;  
 The feeling of ThoMas Jerperson on th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536123:1870120601:0127/pct:81.35464231354642,272.0048163756773,50.30441400304414,18.60325105358218/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536123:1870120601:0127/pct:20.350276032743196,68.00120409391933,12.583285741481058,4.650812763395545/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -944,7 +944,7 @@ To discharge the daties of office with that linpartiality and real for
 the public good which ought never to suffer connections of I  
 p to mingle so as to have the least sway on decisions of a publi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grass_ver01:data:sn83030214:00206531101:1872060101:0241/pct:151.61707632600258,120.20295202952029,47.00840879689521,3.863007380073801/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grass_ver01:data:sn83030214:00206531101:1872060101:0241/pct:50.53902544200086,40.067650676506766,15.66946959896507,1.287669126691267/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -963,7 +963,7 @@ ought never to suffer connections of blood or friend­
 ship to mingle so as to have the least sway on de-­  
 cisions of a public nature.&quot; This excel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743786:1872060101:0802/pct:154.1004862236629,64.21462075277428,44.92706645056726,6.418029973687221/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743786:1872060101:0802/pct:51.366828741220964,21.404873584258095,14.975688816855754,2.139343324562407/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -992,7 +992,7 @@ the pretensions of different candidates,
 and, so far as is proper, to political consid­  
 erations.&quot; Ho cotntanly repeats thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_felice_ver01:data:sn87052128:00200292182:1877042001:0543/pct:78.99449035812673,19.828641370869033,23.163452708907254,4.0085679314565485/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_felice_ver01:data:sn87052128:00200292182:1877042001:0543/pct:59.29244199402711,14.871481028151775,17.39030553641167,3.014075887392901/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1021,7 +1021,7 @@ pretention of different candidates,
 and, so far as is proper, to political  
 considerations.” He constantly re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588265:1877042801:0066/pct:82.65514889747669,42.964001870032725,18.14048647419868,4.114071996259934/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588265:1877042801:0066/pct:64.06506929762743,33.30112721417069,14.065069297627437,3.2004830917874396/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1057,7 +1057,7 @@ sions of different candidates, and, so
 far as is proper, to political consider­  
 ations.&quot; He constantly repeats thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dorothea_ver01:data:sn86063984:00200292819:1877061301:1660/pct:312.639029322548,89.34078969666159,65.92517694641052,14.77715641416709/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dorothea_ver01:data:sn86063984:00200292819:1877061301:1660/pct:78.21907412092082,22.335197424165397,16.493802175562863,3.6942891035417724/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1075,7 +1075,7 @@ the fitness of characters, the pretensions
 of different candidates, aud, so far as is  
 proper, the political considerations.&quot; H
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_duwamish_ver01:data:sn87093109:00200290975:1877062101:0169/pct:42.266666666666666,17.13957055214724,16.304761904761904,2.4284253578732105/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_duwamish_ver01:data:sn87093109:00200290975:1877062101:0169/pct:42.266666666666666,17.14809134287662,16.31111111111111,2.4369461486025905/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1093,7 +1093,7 @@ the fitness of characters, the pretensions
 of different candidates, and, so far as is  
 proper, the political considerations.&quot; H
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn84022761:no_reel:1877062901:0395/pct:117.4512743628186,49.01574803149607,48.7256371814093,7.244094488188976/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn84022761:no_reel:1877062901:0395/pct:39.1504247876062,16.338582677165356,16.241879060469763,2.4146981627296586/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1111,7 +1111,7 @@ ness of characters, the pretensions of
 different candidates, and, so far as is  
 proper, to political considerations.” H
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_carrie_ver01:data:sn85033295:00271768795:1877082201:0291/pct:35.19749706687524,15.197404002163331,14.105071046799635,2.1272760050477735/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_carrie_ver01:data:sn85033295:00271768795:1877082201:0291/pct:35.206187806891755,15.203413256414878,14.105071046799635,2.1302806321735472/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1129,7 +1129,7 @@ ness of characters, the pretensions *of
 different candidates, and, so far as is  
 proper, to political considerations.” H
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271769453:1877082301:0222/pct:67.47514910536779,56.8619622716838,11.981444665341286,1.9163589180556941/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271769453:1877082301:0222/pct:67.47956704219129,56.868616295704825,11.981444665341286,1.9163589180556941/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1153,7 +1153,7 @@ of clamor and misrepresentation, ought to!
 govern in all disputes about matters of ;  
 importance.— George Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_eddington_ver01:data:sn82014248:00332895990:1881042001:0379/pct:5.475342208888056,86.79405520169851,12.975810988186762,4.939844302901628/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_eddington_ver01:data:sn82014248:00332895990:1881042001:0379/pct:5.474315710536183,86.78177186527031,12.978065241844769,4.942683272006793/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1184,7 +1184,7 @@ them.
 Ambition is but the evil shadow of  
 aspiration.—(&gt;evr&lt;je Marltunul
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_nova_ver02:data:sn86092518:00383341632:1881042701:0401/pct:24.421818181818182,30.012389015073303,11.185454545454546,8.383233532934131/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_nova_ver02:data:sn86092518:00383341632:1881042701:0401/pct:24.41826643397324,30.009290802105916,11.188675586581345,8.385809160042669/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1215,7 +1215,7 @@ Attorney General MacVeaglt arrived
 in this city yesterday, with ilie avowed  
 purpose of remaining here and not as
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_elk_ver01:data:sn90051703:00296024831:1881111201:0500/pct:9.285714285714286,80.49535603715171,15.952380952380953,11.678018575851393/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_elk_ver01:data:sn90051703:00296024831:1881111201:0500/pct:6.975161619598503,60.371517027863774,11.959850289214017,8.76780185758514/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1237,7 +1237,7 @@ them, as a crime, than tho appearanco
 of tho latter ; for both, being the work  
 of nature, are alike unavoidable
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_gaylord_ver02:data:sn85033781:00296023772:1882063001:0166/pct:115.59817596566523,117.69041769041769,20.614270386266096,6.860706860706861/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_gaylord_ver02:data:sn85033781:00296023772:1882063001:0166/pct:77.08612825328683,78.46342846342846,13.751006171183258,4.573804573804574/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1272,7 +1272,7 @@ The mightiest curative force in the
 universe lies in the person.  
 Let the liver rest by giving np tea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_fleshgolem_ver02:data:sn92063989:00514153553:1882081901:0595/pct:66.75775091960062,38.16870702666443,9.584866001050973,9.206775113198054/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_fleshgolem_ver02:data:sn92063989:00514153553:1882081901:0595/pct:66.76475740059556,38.174297054055565,9.584866001050973,9.203980099502488/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1295,7 +1295,7 @@ i former is no more to be imputed to them
 Ltter; for both being the work of nature  
 are ilike imwoidable
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287265:1882090601:0004/pct:11.677548970366649,92.6012058570198,11.752887995981919,4.177433247200689/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287265:1882090601:0004/pct:11.68591997321279,92.60407694516222,11.76125899882806,4.180304335343095/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1413,7 +1413,7 @@ of actual occupancy, merely to make room for an­
 other, however considerable his abilities or unim­  
 peachable his integrity may appear to the public eye
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_ashbel_ver01:data:sn82015679:00202191605:1888120701:0351/pct:106.21421755725191,16.079993496463704,18.630725190839694,39.443947646532806/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_ashbel_ver01:data:sn82015679:00202191605:1888120701:0351/pct:79.67314803769534,12.06405983253394,13.98067517595133,29.5829607348996/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1635,7 +1635,7 @@ The Ingenuous I&#x27;lsliers of Men.
 Boston Advertiser.  
 By tho sleepless correspondents who ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_ashbel_ver01:data:sn82015679:0029587031A:1889011001:0099/pct:106.43741075678248,25.499269361909402,19.193241313660163,46.63094658223738/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_ashbel_ver01:data:sn82015679:0029587031A:1889011001:0099/pct:79.85954053088918,19.126481571683716,14.403047256279015,34.97320993667803/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1745,7 +1745,7 @@ which ought never to suffer connections of blood
 or friendship to have the least sway on decision  
 of a PUtdio nature.&quot; On this hiirh 1mi1 mnvi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_ashbel_ver01:data:sn82015679:00295870333:1889050101:0012/pct:59.157754010695186,114.74702123985494,16.031639928698752,6.820929027801761/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_ashbel_ver01:data:sn82015679:00295870333:1889050101:0012/pct:44.37883008356546,86.06458297357969,12.022284122562674,5.111379727162839/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1775,7 +1775,7 @@ and seal fertile public good which ought
 never to suffer connections of blood or friend­  
 ship to have the least sway on decis-oas of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_galena_ver02:data:sn88065721:00279521651:1889050101:0105/pct:4.408039182570512,79.15290902880565,15.791251477790913,8.072412615279518/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_galena_ver02:data:sn88065721:00279521651:1889050101:0105/pct:4.413668862241739,79.16049944969448,15.802510837133367,8.068617404835098/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1909,7 +1909,7 @@ sions of a public nature.&quot; From Washing­
 ton&#x27;s ideal of the dignity and honor of a pub­  
 lic officer, to his ideas of private dignity an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_graftonnotch_ver01:data:sn83016025:00414210909:1889050201:0491/pct:4.929577464788732,86.6932644919033,9.629203794193733,8.22576859892044/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_graftonnotch_ver01:data:sn83016025:00414210909:1889050201:0491/pct:4.9288690903865495,86.68309280769682,9.631412559275757,8.227736712425202/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2037,7 +2037,7 @@ ure.&quot; Again the president winced, and
 drew his face down more tightly.  
 After a short reference to the deterio- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_kasota_ver01:data:sn90059522:00175033415:1889050401:0035/pct:13.776137761377614,26.79829119039372,11.777367773677737,4.364392102528576/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_kasota_ver01:data:sn90059522:00175033415:1889050401:0035/pct:13.776137761377614,26.802139860678135,11.792742927429273,4.364392102528576/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2100,7 +2100,7 @@ never to suffer connections of blood or
 friendship to have the least sway on deci­  
 sions of a public nature. On this high leve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_crawlingclaw_ver03:data:sn92064070:00514153875:1889050601:0175/pct:3.301951152954018,58.74718438270943,12.430072315459135,9.92169902391934/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_crawlingclaw_ver03:data:sn92064070:00514153875:1889050601:0175/pct:3.311047437121936,58.74718438270943,12.420976031291218,9.936000572061925/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2124,7 +2124,7 @@ ought never to suffer connections of
 blood or friendship to have the least sway  
 on decisions of a public nature.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_calpet_ver02:data:sn86072173:00514150023:1889050701:0500/pct:6.9740766230786875,67.9372197309417,12.18169304886442,6.109865470852018/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_calpet_ver02:data:sn86072173:00514150023:1889050701:0500/pct:6.991282404221152,67.9465620328849,12.18742830924524,6.114536621823618/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2195,7 +2195,7 @@ for the public good which ought nev
 to suffer connections of blood or frienc  
 s ship to have the least sway on deci
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_floydcouncil_ver01:data:sn93067777:00237287010:1889050901:0074/pct:72.57547421854127,41.99257779046532,12.783863211327812,11.571034351508231/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_floydcouncil_ver01:data:sn93067777:00237287010:1889050901:0074/pct:72.5799269747974,41.99257779046532,12.783863211327812,11.580550004757827/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2231,7 +2231,7 @@ tions of blood or friendship to have
 the least sway on decisions of a pub­  
 lic nature.&quot; On this high level mov
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_dakin_ver03:data:sn84023253:00202197061:1889050901:0289/pct:71.7219589257504,121.21473185440448,43.44391785150079,42.12793452509153/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_dakin_ver03:data:sn84023253:00202197061:1889050901:0289/pct:17.93285055957867,30.30368296360112,10.862409479921,10.531983631272883/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2395,7 +2395,7 @@ And again, another enormous
 between this day and that of which  
 it is the anniversarv.&#x27;is seen in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_casablanca_ver01:data:sn85052020:00206533833:1889051001:1109/pct:29.498407643312103,34.46220536439989,19.46656050955414,15.19913302628014/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_casablanca_ver01:data:sn85052020:00206533833:1889051001:1109/pct:22.138164443559624,25.84665402329992,14.592872785188135,11.406123001896505/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2420,7 +2420,7 @@ nature.&quot;
 On tliis high level moved the first Presi­  
 dent of the republic. To it must we who ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_henson_ver01:data:sn83016107:00415625546:1889051001:0541/pct:79.38652547014789,63.5029488410369,14.150082161767392,5.733095597311754/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_henson_ver01:data:sn83016107:00415625546:1889051001:0541/pct:61.52539974529503,49.21517910923715,10.98533088061884,4.453814264961202/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2505,7 +2505,7 @@ Suite of the office with that impartiality and zeal 1for
 the Iubilo food which ought never t tufferconnection  
 of blood or frlendiblp to hare the leat twiT en dict
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_borges_ver01:data:sn83030272:00175044851:1889051101:0107/pct:73.11248073959938,271.9367588932806,51.61787365177196,23.70021283064761/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_borges_ver01:data:sn83030272:00175044851:1889051101:0107/pct:18.278120184899844,67.98418972332016,12.90446841294299,5.925053207661903/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2685,7 +2685,7 @@ side rabie, his abilities .qr j$tuiropea.cjhi
 bis integrity may appear in the pub]  
 eye. I am, sir, 4c 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_danastjames_ver01:data:sn93067846:00294551360:1889051501:0241/pct:3.080173468253086,3.2299023886993097,23.77404648059602,96.23045790016666/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_danastjames_ver01:data:sn93067846:00294551360:1889051501:0241/pct:3.083880054857482,3.2351929741025844,23.777753067200415,96.23045790016666/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2718,7 +2718,7 @@ suffer eonneotions of blood or friendship to
 have the least sway on decisions of a pablic  
 nature.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762283:1889051501:0246/pct:27.95484727755644,17.049980727226007,10.922974767596282,8.133110625722729/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762283:1889051501:0246/pct:27.958997343957503,17.056404985224205,10.939575033200532,8.133110625722729/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2880,7 +2880,7 @@ appear in the public eye.
 &quot;I am, sir, &amp;c.,  
 &quot;G. WASHINGTON.&#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_floydcouncil_ver01:data:sn93067777:00237287010:1889051601:0079/pct:49.23971968795451,12.704414405898477,23.958746529155096,84.22346157481803/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_floydcouncil_ver01:data:sn93067777:00237287010:1889051601:0079/pct:49.24853453215214,12.704414405898477,23.967561373352726,84.22661247124807/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2909,7 +2909,7 @@ intermingle so as to have Hie least sway on I
 decisions of u public nature.&quot;  
 it has boon since ascertained Hiiiltne friend 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_henson_ver01:data:sn83016107:00415625546:1889051701:0546/pct:5.008225187351489,53.4201507882111,14.439773350392981,8.608636052090473/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_henson_ver01:data:sn83016107:00415625546:1889051701:0546/pct:3.881386344319577,41.40727362866957,11.200302200396639,6.675165551188074/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2955,7 +2955,7 @@ nexious of blood or friendship to inter- &#x27;
 mingle so as to have the least sway on  
 decisions of a public nature.” Presi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_irene_ver02:data:sn85035524:00332896805:1889051801:0330/pct:8.224543080939947,58.65239926433707,10.835509138381202,4.280220698879786/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_irene_ver02:data:sn85035524:00332896805:1889051801:0330/pct:8.222753969980422,58.642594450016716,10.838590385033717,4.283684386492812/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3023,7 +3023,7 @@ of blood or friendship to have ihe least sway
 on decisions of a public nature.&quot;  
 There were, it is said, perhaps only tw
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762283:1889052201:0247/pct:72.70916334661355,39.31645894899139,10.97277556440903,7.966079917769497/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762283:1889052201:0247/pct:72.72161354581674,39.31967107799049,10.981075697211155,7.969292046768598/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3046,7 +3046,7 @@ never to suffer connections of blood or friendship
 to have the least sway on decisions of a public  
 nature.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024653:0039334958A:1889052401:0304/pct:3.3499758415203735,43.851091142490375,10.98405540344661,3.6713735558408214/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024653:0039334958A:1889052401:0304/pct:3.349436392914654,43.84546271338724,10.986312399355878,3.6741111538955207/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3077,7 +3077,7 @@ impartiality aud zeal lor the public
 good which ought never to&#x27; stiller con­  
 nections of blood or friendship td hav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eeyore_ver01:data:sn93060412:00294556400:1889052501:0305/pct:113.31694621168306,12.453401677539608,13.201272411798728,8.690587138863/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eeyore_ver01:data:sn93060412:00294556400:1889052501:0305/pct:85.00361532899494,9.34296365330848,9.906001446131597,6.523765144454799/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3246,7 +3246,7 @@ connections of blood or friendship to have
 the least sway on decisions of a public na­  
 ture.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762283:1889060501:0256/pct:15.322045152722444,68.07771487390633,10.95617529880478,6.729284611425631/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762283:1889060501:0256/pct:15.330345285524569,68.0809315491508,10.964475431606905,6.7325012866700975/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3280,7 +3280,7 @@ ship to have the least sway on decis­
 ion of a publio nature.&#x27;  
 &quot;On this high level moved tho firs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_ferrari_ver02:data:sn86088181:00200296953:1889060601:0889/pct:239.68627450980392,23.6254763200871,50.98039215686274,42.89602612955906/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_ferrari_ver02:data:sn86088181:00200296953:1889060601:0889/pct:59.956837355307044,5.906369080021775,12.752599568373553,10.724006532389765/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3489,7 +3489,7 @@ contending parties so far as in&#x27; me
 lies.&quot;  
 To Samuel Hanson he wrote: 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carlisle_ver01:data:sn86081853:00296026074:1896022101:0281/pct:43.44590726960504,63.83096257423008,12.344972333524137,5.040740229250104/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carlisle_ver01:data:sn86081853:00296026074:1896022101:0281/pct:43.44590726960504,63.83096257423008,12.351332442918018,5.0453436449845785/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3536,7 +3536,7 @@ a crime than the appearance of the lat­
 ter; for both, being the work of natnre,  
 are alike unavoidable.—Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_furio_ver01:data:sn85035816:00332896593:1899021701:0055/pct:18.092674485675833,89.57715712279607,12.497596616035377,5.570291777188329/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_furio_ver01:data:sn85035816:00332896593:1899021701:0055/pct:18.089196462898887,89.5631825273011,12.5,5.573322932917317/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

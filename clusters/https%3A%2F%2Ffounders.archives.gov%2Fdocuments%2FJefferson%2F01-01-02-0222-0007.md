@@ -1593,7 +1593,7 @@ whatsoever is not of faith is sin.&quot;
 theatres and will dance in spite of all the  
 preaching in the world, and if these meae
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279520944:1857103101:0442/pct:344.2071785552022,273.3245729303548,50.726942298955024,12.828515111695138/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279520944:1857103101:0442/pct:86.03225073813309,68.31992116932173,12.67885532591415,3.206602069305305/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1998,7 +1998,7 @@ It is to be hoped that this article
 may fall into the hands of many cler­  
 gymen and laymen of the variou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn85038180:00296029051:1884032001:0259/pct:51.76557863501483,113.87823585810163,14.169139465875372,5.3092042186001915/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn85038180:00296029051:1884032001:0259/pct:38.83365484493248,85.41466922339406,10.63956076569224,3.9789069990412274/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2067,7 +2067,7 @@ condemned) if he eat, because he eateth not
 of faith, for whatsoever is not of faith is sin.&quot;  
 It is sin to do what you doubt to be right; i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn86081895:00280776592:1893090701:0837/pct:312.02749140893474,300.19284972556,58.50515463917526,7.120605251446373/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn86081895:00280776592:1893090701:0837/pct:78.04039535883112,75.04821243139,14.632574129780833,1.7801513128615933/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2103,7 +2103,7 @@ condemned) if he eat, because he eateth not
 of faith, for whatsoever is not of faith is  
 sin.&quot; It is sin to do what you doubt to b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_rolls_ver01:data:sn85025431:0021247986A:1893091301:0297/pct:34.25514403292181,84.57550973390163,14.123456790123457,1.9698191452597626/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_rolls_ver01:data:sn85025431:0021247986A:1893091301:0297/pct:34.25514403292181,84.57550973390163,14.139917695473251,1.9736589486618286/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2121,7 +2121,7 @@ condemned) if he eat. because he eateth not
 of faith, for whatsoever is not of faith is sin.&quot;  
 It is sin to do what you doubt to be right; i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287186:1893091301:0278/pct:69.64769647696477,70.66454013822435,12.782294489611562,1.8819776714513556/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287186:1893091301:0278/pct:69.65271504566897,70.66454013822435,12.79735019572418,1.8890660995924153/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2175,7 +2175,7 @@ condemned) if he eat, because he eateth not
 of faith, for what soever is not of faith is  
 sin.&quot; It is sin to do what you doubt to b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777110:1893091401:0443/pct:229.02973395931141,347.7172087341579,50.70422535211268,7.940143533363872/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777110:1893091401:0443/pct:57.26863627470162,86.92930218353948,12.678536489923694,1.985035883340968/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2193,7 +2193,7 @@ condemned) if he eat, because he eateth not
 of faith, for what soever is not of faith is  
 sin.&quot; It is sin to do what you doubt to b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jamaica_ver01:data:sn93063557:00280777882:1893091501:0292/pct:133.51016799292663,339.0608485580553,57.47126436781609,7.851426845840254/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jamaica_ver01:data:sn93063557:00280777882:1893091501:0292/pct:33.3996903339969,84.76521213951382,14.377350143773501,1.9628567114600635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2221,7 +2221,7 @@ condemned) if h- eat, because heeateth not
 of faith, for whatsoever is not of faith is  
 sin.” It is sin to do what you doubt to lx
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059533:00393349116:1893091601:0154/pct:76.33587786259542,64.09786732958263,9.836918806384455,1.4915609054036374/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059533:00393349116:1893091601:0154/pct:76.32263660017347,64.0894819466248,9.839549002601908,1.4946363160648874/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

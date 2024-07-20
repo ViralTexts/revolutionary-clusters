@@ -69,7 +69,7 @@ ports of either of the said parties, nor to fell
 what they have taken, nor in any other manner  
 to exchange the fame ; nor shall they be allow­
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795071401:0470/pct:73.1321201361148,85.85074626865672,19.48513093652907,6.378109452736318/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795071401:0470/pct:73.13705183212507,85.85406301824213,19.499926024559848,6.378109452736318/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -238,7 +238,7 @@ they have taken, nor in any other manner
 “to exchange the fime.” But the fame  
 - Treaty, in the next article, provides, tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796071601:0114/pct:74.51767248032104,48.50649995038206,16.082728816175337,2.8679170388012305/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796071601:0114/pct:74.52281730719761,48.50980781317191,16.08787364305191,2.871224901591082/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -282,7 +282,7 @@ It shall not bn lawful for any foreirn pri­
 vateers, (not being subjects or citizens ol  
 either of the said parties)
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808040801:0123/pct:40.89975732686205,10.356515189555612,17.005786820981893,1.857896058247552/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808040801:0123/pct:40.89212392683837,10.355215262959709,17.00883414209282,1.8618467846533617/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -302,7 +302,7 @@ of th! ! i I0&quot;’ toarm &quot;’e&#x27;rthi;s in the port-of ether
 a-iyothc/m ,,0r V* Se&quot; *h,t t!ley ,uve nor in  
 a.i) other manner to exchange the same, in r shad th-v b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808041101:1075/pct:75.16070969400874,39.25626515763945,21.95937258935459,3.4761519805982215/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808041101:1075/pct:75.1413881748072,39.2499191723246,21.960154241645245,3.479631425800194/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -356,7 +356,7 @@ Ury for their going to the nearelt port of that
 prince or (late from whom they obtaiu their  
 commilDuos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808091201:0464/pct:21.89207650273224,30.10147694162564,17.98155737704918,6.661308148296996/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808091201:0464/pct:21.888338739969267,30.09845288326301,17.98275567696773,6.663150492264417/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -390,7 +390,7 @@ sod to purchase more provisions thes salf be
 necessery for their going to the nearest port of that  
 prince or stats frem sahom they obtained thei
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_american_ver01:data:sn86053570:00237288865:1863082601:0195/pct:40.84905660377358,234.7972341618389,48.490566037735846,19.211362362175294/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_american_ver01:data:sn86053570:00237288865:1863082601:0195/pct:10.214673271998112,58.699308540459725,12.12550129747582,4.802840590543823/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

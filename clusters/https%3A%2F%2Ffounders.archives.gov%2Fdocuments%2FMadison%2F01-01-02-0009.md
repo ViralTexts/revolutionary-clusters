@@ -477,7 +477,7 @@ much better is it to get wisdom than
 gold ? and to get unde .*anding rather  
 to be chosen than silver.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1792071901:1047/pct:49.59369613395715,25.81171479849894,20.63531149963063,3.2305433186490453/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1792071901:1047/pct:49.60190429286711,25.82259204873008,20.627103340720677,3.2359819437646165/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1397,7 +1397,7 @@ about as a fale~bearer revealeth secrets ;
 therefore meddle not with him that flatter­  
 eth with his lips.—prov. xx. 19. “Wher
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021521:00514152718:1834112201:0054/pct:75.38638605721802,88.134765625,14.616902334758302,5.57861328125/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021521:00514152718:1834112201:0054/pct:75.39734736380576,88.13883463541667,14.627863641346048,5.57861328125/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1721,7 +1721,7 @@ bearer revealeth secrets, but he that is of a faith­
 ful spirit conecaleth the matter.&quot; Secrecy is not  
 used by masonry as a cloak for evil but to an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016942:00295878216:1844072001:0171/pct:17.028343666961913,77.53207753207754,22.475642161204608,4.559104559104559/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016942:00295878216:1844072001:0171/pct:12.782454585733275,58.14905814905815,16.88081524147098,3.426153426153426/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1769,7 +1769,7 @@ belly.&#x27;*— rrcverbs 13, 20 to 22v.
 From the above passage, we learn that it js  
 tale bearers, who keep up strife in communities, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215762:1845061201:0287/pct:62.57119609438568,89.08568693154619,15.174938974776241,2.7285782671134515/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215762:1845061201:0287/pct:62.56483270619343,89.07959518599563,15.176785653750974,2.7306710430342815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1832,7 +1832,7 @@ from the same work : “ A tale bearer&quot;revealeth
 secrets, but he that is of a faithful spirit conceal­  
 eth the matter,” Prov. xi, 13. &quot;A pruden
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn86071753:00414184388:1846061801:0087/pct:75.6842105263158,50.0,17.385964912280702,2.952707669688802/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn86071753:00414184388:1846061801:0087/pct:75.6709349236976,49.99387480093103,17.38876220546103,2.9564294172893955/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1849,7 +1849,7 @@ eth the matter,” Prov. xi, 13. &quot;A pruden
 that is a faithful spirit concealeth the mat­  
 ter.&#x27; Prov
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82014769:00415661022:1846071701:0731/pct:74.66789667896678,29.288959842809774,18.025830258302584,2.3332923983789757/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82014769:00415661022:1846071701:0731/pct:74.66789667896678,29.297146833681282,18.025830258302584,2.329198902943223/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2045,7 +2045,7 @@ perience As vinegar to the teeth, and smoke
 to tho eyes, so is the sluggard to them that send  
 him.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85026466:0020219798A:1851073001:0020/pct:10.878594249201278,44.85009403695099,25.271565495207668,3.5070251133975/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85026466:0020219798A:1851073001:0020/pct:7.25587342176762,29.903750414868902,16.861115550583346,2.3343290186967587/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2110,7 +2110,7 @@ An ungodly man diggeth up evil; and in
 his lips there is as a burning fire.  
 A froward man soweth strife; and 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn83025143:no_reel:1853060401:0153/pct:237.5107789594711,182.49744114636644,44.265593561368206,30.460593654042988/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn83025143:no_reel:1853060401:0153/pct:79.17025965315703,60.83248038212214,14.755197853789403,10.15353121801433/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2447,7 +2447,7 @@ tongue is a little member, and boastoth great
 things. Dehold, how great a matter&#x27;s littlo  
 fire kindleth! And tho tongue is a fire, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340597:1859060401:0095/pct:18.428184281842817,75.87426326129666,12.161246612466124,8.107400130975769/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340597:1859060401:0095/pct:18.42506350550381,75.86432687270822,12.16342082980525,8.109612362493452/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2494,7 +2494,7 @@ penetration: Ouinisciency? tSoil&#x27;s lorck; owledge, doth
 not r&#x27;?:upt:l, but permits t&lt;? bo none. ,\? ?, ? u. n, ?. ..  
 &#x27;M&#x27;!.ri*tV&gt; divinity appears I?y &gt;r John, xx. v
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664370:1859111101:0596/pct:36.58742439161626,30.148687124327743,12.53340835560557,7.128545818833702/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664370:1859111101:0596/pct:36.58742439161626,30.148687124327743,12.538097247620387,7.135575942915392/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2675,7 +2675,7 @@ go into the city, and it shall be told thee what
 thou shalt do.&quot; Saul went to Damaseus, was  
 toid by Ananias what he should do, and h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053571:00237289043:1867060301:0543/pct:17.298797409805736,304.6613255644574,49.306197964847364,30.662782228696287/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053571:00237289043:1867060301:0543/pct:4.324699352451434,76.16533139111435,12.326549491211841,7.665695557174072/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2743,7 +2743,7 @@ wounds that go down into the innermost
 part of the belly.&quot;  
 The Hebrews thought that the affec
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn83035216:00280775186:1869070301:0117/pct:225.80185317177478,227.69316752829397,49.25160370634355,25.988542685482745/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn83035216:00280775186:1869070301:0117/pct:56.470588235294116,56.92329188207349,12.31729055258467,6.497135671370686/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2768,7 +2768,7 @@ as wounds that go down into the inner­
 most parts of the belly.&quot; The e­  
 brews thought that the affections ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477850:1869122201:0822/pct:22.66244057052298,178.59465573306943,44.294770206022186,21.71638625759932/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477850:1869122201:0822/pct:5.668979187314172,44.64866393326736,11.080277502477701,5.42909656439983/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2786,7 +2786,7 @@ be truthful.? Lying lips are abomination
 to the Lord: but they that deal truly are his  
 delight.?Proverbs xii, 22
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84024437:0041562038A:1870012001:0016/pct:56.95565572911207,6.919393455706305,13.166998637173707,2.003192338387869/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84024437:0041562038A:1870012001:0016/pct:56.95565572911207,6.922053737696196,13.166998637173707,2.008512902367651/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2825,7 +2825,7 @@ ation is almost unpardonable. &quot;A tale-bearer
 revealeth secrets; but he that is of a faithful  
 spirit concealeth the matter.&quot; But when th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009571:00279523921:1870081201:0343/pct:153.99658747867173,123.82271468144044,33.40333377083607,4.194697269489513/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009571:00279523921:1870081201:0343/pct:51.3254593175853,41.270155307152045,11.132983377077865,1.3980941075609192/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2843,7 +2843,7 @@ that is slow to wrath is of great un
 derstanding; but he that is hasty of  
 spirit cxalteth folry.&quot; &quot;Secst tho
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028821:00280775484:1870102001:0108/pct:61.3448275862069,38.30272154444295,12.913793103448276,2.533851722751039/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028821:00280775484:1870102001:0108/pct:46.04105571847507,28.73039281405014,9.694669656718993,1.9037404477812039/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2910,7 +2910,7 @@ Lord, what wilt Thou have me do? And the Lord
 said, Go into the city, and it shall be told thee  
 what thou shalt do.&quot; It occurred to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743804:1872110401:0457/pct:157.17348284960423,211.64704537661447,46.73482849604222,18.470682363698707/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743804:1872110401:0457/pct:52.39116094986807,70.54901512553816,15.578276165347406,6.156894121232903/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2963,7 +2963,7 @@ the minister)suiting the action to the word
 and went “into the city” and found as  
 much as they wished to do to rescue thei
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ellsworth_ver01:data:sn84020071:00393347260:1873121801:0408/pct:50.15161502966381,76.22795656072532,11.19314436387607,4.274185513599681/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ellsworth_ver01:data:sn84020071:00393347260:1873121801:0408/pct:50.14500395465331,76.22036262203626,11.196062922928201,4.277080427708043/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2998,7 +2998,7 @@ As is he had said that so much of
 the strife of society arises from tat  
 tling that, if that were cured, ther
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn84026106:00280776555:1874020501:0738/pct:212.83464566929135,220.48493754592212,48.89763779527559,46.96546656869948/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn84026106:00280776555:1874020501:0738/pct:53.229617959826705,55.12123438648053,12.229224103977945,11.74136664217487/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3062,7 +3062,7 @@ He that is slow to wrath is of great
 understanding, but he that is hasty of  
 spirit exaltcth folly
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84027008:00294551219:1874052401:0510/pct:65.94574780058652,47.125171939477305,16.697214076246333,16.39614855570839/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84027008:00294551219:1874052401:0510/pct:65.95796676441837,47.12975699220541,16.684995112414466,16.405318661164603/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3085,7 +3085,7 @@ atways sending His special messengers. We are
 al the subjects of His special providence. If men  
 look upon dod&#x27;s providential dealings with the mer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_itchweed_ver01:data:sn83030313:00271743877:1874071301:0154/pct:6.1153463705667885,150.84014002333723,47.050049718263175,13.850641773628938/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_itchweed_ver01:data:sn83030313:00271743877:1874071301:0154/pct:2.038448790188929,50.28004667444574,15.683349906087726,4.616880591209646/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3132,7 +3132,7 @@ his text Acts, ix: f&gt;—-“Arise and go into the
 city, and it shall be told thee what thou  
 must do.” The Rt. Rev. speaker deduce
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685282:1875042901:0067/pct:5.72255264426941,14.75024727992087,10.914643947918341,2.077151335311573/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685282:1875042901:0067/pct:5.721632915461266,14.748423785387564,10.91690774670524,2.079985165038942/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3156,7 +3156,7 @@ deviseth wicked imaginations, feet (.hat
 be swift in running to mischief, a false  
 witness that speaketh lies, and ho tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_jinx_ver01:data:sn84026897:00211101246:1875070801:0024/pct:11.341614906832298,65.25980116300882,10.919254658385093,4.267492027762146/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_jinx_ver01:data:sn84026897:00211101246:1875070801:0024/pct:11.349896480331262,65.26605389858062,10.919254658385093,4.26436565997624/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3290,7 +3290,7 @@ it shall be told thee what thou shalt
 do.&quot; Of eying the voice Divine, he  
 proceeded at once to the city of Da
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_forge_ver01:data:sn85038558:00280761539:1878020901:0288/pct:24.02523863452516,36.42547928262214,37.51820093835949,6.122448979591836/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_forge_ver01:data:sn85038558:00280761539:1878020901:0288/pct:8.008412878175053,12.141826427540714,12.506066979453163,2.0408163265306123/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3417,7 +3417,7 @@ to the eyes, so is the sluggard to them
 ttmt send him.”  
 -- ■
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_junior_ver01:data:sn85035561:00332896921:1881071401:0016/pct:29.880639287881852,43.739328400682986,11.83491806595185,2.7888446215139444/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_junior_ver01:data:sn85035561:00332896921:1881071401:0016/pct:29.874595469255663,43.73310570493669,11.837580906148867,2.7920045525679327/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3436,7 +3436,7 @@ ence, uaincly, “As vinegar to the teeth
 card to them that rtud him.”  
 i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_easton_ver01:data:sn85025407:00279522230:1881071501:0178/pct:37.37661033963527,120.3652242953553,14.15425798895767,3.017070265978563/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_easton_ver01:data:sn85025407:00279522230:1881071501:0178/pct:28.97523447292216,93.2827402317711,10.96512080217833,2.3450586264656614/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3456,7 +3456,7 @@ the teeth, and smoke to the eyes,
 so is the sluggard to them that send  
 him.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_grange_ver01:data:sn84026409:00280776488:1881080301:0580/pct:342.9546865301055,354.9976754997675,40.22346368715084,9.390980939098094/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_grange_ver01:data:sn84026409:00280776488:1881080301:0580/pct:85.76529028252095,88.74941887494188,10.058987891959019,2.3477452347745236/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3474,7 +3474,7 @@ namely, &quot;As vinegar to tho teeth,
 and smoke to the eyes, so is the  
 sluggard to them that Bend them.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_abbott_ver01:data:sn95073194:206539239:1881081001:0658/pct:49.34917940011319,75.4116235961182,14.374646293152235,3.042198233562316/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_abbott_ver01:data:sn95073194:206539239:1881081001:0658/pct:37.02236060005661,56.558717697088646,10.798188508349844,2.289826627412496/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3541,7 +3541,7 @@ God for it. The sincerity of our prayers is
 attested by the efforts made to attain this  
 most desirable and exalted state of mind an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_gum_ver01:data:sn82015483:00271762732:1882032001:0270/pct:34.46204259967231,58.72715113687026,12.916439104314582,15.080249665626393/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_gum_ver01:data:sn82015483:00271762732:1882032001:0270/pct:25.85712334380549,44.048149799375835,9.698128670946591,11.312973695942933/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3559,7 +3559,7 @@ for his text Proverbs xI, 13. &quot;A tale-bearer re
 secrets, but he that is of a faithful spirit concealeth the  
 matter.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_geo_ver01:data:sn83030214:00175039934:1882100901:0080/pct:155.5256064690027,226.36373861207963,47.027112731885204,5.994826228770667/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_geo_ver01:data:sn83030214:00175039934:1882100901:0080/pct:51.8418688230009,75.45457953735988,15.675704243961736,1.9982754095902224/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3579,7 +3579,7 @@ bearer revealeth secrets, but he that
 is of a faithful spirit conoealeth the  
 matter.&quot; The preacher prefaced hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_animals_ver01:data:sn84027718:00271763852:1882101801:0187/pct:96.72566371681415,25.587498508887034,14.557522123893806,4.246689729213886/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_animals_ver01:data:sn84027718:00271763852:1882101801:0187/pct:72.5623248266706,19.19360610759871,10.916064316270836,3.185017296910414/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3599,7 +3599,7 @@ bearer revealeth secrets, but he that
 is of a faithful spirit conoealeth the  
 matter.&quot; Tne preacher prefaced hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jay_ver01:data:sn97067613:00202197474:1882110201:0154/pct:35.035021551724135,14.082487869430967,12.5,3.694309660344067/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jay_ver01:data:sn97067613:00202197474:1882110201:0154/pct:26.286715171112906,10.564622849580944,9.377526273241713,2.767975297750331/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3624,7 +3624,7 @@ my mouth forsake her not, and she shall pre­
 serve thee. Love her and she shall keep  
 thee. Wisdom is the principal thing, there
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_gum_ver01:data:sn82015483:00271762720:1882123001:0623/pct:87.57501363884343,11.443403679042998,13.78887070376432,4.875296241959147/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_gum_ver01:data:sn82015483:00271762720:1882123001:0623/pct:65.71155682903535,8.588195463265997,10.356119525173966,3.65647218146936/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3729,7 +3729,7 @@ apostle ol the Gentiles, which th
 to the eyes, so is the Sluggard to them  
 that send him,” caroled the Alarm Clock
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00383342120:1884062901:0132/pct:72.53782472166714,76.63974151857835,10.348272908935199,1.0877759827679052/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00383342120:1884062901:0132/pct:72.53782472166714,76.64692155806857,10.357788562184794,1.0841859630227966/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3745,7 +3745,7 @@ that send him,” caroled the Alarm Clock
 &quot;As vinegar to the teeth and as smoke to  
 the eyes, so is the sluggard to them that sen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777079:1884071101:0223/pct:24.76802284082798,343.7403400309119,43.61170592433976,3.540817760292258/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777079:1884071101:0223/pct:6.19532226388145,85.93508500772798,10.908766291733619,0.8852044400730645/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3762,7 +3762,7 @@ the eyes, so is the sluggard to them that sen
 to the eyes, so is the sluggard to them  
 that send him,” caroled the alarm cloc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_galactic_ver01:data:sn84022982:00513688659:1884072601:0450/pct:17.57261410788382,38.11873554356207,11.991701244813278,1.3878180416345411/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_galactic_ver01:data:sn84022982:00513688659:1884072601:0450/pct:17.579529737206087,38.12387561038293,11.991701244813278,1.3878180416345411/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3789,7 +3789,7 @@ Blessed Master said unto Saul, &quot;Arise, and
 go into the city, and it shall be told thee  
 what thou must do,&quot; Bro. Martin could hav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_ferrari_ver02:data:sn86088181:00200296941:1884100201:1053/pct:218.65955826351865,228.4244721169464,49.96191926884996,5.251759610178668/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_ferrari_ver02:data:sn86088181:00200296941:1884100201:1053/pct:54.66488956587966,57.1061180292366,12.49047981721249,1.312939902544667/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3850,7 +3850,7 @@ said instead, “Arise and go into the city,
 and it shall be told thee what thou must  
 do.” And, accordingly, when ho ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016123:1885022601:0032/pct:82.02446724546172,60.66819615715515,11.977111286503552,7.29853742472039/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016123:1885022601:0032/pct:82.0082856579207,60.659498207885306,11.979680410337345,7.301075268817204/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3951,7 +3951,7 @@ How much better is it to get wisdom
 than gold, and to get understanding,  
 rather to be chosen than silver.Pro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn86071719:00280777699:1886062301:0201/pct:328.05194805194805,247.90109258194366,57.142857142857146,11.328349626221966/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn86071719:00280777699:1886062301:0201/pct:82.06627680311891,61.975273145485914,14.294996751137102,2.8320874065554915/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4153,7 +4153,7 @@ thee what thou must do.&quot;
 I.  
 My first proposition is, when Go
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ivory_ver01:data:sn94060041:00175033981:1888032401:0047/pct:37.961225766103816,11.420002307071174,12.132582864290182,7.290344907140385/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ivory_ver01:data:sn94060041:00175033981:1888032401:0047/pct:37.961225766103816,11.423847425693083,12.137794454867626,7.294190025762295/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4281,7 +4281,7 @@ vinegar to the teeth, and as smoke to
 the eyes, so is the sluggard to them that  
 send him. ”—[Boston Courier
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_galena_ver02:data:sn88065721:00279521663:1891010501:0254/pct:69.8134092346616,52.83168766314834,12.871600253004427,2.031551469753717/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_galena_ver02:data:sn88065721:00279521663:1891010501:0254/pct:69.82395108581066,52.83168766314834,12.87687117857896,2.039117769454848/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4376,7 +4376,7 @@ men that is wonderful. &quot;As vinegar to the
 teeth, and as smoke to the eyes, so is the  
 sluggard to them that send him.&quot; &quot;Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_beveridge_ver01:data:sn82015679:00295870503:1892032101:0216/pct:41.601815823605705,42.07087207841166,15.931690445309123,1.6000670185138643/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_beveridge_ver01:data:sn82015679:00295870503:1892032101:0216/pct:31.20743703383418,31.557342715925273,11.955464274132526,1.197955935327134/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4541,7 +4541,7 @@ opher wrote: As vinegar to the teeth
 and smoke to the eyes is the sluggard  
 to them that send him -he was by an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn89051168:00393343023:1894050701:0753/pct:25.64056297365572,43.81695542917603,12.558643089137496,2.0103160957545296/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn89051168:00393343023:1894050701:0753/pct:25.635937218112936,43.8111610685004,12.560887605989537,2.0133562549590054/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4616,7 +4616,7 @@ Paul received this command, &quot;Arise and
 go into the city and it shall be told thee  
 what thou shalt do.&quot; If we could bu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn90000523:00415628109:1894090701:0142/pct:112.34247590808006,45.758989843535545,14.714603409933284,4.144935492725775/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn90000523:00415628109:1894090701:0142/pct:84.2973674453096,34.326104858632995,11.030774935113088,3.1155640955256656/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4642,7 +4642,7 @@ ing Providence. This may not be so evi­
 dent to you as a beginner; but if you  
 keep your eyes open in religious at
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00542865994:1894102501:0208/pct:39.58814877075016,44.89321516780473,14.120613574280311,5.898590730785995/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00542865994:1894102501:0208/pct:39.57983193277311,44.88669378268449,14.122899159663865,5.9013654851830335/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4824,7 +4824,7 @@ bones.” If wo keep the words of Godin
 us, they will by the Spirit be fitted in our  
 lips as the Spirit may desiro tt) U6e the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_gandolfini_ver01:data:sn91064029:00332896714:1896091601:0344/pct:6.835865135235272,77.72676683361158,12.11559836976658,2.76850306065665/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_gandolfini_ver01:data:sn91064029:00332896714:1896091601:0344/pct:6.834598999814781,77.71595493114481,12.117984812002222,2.7715954931144804/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4844,7 +4844,7 @@ bones.&quot; If we keep the words of God in
 us, they will by the Spirit be fitted in our  
 lips as the Spirit may desire to use the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jamaica_ver01:data:sn93063557:00280777894:1896091801:0300/pct:315.9132007233273,109.61898813241724,60.12658227848101,12.054965646470956/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jamaica_ver01:data:sn93063557:00280777894:1896091801:0300/pct:78.99615645489487,27.40474703310431,15.035044087723264,3.013741411617739/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4892,7 +4892,7 @@ told thee what thou must do
 him. Arise, and go into the city, and it  
 shall be told thee what thou must do. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_agave_ver01:data:sn93061674:0028077456A:1897030601:0389/pct:270.34358047016275,141.19491924102243,57.68535262206148,3.261721812764623/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_agave_ver01:data:sn93061674:0028077456A:1897030601:0389/pct:67.63175752092287,35.29872981025561,14.431124180049762,0.8154304531911557/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4952,7 +4952,7 @@ own death
 They that are of a forward heart  
 are abominations to 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:206534552:1898022801:0552/pct:24.229942693409743,47.687972332522094,19.663323782234958,16.075317023184322/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:206534552:1898022801:0552/pct:16.15908276603368,31.79198155501473,13.113579362235757,10.721147687972332/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

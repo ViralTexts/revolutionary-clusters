@@ -461,7 +461,7 @@ was the first and most ardent of their aspirations, or
 rather the sole object of that intense passion which  
 stung and tormented them night and day.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1837081901:0066/pct:21.611660244597086,3.2010394519253484,18.830624895292345,8.965272856130404/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1837081901:0066/pct:21.611660244597086,3.2010394519253484,18.830624895292345,8.96921017402945/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -644,7 +644,7 @@ ersteg with them freely, I never had heard
 from any person, drunk of sober, the  
 heast expressiomn of a wish for a separation, or a hint tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347910:1847082601:0034/pct:72.42576166602392,126.23024830699774,62.10952564596992,9.104589917231001/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347910:1847082601:0034/pct:18.10294968189705,31.552813722539874,15.524387892808946,2.2758049954860065/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -680,7 +680,7 @@ conversation, from any person, drunk or sober, the least ex­
 pression of a wish for a separation, or a hint that such a thing  
 would lie advantageous- to America.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1847090401:0651/pct:81.00141043723555,17.960890697411553,15.571227080394923,6.510681586978637/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1847090401:0651/pct:81.01081335213917,17.960890697411553,15.561824165491302,6.514449342526657/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -730,7 +730,7 @@ dependence by necessity, and not by choice.—
 They who know how we weic circumstanced,  
 know from whence that necessity resulted.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn86083363:0041566882A:1849070401:0281/pct:43.91556877744723,23.732433951658233,12.678849695424281,15.907813378302418/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn86083363:0041566882A:1849070401:0281/pct:43.925012985786466,23.73992879895072,12.678849695424281,15.907813378302418/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -990,7 +990,7 @@ a wish for a separation, or hint that such a
 thing would be advantageous to America.&quot; In  
 the October of 1774 Washington denied in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_kobayashi_ver01:data:sn83030272:00175044784:1882052101:0382/pct:131.27354935945743,28.755044089074875,50.037678975131875,27.021371992228367/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_kobayashi_ver01:data:sn83030272:00175044784:1882052101:0382/pct:32.81838733986436,7.188761022268719,12.509419743782969,6.755342998057092/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1106,7 +1106,7 @@ country, or a hint that such a thing would
 be advantageous to America.” Thomas Jef­  
 ferson wrote: “What, eastward of Ne
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:00415665738:1897112901:0262/pct:14.720742864946061,32.89366053169734,12.645090809777413,5.368098159509202/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:00415665738:1897112901:0262/pct:14.729846602030133,32.8970688479891,12.645090809777413,5.378323108384458/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

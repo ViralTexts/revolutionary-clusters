@@ -89,7 +89,7 @@ fovwent of a miebile state, and since clife can
 little more supply than just to look about us  
 and to die,&quot; so to live and conduct oursaly
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296217:1852022101:0244/pct:85.51682692307692,245.65240699045782,50.90144230769231,8.834566312855152/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296217:1852022101:0244/pct:21.382419233658904,61.413101747614455,12.727272727272727,2.208641578213788/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -106,7 +106,7 @@ To low ambition and the pride of kings:
 Let us (since life can little more supply  
 Than just to look about us, and to dic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_fluttershy_ver01:data:sn83016867:00295877923:1852051501:0307/pct:98.57621440536013,74.31592039800995,45.644891122278054,5.845771144278607/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_fluttershy_ver01:data:sn83016867:00295877923:1852051501:0307/pct:24.659543264194426,18.578980099502488,11.418395139325371,1.4614427860696517/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -233,7 +233,7 @@ an hour, so that I go a league, I make a
 point of religion of it.&quot; It seems almost in­  
 credible that he could have thought this 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_volvo_ver01:data:sn83030214:00175036945:1898120401:0085/pct:145.0664800559832,69.73684210526316,68.67273151387917,11.101028433151845/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_volvo_ver01:data:sn83030214:00175036945:1898120401:0085/pct:48.355493351994404,23.24561403508772,22.89091050462639,3.700342811050615/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

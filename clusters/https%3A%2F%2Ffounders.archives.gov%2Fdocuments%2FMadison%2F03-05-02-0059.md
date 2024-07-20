@@ -128,7 +128,7 @@ deem it necessary for her own honor and se­
 curity to maintain, she may separate herself  
 from the violence and injustice of the enemy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812061301:0544/pct:54.31973282996951,66.47999277391384,21.576883984318282,26.05004064673471/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812061301:0544/pct:54.31184668989547,66.47398843930635,21.57859078590786,26.050698458574182/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -211,7 +211,7 @@ Soon ns France rescinded absolutely and unrnnditi
 finally her decrees. Sue could u.&gt;t enter into any  
 Other engagement without the grossest injustice t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1812061501:1191/pct:6.385118149824033,12.608340147179067,23.40372046254399,15.45380212591987/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1812061501:1191/pct:6.383513445589344,12.606278613472858,23.404121638602664,15.4553629823414/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -236,7 +236,7 @@ ness ti! rescind her orders in council as soon as |
 trance rescinded absolutely and uncondition.illy hei j  
 decn-es. She could not enter into any other en
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1812061501:1191/pct:30.316742081447963,36.860179885527394,21.266968325791854,7.440719542109567/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1812061501:1191/pct:30.3091228951998,36.8541530412034,21.26790650917316,7.443590582079791/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -254,7 +254,7 @@ orders in council, namely, as soon as France re­
 scinded, absolutely and unconditionally, her .de­  
 crees, includes in its meaning, that the decree
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1812061501:1191/pct:52.18702865761689,6.034341782502044,20.789341377576672,2.6982829108748976/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1812061501:1191/pct:52.17391304347826,6.033355134074559,20.790399597888918,2.7019293655984304/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -293,7 +293,7 @@ solutely and unconditionally, her decrees.—
 She could not enter into any other engage­  
 ment without the grossest injustice t&gt;&lt; he
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812061501:0183/pct:73.64381650095936,40.28119507908612,16.431187859759287,13.54422964264792/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812061501:0183/pct:73.63097314265784,40.27647610121837,16.4341355656319,13.546547953764449/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -320,7 +320,7 @@ scinded absolutely and unconditionally her
 decrees. But c *uld not enter into any other  
 engagement without the grossest injustice t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812061501:0184/pct:44.175357963584936,33.081131416598765,16.757998939367155,7.065533698056106/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812061501:0184/pct:44.16755037115588,33.07728119180633,16.760928478850005,7.068590937306021/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -363,7 +363,7 @@ lutely and unconditionally her Decrees._
 She could not enter into any other engage­  
 nient without the grossest injustice to he
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812061601:0047/pct:59.9009900990099,11.642156862745098,35.955262192885954,85.2328431372549/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812061601:0047/pct:59.89000916590284,11.640730302658987,35.95478154598228,85.22648368255524/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -390,7 +390,7 @@ cil a; soon us Fiance rescinded absolutely \
 tnd unconditionally her decrees. She ,  
 could not enter i it &gt; any other engagemen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812061601:0048/pct:22.262378026743765,82.17283950617283,18.28695337911095,7.395061728395062/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812061601:0048/pct:22.2583559168925,82.1626959634613,18.289671785606746,7.3982635888573425/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -411,7 +411,7 @@ tenanced the idea that the repedot those
 ders could depend upon any p;:i tial or c»»n »  
 tional repeal of the decrees of France. •• 1
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812061801:0560/pct:76.65276950565813,89.86233931990154,22.617629541393686,5.050597137387182/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812061801:0560/pct:76.64135774899509,89.85414767547857,22.619224852364646,5.053175326648435/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -429,7 +429,7 @@ to rescind the orders in council, namely, as
 soon as France rescinded absolutely and un­  
 conditionally, her decrees, includes in it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812061801:0561/pct:2.3296194472579943,71.86339342331733,20.952105339314137,2.8444605489627683/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812061801:0561/pct:2.3292824074074074,71.85688405797102,20.953896604938272,2.8472222222222223/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -588,7 +588,7 @@ I, it responsible lor its own nusuccu* uu«m­
 For the difference made between Great-Bu­  
 j, dnd France, by the application of the non
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812062201:0573/pct:1.197080291970803,23.529411764705884,21.386861313868614,43.49678238013233/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812062201:0573/pct:1.196905561231937,23.527279318470182,21.38860506981949,43.49586127726421/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -632,7 +632,7 @@ holding to each in respect to itself, the same
 accommodation, in case it accepted the con­  
 dition offered, and in respect to the other, th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812062201:0193/pct:56.18816177746919,70.27918482742372,16.31661169935775,16.056072564495228/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812062201:0193/pct:56.17841027421034,70.27090694935218,16.319564965868334,16.058107577542206/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -657,7 +657,7 @@ ted bj those of another.
 Tor the dideretfeo made between Great-Britain  
 and Trance, by the a p&#x27;icntion of the non-importati
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812062301:0057/pct:24.110813226094727,53.900796080832826,16.979445933869528,5.339865278628292/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812062301:0057/pct:24.10650464617584,53.89419544452608,16.982368358351202,5.343293330067761/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -781,7 +781,7 @@ For the difference made between Great
 Britain and France, by the application of the  
 non-importation act against England only, th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812070801:0649/pct:6.350234893892758,2.561083308801884,69.0750040498947,94.1909528014915/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812070801:0649/pct:6.350234893892758,2.564354168710954,69.085803769102,94.18768194158244/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -810,7 +810,7 @@ absolutely and tncondition.ily . her
 Decrees. She could not enter inte  
 Asy Giher cngagement withaug: th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1812071401:0321/pct:76.98256254738438,55.4665083605422,16.633813495072026,10.418521816562778/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1812071401:0321/pct:76.98256254738438,55.46980640480195,16.64392216325499,10.421819860822533/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -837,7 +837,7 @@ to rescind her orders in council as
 soon as France rescinded absolutely  
 and unconditionaily her decrecs. Sh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1812072101:0326/pct:45.64125969876768,45.074597371801204,16.050509660733304,8.74419523762474/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1812072101:0326/pct:45.64125969876768,45.07789085399993,16.050509660733304,8.740901755426012/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1239,7 +1239,7 @@ energies of the people of United Ameri­
 ca.  
 &#x27;The public mind ought to be directed it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812080401:0103/pct:39.992573338284444,12.5244140625,54.715930189379876,84.08203125/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812080401:0103/pct:39.985149433822166,12.522885389967046,54.711960893509065,84.07583709670857/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1480,7 +1480,7 @@ of to the President of the United States, 6c
 to cause the same to be published in the  
 Democrat printed in Northampton.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812080401:0104/pct:6.572769953051643,3.8741802283215936,35.734922354640666,91.34078212290503/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812080401:0104/pct:6.5715833182885,3.8737097753491194,35.73448877655413,91.3337381096944/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2036,7 +2036,7 @@ rected to forward a copy thereof to the Pres­
 ident of the United States and cause the same  
 to be published.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812080601:0665/pct:2.5330571929265573,1.5461886941106953,93.2133184642345,95.40082726019303/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812080601:0665/pct:2.5330571929265573,1.5494714726544547,93.2292496415485,95.40082726019303/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2533,7 +2533,7 @@ ness to rescind her orders iti council as
 soon as 1 iance should absolutely and un­  
 conditionally rescind her decrees. Sit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024513:00414184121:1813062101:0009/pct:3.7275349456401154,71.08151617152056,21.56645218548924,9.015073906044197/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024513:00414184121:1813062101:0009/pct:3.7267080745341614,71.07111501316945,21.569062407571725,9.018632328553311/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2571,7 +2571,7 @@ absolutely and unconditionally her de­
 crees. She could not enter into any o­  
 ♦ her engagements without the grosses
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813071301:0375/pct:46.68297156832773,41.0911413192227,17.410577804952613,8.548490101268133/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813071301:0375/pct:46.67583677212288,41.08739281153074,17.41301136074176,8.550751079486712/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2597,7 +2597,7 @@ Conditional repeal of the decrees of l-rance. What she always avowed
 was her rcadinefs to refeind her orders in council, as foon as France res­  
 cinded absolutely and uncordltiosally her decrees. She could not enter int
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024513:00414184121:1813073001:0061/pct:34.58797327394209,30.49084249084249,29.33184855233853,8.27838827838828/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024513:00414184121:1813073001:0061/pct:34.58027165441995,30.486375622619395,29.332739553180435,8.28205879480418/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

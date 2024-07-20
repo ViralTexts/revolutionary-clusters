@@ -841,7 +841,7 @@ advantage of this?&quot;
 And this from Jean Panl:  
 &quot;Only the toughest, harshest barbarism of pas
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295729:1863101901:0386/pct:118.08066759388039,272.7464788732394,49.37413073713491,15.352112676056338/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295729:1863101901:0386/pct:29.523588733047408,68.18661971830986,12.344963486727716,3.8380281690140845/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -865,7 +865,7 @@ And this from Jean Panl:
   
 &quot;Only the toughest, harshest barbarism of past
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn82014306:00202191630:1863102601:0193/pct:26.293333333333333,27.667865707434053,16.32,4.996003197442047/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn82014306:00202191630:1863102601:0193/pct:19.725260069351826,20.753397282174262,12.243264870632169,3.7470023980815346/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -927,7 +927,7 @@ putes without sanguinary conflict.”
 Our fathers who, under the Su­  
 preme Ruler of the universe, gave u
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_celebi_ver01:data:sn84027329:00279528864:1871011901:0296/pct:45.43374245891408,29.404587603709125,9.39255252756397,5.31966813079551/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_celebi_ver01:data:sn84027329:00279528864:1871011901:0296/pct:45.44067679079121,29.410010303128896,9.399486859441092,5.316956781085625/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -972,7 +972,7 @@ of this? When will men be convinced,
 that even successful wars become at length  
 misfortunes to the victors themselves?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777031:1873082201:0559/pct:339.30839802399436,198.00750420494242,39.37896965419901,14.076853409237936/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777031:1873082201:0559/pct:84.82709950599859,49.501876051235605,9.844742413549753,3.519213352309484/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

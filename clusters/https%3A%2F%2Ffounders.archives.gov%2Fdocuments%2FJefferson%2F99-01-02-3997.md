@@ -65,7 +65,7 @@ Mr. Monroe in a Icttcr.addrcssed to Mr. Onis in |
 IHlfi, writes thus :  
 &quot; With respect to the western boundary of Louisiana
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661320:1843110301:0433/pct:50.17397355601948,14.282115869017632,16.457898399443284,5.856423173803527/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661320:1843110301:0433/pct:50.17397355601948,14.282115869017632,16.463697517977266,5.869017632241814/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -89,7 +89,7 @@ Mr. Monroe in a letter addressed to Mr. Onis in
 1816, writes thus:  
 11 W ith respect to the western boundary of Louisiana
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82015015:00415661319:1843110601:0192/pct:50.37856726849156,35.766961651917406,15.856144437973208,5.594184576485461/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82015015:00415661319:1843110601:0192/pct:50.38342069501068,35.7739851102683,15.856144437973208,5.594184576485461/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -152,7 +152,7 @@ of Louisiana, and more incontestably cov­
 ered and conveyed to us by France under  
 that name, than any other spot in the country.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82007022:00393342882:1845112601:0436/pct:63.20838514833896,10.73126847448914,13.288328299875644,4.909394679347128/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82007022:00393342882:1845112601:0436/pct:63.19715808170515,10.729889488563352,13.290408525754884,4.911976355692624/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -173,7 +173,7 @@ mate La Salte, u-.i? the cradle of Lou tiana and more hi.esiafdy
 eovrrsd and conveyed tons f&gt;y Prune* under  
 usrm\ than any other spot in the territory
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846051301:0510/pct:18.6046511627907,39.11088911088911,13.905702453010512,2.6223776223776225/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846051301:0510/pct:18.6046511627907,39.11505161505161,13.926940639269406,2.6265401265401267/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -231,7 +231,7 @@ note !,a Salle, utm the cradle of Louisiana, and more in- .
 inteslably covered and conveyed to us by France under  
 at name, than any other spot in the territory
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846053001:0569/pct:14.43070091975896,66.18345413646588,13.304789089755788,2.7743064233941515/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846053001:0569/pct:14.43070091975896,66.18761976172624,13.320647002854423,2.778472048654503/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -265,7 +265,7 @@ prospect is peace, our policy and purpose
 are to provide for defence by all the means  
 to which our resources are competent.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042982:1898030101:0784/pct:72.6568551510457,323.5989094213875,51.2006196746708,21.38745834595577/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042982:1898030101:0784/pct:18.164213787761426,80.89972735534687,12.8001549186677,5.346864586488943/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

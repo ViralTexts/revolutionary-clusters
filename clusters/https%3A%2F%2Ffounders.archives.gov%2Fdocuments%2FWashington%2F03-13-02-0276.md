@@ -62,7 +62,7 @@ provision that goes daily into Fhiladelphia (then ocen:
 pied by the British army) from the County of Eucks,  
 and mark that this was written in Jannary of tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_cobol_ver01:data:sn83030213:00206530777:1864071901:0557/pct:5.497613576100407,184.3352236925016,48.29414884214248,5.822306238185255/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_cobol_ver01:data:sn83030213:00206530777:1864071901:0557/pct:1.8325378587001355,61.44507456416719,16.098049614047493,1.9407687460617518/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -83,7 +83,7 @@ from the county of Bucks.&quot;
 Do officers, through personal jealousics or  
 a desire to shirk, now throw up their com
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009571:00279523908:1864091601:0363/pct:170.8656969354611,85.63575282500254,37.763027820929246,12.806678204214599/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009571:00279523908:1864091601:0363/pct:56.94719005930528,28.542345276872965,12.585898522074743,4.268458197611292/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -109,7 +109,7 @@ Do officers, through personal jealousies
 Or  
 desire to shirk, now throw up thei
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn85038443:00280776397:1864092001:0320/pct:10.38647342995169,199.0082644628099,51.690821256038646,25.00375657400451/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn85038443:00280776397:1864092001:0320/pct:2.5966183574879227,49.752066115702476,12.922705314009661,6.250939143501127/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -129,7 +129,7 @@ Colonel Stewart, &quot;I am amazed at the re­
 port you make of the quantity of provis­  
 ions that goes daily into Philadelphi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn86081096:00296028678:1864092801:0605/pct:76.72505712109673,28.14912861239797,14.226961157654227,3.871608206485771/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn86081096:00296028678:1864092801:0605/pct:76.73521198273673,28.156482094271638,14.226961157654227,3.8752849474226045/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -176,7 +176,7 @@ by the British army) from the County of
 Hnougipadt no tuitli  
 Iues.to tot
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn83035216:00280775162:1864111201:0360/pct:175.17006802721087,235.73403554970375,49.59183673469388,10.533245556287032/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn83035216:00280775162:1864111201:0360/pct:43.799965980608945,58.93350888742594,12.400068038782106,2.633311389071758/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

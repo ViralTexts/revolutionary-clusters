@@ -100,7 +100,7 @@ We will very soon have demonstrated to the world
 that a freeman contending for liberty upon his own  
 soll is superior to any slavish mercenary on earth. I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_junebug_ver01:data:sn84020047:00415661885:1861110801:0065/pct:166.9894366197183,306.19117062176855,55.193661971830984,4.295373193689514/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_junebug_ver01:data:sn84020047:00415661885:1861110801:0065/pct:41.76574196389256,76.54779265544214,13.80449141347424,1.0738432984223785/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -130,7 +130,7 @@ the finatical horde who have sought to invade our
 rights, to destroy our institutions and enslave a peo­  
 ple who dared to be free. It is no ordinary occasio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_junebug_ver01:data:sn84020047:00415661885:1861110801:0065/pct:166.90140845070422,310.11533872464537,56.25,21.582924565822616/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_junebug_ver01:data:sn84020047:00415661885:1861110801:0065/pct:41.743725231175695,77.52883468116134,14.068692206076618,5.395731141455654/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -147,7 +147,7 @@ great change thus ; for the most that lie had j A( be freemen or slaves : whethe
 done befom was to favor a bill for taxing and farir,s are to be pia d and destroyed,  
 whiskey. Not knowing what had been done, ; and themselves consigned to a state of wretch
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_black_ver02:data:sn84026561:00415667826:1862033101:0497/pct:11.793405114401077,52.942480328050536,49.31022880215343,2.7706971073922197/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_black_ver02:data:sn84026561:00415667826:1862033101:0497/pct:8.850748780077401,39.70963094314529,37.0015143866734,2.083564224758949/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -165,7 +165,7 @@ go far. as an ehort to fix upon .March 20th edness from which no human efforts w
   
 as mc une ior tnc aistination ol grain to. hver them. Our cruel and unrelenting ene
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_black_ver02:data:sn84026561:00415667826:1862033101:0497/pct:11.877523553162852,55.46935608999224,49.39434724091521,1.7399977834423141/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_black_ver02:data:sn84026561:00415667826:1862033101:0497/pct:8.918054854450615,41.604787764601575,37.05199394245331,1.3077690346891278/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -199,7 +199,7 @@ cenary on earth.&quot;
 Study well the directions given by Wash­  
 ington to his troops. He makes an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_black_ver02:data:sn84026561:00415667826:1862033101:0497/pct:37.36541049798116,61.49839299567771,24.444818304172273,13.620746979940153/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_black_ver02:data:sn84026561:00415667826:1862033101:0497/pct:28.032979976442874,46.12656544386568,18.340905266700318,10.218330932062507/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -390,7 +390,7 @@ ground is superior to any slavish mer­
 cenary on earth.&quot;  
 When the whole reenforcements ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_dunning_ver01:data:sn84022835:00237285050:1894061501:0851/pct:141.44951140065146,182.55797410726987,57.57328990228013,133.73168302745768/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_dunning_ver01:data:sn84022835:00237285050:1894061501:0851/pct:35.36957849725107,45.63949352681747,14.396253308898391,33.43292075686442/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

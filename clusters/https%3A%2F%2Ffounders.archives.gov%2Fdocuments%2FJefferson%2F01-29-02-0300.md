@@ -177,7 +177,7 @@ due to rorirfclfi and «;*e many of your fel
 lor/ citizens, bnt no one more than  
 A NATIVE AMERICAN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797051901:0002/pct:10.61491699789572,7.050528789659224,33.177460837035305,85.76674500587544/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797051901:0002/pct:10.63245265372925,7.061545240893067,33.19499649286883,85.75572855464159/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -202,7 +202,7 @@ How far we have deviated from that no­
 ble love of liberty by the standard here laid  
 down, viz. a departure from a republica
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797090201:0002/pct:59.29540585574863,7.8661844484629295,16.68650321352059,6.826401446654611/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797090201:0002/pct:59.29540585574863,7.8661844484629295,16.698405141632943,6.833936106088005/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -297,7 +297,7 @@ to on us substance, as they, hkveal­
 on ready given us the form of the.British gov­  
 :nt ernment,&amp;c.&#x27;&#x27; The only important chang
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798012701:0003/pct:39.92580570368653,47.99526557183015,18.108045444006493,6.0807811806480245/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798012701:0003/pct:39.92580570368653,48.002663115845536,18.13123116160445,6.0807811806480245/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -318,7 +318,7 @@ ment which carried us triumphantly through
 the dangers of war, an anglo-monarchico­  
 ariftocratio party has arisen.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800081401:0002/pct:59.80872976949485,31.392160025810615,16.969102501226093,3.9038554605581544/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800081401:0002/pct:59.80872976949485,31.400225842877884,16.99975478175576,3.9038554605581544/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -398,7 +398,7 @@ j depotism to the lempettuoiis bca of liber­
 iators, persons interested in the bank and I  
 1 PKtvlic iunds.’* s(cr. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184169:1802100901:0233/pct:38.95503820863693,16.823704438383338,17.07837213435223,23.568063476320358/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184169:1802100901:0233/pct:38.94811656005686,16.821618941366058,17.081260364842453,23.569273996942275/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -420,7 +420,7 @@ vowed objectis to imposc on us the substance,
 as they have already given us theform, of the  
 British government.&quot; By this &quot; form of the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216134:1811052201:0458/pct:30.164203612479476,45.46428919419273,20.935960591133004,5.446750462827633/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216134:1811052201:0458/pct:30.159251354457396,45.45985970381918,20.9379959503092,5.449467394128345/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -442,7 +442,7 @@ CarehtcaF-anstocratiral party bat risen up, whose
 they have already given us the form, -of the Biitisb  
 government,” By this “ form of the British gov
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811052401:0533/pct:8.38662075750123,35.62831006259027,21.17560255779636,5.504734392553362/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811052401:0533/pct:8.384558642734202,35.62259306803595,21.176542906319153,5.507862644415918/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -485,7 +485,7 @@ vowed object i3 to impose on us the sub­
 stance, as they have already given us the  
 erm, of the Britis h government.” B
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1811060701:0095/pct:2.3798303487276153,73.65312590031691,22.313854853911405,6.021319504465572/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1811060701:0095/pct:2.3792697290930507,73.64251764366988,22.314487632508833,6.024053003024629/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -507,7 +507,7 @@ cd object is to impose on us the substance,
 as they have already given us the form of  
 the British Government.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016082:00332895084:1814052301:0043/pct:20.489977728285076,57.389716212419216,17.493419720591213,6.237707221129531/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016082:00332895084:1814052301:0043/pct:20.48582995951417,57.38165472678747,17.49493927125506,6.240342744767523/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -544,7 +544,7 @@ the tempestuous sea of liberty; the British merchants and
 * Americans Mho trade on British capital, the speculators, persons  
 interested in the banks and public luods, u contrivanc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1853111501:0023/pct:17.516016307513105,67.21575310044494,18.47699475829936,5.623402442487929/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1853111501:0023/pct:17.516016307513105,67.21575310044494,18.486701611337605,5.626558111647575/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -573,7 +573,7 @@ pestuous sea of liberty ; the British merchants and
 Americans who trade on British capital, the specula­  
 tors, persons interested in the banks and pubic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:0029602272A:1853111901:0375/pct:48.97218863361548,87.38211770323505,20.042321644498188,10.36170466754208/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:0029602272A:1853111901:0375/pct:36.734693877551024,65.53658827742629,15.041572184429327,7.7712785006565595/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

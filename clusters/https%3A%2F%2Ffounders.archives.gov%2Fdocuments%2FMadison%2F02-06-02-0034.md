@@ -40,7 +40,7 @@ the United Statesand the French ltepubric.
   
 Representatifves of the United State: of &#x27;Amen&#x27;m
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216018:1803102901:0277/pct:48.42214944924085,59.39553219448094,22.462042274486453,6.7805519053876475/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216018:1803102901:0277/pct:48.41494269980652,59.39032936229853,22.463660266904796,6.782877832282177/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -62,7 +62,7 @@ ot Paris, on the thi- ;ieth of April I
 last ; and for the temporary govevn* \
 ment the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803103101:0003/pct:8.384572386808273,52.82475259927346,15.576672256381592,5.085807340598772/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803103101:0003/pct:8.390783181168871,52.82892813896196,15.58288305074219,5.089982880287277/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -93,7 +93,7 @@ ment of which has been -(Turned by the
 nt of the United Stnte*, by vir­  
 tue of the Convention with the Frenc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803103101:0003/pct:40.13415315818893,48.352749592884884,15.893422768772126,11.499436302142051/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803103101:0003/pct:40.14036395254953,48.352749592884884,15.905844357493324,11.516138460896071/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -114,7 +114,7 @@ State-s by the treaty concluded at Paris, on the
 vernment thereof.&quot;  
 Mr. ]ulm C. Smitlrsi in the&quot; chair
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216018:1803103101:0280/pct:75.76296296296296,48.22144725370532,21.822222222222223,5.091543156059285/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216018:1803103101:0280/pct:75.75174048289142,48.21724348356726,21.82392731940947,5.094005172463895/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -165,7 +165,7 @@ into eft, t the Convention op the hir­
 teent/i of 1803, between the.  
 United States of America and th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803111801:0001/pct:60.339880821010816,82.57544152412738,18.62723460604723,5.034070365734946/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803111801:0001/pct:60.339880821010816,82.58471237194641,18.62723460604723,5.034070365734946/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -206,7 +206,7 @@ States by the treaty concluded at Pa­
 ris, on the 3oth of April last ; and for  
 the temporary government thereof.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1803112201:0392/pct:42.04527712724434,39.20302096790222,16.065573770491802,4.74013713604293/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1803112201:0392/pct:42.04527712724434,39.20302096790222,16.075982305490502,4.74013713604293/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -294,7 +294,7 @@ the latter nature. The President gave
 instructions for and with our consent ra­  
 tified the treat}’—-We have given him th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1804010601:0195/pct:47.85928551949823,74.3193395397857,19.798200163621487,15.79132267697172/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1804010601:0195/pct:47.846237731733915,74.30628731998596,19.799618320610687,15.792939936775554/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -323,7 +323,7 @@ thomfand ‘eight bundred and three, be­
 &quot; tween the United States amd the  
 Erench Republic. s 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804013101:0431/pct:41.24293785310734,20.700350175087543,17.074701820464533,11.84592296148074/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804013101:0431/pct:41.24816907302783,20.703685175921294,17.07993304038502,11.849257962314491/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -383,7 +383,7 @@ one thoufand ei?ht hundred and three, j
 between the United States and the j  
 French Republic. Approved &#x27;.o&#x27;.:
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804033001:0002/pct:1.6640781007321943,4.6750754044420075,19.081428888395827,11.43405538799013/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804033001:0002/pct:1.678869906072036,4.684215336806508,19.081428888395827,11.424915455625628/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -405,7 +405,7 @@ and for tlie temporary government there­
 of,&quot; fhall continue in foice until the firft  
 day of Oftober ne.:t, anything, then
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804033001:0003/pct:21.12269802529399,23.29311763092953,18.526736188151762,5.675897998354812/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804033001:0003/pct:21.13748983063383,23.297687597111782,18.526736188151762,5.675897998354812/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -444,7 +444,7 @@ thirtieth April, one thousand tight hun­
 dred and three, between the United States  
 and the l&#x27;t&#x27;cncli Republic. Approved lot
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804040701:0081/pct:78.8111217641419,20.015760441292358,18.29338446788111,10.12608353033885/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804040701:0081/pct:78.79601226993866,20.01313197636244,18.29626789366053,10.129131100897352/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -470,7 +470,7 @@ vember, 1803.
 4. Making an appropriation, lor carry­  
 ing into tdi&#x27;eck the sCY-.nih article ol th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804040701:0081/pct:78.98370086289549,30.75912792224849,18.005752636625118,7.998423955870765/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804040701:0081/pct:78.96855828220859,30.755088640840448,18.00869120654397,8.00175093018166/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -492,7 +492,7 @@ last, and for the temporary government
 ‘thereof,” {hall continue in force until the  
 ﬁzﬂ day of O&amp;tober next, any thing therci
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804070301:0520/pct:7.6923076923076925,34.7567981616239,16.84981684981685,4.576790501723478/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804070301:0520/pct:7.697616393268567,34.7567981616239,16.855125550777725,4.583173752074557/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -514,7 +514,7 @@ of April, 1803, between the United States and
 the French Republic.  
 The bill provides that the balance of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1805121901:0265/pct:59.25579655946148,68.2521562658549,17.68885564697083,4.553526128868595/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1805121901:0265/pct:59.244718638997945,68.24350031705771,17.691780395089424,4.557176072711901/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -533,7 +533,7 @@ on the government of France, the payment of
 which has been assumed by the United States,  
 by virtue *f. the convent®** of the 30th or April&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805122001:0442/pct:40.702087286527515,47.737909516380654,17.419354838709676,2.8081123244929795/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805122001:0442/pct:40.69436539556062,47.731704146626804,17.422373996079177,2.8120802461111833/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -569,7 +569,7 @@ republic.&quot;
 in Long Island sound, an I to declare  
 Roxbury, in the state of Massachusetts
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806042301:0002/pct:59.72161809482384,33.76569615013109,18.61678990865594,7.658341382641093/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806042301:0002/pct:59.728867623604465,33.770295754565105,18.638538494997825,7.66754059150913/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -591,7 +591,7 @@ States, by virtue of the convention of
 the 3oth of April, 1803, between  
 the United: States and the French
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1806042401:0737/pct:54.311478489573545,21.640385973170158,20.214164944580123,6.8369028006589785/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1806042401:0737/pct:54.31774062245601,21.644308464736802,20.207902811697664,6.840825292225622/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -613,7 +613,7 @@ April, one thousand eight hundred ar.d
 three, between the United States and the  
 French republic.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806042501:0146/pct:58.60102642083254,22.336725492721886,17.392130773617183,5.152647172484864/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806042501:0146/pct:58.58988977575066,22.333848531684698,17.395160268592424,5.156276833247467/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -648,7 +648,7 @@ ted States and the French republic.”
 3. An aft to provide for light-houfes in Long­  
 Ifland lound, and to declare Roxbury, in the ftjte o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1806042901:0443/pct:4.694835680751174,16.83927886459532,18.366197183098592,12.837233090397648/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1806042901:0443/pct:4.693954187007135,16.837126054717462,18.36900738515459,12.839853404926277/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -684,7 +684,7 @@ and the I&#x27;rench Republic.” |
 ses in Long-Island found, and to de­  
 clare Roxbury, in the State of Maf
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1806051301:0285/pct:61.46568313021167,35.74404761904762,16.869788325849903,8.125/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1806051301:0285/pct:61.46568313021167,35.74404761904762,16.875133632670515,8.128306878306878/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -704,7 +704,7 @@ States, by the treaty concluded at Paris, on the thir­
 tieth of April laft, and for the temporary govern­  
 ment thereof.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1806052701:0024/pct:58.70086731869348,81.74652050745166,17.62317770806422,3.1284640965636163/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1806052701:0024/pct:58.690036900369,81.73645320197045,17.62607626076261,3.132183908045977/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -796,7 +796,7 @@ by France to the United States, by the treaty !
 concluded at 1&#x27;aris, on the thirtieth of April last,  
 and fur the temporary government theieof M ’ 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806062801:0218/pct:58.90259620696004,62.74584443598528,17.197569508377832,3.349828701941378/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806062801:0218/pct:58.891752577319586,62.737883785841156,17.20054000981836,3.353632749725112/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -833,7 +833,7 @@ of the United States, by virtue of the convention of
 the thirtieth of April, one thoufand eight hundred &amp;  
 three
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1806072201:0088/pct:59.73166697298291,22.29174334437492,17.368130858298105,6.796712059869955/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1806072201:0088/pct:59.72069092245498,22.28900883218842,17.371064559598185,6.799967288191037/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -931,7 +931,7 @@ sand dollars. So that the entire cost of the
 Louisiana purchase to the government of the  
 United States was fifteen millions of dollars
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00415667292:1856031501:0247/pct:86.01388888888889,11.101173840134154,20.083333333333332,19.094466182224707/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00415667292:1856031501:0247/pct:64.52285039588831,8.328675237562884,15.07153771357133,14.32084963666853/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

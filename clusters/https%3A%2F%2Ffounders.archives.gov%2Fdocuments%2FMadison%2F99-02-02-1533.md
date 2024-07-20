@@ -105,7 +105,7 @@ wright.
 Political Econemy.—Definitions in Political  
 Economy; preceded by an Inquiry into th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1829040701:0055/pct:41.303030303030305,32.53759596172048,16.21212121212121,2.5870228204858554/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1829040701:0055/pct:41.303030303030305,32.54110141269674,16.22222222222222,2.5870228204858554/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -141,7 +141,7 @@ wright. ;
 Political Economy.—Definiticns in Political  
 Economy; preceded by an Inquiry into th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1829041401:0060/pct:24.687108886107634,58.4935558842172,16.786608260325405,2.567082188886541/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1829041401:0060/pct:24.687108886107634,58.4935558842172,16.79703796412182,2.5776463131206424/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -201,7 +201,7 @@ wright. :
 Political Economy.—Definitions in Political  
 Economy; preceded by an Inquiry into th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1829042101:0064/pct:42.42996537614101,59.49326831336796,16.981429021089077,2.724477896745468/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1829042101:0064/pct:42.42996537614101,59.50033570090816,17.00241317805057,2.72094420297537/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

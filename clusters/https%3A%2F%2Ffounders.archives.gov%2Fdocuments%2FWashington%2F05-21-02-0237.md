@@ -115,7 +115,7 @@ lures, could not but be aftxious to have this fully and
 frankly dilplayed.  
 Go: WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797012001:0003/pct:46.8937875751503,54.99357739242132,19.839679358717436,20.24727039177906/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797012001:0003/pct:46.8937875751503,54.997591522158,19.852204408817634,20.25529865125241/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -132,7 +132,7 @@ Go: WASHINGTON
 of the truth to juftify its raeafure3, could not but  
 be anxious to have this, fully and frankly displayed.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797012601:0003/pct:26.891791964505792,78.24836183474508,19.349272861720483,2.0137446060412336/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797012601:0003/pct:26.897954153315258,78.26034840978105,19.361597239339414,2.001758031005274/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -184,7 +184,7 @@ to jtifrify its mea lures, could not but be anxious to
 have this fully and frankly difplaved.  
 &#x27; G. WASHING TON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_zarley_ver01:data:sn84038410:01000424529:1797012601:0206/pct:71.1923076923077,57.51555768310196,25.846153846153847,27.78841550981331/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_zarley_ver01:data:sn84038410:01000424529:1797012601:0206/pct:71.16493656286043,57.501794687724335,25.845828527489427,27.7877482651352/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -201,7 +201,7 @@ have this fully and frankly difplaved.
 of the truth tojufnty its mealores, could not but be  
 anxious to have this luiiy and frankly difplaycd,&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_zarley_ver01:data:sn84038410:01000424529:1797020201:0211/pct:3.9607843137254903,11.357671200190886,26.03921568627451,2.2429014554998807/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_zarley_ver01:data:sn84038410:01000424529:1797020201:0211/pct:3.959231673853391,11.354961832061068,26.038808310466482,2.248330152671756/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -569,7 +569,7 @@ have this fully and frankly difplayed.
 &quot; not but be anxious to have this fully and frankly  
 &quot; displayed.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797051901:0002/pct:44.37689969604863,59.2978848413631,15.875613747954173,1.9388954171562867/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797051901:0002/pct:44.37689969604863,59.2978848413631,15.904839841010054,1.9425675675675675/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -587,7 +587,7 @@ have this fully and frankly difplayed.
 &quot; not but he anxious to have this fully and frankly  
 * difplaycd.&quot; &#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797052001:0002/pct:11.500470366886171,15.854200622314417,15.992474129821261,1.9262112905615647/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797052001:0002/pct:11.500470366886171,15.854200622314417,15.9983537158984,1.9262112905615647/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

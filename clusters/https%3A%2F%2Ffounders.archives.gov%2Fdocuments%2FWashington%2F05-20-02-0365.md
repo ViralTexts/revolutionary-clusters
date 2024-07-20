@@ -51,7 +51,7 @@ Given under my hand and seal this
 13th day of August, 1796.  
 Geo. Washington&quot; (Seal)
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_archives_ver01:data:sn85033413:00212472001:1877042201:1082/pct:127.71168649405179,321.68550873586844,48.98530440867739,19.98972250770812/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_archives_ver01:data:sn85033413:00212472001:1877042201:1082/pct:31.93350831146107,80.42137718396711,12.248468941382328,4.99743062692703/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -102,7 +102,7 @@ Given under my nand and seal
 this 13th day of Ang 1796.  
 Go. WASHiNGTON.&quot; SEAL
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn87076794:00280775149:1877042601:0218/pct:233.37078651685394,278.7812840043526,35.39325842696629,17.19260065288357/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn87076794:00280775149:1877042601:0218/pct:58.36728958830968,69.69532100108815,8.852044400730644,4.2981501632208925/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -127,7 +127,7 @@ Given under uiy hand and seal this
 . 13th day ot August 179G.  
 Go. Washington.&quot; seal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_felice_ver01:data:sn87052128:00200292182:1877042701:0546/pct:31.152790484903935,64.831616177149,23.215919487648673,8.53452252806397/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_felice_ver01:data:sn87052128:00200292182:1877042701:0546/pct:23.392080567635613,48.623712132861755,17.418173495078964,6.412425034599416/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -151,7 +151,7 @@ Given under my hand and seal this 13th
 dav of August. 17U6.  
 Go. Washington, seal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_norgay_ver01:data:sn84028194:00296029002:1877042801:0108/pct:75.1279135872655,111.3699123544243,13.075611142694713,4.502341217433065/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_norgay_ver01:data:sn84028194:00296029002:1877042801:0108/pct:56.377079482439925,83.52743426581823,9.81089151144604,3.385760595509665/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -192,7 +192,7 @@ Robert Lewis and to his heirs or assigns for­
 day of August, 1796.  
 GO. WASHingToN. ISeAL
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_abraham_ver02:data:sn84023963:00200295936:1877050401:0148/pct:281.81063122923587,118.12669332989292,67.19269102990033,59.19236227583538/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_abraham_ver02:data:sn84023963:00200295936:1877050401:0148/pct:70.49657178474963,29.53167333247323,16.80864325784334,14.798090568958845/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -214,7 +214,7 @@ County of Fauquier, unto my Nephew Robert
 Lewis and to his heirs or arMgns forever.  
 Given under my hand and seal this 13th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn87076843:00280775733:1877050401:0482/pct:109.52779638312123,96.08244782998335,14.551239115874079,3.917552170016643/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn87076843:00280775733:1877050401:0482/pct:82.19132182945216,72.0650364870055,10.923102697269224,2.9445653565484573/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -239,7 +239,7 @@ Given uudcr my hand aud seal this 131b
 day or August, WM.  
 Gr.o. Washington.&quot; scal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_eden_ver01:data:sn98060050:00280777389:1877050401:0776/pct:81.76888556469709,73.38865017039561,14.603590127150337,5.645280782338125/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_eden_ver01:data:sn98060050:00280777389:1877050401:0776/pct:61.36576239476146,55.04519188027856,10.963517305893358,4.237664839235443/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -280,7 +280,7 @@ Given under my hand aad seal this
 13ih day of Augurt, 1796.  
 Geo. Washington Sea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033673:00280779453:1877050801:0435/pct:75.65566835871404,3.8193476442709784,35.42724196277496,125.59241706161137/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033673:00280779453:1877050801:0435/pct:56.783068783068785,2.8714803456927793,26.603174603174605,94.18734318371898/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -306,7 +306,7 @@ day of imgtmt, 1798.
   
 Go. WASHHTOTOH.&quot; TSBAL.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_allemande_ver01:data:sn85025570:00199919933:1877051001:0075/pct:43.564069075605865,72.7927117309639,12.204324481207372,5.2974918456866495/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_allemande_ver01:data:sn85025570:00199919933:1877051001:0075/pct:38.12748666723102,63.69451825607716,10.68737831202912,4.638651051405701/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -348,7 +348,7 @@ Given under my hand and seal this 13th
 day of August, 1706.  
 Go. Washington, [seal.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_igglybuff_ver01:data:sn84023017:00414213005:1877051701:0460/pct:70.08547008547009,73.94209354120267,12.630579297245964,12.95935412026726/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_igglybuff_ver01:data:sn84023017:00414213005:1877051701:0460/pct:70.07216103304216,73.93180236604036,12.632928218761869,12.961029923451635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -374,7 +374,7 @@ Given under my hand and seal this
 13th day of August, 1796.  
 Go. WAsHINGTON.&quot; SEAL
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_dunning_ver01:data:sn84022835:00237285001:1877051701:0533/pct:109.21985815602837,174.65192465192465,47.13584288052373,26.945126945126944/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_dunning_ver01:data:sn84022835:00237285001:1877051701:0533/pct:27.312414733969987,43.66298116298116,11.787175989085949,6.736281736281736/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -399,7 +399,7 @@ Given under my hand and seal this
 13th day of August, 1796.  
 Go. Washington.” [seal.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349530:1877051801:0080/pct:72.16216216216216,43.538015382675574,10.858505564387917,5.636111461354179/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349530:1877051801:0080/pct:72.15069146399618,43.53252647503782,10.860753457319982,5.638552697932425/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -425,7 +425,7 @@ Given under my hand and seal this
 13th day of August, 1796.  
 GEO. WAsHiNGTON.&quot; SEAL
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777833:1877051801:0499/pct:292.3301680058437,161.98673627769153,44.19284149013879,21.221955693523352/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777833:1877051801:0499/pct:73.0958904109589,40.496684069422884,11.050228310502282,5.305488923380838/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -449,7 +449,7 @@ I^wisandtohie heirs or estugim fesever
 Given under my band and seel ^  
 13th day or Auguirt, 1700
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187158:1877051801:0438/pct:70.59428865448932,76.89619732785201,12.979161306920505,5.477903391572457/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187158:1877051801:0438/pct:70.58520900321544,76.88829513924571,12.981779206859592,5.480765937039702/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -475,7 +475,7 @@ Given under my hand and seal this
 13th day of August, 171)0.  
 Geo. WAsifixyxoN.&quot; seal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jordan_ver01:data:sn90069164:00280776828:1877052201:0177/pct:32.77777777777778,53.40666557215564,22.550505050505052,8.717780331636842/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jordan_ver01:data:sn90069164:00280776828:1877052201:0177/pct:24.614607025524386,40.05910359546873,16.932019206469548,6.550648497783615/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -571,7 +571,7 @@ Hoben te siuuier, unte my nephew
 sigus forever.  
 Given my hand and seal this 13t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dorothea_ver01:data:sn86063984:00200292819:1877061301:1660/pct:243.27603640040445,223.48754448398577,133.56926188068758,23.792577529232332/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dorothea_ver01:data:sn86063984:00200292819:1877061301:1660/pct:60.86516569693903,55.87188612099644,33.41765747533519,5.948144382308083/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

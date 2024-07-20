@@ -82,7 +82,7 @@ as the a&amp;ive vigour an@d strenuous efforts of
 the refpe@®ive provinces shall justly appear  
 to mierit. A o 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025581:00517015052:1759071301:0384/pct:66.0958904109589,24.70505617977528,27.78253424657534,7.191011235955056/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025581:00517015052:1759071301:0384/pct:66.10302511415524,24.70505617977528,27.775399543378995,7.191011235955056/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -310,7 +310,7 @@ War being declared against them by the Spaniards :
 That they were in great Confufion there and prefing  
 every Body into the Service, able to carry a Muske
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025581:00517015052:1762060401:0842/pct:36.22100954979536,61.61660777385159,28.171896316507503,23.512956419316843/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025581:00517015052:1762060401:0842/pct:36.23616795513112,61.62642324303102,28.179475519175384,23.512956419316843/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -510,7 +510,7 @@ as unworthy the name of Englifhimen,and fit onl
 to be {nubb’d, curb’d, shackled and plundered.-  
 P. S.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015064:1767060501:0805/pct:35.734743335536464,4.19336051252184,58.31680987001542,90.15725101921957/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015064:1767060501:0805/pct:35.734743335536464,4.198213939040963,58.32415363149005,90.15725101921957/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

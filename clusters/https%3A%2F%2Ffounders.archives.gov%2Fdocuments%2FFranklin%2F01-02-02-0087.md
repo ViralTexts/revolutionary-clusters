@@ -662,7 +662,7 @@ To be had in exchange for my Joan.
 She could not be a better, she might be a worse,  
 So I’d e’en be content with my own
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_dyerbrook_ver01:data:sn82014248:00332895904:1874041101:0661/pct:32.942926194459936,41.26151665485471,13.143707008737683,13.437278525868178/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_dyerbrook_ver01:data:sn82014248:00332895904:1874041101:0661/pct:32.9368029739777,41.25566893424036,13.145910780669144,13.43891723356009/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -698,7 +698,7 @@ Her compassionate breast feels for all the dis­
 tressed,  
 Which draws down new blessings from Heaven
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_baxter_ver01:data:sn83009653:00279524032:1874061601:0315/pct:51.83673469387755,47.830632514375324,39.01738473167045,33.25666492420282/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_baxter_ver01:data:sn83009653:00279524032:1874061601:0315/pct:17.276299879081016,15.941877482751412,13.003829101168883,11.084396125165517/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

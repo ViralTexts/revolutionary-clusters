@@ -55,7 +55,7 @@ Pedefial, viz. |
 ¢ CHRIST ===, and in the Yecar of oOuE  
 “ Commonwealth e s ” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1784090401:0570/pct:35.849353923731485,2.609478104379124,59.40750078789789,92.63147370525895/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1784090401:0570/pct:35.8598592289106,2.6128107711790975,59.40750078789789,92.62814103845898/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -75,7 +75,7 @@ liberties of bis country, lias rendered his name
 dtarto his fellow-citizens, and given the world  
 an example of I’llUK Glory”—of hi ii, wIr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1822022301:0379/pct:63.65360303413401,64.78624425862678,14.664981036662452,3.262277705806148/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1822022301:0379/pct:63.64354558382051,64.7786151672162,14.667930689419077,3.2658188098602605/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -94,7 +94,7 @@ given the world an immortal example ol true
 glory.&quot; (Drunk standing, and in silence.)  
 ?. The Constitution: Liberty&#x27;s ark of safety
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664291:1847071601:0464/pct:58.72031462713659,65.83253128007699,13.613674179397973,2.2906641000962464/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664291:1847071601:0464/pct:58.72031462713659,65.83894770612768,13.618716280945899,2.2938723131215912/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -130,7 +130,7 @@ sand seven hundred and uighty-eifrlit, and f
 owns, in the year of the Commonwealth the twelfth. j  
 rum&#x27; (This inscription is understood to have been written by 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661150:1847081101:0774/pct:14.587271581600504,50.18582755203172,18.4940138626339,8.857779980178394/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661150:1847081101:0774/pct:14.587271581600504,50.18582755203172,18.509766855702583,8.861909481334655/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -151,7 +151,7 @@ liberties of his country, has rendere d his name dear
 to bis fellow sitlaans, and given the vorid an in  
 example of true glory.&quot;CRYsTal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:0027174304A:1851100701:0545/pct:98.27614513216221,11.381001254418976,53.127565260219995,8.347588094423537/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:0027174304A:1851100701:0545/pct:32.75871504405407,3.793667084806325,17.709188420073332,2.782529364807846/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -202,7 +202,7 @@ world an immortal example of true glory.&quot;
 &quot;Done In the year of Christ, 17H8, and in the  
 year of the Commonwealth tbo 12th.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_ewing_ver01:data:sn83025925:00280776166:1864070901:0032/pct:26.997146932952923,66.35514018691589,16.387303851640514,7.378992886037104/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_ewing_ver01:data:sn83025925:00280776166:1864070901:0032/pct:20.267618198037468,49.76984237690054,12.292595896520963,5.5377319012414565/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -233,7 +233,7 @@ Done in the year of Christ 178N, and in the
 year ot the Commonwealth the 12th.  
 We hope, if the above should prove true
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dior_ver01:data:sn85025007:00415663560:1864071901:0681/pct:1.0786306080975456,12.177936691555368,28.16945443176489,17.751603743821644/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dior_ver01:data:sn85025007:00415663560:1864071901:0681/pct:1.089052159866604,12.181442142531637,28.16945443176489,17.75510919479791/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -268,7 +268,7 @@ ample of true glory. Done in the year
 of Christ, 1788, and in the year of the  
 Commonwealth the 12th.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn87076793:00280775101:1864072101:0538/pct:241.8429003021148,338.8113397611167,45.090634441087616,35.803712764426535/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn87076793:00280775101:1864072101:0538/pct:60.49499338749292,84.70283494027917,11.279047798979784,8.950928191106634/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -303,7 +303,7 @@ and in the year of the commonwealth the
 o o e e e e a  
 aeee eeeoe eeeeee oeeo o e   oe o a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296242:1864080501:0549/pct:283.46041055718473,243.87868952226393,52.49266862170088,14.15965108023126/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296242:1864080501:0549/pct:70.88589029040774,60.96967238056598,13.127016720445878,3.539912770057815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -371,7 +371,7 @@ ple of true Glory.’ ”
 The President and all the members of  
 the Cabinet with the exception ot Secre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_hagerstown_ver01:data:sn88065721:00279521377:1899121401:0424/pct:55.5168986083499,53.76445598300685,13.088137839628894,9.877271654472505/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_hagerstown_ver01:data:sn88065721:00279521377:1899121401:0424/pct:55.52242102937928,53.76445598300685,13.093660260658272,9.885138856108883/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

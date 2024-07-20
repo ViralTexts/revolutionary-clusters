@@ -18,7 +18,7 @@
 
 ---
 
-## [From _The American review : a Whig journal of politics, literature, art, and science_](https://archive.org/details/sim_american-whig-review_1849-07_10_19/page/n19/mode/1up?view=theater)
+## [From _The American Review: a Whig Journal Devoted to Politics and Literature (1848-1850)_](https://archive.org/details/sim_american-whig-review_1849-07_10_19/page/n19/mode/1up?view=theater)
 
 #### 1849-07-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -72,7 +72,7 @@ died in neglected poverty. He tad done the
 country some service by those pungent songs  
 which he poured into the camps of the enemy wit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530303:1850020501:0359/pct:45.92473979183347,196.74949947002708,42.2257806244996,32.42256506889648/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530303:1850020501:0359/pct:15.308246597277822,65.58316649000903,14.075260208166533,10.807521689632159/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -191,7 +191,7 @@ this commest: &quot;I took his intention to be that I
 should interpose ih some way with Freneau, per  
 haps witediey his eppointment of translatin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:0039334801A:1860022101:0673/pct:14.587485053806297,181.9700460829493,58.60900757273814,6.811635944700461/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:0039334801A:1860022101:0673/pct:3.646144650328751,45.48596112311015,14.649332536361825,1.7026637868970482/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -239,7 +239,7 @@ Washington alone kept the Republicans from
 opposing.  
 o show the animus of the two parties a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_omahoney_ver01:data:sn83026413:0021247549A:1879072401:0442/pct:13.360091743119266,196.53141361256544,46.961009174311926,31.099476439790575/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_omahoney_ver01:data:sn83026413:0021247549A:1879072401:0442/pct:4.453363914373089,65.51047120418848,15.653669724770642,10.366492146596858/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -356,7 +356,7 @@ opposition to the adoption of the Constitution.
 In one of his speeches before the Virginia Con­  
 vention he said: &quot;What security have we i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043032:1898112001:0256/pct:282.5920245398773,194.78680126563205,51.30368098159509,33.087238210034656/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043032:1898112001:0256/pct:70.66155321188879,48.69670031640801,12.828379674017258,8.271809552508664/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

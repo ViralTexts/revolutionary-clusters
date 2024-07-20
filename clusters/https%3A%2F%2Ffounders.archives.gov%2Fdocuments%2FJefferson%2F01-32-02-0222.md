@@ -91,7 +91,7 @@ jf Maryland, anJ Linn of New Jersey will
 i ne preceding extract snows tbal x&gt;ir.  
 Jefferson entertained no doubt &quot;that ther
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183670:1837112301:0262/pct:22.37829209896249,38.822941396976134,15.06783719074222,17.89329001624391/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183670:1837112301:0262/pct:22.374720714969676,38.81809095452274,15.070752207681668,17.895219057138096/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -164,7 +164,7 @@ The result of the electorial vote wa
 as Mr. jeneron anticipated, seventy­  
 three republican and sixty.five federal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85026142:00296026827:1837120201:0190/pct:106.5523306948109,40.17857142857143,19.591029023746703,21.06186224489796/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85026142:00296026827:1837120201:0190/pct:79.96040475142983,30.133928571428573,14.694236691597009,15.800382653061224/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -184,7 +184,7 @@ ia enable me to write confidentially what I would
 ; not have ventured by the ki at thia prying aea­  
 . Mm. The ele. tion in S iutli Carolina haa in auuie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667693:1837120801:0481/pct:74.658203125,44.79227618490345,24.6337890625,3.437682855471036/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667693:1837120801:0481/pct:56.01953601953602,33.60152135751902,18.485958485958484,2.574605032182563/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -220,7 +220,7 @@ a new character:
 On the 26th he days again te Mr. Madisen  
 ©The Federalists appear determined t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1840070101:1302/pct:6.7328519855595665,66.31744368779465,14.657039711191336,6.141959140911472/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1840070101:1302/pct:6.738868832731649,66.32617426226646,14.663056558363417,6.141959140911472/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -238,7 +238,7 @@ declare they will prevent an election and
 will name a President of the Senate pro  
 tern. ” It was feared by Hamilton, Madi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_engledinger_ver02:data:sn85033123:0051415126A:1878062001:0639/pct:34.05564098979449,81.44822874987801,14.022088634139521,2.2445593832341175/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_engledinger_ver02:data:sn85033123:0051415126A:1878062001:0639/pct:34.06030103919102,81.4514817344914,14.026748683536045,2.2445593832341175/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

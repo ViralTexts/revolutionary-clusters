@@ -486,7 +486,7 @@ wounded some others, three deer, Ac.&#x27;
 This country abounds in buffaloes and  
 wild game of all kinds.&quot; Uottorn nex
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_deforest_ver02:data:sn84026847:0041566509A:1869112301:0496/pct:3.3368247792907377,64.64604952224391,12.254975310489302,2.763793280591801/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_deforest_ver02:data:sn84026847:0041566509A:1869112301:0496/pct:3.3368247792907377,64.65289907188603,12.25996309042845,2.763793280591801/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -508,7 +508,7 @@ t.on of the rivers, aud at the mouth of
 a branch on the east side, I marked two  
 maples, an elm and hop wood tree as 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_deforest_ver02:data:sn84026847:0041566509A:1869112301:0496/pct:3.157264701481371,68.99208877016336,12.449498728116115,3.565190588718792/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_deforest_ver02:data:sn84026847:0041566509A:1869112301:0496/pct:3.1672402613596686,68.99893831980548,12.459474287994414,3.565190588718792/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -532,7 +532,7 @@ thousand acres.&quot;
 &quot;November 6th, made only about five  
 m&#x27;les, wheu Washington again came t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_deforest_ver02:data:sn84026847:0041566509A:1869112301:0496/pct:3.21711806075116,78.73214836124525,12.434535388298668,4.592623035035446/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_deforest_ver02:data:sn84026847:0041566509A:1869112301:0496/pct:3.222105840690309,78.73557313606631,12.434535388298668,4.596047809856502/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -558,7 +558,7 @@ rouud, lacking two inches.&quot;
 November Oth, with Captain Crawford,  
 Washington &quot;walked acrosss the neek o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn84026840:00202192488:1869120601:0230/pct:20.22279348757498,53.524345227632274,15.966866609540132,7.277201617155915/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn84026840:00202192488:1869120601:0230/pct:20.22279348757498,53.52873967305326,15.966866609540132,7.285990507997891/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

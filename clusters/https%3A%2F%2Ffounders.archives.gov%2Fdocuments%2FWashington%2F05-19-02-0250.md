@@ -303,7 +303,7 @@ these be perpetual ! and may the friend­
 rate with their existence.  
 GEO : WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796012301:0014/pct:25.913206369029034,7.362996729759192,32.64127380580705,85.25418689921712/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796012301:0014/pct:25.913206369029034,7.366300003303274,32.646477260901236,85.25749017276121/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -742,7 +742,7 @@ Wonderfal Pecople ! ages to come waﬁ read
 . with aftonithment the hiftory of yoar bril­  
 liant exploits 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1801101001:0006/pct:46.46760343481655,24.052146872383688,20.76502732240437,6.494438464298529/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1801101001:0006/pct:46.46760343481655,24.052146872383688,20.778037991152747,6.498425228242236/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -774,7 +774,7 @@ _&quot; cureits &#x27;pcrrnanent estahhshment in my
   
 thy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802111801:0576/pct:9.872170029262282,5.277703485780512,25.79701216694902,92.46679147722207/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802111801:0576/pct:9.870649830612873,5.2772330183633445,25.798172672210246,92.46152017590776/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -831,7 +831,7 @@ f clence. May these be perpetual ; and &#x27;
 the friendship of the two repub­  
 lics be commensurate with their exis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808100501:0002/pct:41.019514137793706,5.064102564102564,34.826762246117084,89.78205128205128/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808100501:0002/pct:41.019514137793706,5.068376068376068,34.84003716978627,89.78632478632478/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -881,7 +881,7 @@ prove the prevalence of this species of Inllu
 ence in the Republican party. The most  
 extraordinary means of subterfuge and de
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809090101:0137/pct:2.959127057518032,3.9827373612823673,17.995191418531533,20.431565967940813/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809090101:0137/pct:2.9585798816568047,3.982246332141536,17.99802761341223,20.433156618583816/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -904,7 +904,7 @@ ages to come wi&#x27;1 read wi h astoiiislirnent ths
 history of your brilliant exploits.”  
 I lie Senate of the U. S. re-echoed the sam
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809092601:0165/pct:42.683369644153956,72.93874071367678,17.28395061728395,4.956765314821581/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809092601:0165/pct:42.67562170992921,72.92985874330249,17.28686391964664,4.960220815067381/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -930,7 +930,7 @@ of your brilliant exploits. I rejoice that the pe­
 riod of your toils, and of your immense sacrifices  
 is approaching.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810011301:0315/pct:23.6327417602318,38.5729808040565,17.348786671495834,6.108897742363878/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810011301:0315/pct:23.628462791960892,38.56832448092709,17.351680849779708,6.112184130049895/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -960,7 +960,7 @@ your toils and of your immense fac­
 rifices is approaching.” = =  
 .If Mr. Jefferfon had used the lan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1810072401:0541/pct:78.16813048933501,64.3369890329013,16.6405269761606,10.957128614157527/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1810072401:0541/pct:78.17335842743621,64.3436357593885,16.645754914261815,10.957128614157527/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1030,7 +1030,7 @@ of a great man.
 Vet to do the Orator justice, he is certain!)  
 the fttte t man that could have been procur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1814070901:0073/pct:24.022947292936536,82.32442510876321,16.905700968088922,10.229956494717216/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1814070901:0073/pct:24.018641333572326,82.3141933880189,16.908645515922807,10.232827906205982/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1109,7 +1109,7 @@ to corny will read with, astonishment the histo­
 ry of&#x27;ybnr briUiant exploits !*  
 How will Gove me ur Morris escape the cen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814081301:0210/pct:57.889839970227015,22.207168370488976,17.994045403796054,6.429363222071684/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814081301:0210/pct:57.87906976744186,22.204433497536947,17.996899224806203,6.432676518883415/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1250,7 +1250,7 @@ freedom.”* For hi* own part, Mr. Olay
 said, that whenever be thong!. I of Spanish  
 America, the image iiiesislibly forced it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:0041418392A:1818041401:0405/pct:79.90462095050157,65.99560761346999,15.063311955270514,4.538799414348462/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:0041418392A:1818041401:0405/pct:79.89148306478133,65.98755642308161,15.066315904855859,4.542312228050913/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1421,7 +1421,7 @@ jwpdencc: May these be perpetual, and rnay
 *he friendship ot the two republic* ‘a c.e**&gt;men.  
 f*Tv!0 w!*h thei*&quot; es.is&#x27;c p.co.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1828101701:0196/pct:3.9660519014199447,68.94521864488227,15.65203198955443,24.87986544930322/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1828101701:0196/pct:3.965404699738903,68.93693693693693,15.654917319408181,24.88088088088088/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1601,7 +1601,7 @@ ardent wishes of ray heart while it gratifies the pride of every citizen of the 
 ted States by its resemblance to our own. On these glorious events accept, sir,  
 my sincere congratulations.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn95079484:00393348392:1844100301:0383/pct:34.914950760966875,53.38742916022669,28.66606982990152,10.14940752189593/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn95079484:00393348392:1844100301:0383/pct:34.908700322234154,53.38055376690277,28.666905358634683,10.152393217428633/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1688,7 +1688,7 @@ memorials ol their freedom and independence. May th
 be |&gt;erpetual; and may the friendship of the two repubi  
 bo commensurate with their existence.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848040401:0365/pct:21.52579930357708,56.293222683264176,14.814814814814815,3.6967182195397963/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848040401:0365/pct:21.53107523477894,56.297413973762524,14.814814814814815,3.700909510038141/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1747,7 +1747,7 @@ memorials of their freodom and independence. May these &#x27;y
 be perpetual; and may th-J friendship ol the two republics t(&gt;&lt;  
 be commensurate with their existence.&quot; b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848040401:0366/pct:15.272496831432193,19.026715163677412,19.169835234474018,21.409757933023958/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848040401:0366/pct:15.272496831432193,19.035076717254064,19.175116180819604,21.41393870981228/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1796,7 +1796,7 @@ and independence. May this be perpetual 5 and may the
 friendship of the two republics become eomruensurate with  
 their existence !&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848040801:0144/pct:81.36920011386279,39.85072939047834,15.883859948761742,3.9918579667533645/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848040801:0144/pct:81.36920011386279,39.85072939047834,15.893348515039378,4.003166346262581/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2082,7 +2082,7 @@ imraence sacrifices is approaching. .. I re
   
 &quot;jeice that the interesting revolutionary-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn89066057:00200292121:1848042401:0392/pct:5.878496503496503,42.19543147208122,23.710664335664337,21.732233502538072/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn89066057:00200292121:1848042401:0392/pct:4.415300546448087,31.646573604060915,17.792349726775956,16.30710659898477/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2158,7 +2158,7 @@ be perpetual; and may the friendship &lt;■!
 the two republics Is* eomnu u.-unin with  
 their existence.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82014751:00513688210:1848052401:0334/pct:6.0692002268859895,25.542955986930618,14.634146341463415,37.30540073034788/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82014751:00513688210:1848052401:0334/pct:6.078653809793912,25.542955986930618,14.643599924371337,37.324620411301176/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2180,7 +2180,7 @@ To call your nation brave, were but common pralse.
 Wonderful people! Ages to come shall read with as  
 tonishment the history of your exploit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271743002:1849082801:0254/pct:95.95102040816326,132.72460827415173,47.053061224489795,9.35632961334686/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271743002:1849082801:0254/pct:31.983673469387757,44.24153609138391,15.684353741496599,3.1187765377822867/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2217,7 +2217,7 @@ vor of a nation of heroic descent and heroic action.
 Resolved, That we tender to the patriots of Hungary  
 our heartfelt congratulations on their success in resistin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347934:1849090601:0028/pct:261.0590709233416,330.82253690870743,61.11642133435289,26.047002109069/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347934:1849090601:0028/pct:65.25229357798165,82.69317668323542,15.27618501529052,6.510769694231059/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2246,7 +2246,7 @@ beet wishes, are irreeietibly excited, whensoever, in any
 country. I see an oppreessd nation unfurl the hanaare m  
 freedom.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850010501:0026/pct:78.69272669016341,62.48894504106128,15.74815764178148,2.488945041061276/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850010501:0026/pct:78.69272669016341,62.493156453990316,15.758837979280145,2.4973678669193515/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2269,7 +2269,7 @@ I freely confess that I shall hail the day with pleasure
 when this government, reflecting the true sentiments  
 of the people, shall express its sympath
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:0041566137A:1850010501:0033/pct:58.42444631342865,34.926266770151905,14.71825063078217,3.980485641423661/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:0041566137A:1850010501:0033/pct:58.43379123446407,34.92996267139742,14.71825063078217,3.980485641423661/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2289,7 +2289,7 @@ try, I see an oppressed nation unfurl the banner of freedom.&quot;
 I freely confess that I shall hail the day with pleasure when  
 this Government, reflecting the true sentiments of the people
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1850010501:0044/pct:36.894360603653695,72.25578004582378,15.144294413555732,3.020204124140804/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1850010501:0044/pct:36.894360603653695,72.26272304381031,15.148707086753156,3.020204124140804/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2334,7 +2334,7 @@ confess that I shall hail the day with plea
 sure when our Government, reflecting the  
 true sentiments of the people, shall expres
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776014:1850011201:0985/pct:78.8722341184868,234.18994413407822,50.46395431834404,26.480446927374302/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776014:1850011201:0985/pct:19.72861988930548,58.547486033519554,12.622745938225316,6.620111731843576/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2399,7 +2399,7 @@ lfections,my sympathetic feelings,and my best wishes,
 Js irresistably excited, whensoever, in any country,  
 see an oppressed nation unfurl the banners of free
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022627:1851091001:0383/pct:2.508551881413911,119.69939238887112,19.284492588369442,2.9314572007248696/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022627:1851091001:0383/pct:1.8816821097647898,89.77720925274491,14.468995010691376,2.2065877838183563/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2543,7 +2543,7 @@ What words can he stronger than General,
 Washington&#x27;s sympathy for the oppressed and  
 struggling nations of the Old W orld. He neve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215877:1851120901:0054/pct:70.94194034064176,61.97687224669603,12.703491107556225,5.059196035242291/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215877:1851120901:0054/pct:70.93526533684607,61.9726065111157,12.705432191694895,5.061142083648794/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2564,7 +2564,7 @@ collections, my sympathetic feelings, and my best wishes are
 irresistibly excited whenever in any country I see an oppressed  
 nation unfurl the banner of freedom.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1851121301:0875/pct:17.615539182853315,10.871893744644387,15.405224380442062,3.1276778063410453/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1851121301:0875/pct:17.624469747711544,10.875464153099115,15.405224380442062,3.1348186232504998/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2588,7 +2588,7 @@ country I see an oppressed nation unfurl tie
 banners of freedom ”  
 Thus he gave the French Minister the trut
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215877:1852012801:0222/pct:83.38499107729876,38.063172509545296,12.40725086878933,4.51232211037834/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215877:1852012801:0222/pct:83.3771600300526,38.060530334582815,12.409216128224394,4.51432273589708/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2607,7 +2607,7 @@ my best wishes, . are irresistibly, excited,
 whenever, in any country, I see aa oppress­  
 ed nation opfurl the banner of freedom.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035101:00296027066:1852020901:0251/pct:23.547345767575322,56.82368009107727,16.73242467718795,3.7711683506475024/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035101:00296027066:1852020901:0251/pct:17.671331180480802,42.62131777429913,12.558306422676713,2.831933968976804/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2658,7 +2658,7 @@ an oppressed nation unfurl the banner of
 Freedom.&quot; &#x27;  
 Thus spoke Washington. Havel the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035101:00296027066:1852030101:0262/pct:24.232690935046396,25.759954331382904,16.523911491791576,9.704581133152562/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035101:00296027066:1852030101:0262/pct:18.193179789323334,19.323533609247896,12.408498482413854,7.2784358498644215/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2692,7 +2692,7 @@ of my heart, while it gratifies the pride of every citi/en
 May the friendship of the two republics be comtnensu­  
 rate with their existence.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661204:1852031101:0247/pct:48.09579244969233,64.53057047838321,16.065192083818392,9.222307495523152/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661204:1852031101:0247/pct:48.10133599423472,64.53909780847617,16.076279172903153,9.222307495523152/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2721,7 +2721,7 @@ tution designed togiVe permanency to the great obiect fw
 which you have contended I rei nee that /ifterlf.of which  
 ton have bwn the InvarinMe dolender&quot;, now finds an asy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661204:1852032001:0279/pct:80.26778242677824,76.76226896112173,16.06694560669456,2.192479286169535/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661204:1852032001:0279/pct:80.27336122733612,76.77076694285107,16.061366806136682,2.192479286169535/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2780,7 +2780,7 @@ most pleasing satisfaction in every American
 i heart, and cautioned the Representatives and  
 t the Peoplo in attenda
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1852032501:0506/pct:44.25470332850941,25.737528177986867,16.78726483357453,15.279819660884053/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1852032501:0506/pct:44.25952725518572,25.74406220392695,16.78726483357453,15.279819660884053/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2818,7 +2818,7 @@ citizen of the United States hy its resemblance to
 their own. May the friendship of the two Republics  
 be commensurate with their existence.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1852032501:0507/pct:44.36671039207113,25.454186413902054,15.609969392216877,9.666271721958926/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1852032501:0507/pct:44.36671039207113,25.460768825697734,15.619686148763543,9.666271721958926/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2843,7 +2843,7 @@ responds with the ardent wishes of try heart, while it gratl­
 sembianee to their own. May the friendship of the two 1U­  
 Ipublics be commensurate with their existence.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1852032701:0138/pct:80.58709498753808,90.12264564169952,15.7574079202437,5.026281208935611/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1852032701:0138/pct:80.58709498753808,90.12994597751496,15.7574079202437,5.026281208935611/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2882,7 +2882,7 @@ citizen of the United States by its resemblance
 to their own. May the friendship of the two  
 republics be commensurate with their existence.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661496:1852040701:0352/pct:84.92340360988928,52.03193898224288,15.80464128621265,12.93052079609105/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661496:1852040701:0352/pct:84.92340360988928,52.035911492472096,15.819808888214773,12.938465816549478/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2922,7 +2922,7 @@ republics bo rommensurato witli (heir existence,&#x27;
   
 inn rwriaio on mat occasion declared tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014763:00415661460:1852040801:0401/pct:84.21879463010569,50.530074768441025,15.752642102256498,13.369043633523045/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014763:00415661460:1852040801:0401/pct:84.21879463010569,50.53379459137745,15.752642102256498,13.3764832793959/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2940,7 +2940,7 @@ irresistibly awarded, when soever, in any country,
 I see an oppressed nation unfurl the banners of  
 freedom
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743051:1852041301:0621/pct:58.32793259883344,116.18072557311373,46.24108878807518,5.419541509014022/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743051:1852041301:0621/pct:19.44264419961115,38.72690852437125,15.413696262691726,1.8065138363380073/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2987,7 +2987,7 @@ Ages to come will read with astonishment the his.
   
 tory of your brilliant exploits.&quot; Such were th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_fluttershy_ver01:data:sn83016867:00295877923:1852121101:0421/pct:152.2689075630252,54.05735204392923,58.65546218487395,12.995729103111653/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_fluttershy_ver01:data:sn83016867:00295877923:1852121101:0421/pct:38.08322824716267,13.514338010982307,14.670029424127785,3.2489322757779133/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3013,13 +3013,13 @@ in any country, I ?ee an oppressed nation unfurl
 the banners of freedom.&quot;  
 In the spirit of these sentiments, New Yor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82014835:00415661514:1856051701:0741/pct:66.80492373561681,76.81406499733617,13.352956917313353,6.297282898241876/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82014835:00415661514:1856051701:0741/pct:66.80492373561681,76.82116853134434,13.366336633663366,6.30083466524596/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Putnam's magazine of literature, science, art, and national interests_](https://archive.org/details/sim_putnams-magazine_1870-04_5_28/page/n106/mode/1up?view=theater)
+## [From _Putnam's Magazine.  Original Papers on Literature, Science, Art and National Interests (1868-1870)_](https://archive.org/details/sim_putnams-magazine_1870-04_5_28/page/n106/mode/1up?view=theater)
 
 #### 1870-04-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -3072,7 +3072,7 @@ uepeuueuue. iu.y iiua uo perpetual , aua
 may the friendship of the two republics be­  
 . come commensurate with their existence.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_grange_ver01:data:sn83025925:00280776300:1870090701:0043/pct:9.541469993256912,55.45073375262054,19.386378961564397,9.69601677148847/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_grange_ver01:data:sn83025925:00280776300:1870090701:0043/pct:7.168156518805869,41.588050314465406,14.555574295834036,7.285115303983228/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3127,7 +3127,7 @@ wishes are irresistibly attracted whensoever in
 any country I see an oppressed nation unfurl the  
 banner of freedom.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210089:1885022101:0448/pct:26.239807512364656,53.058497948277505,18.7809116428285,5.038648726023475/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210089:1885022101:0448/pct:20.342553264960806,41.12513558820629,14.55506060292137,3.902475101074845/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3236,7 +3236,7 @@ tions, my sympathetic feelings, and my best wishes are­
 irresistibly excited whensoever, in any country, I see a  
 oppressed nation unfurl the banners of freedom,&quot;&quot; and s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_isuzu_ver01:data:sn83030214:00175038620:1893032701:0376/pct:61.0695527614197,174.72190692395006,46.013051090243515,5.720771850170261/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_isuzu_ver01:data:sn83030214:00175038620:1893032701:0376/pct:20.3565175871399,58.240635641316686,15.337683696747838,1.9069239500567536/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3316,7 +3316,7 @@ One hundred years after WAshington,
 another President of the United States ad­  
 dressed the representatives of another ne
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_neruda_ver01:data:sn83030272:00175045107:1893111301:0994/pct:76.70118343195266,13.489912676904547,104.21597633136095,373.0803974706414/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_neruda_ver01:data:sn83030272:00175045107:1893111301:0994/pct:19.18238993710692,3.3724781692261367,26.063633000369958,93.27009936766035/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3367,7 +3367,7 @@ hation unfurl the banners of freedom
 The sympathies and hopes of the Ameri  
 san people, and of their Government, ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175045193:1895051701:0793/pct:2.1788129226145756,156.84113865932048,75.35687453042824,60.17753290480563/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175045193:1895051701:0793/pct:0.5448055607739997,39.21028466483012,18.842757843321436,15.044383226201408/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3393,7 +3393,7 @@ Georgia gentlemen, sojourning transiently among
 us, are seeking each other in public places.  
 chiefly the newspapers- with a strong desire t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jaguar_ver01:data:sn83030214:00175038796:1895052201:0348/pct:101.42552842864166,25.01945092808714,48.07471735212191,23.430032232966543/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jaguar_ver01:data:sn83030214:00175038796:1895052201:0348/pct:33.808509476213885,8.339816976029047,16.024905784040637,7.810010744322182/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3437,7 +3437,7 @@ let us help her
 For Seaboard Protection  
 The coast defence bill of Senator Souir
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175042854:1896030301:0835/pct:129.93396918561996,134.1614906832298,49.743213499633164,64.17209513710044/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175042854:1896030301:0835/pct:32.50137639933933,33.54037267080745,12.442650027527987,16.04302378427511/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3483,7 +3483,7 @@ are irresistibly excited whensoever in any
 country I see an oppressed nation unfurl the­  
 panners of freedom.&quot; The Government a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_olds_ver01:data:sn83030214:0017503903A:1897010701:0114/pct:250.04026413271058,150.5262003946503,47.463359639233374,15.851786888840167/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_olds_ver01:data:sn83030214:0017503903A:1897010701:0114/pct:83.34675471090353,50.1754001315501,15.821119879744456,5.283928962946722/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3508,7 +3508,7 @@ thetic feelings, and my best wishes are irresis­
 tibly excited whensoever in any country I see  
 an oppressed people unfurl the banner of free
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:0017504291A:1897011301:0172/pct:179.51625094482236,341.8834080717489,50.11337868480726,21.524663677130047/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:0017504291A:1897011301:0172/pct:44.87906273620559,85.47085201793722,12.528344671201815,5.381165919282512/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3527,7 +3527,7 @@ i IT7G said: &quot;My anxious recollections, my
 ever in any country I see an oppress d  
 people unfurl the banner of freedom.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_firebaugh_ver01:data:sn82015104:00280768741:1897022601:0486/pct:30.85496407097815,22.661144738239354,12.61181991494354,2.665392375491133/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_firebaugh_ver01:data:sn82015104:00280768741:1897022601:0486/pct:30.85496407097815,22.661144738239354,12.61181991494354,2.6760114686205796/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3570,7 +3570,7 @@ banners of freedom.&quot;
 Clay thus denounced the Spanish con­  
 duct of the war
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_stein_ver01:data:sn83030272:00175042994:1898032701:0143/pct:123.04747320061256,182.29709035222052,50.91883614088821,13.660030627871363/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_stein_ver01:data:sn83030272:00175042994:1898032701:0143/pct:30.77954414863053,45.57427258805513,12.737023558705229,3.4150076569678407/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3619,7 +3619,7 @@ ers; at the violation of flags in
 ;ases, after being received with  
 &gt;us ceremonies; at the instigatio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_goforwand_ver02:data:sn84024720:00280762519:1898033101:0064/pct:14.504596527068438,2.99216643123154,51.87265917602996,92.55168871195582/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_goforwand_ver02:data:sn84024720:00280762519:1898033101:0064/pct:14.517364657814095,3.0017978682419417,51.876915219611845,92.55489919095929/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3678,7 +3678,7 @@ The battlefield should be the last
 resource, the dernier resort of nations.  
 Keep alive in your breast that littl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carlisle_ver01:data:sn86081854:00296026086:1899021601:0433/pct:81.29880805589806,41.597242171789716,14.118372379778052,15.254237288135593/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carlisle_ver01:data:sn86081854:00296026086:1899021601:0433/pct:81.29880805589806,41.597242171789716,14.138923140156185,15.268600976730825/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

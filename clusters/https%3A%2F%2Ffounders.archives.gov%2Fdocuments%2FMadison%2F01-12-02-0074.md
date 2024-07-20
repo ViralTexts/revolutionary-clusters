@@ -152,7 +152,7 @@ sure WHS also carried in the lower house
 and lost in the Senate,  
 When the bill came back from the Sen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810042701:0450/pct:39.7445124145376,74.19041843541541,17.002518891687657,8.053365676167374/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810042701:0450/pct:39.737362835042276,74.18142129517342,17.005456616897522,8.056431401083353/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -268,7 +268,7 @@ should lie allowed to carry to the West India
 Islam&#x27;s, in our own vessels, the produce of Ameri­  
 ca, which necessity compels them to take.” An
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184340:1832051801:0182/pct:21.22368235127879,41.68129938542581,14.455277660025434,1.8656716417910448/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184340:1832051801:0182/pct:21.22068380898559,41.67672555689674,14.457944805500611,1.8691246936610704/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -315,7 +315,7 @@ concentre, conduct, and point their powers, so as to obtain
 that reciprocity which justice demands.&quot; Whenever  
 the contitutionality of a Teriff is denied, it waould be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347892:1842060201:0348/pct:204.73714615829002,321.45689528565134,62.87309840169459,65.75121163166398/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347892:1842060201:0348/pct:51.17443203696573,80.35242290748899,15.715248363496341,16.43538913362702/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -344,7 +344,7 @@ do all she could to discourage our com
   
 miscresnt&#x27;s torture touched the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156347:1842070701:1201/pct:140.32761310452418,146.06741573033707,160.29641185647426,22.792937399678973/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156347:1842070701:1201/pct:35.10243902439024,36.51685393258427,40.09756097560975,5.698234349919743/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -366,7 +366,7 @@ Feich a knife,-cut the cursed rope- I am e tem onu in oin wa sa ini
   
 as
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156347:1842070701:1201/pct:186.1154446177847,186.73087212413054,113.88455538221528,9.737827715355806/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156347:1842070701:1201/pct:46.55609756097561,46.682718031032636,28.48780487804878,2.4344569288389515/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -389,7 +389,7 @@ We may note in these words one who
 knew well what he was saying, that the  
  a 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156347:1842070701:1201/pct:243.36973478939157,196.30818619582664,56.63026521060842,14.92776886035313/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156347:1842070701:1201/pct:60.8780487804878,49.07704654895666,14.165853658536586,3.7319422150882824/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -415,7 +415,7 @@ who deny it to ponder upon the words
 we have quoted--the words of a man  
 who had so large a share in the formatio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156347:1842070701:1201/pct:242.74570982839313,225.14713750668807,56.63026521060842,21.080791867308722/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156347:1842070701:1201/pct:60.72195121951219,56.28678437667202,14.165853658536586,5.270197966827181/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -538,7 +538,7 @@ pcctations of our constituents, and I venture
 to sav, wc disappoint the very nation against  
 whom the measure is directed(R. D. 213.) 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183700:1844050901:0079/pct:63.17478844470382,24.000449236298294,14.808870732419026,20.38409703504043/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183700:1844050901:0079/pct:63.16557257476295,23.997754070746772,14.811573061026015,20.385551188470895/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -638,7 +638,7 @@ pectations of our constituents, and I venture
 to say, we disappoint the very nation against  
 w hom the measure is riirecU.d.&quot;4rj (R. D
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn87090028:00295877959:1844062201:0399/pct:65.56818181818181,37.4083409715857,20.241477272727273,30.76306141154904/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn87090028:00295877959:1844062201:0399/pct:49.190110826939474,28.05912007332722,15.18897414038079,23.075160403299726/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -659,7 +659,7 @@ appointment?; that the States had relinqutshed the
 power of defence only &quot;under the impression that a  
 more efficient government? would exert that power
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ford_ver01:data:sn83030214:0017503822A:1888041901:0474/pct:9.276378705769844,178.9109671753211,46.49346509403889,10.198704577889998/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ford_ver01:data:sn83030214:0017503822A:1888041901:0474/pct:3.0921262352566146,59.63698905844037,15.497821698012963,3.3995681926299994/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -35,7 +35,7 @@ cultoms, or their deputies.&gt;)r any person assisting them in the ex­
 ecution of their duty, such persons so offending shall for every  
 offence be fined ,n a sum not exceeding four hundred dollar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789081501:0004/pct:19.15927938232771,63.38350161935607,25.10723477266228,3.295865879215089/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789081501:0004/pct:19.180726336860165,63.38826443132025,25.10008578781813,3.305391503143456/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -56,7 +56,7 @@ nation shall be had, to the highest bidder at public auftion,by
 order of such court, and at such place as the court may appoint,  
 giving at least fifteen days notice (except in cafe of perishable goods
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789081501:0004/pct:71.86159565341721,51.724137931034484,23.62024592507864,5.124785673461612/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789081501:0004/pct:71.87589362310553,51.72890074299867,23.605947955390334,5.134311297389979/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -79,7 +79,7 @@ persons so offending shall for every of­
 fence be fined in a sum not exceeding  
 four hundred dollars
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789091001:0454/pct:51.54195553430552,47.11660329531052,20.79846999760937,7.858048162230672/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789091001:0454/pct:51.54195553430552,47.12716518800169,20.814407522511754,7.858048162230672/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -100,7 +100,7 @@ ficer of the court inwhichfuch condemn­
 ation shall be had, to the higheﬁ bidder  
 at public aué&amp;ion, by orderof such court
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789091701:0458/pct:51.88814531548757,41.67210973220118,21.104206500956025,5.943827563683866/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789091701:0458/pct:51.90407903123008,41.68299586327019,21.112173358827278,5.943827563683866/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -128,7 +128,7 @@ ingly or willfully offending in the premises, lhall, on convi&amp;ion
 thereof, be imprisoned not exceeding twelve mouths, and fined,  
 not exceeding three hundred doll »rs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790051201:0001/pct:64.56862143076451,30.702617594961623,27.018728891618053,8.876205471363905/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790051201:0001/pct:64.5839729812711,30.707537886242864,27.018728891618053,8.881125762645148/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -164,7 +164,7 @@ of, be imprisoned not exceeding twelve
 months, and fined not exceeding three  
 hundred dollars. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790090901:0658/pct:10.495002379819134,33.06999525991468,20.109471680152307,17.775319955759205/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790090901:0658/pct:10.495002379819134,33.06999525991468,20.125337141043946,17.79112024016432/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -187,7 +187,7 @@ duty, such person so offending, shall
 for every offence be fined in a sum not  
 exceeding four hundred dollars
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791010101:0724/pct:10.098581389757154,32.35727138884345,20.437605193556145,8.228365777850483/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791010101:0724/pct:10.10659613689188,32.35727138884345,20.4536346878256,8.23927149790065/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -214,7 +214,7 @@ such court, and at such place as the
 court may appoint giving at least fif­  
 teen days notice (except in case o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791010801:0727/pct:49.139579349904395,13.064329419546883,20.100382409177822,10.186869522077062/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791010801:0727/pct:49.15551306564691,13.0753541701119,20.100382409177822,10.181357146794554/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -296,7 +296,7 @@ Kno wingly and wilfully offending in (he premise*,
 shall on conviction thereof, lie imprisoned notex­  
 ce&lt; ding 12 months, and lined not exceeding 30
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809040401:0411/pct:40.88801711840228,8.924342515268602,17.100570613409417,8.139100087249158/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809040401:0411/pct:40.88072740238902,8.923230309072782,17.103464669875795,8.142239946826187/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -328,7 +328,7 @@ ty willingly ejfi&#x27;udi g in the premises,
 &#x27; on conviction thereof, be imprison, d  
 “ no* exceeding twelve motiO-s, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809041401:0422/pct:79.11520737327189,85.93276036400404,17.640552995391705,10.591506572295248/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809041401:0422/pct:79.10062661260596,85.9219006697839,17.643445140680672,10.594380555204516/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -347,7 +347,7 @@ the court before whom condemnation shall be
 had, to the highest bidder, at pubtic auction, by  
 order of such court, and at such place as th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1815041101:0269/pct:40.538990825688074,33.624497006575716,16.356077981651374,2.640102070860732/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1815041101:0269/pct:40.54376911314985,33.63104001046881,16.365634556574925,2.643373572807276/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -418,7 +418,7 @@ offence, be fined in a sum not exceeding
 four hundred dollars. Sci- 4. That the  
 provisions of the 4tith section of the act
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184157:1823020501:0065/pct:3.0620007607455304,29.059718818521862,16.90756941802967,5.868695988649555/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184157:1823020501:0065/pct:3.0614185206312987,29.055971111684293,16.910692780630033,5.872237984696071/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -440,7 +440,7 @@ t,e«*eauy o.ncer o« the customs, or thc»r depu
 not exceeding four hundred dollars.  
 jcc. k Ana be it further enacted, That th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025001:00414216328:1823020601:0225/pct:2.1656050955414012,16.43850618771219,16.94267515923567,4.851604424488008/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025001:00414216328:1823020601:0225/pct:2.1652110625909753,16.43670608848007,16.945657447840855,4.854723317272595/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -560,7 +560,7 @@ execution of their duty, such person, so of­
 fending, shall, {nr every such offence, be fined  
 &amp; sum no. exceeding four hundred dollars
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1823043001:0475/pct:28.902748002338726,7.343215507411631,21.301890469694015,4.538198403648803/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1823043001:0475/pct:28.909244461768335,7.343215507411631,21.301890469694015,4.541999239832763/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -582,7 +582,7 @@ shall, for every such offence, be fined a sum not
 exceeding four hundred dollars. e »  
 Sec. 4. And be it further ewacted, That, th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015143:1823051301:0073/pct:5.393822964385991,39.09038572251008,16.403132850598492,4.164267894837843/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015143:1823051301:0073/pct:5.398748830106891,39.09038572251008,16.408058716319392,4.170664619714706/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -625,7 +625,7 @@ ollriire, lie fined a sum not exceeding four
 hundred dollars.  
 Sec. t. Jtmt hr it further enact ed, Tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1823072501:0402/pct:49.665831244778616,69.08641256910096,14.933166248955722,5.062554553389584/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1823072501:0402/pct:49.65546043015243,69.07636363636364,14.93526832324076,5.065454545454545/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -662,7 +662,7 @@ thorised, in serving or executing any writ,
 rule, order, process, or warrant as aforesaid;  
 or if any perscn shall by force set at libert
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1829030901:0040/pct:29.84716811507342,47.67349373632929,15.11836979322745,6.89998011533108/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1829030901:0040/pct:29.84716811507342,47.676807847816,15.128358805314154,6.90329422681779/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -724,7 +724,7 @@ fully offending in the premises, shall, on conviction !
 thereof, be imprisoned not exceeding twelve months, and j  
 lined not exceeding three hundred dollars.&quot; Thu ob- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:0041418408A:1835041701:0470/pct:35.33461856237951,69.42508710801394,15.133572018727623,7.621951219512195/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:0041418408A:1835041701:0470/pct:35.32975354536693,69.41752857920523,15.13607783744091,7.624750499001996/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -766,7 +766,7 @@ conviction thereof in the City Court, be im­
 prisoned not exceeding twelve months, and  
 fined not exceeding three hundred dollars
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn87062070:0039334295A:1835122501:1024/pct:3.070362473347548,36.41386931896671,17.420042643923242,9.766542340102225/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn87062070:0039334295A:1835122501:1024/pct:3.069707951396291,36.408839779005525,17.42343494635117,9.769797421731123/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -809,7 +809,7 @@ any mesne process or warrant, or any rule or order of any
 of the Courts of the United States, or any other legal or ju  
 dicial writ or process whatsoever, every such person, shall
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530327:1850111901:0540/pct:59.55156950672646,175.7486499754541,46.43946188340807,10.616102110947471/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530327:1850111901:0540/pct:19.85052316890882,58.582883325151364,15.47982062780269,3.538700703649157/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -833,7 +833,7 @@ warrant, or any rule or order of any of the courts of
 the United States, of any other legal or judisial writ or  
 precess whatrovet, every such ytraon shal an oof
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271743026:1850111901:0711/pct:51.73532273759325,269.60493263302124,50.85955238404152,12.856816624800183/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271743026:1850111901:0711/pct:17.24510757919775,89.86831087767375,16.953184128013838,4.285605541600061/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -862,7 +862,7 @@ rule or order of any of the courts of the (Julted States, or
 say other legal or jadloial writ or prooesa whatsoever, every  
 web person shall, on oouvictiou, be imprisoned not ex
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850112101:1242/pct:0.9957557949722494,52.07055214723926,15.393405158341496,2.287832310838446/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850112101:1242/pct:1.0066383719664818,52.07907293796865,15.404287735335728,2.287832310838446/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -884,7 +884,7 @@ process or warrant, or any rule or order of any of the courts
 of the United States, or any other legal or judicial writ or  
 proceaa whatsoever, every such peraon shall, on conviction
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1850112301:0439/pct:15.606307775965199,19.90607322019426,15.388798259923872,4.066602625680435/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1850112301:0439/pct:15.61537067246692,19.90607322019426,15.37973536342215,4.073718290817234/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -930,7 +930,7 @@ or executing any writ, rule, order, process or war-­
 rant aforesaid, every person so knowingly and wil­  
 fully offending in the premises shall, on convictio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743038:1851032001:0419/pct:54.2,54.44983818770226,46.86666666666667,36.32686084142395/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743038:1851032001:0419/pct:18.066666666666666,18.149946062567423,15.622222222222222,12.108953613807982/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -956,7 +956,7 @@ aforesaid, every person so knowingly and wilfully
 ofTcnding in the premises, shall, on conviction  
 thereof,&quot; be punished by fine and imprisonment
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661393:1851032101:0350/pct:2.732474964234621,49.43302622253721,14.048640915593705,5.268131348925112/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661393:1851032101:0350/pct:2.73724368144969,49.43302622253721,14.048640915593705,5.276005984723207/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -990,7 +990,7 @@ serving or executing any writ, rule, order, process, or war- I
 rant aforesaid, every person so knowingly and wilfully offend- ;  
 ing in tbe premises, shall, on conviction thereof,&quot; be pun
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1851032201:0570/pct:4.825774336283186,52.988345985245374,15.652654867256636,4.9823586015182295/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1851032201:0570/pct:4.825774336283186,52.995473823015786,15.65726401179941,4.9823586015182295/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1021,7 +1021,7 @@ years, indeed from the foundation of the Government,
 it has been a criminal oficnce to resist, or  
 oppose, or obstruct the marshal in tho execution o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661393:1851032801:0376/pct:69.21543499928805,46.48396501457726,14.224690303289192,6.798833819241983/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661393:1851032801:0376/pct:69.21543499928805,46.49173955296404,14.23418292277754,6.798833819241983/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1046,7 +1046,7 @@ any writ, rule, order, process, or warrant aforesaid,evgj
 person so knowingly and wilfully oflending in the pres­  
 ses shall, on conviction thereof,&quot; be punished by fine ai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851040501:0381/pct:84.86315086782376,48.330561596520404,14.819759679572764,5.1554304720481/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851040501:0381/pct:84.86871384067646,48.339090017483265,14.830885625278148,5.1554304720481/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1075,7 +1075,7 @@ said, every person so knowingly and wil­
 fully offending in the premises, shall, on  
 conviction thereof,&quot; be punished by fin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156360:1851040901:0471/pct:239.7718631178707,63.433609958506224,56.42585551330799,35.58091286307054/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156360:1851040901:0471/pct:59.9657664511221,15.858402489626556,14.111829593001142,8.895228215767634/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1121,7 +1121,7 @@ any writ, rule, order, process, or warrant
 aforesaid, such person shali, on conviction, be imprisoned  
 not eicecding twelve months, and fine
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014434:00415661423:1852111801:0504/pct:58.6416344561016,28.075221238938052,14.59138597459967,4.767699115044247/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014434:00415661423:1852111801:0504/pct:58.64623596539665,28.075221238938052,14.595987483894717,4.771386430678466/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1138,7 +1138,7 @@ shall ass ault beat or wound any officer, or other
 horized, in serving or executing any writ,  
 inle, order, process or warrant, aforesaid, such perso
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743099:1854061001:1316/pct:58.021067173199796,152.86774231539277,45.76066309791055,3.7451419149687903/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743099:1854061001:1316/pct:19.34035572439993,50.95591410513092,15.253554365970183,1.2483806383229301/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1178,7 +1178,7 @@ any writ, rule, order, process or warrant, alore­
 said, such person shall, on conviction, be im­  
 prisoned not exceeding twelve months, and nn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661538:1854061301:0582/pct:32.012400593071845,11.40204464844565,13.209327402614907,7.427498435218026/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661538:1854061301:0582/pct:32.01689356157613,11.408999234995479,13.209327402614907,7.424021141943111/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1201,7 +1201,7 @@ nlTieor, or other person duly authorized in serving ?&gt;i
 executing any writ, rule, order, process or wnrrnul  
 aforesaid, such person shall, on conviction, be imprisone
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1854061301:0255/pct:13.806507342355312,72.1793037672866,15.015836452634609,3.96757272293753/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1854061301:0255/pct:13.806507342355312,72.1856620569067,15.025434302716192,3.96757272293753/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1252,7 +1252,7 @@ beat, or wound any officer or other person duly authorized in
 surving or executing any writ, rule, order, process, or w.-r­  
 runc aloresaid, such person shall, on conviction, he imprisone
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661617:1854061701:0205/pct:34.17525045858614,12.704598597038192,15.479046140821222,9.308540251642356/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661617:1854061701:0205/pct:34.17995390621326,12.712021675388783,15.479046140821222,9.312251790817651/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1308,7 +1308,7 @@ order,
 tcjP&#x27;ocess or warrant, aforesaid, such person shall,  
 on conviction, be imprisoned not exceeding twolv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035487:00237283776:1854062401:0935/pct:65.63245823389022,28.154050464807437,20.18695306284805,7.599232698834292/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035487:00237283776:1854062401:0935/pct:49.25373134328358,21.115537848605577,15.164179104477611,5.710491367861886/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1394,7 +1394,7 @@ in serving or executing any such warrant or process,
 such person shall, on conviction, lie imprisoued not exceeding  
 twelve months and fined not exceeding three hundre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:0041566123A:1854121901:0591/pct:51.96863257637641,45.24294072755024,17.317431792190817,8.725515136097686/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:0041566123A:1854121901:0591/pct:51.97952404291238,45.24294072755024,17.30654032565485,8.733994742643942/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1423,7 +1423,7 @@ struct, resist, or oppose any officer of the United
 cute any merne process or warrants, or any rule  
 or order of any of the Cotrts of the Unite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530467:1855021301:0294/pct:199.83818770226537,244.9670500064608,48.72348076231572,7.416978937847267/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530467:1855021301:0294/pct:66.61272923408846,81.65568333548693,16.24116025410524,2.4723263126157558/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1443,7 +1443,7 @@ tempting to servo or execute any tnrv.-r process
 I or warrants, or any rule or order of any of the  
 Courts of the United .NatO!,” Ac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn85033189:00271769763:1855021401:0283/pct:61.945367827720766,43.59735220269345,13.9471021823963,2.784752339648482/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn85033189:00271769763:1855021401:0283/pct:58.85852899446199,41.421807799342226,13.250034326513799,2.6455600130109507/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1486,7 +1486,7 @@ officer of the United States, in serving or at
 tempting to serve or execute any writ,  
 process, warrant, &amp;c., issued by any perso
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775642:1861120901:0244/pct:115.67825494205863,29.213483146067414,43.012951601908654,20.171214553237025/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775642:1861120901:0244/pct:28.929423798158883,7.303370786516854,10.75690419365837,5.042803638309256/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1509,7 +1509,7 @@ United States, in serving or attempting to serve
 or execute  any writ, process, warrant, etc., is­  
 sued by any person authorized to issue the same
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774674:1861121101:0150/pct:218.4528034066714,74.0643810520806,48.82895670688431,16.540172729651925/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774674:1861121101:0150/pct:54.63258785942492,18.51609526302015,12.211572594959176,4.135043182412981/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1576,7 +1576,7 @@ Justice Washington, in refusing to give up possession,
 or in opposing or obstructing the execution of the writ  
 by threats of violence which it is in the power of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_itchweed_ver01:data:sn83030313:00271743592:1867090201:0554/pct:150.16334531198956,211.55387610214132,48.93825547206795,19.054162372609643/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_itchweed_ver01:data:sn83030313:00271743592:1867090201:0554/pct:50.054448437329846,70.51795870071376,16.31275182402265,6.351387457536547/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1603,7 +1603,7 @@ inply and wilfully offending in the prem:
 on conviction thereof, be imprisoned not exceed?  
 ing twelve months, and fined not exceeding thre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_brandonblaze_ver01:data:sn84026994:00294555262:1867090302:0005/pct:70.45286915474259,16.344767944652638,13.7188375866647,4.890938791198232/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_brandonblaze_ver01:data:sn84026994:00294555262:1867090302:0005/pct:70.4627034469194,16.347970917010986,13.72375473275311,4.897344735914929/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1675,7 +1675,7 @@ is in tite power of ho party to enforce (United
 Mates vs. Lowry, 2 &quot;Wash., 16;).) Any obstruction  
 to the free action of the officer, or his lawful as
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879129:1867090601:0152/pct:5.400302114803625,47.66594445538704,16.905840886203425,12.822532991924366/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879129:1867090601:0152/pct:4.054904923813122,35.74945834154028,12.69361541367586,9.621823911758913/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1699,7 +1699,7 @@ tody may have lawfully been committed, every per­
 son so knowingly and wilfully offending in the preme­  
 ises shall, on conviction thereof before the District o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743646:1868122201:0930/pct:191.80809399477806,272.476439196094,45.64295039164491,11.615760190757353/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743646:1868122201:0930/pct:63.93603133159269,90.82547973203134,15.21431679721497,3.871920063585784/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1722,7 +1722,7 @@ knowingly and wilfully offending in
 the premises shall, on conviction  
 thereof before the district or circui
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn82014296:00296022159:1869040801:0514/pct:332.2991689750693,138.90819414863805,42.49307479224377,10.761125434368344/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn82014296:00296022159:1869040801:0514/pct:83.10932520437855,34.72704853715951,10.627684633504225,2.690281358592086/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1767,7 +1767,7 @@ sentatives of the United States of America in Con-
 oress assembled, That from and after the passage of  
 this act the style of the &quot;register of deeds of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009571:00279523921:1869040901:0065/pct:118.53425385023898,137.55406999606762,34.02814657461498,32.0389303971687/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009571:00279523921:1869040901:0065/pct:39.50617283950617,45.846849503587926,11.341209788043718,10.678593662964055/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1843,7 +1843,7 @@ IPUnLIC. No. 56.I
 An Aor to provide for the exccution of  
 judgments in capital
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053571:00237289031:1869043001:0426/pct:55.54493307839388,57.920446615491976,44.64627151051625,48.569434752267966/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053571:00237289031:1869043001:0426/pct:13.889552952426488,14.480111653872994,11.164236194119054,12.142358688066992/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1888,7 +1888,7 @@ person so knowingly and willfuily offending i
   
 the premises shall on conviction thereof befor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_dayton_ver01:data:sn84022040:00415668302:1869060101:1746/pct:169.5464362850972,241.52866242038218,66.1987041036717,28.97179253867152/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_dayton_ver01:data:sn84022040:00415668302:1869060101:1746/pct:42.3866090712743,60.382165605095544,16.549676025917925,7.24294813466788/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1923,7 +1923,7 @@ the district or circuit court of the Uni ed States
 for the district in which the offence was commited.  
 e fined not exese ling one thousand dollars, and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_dayton_ver01:data:sn84022040:00415668302:1869060201:1750/pct:31.23644251626898,235.15766582094963,66.48590021691975,38.70967741935484/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_dayton_ver01:data:sn84022040:00415668302:1869060201:1750/pct:7.8112286411716845,58.78941645523741,16.625983184160564,9.67741935483871/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1981,7 +1981,7 @@ Congre-sassembled, That whenever a judgement
 of death has been, or shall hereafter be rendered  
 in any court of the United States, and the cas
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_dayton_ver01:data:sn84022040:00415668302:1869060401:1758/pct:36.67029379760609,240.4679217693292,68.11751904243744,59.9524766953025/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_dayton_ver01:data:sn84022040:00415668302:1869060401:1758/pct:9.172563962983125,60.1169804423323,17.03864997278171,14.988119173825625/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2013,7 +2013,7 @@ tody may have lawfully been committed, every
 person so knowingly and willfully offending in  
 the premises shall on conviction thereof befor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_dayton_ver01:data:sn84022040:00415668302:1869060501:1762/pct:34.891304347826086,239.12087912087912,65.8695652173913,32.67399267399267/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_dayton_ver01:data:sn84022040:00415668302:1869060501:1762/pct:8.72519706441968,59.78021978021978,16.471867355259583,8.168498168498168/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2058,7 +2058,7 @@ lawfully been committed, every person so
 knowingly and wilfully offending in the  
 premises shall on conviction thereof be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_montpelier_ver01:data:sn84023253:00200296266:1870021101:0453/pct:122.60543245175126,68.35702569710224,34.953538241601144,17.181519956260253/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_montpelier_ver01:data:sn84023253:00200296266:1870021101:0453/pct:40.875781948168004,22.785675232367414,11.653261840929401,5.727173318753417/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2093,7 +2093,7 @@ prisoned not exceeding twelve months, and fined oe o a a a ee an oe e
 not exceeding $00.ooe  e e e eo a i  
 Mr. Trumbull. I hat is a very proper act o ea te a i in a e ot 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777031:1871051201:0077/pct:257.6950105411103,102.00543407944106,79.90161630358398,28.981757019019277/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777031:1871051201:0077/pct:64.4577254350501,25.501358519860265,19.98593777465284,7.245439254754819/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2137,7 +2137,7 @@ or wound 3an officer duly authorized in serv­
 ing or executing any writ, rul*. order, process  
 or warrtu\ shall be punished,&quot; etc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lytton_ver01:data:sn82014381:00175037937:1881012201:0358/pct:4.775369148601948,29.094278434097752,10.493245366006912,3.764188093583507/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lytton_ver01:data:sn82014381:00175037937:1881012201:0358/pct:4.787150486961986,29.09717396340051,10.485391140433553,3.7612925642807506/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2200,7 +2200,7 @@ or wounds, any officer or other person duly
 i authorized in serving or executing any writ,  
 rule, order, process or warrant, shall b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ibizanhound_ver01:data:sn83045462:00280655235:1898110101:0008/pct:70.48046363806318,55.00905670893131,13.853056646102075,4.15215271004598/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ibizanhound_ver01:data:sn83045462:00280655235:1898110101:0008/pct:70.48513740886148,55.01254005852027,13.848382875303795,4.1626027588128744/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

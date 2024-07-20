@@ -494,7 +494,7 @@ miited enormities on our veflels. |
 3. That their courts of admiralty are gmlty  
 of equal ‘opprefiten, &gt; s U
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1794032901:0202/pct:53.01436824174196,5.268449627991152,39.934824470448824,88.72913734164489/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1794032901:0202/pct:53.02424332197699,5.2718010590522155,39.934824470448824,88.73248877270595/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -558,7 +558,7 @@ romife to Congress some {tatement upon these
 Fubjc:&amp;s. I have the honor, Sir, to be, with  
 the highest refpe&amp;t, Your most obedient servant,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1794032901:0203/pct:7.947118241235889,5.5768069257096835,19.77124183006536,34.71914636601571/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1794032901:0203/pct:7.952069716775599,5.580162405207704,19.77124183006536,34.71579088651768/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -586,7 +586,7 @@ with great damage ; and that on Tuelday the
 proaching the town by land on its back, and  
 carried it by florm, with the loss of Brigadie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1794032901:0203/pct:7.947118241235889,43.63801087175357,19.71182412358883,9.140326152607207/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1794032901:0203/pct:7.952069716775599,43.64136635125159,19.72172707466825,9.147037111603249/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1908,7 +1908,7 @@ tbe law# oT the 1 r, aH. mfrnbbc and that for this extraor­
 dinary conduct i. other exetsse it ailegec than that by  
 some edi t of a ktnj ?&#x27; France this ;m?-n-otirse was prohil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855031301:0316/pct:1.1085751548744702,62.91895947973987,15.764590805347245,11.85592796398199/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855031301:0316/pct:1.1085751548744702,62.92729698182425,15.786327573089881,11.85592796398199/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1948,7 +1948,7 @@ Due measure should bo taken to obtain redress of
 the past and more effectual provision against the  
 future
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623896:1888081801:0158/pct:72.70718232044199,35.54621848739496,10.791896869244935,0.8403361344537815/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623896:1888081801:0158/pct:72.70718232044199,35.55555555555556,10.81645181092695,0.8356676003734828/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

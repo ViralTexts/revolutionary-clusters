@@ -214,7 +214,7 @@ principle in confederated governments, that, what­
 ever is not expressly given to the federal head, is  
 reserved to the members.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016866:00295878198:1851021501:0424/pct:71.85039370078741,42.77666940499941,18.91169853768279,33.716699917850015/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016866:00295878198:1851021501:0424/pct:53.90240472507383,32.08543598169229,14.189284207565743,25.290458866330244/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -357,7 +357,7 @@ their powers to their several Governments, and
 these cannot be recalled and given to another  
 w thoat an express act.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_johnhenry_ver01:data:sn84024738:00280777973:1861011001:0036/pct:64.5631067961165,74.77944992215879,37.67284495439835,11.271406331084588/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_johnhenry_ver01:data:sn84024738:00280777973:1861011001:0036/pct:21.521035598705502,24.926483307386267,12.55761498479945,3.7571354436948625/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -388,7 +388,7 @@ eral governments, and these cannot bo re
 called and given to another without an ex­  
 press act.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84024082:00212471616:1861021901:0031/pct:147.42599742599742,315.9448818897638,46.13899613899614,26.673228346456693/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84024082:00212471616:1861021901:0031/pct:36.862429605792435,78.98622047244095,11.53660498793242,6.668307086614173/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -413,7 +413,7 @@ powers to their several governments, and these
 cannot be recalled and given to another without  
 an express act.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn82015099:00279556665:1861030201:0034/pct:62.954993724224494,38.32991101984942,12.318450779989242,5.4072553045859/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn82015099:00279556665:1861030201:0034/pct:62.963959117805274,38.336755646817245,12.32741617357002,5.41409993155373/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -440,7 +440,7 @@ several Governments, and these cannot be
 recalled and given to another without an  
 express act.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84024082:00212471616:1861052801:0088/pct:150.35691109669045,258.8641975308642,45.295262816353016,24.59259259259259/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84024082:00212471616:1861052801:0088/pct:37.58922777417261,64.71604938271605,11.323815704088254,6.148148148148148/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -459,7 +459,7 @@ to a certain sphere, and when they depart
 from this sphere, they are no longer supreme  
 or binding. A law of Congress to coerce a sov
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn83025725:00212470405:1861082701:0171/pct:65.2197504069452,230.38057031334708,43.73304395008139,12.013444649246448/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn83025725:00212470405:1861082701:0171/pct:16.31157551906636,57.59514257833677,10.937712036911385,3.003361162311612/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -478,7 +478,7 @@ are restricted to a certain sphere, anu
 when they depart from this sphere, they  
 aro no longer supreme or binding. A tau
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn84024443:00200293861:1861083001:0783/pct:41.783073130649136,41.47067579636796,16.1873459326212,3.483179517713605/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn84024443:00200293861:1861083001:0783/pct:31.36046033703247,31.11044953855314,12.145499383477189,2.604941947008038/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -497,7 +497,7 @@ Congress are restricted to a certain sphere
 and when they depart from this sphere  
 they are no longer supreme or binding.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn82014129:00279528724:1861091801:0244/pct:17.73071104387292,209.88545246277204,33.88804841149773,6.804123711340206/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn82014129:00279528724:1861091801:0244/pct:5.910237014624307,69.96181748759068,11.29601613716591,2.268041237113402/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -592,7 +592,7 @@ to a certain sphere, and when they depart from the
 here they areno longer supreme or binding.  
 the same manner the States have certain independ
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774704:1865020901:0997/pct:229.68526466380544,319.1455696202532,49.07010014306152,15.031645569620252/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774704:1865020901:0997/pct:57.43158647826865,79.7863924050633,12.269719191557861,3.757911392405063/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -616,7 +616,7 @@ I understood my colleague Mr. Garfield
 to say, in his speech on this subject, that  
 sovereignty of the American people cam
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774704:1865020901:0997/pct:229.68526466380544,334.49367088607596,49.28469241773963,15.770042194092827/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774704:1865020901:0997/pct:57.43158647826865,83.62341772151899,12.323376855660884,3.942510548523207/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

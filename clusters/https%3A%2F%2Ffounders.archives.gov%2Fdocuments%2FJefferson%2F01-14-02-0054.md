@@ -86,7 +86,7 @@ eigners, of whom nothing was Known but on their own in­
 formation, or on that of others as unknown as themselves)  
 came to a resolution that the interest of America would no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855020901:0174/pct:33.12642927147991,81.48519819367787,15.844495262985951,2.972905168088309/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855020901:0174/pct:33.137318958945876,81.48519819367787,15.833605575519982,2.977086469309249/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -138,7 +138,7 @@ quent yjs; B it happens, that inaumeortne
   
 toria, .who are among e?, utidertake to cf de awayjfcPri,lc5PlePG&#x27; Fra-ce; th.-re is not a single
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_eiffel_ver02:data:sn87065698:00295877546:1855072701:0194/pct:68.7748156551333,22.522133448499243,38.613159387407826,19.99568127834161/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_eiffel_ver02:data:sn87065698:00295877546:1855072701:0194/pct:51.61015746914456,16.89699848844742,28.968648035182294,14.996760958756209/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -166,7 +166,7 @@ kney;thaC the Know Nothings had raised a cry five citizen. &#x27; The e.tablish:
   
 against this doctrine, and that &#x27; a contest must . mglaw will guard against the effectof particu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_eiffel_ver02:data:sn87065698:00295877546:1855072701:0194/pct:68.88825865002836,51.7058950550637,38.74078275666478,7.827683005830274/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_eiffel_ver02:data:sn87065698:00295877546:1855072701:0194/pct:51.69527592566322,38.78212049233427,29.067952901120726,5.873461455409199/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -193,7 +193,7 @@ and to absolve ,-Sutyects and citizens rrom. their nhe icc.Consul would become .
 duty, of allegiance to their king and country? ihe presence of his principal, come interactivity  
 Tho reason is obviousjbecouse this is Odear-p-&#x27;r in his depaxture, and Jhus lBpare&#x27;.na&quot;fco4
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_eiffel_ver02:data:sn87065698:00295877546:1855072701:0194/pct:69.05842314237096,59.56596847333189,38.71242200794101,7.870870222414165/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_eiffel_ver02:data:sn87065698:00295877546:1855072701:0194/pct:51.822953610441196,44.677175556035415,29.039580082281173,5.905851867847117/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -223,7 +223,7 @@ grade of. consul gives right to any authority
   
 penaenee.. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_eiffel_ver02:data:sn87065698:00295877546:1855072701:0194/pct:88.45717526942711,68.75404880155475,19.498014747589338,8.46469445044267/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_eiffel_ver02:data:sn87065698:00295877546:1855072701:0194/pct:66.37820967513123,51.56553660116605,14.626188111788906,6.348520837832002/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -250,7 +250,7 @@ no person but a native citizen shall be capable of hold
 ing the office of consul.&quot;  
 iteselved, That the Louisville tragedy is an eloquen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743221:1855082401:0434/pct:96.58644819935142,209.66063615939458,54.019457245263695,15.22998699302353/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743221:1855082401:0434/pct:32.19548273311714,69.88687871979819,18.006485748421234,5.076662331007844/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -287,7 +287,7 @@ Native citixens, on several valuable accounts, are prefer­
 le to aliene, or citivens alienetorn. aative citinens pocer  
 our language; know our laws, customs, and commer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_pearse_ver01:data:sn82015753:00212475373:1855091201:0253/pct:51.76767676767677,262.5470514429109,38.63636363636363,3.575909661229611/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_pearse_ver01:data:sn82015753:00212475373:1855091201:0253/pct:17.255892255892256,87.51568381430364,12.878787878787879,1.191969887076537/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -305,7 +305,7 @@ appears to me advisable to declare, bv
 a standing law, that no person but a  
 Native Citizen shall be Consul.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82014892:00393342870:1855102001:0249/pct:10.7838695061169,44.333973562309346,12.0525600362483,2.2257372048356117/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82014892:00393342870:1855102001:0249/pct:10.782241014799155,44.328965205603254,12.05451525218967,2.2283099864437417/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -369,7 +369,7 @@ give better satisfaction, and are more to be
 relied on in puint ol fidetiy-  
 While President he wrote to Mr. Macon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156372:1856043001:0276/pct:85.52950687146321,312.9220023282887,58.447857720291026,19.965075669383005/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156372:1856043001:0276/pct:21.386699009500706,78.23050058207218,14.614918132201334,4.991268917345751/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -392,7 +392,7 @@ tive citizens, it appears to me advisable to declare
 by standing law, that no person but a native citizen  
 shall be capable of the office of Consul.&quot; &quot;A Cla
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn86053516:00212470065:1856050501:0436/pct:180.84378563283923,73.98607128226136,49.37286202964652,18.47603441212618/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn86053516:00212470065:1856050501:0436/pct:45.223838038209294,18.49651782056534,12.34673510122612,4.619008603031545/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

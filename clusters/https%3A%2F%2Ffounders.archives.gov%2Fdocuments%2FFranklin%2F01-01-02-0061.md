@@ -288,7 +288,7 @@ themselves, but because the people are s«&gt;
 viciously and corruptly educated, that good  
 things are not encouraged.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215932:1855082501:0663/pct:82.03288490284007,31.7475102099305,13.064275037369208,37.94511714551838/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215932:1855082501:0663/pct:82.02471104025508,31.745235707121363,13.066294672512289,37.94478674117591/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

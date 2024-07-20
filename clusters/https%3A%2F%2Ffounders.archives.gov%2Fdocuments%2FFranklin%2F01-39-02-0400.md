@@ -120,7 +120,7 @@ ot quieting the Disorders now subsisting in .
 certaip of the Colonies, Plantations, and..-  
 Provinees in: North- America. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1778102701:0080/pct:10.93587881303175,14.927252378287633,28.014110811371655,17.16564073866816/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1778102701:0080/pct:10.949712941827489,14.936578996455886,28.007193746973783,17.16564073866816/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -221,7 +221,7 @@ the Three Lower Counties on Delaware,
 Maryland, Virginia, North-Carolina, South-  
 Carolina, and Georgia, all persons speedil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1838071101:0894/pct:1.5033604527767952,37.24120082815735,14.449946940219315,6.87111801242236/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1838071101:0894/pct:1.5033604527767952,37.24982746721877,14.455842471406674,6.87111801242236/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

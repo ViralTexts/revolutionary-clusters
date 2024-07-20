@@ -76,7 +76,7 @@ hand and allised the seal of the Sonate, this
 President of tbe Senate.  
 In event of any question arising as to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_ewing_ver01:data:sn83025925:00280776257:1869021001:0279/pct:26.90391459074733,27.733556765814832,19.537366548042705,23.711772098868874/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_ewing_ver01:data:sn83025925:00280776257:1869021001:0279/pct:20.185119259522963,20.807149839407902,14.667141331434674,17.790811339198434/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -101,7 +101,7 @@ of Representatives, open all the certificates and
 count all the votes of the Electors for a Presi­  
 dent
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_connemara_ver01:data:sn85025007:00414184790:1869021101:0348/pct:36.658451160980675,30.074333187581985,15.086262809702944,5.55312636641889/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_connemara_ver01:data:sn85025007:00414184790:1869021101:0348/pct:36.65369649805447,30.071703392794685,15.088629485516645,5.555555555555555/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -130,7 +130,7 @@ as duly elected, agreeably to the ennstitn-
 lion, i rcsiueni oi uio i niie.1 Mates for lour  
 years, commencing on the Ith day of March
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_article_ver01:data:sn84038628:00295879944:1869021201:0913/pct:59.40044411547002,72.52442566675468,16.395262768319764,9.281753366781093/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_article_ver01:data:sn84038628:00295879944:1869021201:0913/pct:44.56783268554507,54.39662001584367,12.307977049787155,6.971217322418801/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -157,7 +157,7 @@ open all the certificates and count all
 the votes of the Electors for a Presi­  
 dent and Vice Presinent, by which i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn87058333:00279528931:1869021801:0424/pct:27.348224513172966,85.95652668715148,10.882016036655212,6.498236030499601/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn87058333:00279528931:1869021801:0424/pct:27.357770141275296,85.96411365274459,10.882016036655212,6.494442547703046/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -183,7 +183,7 @@ it appeared that Tlioinas Jefferson
 ol V mania, auu Aaron Burr of New York, had  
 a majority of the voles of the electors, aud a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_hera_ver01:data:sn83021205:00517171530:1876122701:1212/pct:21.749904689287074,106.69485553206484,13.762866946244758,5.567300916138126/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_hera_ver01:data:sn83021205:00517171530:1876122701:1212/pct:16.866105283892253,82.68705625341343,10.656423893238784,4.318223193154925/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -299,7 +299,7 @@ which the House of Representatives
 proceeded to a choice of a President,  
 and have this day notified to the Sen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn92056106:00279528761:1877011701:0138/pct:13.88251181634031,41.596234085802934,8.926401080351114,7.6602118326735855/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn92056106:00279528761:1877011701:0138/pct:13.892640108035112,41.60425805071146,8.929777177582714,7.662886487643094/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -344,7 +344,7 @@ duly elected Vice President, of the
 United States, agreeably to the Con­  
 stitution.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_engledinger_ver02:data:sn85033123:0051415126A:1877012501:0051/pct:50.89348529618686,71.35946292822588,14.88673139158576,16.832856155592854/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_engledinger_ver02:data:sn85033123:0051415126A:1877012501:0051/pct:50.8981755077154,71.36275380919471,14.891421603114301,16.839437917530525/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -384,7 +384,7 @@ votes of the electors for President.&quot; Subse-
 quent departures from this practice Mr.  
 Fish treated as encroachments upon th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777675:1877022801:0036/pct:111.32930513595166,223.8485447866629,41.76737160120846,11.58519355750212/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777675:1877022801:0036/pct:27.842840952021156,55.962136196665725,10.44578768417076,2.89629838937553/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -448,7 +448,7 @@ duly elected President, and Thomas A. Hendricks, of
 the State of IndiauH.hns been duly elected Vice-presi  
 dent of the United States,agreeable to the constitution
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210089:1885021201:0366/pct:5.604838709677419,106.34600614439324,18.736559139784948,4.032258064516129/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210089:1885021201:0366/pct:4.347222222222222,82.41815476190476,14.51736111111111,3.1299603174603177/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -472,7 +472,7 @@ dent, and Thomas A. Hendricks of the State of
 Indiana, has been duly elected Vice-Presicent of  
 the United States, agreeable to the Constitution,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_charlie_ver01:data:sn83045160:00280779982:1885021201:0149/pct:128.69379014989295,234.8684210526316,34.154175588865094,9.492481203007518/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_charlie_ver01:data:sn83045160:00280779982:1885021201:0149/pct:32.17344753747324,58.7171052631579,8.538543897216273,2.3731203007518795/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -499,7 +499,7 @@ Thomas A. Hendricks, of the state of
 wan, has been duly elected vice  
 president of the Hnite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_chevy_ver01:data:sn83025733:00200294774:1885021201:0838/pct:218.1438127090301,42.64604336417622,103.42809364548495,339.78732219306727/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_chevy_ver01:data:sn83025733:00200294774:1885021201:0838/pct:54.535953177257525,10.661510841044056,25.857023411371237,84.94683054826682/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -518,7 +518,7 @@ mejrity of the votes of the electors as
 vice-president, by whichg it appears  
 that Grover Cleveland of the State o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_foxtrot_ver01:data:sn86064205:0017503514A:1885021201:1266/pct:176.81592039800995,297.619845792826,58.407960199004975,11.984579282601407/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_foxtrot_ver01:data:sn86064205:0017503514A:1885021201:1266/pct:44.22598307615729,74.4049614482065,14.609258337481334,2.996144820650352/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -563,7 +563,7 @@ dent andeviesrpresidenthof the United
 Ssateaeer theatanuutetthe  
 wan aseaatsasest Atawias
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eagle_ver01:data:sn84022279:02202296588:1885021901:0492/pct:74.0710156895128,276.7561225986215,52.43600330305533,48.92212934447866/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eagle_ver01:data:sn84022279:02202296588:1885021901:0492/pct:18.521577534586,69.18903064965538,13.11170761924427,12.230532336119666/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

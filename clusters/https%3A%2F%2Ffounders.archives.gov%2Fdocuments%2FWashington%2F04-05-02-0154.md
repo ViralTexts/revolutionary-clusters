@@ -353,7 +353,7 @@ jth.it whatever shah be c-&lt; ccd thereon should
 &lt;ie durable and « ffi ient. 1 i*- speaks entirely of  
 :hr Federal government, or what would he
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216389:1827112101:0364/pct:43.512096092031804,16.29568884723524,18.338690576890542,36.58622305529522/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216389:1827112101:0364/pct:43.504736129905275,16.293780016399204,18.341226883175462,36.5858420210066/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -449,7 +449,7 @@ might always find a means of exerting it cither |
 I by sea or land; but the difficulty and awkward- ]  
 ness oT
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216389:1827112101:0364/pct:43.47826086956522,2.4250234301780695,37.86161394011165,91.95173383317713/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216389:1827112101:0364/pct:43.470906630581865,2.424739369802038,37.86084799278304,91.94486743977197/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -498,7 +498,7 @@ therefoie
 Do. s n * promise himself any thin,  
 desirable from any change, which doe;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1828011001:0435/pct:21.203743088047638,17.472894078398667,17.630795406210122,24.103419516263553/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1828011001:0435/pct:21.199234531150328,17.470465601111883,17.632362321922177,24.103544127866574/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -585,7 +585,7 @@ would be no great difficulty in effect
 ing it  
 Next
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1828011001:0435/pct:21.0761378136963,11.273283291631916,35.98468736707784,87.35056991937726/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1828011001:0435/pct:21.071656389538592,11.271716469770674,35.982351690410376,87.3419041000695/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -621,7 +621,7 @@ principle was modified, in the Comtitulion,
 ho as to signify that the laws and Constitution  
 of the United States should he nnj/retir , th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn84038814:00279557219:1861021701:0027/pct:19.693330870127472,10.046511627906977,12.69166820617033,12.132890365448505/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn84038814:00279557219:1861021701:0027/pct:19.702567892111585,10.046511627906977,12.696286717162387,12.132890365448505/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -73,7 +73,7 @@ will celebrate it, with the sole regret that
 Your Excellency be not a witness of the  
 effusion and gladness of our hearts.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_guava_ver02:data:sn99068086:00332899958:1895022101:0494/pct:26.687354538401863,59.99182115594329,16.854150504266872,4.266630316248637/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_guava_ver02:data:sn99068086:00332899958:1895022101:0494/pct:23.356714560470643,52.5007951653944,14.752800090507977,3.7372773536895676/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -137,7 +137,7 @@ cellency be not a 4 withess of the effusion
 1 gladoess of onr hearis.” To this letter  
 whington replied from New Windsor: * 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_gargoyle_ver02:data:sn92064114:00514153401:1895090701:0207/pct:29.800899165061015,80.98657508585701,18.850353243416826,3.9338120512019983/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_gargoyle_ver02:data:sn92064114:00514153401:1895090701:0207/pct:29.811603511025478,80.99351302598258,18.839648897452367,3.9338120512019983/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

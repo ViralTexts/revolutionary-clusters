@@ -57,7 +57,7 @@ w i.h the greatest exactness and fidelity ; and
 that the Department of Slate has become the  
 purchaser of the plate. We are very glad t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183979:1823061101:0045/pct:17.592742588692694,37.87733588883565,15.324801555159565,5.41447053186392/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183979:1823061101:0045/pct:17.589893100097182,37.87279913762127,15.327718388942879,5.4178145087236/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -110,7 +110,7 @@ hear this, tor tie tuiginal of that paper,
 &quot;him; c/iittIn to lie in mortal tmd imperislt­  
 siole, by being so much handled by copist
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn83026162:00542866561:1823061301:0149/pct:27.125279642058164,5.295784626284095,43.596196868008946,91.79950407368048/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn83026162:00542866561:1823061301:0149/pct:27.117696393625945,5.294846821321055,43.590998043052835,91.78767487161325/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

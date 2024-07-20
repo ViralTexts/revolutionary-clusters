@@ -2687,7 +2687,7 @@ to the ground in the sight of the Indians for their
 satisfaction for the many wrongs he bath done  
 them from time to time
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82014835:00415661514:1855052601:0141/pct:14.48814726526288,64.03508771929825,13.945172824791419,6.5630944831959415/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82014835:00415661514:1855052601:0141/pct:14.492561691608175,64.04213344606497,13.958416103827307,6.5630944831959415/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2714,7 +2714,7 @@ be burnt down to the ground in the sight of the In­
 dians for their satisfaction for the many wrongs  
 he hath done them from time to time.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202190960:1855052801:0510/pct:20.521461511174174,23.057309373482273,42.92302234835048,16.063623118018455/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202190960:1855052801:0510/pct:6.840487170391392,7.685769791160758,14.307674116116827,5.354541039339485/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2741,7 +2741,7 @@ shall be burnt down to the ground in the
 sight of the Indians for their satisfaction, for  
 the many wrongs he hath done them iro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215932:1855052901:0366/pct:6.052501238236751,9.969357941993872,12.9172857850421,6.506092781301218/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215932:1855052901:0366/pct:6.05190174326466,9.96864757018669,12.919307976756471,6.508004370338702/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3010,7 +3010,7 @@ with other good cheare, for all commers of that
 &quot;day.&quot; Thomas had his ideas also about potations.  
 One charge against him was that he sold stron
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_flavory_ver01:data:sn83030213:00206530595:1858072201:0142/pct:6.018206338503035,59.81894990947495,48.41537424140256,15.847917923958962/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_flavory_ver01:data:sn83030213:00206530595:1858072201:0142/pct:2.0060687795010113,19.939649969824984,16.138458080467522,5.2826393079863205/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3038,7 +3038,7 @@ top of it: where it stood as a faire sea-marke for
 &quot;irections; how to finde out the way to mine  
 &quot;Hoste of Mare Meunt.&quot; The &quot;songe fitting t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_flavory_ver01:data:sn83030213:00206530595:1858072201:0142/pct:6.068779501011464,88.41279420639711,48.314227916385704,22.124321062160533/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_flavory_ver01:data:sn83030213:00206530595:1858072201:0142/pct:2.0229265003371544,29.47093140213237,16.104742638795233,7.374773687386844/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3062,7 +3062,7 @@ tants of this town were the first that set upon fishing
 in the bay, who received so much fruit of their labors  
 that they encouraged others to the same undertakings.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530650:1860051901:0146/pct:103.6767087787496,50.50128235019818,48.29931972789116,18.372581021217066/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530650:1860051901:0146/pct:34.558902926249864,16.833760783399395,16.099773242630384,6.124193673739022/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3393,7 +3393,7 @@ order ;” and adds: “Mr. Cotton is supposed to have bee
 words, &quot;I doubt not but you will consider if it be  
 not fit for you to join in it,&quot; express confidence i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558329:1874112801:0539/pct:110.97818437719916,59.4400205497046,43.771991555242785,2.5173388132545593/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558329:1874112801:0539/pct:27.754311862020415,14.86000513742615,10.946849700809574,0.6293347033136398/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3411,7 +3411,7 @@ hibited by Sir Christopher Gardiner, Sir Ferdi­
 dinando Gorges, Captain Mason and others,  
 charging distraction and disorder in the plan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558329:1874112801:0539/pct:110.97818437719916,78.65399434883123,43.56087262491204,4.983303365014128/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558329:1874112801:0539/pct:27.754311862020415,19.66349858720781,10.894051390355509,1.245825841253532/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3440,7 +3440,7 @@ anything further that might tend to the good
 Government, prosperity and comfort of his  
 people then of that place.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558329:1874112801:0539/pct:110.83743842364532,87.07937323400976,43.771991555242785,18.186488569226817/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558329:1874112801:0539/pct:27.71911298838437,21.76984330850244,10.946849700809574,4.546622142306704/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3465,7 +3465,7 @@ ing, to express in a day of Thanksgiving to our
 merciful God.&quot; The first day of Thanksgiving,  
 accordingly, was appointed to acknowledge a po
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558329:1874112801:0539/pct:110.7670654468684,108.81068584639095,43.771991555242785,13.357307988697663/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558329:1874112801:0539/pct:27.70151355156635,27.20267146159774,10.946849700809574,3.3393269971744157/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3497,7 +3497,7 @@ sider if it be not fit for you to join i
 words- &quot;I doubt not but you will con  
 sider if it be not fit for you to join i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477862:1875012701:0727/pct:344.1199684293607,256.22013034033307,40.64719810576164,3.591600289645185/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477862:1875012701:0727/pct:86.02999210734018,64.05503258508327,10.16179952644041,0.8979000724112962/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3555,7 +3555,7 @@ place.’’
 and of that best part the wiser part is the  
 lesser.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558354:1876031701:0273/pct:158.58657243816253,248.24654622741764,43.60424028268551,3.7725823591923486/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558354:1876031701:0273/pct:39.667668375464025,62.06163655685441,10.906841081845501,0.9431455897980872/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3852,7 +3852,7 @@ skulls and bones laid on the ground at the
 places of their habitations, for several years  
 after. Tho Penobscots in the east and th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_eritrea_ver01:data:sn84026844:00202193432:1878123001:1250/pct:14.043285784554845,31.345916387369908,12.420068863748156,3.8278355971070734/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_eritrea_ver01:data:sn84026844:00202193432:1878123001:1250/pct:14.061731431382194,31.3503263362145,12.432365961633055,3.841065443640854/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3998,7 +3998,7 @@ whiles nnr bouses were building, 1 did endeav­
 our ,to take a survey of the Country: The more I  
 looked, the more I liked it.&quot; He then give
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:0027952533A:1883010201:0379/pct:37.95229595975986,6.892439780586692,10.838877170209313,3.028857619842595/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:0027952533A:1883010201:0379/pct:37.946138870863074,6.891617980207464,10.841174561972744,3.03147728627638/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

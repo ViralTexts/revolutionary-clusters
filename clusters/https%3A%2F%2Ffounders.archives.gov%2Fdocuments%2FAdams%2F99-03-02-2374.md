@@ -97,7 +97,7 @@ I for irresistible force of persuasion; no book in
 ; the world deserves to ho so unceasingly studied,  
 | and so profoundly meditated upon as the J&gt;i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184522:1824031201:0058/pct:49.39053348108279,62.134350791999076,15.687826499920849,8.683084749682044/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184522:1824031201:0058/pct:49.382716049382715,62.127167630057805,15.690619394323098,8.685934489402698/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -119,7 +119,7 @@ who gave the Scriptures for our instruction,
 bless yv.nr study of them, and make them to  
 you fruitful of good works.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184522:1824031201:0058/pct:49.707139464935885,71.26835472308937,15.29206902010448,4.254827147647127/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184522:1824031201:0058/pct:49.699271921494145,71.26011560693641,15.294924554183813,4.258188824662813/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -238,7 +238,7 @@ lures for our instruction, bless your study
 of them, and make them to you fruitful  
 of good works.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184157:1824032901:0385/pct:73.29513953058584,65.05348955680081,16.743670301238218,19.192562404482935/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184157:1824032901:0385/pct:73.28159645232816,65.04520565389024,16.746735649174674,19.194363088416317/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -379,7 +379,7 @@ instruction, Mess your study of them,
 tnd make them to you fruitful of good  
 works.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1824040601:0214/pct:59.34851694915254,57.91467633009389,17.161016949152543,19.650798879920934/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1824040601:0214/pct:59.33280381254964,57.905138339920946,17.163092401376755,19.651679841897234/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -446,7 +446,7 @@ ners ; the selection of circumslancrs
 that mark the individuality of peisons ;  
 for copiousness, grandeur and sublimity
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021202:00517171980:1824042101:0128/pct:102.71364925070878,112.8904593639576,18.772782503037668,11.448763250883392/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021202:00517171980:1824042101:0128/pct:79.60763798064347,87.4940665279147,14.559246664922835,8.883776974476941/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -475,7 +475,7 @@ the Scriptures for ourinstruction, bless &#x27;
 your study of them, and make them to&#x27;  
 you fruitful of good works.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021202:00517171980:1824042101:0129/pct:7.113985448666128,7.491582491582491,19.361358124494746,12.948933782267115/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021202:00517171980:1824042101:0129/pct:5.523650412446487,5.806030733545955,14.999477915840034,10.05001449695564/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -587,7 +587,7 @@ upon as the Bible.,’—John Quincy Jldam,
 Courage.—True courage never exerts itWf so  
 much as when it is most pressed; and it ikhe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216377:1827052601:0488/pct:60.69576852316441,82.9576816927323,17.795617996320455,12.01701931922723/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216377:1827052601:0488/pct:60.68561872909699,82.94814303782914,17.798216276477145,12.019470315434441/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -618,7 +618,7 @@ irresistible force of persuasion, no book in the
 world deserves to be so unceasingly studied, and  
 so piofoundly meditated upon as the Bible.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348811:1827060501:0345/pct:53.485005170630814,26.64776754075124,15.180972078593589,8.688873139617293/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348811:1827060501:0345/pct:53.473945409429284,26.643990929705215,15.183002481389579,8.691184807256235/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -839,7 +839,7 @@ sion; ni&#x27;hook in t.Jie world (Ic&#x27; frvcs to ho so tiurciii iti,&#x27;&#
 lv studied, and so profoundly meditated im 11 rsijjo  
 JJibffi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184303:1828101801:0339/pct:76.89142133586579,77.82243764038303,17.85375118708452,7.353115025416716/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184303:1828101801:0339/pct:76.87925304636809,77.81323877068557,17.85620087566598,7.35618597320725/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -861,7 +861,7 @@ the uicrrifu! Creator. who gave the scriptures for on;
 instruction, bless your -tuny of them, and make thfiu  
 fi intful to you of good works,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184303:1828101801:0339/pct:76.9389047166825,85.29376994916657,17.774612219056664,4.314930842889231/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184303:1828101801:0339/pct:76.92672891280266,85.28368794326241,17.777074431608376,4.318360914105595/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1123,7 +1123,7 @@ ent from your own. And may the merciful Creater,
 who gave the Scriptures for our instruction, bless  
 your study of them, and mgke them to you &quot;fraitt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_buttery_ver01:data:sn83030213:00206530273:1848042201:0203/pct:5.865281808461891,26.525079078174425,83.36642737131511,266.7645729778581/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_buttery_ver01:data:sn83030213:00206530273:1848042201:0203/pct:1.9550939361539637,8.841693026058142,27.788809123771703,88.9215243259527/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1144,7 +1144,7 @@ indicate a hieroglyphic origin. All the
   
 !verswhA tn v.drm r nl,M nnn -rr ! historical books.buth of the Old and New
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058217:00271744766:1848051001:0072/pct:14.302812687013764,31.668077900084675,74.53620586475165,2.225716704971574/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058217:00271744766:1848051001:0072/pct:10.731926358329591,23.757106568283536,55.934740308337076,1.6692875287286804/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1165,7 +1165,7 @@ sernbles in many respects some of the
 prophetical books of tho Old Testament;  
 the figurative, symbolical and allegorical
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058217:00271744766:1848051001:0072/pct:71.82824655894674,61.89669771380186,17.070616397366845,4.765936857384783/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058217:00271744766:1848051001:0072/pct:53.89911689866786,46.42554735696141,12.812453225565035,3.5805007862586185/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1198,7 +1198,7 @@ the law written in a
   
 ted in tiie Ark of the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058217:00271744766:1848051001:0072/pct:51.959904248952725,70.93262368452885,19.23997606223818,8.370630216523526/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058217:00271744766:1848051001:0072/pct:38.99116898667864,53.19946776339664,14.443945517138152,6.290068948832708/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1222,7 +1222,7 @@ composition derived from Greek and Ro
   
 man schools, and the example of the pri
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058217:00271744766:1848051001:0072/pct:71.45421903052065,71.02939397604935,17.474566128067025,5.866698923430507/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058217:00271744766:1848051001:0072/pct:53.614728334081725,53.272045482037015,13.126777428528664,4.403048264182896/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1243,7 +1243,7 @@ what I havo written has been, and everv IHE .UAJob uolols. uuring me
   
 letter has convinced me more and more iasi session oi congress a mu WBs Piwu failh was ..God-s Magnetic Telegrap
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058217:00271744766:1848051001:0072/pct:71.42429682824655,96.7702915205032,51.226810293237584,2.1410426998911336/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058217:00271744766:1848051001:0072/pct:53.59976051489298,72.5777186403774,38.4373596766951,1.6088060965283657/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1276,7 +1276,7 @@ of silence; when the islands of the clouds
 are bathed in . light, and. the first star  
 springs up over the grave of day ... 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058217:00271744766:1848051001:0072/pct:54.06941950927588,108.72142252328536,70.63135846798325,16.039675819523406/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058217:00271744766:1848051001:0072/pct:40.57775782068553,81.54106689246402,53.001047747343215,12.035805007862587/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2121,7 +2121,7 @@ serves to be so unceasingly studied, and
 so profoundly meditated upon, as the  
 Bible
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00279529601:1882020201:0227/pct:84.66443487964291,67.47464753895622,11.142993782879005,6.467969329705664/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00279529601:1882020201:0227/pct:84.6509403889066,67.46630394460244,11.145202422696844,6.470260912575739/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2143,7 +2143,7 @@ the Scriptures as divine revelations; as
 historic records; as containing a system  
 of morals; and as literary composition
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00279529601:1882020201:0227/pct:84.83978957436634,74.52386841454366,10.856049736967957,4.006925550333911/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00279529601:1882020201:0227/pct:84.82626713420466,74.5146531470261,10.858304112209117,4.00952145418573/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

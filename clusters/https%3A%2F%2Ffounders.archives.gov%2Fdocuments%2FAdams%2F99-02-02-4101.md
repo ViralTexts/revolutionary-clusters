@@ -226,7 +226,7 @@ and die virtums Sage : Let (hem teaeh their
 children never to torget that the fruits of his  
 labors, and his ex im,de, are their inheritance
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1800010601:0316/pct:5.554236885829575,2.7505760368663594,46.30904343698077,89.64573732718894/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1800010601:0316/pct:5.552918841955387,2.750179985601152,46.30398671096346,89.63642908567314/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -337,7 +337,7 @@ mourns her father. - The Almight;
 disposer of hun’uin&quot;eq;nt;; has: taken  
 from us our greatelt benefacter ang
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1800010801:0213/pct:76.89969604863222,82.16026515890037,16.382978723404257,12.156365763306688/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1800010801:0213/pct:76.89969604863222,82.16351465522844,16.393110435663626,12.156365763306688/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -392,7 +392,7 @@ labours, and his example are their
 inheritance.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1800010801:0214/pct:7.654994694558132,3.977825325812099,16.234652114597544,27.21260455164365/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1800010801:0214/pct:7.665100298115305,3.9810672372430784,16.234652114597544,27.21908837450561/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -582,7 +582,7 @@ exhibiting the weakness of humanity—magna­
 nimous in death—the darkness of the grave &#x27;  
 could not obscure his brightness.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812070801:0625/pct:22.837473810236457,76.15661649275094,22.85243938940437,13.722412041739773/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812070801:0625/pct:22.83405656142451,76.14958448753463,22.854007681181105,13.724222837796246/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -757,7 +757,7 @@ patriotic statesman, and the virtuous sage.
 Volunteer Companies of Richmond, the Commandant  
 of the Public Guard, aud the Presiding Officers of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn86071855:00393348343:1850021501:0356/pct:2.7027027027027026,26.120914087358983,14.643001210165389,4.17992479028059/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn86071855:00393348343:1850021501:0356/pct:2.702157693083283,26.11713665943601,14.645089735833837,4.18293564714389/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -778,7 +778,7 @@ triotic Statesman, and the virtuous Sage.
 3d. Resolved, That the Mechanics of the city oi  
 Richmond be requested to appear in their several cha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn86071855:00393348343:1850021901:0367/pct:51.46152316563929,46.49772209567198,14.814078345595545,2.9043280182232345/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn86071855:00393348343:1850021901:0367/pct:51.45129224652087,46.49110320284697,14.81610337972167,2.907473309608541/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -818,7 +818,7 @@ entto eral the patotic stateman and the virtuus sage. Let
 them tesch their children never to forget that the fruits  
 of his labors and his example are their inheritance.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743087:1853072101:0175/pct:98.53699085619286,83.12014618547282,55.943474646716545,18.204659661946096/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743087:1853072101:0175/pct:32.84566361873095,27.706715395157605,18.647824882238847,6.068219887315364/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -865,7 +865,7 @@ the heroic general, the patriotic statesmen, and
 the virtuons sage; let them teach their children  
 never to forget that the fruits of his labors are thei
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn86092535:0020219056A:1855102501:0273/pct:6.092688773471834,114.72065763434313,55.173791450259685,8.12909118587304/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn86092535:0020219056A:1855102501:0273/pct:1.5231721933679585,28.68016440858578,13.793447862564921,2.03227279646826/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -897,7 +897,7 @@ tlu&#x27;ir children, never to forgot that the fruit* 1
 of his labors and his example aro their in- \
 inheritance.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kershawhogjam_ver03:data:sn85027003:00415620111:1855110201:0254/pct:50.53606237816764,72.61771648652007,16.81286549707602,4.696235557212076/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kershawhogjam_ver03:data:sn85027003:00415620111:1855110201:0254/pct:50.54689192116093,72.6218577877169,16.80745072557938,4.704518159605748/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -997,7 +997,7 @@ exhibiting the weakness of humanity: mag­
 nanimous in death, the darkness of the grave  
 could not obscure his brightness.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn84026978:00279557475:1858031101:0197/pct:81.40715667311412,24.938595054855085,14.410058027079303,2.374324545603406/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn84026978:00279557475:1858031101:0197/pct:81.41320116054159,24.946782380874406,14.422147001934237,2.382511871622728/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1182,7 +1182,7 @@ let them teach their children never to tor­
 get that the fruits of his labours, and his  
 example, are their inheritence
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014489:00279557244:1862022201:0031/pct:38.66476258479115,3.517387841783913,23.223848625490895,92.19538093973985/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014489:00279557244:1862022201:0031/pct:38.669225276686895,3.527342713034245,23.232774009282398,92.19538093973985/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1200,7 +1200,7 @@ tho weakness of humanity; magnanimous in
 death, the darkness of the grave could not ob­  
 scure his brightness,” add who, “ for his fellow
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dunbar_ver01:data:sn85026214:print00211110120:1864011001:0001/pct:70.13246234803121,76.08928094092488,12.048630012701869,1.4969259556268377/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dunbar_ver01:data:sn85026214:print00211110120:1864011001:0001/pct:70.14607149337688,76.08928094092488,12.044093630919978,1.500267308206362/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1233,7 +1233,7 @@ et them teach their children never to forget
 hat the fruits of his labors, and of his example,  
 ire their inheritance
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340639:1867071201:0112/pct:27.143549168415955,44.74965663628418,11.02858065557888,9.476838556623798/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340639:1867071201:0112/pct:27.139166935744267,44.74406991260924,11.030836293186955,9.478776529338328/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1297,7 +1297,7 @@ their children never to forget that the fruits
 of his labors, and his example are their in  
 heritance
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_coyote_ver02:data:sn84022168:00296025185:1868022901:0045/pct:263.54430379746833,131.5267175572519,57.59493670886076,105.80152671755725/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_coyote_ver02:data:sn84022168:00296025185:1868022901:0045/pct:65.88607594936708,32.88167938931298,14.39873417721519,26.450381679389313/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1346,7 +1346,7 @@ of his labors and example are their inherit­
 ance. And of whom we say the half of his  
 virtues and greatness have never been tol
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053571:00237289031:1869022301:0197/pct:163.73008434864104,81.66988247675846,44.329896907216494,53.744957025083316/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053571:00237289031:1869022301:0197/pct:40.951711204875764,20.417470619189615,11.087669948429442,13.436239256270829/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1366,7 +1366,7 @@ he has ceposited it safely, where mis­
 fortune cannot tarnish, where malice  
 dare not enter. At the ripe age of nea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775435:1874100101:0384/pct:53.36538461538461,65.17311608961303,14.262820512820513,3.385947046843177/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775435:1874100101:0384/pct:40.04488618146842,48.87983706720978,10.692529656941327,2.545824847250509/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1398,7 +1398,7 @@ patriotic Statesman and the virtuous Sage. Let
 them teach their children never to forget that the  
 fruit of his labors and his example are their in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558329:1874112301:0519/pct:24.74012474012474,344.3634037108125,43.24324324324324,21.701855406269992/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558329:1874112301:0519/pct:6.185031185031185,86.09085092770313,10.81081081081081,5.425463851567498/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1666,7 +1666,7 @@ them teach tbeir children never to forget
 that the fruits of bis labors, and his exam­  
 ple are their iuheritan ce.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_animals_ver01:data:sn84027718:00271763827:1876072101:0134/pct:85.35485747527632,44.22380563018339,14.819662594531705,22.053498423081415/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_animals_ver01:data:sn84027718:00271763827:1876072101:0134/pct:64.04772297395606,33.17369466183857,11.115961006838353,16.540123817311063/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1686,7 +1686,7 @@ tune cannot tarnish, where malice dare not enter;
 therefore, be it  
 Jetolcrd, That we sincerely mourn tbe disruptio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555663:1877021501:0066/pct:76.98615160349854,53.85477992710962,16.800291545189506,3.728623493131483/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555663:1877021501:0066/pct:57.754692910515764,40.398093636108776,12.611627483141971,2.803476310625175/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1856,7 +1856,7 @@ each their children never to forget that the J
 ruits of his labors, and his example are (  
 heir inheritance. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348720:1878102401:0559/pct:74.11328745367919,69.53043022035676,11.399329451208752,24.108079748163693/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348720:1878102401:0559/pct:74.10021171489062,69.52131147540983,11.401729004940014,24.108196721311476/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1923,7 +1923,7 @@ Heaven, he departed without exhibiting the weak­
 hess of humanity. Magnanimous in death, the  
 darkness of the grave could not obscure his bright
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn86053573:0021110238A:1879060401:0540/pct:219.10538286580743,230.56206088992974,48.59742228961334,39.285714285714285/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn86053573:0021110238A:1879060401:0540/pct:54.807509956381566,57.640515222482435,12.156267779252797,9.821428571428571/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2093,7 +2093,7 @@ hey, and carried with him an increasing weight of
 honor. r has deposited it safely where mistortune  
 caunot tarmiat at whers shallesehnlor hers misfortun
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044851:1885022201:0684/pct:232.3682256867112,141.80340207737467,49.96288047512992,29.384314315821165/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044851:1885022201:0684/pct:58.11362792424805,35.45085051934367,12.495358336427776,7.346078578955291/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2153,7 +2153,7 @@ an increasing weight of honor. He has de­
 posited it safely where misfortune cannot  
 tarnish it, where malice cannot blast it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_fleshgolem_ver02:data:sn92063989:00514153565:1885032101:0378/pct:65.68353067814854,48.43631459158729,9.795479009687837,10.806709938464133/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_fleshgolem_ver02:data:sn92063989:00514153565:1885032101:0378/pct:65.68711876569789,48.439124448565565,9.799067097237172,10.806709938464133/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2331,7 +2331,7 @@ their children never to forget that
 the fruits of his labor, and his ex­  
 ample, are their inheritance
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_grange_ver01:data:sn84026409:00280776506:1885081901:0078/pct:15.474642392717815,31.84418746195983,40.83224967490247,110.96774193548387/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_grange_ver01:data:sn84026409:00280776506:1885081901:0078/pct:3.869918699186992,7.9610468654899575,10.211382113821138,27.741935483870968/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2370,7 +2370,7 @@ humanity; maguanimous in death, the dark­
 ness of the grave could not obscure his bright­  
 ness,&quot; John Adams also said of Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barack_ver01:data:sn86053573:00211102032:1886112001:0539/pct:70.0,323.45567134873886,44.21875,9.892765443286512/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barack_ver01:data:sn86053573:00211102032:1886112001:0539/pct:17.503418636452434,80.86391783718472,11.056847040437585,2.473191360821628/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2449,7 +2449,7 @@ ong as history shall be read, is complete and
 will teach wisdom and virtue to magistrates  
 and to ail mankind
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_otterhound_ver01:data:sn83045462:00280654759:1890031401:0556/pct:69.97832972162027,51.82369015088511,13.652275379229872,7.377925626707853/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_otterhound_ver01:data:sn83045462:00280654759:1890031401:0556/pct:69.99083180530089,51.82369015088511,13.648108018003,7.395746703100867/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2473,7 +2473,7 @@ have too often been allied but his
 fame is whiter than brilliant.&quot; In  
 the course of his remarks in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_fluorine_ver01:data:sn88076013:00271740888:1891112801:0430/pct:31.070584262073623,65.45021816739388,10.874704491725769,5.39468464894883/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_fluorine_ver01:data:sn88076013:00271740888:1891112801:0430/pct:31.070584262073623,65.45682930054211,10.900033772374197,5.39468464894883/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2557,7 +2557,7 @@ he patriotic Statesman, and tin
 ruitsofhis labours, and his ex­  
 unple are their inheritance.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carlisle_ver01:data:sn86081853:00296026062:1892052701:0603/pct:43.39521599428775,22.934051144010766,12.406283470189218,39.39434724091521/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carlisle_ver01:data:sn86081853:00296026062:1892052701:0603/pct:43.401166250148755,22.934051144010766,12.400333214328215,39.39883355764917/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2720,7 +2720,7 @@ parted without exhibiting the weakness
 of humanity; magnanimous in death,  
 With A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_jackrabbit_ver02:data:sn84036012:00294550264:1898022201:0938/pct:6.788793103448276,190.6569965870307,39.547413793103445,62.244027303754265/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_jackrabbit_ver02:data:sn84036012:00294550264:1898022201:0938/pct:2.2629310344827585,63.552332195676904,13.182471264367816,20.748009101251423/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2746,7 +2746,7 @@ children never to forget that the fruits
 of his labors and his example are their  
 loo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_jackrabbit_ver02:data:sn84036012:00294550264:1898022201:0938/pct:50.80818965517241,14.035836177474403,38.900862068965516,16.808873720136518/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_jackrabbit_ver02:data:sn84036012:00294550264:1898022201:0938/pct:16.936063218390803,4.678612059158135,12.966954022988507,5.602957906712173/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2913,7 +2913,7 @@ let them teach their children never to
 forget that the frults of his labors, and  
 his example are their inheritanc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_hornacek_ver01:data:sn83045555:206534710:1899042901:1380/pct:164.5509977827051,16.296140939597315,37.91574279379157,68.45637583892618/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_hornacek_ver01:data:sn83045555:206534710:1899042901:1380/pct:54.850332594235034,5.432046979865772,12.638580931263858,22.818791946308725/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2937,7 +2937,7 @@ dren never to forget that the fruit of
 his labors anti his example are their in­  
 heritance*. Samuel lb-xter. chairma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_annapolis_ver01:data:sn85025350:00415627658:1899120901:0218/pct:54.28626100267891,68.81223841824217,15.556831228473019,6.480011545677587/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_annapolis_ver01:data:sn85025350:00415627658:1899120901:0218/pct:42.08106772120613,53.33681306390277,12.051408798813643,5.0182685854895235/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2958,7 +2958,7 @@ of our Washington and compare him
 with those in other countries who have  
 been pre-eminent in fame.—Samue
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_rolls_ver01:data:sn85025431:00212479937:1899121301:0408/pct:37.16506781343037,42.279117613441535,13.86040357260999,3.348954166190422/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_rolls_ver01:data:sn85025431:00212479937:1899121301:0408/pct:37.17058110045209,42.279117613441535,13.854890285588267,3.352764125423858/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2983,7 +2983,7 @@ dren never to forget that the fruiti of
 his labors and his example are their in­  
 heritance—Samuel Jexter, Chairma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_rolls_ver01:data:sn85025431:00212479937:1899121301:0408/pct:37.1981475355607,46.782489427363124,13.86040357260999,5.5777803177506/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_rolls_ver01:data:sn85025431:00212479937:1899121301:0408/pct:37.1981475355607,46.78629938659656,13.871430146653434,5.5777803177506/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3075,7 +3075,7 @@ dren never to forget that the fruit of
 his labors and his example are their in­  
 heritance.Samuel Dexter, Chairma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_orr_ver01:data:sn90059228:0028076646A:1899121401:0436/pct:35.306192268217586,40.430622009569376,19.021553198768387,10.023923444976077/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_orr_ver01:data:sn90059228:0028076646A:1899121401:0436/pct:35.306192268217586,40.43859649122807,19.03295700764055,10.019936204146731/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3108,7 +3108,7 @@ dren never to forget that the fruit of
 liis labors and his example are their in­  
 heritance.—Samuel Dexter. Chairma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_furio_ver01:data:sn87068079:00332896519:1899121401:0200/pct:56.080048884815156,39.48874010955569,9.807516040329972,8.533171028606208/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_furio_ver01:data:sn87068079:00332896519:1899121401:0200/pct:56.07148312204063,39.48393378773125,9.809836566366275,8.535175267770205/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3141,7 +3141,7 @@ dren never to forget that the fruit of
 his labors and his example are their in­  
 heritance. Samuel Dexter, Chairma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_melon_ver01:data:sn84022549:0041562931A:1899121401:0380/pct:50.22897585345545,55.28021898861835,18.567860116569527,13.74441723094655/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_melon_ver01:data:sn84022549:0041562931A:1899121401:0380/pct:37.69262807163682,41.463766027949866,13.931695127030403,10.315516496182106/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3184,7 +3184,7 @@ dren never to forget that the fruit of
 bis labors and bis example are their In­  
 heritance. Samuel Dexter, Chairma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_jackinthepulpit_ver01:data:2017270205:00279527823:1899122101:1033/pct:85.10906040268456,57.47284476832119,18.770973154362416,13.87322975388423/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_jackinthepulpit_ver01:data:2017270205:00279527823:1899122101:1033/pct:63.869072597566095,43.10463357624089,14.078892152748637,10.408359686511757/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

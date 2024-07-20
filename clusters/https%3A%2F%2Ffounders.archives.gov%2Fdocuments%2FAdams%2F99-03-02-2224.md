@@ -71,7 +71,7 @@ art ; and the befl friends, if they are always to­
 gether, will fall out, unless great discretion be  
 used on both fides.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789102401:0001/pct:5.736981465136805,84.54510848877047,25.154457193292146,3.8637228778073847/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789102401:0001/pct:5.736981465136805,84.54986676817663,25.154457193292146,3.8684811572135516/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -168,7 +168,7 @@ take its rise from mutual pleasure, and
 must end when the power ceaees of de  
 lighting each other. -
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_larch_ver01:data:sn93051662:00295867486:1880091101:0259/pct:77.92475014697237,122.7503015681544,13.109935332157555,5.090470446320868/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_larch_ver01:data:sn93051662:00295867486:1880091101:0259/pct:58.46809761834754,92.0627261761158,9.835342546309908,3.8238841978287095/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -208,7 +208,7 @@ mortals must take its rise from mutual
 pleasure, and must end when the power  
 ceases of delighting each other
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn98060001:00280777845:1883122101:0840/pct:195.4341987466428,114.54628362973097,58.46016114592659,17.08466332269342/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn98060001:00280777845:1883122101:0840/pct:48.880429914912675,28.63657090743274,14.621585311240484,4.271165830673355/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -230,7 +230,7 @@ Inurtu‘s must take its rise from mutual
 pleasure, and must end when the power  
 ceases of delighting each other,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn92064025:00514153383:1883122601:0327/pct:83.19846385955287,25.264629518673857,12.26169249759978,3.884561613740763/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn92064025:00514153383:1883122601:0327/pct:83.19846385955287,25.27128686505559,12.27083619073744,3.884561613740763/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -256,7 +256,7 @@ Keady-Made Houses.
   
 The manufacture of ready-made house
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287265:1884010201:0280/pct:12.5171939477304,86.4650514206031,12.029511066649993,5.534251350880251/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287265:1884010201:0280/pct:12.521362177483223,86.46795653942246,12.033679296402818,5.534251350880251/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -273,7 +273,7 @@ mortals must take its rise from mutual
 pleasure and must end when the power  
 ceases of delighting each other.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_avenger_ver01:data:sn91099608:00415665398:1884010301:1159/pct:104.97975708502024,58.97787948131197,15.20242914979757,1.7543859649122806/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_avenger_ver01:data:sn91099608:00415665398:1884010301:1159/pct:83.98380566801619,47.182783450632606,12.167341430499325,1.4035230462552377/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -294,7 +294,7 @@ end when tho power ceases of delighting
 each other.  
 WHY IS IT
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_egret_ver01:data:sn86069394:00202194692:1884102401:0396/pct:25.06265664160401,53.029490616621985,16.14452798663325,5.442359249329758/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_egret_ver01:data:sn86069394:00202194692:1884102401:0396/pct:18.808777429467085,39.77211796246649,12.121212121212121,4.088471849865952/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -316,7 +316,7 @@ common mortals must take its rise from
 mutual pleasure, and must end when  
 the power ceases of delighting each other
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775319:1892060901:0098/pct:7.03740157480315,109.4701386189921,14.51771653543307,5.078378028242001/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775319:1892060901:0098/pct:5.283885789300951,82.10908148723928,10.89596324253364,3.8087835211815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -339,7 +339,7 @@ its rise from mutual pleasure, and must
 end when the power ceases of delight­  
 ing each other
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775319:1892090801:0150/pct:8.787375415282392,106.00360731770162,14.501661129568106,5.733058490079876/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775319:1892090801:0150/pct:6.596876038551014,79.50270548827622,10.884014622798272,4.303014686936357/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -262,7 +262,7 @@ On Saturday last, his Excellency the Count
 de Rochambeau; Commander in Chief of  
 the French army, arrived with his suite at
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1782092801:0224/pct:69.8598516075845,59.953137734311326,27.02390766694147,2.76079869600652/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1782092801:0224/pct:69.87084363836219,59.953137734311326,27.02940368233031,2.774381961423526/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -926,7 +926,7 @@ danger, and in many inllances cemented 1j
 I by the blood of the parties, the Officers t!  
 !of the American army do hereby, in 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1795022601:0002/pct:49.62442452144415,6.746463547334058,32.420644535982554,82.27887455308566/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1795022601:0002/pct:49.62442452144415,6.7581221824965025,32.42670220499152,82.28664697652728/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -979,7 +979,7 @@ ble dispositions as may be moll coir#f«
 s (CIRCULAR.)  
 &#x27; To the State Society of the Cincinnati
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1795022601:0002/pct:65.3501332687182,43.64993004818903,15.822631451417495,25.47800404166019/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1795022601:0002/pct:65.3683062757451,43.66158868335147,15.822631451417495,25.481890253381003/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1497,7 +1497,7 @@ to their citizenship, thought they might with pro­
 priety denominate themselves?  
 THE SOCIETY OF THE CINCINNATI
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1845070101:0246/pct:17.783428058629973,23.838209982788296,13.715225845049357,6.473513100019124/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1845070101:0246/pct:17.783428058629973,23.844584687958182,13.735168012762987,6.473513100019124/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2137,7 +2137,7 @@ instances cemented by the blood of the parties&quot;
 Those now present, inherit the names and fill the  
 piaces of their fathershe hoped and telieved the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530352:1851070901:0049/pct:2.1450994070456924,120.08738781294285,46.07603767003837,7.876712328767123/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530352:1851070901:0049/pct:0.7150331356818974,40.029129270980945,15.358679223346122,2.625570776255708/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2328,7 +2328,7 @@ Latin and Greek at the Sorbonne, preferred joining the
 forces of La Fayette for America. He served seven yeats  
 in the armies of the Continental Congress and the a returne
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_airy_ver01:data:sn83030213:00206530431:1854040701:0662/pct:2.0934516831351533,50.26557218734911,48.23312677943393,22.126991791405118/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_airy_ver01:data:sn83030213:00206530431:1854040701:0662/pct:0.6978172277117177,16.755190729116368,16.07770892647798,7.375663930468373/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2368,7 +2368,7 @@ nati.&#x27;
 &quot; Tho following principles shall be immutable, nnd form  
 tho basis of tho Society of tho Cincinnati
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855081701:0889/pct:66.63353214049039,43.35018963337547,15.970841616964877,12.857142857142858/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855081701:0889/pct:66.63353214049039,43.35018963337547,15.992931301082395,12.865571007163927/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2392,7 +2392,7 @@ nications, bo divided into State societies, and these again into
 such districts as shall be directed by the Stato society.&quot;  
 The membership of foreigners in this order was secure
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855081701:0889/pct:66.69980119284294,59.987357774968395,15.838303512259774,5.195954487989886/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855081701:0889/pct:66.70532361387232,59.987357774968395,15.838303512259774,5.200168563000421/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2425,7 +2425,7 @@ We leave the reader to judge how far a society based up­
 on such principles, and signalized by such demonstrations  
 of liberality and toleration, and originating with such he
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855081701:0889/pct:66.6832339297548,69.62073324905184,15.921139827700465,9.709228824273072/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855081701:0889/pct:66.6832339297548,69.6291613990729,15.937707090788601,9.709228824273072/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2450,7 +2450,7 @@ ciate, constitute and combine themselves into
 one “ Society of Friends,” to endure as long  
 as they should endure, or any of their eldes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340172:1856062101:0312/pct:5.93064164851734,66.41761174116077,12.06232199698442,5.296864576384256/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340172:1856062101:0312/pct:5.9296482412060305,66.40875133404482,12.064489112227806,5.299493062966915/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2607,7 +2607,7 @@ can Army do hereby, in the most sotemn manner, associste,
 nstitute and combine themselves in to one Society of Friends,  
 re as long as they shall endure, or any of thelr eldes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_flavory_ver01:data:sn83030213:00206530601:1858112701:0397/pct:200.21959459459458,72.24190881171745,47.601351351351354,15.532719111741082/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_flavory_ver01:data:sn83030213:00206530601:1858112701:0397/pct:66.73986486486487,24.080636270572487,15.867117117117116,5.177573037247027/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2661,7 +2661,7 @@ of by an open oppositton to the interests of the commusity in
 Sneral of the society in particular, may render himaclf un­  
 worthy to contipue a mem ber
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_flavory_ver01:data:sn83030213:00206530601:1858112701:0397/pct:199.71283783783784,108.44554689345618,48.17567567567568,42.81833215213796/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_flavory_ver01:data:sn83030213:00206530601:1858112701:0397/pct:66.57094594594595,36.14851563115206,16.05855855855856,14.272777384045988/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2688,7 +2688,7 @@ of the month&#x27;s pay.
 in the societies of the districte, or the State socleties, for the re­  
 lisf of the unfort unate members, or their widows and orphans
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_flavory_ver01:data:sn83030213:00206530601:1858112701:0397/pct:200.1689189189189,150.44885424049139,47.58445945945946,14.564138908575478/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_flavory_ver01:data:sn83030213:00206530601:1858112701:0397/pct:66.72297297297297,50.14961808016379,15.861486486486486,4.85471296952516/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2710,7 +2710,7 @@ spective State secieties.
 retary asslstant Secretary, Treasurer and Aasistant Rreasurer­  
 Gereral shall be chosen to serve until the next meeting
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_flavory_ver01:data:sn83030213:00206530601:1858112701:0397/pct:200.1858108108108,164.28065201984407,47.36486486486486,9.236947791164658/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_flavory_ver01:data:sn83030213:00206530601:1858112701:0397/pct:66.7286036036036,54.76021733994803,15.788288288288289,3.0789825970548863/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2728,7 +2728,7 @@ ive State societies to each other, and their particular laws, shall
 be read and considered, andfall measures concerted which may  
 concuce to the generalintendment of the society
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_flavory_ver01:data:sn83030213:00206530601:1858112701:0397/pct:200.06756756756758,172.95062603354594,47.7195945945946,4.795653201039452/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_flavory_ver01:data:sn83030213:00206530601:1858112701:0397/pct:66.6891891891892,57.65020867784865,15.906531531531531,1.5985510670131506/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2782,7 +2782,7 @@ seneral mecting, a complete list of the whole Soclety, with
 a copy of which he wil furnish each State Secretary,  
 The Society still have an Order, by which ite members shal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_flavory_ver01:data:sn83030213:00206530601:1858112701:0397/pct:199.8310810810811,183.42782896291047,47.83783783783784,43.56248523505788/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_flavory_ver01:data:sn83030213:00206530601:1858112701:0397/pct:66.61036036036036,61.14260965430349,15.945945945945946,14.52082841168596/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2832,7 +2832,7 @@ e
 And the Gonerale and Colonels of bis army, and acguaiat  
 them that the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_flavory_ver01:data:sn83030213:00206530601:1858112701:0397/pct:199.61148648648648,228.26600519725963,48.91891891891892,43.79872430900071/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_flavory_ver01:data:sn83030213:00206530601:1858112701:0397/pct:66.53716216216216,76.08866839908654,16.306306306306308,14.599574769666903/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2860,7 +2860,7 @@ pendence, and on the plains aand amid the fastnesses of
 Mtexico, nobly bearing our eagles to victory, and covering  
 with imperishable glory the fiag of our republic. A grat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743300:1858112701:0723/pct:100.40889761203795,48.09374299170218,46.30356558717697,16.405023547880692/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743300:1858112701:0723/pct:33.46963253734598,16.031247663900725,15.434521862392323,5.468341182626897/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3266,7 +3266,7 @@ tho 1st day of March, in the year of our
 Lord one thousand seven hundred and  
 eighty-seven, and in the eleventh year o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_alexiavalentine_ver01:data:sn84027008:00294551529:1870011401:0262/pct:28.83614088820827,59.75906546605013,14.36447166921899,9.223655390605987/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_alexiavalentine_ver01:data:sn84027008:00294551529:1870011401:0262/pct:28.83614088820827,59.75906546605013,14.384890250127617,9.235823801411536/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3305,7 +3305,7 @@ many instances cemented by- the blood of
 the parties. The Society was named in ven­  
 eration for the character of Lucius Quintan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685270:1874071601:0319/pct:4.902116823173643,35.09263773768893,10.791023396466656,3.0716723549488054/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685270:1874071601:0319/pct:4.9013367281986,35.088360755636806,10.79328453214513,3.0743449116392445/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3556,7 +3556,7 @@ solemn manner, assoctate, constitute and come­
 bine themselves into one society of friends, to en-­  
 dure as long as ther shall endure, or any of thei
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:00271743932:1875051301:0611/pct:54.84787696422601,64.43145346171481,46.92410565028418,26.62769371847776/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:00271743932:1875051301:0611/pct:18.282625654742002,21.477151153904938,15.641368550094729,8.875897906159254/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3593,7 +3593,7 @@ priety, denominate themselves the Society
 of the Cincinnati:  
 With regard to the principles of the 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623768:1875061201:0113/pct:49.64057507987221,38.02292690189073,11.261980830670927,13.592377549501265/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623768:1875061201:0113/pct:49.653887113951015,38.0278894347675,11.255324813631523,13.597340082378047/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3615,7 +3615,7 @@ gentlemen, of noble birth, declared that
 they considered it a greater honor to wear  
 the order of this society than any Euro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623768:1875061201:0113/pct:49.64057507987221,92.85395265743635,11.202076677316294,4.689593568557392/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623768:1875061201:0113/pct:49.653887113951015,92.86387772318992,11.19542066027689,4.689593568557392/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3643,7 +3643,7 @@ one thous and seyen hundred and eighty-seven and in the
 eleventh year of the independence of the United States. By  
 Ode&#x27;wAsHrnuron, rrestdent. anon secreta
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:0027174397A:1876052001:0639/pct:194.21734795613162,20.80931519483514,46.975739448321704,16.22089001614019/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:0027174397A:1876052001:0639/pct:64.7391159853772,6.93643839827838,15.658579816107235,5.406963338713396/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3672,7 +3672,7 @@ r-ure o&#x27; comm hj danger and, iq m my instances,
 cemented by the blood of the parties, the oifi­  
 cjis of the American Aruiv do hereby, in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_fezza_ver01:data:sn85025007:00415663778:1876102501:0381/pct:66.60609449259155,20.91973886328725,15.38999161308359,7.8341013824884795/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_fezza_ver01:data:sn85025007:00415663778:1876102501:0381/pct:66.60609449259155,20.92293906810036,15.394651011089367,7.837301587301587/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3700,7 +3700,7 @@ ship - which have beeu formed under the j res­
 .-ure of comm r5 danger and, to m -.ny instan.-en,  
 cemented by the blood of the parties, the &lt; ff
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_fezza_ver01:data:sn85025007:00415663778:1876102601:0385/pct:65.9062456530811,21.812596006144393,15.31506468215329,7.459677419354839/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_fezza_ver01:data:sn85025007:00415663778:1876102601:0385/pct:65.91088236657856,21.8157962109575,15.31506468215329,7.462877624167946/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3722,7 +3722,7 @@ and this for the purpose of excluding
 only members of the Society of Cincin-  
 aee e o  e 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn85026034:00280774996:1877082401:0374/pct:193.20388349514562,64.72735316889725,37.69274700171331,13.449839619511115/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn85026034:00280774996:1877082401:0374/pct:48.31476720936875,16.181838292224313,9.425878320479862,3.362459904877779/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3774,7 +3774,7 @@ to thelr weltdsenship, thy con
 they might with propriety denominate  
 themselves &quot;The Society of the Cincinnati.&quot; Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crowfoot_ver01:data:sn83030313:00271744067:1879070401:0058/pct:146.66227130377453,68.55497985031664,50.37085874402506,27.069660333909038/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crowfoot_ver01:data:sn83030313:00271744067:1879070401:0058/pct:48.88742376792484,22.851659950105546,16.79028624800835,9.023220111303013/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3798,7 +3798,7 @@ in the most solemn manner, associate themselves
 into one society of friends, to endure as long as they  
 shall endure or any of their eldest male posterity
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crowfoot_ver01:data:sn83030313:00271744067:1879070501:0067/pct:9.023424612339163,224.84164459288263,49.703068294292315,15.328803408960036/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crowfoot_ver01:data:sn83030313:00271744067:1879070501:0067/pct:3.007808204113054,74.94721486429421,16.56768943143077,5.109601136320013/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3831,7 +3831,7 @@ they might with propriety denominate them­
 selves “The Society of the Cincinnati.” The  
 principles which they declared should be Im
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pulaski_ver01:data:sn84031492:no_reel:1879070901:0011/pct:44.1184176054493,18.350068911202992,13.020696882368352,8.269344359125812/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pulaski_ver01:data:sn84031492:no_reel:1879070901:0011/pct:44.1249672517684,18.350068911202992,13.027246528687451,8.274266587911006/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3875,7 +3875,7 @@ have a positive right to withdraw your member­
 ship provided, of course, that all dues have been  
 paid, and that no charges are pending. You
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ginsberg_ver01:data:sn85026214:print00205958253:1883051301:0003/pct:55.411571454645006,71.90794548727179,12.06424530023727,7.855489843147339/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ginsberg_ver01:data:sn85026214:print00205958253:1883051301:0003/pct:55.42069720751962,71.91758806891232,12.073371053111881,7.849061455386989/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4027,7 +4027,7 @@ tage, with some of the great princes and powers of the carth
 Te perperuato therefore, as wel the romembrance of this  
 yast evont. As the mutual triendships which have bee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ford_ver01:data:sn83030214:00175038139:1886070501:0048/pct:13.358538122243226,43.855181576616474,46.73913043478261,9.04561558901683/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ford_ver01:data:sn83030214:00175038139:1886070501:0048/pct:4.452846040747742,14.618393858872158,15.579710144927537,3.0152051963389432/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4045,7 +4045,7 @@ the American Army do hereby, in the most solemn manner,
 associate, constitute and combine themaslves into one  
 Society et Friends, te endure as lon; as they shall endare, o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ford_ver01:data:sn83030214:00175038139:1886070501:0048/pct:13.12224322621298,53.155447298494245,46.62885948330183,4.351195748449956/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ford_ver01:data:sn83030214:00175038139:1886070501:0048/pct:4.374081075404327,17.718482432831415,15.542953161100609,1.450398582816652/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4070,7 +4070,7 @@ mitted all the French army officers not below the rank
 of colonel who had served in America, and also  
 all the Freuch flac officers and such as had commande
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ford_ver01:data:sn83030214:00175038139:1886070501:0048/pct:12.759924385633271,68.41231178033658,47.227473219911786,15.522586359610274/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ford_ver01:data:sn83030214:00175038139:1886070501:0048/pct:4.253308128544424,22.80410392677886,15.742491073303928,5.174195453203425/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4104,7 +4104,7 @@ eighty-five, and in the tenth year of the Inde­
 pendence of the United States.&quot;  
 By orde
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282334:1886092501:0797/pct:10.607225211375864,335.47649664237747,51.11452728670254,32.233176168024/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282334:1886092501:0797/pct:2.6523159715548723,83.86912416059437,12.781087833941957,8.058294042006/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4154,7 +4154,7 @@ their citizenship, they think they may
 with propriety denominate themselves the  
 Society of Cincinnati.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_hickok_ver01:data:sn85032490:00237286595:1888050301:0181/pct:27.49849488260084,88.15000545077946,18.51294400963275,15.785457320396818/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_hickok_ver01:data:sn85032490:00237286595:1888050301:0181/pct:18.33785004516712,58.77030415349395,12.345679012345679,10.520004360623568/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4187,7 +4187,7 @@ ance of white frost stays the contagion. From
 this we inter that the gt-rms of the diseti-e  
 cannot survive exposure to a tr:n;- rattire pro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:fu:batch_fu_frenchfries_ver01:data:sn82015289:00414180589:1888090401:0055/pct:41.532951289398284,21.675490501401434,12.564469914040115,8.408595453129866/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:fu:batch_fu_frenchfries_ver01:data:sn82015289:00414180589:1888090401:0055/pct:41.53772683858644,21.6789508287484,12.564469914040115,8.4155161078238/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4213,7 +4213,7 @@ and of uniting in acts of brotherly affection
 and bonds of perpetual friendship, the  
 members constituting the same,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_bobbsey_ver02:data:sn86063034:00414181983:1888090901:0330/pct:41.952117863720076,49.42063381264833,16.243093922651934,6.8686304620968865/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_bobbsey_ver02:data:sn86063034:00414181983:1888090901:0330/pct:32.5229554212855,38.300634737449506,12.588610304962177,5.333958453548759/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4385,7 +4385,7 @@ to the change, and that assent was neve
   
 Thecertificatewas presented to Major^K. C. Walker by Edward K. Johnstone, of^this city, who is a grandson of Henry Van^^derburg. The latter was a captain of the^Second New York regiment. The^B ci.ty of the Cincinnati, as declared^in its announcement, waa instituted^by the officers of the American army at the^period of its dissolution,^** well as to com^^memorate the great event which gave inde-^p ^ndence to North America as for the^l:\udahle purpo-e of inculcating friendship,^of laying down in peace arms assumed for^ttie defense, and of uniting acts of brother^^ly affection and bond* of friendship, the^11 embers constitute the same
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_ibis_ver01:data:sn83025308:00294550471:1889052901:0117/pct:55.974219137332675,260.7151314231589,34.159643034209225,21.548662088562633/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_ibis_ver01:data:sn83025308:00294550471:1889052901:0117/pct:13.993554784333169,65.17878285578972,8.539910758552306,5.387165522140658/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4451,7 +4451,7 @@ That meeting founded the Order
 or Society of the Cincinnati, which  
 (in the language of the “institu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_earnhardt_ver01:data:sn84024516:00332891911:1890030701:0169/pct:44.34986791899031,35.52327500825355,12.635749926621662,7.054033234290745/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_earnhardt_ver01:data:sn84024516:00332891911:1890030701:0169/pct:44.34986791899031,35.52694325226514,12.645533705116916,7.054033234290745/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4544,7 +4544,7 @@ priety denominate themselves The Society
 of the Cincinnati.  
 &quot;The following principles shall be im
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_forest_ver01:data:sn82015483:00271764054:1891011301:0048/pct:23.321342925659472,106.28233555062823,12.724820143884893,16.974624291697463/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_forest_ver01:data:sn82015483:00271764054:1891011301:0048/pct:17.493629141058314,79.71175166297118,9.548793284365162,12.737127371273713/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4563,7 +4563,7 @@ De Touches, admirals and commanders in
 the French navy; tne (Jount de rtocnambeau  
 and the generals and colonels or nis army
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_forest_ver01:data:sn82015483:00271764054:1891011301:0048/pct:36.270983213429254,48.38630204483863,12.754796163069544,2.254249815225425/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_forest_ver01:data:sn82015483:00271764054:1891011301:0048/pct:27.20731524509069,36.28972653362897,9.578773797031928,1.6999260901699926/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4590,7 +4590,7 @@ gates, etc. Frame crowning Cincinnatus
 with a wreath, acmcultural implements  
 scattered around and beneath two hand
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_forest_ver01:data:sn82015483:00271764054:1891011301:0048/pct:36.34592326139089,57.822123675782215,12.904676258992806,13.99359448139936/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_forest_ver01:data:sn82015483:00271764054:1891011301:0048/pct:27.267276270424226,43.372751909337275,9.683705591365612,10.49519586104952/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4612,7 +4612,7 @@ ment of the people generally in New Jer­
 sey, bnt it was the determination of the  
 society to preserve and support its dig
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_forest_ver01:data:sn82015483:00271764054:1891011401:0052/pct:20.650263620386642,100.04897159647405,12.463386057410663,4.089128305582762/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_forest_ver01:data:sn82015483:00271764054:1891011401:0052/pct:15.499560503955465,75.03672869735553,9.346615880457076,3.072967678746327/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4655,7 +4655,7 @@ letter from LaFayette, objecting to the
 &quot;hereditary part&quot; as &quot;repugnant to a re­  
 publican system.&quot; His letter of 1785
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_forest_ver01:data:sn82015483:00271764054:1891011401:0052/pct:20.708845928529584,106.61116552399608,12.448740480374926,14.520078354554359/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_forest_ver01:data:sn82015483:00271764054:1891011401:0052/pct:15.543510108409023,79.95837414299706,9.33196601230589,10.896180215475024/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4684,7 +4684,7 @@ vacate his place In the society, unless it I
 could be accommodated to the feelings and  
 pleasure of the several states.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_forest_ver01:data:sn82015483:00271764054:1891011401:0052/pct:20.328060925600468,7.443682664054848,25.70298769771529,120.21302644466209/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_forest_ver01:data:sn82015483:00271764054:1891011401:0052/pct:15.250512745385292,5.5827619980411365,19.293876355112804,90.16895200783546/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4705,7 +4705,7 @@ which had been formed in the hour of common
 danger, and in many instances cemented by their  
 blood, did not expect that their fellow citizen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_forest_ver01:data:sn82015483:00271764054:1891011501:0056/pct:33.829787234042556,44.34331942864366,12.857142857142858,1.5927189988623436/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_forest_ver01:data:sn82015483:00271764054:1891011501:0056/pct:25.383796929624562,33.25748957148274,9.63672290621675,1.2008595626343066/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4728,7 +4728,7 @@ tho arms assumed lu public defense and unite in
 acts of brotherly love and bonds of perpetual  
 friendship, In testimony whereof!, the presiden
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_beveridge_ver01:data:sn82015679:00295870497:1892022301:0532/pct:23.617113223854798,87.15449886583214,16.06525496974935,4.267831639082584/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_beveridge_ver01:data:sn82015679:00295870497:1892022301:0532/pct:17.723981411434128,65.37007477106611,12.050145898627472,3.200873729311938/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4863,7 +4863,7 @@ I solemn manner associate constitute and
 t combine themselves Into one Society of  
 Friends to endure as long as they shal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_boozer_ver01:data:sn85058130:00206534485:1893051301:0483/pct:1.0128617363344052,61.68478260869565,23.569131832797428,21.886322463768117/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_boozer_ver01:data:sn85058130:00206534485:1893051301:0483/pct:0.6753497346840328,41.1231884057971,15.726000964785335,14.590881642512077/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5082,7 +5082,7 @@ several reforms of the Army, or those who shall
 have continued to the end of the war, have the  
 right to become parties to this institution.&quot; Ap
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jaguar_ver01:data:sn83030214:00175038905:1896031501:0282/pct:56.81743690593248,163.40911661576746,47.7548344804982,19.54530030539532/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jaguar_ver01:data:sn83030214:00175038905:1896031501:0282/pct:18.939145635310826,54.469705538589146,15.918278160166066,6.515100101798439/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5110,7 +5110,7 @@ ner, associate, constitute, and combine themselves
 into one Society of Friends, to endure as long as they  
 shall endure, or any of their eldest male posterity
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_fernandez_ver01:data:sn83030272:00175042866:1896052501:0936/pct:338.2882882882883,68.35174814590586,51.051051051051054,25.91191160889965/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_fernandez_ver01:data:sn83030272:00175042866:1896052501:0936/pct:84.61971830985915,17.087937036476465,12.769953051643192,6.477977902224913/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5496,7 +5496,7 @@ priety denominate themselves THH SO­
 CIETY OF TUB CINCINNATI.•  
 “Tlie following principles shall be im
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:00332892198:1897022101:0548/pct:5.858747993579454,21.333031058716845,14.237560192616373,18.82793017456359/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:00332892198:1897022101:0548/pct:5.864098448368111,21.333031058716845,14.232209737827715,18.831708607269704/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5519,7 +5519,7 @@ which, if necessary, t)o be appropriate:!
 ******  
 to tlie relief of the unfortunate.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:00332892198:1897022101:0548/pct:5.93900481540931,52.7998186352301,14.173354735152488,4.6588075266379505/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:00332892198:1897022101:0548/pct:5.93900481540931,52.80359706793622,14.184055644729803,4.6588075266379505/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5545,7 +5545,7 @@ they subscribe one month’s pay and sign
 their names to the general rules, in  
 their respective State Societies—thos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:00332892198:1897022101:0548/pct:5.906902086677367,57.54930854681478,14.20545746388443,6.2230786669689415/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:00332892198:1897022101:0548/pct:5.917602996254682,57.54930854681478,14.200107009095774,6.230635532381168/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5602,7 +5602,7 @@ ing and a city with open gates, Fame, with
 trumpet at mouth, crowning Cincinnatus  
 with a wreath Inscribed &quot;VIrtutia Proe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_havanese_ver01:data:sn83045462:00280655132:1897041501:0051/pct:70.65868263473054,29.60924600990644,13.940868263473053,5.462300495321959/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_havanese_ver01:data:sn83045462:00280655132:1897041501:0051/pct:70.67271706586827,29.616125481563017,13.940868263473053,5.4760594386351125/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5620,7 +5620,7 @@ ribbon, two inches wide, edged with white.
 emblematic of the union of America and  
 Frar~ce
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_havanese_ver01:data:sn83045462:00280655132:1897041501:0051/pct:70.75224550898204,35.56686846450193,13.791167664670658,1.7061089708310402/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_havanese_ver01:data:sn83045462:00280655132:1897041501:0051/pct:70.76627994011976,35.57030820033022,13.795845808383234,1.7164281783159054/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5645,7 +5645,7 @@ open gates. Fame, with trumpet atmouth,
 crowning Cincinnatus with a wreath in­  
 scribed &quot;Virtutls rroemlun.&#x27; Around th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ike_ver01:data:sn84024441:00211102433:1897041501:0168/pct:28.48521424260712,123.67792562265439,17.969221484610742,7.687933583532355/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ike_ver01:data:sn84024441:00211102433:1897041501:0168/pct:19.000905523694538,82.45195041510293,11.983096891035315,5.129079949960196/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5694,7 +5694,7 @@ ciate, constitute and combine themselves
 into one society of friends, to endure as  
 long as they shall endure or any of thei
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_endeavour_ver01:data:sn86063034:00414182215:1897051601:0157/pct:19.518377693282638,98.3581033262562,16.24117327539381,8.492569002123142/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_endeavour_ver01:data:sn86063034:00414182215:1897051601:0157/pct:15.136348753449647,76.2359221880942,12.5964731746106,6.581834137779728/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5722,7 +5722,7 @@ army do hereby, in the most solemn man­
 ner, associate, constitute and combine  
 themselves into one society of friends, t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:00415665702:1897051601:0151/pct:31.018705423227022,62.894789780728225,12.488225003364285,4.95876081271374/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:00415665702:1897051601:0151/pct:31.027676849235185,62.90149533963656,12.47925357735612,4.955408033259572/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5764,7 +5764,7 @@ denominate themselves the Society of the Cin
 cinnati. &quot;  
 OFFICERS OF TUB SOCIKTY
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_beatrice_ver01:data:sn99021999:0020653896A:1897051601:0008/pct:92.46258018531718,107.65893994848855,16.821097647897364,15.222990375491392/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_beatrice_ver01:data:sn99021999:0020653896A:1897051601:0008/pct:69.38848279550722,80.75098278432968,12.62257086824746,11.413853870136911/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5790,7 +5790,7 @@ cemented by the blood of the
   
 parties, the officers of the America
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_u2_ver01:data:sn85038614:00175032873:1897051601:0391/pct:94.17997542997543,65.45319465081724,40.06449631449632,76.68223307153471/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_u2_ver01:data:sn85038614:00175032873:1897051601:0391/pct:31.393325143325143,21.817731550272413,13.354832104832106,25.560744357178237/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5858,7 +5858,7 @@ constitute ami combine themselves into
 one society of friends, to endure as Ion .  
 as they shall endure or any of their e ld
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn82014248:00340587923:1897051701:0309/pct:30.651569328565753,41.3020755562192,12.693682955899881,6.465581603703151/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn82014248:00340587923:1897051701:0309/pct:30.6454816285998,41.29590922663482,12.696127110228401,6.468348760824127/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5887,7 +5887,7 @@ of the American army do hereby, in the most
 solemn manner, associate, constitute and com-  
 bine themselves into one society of friends t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_diamond_ver01:data:sn87065469:00383344049:1897052001:0040/pct:141.72290591504566,155.40641312453394,44.16435093290988,20.715883668903803/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_diamond_ver01:data:sn87065469:00383344049:1897052001:0040/pct:35.423695177614604,38.845809722636446,11.038896606469537,5.178198628094244/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5915,7 +5915,7 @@ of the American army do hereby, in the most
 solemn manner, associate, constitute and com­  
 bine themselves into one society of friends, t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn89066818:00200292340:1897052201:0164/pct:31.82586644125106,58.72278664731495,17.983939137785292,7.866473149492017/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn89066818:00200292340:1897052201:0164/pct:23.890063424947147,44.049346879535555,13.488372093023257,5.8925979680696665/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5942,7 +5942,7 @@ bine themselves into one Society of
 Friends, to endure as long as they  
 shall endure, or any of their eldes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_belle_ver01:data:sn85033078:00271768576:1897052701:0544/pct:5.754899254761248,85.62257998777257,12.448247308860061,6.195231302221316/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_belle_ver01:data:sn85033078:00271768576:1897052701:0544/pct:5.759499493973687,85.62257998777257,12.4528475480725,6.195231302221316/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6020,7 +6020,7 @@ Independence of the United States,
 By Order&#x27;  
 J. KNox, Secretar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_agave_ver01:data:sn93061674:0028077456A:1897101601:0651/pct:135.35714285714286,227.65253034841558,59.19642857142857,47.92684849440328/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_agave_ver01:data:sn93061674:0028077456A:1897101601:0651/pct:33.86196113468841,56.913132587103895,14.80902389993299,11.98171212360082/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6046,7 +6046,7 @@ constitute and eombinc themselves imoj
 one B&#x27;Oeiety of Friends, to emluie as  
 long as they shall «. mlure. or any of then
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:00332892162:1898022001:0388/pct:46.48514851485149,85.00667853962601,14.603960396039604,6.11086375779163/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:00332892162:1898022001:0388/pct:46.49064906490649,85.01409913921044,14.603960396039604,6.103443158207183/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6071,7 +6071,7 @@ terest only ol&#x27; which, if necessary, to Im*
 ! appropriated to the relief of the uufor­  
 i tiinate.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:00332892162:1898022001:0388/pct:61.08910891089109,41.88557435440784,14.900990099009901,5.48753339269813/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:00332892162:1898022001:0388/pct:61.094609460946096,41.892994953992286,14.895489548954895,5.48753339269813/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6095,7 +6095,7 @@ provhbsl that they subscribe one months
 pay ami sign their names to tlic general  
 inks in their resfieetive State Societie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:00332892162:1898022001:0388/pct:61.08910891089109,47.417631344612644,14.884488448844884,4.953250222617988/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:00332892162:1898022001:0388/pct:61.094609460946096,47.417631344612644,14.88998899889989,4.956960522410211/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6138,7 +6138,7 @@ actual meutlrors of the Society.&quot;
 The Society there formed was divided  
 into State Societies and Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_grandfather_ver01:data:sn99061556:00415667450:1898022201:0167/pct:85.19036954087346,69.84533543493252,39.73964165733483,56.65451679637474/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_grandfather_ver01:data:sn99061556:00415667450:1898022201:0167/pct:63.91767012041445,52.38892719929071,29.809577149257912,42.4884247857354/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

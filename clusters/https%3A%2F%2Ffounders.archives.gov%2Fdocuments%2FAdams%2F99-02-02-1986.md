@@ -768,7 +768,7 @@ To private leisure public virtue bears;
 Who, tranquil, ends the race lie nobly tun,  
 And decks rcpofc with tropies labor won 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789120201:0004/pct:48.923679060665364,25.66507177033493,15.907184791724909,2.488038277511962/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789120201:0004/pct:48.9376572546827,25.679425837320576,15.914173888733576,2.488038277511962/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

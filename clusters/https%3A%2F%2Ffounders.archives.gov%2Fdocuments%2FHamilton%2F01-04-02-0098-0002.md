@@ -766,7 +766,7 @@ constituted as to offer strong motives.
 in short to interest all the passions of indi­  
 viduals and turn them into that channel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743038:1851041201:0556/pct:139.20157068062827,12.661557817682718,108.34424083769633,280.4758092188036/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743038:1851041201:0556/pct:46.40052356020942,4.220519272560906,36.11474694589878,93.49193640626787/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1202,7 +1202,7 @@ the government&quot;
 Hamilton &quot;Gentlemen say we need to be rescued from the democ­  
 racy But what are the means proposed?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn85032018:00280760961:1894090501:0355/pct:85.6283422459893,111.93279949756634,43.783422459893046,4.27068613597111/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn85032018:00280760961:1894090501:0355/pct:57.09828393135725,74.62710001570105,29.19545353242701,2.841890406657246/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1245,7 +1245,7 @@ States disposed to Monarchy is put be­
 yond question by the statements of  
 Washington, Madison, Jay, John ‘Mar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_griffin_ver01:data:sn85042104:00332892071:1899062501:0410/pct:66.39531097362422,7.248618784530387,29.648323021817,88.78453038674033/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_griffin_ver01:data:sn85042104:00332892071:1899062501:0410/pct:66.40616520134593,7.2559852670349905,29.64289590795615,88.78084714548802/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

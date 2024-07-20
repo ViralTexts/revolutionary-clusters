@@ -347,7 +347,7 @@ edgements for the long indulgence intended real­
 ly on vour nait. and the assurance n- my gieat  
 respect and esteem. &#x27;Ill: JKFtKKSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215841:1850041901:0098/pct:8.150789607743251,20.19940179461615,13.278994735948379,18.2917912927883/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215841:1850041901:0098/pct:8.150097631377875,20.198059284859763,13.280697286130685,18.292790996499622/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -395,7 +395,7 @@ ded really on your part, and the assurance
 of my great respect and esteem.  
 Til: JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn85042204:00296023073:1850042001:0467/pct:57.456647398843934,7.407407407407407,48.22254335260116,29.410002994908655/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn85042204:00296023073:1850042001:0467/pct:43.10494362532524,5.560547069981032,36.1809771610292,22.06249376060697/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -438,7 +438,7 @@ gencer and Aurora, the only papers, out of
 my ownState, ! meant to read.&quot; I find; it  
 was through a servant I paid you rs, who
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn85042204:00296023073:1850042001:0467/pct:57.630057803468205,107.43735649396027,23.69942196531792,19.716481980632924/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn85042204:00296023073:1850042001:0467/pct:43.23503902862099,80.58300888489568,17.794160161896503,14.784865728261956/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

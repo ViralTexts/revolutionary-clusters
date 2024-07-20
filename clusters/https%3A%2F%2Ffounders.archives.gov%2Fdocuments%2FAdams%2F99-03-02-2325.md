@@ -32,7 +32,7 @@ For absent Heav&#x27;n—the bosom of a friend j
 Where heart meets heart, reciprocally soft,  
 Each others pillow to repose divine
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1803031101:0045/pct:25.214163335237007,20.730641496241915,21.416333523700743,3.810522635902814/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1803031101:0045/pct:25.206965458178704,20.727018524991262,21.417356551527263,3.8142257951765117/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -67,7 +67,7 @@ Each other’s pillow to repose divine
 &#x27; Where heart meets heart, reciprocally soft,  
 .&quot;Each other&#x27;s pillow to repose divine.1
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_larrybird_ver01:data:sn86058217:00271744742:1839033001:0140/pct:5.8118081180811805,10.590914842464887,16.497539975399754,3.694799443249399/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_larrybird_ver01:data:sn86058217:00271744742:1839033001:0140/pct:4.36721513147778,7.946349487536379,12.378902045209903,2.7710995824370492/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -171,7 +171,7 @@ Is found within the bosom of a Friend,
 Where heart meets heart, reciprocally soft.  
 Each other’s pillow to repose divin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624281:1855071201:0093/pct:4.413299537796332,63.25857519788918,14.43268227225287,5.6948109058927/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624281:1855071201:0093/pct:4.413299537796332,63.26223981237174,14.442622136076736,5.6948109058927/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

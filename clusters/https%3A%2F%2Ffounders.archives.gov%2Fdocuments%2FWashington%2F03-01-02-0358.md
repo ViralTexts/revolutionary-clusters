@@ -124,7 +124,7 @@ of general Liberty—againit which all jthe
 Force and Artifice of Tyﬂﬂﬂé will be  
 Able to prevail. S G ¢
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775100301:0486/pct:11.544413494274218,20.71537080513741,39.7090683998762,77.28214335036597/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775100301:0486/pct:11.554730217682865,20.724577636606362,39.719385123284844,77.27293651889703/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -348,7 +348,7 @@ ada, in which he says: &quot;The cause of America and
 of Liberty is the cause of every American citizen,  
 a whatever may be his religion or descent.&quot; Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530492:1856022301:0365/pct:151.16818558409278,214.43236714975845,47.04225352112676,12.077294685990339/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530492:1856022301:0365/pct:50.3893951946976,71.47745571658615,15.68075117370892,4.025764895330113/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -364,7 +364,7 @@ a whatever may be his religion or descent.&quot; Th
 be caure of America and of Liberty is the cause of every  
 serican citizen, whatever may be his religion or descent
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743233:1856022301:0431/pct:3.918313132990204,240.26285714285714,43.91499252864021,2.605714285714286/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743233:1856022301:0431/pct:1.3061043776634014,80.08761904761904,14.638330842880071,0.8685714285714285/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -389,7 +389,7 @@ of liberty is the cause of every American
 citizen, whatever may be his religion or  
 descent.&quot; The Know Nothings quote
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_gonne_ver01:data:sn88067030:00202190121:1856032201:0201/pct:131.560773480663,111.64664981036663,52.831491712707184,22.139696586599243/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_gonne_ver01:data:sn88067030:00202190121:1856032201:0201/pct:43.853591160220994,37.215549936788875,17.61049723756906,7.379898862199747/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -407,7 +407,7 @@ The cause of America and of liberty is the cause of every
 Ame rican citizen, whatever may be his religion or his  
 descent.&quot; When the eo stitution of the United a ates ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743257:1857022401:0456/pct:53.329125907226256,221.4486243683324,44.36730829914799,4.300954519932622/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743257:1857022401:0456/pct:17.776375302408752,73.81620812277747,14.789102766382666,1.4336515066442075/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -469,7 +469,7 @@ the New York Journal.
 &quot;Newport, May 22, 1775.The people of New  
 Jersey have taken possession of the Treasury o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_riel_ver01:data:sn82015753:00212475270:1861101901:0458/pct:134.0,226.19123252858958,38.3125,28.732528589580685/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_riel_ver01:data:sn82015753:00212475270:1861101901:0458/pct:44.666666666666664,75.39707750952986,12.770833333333334,9.57750952986023/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

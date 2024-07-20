@@ -161,7 +161,7 @@ ready cost us so many thousand lives, so
 many millions of dollars, more than their  
 persons and all their commerce were wort
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chester_ver02:data:sn86053573:00211101969:1883050701:0868/pct:84.76357267950964,123.37587838806826,56.91768826619965,9.135235909938334/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chester_ver02:data:sn86053573:00211101969:1883050701:0868/pct:21.19089316987741,30.843969597017065,14.229422066549912,2.2838089774845836/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -179,7 +179,7 @@ gambling enterprises,&quot; &quot;have already tin
 millions of dollars more than their persons  
 and all their commerce were worth,&quot; he ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chester_ver02:data:sn86053573:00211101970:1883080101:0215/pct:145.71175950486295,104.40585533869115,57.824933687002655,8.739954075774971/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chester_ver02:data:sn86053573:00211101970:1883080101:0215/pct:36.45211236452112,26.10146383467279,14.465826144658262,2.184988518943743/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -200,7 +200,7 @@ of these principles, and involving dan
 &#x27; B0r8 whioh the society chooses to ovoid,  
 thoy must go elsewhero for their oxer 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_dracula_ver01:data:sn84037890:00206533614:1897042801:0291/pct:67.94467787114846,104.28225154861298,15.371148459383754,5.965526528413681/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_dracula_ver01:data:sn84037890:00206533614:1897042801:0291/pct:50.98073555166375,78.21168866145973,11.53677758318739,4.484244546189066/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -222,7 +222,7 @@ of these principles, and involving dan­
 gers which tho society chooses to avoid,  
 they must go elsewhere for their exercise.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_atherton_ver01:data:sn84026355:00211100229:1897061101:0672/pct:39.11465892597968,64.29352282044275,15.838171262699564,4.987701557802678/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_atherton_ver01:data:sn84026355:00211100229:1897061101:0672/pct:29.35196950444727,48.223558349275756,11.8896351424941,3.744192402295709/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -395,7 +395,7 @@ society chooses to avoid, they must
 go elsewhere for their exercise.  
 The press confined to truth need
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068402:00295878691:1899120701:0404/pct:80.54285714285714,92.22925834496083,14.82857142857143,6.343243533326178/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068402:00295878691:1899120701:0404/pct:60.42291755965138,69.1746270258667,11.11587369624232,4.754749382848557/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

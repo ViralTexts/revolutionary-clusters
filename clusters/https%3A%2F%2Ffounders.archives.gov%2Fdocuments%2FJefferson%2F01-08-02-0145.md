@@ -60,7 +60,7 @@ liance on their information. Tbry have all a­
 gn*ed in bearing witneas in favor of the genius  
 of this people 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216420:1829122901:0304/pct:24.73266643670231,5.726378687912361,17.95446705760607,9.896676210631146/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216420:1829122901:0304/pct:24.72840144852561,5.725665919840677,17.95711904351325,9.899593394739027/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -287,7 +287,7 @@ roung man at the college. It in to them I
 ook?to the rising generation, and not to the  
 me now in power?for these great reform aions.?Pag
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1853072801:0804/pct:33.282400333379634,50.53084648493544,15.627170440338936,14.012434241989478/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1853072801:0804/pct:33.2870306061027,50.53403475211223,15.641061258508126,14.018810776343058/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -358,7 +358,7 @@ firmer and more permanent basis.
   
 Life, paire 17
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn85026279:00280775095:1856082901:0039/pct:23.707533234859675,22.94322132097335,98.89217134416543,364.252607184241/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn85026279:00280775095:1856082901:0039/pct:5.926883308714919,5.735805330243338,24.72304283604136,91.06315179606025/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -382,7 +382,7 @@ ment of their constitution on a firmer and
 more permanent basis.&quot;  
 To Col. Monroe, the 17th of the sam
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279523994:1861041201:0064/pct:176.73529411764707,88.8145896656535,37.0735294117647,16.940222897669706/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279523994:1861041201:0064/pct:58.90310248492869,29.601864046195928,12.356026074596873,5.64616891230203/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -402,7 +402,7 @@ bo ; but it would be hazardous to affirm that,
 equally cultivated for a few generations, be  
 would not become so.” ... 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_indianhead_ver01:data:sn83016368:00415627476:1865070101:0105/pct:6.9357747260368985,71.88532555879495,12.914412539880704,2.49757045675413/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_indianhead_ver01:data:sn83016368:00415627476:1865070101:0105/pct:6.945022425671614,71.88532555879495,12.914412539880704,2.507288629737609/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

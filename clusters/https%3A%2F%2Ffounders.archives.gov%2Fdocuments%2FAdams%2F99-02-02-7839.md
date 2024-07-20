@@ -285,7 +285,7 @@ Heaven. TH. JEFFERSON.”
 f/Vons &#x27;he Observer.,  
 ECOuK POLY TKCHMV*tTE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216432:1830100501:0440/pct:5.705962988348183,24.632892804698972,22.583961617546265,37.726382770435634/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216432:1830100501:0440/pct:5.704985437724859,24.629878869448184,22.585803209411228,37.725845262857376/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -351,7 +351,7 @@ down (rom another world cn these glorious achieve­
 ment* of man, which will add to the jov* even of bea­  
 von. TIL .JEFFERSON.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184042:1830100501:0166/pct:3.656905009662554,50.05752416014726,15.326297012041028,23.538886332259548/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184042:1830100501:0166/pct:3.656361474435196,50.05176578856551,15.328973444312327,23.540013037309713/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -435,7 +435,7 @@ from another world on the glorious a­
 chiovements of man, which will add to  
 the joys even of Heaven
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152743:1830100601:0119/pct:68.86760177899419,46.53221839645843,15.2582962709545,42.720118052139696/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152743:1830100601:0119/pct:68.87900558786635,46.536317429086736,15.252594366518418,42.720118052139696/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -733,7 +733,7 @@ Yon and I Had look down from enodiri world
 on theve glorious acilPV penis ot mao, which  
 will add to the joy» ev# n m Heave
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348835:1830101101:0066/pct:32.520325203252035,18.531367447239088,14.753123140987508,30.644694998554495/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348835:1830101101:0066/pct:32.513877874702615,18.52868911692441,14.755154639175258,30.643879173290937/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1110,7 +1110,7 @@ another world on these glorious achieve­
 ments of man, which will add to the joys  
 even of Heaven.” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn87062070:0039334295A:1830120101:0146/pct:76.23131046613896,40.01093942294544,18.601583113456464,34.85573635990701/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn87062070:0039334295A:1830120101:0146/pct:76.21455264893383,40.005468963631394,18.60482157250678,34.8555282107374/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1216,7 +1216,7 @@ one of the ever renewed attempts, will ultimately
 lobespierre, the second by Bonaparte, the third by Lome &gt;  
 (VIII, and his holy allies. Another is yet to come: al
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82003410:00415661174:1849080701:0125/pct:68.14159292035399,46.97293895531781,17.42558326629123,7.400881057268722/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82003410:00415661174:1849080701:0125/pct:68.14159292035399,46.98132997692469,17.42558326629123,7.405076568072163/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

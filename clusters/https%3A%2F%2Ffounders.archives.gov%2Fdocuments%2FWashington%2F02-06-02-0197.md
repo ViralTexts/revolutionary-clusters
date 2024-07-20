@@ -349,7 +349,7 @@ and are as, follow. x1. That an ac
 had dire€ted him to report, which he read in his Place, and after­  
 wards delivered in at the Table ; where the Report was read
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015076:1769042101:0268/pct:9.031441232327495,23.60906682366794,27.347541675458956,1.6043567853988814/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015076:1769042101:0268/pct:9.038475065062952,23.61887940339515,27.354575508194415,1.5994504955352762/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -397,7 +397,7 @@ lution thereupon, which he delivered in at the
 clerk’s table, where the fame was twice read,  
 and agreed to by the Houlfe, as followeth 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1794070101:0253/pct:9.523809523809524,27.005401080216043,19.94237185319988,5.441088217643529/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1794070101:0253/pct:9.528864624406026,27.012069080482764,19.94237185319988,5.434420217376808/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -486,7 +486,7 @@ which he read in his place, and afterward &lt;h
 livered it attire clerk&#x27;s table when the same was  
 again twice read and agreed to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn82014282:0041421244A:1862032001:0391/pct:68.25352505933269,71.68534573905688,12.341197822141561,4.155212518502855/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn82014282:0041421244A:1862032001:0391/pct:68.24399776661083,71.6777672058357,12.342964824120603,4.1574162173591285/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

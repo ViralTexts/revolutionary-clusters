@@ -39,7 +39,7 @@ the Hereby suspended, until the f„ft Mon­
 day of December, in the year one tWfand eight  
 hundred, and that all the houses which (hall be e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796070501:0002/pct:30.544147843942504,77.02358189929892,20.89322381930185,5.783938814531549/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796070501:0002/pct:30.556981519507186,77.02756532823454,20.886806981519506,5.779955385595921/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -97,7 +97,7 @@ ous to the faid fiill
 fand eight hundred and five, conforma­  
 to the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804012001:0004/pct:75.63481294824578,5.073586367157242,16.66989726691219,30.80299509424219/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804012001:0004/pct:75.64127414873684,5.082192959807212,16.66989726691219,30.80299509424219/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -132,7 +132,7 @@ Givtn under my hand the twenty-fifth day
 of February 1800  
 I&#x27;ll: JEFFSRSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806032801:0004/pct:60.10498687664042,34.606866002214836,18.175853018372703,13.026024363233665/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806032801:0004/pct:60.10498687664042,34.61609449981543,18.190434529017207,13.016795865633075/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -185,7 +185,7 @@ all houfes tvo&#x27;ch fhsli he eree/cd in t] c ■&lt; :ci
 city o! -ifhun-tuij previous to the (aid £;-ft  
 day of January in the year 01 - tigh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807042201:0004/pct:59.622886866059815,65.30305103297304,18.552232336367577,23.765220960459708/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807042201:0004/pct:59.630111255598905,65.3076116203767,18.55945672590666,23.765220960459708/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -238,7 +238,7 @@ j city of &quot;afhinjiton previous to the faid firft
 &#x27; January in the ycr one tinoufar..!  
 1 ei/ht, in othe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807042401:0004/pct:59.19503318347249,64.94088870770486,18.946692357096982,24.74520994700367/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807042401:0004/pct:59.20216941411547,64.94994790958917,18.946692357096982,24.736150745119357/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -276,7 +276,7 @@ such house be pi
 within twenty-four feet of a brick, or  
 sto:
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808022601:0004/pct:60.20682523267838,22.69170579029734,17.828335056876938,14.775691184141888/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808022601:0004/pct:60.220613581523615,22.69170579029734,17.821440882454326,14.788732394366198/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -318,7 +318,7 @@ January in the year one thousand
 eight hundred and eight,  
 j TH : JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808030401:0004/pct:77.2560975609756,52.18505702934769,17.33739837398374,16.967832884787903/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808030401:0004/pct:77.26964769647697,52.189328890597636,17.350948509485097,16.976376607287794/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -348,7 +348,7 @@ nuary in the year one thousand eight r
 i and nine.  
 TH : JEFFERSON. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809031501:0004/pct:57.194973652209164,23.42804525124967,19.396027563842726,9.615890555117074/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809031501:0004/pct:57.194973652209164,23.42804525124967,19.409539251452507,9.615890555117074/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

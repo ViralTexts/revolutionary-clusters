@@ -307,7 +307,7 @@ ineffeétual : the people may, and of right ought
 to reform the old, or eftablith a new government.  
 —The liberty of the Press is essential to the securit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025586:0051701512A:1785031801:0050/pct:9.20627021647176,52.907272419054074,26.87235630753919,5.272080013561621/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025586:0051701512A:1785031801:0050/pct:9.20627021647176,52.91292309430977,26.880650244671145,5.283381364073007/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -697,7 +697,7 @@ ther to confule for the common
 goad, or to inftrutt their repre­  
 sentatives 5 and that every freema
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1788091801:0253/pct:68.39166845608761,51.03711790393013,18.85333905948035,15.31113537117904/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1788091801:0253/pct:68.40598382363467,51.03711790393013,18.839023691933292,15.324781659388647/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -867,7 +867,7 @@ to reform the old, or establish a new govein.
 ment.” “Now if the People :may and of  
 right oughi to reform the old, or cltablith 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1803082301:0340/pct:7.782833830221246,53.02984624660838,16.397301114075002,2.9745754195558236/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1803082301:0340/pct:7.782833830221246,53.02984624660838,16.407761912233905,2.977925166649918/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1016,7 +1016,7 @@ I lint the right, in the people, to participate
 “m the legislature, is the best security of liberty,  
 ‘•and the tuuudittiou of all free government; for thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184315:1829111201:0344/pct:78.16711590296497,7.378258730939498,18.1068653876645,7.734874569601574/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184315:1829111201:0344/pct:78.15472415979708,7.377351530800443,18.109279222151766,7.7380220500840196/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1039,7 +1039,7 @@ surd, slavish, and destructive of the good and liappi­
 uras of mankind.  
 &quot; That the light, in the people, to participate in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1829111401:0148/pct:19.541759053954177,2.7206912657636617,30.33259423503326,93.49602989257356/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1829111401:0148/pct:19.538870824711793,2.720373613543491,30.33303773770815,93.48900564312123/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1159,7 +1159,7 @@ ineffectual, the people may, and of right ought, to
 reform the old or estab:i*h anew government.”  
 There is but a single alternative left; either t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:0041421647A:1833040301:0444/pct:44.64880014012962,18.500679263924912,18.216850586792784,10.27541064591824/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:0041421647A:1833040301:0444/pct:44.640980735551665,18.49839466534947,18.219497956800932,10.27825800609204/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1264,7 +1264,7 @@ ed, and all other means of redress are ineffectual.
 j danced, ami all other means of redress are  
 ; ineffectual.” It is manifestly a revolutionar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215634:1836092701:0371/pct:26.34824531898195,40.9211624554215,17.984078932615763,2.7316184839517414/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215634:1836092701:0371/pct:26.345291479820627,40.91805766312595,17.98579970104634,2.7339403136064746/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1301,7 +1301,7 @@ j danced, ami all other means of redress are
 km perverted, and public liberty manifestly endangered, ana  
 r all other means Of redress are ineffectual. ft is mam- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_armani_ver02:data:sn84024735:00415664229:1836093001:0490/pct:2.661334804191947,12.613060331974953,18.615554329840045,1.8984196401948117/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_armani_ver02:data:sn84024735:00415664229:1836093001:0490/pct:2.6705276705276706,12.619686578537587,18.615554329840045,1.901732763476129/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1333,7 +1333,7 @@ is absurd, slavish, and destructive of the good and hap­
 piness of mankind.”” :  
 The Journal says “these doctrines are dangerous
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1836101101:0365/pct:20.619185603172184,6.59238625812442,14.213817294494433,4.126689363458166/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1836101101:0365/pct:20.6293528544558,6.595825165927302,14.21890092013624,4.130128271261047/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1454,7 +1454,7 @@ thority, and instituted for their benefit ; and
 that they have at all times an undeniable and  
 indefeasible right, to alter thewr form of gov
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153243:1840112101:0090/pct:52.246672815917776,9.090909090909092,13.86216892871261,9.338213473142744/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153243:1840112101:0090/pct:52.251065138138536,9.097503874435322,13.86216892871261,9.331618689616514/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1478,7 +1478,7 @@ T&#x27;he doctrine of non resistance against arbitrar;
 kind.&quot;§ Others say ** All men, when they foi»  
 a social compact, are equal in rights.” * Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1840123001:1405/pct:83.38815789473684,72.34042553191489,14.601608187134502,5.246464913439937/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1840123001:1405/pct:83.40034113060429,72.34042553191489,14.595516569200779,5.26408528258667/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1519,7 +1519,7 @@ constitution of Maine—*¢ All men are Lorn equally
 free and independent, and have certain natural, in­  
 herent, and unalienable rights, among which ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153243:1842011901:0560/pct:49.34306569343066,66.67992838671175,13.828798938287989,5.321265168092301/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153243:1842011901:0560/pct:49.34306569343066,66.67992838671175,13.837646538376465,5.324580598103574/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1543,7 +1543,7 @@ trary power and oppression is ABSURD, SLA
 visn and destruetive of ihe geod and happi  
 ness of mankind.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153243:1842052501:0704/pct:51.01281521289789,55.71759026450769,14.082954388865923,5.089007341848537/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153243:1842052501:0704/pct:51.01740847916954,55.71759026450769,14.087547655137568,5.099064668611083/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1568,7 +1568,7 @@ trary power and oppression is ABSURD ALA­
 visu and destructive of the good and happi  
 ness of mankind.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153243:1842052801:0710/pct:51.67224080267559,53.42055328073504,14.227982162764771,5.5827424348347146/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153243:1842052801:0710/pct:51.68153102935712,53.427211291987085,14.223337049424005,5.5827424348347146/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1589,7 +1589,7 @@ government) The doctrine of non resistance against ar­
 bitrary power and oppression is absurd, slavish and de­  
 structive of Uie good and happiness of mankind.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cousteau_ver02:data:sn84028889:00296027364:1842060901:0252/pct:55.54101221640489,51.72730051971874,21.98952879581152,4.81504127178233/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cousteau_ver02:data:sn84028889:00296027364:1842060901:0252/pct:41.675758236962686,38.795475389789054,16.495745145101463,3.6227453378171814/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1611,15 +1611,15 @@ of non-resistance against arbitrary power and
 oppression is Ansurd, SlAvish and destructire  
 of the good and happiness of mankind.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023294:00200296096:1842061001:0439/pct:324.9155405405405,178.93157262905163,58.445945945945944,16.44657863145258/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023294:00200296096:1842061001:0439/pct:81.26320236586396,44.73289315726291,14.617659484579637,4.111644657863145/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1842-07_11_49/page/n75/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1842-07_11_49/page/n75/mode/1up?view=theater)
 
-#### 1842-07-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1842-07-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1664,7 +1664,7 @@ ineficient ; the people may, and of right onght to
 reform the old, and establish a new form of gov­  
 ernment.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153255:1842122101:0025/pct:17.36745886654479,25.64051039887471,12.588143118307652,3.496433236210188/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153255:1842122101:0025/pct:17.376164359710977,25.6472085468368,12.588143118307652,3.496433236210188/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1684,7 +1684,7 @@ ather modes of redress are ineffectual, the people may,
 and of right eught to reform the old, or establich a new  
 government”’ (See the New Hampshire Constitu-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015210:1844072301:0117/pct:80.74443141852286,10.450692578044242,14.859320046893318,2.697953276824478/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015210:1844072301:0117/pct:80.74931613911684,10.450692578044242,14.859320046893318,2.7048446006477844/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1705,7 +1705,7 @@ are ineffectual, the people may, ami of right
 ought to reform the old, or establish a new  
 government.” i^See the New Hampshire Con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82007022:00393342882:1844073101:0190/pct:5.517477724468814,76.36668385765859,13.279643591501028,3.88086642599278/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82007022:00393342882:1844073101:0190/pct:5.516532465307521,76.35683898414335,13.281651533321911,3.883589016372309/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1724,7 +1724,7 @@ all other means of redressare ineffectual, the peo­
 ple may and of nght out to reform the old or es­  
 tablish a new government.” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153267:1844090401:0179/pct:43.19736842105263,12.330456226880395,12.56578947368421,2.548294286888615/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153267:1844090401:0179/pct:43.20175438596491,12.330456226880395,12.578947368421053,2.555144540347993/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1747,7 +1747,7 @@ rights recognizes the right of the people to
 reform the old or establish a new govern­  
 ment. Here the right is clearly asserted t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624232:1846031201:0142/pct:22.83676703645008,33.597366526077565,17.05229793977813,5.750437197819155/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624232:1846031201:0142/pct:22.83676703645008,33.597366526077565,17.06814580031696,5.753866200322326/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1797,7 +1797,7 @@ is absurd, slavish, and destructive of the good
 and happiness of mankind.&quot; If a sense of justice  
 and duty he not sufficient to restrain them fro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661472:1850070201:0065/pct:55.2870910818515,94.45578596755131,16.017374779421747,2.482002793596218/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661472:1850070201:0065/pct:55.2870910818515,94.46294903477668,16.021899461562825,2.482002793596218/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1820,7 +1820,7 @@ power is absurd, slavish and destructive of
 the good and happiness of mankind.&quot;  
 Massachusetts, by her constitution of 1762, assert
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661472:1850073101:0161/pct:54.70895112575508,48.845413726747914,15.527182866556837,4.6183450930083385/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661472:1850073101:0161/pct:54.713527365916164,48.848977264628324,15.53175910671792,4.621908630888746/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1845,7 +1845,7 @@ The doctrine of non-resistance against arbitrary j &#x27;
 power ana oppression is absurd, slavish, and ue- j  
 atructive of the goo&#x27;l and happiness of mankind.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661472:1850121601:0630/pct:14.610082443573456,78.48249441311057,13.636977969995945,4.714270511865489/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661472:1850121601:0630/pct:14.610082443573456,78.48604164449647,13.645988196603145,4.721364974637296/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1877,7 +1877,7 @@ festly endangered, &amp;.C., the people may, and of
 right ought to do, reform the old, or establish a  
 new government.” And the 41st provides for th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624268:1851021901:0039/pct:63.97506308445896,44.032649459519085,14.442630250853496,3.816457092433267/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624268:1851021901:0039/pct:63.98001088516155,44.032649459519085,14.447578051556084,3.8238105743069344/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1909,7 +1909,7 @@ to participate in the Legislature is the
 best security of liberty, and the founda­  
 tion of all free government; for this pur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624451:1851030801:0343/pct:27.276785714285715,69.45190333280682,18.950892857142858,14.24735428842205/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624451:1851030801:0343/pct:21.13943028485757,53.82543763006488,14.709952715949717,11.041743175419269/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1936,7 +1936,7 @@ that paupers ought not to be assessed for
 the support of Government, but every  
 other person in the State, or person hold
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624451:1851030801:0343/pct:26.71875,106.55504659611435,19.441964285714285,10.235349865740009/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624451:1851030801:0343/pct:20.706954215200092,82.58456767454197,15.090531657248299,7.940588403313339/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1966,7 +1966,7 @@ litia is the proper and natural defence of
 a free Government.  
 Art. 26. That standing
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624451:1851030801:0343/pct:46.85267857142857,75.8805875848997,19.084821428571427,12.557257937134734/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624451:1851030801:0343/pct:36.316457156037366,58.815848533072185,14.79068158228578,9.735993797690456/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1992,7 +1992,7 @@ is absurd, slavish, and destructive ttf the
 good and happiness of mankind  
 The constitution of Vermont, ehap. 8, whic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661484:1851040101:0326/pct:85.73199070487993,8.305449330783938,15.894655305964369,5.963193116634799/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661484:1851040101:0326/pct:85.73715466046993,8.305449330783938,15.904983217144332,5.967176545570427/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2009,7 +2009,7 @@ doctrine of non-resistancc against arbitrary power, is absurd,
 slavish, and destructive of The good and happiness of man­  
 kind.&quot; Upon the principle of the right of resistance an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851061701:0292/pct:21.675163874726877,71.56270959087861,15.644573925710123,1.341381623071764/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851061701:0292/pct:21.675163874726877,71.56909712241705,15.66399611556203,1.3381878573025454/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2026,7 +2026,7 @@ against arbitrary power, is absurd, slavish,
 and destructive of the good and happiness  
 of mankind.&quot; Upon the principle of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_idacox_ver02:data:sn85026945:00202194278:1851062101:0268/pct:3.151190077103587,50.417615793470006,15.638618840093866,2.328524424196406/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_idacox_ver02:data:sn85026945:00202194278:1851062101:0268/pct:3.1623645100011175,50.42605247616637,15.649793272991396,2.3243060828482243/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2096,7 +2096,7 @@ all other means of redrei* are ineffectual, the people inay,
 and of right ought to. reform the old and establish a hew  
 form of government
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1856031301:0475/pct:51.41492537313433,56.571482602118,11.844776119402985,2.3260211800302573/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1856031301:0475/pct:51.418905472636816,56.57463439233484,11.844776119402985,2.3291729702471002/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2118,7 +2118,7 @@ of redress are ineffectual, the people may,
 and of right ought to, reform the old and es-­  
 tablish a new form of government
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn83025182:00415668958:1856032101:1074/pct:62.60683760683761,84.5386254064357,43.62026862026862,12.860186119520126/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn83025182:00415668958:1856032101:1074/pct:20.86894586894587,28.179541802145234,14.54008954008954,4.286728706506708/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2140,7 +2140,7 @@ are ineffectual, the p ople may, and of right ought
 to, reform the old and establish a new furm of  
 government
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021205:00517171931:1856032401:0256/pct:7.665969183945216,66.86474250141482,15.90260604907742,3.9898132427843804/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021205:00517171931:1856032401:0256/pct:5.941031941031941,51.82017543859649,12.32923832923833,3.1067251461988303/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2162,7 +2162,7 @@ man hath a right to petition the Legislature for
 the redress of grievances in a peaceable and or­  
 ■ derly manner.” Now, if every man hath th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624293:1858050601:0239/pct:21.42433234421365,26.158477583055586,14.896142433234422,4.1715944522094395/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624293:1858050601:0239/pct:21.42433234421365,26.158477583055586,14.910979228486648,4.1823459843027635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2180,7 +2180,7 @@ Eights asserts &quot;that every man hath a right to peti­
 &quot;a peaceable and orderly manner,&quot; but there is no  
 warrant, there or elsewhere, for any such intrusio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026359:1859092101:0291/pct:3.2590293453724604,92.79991988784298,11.060948081264108,1.722411375926297/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026359:1859092101:0291/pct:3.263732129420617,92.80659590092796,11.065650865312264,1.719073369383804/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2200,7 +2200,7 @@ is absurd, slavish, and destructive of the good
 and happiness of mankind.&quot;  
 We, therefore, the citizens of Tennesse, i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290057:1860111401:0416/pct:132.78777959629022,76.75100445216636,33.769776322967815,6.298186556629385/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290057:1860111401:0416/pct:33.20147319601691,19.18775111304159,8.443595689537581,1.5745466391573462/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2226,7 +2226,7 @@ sion, is absurd, slavish, and destructive of
 the good and happiness of mankind.&quot;  
 These are the cardinal lessons of freedom
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn83025725:00212470284:1860112201:0494/pct:25.0,109.14542728635682,43.84368308351178,24.37352752195331/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn83025725:00212470284:1860112201:0494/pct:6.25,27.286356821589205,10.960920770877944,6.0933818804883275/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2251,7 +2251,7 @@ arbitrary power and oppression is absurd,
 slavish, and destructive of the good and  
 happiness of mankind.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn83025725:00212470296:1861010801:0028/pct:160.97560975609755,222.0997987074902,42.895015906680804,17.586608750927006/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn83025725:00212470296:1861010801:0028/pct:40.24390243902439,55.52494967687255,10.723753976670201,4.3966521877317515/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2279,7 +2279,7 @@ trary power and oppression, is absurd, slavish and
 destructive of the good and happiness of man  
 kind.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038518:00200293319:1861011101:0039/pct:70.64676616915423,282.94701986754967,43.946932006633496,20.48841059602649/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038518:00200293319:1861011101:0039/pct:17.66657450926182,70.73675496688742,10.98977052806193,5.122102649006623/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2321,7 +2321,7 @@ against arbitrary power and oppression is absurd,
 slavish, and destructive of the good and happiness  
 of mankind.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038518:00200293319:1861011901:0068/pct:117.88079470198676,180.68350668647847,43.81898454746137,5.221821269369561/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038518:00200293319:1861011901:0068/pct:29.4824016563147,45.17087667161962,10.95928226363009,1.3054553173423902/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2339,7 +2339,7 @@ resistance against arbitrary power and oppres­
 sion, is absurd, slavish and destructive of the  
 good and happiness of mankind.&quot; Therefore
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200290045:1861012201:0023/pct:272.42707760044027,246.85816876122084,33.46175013758943,4.982046678635547/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200290045:1861012201:0023/pct:68.12551610239471,61.71454219030521,8.367740159647674,1.2455116696588868/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2358,7 +2358,7 @@ pression, is absurd, slavish, and destructive
 of the good and happiness of mankind.&quot;  
 The right &quot;to alter, reform, or abolish gov
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn83025725:00212470296:1861012401:0085/pct:64.19213973799127,209.3417803070976,43.44978165938865,7.817029958123054/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn83025725:00212470296:1861012401:0085/pct:16.048034934497817,52.3354450767744,10.862445414847162,1.9542574895307634/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2376,7 +2376,7 @@ against arbitrary power and oppression, is absurd
 slavish, and destructive of the good and happiness  
 of mankind
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038518:00200293319:1861020601:0128/pct:116.68514412416852,161.4678899082569,44.34589800443459,5.587989991659716/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038518:00200293319:1861020601:0128/pct:29.183418827117706,40.36697247706422,11.091085539997227,1.396997497914929/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2403,7 +2403,7 @@ oppression, is absurd, slavish, and destruc­
 tive of the good and happiness of mankind.&quot;  
 The questions involving these great funda
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn83025725:00212470296:1861020801:0140/pct:16.117021276595743,23.943214323551224,94.46808510638297,364.2758766818519/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn83025725:00212470296:1861020801:0140/pct:4.029791195637718,5.985803580887806,23.6201622556191,91.06896917046298/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2424,7 +2424,7 @@ coln is not the General Government, and that
 he will not be a part of it until the fourth of  
 March next; that therefore the invasion b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200290045:1861022801:0114/pct:93.65962180200222,177.82700188282203,34.983314794215794,8.86033890796323/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200290045:1861022801:0114/pct:23.414905450500555,44.45675047070551,8.745828698553948,2.2150847269908076/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2441,7 +2441,7 @@ benefit, the doctrine of non-resistance aqainst arbitrary
 power and oppression, is absurd, slavish, and destruc­  
 tive of the good and happiness of mankind.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038518:00200293319:1861030901:0235/pct:20.786516853932586,374.1962597184282,45.674157303370784,5.253204454717378/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038518:00200293319:1861030901:0235/pct:5.197359179660064,93.54906492960706,11.420143278550357,1.3133011136793444/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2464,7 +2464,7 @@ arbitrary poicer or expression, is ab
 surd, slavish. and destructive of  
 the good and happiness of mankind.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033395:00212470351:1861040401:0469/pct:41.98698994677706,4.214335745972449,32.90952099349497,117.47606817651179/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033395:00212470351:1861040401:0469/pct:31.494898713588643,3.1636703245388746,24.693183498447436,88.10413261732431/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2488,7 +2488,7 @@ and thus Congress acknowledged these as her
 rights.  
 So jealous were the framers of our State Const
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038518:00200293319:1861040701:0335/pct:21.75141242937853,149.1213389121339,47.45762711864407,16.652719665271967/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038518:00200293319:1861040701:0335/pct:5.43862127419127,37.28033472803347,11.86608278005368,4.163179916317992/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2510,7 +2510,7 @@ desire peace during the separation of the States,
 and to secure and maintain this blessing we request  
 and urge the Federal Government to surrender al
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038518:00200293319:1861041101:0347/pct:165.93095642331636,84.98153034300792,45.444255800792305,11.693931398416886/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038518:00200293319:1861041101:0347/pct:41.50035385704175,21.24538258575198,11.365888181174805,2.9234828496042216/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2528,7 +2528,7 @@ arbitrary power and oppression is absurd,
 slavish and destructive of the good and  
 happiness of mankind,&quot; a dectrine th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn89060119:00415623495:1861041801:0093/pct:41.34882546097499,243.70038292705706,39.15130083354382,6.883347342859811/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn89060119:00415623495:1861041801:0093/pct:13.782941820324998,81.23346097568569,13.050433611181274,2.294449114286604/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2545,7 +2545,7 @@ happiness of mankind,&quot; a dectrine th
 is absurd, slavish and destructive of the good and hap­  
 piness of mankind,&quot; a doctrine the undersigned indiv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026384:1861042001:0395/pct:27.672521089752454,80.32014141215751,10.75923108836952,0.8249042521850143/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026384:1861042001:0395/pct:27.68174065366708,80.32668827130185,10.754621306412206,0.8314511113293398/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2564,7 +2564,7 @@ sion is absurd, slavish and destructive of
 the goed and happiness of mankind.&quot;  
 10. That the position which the people o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn83025725:00212470296:1861060601:0534/pct:72.19850586979723,276.8003449762829,42.95624332977588,8.236308753773178/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn83025725:00212470296:1861060601:0534/pct:18.056853062858668,69.20008624407072,10.743360469771787,2.0590771884432946/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2581,7 +2581,7 @@ of Rights, that &quot;The doctrine of non-resistance against
 &quot;arbitrary power and oppression is absurd, slavish and  
 &quot;destructive of the good and happiness of mankind 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026384:1861060801:0565/pct:15.975507932090176,44.700778862269544,10.784859448928472,0.8182983338262841/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026384:1861060801:0565/pct:15.975507932090176,44.700778862269544,10.803414045829854,0.8215846725163496/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2611,7 +2611,7 @@ their strength and restore Tennessee to her true poe­
 sition.  
 I. We shall awvait with the utmost anxiety t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530686:1861060901:0323/pct:151.37766045207061,10.198945349952062,93.35093218940769,287.38015340364336/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530686:1861060901:0323/pct:50.45922015069021,3.3996484499840203,31.11697739646923,95.79338446788111/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2651,7 +2651,7 @@ is absurd, slavish, and destructive of the
 good and happiness of mankind.&quot;  
 Alexander Hamilton and President Mad
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn83025725:00212470405:1861071001:0026/pct:201.92616372391655,228.6870407837291,43.28517924023542,7.922478969225854/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn83025725:00212470405:1861071001:0026/pct:50.495049504950494,57.17176019593227,10.824190527160825,1.9806197423064635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2672,7 +2672,7 @@ stantly to the doctrine of State sovereignty, and as
 serted energetically the duty of resistance to arbi  
 trary power and oppression, they were never un
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293320:1861080801:0134/pct:244.29657794676805,218.62117981520967,50.69708491761724,13.172234067756456/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293320:1861080801:0134/pct:61.10318592486924,54.65529495380242,12.680297987002694,3.293058516939114/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2717,7 +2717,7 @@ pla to participate in the Legislature is the
 D st security of liberty and the founda­  
 tion of free government ; for this purpos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016179:00296026207:1864092201:0155/pct:2.8740793964433267,44.53514111787493,11.478354589545535,15.356945213060321/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016179:00296026207:1864092201:0155/pct:2.8860547272618406,44.53514111787493,11.484342254954793,15.361556908319498/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2760,7 +2760,7 @@ gvaii and happiness of mankind.
 Article 7.—That the right of tho peo­  
 ple to participate iu the Legislature is th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016179:00296026207:1864092901:0159/pct:2.3619186046511627,44.6011336927969,11.682412790697674,14.530623531038296/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016179:00296026207:1864092901:0159/pct:2.374031007751938,44.61035070740587,11.6703003875969,14.526015023733812/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2787,7 +2787,7 @@ work corruption of blood, nor shall there
 he any forfeiture of the estate of any per­  
 son fur any crime, except treason, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016179:00296026207:1864092901:0159/pct:14.244186046511627,35.33803401078391,11.155523255813954,6.511820821236002/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016179:00296026207:1864092901:0159/pct:14.250242248062015,35.33803401078391,11.155523255813954,6.511820821236002/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2822,7 +2822,7 @@ ple to participate in the Legislature is the
 best security of liberty and the founda­  
 tion of free government; for this purpos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016179:00296026207:1864100601:0163/pct:3.1965128950236106,50.26141992294992,11.47838721394842,9.878921298844249/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016179:00296026207:1864100601:0163/pct:3.2025668967187313,50.27059255182535,11.4723332122533,9.878921298844249/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2849,7 +2849,7 @@ work corruption of blood, nor shall there
 he any forfeiture of the estate of any per­  
 son for any crime, except treason, nn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016179:00296026207:1864100601:0163/pct:15.001816200508536,35.51183269124931,11.07882310207047,6.494221243808475/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016179:00296026207:1864100601:0163/pct:15.013924203898776,35.51183269124931,11.072769100375348,6.503393872683911/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2891,7 +2891,7 @@ conatitution, ought to have the right of suffrage.
 Art. S. That the logislative, executive and judicial  
 powern of zovarnmeat ought to be ferevar sopagate an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:0027174349A:1864103101:0505/pct:157.15896279594136,229.2987839527219,45.224673860525044,32.753722013865215/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:0027174349A:1864103101:0505/pct:52.38632093198046,76.43292798424064,15.074891286841682,10.917907337955072/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2918,7 +2918,7 @@ any person for any crime, except treason, and then only
 on conviction.  
 Art. 28. That a weil regutated militia is the proper an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:0027174349A:1864103101:0505/pct:203.62377194395233,68.45096033640186,45.482364309872764,13.717467894078872/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:0027174349A:1864103101:0505/pct:67.8745906479841,22.816986778800622,15.160788103290923,4.572489298026291/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2980,7 +2980,7 @@ destructive of thc goo.? and hapj iness
 of mankind.. &#x27; ,  
 ..Sor UPJ the inhabitants -of thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_alexiavalentine_ver01:data:sn84027008:00294551633:1865083101:0110/pct:2.8533214444939814,72.82556845285418,19.794917521176995,9.047543329623151/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_alexiavalentine_ver01:data:sn84027008:00294551633:1865083101:0110/pct:2.868182493684054,72.82556845285418,19.794917521176995,9.058143849048603/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3000,7 +3000,7 @@ good and happiness of mankind&quot;
 Having read these as authority, and  
 ample justification of the expediency o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038521:00200293356:1867022001:0175/pct:25.544100801832762,38.14823058090363,13.760022909507446,4.306699310037836/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038521:00200293356:1867022001:0175/pct:19.160819132178148,28.611172935677722,10.32507518258628,3.2383707990206987/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3053,7 +3053,7 @@ Awr. S. Declares that the legislative, executive and
 judicial powers of Government ought to be forever sep-­  
 arate and distinct from eacn other
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743580:1867052301:0270/pct:151.3211882488101,102.68256333830104,45.83948793697686,21.609538002980624/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743580:1867052301:0270/pct:50.4403960829367,34.227521112767015,15.279829312325619,7.203179334326875/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3085,7 +3085,7 @@ ought to be under strict subordination to and control of
 the civil power.  
 Anr. 31. That no soldier shall in time of peace b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743580:1867052301:0270/pct:151.27195141966192,179.06683480453972,45.987198424421464,20.79559784477817/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743580:1867052301:0270/pct:50.42398380655397,59.688944934846575,15.329066141473822,6.931865948259391/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3130,7 +3130,7 @@ against arbitrary power and oppression
 is absurd, slavish, and destructive of tho  
 good and happiness of mankind.&quot; Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038521:00200293368:1867092001:0279/pct:6.974690994702766,116.5387146304014,14.11124190700412,2.851502522483001/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038521:00200293368:1867092001:0279/pct:5.239917574330291,87.40951963149814,10.582867235796291,2.1386268918622506/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3148,7 +3148,7 @@ power and oppression is absurd, slavish,
 and destructive of the good and happi­  
 ness of mankind
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn85033673:00280779350:1867120901:1150/pct:7.933279088689992,54.04249251390275,16.314076484947112,2.6379580778554113/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn85033673:00280779350:1867120901:1150/pct:5.962555962555963,40.5389990018537,12.250712250712251,1.9820333666048766/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3194,7 +3194,7 @@ is absurd, slavish and destructive of the
 good and happiness of mankind.  
 The gr?ernmcnt ef Tennessee, as no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn85033673:00280779362:1868021701:0162/pct:39.68516984258492,113.00965278778274,17.025683512841756,10.272295058348941/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn85033673:00280779362:1868021701:0162/pct:29.776212184003317,84.75723959083706,12.784915043514298,7.7078230802478025/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3246,7 +3246,7 @@ I know that, to the irresponsible fac
 tion who have usurped absolute authority  
 in the State, and who have resolved tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_cardinal_ver01:data:sn85052141:00202195301:1868081501:0105/pct:101.56412930135558,154.90519373454245,43.58706986444213,21.269579554822755/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_cardinal_ver01:data:sn85052141:00202195301:1868081501:0105/pct:25.39434232824925,38.72629843363561,10.898187980706558,5.317394888705689/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3276,7 +3276,7 @@ and oppression, is absurd, slavish,
 and destructive of tho good and hap­  
 piness of mankind.&quot; It is the dut
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293393:1869012401:0078/pct:23.996608253250425,67.52032067698475,12.719050310910118,6.803251308317559/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293393:1869012401:0078/pct:18.009612666101216,50.64024050773856,9.541984732824428,5.110789444382585/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3297,7 +3297,7 @@ and oppression is absurd, slavish and de­
 structive of the good and happiness of  
 mankind
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293411:1870011901:0066/pct:32.78135990621337,60.840017825311946,13.042203985932005,3.676470588235294/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293411:1870011901:0066/pct:24.60049846063627,45.632798573975045,9.7932854420173,2.762923351158645/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3316,7 +3316,7 @@ power and oppression is absurd, slavish,
 and destructive of the good and happi­  
 ness ef mankind
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200293010:1870022601:0212/pct:20.5950991831972,200.9880028228652,38.09801633605601,7.010115266996001/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200293010:1870022601:0212/pct:5.151028746534364,50.2470007057163,9.528673573617393,1.7525288167490003/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3339,7 +3339,7 @@ surd, slavish, and destructive of the
   
 good and happiness of mankind
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn85026955:0020029354A:1870030401:0339/pct:101.45137880986938,310.3106956282651,44.26705370101597,8.303546879296123/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn85026955:0020029354A:1870030401:0339/pct:25.376656380468326,77.57767390706627,11.072789980032674,2.0758867198240307/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3358,7 +3358,7 @@ trary power and oppression, is absurd,
 slavish and destructive of the happiness  
 of mankind.&quot; And who says &quot;nay?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_juliet_ver01:data:sn88074143:00280761461:1870031501:1450/pct:167.15899218071243,161.96141012621501,63.857515204170284,12.070216161323081/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_juliet_ver01:data:sn88074143:00280761461:1870031501:1450/pct:41.78974804517811,40.490352531553754,15.964378801042571,3.0175540403307703/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3377,7 +3377,7 @@ sion, is absurd, slavish, and destructive
 of the good and happiness of mankind.&quot;  
 IO&amp; The bill filed in the said court wil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293435:1871011101:0038/pct:19.279907084785133,23.383243071041733,13.225900116144018,2.580439630455559/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293435:1871011101:0038/pct:14.464130119082196,17.542741849846024,9.933197792622712,1.9326749495593076/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3424,7 +3424,7 @@ power and oppression, is alisurd, slavish
 and destructive of tho good anil happiness  
 of mankind
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_belgium_ver01:data:sn84026844:0020219087A:1872020101:0112/pct:49.91816693944354,12.201321809862735,13.233574935702595,6.744619556007456/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_belgium_ver01:data:sn84026844:0020219087A:1872020101:0112/pct:49.91816693944354,12.209794950008472,13.251110591536124,6.761565836298932/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3453,7 +3453,7 @@ n_&#x27;&lt;?ii)Ht arbitrary power and oppression,
 is absurd, slavish and destructive of the  
 good and happiness of mankind
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_deforest_ver02:data:sn84026847:00415665143:1872020101:0111/pct:62.000910885076664,57.54599841968619,11.962957340215576,8.149904052376115/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_deforest_ver02:data:sn84026847:00415665143:1872020101:0111/pct:62.01103183037296,57.549761071603264,11.962957340215576,8.149904052376115/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3481,7 +3481,7 @@ surd, slavish and destructive of the good and
   
 happiness of mankind
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_iceland_ver01:data:sn84026788:00202192336:1872020601:0236/pct:15.643426985778703,3.455374209675048,20.221990981616372,93.80973386266726/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_iceland_ver01:data:sn84026788:00202192336:1872020601:0236/pct:15.652098508498092,3.4664019997059254,20.213319458896983,93.80238200264667/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3499,7 +3499,7 @@ resistance against arbitrary power and op­
 pression is absurd, slavish, and destructive  
 of the good and happiness of mankind
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn89058302:00212470417:1872070401:0680/pct:26.933895921237692,206.61736084079408,41.068917018284104,6.902815622161671/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn89058302:00212470417:1872070401:0680/pct:6.735842419978895,51.65434021019852,10.270840661273303,1.7257039055404177/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3595,7 +3595,7 @@ oppression is absurd, slavish and destructive
 of the good and happiness of mankind,&quot; and  
 that the inhabitants of a State &quot;are not con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_omahoney_ver01:data:sn83026413:00212475488:1879042601:0218/pct:139.4083969465649,119.52879581151832,44.2557251908397,6.282722513089006/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_omahoney_ver01:data:sn83026413:00212475488:1879042601:0218/pct:46.469465648854964,39.84293193717277,14.751908396946565,2.094240837696335/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3809,7 +3809,7 @@ with our tireless energy, only to become
 more and more burdened with debt? I can­  
 not believe It. I cannot believe that ou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346824:1896072201:0018/pct:78.33935018050542,49.05004885463033,11.871702304915301,4.581478666811421/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346824:1896072201:0018/pct:78.34860686846247,49.05004885463033,11.871702304915301,4.581478666811421/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4011,7 +4011,7 @@ trary powers and oppression is absurd
 slavish and destructive of the good and  
 happiness of mankind.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_miller_ver01:data:sn86092518:00514157881:1899052901:0199/pct:5.738636363636363,87.28259528802269,14.450757575757576,2.935734550388553/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_miller_ver01:data:sn86092518:00514157881:1899052901:0199/pct:5.737549706494982,87.27183029107054,14.452755160007575,2.9384558460779475/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -43,7 +43,7 @@ April 23, 1804.
 “ neral Hamilton has expressed of Mr.  
 “ Burr.’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804080901:0044/pct:47.87012987012987,38.584998362266624,21.01298701298701,2.718637405830331/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804080901:0044/pct:47.857699298883404,38.578680203045685,21.014022331861852,2.722285901424595/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -183,7 +183,7 @@ I am, sir, with due respect, 5 ; ■ - l
 CHARLES D. COOPER.  
 April 23, 1L04. . &#x27; . ‘ 1-ft
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804081101:0048/pct:47.74869109947644,10.471032332184475,44.76439790575916,85.24536353192188/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804081101:0048/pct:47.7361947134258,10.469314079422382,44.75922533368228,85.23547751887102/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -214,7 +214,7 @@ on Mr. Burr to be a dangerous man, and
 one who was not to be trusted with the reins  
 of government^ tE-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804082501:0072/pct:47.19275549805951,59.41272430668842,20.646830530401036,11.533442088091354/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804082501:0072/pct:47.180548370408694,59.40303376284456,20.647956544231764,11.535638558147122/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -284,7 +284,7 @@ Cooper added, &quot;I could detail you a still
 more despicable opinion which General  
 Hamilton has expressed of Mr. Burr.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1852012901:0356/pct:200.37622272385252,120.61068702290076,47.04665161775771,6.007916313259825/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1852012901:0356/pct:50.084634192213656,30.148409893992934,11.759450818130524,1.5017667844522968/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -303,7 +303,7 @@ which General Hamilton has expressed of
 Mr. Burr.&quot; This letter Burr sent to Hamil-  
 ton with the passage above quoted marke
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776038:1858030601:0541/pct:68.85474860335195,300.24610336341266,48.74301675977654,9.57068635493574/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776038:1858030601:0541/pct:17.222707423580786,75.06152584085316,12.192139737991265,2.392671588733935/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -330,7 +330,7 @@ still further--&quot;I could detail to you a still more
 despicable opinion which Gen. Hanillon er­  
 pressed of Mr. Burr.&quot; The lines italicise
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290070:1859090401:0226/pct:20.76966610073571,177.7628183552115,34.352009054895305,3.635139683608213/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290070:1859090401:0226/pct:5.192416525183927,44.44070458880287,8.588002263723826,0.9087849209020532/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -368,7 +368,7 @@ who ought not to be trusted with the
 reins of government.&quot; &quot;I could detail  
 to you a still more dispicable opinio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_goshen_ver01:data:sn83016758:00280767827:1895050201:0151/pct:49.02502437439064,78.83603805260212,13.909652258693532,3.514269725797426/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_goshen_ver01:data:sn83016758:00280767827:1895050201:0151/pct:49.03585743689741,78.83976869986942,13.915068789946918,3.514269725797426/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -396,7 +396,7 @@ wno ought not to be trusted with me
 reins of government.&quot; &quot;I could detail  
 to you a still more dispic&amp;ble opinio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_krypton_ver01:data:sn88076086:00199918382:1895051101:0017/pct:37.3961661341853,6.072148778848308,28.4185303514377,89.06565090746135/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_krypton_ver01:data:sn88076086:00199918382:1895051101:0017/pct:37.3961661341853,6.079617596534469,28.4185303514377,89.05818208977519/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -767,7 +767,7 @@ good God I Mens hsrret reT­
 erre I —my fingers gave them such a  
 real-, as I never shall get over. H
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159385:1877051701:0695/pct:6.947593012401653,69.20866262958022,10.788105080677424,6.527763522528995/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159385:1877051701:0695/pct:6.952038049517713,69.21208388928804,10.792550117793484,6.53118478223682/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -798,7 +798,7 @@ miud, and too often, I am sure,
 get through old Coke this winter.  
 Message upon message ho sends t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159385:1877051701:0695/pct:7.014268569142552,77.13230011290158,10.748099746632885,8.508672893359336/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159385:1877051701:0695/pct:7.014268569142552,77.13230011290158,10.752544783748945,8.515515412774985/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -834,7 +834,7 @@ life long, and have acted upon the
 Scriptural maxim of eating iny bread  
 in the sweat of ray brow. Though 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159385:1877051701:0695/pct:7.067609014535272,4.454480139587396,21.882917722362983,89.58226418967463/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159385:1877051701:0695/pct:7.076499088767391,4.461322659003045,21.882917722362983,89.57542167025899/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -981,7 +981,7 @@ which he would answer me, and under­
 stand what he would say unto me. Oh,  
 that one would hear me ! My desire i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lytton_ver01:data:sn82014381:00175037901:1880051501:0574/pct:68.36234578333615,54.5163672163426,11.492310292377894,8.306669948314054/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lytton_ver01:data:sn82014381:00175037901:1880051501:0574/pct:68.36657089741423,54.519443760767906,11.500760520534055,8.312823037164657/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1106,7 +1106,7 @@ esteem much more, though it were a plain
 one, than the nicest in the world cut by  
 other hands.” It is a somewhat notabl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00383342120:1884081001:0323/pct:28.472622478386167,50.844919786096256,10.806916426512968,2.1497326203208558/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00383342120:1884081001:0323/pct:28.477425552353505,50.84848484848485,10.802113352545629,2.156862745098039/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1125,7 +1125,7 @@ which I should esteem . much more,
 though it were a plain oue, thau the  
 nicest in the world cut by other hands.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_grandfather_ver01:data:sn85042098:00415667449:1884082001:0548/pct:67.05426356589147,70.84898572501878,14.853266888150609,3.015992272190619/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_grandfather_ver01:data:sn85042098:00415667449:1884082001:0548/pct:50.31159119235563,53.13942256091016,11.148040437612519,2.2646774712890414/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1258,7 +1258,7 @@ knew I tared not for an 1 thing nlas ho foul. I d j
 lo uu-. and wa duti&#x27;nuluo.I try ihi liut  
 most fatal rxpcdlaut &#x27; lliwetxr what
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_milosz_ver01:data:sn83030272:00206533122:1890050401:0053/pct:279.28730512249444,146.59781287970839,52.487008166295475,125.21263669501823/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_milosz_ver01:data:sn83030272:00206533122:1890050401:0053/pct:69.86072423398329,36.649453219927096,13.129062209842154,31.30315917375456/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1341,7 +1341,7 @@ and the star of Bethlehem shone forth,
 and the night of death disappeared be­  
 fore the day of life and light For th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00542865994:1894122001:0269/pct:36.07449257166771,9.791636310651318,14.291692822766269,5.901209383651464/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00542865994:1894122001:0269/pct:36.06694560669456,9.79020979020979,14.293933054393305,5.903991841491841/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1407,7 +1407,7 @@ by other hands. lam afraid she would
 think this presumption after my suffer­  
 ing the other to get spoiled.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_belle_ver01:data:sn85033078:00271768564:1895061301:0283/pct:68.30326868303268,78.2340447051684,12.491523124915231,9.507434004248003/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_belle_ver01:data:sn85033078:00271768564:1895061301:0283/pct:68.3077896830779,78.23741613566636,12.496044124960441,9.510805434745963/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1439,7 +1439,7 @@ other hands. I am afraid she would
 think this presumption after my suf­  
 fering the other to get spoiled.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bravo_ver01:data:sn84025828:00294555705:1895070601:0902/pct:39.76497346474602,19.27846674182638,16.338134950720242,12.753664036076662/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bravo_ver01:data:sn84025828:00294555705:1895070601:0902/pct:29.85018016309501,14.458850056369785,12.251090460838233,9.568771138669673/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1463,7 +1463,7 @@ future.
   
 Mr. Clerenoe and Miss Clara Harsi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_kyogre_ver01:data:sn87058308:00279529078:1896081301:0094/pct:48.69262056943637,82.08967046894803,8.280069726902964,3.1606463878326996/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_kyogre_ver01:data:sn87058308:00279529078:1896081301:0094/pct:48.69584866679579,82.09495141529362,8.28329782426238,3.158005914659907/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1545,7 +1545,7 @@ not have* cared much for this, but the*
 water got inside the watch case* ami de*-  
 stroyed the* priceless picture, and 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:00332892137:1898071701:0152/pct:22.19859316211353,78.31672203765227,14.46098478652053,6.01328903654485/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:00332892137:1898071701:0152/pct:22.204046022138613,78.3204134366925,14.477343366595779,6.016980435585086/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1567,7 +1567,7 @@ tlie-se*. in whose formation the* tailor and
 barbers go halves with the* Aim glitv.*  
 “He* invite-s Page* to take* r. trip wit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:00332892137:1898071701:0152/pct:22.231310322264026,86.87707641196013,14.362833306069033,3.9977851605758583/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:00332892137:1898071701:0152/pct:22.231310322264026,86.8844592100406,14.3737390261192,3.994093761535622/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1599,7 +1599,7 @@ the priceless picture, and I would hay
 sled bitteriy had it not been heneath  
 the dignity of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_hornacek_ver01:data:sn83045555:206534722:1898073001:0490/pct:111.00612870275792,251.36674259681092,37.38508682328907,21.24145785876993/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_hornacek_ver01:data:sn83045555:206534722:1898073001:0490/pct:37.0304114490161,83.78891419893698,12.471249680552006,7.08048595292331/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1623,7 +1623,7 @@ he tallor and barbers go halves
 with the Almighty  
 He invites Page to take a trip wit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_hornacek_ver01:data:sn83045555:206534722:1898073001:0490/pct:109.85699693564862,18.451025056947607,73.54443309499489,266.57175398633257/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_hornacek_ver01:data:sn83045555:206534722:1898073001:0490/pct:36.64707385637618,6.150341685649202,24.533605928954767,88.85725132877752/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1652,7 +1652,7 @@ much for this, but the water got in
 side the watch case and destroyed the  
 priceless picture, and I would hav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_johns_ver01:data:sn92073049:0029587935A:1898080901:0276/pct:43.81557150745444,107.23748295343853,20.52733296521259,13.179427235534774/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_johns_ver01:data:sn92073049:0029587935A:1898080901:0276/pct:32.882198591354786,80.43054743814534,15.39842563181881,9.887005649717514/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1674,7 +1674,7 @@ have too good sense to esteem such
 monkey-like animals as these, in  
 whese formation the tailor and bar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_johns_ver01:data:sn92073049:0029587935A:1898080901:0276/pct:64.35670900055219,8.1531268264173,19.975151849806736,5.932203389830509/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_johns_ver01:data:sn92073049:0029587935A:1898080901:0276/pct:48.29443447037702,6.117280342879408,14.98411821571606,4.451587765439315/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1777,7 +1777,7 @@ embroiders most and talks most non­
 sense,&quot; is most admired by some girls,  
 but there are quite a number who, i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_johns_ver01:data:sn92073049:0029587935A:1898090601:0312/pct:64.45378151260505,70.27027027027027,20.098039215686274,4.223578417126804/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_johns_ver01:data:sn92073049:0029587935A:1898090601:0312/pct:48.36088540207341,52.70754625593335,15.074250490333426,3.167683812845103/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1822,7 +1822,7 @@ speech. I should not have cared much
 for this, but the water got Inside the  
 watch case, and destroyed the priceles
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_fairplay_ver01:data:sn90051265:00383340974:1898090802:0687/pct:32.89156626506024,23.533246414602345,14.397590361445783,6.86657974793568/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_fairplay_ver01:data:sn90051265:00383340974:1898090802:0687/pct:32.9066265060241,23.533246414602345,14.40512048192771,6.877444589308996/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1849,7 +1849,7 @@ vites Page to take a trip with him to
 years, and writes: ’lf we should not  
 both be cured of love in that time, 1 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_fairplay_ver01:data:sn90051265:00383340974:1898090802:0687/pct:32.80120481927711,33.28987396784007,15.03012048192771,34.289439374185136/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_fairplay_ver01:data:sn90051265:00383340974:1898090802:0687/pct:32.80120481927711,33.28987396784007,15.052710843373495,34.31116905693177/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1879,7 +1879,7 @@ apeech. I should not have cared much
 for this, but the water got inside the  
 watch case, and destroyed the priceles
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_james_ver01:data:sn85058217:00206534862:1898091601:0211/pct:149.8397435897436,69.86603046430538,40.78525641025641,26.371811341530556/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_james_ver01:data:sn85058217:00206534862:1898091601:0211/pct:49.9465811965812,23.288676821435125,13.59508547008547,8.790603780510185/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1903,7 +1903,7 @@ formation the tallor and barbers so
 halves with the Almighty.&quot; He in  
 vites Page to take a trip with him t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_james_ver01:data:sn85058217:00206534862:1898091601:0211/pct:147.83653846153845,104.49623784180584,42.2275641025641,93.87043494219122/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_james_ver01:data:sn85058217:00206534862:1898091601:0211/pct:49.27884615384615,34.832079280601945,14.0758547008547,31.29014498073041/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1935,7 +1935,7 @@ speech. I should not have cared much’
 for this, but the water got inside the  
 watch case, and destroyed the price
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_bobidosh_ver01:data:sn85040613:00514150953:1898103101:0059/pct:78.67138017381058,19.56257594167679,14.729709824716453,10.08505467800729/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_bobidosh_ver01:data:sn85040613:00514150953:1898103101:0059/pct:78.68119998036039,19.565951127312,14.729709824716453,10.09518023491292/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1956,7 +1956,7 @@ have too good sense to esteem such
 monkey-like animals as these, in  
 whose formation the tailor and bar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_bobidosh_ver01:data:sn85040613:00514150953:1898103101:0059/pct:78.77448814258359,33.19157553665452,14.49403446752099,3.817334953422438/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_bobidosh_ver01:data:sn85040613:00514150953:1898103101:0059/pct:78.77448814258359,33.19832590792494,14.498944370795895,3.813959767787228/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1983,7 +1983,7 @@ speech. I should not have cared much
 tor this, but the water got Inside the  
 watch case, and destroyed the pric
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_lucretia_ver01:data:sn86086852:00271768965:1898110301:0703/pct:86.65860540104796,69.61676316515026,18.37968561064087,9.429280397022332/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_lucretia_ver01:data:sn86086852:00271768965:1898110301:0703/pct:67.16992919616827,53.956552706552706,14.244064972927946,7.304131054131054/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2004,7 +2004,7 @@ have Loo good sense to esteem such
 monkey-like animals as these, in  
 whose formation the tailor and bar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_lucretia_ver01:data:sn86086852:00271768965:1898110301:0703/pct:86.75937122128174,83.63661428177558,18.33937928254736,4.907637165701682/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_lucretia_ver01:data:sn86086852:00271768965:1898110301:0703/pct:67.24802165764265,64.82549857549857,14.218034152436484,3.8034188034188032/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2033,7 +2033,7 @@ speech. I should not have cared much
 for this, but the w’ater got inside the  
 watch case, and destroyed the priceles
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hematite_ver01:data:sn87065327:00383344530:1899010501:0058/pct:47.911051212938006,22.509742790335153,13.9937106918239,8.558067030397506/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hematite_ver01:data:sn87065327:00383344530:1899010501:0058/pct:47.900291938019315,22.50623441396509,13.996182348978216,8.560629675810473/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2051,7 +2051,7 @@ man who powders most, perfumes
 most, embroiders most, and talks most  
 nonsense is most admired; but som
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hematite_ver01:data:sn87065327:00383344530:1899010501:0058/pct:48.113207547169814,33.88932190179268,13.791554357592094,2.2135619641465314/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hematite_ver01:data:sn87065327:00383344530:1899010501:0058/pct:48.102402874466655,33.88403990024938,13.794071412530878,2.2171134663341645/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

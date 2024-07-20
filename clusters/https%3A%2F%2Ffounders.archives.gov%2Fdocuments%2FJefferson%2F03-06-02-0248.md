@@ -355,7 +355,7 @@ sonal interest, so as to induce the unthinking par
 of mankind to throw ojf the whole system tn dis­  
 gust, and to pass sentence as an impost1 r on t *e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826080301:0633/pct:24.48945147679325,6.915721592172559,36.42194092827004,88.72581721147432/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826080301:0633/pct:24.48531893351333,6.914952751528627,36.42141973225335,88.71965906985362/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -608,7 +608,7 @@ very paradoxical shapes.”
 
 Thomas 1&#x27;ayne, though au avowed infi^^del and scoffer, and often offensively^coarse and bitter in his treatment of^Christianity, was so impressed with the^life and character of Jesus as to disclaim^even ^the most distant disrespect for his^real character,^ and alttrms that ^the^morality that he preached and prac^^ticed was of the most benevolent^kind.^ Benjamin Franklin wrote in a I^letter to President Stiles of Yale college: |^^1 think the system of morals and relig- ]^ion, as Jesus left them to us, the best the j^world ever saw, or is likely to see.^^Thomas Jell&#x27;ersou declared that ^Christ&#x27;s^system of morality was the most benevo^^lent and sublime, proliably, that has ever^been taught.^ He speaks of Jesus as the^^most innocent, the most lienevolent, the^most i I oi |&#x27;lent and sublime character that^has i ver been exhibited to man
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_elk_ver01:data:sn84036012:00294550562:1890121501:1118/pct:81.39329805996472,175.81967213114754,56.52557319223986,42.56440281030445/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_elk_ver01:data:sn84036012:00294550562:1890121501:1118/pct:20.34832451499118,43.954918032786885,14.131393298059965,10.641100702576113/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

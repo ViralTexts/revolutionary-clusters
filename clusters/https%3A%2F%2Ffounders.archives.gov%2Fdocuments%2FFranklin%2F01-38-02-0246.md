@@ -244,7 +244,7 @@ leagues from const of Cape breton. Great Britain
 cedes to France, to serve as a shelter for the Fronchi  
 tishermen, the islands of St Pierre and Miquclon,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:0027174304A:1851073001:0170/pct:104.05138339920948,215.15671471059255,50.790513833992094,14.847860901395562/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:0027174304A:1851073001:0170/pct:34.683794466403164,71.71890490353084,16.930171277997363,4.949286967131854/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -281,7 +281,7 @@ subjects of Prance were not to be permitted to
 exercise the said fishery but at the distance of  
 fifteen leagues from the coasts of the island; th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743087:1853070801:0075/pct:52.9222972972973,224.98575823174204,47.78716216216216,41.654323800843116/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743087:1853070801:0075/pct:17.640765765765767,74.99525274391402,15.929054054054054,13.884774600281037/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -379,7 +379,7 @@ itants. that it may not in the end be an
 evil that they will become aliens to tills  
 kingdom.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_irwin_ver01:data:sn86092523:00340582238:1898040301:0640/pct:69.60344518212811,82.82520325203252,13.062982235779652,2.2484756097560976/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_irwin_ver01:data:sn86092523:00340582238:1898040301:0640/pct:69.59095801937568,82.81468309411915,13.065123789020452,2.251365426139972/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

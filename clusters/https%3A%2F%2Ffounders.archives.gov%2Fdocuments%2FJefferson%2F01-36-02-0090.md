@@ -52,7 +52,7 @@ at pcesent is to fortify fenublicanism behind so
 many harriers, that should the citudel be again  
 in danger, the outworks may give time for th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1857050101:0286/pct:22.00158856235107,157.30404693846847,52.34312946783161,25.81615766511208/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1857050101:0286/pct:5.502582439411999,39.32601173461712,13.090981326976559,6.45403941627802/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -98,7 +98,7 @@ Feder-
 oralisia &#x27;&#x27;retiring into the Judiciary at its  
 strong hold&#x27; and &quot;from the battery beatin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn85049908:00415668892:1859081301:0445/pct:6.047612006505989,83.32967032967034,11.267189117255656,9.31868131868132/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn85049908:00415668892:1859081301:0445/pct:6.052540785647395,83.33333333333333,11.272117896397063,9.322344322344323/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -124,7 +124,7 @@ down and eratti. Bjr a fraudulent use
 of the Constitution  
 which
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn85049908:00415668892:1859081301:0445/pct:6.091971018778649,85.89010989010988,11.163684755286116,3.3956043956043955/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn85049908:00415668892:1859081301:0445/pct:6.101828577061462,85.8974358974359,11.173542313568928,3.399267399267399/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -153,7 +153,7 @@ if the Constitution, which has made judges
 rremovable, they have multiplied useless judges a  
 uerely to strengthen their phalanx. * * * 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1859102001:0605/pct:15.179326168337157,57.32327992459943,12.389807994203599,6.7483506126295945/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1859102001:0605/pct:15.179326168337157,57.32956330505812,12.40188383045526,6.7483506126295945/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -182,7 +182,7 @@ Constitution, which has made judges irremova­
 ble, they bare multiplied useless judges mcrelv  
 to strengthen their phalanx
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_belmont_ver02:data:sn82014511:no_reel:1859110101:0002/pct:43.24009324009324,89.55335731414868,9.712509712509712,5.125899280575539/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_belmont_ver02:data:sn82014511:no_reel:1859110101:0002/pct:43.24980574980575,89.55710431654676,9.702797202797203,5.129646282973621/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -222,7 +222,7 @@ all the works of Republicanism,&quot; could not
 more forcibly describe the present position  
 and aims of modern Democracy, which relie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528670:1859110201:0019/pct:64.69599327542728,118.72723593686767,44.05996077332586,39.76123027114529/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528670:1859110201:0019/pct:21.565331091809096,39.57574531228922,14.686653591108621,13.253743423715095/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -263,7 +263,7 @@ j erased. By a fraudulent use of the Con­
 movable, they have njultiplied useless  
 judges merely tostiengtlien theftphalani
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn86081096:00296028666:1859112401:0459/pct:77.34287987271281,56.46175918772762,15.258552108194113,10.694183864915573/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn86081096:00296028666:1859112401:0459/pct:77.3481835057014,56.46911672736637,15.26385574118271,10.686826325276828/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -292,7 +292,7 @@ beaten down and erased. By a frafiulrnt use
 irremovable, they Lava multiplied useless  
 judges merely to strengthen their phalanx. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn83032006:00296028551:1859112501:0619/pct:47.82195469665769,57.44252192462669,14.462220814192936,8.343209291301257/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn83032006:00296028551:1859112501:0619/pct:47.82195469665769,57.446472307813856,14.46750092401922,8.339258908114086/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -329,7 +329,7 @@ An old citizen, who is an inveterate lottery
 ticket buyer, and who, by the way, has  
 drawn nice prizes, has made a bill of som
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn82015672:00296021957:1860012001:0284/pct:73.84420519316024,57.42390003987771,49.65167827739075,50.4054233683371/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn82015672:00296021957:1860012001:0284/pct:18.469824172342786,14.355975009969427,12.418818311420878,12.601355842084274/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -358,7 +358,7 @@ of the Constitution, which has made judges ir­
 removable, they have multiplied useless judges  
 merely to strengthen their phalanx. * 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85033123:00514151386:1862050101:0120/pct:84.41630722137192,58.97326658856108,11.145123139000974,5.964426456491639/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85033123:00514151386:1862050101:0120/pct:84.42558322897825,58.97326658856108,11.1543991466073,5.971526964177939/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -380,7 +380,7 @@ licaniam are to be beatea down and erased.
 On becoming Prealdent he called aperlal atten­  
 tion in his inaugural to the judiciary system
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743579:1867020101:0290/pct:152.1329365079365,165.6572608396421,47.53637566137566,15.060793760036706/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743579:1867020101:0290/pct:50.710978835978835,55.21908694654737,15.845458553791888,5.020264586678902/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -426,7 +426,7 @@ stitution, which has made Judges irre­
 movable, they have multiplied useless  
 Judges merely to strengthen their pha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665568:1895090901:0104/pct:38.654111162149746,67.0379003712337,16.961414790996784,7.5541742208408875/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665568:1895090901:0104/pct:29.00631820792648,50.280583613916946,12.728317059161402,5.663472330138997/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

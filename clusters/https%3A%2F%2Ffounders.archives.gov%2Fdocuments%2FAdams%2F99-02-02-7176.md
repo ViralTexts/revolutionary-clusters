@@ -314,7 +314,7 @@ Carolina, this gigantic step of its county of Meck
   
 lenburg. Horry,1 too, is silent in his history of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022615:1847101301:0165/pct:22.407205240174672,20.115424973767052,20.91975982532751,21.584470094438615/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022615:1847101301:0165/pct:16.81911262798635,15.08919202518363,15.699658703071673,16.190975865687303/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -333,7 +333,7 @@ have addressed your timid brethren in peals 6f
   
 thunder on their tardy fears? Would not every
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022615:1847101301:0165/pct:22.816593886462883,51.00734522560336,20.496724890829693,2.843651626442812/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022615:1847101301:0165/pct:17.119453924914676,38.25813221406086,15.38566552901024,2.1301154249737673/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -359,7 +359,7 @@ verv waverintr.mmetimes firm. some-&#x27;! highly interesting account, he says :
   
 1 am too blind to write fair, and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022615:1847101301:0165/pct:22.898471615720524,58.81427072402938,41.375545851528386,4.816369359916054/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022615:1847101301:0165/pct:17.187713310580204,44.11332633788038,31.044368600682596,3.6096537250786986/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -377,7 +377,7 @@ No State was more fixed or forward, Nor do I
   
 affirm positively that this paper is a fabrication ;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022615:1847101301:0165/pct:22.939410480349345,68.16369359916055,20.42849344978166,1.4375655823714586/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022615:1847101301:0165/pct:17.215017064846418,51.12277019937041,15.331058020477816,1.080797481636936/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -406,7 +406,7 @@ the Droduction of such proof. For the present, I
 must be nn unbeliever in the. apochryphal gospel.&#x27;  
 a- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022615:1847101301:0165/pct:23.00764192139738,70.76600209863588,40.338427947598255,4.071353620146905/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022615:1847101301:0165/pct:17.269624573378838,53.07450157397692,30.266211604095563,3.0640083945435466/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -424,7 +424,7 @@ other home, lhe distance of which, and its cross
 mails, are great impediments to epistolary com­  
 munications. I shall remain there about two
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022615:1847101301:0165/pct:23.00764192139738,75.30954879328436,20.360262008733624,2.7806925498426023/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022615:1847101301:0165/pct:17.269624573378838,56.48478488982162,15.276450511945393,2.088142707240294/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -496,7 +496,7 @@ that nation, although sent to Congress, too, is
   
 never heard of. It is not known 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667711:1849030201:0240/pct:147.02750665483586,315.27267382037337,122.5377107364685,44.45097750992209/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667711:1849030201:0240/pct:36.756876663708965,78.81816845509334,30.634427684117124,11.112744377480523/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -517,7 +517,7 @@ every papet, as the beo from every flower, and the oppostion immedately upon the
 ee eee o ii e  ae eo o ee o e e e e e e o e o ee o e  
 North Carolinian; and that the fire should blare e i in  an tin a o o tei oi to te o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667711:1849030201:0240/pct:209.76042590949424,300.2792885491695,182.51996450754214,12.112303395560781/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667711:1849030201:0240/pct:52.44010647737356,75.06982213729238,45.629991126885535,3.0280758488901953/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -540,7 +540,7 @@ dent Mecklonburg county, in North Carolins,
 was never once quoted.!  
 Both Mr. Jefferson and Mr, Adams teal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667711:1849030201:0240/pct:207.9858030168589,368.54328972512127,59.982253771073644,15.287373217698075/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667711:1849030201:0240/pct:51.99645075421473,92.13582243128032,14.995563442768411,3.821843304424519/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -560,7 +560,7 @@ t the bee from i very llower.&quot;
 1 At the elo-e of the administration of Mr. Monroe,  
 ,, i Mr. Uitchie t&lt;?dv mi active par: in the pending contes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1854072501:0299/pct:54.52336715735315,38.24990447076806,14.220380162926968,2.5028658769583494/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1854072501:0299/pct:54.528131103806395,38.25308877849955,14.229908055833452,2.5060501846898484/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -618,7 +618,7 @@ too, Is never heard of. It 1» not known even n twelve­
 month after, when a similar proposition is first made  
 in lhat body. Yet the example of Independent Meck
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grand_ver02:data:sn84031492:no_reel:1875042601:0004/pct:30.372340425531913,3.5143769968051117,26.569148936170212,94.36900958466454/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grand_ver02:data:sn84031492:no_reel:1875042601:0004/pct:30.37898936170213,3.5143769968051117,26.575797872340427,94.3839856230032/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -661,7 +661,7 @@ North Carolina some half doren years ago, in that
 county of Mecklenburg, for I do not remember its  
 precise locallty.&quot; After expressing doubt as t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:00271743932:1875050501:0510/pct:53.25062034739454,29.27556166895919,47.06368899917287,23.968363136176066/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:00271743932:1875050501:0510/pct:17.750206782464847,9.75852055631973,15.687896333057623,7.989454378725355/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -698,7 +698,7 @@ in poals of thuntder on thein tard atneo
 the glortes of Mecklenburg county, in Nortn Caro-­  
 lina, in the ears of the doubting bickinson an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:00271743932:1875050501:0510/pct:53.333333333333336,52.41861531407611,47.47725392886683,26.0430994956442/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:00271743932:1875050501:0510/pct:17.77777777777778,17.472871771358705,15.825751309622277,8.681033165214734/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -725,7 +725,7 @@ curred to the subject again. No one in Mecklen­
 burg appeared to contradict it. The Raleign  
 Reoister expressed the decided opinion &quot;that n
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:00271743932:1875050501:0510/pct:51.67907361455749,84.61714809720311,49.09842845326716,14.809720311783586/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:00271743932:1875050501:0510/pct:17.226357871519163,28.20571603240104,16.366142817755723,4.936573437261195/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -778,7 +778,7 @@ onlv be Dresumntive : but I shall believe
 it such until positive and solemn proof  
 ok iu auuieuuiukv siiaii uo piuuu.i.u
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:00237283612:1876070601:0332/pct:46.71419714817111,18.893320039880358,13.096714197148172,9.758225324027917/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:00237283612:1876070601:0332/pct:35.05969917816716,14.169990029910268,9.830981547526749,7.328015952143569/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -838,7 +838,7 @@ made In that body. Yet the example of Indepeud*
 nil Mecklenburg County In North Carolina was  
 never once quoted. For the present 1 must be a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1877052601:0002/pct:85.84930427933841,70.00999000999,12.89052244683644,5.834165834165834/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1877052601:0002/pct:85.86243108427409,70.01498501498502,12.90364925177212,5.829170829170829/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -933,7 +933,7 @@ tion, it needs a vindication by the production of such
 proof. For the present I must be an unbeliever in the  
 apocry phal gospe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_kobayashi_ver01:data:sn83030272:00175044784:1882070401:0587/pct:233.65890308039067,93.54503635554236,50.78888054094666,118.47455112034426/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_kobayashi_ver01:data:sn83030272:00175044784:1882070401:0587/pct:58.436677940623824,23.38625908888559,12.701991732431416,29.618637780086065/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1118,7 +1118,7 @@ dating the kindred lone of July 4, 1776,
 MOSKS, LEONIDAS, CSAR, AL­  
 FRED, CRAIGHEAD AND WAS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84020714:00296023012:1883112301:0637/pct:25.687103594080337,73.90023153020417,16.41120507399577,8.745527257419491/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84020714:00296023012:1883112301:0637/pct:19.267873661953217,55.43043569774784,12.316638033566804,6.55651441801726/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1553,7 +1553,7 @@ of the resolutions, saying &quot;Haud credo!&quot;
 If Jeeerson or AdaMs had ever known  
 of the presentation to Congress of the reso
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_neruda_ver01:data:sn83030272:00175045028:1892080901:0888/pct:72.02152190622598,13.214123352023034,103.84319754035357,374.54159721169873/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_neruda_ver01:data:sn83030272:00175045028:1892080901:0888/pct:18.005380476556496,3.3035308380057584,25.960799385088393,93.63539930292468/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

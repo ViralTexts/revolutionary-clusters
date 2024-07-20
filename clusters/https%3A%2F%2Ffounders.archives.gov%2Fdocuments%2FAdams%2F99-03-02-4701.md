@@ -375,7 +375,7 @@ quircd by u.f* sami court, aud the same,
 tate,do well and truly administer aecur- |  
 ding to law, and make a inst and true
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348914:1825033101:0479/pct:7.988680888114932,37.05234159779614,17.63169351327819,10.991735537190083/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348914:1825033101:0479/pct:7.986942328618063,37.04723867235918,17.63329706202394,10.993664784464949/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -790,7 +790,7 @@ ecutors and administrators, for and in the whole, joiutly and
 severally, firmly by these presents.  
 Sealed with our seals--dated the day of in the yea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530686:1861052901:0232/pct:250.17691659646167,190.7391977145578,48.070766638584665,5.773122247351505/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530686:1861052901:0232/pct:83.39230553215388,63.579732571519266,16.023588879528223,1.924374082450502/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -809,7 +809,7 @@ ministrators, for and in the whole, jointly and severally,
 firraly by thase presents  
 Sealed with 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743373:1861053001:1297/pct:238.1916996047431,168.26032254374928,46.1627140974967,5.112661557817683/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743373:1861053001:1297/pct:79.39723320158103,56.08677418124976,15.387571365832235,1.7042205192725608/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -832,7 +832,7 @@ ecutora and alministrators for and in the whole, jointly and
 severally firmly by these presents.  
 Sealed with our seals-dated the day of in the yea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530686:1861053101:0248/pct:102.13939495236504,78.19449453059262,47.65167975931807,10.265656929919462/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530686:1861053101:0248/pct:34.04646498412168,26.06483151019754,15.883893253106022,3.4218856433064873/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1115,7 +1115,7 @@ same office, and also shall render to the
 State, and other her officers a true, faithful  
 and perfect account of all, and singular
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624530:1874041101:0776/pct:34.510595358224016,76.76178660049628,14.36259670366633,11.364764267990074/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624530:1874041101:0776/pct:26.745449015944736,59.493589743589745,11.143937089976973,8.810897435897436/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1153,7 +1153,7 @@ and for granting administration within said County
 of Cumberland, in whose name the suit was prose­  
 cuted by James A. Colley, of Portland, in said Coun
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:00279525541:1883071101:0387/pct:38.899868247694336,67.1423432066195,11.03425559947299,1.2111764000479674/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:00279525541:1883071101:0387/pct:38.89346286843405,67.13429256594725,11.036555244524946,1.2140287769784173/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

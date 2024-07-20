@@ -245,7 +245,7 @@ Contending tempests on his naked head.
 High stations tumult, but not bliss, create:  
 None think the great unhappy but the great.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_ettabaker_ver02:data:sn84026913:00237288117:1880102101:0427/pct:11.463104325699746,33.16520746098211,200.62340966921118,27.093642938713362/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_ettabaker_ver02:data:sn84026913:00237288117:1880102101:0427/pct:3.8210347752332483,11.055069153660703,66.87446988973707,9.031214312904453/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

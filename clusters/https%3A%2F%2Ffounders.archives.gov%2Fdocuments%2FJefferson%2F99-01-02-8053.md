@@ -39,7 +39,7 @@ this delirium.of thewarring power ,
 the ocean having he, &quot;me a Ifold ol  
 lawless yfol&lt; ijupn ol en
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808060801:0003/pct:5.040786446350136,28.521080798851326,17.31855260405773,4.0595222555802115/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808060801:0003/pct:5.040786446350136,28.52978288300048,17.325524646168862,4.050820171431058/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -78,7 +78,7 @@ being of yourselves and our beloved
 country.  
 TH : JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808060801:0003/pct:4.93620581468312,44.99412609319932,17.695042878058985,17.20402036287691/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808060801:0003/pct:4.9431778567942555,44.998477135273895,17.688070835947848,17.20402036287691/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -155,7 +155,7 @@ being of yourselves and our beloved coun­
 try.  
 Til : JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808061001:0052/pct:5.146924621281256,51.23706134814441,17.9412301514875,36.51855592022216/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808061001:0052/pct:5.145985401459854,51.23059447179099,17.94403892944039,36.51815389793428/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -248,7 +248,7 @@ deuce over the well-being of youi selves
 and o&#x27;Ur beloved couniiy,  
 TH: JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808061401:0199/pct:40.76456533725418,3.72834546824002,35.581694541444584,89.11624403715793/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808061401:0199/pct:40.75707460492466,3.727877494665495,35.58128139164523,89.10924229111752/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -313,7 +313,7 @@ over the well being of yourselves and our beloved
 country.  
 TII: JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808061701:1186/pct:50.762309422644336,25.27974783293932,21.369657585603598,33.349093774625686/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808061701:1186/pct:50.749625187406295,25.27576426095178,21.37056471764118,33.34777812795462/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -347,7 +347,7 @@ ii is ue iiuitnuo inai any m our Citizens,
 “ tions of the necessity, honour and justice of our  
 ** cans*.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808061701:1187/pct:5.687797544475069,63.40729001584786,22.45051365572538,12.060221870047544/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808061701:1187/pct:5.686372745490982,63.39724290920615,22.45115230460922,12.06227222310252/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -621,7 +621,7 @@ will be animated, in the conflicts brought on, by con­
 sideration of the necessity, honour, and instate of  
 our cause. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808062701:1200/pct:73.06216423637758,9.237465742382717,22.79355333844973,11.91359019829115/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808062701:1200/pct:73.04347826086956,9.235976789168278,22.794117647058822,11.915699548678273/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -639,7 +639,7 @@ of the nation as to the principles of our government,
 or of its administration;&#x27; revised the proof-sheet of  
 Callender&#x27;s infamous “ Prospect before us.”in whirl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808062701:1200/pct:73.31798413916603,30.694825084636467,21.949347659247888,2.8373367725294214/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808062701:1200/pct:73.29923273657289,30.689877498388135,21.95012787723785,2.840909090909091/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -784,7 +784,7 @@ lie animated in the conflict* brought on by
 considerations of the necessity, honor, and  
 &gt;| justice of our cause
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808070401:0424/pct:0.9140148950575491,19.51146560319043,19.66824644549763,13.409770687936192/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808070401:0424/pct:0.9138602132340498,19.509520486491876,19.66914875613471,13.4109261290001/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1036,7 +1036,7 @@ brought on by considerations of the necessi­
 ty, honor and justice of our cause.”  
 This the editor of the Newyork Evenin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808092001:0149/pct:77.466105656849,68.09638072385523,16.22253389434315,13.587282543491302/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808092001:0149/pct:77.47649472754662,68.09638072385523,16.22253389434315,13.587282543491302/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

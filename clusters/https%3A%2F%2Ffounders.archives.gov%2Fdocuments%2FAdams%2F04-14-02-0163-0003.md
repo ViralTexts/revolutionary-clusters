@@ -1679,7 +1679,7 @@ crime, the examination of Jesus before
 Caiaphas, the dialogue between Pilate  
 and the Jews—all flit before the gaze i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn92064044:00514153000:1890120501:0137/pct:16.148133279807308,63.978030600235385,10.989562424729025,4.8254217340133385/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn92064044:00514153000:1890120501:0137/pct:16.15147865649672,63.980646004969266,10.98621704803961,4.830652543481103/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1706,7 +1706,7 @@ extent of his crime, the examination of
 Jesus before Caiaphas, the dialogue be  
 tween mate ana the Jews all flit b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_gum_ver01:data:sn94053256:00271763086:1890121001:0568/pct:82.37364043506078,95.06334643949323,14.5233525271913,8.853939129168486/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_gum_ver01:data:sn94053256:00271763086:1890121001:0568/pct:61.81789086253801,71.29750982961993,10.897743638982238,6.640454346876365/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1739,7 +1739,7 @@ crime, the examination of Jesus before
 Caiaphas, the dialogue between Pilate  
 and the Jews—all flit before the gaze i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:fu:batch_fu_bathouse_ver01:data:sn96027724:00271761569:1890121001:0756/pct:41.13622226829774,63.57237131544215,26.974911880572257,20.38422056019944/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:fu:batch_fu_bathouse_ver01:data:sn96027724:00271761569:1890121001:0756/pct:31.885377611140868,49.27261706319139,20.905195500803426,15.805425064403698/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1774,7 +1774,7 @@ crime, the examination of Jesus before
 Caiaphas, the dialogue between Pilate  
 and the Jews—all flit before the gaze i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovelock_ver01:data:sn84025968:00280769356:1890122001:0419/pct:21.384678410487506,30.865411632481035,13.60098320360508,5.28238269176735/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovelock_ver01:data:sn84025968:00280769356:1890122001:0419/pct:21.384678410487506,30.865411632481035,13.61463880923119,5.287065655146577/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1821,7 +1821,7 @@ tion.&quot;
   
 STATE NEWS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_kittitas_ver01:data:sn84022770:00200291141:1898120901:0305/pct:29.812024234892032,25.458937198067634,21.70265651701103,69.91545893719807/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_kittitas_ver01:data:sn84022770:00200291141:1898120901:0305/pct:29.81590803169178,25.46195652173913,21.710424110610532,69.92451690821257/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

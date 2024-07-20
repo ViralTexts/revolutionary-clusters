@@ -524,7 +524,7 @@ not cry with Adam in &quot;As You Like It
 Oh, what a world is this, when what is comely  
 Envenoms him that bears it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743749:1871050401:0460/pct:241.8582375478927,211.03888826627815,46.99872286079183,30.550263364339347/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743749:1871050401:0460/pct:80.61941251596424,70.34629608875939,15.666240953597276,10.183421121446449/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

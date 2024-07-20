@@ -88,7 +88,7 @@ colonel, major, and captain, so that it was necessary to fix
 the offioers the first thing, which is, at last, in some manner  
 done ; and 1 have given out enlisting orders
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82003410:00415661071:1856071701:0779/pct:45.997763220961815,32.06317372775132,15.194120466528199,6.693406868889446/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82003410:00415661071:1856071701:0779/pct:45.997763220961815,32.06317372775132,15.19944613090483,6.701763182084065/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -136,7 +136,7 @@ first thing, which is, at last, in some
 nner done ; and 1 have given out ening  
 orders.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_irmookrastrut_ver01:data:sn84026900:00295862646:1856072301:0120/pct:69.75419664268586,61.76007202340761,13.863908872901678,13.673193787981093/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_irmookrastrut_ver01:data:sn84026900:00295862646:1856072301:0120/pct:69.75919264588329,61.76757446170005,13.868904876099121,13.673193787981093/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -244,7 +244,7 @@ ready come, and the remainder daily dropping in.&quot;?3 ^u(j,
 Sparks, page 156. thll  
 On the 10th of February, 1776, in a letter to Joseph nu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661083:1857010901:0054/pct:16.817820206841688,43.408319718486865,16.84964200477327,7.276611788362448/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661083:1857010901:0054/pct:16.817820206841688,43.416698085543125,16.854945637761865,7.2724226048343175/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

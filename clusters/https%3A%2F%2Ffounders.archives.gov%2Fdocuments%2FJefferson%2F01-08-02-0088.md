@@ -70,7 +70,7 @@ mendations which 1 could with truth enter into.
 I congratulate your country on their prospect in  
 this young man.*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1828050101:0507/pct:38.00786369593709,84.77164471840852,17.84622105723023,3.4463435135892406/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1828050101:0507/pct:37.99956322341122,84.75977027594901,17.847783358811967,3.4493626558341504/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -104,7 +104,7 @@ truth, enter into. I congratulate your coun­
 try on the prospect in this young man.&quot;  
 In i&gt;ix i.muths there have been ctfly 49 clear davs 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn82014309:00414182926:1828050801:0382/pct:77.64894042383047,87.55324813631523,17.17313074770092,6.695953141640042/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn82014309:00414182926:1828050801:0382/pct:77.63341994803118,87.54159456941302,17.174695182890265,6.698389458272328/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -124,7 +124,7 @@ which I could with truth enter into. / congratulate
 your country on their prospect in this young man.&quot;  
 Shortly alter his return, he obtained admissio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1828050801:0509/pct:19.84486102133161,75.9994408722393,17.81943546649429,4.277327369303886/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1828050801:0509/pct:19.84058595433003,75.98881900768693,17.820982335200345,4.280223619846262/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -165,7 +165,7 @@ with truth enter into. I congratulate yeur
 country on her prospects in this young  
 man.”—[Letter to Mr. Deny, from Penn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153188:1828062601:0099/pct:24.78616232655389,53.38074143156913,17.734271051130964,4.091862905106085/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153188:1828062601:0099/pct:24.78616232655389,53.388513250952045,17.753278844326175,4.091862905106085/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -199,7 +199,7 @@ h»Nfi*y, that be said to Mr. Gerry, &#x27;•! con­
 gratulate your country on their prospect* in  
 this young man;’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1828100201:0597/pct:22.224617374434146,16.016169500975746,16.857081267514552,1.7702815723445777/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1828100201:0597/pct:22.219827586206897,16.013937282229964,16.85883620689655,1.7735191637630663/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

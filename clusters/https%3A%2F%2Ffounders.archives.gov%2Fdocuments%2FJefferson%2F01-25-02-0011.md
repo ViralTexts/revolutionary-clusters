@@ -205,7 +205,7 @@ I have the honor to be, with the
 most perfect respect, sir, your most  
 obedient and most humble servan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879154:1876033101:0266/pct:60.31265758951084,101.70595533498759,14.296520423600604,21.784532671629446/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879154:1876033101:0266/pct:45.25160802118804,76.28205128205128,10.732753184512548,16.335814722911497/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -261,7 +261,7 @@ I have the honor to be, with the most perfect
 respect, sir, your most obedtent and most hum-  
 ble servant, THOMAs JErTEItSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:0020653347A:1876041001:0944/pct:271.8634001484781,174.13969834529215,49.5916852264291,44.926050666276176/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:0020653347A:1876041001:0944/pct:67.97846667904214,43.53492458632304,12.400222758492667,11.231512666569044/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -516,7 +516,7 @@ The present clerk it required to defray
 jerfect respect, sir, your meet obedient  
 ind most humble servant
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_mara_ver01:data:sn84026847:00415665222:1876052401:0501/pct:25.609580147164912,68.389662027833,14.70206319434425,17.45317568274563/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_mara_ver01:data:sn84026847:00415665222:1876052401:0501/pct:25.609580147164912,68.39314987269367,14.711681815995767,17.460151372466953/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -559,7 +559,7 @@ ThONas JeFFerson
 The whole cost of the working force of the  
 dopartment was $2,300, or $450 less than th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044838:1884060601:0503/pct:19.756838905775076,278.6306741064696,50.60790273556231,52.17915849796411/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044838:1884060601:0503/pct:4.940148204446134,69.6576685266174,12.654379631388942,13.044789624491028/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -85,7 +85,7 @@ have dome them the Justice to acknowledge
 that no Artillery could be better served than  
 ours. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1778072101:0024/pct:65.11524822695036,54.71189327277888,28.856382978723403,35.11212035197275/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1778072101:0024/pct:65.13002364066193,54.71189327277888,28.863770685579198,35.11212035197275/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -238,7 +238,7 @@ of his Britanic majesty, and thanks most sincerely
 “ that no artillery could have been belter served than  
 “ ours.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685300:1884112001:0401/pct:72.07600062295593,29.482738024130928,10.48123345273322,4.778401624656553/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685300:1884112001:0401/pct:72.06477732793522,29.479216435738174,10.483494238554968,4.780817009077879/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

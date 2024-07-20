@@ -232,7 +232,7 @@ poonds. In witness whereof they have
 hereunto interchangeably set their hands  
 and frals the day and year firft abov
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1795020401:0002/pct:19.506571362693105,73.58882947118241,14.180308969333641,1.8270944741532977/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1795020401:0002/pct:19.523864422411805,73.59997029114676,14.163015909614941,1.8233808674985146/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -284,7 +284,7 @@ inhabitants thereof, or being- within the
 fame, faithfully to obferve and fulfil the  
 faid treaty, and every claufe and articl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805022001:0001/pct:21.062065874971992,76.75261324041811,19.090298005825677,10.926829268292684/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805022001:0001/pct:21.062065874971992,76.75261324041811,19.097766823511837,10.931475029036005/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -316,7 +316,7 @@ By the President,
 TH; JEFFERSON.  
 JAMES MAJQISQST
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806051201:1108/pct:48.20352061731372,2.801962957099889,43.1878466361225,92.63891087541555/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806051201:1108/pct:48.19189971070395,2.801519468186135,43.18346190935391,92.62820512820512/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -359,7 +359,7 @@ United States the 30th.
 By the PreGdeot.  
 (Signed) JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895060:1806051901:0830/pct:21.1006018916595,62.89873025704553,18.675838349097162,10.777330442861567/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895060:1806051901:0830/pct:21.09697386519945,62.892237819983485,18.676925722145803,10.778798513625103/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -383,7 +383,7 @@ j the United Status, and all others, citi­
 ■ zers or inhabitant* thereof, Or being  
 within the same,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807052501:0002/pct:40.69617533304684,8.445899849911312,18.5431886549205,6.27643607586301/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807052501:0002/pct:40.703337630711935,8.445899849911312,18.55035095258559,6.290080502114886/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -466,7 +466,7 @@ der th.-ir Prophets, and sush other instiira
 •ms of the war as may be. designated by the  
 government-of the United States, and the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1814052501:0025/pct:21.997816593886462,70.3140703517588,17.321688500727802,8.052763819095478/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1814052501:0025/pct:21.993814808077133,70.30523803542269,17.32460129767752,8.055939371100783/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -498,7 +498,7 @@ ses, and to make and use such roads as they
 may think Necessary, add freely to navigate  
 all the rivers and water courses in the Cree
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814052501:0126/pct:40.379303995580926,16.30208969815471,17.308046400294604,10.094097519247219/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814052501:0126/pct:40.37187039764359,16.300097751710656,17.310996563573884,10.096937113066145/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -531,7 +531,7 @@ nations as shall be established by the
 g&lt; vernment of the United States **  
 “ I have and shall, by various chan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1814052601:0413/pct:63.04060746120832,72.35065655631588,18.0587652690657,11.891991862400593/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1814052601:0413/pct:63.030203003796004,72.34396671289875,18.061286240853825,11.893974418246263/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -812,7 +812,7 @@ to the l o-rj&#x27;idJlwhroent ol peace : If* It nMlionihtresI,
 inn&#x27;, prior to the* enmpu v nl that p».&#x27;t of the Creek  
 rati .n hostile tolhe litnled Stales,iniiaberf
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1815022201:0372/pct:6.67906976744186,60.99569293134026,17.89767441860465,17.380288826957184/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1815022201:0372/pct:6.677827380952381,60.98796706776441,17.900545634920636,17.382309478572935/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -869,7 +869,7 @@ rivri, or town ; and that they shall int vbnit
 (hem, any ngrat or trade r, who shall not derive -vj.I.o­  
 rity to hold commercial interc nirao wit’&#x27;, them by li
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1815022201:0372/pct:25.488372093023255,4.332404357740056,17.63720930232558,21.5100076007094/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1815022201:0372/pct:25.483630952380953,4.331855604813173,17.64012896825397,21.51150517204982/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -907,7 +907,7 @@ nut.! the crops tit cnm.can !&gt;e considered compe­
 t-ntto yield the nation n supply, r.rttl will e-imVish  
 yn&#x27; i i^Iiousi s in thr nuti-p, nt the diturrtinn of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1815022201:0372/pct:25.767441860465116,30.08614137319483,17.33953488372093,11.337724854319736/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1815022201:0372/pct:25.76264880952381,30.082330588980366,17.34250992063492,11.340510871859827/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1144,7 +1144,7 @@ Ajfzirn.
 A NT OH EW JACKSON.  
 M. j dei Cortiy. 7th Mil. iJu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184285:1815022201:0053/pct:5.189028910303929,3.0119722747321993,53.13194959229059,93.47195967233775/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184285:1815022201:0053/pct:5.188067444876784,3.011592741935484,53.12828114384535,93.46438172043011/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1241,7 +1241,7 @@ By the President,
 JAMES MONROE, :  
 ... - Acting Secretary of Stnte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1815022801:0245/pct:74.23743376772161,33.451397087760725,16.268079621938995,21.51711924439197/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1815022801:0245/pct:74.24220726526326,33.451397087760725,16.263306124397346,21.520398793126066/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1821,7 +1821,7 @@ duplicity and misrepresentation ot foreign
 ei * hshi ie.M, whose govirmmnl* are at war,  
 o|»*jit or nndeiHtood, with ibe United State*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1819020401:0341/pct:18.55636123928807,52.557575757575755,14.733025708635465,17.927272727272726/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1819020401:0341/pct:18.55330367441094,52.55120591443461,14.736090514637228,17.929139902234073/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1887,7 +1887,7 @@ such place* as he sliail dirort, to enable the
 nation, by Industry aud economy, to proeme  
 cl •! king.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1819020401:0341/pct:18.605800922874092,70.44848484848485,14.864864864864865,23.903030303030302/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1819020401:0341/pct:18.60273521173175,70.43994667313054,14.867907947492723,23.90417323152749/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2470,7 +2470,7 @@ the forty-fifih,
 : JAMES MOXNROE. .  
 By the President 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1821030601:0246/pct:57.85249129183704,30.218933086648164,17.189156444040588,8.870387501284819/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1821030601:0246/pct:57.85753950224645,30.218933086648164,17.194204654449997,8.873813684174461/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2650,7 +2650,7 @@ posts and roads within the limits of the said
 country guaranteed by the third article of  
 thit agreement and capitulation, for the pro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn84021903:00414187432:1831080601:0121/pct:4.383750286894652,66.58333333333333,14.964425063116824,12.983333333333333/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn84021903:00414187432:1831080601:0121/pct:4.382744378155117,66.57223796033995,14.966727856815053,12.985335777370437/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2895,7 +2895,7 @@ of property ceded hereby.&quot; ?&lt;q,ut
 If the contingent interest of the United States depended I  
 merely upon the construction of the words &quot;voluntary abatt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82003410:00415661071:1856021301:0180/pct:48.391376451077946,34.7705845380264,16.235489220563846,6.66247642991829/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82003410:00415661071:1856021301:0180/pct:48.39690436705362,34.77477477477478,16.241017136539526,6.666666666666667/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2954,7 +2954,7 @@ changeably set their hands and seals the day
 and year before mentioned.  
 Signed, sealed and delivere
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_halfwayrock_ver01:data:sn83016025:00414210910:1889081701:0193/pct:66.37766348273328,34.6865671641791,9.654665686994857,1.2537313432835822/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_halfwayrock_ver01:data:sn83016025:00414210910:1889081701:0193/pct:66.36791066705848,34.68242597898758,9.656920364384368,1.2565663801337155/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

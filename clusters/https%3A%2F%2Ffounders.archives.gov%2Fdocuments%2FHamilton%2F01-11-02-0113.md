@@ -519,7 +519,7 @@ adviieable to accompany it with a pro­
 vision, fufficient not only to pay the in­  
 terest, but to discharge the principal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792032201:0001/pct:9.413533834586467,18.04394322379934,21.74436090225564,76.23954890141941/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792032201:0001/pct:9.413533834586467,18.048804199883335,21.774436090225564,76.2492708535874/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -830,7 +830,7 @@ It is raprefented that the present du­
 ty on fait operates unequally from ths  
 ::onfiderable difference in weight i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792032201:0001/pct:31.037593984962406,13.494069609177522,64.27067669172932,80.57553956834532/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792032201:0001/pct:31.045112781954888,13.503791561345519,64.30075187969925,80.58526152051331/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1029,7 +1029,7 @@ the articles now rated at 5, computed
 on 10,000,000 of dollar*, - 250,00 c  
 Dollars, S23fsoc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792032201:0004/pct:6.440781440781441,5.444293214077387,42.49084249084249,88.10033054637371/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792032201:0004/pct:6.456043956043956,5.444293214077387,42.50610500610501,88.11491347462571/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1256,7 +1256,7 @@ Of the fourth do.
 Of the fifth do.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792032801:0001/pct:7.632155145448858,6.508875739644971,75.69596496715671,88.1854043392505/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792032801:0001/pct:7.647794807632155,6.523668639053255,75.70378479824836,88.20019723865877/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1508,7 +1508,7 @@ dunes which were fuggelted in the Secretary&#x27;sreport, on that fub­
 jeft, as encouragements to manufactures, are for the moll part in­  
 cluded amoug the objecis of this report.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792032801:0001/pct:36.59680950891461,4.832347140039448,56.61557710353456,89.80276134122288/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792032801:0001/pct:36.61244917109791,4.847140039447732,56.63903659680951,89.80276134122288/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1563,7 +1563,7 @@ Temporary aaditition of 2 5 per cent, on thearticles now
 rated at 5, computed on 10,000,000 of dollars^  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792032801:0002/pct:7.333333333333333,6.604889589905363,29.166666666666668,25.197160883280755/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792032801:0002/pct:7.358333333333333,6.614747634069401,29.175,25.216876971608833/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1689,7 +1689,7 @@ valorem is to be made to the duty on all
 goods heretofore rated at five per centum  
 ad valorem ; which additional duty is to b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792041201:0002/pct:29.614914425427873,7.723577235772358,41.96210268948655,87.57259001161441/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792041201:0002/pct:29.637836185819072,7.728416569879984,41.946821515892424,87.58710801393728/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1747,7 +1747,7 @@ fumes or cosmetics j all dencrifice-powders, tinc­
 tures,preparations, or compoiitions whatsoever so;  
 the teeth or gums,—ten per centum ad valorem
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792051701:0004/pct:6.7682926829268295,51.00370298187488,20.914634146341463,29.15610992009355/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792051701:0004/pct:6.7682926829268295,51.00857532644709,20.922256097560975,29.165854609237964/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1789,7 +1789,7 @@ fifty cents.
 All other distilled spirits:—Of the second class of  
 proof and under, per gallon, twenty.five cents :—of the third clas
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792051901:0001/pct:5.354879594423321,33.15433571996818,28.136882129277566,16.14956245027844/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792051901:0001/pct:5.354879594423321,33.169252187748604,28.144803548795945,16.139618138424822/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1834,7 +1834,7 @@ Provided always, and be it further ena&amp;ed, That all articles
 ing provision for the payment of the debts of the tJnited States,&quot;  
 shall continue to be so excepted and exempted, and that, to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792051901:0001/pct:5.893536121673004,66.84566428003183,27.915082382762993,18.77486077963405/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792051901:0001/pct:5.909378960709759,66.85560859188544,27.923003802281368,18.789777247414477/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1910,7 +1910,7 @@ of a nature to give solidity and perma­
 nency to the advantage they enjoy un­  
 der it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792061801:0001/pct:68.84328358208955,53.71417430298304,20.708955223880597,8.44219146032365/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792061801:0001/pct:68.85883084577114,53.72392279196725,20.716728855721392,8.451939949307857/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1932,7 +1932,7 @@ ly the industry, the wealth, the firength, the inde
 pendence, and the fubftanrial prosperity of the  
 country.&quot; Hence, it fecms, in order to gi-.e 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792062101:0004/pct:30.20320197044335,20.089372449970856,20.658866995073893,5.18748785700408/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792062101:0004/pct:30.2185960591133,20.1039440450748,20.658866995073893,5.18748785700408/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2195,7 +2195,7 @@ Medicinal drugs, except those
 &quot; ;nSs» ftns, buttons, buckles, fheath­  
 g mg and cartridge paper, all powders
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794022501:0003/pct:29.784496622708268,42.541666666666664,19.202315857188808,14.875/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794022501:0003/pct:29.784496622708268,42.546875,19.22643936957221,14.885416666666666/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2238,7 +2238,7 @@ sweet scents or odours, perfumes or
 cosmetics, and on all dentifrices, U&quot;1  
 powders, of preparations for th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794050201:0003/pct:27.65765765765766,10.688880569075252,19.33933933933934,19.28116810183452/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794050201:0003/pct:27.665165165165167,10.702920254586298,19.36186186186186,19.27648820666417/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2279,7 +2279,7 @@ ornaments for womens&#x27; head
 drefles, and on dolls drefTed and  
 undrefled
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794070101:0002/pct:43.16250321916044,41.88810034659185,13.984032964202935,3.267865984485889/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794070101:0002/pct:43.16250321916044,41.8922264400066,13.990471285088848,3.2719920779006437/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2327,7 +2327,7 @@ scents or odours, perfumes or §-
 cofmetifs, and on all dentifrice, §  
 powders or preparations for the 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794070101:0002/pct:43.08524336852949,45.321010067667935,15.503476693278394,23.205149364581615/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794070101:0002/pct:43.098120010301315,45.321010067667935,15.490600051506567,23.21752764482588/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2583,7 +2583,7 @@ sien tothe revenue would result.’—American State Papers
 it is proposed that it shall be only temporary, and  
 there is rensonable ground 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743178:1843062301:0711/pct:251.74758817017238,78.59930857588937,45.46892297959829,2.0185123229619717/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743178:1843062301:0711/pct:83.9158627233908,26.199769525296457,15.156307659866098,0.6728374409873239/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2602,7 +2602,7 @@ there is reasonable ground of expectation, that the cause
   
 How little do these opinions accord with the views o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743178:1843062301:0711/pct:251.79503400284676,80.22750083640014,45.500553534714534,4.951488792238207/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743178:1843062301:0711/pct:83.93167800094892,26.742500278800044,15.166851178238177,1.6504962640794023/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2648,7 +2648,7 @@ tially the industry, t!ie wealth, the st engtn, the
 independence and thi substantial prosperi y ?i  
 the country.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664308:1848051201:0175/pct:68.34902884049441,12.24764468371467,13.419658622719247,3.528167660065372/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664308:1848051201:0175/pct:68.35393368648225,12.2508491956675,13.424563468707083,3.528167660065372/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

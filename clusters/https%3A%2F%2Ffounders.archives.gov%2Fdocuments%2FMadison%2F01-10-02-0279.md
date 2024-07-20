@@ -319,7 +319,7 @@ tion of our country, when every one
 knows that not only a majority united  
 • Federalist, No. 5 U
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216201:1815111101:0128/pct:63.11619718309859,89.29723915381857,18.133802816901408,7.475797776980997/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216201:1815111101:0128/pct:63.10693853601291,89.28923545756028,18.136032467849983,7.478115383466284/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -342,7 +342,7 @@ have as little agency as possible in the
 appointment of the mernWa of the c­  
 then, as was the intention of the fram
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216201:1815111101:0128/pct:81.67546948356808,11.348153460021512,17.385563380281692,6.202940121907494/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216201:1815111101:0128/pct:81.66348833797858,11.347136326969615,17.387902792039508,6.205371814406501/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -370,7 +370,7 @@ I ever to take place, upon any other principles than
 those of justice and the general good—It may oc  
 fairly questioned, then, whether a convention o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816020301:0044/pct:24.976890367905344,40.00757002271007,17.507857274912183,7.55740600555135/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816020301:0044/pct:24.972273567467653,40.00252302258105,17.51078250154036,7.560657667886128/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -738,7 +738,7 @@ tent of country and number of peopfc comprehended un­
 der the same government.”  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn87062070:0039334295A:1836010801:1028/pct:40.298507462686565,16.537396121883656,17.398720682302773,5.8310249307479225/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn87062070:0039334295A:1836010801:1028/pct:40.28991686207632,16.5351059410054,17.40211753002203,5.834833587222453/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -781,7 +781,7 @@ may bo presumed to depend on the extent of country
 and the number ef people comprehended under the  
 same government. And yet, though satiofied o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743051:1852040701:0582/pct:245.01666666666668,47.6966610073571,47.53333333333333,12.337294850028297/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743051:1852040701:0582/pct:81.67222222222222,15.898887002452367,15.844444444444445,4.112431616676099/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1071,7 +1071,7 @@ reflections on human nature? If men were angels,
  govemament would be aecessary.&quot; To each of  
 ints of the Government of the Unite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_delphi_ver02:data:sn83030213:00206530820:1866011201:0094/pct:151.2435140454464,114.35724120665915,49.203793165145825,9.300287895856803/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_delphi_ver02:data:sn83030213:00206530820:1866011201:0094/pct:50.41450468181547,38.119080402219716,16.40126438838194,3.100095965285601/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1180,7 +1180,7 @@ or either of the others. Thus ambi­
 tion would be made to counteract am  
 bition; the desire of power to chec
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn82014296:00296022093:1867011001:0285/pct:135.7562408223201,250.24383447122753,56.31424375917768,25.414518601086804/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn82014296:00296022093:1867011001:0285/pct:33.94529098586378,62.56095861780688,14.081145584725537,6.353629650271701/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1226,7 +1226,7 @@ croacl ments of the one or the other upon
 each of the other. This ambition should  
 be made to counteract ambition; the desir
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eagle_ver01:data:sn84022278:00200296539:1867011901:0555/pct:200.14684287812042,332.6782006920415,43.4654919236417,15.335640138408305/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eagle_ver01:data:sn84022278:00200296539:1867011901:0555/pct:50.045896823939785,83.16955017301038,10.868367908940701,3.8339100346020762/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1249,7 +1249,7 @@ ments of one or either of the others. Thus,
 aibition would be made to counteract am­  
 bition; the desire of power to check power
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156384:1867012301:1148/pct:188.84615384615384,269.12255257432923,85.76923076923077,27.672226250906455/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156384:1867012301:1148/pct:47.22289011781678,67.28063814358231,21.447463332531857,6.918056562726614/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1304,7 +1304,7 @@ cured against the violence of the
 stronger.&quot; This state of society, says  
 the Reviewer, De TocquevIlle saw i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867060401:0517/pct:105.38885486834047,162.20834702596122,38.028169014084504,21.86438821338591/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867060401:0517/pct:26.359319957114412,40.552086756490304,9.511410629499158,5.466097053346478/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1396,7 +1396,7 @@ vision into two houses, the members of
 which are elected in different manners, at  
 different times, for terms varying i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551256:1868093001:0341/pct:34.85723452037215,56.520787746170676,16.13731151748476,14.343544857768052/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551256:1868093001:0341/pct:34.85723452037215,56.52808169219548,16.14265853919367,14.339897884755652/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1446,7 +1446,7 @@ words, a will independent of the socie­
 ty itself.&quot;  
 It will thus be seen that the theor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477850:1871041901:1085/pct:199.83922829581994,227.22679370578894,44.61414790996785,33.60762234733651/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477850:1871041901:1085/pct:49.969849246231156,56.806698426447234,11.155778894472363,8.401905586834127/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1513,7 +1513,7 @@ their offices. Were the Executive Magistrate or the­
 not independent of the Legislature in this partice­  
 eir independence in every other would be merel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grass_ver01:data:sn83030214:00206531137:1873031501:0546/pct:54.18152350081037,128.9731474011755,48.087520259319284,26.84107410395298/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grass_ver01:data:sn83030214:00206531137:1873031501:0546/pct:18.060507833603456,42.99104913372518,16.029173419773095,8.947024701317659/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1566,7 +1566,7 @@ strong.&#x27;
 tion of South Carolina by tho evidence  
 adduced from leading and official meu 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84027008:00294551219:1874042301:0395/pct:21.39830508474576,29.52094991128702,19.555084745762713,10.167872253309676/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84027008:00294551219:1874042301:0395/pct:21.39830508474576,29.530048678404075,19.576271186440678,10.167872253309676/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1601,7 +1601,7 @@ ence on the people Is, no d-übt, the primary con­
 trol on the Government; but experience has taught  
 mankind the necessity of auxiliary precautions
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1877031001:0007/pct:43.04448444330162,29.768198454656364,12.831061969658009,8.052053680357869/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1877031001:0007/pct:43.06376960658267,29.77836518910126,12.843918745178708,8.046970313135422/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1630,7 +1630,7 @@ it to control itself.&quot;
 A written Constitution is the best  
 security for the protection of the righ
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00280779167:1878121901:0841/pct:233.12101910828025,36.75464320625611,50.63694267515923,33.012149141181396/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00280779167:1878121901:0841/pct:58.28025477707006,9.188660801564028,12.659235668789808,8.253037285295349/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1657,7 +1657,7 @@ against the violence ok the stronger. l!
 ever the liberties of America are destroyed  
 it will be by the exercise ok unlimitel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_igglybuff_ver01:data:sn84024501:00340584557:1882062101:0366/pct:15.62164098889287,31.936790923824958,11.08324375970381,6.418152350081037/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_igglybuff_ver01:data:sn84024501:00340584557:1882062101:0366/pct:15.629603089294957,31.942193408968127,11.079262709502768,6.418152350081037/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1772,7 +1772,7 @@ croachments of the others. The proviston fot detence
 as in all other rases be made commen-prate to  
 the danger of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jaguar_ver01:data:sn83030214:00175038541:1892031101:0144/pct:7.768891790435776,19.76926523297491,46.97241716990371,19.970878136200717/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jaguar_ver01:data:sn83030214:00175038541:1892031101:0144/pct:2.5896305968119253,6.589755077658303,15.657472389967902,6.656959378733572/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1998,7 +1998,7 @@ That the framers of the Constitution made
 no intentional provision for the control of the  
 Government by public opinion is not in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043032:1898112001:0256/pct:282.2085889570552,258.8518909145698,51.22699386503067,25.975591381648336/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043032:1898112001:0256/pct:70.56567593480345,64.71297272864246,12.809204218600192,6.493897845412084/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2023,7 +2023,7 @@ alist
 Why, then, by this move under?  
 take to destroy our governmenta
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_nickleback_ver01:data:sn85034357:00175049575:1899042801:0603/pct:14.695389681668496,33.33694474539545,13.21350164654226,7.984832069339111/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_nickleback_ver01:data:sn85034357:00175049575:1899042801:0603/pct:14.695389681668496,33.34055615745756,13.222649103549214,7.9884434814012275/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

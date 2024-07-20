@@ -42,7 +42,7 @@ nulactory established by the person who bought the
 right of this state, and of those to the South, timl  
 was tnuuh gr &lt;tilled. We may say with respect t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814082701:0224/pct:22.270288977331717,21.874264186484577,16.26578992905347,3.3199905815870028/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814082701:0224/pct:22.26643598615917,21.87168922895821,16.26874279123414,3.3235236413576614/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

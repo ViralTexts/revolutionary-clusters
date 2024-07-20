@@ -159,7 +159,7 @@ o &quot; lated by treaty) to one party, which we
 &quot; are not equally bound to furnilh to another,  
 t &quot; If we permit corn to be sent to Great
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797053001:0003/pct:22.33844723384472,67.41954532034248,16.759646675964667,4.133451431945675/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797053001:0003/pct:22.350069735006972,67.42323590197815,16.748024174802417,4.151904340124004/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -191,7 +191,7 @@ from the difference of ten percent, in the
 meric.an tonnage has encrerued to a very  
 respectable proportion to the British tonnage
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809012701:0337/pct:41.60504959422904,46.7156987065686,17.27682596934175,10.410854679178291/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809012701:0337/pct:41.59754778218536,46.70977558006847,17.27972112032696,10.413761041376103/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -216,7 +216,7 @@ Soon after, this tie retired from Congress,
 and had no further opportunity to express  
 his opinions «n this intei esting subject unti
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809012701:0337/pct:41.8214607754734,57.0631498858737,17.02434625788999,6.365711387268577/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809012701:0337/pct:41.81391994230076,57.05591479650057,17.027286933525666,6.369130636913064/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -251,7 +251,7 @@ nies, as of any other parts of their dominions. .
 ) Soon after this he retired from Congress, and had no  
 further opportunity to express his opinions on this interestin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809022101:0235/pct:67.96342219466833,69.66247253844618,26.689398636081837,14.439784301977232/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809022101:0235/pct:67.97375490803886,69.66580121163705,26.684232279396568,14.439784301977232/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -298,7 +298,7 @@ qunlization of duties) the Americau tonnage will
 relapse to if* former disproportion to the British  
 tonnage.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1816012301:0771/pct:73.7566947207345,12.211647039845136,21.780158122927826,21.26149378932086/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1816012301:0771/pct:73.73788883222845,12.209677419354838,21.780979092299848,21.262096774193548/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -320,7 +320,7 @@ gained b) the former. A treaty was surely not
 necessuty to induce Great Britain in receive otir  
 raw materials and to sell us her manufactures.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1816012301:0771/pct:73.7566947207345,33.48927246330053,21.652639632746748,5.27504436199387/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1816012301:0771/pct:73.73788883222845,33.483870967741936,21.653493115757268,5.278225806451613/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -365,7 +365,7 @@ the Went Imlies. is a phenomenon which had fill*
 ed him with more surprise than be knew how to  
 eipre**.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1816012301:0771/pct:73.7566947207345,44.08775608969189,21.75465442489161,19.890304887885144/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1816012301:0771/pct:73.73788883222845,44.08064516129032,21.75548189699133,19.891129032258064/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -499,7 +499,7 @@ the address to the President in the Senate, confirms Mr.
 .Madison&#x27;s statement, that Washington at first refused to  
 sign the treaty, though sanctioned by the Senate, on per
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855032301:0367/pct:21.074646074646076,30.644957718036096,15.765765765765765,30.278934746939292/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855032301:0367/pct:21.074646074646076,30.644957718036096,15.787215787215787,30.28734906811393/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -521,7 +521,7 @@ pitch, turjtenline, and other important staples of this couu­
 try, are, without a pretext of reciprocity, subjected to con­  
 fiscation.&quot; Aud then as to France, iu express derogatio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855032301:0367/pct:36.82432432432432,18.705035971223023,15.54054054054054,4.417518616685599/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855032301:0367/pct:36.82432432432432,18.709243131810343,15.545903045903046,4.417518616685599/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -538,7 +538,7 @@ ions to France to be restrained to British ports, &quot; we should
 see ourselves plunged by this unauthorised act of Great  
 Britain into a w ar.&quot; And it did plunge us into a war wit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855033101:0403/pct:5.600517966979605,19.298466180538092,15.619941728714794,1.6972592406336435/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855033101:0403/pct:5.600517966979605,19.298466180538092,15.630732707456566,1.7056407677478838/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -597,7 +597,7 @@ tend so far as to exclude a neutral
   
 nation from the belligerent territory.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eadweard_ver01:data:sn90061576:0020029208A:1895102401:1185/pct:201.91540303272146,213.308223477715,42.059058260175576,27.369742623979914/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eadweard_ver01:data:sn90061576:0020029208A:1895102401:1185/pct:50.49900199600798,53.32705586942875,10.518962075848304,6.842435655994978/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

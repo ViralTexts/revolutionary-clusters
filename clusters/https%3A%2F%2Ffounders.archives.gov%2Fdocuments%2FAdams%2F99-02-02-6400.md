@@ -185,7 +185,7 @@ tur , and it would be more easy, at this time, to force into circula­
 tion treasury notes, tbau opinions militating against the adminis­  
 tration, through the press in Virginia. We were indeed beginnin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1814122901:0170/pct:54.02750491159136,85.95465816507262,30.985124894751614,3.046404534183493/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1814122901:0170/pct:54.01234567901235,85.93943686913406,30.9834455667789,3.0502921905436513/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -204,7 +204,7 @@ tune, to force into circulation the Treasury
 notes, than opinions militating against the ai­  
 minisiration, through the press in Virginia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1814123101:0307/pct:59.401088929219604,14.040150564617315,17.477313974591652,2.936010037641154/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1814123101:0307/pct:59.39031028851388,14.038389160707565,17.480191132885743,2.939823526951867/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -260,7 +260,7 @@ nerves are of too weak a fibre to hear the question
 ordinary aim extraordinary from our political inquisit­  
 ors. Tcnu &#x27;Hatpin with composure and even wit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184303:1828092701:0317/pct:22.80923758304334,87.36741747109998,17.74754824422651,2.288165892027172/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184303:1828092701:0317/pct:22.805630238810693,87.35700667302193,17.750013179397964,2.291865268509692/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -313,7 +313,7 @@ Aspiring to be gods, if angels fell,
 Aspiring to be angels, men rebel.&quot;  
 AMEs GorDoN BENNEer, Eso
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271743166:1842102801:0492/pct:246.6363176530096,33.61104498928827,41.13977406845389,8.712211378243275/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271743166:1842102801:0492/pct:82.21210588433654,11.203681663096088,13.713258022817962,2.904070459414425/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

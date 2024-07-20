@@ -69,7 +69,7 @@ les! our privateering succt s the two last J
 too strong a relish for that most mischie­  
 vous kind of ginning mixed leith blood
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216249:1818101701:0304/pct:45.90586718246293,64.77706168617651,17.73049645390071,4.984874391687492/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216249:1818101701:0304/pct:45.89600343790288,64.76854287217255,17.73384901876522,4.988602489917588/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

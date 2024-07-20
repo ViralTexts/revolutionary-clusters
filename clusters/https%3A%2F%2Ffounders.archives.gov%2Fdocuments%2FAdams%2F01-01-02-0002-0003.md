@@ -375,7 +375,7 @@ ver observed so many pallid faces, and so many
 marks of declining health, nor ever knew so many  
 hectical habits, and consumptive affections as o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182951:1844050201:0839/pct:76.52881654201497,82.59375894646436,17.33391992960845,1.5173203549957057/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182951:1844050201:0839/pct:76.51198592478558,82.58193788464291,17.335605893996043,1.5206812652068127/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -464,7 +464,7 @@ many palid faces, and so many marks of
 declining health, nor ever knew so many  
 hectical habits, and consumptive affections
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021532:00340588009:1851121801:0081/pct:1.368726669431771,62.82605663272423,18.540024885939445,3.333798298228484/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021532:00340588009:1851121801:0081/pct:1.368726669431771,62.82605663272423,18.553850407852895,3.3384479471799877/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -757,7 +757,7 @@ so many marks of declining health, or
 ever knew so many hectical habits and  
 consumptive affections as of late years; an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524664:1874110501:0610/pct:5.371765476580412,86.90654672663668,10.841794955781198,1.7991004497751124/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524664:1874110501:0610/pct:5.37088586867529,86.89569019362898,10.844113312592107,1.801998750780762/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -888,7 +888,7 @@ emulation? Tho world affords no groator
 pleasure.Youth’s Companion.  
 The Vagaries of Fortune
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_ketchup_ver01:data:sn87068192:00279529650:1890080701:0273/pct:34.06494960806271,61.40297135855414,14.356103023516237,27.707152703323633/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_ketchup_ver01:data:sn87068192:00279529650:1890080701:0273/pct:34.05732198835647,61.39356814701378,14.358486341244962,27.706738131699847/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -952,7 +952,7 @@ emulation? The world affords no greater
 pleasure.&quot; Youth&#x27;s Companion.  
 THE TYPICAL TEXAN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_gordon_ver01:data:sn97065075:00296020850:1890082201:0071/pct:39.620535714285715,56.85279187817259,16.331845238095237,33.50253807106599/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_gordon_ver01:data:sn97065075:00296020850:1890082201:0071/pct:29.741299088032758,42.63959390862944,12.2464172715429,25.13341142782767/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1018,7 +1018,7 @@ The Vagariv* of Fortune.
 &quot;If you please, madam,&quot; said a tat­  
 tered tramp, &quot;I would like some col
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_cedar_ver01:data:sn88085488:00211108095:1890083001:0050/pct:43.16747122168585,40.10875194199897,13.49795766802822,26.890212325220094/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_cedar_ver01:data:sn88085488:00211108095:1890083001:0050/pct:43.1767545488303,40.10875194199897,13.507240995172669,26.896685655100985/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1085,7 +1085,7 @@ pleasure.”—Youth’s Companion.
   
 The Vagaries of Fortune.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_lopez_ver03:data:sn88085081:00202199756:1890090501:0558/pct:46.779440468445024,40.543435917413326,11.69811320754717,24.980522010128556/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_lopez_ver03:data:sn88085081:00202199756:1890090501:0558/pct:46.783777922359576,40.549928580703806,11.702450661461722,24.983768341773796/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1107,7 +1107,7 @@ Inshort, my little school, like the^great world, is made up of kings, politi^^ci
 lietintthe Job.  
 FronttheToledo blade
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_elk_ver01:data:sn84036012:00294550562:1890091001:0283/pct:75.99916300481273,77.44156030402984,57.250470809792844,92.52832353362972/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_elk_ver01:data:sn84036012:00294550562:1890091001:0283/pct:18.999790751203182,19.36039007600746,14.312617702448211,23.13208088340743/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

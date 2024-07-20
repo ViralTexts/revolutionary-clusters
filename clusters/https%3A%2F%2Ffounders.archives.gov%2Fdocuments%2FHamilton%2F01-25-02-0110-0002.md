@@ -3132,7 +3132,7 @@ cling &#x27;fufpicion.
 of the world pronounce on this fpecies oi  
 videue. .&quot; Page 11
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800103101:0002/pct:28.88167748377434,54.6185981742225,22.01697453819271,22.466346897725515/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800103101:0002/pct:28.88999833582959,54.62891330135644,22.01697453819271,22.466346897725515/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3170,7 +3170,7 @@ dent to fuch a ftatloh.
 i the unfortunate character of Mr.  
 Adanw!&quot; Page 3Q
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800103101:0002/pct:28.457314028956564,77.11589045334983,22.316525212181727,19.21708185053381/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800103101:0002/pct:28.457314028956564,77.1210480169168,22.333166916292228,19.22223941410078/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3205,7 +3205,7 @@ is io the vindication of my friends &quot;mi­
 ni v lid f, did not appear to me jul&#x27;iuahic.&quot;  
 p. si.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800103101:0002/pct:51.22316525212182,22.65201918613647,22.041937094358463,16.741451338387744/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800103101:0002/pct:51.22316525212182,22.66233431327041,22.050257946413712,16.736293774820776/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3274,7 +3274,7 @@ this day prefented to the Public. It is the
 first Paper printed in w ash 1 ;.u;ton ; and  
 from the vicinity of the Editor to thp
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800103101:0003/pct:4.817773339990015,3.048120068079839,22.466300549176236,45.04100263035742/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800103101:0003/pct:4.834415044100516,3.048120068079839,22.449658845065734,45.05131775749136/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4074,7 +4074,7 @@ rial&#x27;s who had conceived a high veneration
 for Mr. Adams, on account of the part be  
 acted in the firft ftages of our revolution.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800110501:0001/pct:7.103165015704277,40.279429250891795,21.889345252476442,49.73246135552913/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800110501:0001/pct:7.111218490778771,40.28438367023385,21.913505677699927,49.74237019421324/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4101,7 +4101,7 @@ both accelerated thepeacewith Great Bri­
 tain, and improved terms, while they pre­  
 ferred our faith with France.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800110501:0001/pct:29.71732302488524,23.944708680142686,21.06789079487799,9.720570749108205/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800110501:0001/pct:29.71732302488524,23.944708680142686,21.075944269952483,9.735434007134364/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4141,7 +4141,7 @@ I i the infpecYion of Congrefs. Thegooci
 r of that body yielded to the  
 feftron.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800110501:0001/pct:29.209954095192074,45.258620689655174,21.30949504711283,19.901902497027347/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800110501:0001/pct:29.21800757026657,45.26852952833928,21.30949504711283,19.891993658343242/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4166,7 +4166,7 @@ permitted to take an equal chance with
 Gen. Washington, by leaving tUe votes  
 to an uninfluenced Current.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800110501:0001/pct:28.920028992510268,72.16111771700356,21.164532495771926,7.5059453032104635/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800110501:0001/pct:28.920028992510268,72.16111771700356,21.18869292099541,7.51585414189457/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4205,7 +4205,7 @@ ty inducement. Accordingly it was de­
 termined to fupport Mr. Adams for the  
 Chief Magiltracy.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800110501:0001/pct:28.63010388982846,13.659334126040427,43.94781348151727,80.21700356718192/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800110501:0001/pct:28.64621083997745,13.669242964724534,43.94781348151727,80.21204914783988/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4234,7 +4234,7 @@ be repeatedly made excurfions into
 the field of foreign politics, which alarmed  
 the friends of the prevailing fyliem.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800110501:0001/pct:50.9784972215511,32.312722948870395,21.261174196665863,11.444708680142687/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800110501:0001/pct:50.98655069662559,32.3226317875545,21.269227671740357,11.44966309948474/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4304,7 +4304,7 @@ for to confider that circumftance as tin
 principal, if not the fole, ground of the o­  
 dious and degrading fufpicion.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800110501:0001/pct:50.374486590964004,46.03151010701546,21.768543126359024,41.45362663495838/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800110501:0001/pct:50.374486590964004,46.04141894569956,21.768543126359024,41.45362663495838/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4372,7 +4372,7 @@ tem to avoid war with every pov er, if it
 could be done without the laciif.ee of cl­  
 fential interells or ablblute humiliation.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800110501:0001/pct:72.57791737134573,15.63614744351962,21.5027784489007,38.12425683709869/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800110501:0001/pct:72.59402432149473,15.63614744351962,21.5027784489007,38.12921125644075/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4399,7 +4399,7 @@ option of feeki.ig accommodation, or
 proceeding to open war. The latter courfe  
 prevailed.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800110501:0001/pct:72.28799226866393,56.33174791914388,21.333655472336314,9.735434007134364/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800110501:0001/pct:72.28799226866393,56.341656757827984,21.341708947410808,9.735434007134364/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4444,7 +4444,7 @@ would be received with the rclpcc&#x27; due to ■
 his character, and treated with in the frank­  
 nefs of a fincere drWvc of accommodation.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800110501:0001/pct:71.90142546508818,67.80618311533888,22.155109929934767,24.435196195005947/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800110501:0001/pct:71.90947894016269,67.81113753468094,22.147056454860273,24.435196195005947/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4491,7 +4491,7 @@ aately perfifted, and the pernicious declara­
 tion was introduced.&quot;  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800110501:0004/pct:8.359507127325442,3.522592152199762,21.478618023677218,22.829964328180736/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800110501:0004/pct:8.367560602399935,3.5325009908838685,21.5027784489007,22.825009908838684/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4513,7 +4513,7 @@ oe&#x27;ach of them, even to the Secretary
 of State, his Conftitutiomil Counfellor, ii,  
 iimihr affairs, the firft notice of the pro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800110501:0004/pct:8.214544575984537,31.896551724137932,21.261174196665863,6.138525564803805/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800110501:0004/pct:8.214544575984537,31.901506143479985,21.269227671740357,6.133571145461752/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4547,7 +4547,7 @@ fufiieient confederation beforehand. Tin
 ♦me or the other, in an affair of lb great  
 moment, is a ferious reproach.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800110501:0004/pct:8.069582024643633,38.12425683709869,21.285334621889344,14.417360285374555/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800110501:0004/pct:8.069582024643633,38.12921125644075,21.301441572038335,14.417360285374555/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4590,7 +4590,7 @@ tions were fettled, be figmfied to the
 tiry of State that the envoys were  
 immediately to depart.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800110501:0004/pct:7.948779898526214,54.83055885850178,21.454457598453732,21.551724137931036/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800110501:0004/pct:7.948779898526214,54.84046769718589,21.462511073528226,21.556678557273088/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4621,7 +4621,7 @@ witb the general and fining wilb of
 ountry for peace, and as likely to pro­  
 mote that deferable object.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800110501:0004/pct:8.238705001208022,78.68608799048752,21.357815897559796,12.262187871581451/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800110501:0004/pct:8.254811951357011,78.69104240982956,21.349762422485302,12.267142290923504/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4660,7 +4660,7 @@ of arrangements which had been planned be­
 tween that general and my!! If, for the fu­  
 ture difpolition of the Wefterri Army.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800110501:0004/pct:8.359507127325442,3.596908442330559,42.957236047354435,89.86325802615933/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800110501:0004/pct:8.367560602399935,3.6068172810146653,42.957236047354435,89.85830360681729/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4830,7 +4830,7 @@ to all who knew their truth, irrcfi.ur;d&gt;hj
 proofs of his unfitness for the ftation of  
 Chief Magiutate.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800110501:0004/pct:29.620681323991302,3.6266349583828776,42.957236047354435,89.75921521997621/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800110501:0004/pct:29.63678827414029,3.6266349583828776,42.957236047354435,89.76416963931827/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4881,7 +4881,7 @@ came to the refolutioii, which he executed,
 of pardoning all thofe who had received it r.­  
 of death.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800110501:0004/pct:51.24426189900942,47.93400713436385,21.333655472336314,26.649821640903685/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800110501:0004/pct:51.25231537408392,47.93896155370591,21.349762422485302,26.659730479587793/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4972,7 +4972,7 @@ to terminate differences by negociation, to
 be followed, if unfuccefsful, by a declara­  
 tion of war ; that when the Britilh Treat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800110501:0004/pct:51.510026576467745,3.6712247324613556,42.73979222034308,89.69976218787158/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800110501:0004/pct:51.51808005154224,3.676179151803409,42.76395264556656,89.69480776852953/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5052,7 +5052,7 @@ withholding from him afihglc vote. The
 body cf Federal-Its, for want of fufficient  
 knowledge of facts, are not convinced of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800110501:0004/pct:72.67455907223967,43.32639714625446,21.671901425465087,48.974435196195/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800110501:0004/pct:72.67455907223967,43.32639714625446,21.68800837561408,48.989298454221164/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6542,7 +6542,7 @@ Such are the sentiments and expressions
 concerning Mr. Adams, with which this  
 long letter, (54 pages) of general Hamilton’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1803080901:0332/pct:25.21604938271605,6.976041876384135,16.38888888888889,7.781356955909/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1803080901:0332/pct:25.226337448559672,6.976041876384135,16.378600823045268,7.78471243540702/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6580,7 +6580,7 @@ fall, under his fuiure aufpices®
 Will any federalils, afier reading the 2-  
 bove extrafls from federal pamphlets, i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1803080901:0332/pct:25.0,15.3311858264546,16.48148148148148,14.18361183813167/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1803080901:0332/pct:25.005144032921812,15.3311858264546,16.48148148148148,14.186967317629689/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6618,7 +6618,7 @@ perior to the collected talents of all |m
 ministers, he may ve; assist his judgment by  
 a comparison ar&gt;d collision of idea;,* tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810073101:0101/pct:39.443564007747845,30.707143717624383,16.622644831836592,4.457294301891339/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810073101:0101/pct:39.436619718309856,30.703444953023368,16.625586854460092,4.460772504617362/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6650,7 +6650,7 @@ dious to the opposition party, it n&#x27;as deter­
 mined to proceed to extremities.&quot; Compare  
 this conjecture of (St-n. Hamiiton&#x27;s with the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216134:1811032101:0262/pct:30.006720430107528,25.24987869966036,22.24462365591398,12.256186317321689/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216134:1811032101:0262/pct:30.00167982529817,25.24742868232098,22.246486365417997,12.25823145093473/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6720,7 +6720,7 @@ particularly odious to the opposition party,
 it was determined to proceed to extremi­  
 ties.”—Compare this conjecture of Gene
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1811040501:0068/pct:4.380771963059437,2.0572579484966194,45.7494672034099,93.79945331606963/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1811040501:0068/pct:4.379734848484849,2.0569620253164556,45.74455492424242,93.78955696202532/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6907,7 +6907,7 @@ escape either in their innocence or in the lenity
 of the juries, since from him, in rase of convic­  
 tion they would have nothing to expect
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1828032901:0028/pct:63.01816488122962,76.62395543175488,17.49728303058531,9.827298050139277/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1828032901:0028/pct:63.00838248990996,76.61541889483065,17.49974128117562,9.829916815210932/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6950,7 +6950,7 @@ commotion, government* are prostrated, which
 might easily have been upheld by an erect and  
 imposing attitude/
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1828032901:0028/pct:62.73870517000466,9.470752089136491,35.78636857630803,85.10306406685237/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1828032901:0028/pct:62.72896615957777,9.469696969696969,35.78598778847149,85.09729649435532/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6989,7 +6989,7 @@ rally to the detriment of any cause of which he is the
 chief, and of any Administration of which he is the  
 head; and whose ill-humors and jealousies greatly dis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1840033101:0428/pct:52.00420357303708,79.9223184941739,15.808437171595857,2.370281844437805/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1840033101:0428/pct:52.00420357303708,79.92563821664508,15.818445678827002,2.3736015669090063/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7175,7 +7175,7 @@ against the stream of popular prejudice as it &#x27;
 was against the opinions of the other Electors  
 ft. An instance so unfortunate and so unhappy i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664382:1860092801:0317/pct:-0.039609189331925004,70.14880952380952,16.820702402957487,10.03968253968254/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664382:1860092801:0317/pct:-0.04841123140568612,70.14880952380952,16.838306487105008,10.042989417989418/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7201,7 +7201,7 @@ It appears to me that the opinion of this illustrious
 patriot and statesnsan of consummate wisdom ought to  
 have weight with the Depublican party at the presen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530674:1861022701:0400/pct:151.35769359704994,25.19922723979715,48.424404961448204,16.952426950012075/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530674:1861022701:0400/pct:50.45256453234998,8.399742413265717,16.141468320482737,5.650808983337358/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7228,7 +7228,7 @@ It appears to me that the opinion of. this il­
 lustrious patriot and statesman of consummate  
 wisdom ought to have weight with the Repub
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1861030701:0002/pct:56.881968473663974,76.03126356925749,10.111495578623606,4.110580402373715/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1861030701:0002/pct:56.896386005382546,76.0385005065856,10.106689734717417,4.1214358083658995/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7289,7 +7289,7 @@ he pleases, it must; be his own
 fault if he be not surrounded by  
 men. who for abilitv and integrit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033395:00212470375:1869012101:0013/pct:10.822637106184365,107.28947076445135,16.277712952158694,5.736158881615444/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033395:00212470375:1869012101:0013/pct:8.126641377297927,80.47265061577721,12.211847096585934,4.304892932430933/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7316,7 +7316,7 @@ unjustifiable to aggravate the de­
 privation of office by - humiliating  
 censares and bitter reproaches.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033395:00212470375:1869012101:0013/pct:10.764294049008168,114.14623321868412,16.1610268378063,11.13946521690891/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033395:00212470375:1869012101:0013/pct:8.082871316019842,85.6096749140131,12.124306974029764,8.354598912681682/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7410,7 +7410,7 @@ split asunder the British Empire, he
 cherished the conviction that it was  
 the best system possible. It was th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477874:1880122201:0848/pct:94.351630867144,268.86751830055977,40.17501988862371,55.4614611741065/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477874:1880122201:0848/pct:23.597294070831676,67.21687957513994,10.04775169120573,13.865365293526626/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

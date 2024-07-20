@@ -163,7 +163,7 @@ shall be paid to the Captain, agreeably to the
 intention of the Government and the Captain  
 shall not refuse it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015143:1825021501:0441/pct:21.87593646988313,61.48126689841638,16.466886424932575,4.789494013132484/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015143:1825021501:0441/pct:21.87593646988313,61.48126689841638,16.471880930975928,4.789494013132484/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -271,7 +271,7 @@ tain, agreeable to the intention of the
 Government and tlm captain shali not  
 reluse if
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898036:1825041201:0040/pct:39.80658651332985,63.93934344275954,17.30266596968113,15.564072654557574/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898036:1825041201:0040/pct:39.796185001306505,63.92869043652116,17.304677292918736,15.565644785071642/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -302,7 +302,7 @@ companies referred to in the requisition of this
   
 Department, of the 17th of July, may he re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_icydrop_ver05:data:sn83016872:00295878502:1847082801:0308/pct:30.98188751191611,46.03295697284101,20.662535748331745,3.2956972841013124/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_icydrop_ver05:data:sn83016872:00295878502:1847082801:0308/pct:23.2419547079857,34.52853219407995,15.518474374255065,2.471772963075984/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -323,7 +323,7 @@ Dear SIR; In answer to your letter of the
 20th ultimo I have the honor to inform you  
 that the rebel archives lately procured by th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_klm_ver01:data:sn86053572:00237288944:1872080701:0128/pct:242.04119850187266,104.07545826659548,42.97752808988764,8.542445274959958/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_klm_ver01:data:sn86053572:00237288944:1872080701:0128/pct:60.552822675099556,26.01886456664887,10.751932536893886,2.1356113187399894/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

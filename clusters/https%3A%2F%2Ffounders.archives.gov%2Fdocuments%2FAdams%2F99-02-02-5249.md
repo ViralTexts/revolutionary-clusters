@@ -410,7 +410,7 @@ lowig:
 O thou sword of the Lord how long will it be ere those be  
 miet? Put up thyself into thy scabbard rest and be a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basic_ver01:data:sn83030213:00206530704:1862020301:0227/pct:245.16645896385972,57.21636546184739,49.86647676695745,26.342871485943775/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basic_ver01:data:sn83030213:00206530704:1862020301:0227/pct:81.72215298795324,19.072121820615795,16.62215892231915,8.780957161981258/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -447,7 +447,7 @@ language of the text, &quot;O, thou sword of the Lord, how long
 will it be ere thou be quiet? put up thyself into thy scabbard,  
 rest, and be still.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn84022548:00202194941:1863042401:0487/pct:11.665357423409269,37.03703703703704,27.86724273369992,2.3789173789173788/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn84022548:00202194941:1863042401:0487/pct:8.7605578471813,27.77777777777778,20.899626792378708,1.794871794871795/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -510,7 +510,7 @@ fdrat to announce in the way of warning, more than 20
 years before, in my own hearing, on the door of Con  
 grese. I remember well the burst of indignation and d
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:00206531265:1876070501:0042/pct:200.7422068283028,101.96170014012144,47.5177304964539,21.310135450723962/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:00206531265:1876070501:0042/pct:66.91406894276761,33.98723338004048,15.839243498817966,7.103378483574653/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -602,7 +602,7 @@ After referring to the significance of the
 day the pastor dwelt on the causes that  
 led to the late war. Then he said in part
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:0041566560A:1896052501:0276/pct:42.91365280289331,30.968129885748645,16.56871609403255,5.600893394038313/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:0041566560A:1896052501:0276/pct:32.195342527696134,23.228244996134354,12.434998869545558,4.200670045528734/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -637,7 +637,7 @@ and against the seashore. There hath he
 appointed it.&quot; The sword in those days  
 had a charge against many nations an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_hoquiam_ver01:data:sn83045604:00202199677:1899120301:0061/pct:68.6357513950356,227.10497751589395,50.08658841639407,18.09582881066832/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_hoquiam_ver01:data:sn83045604:00202199677:1899120301:0061/pct:17.1589378487589,56.77624437897349,12.521647104098518,4.52395720266708/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -667,7 +667,7 @@ of war would be the submission of any recalei­
 trant nation, before the armies of the world  
 were well called from the pursuits of peace t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_rumi_ver01:data:sn83030272:00206539045:1899122401:0745/pct:225.1510574018127,222.55414488424196,50.151057401812686,24.854368932038835/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_rumi_ver01:data:sn83030272:00206539045:1899122401:0745/pct:56.31966748535802,55.63853622106049,12.544870583789912,6.213592233009709/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

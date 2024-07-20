@@ -112,7 +112,7 @@ it, one which, protected by truth, can never
 know reproach, it is that to which our lives  
 havo been devoted.&quot; We cannot forbear t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1837081601:0008/pct:32.818532818532816,15.445521153391633,15.863689776733255,12.18388087922477/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1837081601:0008/pct:32.818532818532816,15.445521153391633,15.874881092272396,12.195698416450012/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -226,7 +226,7 @@ prices, the generul prostration of the farming business
 under leries for the support of manufucturers. &amp;e, hare  
 kept agriculture in a state of abject depression.&quot; Oc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347892:1842080401:0422/pct:9.958831601646736,50.425594364543585,62.75240148990394,8.643968300557676/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347892:1842080401:0422/pct:2.4892199137593103,12.60454878943507,15.685025480203842,2.160674981658107/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -268,13 +268,13 @@ a state of a^ect depressionsame volume,
 prices, the general prostration of the /arming business,  
 under levies for the support of manufacturers, Arc.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664266:1843061301:0623/pct:3.3712984054669706,19.201107375914575,16.112376613515565,1.4138817480719794/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664266:1843061301:0623/pct:3.376360415084789,19.201107375914575,16.10731460389775,1.4204732713730144/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Continental monthly_](https://archive.org/details/sim_continental-monthly_1864-02_5_2/page/n6/mode/1up?view=theater)
+## [From _The Continental Monthly; Devoted to Literature and National Policy (1862-1864)_](https://archive.org/details/sim_continental-monthly_1864-02_5_2/page/n6/mode/1up?view=theater)
 
 #### 1864-02-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -328,7 +328,7 @@ ples.” And, to close this long list of somersets of opinion, althoug
 &quot;Take care of me when dead, and be assured I  
 shall leave with you my last affections.&quot; Althoug
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_newfoundland_ver04:data:sn83045462:0028065453A:1880052201:0212/pct:15.406643757159221,87.74587146313243,15.492554410080183,1.4620805722099506/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_newfoundland_ver04:data:sn83045462:0028065453A:1880052201:0212/pct:15.417382588774341,87.74587146313243,15.503293241695303,1.4699694961607237/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -350,7 +350,7 @@ versity) under your care, and an assur-­
 ance that it will not be wanting.&quot;  
 It is a melancholy fact, disguise it a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_tesla_ver01:data:sn85038614:00175030906:1886012401:0111/pct:76.75397567820393,257.926893500474,34.51824134705332,12.303802802064679/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_tesla_ver01:data:sn85038614:00175030906:1886012401:0111/pct:25.58465855940131,85.97563116682468,11.506080449017773,4.101267600688226/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -452,7 +452,7 @@ university that that vestal flame is to be
 kept alive; it is thence it is to be spread  
 anew over our own and the sister States.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042957:1897081901:0043/pct:126.02001539645882,285.8958837772397,51.03926096997691,21.54963680387409/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042957:1897081901:0043/pct:31.51106833493744,71.47397094430993,12.762271414821944,5.387409200968523/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -482,7 +482,7 @@ that vestal flame ig to be kept alive; it is
 thonece it is to ba spread anew over our  
 own and the sistor states,”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_efreeti_ver01:data:sn91070630:00514152913:1897082301:0809/pct:30.289172831203764,37.1669442131557,12.871553463349025,2.61240632805995/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_efreeti_ver01:data:sn91070630:00514152913:1897082301:0809/pct:30.289172831203764,37.17388287538163,12.880520062766196,2.6089369969469884/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -504,7 +504,7 @@ is to be spread anew over our
 own and the sister States.&quot;  
 Jefferson, it is true, has bee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_black_ver02:data:sn84020751:00415667851:1897082601:0369/pct:9.924768518518519,89.50018420729461,14.380787037037036,5.649023701338573/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_black_ver02:data:sn84020751:00415667851:1897082601:0369/pct:7.45404544796642,67.12513815547095,10.78303661890288,4.249048262311187/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -537,7 +537,7 @@ to be Whigs, because they no longer
 know what Whigism or Republicanism  
 means.’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_griffin_ver01:data:sn85042104:00332892071:1899062101:0380/pct:20.09475575886293,22.171945701357465,14.37673582747917,9.502262443438914/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_griffin_ver01:data:sn85042104:00332892071:1899062101:0380/pct:20.09475575886293,22.17562447117684,14.382181560747155,9.509619983077659/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -602,7 +602,7 @@ to be Whigs, (because they no longer
 know what Whigism or Republicanism  
 means.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_griffin_ver01:data:sn85042104:00332892071:1899062501:0410/pct:7.37544773689352,18.298342541436465,14.229892543145555,9.049723756906078/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_griffin_ver01:data:sn85042104:00332892071:1899062501:0410/pct:7.3863019646152175,18.30570902394107,14.229892543145555,9.049723756906078/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

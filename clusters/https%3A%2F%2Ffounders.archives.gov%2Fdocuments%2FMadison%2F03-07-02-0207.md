@@ -86,7 +86,7 @@ approves your cfl.yV to obtain a copy of that
 decree, a-, he does the ccmnuiuiciuon of it  
 afterwards to Mr. Russell
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024513:00414184121:1813072101:0047/pct:3.7070321276117726,10.655496766607877,22.062457874634912,5.805408583186361/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024513:00414184121:1813072101:0047/pct:3.706199460916442,10.6539309331374,22.064989517819708,5.809453832965956/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -114,7 +114,7 @@ proves your effort to obtain a copy of that
 decree, as lie dues the commumentica of it  
 afterwards to Mr. Russell.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813072201:0229/pct:25.6791483113069,18.226239921817736,17.088839941262847,7.8304422184216955/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813072201:0229/pct:25.674435676270875,18.224013680224747,17.09182112925919,7.833557265583649/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -165,7 +165,7 @@ approves your effort to obtain a copy of that deeree,
 as he does the communication of it u‘s\ ards Lo Nir.  
 Russell, 1 have the honos, ete
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1813080501:0873/pct:27.134916624557857,6.89998011533108,22.132390096008084,4.016703121893021/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1813080501:0873/pct:27.134916624557857,6.90329422681779,22.149233619673236,4.023331344866441/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -371,7 +371,7 @@ ed, ■&#x27;thdr- heayy,, advnnW* of iuoney&#x27;; which the
 tt*-especially enjoined &lt;mi the* geuer.-il&#x27;ginerii­  
 ■A • *&gt;?&lt;fer teftns* afflire ftderal constitution
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1814020501:0761/pct:6.386213887480993,7.888707037643208,22.90927521540801,62.47135842880524/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1814020501:0761/pct:6.384595895616925,7.887416134838816,22.909804915125413,62.465226640484374/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -397,7 +397,7 @@ fortunately
 with Kag  
 M ue iMv ihcexisting hoaiililir
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1814020501:0761/pct:6.512924480486569,77.6759410801964,22.402432843385707,6.824877250409165/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1814020501:0761/pct:6.511274385609323,77.66323024054982,22.403090955155815,6.827851415480281/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -548,7 +548,7 @@ tious, added^allthe difiisujtics offhe iiOmc­
 confidence in we faithful integrity of onr eastern  
 »r* men, wa arc free t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1814020501:0761/pct:29.472883933096806,4.009819967266775,22.32640648758236,87.51227495908347/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1814020501:0761/pct:29.465416772232075,4.009163802978236,22.327083861160375,87.50204549173621/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -596,7 +596,7 @@ the dearest &#x27;hopes, the harmony stud (he liberties
 of this United Umpire, to irretrievable destruc­  
 tion
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1814020501:0761/pct:52.052711606690316,4.680851063829787,22.098327420172325,22.127659574468087/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1814020501:0761/pct:52.03952368887763,4.680085092456227,22.099062579174056,22.128129602356406/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

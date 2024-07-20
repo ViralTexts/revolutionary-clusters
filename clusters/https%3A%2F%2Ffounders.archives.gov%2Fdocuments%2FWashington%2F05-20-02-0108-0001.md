@@ -210,7 +210,7 @@ original part. My vish is, that tho whole may
 appear in a plain style and be handed to the pub­  
 lic in an honest, unaffected, simple garb. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210053:1884050201:0017/pct:64.35175672899116,95.72048481221009,18.43024450380111,8.259763579230885/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210053:1884050201:0017/pct:49.87791932059448,74.18245071511403,14.294055201698514,6.408967916505605/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -267,7 +267,7 @@ one or two of those characters who are now
 strongest and foremost In the opposition  
 to the government&quot; that Is , Jefferson an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_beatrice_ver01:data:sn99021999:00206538946:1896092001:0928/pct:60.70441988950276,112.14838972686506,16.177486187845304,6.699279793450197/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_beatrice_ver01:data:sn99021999:00206538946:1896092001:0928/pct:45.5440414507772,84.1112922951488,12.141623488773748,5.027857045794265/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -314,7 +314,7 @@ in a plain style, and be handed to the
 public in an honest, unaffected, simple  
 part.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_u2_ver01:data:sn85038614:00175032861:1897022101:0402/pct:6.633291614518147,249.675394936161,40.550688360450565,10.095217485392773/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_u2_ver01:data:sn85038614:00175032861:1897022101:0402/pct:2.2110972048393824,83.225131645387,13.516896120150188,3.365072495130924/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

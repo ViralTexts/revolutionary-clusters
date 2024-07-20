@@ -44,7 +44,7 @@ be offeied at the celebration. ‘‘ I will give you,”
 said he, “ Independence forever!” He was asked  
 if he would not add anything to it, and he replied
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_debaptiste_ver01:data:sn84025908:00211664137:1856101301:0358/pct:77.80657702899724,55.81210191082803,14.612020087477726,4.777070063694268/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_debaptiste_ver01:data:sn84025908:00211664137:1856101301:0358/pct:77.80657702899724,55.81210191082803,14.622819806685026,4.78465271458902/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -76,7 +76,7 @@ you,&#x27; said be, &#x27; Inilcjtendence Jorcrer!&#x27; &quot; He
 was asked if he would not add anything to it,  
 and he replied, &quot; Not a word.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1856121801:0635/pct:50.024055809477986,69.57096957096957,11.943709405821506,3.7327537327537326/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1856121801:0635/pct:50.03207441263732,69.57726957726958,11.93970010424184,3.7327537327537326/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -99,7 +99,7 @@ dependence forever!&quot; He was asked if he
 would not add anything to it, and he re­  
 plied: &quot;Not a word.&quot; The visitor was no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_chevy_ver01:data:sn83025733:00200294725:1881100201:0435/pct:46.75701839303001,317.814074187147,57.21200387221685,17.21874522973592/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_chevy_ver01:data:sn83025733:00200294725:1881100201:0435/pct:11.689254598257502,79.45351854678675,14.303000968054212,4.30468630743398/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -123,7 +123,7 @@ dence forever!’ He waa aeked if he
 would not add anything to it, and  
 he replied, “Not a word,&quot; Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_floyd_ver01:data:sn86092245:00414186580:1881102101:0713/pct:31.41403320835565,15.053535460616983,12.038028923406534,6.572670412382063/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_floyd_ver01:data:sn86092245:00414186580:1881102101:0713/pct:31.409827286115945,15.05193979224083,12.040880082117196,6.575507031305208/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -156,7 +156,7 @@ on,&#x27;said he, &#x27;Independence Forever!&#x27;
 ie was asked if he would not add anyling  
 to it, and he replied: &#x27;Not 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_henryjohnson_ver01:data:2012218613:00237288427:1881111601:0025/pct:45.224036123654045,59.04770060803288,10.871830496700243,4.23053866575319/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_henryjohnson_ver01:data:2012218613:00237288427:1881111601:0025/pct:45.23175485315117,59.0505552225172,10.879549226197367,4.23053866575319/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -176,7 +176,7 @@ him.&#x27;&#x27; &quot; I will give you,&quot; said he, &quot; Independ­
 ence Forever!&quot; 44 Unceasing shout*,&quot; we are  
 told, greeted the toast offered at the Ouinc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mastiff_ver01:data:sn83045462:00280654449:1885080101:0009/pct:62.40049751243781,36.360874848116644,12.276119402985074,2.4301336573511545/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mastiff_ver01:data:sn83045462:00280654449:1885080101:0009/pct:62.40049751243781,36.360874848116644,12.28544776119403,2.445321992709599/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -197,7 +197,7 @@ will give you,&quot; said he, &quot;Independence For
 evar He was asked if he would not add any­  
 thing to it, and he replied, &quot;Not a word.&quot; A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_dante_ver01:data:sn83030272:00175044863:1885080201:0488/pct:124.27107959022852,86.13116264782676,51.615445232466506,10.259560743357396/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_dante_ver01:data:sn83030272:00175044863:1885080201:0488/pct:31.080015766653528,21.53279066195669,12.90894757587702,2.564890185839349/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -242,7 +242,7 @@ ence Forever!” He was asked if he
 would not add anything to it, and he  
 replied, “Not a word.” At this tim
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588290:1885091901:1118/pct:11.775005471656817,77.27341504009684,17.421755307507112,5.310939627780299/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588290:1885091901:1118/pct:9.137170643446794,59.887425243325644,13.513513513513514,4.11992338662393/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -264,7 +264,7 @@ ence Forever!” He was asked if lie
 would uot add anything to it, and ho  
 replied, “Not a word. At this tim
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kite_ver01:data:sn86092182:00514157480:1885100301:0559/pct:2.9335184863738935,52.90681879923934,9.876757507377192,3.327900027166531/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kite_ver01:data:sn86092182:00514157480:1885100301:0559/pct:2.9330093717459214,52.899633301643355,9.879382158972579,3.3308434062202905/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -330,7 +330,7 @@ enee Forever!&quot; He was asked if he
 would not add anything to it, and he  
 replied, &quot;Not a word.&quot; At this tim
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_lila_ver02:data:sn88064176:00211100849:1885112801:0816/pct:6.663974151857835,62.52242307161584,14.680936995153473,4.401821443355871/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_lila_ver02:data:sn88064176:00211100849:1885112801:0816/pct:6.663974151857835,62.53105161468396,14.680936995153473,4.402428926304168/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -858,7 +858,7 @@ in India, and for establishing a Co
 that I, Henry Caner of Boston in the county of  
 Suffolk and province of the Massachusetts bay
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_hera_ver01:data:sn83021205:00517171530:1876112101:1096/pct:36.215802563612016,75.3633413291943,13.94681461641477,1.0864964018625654/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_hera_ver01:data:sn83021205:00517171530:1876112101:1096/pct:28.066620539685676,58.41291827659109,10.808540081051696,0.8420208500400962/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -66,7 +66,7 @@ not agree to ‘cohtinue, he &quot; will aﬂi}gn;tq
 théinh on another ‘part of thie banks of the  
 Miflifippi an equivalent eflablifhment
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796040901:0057/pct:76.40136265097553,66.05970149253731,15.747909569526168,7.711442786069652/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796040901:0057/pct:76.40136265097553,66.06301824212272,15.747909569526168,7.711442786069652/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -94,7 +94,7 @@ not agiee to continue, he will &#x27;aﬂ??n to
 them on another paal&#x27;t of tzcbmks of the  
 Mifhfippi an equivalent establishment
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796041601:0061/pct:74.16911423713093,65.20914445442747,15.70567321069717,8.106219426974144/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796041601:0061/pct:74.1742670170557,65.21247213071112,15.70567321069717,8.112874779541446/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -120,7 +120,7 @@ lhould not agree to continue, he will affign ro them
 t»n another part of the banks of the Miffifippi an  
 equivalent efrablilhment
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_zarley_ver01:data:sn84038410:01000424529:1796042101:0114/pct:11.200644641418211,13.169984686064318,28.283642224012894,9.59673302705462/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_zarley_ver01:data:sn84038410:01000424529:1796042101:0114/pct:11.196133709222714,13.16662413881092,28.282319774466373,9.600663434549631/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -189,7 +189,7 @@ will affign to them on another part of the
 banks of the Misiiﬄppi an equtvalent Cstd­  
 blishment.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802112901:0605/pct:46.82830131137542,47.658305560428,21.180237877401648,10.2262760919137/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802112901:0605/pct:46.82116176246379,47.65412610716478,21.182090765868782,10.228302493495864/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -258,7 +258,7 @@ liablishment ! Surely it is not in the spi.
 rit tmti intention of&#x27;this treaty :thrtzptictv to  
 shut the port without any prchm-s no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802122201:0665/pct:48.53543307086614,77.33147373314738,20.96062992125984,13.258949325894932/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802122201:0665/pct:48.527790899071015,77.32428412049089,20.962578071694747,13.260815668774018/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -317,7 +317,7 @@ If therefore, his Catholic Majesty has
 dis-continued his permiszsiton to the citizens  
 of the United State;, to depofit thei
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803010601:0020/pct:53.39491916859122,10.221663824822759,21.462663587374905,20.721529211163958/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803010601:0020/pct:53.38669950738916,10.220746590093324,21.464490968801314,20.72266092366595/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -375,7 +375,7 @@ not agree to continue it there, he wll
 assign them on anOther part ossi the bank!  
 of the Misiisiippi, an equivalent esiabhsh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803011501:0052/pct:77.45895350621451,72.43893867510104,21.52831057234924,11.289755754700405/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803011501:0052/pct:77.44706965326787,72.43257489238339,21.530121714227267,11.291692289671733/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -405,7 +405,7 @@ he {if}! .rsssign to them on another part of
 the banks or the;}y&#x27;Iisisirsiippi an equivalent  
 fcstablishmenf.&quot; si 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803012501:0072/pct:5.90370955011839,29.10727013542409,22.904498816101025,13.070206699928724/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803012501:0072/pct:5.902777777777778,29.104677060133632,22.906144781144782,13.072011878247958/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -430,7 +430,7 @@ himself &amp; sufficient time to determine whe­
   
 ctthemseives on this point, therefore, th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803012501:0072/pct:29.376479873717443,66.46471846044192,22.367797947908446,26.01568068424804/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803012501:0072/pct:29.371843434343436,66.45879732739421,22.36952861952862,26.016332590942834/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -464,7 +464,7 @@ time, the term of three ymrs; the sentchc
   
 siesi-sitould nntsiagrce to continue it there ;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803012501:0072/pct:29.802683504340962,76.22059871703493,22.71507498026835,17.061653599429793/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803012501:0072/pct:29.7979797979798,76.21380846325167,22.71675084175084,17.06310319227914/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -586,7 +586,7 @@ unless he should extend this ptiz ilege to the
 subjects of othersspowers by special comen­  
 tion. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803030701:0176/pct:5.119843469753791,55.9726051765543,22.6968857003098,5.621275460286401/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803030701:0176/pct:5.119008803390936,55.96762717893988,22.69861971524834,5.623740068777422/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -623,7 +623,7 @@ he will assign to. them, on another part oi­
 the Eanks at the Miﬄisippi, an EQUI.  
 VALEN T ESl&#x27;ASLlSI—JMENT.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803030701:0176/pct:5.038317299853253,72.16045539446768,23.544757867275397,10.326425331317264/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803030701:0176/pct:5.037495924356048,72.15403770900035,23.546353657211174,10.32847148108621/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -660,7 +660,7 @@ ted States, unless he should extend this
 privilege to the subjects of other powers  
 by special convention
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1803031801:0047/pct:7.722222222222222,60.98195697432339,20.416666666666668,3.018736988202637/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1803031801:0047/pct:7.720077756178839,60.971379011274934,20.41793946126076,3.0225498699045965/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -690,7 +690,7 @@ to them, on another part of the banks of
 the Mississippi, an EQUIVALENT  
 ESTABLISHMENT.” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1803031801:0047/pct:7.388888888888889,72.20680083275504,20.88888888888889,11.8147120055517/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1803031801:0047/pct:7.386836989725077,72.19427580225499,20.890030547070257,11.816999132697312/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -747,7 +747,7 @@ die hire of the stores.”—His Majesty,
 Krwever, by his proper agent, has seenft  
 to violate this treaty, and deprive us o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1803041501:0064/pct:51.22219170557539,22.04450625869263,20.763526503707773,5.30250347705146/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1803041501:0064/pct:51.20812740252608,22.04067443073179,20.764689730917077,5.305927342256214/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -799,7 +799,7 @@ whole-breadth from its source to the: occan,
 shall be free t&#x27;) the citichs of (in: Unilcd  
 siStat-:s,and that they shall have the righ
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216134:1811012101:0058/pct:55.41755188756333,13.342789598108746,21.702892629514626,4.756501182033097/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216134:1811012101:0058/pct:55.408496732026144,13.341527987897125,21.70479302832244,4.759203227433182/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -838,7 +838,7 @@ tion oi&#x27; the Mississippi, in its whole breadth
 from i.s source to the ocean, shall be free to  
 the citizens of the United States, and tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1811012501:0032/pct:30.404624277456648,61.70547064705042,21.98843930635838,3.499500071418369/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1811012501:0032/pct:30.397595931576515,61.696658097686374,21.989135460009248,3.5025706940874035/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -877,7 +877,7 @@ noi agree to continue it there, he will assign
 to them on another pan of the banks of me  
 Mississippi an equivalent establishment.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1811020501:0356/pct:23.775971093044262,41.82910383719505,17.542908762420957,13.914429324506559/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1811020501:0356/pct:23.771676300578033,41.82397646481981,17.545761078998073,13.916809675574079/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -943,7 +943,7 @@ this privilege to the subjccts of other powers
 the same (reaty it was agreed, that in “con-.  
 sequence of the stipulations contained 1n th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1811022101:0364/pct:49.61476725521669,84.2219589257504,21.380417335473517,6.891785150078989/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1811022101:0364/pct:49.62011771000535,84.22854133754608,21.38576779026217,6.888493944181148/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -968,7 +968,7 @@ i
   
 ises cither 1o continue &#x27; b‘. . 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1811022101:0364/pct:49.61476725521669,7.415086887835703,44.51043338683788,88.54660347551342/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1811022101:0364/pct:49.62011771000535,7.418378093733544,44.515783841626536,88.54989468141127/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1042,7 +1042,7 @@ continue it there, he will assign them on an
 other part of the banks of the Mississippi, an  
 equivalent establishment.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn87065695:00295877583:1842051301:0362/pct:34.29014740108612,107.70811921891058,24.39875872769589,10.80421377183967/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn87065695:00295877583:1842051301:0362/pct:25.73258296138172,80.78108941418294,18.319425577333593,8.106372045220967/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1140,7 +1140,7 @@ France; of the injurious effect of this cession upon the rer
 union or welfare of the United States ; and of the iin|&gt;or- tic.  
 tance of committing the interests of the United States to ti
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848012701:0108/pct:46.866441114870305,15.061604224289665,17.013049782503625,6.62559718380689/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848012701:0108/pct:46.87718167660169,15.069985751403905,17.007679501637934,6.62559718380689/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1182,7 +1182,7 @@ should not agree to coulinus it there, he will assigu to them,
 ou another |&gt;art of the banks ot the Mississippi, an equivalent  
 establishment.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848012901:0059/pct:16.817204301075268,11.77595321111236,15.655913978494624,8.255539309414015/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848012901:0059/pct:16.817204301075268,11.783451430285307,15.655913978494624,8.259288419000487/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1212,7 +1212,7 @@ The treaty itself was ratified the 3d of March, 1796.
 To carry that part of the treaty into eff ct which related to  
 the boundary line, the withdrawing of the troops, and th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848022601:0096/pct:3.601304409471147,30.776173285198556,15.48277328796257,4.253158844765343/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848022601:0096/pct:3.606030530743419,30.779933814681108,15.48277328796257,4.253158844765343/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1232,13 +1232,13 @@ end of that time tfie privilege was either to he
 continued, or an equivalent establishment as­  
 signed on another part of the banks of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215828:1849041901:0200/pct:71.88223938223938,52.91473521562017,12.664092664092664,2.682961090040736/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215828:1849041901:0200/pct:71.87530161181353,52.91101903223541,12.666087571984686,2.685113654985135/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The American Whig review_](https://archive.org/details/sim_american-whig-review_1850-09_12_33/page/n71/mode/1up?view=theater)
+## [From _The American Whig Review (1850-1852)_](https://archive.org/details/sim_american-whig-review_1850-09_12_33/page/n71/mode/1up?view=theater)
 
 #### 1850-09-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -1297,7 +1297,7 @@ were permitted to deposit their goods at the port of New
 subsequent acquisition of Louisiana and Florida by the  
 United Stales, having included in their territory tbe whol
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661216:1853112701:1278/pct:32.97172912557528,42.997757288811364,15.94345825115056,2.442063294293546/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661216:1853112701:1278/pct:32.98268682884068,42.997757288811364,15.932500547885164,2.4503696320292385/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1318,7 +1318,7 @@ should extend this privilege to the sub-­
 jects of other powers, by special conven-­  
 tion.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_gastly_ver01:data:sn82015737:00279529108:1861011501:0691/pct:57.47962747380675,235.76336697444708,36.9615832363213,11.037148378784625/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_gastly_ver01:data:sn82015737:00279529108:1861011501:0691/pct:19.15987582460225,78.58778899148236,12.320527745440435,3.679049459594875/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1347,7 +1347,7 @@ tinue it thus, he will assign to them, on
 another part of the banks of the Missis­  
 sippi, an equivalent establishment.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_gastly_ver01:data:sn82015737:00279529108:1861011501:0691/pct:57.47962747380675,250.79450289886194,37.15075669383003,23.920979171140218/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_gastly_ver01:data:sn82015737:00279529108:1861011501:0691/pct:19.15987582460225,83.59816763295397,12.383585564610012,7.973659723713406/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1367,7 +1367,7 @@ and the citizens of the United States, unless
 he should extend this privilege to the subjects  
 of other powers by special convention.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200290045:1861011801:0011/pct:199.27937915742794,188.7816917208885,34.20177383592018,7.9425622616109495/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200290045:1861011801:0011/pct:49.83365677848628,47.19542293022212,8.552813972830608,1.9856405654027374/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1394,7 +1394,7 @@ estnue it thus, ne will assign to them, on
 another part of the banks of the Mississippi,  
 an equivalent establisment.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200290045:1861011801:0011/pct:199.16851441241684,200.80771819609603,34.312638580931264,15.3017724927081/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200290045:1861011801:0011/pct:49.80593290823399,50.20192954902401,8.580537843082894,3.825443123177025/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1410,7 +1410,7 @@ s of the United States,
 unless he should extend this privilege to the  
 subjects of other powers by special conven
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_dragonair_ver01:data:sn87090585:00414212414:1861012501:0044/pct:32.148533448923565,69.71815834767642,12.772720705100419,1.5813253012048192/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_dragonair_ver01:data:sn87090585:00414212414:1861012501:0044/pct:32.14388904940768,69.7106593524793,12.77448714244438,1.5838442508336021/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1437,7 +1437,7 @@ assign to them, on another part of the banks
 of the Mississippi, an equivalent establish­  
 j meat.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_dragonair_ver01:data:sn87090585:00414212414:1861012501:0044/pct:31.874006646438374,73.41867469879519,13.10504262389828,6.73407917383821/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_dragonair_ver01:data:sn87090585:00414212414:1861012501:0044/pct:31.869401906963304,73.4107776702162,13.106761051719156,6.736043885124234/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1456,7 +1456,7 @@ and the citizens or the United States, unless he
 shonld extend this privilege to the subjects of  
 other powers by special convention.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347294:1861012501:0030/pct:23.899570951851263,44.07655277679934,12.950897822977913,2.6417752729834447/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347294:1861012501:0030/pct:23.899570951851263,44.0804665179445,12.9614916044282,2.6417752729834447/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1483,7 +1483,7 @@ continue it thus, he will assign to them, on an­
 other part of the banks of the Mississippi, an  
 equivalent establishment.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347294:1861012501:0030/pct:23.83600826314953,47.92767406363743,12.966788495153345,5.612304802160385/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347294:1861012501:0030/pct:23.84660204459982,47.92767406363743,12.966788495153345,5.6201322844507065/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1513,7 +1513,7 @@ should not agree to continue it thus he will assign to
 them, on another part of the banks of the Mississippi, an  
 ogaivalent establisnment
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743373:1861012801:0259/pct:12.955204640670319,110.48832750648472,45.74605220754109,19.60076688846284/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743373:1861012801:0259/pct:4.318401546890106,36.82944250216157,15.248684069180364,6.5335889628209465/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1532,7 +1532,7 @@ the citizens of the United States, unless he
 should extend this privilege to the subjects of  
 other Powers by special convention
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774662:1861013001:0112/pct:175.9087669280114,259.96835443037975,48.39629365645046,10.70675105485232/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774662:1861013001:0112/pct:44.000713139597075,64.99208860759494,12.105544660367267,2.67668776371308/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1562,7 +1562,7 @@ iy this treaty, the 1ree nastgation of tha
 er was agaiu specially confirmed by Spain to  
 the States which had previously succeeded to it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774662:1861013001:0112/pct:175.9087669280114,274.26160337552744,48.823948681397006,28.69198312236287/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774662:1861013001:0112/pct:44.000713139597075,68.56540084388186,12.212515599928686,7.172995780590718/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1598,7 +1598,7 @@ to continue it thus, he will assign to
 them, on another part of the Mississippi, an  
 equivalent establishment.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn82015672:00296021970:1861013101:0213/pct:174.41566645609603,151.30774235523748,49.0840176879343,43.82563435263501/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn82015672:00296021970:1861013101:0213/pct:43.61769352290679,37.82693558880937,12.274881516587678,10.956408588158752/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1618,7 +1618,7 @@ United States, unless he should extend
 this privilege to other Powers by special  
 convention
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028822:00280775459:1861020701:0215/pct:177.40278796771827,327.3288439955107,49.1562729273661,14.758698092031425/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028822:00280775459:1861020701:0215/pct:44.36697247706422,81.83221099887767,12.293577981651376,3.6896745230078563/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1646,7 +1646,7 @@ i eigh to them on anothel palt of
 the banks of the Mississippi, an equivalent  
 establishment
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028822:00280775459:1861020701:0215/pct:176.81584739545121,346.8013468013468,50.69699192956713,32.098765432098766/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028822:00280775459:1861020701:0215/pct:44.22018348623853,86.7003367003367,12.678899082568808,8.024691358024691/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1672,7 +1672,7 @@ that Confederacy. When goods are carried into the
 Southern Confederacy for sale, whether they come  
 from the United States or any other foreign Gov
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038518:00200293319:1861031401:0251/pct:20.84985835694051,111.1765944011787,45.6657223796034,22.311092401599662/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038518:00200293319:1861031401:0251/pct:5.212464589235127,27.794148600294676,11.41643059490085,5.577773100399916/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1700,7 +1700,7 @@ to assign to our citizens on another
 part of the bank of the Mississippi an  
 equivalent establishment. In 1801
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn82014140:00279529467:1862060501:0170/pct:6.119866559300586,94.05996077332586,30.863913493615552,17.231717567946202/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn82014140:00279529467:1862060501:0170/pct:2.0399555197668624,31.353320257775287,10.287971164538517,5.743905855982068/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1716,7 +1716,7 @@ on of the said river (the Mississippi), in its
 whole breadth, from its source to the ocean shall be free  
 only to his subjects and the citizens of the United States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:00271743415:1862060801:0372/pct:142.9918699186992,75.14364513904849,44.94308943089431,3.9990806711100895/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:00271743415:1862060801:0372/pct:47.66395663956639,25.047881713016164,14.981029810298104,1.33302689037003/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1847,7 +1847,7 @@ the navigation of the said riven
 breadth, from its source to the  
 ocean, shall be free to his sub
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_imogen_ver01:data:sn90061309:00200292194:1898121501:0023/pct:37.13307240704501,87.71526980482204,22.578277886497066,7.249466950959488/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_imogen_ver01:data:sn90061309:00200292194:1898121501:0023/pct:27.88249694002448,65.78645235361654,16.940024479804162,5.445300967689027/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1865,7 +1865,7 @@ ocean, shall be free to his sub
 extend this privilege to the  
 subjects of other powers by
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_imogen_ver01:data:sn90061309:00200292194:1898121501:0023/pct:15.386497064579256,96.44087256027555,43.737769080234834,3.132688207315073/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_imogen_ver01:data:sn90061309:00200292194:1898121501:0023/pct:11.554467564259486,72.33065442020666,32.827417380660954,2.3618172871904215/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1892,7 +1892,7 @@ nV.Mich possession until lTM, prejudicial to the interests ff dent should be aut
 people of the West were deeply  
 concerned in the possession of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_imogen_ver01:data:sn90061309:00200292194:1898121501:0023/pct:14.995107632093934,110.56257175660161,66.56066536203522,8.528784648187633/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_imogen_ver01:data:sn90061309:00200292194:1898121501:0023/pct:11.260709914320685,82.92602919468591,49.96328029375765,6.3965884861407245/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -47,7 +47,7 @@ e purpose.
 Note. It is clearly nnderftood by the  
 n parties to this treaty, that the annuit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1795013001:0002/pct:75.75169738118332,20.848822800495665,17.143549951503395,13.894052044609666/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1795013001:0002/pct:75.75169738118332,20.856567534076827,17.155674102812803,13.90179677819083/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -176,7 +176,7 @@ a* aff refaid to deliver up the perfota or perfons
 againft whom the comphhrt is made to the end  
 that he or they may he puniflied agreeabl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805030401:0002/pct:60.63996419780712,82.69925020827547,19.042291340344597,8.803110247153569/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805030401:0002/pct:60.64742298799135,82.69925020827547,19.05720892071306,8.807738591132093/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -205,7 +205,7 @@ igaiust whom the complaint is made to the end that
 ie u- they may he punished agreeably to the laws of  
 he stale or territory where the offence may hav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805032901:0422/pct:25.98321971683272,31.084376524142417,22.62716308337703,9.0716956592424/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805032901:0422/pct:25.976408912188727,31.079323797139143,22.627785058977718,9.07428478543563/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -324,7 +324,7 @@ or persons, against whom the complaint is
 made, to the end, that he or they may be ‘  
 punished, agreeably to the laws of the stat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010832:1819032301:0429/pct:4.9545136459062284,6.312713102776425,77.3407977606718,87.80321480759864/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010832:1819032301:0429/pct:4.959178912992769,6.31920766358175,77.3407977606718,87.80321480759864/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -359,7 +359,7 @@ duiy of ‘the said niba or natibn, upon com
 - compiaint 1s made, to the end thet he or they  
 sy be punishicd, agreeably to the laws o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1819062301:0922/pct:48.05089880832155,22.010934157356786,22.359119369824278,14.250059424768244/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1819062301:0922/pct:48.06436410152831,22.010934157356786,22.3523867232209,14.257982727200698/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -507,7 +507,7 @@ of the nation to which the offerider
   
 belongs. What more demonstrabl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_topsn83020874_ver01:data:sn83020874:print:1829123001:0002/pct:15.542652970075927,55.90469099032018,15.252344796784278,8.32464631422189/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_topsn83020874_ver01:data:sn83020874:print:1829123001:0002/pct:15.55940151853506,55.91586001489203,15.252344796784278,8.320923306031274/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -583,7 +583,7 @@ the troops of the United States at the nearest post.
 And should any tribe with hostile intentions against  
 the United States or either of them, attempt to pas
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271742903:1844083101:0260/pct:147.6601393959509,234.56959706959708,47.411218055094594,34.31776556776557/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271742903:1844083101:0260/pct:49.22004646531696,78.18986568986568,15.803739351698196,11.439255189255189/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -611,7 +611,7 @@ belonging to said tribe, the person or persons
 so offending shall be tried, and if found guilty,  
 shall be nunished according to the laws of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_coyote_ver02:data:sn88071075:0029602515A:1856041901:0137/pct:296.25,150.11128231467214,65.3409090909091,30.953603834959768/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_coyote_ver02:data:sn88071075:0029602515A:1856041901:0137/pct:74.12567529144157,37.527820578668035,16.34916121694626,7.738400958739942/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -641,7 +641,7 @@ diau belonging to said band, the person so offen
 ding shall be tried, and if found guilty, shall  
 be punished according to the laws of the Unite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_coyote_ver02:data:sn88071075:0029602515A:1856041901:0140/pct:174.77578475336324,232.52971137521223,64.34977578475336,35.65365025466893/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_coyote_ver02:data:sn88071075:0029602515A:1856041901:0140/pct:43.73071528751753,58.13242784380306,16.100981767180926,8.913412563667233/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -674,7 +674,7 @@ murder shall be committed on any Indian or
 Indians, belonging to said band, the person or  
 persons so offending shall be tried, and if foun
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deltaair_ver01:data:sn86053570:00237288993:1864121901:0587/pct:222.1153846153846,320.0735294117647,49.32692307692308,32.5/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deltaair_ver01:data:sn86053570:00237288993:1864121901:0587/pct:55.52884615384615,80.01838235294117,12.33173076923077,8.125/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

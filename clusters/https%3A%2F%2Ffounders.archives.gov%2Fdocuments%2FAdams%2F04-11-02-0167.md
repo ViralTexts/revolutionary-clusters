@@ -199,7 +199,7 @@ against if.-Epicurus.
 Don&#x27;t be afraid of the storms of  
 time, knowing that God holds th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200293010:1870032001:0303/pct:288.39080459770116,342.83081884141427,37.93103448275862,19.6706207531959/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200293010:1870032001:0303/pct:72.11842483472262,85.70770471035357,9.485484334578903,4.917655188298975/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

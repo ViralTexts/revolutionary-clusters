@@ -137,7 +137,7 @@ waste, or provide for the preservation of a j
 sufficient fund of both.” And this pas­  
 sage has the more weight, since it occur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040303:00514151325:1844090301:0194/pct:3.8549727715677844,33.707497820401045,12.95500143307538,4.849607672188317/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040303:00514151325:1844090301:0194/pct:3.8597496895003345,33.707497820401045,12.95500143307538,4.856873002034292/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -157,7 +157,7 @@ less some measures be laken to prevent their waste,
 or provide for the preservation of a sufficient fund  
 of both.&quot; Some idea may be formed of the rapi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_diglett_ver01:data:sn82015378:00295872354:1851050301:0432/pct:58.326645264847514,27.120141342756185,37.31942215088282,8.745583038869258/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_diglett_ver01:data:sn82015378:00295872354:1851050301:0432/pct:19.442215088282506,9.040047114252062,12.439807383627608,2.9151943462897525/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -183,7 +183,7 @@ the rapid destruction of the white pine by n few facts
 
 ---
 
-## [From _Scientific American (1845-1908)_](https://archive.org/details/sim_scientific-american_1851-09-27_7_2/page/n2/mode/1up?view=theater)
+## [From _Scientific American_](https://archive.org/details/sim_scientific-american_1851-09-27_7_2/page/n2/mode/1up?view=theater)
 
 #### 1851-09-27 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -201,7 +201,7 @@ Some idea may be formed of the rapid destruc
 
 ---
 
-## [From _Scientific American (1845-1908)_](https://archive.org/details/sim_scientific-american_1851-09-27_7_2/page/n2/mode/1up?view=theater)
+## [From _Scientific American_](https://archive.org/details/sim_scientific-american_1851-09-27_7_2/page/n2/mode/1up?view=theater)
 
 #### 1851-09-27 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -246,7 +246,7 @@ txieir waste or provide for the preservation
 of a sufficient fund of both.&quot; Some idea may  
 te formed of the rapid destruction of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn87065038:00295877662:1851100201:0087/pct:9.151156232374506,83.95900867928475,16.708967851099832,4.099132071525672/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn87065038:00295877662:1851100201:0087/pct:6.86979827902384,62.97187075185611,12.540555790661589,3.0743490536442537/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -269,7 +269,7 @@ tmib r will, as cultivation advances, become
 vent tlu-ir vvrste or provide for the preservation  
 of a fun !of both ” Some idea may be forme
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040305:00514151350:1851111401:0182/pct:28.88474770642202,54.095012897678416,12.672018348623853,4.24548581255374/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040305:00514151350:1851111401:0182/pct:28.894304281345565,54.095012897678416,12.66724006116208,4.249068501003153/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -352,7 +352,7 @@ a tender in payment of debts
 In discussing the bill for the remon  
 etization of silver in the senate Jan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_india_ver02:data:sn86071158:00206536494:1892091801:0176/pct:98.58849077090119,164.55124255493942,49.728555917480996,19.22365988909427/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_india_ver02:data:sn86071158:00206536494:1892091801:0176/pct:24.647122692725297,41.137810638734855,12.432138979370249,4.805914972273568/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -376,7 +376,7 @@ by Mr. Orafion, of Port Jervls, proved to be a
 fluent talker. When the children neglected to  
 rock the cradle Poll cried: &quot;Mother, Sall
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn87056600:00202191666:1880042801:0140/pct:47.95725958516656,32.05800334634691,18.887492143306098,7.96430563301729/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn87056600:00202191666:1880042801:0140/pct:35.97925180760767,24.049079754601227,14.177931468091796,5.967651979921919/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -398,7 +398,7 @@ sides these, he Is of a very conciliating temper
 and perfectly sober, qualities which rarely com­  
 bine in the same person.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280775046:1880042901:0359/pct:7.837127845884413,50.07336267840469,18.279334500875656,5.015339469120982/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280775046:1880042901:0359/pct:5.8926615553121575,37.56169134320395,13.71303395399781,3.7615046018407363/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -421,7 +421,7 @@ rashness, and. besides these, he is of a very
 conciliating temper and perfectly sober qual­  
 ities which rarely combine in the same pe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn84027490:0020219123A:1880050101:0082/pct:23.44054580896686,71.87188095454133,15.984405458089668,4.1738499228745125/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn84027490:0020219123A:1880050101:0082/pct:17.582551480443524,53.90617911260321,11.98976483489704,3.130387442155884/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -443,7 +443,7 @@ ciliating temper and perfectly sober,
 qualities which rarely combine in the  
 same person.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_fencing_ver02:data:sn83016589:00393340654:1880050701:0079/pct:83.87918486171762,61.0184287099903,9.437166424065987,3.2492725509214355/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_fencing_ver02:data:sn83016589:00393340654:1880050701:0079/pct:83.87918486171762,61.02166181700614,9.437166424065987,3.2525056579372777/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -471,7 +471,7 @@ ber, qualities which rarely combine in tho
 same person.&quot;  
 The Czar&#x27;s be&#x27;droom in tho Wtnter Pal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_eden_ver01:data:sn98060050:00280777390:1880051401:0534/pct:111.90915805022156,72.95069904341428,14.641802067946823,7.902869757174393/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_eden_ver01:data:sn98060050:00280777390:1880051401:0534/pct:83.98300387954923,54.716703458425314,10.992056161093663,5.930831493745401/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

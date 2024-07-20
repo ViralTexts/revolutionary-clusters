@@ -62,7 +62,7 @@ bly therein, unless disapproved of by con- &#x27;
 gress, but afterwards ihe legislature shall  
 have authority to repeal or alter them a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1804030901:0232/pct:34.86622073578595,4.137073863636363,41.83389074693422,91.5127840909091/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1804030901:0232/pct:34.85650599052661,4.136339428368543,41.82920033435497,91.50097638913545/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -121,7 +121,7 @@ m the District, and have a freehold estate therein, in 500
 acres of land, while in the exercise of his ofiire. It shall  
 he
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184339:1831081501:0275/pct:50.90665873959572,55.79891057648661,14.863258026159334,3.3136631865637765/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184339:1831081501:0275/pct:50.89909347599941,55.7925791444457,14.866002873136177,3.3170694806914027/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -168,7 +168,7 @@ Governor and Judges shall adopt and pub­
 lish in the district, such laws of the origi­  
 nal states as may be necessary and bes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040303:00514151313:1840063001:0010/pct:21.89925215182729,80.19203797604919,14.40666008183999,1.8232819074333801/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040303:00514151313:1840063001:0010/pct:21.90865904708151,80.19203797604919,14.401956634212878,1.8340705577732226/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -194,7 +194,7 @@ and such laws shall be in force unless dis­
 approved by Congress,” &amp;c. ’The act of  
 1836 says, “the laws shall be to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040303:00514151313:1840063001:0010/pct:36.997319034852545,57.84874312223541,14.47721179624665,7.411802783471788/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040303:00514151313:1840063001:0010/pct:36.997319034852545,57.85233933901536,14.48661869150087,7.40820656669184/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -223,7 +223,7 @@ original States, criminal and civil, as may be neces-
  sary and best suited to the circumstances of the Dis­  
 trict, and report them to Congress from time to time
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184595:1841080201:0688/pct:210.06121487992465,38.699654775604145,39.33448438235756,6.156501726121979/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184595:1841080201:0688/pct:70.00941619585687,12.898400644344724,13.109437120736557,2.0519311164806506/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -248,7 +248,7 @@ riginal States, criminal and civil, as may be neces
 sary and best suited to the circifinstances of the Dis  
 frict, and report them to Congress, from time to tim
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186427:1841080501:0834/pct:139.58086200079083,167.95580110497238,38.724133386055094,15.090456071931536/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186427:1841080501:0834/pct:46.52082235108065,55.9792027729636,12.906343349147777,5.029607163489312/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -289,7 +289,7 @@ States, criminal and civil, as may be necessary and best suit­
 ed to the circumstances of the district, and report them to  
 Congress from time to time, which shall prevail in said dis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1847082801:0649/pct:16.99514424450157,60.59858760228674,15.5955441302485,3.620670328438516/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1847082801:0649/pct:17.004665333714176,60.59858760228674,15.590783585642198,3.6281433322123826/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -311,7 +311,7 @@ unless sooner revoked by Congress ; he shall reside in the dis­
 trict, and Wi freehold estate therein, in one thousand acres  
 ofUnd, while in the exercise of his office
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1847082801:0649/pct:48.34333047700657,7.454321264432239,15.60982576406741,4.046631543548929/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1847082801:0649/pct:48.34809102161287,7.454321264432239,15.60982576406741,4.050368045435863/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -453,7 +453,7 @@ voked; he shall reside in the district, and have a
 freehold estate therein, in five hundred acres of  
 land, while in the exercise, of his office;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83025241:0038334721A:1851122501:0560/pct:16.955063715627094,29.11039178479741,11.924882629107982,3.783904453622056/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83025241:0038334721A:1851122501:0560/pct:16.96400625978091,29.11039178479741,11.933825173261793,3.795066413662239/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -726,7 +726,7 @@ and that he should reside in the territory
 in of one thousand acres of land while in  
 the exercise of his office. It also provide
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_bearcat_ver02:data:sn84022144:00415624918:1879031801:0818/pct:5.376115597110072,76.42846704661699,14.513387165320866,5.947683764430805/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_bearcat_ver02:data:sn84022144:00415624918:1879031801:0818/pct:5.392052698682533,76.43577378342832,14.513387165320866,5.954990501242145/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

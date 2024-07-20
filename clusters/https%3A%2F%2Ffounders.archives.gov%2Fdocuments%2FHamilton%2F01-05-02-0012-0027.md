@@ -102,7 +102,7 @@ States. Congress can no more abolish the
 State Governments than it can dissolve the  
 Uaion.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271742010:1871092101:0287/pct:84.94493687886113,31.81568340051301,41.53908138597905,10.232685965555149/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271742010:1871092101:0287/pct:28.31497895962038,10.605227800171003,13.846360461993017,3.410895321851716/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -122,7 +122,7 @@ depend upon the laws of the United Slates.—
 Congress can no more abolish the State govern­  
 ments than it can dissolve the Union.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762490:1871092601:0149/pct:19.795092334935493,85.71982549684925,12.028838856564635,2.5884634028114397/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762490:1871092601:0149/pct:19.799308542035586,85.7262885765067,12.033055063664728,2.591694942640168/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -162,7 +162,7 @@ I he United States. Congress can no more abol­
 ish the State governments than it can dissolve  
 the Union.”­
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348707:1871092801:0473/pct:56.70995670995671,30.627891606080635,12.363636363636363,2.4719101123595504/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348707:1871092801:0473/pct:56.70013850415513,30.62384351044145,12.365824099722992,2.4748876553000265/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -182,7 +182,7 @@ depend upon the laws of the United State-.
 Congress can no more abolish the State govs;  
 ments than it can dissolve the Union,:
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349505:1871092901:0149/pct:15.131257133539867,81.94354942647249,11.47888472199576,2.603428276839799/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349505:1871092901:0149/pct:15.128790348875123,81.93298969072166,11.481089012063906,2.6063144329896906/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -222,7 +222,7 @@ v* the United States. Congress can no
 mere abolish the State government than  
 it can dissolve the Union.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jennet_ver02:data:sn85026941:00393348446:1871100501:0559/pct:20.155038759689923,60.317281728172816,12.276538522385698,3.544104410441044/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jennet_ver02:data:sn85026941:00393348446:1871100501:0559/pct:20.151850680164504,60.31049611879852,12.279869239692081,3.54745565680429/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -272,7 +272,7 @@ its adoption was the necessity of avoiding a
 recourse to cocrcive measures, the States would  
 have insisted on the insertion, among the othe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_kobayashi_ver01:data:sn83030272:00175044784:1882061801:0511/pct:132.8125,276.4768091856776,49.25595238095238,23.085058165886085/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_kobayashi_ver01:data:sn83030272:00175044784:1882061801:0511/pct:33.203125,69.1192022964194,12.313988095238095,5.771264541471521/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -51,7 +51,7 @@ IN THE MINOS OF WP.I,L-DISI&#x27;OSKO CITIZENS. Kather
 her services altogether; and the example also, which  
 is ol infinite more importance
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1852090201:0609/pct:14.095628015791782,10.053475935828876,14.534288638689867,3.5391346621293147/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1852090201:0609/pct:14.100502022712872,10.053475935828876,14.529414631768777,3.545616593744936/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -73,7 +73,7 @@ either of these should happen, 1 would forego her
 services altogether; and the example also, which  
 is of intinitel) more importance.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172145:1852091501:0275/pct:83.12356979405034,100.70047995849008,18.211289092295956,4.397457517187703/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172145:1852091501:0275/pct:64.4218927040741,78.05033343386616,14.128774816493424,3.404711638349921/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -118,7 +118,7 @@ either of these should happen, 1 would forego her ser­
 vices altogether; and the example also, which is of in­  
 finite more importance
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035044:00296027133:1852093001:0145/pct:62.66924564796905,44.68028654815601,16.054158607350097,4.059432210135315/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035044:00296027133:1852093001:0145/pct:47.01709126088359,33.51021491111701,12.060625604643663,3.0512072167683737/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -186,7 +186,7 @@ Ihuu either of these should happen, 1 would forego
 her services altogether, and the example also, which  
 is o| infinite more importane
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1853052601:0768/pct:60.013908205841446,66.55211912943872,13.68567454798331,3.1023291332569682/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1853052601:0768/pct:60.02318034306908,66.55530100547283,13.68567454798331,3.105511009291078/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -251,7 +251,7 @@ ument of the forbearance and humanity of him
 whom we justly call the Father of his Coun-  
 Gena Washington, although himself 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_harrison_ver01:data:sn82015672:00296021854:1854070701:0281/pct:148.26233183856502,190.89621687234472,57.903587443946186,47.90612988063929/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_harrison_ver01:data:sn82015672:00296021854:1854070701:0281/pct:37.07597420801794,47.72405421808618,14.47995514437903,11.976532470159823/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -275,7 +275,7 @@ ttian either of these siouht&#x27; happenY would
 forego her services altogether: and the ex­  
 ample also is of infinitely more importance.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296027534:1856070101:0427/pct:57.519190509420795,26.62021822006047,16.765526866713188,8.294991455238597/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296027534:1856070101:0427/pct:43.1663466573573,19.968450111739187,12.585093384534822,6.217957144735112/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -301,7 +301,7 @@ these should happen, I would forego her
 services altogether; and the exaraplo, also,  
 which is of infinite importance.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296027546:1858080301:0281/pct:37.523248605083694,32.42094073877226,16.80099194048357,8.782885995216583/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296027546:1858080301:0281/pct:28.155038759689923,24.31570555407919,12.604651162790697,6.590486314111081/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

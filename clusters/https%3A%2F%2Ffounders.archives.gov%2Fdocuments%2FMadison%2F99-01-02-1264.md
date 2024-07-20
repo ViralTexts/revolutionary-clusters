@@ -51,7 +51,7 @@ Treaty nf 1794, tlo not comprehend any
 d&#x27;-r and forgery.  
 t The information reported by cap
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807072901:0003/pct:3.5994071564683465,43.040888166802056,18.12407368198179,12.076902247495262/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807072901:0003/pct:3.5994071564683465,43.04991425218883,18.13818900416402,12.085928332882029/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -67,7 +67,7 @@ t The information reported by cap
 United .States, and were charged with mutiny, pi­  
 racy, and an attempt to murder their ollirers. Ti
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807080301:0653/pct:51.019894233190634,3.9877300613496933,21.329639889196677,1.3400064578624475/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807080301:0653/pct:51.007049345417926,3.9870863599677158,21.330563947633433,1.3438256658595642/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -93,7 +93,7 @@ pired articles of the treaty of 17‘H, do not com­
 prehend any other otlences than those ol actual mur­  
 der and forgery
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807080301:0653/pct:50.9947116595316,5.376170487568615,21.581465625786954,8.05618340329351/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807080301:0653/pct:50.98187311178248,5.375302663438257,21.582326283987914,8.058918482647297/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -120,7 +120,7 @@ any other offences than thofe of actual murder and
 forgery.  
 t I he information reported by capt. Barron was a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1807080401:0109/pct:62.26175349428208,67.72903538536113,17.19005264113269,6.871061560833737/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1807080401:0109/pct:62.25045372050817,67.72082878953108,17.19298245614035,6.874267942970233/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -153,7 +153,7 @@ other t-ffences than those of actual murder
 and forgery.  
 t Tiie information reported by Captai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807080501:0255/pct:43.08103975535168,31.637843336724313,17.56498470948012,10.55442522889115/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807080501:0255/pct:43.07280718517103,31.633820724729816,17.56799796165361,10.557321466412375/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -225,7 +225,7 @@ fences than those of actual murder and
 forgery.  
 t 1 he information given by Capt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1807081001:0237/pct:61.86054364342394,41.92785941835371,17.491136248522707,12.650292878429761/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1807081001:0237/pct:61.850101282916945,41.92355117139334,17.492403781228898,12.651561857788739/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -280,7 +280,7 @@ _expired articles of the Treaty of 1794, donot
 compreh&lt;nd any other offences than those of  
 altval murder and forgery. =~ &#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1807081101:0548/pct:5.425381349268753,65.65243415802075,17.675735178487184,8.52952913008779/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1807081101:0548/pct:5.425381349268753,65.65243415802075,17.680977092834304,8.532854482575154/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -399,7 +399,7 @@ tives from the jurisdiction of other powers. Tho
 al stipulations, which do nut exist between tlm  
 United States and Great Britain.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183694:1842040701:0228/pct:66.84163167366526,12.602349590601637,15.161967606478704,4.639848107274237/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183694:1842040701:0228/pct:66.8316089368721,12.600854295206455,15.164692357674813,4.6432526498971685/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

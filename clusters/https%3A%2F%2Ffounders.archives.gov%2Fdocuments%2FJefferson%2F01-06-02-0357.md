@@ -173,7 +173,7 @@ the fovercignty and independence of
 the United States of America the  
 Cilihth: - 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1784021401:0508/pct:36.9472182596291,13.93051393051393,29.101283880171184,61.827061827061826/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1784021401:0508/pct:36.95316214931051,13.93051393051393,29.095339990489776,61.83076183076183/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

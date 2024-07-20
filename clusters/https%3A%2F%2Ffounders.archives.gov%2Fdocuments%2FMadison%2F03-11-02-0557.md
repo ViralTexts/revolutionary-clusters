@@ -162,7 +162,7 @@ ports ;;ud the. ports of the British co­
 lunirs, subject, as before, to the re !  
 apoctive ve^uL n!‘ *!,&lt;» 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216225:1816120401:0229/pct:1.0290277991091998,15.003116374321076,18.000307172477346,49.75514201762977/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216225:1816120401:0229/pct:1.028869778869779,15.001780626780628,18.00266175266175,49.753679962013294/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -615,7 +615,7 @@ which it require* justice from *htm : a tf
 which whilst it refines its d in* &gt;m c &lt;ie  
 from every ingredient not cmu^eiiial
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216225:1816120401:0229/pct:2.1809245891568114,4.852640014246282,91.04592228536323,91.66592467278069/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216225:1816120401:0229/pct:2.1805896805896805,4.852207977207978,91.03705978705979,91.66073124406458/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1184,7 +1184,7 @@ country, and a perpetuity of the inditutions
 under which it is enjoyed.  
 JAMES M-ADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184133:1816120401:0157/pct:4.451325720921231,4.611587425305274,71.91794077801433,91.85502727981294/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184133:1816120401:0157/pct:4.45046439628483,4.610988440057151,71.91047471620227,91.84742607265012/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1695,7 +1695,7 @@ _ d’.r.iini«h the frequency, or circumscribe flu
 calamities of war, and meliotaiV die social ami  
 bencfcccnt relatiou-s&#x27;of peace : Yt governm -n
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1816120501:0261/pct:32.78634178683905,1.4608739837398375,46.85894248301011,97.15447154471545/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1816120501:0261/pct:32.78090818694067,1.460688428807316,46.85670091702574,97.14636521444599/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4647,7 +4647,7 @@ of the Unjted States. E
 o e satifuclion to state, generally, hat  
 e reniein in amity wich forcign powers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1816121001:0638/pct:4.4353617923100215,43.298123269408265,17.801998183469575,46.78494513383243/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1816121001:0638/pct:4.4353617923100215,43.298123269408265,17.80704410132203,46.788363586640685/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5031,7 +5031,7 @@ tuny of the instiutions uuder which it is en­
 j-iyéd. -  
 - JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1816121001:0638/pct:22.78231910384499,1.0152804840529177,52.997275204359674,93.47759204184186/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1816121001:0638/pct:22.792410939549903,1.0186989368611767,52.99222928650722,93.4741735890336/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5748,7 +5748,7 @@ ports ; by collusive importations of slaves
 inta the United States, through adjoin­  
 ing ports and territorics. I present the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1816121101:0397/pct:27.53652191314789,5.610787338589875,68.40104062437463,88.6527254028111/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1816121101:0397/pct:27.543192582215998,5.614596427075001,68.39436995530652,88.64891631432599/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5993,7 +5993,7 @@ it is enjoyed.
   
 JAMES MADISON.,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1816121101:0398/pct:3.1622096427874293,4.929417122040073,44.77845012687878,87.5455373406193/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1816121101:0398/pct:3.1687162469906958,4.929417122040073,44.791463335285314,87.5455373406193/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8380,7 +8380,7 @@ citizens, whose activity and animation best enabl*
 them to rally to its standard. Besides the consid­  
 er ttiou that a tim*of e-ace it the time when the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016082:00332895096:1816121401:0386/pct:57.002771264122785,12.590080542602799,37.60392240460456,81.92737035467006/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016082:00332895096:1816121401:0386/pct:56.990622335890876,12.588301780163889,37.601236146632566,81.91932749364227/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8661,7 +8661,7 @@ of my beloved country, and a perpetuity of tin
 institutions, under which it is anjoyed.  
 JAMLs MADISON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016082:00332895096:1816121401:0387/pct:5.758946935417524,4.850014017381553,36.17852735499795,91.11298009531819/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016082:00332895096:1816121401:0387/pct:5.757762697923093,4.849334267694464,36.17622866543286,91.10371408549405/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8693,7 +8693,7 @@ Amidst the advantages, which have
 ndastry ay «ng us, and the extention of  
 &gt;ur commerce, not only to every part o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216225:1816121401:0264/pct:45.407279029462735,20.300143781452192,18.370883882149048,11.942846872753416/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216225:1816121401:0264/pct:45.40012602394455,20.29831970527451,18.373240915773998,11.944768922035523/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8727,7 +8727,7 @@ die state of the finances, it is a subject
 lures, as sveli as our receipts, dur ng the r  
 ast year, have in finitely surpa-sed those 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216225:1816121401:0264/pct:64.17204978730109,60.388209920920204,18.85930360800378,12.284327821710999/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216225:1816121401:0264/pct:64.16194076874606,60.38278371821367,18.86158370090317,12.286219187108754/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11993,7 +11993,7 @@ ports and the ports of the British Colo­
 nies subject to the respective regulations  
 of the parties. By these we prohibit 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1817032101:0423/pct:64.06560636182903,58.87934350557764,15.059642147117296,5.231439928195923/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1817032101:0423/pct:64.05499420241841,58.87179487179487,15.062669096129424,5.235042735042735/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12052,7 +12052,7 @@ without, may bespeak the most noble
 of ail ambitions, that of promoting  
 peace on earih, and good will to man.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216225:1817032701:0611/pct:27.89071038251366,63.67432150313152,17.74863387978142,11.143006263048017/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216225:1817032701:0611/pct:27.884615384615383,63.66601435094586,17.752039627039625,11.145901282887584/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12073,7 +12073,7 @@ and may express th® most noble of
 all ambitions.that of promoting ‘peace  
 on earth and good wifi to man 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216225:1817032701:0611/pct:46.25136612021858,20.55062630480167,17.683060109289617,4.997390396659708/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216225:1817032701:0611/pct:46.24125874125874,20.54794520547945,17.686480186480185,5.001087192868015/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12399,7 +12399,7 @@ ciple of the convention of Lon on by
 which the commerce between the ports of  
 the U. .Stall&#x27;s and British ports in Europ
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:0041418392A:1817120901:0223/pct:1.6848364717542121,56.27778445272138,14.684506111661712,7.01670070887901/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:0041418392A:1817120901:0223/pct:1.6845582163501238,56.271023546371936,14.687586017065787,7.019862245715201/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12510,7 +12510,7 @@ claim* of another, have been extinguished
 “ or threatening an i fnision ot blood.”*  
 The essence of our policy towards the f • «i i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1818102301:0194/pct:52.82310704960835,53.37004668981204,14.441906005221933,6.716149886268407/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1818102301:0194/pct:52.81448849730788,53.363658127842946,14.444988306956002,6.719336046604421/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12564,7 +12564,7 @@ remaining with me, that if 1 have not served
 the State with greater ability, I have served it  
 with honesty and devotion to the cause of m
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1821010901:0215/pct:22.894959166431992,7.172051381860646,16.00957476767108,5.877773452705333/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1821010901:0215/pct:22.9043461935605,7.172051381860646,16.00957476767108,5.884261061372778/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12686,7 +12686,7 @@ and mat, int.m y,cis-,lodes of human r.ffai.s, sit oa tions
 ;»m-;i,msr.b!c supplies, may he among toe most .serious em­  
 burrassineuts. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826041101:0079/pct:77.66209181258874,51.64822498847395,17.652626597255086,8.679114799446749/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826041101:0079/pct:77.64984227129338,51.642272674887636,17.655099894847528,8.681956129230533/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12724,7 +12724,7 @@ Ol enlarging them, in order to cliectunrc a comprehensive&#x27;
 itioiiiit j’n»sj»cruy.  
 Consistency.—John Randolph&#x27;s (Jack Handle as th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826101301:0249/pct:21.54016095944453,15.251832584535352,18.13160801641155,7.685031922440293/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826101301:0249/pct:21.536762385610604,15.250029554320841,18.134006521510464,7.688063994956063/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12753,7 +12753,7 @@ moting intercour-&#x27;e and improvements, and by in­
 creasing the share of every ’port in the common  
 stock of national prosperity.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826101301:0195/pct:17.280361757105943,7.18059558117195,15.148578811369509,7.70893371757925/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826101301:0195/pct:17.27757145163895,7.179733461399928,15.151515151515152,7.71201024532757/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12789,7 +12789,7 @@ in which a dependence on foreign sources, for in­
 dispensable supplies, may be among the most seri­  
 ous embarrassments.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826103101:0216/pct:51.67070217917676,8.6006006006006,14.76997578692494,11.183183183183184/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826103101:0216/pct:51.662362814719174,8.599567619505164,14.772971809769745,11.185843542317238/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12814,7 +12814,7 @@ country, by promoting intercourse and improve­
 ments, and by increasing the share of every pari,  
 in the common stork of national prosperity.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827030801:0411/pct:17.607003891050585,79.58565543978678,15.029182879377432,5.9122849527501815/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827030801:0411/pct:17.604149781163883,79.57601453664446,15.032149997298319,5.915606703008278/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12842,7 +12842,7 @@ prosperity.
 It dues not appear that on the adoption &lt;4  
 these measures, the constitutional quesiion wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1827032201:0265/pct:61.76803074836084,49.02270767461914,17.838571105584446,7.2003449267030755/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1827032201:0265/pct:61.75406871609403,49.01566316999569,17.84018987341772,7.202902715907458/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12881,7 +12881,7 @@ by promoting intercourse and improvements, and
 by increasing the share of cve/y part in the com­  
 mon stock ol national prosperity.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827041701:0466/pct:50.60006487187804,82.18118292987272,15.48816088225754,8.123284252558024/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827041701:0466/pct:50.59185989946489,82.17092950717405,15.491054537592563,8.126429611145769/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12940,7 +12940,7 @@ of human affairs situations may recur, io which a dc &gt;
 pcndcnce on foreign sources, for indispensable supplies,  
 may be among the most serious embarrassments.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184558:1827080801:0187/pct:76.91220354955237,49.471559197244986,17.873409769122034,10.105688160551004/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184558:1827080801:0187/pct:76.9001256281407,49.46568511042508,17.875837520938024,10.108446133143355/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13052,7 +13052,7 @@ and ni:n such as have not been ann xed to any
 I department ”—Hut wo are yet to !&gt;e satisfied,  
 ■ that there are more duties than the. j resent de
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1829010101:0309/pct:17.439044082028097,42.99301709607513,15.630550621669627,4.2860582711293045/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1829010101:0309/pct:17.43622860833064,42.987841579390874,15.633408675061888,4.289554993780346/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13094,7 +13094,7 @@ a currency nf tu.it description, and the measures tvlm ii weru I
 taken, duriiv; t.rc Iasi session, in execution ol the power, give  
 eveiy promise of success. The Bank of the United htates
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830043001:0412/pct:42.03944203944204,32.9406164465072,17.909251242584578,3.61775556348923/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830043001:0412/pct:42.03270278935556,32.93669681104236,17.91172384311211,3.6212914485165792/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13118,7 +13118,7 @@ every jiromise of success. The Bank of the United States
 under auspices the must favorable, cannot fail to be an impor­  
 tant auxiliary ” 1
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830043001:0148/pct:42.337498023090305,34.62910128388017,17.365174758817016,4.410366143604374/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830043001:0148/pct:42.330803289057556,34.62498514204208,17.367699768079273,4.413804033440311/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13142,7 +13142,7 @@ am) the measure* w hich were taken, during the last
 S*»&lt;dnn,in ex&quot;Cti&#x27;lon ol the power, give every promise  
 of *nrcess The Bank of the United Slates, unde
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830043001:0384/pct:34.908716136631334,75.17369152385363,15.20906949352179,4.678091709124595/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830043001:0384/pct:34.90357721183571,75.16498784300104,15.211737572991805,4.681409440006175/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13513,7 +13513,7 @@ situations may recur, in which n dependence on f,,.’
 reign sources, for indispensable supplies, may lx?  
 among the most serious embarrassments.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1832112701:0234/pct:50.188205771643666,82.65476854433909,15.307402760351318,9.905186837702175/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1832112701:0234/pct:50.181209924728186,82.6455498550078,15.30991543536846,9.907799836419064/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13569,7 +13569,7 @@ cess The Bank of the United Slates has been orga­
 nixed under auspices the most favorable, and cannot  
 ** Tail to be an important auxiliary to those measures.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1834020401:0340/pct:51.17905127502056,17.93230635712736,14.614751850836305,9.503146018659145/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1834020401:0340/pct:51.1720356408499,17.930361210543442,14.61731779757825,9.5057309180316/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13827,7 +13827,7 @@ the last sei?ion, in execution of the power, give every
 promise of succcss.&quot;&#x27;  
 The principal of the measures referred to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1837100301:0081/pct:49.031719532554256,56.731229076996655,15.475792988313856,9.660449545671927/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1837100301:0081/pct:49.031719532554256,56.735214410967636,15.498052309404564,9.660449545671927/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13878,7 +13878,7 @@ this power, and promised the people of this
 country a &quot; better currency&quot; than that which  
 existed under the rtgimc &lt;&gt;i the 1 nited State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1837102701:0115/pct:80.59001005698961,56.07963972505333,15.73918873617164,4.681204076795449/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1837102701:0115/pct:80.59001005698961,56.07963972505333,15.744775952620405,4.685154459982618/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13910,7 +13910,7 @@ tution has entrusted Congress, exclusively,
 1 nth the power of creating and regulating a  
 currency of &#x27;hat description.&quot; Message, Dec
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1837112801:0154/pct:1.1658894070619588,35.454979699068545,15.323117921385743,4.919990446620492/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1837112801:0154/pct:1.1658894070619588,35.454979699068545,15.345325338663114,4.927951596210493/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13932,7 +13932,7 @@ tution has entrusted Congress, exclusively,
 with the potter of creating and regulating a  
 currency of &#x27;hat description.&quot; Message, Dec
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1837120101:0157/pct:65.97303146329283,36.32896305125149,15.665057432994839,4.898688915375447/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1837120101:0157/pct:65.97858054491982,36.32896305125149,15.665057432994839,4.906634882796981/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13954,7 +13954,7 @@ Zion has entrusted Congress, exclusively,
 with the power of creating and reoulaiino  
 currency of &#x27;hat description. Message, De 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1837120501:0161/pct:65.31389763127382,34.254077866412665,16.166970349511345,6.0959638052149066/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1837120501:0161/pct:65.31389763127382,34.25804659284835,16.172491855778258,6.099932531650594/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13977,7 +13977,7 @@ the power of creating and regulating a currency of
 that description.&quot; The only reform in the currency  
 which that boky has yet made, ia the issue of ton mil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030312:00271743129:1838040901:0362/pct:41.19114955914157,7.044851839040701,18.23323906172018,4.9002651908220916/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030312:00271743129:1838040901:0362/pct:41.196694948150615,7.0525385295361085,18.23323906172018,4.8964218455743875/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14010,7 +14010,7 @@ that description.” The only reform in
 the currency which that body has yet  
 made is the issue of ten millions ol irre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215610:1838041001:0624/pct:23.994484026660537,56.69767441860465,15.157435072397151,9.844961240310077/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215610:1838041001:0624/pct:23.991726990692865,56.693279590729404,15.159523535945459,9.846781903211637/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14043,7 +14043,7 @@ with ihe power of erea&#x27;ing and regulating a cur •
 rency of ihai description.” The only reform in  
 the currency which that body ha* yet made, i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024657:00414184583:1838041101:0042/pct:6.416371749499923,83.33142004362301,12.21726419449146,3.570198599471932/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024657:00414184583:1838041101:0042/pct:6.415384615384616,83.32185491276401,12.22051282051282,3.573614937251301/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14171,7 +14171,7 @@ use, wherever it may circulate. The Constitution lias
 entrusted Congress exclusively, with the power of ere- I  
 ntir.c and regulating 1 currency of that description.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_armani_ver02:data:sn84024735:00415664230:1838041701:0183/pct:65.00824216993855,86.9556135770235,16.079724261951146,3.5091383812010446/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_armani_ver02:data:sn84024735:00415664230:1838041701:0183/pct:65.01823267895499,86.9556135770235,16.07472900744293,3.512619669277633/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14206,7 +14206,7 @@ currency of that description.” The only re­
 form in the corrency which that body has  
 yet made, is the issue of ten millions of irre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152755:1838041901:1049/pct:6.3318155947638015,63.30020305653522,12.919749573136027,5.429090520465961/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152755:1838041901:1049/pct:6.341301460823373,63.30020305653522,12.910263707076457,5.432652915820598/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14282,7 +14282,7 @@ s itution -has entrusted Congress exclusively with the
 power of creating aud regulating a currcncy of that des­  
 scription.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1838042601:0400/pct:50.78447563996697,66.23895412177703,15.50784475639967,5.205180970826777/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1838042601:0400/pct:50.79548582438756,66.23895412177703,15.502339664189375,5.209215994835169/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14338,7 +14338,7 @@ the power of cmtaTtso and uKut&#x27;latino a currency of
 that description.&quot;  
 Under President Jackson&#x27;s adininiatration it was th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1838042801:0404/pct:66.29064366290643,6.113964294448521,15.627073656270737,4.1208119344583025/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1838042801:0404/pct:66.29617341296174,6.122116246841118,15.632603406326034,4.124887910654602/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14383,7 +14383,7 @@ has a man to forbear doing his duty because it g-.ila&#x27;ing a currency of tha
 ment to withstand the trials of adverse as well as pros­  
 perous circumstances, and how joint our interest is i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1838111001:0665/pct:66.48415463746474,57.07650941090198,15.613074498091919,1.1610853092153508/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1838111001:0665/pct:66.48415463746474,57.08058339444309,15.635197168298214,1.1692332762975637/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14564,7 +14564,7 @@ der nusgiceu the moet favorable, and cannot
 fail to be an important auxiliury to those  
 measnres,’” |
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152755:1839100301:0743/pct:71.74684262806868,60.93418259023355,12.629487725273165,13.418259023354565/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152755:1839100301:0743/pct:71.7563029184996,60.93418259023355,12.629487725273165,13.425336164189668/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14588,7 +14588,7 @@ na, (now a Senator of the United States,)
 who introduced into the Mouse of Rep­  
 resentatives, on the 10th of December
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348963:1840020601:0443/pct:48.90482651676682,31.552999178307314,14.983523938747819,6.025746370857299/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348963:1840020601:0443/pct:48.895348837209305,31.535724062414452,14.98546511627907,6.025869148644949/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14641,7 +14641,7 @@ practice which had at lehst this recummendation, that
 he knew what was in them--Mr. Madison had in view  
 the fact that the late Commanper of the Northwester
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186427:1840031201:0118/pct:134.98833290121857,57.04599979138417,38.70884106818771,39.626577657244184/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186427:1840031201:0118/pct:44.99027867790019,19.01335002085941,12.901274573341974,13.20748157418996/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14801,7 +14801,7 @@ ft-ncc ot trie ecu tr\ fo that portion «&gt;! its cit- \
 izeus, whose activity nr» ! animation best t’n­  
 ab!e them to ral&#x27;v* to its at indnrd 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215671:1840061801:0570/pct:5.542466060810053,61.85737976782753,15.606417592280938,9.709030604552993/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215671:1840061801:0570/pct:5.541844289881086,61.852717268410345,15.608406252337147,9.710811286148589/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14935,7 +14935,7 @@ ance with a resolution of tne t louse of rcepre­
 sentatives, requesting the Secretary of War to  
 report a system for the organization and disci
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197966:1840062401:0521/pct:65.26315789473684,16.205714285714286,20.54016620498615,20.377142857142857/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197966:1840062401:0521/pct:48.96771511708466,12.16,15.42192046556741,15.28/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15009,7 +15009,7 @@ a system for the organization and disciphne of the
 mihti, best calculated, in his opinion, to promote  
 the efficiency of that force when called into th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016867:00295877637:1840070401:0588/pct:148.11547714514836,125.67493112947659,61.82838813151564,59.33884297520661/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016867:00295877637:1840070401:0588/pct:37.043722422783794,31.418732782369148,15.463297232250302,14.834710743801653/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15083,7 +15083,7 @@ that the nation should possess a currency of equal
 ! value, credit, and use, wherever it may circu­  
 late.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016475:00296026402:1840071301:0317/pct:35.67743168354672,20.96069868995633,14.236575578062297,8.212424285110579/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016475:00296026402:1840071301:0317/pct:35.690171348493536,20.96539418697469,14.236575578062297,8.226510776165657/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15109,7 +15109,7 @@ liary to those measures.&quot;
 Mr. Chairman, 1 will not undertake to argue  
 the constitutional question of the power of Con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016475:00296026402:1840071301:0317/pct:35.772979170647815,31.80729680236653,14.083699598700553,5.18382870826877/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016475:00296026402:1840071301:0317/pct:35.77934900312122,31.81199229938489,14.083699598700553,5.18852420528713/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15429,7 +15429,7 @@ Resolved, That the act of Congress in relation
 to the collection, keeping and disbursemient of the  
 public money, approved on the 4th of July last
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1841022201:0272/pct:262.22707423580783,213.25301204819277,55.89519650655022,33.78970427163198/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1841022201:0272/pct:65.56869881710647,53.31325301204819,13.976342129208371,8.447426067907996/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15501,7 +15501,7 @@ Henry Clay lor the equitable distribution of the pro­
 ceeds of the public lands amongst the several States  
 —s me
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182951:1841022501:0233/pct:1.3762486126526081,18.94522737178556,19.778024417314096,11.128868226064217/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182951:1841022501:0233/pct:1.3759431868619618,18.9424753050552,19.779183311140702,11.130883207437536/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15547,7 +15547,7 @@ the United States has been orgunised under auspices the
 most favorable, and cannot fall to be an important aur­  
 thary to those measures.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84022355:00200290112:1841030401:0286/pct:18.617021276595743,78.08009782940997,145.4787234042553,52.277590950779576/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84022355:00200290112:1841030401:0286/pct:4.656319290465632,19.52002445735249,36.38580931263858,13.069397737694894/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15584,7 +15584,7 @@ HAs hEEN ORASIED UNDER AUSpICEs tHE MosT FAvOrAeLE,
 AND CANNOT rAIL to Be an iMtortant AUxILiary To thosE  
 MEAstREs.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030212:00206530157:1841041501:0017/pct:179.34782608695653,201.54087229041525,60.151068533529845,36.001566988769916/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030212:00206530157:1841041501:0017/pct:59.78260869565217,67.18029076347175,20.05035617784328,12.000522329589971/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15698,7 +15698,7 @@ trample his doctrines in the dust,&quot; by establish­
 ing such an institution!  
 Ertract from General Jackson&#x27;s first Message t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1841042601:0308/pct:82.31392778187178,45.19374575118967,114.66470154753132,333.3786539768865/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1841042601:0308/pct:20.589861751152075,11.298436437797417,28.682027649769584,83.34466349422162/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15730,7 +15730,7 @@ be an importont auriliaru to those measuves.&quot;
 It would not be wonderful if President Tyler  
 had in his mind these and other passages of Ma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1841042601:0309/pct:142.10134128166916,231.9680044131844,57.600596125186286,34.257343814646255/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1841042601:0309/pct:35.53195453698528,57.9920011032961,14.402832122228434,8.564335953661564/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15767,7 +15767,7 @@ against measures whose salutary operations will be death to measures taken durin
 their hopes of reinstating themselves in the places from which cution of the power give every promise of sue.  
 they have been ejected. Vigilance, eternal vigilance, must!  he bal a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn84023646:00280777778:1841052501:0054/pct:199.03846153846155,169.93999707302794,122.51602564102564,26.167130103907507/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn84023646:00280777778:1841052501:0054/pct:49.78953698135899,42.484999268256985,30.647424333533774,6.541782525976877/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15793,7 +15793,7 @@ ed, ensure respect and confidence at home and
 abroad. The local accumulations of the reven.  
 ue have already enabled the treasury to mee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn84023646:00280777778:1841052501:0054/pct:259.8557692307692,137.04083126006145,61.53846153846154,27.806234450460998/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn84023646:00280777778:1841052501:0054/pct:65.00300661455202,34.26020781501536,15.393866506313891,6.9515586126152495/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15835,7 +15835,7 @@ important auxiliary to those measures.
 ThEe CAE OF M&#x27;LEoE. The Supreme Coutl  
 made the following order in the case, on Thursin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296187:1841060101:0811/pct:329.37984496124034,182.48358709316943,67.82945736434108,74.53554965777343/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296187:1841060101:0811/pct:82.34496124031008,45.62089677329236,16.95736434108527,18.633887414443357/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15876,7 +15876,7 @@ has been organized under auspices the most favor
 able, and cannot fail to be an important auxiliary to  
  those measures.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186427:1841071001:0798/pct:136.76588897827835,112.87870561407318,37.94582998122821,36.13856010424585/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186427:1841071001:0798/pct:45.58251776377531,37.62214983713355,12.646914242302364,12.044878754976475/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15918,7 +15918,7 @@ o o e e e e
 le nseal operations of the Government, I submit  
 to the visdom of the Legislature whether 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn84023647:00280777778:1841072701:0092/pct:139.45686900958466,286.8201143527342,60.70287539936102,34.305820260958804/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn84023647:00280777778:1841072701:0092/pct:34.87118034751348,71.70502858818355,15.17874975034951,8.576455065239701/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15959,7 +15959,7 @@ tives of Africa into slavery, by prohibiting the
 introduction of slaves, and by puntMimg their  
 own citizens for participating m the traliic.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215695:1841111201:0732/pct:38.97387620616615,86.86360779384036,15.085902565309485,3.4490886235072282/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215695:1841111201:0732/pct:38.96929050476527,86.85678372220913,15.08804957445974,3.451436352685469/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16011,7 +16011,7 @@ ny restrictions or modifications whatever, and the
 tore especially as they have neither colonies, nor the  
 leans of carrying out th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82014039:00415660972:1841111301:0146/pct:22.68564182048753,5.1655905019787545,29.829505424827392,88.93980420745677/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82014039:00415660972:1841111301:0146/pct:22.69503546099291,5.1655905019787545,29.838899065332768,88.94674720544332/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16031,7 +16031,7 @@ transportation of the natives of Africa into slavery, by
 prohibiting the introduction of slaves, and by punish  
 ing their own c.lizens for participating in the traffic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1841111301:0999/pct:18.225806451612904,90.54713588492166,15.64516129032258,3.0824556896994606/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1841111301:0999/pct:18.225806451612904,90.55569826183749,15.657108721624851,3.0781745012415445/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16068,7 +16068,7 @@ they are not a party, shouid be made to operate up­
 on the commerce and citizens of the United States.  
 It cannot but be apparent to Her Majesty&#x27;s Gov
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184595:1841111301:1044/pct:14.281269446172994,208.04741821497777,40.05911636589919,26.376382081386073/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184595:1841111301:1044/pct:4.759682687820812,69.34123546842945,13.35096178773267,8.791125294430515/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16111,7 +16111,7 @@ powers for its abolition, and to which they arc not a
 party, should be made to operate upon the commerce  
 and citizens of the U. S. It cannot but be apparent l
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1841111601:0505/pct:82.69055572426359,40.397350993377486,15.806255693896142,8.51896447922938/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1841111601:0505/pct:82.69055572426359,40.397350993377486,15.81131693491244,8.528998595223761/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16144,7 +16144,7 @@ quently, undinunished solicitude to give |
 l(bn fullest efficacy to their own laws and |  
 regulations on the subject. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152767:1841111801:0196/pct:16.998827667057444,79.84267453294002,13.437866354044548,10.608543646891729/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152767:1841111801:0196/pct:17.008597108245407,79.84995811937799,13.432981633450567,10.615827233329691/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16265,7 +16265,7 @@ Constitution has entrusted Congress exclusively
 with the power of creating and regulating a cur­  
 rency of that description.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624414:1842021201:0112/pct:80.27926960257787,111.25670982001894,18.75402792696026,12.661825071045152/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624414:1842021201:0112/pct:62.217659137577,86.22700762673844,14.55130695377102,9.808719768342918/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16298,7 +16298,7 @@ and that, in the vicissitudes of human affairs, situations may re
 cur in which a dependence on foreign sources for indispensable  
 supplies may be among the most serious embarrassments.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1842030701:0492/pct:313.2916340891321,153.68002273373116,56.919468334636434,21.59704461494743/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1842030701:0492/pct:78.33822091886609,38.42000568343279,14.232649071358749,5.399261153736857/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16333,7 +16333,7 @@ situations may recur in which a dependence on
 foreign sources for indispensable supplies may be  
 among the most serious embarrassments.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn84023647:00280777778:1842030801:0219/pct:321.14467408585057,221.79022196431163,59.22098569157393,42.01363702306688/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn84023647:00280777778:1842030801:0219/pct:80.33406243786041,55.44755549107791,14.814078345595545,10.50340925576672/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16360,7 +16360,7 @@ least, of the branches of our manufactures in
 the predicament described by Mr. Madison.  
 Being dead, he yet speaks; and it may b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn84023647:00280777778:1842030801:0219/pct:321.0651828298887,268.67836936022053,59.37996820349762,29.653271434788916/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn84023647:00280777778:1842030801:0219/pct:80.31417776894014,67.16959234005513,14.85384768343607,7.413317858697229/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16476,7 +16476,7 @@ PICES THE MOST FAVORABLE, ATD
 CANNOT FAIL TO BE AN IMPORTANT  
 AUXILIARY TO THOSH MEASURES&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_kingsombra_ver01:data:sn83016884:0041566199A:1842080201:0547/pct:113.01204819277109,37.514960287237514,16.716867469879517,32.27069959743227/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_kingsombra_ver01:data:sn83016884:0041566199A:1842080201:0547/pct:84.79734819948771,28.136220215428136,12.550851288232636,24.208464802524208/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16612,7 +16612,7 @@ Wm. H. Cra&#x27;wford, who was for eight years
 at the head of the Financial Department of  
 the General&#x27; Governmect, and who fille
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn87090028:00295877959:1843051201:0200/pct:26.521084337349397,67.66541822721598,21.370481927710845,42.65123141527636/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn87090028:00295877959:1843051201:0200/pct:19.903570890462557,50.754738395187836,16.031339460599668,31.99409828623312/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16730,7 +16730,7 @@ gnunity at large, as wel as for the puepne
 es of the Treasury, it is essential thet th  
 Nation should possess a cuttenry oled at
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1843071301:0096/pct:331.51100987091877,341.866527632951,57.02353834472285,41.3451511991658/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1843071301:0096/pct:82.90922901633118,85.46663190823774,14.26129889859476,10.33628779979145/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16841,7 +16841,7 @@ may recur iu which a dependence on foreign
 sources for the indispensable supplies may be  
 among the most serious embarrassments.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:0041615689A:1844071301:0071/pct:66.3073908174692,75.11003011350475,19.610862262038072,14.014361825341673/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:0041615689A:1844071301:0071/pct:49.741005179896405,56.33541811443132,14.713705725885482,10.516562427611767/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16919,7 +16919,7 @@ all the most useful manufactures, is of great value. Their ^
 preservation, which depends on due encouragement, is connect- u,  
 td with the high interests of the nationA,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846072701:0761/pct:14.506123747415302,69.30593836131295,14.442500397645937,9.659233274868454/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846072701:0761/pct:14.516727639043529,69.30593836131295,14.437198451831822,9.667585400484423/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17027,7 +17027,7 @@ has been produced. By an essential provision of our
 to be subjected to the will of the nation itself,  
 which is to pay its costs and feel its calamities. Tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271742940:1846112301:0597/pct:200.92142737476965,30.183756805807622,55.0175908862456,8.223684210526315/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271742940:1846112301:0597/pct:66.97380912492322,10.06125226860254,18.339196962081868,2.741228070175439/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17045,7 +17045,7 @@ of War are. in the first instance to be subjected to
 the will of the Nation itself, which is to pay its  
 costs and feel its calamities. That Mexico had re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022603:1846112501:0620/pct:48.71162280701754,65.87183308494784,20.12061403508772,2.6399829678518203/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022603:1846112501:0620/pct:36.55058952563751,49.40387481371088,15.09459829997258,1.990632318501171/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17069,7 +17069,7 @@ as ii   a t   te mertres
 itself, which is to pay its costs and feel  
 its calamities. That Mexico had reli
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1846112601:0770/pct:72.79693486590038,143.08080137985937,58.54406130268199,18.840387422051215/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1846112601:0770/pct:18.202720827744777,35.77020034496484,14.638819697260011,4.710096855512804/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17086,7 +17086,7 @@ its calamities. That Mexico had reli
 jected to the will of the Nation itself, which  
 is to pay its costs and feel its calamities
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:0041566770A:1846112701:0929/pct:188.3658969804618,104.4408139016783,58.6145648312611,4.277439477201842/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:0041566770A:1846112701:0929/pct:47.112394491337184,26.110203475419574,14.660151043980454,1.0693598693004605/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17124,7 +17124,7 @@ are, in the first instance, to be subjected to the will of the
 nation itself, which is to pay its cost and to feel its cala.  
 mities.&quot; And, convinced as we are, that the existing wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184637:1846120301:1106/pct:12.070744288872513,90.04916881292438,40.02947678703021,5.490517443221728/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184637:1846120301:1106/pct:4.022988505747127,30.012876038862228,13.34119265153748,1.8299582504194467/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17179,7 +17179,7 @@ Such was also emphatically the policy of the
 UMring that period of the Revolutions in the Gov­  
 ernment of South America, President Monroe, wit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1847062601:0576/pct:5.529953917050691,3.3213546771207665,31.58776707163804,91.723837525863/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1847062601:0576/pct:5.534608760415212,3.3286144687647465,31.59242191500256,91.723837525863/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17247,7 +17247,7 @@ isie)
 This wrong of course, was committed in respect to  
 other dependencies of Great Britain than the East i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271742964:1847080301:0150/pct:189.23402179216131,265.0022644927536,48.57700439095788,18.682065217391305/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271742964:1847080301:0150/pct:63.078007264053774,88.33408816425121,16.19233479698596,6.2273550724637685/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17296,7 +17296,7 @@ tliu&gt; *• subjects all questions of war to the wil j
 • of the nation itself w hich is to pay its costs and |  
 feel its calamities/* Ami yet in open contempt 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215804:1848071401:0640/pct:68.93704850361198,27.37621725414895,12.909278543953466,1.3372651213825264/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215804:1848071401:0640/pct:68.93058161350844,27.37433998491394,12.91119449656035,1.3394591876385746/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17351,7 +17351,7 @@ of the Secretary of the Treasury, and that pr
 with the rest of the Report, having been referr  
 to the Financial Committees of both Hon-&#x27; *
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215828:1849022101:0008/pct:85.30736100234925,72.81560233753433,13.194988253719655,8.962895162993734/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215828:1849022101:0008/pct:85.2990114515024,72.81047592227542,13.196959316172393,8.964610907725524/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17439,7 +17439,7 @@ overburdening other, departments, and with such
 as have not been annexed to any department.”  
 “ That young man resembles both his parents,” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_eclipse_ver01:data:sn82016488:00513688039:1849040701:0287/pct:22.314724126673195,77.34784889821616,15.491348351289586,5.0498426023085/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_eclipse_ver01:data:sn82016488:00513688039:1849040701:0287/pct:22.314724126673195,77.35659321441064,15.502230928283817,5.041098286114026/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17470,7 +17470,7 @@ u within and without, may bespeak the most noble
 &quot; of all ambitions?that of promoting peace on earth  
 &quot; and good will towards men.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1851121301:0872/pct:66.13387978142076,41.46703413186347,15.710382513661202,4.780580877676489/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1851121301:0872/pct:66.13387978142076,41.47410077026358,15.710382513661202,4.777047558476433/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17504,7 +17504,7 @@ they possess, under the Constitution, to construct
 &quot; roads and canals.&quot; Nothing is here left to infer­  
 ence; the power is admitted, and its exercise in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661204:1852082801:0839/pct:58.68084399401894,18.612067865799208,13.40754278119289,4.860313815537696/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661204:1852082801:0839/pct:58.68638201251592,18.612067865799208,13.424156836683835,4.873070544712336/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17536,7 +17536,7 @@ explanations proper. The undersigned has the honor to
 ask an answer to his proposals, and to tender to his ex  
 cellency his distinguished consideration, and to subrerib
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743063:1852112501:0992/pct:153.25482499182203,33.56389613334845,46.123650637880274,9.592924367842159/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743063:1852112501:0992/pct:51.08494166394068,11.187965377782817,15.374550212626758,3.1976414559473865/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17553,7 +17553,7 @@ some insinuations which had been made by the representa­
 tive of his Catholic Majesty in the United States, injurious  
 to the good faith and honor of the United States, whic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1852112701:0418/pct:65.32235160465777,74.74048442906575,15.577960806589036,1.5354671280276817/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1852112701:0418/pct:65.32708510839724,74.74048442906575,15.587427814067974,1.5426758938869665/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17573,7 +17573,7 @@ succeeding the convention of 1815 were employid in
 endeavors to arrange the terms of the colonial trade  
 with the United States by negotiation, or to secur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743075:1853021201:0326/pct:243.86673397274103,252.98644612910635,48.325761399966346,8.545830461750517/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743075:1853021201:0326/pct:81.28891132424701,84.3288153763688,16.108587133322114,2.848610153916839/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17599,7 +17599,7 @@ both. The twelve year* succeeding the convention of
 1915 were employed in endeavors to arrange the terms of  
 the colonial trade with the United Slates by negotiation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661216:1853021801:0235/pct:32.13759213759214,53.85975994946305,15.675675675675675,5.6475047378395455/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661216:1853021801:0235/pct:32.14851214851215,53.868182775321124,15.67021567021567,5.643293324910507/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17622,7 +17622,7 @@ moting intercourse and improvements, and by increasing
 the share of every part in the common stock of national  
 prosperity.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664333:1853081601:0555/pct:49.09541873358623,55.39568345323741,15.990662386927342,3.758046194623249/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664333:1853081601:0555/pct:49.10514541387025,55.40199419411839,15.990662386927342,3.7612015650637383/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17645,7 +17645,7 @@ iziled up on by the Sonats fer a rapert on the auibjest, and in
   aes o  ie a   
 ment fer entorcing a uaiformity in the weishts and measure
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743099:1854011101:0089/pct:147.58064516129033,235.72356763142352,46.125525946704066,14.577672770230361/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743099:1854011101:0089/pct:49.193548387096776,78.57452254380783,15.375175315568022,4.859224256743453/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17833,7 +17833,7 @@ essential that the aation should porsess a cur­
 rency of equal value, credit and ase, wherever af  
 may circulate..&quot; We ask our neighbor, can th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200292911:1857120101:0587/pct:22.083559413998916,267.63575952652894,37.71025501899078,13.20735126155124/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200292911:1857120101:0587/pct:5.520889853499729,66.90893988163224,9.427563754747695,3.30183781538781/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17863,7 +17863,7 @@ watches over the purity of elections, the freedom of
 speech and of the press, and is an organization ex  
 isting bold and energetic, therefore be i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293277:1859021201:0149/pct:125.4445125689761,202.737769313177,48.804414469650524,28.091893822164028/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293277:1859021201:0149/pct:31.37555589633492,50.68444232829425,12.20671676123294,7.022973455541007/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17890,7 +17890,7 @@ may circulate. The constitution has entrusted Congress
 exclusively with the power of regulating a currency of  
 that description.&quot; Senator McDuffle, in his report on th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743397:1861122801:0810/pct:25.558475689881735,206.41618497109826,43.98817345597897,14.763005780346822/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743397:1861122801:0810/pct:8.519491896627246,68.80539499036608,14.662724485326326,4.9210019267822736/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17951,7 +17951,7 @@ State violations of ths Federal Constitution.—
 Rebellion ia the child of State usurpation. State  
 supremacy, 8tate allegiance, and State Seces
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84027060:00415668909:1863012401:0533/pct:65.53126588713778,45.66995429396199,14.30266056600576,5.003608371421699/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84027060:00415668909:1863012401:0533/pct:65.53691464723494,45.67396359554166,14.30830932610292,4.999599069842033/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17973,7 +17973,7 @@ with the power of creating and regulat-
 of State violations of the Federal Con  
 stitntion. ate tion. State supremacy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn86059058:00296022007:1863012401:0639/pct:170.36048064085446,286.0028486339505,48.33110814419226,18.904570762657/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn86059058:00296022007:1863012401:0639/pct:42.61145433294373,71.50071215848763,12.088829520788112,4.72614269066425/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17999,13 +17999,13 @@ The rebellion is the child of State nsurpa-
 tion. State supremacy. State allegiance, and  
 . State seeeasion. And now the Governmen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058250:0027174478A:1863013001:0160/pct:108.46702317290553,27.602091633466134,16.904337492572786,8.366533864541832/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058250:0027174478A:1863013001:0160/pct:81.39396641402882,20.7046812749004,12.691336008322187,6.274900398406374/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Continental monthly_](https://archive.org/details/sim_continental-monthly_1863-02_3_2/page/n13/mode/1up?view=theater)
+## [From _The Continental Monthly; Devoted to Literature and National Policy (1862-1864)_](https://archive.org/details/sim_continental-monthly_1863-02_3_2/page/n13/mode/1up?view=theater)
 
 #### 1863-02-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -18057,7 +18057,7 @@ paw medium, said: /‘lt is essential that the;
 “Congress exclusively with the power ere-]  
 ilcting and regxdatii-g a currency of ,that dc-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_edgewater_ver02:data:sn84031490:no_reel:1864040101:0002/pct:3.327067669172932,73.74821173104435,10.169172932330827,2.503576537911302/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_edgewater_ver02:data:sn84031490:no_reel:1864040101:0002/pct:3.331766917293233,73.75536480686695,10.169172932330827,2.503576537911302/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18272,7 +18272,7 @@ ance of ta standard at once invariable
 and universal,&quot; and earnestly recom­  
 mended it to the first Congress of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415669197:1877112001:0083/pct:75.66666666666667,25.85838818715531,57.266666666666666,105.3816046966732/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415669197:1877112001:0083/pct:25.22222222222222,8.61946272905177,19.08888888888889,35.12720156555773/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18297,7 +18297,7 @@ the circulating medium must b restored to LoUroes an&#x27;l the faith of the nat
   
 the government where it belongs. It is th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_eiffel_ver02:data:sn83045232:00295878794:1880021201:0919/pct:4.541326067211626,62.65881623799194,38.23796548592189,3.408738766656337/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_eiffel_ver02:data:sn83045232:00295878794:1880021201:0919/pct:3.4067681126504654,46.99411217849396,28.68498750851692,2.556554074992253/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18333,7 +18333,7 @@ try, and a perpetuity of the in­
 stitutions under which it is en­  
 joved.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_angel_ver01:data:sn88064555:00294555109:1880032701:0559/pct:141.60568230736118,37.05215419501134,93.88721480843736,251.92743764172334/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_angel_ver01:data:sn88064555:00294555109:1880032701:0559/pct:47.20189410245372,12.350718065003779,31.295738269479124,83.97581254724112/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18358,7 +18358,7 @@ provements and by Increasing tho share of
 every part la tho common stock of National  
 prosperity.” ... 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_north_ver02:data:sn84031492:no_reel:1880073101:0006/pct:17.857142857142858,28.76521045282266,12.718396711202466,4.16916018352284/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_north_ver02:data:sn84031492:no_reel:1880073101:0006/pct:17.876413155190132,28.770197486535007,12.711973278520041,4.16916018352284/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18386,7 +18386,7 @@ dom of the Legislature whether a
 national one currency!, founded upon  
 the credit of the Goverumeut and it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035083:00296027212:1882081001:0100/pct:39.08045977011494,51.82854428876751,14.292196007259529,7.634766088815009/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035083:00296027212:1882081001:0100/pct:29.319213313161875,38.87437663262883,10.726172465960666,5.7231061505580625/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18472,7 +18472,7 @@ this language:
 The Constitution does not stop with this  
 grant of the coinage power to Congress. I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_harvey_ver03:data:sn82015080:00212473790:1890122401:0412/pct:59.588509316770185,98.00529208223081,16.058488612836438,15.275798900875229/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_harvey_ver03:data:sn82015080:00212473790:1890122401:0412/pct:39.74110032362459,65.33686138815388,10.718446601941748,10.18725829432119/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18525,7 +18525,7 @@ tution intrusted Congress exclusively
 with tho power of croating and regula­  
 ting a currency of that description Joh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_dracula_ver01:data:sn86063242:0020653316A:1891052901:0157/pct:23.53870458135861,87.26640030931821,16.725908372827803,5.116638742105941/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_dracula_ver01:data:sn86063242:0020653316A:1891052901:0157/pct:23.53870458135861,87.2760665034154,16.725908372827803,5.116638742105941/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18549,7 +18549,7 @@ Monroe, during his eight years of office, paid
 suitable attention to the militia. He asked, in  
 1817, for the &quot;unremitted attention of Con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_milosz_ver01:data:sn83030272:00175045016:1892040401:0251/pct:269.4359756097561,178.44366304846355,50.53353658536585,14.737807674667483/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_milosz_ver01:data:sn83030272:00175045016:1892040401:0251/pct:67.3846740373618,44.61091576211589,12.638200533739992,3.6844519186668707/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18567,7 +18567,7 @@ for the purposes of the treasury it 40-essential tbat the nation -should pos­
 sess a currency of equal valui v, credit* and use wherever it. moy circulate.  
 The constitution has entrusted congress exclusively with o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059299:0038334685A:1892072901:0530/pct:6.028833551769331,59.85271409906164,27.768676277850588,2.304311675971018/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059299:0038334685A:1892072901:0530/pct:6.039755351681957,59.85667339747397,27.757754477937965,2.304311675971018/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18620,7 +18620,7 @@ rency.” °
 But the clearing house of New York City has taken the constitution  
 and congress under its “protection,” and “sat down upon them.” Pig
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_disco_ver01:data:sn90059299:00383346861:1893092201:0457/pct:65.25666114707211,40.18835090592691,27.47252747252747,5.82454703654417/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_disco_ver01:data:sn90059299:00383346861:1893092201:0457/pct:65.2616789603091,40.18835090592691,27.477545285764464,5.834783498822807/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18662,7 +18662,7 @@ structed congress exclusively with the
 power of creating and regulating a cur­  
 rency of that description.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346812:1896031801:0506/pct:17.211632113538332,14.933247200689062,12.021705857798803,1.8195521102497847/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346812:1896031801:0506/pct:17.22090812114466,14.93683606086707,12.03098186540513,1.8303186907838072/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

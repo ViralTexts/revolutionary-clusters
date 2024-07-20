@@ -91,7 +91,7 @@ manufactures may be abused by its excess
 i-; certain, but so may be the exercise of  
 every constitutional power.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_anoka_ver02:data:sn83025287:0017503545A:1883060201:0299/pct:70.93542918785637,83.15108234769025,13.237787024194791,4.4632894443204645/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_anoka_ver02:data:sn83025287:0017503545A:1883060201:0299/pct:70.93542918785637,83.15108234769025,13.253197719217138,4.478167075801532/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -119,7 +119,7 @@ national sanction not to bo reversed but by a
 confidence at lent equivalent to the national  
 will 1 27 Vol3 p 573
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_borges_ver01:data:sn83030272:00175044851:1889062301:0529/pct:287.4243570347958,135.77101753334333,51.66414523449319,26.71961636445377/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_borges_ver01:data:sn83030272:00175044851:1889062301:0529/pct:71.86968034802345,33.94275438333583,12.918479288821638,6.679904091113443/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -143,7 +143,7 @@ anjrwbere.&#x27; (1827.?) Vol. 3, p. .&quot;?7.3. j
   
 THE SAME OLD COON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ozzyosbourne_ver01:data:sn85026941:00175032381:1889071201:0313/pct:2.2526021438558335,3.406352683461117,20.413235979493553,94.68784227820372/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ozzyosbourne_ver01:data:sn85026941:00175032381:1889071201:0313/pct:2.2526021438558335,3.4136546184738954,20.423592770959555,94.68419131069733/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -168,7 +168,7 @@ sanction not to be reversed, but by a
 confidence at least equivalent to the  
 national will.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_corinth_ver01:data:sn86090439:00517176606:1890012301:0140/pct:21.896268481577096,2.5455083616989786,17.765782680122037,6.0529820926446645/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_corinth_ver01:data:sn86090439:00517176606:1890012301:0140/pct:21.896268481577096,2.552908095308569,17.765782680122037,6.06408169305905/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -193,7 +193,7 @@ the national will.&quot; To which the
 Sun adds the following very pointed com­  
 ment: &quot;Add to that indisputable recor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_entiat_ver01:data:sn83045604:00202199070:1891042201:0650/pct:44.20299284320104,85.28193692258681,33.93623942745608,14.261442072846979/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_entiat_ver01:data:sn83045604:00202199070:1891042201:0650/pct:14.73433094773368,28.427312307528936,11.312079809152028,4.753814024282327/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

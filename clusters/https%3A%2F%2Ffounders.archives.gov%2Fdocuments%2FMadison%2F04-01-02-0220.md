@@ -46,7 +46,7 @@ for the district composed of the coun*
 ties of Spotsylvania, Louisa, Orange and  
 Madison ; at the close of the poll the vote
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805041701:0153/pct:3.7599696164071403,27.269108280254777,17.204709456893276,2.070063694267516/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805041701:0153/pct:3.7592557433073854,27.265490248109327,17.207771660021518,2.074211666887798/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -64,7 +64,7 @@ eigbl hundred and eighteen, and of the com­
 monwealth the forty second.  
 , , JAMES P. PRESTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1818063001:0063/pct:33.62481438706484,44.134755210857975,14.783039102458341,1.6965584100824043/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1818063001:0063/pct:33.61926756845926,44.12940748818611,14.786099197184647,1.7003917767276546/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -82,7 +82,7 @@ eight hundred and eighteen, and of the com­
 monwealth the forty second.  
 JAM IS P. PRESTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1818072101:0087/pct:49.62638076673164,44.92404147576561,14.571150097465887,1.519170484687726/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1818072101:0087/pct:49.61832061068702,44.91862567811935,14.574197390504033,1.523005826803295/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -128,7 +128,7 @@ quired by the law entitled, *&#x27; An act ap­
 propriating part of the Revenue of the  
 Literary Fund and for other purposes,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1819042701:0455/pct:19.258179462261094,57.93420416061925,14.220926465824425,1.7174649250120948/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1819042701:0455/pct:19.25506072874494,57.9271979683154,14.224021592442645,1.7212883460313622/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -149,7 +149,7 @@ appointment under the Federal Government, I am a­
 bout once more, to dissolve the tie, which binds  
 me to you, in the relation of Representative, and t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830102901:0347/pct:4.882315521628499,47.579777698099676,17.938931297709924,3.7886936775427276/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830102901:0347/pct:4.881539195420576,47.57409177820268,17.94137912757725,3.7922243467176546/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -212,7 +212,7 @@ year of our Lord, one thousand
 eight hundred and eighteen, and  
 of the Commonwealth the forty
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn84026409:00280776531:1897031001:0535/pct:256.6943127962085,145.64979180363795,38.56635071090047,9.379793995178611/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn84026409:00280776531:1897031001:0535/pct:64.17357819905213,36.41244795090949,9.641587677725118,2.3449484987946527/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

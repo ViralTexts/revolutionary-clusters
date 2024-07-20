@@ -551,7 +551,7 @@ Oats, 314
 Buckweat, 26  
 Peas and beanj
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794030801:0002/pct:8.763227513227513,7.535641547861507,40.707671957671955,85.050916496945/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794030801:0002/pct:8.788029100529101,7.55091649694501,40.69940476190476,85.061099796334/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -646,7 +646,7 @@ carried cheaper to the Weft-Indies, the
 people there could afford to consume the  
 more of them.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794030801:0002/pct:29.43121693121693,7.535641547861507,40.74074074074074,85.23421588594705/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794030801:0002/pct:29.447751322751323,7.55091649694501,40.74074074074074,85.22912423625255/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -710,7 +710,7 @@ it were for special purposes, where the
 momentary gain might. outweigh the  
 eventual facrifice.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794030801:0002/pct:50.29761904761905,48.676171079429736,19.51058201058201,36.985743380855396/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794030801:0002/pct:50.30588624338624,48.686354378818734,19.535383597883598,36.9959266802444/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -813,7 +813,7 @@ nufacturers, might be relied on to support
 whatever undertakings (hall have once got  
 a footing.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794030801:0002/pct:50.13227513227513,7.576374745417516,40.74074074074074,85.58044806517312/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794030801:0002/pct:50.148809523809526,7.576374745417516,40.74074074074074,85.59063136456211/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1090,7 +1090,7 @@ fence of certain ports, See. and, after
 some time spent in the business, the bill was  
 reported with amendments and pafled t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794031301:0002/pct:9.954896907216495,7.163091865641441,61.11469072164948,85.12747875354107/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794031301:0002/pct:9.971005154639176,7.1681505463375155,61.11469072164948,85.13253743423715/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1332,7 +1332,7 @@ conduct, and the general plenipotentiary
 chara&amp;er in which he had been sent, and  
 received.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794031501:0002/pct:52.46913580246913,6.830158086745034,39.70110461338532,85.02229428455614/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794031501:0002/pct:52.493502274204026,6.84535873530604,39.676738141650425,85.02736116740981/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1506,7 +1506,7 @@ more likely to answer the reasonable pur­
 poses of the community, than any others  
 that could be proposed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794031801:0002/pct:32.03545425767648,7.242283639297963,38.65147198480532,84.64797256405083/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794031801:0002/pct:32.04336815447927,7.242283639297963,38.69104146881924,84.65805931006658/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1605,7 +1605,7 @@ I cases 11 1h a- ,v.ii vessels, Her exam­
 Stem, as well as an infraction  
 o( U.e rights of reciprocity
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807081401:0003/pct:4.3339706819630335,1.9852135815991239,36.286381984278734,96.45399780941949/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807081401:0003/pct:4.348133984845266,1.9852135815991239,36.2722186813965,96.46312522818548/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1798,7 +1798,7 @@ to his observations.
 From the American.  
 The foreign news last received, af
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807081701:0001/pct:40.397775876817796,8.511507558218712,56.90761334473909,90.03132234781424/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807081701:0001/pct:40.412033076703736,8.516047028916429,56.91474194468206,90.03132234781424/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

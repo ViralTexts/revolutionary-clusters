@@ -173,7 +173,7 @@ at the taking the fame, or are duly notified
 thereof, o  
 Article 75: No officer shall be tried ba
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1806090201:0349/pct:42.799061767005476,74.54052425429346,16.591086786551994,13.568343878678316/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1806090201:0349/pct:42.799061767005476,74.54052425429346,16.601511597602293,13.568343878678316/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -221,7 +221,7 @@ person accused are present at taking the same; or
 are duly notified thereof. And furiher that the re­  
 turns o¥ captains or other commanding officers o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1814062201:1056/pct:5.3406998158379375,55.83087512291052,22.91980579273397,5.929203539823009/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1814062201:1056/pct:5.3518611529661255,55.837430350704686,22.90864445560578,5.932481153720092/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -331,7 +331,7 @@ taken before some justice of the peace, and read in evidence; provided
 the prosecutor and person accused are present at the taking the same, or  
 are duly notified thereof
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn82014282:0041421244A:1861062701:0244/pct:24.07890919640267,40.32691687278202,18.81346098056281,2.3873534788686954/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn82014282:0041421244A:1861062701:0244/pct:24.075416968817983,40.32258064516129,18.814358230601886,2.389784946236559/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

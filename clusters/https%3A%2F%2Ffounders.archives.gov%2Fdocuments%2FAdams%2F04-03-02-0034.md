@@ -302,7 +302,7 @@ your safety. You must write me an account
 of your situation and ofevery thing entertain­  
 ing you can recollect. Be assure
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215683:1840120501:0360/pct:52.64218540080609,32.88382546694567,15.304523063143753,51.39114934511354/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215683:1840120501:0360/pct:52.63629239897011,32.8812771233726,15.306541288854062,51.38974994833643/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -565,7 +565,7 @@ your voyage, of your situation, and of every thing
 entertaining you can recollect.  
 Be assured I am, most affectionately, yours
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296187:1840122201:0716/pct:5.003849114703618,49.29987522528768,139.64588144726713,322.19603493691943/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296187:1840122201:0716/pct:1.2512030798845044,12.32496880632192,34.918190567853706,80.54900873422986/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -691,7 +691,7 @@ your situation, and ofevery thing entertain­
 ing you can recollect.  
 Be assured I am, most affectionately .yours.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182951:1840122401:0195/pct:57.60653565908589,21.79073856975381,17.5977036873482,60.726846424384526/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182951:1840122401:0195/pct:57.59381898454746,21.78754578754579,17.59933774834437,60.72161172161172/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -821,7 +821,7 @@ For Young worring MeN
 The heats of election-time are over, and  
 we think it might be well for us to look abou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00200290185:1840122501:0847/pct:51.48887434554974,14.168618266978923,75.04908376963351,275.4488680718189/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00200290185:1840122501:0847/pct:17.165766650302732,4.722872755659641,25.020454917362134,91.81628935727296/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -936,7 +936,7 @@ of your situation, and of every thing entertain­
 ing ytfu can recollect.  
 Be assured I am, most affectionately, yours
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn86053954:00237281846:1841030301:0193/pct:27.80730897009967,25.518768943809746,25.232558139534884,90.4056889717883/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn86053954:00237281846:1841030301:0193/pct:20.867253696627348,19.141991140125903,18.923409204186743,67.813010025647/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1006,7 +1006,7 @@ nntl truth, are cherished by you. Adhere to the rules
 and principles early instilled into your mind, and re­  
 member that you are responsible to your God. Dea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199252:1848031601:0845/pct:108.58704137392662,81.92708333333333,19.672131147540984,3.5677083333333335/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199252:1848031601:0845/pct:81.47208121827411,61.4453125,14.779383053494728,2.6822916666666665/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1026,7 +1026,7 @@ virtue, honor, integrity and truth, are
 cherished bv vnll. Adhere to the rules  
 P&quot;&quot;&#x27;1 1&#x27;is astonishment at the msensihi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_junebug_ver01:data:sn83016735:00415661897:1848031801:0043/pct:95.27141645462257,65.59832259997005,17.17557251908397,10.333982327392542/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_junebug_ver01:data:sn83016735:00415661897:1848031801:0043/pct:71.4891811624947,49.19874194997753,12.897751378871448,7.75797513853527/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1119,7 +1119,7 @@ of small estimation, unless virtue, honor, integ­
 rity, and truth, are chetished by you. Adhere  
 to the rules and principles early instilled in you
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199252:1848050401:0872/pct:6.412213740458015,101.35346173867777,19.198473282442748,3.6179073399271213/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199252:1848050401:0872/pct:4.810996563573883,76.01509630400832,14.413898434516991,2.719937532535138/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1225,7 +1225,7 @@ ciples early instilled in your mind, and re­
 member that you arc responsible to your  
 God. Dear as you are to me, I would muc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_lilac_ver02:data:sn82015408:00237289699:1849092201:0712/pct:27.87049399198932,43.993993993993996,20.12683578104139,5.7057057057057055/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_lilac_ver02:data:sn82015408:00237289699:1849092201:0712/pct:20.921689764568374,32.998382998383,15.11103690098514,4.285054285054285/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1294,7 +1294,7 @@ rules and principles early instilled into you
 mind, and remember, that you are responsibl  
 to your God. Dear as you are to me I woul
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279523969:1851090501:0331/pct:12.708537782139352,268.32073611567534,38.387307818122345,13.714536093767116/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279523969:1851090501:0331/pct:4.235486508585446,89.43044906900329,12.793676751158353,4.57101131799927/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1348,7 +1348,7 @@ by you. Adhere to the rules and principles ear­
 ly instilled into your mind, and remember that  
 you aro responsible to your God. Dear as yo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85026466:0020219798A:1852031601:0149/pct:63.36805555555556,130.46085508051084,25.615530303030305,7.3070516379789/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85026466:0020219798A:1852031601:0149/pct:42.257300710339386,86.97390338700721,17.07971586424625,4.875069405885619/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1411,7 +1411,7 @@ Adhere to the rules and principles early in­
 stilled into your mind, and remember that  
 you are responsible to your God. Dear a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ibizanhound_ver01:data:sn83045461:00280654000:1853051001:0470/pct:1.7619734102194458,69.17448211893229,19.702066314271985,6.338245903328867/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ibizanhound_ver01:data:sn83045461:00280654000:1853051001:0470/pct:1.7739868652891237,69.17705864165723,19.698061829248758,6.351128516953519/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1433,7 +1433,7 @@ the rules and principles early instilled in
 your mind, and remember that you are  
 responsible to your God. Dear as yo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:0028077781A:1859042001:0062/pct:320.0160128102482,149.4512195121951,48.35868694955965,21.76829268292683/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:0028077781A:1859042001:0062/pct:80.05207290206289,37.36280487804878,12.096935709993991,5.442073170731708/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1453,7 +1453,7 @@ will be of little value and of small estimation, un­
 less virtue, honor, integrity and truth are cher­  
 ished by you. Remember that you are respon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_bittern_ver01:data:sn84022799:no_reel:1862122701:0199/pct:123.56029271396754,243.49290353620398,47.34330257715558,12.833774356507096/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_bittern_ver01:data:sn84022799:no_reel:1862122701:0199/pct:30.890073178491885,60.873225884050996,11.835825644288896,3.208443589126774/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1508,7 +1508,7 @@ to act hereafter.
 &quot;Youth is seed time of your future  
 As tue spring is of the year
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84020713:00296022986:1872022001:0030/pct:70.29663281667557,88.03165182987142,20.056119722073756,8.635014836795252/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84020713:00296022986:1872022001:0030/pct:52.739909115209834,66.02373887240356,15.049452018176957,6.478733926805144/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1606,7 +1606,7 @@ principles early instilled into your
 mind, and remember that you are re­  
 sponsible to your God. Dear as yo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_aerodactyl_ver01:data:sn87058235:00279528396:1897112301:0919/pct:80.70117955439056,86.54859320703957,13.82699868938401,4.8537159511265555/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_aerodactyl_ver01:data:sn87058235:00279528396:1897112301:0919/pct:80.70117955439056,86.55232970892651,13.82699868938401,4.8537159511265555/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1639,7 +1639,7 @@ principles early instilled into your
 mind, and remember that you are re­  
 sponsible to your God. Dear as yo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_goshen_ver01:data:sn83016758:00280767840:1897112501:0392/pct:33.93226268087136,87.21241903060086,14.103991095563682,5.025686843868662/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_goshen_ver01:data:sn83016758:00280767840:1897112501:0392/pct:33.93226268087136,87.21241903060086,14.114591614989134,5.025686843868662/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1662,7 +1662,7 @@ principles early instilled into your
 mind, and remember that you are re­  
 sponsible to your God, Dear aa yo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_europium_ver01:data:sn88076432:00271740712:1897112501:0410/pct:81.14866184801718,109.49735808156076,17.366673178355146,6.313507654789324/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_europium_ver01:data:sn88076432:00271740712:1897112501:0410/pct:64.91977495311524,87.5970952707829,13.914357157741197,5.050760504353481/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1709,7 +1709,7 @@ principles early iastilled into your
 mind, and remember that you are re­  
 sponsible to your God. Dear as yo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_caesar_ver01:data:sn82002441:00517011782:1897112701:0644/pct:65.2634677656756,86.7338543809132,13.32057697968796,4.761415055532702/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_caesar_ver01:data:sn82002441:00517011782:1897112701:0644/pct:65.27328034540281,86.74071027012204,13.325483269551565,4.761415055532702/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

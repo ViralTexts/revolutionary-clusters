@@ -66,7 +66,7 @@ frequent. The unsuccessful strugglers a-
 gainst tyranny have been the chief mar­  
 tyrs of treason&#x27;s laws in all countries.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84024082:00212471628:1863051901:0077/pct:203.60255665310865,329.82456140350877,43.230679837303896,21.52046783625731/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84024082:00212471628:1863051901:0077/pct:50.90063916327716,82.45614035087719,10.807669959325974,5.380116959064328/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -160,7 +160,7 @@ cessful druggies against tyranny have been&#x27;
 the ch ef martyrs of treason laws in all conn- ;  
 tries.&quot; &quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_bunting_ver01:data:sn86069123:00202195234:1863090301:0150/pct:105.02793296089385,112.15246051429317,20.635474860335197,9.058869599269025/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_bunting_ver01:data:sn86069123:00202195234:1863090301:0150/pct:78.8122270742358,84.11434538571989,15.493449781659388,6.800678762563634/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -189,7 +189,7 @@ oppressions frequent. The unsuccessful
 struggfers against tyranny have been the  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027467:1863091601:0051/pct:91.73111243307555,90.30984567532002,16.508030933967877,8.649359971288431/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027467:1863091601:0051/pct:68.82904329712841,67.73537504486183,12.393988989733671,6.484029190094509/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

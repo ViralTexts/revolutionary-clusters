@@ -225,7 +225,7 @@ port slave*. So long a term will be more dishonorable to the
 American character than to *ay nothing about U la tbe  
 constitution
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850022401:0256/pct:78.9651837524178,59.864116758933065,15.715667311411993,2.1389028686462/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850022401:0256/pct:78.9651837524178,59.87250461331991,15.721040189125295,2.1389028686462/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -258,7 +258,7 @@ liberty to import slaves. So long a terra will
 bo more dishonorable to the American character,  
 than to say nothing about it in the Constitution
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1853061601:0782/pct:59.95286942057111,51.934282166396024,15.261990573884114,4.1837806858343685/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1853061601:0782/pct:59.95286942057111,51.934282166396024,15.27123186396821,4.186964689400452/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -324,7 +324,7 @@ CoULd BE PEOEErTy Ie MEr. The reason of du
 ties did not hold as slaves are not like mer  
 chandize consumed.&quot; &amp;c. Pages 1427 t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_harrison_ver01:data:sn82015672:00296021854:1854070701:0281/pct:205.60538116591928,39.73295569492211,58.74439461883408,10.115314586283633/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_harrison_ver01:data:sn82015672:00296021854:1854070701:0281/pct:51.41575553686571,9.933238923730528,14.690215867675919,2.5288286465709082/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -376,7 +376,7 @@ copsidered Slavery a State inctitution, to be continred
 and regulated by its individual sovereignty, and to  
 cenciliate that interest the elave trade was continze
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530534:1857031001:0462/pct:104.19716935090288,210.87194454578622,47.35643403286156,22.047914386476954/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530534:1857031001:0462/pct:34.7323897836343,70.29064818192873,15.785478010953852,7.349304795492318/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -398,7 +398,7 @@ it in the Constitution.&quot; (Madison Paperx )
 The provision in regard to the slave trade i  
 shows clearly that Congress considered Slavery 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1857031901:0054/pct:25.959232613908874,45.15703102895407,12.422062350119903,3.829104970291427/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1857031901:0054/pct:25.963229416466827,45.15703102895407,12.430055955235812,3.8385362633217013/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -419,7 +419,7 @@ will be more dishonorable to the American
 character than to say nothing about it in the  
 Constitution,&quot; (Madison Papers. The pro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1857032701:0261/pct:170.76205287713842,193.34838224228744,50.69984447900467,13.604213694507148/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1857032701:0261/pct:42.715425014588604,48.33709556057186,12.682357517992608,3.401053423626787/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -441,7 +441,7 @@ Dtliing about it ill the constitution.&quot; iMadisou Papem.)
 The proviiiiou in regard to the slave trade shows clearly  
 hat Oongress conaidered slavery a Ktate institution, to b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82006534:00415661083:1857052901:0159/pct:21.743964421855146,4.943734985459603,30.749682337992375,92.12289796434442/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82006534:00415661083:1857052901:0159/pct:21.749258788648877,4.952164201121086,30.749682337992375,92.11868335651367/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -472,7 +472,7 @@ astitution the ide thut there could be property in men.
 The reason of duties did not hold, as slaves are not,  
 &quot;like merchandise, consumed,&quot; &amp;c.--Same
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1858043001:0495/pct:329.7339593114241,241.93742478941036,50.70422535211268,10.108303249097473/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1858043001:0495/pct:82.48189469563515,60.48435619735259,12.68349970640047,2.527075812274368/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -494,7 +494,7 @@ reason of duties did not hold, as slaves are not, like mer
   
 chandise, consumed.&quot; &amp;c sam
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199276:1858050601:0883/pct:76.30434782608695,31.437010401951973,16.3768115942029,3.005008347245409/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199276:1858050601:0883/pct:57.24900326205147,23.577757801463978,12.287060529177237,2.260177218440991/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -515,7 +515,7 @@ Cbustitution the idea that there could be property in
 men. The reason of duties did not hold, as slave  
 are not like merchandise, consumed,&quot; &amp;c.--Sam
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777808:1858051201:0880/pct:285.53921568627453,308.384074941452,49.34640522875817,11.241217798594848/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777808:1858051201:0880/pct:71.41397629750715,77.096018735363,12.341642827952596,2.810304449648712/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -537,7 +537,7 @@ lo say nothing about it in the Constitution.&quot;
 Ibid, pitgo 477.  
 In the 6a me debate he further report
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296027546:1858083101:0298/pct:62.3279098873592,116.00212652844232,15.7540675844806,7.177033492822966/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296027546:1858083101:0298/pct:46.753246753246756,87.00159489633174,11.829134720700985,5.396065922381712/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -592,7 +592,7 @@ Mr MaDisoN (Va)- Twenty years will produce all the
 mischief that can be apprehended from the liberty to im­  
 port slaves
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743361:1860111801:0813/pct:252.09144792548688,184.27193713537326,45.16511430990686,7.238957018692702/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743361:1860111801:0813/pct:84.03048264182895,61.42397904512442,15.055038103302286,2.4129856728975674/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

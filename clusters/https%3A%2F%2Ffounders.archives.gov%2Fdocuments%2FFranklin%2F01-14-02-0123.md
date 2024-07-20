@@ -223,7 +223,7 @@ X. Wh it is gut by these prohibitions? Answer—&#x27;
 i I four find tlieir common stock ot the conveniences ,  
 And enjoyments of life diminished.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184595:1841063001:0584/pct:15.192247577367928,166.27252898633913,38.74648327602376,18.19538514521869/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184595:1841063001:0584/pct:5.063291139240507,55.4178145087236,12.913476063968329,6.064432200795837/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -282,7 +282,7 @@ turn, forbids cloths from N. What is got by all these
 prohibitions? Answer- All four find their common  
 iteck of the enlryments and conveniences of life dimi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743154:1842040301:0378/pct:5.968431437027293,213.72327186333297,53.41992765537652,16.325376173775314/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743154:1842040301:0378/pct:1.9894771456757645,71.24109062111098,17.806642551792173,5.441792057925104/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -308,7 +308,7 @@ What is got by all these prohibition*.&#x27; Answer?All four find their
 common stock of the enjoj inents and conveniences of life dimi­  
 nished .
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664266:1842040801:0052/pct:67.38898214558218,84.14324845287612,16.389439951167404,4.24064116871259/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664266:1842040801:0052/pct:67.38898214558218,84.15001183592032,16.409786866066433,4.24064116871259/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -363,7 +363,7 @@ What is cot by all theso prohibitions i
 of Fie efo&#x27;t aunts aid conveniences of life  
 diminished• ”— Nash Union
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn95079484:00393348392:1842092201:0065/pct:52.377482237201676,66.33403361344538,13.900528329386045,13.327205882352942/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn95079484:00393348392:1842092201:0065/pct:52.36794171220401,66.32532493107523,13.904068002428659,13.329832392455472/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -405,7 +405,7 @@ What is get by ell these prohibilionsT
 Ana. AU four find theer common stock tf the enjoy  
 mailt and conveniences of life diminished,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cousteau_ver02:data:sn84028889:00296027364:1842092901:0322/pct:101.43603133159269,36.32334963325184,24.934725848563968,11.88875305623472/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cousteau_ver02:data:sn84028889:00296027364:1842092901:0322/pct:76.10446137105549,27.246332518337407,18.694232861806313,8.924205378973106/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -437,7 +437,7 @@ What is got by all these prohibitions? |
 Answer.—All find their common stock of the enjoy­  
 ments and conveniences of life diminished
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015209:1843053001:0494/pct:49.89739079448842,76.47609147609148,14.834359425388449,8.014553014553014/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015209:1843053001:0494/pct:49.90716309977524,76.47955647955648,14.844131730675267,8.021483021483022/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -464,7 +464,7 @@ C. in return, forbids cloth from X.
   
 What is got by all these prohibitions?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197978:1843062101:0526/pct:7.993384785005513,63.211450296321146,40.55953693495039,7.592530470759253/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197978:1843062101:0526/pct:5.9975182683027715,47.411383204741135,30.44257548600579,5.702784300570278/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -503,7 +503,7 @@ Answer; All four find iheir common
 stock of the enjoyments and conveniences  
 ol lile diminished
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_kingsombra_ver01:data:sn83016863:00415662051:1844030901:0262/pct:25.731803797468356,32.935352358765286,19.165348101265824,20.762958648806055/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_kingsombra_ver01:data:sn83016863:00415662051:1844030901:0262/pct:19.30761622156281,24.70879440885265,14.381800197823937,15.564938846825859/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

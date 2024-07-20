@@ -360,7 +360,7 @@ salting, drying and keeping of their fish,
 to be taken or gotten upon that coast.  
 And further, for the encouragement o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153139:1833120401:0595/pct:79.94683502242897,17.842876165113182,15.068948330287423,13.787677036678367/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153139:1833120401:0595/pct:79.95791105942294,17.842876165113182,15.068948330287423,13.799782108703546/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -407,7 +407,7 @@ or any arms of the sea, or salt water,
 rivers and creeks where they have been  
 accustomed to fish
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_fleshgolem_ver02:data:sn92063989:00514153553:1883042801:0748/pct:17.465175179400592,39.06446474976947,9.698184888138455,5.0549082068907705/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_fleshgolem_ver02:data:sn92063989:00514153553:1883042801:0748/pct:17.465175179400592,39.06446474976947,9.705220205431266,5.0549082068907705/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -461,7 +461,7 @@ or cretk., where they have been accus
   
 tomed to fish, &amp;a , Aic&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_forest_ver01:data:sn82015483:00271764108:1893080201:0113/pct:100.9115361625822,42.46726226900012,12.671846981470413,5.923387590258231/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_forest_ver01:data:sn82015483:00271764108:1893080201:0113/pct:75.72133353266557,31.856565903806143,9.508147705187621,4.442540692693672/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -487,7 +487,7 @@ seas, or salt water rivers and creeke,
 where they have been accustomed to  
 fisn. &quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_efreeti_ver01:data:sn91070630:00514152998:1898020301:0781/pct:16.95235524362262,9.724223091171023,12.822243217708193,8.026342868903066/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_efreeti_ver01:data:sn91070630:00514152998:1898020301:0781/pct:16.961353309038557,9.724223091171023,12.817744185000224,8.036633052068327/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -507,7 +507,7 @@ thereunto adjoining, or any arm of the seas, or
 salt water rivers and creeks, where they have  
 been accustomed to fish.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042982:1898021701:0621/pct:167.28682170542635,255.46827794561935,51.86046511627907,8.700906344410877/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042982:1898021701:0621/pct:41.837921675067854,63.86706948640484,12.970143466459868,2.175226586102719/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

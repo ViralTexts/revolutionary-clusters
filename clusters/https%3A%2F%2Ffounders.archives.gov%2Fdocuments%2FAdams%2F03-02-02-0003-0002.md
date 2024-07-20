@@ -276,7 +276,7 @@ before thy time ?
 &quot;In spite of pride, in erring reason&#x27;s spite  
 One truth is clear, whatever is is right.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_pearse_ver01:data:sn82015753:00212475373:1855080801:0133/pct:177.2268907563025,58.51700251889169,28.361344537815125,2.172544080604534/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_pearse_ver01:data:sn82015753:00212475373:1855080801:0133/pct:59.075630252100844,19.50566750629723,9.453781512605042,0.7241813602015114/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -342,7 +342,7 @@ All partial evil, universal good. ; , -
 And spite of pride, in erring reason&#x27;s spite.  
 One truth is clear. Whatever is, it rigltt.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033395:0021247034A:1858012801:0634/pct:10.654796094198737,54.20645748067303,16.025272831705916,6.105047748976808/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033395:0021247034A:1858012801:0634/pct:8.00057454754381,40.65484311050478,12.02240735420856,4.58162801273306/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -380,7 +380,7 @@ And all partial evil universal good;
 And, spite of pride, in erring reason&#x27;s spite,  
 One truth is clear, whatever is, is right
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn85026002:00280775228:1859081001:0409/pct:180.40983606557376,158.910741301059,54.34426229508197,188.92586989409986/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn85026002:00280775228:1859081001:0409/pct:45.130202993643636,39.72768532526475,13.594422800902194,47.231467473524965/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -547,7 +547,7 @@ All discord, harmony not underatood;
 And spite of pride, in erring reason&#x27;s spite  
 One truth is clear, whatever is, is right
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743683:1869102301:0293/pct:139.0749050742147,244.21497584541063,56.02347255781843,39.227053140096615/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743683:1869102301:0293/pct:46.358301691404904,81.40499194847021,18.674490852606144,13.075684380032206/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -642,7 +642,7 @@ All partial evil, universal good.
 And spite of pride, in erring reason&#x27;s spite,  
 One truth is clear, whatever is, is right.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_heddalettuce_ver01:data:sn93067790:00294558755:1872031301:0022/pct:40.26574234546505,32.28822882288229,18.890814558058924,5.335533553355336/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_heddalettuce_ver01:data:sn93067790:00294558755:1872031301:0022/pct:40.27858013993196,32.2973964063073,18.890814558058924,5.335533553355336/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -673,7 +673,7 @@ All partial evil, universal good.
 And spite of pride, in erring reason&#x27;s spite,  
 One truth is clear, whatever is, is rigbt.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_heddalettuce_ver01:data:sn93067790:00294558755:1872031301:0023/pct:40.3448275862069,24.151835372636263,19.080459770114942,14.349276974416018/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_heddalettuce_ver01:data:sn93067790:00294558755:1872031301:0023/pct:40.3448275862069,24.161104931405266,19.08684546615581,14.353911753800519/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -826,7 +826,7 @@ All partial evil, universal good:
 And, spite of pride, in erring reason&#x27;s spite.  
 One truth is clear. Whateven i8, is Rinlt.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_archives_ver01:data:sn87082573:00211101143:1880042801:1090/pct:261.33004926108373,290.088638195004,58.45648604269294,44.426537738383026/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_archives_ver01:data:sn87082573:00211101143:1880042801:1090/pct:65.34592486142476,72.522159548751,14.617121740915623,11.106634434595756/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -959,7 +959,7 @@ One truth is clear, whatever is, is right.
 Pope.  
 A native of Madagascar who studied medicin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:00414210168:1886062001:0446/pct:49.66307277628032,26.76356589147287,14.380053908355794,7.858527131782946/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:00414210168:1886062001:0446/pct:49.66307277628032,26.766795865633075,14.389038634321652,7.858527131782946/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1414,7 +1414,7 @@ And spite of pride. In erring reason&#x27;s spite.
 One truth Is clear, whatever la, la right.  
 Alexander Pope
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_edwards_ver01:data:sn86063615:00211109166:1898071001:0233/pct:111.87548039969255,34.486654427340774,15.046118370484242,14.037565315633385/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_edwards_ver01:data:sn86063615:00211109166:1898071001:0233/pct:83.9323467230444,25.872051970060728,11.281952719584854,10.535235136280187/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1484,7 +1484,7 @@ spite,
 One truth is clear: Whatever is, is  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_nuthatch_ver01:data:sn84036012:0021247728A:1899052701:0776/pct:172.0218120805369,49.84939759036145,38.00335570469799,29.216867469879517/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_nuthatch_ver01:data:sn84036012:0021247728A:1899052701:0776/pct:57.34060402684564,16.616465863453815,12.667785234899329,9.738955823293173/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

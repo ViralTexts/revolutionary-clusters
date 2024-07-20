@@ -74,7 +74,7 @@ try, unless such person lie in the capacity
 of a consul or other public agent of the U­  
 nited States. Provided, That nothin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804041401:0095/pct:22.581261950286805,34.4679186228482,18.202676864244744,10.719874804381847/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804041401:0095/pct:22.576945134773467,34.46342417525101,18.205569362135986,10.722823488503499/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -106,7 +106,7 @@ the United States. Provided, That no­
 thing herein contained Ihall be conftrued  
 to prevent the regiftering anew of any fhi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804052601:0029/pct:23.278211884426675,42.68444666001994,16.154824641104852,10.169491525423728/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804052601:0029/pct:23.273982558139537,42.679127725856695,16.157945736434108,10.172377985462097/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -201,7 +201,7 @@ agent of‘&#x27;the United States. Provided,
 That nothing herein contained shall  
 be construed to prevent the registerin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804072401:0531/pct:25.37197768133912,58.379514618765526,16.70799752014879,11.341486718899294/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804072401:0531/pct:25.382310394709652,58.38269953500223,16.69766480677826,11.344671635135995/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -228,7 +228,7 @@ It refers to tiie 19th article of an ordinance of 4th Match
 1817, which is no doubt a law relating to prizes. You are  
 requested to procure and transmit to this Department a cop
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826032801:0068/pct:59.58093410108765,73.68236940298507,17.754318618042227,1.6441231343283582/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826032801:0068/pct:59.57140572525188,73.67377871050483,17.75681006450237,1.6478178073141347/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -250,7 +250,7 @@ article of an ordinance of 4th March, 1817, which
 is no doubt a law relating to prizes. You are re­  
 quested to procure and transmit to this Departmen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183992:1826040401:0401/pct:63.262074425969914,43.888088376561,14.837688044338876,4.106628242074928/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183992:1826040401:0401/pct:63.25205826472451,43.882819065914276,14.84061642389698,4.110137271381118/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

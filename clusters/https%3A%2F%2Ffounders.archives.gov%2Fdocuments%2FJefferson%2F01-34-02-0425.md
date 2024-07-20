@@ -209,7 +209,7 @@ I tender you the homage
 Of my high refpe£t,  
 Th : JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801072901:0002/pct:27.1584440227704,6.210448859455482,43.097722960151806,89.43340691685063/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801072901:0002/pct:27.1584440227704,6.210448859455482,43.1056293485136,89.4383124846701/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -388,7 +388,7 @@ Constitution ?
 I tender you the homage of my high r*fpcR,  
 Th ; JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1801080301:0643/pct:21.842250413678986,11.327508158753552,45.026659312373596,78.06084851036951/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1801080301:0643/pct:21.83823529411765,11.326315789473684,45.02297794117647,78.05526315789474/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -545,7 +545,7 @@ whose agenti he fwa‘sf&#x27;tqrpigj,;,gvg .
 confidence in his agency ? Can the  
 PR e e 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1801080401:0543/pct:59.147095179233624,15.90399063323251,34.30160692212608,80.98351058639868/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1801080401:0543/pct:59.15224557066337,15.90399063323251,34.31190770498558,80.99001528604417/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -596,7 +596,7 @@ tution ? I ‘tender you the homage of
 my high refpe&amp;. = =  
 TH : JEFFERSON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1801080401:0544/pct:6.7553110194100565,6.121854047225731,16.414488766620817,25.23564279467496/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1801080401:0544/pct:6.765500025472515,6.121854047225731,16.414488766620817,25.24859909953681/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1740,7 +1740,7 @@ age our Franklin was the ornament of hu­
 man nature.&quot; I~le might have proceeded  
 to multiply inftances, and have ftated tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801083101:0001/pct:49.12239089184061,57.39041794087666,20.659392789373815,3.757099169943207/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801083101:0001/pct:49.12239089184061,57.400126207465654,20.691018342821,3.761953303237707/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1784,7 +1784,7 @@ they more approved, was it to be imagined t-ha:
 th is monopoly of office was Hill to be continued  
 in the hanJs of ihe minority
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1801102601:0690/pct:45.010924981791696,53.66750735603195,21.067006554989074,9.142496847414881/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1801102601:0690/pct:45.00273074822501,53.66186823578859,21.06772255598034,9.144163076599769/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2322,7 +2322,7 @@ be are they suitable-subjects and do they
 wish to tsitke the disease ? _  
 17 And the fiery was told to &#x27;all th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802082101:0316/pct:15.279525435915872,42.98003749862137,19.467912996584577,22.65357891253998/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802082101:0316/pct:15.276779295470885,42.97529775033083,19.470404984423677,22.654756653433317/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2368,7 +2368,7 @@ Union.&quot; Certainly it must be admitted,
 that our Ptesident is singularly happy in  
 making such discoveries who ate &quot; the best
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803061401:0481/pct:23.56579557754755,80.55897345754965,21.957631049945878,7.848479521884339/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803061401:0481/pct:23.562152133580707,80.55189383952896,21.959389816532674,7.850719161027624/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2388,7 +2388,7 @@ merit of Sami, fiiiliop to the office of collector
 of New-Haven, lately vacated by the death of  
 David Auflin ” W11* not then the office filled
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016081:00332895060:1804071601:0151/pct:29.741935483870968,89.87375772226699,21.35483870967742,4.069298952457696/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016081:00332895060:1804071601:0151/pct:29.735540743926038,89.86168927084732,21.355622446785638,4.072109574325232/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2409,7 +2409,7 @@ that it may be thrown as much as pouuiic ,on cfe­
 Jimpuency, oppreffion, intolerance, and amirevo­  
 lutionary adherence to our enemies&quot; Was i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016081:00332895060:1804071601:0151/pct:51.56989247311828,75.8662369057212,21.35483870967742,4.88853075476766/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016081:00332895060:1804071601:0151/pct:51.55880455815954,75.85604941587216,21.355622446785638,4.891231368336243/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2437,7 +2437,7 @@ to the office of collector of, New-Haveu,
 lately vacated by the death of David  
 Austin.” Was not then the office fille
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1804081701:0321/pct:10.091235830799004,58.76826722338205,19.712468896875865,2.922755741127349/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1804081701:0321/pct:10.088446655610834,58.758044877369976,19.713930348258707,2.926595929726909/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2457,7 +2457,7 @@ of the minority, have been misconstrued
 into assurances, that the tenure of offices  
 Was to be undistuibed.” An obvious
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1804081701:0321/pct:30.909593585844622,26.443980514961726,20.6801216477744,4.54070981210856/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1804081701:0321/pct:30.90105030403538,26.43938076187163,20.68131564400221,4.544268568446687/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2474,7 +2474,7 @@ them that u dining the late Administra­
 tion, those who were not of a particular sect  
 ol politicks were excluded from all office/’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805042401:0465/pct:73.31980725336038,60.57769888655801,21.65863555668273,2.130062933677586/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805042401:0465/pct:73.30121703853955,60.56792513714101,21.65948275862069,2.1337528234914487/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2499,7 +2499,7 @@ virtue, is well worth careful consideration.—
 In the first place we can discern in it a little  
 anger to the remonstrators for reminding hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805042401:0465/pct:73.26908445346183,79.97418105534936,21.93761095612478,7.9554623204776505/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805042401:0465/pct:73.25050709939148,79.96127783155856,21.93838742393509,7.9582123265569535/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2522,7 +2522,7 @@ ty unless you have every thing in your own
 hands ?—In a word, we ask any one of com­  
 mon sense, in what sort of mould must th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805042401:0466/pct:5.012853470437018,3.22213181448332,22.082262210796916,6.44426362896664/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805042401:0466/pct:5.0115651503469545,3.221607549625773,22.08301207915703,6.447282785551578/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2542,7 +2542,7 @@ mon sense, in what sort of mould must th
 “ cty, unless you have every thing in your,  
 “ own hands ? Fie for shame— leave it to me
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805042901:0473/pct:26.592726334794946,3.7997390737116765,22.517410368841887,4.337899543378995/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805042901:0473/pct:26.58586900464157,3.799119517365074,22.518050541516246,4.3412685472036525/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2582,7 +2582,7 @@ cerning a candidate shall be, /&gt;■ he honest f Is
 he capable ? L he. faithful to the Constitution ?”  
 In the days of old-fashioned enthusiasm an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805042901:0473/pct:26.412174361619808,47.439660795825176,22.41423781274181,18.88454011741683/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805042901:0473/pct:26.405363589479112,47.43192564813305,22.414904589994844,18.885537257459646/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2600,7 +2600,7 @@ one excites more anxious concern than that of
 placing the interest of our fellow citizens in the  
 hands of honest men.&quot;—And again in the sam
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805050101:0482/pct:3.9195192056441077,38.54621984782257,22.88999216096159,2.930225028330905/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805050101:0482/pct:3.9184952978056424,38.539980576238264,22.890543364681296,2.9337973454192294/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2618,7 +2618,7 @@ ed, (as lie told us) so as to injure the !&gt;cst men least,
 and effect the purposes of justice and publick uiiUttj,  
 with the least private distress.” was the displace
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806061101:1160/pct:27.042184832967568,66.13832853025937,20.50719336747135,2.4655779699007363/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806061101:1160/pct:27.03559239395417,66.1277413158316,20.508288639687958,2.469185208900272/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2641,7 +2641,7 @@ as much as pnffible on delinquency, on oppr flion,
 on intolerance, on anti-revolutionary adherence  
 to our enemies ”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1806061301:0043/pct:77.51851851851852,35.27371810750557,17.72222222222222,4.917017587317315/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1806061301:0043/pct:77.5041658952046,35.26934984520124,17.72511263346294,4.920536635706914/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2708,7 +2708,7 @@ to the constitution fn
 President Jefferson&#x27;s reply to the re­  
 monstrance of the merchants of New
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813052001:0196/pct:51.463135523949646,77.56968641114983,18.375020434853685,9.16376306620209/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813052001:0196/pct:51.45472376593658,77.56293005835728,18.37746540263703,9.165868246087738/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2758,7 +2758,7 @@ in office, Without knowing whether those whose
 ••pucyP* .The true meaning of which is—men  
 are hereafter to he appointed to office by me
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1814071601:0943/pct:30.10371869466228,28.923988153998025,21.62914242347584,3.422178348140836/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1814071601:0943/pct:30.09610520991401,28.919230136535614,21.629994941831058,3.425727915775621/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2783,7 +2783,7 @@ details are well performed by himself, or
 his ncceasaru assi&#x27;.tants, all public purpo­  
 ses will bo answered.” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183906:1815122101:0125/pct:35.42054493146048,80.84106212679457,15.163310204772381,6.187269724304409/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183906:1815122101:0125/pct:35.414551607445006,80.83079268292683,15.166384658770445,6.190718157181572/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2957,7 +2957,7 @@ stitution ? : L
 I tender you the homage of my high respect.  
 _ . &#x27;THOMAS JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1829012001:0010/pct:44.19053271998813,6.538883897374464,32.94257308205965,84.13696715583508/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1829012001:0010/pct:44.19053271998813,6.538883897374464,32.95246574664886,84.14029483211873/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3660,7 +3660,7 @@ honest T Is be capable t Is he faithful to the constitu­
 tion ?”  
 The time for making this inquiry, in Mr. Jefferson’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:0041418294A:1835100101:0163/pct:21.35135135135135,13.0915273448569,17.13097713097713,4.633040521394163/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:0041418294A:1835100101:0163/pct:21.34691332363334,13.089672758181045,17.132612762419456,4.635925768522454/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3730,7 +3730,7 @@ The existence of the rule, and tlie practice i. ,, .
 cannot be regarded, as in any, the least degree  
 if the voice of party, the voice ot Congress, tl,.- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1840052901:0496/pct:83.77687565779583,15.960748973665766,15.336039693279206,5.046560528687293/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1840052901:0496/pct:83.77687565779583,15.96742431828043,15.346063248634291,5.049898200994626/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3812,7 +3812,7 @@ cluded from all office, when by a steady
 &quot;offices of the United States were monopo­  
 lized by that sect, &amp;c.&quot; Again he says i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn83016924:00200292091:1840072501:0113/pct:55.56778169014085,111.91330110712614,23.129401408450704,7.344456572586933/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn83016924:00200292091:1840072501:0113/pct:41.70887469720326,83.93887416185872,17.35300594582691,5.504444097926088/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3835,7 +3835,7 @@ lized by that sect, &amp;c.&quot; Again he says i
   
 ttfice in the hands of a majority.&quot; This is Mr.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn83016924:00200292091:1840072501:0113/pct:55.50176056338028,8.669889287384999,47.51320422535211,118.78995789801965/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn83016924:00200292091:1840072501:0113/pct:41.66483153490421,6.50241696553875,35.65293988108346,89.10026508654296/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3863,7 +3863,7 @@ volume page -I?&quot;!, of his writings,! &quot;Tlnso who
 were not of a particular sect of politics, were ex­  
 cluded from all ofiice. &#x27; lie retained this otlice, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1840090101:0603/pct:48.598688133571855,32.85412687242385,15.682766845557543,1.9503367849602895/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1840090101:0603/pct:48.60365732458756,32.85412687242385,15.69767441860465,1.957038973224758/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4024,7 +4024,7 @@ pablet Is he faithful to the constitution&#x27;!
 1 tender you the homage of my high ri&#x27;S|s&#x27;&#x27;&#x27;t.  
 TH: JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1841050701:0687/pct:33.60266994554716,11.028848608629053,15.861584401897067,62.586162879754916/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1841050701:0687/pct:33.60266994554716,11.028848608629053,15.873294689384624,62.59467279380478/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4179,7 +4179,7 @@ a candidate shall be, Is he honest 1 Is he capable
 I tender you the homage of my high respect.  
 TH: JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82014039:00415660972:1841050801:0070/pct:36.58990130167358,11.872909698996656,17.393792018309256,60.785953177257525/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82014039:00415660972:1841050801:0070/pct:36.599437371859054,11.872909698996656,17.393792018309256,60.7894370122631/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4197,7 +4197,7 @@ concerning a candidate shall be--is he honest? is he
 is he faithful to the censtitution?&quot;  
 capan     oo Boston Post
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023294:00200296096:1841051401:0217/pct:320.63492063492066,325.7299007622609,60.150375939849624,7.766431756076514/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023294:00200296096:1841051401:0217/pct:80.20898641588296,81.43247519056523,15.047021943573668,1.9416079390191285/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4267,7 +4267,7 @@ with joy to that state of things, when the only question con.­
 cerning a candidate shall be. Is he honest? Is he capable!  
 Is ke faithful to the Constitution?&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030212:00206530157:1841051501:0122/pct:120.55504162812211,198.76338602753697,60.81406105457909,94.72208057113717/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030212:00206530157:1841051501:0122/pct:40.185013876040706,66.254462009179,20.271353684859697,31.574026857045723/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4307,7 +4307,7 @@ with f&#x27;tfsoKs ni f oniti ! i n the last Moments o&#x27;
 an Jthninistralio&#x27;i .* How are vacancies to  
 be obtained.&#x27; TIi »se by death are few; b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215695:1841052901:0180/pct:8.975821167883211,27.312060573282857,14.99771897810219,9.456849262149424/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215695:1841052901:0180/pct:8.974797582392519,27.309950556242274,14.999809936518798,9.458693860733415/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4470,7 +4470,7 @@ the only questions concerning a candidate shall b&lt;
 Is he honest? is he capable? is he faithful to tb  
 constitution.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661125:1845052701:0098/pct:0.6532823454429573,86.34109118657001,12.826641172721478,9.220399338674806/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661125:1845052701:0098/pct:0.6585935840237943,86.34533045063377,12.831952411302316,9.228877866802323/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4511,7 +4511,7 @@ questions concerning a candidate shall be, Is ho
 honest ? is he capable? is he faithful to the con­  
 stitution ?&quot;—Tht Union.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215762:1845052901:0240/pct:39.42034860154033,13.498830972355934,15.220916092419943,13.91142896437904/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215762:1845052901:0240/pct:39.41635424055122,13.497902771092622,15.222751376363698,13.912764445666873/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4542,7 +4542,7 @@ van confided- If the &quot;Express&quot; think ,rM&quot;&gt;,lmt il Inay l,e thr
 ire to say that the country entertains a on delinquency, on oppression, o  
 nion. anti-revolutionary adherence to ou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661125:1845061401:0164/pct:30.401284109149277,78.81419939577039,20.064205457463885,9.415911379657603/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661125:1845061401:0164/pct:30.401284109149277,78.82259147364887,20.069555912252543,9.420107418596844/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4572,7 +4572,7 @@ rnd I found a moderate participation of office in the
 lands of the majority, (the democrats.) But their  
 otal exclusion calls for prompter correctives.&quot; Duin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661125:1845070101:0216/pct:32.044110596132334,15.430006277463905,13.632731340898195,3.4149403640929066/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661125:1845070101:0216/pct:32.044110596132334,15.430006277463905,13.643386074263491,3.4274952919020714/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4594,7 +4594,7 @@ ither mode than removal be proposed f This is a
 painful office; but it is made my duty, and I meet  
 It a* aueh.&quot; Mr. Polk will meet it as Mr. Jefferso
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661125:1845071601:0265/pct:41.17457244272346,88.07304785894206,13.391416585995483,4.6221662468513856/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661125:1845071601:0265/pct:41.17457244272346,88.08144416456759,13.39679466494568,4.617968094038623/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4616,7 +4616,7 @@ none. Can any other mode than jemoval be pro­
 posed* This is a painful office; but it is made my  
 duty, and I meet it as such.” Mr. Polk w ill mee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215762:1845071801:0405/pct:0.9895778503000315,12.727647584358463,15.243709864196232,3.972235585183149/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215762:1845071801:0405/pct:0.9894736842105263,12.726772952171522,15.24561403508772,3.97425325270295/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4640,7 +4640,7 @@ than removal be proposed 7 This is a painful
 office ; but it is made my duty, and f meet it as  
 such.” Mr. Polk will meet it as Mr. Jefferson 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn86071753:00414184376:1845072101:0032/pct:42.25251076040172,84.42572928109362,18.543758967001434,5.956304162089588/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn86071753:00414184376:1845072101:0032/pct:42.24493455262686,84.41542592140591,18.54641085410316,5.95964526889594/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4694,7 +4694,7 @@ when the only questions concerning a candidate shall be,
 is he honest? Is he capable? Is he faithful to the Con­  
 stitution?&quot; He will, out of the pale of the office-hold-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271742927:1845081401:0195/pct:247.8966545213647,81.84943279477484,47.350115932427954,13.246247278560789/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271742927:1845081401:0195/pct:82.63221817378823,27.283144264924946,15.783371977475985,4.415415759520263/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4729,7 +4729,7 @@ their total exclusion calls for prompter eorrectlons ?
 I shall correct the procedure, but thai done, return  
 with joy to tliut stole of things when the only ques
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82014405:00415660935:1849021301:0162/pct:57.19932241671372,43.00803332341565,13.41991341991342,9.089556679559655/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82014405:00415660935:1849021301:0162/pct:57.211870255348515,43.00803332341565,13.413639500596023,9.094515521174253/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4773,7 +4773,7 @@ them a cordial co-operation. Mr. Ooodrlc^wa&#x27; one
 bfw&#x27;.W. h01&quot; k&quot;(!r n? whcliior those whose agent  
 lie was lo be, would have confidence In his agency ?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82014405:00415660935:1849021301:0162/pct:56.9922830792396,55.13240107110979,13.382269904009034,12.734305266289795/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82014405:00415660935:1849021301:0162/pct:56.9922830792396,55.13240107110979,13.388543823326431,12.744222949518992/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4793,7 +4793,7 @@ i cient to interdict half the society from the refits
 | and the blessings of self-government, and to  
 I proscribe them as unworthy of even trn*t Hu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215828:1849032101:0100/pct:84.93658536585366,39.352796341892365,12.790243902439025,2.7928244811818503/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215828:1849032101:0100/pct:84.9282996780802,39.350028137310076,12.792247910772932,2.7949728006002625/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4829,7 +4829,7 @@ duty and I meet it as such.”
 \Vl»at President Jefferson did then. President  
 Tavlor will do now.—Baltimore Patriot.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215828:1849032101:0100/pct:84.93658536585366,42.124516355962015,12.78048780487805,9.8698557861414/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215828:1849032101:0100/pct:84.9282996780802,42.12155317951604,12.782492764933503,9.87150628399925/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5026,7 +5026,7 @@ of the estimation in wtiii Ii he is held l?y the State in
 fruenl, end the city arid townahip particularly in  
 which be li*e?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82014405:00415660935:1849032701:0305/pct:3.0585106382978724,66.29784688995215,13.335866261398177,13.352272727272727/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82014405:00415660935:1849032701:0305/pct:3.06484295845998,66.30283094098884,13.335866261398177,13.362240829346092/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5117,7 +5117,7 @@ hall be, is lie honest ! n lie capable? is he faithful
 to the constitution?  
 I tender you the homage of my high res|&gt;cct
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82014405:00415660935:1849032701:0305/pct:2.9825227963525838,4.51555023923445,26.519756838905774,92.73325358851675/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82014405:00415660935:1849032701:0305/pct:2.988855116514691,4.525518341307815,26.51342451874367,92.73823763955343/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5165,7 +5165,7 @@ with their successors, bv whom they bad never been
 .-approved, and who ron Id scarcely expect from them  
 t a.cordial cooperation !”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157315:1849032901:0654/pct:6.12483311081442,69.6307915057915,12.800400534045394,5.333011583011583/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157315:1849032901:0654/pct:6.123811112965126,69.62239112076246,12.802436175538128,5.335384244179032/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5210,7 +5210,7 @@ have every thing in their own hands?&quot;
 There is not a Department of Government in  
 Washington, nor an office out ol it, that is no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215828:1849033001:0132/pct:31.570247933884296,58.26105204252938,13.174526008750608,13.395355344152211/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215828:1849033001:0132/pct:31.567178689480848,58.25697698817934,13.176485838356342,13.396749900911614/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5369,7 +5369,7 @@ faithful to the Constitution?
 &quot;I tender you the homage of my high re  
 spect.&quot;THo. JEFFEasON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn84023643:0028077778A:1849040301:0701/pct:67.61320030698388,120.57697968795996,53.18495778971604,212.1283485428319/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn84023643:0028077778A:1849040301:0701/pct:16.913035131503168,30.14424492198999,13.30389710117105,53.032087135707975/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5388,7 +5388,7 @@ they more approved, was it to be imagined that
 this monopoly of office was still to be continued  
 in the hands of the minority]&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215828:1849040501:0152/pct:18.051242236024844,34.640022281019355,12.907608695652174,2.242027572761454/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215828:1849040501:0152/pct:18.049490538573508,34.637610527048665,12.909590813520945,2.244192253243287/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5407,7 +5407,7 @@ tion with deliberation and inquiry. So will
 Gen. Tavlor. He too, will inquire for himself,  
 and not leave this grave matter under the ex
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215828:1849040501:0152/pct:17.915372670807454,42.91881353571926,12.878493788819876,2.2629160284083/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215828:1849040501:0152/pct:17.913634158175643,42.91582538466894,12.880478732007116,2.2650792545661305/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5502,7 +5502,7 @@ dure; but that done, return with joy to that state of things,
 when the only question concerning a candidate shall be  
 is he hones? is be capable? is he faithful to the Constit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347922:1849040901:0285/pct:86.97234352256186,216.16275784119807,60.20742358078603,162.48940378638034/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347922:1849040901:0285/pct:21.73913043478261,54.03305551631586,15.049117700563944,40.61661251589207/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5578,7 +5578,7 @@ on delinquency, on oppression,on intolerance,
 on anti revolutionary adherence to our ene­  
 mies.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157315:1849041201:0662/pct:70.62377531025473,10.710831721470019,12.4101894186806,29.750967117988395/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157315:1849041201:0662/pct:70.61224489795919,10.70953704822918,12.412244897959184,29.75039284419195/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5636,7 +5636,7 @@ it to be imagined that this monopoly of of­
 fice was still to be continued in the hands  
 of the minority.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn82014327:00415668867:1849041901:0083/pct:58.72925826123954,43.367455747494134,12.57977591830946,3.2416293452761784/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn82014327:00415668867:1849041901:0083/pct:58.72925826123954,43.367455747494134,12.593958303786698,3.2451837634179284/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5655,7 +5655,7 @@ ceed in the operation with deliberation and
 inquiry.&quot; So w ill Gen. Taylor. He too,  
 will inquire for himself and not leave thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn82014327:00415668867:1849041901:0083/pct:58.62998156289888,54.915760290040524,12.593958303786698,2.708466624013649/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn82014327:00415668867:1849041901:0083/pct:58.62998156289888,54.91931470818227,12.603413227438189,2.712021042155399/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5799,7 +5799,7 @@ own aid, but to begin a career at the same
   
 time with their successors, by whom they I will be to all the expense of her attend
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn87070038:00296028058:1849042001:0391/pct:19.893697798025816,40.30877192982456,153.53075170842826,344.9824561403509/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn87070038:00296028058:1849042001:0391/pct:4.973424449506454,10.07719298245614,38.382687927107064,86.24561403508773/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5834,7 +5834,7 @@ tion and inquiry, that it may injure the And now for the first time the truth
 best men least, and effect the purposes poured into his mind, and he saw his con­  
 of justice and public utility with the least dition, and he sat down bathed in tears.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn87070038:00296028058:1849042001:0391/pct:71.45026575550493,142.09122807017545,102.50569476082005,43.00350877192982/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn87070038:00296028058:1849042001:0391/pct:17.862566438876232,35.52280701754386,25.626423690205012,10.750877192982456/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5878,7 +5878,7 @@ calls for prompter correstions. I shall
 correct the procedure; but that done, re  
 turn with joy to that state of things, whe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn87070038:00296028058:1849042001:0391/pct:71.98177676537586,185.37543859649122,51.0250569476082,63.1578947368421/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn87070038:00296028058:1849042001:0391/pct:17.995444191343964,46.343859649122805,12.75626423690205,15.789473684210526/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5900,7 +5900,7 @@ I tender you the homage
 of my high respect.  
 THOS. JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn87070038:00296028058:1849042001:0391/pct:72.66514806378132,248.53333333333333,50.26575550493546,13.192982456140351/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn87070038:00296028058:1849042001:0391/pct:18.16628701594533,62.13333333333333,12.566438876233866,3.2982456140350878/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5948,7 +5948,7 @@ other mode than that of removals be proposed?
 This is a painful office. But it is made my duty,  
 and I meet it as such.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn89080032:00415668132:1849042401:0572/pct:167.984496124031,221.70989433237273,75.69767441860465,27.473583093179634/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn89080032:00415668132:1849042401:0572/pct:56.009304729904365,73.9032981107909,25.239079865598345,9.157861031059879/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6411,7 +6411,7 @@ fairs? Can they not harmonize in society unless
 
 ---
 
-## [From _The American review : a Whig journal of politics, literature, art, and science_](https://archive.org/details/sim_american-whig-review_1849-05_9_17/page/n1/mode/1up?view=theater)
+## [From _The American Review: a Whig Journal Devoted to Politics and Literature (1848-1850)_](https://archive.org/details/sim_american-whig-review_1849-05_9_17/page/n1/mode/1up?view=theater)
 
 #### 1849-05-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -6503,7 +6503,7 @@ painful office. But it is made my duty
 and I meet it as such.”  
 What President Jefferson did then
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82014751:00513688222:1849050901:0045/pct:69.87069637015111,60.02107234839616,14.25455678454588,24.689768204167642/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82014751:00513688222:1849050901:0045/pct:69.87069637015111,60.02887692187622,14.25455678454588,24.685865917427613/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6528,7 +6528,7 @@ in the baud* of the minority f Dots it violate their
 equal rights to assort some rights in the majority also I  
 Is it political intolerance
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661368:1849080201:0192/pct:71.27337733773378,5.164268842602533,15.401540154015402,5.70109512561735/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661368:1849080201:0192/pct:71.27337733773378,5.164268842602533,15.401540154015402,5.704673967504116/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6566,7 +6566,7 @@ mode than that of rtmoval be proposed? This is a
 painful office. But it is made my duty, and 1 meet  
 it as srcH 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661368:1849080601:0200/pct:18.413868413868414,48.561343459193495,13.8001638001638,10.461011872927585/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661368:1849080601:0200/pct:18.413868413868414,48.561343459193495,13.804713804713804,10.468142760366527/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6588,7 +6588,7 @@ equal rights to assert some right* in the majority also?
 /s it political intolerance to claim a pro/nnlionate share  
 in the direction qf public affairs ?” Iu another lette
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183724:1849081501:0334/pct:66.92228284913729,26.430024869997737,14.481639876124465,4.1487678046574725/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183724:1849081501:0334/pct:66.91241521675022,26.42703741381259,14.484419541924703,4.152066613918089/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6626,7 +6626,7 @@ worthy of every trust. It would have been to
 &quot; faithful to the Constitution ?&#x27; &quot;  
 The principles upon which I he exten- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661368:1849082101:0254/pct:58.276146033488885,68.14045605395567,13.711227010705462,13.296220961353175/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661368:1849082101:0254/pct:58.276146033488885,68.14402455126147,13.724951962668131,13.296220961353175/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6706,7 +6706,7 @@ when the only questions concerning a candidate
 shall be, is he honest? Is be capable? Is he  
 faithful to the Constitution.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777614:1850013101:0020/pct:276.5151515151515,16.37115839243499,106.74242424242425,373.58156028368796/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777614:1850013101:0020/pct:69.1680879287474,4.092789598108747,26.70077695660413,93.39539007092199/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6741,7 +6741,7 @@ joy to that state of things, when the only questions con­
 cerning a candidate shall be, Is he honest? Is he capa­  
 ble! Is he faithful to the Constitution?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn86071855:00393348343:1850021501:0355/pct:20.44773136118329,60.58958214081282,14.711173296022386,8.471665712650257/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn86071855:00393348343:1850021501:0355/pct:20.443645083932854,60.58091286307054,14.713229416466827,8.474030619545/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6788,7 +6788,7 @@ tice and public utility with the least private distress ; that
 it may be thrown, as much as possible, on delinquency,  
 on oppression, on intolerance, on auti-revolutionarv ad
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn86071855:00393348343:1850021501:0355/pct:20.42774335398761,46.96622781911849,14.671197281631022,13.523182598740698/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn86071855:00393348343:1850021501:0355/pct:20.423661071143087,46.959507797968236,14.67326139088729,13.524824724567177/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6852,7 +6852,7 @@ that state of things, when theonlv questions concerning a
 candidate shall be, is he honest? Is hei-apablc? Is he  
 faithful to the Constitution ?&quot; .....
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566431A:1850021901:0254/pct:3.3545145559332052,51.21309008839571,16.4917984335747,18.6477336844085/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566431A:1850021901:0254/pct:3.3594404216541056,51.21622468810733,16.501650165016503,18.654002883831733/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6884,7 +6884,7 @@ Thi* ia a painful office; but it is made my duty,
 and I meet it as such.&quot;  
 In a speech delivered in the Senate, February 9
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:0041566137A:1850052001:0624/pct:68.58992805755396,59.83277591973244,13.467625899280575,3.46711259754738/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:0041566137A:1850052001:0624/pct:68.5947242206235,59.840208101077664,13.467625899280575,3.463396506874768/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6930,7 +6930,7 @@ be proprosed ? This is a painful office ;:
 but it is made my duty, and I meet it as  
 such
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn85059716:00202193018:1853083101:0390/pct:44.05054405054405,73.73298580944106,13.618813618813618,18.57804807413843/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn85059716:00202193018:1853083101:0390/pct:44.06370656370656,73.73298580944106,13.618813618813618,18.581668114682884/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7040,7 +7040,7 @@ nly questions concerning a candidate shall be,
 s be honest? Is he capable? Is he faithful  
 &gt; the Constitution ? 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1859042101:0502/pct:39.76810901267033,78.76156855261902,12.395409992828114,4.913653277359031/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1859042101:0502/pct:39.76810901267033,78.76156855261902,12.39939437405371,4.920013993575677/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7077,7 +7077,7 @@ merchants, of New Haven, on the ap­
 pointment of Samuel Bishop to the office &#x27;  
 of Collector, Mr. Jefferson used the well- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624542:1876012201:0304/pct:35.06449991623388,46.1738484398217,14.927123471268219,2.055473006438831/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624542:1876012201:0304/pct:27.174759802648662,35.78465869106263,11.572751666233879,1.602584607510716/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7105,7 +7105,7 @@ state of things when the only questions concerning
 a candidate shall be, Is he honest? Is he capable? 18  
 he faithful to the Constitution?&quot; It would be difficul
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crowfoot_ver01:data:sn83030313:00271743968:1877091401:0905/pct:57.26275016139445,22.76487252124646,44.81923821820529,4.827195467422096/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crowfoot_ver01:data:sn83030313:00271743968:1877091401:0905/pct:19.08758338713148,7.588290840415486,14.939746072735097,1.6090651558073654/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7146,7 +7146,7 @@ was still to be continued in the hands of the mi
 i sert some rights iu the majority also? Is it po­  
 i liticai intolerance to retain a proportionate shar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ellsworth_ver01:data:sn84020071:00393347272:1878011001:0434/pct:48.527879103699846,86.83770765752482,11.490359562272017,2.3788459648088076/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ellsworth_ver01:data:sn84020071:00393347272:1878011001:0434/pct:48.52155790022144,86.82917240023589,11.493204810907038,2.3818884738876878/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7184,7 +7184,7 @@ concerning a candidate shall be, Is
 he honest, is he capable, is he faithful to  
 the constitution? Jeffersons plain mea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crowfoot_ver01:data:sn83030313:00271744031:1878083001:0702/pct:56.64749383730485,199.50676760724937,51.651602300739526,12.858453773801331/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crowfoot_ver01:data:sn83030313:00271744031:1878083001:0702/pct:18.882497945768282,66.50225586908313,17.217200766913173,4.286151257933777/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7219,7 +7219,7 @@ masters in the State of New York he was
   
 obliged to make a change in the office of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barack_ver01:data:sn86053573:00211101908:1880091701:0285/pct:86.52271034996276,175.24909747292418,48.92032762472078,38.91696750902527/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barack_ver01:data:sn86053573:00211101908:1880091701:0285/pct:21.634704896667287,43.812274368231044,12.232358964811022,9.729241877256317/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7275,7 +7275,7 @@ ipithlo; Is he faithful to the Consti
   
 tution.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_eiffel_ver02:data:sn83016925:00295878769:1883011001:0305/pct:39.36394271272115,70.52070520705207,19.67144060657119,4.045373787071204/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_eiffel_ver02:data:sn83016925:00295878769:1883011001:0305/pct:29.546891464699684,52.89052890528905,14.773445732349842,3.0340303403034032/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7563,7 +7563,7 @@ candidate shall be. Is he honest? Is
 he capable? Is he faithful to the con­  
 stitution.&quot;&#x27;This furnishes a good precedent ft 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035083:00296027224:1885021201:0104/pct:22.57403906742281,93.24173783884144,13.988657844990549,9.914593390271072/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035083:00296027224:1885021201:0104/pct:16.9424743892829,69.93439782151256,10.49645390070922,7.439039485084788/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7590,7 +7590,7 @@ tion concerning a candidate shall be, Is
 be honest ? Is be capable ? Is he faith­  
 fu. ?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027388:1885022401:0151/pct:112.69610691458455,54.090513489991295,14.04706565950029,8.148389904264578/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027388:1885022401:0151/pct:84.55390874745713,40.567885117493475,10.53472827666376,6.114012184508268/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7660,7 +7660,7 @@ that of removal bo proposed ?&quot; Ho says
 furthor: &quot; In regard to appointments to  
 civil offices by tho President made afto
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_fargo_ver01:data:sn87060189:00206533663:1885030401:0211/pct:10.030461270670148,64.48758207250928,22.019147084421235,21.89551812731944/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_fargo_ver01:data:sn87060189:00206533663:1885030401:0211/pct:7.531562908141053,48.372823294319154,16.52154984762734,16.42520696545818/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7725,7 +7725,7 @@ be: &#x27;Is he honest, is he caoable, is he
 faithful to the Constitution?&#x27; &quot;  
 Singular that the President, if so in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_garwood_ver02:data:sn84029385:00237285207:1885030501:0051/pct:92.67080745341615,55.885005636978576,16.273291925465838,7.091319052987599/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_garwood_ver02:data:sn84029385:00237285207:1885030501:0051/pct:69.5138996738624,41.916572717023676,12.206864419940985,5.321307779030439/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7746,7 +7746,7 @@ be: Is he honest, is he caoable, is he
 faithful to the Constitution?&#x27; &quot;  
 Singular that the President, if so in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_hobbs_ver01:data:sn84024283:00294556825:1885030501:0463/pct:10.176329946204422,60.564020923356836,16.04901374775852,4.2756424835114855/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_hobbs_ver01:data:sn84024283:00294556825:1885030501:0463/pct:7.637124495591093,45.42870138730953,12.046031983261097,3.206731862633614/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7773,7 +7773,7 @@ ing a candidate shall be, Is he honest ? Is
 be capable? Is he faithful to the Consti  
 tution ?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84020714:00296023024:1885030601:0245/pct:73.95259095920618,63.31745344304894,16.96527012127894,8.780857514075358/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84020714:00296023024:1885030601:0245/pct:55.48662806727323,47.4880900822867,12.724014336917563,6.593763533997402/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7800,7 +7800,7 @@ the onlv diiONtloii conoernliiii a candi
 date shall tie, Is ho honesty Is he capable?  
 Is he faimrul to thaCoustitutiou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280774868:1885031201:0410/pct:105.50176056338029,96.10666666666667,18.485915492957748,7.88/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280774868:1885031201:0410/pct:79.15474356152322,72.08,13.86748844375963,5.92/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7825,7 +7825,7 @@ be: &quot;Is he honest, is he capable, is he
 faithful to the Constitution?&quot;&quot;  
 Singular that the President, if so in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_gordon_ver01:data:sn87052181:00200292534:1885032101:0301/pct:176.16892911010558,212.92088694223926,47.28506787330317,20.640569395017792/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_gordon_ver01:data:sn87052181:00200292534:1885032101:0301/pct:44.05884571859676,53.230221735559816,11.825726141078839,5.160142348754448/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7916,7 +7916,7 @@ ed, but only apprehends that it will be so
 Should this happen, in event, be assured I will  
 do in it what shall be just and necessary for the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044851:1885040101:0863/pct:73.05389221556887,242.6811163895487,50.374251497005986,142.16152019002377/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044851:1885040101:0863/pct:18.263473053892216,60.67027909738717,12.593562874251496,35.54038004750594/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7987,7 +7987,7 @@ he capable? Is he faithful to the Constitution?
 I tender you the homage of my high respect  
 ThoMAS JePPErsO
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044851:1885040101:0863/pct:125.37425149700599,80.28503562945369,51.64670658682635,108.3729216152019/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044851:1885040101:0863/pct:31.343562874251496,20.071258907363422,12.911676646706587,27.093230403800476/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8007,7 +8007,7 @@ date shall bo : &#x27;Is ho honest, is ho ca­
 pable, is ho faithful to tho Constitu­  
 tion V &quot; But if wo turn to his lette
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn83032011:00237288026:1885040301:0065/pct:24.71119133574007,121.58283031522468,14.296028880866427,3.7156270959087863/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn83032011:00237288026:1885040301:0065/pct:18.541252933742552,91.18712273641852,10.723957393031233,2.790073775989269/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8058,7 +8058,7 @@ anv majority he wanted if he could only di­
 vide the white vole. He now says that the  
 colored masses and most of their leader
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hilfiger_ver01:data:sn85025007:00415663912:1885040601:0313/pct:3.50987151363209,18.475703324808183,16.0294578502037,21.718670076726344/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hilfiger_ver01:data:sn85025007:00415663912:1885040601:0313/pct:3.50987151363209,18.47911338448423,16.03468087328946,21.718670076726344/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8092,7 +8092,7 @@ cerning a candidate shall be; Is he honest? Is he
 capable? Is he faithful to the Constitution?  
 Washington&#x27;s views on the rules whic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ike_ver01:data:sn85042682:00211103383:1885042601:0026/pct:24.19804741980474,342.0138435418571,43.51464435146443,34.26929606895651/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ike_ver01:data:sn85042682:00211103383:1885042601:0026/pct:6.050566695727986,85.50346088546428,10.88055797733217,8.567324017239127/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8120,7 +8120,7 @@ ined tost tbis monopoly of office was
 still to be continued iu the bands of the  
 minority?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027388:1885042801:0189/pct:22.61350407450524,22.587224906065487,14.202561117578579,10.466988727858293/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027388:1885042801:0189/pct:16.969873380876145,16.940418679549115,10.65347111046427,7.85829307568438/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8139,7 +8139,7 @@ right, how are vacancies lobe obtained 1
 Those by death are few; by resignation  
 none.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027388:1885042801:0189/pct:22.467986030267753,34.03113258185722,14.304423748544819,3.5104669887278583/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027388:1885042801:0189/pct:16.853442002619705,25.52871712292002,10.7407946441566,2.6301663982823404/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8159,7 +8159,7 @@ ing a candidate shall be, &#x27;&#x27;Is he troasst ?
 Is he capable ? Is be fa-iibfal to tbe eoa­  
 stitution?&#x27;AUhowgtt a strong partfsan, Jeffrso
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027388:1885042801:0189/pct:22.467986030267753,42.447665056360705,14.420838183934809,5.163714439076758/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027388:1885042801:0189/pct:16.853442002619705,31.841116478797638,10.82811817784893,3.8754696725711217/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8198,7 +8198,7 @@ of offico is a right how are vacancies to be
 made? Those by death are few; by resigna­  
 tion none. Removal was a painful duty, but i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_dante_ver01:data:sn83030272:00175044863:1885062101:0270/pct:75.11346444780635,153.3495366854018,50.983358547655065,48.19990885614462/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_dante_ver01:data:sn83030272:00175044863:1885062101:0270/pct:18.785471055618615,38.33738417135045,12.750662126371548,12.049977214036154/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8234,7 +8234,7 @@ vacancies to be obtained? Those &quot;by
 death were few, those by resignation  
 none.&quot; It must be remembered tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_chevy_ver01:data:sn83025733:00200294786:1885073101:0981/pct:126.67829119442023,196.41317948005005,51.17698343504795,45.87793688308077/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_chevy_ver01:data:sn83025733:00200294786:1885073101:0981/pct:31.69029443838604,49.10329487001251,12.802617230098146,11.469484220770193/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8279,7 +8279,7 @@ ertice in the hands ot the majority. I would
 gladly have left to time and accident to  
 raise then: to their just share. lift thei
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_odona_ver04:data:sn86092518:00383341747:1885091201:0259/pct:4.959950708564387,77.96962080646924,11.568083795440542,17.036389465632173/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_odona_ver04:data:sn86092518:00383341747:1885091201:0259/pct:4.959186816571693,77.9611013986014,11.57143590533395,17.038170163170165/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8384,7 +8384,7 @@ concerning a candidate shall be. Is he
 is he capable? Is he faith.  
 ful to the Constitution?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_tesla_ver01:data:sn85038614:0017503089A:1885091301:0288/pct:11.048201989288447,11.990177236814008,69.33435348125478,280.60004270766603/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_tesla_ver01:data:sn85038614:0017503089A:1885091301:0288/pct:3.6827339964294823,3.996725745604669,23.111451160418262,93.533347569222/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8433,7 +8433,7 @@ political intolerance to claim a propor&#x27;iouate
 share in tho direction of public a flairs?  
 Is there a word in this that Jefferso
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hilfiger_ver01:data:sn85025007:00415663936:1885091501:0164/pct:50.4182156133829,77.20414656676589,15.830235439900868,6.8972595709740325/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hilfiger_ver01:data:sn85025007:00415663936:1885091501:0164/pct:50.42854192482445,77.20414656676589,15.819909128459315,6.9041020903896815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8462,7 +8462,7 @@ he honest? Is he capable?
 faithful to the Constitution?&quot;  
 This is is sound doctrine, says th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:fu:batch_fu_dauer_ver03:data:sn89070049:0029586557A:1885091701:0146/pct:19.952067106051526,260.37099494097805,48.53205512282804,42.85899597872616/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:fu:batch_fu_dauer_ver03:data:sn89070049:0029586557A:1885091701:0146/pct:4.9902592537089765,65.09274873524451,12.13846845496778,10.71474899468154/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8493,7 +8493,7 @@ intolerance to claim a proportionate share
 in the direction of public affairs?”  
 Is there a word in this that Jefferso
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_elliot_ver01:data:sn87068079:00332896465:1885091701:0145/pct:14.41151566469094,60.638297872340424,11.17696867061812,7.615464452516866/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_elliot_ver01:data:sn87068079:00332896465:1885091701:0145/pct:14.409075516423975,60.63043196264107,11.179309177108026,7.617719548579582/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8611,7 +8611,7 @@ ticipation of office is a matter of right, how are
 vacancies to be obtained? Those by death are  
 fow; by resignation, none.&quot; He accordingl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_dante_ver01:data:sn83030272:00175044863:1885101001:0852/pct:235.63748079877112,184.8259084689068,50.46082949308756,6.1426182149916375/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_dante_ver01:data:sn83030272:00175044863:1885101001:0852/pct:58.93200153668844,46.2064771172267,12.620053784095274,1.5356545537479094/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8629,7 +8629,7 @@ tion of office is a matter of right, how are
 vacancies to be obtained ? Those by  
 death are few ; by resignation, none.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84020714:00296023024:1885102301:0374/pct:76.47879464285714,32.6054537707712,17.075892857142858,2.684277801448658/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84020714:00296023024:1885102301:0374/pct:57.39009071877181,24.456753302087773,12.812281926029309,2.0132083510864933/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8671,7 +8671,7 @@ honest? Is ho capable? Is ho faithful to the
 Constitution ?&quot;  
 Tho conditions aro tho same now as then
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hilfiger_ver01:data:sn85025007:00415663936:1885113001:0422/pct:2.76319851806113,30.518945634266885,16.748996603890088,16.15527182866557/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hilfiger_ver01:data:sn85025007:00415663936:1885113001:0422/pct:2.768344139137594,30.5223778143877,16.748996603890088,16.15870400878638/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8708,7 +8708,7 @@ date shall be, Is he honest? Is he capa­
 ble? Is he faithful to the constitution ?&quot;  
 You cannot applaud these utterances mor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hilfiger_ver01:data:sn85025007:00415663936:1885120701:0446/pct:34.94163424124513,18.89400921658986,15.828793774319067,2.6830517153097797/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hilfiger_ver01:data:sn85025007:00415663936:1885120701:0446/pct:34.952010376134886,18.90083632019116,15.82360570687419,2.6864652671104285/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8780,7 +8780,7 @@ Is he faithful to the con
   
 stitution?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_lapras_ver01:data:sn83025167:00279528414:1886020401:0261/pct:54.935081305937224,44.98273215656178,32.5475860330266,47.304297774366844/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_lapras_ver01:data:sn83025167:00279528414:1886020401:0261/pct:18.311693768645743,14.99424405218726,10.8491953443422,15.768099258122282/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8807,7 +8807,7 @@ approved; was it to be imagined that this
 monopoly of cilice whs still to be continued  
 in the hands of a minority ?*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187171:1886080601:0700/pct:31.658619339684197,36.46670789527932,11.92744355996346,5.174190888476603/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187171:1886080601:0700/pct:31.654488517745303,36.4629496032155,11.930236604036187,5.177092995293552/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8838,7 +8838,7 @@ ing a candidate shall lie, is he honest? Is
 he capable? la be faithful to the constitu­  
 tion 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187171:1886080601:0700/pct:31.6194701813911,41.66151309008452,11.966592718256557,7.225314368171511/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187171:1886080601:0700/pct:31.61534446764092,41.657219416675254,11.96938065414057,7.228005084338177/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8934,7 +8934,7 @@ Those by death are few, by resignation
 none. Can any other mode than that  
 of removal he proposed?— From Jeffer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291104:1887032501:0754/pct:36.82108626198083,60.36526366715046,10.894568690095847,20.28301886792453/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291104:1887032501:0754/pct:36.829073482428115,60.36828737300436,10.886581469648561,20.286042573778424/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9040,7 +9040,7 @@ monopolized by that sect the Federalistalt ee was
 it to be imagined that this monopoly of office was to be  
 continued in the hands of the minority? ee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_milosz_ver01:data:sn83030272:00175044978:1891091301:0699/pct:327.61538461538464,71.30199729689143,71.92307692307692,7.028082294638835/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_milosz_ver01:data:sn83030272:00175044978:1891091301:0699/pct:81.93535975375144,17.825499324222857,17.98768757214313,1.7570205736597087/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9079,7 +9079,7 @@ bow are vacancies to be obtained?
 Those by death are few, by resi­  
 gnation none.&quot;-Detroit Fre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_jinx_ver01:data:sn84026897:0021110126A:1893012601:0184/pct:13.973619126133553,1.09,23.962627095355867,97.4/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_jinx_ver01:data:sn84026897:0021110126A:1893012601:0184/pct:13.973619126133553,1.0966666666666667,23.967207108179903,97.39666666666666/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9142,7 +9142,7 @@ matter of right, how are vacancies to be
 obtained? Those by death are few; by  
 resignation, none.” But the system o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_heron_ver02:data:sn88085722:0041418991A:1893061101:1336/pct:21.57190635451505,18.052977897756033,14.1662685140946,3.0706934368145773/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_heron_ver02:data:sn88085722:0041418991A:1893061101:1336/pct:21.58385093167702,18.052977897756033,14.1662685140946,3.087565378775097/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9229,7 +9229,7 @@ ticipation of office is a matter of right, how
 are vacancies to be obtained? Those by  
 death are few; by resignation, none.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:00175042933:1897040601:0291/pct:128.27426810477658,33.52601156069364,51.07858243451464,17.401886218436264/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:00175042933:1897040601:0291/pct:32.068567026194145,8.38150289017341,12.76964560862866,4.350471554609066/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9308,7 +9308,7 @@ faithful to the Constitution?&quot;
 From the above it is plain that Mr.­  
 n, while reserving the right t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_metallica_ver01:data:sn85034438:00175049411:1897071401:0114/pct:5.55368562773477,8.532382650029708,83.01918545944126,287.5698158051099/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_metallica_ver01:data:sn85034438:00175049411:1897071401:0114/pct:1.8512285425782564,2.844127550009903,27.673061819813753,95.85660526836998/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9326,7 +9326,7 @@ worthy of every trust.&quot;
 ture of Connecticut has so lately confided trusts of  
 such difficulty, is unfit to be Collector of the distric
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042957:1897082101:0063/pct:234.715821812596,237.35597331716193,50.69124423963134,6.24620982413584/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042957:1897082101:0063/pct:58.69022469752257,59.33899332929048,12.675244862684847,1.56155245603396/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -182,7 +182,7 @@ nvolved the peace of the world with their own??
 Whatever the violence of party feeling may suggest,  
 he sober judgment of m
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661307:1843012501:0087/pct:78.61413999296518,31.518298087881472,16.074569117129794,8.028365201975435/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661307:1843012501:0087/pct:78.61413999296518,31.5225191000802,16.086293821081018,8.03258621417416/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -258,7 +258,7 @@ the present case, the public sentiment, ns far as declarations
 of it have come in, is, without a single exception, &#x27;  
 in firm adherence to the administration.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82006534:00415661095:1858081501:0162/pct:19.79549448793737,59.06351995982927,18.756989934494328,19.909615867436607/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82006534:00415661095:1858081501:0162/pct:19.79549448793737,59.07188886099255,18.76764126324759,19.905431416854967/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -429,7 +429,7 @@ have its pursuits along our coasts free from
 the harassing caused by foreign hostilities  
 How long the islands of the Gulf are to re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175045193:1895031701:0026/pct:0.9244992295839753,177.4223174651768,65.63944530046226,28.9759681616409/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175045193:1895031701:0026/pct:0.23112480739599384,44.3555793662942,16.409861325115564,7.243992040410225/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -469,7 +469,7 @@ must be great bunglers indeed If, with
 such dispositions, they break them asun­  
 der.’ He believed that the honor an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_endeavour_ver01:data:sn86063034:00414182173:1896041401:1005/pct:21.67469433123379,50.46323103647944,16.154131159688774,2.895193977996526/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_endeavour_ver01:data:sn86063034:00414182173:1896041401:1005/pct:16.798277099784638,39.11596424965409,12.529313232830821,2.2437455592535804/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -491,7 +491,7 @@ if, with such dispositions, they break
 them asunder.&quot;  
 He believed that the honor and safe- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:00332891972:1896041401:0483/pct:50.64217200455211,74.52410805881682,14.469192001300602,4.320072951099966/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:00332891972:1896041401:0483/pct:50.64217200455211,74.53170713172993,14.490868693437381,4.323872487556518/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -511,7 +511,7 @@ bunglers indeed if, with such dis-­
 is they break them asunder.&quot;  
 He believed that the honor and safet
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_tesla_ver01:data:sn85038614:00175032824:1896041401:0125/pct:86.59847434119278,112.8229326412646,41.19278779472954,7.844756399669694/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_tesla_ver01:data:sn85038614:00175032824:1896041401:0125/pct:28.86615811373093,37.60764421375487,13.730929264909847,2.614918799889898/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -62,7 +62,7 @@ fulancc for ihemfrlvcs and families, by the operation of the
 said aft for blocking up their harbty, and that the fame  
 be collefted by the committees of the refpeftive counties
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1774071501:0617/pct:92.59656652360515,44.92299304893008,27.296137339055793,14.311026305029303/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1774071501:0617/pct:71.76118410111425,34.81567550438365,21.15970951826598,11.094679764797014/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -85,7 +85,7 @@ and signed by 108 Persons, being an ASSOCTATION unani­
 mously resolved uporn and agreed to. At ibe fame Time the  
 Sollowing INSTRUCTIONS epere given
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774082601:0305/pct:35.36206130608618,21.884892086330936,26.610395379831186,5.654676258992806/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774082601:0305/pct:35.36206130608618,21.88968824940048,26.625203613208946,5.664268585131895/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -465,7 +465,7 @@ lony, at such Time and Place as he may judge proper ; and, in |
 Case of the Dsath or Absence of any Delepate, it is recommend- &#x27;  
 ed that amother be chosen in his Place. Sign&#x27;d by 10
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774090201:0309/pct:4.575810042047984,12.528121484814399,93.89067524115755,86.17829021372329/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774090201:0309/pct:4.592299447604914,12.53280839895013,93.8824305383791,86.18297712785902/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -608,7 +608,7 @@ RefthtJ, That we will neither import any (lave or Haves
 norpurchafe any stave or llaves, imported ot bought into  
 *th s province byotheis, from any part ot the world, afte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1774100601:0646/pct:14.270223378876599,98.22690123285774,26.263283452613315,9.779747887519047/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1774100601:0646/pct:11.065045660821335,76.12810878511361,20.354081461146283,7.589908749329039/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -812,7 +812,7 @@ case of the death or absence of any dele­
 gate, it is recommended that another be  
 chosen in his place
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808051001:0160/pct:4.609256449165402,3.3707865168539324,36.62746585735964,90.88498926903169/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808051001:0160/pct:4.608382325052152,3.3703610199444585,36.626841140400785,90.87772448035008/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1063,7 +1063,7 @@ of the death or absence.of any delegate, it is
 recommended that another be chosen in his  
 place
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808051401:0017/pct:24.129126390662048,1.9824628288219597,53.67499544045231,96.34006862371331/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808051401:0017/pct:24.12472647702407,1.9822109275730622,53.67128616581571,96.33206268530284/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1274,7 +1274,7 @@ erl by any person, alter ihe lu st day ol grew, if properly encouraged and prote
 November next, either from Africa, the &amp; ,uct.d , home labor. These  
 West Indies, or any other place. i . . 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn83035366:00296029087:1844083001:0840/pct:5.449288256227758,13.918857316517247,117.70462633451957,114.43549612520893/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn83035366:00296029087:1844083001:0840/pct:4.094348019581664,10.439142987387935,88.3177570093458,85.83801853821608/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1297,7 +1297,7 @@ jnieiuly spare any, we will diepo.se of them:
 to our neighbors, especially tbe poorer sort  
 0f people, on moderate terms.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn83035366:00296029087:1844083001:0840/pct:24.51067615658363,26.044674061692753,19.995551601423486,6.07810363166692/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn83035366:00296029087:1844083001:0840/pct:18.40231419670672,19.54110317580915,14.997774810858923,4.55857772375019/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1326,7 +1326,7 @@ Prevented by sickness from attsndanco, be drew
 up a paper expressive of his sentiments npoa  
 some important points, whieh he forwarded b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn82015050:00280763366:1847111301:0093/pct:78.50849590937696,66.55390166892197,16.787287602265575,10.780333784393324/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn82015050:00280763366:1847111301:0093/pct:58.8985051140834,49.92106450157871,12.588512981904012,8.085250338294994/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1644,7 +1644,7 @@ of Virginia, begun &quot;in William-burgh, the 1st
 day of Attgoet, 177 4. ihe following association  
 was unanimously agreed to.&quot; I omit. Mr. Pre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn83035366:00296029099:1848081801:0575/pct:104.63878326996198,83.62916439104315,19.03041825095057,14.049699617695248/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn83035366:00296029099:1848081801:0575/pct:78.52387293132965,62.725286728563624,14.285714285714286,10.540688148552704/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1699,7 +1699,7 @@ Williamsburg, the 1st day of August,
 1774, the following association was unan­  
 imously agreed to.&quot; I omit Mr re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn89080032:00415668132:1848090501:0450/pct:96.37832204273059,151.1506499041125,37.636789994788955,38.83443426379714/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn89080032:00415668132:1848090501:0450/pct:32.13448006254887,50.3835499680375,12.548866301798279,12.944811421265715/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1720,7 +1720,7 @@ any other person, after the first day of
 November next, either from Africa, the  
 West Indies, or any other place.&quot; I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn89080032:00415668132:1848090501:0450/pct:96.18290776446065,189.7933091838909,37.832204273058885,12.36948646920946/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn89080032:00415668132:1848090501:0450/pct:32.06932499348449,63.2644363946303,12.614021370862654,4.123162156403153/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1760,7 +1760,7 @@ n fool lowing association was unanimously a.&#x27;tee I to.&quot; I ounl.
 liuri to M. President, ail not bearing upon the subject of slave- V  
 stance ryf alMj quote only the following : 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848120501:1198/pct:44.62213860144246,83.21058544501311,17.96801505174036,3.0208463362876046/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848120501:1198/pct:44.62213860144246,83.21058544501311,17.978467649210828,3.0333291723879667/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1798,7 +1798,7 @@ purchase any slave or slavea imported l&gt;jr any other person
 after the tirat day of Noreinber next, either from \frisn, the  
 IfVtl Indies, or any other jihwe.&quot;?1&#x27;age t&gt;7
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1850030701:0052/pct:71.44487234346028,58.608237360921336,13.179289687633718,1.4542260394300215/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1850030701:0052/pct:71.45438121047877,58.6147439651246,13.179289687633718,1.4574793415316547/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1851,7 +1851,7 @@ other person, after the first day of November |
 next, either from Africa, tho tflrsf huhes, or  
 any other place
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1853051201:0762/pct:20.570097300260382,71.53221957040573,12.840893517884062,3.3221957040572794/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1853051201:0762/pct:20.57466538760221,71.53858392999204,12.845461605225893,3.3221957040572794/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1875,7 +1875,7 @@ Similar resolutions had been adopted in primary
 meetings throughout Virginia, during tlve  
 month of duly, previous to the State Convention
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1855092701:0375/pct:0.3373900469936137,62.95565576850808,15.290998915531992,4.434423149192033/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1855092701:0375/pct:0.3414065951721091,62.961919078040836,15.299032011888983,4.434423149192033/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1901,7 +1901,7 @@ sive acts of Great Britain, and protesting against
 any intention to interrupt the peace, good order  
 and allegiance of the Colony, they promise mos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202190996:1856090201:0216/pct:16.472902879627974,71.67502752967087,43.35539259524236,18.781353236265755/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202190996:1856090201:0216/pct:5.490967626542658,23.891675843223624,14.45179753174745,6.260451078755251/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1919,7 +1919,7 @@ chase such articles, so imported, of any person.
 imported from any place.  
 3d. Not to import tea, nor use, nor suffer it to b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202190996:1856090201:0216/pct:16.651761759971382,96.64749785880338,43.176533714898945,6.129940046494555/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202190996:1856090201:0216/pct:5.550587253323794,32.21583261960112,14.392177904966315,2.0433133488315183/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1967,7 +1967,7 @@ merchant or trader who will not sign the Associa­
 tion, and all who will not comply with the torms of  
 the Association, to be considered inimical to this
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202190996:1856090201:0216/pct:16.311929887318904,104.16003915330968,44.10659989268467,49.54117215220849/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202190996:1856090201:0216/pct:5.4373099624396355,34.72001305110322,14.702199964228225,16.513724050736165/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2026,7 +2026,7 @@ l?erson, after the first day of November next,
 either from Africa, the West ludies, or any  
 other place.&quot;?IbiJ., p. 687
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1857031901:0056/pct:1.376256582096697,61.399253731343286,13.068453805648636,2.462686567164179/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1857031901:0056/pct:1.376256582096697,61.402363184079604,13.080421254188607,2.462686567164179/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2127,7 +2127,7 @@ any slave or slaves imported by any other person,
 either from Africa, the West Indies, or any other  
 place.’ 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_bia_ver01:data:sn83021205:00517172078:1858061201:0550/pct:4.9655172413793105,94.80091664279576,16.0,5.170438269836723/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_bia_ver01:data:sn83021205:00517172078:1858061201:0550/pct:3.848307457368287,73.47097347097348,12.410282514634767,4.018204018204019/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2200,7 +2200,7 @@ the Continental Congress, he voiced the sont
 ments of Virginia thus;  
 &quot;The at olition of domestic slavery is 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_tesla_ver01:data:sn85038614:00175030931:1887040601:0389/pct:149.2459310138868,248.27726394958836,33.343288039420635,11.962597824982213/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_tesla_ver01:data:sn85038614:00175030931:1887040601:0389/pct:49.7486436712956,82.75908798319612,11.114429346473546,3.9875326083274047/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2252,7 +2252,7 @@ factor or agent, at anytime thereafter
 for any commodity whatever.”  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_earnhardt_ver01:data:sn84024516:00332891911:1890050801:0384/pct:57.73730193987857,22.497805092186127,12.749888938249667,5.201931518876207/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_earnhardt_ver01:data:sn84024516:00332891911:1890050801:0384/pct:57.742238017671156,22.501463271875913,12.754825016042252,5.201931518876207/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

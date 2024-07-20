@@ -1063,7 +1063,7 @@ Whether a ?10 Suit or a #30 suit, you will i
 find all of our garni nts perfect fitting.  
 E?cia5 Bitos.. 7th and E
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_otterhound_ver01:data:sn83045462:00280654784:1890102901:0216/pct:2.5535420098846786,17.73193417600763,13.69028006589786,2.8142141664679228/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_otterhound_ver01:data:sn83045462:00280654784:1890102901:0216/pct:2.5535420098846786,17.737896494156928,13.71499176276771,2.8261388027665157/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1133,7 +1133,7 @@ The schools of this country opened
 this week, aud it is a pleasure to note  
 that in all sections the attendance i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:okhi:batch_okhi_comanche_ver01:data:sn83025010:00237284744:1895090501:0072/pct:38.45374746792707,7.511122742737503,14.50033760972316,6.830672598796126/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:okhi:batch_okhi_comanche_ver01:data:sn83025010:00237284744:1895090501:0072/pct:28.85362147560358,5.639884846898718,10.872868478811412,5.116461659251505/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

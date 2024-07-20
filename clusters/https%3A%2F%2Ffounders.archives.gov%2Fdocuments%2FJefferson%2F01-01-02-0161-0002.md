@@ -219,7 +219,7 @@ own legi-la ures, and declaring themselves in­
 vested with powt;r to legislate for us in all ca­  
 ses whatsoever byplundering our s»»s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216420:1830010801:0336/pct:5.707282913165266,38.44784620861517,18.662464985994397,24.433368933190934/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216420:1830010801:0336/pct:5.706283913880623,38.44328429046037,18.665032965750626,24.434424932763804/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -270,7 +270,7 @@ mtMit* of forfi-uiire nnd Conti-cat ion; by prompting
 our negroes to riau in arms among us, those very n&lt;j  
 groan, whom t&gt;y an inliutnin use of hi* i-rpaiiv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012001:0070/pct:5.99806514027733,74.64441048548254,18.461786520477265,19.395791700952156/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012001:0070/pct:5.997098178300822,74.63563704748472,18.464183996990702,19.397429869926345/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -339,7 +339,7 @@ tions for redress with a repetition of injuries; and
 finally, by abandoning the helm of government, and |  
 declaring us out ot
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012601:0090/pct:5.388451021392955,5.289820923656928,36.96316551391347,90.13901979264844/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012601:0090/pct:5.387584432293342,5.289197785369302,36.96258175190308,90.13232811088861/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -380,7 +380,7 @@ i:ig large bodii s of ai med tro&gt;p., among
 us, for cutting off our trade with all  
 | ill* of t: e woild, lor imposing t.,\r
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84024746:00414186920:1830012701:0016/pct:18.040363580342014,44.20884632922937,14.373748266830997,16.26766985864113/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84024746:00414186920:1830012701:0016/pct:18.03758471965496,44.203807135529466,14.376668720476484,16.26961510695695/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -419,7 +419,7 @@ olation and tyranny, then already begun wiihcircum­
 stances of cruelty and peradv unworthy the head of  
 a civilized nation; by answering our repealed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830020201:0114/pct:23.74980155580251,7.3024459078080906,17.85997777424988,13.581843838193791/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830020201:0114/pct:23.746031746031747,7.301587301587301,17.862433862433864,13.58416617675877/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -467,7 +467,7 @@ groes, whom by an inhuman use of his negative :
 !hj had refused us permission to exclude by law; I  
 bv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830020401:0122/pct:4.90053372149442,5.204898728214791,36.6327025715672,89.03674046161093/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830020401:0122/pct:4.89974126778784,5.2042858824914635,36.63216903837861,89.0301817182778/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -499,7 +499,7 @@ sUTrcctions of out fellow subjects wi ll the allure­
 ments of forfeiture and confiscation; by prompting  
 our negroes to rise in arms ninorg
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830020601:0130/pct:24.34432823813355,5.425082198215124,18.149637972646822,9.511507750117426/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830020601:0130/pct:24.34041184041184,5.424445227192673,18.152080652080652,9.514304723885562/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -541,7 +541,7 @@ ulation and tyranny, tlien already begun withcircuin-1
 stances ot cruelty and perfidy unworthy the head ofi  
 a civilised nation; by answering our repealed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021001:0142/pct:24.180790960451976,55.45774647887324,18.07909604519774,15.17605633802817/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021001:0142/pct:24.176888315041964,55.451238117591835,18.081557994404992,15.178187223721785/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -583,7 +583,7 @@ ii.g nr seas, ravaging our coast.-. !-uri:ng our towns
 sunectierts of our fellow subjects with tho nlTure-1  
 men&#x27;s of foil&#x27;d:uro and conli-cation; by protnptin&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021501:0158/pct:22.868343678536426,52.69575612671847,18.343678536426005,12.68380155409444/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021501:0158/pct:22.86460885187,52.689457327277076,18.346126626381402,12.686269822296598/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -641,7 +641,7 @@ tions for redress with a repetition of injuries; and
 ! finally, by abandoning the helm of government, and  
 i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021701:0166/pct:5.429371499688862,3.4872761545711595,35.74984443061606,91.0933081998115/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021701:0166/pct:5.428526987089749,3.4868653551655084,35.749468553948255,91.08650410334943/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -712,7 +712,7 @@ declaring ua out oi his allegiance nmJ protection: I e i
 wli/tli several nets of misrule, tho government cf  
 fli/i country, oh before exercised under the crow
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030101:0206/pct:23.554463554463556,45.70683111954459,18.493038493038494,29.708254269449714/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030101:0206/pct:23.550605961349493,45.70141112296929,18.49546893765695,29.708684137712954/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -730,7 +730,7 @@ very negroes, w hom, by an inhuman use of his negative
 he has refused us permission to exclude by’law.” in the  
 original draft of that instrument, in his own hand writing
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184054:1832020901:0350/pct:64.90939044481054,64.44517042360884,14.56617243272927,1.7859087444190351/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184054:1832020901:0350/pct:64.90048043925876,64.43815331010452,14.568748570121254,1.789343786295006/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -780,7 +780,7 @@ prompting oi a kiuuoxs to riae in arms against rt,
 Ik or my negroes whom, by an inhuman use of his  
 negative, he liaUi relused us permission (o exclude k
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661332:1844013101:0109/pct:19.320822162645218,73.6842105263158,15.638963360142984,3.9569727237802534/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661332:1844013101:0109/pct:19.320822162645218,73.6927476842959,15.656836461126005,3.952704144790199/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -798,7 +798,7 @@ rise in arms against us, those very negroes,
 whom, by an Inhuman use of his negative  
 ho hath refused us permission to exclude
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn83035487:00211100473:1847050701:0374/pct:27.340676632572777,91.25492573507124,17.427222659323366,2.682631100333434/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn83035487:00211100473:1847050701:0374/pct:20.519378319889828,68.4449833282813,13.063151682077514,2.0157623522279478/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -880,7 +880,7 @@ of a civilized nation; by answering our repent.
 I ed petitions for redress with a repetition of itl.  
 juries;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851081201:0336/pct:72.20774206004441,5.517527483924497,25.668500820542523,90.74189310654775/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851081201:0336/pct:72.2007722007722,5.517146017699115,25.66924066924067,90.73792404129793/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -909,7 +909,7 @@ civilized nation; by answering our re­
 peated petitions lor redress with a repeti­  
 tion of iujuries ;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393349001:1851081201:0103/pct:14.905008635578584,35.70652173913044,12.573402417962004,8.491847826086957/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393349001:1851081201:0103/pct:14.902434812640305,35.701670968618394,12.575548264548438,8.494090476837385/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -937,7 +937,7 @@ dering oub seas, ravaging our coasts, burning our
 towns, and destroying the lives of our people; by­  
 inciting insurrections t«
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157327:1851091101:0429/pct:2.487821851078636,75.7766272189349,13.448155880306194,5.510355029585799/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157327:1851091101:0429/pct:2.4873891111497652,75.76728707013436,13.450165246129762,5.5127573030938/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -987,7 +987,7 @@ clu&lt;*« bylaw; by endeavoring to bring oti the in­
 hahfiaots el oor frontier* the metciless Indian  
 •wages, whose known rule of waria re is an uodis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157327:1851091801:0433/pct:1.875442321302194,70.68923227863625,13.711960368011324,14.115771400539613/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157327:1851091801:0433/pct:1.875110560764196,70.680564071122,13.713957190872103,14.117106069895769/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1018,7 +1018,7 @@ tions of our feliow-surjects with the alt litem on Is
 rerj begfo • &gt; rv&#x27;t.&#x27;ia, by an inTiura&#x27;aa us,.: of hi* I  
 iR-ga-av..i, be had relim-d us permission to ex
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762453:1861123101:0364/pct:56.590761223162005,85.64514567805634,12.830188679245284,7.521053141031846/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762453:1861123101:0364/pct:56.59943613099111,85.6515987481044,12.82585122533073,7.514600070983771/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

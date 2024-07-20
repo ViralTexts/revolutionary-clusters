@@ -298,7 +298,7 @@ modest cognomen of “The Universal In­
 structor, in all arts and sciences, and Penn­  
 sylvania Gazette.” The thirdnewspaper i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182963:1846020501:0189/pct:4.219496986073581,65.49172608637159,15.215131989191436,4.197497645634334/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182963:1846020501:0189/pct:4.218620116375727,65.48291633037395,15.217165419783873,4.200295937584073/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -326,7 +326,7 @@ was entitled the Universal Instructor in all Arts and
 Sciences and Pennsylvania Gazette, and was pub-  
 lished by Samuel Keimer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_qualchan_ver01:data:sn82015753:0021247521A:1858122401:0927/pct:98.23770491803279,71.45334174022699,37.131147540983605,5.769230769230769/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_qualchan_ver01:data:sn82015753:0021247521A:1858122401:0927/pct:32.74590163934426,23.817780580075663,12.37704918032787,1.9230769230769231/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -522,7 +522,7 @@ one bearing the title of “Universal In­
 structor in all Arts and Sciences and  
 Pennsylvania Packet,” printed by Ben
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_fox_ver01:data:sn82016399:0051717354A:1897062501:0629/pct:4.040627069993376,41.83168316831683,14.396113932435416,1.8409653465346534/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_fox_ver01:data:sn82016399:0051717354A:1897062501:0629/pct:4.039735099337748,41.825212683681364,14.398454746136865,1.8445475638051043/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -539,7 +539,7 @@ by Samuel Keimer, called “The Univer­
 sal Instructor in All Arts and Sciences,  
 and Pennsylvania Gazette.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_demeter_ver01:data:sn93058748:00517171803:1898020301:0326/pct:105.4032419451671,75.47086521483226,15.649389633780268,1.5597410241318423/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_demeter_ver01:data:sn93058748:00517171803:1898020301:0326/pct:81.69880576952903,58.49013570532558,12.118078891588688,1.2202075493214735/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -557,7 +557,7 @@ Deo-24, 1728; by Samuel Keimer, called
 The Universal Instructor In All Arts  
 and Sciences, and Pennsylvania Gazette
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_calumet_ver01:data:sn86086632:00296023504:1898040901:0560/pct:48.10679611650485,37.41278103887473,21.423948220064727,3.278325395946395/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_calumet_ver01:data:sn86086632:00296023504:1898040901:0560/pct:32.08677351465113,24.94185402591649,14.294965193459609,2.1929338797208993/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -575,7 +575,7 @@ Dec. 24, 1728, by Samuel Keimer, called
 The Universal Instructor In All Arts  
 and Sciences, and Pennsylvania Gazette
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_dakin_ver03:data:sn84023253:0020219705A:1898050401:0560/pct:109.75965040058267,313.41099972907074,47.56008739985433,8.561365483608778/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_dakin_ver03:data:sn84023253:0020219705A:1898050401:0560/pct:27.45490981963928,78.35274993226768,11.89652031335398,2.1403413709021946/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

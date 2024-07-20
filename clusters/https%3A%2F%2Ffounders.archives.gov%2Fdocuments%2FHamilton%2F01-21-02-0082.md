@@ -55,7 +55,7 @@ dote.
 1 u cTbemcJJ&#x27;age delivered to Mr. Hamilton, and tbs  
 &quot; Minerva becamefilent /
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797062401:0003/pct:72.5844277673546,32.12397179788484,16.955909943714822,10.41421856639248/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797062401:0003/pct:72.60201688555347,32.1313160987074,16.950046904315197,10.406874265569918/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -113,7 +113,7 @@ tached to their fipfrtJ/HM, than the following anec­
 dote.  
 « During
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797070501:0004/pct:43.49406348437122,74.74335748792271,16.670705112672643,5.238526570048309/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797070501:0004/pct:43.50012115338018,74.74713164251207,16.688878119699538,5.242300724637682/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -148,7 +148,7 @@ dote.
 &quot; &lt;Th, mtjjagc vans dtinrrrfd ti Mr. Hamilton, and tbe  
 &quot; Minerva becamcjilent /
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797070601:0004/pct:44.04418828049952,74.90511613784727,16.69068203650336,10.991346591771672/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797070601:0004/pct:44.05019212295869,74.9165022013056,16.708693563880885,10.991346591771672/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -199,7 +199,7 @@ a During the lativ c?r.vsf- for the eleclipn of a
 &quot; &#x27;The rwjfittre was dthwredtq Mr. Hamilton, and tbe  
 a &quot; l\linerva iceamcjtla.t /
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797070701:0004/pct:42.74291252725951,64.58712811171827,18.00339229464502,21.67577413479053/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797070701:0004/pct:42.75502786527744,64.59471766848816,18.00339229464502,21.671979356405586/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -263,7 +263,7 @@ the public.
 ALEXANDER HAMILTON.  
 Neac-York, July 6, 1 797
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797070801:0003/pct:3.789166869079427,8.152750416729807,17.46417294146223,26.640400060615246/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797070801:0003/pct:3.789166869079427,8.160327322321564,17.470245324265242,26.651765419002878/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -295,7 +295,7 @@ S form him, that if Webster should, in future,print
 &quot; The mtjfagc tvas &lt; delivered tv Mr. Hamilton, and the  
 &quot; Minerva becameftUnt /
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797070801:0004/pct:44.109788681078456,76.60251553265647,16.808355598736945,9.410516744961358/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797070801:0004/pct:44.12193344668448,76.60251553265647,16.814427981539957,9.414305197757235/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -327,7 +327,7 @@ i ■&quot; that Mr. Hamilton would be an advifeahle can­
 ( » Tie mtjftgi wa, delifered ta Mr. Jfiamiltm.&#x27;mJ the  
 &quot; Minerva becameJilent 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797071101:0004/pct:42.1103348590701,49.93928354584092,17.537942664418214,9.335154826958105/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797071101:0004/pct:42.1103348590701,49.94687310261081,17.556010599855455,9.338949605343048/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

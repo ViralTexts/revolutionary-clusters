@@ -474,7 +474,7 @@ queftioa of war and peace, the tneafure of cc: sf­
 cation or i-queftration is marked with every feature  
 ot impolicy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795110201:0002/pct:34.72361809045226,5.249841872232764,64.2462311557789,87.87160025300443/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795110201:0002/pct:34.72361809045226,5.249841872232764,64.2713567839196,87.88741302972802/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -539,7 +539,7 @@ towards defraying the premium which the
 want of that tranquility is calculated to generate, j  
 CAMILLUS. I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795110201:0003/pct:6.542282529682578,4.312410158121706,21.153380179307003,34.29164670180482/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795110201:0003/pct:6.554397867700509,4.320396102858968,21.153380179307003,34.29563967417346/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -577,7 +577,7 @@ ble _titne for withdrawing, their &#x27;essssect&#x27;s
 &amp;c.&quot; And sias to women, &#x27;it&#x27;was surely  
 to be exPected, that they would at &quot;leas
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803072901:0593/pct:22.03288490284006,3.5328924469195964,42.67563527653214,89.80160111381831/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803072901:0593/pct:22.029591989239275,3.532585051770643,42.67423902754945,89.79668783897445/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -753,7 +753,7 @@ faith. By permitting them to enter this territory and
 continue there he has tacitly promised them liberty  
 and perfect security for their return.&quot; Gattel, boo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_itchweed_ver01:data:sn83030313:00271743634:1868071901:0212/pct:107.3174706649283,133.79089453214368,52.20013037809648,10.947151681537406/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_itchweed_ver01:data:sn83030313:00271743634:1868071901:0212/pct:35.77249022164276,44.59696484404789,17.40004345936549,3.6490505605124683/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -795,7 +795,7 @@ the publlc faith. By permitting them to enter and
 reside in his territories, he tacitly promised them full  
 liberty and security for their return. He is therefor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_stein_ver01:data:sn83030272:00175042994:1898040801:0311/pct:77.50759878419453,97.48973071656778,50.6838905775076,12.35356762513312/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_stein_ver01:data:sn83030272:00175042994:1898040801:0311/pct:19.387949059114238,24.372432679141944,12.678198061205094,3.08839190628328/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

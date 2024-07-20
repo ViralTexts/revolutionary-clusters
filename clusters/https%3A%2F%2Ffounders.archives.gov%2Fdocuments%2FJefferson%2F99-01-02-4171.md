@@ -64,7 +64,7 @@ for the purpose of more conveniently as­
 certaining the titles and claims to land in  
 the territory ceded as aforesaid, the ter
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805041001:0139/pct:1.8790369935408104,56.620944341862305,17.537678606380897,10.551305724083356/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805041001:0139/pct:1.8786692759295498,56.613477515495184,17.540769732550554,10.554310079563937/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -137,7 +137,7 @@ which, he shall appoint, in the recess
 -of the Senate, but ‘who {lall be nom.  
 inated at theit next meeting for thei
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1805073001:0121/pct:60.63277191877853,70.51080550098231,16.85817723909964,14.479371316306484/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1805073001:0121/pct:60.63277191877853,70.51080550098231,16.85817723909964,14.492468893254747/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -180,7 +180,7 @@ the President of the United States, transmit
 to them in relation thereto, prepare, and i  
 cause to be prepared, abstracts from the re- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812051401:0155/pct:56.36743215031315,20.786127167630056,17.136395267919276,2.6705202312138727/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812051401:0155/pct:56.35762741346321,20.783724424921974,17.13921261668696,2.6740646553384964/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

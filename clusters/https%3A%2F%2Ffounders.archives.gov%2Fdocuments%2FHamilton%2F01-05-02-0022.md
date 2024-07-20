@@ -47,7 +47,7 @@ I cm* of Spain, and to *ignily to biin that hi* interposition to
 | obtain proper regulation* to be made on the *ubject would  
 I be very agreeable to Congrats 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851010301:0016/pct:20.62231049321417,54.30682976554536,16.070837471036082,7.428644240570846/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851010301:0016/pct:20.627827430210747,54.31532449881074,16.08738828202582,7.432891607203533/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -90,7 +90,7 @@ ciosol .Sp tin, and to ligmly to hini ttini bis Interposition
 to obtain proper regulations to be made on ihe subject  
 would be very agreeable 10 Uougress 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851030401:0256/pct:69.78167383393979,19.828359164852056,15.878266622560371,7.82630972204432/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851030401:0256/pct:69.79270040798323,19.832628837368173,15.872753335538649,7.830579394560437/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -129,7 +129,7 @@ in that his interposition to obtain proper regu- ne
 tions to be made on the subject would be very *r  
 ;reeable to Congress.&quot; C
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661484:1851030601:0238/pct:72.28879114212043,22.424170895786617,14.31821629000455,11.495338132892718/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661484:1851030601:0238/pct:72.29384700945447,22.428104960856054,14.328328024672633,11.50320626303159/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -154,7 +154,7 @@ l &quot;,d 8T? Wi&quot; obierTe &#x27;be like conduct
 tbunrt therein. * hi. subject, a. mv be  
 Retohed, That the said Secretary be also directed t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1851030801:0557/pct:17.533269309919056,70.59639389736478,15.42049663877075,5.739891176784381/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1851030801:0557/pct:17.54241551195866,70.60350652583662,15.425069739790551,5.743447491020307/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -42,7 +42,7 @@ Since the foolish Part of Mankind will make Wars from time to time with each oth
 4 Their differences. * Whether or not the rejec- 1  
 tion of the pacific overtures of Great Britain, for th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1846022801:0321/pct:63.366062785230255,88.87111517367458,15.281427188493984,3.1878427787934185/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1846022801:0321/pct:63.37067256718757,88.878732480195,15.29064675240861,3.1878427787934185/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -63,7 +63,7 @@ with each other, not having sense enough other­
 wise to settle their differences.&quot;  
 A Democratic meeting was held at Somerse
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn86053954:0023728236A:1846030501:0444/pct:57.699022346368714,99.77259126271693,25.087290502793294,6.5350089766606825/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn86053954:0023728236A:1846030501:0444/pct:43.28618823118561,74.8294434470377,18.823118561201326,4.90724117295033/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -196,7 +196,7 @@ sentence. “The foolish part of mankind
 time lo lime with each other, not having  
 sense enough otherwise to settle their diffi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624232:1846032601:0150/pct:40.35658914728682,81.24615068774379,16.775193798449614,2.40197084787518/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624232:1846032601:0150/pct:40.35658914728682,81.24615068774379,16.775193798449614,2.4053924587695885/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

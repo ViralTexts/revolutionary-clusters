@@ -72,7 +72,7 @@ bitr.iry determination to violate the j
 rights rtf embassy, respected by every]  
 - Civilised nation,&#x27;there did also oxist in 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806021901:0003/pct:21.80678625459261,1.8028012758285952,37.71342122325481,97.0323117459437/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806021901:0003/pct:21.81399034651682,1.8120464105764342,37.71342122325481,97.0323117459437/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -139,7 +139,7 @@ ministration, an arbitrary determination to violate
 the rights cf embassy, respected by every civilized  
 nation, there did also exist in me the just resolutio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806022401:0975/pct:53.8792074480783,71.08951895508123,20.291238959178802,19.512583625358396/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806022401:0975/pct:53.866348448687354,71.07819716515368,20.29236276849642,19.51345755693582/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -193,7 +193,7 @@ that if there has existed, on the part of
 this administration an aibitrary deiermi.  
 nation to violate the right* of embass
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806022501:0071/pct:58.531598513011154,69.45080091533181,17.37918215613383,26.036104754640224/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806022501:0071/pct:58.52072105556588,69.4419727977628,17.38214706064548,26.037032329138597/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -381,7 +381,7 @@ mud alfo declare to you, Hr, that
 I confuier both the ftyle and tenor  
 ot your letter as indecorous, and it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1806092901:0055/pct:39.91908293998652,37.51029654036244,17.734322319622386,11.593904448105437/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1806092901:0055/pct:39.91235462666442,37.506434675177594,17.735546940839374,11.595284670029857/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -414,7 +414,7 @@ bitrary determination to violate the
 rights of embafiy, rcfpe&amp;ed by every  
 civilized nation, there did alfo exif
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1806092901:0055/pct:40.27309507754551,58.65939044481054,17.329737019554955,13.848846787479406/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1806092901:0055/pct:40.26630709590427,58.653351178832494,17.331029833136693,13.849994852259858/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -453,7 +453,7 @@ jesty near the TUnited States, re­
 ceives no orders, except from his  
 sovereign.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_bobidosh_ver01:data:sn85040613:00514150941:1898091201:0628/pct:67.62386549620592,51.529005384537236,14.625799732182712,3.2713603576145482/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_bobidosh_ver01:data:sn85040613:00514150941:1898091201:0628/pct:67.62386549620592,51.53239188594263,14.640678470465705,3.2815198618307426/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

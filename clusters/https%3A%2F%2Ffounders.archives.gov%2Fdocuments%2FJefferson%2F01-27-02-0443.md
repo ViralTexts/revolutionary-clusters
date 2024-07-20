@@ -149,7 +149,7 @@ their tendency on the contrary, has been to in­
 volve us 1n a war abroad, and discord and anar­  
 chyat home,—~3o far as his afts, or thole of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1793122101:0145/pct:68.32022873481058,69.89702627273603,19.485346676197285,23.47223558849004/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1793122101:0145/pct:68.32975935191804,69.89702627273603,19.494877293304743,23.475443492766175/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -228,7 +228,7 @@ be made known to the Legislature in confidence
 only, they shall be the {ubjeét of a {eparate and  
 {ubfequent communication.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1793122101:0146/pct:12.737669764117227,5.620248291790973,19.74267333809864,44.21133673371187/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1793122101:0146/pct:12.742435072670956,5.623456196067109,19.74743864665237,44.20812882943573/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1039,7 +1039,7 @@ dences which have taken place.&quot;
 This meflage, Mr. L. „said, accompanied the  
 papers relative to France, to Great Britain and t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1796050901:0002/pct:29.07523510971787,45.08401264348694,20.480668756530825,8.234902678422891/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1796050901:0002/pct:29.094827586206897,45.09648976875728,20.48719958202717,8.230743636666112/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1067,7 +1067,7 @@ to Mr. Govcrneur Morris, then cur minister
 n France, had the temerity to call Mr. Genet  
 u an agent oj the Irerich Government whos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216146:1811100701:0278/pct:31.877657834478246,46.577581234378,21.197252208047104,9.411651605460488/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216146:1811100701:0278/pct:31.87244480784955,46.57310391233298,21.19923684927773,9.413951103848248/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1142,7 +1142,7 @@ own ports. alA those of their friends, the instructions now
 communicated were immediately forwarded to our minister  
 at that court. The French government resisted this at
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855031001:0308/pct:17.144730372070153,45.529573590096284,15.997377479101786,3.8139302238339376/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855031001:0308/pct:17.155657542479375,45.53791004960193,15.997377479101786,3.8139302238339376/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

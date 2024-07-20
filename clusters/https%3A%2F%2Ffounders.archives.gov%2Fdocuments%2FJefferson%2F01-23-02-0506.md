@@ -1395,7 +1395,7 @@ fubjefts, and also of the estates, rights and
 properties, of persons resident in diflricts  
 which were in the possession of his Britanoic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1784021401:0508/pct:37.196861626248214,75.7020757020757,28.78031383737518,12.654012654012654/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1784021401:0508/pct:37.20874940561103,75.70577570577571,28.78031383737518,12.657712657712658/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5213,7 +5213,7 @@ part of the British Cabinet, until an appeal
 has been made from the Vice-Admiralty  
 Courts in the Weft-Indies, which are inferio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794032501:0002/pct:51.01706036745407,55.71370475803172,19.094488188976378,5.856039040260268/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794032501:0002/pct:51.03346456692913,55.71878812525417,19.102690288713912,5.856039040260268/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5352,7 +5352,7 @@ on delivering property to the creditor to the full
 amount of his demand on a fair appraifement.  
 3. By admitting, in some instances, the pay
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795081101:0486/pct:53.45416728569306,24.456031284468065,19.491903134749666,10.187506266920686/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795081101:0486/pct:53.459119496855344,24.459373642167186,19.491903134749666,10.184163909221565/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5382,7 +5382,7 @@ pediment exists in the way of these debts, why
 not leave British creditors to the ordinary course  
 of law, and why fix stigma on the United State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795081101:0486/pct:53.49873718615362,35.856813396169656,19.37305006685485,10.067181389752331/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795081101:0486/pct:53.508641608478186,35.86015575386878,19.37305006685485,10.073866105150573/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5416,7 +5416,7 @@ proof, that interest was not intended on our
 part, nor insisted upon by the other. And  
 that upon the whole, it was the proper provinc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795081101:0486/pct:53.52845045312732,55.22911862027474,19.387906700341702,13.40619673117417/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795081101:0486/pct:53.52845045312732,55.23580333567298,19.39781112266627,13.40619673117417/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5437,7 +5437,7 @@ were superior to the laws of the ltates.&quot; He acids &quot;we
 rfuv fafely atfuin this to have been the general sense of  
 thoi&#x27;e at least who were of the profc-llion of the law.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795081401:0002/pct:8.012820512820513,39.38887961262314,21.233974358974358,3.5899148438804476/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795081401:0002/pct:8.012820512820513,39.40140257138086,21.26068376068376,3.5899148438804476/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5467,7 +5467,7 @@ Mr. Lewis—&quot; the judge* have uniformly and
 without he/itation declared in faverof the treaty, on  
 the ground of its being the fupretae law of the land.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795081401:0002/pct:29.86111111111111,57.38854566705627,21.55448717948718,10.385707129737852/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795081401:0002/pct:29.874465811965813,57.38854566705627,21.581196581196583,10.394055768909668/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5495,7 +5495,7 @@ tKclufively to the nation inhabiting it— v\ hen a
 c.uile has been adjudged according to the tules and  
 form* of the country its justice ought to he prcfam
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795082001:0002/pct:7.32533889468196,70.81602127305966,21.011470281543275,9.622735582516205/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795082001:0002/pct:7.32533889468196,70.82433106199103,21.03102189781022,9.618580688050523/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5520,7 +5520,7 @@ fights; it wan inipojfiblc they (liould recover them
 th ough all tl.-e trrb-Jfuals-, there is in* jgrottnd of  
 complaint.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795082001:0002/pct:7.221063607924922,80.45537643343859,21.24608967674661,7.678244972577697/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795082001:0002/pct:7.234098018769552,80.45953132790427,21.24608967674661,7.678244972577697/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6184,7 +6184,7 @@ admitted it; and that the judiciaries, both of the sep­
 arate and general governments, had so decided. lie  
 stated further, that the forrral repeal of the laws o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830073101:0724/pct:23.530361757105943,80.97921803451919,18.12015503875969,5.001761183515322/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830073101:0724/pct:23.526562247699015,80.96971119981217,18.122611550675494,5.00508726618142/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6354,7 +6354,7 @@ ed to the debt by way of damage for the detention
 of it. Formerly all interest was considered unaw­  
 ful in every country in Europe. In France paricu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_buttery_ver01:data:sn83030213:00206530315:1850051801:0132/pct:107.6207839562443,275.23682292931744,47.21969006381039,7.6633470974010205/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_buttery_ver01:data:sn83030213:00206530315:1850051801:0132/pct:35.87359465208144,91.74560764310583,15.739896687936797,2.554449032467007/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6373,7 +6373,7 @@ discretion of Judges and Jurors as the arbiters of
   
 damages. It is a measure of damage. It may
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_buttery_ver01:data:sn83030213:00206530315:1850051801:0132/pct:108.0401093892434,8.841389361185328,91.08477666362808,285.2562545542871/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_buttery_ver01:data:sn83030213:00206530315:1850051801:0132/pct:36.013369796414466,2.9471297870617765,30.36159222120936,95.08541818476236/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6394,7 +6394,7 @@ is the doctrine of the law. Interest is
 not a part of the debt, but something added to the  
 debt by way of damage for the detentton of it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743014:1850051801:0642/pct:101.56095957936247,277.9923215898826,53.828458757804796,9.66576332429991/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743014:1850051801:0642/pct:33.85365319312082,92.66410719662753,17.94281958593493,3.22192110809997/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6425,7 +6425,7 @@ adimt that the trust fund had pasced inte the potese
 of the United States, one of the very authore  
 ities rel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743014:1850051801:0642/pct:147.43674005915216,22.719060523938573,52.924745317121264,20.630081300813007/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743014:1850051801:0642/pct:49.145580019717386,7.5730201746461905,17.641581772373755,6.876693766937669/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6447,7 +6447,7 @@ tbe debt, by way of damage for the detention of it For­
 merly, all interest was considered unlawful in every  
 country in Lurope. In France particularly, a few year
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850051901:0610/pct:63.130575831305755,57.57385292269013,15.879967558799676,3.922061596480201/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850051901:0610/pct:63.14138956474723,57.57385292269013,15.879967558799676,3.930442069976954/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6470,7 +6470,7 @@ thing nor ia the term, and wordt which pass the debt do
 not give interest necessarily. It depends altogether on  
 the discretion of the judges and iurora ; and where th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850051901:0610/pct:63.179237631792375,63.016970458830926,15.701540957015409,4.336895034569453/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850051901:0610/pct:63.179237631792375,63.025350932327676,15.706947823736146,4.336895034569453/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6873,7 +6873,7 @@ a greater or less degree, according to
 cumstances, but more of them in a greater  
 degree than was expected.&quot;-Jefferson&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775605:1864020301:0429/pct:114.11501120238984,241.88008436275987,44.13741598207618,105.33293160590539/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775605:1864020301:0429/pct:28.52875280059746,60.47002109068997,11.034353995519044,26.333232901476347/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6995,7 +6995,7 @@ shall be r-.--jt.ived by tht; ueasury ; and the war being
 ended, the immovable property itself is restored, by  
 ag eement, to the former owrer 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035045:00296027145:1864021001:0199/pct:49.15100060642814,80.30417295123178,14.690721649484535,9.15032679738562/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035045:00296027145:1864021001:0199/pct:36.887608069164266,60.23127199597788,11.026846655543759,6.862745098039215/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7029,7 +7029,7 @@ That the State refused or complied, in a greater or
 leas degree, according to circumstances, but more of them  
 .in a greater degree than was expected.&#x27;&#x27; Jejferton&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035045:00296027145:1864021001:0199/pct:49.302607640994545,89.49220713926596,14.630078835657974,8.23278029160382/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035045:00296027145:1864021001:0199/pct:36.99378128317913,67.11915535444948,10.981343849537389,6.184012066365008/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7081,7 +7081,7 @@ treasury; and the war being ended, the im­
 movable property itself is restored, by agree­  
 ment, to the former owner.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn84028083:0028077523A:1864021201:0139/pct:136.9760479041916,56.05394312518323,94.46107784431138,325.5350337144532/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn84028083:0028077523A:1864021201:0139/pct:34.2440119760479,14.013485781295808,23.615269461077844,81.3837584286133/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7120,7 +7120,7 @@ a greater or less degree, according to cir­
 cumstances, but more of them in a greater  
 degreo than was expected.&quot;--Jeferson&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn84028083:0028077523A:1864021201:0139/pct:183.23353293413174,67.78070946936383,49.25149700598802,47.962474347698624/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn84028083:0028077523A:1864021201:0139/pct:45.808383233532936,16.945177367340957,12.312874251497005,11.990618586924656/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7149,7 +7149,7 @@ laws wadeby any independent State &#x27;of this Union
 be subjected to the adjuration, of any. power or  
 X&#x27;Owcieon earth.&quot; &#x27; *
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_edgewater_ver02:data:sn84031490:no_reel:1864021801:0003/pct:23.8553289726818,89.91658129664862,10.157752981916122,4.756329577052539/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_edgewater_ver02:data:sn84031490:no_reel:1864021801:0003/pct:23.86013851481339,89.91658129664862,10.176991150442477,4.774623152348895/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7186,7 +7186,7 @@ the treasury; and tbo war being ended, the Immo
 Table property itself is restored, by agreement, to  
 the former owner.* ”.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_edgewater_ver02:data:sn84031490:no_reel:1864021801:0003/pct:34.821085032704886,12.161568857017416,10.138514813389765,6.849114590955656/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_edgewater_ver02:data:sn84031490:no_reel:1864021801:0003/pct:34.835513659099654,12.168886287135958,10.128895729126587,6.863749451192741/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7217,7 +7217,7 @@ bably would not comply;
 went, as well those who approved as who disap*  
 1 roved the erttde.’*—tTiQfisnxmV Works, vof. 3
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_edgewater_ver02:data:sn84031490:no_reel:1864021801:0003/pct:34.70565602154675,19.43509439484853,10.138514813389765,4.844138738475047/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_edgewater_ver02:data:sn84031490:no_reel:1864021801:0003/pct:34.72008464794152,19.446070540026344,10.133705271258176,4.840480023415776/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7251,7 +7251,7 @@ any independent State of this Union be subject­
 ed to the adjudication of any power or powers  
 onl eart
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn83035216:00280775162:1864022701:0202/pct:227.00680272108843,50.23011176857331,51.49659863945578,316.8441814595661/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn83035216:00280775162:1864022701:0202/pct:56.7613539717639,12.557527942143327,12.876339513522709,79.21104536489152/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7308,7 +7308,7 @@ it;
 liament, as well those who approved as who  
 disapproved the article.&quot;Jefferson&#x27;s Works
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn83035216:00280775162:1864022701:0202/pct:228.2312925170068,183.87902695595002,50.27210884353742,81.26232741617358/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn83035216:00280775162:1864022701:0202/pct:57.067528491240004,45.969756738987506,12.570164994046607,20.315581854043394/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7385,7 +7385,7 @@ to reconsider and revise all their act and
 laws reeardintt the premises, so as to ren  
 dor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038521:00200293344:1866122101:0606/pct:21.30697419000549,31.012931034482758,12.726523887973642,7.198275862068965/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038521:00200293344:1866122101:0606/pct:15.98242482493478,23.26508620689655,9.55650144171358,5.398706896551724/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7402,7 +7402,7 @@ dor
 to the several States to reconsider and revise  
 all their acts and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ellis_ver01:data:sn85025007:00415663602:1866122401:0184/pct:50.523721503388785,56.96191914108371,15.440542205791743,1.9124308002013084/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ellis_ver01:data:sn85025007:00415663602:1866122401:0184/pct:50.523721503388785,56.967511044008276,15.440542205791743,1.9096348487390258/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7420,7 +7420,7 @@ recommended to t he several States to
 reconsider and revise ali their Acts  
 and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_alexiavalentine_ver01:data:sn84027008:00294551669:1866122501:0296/pct:49.48339483394834,31.610644257703083,15.756457564575646,2.5910364145658265/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_alexiavalentine_ver01:data:sn84027008:00294551669:1866122501:0296/pct:49.48339483394834,31.61531279178338,15.77490774907749,2.595704948646125/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7437,7 +7437,7 @@ and
 mended to the several States to reconsider and  
 revise all their acts and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762477:1866122501:0214/pct:30.50957061562338,10.370588813526,12.338334195550956,1.2778924604344835/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762477:1866122501:0214/pct:30.50957061562338,10.370588813526,12.342645283669599,1.2877224024378255/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7454,7 +7454,7 @@ revise all their acts and
 mnended to the several States to reconsider  
 and revise all their acts and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn88077244:00280775083:1866122601:0529/pct:82.51618871415356,320.4623555139019,56.79925994449584,5.185879412683536/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn88077244:00280775083:1866122601:0529/pct:20.63381910710155,80.11558887847548,14.203099699282905,1.296469853170884/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7471,7 +7471,7 @@ aAnd it is also hereby earnestly recom
 mended to the several States to reconsider  
 and revise all their acts and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:0028077473A:1866122801:0307/pct:121.66785459729152,298.0988593155894,49.18032786885246,5.401861806739216/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:0028077473A:1866122801:0307/pct:30.41696364932288,74.52471482889734,12.295081967213115,1.350465451684804/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7488,7 +7488,7 @@ and revise all their acts and
 ommended to the several States to re­  
 consider and revise all their acts and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dagwood_ver01:data:sn85033995:00294555870:1867021601:0027/pct:152.5810324129652,244.72314245149076,42.37695078031212,4.969238050165641/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dagwood_ver01:data:sn85033995:00294555870:1867021601:0027/pct:38.1452581032413,61.18078561287269,10.59423769507803,1.2423095125414103/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7522,7 +7522,7 @@ And it is also hereby earnestly
 recommended by the several Statesito re­  
 consider and revise all their acts and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:0028077473A:1867051001:0768/pct:127.828418230563,371.39006546014633,50.88471849865952,8.04774740084713/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:0028077473A:1867051001:0768/pct:31.9699611103661,92.84751636503658,12.72629743864825,2.0119368502117827/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7576,7 +7576,7 @@ peace. Peters eon’d. report 1st p. 107. Things
 of which nothing is said in the treaty remain in  
 the state in which they are. Ware vs. Hylton, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348707:1871042701:0386/pct:42.79302606594165,61.28266033254157,12.307957880200242,1.293217207706519/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348707:1871042701:0386/pct:42.7856403175699,61.27457448212165,12.310148429409734,1.2963451642696926/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7671,7 +7671,7 @@ thus protect the tax-payer. All of these bonds were
 pretended to be issued under various amendments  
 to the act of 1851-2. The amount issued wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_charlie_ver01:data:sn83045160:00280779568:1879011801:0049/pct:146.66666666666666,109.01297236322617,41.37741046831956,28.83248730964467/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_charlie_ver01:data:sn83045160:00280779568:1879011801:0049/pct:36.67677046018187,27.253243090806542,10.347203086249655,7.208121827411167/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7711,7 +7711,7 @@ nvv., -
 possibly be found, then no instrument or  
 title of debt, however formal or sacred, ca
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jimmy_ver02:data:sn85033437:00296021003:1879011901:0346/pct:26.475548060708263,6.3909360906390935,31.899943788645306,121.47178528214718/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jimmy_ver02:data:sn85033437:00296021003:1879011901:0346/pct:19.859451862262826,4.7959520404795954,23.9353478566409,91.10108898911011/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7738,7 +7738,7 @@ formal or sacrod, can give the riehtto inter
 est under the cirenrrstances of our case.  
 Genoral calamity then prevented Drofit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_frank_ver01:data:sn85033964:00296020539:1879012301:0437/pct:35.570562293274534,71.60593171628923,12.941014332965821,6.127141050695482/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_frank_ver01:data:sn85033964:00296020539:1879012301:0437/pct:26.685044796691937,53.7073226807679,9.703652653342523,4.598229681572595/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7791,7 +7791,7 @@ weiv pretended to be Issued tin-
 der various iimendmeiibt to the  
 Act of 8ol-&#x27;- The amount h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn85033395:00212470399:1879012301:0433/pct:38.36299892125135,6.971475646174441,28.573354908306364,119.35948923900732/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn85033395:00212470399:1879012301:0433/pct:28.783382789317507,5.231181134795593,21.432425141623956,89.51704252909072/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7842,7 +7842,7 @@ bonds were pretended, to be issued
 under various amendments to the  
 Act of 1851-2. The amount issue
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_ida_ver01:data:sn85033681:00296021106:1879012901:0017/pct:35.79638752052545,13.950010681478316,30.44608648056924,114.93270668660543/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_ida_ver01:data:sn85033681:00296021106:1879012901:0017/pct:26.854640021899808,10.467848750267036,22.844237612920885,86.19953001495406/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

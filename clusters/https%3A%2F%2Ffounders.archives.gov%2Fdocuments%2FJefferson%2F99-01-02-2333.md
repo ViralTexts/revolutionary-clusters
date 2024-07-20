@@ -128,7 +128,7 @@ his own right.
 HAMET BASHAW,  
 Son of AH Busha&#x27;to C&#x27;ar&amp;maili
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806012401:0001/pct:22.46882265905728,31.68515301349726,18.495032762629464,53.98904182814379/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806012401:0001/pct:22.46882265905728,31.694062096307185,18.509124216162895,53.98013274533387/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -171,7 +171,7 @@ treaty not only .5tipulizzes the t&#x27;cc:-&#x27;sivcss*&gt;y c-s
 the throne for m-sict, but also it&#x27;ztltzdtsis see  
 v
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1806012701:0160/pct:53.70939065783094,46.227126957177894,23.694844027800226,20.665912092058104/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1806012701:0160/pct:53.70071105365223,46.22276714137508,23.69640163757811,20.667106793674748/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -218,7 +218,7 @@ the rsgjcti a xh-sisi . r:.*.-:si.ss.ss; Zct&#x27;fss&#x27;siz­
 [L&#x27;-ne ! srigh .ls lsiikc ();2&#x27;1U {if  
 [: lJ&#x27;s simzutiou I ;: ,},&quot;t-ss&#x27;le _
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1806012701:0160/pct:53.70939065783094,3.6408224863233354,44.44803620494586,91.1620448971892/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1806012701:0160/pct:53.70071105365223,3.640479109685938,44.44624003447533,91.15659090194599/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -307,7 +307,7 @@ right.
 I1AMET BASHAW,  
 Sju of stli Sajha m Caramalli, of Tripoli
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1806020401:0340/pct:2.6676686079278604,19.69116896375702,18.485816269021228,43.363961204696274/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1806020401:0340/pct:2.667167543200601,19.688656373612353,18.488605058852993,43.362681298115774/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -447,7 +447,7 @@ I intereft and his own ritrhi
 S0/2 oj Ah Jtajhauu Car am a Hi of  
 Tripoli. (L. S.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895060:1806021001:0775/pct:38.50847457627118,15.176382819993606,36.389830508474574,81.86081210700202/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895060:1806021001:0775/pct:38.50194882223352,15.174765558397272,36.387900355871885,81.85475277067349/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

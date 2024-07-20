@@ -60,7 +60,7 @@ of the Secretary of State.
 And be it further enacted. That the terrr  
 of four years for which a President an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792031201:0002/pct:6.6893775162589035,49.83472681314408,21.21399814183958,12.619093914057943/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792031201:0002/pct:6.697119851347166,49.83472681314408,21.21399814183958,12.628815866225938/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -116,7 +116,7 @@ President or Vice President, shall be an in­
 strument in writing declaring the same, and  
 subscribed by the person refusing to accept
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215956:1856080801:0396/pct:59.42947702060222,39.44283646888567,12.76743264659271,5.947901591895803/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215956:1856080801:0396/pct:59.42359116569278,39.43998263512047,12.769469479383314,5.949883028242047/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -180,7 +180,7 @@ President or Vice President, shall be an in­
 strument in writing declaring the same, and  
 subscribed by the person refusing to accept, o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82014835:00415661514:1856081201:0879/pct:15.275167785234899,33.71317996129864,13.275167785234899,8.374543109008815/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82014835:00415661514:1856081201:0879/pct:15.275167785234899,33.71317996129864,13.279642058165548,8.381710026517595/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -217,7 +217,7 @@ office of the Secretary of State.
 Sec. 12. The term of four years, for  
 which a President and Vico Presiden
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn83035173:00296027285:1856082001:0032/pct:98.26470588235294,106.25,14.0,15.087090163934427/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn83035173:00296027285:1856082001:0032/pct:73.71672304750699,79.6875,10.501544344756581,11.32172131147541/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -242,7 +242,7 @@ President or Vice President, shall be an in
 strument in writing declaring the same, and  
 subscribed by the person refusing to accept,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn86063325:00200292479:1856082101:0133/pct:91.54716981132076,61.08818584747058,16.60377358490566,5.2575271282286415/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn86063325:00200292479:1856082101:0133/pct:68.69926373418916,45.81996026287636,12.478761563148952,3.943145346171481/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -270,7 +270,7 @@ same, and subscribed by the person refusing to accept or
 resign, as the case may be, and delivered into the office  
 of the Secretary of State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200290021:1862031901:0184/pct:195.2240566037736,110.12642690560942,44.04481132075472,19.29544617650669/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200290021:1862031901:0184/pct:48.8060141509434,27.531606726402355,11.01120283018868,4.823861544126673/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -297,7 +297,7 @@ dent. shall t&gt;e an engagement in writing, de­
 claring the same so subscribed by the person  
 refusing to accept, or resigning, os the cas
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347336:1865081101:0335/pct:7.308602999210734,60.91805588166236,13.164956590370956,5.9403615872270485/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347336:1865081101:0335/pct:7.308602999210734,60.91805588166236,13.175480136806105,5.952101432261094/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -327,7 +327,7 @@ as the case may be, and delivered into the office of the
 Secretary of State. It is suggested that both the can-­  
 didates might be induced to &quot;refuse to accept, and thu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:00271743993:1876122001:1010/pct:102.46280991735537,72.10556511761331,46.87603305785124,24.291451520367183/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:00271743993:1876122001:1010/pct:34.15426997245179,24.03518837253777,15.62534435261708,8.097150506789061/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -396,7 +396,7 @@ into the office of the Secretary of State. 1t is
 suggasted that both the eandidates might be  
 induced 10 “refuse to accapt,” and thus brin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vnstcsc:batch_vnstcsc_adelphi_ver01:data:sn84037526:00414219949:1877011001:0011/pct:50.29726516052319,24.734400718240313,30.963139120095125,18.47972467454736/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vnstcsc:batch_vnstcsc_adelphi_ver01:data:sn84037526:00414219949:1877011001:0011/pct:38.98138477606439,19.17665249323541,24.003194691896542,14.31774255894859/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -427,7 +427,7 @@ same, and subscribed by the person re­
 fusing to accept or resigning, as the  
 case may be, and delivered into the of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_carrie_ver01:data:sn85033295:00271768795:1877012401:0054/pct:36.2267609321812,79.11317490667395,14.021995286724273,9.004825639624874/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_carrie_ver01:data:sn85033295:00271768795:1877012401:0054/pct:36.2267609321812,79.11924489362347,14.021995286724273,9.00786063309964/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -449,7 +449,7 @@ same, and subscribed by the person re­
 fusing to accept or resigning, as the  
 case may be, and delivered into the of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_volvo_ver01:data:sn2001063144:00295876475:1877013101:0148/pct:35.88022715539494,73.54104254044339,14.197212183789365,3.9784301977231875/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_volvo_ver01:data:sn2001063144:00295876475:1877013101:0148/pct:31.405912764141945,64.34937611408199,12.41278923856849,3.4881688860927613/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -496,7 +496,7 @@ and delivered into the office of the Secretary of
 State.--Rerised StatUtes, Section Il  
 Congress is empowered by the Consti
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barack_ver01:data:sn86053573:00211101933:1881090101:0216/pct:22.946859903381643,360.84686774941997,50.64412238325282,14.13863109048724/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barack_ver01:data:sn86053573:00211101933:1881090101:0216/pct:5.736714975845411,90.21171693735499,12.661030595813205,3.53465777262181/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -660,7 +660,7 @@ the House.
 In construing the statute for the punish­  
 ment of officers and employes who levy o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00383342089:1882080401:0109/pct:86.02981029810299,48.25160355886613,10.05420054200542,6.476308710945583/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00383342089:1882080401:0109/pct:86.03884372177055,48.25850058624733,10.049683830171634,6.469411683564384/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -681,7 +681,7 @@ ment in writing declaring the same, and
 subscribed by the person refusing to ac­  
 cept,&quot; ke Ke
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_journey_ver01:data:sn84024738:00175030827:1883020401:0130/pct:7.585990262289933,115.44837980406933,40.961206219569654,10.786952309182904/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_journey_ver01:data:sn84024738:00175030827:1883020401:0130/pct:2.5286634207633107,38.48279326802311,13.653735406523218,3.595650769727635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -745,7 +745,7 @@ in writing declaring the same and sut­
 scribed by the person refusing to ac­  
 cept or resigning, as the case may be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_forks_ver01:data:sn83045604:0020219932A:1895013001:0373/pct:11.350148367952523,199.8215785054576,38.4272997032641,33.57472712006717/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_forks_ver01:data:sn83045604:0020219932A:1895013001:0373/pct:3.7833827893175074,66.60719283515253,12.809099901088032,11.191575706689056/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -766,7 +766,7 @@ shall be an instrument in writing declar­
 ing the same and subscribed by - the  
 person refusing to accept or resigning, a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_beveridge_ver01:data:sn82015679:00295871945:1899120201:0325/pct:76.8034265103697,122.84065840828102,16.456266907123535,3.5211267605633805/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_beveridge_ver01:data:sn82015679:00295871945:1899120201:0325/pct:57.627691960762206,92.13473612760903,12.346375014094036,2.6387239097234008/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -790,7 +790,7 @@ writing declaring the same
 . and subscribed by thepreson  
 ; refusing to accept or resign
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn82007642:00202197905:1899122101:1036/pct:7.29431721798134,60.65756478127612,20.568278201865986,9.710225689607134/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn82007642:00202197905:1899122101:1036/pct:5.47422024188415,45.5001393145723,15.446636961595587,7.2861521315129565/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -814,7 +814,7 @@ resigning, as the case may be, and de­
 livered into the office of the Secretary  
 of State,&quot; Vioe-Preiident John C
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_irvin_ver01:data:sn86081889:00280776919:1899122101:0119/pct:91.20603015075378,111.77433760047633,17.441373534338357,6.981244417981542/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_irvin_ver01:data:sn86081889:00280776919:1899122101:0119/pct:68.4331797235023,83.83447454599583,13.091746962714705,5.2396546591247395/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -840,7 +840,7 @@ What United States officer in a foreign
 country wore a uniform above his rank.  
 and on what occasion? What was the ou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_beveridge_ver01:data:sn82015679:00295871945:1899122401:0563/pct:22.670053003533567,56.58863429564067,16.972173144876326,8.280254777070065/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_beveridge_ver01:data:sn82015679:00295871945:1899122401:0563/pct:17.009056770488183,42.443543717429066,12.734702893748619,6.212259078501117/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -862,7 +862,7 @@ same and subscribed by the person re­
 fusing to accept or resigning, as the  
 case may be, and delivered into the of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_leopardfrog_ver01:data:sn84020558:00212476407:1899122601:0460/pct:41.27951256664128,81.48778224559233,16.71744097486672,5.49025672749768/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_leopardfrog_ver01:data:sn84020558:00212476407:1899122601:0460/pct:30.977329015050486,61.11970306217136,12.554772337588112,4.113826167646149/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

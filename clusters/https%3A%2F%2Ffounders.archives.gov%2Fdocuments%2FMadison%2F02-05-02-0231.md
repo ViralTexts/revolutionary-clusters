@@ -141,7 +141,7 @@ Yale College.
 The Hundred Boston Orators appointed by the muni­  
 cipal authorities and other public bodies from 1770 t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024518:0029602272A:1853051401:0160/pct:49.72956730769231,66.14490691331673,20.10216346153846,3.5574528637495555/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024518:0029602272A:1853051401:0160/pct:37.31590021039976,49.6146092730938,15.073639915840095,2.6680896478121663/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -161,7 +161,7 @@ Yale College.
 The Hundred Boston Orators appointed by the muni­  
 cipal authorities and other public bodies from 1770 t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024518:0029602272A:1853051801:0164/pct:49.281867145421906,65.18006200810875,19.95810891681628,3.5773908895778677/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024518:0029602272A:1853051801:0164/pct:36.97441268891217,48.89100882423086,14.963339817447254,2.683043167183401/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -178,7 +178,7 @@ Yale College.
 The Hundred Boston Orators appointed by the muni­  
 cipal authorities and other public bodies from 1770 t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024518:0029602272A:1853061801:0197/pct:2.511961722488038,63.430498675018065,19.37799043062201,1.7104312213924355/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024518:0029602272A:1853061801:0197/pct:1.8848167539267016,47.5788966514093,14.540014958863127,1.2888460611900747/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -208,7 +208,7 @@ Yale College. &#x27; w .
 The Hundred Boston Orators appointed by the muni­  
 cipal authorities and other public bodies from 1770 t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024518:0029602272A:1853062201:0201/pct:2.4820574162679425,57.55603759942155,19.85645933014354,8.146541335261508/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024518:0029602272A:1853062201:0201/pct:1.8695782231528568,43.16702819956616,14.896799282081963,6.109906001446132/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -252,7 +252,7 @@ Yale College. . . .
 The Hundred Boston Orators appointed by the muni­  
 cipal authorities and other public bodies from 1770 t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024518:0029602272A:1853062901:0209/pct:2.956182472989196,41.40953295713771,19.762905162064826,8.320326569816304/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024518:0029602272A:1853062901:0209/pct:2.2218886053145175,31.060151278664907,14.832607716559075,6.243246488173851/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -269,7 +269,7 @@ Yale College. &#x27; ,
 &#x27;The Hundred Boston Orators appointed by the muni­  
 cipal authorities and other public bodies &#x27; from 1770 t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024518:0029602272A:1853070901:0221/pct:22.664670658682635,118.23508310414923,19.98502994011976,1.709912710749731/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024518:0029602272A:1853070901:0221/pct:17.013628875243374,88.67631232811192,14.99176276771005,1.2914026067200766/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -290,7 +290,7 @@ The Hundred Boston Orators appointed by the muni
   
 cipal authorities and other public bodies from 1770 t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024518:0029602272A:1853071301:0225/pct:22.675464907018597,116.23655913978494,20.02099580083983,3.5961768219832737/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024518:0029602272A:1853071301:0225/pct:17.009149542522874,87.18040621266428,15.029248537573121,2.7001194743130226/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -326,7 +326,7 @@ cinal authorities and other public bodies from 1770 t
 ; The Hundred Boston Orators appointed by the muni­  
 cipal authorities and other public bodies from 1770 t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024518:0029602272A:1853072301:0237/pct:23.276378896882495,118.99710703953713,19.934052757793765,1.3500482160077145/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024518:0029602272A:1853072301:0237/pct:17.468885889938523,89.24783027965285,14.964762333183385,1.012536162005786/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -346,7 +346,7 @@ Yale College.
 The Hundred Boston Orators appointed by the muni­  
 cipal authorities and other public bodies from 1770 t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024518:0029602272A:1853072701:0241/pct:22.0703125,116.21103117505996,20.057091346153847,3.6810551558753/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024518:0029602272A:1853072701:0241/pct:16.558978211870773,87.15827338129496,15.041322314049587,2.7697841726618706/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

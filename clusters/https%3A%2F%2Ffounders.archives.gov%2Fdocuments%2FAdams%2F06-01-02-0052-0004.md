@@ -587,7 +587,7 @@ their minds a blind obedience to civil ma­
 giftracy—Hence the divine miraculous ori  
 gin of government with which the prit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801101901:0004/pct:7.408267533673944,6.282570932252461,42.104040873200184,88.332368268674/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801101901:0004/pct:7.42374980647159,6.2922215788457825,42.09629973680136,88.33719359197066/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -611,7 +611,7 @@ formation feeined to have deferted the
 |\ earth, and one age of darknefs fhcceedeo  
 0 another, till the Reformation ; from tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801101901:0004/pct:28.19321876451463,13.781123335263462,21.319089642359497,7.484076433121019/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801101901:0004/pct:28.200959900913453,13.790773981856784,21.319089642359497,7.479251109824358/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -756,7 +756,7 @@ ernments—rights that cannot be repealed or re.
 •trained by human laws—rights derived from the  
 Great Legislator of the Universe.” Ah, the peo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021205:00517171906:1857040101:0298/pct:6.348900038595137,72.21106968741039,15.824006175221921,2.5236593059936907/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021205:00517171906:1857040101:0298/pct:4.920484570516975,55.967550748259,12.273792312677601,1.9595495628982071/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -823,7 +823,7 @@ not be repealed or restrained by human
 laws,--rights derived from the Great  
 Legislator of the Universe.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867060101:0509/pct:62.28228228228228,225.43869209809264,37.23723723723724,8.196185286103542/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867060101:0509/pct:15.57524782216882,56.35967302452316,9.312105737458696,2.0490463215258856/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -843,7 +843,7 @@ that cannot be repealed or restrained bj
 human laws; rights derived from tht  
 great legislature of the universe.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_idacox_ver02:data:sn84026853:00202194023:1875050501:0161/pct:49.90504017531045,77.8451543042772,14.097881665449233,3.0644288034650784/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_idacox_ver02:data:sn84026853:00202194023:1875050501:0161/pct:49.90504017531045,77.8451543042772,14.112490869247626,3.0752571737953436/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1023,7 +1023,7 @@ worshiped.&quot;
   
 It was against this latter class tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_larkspur_ver01:data:2017270212:0027952746A:1895071201:0410/pct:48.497854077253216,35.89178062049699,18.969957081545065,40.59697103367152/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_larkspur_ver01:data:2017270212:0027952746A:1895071201:0410/pct:36.396821988404554,26.922511395383033,14.236633025552932,30.45140420526393/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

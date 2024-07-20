@@ -366,7 +366,7 @@ DIZES imported into theU­
 nited States.  
 BE it enalied by the Senate and Hous
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789082001:0441/pct:6.1571125265392785,19.135901982911495,19.414956357631517,13.751410607770433/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789082001:0441/pct:6.164976016356059,19.14127572679886,19.43068333726508,13.7567843516578/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -389,7 +389,7 @@ Constitution of the United States of America, propos­
 ed by Congress and ratified by the legislatures of the  
 several States, pursuant to the $th article of the 0
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789082901:0002/pct:19.850617638609595,13.279908414424728,25.28009192760701,7.307765693569929/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789082901:0002/pct:19.850617638609595,13.294218660560961,25.28009192760701,7.302995611524518/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -409,7 +409,7 @@ whether having the right of pre-emption to such lands or not, un­
 less the fame shall be made and duly executed at some public trea­  
 ty, held under the authority ot the United Slates
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790073101:0004/pct:8.451612903225806,68.32963037770148,28.06451612903226,3.9385982629771763/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790073101:0004/pct:8.459677419354838,68.34477883255907,28.080645161290324,3.9385982629771763/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -428,7 +428,7 @@ to regulate the colleftionof the duties imposed by law on the ton­
 nage of (hips or vclTels, and on goods, wares and merchandizes  
 imported into the United States, and 10 amend the said act.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790081401:0002/pct:40.503144654088054,36.37982195845697,27.20125786163522,2.492581602373887/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790081401:0002/pct:40.5188679245283,36.37982195845697,27.193396226415093,2.502472799208704/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -456,7 +456,7 @@ much of an A&amp;, intitled, ¢ An aft to
 regulate the colle&amp;ion of the duties im­  
 poled by law on the tonnage of thips o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790090201:0653/pct:6.545893719806763,20.686274509803923,20.869565217391305,12.058823529411764/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790090201:0653/pct:6.545893719806763,20.686274509803923,20.885668276972623,12.069716775599128/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -479,7 +479,7 @@ fame shall be made &amp; duly executed at
 some public trcaty, held under the au­  
 thority oi the United Siates
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790110601:0689/pct:28.976721629485937,36.4076104482425,20.635305528612996,7.433086101257659/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790110601:0689/pct:28.984804397025542,36.41298505858325,20.659553831231815,7.438460711598409/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -516,7 +516,7 @@ sels, and on goods, wares, and xSierehan­
 disc, imported into the U. States,  
 “Jlesolved, That said rc.&#x27;.&#x27;uhon be re. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184169:1802081101:0218/pct:27.53946146703807,70.98293862999745,17.56731662024141,2.6737967914438503/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184169:1802081101:0218/pct:27.53434831043446,70.97390197326544,17.57024384205966,2.677699978782092/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -534,7 +534,7 @@ that state passed an act, entitled, “ an act for dis­
 posing of certain vacant lands or territory without  
 that state by which it is enacted, that two tracts 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808062701:1198/pct:50.642479213907784,55.05366009931123,21.894683799445705,2.6269421752362647/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808062701:1198/pct:50.62972292191436,55.044843049327355,21.895465994962215,2.6305253042921204/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -554,7 +554,7 @@ made and executed at a public treaty, held un­
 der the authority of the United Stdtes. The  
 duialion of this act was limited to two years
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216377:1827031001:0228/pct:62.485227080871184,56.25649913344888,17.727502954583827,3.778162911611785/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216377:1827031001:0228/pct:62.474679270763,56.25,17.73013729462075,3.781577325939618/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -587,7 +587,7 @@ public treaty, held under the authority of the U­
 S atea. The duration of this act was limited to  
 two year-, amt another law wan passed, approve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827031701:0427/pct:79.66645285439384,72.54405020516533,15.426555484284798,4.80328264542602/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827031701:0427/pct:79.65367965367966,72.53529624713407,15.429426540537651,4.806725393186115/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -680,7 +680,7 @@ the same shall be made and duly executed at
 some public treaty, held under the authority of  
 the United States.”—[Judge Story’s edition o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021206:00517171955:1829102801:0903/pct:85.56414832441007,79.0008588605783,18.9767995240928,5.2247351846550245/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021206:00517171955:1829102801:0903/pct:66.31320116797295,61.23211182191325,14.717483735464372,4.052804792367711/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -728,7 +728,7 @@ be made and duly executed at some pub­
 lick treaty, held under the authority of the  
 United States.”—[Judge Story’s editio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83020243:00517172194:1829111001:0261/pct:33.421809334218096,21.833449965010498,20.85821720858217,7.3477956613016095/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83020243:00517172194:1829111001:0261/pct:25.912804982572425,16.9281943741413,16.170504542597566,5.687323739966737/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -900,7 +900,7 @@ any person or persons, whether having the right
 saine shall be made and duly executed at some  
 with them, they will find their brethren of Ver
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777626:1853120801:0617/pct:113.81132075471699,59.56719817767654,50.64150943396226,35.42141230068337/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777626:1853120801:0617/pct:28.458199660313266,14.891799544419134,12.66276655972825,8.855353075170843/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -978,7 +978,7 @@ executed at some public treaty Held miJ.i
 authority of the United Stales. A itutlai  
 pnmiou is again enacted in section 8 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brockovich_ver02:data:sn83045789:00237281937:1885080201:0053/pct:47.02417854928704,83.85860833024348,12.895226286422815,5.104437028797429/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brockovich_ver02:data:sn83045789:00237281937:1885080201:0053/pct:35.2813517284142,62.897046100605614,9.672918927298094,3.8314176245210727/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1000,7 +1000,7 @@ i.nle.-s the wm s&#x27;l^l! 00 made and duly ex­
 ecuted at BOBM pubiie treaty held under au­  
 thority of the United S similar pro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_chaska_ver01:data:sn90059522:00175035278:1885080201:0335/pct:56.91881918819188,48.11410459587955,12.930504305043051,3.497094558901215/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_chaska_ver01:data:sn90059522:00175035278:1885080201:0335/pct:56.92394423944239,48.117626342665965,12.930504305043051,3.493572812114809/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1049,7 +1049,7 @@ of the act of May 10 o
 so as to embrace any purchase, grant,  
 lease or other conveyance of lands
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_chevy_ver01:data:sn83025733:00200294786:1885080201:0994/pct:313.1962296486718,73.70193657030592,49.78577549271637,39.23659837215829/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_chevy_ver01:data:sn83025733:00200294786:1885080201:0994/pct:78.29905741216795,18.42548414257648,12.446443873179092,9.809149593039573/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1093,7 +1093,7 @@ unless the same shall be made and duly ex­
 ecuted at -&#x27;&#x27;me public treaty held under au­  
 thority of the United States.&#x27; Similar pro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_chaska_ver01:data:sn90059522:00175035278:1885080301:0356/pct:84.73151750972762,41.310089804543054,13.089494163424124,4.384574749075542/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_chaska_ver01:data:sn90059522:00175035278:1885080301:0356/pct:84.73151750972762,41.31361155132946,13.094682230869001,4.391618242648353/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1118,7 +1118,7 @@ less the same shall be made and duly exoe an oer or oe o e
 euted at some public treaty under theon popert in the governmen ter  
 ator of the ated statesi e in i o a o o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_foxtrot_ver01:data:sn86064205:00175035187:1885080301:0988/pct:26.20215897939156,214.78895588702,124.73012757605495,16.62964138368772/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_foxtrot_ver01:data:sn86064205:00175035187:1885080301:0988/pct:6.553755522827688,53.697238971755,31.197839960726558,4.15741034592193/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

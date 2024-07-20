@@ -254,7 +254,7 @@ ciples of the Constitution, which he has so often
 declared to be a thing of nothing, which must bhe  
 changed.”’ 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1838020601:0021/pct:34.06184953910199,24.792013311148086,14.466250371691942,43.28202995008319/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1838020601:0021/pct:34.06680543165824,24.795479755962287,14.471206264248192,43.28549639489739/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -294,7 +294,7 @@ laws binding the States in all cases” whatsoever.—
 Our country has thought otherwise. Has he acqui­  
 esced ?”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1838020601:0021/pct:34.10645257210824,68.53161397670549,14.332441272673208,11.709650582362729/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1838020601:0021/pct:34.111408464664486,68.53854686633389,14.332441272673208,11.709650582362729/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -317,7 +317,7 @@ would wish the debt paid to-morrow; he wishes it
 never to be paid, but always to be a thing. where­  
 with to corrupt and manage the Legislature.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1838020601:0021/pct:34.10645257210824,80.81322795341099,14.332441272673208,4.274126455906822/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1838020601:0021/pct:34.111408464664486,80.82016084303937,14.332441272673208,4.274126455906822/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -395,7 +395,7 @@ tion &quot; freedom of religion, freedom of the
 press, freedom from standing armies, trial  
 by jury, and a constant habeas corpus act.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn86081096:00296028666:1858120201:0275/pct:38.35792174470814,82.2339489885664,15.105837075048107,2.9023746701846966/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn86081096:00296028666:1858120201:0275/pct:38.35792174470814,82.23761360304896,15.105837075048107,2.906039284667253/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -495,7 +495,7 @@ pose of subverting step by step the principles of the
 Constitution.” Such, gentlemen, we say is sub­  
 stantially the line of policy and its true meaning
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524652:1871012601:0431/pct:81.80572211752613,38.293022666835505,12.574952886756895,4.140812966949475/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524652:1871012601:0431/pct:81.79170948955121,38.28817422132185,12.577081192189105,4.1434540389972145/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -551,7 +551,7 @@ dealing out of treasury
 at time and measure he pleases, and who ner  
 an oceasion of making friends with his means--that s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grass_ver01:data:sn83030214:00206531137:1873021201:0316/pct:10.963295399903831,60.37389608900103,45.16749479083187,13.935084298658102/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grass_ver01:data:sn83030214:00206531137:1873021201:0316/pct:3.6544317999679437,20.124632029667012,15.055831596943955,4.645028099552701/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -828,7 +828,7 @@ binding the States in all cases whatsoever. Our
   
 country has thought otherwise
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ike_ver01:data:sn85042682:00211103401:1880103101:0152/pct:156.47058823529412,282.42213607806445,43.46020761245675,23.74014169228713/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ike_ver01:data:sn85042682:00211103401:1880103101:0152/pct:39.131187262028384,70.60553401951611,10.868812737971616,5.935035423071782/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -858,7 +858,7 @@ sense of America has approved my object­
 ion and added the bill of rights, and not  
 the king . or lords.&quot; John Hancock, Sa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_deadline_ver01:data:sn92053943:00295873656:1882031001:0128/pct:62.17222884386174,29.63973178770315,16.71632896305125,12.183202636663257/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_deadline_ver01:data:sn92053943:00295873656:1882031001:0128/pct:46.639845030546866,22.22979884077736,12.54656534048577,9.137401977497444/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1024,7 +1024,7 @@ snau count tne days &#x27;ana nours
 which still lie between me and.it.&quot;  
 When Mr. Jefferson &quot;withdre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_charlie_ver01:data:sn84024055:00280761023:1898042301:0266/pct:8.616504854368932,71.4691943127962,19.96359223300971,5.145565335138794/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_charlie_ver01:data:sn84024055:00280761023:1898042301:0266/pct:6.473801335221525,53.608666215301284,14.970665587699777,3.8591740013540963/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1041,7 +1041,7 @@ No government has a legiti­
 mate right to do what is not  
 for the welfare of the governed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_coldplay_ver02:data:sn83007654:00393342754:1898082601:0051/pct:12.912831618841365,74.14268821442649,11.247969680563076,2.591643673630272/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_coldplay_ver02:data:sn83007654:00393342754:1898082601:0051/pct:12.911084043848964,74.13538279633461,11.249830829611584,2.593851610996157/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

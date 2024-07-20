@@ -149,7 +149,7 @@ Thy every action let the Goddess guide.
 A crown, a mansion, and a throne that shine  
 With gold unfading, Washington, be thine.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624347:1872071901:0094/pct:29.85621269669018,50.57755775577558,12.181226261530114,2.4855610561056105/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624347:1872071901:0094/pct:29.865255923313438,50.57755775577558,12.176704648218484,2.4855610561056105/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -332,7 +332,7 @@ Thy every action let the goddess guide;
 A crown, a mansion, and a throne that shine  
 With gold unfading, Washington be thine
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ferguson_ver01:data:sn83035387:00211664514:1893012801:0071/pct:79.7593984962406,37.35897711400021,12.330827067669173,17.954228000429783/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ferguson_ver01:data:sn83035387:00211664514:1893012801:0071/pct:79.7593984962406,37.35897711400021,12.335839598997493,17.954228000429783/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -436,7 +436,7 @@ that shine ’
 । With irotl unfading^.Washington be  
 thine
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_debaptiste_ver01:data:sn83016683:00211664241:1893021001:0092/pct:36.38351555929352,43.73064127566823,14.179983179142136,43.47826086956522/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_debaptiste_ver01:data:sn83016683:00211664241:1893021001:0092/pct:36.39472946453603,43.738289166762264,14.174376226520886,43.48208481511223/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -500,7 +500,7 @@ Th n r a.&#x27;t&#x27; &#x27;ii let the goddess gul 1&quot;
 A crown, a mansion, and a thn.ue that shine.  
 With gold unfading. Washington, he thine
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_elsie_ver01:data:sn96076817:00415669446:1895021601:1189/pct:74.15118513773223,100.26641955287849,19.85906470211403,4.448048187188695/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_elsie_ver01:data:sn96076817:00415669446:1895021601:1189/pct:49.45530278756809,66.84814085485927,13.24895866709388,2.965365458125796/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -589,7 +589,7 @@ Thy ev&#x27;ry action let the goddess guide.
 A crown, a mansion, and a throne that shine,  
 With gold unfading, Washington, be thine
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn85034374:00295878162:1895021601:0600/pct:225.24752475247524,202.8699274803271,55.34653465346535,63.13840456719642/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn85034374:00295878162:1895021601:0600/pct:56.31188118811881,50.71748187008178,13.836633663366337,15.784601141799104/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -668,7 +668,7 @@ She flashes dreadful in refulgent arms;
 See mother earth her offspring&#x27;s fate bemoan,  
 And nations gar.e at scenes before unknown
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588484:1895022101:0060/pct:65.76051779935275,67.63768775603096,17.25997842502697,16.59839174632074/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588484:1895022101:0060/pct:50.97536506521012,52.42219957670299,13.376435180024524,12.867445324135769/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -688,7 +688,7 @@ Thyov&#x27;ry action let the joddess guide.
 A crown, a mansion, and a throne that shine,  
 With gold unfading, Washington, be thine.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588484:1895022101:0060/pct:65.84681769147788,84.72159004703383,16.375404530744337,3.6565012896373843/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588484:1895022101:0060/pct:51.03110021179356,65.661989495963,12.690892877048267,2.8337383397350475/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -708,7 +708,7 @@ Thy ev&#x27;ry action let the goddess ghide.
 a crown, a mansion, amd a throne that shine.  
 With gold unfading. Washington, be thine
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_diamond_ver01:data:sn87065469:00383344037:1895022101:1231/pct:166.78445229681978,335.0118483412322,41.00903023164507,9.611966824644549/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_diamond_ver01:data:sn87065469:00383344037:1895022101:1231/pct:41.68792934249264,83.74055975122168,10.250245338567224,2.402635865541241/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -735,7 +735,7 @@ Thy e v&#x27;ry action let the goddess guide.
 A crown, a mansion, and a throne that shine.  
 With gold unfading. Washington, be thine
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn89066818:00200292339:1895022301:0066/pct:64.06117247238743,81.10558642878034,17.90569243840272,8.014039192746417/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn89066818:00200292339:1895022301:0066/pct:48.05608667941364,60.836501901140686,13.448056086679413,6.010529394559812/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

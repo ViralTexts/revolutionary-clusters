@@ -39,7 +39,7 @@ ship or veflel having a licence to trade
 between the different districts of the  
 United States, or to carry on the Ban
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790102101:0681/pct:29.692011549566892,64.87051632620235,20.404234841193457,10.809071899630046/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790102101:0681/pct:29.708052614693617,64.87051632620235,20.388193776066732,10.81979518524476/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -78,7 +78,7 @@ l,w-and also into the expediency of
 toch extension. Adopted.  
 Mr; Sherwood offered the following
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1814011501:0221/pct:24.505277044854882,75.22851919561244,17.95844327176781,9.213893967093236/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1814011501:0221/pct:24.50123660346249,75.22164335983913,17.960978290739213,9.216098467538007/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -107,7 +107,7 @@ an adjoining State on the sea coast, or
 on a navigable river or lake, and except  
 also *t be a coasting vessel going fro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184133:1817020501:0220/pct:60.68560235063663,25.13362012775388,17.198824681684624,3.2590275061921523/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184133:1817020501:0220/pct:60.67371719545633,25.130344108446298,17.20198459328894,3.2629475147723324/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -125,7 +125,7 @@ a district in another State, except it he an
 adjoining State on the sea coast,or on a naviga­  
 ble river or lake, and except also it bo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1817020801:0370/pct:52.22455913282641,37.064360213686086,14.609286523216308,1.971508522004579/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1817020801:0370/pct:52.21611129084439,37.05964644537708,14.612315324059097,1.9754970537114758/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -203,7 +203,7 @@ district in one sta*e, from a district in another state
 except it be an adjoining state on the sea coast, or  
 on a navigable river or lake, ami except also it b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016082:00332895096:1817040801:0438/pct:37.53225072089847,84.97612225405922,17.787221126119288,1.6809933142311366/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016082:00332895096:1817040801:0438/pct:37.52655538694992,84.96800687613408,17.788315629742034,1.6832203227962945/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

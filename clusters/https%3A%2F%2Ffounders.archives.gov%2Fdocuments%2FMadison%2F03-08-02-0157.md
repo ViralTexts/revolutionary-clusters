@@ -350,7 +350,7 @@ thousand eight hundred and fnurteru, and of
 tli* independence &lt;&gt;f the United States the  
 L.irty-wuili
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1814090701:0062/pct:27.43362831858407,1.9639934533551555,44.096080910240204,95.43371522094927/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1814090701:0062/pct:27.426693629929222,1.9636720667648502,44.091253791708795,95.42218949435444/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -451,7 +451,7 @@ By the President,
 JAMES MONROE,  
 Secretary of State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1814090701:0136/pct:42.93468427718473,10.154113845389013,17.676859055545503,41.58588118319662/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1814090701:0136/pct:42.92691751085383,10.152851994532124,17.679691268692714,41.584855639782944/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -473,7 +473,7 @@ ation, that you may make it public in Uich­
 r und.  
 I am with great respect
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1814090701:0137/pct:40.82957619477006,65.46896295378515,17.060414788097386,5.674637591376533/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1814090701:0137/pct:40.82221420843852,65.46085232903866,17.063348960211563,5.678064089857945/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -578,7 +578,7 @@ States to be affixed to these presents.
 oTsen LCi,y “f the first day  
 of September, in the year of our Lord on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814090701:0235/pct:63.31622721642187,9.142452161587526,16.811183861263494,47.42499409402315/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814090701:0235/pct:63.305024769992926,9.1413723869139,16.814107100731306,47.42332979016574/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -710,7 +710,7 @@ JAMES MADISON.
 By the President,  
 J. MONROE, Sec. of Slate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1814090801:0555/pct:47.66532353638303,3.9821736630247266,44.15738326617682,92.45255894192064/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1814090801:0555/pct:47.654028436018955,3.9816012649130372,44.15284360189573,92.4428633031479/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1027,7 +1027,7 @@ an order * to destroy rfnd lay waste such
 towns and districts upon the coast as may  
 be found assailable
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814091001:0238/pct:36.56597774244833,16.555281979130026,16.428192898781134,2.1104467112205416/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814091001:0238/pct:36.55951960438008,16.553341148886282,16.431178617685152,2.11410707307542/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1537,7 +1537,7 @@ cuied in a manner peculiarly dutrcfliug to ike in­
 habitants, who had, lucocbueraieiy, calf tlum  
 feivee on the genetoficy of the v.dt &gt;r 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016082:00332895084:1814091201:0109/pct:3.1328320802005014,11.7079311791859,17.690058479532162,14.575465100013988/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016082:00332895084:1814091201:0109/pct:3.1321779077051577,11.706293706293707,17.6915848820213,14.576923076923077/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1589,7 +1589,7 @@ them.
 In testimony xxbntaf. I have bennnt* ft* *V band and  
 Unfed tbe/eJ 0/ tbt U* ltd Sialti to be “fined heret
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016082:00332895084:1814091201:0109/pct:2.9239766081871346,36.998181563855084,17.794486215538846,21.541474332074415/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016082:00332895084:1814091201:0109/pct:2.9233660471914806,36.99300699300699,17.795990812278138,21.541958041958043/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1940,7 +1940,7 @@ sons, with the augmented strength and
 resources with which time and Heaven  
 have blessed them. : 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814091301:0150/pct:43.13026109288058,4.883268482490273,34.741047224996436,90.01945525291829/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814091301:0150/pct:43.13977267322966,4.886511024643321,34.73153564464736,90.01621271076525/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2086,7 +2086,7 @@ By the President.
   
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1814091401:1104/pct:75.75807244713981,13.997255440109782,23.242091460416326,83.58165065673397/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1814091401:1104/pct:75.75807244713981,14.000522773312422,23.25848221603016,83.58818532313926/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2108,7 +2108,7 @@ assailable.
 terminated, without mv being obliged to re­  
 sort to severities which are contrary to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1814091401:0144/pct:7.137745974955277,25.90802032973844,16.923076923076923,3.8800049584727905/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1814091401:0144/pct:7.136469325702021,25.9048091224591,16.92601204316461,3.883655594116675/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2131,7 +2131,7 @@ the coast as may be found assailable.” A
 similar declaration hod been made by Cap­  
 tain Gordon to the committee who bore th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814091401:0242/pct:54.8448275862069,80.44533933435983,16.224137931034484,4.974535117849106/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814091401:0242/pct:54.835373211515254,80.43581241117954,16.227087283801644,4.977893573345965/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2160,7 +2160,7 @@ compelled to resort to war against Great
 Britain, thanthey resolved to wage it iu a  
 manner most consonant tojthe principles o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814091401:0243/pct:46.6791553133515,63.53597720256471,15.735694822888284,8.311564948943245/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814091401:0243/pct:46.67120721947897,63.52843404962602,15.738691185651852,8.314535596976533/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2441,7 +2441,7 @@ coast, as may be found assail .hie­
 terminated, without my being obliged to  
 resort to severities which are contr. ry t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016082:00332895084:1814091901:0112/pct:7.230185497470489,25.71631205673759,18.381112984822934,5.390070921985815/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016082:00332895084:1814091901:0112/pct:7.228661749209694,25.712664870231173,18.38250790305585,5.392852077719472/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2558,7 +2558,7 @@ ed to resort to war againit Great Britain,
 than they resolved to wage it in a manner,  
 mast consonant to the principles of human.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814092701:0158/pct:6.924157303370786,42.30881636629323,17.09269662921348,8.5825621042377/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814092701:0158/pct:6.924157303370786,42.31206364669589,17.09269662921348,8.592303945445689/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2585,7 +2585,7 @@ compelled to resort to war against G Bri­
 tain, than they resolved to wage it in a  
 w inner m &gt;st consonant to the principles o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1814092901:0567/pct:4.281345565749236,6.072351421188631,21.33615619854152,9.13006029285099/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1814092901:0567/pct:4.280338664158044,6.071479833500789,21.337017873941676,9.132338165638007/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3194,7 +3194,7 @@ u to the naval force under my command, an or­
 “ able.&quot;  
 Mraahington, May 22
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1816052501:0025/pct:16.79530201342282,38.89667473563511,15.083892617449665,5.096190597528348/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1816052501:0025/pct:16.792484482469384,38.89171974522293,15.08695409047699,5.099787685774947/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3260,7 +3260,7 @@ in the very neighborhood of the post where
 they were stationed, was attacked by the lanad  
 and naval forces of the enemy, and though i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1827091101:0355/pct:77.65861027190333,21.072913497616874,16.117824773413897,3.721732075854376/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1827091101:0355/pct:77.66868076535751,21.079674137173377,16.107754279959718,3.721732075854376/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3452,7 +3452,7 @@ war, were destroyed previous to the mtraare of
 the city by tbe Rritish. “The British rmy re­  
 tired,” say s the historian, “in the night of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_indianhead_ver01:data:sn83016368:00415627609:1883090101:0886/pct:25.669264656048796,78.60756123535677,11.572348356489325,8.519701810436635/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_indianhead_ver01:data:sn83016368:00415627609:1883090101:0886/pct:25.673500508302272,78.61421725239616,11.58929176550322,8.523029818956337/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3478,7 +3478,7 @@ le to all nations, as contributions to the general j
 n- stock of historical instruction and political  
 at science.&#x27;&quot; (So it would seem from this that 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_newfoundland_ver04:data:sn83045462:00280654607:1883090801:0500/pct:56.892583120204606,67.24963361016121,15.127877237851662,5.37371763556424/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_newfoundland_ver04:data:sn83045462:00280654607:1883090801:0500/pct:56.90217391304348,67.25451880801172,15.121483375959079,5.376160234489497/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3514,7 +3514,7 @@ aud have said of a like destruction of &#x27;
 louses of parliament. Wast  
 be Bi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mastiff_ver01:data:sn83045462:00280654450:1886043001:0466/pct:74.30452061599603,89.82843137254902,12.80427223050174,7.567401960784314/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mastiff_ver01:data:sn83045462:00280654450:1886043001:0466/pct:74.3138350720318,89.83353758169935,12.807377049180328,7.56484885620915/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3683,7 +3683,7 @@ By the President,
 JAMES MONROE,  
 Secretary of Stale
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_harry_ver01:data:sn2008058169:00211103577:1890021701:0104/pct:152.44252873563218,134.64555698188562,44.97126436781609,223.47739266866353/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_harry_ver01:data:sn2008058169:00211103577:1890021701:0104/pct:38.110632183908045,33.661389245471405,11.242816091954023,55.86934816716588/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3752,7 +3752,7 @@ mand an order to destroy and lay waste
 such towns and districts upon the coast  
 as may be found assailable
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_irving_ver01:data:sn89060124:00415625686:1894080301:0132/pct:50.46316089496936,62.80329533912651,10.545817300840815,3.9047511567543167/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_irving_ver01:data:sn89060124:00415625686:1894080301:0132/pct:50.472661631276424,62.807057141782344,10.550567668994347,3.9085129594101495/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3782,7 +3782,7 @@ lic science.&quot;
 There is more catarrh in this section  
 of the country than all other disease
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_betelgeuse_ver01:data:sn90059959:00271742861:1897082801:0083/pct:18.242990654205606,70.16550522648083,12.355140186915888,9.36411149825784/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_betelgeuse_ver01:data:sn90059959:00271742861:1897082801:0083/pct:18.247663551401867,70.17639372822299,12.35981308411215,9.36411149825784/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

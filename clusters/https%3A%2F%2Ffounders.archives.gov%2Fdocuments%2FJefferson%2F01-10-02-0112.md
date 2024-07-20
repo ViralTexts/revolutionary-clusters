@@ -84,7 +84,7 @@ a very foolish and wicked plan of emitting paper
   
 money. I cannot, however, give up my hopes and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191241:1846082601:0161/pct:202.88335517693315,76.34755993878592,57.62341633901267,10.780479510287366/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191241:1846082601:0161/pct:50.73746312684366,19.08688998469648,14.41057576750792,2.6951198775718415/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -108,7 +108,7 @@ of his life was (after being carried on purpose to the
 Senate) to give his voice against the emission of a  
 paper currency. -
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn82015677:00296029804:1846082701:0390/pct:65.99462365591398,26.33182725648839,19.22043010752688,7.6074393191131655/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn82015677:00296029804:1846082701:0390/pct:49.51599892444205,19.754124198802142,14.425920946490992,5.705579489334874/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -142,7 +142,7 @@ ceived with applause, and prevails extensively.&quot;
 FROM JEFFERSON TO WASHINGTON.  
 &quot;Paris, 14 August,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664291:1847061801:0432/pct:46.504605163823044,52.14375180653242,13.694700286879058,8.363040755371424/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664291:1847061801:0432/pct:46.51467109567668,52.14696341972573,13.694700286879058,8.363040755371424/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -175,7 +175,7 @@ been introduced in painting by West, i under­
 stand is received wi;h applause, and prevails ex­  
 tensively.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_emeralds_ver02:data:sn85025007:00414215798:1847061801:0040/pct:53.93700787401575,63.43057657905601,15.021199273167777,9.625705242878768/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_emeralds_ver02:data:sn85025007:00414215798:1847061801:0040/pct:53.931563540930654,63.42621259029928,15.023047676726893,9.627336314642816/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -207,7 +207,7 @@ prevails extensively.&quot;
 Jesferson to H ashington.  
 PAris, I4 August,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347909:1847070101:1204/pct:261.5443718786016,260.2017768408372,60.18056089127929,36.334889323897/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347909:1847070101:1204/pct:65.37353562512003,65.04065040650407,15.04225081620895,9.082354712436013/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -244,7 +244,7 @@ to Mr. Houdon. The haste which has been intro­
 duced in painting by Mr. West, 1 understand is  
 received with applause, and prevails extensively
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661538:1854031701:0273/pct:29.059713590921373,39.77393900618469,13.415293164009727,10.812539987204095/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661538:1854031701:0273/pct:29.068720165720976,39.78104784246819,13.410789876609925,10.812539987204095/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -285,7 +285,7 @@ stand is received with applause, and prevails
 exten?ively.w  
 To which Mr. Jefferson replied 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053546:00415660984:1854031701:0274/pct:70.60871987742026,75.73504937312771,13.553419696336537,14.334849661599911/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053546:00415660984:1854031701:0274/pct:70.61336304963551,75.74244609637931,13.553419696336537,14.334849661599911/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -349,7 +349,7 @@ ume, if he had not learned from Col Humphreys that
 was hinted in conversation by Mr. West to Mr.  
 He ur derstood that this taste, introduced i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743245:1856070801:0073/pct:8.702900966988997,15.541313801785305,48.266088696232075,16.502632181277182/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743245:1856070801:0073/pct:2.9009669889963323,5.180437933928435,16.08869623207736,5.50087739375906/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -367,7 +367,7 @@ hardly be in the way of lenraing it, as I divide my ame be
 tween the suerintendence of opentag the navigation of our  
 rivers and attention to my privite concerns
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271743269:1857080401:0806/pct:24.741283235153638,115.37336932073774,45.53415061295972,4.251012145748988/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271743269:1857080401:0806/pct:8.24709441171788,38.45778977357925,15.178050204319907,1.417004048582996/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -404,7 +404,7 @@ falling. We lay with Washington &quot;May
 our country never want props to support the  
 glorious fabric&quot; .
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn85025750:00280774650:1860022101:0632/pct:7.641921397379913,53.29468325791855,19.061135371179038,3.0118778280542986/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn85025750:00280774650:1860022101:0632/pct:5.743612142389168,39.97454751131222,14.304433282376065,2.262443438914027/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -451,7 +451,7 @@ corded in strong opposition to an irredeemable
 currency. The best succinct account of paper  
 money in America, in the days of the Revolution
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743865:1874040601:0095/pct:5.549016310744913,122.14484679665738,47.11619303850681,23.70009285051068/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743865:1874040601:0095/pct:1.8496721035816377,40.71494893221913,15.70539767950227,7.900030950170226/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -485,7 +485,7 @@ ey . I cannot, however give up my hope* and expec­
 tations that we shall ere long adopt a more just and  
 liberal system of policy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159191:1878032101:0045/pct:26.681763687225256,85.4896855597837,10.696683095777274,7.420388543961546/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159191:1878032101:0045/pct:26.681763687225256,85.4896855597837,10.701123395941565,7.430402563589024/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -508,7 +508,7 @@ however, give up my hopes and expecta­
 tions that we shall ere long adopt a more  
 just and liberal system of policy.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_celebi_ver01:data:sn84027329:00279528992:1878042501:0067/pct:59.3381323735253,73.7481769567331,8.728254349130173,3.0140982012639768/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_celebi_ver01:data:sn84027329:00279528992:1878042501:0067/pct:59.34146504032527,73.75087776157295,8.724921682330201,3.0113973964241345/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -533,7 +533,7 @@ give up my hopes, however, that we shall
 ere long adopt a more just and liberal  
 systemor policy.”—George Washington.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_celebi_ver01:data:sn84027329:00279528992:1878050201:0071/pct:33.56110120816003,30.204347472115934,8.615567439096852,3.7450134332003584/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_celebi_ver01:data:sn84027329:00279528992:1878050201:0071/pct:33.56110120816003,30.207061249966078,8.625470390176272,3.7422996553502132/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -552,7 +552,7 @@ Washington says: Some other States are,
 in my opinion, falling into the very foolish  
 and wicked plans of emitting paper money
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn83032231:00237287472:1878061501:0330/pct:315.48323471400397,284.11467116357505,55.62130177514793,9.173693086003373/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn83032231:00237287472:1878061501:0330/pct:78.90971879625062,71.02866779089376,13.912185495806611,2.2934232715008434/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -575,7 +575,7 @@ emitting paper money. I cannot give up my
 hopes, however, that we shall ere long adopt  
 a more just and liberal system of policy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415669197:1878070901:0215/pct:46.92118226600985,177.8340890904241,28.817733990147783,10.936249666577755/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415669197:1878070901:0215/pct:15.645649008847576,59.27802969680804,9.609138761339455,3.645416555525918/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -606,7 +606,7 @@ ver foolish and wicked plans of emitting paper money. I
 cannot gives up my hopes, however, that we shall ere long  
 adopt a more just and liberal system of boliey
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:00271744043:1878101701:0214/pct:8.976063829787234,196.844913583111,46.492686170212764,9.29126551444148/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:00271744043:1878101701:0214/pct:2.992021276595745,65.61497119437034,15.49756205673759,3.0970885048138266/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -626,7 +626,7 @@ very foolish and wicked plans of emitting paper money. I
 cannot gives up my hopes, however, that we shall ere long  
 adopt a more just and liberal system of nolicy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:00271744043:1878101701:0216/pct:8.379327646763674,197.23667476008788,46.780398059876234,8.440282113539137/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:00271744043:1878101701:0216/pct:2.793109215587891,65.74555825336262,15.593466019958745,2.8134273711797126/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -645,7 +645,7 @@ emitting paper money. I cannot give up my hopes,
 however, that we shall ere long adopt a more just  
 and liberal system of policy.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558391:1878101701:0391/pct:118.83495145631068,296.8810165575664,48.737864077669904,7.393145937620331/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558391:1878101701:0391/pct:29.73038620354627,74.2202541393916,12.1933446684479,1.8482864844050828/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -666,7 +666,7 @@ my opinion, falling into the very foolish and
 wicked plans of emitting paper money. I  
 cannot give up my hopes, however, that w
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340688:1878101701:0379/pct:39.44687045123727,14.406991260923846,10.96555070354197,3.545568039950062/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340688:1878101701:0379/pct:39.440491591203106,14.40519285981775,10.967820181112549,3.5482461615278993/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -687,7 +687,7 @@ plan of emitting paper money. I cannot give up
 my hopes, however, that we shall ere long adopt  
 a more just and liberal system of policy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777675:1878102301:0397/pct:227.19614921780988,221.65942165942167,67.14801444043322,15.346815346815347/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777675:1878102301:0397/pct:56.79903730445247,55.41485541485542,16.787003610108304,3.836703836703837/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -740,7 +740,7 @@ my opinion, falling into the very lool­
 ish and wicked plans of emitting paper  
 money. I cannot give up my hopes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85026455:0020219803A:1878102601:0107/pct:48.523835319609965,15.705622366121904,17.510834236186348,4.943981909754343/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85026455:0020219803A:1878102601:0107/pct:32.36250338661609,10.473841093637578,11.67705228935248,3.2994141227258713/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -759,7 +759,7 @@ of emitting paper money. I cannot give up my
 ^hopes&#x27;, however, that we shall ere long adopt a  
 more just and liberal system of policy.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348720:1878103101:0567/pct:17.3943661971831,35.43988462042743,10.862676056338028,1.468467287268913/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348720:1878103101:0567/pct:17.391304347826086,35.43523859465129,10.865164583700054,1.4715521761929733/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -810,7 +810,7 @@ not be altogether so expedient as some
 Bttle deviation in favor of the modern  
 estma. I think a modern in an an-­
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kiss_ver01:data:sn85038614:00175031182:1895072801:0206/pct:5.695228322216521,284.42258140079645,41.74790490850008,13.363785429843055/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kiss_ver01:data:sn85038614:00175031182:1895072801:0206/pct:1.8984094407388403,94.80752713359881,13.915968302833361,4.4545951432810185/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

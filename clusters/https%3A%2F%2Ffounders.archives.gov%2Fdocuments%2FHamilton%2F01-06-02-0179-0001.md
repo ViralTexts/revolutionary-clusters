@@ -50,7 +50,7 @@ Sec. 37. And zu/iereas, By an ast entitled, &quot; An ast for laying
 a duty on goods, wares and merchandizes imported into the United  
 States,&quot; it is provided, That there (hall be allowed or paid fiv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789093001:0004/pct:70.72753209700429,77.92282587828758,23.794579172610558,3.8203110001919756/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789093001:0004/pct:70.73466476462197,77.93242464964484,23.787446504992868,3.8299097715492416/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -72,7 +72,7 @@ adminiltering certain oths.
 2. An ast for laying a duty on goods, wares and  
 merchandizes, imported into the United States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789100301:0003/pct:31.452331452331453,33.96873808616088,25.868725868725868,6.32863133816241/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789100301:0003/pct:31.46718146718147,33.97350362180709,25.853875853875852,6.347693480747236/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -143,7 +143,7 @@ Pepper, pimento, spices in general, and various other kinds of
 groceries. Thrfe articles will bear such additional rates, as may  
 be eft i mated to yield a sum of not less than thirty thousand dollars.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790030601:0002/pct:66.06022584692597,58.45581030766216,28.0426599749059,34.607093866353125/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790030601:0002/pct:66.06022584692597,58.46560846560847,28.081869510664994,34.60219478737997/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -219,7 +219,7 @@ come to hand, is contained in&quot;the fchedulc herewith presented.
 All which is humbly submitted,  
 ALEXANDER HAMILTON, Secretary of the Treasury.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790030601:0003/pct:6.4752596212584,5.0740375123395856,27.5198533903482,40.552813425468905/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790030601:0003/pct:6.490531459987783,5.08390918065153,27.52748930971289,40.552813425468905/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -542,7 +542,7 @@ revenue little thort of twd hundred
 thousand dollars.  
 An additional duty on imported fu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790032401:0561/pct:70.68881289692233,65.38646183389342,20.90864680019541,25.492078732597214/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790032401:0561/pct:70.69695489333985,65.39713020749987,20.933072789447973,25.50274710620366/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -717,7 +717,7 @@ All which is humbly submitted,
 ALEX’r HAMILTON, Se’ry  
 [of the Treasury.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790032401:0562/pct:8.068043742405832,4.309252217997465,42.891859052247874,86.2959442332066/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790032401:0562/pct:8.076144187930336,4.31453316434305,42.89995949777238,86.30122517955218/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1167,7 +1167,7 @@ United State*,&quot; articles of the growth or manufadure of the Uni­
 ted Slates exported to foreign countries and brought back to the  
 Uuitcd States, are fobjeft to duty on theii importationjnto thefai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790092201:0001/pct:9.319213313161876,53.73749264273102,26.626323751891075,3.904257406317442/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790092201:0001/pct:9.3267776096823,53.73749264273102,26.626323751891075,3.9189719442809494/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

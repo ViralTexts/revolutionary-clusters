@@ -1604,7 +1604,7 @@ draught, and make fat thy bones: and thou shv
 be like a watered garden, and like a spring of rs&#x27;&#x27;&quot;  
 whose waters fail not. And they that shall b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_kirby_ver02:data:sn83025661:00202197371:1838082901:0406/pct:112.65281173594133,105.18049950921584,19.238997555012226,12.062384120405715/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_kirby_ver02:data:sn83025661:00202197371:1838082901:0406/pct:84.50252177900046,78.88537463191187,14.442916093535075,9.052241247682408/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1694,7 +1694,7 @@ thou shalt be like a watered garden, and like a spring of
 water, whose waters fail not,  
 12 And they that $hall be of thee shall build the ol
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_green_ver02:data:sn84022687:00202199240:1839011901:0003/pct:57.06521739130435,113.32653655694727,23.494983277591974,10.836003495484999/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_green_ver02:data:sn84022687:00202199240:1839011901:0003/pct:42.8183148651474,84.99854354791728,17.624921597323855,8.127002621613748/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1739,7 +1739,7 @@ Then every word of history, front the crea
   
 tion of man down to the present moment 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_fennal_ver01:data:sn83025661:00415628882:1839022001:0088/pct:68.71875,73.69569962890199,41.453125,52.892381576075095/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_fennal_ver01:data:sn83025661:00415628882:1839022001:0088/pct:51.57104892918556,55.271774721676486,31.108332030639364,39.67474350578476/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1992,7 +1992,7 @@ creating a cruel prejudice against the color of the
 bondmen,-against the condition and menial ser­  
 vice of the bondmen, and the race to which they be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1842011001:0460/pct:262.890625,38.68005738880918,113.4375,333.428981348637/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1842011001:0460/pct:65.76118819620872,9.670014347202295,28.376001563416064,83.35724533715926/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2247,7 +2247,7 @@ shalt cry, and he shall say, Here I am.”
 Oth chapter, verses 20, 21, 22, 23.  
 “ And while 1 was speaking, and praying
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517013547:1847071601:0151/pct:64.07958415486647,45.38910770066549,14.196092489693493,3.7892163520304223/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517013547:1847071601:0151/pct:64.06810035842294,45.382944052145575,14.198028673835125,3.7920966865833785/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2676,7 +2676,7 @@ Lord of Hosts, and all nations shall call
 you blessed, for ye shall be a delightsome  
 land, saith the Lord of Hosts.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:0051701655A:1855110801:0076/pct:42.969666499078265,87.76206112654711,11.949053125523713,6.466279363475625/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:0051701655A:1855110801:0076/pct:42.96246648793566,87.75097865892158,11.951239946380698,6.468619775224145/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2861,7 +2861,7 @@ shalt be like a watered garden, and like a spring
 of wnter, whose waters fail not. And they that  
 shall be or thee, shall build the old waste places
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn83035487:00211100497:1858102301:0889/pct:106.46802325581395,19.207567863997806,18.75,7.581573896353167/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn83035487:00211100497:1858102301:0889/pct:79.86552789387606,14.409103372635043,14.06505542431401,5.689607896901563/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3023,7 +3023,7 @@ peaking vanity.
   
 Proclamntion of the Independence of Swehe behests of the South. If they want Slaver
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn86058541:00202191319:1861010301:0051/pct:29.96389891696751,276.13329852953973,98.82671480144404,37.58809710258418/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn86058541:00202191319:1861010301:0051/pct:7.492665312570526,69.03332463238493,24.712254570074474,9.397024275646045/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3046,7 +3046,7 @@ shall not destroy the fruits of your ground, nei­
 ther shall your vine cast -her fruit before the  
 time in the field, saith tho Lord of hosts,” Go
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517016524:1861012401:0225/pct:16.4956590370955,73.59260592966031,12.328334648776638,4.2611931340775415/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517016524:1861012401:0225/pct:16.493055555555557,73.5837734037446,12.330334595959595,4.263682189150264/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3205,7 +3205,7 @@ and make fat thy bones; and thou shalt be
 like a watered garden, and like a spring of  
 water, whose waters fail not. And they tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn84028083:00280775241:1861092001:0588/pct:16.791604197901048,313.5466900482245,50.07496251874063,33.552535437673534/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn84028083:00280775241:1861092001:0588/pct:4.199475065616798,78.38667251205612,12.523434570678665,8.388133859418383/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3320,7 +3320,7 @@ and he shall say, Here I am; if thou take away
 from the midst of thee the yoke, the putting  
 forth of the finger, and speaking vanity.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_braniff_ver01:data:sn82014760:00237288890:1862032101:0288/pct:191.2488605287147,225.7199069933822,49.498632634457614,19.674476837774996/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_braniff_ver01:data:sn82014760:00237288890:1862032101:0288/pct:47.834017327861375,56.42997674834555,12.38030095759234,4.918619209443749/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3362,7 +3362,7 @@ heretofore drawn upon.
 The steamer Rhode island arrived from Key  
 West yesterday evening, with the mails, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_braniff_ver01:data:sn82014760:00237288890:1862032101:0288/pct:141.02096627164997,251.18941155428368,100.45578851412944,51.22518333035235/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_braniff_ver01:data:sn82014760:00237288890:1862032101:0288/pct:35.27131782945737,62.79735288857092,25.125398996808027,12.806295832588088/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3433,7 +3433,7 @@ nec» staiy fur their preservation, in these solemn
 words, Think not with thyself that thou ebalt  
 escape in tbe king’s house, more than all th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1862090501:0004/pct:54.70213563132259,14.003175978056879,10.153615586361934,8.185361628410567/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1862090501:0004/pct:54.71618583739228,14.014003175978058,10.158298988385162,8.185361628410567/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3515,7 +3515,7 @@ self from thine owo flesh ?—Then shall tbou
 call, and the Lord shall answer; thou shalt  
 cry, and he shall say, Here I am.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414183402:1863112601:0586/pct:18.382087396171904,13.802119168845465,12.712170458649332,4.430989404155772/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414183402:1863112601:0586/pct:18.378768730817836,13.80022014309301,12.714388878859,4.433819482663732/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3645,7 +3645,7 @@ speaking vanity, and if thou draw out thy soul to
 the hungry and satiafy the afflicted soul, then shall  
 thy light rine in obscurity, and thy darkness b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_cobol_ver01:data:sn83030213:00206530777:1864080201:0651/pct:101.23192287091591,249.43647540983608,49.77682556686306,25.422643442622952/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_cobol_ver01:data:sn83030213:00206530777:1864080201:0651/pct:33.7439742903053,83.14549180327869,16.592275188954353,8.474214480874316/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3705,7 +3705,7 @@ Ho wonder the chivalry regard fasting as a
 Puritan custom The Puritan Influences  
 did44 let the oppressed go free and break ever
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_halsted_ver02:data:sn82014064:no_reel:1865030101:0002/pct:12.10019267822736,42.50213007668276,10.211946050096339,5.097983527406987/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_halsted_ver02:data:sn82014064:no_reel:1865030101:0002/pct:12.105009633911369,42.50213007668276,10.221579961464354,5.097983527406987/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3742,7 +3742,7 @@ even unto the least of them. For word came unto
 the king of Nineveh, and he arose-from his throne,  
 and he laid
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024669:00414184765:1865031001:0122/pct:106.34689922480621,16.9638667292351,45.122739018087856,41.189582355701546/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024669:00414184765:1865031001:0122/pct:35.44324237041821,5.653958944281525,15.038484310242747,13.728250244379277/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3840,7 +3840,7 @@ answer. , Ihou shalt cry, and lie shall say;
 Hero I am. And if thou draw out thy soul  
 to the hungry (the freedmen)
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:0028077540A:1866081601:0547/pct:41.14357864357864,51.83041527998842,16.1976911976912,9.839386485313268/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:0028077540A:1866081601:0547/pct:30.87333092746301,38.880046302995225,12.161674485745218,7.379539863984951/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3864,7 +3864,7 @@ ward.&quot;-Verse S.
 shall answer, Thou shalt cry, and  
 He shall say, Here I am.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn85042591:00280774960:1866081701:0753/pct:158.2314881380302,21.424296828246558,86.19698058950395,367.7438659485338/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn85042591:00280774960:1866081701:0753/pct:39.57921237187556,5.356074207061639,21.560870347059883,91.93596648713346/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3931,7 +3931,7 @@ cause thee (with the people) to ride up­
 on the high places of the earth, and feed  
 thee with the heritage of thy fathers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058250:00271744791:1866082301:0119/pct:24.911920140927773,92.70407531277097,16.280093951849675,17.99826582435278/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058250:00271744791:1866082301:0119/pct:18.69309838472834,69.52805648457823,12.21732745961821,13.501796110491762/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3964,7 +3964,7 @@ the people) to ride upon the high pla
 ces of the earth, and feed thee with  
 the heritage of thy fathers.&quot;- Ve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn84024207:00296028022:1866090601:0363/pct:77.3172569706104,275.9978130125752,47.70158251695554,40.732640787315475/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn84024207:00296028022:1866090601:0363/pct:19.33295647258338,68.9994532531438,11.927642736009044,10.183160196828869/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4237,7 +4237,7 @@ in the field, saith the Lord of Hosts. And all na
 tions shall call you blessed, for ye shall be  
 delightsome land, saith the Lord of liosts.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743816:1873012701:0317/pct:9.608717186726102,268.14660654410915,44.692091794617795,17.30835934790149/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743816:1873012701:0317/pct:3.202905728908701,89.38220218136972,14.897363931539266,5.769453115967164/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4344,7 +4344,7 @@ water from the river, and Parker stood
 almost four hundred yards off, at the  
 end of a line of hose, waiting for th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_montpelier_ver01:data:sn84023253:0020029628A:1874051501:0075/pct:145.7557306590258,202.3382045929019,34.76002865329513,41.21085594989562/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_montpelier_ver01:data:sn84023253:0020029628A:1874051501:0075/pct:48.611359971331304,67.44606819763396,11.5929044974019,13.736951983298539/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4507,7 +4507,7 @@ We suggest that our people consider
 house and help swing him up, they would make  
 him tell where the meat was. I declined to hav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dagwood_ver01:data:sn85033995:00294556539:1875052201:0270/pct:90.08,346.005346005346,79.12,38.55063855063855/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dagwood_ver01:data:sn85033995:00294556539:1875052201:0270/pct:22.52,86.5013365013365,19.78,9.637659637659638/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4559,7 +4559,7 @@ delight to the Lord.&quot; Isaiah says, &quot;Then shalt thou
 call, and the Lord shall answer, thou shalt cry, and  
 he shall say, Here I am.&quot; Why, brethren, this i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271743920:1876022101:0560/pct:54.02507423292643,86.86173264486517,47.04717914879578,6.173264486517499/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271743920:1876022101:0560/pct:18.008358077642143,28.953910881621724,15.682393049598593,2.0577548288391663/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4593,7 +4593,7 @@ Thee.&quot;
 &quot;Thou shalt raise up the foundations  
 of many generations and build the ol
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn85026034:00280774996:1876040701:0082/pct:176.15341856586994,125.51602986385595,38.46581434130072,32.14756258234519/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn85026034:00280774996:1876040701:0082/pct:44.056721812873626,31.379007465963987,9.620464340330876,8.036890645586297/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4654,7 +4654,7 @@ And all nations shall call you blessed ; for ye
 shall be a delightsome land, saith the Lord of  
 hosts.&quot; Malachi, 3:10?12
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862762:1876051101:0076/pct:29.69800870367928,70.58241065802503,14.044573387841224,9.775857412908453/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862762:1876051101:0076/pct:29.70680029891424,70.58841179824167,14.048969185458702,9.778857983016772/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4722,7 +4722,7 @@ up the loundations of many generations, and thou shal
 be called the repuirer of the breach, the restorer of  
 paths to dwell in.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271743944:1877031201:0821/pct:104.78854698041798,272.3699421965318,45.779167352311994,13.61849710982659/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271743944:1877031201:0821/pct:34.92951566013932,90.78998073217727,15.259722450770665,4.539499036608863/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4747,7 +4747,7 @@ and he shall say, Here I am.
 If this commandment be adopted  
 thien snoil we keep the Lord&#x27;s Fast
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023296:00200296114:1877032801:0756/pct:124.3202416918429,180.36666233259655,49.244712990936556,28.65687166818359/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023296:00200296114:1877032801:0756/pct:31.091802040045334,45.09166558314914,12.315829240649792,7.164217917045898/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4870,7 +4870,7 @@ tions of many generations; and thou shalt be
 called the repairer of the breach, the restorer of  
 paths to dwell in. Thou shalt delight thyself i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_java_ver01:data:sn83030214:00206531356:1879071201:0527/pct:55.841234131447855,65.88515120625212,48.19219026193154,35.02095367538793/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_java_ver01:data:sn83030214:00206531356:1879071201:0527/pct:18.613744710482617,21.96171706875071,16.064063420643848,11.673651225129309/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4943,7 +4943,7 @@ shall say, Here I ames 18 or .
 Therefore will I look unto the Lord;  
 I will wait for the God of my salvation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_montpelier_ver01:data:sn84023253:00200296291:1880030501:0666/pct:16.071428571428573,37.55564548765682,33.10309973045822,7.203561311210036/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_montpelier_ver01:data:sn84023253:00200296291:1880030501:0666/pct:5.359851677060509,12.518548495885607,11.03994606438564,2.401187103736679/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5053,7 +5053,7 @@ verses.
 ing, and confessing my sin and the Bin of  
 my people Israel, and presenting my sup
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn89053987:00414184455:1881120701:0396/pct:28.204206363472945,75.40861812778603,17.09509257594823,7.825656265477959/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn89053987:00414184455:1881120701:0396/pct:28.199137311286844,75.39928191160084,17.09801102324467,7.828814328752425/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5363,7 +5363,7 @@ will rebuke the devourer for your sakes, and he shall
 not destroy the fruits of your ground.&quot; Brethren,  
 whether you are Methodist, Baptist, Presbyterian o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:00414210181:1886100101:0265/pct:34.34522188946365,44.55320798604381,14.688265722842363,2.03527815468114/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:00414210181:1886100101:0265/pct:34.34522188946365,44.55320798604381,14.706416190216897,2.0449699554177165/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5398,7 +5398,7 @@ ee ee a ttere lod cotth the
 ye shall be a delightsome fnt sute  
 Lord of Hosts.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_ferrari_ver02:data:sn86088181:00200296953:1886112501:0334/pct:119.48558067030397,123.83455526352192,50.42868277474669,45.649467422880065/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_ferrari_ver02:data:sn86088181:00200296953:1886112501:0334/pct:29.871395167575994,30.95863881588048,12.607170693686673,11.412366855720016/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5433,7 +5433,7 @@ amt thy darkness be as noonday ; - -
 and thou shalt be like a watered gar­  
 den.’’ Avoid worrits and difficulties
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_norman_ver02:data:sn85032037:0022072041A:1887072301:0002/pct:32.01034063260341,70.23988005997002,16.9860097323601,7.430659670164918/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_norman_ver02:data:sn85032037:0022072041A:1887072301:0002/pct:32.02047850770479,70.23988005997002,16.975871857258717,7.436906546726637/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5470,7 +5470,7 @@ shall not destroy the fruits of your ground;
 neither shall your vine east her fruit be­  
 fore the time in the field, saith the lair
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016135:1888012601:0220/pct:30.983963571569987,61.774647887323944,12.156008711146308,6.267605633802817/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016135:1888012601:0220/pct:30.977830562153603,61.76594845796367,12.158551068883611,6.270243627658076/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5576,7 +5576,7 @@ fore the time in the field, saith the Lord
 of Hosts.” Mai. 3 :10.  
 “Give, and it shall be given unto you
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016135:1888122001:0408/pct:79.51429690560126,45.74408117249155,12.142577359968664,15.346674182638106/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016135:1888122001:0408/pct:79.49872723712551,45.7376356206848,12.145094967691405,15.34803438072425/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5746,7 +5746,7 @@ bones; and thou shall be like a watered
 garden, and like a spring of water whose  
 waters fail not.&quot; Verily we are only stew
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_orwell_ver01:data:sn86071719:00280777705:1892040601:1246/pct:19.9288256227758,68.99248120300751,58.629893238434164,44.27067669172932/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_orwell_ver01:data:sn86071719:00280777705:1892040601:1246/pct:4.984423676012461,17.24812030075188,14.663996439697375,11.06766917293233/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5775,7 +5775,7 @@ drought, and make fat thy bones; and thou
 shall be like a watered garden, and like a  
 spring of water, whose waters fall not.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777109:1892040701:0762/pct:68.46095526914328,93.91199517781796,48.90068233510235,22.543701024713684/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777109:1892040701:0762/pct:17.124976294329603,23.47799879445449,12.232125924521146,5.635925256178421/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5806,7 +5806,7 @@ drought, and make fat thy bones: and thon
 shall be like a watered garden, and like a  
 spring of water, whose waters fail not.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jay_ver01:data:sn97067613:00202197309:1892040701:0252/pct:11.96513470681458,21.971739833890627,12.242472266244057,6.967964620860749/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jay_ver01:data:sn97067613:00202197309:1892040701:0252/pct:8.984013740256309,16.481501456153598,9.182190513938433,5.231366627116816/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5834,7 +5834,7 @@ drought, and make fat thy bones; and thou
 shall be like a watered garden, and like a  
 spring of water, whose waters fail not
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn93063557:00280777870:1892040801:0960/pct:12.190812720848056,171.82969632229512,58.03886925795053,21.54738287807111/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn93063557:00280777870:1892040801:0960/pct:3.0490499337163057,42.95742408057378,14.516129032258064,5.386845719517778/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5856,7 +5856,7 @@ soul in drought, and make fat thy bones; and
 thou shall be like a watered garden, and like a  
 spring of water, whose waters fall no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_montpelier_ver01:data:sn84022639:00200296333:1892040801:0432/pct:78.02294792586055,204.29982568274258,56.22241835834069,14.584543869843115/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_montpelier_ver01:data:sn84022639:00200296333:1892040801:0432/pct:19.51865754029587,51.074956420685645,14.064914992272024,3.6461359674607787/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5888,7 +5888,7 @@ thou shallt be like a watered garden, and
 like a spring of water whose waters fail  
 not.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_dakin_ver03:data:sn84023253:00202196901:1892041401:0398/pct:152.83276450511946,173.03569176440914,56.2457337883959,35.01072014125363/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_dakin_ver03:data:sn84023253:00202196901:1892041401:0398/pct:38.214712408260795,43.258922941102284,14.063833418672129,8.752680035313407/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5913,7 +5913,7 @@ the fruits of your ground ; neither shall
 your vine cast her fruit before the time  
 in the field, saith the Lird of hosts
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016159:1892111001:0386/pct:85.91224018475751,39.416364144093826,11.162432640492687,4.94275342083217/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016159:1892111001:0386/pct:85.89570906292091,39.410861370933965,11.165095247258034,4.945553539019964/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6036,7 +6036,7 @@ fruits of your ground.&quot; The tithe would
 recoguir.e nil as the Lord&#x27;s, and He would  
 see to it boeauso they acknowledged it a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_gary_ver01:data:sn87056600:00202191538:1893061401:0291/pct:58.69978284473398,102.97319932998325,15.485884907709012,3.056951423785595/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_gary_ver01:data:sn87056600:00202191538:1893061401:0291/pct:44.034206596986564,77.22989949748744,11.619383738292385,2.292713567839196/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6055,7 +6055,7 @@ fruits of your ground.&quot; The tithe would
 recognize all as the Lord&#x27;s, and He would  
 see to it because they acknowledged it a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_rolls_ver01:data:sn85025431:0021247986A:1893061401:0192/pct:37.95072605645293,83.51523419736243,14.047968673519334,2.569349704411096/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_rolls_ver01:data:sn85025431:0021247986A:1893061401:0192/pct:37.96160330668407,83.51523419736243,14.042530048403764,2.576928907078975/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6073,7 +6073,7 @@ your sakes, and he shall not destroy the fri
 of your ground.&quot; The tithe would recogc  
 all as the Lord&#x27;s, and He would see to i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287186:1893061401:0171/pct:29.385764365188233,67.16144993008497,12.238987959152569,1.8715714746692482/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287186:1893061401:0171/pct:29.385764365188233,67.16144993008497,12.249149011837627,1.8787422466028467/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6132,7 +6132,7 @@ the brightness of her rising; the wealth of
 the gentiles shall come unto her, and the na­  
 tion and kingdom that will not serve her shal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn86081895:00280776592:1893061501:0758/pct:305.3494391716997,287.76049310243616,59.01639344262295,48.371000880540066/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn86081895:00280776592:1893061501:0758/pct:76.35382955771306,71.94012327560904,14.757281553398059,12.092750220135017/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6151,7 +6151,7 @@ fruits of your ground.&quot; The tithe would
 recognize all as the Lord&#x27;s, and He would  
 see to it because they acknowledged it a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777110:1893061501:0287/pct:228.49544072948328,335.0941105039466,48.93617021276596,9.714632665452337/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777110:1893061501:0287/pct:57.15643413799658,83.77352762598665,12.241018817715263,2.428658166363084/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6184,7 +6184,7 @@ HOUSEHOLd USE.
 Was originated and first prescribed by  
 An old Family plYsiCia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777110:1893061501:0287/pct:227.8115501519757,68.1845780206436,96.80851063829788,313.41833636915607/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777110:1893061501:0287/pct:56.98536399923969,17.0461445051609,24.215928530697585,78.35458409228902/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6212,7 +6212,7 @@ I And all nations shall call you blessed,
 for ye shall be a delightsome land, saith the  
 Lord of Hosts.&quot; This is Israel&#x27;s restoratio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jamaica_ver01:data:sn93063557:00280777882:1893061601:0188/pct:127.03180212014134,334.5377258235919,57.86219081272085,29.330499468650373/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jamaica_ver01:data:sn93063557:00280777882:1893061601:0188/pct:31.77198409191339,83.63443145589798,14.471939902783916,7.332624867162593/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6253,7 +6253,7 @@ the brightness of her rising : the wealth of
 the gentiles shall come unto her, and the na­  
 tion and kingdom that will not serve her shal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn85035722:00513685178:1893061701:0929/pct:19.785891798891225,70.00398353472315,14.356719556490155,12.016996414818749/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn85035722:00513685178:1893061701:0929/pct:19.78211009174312,69.99468932554434,14.35875382262997,12.018720127456186/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6282,7 +6282,7 @@ truits of your ground.” The tithe would
 recognize all as tho Lord’s, and He would  
 see to it because they acknowledged it a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_ketchup_ver01:data:sn87068192:00279529662:1893062201:0621/pct:3.4924845269672855,83.34328358208955,14.367816091954023,2.462686567164179/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_ketchup_ver01:data:sn87068192:00279529662:1893062201:0621/pct:3.4917127071823204,83.33084614236681,14.370165745856353,2.466049843306969/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6299,7 +6299,7 @@ la. And all nations shall call you blessed,
 for ye shall be a delightsome land, saith the  
 Lord of Hosts.” This is Israel’s restoratio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_ketchup_ver01:data:sn87068192:00279529662:1893062201:0621/pct:3.4482758620689653,89.38805970149254,14.345711759504862,1.3432835820895523/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_ketchup_ver01:data:sn87068192:00279529662:1893062201:0621/pct:3.447513812154696,89.37472019101627,14.348066298342541,1.3468139083718849/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6390,7 +6390,7 @@ Lord of hosts. And all nations shall call
 you blessed ; for ye shall be a delightsome  
 land, saith the Lord of hosts.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016160:1894072601:0327/pct:15.20136131593874,13.241555492478001,22.518434486670447,83.29548680102185/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016160:1894072601:0327/pct:15.198487712665406,13.239676458067263,22.51890359168242,83.28721441748262/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6421,7 +6421,7 @@ shall your vine cast her fruit before the
 time in the field, saith the Lord of hosts.”—  
 Mala chi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016160:1894102501:0380/pct:49.44635357006491,26.06981981981982,11.168384879725085,7.333896396396397/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016160:1894102501:0380/pct:49.43691544187822,26.066150598170303,11.171025004771902,7.336382828993666/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6449,7 +6449,7 @@ Hosts; and all nations shall call you
 blessed, for ye shall be a delightsome  
 land, saith the Lord of Hos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_hornacek_ver01:data:sn83045555:206539744:1894112601:0043/pct:60.618556701030926,104.88721804511279,37.422680412371136,19.229323308270676/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_hornacek_ver01:data:sn83045555:206539744:1894112601:0043/pct:20.211394689352925,34.962406015037594,12.477442639855633,6.409774436090226/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6496,7 +6496,7 @@ waters fail not. And they that shall be
 of thee shall build the old waste places,  
 thou shalt raise up the foundations o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_jackinthepulpit_ver01:data:2017270204:00279527768:1894122001:0279/pct:84.3956953642384,30.526741209753467,19.08112582781457,22.68624545332076/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_jackinthepulpit_ver01:data:2017270204:00279527768:1894122001:0279/pct:63.333333333333336,22.901791728411695,14.306418219461698,17.01468408999057/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6520,7 +6520,7 @@ Garfield Company to put a full car-load
 of coal into the pile on his account,  
 and it has been done
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ditto_ver02:data:sn87058308:00279529066:1895012401:0310/pct:31.188988676298322,68.31362384578001,8.395158141351034,3.9688968086829743/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ditto_ver02:data:sn87058308:00279529066:1895012401:0310/pct:31.19224261356241,68.31902370538366,8.395158141351034,3.9688968086829743/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6547,7 +6547,7 @@ Lord of hosts. And all nations shall call
 you blessed: for ye shall he a delight*  
 some land, saith the Lord of hosts.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016172:1895040401:0057/pct:37.85700594211232,78.9101203113942,11.251677209124018,6.978060863411182/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016172:1895040401:0057/pct:37.84975086239939,78.89895273138976,11.25431199693369,6.980611378431927/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6579,7 +6579,7 @@ forth speedily; and thy righteousness
 shall go before the; the glory of the Lord!  
 shall be thy reward
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn84020639:00340583206:1895060201:0595/pct:20.146048109965637,59.155388879830426,14.325601374570446,8.120006522093592/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn84020639:00340583206:1895060201:0595/pct:20.141722138715913,59.145745027714376,14.32789349366545,8.12275839582654/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6626,7 +6626,7 @@ and all nations shall oall you blessed, for
 ye shall be a delightsome land, said the  
 Lord of Hosts.” Malachi 3 : 10 to 12
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016172:1895070401:0108/pct:50.351644174111385,36.90036900369004,11.02452005322182,5.91825149020721/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016172:1895070401:0108/pct:50.34207525655644,36.89513268057329,11.027175978715317,5.920959273449695/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6655,7 +6655,7 @@ tions shall call you blessed, for ye
 shall be a delightsome land, said tLe  
 Lord of Hosts.” Malaehi 3:10 to 12
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00542865982:1895100301:0109/pct:23.127941805733848,71.4264619019492,13.756953359007275,9.214412285883048/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00542865982:1895100301:0109/pct:23.122994652406415,71.4159161376052,13.759358288770054,9.216742949948324/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6697,7 +6697,7 @@ Mat. 3-12: &quot;And all nations shall call
 you blessed, for ye shall be a delight­  
 some land, said the Lord of hosts.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_jackrabbit_ver02:data:sn84036012:00294550392:1895112901:0346/pct:16.41355140186916,169.7194719471947,43.16588785046729,8.292079207920793/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_jackrabbit_ver02:data:sn84036012:00294550392:1895112901:0346/pct:5.471183800623053,56.57315731573157,14.388629283489097,2.764026402640264/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6761,7 +6761,7 @@ and thou shalt be like a watered garden
 and like a spring of water whose waters  
 fail not. And thou shalt be of thos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_griffith_ver01:data:sn83045555:206534758:1896120501:0101/pct:79.25373134328358,31.526479750778815,34.02985074626866,32.33644859813084/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_griffith_ver01:data:sn83045555:206534758:1896120501:0101/pct:26.43764002987304,10.508826583592938,11.35175504107543,10.778816199376948/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6811,7 +6811,7 @@ the true followers of Christ, who re-­
 ceived from their Master this warning:  
 When ye fast, be not as the hyp
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_griffith_ver01:data:sn83045555:206534758:1896120501:0103/pct:156.63064833005893,194.94762784966113,34.11100196463654,49.72273567467653/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_griffith_ver01:data:sn83045555:206534758:1896120501:0103/pct:52.210216110019644,64.9825426165537,11.370333988212181,16.574245224892174/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6847,7 +6847,7 @@ Lord of hosts. And all nations shall
 ll you blessed, for ye shall be a de  
 lightsome land, saith the Lord of host
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_griffith_ver01:data:sn83045555:206534710:1897112701:0044/pct:70.64047362755652,33.436724565756826,37.459634015069966,27.853598014888338/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_griffith_ver01:data:sn83045555:206534710:1897112701:0044/pct:23.553162853297444,11.145574855252274,12.489905787348587,9.284532671629446/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6952,7 +6952,7 @@ the fruits of your ground .neither shall
 your vine cast her fruit before the time  
 in the field saith the Lord of hosts
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_douglas_ver01:data:sn84029671:00212473303:1899062301:0349/pct:62.045959970348406,15.916603101957794,24.759080800593033,6.013221459445716/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_douglas_ver01:data:sn84029671:00212473303:1899062301:0349/pct:41.3869831262748,10.61530638189677,16.521416651214537,4.004576659038902/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6999,7 +6999,7 @@ thy house? When thou seest the
 naked thou cover him; and that thou  
 hide not thyself -from thine own flesh.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_frisco_ver01:data:sn86090439:00517175092:1899091301:0105/pct:36.89340962068235,74.94649736053645,14.303877940241577,3.124554144671137/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_frisco_ver01:data:sn86090439:00517175092:1899091301:0105/pct:36.89340962068235,74.95363104579826,14.319771137952957,3.1174204594093307/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7076,7 +7076,7 @@ It for nil.
 for ye shall be a delightsome land, saith  
 the Lord of Hosts.&quot; This Is yet to b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_aluminum_ver01:data:sn87060004:0017504615A:1899120701:0679/pct:43.13725490196079,91.19621002763522,13.894523326572008,3.316225819186735/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_aluminum_ver01:data:sn87060004:0017504615A:1899120701:0679/pct:32.36935565702689,68.40373733385972,10.4346355487908,2.487169364390051/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7096,7 +7096,7 @@ it for all.
 for ye shall be a delightsome land, saith  
 the Lord of Hosts.” This is yet to b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_ketchup_ver01:data:sn87068192:00279529698:1899120701:0805/pct:36.21119419895763,80.37139349294046,14.63856786766372,3.0386740331491713/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_ketchup_ver01:data:sn87068192:00279529698:1899120701:0805/pct:36.20299048482102,80.35906091760012,14.640915269596738,3.0420438852232623/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7114,7 +7114,7 @@ the Lord of Hosts.” This is yet to b
 for ye shall be a delightsome land, suit  
 the Lord cf Hosts.” This is yet to b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_furio_ver01:data:sn85035816:00332896593:1899120801:0400/pct:5.221427190098627,78.9022796573254,12.396054921678592,1.3794104835196748/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_furio_ver01:data:sn85035816:00332896593:1899120801:0400/pct:5.220417633410673,78.89082462253194,12.398491879350349,1.3828397212543555/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7165,7 +7165,7 @@ And all nations shall call you
 blessed, for ye shall be a delightsome  
 land, saith the Lord of Host
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_iavaroni_ver01:data:sn83045555:206534692:1899122301:0373/pct:148.25757575757575,53.31893165750196,36.28787878787879,22.093479968578162/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_iavaroni_ver01:data:sn83045555:206534692:1899122301:0373/pct:49.444163719050024,17.77297721916732,12.102071753410813,7.364493322859388/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

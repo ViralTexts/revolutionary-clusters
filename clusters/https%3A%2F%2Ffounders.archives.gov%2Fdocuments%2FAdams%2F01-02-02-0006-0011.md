@@ -216,7 +216,7 @@ of John Adams and His wife Abigail Adams,&quot; during the
 Revolution, with a memoir of the latter by Charles  
 Francis Adams: &quot;The German Element in the War o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:0020653123A:1875122201:0647/pct:52.60087506076811,173.2460672867149,48.63069194619997,6.280858881616719/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:0020653123A:1875122201:0647/pct:17.533625020256036,57.74868909557163,16.210230648733322,2.0936196272055727/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -233,7 +233,7 @@ to cry for it. This firm has now ready the &quot;Familiar
 Letters of John Adams and His Wife, Abigail Adams,  
 During the Revolution, with a Memoir of Her,&quot; b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:00271743919:1875122301:1065/pct:201.00494233937397,130.7844276583382,45.667215815485996,3.986054619407321/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:00271743919:1875122301:1065/pct:67.001647446458,43.594809219446056,15.222405271828666,1.3286848731357739/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

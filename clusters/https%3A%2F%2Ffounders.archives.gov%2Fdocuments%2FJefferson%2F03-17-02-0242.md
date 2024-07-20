@@ -196,7 +196,7 @@ filth of November in the year of of
 Lord one thousand eight hundred and  
 five e 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477837:1859011201:0253/pct:65.14084507042253,257.934218118869,62.41197183098591,28.39007501442585/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477837:1859011201:0253/pct:16.295970050649636,64.48355452971725,15.613301035014315,7.097518753606463/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -274,7 +274,7 @@ tion to be void, or else to remain in full
 force and virtue.&quot;  
 This document is signed by Richard Ba
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:0028077473A:1867030601:0541/pct:129.77139819245082,201.41021926011783,49.069643806485914,7.3408673814353325/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:0028077473A:1867030601:0541/pct:32.442849548112704,50.35255481502946,12.267410951621478,1.8352168453588331/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -319,7 +319,7 @@ obligation to be void, or else to remain in full
 force and virtue.  
 signed and sealed in presence o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_braniff_ver01:data:sn86053573:00294558317:1874050801:0227/pct:154.61432506887053,204.47415788120338,42.768595041322314,8.588326047827206/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_braniff_ver01:data:sn86053573:00294558317:1874050801:0227/pct:38.66023764422249,51.118539470300846,10.693990012054417,2.1470815119568014/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -351,7 +351,7 @@ severally, firmly by these presents.
 Sealed with my seal and dated this  
 6th day of May 1825. The conditio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dorothea_ver01:data:sn86063984:00200292819:1876122001:1459/pct:95.2076677316294,255.26965103983082,68.58359957401491,45.75255551639055/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dorothea_ver01:data:sn86063984:00200292819:1876122001:1459/pct:23.820943245403676,63.817412759957705,17.15960564881428,11.438138879097638/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

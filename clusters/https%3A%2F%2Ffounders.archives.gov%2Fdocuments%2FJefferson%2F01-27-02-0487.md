@@ -142,7 +142,7 @@ E it enacted by the Senate and House of Reprcfental.ives of
 the purpose of effecting a recognition of the treaty of the United  
 States, with the new Emperor of Mo»occo, there be, and hereb
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791031601:0004/pct:10.222222222222221,43.774647887323944,28.22222222222222,10.666666666666666/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791031601:0004/pct:10.238095238095237,43.78403755868545,28.23015873015873,10.671361502347418/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -438,7 +438,7 @@ ward during th.&#x27; oomiriuanoe ol the treaty, would the Sen­
 ate approve the same 1  
 O. WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661204:1852031101:0247/pct:32.21353733577249,75.58199027884369,16.01530018293697,3.338449731389102/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661204:1852031101:0247/pct:32.21908088031487,75.58199027884369,16.02638727202173,3.342713396435576/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -498,7 +498,7 @@ exceeding forty thousand dollar,, all expend included
 that the Senate w.ll also approve such convention or  
 treaty.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1852120401:0427/pct:3.459915611814346,75.71846871272096,16.11814345991561,18.967574015833424/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1852120401:0427/pct:3.459915611814346,75.72569858655966,16.122831692451946,18.967574015833424/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

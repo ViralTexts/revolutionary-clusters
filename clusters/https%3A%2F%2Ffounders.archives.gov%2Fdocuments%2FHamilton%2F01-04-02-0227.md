@@ -128,7 +128,7 @@ vacancies that may happen during, the receft of &quot;of foreign pbint out the e
 the fenafe, by granting cummiflions which (hall &quot; five as the most fit agent in thofc trahfaili­  
 • expire at the end of theNne*t The ons : whilst the vast importance of the trufl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793082801:0001/pct:26.09346914319952,17.530340974764016,40.8627920910725,7.416682720092468/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793082801:0001/pct:26.115937687237867,17.544789057984975,40.87028160575195,7.416682720092468/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -272,7 +272,7 @@ are made to feel their accountability to
 the publick, and their obligation to bring  
 their measures of state within the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83020243:00517172194:1830011201:0297/pct:54.65382851902797,70.55223257754903,21.3663457129757,16.316594797607454/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83020243:00517172194:1830011201:0297/pct:42.363044122001774,54.682334339514156,16.564998519395914,12.649130372286905/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -292,7 +292,7 @@ force of law, but derive it from /&#x27;e
 ; obligations of good faith.&quot;— [Federate  
 list, No. i5. i He reckoned, as a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_topsn83020874_ver01:data:sn83020874:print:1830021001:0001/pct:72.96718972895863,36.64723491413266,16.119828815977176,4.127934457223885/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_topsn83020874_ver01:data:sn83020874:print:1830021001:0001/pct:72.98502139800286,36.65905152040334,16.119828815977176,4.131873325980778/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -333,7 +333,7 @@ be made. Of those who espouse this objection, a
 tiv-s ought to have been associated in the busi­  
 1 ncss.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1845013001:0056/pct:58.06890299184044,36.201780415430264,13.977032336053188,2.9482147985067484/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1845013001:0056/pct:58.06890299184044,36.20816183274305,13.982069104462576,2.9482147985067484/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -389,7 +389,7 @@ nor to the Executive.&quot;
 Now, with the lights derived from this authoritative  
 definition of treaties and the treaty-making power, Mr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347909:1845022701:0241/pct:204.35550323719835,160.23072252580448,60.9181871689229,43.973891924711594/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347909:1845022701:0241/pct:51.07885445272656,40.051601153437545,15.226559435072577,10.99180452268933/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -505,7 +505,7 @@ finition of treaties and the treaty-making power, Mr. R.
 turned to the joint resolution which had been received from  
 the House of Representatives, and he would inquire whet
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845030301:0182/pct:12.468680913780398,50.634384821324645,38.791451731761235,25.9573972762193/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845030301:0182/pct:4.155614500442087,16.876163873370576,12.928578445819825,8.651458721291123/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -734,7 +734,7 @@ concurrence of the House in its revenue func­
 tion. In the Ashburton treaty Maine lost a  
 portion ot her territory, and the prerogativ
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524652:1869120201:0192/pct:18.860648553900088,47.39405106607002,12.953549517966696,13.858910239536721/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524652:1869120201:0192/pct:18.857343147563967,47.387814186077115,12.955660708026638,13.860376365311225/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -816,7 +816,7 @@ prospect of security than the separate posses­
 sion of it by either.&quot;  
 That the treaty making power was intende
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:0017504291A:1897022701:0747/pct:232.05814843152257,329.65895249695495,50.65034429992349,13.520097442143728/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:0017504291A:1897022701:0747/pct:58.01453710788064,82.41473812423874,12.662586074980872,3.380024360535932/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

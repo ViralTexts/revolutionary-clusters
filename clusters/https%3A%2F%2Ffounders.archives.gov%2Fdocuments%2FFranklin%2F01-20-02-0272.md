@@ -296,7 +296,7 @@ TUESDAY. March 6.
 BOSTON.  
 Lail Saturday die House of Representative
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1774031001:0546/pct:33.85930309007232,4.314544189283229,55.64321718167872,118.87265135699374/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1774031001:0546/pct:26.241295363188588,3.347355553158595,43.14102927022589,92.13317513393018/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -334,7 +334,7 @@ his Hands on them, thought it his Duty to transmit them to
 his Constituents., B. FRANKLIN, Agent for  
 the House of Representatives of the Massachusetts- Bay
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774031101:0208/pct:64.91038652558842,17.32249786142002,26.106672424962213,16.181921870544624/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774031101:0208/pct:64.91758439501908,17.332002661343978,26.11387029439286,16.191426670468587/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -362,7 +362,7 @@ chief caution with regard to privacy was only
 to keep their contents from the Colony Agents.  
 To this letter, of theirs inclofing said copies, w
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1774040701:0563/pct:39.85475352112676,24.746906636670417,27.244718309859156,13.329583802024747/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1774040701:0563/pct:30.886867538374077,19.18634217217581,21.114269471290505,10.330548492553579/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -494,7 +494,7 @@ tranfmit them to his ccrtftitucn
 Or. Franklinls conduct on this occafion  
 ver his enemies may have (&quot;aid t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800111001:0004/pct:8.367693427116178,53.401969561324975,21.343681785107933,25.305878842136675/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800111001:0004/pct:8.367693427116178,53.411916840744055,21.343681785107933,25.305878842136675/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

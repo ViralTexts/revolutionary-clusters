@@ -139,7 +139,7 @@ ItiS •&#x27;*! r&#x27;&quot;,llo&quot;&#x27;« Memoirs, Mrs. Macuidey&#x27;s m
 Belknap s lilsturies. il Stiflirienl view will be present­  
 ed ol tin. lieu principles ot the English cons:i(ii&#x27;ion.’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1822011001:0304/pct:21.38607493166104,41.81119776510302,15.29184756391703,22.186008613665464/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1822011001:0304/pct:21.382636655948552,41.80633147113594,15.294748124330118,22.187306021104902/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -288,7 +288,7 @@ they do not themselves. It seems to escape
 them, that it is not he who prints, but lie who  
 pays for printing, a slander, who is its real au
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216365:1826091201:0092/pct:5.455274769354192,5.388160226869904,37.95962027008959,91.18220489188231/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216365:1826091201:0092/pct:5.454545454545454,5.387682764731945,37.959001782531196,91.17707871806232/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -419,7 +419,7 @@ in the possibility that some mat believe them,
 &#x27;Inin, that is is not |l(. who prints, but he who  
 pays for printing, a slander, w ho is its re*l author
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826092901:0173/pct:80.14790468364832,25.15625,15.875102711585868,60.30048076923077/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826092901:0173/pct:80.13473545842918,25.153226775627928,15.877971300251945,60.29723991507431/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -966,7 +966,7 @@ believed, which is seen in a newspaper. Truth
 itself becomes susjriciotts, by being put into that  
 political vehicle. I deplore
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215762:1845082701:0536/pct:38.96685577784413,55.57207542069338,14.471981686075445,3.8588903156045142/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215762:1845082701:0536/pct:38.96297770700637,55.56832004324909,14.47385881104034,3.8608821011848447/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -984,7 +984,7 @@ aliment induces. But, after all, tl.ere is nothing new in the
 present tendency of a portion of the press to feed and live  
 upon defamation. Referring to this subject in 1807, Mr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854043001:0625/pct:37.99155021124472,20.319693094629155,15.42086447838804,2.544757033248082/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854043001:0625/pct:37.99155021124472,20.32821824381927,15.426281009641425,2.5404944586530265/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1008,7 +1008,7 @@ they do not themselves. It seems tu itrajtt than that it u not
 As trAo jirinlt, but he who jinyu fur printing a dander, uho w  
 tVs real author 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854043001:0625/pct:37.99155021124472,24.04092071611253,15.5833604159896,4.961636828644501/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854043001:0625/pct:37.9969667424981,24.049445865302644,15.5833604159896,4.961636828644501/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1094,7 +1094,7 @@ themselves. It seems to escape them, that it j
 ir not he who prints, but be woo pa\&gt; lor  
 printing a slander, who is its real author
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215920:1854110301:0358/pct:6.961241786496524,15.64923163682504,13.017807827825921,34.5622444663753/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215920:1854110301:0358/pct:6.960578937345268,15.648128568407698,13.019742271313401,34.56215784403562/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1178,7 +1178,7 @@ ed, which ia aeon m u newspaper Truth *
 itself become* suspicious, being put in auch | o  
 a polluted vehicle. | C
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_irmookrastrut_ver01:data:sn84026900:00295862646:1857040101:0265/pct:43.247635933806144,4.3836251884494954,27.497044917257682,92.41563261046039/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_irmookrastrut_ver01:data:sn84026900:00295862646:1857040101:0265/pct:43.252561071710005,4.387490819127141,27.501970055161543,92.41949824113804/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1250,7 +1250,7 @@ that its sanctity is not invaded by the press;
 no character too pure or too influential to es­  
 cape tho misrepresentations of the press ; n
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn84026881:00279557268:1859080301:0652/pct:22.104085058757693,22.76989016876507,14.344338742771871,7.3801232252879725/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn84026881:00279557268:1859080301:0652/pct:22.118074986010072,22.779935708545406,14.344338742771871,7.373426198767747/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1319,7 +1319,7 @@ reads them, inasmuch as he who knows nothing is nearer
 the truth than he whose mind is filled with falschoods  
 and errors.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743373:1861030901:0599/pct:12.797667260651224,79.1596449837097,46.76818402721529,12.616559937085722/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743373:1861030901:0599/pct:4.265889086883741,26.38654832790323,15.589394675738431,4.2055199790285736/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1446,7 +1446,7 @@ TIIOS. JEFFERSON
 
 ---
 
-## [From _The Continental monthly_](https://archive.org/details/sim_continental-monthly_1864-02_5_2/page/n3/mode/1up?view=theater)
+## [From _The Continental Monthly; Devoted to Literature and National Policy (1862-1864)_](https://archive.org/details/sim_continental-monthly_1864-02_5_2/page/n3/mode/1up?view=theater)
 
 #### 1864-02-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -1520,7 +1520,7 @@ Truth itself becomes suspicious by its
 being put in that polluted vehicle.  
 This is not wholly true of the press o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_baxter_ver01:data:sn83009653:00279524032:1875081001:0556/pct:98.83013570425831,135.86493506493505,39.46342224301981,13.381818181818181/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_baxter_ver01:data:sn83009653:00279524032:1875081001:0556/pct:32.938240798502804,45.283606897984626,13.152422541068828,4.460142669159914/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1879,7 +1879,7 @@ or evening cannot be d—arted wtthast tfae ctbss­
 test. Even tbo— whodo aot believe the—ribEte­  
 thir audUnrs,and instead of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:fu:batch_fu_frenchfries_ver01:data:sn82015289:00414180553:1880100101:0155/pct:69.75603107537141,64.31630627807375,12.266593975739402,26.418050767784393/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:fu:batch_fu_frenchfries_ver01:data:sn82015289:00414180553:1880100101:0155/pct:69.75603107537141,64.31978829346426,12.280223524601336,26.4215327831749/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1918,7 +1918,7 @@ which is seen in a newspaper. Truth
 itself becomes suspicious by being!  
 put ill that polbitid vehicle.&quot; amf
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_hula_ver01:data:sn91059392:00383348079:1883121301:0033/pct:81.99767711962834,22.06978824932896,11.046586656342754,2.1970374788746394/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_hula_ver01:data:sn91059392:00383348079:1883121301:0033/pct:81.99767711962834,22.06978824932896,11.055189916978534,2.2003512608940583/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1938,7 +1938,7 @@ chapters,heading the 1st.Truths, 2n I,
 Probabilities. 3rd, Possibilities, 4th,  
 Lies. i^ut as 110 one. not even ou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_hula_ver01:data:sn91059392:00383348079:1883121301:0033/pct:81.971867337721,24.336415150611394,10.969157310620725,3.409881697981907/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_hula_ver01:data:sn91059392:00383348079:1883121301:0033/pct:81.98047059835677,24.336415150611394,10.969157310620725,3.4131954800013253/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1977,7 +1977,7 @@ with falsehoods and errors.&quot;
   
 The indignant Republican then suggest
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_dassel_ver01:data:sn90059522:00175035424:1884081701:0585/pct:15.734784760019792,41.51129633691599,13.145307603496619,12.085983768370257/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_dassel_ver01:data:sn90059522:00175035424:1884081701:0585/pct:15.74028258837759,41.51860788184543,13.145307603496619,12.089639540834979/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2283,7 +2283,7 @@ rors. He who reads nothing will still
 learn the great facts, and the details  
 are. all false.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_mustang_ver01:data:sn99067997:00415625066:1885041001:0125/pct:29.00540990428631,75.01392757660167,18.268830628381192,18.091922005571032/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_mustang_ver01:data:sn99067997:00415625066:1885041001:0125/pct:23.203684181323865,60.01114206128134,14.625755978471952,14.480965645311048/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2324,7 +2324,7 @@ ors. He who reads nothing will still
 learn the great facts, and the deta  
 all false.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_gonne_ver01:data:sn88064428:00202190145:1885041701:0118/pct:160.54502369668248,186.9047619047619,44.54976303317535,45.11904761904762/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_gonne_ver01:data:sn88064428:00202190145:1885041701:0118/pct:53.515007898894154,62.301587301587304,14.849921011058452,15.03968253968254/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2410,7 +2410,7 @@ habitually on slander, and the de­
 pravity of taste which this nauseous  
 aliment induces. ****
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_neely_ver01:data:sn85059778:00340582135:1887061001:0082/pct:22.97919865977942,45.66905615292712,12.341197822141561,50.67702110712863/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_neely_ver01:data:sn85059778:00340582135:1887061001:0082/pct:22.975991066443328,45.66450970632155,12.344128047645636,50.67529450804712/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2435,7 +2435,7 @@ reads them.&quot; The Democrat may have
 this effect on its readers (or all we know,  
 but we really didn&#x27;t think it was quit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_antares_ver02:data:sn84026824:00271767833:1887061701:0510/pct:3.411371237458194,29.73446162824628,11.946488294314381,5.9916350549557436/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_antares_ver02:data:sn84026824:00271767833:1887061701:0510/pct:3.4158305462653287,29.74094608176896,11.950947603121516,5.988392828194404/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2531,7 +2531,7 @@ errors. ^
 learn the great facts, and the details a  
 are all false.&#x27;&#x27; This seems paradox- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_bogoff_ver01:data:sn84026907:00295862373:1896100701:0111/pct:39.080598455598455,27.690836376282384,12.560328185328185,13.406364110589463/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_bogoff_ver01:data:sn84026907:00295862373:1896100701:0111/pct:39.08864221364222,27.693734422998897,12.564350064350064,13.409262157305976/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2566,7 +2566,7 @@ continued:
 Truth itself becomes suspicious by being  
 put into that polluted vehicle
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_annapolis_ver01:data:sn85025350:0041562766A:1897040301:0280/pct:8.836754643206255,9.212417361310722,16.129032258064516,19.114688128772634/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_annapolis_ver01:data:sn85025350:0041562766A:1897040301:0280/pct:6.848484848484849,7.13967476052573,12.505050505050505,14.821415311502191/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2586,7 +2586,7 @@ who reads them, inasmuch as he who knows
 nothing is nearer the truth than he whose  
 mind is tilled with error
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_annapolis_ver01:data:sn85025350:0041562766A:1897040301:0280/pct:8.895405669599217,28.442081057775223,16.050830889540567,3.8660534636389765/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_annapolis_ver01:data:sn85025350:0041562766A:1897040301:0280/pct:6.893939393939394,22.05019677730749,12.454545454545455,2.996212965025618/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2617,7 +2617,7 @@ blank papor they would occupy. Ex­
 change.Money to Loan on Jewelry Furni  
 ture and articles of value, at Welch&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_ferrari_ver02:data:sn86064199:00200296667:1898071401:0713/pct:41.202149093351245,100.01345351809498,16.370047011417057,5.381407237992735/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_ferrari_ver02:data:sn86064199:00200296667:1898071401:0713/pct:30.9151973131822,75.01681689761872,12.275398824517213,4.036055428494551/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2746,7 +2746,7 @@ done by its abandoned prostitution to
 falsehood. Nothing can now be be­  
 lieved which is se?n in a newspaper.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_green_ver01:data:sn91068367:00296024272:1899011701:0031/pct:68.23848238482385,15.058870090036608,18.346883468834687,12.941525675274562/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_green_ver01:data:sn91068367:00296024272:1899011701:0031/pct:51.19273515857956,11.299099633917088,13.770669558145839,9.706144256455921/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

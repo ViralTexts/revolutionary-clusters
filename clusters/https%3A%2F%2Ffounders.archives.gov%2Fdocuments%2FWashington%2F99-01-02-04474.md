@@ -1241,7 +1241,7 @@ dare to Insult them by imagining them traitors; for had
 they thought them virtuous, they would not have carried  
 those overtures.&quot;?7 Sparks, p. 368
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661083:1857010901:0055/pct:7.656723560376456,7.753504230332113,15.329398628170361,5.493117817906302/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661083:1857010901:0055/pct:7.656723560376456,7.753504230332113,15.334715797309512,5.50153638927474/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

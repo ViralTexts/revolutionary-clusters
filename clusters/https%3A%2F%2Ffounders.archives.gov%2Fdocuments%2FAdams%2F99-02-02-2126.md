@@ -76,7 +76,7 @@ whilst at the same time It would afford
 me some aid in a situation I have never  
 been accustomed to.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760584:1897033101:0472/pct:83.26923076923077,46.63481953290871,18.683431952662723,7.845010615711253/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760584:1897033101:0472/pct:55.54240047358295,31.093418259023355,12.461151398549653,5.233545647558387/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -127,7 +127,7 @@ D“]h:Mnk fit to honor e with, whilst
 in &amp; situation 1 have never been acous­  
 tomed to, &quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_efreeti_ver01:data:sn91070630:00514152901:1897041201:1121/pct:4.5806623931623935,60.13986013986014,12.700320512820513,4.842918275754097/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_efreeti_ver01:data:sn91070630:00514152901:1897041201:1121/pct:4.5851139601139606,60.14333924781686,12.704772079772079,4.8463973837108165/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -153,7 +153,7 @@ It would afford me ?ome aid in a situa­
   
 Hon I have never been aecuwoincu w
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_denmark_ver01:data:sn84026844:00202193675:1897042301:0793/pct:34.409276089000315,17.062987838083135,17.51801942964588,5.100744236703576/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_denmark_ver01:data:sn84026844:00202193675:1897042301:0793/pct:34.41711062362896,17.07206389544382,17.549357568160453,5.118896351424941/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -176,7 +176,7 @@ or any other office , whilst at the same time
 It would afford mo some aid In a situation  
 I have never been accustomed to. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_beatrice_ver01:data:sn99021999:00206538958:1897042401:0892/pct:41.901166781056965,62.52354048964219,16.24914207275223,4.936776970675275/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_beatrice_ver01:data:sn99021999:00206538958:1897042401:0892/pct:31.445245451424647,46.89265536723164,12.186749055956058,3.712671509281679/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -205,7 +205,7 @@ J
 some aid in a situation I have never  
 been accustomed t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:206534655:1897052001:0602/pct:74.38095238095238,7.095372027614421,35.41269841269841,142.2909741754027/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:206534655:1897052001:0602/pct:49.60304858685297,4.730248018409614,23.626548110511273,94.86064945026847/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -230,7 +230,7 @@ whilst at the same time it would afford
 | me some aid in a sitnation I have never ’  
 | been accustomed to.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_kokomo_ver01:data:sn90051185:00513681082:1897052101:0060/pct:17.509633911368017,56.63732710616131,12.8131021194605,5.44278785701455/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_kokomo_ver01:data:sn90051185:00513681082:1897052101:0060/pct:17.521676300578033,56.64630860427519,12.80708092485549,5.433806358900664/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -256,7 +256,7 @@ whilst at the same time it would afford
 me some aid in a situation I have never  
 been accustomed to.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_douglas_ver01:data:sn84029671:00212473297:1897052101:0231/pct:65.06600660066006,85.58569979716025,18.26732673267327,8.937626774847871/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_douglas_ver01:data:sn84029671:00212473297:1897052101:0231/pct:43.40432557371636,57.06135902636917,12.184249628528974,5.95841784989858/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -282,7 +282,7 @@ whilst nt the Mime time It would afford
 me some aid In a situntion I have never  
 been nceustomed to.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_gordon_ver01:data:sn89058248:00296020448:1897052101:0240/pct:43.18510484454085,87.11226476314081,15.328994938539408,7.942894224529526/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_gordon_ver01:data:sn89058248:00296020448:1897052101:0240/pct:32.40506329113924,65.33419857235562,11.500904159132007,5.957170668397144/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -307,7 +307,7 @@ honor me with, whilst at the same time
 It would afford me some aid In a situa­  
 tion I have never been accustomed to.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_atherton_ver01:data:sn84026355:00211100217:1897092401:0695/pct:57.02494497432135,25.9391771019678,16.104181951577402,6.825374982798954/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_atherton_ver01:data:sn84026355:00211100217:1897092401:0695/pct:42.79684345751514,19.457823035640565,12.093962194898147,5.1190312370992155/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

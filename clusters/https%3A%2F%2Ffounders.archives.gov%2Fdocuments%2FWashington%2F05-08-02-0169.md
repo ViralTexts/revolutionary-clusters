@@ -162,7 +162,7 @@ rrayen in my behalf, I desire to assure you of my
 best wishes for your social and Individual napplnss.  
 O. Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_hanyu_ver01:data:sn83030193:00206539100:1889050201:0831/pct:59.18836140888208,111.00628930817611,51.454823889739664,18.930817610062892/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_hanyu_ver01:data:sn83030193:00206539100:1889050201:0831/pct:14.799923415661498,27.751572327044027,12.8661688684664,4.732704402515723/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -190,7 +190,7 @@ prayers In mj behalf, I desire to assure you of my
 best wishes for your social and Individual uapplneas.  
 U. Wasuinutok
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_hanyu_ver01:data:sn83030193:00206539100:1889050202:0835/pct:277.63157894736844,222.88055468011345,51.702786377708975,18.72045382918374/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_hanyu_ver01:data:sn83030193:00206539100:1889050202:0835/pct:69.42132765628024,55.72013867002836,12.928198180762532,4.680113457295935/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -231,7 +231,7 @@ wishes for your social and individual
 happiness. -  
 G. Washington.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_frankenbatch_ver01:data:sn92073232:00295879713:1891060401:0510/pct:51.87718277066356,111.27875340093989,14.435389988358557,12.181548355181796/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_frankenbatch_ver01:data:sn92073232:00295879713:1891060401:0510/pct:38.922852983988356,83.46524857778877,10.829694323144105,9.139253029928271/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -270,7 +270,7 @@ Adams, to inform hill) of his el&gt;-cti»n to pre­
 side in this body, aud lo introduce him to the  
 Chutr of ibis Convention
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183955:1820112401:0236/pct:20.265617314313822,48.90917714014702,15.117232333169373,29.70120939056201/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183955:1820112401:0236/pct:20.262295081967213,48.90337877889745,15.120218579234972,29.701639992096425/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -510,7 +510,7 @@ form him of his election to preside in
 this bodv . and &#x27;? &gt; inti oduce mm to the  
 chair of this (&#x27;invention.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1820120601:0140/pct:8.445509865388162,20.64820271066588,18.292458049050342,54.41367118444313/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1820120601:0140/pct:8.451656524678837,20.656059713219406,18.30475136763169,54.41367118444313/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

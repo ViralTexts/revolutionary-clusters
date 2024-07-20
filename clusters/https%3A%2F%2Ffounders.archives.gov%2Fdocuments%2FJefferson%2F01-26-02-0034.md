@@ -131,7 +131,7 @@ chases nf :ti ms lit re may win k noim-qit.iliiy In*.
 t*.v&lt; cn t.l&#x27;o panic* at t*.,tr, Inc liheriy i&lt;*i;; ;ke i  
 ihetit will be oujoyi-d equally by both&#x27;.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:0041418392A:1818010101:0255/pct:51.20551090700344,2.9208580778087505,30.129571920616698,93.1281056841595/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:0041418392A:1818010101:0255/pct:51.197113807805835,2.9205041202132818,30.13009729966109,93.12085958959445/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -339,7 +339,7 @@ ing the ship Grange and her cargo restored
 t the British owners, and the persons takin  
 on board her to be set at liberty
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn85026002:0028077506A:1864112101:0946/pct:13.977485928705441,23.819444444444443,116.69793621013133,350.97222222222223/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn85026002:0028077506A:1864112101:0946/pct:3.4943714821763603,5.954861111111111,29.174484052532833,87.74305555555556/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -381,7 +381,7 @@ asagain*t our government, it is conclusive.— (
 If theiif re, Biaz I&lt;h r*es to stand on the ex &lt;  
 trvme limit of her rights, the letter ofthe 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn86081912:00296028617:1864112301:0464/pct:36.42217684937961,68.47525191008748,15.203392492539658,17.66138855054811/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn86081912:00296028617:1864112301:0464/pct:36.43264750536621,68.47894290038018,15.213863148526254,17.665079540840807/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -457,7 +457,7 @@ would be hard in principle and impossible in practice.&quot;
 Jefferson alone; he wrote by the direction of General,  
 then President, Washington.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_cobol_ver01:data:sn83030213:00206530819:1865102601:0399/pct:50.52517203911626,35.661577608142494,50.27164070988772,16.52671755725191/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_cobol_ver01:data:sn83030213:00206530819:1865102601:0399/pct:16.841724013038753,11.887192536047499,16.757213569962573,5.5089058524173025/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -516,7 +516,7 @@ ington.&quot;
 SEcOnd LeTTer FrOM Mr. AdAMsrecApit­  
 ULATION OF THE AMErICAN GrIeVAnces
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deltaair_ver01:data:sn86053570:0023728897A:1865102701:0405/pct:221.455938697318,103.67977023873631,49.71264367816092,45.30604918327051/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deltaair_ver01:data:sn86053570:0023728897A:1865102701:0405/pct:55.377245508982035,25.919942559684078,12.431137724550899,11.326512295817627/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -590,7 +590,7 @@ Tah doctrins of the ataisistraden of waste
 has heen repeatedly and uniformly ae  
 by our Government. We acted upon i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743543:1866040101:0770/pct:106.60686562014835,155.9578590457738,52.389166810419184,24.800193751513685/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743543:1866040101:0770/pct:35.53562187338279,51.985953015257934,17.463055603473062,8.266731250504561/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -682,7 +682,7 @@ son a statesman whose anthority on
 urestions involving the principles of the­  
 ernocratic party and the rights of the State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_omahoney_ver01:data:sn83026413:00212475464:1878121801:0149/pct:241.67307692307693,197.21194503171247,47.25,48.04439746300211/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_omahoney_ver01:data:sn83026413:00212475464:1878121801:0149/pct:80.5576923076923,65.73731501057082,15.75,16.01479915433404/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -719,7 +719,7 @@ Raleigh was to aid in preventing &quot;any more
 contraband of war&quot; from being exported  
 That would be interfering with America
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175042817:1895061401:0179/pct:74.2899850523169,104.53108535300316,50.37369207772795,26.373626373626372/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175042817:1895061401:0179/pct:18.58291269396149,26.13277133825079,12.60048607216302,6.593406593406593/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -755,7 +755,7 @@ only means, perhaps, of their subsistence,
 because a war exists in a foreign country.  
 in which we have no concern, would b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_hoquiam_ver01:data:sn83045604:00202199665:1899110201:0366/pct:90.75152927468686,77.33698130414956,37.299737838625106,16.05107159142727/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_hoquiam_ver01:data:sn83045604:00202199665:1899110201:0366/pct:30.250509758228954,25.778993768049855,12.43324594620837,5.350357197142423/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

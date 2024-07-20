@@ -155,7 +155,7 @@ er the elders and all the Inhabitants of the land
 into the house of tho Lord your God, and ory unto  
 the Lord.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_graftonnotch_ver01:data:sn83016025:00414210545:1886032601:0604/pct:5.517351671197825,18.340715910451333,10.714856868703022,3.1246258829163174/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_graftonnotch_ver01:data:sn83016025:00414210545:1886032601:0604/pct:5.516469459545891,18.338520469236293,10.717141029740965,3.1272444338041656/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -189,7 +189,7 @@ It is fitting that we observe the ctis
   
 toins ofthe fathers who soucht divin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_kohlrabi_ver01:data:sn86082061:00415629278:1893040501:0112/pct:90.46270066100094,28.807894318000955,19.924457034938623,5.777494827311794/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_kohlrabi_ver01:data:sn86082061:00415629278:1893040501:0112/pct:67.86304604486422,21.613878720356517,14.946871310507674,4.329142129555945/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -220,7 +220,7 @@ lines are but just sketched; I would willingly
 veil the rest, as it can only tend to excite senti­  
 ments of horror.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016475:00296026402:1840120901:0681/pct:3.946604759141033,11.386489165840533,14.509576320371446,41.97705707406883/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016475:00296026402:1840120901:0681/pct:3.9595021603146967,11.395930699145541,14.503127619784614,41.97705707406883/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -334,7 +334,7 @@ out lines are hut just sketched I would ui ung­
 |y r»ul the rest, as it can only tend to excite  
 sentiments of horror.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215683:1840121601:0398/pct:66.59237798083352,40.65849333024906,14.943169155337642,39.50188912020973/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215683:1840121601:0398/pct:66.5849582172702,40.65535851966076,14.945218198700093,39.50141351837574/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -457,7 +457,7 @@ sketched; I would willittgly veil the rest,
 as it can only fend to excite sentiments of  
 horror.’&#x27; ,,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182951:1841012101:0211/pct:56.85245901639344,8.515568428674873,34.73224043715847,85.41636495293265/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182951:1841012101:0211/pct:56.84003496503497,8.514335360556037,34.73011363636363,85.40761656530553/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -552,7 +552,7 @@ member of the North Carolina Legislature,
 has submitted the subjoined admirable reso­  
 lutions as expressive of the sense of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1841020601:0181/pct:24.17387883556255,25.63320109856576,19.925255704169945,66.21910283796154/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1841020601:0181/pct:18.146034245227316,19.224900823924322,14.957685494981304,49.679584986267926/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

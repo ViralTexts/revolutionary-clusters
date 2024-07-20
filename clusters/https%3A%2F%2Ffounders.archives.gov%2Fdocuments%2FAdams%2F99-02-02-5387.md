@@ -111,7 +111,7 @@ hi oerfon, property, understanding, activity and
 virtue—or ever can be made so by any power  
 less than that which created them ; and when
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790050501:0004/pct:13.810110974106042,54.88840608334979,27.21948212083847,13.015998419909145/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790050501:0004/pct:13.833230579531442,54.89334386727237,27.23489519112207,13.035749555599446/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -139,7 +139,7 @@ than they, he feels a keener affliction when he
 fees that one or more of them, are more refpecfl­  
 ed than himfelf
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790051201:0004/pct:10.429638854296389,48.893717898064004,27.428393524283937,11.10233109442908/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790051201:0004/pct:10.445205479452055,48.903595416831294,27.43617683686177,11.112208613196366/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -162,7 +162,7 @@ the eftceni of others is as real a want of nature as
 hunger—and the negledt and contempt of the  
 world as severe a pain, ns the gout or (tone. J
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790051501:0001/pct:36.33748801534036,73.74525094981004,27.996164908916587,7.358528294341132/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790051501:0001/pct:36.35346756152125,73.75524895020996,28.00415468200703,7.373525294941012/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -181,7 +181,7 @@ rapid progression of the intelle&lt;slual faculties.—
 The awful feeling of a mortified emulation, is not  
 peculiar to childten. In an army&gt; or a navy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790052901:0001/pct:7.897125567322239,55.15818431911967,26.686838124054464,4.008646099430144/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790052901:0001/pct:7.897125567322239,55.16800943210847,26.694402420574885,4.018471212418943/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -201,7 +201,7 @@ turbed by resentment—and the instances have
 been very rare, of any brilliant a&lt;flion performed  
 by such an officer. Whatamonument tothilcfa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790052901:0001/pct:8.199697428139183,64.74749459618786,26.565809379727686,4.755354686578896/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790052901:0001/pct:8.222390317700453,64.75240715268225,26.550680786686836,4.7602672430732955/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -235,7 +235,7 @@ which attends public offices, whether they are
 conferred by the favor of a Prince, derived from  
 hereditary descent, or obtained by election
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790052901:0001/pct:8.139183055975794,71.9198270780114,26.80786686838124,16.09353507565337/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790052901:0001/pct:8.146747352496218,71.9247396345058,26.80786686838124,16.10827274513657/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -258,7 +258,7 @@ fufpiciom, by their conllant conversation and con­
 duct, and even by their countenances. The peo­  
 ple a; e fq Tenfible of litis, !hat a man in this pre­
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790052901:0001/pct:8.532526475037821,87.97406170170957,26.384266263237517,7.211632933778739/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790052901:0001/pct:8.540090771558246,87.98388681469837,26.414523449319212,7.2165454902731385/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -281,7 +281,7 @@ They aim at approbation as well as attention •,
 at efteern as well as consideration: And at admi­  
 ration and gratitude, as well as congratulation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790060201:0001/pct:8.201610498061438,29.978418677653522,25.738144944825528,7.376888365705317/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790060201:0001/pct:8.20906650760513,29.983323523641356,25.745600954369223,7.371983519717481/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -311,7 +311,7 @@ a&amp;ion of his fubfequenr life. Man conftaiuly
 craves for more, even when Tie has 110 rival :  
 Eu: wicn lie fees 2»;other pofieflcd of more, o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790060201:0001/pct:8.41037876528482,39.49381989405533,26.036385326573217,12.732980184422209/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790060201:0001/pct:8.417834774828512,39.508534432018834,26.066209364747987,12.723170492446537/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -336,7 +336,7 @@ fufficient answer to any complaint; to any ladi
 alledged ; or argument advanced, to fay that it  
 comes from adifappoiuted man
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790060201:0001/pct:9.006859528780197,58.406906023150874,25.827617059349837,8.907200313910144/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790060201:0001/pct:9.014315538323888,58.41671571512654,25.857441097524603,8.921914851873652/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -357,7 +357,7 @@ sooner or later, each misrepresented
 charatter obtains justice, and each ca­  
 lumniated honour : He who canno
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791070701:0831/pct:49.40692326313241,36.23471882640587,20.5761316872428,5.753871230643846/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791070701:0831/pct:49.40692326313241,36.245585438739475,20.5842007584927,5.748437924477044/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -449,7 +449,7 @@ comes disputable between two indivi­
 duals or igmilies which is the superior,  
 a fermentation commences, which dis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1799103001:0173/pct:75.47578523905307,67.88264058679707,16.060652947547577,20.51833740831296/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1799103001:0173/pct:75.48610036618702,67.88916055419723,16.060652947547577,20.515077424612876/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -483,7 +483,7 @@ When Gatfar declared he liad lived enough to
 glory ; Csefur migh dece:ve himfclf, but he  
 mild rot deceive the woild, who ft&quot;- his d
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1799122301:0307/pct:25.23939808481532,76.05911330049261,21.29502963976288,13.567909922589726/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1799122301:0307/pct:25.233644859813083,76.04840979453982,21.295874173695008,13.56951871657754/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -544,7 +544,7 @@ army or a navy, sometimes the interest and
 partial favor prevail, to promote officers o­  
 ver their superiors, or seniors. But th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216109:1809072201:0140/pct:31.330995578594298,21.52068780225685,22.930324744625704,4.030091348737238/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216109:1809072201:0140/pct:31.326219512195124,21.518760634010924,22.931910569105693,4.03271544133011/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -565,7 +565,7 @@ inStances have been very rare, of any &#x27;bril­
 hant action being performed by such an of&quot;­  
 ficer. Whata monument to this character
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216109:1809072201:0140/pct:31.376734258271078,28.792763747089378,22.823601158713217,5.436145441518897/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216109:1809072201:0140/pct:31.371951219512194,28.790185367600966,22.82520325203252,5.4386436225784305/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -615,7 +615,7 @@ by their constant conversation and conduct,
 and even by their countenance.—:. The peo­  
 ple are so sensible of this, that a man i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216109:1809072201:0140/pct:31.361488031712152,36.72756582482536,23.479188900747065,25.909009493104065/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216109:1809072201:0140/pct:31.35670731707317,36.7242768872571,23.48069105691057,25.909674338079462/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -665,7 +665,7 @@ by every action of his subsequent iife. Man
 constantly craves for more even when hctect  
 has no rivssal: But when he sctees another pus-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216109:1809072201:0140/pct:31.087055953651472,3.8957549704459966,47.53773441073334,92.60254343542898/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216109:1809072201:0140/pct:31.08231707317073,3.8954061072803796,47.53556910569106,92.59723590340587/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -688,7 +688,7 @@ ple gu. nerally presume that a person in such
 circumstances is deprived of his judgment,  
 if not at his vuacit) and reason.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216109:1809072201:0140/pct:55.46577222137521,14.320257925846319,22.976063424302485,7.07504925667204/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216109:1809072201:0140/pct:55.457317073170735,14.318975552968569,22.977642276422763,7.077400674606728/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1135,7 +1135,7 @@ uates not, but rather accuses himself, and un­
 equivocally confesses guilt, approaches the cir­  
 cle of immortals.— Lavatar.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1831112901:0610/pct:21.925456465972538,68.58221904664693,16.085709974347367,11.850566499948965/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1831112901:0610/pct:21.935516322116595,68.58902385083869,16.085709974347367,11.847164097853085/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1249,7 +1249,7 @@ slow his progress may be, he will, in the
 end, most indubitably receive that distinc?  
 tion. While tho rest, &quot; the swallows o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551244:1860091101:0020/pct:18.50412821758135,75.84050039093042,16.18908855431439,10.175360214453256/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551244:1860091101:0020/pct:18.50952458043279,75.8442235377341,16.18908855431439,10.179083361256934/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1320,7 +1320,7 @@ no reason to dread the ultimate result.
 However slow his progress may be, he  
 will, in the end, most indubitably re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_disco_ver01:data:sn90060762:00199919775:1897072201:0115/pct:31.366666666666667,75.1052315093205,14.25,16.800962116656645/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_disco_ver01:data:sn90060762:00199919775:1897072201:0115/pct:31.366666666666667,75.11324914812587,14.25,16.800962116656645/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

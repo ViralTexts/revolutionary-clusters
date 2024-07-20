@@ -53,7 +53,7 @@ HE.NING’S STATUTES AT LARGE:being a collec­
 »ion of all the Laws of Virginia, from the first session of  
 toe Legislature, in the year 1619, in 13 volumes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826031701:0055/pct:4.929797191887675,41.318499230678185,17.316692667706707,1.4913007456503728/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826031701:0055/pct:4.9290282327250035,41.31360946745562,17.319190973847032,1.495069033530572/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -70,7 +70,7 @@ Hening&#x27;s Statutes at large, 13 vols being a collection of all the
 L aws of Virginia, from the first session of the Legislature in 1620  
 to the year 1792, and a continuation of the same by Shepherd to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184613:1843032801:0285/pct:87.19723183391004,150.83236994219652,39.15801614763552,3.2369942196531793/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184613:1843032801:0285/pct:29.061553985872855,50.271644896543755,13.050790447359569,1.078873347975186/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -269,7 +269,7 @@ rolled up. and having thought ourselves very dev
 auMv ,.:is« rved. ‘When xmi beat my pitch, young  
 gentlemen, I’il try again
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024718:0041418375A:1855122501:0363/pct:18.54099418979987,72.18677762367082,12.433828276307295,7.942672214516874/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024718:0041418375A:1855122501:0363/pct:18.538600568035115,72.18010355029585,12.436526379206471,7.945019723865878/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -374,7 +374,7 @@ that marked the bounds of our efforts; then,
 smiling and without pulling off his coat, held  
 out his hand for the missile. &quot;No sooner&quot; o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_pearse_ver01:data:sn82015753:00212475385:1856011001:0040/pct:164.35108153078204,35.774253731343286,77.24625623960067,257.5559701492537/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_pearse_ver01:data:sn82015753:00212475385:1856011001:0040/pct:54.78369384359401,11.924751243781095,25.74875207986689,85.85199004975124/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -399,7 +399,7 @@ lows, while the Colonel on retiring pleasantly
 observed, When you beat my pitch, young gen­  
 tlemen, I&#x27;ll try again.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_pearse_ver01:data:sn82015753:00212475385:1856011001:0040/pct:203.4109816971714,52.42537313432836,38.186356073211314,14.645522388059701/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_pearse_ver01:data:sn82015753:00212475385:1856011001:0040/pct:67.80366056572379,17.475124378109452,12.728785357737104,4.8818407960199/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -434,7 +434,7 @@ the Colonel, on retiring, pleasantly observed,
 &#x27;When ynu beat my pilch, young gentlemen,  
 I&#x27;ll Iry again.&#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_danby_ver01:data:sn98060050:00280777341:1856030101:0630/pct:21.569981583793737,95.15315315315316,17.21915285451197,16.36036036036036/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_danby_ver01:data:sn98060050:00280777341:1856030101:0630/pct:16.194425247638794,71.36936936936937,12.923289564616448,12.27027027027027/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -463,7 +463,7 @@ bounds of our efforts ; thon, smiling, and with­
 out putting off his coat, held out his hand for  
 the missile. No sooner,&quot; observed the narrator
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199276:1856041001:0570/pct:4.278642149929278,66.26290960091802,16.6018387553041,8.007140124952187/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199276:1856041001:0570/pct:3.218390804597701,49.700369756470735,12.449160035366932,6.00535509371414/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -487,7 +487,7 @@ very clever fellows, while the Colonel, on retir­
 ing, pleasantly observed, &#x27;When you beat my  
 pitch, young gentlemen, I&#x27;ll try again.&#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199276:1856041001:0570/pct:4.985855728429986,74.33380084151473,15.894625176803395,7.4588805304092824/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199276:1856041001:0570/pct:3.748894783377542,55.756725742700496,11.918656056587091,5.597347953589188/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -558,7 +558,7 @@ Peale, &quot;and whizzed through the air,
 striking the ground far, far beyond our  
 utmost limits.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_abbott_ver01:data:sn95073194:00206539276:1892022401:0032/pct:26.783854166666668,89.71294309939728,13.932291666666666,26.836244764531617/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_abbott_ver01:data:sn95073194:00206539276:1892022401:0032/pct:20.096379265433708,67.28981509858004,10.458452722063038,20.124629686382676/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

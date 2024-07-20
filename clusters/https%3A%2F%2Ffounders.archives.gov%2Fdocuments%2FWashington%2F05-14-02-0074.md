@@ -46,7 +46,7 @@ let for live months, upon very reasonable
 terms, and when that time is expired may  
 be had from the landlord.—Apply to My
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792072501:0003/pct:69.1430332922318,84.77747144545097,20.530209617755858,10.81134304844427/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792072501:0003/pct:69.1430332922318,84.77747144545097,20.568742293464858,10.816266246553761/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -64,7 +64,7 @@ oart of the money to be paid down, the icfidue in
 three equal annual payments, with yearly interest  
 on the whole principal unpaid.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792072801:0004/pct:32.65765765765766,78.24046920821114,21.10682110682111,2.463343108504399/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792072801:0004/pct:32.68178893178893,78.25513196480938,21.090733590733592,2.4682306940371457/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -85,7 +85,7 @@ J 5■ C.erk to the Commiitioners.
 PRINTED BY  
 C 111 LD s AND S WAI N 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792080401:0004/pct:70.79838459148804,87.75029446407538,20.87604846225536,6.0855908912446015/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792080401:0004/pct:70.8139173656415,87.76010993325481,20.88381484933209,6.100314095013742/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -104,7 +104,7 @@ paid down, tlie residue in three equal annual pay­
 ments, with yearly interest on the whole princi­  
 pal unpaid. JOHN M. GANTT
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792081101:0004/pct:29.23412204234122,87.45351340771188,20.859277708592778,3.2295948326482677/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792081101:0004/pct:29.23412204234122,87.45351340771188,20.89041095890411,3.2393814836562926/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -122,7 +122,7 @@ part of ihe money to be paid down, the residue in
 three equal annual payments, with yearly interest  
 on the whole princioal unpaid.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792081801:0001/pct:70.28714107365792,90.49826187717265,20.630461922596755,2.4913093858632678/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792081801:0001/pct:70.29494382022472,90.50791811510236,20.646067415730336,2.486481266898416/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -141,7 +141,7 @@ paid down, the residue in three equal annual pay-,
 ments, with yearly interest on the whole princi­  
 pal unpaid. JOHN M. GANTT
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792090801:0004/pct:72.668513388735,80.39945173291561,20.683287165281627,3.250440571764245/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792090801:0004/pct:72.668513388735,80.41413745839044,20.690981840566327,3.2406500881143527/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -160,7 +160,7 @@ paid down, the residue in three eqtial annual pay­
 ments, with yearly interest on the whole princi­  
 pal unpaiJ. JOHN M. &lt; \NTT
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792091501:0004/pct:73.31486611265005,83.42767909428069,20.652508464142812,3.279328518446223/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792091501:0004/pct:73.32256078793475,83.4374390005856,20.652508464142812,3.293968377903572/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -181,7 +181,7 @@ pal unpaid. JOHN M. GANTT,
 July 25. Clerk to the CommiiTionerj. 4}  
 * * Three har.dfome Editions tf the Law
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792092901:0004/pct:73.25330871037242,82.06977197427402,21.914435210834103,5.593451568894952/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792092901:0004/pct:73.25330871037242,82.08438900799065,21.952908587257618,5.593451568894952/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -200,7 +200,7 @@ paid down, the rcfidueat three equal annual pay­
 ments with yearly interest on the whole princi*  
 pal unpaid
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793012301:0001/pct:8.068822307920499,62.23424095486759,19.133788193414418,3.0772099962700485/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793012301:0001/pct:8.091070898843073,62.24822827303245,19.133788193414418,3.0632226781051846/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -218,7 +218,7 @@ paid down, the residue at three equal annual pay­
 ments with yearly interest on the whole princi­  
 pal unn^id
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793020201:0001/pct:8.630778232884728,60.71896648567684,18.724400234055004,2.490170380078637/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793020201:0001/pct:8.638092451726155,60.72364725706797,18.73171445289643,2.4995319228608874/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -238,7 +238,7 @@ ments with yearly interest on the whole princi­
 pal unpaid.  
 JOHN M. GAttTT, Clerk It the Cm&#x27;rs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793021301:0004/pct:56.207535515750465,56.03801714498695,19.796170475602224,3.708535221766679/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793021301:0004/pct:56.207535515750465,56.03801714498695,19.811612106238417,3.7225121133060006/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -257,7 +257,7 @@ paid down, the residue at three equal annual pay­
 ments with yearly interest on the whole princi­  
 pal unpaid.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793030601:0004/pct:11.376146788990825,55.53697510219249,19.541284403669724,2.9728725380899292/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793030601:0004/pct:11.376146788990825,55.54162021553326,19.541284403669724,2.986807878112226/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -277,7 +277,7 @@ ments with yearly interest on the whole princi­
 pal unpaid.  
 JOHN M. G A NTT, Clerk to the Com&#x27;rs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793033001:0004/pct:10.592958616429895,49.12930715079659,19.919703520691787,3.686550574286773/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793033001:0004/pct:10.616121062384188,49.14320118562431,19.91198270537369,3.700444609114487/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -296,7 +296,7 @@ ments with yearly interest on the whole princi­
 pal unpaid.  
 JOHN M. GAOTT, Clerk to the Ccm&#x27;ts
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793070601:0004/pct:54.210028382213814,61.74927113702624,20.876695048880478,3.129251700680272/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793070601:0004/pct:54.23368022705771,61.754130223517976,20.85304320403658,3.1243926141885328/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

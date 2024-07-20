@@ -125,7 +125,7 @@ ion.
 tpt, Sir, our warmeft wilhes for your  
 &#x27;th and happinefs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800112601:0002/pct:6.691358024691358,12.145929111671363,22.51851851851852,65.5049681150823/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800112601:0002/pct:6.691358024691358,12.145929111671363,22.51851851851852,65.50991151317416/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -225,7 +225,7 @@ union.
 At&#x27;ccpt. Rirj our warmed withes for your  
 health and hap panel&#x27;s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800112901:0003/pct:59.86017357762777,18.495645288994456,17.285438765670204,53.53919239904988/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800112901:0003/pct:59.87825458052073,18.495645288994456,17.285438765670204,53.547110055423595/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -518,7 +518,7 @@ manent seat of goyemmentss; andaid Y
 , hope: than penna&#x27;nence .andaawlky who  
 &#x27;communieaced as we] to the governmen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215981:1800121001:0011/pct:70.17945780832379,77.6909632980364,22.591319842178947,19.060347486378124/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215981:1800121001:0011/pct:70.17052685161619,77.6829769736842,22.592686858403326,19.061814692982455/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -569,7 +569,7 @@ gature-.? si - &#x27; ctct,]
   
 T he question-Whether the ] 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215981:1800121001:0014/pct:5.802310654685495,11.712174091562307,22.785622593068037,26.698829809074113/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215981:1800121001:0014/pct:5.801565909382621,11.710971979882993,22.786976425790442,26.69951075986178/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -626,7 +626,7 @@ nmon. - . - -- . &#x27;
 Accept, Sir, our warmest wishes for your  
 health and haypictness
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215981:1800121001:0014/pct:5.673940949935815,39.31430917676042,22.682926829268293,35.10572777663724/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215981:1800121001:0014/pct:5.673212681298935,39.3102740429026,22.68429384332349,35.105545861986386/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -717,7 +717,7 @@ and tranqu l’y of the m : &gt;n.
 Accept, Sir, our warmed wifhes for your  
 health and happi cf
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1800121501:0507/pct:24.636256390090445,14.005698005698006,46.6968147856862,82.62108262108262/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1800121501:0507/pct:24.63141340672302,14.004102096627165,46.6925496363279,82.61451686417502/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -813,7 +813,7 @@ peral happmels and tranquility of the union.
 AccerT, Sir, oar warmest withes for  
 _your health and happinels. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1800121601:0410/pct:6.367157242447715,22.627093740816925,16.65375677769171,47.389558232931726/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1800121601:0410/pct:6.367157242447715,22.63035883370882,16.664084688871675,47.38629314003983/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1066,7 +1066,7 @@ From the date last given until the burn­
 ing of the Capitol by the British in 1834, in  
 the room now occupied by the Suprem
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pug_ver01:data:sn83045462:00280654905:1893091801:0554/pct:13.315173850344497,53.9785224479234,12.385835603268706,33.92418165351275/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pug_ver01:data:sn83045462:00280654905:1893091801:0554/pct:13.315173850344497,53.988226161211024,12.39785290818779,33.92418165351275/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

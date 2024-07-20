@@ -53,7 +53,7 @@ viewed it. The granting it Iras conferred on
 me a benefit which I shall ever he hound to  
 acknowledge with gratitude.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn84024505:00542866962:1826031401:0387/pct:71.89611486486487,41.532007458048476,12.858952702702704,10.348042262274705/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn84024505:00542866962:1826031401:0387/pct:71.88093730208993,41.525555382942365,12.861515727253536,10.35031847133758/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -81,7 +81,7 @@ not-of a debt; and so I should have viewed it. The
 granting it has conferred nn me a benefit which I shall  
 ever be bound (o acknowledge with gratitude.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826031701:0057/pct:4.848195835320299,62.20556745182013,17.54887935145446,7.42326909350464/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826031701:0057/pct:4.847425301970756,62.19816819317236,17.55138800593346,7.426351056659133/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

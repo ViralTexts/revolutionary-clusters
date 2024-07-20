@@ -103,7 +103,7 @@ mediate measures for carrying this resolutiun into
 effect. The proceedings, in consequence of it, have  
 been prestrved, however, only in few States. Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530376:1852022401:0158/pct:199.18877809700862,253.11338289962825,47.13537265506169,18.029739776951672/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530376:1852022401:0158/pct:66.39625936566954,84.37112763320941,15.711790885020562,6.009913258983891/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -137,7 +137,7 @@ The form was a recital of the resolution of Conr
 gress, and then the promise, or pledge, in the fol  
 lowing worde
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743051:1852022401:0329/pct:8.386463952918097,96.34749381883569,47.53964361615171,25.21915037086986/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743051:1852022401:0329/pct:2.7954879843060323,32.11583127294523,15.84654787205057,8.40638345695662/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -197,7 +197,7 @@ of Americn, or who have not associnted and refuse to associate
 to defend by arms the United Colonies against the hostile at­  
 tempts of the British fleets and armies
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1852022801:0111/pct:82.1124828532236,84.78024369016536,15.294924554183813,2.7523933855526543/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1852022801:0111/pct:82.12162780064014,84.78749637365826,15.294924554183813,2.7523933855526543/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -238,7 +238,7 @@ dr pledge, in the following words :
 “In consequence of tho above resolution of the Conti­  
 nental Congress, and 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348409:1852030201:0197/pct:51.907805539415065,64.55370445618313,14.42959519659113,12.61005011512935/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348409:1852030201:0197/pct:51.897753679318356,64.54496208017335,14.431642137877613,12.611728060671723/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -276,7 +276,7 @@ was a recital of the resolution ot Con­
 gress, and then the promise, or pledge,  
 in the following words:
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021169:00514152780:1852030401:0657/pct:46.40588914549654,26.627095699260646,12.1824480369515,10.309278350515465/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021169:00514152780:1852030401:0657/pct:46.41551193225558,26.630566836752404,12.187259430331023,10.316220625498977/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -374,7 +374,7 @@ tinental Congress from time to time adopted
 stringent measures for the suppression of  
 their seditions words and acts. They wer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1861090401:0003/pct:22.98076923076923,66.1269336417522,10.211538461538462,5.826225242157005/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1861090401:0003/pct:22.985576923076923,66.13416220905016,10.221153846153847,5.837068093103947/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -405,7 +405,7 @@ them the impledct its of mischief. The con-
 tinental congress from time to time adopted  
 stringent measures for the suppression of thei
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:0028077764A:1861092001:0171/pct:185.303265940902,171.16082224909312,51.632970451010884,36.517533252720675/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:0028077764A:1861092001:0171/pct:46.35284964014783,42.79020556227328,12.915775141023147,9.129383313180169/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -440,7 +440,7 @@ tinential Congress from time to time adopted
 stringent measures for the suppression of  
 their seditious words and acts. They wer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009571:00279523891:1861092701:0367/pct:80.61364887176664,225.60911296276765,34.356081452944416,36.87374749498998/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009571:00279523891:1861092701:0367/pct:26.867519603796946,75.19510651761232,11.450451689824368,12.289952893201153/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -478,7 +478,7 @@ w iu uciviim Vy aum iiicoe
 United Colonics nainst the ho-tile at  
 tempts of the Briti.h fleets and u
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:00237286911:1861101001:1003/pct:75.55020632737276,21.845871077852173,31.671251719394775,106.26230799527373/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:00237286911:1861101001:1003/pct:56.70049888181662,16.38440330838913,23.774298985033546,79.70329526060128/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -565,7 +565,7 @@ j and committees, or councils of safety, and to i
 ! the several commanding officers of the con  
 tiuental troops : that it he proclaimed hi each 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623756:1874070401:0157/pct:25.677603423680456,91.70623145400593,11.758712044018749,2.9673590504451037/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623756:1874070401:0157/pct:25.677603423680456,91.70623145400593,11.772298077576252,2.9723046488625124/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -598,7 +598,7 @@ and a committee was appointed to ascer
 tain if New York had any objection to the  
 formation of a separate state. This con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84022473:00280777560:1876072001:0679/pct:71.33333333333333,197.17823207601498,43.55555555555556,40.5989058450907/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84022473:00280777560:1876072001:0679/pct:17.839940718784735,49.294558019003745,10.89292330492775,10.149726461272675/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -662,7 +662,7 @@ arms the United Ameriean States against the
 hostile attempts of the British fleets and ar­  
 mies, until the present unhappy controvers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_montpelier_ver01:data:sn84027703:00200296357:1877081502:0073/pct:121.56273478587528,40.31586503948313,43.57625845229151,6.432160804020101/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_montpelier_ver01:data:sn84027703:00200296357:1877081502:0073/pct:30.396393011459704,10.078966259870782,10.896111215479992,1.6080402010050252/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -679,7 +679,7 @@ our lives and fortunes, to defend by arms the
 United American States against the hostile  
 attempts of the British fleets and armies
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn84022473:00280777936:1877081601:0769/pct:234.4632768361582,195.6969696969697,47.13478611783697,5.393939393939394/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn84022473:00280777936:1877081601:0769/pct:58.627648839556,48.92424242424242,11.786074672048436,1.3484848484848484/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -697,7 +697,7 @@ arms the United American States against the
 hostile attempts of the British fleets and ar­  
 mies, until the present unhappy controyers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_montpelier_ver01:data:sn84027703:00200296357:1877081601:0075/pct:225.1510574018127,205.18340178444979,43.429003021148034,6.344710380965869/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_montpelier_ver01:data:sn84027703:00200296357:1877081601:0075/pct:56.31966748535802,51.295850446112446,10.863404496504817,1.5861775952414672/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -714,7 +714,7 @@ our lives and fortunes, to defend by arms the
 United American States against the hostile  
 attempts of the British fleets and armies
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777055:1877081701:0131/pct:220.27128862094952,171.93566278424848,38.13112283345893,4.048807542983916/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777055:1877081701:0131/pct:55.098963242224315,42.98391569606212,9.538171536286523,1.012201885745979/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -732,7 +732,7 @@ arms the United American States against the
 hostile attempts of the British fleets and ar-  
 mies, until the present unhappy controvers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_montpelier_ver01:data:sn84027703:00200296357:1877081701:0079/pct:214.6969696969697,209.55423261216785,44.24242424242424,6.3888485552490195/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_montpelier_ver01:data:sn84027703:00200296357:1877081701:0079/pct:53.69458128078818,52.38855815304196,11.064797271693823,1.5972121388122549/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -753,7 +753,7 @@ against the hostile attempts of the British fleets
   
 and armies, until the present unhappy controvers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777675:1877082201:0138/pct:329.24242424242425,91.11617312072893,42.121212121212125,6.492027334851937/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777675:1877082201:0138/pct:82.34179613489958,22.779043280182233,10.534293292913983,1.6230068337129842/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -770,7 +770,7 @@ and fortunes, to defend by arms, the Unit­
 ed American States against the hostile  
 attempts of the British fleets and armies
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023296:00200296114:1877082201:0825/pct:21.945701357466064,113.76528753577934,48.79336349924585,6.505334374186833/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023296:00200296114:1877082201:0825/pct:5.488494907582044,28.441321883944834,12.202942285929838,1.6263335935467083/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -787,7 +787,7 @@ fortunes, to defend by arms the United
 American States against the hostile at-  
 tempts of the British fleets and armies
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777833:1877082401:0555/pct:243.48462664714495,287.593086974849,44.07027818448024,5.507938738232402/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777833:1877082401:0555/pct:60.88229910305693,71.89827174371224,11.019586307889439,1.3769846845581004/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -827,7 +827,7 @@ The above Resolve led to a more rigid enforce­
 ment, In the Province, of the order Issued by  
 the Convention two months before—and alread
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_henson_ver01:data:sn83016107:00415625546:1887090901:0160/pct:6.738103886669088,21.498822551599943,13.984743915728297,10.3892505887242/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_henson_ver01:data:sn83016107:00415625546:1887090901:0160/pct:5.231303368677865,16.668455895509034,10.83794688936849,8.047951332975488/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -858,7 +858,7 @@ to be a united people, and turned out to
 make this last meeting of the board  
 success. Charles B Kent was mad
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_montpelier_ver01:data:sn84022639:00200296321:1888030101:0036/pct:255.27065527065528,159.59402002468798,39.31623931623932,26.772733507063503/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_montpelier_ver01:data:sn84022639:00200296321:1888030101:0036/pct:63.82902938557435,39.898505006171995,9.830810329474621,6.693183376765876/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

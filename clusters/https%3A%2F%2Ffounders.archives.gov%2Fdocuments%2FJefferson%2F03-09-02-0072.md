@@ -76,7 +76,7 @@ and by the necessary emissions of pub­
 lic paper, of circulating size, bottomed  
 on special taxes.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn86059058:00296022007:1862120901:0486/pct:122.81059063136456,146.64921465968587,49.69450101832994,29.267015706806284/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn86059058:00296022007:1862120901:0486/pct:30.70785944661348,36.66230366492147,12.425734170768969,7.316753926701571/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -100,7 +100,7 @@ ure to do it in these words: &quot;But, un­
 &quot;pretenders to be money holders, whom  
 &quot;it could have crushed at any moment.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn86059058:00296022007:1862120901:0486/pct:173.25186693822133,54.345549738219894,48.54039375424304,20.89005235602094/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn86059058:00296022007:1862120901:0486/pct:43.32031913087761,13.586387434554974,12.137158377185537,5.222513089005235/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -263,7 +263,7 @@ ly received by the people in proferencs
 to bank paper.  
 It is reported that the French hav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293769:1863012801:0069/pct:329.803328290469,256.95364238410593,50.75642965204236,68.4957426679281/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293769:1863012801:0069/pct:82.46642708530358,64.23841059602648,12.691507471155665,17.123935666982025/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -324,7 +324,7 @@ emissions of public paper of circulating size,
 this bottomed on special taxes, redeemable  
 annually as this special tax comes in.” The
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_graftonnotch_ver01:data:sn83016025:00279525474:1879081801:0039/pct:50.508864084044646,22.84748218814153,10.998030203545634,1.920057964014008/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_graftonnotch_ver01:data:sn83016025:00279525474:1879081801:0039/pct:50.50057442967339,22.844723496739917,11.000328245527655,1.9228447234967398/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -349,7 +349,7 @@ the public with an indefinite burden
 of debt, I know nothing of my  
 countrymen.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_galloway_ver01:data:sn84026314:00513685518:1880072401:0021/pct:7.288790723357261,69.41451382578217,14.264678814651205,6.73763468778398/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_galloway_ver01:data:sn84026314:00513685518:1880072401:0021/pct:7.287449392712551,69.4055036344756,14.266654398233346,6.740005192107996/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -387,7 +387,7 @@ powerful enemy, without leading us
 with perpetual debt I know nothing  
 of my countrymen.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_johns_ver01:data:sn92073049:00295879270:1890011401:0016/pct:110.58178752107926,103.83145516903478,19.0415964024733,22.37138657520823/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_johns_ver01:data:sn92073049:00295879270:1890011401:0016/pct:82.97483480950372,77.87359137677609,14.283705890622803,16.785889269965704/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -428,7 +428,7 @@ powerful enemy without loading us
 with perpetual debt I know nothing  
 of my countrymen.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059299:00383346848:1890020701:0141/pct:52.10544939844303,2.4484215759383545,29.1932059447983,92.08302261993538/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059299:00383346848:1890020701:0141/pct:52.10544939844303,2.4484215759383545,29.199103562160886,92.08716546524153/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -447,7 +447,7 @@ through the longest war, against her most power­
 ful enemy without loading us with perpetual debt,  
 I know nothing of my countrymen.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn85029079:00280760936:1890040201:0312/pct:9.073359073359073,84.38953954756938,29.874517374517374,5.470880795764479/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn85029079:00280760936:1890040201:0312/pct:6.061337841101183,56.265040911278675,19.922723979715045,3.641905984277234/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -464,7 +464,7 @@ armies. Put down the banks, and if this country cannot be carried
 •through the longest war, against the most powerful enemy without load­  
 ing us with perpetual debt, I know nothing of my countrymen.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059299:00383346848:1890041801:0220/pct:3.451359084406295,36.81257014590348,30.07868383404864,1.8331462775907221/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059299:00383346848:1890041801:0220/pct:3.4632808774439674,36.82088373446398,30.07868383404864,1.828989483310471/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -491,7 +491,7 @@ Put down the banks, and if this country cannot be carried through the
 longest war, against the most powerful enemy without loading us with  
 perpetual debt, I know nothing of my countrymen.’^
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059299:00383346848:1890061301:0285/pct:65.08433315945054,10.539972816013838,29.26447574334898,8.822439144940072/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059299:00383346848:1890061301:0285/pct:65.09012925288356,10.548210387577742,29.27027183678201,8.814201573376168/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -511,7 +511,7 @@ ful enemy, without loading us with
 perpetual debt, I know nothing of my  
 countrymen.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:fu:batch_fu_edugator_ver01:data:sn88074815:00271765800:1891073101:0023/pct:24.90504612045578,20.711275567889814,9.671730873575692,2.3126734505087883/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:fu:batch_fu_edugator_ver01:data:sn88074815:00271765800:1891073101:0023/pct:24.909567733767407,20.7181279336691,9.676252486887321,2.3126734505087883/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -529,7 +529,7 @@ Put down the banks and if this country
 cannot be carried throutrh tho longest war  
 against her most powerful enemy tvi hcu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_hotel_ver02:data:sn86071158:00206536469:1891080602:0067/pct:291.67340339531125,62.97798377752028,51.495553759094584,6.836616454229432/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_hotel_ver02:data:sn86071158:00206536469:1891080602:0067/pct:72.93309076207802,15.74449594438007,12.87649080250657,1.709154113557358/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -646,7 +646,7 @@ without loading us with perpetual
 debt 1 know nothing of my country  
 men.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_johns_ver01:data:sn92073049:00295879282:1891111701:0371/pct:28.192702394526798,103.61433305716653,19.398517673888254,4.8053024026512015/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_johns_ver01:data:sn92073049:00295879282:1891111701:0371/pct:21.16070155425638,77.71333885666942,14.558676743191217,3.603976801988401/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -667,7 +667,7 @@ without loading us with perpetual
 debt, I know nothing of my country­  
 men.&quot;Salmon P. Chase: &quot;My agency i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_johns_ver01:data:sn92073049:00295879282:1891120101:0387/pct:47.7400336889388,36.391848556946314,19.146546883773162,5.730836867694218/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_johns_ver01:data:sn92073049:00295879282:1891120101:0387/pct:35.82362027805083,27.299058653149892,14.365959837101531,4.292955415330506/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -719,7 +719,7 @@ debt, I know nothing of my country-
 men.  
 Salmon P. Chase: &quot; My agency i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_johns_ver01:data:sn92073049:00295879282:1891120801:0395/pct:9.162378502001143,96.20818616247662,19.582618639222414,10.856014959484728/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_johns_ver01:data:sn92073049:00295879282:1891120801:0395/pct:6.876340243030736,72.1587367546229,14.696211579699785,8.144608352378974/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -786,7 +786,7 @@ without loading us with perpetual
 debt, I know nothing of my country­  
 men.&quot;Salmon P. Chase: &quot;My agency i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_johns_ver01:data:sn92073049:00295879282:1891121501:0399/pct:69.38717067583048,67.05722355894969,19.74513172966781,11.183178156710953/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_johns_ver01:data:sn92073049:00295879282:1891121501:0399/pct:52.06990402521129,50.29814834187677,14.811631571408109,8.389998953865467/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -835,7 +835,7 @@ without loading us with perpetual a
 debt, I know nothing of my country- [  
 men.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_bones_ver01:data:sn84026824:00271767857:1892010801:0212/pct:39.294242504643144,22.775308641975307,12.62934465375431,3.9703703703703703/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_bones_ver01:data:sn84026824:00271767857:1892010801:0212/pct:39.294242504643144,22.781893004115226,12.638188732643496,3.9736625514403294/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -874,7 +874,7 @@ war, against her most powerful enemy
 without loading us with perpetual debt,  
 I know nothing of my countrymen.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_johns_ver01:data:sn92073049:00295879294:1892012601:0034/pct:7.197802197802198,36.82016673283049,19.49175824175824,4.267566494640731/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_johns_ver01:data:sn92073049:00295879294:1892012601:0034/pct:5.3990932820442366,27.62008733624454,14.631130649814535,3.205637157602223/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -965,7 +965,7 @@ most powerful enemy without load­
 ing us with perpetual debt, I know  
 nothing of my countrymen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_goodnow_ver01:data:sn85032801:00212473649:1892093001:0206/pct:113.0813953488372,57.1290127195639,20.390365448504983,4.4821320411871595/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_goodnow_ver01:data:sn85032801:00212473649:1892093001:0206/pct:75.42584129621936,38.086008479709264,13.606148732862485,2.9921259842519685/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1072,7 +1072,7 @@ casualties; let us turn over, therefore
 another leaf  
 In a letter to Col. Yancey, January
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_hotel_ver02:data:sn86071158:00206536536:1893100101:0275/pct:237.74680603948897,19.734192509061618,54.47154471544715,25.775271848570277/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_hotel_ver02:data:sn86071158:00206536536:1893100101:0275/pct:59.43670150987224,4.9335481272654045,13.617886178861788,6.443817962142569/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1111,7 +1111,7 @@ times, by reasonable taxes in war aided
 by the necessary emission of public  
 paper of circulating size.—From th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_belair_ver01:data:sn89060136:00279522564:1893101301:0412/pct:23.069460613116025,37.58690614136732,15.929375242530075,18.264774044032446/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_belair_ver01:data:sn89060136:00279522564:1893101301:0412/pct:17.878803067515413,29.13376987839102,12.360282692596863,14.159027128157156/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1132,7 +1132,7 @@ without loading up with perpetual
 debt, I know nothing of my country­  
 men. Bank paper must be sup
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_belair_ver01:data:sn89060136:00279522564:1894020901:0483/pct:23.862287297190345,44.37028438769588,16.106054610209736,5.034822983168891/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_belair_ver01:data:sn89060136:00279522564:1894020901:0483/pct:18.498262114087098,34.39034446568462,12.48722142711102,3.9131901495558306/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1152,7 +1152,7 @@ most pow rful enemy without loading us
 with perpetual debt, I know nothing of my  
 countrymen.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346800:1894071801:0513/pct:7.060390763765541,47.485774009987225,11.72291296625222,2.6477761003367783/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346800:1894071801:0513/pct:7.060390763765541,47.493516045368324,11.727846852180777,2.6516471180273293/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1177,7 +1177,7 @@ the public with an indefinite burden
 of debt, I know nothing of my coun­  
 trymen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_goodnow_ver01:data:sn85032801:00212473650:1894072701:0352/pct:33.07787903893952,125.51044919529186,20.981772990886494,11.277924573624789/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_goodnow_ver01:data:sn85032801:00212473650:1894072701:0352/pct:22.072538860103627,83.67763631996156,13.989637305699482,7.518616382416527/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1197,7 +1197,7 @@ powerful enemy without loading up with
 perpetual debt, 1 know nothing of my  
 countrymen. * * * Bank paper mus
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346800:1894080101:0527/pct:19.87862640615749,23.93450238067588,11.634103019538188,2.415515038903728/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346800:1894080101:0527/pct:19.883560292086045,23.93837339836643,11.634103019538188,2.415515038903728/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1262,7 +1262,7 @@ public with an indefinite burden of
 debt, I know nothing of my  
 Countrymen.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_belair_ver01:data:sn89060136:00279522564:1894092101:0617/pct:38.89107353519465,110.70909619296717,16.063704286276053,12.365591397849462/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_belair_ver01:data:sn89060136:00279522564:1894092101:0617/pct:30.14018691588785,85.79954954954955,12.454286875253961,9.59084084084084/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1282,7 +1282,7 @@ most powerful enemy without loading us
 with perpetual debt, I know nothing of my  
 countrymen.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346800:1894101001:0610/pct:29.67849560206248,48.7173452577077,11.935092508340915,2.6241468580842553/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346800:1894101001:0610/pct:29.683550702658984,48.7173452577077,11.940147608937417,2.6319918412175416/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1302,7 +1302,7 @@ most powerful enemy without loading us
 with perpetual debt, I know nothing of my  
 countrymen.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346800:1894101001:0611/pct:32.13527449196239,48.85855495410685,11.950257810130422,2.659449282184043/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346800:1894101001:0611/pct:32.14538469315539,48.86639993724013,11.94520270953392,2.6672942653173295/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1324,7 +1324,7 @@ the people or loading the public
 with an indefinite burden of debt,  
 I know nothing of my countrymen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_james_ver01:data:sn94057006:00415620469:1894101901:0372/pct:151.32957292506043,70.92240117130308,104.19016921837228,164.86090775988288/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_james_ver01:data:sn94057006:00415620469:1894101901:0372/pct:37.85527111469462,17.73060029282577,26.063293690788147,41.21522693997072/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1344,7 +1344,7 @@ through the longest war against her
 most powerful enemy, without  
 ever knowing the want of a dollar,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_james_ver01:data:sn94057006:00415620469:1894101901:0372/pct:147.5423045930701,357.07174231332357,51.89363416599517,16.98389458272328/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_james_ver01:data:sn94057006:00415620469:1894101901:0372/pct:36.90788147550897,89.26793557833089,12.981253779479944,4.24597364568082/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1397,7 +1397,7 @@ lishment of banks of issue, when the
 issue of non interesting bearing legal  
 tender paper by the government, a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346812:1895040301:0139/pct:19.005279244234508,56.08896718784409,11.753264795776605,8.764589297511561/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346812:1895040301:0139/pct:19.014541076224877,56.09263745136901,11.748633879781421,8.775600088086325/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1437,7 +1437,7 @@ I oaatary or more. JeBeraon, J.ckeon,
   
 Beaton aad other great leaders of lb
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eeyore_ver01:data:sn93060416:00294556424:1895090701:0365/pct:97.4657960199005,48.98290278297766,13.152985074626866,5.416198677149632/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eeyore_ver01:data:sn93060416:00294556424:1895090701:0365/pct:73.13734639912894,36.74029701734681,9.877119303157567,4.068388868089355/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1458,7 +1458,7 @@ bearing hard on the resources of the people or j
 loading the public with an indefinite burden of  
 debt, I know nothing 01 my countrymen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_dogtown_ver01:data:sn85066387:00175037305:1895111401:0732/pct:43.176525384257104,44.633613252041876,13.398540599285825,2.4387438168641435/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_dogtown_ver01:data:sn85066387:00175037305:1895111401:0732/pct:43.176525384257104,44.63744775489858,13.398540599285825,2.4464128225775528/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1481,7 +1481,7 @@ hard on the resources of the rich or foiling to load
 the public with an Indefinite burden of deb:. I  
 know nothing of J. I&#x27;ierpont Morgan or Enroi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_dogtown_ver01:data:sn85066387:00175037305:1895111401:0732/pct:43.09889768669461,53.05418152536524,13.274336283185841,3.1519613482112043/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_dogtown_ver01:data:sn85066387:00175037305:1895111401:0732/pct:43.104072866532114,53.06185053107865,13.27951146302334,3.1481268453544997/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1531,7 +1531,7 @@ ing them with an indefinite burden of
 debt, I know nothing of my country­  
 men. Thomas Jefferson.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_harvey_ver03:data:sn82015080:00212473819:1896012901:0159/pct:27.940332759609866,132.59144997796386,18.373493975903614,10.643455266637286/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_harvey_ver03:data:sn82015080:00212473819:1896012901:0159/pct:18.634342275139865,88.3979726751873,12.250753120068858,7.095636844424857/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1590,7 +1590,7 @@ sary emission of public paper of circulat­
 ing size.”  
 Thus wrote a great, tried and true pat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346812:1896031101:0497/pct:44.455266453318494,70.88716623600345,11.966049812160845,11.617140396210164/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346812:1896031101:0497/pct:44.45990445712165,70.89075509618145,11.966049812160845,11.613551536032157/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1615,7 +1615,7 @@ her citizens, without bearing hard on the
 &#x27; public with an indefinite burden of debt, I  
 know nothing of the people.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346812:1896031801:0506/pct:3.7706970919716154,68.23858742463393,12.633922359816335,5.060292850990526/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346812:1896031801:0506/pct:3.7706970919716154,68.24576514498995,12.643198367422661,5.06747057134654/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1641,7 +1641,7 @@ through the longest war without load­
 ing us with perpetual debt, I know  
 nothing of my countrymen. Thoma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_johns_ver01:data:sn92073049:00295879336:1896060201:0176/pct:106.6408576533651,47.87486515641856,19.877903513996426,10.830636461704422/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_johns_ver01:data:sn92073049:00295879336:1896060201:0176/pct:80.01191540065534,35.911542610571736,14.909145070002978,8.122977346278317/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1688,7 +1688,7 @@ wilh an ideiinite burden of i.ebt, I
 know nothing of my country men.&quot;  
 &#x27;&#x27;This slate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_diamondback_ver02:data:sn87090065:00296024946:1896091701:1062/pct:30.99835661462613,33.62490733876946,17.358258011503697,8.865826538176426/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_diamondback_ver02:data:sn87090065:00296024946:1896091701:1062/pct:23.268242548818087,25.218680504077096,13.03186022610483,6.656782802075612/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1722,7 +1722,7 @@ at all times, by reasonable taxes in
 war, aided by the necessary emission  
 of public paper of circulating size.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:okhi:batch_okhi_ellis_ver01:data:sn86063952:00237280854:1898051701:1005/pct:9.731800766283525,27.389136002156626,100.22988505747126,83.35355169160265/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:okhi:batch_okhi_ellis_ver01:data:sn86063952:00237280854:1898051701:1005/pct:2.4329501915708813,6.847284000539156,25.057471264367816,20.83838792290066/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1772,7 +1772,7 @@ tagious diseases in the hospital at
 Hartford are in a large measure the  
 creations of new
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:okhi:batch_okhi_ellis_ver01:data:sn86063952:00237280854:1898051701:1005/pct:7.662835249042145,320.09704811969266,106.0536398467433,65.56139641461114/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:okhi:batch_okhi_ellis_ver01:data:sn86063952:00237280854:1898051701:1005/pct:1.9157088122605364,80.02426202992316,26.513409961685824,16.390349103652785/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1816,7 +1816,7 @@ be was able to pat in practice, this iden­
 tical doctrine so clearly and forcibly  
 promulgated by Jefferson. Lincoln a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_volvo_ver01:data:sn00065127:00295876529:1898070101:0791/pct:38.245000970685304,37.86381109280615,15.841584158415841,16.29599121361889/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_volvo_ver01:data:sn00065127:00295876529:1898070101:0791/pct:33.474888171677705,33.130455673900855,13.861049770681161,14.266837511011452/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1895,7 +1895,7 @@ in the grasp of the money trust and
 would nave nothing but bonds. Ex­  
 perience has proven, now that the Treas
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:00332892137:1898100201:0724/pct:7.1193686287405455,84.86660024355142,14.48536665570536,5.878445699103288/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:00332892137:1898100201:0724/pct:7.1193686287405455,84.86660024355142,14.496327962293105,5.878445699103288/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1980,7 +1980,7 @@ At a very early period of the world&#x27;s
 history nearly all nations adopted gold  
 and silver as the money metals. W
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_fairbury_ver01:data:sn95069779:00206538983:1898111701:0017/pct:52.032277346084875,58.01024140453548,18.111177525403466,10.5340160936357/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_fairbury_ver01:data:sn95069779:00206538983:1898111701:0017/pct:39.037513077267974,43.51290625979726,13.581676879390226,7.900512070226774/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

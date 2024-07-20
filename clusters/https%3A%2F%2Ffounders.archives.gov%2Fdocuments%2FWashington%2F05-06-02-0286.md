@@ -63,7 +63,7 @@ Many judge rashly only for the
 pleasure they take to discourse, and  
 make conjectures of other men&#x27;s man
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn88077272:00280774844:1877083001:0516/pct:36.58712942877802,38.92223738062756,14.226319595083153,4.788540245566167/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn88077272:00280774844:1877083001:0516/pct:27.450271247739604,29.195088676671215,10.687160940325498,3.587994542974079/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -102,7 +102,7 @@ ciety, which is best promoted by the
 practice of a virtuous policy, is or ought  
 to be the end of all government.-- Wash
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn90053038:00332897974:1880121001:1031/pct:6.527415143603133,61.99913830245584,16.536118363794603,2.3553066207094644/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn90053038:00332897974:1880121001:1031/pct:6.525995214270176,61.990235496840896,16.53977231527808,2.3597549301167913/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -131,7 +131,7 @@ promoted by the practice of a virtuous
 policy &lt; The government of man shouldbe  
 the monarchy of reason but how often it i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_anderson_ver01:data:sn85058130:175048625:1890010501:0042/pct:24.065272496831433,21.384075206705177,18.868821292775664,3.567787971457696/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_anderson_ver01:data:sn85058130:175048625:1890010501:0042/pct:16.05388272583201,14.259825574810284,12.583201267828843,2.378525314305131/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -173,7 +173,7 @@ the practice of a virtuous policy,
 is or ought to be, the end of all  
 government.—Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_elizabethtown_ver01:data:sn86090439:00517175390:1895041401:0766/pct:77.91330864735352,64.92384299941418,14.158135482465694,3.5295840656121853/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_elizabethtown_ver01:data:sn86090439:00517175390:1895041401:0766/pct:77.92419952080157,64.93482718219097,14.179917229361795,3.5295840656121853/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -193,7 +193,7 @@ policy, is or ought to lie. i ie end
 ofall government - Washington.  
 The haunts of happiness ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jones_ver02:data:sn84037844:00415664850:1895041901:0632/pct:20.0,90.51739055199862,16.05301914580265,4.377920055372902/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jones_ver02:data:sn84037844:00415664850:1895041901:0632/pct:20.007363770250368,90.52604256791832,16.067746686303387,4.382246063332756/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -211,7 +211,7 @@ which i3 best promoted by tho practice
 of a virtuous policy, Is, or ought to be,  
 the end of all government. Washing
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_gordon_ver01:data:sn89066235:00280779738:1895042701:0268/pct:59.29090909090909,69.31438127090301,15.618181818181819,2.6059085841694536/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_gordon_ver01:data:sn89066235:00280779738:1895042701:0268/pct:44.48081469358065,51.992753623188406,11.71122022185852,1.9509476031215163/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -233,7 +233,7 @@ ton.
 A Maine ghost in a freight car, after  
 frightening a brakeman into a chuckle
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn89051168:00393343035:1895042801:0736/pct:32.98731257208766,17.44155154091392,14.263744713571704,4.941551540913921/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn89051168:00393343035:1895042801:0736/pct:32.98097251585624,17.439234958161773,14.265808187584087,4.9442156992960555/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -251,7 +251,7 @@ which is best promoted by the practice
 of a virtuous policy, is, or ought to be,  
 tho end of all government.?Washing
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_manhattan_ver01:data:sn84020355:00279554917:1895052201:0481/pct:19.939879759519037,85.88584536499798,19.819639278557116,3.022534070975577/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_manhattan_ver01:data:sn84020355:00279554917:1895052201:0481/pct:19.939879759519037,85.89259209283497,19.829659318637276,3.036027526649575/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -366,7 +366,7 @@ which is best promoted by the prac­
 tice of a virtuous policy, is or ought to  
 be the end of all government
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_kryptonite_ver01:data:sn86069180:00100481790:1899022501:0163/pct:42.43135838150289,14.283738938053098,16.347543352601157,2.959070796460177/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_kryptonite_ver01:data:sn86069180:00100481790:1899022501:0163/pct:31.83953740513191,10.716261061946902,12.269606071557643,2.226216814159292/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -63,7 +63,7 @@ have no doubt, that in the administration
 of this law, they will not contravene the  
 constitution, either of the United States o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777791:1851101501:0380/pct:196.2934362934363,27.08525700215451,46.254826254826256,49.245921822099106/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777791:1851101501:0380/pct:49.092313634607954,6.7713142505386275,11.5681730397837,12.311480455524777/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -93,7 +93,7 @@ confidence in the intelligence and integrity of the jndges e
 of this state, I have no doubt, that in the administrationtuest  
 of this law, they will not contravene the constitiition, either e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777626:1851101601:0169/pct:268.97058823529414,199.57343949950234,85.1470588235294,32.873595905019194/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777626:1851101601:0169/pct:67.25501011215297,49.893359874875586,21.290678433535575,8.218398976254798/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -129,7 +129,7 @@ the jndires ot ibis slale, I hnve no doubt, thai in
 the adulinistration of this law, they will not con­  
 travene tho constitution, either of the Uniie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199264:1851101601:0329/pct:40.708744710860366,105.38014650164183,15.885049365303244,13.513513513513514/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199264:1851101601:0329/pct:30.541350731793333,79.03510987623137,11.920296244048668,10.14144986107603/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -167,7 +167,7 @@ I have no doubt, that in the administration of
 this law, they will not contravene the constitu­  
 tion, either of the United States or this state
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:0028077697A:1851101701:0383/pct:72.28335625859697,65.86119696543973,48.555708390646494,48.94633323967407/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:0028077697A:1851101701:0383/pct:18.070839064649242,16.465299241359933,12.138927097661623,12.236583309918517/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -208,7 +208,7 @@ will not contravene the Constitution, either
 of the United States or of this State; that  
 they will not hesitate to inquire into any a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296205:1851101801:0579/pct:184.9587912087912,24.764019988895058,103.91483516483517,355.7468073292615/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296205:1851101801:0579/pct:46.2396978021978,6.191004997223764,25.978708791208792,88.93670183231538/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -333,7 +333,7 @@ the fugitive slave act,
 or any other usurpation  
 of constitutional powers, to the contrary not
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn85049908:00415668892:1859042601:0381/pct:5.444510739856802,60.7030144738274,11.306682577565633,9.152247252149309/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn85049908:00415668892:1859042601:0381/pct:5.444510739856802,60.7030144738274,11.311654733492443,9.159502303478797/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

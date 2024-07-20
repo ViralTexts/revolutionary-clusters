@@ -100,7 +100,7 @@ or distiller, or other person, shall sell unwholesome
 bread, drink or liquor, he or she shall pay a fine not  
 less than one dollar and not more than ten dollars
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340627:1865052001:0084/pct:70.91006615412122,61.71690694626474,11.889862327909887,2.634338138925295/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340627:1865052001:0084/pct:70.8973900607794,61.708819289739225,11.892205934930283,2.637269034202595/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -121,7 +121,7 @@ or distiller, or other person, shall sell unwholesome
 bread, drink or liquor, he or she shall pay a fine not  
 less than one dollar and not more than ten dollars
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340627:1865052701:0089/pct:17.738756495251746,16.85495390209064,11.951263214477692,2.285417478249578/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340627:1865052701:0089/pct:17.735578645646722,16.852765515450532,11.953600859906844,2.288366658010906/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -141,7 +141,7 @@ eased, or any diseased or unwholesome flesh, fish,
 clams or oysters, or any unwholesome flour, meal,  
 bread or cake, or any decayed, unsound, or rotte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340676:1875093001:0160/pct:83.72018568913079,43.140205668422375,10.805186489514966,1.9688989214948582/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340676:1875093001:0160/pct:83.7067861715749,43.13479623824451,10.807458386683738,1.9717868338557993/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -161,7 +161,7 @@ eased, or any diseased or unwholesome flesh, fish,
 clams or oysters, or any unwholesome flour, meal,  
 bread or cake, or any decayed, unsound, or rotte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340676:1875100701:0164/pct:84.47833065810593,42.75125628140704,10.802568218298555,1.8969849246231156/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340676:1875100701:0164/pct:84.46477290964532,42.74588619520161,10.804846734071578,1.8998869488757695/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -182,7 +182,7 @@ brewer, distiller, or other person, who shall sell unwholesome
   
 liroad or driuka, shall for each offense, on convictiou thereof, be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016739:00295877510:1876060301:0224/pct:20.786516853932586,33.57762488782531,26.053370786516854,2.752019144481005/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016739:00295877510:1876060301:0224/pct:15.592625109745391,25.186957822315286,19.561018437225638,2.0640143583607538/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -204,7 +204,7 @@ or drink, without making the same
 fully known to the purchaser, he shall  
 be fined not less than twenty nor mor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_hotel_ver02:data:sn86064205:00175035138:1884050901:0307/pct:200.55917986952468,232.22676974382296,57.03634669151911,15.385781415795059/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_hotel_ver02:data:sn86064205:00175035138:1884050901:0307/pct:50.174865936115644,58.05669243595574,14.269060387036605,3.8464453539487646/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -239,7 +239,7 @@ wise than by slaughter, or poultry
 from whiclf the entrals, crop and  
 head have not been removed, ex
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_flint_ver01:data:sn85033549:00296023991:1892011301:0326/pct:58.66062437059416,101.21325705267311,16.137965760322256,20.16176760702308/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_flint_ver01:data:sn85033549:00296023991:1892011301:0326/pct:39.12605465306636,67.47879266127441,10.766905931242917,13.444466364174394/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -257,7 +257,7 @@ butcher or other person shall knowingly bell the
 flesh of any animal d)iug otherwise than by  
 slaughter, or slaughtered when diseased, or sel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_aluminum_ver01:data:sn87060190:00211103917:1895121101:1435/pct:81.0704960835509,78.56547122602169,21.82332463011314,1.7097581317764805/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_aluminum_ver01:data:sn87060190:00211103917:1895121101:1435/pct:60.85347267581102,58.924103419516264,16.372741127803177,1.292743953294412/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -295,7 +295,7 @@ hibit persons from setting fire to any woods
 fences grass or other things capable of spread­  
 ing fire on the land of another to abolish th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_airplane_ver01:data:sn86069873:00100481650:1898011401:0034/pct:89.65802537231109,71.6173878989622,18.408714837286265,5.228118269042491/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_airplane_ver01:data:sn86069873:00100481650:1898011401:0034/pct:67.27479652365844,53.717936166046606,13.808801213960546,3.925983943606814/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

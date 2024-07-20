@@ -4465,7 +4465,7 @@ al : or, a brief relation of the most
 memorable and remarkable pattages of the  
 providence of God manitetted to the Pun
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021193:00517172169:1772022701:0199/pct:11.368421052631579,63.547893785624915,27.242105263157896,23.133602113165576/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021193:00517172169:1772022701:0199/pct:8.810572687224669,49.25657233156156,21.123619948876925,17.932049992817124/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4499,7 +4499,7 @@ al : or, a brief relation of the most
 memorable and remarkable paflages of the  
 providence of God manifefted to the Plan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021193:00517172169:1772032601:0204/pct:62.52147766323024,73.3432714459954,26.417525773195877,21.615395039978317/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021193:00517172169:1772032601:0204/pct:48.46584919269822,56.847780422909956,20.473838983521055,16.755356392662094/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4550,7 +4550,7 @@ AL: Ora brief Relation of the molt
 memorable and remarkable PafLges of the  
 Providence of God manifefted to the Plant
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021193:00517172169:1772051401:0239/pct:97.10538218000904,46.23278043294911,28.109452736318406,24.978914815856058/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021193:00517172169:1772051401:0239/pct:75.2643570719168,35.83775147069504,21.779517438803527,19.35144164427337/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4586,7 +4586,7 @@ AL : Or a brief Relation of the most
 memorable and remarkable Pafliges of the  
 Providence of God mamfefted to the Plant
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021193:00517172169:1772052101:0243/pct:93.6742934051144,22.733651417344934,27.72543741588156,26.747123210777435/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021193:00517172169:1772052101:0243/pct:72.60242220548183,17.621895957948162,21.49272758880454,20.725031720137757/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4621,7 +4621,7 @@ AL: Or a brief Relation of the most
 memorable and remarkable PiLgei of the  
 Providence of God manifefted to the Plant
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021193:00517172169:1772060401:0249/pct:94.68785471055618,40.132226754817836,28.195232690124858,24.602616401744267/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021193:00517172169:1772060401:0249/pct:73.39315036359372,31.109415313056434,21.856673703964344,19.074094262146154/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4643,7 +4643,7 @@ AL: Ora brief Relation of the meft
 memorable and remarkable Pillages of the  
 Providence of God manifefied to the I iant­
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021193:00517172169:1772061101:0256/pct:10.72896387627082,7.780541735765617,26.73588578844906,9.203980099502488/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021193:00517172169:1772061101:0256/pct:8.315171835708298,6.037129596572653,20.7264599050014,7.136736879685826/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4670,7 +4670,7 @@ AL: Or a brief Relation of the molt
 memorable and remarkable Passages of the  
 Providence of God manifefttd to the Pian
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021193:00517172169:1772061801:0260/pct:8.538220831470719,4.897558237440359,111.93562807331247,120.85321358405838/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021193:00517172169:1772061801:0260/pct:6.628558230844737,3.80279137212253,86.74865754373809,93.6668479245967/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4689,7 +4689,7 @@ most memorable and remarkable paflages of
 the providence of God manifefted to the  
 planters of New-England ,in America: W। t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1772100801:0312/pct:37.956362065240874,101.49761742682097,26.33398142147332,5.200816882232812/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1772100801:0312/pct:29.421284669903454,78.66136747326955,20.414085607455775,4.041221159257175/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4727,7 +4727,7 @@ rial ; or, a brief relation of the
 most memorable and remarkable paflages of  
 the providence of God manifefted to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1772110501:0324/pct:6.69551355044409,31.58191294548528,27.71578228194033,28.84913368080011/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1772110501:0324/pct:5.195034417838442,24.483260553129547,21.49202800494205,22.365356622998544/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4762,7 +4762,7 @@ most memorable and remarkable paflages of
 the providence of God manifefted to the  
 plantersofNew-England ,in America: Wit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1772111901:0332/pct:10.18124860147684,44.3617469456537,26.91877377489371,23.676449936806627/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1772111901:0332/pct:7.890629516157003,34.38055505169599,20.868258280825483,18.35661164520225/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7963,7 +7963,7 @@ Littleton, by lord Edward Coke—the 1st Ameri­
 can from the lGth European edition, revised and cor­  
 lected with additions of notes, references and prope
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812080401:0106/pct:41.28440366972477,57.4395309064256,17.30275229357798,2.5164915709748352/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812080401:0106/pct:41.27682993946065,57.43251496274581,17.305693144988687,2.520255689914906/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9320,9 +9320,9 @@ and of the Rev. Mr. Bolzius, one of their Ministers
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1839-10_6_22/page/n18/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1839-10_6_22/page/n18/mode/1up?view=theater)
 
-#### 1839-10-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1839-10-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10009,7 +10009,7 @@ e e e   e e o
 Acts of Assembly of the Province of North  
 Carolina, now in force and use. Togethe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:0041566770A:1845092601:0693/pct:306.84444444444443,115.21900519673348,64.35555555555555,68.83444691907944/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:0041566770A:1845092601:0693/pct:76.71111111111111,28.80475129918337,16.08888888888889,17.20861172976986/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10507,13 +10507,13 @@ under the conduct of Martin Fraboisher, general, with a par
 I. DeBry&#x27;s Collectiones Peregrinationum in Indiam Orien­  
 talem et Indiam Occidentalem, 13 volumes, folio, Cola Star
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_diglett_ver01:data:sn82015378:00295872354:1851040901:0347/pct:50.84541062801932,55.251479289940825,36.533816425120776,2.1301775147928996/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_diglett_ver01:data:sn82015378:00295872354:1851040901:0347/pct:16.948470209339774,18.41715976331361,12.177938808373591,0.7100591715976331/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The American Whig review_](https://archive.org/details/sim_american-whig-review_1851-05_13_77/page/n2/mode/1up?view=theater)
+## [From _The American Whig Review (1850-1852)_](https://archive.org/details/sim_american-whig-review_1851-05_13_77/page/n2/mode/1up?view=theater)
 
 #### 1851-05-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -10594,7 +10594,7 @@ mestic consumption. In anether pamphlet, entitled &quot;A
 State of the Province of Georgia, attested upon oath in  
 the Court of Savannah,&quot; in 1740 it was averred tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743063:1852120701:1076/pct:105.34338633010982,194.47433310916836,46.811998033109326,3.7323470073974447/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743063:1852120701:1076/pct:35.114462110036605,64.82477770305611,15.603999344369775,1.2441156691324815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10820,7 +10820,7 @@ counlrr, together with tbe present state thereof, and a
 journal of a thousand miles, travelled through several ns  
 tions of Indians, giving a particular account of their man
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022639:1854111501:0396/pct:108.30916473317865,76.3328569858195,20.301624129930396,2.726173463779268/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022639:1854111501:0396/pct:81.27085449006238,57.249642739364624,15.232844915131293,2.044630097834451/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10839,7 +10839,7 @@ conntrv. to either with the-nresnnt ftf-at ltwamr.
 journal of a thousand miles, travelled through several na-  
 uvins oi inumnu, giving a. parucuiar account 01 tneir man-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022731:1854111501:0371/pct:107.9460966542751,76.03903144199494,20.802354399008674,2.66232983977834/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022731:1854111501:0371/pct:81.00108476677514,57.029273581496206,15.620641562064156,1.9997590651728707/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10923,7 +10923,7 @@ l r tj? .
   
 erw uatiuus ui xuuians, giving a particular account
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_black_ver02:data:sn84026561:00415667802:1854112201:0702/pct:92.85530381050464,78.6521193395771,16.181771369721936,3.166940233658395/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_black_ver02:data:sn84026561:00415667802:1854112201:0702/pct:69.65366293292134,58.99391715747804,12.141109823612721,2.3752051752437966/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10942,7 +10942,7 @@ country, together with the present state thereof, and a
 journal of a thousand miles, travelled through several na­  
 tions of Indians, giving a particular account of tbe.r man
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022731:1854112201:0377/pct:107.43365500603136,81.99786957036336,19.51145958986731,2.710379926618535/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022731:1854112201:0377/pct:80.60331825037707,61.49840217777252,14.645550527903469,2.0357438750147945/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10971,7 +10971,7 @@ country, together with the present state thereof, and a
 journal of a thousand miles, travelled through several na­  
 tions of Indians, giving a particular account of the&#x27;r plan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022731:1854112901:0385/pct:110.00592066311427,80.7472632079962,19.745411486086443,2.7367920038077105/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022731:1854112901:0385/pct:82.52887177968611,60.56639695383151,14.82084690553746,2.0466444550214185/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11039,7 +11039,7 @@ country, together with the present state thereof, and a
 journal of a thousand miles, travelled through several na­  
 tions of Indians, giving a particular account of their man
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022731:1854120201:0389/pct:109.44244604316546,73.70674277559758,19.844124700239806,2.675704602211916/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022731:1854120201:0389/pct:82.12625581046633,55.286003091925316,14.8897885739991,2.0097514567725057/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11078,7 +11078,7 @@ country, together with the present state thereof, and a
 journal of a thousand&#x27; miles, travelled through several na­  
 tions of Indians, giving a particular account of tbeir man
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022731:1854120601:0393/pct:107.06163973668463,74.65761581517208,19.539198084979056,3.1201619626056925/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022731:1854120601:0393/pct:80.30824480023941,55.99618911516018,14.664073021098309,2.346075979516494/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11377,7 +11377,7 @@ native and inhabitant of the place. London,
 MdCoV.&quot; and &quot;The History of Virginia, London,  
 172
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202190972:1855103001:0411/pct:241.81784524250278,48.714198659354054,45.1129211403184,5.923217550274223/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202190972:1855103001:0411/pct:80.60594841416759,16.238066219784685,15.037640380106133,1.9744058500914077/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11402,7 +11402,7 @@ printed by W. Parke, MDCCxlVi.&quot;
 &quot;A Reprint of the Trve travels, Adven  
 TVrEs and Observations of Captaine IOh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202190972:1855103001:0411/pct:241.72528693076637,54.868982327848876,45.13143280266568,11.005484460694698/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202190972:1855103001:0411/pct:80.5750956435888,18.289660775949624,15.043810934221893,3.668494820231566/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11685,7 +11685,7 @@ C., James Davis &quot;printer to the Honorable the
 House of Assembly.&quot; 1773.  
 &quot;Laws of the State of North Carolina; publishe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293241:1857080601:0129/pct:17.267552182163186,234.0370326689468,50.47438330170778,10.095530133270433/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293241:1857080601:0129/pct:4.318253717178108,58.5092581672367,12.62258778867447,2.5238825333176083/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11704,7 +11704,7 @@ N. O., James Davis, &quot;printer to the Honorable the
 House of Assembly.&quot; 1773.  
 &quot;Laws of the State of North Carolina; publis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn96091000:00212470223:1857080601:0125/pct:18.41286307053942,116.934835076428,47.25103734439834,9.734513274336283/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn96091000:00212470223:1857080601:0125/pct:4.604409857328145,29.233708769107,11.815823605706875,2.433628318584071/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11803,7 +11803,7 @@ The Ahbe Raynal&#x27;s llistory of the Settle-
 ments and Trade of the Europeans in the East and  
 West Indics. Svo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn85033711:00212470235:1858020101:0110/pct:299.26739926739924,274.24460431654677,43.58974358974359,6.413155190133607/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn85033711:00212470235:1858020101:0110/pct:74.81684981684981,68.56115107913669,10.897435897435898,1.6032887975334018/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11821,7 +11821,7 @@ The Abbe Raynal&#x27;s llistory of the Settle-
 ments and Trade of the Europeans in the East and  
 West ludies. 8 vols. calf
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn85033711:00212470235:1858020501:0126/pct:290.66390041493776,274.2212000836295,43.101659751037346,5.77043696424838/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn85033711:00212470235:1858020501:0126/pct:72.67539878096227,68.55530002090738,10.776812345999222,1.442609241062095/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11839,7 +11839,7 @@ The Abbe Raynal&#x27;s llistory of the Settle-
 ments and Trade of the Europeans in the East and  
 West Indies. 8 vols. calf
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn85033711:00212470235:1858020801:0134/pct:293.79600420609887,255.91150996556402,43.79600420609884,7.012417823228634/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn85033711:00212470235:1858020801:0134/pct:73.44900105152472,63.977877491391006,10.94900105152471,1.7531044558071585/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11857,7 +11857,7 @@ The Abbe Raynal&#x27;s llistory of the Settle-
 ments and Trade of the Europeans in the East and  
 West Indics. 8 vols., calf
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn85033711:00212470235:1858020901:0138/pct:292.61213720316624,258.57835551428866,44.06332453825858,7.1391725987826264/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn85033711:00212470235:1858020901:0138/pct:73.18199815230302,64.64458887857216,11.020192688399103,1.7847931496956566/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11875,7 +11875,7 @@ The Ahbe Raynal&#x27;s llistery of the Settle-
 ments and Trade of the Europeans in the East and  
 West Indics. 8 vols., calf
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn85033711:00212470235:1858021001:0142/pct:296.9601677148847,257.1192395122959,43.44863731656184,7.067575945443274/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn85033711:00212470235:1858021001:0142/pct:74.25950196592399,64.27980987807398,10.865006553079947,1.7668939863608184/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11893,7 +11893,7 @@ The Ahbe Raynal&#x27;s llistory of the Settle-
 ments and Trade of the Europeans in the East and  
 West Indies. S vols., calf
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn85033711:00212470235:1858021101:0146/pct:296.234309623431,256.05905269632973,43.46234309623431,6.88948123846627/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn85033711:00212470235:1858021101:0146/pct:74.06826206355433,64.01476317408243,10.867006669282071,1.7223703096165675/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11911,7 +11911,7 @@ The Abbe Raynal&#x27;s llistory of the Settle-
 ments and Trade of the Europeans in the East and  
 West Indies. 8 vols. calf
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn85033711:00212470235:1858021201:0150/pct:286.5192206424434,259.60210287599216,43.91785150078989,6.803422327595094/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn85033711:00212470235:1858021201:0150/pct:71.63923633969716,64.90052571899804,10.98090849242923,1.7008555818987734/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11929,7 +11929,7 @@ The Abbe Raynal&#x27;s llistory of the Settle
 ments and Trade of the Europeans in the East and  
 West Indies. 8 vols., calf
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn85033711:00212470235:1858021601:0158/pct:294.2783505154639,263.4461218115565,42.78350515463917,7.079646017699115/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn85033711:00212470235:1858021601:0158/pct:73.56958762886597,65.86153045288913,10.695876288659793,1.7699115044247788/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11947,7 +11947,7 @@ The Abbe Raynal&#x27;s llistory of the Settle-
 ments and Trade of the Europeans in the East and  
 West Indies. S vols. calf
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn85033711:00212470235:1858021901:0170/pct:293.86149003147955,264.3397813288478,43.494228751311645,7.1488645920941964/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn85033711:00212470235:1858021901:0170/pct:73.46537250786989,66.08494533221194,10.873557187827911,1.7872161480235491/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11965,7 +11965,7 @@ The Abbe Raynal&#x27;s llistory of the Settle-
 ments and Trade of the Europeans in the East and  
 West Indies. 8 vols., calf
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn85033711:00212470235:1858022001:0174/pct:296.9952556668424,261.9878125656651,43.80600948866631,7.018281151502417/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn85033711:00212470235:1858022001:0174/pct:74.2488139167106,65.49695314141627,10.951502372166578,1.7545702878756042/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11983,7 +11983,7 @@ The Ahbe Raynal&#x27;s llistory of the Settle-
 ments and Trade of the Europeans in the East and  
 West Indies. 8 vols., calf
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn85033711:00212470235:1858022201:0178/pct:301.90274841437633,263.5077052101897,43.97463002114165,7.128629835412517/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn85033711:00212470235:1858022201:0178/pct:75.50561797752809,65.87692630254743,10.998017184401851,1.7821574588531293/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12001,7 +12001,7 @@ The Ahbe Raynals listory of the Settle-
 ments and Trade of the Europeans in the East and  
 West Indies. 8 vols., calf
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn85033711:00212470235:1858022401:0186/pct:291.69693824597823,261.63021868787274,43.22781525687597,7.0314952390917655/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn85033711:00212470235:1858022401:0186/pct:72.92423456149456,65.40755467196819,10.806953814218993,1.7578738097729414/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12019,7 +12019,7 @@ The Ahbe Raynal&#x27;s llistory of the Settle-
 ments and Trade of the Europeans in the East and  
 West Indies. S vols. calf
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn85033711:00212470235:1858022501:0190/pct:301.3171759747102,266.99029126213594,43.62486828240253,7.133811734909244/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn85033711:00212470235:1858022501:0190/pct:75.34914361001317,66.74757281553399,10.909090909090908,1.783452933727311/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12037,7 +12037,7 @@ The Abhe Raynal&#x27;s listory of the Settle-
 ments and Trade of the Europeans in the East and  
 West Indies.  vols. calf
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn85033711:00212470235:1858030201:0207/pct:295.1063829787234,259.5306360836785,43.93617021276596,5.90421577997239/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn85033711:00212470235:1858030201:0207/pct:73.79622239957436,64.88265902091962,10.986964618249534,1.4760539449930976/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12055,7 +12055,7 @@ The Abbe Raynal&#x27;s llistory of the Settle-
 ments and Trade of the Europeans in the East and  
 West Indies. 8 vols., calf
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn85033711:00212470235:1858030401:0215/pct:292.85336156696667,259.0851867394041,43.67390153520381,5.8329836340746954/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn85033711:00212470235:1858030401:0215/pct:73.24242023037203,64.77129668485102,10.922812127631405,1.4582459085186739/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12073,7 +12073,7 @@ The Abbe Raynals History of the Settle-
 ments and Trade of the Europeans in the East and  
 West Indies. 8 vols., calf
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn85033711:00212470235:1858030901:0231/pct:293.46680716543733,256.67020148462353,43.51949420442571,5.896076352067868/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn85033711:00212470235:1858030901:0231/pct:73.36670179135933,64.16755037115588,10.879873551106428,1.474019088016967/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12091,7 +12091,7 @@ The Ahbe Raynal&#x27;s llistory of the Settle
 ments and Trade of the Europeans in the East and  
 West Indies. 5 vols., calf
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn85033711:00212470235:1858031201:0243/pct:293.65750528541224,259.4836782590143,43.498942917547566,6.784723703861745/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn85033711:00212470235:1858031201:0243/pct:73.41437632135306,64.87091956475358,10.874735729386892,1.6961809259654363/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12109,7 +12109,7 @@ The Abbe Raynal&#x27;s llistory of the Settle.
 ments and Trade of the Europeans in the East and  
 West Indies. 8 vols., calf
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn85033711:00212470235:1858031501:0251/pct:289.04686677198526,261.4591009579956,43.338599262769876,7.032319191493841/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn85033711:00212470235:1858031501:0251/pct:72.27123107307439,65.3647752394989,10.836076366030284,1.7580797978734604/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12127,7 +12127,7 @@ The Abbe Raynal&#x27;s llistory of the Settle-
 ments and Trade of the Europeans in the East and  
 West Indies. 8 vols. calf
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn85033711:00212470235:1858031601:0255/pct:294.9788583509514,266.93539832396306,43.498942917547566,6.78901028959372/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn85033711:00212470235:1858031601:0255/pct:73.76420830029078,66.73384958099076,10.877610362146445,1.69725257239843/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12145,7 +12145,7 @@ The Abbe Raynal&#x27;s llistory of the Settle.
 ments and Trade of the Europeans in the East and  
 West Indics. 8 vols. calf
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn85033711:00212470235:1858031801:0263/pct:293.19620253164555,261.1535199321459,43.5126582278481,6.6157760814249365/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn85033711:00212470235:1858031801:0263/pct:73.31838565022422,65.28837998303648,10.88103402796096,1.6539440203562341/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12163,7 +12163,7 @@ The Abbe Raynal&#x27;s llistory of the Settle-
 ments and Trade of the Europeans in the East and  
 West Indies. S vols. calf
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn85033711:00212470235:1858032001:0271/pct:292.90220820189273,260.731319554849,43.32281808622503,6.571277159512453/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn85033711:00212470235:1858032001:0271/pct:73.25443786982248,65.18282988871225,10.834976988823144,1.6428192898781133/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12181,7 +12181,7 @@ The Abbe Raynals History of the Settle-
 ments and Trade of the Europeans in the East and  
 West Indies. S vols., calf
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn85033711:00212470235:1858032201:0275/pct:295.31416400425985,257.6580398812049,43.9297124600639,6.661009758167162/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn85033711:00212470235:1858032201:0275/pct:73.85803702223998,64.41450997030122,10.986815821014781,1.6652524395417905/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12199,7 +12199,7 @@ The Ahbe Raynal&#x27;s listory of the Settle-
 ments and Trade of the Europeans in the East and  
 West Indies. 8 vols. calf
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn85033711:00212470235:1858032301:0279/pct:292.2712933753943,259.3147751605996,43.32281808622503,6.680942184154175/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn85033711:00212470235:1858032301:0279/pct:73.06782334384857,64.8286937901499,10.830704521556257,1.6702355460385439/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12217,7 +12217,7 @@ The Abbe Raynal&#x27;s listory of the Settle
 ments and Trade of the Europeans in the East and  
 West Indies. 8 vols., calf
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn85033711:00212470235:1858032401:0283/pct:295.4227248249865,260.80119009669534,44.211093161012386,6.7155456380830945/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn85033711:00212470235:1858032401:0283/pct:73.87557231349314,65.20029752417383,11.055750067331,1.6788864095207736/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12765,7 +12765,7 @@ Zouche, 1809”—Is. 285. “Purchas his Pil­
 grimage , or, Relations of the World and the  
 Religions observed in all Places Discovere
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_bia_ver01:data:sn83021205:00517172042:1859081201:0747/pct:7.241379310344827,48.30795262267343,15.900383141762452,1.6638465877044557/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_bia_ver01:data:sn83021205:00517172042:1859081201:0747/pct:5.612194397703653,37.4458164863585,12.323072354746115,1.2894765599388045/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12782,7 +12782,7 @@ Ashbv de la Zottche, 1809&quot;—£1. 285. &quot;Purcliashis
 Pilgrimage: or, Relations of the World and the Re­  
 ligions observed in all Places Discovered from th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026359:1859081201:0151/pct:86.03003683763106,31.79523424878837,10.952111079625956,1.0197899838449112/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026359:1859081201:0151/pct:86.0347596108435,31.801965535810446,10.956833852838386,1.0164243403338717/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14577,7 +14577,7 @@ in London “ a description of the English Province of
 Carolina, by the Spaniards called Florida, and by the  
 French La Louisiana, as also of the great and famou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dunbar_ver01:data:sn85026214:print00211110181:1870110601:0003/pct:55.78130772072405,12.165481577246283,12.098263760620613,0.982546864899806/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dunbar_ver01:data:sn85026214:print00211110181:1870110601:0003/pct:55.78130772072405,12.168713639301874,12.107499076468415,0.995475113122172/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14596,7 +14596,7 @@ nological Deduction of the Origin of Com­
 merce, from tho Earliest Accounts to tho Pres­  
 ent Time, containing a History of the Larg
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dunbar_ver01:data:sn85026214:print00211110181:1871040901:0003/pct:44.833183047790804,48.935346496322104,11.794409377817853,1.7937798425603304/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dunbar_ver01:data:sn85026214:print00211110181:1871040901:0003/pct:44.83769161406673,48.94179894179894,11.798917944093779,1.7970060652987483/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14846,7 +14846,7 @@ of the Gentlemen, Merchants and In
 habitants of Boston and the Country  
 Adjacent,&quot; gives an account of &quot;th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477862:1871120601:0098/pct:209.1620986687549,30.637813211845103,44.47924823805795,8.200455580865604/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477862:1871120601:0098/pct:52.32125367286974,7.659453302961276,11.126346718903037,2.050113895216401/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14863,7 +14863,7 @@ Adjacent,&quot; gives an account of &quot;th
 Province of New Hampshire, in  
 New England; with sundry Acts o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_kirby_ver02:data:sn84022552:00202197231:1871120801:0195/pct:111.13707165109034,291.79041748388903,49.76635514018692,7.565144298122723/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_kirby_ver02:data:sn84022552:00202197231:1871120801:0195/pct:27.784267912772584,72.94760437097226,12.44158878504673,1.8912860745306808/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14880,7 +14880,7 @@ titled &quot;The Declaration of the Gentlemen,
 Merchants and Inhabitants of Boston and the  
 Country Adjacent,&#x27;&quot; they complain that Si
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:0029455127A:1871121401:0136/pct:82.12101705825555,16.691941074523395,15.980045059542967,1.7872616984402079/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:0029455127A:1871121401:0136/pct:82.12638128956121,16.691941074523395,15.99613775345993,1.7944829578278452/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15318,7 +15318,7 @@ Honorable Charles, Absolute Lord and Pro­
 prietarie of the province of Maryland and  
 Avalon, Lord Baron of Baltimore &amp;c., hel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624359:1874071001:0092/pct:82.11872933735806,46.84823193498792,12.117291936179388,1.3946848231934987/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624359:1874071001:0092/pct:82.12352067462028,46.84823193498792,12.112500598917158,1.4020060033677428/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15383,7 +15383,7 @@ and the Summer lsles,&quot; London, 1624, brought $14750;
 and &quot;The Five Travels, Adventures, and Observations&quot;  
 of Capt. John Smith, London, 1630, brought the sam
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hugo_ver01:data:sn83030214:00206531216:1875052901:0608/pct:52.25297714837464,73.68602645198389,48.05278403604763,6.21046578493387/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hugo_ver01:data:sn83030214:00206531216:1875052901:0608/pct:17.417659049458212,24.562008817327968,16.017594678682546,2.0701552616446235/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15401,7 +15401,7 @@ voyage performed by Captain Cook and
 Captain Clerke, in his Majesty&#x27;s ships Res­  
 olution and Discovery, during the year
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84022473:00280777559:1875060901:0512/pct:69.34201012292118,209.1264667535854,42.44396240057845,6.895552658264522/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84022473:00280777559:1875060901:0512/pct:17.33863677454348,52.28161668839635,10.612909058036522,1.7238881645661306/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15636,7 +15636,7 @@ from Charles the Second, absolute lord and proprietary of
 the provinces of Maryland and Avalon. Lord Baron of  
 Baltimore, to Richard Taylor, issued Sept. 20th, 1721
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_indianhead_ver01:data:sn83016368:0041562752A:1876042201:0027/pct:3.200568990042674,90.53799455725351,11.194879089615931,0.9734142767427255/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_indianhead_ver01:data:sn83016368:0041562752A:1876042201:0027/pct:3.2053105737316265,90.54148349731352,11.199620673304883,0.9734142767427255/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15653,7 +15653,7 @@ from Charles the Second, absolute lord and proprietary of
 the provinces of Maryland and Avalon. Lord Baron of  
 Baltimore, to Richard Taylor, issued Sept. 20th, 1721
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_indianhead_ver01:data:sn83016368:0041562752A:1876042202:0031/pct:4.9607275733774285,87.1532992890758,10.789582472095907,0.9111845399018724/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_indianhead_ver01:data:sn83016368:0041562752A:1876042202:0031/pct:4.96991410592072,87.1532992890758,10.784989205824262,0.9145222122092053/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15740,7 +15740,7 @@ domain of the right honorable Charles, abso-­
 lute lord and proprietary of the provinces of  
 Maryland and Avalon, Lord Baron of Balti
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_braniff_ver01:data:sn86053573:00294558378:1877100501:1030/pct:276.1061946902655,301.9249465292631,49.557522123893804,7.388683647676453/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_braniff_ver01:data:sn86053573:00294558378:1877100501:1030/pct:69.07749077490774,75.48123663231577,12.398523985239853,1.8471709119191133/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15763,7 +15763,7 @@ Charles, Lord Baron of Baltimore, absolute
 Lord and Proprietary of the provinces of  
 Maryland aud Avelon, A. D., 1730, amon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624542:1877122901:0733/pct:82.42497412901001,58.71330418488445,14.642980338047602,5.733916302311056/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624542:1877122901:0733/pct:63.88789877027268,45.50940717074902,11.343788985920513,4.437344692935747/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15922,7 +15922,7 @@ Wonders of the Invisible World: Being an Ac­
 count of the Tryals of Several Witches, Litely  
 Exesuted in New England. And of Several Re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:00206533523:1879031401:0623/pct:63.84439359267734,277.47105966162064,50.34324942791762,6.1145740575838525/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:00206533523:1879031401:0623/pct:15.961098398169336,69.36776491540516,12.585812356979405,1.5286435143959631/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15959,7 +15959,7 @@ western parts of Virginia, Pennsylvania, Mary­
 land, and North Carolina, comprehending the  
 Hirer Ohio and nd thn rivers widen fall Into It
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pulaski_ver01:data:sn84031492:no_reel:1879052301:0011/pct:70.76429716729022,10.82052305849471,13.174772848743988,1.4773407865841486/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pulaski_ver01:data:sn84031492:no_reel:1879052301:0011/pct:70.76429716729022,10.825514074665602,13.194815606627472,1.482331802755041/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16004,7 +16004,7 @@ traveler, who was at Crown Point in 1748.
 These volumes are entitled, &quot;Travels Into  
 North America;&quot; containing its natural his
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_harry_ver01:data:sn86053573:00211102378:1879100201:0316/pct:324.0,297.1360023991603,48.301886792452834,5.218173639226271/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_harry_ver01:data:sn86053573:00211102378:1879100201:0316/pct:81.04587502359826,74.28400059979008,12.082310741929394,1.3045434098065678/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16020,7 +16020,7 @@ North America;&quot; containing its natural his
 Colden&#x27;s &quot;History of the Five Indian Nations depend-­  
 ing on the Province of New-York,&quot; New-York, brad
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_avanti_ver01:data:sn83030214:00175039788:1880032401:0720/pct:16.75908810844116,139.1289707037827,44.947627849661124,3.3561566954764843/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_avanti_ver01:data:sn83030214:00175039788:1880032401:0720/pct:5.5863627028137195,46.376323567927564,14.982542616553706,1.1187188984921614/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16038,7 +16038,7 @@ being an account of the Tryals of Several witches lately
 executed in New-England,&quot; with three other papers on  
 witcheraft, London, 1693, and marked very rare, wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_avanti_ver01:data:sn83030214:00175039788:1880032401:0720/pct:62.61552680221811,14.973622179818161,45.44054220579174,5.0061735323829835/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_avanti_ver01:data:sn83030214:00175039788:1880032401:0720/pct:20.871842267406038,4.99120739327272,15.14684740193058,1.6687245107943278/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16105,7 +16105,7 @@ Paul Knapion, issued a book entitled,
 The National and Private Advantages  
 of the African Trade considered, bein
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00280779180:1880051301:0083/pct:135.1010101010101,222.4712804707201,49.74747474747475,34.29532081815635/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00280779180:1880051301:0083/pct:33.775252525252526,55.617820117680026,12.436868686868687,8.573830204539087/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16314,7 +16314,7 @@ Maryland hi. Frederick (uow Allegany)
 of the Provinces of Maryland and Ava-  
 I n, Lord Baron of Baltimore, Ac ,to a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_laplata_ver01:data:sn85025350:0041562637A:1883010601:0684/pct:69.2732855680655,87.29944519418204,12.896622313203684,2.219223271854851/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_laplata_ver01:data:sn85025350:0041562637A:1883010601:0684/pct:69.28010917775504,87.29944519418204,12.88979870351416,2.2242215224671367/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16331,7 +16331,7 @@ Maryland, Ss.: Frederick, Absolute Lord j
 and Proprietary of the Province of Maryland |  
 and Avalon, Lord Baron of Baltimore, Ac., 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623847:1883021001:0033/pct:25.245522819179666,29.32059447983015,11.727325245522819,1.2314225053078556/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623847:1883021001:0033/pct:25.245522819179666,29.3241330502477,11.736953591373002,1.234961075725407/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16439,7 +16439,7 @@ prices realized: Sir W. Talbot&#x27;s &quot;Discoveries of John
 Lederer, in Three Several Marches from Virginia to the  
 West of Carolina and Other Parts of the Continent. Co
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044814:1883072401:0945/pct:285.7698001480385,266.4124420517422,49.31532198371577,3.7834604456407956/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044814:1883072401:0945/pct:71.48213293834475,66.60311051293554,12.335678578041103,0.9458651114101989/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16467,7 +16467,7 @@ coveries of John Lederer, in Three Several
 Marches from Virginia to the West of Caro­  
 j 1 iua and other I&#x27;&lt;trts of the Continent. Col
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_nova_ver02:data:sn86092523:00383341681:1883080501:0050/pct:51.82450043440487,33.915365653245686,11.80133217492036,2.0336894001643384/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_nova_ver02:data:sn86092523:00383341681:1883080501:0050/pct:51.816997249167514,33.91188251001335,11.804449592201149,2.0369039060627845/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16578,7 +16578,7 @@ Cook and Captain Clerk, in his Majesty&#x27;s
 George I II.&#x27;sl ships Resolution and Discovery,  
 during the years 1776, 1777, 1778, 1779, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044826:1884011101:0805/pct:283.3084947839046,173.0090532453583,48.8822652757079,7.503452508823078/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044826:1884011101:0805/pct:70.86672879776329,43.252263311339576,12.227399813606711,1.8758631272057695/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16931,7 +16931,7 @@ solute lord and proprietary of the province of
 Maryland, and Avalon, lord baron of Balti­  
 more, Ac., through Horatio Sharpe, Esq.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623872:1886020601:0036/pct:26.420918830579264,13.684067057380402,10.822589431632467,1.6355458634319204/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623872:1886020601:0036/pct:26.420918830579264,13.693153423288356,10.840748138732522,1.631002680477943/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16966,7 +16966,7 @@ jto wit; Frederick, Absolute, Lord and
 | Proprietary of* the Province of Maryland  
 : and Avalon, Lord Baron of Baltimor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624591:1886071701:0288/pct:46.09177215189873,19.060773480662984,13.259493670886076,1.705500840739851/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624591:1886071701:0288/pct:35.724504394032294,14.775054297238597,10.275904353157571,1.3217499224325162/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17016,7 +17016,7 @@ The Wonders of the Invisible World. Being an Ac­
 count of the Tryals of Several Witches Lately Executed  
 in New England, and of several lemarkable Curlositie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_dante_ver01:data:sn83030272:00175044905:1886122701:0190/pct:226.6768292682927,195.94062405331718,50.91463414634146,18.47924871251136/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_dante_ver01:data:sn83030272:00175044905:1886122701:0190/pct:56.70162059103909,48.985156013329295,12.735938989513823,4.61981217812784/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17032,7 +17032,7 @@ in New England, and of several lemarkable Curlositie
 SiR: &quot;The General Laws and Liberties of the Massa  
 chusetts Colony.&quot; Cambridge, 1972. The newspape
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_rolls_ver01:data:sn83030214:00175038176:1887042701:0259/pct:102.89948453608247,179.50234322695826,46.53672680412371,3.3920999776835528/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_rolls_ver01:data:sn83030214:00175038176:1887042701:0259/pct:34.299828178694156,59.83411440898609,15.512242268041238,1.1306999925611843/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17118,7 +17118,7 @@ History of New England, from its first planting in the year 1620 to 1698
 tion the tide ‘The True Interest and Political  
 Maxims of the Republic of Holland,’ in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:fu:batch_fu_frenchfries_ver01:data:sn82015289:00414180589:1888100201:0088/pct:46.21782799748902,77.12558901864372,16.572504708097927,1.014136447449293/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:fu:batch_fu_frenchfries_ver01:data:sn82015289:00414180589:1888100201:0088/pct:46.21782799748902,77.12558901864372,16.5829671479389,1.0175510482824557/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17194,7 +17194,7 @@ is published in the Adterteter:
 proprietor of the Provinces of Maryland ,  
 and Avalon, Lord Baron of Baltimor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_galena_ver02:data:sn88065721:0027952164A:1889010401:0348/pct:16.53621981681932,12.24721654169507,15.653621981681932,3.044762553965008/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_galena_ver02:data:sn88065721:0027952164A:1889010401:0348/pct:16.547321676380793,12.254790577898962,15.65917291146267,3.044762553965008/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17212,7 +17212,7 @@ Lord and Proprietary of the Province
 of Maryland and Avalon, Lord Baron  
 of Baltimore, etc., to all persons t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn85030221:00212473029:1889012401:0436/pct:58.20333512641205,124.33473389355743,13.017751479289942,2.5793650793650795/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn85030221:00212473029:1889012401:0436/pct:43.66424535916061,93.25396825396825,9.779391982781814,1.9374416433239963/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17241,7 +17241,7 @@ absolute lord and proprietor of the provinces
 of Maryland and Avalon, lord baron of Balti­  
 more, Ac.” It hardly seems that that poten
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_indianhead_ver01:data:sn83016368:00415627580:1889072001:0080/pct:61.431967556985036,65.96729404504782,10.921549433645644,1.820425794507868/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_indianhead_ver01:data:sn83016368:00415627580:1889072001:0080/pct:61.44129026243416,65.97072234221262,10.921549433645644,1.8272823888374645/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17588,7 +17588,7 @@ printed in London in 1633.
 found in the Strange and Dangerous Voy­  
 age of Captain Thomas James printed i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_anderson_ver01:data:sn85058130:175048662:1890032301:0075/pct:24.520153550863725,87.91251455933738,16.426743442098527,1.2682800569431862/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_anderson_ver01:data:sn85058130:175048662:1890032301:0075/pct:16.352,58.612656917302964,10.96,0.8412061602174195/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18545,7 +18545,7 @@ the Five Indian Nations Depending on
 the Province of New York in America,&#x27;  
 fpria ted by William Bradford in 1727
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00237286844:1894101201:0166/pct:48.07577565632458,38.45056512674201,18.80966587112172,4.575880610117415/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00237286844:1894101201:0166/pct:32.060271520214826,25.633710084494677,12.546620916007758,3.05058707341161/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18563,7 +18563,7 @@ the Five Indian Nations Depending on
 the Province of f^ew York in America,&#x27;  
 printed -by William Bradford in 1727
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn84020639:00414187481:1894101401:0109/pct:35.146523654472325,87.33313987231573,13.445700057460257,2.292513058618688/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn84020639:00414187481:1894101401:0109/pct:35.13979318268863,87.32047004207166,13.447912677135196,2.295807340780502/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18617,7 +18617,7 @@ Charles, Absolute Lord and Proprie­
 tary of the Provinces of Maryland and j  
 Avalon, Lord Baron of Baltimore, etc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_frederick_ver03:data:sn89060092:00279521882:1895032901:0122/pct:52.398226521563885,16.16741895773492,17.311567916162836,2.735603884557516/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_frederick_ver03:data:sn89060092:00279521882:1895032901:0122/pct:40.60807996668055,12.536659481997102,13.431903373594336,2.1200664287481006/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18902,7 +18902,7 @@ Nation, Made by Sea and Overland, to the
 Remotest and Farthest Distant Quarters  
 of the Earth. London, 15!)8. &quot; There i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_inge_ver01:data:sn82016014:00295871325:1896071601:0121/pct:94.91738505747126,90.45848822800495,16.720545977011493,3.547087980173482/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_inge_ver01:data:sn82016014:00295871325:1896071601:0121/pct:71.20531704688342,67.84386617100371,12.556134363211784,2.664188351920694/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18939,7 +18939,7 @@ fiques and Discoveries of the English
 Nation, Made by Sea and Overland, to the  
 Remotest and Farthest Distant Quarter
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn85044812:00340583231:1896071901:0665/pct:81.17495711835335,67.56594724220624,13.572041166380789,2.0833333333333335/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn85044812:00340583231:1896071901:0665/pct:81.15755627009646,67.55582196912933,13.57449088960343,2.0867675708077327/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -19012,7 +19012,7 @@ Nation, Made by Sea and Overland, to the
 Remotest and Farthest Distant Quarters  
 of the Earth. London, 1598.” There i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_elliot_ver01:data:sn87068079:00332896490:1896073001:0344/pct:75.44436146377895,65.72614107883817,9.514563106796116,2.086544161232958/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_elliot_ver01:data:sn87068079:00332896490:1896073001:0344/pct:75.43309438470729,65.71834992887625,9.516875746714456,2.0892603129445235/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -19162,7 +19162,7 @@ account of A State of the Province of
 Georgia Attested Upon Earth In the  
 Court of Savannah November 10 174
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:206534643:1897070101:0288/pct:41.33833646028768,125.24010756819055,17.401500938086304,2.8300678704059417/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:206534643:1897070101:0288/pct:27.57703738463945,83.49340504546036,11.606444548725168,1.8909804925940155/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -19372,7 +19372,7 @@ the present State thereof, ami a journo,
 of a thousand miles, traveled thro’ sev­  
 eral nations of Indians, giving a part
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:00332892162:1898020401:0265/pct:36.093313619188436,82.02234760482354,14.325611959914571,2.998119260980197/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:00332892162:1898020401:0265/pct:36.093313619188436,82.02603532839179,14.331088111275395,2.9944315374119554/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -19518,7 +19518,7 @@ work entitled &quot;A true rolation of such occur­
 rences and accidents of Noate as hath hapned  
 in Virginia since the first planting of that col
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_stein_ver01:data:sn83030272:00175042994:1898040101:0221/pct:168.63189720332576,234.27620632279533,50.11337868480726,5.687490546059598/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_stein_ver01:data:sn83030272:00175042994:1898040101:0221/pct:42.17391304347826,58.56905158069883,12.533081285444235,1.4218726365148995/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -19666,7 +19666,7 @@ only denote that the title was four times
 printed. What seems to be the first issue  
 states that the Relation was &#x27;Written by 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_nicasio_ver01:data:sn85042461:00280769794:1898052901:0422/pct:6.910486967064053,50.83308088458043,12.386340674883815,4.725840654347167/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_nicasio_ver01:data:sn85042461:00280769794:1898052901:0422/pct:6.920590018185492,50.844441078461074,12.386340674883815,4.72205392305362/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

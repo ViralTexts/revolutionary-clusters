@@ -152,7 +152,7 @@ firtlur arrangements within bis dillrict as he
 fiiail deem expedient.  
 PiHLLIP CIIURCII, slUdeC.n
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1800010601:0316/pct:52.622834084975075,7.53168202764977,22.383099928791836,73.93433179723502/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1800010601:0316/pct:52.610346464167066,7.530597552195824,22.38372093023256,73.92728581713463/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -276,7 +276,7 @@ Major General Brown will give the ne­
 cessary orders for carrying into effect the  
 foregoing directions
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn82014309:00414182926:1826071801:0016/pct:40.446552064809325,60.455964174243455,17.644734242244617,13.733206676618266/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn82014309:00414182926:1826071801:0016/pct:40.438561833267485,60.44776119402985,17.64618727775583,13.734735413839891/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -295,7 +295,7 @@ crape on the left arm, by way of mourning, for
 6 months. Maj. Gen. Brown has issued the  
 following order : that on the Tuesday succeed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1826071801:0114/pct:77.51105495893873,62.578488960907436,16.53506001263424,2.7648369455134696/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1826071801:0114/pct:77.52158349126132,62.58524069948012,16.53506001263424,2.758085206940787/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -339,7 +339,7 @@ the day, be half mast. The officers of the A&#x27;­
 my will wear crape on the left arm for me pe­  
 liod of six months
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025007:00414216493:1834062401:0605/pct:22.32676414494596,30.143498547407344,18.52511125238398,5.801567039352055/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025007:00414216493:1834062401:0605/pct:22.323925756420035,30.140845070422536,18.526993813035002,5.803990610328638/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -386,7 +386,7 @@ the left arm for the period of six months.
 This order will be carried into effect  
 under the direction of the commandin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152743:1834062601:0897/pct:2.897322941375805,73.25957235206366,14.808539478143002,14.955246146195922/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152743:1834062601:0897/pct:2.908618547385067,73.25957235206366,14.808539478143002,14.97182164760484/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -455,7 +455,7 @@ for the period of six months.
 This order will be carried into effect un­  
 der the direction ofthe commanding office
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_queen_ver01:data:sn84026826:00393349414:1834062801:0009/pct:37.600401606425706,25.722932078009414,16.516064257028113,10.759919300605246/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_queen_ver01:data:sn84026826:00393349414:1834062801:0009/pct:37.590966122961106,25.71860816944024,16.51819322459222,10.762312993780467/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -665,7 +665,7 @@ due to the viitius, talents, and memorable ser-
 je of the ilhtttriotw deceased, h direct &#x27;  
 ftmml bouors be paid to him at all-stattoi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_earl_ver02:data:sn85054468:211102214:1899121001:0557/pct:84.92388758782201,7.339142091152815,34.894613583138174,136.05898123324397/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_earl_ver02:data:sn85054468:211102214:1899121001:0557/pct:56.624213145952275,4.892761394101877,23.276240667545014,90.70598748882931/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -740,7 +740,7 @@ The day of performing the ceremonial, at each station, is left to the particular
 Major-GenerabPinckney will make such further arrangements within his district, as he shall  
 deem expedient
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_rumi_ver01:data:sn83030272:00206539045:1899121401:0610/pct:280.76335877862596,27.055463700586202,106.10687022900764,126.8600631294153/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_rumi_ver01:data:sn83030272:00206539045:1899121401:0610/pct:70.21764032073311,6.7638659251465505,26.53684612447499,31.715015782353824/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -824,7 +824,7 @@ commander.
 Major-General Pinckney will make such further arrangements within his dis­  
 trict, as he shall deem expedient
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_earl_ver02:data:sn85054468:211102214:1899121501:0610/pct:31.4997104806022,18.78574571051474,33.70005790387956,44.64364276286845/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_earl_ver02:data:sn85054468:211102214:1899121501:0610/pct:21.007673374837122,12.527496700395952,22.469958013609382,29.76242850857897/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

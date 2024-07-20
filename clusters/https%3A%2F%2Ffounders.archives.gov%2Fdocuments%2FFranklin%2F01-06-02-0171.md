@@ -138,7 +138,7 @@ grieved at this, since we are soon to
 follow, and we know where to find  
 him. Adieu, B: ¥
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789040101:0362/pct:50.896649362907034,27.628439637346908,20.05663048607834,36.281215205980594/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789040101:0362/pct:50.90451470819569,27.628439637346908,20.072361176655654,36.29181909760882/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -622,7 +622,7 @@ since we are soon to follow, and we
 know where to find them., Adieu,  
 B. F
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790060301:0604/pct:3.307046553039939,35.837765957446805,21.877384889341133,35.77127659574468/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790060301:0604/pct:3.3240057661324514,35.837765957446805,21.877384889341133,35.782358156028366/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1216,7 +1216,7 @@ M a party forever—his carriage was firft n a­
 &quot; fince we are foon to follow, and kno.v  
 &quot; where to find him ? Adieu 1&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800110701:0001/pct:29.08567314614831,13.812237552489503,42.35661147108231,80.66886622675464/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800110701:0001/pct:29.1016718662507,13.817236552689462,42.36461083113351,80.6738652269546/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1640,7 +1640,7 @@ should you out! I lie grieved «l this,
 since we are soon to follow, and know  
 where to tiud him? Adieu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn83026162:00542866561:1822110201:0035/pct:48.35350408105826,26.493000177210703,20.714888826343934,30.551125287967395/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn83026162:00542866561:1822110201:0035/pct:48.33989870568374,26.48830616583983,20.716094541361844,30.550141743444367/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1815,7 +1815,7 @@ was little to, or cipille of anting
 him uff r.  
 Our snd we Mt in? l 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1823050701:0518/pct:44.183078045222466,2.8873574144486693,36.14150255288111,89.93583650190114/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1823050701:0518/pct:44.18915633357646,2.8952788339670468,36.15365912958911,89.93583650190114/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2401,7 +2401,7 @@ scat was ready first, and he is gone before us. We 1
 could not all conveniently go together : and why should i  
 wo be grieved at this, since wc are soon to follow, and 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183700:1845042401:0269/pct:2.4676850763807288,56.8733153638814,15.246768507638073,9.332884097035041/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183700:1845042401:0269/pct:2.4673226611837276,56.86692869174621,15.249424780927205,9.335579262586561/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2504,7 +2504,7 @@ the soul is to enter into real life. This
   
 is rather an embryo state--a preparation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn84028880:00296027558:1853110801:0186/pct:271.3749060856499,165.06937491059935,101.27723516153269,13.274209698183379/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn84028880:00296027558:1853110801:0186/pct:67.86922209695604,41.26734372764984,25.32882375046975,3.3185524245458446/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2529,7 +2529,7 @@ us in acquiring knowledge, or doing
   
 laborers for God. During the last
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn84028880:00296027558:1853110801:0186/pct:222.76483846731782,182.29151766557,98.72276483846731,13.903590330424832/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn84028880:00296027558:1853110801:0186/pct:55.71213829387448,45.5728794163925,24.689966178128522,3.475897582606208/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2568,7 +2568,7 @@ should you and I be grieved at this, since
 we are soon to folloa, and know whare  
 to find him? Adieu.we to nir
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn84028880:00296027558:1853110801:0186/pct:272.877535687453,207.12344442855098,49.43651389932381,48.40509226147905/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn84028880:00296027558:1853110801:0186/pct:68.24502066892146,51.780861107137746,12.363773017662533,12.101273065369762/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2624,7 +2624,7 @@ we are soon to follow, and know where
 toJind him I .Adieu.  
 “B. FRANKLIN.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159336:1853111601:0077/pct:15.4858454475899,48.645598194130926,12.915072685539403,23.37471783295711/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159336:1853111601:0077/pct:15.496046926804386,48.64936042136945,12.915072685539403,23.37471783295711/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2664,7 +2664,7 @@ and be Is gone before us. We could not .conveniently start
 together, and why should you and I be grieved at this, since  
 We are to foHow, and know where to find him 7 Adieu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1853112901:0042/pct:3.4184272300469485,87.91900794419686,18.177816901408452,10.153071110249952/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1853112901:0042/pct:3.42820813771518,87.91900794419686,18.177816901408452,10.156300458567461/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2780,7 +2780,7 @@ n- T -. - -l. -1-tl.l Tlt r 1 .-&quot; frvliiriul i f 4 c&#x27;. r t s !
 him Adieu.  
 B. Franklin&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn86071378:0021247762A:1853123001:0271/pct:46.52641878669276,67.96806785580641,19.87932159165036,27.37931894723712/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn86071378:0021247762A:1853123001:0271/pct:34.91597324196443,50.979169265311214,14.91271006689509,20.531370836971437/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2838,7 +2838,7 @@ invited abroad on
 a party of pleasure, which is to tast forerer.  
 at this ainse we are soon to fallow and loo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472050:1853123101:0089/pct:123.1680236861584,301.29655172413794,50.259067357512954,60.855172413793106/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472050:1853123101:0089/pct:30.79770497871553,75.32413793103449,12.567092356098463,15.213793103448277/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2893,7 +2893,7 @@ should you and I be grieved at this, since
 we are soon to follow, and know tchert to  
 findhinwd Adieu. B. Fkanelix
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kuvasz_ver02:data:sn83045461:00280654036:1854010901:0028/pct:82.27390180878552,11.410028263372762,16.7786391042205,22.286192819009734/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kuvasz_ver02:data:sn83045461:00280654036:1854010901:0028/pct:82.27820844099914,11.412645242332252,16.782945736434108,22.286192819009734/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2920,7 +2920,7 @@ hefare e We apuld not
 has gone before us. We could not con  
 veniently start together; why should you
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn84028083:00280775241:1859022501:0036/pct:325.70772762050495,260.8215996516185,53.710788064269316,24.32863986064741/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn84028083:00280775241:1859022501:0036/pct:81.4580941446613,65.20539991290462,13.432835820895523,6.0821599651618525/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2963,7 +2963,7 @@ and I be grieved at this, since we aie so
 to follow, and know where to find him?&quot;  
 Dr. FrankLIN&#x27;S Works.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn84028083:00280775241:1859022501:0036/pct:326.2433052792655,208.09986935694585,52.71614384085692,83.08898243576716/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn84028083:00280775241:1859022501:0036/pct:81.59203980099502,52.02496733923646,13.18407960199005,20.77224560894179/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3021,7 +3021,7 @@ should and I be grieved at
 this, since we are soon to follow, and  
 where to find 1—Dr. Frank
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_datsun_ver01:data:sn85025569:0021247258A:1859051401:0143/pct:43.89783775939632,68.00310111861779,12.654186620229284,23.5906523424521/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_datsun_ver01:data:sn85025569:0021247258A:1859051401:0143/pct:43.907512213998935,68.00310111861779,12.654186620229284,23.60541957396537/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3075,7 +3075,7 @@ you and 1 bo grieved ft this, sinco we
 tre coon to folio., end know wheic to  
 find him?&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_flint_ver01:data:sn97063063:00296024302:1859082501:0021/pct:81.19633657698913,100.49643859270451,18.832283915283345,32.37642995898985/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_flint_ver01:data:sn97063063:00296024302:1859082501:0021/pct:54.158911954187545,66.99762572846967,12.55547602004295,21.58428663932657/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3132,7 +3132,7 @@ why should you and I he grieved at
 this, since we are soon to follow, and  
 know where to find him? Adieu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_gaul_ver01:data:sn83021447:00237285475:1859102901:0038/pct:188.36846213895393,87.93473593817089,59.01639344262295,108.65893802776586/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_gaul_ver01:data:sn83021447:00237285475:1859102901:0038/pct:47.09211553473848,21.983683984542722,14.754098360655737,27.164734506941464/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3356,7 +3356,7 @@ together. Why should you and 1 be grieved
 at this, since we are soon to follow, and  
 know where to find him 1—Dt. Franklin&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn84038814:00279557190:1860062401:1235/pct:17.597022860180754,23.110151187904968,12.546517809675704,15.398297547960869/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn84038814:00279557190:1860062401:1235/pct:17.601453127768917,23.110151187904968,12.555378344852029,15.407826197433618/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3460,7 +3460,7 @@ us; we conld ant conveniently start together
 Why should you and I be grieved at this, siace  
 aare soon to follow and know where to fin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn83045628:00200293587:1860112401:0183/pct:241.44609425435766,219.8363023591719,44.415752098127825,39.38372652864709/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn83045628:00200293587:1860112401:0183/pct:60.39076376554174,54.959075589792974,11.109316970773454,9.845931632161772/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3524,7 +3524,7 @@ this, sines wij are soon to follow, and
 know where to lied him ?  
 Adieu. B. Frankli.y
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032312:00513685257:1863123101:0170/pct:55.3694939934474,46.05055292259084,12.813978886057518,21.011058451816744/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032312:00513685257:1863123101:0170/pct:55.35941765241128,46.04449124654469,12.816196542311191,21.01158351981045/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3589,7 +3589,7 @@ you and I be grieved at this, since wo
 aro soon to follow, and know where to  
 find him? Dr. Franklin&#x27;s Worki
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027467:1865102501:0500/pct:106.42772511848341,35.17224765116839,16.395142180094787,39.02674054444712/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027467:1865102501:0500/pct:79.86368350866795,26.379185738376293,12.298118239739221,29.27005540833534/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3756,7 +3756,7 @@ tind and benevolent that a way is provided by which
 may st r of them. That way is death. Wa ourselved  
 prudently, in some cases, chooss a partlal death
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_euclid_ver01:data:sn83030214:00206530911:1869021101:0292/pct:5.500770416024653,18.091058694459683,48.613251155624035,23.642347778387272/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_euclid_ver01:data:sn83030214:00206530911:1869021101:0292/pct:1.8335901386748845,6.030352898153227,16.204417051874678,7.880782592795758/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3813,7 +3813,7 @@ and why should you and I be grieved at
 this, since we are soon to follow, and we  
 know where to find him
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_dillinger_ver02:data:sn87056248:0020029581A:1869021101:0555/pct:176.0891089108911,55.09704164311287,98.26732673267327,321.8767665347654/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_dillinger_ver02:data:sn87056248:0020029581A:1869021101:0555/pct:44.03862820354092,13.774260410778217,24.57595641946267,80.46919163369135/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3872,7 +3872,7 @@ this, since we are - .af hs grieved at
 know where -oon to follow, and we  
 Adieu • -o find him 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn85033153:00271769714:1869021101:0405/pct:65.90389016018307,14.030722630895717,23.67748014537623,87.3864128083081/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn85033153:00271769714:1869021101:0405/pct:62.608695652173914,13.335845437106057,22.493606138107417,83.02274595779666/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3983,7 +3983,7 @@ and why should you and I be grieved at
 this, since we are soon to follow, and we  
 know where to find him 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_flobberworm_ver01:data:sn85033019:0041421552A:1869021201:0441/pct:80.28631076647778,17.404163348879536,11.959439308082315,18.973950631327494/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_flobberworm_ver01:data:sn85033019:0041421552A:1869021201:0441/pct:80.2912814395069,17.411746862321312,11.974351327169698,18.973950631327494/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4281,7 +4281,7 @@ and why should you and 1 be grieved at this,
 since we are soon to follow, and we know  
 where to find him
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_harpswell_ver01:data:sn83016025:00279525279:1869021801:0050/pct:6.1303924748621474,29.318832283915285,10.963347388906909,13.783629078420148/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_harpswell_ver01:data:sn83016025:00279525279:1869021801:0050/pct:6.129398410896708,29.31547619047619,10.965623479811901,13.784913003663004/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4347,7 +4347,7 @@ conveniently all start together; and why should you
 and I be grieved at this, since we are soon to follow,  
 and we know where to find him
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536093:1869022201:0809/pct:290.09287925696594,200.9140767824497,49.845201238390096,46.496039000609386/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536093:1869022201:0809/pct:72.5372556609251,50.22851919561243,12.463712018579447,11.624009750152346/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4416,7 +4416,7 @@ I be grieved at this, siuce we are soon
 to follow, and we know whore to find  
 him
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_dragonair_ver01:data:sn84027696:0041421258A:1869022301:0385/pct:38.204773434797644,50.5861010326542,11.103424420615704,24.35110242813285/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_dragonair_ver01:data:sn84027696:0041421258A:1869022301:0385/pct:38.19816704132803,50.57904283521697,11.105827425211828,24.35119296776894/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4467,7 +4467,7 @@ and why should you and l be grieved at this,
 since we arc soon to follow, and we know where  
 .0 find him 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_connemara_ver01:data:sn85025007:00414184790:1869022401:0391/pct:2.7365431780043887,42.133592164475424,14.908997031108816,18.538780552369186/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_connemara_ver01:data:sn85025007:00414184790:1869022401:0391/pct:2.7361899845121322,42.129874713252164,14.911374978489073,18.540085877301337/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4525,7 +4525,7 @@ and why should you and I be grieved
 at this, since we are soon to follow,  
 and we know where to find him
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gorn_ver01:data:sn84026789:00271768047:1869022401:0452/pct:31.73780487804878,81.83990442054959,56.265243902439025,69.56663408276312/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gorn_ver01:data:sn84026789:00271768047:1869022401:0452/pct:10.579268292682928,27.279968140183193,18.755081300813007,23.188878027587705/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4579,7 +4579,7 @@ start together; and why should you and I
 be grieved at this, since we are soon to  
 follow, and we know where to find him
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741960:1869022501:0204/pct:251.389638424177,95.16276517922458,41.1764705882353,58.1016825164594/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741960:1869022501:0204/pct:83.79654614139234,31.720921726408193,13.72549019607843,19.36722750548647/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4637,7 +4637,7 @@ you and I be grieved at this, since we
 are soon to follow, and we know where  
 to find him
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn85034039:00294559905:1869022601:0750/pct:323.68,84.29900930651456,48.88,79.25547883518463/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn85034039:00294559905:1869022601:0750/pct:80.92,21.07475232662864,12.22,19.813869708796158/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4684,7 +4684,7 @@ V
 s&#x27;dhti  
 a not conveniently ait start foretnnr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn84024443:00200293861:1869022601:1103/pct:45.18196856906534,12.82124500285551,18.610421836228287,18.66076527698458/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn84024443:00200293861:1869022601:1103/pct:33.91268363335402,9.623072529982867,13.966480446927374,13.99200456881782/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4742,7 +4742,7 @@ should you and I be grieved at thissince , c
 we are soon to follow, and we know f  
 where to find him? I J
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775411:1869030401:0105/pct:81.630291005291,59.07487259898079,16.071428571428573,25.414869985626552/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775411:1869030401:0105/pct:61.2471055243136,44.3094211420358,12.057558716506781,19.064419182020124/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4804,7 +4804,7 @@ be grieved at this, since we are soon
 to follow, and we know where to find  
 him 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn85038238:00296028824:1869031101:0261/pct:95.9271523178808,32.73927392739274,14.8841059602649,33.61056105610561/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn85038238:00296028824:1869031101:0261/pct:71.98939870796754,24.554455445544555,11.164485671691237,25.214521452145213/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4856,7 +4856,7 @@ are soon to follow, and we know where to find
   
 him 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186981:1869031101:0041/pct:82.48037220122129,19.364100382815824,12.532712997964525,22.065078689919183/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186981:1869031101:0041/pct:82.46838203227213,19.362041467304625,12.535736783447206,22.066276803118907/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4914,7 +4914,7 @@ should you and I be grieved at this, since
 we are soon to follow, and weknow where  
 to find him 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_melon_ver01:data:sn84022549:0041562847A:1869031201:0701/pct:89.00638467677574,6.9026810842838096,35.97366320830008,121.2857354466005/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_melon_ver01:data:sn84022549:0041562847A:1869031201:0701/pct:66.7997604312238,5.184417123389127,26.991415452186065,90.96430158495038/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4974,7 +4974,7 @@ grieved at this, since we are soon to
 follow, and we know where to find  
 him
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035083:00296027157:1869031801:0177/pct:24.195624195624195,36.90938714124577,14.430501930501931,32.78606341646823/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035083:00296027157:1869031801:0177/pct:18.149637972646822,27.685173580649206,10.82864038616251,24.58954756235117/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5032,7 +5032,7 @@ vhy should you and I be aggrieved at
 his since we are soon to follow, and we  
 mow where to lind him
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_belgium_ver01:data:sn84026844:00202190832:1869031801:0261/pct:49.460766084046114,5.043503907978175,13.034585347712904,18.227400088482526/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_belgium_ver01:data:sn84026844:00202190832:1869031801:0261/pct:49.470063220528075,5.043503907978175,13.039233915953886,18.238460404070196/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5221,7 +5221,7 @@ aggrieved at this since we are soon to
 follow, and we know where to find  
 him?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85033123:00514151209:1869040801:0410/pct:20.20830094823566,9.453405017921147,15.156225711176745,32.291666666666664/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85033123:00514151209:1869040801:0410/pct:20.218664179491164,9.453405017921147,15.156225711176745,32.29540023894862/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5468,7 +5468,7 @@ start together, and why should you and I be
 grieved at this, since we are soon to follow,  
 and we kDow where to find him
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_farmington_ver01:data:sn83016025:00279525280:1870012201:0553/pct:73.00884955752213,13.750144191948321,11.078334972140281,14.084669512054447/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_farmington_ver01:data:sn83016025:00279525280:1870012201:0553/pct:72.99688677699493,13.748558246828143,11.080616090447322,14.085928489042676/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5519,7 +5519,7 @@ should you and I be grieved at this, since we
 are soon to follow, and we know where to find  
 him
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:0028077702A:1870021101:0452/pct:52.11864406779661,139.42652329749103,40.46610169491525,154.7363031233999/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:0028077702A:1870021101:0452/pct:13.036565977742448,34.85663082437276,10.121886592474828,38.68407578084997/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5868,7 +5868,7 @@ since we are soon to follow, and we
 know where to find them.  
 Adieu, B. F
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340664:1874072401:0319/pct:72.8245249880249,49.528067560854446,11.144818776943957,31.259314456035767/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340664:1874072401:0319/pct:72.81289910600256,49.5219172979014,11.147030651340996,31.258537191108903/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5933,7 +5933,7 @@ gether. and why should you and I be
 grieved at this, since we are soon to fol­  
 low, and we know where to find him 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_dyerbrook_ver01:data:sn82014248:00332895904:1874090801:1155/pct:5.382752840379959,11.315639269406393,12.94468243620786,20.733447488584474/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_dyerbrook_ver01:data:sn82014248:00332895904:1874090801:1155/pct:5.381750465549349,11.314024825224712,12.946927374301676,20.734056213439864/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5962,7 +5962,7 @@ rather an embryo state, a preparation for
 living. A man Is not completely born un­  
 til ho Is doad.&quot; The peaceful end of hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_eden_ver01:data:sn98060050:00280777389:1875040201:0295/pct:112.35543562066307,121.22846441947566,14.976869699306091,3.2659176029962547/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_eden_ver01:data:sn98060050:00280777389:1875040201:0295/pct:84.30389510219823,90.92134831460675,11.241804859236405,2.4569288389513106/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5993,7 +5993,7 @@ abroad, on a party of pleasure that is to last
 forever. His chair was ready first and he bad  
 goue to occupy it. We could not all start to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_gaylord_ver02:data:sn85033781:00296023759:1876122201:0321/pct:52.30320699708455,93.27345105644585,20.714285714285715,13.728692456874553/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_gaylord_ver02:data:sn85033781:00296023759:1876122201:0321/pct:34.884060084585094,62.18230070429723,13.825288026833892,9.155864040012249/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6053,7 +6053,7 @@ at this, since we are soon to follow am
 know w here to find him ! Adieu.  
 B. Fkaxki.iv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016926:00295877650:1879112601:0223/pct:95.6736035049288,15.198451113262342,14.964403066812705,26.449392277078626/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016926:00295877650:1879112601:0223/pct:71.78468702917408,11.401527374421857,11.231338172853034,19.83435516833387/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6103,7 +6103,7 @@ should yr? 11 and i br grieved at t!11 -. since we
 are soon to follow, and we know where to  
 lind hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gorn_ver01:data:sn84037217:00415664953:1880070801:0043/pct:55.80640401357533,48.644444444444446,13.221189316806846,17.2/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gorn_ver01:data:sn84037217:00415664953:1880070801:0043/pct:55.80640401357533,48.65185185185185,13.231026511238994,17.2/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6170,7 +6170,7 @@ and why should you and I be grieved at tills,
 since we are soon to follow and know whero to  
 find him? Adieu. B. Franklin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn90000523:00415628109:1894022301:0031/pct:65.65086531226486,62.67802289863167,14.522197140707299,17.31359955319743/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn90000523:00415628109:1894022301:0031/pct:49.26608957470832,47.01200781904496,10.895747083176515,12.985199664898072/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6274,7 +6274,7 @@ and why should you and i be gikveil at tiiis,
 since we arc soon lo follow and know where to  
 : tint! him? Adieu. B. Fuankt.i 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn89051168:00393343023:1894031701:0580/pct:48.46055747859355,48.64220426546562,12.880306066678813,15.154325076169028/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn89051168:00393343023:1894031701:0580/pct:48.451730418943534,48.63576158940398,12.882513661202186,15.155629139072847/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

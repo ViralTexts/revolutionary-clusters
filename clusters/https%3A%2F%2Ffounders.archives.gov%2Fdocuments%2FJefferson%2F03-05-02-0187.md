@@ -76,7 +76,7 @@ swer contained, material or effectual in the law
 to be replied unto, confessed and avoided, tra­  
 versed or denied, is true. All which matter
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_belmont_ver02:data:sn82014511:no_reel:1860060201:0004/pct:22.587386018237083,6.100565135487611,10.06838905775076,1.724387769888422/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_belmont_ver02:data:sn82014511:no_reel:1860060201:0004/pct:22.592135258358663,6.111433125633966,10.07788753799392,1.724387769888422/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -98,7 +98,7 @@ informatton or belie of this defendant, and he respeetea
 prays this honorable Court that he may be hence  
 dismissed with his cost and charges in this behalf mos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_itchweed_ver01:data:sn83030313:0027174383A:1873091601:0925/pct:62.212432697014194,151.23590386148763,48.99657366617719,8.053309032919467/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_itchweed_ver01:data:sn83030313:0027174383A:1873091601:0925/pct:20.737477565671398,50.41196795382921,16.332191222059063,2.684436344306489/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -145,7 +145,7 @@ hence dismissed with his reasonable costs and
 charges In this behalf most wrongfully sus­  
 tained.” Messrs. Leake &amp; Vocku aro the so
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pulaski_ver01:data:sn84031492:no_reel:1879010401:0005/pct:16.123044285335453,67.33035351483137,13.179527976664016,5.4449410808614385/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pulaski_ver01:data:sn84031492:no_reel:1879010401:0005/pct:16.129673826571203,67.33543275091426,13.186157517899762,5.4500203169443315/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -192,7 +192,7 @@ be hence dismissed with his reasonable co
 and charges in this behalf most wrongfully  
 sustained
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_ionia_ver01:data:sn98066392:00296024375:1887080401:0164/pct:60.74441687344913,116.93087557603687,35.6575682382134,29.75115207373272/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_ionia_ver01:data:sn98066392:00296024375:1887080401:0164/pct:20.248138957816376,38.97695852534562,11.885856079404466,9.91705069124424/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -287,7 +287,7 @@ the law to be replied unto confessed
 or avoided traversed or denied is  
 true all which matters and thing
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:2065344540:1896030101:0550/pct:64.62053571428571,105.58252427184466,19.036989795918366,9.153952843273231/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:2065344540:1896030101:0550/pct:43.09409888357257,70.3883495145631,12.695374800637959,6.110340576359993/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -304,7 +304,7 @@ bly prays to be hence dismissed with her
 reasonable costs and charges in this be­  
 half most wrongfully sustained
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_horseradish_ver02:data:sn87068097:00383340287:1898070101:0008/pct:62.42083040112597,31.376253451533206,11.224489795918368,1.1190233977619533/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_horseradish_ver02:data:sn87068097:00383340287:1898070101:0008/pct:62.40985048372911,31.37169427492008,11.226912928759894,1.1224934612031385/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -326,7 +326,7 @@ contained material or effectual in the
 law to be replied to, confessed or  
 avoided, traversed or denied, is true
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_nuthatch_ver01:data:sn84036012:00212477254:1899020701:0500/pct:253.68782161234992,90.97129506008011,39.62264150943396,10.764352469959947/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_nuthatch_ver01:data:sn84036012:00212477254:1899020701:0500/pct:84.56260720411663,30.323765020026702,13.20754716981132,3.588117489986649/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

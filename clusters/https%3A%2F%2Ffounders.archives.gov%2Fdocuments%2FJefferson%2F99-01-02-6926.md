@@ -84,7 +84,7 @@ government would enter with&quot; him intd no&#x27;exsict—zct
 zplimsiatioctns concerning it,: but would send a  
 muxiscer to this place fdsixsi&#x27;that special purpbse
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216079:1807120101:0073/pct:1.815323041738136,4.2054433713784025,45.66895368782161,92.37928007023704/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216079:1807120101:0073/pct:1.8150635986851509,4.205074181371258,45.66719070077652,92.3740965089398/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -193,7 +193,7 @@ our citizens understand that they nre a­
 bandnned oy their country to the unundlcd  
 power of every British naval commander
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807120401:0404/pct:58.55650522317189,5.8631102164066435,36.14434947768281,88.39959738298943/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807120401:0404/pct:58.54538549183441,5.862372625487483,36.143815672869984,88.39266993751835/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -270,7 +270,7 @@ is not settl&#x27;d now, we may give it up forever, and
 \v their country to the unbridled power of evert  
 British naval commander. Rut. Intelligencer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807120701:0868/pct:3.2151898734177213,2.3443815683104283,44.43037974683544,94.81002425222312/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807120701:0868/pct:3.214376107314604,2.3440025864856127,44.42546190837763,94.79873908826382/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -316,7 +316,7 @@ aud.cloiir evizeris imdcisi.nd that they are ; ban­
 (*nrif ’•* *’} country to the unbi.&#x27;i(Sic&#x27;i power ot  
 cvciy A.ith-h nioal fcommar.dcr. Wat. I.it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1807120801:0264/pct:21.04786076867295,44.77425791968072,17.94778825235678,16.936891993015713/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1807120801:0264/pct:21.04404567699837,44.76867439830403,17.950577004410608,16.938936692023113/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -706,7 +706,7 @@ explanations concerning it, but would
 send a minister to this place for that spe­  
 cial purpose
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1807121101:0877/pct:47.04398991314093,9.762028834462393,20.762118240403474,24.057668924787215/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1807121101:0877/pct:47.030812324929975,9.760333449114276,20.76330532212885,24.057832580757207/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -867,7 +867,7 @@ not fettled now, we may give it up forever,
 &#x27; are abandoned by their country to the un; l  
 bridled power of every Briti(h paval coms 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1807121501:0624/pct:61.207558764787215,29.453085800301054,16.74604393916116,51.41996989463121/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1807121501:0624/pct:61.2126798791417,29.456430841277804,16.740922824806677,51.426659976584716/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -907,7 +907,7 @@ arc abandoned by their country ,
 to the unbridled powTer of every  
 Britifh naval commander
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1807121701:0239/pct:35.78159645232816,10.818070818070819,56.40243902439025,41.78266178266178/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1807121701:0239/pct:35.77168190634525,10.8154296875,56.39604691973769,41.780598958333336/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -957,7 +957,7 @@ pitrol by tiieir prefs-gangs, the
 ltrerts of N&#x27; w-Y.-rk &amp;: Nortolk,  
 , and take irom thence all thole
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1807121701:0239/pct:34.866962305986696,33.43101343101343,28.824833702882483,61.123321123321126/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1807121701:0239/pct:34.85730119146578,33.4228515625,28.82608294079616,61.116536458333336/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -997,7 +997,7 @@ clamation we had ta en the bu­
 linels of fa i ,fact ion for the ag­  
 ^rellion oh the Lh.fa^eake (o far
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1807121701:0239/pct:6.901330376940133,50.57387057387057,27.57760532150776,44.24908424908425/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1807121701:0239/pct:6.899418121363259,50.5615234375,27.5792001477787,44.246419270833336/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -505,7 +505,7 @@ already experienced opposition from him,
 which rendered it a measure of self-de  
 fence.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_journey_ver01:data:sn84024738:00175030827:1883011301:0054/pct:9.319169483341382,195.5381687460351,42.60421696442942,15.320363713258617/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_journey_ver01:data:sn84024738:00175030827:1883011301:0054/pct:3.1063898277804602,65.1793895820117,14.201405654809808,5.106787904419539/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

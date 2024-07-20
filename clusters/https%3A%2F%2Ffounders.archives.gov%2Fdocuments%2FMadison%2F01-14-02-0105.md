@@ -521,7 +521,7 @@ than seven and a half millions.
 It is not meant that such a surplus  
 could, under any revolution of circum­
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1791112101:0001/pct:12.221069019200831,14.888010540184453,69.66787752983913,63.749294184076795/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1791112101:0001/pct:12.22755578619616,14.892715979672502,69.68733783082511,63.758705063052886/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -639,7 +639,7 @@ the freight cannot be less than three mil
 lions of dollars : or which about on&lt;  
 fifth § bein-, the share of the Unite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1791112101:0001/pct:13.777893098079916,13.306982872200264,43.6948624805397,78.82552230378317/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1791112101:0001/pct:13.790866632070577,13.31639375117636,43.70134924753503,78.83022774327122/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -731,7 +731,7 @@ a surplus of life that would otherwifebe
 oft. The twenty thousand in their new  
 :ountry, calling for the manufacture
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1791112101:0001/pct:48.676699532952775,17.805383022774325,18.68188894654904,58.46038019951063/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1791112101:0001/pct:48.696159833938765,17.805383022774325,18.66891541255838,58.46979107848673/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -757,7 +757,7 @@ icau fence in its mcnepolning tendency, to defem
 •-if.ivesago.inJl it, by ail t.ie fair and paden  
 wans in oui power
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1791112101:0001/pct:50.31136481577582,76.71748541313758,17.28074727555786,8.168642951251647/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1791112101:0001/pct:50.31785158277115,76.71748541313758,17.28723404255319,8.182759269715792/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -849,7 +849,7 @@ human beings to Connecticut, Rhode-
 Ifktnd, or New-Jerfev, the  
 &#x27;lift, will rejoice that J:uc will be gaine
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1791112101:0001/pct:67.12506486766995,17.504234895539245,18.526206538661132,58.196875588179935/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1791112101:0001/pct:67.14452516865595,17.51835121400339,18.51323300467047,58.196875588179935/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1264,7 +1264,7 @@ tain a million of eggs ; mites, wil‘nhiply toa
 theusand in a duy ; and there are wviperous fies  
 which produce 2,000 at once. P e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1834061001:0406/pct:6.780902167545401,88.39833479404031,14.39660222612771,5.751533742331288/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1834061001:0406/pct:6.780902167545401,88.40198656149576,14.416129662175356,5.762489044697634/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

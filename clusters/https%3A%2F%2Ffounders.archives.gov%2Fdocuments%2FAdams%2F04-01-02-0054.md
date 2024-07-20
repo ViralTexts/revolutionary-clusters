@@ -852,7 +852,7 @@ And borrowing dulls the edge of husbandry,
 And it must follow, as the night the day,  
 *l&#x27;hou canil not then be fzlfe to any man
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1787080401:0035/pct:6.687218401707375,44.91771539206196,25.942613232155562,16.569861245563086/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1787080401:0035/pct:6.687218401707375,44.92309347101215,25.950517745632755,16.564483166612884/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1275,7 +1275,7 @@ And it mud follow, as the night the day,
 Thou canft uot then befalfc to auy man.”  
 — 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016081:00332895060:1804060401:0128/pct:54.138894861320146,75.17739991966796,19.47968178886261,11.514258936939349/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016081:00332895060:1804060401:0128/pct:54.12725709372313,75.1673360107095,19.480868443680137,11.516064257028113/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1478,7 +1478,7 @@ This, above all—to thine own self be true,
 And it must follow, as the night the day,  
 Thou canst not then be false to any other man.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_lyle_ver01:data:sn85059803:00514157832:1825102901:0361/pct:63.52253756260434,40.04449388209121,26.655537006121314,21.89098998887653/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_lyle_ver01:data:sn85059803:00514157832:1825102901:0361/pct:63.50486787204451,40.0355871886121,26.657394529439035,21.8935349940688/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1536,7 +1536,7 @@ Nor any unproportioned thought his act.
 \\ hen the fleet came round to the Mother-hank,  
 uc marched to Cowes, and embarked on board th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_palmer_ver02:data:sn85059803:00514158320:1826050601:0469/pct:40.480274442538594,72.79848730415992,26.58662092624357,4.538087520259319/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_palmer_ver02:data:sn85059803:00514158320:1826050601:0469/pct:40.46639231824417,72.77882797731569,26.5860768175583,4.543613286524439/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1778,7 +1778,7 @@ This gabove all-To thine ownself be true;
 AnAir must follow, as the night the day,  
 Thos canst not then be false to any man
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030312:00271743142:1840040101:0341/pct:186.18515850144092,120.3626386735059,45.028818443804035,24.370750328044853/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030312:00271743142:1840040101:0341/pct:62.06171950048031,40.1208795578353,15.009606147934678,8.123583442681618/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1851,7 +1851,7 @@ This above all—to thine own self he true,
 And it must follow, as the night the day,  
 Thoucanst not then be false to any other man.’’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182951:1841082601:0332/pct:24.457117788988814,11.814772071552222,17.174819039262996,9.939411425274091/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182951:1841082601:0332/pct:24.45175438596491,11.81306793595846,17.176535087719298,9.941583729987018/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2118,7 +2118,7 @@ This above all. To thine own self be true;
 And it must follow, as the night the day,  
 Thou canst not then be false to any man
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00415667280:1851080201:0131/pct:6.217616580310881,73.79140555058191,19.71790443293034,20.120859444941807/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00415667280:1851080201:0131/pct:4.663883690801785,55.34914950760967,14.797754426371096,15.085049239033124/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2173,7 +2173,7 @@ And it must fellow as the night the day,
 Tbou canst not then be falsa to any man.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1851080901:0725/pct:80.6059778899959,80.79597731892586,15.463354715436058,16.561463571199315/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1851080901:0725/pct:80.6059778899959,80.80310973217789,15.467904098994586,16.557897364573304/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2221,7 +2221,7 @@ problem, which puls the French pendulum
 mode entirely in the shade. Pro lessor Nirong  
 has cohstt ucted a wooden wheel six leet 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851080901:0327/pct:82.33823670800885,11.876731301939058,12.768003076627247,15.083102493074792/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851080901:0327/pct:82.33032109209768,11.87590887057683,12.769980132025893,15.084366271957158/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2333,7 +2333,7 @@ This above all—to thy own self be true.
 And it must follow as the night the day.  
 Thou canst not then he false to any man
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624268:1851082701:0124/pct:4.280618311533888,56.75848133574391,14.179548156956004,13.219185366372434/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624268:1851082701:0124/pct:4.285572730875941,56.75848133574391,14.184502576298058,13.229820270126556/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2572,7 +2572,7 @@ Thou canst not then be false to any man,
   
 CRiSP&#x27;s GAIETY ThEaTrE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn96091000:00212470235:1858011801:0062/pct:236.25064733298808,23.98295627472862,45.261522527187985,31.652632646849955/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn96091000:00212470235:1858011801:0062/pct:59.08561067219272,5.995739068682155,11.319777230928636,7.913158161712489/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2606,7 +2606,7 @@ Tlitf, above all—to thine own sell be true,
 And it must follow as the night the day,  
 Thou canst not then be false to any man
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn84026978:00279557475:1858031101:0199/pct:8.333333333333334,9.595793624712455,14.009661835748792,10.285902070325337/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn84026978:00279557475:1858031101:0199/pct:8.333333333333334,9.608116989812684,14.033816425120772,10.285902070325337/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2646,7 +2646,7 @@ l&#x27;hou canst nor then be false to an yman.&quot;
   
 THE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027253:00279528517:1858042401:0156/pct:13.89762653703174,32.0898731455601,11.152416356877323,8.697054396903892/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027253:00279528517:1858042401:0156/pct:13.902392526927843,32.09345660431448,11.157182346773425,8.70063785565828/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2681,7 +2681,7 @@ This above all,—To thine ownself be true ;
 And it must follow, as the night the day,  
 Thou canst not then be false to any man
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn82015099:00279556653:1859032601:0211/pct:10.045998160073598,8.911441679410538,12.437902483900643,9.495342694286112/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn82015099:00279556653:1859032601:0211/pct:10.059797608095677,8.91491728068956,12.433302667893285,9.505769498123176/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2983,7 +2983,7 @@ Thou canst not then be false to any man.&quot;
 Now, what I am writing in this idiosyn  
 cratic style is intended especially fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00280779167:1875040801:0060/pct:61.056105610561055,37.40468997266581,52.88778877887789,68.30671845777586/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00280779167:1875040801:0060/pct:15.267175572519085,9.351172493166452,13.224675056736125,17.076679614443965/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3012,7 +3012,7 @@ profitable&quot; are the stories of domestic life and
 the tales of fancy which fill a portion of the pages  
 of our monthly literature. A good romance, wel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558342:1875071701:0055/pct:288.1367759944173,55.707291935068284,92.18422889043964,142.3859829940737/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558342:1875071701:0055/pct:72.0719148193402,13.926822983767071,23.058125327282248,35.59649574851842/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3031,7 +3031,7 @@ But do not dull thy palm with entertainment
 Of each new hatch’d, unfledg’d comrade.”  
 The above sage advice of “Polonius ” to his son
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eliot_ver01:data:sn85026214:print00211110235:1876050701:0005/pct:44.224668781489086,42.07253886010363,12.091808173166635,1.7227979274611398/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eliot_ver01:data:sn85026214:print00211110235:1876050701:0005/pct:44.233998880388135,42.07253886010363,12.101138272065684,1.7292746113989637/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3092,7 +3092,7 @@ This above all to thine own self be true.
 And It must follow as the night the day.  
 Thou canst not then be false to any man
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_lyonsport_ver02:data:sn84022673:0020029841A:1876071401:0184/pct:7.436472346786248,10.72829131652661,16.77877428998505,8.011204481792717/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_lyonsport_ver02:data:sn84022673:0020029841A:1876071401:0184/pct:5.587740609231919,8.053221288515406,12.59577649037563,6.008403361344538/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3168,7 +3168,7 @@ VERY VALUABLE LAND
 IN CLARKE COUNTY, VA.  
 Under the authority of the decree pronounced
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348720:1877061401:0322/pct:3.826984692061232,3.045288912024987,11.107155571377714,12.428422696512234/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348720:1877061401:0322/pct:3.826303612742481,3.044892648015615,11.109628047695319,12.430058555627847/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3220,7 +3220,7 @@ live eyery man thine ear
 Speaking, of course, in a figurative sense;  
 Iake each man&#x27;s censur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_juliet_ver02:data:sn84022109:00211101842:1878082901:0043/pct:27.35042735042735,25.1379740074773,45.2991452991453,31.689513975431726/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_juliet_ver02:data:sn84022109:00211101842:1878082901:0043/pct:6.84248039914469,6.284493501869325,11.332858161083394,7.922378493857932/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3252,7 +3252,7 @@ Nor any unproportioned thought his act,
 est he fall down and hurt himself with it.  
 The friends thou hast, if thou hast any
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_abraham_ver02:data:sn84023963:00200295936:1878083001:0668/pct:48.60524091293322,76.94770544290289,62.1301775147929,37.940234791889004/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_abraham_ver02:data:sn84023963:00200295936:1878083001:0668/pct:12.153878672585078,19.23692636072572,15.53582752060875,9.485058697972251/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3284,7 +3284,7 @@ Nor any unproportioned thought his act,
 Lest he fall down and hurt himself with it.  
 The triends thou hast, if thou hast any
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_ferrari_ver02:data:sn86088181:0020029693A:1878092801:0404/pct:42.2790202342918,70.57252545484894,61.022364217252395,38.791520614254715/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_ferrari_ver02:data:sn86088181:0020029693A:1878092801:0404/pct:10.578204103383959,17.643131363712236,15.267785771382894,9.697880153563679/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3485,7 +3485,7 @@ position, and saw where he eould strike one
 blow that would relieve his beloved country  
 of the foreizn fae that trod with hs.i!e hee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_junebug_ver01:data:sn83016926:00415662294:1882070501:0400/pct:37.362301101591186,104.39221272554606,13.509791921664627,6.837606837606837/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_junebug_ver01:data:sn83016926:00415662294:1882070501:0400/pct:28.033664881407805,78.30009496676163,10.130068859984698,5.128205128205129/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3539,7 +3539,7 @@ Of entrance to a quarrel; but, being in,
 Bear&#x27;t that the opposed may beware of thee  
 Mankind have never lived up to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn95068565:00280779192:1883011001:0193/pct:175.59121621621622,146.360153256705,53.37837837837838,10.180623973727421/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn95068565:00280779192:1883011001:0193/pct:43.90707497360084,36.59003831417625,13.34741288278775,2.5451559934318553/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3599,7 +3599,7 @@ The friends thou hast and their adoption tried
 Grapple them to thy soul with hooks of steel  
 But do not dull thy palm with entertainment
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_hotel_ver02:data:sn86064205:00175035138:1884081001:0989/pct:59.67153284671533,129.04434728294817,81.84306569343066,16.239850093691444/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_hotel_ver02:data:sn86064205:00175035138:1884081001:0989/pct:14.92809860762383,32.26108682073704,20.474777448071215,4.059962523422861/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3623,7 +3623,7 @@ But not expressed in fancy; rich not gaudy,
 For the apparel oft proclaim the man  
 And they in France of the best rank and station
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_hotel_ver02:data:sn86064205:00175035138:1884081001:0989/pct:172.8102189781022,124.42223610243597,83.48540145985402,20.674578388507182/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_hotel_ver02:data:sn86064205:00175035138:1884081001:0989/pct:43.232138781100204,31.105559025608994,20.885642547363616,5.168644597126796/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3645,7 +3645,7 @@ The friends thou hast and their adoption tried
 Grapple them to thy soul with hooks of steel  
 But do not dull thy palm with entertainment
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_hotel_ver02:data:sn86064205:00175035138:1884081301:1013/pct:55.73012939001848,123.6614853195164,82.80961182994454,16.329094049301304/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_hotel_ver02:data:sn86064205:00175035138:1884081301:1013/pct:13.93253234750462,30.9153713298791,20.702402957486136,4.082273512325326/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3669,7 +3669,7 @@ But not expressed in fancy; rich not gaudy
 For the apparel oft proclaim the man  
 And they in France of the best rank and station
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_hotel_ver02:data:sn86064205:00175035138:1884081301:1013/pct:170.0554528650647,118.88836552048987,84.4731977818854,20.788192808918197/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_hotel_ver02:data:sn86064205:00175035138:1884081301:1013/pct:42.513863216266174,29.722091380122468,21.11829944547135,5.197048202229549/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3691,7 +3691,7 @@ The friends thou hast and their adoption tried
 Grapple them to thy soul with hooks of steel  
 But do not dull thy palm with entertainment
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_hotel_ver02:data:sn86064205:00175035138:1884081601:1039/pct:56.18081180811808,126.64990571967316,82.84132841328413,16.467630421118795/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_hotel_ver02:data:sn86064205:00175035138:1884081601:1039/pct:14.04520295202952,31.66247642991829,20.710332103321033,4.116907605279699/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3732,7 +3732,7 @@ We offer bargains in Ladies&#x27; Hose
 We offer bargains in Men&#x27;s Half-hose  
 We OHer DreSs red, bide 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_hotel_ver02:data:sn86064205:00175035138:1884081601:1039/pct:170.5719557195572,121.8730358265242,86.25461254612546,68.19610307982401/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_hotel_ver02:data:sn86064205:00175035138:1884081601:1039/pct:42.6429889298893,30.46825895663105,21.563653136531364,17.049025769956003/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3754,7 +3754,7 @@ The friends thou hast and their adoption tried
 Gratiple them to thy soul with hooks of steel  
 But do not dull thy palm with entertainment
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_hotel_ver02:data:sn86064205:00175035138:1884081701:1047/pct:58.0,129.05236907730674,81.45454545454545,16.39650872817955/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_hotel_ver02:data:sn86064205:00175035138:1884081701:1047/pct:14.503296203682655,32.263092269326684,20.368265514889746,4.099127182044888/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3778,7 +3778,7 @@ But not expressed in fancy; rich not gaudy
 For the apparel oft proclaim the man  
 And they in France of the best rank and station
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_hotel_ver02:data:sn86064205:00175035138:1884081701:1047/pct:170.54545454545453,124.81296758104739,82.72727272727273,20.698254364089774/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_hotel_ver02:data:sn86064205:00175035138:1884081701:1047/pct:42.64605592180041,31.203241895261847,20.6865196635599,5.1745635910224435/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3794,7 +3794,7 @@ And they in France of the best rank and station
 gave his thoughts no tongue,nor any unpropor­  
 tioned thought his act; the friends be bad an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016025:0041421051A:1884082201:0503/pct:27.192839707078925,55.358629713334125,10.80553295362083,0.6780064232187463/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016025:0041421051A:1884082201:0503/pct:27.188415229417508,55.35204567078972,10.807842499186462,0.6808991436726927/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3912,7 +3912,7 @@ Tliis above tii-—to thine o« n*e f &gt;*e true.
 And * must follow, as the night the day,  
 Th( inst not then be false to any man.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hughes_ver01:data:sn85026214:print00205958290:1887081401:0003/pct:43.310494049765595,70.80842214712763,11.828344752975116,6.381596048869249/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hughes_ver01:data:sn85026214:print00205958290:1887081401:0003/pct:43.31500180310133,70.81492071744216,11.82383699963938,6.384845334026514/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3978,7 +3978,7 @@ of entrance to a quarrel, but, being in,
 bear&#x27;t that the opposed may beware of  
 thee.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_forest_ver01:data:sn94053256:00271763049:1888032101:0383/pct:26.399095534200114,47.33545889319062,16.06840022611645,2.37986791163744/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_forest_ver01:data:sn94053256:00271763049:1888032101:0383/pct:19.804919423240033,35.50444090184468,12.058241447554424,1.7877476656797995/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4049,7 +4049,7 @@ bear’t that the opposed may beware of thee.”
 i&quot;Beware of entrance to a quarrel; but, being in, bear  
  t that the opposed may beware of thee.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_lorca_ver01:data:sn83030272:00206533109:1888100901:0515/pct:2.440884820747521,49.8322659347362,68.42105263157895,3.0497102775236353/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_lorca_ver01:data:sn83030272:00206533109:1888100901:0515/pct:0.6104540251812285,12.45806648368405,17.111789393361313,0.7624275693809088/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4178,7 +4178,7 @@ Give every man thine ear, but few thy voice;
 Take each man&#x27;s censure, but reserve thy judg­  
 ment.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_columbo_ver02:data:sn86063034:0041418201A:1889122901:0488/pct:71.87611886860007,27.523809523809526,15.789473684210526,3.3877551020408165/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_columbo_ver02:data:sn86063034:0041418201A:1889122901:0488/pct:55.71382324376821,21.33769155068185,12.236969893169311,2.625474483340363/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4421,7 +4421,7 @@ Bear’t that the opposed may beware of thee.
 ing in, bear’t. that the opposed may beware  
 of thee.’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524755:1892012101:0025/pct:26.448109412711183,74.56638755980862,12.731295253419146,1.4055023923444976/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524755:1892012101:0025/pct:26.442791071787653,74.5552399461803,12.73376231650915,1.4090297503363731/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4572,7 +4572,7 @@ dering where are they at! &quot;Give thy
 thoughts no tongue nor any unpropor­  
 tioned thought its act&quot; is evidently no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_betelgeuse_ver01:data:sn90059959:00271742836:1893111801:0459/pct:34.90855888807608,52.660008153281694,14.118507681053401,1.8650631879331432/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_betelgeuse_ver01:data:sn90059959:00271742836:1893111801:0459/pct:34.9183126066813,52.66680255469493,14.118507681053401,1.8684603886397608/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4703,7 +4703,7 @@ Os entrance to a quarrel; but, being in.
 &#x27; Bear’t that the opposed may beware of thee.”  
 i As to the allegation that I had
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_newcastle_ver01:data:sn86072173:00514150680:1895011601:0069/pct:18.173536779776818,91.49911816578484,12.639489865634252,3.492063492063492/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_newcastle_ver01:data:sn86072173:00514150680:1895011601:0069/pct:18.184923707583692,91.5079365079365,12.639489865634252,3.5008818342151677/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4764,7 +4764,7 @@ sonif ‘hing tried.
 Gripped them to thy soul with hooks of  
 steel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_isner_ver01:data:sn86092518:00414186841:1895121101:0493/pct:46.17550445800094,47.68183751595066,12.857813233223839,4.125903870693322/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_isner_ver01:data:sn86092518:00414186841:1895121101:0493/pct:46.16828276509227,47.676767676767675,12.861015535397769,4.129009392167287/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4802,7 +4802,7 @@ Those friends thou hast, and something some
 thing tried,  
 Grapple them to thy soul with hooks of steel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ingstad_ver01:data:sn84028297:0029602918A:1895122601:0386/pct:43.77542717656631,53.067310423175236,16.232709519934907,14.92473729054246/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ingstad_ver01:data:sn84028297:0029602918A:1895122601:0386/pct:32.85161815591288,39.80403294518603,12.19214329330348,11.190002840102244/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4840,7 +4840,7 @@ Those friends thou bast, and something some­
 thing tried,  
 Grapple them to thy soul with hooks of Btee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685348:1896011601:0431/pct:76.561144839549,19.935455478949685,13.811795316565481,11.735367463693708/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685348:1896011601:0431/pct:76.54454801647518,19.932531534174245,13.81422068068502,11.7373129950132/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4913,7 +4913,7 @@ Beware
 Of entrance to a quarrel, but being in,  
 Bear&#x27;t that the opposed may beware of thee,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:0017504291A:1897011801:0242/pct:129.42528735632183,236.48525387655823,41.37931034482759,3.891760413499544/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:0017504291A:1897011801:0242/pct:32.368723648907626,59.12131346913956,10.348792640858566,0.972940103374886/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5026,7 +5026,7 @@ Of entrance to a quarrel, but being in,
 Bear’t that the opposed may beware of  
 thee.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_baseball_ver02:data:sn89064489:00393340162:1897120901:0232/pct:72.48366013071896,86.21386054421768,14.754901960784315,1.8813775510204083/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_baseball_ver02:data:sn89064489:00393340162:1897120901:0232/pct:72.48910675381264,86.22094671201815,14.765795206971678,1.8742913832199546/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5177,7 +5177,7 @@ Bear &#x27;t that the opposed may beware of
 thee.  
 Never had country cause more Just
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_moonstone_ver01:data:sn85042461:00280769782:1898032301:0260/pct:19.70873786407767,36.495271867612296,12.194174757281553,2.6595744680851063/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_moonstone_ver01:data:sn85042461:00280769782:1898032301:0260/pct:19.723300970873787,36.50635342789598,12.199029126213592,2.6558806146572103/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5223,7 +5223,7 @@ This above all; to thine own self be true.
 And it must follow, as the night the day,  
 Thou can&#x27;st not then be false to any man
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_fletcher_ver01:data:sn86063034:00414182240:1898061901:0540/pct:5.2535570959503834,31.78470254957507,12.750820868296243,14.3342776203966/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_fletcher_ver01:data:sn86063034:00414182240:1898061901:0540/pct:5.259637601848474,31.78470254957507,12.756901374194333,14.343720491029273/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5239,7 +5239,7 @@ Thou can&#x27;st not then be false to any man
 &quot;Beware of entrance to a quarrel, but being in  
 Bear&#x27;t, that the opposed may beware of thee.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_dakin_ver03:data:sn84023253:0020219705A:1898062901:0619/pct:135.65022421524662,246.36772522829494,48.95366218236173,3.053018945072918/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_dakin_ver03:data:sn84023253:0020219705A:1898062901:0619/pct:33.912556053811656,61.591931307073736,12.238415545590433,0.7632547362682295/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5368,7 +5368,7 @@ Beware of entrance to a quarrel, but being
 in  
 Bear&#x27;t that the opposed may beware of the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_blackwidow_ver01:data:sn84021913:00211105161:1899042701:0123/pct:46.50112866817156,132.07184971890854,46.95259593679458,7.514054572878102/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_blackwidow_ver01:data:sn84021913:00211105161:1899042701:0123/pct:11.62528216704289,33.017962429727135,11.738148984198645,1.8785136432195255/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5451,7 +5451,7 @@ Of entrance lo a quarrel, but being in.
 Bear &#x27;t that the opposed may beware  
 of thee.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hazel_ver01:data:sn86071779:0017503142A:1899090501:0036/pct:29.545052221632147,61.20527306967985,13.949371570189413,2.4192380124583512/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hazel_ver01:data:sn86071779:0017503142A:1899090501:0036/pct:29.545052221632147,61.20527306967985,13.961173068979761,2.424066830846492/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

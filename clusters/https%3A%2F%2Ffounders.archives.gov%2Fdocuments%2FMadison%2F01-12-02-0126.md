@@ -326,7 +326,7 @@ The powers not delegated by this Constitution, nor prohibited
 by it to the States, are reserved to the States, refpe&amp;ively.  
 Ninthly That article 7th, be numbered as article Bth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789061301:0003/pct:3.883211678832117,6.20756547041707,51.18248175182482,87.39088263821533/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789061301:0003/pct:3.897810218978102,6.20756547041707,51.2043795620438,87.39088263821533/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -525,7 +525,7 @@ at lealt one representative.&quot;
 Art. I, Sec. 6—Between the words &quot; United  
 States,&quot; and &quot; lhall in all cafe,&quot; strike out
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789080101:0002/pct:19.541896201797623,6.410500285333841,24.354885474050448,7.95130302453871/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789080101:0002/pct:19.55639315743694,6.424766977363515,24.34763699623079,7.9560585885486015/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -565,7 +565,7 @@ searched, 8c the persons or things to be seized.&quot;
 &quot; The enumeration in this constitution of cer­  
 tain rights lhall not be construed to deny or dis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789080101:0002/pct:19.222963177732677,26.06049077420582,24.499855030443605,20.030435609663307/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789080101:0002/pct:19.24470861119165,26.06049077420582,24.485358074804292,20.04470230169298/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -634,7 +634,7 @@ JOHN BECKLEY, Clerk.
 ADDRESS TO HUMANITY.  
 PARENT of virtue, if thine ear
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789080101:0002/pct:17.802261525079732,7.266501807114324,45.607422441287326,84.95339547270306/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789080101:0002/pct:17.80951000289939,7.280768499143998,45.614670919106985,84.94863990869317/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -660,7 +660,7 @@ hundred and feventy-five, but each
 state shall always have at lealt one  
 Representative.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789081301:0437/pct:5.533694048204624,35.19858498150828,20.11805213969503,11.062871844347965/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789081301:0437/pct:5.541892113461223,35.19858498150828,20.142646335464832,11.062871844347965/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -727,7 +727,7 @@ seized.”
 stitution of certain rights shall not  
 be construed to deny or disparag
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789081301:0437/pct:5.73044761436301,13.137160315163209,41.90850959173635,78.83904164656697/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789081301:0437/pct:5.73044761436301,13.142520233692448,41.94130185276275,78.8551214021547/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -758,7 +758,7 @@ mon law, be otherwise re-examina­
 ble than according to the rules of  
 common law.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789081301:0437/pct:27.79144121987211,21.369995176073324,19.99508116084604,15.29184756391703/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789081301:0437/pct:27.80783735038531,21.369995176073324,19.98688309558944,15.297207482446266/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -787,7 +787,7 @@ famous crime, unless on a present­
 ment or indi¢tment by a Grand  
 Jury ; but if a crime be committe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789081301:0437/pct:27.889818002951305,47.85335262904004,19.921298573536646,13.796430294259528/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789081301:0437/pct:27.889818002951305,47.858712547569276,19.945892769306443,13.801790212788765/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -812,7 +812,7 @@ this constitution, nor prohibited by
 it to the tates, are reserved to the  
 {tates respectively.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789081301:0437/pct:27.914412198721102,78.90336066891783,19.99508116084604,10.098086509085062/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789081301:0437/pct:27.922610263977703,78.90336066891783,19.98688309558944,10.108806346143538/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -855,7 +855,7 @@ cafe of impeachment, to more than one triaMor the fame oftejice,
 nor lhall be compelled to be a witness against himfelf, nor be de­  
 prived of life, liberty or property, without due process of law
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789082201:0001/pct:56.00468658465144,45.86351505909264,25.307557117750438,4.28898208158597/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789082201:0001/pct:56.012009373169306,45.86351505909264,25.322202694786174,4.2985131528783835/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -874,7 +874,7 @@ without probable cause, supported by oath or affirmation, and
 not particularly describing the places to be searched, and the per­  
 sons or things to befeized.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789082201:0001/pct:56.561218512009376,68.52840259245139,25.307557117750438,3.0690049561570723/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789082201:0001/pct:56.561218512009376,68.5331681280976,25.329525483304042,3.0880670987418988/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -894,7 +894,7 @@ troversy ihall not amount to one thousand dollars ; nor shall any
 tntf trinble by jury, according to the course of common law, beo­  
 tiirrwife re-cxaininable than according to the. rules of common law
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789082201:0001/pct:57.0298769771529,88.18147159740755,25.33684827182191,3.678993518871521/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789082201:0001/pct:57.0518453427065,88.19100266869997,25.322202694786174,3.6885245901639343/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -919,7 +919,7 @@ tomed requisites; and no person (hall be held to answer for a capi­
 tal, or otherwise infamous crime, unlcfs on a presentment or in­  
 dictment by a grand jury; but if a crime be commuted in a plac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789082201:0002/pct:20.385833573279584,24.862298195631528,24.7912467607256,6.761633428300095/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789082201:0002/pct:20.407428735963144,24.876543209876544,24.78404837316441,6.756885090218423/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -941,7 +941,7 @@ less than one hundred reprei&#x27;entatives, nor
 less than one representative for every forty thou­  
 sand persons, until the number of reprei&#x27;entative
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789082901:0002/pct:19.735708129847744,22.266742987979395,25.28009192760701,6.162946002671246/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789082901:0002/pct:19.750071818442976,22.266742987979395,25.28009192760701,6.172486166762068/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -963,7 +963,7 @@ quartered in any house without the consent of
 the owner, nor in time of war, but in a manner  
 to be p*efcribed by law
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789082901:0002/pct:19.67825337546682,43.808433505056286,25.366274059178398,6.143865674489601/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789082901:0002/pct:19.67825337546682,43.808433505056286,25.38063774777363,6.153405838580424/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -983,7 +983,7 @@ one punishment for the fame offence, nor shall
 ness against himfelf, nor be deprived of life, li­  
 berty or property, without due process oflaw, no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789082901:0002/pct:19.67825337546682,55.40927303949628,25.222637173226083,4.598359091776379/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789082901:0002/pct:19.67825337546682,55.41404312154169,25.24418270611893,4.622209502003434/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1008,7 +1008,7 @@ requisites ; and no person shall beheld toanfwer
 for a capital orotlierwife infamouscrime, unless  
 on a prefenim ens or indictment by a grand jury 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789082901:0002/pct:19.592071243895433,66.13241747758062,25.222637173226083,8.509826369013547/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789082901:0002/pct:19.61361677678828,66.14195764167144,25.208273484630855,8.51936653310437/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1031,7 +1031,7 @@ according to the course of the common law, be o­
 tlierwife re-examinable, than according to the  
 rules of common law
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789082901:0002/pct:19.505889112324045,76.89372257202824,25.423728813559322,6.659034535394008/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789082901:0002/pct:19.51307095662166,76.89372257202824,25.44527434645217,6.668574699484831/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1058,7 +1058,7 @@ Ordered, that the Clerk of this lioufe do carry
 to the senate a fair and engrofled copy of the  
 said proposed articles of amendment, and desir
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789082901:0002/pct:46.36598678540649,7.116962411753482,25.423728813559322,10.01717229536348/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789082901:0002/pct:46.38035047400172,7.121732493798893,25.416546969261706,10.026712459454302/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1134,7 +1134,7 @@ Jhall never be less thax one hundred, nor more
 than one hundred-and feventy-five; but each  
 Sate shall always bave at least one repre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789091701:0457/pct:4.882195773621569,83.63065741658407,21.690551372358513,7.647836141394119/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789091701:0457/pct:4.898388794429601,83.63065741658407,21.690551372358513,7.647836141394119/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1194,7 +1194,7 @@ thousand, until thenumber shall amount to one hundred ; to which
 number one representative shall be added for every fubfe-qircnt in­  
 creafeof forty thousand, until the Representatives shall amount t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789092301:0001/pct:30.744618964514252,88.31490659550134,25.45084351367074,3.678993518871521/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789092301:0001/pct:30.744618964514252,88.32443766679374,25.494473531122747,3.693290125810141/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1216,7 +1216,7 @@ Soall be compelled to be a witness against
 bimfelf, nor be deprived of life, liberty or  
 property, avithout due process of law, no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789092401:0462/pct:29.111216730038024,63.935222672064775,21.173954372623573,5.862348178137652/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789092401:0462/pct:29.1191381495564,63.935222672064775,21.181875792141952,5.862348178137652/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1237,7 +1237,7 @@ mation, and not particularly describing the
 places to be searched, and the persons or things  
 to be feized.”’_ 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789092401:0462/pct:51.06939163498099,16.5668016194332,20.91254752851711,5.765182186234818/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789092401:0462/pct:51.085234474017746,16.577597840755736,20.920468948035488,5.765182186234818/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1263,7 +1263,7 @@ tives shall amount to two hundred, after which
 the proportion shall be so regulated by Congress,  
 that there shall not be left than two hundred Re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789100301:0003/pct:4.752004752004752,52.516202821197105,25.304425304425305,9.092642012962257/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789100301:0003/pct:4.7742797742797745,52.52573389248951,25.28957528957529,9.097407548608464/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1292,7 +1292,7 @@ mount to two hundred, after which the
 proportion shall be so regulated by Con­  
 greg, that there shall not be less tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789101501:0473/pct:50.31325301204819,13.884404262189216,43.10843373493976,78.36616080077495/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789101501:0473/pct:50.321285140562246,13.884404262189216,43.10843373493976,78.38230545689377/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1330,7 +1330,7 @@ dred ; after which the pro­
 portion shall be so regulatec1  
 by Congress, that there fhal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792031201:0001/pct:8.471510400964727,22.488871685697696,15.194452818812179,18.850396748596864/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792031201:0001/pct:8.471510400964727,22.49371008322044,15.209526680735605,18.855235146119604/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1353,7 +1353,7 @@ sentatives, nor less than one representative for every lortjr
 thou and persons, until the number of representatives shall  
 amount to two hundred, slier Wi ich the proportion sha l b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813122701:0415/pct:72.79026217228464,52.52251140989269,22.265917602996254,4.798322437399778/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813122701:0415/pct:72.7766335892155,52.51603354711396,22.267989764713224,4.801841802335142/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1383,7 +1383,7 @@ war, but in a manner to be prescribed by law.
 sir tide the seventh  
 The right of the people to be secured in their per
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813122701:0415/pct:72.92134831460675,65.09189589243863,22.378277153558052,8.585173307018627/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813122701:0415/pct:72.90769518816701,65.0838677849038,22.38032827810023,8.588225620786055/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1407,7 +1407,7 @@ case, lobe a witness against himself, not be deprived of
 life, liberty, or property, without due process &lt; f law :  
 nor shall private property be taken for public use
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813122701:0415/pct:73.20224719101124,74.7502158628346,22.39700374531835,5.711113852226471/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813122701:0415/pct:73.18854147163452,74.74099654662062,22.399051363664732,5.714520638052952/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1437,7 +1437,7 @@ within the same state.
 Article the elrventh.  
 No appeal to the supreme court of the UniledS&#x27;a te
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813122701:0415/pct:73.33333333333333,85.04995682743308,22.99625468164794,9.090909090909092/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813122701:0415/pct:73.31960307058603,85.0394671928959,22.998190101728763,9.093899029764842/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1467,7 +1467,7 @@ I n the fourth Article it was moved to insert these words
 •—“ To instruct their Representatives,” after the words.  
 “.Common good”—And the Yeas *ial Kays being lequirc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813123001:0419/pct:4.540481400437637,27.9182156133829,21.973012399708242,8.773234200743495/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813123001:0419/pct:4.539653600729261,27.914756535745262,21.975083561227592,8.77627720645934/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1561,7 +1561,7 @@ against.&#x27;* &#x27; I should, therefore, wish to extend
 &#x27; this interdiction, and add, that no State shall  
 4 violate,&#x27;&#x27; Ac. if thers w.is
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1854051101:0085/pct:3.0797321972002436,24.872280037842952,11.941570298234936,4.266792809839168/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1854051101:0085/pct:3.0837898153783727,24.875433617155473,11.949685534591195,4.269946389151687/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1599,7 +1599,7 @@ as such. As whig, such as those were who pro
 claimed the freedom of the press as one of the great  
 bulwarks of liberty, the freedom of speech as it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743208:1854120801:1321/pct:48.636061210911514,211.56532692087484,47.887558216899535,18.607580442001602/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743208:1854120801:1321/pct:16.21202040363717,70.52177564029161,15.962519405633179,6.202526814000534/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1639,7 +1639,7 @@ for his defence.
 The Constitution of Pennsylvania also  
 sets forth in its Bill of Rights that
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477849:1861061202:0377/pct:271.90517998244076,242.3871906841339,63.564530289727834,53.740902474526926/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477849:1861061202:0377/pct:68.02108499890183,60.59679767103348,15.901603338458159,13.435225618631732/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1655,7 +1655,7 @@ sets forth in its Bill of Rights that
 2. &quot;The rights of the people to be secured in  
 their persons, houses, papers and effects, agains
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028822:00280775459:1863070201:0737/pct:230.17883755588673,348.91089108910893,49.85096870342772,3.8472418670438473/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028822:00280775459:1863070201:0737/pct:57.57688723205965,87.22772277227723,12.469711090400745,0.9618104667609618/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1671,7 +1671,7 @@ their persons, houses, papers and effects, agains
 0. &quot;The rights of the people to be secured in  
 their persons, houses, papers and effects, agains
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028822:00280775459:1863072301:0748/pct:24.724871606749815,240.67844522968198,48.789435069699195,3.5618374558303887/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028822:00280775459:1863072301:0748/pct:6.184621031381905,60.169611307420496,12.204074142044412,0.8904593639575972/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1694,7 +1694,7 @@ or affirmation, and particularly describing the pla­
 ces to be searched, or the persons or things to be  
 seized.&quot; Again: &quot;No person shall be neld t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022810:1864061001:0314/pct:11.417322834645669,107.18805970149253,19.635826771653544,5.731343283582089/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022810:1864061001:0314/pct:8.56439704675964,80.39402985074626,14.733388022969647,4.298507462686567/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1787,7 +1787,7 @@ the land or naval forces, or the militia in actual service
 in time of war or public danger, shall be held to answer  
 for a capital or otherwise in amous crime unless upon 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743610:1868022501:0502/pct:105.28468586387434,15.227557887532793,45.79515706806283,5.018820577164367/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743610:1868022501:0502/pct:35.09489528795812,5.075852629177597,15.265052356020943,1.6729401923881222/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1890,7 +1890,7 @@ to take a step in the direction of
 amending the Constitution in this re  
 gard; to test the sense of the Senate a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775435:1873050801:0085/pct:51.65016501650165,5.757420675537359,30.61056105610561,121.94216990788127/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775435:1873050801:0085/pct:38.75226935137812,4.32446264073695,22.95758375969632,91.453428863869/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1917,7 +1917,7 @@ amount to 100, after which the proportion shall be so
 regulated by Congress that there shall not be less than  
 100 Representatives, nor less than one Representativ
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fullerton_ver02:data:sn84031492:no_reel:1873050901:0004/pct:57.240437158469945,67.20980757293607,12.548790007806401,6.471135940409684/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fullerton_ver02:data:sn84031492:no_reel:1873050901:0004/pct:57.255074160811866,67.20980757293607,12.543911007025761,6.490533829919305/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1943,7 +1943,7 @@ leveled against tho legislative, ior it is the
 moot powerful, and most likely to be  
 abused because it is under the least control
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_belgium_ver01:data:sn84026844:00202190881:1873071001:0651/pct:50.805270863836014,26.485998193315268,13.103953147877013,5.980126467931346/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_belgium_ver01:data:sn84026844:00202190881:1873071001:0651/pct:50.82357247437775,26.485998193315268,13.085651537335286,5.984643179765131/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1967,7 +1967,7 @@ againe: the leg;* latere, lor it is the tooa t
 powerful, and most IikeTy to be abused  
 oecaiae it u under the least control 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_deforest_ver02:data:sn84026847:00415665179:1873071001:0035/pct:73.64944216089255,82.22823147647377,11.77334116265414,5.224445646295295/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_deforest_ver02:data:sn84026847:00415665179:1873071001:0035/pct:73.64944216089255,82.23544258157563,11.788021139166178,5.220840093744366/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

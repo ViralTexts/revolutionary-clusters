@@ -36,7 +36,7 @@ he thought they ought to be abolished. But he admit­
 ted the necessity of leaving in them subordinate juris­  
 dictions.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1840051901:0483/pct:15.913497390007457,77.30289621882542,16.107382550335572,4.736524537409493/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1840051901:0483/pct:15.923440218742233,77.30960042906946,16.107382550335572,4.7398766425315095/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -100,7 +100,7 @@ abolished. But he admitted the necessity of leav-
   
 ing in them subordmate jurisdictions
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023294:00200296096:1840061901:0027/pct:68.88701517706576,54.8720124451987,121.41652613827993,315.08980342242967/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023294:00200296096:1840061901:0027/pct:17.22538477756694,13.718003111299675,30.36053130929791,78.77245085560742/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -163,7 +163,7 @@ subvert it,” &amp;c.
 It is indubitable from Mr. Hamilton’s  
 frequent statements in the convention, tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_elliot_ver01:data:sn87068079:00332896453:1883083001:0141/pct:26.864823930329422,69.2965639286241,10.942824687618327,3.966966524111488/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_elliot_ver01:data:sn87068079:00332896453:1883083001:0141/pct:26.859738784781374,69.28634621055735,10.945485519591141,3.970067826599823/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

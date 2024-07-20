@@ -57,7 +57,7 @@ Egypt. &quot;And the patriarchs, moved with
 envy, sold Joseph into Egypt; but God  
 was with him.” The next two or thre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624542:1874121901:0079/pct:95.46370967741936,79.31207004377737,14.163306451612904,1.7135709818636649/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624542:1874121901:0079/pct:73.984375,61.47408556287967,10.989583333333334,1.3280341217526173/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -91,7 +91,7 @@ Acts vii, 9 and 10: “And the patriarchs moved
 with envy sold Joseph into Egypt, but God  
 was with him and delivered him out of all hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_farmington_ver01:data:sn83016025:00279525462:1879063001:0505/pct:37.82165398931866,32.6874167373138,10.778443113772456,1.2474264260627346/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_farmington_ver01:data:sn83016025:00279525462:1879063001:0505/pct:37.81553398058252,32.683458464519255,10.78074433656958,1.2503027367401307/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

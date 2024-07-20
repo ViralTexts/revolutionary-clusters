@@ -827,7 +827,7 @@ tion. These causes united, constantly acting on,
 thereby, insensibly, as well a? sensibly, altering  
 one another, eilher for the better or worse, no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1838041401:0170/pct:23.349490222296506,48.708487084870846,19.053986294501087,16.305350553505534/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1838041401:0170/pct:23.360632904340076,48.708487084870846,19.042843612457517,16.30919434194342/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

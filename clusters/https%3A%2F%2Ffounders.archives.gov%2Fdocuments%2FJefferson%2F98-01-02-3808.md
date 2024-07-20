@@ -132,7 +132,7 @@ surances nf my unahated anil constant attach
 nienl, friendship and respect.  
 TH : JRFFRKSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183979:1823123001:0289/pct:48.8623342609265,2.1266370299170974,31.34719266655754,92.87516520485401/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183979:1823123001:0289/pct:48.854337152209496,2.126381547333013,31.347517730496453,92.86801217363447/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -249,7 +249,7 @@ p&#x27;aying you to throw it by smong the things
 which have never happened, 1 add sincere »s-  
 S 0 ances of._my&#x27; uncbuied and conmeny stiach
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1824010101:0615/pct:31.29199462468804,3.8244955419990614,43.88558264542139,90.87282965743782/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1824010101:0615/pct:31.29199462468804,3.8244955419990614,43.89838100723107,90.88065071171594/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -521,7 +521,7 @@ by this wicked attempt to p tison its
 peace, See.” Upon this the sapient eth  
 tor of the VV ashinglon Gazette exclaims
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1824033001:0212/pct:2.526595744680851,87.0801463252411,17.4468085106383,7.100099767209843/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1824033001:0212/pct:2.525923956394576,87.06566916043225,17.448816804041478,7.103075644222776/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -567,7 +567,7 @@ looks upon it as the machinations of en­
 emies, who, as in former periods, are  
 I ile-avoi ing to create an emuitv betwee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1824033001:0212/pct:20.159574468085108,26.355171267043566,18.6968085106383,20.784835384103758/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1824033001:0212/pct:20.154214304706194,26.350789692435576,18.698484445626164,20.785536159600998/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

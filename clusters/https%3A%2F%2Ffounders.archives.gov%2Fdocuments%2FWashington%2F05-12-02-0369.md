@@ -319,7 +319,7 @@ over considerable rivers, and the commence­
 ment of turnpike-roads, as further indicati­  
 ons of the improvement in hand
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794060701:0002/pct:70.51907083452825,29.25531914893617,19.35761399483797,40.315480557593546/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794060701:0002/pct:70.51907083452825,29.26907556859868,19.379122454832235,40.315480557593546/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -393,7 +393,7 @@ and the commencement of turnpike-roads, as
 further indications Gt the improvement in  
 hand. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1800030301:0348/pct:8.500232883092687,43.713345730224574,22.519795062878433,41.65355457016164/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1800030301:0348/pct:8.498253783469151,43.7070938215103,22.52037252619325,41.651172768878716/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -544,7 +544,7 @@ These were objects worthy of his patriotic
 spirit. But great as his conceptions were on  
 this subject, the noble exertions of a singl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183979:1823111101:0220/pct:67.44408945686901,16.25195335977882,15.015974440894569,12.898184877990143/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183979:1823111101:0220/pct:67.43331736144386,16.25,15.01890006921152,12.900641025641026/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -784,7 +784,7 @@ the augmentation of duties recently imposed by
 the Zollverein on various manufactured articles, and  
 partioularly on cotton and linen thrends, it may be co
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271742952:1847012101:0101/pct:151.32654763891207,21.240666283744975,51.39329217420324,19.069500287191268/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271742952:1847012101:0101/pct:50.44218254630402,7.080222094581658,17.131097391401077,6.356500095730423/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -933,7 +933,7 @@ ble rivers, and the commencement
 of turnpike roads, as firther indications  
 of the improvement in hand.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn86053240:00237288476:1852042001:0068/pct:51.942831621259494,21.63603358293624,79.72309066547565,265.7930565010211/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn86053240:00237288476:1852042001:0068/pct:17.314277207086498,7.21201119431208,26.574363555158552,88.59768550034036/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -979,7 +979,7 @@ which is near completion, and in
 artiul se. Several other very ine e  
 tant ones are commenced, and littlea 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn86053240:00237288476:1852042001:0069/pct:51.1578947368421,24.48034342521464,88.69172932330827,189.15499322187077/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn86053240:00237288476:1852042001:0069/pct:17.05263157894737,8.160114475071547,29.56390977443609,63.051664407290254/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1052,7 +1052,7 @@ ke roads.
 further indications of the improvement in  
 hand.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_flareon_ver02:data:sn82014073:00279529200:1852042901:0564/pct:93.89083625438157,168.27458256029684,39.60941412118177,73.71675943104515/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_flareon_ver02:data:sn82014073:00279529200:1852042901:0564/pct:31.29694541812719,56.09152752009895,13.203138040393924,24.572253143681714/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1073,7 +1073,7 @@ can a sure your Lordship, are expressive of my
 sentiments on this head, and I believe it is the  
 sincere wish of United America to save
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_flareon_ver02:data:sn82014073:00279529200:1852042901:0564/pct:94.0911367050576,174.8670377241806,76.83191453847438,7.755102040816326/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_flareon_ver02:data:sn82014073:00279529200:1852042901:0564/pct:31.363712235019197,58.28901257472686,25.61063817949146,2.5850340136054424/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1176,13 +1176,13 @@ branchey thergof, throusa a tract of as rich ronutry for huse
 of miles, as ary in the worle; and little doubt is cuter.  
 tained that in tea years, if left undisturied, we shall oven 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271743269:1857080401:0806/pct:24.311415379716607,149.70760233918128,49.73730297723292,10.39136302294197/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271743269:1857080401:0806/pct:8.103805126572201,49.902534113060426,16.579100992410975,3.46378767431399/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The United States democratic review_](https://archive.org/details/sim_united-states-democratic-review_1857-10_40/page/n16/mode/1up?view=theater)
+## [From _The United States Democratic Review (1856-1859)_](https://archive.org/details/sim_united-states-democratic-review_1857-10_40/page/n16/mode/1up?view=theater)
 
 #### 1857-10-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -1439,7 +1439,7 @@ branches thereof, through a tract of as
 rioh country for hundreds of miles  
 as any in the world
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_nittany_ver01:data:sn84026355:00212478064:1895033001:0672/pct:7.6738609112709835,71.72413793103448,16.746602717825738,14.89655172413793/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_nittany_ver01:data:sn84026355:00212478064:1895033001:0672/pct:5.758848230353929,53.793103448275865,12.577484503099381,11.172413793103448/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1517,7 +1517,7 @@ with ail tiie inhal-Hants of the earth, and
 thi* I -ini ; &gt;uad« *i they will do, if right­  
 fully it &lt;an be done.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_fornax_ver01:data:sn89053706:00393344672:1895090901:0306/pct:30.6715669896425,72.91962327441621,12.712996992983628,4.825183847245516/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_fornax_ver01:data:sn89053706:00393344672:1895090901:0306/pct:30.677135538478673,72.91962327441621,12.707428444147455,4.8337848879714445/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1571,7 +1571,7 @@ but larger ones may venture
 further out. The people of the  
 United 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_cinquefoil_ver04:data:sn92070454:00280773669:1895091301:0240/pct:28.685503685503686,9.895280012141448,35.053235053235056,113.85642737896494/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_cinquefoil_ver04:data:sn92070454:00280773669:1895091301:0240/pct:21.523653491705918,7.421460009106086,26.295310260086012,85.399908939141/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1750,7 +1750,7 @@ over considerable rWersyj and the com­
 mencement of turnpjjve roads as further  
 j indication of the improvements in hand
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ibizanhound_ver01:data:sn83045462:0028065503A:1895122501:0575/pct:43.32320162107396,54.24984875983061,13.961499493414387,29.12885662431942/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ibizanhound_ver01:data:sn83045462:0028065503A:1895122501:0575/pct:43.333333333333336,54.26119177253479,13.97163120567376,29.12129461584997/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1942,7 +1942,7 @@ mencement of turnpike roads as fur­
 ther Indication of the improvements in  
 hand. ::r- _&#x27; . . 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_sebeka_ver01:data:sn90059522:00206536895:1895122501:0595/pct:49.92820218265365,30.53608025024269,11.200459506031017,30.439003343760113/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_sebeka_ver01:data:sn90059522:00206536895:1895122501:0595/pct:49.92820218265365,30.53967569122353,11.200459506031017,30.442598784740948/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2031,7 +2031,7 @@ ivers and the comimencement of turnpike
 reads, as further indications of improve  
 miemls in han
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_delta_ver01:data:sn86071197:00175034833:1895122501:0283/pct:212.0094191522763,91.75769612711022,47.645211930926216,108.15954981794108/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_delta_ver01:data:sn86071197:00175034833:1895122501:0283/pct:53.03357549577852,22.939424031777556,11.918319261731789,27.03988745448527/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2130,7 +2130,7 @@ able rivers and the commencement of
 turnpike roads as further indicationa  
 of the importance in han
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_india_ver02:data:sn86071158:00206536391:1895122501:0364/pct:135.42857142857142,135.84745762711864,54.285714285714285,139.15254237288136/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_india_ver02:data:sn86071158:00206536391:1895122501:0364/pct:33.857142857142854,33.96186440677966,13.571428571428571,34.78813559322034/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2430,7 +2430,7 @@ commencement of turnpike roads as fur­
 ther indication of the improvements in  
 hand. With great esteem and respect, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn89051168:00393343047:1896010601:0470/pct:36.91433052342678,31.968295904887714,14.702999411880024,37.912813738441216/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn89051168:00393343047:1896010601:0470/pct:36.907095256762055,31.96407343811914,14.70501764014112,37.91110817593449/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2505,7 +2505,7 @@ bridges over considerable rivers and the com­
 mencement of turnpike roads as further indi­  
 cation of the improvements in nand
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_dogtown_ver01:data:sn85066387:00175037330:1896012601:0444/pct:56.64400494437577,26.32490474541046,13.396168108776267,22.9534695762614/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_dogtown_ver01:data:sn85066387:00175037330:1896012601:0444/pct:56.64400494437577,26.328753415694877,13.411619283065512,22.961166916830233/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2636,7 +2636,7 @@ Mr. Stealy took a copy of the letter,
 and it is not believed that it has ever  
 been printed in this country.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_empire_ver01:data:sn86091319:00332890748:1896021901:0031/pct:36.129647283126786,26.46282787521341,15.276453765490944,49.27828651249418/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_empire_ver01:data:sn86091319:00332890748:1896021901:0031/pct:36.12103883726471,26.458721291123524,15.278770550393139,49.274518932340165/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

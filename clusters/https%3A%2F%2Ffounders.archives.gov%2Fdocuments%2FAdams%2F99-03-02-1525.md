@@ -155,7 +155,7 @@ Can make to-moirow cheeifiil as to-day
 &quot;Oh! blest with temper, whose unclouded ray  
 Can make to morrow cheerful as to-day
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296199:1843013001:0018/pct:81.92219679633867,266.3907284768212,62.395118230358506,5.132450331125828/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296199:1843013001:0018/pct:20.484455464428763,66.5976821192053,15.601754720579821,1.283112582781457/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -217,7 +217,7 @@ A STORY FOR WIVES.
 Can make to-morrow cheerful as to-day !  
 She who ne’er answers till a husband coola
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685269:1867013101:0164/pct:55.33286859532938,49.0738218469082,11.67654234925061,2.94197766276219/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685269:1867013101:0164/pct:55.323227043038855,49.06713877161923,11.678863913573794,2.944981615143674/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

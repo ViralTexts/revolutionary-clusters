@@ -70,7 +70,7 @@ officers and non-commissioned officers
 in question ©re no longer confined.”  
 It would be superfluous to use ftn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1814011101:0213/pct:63.1656562346387,32.75232706698303,17.97476650827462,14.665084869501733/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1814011101:0213/pct:63.155307994757536,32.74933844328862,17.97728265618174,14.666788332268759/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -114,7 +114,7 @@ ceaented, .*** to deny the right of a free nation to bring
 to legal trial, in a due course of law, her own natural  
 born subjects taken in the actual commission of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1814011201:0734/pct:3.6832873966424455,50.04926108374384,21.849160611375595,11.231527093596059/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1814011201:0734/pct:3.682364729458918,50.04104416351995,21.8499498997996,11.23378755540962/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -139,7 +139,7 @@ It would be superfluous to use any argu
 me it to refute an assumption so extrava­  
 gant, unjust ::nd unprecedented, as to dent
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1814011301:0304/pct:5.743982494529541,4.09018110139214,17.450765864332602,6.603424910681286/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1814011301:0304/pct:5.742935278030994,4.089677260408967,17.453661501063507,6.606717582327338/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -170,7 +170,7 @@ til it shall be k mwn that the Forty s.x Ameri­
 can officers and non-couiuiissumcd o moors in  
 question are no longer confined ”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814011301:0015/pct:41.18946786963727,25.09861932938856,17.308046400294604,8.999013806706115/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814011301:0015/pct:41.181885125184095,25.095525699494637,17.310996563573884,9.002013229795802/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -255,7 +255,7 @@ deny the right of a free nation to bring to
 legal trial, in a due courge of law, her own  
 natural born subjects taken in the actua
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1814012001:0441/pct:66.5229232864276,66.38103399028849,20.335905583295506,17.02370751213939/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1814012001:0441/pct:66.50782845473111,66.37155504783664,20.336963921034716,17.02484649435956/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

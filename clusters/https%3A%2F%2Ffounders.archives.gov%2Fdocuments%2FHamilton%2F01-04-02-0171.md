@@ -161,7 +161,7 @@ appetite” In another, Alt. Madison says,
 &quot; the federal rvil Male governments, are in  
 fact hut different agent- and trustees oi th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183955:1821011101:0309/pct:35.72233854082783,37.823648729268584,14.704461265904332,6.7056437179334205/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183955:1821011101:0309/pct:35.71658615136876,37.819136244333095,14.707461084272678,6.708820488348048/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -324,7 +324,7 @@ ready explained, they will generally possess the confidence i
 &quot; port, will be able effectually to oppose all encroachments of  
 41 the Federal Government. The Legislature
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1850030901:0108/pct:1.3120899718837864,83.48797975537748,15.624581603963048,6.790383804301983/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1850030901:0108/pct:1.3120899718837864,83.49149444678757,15.637970277145534,6.797413187122171/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -356,7 +356,7 @@ ami, with so important a support, will be able
 effectually to oppose all encroachments of the  
 Federal Government. The legislature
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:0041421583A:1850030901:0625/pct:21.00075815011372,79.97332584585146,12.75587566338135,8.142636529552155/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:0041421583A:1850030901:0625/pct:20.99876812280868,79.96771250087738,12.757825578824347,8.144404669989003/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -376,7 +376,7 @@ good will of the neonle and with so in
   
 Messrs. Fuote and Calhoun portant a support, will be able effictually to that State the project for a Southern Conven
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667711:1850031301:0429/pct:30.903065451532726,240.2156011378949,179.12178956089477,11.678394969306783/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667711:1850031301:0429/pct:7.728968089515126,60.05390028447373,44.799005387484456,2.919598742326696/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -409,7 +409,7 @@ enabled effectually u&gt; oppose all encroachments of the fed­
 eral government. &#x27;So long as ihe separate organisation  
 ol tae
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850032201:0375/pct:51.90975020145044,82.53808384741282,15.616438356164384,3.776910487221453/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850032201:0375/pct:51.915122213268866,82.54228041462083,15.616438356164384,3.7811070544294765/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -432,7 +432,7 @@ nnH w^ih so important a support will Be enabled effectually to
 lone as the separate organization of the members be not abol­  
 idieri ? so lone
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1850032301:0124/pct:47.82012613106663,66.26875132051553,15.396216068001097,4.267906190576801/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1850032301:0124/pct:47.82469609724888,66.26875132051553,15.396216068001097,4.274948940066202/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -531,7 +531,7 @@ the Federalist: &quot; The separate Governments in a confedera­
 4 Federal Government.&quot; 44 tfo long as the separate organi­  
 4 zition
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1850042701:0168/pct:0.6637168141592921,14.856230031948881,15.680309734513274,5.324813631522897/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1850042701:0168/pct:0.6729351032448377,14.856230031948881,15.680309734513274,5.3283635072772455/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -565,7 +565,7 @@ could be no temptation in the inero domestic police of a ,
 Slate sullii iently strong to allure those intrusted with the  
 federal administration; that their subjects of superintend-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854062401:0832/pct:47.72764561115669,15.23545706371191,15.931091058244462,4.6839587005792/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854062401:0832/pct:47.733114574788075,15.23545706371191,15.936560021875854,4.688155796189037/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -592,7 +592,7 @@ eral jurisdiction. It is, therefore, improbable thut there
 should exist a disposition in tho federal council&quot; U* usurp the  
 powers with which they are connecte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854062401:0832/pct:47.56357670221493,41.4379249559305,15.996718621821165,5.439435910350038/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854062401:0832/pct:47.56357670221493,41.4379249559305,16.007656549083947,5.447830101569714/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -624,7 +624,7 @@ covet, while those things proper to be provided
 for by local legislation were conceded to the  
 States. It was further urged, that the federa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661538:1854062501:0626/pct:45.6734483646665,18.886823626600577,12.606232294617564,7.734407269723254/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661538:1854062501:0626/pct:45.6734483646665,18.886823626600577,12.614816722465447,7.737849373537106/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -655,7 +655,7 @@ These extracts present but glimpses of the views
 of the Constitution, expressed by two of its illus­  
 trious framers, which are more dearly nnd strongl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661538:1854062501:0626/pct:45.75070821529745,45.652622883106154,12.528972443986609,6.361007847996696/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661538:1854062501:0626/pct:45.75070821529745,45.659507090733854,12.541849085758434,6.364449951810546/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -750,7 +750,7 @@ Government to encroach upon the State
 which is compatible with the principles of  
 &quot;liberty.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530698:1861110201:0458/pct:153.0842745438749,169.16207951070336,48.07993049522155,20.171253822629968/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530698:1861110201:0458/pct:51.02809151462496,56.38735983690112,16.026643498407182,6.72375127420999/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -798,7 +798,7 @@ factory light before our readers, and are doubtful
 of our ability to advance arguments sufficiently  
 cogent to induce them to readily adopt a radica
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_national_ver01:data:sn84022046:0027955419A:1864052001:0531/pct:17.362898435953277,208.42256463828676,51.890714709958424,9.532515016975712/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_national_ver01:data:sn84022046:0027955419A:1864052001:0531/pct:4.340724608988319,52.10564115957169,12.972678677489606,2.383128754243928/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -837,7 +837,7 @@ the State authorities.&quot;
 Multiplied extracts from these two  
 great writers on the Constitution t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn83035595:00296026645:1868022801:0466/pct:87.94378698224853,40.212712079007346,12.914201183431953,5.722967839959483/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn83035595:00296026645:1868022801:0466/pct:65.9712975292203,30.159534059255506,9.690782660156827,4.304887313243859/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

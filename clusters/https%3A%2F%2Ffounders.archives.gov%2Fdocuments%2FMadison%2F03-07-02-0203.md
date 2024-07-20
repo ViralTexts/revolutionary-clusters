@@ -101,7 +101,7 @@ on the northern frontier.&quot;
 L. „ tge and  
 jtno latter irom the Journals of Con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jumboshrimp_ver01:data:sn84025997:00414216596:1814011901:0095/pct:29.297820823244553,42.86811288155116,22.71186440677966,16.644269533499713/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jumboshrimp_ver01:data:sn84025997:00414216596:1814011901:0095/pct:29.290728637133867,42.85988483685221,22.71443556846607,16.647472808701217/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -125,7 +125,7 @@ tier.”
 «*■ TOGETHER  
 The first is from the Message and th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1814012001:0443/pct:3.6398467432950192,51.72067679954115,21.336206896551722,7.6856897046171495/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1814012001:0443/pct:3.6389753411539383,51.71326164874552,21.337084031601627,7.688172043010753/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -245,7 +245,7 @@ Your most obedient.
 And very humble servant-,­  
 JOHN ARMSTRONG
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1814021601:0359/pct:5.470620740467858,37.49379036264282,17.53545772702155,8.892200695479383/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1814021601:0359/pct:5.469613259668508,37.48913448404321,17.538367096378146,8.89523572995571/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -285,7 +285,7 @@ the very high respect with which I am your obdV
 and very humble servant, ; 4  
 JOHN ARMSTRONG
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1814021901:0776/pct:69.42043721403152,26.045281771608,24.326385358413827,8.841513799372004/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1814021901:0776/pct:69.4027954256671,26.04097818902842,24.326556543837356,8.844183740912095/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -302,7 +302,7 @@ formation as may tend to explain the cau­
 ses of the failure oftarms of the United  
 States, on the Northern frond r
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1814021901:0366/pct:5.757519837608415,9.480925578486554,16.82967337147075,1.6135084427767354/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1814021901:0366/pct:5.756457564575646,9.479739869934967,16.832718327183272,1.617475404368851/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -343,7 +343,7 @@ formation as may tend to ex/iluin the cau­
 ses of the failure of the arms of the United  
 States, on the Aorthtrn Front It r
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1814030501:0384/pct:7.292797683677162,5.885967068075694,16.775244299674267,3.305480462029983/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1814030501:0384/pct:7.291478197937399,5.885243887455461,16.778240154393583,3.3091698406847687/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -362,7 +362,7 @@ formation as may fetid to exfilain the cau­
 ses of the failure .ofthe arms of the United  
 States, *n the JVorthern Frtmti r
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1814030901:0388/pct:5.521023765996343,7.792048929663609,16.83729433272395,2.6666666666666665/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1814030901:0388/pct:5.5200146225552915,7.791095890410959,16.84030951075367,2.6704174820613176/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -379,7 +379,7 @@ formation cx* may tend to explain the cau­
 ses of the failure of the arms of the United  
 States, vu the /Northern Front L r
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1814031201:0392/pct:5.838350665936873,8.183608171301994,16.894727239554825,1.6121092788579867/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1814031201:0392/pct:5.837285662167092,8.18260120585702,16.897725890794113,1.616012468725647/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -489,7 +489,7 @@ communicated, which may tend to illustrate the causes
 of the failure of the arms of the U. States, on the  
 Northern frontier.&quot;?Here was a solemn resolve of 13
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1840070701:0542/pct:19.423596517562295,83.56246864024084,15.956169318522965,2.7596588058203713/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1840070701:0542/pct:19.433603522465727,83.56915872219435,15.95116581607125,2.7596588058203713/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -513,7 +513,7 @@ y j i, sir, the assurance of the very high respect with which
 I am your most obedient and very humble servant,  
 JOHN ARMSTRONG
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848100701:1003/pct:0.9095260890378172,4.666750980144176,15.031115366203926,4.262046288099152/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848100701:1003/pct:0.9148449550555822,4.675182327895114,15.031115366203926,4.262046288099152/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

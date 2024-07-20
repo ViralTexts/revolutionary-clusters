@@ -174,7 +174,7 @@ he piinciples of equal reprefenraiion) anthori­
 :ing the people to ele£l delegates to form a con­  
 tention in order to frx a conlliuition upon the au
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792101701:0003/pct:72.18604651162791,44.08393238779872,20.74418604651163,9.014960170973383/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792101701:0003/pct:72.18604651162791,44.08393238779872,20.767441860465116,9.039246162813289/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -233,7 +233,7 @@ tlie latnc time have been enrolled in the militia,
 gate* lisp the sail! county, aod far senatorial electors  
 tor the disu ict
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1816100201:0173/pct:48.77001816080568,41.251419200201845,14.759782070331848,6.257096001009209/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1816100201:0173/pct:48.76196764608782,41.24621594349142,14.7628480246506,6.260511268079381/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -419,7 +419,7 @@ the oho to be styled the House of Represent-,!,
 tives, the other the Senate, and both together,  
 the General Assembly of the Commonwealth o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184534:1825031101:0063/pct:22.77787917503194,18.956390219309302,18.141996714728965,13.599697504411393/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184534:1825031101:0063/pct:22.773722627737225,18.954001260239444,18.144768856447687,13.602184415038858/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -494,7 +494,7 @@ for delugatav for the said county, a id for senatorial electors for the
 district.  
 A&gt;&lt;vu/jrc—The (invernor, to he chosen by joint ballot nf bot
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1829101701:0121/pct:18.93613868721292,79.96312939278718,15.276337235145947,7.546952413872566/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1829101701:0121/pct:18.933333333333334,79.95391705069125,15.279012345679012,7.549923195084485/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -557,7 +557,7 @@ be called the 7{nuse of Representatives, the other the Senate, and both togeth- 
 er the General Assembly. The concurrent votes of the two Houses shall be[  
 necessary to the enactment of laws; and the style of their laws shall be—B
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153243:1841102001:0455/pct:34.153341533415336,84.37311935807422,29.02829028290283,2.477432296890672/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153243:1841102001:0455/pct:34.1578971345269,84.37980608492143,29.032845884014396,2.480775660314276/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -587,7 +587,7 @@ be called the House of Representatives, the other the Senate, and both togeth­
 er the General Assembly. T&#x27;he concurrent votes of the two Houses shall he  
 necessary to the enactment of laws; and the style of their laws shall be 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153243:1841120101:0503/pct:32.479564032697546,46.73477564102564,28.896457765667574,9.21474358974359/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153243:1841120101:0503/pct:32.48410535876476,46.73477564102564,28.900999091734786,9.21474358974359/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1002,7 +1002,7 @@ resentatives shall centinno in service for the
 term of two years, from the day of the clo­  
 sing of the general elections
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_arbok_ver04:data:sn82003383:00295875045:1845012501:0224/pct:56.8125,159.4343891402715,37.21875,40.99547511312217/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_arbok_ver04:data:sn82003383:00295875045:1845012501:0224/pct:18.9375,53.1447963800905,12.40625,13.665158371040723/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1075,7 +1075,7 @@ i.t. il two-thirds also shall be of opiiiioa i; ? ? ? |
 In.a.-y, i: -ni.i ;!iere:&#x27;?re become a lav.&#x27;. i ,? i(  
 slia:l not.&#x27;&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851041801:0159/pct:34.38467207074429,39.18827070589378,15.563743551952838,7.253131371977862/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851041801:0159/pct:34.38467207074429,39.191507266077615,15.583394743306313,7.256367932161699/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1112,7 +1112,7 @@ December, one thousand eight hundred?all
 persons bom after that day being hereby doclared  
 free.?Pa ft 22
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1853072101:0798/pct:47.41035856573705,77.97378060535955,14.809726610798187,10.468478889531522/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1853072101:0798/pct:47.41035856573705,77.98020692757535,14.814305994413152,10.468478889531522/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1134,7 +1134,7 @@ December, one thousand eight hundred?all
 perrons bom after that day heiog hereby declared  
 free.?Pagt 2M
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1853072101:0799/pct:46.51845637583892,85.19614393433234,14.625279642058166,3.3215615157010596/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1853072101:0799/pct:46.52777777777778,85.20250707899844,14.629940343027592,3.3247430880341065/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1181,7 +1181,7 @@ lor your iauiiiy. t&#x27;.acii numour contains 4S page:
 There are two volumes in a year?ono communciu  
 mi July, the other in January. A yearly volume e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1853072101:0799/pct:46.15492170022372,62.96649804333302,26.174496644295303,22.430084947981292/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1853072101:0799/pct:46.15492170022372,62.97286118799911,26.179157345264727,22.426903375648244/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1262,7 +1262,7 @@ Legislature.
 Sec. 8. He shall from time to time give to the Legisla­  
 ture information of the state of the Government, and r
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743270:1857120501:0778/pct:12.39109390125847,201.16621376811594,46.11164891900613,12.952898550724637/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743270:1857120501:0778/pct:4.130364633752824,67.05540458937197,15.37054963966871,4.317632850241546/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1297,7 +1297,7 @@ thousand eight hundred all jiersons lorn
   
 after that day, being hereby declared free.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296027546:1858081001:0283/pct:93.02915082382764,93.6383035476127,16.46070975918885,6.241664443851694/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296027546:1858081001:0283/pct:69.79397781299525,70.23206188316884,12.361331220285262,4.68124833288877/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1334,7 +1334,7 @@ then a member of Congress, was placed on a t
 committee appointed to draft an ordinance for &lt;;  
 the government of the Territories. It fell t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1859042101:0502/pct:-0.5020320344250538,1.087682473046465,28.496294525460197,99.38937124320198/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1859042101:0502/pct:-0.5060164156506495,1.094043189263111,28.50426328791139,99.38937124320198/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1412,7 +1412,7 @@ ernor shall have power to adjourn the Legis­
 lature to such time as he may think propei;  
 provided, It be not beyond the time fixed fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_nicasio_ver01:data:sn84038806:00280768959:1875060601:0553/pct:26.771947276796816,59.927045336112556,9.05247450882865,4.286086503387181/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_nicasio_ver01:data:sn84038806:00280768959:1875060601:0553/pct:26.775055956229792,59.93355914538822,9.058691867694604,4.292600312662845/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1454,7 +1454,7 @@ sciving salaries or emoluments feom any
 rolgn bpwer, non-resident within the election  
 ious rights of any citizen, or, among oth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_nejat_ver01:data:sn83026413:00212475580:1877091401:0372/pct:12.836322869955158,105.87318087318087,43.497757847533634,40.46257796257796/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_nejat_ver01:data:sn83026413:00212475580:1877091401:0372/pct:4.278774289985052,35.29106029106029,14.499252615844544,13.487525987525988/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1595,7 +1595,7 @@ sent to the other branch of the Legislature
 where it shall also be reconsidered, and, if ap­  
 proved by two-thirds of the members presen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175045181:1895011301:0158/pct:232.2532027128862,155.120254121918,51.69555388093444,29.723188625018906/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175045181:1895011301:0158/pct:58.0851865812288,38.7800635304795,12.928759894459104,7.430797156254727/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1626,7 +1626,7 @@ per year,
 The general assembly s=hall regulate the  
 compensation of the governor, and of al
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_efreeti_ver01:data:sn91070630:00514152998:1898031801:1104/pct:15.698225653528375,58.462813341620055,12.75904104022755,6.5361508183136525/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_efreeti_ver01:data:sn91070630:00514152998:1898031801:1104/pct:15.698225653528375,58.462813341620055,12.75904104022755,6.543056418755611/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1658,7 +1658,7 @@ per vear.
 The general assembly shall regulate the  
 compensation of the governor, and of al
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_gargoyle_ver02:data:sn92063989:00514153437:1898031901:0265/pct:16.64,37.70627684424685,11.02,5.553462436892472/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_gargoyle_ver02:data:sn92063989:00514153437:1898031901:0265/pct:16.64666666666667,37.71130032903825,11.023333333333333,5.553462436892472/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1689,7 +1689,7 @@ per year.
 The general assembly shall regulate the  
 compensation of the governor, and of al
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_carrioncrawler_ver02:data:sn92064044:00514153048:1898032501:0048/pct:23.424270931326436,71.91399662731872,16.261255207633383,6.795952782462058/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_carrioncrawler_ver02:data:sn92064044:00514153048:1898032501:0048/pct:23.428750615956638,71.91399662731872,16.25677552300318,6.801573917931422/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1720,7 +1720,7 @@ per vear.
 The general assembly shall regulate the  
 compensation of the governor, and of al
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn92064025:00514153504:1898032601:0675/pct:27.832538420773716,37.18809980806142,10.853206147323794,5.5262316058861165/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn92064025:00514153504:1898032601:0675/pct:27.839604310192545,37.19076562166773,10.853206147323794,5.531563233098741/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1752,7 +1752,7 @@ year.
 The general assembly shall regulate the  
 compensation of the governor, and of al
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_carrioncrawler_ver02:data:sn92064044:00514153048:1898080501:0215/pct:61.4726971869829,78.14070351758794,16.629895201323773,7.953560907988217/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_carrioncrawler_ver02:data:sn92064044:00514153048:1898080501:0215/pct:61.47729362015076,78.14070351758794,16.634491634491635,7.953560907988217/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1784,7 +1784,7 @@ year.
 The general assembly shall regulate the  
 compensation of the governor, and of al
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_gargoyle_ver02:data:sn92063989:00514153437:1898082001:0441/pct:39.278320023661635,63.18181818181818,10.835058661145618,6.287878787878788/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_gargoyle_ver02:data:sn92063989:00514153437:1898082001:0441/pct:39.2816063623517,63.18181818181818,10.838344999835684,6.287878787878788/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1817,7 +1817,7 @@ state oflicers, subject to the limitations con­
 tained in this constitution.  
 See. 1. Al lotteries shall be prohibited i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_carrioncrawler_ver02:data:sn92064044:00514153048:1899032401:0484/pct:17.032094057832857,31.374825824431028,12.689333757017264,6.858646849357486/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_carrioncrawler_ver02:data:sn92064044:00514153048:1899032401:0484/pct:17.032094057832857,31.37998658203024,12.692864456448822,6.861227228157094/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1846,7 +1846,7 @@ speaker of the house, who shall recelve the
 additional sum of three huadred dollars per  
 Jear
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_firefriend_ver01:data:sn91070630:00514152962:1899061501:0616/pct:29.042992146945295,8.299783214617529,12.578197790496473,6.4725921337875505/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_firefriend_ver01:data:sn91070630:00514152962:1899061501:0616/pct:29.05186565508674,8.306665290251539,12.57376103642575,6.4691510959705445/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1879,7 +1879,7 @@ year.
 The general assembly shall regulate the  
 compensation of the governor, and of al
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_grayooze_ver01:data:sn92064044:00514153048:1899061601:0582/pct:16.643914732752283,59.5711980327365,12.653575553922083,6.969953123799278/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_grayooze_ver01:data:sn92064044:00514153048:1899061601:0582/pct:16.650915327802863,59.57632111478265,12.653575553922083,6.9725146648223575/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

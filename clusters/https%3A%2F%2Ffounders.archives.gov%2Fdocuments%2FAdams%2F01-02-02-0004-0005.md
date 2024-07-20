@@ -363,7 +363,7 @@ COLLECTION of STATE PAPERS,
 INTENDED AS MATERIALS FOR  
 AN HISTORY OF THE UNITED STATES OF
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791030201:0004/pct:40.713178294573645,16.0,27.31782945736434,3.568075117370892/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791030201:0004/pct:40.72868217054263,16.014084507042252,27.31782945736434,3.572769953051643/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -384,7 +384,7 @@ AN HISTORY OF THE UNITED STATES OF
   
 AMERICA
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791030901:0004/pct:62.7906976744186,7.323671497584541,27.203182374541004,4.231884057971015/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791030901:0004/pct:62.813647490820074,7.328502415458937,27.180232558139537,4.241545893719807/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -404,7 +404,7 @@ INTENDED AS MATERIALS FOR
 AN HISTORY OF THE UNITED STATES OP  
 AMERICA
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791031901:0004/pct:67.9349593495935,7.8647342995169085,28.32520325203252,4.328502415458937/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791031901:0004/pct:67.9430894308943,7.874396135265701,28.349593495934958,4.333333333333333/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -426,7 +426,7 @@ And other -mtheinic Documents, intended as
 materials for an History of the United States  
 of America,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794040901:0004/pct:52.602436323366554,38.41059602649007,17.552602436323365,4.543782192788815/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794040901:0004/pct:52.616279069767444,38.41519499632082,17.552602436323365,4.539183222958058/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -447,7 +447,7 @@ And other authentic Document*, intended as
 materials for an History of the United States  
 of America
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794041101:0004/pct:34.52914798206278,24.668141592920353,17.57286995515695,5.088495575221239/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794041101:0004/pct:34.52914798206278,24.672750737463126,17.57987668161435,5.093104719764011/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -468,7 +468,7 @@ And other authentic Documents, intended as
 % materials for an History of the United States  
 of America
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794041201:0004/pct:15.441783649876136,63.75368731563422,17.533718689788053,5.10693215339233/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794041201:0004/pct:15.441783649876136,63.75829646017699,17.561244150839528,5.120759587020649/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -489,7 +489,7 @@ And other authentic Documents, intended as
 materials for an History of the United States  
 of America
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794042401:0004/pct:53.63762102351314,64.79257641921397,17.925311203319502,5.131004366812227/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794042401:0004/pct:53.644536652835406,64.79257641921397,17.93914246196404,5.135553129548763/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -507,7 +507,7 @@ papers, and other authentic.doctments ; in­
 tended as materials for an history of the U­  
 nited States of America
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794050701:0003/pct:68.61355259427275,58.80080926981791,18.400907286645875,2.4462019496045615/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794050701:0003/pct:68.61355259427275,58.805407393783334,18.42217181740856,2.4508000735699835/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -525,7 +525,7 @@ papers, and other authentic documents » in­
 tended as materials for an history of the U­  
 nited States of Am rica
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794051901:0001/pct:48.403503814636906,59.55449189985273,18.19723085617406,2.393225331369661/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794051901:0001/pct:48.424696241876234,59.55449189985273,18.19016671376095,2.393225331369661/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -543,7 +543,7 @@ papers, and other authentic documents ; in­
 tended as materials for an history of the U­  
 nited States of America
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794060201:0004/pct:32.6891220320265,70.52150045745654,17.863059083379348,2.305580969807868/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794060201:0004/pct:32.709828823854224,70.52150045745654,17.863059083379348,2.3284537968892955/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -561,7 +561,7 @@ papeis, and other authentic documents ; in­
 tended as materials for an history of the U:  
 nited States of America
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794060501:0004/pct:31.998872286439244,68.17019722425128,17.95883845503242,2.355734112490869/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794060501:0004/pct:31.998872286439244,68.17932797662527,17.98703129405131,2.369430241051863/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -579,7 +579,7 @@ papers, and other authentic documents; in­
 tended as materials for an history of the U­  
 mted States of America
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794060601:0004/pct:32.47078464106845,68.79108838568298,18.030050083472453,2.483564645726808/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794060601:0004/pct:32.47078464106845,68.80478451424398,18.0370061213133,2.47899926953981/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -934,7 +934,7 @@ listened to it? It was the tocein of war,-a promice
 to take up arms, encumsered by no conditions. The  
 words of that speech were those of a modest and una
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530650:1860072401:0605/pct:1.419844807660558,192.49186424918642,49.21578339111772,12.831241283124129/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530650:1860072401:0605/pct:0.47328160255351936,64.1639547497288,16.405261130372573,4.277080427708043/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -963,7 +963,7 @@ and talk away.” —Madame Jenny Lind Goldschmidt recentl
 
 ---
 
-## [From _Putnam's magazine of literature, science, art, and national interests_](https://archive.org/details/sim_putnams-magazine_1870-09_6_33/page/n8/mode/1up?view=theater)
+## [From _Putnam's Magazine.  Original Papers on Literature, Science, Art and National Interests (1868-1870)_](https://archive.org/details/sim_putnams-magazine_1870-09_6_33/page/n8/mode/1up?view=theater)
 
 #### 1870-09-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -1228,7 +1228,7 @@ grand, spacious and . elegant houso.
 There wo had much conversation with  
 Mr. Charles Thomson, who is the Sa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn90000523:00415629588:1887121501:0826/pct:52.71332335329341,21.29122807017544,14.38997005988024,4.350877192982456/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn90000523:00415629588:1887121501:0826/pct:39.561879797790674,15.971929824561403,10.803220370717094,3.270175438596491/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1249,7 +1249,7 @@ grand, spacious and elegant house.
 There wo had much conversation with  
 Mr. Charles Thomson, who is the Sa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_beatles_ver01:data:sn84027718:00271762689:1887122101:0458/pct:97.2542559033498,21.74297721742977,14.305326743547502,4.423800044238001/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_beatles_ver01:data:sn84027718:00271762689:1887122101:0458/pct:72.9607250755287,16.312762663127625,10.738808019774787,3.3178500331785004/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1272,7 +1272,7 @@ Six days later, the delegates marched to
 Carpenter&#x27;s Hull, inspected it, agreed that it  
 should serve the purpose, and helped them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_dole_ver01:data:sn83040340:0023728320A:1887122301:0332/pct:64.56477039067855,54.02022756005057,17.97464016449623,5.979772439949431/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_dole_ver01:data:sn83040340:0023728320A:1887122301:0332/pct:43.05793623585876,36.017699115044245,11.998628728145356,3.982300884955752/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1305,7 +1305,7 @@ Six days later, the delegates marched to
 5 Carpenter’s H ill, in peeled it, agreed that it  
 . should serve the purpose, and helped liem
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588307:1887123101:0825/pct:64.69940541730897,85.61238427682501,18.321955516406078,5.494005160115344/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588307:1887123101:0825/pct:50.153601092274435,66.3490943307457,14.193878712026397,4.26174233513683/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1561,7 +1561,7 @@ jesty on horseback, very large, of solid lead,
 gilded with gold, standing on a pedestal of  
 marble, very high.-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623975:1897070301:0124/pct:40.389048991354464,15.370410601781447,10.432276657060518,3.0849446013469475/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623975:1897070301:0124/pct:40.389048991354464,15.377652255775219,10.437079731027858,3.0813237743500617/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1603,7 +1603,7 @@ charged the bottle and attempted an experi­
 ment , but the state of the air was not  
 favorable. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_emerson_ver01:data:sn99021999:00206539483:1899072801:0115/pct:25.808151791988756,15.918536990856193,16.53197470133521,6.85785536159601/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_emerson_ver01:data:sn99021999:00206539483:1899072801:0115/pct:19.363907924793534,11.942366306456082,12.40555262695484,5.15378221113882/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1660,7 +1660,7 @@ tricity building, but it is expected that
 most of the heavy exhibits of this class  
 will be placed elsewhere. The Unite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_belle_ver01:data:sn85033078:0027176859A:1899081701:0139/pct:56.47506454681343,27.554179566563466,24.813153961136024,66.98292220113852/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_belle_ver01:data:sn85033078:0027176859A:1899081701:0139/pct:56.47506454681343,27.554179566563466,24.822213163020336,66.98292220113852/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

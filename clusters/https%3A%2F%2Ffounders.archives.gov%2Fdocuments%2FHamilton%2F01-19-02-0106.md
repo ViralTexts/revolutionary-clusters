@@ -501,7 +501,7 @@ in for adjudication ; and in the payment or re­
 covery ofany indemnification adjudged or agreed  
 to be paid to the maflers or owners of such thips
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795071401:0470/pct:52.86284953395473,46.069651741293534,19.455540760467525,6.736318407960199/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795071401:0470/pct:52.86778122996498,46.069651741293534,19.455540760467525,6.736318407960199/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -530,7 +530,7 @@ fatisfattion and reparation for all damages, and
 the interest thcreof&#x27;, of whatever nature the f{aid  
 damages may be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795071401:0470/pct:52.71489865364699,5.134328358208955,39.917147507027664,87.2636815920398/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795071401:0470/pct:52.724762045667504,5.140961857379768,39.917147507027664,87.2636815920398/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -559,7 +559,7 @@ ture 10 be deemed contraband of war, it is agreed,
 that under the feid denomination lhall be conipt ifed  
 all arms and implements ferving tor the purpofes o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_zarley_ver01:data:sn84038410:01000424529:1795071801:0053/pct:32.64996203492787,49.89059080962801,25.39863325740319,11.038171650863116/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_zarley_ver01:data:sn84038410:01000424529:1795071801:0053/pct:32.63757115749526,49.8784637822071,25.398481973434535,11.041565386485173/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -597,7 +597,7 @@ above one hundred and fifty teamen or fuldiers, in
 the fum of three thouland pounds fterling, to fatisfy  
 all damages an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_zarley_ver01:data:sn84038410:01000424529:1795071801:0053/pct:59.453302961275625,18.89132020423049,25.854214123006834,17.62703622659859/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_zarley_ver01:data:sn84038410:01000424529:1795071801:0053/pct:59.43074003795066,18.886728245017014,25.853889943074005,17.628828390860477/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -984,7 +984,7 @@ their persons and estates, to make fatisfac­
 the interefll thereof, of whatever nature  
 the damages may be : For this cause, al
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796031901:0047/pct:24.00182177015333,76.65311787449193,15.75831182632458,2.9542976107861603/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796031901:0047/pct:24.00182177015333,76.65642245794918,15.75831182632458,2.9509930273289053/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1020,7 +1020,7 @@ Whether any peculiar_obligation lies
 tipon the owner of a vessel whose crew has  
 been thus cruelly treated, toeffeél their re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796032601:0051/pct:7.934062548143584,18.822250765734612,15.960560776459713,12.716134769291571/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796032601:0051/pct:7.934062548143584,18.82883773013207,15.965696092024855,12.709547804894115/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1113,7 +1113,7 @@ the 34th, declaring &quot; bis belief that it cannor be
 &quot; therefore taking effect between such nations only  
 &quot; at have fa agreed to control it.&quot; And it i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797012101:0003/pct:6.645177287379123,22.56010189460277,19.43962310934788,11.622353128482725/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797012101:0003/pct:6.645177287379123,22.564082152523483,19.452020828167615,11.642254418086292/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1174,7 +1174,7 @@ An.) it is plain, that it was to avoid the inconve­
 niences rdjdriiig from this.general rule of the law  
 «f nations, that France and the United States ftip
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_zarley_ver01:data:sn84038410:01000424529:1797031601:0230/pct:16.292569659442723,16.631380851564337,27.24458204334365,12.397083039284874/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_zarley_ver01:data:sn84038410:01000424529:1797031601:0230/pct:16.286266924564796,16.6274694261524,27.243713733075435,12.400047036688617/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1209,7 +1209,7 @@ ment or recovery of any indemnifi­
 cation adjudged or agreed to be paid  
 to the masters or owners of {uch fthips
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797072501:0327/pct:60.60888474681578,20.58473736372646,15.921093507300403,14.013875123885034/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797072501:0327/pct:60.61406233820027,20.58473736372646,15.926271098684891,14.017178724810043/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1262,7 +1262,7 @@ goods are prize on board of neutrals with­
 out giving us or Trance cause of complaint.&quot;  
 Now, it is well known, that one of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797090701:0002/pct:60.31026252983293,3.0948067632850242,34.7255369928401,89.3719806763285/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797090701:0002/pct:60.32219570405728,3.102355072463768,34.73150357995227,89.38330314009661/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1284,7 +1284,7 @@ and in the payntent or recovery of any in­
 demnification, adjudged or agreed to be paid  
 tp the mafter# or owners of such (hips.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797091901:0002/pct:25.138454129544908,89.07474382157926,16.85528533590176,5.003013863773358/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797091901:0002/pct:25.138454129544908,89.08227848101266,16.867324825427403,5.018083182640145/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1621,7 +1621,7 @@ which belongs to the enemy (hall be made prize,
 according to the article, then the fa# whether  
 the property doei or does not belong &#x27;to an ene
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798051201:0002/pct:43.577235772357724,25.3307850632167,16.19047619047619,9.438400470449867/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798051201:0002/pct:43.59465737514518,25.334460452808,16.19047619047619,9.445751249632462/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1644,7 +1644,7 @@ e cases of ships or cargoes (o brought for
 covery of any indemnification adjudged or  
 agreed g;id to the owners or ‘maftér
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798060501:0511/pct:8.044017358958463,87.25480628476627,16.769993800371978,5.777300673367815/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798060501:0511/pct:8.054350072328994,87.26131225399304,16.769993800371978,5.780553657981198/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1823,7 +1823,7 @@ Satisfaction and reparation for all damages
 and the intereft thereof, of whatever nature  
 the faid damages may die
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800122201:0003/pct:28.137450199203187,15.290061460050968,21.887450199203187,11.557487633038525/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800122201:0003/pct:28.154050464807437,15.295058212162095,21.887450199203187,11.567481137260781/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1901,7 +1901,7 @@ ffatisf.i&amp;ion and reparation for ail damages)
 jmd the intereft thereof, whatever UatnrJ  
 &#x27;the faid damages may be. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801041501:0002/pct:29.749702026221694,51.99701937406856,21.358760429082242,18.494783904619972/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801041501:0002/pct:29.76559396106476,52.00695479384004,21.366706396503773,18.494783904619972/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1940,7 +1940,7 @@ curity by at leaft two rcfponlible fureties,
 teer, each of whom, together wit&#x27;,i the  
 faid commander, (hall be jointly an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801122301:0003/pct:5.76204523107178,59.08417674648235,16.833824975417897,16.181189829671688/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801122301:0003/pct:5.76204523107178,59.08829095696536,16.84038020321206,16.189418250637704/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2067,7 +2067,7 @@ be paid to the masters or owners of such
 ships.&quot; Art. 17.  
 The 18th article, after enumeratin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805092301:0003/pct:2.006615214994487,28.346456692913385,19.073869900771776,16.43873463185523/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805092301:0003/pct:2.013965453877251,28.346456692913385,19.095920617420067,16.443339319427178/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2091,7 +2091,7 @@ recovery of any indemnification. adjudged •
 or agreed to be paid to the masters or own­  
 ers of such ships-&quot; Art. 17
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805092801:0345/pct:77.24857311552844,43.45418589321029,19.13009250147609,6.6051417270929464/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805092801:0345/pct:77.23337268791815,43.4484576852096,19.132887314705496,6.608665084805343/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2172,7 +2172,7 @@ traband of war, and in the payment or recovery of
 »»y indemnification adjudged or agreed to he paid t&#x27;  
 %he.tauster or owners; the British commissioner
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807100901:0767/pct:6.711576846307385,83.34385854120619,21.606786427145707,4.594253236501421/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807100901:0767/pct:6.709902718882514,83.33070244672454,21.60763282614118,4.597474348855564/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2266,7 +2266,7 @@ so detained shall be allowed damages pro­
 . Y&gt;ortioned tothe less occasioned therebv, to­  
 gether with the cost and charge* of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808040801:0123/pct:3.229419451185365,9.954807933718303,19.20851222699272,9.088626663319106/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808040801:0123/pct:3.228816722657708,9.953558428517635,19.211148438472065,9.091669804610685/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2295,7 +2295,7 @@ reparation tor all damages, and the inter­
 est thereof of whatever nature the said da­  
 mages may be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808040801:0123/pct:22.64327048721299,20.91388400702988,17.323128616763114,8.523725834797892/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808040801:0123/pct:22.639044419559536,20.911258943140453,17.326116710215253,8.52683988117652/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2314,7 +2314,7 @@ be revoked and annulled.
 It is also agreed, that whenever a judge  
 of a court of admiralty of cither of the par
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808040801:0123/pct:22.64327048721299,39.066030630178254,17.22979279447452,3.037911122269646/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808040801:0123/pct:22.639044419559536,39.061127149491654,17.232798307826304,3.041713735826953/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2336,7 +2336,7 @@ indemnification adjudged or agreed to be paid to the
 masters or owners of such ships.  
 it is also agreed, that
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808041101:1075/pct:52.32707636924659,10.040420371867421,21.95937258935459,5.885206143896524/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808041101:1075/pct:52.31362467866324,10.038797284190107,21.960154241645245,5.888296152602651/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2354,7 +2354,7 @@ and citizens of the contracting parties, and to prevent theii
 suffering injuries by the men of war or privateers of either  
 party, aU commanders of ships of war and privateers, and al
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808041101:1075/pct:52.27564926716379,82.99110751818917,21.805091283106197,2.231204527081649/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808041101:1075/pct:52.26221079691517,82.97769156159069,21.80591259640103,2.2348852247009376/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2374,7 +2374,7 @@ be punished, and shall also be bound in their persons and
 estates to make satisfaction for all damages, and the interest  
 thereof of whatever nature the said damage may be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808041101:1075/pct:52.249935716122394,85.125303152789,21.830804834147596,3.3468067906224737/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808041101:1075/pct:52.23650385604113,85.11154219204656,21.831619537275063,3.350307145166505/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2390,7 +2390,7 @@ thereof of whatever nature the said damage may be
 regulating th&#x27;ir conduct, and further, that in all cases of ag  
 gressions, the said commissions shall be revoked aud annulled
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808041101:1075/pct:52.095654409874,94.98787388843978,21.93365903831319,1.099434114793856/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808041101:1075/pct:52.08226221079691,94.97251859036534,21.934447300771208,1.103297769156159/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2412,7 +2412,7 @@ demnification adjudged or agreed to be paid to
 the masters or owners of such ships.  
 It is also agreed, that
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808041201:0442/pct:77.73367015517863,52.63222632226322,17.39444243955251,4.747847478474784/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808041201:0442/pct:77.71964640086595,52.62575328987825,17.397317938541104,4.751363095970155/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2447,7 +2447,7 @@ sible sureties, wl.6 hav e ho interest in the Said
 privateer, cu5h of whom, together with the said 1  
 commander, shall be jointly and severally boun
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808041201:0443/pct:4.671374253123303,40.0539943551356,17.79829802643491,11.081114247146889/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808041201:0443/pct:4.670528602461984,40.04907975460123,17.801110306541155,11.083844580777097/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2511,7 +2511,7 @@ ail damages, and the interest thereof, &#x27;
 of whatever nature the said dam,.  
 may be. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808051801:0001/pct:24.352965151823923,77.13004484304933,18.483798654982678,11.543882126841767/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808051801:0001/pct:24.359758168602678,77.13431560965194,18.483798654982678,11.543882126841767/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2588,7 +2588,7 @@ j have no interest in the privateer, each of
 w hom together with the said commander,  
 ( chall he jointly ami severally bound in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808090501:0461/pct:5.222109189555781,3.977619532044761,35.808748728382504,86.85656154628688/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808090501:0461/pct:5.221223936260383,3.9772149323568304,35.80691642651297,86.85026955548774/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2610,7 +2610,7 @@ gressions, the said commissions shall be re­
 voked and annulled. It is also agreed, that  
 whenever a judge of a court of admiralty
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808090501:0461/pct:23.584265852831468,9.53204476093591,17.446592065106817,4.415055951169888/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808090501:0461/pct:23.58026784200712,9.531075170379411,17.447872520766232,4.417149832163564/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2961,7 +2961,7 @@ bul our saverment has been svar endeaver
 to introduce the principle that free ships  
 make free goodsin the broadest and fullest sens
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271743324:1859052101:0214/pct:24.08710217755444,156.2059491100227,48.25795644891122,12.017680086011229/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271743324:1859052101:0214/pct:8.029034059184813,52.0686497033409,16.085985482970408,4.005893362003743/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2997,7 +2997,7 @@ sons and estates to make satisfaction and repa­
 ration for all damages, and the interest thereof,  
 of whatever nature the said damages may be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_continental_ver02:data:sn82014760:00237288804:1861101201:0963/pct:132.43494423791822,336.85623217580945,55.48327137546468,20.73477604428787/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_continental_ver02:data:sn82014760:00237288804:1861101201:0963/pct:33.131829807021624,84.21405804395236,13.8804929086259,5.183694011071967/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3014,7 +3014,7 @@ further, that in all cases of aggressions the said
 commission shall be revoked and annulled.  
 ARTICLE xxIIR
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_continental_ver02:data:sn82014760:00237288804:1861101201:0963/pct:190.0557620817844,78.77872840127496,55.8550185873606,5.1669183022982725/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_continental_ver02:data:sn82014760:00237288804:1861101201:0963/pct:47.547082073936295,19.69468210031874,13.973494536154382,1.2917295755745681/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3046,7 +3046,7 @@ tv by at least two responsible sureties, who have no
 interest in the said privateer, each of whom, togeth­  
 er with the said commander, shall be jointly an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172182:1861102901:0653/pct:20.74864157778225,111.2094837935174,15.77782249949688,7.998199279711884/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172182:1861102901:0653/pct:16.085261242526645,86.18778105132579,12.238107616324408,6.206388587377888/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3073,7 +3073,7 @@ satbhiction and reparation for all damages, and the
 interest thereof, of whatever nature the said dam­  
 ages may be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172182:1861103001:0660/pct:22.90244881573665,115.50202005087536,15.67643516659976,6.3444560825976355/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172182:1861103001:0660/pct:17.75991703396422,89.52068032470042,12.15452424163858,4.913026671820641/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3108,7 +3108,7 @@ to
   
 or be removed by any other cause.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn82014140:00279529467:1861103101:0043/pct:188.4718799014116,97.6102260096332,60.68787810889536,79.95553908855132/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn82014140:00279529467:1861103101:0043/pct:62.8239599671372,32.53674200321107,20.22929270296512,26.65184636285044/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3144,7 +3144,7 @@ said damages
   
 may b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn82014140:00279529467:1861103101:0043/pct:219.2695496302935,136.5135235272323,29.643737396370156,14.329381252315672/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn82014140:00279529467:1861103101:0043/pct:73.0898498767645,45.50450784241077,9.88124579879005,4.776460417438558/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3171,7 +3171,7 @@ to their citizens which are armed in
 war shall be admitted to enter with  
 their prizes the ports of either of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn82014140:00279529467:1861103101:0043/pct:219.16872059153036,184.0589107076695,29.84539547389648,14.190440904038534/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn82014140:00279529467:1861103101:0043/pct:73.05624019717679,61.352970235889835,9.948465157965494,4.7301469680128445/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3200,7 +3200,7 @@ ap s may be. ...
 For this cause all commanders, betore they re.  
 cehe their commissions, shall heicaitcr be oblige
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172182:1861103101:0664/pct:25.38152610441767,116.42346634901727,15.863453815261044,6.700416914830256/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172182:1861103101:0664/pct:19.68148570835711,90.22964188175558,12.299631685428231,5.19675347155441/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3248,7 +3248,7 @@ structions for regulating their conduct; ami, flirt 1h i\
 that in all cases of aggressions the said commission  
 shall be revoked and annulled
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172182:1861110101:0668/pct:23.70654810024252,3.7324574499850702,70.27081649151172,118.40848014332637/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172182:1861110101:0668/pct:18.377362430823847,2.896482567108917,54.45859872611465,91.76180191298982/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3283,7 +3283,7 @@ j tv by at least two responsible sureties, who have no
 interest in the said privateer, each of whom, togeth­  
 er with the said commander, shall be jointly am
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172182:1861110201:0672/pct:22.93856103476152,3.93677303906949,70.53354890864996,118.14792722934685/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172182:1861110201:0672/pct:17.78218648846194,3.058669440271197,54.66221154850162,91.55976732539774/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3349,7 +3349,7 @@ make satisfaction and reparation for all damages,
 and the interest thereof, of whatever nature the  
 said damages may be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn86059058:00296022007:1862103101:0358/pct:173.9652870493992,130.283055447848,48.33110814419226,17.836370686312524/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn86059058:00296022007:1862103101:0358/pct:43.4913217623498,32.570763861962,12.082777036048064,4.459092671578131/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3370,7 +3370,7 @@ contracting parties or those belonging to their cit
 izens which are armed in war shall be admitted to  
 enter with their prizes the ports of either of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn86059058:00296022007:1862103101:0358/pct:174.56608811748998,173.45224247124207,48.06408544726302,10.288225410365774/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn86059058:00296022007:1862103101:0358/pct:43.641522029372496,43.36306061781052,12.016021361815755,2.5720563525914435/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3395,7 +3395,7 @@ r^I&gt;AL* n damages, and the Interest thereof
 of whatever nature lit. ?ud&#x27; daougc &quot;,*reof&#x27;  
 ??&#x27; commander, of privateer., befor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn84026845:00202190704:1862110501:0431/pct:3.2287198013095506,63.07277628032345,13.501919169112666,4.330637915543576/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn84026845:00202190704:1862110501:0431/pct:3.245653646421314,63.086253369272235,13.496274554075413,4.3216531895777175/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3424,7 +3424,7 @@ ages, and the interent there-
 of of whatever nature th  
 said damages may be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn83016318:00296024570:1862111201:0818/pct:244.86342042755345,236.63430420711975,39.19239904988124,10.517799352750808/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn83016318:00296024570:1862111201:0818/pct:81.64538164538165,78.87810140237325,13.068013068013068,3.505933117583603/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3450,7 +3450,7 @@ faction and reparation for all damages, and the in­
 terest thereof, of whatever nature the said damag­  
 es may be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_coyote_ver02:data:sn88071076:00296025161:1862112901:0294/pct:271.3443396226415,327.7007784317448,58.72641509433962,25.593316878678564/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_coyote_ver02:data:sn88071076:00296025161:1862112901:0294/pct:67.87610619469027,81.9251946079362,14.690265486725664,6.398329219669641/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3467,7 +3467,7 @@ taken for the security of the citizen* of the contracting
 parties, and to prevent their suffering Injnriea, all com­  
 manders ef bhipt-of-aar und privateer*, and all others th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291049:1863021401:0493/pct:57.5961372650457,26.43533123028391,12.50215554405932,1.0347003154574133/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291049:1863021401:0493/pct:57.60044835316434,26.438485804416406,12.506466632177961,1.0441640378548895/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3512,7 +3512,7 @@ make satisfa tion and reparation for all damages, and
 the interest thereof, of whatever nature the said dam­  
 ages may lie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn84022367:0041562833A:1863021901:0459/pct:44.14237668161435,92.86354135562854,16.858183856502244,4.896984174380412/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn84022367:0041562833A:1863021901:0459/pct:33.11843027330063,69.65263262665472,12.641906096706377,3.672738130785309/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3538,7 +3538,7 @@ instructions for regulating iheir conduct ; and, further,
 that in all cases of aggressions, said commission shall be  
 revoked and annulled
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn84022367:0041562833A:1863021901:0459/pct:44.17040358744394,99.8108888225341,16.956278026905828,5.713148203443814/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn84022367:0041562833A:1863021901:0459/pct:33.13244569025929,74.85816661690056,12.725998598458304,4.289837762516174/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3570,7 +3570,7 @@ who have no in tha said privateer, cacb of whom
 together with the said commander shall be jointly  
 and severally bound in !the Eum of seven thousan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_lee_ver01:data:sn84020109:00212470685:1863061101:0120/pct:57.08469055374593,99.8439328911432,17.41313789359392,10.241904018728054/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_lee_ver01:data:sn84020109:00212470685:1863061101:0120/pct:42.826116465318314,74.8829496683574,13.058232659155694,7.686305111197815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3597,7 +3597,7 @@ tcer, each of whom, together with Hie said com­
 mander, shall be jotutfy and severally bound in  
 the sum of seven thousand dollars, or of nin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn85042146:00296022822:1866112901:0434/pct:91.49294911097486,42.13573100135485,16.90680564071122,6.527897524325656/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn85042146:00296022822:1866112901:0434/pct:68.64458754983134,31.60487744796157,12.695492180312787,4.902081537135115/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3618,7 +3618,7 @@ parties or those belouging to their citizens wbicn
 are armed in war shall be admitted to cuter with  
 their prizes the ports of either ot the two parties
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn85042146:00296022822:1866112901:0434/pct:91.55426118945432,53.66424436506959,16.508277130594728,3.8797881512501537/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn85042146:00296022822:1866112901:0434/pct:68.69058570990494,40.251262470747626,12.38883777982214,2.906761916492179/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

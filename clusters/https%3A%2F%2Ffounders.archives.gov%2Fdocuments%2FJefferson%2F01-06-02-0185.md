@@ -545,7 +545,7 @@ cious than rubies, are flying over our heads
 like light clouds of a windy day, never to re­  
 turn.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152755:1837032301:0268/pct:7.099080694586313,89.53959484346224,15.066394279877425,3.511356660527931/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152755:1837032301:0268/pct:7.104755419362161,89.53959484346224,15.072069004653274,3.5195416410886025/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -589,7 +589,7 @@ thy hand to bid adieu, and every absence which follows
 it, are preludes, to that eternal separation which we  
 are shortly to make.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn84028793:00296026669:1844061201:0060/pct:6.96969696969697,102.8760750035246,19.829545454545453,7.768222190892429/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn84028793:00296026669:1844061201:0060/pct:5.229253505115574,77.16058085436346,14.892004547176962,5.836740448329339/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -780,7 +780,7 @@ I will not argue the matter; time wastes too fast
 Every letter I trace tells me with what rapidity life  
 follows my pen: the days and hours of it, more pr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_fernandez_ver01:data:sn83030272:00175042866:1896050601:0680/pct:227.7128862094951,276.67380006114337,49.90580256217031,4.341180067257719/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_fernandez_ver01:data:sn83030272:00175042866:1896050601:0680/pct:56.92822155237378,69.16845001528584,12.476450640542577,1.0852950168144297/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

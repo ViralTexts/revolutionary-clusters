@@ -836,7 +836,7 @@ t agonies of heart, and many tears
 firuétion, Remember, Oh !my friends, the laws, the rights, the  
 generous plan of power delivered down, from age to age (the pric
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015076:1769110301:0358/pct:37.70042194092827,7.96242774566474,27.616033755274263,1.430635838150289/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015076:1769110301:0358/pct:37.70745428973277,7.967244701348748,27.609001406469762,1.4354527938342967/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1397,7 +1397,7 @@ from age to age, by your renown’d forefa­
 thers*  
 (So dearly bought-, the price of &#x27;so muc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809071401:0082/pct:5.814380044020543,8.996246518949025,16.672780630961114,4.128829156072164/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809071401:0082/pct:5.813313772235467,8.995157384987893,16.675835931291644,4.132364810330912/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1968,7 +1968,7 @@ honor, our interest?, our happioess, and that Gud
 has promulgated from heaven, liberty, peace and  
 good will to men.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_larrybird_ver01:data:sn86058217:00271744742:1843120101:0800/pct:28.669410150891633,18.263107979948515,45.76474622770919,108.72510499932258/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_larrybird_ver01:data:sn86058217:00271744742:1843120101:0800/pct:21.51312403499743,13.697330984961388,34.34551381025905,81.54721582441404/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2047,7 +2047,7 @@ tlemen of this and the city of New Bedford, under th
 the conviction that “consenting to slavery is  
 a sacriligious breach of trust.” Not far fro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_demeter_ver01:data:sn83021205:00517171992:1854070401:0593/pct:105.69326103795507,116.51854986598956,16.014717273431447,1.1708280434475948/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_demeter_ver01:data:sn83021205:00517171992:1854070401:0593/pct:81.9159579789895,90.3028315294632,12.406203101550775,0.9110455158339711/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2068,7 +2068,7 @@ us hear, that, consenting to slavery is a sacrili­
 gious breach of trust.’* And most heartily did  
 the pulpit respond to Stephen Johnson, when h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021205:00517171906:1857032501:0274/pct:6.684856753069577,79.98562185478073,16.020268953420384,4.5578720345075485/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021205:00517171906:1857032501:0274/pct:5.185781895076024,61.99531998662853,12.415668109958714,3.5285815102328866/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2096,7 +2096,7 @@ The generous plan of power delivered down
 From age to age, by your renowned forefathers,  
 (So dearly bought, the price of so much blood ;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85033123:00514151374:1861090501:0670/pct:62.62526464361327,40.793873368568654,9.908256880733944,1.261999784273541/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85033123:00514151374:1861090501:0670/pct:62.63467419430722,40.80106425053033,9.9176664314279,1.2584043432927048/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2133,7 +2133,7 @@ have an indisputable right to demand
 our privileges against all the power and  
 authority on earth.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867060101:0509/pct:62.16216216216216,232.1525885558583,37.35735735735736,6.583106267029973/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867060101:0509/pct:15.545208771402823,58.038147138964575,9.342144788224692,1.6457765667574933/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

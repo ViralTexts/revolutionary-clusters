@@ -228,7 +228,7 @@ in the grounds of the University always free from
 obstruction, and to construct such others as the  
 Executive Committee may direct
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183992:1826042101:0423/pct:17.061237373737374,4.188980126145424,29.387626262626263,90.72950136855884/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183992:1826042101:0423/pct:17.05854505286413,4.18848167539267,29.38824890852664,90.72267174361416/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -247,7 +247,7 @@ tion, and to construct such older* as the Execu­
 te committee may &lt; pvt.  
 No %tud&lt; ih
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn85025230:00414184108:1827012001:0053/pct:56.69481302774427,55.35981577432354,15.998190591073582,2.3949337938975246/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn85025230:00414184108:1827012001:0053/pct:56.68626564148952,55.353442320976285,16.000804060505555,2.3984956635198404/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -274,7 +274,7 @@ Jaw will allow for punishing the offence and preven
 ting its icpefition. No student shall, for the lime  
 above specified, admit any aludent
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn85025230:00414184108:1827012001:0053/pct:56.66465621230398,66.90846286701209,16.088661037394452,6.4709268854346575/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn85025230:00414184108:1827012001:0053/pct:56.65611337253128,66.9007598434262,16.09126086738027,6.474019494972753/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -340,7 +340,7 @@ an investigation, and cannot easily conjec­
 ture what may be the course of it. The  
 members of the Committee do not communi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn85025230:00414184108:1827012001:0054/pct:28.936802973977695,54.09610983981693,15.940520446096654,26.155606407322654/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn85025230:00414184108:1827012001:0054/pct:28.932500743383883,54.089921061663425,15.943106353454256,26.156427563589215/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -398,7 +398,7 @@ pose of keeping under constant no&#x27;ice, all&#x27;those
 &#x27;vho may wish to avail themselves of the benefi&#x27;s  
 ol the institution
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827020601:0362/pct:20.220941402497598,3.915151515151515,31.01184758245277,91.52727272727273/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827020601:0362/pct:20.217704498159115,3.9146770088474123,31.012219198548635,91.52021977134085/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -437,7 +437,7 @@ the 4th of April, 1826, at which were present Thomas
 Jefferson, Joseph C. Cabell, dohn A. Cake, Chapman  
 Johnson, and James Madison
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ike_ver01:data:sn85042682:00211103401:1880071101:0085/pct:164.01644962302947,337.00026831231554,42.63193968471556,30.372954118594045/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ike_ver01:data:sn85042682:00211103401:1880071101:0085/pct:41.01816935207405,84.25006707807889,10.661638669866301,7.593238529648511/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -456,7 +456,7 @@ Jefferson, Joseph C. Cabell, John H.
 Cocke, Chapman Johnson and James Mad-  
 ison, the following appears of record i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_metallica_ver01:data:sn85034438:00175049411:1897080101:0242/pct:128.49991656933088,279.9813996744943,39.646253962956784,6.440362706347361/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_metallica_ver01:data:sn85034438:00175049411:1897080101:0242/pct:42.8333055231103,93.32713322483143,13.21541798765226,2.146787568782454/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -499,7 +499,7 @@ vided.
 &quot;In his absence from the meetings of  
 the faculty, a chairman pro tempo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_metallica_ver01:data:sn85034438:00175049411:1897080101:0242/pct:128.58334723844484,10.206928621250873,81.4450191890539,281.9693094629156/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_metallica_ver01:data:sn85034438:00175049411:1897080101:0242/pct:42.861115746148286,3.402309540416957,27.148339729684633,93.98976982097187/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -580,7 +580,7 @@ tests against the expediency and the va­
 lidity of the establishment of this office.  
 “(Signed.) TH. JEFFERSON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:00332892186:1897081101:0388/pct:20.209059233449477,54.3282126310656,14.581881533101045,30.163374786637405/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:00332892186:1897081101:0388/pct:20.220673635307783,54.33634072990328,14.57026713124274,30.163374786637405/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -627,7 +627,7 @@ aseribed to the president by this enactment can be
 performed, and is now as well performed by the  
 faculty, as now established by law
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_lotus_ver01:data:sn83030214:00175037056:1899080501:0071/pct:52.6,10.445416806911254,97.76666666666667,287.3218893750701/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_lotus_ver01:data:sn83030214:00175037056:1899080501:0071/pct:17.533333333333335,3.481805602303751,32.58888888888889,95.77396312502337/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

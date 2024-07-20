@@ -249,7 +249,7 @@ men of ingenuous dispositions, who have
 recently entered, or are about entering,  
 upon the profession of the law&#x27;. Ope
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_beachhaven_ver01:data:sn85025061:00513684939:1818090801:0007/pct:30.06993006993007,55.23967941932557,17.00024113817217,5.111144714955391/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_beachhaven_ver01:data:sn85025061:00513684939:1818090801:0007/pct:30.06268081002893,55.23132748714847,17.002169720347155,5.114151799213789/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -426,7 +426,7 @@ ity united in n lawyer, they are distinguished
   
 by their singularity and operate as eice
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035102:0029602708A:1858012101:0016/pct:6.730091613812544,114.23027166882277,16.613812544045103,8.020698576972833/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035102:0029602708A:1858012101:0016/pct:5.059051648157941,85.67917205692109,12.46254186497444,6.015523932729625/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -466,7 +466,7 @@ are distinguished by their singularity, and
 operate as exceptions.”  
 These are very severe censures, and unjust, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn97064666:00517016056:1870101101:0263/pct:2.213647441104793,81.97211155378486,15.454914703493095,4.012521343198634/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn97064666:00517016056:1870101101:0263/pct:2.213197969543147,81.96044956608337,15.456852791878173,4.015507184521269/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

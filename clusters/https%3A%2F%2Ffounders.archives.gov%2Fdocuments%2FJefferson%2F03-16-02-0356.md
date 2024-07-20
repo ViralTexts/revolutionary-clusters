@@ -99,7 +99,7 @@ colonies. What is her education now ?—
 Where is it ? The little we have we import,  
 like beggars, from other States.” Again, h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn84021903:00414187432:1831033001:0045/pct:50.37296037296037,84.8202396804261,15.664335664335665,9.55392809587217/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn84021903:00414187432:1831033001:0045/pct:50.36122116056863,84.80612414711267,15.666511302726637,9.55649858545515/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -136,7 +136,7 @@ DIFFERF.NCE THEIR RULERS SET ON THE
 VALUE OF KNOWLEDGE, AND THE PROSPERI­  
 TY IT PRODUCES.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn84021903:00414187432:1831033001:0045/pct:66.36363636363636,4.810252996005326,15.5011655011655,12.283621837549934/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn84021903:00414187432:1831033001:0045/pct:66.34817058960616,4.809452487934765,15.503379165695643,12.285738059577302/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -166,7 +166,7 @@ port their beggars to bestow on us their miserable crumbs.&quot;
 And this was written twente-five years agol since which  
 time, as the reports of the buperintendent of the Literar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845092601:0830/pct:94.62941517081644,203.00594197832925,37.84018529241459,19.235698473727133/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845092601:0830/pct:31.538572875958895,67.66076421248835,12.611569450475226,6.411152531842187/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -199,7 +199,7 @@ fromo&#x27;her States; or import their b&#x27;ggars to be- |
 stow on tis their miserable crumbs.&quot;  
 And this was written twenty-five years ago
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1845092601:0344/pct:30.788690476190474,63.96116504854369,13.779761904761905,7.601941747572815/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1845092601:0344/pct:30.788690476190474,63.96116504854369,13.784722222222221,7.605177993527508/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -276,7 +276,7 @@ us &quot;that the mass of education in Virginia before
 the Revolution placed her with the foremost of  
 her sister colonies, though for a time afterward
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558342:1875070201:0007/pct:286.7084203201113,134.82683146646067,43.63256784968685,3.7594953006308742/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558342:1875070201:0007/pct:71.68957717069776,33.70670786661517,10.910040020880459,0.9398738251577186/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -323,7 +323,7 @@ since this last date (how his&#x27;tory repeats it-­
 selfd we find the same inf uence still work-­  
 ing--to make Virginia &quot;he Barbary of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00415664424:1879020601:0137/pct:3.446426176746681,193.12037037037038,40.659782754458895,15.935185185185185/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00415664424:1879020601:0137/pct:1.148808725582227,64.37345679012346,13.553260918152965,5.311728395061729/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

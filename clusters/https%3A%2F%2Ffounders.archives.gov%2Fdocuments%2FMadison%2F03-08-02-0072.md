@@ -88,7 +88,7 @@ pectively owned or belong.
 An act to authorise a loan for a sum not ex­  
 ceeding twenty five millions of dollars
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814042701:0092/pct:3.3315028372689,21.30313673246942,17.29818780889621,8.889427152718905/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814042701:0092/pct:3.330893118594436,21.30055703560184,17.301122498779893,8.892387180108178/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -113,7 +113,7 @@ of the sum authorized to be berrowed on the credit l
 of the United States by theract ¢f Conyress, entitled  
 “An act authorizing a loan for the sum of thre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1815011101:0006/pct:26.5329959120109,52.48483434437704,22.07514113295698,6.252916472235184/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1815011101:0006/pct:26.545973655181363,52.48872297402395,22.07514113295698,6.260693731529009/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -156,7 +156,7 @@ much of the sum authorized to be borrowed on
 the credit of the United States by the act of  
 Congress, entitled *“ Ar act authorizing a loa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1815012401:0225/pct:7.064841697774091,27.82518990903123,16.687404949536845,4.2764700365750725/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1815012401:0225/pct:7.074058712383059,27.82518990903123,16.678187934927877,4.282722185751352/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

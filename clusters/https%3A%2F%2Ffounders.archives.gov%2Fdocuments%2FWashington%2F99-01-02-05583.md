@@ -64,7 +64,7 @@ circumstance to me, to have heard that, in
 consequence of your non-compliance with  
 :‘i:.:;:‘ request, they had laid iy plantation in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1814083101:1098/pct:50.8912210561386,37.56873527101335,21.95568882225554,3.927729772191673/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1814083101:1098/pct:50.8912210561386,37.57528148730034,21.961241601421513,3.9310028803351664/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -83,7 +83,7 @@ a less painful circumstance to rue to have
 heard, that in conaequence of your non­  
 compliance with the request, they ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1814091501:0558/pct:53.95584176632935,59.449489216799094,21.021159153633853,3.4477866061293985/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1814091501:0558/pct:53.94343527247643,59.44105546886083,21.022074040009198,3.4508440913604765/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -182,7 +182,7 @@ consequence of your non-compliance with
 their requost, they had burned my houss  
 and laid my plantation in ruins.&quot; On th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279523982:1859122301:0407/pct:244.35179358086847,151.10990206746465,36.736941472624295,12.121871599564745/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279523982:1859122301:0407/pct:81.43778511876671,50.36448699815036,12.243720832677887,4.0401842382040405/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -310,7 +310,7 @@ necessary for common and present use must be re­
 tained, and must run their chance through the flery  
 trial of this summer.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024738:00280778060:1862122001:0367/pct:125.38405267008046,56.84968303427528,37.60058522311631,56.09756097560975/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024738:00280778060:1862122001:0367/pct:41.79468422336016,18.949894344758427,12.533528407705438,18.69918699186992/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -371,7 +371,7 @@ cessary for common and present use must be retained,
 and must run their chance through ths fiery trial of  
 this &#x27;summer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879105:1862122501:0635/pct:25.63323201621074,77.19785304460486,39.76697061803445,28.25282250601518/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879105:1862122501:0635/pct:19.229794780846213,57.90301684249491,29.832784393210034,21.191930409032018/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -437,7 +437,7 @@ comm m and present use must be retained, and
 must run their chance through the fiery trial of  
 this summer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn84023190:0041421244A:1863021101:0517/pct:30.714485068378455,29.888865142124384,12.531398269606475,23.44518059414405/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn84023190:0041421244A:1863021101:0517/pct:30.71019952560346,29.885671546105353,12.533137993581693,23.445346725077467/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -467,7 +467,7 @@ offer of refreshments to them, with a view
 to prevent a conflagration.&quot;  
 Again, when another President, not a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_dillinger_ver02:data:sn84038005:0020029581A:1870011301:0080/pct:59.68921389396709,314.5911277391769,44.05850091407678,23.053625512203812/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_dillinger_ver02:data:sn84038005:0020029581A:1870011301:0080/pct:14.925714285714285,78.64778193479422,11.017142857142858,5.763406378050953/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

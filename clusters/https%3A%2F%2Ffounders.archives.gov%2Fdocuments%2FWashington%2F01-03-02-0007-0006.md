@@ -1995,7 +1995,7 @@ lis received ins first salutation.&quot; Tho cannonade
 was kept up almost incessantly three or four days  
 from these batteries, and from three others ma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524706:1881102701:0175/pct:74.10887880751783,50.21474588403722,11.325340246273493,2.099737532808399/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524706:1881102701:0175/pct:74.09687348128949,50.208755815340574,11.327555483557427,2.1024692830728857/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2509,7 +2509,7 @@ e, to settle terms for the sur­
 render of the posts of York and  
 Gloucester. I have the honor to be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_duval_ver01:data:sn84038206:00393349281:1899091601:0151/pct:84.60210598998792,50.18955607190901,11.065078543069221,1.687660511189923/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_duval_ver01:data:sn84038206:00393349281:1899091601:0151/pct:84.58750431480843,50.183418928833454,11.067483603727995,1.690511127415016/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

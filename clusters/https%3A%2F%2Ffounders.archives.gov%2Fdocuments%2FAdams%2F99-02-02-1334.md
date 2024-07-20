@@ -42,7 +42,7 @@ twenty-one; the state of Kentucky
 two; the ftafe of North-Carolina, twelve  
 and the state of Georgia- two me
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1791121901:0002/pct:19.48769462581617,79.4681861348528,16.725263686589653,7.6923076923076925/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1791121901:0002/pct:19.48769462581617,79.48243114909782,16.725263686589653,7.6923076923076925/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -64,7 +64,7 @@ John Adams, Vice-Prejident.cf th.
 United States, and Prejiden.  
 oj the Senate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1791121901:0002/pct:53.96785534907082,55.46058879392213,16.775489703666498,6.590693257359924/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1791121901:0002/pct:53.98041185334003,55.47483380816714,16.78804620793571,6.595441595441596/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -106,7 +106,7 @@ traders of Philadelphia, renionftrating against
 the additional duties proposed in the report on  
 Ways and Means
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792032801:0002/pct:68.53333333333333,34.798895899053626,27.633333333333333,19.873817034700316/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792032801:0002/pct:68.54166666666667,34.813682965299684,27.641666666666666,19.86395899053628/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -145,7 +145,7 @@ John Adams, Vice-President of the
 United States, and Prefdent  
 of the Senate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792042601:0001/pct:71.03960396039604,57.18475073313783,20.946782178217823,20.234604105571847/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792042601:0001/pct:71.03960396039604,57.194525904203324,20.97772277227723,20.2297165200391/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -191,7 +191,7 @@ of the Houf&#x27; oj RcprefcntativiS.
 ]OHN ADAMS. Vice-President oj the United Staffs,  
 and President oj the Senate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792050201:0001/pct:6.66457088965734,40.75613618368963,27.34988997170701,21.773555027711797/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792050201:0001/pct:6.680289217227287,40.77098178939034,27.334171644137065,21.768606492478227/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -322,7 +322,7 @@ Speaker of the House of Repr:jintatives.
 . ABRAHAM BALDWIN,  
 N President of the Senate pro tempore.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802020901:0023/pct:5.931289477738407,21.43067123958844,16.3303034971499,18.5203331700147/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802020901:0023/pct:5.94156010886869,21.43393761228156,16.3303034971499,18.517066797321576/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -412,7 +412,7 @@ state of South-Carolina, nine—within the state of
 Georgia, six—within the state of Kentucky, ten—  
 within the state of Ohio, six—within the state of Ten
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1812010201:0282/pct:22.47544932369835,40.80882352941177,18.454697053918842,10.53921568627451/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1812010201:0282/pct:22.471285661356056,40.8038230608994,18.457453377794245,10.542008740758893/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -525,7 +525,7 @@ ginia, twenty three ; within the state of
 North Carolina, thirteen ; within the state  
 of South Carolina, nine; within the stat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1812012401:0198/pct:75.03542749173359,77.79552715654953,21.91780821917808,16.729596282311938/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1812012401:0198/pct:75.0177095631641,77.78423116015682,21.918536009445102,16.730797154058372/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -668,7 +668,7 @@ Geoigia seven; within the state of Ala- 1
 bama two; within the state of Missis  
 sippi one; within the state of Louisian
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1822012301:0267/pct:74.95452891960713,25.218108936571564,19.025100036376866,17.50766328696062/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1822012301:0267/pct:74.95452891960713,25.218108936571564,19.031162847095914,17.515523068458698/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -706,7 +706,7 @@ two ; within the state of North Carolina
 thirteen ; within the state of South Caro­  
 lina nine; within the state of Georgi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898012:1822020501:0197/pct:24.556291390728475,45.94325535092086,17.509933774834437,15.430562468889995/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898012:1822020501:0197/pct:24.54978813559322,45.93563370935634,17.511917372881356,15.4321499668215/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -771,7 +771,7 @@ State of North Carolina, thirteen ; within the
 State of South Carelina, nine ; within the  
 State of Georgia, seven ; within the State o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1822031901:0461/pct:6.070385738435531,22.06860706860707,17.534962348240356,11.881496881496881/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1822031901:0461/pct:6.075508426822396,22.06860706860707,17.545207725014087,11.884961884961886/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -812,7 +812,7 @@ four ; within the State of New Jersey, six ;
 State of South Carolina, nine ; within the  
 ‘State of Qeorgis, seven ; within the State o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1822032001:0246/pct:0.6365740740740741,28.38563417253311,22.202932098765434,18.231714592530725/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1822032001:0246/pct:0.6365740740740741,28.393588672791633,22.209362139917694,18.223760092272205/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1000,7 +1000,7 @@ of N’orlh Carolina.- fourteen; within tho Stale of .South j
 Carolina, ten ; within the Stale ol (.&#x27;eorgia, nine; within  
 llte Stateof Kentucky, thirteen; w ithin (lie Slate of Ten
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184054:1832050801:0473/pct:34.8413140311804,21.23042505592841,15.17260579064588,5.369127516778524/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184054:1832050801:0473/pct:34.83646485734168,21.22805055362935,15.175133379726281,5.372255154158744/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1034,7 +1034,7 @@ if M ary land nine; within the State ot Virginia, twenty-!
 &#x27;f North Carolina, twelve; within the State n( South Caro­  
 ina, seven; and within the State of Georgia, two
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184054:1832050801:0473/pct:34.8413140311804,29.798657718120804,15.130846325167038,9.004474272930649/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184054:1832050801:0473/pct:34.83646485734168,29.795324907728443,15.133379726281605,9.00719531745144/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1111,7 +1111,7 @@ the State of South Carolina, nine; within the State of Geor­
 gia, nine; within the State of Kentucky, thirteen; within  
 the State of Tennessee, thirteen; within the State of Ohio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1832052501:0026/pct:50.829875518672196,39.63214363915043,14.882434301521439,10.159842347273921/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1832052501:0026/pct:50.82284607938045,39.62780514504652,14.88498594016503,10.162379127896369/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1171,7 +1171,7 @@ in the State of South Carolina, nine ; within
 the State of Georgia, nine ; within the Statol  
 of Kentucky, thirteen ; within the State o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153139:1832060501:0287/pct:2.0864381520119224,56.2062833432128,15.168074184467628,14.250148192056907/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153139:1832060501:0287/pct:2.0864381520119224,56.21418691958111,15.179113539769277,14.246196403872752/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1246,7 +1246,7 @@ Carolina, nine; within the State of Georgia, nine;
 within the State of Kentucky, thirteen; within the  
 State of Tennessee, thirteen; within the State of Ohio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn82015332:00332897925:1832061301:0041/pct:10.814185814185814,42.87224669603524,17.332667332667334,10.237885462555067/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn82015332:00332897925:1832061301:0041/pct:10.811485642946318,42.86469344608879,17.33458177278402,10.240486257928119/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1301,7 +1301,7 @@ linn, nine; within the State of Georgia,!
 nine; within the State of Kentucky,  
 thirteen; within the State of Tenues- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn87062070:0039334295A:1832062701:0454/pct:2.3107394366197185,52.57619242859095,18.023767605633804,19.95353286866202/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn87062070:0039334295A:1832062701:0454/pct:2.31023102310231,52.56900792566275,18.027136046938026,19.955361209802312/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1359,7 +1359,7 @@ within the State of South Carolina, nine ; within the
 State of Georgia, eleven ; within the State of Alabama,  
 nine ; within the State of Mississippi, five 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82015015:00415661289:1842050501:0158/pct:21.219438575309386,17.27013385999561,16.661635979474795,10.796576695194206/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82015015:00415661289:1842050501:0158/pct:21.22446926250126,17.27013385999561,16.666666666666668,10.807548825982005/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1449,7 +1449,7 @@ Slato of Georgia, eleven : within Ihe
 Slate of Alabama, nine; wilhin lhe State  
 of Louisiana, five; within the Slate of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn83035366:00296029087:1842051301:0361/pct:48.7510766580534,41.57404626013818,18.776916451335055,22.183838990687896/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn83035366:00296029087:1842051301:0361/pct:36.57118242515615,31.180534695103635,14.085720439371096,16.64163412436167/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1495,7 +1495,7 @@ nine; within the State of Virginia, twenty-one; within the
 State of North Carolina, thirteen; within the State of  
 South Carotina, nine; within the State of Gorgia,televen,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184601:1842051901:0588/pct:210.30341340075853,167.73778920308484,38.4165613147914,21.219911194204254/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184601:1842051901:0588/pct:70.09006162110919,55.906063792499125,12.803497129615,7.0724773143279975/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1527,7 +1527,7 @@ rolina, thirteen; within the State of South Carolina,
 nine ; within the State of Georgia, [eleven,] twelveJ;  
 within the Stale of Alabama, [nue,] ten , within th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661277:1842052501:0554/pct:30.936317261806813,4.675607104023197,30.064176402830345,92.31605654222544/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661277:1842052501:0554/pct:30.936317261806813,4.6836615520921425,30.07514672810049,92.32008376625991/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1562,7 +1562,7 @@ nine; within the State of Georgia, [eleven,] ticelve^; &#x27;
 within the State of Alabama, [nire,] ten ; within the 1  
 State of Louisiana, [five,] six ; within the State of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82015015:00415661289:1842052601:0193/pct:48.78345498783455,72.0730756377409,17.77676399026764,9.969923136905425/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82015015:00415661289:1842052601:0193/pct:48.78852392538524,72.07678883071553,17.786901865369018,9.973636329880064/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1601,7 +1601,7 @@ nine; within the Slate of Georgia, [eleven,] twelve;
 within the State of Alabama, [nine,] tew, within the  
 State of Louisiana, [five,] six; within the State o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664266:1842052701:0111/pct:66.75356540407913,69.54545454545455,16.515871798803865,11.353535353535353/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664266:1842052701:0111/pct:66.76378878495119,69.55218855218855,16.510760108367837,11.356902356902356/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1642,7 +1642,7 @@ nine; within the State of Georgia, leleven,) tiselve,
 within the State of Alabama, Inine,I ten; within the  
 State of Louisiana, Ifive,) siz; within the State of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184601:1842052801:0616/pct:10.753370340999208,25.298689247187102,39.08009516256939,32.130843289641575/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184601:1842052801:0616/pct:3.5838883602917857,8.431918348411042,13.024632625013215,10.709038892754968/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1734,7 +1734,7 @@ the State of North Carolina, nine; within the
 State of South Carolina, seven; within the State  
 of Georgia, eight; within the State of Alabama
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1842072501:0573/pct:24.630924630924632,75.120022592488,57.34265734265734,43.03868963569613/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1842072501:0573/pct:6.161321671525753,18.780005648122,14.34402332361516,10.759672408924033/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1775,7 +1775,7 @@ in the State of North Carolina, nine; within
 the State of South Carolina, seven; within  
 the State of G orgia, eight; within the Stat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn84023647:00280777778:1842072601:0299/pct:8.482490272373541,129.59928496946225,51.673151750972764,54.223149113660064/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn84023647:00280777778:1842072601:0299/pct:2.121448034254574,32.39982124236556,12.923316465550798,13.555787278415016/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1846,7 +1846,7 @@ nine; within the Stale of South Carolina, seven; within
 the State of Georgia, eight ; within the State cf Alabama,1  
 seven; within the Slate of Louisiana, four; within th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_larrybird_ver01:data:sn86058217:00271744742:1842080601:0523/pct:8.720112517580873,106.94673256452499,23.347398030942333,12.86381109280615/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_larrybird_ver01:data:sn86058217:00271744742:1842080601:0523/pct:6.54123439423246,80.21691378363536,17.513627571654652,9.651290499725425/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1880,7 +1880,7 @@ the State of North Carolina, nine; within the
 State of South Carolina, seven ; within the State  
 of Georgia, eight; within the State of Alabama
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kershawhogjam_ver03:data:sn85042795:00295861848:1842110101:0142/pct:18.1870256336818,5.208434554465066,16.153515680939424,12.496356039257604/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kershawhogjam_ver03:data:sn85042795:00295861848:1842110101:0142/pct:18.1870256336818,5.214912706895993,16.163062676022722,12.499595115473067/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

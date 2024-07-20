@@ -289,7 +289,7 @@ Then what is man ? And what man {eeing this,
 And having human feelings, does not blush  
 And hang his head to think himfelf 2 man 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1793113001:0136/pct:7.139608913142338,17.21693336034029,20.6154312566318,7.362770913510229/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1793113001:0136/pct:7.139608913142338,17.22368509891297,20.625536860188976,7.369522652082911/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -345,7 +345,7 @@ Abhor each other. Mountains interposed,
 Make enemies of nations who had else  
 Like kindred drops been mingled into one.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794010301:0003/pct:46.36283961437336,35.56910569105691,18.872334209757522,6.855136733185514/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794010301:0003/pct:46.37744668419515,35.57372505543237,18.872334209757522,6.850517368810052/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -371,7 +371,7 @@ Make enemies of nations who had else
   
 Like kindred drops been mingled into one.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794013101:0003/pct:46.598240469208214,35.59447004608295,18.914956011730204,6.838709677419355/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794013101:0003/pct:46.62023460410557,35.59447004608295,18.914956011730204,6.838709677419355/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -774,7 +774,7 @@ bond
 Of brotherhood is sever’d as the flax  
 That falls asunder ai the touch ot fire
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:0041421616A:1813032301:0572/pct:51.083492670490756,20.34253757427473,17.94136392606756,2.4641733659559595/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:0041421616A:1813032301:0572/pct:51.07535446869524,20.34076015727392,17.943816048005946,2.4668705402650355/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1566,7 +1566,7 @@ And hang his head, to think himself a man ?
 And having human feelings, does not blush,  
 And hang bis bead, so think himself a man ?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898036:1825081301:0084/pct:58.18326271186441,13.469251336898395,17.478813559322035,1.6711229946524064/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898036:1825081301:0084/pct:58.16785808842997,13.467000835421889,17.48080487159121,1.6750208855472013/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1586,7 +1586,7 @@ ing such a mar. ? There was another likeness oppo­
 site, and my attention was drawn towards it—  
 “That,” said one to me, is the resemblance of ou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_lyle_ver01:data:sn85059803:00514157832:1825091001:0332/pct:65.96787367274707,53.77070619006103,26.926218350122515,6.996512641673932/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_lyle_ver01:data:sn85059803:00514157832:1825091001:0332/pct:65.94991834512793,53.75898888646764,26.927962257303573,7.00225176145856/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3120,7 +3120,7 @@ Then what is man ? And what man, seeing this,
 And hairing human feelings, does not blush  
 And hang his head, to th&#x27;nk himself a man ?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_green_ver02:data:sn84022687:00202199240:1839033001:0045/pct:10.346248969497115,50.82921152167588,20.93981863149217,15.536805353505965/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_green_ver02:data:sn84022687:00202199240:1839033001:0045/pct:7.77319587628866,38.12918242653477,15.711340206185566,11.652604015129473/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3445,7 +3445,7 @@ Then what is man! And what man seeing this, &#x27;
 And h-iving human feelings does not blush  
 And hang bis head, to think himself a man T&quot; -
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_kirby_ver02:data:sn83025661:00202197218:1843020801:0062/pct:31.47147147147147,88.2062298603652,18.603603603603602,11.396348012889366/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_kirby_ver02:data:sn83025661:00202197218:1843020801:0062/pct:23.60714822045352,66.1546723952739,13.966060970115633,8.549946294307196/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3483,7 +3483,7 @@ And hang his head to think himself a man.
 And having human feelings, does not blush  
 And hang his head, to think himself a man.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184613:1843072601:0676/pct:220.11197243755385,28.829353523587653,26.026414010910134,3.6109493302271405/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184613:1843072601:0676/pct:73.36012630974595,9.608665269042628,8.674226113583082,1.2035095892538241/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3683,7 +3683,7 @@ ness again. Among the numerous slaves that
 stocked his jilantation was a young woman,  
 twenty years old, who, to all human appear
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn83035487:00211100473:1846062601:0196/pct:17.169540229885058,94.69292389853138,21.36015325670498,11.031375166889186/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn83035487:00211100473:1846062601:0196/pct:12.892403546609154,71.02803738317758,16.031631919482386,8.277703604806408/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3736,7 +3736,7 @@ and then contend that this is in keeping with the law
 of God which, on pain of death, requires that every  
 man should love his neighbor as himself! This is cer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199252:1847041501:0651/pct:68.97837434750187,16.69553630912725,18.773303504847128,5.089940039973351/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199252:1847041501:0651/pct:51.743427186276335,12.524983344437041,14.096587730747716,3.8241172551632245/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4050,7 +4050,7 @@ Then what is man? And whatman seeing this,
 Aud having human leelmgs, does not blush,  
 And hang his head, to tlnnk himselfa man ?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199264:1851020601:0194/pct:46.308243727598565,89.35015772870662,16.164874551971327,12.290220820189274/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199264:1851020601:0194/pct:34.73740813765908,67.01577287066246,12.134791181215272,9.22397476340694/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4379,7 +4379,7 @@ Then what is man? And what man seeing this,
 And having human feelings, does not blush  
 And hang his head, to think himself a man
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn84022882:00414212426:1856031101:0356/pct:12.025316455696203,86.0934393638171,11.001885267977377,3.220675944333996/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn84022882:00414212426:1856031101:0356/pct:12.023697320587047,86.08488221846734,11.003770028275213,3.2228406719014013/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4464,7 +4464,7 @@ and these into enemies; destroys the
 morals of one part and the amor patriee  
 of the other
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_dillinger_ver02:data:sn87056242:00200295626:1856082801:0604/pct:22.587165234967156,74.04295942720763,16.889843355229914,5.62291169451074/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_dillinger_ver02:data:sn87056242:00200295626:1856082801:0604/pct:16.94679641096929,55.53221957040573,12.67534437002401,4.219570405727923/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4483,7 +4483,7 @@ head, to think himself a man.&quot;
 For what purpose the St-uth wants Kan­  
 sts will be seen by the following extrac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:0028077537A:1856091101:0805/pct:6.855791962174941,19.938615437080824,14.361702127659575,3.239740820734341/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:0028077537A:1856091101:0805/pct:5.142603812620068,14.959645333636466,10.77286833160928,2.432647493463681/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4649,7 +4649,7 @@ like his own, and having pow&#x27;r t&#x27; enforce the
 wrong, for such a tortly cause doome nd derofes  
 hem s his hricfil prey.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_gastly_ver01:data:sn82015737:00279529091:1859121601:0199/pct:161.19824784513213,194.83932751649286,36.4137346333192,5.107469674398808/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_gastly_ver01:data:sn82015737:00279529091:1859121601:0199/pct:53.7327492817107,64.94644250549763,12.137911544439735,1.7024898914662694/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4716,7 +4716,7 @@ of Ged?-that the
 not to be ­  
 Iudeed, I t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668156:1860011701:0600/pct:175.04098360655738,133.61237681466568,37.25409836065574,23.079368443361236/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668156:1860011701:0600/pct:58.370917042503756,44.537458938221896,12.423124231242312,7.693122814453746/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4762,7 +4762,7 @@ By His donation; but man over men
 He made not lord, such title to Himself  
 Reserving, human left from human free
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1860061501:0952/pct:230.73286052009456,66.6066066066066,35.77620173364854,4.444444444444445/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1860061501:0952/pct:57.68321513002364,16.65165165165165,8.944050433412135,1.1111111111111112/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4779,7 +4779,7 @@ By His donation; but man over man
 He made not lord such title to himself  
 Reserving hiuman left from human free
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn86058541:00202191472:1860062101:0530/pct:297.2711267605634,317.7794702547178,39.524647887323944,4.908183126004908/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn86058541:00202191472:1860062101:0530/pct:74.33414043583535,79.44486756367945,9.88333700198107,1.227045781501227/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4814,7 +4814,7 @@ Then what is man! And what man seeing this,
 And having hueman feelings, dees not blush  
 And hang his head, to think himself a man
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:00279529406:1860062801:0200/pct:165.373039759227,257.80196379983437,35.51401869158879,22.38258606411925/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:00279529406:1860062801:0200/pct:55.124346586409,85.93398793327813,11.838006230529595,7.4608620213730825/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4831,7 +4831,7 @@ By His donation ; but man overmen
 He made not lord, such title to Himself  
 Reserving, human left from hitman fi*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn86081096:00296028666:1860062801:0557/pct:47.83171521035599,17.55419677598666,13.414239482200648,1.556420233463035/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn86081096:00296028666:1860062801:0557/pct:47.83171521035599,17.561608300907913,13.425026968716288,1.556420233463035/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4848,7 +4848,7 @@ By His donation; but man over men
 He made not lord, such title to Himself  
 Reserving, human left from human free
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775678:1860062901:0106/pct:160.65918653576438,216.9080853305241,34.36185133239832,3.5291019225704505/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775678:1860062901:0106/pct:40.18593229258025,54.227021332631026,8.594983336256798,0.8822754806426126/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4882,7 +4882,7 @@ By his donation; but man over men
 He made not lord; such title to Himself  
 Reserving, human left from human free
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn83016318:00296024570:1860070401:0318/pct:125.23584905660377,160.37234042553192,28.6998820754717,3.1914893617021276/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn83016318:00296024570:1860070401:0318/pct:41.76375165904734,53.45744680851064,9.570859755198349,1.0638297872340425/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4912,7 +4912,7 @@ Take the sulject of slavery- the recent great tople,
 now merged in others of more vital moment--examine  
 the Vankeo&#x27;s connestion with it and we will find the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn86071866:00414184728:1861110601:0435/pct:156.77280086346465,90.11259220913679,43.51502068717395,9.796816358224408/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn86071866:00414184728:1861110601:0435/pct:52.24820143884892,30.033643892339544,14.502398081534773,3.265182884748102/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5014,7 +5014,7 @@ By his donation; but man over man
 Me made not lord, roch ritle to himaclf  
 human left from human free.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775630:1862041001:0040/pct:61.34163208852006,100.39258156220387,43.22268326417704,36.49654798971166/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775630:1862041001:0040/pct:15.340712556208924,25.098145390550968,10.809408509166378,9.124136997427915/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5166,7 +5166,7 @@ And hang his head to think himself a man.
 The deathly odor in the low room, the ghast­  
 ly thing which lies-so still on the tables, th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dunbar_ver01:data:sn85026214:print0021111020A:1871121001:0006/pct:44.85619469026549,4.52796305797845,12.168141592920353,3.2965623396613646/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dunbar_ver01:data:sn85026214:print0021111020A:1871121001:0006/pct:44.85619469026549,4.531169830682401,12.195796460176991,3.3029758850692663/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5203,7 +5203,7 @@ And what man seeing this,
 And having human feelings, does not blush,  
 And hang his head, to think himself a man
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_dunbar_ver01:data:sn83025287:00280768108:1878021701:0155/pct:35.074987905176584,73.40004398504509,14.013868730849863,3.122938201011656/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_dunbar_ver01:data:sn83025287:00280768108:1878021701:0155/pct:35.08573885932376,73.40737482589253,14.019244207923453,3.1266036214353785/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5221,7 +5221,7 @@ And what man seeing this,
 And having human feelings, does not bluslx,  
 And hang lits head, to think himself a man
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878022101:0080/pct:34.40038222646918,25.996735835859173,12.740882306099698,1.7719748193051994/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878022101:0080/pct:34.41099962839093,25.996735835859173,12.740882306099698,1.7797466386881169/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5268,7 +5268,7 @@ man.&quot; Capital punishment can answer
 no good end, either as it regards society  
 or respects the criminal. Christianit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280775046:1880072201:0458/pct:68.96995708154506,82.21932114882506,17.854077253218883,3.7989556135770237/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280775046:1880072201:0458/pct:51.74930242541318,61.6710182767624,13.39343206696716,2.845953002610966/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5310,7 +5310,7 @@ world s woes! No people has a greater right
 to emblazon that fact before the world than  
 the colored people of America. In fact, w
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ferguson_ver01:data:sn83027106:00211664447:1884080201:0310/pct:70.2975125995773,25.34994068801898,14.436676963095431,3.8196915776986953/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ferguson_ver01:data:sn83027106:00211664447:1884080201:0310/pct:70.3029317726115,25.34994068801898,14.442096136129626,3.8275998418347172/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5343,7 +5343,7 @@ does not blush and hang his head to think
 himself a man ?” And yet If man would let  
 his higher and nobler nature, instead of hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_keota_ver01:data:sn83025510:00340585677:1885021401:0522/pct:55.25777033314722,83.95045632333768,12.600037223152802,9.530638852672752/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_keota_ver01:data:sn83025510:00340585677:1885021401:0522/pct:55.262423227247346,83.95371577574967,12.618648799553322,9.533898305084746/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5386,7 +5386,7 @@ remarkable decision will have upon
 the interests and rights of the labor­  
 ing man in the free States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn85038180:00296029063:1885100101:0092/pct:98.9521841794569,58.82629660119958,14.020070838252657,5.750911443020111/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn85038180:00296029063:1885100101:0092/pct:74.25070131404105,44.12560272844878,10.52709286874354,4.3161237210396335/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5476,7 +5476,7 @@ Reserving, human left from human free.&quot;
   
 Why the Hawailans Relected the Treat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_milosz_ver01:data:sn83030272:00175044978:1891091101:0670/pct:1.3117283950617284,322.9207695803666,64.6604938271605,17.93667626117255/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_milosz_ver01:data:sn83030272:00175044978:1891091101:0670/pct:0.3281219841729396,80.73019239509165,16.174483690407257,4.484169065293138/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5504,7 +5504,7 @@ truer moral and spiritual insight,
 know that the future is in the  
 palm of the Great Hand, and tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_debaptiste_ver01:data:sn83016683:00211664241:1893020301:0083/pct:17.600954165956722,18.29620223940898,14.32952802862498,6.625880180076186/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_debaptiste_ver01:data:sn83016683:00211664241:1893020301:0083/pct:17.600954165956722,18.30389780291662,14.352246265689782,6.622032398322367/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

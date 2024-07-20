@@ -204,7 +204,7 @@ certainty, by uJing the neecflsry precaution*.
 The palfage by land of 240 milr* from the fill*  
 of the Mitfotui tit ike ILoolkootke, i* the mo it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1806110401:0206/pct:80.07414272474513,87.01935159587836,17.942539388322523,10.278964563960795/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1806110401:0206/pct:80.05930318754633,87.00841814298279,17.94539164813442,10.281861205344056/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -245,7 +245,7 @@ charging itfelf into the Columbia 125 miles
 from irs entrance into the Pacific ocean. I  
 confider this trad acroft the continent of im
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1806110401:0207/pct:3.203110535086095,5.765856104286788,17.73745602666173,15.342191025319629/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1806110401:0207/pct:3.20251758607923,5.765133475372854,17.740343082808835,15.344445836988761/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -268,7 +268,7 @@ duced U9 to fpend the winter; we therefore
 fearched for an eligible fituatinn for that pur­  
 pofe, and feleded a fpot on the fouth fide of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1806110401:0207/pct:21.53304943528976,9.225369766858861,18.089242732827255,5.1265981448984705/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1806110401:0207/pct:21.529063309885228,9.224213560596565,18.092064667407133,5.130133266491206/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -345,7 +345,7 @@ tenths of the most valuable fur country in
 the Columbia, and shipped from thence to  
 the Hast Indies, by the first of August i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806110501:0365/pct:40.94744917529728,23.015669149755972,18.46950517836594,36.33444644233239/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806110501:0365/pct:40.939597315436245,23.01271349685373,18.47235538510706,36.334061041907454/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -418,7 +418,7 @@ of the most valuable fur country in America, may
 be conveyed to the mouth of the Columbia, and  
 shipped from thence to the East-Indies, by the firs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1806110701:0199/pct:29.972548040928377,32.15958649652722,21.387571749438482,39.15361007914715/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1806110701:0199/pct:29.965069860279442,32.15439276485788,21.388473053892216,39.151324289405686/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -440,7 +440,7 @@ ed for an eligible situation for that purpose, and se­
 lected a spot on the south side of a little river, cal­  
 led by the natives Netul, which discharges itself a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1806110701:0199/pct:52.183678562515595,63.30156679050234,21.312702770152235,5.427233080277823/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1806110701:0199/pct:52.17065868263473,63.291343669250644,21.313622754491018,5.430394056847545/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -607,7 +607,7 @@ all die Aira coHccted in nine tenths of
 the moat vahiaMt fur country in Am*.  
 rice, maybe eoneeyedto die month o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1806111401:0675/pct:47.72036474164134,12.159329140461216,42.442663719259464,84.66107617051013/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1806111401:0675/pct:47.70718232044199,12.157205240174672,42.437845303867405,84.65065502183405/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -66,7 +66,7 @@ on which there shall lie a post? If the term ho equivo­
 cal, (and / realh/ do not think it so,) which is the saf­  
 est construction”? &amp;e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830033001:0351/pct:49.94155464640561,30.71420329987308,15.151957919345412,9.876543209876543/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830033001:0351/pct:49.93425858290723,30.710659898477157,15.154614073532992,9.879249346254422/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -98,7 +98,7 @@ tantamount to that orular inspection, which, even in
 our county determinations, the magis&#x27;rale finds cannot  
 be supplied by any other evidence?&quot;—Such, too, is th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830040601:0358/pct:82.11036102142647,72.80852526641458,15.292045788083358,8.387762117566174/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830040601:0358/pct:82.09831254585474,72.80018331805682,15.294693078992418,8.39062022609227/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -139,7 +139,7 @@ By Mr. N. P. Trist. State Rights: The sevtt d
 rights of the State* Independent—the joint rights ot  
 the States United. Inviolability of the former, th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830042301:0379/pct:2.36651382931519,20.06472491909385,15.219642064783317,3.2015718908922794/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830042301:0379/pct:2.366163856847087,20.062406101929966,15.222320812382923,3.2050541238106245/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -157,7 +157,7 @@ boundless patronage to the Egerulive, of jobbing to
 member* of Congress anil their friends, and a bottomless  
 abyss of public money—a .ource ol eternal scramble »
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184042:1830071601:0082/pct:50.89404462834343,76.4472190692395,15.368701049209399,1.8615209988649262/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184042:1830071601:0082/pct:50.88652482269504,76.43854273067757,15.371355397951143,1.8650928763288315/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -224,7 +224,7 @@ i will get most who aro nieeenrsi &#x27;&quot;t W« I.„
   
 | been constrained to see and to feol, that tbc whol
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830072301:0202/pct:66.62017666201767,64.07778030475325,14.985278165194483,4.73049806686377/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830072301:0202/pct:66.60985435388906,64.0704945992041,14.988121061873773,4.733750236877014/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -273,7 +273,7 @@ and it will be a source of eternal scramble among the*
 members, who can get (he most money wasted in thcii:  
 state; and they will always get most who are meanest.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184042:1830092401:0156/pct:19.967817437097718,37.62263289984029,15.286717378583967,6.422541638147387/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184042:1830092401:0156/pct:19.96489688459851,37.618341507927454,15.289356930427575,6.425611193490742/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -303,7 +303,7 @@ gre*S and their frieude, and a bottomless abyss ol public
 inouey. * * It will be a source of etsrn.l aetam  
 Lie among the members, who cm get th* mo t mone
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184042:1830122301:0266/pct:36.02520885241096,28.3098271155596,14.90546680345889,2.786624203821656/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184042:1830122301:0266/pct:36.01992966002344,28.306607528716025,14.908167252833138,2.7900981841616437/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -334,7 +334,7 @@ get most who are meanest.” In these times, particularly,
 when every source ol expence is seized upon, to waste  
 the public money, in order to keep up the Tariff; whe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1832071001:0078/pct:81.74692049272116,48.10673162090345,15.34154535274356,3.1222320637732506/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1832071001:0078/pct:81.73547935619314,48.101405955939335,15.344063447632378,3.1255765895420495/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -368,7 +368,7 @@ be a source of eternal scramble among the members, who
 can got the most money wasted in their Slate; and they  
 will always got most who are meanest.&quot;—The fact is
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184091:1836042201:0441/pct:2.5648097076668503,3.1375966880923847,14.947600661886376,4.455823074408977/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184091:1836042201:0441/pct:2.5644560871363575,3.1372549019607843,14.95013557608346,4.458968772694263/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -386,7 +386,7 @@ and may be made, as simple as those of a common
 larmer, and capable of being Understood by common  
 farmers. Thus much I have thought it just an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1838051201:0429/pct:49.84279331457885,22.758788468556137,15.30696673837498,2.055710984065199/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1838051201:0429/pct:49.84279331457885,22.766897782102745,15.317998786474709,2.055710984065199/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -413,7 +413,7 @@ farmers. Thus much I have thought it just an
 Executive, jobbing to members of Congress and their ?  
 friends, and a bottomless abyss of public money.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664266:1842070501:0156/pct:49.64431663387317,55.59246954595792,16.194944755562283,1.6208597603946442/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664266:1842070501:0156/pct:49.64936178800262,55.595825363267224,16.19998990969174,1.6242155777039498/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

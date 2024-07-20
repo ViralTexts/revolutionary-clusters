@@ -43,7 +43,7 @@ coat and waistcoat—the majors and brigadiers-general by a
 pink ribbon worn in like manner; the aides-de-camp, by a  
 green ribbon.” It was also
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_collins_ver01:data:sn83030364:print00211110065:1856051101:0001/pct:5.5964912280701755,46.2092070976548,12.070175438596491,3.4495594986971088/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_collins_ver01:data:sn83030364:print00211110065:1856051101:0001/pct:5.5964912280701755,46.2092070976548,12.078947368421053,3.458865864251148/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -77,7 +77,7 @@ sler tenerals y a wiut cofors rikbon, wore tn the lite mane
 the Aidecamps by a green ribbon.  
 But the richest thing in the whole book is to be foun
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743257:1857041201:0862/pct:47.36324926301998,131.7864383870241,50.01637733377006,21.570173462491553/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743257:1857041201:0862/pct:15.787749754339993,43.9288127956747,16.672125777923355,7.190057820830518/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -246,7 +246,7 @@ and in the meanwhile to prevent mis­
 takes the general officers and their  
 aidecamps are to be distinguished b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_boozer_ver01:data:sn85058130:00175048546:1894021801:0404/pct:66.19228336495888,85.84650112866817,19.1808981657179,9.37923250564334/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_boozer_ver01:data:sn85058130:00175048546:1894021801:0404/pct:44.15440594842588,57.231000752445446,12.79860781521911,6.252821670428894/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

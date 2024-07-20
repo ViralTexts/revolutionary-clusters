@@ -30,7 +30,7 @@ me an ths return at the next general Elect on,
 as his fucceflnr for said office ; in doing which,  
 you will confer an obligation that will b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794051201:0004/pct:12.43611584327087,22.47045790251108,18.313458262350938,2.640324963072378/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794051201:0004/pct:12.443214082907438,22.48430576070901,18.34185122089722,2.6357090103397343/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -47,7 +47,7 @@ me on the return at the next general Elect or,
 as his successor ftv fait! office ; in doing which,  
 you will confer an obligation that- will b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794051901:0004/pct:34.2832469775475,32.346410066617324,18.364997121473806,1.924500370096225/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794051901:0004/pct:34.30483592400691,32.346410066617324,18.357800805987335,1.9476313841598816/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -65,7 +65,7 @@ me on the return at the next general Ele&amp;ion,
 as his successor for said office ; in doing which,  
 you will confer an obligation that&#x27; will b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794052701:0001/pct:47.016842706251786,85.20482809070958,18.498429917213816,2.4323335771762986/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794052701:0001/pct:47.03825292606337,85.21397220190198,18.477019697402227,2.4414776883686904/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -82,7 +82,7 @@ me on the re-u-n at the next general EleA on,
 as his fnccelTor for said office; in doing which,  
 you will confer an obligation that will b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794053101:0001/pct:49.20589903573455,87.02346041055719,18.321043675553035,1.906158357771261/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794053101:0001/pct:49.20589903573455,87.02346041055719,18.328133862733978,1.9290689149560116/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -99,7 +99,7 @@ me on the return at the next generalEleftion
 as his successor for said office; in doing which&#x27;  
 you will confer an obligation that &quot;will b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794060701:0004/pct:76.56716417910448,15.611497275972196,18.80597014925373,2.0289310539169643/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794060701:0004/pct:76.57462686567165,15.620890475295885,18.83582089552239,2.0383242532406536/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -115,7 +115,7 @@ you will confer an obligation that &quot;will b
 as his fucceiror for laid office; in doing which,  
 you will confer an obligation that will b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794060901:0001/pct:30.248811853508528,85.27956003666361,18.17165222253285,1.1915673693858846/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794060901:0001/pct:30.248811853508528,85.28414298808433,18.19261951355885,1.2144821264894592/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -132,7 +132,7 @@ next generalEleftion, as his fuccefTor for
 said « See; in doing which, you will confer .  
 an obligation that will lie gratefully re- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794081901:0001/pct:6.51697699890471,90.89001573701697,16.94961664841183,1.801014163315265/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794081901:0001/pct:6.530668127053669,90.89001573701697,16.94961664841183,1.818499737716384/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -149,7 +149,7 @@ next general Election, as his fuccefTor for
 said office; in doing which, you will confer  
 an obligation that will be gratefully re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794082501:0001/pct:5.464333781965006,86.33571309978416,16.366083445491252,1.7101112402457248/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794082501:0001/pct:5.471063257065949,86.34401461065914,16.366083445491252,1.7225635065581937/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -165,7 +165,7 @@ an obligation that will be gratefully re
 said office; in doing which, you will confer  
 an obligation that will be gratefully re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794082601:0001/pct:7.540813682301114,87.46438746438747,15.677636693443898,1.0893246187363834/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794082601:0001/pct:7.560248769111169,87.46857717445953,15.697071780253951,1.1102731690966985/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -181,7 +181,7 @@ an obligation that will be gratefully re
 said otfice; in doing which, you will confer  
 an obligation that will be gratefully re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794082701:0001/pct:6.64196877480815,86.63226236057932,15.850754167769251,1.1986016314299983/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794082701:0001/pct:6.655199788303784,86.63226236057932,15.87721619476052,1.2194106875312136/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -200,7 +200,7 @@ next generalEleftion, as his successor for
 (■inl office; in doing which, you will confer  
 an obligation that will be gratefully re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794082901:0001/pct:6.022758812101027,87.9583830803343,16.763807937829586,3.0701006310762406/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794082901:0001/pct:6.02969747432695,87.97117516629712,16.784623924507354,3.0658366024219683/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -217,7 +217,7 @@ next generalEleftion, as bis fuccefTor for
 said office; in doing which, you will confer  
 an obligation that will be gratefully re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794083001:0001/pct:7.249524843877274,86.6902237926973,16.508281292424655,1.6826518593303046/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794083001:0001/pct:7.249524843877274,86.6902237926973,16.515069237035025,1.6868584889786302/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -234,7 +234,7 @@ iiext general Election, as his fucceOor for
 said office; in doing which, you will confer  
 an obligation that will be gratefully re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794090101:0001/pct:7.2490221642764014,87.06682142264964,15.775749674054758,1.7410048084894711/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794090101:0001/pct:7.26857887874837,87.07096667219366,15.76923076923077,1.7410048084894711/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -251,7 +251,7 @@ an obligation that will be gratefully re
 Hid office; in doing which, you will confer  
 an obligation that will be gratefully re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794090201:0001/pct:7.89129866736347,86.51964848283866,16.070028743140842,1.7575858066655612/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794090201:0001/pct:7.897831199372877,86.51964848283866,16.083093807159656,1.7617310562095838/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -268,7 +268,7 @@ next general Ele&amp;ion, as his fucceflor for
 said office; in doing which, you will confer  
 an obligation that will be gratefully re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794090301:0001/pct:8.48295602393963,86.99581589958159,15.638823835545146,1.707112970711297/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794090301:0001/pct:8.48295602393963,86.99581589958159,15.645329169919334,1.7196652719665273/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -285,7 +285,7 @@ next general Election, as his fucceflor for
 fald office; in doing which, you will confer  
 an obligation that will be gratefully re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794092601:0004/pct:44.43565400843882,35.65418247813892,16.060126582278482,1.6828906121102127/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794092601:0004/pct:44.448839662447256,35.66243194192378,16.0667194092827,1.6952648077874939/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -301,7 +301,7 @@ an obligation that will be gratefully re
 said office; in doing which, you will confer  
 an obligation that will be gratefully rc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794100801:0001/pct:55.96138794677798,81.99769623169327,15.888338116357945,1.0860622017442818/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794100801:0001/pct:55.96138794677798,81.99769623169327,15.901382728932951,1.090176073720586/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

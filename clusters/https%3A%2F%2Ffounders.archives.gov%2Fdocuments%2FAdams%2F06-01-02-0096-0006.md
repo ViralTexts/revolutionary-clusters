@@ -504,7 +504,7 @@ Blackstone, in his introduction, lays down this
 general rule, &quot;that the decisions of courts of justice  
 are the evidence of what is commion law--in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530248:1846081301:0249/pct:130.2952913008779,64.6089552238806,41.72386272944932,12.250746268656716/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530248:1846081301:0249/pct:43.4317637669593,21.5363184079602,13.907954243149774,4.083582089552239/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -590,7 +590,7 @@ As Blackstone says of civil tribunals: &quot;The
 decision of courts of justice are the evidence  
 of what is common law.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_dassel_ver01:data:sn83025287:00100493913:1881062001:0382/pct:50.18631688776271,11.60184574818721,11.655984498434938,3.5157108327840034/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_dassel_ver01:data:sn83025287:00100493913:1881062001:0382/pct:50.18631688776271,11.609170145755511,11.665921399115616,3.5120486339998536/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

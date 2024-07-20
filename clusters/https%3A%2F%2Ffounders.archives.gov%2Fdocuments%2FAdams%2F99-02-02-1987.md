@@ -64,7 +64,7 @@ accelerate an accommodation, - on terms
 compatible with the nghts, duties, inter­  
 ests and honor of the nation. If .we hav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797052301:0293/pct:24.661583942741558,56.83,15.652715108137544,2.33/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797052301:0293/pct:24.671956848711165,56.833333333333336,15.657901561122348,2.3333333333333335/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -406,7 +406,7 @@ in Europe, the depredations on our com­
 merce, the personal injuries of our citizens  
 and the general complexion of aflaii s rende
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798041701:0002/pct:26.445698166431594,83.88660399529965,16.05547719793136,4.200940070505288/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798041701:0002/pct:26.45745181006112,83.8976204465335,16.049600376116597,4.200940070505288/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -424,7 +424,7 @@ accommodation with the republic of France, on terms
 compatible with the rights, duties, interests and hon­  
 or of the nation, we are encouraged to place addition
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798052501:0002/pct:44.53204476093591,42.79228149829739,15.920651068158698,1.8809794065185665/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798052501:0002/pct:44.544760935910475,42.80444300308091,15.920651068158698,1.876925571590725/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -498,7 +498,7 @@ merce, the personal injuries to our citi­
 zens and the general complexion of af­  
 fairs, render it my indispensable duty t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_horseradish_ver02:data:sn87068097:00383340238:1896060201:0539/pct:49.166666666666664,55.01432664756447,11.071428571428571,2.5501432664756445/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_horseradish_ver02:data:sn87068097:00383340238:1896060201:0539/pct:49.15830641047441,55.00644606789858,11.07379697330386,2.5533591176049275/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

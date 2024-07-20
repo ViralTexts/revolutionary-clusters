@@ -73,7 +73,7 @@ comparison with those existing in every other govern­
 ment on earth, that our citizens may certainly he consi­  
 dered asm the happiest political situation which exists.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1833030501:0391/pct:34.16105499438833,45.04923110963602,15.025252525252526,5.763911937161191/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1833030501:0391/pct:34.156263150512,45.04424778761062,15.027820638705755,5.766961651917404/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -165,7 +165,7 @@ Brown, in London; after which it would be ridi­
 culous to add, that it was my own.&quot;  
 This work, therefore, purports to be an exac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664291:1847061801:0432/pct:46.58009965272535,59.8901628287889,13.543711309074437,3.8539358319683976/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664291:1847061801:0432/pct:46.58009965272535,59.89337444198221,13.543711309074437,3.8571474451617047/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -188,7 +188,7 @@ Brown, in London; after which it would be ridi­
 culous to add, that it was rov own.”  
 This work, therefore, purports to be an exac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_emeralds_ver02:data:sn85025007:00414215798:1847061801:0040/pct:53.90672319806178,73.51726985000688,14.647688269735514,4.4929131691206825/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_emeralds_ver02:data:sn85025007:00414215798:1847061801:0040/pct:53.90128192187342,73.51221190230478,14.649574375021029,4.49489737415434/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -209,7 +209,7 @@ tion. I found it strongly the sentiment of West, Copley,
 Trumbull and Brown, in London; after which it would  
 be ridiculous to add, that it was my own.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347909:1847070101:1204/pct:261.46753745678063,294.59418762234606,60.948905109489054,14.229784670983285/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347909:1847070101:1204/pct:65.35433070866142,73.63745859680819,15.234299980795084,3.5569105691056913/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -231,7 +231,7 @@ ment of West, Copley, Trumbull, and Brown, in
 London; after which.it would be ridiculous to  
 add my own.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661538:1854031701:0273/pct:29.1272629019184,51.03433567924931,13.293704404215077,3.8067818298144593/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661538:1854031701:0273/pct:29.1272629019184,51.037890097391056,13.30271097901468,3.8067818298144593/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -253,7 +253,7 @@ the sentiment of West, Copley, Trutnbull, ami
 Brown, in London; after whioh, it would be  
 ridiculous to add my own.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053546:00415660984:1854031701:0274/pct:70.53907229419139,89.93675801619882,13.372335979941496,4.482414290469322/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053546:00415660984:1854031701:0274/pct:70.54371546640665,89.93675801619882,13.372335979941496,4.486112652095122/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -294,7 +294,7 @@ Wealth acquired in speculation and
 plunder is fusacloua in Its nature, and  
 fills society with the spirit of gambling.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_atherton_ver01:data:sn84026355:00211100229:1897061601:0710/pct:73.20782041998552,79.5245813074014,15.749456915278783,1.5667206915180982/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_atherton_ver01:data:sn84026355:00211100229:1897061601:0710/pct:54.92575153929736,59.643435980551054,11.825425570445491,1.1750405186385737/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -313,7 +313,7 @@ plunder is fugacious in its nature, and
 fills society with the spirit of gambling.  
 To Colorado Springs and Pueblo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_arbutus_ver01:data:sn85040614:00514152640:1897072201:0409/pct:48.2968570018101,87.2345207326666,14.925127530031265,3.393639734801663/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_arbutus_ver01:data:sn85040614:00514152640:1897072201:0409/pct:48.30234216444518,87.24201221110987,14.925127530031265,3.401131213244934/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -365,7 +365,7 @@ The h&#x27;rst error wat to admit it by the
 that admission.  
 Iam for commerce&#x27;with all nation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_marmaduke_ver02:data:sn89066695:00415661782:1898033101:0642/pct:83.75092114959469,77.40800865800865,13.89093588798821,11.755952380952381/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_marmaduke_ver02:data:sn89066695:00415661782:1898033101:0642/pct:62.84555842241062,58.06277056277056,10.412827128639883,8.82034632034632/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -390,7 +390,7 @@ society with the spirit of
 gambling.  
 Independence
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_deepspace_ver01:data:sn87091045:00513688167:1898041501:0725/pct:15.426078028747433,51.34968378836958,15.965092402464066,9.94909763998149/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_deepspace_ver01:data:sn87091045:00513688167:1898041501:0725/pct:15.44318959616701,51.34968378836958,15.965092402464066,9.964522597562857/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -427,7 +427,7 @@ and plunder is fugacious in its nature
 and tills society with the spirit of  
 gambing.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068402:00295878691:1899120701:0404/pct:95.85714285714286,22.92583449608243,14.728571428571428,3.7780401416765055/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068402:00295878691:1899120701:0404/pct:71.91027289612802,17.194375872061823,11.044434919274183,2.844263174841687/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

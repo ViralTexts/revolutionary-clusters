@@ -105,7 +105,7 @@ of Congress echo and re-echo wih it, fif.­
 teen months before your declaration of  
 Iudependence
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1843081001:0112/pct:37.25190839694657,196.09171443460136,60.99236641221374,26.10734757686295/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1843081001:0112/pct:9.312977099236642,49.02292860865034,15.248091603053435,6.526836894215737/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -154,7 +154,7 @@ Thomas Paine. Sat cttbuni Stpieiti.
 I am dear Sir your invari .ble fi iend,  
 JOHN ADAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn87090028:00295877959:1844040601:0359/pct:4.389965792474344,47.76255707762557,19.75484606613455,28.938356164383563/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn87090028:00295877959:1844040601:0359/pct:3.292943692088382,35.821917808219176,14.825374198146829,21.71232876712329/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -172,7 +172,7 @@ How is it possible that this paper should teee o e eeons eoa o ae i  aa o i
   
 concealed from me to this day? Had it been cal and religious character, which was se. ta te itareinary faet, tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667711:1849030201:0240/pct:210.29281277728484,240.4821402322505,182.6086956521739,7.408496251653682/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667711:1849030201:0240/pct:52.57320319432121,60.12053505806262,45.65217391304348,1.8521240629134206/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -258,7 +258,7 @@ I had posacawd It I would have made the ball of Coo-
 I grope echo and re-echo with it fifteen months before  
 your Declaration of Independence.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grand_ver02:data:sn84031492:no_reel:1875042601:0004/pct:29.601063829787233,85.3035143769968,13.77659574468085,3.614217252396166/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grand_ver02:data:sn84031492:no_reel:1875042601:0004/pct:29.62101063829787,85.3035143769968,13.763297872340425,3.629193290734824/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -280,7 +280,7 @@ you do not know, that it would have been printed
 in every Whig newspaper on this continent. You  
 know that if I had possessed it I would have made
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777043:1875050701:0289/pct:105.42469664525339,36.03833865814696,39.68593861527481,6.543130990415335/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777043:1875050701:0289/pct:26.356174161313348,9.00958466453674,9.921484653818702,1.6357827476038338/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -352,7 +352,7 @@ declaration of independence.
 Jefferson, &quot;It I had possessed it I would have made  
 the nalls of Congress echo and re-echo with it fif
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:00271743932:1875052101:0714/pct:199.35569139269785,210.73517605229958,45.8285147860565,2.7870168597316205/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:00271743932:1875052101:0714/pct:66.45189713089928,70.24505868409986,15.276171595352167,0.9290056199105402/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -556,7 +556,7 @@ pended on the vote of Joseph Hewes, and was finally de
 termined by him. And yet history is to ascribe the Rev-  
 olution to Thomas Paine! Sat cerbum sapienth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_kobayashi_ver01:data:sn83030272:00175044784:1882070401:0587/pct:233.50864012021037,50.037097492209526,50.26296018031555,40.65885146164119/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_kobayashi_ver01:data:sn83030272:00175044784:1882070401:0587/pct:58.39909808342728,12.509274373052381,12.570462232243518,10.164712865410298/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -629,7 +629,7 @@ and re-echo with it fifteen months
 before your declaration.” Jeffer­  
 son replied in a letter, in whic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00383342089:1882070801:0019/pct:42.50607615446935,36.49964135669638,9.991898460707535,2.4285275130648634/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00383342089:1882070801:0019/pct:42.50607615446935,36.50305700720702,9.996399315870015,2.435358814086143/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -658,7 +658,7 @@ and he adds that he &quot;would have made the hall of Con
 gress echo and reécho with it fiteen months before your  
 Jefferson&#x27;s) Deciaration of Indopendence
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044838:1884062901:0619/pct:336.1963190184049,41.48837209302326,50.99693251533742,8.62015503875969/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044838:1884062901:0619/pct:84.09744868597737,10.372093023255815,12.756570113178592,2.1550387596899223/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -681,7 +681,7 @@ mented upon it from the day you entered Congress till
 the 4th of July, 1776. The genuine sense of America at  
 that moment was never so well expressed, nor sinc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_dante_ver01:data:sn83030272:00175044905:1887052201:1012/pct:118.37191934279313,262.9952577635001,49.58924570575056,11.61083065626434/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_dante_ver01:data:sn83030272:00175044905:1887052201:1012/pct:29.592979835698284,65.74881444087502,12.39731142643764,2.902707664066085/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -733,7 +733,7 @@ Verbum sat sapienti.
 I am, dear sir, your invariable friend,  
 &quot;JOHN ADAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn91068247:00296023048:1890051601:0085/pct:37.857142857142854,60.66505314111333,17.142857142857142,25.3077975376197/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn91068247:00296023048:1890051601:0085/pct:28.396757796400603,45.501420604019785,12.872647341667811,18.983478901399558/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -799,7 +799,7 @@ hall of congress echo and re-echo with it
 fifteen months before your declaration of  
 independence.&quot; The reeolotione in ques
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_lopez_ver03:data:sn88085523:00202199744:1892071401:0906/pct:24.50405141100866,61.950696677384784,11.958647666946074,9.346195069667738/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_lopez_ver03:data:sn88085523:00202199744:1892071401:0906/pct:24.51802179379715,61.956055734190784,11.95166247555183,9.367631296891748/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

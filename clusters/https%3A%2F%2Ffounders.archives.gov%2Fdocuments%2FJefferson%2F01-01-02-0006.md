@@ -179,7 +179,7 @@ do you like it? Well, I am sorry you
 are at such a distance, I can not hear  
 you answer.&quot; Such was the drea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn84027186:00279528918:1876072101:0116/pct:45.50561797752809,66.32346136048126,10.068007096392668,7.091624248033318/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn84027186:00279528918:1876072101:0116/pct:45.510546027991325,66.32346136048126,10.063079045929431,7.107049205614684/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -212,7 +212,7 @@ a pair of keen hois.es, piaoticethe iaw in
 the same -courts and drive about to all  
 the dances in the country together.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_dunbar_ver01:data:sn83025287:0028076811A:1878090801:0346/pct:6.677290836653387,62.78967600219659,13.52988047808765,4.030752333882482/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_dunbar_ver01:data:sn83025287:0028076811A:1878090801:0346/pct:6.677290836653387,62.79699798645433,13.53519256308101,4.027091341753615/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -234,7 +234,7 @@ a pair ot keen horses, practice the law in
 the same courts and drive about to all  
 tho dances in the country together.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_golf_ver01:data:sn85025620:00212479317:1878091201:0330/pct:27.82939189189189,54.559353500054605,10.909346846846846,3.680244621600961/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_golf_ver01:data:sn85025620:00212479317:1878091201:0330/pct:27.838776276276278,54.559353500054605,10.909346846846846,3.687525026391467/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -256,7 +256,7 @@ a pair ot keen horses, practice the iaw in
 the same courts and drive about to all  
 tho dances in the country together.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quasar_ver01:data:sn85025431:00212479743:1878091201:0080/pct:28.9860396767083,54.38647624599242,10.580455547391624,3.7209754201884775/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quasar_ver01:data:sn85025431:00212479743:1878091201:0080/pct:28.99012164258307,54.39295313967421,10.584537513266389,3.7177369733475825/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -278,7 +278,7 @@ a pair ot keen horses, practice the law in
 the same courts and drive about to all  
 the dances in the country together.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_hazen_ver01:data:sn85042404:00212478702:1878091201:0054/pct:28.352272727272727,73.96050533545935,16.117424242424242,4.771249846682203/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_hazen_ver01:data:sn85042404:00212478702:1878091201:0054/pct:28.358585858585858,73.9686822846396,16.117424242424242,4.763072897501942/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -300,7 +300,7 @@ a pair ot keen horses, practice the iaw in
 the same courts and drive about to all  
 the dances in the country together.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878091901:0382/pct:24.960605105578317,13.83129123468426,12.606366214938545,4.170593779453346/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878091901:0382/pct:24.965857758167875,13.839145460257619,12.606366214938545,4.178448005026705/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -318,7 +318,7 @@ a pole chair and a pair of keen horses,
 practice law in the same courts, and  
 drive about to the country dances to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_cardinal_ver01:data:sn85052141:00202195192:1878111501:0563/pct:61.082995951417004,320.40479140850886,38.41093117408907,6.608839322593969/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_cardinal_ver01:data:sn85052141:00202195192:1878111501:0563/pct:15.274614021766642,80.10119785212721,9.605163249810175,1.6522098306484923/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -336,7 +336,7 @@ apolechair and a pair of keen horsea,
 practice law in the same courts, and  
 drive about to the country dances to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_galactic_ver01:data:sn84022982:00513688647:1878111601:0695/pct:33.28386686453254,13.573750193468504,12.083951664193343,1.965639993809008/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_galactic_ver01:data:sn84022982:00513688647:1878111601:0695/pct:33.28386686453254,13.573750193468504,12.091018302593456,1.9811174740752207/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -354,7 +354,7 @@ a pole chair and a pair of keen horses,
 practice law in the same courts, and  
 drive about to the country dances to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00280779167:1878112101:0827/pct:133.30689928628072,57.77903043968433,47.1847739888977,7.891770011273957/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00280779167:1878112101:0827/pct:33.346558222574885,14.444757609921082,11.803213648085697,1.9729425028184893/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -379,7 +379,7 @@ I, I 1 ivv in the ^alllll
 .-..in!-,, and ?&#x27;  
 m the country together. How do yo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ironmaiden_ver02:data:sn85038614:00175031017:1890051801:0594/pct:81.8859717259593,187.1224336235623,37.16016778002175,12.318606900999677/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ironmaiden_ver02:data:sn85038614:00175031017:1890051801:0594/pct:27.2953239086531,62.374144541187434,12.386722593340583,4.1062023003332255/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -87,7 +87,7 @@ cTion of tbe Pre fide qt of tke United
 States thereon, fliall be made known ;  
 and to appoint and com m
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804010401:0002/pct:21.965940935546453,47.14538765499387,18.04268161241647,19.117045919062544/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804010401:0002/pct:21.965940935546453,47.14538765499387,18.057052525688007,19.1352136985057/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -132,7 +132,7 @@ the firft Monday of evety month, and
 continue till all the bufinefs depending  
 bsfore them fhall be difpofed of. The
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804010401:0002/pct:40.56908816555292,11.949856928736885,18.495365380469927,22.455375391742745/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804010401:0002/pct:40.56908816555292,11.949856928736885,18.502550837105698,22.464459281464322/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -195,7 +195,7 @@ into one, where their proximity, or cafe
 of intercourfe, will permit, without in­  
 jury to the inhabitant* thereof. Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804010401:0002/pct:40.655313645182154,56.27469682518054,18.1289070920457,35.44079574873961/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804010401:0002/pct:40.66968455845369,56.28378071490212,18.1289070920457,35.4453376936004/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -686,7 +686,7 @@ der the territory, or the United Si
 The » overnor, by and with&#x27;advice a &gt;d  
 Co Sent of the Said legislative council
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804022901:0003/pct:56.96003150226422,51.27258341025979,16.518999803110848,10.760912567585388/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804022901:0003/pct:56.96003150226422,51.27697920787727,16.52556277482444,10.774099960437821/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -711,7 +711,7 @@ and who shall have resided one year, at
 least, in the said territory, and hold nn of.  
 lice ol profit under the territory, or il.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804031401:0045/pct:79.61612284069098,24.437215354586858,17.79270633397313,7.338972023422251/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804031401:0045/pct:79.60084436768375,24.434035909445747,17.795688607432993,7.342354063665539/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -736,7 +736,7 @@ profit under the territorg, or the United
 States... The. governors by and with ad­  
 vice_and consent of the said legislativ
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804032701:0464/pct:43.60808709175739,81.29789504316616,17.091757387247277,8.274323406731982/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804032701:0464/pct:43.618455158113015,81.29789504316616,17.09694142042509,8.280790248003363/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -802,7 +802,7 @@ herein otherwife provided for, and which
 fl.aH be eftablifhed by la-A He fliall  
 take care that the taws be faithfully ex
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804033001:0002/pct:21.344575105391613,0.7129147244310392,38.78411360106501,96.09267891417603/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804033001:0002/pct:21.351971008061533,0.7129147244310392,38.78411360106501,96.09724888035828/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -829,7 +829,7 @@ one year, at leaft, in the faid territory,
 and hold no office of profit under the  
 territory, or the United States. Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804033001:0002/pct:41.00288440204127,45.42089388538525,18.593299312181053,9.199341924869756/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804033001:0002/pct:41.01767620738111,45.4254638515675,18.593299312181053,9.199341924869756/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -866,7 +866,7 @@ fnft Monday of every month, and con­
 tinue till all the bufinefs depending be­  
 fore them, fhalj be dil&#x27;pofed of. The
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804033001:0002/pct:41.047259818060795,78.95530573073759,19.25893055247393,16.438168357554154/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804033001:0002/pct:41.054655720730715,78.95530573073759,19.25893055247393,16.451878256100905/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -899,7 +899,7 @@ before the Prefident of the United
 States, or before a judge of the fupreme  
 or diftrift court of the United Si.au s, o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804033001:0002/pct:60.6168182826714,9.28160131615026,19.236742844464167,13.353441184535235/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804033001:0002/pct:60.62421418534132,9.28160131615026,19.251534649804007,13.367151083081986/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -941,7 +941,7 @@ are not herein otherwise provid* *1 for, and
 which shaP he **stahlislied hy law. ITe  
 shall take care that the laws he faithfully
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804040701:0085/pct:3.7979564295353767,20.89414858645628,18.218623481781375,18.829717291255754/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804040701:0085/pct:3.797224363916731,20.891401525111753,18.22153687997944,18.83162415636778/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -961,7 +961,7 @@ vacancy of the office of governor, the go.
 vernnient of the said territory shall de­  
 volve on the secretary
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804040701:0085/pct:3.8172353961827645,46.52202498356345,18.045112781954888,4.62853385930309/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804040701:0085/pct:3.8164996144949885,46.515908493294766,18.04805962477512,4.632307827154001/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -987,7 +987,7 @@ fice of p&#x27;-nfi: under the territory, or the
 United States. The governor, bv and  
 wj’h advice and consent of the said legis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804040701:0085/pct:3.7786774628879893,51.20315581854043,18.25718141507615,8.060486522024984/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804040701:0085/pct:3.7779491133384733,51.196423875887454,18.260087381135953,8.063809273380665/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1013,7 +1013,7 @@ ed for those of another. The governor
 shall publish throughout the said territo­  
 ry. all the Iaw3 which shall be made, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804040701:0085/pct:3.85579332947754,61.95923734385273,18.083670715249664,8.034188034188034/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804040701:0085/pct:3.8550501156515034,61.95109124375493,18.08661012593164,8.037514243141379/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1050,7 +1050,7 @@ Mty til&#x27; all ’hebusiness&lt;leoendingbefore
 :&#x27;em. shall bo disposed of. Thev sb.-,il  
 . • ■ • it their own clerk. In all crimina
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804040701:0085/pct:2.255639097744361,80.27613412228797,19.79949874686717,15.7922419460881/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804040701:0085/pct:2.2552043176561294,80.26557980541678,19.802107427396557,15.794548163730388/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1085,7 +1085,7 @@ o&#x27;her person as the President of the Unit­
 ed States shall authorise to administer the  
 same; &#x27;lie secret
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804040701:0085/pct:22.82629651050704,21.23602892833662,18.12222864854444,14.017094017094017/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804040701:0085/pct:22.8218966846569,21.233236918222456,18.125160627088153,14.019633622578667/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1506,7 +1506,7 @@ appointments are not herein ot erwife
 provided for, and which shall be est  
 tablifhed by law. He shall take car
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804070301:0519/pct:24.361158432708688,32.638486778614165,16.83444323989469,21.057710866628064/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804070301:0519/pct:24.36632078880801,32.64492054300972,16.849930308192658,21.064144631023613/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1549,7 +1549,7 @@ fions or worfbip ; in all&#x27;which he shall
 “be free to maintain his own, ,and not.  
 burthened for those of another. Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804070301:0519/pct:24.361158432708688,64.88129704690215,16.9893139228744,19.09862960818375/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804070301:0519/pct:24.36632078880801,64.88129704690215,16.999638635073048,19.101846490381522/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1594,7 +1594,7 @@ all cases,” criminal and civil, in the
 {uperior court, the trial shall be by a  
 jury, if either of the parties requir
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804070301:0519/pct:41.84605854111817,20.333912372128932,16.431779464147436,20.604130476741943/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804070301:0519/pct:41.85122089721749,20.333912372128932,16.436941820246762,20.61056424113749/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1629,7 +1629,7 @@ Statés, or before a judge of the su­
 preme or diftri&amp; court of the United  
 States, or before such other person a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804070301:0519/pct:41.84605854111817,46.216946535417875,16.431779464147436,13.665315576143602/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804070301:0519/pct:41.85122089721749,46.216946535417875,16.442104176346085,13.678183104934698/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1652,7 +1652,7 @@ thole of another ; And provid:d o/fo; That
 in all eriminal prosecutions, the trial shall  
 be by ajury of tweive gocd and lawful me
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804070301:0519/pct:76.42868205048784,29.666087627871068,16.075576893294098,5.105192047867207/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804070301:0519/pct:76.43384440658717,29.666087627871068,16.075576893294098,5.105192047867207/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1690,7 +1690,7 @@ vil, and of the militia, whofe appointments are not
 herein otherwife provided for, and which lhall be eftab­  
 lilhtd by law. He lhall take care that the laws b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804071401:0088/pct:40.314419949403685,28.04938887503118,17.564148897723165,12.484410077326016/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804071401:0088/pct:40.30713640469738,28.04589100885397,17.566997892201144,12.487010017874216/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1723,7 +1723,7 @@ fes, of the value of one hundred dollars. Its ftffions
 fhall commence on the firft Monday of every month, &amp;  
 I continue till all the hufinpf. depending hcf.rc iiim
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804071401:0088/pct:39.953017708709794,63.781491643801445,18.070112034694613,9.865303068096782/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804071401:0088/pct:39.94579945799458,63.77353784761192,18.072869617585066,9.868229621316042/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1753,7 +1753,7 @@ nned States, or before fuch other perfon as thv Prcfi­
 dent of the United States ftiall anthnrife to adminifter  
 the f
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804071401:0088/pct:39.953017708709794,79.63332501870791,17.92555113841706,8.58069343976054/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804071401:0088/pct:39.94579945799458,79.62339443820925,17.928334838903943,8.58378018871846/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1809,7 +1809,7 @@ appoint all the officers nectffary therein
 in comormry with the ordinance of  
 Congrefs, mad* ou the thirteenth day o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805031501:0002/pct:41.74192253662452,84.93299038852038,16.877383102548666,4.954650060917829/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805031501:0002/pct:41.74861194728744,84.93299038852038,16.877383102548666,4.963674924416768/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1863,7 +1863,7 @@ minal prosecutions, the trial shall he by a .
 }urv of twelve good and lawful men of the I  
 j &#x27;icin age, and in all civil esses of the value 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805040301:0127/pct:57.189542483660134,29.69346138665965,18.781237985390234,8.156821470859098/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805040301:0127/pct:57.17855083605612,29.689555380163114,18.78403485168813,8.160133298254845/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1880,7 +1880,7 @@ ed in the MifliOippi territory, and (hall, in the
 recefr, ot the Smate, but to be nominated at  
 their next meeting, for their advice and confent
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1805040901:0420/pct:22.131887985546523,63.239524702939335,17.289972899728998,1.7886178861788617/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1805040901:0420/pct:22.127890173410403,63.23161580790395,17.29287090558767,1.792562948140737/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1913,7 +1913,7 @@ registers in the several offices established
 for the disposal of the lands of the United  
 States, north nf the river Ohio and abov
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805041001:0139/pct:1.9181835975729105,66.57873911896597,17.615971814445096,11.843840675283566/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805041001:0139/pct:1.917808219178082,66.56995911908216,17.61904761904762,11.846674579102379/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1951,7 +1951,7 @@ those against the United States, until the de­
 cision of the Presidentthereon shall be known.  
 Sec. 2. There shall be a secretary, whos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805050301:0485/pct:50.78492935635793,27.41830065359477,22.344322344322343,17.45098039215686/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805050301:0485/pct:50.7716453047345,27.413821271034145,22.345017002354172,17.452213690573437/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1976,7 +1976,7 @@ also, that in ail criminal prosecutions, the trial
 shall be by a jury of twtlve good and lawful  
 men of the vicinage, and in all civil cases o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805050301:0485/pct:50.86342229199372,59.26470588235294,22.213500784929355,8.006535947712418/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805050301:0485/pct:50.85011770860581,59.255023688939715,22.214229662568663,8.009312203888253/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1997,7 +1997,7 @@ of the United States, in the recess of the se­
 nate, but shall be nominated at their next  
 meeting for their advice and consent
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805050301:0485/pct:74.04500261643119,15.833333333333334,22.422815279958137,5.065359477124183/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805050301:0485/pct:74.02563431859797,15.83074661003104,22.423489406225478,5.068616239176605/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2184,7 +2184,7 @@ ted States : He shall be commander
 in chief of the militia of the said ter­  
 ritory, fuperintendant ex cfficio of In
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1805070901:0109/pct:59.93145349742951,23.921375921375923,16.606948122760553,12.855036855036856/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1805070901:0109/pct:59.936646414290905,23.92792792792793,16.606948122760553,12.861588861588862/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2212,7 +2212,7 @@ voked by the President of the United
 States, who shall reside in the said  
 territory, and whose duty it shall b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1805070901:0109/pct:60.02492600093473,36.73710073710074,16.18632185698707,9.523341523341523/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1805070901:0109/pct:60.03531183465753,36.743652743652746,16.19151477384847,9.516789516789517/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2235,7 +2235,7 @@ ship, §n all of which he shall be free to
 maintain his own and not be burthen­  
 ed with those of another. And pro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1805070901:0109/pct:60.02492600093473,60.353808353808354,16.77831437918679,5.336609336609337/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1805070901:0109/pct:60.03531183465753,60.36036036036036,16.77831437918679,5.33988533988534/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2254,7 +2254,7 @@ by the President of the United States,
 nominated at their next meeting for  
 their advice and consent. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1805070901:0109/pct:77.09923664122137,38.55528255528255,16.606948122760553,3.312039312039312/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1805070901:0109/pct:77.10962247494417,38.55528255528255,16.606948122760553,3.312039312039312/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2278,7 +2278,7 @@ tern boundary of the said cession, shall con
 stimtethe territory of Orleans.”  
 | The only question, that was left, for th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810120801:0258/pct:40.53856017585638,56.351152525747914,17.750503755266532,5.6645414418832765/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810120801:0258/pct:40.53113553113553,56.3442442074292,17.753357753357754,5.667933472273303/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2352,7 +2352,7 @@ militia, whose appointments are not herein
 otherwise provided for, which shall he esta­  
 blished by law; shall take care that th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812062201:0194/pct:8.976157082748948,12.299896349188069,16.54978962131837,10.134746055510767/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812062201:0194/pct:8.974583698510079,12.298479963150621,16.552731522056675,10.137417472746813/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2401,7 +2401,7 @@ ing shall be disposed of, or for such time as
 s all be prescribed by the general assembly.  
 The superior and interior courts shall res
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812062201:0194/pct:26.227208976157083,36.70390418058275,16.26928471248247,18.565012092594724/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812062201:0194/pct:26.222611744084137,36.69967756794104,16.272275781478236,18.566712728389376/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2426,7 +2426,7 @@ ons, professions or mode of worship, in all
 which he shall be free to maintain his own,  
 and not htirthened for those of another_
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812062201:0194/pct:43.12762973352034,12.864217436369918,16.49719495091164,5.769895197512381/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812062201:0194/pct:43.12007011393514,12.86273606632888,16.500146070698218,5.773069246123138/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2572,7 +2572,7 @@ and reprieves for those against the United states,un.
 til the decision of the President of the United States  
 thereon shall be made known; shatl have power o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812101501:0704/pct:49.67191601049869,24.53634830903501,21.40748031496063,4.056332440741842/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812101501:0704/pct:49.67738407699038,24.53634830903501,21.418416447944008,4.062944229561308/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2596,7 +2596,7 @@ mit authentic copies of the same every six months
 vacancy of the oflice of goyernor, Uie gavernment  
 of the said ‘erritory shall be executed by the secretury
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812101501:0704/pct:49.360236220472444,31.43905583655658,21.8503937007874,5.851433105226619/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812101501:0704/pct:49.36570428696413,31.43905583655658,21.861329833770778,5.858044894046084/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2628,7 +2628,7 @@ the general assembly. The superior and inferior
 courts shall respectively sppoint their elerhfwlxb v  
 shill he commissioned b&amp; the governor and shal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812101501:0704/pct:72.3753280839895,35.04909253198453,22.45734908136483,10.830110086283844/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812101501:0704/pct:72.38626421697288,35.04909253198453,22.446412948381454,10.83672187510331/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2658,7 +2658,7 @@ mode of worship, in all which he shall be fice to
 maintain hiz own, snd not burthened for those of a­  
 nother. Weligion, morality and know bdn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812101501:0704/pct:74.4258530183727,79.58940791431122,22.34251968503937,9.78875334721809/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812101501:0704/pct:74.4258530183727,79.59271380872094,22.347987751531058,9.792059241627822/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2688,7 +2688,7 @@ si n til oflh-ers civil and of the rntlitia, whose ap- j
 p111Vmcuts are not herein otherwise provided for,  
 which shall be established by law ; shall take car
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812103001:0206/pct:6.5291479820627805,8.286161628327111,17.45291479820628,7.455136697579189/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812103001:0206/pct:6.527977044476327,8.285163776493256,17.455762792922048,7.4582530507386/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2713,7 +2713,7 @@ burthened for those of another. Religion, morality
 and knowledge being necessary to good government  
 end the happiness of mankind, schools and the mean
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812103001:0206/pct:24.19730941704036,42.020956280862336,17.004484304932735,5.15476333855233/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812103001:0206/pct:24.192969870875178,42.01589595375722,17.007412721186036,5.15815671162492/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2848,7 +2848,7 @@ prieves for those against the United States, un­
 til the decision of the President thereon shall  
 bave been made known ; shall, on extraordina
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010832:1819070601:0469/pct:5.314213412062421,31.52535735265322,16.772107408969493,9.105149794399843/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010832:1819070601:0469/pct:5.314213412062421,31.528620847203186,16.78147991939641,9.111676783499771/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3132,7 +3132,7 @@ pointments are not herein otherwise provid­
 ed fory and which shall be established by law :  
 he shali take care that the lyws be faithiull
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1822042401:0266/pct:2.6195899772209565,27.78180938558297,20.91875474563402,16.473149492017416/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1822042401:0266/pct:2.6322450012655025,27.789872601193355,20.91875474563402,16.47718109982261/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3165,7 +3165,7 @@ The Governor and Legislative Council shall
 have no power over the primary dupossl of  
 the soil, nor to tax the lands of the Unite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1822042401:0266/pct:2.8663629460895974,69.82341557813255,20.671981776765374,13.183357522980165/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1822042401:0266/pct:2.8726904581118706,69.82744718593776,20.684636800809923,13.195452346395742/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3197,7 +3197,7 @@ United Stetes, and for the faithful discharge
 of the duties of their office ; the Governor,  
 before the President of the United States, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1822042401:0266/pct:24.75322703113136,61.998064828253504,20.577069096431284,11.98597000483793/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1822042401:0266/pct:24.75322703113136,61.998064828253504,20.596051632498103,12.0020964360587/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3282,7 +3282,7 @@ of four yeats, enless sooner removed by the
 President of the Univ-d States, whose duty it  
 shall be, under the direction of the Governor,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1822052801:0501/pct:6.19876312383144,24.116260801256875,16.496476341147705,16.260801256873528/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1822052801:0501/pct:6.20355721750803,24.12280701754386,16.491682247471115,16.267347473160513/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3326,7 +3326,7 @@ Council shall have no power over the primary
 disposal of the soil, nor to tax the lands of the  
 United States, nor to int
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1822052801:0501/pct:6.2275276858909825,49.852710133542814,16.88479792895153,16.45718774548311/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1822052801:0501/pct:6.2275276858909825,49.852710133542814,16.899180209981303,16.470280178057084/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3358,7 +3358,7 @@ There shall be a superior court for that part of
 the territory known as East Florida, to consist  
 of one judge ; he shall hold a court on the firs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1822052801:0501/pct:6.285056810010068,69.0593087195601,16.740975118653818,9.74076983503535/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1822052801:0501/pct:6.294644997363249,69.0593087195601,16.740975118653818,9.74076983503535/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3400,7 +3400,7 @@ and for the faithful discharge of the duties of
 their office ; the Governor, before the President  
 of the United States, or
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1822052801:0501/pct:23.572558607795198,29.438334642576592,16.467711779088162,14.326394344069127/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1822052801:0501/pct:23.57735270147179,29.441607750720085,16.467711779088162,14.336213668499607/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3750,7 +3750,7 @@ four years, unless sooner removed by the Pre­
 sident of the United States; whose duty it  
 shall be, under the directien of the Governor,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015143:1823042201:0061/pct:5.393586005830904,18.854507015183547,16.50145772594752,21.362675379588698/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015143:1823042201:0061/pct:5.393586005830904,18.857710295342432,16.506316812439263,21.365878659747583/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3793,7 +3793,7 @@ and shall, on or before the first of December,
 in each vear, report the same to the President  
 of the United States, to be laid before Con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015143:1823042201:0061/pct:5.437317784256559,49.23121276186815,16.41399416909621,15.145108591197387/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015143:1823042201:0061/pct:5.442176870748299,49.23121276186815,16.41399416909621,15.148311871356269/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3821,7 +3821,7 @@ ces of the Peace, as the Legislative Council of
 the territory, may from time to iime, establish,  
 There shall be a superior court for that par
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015143:1823042201:0061/pct:5.510204081632653,82.88487411108976,16.370262390670554,7.418796847972324/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015143:1823042201:0061/pct:5.510204081632653,82.88807739124864,16.389698736637513,7.415593567813441/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3843,7 +3843,7 @@ and with the advice and consent of the Senate.
 All judicial officers shall hold their offices for  
 the term of four years, and no longer. Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015143:1823042201:0061/pct:22.682215743440235,56.7749375360369,16.107871720116616,4.189890447818566/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015143:1823042201:0061/pct:22.682215743440235,56.781344096354665,16.112730806608358,4.189890447818566/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4014,7 +4014,7 @@ Slates thereon shall he made known: and
 to appoint and commission, l.y and with  
 the consent of the Legislative id,until, al
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1823050901:0316/pct:33.201168614357265,7.953882078225336,15.108514190317194,12.901342673671921/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1823050901:0316/pct:33.19424160233674,7.952721435867503,15.110577926142291,12.90310812782723/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4046,7 +4046,7 @@ account of hi* religions opinion&#x27;, profex
 ■dons, or worship. The (iovcrrtur shall  
 publish. Ihroiighont the said ten dory, ali
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1823050901:0316/pct:33.13856427378965,43.622300058377114,15.171118530884808,10.405720957384705/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1823050901:0316/pct:33.13165032338827,43.61593462717058,15.173169205090757,10.407850576389903/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4317,7 +4317,7 @@ ry all the laws which shall be made, and shall, on
 or before the first day of December, in each yearre­  
 port the same to the President of the United States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184595:1841080201:0688/pct:209.96703814157902,44.63751438434983,39.28739601318475,18.619102416570772/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184595:1841080201:0688/pct:69.97802887633397,14.877459440800829,13.0937434609751,6.205653357879799/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4347,7 +4347,7 @@ ll the laws which shall be made; and shall, on of
 before the first day of December, in each year, ree  
 off the same President of the Unite I States, to te
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186427:1841080501:0834/pct:139.58086200079083,181.63795905102373,38.724133386055094,21.85028707615643/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186427:1841080501:0834/pct:46.52082235108065,60.5394280762565,12.906343349147777,7.28264009243212/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4453,7 +4453,7 @@ consistent with the Constitution and laws of th
 • eminent whereof shall he organized and ad­  
 ministered as follows,” Sic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183700:1845011601:0216/pct:6.617320503330866,27.5951362305787,14.62620281273131,6.7439765818509345/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183700:1845011601:0216/pct:6.616341030195382,27.592029719689293,14.628971778172488,6.746969867537244/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4487,7 +4487,7 @@ ry of Orleans; the Government whereof shall be organized
 and administered as follows,&quot; &amp;.  
 In the 12th section is the following
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530212:1845041101:0551/pct:2.1721769685353776,203.36369156041286,42.05398498642389,12.750455373406194/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530212:1845041101:0551/pct:0.7240589895117926,67.78789718680429,14.01799499547463,4.250151791135398/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4544,7 +4544,7 @@ The office of Marshal, United States District Attorney,
 Auditor of Public Accounts, and Treasurer for the Territory,  
 and a SherifTand Coroner for each county, whote duties shal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1847013001:0494/pct:36.33575013943112,52.838427947598255,15.407138873396542,7.8154741910200425/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1847013001:0494/pct:36.340397843465325,52.84589258388385,15.402491169362335,7.819206509162841/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4569,7 +4569,7 @@ The office of Marshal, United States District Attorncy,
 Auditor of Public Accounts, and Treasurer for the Terri­  
 tory, and a Sheritl and Coroner for each county, whos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184649:1847020101:0112/pct:215.76440017323517,128.48675034867503,38.34271690486502,13.261273826127383/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184649:1847020101:0112/pct:71.91108545034642,42.82393957001743,12.779060816012317,4.41991090451288/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4603,7 +4603,7 @@ District Attorney! Auditor of Public Ac­
 counts, and Treasurer for the Territory,  
 and Sheriff and Coroner for each count
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn89080032:00415668132:1847021601:0139/pct:13.628318584070797,95.2718161019719,42.389380530973455,35.88626212005665/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn89080032:00415668132:1847021601:0139/pct:4.5434429856911045,31.75727203399063,14.131877858091164,11.962087373352217/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4625,7 +4625,7 @@ latitude, to extend west to the western boundary of the
 lornl said cession, shall constitute a Territory under the name tonms  
 iders of the Territory of Orleans.&quot; Under which act he might one o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661150:1847031101:0252/pct:60.49265750828991,21.30316518298714,19.011526922469603,3.7833827893175074/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661150:1847031101:0252/pct:60.49265750828991,21.30728651500165,19.011526922469603,3.7833827893175074/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4651,7 +4651,7 @@ Ac. It extends the laws of the United States over
 the Territory, and erects a U. S. District Court therein.  
 ( It re-enacts all the laws in force in the territory, if no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014405:00415660923:1847101801:0188/pct:30.12295081967213,60.78345711373235,15.741430700447093,6.028833551769331/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014405:00415660923:1847101801:0188/pct:30.12295081967213,60.79316538032134,15.76005961251863,6.028833551769331/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4674,7 +4674,7 @@ to ihe western boundary of s:\id session phnll consti|
 iute a territory of the United States under the name  
 of the territory of Orleans.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014405:00415660923:1847123101:0432/pct:17.305875684866805,50.72762016757313,13.451728698280748,3.851242099073938/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014405:00415660923:1847123101:0432/pct:17.318470936456954,50.732519966681366,13.458026324075824,3.8561418981821745/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4725,7 +4725,7 @@ established by law.
 
 ---
 
-## [From _The American review : a Whig journal of politics, literature, art, and science_](https://archive.org/details/sim_american-whig-review_1849-12_10_24/page/n8/mode/1up?view=theater)
+## [From _The American Review: a Whig Journal Devoted to Politics and Literature (1848-1850)_](https://archive.org/details/sim_american-whig-review_1849-12_10_24/page/n8/mode/1up?view=theater)
 
 #### 1849-12-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -4767,7 +4767,7 @@ all which he shall be free to maintain his own, and not
 burdened for those of another.&quot;  
 &quot; The constitution and laws of the United States ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850010801:0036/pct:46.916124940542254,60.66708621774701,15.538290788013319,4.229074889867841/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850010801:0036/pct:46.92141007346335,60.66708621774701,15.543575920934412,4.241661422278162/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4794,7 +4794,7 @@ their offices for the term of four years, unless sooner removed
 by the governor: the superior court shall consist of three  
 judges, who shall reside iu the said Territory, any two o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850011301:0054/pct:79.58584705690527,23.15270935960591,15.86499266264471,5.557660730074523/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850011301:0054/pct:79.59128213489863,23.16113005768178,15.881297896624817,5.557660730074523/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4821,7 +4821,7 @@ and exclusive jurisdiction in all those that are capital, and
 original and appellate jurisdiction in all oivil oases of tha  
 value ot at least one hundred dollars. The sessions of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850011301:0054/pct:79.48801565302462,29.20298092711886,15.86499266264471,5.380826070481243/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850011301:0054/pct:79.48801565302462,29.207191276156795,15.881297896624817,5.380826070481243/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4850,7 +4850,7 @@ ship; in all which he shall be free to maintain his own,
 and not burdened for those of nno her. Religion, morality,  
 and knowledge being neoessary to good government an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850011301:0054/pct:79.4390999510843,83.44069723380068,15.685635088863526,6.340785651130479/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850011301:0054/pct:79.44453502907767,83.44490758283862,15.680200010870156,6.344996000168414/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5013,7 +5013,7 @@ S&gt;c 3 And be it further enacted, That there shall be a
 secretary of the Territory of California, whose commission  
 shall continue in foice for four years, or until the said Ierri
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1850011901:0060/pct:34.0838193408382,59.32149984245353,15.299064152990642,6.438399327801702/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1850011901:0060/pct:34.0838193408382,59.3250008752582,15.317148153171482,6.445401393411056/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5035,7 +5035,7 @@ their offices&#x27;l&#x27;or the term of four years, unless sooner removed
 by the Governor; the superior court shall consist ol three  
 judges, who shall reside in the said Territory, any two o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1850011901:0060/pct:49.559202495592025,43.67188320554563,15.35331615353316,3.613065854427056/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1850011901:0060/pct:49.56824449568244,43.67188320554563,15.357837153578371,3.623568952841088/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5078,7 +5078,7 @@ State* from among those holding real estate thereto, and who
 shall have resldenone rear at least in the said Territory, and  
 ! hold nn oftioe of proit under the Territory or the f nite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854061101:0788/pct:47.51680052450418,77.19143576826197,15.817079167349615,3.6146095717884132/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854061101:0788/pct:47.51680052450418,77.19983207388749,15.822542752554225,3.6146095717884132/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5101,7 +5101,7 @@ I mt?d States, shall be called the district of Lonisiana, the
 government whereof shall be organised and administered as  
 follows : The executive power now vested in the governor o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854061101:0788/pct:47.51680052450418,83.82871536523929,15.80068841173578,4.269521410579345/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854061101:0788/pct:47.52226410970879,83.83711167086481,15.80068841173578,4.269521410579345/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5121,7 +5121,7 @@ For the Territory of Missouri. Act passed 1812, lection
 four:  
 &quot;An act providing for the government of the Territory o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854061101:0788/pct:63.448614981150634,14.080604534005039,15.636780855597443,3.1486146095717884/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854061101:0788/pct:63.448614981150634,14.0848026868178,15.658635196415888,3.152812762384551/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5147,7 +5147,7 @@ in all these territorial organizations, in addition to the af­
 firmatively-conferred power*, they have important powers  
 conferred by the following clause, which will he found i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854061101:0788/pct:63.169972135715454,33.211586901763226,15.75151614489428,5.390428211586902/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854061101:0788/pct:63.18089930612468,33.21998320738875,15.746052559689668,5.390428211586902/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5199,7 +5199,7 @@ of the United States, from among those
 &#x27; said Territory, and hold no office of  
 &#x27; profit under the Territory or the Unite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1856061201:0529/pct:51.45278450363196,19.41198643045609,11.840193704600484,5.163965322276668/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1856061201:0529/pct:51.45682001614205,19.4182686267119,11.844229217110573,5.167106420404574/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5253,7 +5253,7 @@ those of another.&quot; The Governor shall have power to cou­
 vene and urorouge the legislative council, Ac.  
 This section met with ihe most violent opposition, fro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022755:1856073001:0244/pct:24.037834311806915,54.89210397253556,19.89562948467058,7.503678273663561/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022755:1856073001:0244/pct:18.042414355628058,41.17214320745463,14.926590538336052,5.62775870524767/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5271,7 +5271,7 @@ Louistana, the Government whereof shall be organized
 and soministered as follows:  
 &quot;The Executive power now vested in the Governo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530522:1856110501:0243/pct:104.42260442260442,67.22968954442726,46.65028665028665,6.090162959438563/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530522:1856110501:0243/pct:34.80753480753481,22.409896514809088,15.55009555009555,2.0300543198128542/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5407,7 +5407,7 @@ have jurisdiction in&quot;all ciiminal cases, and
 exclusive jurisdiction of all oflences the  
 punishment of which is capital, and origi-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237283508:1862012901:0501/pct:54.18221393034826,106.50858342596023,14.319029850746269,22.87266888971224/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237283508:1862012901:0501/pct:40.653188180404356,79.88143756947018,10.746500777604977,17.16685192046437/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5428,7 +5428,7 @@ The superior court shall consist of five judzes, a ma
 im. It shall ha  
 sive jurisdiction of al
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basic_ver01:data:sn83030213:00206530704:1862013001:0204/pct:157.61743168422933,128.68119410505102,41.88247901410966,8.174833102405845/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basic_ver01:data:sn83030213:00206530704:1862013001:0204/pct:52.539143894743106,42.89373136835034,13.960826338036554,2.724944367468615/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5512,7 +5512,7 @@ and justices of the peace as the legisla­
 tive council of the territory may from  
 time to time establish.&quot; This it wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_hummingbird_ver02:data:sn96060682:00211106839:1886051201:0444/pct:25.264550264550266,80.68997099679439,18.562610229276896,4.152037856815753/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_hummingbird_ver02:data:sn96060682:00211106839:1886051201:0444/pct:18.967798853109837,60.5251106701267,13.939126599029555,3.114028392611815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5546,7 +5546,7 @@ cases, where the Judge had discretion, and no
 cruel or unusual punishments were to be in­  
 flicted. All laws in force in the Territory, no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043020:1898082101:0060/pct:66.41394996209249,256.64918235112617,50.79605761940864,19.561863622338784/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043020:1898082101:0060/pct:16.612933813768255,64.16229558778154,12.706239332448321,4.890465905584696/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5571,7 +5571,7 @@ majority of the legislative council, the gov­
 ernor was empowered to alter, modify or  
 repeal any laws of the territorv which wer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dred_ver01:data:sn86063615:0021110918A:1898112701:0254/pct:56.871234939759034,104.0979097909791,16.64156626506024,5.156765676567657/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dred_ver01:data:sn86063615:0021110918A:1898112701:0254/pct:42.682237709549824,78.08030803080308,12.488227538142777,3.864136413641364/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

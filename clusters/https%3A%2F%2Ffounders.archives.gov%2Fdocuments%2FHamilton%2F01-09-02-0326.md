@@ -504,7 +504,7 @@ tor thefupport, maintenance and repairs of light-houses, beaconsj
 piers, flakes and buoys ; for converting the beacon of Georgia in­  
 to a hght-houfe ; for printing the several descriptions of treasur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790011901:0001/pct:35.23479357075323,56.59233176838811,27.89158525055153,2.797339593114241/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790011901:0001/pct:35.2505515285219,56.60700312989045,27.88370627166719,2.797339593114241/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -545,7 +545,7 @@ ensuing year,
   
 Civil Lift, as per No. i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790011901:0001/pct:34.73053892215569,66.88184663536776,28.04916482823826,16.490610328638496/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790011901:0001/pct:34.73053892215569,66.88673708920187,28.064922786006935,16.50039123630673/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -563,7 +563,7 @@ tor thefupport, maintenance and repairs of light-houses, beaconsj
 piers, flakes and buoys ; for converting the beacon of Georgia in­  
 to a hght-houfe ; for printing the several descriptions of treasur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791011901:0001/pct:35.23479357075323,56.59233176838811,27.89158525055153,2.797339593114241/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791011901:0001/pct:35.2505515285219,56.60700312989045,27.88370627166719,2.797339593114241/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -604,7 +604,7 @@ ensuing year,
   
 Civil Lift, as per No. i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791011901:0001/pct:34.73053892215569,66.88184663536776,28.04916482823826,16.490610328638496/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791011901:0001/pct:34.73053892215569,66.88673708920187,28.064922786006935,16.50039123630673/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -626,7 +626,7 @@ executing the duties of their several
 offices, from the commencement of the  
 fame to the firft day of O&amp;tober next
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791040901:0779/pct:28.87982729671384,65.62847608453838,20.508515231470376,6.689972985857302/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791040901:0779/pct:28.89581834172863,65.63906986598866,20.508515231470376,6.684676095132158/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -763,7 +763,7 @@ Dollars, 1,058,222. Bi|
 Treasury Department,  
 Reg]icr*s Nov. 4, 1791
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1791111001:0003/pct:30.931549150797736,5.226282900965726,35.151827071538854,85.85495171369058/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1791111001:0003/pct:30.93798250128667,5.235750804771824,35.17112712300566,85.85968566559363/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -833,7 +833,7 @@ V)
   
 General Ejlimate for the Services of the enfuitig Year
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791111601:0001/pct:29.450757575757574,19.907496627481212,34.72222222222222,29.870880709192523/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791111601:0001/pct:29.450757575757574,19.91713239545192,34.753787878787875,29.86606282520717/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -881,7 +881,7 @@ Annual allowance to invalids, 87,463. 60J
 For formtr deficient appropriations, 47,829. 84  
 Indian departmeut, - . 39&gt;424-7 i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791111601:0001/pct:30.33459595959596,50.973212565041436,28.251262626262626,28.32915783387936/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791111601:0001/pct:30.35037878787879,50.987666216997496,28.25915404040404,28.338793601850067/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1035,7 +1035,7 @@ Treasury Department,
 Recisteßr’s OrFice, Nov. 4, 1791.  
 JOSEPH NOURSE, Register
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791113001:0915/pct:5.243538767395626,14.3879173290938,43.588469184890656,76.56597774244833/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791113001:0915/pct:5.243538767395626,14.398516163222046,43.59675281643472,76.5606783253842/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1289,7 +1289,7 @@ And be it further ena&amp;ed, That for discharging certain liqui­
 dated claims upon the United States, for making good deficien­  
 cies
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791122801:0002/pct:36.08279270929874,56.75043834015196,26.289774482545567,1.6559516851743619/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791122801:0002/pct:36.08279270929874,56.765049678550554,26.31294408402842,1.6559516851743619/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1310,7 +1310,7 @@ acts relative to the military eftablilhment, patted the twenty-ninth
 tie&#x27; i&quot;P&#x27;Cn&#x27;i Cr? °.uc ,t&#x27;lou&#x27;a&quot;d seven hundred and eighty-nine, and  
 t le thirtieth of April, one thousand seven hundied and ninety, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791122801:0002/pct:35.86654309545876,87.20046756282875,26.753166512202657,4.67562828755114/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791122801:0002/pct:35.86654309545876,87.21020845509449,26.784059314179796,4.690239625949737/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1333,7 +1333,7 @@ fubfillence of sundry officers of the late army,
 and for pay of the late Maryland line, for which  
 no appropiiations have been made
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791122801:0002/pct:64.967562557924,11.18254432105981,24.40531356194007,5.844535359438924/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791122801:0002/pct:64.98300895891258,11.18254432105981,24.413036762434352,5.844535359438924/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1359,7 +1359,7 @@ appropriations.
 JONATHAN TRUMBULL, Speaker  
 of the House of Representatives
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791122801:0002/pct:64.75131294408403,22.793687901811808,26.814952116156935,7.130333138515488/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791122801:0002/pct:64.7667593450726,22.803428794077536,26.82267531665122,7.1352035846483535/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1496,7 +1496,7 @@ line, for which no appro­
 priations have been made 10,490 36  
 For the payment of the an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1792012501:0948/pct:30.490510229233422,4.0218790218790215,43.75154054720237,88.01480051480051/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1792012501:0948/pct:30.50694273272533,4.027241527241527,43.75154054720237,88.00943800943801/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1526,7 +1526,7 @@ prior appropriations. 1
 JonaTHanw TruMBULL,  
 ’ Speaker of the House of Representatives
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1792012501:0948/pct:52.353956125215674,24.726512226512227,21.888094651220115,13.77091377091377/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1792012501:0948/pct:52.36217237696163,24.726512226512227,21.896310902966068,13.787001287001287/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1550,7 +1550,7 @@ Inent of certain officers of the courts, ju­
 of ten cutters, there lhall be appropriated a  
 futn of money not exceeding one hundre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792020201:0001/pct:73.61323935029114,31.232983274990275,21.115537848605577,7.001166861143524/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792020201:0001/pct:73.62090101133926,31.237845196421627,21.107876187557462,7.006028782574874/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1575,7 +1575,7 @@ thousand seven hundred and eighty-nine,
 and the thirtieth of April, one thousand  
 seven hundred and ninety, and for which
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792020201:0001/pct:73.98099908060067,81.54414624659665,20.90101133925835,7.662388175807079/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792020201:0001/pct:73.98866074164879,81.54414624659665,20.916334661354583,7.672112018669778/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1600,7 +1600,7 @@ pay and fubiittence of sundry officers of th&lt;
 line, for which no appropriations have bee1  
 made, ten thousand four hundred and nin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792020201:0002/pct:5.367490088441598,16.608050019538883,20.707532784385485,7.7178585384915985/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792020201:0002/pct:5.367490088441598,16.617819460726846,20.715157060079292,7.708089097303635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1627,7 +1627,7 @@ ing other prior appropriations.
 Jonathan Trumbull, Speaker of tki  
 Houje of Representatives
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792020201:0002/pct:5.794449527294907,37.534193044157874,20.616041476059774,9.300508010941774/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792020201:0002/pct:5.8020738029887164,37.54884720593982,20.638914303141203,9.295623290347793/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1703,7 +1703,7 @@ notice of a bill to repeal the entire code
 f laws passed at the first, second and  
 third sessions of the Legislature
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn82015486:00280760924:1859011301:0358/pct:9.845701689933872,24.608171466845278,16.82586333578251,8.586738111185532/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn82015486:00280760924:1859011301:0358/pct:7.388347730196655,18.459477561955794,12.64473442381915,6.443402545210985/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1720,7 +1720,7 @@ ings which he describes and comments upon,
 covers the periods of the first, second and  
 third sessions of the First Congress of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_graftonnotch_ver01:data:sn83016025:00414210958:1891080801:0052/pct:14.346238130021915,45.412186379928315,9.758948137326517,1.2903225806451613/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_graftonnotch_ver01:data:sn83016025:00414210958:1891080801:0052/pct:14.34414256500146,45.406761438298886,9.761174408413671,1.2931549396726796/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

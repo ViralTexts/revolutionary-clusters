@@ -80,7 +80,7 @@ fore me, John Green, a native of Eaftporr, Mafl­
 achufetts, who being {worn on the Holy Evan-.  
 selifts of the Almighty God, solemnly deposed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1813122801:0636/pct:6.3396442914515205,87.76796973518285,17.68502581755594,4.074110000970026/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1813122801:0636/pct:6.349206349206349,87.77443657645424,17.68502581755594,4.080576842241407/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -186,7 +186,7 @@ DiSE I now own in the City of Richmond aforesaid,
 for ready cash, but not on credit; and also any  
 MerCHAnDise I may hereafter own in said Cit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202191022:1858050101:0417/pct:47.80593325092707,214.02432461521903,37.45364647713226,9.557636422344205/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202191022:1858050101:0417/pct:15.935311083642357,71.34144153840634,12.484548825710753,3.185878807448068/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -215,7 +215,7 @@ D18e I now own in the City of Richmond aforesaid,
 for reade cash, but not on credit; and also any  
 MErCH ANDISE I may hereafter own in said Cit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202191022:1858050401:0426/pct:97.23423980222496,205.99504897212356,37.14462299134734,13.873641158109999/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202191022:1858050401:0426/pct:32.41141326740832,68.66501632404119,12.381540997115781,4.624547052703333/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -239,7 +239,7 @@ DISE I now own in the City of Richmond aforesaid,
 for ready cash, but not on credit; and also any  
 MErCHAnDisE I may hereafter own in said Cit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202191022:1858050501:0430/pct:99.057478368356,209.13787536325475,37.08281829419036,9.665267463136368/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202191022:1858050501:0430/pct:33.019159456118665,69.71262512108493,12.360939431396787,3.221755821045456/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -263,7 +263,7 @@ DiSE I now own in the City of Richmond aforesaid,
 for ready cash, but not on credit; and also any  
 MErChanDise I may hereafter own in said Cit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202191022:1858050601:0434/pct:96.05995055624227,208.07232805941234,37.16007416563659,9.611451942740286/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202191022:1858050601:0434/pct:32.01998351874742,69.35744268647078,12.386691388545529,3.2038173142467623/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -287,7 +287,7 @@ D18E I now own in the City of Richmond aforesaid,
 for ready cash, but not on credit; and also any  
 MErChAnDise I may hereafter own in said Cit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202191022:1858051101:0450/pct:94.39122373300371,160.23033042729523,37.00556242274413,9.557636422344205/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202191022:1858051101:0450/pct:31.46374124433457,53.41011014243174,12.335187474248043,3.185878807448068/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -316,7 +316,7 @@ DISE I now own in the City of Richmond aforesaid,
 for ready cash, but not en credit; and also any  
 MErCHAnDiSe I may hereafter own in said Cit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202191022:1858051201:0454/pct:99.27379480840544,180.10978366160802,36.94375772558715,13.830588741793132/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202191022:1858051201:0454/pct:33.09126493613515,60.036594553869335,12.314585908529049,4.610196247264378/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -345,7 +345,7 @@ DISE I now own in the City of Richmond aforesaid,
 for ready cash, but not on credit; and also any  
 MErCHAnDiSE I may hereafter own in said Cit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202191022:1858051401:0462/pct:96.27626699629172,181.9933268754709,37.221878862793574,13.722957701000968/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202191022:1858051401:0462/pct:32.092088998763906,60.664442291823626,12.407292954264523,4.57431923366699/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -369,7 +369,7 @@ DiSE I now own in the City of Richmond aforesaid,
 for ready cash, but not on credit; and also any  
 MErCHanDiSe I may hereafter own in said Cit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202191022:1858051501:0466/pct:96.56983930778739,182.80055968141212,37.08281829419036,9.406952965235174/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202191022:1858051501:0466/pct:32.18994643592913,60.93351989380404,12.360939431396787,3.1356509884117245/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -387,7 +387,7 @@ dwelling in the city of New York, do herebg
 cortly that on the day of the date hereof  
 personally appeared before me, Burtoleme Blan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206533456:1874091501:0953/pct:56.10486891385768,251.39597718402882,49.51310861423221,5.884118883218253/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206533456:1874091501:0953/pct:14.031472461596103,62.848994296007206,12.382914949419257,1.4710297208045633/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -492,7 +492,7 @@ possession of lands, tenements and
 hereditaments and accept delivery  
 of all deeds and other assurances i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_brutus_ver02:data:sn85047084:00202195684:1892072801:0440/pct:9.925660792951541,9.189967105263158,32.28248898678414,118.29769736842105/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_brutus_ver02:data:sn85047084:00202195684:1892072801:0440/pct:7.44871265317362,6.897615131578948,24.218642434255816,88.7232730263158/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

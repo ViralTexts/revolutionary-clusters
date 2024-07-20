@@ -571,7 +571,7 @@ Like ih’ other loot, obliquely run;
 Thy firmness makes mv circles just.  
 And makes me end where 1 begun.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182987:1855020801:0027/pct:66.53969526864475,40.29789559989068,13.913392141138733,16.425252801311835/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182987:1855020801:0027/pct:66.52635798757267,40.29238967072004,13.915614351573462,16.426424374914607/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

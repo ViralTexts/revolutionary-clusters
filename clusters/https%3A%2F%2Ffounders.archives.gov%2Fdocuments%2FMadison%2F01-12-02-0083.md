@@ -430,7 +430,7 @@ country ; and that we add our own for the choicest
 of thole blelfings on the moll beloved of her citi­  
 zens
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789050901:0003/pct:3.83601756954612,6.189926951172626,51.53733528550512,87.60092272202999/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789050901:0003/pct:3.83601756954612,6.199538638985006,51.56661786237189,87.59131103421761/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -656,7 +656,7 @@ that we add our own for the choicest
 of those bleflings on the mo#t beloved  
 of her citizens
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789052101:0389/pct:50.83798882681564,7.399174341060654,41.923730871994174,83.32804064782471/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789052101:0389/pct:50.83798882681564,7.399174341060654,41.923730871994174,83.34391870435059/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -800,7 +800,7 @@ destiny of republican liberty.&quot; On these principles the
 government which makes us one people was put in mo-  
 tion, while the foundations of monarchy in France wer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271743403:1862022301:0438/pct:104.46963562753037,236.40765506110213,44.35627530364373,10.767811851510261/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271743403:1862022301:0438/pct:34.823211875843455,78.80255168703405,14.785425101214575,3.589270617170087/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -844,7 +844,7 @@ culties, to cherish a conscious responsi­
 bility for the destiny of republican lib­  
 erty.&quot; On these principles the govern
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn84022367:0041562833A:1862030601:0079/pct:69.92313915857605,28.17482133040132,19.457928802588995,7.394172622319956/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn84022367:0041562833A:1862030601:0079/pct:52.46863617968434,21.13798790544255,14.609469850263052,5.552501374381528/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -869,7 +869,7 @@ On these principles the Government which
 makes us one people was put in motion,  
 while the foundations of monarchy in Franc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009571:00279523891:1862030701:0459/pct:130.547686496695,44.25626740947075,76.92791942083727,239.5766016713092/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009571:00279523891:1862030701:0459/pct:43.50904799370574,14.750445632798574,25.638604773144504,79.84997029114676/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -890,7 +890,7 @@ many difficulties, to cherish a conscious responsi­
 bility for the destiny of republican liberty.&quot; On  
 these principles the Government which makes u
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280777006:1862030701:0038/pct:102.45353159851301,327.5934481310374,43.56877323420074,11.815763684726306/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280777006:1862030701:0038/pct:25.618144636549545,81.89836203275935,10.894218256181446,2.9539409211815766/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -949,7 +949,7 @@ conflict, and established by the virtue of the
 people, the greatness of the occasion invites  
 once more to repeat, with solemnity, the pledge
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deltaair_ver01:data:sn86053570:0023728897A:1865120501:0539/pct:323.8454288407163,82.45303084012761,49.764373232799244,21.41084721729883/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deltaair_ver01:data:sn86053570:0023728897A:1865120501:0539/pct:80.999528524281,20.613257710031903,12.446958981612447,5.3527118043247075/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1065,7 +1065,7 @@ strengthened by conflict, and established by
 the virtue of the people, the greatness of the  
 occasion invites us once more to repeat, wit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_halsted_ver02:data:sn82014064:no_reel:1865120601:0002/pct:40.35121206337087,3.7806898629311645,18.266844817713306,94.29130893206808/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_halsted_ver02:data:sn82014064:no_reel:1865120601:0002/pct:40.3559839664058,3.7882211176381984,18.262072914678374,94.29130893206808/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1094,7 +1094,7 @@ the virtue of the people, the greatness of
 the occasion invites us once more to repeat  
 with solemnity the pledges of our fathers t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_hypno_ver01:data:sn83045646:00279529182:1865120601:0535/pct:188.6996904024768,129.20241131463018,33.6687306501548,19.62670994667285/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_hypno_ver01:data:sn83045646:00279529182:1865120601:0535/pct:62.899896800825594,43.067470438210066,11.222910216718267,6.54223664889095/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1122,7 +1122,7 @@ fli t and established by the virtue of the people
 the greatness of the occasion invites us once  
 more to repeat, with solemuity, the pledges o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015464:00202191435:1865120601:0124/pct:248.87640449438203,288.7306391312088,43.164794007490634,22.787965105928432/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015464:00202191435:1865120601:0124/pct:62.22638417417769,72.1826597828022,10.79246166452066,5.696991276482108/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1149,7 +1149,7 @@ ed by conflict, and established by tho virtue of the
 people, the greatne-s of the occasion invites us once  
 more to repeat, with solemnity, the pledges of ou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009569:00296026165:1865120601:0220/pct:38.81481481481482,25.234263036048947,10.71111111111111,3.9135707198765295/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009569:00296026165:1865120601:0220/pct:38.81975308641975,25.241612464630876,10.71111111111111,3.9098960055855656/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1176,7 +1176,7 @@ by conflict and established by the virtue of the
 people, the greatness of the occasion invites us  
 once more to repeat, with solemnity, th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:00279525218:1865120601:0096/pct:63.10931174089069,91.96271101033005,10.850202429149798,5.291005291005291/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:00279525218:1865120601:0096/pct:63.09909326424871,91.95112734601335,10.852493523316062,5.2934878448167275/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1204,7 +1204,7 @@ rows, and strengthened by conflict, and established
 by the virtue of the people, the greatness of the o­  
 casion invites us once more to repeat, with solemnity
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774728:1865120601:0025/pct:329.24528301886795,178.1454302868579,50.14513788098694,20.0133422281521/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774728:1865120601:0025/pct:82.31132075471699,44.536357571714476,12.536284470246734,5.003335557038025/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1234,7 +1234,7 @@ the virtue of the people; the greatness of
 the occasion invites us once more to repeat,  
 with solemnity, the pledges of our father
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293800:1865120601:0584/pct:164.97373029772328,206.19982158786797,35.43490951546993,21.1864406779661/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293800:1865120601:0584/pct:41.25547445255474,51.54995539696699,8.861313868613138,5.296610169491525/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1260,7 +1260,7 @@ flict, and established by the virtue of the people, the
 greatness of the occasion invites us once more to re­  
 peat, with solemnity, the pledges of our lathet
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024660:00414184777:1865120601:0079/pct:223.36487042369396,222.05292702485966,33.74468668586316,12.820769847634322/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024660:00414184777:1865120601:0079/pct:74.4447491088566,74.01022351408238,11.246686774517869,4.273161605024891/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1371,7 +1371,7 @@ vir te olthe people the greathess of the occasion
 invites us once more to repeat, with solemnity  
 the pledges of our fathers to hold themselvss a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn86059181:00296022068:1865120701:0236/pct:186.82566723452584,250.49604280459258,38.67120954003407,14.803254932560472/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn86059181:00296022068:1865120701:0236/pct:46.70641680863146,62.624010701148144,9.667802385008518,3.700813733140118/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1397,7 +1397,7 @@ strengthened by conflict, and established
 by the virtue of the people, the greatness of the oc-  
 casion invites us once more to repeat, with solemni
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn84024207:00296028022:1865120701:0204/pct:27.349121466768526,305.07914659325536,49.19786096256684,16.24225739848589/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn84024207:00296028022:1865120701:0204/pct:6.839893007260222,76.26978664831384,12.3041650745128,4.0605643496214725/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1465,7 +1465,7 @@ conflict, and established by the virtue of the
 people, tbe greatness of the occasion invites ut  
 once more to repeat, with solemnity, the pledge
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026050:00280775836:1865120801:0623/pct:79.31686046511628,68.15230549136129,14.491279069767442,8.484648398811489/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026050:00280775836:1865120801:0623/pct:59.50857807502181,51.11698030152966,10.875254434428612,6.360735116099923/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1484,7 +1484,7 @@ cherish a conscious responsibility for the destiny of
 glided away since these words were spoken; the United  
 States have passed through severer trials than wer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:0028077764A:1865120801:1072/pct:178.53810264385692,254.71320928802092,50.077760497667185,9.103490696601568/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:0028077764A:1865120801:1072/pct:44.64320435543457,63.67830232200523,12.52187439237799,2.275872674150392/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1567,7 +1567,7 @@ strengthened by conflict, ahd established by the
 virtue of the people, the greatuess of the occa-  
 sion invites us once more to repeat, with so
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn83035216:00280775162:1865120901:0593/pct:16.258503401360546,227.57627340578762,50.204081632653065,26.76443629697525/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn83035216:00280775162:1865120901:0593/pct:4.0646258503401365,56.894068351446904,12.551020408163266,6.691109074243813/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1596,7 +1596,7 @@ virtue of tho people, thc greatness of thc
 occasion invites us once more to repeat,  
 with solemnity, thc pledges of our father
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_alexiavalentine_ver01:data:sn84027008:00294551645:1865120901:0322/pct:78.90607487110513,77.85426460711888,19.031607262945528,9.452652787105439/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_alexiavalentine_ver01:data:sn84027008:00294551645:1865120901:0322/pct:78.91354703728611,77.86545780165659,19.039079429126502,9.452652787105439/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1614,7 +1614,7 @@ he invisible hand which has led the American people,,
 hrougu so many dilflcultles, to cherish a conscious re?  
 sponsibility for the destiny of republican lihorty.&quot; More 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_brandonblaze_ver01:data:sn84026994:00294555213:1865120902:0032/pct:79.06683480453972,68.93054307356529,19.146700294241278,2.079856207472076/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_brandonblaze_ver01:data:sn84026994:00294555213:1865120902:0032/pct:79.06683480453972,68.93482261308684,19.160711783662602,2.088415286515171/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1640,7 +1640,7 @@ flict, and established by the virtue of tho people, tbo
 greatness of the occasion Invites us once more to repeat,,  
 with solemnity, the pledges of our fathers to hold our
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_gnomiemoore_ver01:data:sn84026994:00294555201:1865120901:0193/pct:76.26711061783203,66.85257954113322,18.183499815020348,5.095702877424261/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_gnomiemoore_ver01:data:sn84026994:00294555201:1865120901:0193/pct:76.27944259464792,66.85257954113322,18.177333826612404,5.104153462627287/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1686,7 +1686,7 @@ through so many difficulties, to cherish
 a conscious responsibility for the destiny  
 of republican liberty.&quot; More than seven
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292923:1865121001:0404/pct:201.1305822498587,131.84057321988357,34.36970039570379,6.717420510523959/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292923:1865121001:0404/pct:50.296861747243426,32.96014330497089,8.594854396381114,1.6793551276309897/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1747,7 +1747,7 @@ so many diflionltni, to cheriah a conscious re
 po...!&#x27;,i!ily for the (liytiny of republican lib­  
 erty.&quot; Moie than seventy -six years have glide
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199288:1865121201:1183/pct:109.64642582628747,23.049171566007484,17.14066102997694,3.099946552645644/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199288:1865121201:1183/pct:82.29186694866372,17.29021913415286,12.86291097865795,2.324959914484233/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1816,7 +1816,7 @@ ficulties, to cherish a conscious responsi­
 bility for the destiny of republican liberty.&quot;  
 More than seventy-six years have
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn87058318:0027952892A:1865121301:1210/pct:78.36976979875489,23.872201597480032,11.756189373099755,2.2837214534818315/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn87058318:0027952892A:1865121301:1210/pct:78.37459582066502,23.875951550605617,11.761015395009894,2.2874714066074175/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1840,7 +1840,7 @@ conscious responsibility for tbe destiny of
 republican liberty.&quot; more tbsn seventy­  
 six years.have glided away sinoe thes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn83035173:00296027303:1865121301:0390/pct:59.86379613356766,71.67736021998167,16.278558875219684,7.347998777879621/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn83035173:00296027303:1865121301:0390/pct:44.91320588881565,53.75802016498625,12.217095143924412,5.514818209593645/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1902,7 +1902,7 @@ established by the viitue of the people,
 the greatness of the occasion invites us  
 bnca more to repeat, with solemnity, th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn87076863:00296028836:1865121301:0250/pct:32.12835093419984,7.029411764705882,37.61169780666125,119.20588235294117/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn87076863:00296028836:1865121301:0250/pct:24.11131423928499,5.279411764705882,28.21450335161487,89.3970588235294/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1925,7 +1925,7 @@ conscious responsibility for the destiny of
 republican liberty. .More than seventy­  
 eix years have glided away siueo thes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn84026118:00280776336:1865121301:0128/pct:14.579901153212521,76.35548917102315,18.369028006589787,7.064973861090366/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn84026118:00280776336:1865121301:0128/pct:10.939431396786155,57.266616878267364,13.782447466007417,5.3024645257654965/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1976,7 +1976,7 @@ strengthened by conflict and established
 by the virtue of the people, the greatness  
 of the occasion once more invites us t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:0028077781A:1865121301:0339/pct:20.362737015663644,208.23438704703162,50.206100577081614,37.87201233616037/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:0028077781A:1865121301:0339/pct:5.090684253915911,52.058596761757904,12.551525144270403,9.468003084040092/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1995,7 +1995,7 @@ through so many difficulties, to cheri-h a con
 scious responsibility for the destiny of vepubli.&#x27;,  
 can liberty.&quot; More than seventy.slx years have
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jay_ver01:data:sn84023428:00202197425:1865121301:0251/pct:101.625,99.20783522972778,19.833333333333332,3.0246291228575544/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jay_ver01:data:sn84023428:00202197425:1865121301:0251/pct:76.24505105230256,74.40587642229583,14.878099604084184,2.2756733400547313/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2024,7 +2024,7 @@ strengthened by conflict, and established
 by the virtue of the people, the greatness  
 of the occasion invites us once more t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn86086769:00271769787:1865121301:0673/pct:32.20905923344948,34.789714534757024,13.212543554006968,7.72499455219002/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn86086769:00271769787:1865121301:0673/pct:30.607291023038222,33.057309457268055,12.551858063377173,7.335334506434807/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2044,7 +2044,7 @@ whe feel power and responsibility for the destiny of republican
 has been, and tiherty. More than seventysiz years have  
 note peace and clided away since these words vere spoken
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gorn_ver01:data:sn84026789:00271768047:1865121301:0244/pct:33.539809638918264,90.89511257550797,59.29898776250189,9.741900054914883/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gorn_ver01:data:sn84026789:00271768047:1865121301:0244/pct:11.179936546306088,30.298370858502654,19.766329254167296,3.2473000183049607/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2142,7 +2142,7 @@ and established by the virtue of the people; the
 greatness of the occasion invites ns ence more  
 to repeat, with solemnity, the pledges ofou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414183414:1865121401:0402/pct:79.22529095014765,50.07367716008037,12.33281222859128,7.716008037508373/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414183414:1865121401:0402/pct:79.2115317818687,50.06697026520225,12.335012156998959,7.7183230645593355/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2165,7 +2165,7 @@ to cherish a conscious responsibility for
 the destiny of republican liberty.&quot; More  
 than seventy six years have glided away
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:00279529418:1865121401:0032/pct:207.28520091473374,27.323977449922033,41.293694870957204,15.928991243852705/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:00279529418:1865121401:0032/pct:69.09506697157792,9.107992483307346,13.764564956985735,5.309663747950902/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2200,7 +2200,7 @@ and established by the virtue of the
 people, the greatness of the occasion  
 invites us once more to repeat, wit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84038074:00279529467:1865121401:0897/pct:79.84260820685779,148.34768119966677,29.9044406970208,29.51032120707211/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84038074:00279529467:1865121401:0897/pct:26.614202735619262,49.449227066555586,9.968146899006932,9.836773735690704/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2254,7 +2254,7 @@ lished by the virtue of the people th
 greatness of the occasion invites us once mor,  
 to repeat, with solemnity, the pledges of ou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_dillinger_ver02:data:sn87056248:0020029564A:1865121401:0203/pct:71.29938124702522,273.22424693194495,49.50023798191337,25.585719598363703/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_dillinger_ver02:data:sn87056248:0020029564A:1865121401:0203/pct:17.831210570170217,68.30606173298624,12.379478633496012,6.396429899590926/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2298,7 +2298,7 @@ to cherish a conscious responsibility
 for the destiny of republican liberty.”  
 More than seventy six years have gli
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623677:1865121401:0023/pct:18.35102291955084,15.00793470868284,12.598061836640516,3.956019043300839/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623677:1865121401:0023/pct:18.361277752140698,15.011713141388952,12.598061836640516,3.9635759087130658/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2328,7 +2328,7 @@ flirt, and established by the virtue of the peo­
 ple, greatnes of the occasion invites us once  
 more to repeat, with solemnity, the pledge
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016179:00296026207:1865121401:0415/pct:29.412864622288705,6.901949622883165,12.67763649962603,8.196954603671552/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016179:00296026207:1865121401:0415/pct:29.419097481924705,6.901949622883165,12.69010221889803,8.201698211659789/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2407,7 +2407,7 @@ by the virtue of the people, the greatness
 of the occasion invites us once more to re­  
 peat, with solemnity, the pledges of ou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:00332895023:1865121501:0207/pct:30.03379049890678,9.667802385008518,12.919896640826874,8.6740488358887/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:00332895023:1865121501:0207/pct:30.027821939586644,9.666430092264017,12.922297297297296,8.676366217175302/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2439,7 +2439,7 @@ virtue of the people, the greatness of the
 occasion invites us once more to repeat,  
 with solemnity, the pledges of our father
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn84028083:0028077523A:1865121501:0549/pct:131.74114021571648,103.11368573497465,57.85824345146379,44.48950036205648/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn84028083:0028077523A:1865121501:0549/pct:32.947976878612714,25.778421433743663,14.470134874759152,11.12237509051412/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2469,7 +2469,7 @@ strengthened by conflict, and established by
 the virtue of the people, the greatness of the  
 occasion invites us once more to repeat, wit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn83032006:00296028563:1865121501:0630/pct:4.475480082526583,64.85684954944679,12.90271385494366,7.083380860043344/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn83032006:00296028563:1865121501:0630/pct:4.475480082526583,64.86445382304855,12.92387451727239,7.07577658644158/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2488,7 +2488,7 @@ through so many difficulties, to cherish
 1 a conscious responsibility tor the desti­  
 ;ny of republican liberty.&quot; More tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn82005159:00296028460:1865121501:0156/pct:17.6708124697141,25.370391638911222,13.245033112582782,2.4003675203858963/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn82005159:00296028460:1865121501:0156/pct:17.676196629515964,25.374219976264307,13.250417272384645,2.4080241950920716/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2516,7 +2516,7 @@ ened by conflict, and established by the virtue of the
 people, the greatness of the occasion invites us once  
 more to repeat, with solemnity, the pledges of our fath
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_monroe_ver01:data:sn85038553:00212470454:1865121501:0381/pct:213.53746978243353,77.05826686494525,54.311039484286866,20.0081113965121/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_monroe_ver01:data:sn85038553:00212470454:1865121501:0381/pct:53.40588472390165,19.264566716236313,13.5832325675131,5.002027849128025/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2547,7 +2547,7 @@ tablished by the virtue of the people, the
 greatness of the occasion invites us once more  
 to repeat, with solemnity, the pledges of ou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349475:1865121501:0263/pct:31.403822356661625,36.074516261836145,12.539529767633713,9.046932894195143/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349475:1865121501:0263/pct:31.399505086609842,36.070803746012146,12.542388415360644,9.049432266474563/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2635,7 +2635,7 @@ strengthened by conflict, ane established
 by the xirtue of the people, the greatness  
 of the occasion invites us once more t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn84031042:00279529315:1865121601:0492/pct:106.36021971668112,234.58035133376708,39.38999710899104,27.250054218173933/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn84031042:00279529315:1865121601:0492/pct:35.45340657222704,78.19345044458903,13.129999036330346,9.083351406057977/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2655,7 +2655,7 @@ responsibility for the desliuy of Republican
 liberty &quot; More than seventy years hart­  
 passed since then, and the nation has patte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_eiffel_ver02:data:sn83016736:00295877534:1865121601:0285/pct:84.13461538461539,84.90986429005468,25.30048076923077,5.874012558233745/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_eiffel_ver02:data:sn83016736:00295877534:1865121601:0285/pct:63.1578947368421,63.682398217541014,19.007518796992482,4.415637026534332/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2675,7 +2675,7 @@ responsibility for the desliuy of Republican
 liberty &quot; More than seventy years hart­  
 passed since then, and the nation has patte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_icydrop_ver05:data:sn83016739:00295877534:1865121601:0285/pct:84.13461538461539,84.90986429005468,25.30048076923077,5.874012558233745/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_icydrop_ver05:data:sn83016739:00295877534:1865121601:0285/pct:63.1578947368421,63.682398217541014,19.007518796992482,4.415637026534332/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2733,7 +2733,7 @@ our sorrows and strengthened by conflict
 and established by the virtue of the people  
 the greatness of the occasion invites u
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn85025181:00237287964:1865121601:0222/pct:127.28581713462923,206.53231410701875,50.89992800575954,31.077136900625433/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn85025181:00237287964:1865121601:0222/pct:31.821454283657307,51.63307852675469,12.724982001439885,7.769284225156358/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2759,7 +2759,7 @@ sorrows and strengthened by conflict, and es
 tablished by the vitue of the people, the great  
 ness of the occasion invites us once fflore, wi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kikideville_ver02:data:sn83025783:00294558536:1865121601:0013/pct:146.16743200282585,185.2731210395444,47.20357941834452,24.45656533247774/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kikideville_ver02:data:sn83025783:00294558536:1865121601:0013/pct:48.72247733427528,61.75770701318147,15.734526472781507,8.152188444159247/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2843,7 +2843,7 @@ people, the greatness of the oecasion ine
 vites us once sore to repeat, with solem  
 nity, the pledges of our fathers to hold our
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156384:1865122001:0923/pct:141.36321195144725,72.74320771253286,82.44631185807657,45.22348816827344/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156384:1865122001:0923/pct:35.34905440112071,18.185801928133216,20.616390380574362,11.30587204206836/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2861,7 +2861,7 @@ led Abe American people, through so many
 difficulties, to cherish a conscious responsi  
 bility for the destiny ofiepublican liberty &quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn86081912:00296028629:1865122001:0022/pct:5.564214463840399,75.65811212688622,14.526184538653366,2.3901310717039324/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn86081912:00296028629:1865122001:0022/pct:5.569409808811305,75.66178360318685,14.53657522859518,2.393802548004553/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2888,7 +2888,7 @@ purified by sorrows and strength ,led by confict,
 and established by the virtue of the people, the  
 ;reatness of the occasion invites us once more t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_floydcouncil_ver01:data:sn84026909:00237288051:1865122001:0058/pct:24.676294820717132,32.61208239570711,14.280378486055778,6.3181582136056775/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_floydcouncil_ver01:data:sn84026909:00237288051:1865122001:0058/pct:24.680444887118195,32.61496739945762,14.28452855245684,6.3181582136056775/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2919,7 +2919,7 @@ the greatness of the occasion invites
 once more to repeat, with solem­  
 nity, the pledges of our fathers to hol
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1865122101:1122/pct:306.33861551292745,231.12649646617626,56.88073394495413,44.367517669118705/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1865122101:1122/pct:76.58465387823186,57.781624116544066,14.220183486238533,11.091879417279676/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2949,7 +2949,7 @@ with our Union purified by sorrows, and
 strengthened by conflict, and established  
 the virtue of the people, the greatnes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279524007:1865122201:0642/pct:61.720395269722985,71.52803224624405,43.317673740482746,25.516062049590815/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279524007:1865122201:0642/pct:20.570132815030775,23.839765510503174,14.436885865457294,8.504315258101286/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2982,7 +2982,7 @@ ed by the virtue of the people, the
 greatness of the occasion invites us  
 once more to repeat, with solemnity, th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn85034039:00294559905:1865122201:0109/pct:263.542562338779,214.9024427715471,58.8993981083405,48.36380396374251/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn85034039:00294559905:1865122201:0109/pct:65.92815659281565,53.725610692886775,14.734351473435147,12.090950990935628/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3013,7 +3013,7 @@ nation, with our Union purified by sor
 row and strengthened by conflict, and  
 established by the virtue of the peop
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279520956:1865122201:0396/pct:159.01895206243032,116.86311488291686,44.88294314381271,30.504479019330503/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279520956:1865122201:0396/pct:39.74587605884975,29.211187932118165,11.21823450735622,7.624921433060968/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3040,7 +3040,7 @@ by Sorrows and strengthened by conflict,&quot;bnd
 established ,by thc virtue of thc- people, tho  
 greatness of the occasion, invites UH onoo mor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_gnomiemoore_ver01:data:sn84026912:00294558627:1865122301:0099/pct:0.5670311867152693,75.20021356113187,24.868367760226814,10.784837159636947/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_gnomiemoore_ver01:data:sn84026912:00294558627:1865122301:0099/pct:0.5670311867152693,75.20466275137925,24.87511813149723,10.793735540131696/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3075,7 +3075,7 @@ tue of the people, the greatness of
 the occasion invites us once more to  
 repeat, with solemnity, the pledge
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eagle_ver01:data:sn84022278:00200296539:1866010601:0345/pct:231.90327613104523,121.59125417552384,48.205928237129484,49.86334649255998/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eagle_ver01:data:sn84022278:00200296539:1866010601:0345/pct:57.99843932891143,30.39781354388096,12.05618415918845,12.465836623139994/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3131,7 +3131,7 @@ ple through so maay difficulties, to cherish a
 conscious responsibility for the destiny of re­  
 publican liberty.&quot; More than seventy-six year
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_bittern_ver01:data:sn86072040:no_reel:1866012601:0056/pct:73.20518758684577,80.27366020524515,41.57017137563687,4.072324482814791/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_bittern_ver01:data:sn86072040:no_reel:1866012601:0056/pct:24.401729195615253,26.75788673508172,13.856723791878956,1.3574414942715969/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3189,7 +3189,7 @@ poslt, Inu system of legislation, founded on the
 principles of an honest policy, and directed oy the  
 spirit of a dlllnsivu patriotism
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1877062401:0009/pct:1.9027484143763214,59.73005640612409,13.10782241014799,3.4246575342465753/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1877062401:0009/pct:1.9027484143763214,59.74516518936342,13.10782241014799,3.4246575342465753/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3210,7 +3210,7 @@ time la tut a virtuous citUeuwliOse heart
 ,will diKiwn them.&quot;  
 I lu viewof the oriainef the Adams fa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_james_ver01:data:sn94057006:00415620457:1888063001:0633/pct:24.822064056939503,302.0269224818196,53.64768683274021,13.368404765588735/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_james_ver01:data:sn94057006:00415620457:1888063001:0633/pct:6.2096594702871135,75.5067306204549,13.420876919652793,3.342101191397184/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3240,7 +3240,7 @@ a flled; and your scrupulous aherence now to
 EE $.279 lustre, of a character which has so many titles  
 N Eee to admiration.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:00175042908:1896110801:0115/pct:0.0,326.2742718446602,78.55579868708972,31.432038834951456/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:00175042908:1896110801:0115/pct:0.0,81.56856796116504,19.64253146087908,7.858009708737864/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3262,7 +3262,7 @@ j through so many difficulties; we cherish
 lof Republican liberty. We join with  
 you
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_hessel_ver01:data:sn82015104:00280768790:1898022201:0462/pct:19.788803703167943,26.63820704375667,12.51265731231014,3.75667022411953/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_hessel_ver01:data:sn82015104:00280768790:1898022201:0462/pct:19.798447369689956,26.63820704375667,12.507835479049135,3.767342582710779/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

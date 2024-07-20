@@ -86,7 +86,7 @@ your good lady and family, ?nd that I am, sir,
 Your m &#x27;Stub&#x27;t. humble serv&#x27;t.,  
 (i. WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_fezza_ver01:data:sn85025007:00415663717:1873092001:0280/pct:50.069521690767516,52.27781926811053,15.697997775305895,9.316654219566841/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_fezza_ver01:data:sn85025007:00415663717:1873092001:0280/pct:50.069521690767516,52.27781926811053,15.697997775305895,9.325989544436146/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -118,7 +118,7 @@ that I am, sir,
 Your most ob&#x27;t humble serv&#x27;t,  
 G. Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_forego_ver01:data:sn84024670:00280762428:1873092301:0314/pct:15.199842488678874,44.43131462333826,12.463083284111045,8.818316100443132/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_forego_ver01:data:sn84024670:00280762428:1873092301:0314/pct:15.209686946249262,44.43500738552437,12.463083284111045,8.829394387001477/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -219,7 +219,7 @@ family, and that I am, sir,
 Your most ob’t. humble serv’t.,  
 G. Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349517:1873100301:0150/pct:74.17654808959156,61.510791366906474,11.314229249011857,9.121274409044194/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349517:1873100301:0150/pct:74.16433393709863,61.50289017341041,11.316482792688952,9.123314065510597/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -279,7 +279,7 @@ to add but my best respects to your good lady
 and family, and that I am, sir, your most ob&#x27;t  
 humble serv&#x27;t. G. Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_iceland_ver01:data:sn84026788:00202192336:1873100701:0581/pct:43.44780454467794,81.80905963302752,13.241072954040662,8.486238532110091/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_iceland_ver01:data:sn84026788:00202192336:1873100701:0581/pct:43.44780454467794,81.80905963302752,13.25815820946523,8.496989678899082/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -376,7 +376,7 @@ aud family, and that I am, sir, your most
 obedient humble servant, y  
 G. Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016926:00295877480:1873101601:0263/pct:33.552271483305965,106.7604110329908,15.079365079365079,11.27095727420227/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016926:00295877480:1873101601:0263/pct:25.17109225294279,80.0757166035695,11.319463454694771,8.447809626825311/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -410,7 +410,7 @@ and family, and that I am, sir, your
 most obedient humble jwrvant V  
 G. Washington, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879142:1873101701:0170/pct:16.931352459016395,118.08364213869773,13.819159836065573,10.80995235574378/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879142:1873101701:0170/pct:12.706545407967209,88.56537850714663,10.36249519661842,8.11011116993118/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -441,7 +441,7 @@ good lady and family, and that I am, sir,
 your most obedient humble servant,  
 G. WASHHGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_quentin_ver01:data:sn86090827:00200299991:1873102501:0381/pct:146.22,260.27027027027026,43.62,25.216216216216218/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_quentin_ver01:data:sn86090827:00200299991:1873102501:0381/pct:48.74,86.75675675675676,14.54,8.405405405405405/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -510,7 +510,7 @@ good lady and family, and that I am, sir.
 your most obedient humble servant  
   t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_gordon_ver01:data:sn87052181:00200292492:1873103001:0297/pct:160.59629331184527,316.36261577322483,50.040290088638194,28.85209093460567/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_gordon_ver01:data:sn87052181:00200292492:1873103001:0297/pct:40.173352146744605,79.09065394330621,12.517637573069946,7.213022733651417/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -542,7 +542,7 @@ and that I am, sir, your most obedient
 and humble servant.  
 G. Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn85038088:00296028903:1873111401:0027/pct:46.63461538461539,64.83207764014813,12.830528846153847,11.837568637466479/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn85038088:00296028903:1873111401:0027/pct:34.99173305275816,48.627250670412465,9.634751240042087,8.887753799003958/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -635,7 +635,7 @@ your good lady and family, and that I am, sir,
 \our most ob&#x27;t humble serv&#x27;t,  
 G. Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_rottweiler_ver01:data:sn83045462:00280654711:1889022201:0534/pct:29.37405095326472,52.784764642472155,13.818120465665599,6.2642232602706915/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_rottweiler_ver01:data:sn83045462:00280654711:1889022201:0534/pct:29.37405095326472,52.78775901305546,13.830774422135988,6.2642232602706915/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -675,7 +675,7 @@ my best respects to your good lady and
 family, and that I am, sir. your most ob’t  
 humble sorv’t. G. Washington.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_bobbsey_ver02:data:sn86063034:00414181995:1889030801:0528/pct:75.00446987305561,24.541062801932366,15.680314679063114,8.83367839889579/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_bobbsey_ver02:data:sn86063034:00414181995:1889030801:0528/pct:58.133949191685915,19.019433054020325,12.15704387990762,6.853271527901587/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -886,7 +886,7 @@ your good lady and family, and that I am, Sir,
 y&#x27;r most ob&#x27;d&#x27;t, humble servant,  
 G. Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_ashbel_ver01:data:sn82015679:00295870321:1889041001:0387/pct:47.84869976359338,105.3780964797914,18.29787234042553,7.627118644067797/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_ashbel_ver01:data:sn82015679:00295870321:1889041001:0387/pct:35.89501064081343,79.03357235984355,13.726649326081816,5.7284876140808345/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -989,7 +989,7 @@ good lady and family, and that I am, sir, your
 most obedient humble servant,  
 O. &#x27;WASaiNBTOX.’’ 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588319:1889042001:0120/pct:102.39192451174019,111.57830591102986,18.06012727671714,8.272394881170019/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588319:1889042001:0120/pct:79.35374149659864,86.4772324766815,14.007936507936508,6.415049785509072/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1018,7 +1018,7 @@ good lady and family, and that I am, sir, your
 most obedient humble servant,  
 O. Washington.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_delta_ver01:data:sn87075048:00237289511:1889042001:0213/pct:108.02650957290133,110.07685738684884,15.868924889543447,8.055792769712497/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_delta_ver01:data:sn87075048:00237289511:1889042001:0213/pct:81.06465279056917,82.56475946484487,11.917480198931663,6.034728152576146/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1102,7 +1102,7 @@ to your goodjlady and family.”
 THK LOWLAND BfCAlTY.  
 As William Fanntlerof, Sen., had 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gore_ver01:data:sn86092518:00279550377:1889043001:0413/pct:39.76853404897685,22.845015237266,12.898356256289835,8.304309969525468/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gore_ver01:data:sn86092518:00279550377:1889043001:0413/pct:39.76186483313768,22.84252911089346,12.901783218737771,8.307033772263939/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1133,7 +1133,7 @@ ly, and that I am. sir,
 Your most obedient, humble servant,  
 G. WASHCf GTOS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_franco_ver01:data:sn84024546:00237280027:1889050101:0014/pct:19.521654815772465,114.827966205461,14.172592113768584,7.273172523570467/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_franco_ver01:data:sn84024546:00237280027:1889050101:0014/pct:14.645974781765277,86.12709685318967,10.636922082120918,5.4610015917717645/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1193,7 +1193,7 @@ but my best respects to your good lady and
 family and that I am , sir , y&#x27;r most ob&#x27;d&#x27;t ,  
 humble servant. G. WASIIINOTOX
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_chadron_ver01:data:sn99021999:0020653963A:1889050201:0474/pct:22.76278409090909,77.36755421356025,16.654829545454547,8.646719736480922/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_chadron_ver01:data:sn99021999:0020653963A:1889050201:0474/pct:17.090069284064665,58.02909689816086,12.488896784508794,6.488471040351358/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1263,7 +1263,7 @@ and ilia’. I a o, kir, y’r most ob’dt/,
 bumble servant,  
 “G. Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187183:1889051701:0478/pct:73.88392857142857,50.51419169066228,10.455827067669173,10.561497326203208/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187183:1889051701:0478/pct:73.87524961823094,50.508997429305914,10.458514428912643,10.563838903170522/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1438,7 +1438,7 @@ to your gcod lady and family. #nd that I
 am, sir, y&#x27;r most ob’d’t, humble servant,  
 G. WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_arbutus_ver01:data:sn85040614:00514152603:1891021901:0281/pct:20.64737616478666,86.17254215020802,15.252574791564493,8.014013575651413/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_arbutus_ver01:data:sn85040614:00514152603:1891021901:0281/pct:20.64737616478666,86.17254215020802,15.263473380197265,8.017662944310635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1473,7 +1473,7 @@ am, sir, y&#x27;r most ob&#x27;d&#x27;t, humble servant,
   
 G. WASniNQTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_goshawk_ver03:data:sn2001063112:00415624621:1891022701:0084/pct:56.83567224988683,98.49600501331662,16.636487098234497,9.258969136769544/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_goshawk_ver03:data:sn2001063112:00415624621:1891022701:0084/pct:48.32296543320721,83.72247869318181,14.140960687487976,7.879083806818182/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1506,7 +1506,7 @@ I have nothing to add but my best respects
 to your good lady and family, and that I  
 am, sir, y&#x27;r most ob&#x27;d&#x27;t, humble servant,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_mustang_ver01:data:sn99067997:00415625091:1891022701:0201/pct:63.742446342988124,105.14787946428571,18.045426130443843,9.137834821428571/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_mustang_ver01:data:sn99067997:00415625091:1891022701:0201/pct:50.99466548121805,84.12574404761905,14.4476550344521,7.306547619047619/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1576,7 +1576,7 @@ ture, and as the wiłe of a Virginia planter lived
 to see her rejected lover become the greatest  
 man of that or any other age. Washington b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:0017504291A:1897022101:0685/pct:70.09345794392523,62.14775323686215,50.85669781931464,22.11728865194212/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:0017504291A:1897022101:0685/pct:17.526777020447906,15.536938309215538,12.716650438169426,5.52932216298553/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

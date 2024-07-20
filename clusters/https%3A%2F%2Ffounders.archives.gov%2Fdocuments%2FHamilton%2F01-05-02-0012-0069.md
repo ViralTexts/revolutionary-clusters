@@ -323,7 +323,7 @@ sentatives amounts to two hundred,
 after which, that nomber shall be  
 continued or increaled,as Congrel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1788091801:0254/pct:12.71725307333616,33.2605133806663,18.67316659601526,8.902239213544512/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1788091801:0254/pct:12.71725307333616,33.26506462770799,18.694362017804153,8.902239213544512/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -632,7 +632,7 @@ of the legislature in the townships wherein said borough
 is situated; the polls shall remain open until seven o’clock  
 in the evening, an at the closing of the polls the judg
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340688:1878061301:0307/pct:4.8934108527131785,38.00815519584826,11.078811369509044,4.633634004695415/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340688:1878061301:0307/pct:4.892620700791216,38.00345935260687,11.081059260455353,4.636150234741784/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -661,7 +661,7 @@ words:
 organising, arming and disciplining tbe mil­  
 itia, and for governing such parts of them 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kautsky_ver01:data:sn87056600:00271740578:1879091701:0281/pct:65.61023622047244,90.31339031339031,19.173228346456693,7.478632478632479/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kautsky_ver01:data:sn87056600:00271740578:1879091701:0281/pct:49.23198109491926,67.73504273504274,14.395431272154392,5.612535612535613/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

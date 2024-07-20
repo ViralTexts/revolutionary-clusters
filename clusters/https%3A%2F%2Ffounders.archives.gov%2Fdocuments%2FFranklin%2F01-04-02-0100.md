@@ -1204,7 +1204,7 @@ execute all other matters and things need­
 ful, incident or relating to the premifes,  
 which are purfuant to the tenor aud tru
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801110401:0004/pct:28.533590175776546,63.49625715543813,21.69516012521069,4.535446939674152/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801110401:0004/pct:28.549642828477406,63.49625715543813,21.69516012521069,4.550124761485396/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1443,7 +1443,7 @@ The bill introduced in the azsembly this morning by
 Hr. Cumming, for the more perfect organization of the  
 Police Department in the eity of New York, contains thes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743099:1854030301:0515/pct:245.36082474226805,166.04179104477612,47.090686702778264,13.850746268656716/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743099:1854030301:0515/pct:81.78694158075601,55.34726368159204,15.696895567592755,4.616915422885572/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1732,7 +1732,7 @@ of the Society, and shall, (notwithstanding, !x liable to the
 payment &lt; f the said rate, pursuant to the provisions of the  
 said act of incorporation and the supplement theret
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026359:1859121501:0586/pct:49.86293464146588,42.27904167505537,11.412494589525322,4.701026776726394/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026359:1859121501:0586/pct:49.872553263117396,42.27904167505537,11.407685278699562,4.711093215220455/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1764,7 +1764,7 @@ from all hue f&#x27;er
 payment tf the said rate, pursuant to the provisions of the  
 said act of incorporation and the supplement theret
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026359:1859121601:0590/pct:50.37334865020103,45.14640994785399,11.229178632969557,4.492579221821099/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026359:1859121601:0590/pct:50.38292169251388,45.14975264072737,11.238751675282405,4.502607300441236/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1794,7 +1794,7 @@ of the Society, and shall, fcnot withstand in g, be liable to the
 p lyment &lt; f the said rate, pursuant to the provisions of the  
 said act of incorporation and the supplement theret
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026359:1859121701:0595/pct:13.842173350582147,40.902255639097746,11.18298117004456,3.8496240601503757/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026359:1859121701:0595/pct:13.851756025106607,40.90559732664996,11.18777250730679,3.85296574770259/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1826,7 +1826,7 @@ of the Society, and shall, ..notwithstanding, be liable to the
 piyment i f the said rate, pursuant to the provisions of the  
 said aet of incorporation and the supplement theret
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026359:1859121901:0599/pct:13.959827833572453,63.16899287077016,11.21951219512195,4.428155437292901/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026359:1859121901:0599/pct:13.964610234337638,63.17233992703417,11.224294595887136,4.428155437292901/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1859,7 +1859,7 @@ ot the Society, and shall, .notwithstanding, l&gt;c liable to the j
 payment tf the said rate, pursuant to the provisions of the ,  
 aid act of incorporation and the supplement th-ret
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026359:1859122001:0603/pct:61.413590001436575,76.26693426994481,11.449504381554375,4.716507777220271/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026359:1859122001:0603/pct:61.42316716946799,76.26693426994481,11.449504381554375,4.723197859173775/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1888,7 +1888,7 @@ of the Society, and shall, notwithstanding, he liable to the
 , payment &lt; f the said rate, pursuant to the provisions of the  
 : said act of incorporation and the supplement thereto
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026359:1859122101:0607/pct:61.203438395415475,81.46517213771017,11.217765042979943,3.642914331465172/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026359:1859122101:0607/pct:61.20821394460363,81.46517213771017,11.217765042979943,3.642914331465172/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1921,7 +1921,7 @@ of the Society, and shall, notwithstanding, be liable to the
 * f the said rate, pursuant to the provisions of the  
 i said act of incorporation and the supplement thereto
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026359:1859122801:0627/pct:25.79120721752828,83.10015098137896,11.327509666332523,4.650226472068445/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026359:1859122801:0627/pct:25.80075421261158,83.10686126488844,11.322736168790874,4.646871330313706/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1953,7 +1953,7 @@ or the Society, and shall, notwithstanding, be liable to the
 piyment &lt; f the said rate, pursuant to the provisions of the  
 said act of incorporation and the supplement thereto
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026359:1859123001:0636/pct:5.552383671139023,79.0922693266833,11.24750214102198,4.488778054862843/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026359:1859123001:0636/pct:5.552383671139023,79.0922693266833,11.261775620896374,4.495428096425603/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1987,7 +1987,7 @@ payment &lt; f the said rate, pursuant to the provisions of the
 said act of incorporation and the supplement thereto  
 ~R FRANCIS A. CROOK
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026359:1859123101:0639/pct:1.8587896253602305,63.497179693795324,11.887608069164266,5.036261079774375/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026359:1859123101:0639/pct:1.8587896253602305,63.497179693795324,11.892411143131604,5.042976094547408/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2017,7 +2017,7 @@ of the Society, and shall, notwithstanding, be liable to the
 payment cf the said rate, pursuant to the provisions of the  
 said act of incorporation and the supplement thereto
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026360:1860010401:0018/pct:15.348237317282889,70.74100070189512,11.12066494697621,3.9807480196530634/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026360:1860010401:0018/pct:15.348237317282889,70.74100070189512,11.12544186490876,3.9807480196530634/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2050,7 +2050,7 @@ of the Society, and shall, notwithstanding, be liable to the
 payment i f the said rate, pursuant to the provisions of the  
 said act of incorporation and the supplement thereto
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026360:1860010501:0023/pct:15.177548682703321,69.72328822460109,11.06815578465063,4.665724096142194/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026360:1860010501:0023/pct:15.177548682703321,69.72328822460109,11.072928598701795,4.675823066047263/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2083,7 +2083,7 @@ of tne Society, and shall, notwithstanding, lie liable to the
 payment f f the said rate, pursuant to the provisions of the  
 said act of incorporation and the supplement theret
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026360:1860010601:0027/pct:14.72714386959603,69.86589271417134,11.027639971651311,4.693755004003203/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026360:1860010601:0027/pct:14.731868651074889,69.86589271417134,11.027639971651311,4.7004270082732855/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2113,7 +2113,7 @@ of the Society, and shall, notwithstamiing.be liable to the
 payment tf the said rate, pursuant to the provisions of the  
 said act of incorporation and the supplement theret
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026360:1860010701:0031/pct:25.93069873997709,70.04329876145404,11.154066437571592,3.987513845534186/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026360:1860010701:0031/pct:25.93069873997709,70.04329876145404,11.163612065673922,3.994226831806129/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2143,7 +2143,7 @@ of the Society, and shall, notwithstanding.be liable to the
 payment tf ihe said rate, pursuant to the provisions of the  
 said act of incorporation and the supplement theret
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026360:1860010701:0033/pct:26.13878246062154,70.50816696914701,11.040158932879239,3.9423270820729988/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026360:1860010701:0033/pct:26.148242751052457,70.51488875445318,11.040158932879239,3.9389661894199097/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2175,7 +2175,7 @@ of the Society, and shall, notwithstanding, be liable to the
 payment tf the said rate, pursuant to the provisions of the  
 said act of incorporation and the supplement thereto
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026360:1860010901:0037/pct:15.135595626863552,85.51467631684761,11.08902456339628,4.362685967028549/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026360:1860010901:0037/pct:15.135595626863552,85.51467631684761,11.093757395049458,4.369387481570835/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2205,7 +2205,7 @@ of the Society, and shall, notwithstanding, lie liable to the
 payment &lt; f the said rate, pursuant to the provisions of the  
 said act of incorporation and the supplement thereto
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026360:1860011001:0041/pct:15.064603152065882,86.03318250377075,11.046429078517678,3.981900452488688/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026360:1860011001:0041/pct:15.069335983719059,86.03318250377075,11.051161910170855,3.988603988603989/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2238,7 +2238,7 @@ of the Society, and shall, notwithstanding, be liable to the
 p.iyment &lt; f the said rate, pursuant to the provisions of the  
 said act of incorporation and the supplement theret
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026360:1860011101:0045/pct:14.955262036642523,85.55778894472361,11.077971878994461,4.71356783919598/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026360:1860011101:0045/pct:14.964730388675852,85.56113902847571,11.073237702977798,4.716917922948074/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2268,7 +2268,7 @@ of the Society, and shall, notwithstanding, IK- liable to the
 payment &lt; f the said rate, pursuant to the provisions of Un­  
 said act of incorporation and the supplement theret
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026360:1860011401:0057/pct:61.31063099155816,76.54209363070123,11.174703104879097,3.9783001808318263/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026360:1860011401:0057/pct:61.31063099155816,76.54209363070123,11.179472504411695,3.9849976558837317/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2298,7 +2298,7 @@ of the Society, and shall, notwithstanding, l&gt;e liable to the
 payment ( f the said rate, pursuant to the provisions of the  
 said act of incorporation and the supplement theret
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026360:1860011601:0061/pct:60.753911806543385,82.22511516122572,11.038406827880513,3.9254956939715604/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026360:1860011601:0061/pct:60.753911806543385,82.22511516122572,11.043148411569463,3.928833700514053/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2334,7 +2334,7 @@ dls 6t&amp;w&amp;s6t Treasurer.
 COKE FOR SALE&quot;  
 THE GAS LIGHT COMPANY of Baltimore have o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026360:1860011801:0069/pct:61.72768878718536,59.48934459187777,11.169908466819223,5.5890631282669885/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026360:1860011801:0069/pct:61.7372234935164,59.48934459187777,11.169908466819223,5.592413885538131/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2367,7 +2367,7 @@ of the Society, and shall, notwithstanding, be liable to the
 payment t f the said rate, pursuant to the provisions of the  
 said act of incorporation and tie- supplement theret
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026360:1860011901:0073/pct:60.98506605399196,59.08726178535607,11.214819069500287,4.674022066198596/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026360:1860011901:0073/pct:60.98985257514838,59.09060514877967,11.214819069500287,4.6773654296222/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2400,7 +2400,7 @@ of the Society, and shall, notwithstanding, lie liable to the
 payment cf the said rate, pursuant to the provisions of the  
 said act of incorporation and the supplement theret
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026360:1860012101:0081/pct:84.23242467718795,87.2635814889336,11.104734576757533,4.637826961770624/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026360:1860012101:0081/pct:84.23242467718795,87.2635814889336,11.114299378287901,4.641180415828303/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2429,7 +2429,7 @@ of the Society, and sh.-iII, notwithstanding, he liable t&lt; th**
 payment &lt; f the said rate, pursuant to the provisions of the  
 said act of incorporation and the supplement theret
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026360:1860012501:0092/pct:50.52165213662998,80.23970188337194,11.13334286122624,3.6962433276261457/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026360:1860012501:0092/pct:50.52641608308323,80.23970188337194,11.142870754132723,3.6962433276261457/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2454,7 +2454,7 @@ ance company heretofore or hereafter organized,
 shall, if it be a mutual company, embody the word  
 “mutual” in its title, which shall appear on the firs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_flobberworm_ver01:data:sn85033019:0041421552A:1870042901:0706/pct:20.416922133660332,33.409952878979425,11.955855303494788,3.8616251005631534/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_flobberworm_ver01:data:sn85033019:0041421552A:1870042901:0706/pct:20.422031473533618,33.409952878979425,11.9507459636215,3.873118032410068/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

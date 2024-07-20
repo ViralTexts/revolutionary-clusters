@@ -83,7 +83,7 @@ of Presbyterianism in America, whereas I would as soon
 establish the Episcopal church, and almost as soon the  
 &#x27;Catholic church.&quot; l&#x27;agcG37
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661617:1854070801:0229/pct:35.27406986651519,62.893982808022926,15.748366941209884,3.9563588274189994/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661617:1854070801:0229/pct:35.28353687399413,62.90132980677393,15.743633437470416,3.9563588274189994/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -105,7 +105,7 @@ and every bank of discount prohibited to all oter
 Not one farthing of profit should ever be al­  
 lowed on any money deposited in the banks.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293253:1858051201:0447/pct:72.01759208356239,335.3014037985136,43.10060472787246,11.43682906688687/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293253:1858051201:0447/pct:18.009348364036292,83.8253509496284,10.778113830079736,2.8592072667217177/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -128,7 +128,7 @@ hibited to eternity. Not one farthing of profit
 chould ever be allowed on any money deposit-  
 aA tn tla Knnbft&#x27; &quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn84028794:00296026682:1858052601:0611/pct:75.69546120058565,109.9522395766103,16.98389458272328,5.253646572866916/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn84028794:00296026682:1858052601:0611/pct:56.80278337300861,82.4706337937266,12.74491851309284,3.937007874015748/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -152,7 +152,7 @@ prohibited to all eternity. , Not one far­
 thing of profit should ever be avllowed on  
 any money deposited in the banks.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn82015486:00280760924:1858080501:0260/pct:38.57677902621723,58.49850665218572,16.928838951310862,7.249524843877274/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn82015486:00280760924:1858080501:0260/pct:28.938003371417867,43.87727396144447,12.699007304738716,5.4439315775183275/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -229,7 +229,7 @@ printed in America for twenty years past, 1
 should think that both parties believed mo thu  
 nicinest villain in the world.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_michigan_ver01:data:sn84031492:no_reel:1878071501:0007/pct:42.82309322033898,53.931901094446694,13.05614406779661,2.026753141467369/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_michigan_ver01:data:sn84031492:no_reel:1878071501:0007/pct:42.82309322033898,53.931901094446694,13.076006355932204,2.036886907174706/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -248,7 +248,7 @@ printed in America for twenty years past.I should
 think that both parties believed me tho meanest  
 villain iu the world.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280775034:1878071801:0557/pct:70.06118881118881,86.79295270896807,18.181818181818183,2.3446814147569213/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280775034:1878071801:0557/pct:52.568306010928964,65.09471453172605,13.639344262295081,1.7618227579811896/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -270,7 +270,7 @@ als at the public expense. Our whole bank
 ing sysiem I ever abhored, I continue to ab  
 hor, and shall die abhorink.-Reply of Joh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn90061739:00280779660:1881040701:0430/pct:108.2246740220662,289.6735509660227,69.1073219658977,20.586275816122583/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn90061739:00280779660:1881040701:0430/pct:27.076537013801758,72.41838774150567,17.28983688833124,5.146568954030646/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -291,7 +291,7 @@ he said &quot;I have lost three thousand of
 my Indian children in my nation in one  
 year by it.&quot; This is said to be the firs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023296:00200296126:1881081701:0719/pct:249.52311078503303,66.39763249932741,42.77329420396185,13.451708366962604/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023296:00200296126:1881081701:0719/pct:62.41512204074142,16.599408124831854,10.699210864378784,3.362927091740651/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -310,7 +310,7 @@ son ; because he said I liavo lost three thou­
 sand of my Indian children in my nation in  
 one year by it.” This is said to he the His
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_asburypark_ver01:data:sn84026089:00514155872:1881092801:0947/pct:56.962025316455694,27.340513670256836,12.294087046991503,2.72024302678818/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_asburypark_ver01:data:sn84026089:00514155872:1881092801:0947/pct:56.95214979195562,27.336738920336877,12.29628987517337,2.7233190666850753/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -354,7 +354,7 @@ sertations. medical advice, all are lost on the
 subject. Nothing but making the commodity  
 scarce and dear will have any effect.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210107:1885060601:0198/pct:84.91120309787689,9.35327174016573,18.81426091601015,5.762453567006381/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210107:1885060601:0198/pct:65.80545015522594,7.253758519721464,14.587788892721628,4.463472847616939/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -381,7 +381,7 @@ scarce and dear will have any effect.
 abhorred, I continue ■to abhor, and  
 shall die abhorring.—John Adams
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_eridanus_ver02:data:sn83016235:00393344520:1897031201:0424/pct:72.49562032170728,34.76101800124147,10.622710622710622,1.4276846679081316/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_eridanus_ver02:data:sn83016235:00393344520:1897031201:0424/pct:72.50623772362903,34.76101800124147,10.612093220788873,1.4276846679081316/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -442,7 +442,7 @@ shall go forward in the name of truth
 and right, bearing this in mind that  
 when the case is proved, and the hou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_goodnow_ver01:data:sn83040052:00212473728:1897072301:0632/pct:68.63718411552347,21.34136918559728,18.592057761732853,25.54473806212332/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_goodnow_ver01:data:sn83040052:00212473728:1897072301:0632/pct:51.50078988941548,16.009890279709474,13.947190250507786,19.162416937104002/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

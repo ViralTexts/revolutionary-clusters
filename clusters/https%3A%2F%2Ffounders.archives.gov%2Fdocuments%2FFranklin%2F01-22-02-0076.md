@@ -161,7 +161,7 @@ and wounded ; and such was the cruelty and harbarity of the re­
 bels, thatthey scalped and cut off the ears of some of the wounded  
 men, who fell into their bands
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775090501:0480/pct:35.42319749216301,68.3976054573298,27.586206896551722,7.851872476681052/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775090501:0480/pct:35.43812509329751,68.40224604389995,27.578743095984475,7.851872476681052/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -208,7 +208,7 @@ and baroarity of the rebels that they scalped and
 cut off the ears of some of the mounted men who  
 fell in to their hands
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:00271743932:1875041901:0290/pct:8.231606730451997,184.87827180249172,47.90498185417354,22.608298091210425/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:00271743932:1875041901:0290/pct:2.7438689101506655,61.62609060083057,15.968327284724513,7.536099363736808/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -238,7 +238,7 @@ and barbarity of the rebels that they scalped and
 cut off the ears of some of the mounted men who  
 iell into their nands
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:00271743932:1875041901:0299/pct:200.28262676641728,196.85274523317253,47.16541978387365,25.189524465885597/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:00271743932:1875041901:0299/pct:66.76087558880576,65.61758174439085,15.72180659462455,8.396508155295198/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -289,7 +289,7 @@ Gage and Lord Percy that &quot;the rebels
 scalped and cut off the ears of some of the  
 wounded men who fell into their hands.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_edsel_ver01:data:sn85025567:00212472220:1875042701:0109/pct:18.928975893868305,46.057171020207,14.528393463840802,9.906357811729917/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_edsel_ver01:data:sn85025567:00212472220:1875042701:0109/pct:18.928975893868305,46.06127813372762,14.544572075715903,9.910464925250533/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -308,7 +308,7 @@ scalped and cut .off the cars of some of
 the wounded men, who fell into their  
 hands. It is not known what numbe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn85038088:00296028903:1875043001:0333/pct:46.37961859356377,50.69992364469331,12.604290822407629,3.1560193433443624/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn85038088:00296028903:1875043001:0333/pct:34.79880774962742,38.02494273351998,9.463487332339792,2.367014507508272/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

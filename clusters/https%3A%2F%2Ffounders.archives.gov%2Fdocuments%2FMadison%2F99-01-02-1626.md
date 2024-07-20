@@ -199,7 +199,7 @@ tion.
 SHALL TIIF. OCEAN HE FREE ?  
 This is the question which at this mo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808041201:0126/pct:40.840496657115565,4.289340101522843,36.38968481375358,90.29187817258884/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808041201:0126/pct:40.83269671504966,4.2887958380916125,36.389101094983445,90.28465084803113/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -296,7 +296,7 @@ Communications frc&gt;m Washington to the
 Editor cf the United States Guzette.  
 Tuesday, April 12
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1808050501:0397/pct:5.703103159071848,9.17714014702395,56.97511881464915,82.85511026796301/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1808050501:0397/pct:5.701509223029626,9.174964438122332,56.96851127259176,82.84336968547495/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -413,7 +413,7 @@ past, and whir l, the Dm, h cnmninoij.ie,,
 themselves, acting under the nm,pollute ,.r­  
 nerso; the cabinet, had j„ their note diMimo 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808051401:0015/pct:77.45716862037872,33.62484157160963,17.63751127141569,61.039290240811155/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808051401:0015/pct:77.44320230796971,33.620580408059816,17.64034138718596,61.03577915769019/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -579,7 +579,7 @@ again.?? impressment* at sea, tve were hap­
 xpcc. from the new minis­  
 Lii» aoexj tmath n of if« views relative to the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808051401:0016/pct:3.5675082327113063,1.7920691408235891,18.27661909989023,89.64158617183529/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808051401:0016/pct:3.5668556795317357,1.7918414029736942,18.279373208950673,89.63443046553988/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -780,7 +780,7 @@ shall be known to us relative to. such of the
 topics, as were not contemplated by the in­  
 structions originally given to the mission
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808051401:0016/pct:22.08196121478229,1.0676156583629892,35.967800951335526,96.28876461616674/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808051401:0016/pct:22.07792207792208,1.0674799847502858,35.967319065910615,96.28076418011607/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -800,7 +800,7 @@ which they are respectively attached &quot;_
 ! The obvious sense of this paragraph, ami  
 the forms and substance of the complete
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809053001:0165/pct:23.386498516320476,46.13305880839017,18.119436201780417,3.667481662591687/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809053001:0165/pct:23.382162061932135,46.127123005661346,18.122257247048644,3.6712986790186997/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -832,7 +832,7 @@ place the relations of the countries
 in an it barrassing sitUaton, Sec.&quot;—  
 Here now it will be proper to bear i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809062101:0001/pct:78.2336297493937,37.84068466096116,17.11802748585287,12.416063199473339/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809062101:0001/pct:78.2336297493937,37.84068466096116,17.12476421449744,12.420452051788457/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -856,7 +856,7 @@ been represented to him, that an officer,
   
 &#x27;ostss arrived from A. --ss__ss ica, had that mom
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216109:1809062801:0060/pct:2.8869407496977026,36.850634734851894,24.51632406287787,6.590438462231026/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216109:1809062801:0060/pct:2.886504458213692,36.847317248829675,24.51765654123218,6.592845996879126/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -933,7 +933,7 @@ nut any abandonment of the ir rights,&#x27;and o« induced
 to yield in return, as their confidence increased, the  
 equivalents which we hud offered in our prbject.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809090401:0655/pct:29.62221666249687,68.106471150781,21.36602451838879,12.942301562001912/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809090401:0655/pct:29.61480740370185,68.09561752988049,21.366933466733368,12.944223107569721/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -957,7 +957,7 @@ was not bound, or supposed, or intended to be bound to raiify what we had|
 done, if it disapproved of it.”? The other, dated O tober 10, 1807, fays, at an)  
 interview they *
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1812091001:0363/pct:4.542862573655198,24.406353200188708,41.91218399543813,11.14955181632332/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1812091001:0363/pct:4.549198504720269,24.41683702888295,41.90584806437306,11.144309901976202/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1011,7 +1011,7 @@ theless, for our advantage, completely open for
 future negotiation and more formal adjust­  
 ment.” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814033001:0067/pct:40.47831518829199,84.53571848887843,16.830269498482956,6.0021183947275505/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814033001:0067/pct:40.471092077087796,84.52577076959284,16.833214370687603,6.005334588530634/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1082,7 +1082,7 @@ treaty itself; tba^t they understood the firiti&#x27;h
 government meant to aohere in practice there­  
 after to a correct course of conduct with re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814033001:0067/pct:40.514010351597356,14.769918794868778,34.35659468142067,79.08673649523361/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814033001:0067/pct:40.506780870806566,14.76818074841139,34.356412086604806,79.08135247509217/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1144,7 +1144,7 @@ and that in truth the support of Parliament could not have
 been relied on in such a case.STaTE PuperE, vol. 3, P. 160.  
 The British commissioners were two excellent per
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271743403:1862011001:0088/pct:188.72785829307568,117.71872824321188,50.75684380032206,11.731260153167788/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271743403:1862011001:0088/pct:62.9092860976919,39.23957608107063,16.918947933440688,3.9104200510559295/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

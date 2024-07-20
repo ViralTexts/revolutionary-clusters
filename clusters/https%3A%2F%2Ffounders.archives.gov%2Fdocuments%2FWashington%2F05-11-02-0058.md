@@ -109,7 +109,7 @@ the seventeenth.
 By the PrES I DENT.  
 Th: JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792092901:0001/pct:8.32072617246596,17.921774664331583,20.5446293494705,58.805215022377894/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792092901:0001/pct:8.328290468986385,17.926639424012453,20.552193645990922,58.814944541739635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -206,7 +206,7 @@ Go. WASHINGTON.
 By the President.  
 Th : Jefferson.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792092901:0004/pct:6.726308813783963,13.882443928847641,22.76341948310139,61.446249033255995/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792092901:0004/pct:6.7345924453280315,13.882443928847641,22.77170311464546,61.45591647331786/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -312,7 +312,7 @@ GEO. WASHINGTON.
 By the President.  
 THo : JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1792101801:1102/pct:9.966134494436382,3.8944319279047312,43.081761006289305,88.4454457676215/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1792101801:1102/pct:9.982260925657153,3.905160390516039,43.081761006289305,88.4454457676215/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -751,7 +751,7 @@ aiding and aiiniing therein according to iaw.&#x27;—And
 likewiie directed, tliit. proitcutious might be infU*  
 tuted against the ofleirders, in the cftes jn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794082101:0001/pct:68.81519122760096,42.55281997555439,18.454132120887937,11.960887026366334/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794082101:0001/pct:68.82856378710885,42.56591583726209,18.480877239903716,11.960887026366334/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -810,7 +810,7 @@ To this proclamation which declares the cons
 tutionality of the Excise Laws, and plodged the  
 Government to subdne the opposition to them 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530303:1850030201:0461/pct:43.578947368421055,151.02207686017988,42.73684210526316,26.795935054316086/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530303:1850030201:0461/pct:14.526315789473685,50.34069228672663,14.24561403508772,8.931978351438694/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -847,7 +847,7 @@ government, and the preservation of the pub
 lie peace, to aid and assist therpin according  
 &#x27; to law.&#x27; &quot; It
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661381:1850110601:0465/pct:32.8149300155521,44.54853273137697,14.73207973985579,12.934537246049661/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661381:1850110601:0465/pct:32.8149300155521,44.55605718585402,14.74150525472454,12.934537246049661/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -907,7 +907,7 @@ strictly put in execution for bringing to justice
 the infractors therof, and securing obedience  
 thereto
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774662:1861052301:0506/pct:216.35714285714286,92.05043132050432,49.42857142857143,19.323158593231586/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774662:1861052301:0506/pct:54.118277648740396,23.01260783012608,12.363766303376808,4.8307896483078965/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -999,7 +999,7 @@ GO. WASHINGTON.
 By the limtFSIDEcNT,  
 Tit. JrEFi-EtSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_drinksmall_ver01:data:sn93067705:00237288439:1878120701:0124/pct:1.2939675596865319,4.497514850284883,36.139967195188625,92.5324281731119/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_drinksmall_ver01:data:sn93067705:00237288439:1878120701:0124/pct:1.2939675596865319,4.50559663797632,36.15819209039548,92.5324281731119/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -139,7 +139,7 @@ verv truly and affectionately yours and their
 friend and fellow-townsman.  
 J. ADAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826072801:0614/pct:3.767582049564635,39.63263466306063,18.63697253851306,23.720982645931937/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826072801:0614/pct:3.7669512807634353,39.628169014084506,18.639433004073886,23.72206572769953/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -185,7 +185,7 @@ tion was delivered by Mr. George Whitney,
 and -an ode, writteu by G. W. Adams, son of  
 the President, sung at the meeting-house
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1826080101:0121/pct:73.87899262899263,45.43515791611659,16.093366093366093,6.326800040621509/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1826080101:0121/pct:73.87899262899263,45.43515791611659,16.103603603603602,6.333570292136353/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -270,7 +270,7 @@ gravel was dislodged from one of these moun­
 tains and alwost destroyed the road through}  
 .._tﬁlcm; commonly cailed the “Notch.” Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1826080101:0121/pct:73.83292383292384,52.36112521580176,16.17014742014742,37.39209911648218/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1826080101:0121/pct:73.83292383292384,52.36112521580176,16.175266175266174,37.40563961951187/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -456,7 +456,7 @@ ages shall rolt away, and a coincidence like this
 I 1 a sis, that heaven, in thus taking them abovef has ’  
 ft its own signature on what they did below. ’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826080101:0100/pct:5.812480202724105,7.581918201387228,15.235983528666456,87.44319540779718/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826080101:0100/pct:5.811559778305622,7.5810115987085975,15.23884930060702,87.43672525808122/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -994,7 +994,7 @@ cestors to preserve entire those rights which they
 have delivered to our care. We owe it to our posteri­  
 ty not to suffer their dearest inheritance to be destroyed.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn84020557:00414187456:1841072801:0121/pct:32.0084485407066,45.97114964301326,12.17357910906298,1.6902229345767157/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn84020557:00414187456:1841072801:0121/pct:32.00230370512574,45.964452214452216,12.176041466692263,1.693618881118881/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1051,7 +1051,7 @@ to our care. We owe it to our posteri­
 ty, not to sufTcr their dearest inheritance  
 to be destroyed. But, it it were possi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:00332895047:1856092601:0360/pct:55.578859060402685,24.876019836826107,12.751677852348994,3.4554471284594466/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:00332895047:1856092601:0360/pct:55.56720486475152,24.87204094689699,12.75424617320193,3.458893154190659/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1080,7 +1080,7 @@ livered to their care ! They owed it to their pos­
 terity, not to suffer their dearest inheritance to  
 be destroyed. To alienate even their own rights
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dunbar_ver01:data:sn85026213:print00211110119:1863020801:0006/pct:4.001455074572572,45.62199679658302,12.1498726809749,2.2557394554191137/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dunbar_ver01:data:sn85026213:print00211110119:1863020801:0006/pct:4.0150963986904324,45.62199679658302,12.140778464896325,2.269087026161239/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1105,7 +1105,7 @@ ed to our care. We owe it to our posterity,
 not to &amp;ufl&#x27;er their dearest inheritance to be  
 destroyed. But, if it were possible for u
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027238:00279529431:1864102601:0760/pct:15.487062404870624,61.11336854937017,11.047691527143582,5.119869971556278/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027238:00279529431:1864102601:0760/pct:15.495518349399628,61.11675470675877,11.047691527143582,5.123256128944873/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1137,7 +1137,7 @@ wo (two it to our posterity not
 to suffer their dearest inheri­  
 tance to bo destroyed. Bat i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_agate_ver01:data:2018270504:00383343562:1882032501:0254/pct:26.097443318861554,13.761241838117531,21.99710564399421,82.49353209313786/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_agate_ver01:data:2018270504:00383343562:1882032501:0254/pct:26.093247588424436,13.759546686375955,21.9975884244373,82.48644986449864/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1157,7 +1157,7 @@ owe it to our posterity not to suffer
 their dearest inheritance to be de­  
 stroyed.’ And ifyou feed the natio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_neely_ver01:data:sn85059778:00340582135:1888092801:0339/pct:41.46136618141097,60.957661290322584,11.828107502799552,3.3669354838709675/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_neely_ver01:data:sn85059778:00340582135:1888092801:0339/pct:41.4555633310007,60.95151698417498,11.831117331467226,3.369955985619729/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1233,7 +1233,7 @@ livered to our care; we i/ire it to our pos­
 terity not to allow their dearest inher­  
 itance to be destroyed.—Junius
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346824:1899020101:0636/pct:80.99662162162163,80.58765269065698,12.105855855855856,13.073621657312644/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346824:1899020101:0636/pct:81.00131381381381,80.58765269065698,12.105855855855856,13.08462638934742/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

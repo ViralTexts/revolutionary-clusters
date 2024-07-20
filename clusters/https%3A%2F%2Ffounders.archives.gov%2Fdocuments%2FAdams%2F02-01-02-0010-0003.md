@@ -217,7 +217,7 @@ mistaken, for he had deserved the loss.
 Pleasure, wealth, fame, are all desirable,  
 no one of these is fit to be made th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_falcon_ver01:data:sn99068076:00415623367:1888050401:0444/pct:59.059233449477354,21.43448275862069,10.574912891986063,5.710344827586207/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_falcon_ver01:data:sn99068076:00415623367:1888050401:0444/pct:59.059233449477354,21.43793103448276,10.58362369337979,5.724137931034483/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -254,7 +254,7 @@ hardly mentioned. We all know that reputation
 sometimes &quot;is an idle and most false imposition,  
 oft got without merit, and lost without deserving
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_olds_ver01:data:sn83030214:00175039053:1897022701:0430/pct:196.9043151969981,175.65217391304347,45.700437773608506,3.9456521739130435/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_olds_ver01:data:sn83030214:00175039053:1897022701:0430/pct:65.63477173233271,58.55072463768116,15.233479257869503,1.315217391304348/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

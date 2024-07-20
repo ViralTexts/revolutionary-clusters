@@ -93,7 +93,7 @@ American Remembrancer,
 OR, AN IMPARTIAL COLLECTION OF  
 Essays, Resolves, Speeches, &amp;c. relative t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795090401:0004/pct:50.668091929449496,26.432532347504623,21.058257616247996,3.2599563098638886/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795090401:0004/pct:50.688134687332976,26.436733322130735,21.0515766969535,3.2767602083683416/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -112,7 +112,7 @@ partial collection of E*says, Resolves, &#x27;
 bpechen, Uc. relative to the Treaty with  
 Great Britain
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811052001:0174/pct:60.922416875223455,62.026537997587454,16.785841973543082,2.629674306393245/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811052001:0174/pct:60.911528150134046,62.01905680858763,16.788799523383975,2.6333775579946126/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -136,7 +136,7 @@ The American Remembrancer ; or an im*
 partial collection of Essays, Resolves,  
 bpeches, &amp;c. relative to the Trea&#x27;y wit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811053001:0186/pct:22.987658869036654,46.78149358813176,17.369681340946766,5.720392255468947/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811053001:0186/pct:22.983425414364643,46.77561282212445,17.372621240024554,5.723863398282003/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -160,7 +160,7 @@ The American Remembrancer; or an im­
 partial collection of Essays, Resolves,  
 bpeche.s, &amp;c. relative to the Treaty wit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811061701:0206/pct:5.431547619047619,47.44433198380567,17.131696428571427,5.807186234817814/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811061701:0206/pct:5.43053747442812,47.43833017077799,17.134709565433017,5.810668353362851/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -209,7 +209,7 @@ nient of soldiers of vessel* of war, are so consid|
 ered, and, under such circumstances, provisions  
 are so regarded, and if captured are liable to confiscation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661496:1852021901:0188/pct:44.56900469625814,90.95043731778425,15.846083926677776,4.198250728862973/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661496:1852021901:0188/pct:44.56900469625814,90.95043731778425,15.856183406554562,4.206025267249757/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -241,7 +241,7 @@ or, an Impartial Collection of Spesohes, Essays and Re­
 solves Relative to the Treaty with Great Britain,&quot; in  
 three volumes, the last of which is an unpardonabl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ford_ver01:data:sn83030214:00175038103:1886021801:0421/pct:105.53528945281522,259.0136621126291,45.582870737509914,9.219149172498057/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ford_ver01:data:sn83030214:00175038103:1886021801:0421/pct:35.17842981760508,86.33788737087637,15.194290245836637,3.073049724166019/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -291,7 +291,7 @@ when forced upon us, is the only
 courseof which the United States  
 can never have reason to repend
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_abolitionist_ver02:data:sn86074033:00199916270:1898030501:0897/pct:4.532360284232763,81.83468304942754,15.748031496062993,5.878246299916224/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_abolitionist_ver02:data:sn86074033:00199916270:1898030501:0897/pct:3.5175630085334393,63.42519117010532,12.20976384203215,4.55201269658058/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

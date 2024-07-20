@@ -244,7 +244,7 @@ bly coerce fey a novo force, as being more)
 easy, less dangerous to liberty and lea likely .  
 to tTouiice mucu easncd. -Jejtenon 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn84028745:00280775332:1861010201:0419/pct:105.19145802650958,10.811585890450244,16.49484536082474,12.087754516776599/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn84028745:00280775332:1861010201:0419/pct:78.91732645921562,8.115858904502437,12.373411894678696,9.062231144250072/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -277,7 +277,7 @@ they will probably coerce by a naval force, as
 being more easy, lese dat gerour to liberty and  
 less likely to produce much bloodshed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_nelson_ver01:data:sn83030272:00206539872:1861010301:0394/pct:20.9508460918614,17.32831063459867,105.47945205479452,371.66038829324833/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_nelson_ver01:data:sn83030272:00206539872:1861010301:0394/pct:5.238766874874068,4.332077658649667,26.375176304654442,92.91509707331208/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -323,7 +323,7 @@ naval force, as being more easy, less dangerous
 to liberty and less likely to produco much blood­  
 shed.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84027060:00415668909:1861010501:0004/pct:24.53833653420003,47.192749778956674,11.212882257349682,11.88107869142352/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84027060:00415668909:1861010501:0004/pct:24.548185354803763,47.19643383436487,11.212882257349682,11.884762746831713/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -367,7 +367,7 @@ to produce much bloodshed.&quot;
 the Executive, Judicial and Legislative po  
 eer of the Government in their hands, pusil-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528682:1861010501:0155/pct:17.727526521496372,99.07576680885639,43.69067560022334,72.24253503960999/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528682:1861010501:0155/pct:5.909175507165457,33.02525560295213,14.563558533407779,24.08084501320333/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -402,7 +402,7 @@ a naval force as being more easy, lees dan
 ire re u 8 to liberty and less likely to produce  
 bloodshed.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026192:00280775769:1861011001:0607/pct:86.92363112391931,91.69469598965071,19.45244956772334,16.054333764553686/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026192:00280775769:1861011001:0607/pct:65.21347504954062,68.77102199223803,14.591965411637542,12.043984476067271/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -438,7 +438,7 @@ erce by a naval force as being mere easy,
 less dangerous to liberty and less likely to  
 produce much bloodshed.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028820:00280775472:1861011001:0399/pct:42.65246142542248,17.337590227651305,16.2747979426892,16.227096057745698/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028820:00280775472:1861011001:0399/pct:32.016173497518835,13.006662965019434,12.20363903694174,12.173792337590228/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -474,7 +474,7 @@ will probably coerce by a naval force, as
 being more easy, less dangerous to liberty,  
 and leaa likely to produce much bloodshed.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027253:00279528529:1861011101:0006/pct:72.72857142857143,67.78441788401948,11.085714285714285,9.318282425852146/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027253:00279528529:1861011101:0006/pct:72.73809523809524,67.78441788401948,11.08095238095238,9.325660321676258/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -510,7 +510,7 @@ will probably coerce by a naval force, as
 being more easy, less dangerous to liberty,  
 and less likely to produce much bloodshed.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027253:00279528529:1861011101:0007/pct:72.76848965712666,67.85201546107123,11.00878435817512,9.364991717283269/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027253:00279528529:1861011101:0007/pct:72.77793520355152,67.85201546107123,11.01350713138755,9.368672924719307/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -592,7 +592,7 @@ they will probably coerce by a naval force, a
 being more easy, less dangerous to liberty and  
 less likely to produce much bloodshed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_nelson_ver01:data:sn83030272:00206539872:1861011202:0434/pct:242.7710843373494,100.31975531766996,47.816265060240966,29.806756568886417/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_nelson_ver01:data:sn83030272:00206539872:1861011202:0434/pct:60.69277108433735,25.07993882941749,11.954066265060241,7.451689142221604/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -626,7 +626,7 @@ by a naral force, as being more easy, less dans
 zerous to liberty, and less likely to produce  
 much błoodshed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009571:00279523891:1861012501:0228/pct:189.765876910136,177.56014477325954,33.4081031823917,12.273791781988503/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009571:00279523891:1861012501:0228/pct:63.24642556770395,59.180415114422566,11.134473413699654,4.090828454851872/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -653,7 +653,7 @@ Should this case ever arise, they will
 ay, less dangerous to liberty, and less likely to  
 produce much bleodshedn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn83016318:00296024570:1861020601:0446/pct:6.679278230500582,255.1496062992126,36.9324796274738,17.606299212598426/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn83016318:00296024570:1861020601:0446/pct:2.2264260768335276,85.0498687664042,12.310826542491268,5.868766404199475/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -762,7 +762,7 @@ force, as being more easy, less dangerous to
 liberty and less likely to produce much blood­  
 shed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn84038814:00279557219:1861022701:0060/pct:29.404192717911,78.77421066595915,12.688488414858403,12.669143008755638/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn84038814:00279557219:1861022701:0060/pct:29.408789996322177,78.78084372512603,12.683891136447222,12.66250994958875/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -804,7 +804,7 @@ liberty and less likely to produce much blood­
 shed.  
 Ike was reading to Mrs Partington, th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn93051083:00279557517:1861030901:0547/pct:3.164367126574685,57.217932217932216,14.262147570485903,15.22951522951523/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn93051083:00279557517:1861030901:0547/pct:3.164367126574685,57.221507221507224,14.267146570685863,15.233090233090232/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -874,7 +874,7 @@ less likely to produce much blood-shed.
 I  
 At Bunker Hill the patriots fough
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn85029094:00237281858:1861032701:0140/pct:330.87108013937285,71.76215388541534,52.54355400696864,39.45387265535281/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn85029094:00237281858:1861032701:0140/pct:82.74660160334611,17.940538471353836,13.14046706169397,9.863468163838203/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -909,7 +909,7 @@ th.c„„. ultimately required it, thev S
   
 would w
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn87058318:0027952892A:1861040401:0350/pct:44.31801389094133,40.65425831923294,26.658785281513225,5.922165820642978/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn87058318:0027952892A:1861040401:0350/pct:44.32293975666224,40.65425831923294,26.668637012955028,5.933446136491821/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -945,7 +945,7 @@ erce by a naval force, as beh
 s dangerous to  
 likely to produce much bloodshed.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn87058318:0027952892A:1861040401:0350/pct:55.31254617999113,43.84658770445572,20.954632776710508,5.380710659898477/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn87058318:0027952892A:1861040401:0350/pct:55.31747204571204,43.85034780973867,20.96941037387321,5.380710659898477/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -980,7 +980,7 @@ ting more easy, less dangerous to liberty
 a d less likely to produce much blood­  
 shed. &#x27;&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016179:00296026189:1861062001:0502/pct:73.92182051752616,78.7477083627133,11.047898697008625,10.830630376533634/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016179:00296026189:1861062001:0502/pct:73.92793784792316,78.75240915714755,11.04178136661161,10.835331170967894/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1006,7 +1006,7 @@ tills cass ever arise they will, pft&amp;Ht/,
 COSNO by a naval force, as bdny more  
 S*aa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291049:1861062201:0129/pct:77.8281363306744,75.08689003197553,14.412617839013778,7.9938829417489226/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291049:1861062201:0129/pct:77.8326686004351,75.09036563325455,14.412617839013778,7.997358543027944/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1101,7 +1101,7 @@ rence. Should the case ever arise, they will
 probably coerce by a naval force, as being  
 more easy.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_continental_ver02:data:sn82014760:00237288804:1861070201:0613/pct:144.72222222222223,21.368385574654532,117.31481481481481,363.8692281766094/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_continental_ver02:data:sn82014760:00237288804:1861070201:0613/pct:36.205698401667824,5.342096393663633,29.34908501274033,90.96730704415235/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1137,7 +1137,7 @@ rence. Should the case ever arise, they will
 probably coerce by a naval force, as being  
 more eaay.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_continental_ver02:data:sn82014760:00237288804:1861070201:0614/pct:153.24794144556267,27.448367754830112,125.06861848124429,358.0279813457695/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_continental_ver02:data:sn82014760:00237288804:1861070201:0614/pct:38.329519450800916,6.862091938707528,31.28146453089245,89.50699533644237/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1172,7 +1172,7 @@ Should the caso ever arise, they will proba­
 bly coerce by a naval force, as being more  
 easy.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn85054616:00212477795:1861070301:0302/pct:29.691516709511568,97.31027857829011,19.681876606683804,14.024975984630164/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn85054616:00212477795:1861070301:0302/pct:22.272215973003373,72.98270893371757,14.76779688253254,10.518731988472622/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1233,7 +1233,7 @@ who infringes it. Dscency forbids, and it is
 as unnecessary as indecent.  
 SECRSSION NAWS FOR THE G9TM. W
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:00206539884:1861071001:0031/pct:329.1494632535095,190.69626026147765,62.0148637489678,17.148069321982366/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:00206539884:1861071001:0031/pct:82.32135481206113,47.67406506536941,15.510119785212723,4.287017330495591/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1274,7 +1274,7 @@ case ever ariic, they will probably co­
 erce by a naval force, as being more  
 easy.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016179:00296026189:1861071101:0513/pct:60.90744101633394,68.87726244343891,11.125226860254083,17.293552036199095/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016179:00296026189:1861071101:0513/pct:60.90744101633394,68.87726244343891,11.149425287356323,17.302978883861236/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1335,7 +1335,7 @@ use that recurrence. Should the ease ever
 arise, they will probably coerce by a naval force,  
 as being more easy.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn88085145:no_reel:1861081501:0674/pct:110.11790512750206,90.93743504468925,42.50068549492734,38.474329661193096/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn88085145:no_reel:1861081501:0674/pct:36.70596837583402,30.31247834822975,14.166895164975779,12.824776553731033/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1375,7 +1375,7 @@ ever rise, tbeywill probably coerce by
 a tiaval force, as being mom easy.”  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_beachhaven_ver01:data:sn85035610:00513684976:1861082101:0331/pct:60.32645352758667,80.81043810332025,11.169566976932416,17.821152010183514/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_beachhaven_ver01:data:sn85035610:00513684976:1861082101:0331/pct:60.31831669813866,80.80186677980484,11.172556424781945,17.822797341253004/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1416,7 +1416,7 @@ currence. Should the case ever arise, they
 will probably coerce by a naval force, as being  
 more easy.1’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn84026884:00279557505:1861082301:0652/pct:31.514018691588785,50.40570789031897,12.504672897196262,15.68270844991606/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn84026884:00279557505:1861082301:0652/pct:31.523364485981308,50.41270285394516,12.518691588785046,15.68270844991606/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1484,7 +1484,7 @@ will probably coerce, by a naval force, as being more
 easy.”  
 Keep it Before the People.—That Edmon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn85025202:00279557293:1861083101:0387/pct:31.68185269552012,56.34972965844653,15.072133637053911,10.154292496373467/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn85025202:00279557293:1861083101:0387/pct:31.68185269552012,56.35302650665963,15.086370539104024,10.157589344586576/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1526,7 +1526,7 @@ are Jeffcrsonian Democrats dispose of this truth,
 and at the game time deny the Federal Govern&#x27;  
 stent the right to coerce States into obedienc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026050:00280775836:1864082601:0353/pct:6.853672643146328,116.67215092683998,14.95083863504916,10.080070198530219/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026050:00280775836:1864082601:0353/pct:5.148973098061903,87.50685532521663,11.209140873589817,7.568279039157618/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1581,7 +1581,7 @@ nence bef re they would recur to force, but if the case
 ultimately required it, they would use that recurrence.&quot;  
 I he speaker then continued at some length to revie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:0028077764A:1864100701:0823/pct:117.84879189399844,272.0240782543266,49.961028838659395,12.761474793077502/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:0028077764A:1864100701:0823/pct:29.473684210526315,68.00601956358165,12.495126705653021,3.1903686982693755/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1722,7 +1722,7 @@ fuses obedience to the confederation by which they have
 bound themselves, the rest have a natural right to com  
 pel them to obedience
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_lorca_ver01:data:sn83030272:00206533109:1888102101:0609/pct:283.1158864159632,227.08968883465528,50.729086722947045,5.308114704087858/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_lorca_ver01:data:sn83030272:00206533109:1888102101:0609/pct:70.80614203454894,56.77242220866382,12.687140115163148,1.3270286760219645/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1743,7 +1743,7 @@ the confederation by which they
 , have a natural right to compel them  
 to obedience
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_neely_ver01:data:sn85059778:00340582135:1888110201:0360/pct:70.14799154334038,69.94541043267287,12.332628611698379,3.8515972503032754/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_neely_ver01:data:sn85059778:00340582135:1888110201:0360/pct:70.13810597519729,69.93834024057415,12.335588124765126,3.8545773105562855/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1763,7 +1763,7 @@ federation by which they have bound
 themselves, the rest have a natural right  
 to compel them to obedience
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn84024448:0029602076A:1888111801:1219/pct:182.6625386996904,362.57634647418104,49.61300309597523,11.327040533037202/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn84024448:0029602076A:1888111801:1219/pct:45.67447261467002,90.64408661854526,12.405651248306562,2.8317601332593005/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1809,7 +1809,7 @@ by which they have bound themselves tho
 rest have a natural right to compel them to  
 obedienc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_borges_ver01:data:sn83030272:00175044851:1889070401:0630/pct:66.40378548895899,102.41751558461304,51.73501577287066,11.312148395925194/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_borges_ver01:data:sn83030272:00175044851:1889070401:0630/pct:16.600946372239747,25.60437889615326,12.933753943217665,2.8280370989812984/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1829,7 +1829,7 @@ have hound themselves, tbe real
 have a natural i ight to ?  
 them to ubnlieuce
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ozzyosbourne_ver01:data:sn85026941:00175032381:1889071901:0317/pct:45.295471987720646,67.0620538165843,10.575594781273983,3.0313014827018123/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ozzyosbourne_ver01:data:sn85026941:00175032381:1889071901:0317/pct:45.295471987720646,67.06937580084202,10.580711179329752,3.0313014827018123/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1868,7 +1868,7 @@ or more states concerning boundary, juris­
 diction or any cause whatsoever. A mode  
 of establishing a court for the trial of thes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_jay_ver01:data:sn83025308:0021247664A:1892010901:0076/pct:13.200525394045535,230.65642458100558,43.6077057793345,5.782122905027933/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_jay_ver01:data:sn83025308:0021247664A:1892010901:0076/pct:4.400175131348512,76.8854748603352,14.535901926444833,1.9273743016759777/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1926,7 +1926,7 @@ Union refuses obedience to the confederation by
 which they have bound themselves, the rest  
 have a natural right to compel them to obe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175045181:1895012301:0288/pct:278.2683486238532,239.0622621403562,51.31880733944954,9.255594458821738/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175045181:1895012301:0288/pct:69.5670871559633,59.76556553508905,12.829701834862385,2.3138986147054346/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

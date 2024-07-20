@@ -156,7 +156,7 @@ in the sixtieth year of the independence of the United
 States, to take rank as such from the first day of March,  
 in said year, and here to the Court now shown (marke
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271742940:1846112801:0619/pct:6.691387156581831,194.6935041171089,47.32850160121355,4.048490393412626/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271742940:1846112801:0619/pct:2.230462385527277,64.89783470570296,15.776167200404517,1.3494967978042085/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -270,7 +270,7 @@ or my hand, at the city of Baten rouge,
 ta al on the asoond day af hny, in the wear of our Lord  
 ene thousand eight hundred and sirty-two
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:00271743427:1862090301:0039/pct:103.18611987381703,58.5247199909492,45.14195583596214,17.694309311008034/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:00271743427:1862090301:0039/pct:34.39537329127234,19.508239996983068,15.047318611987382,5.898103103669344/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -416,7 +416,7 @@ ders and directions from time to time as ho shall re­
 ceive from the Commander-In-Chief or his superior  
 olllcors, This commission to continue In force dur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fullerton_ver02:data:sn84031492:no_reel:1874010801:0002/pct:15.003538570417552,18.231640482279868,13.092710544939845,3.2882718304713188/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fullerton_ver02:data:sn84031492:no_reel:1874010801:0002/pct:15.015333805142722,18.231640482279868,13.09860816230243,3.3019729630982826/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -439,7 +439,7 @@ your superior Officers, according to mili­
 tary Rules and Discipline in War, in Pur­  
 suance of the Trust reposed in you
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202197607:1875051901:0499/pct:19.685374149659864,21.518987341772153,14.69671201814059,5.28153644696639/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202197607:1875051901:0499/pct:14.76966690290574,16.139240506329113,11.027639971651311,3.9720646006110867/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -512,7 +512,7 @@ in Force until revoked by the As mbly
 or by the present or any succeed  
 ig Committee of Safety
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_mara_ver01:data:sn84026847:00415665222:1876051101:0458/pct:40.104468949506675,53.27970297029703,12.869994196169472,12.242161716171617/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_mara_ver01:data:sn84026847:00415665222:1876051101:0458/pct:40.104468949506675,53.28657865786579,12.879667247049719,12.245599559955995/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -701,7 +701,7 @@ to continue in Force until revoked by
 the Affembly, or by the prefent or any j  
 fucceeding (,’ommittee of Safety
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_annapolis_ver01:data:sn85025350:00415627683:1891091901:0389/pct:39.00195694716243,49.013545347467605,16.2426614481409,24.867491166077738/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_annapolis_ver01:data:sn85025350:00415627683:1891091901:0389/pct:30.236085132197562,37.984938384299404,12.587836813103483,19.279628784421117/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -798,7 +798,7 @@ Secretary.
 ■ On tho side of this commission are signed  
 the names of William Neven , W7. Spooner
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_halfwayrock_ver01:data:sn83016025:00414210879:1895021601:0682/pct:31.329052344814166,52.13778516392204,12.51216189920218,10.862668076748754/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_halfwayrock_ver01:data:sn83016025:00414210879:1895021601:0682/pct:31.32295719844358,52.12990936555891,12.514591439688717,10.864803625377643/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -832,7 +832,7 @@ Taining. And I do strietly charge and require all
 under your command to be obedient to your orders,  
 unheir Gerscant. And, You are
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jaguar_ver01:data:sn83030214:00175038899:1896021601:0304/pct:51.21713729308666,103.93973214285714,47.79292437520286,11.752232142857142/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jaguar_ver01:data:sn83030214:00175038899:1896021601:0304/pct:17.072379097695553,34.64657738095238,15.930974791734286,3.9174107142857144/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -876,7 +876,7 @@ Attest: T. Mitners.
   
 Accompanying the commission wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_iona_ver01:data:sn90059523:00206536937:1896083001:0595/pct:42.803822036428784,53.03452712845807,25.47028963869812,42.01158052755736/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_iona_ver01:data:sn90059523:00206536937:1896083001:0595/pct:42.813775256295415,53.03810136535849,25.465313028764804,42.01158052755736/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1112,7 +1112,7 @@ This Commission to continue In force
 during the pleasure of the President ot  
 the United States for the time being
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_earl_ver02:data:sn85054468:211102202:1899100101:0541/pct:122.15808170515098,51.82022471910113,17.71758436944938,11.123595505617978/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_earl_ver02:data:sn85054468:211102202:1899100101:0541/pct:81.4749000444247,34.550561797752806,11.81697023545091,7.415730337078652/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

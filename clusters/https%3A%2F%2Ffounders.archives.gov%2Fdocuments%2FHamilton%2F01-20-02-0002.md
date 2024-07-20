@@ -153,7 +153,7 @@ then fresh from the revolutionary contest, de­
 manded a more perfect union. Now, we oppose  
 that construction of the constitution, whic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216468:1832090401:0536/pct:8.000673740946606,38.056532815722434,17.73623041940374,18.270047312871526/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216468:1832090401:0536/pct:7.999326372515998,38.051916545366325,17.738857078702143,18.27187449458192/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -176,7 +176,7 @@ for the common defence, promoting the general
 welfare, ami securing the blessings of liberty to  
 themselves and their posterity,&quot; ordained and esta
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184340:1832090701:0303/pct:64.34479756203744,34.22436459246275,14.787403860107386,4.217791411042945/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184340:1832090701:0303/pct:64.33546140452698,34.22061562054989,14.790094795898627,4.2209807572936064/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -231,7 +231,7 @@ Congress—nor does it state that Congress
 shall permanently consist of a Senate and  
 House of Representatives. Will any on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215683:1840100601:0156/pct:5.460060667340748,63.61055700475679,15.335355578024942,7.526469234310265/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215683:1840100601:0156/pct:5.459447315210065,63.60567702339854,15.337377368381636,7.528449047436389/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -259,7 +259,7 @@ rence from any other department of the
 government. The words are as compre  
 hensive as any that our language can a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156347:1841012801:0946/pct:91.92645883293365,317.75091674589163,58.43325339728217,32.97568925709629/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156347:1841012801:0946/pct:22.99080367852859,79.43772918647291,14.614154338264694,8.243922314274073/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -323,7 +323,7 @@ tion of union and domestic tranquility, as well as
 of the common defence and general welfare, in  
 utter violation of the obligations of justice, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199252:1845013101:0182/pct:8.314263920671243,35.15583019881784,19.18382913806255,7.092960773777539/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199252:1845013101:0182/pct:6.239267315397825,26.37023105857066,14.405647777141766,5.319720580333154/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -401,7 +401,7 @@ ing justice, insuring domestic tranquillity, provid­
 ing for the common defence,promoting the general  
 wel fa re. and securing ihe blessings ol liberty, w Inc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661538:1854052001:0502/pct:17.414178613705115,85.44516943801305,12.771274496909115,1.925910334666386/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661538:1854052001:0502/pct:17.422947082292076,85.45218550480601,12.771274496909115,1.922402301269908/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -425,7 +425,7 @@ general welfare, and securing the blowings of lib
 
 ---
 
-## [From _The United States Review (1853-1856)_](https://archive.org/details/sim_united-states-democratic-review_1854-07_34/page/n12/mode/1up?view=theater)
+## [From _The United States review_](https://archive.org/details/sim_united-states-democratic-review_1854-07_34/page/n12/mode/1up?view=theater)
 
 #### 1854-07-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -463,7 +463,7 @@ accordance with the letter and spirit of the KansasNebraska
 act.  
 &quot;Resolved, That we fully endorse the action in Congres
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82006534:00415661095:1858082801:0207/pct:62.89106369324563,32.85857071464268,17.503609818706884,6.146926536731634/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82006534:00415661095:1858082801:0207/pct:62.89106369324563,32.86689988339164,17.508957698272635,6.142761952357155/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -482,7 +482,7 @@ fjr the common defence, promoting the general
 welfare, aiid securing to the people the blessings  
 cf liberty, and the powers not delegated xo th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn86071378:00212477631:1858122201:0489/pct:54.780058651026394,58.82220723758148,18.856304985337243,3.944706675657451/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn86071378:00212477631:1858122201:0489/pct:41.091069071711395,44.122274668464826,14.151635137116878,2.955720386603731/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -550,7 +550,7 @@ over to nich it has jurisdiction,&quot; or it may be define  to be
 ever swer of mrescribing tudes bendins pen all persons and  
 mings ave which tor nation has jmrisdirtio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basic_ver01:data:sn83030213:00206530716:1862082901:0890/pct:200.81071554458936,30.994366887092824,49.242157208318645,7.04139113397012/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basic_ver01:data:sn83030213:00206530716:1862082901:0890/pct:66.93690518152978,10.331455629030941,16.41405240277288,2.34713037799004/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -750,7 +750,7 @@ fence, promoting the general welfare, and
 securing the blessings of liberty. It  
 has kept and caused to be kep
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_java_ver01:data:sn83030214:00206531332:1878090501:0038/pct:200.78112286411718,44.52023647112324,47.323026851098454,10.652569349704411/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_java_ver01:data:sn83030214:00206531332:1878090501:0038/pct:66.92704095470572,14.840078823707746,15.774342283699484,3.5508564499014703/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -775,7 +775,7 @@ insuring domestic tranquillity, providing for u com­
 mon defense, promoting the general welfare; mi l  
 securing the blessings of liberty, it has&#x27; kept an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_michigan_ver01:data:sn84031492:no_reel:1878090501:0004/pct:70.70758305858483,26.259207644833765,12.629977174740045,4.101134780011945/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_michigan_ver01:data:sn84031492:no_reel:1878090501:0004/pct:70.72026375855947,26.26418475014931,12.642657874714684,4.11606609595859/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -796,7 +796,7 @@ defense, promoting the general welfare aud securing
 the blessings of liberty.  
 It has kept and caused to be kept the pledged aitl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_dunbar_ver01:data:sn83025287:0028076811A:1878090501:0325/pct:65.73811772112056,25.85211804421213,13.487566887000314,2.6026353043667645/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_dunbar_ver01:data:sn83025287:0028076811A:1878090501:0325/pct:65.7486097996013,25.85937783585611,13.492812926240688,2.6062652001887545/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -816,7 +816,7 @@ insuring domestic tranquility, providing for the com­
 mon defense, promoting the general welfare and se­  
 wing the blessings of liberty.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_golf_ver01:data:sn85025620:00212479317:1878091201:0327/pct:50.244926522043386,53.211815087295484,10.678796361091672,1.976501592181838/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_golf_ver01:data:sn85025620:00212479317:1878091201:0327/pct:50.25425705621647,53.211815087295484,10.674131094005132,1.9874821565828484/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -836,7 +836,7 @@ ing domestic tranquillity, providing for the common
 defense, promoting the general welfare and securing  
 the blessings of liberty.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_mazda_ver01:data:sn89064525:00212479214:1878091201:0044/pct:39.933669082422306,34.47851599469998,10.563812799410393,1.9875070982396366/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_mazda_ver01:data:sn89064525:00212479214:1878091201:0044/pct:39.94185808459239,34.4848255410436,10.563812799410393,1.9843523250678277/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -861,7 +861,7 @@ ing domestic tranquility, providing for the common
 deiense, promoting the general weaaie and secur.ug  
 the blessings of liberty
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quiring_ver01:data:sn89064939:00280766690:1878091801:0253/pct:44.00694846554719,3.5478128179043744,33.5842501447597,91.09867751780264/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quiring_ver01:data:sn89064939:00280766690:1878091801:0253/pct:44.00694846554719,3.5562902678874195,33.603551437946344,91.10291624279417/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

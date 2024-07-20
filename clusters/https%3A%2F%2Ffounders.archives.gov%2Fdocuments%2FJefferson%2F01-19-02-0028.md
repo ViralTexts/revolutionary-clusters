@@ -99,7 +99,7 @@ State, be annexed to the Edition.
 Thomjs Jefferson, Secretary of State.  
 February sth, 1791
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791020901:0002/pct:38.44332642793726,6.40616193875634,54.33560224918615,85.91020101446553/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791020901:0002/pct:38.45072506658775,6.410858538418185,54.350399526487124,85.91959421378921/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -179,7 +179,7 @@ State, be annexed to the Edition. 3
 State.  
 February 5, 1791
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791022601:0755/pct:5.667536163149158,16.46605681271064,41.996680104339575,77.94896485315358/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791022601:0755/pct:5.675440676626353,16.47675600492163,42.01248913129397,77.94896485315358/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -240,7 +240,7 @@ THOMAS JEFFERSON, Secietary of State.
   
 February 5, 1789.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791060101:0003/pct:62.79823269513991,15.092592592592593,26.067746686303387,24.925925925925927/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791060101:0003/pct:62.79823269513991,15.092592592592593,26.08983799705449,24.935185185185187/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -299,7 +299,7 @@ rialift, be collated with, and corre&amp;ed by, the original rolls, and
 that a certificate thereof, by the Secretary ol State, be annexed to  
 the Edition.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791060801:0004/pct:67.40088105726872,18.036265432098766,28.005034612964128,24.65277777777778/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791060801:0004/pct:67.41661422278162,18.04591049382716,28.02076777847703,24.65277777777778/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -360,7 +360,7 @@ the Edition.
 THOMAS JEFFERSON, Secretary of State.  
 February 5, 1789.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791061501:0004/pct:33.20486214052772,20.14692378328742,31.514971835161578,24.811753902662993/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791061501:0004/pct:33.22709753928254,20.151515151515152,31.514971835161578,24.816345270890725/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -425,7 +425,7 @@ nexed to the Edition.
 THOMAS JEFFERSON, Secretary of State.  
 February 5, 1789.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_zarley_ver01:data:sn84038410:01000718192:1791062701:0006/pct:7.494553376906318,1.8481012658227849,61.6557734204793,90.35443037974683/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_zarley_ver01:data:sn84038410:01000718192:1791062701:0006/pct:7.491289198606272,1.8476335105036699,61.63980836236934,90.33788914198936/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -464,7 +464,7 @@ u As it is desirable that copies of the laws should be so multi­
 plied throughout the States, and in such cheap forms, as that every*  
 citizen of the United States ruay be able to procure them,&quot; it ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792053001:0003/pct:64.72065285624608,81.57998423955871,27.46390458254865,4.412923561859732/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792053001:0003/pct:64.72849968612681,81.57998423955871,27.46390458254865,4.422773837667455/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -488,7 +488,7 @@ fliould he so multiplied throughout the States,
 and in (uch cheap forms, as that every citizen of  
 ,he United States may be able to procure them,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792053101:0003/pct:71.41521197007481,74.39000585594378,21.07231920199501,6.500097599063049/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792053101:0003/pct:71.42300498753117,74.39976576224868,21.09569825436409,6.500097599063049/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -516,7 +516,7 @@ completed,at the end of the next session of Congress.
 plied throughout the States, and in such cheap forms,as that every  
 citizen of the United States may be able to procure them,&quot; it ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792060201:0004/pct:37.22002635046113,17.927063339731287,29.01844532279315,8.17658349328215/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792060201:0004/pct:37.22826086956522,17.93186180422265,29.026679841897234,8.181381957773512/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -544,7 +544,7 @@ completed, at ihe end of the next feflion ol Congress.
 plied throughout the States, and in such cheap forms,as that every  
 citizen ofthe United States may be able to procure them,&quot; it ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792060601:0004/pct:39.19369505910882,67.82771535580524,26.4928766292816,8.03370786516854/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792060601:0004/pct:39.201273113064566,67.83707865168539,26.4928766292816,8.029026217228465/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

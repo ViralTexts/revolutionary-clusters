@@ -1109,7 +1109,7 @@ to be loft for availing the public of its right.
   
 G. WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791102601:0003/pct:5.285343709468223,5.807086614173229,58.463035019455255,88.09055118110236/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791102601:0003/pct:5.285343709468223,5.812007874015748,58.47924773022049,88.09547244094489/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1453,7 +1453,7 @@ borders on four millions of persons.
 It is proper also to inform you, that  
 a further loan of two millions and ax
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1791103101:0001/pct:31.88188188188188,15.789473684210526,51.67667667667668,77.23071118656857/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1791103101:0001/pct:31.894394394394393,15.79890586681758,51.66416416416416,77.22599509526505/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1631,7 +1631,7 @@ be loft for availine the public of its
 right.  
 G. WASHINGTON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1791103101:0002/pct:15.184049079754601,6.647887323943662,35.2760736196319,84.93896713615024/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1791103101:0002/pct:15.184049079754601,6.652582159624413,35.30163599182004,84.9530516431925/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2821,7 +2821,7 @@ tion ; and I trust that the progress a}_
 ready made in the most arduous ar  
 rangements of the government will a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791111001:0903/pct:5.117632791656561,14.082173624917164,86.61169051661412,81.64347249834327/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791111001:0903/pct:5.117632791656561,14.087696045946544,86.62785997251193,81.63795007731389/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2908,7 +2908,7 @@ proportion, no opportunity ought to be
 loft for availing the public of its rights.  
 George Washington.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791111001:0904/pct:8.916125931266523,4.607989391679098,20.716173996635423,64.24664346096469/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791111001:0904/pct:8.932147720900424,4.61903972595171,20.708163101818474,64.24111829382839/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5051,7 +5051,7 @@ seminating information through the Union, on
 a scale greatly fuperiorto any thing ever before  
 contemplated—this law is predicated on th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792072501:0003/pct:28.71069182389937,55.09204857030944,21.38364779874214,8.068938503721112/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792072501:0003/pct:28.71069182389937,55.10184097140619,21.39937106918239,8.073834704269487/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5147,7 +5147,7 @@ the bafis of {yltematic &amp; folid arrange­
 ments,expofed as little as pofhible to the  
 hazard of fortuitous circum*tances.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1804120601:0605/pct:11.62156900914931,20.936295624574925,20.439945493478685,11.766039446837452/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1804120601:0605/pct:11.62156900914931,20.94007405728104,20.439945493478685,11.762261014131338/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5251,7 +5251,7 @@ tration in the affections of the people. ,
 The operation of the 18th section of me *  
 the 14th of July last, according to ™ 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:0041421647A:1832120801:0065/pct:83.0426523916422,90.58780665533155,16.42203419098601,4.615010930289046/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:0041421647A:1832120801:0065/pct:83.02831491712708,90.57680631451123,16.424953959484345,4.618498279700465/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5294,7 +5294,7 @@ ol July la.*r, according to the construction given to it at the 1
 j I rebury, being in some res; ec a difloient from that J  
 V% l.icli the II erclianls concerned consider important to thei
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1832121101:0254/pct:18.686517322944205,30.53435114503817,15.514122721580632,4.049120477928974/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1832121101:0254/pct:18.683917640511964,30.530973451327434,15.516601743646818,4.0523598820058995/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5353,7 +5353,7 @@ tration in the affectionaof the peopla.”
 In the exposition of the public debt, presented  
 in this report, 1t has ceen assumed that the thre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1832122501:0150/pct:21.58486102897694,24.259398901217278,14.473684210526315,3.748788107292901/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1832122501:0150/pct:21.58486102897694,24.259398901217278,14.478612260989552,3.748788107292901/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5451,7 +5451,7 @@ States, was received by Mr. Done Ison his
 private Secretary:  
 | To the Senate, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn82015332:00332897925:1834022701:0295/pct:21.19838872104733,3.787878787878788,30.01007049345418,87.85984848484848/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn82015332:00332897925:1834022701:0295/pct:21.193053108482257,3.787161522438932,30.0088094638812,87.84794546487407/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5530,7 +5530,7 @@ basis of systematic and solid arrange incuts, exposed .is
 little as &quot;possible to the hazard of fortuitous circum­  
 stances.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1840061601:0515/pct:79.44427845832088,16.127744510978044,15.999402449955184,4.950099800399202/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1840061601:0515/pct:79.45423762573449,16.13439787092482,15.989443282541579,4.950099800399202/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5576,7 +5576,7 @@ themselves, not only of confidence in the govern-
 ment, but of resource in the community.&quot;  
 The President also informs Congress that a fur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530182:1843052501:0300/pct:54.32858214553639,6.224152191894127,98.24456114028507,287.94458229942103/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530182:1843052501:0300/pct:18.10952738184546,2.0747173972980426,32.74818704676169,95.98152743314034/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5672,7 +5672,7 @@ and that, being free to discharge the principal but in a lim­
 ited proportion, no opportunity ought to be lost for availing  
 the public of its right. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879075:1852032601:0280/pct:5.011862396204033,40.4810528704334,20.344009489916964,7.42001361470388/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879075:1852032601:0280/pct:3.7668693459884324,30.36078965282505,15.260269909535815,5.570683004311323/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5758,7 +5758,7 @@ be as honorable to the national character,
 conformable tothe dictates of sound po­  
 licy.— Washington s Inaugural
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn86086437:00514152330:1859110201:0069/pct:82.65002127961412,75.40159545404873,12.271244148106115,5.715222380067752/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn86086437:00514152330:1859110201:0069/pct:82.65947888589398,75.40888063235347,12.266515344966189,5.715222380067752/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5827,7 +5827,7 @@ security, to wie satisiaction or the com­
 munity, or to the preservation of order,&quot; is  
 not less weighty or important now than i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn85042146:00296022834:1868070701:0736/pct:46.08470444850701,7.589025102159954,16.681901279707496,3.666082895504962/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn85042146:00296022834:1868070701:0736/pct:34.57260399207679,5.697606538237011,12.509523083955509,2.755399883245768/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5870,7 +5870,7 @@ security,- to the satisfaction of&quot; the com
 munity, or to the preservation oi oroer, is  
 not (ess weighty or important now than i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn85042148:00296022676:1868070801:0543/pct:41.028528528528525,6.162760073742429,16.873123123123122,3.8714774822228075/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn85042148:00296022676:1868070801:0543/pct:30.7981220657277,4.622070055306821,12.657276995305164,2.9101922570450354/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5912,7 +5912,7 @@ to the satisfaction of the community, or to
 the preservation of order,&quot; is not less  
 weighty or important now than it was then
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879129:1868071001:0329/pct:60.6353591160221,49.49658172778123,26.617995264404104,4.909881914232442/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879129:1868071001:0329/pct:45.499407816818,37.12865133623369,19.976312672720095,3.6793039154754505/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5930,7 +5930,7 @@ object of primary importance, whether viewed in
 reference to the national security, to the satisfaction  
 of the community or to the preservation of order,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_itchweed_ver01:data:sn83030313:00271743634:1868071301:0163/pct:195.21056977704376,36.0202089792169,49.99174236168456,5.3048570444367895/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_itchweed_ver01:data:sn83030313:00271743634:1868071301:0163/pct:65.07018992568125,12.006736326405633,16.663914120561518,1.7682856814789298/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5980,7 +5980,7 @@ national security, to the satisfaction of the com
 munity, or to the preservation of order,&#x27; is not less  
 weighty or important now than it was then. The militi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_euclid_ver01:data:sn83030214:00206530893:1868071401:0512/pct:53.2147315855181,225.27654867256638,48.267790262172284,6.338495575221239/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_euclid_ver01:data:sn83030214:00206530893:1868071401:0512/pct:17.73824386183937,75.09218289085545,16.089263420724095,2.1128318584070795/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6064,7 +6064,7 @@ the natioual security,&#x27; to the satisfaction of
 the community, or to the .preservation of  
 order,&quot; is not less weighty or important no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn85042148:00296022676:1868112501:0622/pct:93.86295180722891,54.68852459016394,16.735692771084338,3.1475409836065573/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn85042148:00296022676:1868112501:0622/pct:70.44641175362592,41.02295081967213,12.563571294029007,2.360655737704918/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6084,7 +6084,7 @@ satisfaction of the community, or to the
 preservation of order,&quot; is not less weighty  
 or important now than it was then
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879129:1868112701:0409/pct:57.86893704850361,97.63124818717974,17.363261093911248,4.486125882239196/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879129:1868112701:0409/pct:43.41935483870968,73.2282703277579,13.019354838709678,3.3645944116793967/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6347,7 +6347,7 @@ should &quot;experience the benefits of an impar­
 &quot;treaties and endanger the peace of the  
 &quot;Union.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fortran_ver01:data:sn83030214:00206531058:1870060101:0222/pct:200.50439310120404,20.355617134280106,48.25903026358607,41.66955316937998/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fortran_ver01:data:sn83030214:00206531058:1870060101:0222/pct:66.83479770040134,6.785205711426702,16.08634342119536,13.889851056459992/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6406,7 +6406,7 @@ whether viewed in reference to the national
 security, to the satisfaction of the commu­  
 nity, or to the preservation of order,&quot; is no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn87070095:00296022688:1870080301:0290/pct:10.460251046025105,21.20340405130049,14.034170153417016,2.636941148268009/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn87070095:00296022688:1870080301:0290/pct:7.846556233653008,15.905549562507492,10.531822144725371,1.9777058612010068/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6469,7 +6469,7 @@ revenue; next came the impositions on ships,
 and our commercial marine, foreign and do­  
 mestic, was established; then the bank fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_farmington_ver01:data:sn83016025:00279525322:1872022601:0495/pct:85.14285714285714,35.010841036174824,10.777777777777779,6.219331279242269/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_farmington_ver01:data:sn83016025:00279525322:1872022601:0495/pct:85.12934454848437,35.00684618895482,10.780034915092843,6.22147421268827/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6527,7 +6527,7 @@ which present not only of confidence
 in the Government, but of resources  
 in the community.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00280779155:1872031401:0260/pct:316.45885286783044,181.45107013056938,49.79218620116376,50.4509355229506/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00280779155:1872031401:0260/pct:79.13115776345875,45.362767532642344,12.450633963832884,12.61273388073765/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6571,7 +6571,7 @@ which present not only of confidence
 in the Government, but of resources  
 in the community.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_applejack_ver01:data:sn83016943:00295877820:1872031601:0552/pct:275.88424437299034,201.67836015958179,44.37299035369775,16.783601595817856/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_applejack_ver01:data:sn83016943:00295877820:1872031601:0552/pct:68.97106109324758,50.419590039895446,11.093247588424438,4.195900398954464/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6683,7 +6683,7 @@ fjHw-&#x27; States, would be as honorable to the national
 &#x27;iBSfW character, as conformable to tho dlctatos of  
 kB tw sound policy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_hanyu_ver01:data:sn83030193:00206539100:1889022202:0056/pct:2.344931921331316,321.3717848791894,74.20574886535552,16.399064692127826/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_hanyu_ver01:data:sn83030193:00206539100:1889022202:0056/pct:0.5863438623037639,80.34294621979735,18.554946094193305,4.099766173031957/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6776,7 +6776,7 @@ erence to the national security, to the satisfac­
 tion of the community, or to the preservation  
 of order.&quot; Two years later he said that th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_milosz_ver01:data:sn83030272:00175045016:1892040401:0251/pct:270.5792682926829,59.3181470723131,50.15243902439025,9.53982571472252/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_milosz_ver01:data:sn83030272:00175045016:1892040401:0251/pct:67.6706061761342,14.829536768078276,12.54288982081586,2.38495642868063/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6829,7 +6829,7 @@ variable and universal, must be no I
 honorable to the public councils than  
 conducive to the pubile convenienc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_hornacek_ver01:data:sn83045555:206539756:1894111701:1269/pct:102.11022840119166,172.93119698397737,35.45183714001986,19.50989632422243/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_hornacek_ver01:data:sn83045555:206539756:1894111701:1269/pct:34.06211180124224,57.64373232799246,11.826086956521738,6.50329877474081/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6856,7 +6856,7 @@ abie and universal, must be no le­
 honorable to the public councils than  
 conducive to the public convenience.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_hornacek_ver01:data:sn83045555:206539744:1895011201:0384/pct:123.1454005934718,99.9438202247191,37.9080118694362,19.15730337078652/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_hornacek_ver01:data:sn83045555:206539744:1895011201:0384/pct:41.07894085622371,33.31460674157304,12.645384805741154,6.385767790262173/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

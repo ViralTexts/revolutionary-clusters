@@ -235,7 +235,7 @@ such vessel, or in furnishing her, her
 any kind, or in any manner wn tever ;  
 crit&#x27;anv pilot shall assist in navigatin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806051201:0003/pct:2.0763563295378433,31.93100546907867,19.66956910024559,52.264759500771284/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806051201:0003/pct:2.0763563295378433,31.93100546907867,19.69189551239116,52.274108353199644/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -263,7 +263,7 @@ six, and •i the soveivU&#x27;i ty and indepen­
 de cc of the United the thir­  
 tieth. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806051201:0003/pct:2.9470864032150033,1.3041649137568363,38.06653270819379,96.98499509185247/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806051201:0003/pct:2.9545285405968595,1.3041649137568363,38.07397484557565,96.98966951806666/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -323,7 +323,7 @@ trance of all the harbours and waters of the United
 States to the armed vessels, and to all other vessels  
 which shall be commanded by the said Henry Whit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806051201:1108/pct:47.9382686279238,54.044641443723286,21.051362430672775,27.228114611366156/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806051201:1108/pct:47.92671166827387,54.036087369420706,21.0523143683703,27.22776194998417/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -350,7 +350,7 @@ if any person, from, or within the jurisdictional li­
 mits of the United States, shall afford any aid to ei­  
 ther
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806051201:1108/pct:48.227634434530984,81.09862276397024,20.617313720761995,7.566883014088966/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806051201:1108/pct:48.216007714561236,81.0857866413422,20.618370298939247,7.569642291864514/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -444,7 +444,7 @@ I do declare 2ud make known, that if
 any perfon,from or within the jurisdic­  
 tional limits
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1806051301:0286/pct:40.18170226330889,3.8891104906262464,34.84220592923175,92.20183486238533/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1806051301:0286/pct:40.18701519498459,3.895758542746975,34.84220592923175,92.19851083632496/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -598,7 +598,7 @@ the faid armed veffels, and to all other seffels
 which fhall be commanded by the faid Henry  
 Whithy, Joho Nairne, and Slioghy Simpfon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1806051501:0749/pct:73.8373170279785,56.876774559909144,19.937002038169354,33.299261783077796/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1806051501:0749/pct:73.84966956951392,56.876774559909144,19.930825767401643,33.299261783077796/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -676,7 +676,7 @@ hundred and fix, and of the fovercignty and in­
 dependence of the United States the thirtieth.  
 (Signed) TH: JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1806051601:0011/pct:17.556838686394805,3.532608695652174,24.323348971490436,94.25642292490119/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1806051601:0011/pct:17.55367129713152,3.5321724095343954,24.324974442239462,94.24889876909144/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -752,7 +752,7 @@ Nairne and Slingsby Simpson, or either .1
 , them :  
 &#x27; And if the said vessels, or *my
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806051601:0170/pct:39.59207014868471,7.994299041202384,17.97560045749142,40.308370044052865/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806051601:0170/pct:39.58452449018487,7.993263376084985,17.978527412489676,40.30746642483914/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1074,7 +1074,7 @@ J and penalties by the laws provided tor fuch
 all perfdns bearing office, civil or miliary  
 within the U.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895060:1806051901:0830/pct:21.1006018916595,17.745432022297926,18.79621668099742,46.69144213894911/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895060:1806051901:0830/pct:21.09697386519945,17.743600330305533,18.797283356258596,46.68920313790256/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1515,7 +1515,7 @@ for the purpose of earn ing her be­
 •. the limits and jurisdiction of the  
 , the person or person
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807112701:0003/pct:22.772069616271754,67.01412700589768,17.82344306982596,10.135783843094226/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807112701:0003/pct:22.786048787306914,67.02327069903534,17.83043265534354,10.131211996525396/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1539,7 +1539,7 @@ puiposs of carryirg her beyond the lunits and juris­
 wicion of the United Stutes, every person so ofiend­  
 g shudi forfcit and pay « sum not iess than one hun
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1810022801:0181/pct:50.44592184206259,16.650447644998053,21.696124533808984,5.76099649669132/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1810022801:0181/pct:50.45673206853684,16.656935253665498,21.68531430733474,5.764240301025042/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1594,7 +1594,7 @@ veflel, contrary to this prohibition, unlels
 for the pucpof: of earrying her beyond the  
 limits and jurisdiction of the United States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1810051501:0501/pct:24.655172413793103,53.11780602542288,16.70846394984326,4.584125713141828/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1810051501:0501/pct:24.66039707419018,53.11780602542288,16.70846394984326,4.587462049177593/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1722,7 +1722,7 @@ May, in the Year of Our Lord, 1865, and of
 the Independence of the United States of  
 America the 89th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00202191423:1865050401:0428/pct:175.39756782039288,318.39715048975955,49.62581852198316,15.814781834372218/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00202191423:1865050401:0428/pct:43.864779506375015,79.59928762243989,12.41080828167037,3.9536954585930544/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

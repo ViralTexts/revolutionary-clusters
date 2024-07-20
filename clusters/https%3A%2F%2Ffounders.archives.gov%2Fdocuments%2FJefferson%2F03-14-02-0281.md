@@ -338,7 +338,7 @@ with, still haunted the minds of many. Ig&#x27;or this
 reason, those passages which conveyed censures  
 onthe peop&#x27;e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1829072101:0115/pct:22.367638310529447,34.350132625994696,16.195716835217134,11.048765558049377/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1829072101:0115/pct:22.367638310529447,34.350132625994696,16.205631568510807,11.052166224580018/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -811,7 +811,7 @@ that measures should be immediately taken lor procuring
 the avistanre of foreign powers, and a confederation be  
 lorrned lo hind Ihe e.olomet more rlosehf together.” Her
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1833031501:0407/pct:34.83719646799117,83.81834215167548,14.735099337748345,4.12257495590829/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1833031501:0407/pct:34.832390674575805,83.80910393475146,14.737664965282567,4.125794481795804/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1037,7 +1037,7 @@ of that day and Monday, the 10th, in delib­
 ciating upon the question. The principal  
 advocates of the proposition were John Ad
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn86083363:0041566882A:1849070401:0281/pct:56.84941209803088,29.859471613265878,12.721348632950843,11.163575042158516/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn86083363:0041566882A:1849070401:0281/pct:56.8541342022005,29.859471613265878,12.72607073712046,11.163575042158516/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1060,7 +1060,7 @@ wasj argued by the opponents of the Decla­
 ration, pays ho,  
 &quot;That, though
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn86083363:0041566882A:1849070401:0281/pct:56.79274684799547,46.21697582911748,12.664683382915428,4.598088813940416/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn86083363:0041566882A:1849070401:0281/pct:56.79746895216508,46.224470676409965,12.664683382915428,4.601836237586659/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1156,7 +1156,7 @@ Mr. Dickinson.&quot;
   
 The fact that the names of several per
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn86083363:0041566882A:1849070401:0281/pct:82.73126505170704,24.73299606520517,12.735514945459697,41.76503653738055/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn86083363:0041566882A:1849070401:0281/pct:82.74070926004627,24.74049091249766,12.740237049629314,41.76503653738055/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1205,7 +1205,7 @@ nia, and that this circumstance in nowje#^&#x27;­
 affects tbe faith of this Declaratory Charted  
 of our rights and the rights of man.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn86083363:0041566882A:1849070401:0281/pct:82.57543561410965,68.64530635188308,13.42966425839354,17.90893760539629/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn86083363:0041566882A:1849070401:0281/pct:82.58015771827927,68.64530635188308,13.443830570902394,17.91268502904253/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1269,7 +1269,7 @@ with a British fleet and army ; and the city of New York, w hich ha
 
 ---
 
-## [From _The American Whig review_](https://archive.org/details/sim_american-whig-review_1850-07_12_31/page/n36/mode/1up?view=theater)
+## [From _The American Whig Review (1850-1852)_](https://archive.org/details/sim_american-whig-review_1850-07_12_31/page/n36/mode/1up?view=theater)
 
 #### 1850-07-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -1321,7 +1321,7 @@ George IIl. appears in it as a single and despotic
 tyrant, as Philip II, must have appeared to the  
 people of the Netherlands. The fact was, tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn86092535:00202190534:1853070401:0578/pct:63.50226928895613,106.14825581395348,57.299546142208776,21.497093023255815/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn86092535:00202190534:1853070401:0578/pct:15.875567322239032,26.53706395348837,14.324886535552194,5.374273255813954/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1478,7 +1478,7 @@ Declaration of Independence, being * engrossed
 and compared at the table, was signed by the  
 members.&quot; It was then signed by the member
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855080201:0894/pct:34.75163650365807,43.95700537432821,15.710435117443204,11.073615798025246/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855080201:0894/pct:34.75163650365807,43.965337666125066,15.729688101655757,11.077781943923677/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1500,7 +1500,7 @@ declare, &quot; that these United Colonies are, and of
 &quot; Britain is, and ought to be, totally dissolved ;  
 &quot; that measures should immediately
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82014835:00415661514:1855082501:0298/pct:70.81109230568936,34.302508659599035,12.719697955995313,3.841713026136244/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82014835:00415661514:1855082501:0298/pct:70.81109230568936,34.30950631538435,12.724037668706332,3.841713026136244/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1522,7 +1522,7 @@ June. Mr. Jefferson states a summary of the
 argument upon this resolution, which was  
 adopted on the 2d July, with but little dissen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855090501:1010/pct:3.0038022813688214,73.86478304742684,15.684410646387832,4.402119071644803/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855090501:1010/pct:3.0101394169835234,73.87319206189035,15.690747782002536,4.406323578876556/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1665,7 +1665,7 @@ of July, &quot;the Resolutions respecting independence&quot;
 were put upon their final passage and adopted.  
 Then and there was the great step taken in thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84020712:00295879178:1859071901:0537/pct:69.52015900056786,74.3335192414947,20.286768881317432,5.867261572783045/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84020712:00295879178:1859071901:0537/pct:52.158477705197384,55.75013943112103,15.222948026128941,4.406023424428333/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1691,7 +1691,7 @@ of Unanimity.&quot; Accordingly, on the 2d of
   
 July, &quot;(he Resolutions respecting indepeo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn86063325:00200292480:1859072101:0288/pct:91.26572908956328,112.53022329682832,17.079940784604,5.987768453989475/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn86063325:00200292480:1859072101:0288/pct:68.46196557468073,84.39766747262125,12.826207662409772,4.49438202247191/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1755,7 +1755,7 @@ fe in resources immovable in his purposes, and had
 ter share than any other member in advising and  
 directing our measures in the Northern war.&quot; IJeferson i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_delphi_ver02:data:sn83030213:00206530820:1866011001:0073/pct:50.985965535619115,34.23490181548722,48.676496713448216,6.162776336914907/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_delphi_ver02:data:sn83030213:00206530820:1866011001:0073/pct:16.995321845206373,11.41163393849574,16.225498904482738,2.0542587789716356/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1792,7 +1792,7 @@ tie in resources, immovasle in his purposes, and had. I
 think, a greater shere than any other member in advising and  
 dire cting our messures in the Northern war.&quot;--Iefferson i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_delphi_ver02:data:sn83030213:00206530820:1866011201:0089/pct:5.230990472766493,84.77350590026646,48.98436095631853,6.217485090724527/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_delphi_ver02:data:sn83030213:00206530820:1866011201:0089/pct:1.7436634909221642,28.25783530008882,16.328120318772843,2.0724950302415093/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1946,7 +1946,7 @@ of ‘The Unanimous Declaration of tho Thir­
 teen United States of America.’ and that the i  
 same, when engrossed, snail be signed by 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_lake_ver02:data:sn82014064:no_reel:1870071101:0003/pct:20.592142721579048,86.22077721009444,9.33763522490036,2.3687877380399445/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_lake_ver02:data:sn82014064:no_reel:1870071101:0003/pct:20.60163218827102,86.22077721009444,9.347124691592333,2.3765288744387676/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1963,7 +1963,7 @@ laration of Independence, being engrossed,and
 compared at the table, was signed by the mom­  
 hers.” There is no mention in the journals or 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_lake_ver02:data:sn82014064:no_reel:1870071101:0003/pct:20.573163788195103,89.1933735872426,9.356614158284305,1.0218300046446818/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_lake_ver02:data:sn82014064:no_reel:1870071101:0003/pct:20.57790852154109,89.20111472364142,9.366103624976276,1.0218300046446818/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1980,7 +1980,7 @@ pendence, being engrossed and compared at the
 table, was signed by the members.&quot;  
 There is no mention elsewhere in the minute
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551268:1870072101:0339/pct:50.07994883274704,21.202809482001754,15.733930284617845,1.8327480245829675/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551268:1870072101:0339/pct:50.090608677113316,21.20646766169154,15.733930284617845,1.8327480245829675/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2002,7 +2002,7 @@ On the 19th of July, Congress resolved &quot;that
 the Declaration, passed on the fourth, be  
 fairly engrossed on parchment, with th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293460:1872101701:0367/pct:35.8396723229959,98.78129117259552,14.11644236395553,4.3478260869565215/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293460:1872101701:0367/pct:26.898873115761745,74.088713219148,10.59563881164935,3.260869565217391/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2023,7 +2023,7 @@ gress.&quot; And on the 2d of August following,
 pared at the table, was signed by the mem  
 bers&quot; present, with the exception of Mr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293460:1872101701:0367/pct:35.86892919836161,103.66710584101888,14.08718548858982,3.831796223100571/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293460:1872101701:0367/pct:26.91350797599883,77.75581906016689,10.581003951412264,2.87659200702679/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2061,7 +2061,7 @@ House agreed to it the same night
 and every member but one, Mr,  
 Dickinson, signed it. The effect o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn82016419:00212472967:1873050901:0643/pct:16.55154091392136,28.93776942632917,11.888947927736451,15.331048966508234/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn82016419:00212472967:1873050901:0643/pct:12.423598192931172,21.70885376367857,8.915758703162371,11.495523377915331/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2079,7 +2079,7 @@ Congress, on the 19th of July, ordered
 that the &quot; Declaration passed on the 4th  
 be fairly engrossed,&quot; eta, and on th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_quartz_ver02:data:sn84022643:00416152639:1875061801:0177/pct:25.515463917525775,49.085608269281735,16.05992268041237,3.0347203816591573/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_quartz_ver02:data:sn84022643:00416152639:1875061801:0177/pct:19.145850120870264,36.814206201961305,12.054794520547945,2.279353299761463/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2348,7 +2348,7 @@ to by the House, and signed by every
 member present, except Mr. Dickin­  
 son.&quot; But Jefferson, who was also a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775447:1876062901:0235/pct:65.78947368421052,83.08535630383712,14.756828780812791,3.602192638997651/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775447:1876062901:0235/pct:49.36687770743086,62.32054293918037,11.062979006997667,2.701644479248238/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2367,7 +2367,7 @@ tee, agreed to by the House&#x27; and signed
 by every member present, except Mr.  
 Dickinson.&quot; But Jefferson, who was als
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_felice_ver01:data:sn87052128:00200292182:1876063001:0206/pct:77.00440528634361,79.16037450921172,21.784140969162994,3.820598006644518/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_felice_ver01:data:sn87052128:00200292182:1876063001:0206/pct:57.76602775941837,59.37783147085473,16.34721304252038,2.8692237994563574/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2386,7 +2386,7 @@ the Committee; acretd to by the House,
 and signed by every member present,  
 except Mr. Dickinson.&quot; But Jeflerson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn85038088:00296028903:1876063001:0584/pct:47.11654589371981,23.151374370886565,12.86231884057971,3.2778423022325462/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn85038088:00296028903:1876063001:0584/pct:35.35719679806676,17.36998322364176,9.651110104213865,2.4648341721512455/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2406,7 +2406,7 @@ by every member present except Mr. Dick­
 inson.&quot; But Jefferson, who was also an oc-­  
 togenarian, seems to have forgotten the sub
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00271742101:1876063001:0642/pct:46.56922452293951,144.48782301543037,42.888076871024495,9.22104480386689/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00271742101:1876063001:0642/pct:15.523074840979834,48.16260767181013,14.296025623674831,3.073681601288963/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2469,7 +2469,7 @@ that on the 19th of July it was resolved:
 &quot;That the Declaration passed on the Fourth  
 &quot;be fairly engrossed on parchment, with th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558366:1876070401:0012/pct:156.0,306.8457426000782,43.92982456140351,10.848872082409702/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558366:1876070401:0012/pct:39.02053712480253,76.71143565001955,10.988239424258381,2.7122180206024256/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2496,7 +2496,7 @@ most distant Colonies. In an appropriate
 and eloquent letter, the President commun­  
 cated it to the Commander-in Chief, to be rea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558366:1876070401:0012/pct:156.140350877193,319.72877819793973,44.0,25.192332768287912/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558366:1876070401:0012/pct:39.05564332104616,79.93219454948493,11.005792522380201,6.298083192071978/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2574,7 +2574,7 @@ of the Whole, agreed to by the House,
 &quot;and sftrned by every member except Mr,  
 Dlckin*on.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_belgium_ver01:data:sn84026844:00202193419:1876070401:0639/pct:13.808801213960546,36.51977793199167,15.351542741527567,28.383067314365025/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_belgium_ver01:data:sn84026844:00202193419:1876070401:0639/pct:13.827769347496206,36.53278972935461,15.351542741527567,28.387404580152673/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2605,7 +2605,7 @@ agreed to by the House, and signed by
 every member present, except Mr.  
 Dickinson.” But Jefferson, who wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_carrie_ver01:data:sn85033295:0027176876A:1876070501:0411/pct:78.58896498255588,44.98564764980266,13.994056079596847,3.6598493003229278/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_carrie_ver01:data:sn85033295:0027176876A:1876070501:0411/pct:78.58896498255588,44.991627795718216,13.998363268294783,3.6598493003229278/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2623,7 +2623,7 @@ himself asserting, from his early notes, that
 tee, agreed to by the House, and signed by every  
 member present, except Mr. Dickinson.&quot; Bu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555651:1876070601:0643/pct:77.06521739130434,54.09721249474716,16.557971014492754,2.1991875612830927/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555651:1876070601:0643/pct:57.81844537053814,40.57991315310267,12.411668780576191,1.6528925619834711/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2661,7 +2661,7 @@ Declaration was reported by the Committee,
 agreed to by the House, and signed by every  
 member present, except Mr. Dickinson.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn83032011:0023728799A:1876070701:0565/pct:21.167127071823206,94.32529639003597,14.416436464088397,2.7041428000532837/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn83032011:0023728799A:1876070701:0565/pct:15.892209362584211,70.7473025176502,10.813612022801866,2.038097775409618/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2680,7 +2680,7 @@ was reported-by the Committee, agreed to
 by the House, and signed by every member  
 present, except Mr. Dickinson.” But Jef
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349529:1876070701:0290/pct:63.09409888357257,58.533806026842235,10.98883572567783,2.4816409217523425/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349529:1876070701:0290/pct:63.08403763355127,58.526395746297,10.991070004783927,2.4844917078111153/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2701,7 +2701,7 @@ Committee, agreed to by .the House, and
 signed by every member present except  
 Mr. Dickinson.&quot; But Jefferson who wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_animals_ver01:data:sn84027718:00271763827:1876071401:0130/pct:9.631972397929845,20.08191925102399,14.37607820586544,4.809830310122879/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_animals_ver01:data:sn84027718:00271763827:1876071401:0130/pct:7.234287357974975,15.061439438267993,10.786710772328492,3.6161497952018724/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2741,7 +2741,7 @@ ing aud directing our measures iu the northern
 war. I always considered him more than any  
 other man the fountain of our important meas
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_hera_ver01:data:sn83021205:00517171530:1876122101:1196/pct:65.28909952606635,7.271951045965562,13.895734597156398,3.1592429201650774/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_hera_ver01:data:sn83021205:00517171530:1876122101:1196/pct:50.59993143640727,5.64317488327635,10.784073656888193,2.4484393956104555/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2827,7 +2827,7 @@ of July it was resolved that the Declar­
 ation passed on the 4th be fairly en­  
 grossed on parchment and sigued b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_hotel_ver01:data:sn87076916:00237289262:1885032301:0381/pct:42.79493269992082,91.84536834427425,15.439429928741093,1.9839533187454412/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_hotel_ver01:data:sn87076916:00237289262:1885032301:0381/pct:32.12517330164389,68.8840262582057,11.58645276292335,1.487964989059081/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2874,7 +2874,7 @@ Mr. Adams takes the same ride of the
 question with Mr. Jefferson. In transmit­  
 ting tho above letter of Mr. McKean t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_ashbel_ver01:data:sn82015679:00295870400:1890070201:0029/pct:23.790677220756375,74.25684210526316,16.61169744942832,13.145263157894737/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_ashbel_ver01:data:sn82015679:00295870400:1890070201:0029/pct:17.846932043105344,55.69684210526316,12.46976028150429,9.861052631578948/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2899,7 +2899,7 @@ Mr. Adams takes the same side of the
 question with Mr. Jefferson. :In trans­  
 mitting the above letter ot : Mr. McKea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_gonvick_ver01:data:sn90059522:00175033506:1890070501:0042/pct:49.299065420560744,72.1036423489434,10.623969213853766,4.513114580014867/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_gonvick_ver01:data:sn90059522:00175033506:1890070501:0042/pct:49.30364669232179,72.11072174436303,10.628550485614806,4.513114580014867/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2928,7 +2928,7 @@ of congress. ---&#x27; - a -.7 .-•.&quot;.-■ ,
 pendence being engrossed&#x27;and compared at  
 &gt; the tabic was signed by the members.&#x27;;- .
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_gonvick_ver01:data:sn90059522:00175033506:1890070501:0042/pct:49.18911489829577,5.245832005946692,22.08631115997801,90.31538706594456/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_gonvick_ver01:data:sn90059522:00175033506:1890070501:0042/pct:49.19827744181785,5.249371703656507,22.09547370350009,90.3224664613642/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

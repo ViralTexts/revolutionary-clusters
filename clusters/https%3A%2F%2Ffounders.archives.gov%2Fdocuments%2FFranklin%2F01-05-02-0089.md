@@ -1098,7 +1098,7 @@ Now, in order that the true design and
 intention of the institution may ndt be pre­  
 vented, the legislature, the chief justice
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798040401:0002/pct:10.325710325710325,45.30941158582941,16.17001617001617,13.258324464041356/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798040401:0002/pct:10.343035343035343,45.30941158582941,16.175791175791176,13.269727839440474/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1118,7 +1118,7 @@ vented, the legislature, the chief justice
 &quot; fee appointed by a£i of general afftmbly  
 &quot; of this province for that purpose.&quot; Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798040401:0002/pct:10.556710556710557,66.06355481222442,15.962115962115963,3.770716131975065/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798040401:0002/pct:10.556710556710557,66.06735593735746,15.967890967890968,3.774517257108104/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1154,7 +1154,7 @@ these Words &quot; if there (hall be roora in the
 &quot; es and expenses whatever of his removing  
 &quot; hither. The above, according to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798040401:0002/pct:10.302610302610303,73.6201915767067,16.216216216216218,13.805686483199027/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798040401:0002/pct:10.314160314160315,73.62779382697278,16.204666204666204,13.809487608332066/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1991,7 +1991,7 @@ any or all if them, and appoint others, as of­
 ten as they shall think fit; and the said corpo­  
 ration shall make such by-laws as may b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn84021903:00414187432:1831042001:0056/pct:15.89389210878288,30.88455772113943,14.75702184574231,8.195902048975512/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn84021903:00414187432:1831042001:0056/pct:15.890349899710275,30.879413724183877,14.759304657900602,8.198700866089274/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2032,7 +2032,7 @@ Bee. 4. And he it further enacted. That
 there shall bo a meeting of the regular an­  
 nual contributors to the support of Bain
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn87062070:0039334295A:1831042701:0230/pct:39.98236720299757,17.300848617574598,17.96341194621997,15.206679441554886/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn87062070:0039334295A:1831042701:0230/pct:39.97355663287792,17.298480908717668,17.96679888350228,15.209160166050818/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2157,7 +2157,7 @@ reception, use. and accommodation of the poor
 of said county : to provide all tilings necessary  
 for the lodging, maintenance, and employmen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn83032276:00296028587:1850053101:0234/pct:68.40119478069487,46.769091730682334,14.588901116176702,14.663352914595572/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn83032276:00296028587:1850053101:0234/pct:68.40643504690038,46.769091730682334,14.583660849971178,14.663352914595572/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2182,7 +2182,7 @@ or otherwise, and erect suitable buildings for the
 reception, use, and accommodation of the poor  
 ! of said county ; to provide all things necessary 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn83032276:00296028587:1850060701:0239/pct:17.13831478537361,55.95895816890292,15.19872813990461,5.310632540308942/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn83032276:00296028587:1850060701:0239/pct:17.148913619501855,55.96647498778517,15.19872813990461,5.310632540308942/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2208,7 +2208,7 @@ reception, use, and accommodation of the poor
 of said county ; to provide all things necessary  
 for the lodging, maintenance, and employmen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn83032276:00296028587:1850061401:0243/pct:33.76500315855969,55.091442763603524,14.576753000631712,5.746218107925039/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn83032276:00296028587:1850061401:0243/pct:33.77553169088229,55.09520584029502,14.576753000631712,5.742455031233536/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2238,7 +2238,7 @@ as shall from time to time be apposed by the
 Court of Quarter Sessions of the said coui.lv ail  
 their books and accounts, together with the rent
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn83032276:00296028587:1850061401:0243/pct:49.21036007580543,6.4687288326936105,14.67150979153506,8.004064122826824/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn83032276:00296028587:1850061401:0243/pct:49.22088860812803,6.472491909385114,14.67150979153506,8.015353352901332/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2282,7 +2282,7 @@ thereon suitable buildings, for the reception,
 use and accommodation of the poor of said  
 county, to provide ali things uecessary for th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn84024558:00296028630:1856022301:0273/pct:7.930337428082725,31.81920395772431,14.75664748872648,16.662918821677536/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn84024558:00296028630:1856022301:0273/pct:7.935520655159903,31.81920395772431,14.767013942880837,16.67791020163406/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2306,7 +2306,7 @@ visitors, as shall from time to time be appoint­
 ed by the court of quarter sessions of the said  
 county, all their books and accounts, togethe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn84024558:00296028630:1856022301:0273/pct:23.137925672523714,8.455138295480099,14.663349401337273,4.958398920620643/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn84024558:00296028630:1856022301:0273/pct:23.143108899600893,8.462633985458362,14.66853262841445,4.958398920620643/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2409,7 +2409,7 @@ to contribute largely towards so good a work, if such ecntnba
 tort might be incorporated with proper powers and privileges fo  
 carrying&#x27;on and completing the tame, and some part of thepiih
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_lilac_ver02:data:sn82015408:00212471380:1858050101:0427/pct:100.99250936329588,110.60367454068242,30.0187265917603,16.706036745406823/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_lilac_ver02:data:sn82015408:00212471380:1858050101:0427/pct:75.79164324526887,82.95275590551181,22.540753232152895,12.53280839895013/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2542,7 +2542,7 @@ pointed by act of General Assembly of tliis province for that
   
 purpose
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_lilac_ver02:data:sn82015408:00212471380:1858050101:0428/pct:0.336322869955157,8.548577422315459,31.763826606875934,67.5232725842402/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_lilac_ver02:data:sn82015408:00212471380:1858050101:0428/pct:0.2616822429906542,6.411433066736594,23.83177570093458,50.6490100957126/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2642,7 +2642,7 @@ wise, and erect suitable t uildings for the reception,
 use and accommodation of the poor of said county;  
 to provide all things necessary for the lodging, main
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_mateer_ver01:data:sn85054828:00212477898:1866050201:0377/pct:225.37562604340567,123.13150425733207,49.30439621591542,27.62535477767266/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_mateer_ver01:data:sn85054828:00212477898:1866050201:0377/pct:56.35174620843189,30.782876064333017,12.32781410880757,6.906338694418165/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2681,7 +2681,7 @@ wise, and erect suitable tuildings for the reception,
 se and accommodation of the poor of sard county;  
 to provide all things necessary for the lodging, main
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_mateer_ver01:data:sn85054828:00212477898:1866051601:0386/pct:178.48031059345536,116.94290976058932,49.30671103716029,37.29281767955801/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_mateer_ver01:data:sn85054828:00212477898:1866051601:0386/pct:44.63245492371706,29.23572744014733,12.330097087378642,9.323204419889503/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2720,7 +2720,7 @@ wise, and erect suitable tuildings for the reception,
 use and accommodation of the poor of said county  
 to provide all things necessary for the lodging, mai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_mateer_ver01:data:sn85054828:00212477898:1866052301:0390/pct:176.7827529021559,113.1609597018402,49.19845218352681,37.03703703703704/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_mateer_ver01:data:sn85054828:00212477898:1866052301:0390/pct:44.20790710533591,28.29023992546005,12.303013547138512,9.25925925925926/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3192,7 +3192,7 @@ to the comfort of the inmates; to pro
 vide all things necessary for the lodg.  
 ing, maintenance and employment o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477862:1876062801:1018/pct:103.77952755905511,280.0912721049629,40.47244094488189,36.28066172276098/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477862:1876062801:1018/pct:25.94999015554243,70.02281802624073,10.120102382358732,9.070165430690246/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3215,7 +3215,7 @@ lars, ano Any goods aud chatties of
 tlie gift, a.&#x27;ieneation or bequest ot  
 suiy person or persons whatsoeve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn83008556:00296028514:1877032201:0050/pct:14.170448814926878,39.05036830579335,11.258194654563793,4.439577941469241/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn83008556:00296028514:1877032201:0050/pct:14.17465120188267,39.05036830579335,11.258194654563793,4.449532152100338/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3310,7 +3310,7 @@ from the West Indies, and ending with
 &quot;GOD SAVE THE KING.&quot; Then follow  
 advices from Europe, concerning th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282322:1885021001:0571/pct:167.92168674698794,132.12845822327262,50.376506024096386,10.955095231475045/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282322:1885021001:0571/pct:41.98832611560911,33.032114555818154,12.596497834682735,2.7387738078687613/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

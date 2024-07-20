@@ -93,7 +93,7 @@ provide for human wants. &quot; Men havo
 A wise statesman has said, &quot; That government is a con­  
 trivance of human wisdom to provide for human wants.&quot; Fre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_eiffel_ver02:data:sn83016926:00295878770:1867013101:0032/pct:37.49312809235844,69.722581286666,26.608026388125342,1.332405289847867/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_eiffel_ver02:data:sn83016926:00295878770:1867013101:0032/pct:28.131445070809846,52.2919359649995,19.96425134057473,1.0042756289151835/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -116,7 +116,7 @@ should have hitherto remained a mere
 dead letter. It is extraordinary that a  
 commercial nation, spreading its ente
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292972:1868061801:0312/pct:74.48233861144945,196.06612766984435,42.02192448233861,18.004102811632677/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292972:1868061801:0312/pct:18.626256472738348,49.01653191746109,10.508681084374048,4.501025702908169/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -150,7 +150,7 @@ Government itself, Burke defines to be a con­
 trivance of human wisdom to provide for human  
 wants.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1877021801:0002/pct:41.95774942480653,28.619944427292374,12.67517255804225,1.1114541525162087/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1877021801:0002/pct:41.97343651955658,28.623803643099723,12.67517255804225,1.1307502315529485/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -359,7 +359,7 @@ to but now seemed
 In bigness to surpass Earth&#x27;s giant sons,  
 Now less than smallestdwarss in narrow room
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_airy_ver01:data:sn83030213:0020653039A:1852110401:0247/pct:107.9446437724244,56.78074991239341,31.283102682385103,3.457540007008527/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_airy_ver01:data:sn83030213:0020653039A:1852110401:0247/pct:35.981547924141466,18.92691663746447,10.427700894128368,1.152513335669509/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -377,7 +377,7 @@ In bigness to surpass Earth&#x27;s giant sons,
 Now less than smallest dwarfs in narrow room,  
 Throng number tess, and were at large
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_imogen_ver01:data:sn87091069:00280779714:1852122301:0191/pct:160.11196641007697,311.64772727272725,40.3778866340098,6.988636363636363/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_imogen_ver01:data:sn87091069:00280779714:1852122301:0191/pct:40.034995625546806,77.91193181818181,10.096237970253718,1.7471590909090908/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

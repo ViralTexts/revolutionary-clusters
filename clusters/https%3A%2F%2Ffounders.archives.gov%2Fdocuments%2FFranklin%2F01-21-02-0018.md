@@ -279,7 +279,7 @@ bondage equal io »t»y ever before fabricated by
 the comdieed efforts of the ingenuity, malice,  
 fraud, and wickedness of mao
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1773011401:0354/pct:95.28619528619528,12.466657307314334,27.18294051627385,4.590762319247508/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1773011401:0354/pct:73.85908959118585,9.665252239509666,21.066975935053637,3.5614550466035615/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -304,7 +304,7 @@ energy of policy, stratagem and force.
 And whi|e we are thus under these  
 awful frowns of divine providence, andin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1773011401:0354/pct:94.45566778900113,38.88810894286115,27.227833894500563,11.399691141373017/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1773011401:0354/pct:73.20382719628878,30.13817865303014,21.119164975355176,8.841983099408843/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -344,7 +344,7 @@ influence, with our mother country, that so
 we may be relieved, and that brotherly love  
 and harmony may again take place, and tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1773011401:0355/pct:6.787229292252735,37.431502037375296,27.349854878321054,27.905016158493748/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1773011401:0355/pct:5.2601222747721765,29.01633393829401,21.201984081208906,21.62250453720508/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -375,7 +375,7 @@ peated petitions from reaching the Royal
 car of our common sovereign ; and to pro­  
 duce the severe and deftruttive meaiure
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1773061701:0434/pct:94.4333110665776,59.1237771161208,27.299042529503453,17.581171132851267/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1773061701:0434/pct:73.18377911993097,45.82081898761995,21.167673281564568,13.636363636363637/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -403,7 +403,7 @@ erve us by a fair representation of our state
 of grievances ; to prevent our humble and  
 repeated petitions from having the desire
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1773061701:0434/pct:94.32197728790915,86.33205728058982,27.32130928523714,14.71714164185453/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1773061701:0434/pct:73.10324992809893,66.91451175738041,21.167673281564568,11.40575781993993/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -425,7 +425,7 @@ of morals, and all that confufion, misery and
 bloodlhed, which have been the natural tfteth  
 of the introduction of tioops
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1773061701:0435/pct:8.960893854748603,39.86476968587125,27.217877094972067,7.66305113396253/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1773061701:0435/pct:6.9560699647867,30.895196506550217,21.081798764648155,5.949781659388647/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5182,7 +5182,7 @@ I ‘ thereupon payed, Cai might iu tha* cat*.
 * Lordihips are humbly of opinion, that the.  
 * said petition ought to be difinifled
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1774042201:0570/pct:64.47224050910687,6.230747689722767,57.36229975861312,119.22430691683002/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1774042201:0570/pct:49.97732426303855,4.836142660782754,44.45578231292517,92.40034724734139/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5316,7 +5316,7 @@ impeach the Honor, Integrity or conduét of the said Governor
 or Lieutenant-Governor ; and their Lordships are humbly of  
 Opinion, that the said Petition oughtto be difmiffed.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774042901:0241/pct:34.63980731333479,10.980840720617673,26.582001313772718,81.08378610237347/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774042901:0241/pct:34.65440478797168,10.990372700409875,26.582001313772718,81.07902011247737/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5337,7 +5337,7 @@ and scandalous, and calculated only for the seditious Purpose of
 hecpina up a Spirit of Clamour nndri)ifcontent in the said Pro­  
 vinge, ; G. CHETWYND
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774042901:0241/pct:62.77643967593606,6.119531026594224,26.75717100941537,4.575350300257363/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774042901:0241/pct:62.791037150572954,6.124297016490325,26.75717100941537,4.570584310361262/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5357,7 +5357,7 @@ they acknowlege the good use he had made of ti.ofe abilities;
 fn- w-u add; he could not have enjoyed their confidence, as  
 they fiy he heretofore did, if he had made a bad orre.” Mr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1774050501:0578/pct:5.115146147032772,113.95609005733463,28.410097431355183,4.782547895399245/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1774050501:0578/pct:3.9700245981351183,88.32412123839457,22.029632172072535,3.7029009067591487/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5384,7 +5384,7 @@ one of them there is a paragraph returning thanks to an old
 lady of seventy, for lome civilities ihown to the writer’s chil­  
 dren at Nonfuch. You have here feleAed peihapt the onl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1774050501:0578/pct:35.363153232949514,48.09117605929241,27.147918511957485,10.152426234093134/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1774050501:0578/pct:27.406898918826155,37.274664932625264,21.051427263886506,7.86821285358188/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5409,7 +5409,7 @@ from that which &gt;« conveys to the rest of the world. Indee i
 private letter*, when I hear you talking of private members  
 of parliament. For to retort your own expression concern
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1774050501:0578/pct:35.27457927369353,64.4944762970214,27.12577502214349,8.58621171864075/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1774050501:0578/pct:27.349693953435157,49.990968534373756,21.028545277730107,6.654383873414978/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5438,7 +5438,7 @@ or two other interrogation, of the fame general nature,
 easily answered and nothing to the purpose.  
 For, Mr. Wedde’burn, if the zeal of party, the biafs o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1774050501:0578/pct:35.27457927369353,75.37407355614599,27.192205491585472,11.606768284156063/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1774050501:0578/pct:27.349693953435157,58.42274484303313,21.085750243121105,8.99533976373686/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5455,7 +5455,7 @@ evidence “ of the iniquitous tendency us the laws in the
 colony of Rhode-ifland, and of the proceedings of their  
 courts to defraud their Engliih creditor for this, you tel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1774050501:0578/pct:64.9911426040744,13.676408893860998,27.17006200177148,2.2794014823101665/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1774050501:0578/pct:50.374692523311026,10.599328058957408,21.057147760425604,1.7737798489938947/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5477,7 +5477,7 @@ are perpetually told of men’s incensing the mother country
 against the colonies, of wbitb I Lave never known a single  
 injlance.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1774050501:0578/pct:64.74756421612047,28.42959026709551,27.302922940655446,6.306810236330583/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1774050501:0578/pct:50.185916137520735,22.03316354177956,21.165837194668498,4.8986669556735665/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5510,7 +5510,7 @@ Ccivantes. The world know that this speech held up to
 view in the most linking light the point of right (which  
 even Lord HilHborough wished to keep out of fight) an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1774050501:0578/pct:64.85828166519043,47.89539924486086,27.17006200177148,15.522304572787023/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1774050501:0578/pct:50.26600308906813,37.12293631010441,21.080029746582003,12.03352480040461/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5536,7 +5536,7 @@ and in the highway of promotion. You are already Solicitor
 General and a distant prolpetl us the teals.  
 1 lune the honour to be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1774050501:0578/pct:94.5969884853853,11.38302335337715,27.32506643046944,9.271430569151168/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1774050501:0578/pct:73.31960414163949,8.825548209963513,21.194439677363995,7.1818214659875/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5960,7 +5960,7 @@ our, integrity, or conduct of the faid go­
 vernor, or lieutenant governor ; and then  
 lqrdfllips are humbly of opinion, that th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800111001:0004/pct:30.099442153771527,11.29513578036407,21.19815668202765,52.98418382572366/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800111001:0004/pct:30.099442153771527,11.30010942007361,21.19815668202765,52.9891574654332/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5985,7 +5985,7 @@ pitmty of virtue, men will watch him
 with a jealous eye and lock Op tiieij?  
 efcmt aires.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800111901:0003/pct:5.9753086419753085,32.874493927125506,17.11111111111111,8.8582995951417/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800111901:0003/pct:5.981481481481482,32.878542510121456,17.117283950617285,8.8582995951417/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6055,7 +6055,7 @@ H bgion. He has forfeited all the refpert of fo­
 ** up their eferutoires. lie wil! bcKeefoith ef­  
 “ t«m it a libel to be called a &gt;n,m of letters
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1807030601:0379/pct:40.6650566598551,2.4511633694164487,36.243730261935724,93.1317655841732/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1807030601:0379/pct:40.65750371471025,2.4508584224931576,36.243189697870235,93.12432611760804/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6499,7 +6499,7 @@ to be crowned at any time, her Majesty the
 Queen is not entitled, as of right, to be crown­  
 ed at the time specified in her Majesty’s Me
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021201:00517172108:1821090501:0062/pct:29.98911860718172,29.274465691788528,22.06746463547334,15.494938132733408/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021201:00517172108:1821090501:0062/pct:23.2416933715635,22.687976752633492,17.10800022488334,12.012350163458045/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6542,7 +6542,7 @@ brand the mao, for the honor of this couutry
 of Kuropc ami. of mjnkiiu . i’i vale correa* j 1  
 por.dencr has hitheito hem held sac-od m |*‘i-J 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216390:1828051901:0484/pct:4.3006930869024345,5.748919827172347,38.75955215923227,92.1387421987518/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216390:1828051901:0484/pct:4.299928926794599,5.7482299291971675,38.75858801231936,92.1316852674107/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6947,7 +6947,7 @@ by the coolness and apathy of the wily Ainerican.&quot;--Name
 page.  
 These vindictive pleadings were soon published, Lo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530236:1845111101:0033/pct:44.06962415280345,137.9466883948318,42.590881084411585,25.678035153067164/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530236:1845111101:0033/pct:14.68987471760115,45.982229464943934,14.196960361470527,8.559345051022389/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7849,7 +7849,7 @@ by the combined efforts of the ingenuity,
 m.^*&#x27;ce’ rau&lt;b an,l wickedness of man.  
 “Resolved, That it is the opinion of thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346800:1894051601:0443/pct:18.39766933721777,46.07774674115456,11.493080844865258,5.598230912476723/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346800:1894051601:0443/pct:18.39766933721777,46.07774674115456,11.493080844865258,5.609869646182496/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7875,7 +7875,7 @@ i anted by&#x27; the laws of God and nature in
 the use of every rightful art, and energy  
 of policy, stratagen and force. And whil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346800:1894051601:0443/pct:18.412235979606702,59.1596834264432,11.522214129643118,4.783519553072626/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346800:1894051601:0443/pct:18.421947074532653,59.16356300434513,11.51735858218014,4.78739913097455/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

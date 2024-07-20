@@ -323,7 +323,7 @@ board of health (1899).
 Foster Genealogy, being the record  
 of the posterity of Reginald Fbster
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_demeter_ver01:data:sn86086481:00517171815:1899121001:0786/pct:75.34076827757126,22.716661803326524,16.31557207765386,14.86723081412314/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_demeter_ver01:data:sn86086481:00517171815:1899121001:0786/pct:58.40046950861655,17.60892507161164,12.655391346102546,11.521935775667119/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -5040,7 +5040,7 @@ mined to abide by, unless either the Governor or
 commander in chief of this province for the time  
 being, shall call upon me toexecute the said aét.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015064:1766100301:0664/pct:34.79020979020979,64.80340375586854,28.321678321678323,4.900234741784038/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015064:1766100301:0664/pct:34.79020979020979,64.80829420970267,28.328962703962706,4.900234741784038/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5071,7 +5071,7 @@ how he advised the Americans not
 to stop at Chew’s stone house at Ger.  
 mantown, but they, would fop not
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808062101:0098/pct:7.2176054170514,52.32616308154077,16.743613419513697,11.325662831415707/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808062101:0098/pct:7.222735200574536,52.32616308154077,16.74874320303683,11.328997832249458/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5348,7 +5348,7 @@ That you may sec your father1s face
   
 When he is dead and gon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn85050801:00279528499:1844042601:0406/pct:80.83841701861411,58.58731924360401,14.985139996871577,3.759733036707453/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn85050801:00279528499:1844042601:0406/pct:80.84363105479952,58.59473489061921,15.000782105427811,3.759733036707453/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5378,7 +5378,7 @@ The Carpenters of Louisville are now on a
 strike for the ten hour system. Many of the  
 employers have consented to adopt it, but a fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84037932:00415668946:1844051101:0105/pct:254.63254003891632,223.40307144446916,37.58419398293669,20.153572223458713/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84037932:00415668946:1844051101:0105/pct:84.87751334630545,74.46769048148973,12.528064660978895,6.717857407819571/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5402,7 +5402,7 @@ lleform More talked about than
 practiced. When we set it. we&#x27;ll ;  
 have it. Until then, let us pray for it. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn83016922:00200292108:1844051801:0500/pct:43.948763250883395,116.07059916395727,19.346289752650176,9.041647313825669/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn83016922:00200292108:1844051801:0500/pct:32.97989838745306,87.05681994116736,14.512922465208748,6.781235485369252/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5449,7 +5449,7 @@ of legislation; but the whigs having deter­
 mined that no other business shall be trans­  
 acted until the apportionment bill is passed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035101:00296027042:1848030101:0692/pct:93.10144927536231,99.62077683291197,16.434782608695652,8.997931509997702/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035101:00296027042:1848030101:0692/pct:69.85645933014354,74.71845552746495,12.338697984630999,6.745575729717307/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5521,7 +5521,7 @@ When he is dead and gofie.&quot;
 [M.ch merriment on both sides of the H&gt;use. ] \ ea, sir?  
 here is a little book lor my Democratic friends to look upon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848072901:0269/pct:3.7074148296593186,79.38646139913969,15.74577726882336,3.47520941815712/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848072901:0269/pct:3.7074148296593186,79.38646139913969,15.764863059452237,3.4789827182854123/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5551,7 +5551,7 @@ That you may see your father’s face,
 i When lt&lt; U dead and gone *’  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157315:1848092801:0567/pct:84.59224598930481,93.02439622410199,11.079545454545455,2.280250091945568/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157315:1848092801:0567/pct:84.578111946533,93.01299338073058,11.08187134502924,2.28303505761216/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5584,7 +5584,7 @@ And grown somewhat older, we trust.
 ThE WHig PlatforM: It has been said by  
 our opponents that it was out of sight, but o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn84023643:0028077778A:1848112801:0629/pct:228.89561270801815,106.08747044917257,52.344931921331316,44.621749408983455/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn84023643:0028077778A:1848112801:0629/pct:57.22390317700454,26.521867612293143,13.086232980332829,11.155437352245864/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5652,7 +5652,7 @@ And in ich the mind surprises
 Upon reflection, then gave rise  
 To many strange surmises
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:0028077697A:1853052001:0718/pct:224.18346073662266,93.42160867727848,50.173731758165395,44.68234962670799/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:0028077697A:1853052001:0718/pct:56.05560382276281,23.35540216931962,12.545612510860122,11.170587406676997/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5719,7 +5719,7 @@ Be niggards of advice on no pretence,
 For the worst avarice is that of sense.  
 Even to the dregs and squeezing of the brain
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685270:1874052101:0287/pct:15.575221238938052,92.77839712622321,9.074818986323411,1.4616623312275485/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685270:1874052101:0287/pct:15.572715572715573,92.76690611840476,9.077380952380953,1.4645776566757494/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5797,7 +5797,7 @@ we in David? neituer have we inherit­
 ance in the son of Jesse: to your tents,  
 O Israel: now see to thine own house
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_irene_ver02:data:sn85035524:00332896805:1891032001:0505/pct:17.405266538214516,58.598083711548156,10.511667737101263,2.6222894604135147/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_irene_ver02:data:sn85035524:00332896805:1891032001:0505/pct:17.401541095890412,58.588235294117645,10.514768835616438,2.6260504201680672/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5835,13 +5835,13 @@ For you to look upon
 That you may see your father’s face  
 When ho is dead and gone.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00542865969:1898090101:0318/pct:48.98185037627269,62.12054553453586,12.749003984063744,1.9650975216307376/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00542865969:1898090101:0318/pct:48.97101128568267,62.111436950146626,12.75171498119053,1.968475073313783/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Living Age (1897-1941)_](https://archive.org/details/sim_living-age_1899-09-02_222_2878/page/n15/mode/1up?view=theater)
+## [From _The Living age_](https://archive.org/details/sim_living-age_1899-09-02_222_2878/page/n15/mode/1up?view=theater)
 
 #### 1899-09-02 &middot; [Boston](http://dbpedia.org/resource/Boston)
 

@@ -175,7 +175,7 @@ and very humble Servant,
 W. P. VAN NESS.  
 General Hamilton
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804072301:0002/pct:39.504950495049506,53.13997151366049,16.89108910891089,14.47623980318529/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804072301:0002/pct:39.51155115511551,53.13997151366049,16.897689768976896,14.493504251370366/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -220,7 +220,7 @@ Your most obedient and very hum­
 ble servant, W.P. VAN NESS.  
 Gen. Hamirton, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804072401:0532/pct:25.200617283950617,75.81404283930458,16.929012345679013,13.764287772548267/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804072401:0532/pct:25.200617283950617,75.81404283930458,16.939300411522634,13.764287772548267/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -250,7 +250,7 @@ most obt. and very humble servt.
 V . , W. P. VAN NESS.  
 1 General Hamilton. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804072401:0017/pct:7.1658814778080835,5.7728706624605675,22.687825440119017,11.324921135646688/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804072401:0017/pct:7.164105106593952,5.771960258634285,22.688398611799702,11.327077747989277/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -280,7 +280,7 @@ Your mofc obt. and very humble fcrvnnt,
 V/. P. VAN NESS.  
 General Hatftilton
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804072501:0098/pct:58.51140890981529,53.11094452773613,17.42122419413256,8.558220889555223/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804072501:0098/pct:58.500814774579034,53.10430980637102,17.424105256804875,8.561315844264001/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -317,7 +317,7 @@ Servant.
 AT. P. VANXKhS.  
 General Hamilton
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804072501:0223/pct:42.5124473381846,13.410162388685176,18.077364994255074,16.05552645364065/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804072501:0223/pct:42.50430786904078,13.408406442320283,18.080285914863744,16.057788835057394/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -348,7 +348,7 @@ o you to receive a communication,
 Yoer moft obt. and very homble ferve,  
 Gen, Hamiloon, W. P, Vax Nise,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1804072601:0528/pct:25.23170039720068,20.527758738862236,40.89275581615283,71.77290381539868/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1804072601:0528/pct:25.23170039720068,20.527758738862236,40.89275581615283,71.77671159850735/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -443,7 +443,7 @@ Tour m jt vbcchtnt and w&gt;y humble fierv&#x27;t.
 Gin Hamilton. W. P. V&#x27; N NESS.  
 Mr. P. underltood from gen. Hamilton tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016081:00332895060:1804073001:0159/pct:26.3216102632161,57.99973222653635,22.25171422251714,11.808809746954077/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016081:00332895060:1804073001:0159/pct:26.31578947368421,57.99196787148595,22.25232198142415,11.810575635876841/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -477,7 +477,7 @@ cation. - -r-t^A
 Toar most ob’t and verv humhle ten  
 W. P. VAN ^gtSS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1804080301:0311/pct:28.0343716433942,12.944030497314158,40.30612244897959,81.45901923410155/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1804080301:0311/pct:28.026845637583893,12.941787941787942,40.30201342281879,81.4492376992377/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

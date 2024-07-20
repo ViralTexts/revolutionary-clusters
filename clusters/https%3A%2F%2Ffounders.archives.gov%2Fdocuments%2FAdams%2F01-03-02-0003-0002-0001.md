@@ -224,7 +224,7 @@ Sound his stupendous praise whose
 greater voice  
 Forbids you roar or bids your roarin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn84027186:00279528918:1876111001:0186/pct:45.51282051282051,58.24455766558592,9.51103160405486,2.1537748957850855/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn84027186:00279528918:1876111001:0186/pct:45.517789703836215,58.248417477227115,9.516000795070562,2.1614945190674697/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

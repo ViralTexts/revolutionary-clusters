@@ -33,7 +33,7 @@ tion to tlte Laic S hoal: “Ofthe utility of the iu­
 “debut at the bar, so terrible in a first essay of  
 “strength before the public*’—And, now let me ad
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184522:1824030501:0049/pct:82.36328749600256,25.2250146113384,15.606012152222577,3.5300993571011103/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184522:1824030501:0049/pct:82.35011990407673,25.222066386161757,15.60884625632827,3.5335826710300764/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -64,7 +64,7 @@ with method, and lessens the shock of a premier
 debut at the bar, so terrible in a first essav of  
 ‘&#x27;strength before the pnblic”-And, now let me ad
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184522:1824030901:0054/pct:81.6300541228908,25.69942196531792,15.520534861509073,3.815028901734104/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184522:1824030901:0054/pct:81.61706191309884,25.69645127730898,15.52336994004987,3.8184410280121757/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -85,7 +85,7 @@ u f‘&lt;;’ ol habituating themselves to think and to speak
 “ debut nt «be bar, so terrible in a first essay of  
 “strength before the public”—And, now let me ad
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184522:1824031201:0058/pct:81.24109545670413,26.234246733726444,15.466202311223682,3.5495432998034455/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184522:1824031201:0058/pct:81.22823678379234,26.23121387283237,15.469030283845099,3.5529865125240847/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -106,7 +106,7 @@ ric, of habituating themselves to think and to speak
 “ debut af the bar, so terrible in a first essay of  
 “ strength before the public”—And, now let me ad
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184522:1824031901:0066/pct:80.29897718332022,24.54375292466074,15.405192761605035,3.4277023865231633/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184522:1824031901:0066/pct:80.2863436123348,24.540881974499943,15.408013425634572,3.4312005302764454/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -127,7 +127,7 @@ stitution there can he no doubt it gives opportune—
 M debut at the bar, so terrible in a first essay of  
 •‘strength before the public”—And, now let me ad
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184522:1824032301:0070/pct:81.2192411493888,26.095548064628616,15.542149547547229,3.452284086946414/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184522:1824032301:0070/pct:81.2063492063492,26.09251510925151,15.544973544973544,3.4557570122423678/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -149,7 +149,7 @@ I “ ol practising then lessons in rhetoric, ol ha
 premier debut at (he Inn , so terrible in a  
 “ lirst easnv of strength before the ptihlic ’ —
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1824032601:0671/pct:36.31788634933948,55.75312270389419,15.370098553155797,3.982365907421014/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1824032601:0671/pct:36.310272536687634,55.74493094328534,15.372117400419286,3.9854540111666177/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -170,7 +170,7 @@ sebnol ; •&gt; Ol the utility of tlie institution there can be no
 u fore the public.’* Anti, now let me add that, with the-e  
 advantages the student might acquire n slock of prnr;lra
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183979:1824032601:0430/pct:66.92282537606279,19.652629074470617,15.418574231523872,2.6290744706162266/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183979:1824032601:0430/pct:66.91188491090404,19.65029142381349,15.421502915372459,2.6327266960072957/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -191,7 +191,7 @@ with method, and lessen.-, the shock of a premier
 “debut at the bar, so trrriblc in a first essay of  
 “strength before the public”—And, now let me ad
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184522:1824032601:0074/pct:80.90118577075098,57.80649668180231,15.620553359683795,3.4695540808010246/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184522:1824032601:0074/pct:80.88839709136896,57.79976717112922,15.623353356518074,3.4730306558013195/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -232,7 +232,7 @@ ric, of habituating themselves to think and to speak
 “ debut at the bar, so tewible in a fust essay of  
 “strength before the public&quot;—And, now let u e ad
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184522:1824033001:0078/pct:81.00505689001264,58.97314562877085,15.265486725663717,3.4898852478410034/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184522:1824033001:0078/pct:80.99225786064149,58.966169860421104,15.26834149681361,3.4934153457929185/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -263,7 +263,7 @@ tion to the Law School: “Of the utility of the i 1­
 “ debut at the bar, so terrible in a first essay of  
 “strength before the public”—And, now let me ad
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184522:1824040201:0082/pct:80.72842438638163,59.50978081546076,15.344418052256533,3.5470186189017205/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184522:1824040201:0082/pct:80.71564281190626,59.502768940732885,15.347266202237703,3.5505282589057776/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -284,7 +284,7 @@ stitution there can be no doubt it gives opportuni
 “ debut at the bar, so terrible in a first essay of  
 “strength before the public”-—And, now let me od
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184522:1824040601:0086/pct:81.33925737860997,57.244683337228324,15.503014915899714,3.447067071745735/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184522:1824040601:0086/pct:81.32635253054102,57.23799509288468,15.505843778095088,3.450558865911127/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -305,7 +305,7 @@ M rir, of habituating themselves to think and to speak
 “ debut at the bar, so terrible in a first essay of  
 “strength before the public”—And, now let me ad
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184522:1824040901:0090/pct:81.07210626185959,57.72574475483946,15.449082858950032,3.431088443259534/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184522:1824040901:0090/pct:81.0592885375494,57.719054242002784,15.451910408432148,3.4345541647349713/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -327,7 +327,7 @@ k* sic, of habituating themselves to think and to speak.
 “debut at the bar, so terrible in a first essay of  
 “strength before the public’’—And, now let me add
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184522:1824041301:0094/pct:80.57360164791633,58.62350064050309,15.6552051972746,3.5518807499708864/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184522:1824041301:0094/pct:80.56083650190114,58.61667442943642,15.658005914659906,3.5553485483620557/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -348,7 +348,7 @@ tion to the Laur School: “Of the utility of the in­
 “debut at the bar, so terrible in a first essay of  
 strength before the public —And, now let me ad
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184522:1824041601:0098/pct:49.92860542598763,70.82799580761616,15.357766143106458,3.586817281937813/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184522:1824041601:0098/pct:49.920685279187815,70.8197484862599,15.360617597292725,3.590281012265176/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -369,7 +369,7 @@ with method, and lessens the shock of a premier
 “debut at the bar, so terrible in a first £&lt;ay [of  
 “strength before the public”—And, now let me ad
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184522:1824042001:0101/pct:81.10223892281196,71.84284377923292,15.03053076561766,3.648269410664172/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184522:1824042001:0101/pct:81.08954289292423,71.83444405471764,15.033395950740973,3.6517401301687515/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

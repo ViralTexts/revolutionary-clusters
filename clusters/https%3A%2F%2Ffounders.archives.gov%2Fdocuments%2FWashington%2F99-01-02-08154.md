@@ -59,7 +59,7 @@ venge, 10 through every poflibe cbange of
 fortune we will adhers to this our determina­  
 tion
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1778111701:0092/pct:10.250051663566852,5.938242280285036,53.75077495350279,83.66634064552187/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1778111701:0092/pct:10.250051663566852,5.942899725210749,53.7645519046635,83.6756555353733/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

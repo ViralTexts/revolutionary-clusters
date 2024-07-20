@@ -1020,7 +1020,7 @@ These were as yet the aristocratical days of Virginia.
 The estates were large, and continued in the same  
 families by entails. Many of the wealthy plantee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530479:1855052601:0182/pct:104.455533772946,98.535457348407,47.72767777579754,14.568345323741006/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530479:1855052601:0182/pct:34.818511257648666,32.845152449469,15.909225925265847,4.856115107913669/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1103,7 +1103,7 @@ fisheries appertain to it ; the whole shore, in
 fact, is one entire fishery.**  
 &#x27;J hese were, us yet, the aristocralical day
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624475:1855081101:0331/pct:22.86096256684492,44.97491039426523,16.195569136745608,5.706093189964157/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624475:1855081101:0331/pct:17.71758436944938,34.855555555555554,12.561673574106967,4.425925925925926/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1155,7 +1155,7 @@ thy country, in a latitude between the
 extremes of heat and cold; on one of  
 affairs the same method, activity an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774947:1858112501:0814/pct:143.8963210702341,112.53252979043967,114.38127090301003,112.53252979043967/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774947:1858112501:0814/pct:35.97408026755853,28.133132447609917,28.59531772575251,28.133132447609917/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1173,7 +1173,7 @@ well stocked with various kinds of
 fish at all seasons of the year, and in  
 the spring with shad, herring, bass
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774947:1858112501:0814/pct:201.83946488294313,198.10984796603205,56.187290969899664,9.861662785919737/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774947:1858112501:0814/pct:50.45986622073578,49.52746199150801,14.046822742474916,2.4654156964799343/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1190,7 +1190,7 @@ world--a river well stocked with various
 kinds of fish at all seasons of the year,  
 and in the spring with shad, herring
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn85026279:00280775095:1858112601:0483/pct:28.76008804108584,119.60984131605765,48.49596478356566,6.580288251565002/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn85026279:00280775095:1858112601:0483/pct:7.193980546889337,29.902460329014414,12.130666177280235,1.6450720628912505/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1207,7 +1207,7 @@ world—a river well stocked with various
 kinds of fish at all seasons of the year and  
 in the spring with shad, herring, bass
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_dragonair_ver01:data:sn89051343:00414212578:1858121801:0207/pct:41.77559912854031,44.19209194144206,12.726942628903414,1.6828567519496511/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_dragonair_ver01:data:sn89051343:00414212578:1858121801:0207/pct:41.768015973860955,44.18604651162791,12.729170448357234,1.686046511627907/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1224,7 +1224,7 @@ world—a river well stocked with various,
 kinks of fish at all seasons of the year, and  
 in the spring with shad, herring, bass, carp
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340184:1858122501:0407/pct:80.93015214384509,22.421832144816236,12.223374827109266,1.6456390565002743/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340184:1858122501:0407/pct:80.9161624891962,22.41875771287536,12.225583405358686,1.6488413547237077/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1251,7 +1251,7 @@ world—a river well stocked with various
 kinds of fish at all seasons of the year, and  
 in the Spring with shad, herring bass, carp
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hershey_ver01:data:sn85025182:0029602840A:1859010501:0404/pct:21.609643680198545,51.893885657540075,11.948236128346037,1.6739963115335508/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hershey_ver01:data:sn85025182:0029602840A:1859010501:0404/pct:21.609643680198545,51.89861446068,11.948236128346037,1.678725114673476/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1302,7 +1302,7 @@ any to stone.&quot; lie adds: &quot;A husbandman&#x27;s
 will would not lay the farms more level than  
 they are.&quot; And as to the river, &quot;the w hol
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn85025007:0041566347A:1859072001:0565/pct:71.8869799801221,30.89397516165452,15.46216101093284,4.002873858154572/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn85025007:0041566347A:1859072001:0565/pct:71.89171281177528,30.90081768107017,15.46689384258602,4.002873858154572/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1323,7 +1323,7 @@ erected brick barn, equal perhaps to any in
 America,&quot; on the Cuioti Farm, a new circular  
 barn on the Dogue Ktiu Farm; and th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn85025007:0041566347A:1859072001:0565/pct:71.87278148516258,37.103561531355844,14.539258838563113,3.7462793800677407/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn85025007:0041566347A:1859072001:0565/pct:71.87278148516258,37.11040405077149,14.54399167021629,3.7497006397755652/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1557,7 +1557,7 @@ of cultivable land, to which some hundreds
 more adjoining, as may be seen, might bo  
 added, il a greater should he required
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_clark_ver03:data:sn82014064:no_reel:1872060901:0005/pct:37.34377914568178,42.88780767029193,11.751538891997761,20.220377790497995/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_clark_ver03:data:sn82014064:no_reel:1872060901:0005/pct:37.34377914568178,42.8985403548941,11.76552881925014,20.21322266742988/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1627,7 +1627,7 @@ ished home. He was one of the most
 extensive landholders in North America;  
 for, besides other great and valuabl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_dunning_ver01:data:sn84022835:00237285001:1875111101:0231/pct:216.0205245153934,136.68851765700992,47.66248574686431,62.719390991753016/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_dunning_ver01:data:sn84022835:00237285001:1875111101:0231/pct:54.02823328104948,34.17212941425248,11.920718665335805,15.679847747938254/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1645,7 +1645,7 @@ He adds: &quot;From the advantages given to it by
 country and the western territory it will become  
 the emporium of the United States.&quot; Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_newfoundland_ver04:data:sn83045462:00280654644:1885042501:0169/pct:15.027654121138541,93.4814961801766,15.01416430594901,1.766048219069352/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_newfoundland_ver04:data:sn83045462:00280654644:1885042501:0169/pct:15.027654121138541,93.48645698978073,15.031026574935924,1.7635678142672884/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1754,7 +1754,7 @@ the world; a river well stocked with various
 kinds of fish at all seasons of the year, and in  
 the spring with shad, herring, bass and earn.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024653:0039334958A:1889032201:0267/pct:84.40990772219524,96.23349728190526,10.13436943500081,1.2943308309603936/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024653:0039334958A:1889032201:0267/pct:84.39624473939786,96.22104309563866,10.136775655551958,1.2973987317199431/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1771,7 +1771,7 @@ the world; a river well stocked with various
 kinds of fish at all seasons of the year, and in  
 tho spring with shad, herring, bass and carp.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_corinth_ver01:data:sn86090439:0051717662A:1889050101:0832/pct:22.04778156996587,78.10154525386314,16.905574516496017,1.692420897718911/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_corinth_ver01:data:sn86090439:0051717662A:1889050101:0832/pct:22.064846416382252,78.11258278145695,16.905574516496017,1.6887417218543046/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1788,7 +1788,7 @@ tho world a river well stocked with various
 kinds of fish at all seasons of the year, and in  
 tho spring with shad, herring, bass and carp.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_fluorine_ver01:data:sn88076013:00271740876:1889051101:0911/pct:50.54682159945318,77.86423396833915,10.697197539302802,1.2610678830158304/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_fluorine_ver01:data:sn88076013:00271740876:1889051101:0911/pct:50.55963773069036,77.86423396833915,10.710013670539986,1.2677756909042126/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1805,7 +1805,7 @@ tho world; a river well stocked with various
 kinds of fish at all seasons of the year, and in  
 the spring with shad, herring, bass and carp.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024653:0039334958A:1889053101:0307/pct:74.8161464291551,44.58812879865511,10.29579996731492,1.2285012285012284/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024653:0039334958A:1889053101:0307/pct:74.80392156862744,44.582363589345746,10.298202614379084,1.2315748642358417/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1823,7 +1823,7 @@ well stocked with various kind of fish at
 all seasons of the year, and in the spring  
 with shad, herring, bass and carp.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_gargoyle_ver02:data:sn92064114:00514153292:1889092801:0607/pct:51.365946632782716,19.484004127966976,19.933290978398983,3.0546955624355006/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_gargoyle_ver02:data:sn92064114:00514153292:1889092801:0607/pct:51.376535366370184,19.487444100447195,19.933290978398983,3.0546955624355006/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1957,7 +1957,7 @@ opinions of ethers whom I have consulted, the
 low rent which I shall mention hereafter, and  
 provided also I can settle it with good farmers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:0017504291A:1897031401:0962/pct:122.90881688018086,79.82116244411327,50.037678975131875,51.8628912071535/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:0017504291A:1897031401:0962/pct:30.727204220045216,19.955290611028317,12.509419743782969,12.965722801788376/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1982,7 +1982,7 @@ fix his income upon a solid basis in the hands
 of good farmers. He is aware of &quot;a law or  
 some regulation&quot; of the British Governmen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:0017504291A:1897031401:0962/pct:122.90881688018086,133.94932935916543,51.39412207987943,20.864381520119224/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:0017504291A:1897031401:0962/pct:30.727204220045216,33.48733233979136,12.848530519969858,5.216095380029806/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1999,7 +1999,7 @@ written in too great haste, at the commence­
 ment of an important session of Congress, to  
 be oorrected or properly digested
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:0017504291A:1897031401:0962/pct:122.98417483044462,166.79582712369597,49.811605124340616,5.305514157973175/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:0017504291A:1897031401:0962/pct:30.746043707611154,41.69895678092399,12.452901281085154,1.3263785394932937/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

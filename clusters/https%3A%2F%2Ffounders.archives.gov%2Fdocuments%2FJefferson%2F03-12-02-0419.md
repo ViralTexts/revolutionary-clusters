@@ -143,7 +143,7 @@ you of my great esteem and respect. .
   
 . TH. JEFFFRSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1818121601:0815/pct:6.41399416909621,5.410617059891107,44.50923226433431,87.74954627949184/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1818121601:0815/pct:6.426951733074182,5.410617059891107,44.50923226433431,87.76088929219601/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -251,7 +251,7 @@ sincerity and pleasure, assure you of my great
 isiirin and iispect.  
 th : .n:m:R-;()N
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1818122201:0272/pct:3.6192364898363905,42.08933543154582,15.418939018344075,42.16196586369689/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1818122201:0272/pct:3.618638466622604,42.084241103848946,15.421899096717338,42.16089728072299/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -980,7 +980,7 @@ man in saying &quot;Mr. Henry certainly
 gave the first impulse to the ball of the  
 revolution? The first impulse was giv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777791:1853120701:0831/pct:106.74941815360745,167.01929060360922,44.37548487199379,10.578718108276291/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777791:1853120701:0831/pct:26.697710516103996,41.754822650902305,11.098176173845557,2.644679527069073/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -189,7 +189,7 @@ authority, the excellency of dignity and
   
 the excellency of power. The sadness o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_brutus_ver02:data:sn85047084:00202195489:1888032301:0284/pct:72.37704918032787,61.925911925911926,20.23224043715847,1.4931014931014932/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_brutus_ver02:data:sn85047084:00202195489:1888032301:0284/pct:54.30445476906259,46.44679644679645,15.181743645804865,1.1245511245511246/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -205,7 +205,7 @@ the excellency of power. The sadness o
 authority the excellency of dignity  
 and the excellency of power Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_cardinal_ver01:data:sn83025121:00211108927:1888032701:0530/pct:47.51449875724938,34.683368128044535,19.63545981772991,1.405706332637439/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_cardinal_ver01:data:sn83025121:00211108927:1888032701:0530/pct:35.65361508183137,26.012526096033405,14.729645742697327,1.057759220598469/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -74,7 +74,7 @@ all the certainties we have or need. Ican
 ‘conceive thought to be un action of a pare  
 ticular organization of matter * * 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153188:1830040801:0458/pct:67.78523489932886,23.478058433244094,16.560856158171596,10.313118379699686/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153188:1830040801:0458/pct:67.78523489932886,23.481938462732316,16.56690247294274,10.31699840918791/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -142,7 +142,7 @@ first centuries, held it to be ma:tter, hght
 and thin indeed, an ethereal gas; but  
 still matter.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1834080601:0126/pct:3.0369158028732497,6.709011512504962,15.439170758319694,8.416038110361255/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1834080601:0126/pct:3.0369158028732497,6.709011512504962,15.439170758319694,8.420449031802743/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -192,7 +192,7 @@ that [ love you with all my heart, and
 pray for the continuance of your life un­  
 til you shall be tired of it yourself,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1834080601:0126/pct:3.309692671394799,15.191213444488554,15.621022004000727,20.57694852454678/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1834080601:0126/pct:3.3218160877735348,15.191213444488554,15.608898587621992,20.590181288871246/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

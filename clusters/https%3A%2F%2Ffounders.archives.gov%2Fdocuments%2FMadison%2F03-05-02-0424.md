@@ -118,7 +118,7 @@ litia of the U. States.
 committee of the whole on the report of the  
 committee of Ways and Means on the sub
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812121501:0268/pct:5.724838411819022,5.136986301369863,17.876269621421976,9.283268101761253/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812121501:0268/pct:5.723781388478582,5.136358077534548,17.87912358444116,9.286209286209287/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -136,7 +136,7 @@ British officers towards persons taken in A­
 mcrican armed ship*.**  
 Mr. Randolph .said he trusted that the re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812121701:0324/pct:56.15840893230984,81.9449410082231,16.189811584089323,2.1689905851507567/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812121701:0324/pct:56.14861329147043,81.9351763584366,16.19280190708762,2.1727041626946297/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -183,7 +183,7 @@ discharged from in«- of their ships, as n prisoner of
 war. All w hich is respectfully submitted.  
 _ JAMES MONROE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812122901:0288/pct:22.87352071005917,23.880597014925375,17.769970414201183,15.182285294837289/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812122901:0288/pct:22.86929192087262,23.877675840978593,17.77284772293092,15.184505606523954/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -241,7 +241,7 @@ their ships, as a prisoucr of war. All
 which is respectfully submitted.  
 JVA1ES MOM 110E
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:0041421616A:1812123001:0290/pct:43.69397217928903,6.9951726022406415,16.97063369397218,29.72037526186356/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:0041421616A:1812123001:0290/pct:43.68721990418791,6.994535519125683,16.973162313913356,29.720704310868246/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -292,7 +292,7 @@ of their ships, as a prisoner of war. Al
 which is respectfully submitted.  
 JAS. MONROE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812123101:0750/pct:3.6987222595830533,71.42002989536621,22.478143913920647,24.25510712506228/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812123101:0750/pct:3.7043263842187852,71.42002989536621,22.483748038556378,24.261750539777445/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -393,7 +393,7 @@ y , Kngland,&#x27; at bee^irfipressed from OB board Bri*
 ; tish merchantveslels—and that they consider an  
 impressed &#x27;.kmerican, whep he hsdischarged.fro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813010101:0282/pct:1.1335012594458438,60.942596216568816,23.551637279596978,19.732550554468364/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813010101:0282/pct:1.1332158146562579,60.932659383662156,23.552002014605893,19.73340942442524/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -639,7 +639,7 @@ a prisoner of war. Al which is ref- {
 peitfully submitted. . |  
 | JAMES MONROE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1813010501:0430/pct:9.799554565701559,5.94106463878327,33.229398663697104,86.50190114068441/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1813010501:0430/pct:9.799554565701559,5.944233206590621,33.249195743627816,86.50823827629911/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

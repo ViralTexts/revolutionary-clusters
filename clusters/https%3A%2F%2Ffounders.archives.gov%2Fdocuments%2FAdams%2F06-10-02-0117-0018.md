@@ -119,7 +119,7 @@ Lower Counties, 350,000, Maryland, 320,000. Virginia,
 650,000, North-Carolina, 300,000, South-Carolina,22 5,000,  
 Total 3,826,673, 4 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774112501:0358/pct:8.791448516579406,5.832465406933492,27.31239092495637,4.329712840351138/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774112501:0358/pct:8.791448516579406,5.832465406933492,27.319662594531703,4.334672419778803/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -692,7 +692,7 @@ estimates.
 I have the honor to be, very refpe&lt;ftfully, &amp;c.  
 JOHN ADAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789120501:0004/pct:20.173718128327263,6.612995974698102,50.79854300924629,87.09986582327008/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789120501:0004/pct:20.18772765480527,6.612995974698102,50.79854300924629,87.11424190147595/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -811,7 +811,7 @@ R U Y el LR &#x27;
 &quot; ¥ow add; that&#x27; D Maware, which in 1774, °  
 - was estimated .at 30.000, - nuniberin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1810012401:0160/pct:73.36500395882818,27.64378478664193,22.327790973871736,55.9320378869251/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1810012401:0160/pct:73.36500395882818,27.647039677114865,22.34362628661916,55.9320378869251/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -832,7 +832,7 @@ New Jersey, 130,000; Pennsylvania,
 650,000, North Carolina, 300,000, South  
 Carolina, 225,000. Total, 3,026,578
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_camas_ver01:data:sn83045610:00202198223:1879062601:0440/pct:76.34119322677638,250.32925682031984,48.963443582845386,13.946378174976482/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_camas_ver01:data:sn83045610:00202198223:1879062601:0440/pct:19.085298306694096,62.58231420507996,12.240860895711347,3.4865945437441206/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

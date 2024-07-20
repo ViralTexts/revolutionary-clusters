@@ -87,7 +87,7 @@ him.
 The war, then, mint go on. We must  
 fight it through. And if the war must g
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83025241:0038334721A:1849070501:0044/pct:8.03306212062508,57.97323526407192,13.35399715872401,4.29053018694453/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83025241:0038334721A:1849070501:0044/pct:8.03306212062508,57.98004562944802,13.362607085970124,4.293935369632581/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -110,7 +110,7 @@ confess and deplore our many Sms : and offer
 up our joint supplications to the all-wise, om­  
 nipotent. ami merciful Disposer of all Events
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215828:1849080301:0560/pct:58.43942901234568,40.40608428691041,12.827932098765432,4.0608428691041025/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215828:1849080301:0560/pct:58.433793036937026,40.40326519221377,12.829909666634519,4.062885183376357/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -218,7 +218,7 @@ Israel give you wisdom and for­
 titude!&quot; Washinorox replied,  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075167:00280774893:1873072301:0979/pct:203.61613351877608,57.04950992711736,43.25452016689847,26.5393314903242/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075167:00280774893:1873072301:0979/pct:50.92173913043478,14.26237748177934,10.817391304347826,6.63483287258105/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -251,7 +251,7 @@ our many sins, and offer up our joint
 supplications to the all-wise, omnipo­  
 tent and merciful disposer of all events
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291074:1875070301:0094/pct:64.37768240343348,48.75156925652113,14.202106905969567,5.175059283024131/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291074:1875070301:0094/pct:64.37768240343348,48.75156925652113,14.216738197424892,5.185520993165016/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -724,7 +724,7 @@ furitifhesns with a cogent and perftiafive argusrn.r,
 to hring Spain t&gt; a «nvW nrrsn»r.s.t.„t f ~ j  
 can we be bi.nU to »!«• ,;*ie«t ;u&#x27;.«:reft we have ..4
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795090401:0002/pct:4.96244635193133,2.095302467049679,88.78755364806867,94.79553903345725/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795090401:0002/pct:4.975858369098712,2.095302467049679,88.77414163090128,94.79976343359243/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -775,7 +775,7 @@ last ptove, that the pred&#x27;tled evils a• chin»erasand
   
 chta&#x27;. 5
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795090401:0003/pct:5.381990023628249,3.748326639892905,21.68548175374114,24.129852744310575/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795090401:0003/pct:5.3951168285639275,3.7566934404283803,21.6789183512733,24.129852744310575/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1334,7 +1334,7 @@ those of France, in its whole breadth and
 length from the source to the sea, and ex.  
 pressiy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803011501:0052/pct:54.718428724873405,62.54612546125461,21.206076415528617,14.619574767176243/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803011501:0052/pct:54.71003375268487,62.54063076517614,21.207936994988238,14.621218776538113/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1354,7 +1354,7 @@ lakes Maui*pas and Prrtcharfrain to trie feas
 and for this purpofe the moft Chriftian king  
 cedes in fuli right and guarantees to his Britanni
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804092201:0167/pct:24.289823804386913,81.87149095446038,17.439769866954332,4.004990642545228/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804092201:0167/pct:24.285457486967463,81.86127744510978,17.442626879980825,4.008649367930805/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1529,7 +1529,7 @@ alon? the middle of the river Mississippi, from its
   
 I source to the river Iberville, and from thence by
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661125:1845060901:0141/pct:3.9854499446465286,13.299811439346323,14.043966471611578,1.5587680703959774/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661125:1845060901:0141/pct:3.990721703832569,13.308191912843075,14.043966471611578,1.5629583071443536/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1548,7 +1548,7 @@ M afnrnr the tnitiillm tsf ihie tt&#x27;tiav evvtti th? Inlrta Mnai.
   
 and Pimtckartrain, to the tea,&quot; tee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661125:1845120601:0759/pct:68.23510257245196,18.772062531517903,12.650602409638553,1.9919314170448814/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661125:1845120601:0759/pct:68.23510257245196,18.776264918473693,12.656029523499402,1.9919314170448814/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1575,7 +1575,7 @@ Ee U, i heriver IherviUe and from thence bw a line drmn*
 ? the middle of this river and the Lakes Maurpas and  
 Pontchartrain to the sea,&quot; 4c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1845121301:0275/pct:49.43663931005703,49.76973684210526,16.636528028933093,1.9846491228070176/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1845121301:0275/pct:49.44127602355451,49.77704678362573,16.636528028933093,1.9846491228070176/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1642,7 +1642,7 @@ any presence of claim west of that rivet;
 but it prevented the right of continuity  
 previous y claimed by Great Britain from
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040303:00514151325:1845123001:0469/pct:55.441302485004286,55.5182133564614,12.724935732647815,9.128360797918473/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040303:00514151325:1845123001:0469/pct:55.441302485004286,55.52182711766407,12.729696277254117,9.131974559121133/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1671,7 +1671,7 @@ the rogion lying West of the Mississippi.
 It of course Could not effect tho rights of  
 Spain the only other nation which ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn86053972:00295878472:1846010701:0229/pct:104.89350912778905,53.48542458808618,19.751521298174442,13.289878689118233/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn86053972:00295878472:1846010701:0229/pct:78.71638762049722,40.12312149194278,14.814814814814815,9.97646206771682/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1700,7 +1700,7 @@ and sounds aforeeaid, which are not now actually ^ore
 possessed by any of our subjects, or by the subjects &#x27;r?n&#x27;  
 of any other Christian prince or Stale.&quot; hi*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846020901:0153/pct:40.75762338887142,76.18988288063792,14.88525620873939,7.4757039621231/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846020901:0153/pct:40.75762338887142,76.19403604950577,14.900974536309336,7.4757039621231/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1776,7 +1776,7 @@ The constitution of the State of Vh&#x27;Sinta, adopt­
 ed June 29,177G, expressly ’•ecogpj&amp;T the ttoun*  
 | dary thus established by the treaty of Paris, a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn86071855:00393348355:1850070801:0011/pct:24.939691965114122,36.33127994524298,14.10280200408239,5.352498288843258/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn86071855:00393348355:1850070801:0011/pct:24.935064935064936,36.32630714481248,14.104823747680891,5.355187517109226/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1872,7 +1872,7 @@ be treaty of l&#x27;aris of tbe 10th February, 1703, was &quot;by a
 ine drawn along the middle of the river Mississippi, from  
 ts source to the river Iberville.&quot; The southern boundar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661083:1857030601:0330/pct:48.63994849509094,26.321074432032134,15.04909061644938,5.949541860173214/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661083:1857030601:0330/pct:48.64531358978486,26.325258357390904,15.04909061644938,5.9537257855319865/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1996,7 +1996,7 @@ and sounds aforesaid, that are not already actually |&gt;ossessed
 by or granted to any of our subjects, or posscwed by  
 the subjects of any other Christian prince or .-itate, with
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82006534:00415661095:1858072701:0093/pct:47.55278310940499,82.34263546489801,16.778630838131797,4.505068201726943/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82006534:00415661095:1858072701:0093/pct:47.55278310940499,82.34680682434406,16.783962465344423,4.509239561172986/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2021,7 +2021,7 @@ aforesaid, that are not already actunily possessed by
 or granted to any of our subjecls, or possessed by the  
 subjects of any other Christian prince or State, with th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271743294:1858072801:0757/pct:60.944417117560256,52.34861346915676,50.0245941957698,11.986417657045841/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271743294:1858072801:0757/pct:20.31480570585342,17.449537823052253,16.674864731923265,3.9954725523486134/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2049,7 +2049,7 @@ any of our subjects, or possessed by the
 subjects of any other Christian prince or  
 State, with the fishing of all sorts of fish
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn83025141:no_reel:1858092401:0921/pct:143.88993795521986,207.79397473275023,41.92069058537901,24.062196307094265/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn83025141:no_reel:1858092401:0921/pct:47.963312651739955,69.26465824425009,13.973563528459671,8.020732102364756/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2331,7 +2331,7 @@ tries, coasts, and confines of the seas,
 bays, lakes, rivers, creeks, and sounds  
 foresaid.&quot; This was the origin o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200293010:1870010201:0008/pct:182.96892980437283,95.28698086794213,37.9746835443038,33.877741483901076/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200293010:1870010201:0008/pct:45.75539568345324,23.821745216985533,9.496402877697841,8.469435370975269/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2356,7 +2356,7 @@ that were not previously granted to or in the
 possession of any British subjects, or those  
 of any other Christian prince. All mines o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524652:1870010601:0212/pct:29.945297335450856,47.55188930282065,12.89924122110464,6.253326237360298/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524652:1870010601:0212/pct:29.94001411432604,47.54556338965013,12.90137614678899,6.255820141013702/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2559,7 +2559,7 @@ net now actually possessed by any other
 Christian prince or state. Of these lands and  
 territories, the company was proprietor by fre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_larch_ver01:data:sn93051662:00295867498:1883092201:0135/pct:25.107991360691145,39.32342388518708,16.266198704103672,9.369554074833419/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_larch_ver01:data:sn93051662:00295867498:1883092201:0135/pct:18.833535844471445,29.492567913890312,12.20467125691913,7.032291132752435/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2590,7 +2590,7 @@ net now actually possessed by any other
 Christian prince or state. Of these lands and  
 territories, the company was proprietor by fre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_duwamish_ver01:data:sn87093109:00200291037:1883100401:0288/pct:22.770741793745152,54.064692794797196,17.136210907211165,8.813965428718124/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_duwamish_ver01:data:sn87093109:00200291037:1883100401:0288/pct:22.770741793745152,54.07325004278624,17.162057379167745,8.813965428718124/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2769,7 +2769,7 @@ already actually possessed by or granted to
 any of our subjects or possessed by the sub­  
 jects oi any other Christian Prince or .tale
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_hemet_ver01:data:sn94052989:00175040146:1892021401:0423/pct:86.80546519193234,23.866394795611225,11.541964866623292,4.961646761821536/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_hemet_ver01:data:sn94052989:00175040146:1892021401:0423/pct:86.80546519193234,23.86963135579506,11.55497722836695,4.968119882189209/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2797,7 +2797,7 @@ I ally possessed by or granted to any of
 ! our subjects, or possessed by the subjects  
 I of any other Christian Prince or State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ozzyosbourne_ver01:data:sn85026941:00175032393:1892021901:0231/pct:39.35293202675377,29.462318201851037,11.976979312490279,8.73732921992067/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ozzyosbourne_ver01:data:sn85026941:00175032393:1892021901:0231/pct:39.35293202675377,29.46966358160717,11.997718670607144,8.741001909798737/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

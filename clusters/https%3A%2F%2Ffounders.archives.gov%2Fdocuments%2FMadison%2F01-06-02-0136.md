@@ -80,7 +80,7 @@ fence and general welfare, and allowed by the &#x27;
 United States in Congress assembled, shall be ,  
 defrayed out of a common treasury;&quot;—and at
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_jalapeno_ver02:data:sn83009567:00296026128:1844112601:0059/pct:17.850746268656717,75.55587027333239,15.522388059701493,2.7899730916300807/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_jalapeno_ver02:data:sn83009567:00296026128:1844112601:0059/pct:17.86401326699834,75.5605910399849,15.51575456053068,2.7899730916300807/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -171,7 +171,7 @@ Confedration being repealed, that mode
 of taxation was abandoned, and the  
 conditions of the trust ought not, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156360:1854051701:1037/pct:23.300229182582125,58.58798735511064,57.983193277310924,34.45732349841939/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156360:1854051701:1037/pct:5.825057295645531,14.64699683877766,14.495798319327731,8.614330874604848/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

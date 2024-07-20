@@ -58,7 +58,7 @@ cuftody, to deliver them to the marfhal on his
 application.  
 Til: JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1807020301:0342/pct:21.931407942238266,10.127826941986234,17.63537906137184,10.594886922320551/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1807020301:0342/pct:21.92744991878722,10.126582278481013,17.638212115743247,10.597681373151449/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -92,7 +92,7 @@ them in custody, to deliver them to tin
 marshal on his application.  
 TH i JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807020301:0042/pct:41.00529100529101,77.6449867907913,17.55479969765684,12.001509623852057/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807020301:0042/pct:40.99754392593992,77.63522012578616,17.557780716669814,12.0041928721174/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -126,7 +126,7 @@ having them in custody, to deliver them to the
 maishal on his application.  
 Th. Jefferson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807020401:0350/pct:52.02354672553348,73.36643177450352,21.0448859455482,13.40486867392697/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807020401:0350/pct:52.01078960274644,73.3546837469976,21.04585581167239,13.406725380304243/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -220,7 +220,7 @@ theoftceirs having them In custody; to
 deliver them to the. marshal on his appli*  
 cation, i. TH j JBFFEKSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1807021301:0715/pct:68.43243243243244,32.74995667995148,19.945945945945947,15.993761913013342/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1807021301:0715/pct:68.41394217778979,32.74428274428274,19.94731153742232,15.995322245322246/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

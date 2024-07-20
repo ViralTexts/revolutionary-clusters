@@ -92,7 +92,7 @@ Itllca I inn flkSti l.l tns f.w. ... .. .... / * i
   
 and humble servant, J(&gt;11N ADAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183955:1821010201:0291/pct:50.26965190390587,51.232711966325915,15.476385030233699,26.638604930847865/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183955:1821010201:0291/pct:50.26143790849673,51.22655122655123,15.47930283224401,26.639409972743305/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -237,7 +237,7 @@ this letter, from your friend and humble ser­
 vant,  
 ~ JOHN ADAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1821022701:0241/pct:56.18057533466249,17.542149887925152,16.206209057248646,29.987330669525388/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1821022701:0241/pct:56.18057533466249,17.542149887925152,16.215703028576854,29.990579215800928/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -360,7 +360,7 @@ Adams—“His biography would make a con­
 spicuous figure even at this day in the naval  
 annals of the United States.” What mor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:00279525255:1868042301:0327/pct:73.90658524508994,84.02073732718894,11.206469714474336,2.4769585253456223/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:00279525255:1868042301:0327/pct:73.89438943894389,84.01105863379794,11.208745874587459,2.4795530468839995/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

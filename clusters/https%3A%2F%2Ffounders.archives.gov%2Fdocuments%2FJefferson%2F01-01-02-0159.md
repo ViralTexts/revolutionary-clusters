@@ -83,7 +83,7 @@ Congress agree thereto, that a committee be
 ippointed to prepare a declaration to the effect  
 of the said first resolution, which is i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862695:1858061001:0021/pct:43.62237762237762,44.855727193238124,14.34965034965035,7.88885650442048/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862695:1858061001:0021/pct:43.62237762237762,44.855727193238124,14.354312354312354,7.892094951261375/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -226,7 +226,7 @@ committee was nominated on the 11th of June,
 and was instructed to prepare a declaration &quot;to the  
 effect&quot; of the resolution introduced by Mr Le
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84020712:00295879178:1859071901:0537/pct:69.40658716638274,26.993865030674847,20.726859738784782,25.833798103736754/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84020712:00295879178:1859071901:0537/pct:52.07327463788696,20.245398773006134,15.54955978415223,19.375348577802566/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -290,7 +290,7 @@ was intril3ted to prrpare a declaration &quot;to
   
 the effect&#x27; of the resolutions introduced b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn86063325:00200292480:1859072101:0288/pct:90.93264248704664,55.824207082918505,17.024426350851222,25.785805717536622/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn86063325:00200292480:1859072101:0288/pct:68.22135850453452,41.87171099416868,12.770682953914491,19.342909970132272/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -367,7 +367,7 @@ ungnt Do lost in case the congress agree
 to prepare a declaration to the effect of  
 the said first resolution, which ?i thes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_broadsheet_ver01:data:sn92053942:00295879877:1875052201:0133/pct:9.686700767263428,56.32333767926988,16.464194373401533,14.531231480384022/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_broadsheet_ver01:data:sn92053942:00295879877:1875052201:0133/pct:7.275343779980813,42.24250325945241,12.344099776143269,10.904349887400734/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -455,7 +455,7 @@ pare the Declaration of Independence,
 that paper you have just heard read  
 an whien is the theme of this di
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477862:1875081101:0835/pct:258.98653998416466,182.87700999565408,40.06334125098971,60.263653483992464/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477862:1875081101:0835/pct:64.78510596157655,45.71925249891352,10.021786492374728,15.065913370998116/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -524,7 +524,7 @@ portant measure was deferred for three
 ( weeks.  
 I That postponement was the propositio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:0041562377A:1876061001:0107/pct:36.64518811057992,15.357036151777711,11.8270629806693,15.28234239617568/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:0041562377A:1876061001:0107/pct:36.65904524353911,15.362015735484514,11.820134414189704,15.292301563589284/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -579,7 +579,7 @@ horn, president of the Academy, were or-­
 dered to be printed in the archives of the  
 institution. EdiTOrIal FOrNEY&#x27;S Press
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00271742101:1876061001:0571/pct:85.94279517419005,182.13264458998248,43.26962179747865,57.47624757863666/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00271742101:1876061001:0571/pct:28.647598391396684,60.71088152999416,14.423207265826216,19.158749192878886/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -618,7 +618,7 @@ pared and transmitted to the respect­
 ive colonies for their consideration and  
 approbation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879154:1876061601:0312/pct:34.134134134134136,14.610120282040647,13.213213213213214,8.4301119867275/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879154:1876061601:0312/pct:25.61021404431093,10.960182496889258,9.913631242959069,6.325176275404396/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -734,7 +734,7 @@ pared and transmitte l to the respective
 colonies for their consideration ami ap  
 probation.” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn84022991:00513688088:1876070401:0193/pct:31.88142770719903,15.593069746779209,13.067150635208712,7.418924922256775/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn84022991:00513688088:1876070401:0193/pct:31.88142770719903,15.602941902364382,13.087315991127243,7.413988844464189/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -760,7 +760,7 @@ probation.”
 &quot;for their consideration and approbation.&quot;  
 Mir. Lee&#x27;s biographer, says tradition, relate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558366:1876070401:0012/pct:109.26315789473684,168.4704655104968,44.280701754385966,21.43695397053071/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558366:1876070401:0012/pct:27.330173775671405,42.1176163776242,11.076004914867474,5.359238492632677/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -793,7 +793,7 @@ the delay, to prevent loss of time, it appointed
 a committee to prepare the Declaration in harmony  
 with the preamble and resolution. This committe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:00206531265:1876070401:0028/pct:248.59398125308337,41.02504638218924,47.525078112152606,31.2152133580705/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:00206531265:1876070401:0028/pct:82.86466041769445,13.675015460729746,15.84169270405087,10.405071119356833/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -809,7 +809,7 @@ with the preamble and resolution. This committe
 New York, was appointed “to prepare a declar­  
 ation to the effect of the said first resolution.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_hera_ver01:data:sn83021205:00517171530:1876070401:0622/pct:4.625508031739888,70.89041095890411,14.070059996129283,1.0273972602739727/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_hera_ver01:data:sn83021205:00517171530:1876070401:0622/pct:3.5898205089745514,54.94691831318195,10.914454277286136,0.79991153052197/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -841,7 +841,7 @@ itseif into a committee of the whole, Mr,
 Harrison of Virginia, being it the chair  
 and after debate, the following resolutio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_columnist_ver01:data:sn92053942:00295873218:1876070501:0323/pct:9.172771672771672,53.584862646757095,16.224053724053725,10.441126182605721/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_columnist_ver01:data:sn92053942:00295873218:1876070501:0323/pct:6.884445122882003,40.19149663741024,12.181346359334453,7.830844636954292/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -959,7 +959,7 @@ plan of confederation be prepared and trans­
 mitted to the respective colonies for their  
 . ration and approbation.&quot;—[Histor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_mojave_ver01:data:sn82014381:00175036477:1885121901:0588/pct:21.500087827156158,64.64838791571465,11.821535218689618,4.975882203604976/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_mojave_ver01:data:sn82014381:00175036477:1885121901:0588/pct:21.51326190057966,64.64838791571465,11.808361145266117,4.975882203604976/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1042,7 +1042,7 @@ Resolved, That a plan of confederation be
 prepared and transmitted to the respective  
 colonies for their consideration and approbation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287368:1892062901:0246/pct:44.4601381042059,89.2530897367007,15.364092906465787,5.814078452444922/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287368:1892062901:0246/pct:44.465369324126385,89.2530897367007,15.358861686545302,5.821243059287122/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

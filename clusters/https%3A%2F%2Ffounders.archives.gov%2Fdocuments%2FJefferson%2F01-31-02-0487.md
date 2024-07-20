@@ -52,7 +52,7 @@ his wife Doily and child Lydia and Jenny Wil­
 lard, Lewis— Also, the LIBRARY OF LAW,  
 and other BOOKS ot E. Randolph, a list o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812062901:0202/pct:60.29256256609094,65.0882731205425,16.707789918928444,5.132701975914884/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812062901:0202/pct:60.28193832599119,65.08066401683423,16.71071953010279,5.135998753020029/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -76,7 +76,7 @@ ther furniture, the plate of the said Randolph, con­
 sisting of a silver enp, a silver coffee put, I tea ditto,  
 do. sugar dish, S silver waiters, six dozen silve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812063001:0065/pct:76.84094256259205,27.49229821318546,17.56259204712813,4.74430067775724/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812063001:0065/pct:76.82679919013437,27.48891079349433,17.56549481563286,4.747823229834073/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -94,7 +94,7 @@ children, Suckcy and Lucy and Sam, Aggey and
 their children, Seceondy, Mourning, Edmonis, Uv~  
 is, Blenheim and Ins wife Fhillis xnd children
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812071001:0078/pct:77.21356553620532,60.83292623351246,17.360219981668195,2.0639960918417195/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812071001:0078/pct:77.19941348973607,60.82549761875687,17.36314760508309,2.067814547970855/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -115,7 +115,7 @@ and children Watt and Hetty, and Jummy and
 hi* wife Dolly and child Lydia and Jenny VV il­  
 Jard, Lewis—Also, the LIBRARY OF LAW
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812080301:0206/pct:78.21415991546318,80.3793785639474,16.51990137372314,3.677411846852089/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812080301:0206/pct:78.20038739214651,80.3700255992553,16.522862006221754,3.68086261732992/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -133,7 +133,7 @@ Charles and Moses, Harry and Nanny his wife and i
 children, \\ att and Rillv, and Jrmniey and his wife j  
 Dolly and child, Lydia, Jclirty, Willard, Lewis.—Al
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812080701:0110/pct:41.965275212412266,28.995964290081936,17.842630217953452,1.98116668704904/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812080701:0110/pct:41.95752539242844,28.992418684274885,17.845490920283165,1.9850004075976195/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -156,7 +156,7 @@ and children Watt and Petty, and Jammv and
 his Wife Dolly and child Eto * and Jenny Wil­  
 lard, Iictrin—Also, the LIBRARY OF LA i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812081001:0214/pct:59.98935415188077,38.78186642057908,16.501064584811925,4.510324143499827/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812081001:0214/pct:59.97871208089409,38.77739331026528,16.504050617940987,4.51364859669358/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -183,7 +183,7 @@ ther furniture, the plate of the said Randolph, con­
 sisting of a silver oup, a silver coffee pot, 1 tea ditto,  
 do. sugar ditli, 5 silver waiters, six dozen silve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812081401:0118/pct:59.62502320400965,26.889214966984593,18.043437906070167,6.150648080215212/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812081401:0118/pct:59.61395694135115,26.885927374984718,18.046275674338034,6.153971553164609/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -206,7 +206,7 @@ and children Watt and Betty, and J immy and
 his wife Dolly and child Lydia and Jenny Wil­  
 lard, Lewis—Also, the LIBRARY OP LAW
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812081701:0222/pct:60.71114240450625,52.118249534450655,16.51117760957578,4.562383612662942/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812081701:0222/pct:60.70045758535727,52.112184336087516,16.51413821424381,4.565731797199271/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -230,7 +230,7 @@ ther furniture, the plate of the said Randolph, con­
 sisting of a silver cup, a silver coffee pot, 1 tea (lit to,  
 do. sugar dish, 5 silver waiters, six dozen silve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812082801:0134/pct:59.00942524487156,51.180244522454906,17.686194788394012,4.720978089819634/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812082801:0134/pct:58.99852180339985,51.17404986686032,17.68908598176891,4.724441216815944/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -254,7 +254,7 @@ Charles and Moses, llurrv and Nanny his wil
 .rd, liCwis—Also, tlie l.illRAKY OP LAV  
 f and other DOCKS ol E. Randolph, a list 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812083101:0237/pct:60.02415458937198,77.54529514903565,16.701173222912352,5.131502045587376/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812083101:0237/pct:60.01380024150423,77.53623188405797,16.704042320740612,5.134798192301699/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -279,7 +279,7 @@ list will be produced : likewise tbe furniture, con­
 sisting ot beds, blankets, sheets, house linen and o­  
 ther furniture, the plate ofthe said Randolph, cou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812090401:0142/pct:41.68952276467361,46.28958182257675,17.553483269336258,5.172830553541213/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812090401:0142/pct:41.681901279707496,46.283987915407856,17.556368068251068,5.176233635448137/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -304,7 +304,7 @@ h*t will be produced : likewise the furniture, con­
 sjsimg ot beds, blankets, sheets, house linen and o­  
 ther furniture, the plate of the said Randolph, con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812091101:0150/pct:59.4141488577745,56.11545988258317,17.428150331613853,5.3938356164383565/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812091101:0150/pct:59.403205010130776,56.10859728506787,17.431080002455946,5.397252456075986/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -328,7 +328,7 @@ his wife Dolly and child Lydia an 1 Jenny \\ il
 lard, Lewis—Also, tlie LIBRARY OF LAW,  
 and other BOOKS ol E. Randolph, a list o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812091401:0254/pct:61.871629848669336,52.080631851939174,16.246303704992172,5.1396911469998825/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812091401:0254/pct:61.86086956521739,52.07449316360208,16.24927536231884,5.143014301430143/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -347,7 +347,7 @@ and children Watt and Betty, and Jammy and
 !us wife Dolly and child Lvdia and Jenny Wil­  
 lard, l«ewU—Also, the I.IHRAKY OF LV
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812092801:0270/pct:77.83923941227312,81.42057382785164,16.542783059636992,2.6125495684627946/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812092801:0270/pct:77.82578638091947,81.41107871720116,16.545684986749624,2.6161321671525752/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -369,7 +369,7 @@ list will he produced : likewise the furniture, con­
 sisting of beds, blankets, sheets, house linen and o­  
 ther furniture, the plate of the said Randolph, con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812102301:0198/pct:40.86704153818248,28.56793743890518,17.39524759658988,3.8611925708699903/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812102301:0198/pct:40.859630032644176,28.564447159437997,17.398138072784427,3.8647933211158625/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -396,7 +396,7 @@ ther furniture, the plate of the said Randolph, con­
 sisting of a Silver cup, a silver coffee pot, I tea ditto,  
 do. sugar dish, 5 silver waiters, six dozen silve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812103001:0206/pct:41.79372197309417,27.291340479344814,17.16591928251121,6.070095146332651/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812103001:0206/pct:41.78622668579627,27.28805394990366,17.168818747011,6.073378291586384/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -419,7 +419,7 @@ and children Watt and Betty, and J.imtnv and
 his wile Dolly and child Lydia and Jenny Wil­  
 lard, f^wis—Also, tlie LIBRARY OF LA
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812110501:0278/pct:61.553030303030305,47.34674667607954,16.150137741046834,4.577009059889399/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812110501:0278/pct:61.54243415389912,47.34117647058824,16.153095770930165,4.580392156862745/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -443,7 +443,7 @@ so, the library of law and other hooks, of which n
 list will lie prodneed i likewise the furniture, con­  
 sisting of beds, blankets, sheets, house linen and ci
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812110601:0214/pct:60.10522496371553,82.64452793600776,17.307692307692307,4.7509392800872625/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812110601:0214/pct:60.09432251042989,82.63451284537082,17.31059918979382,4.754402973016642/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -470,7 +470,7 @@ ther furniture, the plate of the said Randolph, con­
 sisting of a silver cup, a silver coffee pot, 1 tea ditto,  
 do. sugar dish, 5 silver waiters, six dozen silve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812111701:0230/pct:23.604201216141515,35.93232806178742,17.634051962410172,6.227779821012628/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812111701:0230/pct:23.599852616064847,35.92792351066438,17.636944239744533,6.231102394377707/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -489,7 +489,7 @@ and children Watt and Hetty, and Jammy and
 •ns wife Dolly and child Lydia anti Jenin Wih  
 laru, lx:*wis—Also, the lJRUMcY Qi«* LA
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812111901:0295/pct:77.60407518004567,53.271028037383175,16.63446337607588,2.6617768839465277/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812111901:0295/pct:77.59044608359677,53.26472675656494,16.637396089450885,2.665404936519202/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

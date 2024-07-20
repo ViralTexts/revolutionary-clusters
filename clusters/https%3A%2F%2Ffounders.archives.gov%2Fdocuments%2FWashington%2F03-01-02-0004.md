@@ -72,7 +72,7 @@ their service, ard join the said army, for the
 defence of American liberty ; and for repelling  
 every hoflile invasion thereof.” They soon afte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795092201:0509/pct:27.109673625404294,53.299186501958424,19.43546015877683,4.76047002109069/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795092201:0509/pct:27.109673625404294,53.299186501958424,19.450161717142016,4.76047002109069/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -242,7 +242,7 @@ JOHN HANCOCK, Pw&#x27;foil/.
 Atlesi, Cm*. Th Secretary.  
 Dated Philadelphia, June 19th, 1775
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82014751:00513688210:1847021001:0113/pct:34.24423569598633,18.502032126959552,14.688300597779676,25.778982001161214/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82014751:00513688210:1847021001:0113/pct:34.24423569598633,18.502032126959552,14.707277730334946,25.785433197858204/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -276,7 +276,7 @@ and [)n&gt;utunihj to t timer ve and follow&#x27; xwh order* •
 and directions from time to time. as he dud/ re-1  
 ce/re from that or a future Congress. (See 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215804:1848032401:0276/pct:19.790960998741895,10.336318127335543,12.822994290138391,5.7815694845942325/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215804:1848032401:0276/pct:19.789045868008515,10.335589396503103,12.824979033610735,5.783511938334273/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -433,7 +433,7 @@ from this or a future Congress of the said
 United Colony, or a Committee of Congress,  
 for that purpose appointed.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035045:00296027145:1863042901:0027/pct:65.56091676718938,82.88197505983122,14.761761158021713,33.089809799722886/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035045:00296027145:1863042901:0027/pct:49.178102850248834,62.16148129487341,11.084301010405671,24.826804383423607/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -626,7 +626,7 @@ This commission to continue in force until revoked by
 this or a future Congress  
 By order of the Congress
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:00271743932:1875061501:1040/pct:151.13748763600395,188.61346915676287,45.91163864160897,45.94227504244482/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:00271743932:1875061501:1040/pct:50.37916254533465,62.871156385587625,15.303879547202989,15.31409168081494/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -651,7 +651,7 @@ voked by this or a future Congress. By order of
 the Congress. JOliN HANCOCK, President.  
 &quot;PHILADELPHRA, June 17, 1775.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:00271743932:1875061601:1049/pct:106.53915317966323,48.22857142857143,45.26728788621873,12.582857142857144/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:00271743932:1875061601:1049/pct:35.513051059887744,16.076190476190476,15.089095962072912,4.194285714285714/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -699,7 +699,7 @@ This commission to continue in force un­
 til revoked by this or a future Congress.  
 This brief record of Washington&#x27;s firs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776051:1875070201:0658/pct:342.04009433962267,289.6828752642706,45.45990566037736,59.323467230443974/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776051:1875070201:0658/pct:85.54785429877599,72.42071881606765,11.370004424126234,14.830866807610994/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -767,7 +767,7 @@ This commission to continue in force
   
 antl revoked by this or a fature co
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477862:1875071401:0819/pct:302.1243115656963,154.43658923676236,40.36191974822974,62.444091761650554/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477862:1875071401:0819/pct:75.54593743852055,38.60914730919059,10.092465079677355,15.611022940412639/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -865,7 +865,7 @@ will maintain and assist him, and adhere to
 him, the said George Washington, with their  
 lives and fortunes in the same caus
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044826:1883122401:0720/pct:230.42505592841164,102.63438404141922,49.36614466815809,22.963301355261155/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044826:1883122401:0720/pct:57.63850027979854,25.658596010354806,12.348442454765902,5.740825338815289/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -905,7 +905,7 @@ Kent and Sussex on the Delaware;
 Maryland, Virginia, North Carolina  
 and South Carolina, to John Clark
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588307:1887072301:0642/pct:25.408917768317277,107.18535469107552,17.947568899843155,5.93440122044241/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588307:1887072301:0642/pct:19.692058346839545,83.07716560258532,13.915258161611485,4.599196027429652/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -939,7 +939,7 @@ floor of tho chapel for the doad in Se­
 vastopol; hundreds of mon crawled,  
 twisted and groaned with curses an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_delta_ver01:data:sn87075048:0023728950A:1887072301:0454/pct:74.96212121212122,92.07395728823276,16.439393939393938,15.694424537766949/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_delta_ver01:data:sn87075048:0023728950A:1887072301:0454/pct:56.26302823574,69.05546796617458,12.336554860716316,11.781568009172997/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

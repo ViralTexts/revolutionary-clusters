@@ -265,7 +265,7 @@ ire infinitely worsted by tlie exchange from slavery to
 iberly?if, indeed, their condition deserve that name.  
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_armani_ver02:data:sn84024735:00415664229:1836070101:0388/pct:36.723085460599336,71.53800238758456,18.118756936736958,16.195781933943493/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_armani_ver02:data:sn84024735:00415664229:1836070101:0388/pct:36.723085460599336,71.53800238758456,18.123381428042915,16.202414113277623/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -383,7 +383,7 @@ exchange tmm sl.i\ 1 ry toliheiiv; if, indeed, their
 condition deserves that name.  
 .1 \ M IS M \ l &gt; IS O N
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348859:1836071101:0790/pct:17.56914686404363,23.712994020708766,15.465523957927543,17.31077730786058/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348859:1836071101:0790/pct:17.56572541382668,23.709536307961503,15.467380720545277,17.311898512685914/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -435,7 +435,7 @@ woisted by the exchinge from slavery to liberty—if]
 indeed, their condition deserve that name.-  
 JAMES MADISON. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1836071201:0317/pct:5.611554084549421,12.146439317953861,14.653227019708138,16.609829488465397/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1836071201:0317/pct:5.616568878190662,12.146439317953861,14.663256606990622,16.616516215312604/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -496,7 +496,7 @@ are infinitely worsted by the exchange I
 from slavery to liberty ; if, indeed, their  
 condition deserves that name. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_hookandcook_ver03:data:sn88084121:00295861800:1836071201:0115/pct:0.0,45.255899776633974,21.915311273135167,30.057298242206468/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_hookandcook_ver03:data:sn88084121:00295861800:1836071201:0115/pct:0.0,45.26237415428442,21.929332585530005,30.060535431031692/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

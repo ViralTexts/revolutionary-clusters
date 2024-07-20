@@ -32,7 +32,7 @@ self a stock-dealer) to sell out your* at this or
 that moment, it would e used as a signal to  
 guide speculation.&quot; Invited to share In 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_damariscotta_ver02:data:sn83016025:00279525346:1873032001:0495/pct:85.46634225466342,74.54480964767085,10.94890510948905,2.234570820524947/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_damariscotta_ver02:data:sn83016025:00279525346:1873032001:0495/pct:85.45248134933506,74.5359971627852,10.951183911774246,2.2372620877172245/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -52,7 +52,7 @@ stock-dealer) to sell out vours at this or 1
 that moment, it would be used as a  
 signal to guide speculation.&quot; Invite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_deforest_ver02:data:sn84026847:00415665167:1873032001:0267/pct:73.97944199706315,42.75552637338586,12.09985315712188,3.3924272269643247/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_deforest_ver02:data:sn84026847:00415665167:1873032001:0267/pct:73.97944199706315,42.75917414459765,12.09985315712188,3.3960749981761142/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -92,7 +92,7 @@ is himself a stock-dealer) to sell out your at
 this or that moment, it would be used as a  
 signal to guide speculation.” Invited t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85033123:00514151234:1873040301:0248/pct:4.972742986305013,78.27582817261379,14.865044541949208,3.0767718470461025/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85033123:00514151234:1873040301:0248/pct:4.9816070557993175,78.28238146728268,14.865044541949208,3.08004849438055/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -112,7 +112,7 @@ himself a stock-seller) to sell out yours
 at this or that moment, it would be used  
 as a signal to guide speculation.&quot; I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ira_ver01:data:sn84023416:00202197498:1873041201:0054/pct:56.62133142448103,101.26762385202431,16.195418754473874,3.8287414306040617/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ira_ver01:data:sn84023416:00202197498:1873041201:0054/pct:42.48880931065354,75.95395162333463,12.157564905998209,2.8715560729530463/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -132,7 +132,7 @@ dealer) to m!1 C&#x27;.!t jenrs at this or tst
 moment, it would be ojod as i signal to  
 guide speculation.&quot; Invited to shar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn85033673:00280779416:1873042101:0369/pct:21.255230125523013,116.07117233462476,16.715481171548117,4.0177930836561915/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn85033673:00280779416:1873042101:0369/pct:15.944758317639673,87.05696656622185,12.554927809165097,3.013344812742144/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -154,7 +154,7 @@ as a signal to guide speculation.&quot; In- c
 vited to share in a speculation, ho ^  
 declined, on the ground that a public 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grandamericancoonhunt_ver01:data:sn84026857:00295862166:1873042401:0037/pct:42.33167082294264,77.22510201830815,14.230049875311721,4.323370464321164/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grandamericancoonhunt_ver01:data:sn84026857:00295862166:1873042401:0037/pct:42.33167082294264,77.23245468916583,14.235245220282627,4.31969412889232/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -176,7 +176,7 @@ or that moment, it would be
 used as a signal to guide spee­  
 ulation.&quot; Invited to share in 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075167:00280774893:1873072301:0979/pct:112.03059805285118,159.2359889419452,43.60222531293463,20.859512440311637/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075167:00280774893:1873072301:0979/pct:28.017391304347825,39.8089972354863,10.904347826086957,5.214878110077909/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -225,7 +225,7 @@ to sell out yours at this or that mo
 ment, it would be used as a signal to  
 guide speculation.&quot; Invited to shar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_felice_ver01:data:sn86063662:00200292406:1884110601:1136/pct:61.45010768126346,314.8416418122426,39.411342426417804,15.850021303792076/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_felice_ver01:data:sn86063662:00200292406:1884110601:1136/pct:15.370802657568683,78.71041045306065,9.858143293230382,3.962505325948019/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -246,7 +246,7 @@ er) to sell out yours at this or that
 moment, it would be used as a sig­  
 nal to guide speculation.&quot; In
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_garfield_ver01:data:sn89067274:0029455628A:1884110601:0396/pct:101.47865853658537,80.43243243243244,13.140243902439025,5.297297297297297/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_garfield_ver01:data:sn89067274:0029455628A:1884110601:0396/pct:76.14762848863809,60.32432432432432,9.867317370748818,3.975975975975976/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

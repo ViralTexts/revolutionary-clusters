@@ -2063,7 +2063,7 @@ their boats in passing, t.o empty a bottle of
 oil into the sea to suppress the breakers.  
 Previous to the time of Franklin, no man o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_angelou_ver01:data:sn83030362:print00211110004:1848121701:0004/pct:45.153521974714025,19.96773821868879,9.52739313666466,2.523332181126858/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_angelou_ver01:data:sn83030362:print00211110004:1848121701:0004/pct:45.153521974714025,19.976379767254294,9.531155930162553,2.5175711487498558/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2093,7 +2093,7 @@ what everybody else knew. In my own
 mind I at first slighted his solution, though I  
 was not able to think of another.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_angelou_ver01:data:sn83030362:print00211110004:1848121701:0004/pct:45.09331727874774,23.608710680954026,9.587597832630944,5.7034220532319395/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_angelou_ver01:data:sn83030362:print00211110004:1848121701:0004/pct:45.10084286574353,23.611591197142527,9.583835039133053,5.714944117985943/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2123,7 +2123,7 @@ ed itself gradually till it reached the lee-side
 making all that quarter of the pond, perhaps  
 half an acre, as smooth as a looking glass.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_angelou_ver01:data:sn83030362:print00211110004:1848121701:0004/pct:45.09331727874774,30.47586127434036,9.572546658639373,5.887775089296002/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_angelou_ver01:data:sn83030362:print00211110004:1848121701:0004/pct:45.10084286574353,30.484502822905863,9.58007224563516,5.879133540730499/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2146,7 +2146,7 @@ easily catch upon it, so as to raise the first
 wrinkles, but slides over it, and leaves it  
 smooth as it finds it.”—Gallery of Nature
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_angelou_ver01:data:sn83030362:print00211110004:1848121701:0004/pct:45.123419626730886,40.73049890540385,9.587597832630944,3.2953105196451205/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_angelou_ver01:data:sn83030362:print00211110004:1848121701:0004/pct:45.13470800722456,40.73049890540385,9.583835039133053,3.2953105196451205/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2467,7 +2467,7 @@ bottle or two of oil into the sea, thereby
 suppressing the breakers sufficiently to al­  
 low a boat to pass in safety. It becam
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776026:1854051301:0914/pct:115.36293164200141,336.09022556390977,49.04862579281184,29.914070891514502/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776026:1854051301:0914/pct:28.840732910500353,84.02255639097744,12.26215644820296,7.4785177228786255/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2488,7 +2488,7 @@ could, at a distance, see where the shoals
 of herrings were, by the smoothness of the  
 water over them, attributable, as he belie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776026:1854051301:0914/pct:164.76391825229035,132.97529538131042,48.907681465821,14.76906552094522/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776026:1854051301:0914/pct:41.19097956307259,33.243823845327604,12.22692036645525,3.692266380236305/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2513,7 +2513,7 @@ through the scuppers, which had greased
 the sides of those two ships a little.&quot;  
 Franklin at first thought that this must b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776026:1854051301:0914/pct:165.11627906976744,203.43716433941998,48.69626497533474,23.254564983888294/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776026:1854051301:0914/pct:41.27906976744186,50.859291084854995,12.174066243833686,5.813641245972073/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2537,7 +2537,7 @@ leeward side, covering, probably, half an
 acre with a film of oil of exquisite tenuity.  
 Franklin bore the character of a truthfu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776026:1854051301:0914/pct:165.46863988724454,250.21482277121376,49.18957011980268,20.83780880773362/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776026:1854051301:0914/pct:41.367159971811134,62.55370569280344,12.29739252995067,5.209452201933405/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2590,7 +2590,7 @@ I seemed to tuh tine y y at
 choice, and to uise it from end to end as a  
 iece of turnpike road
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776026:1854051301:0914/pct:165.6800563777308,69.44146079484425,99.15433403805497,306.3372717508056/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776026:1854051301:0914/pct:41.4200140944327,17.36036519871106,24.788583509513742,76.5843179377014/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2611,7 +2611,7 @@ spreads instantly all round, becoming so
 thin as to produce the prismatic colors for  
 a considerabie space; and, beyond the re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776026:1854051301:0914/pct:216.13812544045103,85.9828141783029,48.484848484848484,15.091299677765843/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776026:1854051301:0914/pct:54.03453136011276,21.495703544575726,12.121212121212121,3.7728249194414607/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2635,7 +2635,7 @@ drop as from a centre, leaving a large clear
 space.  
 But then, even if we can explain all thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776026:1854051301:0914/pct:215.92670894996476,109.23737916219119,48.97815362931642,21.106337271750807/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776026:1854051301:0914/pct:53.98167723749119,27.309344790547797,12.244538407329104,5.276584317937702/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3282,7 +3282,7 @@ taking care to apply the oil to the wind­
 ward side, otherwise if applied to the lee  
 side, the oil will be driven on the shor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340603:1862111501:0388/pct:44.19992540096979,40.47300908605024,12.532637075718016,7.629609834313201/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340603:1862111501:0388/pct:44.19168375909006,40.467601870407485,12.534961775125863,7.631930527722111/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3303,7 +3303,7 @@ see where the shoals of herrings were,
 by the smoothness of the water over  
 them; attributable, as he believed, t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn85029094:00237281858:1864072301:0711/pct:16.40625,68.22950395026551,105.32670454545455,150.7058671156586/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn85029094:00237281858:1864072301:0711/pct:4.1015625,17.057375987566378,26.331676136363637,37.67646677891465/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3332,7 +3332,7 @@ two ships a little.&quot;
 F ranklin at first thought that this  
 must be a mystification--a tale for th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn85029094:00237281858:1864072301:0711/pct:69.88636363636364,141.58787721797694,51.20738636363637,27.405776453827226/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn85029094:00237281858:1864072301:0711/pct:17.47159090909091,35.396969304494235,12.801846590909092,6.8514441134568065/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3355,7 +3355,7 @@ chips, ec., forcing them to recede every
 way from the drop as from a centre,  
 leaving a large clear space
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn85029094:00237281858:1864072301:0711/pct:123.50852272727273,72.3222380520658,50.71022727272727,20.722704312912835/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn85029094:00237281858:1864072301:0711/pct:30.877130681818183,18.08055951301645,12.677556818181818,5.180676078228209/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3377,7 +3377,7 @@ into the sea; thereby suppressing the
 breakers sufficiently, to allow a boat to  
 pass in safety. It became known tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn85029094:00237281858:1864072301:0711/pct:15.625,272.1927211501101,50.63920454545455,18.33959331692786/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn85029094:00237281858:1864072301:0711/pct:3.90625,68.04818028752753,12.659801136363637,4.584898329231965/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3428,7 +3428,7 @@ and to use it from end to end as a piece
 of turnpike road.  
 It was not likely that a man such as
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn85029094:00237281858:1864072301:0711/pct:67.25852272727273,276.69990933816865,51.91761363636363,73.7210205931874/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn85029094:00237281858:1864072301:0711/pct:16.814630681818183,69.17497733454216,12.979403409090908,18.43025514829685/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3452,7 +3452,7 @@ round, becoming so thin as to produce
 tse asssssssaesy eeewtsiee ae, newressitensparae  
 space; and, beyond the region of these
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn85029094:00237281858:1864072301:0711/pct:67.25852272727273,362.64732547597464,50.99431818181818,18.287786556145576/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn85029094:00237281858:1864072301:0711/pct:16.814630681818183,90.66183136899366,12.748579545454545,4.571946639036394/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3763,7 +3763,7 @@ DAY-DREAMS.
 made &quot;all that quarter of the pond, perhaps  
 half an acre, as smooth as a looking-glass . 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_gum_ver01:data:sn82015483:00271762732:1882022301:0185/pct:114.78152654867256,64.81790845305713,13.205199115044248,1.024612985855886/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_gum_ver01:data:sn82015483:00271762732:1882022301:0185/pct:86.12532853783372,48.61343133979285,9.904551113570342,0.7684597393919145/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4070,7 +4070,7 @@ But then, even if we can explain b
 
 ---
 
-## [From _Scientific American (1845-1908)_](https://archive.org/details/sim_scientific-american_1884-04-19_50_16/page/n6/mode/1up?view=theater)
+## [From _Scientific American_](https://archive.org/details/sim_scientific-american_1884-04-19_50_16/page/n6/mode/1up?view=theater)
 
 #### 1884-04-19 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -4111,7 +4111,7 @@ to think of another.”
 
 ---
 
-## [From _Scientific American (1845-1908)_](https://archive.org/details/sim_scientific-american_1884-04-19_50_16/page/n6/mode/1up?view=theater)
+## [From _Scientific American_](https://archive.org/details/sim_scientific-american_1884-04-19_50_16/page/n6/mode/1up?view=theater)
 
 #### 1884-04-19 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -4133,7 +4133,7 @@ perhaps half an acre, “as smooth as looking glass.” He ex
 
 ---
 
-## [From _Scientific American (1845-1908)_](https://archive.org/details/sim_scientific-american_1884-04-19_50_16/page/n6/mode/1up?view=theater)
+## [From _Scientific American_](https://archive.org/details/sim_scientific-american_1884-04-19_50_16/page/n6/mode/1up?view=theater)
 
 #### 1884-04-19 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -4210,7 +4210,7 @@ recalled to mind a remark of the elder
 Plinv, that &quot;every thing is soothed by  
 oil,&#x27; and that this is the reason wh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_earhart_ver01:data:sn85032814:00237283235:1886061001:0390/pct:9.245411284840245,101.14090802164196,21.040108769544528,15.866854857680545/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_earhart_ver01:data:sn85032814:00237283235:1886061001:0390/pct:6.172419656521,67.43119266055047,14.028226492093182,10.573982592331216/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4255,7 +4255,7 @@ with which to repeat the experiment as
 opportunity offered. The same result  
 constantly followed. What surprise
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_earhart_ver01:data:sn85032814:00237283235:1886061001:0390/pct:31.220258327668255,19.054340155257588,20.80217539089055,24.48835568101623/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_earhart_ver01:data:sn85032814:00237283235:1886061001:0390/pct:20.829790851895936,12.70289343683839,13.87519129399762,16.325570454010823/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4282,7 +4282,7 @@ past help. Some years after he had
 the satisfaction of knowing that the  
 experiment had been tried on a Dutc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_earhart_ver01:data:sn85032814:00237283235:1886061001:0390/pct:31.322229775662816,57.809927075982124,20.717199184228416,10.2681721947777/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_earhart_ver01:data:sn85032814:00237283235:1886061001:0390/pct:20.897806495493963,38.54387203011056,13.824179561299099,6.8454481298518/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4407,7 +4407,7 @@ uppei holloxv joint of his bamboo cane
 ith xvhieh to repeat the experiment as  
 opportunity offered. Fhe same rcsu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_floyd_ver01:data:sn86092245:00414186592:1886061801:0702/pct:30.93525179856115,23.678624495860753,12.12162345595222,10.125238802801952/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_floyd_ver01:data:sn86092245:00414186592:1886061801:0702/pct:30.931053203040175,23.676111641727687,12.124502352515382,10.127701722735152/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4449,7 +4449,7 @@ experiment had been tried on a I Mitch
 ship, hound from Batavia to Amster­  
 dam. In wearing the ship around nea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_floyd_ver01:data:sn86092245:00414186592:1886061801:0702/pct:30.921677752137914,37.16832944173212,12.189493688068413,13.022712799830185/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_floyd_ver01:data:sn86092245:00414186592:1886061801:0702/pct:30.917480998914225,37.16438501538788,12.192363373145133,13.024868230216846/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4496,7 +4496,7 @@ opportunity offered. The same result
 constantly followed. What surprised  
 him most was the wulo extent of spac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_gordon_ver01:data:sn89058248:00296020424:1886070101:0176/pct:26.594982078853047,26.19653767820774,15.3584229390681,19.95926680244399/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_gordon_ver01:data:sn89058248:00296020424:1886070101:0176/pct:19.95338831122266,19.65376782077393,11.527429186088204,14.969450101832994/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4523,7 +4523,7 @@ past help. Some years after he had
 the satisfaction of knowing that the  
 experiment had been tried on a Dutc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_gordon_ver01:data:sn89058248:00296020424:1886070101:0176/pct:26.899641577060933,56.74643584521385,15.21505376344086,7.981160896130346/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_gordon_ver01:data:sn89058248:00296020424:1886070101:0176/pct:20.18644675510936,42.56619144602851,11.41986375044819,5.982688391038696/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4755,7 +4755,7 @@ thm n&#x27;~,!1,e&lt;l the lee side, making all
 quarter of the pond, perhaps hail an  
 &quot;mooth as a looking-glass
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_bobbsey_ver02:data:sn82015137:00414181934:1886111601:1115/pct:3.5733919736118747,65.35748859078966,15.814550119113067,39.385977043285855/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_bobbsey_ver02:data:sn82015137:00414181934:1886111601:1115/pct:2.774095815186518,50.65199528419849,12.256201476992993,30.53124218498803/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4793,7 +4793,7 @@ the sea. 1 much desired lo sea that letter
 and a copy ol it was promised me, which  
 1 afterward received.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_bobbsey_ver02:data:sn82015137:00414181934:1886111601:1115/pct:19.937694704049843,9.66671276448624,16.565878687923767,13.760199142580555/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_bobbsey_ver02:data:sn82015137:00414181934:1886111601:1115/pct:15.456352963453892,7.495266335607874,12.838477561067979,10.664142045657533/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5240,7 +5240,7 @@ permits the light to come down to them.
 Perhaps one of the most curious docu­  
 ments hitherto discovered in connectio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_bobbsey_ver02:data:sn86063034:00414181971:1888030201:0011/pct:3.972920007126314,46.28999319264806,15.46410119365758,9.121851599727705/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_bobbsey_ver02:data:sn86063034:00414181971:1888030201:0011/pct:3.088181148748159,35.87507034327518,11.984536082474227,7.076533483398987/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5275,7 +5275,7 @@ and allow the crow to enter the river.
 Another gentleman from Rhode Island  
 told the doctor that the harbor of Newpor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_bobbsey_ver02:data:sn86063034:00414181971:1888030201:0011/pct:4.151077854979512,77.75357385976855,15.392838054516302,12.144315861130021/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_bobbsey_ver02:data:sn86063034:00414181971:1888030201:0011/pct:3.2170471281296025,60.26660101294316,11.938512518409425,9.408413055711874/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5298,7 +5298,7 @@ spreads over the surface of the water in the
 harljor, and prevents the forming of any  
 waves
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_bobbsey_ver02:data:sn86063034:00414181971:1888030201:0011/pct:4.115446285408872,90.36078965282505,15.428469624086942,5.023825731790334/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_bobbsey_ver02:data:sn86063034:00414181971:1888030201:0011/pct:3.194035346097202,70.03728193584693,11.961524300441827,3.8899831176139563/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5318,7 +5318,7 @@ for &#x27;* produce tho prismatic odors
 th, r,.1 considerable space, and beyond  
 &gt; f&#x27;l*°.muoh thinner as to be invisible, ex
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_bobbsey_ver02:data:sn86063034:00414181971:1888030201:0011/pct:4.026367361482273,122.57317903335603,15.5709959023695,3.526208304969367/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_bobbsey_ver02:data:sn86063034:00414181971:1888030201:0011/pct:3.12960235640648,94.9950759707372,12.06737849779087,2.743387732132808/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5551,7 +5551,7 @@ which, rising to the surface, smooths it
 and permits the light to come down to  
 them.—Georges &lt;&#x27;lour in Chicago Inte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_calpet_ver02:data:sn86072173:00514150011:1888032801:0028/pct:3.252032520325203,36.8421052631579,12.149954832881662,9.448536015807436/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_calpet_ver02:data:sn86072173:00514150011:1888032801:0028/pct:3.252032520325203,36.85108676127178,12.166892502258357,9.444045266750495/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5617,7 +5617,7 @@ which, rising to the surface, smooths i
 and permits the light to come down to  
 them.-Georges Cloue in Chicago Inte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_bobcat_ver02:data:sn86075021:00294555328:1888042001:0391/pct:317.8140224528702,136.39268080162648,53.80216055920356,40.19750217833285/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_bobcat_ver02:data:sn86075021:00294555328:1888042001:0391/pct:79.45350561321754,34.09817020040662,13.45054013980089,10.049375544583212/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5637,7 +5637,7 @@ the waves in a stonn by pouring oil into the sea,
 as well as the m? ntion made by Pliny of the use of  
 oil by divers to smooth the Wayes, He tlier. nro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_rottweiler_ver01:data:sn83045462:00280654693:1888050101:0333/pct:1.5061139278258275,47.994252185367024,12.227855651655235,2.6104658124775475/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_rottweiler_ver01:data:sn83045462:00280654693:1888050101:0333/pct:1.5135699373695197,47.9972458388217,12.235311661198926,2.6104658124775475/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5670,7 +5670,7 @@ of their months, which, rising to the sur­
 face, smooths it and permits the light to  
 come down to them.—George Clone i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_grace_ver01:data:sn85033139:00271769362:1888051001:0808/pct:41.38389886892881,76.40694892333299,10.83166999334664,8.509310308956621/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_grace_ver01:data:sn85033139:00271769362:1888051001:0808/pct:41.38833444222666,76.40694892333299,10.83166999334664,8.519712888796422/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5785,7 +5785,7 @@ Kicy would strike fish which they could
 rnfflod by the wind, and also of the  
 practice of the fishermen of Lisbon o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_cayman_ver01:data:sn00065152:00279523374:1888062201:0175/pct:9.47000821692687,32.223366517908225,18.796220213640098,6.842888202311477/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_cayman_ver01:data:sn00065152:00279523374:1888062201:0175/pct:9.47000821692687,32.23099515581493,18.809915091755684,6.846702521264828/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5956,7 +5956,7 @@ A Lover&#x27;s Desperate Act.
 &quot;Is there no hope?&quot; he exclaimed,  
 passionately. &quot;Think a moment, m
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_dole_ver01:data:sn83040340:00237283211:1888112301:0055/pct:45.37800687285223,73.23174603174603,18.50515463917526,44.91428571428571/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_dole_ver01:data:sn83040340:00237283211:1888112301:0055/pct:30.273336771531717,48.82539682539682,12.343132198727867,29.942857142857143/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6087,7 +6087,7 @@ Sun.
   
 Positive Cure for Corns
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_ketchup_ver01:data:sn87068192:00279529649:1888120601:0392/pct:82.359575907963,46.219773492500764,14.437175727498309,31.08356290174472/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_ketchup_ver01:data:sn87068192:00279529649:1888120601:0392/pct:82.34100135317998,46.21270084162204,14.439557961208841,31.082631981637338/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6140,7 +6140,7 @@ oil a little, which, being botsP&#x27; S&quot;&quot;
 the water, seems to e &quot;  
 vent friction. Wlitf - . l--
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_quartz_ver02:data:sn97071028:00416152652:1888122801:0352/pct:112.1917808219178,46.25501202886929,17.671232876712327,32.41379310344828/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_quartz_ver02:data:sn97071028:00416152652:1888122801:0352/pct:84.1726618705036,34.691259021651966,13.257965056526208,24.314354450681638/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -327,7 +327,7 @@ by no illealts wants acutenless, lhe can
 see by lily going on thiat I mliean to be  
 as good as my word.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_gambit_ver01:data:sn88064592:00280761862:1879083001:0125/pct:49.82733103108041,64.85812285625195,39.565860878145045,32.21078889928282/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_gambit_ver01:data:sn88064592:00280761862:1879083001:0125/pct:16.609110343693473,21.619374285417315,13.188620292715013,10.736929633094272/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -405,7 +405,7 @@ and as he by no means lacks acuteness, he
 can see by my going on that I mean to be  
 as good as my word.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_bisbee_ver01:data:sn85042588:00212470880:1891061201:0647/pct:40.84507042253521,46.58032596041909,16.50787075393538,5.296856810244471/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_bisbee_ver01:data:sn85042588:00212470880:1891061201:0647/pct:34.73004694835681,39.59759214974849,14.019953051643192,4.514719221571699/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -438,7 +438,7 @@ and as he by no means lacks acuteness he
 can see by my going on that I mean to be  
 as good as my wor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_hotel_ver02:data:sn86071158:00206536652:1891062201:0233/pct:169.14556962025316,162.4121779859485,50.39556962025316,17.037470725995316/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_hotel_ver02:data:sn86071158:00206536652:1891062201:0233/pct:42.28639240506329,40.60304449648712,12.59889240506329,4.259367681498829/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -461,7 +461,7 @@ and as he by no means lacks acuteuess, he
 can see by my going on that I mean to be  
 as good as my word.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_ingalls_ver02:data:sn82014635:00237286728:1891062301:0207/pct:9.751037344398341,61.82147808467527,18.716656787196207,6.1533539511570865/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_ingalls_ver02:data:sn82014635:00237286728:1891062301:0207/pct:6.506595523936564,41.21787352031566,12.479620572106121,4.105790764636877/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -484,7 +484,7 @@ and as he by no means lacks acuteness, he
 can see by my going on that I mean to be  
 as good as my word.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_europium_ver01:data:sn88076432:00271740694:1891062501:0075/pct:63.899371069182386,40.059568131049886,13.857442348008385,4.556962025316456/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_europium_ver01:data:sn88076432:00271740694:1891062501:0075/pct:63.90461215932914,40.059568131049886,13.862683438155136,4.579300074460164/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -515,7 +515,7 @@ bowel complaints. It is almost certain
 to be needed, and no family can afford  
 to be without it. It costs but a trifl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_keswick_ver01:data:sn84025968:00280769393:1891072201:0224/pct:19.677840661732695,39.420803782505914,13.865912059207663,7.432033096926714/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_keswick_ver01:data:sn84025968:00280769393:1891072201:0224/pct:19.69416630387462,39.420803782505914,13.860470178493687,7.43572695035461/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -213,7 +213,7 @@ But how does ir follow from tHe -ftmAfon
 to receive Ambs3adwis and .other piib;:c  
 MiiVinevs that lo fcohfequeuti?! a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793090701:0001/pct:49.80201035638136,7.380907550367162,41.33414559853792,85.12521182451516/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793090701:0001/pct:49.824855315260436,7.385614761815101,41.34176058483095,85.12521182451516/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -332,7 +332,7 @@ pend the operation of a treaty in foice an a
 law, than to suspend the operation of aay  
 other law. /To be continued.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793090701:0001/pct:71.18489186719464,23.272453398606665,20.01218397806884,62.756543023912634/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793090701:0001/pct:71.20012183978069,23.28186782150254,20.035028936947914,62.76125023536057/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -617,7 +617,7 @@ fame time, conjiitututianally fr:e to purfxe its own
 judgment and conjlitutionally bound hy the iuihment  
 of tlx executive. &#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793091101:0002/pct:9.418282548476455,3.567946968219926,43.45952600800246,90.48547475141353/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793091101:0002/pct:9.418282548476455,3.567946968219926,43.47491535857187,90.50009748488984/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -659,7 +659,7 @@ ist ii g a id acting government of Spain.”­
 l l here aie as yet no persons, wh &gt; can claim  
 idle supremacy of “ exercising the gover
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809101001:0181/pct:23.05709023941068,70.10916227155649,17.642725598526702,15.96958174904943/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809101001:0181/pct:23.052844779966858,70.10056414029924,17.645614681151415,15.97171122557436/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -697,7 +697,7 @@ more clearly appear front an i
 tion ofthe nexi  
 to wit—that tie Executive 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809102301:0001/pct:59.37625754527163,10.119125539992146,32.7364185110664,83.33551511978007/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809102301:0001/pct:59.38296445338699,10.12348911288563,32.72971160295104,83.34424226556705/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -742,7 +742,7 @@ ought long ago to have ceased, and which,
 if Mexico had consulted her own interests  
 and the wishes of the world, she woul
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:00200292431:1844041301:0061/pct:45.10997643362137,45.98200434377909,19.422623723487824,8.904747130003102/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:00200292431:1844041301:0061/pct:33.85733935940263,34.486503257834315,14.580467675378268,6.6863170958734095/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -778,7 +778,7 @@ power, and not a prerogative. It is a pow­
 er which he has no right to exercise of his  
 own mere motion, nor for his personal grat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:00200292431:1844041301:0061/pct:65.20031421838178,55.7865342848278,19.285153181461116,17.995656220912192/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:00200292431:1844041301:0061/pct:48.92906268422087,41.83990071362085,14.482216545490273,13.496742165684145/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -882,7 +882,7 @@ erted to an end dangerous to the interests of our
 Southern citizens. And these, together, make ang­  
 mented grounds of our sympathy, and excite many i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743208:1854070401:0043/pct:55.38461538461539,83.23455664463187,48.57859531772575,51.75518577615683/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743208:1854070401:0043/pct:18.46153846153846,27.744852214877287,16.192865105908584,17.251728592052277/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -905,7 +905,7 @@ ed with the blood of a host of American martyrs;
 but it is the only lawful tenure by which the United  
 States hold their existence as a nation.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743208:1854070401:0045/pct:55.10743219443466,81.87462686567164,47.56956674885523,12.071641791044776/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743208:1854070401:0045/pct:18.369144064811554,27.291542288557213,15.85652224961841,4.023880597014926/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -928,7 +928,7 @@ Now, I challenge any one to cite to me a single
 element in the power which crushes Cuba, that ens­  
 titles that power to be respected as the legitimat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743208:1854070401:0045/pct:54.91370200774921,113.85074626865672,48.11553363860514,12.143283582089552/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743208:1854070401:0045/pct:18.304567335916403,37.950248756218905,16.038511212868382,4.04776119402985/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -950,7 +950,7 @@ again Mr. Madison affirms &quot;that every no.
 /.on has a right to abolish an old Govern.  
 ment and establish a new one.&quot; But it i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn84026845:00202190674:1861061101:0558/pct:29.907773386034254,66.84387737019316,13.526570048309178,4.164451532872586/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn84026845:00202190674:1861061101:0558/pct:29.924242424242426,66.84387737019316,13.51010101010101,4.1910331384015596/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1068,7 +1068,7 @@ for the establishment of a similar government. In the
 speech of Mr. Clay, already quoted, he said, &quot;From the  
 inmost recesses of my soul, I wish them (the South Amer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_euclid_ver01:data:sn83030214:00206530935:1869122701:0860/pct:102.33168622606547,100.25227596797193,48.93452748610253,20.993747943402436/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_euclid_ver01:data:sn83030214:00206530935:1869122701:0860/pct:34.110562075355155,33.41742532265731,16.311509162034177,6.997915981134145/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1128,7 +1128,7 @@ consequence in the administration of the
 Government  
 It is not for a temporary disability suc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044772:1881091201:0349/pct:70.6268221574344,225.75649950277028,51.02040816326531,37.690012785907086/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044772:1881091201:0349/pct:17.659923455440133,56.43912487569257,12.757426644796793,9.422503196476772/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1187,7 +1187,7 @@ on the validity of revolutions in favorsof lib­
 erty, what would have been thought of so vis­  
 ionary a prophet?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_goethe_ver01:data:sn83030272:00175042878:1896070901:0505/pct:171.7987804878049,260.7560346136329,50.30487804878049,67.22331865796265/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_goethe_ver01:data:sn83030272:00175042878:1896070901:0505/pct:42.96606938619901,65.18900865340822,12.581014105985513,16.805829664490663/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1229,7 +1229,7 @@ ison here describes that confronts us in the
 Cuban question. &quot;The general principles of  
 liberty,&quot; &quot;the essential rights of the people,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:00175042908:1896122301:0727/pct:284.8506919155135,254.95699411498416,48.4340859431901,53.1160404406217/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:00175042908:1896122301:0727/pct:71.22564195957021,63.73924852874604,12.110726643598616,13.279010110155426/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1274,7 +1274,7 @@ confronts us in the Cuban question.
 &quot;The general principles of liberty,&quot;  
 &quot;the essential rights of the people,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_danastjames_ver01:data:sn93067846:00294551414:1896123001:0488/pct:50.20146246828831,22.456993268511592,16.13192060886435,20.044876589379207/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_danastjames_ver01:data:sn93067846:00294551414:1896123001:0488/pct:50.20146246828831,22.463226128147593,16.136894990797394,20.044876589379207/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1312,7 +1312,7 @@ ture or ons of its branches upon every arrival of a
 foreign Minister, though it were merely to take the  
 place of a predecesso
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:0017504291A:1897011501:0194/pct:289.1156462585034,236.15683926967975,50.49130763416478,44.05866507033822/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:0017504291A:1897011501:0194/pct:72.29257229257229,59.03920981741994,12.625212625212626,11.014666267584555/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1351,7 +1351,7 @@ isture under an obligation of declaring war, what
 would have been thought of so visionary a prophet?  
 I notice that the champions of the President&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:0017504291A:1897011501:0194/pct:289.4179894179894,280.51481592337626,50.869236583522294,44.41783897036815/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:0017504291A:1897011501:0194/pct:72.36817236817237,70.12870398084407,12.719712719712719,11.104459742592038/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

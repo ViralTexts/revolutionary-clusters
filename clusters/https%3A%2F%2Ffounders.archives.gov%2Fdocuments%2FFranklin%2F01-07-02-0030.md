@@ -4895,7 +4895,7 @@ None silence who design no wrongs ;
 For those that use the gag’s restraint,  
 First rob, before they stop complaint.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025586:0051701512A:1785050601:0080/pct:6.317482196186538,6.219135802469136,27.95773030094188,32.083333333333336/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025586:0051701512A:1785050601:0080/pct:6.33279730454093,6.219135802469136,27.95773030094188,32.083333333333336/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5564,7 +5564,7 @@ First rob, before they stop complaint.
 Foreign Inteligence.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789121601:0505/pct:48.148148148148145,12.950115626032375,43.61598440545809,81.00429468120251/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789121601:0505/pct:48.156270305393114,12.955621627574056,43.63222871994802,80.99878867966083/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6913,7 +6913,7 @@ Shall give ten opportunities to shine.
 He sees, since once you own’d him to excell,  
 I hat tis his interest you should reason well.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805102301:0768/pct:71.39700466486619,29.94422310756972,19.076847532531303,4.812749003984064/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805102301:0768/pct:71.37947962690231,29.939451880178456,19.07830142366225,4.8159655831739965/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7415,7 +7415,7 @@ It smooths the unpolished tongue with
 eloquence,  
 And adds persuasion to the finest sense.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_palmer_ver02:data:sn84037834:print:1823012901:0136/pct:10.404268417812435,26.556071665560715,19.41309255079007,9.236894492368945/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_palmer_ver02:data:sn84037834:print:1823012901:0136/pct:10.402133771029956,26.552547770700638,19.41594857064697,9.240092002830856/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7513,7 +7513,7 @@ It smooths th’ unpolisli’d tongue with eloquence,
 And adds persuasion to the finest sense.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_lyle_ver01:data:sn85059803:00514157832:1824050101:0054/pct:65.34168254832562,66.86785945246821,27.416280969234958,26.60056046561759/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_lyle_ver01:data:sn85059803:00514157832:1824050101:0054/pct:65.323897659227,66.85344827586206,27.417891489747777,26.602011494252874/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7604,7 +7604,7 @@ The wise will sleep, and leave applause to fools
 “ Atoms or sy stems into ruin Imrld ;  
 “ And now a bubble burst—and now a world !
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898036:1826030401:0179/pct:42.782563299399634,56.093516829713145,17.045157922213523,2.0394627756590946/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898036:1826030401:0179/pct:42.7713987473904,56.0842175066313,17.04723382045929,2.043269230769231/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7636,7 +7636,7 @@ He appropos, well told, concise and new.
 And whensoe’er it deviates from these rules,  
 1 he wise will sleep and leave applause to foo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_palmer_ver02:data:sn85059803:00514158320:1826081201:0526/pct:61.29679144385027,23.277717976318623,25.969251336898395,24.919268030139936/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_palmer_ver02:data:sn85059803:00514158320:1826081201:0526/pct:61.27631139325092,23.271455474845304,25.968927497494153,24.919289749798224/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7776,7 +7776,7 @@ smart;
 No wit alone, nor humor’s self will do,  
 Without good nature, and much prudence too
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021206:00517171955:1829123001:0939/pct:43.50842418235877,23.462315911059775,18.61248761149653,18.307825584753104/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021206:00517171955:1829123001:0939/pct:33.72420502841928,18.187243565833644,14.419581135746839,14.185005594927265/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8182,7 +8182,7 @@ None silence, who design no wrongs;
 tor those, who use the gag’s restraint,  
 First rob before they stop complaint
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn87062070:0039334295A:1835100201:0974/pct:2.8868605391636595,80.04946413849959,16.281044364253873,6.018136850783182/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn87062070:0039334295A:1835100201:0974/pct:2.8862478777589136,80.0384668223657,16.284663271080927,6.021889453679535/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8496,7 +8496,7 @@ That he may lawful sell, thou lawful hold:
 Have special care that it not mortgaged b--,  
 cr bs eataolei oa rrsrcrit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058217:00271744754:1846060201:0503/pct:28.988803358992303,117.86927571680936,18.666899930020993,7.229243103682566/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058217:00271744754:1846060201:0503/pct:21.75358767938397,88.40875118902025,14.018200910045502,5.421932327761924/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8582,7 +8582,7 @@ Atoms or systems into ruin hurled,
 And now a bubble burst, and now a world.&quot;  
 And He, the great creator and preserver, would not hav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_diglett_ver01:data:sn82015378:00295872378:1849022701:0205/pct:102.1889400921659,114.61267605633803,43.836405529953915,5.6879739978331525/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_diglett_ver01:data:sn82015378:00295872378:1849022701:0205/pct:34.06298003072197,38.20422535211268,14.612135176651305,1.895991332611051/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8698,7 +8698,7 @@ And raise a foe as often as &amp; friend ;
 Like the resistless beams of blazing light,  
 ﬁnmo‘c the strong and pdufo weakly
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021532:00514153103:1852042201:0010/pct:1.8561846825768211,93.44095732671032,14.958664794883793,3.8157597651840143/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021532:00514153103:1852042201:0010/pct:1.8665834763167473,93.44095732671032,14.958664794883793,3.8232859185670205/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8721,7 +8721,7 @@ About the head . if verso, tit well the foot
 Our author car*, if you neglect liti rules,  
 &quot;The wUo will sleep. and leave applause to fool* 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1852112501:0660/pct:0.7169486664754804,12.227626459143968,15.400057355893319,4.270428015564202/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1852112501:0660/pct:0.7169486664754804,12.227626459143968,15.404837013669821,4.27367055771725/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8742,7 +8742,7 @@ This nurse of arts and Freedom’s fence,
 To chain is treason against sense.”  
 ’Tis the mightiest of the mighty means 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn97066026:print:1855072501:0218/pct:30.35019455252918,42.59951616450407,22.438391699092087,5.586100725753244/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn97066026:print:1855072501:0218/pct:30.340356564019448,42.59014951627089,22.439222042139384,5.5903693931398415/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8785,7 +8785,7 @@ Those Things rash Buyers many Times . repent,
 And yet, whenyott hare done all yon can,&#x27;  
 It you&#x27;d be sure, Doal with an honest Man! &#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199276:1855080901:0451/pct:9.25728500355366,17.06497868492443,16.257995735607675,16.30280325539336/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199276:1855080901:0451/pct:6.948640483383686,12.801963570598113,12.191220899235827,12.233561555354605/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8979,7 +8979,7 @@ Without disturbing much the good man&#x27;s cheer
 But let a Washington depart this life,  
 Then see the tears from heart with sorrow rife
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517016524:1860090601:0144/pct:20.252565114443566,43.42912107731153,11.823204419889503,2.9938679812432367/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517016524:1860090601:0144/pct:20.24936868686869,43.423899975955756,11.825284090909092,2.9965135849963933/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9094,7 +9094,7 @@ iliose things rash buyers many times repent,
 iurl yet when vouhave done all that you can  
 It vou&#x27;l! be suro,, deal with an honest man.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:00279525243:1867120901:0518/pct:6.211482322413234,7.470017133066819,10.947129419396692,5.688178183894917/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:00279525243:1867120901:0518/pct:6.210475109453543,7.469164001827318,10.949408140100536,5.690383736866149/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9111,7 +9111,7 @@ fonder—of some one else&quot;.
 Scarlet, silk and velvet have put  
 out the kitchen fire
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033221:00514152366:1868022201:0393/pct:31.932409012131714,89.82286634460547,12.1894858463316,1.760601180891036/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033221:00514152366:1868022201:0393/pct:31.932409012131714,89.82286634460547,12.1894858463316,1.7713365539452497/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9223,7 +9223,7 @@ Atoms or
 systemsinto ruln hurl&#x27;d,  
 And now a bubble burst, and now a world.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_hypno_ver01:data:sn83045646:00279528633:1869021001:0791/pct:135.05283648498332,211.4288845058076,30.03337041156841,9.598948060486522/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_hypno_ver01:data:sn83045646:00279528633:1869021001:0791/pct:45.017612161661106,70.4762948352692,10.011123470522802,3.1996493534955075/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9244,7 +9244,7 @@ And now a bubble burst, and now a world.
 How humbling should be the consideration  
 to the pride of man, while clothed with au
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn97064666:00517016056:1869072201:0015/pct:80.56276192376771,13.6691665487477,15.006984633805628,3.806424225272393/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn97064666:00517016056:1869072201:0015/pct:80.54668794892258,13.66723259762309,15.008978451715882,3.809422750424448/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9451,7 +9451,7 @@ Those things rash buyers many times repent;
 And yet whereas yon have done all you can,  
 If you’ll be sure deal wlih an honest man.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_clark_ver03:data:sn82014064:no_reel:1872051201:0005/pct:61.22303440898556,69.83788395904436,10.714922446068819,5.503412969283277/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_clark_ver03:data:sn82014064:no_reel:1872051201:0005/pct:61.236405776430736,69.83788395904436,10.719379568550544,5.506968145620022/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9506,7 +9506,7 @@ and whatever happens that we inter­
 pret otherwise, yet we can get noth­  
 ing by repining, nor save anything by
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn87076794:00280775125:1873041001:0608/pct:313.30352152040246,305.24834974569853,35.662381218557854,27.70262958554269/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn87076794:00280775125:1873041001:0608/pct:78.34777746715125,76.31208743642463,8.918087783058429,6.925657396385673/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9539,7 +9539,7 @@ good; and whatever happens that we
 interpret otherwise, yet we can get  
 nothing by repining, ner save any
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn85026034:00280774984:1873042501:0131/pct:345.2787258248009,314.80128893662726,38.111490329920365,31.278195488721803/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn85026034:00280774984:1873042501:0131/pct:86.35652297624128,78.70032223415681,9.531939109403899,7.819548872180451/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9599,7 +9599,7 @@ A hero perish, or a sparrow fall.
 Atoms or systems into ruin hurl&#x27;d,  
 And now a bubble burst, and now a world
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn85038180:00296029014:1875060301:0444/pct:22.380657160570365,47.79931883678282,13.236205827650341,1.6243122871364946/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn85038180:00296029014:1875060301:0444/pct:16.790697674418606,35.85276395074666,9.937984496124031,1.2182342153523709/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9633,7 +9633,7 @@ Re aprojios, well told, concise and new
 And whenso&#x27;er it deviates from these rules,  
 he wise will sleep, and leave applause to fools
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85026421:00415669203:1875100701:0515/pct:123.33659491193738,70.22753567296567,15.87573385518591,14.327034323177786/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85026421:00415669203:1875100701:0515/pct:82.25865655206167,46.81835711531045,10.583629022390799,9.554569996143464/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9683,7 +9683,7 @@ A hero perish or a sparrow fall.
 Atoms or systems into ruin hurled,  
 ••And now abubble burst, and now a world
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624360:1882010601:0201/pct:3.283540022547914,45.23940561364887,10.667981961668545,1.5960374243258117/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624360:1882010601:0201/pct:3.283540022547914,45.243074665199046,10.677376925967682,1.5960374243258117/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9805,7 +9805,7 @@ Money is simply a glut in the New
 York markets, the banks having more  
 than they know what to do with. One
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn87068192:00279529625:1885061101:0602/pct:22.337604949182502,56.98859315589353,14.339372514361466,18.950570342205324/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn87068192:00279529625:1885061101:0602/pct:22.33267064280981,56.97992700729927,14.34172741329799,18.9514902676399/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9843,7 +9843,7 @@ The lowest genius will afford some light.
 Or give a hint that had escaped your sight.  
 Renjamiu Stillingfleet
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn82015679:00271745709:1887050101:0015/pct:66.67662881052003,60.30701754385965,16.811117752540348,2.5109649122807016/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn82015679:00271745709:1887050101:0015/pct:50.029895366218234,45.23026315789474,12.615844544095665,1.8859649122807018/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9909,7 +9909,7 @@ A hero perish or a sparrow fall,
 Atoms or systems into rain hurled,  
 Aad bow a bubble burst, and now a world
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624396:1887123001:0186/pct:6.862202545655783,59.23093729517151,9.988931931377975,1.6277037360716626/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624396:1887123001:0186/pct:6.862202545655783,59.23093729517151,10.002767017155506,1.634986526837084/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10015,7 +10015,7 @@ A hero perish or a sparrow fall,
 Atoms or systems into ruins hurl&#x27;d,  
 And now a bubble burst, and now a world.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_ishtar_ver01:data:sn87060190:00211103875:1892042001:0562/pct:58.490566037735846,34.577603143418465,19.46826758147513,2.189166432781364/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_ishtar_ver01:data:sn87060190:00211103875:1892042001:0562/pct:43.89615962239863,25.93320235756385,14.61059858399485,1.655907942744878/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10050,7 +10050,7 @@ A hero perish, or a sparrow fall.
 Atoms or systems into ruin hurled.  
 And r.ow a bubble buret, and now a world
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_henson_ver01:data:sn83016107:0041562556A:1893021001:0026/pct:23.848897535667962,15.59298884589119,12.77561608300908,1.5023901661734578/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_henson_ver01:data:sn83016107:0041562556A:1893021001:0026/pct:18.482995476629252,12.084680976183476,9.909532585022617,1.1673037341958248/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10219,7 +10219,7 @@ it is in ablest hands a dangerous tool,
 but never fails to wound the meddling  
 fool.---Stillingfleet
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn92063989:00514153425:1895121401:0075/pct:28.534992858600287,38.93929912390488,10.824321567027138,13.110137672090113/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn92063989:00514153425:1895121401:0075/pct:28.534992858600287,38.93929912390488,10.827722233557777,13.117959949937422/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10262,7 +10262,7 @@ it is in ablest hands a dangerous tool,
 but never fails to wound the meddling  
 fool.---Stillingfleet
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn92064025:00514153504:1895121401:0199/pct:39.33880860796341,37.99039231385108,10.593616800083169,12.930344275420337/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn92064025:00514153504:1895121401:0199/pct:39.34227397165333,37.99039231385108,10.59015143639325,12.935681878836402/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10304,7 +10304,7 @@ it is in ablest hands a dangerous
 tool, but never fails to wound the  
 meddling fool.--Stillingfleet
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023296:0020029614A:1896012501:0057/pct:209.39226519337018,150.69525666016895,45.44198895027624,65.44509421702404/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023296:0020029614A:1896012501:0057/pct:52.37519433408188,37.67381416504224,11.366384522370012,16.36127355425601/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10466,7 +10466,7 @@ ish’d marble.
 “ By happy alchymy of mind,  
 They turn to pleasure all they find.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_honeydew_ver01:data:sn82004649:00517016202:1899030901:0152/pct:12.294081757169005,89.41354031910306,18.944478340451496,1.8973695558430357/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_honeydew_ver01:data:sn82004649:00517016202:1899030901:0152/pct:12.29033241842025,89.39426600560465,18.946325099115583,1.9023496443198966/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

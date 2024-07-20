@@ -315,7 +315,7 @@ the board ; so his inscription was reduce
 ed witmatcly o *John Thompson,”  
 with the figur of a hat suljoined
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1820042601:1099/pct:30.305466237942124,13.629893238434164,22.04581993569132,49.691577698695134/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1820042601:1099/pct:30.318863879957128,13.637801502570186,22.032422293676312,49.691577698695134/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -620,7 +620,7 @@ apprentice hatter, basing served oat bis time, was .bout
 «o open a sh ip f..r himself. Hi. flrrt lonctro was to  
 uave a handsome a propm inter optio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183943:1820050501:0456/pct:35.610393855205096,38.144329896907216,14.675600588331427,8.631023735315273/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183943:1820050501:0456/pct:35.60457516339869,38.139757880858205,14.678649237472767,8.633984577889647/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -653,7 +653,7 @@ tea. .n&#x27; painted on the board ; to his inscription was
 reduced u.innately to ‘John I Uompson,’with the figure  
 of a hat subjoined
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183943:1820050501:0456/pct:35.57770877594378,47.470630544234,14.691943127962086,7.612083433229442/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183943:1820050501:0456/pct:35.571895424836605,47.46494066882416,14.694989106753813,7.6151664069679175/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -719,7 +719,7 @@ lii&lt; inscription was reduc&lt; d ultimately to
 “John Thompson,” with the figure of a hat  
 subjoined
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn83026170:00414216286:1820050801:0133/pct:1.5350553505535056,17.389742207850535,18.55350553505535,29.65957064582772/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn83026170:00414216286:1820050801:0133/pct:1.5348288075560803,17.388180348482127,18.55568673750492,29.659900604754206/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -801,7 +801,7 @@ her, as conversing with her at home;
 when I could observe her behaviour at  
 the table or at the fire-side, and in all th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_beachhaven_ver01:data:sn85025061:00513684939:1820050901:0351/pct:7.80678214198585,35.111111111111114,17.7116369846304,42.237037037037034/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_beachhaven_ver01:data:sn85025061:00513684939:1820050901:0351/pct:7.804878048780488,35.10591023552066,17.713414634146343,42.23448378018072/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -882,7 +882,7 @@ duced, ultimately, to ?John Thomp­
 son,* with the figure of a hat sub­  
 joined
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1820051701:0048/pct:54.4778825235678,43.82237077712785,24.437998549673676,45.64880028649875/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1820051701:0048/pct:54.4778825235678,43.82237077712785,24.450084602368868,45.66073773427241/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -957,7 +957,7 @@ place. After the bride had promised fidelity to
 her husband, and her father had agreed to cut  
 one acre of brush for the Justice, the coupl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1820062001:0100/pct:6.167206358551663,30.83215512017774,17.27995289961731,33.90224197131892/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1820062001:0100/pct:6.167206358551663,30.83888776678112,17.28976547934452,33.90560829462061/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1150,7 +1150,7 @@ was reduced ultimately to “ John T homp­
 8»n,” with the figure of a hat subjoined.”  
 The following anecdote is related o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898000:1820071101:0214/pct:8.130718954248366,42.5464807436919,17.464052287581698,41.35126162018592/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898000:1820071101:0214/pct:8.128593831677993,42.53941908713693,17.466021955044432,41.34854771784232/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2259,7 +2259,7 @@ of the best quality, and on the most reasonable
 terms. All kinds of Boots and Shoes will be  
 manufactared to order, by the best workinen, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152743:1830090101:0101/pct:20.701513067400274,13.364508983509722,15.474552957359009,62.28156534580359/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152743:1830090101:0101/pct:20.71297569922054,13.372713101977192,15.463090325538744,62.28566740503733/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2490,7 +2490,7 @@ on the board; so his inscription was reduced ul­
 timately to “John Thompson” with the figure of  
 a hat subjoined.—Hick. Comp.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215634:1836070101:0080/pct:43.74045801526717,59.24894641782059,17.579062159214832,21.673690547862734/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215634:1836070101:0080/pct:43.73568858357867,59.24448792234179,17.580779994911495,21.674567938395164/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2872,7 +2872,7 @@ expressed his opinion thought the word &quot;hatter&#x27;
 altogether tautologous because it was followed  
 by &quot;makes and sells hats&quot;-this word was ac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016867:00295877637:1841121801:0859/pct:129.0612244897959,293.4752934752935,60.89795918367347,32.596232596232596/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016867:00295877637:1841121801:0859/pct:32.271892222902636,73.36882336882337,15.227597468871199,8.149058149058149/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2960,7 +2960,7 @@ Tncedofe.
   
 articles that may be obtained to the hands
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn85025180:00237287940:1844110201:0098/pct:17.097581317764803,23.203026481715007,121.85154295246038,180.26481715006304/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn85025180:00237287940:1844110201:0098/pct:4.2752867570385815,5.800756620428752,30.469238790406674,45.06620428751576/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3149,7 +3149,7 @@ word?&quot; It was struck out, and lats was all
 that remained attached to the name of John  
 Thomson. Even this ioscription, brief as i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153280:1852052201:0896/pct:32.05128205128205,44.03115073265703,12.663526949241234,13.259555282303515/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153280:1852052201:0896/pct:32.05564276992848,44.03798203367831,12.6722483865341,13.266386583324794/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3261,7 +3261,7 @@ is in my power, to avoid becoming the
 draughtman of papers to be reviewed by a  
 public body. I took my lesson from an inc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279523969:1854101301:0563/pct:247.29864103413988,238.9572283038032,38.84653629433212,46.12346236316443/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279523969:1854101301:0563/pct:82.41922120961061,79.64342134958248,12.946699806683236,15.372752576544046/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3307,7 +3307,7 @@ painied on the board, so his inscription was
 reduced ultimately to &quot;Iohn Thomps  
 with the figure of a hat subjoired.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279523969:1854101301:0564/pct:15.511279433558373,13.298170800134665,39.288654701136174,57.075524632476714/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279523969:1854101301:0564/pct:5.169575238722423,4.432226211849192,13.094062122708813,19.023040095751046/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3396,7 +3396,7 @@ on the board. So the inscription was
 reduced ultimately to John Thempson,&quot;  
 with the figure of a hat subjoined.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777808:1857021801:0633/pct:16.85483870967742,197.06855791962175,49.03225806451613,91.2214342001576/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777808:1857021801:0633/pct:4.216259834577365,49.26713947990544,12.265483155134154,22.8053585500394/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3453,7 +3453,7 @@ reduced ultimately t«. ■* John Thomson’, with
 the liguic of a hat subjoined  
 Hard Times.— k Yankee doctor 1ms reccnt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182987:1857021901:0447/pct:34.58537470513519,68.36909306305121,14.824895663219017,25.049361590101356/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182987:1857021901:0447/pct:34.57910014513788,68.36009476177942,14.826741654571844,25.049355093445644/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3519,7 +3519,7 @@ greater number of men and children, than &#x27;
 in cities where the population is less.—  
 And I firmly believe there is not a man
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn85025697:00393348264:1858010601:0308/pct:21.02974828375286,59.11629434954008,14.94279176201373,32.440867279894874/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn85025697:00393348264:1858010601:0308/pct:21.024937085335164,59.10658564624733,14.945092656142759,32.439645261947774/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3540,7 +3540,7 @@ as the people did not care who made them,
 so that they got good hats. The word was  
 accordingly struck out. The sign then read
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016750:0038334718A:1858020601:0263/pct:6.235962478530849,85.43921731890092,10.86008719778042,3.996669442131557/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016750:0038334718A:1858020601:0263/pct:6.240366406834896,85.44268665001388,10.86008719778042,4.000138773244519/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3683,7 +3683,7 @@ by some Sortherm gentlemen, tckot rrtec­
 turns, were not t,et jully matured to the ab­  
 horrence of that traffic. Jefferson&#x27;s Writ
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058250:00271744778:1860100401:0710/pct:55.15133876600699,12.398122993331686,16.050640279394646,8.940479130649543/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058250:00271744778:1860100401:0710/pct:41.3768010478824,9.298592244998765,12.036093727259496,6.717708076068165/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3781,7 +3781,7 @@ Abbe without the loust disooncert, exciaitaed with a
 tangh: &quot;Oh, very well. Doctor, I had rather rilate  
 rour stories than other men&#x27;s truthe.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_cobol_ver01:data:sn83030213:00206530777:1864061101:0297/pct:2.600140548137737,210.15196811160936,49.402670414617006,40.22172396611858/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_cobol_ver01:data:sn83030213:00206530777:1864061101:0297/pct:0.8667135160459124,70.05065603720313,16.467556804872334,13.407241322039528/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3823,7 +3823,7 @@ Ab, saye she. we do not take kinge so. &quot;We do
 th America, said the Doctor.&quot;  
 William Temple Franklin has sosething surpricing t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_cobol_ver01:data:sn83030213:00206530777:1864061101:0297/pct:2.494729444834856,251.08370702541106,50.22839072382291,37.742899850523166/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_cobol_ver01:data:sn83030213:00206530777:1864061101:0297/pct:0.8315764816116187,83.69456900847035,16.74279690794097,12.580966616841057/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4374,7 +4374,7 @@ nature has degenerated.&#x27;
 It happei.e l that all the American*  
 present weie on n of large stature an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_duwamish_ver01:data:sn87093109:00200290987:1878013101:0042/pct:24.783494651044318,72.90816326530613,17.193071828833418,10.22108843537415/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_duwamish_ver01:data:sn87093109:00200290987:1878013101:0042/pct:24.789862455425368,72.91666666666667,17.205807437595517,10.22108843537415/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4407,7 +4407,7 @@ present were men of large stature and
 form, while the Freach were remarkably  
 diminutive, and the abbe himself a mer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn84022761:no_reel:1878021501:0730/pct:78.55126999059266,217.3990764188887,49.129821260583256,32.99568002383435/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn84022761:no_reel:1878021501:0730/pct:26.183756663530886,72.46635880629624,16.376607086861085,10.998560007944784/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4473,7 +4473,7 @@ fluous, to which John readily
 agreed, and it was stricken out.  
 The next said that he need no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_argentina_ver01:data:sn86089443:00206535970:1878122701:0268/pct:81.21165644171779,31.06782106782107,13.535276073619633,13.304473304473305/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_argentina_ver01:data:sn86089443:00206535970:1878122701:0268/pct:60.920421860019175,23.304473304473305,10.162991371045063,9.985569985569986/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4546,7 +4546,7 @@ word “hatter&quot; was unne&lt;-essary. It was
 therefore struck out and the sign re­  
 mained, “John Thompson, makes aud sell
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_calpet_ver02:data:sn84022149:00393349979:1882072601:0768/pct:27.07652060170046,45.57607739665787,11.096577283627644,3.3773087071240107/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_calpet_ver02:data:sn84022149:00393349979:1882072601:0768/pct:27.08742097231306,45.58047493403694,11.096577283627644,3.386103781882146/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4588,7 +4588,7 @@ unnecessary. All words were erased as
 directed, and when the sign was done it  
 contained, only the picture of a hat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84020714:00296023012:1882102701:0404/pct:91.01437699680511,65.27719445611088,16.89297124600639,18.74212515749685/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84020714:00296023012:1882102701:0404/pct:68.28229027962716,48.96052078958421,12.676431424766978,14.059218815623687/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4606,7 +4606,7 @@ window, &quot;John Thompson, hatter,
 makes and sells hats for ready money,&quot;  
 to which was added the sign of a hat.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_mustang_ver01:data:sn99067997:00415625054:1884091201:0629/pct:39.60090516354659,33.48687883863763,17.93869574161695,3.0150753768844223/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_mustang_ver01:data:sn99067997:00415625054:1884091201:0629/pct:31.69126117724505,26.793225386190212,14.350759778375117,2.4083379862274334/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4671,7 +4671,7 @@ window, &quot;John Thompson,hatter, makes
 and sells hats for ready money,&quot; to  
 which was added the sign of a hat.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_mazda_ver01:data:sn89064525:00212479226:1885082801:0616/pct:45.67033549927066,82.6418884982421,11.324757989656543,1.9487694625816172/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_mazda_ver01:data:sn89064525:00212479226:1885082801:0616/pct:45.674755779516424,82.64523689938055,11.33359855014808,1.9454210614431608/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4711,7 +4711,7 @@ h.uitrht the word -hatter&#x27; in. r. !autol
 because followed by the word- link- -  
 hats:&#x27; tht* word was struck *ut. Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_gorham_ver01:data:sn84022565:00332895680:1886020301:0250/pct:53.526315789473685,52.95531674208145,9.859649122807017,6.3065610859728505/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_gorham_ver01:data:sn84022565:00332895680:1886020301:0250/pct:53.51692685493773,52.94782977520147,9.862304858796703,6.3092040152693345/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4799,7 +4799,7 @@ tliv word ‘hatter’ mere tautology’, be­
 cause followi-d by the words *mak(*s  
 hat*;’ thr word wax struck out. The sec
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_kirby_ver01:data:sn88067211:00514150643:1886021801:0860/pct:26.96078431372549,13.885526543316617,11.697860962566844,8.1618537091475/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_kirby_ver01:data:sn88067211:00514150643:1886021801:0860/pct:26.977495543672013,13.889849559052395,11.709001782531194,8.170499740619055/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4844,7 +4844,7 @@ and hats went with it as unnecessary,
 since there was a hat painted on the  
 board. So that the inscription was a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_heddalettuce_ver01:data:sn86063756:00294558792:1886031801:0073/pct:34.32919954904171,10.916818457802064,15.971439308530627,18.56709168184578/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_heddalettuce_ver01:data:sn86063756:00294558792:1886031801:0073/pct:34.33546285857447,10.92086622141267,15.990229237128899,18.571139445456385/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4890,7 +4890,7 @@ away.&#x27; Sells was abandoned, and hats
 went with it as unnecessary, since there  
 was a hat painted on the board. S
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_goshawk_ver03:data:sn2001063112:00415623409:1886051401:0222/pct:33.83985973115137,6.59325341511012,29.807130333138517,103.44298856983552/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_goshawk_ver03:data:sn2001063112:00415623409:1886051401:0222/pct:28.775667917862663,5.608214849921011,25.336718922499447,87.92259083728278/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4978,7 +4978,7 @@ doned, and hats went with it as unneces-
 sary, since there was a hat painted on the  
 board. So that the inscription was a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279524093:1886060101:0091/pct:218.89039242219215,50.16825574873808,33.54533152909337,44.90558982987474/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279524093:1886060101:0091/pct:72.95359220673792,16.72118889615852,11.180264285392143,14.96713088450634/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5084,7 +5084,7 @@ and jeopardize our success at the polls;
   
 ! realizing further as I do thac our white
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn92072978:00416156852:1892042101:0076/pct:9.571099597006333,6.787426744805541,50.028785261945885,28.694725625998935/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn92072978:00416156852:1892042101:0076/pct:7.182956671944725,5.093233883857219,37.526990067655106,21.523708044752265/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5107,7 +5107,7 @@ Itut it Unl now ;f io wct I wre not yet matured to the lull ab- 2 55 pm for Rich
   
 . . . . r onensive expressions were immediately All inquiries as to rates routes, etc..
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn92072978:00416156852:1892042101:0076/pct:9.39838802533103,97.3148641449121,51.51122625215889,3.271177410761854/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn92072978:00416156852:1892042101:0076/pct:7.05340434720023,72.98881193393713,38.635382179358,2.450719232818327/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5134,7 +5134,7 @@ thifl hniw Vnr Snctonna iUo f thp dranrrVitaman r.f rarT-a Ua a AUCTION SALE OP 
 Manitowoc, which went Republican in ievvtJU y a punnc ooay. i tooK my By virtue cf power conferred on me by a  
 i . i -i ..i , .. . lesson from an incident which T will mortgage deed executed bv Cherry Jones.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn92072978:00416156852:1892042101:0076/pct:9.614277489925158,104.54981353223229,51.482440990213014,3.7293553542887588/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn92072978:00416156852:1892042101:0076/pct:7.211746077443501,78.41236014917422,38.620987476608605,2.8023441662226958/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5163,7 +5163,7 @@ of the western States in tariff reform, Las struck out. The next otv
 suver oeing suuorainatea to a question that the word &#x27;makes1 might as well be  
 that enters into their daily expenses omitted, because his customers woul
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn92072978:00416156852:1892042101:0076/pct:9.902130109383995,115.34363345764518,51.38169257340242,8.129994672349493/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn92072978:00416156852:1892042101:0076/pct:7.4276666186843245,86.51038891848695,38.549013962861665,6.105487480021311/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5187,7 +5187,7 @@ ed and regulated. out.
   
 A third said he thought the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn92072978:00416156852:1892042101:0076/pct:9.93091537132988,123.47362812999467,34.0097869890616,3.324453915823122/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn92072978:00416156852:1892042101:0076/pct:7.456456024183101,92.605221097496,25.507413271915937,2.4933404368673413/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5311,7 +5311,7 @@ figure of a hat subjoined. He con?
 cluded, however, to submit it to his  
 friends. The first said theie was to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551165:1895090401:0401/pct:55.927201180521394,27.38435970824485,10.72306935563207,3.0098790508724957/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551165:1895090401:0401/pct:55.9313002131497,27.390514880128027,10.72716838826037,3.0098790508724957/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5336,7 +5336,7 @@ The next advised him to strike out
 made them or not, so that was stricken.  
 Another told him to strike out &quot;fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn85034374:00295878162:1895090701:0837/pct:176.2252346193952,151.0551181102362,57.142857142857146,22.866141732283463/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn85034374:00295878162:1895090701:0837/pct:44.0792905581638,37.76377952755905,14.293166405842463,5.716535433070866/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5585,7 +5585,7 @@ was useless, because the customers
 would not care who made the hats sc  
 long as they were satisfactory and th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_audi_ver01:data:sn89081128:00280766264:1899040501:0137/pct:20.088845014807504,4.8168017349617624,30.223757815070748,87.87809610775025/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_audi_ver01:data:sn89081128:00280766264:1899040501:0137/pct:20.09981353515411,4.8168017349617624,30.234726335417353,87.8857055891641/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5618,7 +5618,7 @@ was useless, because the customers
 would not care who made the hats so  
 long as they were satisfactory and th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_green_ver02:data:sn98060035:00202196792:1899042401:0386/pct:73.3167559296098,12.62109050650429,16.296863045141546,12.897868807085525/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_green_ver02:data:sn98060035:00202196792:1899042401:0386/pct:55.01339456563337,9.465817879878218,12.227324913892078,9.687240520343206/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5654,7 +5654,7 @@ was useless, because the customers
 would not care who made the hats so  
 long as they were satisfactory and th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_junior_ver01:data:sn85035801:00332896957:1899042501:0279/pct:44.927536231884055,26.571062142940423,9.692028985507246,8.75597528273289/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_junior_ver01:data:sn85035801:00332896957:1899042501:0279/pct:44.92075471698113,26.567964560503615,9.69433962264151,8.757868967125203/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5687,7 +5687,7 @@ out. The next said that the word
 tomers would not care who made the  
 hats, so long as they were satisfactor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_orwell_ver01:data:sn86071719:00280777730:1899042601:0138/pct:77.03313253012048,189.76799524092803,49.69879518072289,37.894110648423556/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_orwell_ver01:data:sn86071719:00280777730:1899042601:0138/pct:19.26553672316384,47.44199881023201,12.429378531073446,9.473527662105889/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5752,7 +5752,7 @@ was useless, because the customers
 would not care who made the hats so  
 long as they were satisfactory and th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_folio_ver01:data:sn92053934:00212471963:1899050801:0068/pct:91.01639344262296,43.82310984308131,16.131147540983605,15.206847360912981/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_folio_ver01:data:sn92053934:00212471963:1899050801:0068/pct:68.27348745696015,32.867332382310984,12.100344318740778,11.412268188302425/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5913,7 +5913,7 @@ was useless, because the custcmers
 would not care who made the hats so  
 long as they were satisfactory and th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jordan_ver01:data:sn84026409:0023728804A:1899062801:0361/pct:98.97652016857315,28.62642962291926,40.03612281757977,36.553051749518744/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jordan_ver01:data:sn84026409:0023728804A:1899062801:0361/pct:24.744130042143286,7.156607405729815,10.009030704394943,9.138262937379686/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5948,7 +5948,7 @@ was useless, because the customers
 would not care who made the hats so  
 long as they were satisfactory and th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_danastjames_ver01:data:sn93067846:00294551438:1899062801:0415/pct:66.50216838642142,5.088412340105342,16.315238522506355,12.697516930022573/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_danastjames_ver01:data:sn93067846:00294551438:1899062801:0415/pct:66.50216838642142,5.09154752947078,16.325208115248493,12.703787308753448/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5985,7 +5985,7 @@ was useless, because the customers
 would not care who made the hats so  
 long as they were satisfactory and th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_isley_ver01:data:sn88076514:0029586381A:1899072801:0078/pct:78.35195530726257,61.77081889981987,14.265762170790104,11.888596369682693/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_isley_ver01:data:sn88076514:0029586381A:1899072801:0078/pct:78.36193136472465,61.78121102951365,14.28072625698324,11.885132326451433/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6022,7 +6022,7 @@ was useless, because the customers
 would not care who made tbe hats so  
 long as they were satisfactory and th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_goshawk_ver03:data:sn2001063112:00415624669:1899080401:0540/pct:71.7124488603156,8.91291642314436,14.78667445938048,12.799532437171244/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_goshawk_ver03:data:sn2001063112:00415624669:1899080401:0540/pct:66.3322921672273,8.244357345587241,13.695338779432966,11.843942875163311/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6057,7 +6057,7 @@ was useless, because the customers
 would not care who made the hats so  
 long as they were satisfactory and th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_hodag_ver01:data:sn86086586:00414214447:1899080401:0187/pct:33.78944428930466,8.334127967960331,14.465233175090757,11.900448173929627/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_hodag_ver01:data:sn86086586:00414214447:1899080401:0187/pct:33.79409848273294,8.334127967960331,14.469887368519036,11.906805250945615/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

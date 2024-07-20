@@ -193,7 +193,7 @@ altering the name and charter thereof and erecting a
 University within this State,&quot; and on May 8, 1787, the  
 first meeting of the trustees of Columbia College wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_rolls_ver01:data:sn83030214:00175038152:1887021401:0392/pct:147.64331210191082,165.80492210431248,46.703821656050955,8.783020997967938/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_rolls_ver01:data:sn83030214:00175038152:1887021401:0392/pct:49.21443736730361,55.26830736810416,15.567940552016985,2.927673665989313/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -218,7 +218,7 @@ fege for altering the name and charter thereot, and
 erecting a university within this State.&quot;  
 On May 8, 1787, the first meeting of the trustees o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_rolls_ver01:data:sn83030214:00175038176:1887041301:0126/pct:12.678904791537025,185.94767634396732,45.61294337274425,13.610773816094492/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_rolls_ver01:data:sn83030214:00175038176:1887041301:0126/pct:4.226301597179009,61.98255878132244,15.204314457581415,4.53692460536483/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -243,7 +243,7 @@ an University within thisState.’ Itis manifest, then, thatth
 
 ---
 
-## [From _Scientific American (1845-1908)_](https://archive.org/details/sim_scientific-american_1898-03-26_78_13/page/n7/mode/1up?view=theater)
+## [From _Scientific American_](https://archive.org/details/sim_scientific-american_1898-03-26_78_13/page/n7/mode/1up?view=theater)
 
 #### 1898-03-26 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 

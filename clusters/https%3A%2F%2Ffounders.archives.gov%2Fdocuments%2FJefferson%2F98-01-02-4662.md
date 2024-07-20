@@ -119,7 +119,7 @@ and. when that ceases, it will expir® j°
 prayers for the eternal duration oi i*i  
 freedom and prosperity
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025001:0041421633A:1824111601:0514/pct:81.4091915836102,32.21524028675104,16.666666666666668,48.04849986724489/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025001:0041421633A:1824111601:0514/pct:81.39792387543253,32.21238938053097,16.668973471741637,48.04719764011799/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -196,7 +196,7 @@ heat, and, when that cesses, it will expire in
 prayers for the eternal duration of its freedom  
 and prosperity
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183980:1824111601:0216/pct:37.6037013401404,1.3621699127733302,30.42437779195916,92.63950292747043/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183980:1824111601:0216/pct:37.597702982931885,1.3620071684587813,30.42484181421811,92.63241736360015/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -220,7 +220,7 @@ distinctness with which he enunciated every
 word and every toast. .  
 »Ve shali never fuiget, the enthusiasm o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183980:1824111601:0216/pct:68.36311423101468,32.44115186999642,14.757498404594767,5.412833074441391/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183980:1824111601:0216/pct:68.35220928377731,32.437275985663085,14.760461530281278,5.4161688570290725/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -239,7 +239,7 @@ I neighbors and friends, to thank you for the kindness
 i your hands. Bom and bred among your fathers,  
 1 lead by their partiality int© the line of public lift*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184522:1824111901:0317/pct:80.64822134387352,92.44249726177436,15.320158102766799,2.4704880126566873/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184522:1824111901:0317/pct:80.63547265254505,92.43124847894865,15.323005585414691,2.4742435304615884/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -302,7 +302,7 @@ life continues to bent, and, when that ceases, it will
 expiie in prayers for the eterual duration of its  
 freedom and prosperity.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184522:1824111901:0318/pct:3.08710033076075,2.566936870547777,16.45928492676012,24.772783099975435/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184522:1824111901:0318/pct:3.0866141732283463,2.566621638216873,16.46194225721785,24.77383437717467/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -381,7 +381,7 @@ liniies to heat,aud.vv hen that erases, it will !
 expire in prayers fur the eternal duration of  
 its freedom and prosperity
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:0039334880A:1824112001:0115/pct:68.28757073988682,56.514729591088965,15.69901488157619,35.189799208559286/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:0039334880A:1824112001:0115/pct:68.27326068734283,56.506447831184055,15.700963956412405,35.18830597889801/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -478,7 +478,7 @@ best ; and when that ceases, it will expire in
 prayers for the eternal duration of its freedom  
 and prosperity.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1824112501:0799/pct:30.4263188631497,44.22098936662044,21.54954253455324,41.49329634766528/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1824112501:0799/pct:30.439296606320163,44.228694714131606,21.556031406138473,41.501001695176456/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -553,7 +553,7 @@ and when that ceases, it will expire in prayers
 for the eternal duration of its freedom and pros­  
 perity.” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015143:1824113001:0397/pct:75.60071195490953,19.365416144276207,16.271136161376447,33.04079467643939/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015143:1824113001:0397/pct:75.61060021754177,19.365416144276207,16.26124789874419,33.04722409747002/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -786,7 +786,7 @@ hat ceases it will expire in prayers for
 tie eternal duration of its freedom and  
 ireapd-ity.**-O-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jumboshrimp_ver01:data:sn84025997:00414183633:1824121001:0082/pct:27.253944402704732,38.0292532717475,16.716754320060105,43.25121888632281/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jumboshrimp_ver01:data:sn84025997:00414183633:1824121001:0082/pct:27.248826291079812,38.02437459910199,16.719874804381845,43.249946546931795/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1337,7 +1337,7 @@ life continues to beat, and when that o
 it will expire in prayers for the eternal  
 duration of its freedom and prosperity
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_journey_ver01:data:sn84024738:00206531034:1881071701:0067/pct:11.721446795737656,5.4397777065298705,81.85502026114362,287.2288126536283/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_journey_ver01:data:sn84024738:00206531034:1881071701:0067/pct:3.907148931912552,1.8132592355099568,27.285006753714544,95.74293755120944/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1381,7 +1381,7 @@ life continues to beat, and when that ceases
 will expire in prayers for the eternal dura­  
 tion of its freedom and prosperity.&#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ibizanhound_ver01:data:sn83045462:0028065520A:1898052601:0235/pct:42.46600856770348,56.87587168758717,13.913205438629168,12.594142259414227/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ibizanhound_ver01:data:sn83045462:0028065520A:1898052601:0235/pct:42.470664928292045,56.87935843793584,13.922518159806295,12.6115760111576/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1412,7 +1412,7 @@ the happy influence of this insti­
 tution on its character, its virtue,  
 its prosperity and safety.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn2007060551:00514157467:1898060601:0192/pct:27.960745176314038,39.39661701590507,11.04457751164338,9.63140621055289/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn2007060551:00514157467:1898060601:0192/pct:27.956095127224348,39.391644579073585,11.046898386828538,9.633345954815095/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

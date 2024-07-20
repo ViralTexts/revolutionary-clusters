@@ -465,7 +465,7 @@ and very delicately turned compliments. On the appearance of
 The President, the audience rose, and received him with th&lt;±  
 warmelt acclamations—the genuine effufions of tiie hearts o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789112801:0003/pct:60.719640179910044,15.139366170294005,26.476761619190405,1.9091256204658267/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789112801:0003/pct:60.73463268365817,15.153684612447499,26.49175412293853,1.9138984345169912/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -546,7 +546,7 @@ uppoint-
 mients, to act with a sole reference to jus­  
 tice and the public good.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472049:1847100101:0044/pct:177.4980930587338,64.52173913043478,50.72463768115942,28.057971014492754/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472049:1847100101:0044/pct:44.37452326468345,16.130434782608695,12.681159420289855,7.0144927536231885/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -566,7 +566,7 @@ to act with a sole reference to justice and to
 Such was the truthful language of Washington.?  
 j Let us see if Gen. Taylor&#x27;s declarations to the sam
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014405:00415660923:1847110501:0252/pct:0.24132170038982736,26.67538886466056,18.284759606459996,3.198139264427969/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014405:00415660923:1847110501:0252/pct:0.24132170038982736,26.67538886466056,18.290947342367428,3.2029849299801327/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -582,7 +582,7 @@ y to act with a sole reference to jus­
 tice and the public good.  
 These declarations are explicit and cover ex
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn82016320:00296029816:1848031601:0610/pct:76.21915393654524,46.880229500358595,16.260282021151585,1.9483624193162803/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn82016320:00296029816:1848031601:0610/pct:57.19324026451139,35.16614869710734,12.196914033798677,1.4582835285680134/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -599,7 +599,7 @@ with a sole reference to justice and the public
 good.&quot;  
 This is the true and only patriotic ground
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296199:1848080501:1184/pct:198.7704918032787,210.29678982434888,59.42622950819672,8.600847970926711/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296199:1848080501:1184/pct:49.70280795244927,52.57419745608722,14.85960237753638,2.150211992731678/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -660,7 +660,7 @@ Laxington--thence to Watertown, where &quot;we lodg­
 ed at the house of a Widow Coolidge, near the  
 Bridge, and a very indifferent one it is,&quot; but wheth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293277:1859022201:0180/pct:282.6498422712934,172.7390944556094,49.71608832807571,10.024825629507033/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293277:1859022201:0180/pct:70.67360782457801,43.18477361390235,12.430982804858811,2.5062064073767583/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -684,7 +684,7 @@ ed morning and evening service, and heard very
 lame discourses from a Mr. Pond.&quot; Hore was a Vir­  
 ginian evidently ill at ease for the day among th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293277:1859022201:0180/pct:281.9558359621451,235.01595933325453,49.77917981072555,20.475233479134648/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293277:1859022201:0180/pct:70.50007887679445,58.75398983331363,12.446758163748225,5.118808369783662/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -707,7 +707,7 @@ gallantry of our forefathers, happily not disused at
 the present day. Mr. Lossing tells us, what Washs  
 ington does not, the theatre, name of the play and 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293277:1859022201:0180/pct:282.77602523659306,329.5897860267171,49.77917981072555,18.20546163849155/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293277:1859022201:0180/pct:70.70515854235684,82.39744650667927,12.446758163748225,4.551365409622887/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -737,7 +737,7 @@ Washington’s family, and being moreover very
 much pleased with the modest and innocent looksof  
 your two daughters, Patty and Polly, 1
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_bia_ver01:data:sn83021205:00517172042:1859031201:0236/pct:58.05010681685764,71.38822200254201,15.944843658962906,9.800875582544839/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_bia_ver01:data:sn83021205:00517172042:1859031201:0236/pct:44.987959060806745,55.32652316672747,12.372065021071643,7.603064574972637/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1063,7 +1063,7 @@ chintz and five guineas to the girl upon his
 return, and asks her to write to him ac­  
 knowledging the receipt, and to addres
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn84024448:00296020746:1887101501:0901/pct:22.23950233281493,292.6111111111111,54.19906687402799,26.055555555555557/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn84024448:00296020746:1887101501:0901/pct:5.562038117464022,73.15277777777777,13.555036950602878,6.513888888888889/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1327,7 +1327,7 @@ trains of the N. Y. and N. H. R. R. he is
 not even aware that he is passing through  
 a village; much less that it is a villag
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271768515:1890010201:0571/pct:69.32885906040268,26.45320197044335,12.174496644295303,5.970443349753695/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271768515:1890010201:0571/pct:69.33333333333333,26.45320197044335,12.174496644295303,5.973727422003284/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1513,7 +1513,7 @@ and Boudiuet, Sherman and Sarvestly,
 of lha House.  
 One ot the Sights of the City
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_glass_ver02:data:sn83016348:00415625327:1893112501:0399/pct:45.4406364749082,73.01252780704836,12.530599755201958,6.907856222924716/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_glass_ver02:data:sn83016348:00415625327:1893112501:0399/pct:35.215999367613925,56.58762325328171,9.726888265285957,5.356602746355333/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1671,7 +1671,7 @@ village were well-disposed to welcome me
 to it by every demonstration which could  
 evince their joy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drew_ver02:data:sn86063034:00414182112:1894021801:1016/pct:56.634182908545725,20.775663206459054,16.079460269865066,57.727797001153405/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drew_ver02:data:sn86063034:00414182112:1894021801:1016/pct:43.89251997095134,16.101158329919176,12.466715081094167,44.746545495176726/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1697,7 +1697,7 @@ door, J attended morning and evening
 service, and heard very lame discourses  
 from a Mr. Pond
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drew_ver02:data:sn86063034:00414182112:1894021801:1016/pct:56.6904047976012,78.66205305651673,16.041979010494753,6.833910034602076/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drew_ver02:data:sn86063034:00414182112:1894021801:1016/pct:43.940934398450736,60.97061343066781,12.437666424594529,5.2962866400983275/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1745,7 +1745,7 @@ MONDAY, 7TB.
 Walked around the Battery in the af­  
 ternoon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drew_ver02:data:sn86063034:00414182112:1894021801:1016/pct:56.6904047976012,85.76989619377163,16.079460269865066,20.47289504036909/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drew_ver02:data:sn86063034:00414182112:1894021801:1016/pct:43.940934398450736,66.47919848039034,12.466715081094167,15.870237252784088/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1957,7 +1957,7 @@ lish a constitution of government for their
   
 safety and happiness Tbe motion seem
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_airplane_ver01:data:sn87060004:00100481649:1894112901:0527/pct:50.330090340514246,84.93935759029722,11.06671299513551,2.6256164200986274/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_airplane_ver01:data:sn87060004:00100481649:1894112901:0527/pct:50.330090340514246,84.94935359189657,11.06671299513551,2.6256164200986274/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2139,7 +2139,7 @@ establish a constitution of government;
 for their safety and happiness. Roger  
 Sherman, of Connecticut, supported th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_abby_ver02:data:sn89053283:00517177003:1895112701:1303/pct:76.33365664403492,67.1945701357466,21.72647914645975,11.752136752136753/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_abby_ver02:data:sn89053283:00517177003:1895112701:1303/pct:59.16311701327988,52.079748027405266,16.837885241794037,9.11452414196188/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2156,7 +2156,7 @@ public thanksgiving and prayer” for “the&#x27;op­
 portunity peaceably to establish a constitution  
 of government.” The 26th day of November
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685154:1895112801:0687/pct:6.053989678443827,21.47138964577657,21.000396982929733,1.9346049046321525/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685154:1895112801:0687/pct:6.05278825163723,21.468464786813787,21.002844479724814,1.9388820778277256/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2490,7 +2490,7 @@ were so urgent that they dined out every night.
 The Presidential dinners of Genr Washington  
 are described by his contemporarles as ver
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:0017504291A:1897022101:0685/pct:123.67601246105919,49.047981721249045,51.01246105919003,20.35034272658035/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:0017504291A:1897022101:0685/pct:30.92502434274586,12.261995430312261,12.755598831548198,5.087585681645088/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2532,7 +2532,7 @@ mote conversation met with very little
 response. One of the guests relates  
 that at the close of one of these din
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn86071719:00280777729:1897041401:0546/pct:67.46987951807229,22.797927461139896,101.88253012048193,355.05551443375276/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn86071719:00280777729:1897041401:0546/pct:16.870645829410655,5.699481865284974,25.475428356241764,88.76387860843819/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2577,7 +2577,7 @@ thereof, directed to ‘ Tho President
 of the United States ’ at N ow i  
 York.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_honeydew_ver01:data:sn82004649:00517016196:1898022401:0545/pct:46.22418879056047,54.75633113428389,21.179941002949853,24.452011066184294/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_honeydew_ver01:data:sn82004649:00517016196:1898022401:0545/pct:46.210557357711586,54.744680851063826,21.18106753170156,24.45212765957447/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

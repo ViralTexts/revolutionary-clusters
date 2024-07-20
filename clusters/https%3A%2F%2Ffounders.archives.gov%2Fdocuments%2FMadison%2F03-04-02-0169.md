@@ -64,7 +64,7 @@ government thereof; ami f„r these purposes
 We pledge “ our livfc.i, cur fo tunes ami our  
 sacred honor.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811121901:0257/pct:78.03763932029965,9.764226638686582,18.28978622327791,16.59054437723738/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811121901:0257/pct:78.02338326635002,9.763021476178722,18.292534405066373,16.59261087797252/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -109,7 +109,7 @@ of the government thereof; and for these
 purposes we pledge ‘ our lives, our fortunes  
 and our sacred ho*’&#x27; &quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811121901:0417/pct:6.719440353460972,54.752143123369365,16.936671575846834,16.983476208224623/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811121901:0417/pct:6.718203570771213,54.745341614906835,16.939689551506227,16.985507246376812/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -154,7 +154,7 @@ pledge our lives, our fortunes and our sa­
 cred honor.”  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216146:1811122301:0533/pct:1.1647535449020932,30.994437396311117,22.332883187035787,19.927783741582903/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216146:1811122301:0533/pct:1.1645569620253164,30.991412958626075,22.334739803094234,19.929091855321364/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -208,7 +208,7 @@ pledge “ our lives, our fortunes and our sa- &#x27;
 cred honor.”  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1811122701:0185/pct:25.992865636147442,68.71540926303524,23.32936979785969,20.390329158170697/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1811122701:0185/pct:25.986685687113646,68.70540265035677,23.329766999524487,20.391000436871998/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -350,7 +350,7 @@ intheted upon us by her Orders in Council,
 and other measures equally hostile to the  
 interests of the U. S
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1812011601:0306/pct:22.0444934730649,3.7798571780349666,18.073175216032357,6.008372322088156/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1812011601:0306/pct:22.040441176470587,3.7793918503016126,18.07598039215686,6.01173622224958/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -371,7 +371,7 @@ deprecate the evils of war, the period has now ar­
 rived when peace, at we now have it, is disgraceful,  
 and war is honorable
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1812011801:0310/pct:3.905261254745977,17.84400294334069,17.392876514192732,3.2376747608535688/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1812011801:0310/pct:3.9045553145336225,17.841814837522993,17.395758013979272,3.2413652156141426/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -393,7 +393,7 @@ in support of the character anil dignity of the govern
 lair d thereoft and for these purposes we pledgi  
 (1 our lives, our fortunes and our sacred honor.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1812011801:0310/pct:4.700777436268306,50.24527839097375,16.977038510215152,3.7650233014471426/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1812011801:0310/pct:4.6999276934201015,50.2391171060699,16.97999517956134,3.7686490905375027/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -532,7 +532,7 @@ preamble and resolutions to the Executive
 and Legislative departments of the General  
 Government
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1812012801:0325/pct:40.73387694588584,3.2863849765258215,36.78650852483321,93.24190758586607/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1812012801:0325/pct:40.72632944228275,3.2859789993823347,36.785868692483476,93.23450689726168/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -671,7 +671,7 @@ ble and resolutions to the Executive and Le­
 gislative Departments of the General Govern­  
 ment
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812020101:0108/pct:2.5939317717340042,2.721588819418904,50.432321961955665,92.56160353070982/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812020101:0108/pct:2.593524049041182,2.721338604394594,50.42963428691187,92.55615825442064/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -727,7 +727,7 @@ sions ; a condition which the United States
 have mi right to demand in relation to the pro­  
 duce ot their own soil or manuf-ctorics, and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812020301:0044/pct:28.827247191011235,8.994459507249793,16.660814606741575,21.490038901332078/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812020301:0044/pct:28.82218711602598,8.993399339933994,16.66374115031303,21.49143485777149/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -817,7 +817,7 @@ be requested to transmit the foregoing pream­
 ble and resolutions to the executive and Icgis­  
 lativc departments of the general government
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812020301:0044/pct:28.634129213483146,30.590592950607096,16.731039325842698,37.52210302958859/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812020301:0044/pct:28.629103036685976,30.586987270155586,16.733953542800304,37.52160930378752/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

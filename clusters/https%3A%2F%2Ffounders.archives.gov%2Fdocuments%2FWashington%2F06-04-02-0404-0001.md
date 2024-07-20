@@ -1791,7 +1791,7 @@ with my grateful tnanka for the diflingiiifhctl honor in
 preft nting it to me, and more efpecially for the favour­  
 able fcniimuits with which lie accompanied it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1800021701:0341/pct:5.145362251961236,13.246376811594203,21.66589755422243,11.884057971014492/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1800021701:0341/pct:5.144175317185698,13.244457325025358,21.666666666666668,11.885958556730909/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1913,7 +1913,7 @@ away, even if no aid or encouragement is given
 by legiflative authority, or from any other  
 fburce. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1800022401:0343/pct:2.149510389300215,8.72367855608079,44.94865058514449,82.05128205128206/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1800022401:0343/pct:2.1489971346704873,8.722429103408766,44.94388729703916,82.04311085648811/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3161,7 +3161,7 @@ man William ( calling himfelf William
 Lee) | give mm«dg ediarerfreédom, of if  
 )}a should prefer it (on account of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1800030501:0245/pct:6.000930376802605,24.08356326369728,17.33602108854086,69.90540007883327/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1800030501:0245/pct:6.0060991368170775,24.08356326369728,17.34118984855533,69.91196951780319/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3637,7 +3637,7 @@ ton, George Lewis, G&quot;’?S ~
 Wathington, ‘Bufhrod Wathington  
 and Samuel Walhinguon, [ give o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1800030501:0245/pct:23.709102186385486,14.850216791486007,69.08047759342534,80.80409932991722/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1800030501:0245/pct:23.709102186385486,14.850216791486007,69.08564635343981,80.80409932991722/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3967,7 +3967,7 @@ have set my Hand and Seal, this
 . dependen# of the U. States the  
 Twenty-Fourth. ;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1800030501:0246/pct:6.553059643687065,4.983780595694485,52.316034082106896,88.25321930600609/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1800030501:0246/pct:6.563387554867028,4.983780595694485,52.30570617092693,88.26632589534388/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9775,7 +9775,7 @@ prelented by ithe Earl of Buchan, to the late
 would pafsit, on the event o?h;s deceale,  
 to the most deserving charatier in thus coun
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802072701:0121/pct:24.977015016855653,37.03666898539203,16.30401471038921,4.193580443207791/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802072701:0121/pct:24.977015016855653,37.04329391500215,16.30912248442129,4.193580443207791/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9814,7 +9814,7 @@ nature of things would
 a true amor pati&#x27;ia as well as the  
 cement of new arts aid Ullivt ria
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803011201:0002/pct:77.63939452002299,39.209225700164744,15.999233569649357,16.905335191990876/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803011201:0002/pct:77.63939452002299,39.2134499218519,16.018394328415404,16.905335191990876/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9843,7 +9843,7 @@ and provident Warhingron. nxme&#x27;y, &quot; To
 promOte a true amor&#x27; patrize, as well as the  
 advancement of new arrs and universa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803011301:0045/pct:47.388811405547806,51.84862225322637,21.757322175732217,11.806766655040112/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803011301:0045/pct:47.381468856523085,51.844101490975675,21.759115793822954,11.808643589967158/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9863,7 +9863,7 @@ advancement of new arrs and universa
 &quot; to this country.&quot; *  
 Such are the principles under whic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803011301:0045/pct:47.46629474662947,67.72758981513778,21.385402138540215,4.822113707708406/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803011301:0045/pct:47.458940192128914,67.72168454093644,21.387253382914988,4.82459964542099/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9888,7 +9888,7 @@ friendships in their juvenile years will
 free themselves from those narrow lo­  
 cal prejudices which, when carried t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1803012101:0016/pct:54.0923251203625,59.381514940931204,20.67403001982441,8.304378040305767/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1803012101:0016/pct:54.07701019252548,59.371200277922526,20.675254813137034,8.307278096230675/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9980,7 +9980,7 @@ pafs away, even if no aid or encourage­
 ment is given by legislative authority, or  
 from any other fuuee.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803032301:0002/pct:40.85588178852428,1.5220700152207,33.12224141239685,97.44015497440155/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803032301:0002/pct:40.85588178852428,1.5266823486001568,33.12224141239685,97.444767307781/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10283,7 +10283,7 @@ drs rarely overcome.” Washington’s farewell ad­
 and his \VIr.f,. may justly be regarded as the  
 rv’st serious acts of nts life; and in both lie tine
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184522:1824072701:0213/pct:3.624225083452551,68.07573231721838,15.530122397075187,6.465825196475351/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184522:1824072701:0213/pct:3.6236490781945325,68.0676270984641,15.53295189658826,6.469024090169465/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10425,7 +10425,7 @@ legislative authority, or from any othersource.’
 What shall we think of the sincerity of those  
 gentlemen, who have been harping more tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216377:1827010301:0016/pct:43.54496490941733,4.668332576101772,35.2537946792884,91.20854157201272/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216377:1827010301:0016/pct:43.5378590078329,4.6678023850085175,35.253481288076586,91.20196857845922/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11050,7 +11050,7 @@ as long as there are subjects requiring it, not trust­
 ing to the uncertain provision to be made by indi­  
 viduals.&quot;&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1839011201:0317/pct:22.20394736842105,54.56858662965533,18.404605263157894,30.18736988202637/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1839011201:0317/pct:22.20394736842105,54.576297324388925,18.426535087719298,30.18736988202637/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11294,7 +11294,7 @@ rights; and in the latter case to keep them un­
 sheathed, and prefer to fall with them in their  
 hands to relinquishment thereof.&#x27;*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215713:1842081601:0136/pct:36.842617841838724,20.72799470549305,14.627970393455396,3.884844473858372/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215713:1842081601:0136/pct:36.83903009056383,20.726622989874926,14.629791930405426,3.8867932852447447/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11318,7 +11318,7 @@ them unsheathed, and prefer fulling with
 them in their hands to the relinquishment  
 thereof.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_danby_ver01:data:sn98060050:00280777328:1842090901:0705/pct:24.06807131280389,83.87580620968951,19.671799027552673,6.899655017249137/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_danby_ver01:data:sn98060050:00280777328:1842090901:0705/pct:18.05837049047426,62.90685465726714,14.775030401297123,5.174741262936853/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11389,7 +11389,7 @@ among the live nephews therein enumerated, the
 one now presented, tell to the share of Samuel W ashi  
 igton the devisee last named hi the clause of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661307:1843020801:0135/pct:2.749438007954349,40.20214782059381,17.72436451668684,7.504737839545167/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661307:1843020801:0135/pct:2.749438007954349,40.20214782059381,17.735892558648914,7.51737207833228/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11421,7 +11421,7 @@ one now presented fell to the share of Samuel
 Washington,the devisee last named in the clause  
 of the will, which I have just read
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215725:1843020901:0141/pct:17.125867195242815,33.90843635375629,15.10406342913776,9.01372096182584/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215725:1843020901:0141/pct:17.12417005252205,33.90613326088433,15.105869917087833,9.015372772759175/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11443,7 +11443,7 @@ he derived, by inhcriiance, this interesting memo­
 rial, and having transmitted it to his son, Samuel  
 T. Washington, the latter thus seeks to besto
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215725:1843020901:0141/pct:17.224975222993063,86.34696372775439,14.87611496531219,4.08911832631436/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215725:1843020901:0141/pct:17.223268258844517,86.34109896080962,14.877944042546163,4.091104620887953/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11472,7 +11472,7 @@ the five nephews therein enumerated, the one now pree
 fell to the share of Samuel Washington, the devisee  
 last named in the clause of the will which I have just read
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743178:1843021001:0180/pct:145.8949764265973,162.05865439907993,54.23508372622338,18.205865439907992/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743178:1843021001:0180/pct:48.631658808865765,54.01955146635998,18.07836124207446,6.068621813302665/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11502,7 +11502,7 @@ country and it^ rights; and in the latter case, to
 keep them unsheathed, and prefer falling with  
 them in their hinds to the re&#x27;inq li&#x27;hiren thereof.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215725:1843021001:0145/pct:17.96354370834967,75.1543523983988,15.013720109760879,8.114526087251509/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215725:1843021001:0145/pct:17.961783439490446,75.14925373134328,15.01551527029234,8.116236996834012/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11585,7 +11585,7 @@ falling with them in their hands to the relinquishment
 thereot.&quot;  
 In the distribution of the swords hereby devise
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530170:1843021101:0674/pct:3.88635359929339,170.37152669372463,49.30075077285441,21.459048808408784/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530170:1843021101:0674/pct:1.2954511997644633,56.79050889790821,16.43358359095147,7.153016269469594/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11608,7 +11608,7 @@ and, having tranamitted it to his son, Samuel I.
 Washington, the latter thus seeks to bestow it  
 worthily, by associating it with the battle sword i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530170:1843021101:0674/pct:52.981009863094364,45.20761785825788,48.56469895480642,13.934852742220835/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530170:1843021101:0674/pct:17.660336621031455,15.069205952752627,16.18823298493547,4.644950914073611/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11636,7 +11636,7 @@ In the distribution of the swords, hereby devised, among the five
 nephews therein enumerated, the one now presented fell to the share  
 of Samxel Iashington, the devisee last named in the clause of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184613:1843021101:0144/pct:91.02960671674768,83.03478562348319,40.315215790248935,14.503640355945915/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184613:1843021101:0144/pct:30.338733431516935,27.675063554425698,13.436426116838488,4.833988136507203/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11656,7 +11656,7 @@ ington, the devisee, from whom he derived, ky inheritance, this in
 teresting memorial and having transmitted it to his son, Samuel T.  
 Washington, the latter thus seeks to bestow it worthily, by associ
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184613:1843021101:0144/pct:90.85285019885109,165.65353056743325,38.9453527765503,6.425517161678031/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184613:1843021101:0144/pct:30.27982326951399,55.211462907326094,12.97987236131566,2.1415915568908406/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11689,7 +11689,7 @@ among the five nephews therein enumerated, the one
 now present d fell to the share of Samuel Washing­  
 ton, the devisee last named in the clause of the will
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664266:1843021101:0453/pct:52.00059943054099,4.458408138839019,15.989809680803237,8.50787951326551/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664266:1843021101:0453/pct:52.01058993955742,4.458408138839019,15.994804935311453,8.517853580690206/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11710,7 +11710,7 @@ Charles Washington, the devisee; from whom he de |
 rived, by inheritance, this interesting memorial, and  
 having transmitted it to his son, Samuel T. Washing-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664266:1843021101:0453/pct:52.015585194065636,48.73329343706364,16.01978120785254,3.2615200478755235/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664266:1843021101:0453/pct:52.015585194065636,48.739942815346765,16.029771716868975,3.2615200478755235/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11744,7 +11744,7 @@ one now presented fell to the share of Samuel
 Washington, the devisee, last, named in the clause  
 of the will which I have just read
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186439:1843021101:0128/pct:56.77833437695679,99.06553398058253,43.362554790231684,29.902912621359224/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186439:1843021101:0128/pct:18.923149162623258,33.017837641062975,14.45192257525956,9.96642802248918/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11767,7 +11767,7 @@ and having transmitted it to his son, Samuel T
 Washington, the latier thus secks to boslow it wor­  
 thily, by associating it with the battle sword, in 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186439:1843021101:0128/pct:57.20100187852223,256.747572815534,43.55040701314966,13.774271844660195/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186439:1843021101:0128/pct:19.064016277977775,85.57213930348259,14.51453018208379,4.59086680419043/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11826,7 +11826,7 @@ latter case, to keep them unsheathed, and prefer
  falling with them in their hands to the relinquish­  
 ment the reof.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186439:1843021301:0132/pct:100.75187969924812,167.39104042734004,45.12844611528822,22.156124802719436/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186439:1843021301:0132/pct:33.578700078308536,55.790240349599415,15.040459410075698,7.384478433276685/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11935,7 +11935,7 @@ mongthe five nephews therein enumerated, the one now
 presented fell to the share ol Samuel Washington, the  
 devisee last named in the clause of (he wil which I hav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197978:1843021501:0454/pct:111.30519843487983,38.75127248048863,20.360536612632757,10.089356407646195/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197978:1843021501:0454/pct:83.49406009783368,29.06910982920484,15.27603074772886,7.5670173057346455/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11972,7 +11972,7 @@ This gentleman, who died a few years
 since, in the county of Kanawha, and who  
 was the father of Samuel T. Washington, th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183694:1843021601:0388/pct:4.0638169777242625,40.32220131702728,15.096327513546056,13.54656632173095/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183694:1843021601:0388/pct:4.063205417607223,40.317460317460316,15.09907198394783,13.548892808152067/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12003,7 +12003,7 @@ country and its rights ; and prefer falling
 with them in their hands to the relinquish­  
 ment thereof.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348975:1843021601:0440/pct:85.0532500918105,23.777928232904536,12.90855673889093,9.329722410291131/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348975:1843021601:0440/pct:85.03763539563062,23.774708908746277,12.91077657426106,9.331844029244516/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12035,7 +12035,7 @@ enumerated, the one now presented fell
 to the share of Samuel Washington, the  
 devisee last named,in the clause of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157303:1843021601:0199/pct:85.17412935323384,40.81811358518889,12.20563847429519,8.268701526144609/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157303:1843021601:0199/pct:85.16000663239927,40.8130081300813,12.20775990714641,8.270794246404002/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12169,7 +12169,7 @@ swords or conteanx, of which I may die possessed;
   
 and they are to ehoose in the order they are named  a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00200290197:1843021701:0458/pct:122.01767304860088,67.44151831690452,63.99116347569956,10.063263204354863/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00200290197:1843021701:0458/pct:30.515653775322285,16.86037957922613,16.0036832412523,2.5158158010887157/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12204,7 +12204,7 @@ The question was taken on the amendment
   
 of Mr Archer to strike out the grants of lan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00200290197:1843021701:0458/pct:122.01767304860088,77.44593202883625,101.76730486008836,52.14065028689127/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00200290197:1843021701:0458/pct:30.515653775322285,19.361483007209063,25.451197053406997,13.035162571722818/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12226,7 +12226,7 @@ rived, by inheritance, this interesting memorial; and
 having transmitted it to his son, Samuel T. Washing­  
 ton, the latter thus seeks to bestow it worthily, b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00200290197:1843021701:0458/pct:70.54491899852725,131.99941150507576,49.92636229749632,13.299985287626894/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00200290197:1843021701:0458/pct:17.642725598526702,32.99985287626894,12.486187845303867,3.3249963219067236/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12254,7 +12254,7 @@ and prefer fulling with them in their hands to
 uju relinquishment theroul.&quot;  
 jn uie Uisirjhntion ol the swords hereby de
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_danby_ver01:data:sn98060050:0028077733A:1843021701:0027/pct:7.781456953642384,89.35691800329785,19.908940397350992,9.728676360365762/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_danby_ver01:data:sn98060050:0028077733A:1843021701:0027/pct:5.838509316770186,67.02143606655673,14.94824016563147,7.300254834357667/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12285,7 +12285,7 @@ one now presented fell to the share of Samuel
 Washington, the devisee last named in the clause  
 of the will which I have just read
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1843021701:0698/pct:263.6434108527132,326.2102549412776,56.51162790697674,33.400171870524204/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1843021701:0698/pct:65.9108527131783,81.5525637353194,14.127906976744185,8.350042967631051/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12307,7 +12307,7 @@ he derived by inheritance this interesting memori­
 al; and having transmitted it to his son, Samuel  
 T. Washington, the latter thus seeks to bestow i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1843021701:0698/pct:322.71317829457365,165.11028358636494,56.201550387596896,15.124606130048697/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1843021701:0698/pct:80.67829457364341,41.277570896591236,14.050387596899224,3.7811515325121743/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12454,7 +12454,7 @@ merated, the one now presented fell to the
 share of Samuel Washington, the devisee last  
 named in the clause of the will which I have jus
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn85054702:00280776002:1843021801:0532/pct:73.6958119030125,216.5641539121728,58.11903012490816,60.07724216850236/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn85054702:00280776002:1843021801:0532/pct:18.423952975753124,54.1410384780432,14.52975753122704,15.01931054212559/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12479,7 +12479,7 @@ whom he derived, by inheritance, this interest­
 ing memorial; and having transmitted it to his  
 son, Samuel T. Washington, the latter thu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn85054702:00280776002:1843021801:0532/pct:133.1373989713446,210.04148190530682,57.9720793534166,33.24274066657131/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn85054702:00280776002:1843021801:0532/pct:33.28434974283615,52.510370476326706,14.49301983835415,8.310685166642827/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12596,7 +12596,7 @@ mong the five nephews therein enumerated, the one now
 presented fell to the share of Samuel H ushington, the  
 devisee last named in the clause of the will which I hav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347892:1843022001:0644/pct:201.88642925890278,160.78777189888302,61.30895091434071,37.698412698412696/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347892:1843022001:0644/pct:50.46189376443418,40.191036002939015,15.32428791377983,9.423218221895665/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12617,7 +12617,7 @@ Charles Washington, the devisee, from whom he deriv­
 ed, by inheritance, this interesting memorial; and having  
 transmitted it to his son, Samuel &#x27;I&#x27;. Washington the lat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347892:1843022001:0644/pct:202.34841193455244,359.6707818930041,61.539942252165545,13.947677836566726/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347892:1843022001:0644/pct:50.57736720554273,89.90448199853049,15.382024634334103,3.4864070536370315/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12647,7 +12647,7 @@ them in their hands, to the relinquish­
 ment thereof.&quot;  
 In the distribution of the swords, th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035312:00296026864:1843022101:0588/pct:48.470688190314355,52.44627343392776,19.1588785046729,12.696235329980185/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035312:00296026864:1843022101:0588/pct:36.37909052273693,39.338515470202715,14.3646408839779,9.525986892242036/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12670,7 +12670,7 @@ country and its rights; and, in the latter case, to
 keep them unsheathed, and prefer falling with  
 them in their hands to the relinquishment there
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84022355:00200290112:1843022101:0460/pct:34.66787989080983,326.6087997605507,242.4931756141947,12.750673451062557/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84022355:00200290112:1843022101:0460/pct:8.668941979522184,81.65219994013768,60.637087599544934,3.1876683627656393/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12731,7 +12731,7 @@ them in their bands, to the relinquishment
 thereof.&quot;  
 Mr. Samuel Washington, having held 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn84026897:00237288324:1843022201:0343/pct:61.06029810298103,16.13014090961164,29.94579945799458,77.75231985336235/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn84026897:00237288324:1843022201:0343/pct:61.06029810298103,16.137778286936268,29.957091237579043,77.74850116470004/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12832,7 +12832,7 @@ ed among the five nophews therein enumerated,
 the one now prasented fell to the share of Sam.  
 ol Washington, the devisee last named in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:0041566770A:1843022301:0247/pct:61.8921308576481,181.12326768781912,62.42263483642794,33.02698760029176/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:0041566770A:1843022301:0247/pct:15.476453681185054,45.28081692195478,15.609108998452355,8.25674690007294/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12986,7 +12986,7 @@ merated, the one now presented fell to the
 share of Samuel Washington, the devisee  
 last named in the clause of the will which 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182951:1843030201:0626/pct:24.653487843671893,4.251601630751311,36.21904112701659,93.62259755387304/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182951:1843030201:0626/pct:24.64788732394366,4.25098267578978,36.216492503407544,93.61260736642889/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13008,7 +13008,7 @@ whom he derived, by inheritance, this in­
 teresting memoriul ; and having transmitted  
 it to his son, Samuel T. Washington, the lat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182951:1843030201:0626/pct:42.78573051579187,58.35760046592895,18.245853215178368,4.368083867210251/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182951:1843030201:0626/pct:42.77601090413449,58.349104673169315,18.247387551113132,4.37108749454069/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13073,7 +13073,7 @@ keep them unsheathed, and prefer filling with
 their, in their h nds to ihe relinquishment thereof.&quot;  
 In the distribution of the swords hereby devi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_larrybird_ver01:data:sn86058217:00271744742:1843030401:0642/pct:5.463347164591978,59.73884657236126,23.201936376210234,13.642546245919478/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_larrybird_ver01:data:sn86058217:00271744742:1843030401:0642/pct:4.09821891751686,44.804134929270944,17.413107383710877,10.242110990206747/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13126,7 +13126,7 @@ unsheathed and prefer falling with them in
 their hands to the relinquishment thereof.&quot;  
 But well do I know, that throughout th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_arbok_ver04:data:sn82003383:00295874442:1843031101:0468/pct:21.408754623921084,272.3847926267281,36.34401972872996,14.23963133640553/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_arbok_ver04:data:sn82003383:00295874442:1843031101:0468/pct:7.136251541307028,90.79493087557604,12.114673242909987,4.746543778801843/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13190,9 +13190,9 @@ held ‘to manumit them, &amp;c.’ The will proceeds t
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1843-11_13_65/page/n107/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1843-11_13_65/page/n107/mode/1up?view=theater)
 
-#### 1843-11-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1843-11-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -13292,7 +13292,7 @@ sword is the instrument of destruction. These
 are implements useful or necessary tu supply the  
 wants of physical nature and for the preservatio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215749:1844042001:0240/pct:22.172485825126827,4.305676271979675,14.990550084551876,7.000066858327204/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215749:1844042001:0240/pct:22.170280485378953,4.3053884209118864,14.992374510974074,7.001827338770781/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13403,7 +13403,7 @@ rights; and in the latter case, to keep them
 unsheathed and fall with them in their hadis  
 rather than relinquish them. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn84023914:00296029816:1844050201:0072/pct:26.288300835654596,50.433656957928804,19.637883008356546,10.472491909385113/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn84023914:00296029816:1844050201:0072/pct:19.731800766283524,37.8252427184466,14.733542319749215,7.857605177993528/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13458,7 +13458,7 @@ destruction. These are implements useful or
 necessary to supply the wants of physical na­  
 ture and for the preservation of human life
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_arbok_ver04:data:sn82003383:00295875045:1844050401:0071/pct:129.40613026819923,253.82538253825382,38.02681992337165,27.77902790279028/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_arbok_ver04:data:sn82003383:00295875045:1844050401:0071/pct:43.135376756066414,84.60846084608461,12.675606641123883,9.25967596759676/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13525,7 +13525,7 @@ the clause respecting slaves, and every part thereof,
 be religiously fulfilled, without evasion, neglect, or  
 delaye
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777602:1845021401:0026/pct:194.31643625192012,124.23286492687123,55.913978494623656,13.306567249784916/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777602:1845021401:0026/pct:48.597771801767195,31.058216231717807,13.983864771417595,3.326641812446229/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13567,7 +13567,7 @@ evasion, neglect, or delay.&quot;
 
 ---
 
-## [From _The American review : a Whig journal of politics, literature, art, and science_](https://archive.org/details/sim_american-whig-review_1845-09_2_3/page/n17/mode/1up?view=theater)
+## [From _The American Review: a Whig Journal Devoted to Politics and Literature (1848-1850)_](https://archive.org/details/sim_american-whig-review_1845-09_2_3/page/n17/mode/1up?view=theater)
 
 #### 1845-09-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -14124,7 +14124,7 @@ long as there are subjects requiring it; not trust
 ing to the uncertain provision to be made by indi  
 viduals
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_buttery_ver01:data:sn83030213:00206530315:1850052501:0175/pct:246.22030237580992,36.031492188461065,49.73002159827214,68.32328699717063/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_buttery_ver01:data:sn83030213:00206530315:1850052501:0175/pct:82.07343412526998,12.010497396153688,16.57667386609071,22.774428999056873/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14213,7 +14213,7 @@ which it is directed to take place, without evasion,
 neglect or delay, after the crops which may then  
 be on the ground are harvested
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530339:1851022201:0356/pct:153.1260561000338,179.0249035426166,48.293342345386954,63.264351689465684/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530339:1851022201:0356/pct:51.04201870001126,59.67496784753887,16.097780781795652,21.088117229821894/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14901,7 +14901,7 @@ victuals and clothes ho has heen accustomed
 I&quot; ins faithful services during tho revolution if}  
 A ear.? /. ; /&gt;. 5tl!&gt; .170
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1853051901:0766/pct:7.187198234239205,11.41304347826087,16.760932542419646,41.10411899313501/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1853051901:0766/pct:7.19179656964179,11.419399949148232,16.760932542419646,41.10411899313501/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15142,7 +15142,7 @@ choose to be entombed there may be danosited; and it is
 my expresn desire that my corpse may he interred in a  
 private wanner, without parace or funeral oration
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743087:1853092601:0683/pct:10.098481054915707,158.01359603640972,47.771657486229344,26.754234358797095/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743087:1853092601:0683/pct:3.3661603516385687,52.67119867880324,15.923885828743115,8.918078119599032/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15200,7 +15200,7 @@ my express desire that my corpse may lx
 interred in a private manner, without paradt  
 or funeral oration.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215919:1854031801:0263/pct:5.097064167543272,14.44189123320103,12.718752988428804,12.457349766729337/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215919:1854031801:0263/pct:5.096576783323771,14.440885670519426,12.7207241665073,12.458803323585387/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15232,7 +15232,7 @@ exprets desire that my corpse may be interred in
 a pinavate manner, without parade or funeral ora-­  
 tion
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn86092535:00202190558:1854032001:0191/pct:9.514890428919273,277.88461538461536,59.26203408878067,33.75901442307692/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn86092535:00202190558:1854032001:0191/pct:2.378722607229818,69.47115384615384,14.815508522195168,8.43975360576923/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15259,7 +15259,7 @@ family as may choose to be entombed there, may be deited.
 And it Is my express desire that my corpse may bo  
 irred in a private manner, without parade or funeral ora
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1854032401:0166/pct:52.66073771686835,88.53846153846153,16.226855226709432,5.884615384615385/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1854032401:0166/pct:52.67045730670166,88.54166666666667,16.226855226709432,5.891025641025641/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15305,7 +15305,7 @@ worcover, nont poiatelly and solemaly exoia it upon my
  rebgiowsly feleled at the epoch at which it is directed to  
  take place, withont evurion, weglect, o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_airy_ver01:data:sn83030213:00206530431:1854042401:0772/pct:102.72244355909694,226.14849466234855,48.83798140770252,52.32097876934149/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_airy_ver01:data:sn83030213:00206530431:1854042401:0772/pct:34.24081451969898,75.3828315541162,16.27932713590084,17.440326256447165/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15343,7 +15343,7 @@ fulfilled at the epoch at which it is directed
 to take place, without cnasion, neglect  
 delay.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776981:1854050501:0075/pct:13.034188034188034,258.71148459383755,43.66096866096866,40.11204481792717/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776981:1854050501:0075/pct:3.260288615713522,64.67787114845939,10.921076073401034,10.028011204481793/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15379,7 +15379,7 @@ ever characterised his public acts, presents
 the following views for the consideration of  
 the Directory of the Company: &quot;I woul
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202190959:1854081701:0160/pct:20.53299946342336,80.9373482272948,42.335896977284925,20.313258863525984/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202190959:1854081701:0160/pct:6.844333154474453,26.979116075764935,14.111965659094974,6.771086287841994/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15436,7 +15436,7 @@ ary part thereof, be religiously fulfilled at the
 epoch at which it is directed to take  
 without, evasion, neglect, or delay.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279523969:1854082501:0536/pct:14.360655737704919,176.3874873864783,39.31147540983606,74.95234891804014/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279523969:1854082501:0536/pct:4.786100639239469,58.789237668161434,13.101677320657815,24.9813153961136/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15507,7 +15507,7 @@ pounds to friends, who were to lay them
 out in rings. This great poet was no ad­  
 mirer of f unerals that blackened all the way
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024718:0041418375A:1855030701:0219/pct:82.20090594191313,50.75925925925926,12.416733280042633,8.416666666666666/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024718:0041418375A:1855030701:0219/pct:82.18995604102837,50.75455976298491,12.419519559522223,8.41897355183162/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15567,7 +15567,7 @@ and second description shall be comfortably I
 clothed and fed by my heirs while they live;  
 and that such of the latter description as hav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1855051001:0290/pct:48.748785228377066,74.46509009009009,13.15597667638484,22.531906906906908/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1855051001:0290/pct:48.748785228377066,74.46821821821821,13.15597667638484,22.535035035035037/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15628,7 +15628,7 @@ give him, as a testimony of uijr sense of his atj
 tachmeut to me, and for his faithful services du|  
 ring the Revolutionary war
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1855051001:0290/pct:61.054421768707485,14.686561561561561,14.686588921282798,20.176426426426428/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1855051001:0290/pct:61.0584710074506,14.686561561561561,14.690638160025916,20.18268268268268/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15651,7 +15651,7 @@ the object be accomplished, and prefer falling with them in
 their hands to the relinquishment thereof.”  
 Washington was then prepared to fall, like Othryades th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barnes_ver02:data:sn83030364:print00211110053:1855072901:0001/pct:57.54537597234226,51.01862267216598,11.979256698357823,2.7621547306586676/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barnes_ver02:data:sn83030364:print00211110053:1855072901:0001/pct:57.554019014693175,51.01862267216598,11.987899740708729,2.774653168353956/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15675,7 +15675,7 @@ principles unfriendly to republican government,
 and to the true and genuine liberties of mankind,  
 which thereafter are rarely overcome.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855092101:1066/pct:34.827586206896555,82.28758995076379,15.74712643678161,4.9236207549551825/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855092101:1066/pct:34.827586206896555,82.29600639649875,15.753512132822477,4.9194125320877/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15761,7 +15761,7 @@ unfrieu llv to republican government and to ! 1
 the true and genuine liberties of mankind, i1  
 which thereafter are rarely overcome.” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215944:1855092701:0064/pct:19.541592570638215,91.81741096664783,13.61391029440822,5.433860938383267/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215944:1855092701:0064/pct:19.539662155487505,91.81092347912103,13.61585827653199,5.435832214607033/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15814,7 +15814,7 @@ ly to republican government, and to the Inn
 and genuine liberties of mankind, which  
 thereafter arc rarely overcome.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624475:1855102001:0373/pct:19.26461959710542,85.85521543594952,16.448269117934675,7.137675903090091/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624475:1855102001:0373/pct:14.940379951495554,66.53674624292621,12.752627324171382,5.542855001311697/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15841,7 +15841,7 @@ tions, if not disagreeable consequences, to the
 4 under the tenure by which the dower negroes  
 4 are held, to manumit them.&quot; ****
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1856051501:0511/pct:39.07578115647073,33.745364647713224,11.768226984317012,5.961776171912142/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1856051501:0511/pct:39.07578115647073,33.75170359101138,11.768226984317012,5.958606700263066/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15862,7 +15862,7 @@ after named, or the survivors of them, to see
 4 epoch at which it is directed to take place,  
 4 without erosion, neglect, or delay.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1856051501:0511/pct:39.06380940979289,39.488447275839114,12.067520651263019,3.299419986688219/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1856051501:0511/pct:39.06380940979289,39.491616747488195,12.067520651263019,3.302589458337295/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15910,7 +15910,7 @@ tions ars ir the oscupancy of the same proorietor, it not being
 in mny power, under the tenure by which the dower negross are  
 bets, to maurmit thom.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530510:1856071701:0117/pct:4.9455018708313,286.15274803711634,47.19375305026843,11.824886985486557/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530510:1856071701:0117/pct:1.6485006236104334,95.38424934570544,15.731251016756142,3.9416289951621857/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15956,7 +15956,7 @@ which I hold in my own right, shall re
 ceive their freedom. To emancipate  
 them during her life, would, thoug
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237283703:1856072301:0341/pct:81.46984924623115,101.52168703570572,14.227386934673367,3.2231008866522886/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237283703:1856072301:0341/pct:61.1311861743912,76.14426072369997,10.683424980361352,2.420321111909897/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15984,7 +15984,7 @@ which the dower nerroes are held, to
 manumit them.&quot;  
 Ice nr Surgical Operations. Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237283703:1856072301:0341/pct:81.42273869346734,101.53366882338845,15.703517587939698,11.13108075724898/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237283703:1856072301:0341/pct:61.09976433621367,76.1562425113827,11.783189316575019,8.351306014857416/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16012,7 +16012,7 @@ same proprietor, it not being in my power, under
 the tenure by which the dower negroes are held,  
 to manumit them.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1856072401:0551/pct:74.50980392156863,66.59751037344398,15.016738402678145,5.875141456054319/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1856072401:0551/pct:74.5177745895106,66.6037973091915,15.016738402678145,5.871997988180561/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16039,7 +16039,7 @@ intermixture b;marriagt swith the dower
   
 and returned to the practice of his pr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn87076863:00296028861:1856080701:0295/pct:77.43461324429605,103.37552742616033,32.31775180856984,7.141350210970464/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn87076863:00296028861:1856080701:0295/pct:58.107167710508,77.53164556962025,24.244954766875434,5.358649789029536/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16069,7 +16069,7 @@ strength to an institution in which be ts
   
 It has been our good fortune to listen t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_hypno_ver01:data:sn83025182:00279528645:1856091301:0364/pct:13.861525471432593,184.68139884145035,44.511680270194205,73.07444754344561/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_hypno_ver01:data:sn83025182:00279528645:1856091301:0364/pct:4.620508490477531,61.560466280483446,14.8372267567314,24.358149181148537/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16100,7 +16100,7 @@ riage with the dower negroes, as to veta taa a ee
   
 the most painfal sensations if
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_hypno_ver01:data:sn83025182:00279528645:1856091301:0364/pct:14.072614691809738,175.3808195666166,88.06642274134535,8.892941428877924/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_hypno_ver01:data:sn83025182:00279528645:1856091301:0364/pct:4.69087156393658,58.4602731888722,29.355474247115115,2.9643138096259745/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16127,7 +16127,7 @@ ire held, lo aanumil them.&quot;
 1 understand, that when Mrs. Washington  
 earned, from the will of her deceased husband
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1856101601:0599/pct:84.67451357194331,92.18883306474547,13.439827047802066,4.844061048440611/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1856101601:0599/pct:84.67451357194331,92.19515277909439,13.439827047802066,4.844061048440611/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16164,7 +16164,7 @@ every purt theresf, be relgiony fulfilled at the spech
 al which it is dirceted to take place, without evasion,  
 neglect, or delay.&quot; Spurts1, 000
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530522:1856110401:0236/pct:201.52091254752852,31.428571428571427,48.17325177715325,32.369194591416814/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530522:1856110401:0236/pct:67.17363751584284,10.476190476190476,16.057750592384416,10.789731530472272/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16207,7 +16207,7 @@ occupation. And I do hereby solemnly forbid the
   
 aule or fransnortation ouf of the C&#x27;ommoninsaleh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776981:1857040301:0693/pct:157.68115942028984,146.45851402139346,43.11594202898551,39.838103498120844/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776981:1857040301:0693/pct:39.42028985507246,36.614628505348364,10.778985507246377,9.959525874530211/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16257,7 +16257,7 @@ will and desire that all my slaves, which
 I hold in my own right, shall receive  
 their freedom.--WashingTon&#x27;s WI
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:0027952939A:1858062601:0935/pct:115.86335403726709,54.951495553759095,32.683229813664596,10.741713823767178/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:0027952939A:1858062601:0935/pct:38.62111801242236,18.317165184586365,10.894409937888199,3.5805712745890594/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16298,7 +16298,7 @@ propiietor; it not being in my power, 1111
 der the tenure by which thedwcr ne  
 giH s are held to ui.uiuuiit them.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296027546:1858080301:0281/pct:22.380657160570365,113.71246346000531,15.871047737135772,13.420143502524581/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296027546:1858080301:0281/pct:16.790697674418606,85.29099123040127,11.922480620155039,10.058463991496147/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16325,7 +16325,7 @@ neglect or delay.&quot;
 In a letter to Sir John Sinclair he fur­  
 ther said: &quot;There are in Pennsylvani
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296027546:1858080301:0281/pct:22.644141351518908,7.281424395429179,31.602603843769373,121.64496412436885/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296027546:1858080301:0281/pct:16.992248062015506,5.461068296571884,23.705426356589147,91.24368854637258/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16385,7 +16385,7 @@ before their minds were formed, or they
 had imbibed any adequate ideas of the hap­  
 i piness of their own.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn82014282:00414212438:1859033001:0510/pct:59.01639344262295,47.63393787784032,11.107970604861503,11.913696060037523/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn82014282:00414212438:1859033001:0510/pct:59.00805426027978,47.62897342365815,11.109933587678395,11.915059927045336/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16576,7 +16576,7 @@ my sense of his attachment to me, and for
 his fai:iful services (uring th - revolutiona­  
 ry war.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_superior_ver01:data:sn83030179:00220720445:1859090301:0004/pct:18.181818181818183,10.795649685174585,13.38301043219076,41.88895248998283/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_superior_ver01:data:sn83030179:00220720445:1859090301:0004/pct:18.186785891703924,10.799465750810914,13.38301043219076,41.896584621255485/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16763,7 +16763,7 @@ are held, to manumit them.&quot;
 But when Mrs. Washington learned  
 from the will of her deceased husband
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:00279529406:1860062801:0200/pct:238.6820845873594,23.967822075002957,37.731664818628225,18.454986395362592/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:00279529406:1860062801:0200/pct:79.56069486245313,7.989274025000986,12.57722160620941,6.151662131787531/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16809,7 +16809,7 @@ them, shall be bousd by the court until they ar­
 rive at toe age of twenty tiveyeors, The negroes  
 thus bound are to beiaught to read and write
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_belmont_ver02:data:sn82014511:no_reel:1860090801:0002/pct:46.99551569506726,23.403958739894062,9.506726457399104,10.719264008921105/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_belmont_ver02:data:sn82014511:no_reel:1860090801:0002/pct:47.00896860986547,23.410928352383607,9.515695067264573,10.719264008921105/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16840,7 +16840,7 @@ port, as long as there are subjects Requiring it;
 not trusting to the uncertain provision to be  
 made by individuals.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_belmont_ver02:data:sn82014511:no_reel:1860090801:0002/pct:46.90582959641256,34.40200724839699,9.560538116591928,5.75689991636465/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_belmont_ver02:data:sn82014511:no_reel:1860090801:0002/pct:46.90582959641256,34.40897686088653,9.57847533632287,5.763869528854196/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16895,7 +16895,7 @@ lished for their support, as long as there
   
 are subjects requiring it, not trusting
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:00279529406:1860092001:0251/pct:27.506305170239596,169.40735535254157,73.5813366960908,38.53361442960881/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:00279529406:1860092001:0251/pct:9.168768390079865,56.46911845084719,24.527112232030266,12.844538143202936/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16917,7 +16917,7 @@ some who, from old age or bodily inhrm.
   
 selves, it is my will and desire that all
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:00279529406:1860092001:0251/pct:27.853089533417403,148.9107519325369,35.75031525851198,14.722417427969079/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:00279529406:1860092001:0251/pct:9.284363177805801,49.63691731084563,11.916771752837327,4.907472475989693/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16946,7 +16946,7 @@ negroes, as to excite the most painful
   
 sensations, if not disagrceable consequencraple trat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:00279529406:1860092001:0251/pct:28.010718789407314,136.41368001873974,74.05422446406052,10.23658936519091/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:00279529406:1860092001:0251/pct:9.336906263135772,45.471226672913254,24.684741488020176,3.4121964550636372/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17007,7 +17007,7 @@ meir hatlve States and others from the States of
 the if adoption, and are how exiled from their  
 holes on account of their opintons; and w
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:00279529406:1860092001:0251/pct:27.112232030264817,182.0918247833216,74.92118537200504,39.3183415319747/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:00279529406:1860092001:0251/pct:9.03741067675494,60.697274927773876,24.973728457335014,13.106113843991567/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17070,7 +17070,7 @@ ities, and others who on account of theirand acepted by the touse of ttepresenta
   
 infancy, will be unable to support them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:00279529406:1860092001:0251/pct:27.790037831021436,64.96837666900913,111.39659520807062,100.60904193019442/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:00279529406:1860092001:0251/pct:9.263345943673812,21.656125556336377,37.13219840269021,33.536347310064805/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17129,7 +17129,7 @@ support, as long as there a&#x27;t&#x27; subjects requirin;
 it ; not trusting f&#x27; SWttrlain provision to  
 be made by iudrJ5sls.&quot; - ,&#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn83035595:00296029191:1860100501:0513/pct:52.26576852418861,62.55286428296809,14.605021432945499,29.232346533384597/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn83035595:00296029191:1860100501:0513/pct:39.2129842290614,46.91785210816353,10.947787475118664,21.927463795975907/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17207,7 +17207,7 @@ support, as long as there are subjects
 quiring it; not trusting to the uncertain  
 provision to be made by individuals.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn84028083:00280775241:1860101201:0386/pct:228.96706586826346,156.49397765200987,50.374251497005986,125.72921201567262/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn84028083:00280775241:1860101201:0386/pct:57.241766467065865,39.12349441300247,12.593562874251496,31.432303003918154/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17278,7 +17278,7 @@ bodily infirmity should be unable to support
 themselves, the will directs that a comforta­  
 ble provision of food and clothing while the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776038:1861010501:0804/pct:172.54641909814325,275.16507209270986,46.220159151193634,31.909446166284866/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776038:1861010501:0804/pct:43.15806933156411,68.79126802317747,11.560789517332891,7.9773615415712165/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17300,7 +17300,7 @@ forbids the sale or transportation out of Vir­
 ginia of any slave of whom he might die pos­  
 sessed, under any pretence whatsoever, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776038:1861010501:0804/pct:172.6790450928382,312.3029241342137,46.02122015915119,15.038404527691686/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776038:1861010501:0804/pct:43.1912423287444,78.07573103355342,11.511030021562448,3.7596011319229214/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17328,7 +17328,7 @@ as there are subjects requiring it; not trust
 ing to the uncertain provisions to be made  
 by individuals
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776038:1861010501:0804/pct:172.6790450928382,329.227866864304,45.88859416445624,26.465435925077482/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776038:1861010501:0804/pct:43.1912423287444,82.306966716076,11.477857024382153,6.616358981269371/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17359,7 +17359,7 @@ in this I give him a testimony of my sense of
 his attachment to me, and for his faithful  
 services during the revolutionrry war.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776038:1861010501:0804/pct:172.6790450928382,60.80043120873198,94.76127320954907,317.20792346045005/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776038:1861010501:0804/pct:43.1912423287444,15.200107802182995,23.70210648532095,79.30198086511251/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17381,7 +17381,7 @@ France, that, if I fell therein, Mount Vernon
 then less extensive in domain than at present,  
 should become his property.&quot; On the de
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776038:1861010501:0804/pct:221.41909814323608,89.42191079369357,45.822281167108756,14.984503436194583/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776038:1861010501:0804/pct:55.3823187925029,22.355477698423392,11.461270525792004,3.7461258590486457/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17438,7 +17438,7 @@ being in my power, under thetennre by which
 the dower negroes arc held, to manumit  
 them.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1861022201:0002/pct:3.038410089814638,38.81617219313554,10.089814637875024,6.369982547993019/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1861022201:0002/pct:3.047964838524747,38.81980802792321,10.089814637875024,6.373618382780687/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17519,7 +17519,7 @@ be for self defence, or in defence of their country or its
 rights; and in the latter case to keep them unsheathed,  
 and prefer faling with them in their hands to the rea 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271743403:1862022301:0438/pct:196.03238866396762,142.71385750518792,54.29959514170041,17.650449619552685/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271743403:1862022301:0438/pct:65.34412955465586,47.57128583506264,18.099865047233468,5.883483206517562/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17569,7 +17569,7 @@ and in the latter case, to keepthem ufiheathed, and
 prefer lalling with them in their hands, to the ree  
 linquist mert ther
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basic_ver01:data:sn83030213:00206530704:1862022401:0373/pct:98.54092526690391,59.366820391374794,49.395017793594306,15.119032780755328/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basic_ver01:data:sn83030213:00206530704:1862022401:0373/pct:32.84697508896797,19.788940130458265,16.465005931198103,5.039677593585109/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17593,7 +17593,7 @@ case to keep them unsheathed, and prefer fall­
 ing with them in their hands to the relinquish­  
 ment thereof.’ ” •&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1862022801:0003/pct:44.22355588897224,19.76525141283872,10.090022505626406,3.419794232719896/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1862022801:0003/pct:44.23762190547637,19.768874076220836,10.07595648912228,3.419794232719896/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17621,7 +17621,7 @@ ing with them in their hands to the relin-­
 quishment thereof.  
 a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528293:1862030401:0251/pct:111.65346694682398,41.898037338439444,42.13673832228867,25.490665390138822/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528293:1862030401:0251/pct:37.217822315608,13.96601244614648,14.04557944076289,8.496888463379607/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17649,7 +17649,7 @@ keep them unsheathed, and prefer fulling with
 them in their hands to the relinquishment  
 thereof.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_danby_ver01:data:sn98060050:00280777365:1862030601:0236/pct:41.109422492401215,39.764978964166545,16.356382978723403,8.472363267082548/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_danby_ver01:data:sn98060050:00280777365:1862030601:0236/pct:30.837925137754134,29.827361090961844,12.274368231046932,6.35427245031191/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17673,7 +17673,7 @@ from the Farewell Address of Washington.
 We charge him in return, by his oath of  
 office, by his pledges to the country, by the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009571:00279523891:1862030701:0460/pct:13.446969696969697,18.850267379679146,38.08396464646464,16.488413547237077/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009571:00279523891:1862030701:0460/pct:4.481615906580401,6.282722513089006,12.692651622744727,5.49552560246556/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17700,7 +17700,7 @@ latter case to keep them unsheathed, and preter
 falling with them in their hands to the relinquish-  
 ment thereof.&quot; The President of the Unite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280777006:1862030701:0038/pct:148.17843866171003,324.9055018899622,43.79182156133829,18.70362592748145/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280777006:1862030701:0038/pct:37.051496560699015,81.22637547249055,10.949990704591931,4.675906481870363/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17727,7 +17727,7 @@ ter ease to keep them unsheathed, and
 prefer falling with them in their ! ands I  
 to the relinquishment thereof.’ 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85033123:00514151386:1862031301:0095/pct:3.651172588119646,77.91586998087953,11.178205308243225,6.277884002549395/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85033123:00514151386:1862031301:0095/pct:3.651172588119646,77.9194108066001,11.187567289238403,6.274343176828837/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17768,7 +17768,7 @@ Washington. ,
 We charge him in return, by his oath of  
 office, by his pledges to the country, by ik
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_melon_ver01:data:sn84022549:00415628407:1862032101:0714/pct:110.1963141025641,90.37755251946525,17.68830128205128,17.731746731306007/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_melon_ver01:data:sn84022549:00415628407:1862032101:0714/pct:82.66880384692446,67.78316438959894,13.263874974954918,13.309828118113707/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17887,7 +17887,7 @@ and lor his faithful services during the Revolu­
 tionary war.&quot;  
 Extract trom the record or wills in the Cler
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026050:00280775848:1862080801:0908/pct:90.9074074074074,26.274676892486863,16.98148148148148,38.37523079108081/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026050:00280775848:1862080801:0908/pct:68.2230869001297,19.713108933390142,12.747822864554381,28.788524357335607/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17972,7 +17972,7 @@ testimony of my sense of his attachment to
 me, and for his faithful services during the  
 Revolutionary War.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_edgewater_ver02:data:sn84031490:no_reel:1863062901:0002/pct:14.486770501032089,67.512181140728,10.020641771439294,4.141587847520779/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_edgewater_ver02:data:sn84031490:no_reel:1863062901:0002/pct:14.496153124413587,67.51934651762683,10.015950459748545,4.145170535970192/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18001,7 +18001,7 @@ being in my power, under the tenure by
 which the dower negroes arc held, to manu­  
 mit them.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624517:1864070901:0209/pct:5.687203791469194,90.05839623985187,16.454976303317537,8.716707021791768/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624517:1864070901:0209/pct:4.417454331749841,69.79542276841563,12.752828248200206,6.759143424828905/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18130,7 +18130,7 @@ private manner, without pAradeor funeral ora­
 tion. [Congress, hotvever, did not regard this,  
 for Richard Henry Lee delivered, by appoint
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186968:1865111601:0055/pct:81.23530333908136,37.72024065320155,14.688822699482678,2.5676837129351098/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186968:1865111601:0055/pct:81.22257053291536,37.716188634654635,14.691745036572623,2.570988648977692/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18195,7 +18195,7 @@ uor the survivors of them, to see that this
 “atuchment&#x27;tbjne,&#x27;a&amp;dXor*h&amp; faithful ser­  
 “ vices during the revolutionary war,’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_illinois_ver02:data:sn82014064:no_reel:1866022801:0002/pct:11.187384044526901,4.737384140061792,18.10760667903525,93.60011769898485/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_illinois_ver02:data:sn82014064:no_reel:1866022801:0002/pct:11.196660482374767,4.744740326614683,18.102968460111317,93.60747388553774/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18296,7 +18296,7 @@ pretence whats.ver. And I do moreover flls&#x27; 6tmS at the PIilee fPrtation
   
 most pointedly and most solemnly enjoin it &#x27; cents I1&quot; pund, 10 cents jier pound an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202197589:1867030601:0256/pct:6.064690026954178,68.63534675615213,30.49865229110512,23.512304250559286/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202197589:1867030601:0256/pct:4.557098557368208,51.47651006711409,22.87987056761494,17.639821029082775/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18338,7 +18338,7 @@ account of the incidents which have befallen Sevr ork Custom House. Senator Patt
   
 him, and which have rendered him incapable j 8on wno I&#x27;as had a share of the plunder, i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202197589:1867030601:0256/pct:5.768194070080862,93.71364653243847,30.296495956873315,8.288590604026846/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202197589:1867030601:0256/pct:4.327895375488742,70.29082774049218,22.731562626398812,6.2192393736017895/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18367,7 +18367,7 @@ give him, as a testimony of mv sense of his
 attachment to me, and for his faithful servi­  
 ces during the revolutionary war.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202197589:1867030601:0256/pct:5.55256064690027,101.87919463087249,30.269541778975743,6.946308724832215/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202197589:1867030601:0256/pct:4.16610489416206,76.40939597315436,22.718080086288257,5.212527964205816/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18421,7 +18421,7 @@ their ages can be ascertained, the judg­
 ment of the court, upon its own view of  
 the subject, shall be adequate and fina
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296254:1867031501:0470/pct:128.27748383303938,257.9217382557087,52.0870076425632,79.10672970526105/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296254:1867031501:0470/pct:32.0788003528374,64.48043456392718,13.025580711555424,19.77668242631526/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18491,7 +18491,7 @@ ful services during the revolutionary
 war.&quot;  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296254:1867031501:0470/pct:127.51322751322752,26.114073030882206,104.87948265726044,355.9802836736747/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296254:1867031501:0470/pct:31.887680094089973,6.528518257720552,26.22758012349309,88.99507091841868/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18587,7 +18587,7 @@ tainly m M surpass iu interet I Me valua­
 bte relic, it wris used by Washington  
 as his family Bible, and has his auto
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293435:1871020401:0121/pct:27.487484355444305,116.2124060150376,13.970588235294118,9.363251879699249/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293435:1871020401:0121/pct:20.62597809076682,87.1593045112782,10.485133020344287,7.025375939849624/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18634,7 +18634,7 @@ notes, presented tome by the Right Reverend &#x27;
 Thomas Wilson, Bishop of Sodor and of Man.&quot;  
 Lord Fairfax left it at his death to John Car- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ellis_ver01:data:sn85025007:0041566364A:1871031601:0277/pct:36.431432122634995,73.33648840511121,15.909404778345532,2.659725508755324/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ellis_ver01:data:sn85025007:0041566364A:1871031601:0277/pct:36.431432122634995,73.34279854866698,15.923215025548958,2.659725508755324/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18654,7 +18654,7 @@ Right Reverend Thomas Wilson, Bishop
 of Sodor and of Man.  
 Lord Fairfax left it at his death to Joh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_juliet_ver01:data:sn88074142:00280761473:1871032601:1184/pct:284.83920367534455,296.06110528680546,50.535987748851454,11.202635914332784/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_juliet_ver01:data:sn88074142:00280761473:1871032601:1184/pct:71.20980091883614,74.01527632170136,12.633996937212864,2.800658978583196/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18674,7 +18674,7 @@ notes, presented to roe by the Right
 Reverend Thomas Wilson, Bishop of  
 Sodor and Man.&quot; Lord Fairfax pr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026259:00280776075:1871033001:0403/pct:78.17371937639199,23.907238229093466,16.239792130660728,3.893183415319747/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026259:00280776075:1871033001:0403/pct:58.64117319472805,17.933942375263527,12.19602747354743,2.9234012649332395/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18694,7 +18694,7 @@ folio volumes with note, presented to
 me by the Right. Reverend Thomas  
 ) Wilson, Bishop of Sodor and Man.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_beast_ver01:data:sn82003389:00294555134:1871051001:0600/pct:28.806798473812,72.68002028397567,13.614290669441553,3.372210953346856/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_beast_ver01:data:sn82003389:00294555134:1871051001:0600/pct:28.662640207075064,72.50537498419122,13.546160483175152,3.364107752624257/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18729,7 +18729,7 @@ mind, do make and ordain this instrument
 of writing as my last will and testament,  
 revoking all other wills and testament
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271742010:1871081501:0161/pct:44.20378695000681,205.55147733529088,42.255823457294646,30.537713341897597/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271742010:1871081501:0161/pct:14.734595650002271,68.51715911176363,14.085274485764883,10.179237780632532/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18787,7 +18787,7 @@ tents and purposes, to be as binding on the
 parties as if it had been given in the Su­  
 premo Court of the I&#x27;nited States.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_forego_ver01:data:sn84024670:00280762374:1872010201:0015/pct:19.02390438247012,15.861049519586105,12.928286852589641,11.855136733185514/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_forego_ver01:data:sn84024670:00280762374:1872010201:0015/pct:19.03386454183267,15.868440502586845,12.918326693227092,11.855136733185514/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18839,7 +18839,7 @@ not to receive pecuniary compensation for any
 services I could render my country in its ardu­  
 ous struggle with Croat Britain for its rights.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fullerton_ver02:data:sn84031492:no_reel:1873030301:0007/pct:3.366155255324021,57.709812488621886,12.731852530341195,2.5669033315128345/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fullerton_ver02:data:sn84031492:no_reel:1873030301:0007/pct:3.383329516830776,57.709812488621886,12.73757728417678,2.5805570726379026/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18998,7 +18998,7 @@ bound ill body and mind, do make and ordain
 this instrument of writing as my last will and  
 testament, revoking all other wills and test
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_fezza_ver01:data:sn85025007:00415663742:1874070801:0028/pct:3.060230908332174,33.03452222010299,15.342884963138127,2.9086400915506387/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_fezza_ver01:data:sn85025007:00415663742:1874070801:0028/pct:3.0648676218296473,33.0377010617331,15.352158390133074,2.914997774810859/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -19022,7 +19022,7 @@ dred acr.-s, more or less, and my entire square,
 number twenty-one, in t&#x27; e city of Wash­  
 ington.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_fezza_ver01:data:sn85025007:00415663742:1874070801:0028/pct:18.277924607038532,53.10890711424757,15.523716789539574,4.939919893190921/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_fezza_ver01:data:sn85025007:00415663742:1874070801:0028/pct:18.287198034033477,53.11526479750779,15.523716789539574,4.939919893190921/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -19077,7 +19077,7 @@ Item. Upon the decease of my wife I de­
 sire that all the slaves, which I hold of my  
 own right shall receive their freedom; bu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340676:1875042901:0071/pct:27.35533237685318,75.12512512512512,10.887932408735852,10.935935935935936/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340676:1875042901:0071/pct:27.350972266496655,75.11572626047791,10.890181702263309,10.937695483548104/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -19104,7 +19104,7 @@ of any of them, on any pretence whatso­
 ever, and I do solemnly enjoin my execu­  
 tors to see this clause respecting slaves re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340676:1875042901:0071/pct:27.35533237685318,86.64914914914915,10.871991072851905,6.7442442442442445/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340676:1875042901:0071/pct:27.350972266496655,86.63830851995496,10.874242907236212,6.7465282121856625/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -19131,7 +19131,7 @@ words, twenty of my shares in the Bank of
 Alexandria, towards the support of a free  
 school for the education of orphans an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340676:1875042901:0071/pct:27.08432966682608,13.163163163163164,22.764227642276424,84.70970970970971/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340676:1875042901:0071/pct:27.080012751036023,13.161516326785938,22.764583997449794,84.70223945952709/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -19203,7 +19203,7 @@ der that age, and upwards of 16, shall serve
 seven years longer, and then be free, and  
 all under 16 years shall serve until they ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340676:1875042901:0071/pct:38.721504862107444,17.39239239239239,11.079228439343217,29.904904904904903/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340676:1875042901:0071/pct:38.71533312081607,17.39021643938446,11.08144724258846,29.90429125484799/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -19332,7 +19332,7 @@ ton, and his heirs, I bequeath all that part
 of Mount Vernon, included within the fol­  
 lowing limits [here the original will describe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340676:1875042901:0071/pct:38.673680854455604,13.138138138138139,22.413518252829586,84.55955955955956/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340676:1875042901:0071/pct:38.66751673573478,13.13649443262855,22.41393050685368,84.55210809458276/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -19374,7 +19374,7 @@ every page of it, he consulted no profes­
 sional character in the construction of it,  
 and he accompanies every item, with re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340676:1875042901:0071/pct:50.10361868324566,37.887887887887885,10.856049736967957,14.714714714714715/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340676:1875042901:0071/pct:50.095632770162574,37.883147754285,10.858304112209117,14.716001501313649/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -19411,7 +19411,7 @@ case to keep it unsheathed and to prefer
 falling with it in bis hands to the relinquish­  
 ment thereof. &quot;Dolce et decorum cst pr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_henson_ver01:data:sn83016107:00415625509:1875061801:0308/pct:34.15204678362573,102.4438836498871,14.218880534670008,13.255412405365918/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_henson_ver01:data:sn83016107:00415625509:1875061801:0308/pct:26.46754143646409,79.39612283410534,11.032458563535911,10.276205180991594/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -19443,7 +19443,7 @@ and to his heils, the tract I hold ou Four mile
 Run, iu the vii-inity of Alexandria, containing  
 one thousand (wo hundred acres, more or less.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_fezza_ver01:data:sn85025007:00415663766:1876053101:0519/pct:3.1940008332176086,50.40128410914928,15.553395361755312,4.163912756113682/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_fezza_ver01:data:sn85025007:00415663766:1876053101:0519/pct:3.1940008332176086,50.404431435495546,15.571911308614544,4.16706008245995/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -19464,7 +19464,7 @@ Jlun, in the vicinity of Alexandria, con­
 taining one thousand two hundred  
 acres, more 01 less.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_antares_ver02:data:sn84026824:00271767808:1876062401:0103/pct:70.12788434806784,71.50701049122463,13.19154851264943,3.9709775468183155/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_antares_ver02:data:sn84026824:00271767808:1876062401:0103/pct:70.12788434806784,71.51354707977906,13.200815494393476,3.9709775468183155/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -19579,7 +19579,7 @@ able estimate of its value 33 annexed,&quot; whicf
 he desired to be sold 4iaud the moneys to b(  
 divided into twenty-three equal parts,&quot; for ti
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_gabbana_ver01:data:sn85025007:00415663808:1878092101:0184/pct:66.69712793733682,69.13666550157288,15.2088772845953,5.347780496329954/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_gabbana_ver01:data:sn85025007:00415663808:1878092101:0184/pct:66.70147954743256,69.14249097052313,15.21758050478677,5.35069323080508/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -19706,7 +19706,7 @@ jected by Congress, and the James River navi­
 gation stock reverted back to the State of Vir­  
 ginls. first extra session of the Fortysixt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_harry_ver01:data:sn86053573:00211102378:1879071401:0051/pct:18.563789152024444,45.26711813393529,99.31245225362872,336.85477802859293/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_harry_ver01:data:sn86053573:00211102378:1879071401:0051/pct:4.640947288006111,11.316779533483823,24.82811306340718,84.21369450714823/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -19830,7 +19830,7 @@ other source.
 Unfortunately the propsed m.asuro was ro  
 j.o.cu by Congress, aud tho Jarnca 11 vcr navigatio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_gabbana_ver01:data:sn85025007:00415663821:1879071501:0627/pct:50.477069867651586,1.9792746113989637,33.42566943674977,95.50259067357513/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_gabbana_ver01:data:sn85025007:00415663821:1879071501:0627/pct:50.487329434697855,1.9861830742659758,33.4307992202729,95.49913644214162/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -19849,7 +19849,7 @@ dred. Washington, to my friends Eleanor
 Stuart. Hannah Washington of I  
 Hayfield, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_avanti_ver01:data:sn83030214:00175039788:1880030701:0578/pct:197.7050705535742,151.74339106654512,43.97581020313227,6.586144029170465/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_avanti_ver01:data:sn83030214:00175039788:1880030701:0578/pct:65.90169018452474,50.58113035551504,14.65860340104409,2.1953813430568214/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -19883,7 +19883,7 @@ vault), and such others of my ramlly as may
 choose to be entombed there, may be deposited.&#x27;&quot;  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_newfoundland_ver04:data:sn83045462:0028065453A:1880051501:0187/pct:70.26189805688539,77.4959871589085,14.953534215713884,4.044943820224719/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_newfoundland_ver04:data:sn83045462:0028065453A:1880051501:0187/pct:70.26189805688539,77.49866238630284,14.964094621233455,4.058319957196361/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -20020,7 +20020,7 @@ his wife. The last gift of Tom Moore&#x27;s mother to
 him was her wedding ring, and the poet Gray fol­  
 lowed Pipe&#x27;s example and bequeathed rings an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84020713:00296023012:1881072201:0123/pct:10.928061504667765,87.41997439180538,18.73970345963756,12.03585147247119/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84020713:00296023012:1881072201:0123/pct:8.19717149526294,65.56764831412718,14.060140052176301,9.026888604353394/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -20068,7 +20068,7 @@ the pope’s death the figure of St. Peter
 upon the ring is destroyed with a file;  
 and thereupon all the authority an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_laplata_ver01:data:sn85025350:0041562637A:1881100801:0401/pct:69.06167311215144,76.95411747123,12.151434968451047,7.816469884920042/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_laplata_ver01:data:sn85025350:0041562637A:1881100801:0401/pct:69.07524255376892,76.96408110397051,12.151434968451047,7.816469884920042/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -20423,7 +20423,7 @@ systematic ideas through all parts of this
 rising empire, and do away with local  
 and state prejudices;&quot; a place &quot;wher
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn86053573:00211102007:1885011001:0045/pct:32.27513227513227,219.1304347826087,48.41269841269841,13.30282227307399/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn86053573:00211102007:1885011001:0045/pct:8.068783068783068,54.78260869565217,12.103174603174603,3.3257055682684973/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -20454,7 +20454,7 @@ and offering fifty shares in the Potomac
 company, valued at $25,000 as his contri­  
 bution. In the same year he communi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn86053573:00211102007:1885011001:0045/pct:32.18694885361552,232.372234935164,48.76543209876543,28.13119755911518/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn86053573:00211102007:1885011001:0045/pct:8.04673721340388,58.093058733791,12.191358024691358,7.032799389778795/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -20496,7 +20496,7 @@ within th?5 limits of the District of Columbia,
 under the au?i icesof the general government.  
 In order to pacify home feeling In Virginia h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_newfoundland_ver04:data:sn83045462:00280654632:1885022801:0655/pct:84.95646349631615,48.42052815146985,14.77561955793704,10.054808171400099/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_newfoundland_ver04:data:sn83045462:00280654632:1885022801:0655/pct:84.96316141995982,48.42052815146985,14.778968519758875,10.057299451918286/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -20580,7 +20580,7 @@ one now presented fell to the share
 of Samuel Washington, the devisee  
 last named in the clause of the wil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_ferrari_ver02:data:sn86088181:00200296953:1885091701:0068/pct:164.8148148148148,226.80356660362065,50.15432098765432,51.12131856255066/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_ferrari_ver02:data:sn86088181:00200296953:1885091701:0068/pct:41.2037037037037,56.70089165090516,12.53858024691358,12.780329640637666/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -20606,7 +20606,7 @@ ing memorial; and, having transmit­
 ted it to his son, Samuel T. Washing­  
 ton, the latter thus seeks to besto
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_ferrari_ver02:data:sn86088181:00200296953:1885091701:0068/pct:216.5895061728395,213.23966495541745,50.30864197530864,27.343961091596867/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_ferrari_ver02:data:sn86088181:00200296953:1885091701:0068/pct:54.14737654320987,53.30991623885436,12.57716049382716,6.835990272899217/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -20629,7 +20629,7 @@ General Government, if that Government
 should incline to extend a fostering hand  
 towards it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_franklin_ver01:data:sn82016187:00211102974:1886012101:0550/pct:23.786919831223628,60.17851709098286,16.547995780590718,7.515975251039659/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_franklin_ver01:data:sn82016187:00211102974:1886012101:0550/pct:17.84724970320538,45.136423572370425,12.425801345468935,5.639517192413024/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -20712,7 +20712,7 @@ or from any other source.&quot;
 WHY HE FAVORED THIS CITY.  
 Washington announced to the commissioner
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mastiff_ver01:data:sn83045462:00280654450:1886013001:0068/pct:25.199264255058246,33.286685325869655,12.31146535867566,24.750099960015994/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mastiff_ver01:data:sn83045462:00280654450:1886013001:0068/pct:25.199264255058246,33.29418232706917,12.314530962599632,24.745101959216314/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -20738,7 +20738,7 @@ the old vault), and such others of my family
 as may choose to be entombed there may be  
 deposite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chester_ver02:data:sn86053573:00211102044:1887041201:0384/pct:116.65387567152725,108.27113480578826,42.67075978511128,19.07083015993907/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chester_ver02:data:sn86053573:00211102044:1887041201:0384/pct:29.16906543849549,27.067783701447066,10.66973709460756,4.767707539984768/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -20772,7 +20772,7 @@ old vault and such others of my family as
 may chouse to be entombed there may be  
 kposited.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_tesla_ver01:data:sn85038614:00175030931:1887060101:0614/pct:81.043295249549,119.56565656565657,35.46301864101022,12.353535353535353/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_tesla_ver01:data:sn85038614:00175030931:1887060101:0614/pct:27.01443174984967,39.85521885521886,11.821006213670074,4.117845117845118/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -20852,7 +20852,7 @@ them unsheathed, and prefer falling with
 them in their bauds to the i rlinqui ? imsot  
 thereof
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_pinkfloyd_ver01:data:sn86071854:00175048212:1888051301:0063/pct:241.8343195266272,146.99419045213438,47.337278106508876,61.01288204091942/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_pinkfloyd_ver01:data:sn86071854:00175048212:1888051301:0063/pct:80.61143984220907,48.99806348404479,15.779092702169626,20.337627346973143/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -20949,7 +20949,7 @@ latter euotom
 them unshea , and gefer fmm with  
 tﬁem i;x their hands to the relinq 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_fleshgolem_ver02:data:sn92063989:00514153577:1888051901:0204/pct:33.87790197764402,63.14864412453967,9.802235597592434,6.754268496819551/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_fleshgolem_ver02:data:sn92063989:00514153577:1888051901:0204/pct:33.88506735454285,63.14864412453967,9.802235597592434,6.759848231224193/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -21117,7 +21117,7 @@ keep them unsheathed and prefer falling j
 with them in their bands to the rflimjnisli-;  
 tuent thereof.” If was whilst living iu Ka
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gore_ver01:data:sn86092518:00279550377:1889042601:0401/pct:23.068371317398555,27.253950222038625,10.491939966648138,3.242796653929567/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gore_ver01:data:sn86092518:00279550377:1889042601:0401/pct:23.06516604140614,27.25113589425857,10.495113704784401,3.2459038964615172/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -21145,7 +21145,7 @@ keep them nosbeathed and prefer falling
 with them iu their hands to the relinquish-;  
 ment thereof.” It was whilst living in Ka
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gore_ver01:data:sn86092518:00279550377:1889042701:0405/pct:23.1647174862618,25.23025975369968,10.666478793856559,5.753906654248163/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gore_ver01:data:sn86092518:00279550377:1889042701:0405/pct:23.1614539306847,25.227649006622517,10.669672208133747,5.756760485651214/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -21190,7 +21190,7 @@ held, to manumit them.
   
 THE ROSE THAT WAS FENCED.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_mojave_ver01:data:sn82014381:00175036581:1889051101:0546/pct:18.062219470670176,7.702984038861901,10.571119021823247,6.904927133934767/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_mojave_ver01:data:sn82014381:00175036581:1889051101:0546/pct:18.062219470670176,7.705875549387,10.582727132022907,6.910710154984964/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -21218,7 +21218,7 @@ prefer falling with theui in their hands to the
 relinquishment thereof.&quot;  
 Major George Lewis was commander o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_rottweiler_ver01:data:sn83045462:00280654723:1889051501:0456/pct:1.4618391976882543,19.004796163069546,13.98946115927248,6.031175059952038/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_rottweiler_ver01:data:sn83045462:00280654723:1889051501:0456/pct:1.4745877953425124,19.01378896882494,13.98946115927248,6.040167865707434/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -21274,7 +21274,7 @@ gether with the mansion house and all other
 buildings and improvements thereon.&quot;  
 ursHBOD Washington&#x27;s ownership cni&gt;lr th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_rottweiler_ver01:data:sn83045462:00280654723:1889052201:0513/pct:70.26160337552743,68.15675934803451,14.092827004219409,17.50958772770853/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_rottweiler_ver01:data:sn83045462:00280654723:1889052201:0513/pct:70.27004219409282,68.16275167785236,14.08860759493671,17.506591562799617/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -21823,7 +21823,7 @@ them unsheathed and to prefer falling
 with them in their hands to the relin­  
 quishment thereof.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_grouse_ver02:data:sn84036228:00294550100:1893060101:0088/pct:29.04784167056257,110.83462934162779,42.200405173757204,21.099015033696215/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_grouse_ver02:data:sn84036228:00294550100:1893060101:0088/pct:7.261960417640642,27.708657335406947,10.550101293439301,5.274753758424054/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -21862,7 +21862,7 @@ their hands to the relinquishment
   
 thereof.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_jackinthepulpit_ver01:data:2017270211:0027952780A:1893060101:0932/pct:27.916666666666668,15.45809229113413,19.479166666666668,9.942149872191578/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_jackinthepulpit_ver01:data:2017270211:0027952780A:1893060101:0932/pct:20.94622759483118,11.596932597874344,14.631096290120883,7.4532490246199385/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -21918,7 +21918,7 @@ I and to prefer fal ing with them in
 their hands to the relinquishment  
 thereof.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_hartville_ver01:data:sn90051455:00514150515:1893062201:0992/pct:15.617913832199546,13.213336060544078,14.427437641723357,5.808958887298016/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_hartville_ver01:data:sn90051455:00514150515:1893062201:0992/pct:15.632086167800454,13.213336060544078,14.43452380952381,5.824299447739824/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -22097,7 +22097,7 @@ ano about five feet long and - three
 feet wide which if closed would  
 not be recognized by the young lad
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_marmaduke_ver02:data:sn89066695:00415661757:1894041901:0444/pct:69.99509322865555,77.34806629834254,21.17271835132483,14.46916529789458/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_marmaduke_ver02:data:sn89066695:00415661757:1894041901:0444/pct:52.52822778595974,58.011049723756905,15.905743740795288,10.855606988203673/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -22318,7 +22318,7 @@ hem unsheathed, and prefer falling
 with them in their hands, to the  
 relicqaishing thereof.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_minuette_ver01:data:sn87007277:0041566218A:1895090601:1000/pct:44.89973844812555,5.200945626477542,34.11072362685266,120.92198581560284/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_minuette_ver01:data:sn87007277:0041566218A:1895090601:1000/pct:33.69683751363141,3.900709219858156,25.605234460196293,90.69148936170212/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -22506,7 +22506,7 @@ dower 11 egroesa-s to excite the most painful
 sensations, if not disagreeable consc-  
 quence.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_earl_ver02:data:sn84024442:211103048:1896072801:0498/pct:75.90434083601286,58.229198415117345,16.137459807073956,6.598597988418165/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_earl_ver02:data:sn84024442:211103048:1896072801:0498/pct:56.94472361809045,43.67570862541908,12.120603015075377,4.952758305394696/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -22529,7 +22529,7 @@ not only habits of dissipation and extrava
 gance, but principles unfavorable to re  
 publican government.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_earl_ver02:data:sn84024442:211103048:1896072801:0498/pct:75.9847266881029,70.05486132276745,16.077170418006432,5.684242608960683/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_earl_ver02:data:sn84024442:211103048:1896072801:0498/pct:57.005025125628144,52.54495580615666,12.06030150753769,4.266991770801585/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -22626,7 +22626,7 @@ to be drawn for and applied by the said
 trustees for the time being for the usnes  
 sbove mentioned.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_havanese_ver01:data:sn83045462:00280655120:1897022001:0081/pct:28.93514216688348,77.97012424961608,13.845010221148485,8.585788077621109/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_havanese_ver01:data:sn83045462:00280655120:1897022001:0081/pct:28.94908009663631,77.97012424961608,13.845010221148485,8.60672902415189/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -22698,7 +22698,7 @@ Hall academy, In the county of Rock?
 brldge, In the Commonwealth of Virgin­  
 la.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_orange_ver01:data:sn85025715:00175031571:1897101001:0330/pct:2.1566632756866735,45.172513772107855,16.154628687690742,6.8135691504784/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_orange_ver01:data:sn85025715:00175031571:1897101001:0330/pct:2.1634452356731093,45.18217840920074,16.154628687690742,6.8135691504784/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -22756,7 +22756,7 @@ and so on until a sum adequate to the
 accomplishment of this object is ob­  
 taine
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:206534564:1897111401:0134/pct:124.29260450160771,30.318021201413426,23.263665594855304,29.29328621908127/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:206534564:1897111401:0134/pct:82.87506029908346,20.21201413427562,15.516964142145039,19.528857479387515/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -22802,7 +22802,7 @@ guished honor of presenting it to me, an
 more especially tor the favorable sent!  
 ments which accompanied it.” Doub
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_isleboro_ver01:data:sn83016025:00414210685:1897112601:0420/pct:37.959542656112575,54.213875523824306,10.90589270008795,9.452118578302033/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_isleboro_ver01:data:sn83016025:00414210685:1897112601:0420/pct:37.952866690116075,54.20546244568591,10.908371438621176,9.454531346989448/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -22827,7 +22827,7 @@ ment, and to the true and genuine liberties
 of mankind; which thereafter, are rarely  
 o ercome.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_earl_ver02:data:sn84024441:0021110241a:1897121401:0160/pct:27.523291925465838,39.819136522753794,15.411490683229813,6.403150525087515/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_earl_ver02:data:sn84024441:0021110241a:1897121401:0160/pct:20.660194174757283,29.87164527421237,11.553398058252426,4.7987164527421236/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -22846,7 +22846,7 @@ ed for tile purpose of opening tho naviga­
 tion of the lliver Potomac trom the tide  
 water to Fort Cumberland,&quot; as are-cognitio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dred_ver01:data:sn86063615:00211109130:1897121901:0561/pct:41.13214837712519,68.15878378378379,16.904945904173108,2.8716216216216215/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dred_ver01:data:sn86063615:00211109130:1897121901:0561/pct:30.865867800541167,51.126126126126124,12.698105914186316,2.1537162162162162/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -22863,7 +22863,7 @@ to the country the extension of its inland
 navigation under legislative patronage  
 would be. He refused to accept this mone
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dred_ver01:data:sn86063615:00211109130:1897121901:0561/pct:41.15146831530139,71.97353603603604,16.962905718701702,1.4217342342342343/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dred_ver01:data:sn86063615:00211109130:1897121901:0561/pct:30.885195206803246,53.983671171171174,12.717433320448396,1.0698198198198199/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -22959,7 +22959,7 @@ ptonosed, that the lovnl hearted ladies of
 America nave unuertalien to raise $2.7X000  
 to pay for the building devoted to the ad
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dred_ver01:data:sn86063615:00211109130:1897121901:0561/pct:40.996908809891806,75.76013513513513,17.465224111282843,38.851351351351354/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dred_ver01:data:sn86063615:00211109130:1897121901:0561/pct:30.76923076923077,56.82713963963964,13.103981445689989,29.138513513513512/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -23003,7 +23003,7 @@ of presenting it to me, and more es­
 pecially for the favorable sentiments  
 which accompanied it.&quot; Doubtless th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_alakazam_ver01:data:sn84022960:00414212025:1898010701:1338/pct:33.214285714285715,45.136655948553056,14.662698412698413,16.331725616291532/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_alakazam_ver01:data:sn84022960:00414212025:1898010701:1338/pct:33.20769688553858,45.130609511051574,14.664749057726642,16.33288680509042/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -23068,7 +23068,7 @@ the consideration of the original recom-­
 mendation of Washington, and the  
 gligence in the matter of taking advan-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_metallica_ver01:data:sn85034438:00175049435:1898022001:0416/pct:130.57589880159787,270.92198581560285,40.76231691078562,22.22997325892338/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_metallica_ver01:data:sn85034438:00175049435:1898022001:0416/pct:43.52529960053263,90.30732860520095,13.587438970261873,7.409991086307794/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -23196,7 +23196,7 @@ prefer falling with them in their
 hands to the relinquishment thereof.&quot;  
 Colonel Washington bequeathe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_chacha_ver03:data:sn87056251:00200295675:1898041501:0155/pct:67.3076923076923,109.5825331042151,18.312284730195177,11.311027999595673/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_chacha_ver03:data:sn87056251:00200295675:1898041501:0155/pct:50.50244042492105,82.18942686748206,13.738156761412576,8.480743960376023/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -23225,7 +23225,7 @@ prefer falling with theu in their
 hands to the relinquishment thereof.&quot;  
 Colonel Washington bequeathe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_infiniti_ver03:data:sn88083938:00200294282:1898050101:0258/pct:117.67100977198697,292.4566907652435,49.267100977198695,30.93711635520393/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_infiniti_ver03:data:sn88083938:00200294282:1898050101:0258/pct:29.423742618611282,73.11417269131087,12.319283241702301,7.7342790888009825/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -23266,7 +23266,7 @@ izations in nearly all the States of the
 union. Montana is one of the few states  
 to which the organization has not ye
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_avocet_ver01:data:sn84036012:00294550161:1898051901:0756/pct:125.07072135785008,94.45232690124858,38.18953323903819,38.47900113507378/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_avocet_ver01:data:sn84036012:00294550161:1898051901:0756/pct:41.69024045261669,31.48410896708286,12.72984441301273,12.82633371169126/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -23299,7 +23299,7 @@ and all other houses and improvements
 on the premises, making together about  
 two thousand acres&quot; was oevised as 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_red_ver01:data:sn85025007:00175033774:1898060901:0405/pct:29.26870177792687,80.44531610521459,14.122777591412278,10.16382095062298/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_red_ver01:data:sn85025007:00175033774:1898060901:0405/pct:29.27988370792799,80.44531610521459,14.11718662641172,10.167666512844178/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -23339,7 +23339,7 @@ invested in more stock, and so on until
 a sum adequate to the accomplishment  
 of this object is obtalned.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_efreeti_ver01:data:sn91070630:00514152986:1898070201:0694/pct:71.5428723829844,26.546233925290874,12.64168555807441,12.278015921616657/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_efreeti_ver01:data:sn91070630:00514152986:1898070201:0694/pct:71.54731742010046,26.553038034973124,12.64613059519047,12.278015921616657/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -23398,7 +23398,7 @@ invested in more stock, and so on until
 a sum adequate to the accomplishment  
 of this object is obtaine
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_hornacek_ver01:data:sn83045555:206534722:1898070201:0269/pct:170.873786407767,64.42117740023706,83.1715210355987,226.037139470565/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_hornacek_ver01:data:sn83045555:206534722:1898070201:0269/pct:56.957928802588995,21.47372580007902,27.72384034519957,75.345713156855/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -23451,7 +23451,7 @@ It was not Washing
 the purpose of the bill pending befor  
 Senate at this time, to establish a riva
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_rollingstone_ver01:data:sn85038614:00175032976:1898100901:0298/pct:213.62018764153996,150.30647498049706,42.12229052086703,42.19324640588432/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_rollingstone_ver01:data:sn85038614:00175032976:1898100901:0298/pct:71.20672921384666,50.102158326832345,14.040763506955678,14.064415468628107/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -23675,7 +23675,7 @@ year one thousand seven hundred and
 ninety * and of the Independence of  
 the United States the twenty-fourth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_glass_ver02:data:sn83016348:00415625352:1898111201:0373/pct:9.14826498422713,81.69915191191787,18.454258675078865,5.341467043594704/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_glass_ver02:data:sn83016348:00415625352:1898111201:0373/pct:7.095872868036556,63.32013683360879,14.296524826823447,4.139601030095706/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -23720,7 +23720,7 @@ ment.&quot; Thus, in his will, spoke George
 Washington and the first conception of  
 the idea of such a university seems t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_avocet_ver01:data:sn84036012:00294550185:1898120801:0930/pct:4.996339677891655,66.46939953810623,39.09224011713031,43.345842956120094/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_avocet_ver01:data:sn84036012:00294550185:1898120801:0930/pct:1.665446559297218,22.156466512702078,13.030746705710103,14.448614318706698/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -23918,7 +23918,7 @@ old vault), and such others of my fam­
 ily as may choose to be entombed  
 there, may be deposited.&quot; Notwith
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_agave_ver01:data:sn93061674:00280774558:1899010701:0232/pct:37.31728288907996,180.60060060060061,56.57781599312124,52.132132132132135/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_agave_ver01:data:sn93061674:00280774558:1899010701:0232/pct:9.32932072226999,45.150150150150154,14.14445399828031,13.033033033033034/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -23953,7 +23953,7 @@ tires (now in the old vault), and suoh
 others of my family as may choose  
 to be intombed there, may be d
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn87078321:00280776646:1899021501:0063/pct:11.018518518518519,109.9983795170961,18.65740740740741,15.621455193647707/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn87078321:00280776646:1899021501:0063/pct:8.269631688672689,82.49878463782207,14.014361825341673,11.71609139523578/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -23991,7 +23991,7 @@ my remains and those of my deceased
 relatives (now in the old vault), and such  
 others of my family as may choose to be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_volvo_ver01:data:sn00065127:00295876529:1899021701:1076/pct:60.10422698320787,94.68143286847142,15.730553947114457,13.125512715340443/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_volvo_ver01:data:sn00065127:00295876529:1899021701:1076/pct:52.5924674885999,82.85281333492843,13.78145583516298,11.484627347768871/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -24029,7 +24029,7 @@ my remains and those of my deceased
 relatives {now In the old vault), and such  
 others of my family as may choose to be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_volvo_ver01:data:sn00065127:00295876529:1899021701:1078/pct:60.07684918347743,94.50429564980226,15.69644572526417,13.173326060275468/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_volvo_ver01:data:sn00065127:00295876529:1899021701:1078/pct:52.57200493107699,82.6982738047888,13.74537711531996,11.522551905178586/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -24148,7 +24148,7 @@ local preludices and habitual lealousics
 which have just been mentioned; and  
 which, when carrled to rreest, ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_hornacek_ver01:data:sn83045555:206534710:1899022201:0789/pct:60.62691131498471,59.571513588573694,75.68807339449542,51.77544138067844/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_hornacek_ver01:data:sn83045555:206534710:1899022201:0789/pct:20.224432542718695,19.85717119619123,25.2486610558531,17.258480460226146/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -24199,7 +24199,7 @@ liahed within the limits of the District
 of Columbia, under the auspices of the  
 neneral Government.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_hornacek_ver01:data:sn83045555:206534710:1899022201:0789/pct:62.308868501529055,179.72624479269987,73.5474006116208,75.46121801229914/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_hornacek_ver01:data:sn83045555:206534710:1899022201:0789/pct:20.78551389951543,59.90874826423329,24.534557510839072,25.15373933743305/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -24307,7 +24307,7 @@ others of my family as may choose 1
 to be entombed there, may be de­  
 posited.&quot;Notwithstanding his request, it wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068245:00295878988:1899022301:0239/pct:23.852721451440768,92.22468737394111,15.008004268943436,15.80274304154901/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068245:00295878988:1899022301:0239/pct:17.89431545236189,69.17103670835014,11.262343207899653,11.849536103267447/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -24375,7 +24375,7 @@ relatives (now in the old vault), and such
 others of my family as may choose to be  
 entombed there, may be deposited.&quot; Not
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_pearsoll_ver01:data:sn93051659:00295868788:1899022401:0091/pct:44.11764705882353,102.83149171270718,15.966386554621849,12.375690607734807/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_pearsoll_ver01:data:sn93051659:00295868788:1899022401:0091/pct:33.09402906671336,77.12707182320442,11.976886709858169,9.281767955801104/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -24419,7 +24419,7 @@ relatives (now in the Id vault), ntui such
 others of in.v family us may choose to be  
 entombed there, may be deposited.&quot; Not
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_dogwood_ver01:data:sn88085488:00211108071:1899030401:0065/pct:41.975060337892195,23.024285522608345,32.66291230893001,71.08546893868241/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_dogwood_ver01:data:sn88085488:00211108071:1899030401:0065/pct:41.975060337892195,23.027639876559775,32.66291230893001,71.08882329263383/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -24440,7 +24440,7 @@ has always been n source of serious re­
 gret with me to see the youth of these  
 United States sent to foreign countries.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_kryptonite_ver01:data:sn86069180:00100481790:1899041501:0193/pct:76.42086330935251,81.64618146664826,16.348920863309353,5.3031349261151774/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_kryptonite_ver01:data:sn86069180:00100481790:1899041501:0193/pct:57.33045511782695,61.23463609998619,12.268393595970498,3.977351194586383/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -24464,7 +24464,7 @@ dices, as far as the nature of things would
 or indeed ought to adnit, from our national  
 councils.&#x27; If you seek Washington&#x27;s tru
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_japanesechin_ver01:data:sn83045462:00280655260:1899050101:0181/pct:43.08411214953271,47.582555385258466,13.850467289719626,4.221819701825275/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_japanesechin_ver01:data:sn83045462:00280655260:1899050101:0181/pct:43.09345794392523,47.589522084436396,13.845794392523365,4.21833635223631/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -24571,7 +24571,7 @@ United States sent to foreign countries for
 the purpose of education,&quot; and the neces­  
 sity for sending our boys out of the Stat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_charlie_ver01:data:sn86071197:00175034936:1899123101:1430/pct:247.52553024351926,266.00265604249665,50.43205027494108,14.711524273277261/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_charlie_ver01:data:sn86071197:00175034936:1899123101:1430/pct:61.90569744597249,66.50066401062416,12.612966601178782,3.6778810683193153/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -235,7 +235,7 @@ FERSON, Prefident of the United
 third iOVe recited fhall be,  
 the fame are, hereby fttipended unti
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_burmese_ver01:data:sn83045242:print:1802021501:0004/pct:58.887171561051005,54.04758907213899,16.19010819165379,25.494145788744806/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_burmese_ver01:data:sn83045242:print:1802021501:0004/pct:58.90005151983514,54.04758907213899,16.19010819165379,25.494145788744806/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -287,7 +287,7 @@ ail homes vvhicti li-iall be erc-led in the laid
 ciry o: &gt; aihiiigton previous, to the laid fiiii ,  
 a«y ol January in the ye
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807033001:0003/pct:59.66152527849186,2.2222222222222223,18.701799485861184,23.49011588275392/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807033001:0003/pct:59.67580691231077,2.231311065666894,18.69465866895173,23.49011588275392/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -336,7 +336,7 @@ Given in.der my hand the twenty-feveoth
 day o« March in the year oue then,  
 eiyht hunt yen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807041001:0003/pct:78.22925577416595,45.877893596859344,18.733960650128314,21.86273182618113/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807041001:0003/pct:78.23638437410892,45.877893596859344,18.726832050185344,21.876269121429537/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -387,7 +387,7 @@ hundred and rune, conformable In other I
 , (&gt;r , aforesaid |  
 dlv erected, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808011801:0003/pct:4.44165095327886,39.811666230708866,17.59899434318039,22.469264975150406/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808011801:0003/pct:4.455618409106782,39.811666230708866,17.58502688735247,22.473624553143257/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -450,7 +450,7 @@ mare than three hundred and twenty
 square feet, or higher than tw ■■!.- - feet  
 fr &#x27;..n the sill to ths &gt; Of!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808022401:0004/pct:74.82744620381648,5.082346886258363,17.05237515225335,29.233144621718992/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808022401:0004/pct:74.8409798348897,5.08663578658432,17.03884152118013,29.23743352204495/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -518,7 +518,7 @@ nuary i-.i the year one thousand eight
 hutidii .1 and nine.  
 Tlj : JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809022401:0004/pct:57.791164658634536,2.54935285658256,18.012048192771083,30.422277421885212/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809022401:0004/pct:57.8045515394913,2.5537107247134703,17.998661311914326,30.430993158147036/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -562,7 +562,7 @@ Given under my hf**nd the first day ofja
 hundred ami ni  
 111: JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809030301:0004/pct:39.68414658837821,76.70693277310924,18.202065195383682,16.938025210084035/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809030301:0004/pct:39.69764459742188,76.7156862745098,18.202065195383682,16.933648459383754/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -614,7 +614,7 @@ en under my hand the first day of Ja­
 s« hundred and nine.  
 v TH : JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809031701:0004/pct:57.66599597585513,11.639451338994121,17.907444668008047,21.724363161332462/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809031701:0004/pct:57.66599597585513,11.643805791421729,17.907444668008047,21.724363161332462/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -681,7 +681,7 @@ nuary in the year one thousand eight,
 hundred and nine.  
 TH : JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809032001:0004/pct:57.952945907902674,2.2318498096363397,18.07761914337422,30.53695680714192/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809032001:0004/pct:57.952945907902674,2.2318498096363397,18.07761914337422,30.541332983239247/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -110,7 +110,7 @@ erroneous. But he chofit to flepat once the liberties ol the country. &quot; Ob!
 into the newspapers, and in his publications /&quot;C •&#x27; 0 ! Morris !&quot; Where was William  
 there,and the letters he wrote t# me, adoptr arton lt tbe commencement of the rev&#x27;olu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1800011701:0003/pct:8.167563772525158,56.42924676961866,33.208518605195415,13.07910494799874/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1800011701:0003/pct:8.179265153288087,56.42924676961866,33.196817224432486,13.086983926883075/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -180,7 +180,7 @@ social harmeliy as the firfl of human felici­
 ties, and the happiest moments thofo which  
 are given to the effufions of the heart
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1800011701:0003/pct:6.014509712146033,3.750393948944217,35.642405803884856,91.7743460447526/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1800011701:0003/pct:6.026211092908963,3.7582729278285534,35.63070442312193,91.7743460447526/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -201,7 +201,7 @@ the memory of Crefap. If, ®d the other ignorance, will fuffer an absolute judgm
 hand. I find that I osrai&#x27;i was right in his to be formed of the secret causes which have enne. They further afiured captaiu Brown, T , jT un TTTvvrT ,   
 charge, I will vindicate, as far as mjrvfuf- led to (hit last manauvrt, or the rfff ds which that they bad received orders to treat with 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1800020701:0003/pct:5.411820555423689,88.42138070749571,85.8295751246143,5.251675237649992/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1800020701:0003/pct:5.411820555423689,88.42138070749571,85.84144315214812,5.263362942184822/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -879,7 +879,7 @@ creature. Who is there to mourn for
 Logan? Not one.”  
 Soon after James Alexander became hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624542:1874091201:0023/pct:79.50874831763123,91.24078470573535,14.216016150740241,2.536548794202174/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624542:1874091201:0023/pct:61.61936633491243,70.7156460828303,11.02612021382937,1.9690758255592498/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -994,7 +994,7 @@ There runs not a drop of my blood in
 the veins of any living creature.&quot; She­  
 nandoah was a Christian man. In hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_montpelier_ver01:data:sn84023253:00200296291:1880091001:0776/pct:51.438727149627624,72.85483000539665,33.56465809072444,9.916351861845655/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_montpelier_ver01:data:sn84023253:00200296291:1880091001:0776/pct:17.14624238320921,24.28494333513222,11.188219363574813,3.3054506206152188/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1060,7 +1060,7 @@ There runs not a drop of my blood in the veins of
 any living creature.&quot;  
 Another story of the great strength of the Cza
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nash_ver01:data:sn83030214:00175038693:1894020201:0438/pct:202.1473354231975,260.80473632277165,46.23824451410658,20.206117750246683/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nash_ver01:data:sn83030214:00175038693:1894020201:0438/pct:67.38244514106583,86.93491210759055,15.412748171368861,6.735372583415561/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1077,7 +1077,7 @@ said: &quot;There runs not a drop of my blood in the
 veins of any living creature.&quot;  
 Mr. Nicholas Davis. 92 years old, and the oldes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_franklin_ver01:data:sn82016187:00211102330:1894020801:0356/pct:93.6940494997367,96.59181240063593,16.561348077935754,1.7587440381558028/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_franklin_ver01:data:sn82016187:00211102330:1894020801:0356/pct:70.2923360547801,72.44634340222575,12.430866473531736,1.3215421303656598/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1093,7 +1093,7 @@ Mr. Nicholas Davis. 92 years old, and the oldes
 “There runs not a drop of. my blood in  
 the veins of any living creature.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_gardevoir_ver02:data:sn85049838:00340584399:1894032201:0927/pct:15.951523092040615,41.57038141384023,10.596134949230265,0.7827059262020126/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_gardevoir_ver02:data:sn85049838:00340584399:1894032201:0927/pct:15.959711758925646,41.57038141384023,10.600229282672782,0.7951298297925208/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

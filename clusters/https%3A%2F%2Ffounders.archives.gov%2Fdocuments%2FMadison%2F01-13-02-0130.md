@@ -29,7 +29,7 @@ aforefaid, on pain of forfeiting twentv dollars, to be iurd fc/r.and
 recovered by such Affidant, the one half for his own use, and the  
 other half for the use of the United States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790031001:0001/pct:63.963691376701966,51.781145443810274,26.293494704992437,1.8106671914977366/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790031001:0001/pct:63.97125567322239,51.790986026372764,26.301059001512858,1.8155874827789804/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -50,7 +50,7 @@ use, and the other half for the use of
 the United States.  
 And be it further enafed, That eac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790041401:0573/pct:48.602409638554214,41.894266091678645,20.289156626506024,5.861683437150615/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790041401:0573/pct:48.610441767068274,41.904914017995,20.305220883534137,5.85635947399244/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -234,7 +234,7 @@ District of New-Hampshire,tales the liberty, res­
 pectfully, to suggest, through the medium of the  
 Newspapers tathe several headsof families in sai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1830061501:0304/pct:54.97429694587239,10.911307528192625,15.875415784699124,8.859087676521385/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1830061501:0304/pct:54.979336760407215,10.911307528192625,15.875415784699124,8.862474177926783/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -264,7 +264,7 @@ U. States. The Marshal of the U. States for the
 District of New-Hampshire,takes the liberty, res­  
 pectfully, te suggest, through the medinm of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1830062201:0309/pct:77.74160130235312,11.465033180193977,15.820630457303537,8.361408882082696/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1830062201:0309/pct:77.75146761383257,11.465033180193977,15.820630457303537,8.371618172537008/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

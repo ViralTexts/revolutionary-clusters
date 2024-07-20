@@ -68,7 +68,7 @@ think proper. i
 ting choose two directors,to infpeck and con­  
 groul the business of the bank, tor the ensu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1781062501:0508/pct:5.774946921443736,59.7503053331524,27.04883227176221,15.850183199891438/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1781062501:0508/pct:5.78202406227884,59.7503053331524,27.04883227176221,15.859230108110554/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -143,7 +143,7 @@ dispose of the money and credit of the Bank,
 in such manner as shall seem to them best  
 calculatedsswmmote the interest of the pro­
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216122:1810100101:0314/pct:4.058288937637104,75.45899068179722,23.707301786273895,4.945105637051388/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216122:1810100101:0314/pct:4.057653141156196,75.4520295202952,23.70880985952269,4.947724477244773/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -189,7 +189,7 @@ time that they may il- nk proper
 Sec. 6 And be it further enacted, That the board I  
 of directors, by a majority of votes, shall make 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1811032601:0419/pct:23.39317773788151,45.78576633470974,17.522441651705567,6.133106631042021/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1811032601:0419/pct:23.38897863938252,45.78020643594414,17.525279722371806,6.136409633677394/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -221,7 +221,7 @@ Sec. 8. And be it further enacted That any
 dire&lt; tor, officer, or other person, holding any  
 share or capital of the said bt-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1811032601:0419/pct:23.285457809694794,51.91887296575176,17.63016157989228,8.74423123633714/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1811032601:0419/pct:23.281278047029257,51.91256830601093,17.632980314725064,8.747217162517709/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -277,7 +277,7 @@ board shall at every quarterly meeting, choose
 three directors to inspect the business of the  
 bank, for the cnsuing three nionths : and th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216134:1811032801:0286/pct:54.843396835647404,46.892816419612316,21.843719728769777,24.363359939186623/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216134:1811032801:0286/pct:54.83454398708636,46.888361045130644,21.84557438794727,24.364212193190816/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -334,7 +334,7 @@ tors so ihosen, or any two of them,
 shall, on the &lt; vening of every Saturday,  
 exa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811041801:0136/pct:6.993268511593119,25.912175137626424,17.240089753178758,30.047369094866216/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811041801:0136/pct:6.991961114226958,25.908858166922684,17.24309839845454,30.04778972520908/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -360,7 +360,7 @@ they may think proper.
 Sec. 6. And be it further enacted,  
 I hat the board of directors, by a ma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811042201:0139/pct:76.86746987951807,65.10686733274314,17.42354031510658,8.018211711142026/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811042201:0139/pct:76.85322461082283,65.09863429438543,17.42648875710403,8.021412915191368/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -389,7 +389,7 @@ hey may think prudent.
 Sec. 7. And be it further enacted,  
 I hat in appointing of ca hi-r of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811042201:0139/pct:76.86746987951807,73.0112558492475,17.25671918443003,10.800556468951562/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811042201:0139/pct:76.85322461082283,73.00202326757714,17.25969854212997,10.803405833754848/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -417,7 +417,7 @@ thereof, as they may think prudent.
 . Sec 7. Amd b it further) enacl=d,  
 That ‘in appointing a cashier of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1811062501:0101/pct:25.716064757160648,69.1073919107392,16.73412204234122,9.563658099222954/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1811062501:0101/pct:25.716064757160648,69.1073919107392,16.744499792444998,9.570299528458523/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -441,7 +441,7 @@ Sec. 8. And bs it further enalicd,
 That stockholders shall vote at all e­  
 le&amp;ions for dire@ors, by ballot, in per
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1811070201:0105/pct:24.396284829721363,32.290312906128165,16.13003095975232,7.027891632510247/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1811070201:0105/pct:24.401444788441694,32.290312906128165,16.135190918472652,7.0345562997767335/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -540,7 +540,7 @@ mote the interest of the stockholders.
 Sec. 8. And be it further enacted, That  
 a majority of the whole number of Director
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812060101:0175/pct:40.09417509591908,25.826207534088283,15.974886641088245,4.263924196903166/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812060101:0175/pct:40.0871839581517,25.823223570190642,15.977913397268235,4.267282880801078/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -557,7 +557,7 @@ laws, determine the manner of doing business, and
 the rules and forms to be pursued, and dispose of  
 the money and credit of the Bank in such manner a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812092401:0692/pct:27.02485966319166,90.42803848419399,21.507618283881314,1.8162183388965247/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812092401:0692/pct:27.02485966319166,90.42803848419399,21.52365677626303,1.8227632698475031/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -583,7 +583,7 @@ ner of doing business, and the rules anti
 forms to be pursued, and dispose ol the  
 money and ciedit of the bank, in suc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1813102601:0085/pct:39.17637917637918,57.023943135054246,16.954156954156954,7.519640852974186/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1813102601:0085/pct:39.17029210689869,57.018610305807535,16.95670188522892,7.522054926899218/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -611,7 +611,7 @@ other officers oflhe Bank,but four mem­
 bers with the President, may constitute  
 a board for transacting the ordinary bu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1813102801:0087/pct:38.10308660473479,68.2056470155431,16.706622715013484,8.194610503081027/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1813102801:0087/pct:38.09737827715356,68.1993746551407,16.709113607990012,8.196922322359145/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -636,7 +636,7 @@ Article 7. A majority of the whole
 number of Directors shall be necessary  
 in the choice of a President, Cashier &amp; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1813110201:0096/pct:37.588862559241704,67.01152554678283,16.61729857819905,6.153008439967329/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1813110201:0096/pct:37.58329631274989,67.005444646098,16.619773927637098,6.155474894131881/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -659,7 +659,7 @@ the stockholders, a majority of the wMv
 number of directors shall be necessary  
 fa the choice of a president, cashier, am
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216201:1815101701:0058/pct:46.2922010909627,88.64325191656266,17.912428129146395,5.883401675878053/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216201:1815101701:0058/pct:46.285377358490564,88.63535074427311,17.914701257861637,5.8858484119202545/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -682,7 +682,7 @@ the stockholders, a majority of the w hole
 uumber of directors shall be necessary  
 in the choice of 8 president, cashier, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216201:1815102101:0070/pct:26.11577551922227,87.14924039320822,17.837678597731625,5.898123324396783/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216201:1815102101:0070/pct:26.111929307805596,87.14145295326601,17.839960726558665,5.900574866708367/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -705,7 +705,7 @@ the stockholders, a majority of the whole
 , number ot director t^iall be necessary  
 i in the choice of a president, cashier, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216201:1815102401:0078/pct:23.957712924359736,88.26616849034784,18.522930315664087,5.880259763366248/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216201:1815102401:0078/pct:23.95414619621855,88.25831702544032,18.525135229020893,5.882701773112732/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -728,7 +728,7 @@ the stockholder*—a majority of the whole
 number of directors shall be necessary  
 in the choice of a president, cashier, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216201:1815110601:0110/pct:62.9353974397142,27.697938052307418,18.234593629056267,6.176916897259662/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216201:1815110601:0110/pct:62.926030659324304,27.695465905033917,18.23684079972218,6.179340711650601/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -762,7 +762,7 @@ titled to a vote at elections, for direc­
 tursaud commissioners, either in person  
 or by a written ballot by him or her sub
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216201:1815111101:0130/pct:25.55588496887044,27.355298308103293,18.544322561517937,12.511130899376669/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216201:1815111101:0130/pct:25.552097228397805,27.352862612412075,18.546514500271726,12.512984893004482/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -785,7 +785,7 @@ of the money and credit of the bank, in
 number of directors shall be necessary  
 in the choice of a president, cashier, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216201:1815111701:0150/pct:62.31193207209891,27.501567678939352,18.41203634738567,6.261757592045149/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216201:1815111701:0150/pct:62.30265117664582,27.499104263704766,18.414258762784232,6.264182491341216/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -809,7 +809,7 @@ tire stockholders—a majority of the whole
 number of directors&#x27; shall be necessary  
 in the choice of a president, cashier, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216201:1815112001:0156/pct:30.312774042677578,26.189389096886128,17.699503069277988,6.291662861839101/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216201:1815112001:0156/pct:30.30834429343855,26.18699780861943,17.70178771493984,6.294131969807646/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

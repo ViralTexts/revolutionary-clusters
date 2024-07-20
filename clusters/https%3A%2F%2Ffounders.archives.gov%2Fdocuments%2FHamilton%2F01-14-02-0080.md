@@ -526,7 +526,7 @@ Praised, wept,and honored by the Muse lie loved.
 
 ---
 
-## [From _The International Monthly Magazine of Literature, Science and Art (1850-1852)_](https://archive.org/details/sim_international-monthly-magazine-of-literature-science_1852-02-01_5_2/page/n69/mode/1up?view=theater)
+## [From _The International magazine of literature, art, and science_](https://archive.org/details/sim_international-monthly-magazine-of-literature-science_1852-02-01_5_2/page/n69/mode/1up?view=theater)
 
 #### 1852-02-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -564,7 +564,7 @@ Who gained no title, and who lost no friend :
 Ennobled by himself, by all approved,  
 Praised and revered by the country he loved.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn86071377:00212477618:1852070101:0669/pct:70.37210756722952,16.503089785532534,20.137585991244528,4.0348964013086155/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn86071377:00212477618:1852070101:0669/pct:52.79124315871775,12.383375742154367,15.105551211884285,3.029201502483945/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -594,7 +594,7 @@ Praised and revered by the country he loved.&#x27;
 &quot; Ennobled by himself, by all approved,  
 44 Praised, wept, and hccior&#x27;d by the land he loveS?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1852070301:0253/pct:3.663157894736842,22.530198446937014,14.133333333333333,3.472821397756687/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1852070301:0253/pct:3.672514619883041,22.53738855335059,14.123976608187135,3.472821397756687/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -691,7 +691,7 @@ Praised, wept, and honoured by the Muse be loved’
 And again we might cast oar mind’s eye over  
 the little group, until it might rest upon thos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340172:1855050501:0075/pct:26.501462743073482,75.50697919410061,12.631216658062296,3.5027653410587307/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340172:1855050501:0075/pct:26.496902959394358,75.4970375246873,12.633344803854095,3.5055957867017775/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -733,7 +733,7 @@ Who gained no title, and who loet no
 friend;  
 Ennobled by himself.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215956:1856062101:0235/pct:82.04586602293301,61.100596884553795,11.979480989740495,4.018052118212258/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215956:1856062101:0235/pct:82.03761440209192,61.09614964699032,11.981628616447082,4.020185845646214/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -751,7 +751,7 @@ Ennobled by himself.
   
 he lovoa. —rxiuors mat, uu.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215956:1856062101:0235/pct:82.05592436129551,68.43790944824575,11.969422651377993,1.6013975833454652/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215956:1856062101:0235/pct:82.04767172885447,68.43292816071039,11.971571289684535,1.603707208190795/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -778,7 +778,7 @@ he lovoa. —rxiuors mat, uu.
 Ennobled by himself, by all approved,  
 Praised, wept, and honored by the muse he lov&#x27;d.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn84026897:00237288257:1858031701:0172/pct:69.79649122807018,7.1153276015416544,13.27719298245614,1.4527127186480877/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn84026897:00237288257:1858031701:0172/pct:69.80116959064327,7.121915867839378,13.28187134502924,1.4494185854992259/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -953,7 +953,7 @@ Ennobled by himself, by all approved,
 Praised, wept and honored by tho v..tie he  
 loved.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84027008:00294551207:1873062101:0077/pct:17.42862147486425,59.056275898943994,16.342616920651604,4.090362251035958/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84027008:00294551207:1873062101:0077/pct:17.434460209026682,59.065187363543195,16.348455654814035,4.090362251035958/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -973,7 +973,7 @@ Who craved no title, and who lost no friend;
 Knnobled by himself, by all approved,  
 Praised, wept and honored by the State he loved.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:0029455127A:1873062601:0459/pct:35.48591326369104,50.75404144515569,13.596074707185819,2.4628404036020397/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:0029455127A:1873062601:0459/pct:35.4911891948929,50.761274456620015,13.601350638387675,2.4628404036020397/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -998,7 +998,7 @@ Who gain’d no title, and who lost no friend:
 Ennobled by himself by all approved,  
 Praised, wept and honour’d by the muse he loved.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685282:1876032301:0254/pct:15.752757949383517,15.469477813189508,11.048020765736535,4.535425349350331/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685282:1876032301:0254/pct:15.750202757502027,15.467581811496506,11.050283860502839,4.537933570290477/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1018,7 +1018,7 @@ Who gained no title, and who lost no friend.
 Ennobled by himself, by all approved,  
 And pralsed, unenvy&#x27;d, by the State he loved
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00415664412:1879121801:0594/pct:90.98951953178168,83.10791639080678,38.70967741935484,7.99205523503263/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00415664412:1879121801:0594/pct:30.329839843927225,27.70263879693559,12.903225806451612,2.6640184116775436/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1091,7 +1091,7 @@ cere,In action faithful, and in honor clear;
 Who broke no promise, serv&#x27;d no private end,  
 Who gain&#x27;d a title, and who lost no friend.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chester_ver02:data:sn82016187:00211102305:1882070801:0376/pct:29.425981873111784,91.64677804295943,19.018126888217523,4.285998408910103/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chester_ver02:data:sn82016187:00211102305:1882070801:0376/pct:22.07282066777459,68.73508353221958,14.277081130080072,3.2219570405727924/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1131,7 +1131,7 @@ Ennobled by himself, by all approved,
 Praised, wept, and honored by those he  
 loved
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282310:1884032901:0742/pct:232.14030064423764,164.41062608463488,50.17895490336435,8.169803764517422/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282310:1884032901:0742/pct:58.04546268122427,41.10265652115872,12.546984070162878,2.0424509411293554/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1172,7 +1172,7 @@ AVho sought no title, and who lost no friend,
 Ennobled by himself, by all approved,  
 Praised, wept and honored by the friends he loved
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_indianhead_ver01:data:sn83016368:00415627567:1884051701:0089/pct:38.216743119266056,37.38620906142095,11.19552752293578,3.4215758083080465/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_indianhead_ver01:data:sn83016368:00415627567:1884051701:0089/pct:38.216743119266056,37.38969690628161,11.200305810397554,3.425063653168707/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1215,7 +1215,7 @@ W ho uain’d no title, and who lost no friend;
 Ennobled by himself, by all approv’d,  
 And prais’d, uneuvied by the muse he lov’d.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dorothy_ver01:data:sn85033295:00279550079:1887062201:0079/pct:7.264175594460413,4.72286911970191,13.313300235171152,3.12063344201211/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dorothy_ver01:data:sn85033295:00279550079:1887062201:0079/pct:7.264175594460413,4.72286911970191,13.33072032052957,3.1268436578171093/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1290,7 +1290,7 @@ Ennobled by himself, by all approved,
 Praised, wept and honored by tho land he  
 loved
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_columbo_ver02:data:sn86063034:0041418201A:1890021401:0888/pct:6.756012483936112,116.26118568232663,15.898659812740958,5.383109619686801/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_columbo_ver02:data:sn86063034:0041418201A:1890021401:0888/pct:5.24543514346692,90.10294383240021,12.321555608252313,4.1791583890193245/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1381,7 +1381,7 @@ In action faithful, nndin honor clear;
 Who broke no promise, serv&#x27;d no private end.  
 Who gnined no title, nnd who lost no frioud.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_eritrea_ver01:data:sn84026844:00202193614:1894051101:0899/pct:34.29951690821256,73.47842124677241,15.555555555555555,2.268535595721136/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_eritrea_ver01:data:sn84026844:00202193614:1894051101:0899/pct:34.29951690821256,73.48303209147916,15.603864734299517,2.2777572851346366/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1402,7 +1402,7 @@ Who gained no title, anil who lost no friend;
 Ennobled by himself, by all approved,  
 Praised and honored by the friend he loed.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_abbott_ver01:data:sn95073194:00206539276:1895010901:0619/pct:22.217784877529287,46.91358024691358,14.084132055378062,2.602880658436214/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_abbott_ver01:data:sn95073194:00206539276:1895010901:0619/pct:16.668885634402876,35.18518518518518,10.571162295300226,1.954732510288066/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1562,7 +1562,7 @@ friend:
 Enobled by himself, by all approve d. i  
 And prais&#x27;d, unenvied bv the muse he
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn82014248:00340587947:1897121101:0508/pct:43.58877800790812,90.3081797235023,12.6906420636415,3.6722350230414746/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn82014248:00340587947:1897121101:0508/pct:43.58057228915663,90.29517638588914,12.692959337349398,3.675305975521958/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1629,7 +1629,7 @@ friend;
 Enobled by himself, by all approv&#x27;d  
 And prais&#x27;d, unenvied by the muse h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_desdemona_ver03:data:sn85047084:00202195994:1898012901:0190/pct:91.36640798226163,115.6334501752629,18.445121951219512,7.200801201802704/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_desdemona_ver03:data:sn85047084:00202195994:1898012901:0190/pct:68.55677249410786,86.73009514271408,13.849993068071537,5.398097145718578/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1653,7 +1653,7 @@ friend;
 Enobled by himself, by all approv&#x27;d.  
 And prais&#x27;d, unenvied by the muse h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_cardinal_ver01:data:sn83025121:00294552431:1898020101:0071/pct:15.374724467303453,94.81673960612692,16.936076414401175,7.275711159737418/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_cardinal_ver01:data:sn83025121:00294552431:1898020101:0071/pct:11.537754914569172,71.11255470459518,12.71357707146794,5.460202407002188/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

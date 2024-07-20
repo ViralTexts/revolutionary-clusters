@@ -245,7 +245,7 @@ throw Pharaoh.
 Motto, “Uobolllon to Tyrants Is Obedience to  
 Qotl.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1877070701:0012/pct:71.70968566317404,63.58543417366947,12.573473038589318,6.2625050020008/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1877070701:0012/pct:71.71607462305137,63.59043617446979,12.592639918221314,6.2625050020008/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -265,7 +265,7 @@ as six quarters, part one, coupe two. The
 est or, a rose enammelled gules and argent  
 ar England;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn84024448:00296020710:1886022101:0165/pct:7.185122569737954,133.25991189427313,50.12679628064244,8.259911894273127/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn84024448:00296020710:1886022101:0165/pct:1.7966603255125766,33.31497797356828,12.534347917987741,2.064977973568282/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -305,7 +305,7 @@ aiding his hand over the sea, causes it to
 erwhelm Pharaoh. Motto, &quot;Rebellion to  
 irants is Obedience to God.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn84024448:00296020710:1886022101:0165/pct:9.04480135249366,164.70264317180616,47.928994082840234,32.76431718061674/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn84024448:00296020710:1886022101:0165/pct:2.261678292115832,41.17566079295154,11.984781230183893,8.191079295154186/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -339,7 +339,7 @@ The great seal should on one side have
 the arms of the United States of America  
 which arms should be as follows:
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_foxtrot_ver01:data:sn86064205:00175035151:1886022201:0442/pct:44.43396226415094,66.24004994537225,59.81132075471698,39.769002653347904/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_foxtrot_ver01:data:sn86064205:00175035151:1886022201:0442/pct:11.113732892873998,16.560012486343062,14.959886739027842,9.942250663336976/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -367,7 +367,7 @@ causes it to overwhelm Pharoah. Motto
 Rebellion to Tyrants is Obedience to  
 Go
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_foxtrot_ver01:data:sn86064205:00175035151:1886022201:0442/pct:44.43396226415094,174.2469174340565,59.339622641509436,29.530201342281877/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_foxtrot_ver01:data:sn86064205:00175035151:1886022201:0442/pct:11.113732892873998,43.56172935851413,14.841906559697971,7.382550335570469/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -509,7 +509,7 @@ command, beaming on Moses, who
 stands on the shore. Motto, ‘Rebellion  
 to Tyrants is Obedience to God.1
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dorothy_ver01:data:sn85033295:00279550080:1889013001:0150/pct:24.742129939718687,35.690140845070424,14.172806430006698,27.5962441314554/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dorothy_ver01:data:sn85033295:00279550080:1889013001:0150/pct:24.7465952221478,35.69640062597809,14.177271712435811,27.593114241001565/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -535,7 +535,7 @@ the shore, and extending his hand over the
 Sea causes it to overthrow Pharaoh.  
 Motto: Rebellion to Tyrants Is Obedience to God
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_elm_ver01:data:sn82015483:00271764315:1889062801:0618/pct:33.46376811594203,63.85278756224948,13.347826086956522,5.988096684076279/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_elm_ver01:data:sn82015483:00271764315:1889062801:0618/pct:25.10872716729487,47.892627231871735,10.017396346767178,4.494109073241832/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -583,7 +583,7 @@ the sea, which caused it to overwhelm Pha
 roah. Underneath was the motto, &quot;Hebellion  
 to tyrants is obedience to Go
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_fernandez_ver01:data:sn83030272:00175045065:1893022201:0635/pct:283.24365872405843,209.28166641139532,51.191391237509606,46.867820493184254/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_fernandez_ver01:data:sn83030272:00175045065:1893022201:0635/pct:70.8517592770621,52.32041660284883,12.805229763507018,11.716955123296064/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -617,7 +617,7 @@ was tin motto. &quot;Rebellion to tyrants ii-
   
 obedience to God 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn92072978:00416156876:1893031501:0255/pct:82.20388921626399,42.55366726296959,15.51266941661756,7.468694096601073/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn92072978:00416156876:1893031501:0255/pct:61.662000884043024,31.920840787119857,11.639899808457345,5.601520572450805/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -679,7 +679,7 @@ caused it to overwhelm Pharoah. Under.
 neath was the notto, &quot;Rebellion to ty­  
 rants is obedience to God.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023296:00200296138:1893040501:0759/pct:210.2621722846442,91.81853431562621,42.99625468164794,21.97234070052992/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023296:00200296138:1893040501:0759/pct:52.58523791682278,22.954633578906552,10.753091045335331,5.49308517513248/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -705,7 +705,7 @@ caused it to overwhelm Pbaroah. Under­
 neath was the motto, &quot;Robellion to ty­  
 rants is obedience to God.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carlisle_ver01:data:sn86081853:00296026062:1893041401:0787/pct:56.05738575982997,34.1084223333784,12.07934821112292,6.245775314316615/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carlisle_ver01:data:sn86081853:00296026062:1893041401:0787/pct:56.063289644586135,34.1084223333784,12.07934821112292,6.259294308503447/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -787,7 +787,7 @@ it to overwhelm Pharoah. Underneath was the
 motto, “ Rebellion to tyrants is obedience to  
 God.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685154:1893122801:0221/pct:28.73060087544767,31.865569272976682,21.368881814564265,5.939643347050755/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685154:1893122801:0221/pct:28.72488561766461,31.861198738170348,21.37126185266229,5.943400539477895/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -836,7 +836,7 @@ reasons we have assigned will have their influ­
 ence to withhold his signature from the ratifica­  
 tion of this alarming instrument
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795072101:0474/pct:53.69886858137511,5.810702875399361,38.64229765013055,87.09065495207668/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795072101:0474/pct:53.7037037037037,5.817358892438764,38.65196789478774,87.08732694355697/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1130,7 +1130,7 @@ mi !•: I to his . ,i; lulera.iot.. And we c:- rr.cli 1 y hope,
 .•lid confide;. U i ■ i\, T. t h&#x27;-s prudence, fortituio ,  
 .ii d w • , w! i.!i l:ue me.re than once beer, tmi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_zarley_ver01:data:sn84038410:01000424529:1795080801:0061/pct:56.60839160839161,65.98735066760365,24.3006993006993,19.676739283204498/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_zarley_ver01:data:sn84038410:01000424529:1795080801:0061/pct:56.58860538273331,65.97189695550351,24.30094372596994,19.67798594847775/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1376,7 +1376,7 @@ whilea part ftnly of thofeof the United Slates have
 been bioug&#x27;flt into confiueration.&quot;  
 The »&#x27;o;ds of the treaty are, that &quot; the partie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795081501:0002/pct:29.220951874501463,10.54588473888795,21.324115926615264,11.221902991380768/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795081501:0002/pct:29.234246211114066,10.55856008112219,21.324115926615264,11.217677877302688/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1405,7 +1405,7 @@ and pretensions of his country, li&amp; aufe if brought
 into consideration, and proved to be unfounded, or  
 for any reafoti waved, it could not he expeited tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795081501:0002/pct:29.220951874501463,28.730775730944735,21.45705929274129,9.126246408653033/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795081501:0002/pct:29.234246211114066,28.743451073178974,21.45041212443499,9.122021294574953/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1443,7 +1443,7 @@ tion would lirft agree to indemnify the United
 States for all 1 ofit&#x27;s, that arose from otir not being  
 in possession of the posts the lafl twelve years
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795081501:0002/pct:29.779314012230788,63.42741254013858,21.324115926615264,15.514618894710157/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795081501:0002/pct:29.799255517149696,63.43586276829475,21.330763094921565,15.510393780632077/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1476,7 +1476,7 @@ The frrlt charge hei*e is, that claims&#x27;arifing from&#x27;
 captures ipaik oil Aofterican property ought not  
 tu have been iubir-.itt&#x27;id to ihe deeiiioi ef then ati-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795082001:0002/pct:7.194994786235662,48.04719960113013,21.063607924921794,12.248628884826326/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795082001:0002/pct:7.208029197080292,48.05135449559581,21.057090719499477,12.252783779292006/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1509,7 +1509,7 @@ with the country occupied by tin? Indians, within
 the territory of the United States, and that which  
 falls within the Britifli dominions, that by far th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795082001:0002/pct:29.24921793534932,60.9273724447399,20.985401459854014,11.683563237493768/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795082001:0002/pct:29.24921793534932,60.93152733920559,20.998435870698643,11.69602792089081/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1537,7 +1537,7 @@ of parties, that places their (hips and merchandize*
 reciprocally on the footing of the mod favored na  
 tions, and merely reserves a right to the British g
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795082001:0002/pct:50.86027111574557,17.36745886654479,20.907194994786234,7.545288349675919/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795082001:0002/pct:50.86678832116788,17.37161376101047,20.907194994786234,7.55775303307296/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1554,7 +1554,7 @@ of European and Afiatfc goods, wheu imported in­
 to the United States, in British or in American  
 relfels,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795082001:0002/pct:50.86027111574557,27.738075452883496,20.776850886339936,2.5095562572710652/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795082001:0002/pct:50.86678832116788,27.738075452883496,20.783368091762252,2.513711151736746/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1575,7 +1575,7 @@ kaye hitherto enjoyed in India, in cpmmou with o­
 ther nations, it so reilrifted, that in Future it will  
 be of little or no substantial benefit to our citizens,&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795082101:0002/pct:8.318264014466546,8.458864426419467,20.795660036166364,3.3107101473266014/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795082101:0002/pct:8.331180573495221,8.467141201787783,20.80857659519504,3.3231253103790763/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1607,7 +1607,7 @@ into the United States, to the exclufjon of our own
   
 citizens.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795082101:0002/pct:51.82123482304314,50.73663300778017,20.692327563936967,9.336202615461016/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795082101:0002/pct:51.84060966158615,50.73663300778017,20.68586928442263,9.344479390829333/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1631,7 +1631,7 @@ tion and circumitanees of the United Stat«s, and
 the pacific fyftemthey have adopted, that renders  
 the reciprocity purported by the terms of {aid trea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795082101:0002/pct:52.079566003616634,76.0304585333554,20.58899509170757,6.157920874027479/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795082101:0002/pct:52.086024283130975,76.03459692103957,20.621286489279257,6.17861281244827/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1876,7 +1876,7 @@ and the United States. Either pa:ty may
 except fuch pkce. as may be thought pro­  
 per, from the residents of thefe agents.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800122201:0002/pct:50.42330677290837,19.307450157397692,22.061752988047807,24.928796282416428/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800122201:0002/pct:50.43160690571049,19.312446909508818,22.078353253652057,24.928796282416428/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1945,7 +1945,7 @@ Neither the debts due from individuals of
 the one nation to indi» iduals of the other, nor  
 shares, nor monies which they may have ia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812070101:0604/pct:75.25063594194224,51.52499548817903,22.654496483615144,14.248330626240751/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812070101:0604/pct:75.2393776181927,51.520346476585765,22.656094155196488,14.2500526331619/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1986,7 +1986,7 @@ Article X. Neither the debts due from
 individuals ol me one nation to individuals ol  
 the other, nor shares, nor monies winch
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812070701:0621/pct:23.417055196270116,40.40515653775322,21.91306963453151,2.2099447513812156/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812070701:0621/pct:23.413533834586467,40.40143633182948,21.914786967418546,2.212810361231317/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2147,7 +2147,7 @@ have in public funds, nor jn public, or private banks
 shall ever, in any event of war, or of national dif­  
 ference, be sequestered or confiscated
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183992:1825062101:0054/pct:36.33196072220463,68.18344252531269,14.649984162179285,3.0136986301369864/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183992:1825062101:0054/pct:36.32620744259699,68.17532158170557,14.65294272895223,3.017309830077815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2170,7 +2170,7 @@ snail ewer, in a?&gt;y event of wjr, or of nt- I
 tional difference, be sequestered or con­  
 fiscated
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1825062201:0633/pct:25.816934464704822,5.088757396449704,36.23397725221159,90.11834319526628/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1825062201:0633/pct:25.82897033158813,5.092702169625246,36.22795931876993,90.12623274161736/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2194,7 +2194,7 @@ private banks, shall ever, in any event of
 war, or national tlitleie.iice, be m ipicstcred  
 or confiscated
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:0039334880A:1825062301:0341/pct:50.227178851714164,17.28951577722844,15.63403552251136,5.554747709757161/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:0039334880A:1825062301:0341/pct:50.21680776378278,17.287002035475428,15.635969440429486,5.557574876417563/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2317,7 +2317,7 @@ in public fuads; nor in public or private banks,
 shall ever, in auy event of war, or of pational  
 dificrence, be séquestered or confiscated
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1826101001:0161/pct:56.268540202966435,33.13045242442686,16.26854020296643,5.4372083586934465/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1826101001:0161/pct:56.27894873796513,33.13045242442686,16.27894873796513,5.447352404138771/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2338,7 +2338,7 @@ public or private Banks, shall ever in any
 of war) or National difference, be stquesltal&#x27;  
 confiscated 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216365:1826103101:0260/pct:82.08756006406834,58.05449542912932,17.20501868659904,4.36673471199077/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216365:1826103101:0260/pct:82.07660483117576,58.049343272985446,17.207171137506116,4.369305407644066/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2463,7 +2463,7 @@ public sands, nor in republic or private banks,
 shall ever in any event of war, or of national  
 differeace, be sequestered or confiscated
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1826112101:0185/pct:74.1302972802024,56.25319040326697,16.429475015812777,3.859111791730475/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1826112101:0185/pct:74.13556820577693,56.256593500085074,16.429475015812777,3.859111791730475/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2495,7 +2495,7 @@ or private banks, shall ever in any event
 of war, or of national difference, be se­  
 questered or confiscated
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1826113001:1176/pct:77.14451313755796,22.742277764678143,17.928902627511594,4.020278236265032/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1826113001:1176/pct:77.15739309634209,22.742277764678143,17.922462648119527,4.032067908512143/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2692,7 +2692,7 @@ public or private banks, shall ever, in any event
 Of war or national difference, be sequestrated  
 Of confiscated
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1829061501:0343/pct:8.692984250357947,53.55956678700361,14.236040089997955,3.407942238267148/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1829061501:0343/pct:8.69120654396728,53.55183367022813,14.238241308793455,3.4110597747617675/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2762,7 +2762,7 @@ they may have in public funds, nor in public or
 private banks, shall ever, in any event of war, or  
 national diffsrence be sequestered or confiscated
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1834061701:0409/pct:47.48556134666855,35.198014683073104,13.973799126637555,2.915934236376797/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1834061701:0409/pct:47.49495234070526,35.204908144624824,13.978494623655914,2.915934236376797/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2798,7 +2798,7 @@ private banks, skall ever, in any event of
 war or of national difference, be sequester  
 ed or confiscated
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197954:1836072801:0367/pct:85.70200573065902,67.96545914069081,20.186246418338108,18.36562763268745/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197954:1836072801:0367/pct:64.29287863590773,50.9793597304128,15.145436308926781,13.774220724515585/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2862,7 +2862,7 @@ nor in public or, private hanks, shall ever, in any
 event of war or of nafiénal difference, be sequester­  
 ed or confiscated. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1836091301:0351/pct:33.78961464067847,79.4407372100413,13.986013986013987,2.9446033259188646/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1836091301:0351/pct:33.78961464067847,79.44779860890442,13.986013986013987,2.93754192705575/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2928,7 +2928,7 @@ public or private banks, shall ever, mn any event of
 war or national difference, be sequestered or confiscat­  
 ed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1839052101:0289/pct:48.78761320479112,82.99178196192656,14.738533450189891,4.2442525746385105/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1839052101:0289/pct:48.78761320479112,82.99178196192656,14.748271496737754,4.2442525746385105/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3019,7 +3019,7 @@ have in publie funds, nor in public or private
 banks, shall ever, in any event of war or nation­  
 al difference, be sequestered or confiscated
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1839062601:1094/pct:79.08293752283522,68.59820485744456,14.395323346729997,4.171066525871172/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1839062601:1094/pct:79.08293752283522,68.59820485744456,14.419680915844598,4.175466385075677/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3052,7 +3052,7 @@ public funds, nor in public or private banks,
 shall ever, in any event of war or national dif.  
 ference, be sequestered or confiscated. |
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153231:1839070301:1030/pct:46.44537024593468,44.38213301849665,14.729203064104286,8.579299488390397/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153231:1839070301:1030/pct:46.45432961519509,44.388692115964844,14.729203064104286,8.585858585858587/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3112,7 +3112,7 @@ public or private banks, shall ever, in any event of war &quot;cos
 or of national difference, be sequestered or confiscated. confi  
 desa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848061601:0617/pct:61.78939034045922,59.02298128845912,17.244655581947743,8.250659299259073/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848061601:0617/pct:61.79994721562417,59.02298128845912,17.255212457112695,8.259031353342543/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3142,7 +3142,7 @@ in public or private banks, shall ever, in any event of
 war or of national diference, be sequastered or confiso  
 Art. 20. Both the contracting parties being desirou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271742976:1848061901:0716/pct:104.08196454708083,39.447463768115945,49.5202471946658,8.571105072463768/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271742976:1848061901:0716/pct:34.69398818236028,13.14915458937198,16.5067490648886,2.857035024154589/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3163,7 +3163,7 @@ private banks, shall ever, in any event of war
 or of national difference, be sequestered or  
 confiscated
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879063:1848070701:0109/pct:92.32008592910849,43.53140278300113,17.534908700322234,4.277924031590824/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879063:1848070701:0109/pct:69.24936215925877,32.65325310267018,13.15966160870149,3.2060925159834524/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3192,7 +3192,7 @@ which they may have in public funds, nor in public or pri­
 vate banks, shall ever, in any event of war or of national  
 difference, be sequestered or confiscate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191289:1848072201:0275/pct:142.2707423580786,365.77557755775575,58.82096069868996,8.217821782178218/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191289:1848072201:0275/pct:35.56768558951965,91.44389438943894,14.70524017467249,2.0544554455445545/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3231,7 +3231,7 @@ nor in public or private banks, shall ever, in any
 event of war or of national ditference, be seques­  
 tered or confiscated
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153279:1848081601:0789/pct:69.32555123216602,18.79080044190017,12.334630350194553,2.5107964246258914/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153279:1848081601:0789/pct:69.32555123216602,18.79080044190017,12.33895373973195,2.514144153192059/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3283,7 +3283,7 @@ sequestered or confiscated. . s ,
 Art. XXIX. Both the contracting parties being  
 desirous ofavoidins all inequality in relation to thei
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022615:1849032801:0479/pct:43.686868686868685,119.27083333333333,20.59483726150393,4.9851190476190474/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022615:1849032801:0479/pct:32.785964912280704,89.45578231292517,15.452631578947368,3.741496598639456/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3337,7 +3337,7 @@ public funds or in the public or private banks,
 shall ever, in any event of war or of national  
 difference, be sequestered or confiscated
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777791:1852090101:0566/pct:69.2657077971234,47.52717807380187,44.20893262679788,34.72668810289389/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777791:1852090101:0566/pct:17.31970471323112,11.881794518450468,11.05432519401855,8.681672025723472/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3434,7 +3434,7 @@ ney which they may have in public funds, nor in pablic
 or private banks, snail ever, in any event of war or oi  
 national didereuce, be sequestered or confiscated
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661216:1853042001:0490/pct:63.10367031551835,54.177660510114336,15.808113329040566,8.154290740042718/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661216:1853042001:0490/pct:63.114402232238675,54.177660510114336,15.802747370680404,8.16685513255434/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3464,7 +3464,7 @@ designate, and that noither the debts due from individuals
 of the one nation to the individuals of the other, nor shares  
 nor money in public tunds or banks, shall be sequestrate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743075:1853042501:0864/pct:148.47530659595625,130.10936431989063,46.00596619158104,7.644110275689223/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743075:1853042501:0864/pct:49.49176886531875,43.36978810663021,15.335322063860348,2.5480367585630743/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3502,7 +3502,7 @@ lic funds, nor in private banks, shall ever, in any
 event of war or of national difference, be sequest­  
 ered or confiscated
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293186:1854110501:0434/pct:228.51805728518056,145.0315075133301,49.066002490660026,10.567135239941832/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293186:1854110501:0434/pct:57.12951432129514,36.257876878332524,12.266500622665006,2.641783809985458/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3532,7 +3532,7 @@ funds, nor in public or private banks, shall ever, in
 any event of war or of national difference, be seques­  
 tered or confiscated
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn84022882:00414212426:1855050101:0198/pct:41.81404072883173,30.90441932168551,12.727759914255092,2.36382322713258/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn84022882:00414212426:1855050101:0198/pct:41.808439383791026,30.901243448771964,12.729403884795714,2.3661494193813586/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3552,7 +3552,7 @@ may have in the public funds, nor in public or
 private banks, shall ever, in any event of war,  
 or of national difference, be sequestered or con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_coyote_ver02:data:sn88071075:0029602515A:1856011901:0085/pct:298.9795918367347,206.67922589484502,65.87301587301587,16.78369583832848/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_coyote_ver02:data:sn88071075:0029602515A:1856011901:0085/pct:74.80851063829788,51.669806473711255,16.4822695035461,4.19592395958212/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3599,7 +3599,7 @@ in public or private banks, shall ever, in any
 event of war or ol national difference, be se­  
 questered or confiscated
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172121:1863020301:0114/pct:7.7847851793456835,7.175753974149457,15.84548679542767,4.085574208884267/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172121:1863020301:0114/pct:6.038389084058856,5.56515064287085,12.290616567384554,3.1740548838994433/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3669,7 +3669,7 @@ banks, shall ever, in any event of war or of
 national difference, be sequestered or confis­  
 cated
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291049:1863032101:0513/pct:36.34729462520223,48.20878813322138,14.129067050152795,3.9042821158690177/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291049:1863032101:0513/pct:36.34729462520223,48.21228659389868,14.142548984360957,3.9182759585782256/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3694,7 +3694,7 @@ event of war or of national
 diffsrence, be sequestered  
 or confiscated
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn83016318:00296024582:1863072901:0121/pct:202.38649592549476,217.8754813863928,18.335273573923168,11.360718870346599/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn83016318:00296024582:1863072901:0121/pct:67.49162905808706,72.62516046213094,6.114427136409958,3.7869062901155326/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3745,7 +3745,7 @@ erty, of either party, shall ever, in the event
 of the war or national difference, be seques­  
 tered or confiscated
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deltaair_ver01:data:sn86053570:0023728897A:1865072701:0086/pct:115.22157996146436,233.22428207924392,51.252408477842,9.305707015630679/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deltaair_ver01:data:sn86053570:0023728897A:1865072701:0086/pct:28.81233437725849,58.30607051981098,12.816188870151771,2.3264267539076697/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3765,7 +3765,7 @@ public or private banks, shall ever, in any event
 of waror of national difference, be sequestered or  
 confiscated
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn85042146:00296022834:1867012201:0041/pct:39.31181485992692,46.77530410833142,16.519488428745433,2.8804223089281615/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn85042146:00296022834:1867012201:0041/pct:29.504950495049506,35.08147808124856,12.3990860624524,2.1689235712646315/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

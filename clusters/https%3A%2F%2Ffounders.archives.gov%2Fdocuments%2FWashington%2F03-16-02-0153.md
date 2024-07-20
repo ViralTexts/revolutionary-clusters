@@ -243,7 +243,7 @@ erjoy the love, veneration, and esteem of these States
 whose liberties you have asserted by your virtues.&quot; The  
  Tala boy of the volume is occupied with the history o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fortran_ver01:data:sn83030214:00206531071:1871042201:0792/pct:4.634413652732112,280.95936794582394,49.19367465163614,10.936794582392777/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fortran_ver01:data:sn83030214:00206531071:1871042201:0792/pct:1.544804550910704,93.65312264860798,16.397891550545378,3.6455981941309257/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -304,7 +304,7 @@ good man. Hay you long enjoy the love, esteem, and
 veneration of those States whose liberties you have  
 asserted by your virtues. I am, et(L
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grand_ver02:data:sn84031492:no_reel:1875041101:0016/pct:84.57357859531773,80.94560404807085,12.771739130434783,3.795066413662239/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grand_ver02:data:sn84031492:no_reel:1875041101:0016/pct:84.58403010033445,80.94560404807085,12.787416387959865,3.8069259962049338/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -331,7 +331,7 @@ and veneration of those states whose liberties
 you bave asserted by your virtues. 1 am, eUx,  
 Thomas Cos w at
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016739:00295877509:1875042401:0634/pct:20.177935943060497,64.93970522554712,14.715302491103202,6.8929581658478485/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016739:00295877509:1875042401:0634/pct:15.147739409042364,48.71222271847551,11.035955856176574,5.165996724728301/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -358,7 +358,7 @@ and veneration of those States whose liberties
 you have asserted by your virtues. Iam, eta,  
 - - - Thomas Ohtwat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_norgay_ver01:data:sn84028194:0029602899A:1875042401:0177/pct:18.082727780883175,67.16472303206997,12.730575740637228,5.75801749271137/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_norgay_ver01:data:sn84028194:0029602899A:1875042401:0177/pct:13.574723892073257,50.37657920310981,9.548441213476863,4.324586977648202/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -455,7 +455,7 @@ and good man. May you long enjoy the love,
 veneration, and esteem of these states, whose  
 liberties you have asserted by your virtues!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_newfoundland_ver04:data:sn83045462:00280654632:1885022101:0630/pct:82.24852071005917,76.31762478828335,14.47014523937601,3.387466374414666/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_newfoundland_ver04:data:sn83045462:00280654632:1885022101:0630/pct:82.25860677783754,76.31762478828335,14.460059171597633,3.397429510810003/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -479,7 +479,7 @@ May you long enjoy the love, veneration, and
 esteem of those states, whose liberties you  
 have asserted by your virtues!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_hotel_ver01:data:sn87076916:00237289262:1885022101:0241/pct:44.19781931464174,85.53713438468796,16.1993769470405,5.849844992586602/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_hotel_ver01:data:sn87076916:00237289262:1885022101:0241/pct:33.164556962025316,64.15959024127241,12.151898734177216,4.380644291683515/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -528,7 +528,7 @@ great and good man.&quot; The soldiers
 stood ready at a moment&#x27;s notice to  
 suffer, to do and to die for him. At a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_isley_ver01:data:sn88076514:0029586381A:1899072101:0065/pct:20.779734811003365,63.239746765758326,14.209380566000396,3.137902559867878/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_isley_ver01:data:sn88076514:0029586381A:1899072101:0065/pct:20.779734811003365,63.24318744838976,14.214328121907778,3.151665290393614/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

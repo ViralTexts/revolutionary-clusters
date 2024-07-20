@@ -74,7 +74,7 @@ p the lee-way of our vessel. The changes in your house I see are going on for th
 
 ---
 
-## [From _The American review : a Whig journal of politics, literature, art, and science_](https://archive.org/details/sim_american-whig-review_1849-07_10_19/page/n15/mode/1up?view=theater)
+## [From _The American Review: a Whig Journal Devoted to Politics and Literature (1848-1850)_](https://archive.org/details/sim_american-whig-review_1849-07_10_19/page/n15/mode/1up?view=theater)
 
 #### 1849-07-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -158,7 +158,7 @@ Just so the aifteen thousand men enter after the fables into
 the speech.&quot;  
 Thomas Paine, during these proceedings, was i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530303:1850020501:0359/pct:88.67894315452362,188.7292427275939,41.39311449159327,18.819926981509834/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530303:1850020501:0359/pct:29.55964771817454,62.90974757586464,13.797704830531092,6.273308993836611/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -179,7 +179,7 @@ in their separate treasury, corresponding secretly and
 regularly, and of which socioty the very persons denoun­  
 aft the Penocrais are themiseives the woers, toencs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530303:1850030201:0461/pct:44.5668016194332,283.6234084803177,42.80161943319838,14.939843476229413/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530303:1850030201:0461/pct:14.855600539811066,94.5411361601059,14.267206477732794,4.979947825409804/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -198,7 +198,7 @@ better; and on September 21, 1797 he says to the
 same, &quot;It certainly is an attempt of a party wh  
 find they have lost their majority in a branch of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530303:1850030201:0461/pct:129.4251012145749,256.8741969396099,42.51012145748988,9.333021843242612/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530303:1850030201:0461/pct:43.1417004048583,85.62473231320328,14.17004048582996,3.1110072810808704/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -220,7 +220,7 @@ himsell tb be thh organ of such an attack oa if*
 freedom of discussion, the freedom of writing, print­  
 ing and publishing.” In allusion to the conduct o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157339:1853110301:0151/pct:80.22513440860214,56.17893290016244,12.214381720430108,3.1738098213170063/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157339:1853110301:0151/pct:80.2116579875693,56.171914042978514,12.216529480933984,3.176536731634183/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -241,7 +241,7 @@ We shall ‘ee I suppose, what the court lawyers,
 the courtly judges, and wonld-be Ambassadors,  
 will make of it. The excise law is an Infernal qua
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157339:1853110301:0151/pct:80.19153225806451,59.34024740722229,12.113575268817204,2.6989878795451707/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157339:1853110301:0151/pct:80.17806148160591,59.3328335832084,12.115739963043843,2.701774112943528/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -271,7 +271,7 @@ this problem will require the best faculties of
  te ae fe tader.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_itchweed_ver01:data:sn83030313:00271743877:1874071801:0206/pct:100.97343672661277,72.15131120909724,49.843260188087775,26.990020886516593/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_itchweed_ver01:data:sn83030313:00271743877:1874071801:0206/pct:33.65781224220426,24.05043706969908,16.614420062695924,8.996673628838865/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -359,7 +359,7 @@ and invoked the invincible spirit of liberty
 upon those associations of the  
 avowed object is the nourishment of the r
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044772:1882012701:0973/pct:74.12186379928315,77.97541576283442,49.89247311827957,17.932031814895154/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044772:1882012701:0973/pct:18.537110075295804,19.493853940708604,12.477590534241664,4.483007953723789/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -383,7 +383,7 @@ laughter, not of their fear; that their detess
 tation of the excise law is now associated  
 with a detestation of the Government
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_ettabaker_ver02:data:sn84026913:00237288105:1883101101:0164/pct:46.075984470327235,52.77176266782157,39.337215751525235,18.362927674317888/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_ettabaker_ver02:data:sn84026913:00237288105:1883101101:0164/pct:15.358661490109078,17.590587555940523,13.112405250508411,6.120975891439295/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -439,7 +439,7 @@ to admit it by the Constitution; the second to act on
 that admission.  
 The press is
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_lorca_ver01:data:sn83030272:00206533109:1888102101:0609/pct:283.34612432847274,140.39048200122025,50.65234075211051,8.785845027455766/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_lorca_ver01:data:sn83030272:00206533109:1888102101:0609/pct:70.8637236084453,35.09762050030506,12.667946257197697,2.1964612568639414/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -457,7 +457,7 @@ The first error was to admit it by
 the Constitution; the second t« act  
 on that admission
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_neely_ver01:data:sn85059778:00340582135:1888102601:0356/pct:71.12676056338029,64.26341758131105,12.028169014084508,2.7993152754002617/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_neely_ver01:data:sn85059778:00340582135:1888102601:0356/pct:71.1167441205464,64.25694724124044,12.031169318875277,2.8023895824942944/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -482,7 +482,7 @@ first error was to admit it into the Consti-
 tution; the second, to act in that admission  
 The press is
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn84024448:0029602076A:1888111801:1219/pct:181.19195046439629,235.86896168795113,49.922600619195045,23.82009994447529/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn84024448:0029602076A:1888111801:1219/pct:45.30675440294175,58.96724042198778,12.483065608670408,5.955024986118823/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -597,7 +597,7 @@ error was to admit it by the Constitution; the
 second, to act on the admission.&quot;  
 As soon as lefferson became President the in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mazda_ver01:data:sn83030214:0017503867A:1893121401:0609/pct:53.15242118947026,185.60665692117396,47.82255443613909,19.75711233554481/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mazda_ver01:data:sn83030214:0017503867A:1893121401:0609/pct:17.71747372982342,61.86888564039132,15.940851478713032,6.58570411184827/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -645,7 +645,7 @@ still adhere to.&quot;
 The apprehension of dissolution was not  
 a mere speculation, for there was grav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042945:1897070201:0408/pct:72.95839753466872,300.04546143355054,51.15562403697997,19.457493559630247/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042945:1897070201:0408/pct:18.25014453651956,75.01136535838764,12.796299865099249,4.864373389907562/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -718,7 +718,7 @@ The first error was to admit it by the
 constitution, the second to act on that  
 admission.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_caesar_ver01:data:sn82002441:00517011800:1899071501:0204/pct:62.166172106824924,44.51679232350925,13.63336630398945,12.645647703906786/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_caesar_ver01:data:sn82002441:00517011800:1899071501:0204/pct:62.177162325530276,44.524407889726604,13.627871194636773,12.645647703906786/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -755,7 +755,7 @@ constitution; the second, to ScTon that
 admission.&quot; Let every man bear the  
 burden of taxation alike. There Is n
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_green_ver01:data:sn91068367:00296024272:1899072801:0467/pct:107.26744186046511,74.4121163810283,18.715393133997786,2.899561578318055/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_green_ver01:data:sn91068367:00296024272:1899072801:0467/pct:80.46518067285062,55.80908728577123,14.038488162813236,2.1821442805898763/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

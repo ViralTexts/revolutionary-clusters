@@ -127,7 +127,7 @@ our sister states, could have prevailed upon a sufficient
 number to assent to it, fvitl.out stipulating for previous a­  
 mendments : And front a conviction that the apprehensi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813122701:0415/pct:72.67790262172285,13.679536203281115,22.359550561797754,8.622178364376465/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813122701:0415/pct:72.66429507582849,13.677849037987173,22.36160519253573,8.625226114125967/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -154,7 +154,7 @@ such a revision will be necessary to recommend itt
 the approbation and support of a numerous-body of  
 our constituents.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038518:00200293319:1861041601:0362/pct:340.9244644870349,164.1123882503193,45.152198421646,18.646232439335886/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038518:00200293319:1861041601:0362/pct:85.23111612175873,41.028097062579825,11.2880496054115,4.661558109833972/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -172,7 +172,7 @@ nothing but the fullest confidence of obtaining
 a revision could have prevailed on a sufficient  
 number to ratify i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044772:1881073101:0149/pct:77.28571428571429,372.5462505295862,49.57142857142857,7.047027256037283/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044772:1881073101:0149/pct:19.331784884759692,93.13656263239655,12.399499731999285,1.7617568140093207/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

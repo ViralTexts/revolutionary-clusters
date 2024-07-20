@@ -91,7 +91,7 @@ which he has been pleased to make use of in the
 administration of its government.  
 GEORGE WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789060601:0003/pct:28.941244909831298,43.488282750672305,26.643397324025596,46.79216288897426/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789060601:0003/pct:28.9630599185573,43.49308490203611,26.657940663176266,46.801767191701884/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -297,7 +297,7 @@ pleased to make use of iu the adniaii*
 (1 alien ot its government.  
 GEORGE WASHINGTON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1829091001:0151/pct:81.82420494699646,15.152783591460862,17.689929328621908,38.41216687595926/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1829091001:0151/pct:81.8061382203577,15.150669642857142,17.691543387061163,38.41029575892857/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -383,7 +383,7 @@ use of in the administration of ita go­
 vernment.  
 George Washingtoh.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1829091601:0935/pct:10.667621263647753,5.927121771217712,36.01217111150886,87.51153136531366/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1829091601:0935/pct:10.679553725911342,5.934809348093481,36.01217111150886,87.51537515375153/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -492,7 +492,7 @@ gate in his morals, or a bad member of the civil com­
 munity, can be a true Christian, or credit to his  
 own religious society.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022743:1855031001:0083/pct:2.3658830620855937,73.33009472917173,19.379144062688365,6.521739130434782/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022743:1855031001:0083/pct:1.7789838685361072,55.00364342968181,14.54846977235037,4.894340539227593/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -516,7 +516,7 @@ ptem his morals, or a bad member of the civil coni­
 &quot;&#x27;Unity, can be a true Christian, or a credit to his  
 own religions society.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022639:1855031401:0465/pct:2.8546712802768166,81.79728546409807,19.319492502883506,6.654991243432574/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022639:1855031401:0465/pct:2.1488318430920104,61.350700525394046,14.4937986732045,4.991243432574431/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -704,7 +704,7 @@ which he has been pleased to make uso of iu the
 administration of its government.  
 GKui:(ih Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555651:1876051101:0609/pct:59.39767779390421,48.12262691604556,16.491291727140784,24.483195049922656/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555651:1876051101:0609/pct:44.581593755672536,36.09900154689917,12.379742239970957,18.36591196737449/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -755,7 +755,7 @@ eiT.&#x27;.rs, particularly necessary for advanc­
 ing and confirming the happiness of our  
 cou try.— WaxMniflon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_antares_ver03:data:sn90059959:00295876864:1887081301:0538/pct:21.064197143305602,51.05645248672662,13.828284413749804,3.2939646765630077/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_antares_ver03:data:sn90059959:00295876864:1887081301:0538/pct:21.074661225344006,51.060064290100044,13.823052372730602,3.297576479936432/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -777,7 +777,7 @@ and confirming the happiness of
 our country. Washington.  
 This
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn84025891:00211102925:1887082701:0279/pct:60.0451467268623,84.5153890269547,19.892776523702032,6.891607723188683/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn84025891:00211102925:1887082701:0279/pct:45.0402144772118,63.391320971133624,14.928742768449274,5.171095392850315/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -799,7 +799,7 @@ aff lira, particularly necessary for advanc­
 ing and confirming the happiness of our  
 country.— Washington.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn86077146:00513685129:1887112301:1098/pct:7.8789179905538855,49.77994341402075,13.610991841992272,4.432568374724929/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn86077146:00513685129:1887112301:1098/pct:7.877226872719468,49.77212006914977,13.613436359733848,4.435800722929436/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

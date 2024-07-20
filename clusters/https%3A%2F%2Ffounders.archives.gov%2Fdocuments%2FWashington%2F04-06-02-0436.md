@@ -44,7 +44,7 @@ It is only necessary to add for your satisfaction, that, as all the States, whic
 
 ---
 
-## [From _The American review : a Whig journal of politics, literature, art, and science_](https://archive.org/details/sim_american-whig-review_1849-07_10_19/page/n2/mode/1up?view=theater)
+## [From _The American Review: a Whig Journal Devoted to Politics and Literature (1848-1850)_](https://archive.org/details/sim_american-whig-review_1849-07_10_19/page/n2/mode/1up?view=theater)
 
 #### 1849-07-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -129,7 +129,7 @@ first instance, it is expected the government wiH be in com­
 plete organization and execution before the commencement  
 of thei ensiling year
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850082401:0938/pct:63.68240483581114,24.412614650081668,15.96144420846267,21.459982409850483/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850082401:0938/pct:63.687850569079124,24.412614650081668,15.96144420846267,21.4683586715249/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -402,7 +402,7 @@ and most polite people on earth to prevent us from becoming a -reat a
 respectable, and a commercial nation, if we shall continue united and faith­  
 ful to ourselves
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_tower_ver01:data:sn90059523:00206537000:1898122501:0339/pct:70.30406365444729,7.60306608659623,24.893435635123616,6.442925212347213/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_tower_ver01:data:sn90059523:00206537000:1898122501:0339/pct:70.30406365444729,7.60306608659623,24.907644217107133,6.442925212347213/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -426,7 +426,7 @@ nation if we shall continue united and
 faithful to ourselves.  
 I hope some day we shall become 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_kryptonite_ver01:data:sn86069180:00100481790:1899022501:0163/pct:42.57586705202312,76.1891592920354,16.419797687861273,8.393252212389381/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_kryptonite_ver01:data:sn86069180:00100481790:1899022501:0163/pct:31.94795807734008,57.148783185840706,12.323816407661727,6.291482300884955/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -455,7 +455,7 @@ us from becoming a great, a respectable
 and a commercial nation, If we shall con­  
 tinue united and faithful tc. ourselves.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_japanesechin_ver01:data:sn83045462:00280655302:1899121501:0165/pct:15.694879832810868,18.979815365357535,13.918495297805643,6.024096385542169/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_japanesechin_ver01:data:sn83045462:00280655302:1899121501:0165/pct:15.700104493207942,18.991550618056642,13.934169278996865,6.016272883742763/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

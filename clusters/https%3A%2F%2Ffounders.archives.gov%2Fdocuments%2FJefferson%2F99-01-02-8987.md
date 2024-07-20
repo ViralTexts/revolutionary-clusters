@@ -35,7 +35,7 @@ r purred by the states ? while uncertain of the course
 of things, the time may he advantageously employed  
 in obtaining the pricers urecessan/ for a svstem o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1816110201:0209/pct:33.11634117843432,53.03379416282642,15.907194124520114,4.480286738351254/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1816110201:0209/pct:33.11081441922563,53.027006271598616,15.91010235870049,4.483979691966381/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -214,7 +214,7 @@ amendments of the constitution as
   
 may be approved by the States?&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn84024448:00296020710:1886062301:0831/pct:32.07388748950462,234.10087719298247,49.706129303106636,16.337719298245613/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn84024448:00296020710:1886062301:0831/pct:8.023524469649233,58.52521929824562,12.434362528880488,4.084429824561403/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -234,7 +234,7 @@ Or shall it not rather be appropriated
 to the improvements of roads, canals,  
 rivers, education (the latter word is i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eagle_ver01:data:sn83025733:00200297167:1887010301:0008/pct:230.9278350515464,298.062792251169,66.80412371134021,14.896459585838343/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eagle_ver01:data:sn83025733:00200297167:1887010301:0008/pct:57.77663141604333,74.51569806279225,16.713954088212535,3.724114896459586/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

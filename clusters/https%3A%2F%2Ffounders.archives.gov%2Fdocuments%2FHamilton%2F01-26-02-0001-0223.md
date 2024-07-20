@@ -141,7 +141,7 @@ idgc or cenverfa&#x27;ion of Gtn. I.
 which col. Burr will Specify, a ptompt  
 and trank avowal or denial v^ill be giv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804072301:0002/pct:57.20792079207921,41.51236566101256,16.495049504950494,13.349734559109155/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804072301:0002/pct:57.22112211221122,41.51668177305883,16.495049504950494,13.358366783201692/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -184,7 +184,7 @@ vyof General Hamilton, which Col. Burr will
 jpecify, a prompt and frank avowal or de.  
 . , n&#x27;al will be given. ’ _ fSt&#x27;fr,. - «,/ &lt;* * 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804072401:0017/pct:7.1658814778080835,75.28391167192429,22.63823456484007,13.501577287066246/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804072401:0017/pct:7.164105106593952,75.27203911055038,22.638820029747148,13.503390632392367/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -215,7 +215,7 @@ fution of gen. H. which col. Burr will fpeeify, a
 prompt and frank avowal and dental will be gi­  
 ven
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804072501:0098/pct:76.33103947844984,7.246376811594203,17.185802245563202,9.52023988005997/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804072501:0098/pct:76.31721890277024,7.245471580262336,17.188725933973082,9.523214657505726/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -249,7 +249,7 @@ on ol General II. which Col. Iiur.* will
 speedy, a prompt and irank avowal 01 de­  
 nial v. ill b&lt; given
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804072501:0223/pct:42.74224435082344,12.807752750130959,36.193029490616624,82.80513357778942/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804072501:0223/pct:42.73406088454911,12.806075684169176,36.19248197077031,82.79865566758326/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -280,7 +280,7 @@ or converfation of Gen, H. which Col, Burf
 will fpecify, a prompt and frank avowal or de­  
 nial will be given, o 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1804072601:0528/pct:46.64270853035748,74.8457847840987,19.822205409494988,10.954992003655471/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1804072601:0528/pct:46.64270853035748,74.85340035031605,19.841119727633817,10.954992003655471/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -328,7 +328,7 @@ on of General II. which Col. Burr will
 specify a prompt and frank avowal oi dt  
 nial wtil he given
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804072801:0226/pct:23.161340007701195,15.411581407426642,18.405852907200615,22.903142041028303/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804072801:0226/pct:23.156881616939366,15.409580682850837,18.408726339428938,22.904496083776884/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -461,7 +461,7 @@ fation ef general H. which cob i^urr will fpc
 cify. a prompt and frank avowal or denial wii  
 be given
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016081:00332895060:1804073001:0159/pct:48.882990488829904,37.88994510643995,22.318071223180713,11.929307805596466/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016081:00332895060:1804073001:0159/pct:48.87218045112782,37.88487282463186,22.318664307828396,11.931057563587684/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -511,7 +511,7 @@ of General H. which Col. Burr will
 {pecify, a prompt and frank avowal  
 or denial wiil be given
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804073101:0535/pct:5.202671222239478,9.84062980030722,71.78133250504737,85.75268817204301/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804073101:0535/pct:5.207848009525288,9.843830005120328,71.78650929233318,85.75588837685612/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -546,7 +546,7 @@ jew coaveraetiott of General
 that Colonel Burr will aniicmr, a  
 prompt and frank avowal or denial wil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1804080301:0311/pct:48.87218045112782,12.892046439092011,40.037593984962406,81.54565933113845/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1804080301:0311/pct:48.85906040268456,12.88981288981289,40.033557046979865,81.53586278586279/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -684,7 +684,7 @@ stance of dishonourable conduct nor re­
 4 will specify, a prompt and frank avowal­  
 4 or deuial will be given.”, : ^ 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804082801:0076/pct:68.60974980655146,61.34798294522794,21.898375032241425,13.87340111511971/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804082801:0076/pct:68.59205776173285,61.33792424987703,21.89917483238783,13.875225446794557/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -712,7 +712,7 @@ stance of dishonourable conduct, nor re­
 late to his private character.’  
 Mr. Van Ness says that in a conversati
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804083001:0080/pct:4.568921011874032,37.83068783068783,20.36654620547238,10.069444444444445/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804083001:0080/pct:4.567741935483871,37.82443379070921,20.36774193548387,10.071912712845098/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -732,7 +732,7 @@ any instance of dishonorable conduct; nor re­
 late to his private character; and that in rela­  
 tion to any other language or conversation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025007:00414216493:1834051401:0465/pct:23.702830188679247,56.75026680896478,18.487945492662472,3.4418356456776946/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025007:00414216493:1834051401:0465/pct:23.69972487881567,56.74522009782125,18.48989038822656,3.4444938491181265/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

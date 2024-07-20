@@ -178,7 +178,7 @@ refpelable Citizens, making in the whole near Five Hundred.,
 ~ After Dioner, the following TOASTS were drank, accom­  
 panied bv Music and a Discharge of Cangon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774093001:0324/pct:37.617765814266484,70.80536912751678,27.18707940780619,6.857309600233441/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774093001:0324/pct:37.617765814266484,70.8150958078008,27.202033796919395,6.86703628051746/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

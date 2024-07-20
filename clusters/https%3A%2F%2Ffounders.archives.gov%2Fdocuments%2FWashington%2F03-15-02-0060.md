@@ -163,7 +163,7 @@ fend the said United States against tin
   
 sa&#x27;d Kio); George the Third, his In i snd
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027479:1861061201:0130/pct:23.215356928614277,34.32799611838913,50.749850029994,14.507520621057738/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027479:1861061201:0130/pct:17.419354838709676,25.752062105773895,38.09452363090773,10.880640465793304/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

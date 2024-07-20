@@ -291,7 +291,7 @@ such officer or officers of the militia as he lhall think proper:
 and in cafe of an infurreftion in any Stale, against the government  
 thereof, it lhall be lawful for the Preftdent ot the United States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792052301:0001/pct:8.14676616915423,54.30555555555556,27.611940298507463,5.892857142857143/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792052301:0001/pct:8.154539800995025,54.320436507936506,27.619713930348258,5.882936507936508/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -307,7 +307,7 @@ thereof, it lhall be lawful for the Preftdent ot the United States
 &quot; an ast to provide for the defence of  
 certain ports and harbors in the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794031901:0002/pct:11.404639175257731,53.863359089060594,18.975515463917525,1.5453436356242376/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794031901:0002/pct:11.412693298969073,53.86844245628304,18.983569587628867,1.560593737291582/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -341,7 +341,7 @@ sentatives difagfee to the amendment of the
 Senate to &quot; The resolution to authorize the  
 President of the United States to grant 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794051201:0003/pct:7.875826386892785,26.380706921944036,18.855993101465938,12.315905743740796/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794051201:0003/pct:7.875826386892785,26.394513991163475,18.877551020408163,12.311303387334315/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -362,7 +362,7 @@ which have been destroyed by fire.
 27. An aft directing a detachment  
 from the militia of the United States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794062001:0002/pct:9.1699604743083,65.94982078853046,15.678524374176549,4.796040279911248/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794062001:0002/pct:9.183135704874836,65.95835466803209,15.685111989459816,4.800307219662058/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -395,7 +395,7 @@ President be discovered to exist.&quot; In either
 of those cases, he is authorized to raise twen­  
 ty four additional regiments of infantry, on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799040301:0002/pct:62.02733485193622,30.726965342349956,15.945330296127562,11.073541842772611/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799040301:0002/pct:62.03872437357631,30.734009580163427,15.933940774487471,11.066497604959144/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -418,7 +418,7 @@ the rations and forage of a major in full
 compensation for his services and travelling  
 expencet; and the deputy, in addition t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1800031401:0002/pct:11.359026369168356,79.23196142586534,15.998985801217039,5.717237816428448/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1800031401:0002/pct:11.378042596348884,79.24057172378164,15.992647058823529,5.717237816428448/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -510,7 +510,7 @@ that purpose to such officer or officetB cl the ntilil.n
 as he shall think pmper,”&amp;c. Ur.  
 * The men called out under this art, are to serv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1814040901:0423/pct:40.56343214877555,23.87985602581606,17.639477076044926,5.32456249224277/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1814040901:0423/pct:40.5559646539028,23.876892529163563,17.64236622484045,5.328038388351121/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -535,7 +535,7 @@ Jiis orders for th it purpose, to such officer or
 officers of the militia as he shall think pro­  
 per.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1815010701:0320/pct:2.8488477590273997,75.10321531339922,20.25040827436037,6.242962592268235/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1815010701:0320/pct:2.8483309143686504,75.09382036527396,20.25278180938558,6.246351430239346/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -935,7 +935,7 @@ pose, to such officer or officers of the militia as
 he shall think proper.” Had the Goveroor  
 written to the Presideot, he would have re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1827050801:0283/pct:5.904059040590406,34.42955745026391,16.405289052890527,10.83028826634186/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1827050801:0283/pct:5.909184091840919,34.42955745026391,16.415539155391553,10.837055081878468/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1008,7 +1008,7 @@ and in case of an iltsurrection in any State,
 •gainst the government thereof, it shall he law­  
 ful for the President of the United states, o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186920:1833010301:0101/pct:68.86763344646714,33.13287189379326,13.884603517432891,7.023714966526722/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186920:1833010301:0101/pct:68.85701064322073,33.12911277513047,13.887603475757109,7.026699947053929/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1319,7 +1319,7 @@ their territory by any such power, shall, in im opinion
 be discovered to exist &#x27; Two millions appropriated’  
 and the 1 resident authorized to borrow the money
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184091:1836020901:0336/pct:4.560530679933665,65.60344827586206,14.897733554449973,2.6831896551724137/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184091:1836020901:0336/pct:4.5599005112615725,65.59637970046332,14.900280963566855,2.6864921165104336/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1864,7 +1864,7 @@ tion, and in the order provided for in the 15th
 head, as he may judge necessary to repel  
 such invasion ; and to issue his orders to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183682:1840050701:0252/pct:23.336517032792106,24.407878334579905,14.438077045526903,5.472450760408876/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183682:1840050701:0252/pct:23.332802801209613,24.40483609622336,14.441084407660885,5.475923386929245/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1917,7 +1917,7 @@ order provided for in the 15th head, as he may
 judge necessary to repel such invasion ; and to  
 issue his orders to the proper officer. And i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840051401:0200/pct:82.00574094007894,5.4989816700611,15.697883028345892,4.315173116089613/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840051401:0200/pct:82.01770123191005,5.503224711473184,15.691902882430332,4.323659198913782/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1957,7 +1957,7 @@ insurrection. &quot;
 United States shall bo opposed, or tho ex­  
 ecution thereof obstructed, in any State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_kingsombra_ver01:data:sn83016884:0041566199A:1840051901:0196/pct:24.338942307692307,11.554951375091498,17.442908653846153,20.443375509777265/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_kingsombra_ver01:data:sn83016884:0041566199A:1840051901:0196/pct:18.25694966190834,8.668827773711179,13.087903831705484,15.329917389940395/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1981,7 +1981,7 @@ as he may judge necessary to repel such invaslonl
 and to issue his orders to the proper officer. And  
 in case of an insurrection in any State against th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348872:1840052501:0342/pct:324.16731216111543,173.66816664247352,63.07126258714175,19.872260124836696/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348872:1840052501:0342/pct:81.02613746369796,43.410740203193036,15.764762826718297,4.967343976777939/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2097,7 +2097,7 @@ thereof, it shall be lawful
 for the President of the U.  
 States, on application ol th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1840091101:0616/pct:44.73802060008956,73.41797262447928,8.016121809225258,10.622892283277128/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1840091101:0616/pct:44.74797233417923,73.42458506910005,8.011145942180425,10.61958606096674/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2735,7 +2735,7 @@ repel such invasion, ami to issue his order lor&#x27;that purpose
 to sitWi vjj\&gt;&#x27;rv or ojjhera of the tnHtliu aa he shall think proper *  
 &quot;In practice, this law has always been Interpreted t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661125:1845090201:0428/pct:14.354995150339477,64.59462867229857,15.470417070805043,3.454797629554911/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661125:1845090201:0428/pct:14.354995150339477,64.59462867229857,15.486582605884255,3.467406380027739/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2789,7 +2789,7 @@ terms : 44 Whenever the United States shall be in­
 4 or officers of the militia as he shall think proper.&quot;  
 In practice, this law has always been interprete
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1845090601:0218/pct:2.755422179784477,38.17180616740088,15.072977765652707,6.740088105726873/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1845090601:0218/pct:2.75996908107125,38.1791483113069,15.072977765652707,6.736417033773862/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2812,7 +2812,7 @@ necessary, to repel such invasion, and to issue hi*
 order for that purpose to such officer or officers of  
 the militia as he shall think proper.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1845090601:0220/pct:2.2240640972510017,23.59575166976897,15.65133305705208,5.9564217672177815/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1845090601:0220/pct:2.2240640972510017,23.599401438008687,15.65133305705208,5.960071535457498/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2853,7 +2853,7 @@ So far as the Unitea Slates are, then, concerned thos
 in repelling invasion, the President acts as the rep- the  
 resentative of the nation; and this without a formal dea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846052301:0545/pct:14.06201064829314,11.04759537715919,27.309740056373318,87.06350192618368/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846052301:0545/pct:14.072450151372795,11.055880038109441,27.30452030483349,87.05935959570854/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2919,7 +2919,7 @@ ed in repelljne invasion, the President acts as
 the representative of the nation; and this without  
 ? frnnii declaration of w?r by Congress, to u&lt;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1846052901:0628/pct:4.784336817311939,89.7255123143448,13.484469306639188,7.463808986651626/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1846052901:0628/pct:4.784336817311939,89.7255123143448,13.499190343000148,7.466942407720749/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3048,7 +3048,7 @@ in ease of an insurrection in any state,
 against the Government thereof, it shall be  
 lawful for the prosident of the United State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279559836:1850083101:0261/pct:219.76212259835316,337.491961414791,51.80695333943275,29.662379421221864/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279559836:1850083101:0261/pct:54.92796707066088,84.35942774473557,12.948776583581065,7.41440282912715/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3102,7 +3102,7 @@ solute destruction to our country? Re­
 collect, Mr. President, that those provi­  
 sions are meant to meet the case of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777808:1855032101:0256/pct:322.74959083469724,100.21800062285892,46.89034369885434,62.41046402989723/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777808:1855032101:0256/pct:80.72042570609906,25.05450015571473,11.727384363487515,15.602616007474307/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3448,7 +3448,7 @@ Government thereof, it shall be lawful for the
 President of the United States, on applica­  
 tion of the Legislature of such State, or o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn84038814:00279557219:1861050301:0298/pct:15.776833548863847,3.7086624715490695,25.66044707186403,92.46217699825947/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn84038814:00279557219:1861050301:0298/pct:15.776833548863847,3.715356808140313,25.678921115832257,92.46217699825947/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3498,7 +3498,7 @@ where a regular course of instruction is given,
 is an obvious expedient which different nations  
 have successfully employed.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_continental_ver02:data:sn82014760:00237288804:1861070201:0612/pct:77.78793418647166,65.14745308310992,58.50091407678245,34.11528150134048/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_continental_ver02:data:sn82014760:00237288804:1861070201:0612/pct:19.46032471987194,16.28686327077748,14.635261833981248,8.52882037533512/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3522,7 +3522,7 @@ four designing and drawing masters, one riding master
 and one fencing master.  
 In 1802 Congress passed the act establishing the Milit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271743403:1862011301:0119/pct:23.54183590576767,147.77471897224135,50.91795288383428,14.980500114705208/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271743403:1862011301:0119/pct:7.84727863525589,49.25823965741378,16.972650961278095,4.993500038235069/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3592,7 +3592,7 @@ a aetious care,or every OvernnieB; or this
 y t-i trpic,-an aeadeMTr where a -MgsUat coursejn Jn  
 trw.tin fsf grverl,- ia-an obvious ex
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022809:1862040201:0109/pct:27.140013271400132,106.59611992945327,22.179827471798276,15.426219870664315/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022809:1862040201:0109/pct:20.361765682044474,79.95296884185773,16.644540325257218,11.569664902998236/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3618,7 +3618,7 @@ present rebellion would never had occurred; and
 had the Federal Government listened to the ad­  
 vice contained in the foregoing extract from hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn82014306:00202191691:1862090101:0392/pct:60.676940011007154,109.63081861958267,16.400660429279032,6.771669341894061/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn82014306:00202191691:1862090101:0392/pct:45.527112579135704,82.223113964687,12.303881090008257,5.086276083467094/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3889,7 +3889,7 @@ repel such invasions, and in case of an insurrection i
 any State, against the Government thereot, it shall b  
 lawful for the President of the United States on applic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:00206533523:1879061101:1030/pct:78.60262008733625,233.86430678466076,47.67103347889374,34.985250737463126/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:00206533523:1879061101:1030/pct:19.650655021834062,58.46607669616519,11.917758369723435,8.746312684365781/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3915,7 +3915,7 @@ proved and perfect state, is always of
 great moment to the security of a  
 nation.&quot; General Scott, though h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_palisade_ver02:data:sn84022046:00279553998:1880052201:0492/pct:16.998468606431853,176.7794043412418,50.019142419601835,27.725896012115093/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_palisade_ver02:data:sn84022046:00279553998:1880052201:0492/pct:4.248803827751196,44.18927444794953,12.502392344497608,6.930599369085174/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4018,7 +4018,7 @@ previous study, and tbat the possession of it, in
 Its most important and proper state, is always  
 of grant moment to the secretary of a nation.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eeyore_ver01:data:sn87052143:00294556588:1881022601:0041/pct:86.95129284425737,12.606555408812582,13.078773301262778,8.848601272661783/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eeyore_ver01:data:sn87052143:00294556588:1881022601:0041/pct:65.24289366822079,9.460919678232681,9.821025718153106,6.63945251530796/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4199,7 +4199,7 @@ The art of war, however, by process of never ceasing
 I xpansion, has become so comprehensive and  
 complicated that it is fow impossible to include al
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_triumph_ver01:data:sn83030214:00175038590:1892120501:0486/pct:203.1496062992126,209.7596585804133,47.35892388451443,14.959568733153638/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_triumph_ver01:data:sn83030214:00175038590:1892120501:0486/pct:67.71653543307086,69.9198861934711,15.786307961504813,4.986522911051213/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4234,7 +4234,7 @@ the necessity existed. The question of
 the relative powers of the general and  
 and state governments over the militi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_hornacek_ver01:data:sn83045555:206539732:1895070601:0268/pct:82.08542713567839,112.81560826319816,36.4070351758794,30.011476664116298/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_hornacek_ver01:data:sn83045555:206539732:1895070601:0268/pct:27.368685599396834,37.605202754399386,12.138728323699421,10.003825554705433/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4395,7 +4395,7 @@ necessary to repel such invasion and
 to Issue his orders for that purpose to I  
 such officers of the militia as he ma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:0020653476A:1898032801:0265/pct:28.2890132960112,33.98456943753111,19.104268719384184,10.340965654554505/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:0020653476A:1898032801:0265/pct:18.862642169728783,22.66052762568442,12.738407699037621,6.893977103036336/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4424,7 +4424,7 @@ like provisions are made for the other
 eases stated in the constitution.&quot;  
 it lias not been denied here that til
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_jackman_ver02:data:sn82014248:00514155951:1898040701:0051/pct:17.15686274509804,54.67564084204496,12.726244343891402,6.186452813976801/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_jackman_ver02:data:sn82014248:00514155951:1898040701:0051/pct:17.15362865221489,54.66781214203895,12.72855796418473,6.1891466208476515/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

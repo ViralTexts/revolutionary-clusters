@@ -41,7 +41,7 @@ the commerce carried on by the citizens of the Unit­
 ed States to the French Island of St. Domingo.  
 . Th : JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806012001:0917/pct:31.454149528187756,86.24220124780035,20.73554318896685,4.911214205727084/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806012001:0917/pct:31.446540880503143,86.22840690978887,20.73657474600871,4.914427383237364/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -68,7 +68,7 @@ States to tie french Iflani of St.
 Domingo.  
 TH : JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895060:1806020301:0771/pct:1.9111570247933884,46.76802041250266,17.493112947658403,10.971720178609399/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895060:1806020301:0771/pct:1.910828025477707,46.76304879345169,17.494405233258735,10.973211438290635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -93,7 +93,7 @@ States to the French Island ®f St. Do­
 ! mingo.  
 TH: JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806020401:0045/pct:23.46996069623807,24.405458089668617,17.480816020962006,7.1345029239766085/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806020401:0045/pct:23.46556886227545,24.402286902286903,17.48378243512974,7.1379071379071375/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -122,7 +122,7 @@ the citizens ot the United States, to the F ucnc‘
 land ot St. Domingo.  
 TH : JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1806020601:0692/pct:69.89369779802581,30.510060832943378,20.045558086560366,8.5634066448292/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1806020601:0692/pct:69.89369779802581,30.510060832943378,20.05821311060491,8.5634066448292/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -218,7 +218,7 @@ the commerce Cairied on by the citizms nf the U­
 niled States to the French Island of St. Domingo.  
 Tit : JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810011501:0880/pct:5.566700100300903,18.18624269954575,21.08826479438315,5.353666450356911/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810011501:0880/pct:5.565304587615944,18.18329278183293,21.089245424918527,5.356853203568532/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

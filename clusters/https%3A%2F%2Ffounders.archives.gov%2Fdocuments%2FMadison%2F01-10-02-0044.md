@@ -218,7 +218,7 @@ an it wa* more than probable that we were now digesting a
 4 careful to supply the defect* which our own experience had  
 &#x27;particularly pointed out.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848010101:0028/pct:34.9942726231386,82.82611155108044,15.32073310423826,7.9307613983482295/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848010101:0028/pct:34.9942726231386,82.83365388241505,15.325505918289423,7.926990232680922/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -486,7 +486,7 @@ interested coalitions to oppress the minority to
 be guarded against?&quot; Ihe guarantee clause  
 of the federal Constitution answers the ques
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551281:1874043001:0138/pct:1.6090935931502806,87.03204552261155,16.40094478889873,10.202655485674354/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551281:1874043001:0138/pct:1.6090935931502806,87.03870087517886,16.410786339927174,10.202655485674354/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -522,7 +522,7 @@ Federal Constitution answers the ques­
 tion, and it has boon reserved to the  
 present time to justify the wisdom of tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_heddalettuce_ver01:data:sn93067790:00294558755:1874043001:0513/pct:34.42832084197098,67.2507403751234,15.994259288789667,17.31243830207305/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_heddalettuce_ver01:data:sn93067790:00294558755:1874043001:0513/pct:34.43895178865678,67.25896676538335,15.994259288789667,17.31243830207305/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -539,7 +539,7 @@ are placed above indigence against the agrarian attempts of the ever­
 increasing class who labor under all the hardships of life, and secretly  
 sigh for a more equal distribution of its blessings.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn85032018:00280760961:1894090501:0355/pct:85.6283422459893,106.35892604804522,43.761140819964346,3.1559114460668867/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn85032018:00280760961:1894090501:0355/pct:57.09828393135725,70.90595069869681,29.19545353242701,2.103940964044591/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

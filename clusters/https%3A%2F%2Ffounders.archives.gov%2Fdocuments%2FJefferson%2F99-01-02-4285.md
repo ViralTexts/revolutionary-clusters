@@ -156,7 +156,7 @@ on (the ultimatum on our part J wu re­
 jected by the court of Madrid with dis­  
 dain t and thus ended the negotiation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1806091901:0655/pct:68.77049180327869,81.97643748901002,21.010928961748633,8.369966590469492/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1806091901:0655/pct:68.75170718382955,81.9620253164557,21.012018574160066,8.37289029535865/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -174,7 +174,7 @@ position to the views of the executive, as
 expressed in the president&#x27;s official com­  
 munication (it was on this occasion tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1806091901:0656/pct:51.727982162764775,70.72448624172762,20.345596432552956,3.0477185649599443/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1806091901:0656/pct:51.71356923934243,70.71217133902142,20.346893285037616,3.051541006442626/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -203,7 +203,7 @@ be limited even by the Colorado itfelf.
 It is certain, that thofe iudrudions were ne­  
 ver efi, tally communicated to Congrvfs ; but i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1806102401:0195/pct:22.86664203915774,26.386992677175126,17.565570742519395,8.53915849571801/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1806102401:0195/pct:22.86241920590951,26.383718044179698,17.568482610033858,8.542235459584678/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -275,7 +275,7 @@ chafe of Florida “ was in dire&#x27;l oppofttion to the
 views of the executive, as expretfed in the Pre­  
 fi&lt;lent*s official communication.” But the pub
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1806102401:0195/pct:22.97746582933136,2.978776219436515,35.98079054303657,92.72682139754251/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1806102401:0195/pct:22.973222530009235,2.9784065524944157,35.98030163127116,92.7194506494581/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -320,7 +320,7 @@ looked their instructions ; but what o­
 ther reasons have we for such a belief,  
 than the ipse dixit of Decius ?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806112801:0002/pct:22.14765100671141,50.14299332697807,18.16410478458541,13.04643878523764/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806112801:0002/pct:22.162084145197372,50.14299332697807,18.17132135382839,13.06005719733079/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -348,7 +348,7 @@ United States claiming the Rio Bravo) this proposi­
 tion, (the ultimatum on our pari) was rejected at  
 the court of Madrid witp. disdain; and thus ended 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1810072701:0021/pct:73.66326784381995,37.725719863347976,22.55657796568018,9.484301285179763/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1810072701:0021/pct:73.64495275982098,37.7195836044242,22.557185479860767,9.486824983734548/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -375,7 +375,7 @@ been obliged to exceed the authority ot Uieu lnstmc­
 to the Rio Bravo;—Tins proposition, ^Uie ultima uiii  
 on our part) was rejected at tne court ot nadn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1810072701:0009/pct:2.6871841984382177,85.41016179392564,22.301332108406065,7.749077490774908/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1810072701:0009/pct:2.6865671641791047,85.3980417198808,22.30195177956372,7.751525471831985/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -398,7 +398,7 @@ self to sncrilices were marked out, of which even the Colors
 iple op- was not the last &quot;  
 r, as he Mr. Laussat, the commissioner of France, who 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661150:1847022401:0200/pct:60.27178257394085,41.004701806483546,17.138289368505195,3.860430586488493/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661150:1847022401:0200/pct:60.27178257394085,41.00882619813577,17.143618438582468,3.8645549781407245/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -419,7 +419,7 @@ lie goal as far as the Ri? fjruvo, yet, in proportion
 to what they could obtaia East oi tne Mississippi  
 they were to relinquish West.&quot; But no treat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664308:1848022501:0095/pct:41.8962962962963,35.63151796060255,13.333333333333334,3.109308613364233/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664308:1848022501:0095/pct:41.901234567901234,35.63795545255569,13.33827160493827,3.1125273593408007/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

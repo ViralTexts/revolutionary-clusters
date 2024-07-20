@@ -61,7 +61,7 @@ of his time fast asleep in his chair.&quot;
 Yet Franklin was appointed on every  
 important committee, and Adams on few
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_hoquiam_ver01:data:sn83045604:00202199665:1899101101:0008/pct:176.55474452554745,265.4691075514874,37.737226277372265,16.590389016018307/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_hoquiam_ver01:data:sn83045604:00202199665:1899101101:0008/pct:58.851581508515814,88.48970251716247,12.579075425790755,5.530129672006102/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -91,7 +91,7 @@ he have read iiis brother congressman&#x27;s
 comparison, might fairly have retorted,  
 with the wisdom of Poor Richard. “H
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dorothy_ver01:data:sn85033295:00271769854:1899101701:0238/pct:33.701583921203245,62.30891869079996,14.45494476241182,7.061802494607521/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dorothy_ver01:data:sn85033295:00271769854:1899101701:0238/pct:33.70602067527397,62.30891869079996,14.463818270553263,7.061802494607521/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -118,7 +118,7 @@ of his time fast asiecn &#x27;ln his chair.”
 Yet Franklin was apvointed on every  
 important committee. and Ad#ms o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_firefriend_ver01:data:sn91070630:00514152950:1899101801:0163/pct:57.920925228617534,57.383619360805675,12.856374394835933,5.878121467475079/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_firefriend_ver01:data:sn91070630:00514152950:1899101801:0163/pct:57.920925228617534,57.38704483951632,12.856374394835933,5.874695988764429/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -148,7 +148,7 @@ he have read his brother congressman’s
 comparison, might fairly have retorted,  
 with the wisdom of Poor Richard, “H
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_doxy_ver01:data:sn85040437:00414214642:1899101801:0039/pct:35.608552631578945,62.7634439088933,14.15844298245614,7.1354314337019185/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_doxy_ver01:data:sn85040437:00414214642:1899101801:0039/pct:35.61312134502924,62.7634439088933,14.163011695906432,7.141732035409381/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -174,7 +174,7 @@ riculture for 1S98. ling on every question,&quot; with those of
   
 The mean of the three estimates for I Franklin, who was seen, he says, &quot;fro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_elk_ver01:data:sn84020558:00202192683:1899101901:0671/pct:43.273381294964025,28.1993033469635,33.81294964028777,5.270331667423898/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_elk_ver01:data:sn84020558:00202192683:1899101901:0671/pct:32.481554795753105,21.15704982583674,25.373402915242036,3.9527487505679235/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -195,7 +195,7 @@ part of his time fast asleep in his
 chair.&quot; Yet Franklin was appointed  
 on every important committee, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_elk_ver01:data:sn84020558:00202192683:1899101901:0671/pct:42.94964028776978,33.57564743298501,34.08273381294964,23.671058609722852/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_elk_ver01:data:sn84020558:00202192683:1899101901:0671/pct:32.22962029872233,25.185521732545812,25.589346769839842,17.749507799485084/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -261,7 +261,7 @@ brother congressman&#x27;s comparison, might
 fairly have retorted, with the wisdom of  
 Poor Richard, &quot;He that speaks much i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_odoric_ver01:data:sn85038153:00415665830:1899111401:0485/pct:81.10032362459548,87.0887130362349,13.851132686084142,9.496043315285299/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_odoric_ver01:data:sn85038153:00415665830:1899111401:0485/pct:60.83508658358958,65.3200055532417,10.390030749312187,7.122032486463973/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -317,7 +317,7 @@ of his time fast asleep in his chair.&quot;
 Yet Friiuklin was uppointed on every  
 important committee and Adams on few
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_odoric_ver01:data:sn85038153:00415665830:1899122601:0531/pct:94.21447196870926,85.80520199225235,13.836375488917861,7.083563918096292/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_odoric_ver01:data:sn85038153:00415665830:1899122601:0531/pct:70.67644661776691,64.36081903707803,10.383048084759576,5.312672938572219/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

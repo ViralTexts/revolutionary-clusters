@@ -47,7 +47,7 @@ as well as in war, fighting for existence, or
 not fighting for exis&#x27;ence, the British have  
 manifested, in relation to impressment, th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812081401:0115/pct:77.43197912784197,39.93111083774142,17.629519194931046,3.936523557633165/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812081401:0115/pct:77.41755170486306,39.92619926199262,17.63244518973977,3.940139401394014/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -133,7 +133,7 @@ go on, so that the British ministry should be
 made sensible of the necessity of punishing  
 the past, and preventing tha future.” (&lt;/)■
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1815032201:0404/pct:5.437178545187362,71.24248496993988,17.707567964731815,2.905811623246493/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1815032201:0404/pct:5.436179981634527,71.23356293049467,17.71043771043771,2.9096222083072427/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

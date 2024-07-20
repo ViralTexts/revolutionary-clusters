@@ -340,7 +340,7 @@ you may since have fairly sold to per­
 sons properly autherized to purchase  
 of you.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_topsn83020874_ver01:data:sn83020874:print:1830071001:0001/pct:74.67639444575194,27.29281767955801,15.791951047305249,20.757695343330703/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_topsn83020874_ver01:data:sn83020874:print:1830071001:0001/pct:74.68816192045188,27.296764009471193,15.791951047305249,20.765588003157063/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -374,7 +374,7 @@ present by their rfgent, arul will Le your
 security, that you shall not be defraud­  
 ed in the bargain you shall make
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_topsn83020874_ver01:data:sn83020874:print:1830071001:0001/pct:74.48811485055307,48.745067087608525,16.097905389503413,12.107340173638516/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_topsn83020874_ver01:data:sn83020874:print:1830071001:0001/pct:74.49399858790304,48.752959747434886,16.097905389503413,12.119179163378059/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -400,7 +400,7 @@ in the only business which will add to
 your numbers and happiness.  
 The United Stales will le true an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_topsn83020874_ver01:data:sn83020874:print:1830071001:0001/pct:74.48811485055307,60.85240726124704,15.862555895504824,7.940015785319653/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_topsn83020874_ver01:data:sn83020874:print:1830071001:0001/pct:74.49399858790304,60.85240726124704,15.874323370204754,7.943962115232833/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -466,7 +466,7 @@ cannot be defrauded of your lands&quot;—
 the right of refusing to sell your lands&quot;  
 —&quot;And
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_topsn83020874_ver01:data:sn83020874:print:1831021201:0001/pct:56.52904464714354,72.7525916756924,15.722515602496399,3.0945381401825776/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_topsn83020874_ver01:data:sn83020874:print:1831021201:0001/pct:56.52904464714354,72.7525916756924,15.740518482957274,3.1061426582082623/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

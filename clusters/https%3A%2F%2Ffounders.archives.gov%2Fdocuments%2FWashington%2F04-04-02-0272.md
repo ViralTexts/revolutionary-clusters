@@ -137,7 +137,7 @@ Soould, by our condult werify the prediiions of cur
 tranjatlantick foe, and render curfelves ridicslous and  
 contemptible in the eyes of all Europe.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025586:0051701512A:1786120901:0402/pct:66.83874139626352,17.31552370092849,27.015732546705998,24.238475321713633/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025586:0051701512A:1786120901:0402/pct:66.85512946574893,17.31552370092849,27.015732546705998,24.24390508769072/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -184,7 +184,7 @@ as they rell, if there is no opposition in the way to
 divide and crumble.&quot; In another latter on the same  
 painful topic, he says:-&quot;I feel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743038:1851022401:0290/pct:61.49653121902874,14.741172437435722,93.37628014535844,280.56222146040454/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743038:1851022401:0290/pct:20.498843739676246,4.913724145811908,31.12542671511948,93.52074048680151/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -229,7 +229,7 @@ them.”
 Tux Uniton.~lt appears that James Madison,  
 one of our most able and most worthy Presidente
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153280:1851030501:0387/pct:57.811271297509826,47.68456720402505,12.608125819134994,9.333607146524283/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153280:1851030501:0387/pct:57.811271297509826,47.68456720402505,12.612494539100044,9.347297806071808/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -256,7 +256,7 @@ strength as they roll, if there is no opposition in the
 way lo divideind crumble.&quot; In another letter on  
 the same painful topic, he says: &#x27; I feel infinitel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_lightningbolt_ver03:data:sn83016794:00415662397:1851031401:0060/pct:25.956365809922296,71.18402282453637,17.020322773460848,7.794060433147452/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_lightningbolt_ver03:data:sn83016794:00415662397:1851031401:0060/pct:19.473920191301747,53.391259240046686,12.77835898968764,5.848787446504993/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -283,7 +283,7 @@ like mow-bails, gather strength as they roll,
 if there is no opposition in the way to divide  
 nud ciumble theiu.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn84028745:00280775332:1861022201:0586/pct:11.18024132730015,94.96268656716418,15.987933634992459,7.43398392652124/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn84028745:00280775332:1861022201:0586/pct:8.394642520279193,71.22560275545351,11.997736276174306,5.582663605051665/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

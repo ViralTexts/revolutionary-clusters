@@ -76,7 +76,7 @@ which seein, at that primitive day, to bave been
 considered as incumbent on the States. Colonel Mason,  
 in support of this motion, explained the situation o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661150:1847082701:0830/pct:16.767323585505405,18.426603796997146,17.29179910998093,3.027670926914009/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661150:1847082701:0830/pct:16.77791905064632,18.426603796997146,17.286501377410467,3.0359432518509326/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -101,7 +101,7 @@ He was convinced that the regulation of commerce was.
   
 in its nature, indivisible, and ought to be wholly unde
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661150:1847082701:0830/pct:16.783216783216783,21.615585060181164,15.670692943420216,4.802084625884104/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661150:1847082701:0830/pct:16.783216783216783,21.615585060181164,15.686586141131595,4.810356950821029/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -147,7 +147,7 @@ seainen, &amp;o. He was more and more convinced lhat the
 regulation o( commerce was in its nature indivisible, and  
 ought to be wholly under one authority.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661204:1852091901:0914/pct:32.3996723996724,21.370104520841203,15.773955773955773,4.558619821181211/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661204:1852091901:0914/pct:32.3996723996724,21.378499769130674,15.795795795795796,4.558619821181211/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -173,7 +173,7 @@ taken that the objects contemplated in giving
 Congress the power to regulate commerce, J  
 should not be thwarted
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661526:1853112301:0216/pct:3.7265378819016304,57.66516998075689,13.316892725030826,7.216164207825529/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661526:1853112301:0216/pct:3.7311047175412155,57.67229705651771,13.326026396309997,7.216164207825529/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -200,7 +200,7 @@ j the consent of Congress.
 This consent was required because, as the  
 ! regulation of commerce was committed to the 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661526:1853120301:0248/pct:16.71574814191558,75.73830566932529,13.686719955125508,8.202198749730545/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661526:1853120301:0248/pct:16.725096994343943,75.74549112596105,13.691394381339691,8.20579147804843/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -217,7 +217,7 @@ submitted, that &quot; no State shall be restrained
 from laying duties of tonnage for the purpose  
 of clearing harbors and erecting light-houses
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661538:1854020101:0124/pct:17.805271651425496,60.989010989010985,12.937062937062937,1.777634130575307/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661538:1854020101:0124/pct:17.814237045006276,60.992602169072754,12.946028330643715,1.777634130575307/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -355,7 +355,7 @@ convinced that the regulation of commerce was
 in its nature indivisible and ought to be wholly  
 under one authority.&quot; Mr Sherman declate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_palisade_ver02:data:sn84022046:00279553962:1878110401:0425/pct:245.33749512290285,139.10131174993023,43.796332422941866,6.935528886408038/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_palisade_ver02:data:sn84022046:00279553962:1878110401:0425/pct:61.32241076653013,34.770475791823635,10.946947532670178,1.7336402958001953/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -378,7 +378,7 @@ Madlsuii, that the regulation of commerce was
 in its nature Indivisible and ought to he  
 wholly under one authority. T“e exceptio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00383342090:1883011201:0039/pct:65.41605252579392,58.564910825383656,9.848586359372906,2.841144753214434/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00383342090:1883011201:0039/pct:65.41605252579392,58.571823586340386,9.853052838447452,2.8446011336927968/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -134,7 +134,7 @@ tions respecting Independency were
 moved and seconded” in Congress, by  
 what inembei s the Journals do not men
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025001:00414216328:1823072901:0489/pct:19.070598748882933,16.13108495068406,17.265415549597854,4.952805175522324/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025001:00414216328:1823072901:0489/pct:19.067190850607577,16.129374337221634,17.268286871574933,4.95581477553906/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -159,7 +159,7 @@ esting curiosity, but to Jo substantial
 justice to the abilities and energy of the  
 leaders iu that great measure.” An
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025001:00414216328:1823072901:0489/pct:18.71313672922252,59.48668999893944,17.176050044682754,6.989076254109662/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025001:00414216328:1823072901:0489/pct:18.709792709077913,59.48038176033934,17.17893733619252,6.991869918699187/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -178,7 +178,7 @@ certained. You alone can give a full
 statement of them—to be communica­  
 ted to whom you think proper.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025001:00414216328:1823072901:0489/pct:18.74888293118856,67.78025241276912,17.158176943699733,3.171067981758405/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025001:00414216328:1823072901:0489/pct:18.745532523230878,67.77306468716861,17.161067429116034,3.1742665252739486/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -199,7 +199,7 @@ A compilation, however, may have great
 merits by its lucid and forcible arrange­  
 ment ot (be matter- But a grent nationa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025001:00414216328:1823072901:0489/pct:36.46112600536193,39.45275214762965,17.497765862377122,3.9770919503658924/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025001:00414216328:1823072901:0489/pct:36.45461043602573,39.44856839872747,17.500595663569214,3.980205019441499/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -226,7 +226,7 @@ tion. Riohard Houry Lee as the original
 movor of the resolution for declaring the  
 Colonies independent would have bee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:0051701655A:1855101801:0067/pct:57.31112232879018,42.22960030647427,12.081440349991587,1.5196015834503895/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:0051701655A:1855101801:0067/pct:57.30148048452221,42.22420837589377,12.083613728129206,1.522599591419816/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -243,7 +243,7 @@ to draft the Declaration. Richard Henry Lee
 as the original mover of the resolution for de­  
 claring the Colonies independent would hav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024718:00414183761:1857070101:0293/pct:70.30643650475044,35.765141007859455,12.525090325170614,1.3777161349976883/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024718:00414183761:1857070101:0293/pct:70.29702970297029,35.76183431952663,12.527874409062528,1.3806706114398422/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -261,7 +261,7 @@ r:J mover of the resolution for declaring the Colonies In
 dependent, would have been named as chairman o  
 the committee, but, uufortuuately lor himself, he r
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664369:1857070701:0239/pct:30.526468877254217,66.33227076692293,14.267015706806284,1.5938496156009752/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664369:1857070701:0239/pct:30.526468877254217,66.33852115757234,14.271863486523172,1.596974810925683/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -278,7 +278,7 @@ Richard Henry Iieo, as tho original
 mover of the resolution for declaring the Colonies  
 independent, would have beon name
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_jubilee_ver02:data:sn83025802:00295862026:1857073001:0346/pct:56.18619844834626,88.41779838798719,14.414046549612086,1.9874130506790328/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_jubilee_ver02:data:sn83025802:00295862026:1857073001:0346/pct:56.195272446803685,88.41779838798719,14.409509550383376,1.9984542342939162/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -297,7 +297,7 @@ independent, would have been named as
 chairman of the Committee, but, unfortunately  
 for himself, he received intelligenc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862695:1858061001:0021/pct:43.56643356643357,59.41902263674342,15.244755244755245,3.1963470319634704/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862695:1858061001:0021/pct:43.57109557109557,59.425499530425206,15.258741258741258,3.1963470319634704/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -317,7 +317,7 @@ independent, would have been named as
 chairman of the committee, but unfortu-1  
 nately for himself, he received intelligenc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340184:1858070301:0315/pct:31.96818412590963,86.62875281047481,12.57403960060924,3.108054490146806/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340184:1858070301:0315/pct:31.962774957698816,86.61729701137266,12.576142131979696,3.1109494842634224/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -376,7 +376,7 @@ Henry Lee, as the original mover of the reso
 lution for declaring the colonies independent,  
 would have been named as chairman of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290094:1858071101:0037/pct:74.86187845303867,267.21868365180467,37.40331491712707,3.7791932059447984/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290094:1858071101:0037/pct:18.72322785684676,66.80467091295117,9.354704988254802,0.9447983014861996/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -424,7 +424,7 @@ olution for declaring the Colo
   
 nies independent, would hav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200293046:1871070401:0016/pct:65.42002301495972,299.78749580583826,37.57192174913694,7.292249189128733/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200293046:1871070401:0016/pct:16.359712230215827,74.94687395145957,9.39568345323741,1.8230622972821833/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -490,7 +490,7 @@ of the committee, but, unfortunately for
 himself, he received intelligence of sickness  
 in his family, which made it necessary fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295861915:1881101301:0317/pct:30.07156798959011,65.72650350286598,15.614834092387769,4.2762260030934405/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295861915:1881101301:0317/pct:30.075905443504663,65.72650350286598,15.614834092387769,4.279258787492797/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

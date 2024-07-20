@@ -123,7 +123,7 @@ wish to0 any class, or of any description, express a
  lor the independence of the colonies. Ii has alw  
 en and st ll is my opinion and belief, that our countr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347910:1847082601:0034/pct:72.42576166602392,132.12942061700528,62.18665638256845,17.953348382242286/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347910:1847082601:0034/pct:18.10294968189705,33.02738489316882,15.543666859456334,4.487661751429431/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -155,7 +155,7 @@ Iidled to independence by necessity, and not by choice. I hey
 who know how we were then circumstanced, know from  
 whence that necessity resulted.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1847090401:0651/pct:80.90267983074753,24.980219283372893,15.853314527503526,4.125692325081949/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1847090401:0651/pct:80.90267983074753,24.987754794468934,15.858015984955337,4.121924569533928/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -314,7 +314,7 @@ heard any American of any class of any
 description express a wish for the inde­  
 pendence of the colonies. ” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_engledinger_ver02:data:sn85033123:00514151258:1876083101:0548/pct:39.05084745762712,95.00693481276005,14.00677966101695,3.368337626312661/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_engledinger_ver02:data:sn85033123:00514151258:1876083101:0548/pct:39.05536723163842,95.01353939634106,14.01129943502825,3.368337626312661/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -262,7 +262,7 @@ furface of the oil, but without difturbing the
 fmooth level of that furface. And this was re­  
 i peated every day during the voyage
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804090101:0143/pct:41.10230547550432,17.221740745326233,17.813400576368878,20.787421072180265/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804090101:0143/pct:41.09490365568161,17.219608814062887,17.816195449906957,20.788974168523563/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -326,7 +326,7 @@ surface of the oll will remain tranquil the
 water under it will be agitated  
 Key to THE PURELER
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_baxter_ver01:data:sn83009653:00279524159:1897101901:0174/pct:76.6158315177923,173.32358852548876,29.750665698378118,19.52311346610634/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_baxter_ver01:data:sn83009653:00279524159:1897101901:0174/pct:25.5355197870023,57.76925184982187,9.915688410181936,6.507110014920374/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -355,7 +355,7 @@ surface of the oil will remain tranquil the
 water under it will be agitated.  
 Key to the PUzzLER
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jamaica_ver01:data:sn93063557:00280777894:1897102201:0771/pct:130.4932735426009,282.7596851365952,58.74439461883408,32.597623089983024/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jamaica_ver01:data:sn93063557:00280777894:1897102201:0771/pct:32.63795423956931,70.6899212841488,14.692687303723643,8.149405772495756/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -383,7 +383,7 @@ swing it again, ns lu foro, and whilo the
 surface of tho nil will remain tranquil the  
 water under it will bo agitated
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jay_ver01:data:sn97067613:00202197310:1897102701:0319/pct:67.50788643533123,94.98053952489599,17.70504731861199,8.924976513219702/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jay_ver01:data:sn97067613:00202197310:1897102701:0319/pct:50.66087985796015,71.23875989800027,13.296508187019136,6.697087639243055/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

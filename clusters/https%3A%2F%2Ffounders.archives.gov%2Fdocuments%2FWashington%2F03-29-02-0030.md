@@ -352,7 +352,7 @@ ti&gt; half pay during life, to commence from
 the time of their reduction.  
 That by a resolution of Congress, of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810021601:0368/pct:59.42028985507246,17.770459812172216,17.739864245092644,3.622392974753019/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810021601:0368/pct:59.40939104915627,17.76829268292683,17.742724382489605,3.6260162601626016/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -504,7 +504,7 @@ pay during life, to commence from the time of their
 reduction.”  
 Resolved, I hat art officers in the hospital, and me
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830030201:0320/pct:34.79407885094533,77.77777777777777,15.125311446577753,2.455048409405256/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830030201:0320/pct:34.788980070339974,77.76881410625792,15.12797967956233,2.4586070454458144/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -663,7 +663,7 @@ the service to the end of the war shall also be entitled
 U? half-pay during life, to commence from the time of  
 their reduction.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1841090701:0880/pct:34.37060478199719,7.887717515559507,31.20604781997187,87.0697319954274/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1841090701:0880/pct:34.37646507266761,7.887717515559507,31.211908110642288,87.0739658749312/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -684,7 +684,7 @@ i 17-1), &#x27;? /&#x27;isv/ck/, That the officers who shall continue in ser­
 I vice to the end of the war shall be entitled to half pay du­  
 ring life, io commence from the time of their reduction.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566431A:1850051701:0357/pct:68.25793184488836,9.185311054469933,16.245593419506463,2.8698196922495987/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566431A:1850051701:0357/pct:68.25793184488836,9.191604518707322,16.255385820603212,2.8698196922495987/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -752,7 +752,7 @@ tied to half pay for life, to commence from
 the time of their reduction.” Here was a  
 contract proffered and accepted, and the ef
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215944:1856032001:0652/pct:5.017811704834606,29.528788208814348,13.078880407124682,3.0784868946489508/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215944:1856032001:0652/pct:5.017301038062284,29.52664440249746,13.080941719248253,3.0806834131939405/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -870,7 +870,7 @@ are to be allow ed half-pay for life. V!
 of the war shall be entitled to half-pay during life, to com- i ;  
 mence with the tlfno of their reduction.&quot;?Journal of Con- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661083:1857010901:0054/pct:77.9315831344471,55.2218172678145,16.483691328560063,5.001885132587659/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661083:1857010901:0054/pct:77.9315831344471,55.23019563487076,16.49429859453726,4.997695949059528/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1250,7 +1250,7 @@ from the time of their reduction. From
 these resolutions and others it is clear  
 that the comtinental Congress proposed t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_juliet_ver01:data:sn85033413:00211101179:1876030401:1061/pct:177.54303599374023,299.7737556561086,49.53051643192488,30.76923076923077/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_juliet_ver01:data:sn85033413:00211101179:1876030401:1061/pct:44.39444335746429,74.94343891402715,12.385051848953237,7.6923076923076925/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

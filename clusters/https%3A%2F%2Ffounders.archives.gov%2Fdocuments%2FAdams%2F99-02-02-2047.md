@@ -48,7 +48,7 @@ By the President of the United States.
 Timothy Pickering,  
 Secretary of State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798041601:0002/pct:45.597627737226276,39.175856065002904,15.761861313868613,11.810795124782356/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798041601:0002/pct:45.60903284671533,39.175856065002904,15.767563868613138,11.825304701102727/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -169,7 +169,7 @@ Majesty.&quot;
   
 Mr. CHA.SE. What book is that
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661216:1853011201:0053/pct:79.48143405889884,24.521263367321563,15.781049935979514,11.750808256652574/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661216:1853011201:0053/pct:79.49210413999147,24.529553179142834,15.775714895433206,11.750808256652574/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -184,7 +184,7 @@ Mr. CHA.SE. What book is that
 and with the advice and con­  
 sent of the Senate, do appoint him consul of the United
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1853011501:0480/pct:63.83036935704514,27.259993535179397,14.774281805745554,1.002047193190389/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1853011501:0480/pct:63.83036935704514,27.267176669180763,14.783401732786137,1.002047193190389/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -216,7 +216,7 @@ suffering to be given unto him any molestation or trouble :
 but, on the contrary, to afford him ail proper countenance and  
 assistance
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1853011501:0480/pct:63.72093023255814,28.962396293502856,15.075239398084815,8.17799806055382/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1853011501:0480/pct:63.72549019607843,28.96957942750422,15.075239398084815,8.17799806055382/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -268,7 +268,7 @@ ter ratified by the Congress, as were also the treaties­
 of peace and navigation recently negotiated with Pern  
 and the Ne
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_airy_ver01:data:sn83030213:00206530406:1853011801:0122/pct:102.47732030704815,124.57401182334532,47.27843684577809,46.3081024689927/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_airy_ver01:data:sn83030213:00206530406:1853011801:0122/pct:34.15910676901605,41.52467060778177,15.759478948592696,15.4360341563309/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -306,7 +306,7 @@ taining, and to wear the insignia as by decree created
 In testimony whereof we have caused these letters to  
 be inade patent, and the seal of the order to be hereunt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044796:1882120701:0474/pct:169.23652694610777,218.51686729083073,49.775449101796404,17.65492643780651/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044796:1882120701:0474/pct:42.33289646133683,54.62921682270768,12.450851900393184,4.413731609451627/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -354,7 +354,7 @@ In testimony whereof we have caused
 these letters to be made patent and the  
 seal of the order hereunto affixed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_mankato_ver01:data:sn90059522:00206538703:1893052901:0272/pct:61.5279111233027,67.08087615838248,10.4923878754629,4.422914911541702/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_mankato_ver01:data:sn90059522:00206538703:1893052901:0272/pct:61.53705481644036,67.08087615838248,10.496959722031729,4.429935411401292/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

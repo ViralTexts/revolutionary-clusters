@@ -244,7 +244,7 @@ and the time,’’and also by their dc­
 eiara^i&#x27;T &#x27; f “ &#x27;i hr * thg Com*  
 ir.on$&gt; havs uh. ays UUi) U their
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805020601:0056/pct:60.95444685466377,2.3234323432343236,37.27075527509367,93.76897689768977/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805020601:0056/pct:60.94242902208202,2.3231256599788805,37.269978969505786,93.76099964801126/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -482,7 +482,7 @@ such definition, if approved by both
 houses, may be confirmed by act of  
 Assemble. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805020601:0057/pct:1.8260357353229923,1.9055180627233028,36.95268014922443,93.7938335318248/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805020601:0057/pct:1.8256772673733805,1.9052659433712622,36.951969637482,93.785833994884/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -617,7 +617,7 @@ I &gt;•, and meafure of the gift, feens a* evidently true
 j ss rliat the greater power contains the leflTer. Parha­  
 [ inert ary ufsge has according!/ appr red this reafon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1806021101:0351/pct:59.747835905156194,23.239436619718308,18.15957847196086,66.24839948783611/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1806021101:0351/pct:59.73659454374412,23.23646140058891,18.162433364691125,66.24418555029233/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -640,7 +640,7 @@ n.ent and declared “that their right in granting
 L &#x27;bh“ l ■••■neern that ,r thendd be cL-,ed«„dPt*  
 Med ; they then go on to pro»e the ulage by ,,re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1806021101:0351/pct:78.07677832141513,3.9820742637644044,18.61121565675574,5.147247119078105/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1806021101:0351/pct:78.0620884289746,3.9815644603763922,18.61398557541549,5.150855630947809/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -675,7 +675,7 @@ Ihfw&#x27;i; ZfJzJ&quot;: i” f*~« ■ *»• ■&quot;£
 me grant, they need not return the.bill to the con.  
 monsfor their concurrence : 3J That the 1
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1806021101:0351/pct:78.1332329695145,31.895006402048654,17.896123447497178,12.752880921895006/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1806021101:0351/pct:78.11853245531515,31.89092305722699,17.899027908435247,12.755515725686/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -706,7 +706,7 @@ on, but, oje;i to conviiMion, if it can he fi.e-J they
 mote the public f&#x27;ervice, as well as t.. preferve the con*  
 ftitution entire, f?,ev nronnf • m r !lee.o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1806021101:0351/pct:78.03914188934888,50.58898847631242,18.103123823861498,9.372599231754162/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1806021101:0351/pct:78.02445907808091,50.58251184227372,18.10598933835058,9.375666794691247/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

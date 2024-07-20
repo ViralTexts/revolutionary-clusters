@@ -105,7 +105,7 @@ ration of simple and acknowledged principles : The insertion
 propo.uions that are of a doubtful nature, will have a tenden-  
 Cnjudicethe whole amendments: The right rto
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789081901:0003/pct:4.8447925732521036,77.6906901166125,23.614737452857558,4.033645574459951/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789081901:0003/pct:4.86655062373078,77.69546931753011,23.607484769364664,4.038424775377557/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -217,7 +217,7 @@ force any law which shall abridge the
 privileges or immunities of citizens  
 of the United States.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dorothea_ver01:data:sn86063984:00200292819:1878011601:1906/pct:36.85300207039337,24.947589098532493,141.30434782608697,348.00838574423483/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dorothea_ver01:data:sn86063984:00200292819:1878011601:1906/pct:9.22040922040922,6.236897274633123,35.35353535353536,87.00209643605871/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -275,7 +275,7 @@ contravene the sense of the whole peo­
 ple, and hence the doctrine of the  
 binding force of instructions is of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_hotel_ver02:data:sn86064205:00175035138:1884082001:1070/pct:130.71230342275672,11.30190446456447,109.34320074005551,368.01436153605994/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_hotel_ver02:data:sn86064205:00175035138:1884082001:1070/pct:32.68563497571131,2.8254761161411177,27.342123525329633,92.00359038401498/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -330,7 +330,7 @@ is secured; the liberty of the press is
 expressly declared to be beyond the reach of  
 this Government. That is what he thought a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175045193:1895040701:0281/pct:121.06481481481481,169.46680844599726,51.00308641975309,8.14218441440073/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175045193:1895040701:0281/pct:30.27204321821339,42.366702111499315,12.753231719081613,2.0355461036001823/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -384,7 +384,7 @@ Can any one of you gentlemen read this bill
 and remain of the opinion that it does not re­  
 strain the freedom of the press, that it does not
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042982:1898021701:0623/pct:57.39736638264911,108.41008606371734,52.13013168086754,36.720519402083646/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042982:1898021701:0623/pct:14.35490120108485,27.102521515929336,13.037582332429292,9.180129850520911/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -402,7 +402,7 @@ met in the city of New York:
 the liberty of the press is expressly declared to  
 be beyond the reach of this Government.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042982:1898022001:0675/pct:58.31399845320959,156.47449441593722,52.04949729311678,6.0368246302444915/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042982:1898022001:0675/pct:14.584139264990329,39.118623603984304,13.017408123791103,1.5092061575611229/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

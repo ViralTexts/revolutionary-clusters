@@ -222,7 +222,7 @@ Swlisle with great pleasure, and some nf the piece*
 «nre lh»n once. 1 beg you lo accept my thankful  
 SkanwMement*. and to present my respects to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1877120101:0011/pct:1.4125032696834947,20.23213928357014,12.450954747580434,3.1819091454872925/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1877120101:0011/pct:1.41904263667277,20.23213928357014,12.457494114569709,3.1919151490894535/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

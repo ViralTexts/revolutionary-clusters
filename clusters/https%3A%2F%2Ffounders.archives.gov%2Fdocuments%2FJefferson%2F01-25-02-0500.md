@@ -444,7 +444,7 @@ and all a foreigner can desire is that justice should be ime­
 partially administered to him, as it is to the subjects of that  
 prince in whose courts the matter is tried
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743749:1871051901:0656/pct:60.73432740099407,167.57710253783998,45.743145743145746,13.542733583703198/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743749:1871051901:0656/pct:20.244775800331357,55.859034179279995,15.247715247715247,4.514244527901066/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

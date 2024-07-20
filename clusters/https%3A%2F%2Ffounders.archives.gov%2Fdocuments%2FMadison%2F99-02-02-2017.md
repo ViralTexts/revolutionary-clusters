@@ -241,7 +241,7 @@ to be nude lor such occurrences. A political sy-tem
 that dies not provide fora peaceable and authoritative  
 termination o(
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184042:1830101501:0177/pct:35.0321261682243,42.63982614663159,15.274532710280374,9.71062564337184/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184042:1830101501:0177/pct:35.027011242517155,42.63494967978042,15.277169416459824,9.713327233912779/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -271,7 +271,7 @@ pact, to original rights and the law of seli=
 preservation, T&#x27;has s the wltima ratio  
 under all Governments; whether consohi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152743:1830102001:0126/pct:48.64218616567037,77.13508836979359,14.876174210076858,10.171795822518849/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152743:1830102001:0126/pct:48.65357244520353,77.13508836979359,14.876174210076858,10.180035430313517/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -386,7 +386,7 @@ aserutien of a law of the United Rtstes, it
 n»u»t be presumed that it would hav# been  
 a cousp esiou# object of their denunciation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84024746:00414186920:1830110301:0176/pct:77.06435944140863,54.488207007098694,14.602307225258045,12.754751545683536/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84024746:00414186920:1830110301:0176/pct:77.05266353012597,54.48196908986834,14.605149997470532,12.757107422247662/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -596,7 +596,7 @@ ness, feeling the assurance in my own breast,
 that in whatever I have done, my aim lias been  
 to uphold the rights and promote the interes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183682:1839121201:0200/pct:21.387283236994218,84.72029296628362,14.338471419396274,9.016289935597928/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183682:1839121201:0200/pct:21.38384973510997,84.70959595959596,14.341520843367046,9.01936026936027/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -625,7 +625,7 @@ from the cancelled obligations of the Federal compact
 to original rights and the law of self-preservation.?  
 The Executive of this State laid the same correspond
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1841050701:0287/pct:20.44106463878327,18.123496391339213,16.106463878326995,2.5160384923817163/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1841050701:0287/pct:20.44106463878327,18.130179096498264,16.11660329531052,2.5160384923817163/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -696,7 +696,7 @@ pealtrom the canceled obligations of the compact to
 original lights and the law of self-preservation. This is  
 the ultima ratio under all Governments,” &amp;c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn86071855:00393348343:1850022101:0375/pct:21.788263283108645,44.132581100141046,14.492466296590008,2.454160789844852/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn86071855:00393348343:1850022101:0375/pct:21.78394449950446,44.126357354392894,14.494549058473737,2.457340290509096/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -717,7 +717,7 @@ one people for certain purposes, it cannot be altered
 ur -rfimuiieu ii ine win oi me oiaies inuiv.uuaiiy, as  
 i the Constitution of a State may at its individual will
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022627:1851011501:0248/pct:87.66741071428571,35.24529105033521,20.703125,3.916143450037246/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022627:1851011501:0248/pct:65.76890873569634,26.43396828775141,15.545632151828077,2.9371075875279344/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -741,7 +741,7 @@ Mr. Madison responsible ibr doctrines which he wholly
 repudiated, by introducing to our readers, and recom­  
 mending to the very serious consideration of the Edi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348367:1851021201:0141/pct:34.3221182560223,57.556088612953296,15.309575950627115,4.599971779314237/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348367:1851021201:0141/pct:34.31528662420382,57.54796839729119,15.311504777070065,4.602849887133183/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -801,7 +801,7 @@ To the Editor of the New Fork Herald:
   
 Report of the Board of Health
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667711:1851022601:0625/pct:30.158730158730158,61.42034548944338,239.43191311612364,24.74531226930459/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667711:1851022601:0625/pct:7.5428332636857505,15.355086372360844,59.88299206017551,6.186328067326148/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -826,7 +826,7 @@ to arrest, by force, the execution of a law of the following up to the day of th
 Uaited Stutes, it must be prestmed that ir  
 would Have reen a conspictous onJect o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667711:1851022601:0625/pct:87.55221386800334,110.08415768492544,121.88805346700083,15.945666617451646/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667711:1851022601:0625/pct:21.8972001671542,27.52103942123136,30.48474717927288,3.9864166543629116/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -851,7 +851,7 @@ mong the States for redress against the aliena  a aa e e e o o
 and sedition laws, as acts of usurped powere a o te ee an eee te e  
 was a leading sentiment; and the attainment ere penaties of the aw
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667711:1851022601:0625/pct:29.406850459482037,321.86623357448696,360.233918128655,23.62320980363207/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667711:1851022601:0625/pct:7.354784788967823,80.46655839362174,90.09611366485584,5.905802450908017/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -872,7 +872,7 @@ tutional compact, to the original rights, and the
 law of self-preservation. This is the ultima ratio  
 under all governments, whether cousolidated, ron
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_lightningbolt_ver03:data:sn83016794:00415662397:1851060601:0108/pct:63.798219584569736,66.10789009326948,16.884272997032642,4.096294429039577/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_lightningbolt_ver03:data:sn83016794:00415662397:1851060601:0108/pct:47.86286731967943,49.58406856566675,12.674384090234492,3.0753718174943283/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -903,7 +903,7 @@ ernment, and that without any violent dealings. One of the
 strongest fears of many wise and good men, from the time of ]  
 adopting the Constitution to the war ol 1812, was that ever
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851070101:0324/pct:2.240688529455409,82.90895061728395,16.248701587772665,6.616512345679013/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851070101:0324/pct:2.240688529455409,82.90895061728395,16.26354058465648,6.622942386831276/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -952,7 +952,7 @@ State to airest by force the execution of a law &#x27; r
 of the United Slates, it uiusl be presumed that j y  
 it would have been a conspicuous object of their j 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661484:1851092901:0936/pct:58.42663084042395,3.8795599305153443,29.765636662188385,92.02084539664158/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661484:1851092901:0936/pct:58.431606707468774,3.883420189152673,29.765636662188385,92.02470565527891/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -991,7 +991,7 @@ States beyond the regulur ones within the forms of the
 Constitution.&quot;  
 In the same letter Mr. Madison utterly repudiates th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024656:00414184704:1860112801:0515/pct:87.78769375293565,249.96095057458442,37.82683576013778,17.416043735356464/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024656:00414184704:1860112801:0515/pct:29.257983719474012,83.31102186523873,12.606971404717179,5.804700282611929/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1013,7 +1013,7 @@ overnment being the substitution of law and j
 rder for uncertainty, confusion and violence, j n  
 &#x27;hat in the event of a lailure of every Consti- j 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664382:1861031901:0527/pct:51.86522262334537,3.2647890069194037,12.408075945982084,3.8495273365169087/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664382:1861031901:0527/pct:51.87413647100771,3.268037553194945,12.403619022150911,3.8527758827924505/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1044,7 +1044,7 @@ the maniier of a consolidated government.
 pvqi&#x27;e in each of the States, acting m their  
 highest sovereign capacity.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664382:1861040201:0556/pct:70.12348957641747,16.86479172707065,13.915814632850884,7.6543925775587125/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664382:1861040201:0556/pct:70.13234187580224,16.86479172707065,13.915814632850884,7.657614123256338/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1065,7 +1065,7 @@ the ol jcct and er.d of a real Government being i
 the substitution of law arid &lt; rd? r for uncertain- !  
 ty, confusion and violence; that in the event ui 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664382:1861041101:0576/pct:35.738831615120276,35.59305501365587,12.027491408934708,3.3554428404213814/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664382:1861041101:0576/pct:35.74764296413781,35.59305501365587,12.027491408934708,3.3586942385225647/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

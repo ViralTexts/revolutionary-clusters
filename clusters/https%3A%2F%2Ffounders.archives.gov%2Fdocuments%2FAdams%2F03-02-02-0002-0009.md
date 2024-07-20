@@ -319,7 +319,7 @@ la Loi Naturelle, appliquès a la Con­
 duite et aux Affaires des Nations et  
 des Souverains«) niedergelegt hat. Di
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_garza_ver01:data:sn83045227:00279559861:1887110301:0432/pct:75.97390493942218,348.1733220050977,47.66076421248835,8.90682526196545/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_garza_ver01:data:sn83045227:00279559861:1887110301:0432/pct:18.989936638091688,87.03100665439615,11.91297055534849,2.226391051960923/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

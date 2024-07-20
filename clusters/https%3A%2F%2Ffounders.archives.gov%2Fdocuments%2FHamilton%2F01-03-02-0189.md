@@ -219,7 +219,7 @@ grels lhall think moll convenient, instead of
 halt-pay proinifed for life by the resolution  
 of October 21, 1780.&#x27; The officers u idl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793010201:0002/pct:50.84033613445378,39.82762076568451,20.74983839689722,15.85488073762277/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793010201:0002/pct:50.84841628959276,39.842653838444576,20.76599870717518,15.864902786129484/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -261,7 +261,7 @@ agree to accept nr refuse the aforesaid com­
 mutation, signifying the same within six  
 months from the passage of said resolution
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810021601:0368/pct:59.053384700055034,58.751067203317476,17.684828471840028,3.085742163678497/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810021601:0368/pct:59.04255319148936,58.74390243902439,17.68769870383957,3.089430894308943/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -305,7 +305,7 @@ tion ot il,&lt;- lines of &gt;l,o respective stale:;, and the ofli­
 cers individual!! in those huestto accept oi refute the  
 I same 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826012001:0019/pct:39.384220654265555,30.572429906542055,18.184733803720334,10.432242990654206/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826012001:0019/pct:39.37790604457271,30.568858778180118,18.187162631607077,10.43491803916988/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -488,7 +488,7 @@ Resolved, I. That all officers then in service in the lines
 of the States, under the command of Washington, should  
 have commutation of five years lull pay in lieu of half pay
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566431A:1850051701:0357/pct:68.2726204465335,13.282356273010478,15.995887191539365,3.2191069574247146/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566431A:1850051701:0357/pct:68.2726204465335,13.285503005129174,16.00078339208774,3.2222536895434093/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -636,7 +636,7 @@ performed, the performance of the original contract. But by
 look at the reason w hich in the preamble is set forth for J  
 asking that the contract be (banged. It Is not that the th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661083:1857012001:0098/pct:63.744380218368654,81.80218675380168,17.758509955041745,8.018097272841523/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661083:1857012001:0098/pct:63.744380218368654,81.80637593732982,17.758509955041745,8.022286456369654/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -672,7 +672,7 @@ reward of their country; tnerefore, Resolred, &amp;e.
 The committee ascertained that the number of officers  
 on whose account these claims are preferred is upwar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:00206531241:1876022801:0441/pct:51.997369718888706,23.10316433360781,97.8793358540194,275.7322667921421/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:00206531241:1876022801:0441/pct:17.3324565729629,7.70105477786927,32.62644528467313,91.9107555973807/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -2115,7 +2115,7 @@ give the world anether fubjed of wondct and
 applause, an army vigtorions over its exetijes :  
 viélorious over ilfelf, : ‘
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1783050301:0347/pct:5.522267206477733,16.988702354556015,84.14574898785425,74.69116249604055/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1783050301:0347/pct:5.53306342780027,16.99222187027065,84.13495276653171,74.69116249604055/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2154,7 +2154,7 @@ chief has reparded the #ss you have taken for 1o
 fseie with eond witho: slone. . Fis officizl fiicecs  
 Bas cuthocifed your mecii-e and nit privite ep
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1783050301:0348/pct:10.207388204795853,28.076438471230574,26.814646791963707,20.94708105837883/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1783050301:0348/pct:10.207388204795853,28.076438471230574,26.814646791963707,20.95058098838023/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2183,7 +2183,7 @@ and aprly to your wants ; thatin this inflasce, dif­
 fiderce (uggefed what experience enjiins ; and that  
 while I move on the high road of argemsnt and ad
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1783050301:0348/pct:10.142579390797149,57.40235195296094,26.847051198963058,12.6522469550609/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1783050301:0348/pct:10.153380859796933,57.40935181296374,26.847051198963058,12.6487470250595/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2888,7 +2888,7 @@ dependency, and owe the miserable rem­
 nant of that life to charit.y which ha;, hi­  
 therto been spent in honour. If you
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793012601:0001/pct:72.49679075738126,66.91235059760956,21.27727856225931,6.155378486055777/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793012601:0001/pct:72.51283697047496,66.91235059760956,21.261232349165596,6.165338645418327/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3067,7 +3067,7 @@ and give the world another ful&gt;jc£l of wor.dCf
 and applaufc ;—an army victorioi ovtr its e/ih*  
 trues—victorious over itfelf
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016081:00332895060:1804080601:0164/pct:27.278896177335444,3.9407528196765864,69.87106989368921,90.43348281016442/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016081:00332895060:1804080601:0164/pct:27.272727272727273,3.9402173913043477,69.86092265943012,90.42459239130434/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3228,7 +3228,7 @@ the world another object of wender and applause,&#x27; air
 army victorious over its enemies, and victorious over  
 itself
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805082601:0668/pct:26.524541398116014,9.210105532459226,43.50520575111552,86.48864726574992/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805082601:0668/pct:26.517967781908304,9.20863309352518,43.500619578686496,86.47881694644285/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3896,7 +3896,7 @@ If the present moment be lost, every future effort. 11 in
 »-ain, and your threats then, will be as empty a = your en­  
 treaties now. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1828060701:0038/pct:7.796193984039288,71.43329658213892,17.71025168815224,22.414553472987873/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1828060701:0038/pct:7.794997698327451,71.42542167346488,17.71264896936218,22.41575717487965/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4218,7 +4218,7 @@ ter of Armstrong, and presented to the world the
 spectacle of an army &quot;victorious over its enemies,  
 victorious over itself.&quot; On the same spot, too
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn83016318:00296024570:1860041801:0275/pct:17.204301075268816,230.46991282160323,38.799283154121866,10.90793110780353/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn83016318:00296024570:1860041801:0275/pct:5.736480430236032,76.82330427386775,12.936958470271886,3.63597703593451/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4241,7 +4241,7 @@ without sinking into cowardice or
   
 lunging into credulity.&quot; He the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eadweard_ver01:data:sn85034076:0020029239A:1876062901:0141/pct:54.771140418929406,158.0507852634669,44.22032583397983,10.568031704095112/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eadweard_ver01:data:sn85034076:0020029239A:1876062901:0141/pct:13.695441319107662,39.51269631586673,11.057225994180408,2.642007926023778/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4311,7 +4311,7 @@ threats then will be as empty as are
   
 your entreaties now.&quot; Having thu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eadweard_ver01:data:sn85034076:0020029239A:1876062901:0141/pct:55.00387897595035,184.0011742257449,45.15128006206361,69.98385439600763/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eadweard_ver01:data:sn85034076:0020029239A:1876062901:0141/pct:13.753637245392822,46.000293556436226,11.290009699321047,17.495963599001907/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4336,7 +4336,7 @@ unsettled country to smile in turn, and
   
 mock when their fear cometh.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eadweard_ver01:data:sn85034076:0020029239A:1876062901:0141/pct:56.012412723041116,262.61558784676356,44.37548487199379,14.384265375018348/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eadweard_ver01:data:sn85034076:0020029239A:1876062901:0141/pct:14.005819592628516,65.65389696169089,11.096023278370515,3.596066343754587/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4398,7 +4398,7 @@ future effort will be in vain, and your
 threats then will be as empty as ar.  
 your entreaties now.&quot; Having th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_gordon_ver01:data:sn87052181:00200292510:1876062901:0108/pct:118.2089552238806,29.596697364242615,134.82587064676616,347.2213401079708/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_gordon_ver01:data:sn87052181:00200292510:1876062901:0108/pct:29.57430918595967,7.399174341060654,33.73164052775703,86.8053350269927/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4582,7 +4582,7 @@ yond which neither can be stretched
 without sinking into cowardice or  
 planging into ecredulity.” He the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_fleshgolem_ver02:data:sn92063991:00514153541:1876070701:0046/pct:4.7303689687795645,66.28171890957655,12.435614422369389,2.883180139838165/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_fleshgolem_ver02:data:sn92063991:00514153541:1876070701:0046/pct:4.733872945793475,66.28695629402677,12.432110445355478,2.883180139838165/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4632,7 +4632,7 @@ fature effort will be in vain, and your
 threats then will be empty as are your  
 entreaties now.” Haviug thus artfull
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_fleshgolem_ver02:data:sn92063991:00514153541:1876070701:0046/pct:4.53064227898665,72.12663995600597,12.708924629454431,20.905020032995523/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_fleshgolem_ver02:data:sn92063991:00514153541:1876070701:0046/pct:4.534146256000561,72.12663995600597,12.715932583482253,20.910257417445727/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4655,7 +4655,7 @@ some unsettled country to smile in
 turn, and ‘mock when their fear  
 cometh.” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_fleshgolem_ver02:data:sn92063991:00514153541:1876070701:0046/pct:4.499106485861453,15.539319663759919,26.059077052454537,82.00958441354388/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_fleshgolem_ver02:data:sn92063991:00514153541:1876070701:0046/pct:4.502610462875364,15.539319663759919,26.059077052454537,82.01220310576898/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4715,7 +4715,7 @@ future effort will be in vuin, and your
 threat-t then will be empty as are your  
 entreaties now.&quot; Having thus artfull
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn83032058:00296028733:1876072701:0465/pct:5.9190841680759725,55.827841845140036,9.62664238324444,22.45675453047776/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn83032058:00296028733:1876072701:0465/pct:5.9190841680759725,55.827841845140036,9.630978708642296,22.460186710598574/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4737,7 +4737,7 @@ some unsettled country to smile in
 turn, and &#x27; mock when their fear  
 cometn.&#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn83032058:00296028733:1876072701:0465/pct:5.932093144269546,80.31301482701812,9.639651359438012,3.7891268533772653/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn83032058:00296028733:1876072701:0465/pct:5.9407657950652615,80.31301482701812,9.630978708642296,3.795991213618891/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4756,7 +4756,7 @@ which neither can be stretched
 **&quot; without sinking into cowardice or  
 | ipltfciging into credulity.&#x27;S He the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00202194035:1876080201:0001/pct:0.7291928589388986,57.517547100110825,12.547146090017602,2.8075360177318065/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00202194035:1876080201:0001/pct:0.7333836224960187,57.520625538726755,12.547146090017602,2.8075360177318065/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4804,7 +4804,7 @@ future effort will be in vain, and your
 threats then will be empty as are your  
 entreaties now.&quot; Having thus artfull
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00202194035:1876080201:0001/pct:0.666331405582097,64.00997414111562,14.88559215489062,16.909863317325453/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00202194035:1876080201:0001/pct:0.666331405582097,64.01305257973156,14.89397368200486,16.909863317325453/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4823,7 +4823,7 @@ some unsettled country to smile in
 turn, and &#x27; mock when their fear  
 cometu.&#x27;&quot; , v 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00202194035:1876080201:0001/pct:1.6218254966054815,84.2537864794976,10.887603721398039,2.6874769117103803/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00202194035:1876080201:0001/pct:1.6218254966054815,84.2537864794976,10.887603721398039,2.6936337889422486/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5034,7 +5034,7 @@ If you can, go, and carry with you the jest of
 what is worse, the pity of the world! Go, starve  
 and be forgotten!&quot; In many stinging phrases
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn86071719:00280777687:1883101001:0468/pct:199.83221476510067,360.678159281949,55.788590604026844,18.35019233509047/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn86071719:00280777687:1883101001:0468/pct:49.968533668974196,90.16953982048724,13.95007342143906,4.587548083772617/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5087,7 +5087,7 @@ it to appeal from the justice to the
 fears of government, and suspect the  
 man who would advise to longer for-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_tesla_ver01:data:sn85038614:00175030876:1885022201:0194/pct:261.2449799196787,252.68689057421452,35.01699104108743,4.810400866738895/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_tesla_ver01:data:sn85038614:00175030876:1885022201:0194/pct:87.08165997322624,84.22896352473818,11.672330347029142,1.6034669555796317/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5128,7 +5128,7 @@ Better English has seldom been wasted in
 in a worse cause. Washington, the man who  
 was aimed at in the last sentence, got hold o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282334:1886050101:0241/pct:19.100294985250738,280.04459308807134,50.073746312684364,42.97658862876254/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282334:1886050101:0241/pct:4.7759542688548775,70.01114827201783,12.52074497510603,10.744147157190636/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -512,7 +512,7 @@ words will nhﬂi@‘ to mo throyugh (he
 same hauds. 1 hop® they will always be good  
 words,” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1825060901:0910/pct:23.488676773348306,8.38443396226415,41.79300018716077,88.03066037735849/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1825060901:0910/pct:23.488676773348306,8.392295597484276,41.79923887953085,88.02672955974843/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -999,7 +999,7 @@ jLEXjynnti rsnEPEynEST bluest
 YOU are hereby notified that a meeting of the Coi  
 pany will be bel&lt;l at the Room adjoining tb
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216389:1827090501:0108/pct:62.091391408523016,3.198854141799952,36.488105425295224,93.60229171640009/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216389:1827090501:0108/pct:62.0807665982204,3.1984723714047023,36.487565594341774,93.59509885825675/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1287,7 +1287,7 @@ membei this visit to your father of
 the eighteen fires, remember these  
 are his last and best words to you!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_topsn83020874_ver01:data:sn83020874:print:1829081201:0002/pct:43.261581656527845,23.93625251431224,16.331305568554047,30.372891845892/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_topsn83020874_ver01:data:sn83020874:print:1829081201:0002/pct:43.27328029948526,23.940120686987466,16.337154890032757,30.372891845892/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1329,7 +1329,7 @@ the words of your father to his chil­
 dren. The Great Spirit, who. is the  
 father of us all, approves them. Let
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_topsn83020874_ver01:data:sn83020874:print:1829082601:0001/pct:23.48159855497855,71.3042150274893,15.24046060058704,17.66951740989615/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_topsn83020874_ver01:data:sn83020874:print:1829082601:0001/pct:23.49288778505306,71.3042150274893,15.251749830661549,17.677153329260843/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1351,7 +1351,7 @@ fires, remember these are his last and
 best words to you!&quot;  
 But the &quot;straight and good talk&quot; o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_topsn83020874_ver01:data:sn83020874:print:1829082601:0001/pct:40.43802212689095,20.815516188149054,14.811469857755702,4.718998167379352/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_topsn83020874_ver01:data:sn83020874:print:1829082601:0001/pct:40.45495597200271,20.815516188149054,14.800180627681192,4.726634086744044/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

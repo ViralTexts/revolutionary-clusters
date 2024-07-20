@@ -200,7 +200,7 @@ alarmed; and as soon as the house met, a mo­
 tion was made and carried, to expunge it from  
 the Journals.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215609:1836011201:0264/pct:10.866244817804931,77.45251396648045,17.226707396901592,13.57169459962756/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215609:1836011201:0264/pct:10.86505945238355,77.44674512140622,17.228464419475657,13.573166492874522/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -236,7 +236,7 @@ tlif mean time, some «f the timid members who
 had voted for the strongest i.-s.iluti.iii, became a­  
 larmed ; and, as soon as
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348859:1836020101:0606/pct:1.2956419316843346,34.82733284349743,15.547703180212014,6.77443056576047/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348859:1836020101:0606/pct:1.295387634936212,34.82221569203644,15.549558390579,6.77710843373494/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -279,7 +279,7 @@ had heretofore guided the proceedings of the House; ‘
 that is to say, oI Pendleton, Wythe, Pland, and Ran- •  
 dol| a.” It was indeed this measure that ta -&gt;ed hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83025241:00383347221:1853090101:0310/pct:57.28077232502011,35.41353383458647,12.496647894877983,2.1267454350161117/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83025241:00383347221:1853090101:0310/pct:57.28524179851613,35.420694593626926,12.501117368374006,2.130325814536341/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -315,7 +315,7 @@ stantly abandoned, and let there be entire, freedom of
 debate on all subjects vitally affecting the public welfare,  
 and let there be harmony and concert of action amon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184716:1861011101:0040/pct:12.70687237026648,205.4121151936445,40.196353436185134,31.290963257199603/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184716:1861011101:0040/pct:4.235030150049082,68.46390626551485,13.396905529846212,10.42928540694403/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -474,7 +474,7 @@ of mind with which he closed his
 sentence and baffled the charge voeif-  
 erated.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_tesla_ver01:data:sn85038614:00175030864:1884091301:0265/pct:83.14925373134328,144.3677924217463,34.76119402985075,15.475700164744646/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_tesla_ver01:data:sn85038614:00175030864:1884091301:0265/pct:27.71641791044776,48.122597473915434,11.587064676616915,5.158566721581549/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

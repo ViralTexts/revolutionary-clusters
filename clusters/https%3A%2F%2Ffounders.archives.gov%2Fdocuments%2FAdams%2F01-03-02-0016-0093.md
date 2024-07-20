@@ -91,7 +91,7 @@ after some time the President resumed the Chair,
 and Mr. Harrison reported that the committee have  
 agreed to a declaration, which they desired him t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00200290185:1840100201:0797/pct:128.10254735467015,113.11858682945837,37.57348138471587,7.442525003247175/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00200290185:1840100201:0797/pct:42.70084911822338,37.70619560981946,12.524493794905291,2.480841667749058/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -164,7 +164,7 @@ A Declaration of the Representatives of the
   
 United States of America, in Congres
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn88078724:00296028034:1861070401:0324/pct:121.8210361067504,94.60352422907489,51.02040816326531,28.19383259911894/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn88078724:00296028034:1861070401:0324/pct:30.473198507755743,23.650881057268723,12.76261535440801,7.048458149779735/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -194,7 +194,7 @@ sequently signed by all the delegates then
 present, including seeral who were not  
 members at the time of the adoption
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn85054845:00212477667:1861072501:0096/pct:43.98577612863327,102.17648450437663,20.114409400123687,13.177194227584575/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn85054845:00212477667:1861072501:0096/pct:32.99829905674965,76.6382777383487,15.092005566723365,9.888810030754673/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -251,7 +251,7 @@ son, Franklin, John Adams, Sherman and R.
 R. L:vingaton  
 The Declaration being lead, was agreed to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058250:0027174481A:1872062901:0309/pct:23.234421364985163,86.44980107652702,14.287833827893175,7.266557453779546/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058250:0027174481A:1872062901:0309/pct:17.438409023449093,64.83735080739527,10.715345799940636,5.452843435525392/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -274,7 +274,7 @@ port. •
 The resolution agreed to in committee of ■  
 the whole being rend
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623756:1874070401:0157/pct:2.690034644385572,55.652818991097924,11.351131037293662,5.0/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623756:1874070401:0157/pct:2.696827661164323,55.65776458951533,11.364717070851166,5.0/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -364,7 +364,7 @@ Then follows the famous “Declara­
 tion of Independence, which was en­  
 grossed and formally signed a fe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00542865982:1896070201:0423/pct:21.80725477570294,33.76909518213866,13.82270873578021,7.4618096357226795/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00542865982:1896070201:0423/pct:21.802575107296136,33.764135702746366,13.82510729613734,7.464385372301366/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

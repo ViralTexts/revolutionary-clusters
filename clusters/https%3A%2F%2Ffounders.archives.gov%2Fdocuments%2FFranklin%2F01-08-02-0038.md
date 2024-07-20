@@ -200,7 +200,7 @@ ity, &#x27;rotten morality,&#x27; righteousness,
 rag&#x27;;&#x27; snd when you mention virtue,  
 pucker up their nones; at tho eamo tim
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn84026817:00202193754:1867071101:0568/pct:67.28246318607765,78.3435047951177,15.502008032128513,7.323452484742807/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn84026817:00202193754:1867071101:0568/pct:67.28246318607765,78.3435047951177,15.528781793842034,7.327811682650393/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

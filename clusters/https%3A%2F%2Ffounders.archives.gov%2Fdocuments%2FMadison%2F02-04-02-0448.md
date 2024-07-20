@@ -292,7 +292,7 @@ Mr. Living Ion and a lio i? presumed lo have
 xinia insight into the present sentiment* &lt; I  
 French Cabinet Slnlt Paptrt, foreign ItWehei
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661332:1844052201:0489/pct:82.08981928788693,57.935186371205326,15.655752370728216,14.845651338542334/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661332:1844052201:0489/pct:82.08981928788693,57.943725716237566,15.661716466869446,14.845651338542334/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -312,7 +312,7 @@ m our neighborhood, render such a provision iodispessable,
 end it cannot be long bofore all the governments of Kurope  
 havinv American colonies mu?t sea the policy of making it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854053101:0739/pct:21.234567901234566,87.9162945004466,15.753086419753087,3.585555697333163/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854053101:0739/pct:21.234567901234566,87.92480115690527,15.775034293552812,3.581302369103824/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -358,7 +358,7 @@ Now Orleans and the Floridas, “or as much
 thereof as the actual proprietor can be pre­  
 vailed on to part with.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_diamondville_ver05:data:sn84022149:00514150072:1883031301:0443/pct:39.85191637630662,16.416577349053235,10.910278745644598,1.7506252232940336/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_diamondville_ver05:data:sn84022149:00514150072:1883031301:0443/pct:39.868249128919864,16.416577349053235,10.90483449477352,1.772954626652376/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -376,7 +376,7 @@ New Orleans and the Floridas, &quot;or as much
 thereof as the actual proprietor can be pre­  
 vailed on to part with.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_alamo_ver01:data:sn85042331:00212470843:1883031601:0527/pct:65.84615384615384,13.669487541137753,14.085470085470085,2.209685002350729/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_alamo_ver01:data:sn85042331:00212470843:1883031601:0527/pct:65.85754985754986,13.677323303557436,14.096866096866098,2.205767121140887/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -401,7 +401,7 @@ and the Floridas, &quot;or as much thereof as
 the actual proprietor can be prevailed on  
 to part with.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_bittern_ver01:data:sn86072040:no_reel:1883042101:1404/pct:82.93172690763052,44.877750611246945,32.58032128514056,18.12958435207824/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_bittern_ver01:data:sn86072040:no_reel:1883042101:1404/pct:27.643908969210173,14.959250203748981,10.860107095046853,6.04319478402608/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

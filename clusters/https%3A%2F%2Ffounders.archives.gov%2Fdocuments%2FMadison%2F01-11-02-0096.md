@@ -199,7 +199,7 @@ What those polificans would nmv say, if al|
 if them were yet among the living—what they  
 would say, with Ihe actual experience ofth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183979:1823100701:0181/pct:65.25521089775152,22.676272587693397,15.903495814869522,21.825912365654897/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183979:1823100701:0181/pct:65.24450278962914,22.67359470949457,15.906355978558144,21.82727129585892/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -292,7 +292,7 @@ way of selecting the man in whom they place
 the highest Confidence, than that delineated in  
 the plan of the convention.” lint that pla
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183979:1823102401:0201/pct:64.7758315924795,69.424502765682,15.008838180941668,3.2599741085088856/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183979:1823102401:0201/pct:64.76542416452442,69.4163332548835,15.0117823479006,3.2635129834470855/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -341,7 +341,7 @@ dison says, pa. 851. 4 Perhaps it will he found
 ‘ the electors.*  
 Waving shewn hy reference to this clause o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183980:1824111601:0215/pct:32.60623687186945,69.31071556564329,15.010502504443368,7.561820571018994/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183980:1824111601:0215/pct:32.600969305331176,69.30243669374104,15.013462574044157,7.564898869246695/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -369,7 +369,7 @@ Here is a •* compromise ” All this shows very
 clearly, Mr. Chairman, that the election ol the j  
 electors for the President and \ ice President,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:0041421647A:1833032201:0404/pct:64.08706166868198,18.062600519609056,18.15512178269131,9.006556971421501/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:0041421647A:1833032201:0404/pct:64.07599309153713,18.06036615536863,18.157743235463442,9.00956622134257/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

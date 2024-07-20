@@ -218,7 +218,7 @@ commended to the people at large to sol
 low the fame line of condudl towards  
 tliem
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792090501:0002/pct:6.991720331186753,5.161667315932996,41.490340386384545,90.88430074016361/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792090501:0002/pct:6.991720331186753,5.176275808336579,41.50567310640908,90.86969224776003/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -260,7 +260,7 @@ be and it is hereby most earnestly recommended
 to the people at large to follow the fame line of  
 conduct towards thein.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792090501:0003/pct:72.21702525724977,53.07512650836902,21.234798877455567,16.387699493966522/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792090501:0003/pct:72.22482070470845,53.0799922148696,21.24259432491425,16.407162319968858/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -742,7 +742,7 @@ reported b, ihfe Secretary &amp;&#x27; tiie Yreaiury to the Pre­
 li&#x27;dent. Ihe rrehdent on the irth of September*  
 ifiv.i a proclamation- • ai. eftly ac&#x27;momi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794082101:0001/pct:7.5688686814656325,12.606949537279553,80.79700454667024,82.94045748210232/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794082101:0001/pct:7.582241240973523,12.620045398987253,80.80369082642417,82.92736162039462/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -826,7 +826,7 @@ re foe d to which ihere had&#x27;fceen a compliance with
 the laws.  
 1 he motives to this plan speak for I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794082101:0001/pct:68.38726932334849,53.86764449100751,19.65766247659802,40.30033176182993/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794082101:0001/pct:68.38726932334849,53.86764449100751,19.677721315859856,40.30033176182993/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1317,7 +1317,7 @@ notoriety, that the revenue la„t .
 a&#x27;WT either resist &#x27;  
 defectively complied with in the W u
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794082101:0004/pct:17.23076923076923,5.355884425651867,80.8951048951049,91.27906976744185/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794082101:0004/pct:17.244755244755243,5.369097956307258,80.88111888111888,91.26585623678648/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1395,7 +1395,7 @@ mending it to the people at large, t(
 lollow the fame line of conduit toward  
 them.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794120101:0002/pct:59.664089576113035,15.629161118508655,17.11543588376433,39.96338215712383/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794120101:0002/pct:59.67075446547587,15.629161118508655,17.128765662490004,39.96754327563249/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1554,7 +1554,7 @@ till morning. Not content with this, the malcon-
 41 the people at large to follow the same  
 44 kind of conduct towards them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808090501:0460/pct:40.728138822728816,18.92542101042502,18.067369853691734,10.59542902967121/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808090501:0460/pct:40.72121109032148,18.923524105442517,18.068549072971592,10.596872807457151/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1627,7 +1627,7 @@ it is hereby most earnestly recommended
 to the people at large to follow the same  
 kind of conduct towards them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813052001:0196/pct:51.430439758051335,51.742160278745644,18.571195030243583,15.64459930313589/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813052001:0196/pct:51.422033344230144,51.73765351450222,18.573607932875667,15.646139999419331/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1730,7 +1730,7 @@ fori,.^ . . -. ■ .. ^ - ,.&quot; j.■
 of tliose W&#x27;fco might esttuhn it the Hr duty, intfi*  
 espmdiy of irtficert; to aid&gt;jn the constitutiona
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813090801:0599/pct:29.86198243412798,40.276647681041496,21.756587202007527,52.53051261187958/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813090801:0599/pct:29.85449071751129,40.27009437032216,21.757400903161063,52.526033192320206/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1944,7 +1944,7 @@ f&#x27;*w i* tbtf inore exuaoidhiiiry,. as persons of ^
 weight and coiwidtililicii f:i that t.oumry^tre  
 derstoud to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813090801:0599/pct:30.614805520702635,3.515052888527258,66.19824341279799,95.70382424735557/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813090801:0599/pct:30.60712493728048,3.5144809632281158,66.18790767686905,95.69232020826554/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2022,7 +2022,7 @@ were reported by the secretary of the treasury*
 to the president. The president on the i£th of  
 September, 1792, issued a preelam&amp;tioa, ear­
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813091101:0602/pct:26.301162203132897,55.23887973640856,21.77867609903992,43.130148270181216/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813091101:0602/pct:26.294518817883304,55.229780925712404,21.779489770143975,43.12716191731181/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2096,7 +2096,7 @@ tisua.l measures were tajt*n for carrvine them i
 mtoeftdch&#x27; 4 j  
 4* But it appearing afterw&#x27;ards, from various 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813091101:0602/pct:48.2566953006569,20.807248764415156,22.182920667003536,40.24711696869852/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813091101:0602/pct:48.24450618843142,20.803821446219732,22.1836322303612,40.24460550156482/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2192,7 +2192,7 @@ these instances (which happened iu the&#x27;county
 •f Alleghany) though tha presumptions ntrl  
 violent, j*a%giX positive proof ohtaineds-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813091101:0602/pct:70.61647296614451,42.15815485996705,22.966144517433047,55.683690280065896/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813091101:0602/pct:70.59863601919676,42.151210673694614,22.96665824703208,55.67863613902158/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2566,7 +2566,7 @@ same qnnrfer, v &quot;•„&gt; ? 1*
 . “ With the* most perfect respect, That*; tfe|t  
 honor If Sir, your most «rbedienthua»bt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813091501:0606/pct:26.07133692584039,14.963624338624339,68.20631254811393,83.71362433862434/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813091501:0606/pct:26.064648537711648,14.961150603405521,68.19522832221652,83.7039180029757/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2603,7 +2603,7 @@ that tt l)e and it is hereby most earnestlv re^aifiJ ‘
 ntemied, to the people at large, to follow the  
 same liue of eondnet toward* them, t ■« 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813091801:0612/pct:70.09369460622942,26.666666666666668,22.71461129399848,16.303630363036305/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813091801:0612/pct:70.07594936708861,26.66226695264808,22.71518987341772,16.3050651707639/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2636,7 +2636,7 @@ most earnestly recommend it to the peo­
 ple at large to pursue the same measures*”  
 We leave it to the editors of the Intel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025001:0041421633A:1824091801:0415/pct:21.66311300639659,12.43527787366241,17.28500355366027,5.410769761822575/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025001:0041421633A:1824091801:0415/pct:21.66003411028994,12.43420484942618,17.287284441917755,5.413179164149912/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3894,7 +3894,7 @@ to compel him to resimi his oflice.
   
 These tilings were permitted to pass withou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661381:1850110601:0465/pct:32.7018238371271,10.846501128668171,15.22691927046515,5.553047404063205/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661381:1850110601:0465/pct:32.71124935199585,10.854025583145223,15.22691927046515,5.553047404063205/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3925,7 +3925,7 @@ forts of life which depend upon those duties
 All these proceedings of hostility were reported  
 by the Secretary of the Treasury to Presiden
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661381:1850110601:0465/pct:32.74423865403648,35.10158013544018,14.802771101371412,10.82392776523702/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661381:1850110601:0465/pct:32.74423865403648,35.10910458991723,14.812196616240161,10.82392776523702/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3947,7 +3947,7 @@ No prosecution was commenced against the
 persons who look part in the 1&#x27;itishiirg meeting,  
 i from a doubt on the part of the Attorney (icneera
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661381:1850110601:0465/pct:32.65940902021773,55.77878103837472,15.735897073377632,6.591422121896162/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661381:1850110601:0465/pct:32.65940902021773,55.77878103837472,15.750035345680757,6.595184349134688/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3968,7 +3968,7 @@ oJJ&#x27;inrd him jirntertinn, owing to the too general
 combination of the people in that part of I&#x27;erin  
 sylvania to oppose the Revenue law, and th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661381:1850110601:0465/pct:32.73010038173335,90.01128668171557,13.714124134030822,4.198645598194131/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661381:1850110601:0465/pct:32.73481313916773,90.0150489089541,13.728262406333945,4.2024078254326565/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

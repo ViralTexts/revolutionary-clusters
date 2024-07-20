@@ -220,7 +220,7 @@ and calumny are to be their ordinary en
   
 gines of opposition.&quot; Ttois language of Mr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197966:1840101401:0586/pct:27.17391304347826,22.028365601080594,20.986622073578594,6.359747861323728/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197966:1840101401:0586/pct:20.393086144410372,16.524088248536696,15.751324226373013,4.7726249437190456/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -252,7 +252,7 @@ der it becomes mere requisite and ptaap-Jr
   
 t requires, indeed, self command. jtrh-.&quot;T
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn83016785:00295877935:1843092701:0665/pct:10.243467933491686,28.46433439345752,122.65439429928742,8.882326215356656/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn83016785:00295877935:1843092701:0665/pct:7.69116555308092,21.353930031803724,91.9970304380104,6.656065424806906/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -300,7 +300,7 @@ It requires, indeed, self command. But that will
 Li. fortified in proportion as the ca ils for its exer  
 ti -so are repeated.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn83016785:00295877947:1843100401:0002/pct:6.474719101123595,9.607379907751152,20.519662921348313,21.757228034649568/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn83016785:00295877947:1843100401:0002/pct:4.86023317881725,7.211159860501744,15.39542070515522,16.312296096298795/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -347,7 +347,7 @@ It requires, indeed, self command. But that will
 bu fortified in pro portion as the ca Hs for its exer  
 lseare repeated
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn83016785:00295877947:1843101101:0007/pct:27.0065970313359,23.794475655430713,19.969763606377132,21.769662921348313/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn83016785:00295877947:1843101101:0007/pct:20.266739997250102,17.848782771535582,14.986937989825382,16.327247191011235/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -413,7 +413,7 @@ be fortified in pro portion a the calls for its exer
   
 cise are repeated.&#x27; : . 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn83016785:00295877947:1843101801:0011/pct:24.040632054176072,10.1010101010101,20.696952595936793,20.589617101245008/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn83016785:00295877947:1843101801:0011/pct:18.033018202342316,7.575757575757576,15.53548751234655,15.445149166079398/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -518,7 +518,7 @@ j but that will be fortified in proportion as the calls for its
 exerci*e are repeated.&quot; All thi* may be true; but I doubt  
 that any man erer becomes insensible to Calumny an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82003410:00415661071:1856061001:0656/pct:36.44538914323087,34.61441532258065,16.02354480052322,24.130544354838708/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82003410:00415661071:1856061001:0656/pct:36.44538914323087,34.622815860215056,16.028994985829517,24.126344086021504/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -557,7 +557,7 @@ as the trial is severe, firmness
 under it becomes more requis  
 ite and praiseworthy.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_coldplay_ver02:data:sn83007654:00393342754:1898082601:0051/pct:12.939902544667028,38.48048876625936,11.315646995127233,4.76941269215609/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_coldplay_ver02:data:sn83007654:00393342754:1898082601:0051/pct:12.9381513059954,38.476697211547936,11.31749898497767,4.771406049857129/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

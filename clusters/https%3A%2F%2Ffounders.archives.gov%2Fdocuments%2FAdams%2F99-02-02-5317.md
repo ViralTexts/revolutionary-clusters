@@ -102,7 +102,7 @@ for a long time, and I thank you for
 it, exprefled a filial affe&amp;ion for .  
 JOHN ADAMS.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809032801:0257/pct:6.659439368127614,7.980845969672785,17.051262196066286,30.88587390263368/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809032801:0257/pct:6.659439368127614,7.980845969672785,17.066749264364255,30.88587390263368/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -168,7 +168,7 @@ have for a long time, and I thank you for it,
 expressed a filial affection for  
 . JOHN ADAMS.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1809032901:0008/pct:2.447437582128778,2.6044821320411873,44.2838370565046,93.11528366646476/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1809032901:0008/pct:2.4583880858519493,2.6078470960360725,44.2838370565046,93.12537855844943/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -194,7 +194,7 @@ vements. I have acted a pari in
 thodati—But I—Very well!—I &#x27;  
 will now tell you die reeempen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809033101:0003/pct:7.308631921824104,40.11658717541071,17.42671009771987,8.25384207737149/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809033101:0003/pct:7.308631921824104,40.12100335629747,17.447068403908794,8.262674439145027/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -226,7 +226,7 @@ lite only ones
 ►1 longtime and I thank you for it ex- j  
 , I pressed! a fill I i fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809033101:0003/pct:19.747557003257327,1.815050344462109,22.923452768729643,92.36883942766296/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809033101:0003/pct:19.747557003257327,1.815050344462109,22.923452768729643,92.38208797032327/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -279,7 +279,7 @@ the only ones out ot my own houfe, who have
 ; fed a tiliai alTedliou Tor  
 JOHN ADAMS.” (4
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1809040301:0580/pct:59.60890087660148,13.593196314670447,36.300292200494496,81.13394755492558/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1809040301:0580/pct:59.59550561797753,13.591269841269842,36.29775280898876,81.12599206349206/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -381,7 +381,7 @@ and communicate my sentiments as freely
 to tho?e who wish to know them.  
 I am totis viribus [with my whol
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809040401:0410/pct:77.29336966394187,13.86824537095352,18.982742960944595,49.65360876684721/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809040401:0410/pct:77.27933163821285,13.866498740554157,18.985349315897807,49.65155331654072/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -425,7 +425,7 @@ who have for a long time, and 1 fhtC&#x27;fc. you
 for it, expressed a filial affection tor  
 ^ JOHN ADAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809040401:0410/pct:77.4205267938238,63.43368182390729,17.856494096276112,16.790527774278875/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809040401:0410/pct:77.40646567381039,63.4256926952141,17.8593050006054,16.79261125104954/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -561,7 +561,7 @@ have for a to g time and I thank you for it,
 l expressed a filia; affection for  
 i JOHN All AMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809040401:0104/pct:41.74191121143717,3.6276166948381223,36.832204665161775,92.6927577688207/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809040401:0104/pct:41.73406056046643,3.627145085803432,36.831546611497714,92.68504073496273/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -861,7 +861,7 @@ ones out ot my own house, who have for a long time,
 and 1 thank you for it, expressed a filial affection for  
 John Adams
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809040701:0421/pct:75.48076923076923,28.888531446035064,21.88765182186235,59.93244330062731/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809040701:0421/pct:75.46167467746015,28.883885493727888,21.888439160131547,59.92682534577035/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1406,7 +1406,7 @@ men ale almost the only ones out of my own house,
 “ expressed a filial affection far  
 Tr ,. , . “ JOHN ADAMS ’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809042401:0441/pct:54.33325055872858,64.6380525304292,20.95852992301962,4.292120435618194/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809042401:0441/pct:54.319761668321746,64.62770216172939,20.95953326713009,4.295436349079264/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1450,7 +1450,7 @@ fora long time,and I thank you font,
 expressed u filial affection for  
 JOHN ADAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1809052201:0609/pct:23.46456692913386,64.77180664326222,18.020247469066366,5.130974885228193/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1809052201:0609/pct:23.459289248762932,64.76306196840827,18.021817363922626,5.133657351154313/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1471,7 +1471,7 @@ own house, who have for a long time, and
 I thank you for it* expressed a filial af­  
 fection for John Adams.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1811040501:0068/pct:4.2386928723656165,37.6348726801899,22.2827373904807,5.380520788375773/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1811040501:0068/pct:4.237689393939394,37.62945914844649,22.283380681818183,5.383342922899885/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1633,7 +1633,7 @@ for a long time, and I th ink you for it, ex
 pressed a filial affection for  
 JOHN ADAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn84023914:00296029816:1844030701:0047/pct:87.28100911002102,16.531731522590754,40.679747722494746,110.36824236092974/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn84023914:00296029816:1844030701:0047/pct:65.49246407290572,12.405327761817707,30.52926743778479,82.7761817706973/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

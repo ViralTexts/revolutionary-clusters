@@ -44,7 +44,7 @@ on a looting twill the subjects or citizens
 of the most favoicd nation.  
 ARTICLE 5th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898036:1825082701:0092/pct:4.285340998170891,10.500995355009954,35.06663182649595,84.93696084936961/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898036:1825082701:0092/pct:4.284221525600836,10.499253607563443,35.06400208986416,84.92701940620336/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -135,7 +135,7 @@ ports and places subject to the jurisdiction of
 ~each other, as well with respect to the consign­  
 ment and sale of their goods and merchandise,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1828061701:0512/pct:4.105571847507331,87.96063861833517,17.209445902145394,5.0607490711918866/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1828061701:0512/pct:4.105571847507331,87.9673327308632,17.214590729021968,5.0607490711918866/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -158,7 +158,7 @@ well with respect to thé consignment and
 sale of their goods and merchandize by  
 wholesale ar retail, as with respect to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153188:1830093001:0558/pct:17.78691455130497,25.29584065612185,16.178047908473363,5.213825424721734/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153188:1830093001:0558/pct:17.79287331664879,25.29584065612185,16.184006673817183,5.225541886350322/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -188,7 +188,7 @@ business in all the ports and places subject to the juris­
 diction of each other, as well with respect to the con­  
 signment and sale of their goods, and merchandise, a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1839052101:0289/pct:18.419515045281916,81.0569021117237,14.782354659655272,2.891917195464475/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1839052101:0289/pct:18.42438406855585,81.0569021117237,14.792092706203135,2.898852248691009/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -242,7 +242,7 @@ least to be placed on an equality with the subjects or citi­
 zens of the most favored nation.  
 Arr. 8. The citizens of neither of the contracti
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191289:1848072201:0275/pct:80.52401746724891,228.3828382838284,57.81659388646288,19.273927392739274/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191289:1848072201:0275/pct:20.131004366812228,57.0957095709571,14.45414847161572,4.818481848184819/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -272,7 +272,7 @@ ARTICLE VII.
 The citizens of neither of the contracting  
 parties
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777791:1852090101:0565/pct:333.7909992372235,125.43832666871732,44.54614797864226,28.791141187326975/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777791:1852090101:0565/pct:83.49551612287732,31.35958166717933,11.14291165808052,7.197785296831744/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -299,7 +299,7 @@ with the subjecta or citizen* of the most favored nation.
 ARTICLE VIII.  
 The citizen* of neither of the con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661216:1853042001:0490/pct:31.95428203477141,71.56677974619927,15.534449452672247,6.39527578841563/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661216:1853042001:0490/pct:31.965013951491738,71.57515600787369,15.529083494312085,6.399463919252837/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -320,7 +320,7 @@ iness in all the ports and places subject to the
 jurisdiction of the other, as well with respect  
 to the consignment and sales of their good
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172121:1863020301:0113/pct:72.54352611566941,90.21219366407651,15.96958174904943,4.049611476389719/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172121:1863020301:0113/pct:56.227058884350924,69.92086469793476,12.381740164400558,3.138390272148234/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -373,7 +373,7 @@ their goods and merchan­
 dise, by wholesale or retail,  
 as with respect to the load
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn83016318:00296024582:1863072901:0121/pct:84.03667054714785,169.41591784338897,18.378928987194413,18.35686777920411/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn83016318:00296024582:1863072901:0121/pct:28.02445770854564,56.471972614462985,6.128985296258553,6.1189559264013695/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

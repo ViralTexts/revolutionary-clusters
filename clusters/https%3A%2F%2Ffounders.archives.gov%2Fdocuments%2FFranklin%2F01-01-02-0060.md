@@ -87,7 +87,7 @@ ple of benevolence,&#x27;: Fewer still, in public
 affairs, act with a view to the good ofmankind.&quot;-;.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_icydrop_ver05:data:sn83016872:00295878502:1847071701:0284/pct:8.524355300859598,34.705971736818114,21.060171919770774,18.614192371979943/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_icydrop_ver05:data:sn83016872:00295878502:1847071701:0284/pct:6.40076427036064,26.029478802613585,15.810843085741581,13.964443093754749/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -131,7 +131,7 @@ whoever attempts this aright, and is well
 qualified, cannot fail of pleasing God and of  
 meeting with success. The plan of this societ
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743762:1871122401:1066/pct:57.70597738287561,74.87005649717514,46.07431340872375,34.056497175141246/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743762:1871122401:1066/pct:19.235325794291867,24.95668549905838,15.358104469574583,11.352165725047081/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -168,7 +168,7 @@ which good and wise men may probably be more
 unanimous in their obedience to than common  
 people are to common laws.&quot; This party he pro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743889:1874102601:0352/pct:8.463845384871709,174.59728821416155,46.5844718427191,19.944373623826632/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743889:1874102601:0352/pct:2.8212817949572364,58.19909607138718,15.528157280906365,6.648124541275544/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -202,7 +202,7 @@ common laws. I at present think that whoever
 attempts this aright, and is well qualified, cannot  
 fall of pleasing God and of meeting with success.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:00271743932:1875060201:0867/pct:11.656239710240369,220.75255248365264,46.378004609812315,15.28048640587358/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:00271743932:1875060201:0867/pct:3.8854132367467895,73.58418416121755,15.459334869937438,5.093495468624527/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

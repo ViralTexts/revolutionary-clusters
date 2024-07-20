@@ -381,7 +381,7 @@ end perpetusl upion betweea the thirteen states of
 America, as is contained in the words following, vis,  
 * All charges of war 2ad al} other expences tha: fha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1783070501:0383/pct:34.69557964970809,46.305887326921045,26.9557964970809,13.307261388859528/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1783070501:0383/pct:34.701139838754514,46.305887326921045,26.9557964970809,13.317831096078638/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -498,7 +498,7 @@ of the public papers, that the State of New-York, by
 reserving such appointment to itfelf, has zot complicd  
 with the resolves, That a&amp; of the State, upon thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025586:0051701512A:1786051101:0286/pct:65.98313966735019,18.661866186618663,28.229665071770334,9.960996099609961/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025586:0051701512A:1786051101:0286/pct:65.98313966735019,18.661866186618663,28.237259816207185,9.97099709970997/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -622,7 +622,7 @@ red for the common delenre and general welfare an,I
 shall be defiayed out of a common treasury which shall  
 be supplied by Hie severs! States, |„ propm.lm, !o ,||,?/
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1833120301:0244/pct:81.60670814173655,67.45128092839938,14.498241817690019,1.9597109700021895/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1833120301:0244/pct:81.59567275185937,67.44389709906952,14.500788821275636,1.9631454114212734/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -646,7 +646,7 @@ tening the extinguishment of the debts
 as of establishing the harmony of the  
 I nited States.&quot; All the deeds of cessio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1834112601:1101/pct:44.81304985337243,42.244262484142546,17.430351906158357,6.354515050167224/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1834112601:1101/pct:44.825268817204304,42.25195094760312,17.442570869990224,6.354515050167224/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -757,7 +757,7 @@ hastening the extinguishment of the debts,
 as o! establishing the harmony of the  
 United States?and the inhabitants of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156992:1835081401:0119/pct:74.28360140506562,28.821011222954994,18.191902384914034,2.6726830961471713/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156992:1835081401:0119/pct:74.29592654218278,28.828724594083845,18.179577247796882,2.6765397817115972/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -936,7 +936,7 @@ i treasury, which shall be supplied by the
 . several slates. ihe mode ol determi  
 ; ping the proportion which each of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85026142:00296026827:1837122301:0203/pct:6.746724890829694,68.5402280391842,20.458515283842793,17.632889031636424/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85026142:00296026827:1837122301:0203/pct:5.067715159458278,51.40517102938815,15.356050677151595,13.232696322466678/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -966,7 +966,7 @@ tinguishment of the debts, as of establishing the
 harmony of the United States,&quot; Ipage 109,) and  
 declared that the lands &quot;shall be considered 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1840081701:0160/pct:135.37313432835822,245.73643410852713,57.3134328358209,13.621262458471762/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1840081701:0160/pct:33.86223632630203,61.434108527131784,14.336382303528094,3.4053156146179404/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1009,7 +1009,7 @@ ditions.
 Resolution of Congress, Oct. 10,17e0.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1841012801:0139/pct:31.936098490400116,78.12093953023488,15.60896966143925,4.2478760619690155/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1841012801:0139/pct:31.94098392691387,78.12427119773447,15.604084224925497,4.251207729468599/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1031,7 +1031,7 @@ of the United States,&quot; and declared that the lands
 on the name condition*.  
 Hesolutions b%f Congress, (Jet. 10, 1 iHO
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1841020601:0560/pct:49.54407294832827,13.111821086261982,15.644555694618273,4.242811501597444/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1841020601:0560/pct:49.54407294832827,13.120340788072417,15.656475356099886,4.242811501597444/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1185,7 +1185,7 @@ debt then incurred, and to be incurred, in the prose­
 cution of the war.  
 By examining the deeds of cession fr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184595:1841100501:0908/pct:53.493415956622776,83.32014022390591,38.91556932610379,30.272531946172112/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184595:1841100501:0908/pct:17.82837670384139,27.770239710538217,12.969847170590665,10.089703000150761/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1229,7 +1229,7 @@ eign port, island or plantation.&quot; (Here follows a
 scale of duties on articles enumeraled) &quot;And er  
 all other duties imported for the United States 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186439:1843011901:0064/pct:145.27595884003742,160.50164373554122,42.34487059557219,13.63691708267381/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186439:1843011901:0064/pct:48.41777084957132,53.494034575115656,14.112756560145492,4.545085626166707/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1268,7 +1268,7 @@ fectual revenues of such a nature as they may re­
 specifully judge most convenient, to the amount of  
 and in the proportions following, viz.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186439:1843011901:0064/pct:144.94855004677268,180.11688786070863,42.67227938883692,37.89114817971509/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186439:1843011901:0064/pct:48.308651597817615,60.03165327489652,14.221875811899194,12.628845061277493/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1411,7 +1411,7 @@ of part of the same as a further means, as well of
 hastening the extinguishment of debts as of estab­  
 lishing the harmony of the United States ; and th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022639:1853110901:0177/pct:68.65329512893983,81.87035069075452,20.716332378223495,3.8894792773645057/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022639:1853110901:0177/pct:51.49734919042843,61.40276301806589,15.546639919759278,2.922422954303932/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1439,7 +1439,7 @@ lishing the harmony of the United States, patriotic
 and Union-loving old North Carolina ! and comply­  
 ing with the reasonable desires of her citizens,&quot; &amp;e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:0029602272A:1853110901:0363/pct:69.24698795180723,83.39087986665079,20.210843373493976,10.977497321109656/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:0029602272A:1853110901:0363/pct:51.966249811661896,62.54315989998809,15.172517703781828,8.239076080485772/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1551,7 +1551,7 @@ States the following duties upon goods
 imported into the said 8tates from any  
 foreign port, Island or plantation, givin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85026309:00280775927:1871020101:0096/pct:23.119266055045873,55.739590522199215,13.654434250764526,5.5785599263860135/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85026309:00280775927:1871020101:0096/pct:17.34740706746214,41.81044398435703,10.249349854673397,4.186795491143317/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1612,7 +1612,7 @@ ing tho harmony of the United States; and
   
 the inhabitants or the saiu western tem-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn91090200:00415667541:1887062301:0102/pct:83.46987315010571,49.90759990759991,14.587737843551798,4.723954723954724/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn91090200:00415667541:1887062301:0102/pct:62.6305353602115,37.433587433587434,10.945142101784533,3.545853545853546/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1641,7 +1641,7 @@ part of the same as a further means, as well of
 hastening the extinguishment of the debts, as of  
 establishing the harmony of the United States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84020714:00296023036:1887070801:0113/pct:59.90324416619237,50.42091271599468,17.330677290836654,8.80593708462561/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84020714:00296023036:1887070801:0113/pct:44.94733845715913,37.81568453699601,12.994591517221748,6.612760301284891/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

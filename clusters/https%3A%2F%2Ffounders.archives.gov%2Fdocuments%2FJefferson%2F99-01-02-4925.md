@@ -428,7 +428,7 @@ Ba-strbp&#x27;s claim oh the \\ asbita.
 This was the state of my information  
 of his pi ■■■- ■ &lt; ai, ; about the la ,t tt No
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807012301:0003/pct:2.982530890498509,1.8489170628631801,37.08990200255646,94.77020602218701/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807012301:0003/pct:2.982530890498509,1.8489170628631801,37.111205794631445,94.77901038915302/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -636,7 +636,7 @@ ptoper direction.
 Til : JEI&#x27;FERSON:  
 January 22, 1807
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807012301:0003/pct:22.134639965913934,1.8621236133122028,37.515977844056245,95.02113048071844/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807012301:0003/pct:22.14174122993893,1.870927980278218,37.53728163613123,95.02553266420145/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -696,7 +696,7 @@ gan w be st&#x27;sllzznshd but still so blcndcd
 and inv :lved in m)stc1y&#x27;.h4t umhicg dis  
 tinctctcould b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216055:1807012401:0400/pct:53.44622697563874,9.847679773290825,22.756981580510992,34.723698193411266/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216055:1807012401:0400/pct:53.43828902420912,9.846807757017622,22.758552403584336,34.72357507600579/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -773,7 +773,7 @@ teeeiv&#x27;ed : few sida&#x27;ysss earlier; Whenfbrougcthr
 r&#x27;bgc-zh&#x27;er, developcd— Burr&#x27;a gcnenl-&quot;ssdc­  
 signe, diﬀqrzssmf&#x27;patussjni which on!) hid
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216055:1807012401:0400/pct:53.44622697563874,57.82855118668083,22.756981580510992,38.115479985830675/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216055:1807012401:0400/pct:53.43828902420912,57.823430443637655,22.758552403584336,38.115056524690814/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -849,7 +849,7 @@ a power in amity with the United States \ with
 the vteafures pur feed for Jnppreffng the fame /  
 in purftseenre of a refclution of the hortfe of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1807012701:0330/pct:5.011094674556213,76.1875,18.102810650887573,12.1/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1807012701:0330/pct:5.010168238121649,76.1779777527809,18.10562642509398,12.1026538349373/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1202,7 +1202,7 @@ here, and l he courtc of proceedings receive here
 its proper direction.  
 /angary4#, tsoT. TH: JEFFERSON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1807012701:0330/pct:6.897189349112426,2.8875,52.97707100591716,93.475/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1807012701:0330/pct:6.895914217045664,2.8871391076115485,52.973439329512544,93.46748323126276/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1236,7 +1236,7 @@ expectations, and the fame law deemed necef­
 faiy on failure of that, isJlill suspended to give  
 time for a fair trial of the iflue.” Such is Mr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1807012701:0331/pct:22.412495295445993,48.06280070904026,17.952578095596536,11.838440111420613/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1807012701:0331/pct:22.408278457196612,48.056716040005064,17.95547193477579,11.841161328438199/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1269,7 +1269,7 @@ W ith the fame power, negotiation isltill pre­
 ferred, and prorifiotial meafurrs only arc ne­  
 cc&#x27;Viry to meet the event of rupture.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1807012701:0331/pct:22.939405344373352,1.3800962268928842,36.488520888219796,95.04937958976956/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1807012701:0331/pct:22.935089369708372,1.3799215090517787,36.487927249921604,95.04156644300966/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1298,7 +1298,7 @@ proceed on his expedition to Mexico, and to this
 object all his means and preparations were now  
 directed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1807012701:0331/pct:59.59729017689123,38.047606989111166,17.839668799397817,8.432514560648265/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1807012701:0331/pct:59.58607714016933,38.04279022661096,17.8425838820947,8.435666962062708/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1650,7 +1650,7 @@ rection.
 TH : JEFFERSON. i  
 January 22J, 1807. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807012701:0035/pct:1.627554882664648,8.805989087679228,55.79106737320212,82.57835300088821/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807012701:0035/pct:1.6272469252601702,8.804871859934027,55.78681803847367,82.57210521864162/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1983,7 +1983,7 @@ of proceedings receive here its proper direction. &amp;
 * Th. Jefferson.  
 January 22, 1807
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807013001:0342/pct:7.423687423687424,2.720435269643143,65.39682539682539,93.50296047367578/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807013001:0342/pct:7.421875,2.72,65.386962890625,93.492/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3608,7 +3608,7 @@ or any other place in that quarter, cannot threaten
 serious danger to the city of New^Orleans.” In  
 short, the general impression made by the commu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807020201:0347/pct:27.097902097902097,36.73139158576052,21.22877122877123,6.699029126213592/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807020201:0347/pct:27.091136079900124,36.72544895647953,21.22971285892634,6.701989969260637/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3810,7 +3810,7 @@ offers of land in&#x27; Baftrop’s claim on
 the Walhlter e o Suine o v  
 - This was the faté of my informa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1807020301:0440/pct:59.58508812977695,3.478520881092395,34.76836686944314,91.58776039071066/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1807020301:0440/pct:59.59028752664691,3.4851656201202696,34.783965060053035,91.58776039071066/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4020,7 +4020,7 @@ reflion, ‘
 TH: YEFFERSON.  
 Jan. 20, 1827.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1807020301:0441/pct:5.605275553462082,3.296373988612526,35.751295336787564,92.59814204375188/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1807020301:0441/pct:5.610509237452242,3.3030333300036627,35.75652902077773,92.59148270236074/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4041,7 +4041,7 @@ Union, and a military expedition planned l,y them a.
 gainjl the territories of a poorer in a- -ty ooith the Uni.  
 ted State, ; with the meafures for fifp,ej?,n
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1807020301:0342/pct:76.06498194945848,37.24188790560472,17.166064981949457,3.367748279252704/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1807020301:0342/pct:76.05125428622992,37.2373110482979,17.168982734765084,3.371430912293638/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4564,7 +4564,7 @@ nubile, tha‘ being already removed fror
 here, and the course of proceeding? receiv  
 here bs proper direction/* The ioT*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807020601:0044/pct:21.698650959528784,42.754445705637536,18.031540946228386,15.109093202169252/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807020601:0044/pct:21.694528875379937,42.74905422446406,18.034447821681866,15.111391340899537/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4591,7 +4591,7 @@ m
 jecta under* their  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1807020601:0712/pct:10.580856285792201,79.67042497831743,20.970820834469595,10.997398091934086/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1807020601:0712/pct:10.577971646673937,79.65660770031218,20.971919302071974,10.999826569545613/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4902,7 +4902,7 @@ their proper direction,
 f TH : JBPFMfSCfN.  
 January SS, 1807. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1807020601:0712/pct:11.671666212162531,5.98438855160451,83.2833378783747,91.74327840416305/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1807020601:0712/pct:11.668484187568158,5.983350676378772,83.26744820065431,91.73170308706209/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4955,7 +4955,7 @@ der it difficult to lift out the mal tact, and
 unadvifi able to baton d more lhan gc *cial  
 ou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1807020901:0132/pct:3.5484961135518756,18.398806563898557,17.522811760729976,22.40676280457484/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1807020901:0132/pct:3.5478966041561075,18.396976929196498,17.52407501267106,22.407020684168657/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5108,7 +5108,7 @@ laud ui iialtiop’s dam on the WathiU.
 1 ms as the Hate ot my intoi mation of  
 &#x27; hi.s proceedings 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1807020901:0132/pct:3.0415680973301793,14.96767777225261,36.71848597499155,78.1302834410741/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1807020901:0132/pct:3.0410542321338063,14.966189339697692,36.71650616658219,78.125/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5310,7 +5310,7 @@ of proceedings receive here their proper
 direction. Th : JEFFERSON.  
 jan, %i, 1807
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1807020901:0132/pct:21.240283879689084,15.017404276479363,36.83676917877661,77.83192441571357/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1807020901:0132/pct:21.236695387734414,15.015910898965792,36.83476938672073,77.82667064439141/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5331,7 +5331,7 @@ trom Ohio^ml their associates from Cumberland,or
 other places yr that quarter, cannot threaten serious  
 dan get&#x27;to the pit/ of New-Orleans Jgdi that be th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807020901:0357/pct:27.524752475247524,32.39345324906822,21.138613861386137,4.845243882677038/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807020901:0357/pct:27.517941103687207,32.38820479585224,21.139569413511506,4.84850939727803/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5378,7 +5378,7 @@ should consider that the
 Corpus as holding out ai&gt; ii  
 which was highly improper,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807020901:0357/pct:27.425742574257427,39.84767460703289,21.262376237623762,22.346459244854966/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807020901:0357/pct:27.418955704033657,39.841218405703174,21.263301163078445,22.346889176928062/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5403,7 +5403,7 @@ which is Aaron Burr. From this statement it ap­
 pears that the largest calculation as to the actual  
 iorce of the conspirators, is three.hundred. Bu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807020901:0358/pct:7.557853274249139,50.72393822393823,21.541112752338748,7.351994851994852/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807020901:0358/pct:7.555993108540488,50.71577931478205,21.541964065961114,7.354833520990832/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5435,7 +5435,7 @@ public justice is not likely to be obtained. This sen­
 timent of the President, I therefore hope is not now  
 to be turned to our disadvantage. Whether a ma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807020901:0359/pct:26.61888284725655,14.766839378238341,21.453287197231834,11.593264248704664/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807020901:0359/pct:26.612305411415864,14.764448761534725,21.454163577958983,11.595434677027683/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5454,7 +5454,7 @@ mass has been volumnious : but that little has been
 given under the sanction of au oath, so as to con­  
 stitute formal and legal evidence* if then th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807020901:0359/pct:27.03905091448344,81.42810880829016,20.93425605536332,3.400259067357513/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807020901:0359/pct:27.032369656535707,81.41492633964708,20.93526068692859,3.403755868544601/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5476,7 +5476,7 @@ general outlines, strengthened by concurrent infor­
 mation, or the particular credibility of the relator  
 If this information was of this vague and uncer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807020901:0359/pct:27.03905091448344,86.81994818652849,20.93425605536332,5.553756476683938/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807020901:0359/pct:27.032369656535707,86.80589282823377,20.93526068692859,5.556904646268415/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5503,7 +5503,7 @@ peace andsaggtof the union. Is this treason ? No!
 1 reason is sff£ply defined&quot;t|p be levying of war a­  
 gamst the United States. As to arbitrary and con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807020901:0359/pct:48.813643104300546,30.667098445595855,21.15669797330697,8.937823834196891/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807020901:0359/pct:48.80158141833457,30.66213372187146,21.157647640227328,8.940424154120123/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5522,7 +5522,7 @@ other places in that quarter, cannot threaten
 ferious danger to the ally of New-Or/eans.” If  
 that be the cafe, upon what ground fhall w
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1807021001:0349/pct:42.87021782903167,30.901498403340703,17.77411678564891,2.800294767870302/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1807021001:0349/pct:42.86237188872621,30.897703549060545,17.77696437286481,2.8040443734905236/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5559,7 +5559,7 @@ were apprehended, the firft regular arreft fhould
 take place here, and the courfc of proceedings  
 receive here its proper direction.” ThcPrefi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1807021001:0349/pct:43.108182317408016,36.502087939081306,17.554457257916894,12.306558585114223/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1807021001:0349/pct:43.10029282576867,36.49760530517008,17.55734504636408,12.309140775308036/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5585,7 +5585,7 @@ to two boa*8, hi one of which is Aaron Burr.
 From this Itatement it appears that the largeft  
 calculation as to the actual force of the conl&#x27;pi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1807021001:0350/pct:3.316510454217736,22.38227817455514,17.375630857966836,6.100956300689989/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1807021001:0350/pct:3.3159127770769508,22.379569111595256,17.378506637832643,6.104252400548697/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5608,7 +5608,7 @@ down that river.’ From the same docu­
 ‘ ment it appears that the force which comes  
 down Cumberland river amounts to tw
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807021001:0048/pct:40.825169555388094,73.55434645071492,18.36850037678975,5.2385170188536/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807021001:0048/pct:40.8174797513656,73.54504048582996,18.37131914359264,5.242071524966262/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5626,7 +5626,7 @@ with their kfTociates from Cumberland, or any
 other place in that qtianer, cannot threaten fe­  
 rn in danger to the city of New-Orb an*.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1807021301:0354/pct:4.101061882094471,79.1563582384958,17.48443793482241,2.18951014349332/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1807021301:0354/pct:4.100311184330954,79.14656771799629,17.487339068887668,2.1933621933621934/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5648,7 +5648,7 @@ pence and fafety of the Union, and a military ex­
 pedition planned by them again/l the territories  
 of a power in amity with the U. S
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1807021701:0360/pct:21.93014705882353,66.07010614663047,17.683823529411764,3.9496420636879783/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1807021701:0360/pct:21.926116522698035,66.06195236332222,17.686699748820683,3.953268336829981/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5678,7 +5678,7 @@ to read it. But he explicitly declares, from
 there can he no danger from that quarter.  
 This being the deliberate opinion of the ex- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807021701:0057/pct:5.385625820979546,60.65860047399276,17.864514918371178,8.631657727329426/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807021701:0057/pct:5.384615384615385,60.651035170865555,17.867417135709818,8.634738505030349/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5792,7 +5792,7 @@ of land in B strop&#x27;s claim on the Wa­
 shite.&quot;  
 In consequence of this information a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807032001:0002/pct:78.7917737789203,2.761529043667528,18.894601542416453,50.442116718813764/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807032001:0002/pct:78.80605541273921,2.761529043667528,18.894601542416453,50.45118577971251/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5898,7 +5898,7 @@ confidence of the government, and was acting un­
 der its secret patronage; a pretence which procured  
 some credit from the state of our ^differences with
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807033001:0440/pct:74.079565109958,55.444102895971525,21.5962441314554,41.352531952758454/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807033001:0440/pct:74.06126482213439,55.43513426075704,21.597084980237153,41.349886768036235/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5917,7 +5917,7 @@ bank there, possess himself of the naval and
 military stores, and proceed on his expedition to  
 Mexico.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807033001:0441/pct:4.778583937953465,6.200549006943323,21.36602451838879,3.245599870821896/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807033001:0441/pct:4.777388694347174,6.1995479496286725,21.366933466733368,3.2491120439134646/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6032,7 +6032,7 @@ tence which procured fome credit from the Hate
 of our difference* with Spain ; and others by  
 ofi&#x27;irs yf land in B.dlrop’sclaim on the VVafhi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1807040301:0410/pct:40.82006223686619,58.51705875107772,17.883946549514917,35.940386747136344/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1807040301:0410/pct:40.81259150805271,58.50985221674877,17.886774036115177,35.94006568144499/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6081,7 +6081,7 @@ collection of stores, and the assemblage id
 an unusual number of suspicious characters,  
 in motion on the Ohio and its waters; ni
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807100301:0327/pct:77.84929950776221,9.675,17.83415372964786,4.0875/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807100301:0327/pct:77.83456369487034,9.67379077615298,17.837087513407788,4.091155272257635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6103,7 +6103,7 @@ hazards the assertion that such was the
 laot; anti perhaps he is better advised on  
 the subject than the President. If he i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1807110501:0191/pct:36.82310469314079,76.51606668277361,27.02027214662594,10.678907948779898/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1807110501:0191/pct:36.812881732370904,76.4975845410628,27.022024801036462,10.68438003220612/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6544,7 +6544,7 @@ dor its secret patronage; a pretence which proc.ur- ■
 t a. some credit from the state of our differencey •  
 with Spain.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1828080801:0112/pct:19.205729166666668,59.56401964307103,15.673828125,2.874595759971254/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1828080801:0112/pct:19.20260374288039,59.55688622754491,15.676701925684839,2.878243512974052/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6565,7 +6565,7 @@ J his gave him an unfortunate opporlunilit of\
 hastening kis equipments.”  
 Hies,- statements of Mr. Jeff, rson prove tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1828080801:0112/pct:19.23828125,62.89375973170439,15.641276041666666,3.5453347706312135/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1828080801:0112/pct:19.235150528885274,62.88622754491018,15.644155139679956,3.5489021956087825/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6586,7 +6586,7 @@ procured some credit from the state ojztmr differen­
 ces with ?ain.”  
 Mr. Jefferson further says 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1828081201:0538/pct:54.54957678355502,77.64633268182286,16.08222490931076,3.52844357576381/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1828081201:0538/pct:54.554615074566705,77.64633268182286,16.09230149133414,3.531872578266982/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6608,7 +6608,7 @@ guilt. This gave him an unfortunate opportunity
 of hasteningiis equipments.”’  
 These statements of Mr. Jefferson prove tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1828081201:0538/pct:54.62515114873035,81.30850735521037,16.112454655380894,3.6827486884065426/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1828081201:0538/pct:54.63018943974204,81.30850735521037,16.112454655380894,3.693035695916058/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6630,7 +6630,7 @@ the neighboring States were despatched to the
 Governor, (of Tennessee,) and a Genceral officer  
 of the western division of the State.”” And in 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1828081201:0538/pct:71.5689238210399,52.71062647875733,16.08222490931076,3.950210883653945/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1828081201:0538/pct:71.57396211205159,52.7140554812605,16.09230149133414,3.953639886157117/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6661,7 +6661,7 @@ merely ot accommodation, carrying from
 that State no quota towards liis unlawful en­  
 terprise.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184303:1828081301:0263/pct:57.904642409033876,15.569426451536922,17.973651191969886,10.905664821575787/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184303:1828081301:0263/pct:57.89556217657206,15.567593028732926,17.976059798233234,10.908305856492385/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6689,7 +6689,7 @@ Jan. 22d, 18B7, a* such a 14 mixture of rumor?,
 conjectures and suspicions, a« ta render it  
 di fficult to sift out the real facts ! This ma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348823:1828081401:0006/pct:19.18142944410507,64.82788419991358,14.660965180207697,2.5637332565173554/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348823:1828081401:0006/pct:19.177524429967427,64.81854838709677,14.66307003257329,2.5669642857142856/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6719,7 +6719,7 @@ ci its secret patronage; a pretence which procur­
 d sonic credit from tho st&#x27;dc of our differences  
 with Spain 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1828082601:0133/pct:17.93678806353281,87.65697883028346,15.032889459329375,2.8824303313000836/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1828082601:0133/pct:17.933910811677894,87.6464960535757,15.035825045449684,2.886071912620585/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6740,7 +6740,7 @@ fhi gave him an unlortiiate opportunity of hasten­
 ing his equipments.&#x27;’  
 |“ I h&#x27; -e statements of Mr. Jefferson prove tlia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1828082601:0133/pct:17.904700786138296,91.02978112665949,15.129151291512915,3.4565243391938765/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1828082601:0133/pct:17.901828681424448,91.01889500119589,15.132071436210031,3.460097265407/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6784,7 +6784,7 @@ its secret patronage.” We have now the evidence on
 oath of Gen. ColK?Ce, that such was the fact—that Burr  
 did declare that his expedition was authorized by govern
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1828090601:0058/pct:25.398313027179007,37.53828701077708,17.588253670727898,2.8701077708451503/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1828090601:0058/pct:25.39434640012494,37.53402903811252,17.590712686761414,2.8735632183908044/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6804,7 +6804,7 @@ Tile proclamation, therefore, «s it did not command the
 irrcsl of Burr by name, butonfy tho suppression of an un­  
 awfu! and criminal expedition that sundry citizens wer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1828090601:0058/pct:25.398313027179007,64.42427680090755,17.54139331458919,3.6755530346001133/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1828090601:0058/pct:25.39434640012494,64.41696914700545,17.54385964912281,3.6789171203871747/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6823,7 +6823,7 @@ been-mentioned, and some other information re- {
 ceived a few days earlier, when brought together |  
 developed Burr’s general designs.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1828090901:0555/pct:60.755287009063444,84.40481128162588,16.253776435045317,2.5300705101617584/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1828090901:0555/pct:60.755287009063444,84.40481128162588,16.273917421953676,2.533526890640122/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6939,7 +6939,7 @@ i formants to use their best endeavors to get further
 .iusight into (lie designs and proceedings of the sus­  
 | pee ted person-, and to communicate them to me.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1828100301:0175/pct:64.588772845953,33.377531340405014,15.51892950391645,5.785920925747348/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1828100301:0175/pct:64.57823462228748,33.373508497047126,15.521836079839016,5.789241091157447/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7002,7 +7002,7 @@ j proceeilingn, about the last ol Movswbor; at which
 I November tin* 27th, two days alter the receipt ol  
 I Gen. \N ifkinson’s information, was now issued.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1828100301:0175/pct:64.588772845953,39.537126325940214,15.66579634464752,22.74590163934426/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1828100301:0175/pct:64.57823462228748,39.53236109437146,15.668678957959427,22.747177694749105/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7027,7 +7027,7 @@ I December, our confidential agent led Frankfort for
 i Nashville, to put into activity, the.means of (hat  
 | State also.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1828100301:0175/pct:64.588772845953,62.23481195756991,15.682114882506527,5.2555448408871746/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1828100301:0175/pct:64.57823462228748,62.22731107629264,15.68499483330614,5.25892893013539/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7045,7 +7045,7 @@ Burr to justice without sufficient evidence for his |
 conviction, had jiroilKceil u popular impression in  
 I tns favor, and a general disbelief of his guilt.”;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1828100701:0179/pct:48.71627146361406,55.12312312312312,16.026165167620604,2.09009009009009/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1828100701:0179/pct:48.7083060824068,55.116502522219555,16.028994985829517,2.093842581471695/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7067,7 +7067,7 @@ with Spain; and others hy ofiersnf land in Bis-,
 frop a claim on the Washita.” The above conver­  
 sation ol Air. J. with Mr. Alston, is presumed t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1828100701:0179/pct:48.97792313982011,64.76876876876877,15.764513491414554,4.024024024024024/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1828100701:0179/pct:48.96991497710922,64.7609896709104,15.767386091127099,4.0275442389302585/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7146,7 +7146,7 @@ tion .of November the 27th, two days after the
 receipt of Gen. Wilkiuson’s informnation, was  
 now issued.’’ 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1828101401:0574/pct:41.12261743959178,29.858564693556836,16.178898394116764,32.04819277108434/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1828101401:0574/pct:41.12261743959178,29.862056923345556,16.19390664865676,32.058669460450496/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7172,7 +7172,7 @@ and on the twenty-third of December, our confi­
 dential agent left I&#x27;rankfort for Nashville, to put  
 into activity, the means of that State also.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1828101401:0574/pct:41.16764220321177,62.05343111576742,15.923758066936815,5.552645364064955/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1828101401:0574/pct:41.1726449547251,62.05343111576742,15.928760818450147,5.559629823642395/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7194,7 +7194,7 @@ some . eredit from our diﬂgrences with Spain; and
 others, h’y offers of land in. Bastrop’s claim on the  
 Washita.”” The above conversation of Mr. J. with
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1828101401:0575/pct:25.728082088426135,5.033698399326032,33.07680700165987,86.58382476832351/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1828101401:0575/pct:25.73814194457019,5.040718899185622,33.07680700165987,86.58382476832351/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7213,7 +7213,7 @@ evidence for his cenviction, had produced a pop­
 fur impression tn ks favor, and a gencral disbo­  
 lief of his guilt.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1828102101:0578/pct:39.388947131945486,31.60751565762004,15.96525385652239,2.5260960334029225/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1828102101:0578/pct:39.388947131945486,31.61099512874043,15.9702461185163,2.5295755045233124/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7232,7 +7232,7 @@ out mifficient evidence for his conviction, produced ;t
 popular impression in his favor and a general disbelief  
 of his guilt,” is intended to show, that even tothis pe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184303:1828102501:0347/pct:40.774452329527925,79.01029951462057,17.294045047824746,2.7702142772581984/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184303:1828102501:0347/pct:40.76816288755206,79.00094696969697,17.296519101239138,2.7738320707070705/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7276,7 +7276,7 @@ instance of the Governor of Mississippi. Again
 a prisoner of the United States, public sympa­  
 thy in that section was s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_pearse_ver01:data:sn82015753:00212475361:1854051601:0364/pct:169.76268412438625,107.54889975550122,38.42062193126023,26.635085574572127/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_pearse_ver01:data:sn82015753:00212475361:1854051601:0364/pct:56.58756137479542,35.849633251833744,12.806873977086743,8.87836185819071/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7333,7 +7333,7 @@ borne, at the instance of the Governor of Mis­
 sissippi. Again a prisoner of the United States,  
 public sympathy in that sectio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn84022882:00414212426:1854060601:0031/pct:29.091392136025505,16.822900917246244,13.111052072263549,10.17034573127709/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn84022882:00414212426:1854060601:0031/pct:29.08752822419976,16.821205402136666,13.112631159516535,10.171840354767184/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7369,7 +7369,7 @@ the instance of the Governor of Mississippi.
 Again a prisoner of the United States, pub­  
 lic sympathy, in that section was str
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_minuette_ver01:data:sn87065704:00415662038:1854060701:0551/pct:5.941273326015367,33.01978592280246,19.66245883644347,20.596821277975998/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_minuette_ver01:data:sn87065704:00415662038:1854060701:0551/pct:4.460609387867143,24.770245431938587,14.754323359868241,15.450318953400368/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7567,7 +7567,7 @@ with entire unanimity, passed a bill suspend-
 ing the privilege for three months; it was  
 defeated in the House of Representative
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1862010901:0390/pct:145.46965918536992,181.21303809654793,55.86034912718205,70.8018154311649/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1862010901:0390/pct:36.36741479634248,45.30325952413698,13.965087281795512,17.700453857791224/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7626,7 +7626,7 @@ with entire unanimity, passed a bill suspend­
 ing the privilege for three months; it was  
 defeated in the House of Representatives
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1862011601:0394/pct:151.0530749789385,182.58560447239694,56.86604886267902,71.67016072676451/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1862011601:0394/pct:37.77918246944795,45.646401118099234,14.222503160556258,17.917540181691127/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7674,7 +7674,7 @@ with entire unanimity, passed a bill suspend­
 ing the privilege for three months; it was  
 defeated in the House of Representative
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1862012301:0398/pct:151.5075376884422,179.49923917554295,56.11390284757119,70.77050767741044/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1862012301:0398/pct:37.89275240888144,44.87480979388574,14.034352744030164,17.69262691935261/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7716,7 +7716,7 @@ with entire unanimity, passed a bill suspend­
 ing the privilege for three months; it was  
 defeated in the House of Representative
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1862013001:0404/pct:148.9075630252101,193.80188157166575,56.890756302521005,58.38406198118428/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1862013001:0404/pct:37.24253888188314,48.450470392916436,14.228667507356032,14.59601549529607/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7760,7 +7760,7 @@ ries may direct.&quot;
 In 1807, when Mr Jefferson submitted to  
 congress certain documents relating to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1862020601:0410/pct:153.556827473426,177.997799779978,54.783319705641865,59.625962596259626/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1862020601:0410/pct:38.40490797546012,44.4994499449945,13.701431492842536,14.906490649064907/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7802,7 +7802,7 @@ tith euttre unanimity, passed a bill suspend
 ing the privilege for three months; it wa  
 lefeated in the House of Representatives
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1862021301:0419/pct:88.4455527847049,110.80129559217012,55.86034912718205,64.32896775102098/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1862021301:0419/pct:22.12518195050946,27.70032389804253,13.973799126637555,16.082241937755246/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7847,7 +7847,7 @@ of the law, and left to such course of trial,
 both as to plare and process, as its functiona­  
 ries may direct. $
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1862022001:0422/pct:139.91902834008098,194.93425605536333,55.54655870445344,53.42560553633218/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1862022001:0422/pct:34.986839441182426,48.733564013840834,13.889451305932376,13.356401384083044/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7896,7 +7896,7 @@ with entire unanimity, passed a bill suspend­
 ing the privilege for three months; it was  
 defeated in the House of Representatives
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1862022701:0426/pct:93.13807531380753,96.74705552439708,56.48535564853557,73.52776219854178/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1862022701:0426/pct:23.299141720745236,24.18676388109927,14.130207243039564,18.381940549635445/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7940,7 +7940,7 @@ ries may direct.&quot;
 In 1897, when Mr Jefferson submitted to  
 congress certain documents relating to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1862030601:0430/pct:138.77887788778878,297.4472807991121,56.93069306930693,59.822419533851274/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1862030601:0430/pct:34.701877449969054,74.36182019977802,14.235609655456983,14.955604883462819/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7980,7 +7980,7 @@ of the law, and left to such course of trial,
 both as to place and process as its fuactiona­  
 ries may direct.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1862031301:0434/pct:195.40133779264215,23.059490084985836,56.27090301003344,54.390934844192635/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1862031301:0434/pct:48.880987241162934,5.764872521246459,14.076553022380255,13.597733711048159/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8028,7 +8028,7 @@ with entire unanimity, passed a bill suspend
 ing the privilege for three months; it was  
 defe ated in the House of Representative
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1862032001:0438/pct:202.51256281407035,136.33257403189066,57.11892797319933,71.75398633257403/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1862032001:0438/pct:50.64935064935065,34.083143507972665,14.285714285714286,17.938496583143507/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8080,7 +8080,7 @@ require the suspension of the powers granted
 by this act in the courts of the United States  
 it would be for the Legislature to say so
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1862032701:0442/pct:133.38926174496643,100.15667283862697,65.60402684563758,100.44153254522148/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1862032701:0442/pct:33.36831059811123,25.039168209656744,16.41133263378804,25.11038313630537/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8123,7 +8123,7 @@ the Union, the Senate took the alarm, and
 defeated in the House of Representative  
 rejected on its first reading by an overwhel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1862040301:0446/pct:144.24853064651552,26.851328434143586,115.44920235096558,347.37139626907856/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1862040301:0446/pct:36.06213266162888,6.712832108535896,28.862300587741395,86.84284906726964/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8172,7 +8172,7 @@ with entire unanimity, passeda bill suspend.
 ing the privilege for three months it was;  
 dreated in the House of Representativ
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1862041701:0452/pct:253.79591836734693,59.20557491289198,55.91836734693877,71.8048780487805/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1862041701:0452/pct:63.47488770926909,14.801393728222996,13.985300122498979,17.951219512195124/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8215,7 +8215,7 @@ that that city was not, as yet, a sale place of
 confiuement. As ston as these persons shall  
 arrive, they will be delivered to the custod
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1862042401:0456/pct:255.7377049180328,205.37545026323082,56.885245901639344,49.542809642560265/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1862042401:0456/pct:63.97375435718679,51.343862565807704,14.2300594627845,12.385702410640066/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8232,7 +8232,7 @@ hey wil be delvere to te cus
 of the law, and left to such course of trial  
 both as to place and process, as its functio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1862042401:0456/pct:257.5409836065574,253.9207536713771,54.42622950819672,5.597118315322804/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1862042401:0456/pct:64.42485134303875,63.480188417844275,13.61492720935001,1.399279578830701/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8280,7 +8280,7 @@ with entire unanimity, passed a bill suspend
 ing the privilege for three months it was;  
 dreated in the House of Representatives
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1862050101:0462/pct:256.57142857142856,207.73418958536925,55.673469387755105,71.98101354181209/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1862050101:0462/pct:64.16904859126174,51.93354739634231,13.924050632911392,17.995253385453022/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8329,7 +8329,7 @@ with entire unanimeity, passed a hill suspend-
 ing the privilege for three months it was;  
 dreated in the Honse of Representativ
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1862050801:0468/pct:251.64473684210526,73.36196149051115,57.56578947368421,70.59149466685136/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1862050801:0468/pct:62.950010285949396,18.340490372627787,14.40032915038058,17.64787366671284/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8365,7 +8365,7 @@ ries may direct.&quot;
  e  wen  eferson submited to  
 o0 congress certain doruments relating to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1862051501:0472/pct:201.25786163522014,280.31194417841016,60.062893081761004,45.751812833492956/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1862051501:0472/pct:50.32435620208374,70.07798604460254,15.018675054059367,11.437953208373239/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8409,7 +8409,7 @@ ries may direct.&quot;
 In 1807, when Mr Jefferson submitted to  
 congress certain documents relating to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1862060501:0480/pct:139.4331983805668,204.23764021603657,54.89878542510122,59.770114942528735/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1862060501:0480/pct:34.86535735978943,51.05941005400914,13.727475197408383,14.942528735632184/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8502,7 +8502,7 @@ elementary constitutional principle which
 was the foundation of the original statute  
 of 1792, and which has been its essence i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_bearcat_ver02:data:sn84022144:00415624918:1879051201:1009/pct:19.357620176762232,49.24043236926673,14.78766975641302,10.44405492258253/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_bearcat_ver02:data:sn84022144:00415624918:1879051201:1009/pct:19.36300926923906,49.24043236926673,14.793058848889848,10.455010224948875/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8660,7 +8660,7 @@ the same authority that President Jackson
 crushed nullification in South Carolina, and  
 that President Lincoln issued his call fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn86053573:0021110238A:1879051301:0460/pct:14.938080495356036,51.93208430913349,99.07120743034056,326.288056206089/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn86053573:0021110238A:1879051301:0460/pct:3.7366892545982573,12.983021077283372,24.78218780251694,81.57201405152225/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8684,7 +8684,7 @@ and it was under the same authority the
 President Jackson crushed nullification in Sout  
 Carolina, and that President Lincoln 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_java_ver01:data:sn83030214:00206531356:1879051301:0095/pct:101.8023817186997,136.1553222711367,46.29868039909881,14.7646461225872/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_java_ver01:data:sn83030214:00206531356:1879051301:0095/pct:33.93412723956657,45.385107423712235,15.43289346636627,4.921548707529067/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8717,7 +8717,7 @@ effectually the further progress of the enter­
 prise. It was under the same authority that  
 President Jackson crushed nullification in Sout
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pulaski_ver01:data:sn84031492:no_reel:1879051301:0001/pct:42.857142857142854,51.35728542914172,13.211600429645543,8.003992015968064/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pulaski_ver01:data:sn84031492:no_reel:1879051301:0001/pct:42.87728249194414,51.36726546906188,13.198174006444683,7.994011976047904/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8739,7 +8739,7 @@ progress of the enterprise. And it was under
 the same authority that Jackson crushed nulli­  
 fication in South Carolina, and that Lincol
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_farmington_ver01:data:sn83016025:00279525462:1879051301:0340/pct:27.735910878112712,66.67881438289602,10.943643512450851,2.7818270165208943/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_farmington_ver01:data:sn83016025:00279525462:1879051301:0340/pct:27.731367731367733,66.6707154135795,10.945945945945946,2.784525689299162/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8762,7 +8762,7 @@ son
 CRUSHED NULLIFICATION  
 in South Carolina, and that President Lincol
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_dunbar_ver01:data:sn83025287:00280768145:1879051301:0217/pct:18.325889641262066,17.831759838761005,12.029966863564328,3.511191259149252/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_dunbar_ver01:data:sn83025287:00280768145:1879051301:0217/pct:18.335494405224992,17.835295781620168,12.025164481582864,3.518263144867579/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8800,7 +8800,7 @@ a first blow, materially disabling the enterprise in its
 outset.&quot;  
 It is a notorious fact of history that Presiden
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:00206533523:1879051301:0898/pct:132.49810174639333,51.490434524692276,49.88610478359909,31.61797419546196/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:00206533523:1879051301:0898/pct:33.13081450541105,12.872608631173069,12.473894057338143,7.90449354886549/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8834,7 +8834,7 @@ and it was under the same authority that
 President Jacksol crushed nullification in  
 South Carolina, and that President Lincoln i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:00206533523:1879051301:0899/pct:12.633181126331811,293.8848385656896,50.076103500761036,30.709715816098793/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:00206533523:1879051301:0899/pct:3.158295281582953,73.4712096414224,12.519025875190259,7.677428954024698/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8867,7 +8867,7 @@ enterprise. It was under the same authority that
 President Jackson crushed nullification in South  
 Carolina, and that President Lincoln issued his cal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_charlie_ver01:data:sn83045160:00280779568:1879051301:0392/pct:102.51916757940855,131.64221903606486,42.11391018619934,23.82265357891254/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_charlie_ver01:data:sn83045160:00280779568:1879051301:0392/pct:25.63330138299329,32.910554759016215,10.529919211283035,5.955663394728135/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8890,7 +8890,7 @@ the civil authorities as might enable
 them to suppress effectually tbe.iur  
 tber progrets of the enterprise.&#x27; An
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jimmy_ver02:data:sn85033437:00296021003:1879051301:0726/pct:40.875613747954176,20.773638968481375,15.78014184397163,5.840864007053119/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jimmy_ver02:data:sn85033437:00296021003:1879051301:0726/pct:30.668485675306957,15.58298435089266,11.84174624829468,4.386158254353097/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8926,7 +8926,7 @@ And it was under the same authority that
 President Jackson crushed nullification in  
 South Carolina, and that President Lincol
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00415664424:1879051301:0465/pct:40.273128932922745,39.84589983489268,42.13415450528853,30.324711062190424/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00415664424:1879051301:0465/pct:13.42437631097425,13.281966611630894,14.044718168429508,10.108237020730142/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8945,7 +8945,7 @@ force, either ef regulars or of the militia,
 and by such proceedings of the civil  
 authorities as might enable them t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_nova_ver02:data:sn86092518:00383341590:1879051301:0459/pct:13.757584309298716,34.08103465696676,11.54226047692959,2.253208042841265/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_nova_ver02:data:sn86092518:00383341590:1879051301:0459/pct:13.755643340857787,34.07759143261265,11.545334838224228,2.256348083787971/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8987,7 +8987,7 @@ by such proceeding of c ivil authorities as |
 might enable* them to suppress effectually the  
 further progress of tin* enterprise. Ind it 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_eddington_ver01:data:sn82014248:00332895953:1879051401:0893/pct:17.81272860277981,31.700699700128517,12.856620336503292,2.37041268027988/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_eddington_ver01:data:sn82014248:00332895953:1879051401:0893/pct:17.80947156701408,31.6961736150771,12.858840738709088,2.3736436322101655/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9080,7 +9080,7 @@ tion and certainly under the present, this
 power has been usefully exerted to en­  
 force the laws with the consent of ever
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_celebi_ver01:data:sn84027329:00279528992:1879051501:0333/pct:52.97673807333421,20.492764958936252,11.368116703903272,14.147438404380132/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_celebi_ver01:data:sn84027329:00279528992:1879051501:0333/pct:52.98111885048407,20.492764958936252,11.368116703903272,14.150697431886325/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9103,7 +9103,7 @@ authority that President Jackson crushed
 the nullification in South Carolina, and  
 that President Lincoln issued his cail fe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_funston_ver01:data:sn84027691:00237283351:1879051501:0301/pct:100.8179012345679,15.184067592033797,13.070987654320987,4.791792395896198/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_funston_ver01:data:sn84027691:00237283351:1879051501:0301/pct:75.62895508566137,11.394085697042849,9.81632968050625,3.5968617984308993/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9136,7 +9136,7 @@ progress of the enterprise. It was under the
 same authority that President Jackson  
 crushed nulihcation. in South Carolina an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_golf_ver01:data:sn85025620:00212479317:1879051501:0469/pct:39.36395759717315,83.66718027734977,10.897526501766784,7.054809597182478/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_golf_ver01:data:sn85025620:00212479317:1879051501:0469/pct:39.3733804475854,83.67451757282265,10.897526501766784,7.062146892655368/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9160,7 +9160,7 @@ enterprise. It was uuder the same author­
 ity that President Jackson crushed nullifi­  
 cation in South Carolina, and that Prea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_hula_ver01:data:sn91059517:00383347695:1879051501:0253/pct:32.019353920592,75.87075115400755,12.195816137754376,4.406210658833404/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_hula_ver01:data:sn91059517:00383347695:1879051501:0253/pct:32.019353920592,75.87075115400755,12.205303353730848,4.4132046440061545/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9205,7 +9205,7 @@ ot the enterprise. It was under the same author­
 ity that Piesldent Jackson crushed nullifi&#x27;iailou  
 lu South Carolina, and that President Lincoln Is
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280775034:1879051501:0894/pct:85.31331592689295,63.25097880383421,18.01566579634465,3.766707168894289/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280775034:1879051501:0894/pct:64.0322229479643,47.44160928851087,13.520574787720443,2.8216551910355068/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9237,7 +9237,7 @@ effectually the further progress of the enter­
 prise.” And it was under the same authority that  
 President Jackson crushed nuliflcation in Sout
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348720:1879051501:0680/pct:61.78130511463845,56.47989452867502,10.846560846560847,5.563612392880685/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348720:1879051501:0680/pct:61.770410862281786,56.472449248615874,10.849056603773585,5.566174532032692/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9277,7 +9277,7 @@ There are many other Important statutes con­
 taining provisions that are liable to be suspend­  
 ed or annulled at the times and places of holdin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271769453:1879051501:0585/pct:57.53931544865865,56.16123224644929,11.933395004625346,9.891978395679136/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271769453:1879051501:0585/pct:57.54372054094533,56.16790024671601,11.942205189198713,9.891978395679136/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9311,7 +9311,7 @@ prise. It was under the same authority
 President Jackson crushed nullificati  
 South Carolina, and that President 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_engledinger_ver02:data:sn85033123:00514151271:1879051501:0364/pct:67.79802476005008,3.715686274509804,26.916121852830713,93.48039215686275/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_engledinger_ver02:data:sn85033123:00514151271:1879051501:0364/pct:67.79802476005008,3.7222222222222223,26.920758566328185,93.48366013071896/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9347,7 +9347,7 @@ further progress of the enterprise. It was
 under the same authority that President Jack­  
 son
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033255:00514152391:1879051501:0283/pct:35.71920165175499,68.33814067006878,9.745354439091535,7.87663634346572/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033255:00514152391:1879051501:0283/pct:35.72378986005965,68.34553657273871,9.75453085570085,7.88033429480068/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9385,7 +9385,7 @@ further progress of tho enterprise.
 It was under the same authority  
 that President Jackson crushed th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159191:1879051501:0290/pct:25.165004915040022,48.556372818091994,9.731779244488134,11.450214073992754/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159191:1879051501:0290/pct:25.165004915040022,48.563691587075056,9.731779244488134,11.442895305009698/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9466,7 +9466,7 @@ dent Jackson
   
 He
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777055:1879051601:0496/pct:257.98637395912186,272.6235212247738,43.60333080999243,51.66318719554628/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777055:1879051601:0496/pct:64.49659348978047,68.15588030619345,10.900832702498107,12.91579679888657/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9513,7 +9513,7 @@ President Jackson crushed nullification
 in South Carolina and that President  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624566:1879051701:0037/pct:18.994148347303494,3.8526570048309177,26.91760240392219,122.1256038647343/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624566:1879051701:0037/pct:14.728713842131068,2.9920129789092726,20.865337473443372,94.64619992512168/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9533,7 +9533,7 @@ civil authorities as might enable
 them to suppress, enectuaily, the lur­  
 ther progress of the enterprise. I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eeyore_ver01:data:sn87052143:00294556552:1879051701:0330/pct:48.22609741431148,28.6693112152903,13.048707155742633,3.365789157350643/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eeyore_ver01:data:sn87052143:00294556552:1879051701:0330/pct:36.18045112781955,21.504988580358216,9.789473684210526,2.5243418680129825/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9554,7 +9554,7 @@ press effectually the further progress of
 the nnto-r‘»riso.“ And it was under the  
 | same aut rority that President Jackso
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_fleshgolem_ver02:data:sn92063989:00514153541:1879051701:0453/pct:16.277628589134476,12.99796906733323,11.216690766370585,3.1635681924699264/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_fleshgolem_ver02:data:sn92063989:00514153541:1879051701:0453/pct:16.281071403979894,13.003176586991616,11.22357639606142,3.1609644326407333/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9648,7 +9648,7 @@ same authority President Jackson
 crushed nullification in South Carolina,  
 and Precident Lincoln issued his cal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415669197:1879052001:0393/pct:133.72579225352112,49.233958183129054,28.55413732394366,31.03821196827686/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415669197:1879052001:0393/pct:44.58998348926802,16.411319394376353,9.521188772702256,10.346070656092285/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9668,7 +9668,7 @@ enable them to suppress effectually the further
 progress of the enterprise,&quot; ami it was under the  
 same authority that President Jackson crushe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_iceland_ver01:data:sn84026788:0020219235A:1879052001:0495/pct:29.01463070685704,78.83136094674556,13.132381456019743,2.514792899408284/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_iceland_ver01:data:sn84026788:0020219235A:1879052001:0495/pct:29.027851225101358,78.83505917159763,13.119160937775428,2.5258875739644973/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9705,7 +9705,7 @@ suppress effectually the futher pro­
 gress of the enterprise. It was un­  
 der the same authority that Presi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_grange_ver01:data:sn84026409:00280776488:1879052101:0111/pct:165.4176904176904,254.83503981797497,40.54054054054054,47.37201365187713/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_grange_ver01:data:sn84026409:00280776488:1879052101:0111/pct:41.3544226044226,63.70875995449374,10.135135135135135,11.843003412969283/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9730,7 +9730,7 @@ it was uuder the same authoriiy that Presi­
 dent Jackson crushed nullification in South  
 Carolina and that President Lincoln issue
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn86053634:00280776683:1879052101:0509/pct:39.68543046357616,43.08571428571429,13.791390728476822,7.2/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn86053634:00280776683:1879052101:0509/pct:29.77807220934084,32.317460317460316,10.351109638953297,5.396825396825397/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9753,7 +9753,7 @@ it. Here he distinctly recognized the
 authority of the State, and held to  
 the Constitutional requirement whic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477874:1879052101:0527/pct:148.78234398782345,249.41718232839258,38.051750380517504,14.908619945315873/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477874:1879052101:0527/pct:37.202664129400574,62.354295582098146,9.514747859181732,3.7271549863289684/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9777,7 +9777,7 @@ under the same authority that Pres­
 ident Jackson crushed Nullification in  
 South Carolina, and that Presiden
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_floydcouncil_ver01:data:sn84026909:00237287071:1879052101:0291/pct:2.82511723664646,40.57390724057391,11.975294521331351,5.839172505839173/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_floydcouncil_ver01:data:sn84026909:00237287071:1879052101:0291/pct:2.8289298105150786,40.57668779891002,11.97910709519997,5.841953064175287/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9818,7 +9818,7 @@ There are many other important statutes con­
 taining provisions that are liable to be suspend­  
 ed or annulled at the times and places of holdin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_carrie_ver01:data:sn85033295:00279550018:1879052101:0430/pct:35.91318591318591,59.34898512767749,14.4007644007644,10.270320830605183/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_carrie_ver01:data:sn85033295:00279550018:1879052101:0430/pct:35.91773591773592,59.34898512767749,14.405314405314405,10.279674492563839/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9879,7 +9879,7 @@ suppress effectually the further progress of
 the enterprise. It was under the sarfie au­  
 thority that President Jackson crushed th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jupiter_ver01:data:sn90050272:00513688787:1879052201:0495/pct:43.23040380047506,74.18272037361355,12.27236737925574,6.94687682428488/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jupiter_ver01:data:sn90050272:00513688787:1879052201:0495/pct:43.23700184745315,74.18758513329442,12.28556347321193,6.94687682428488/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9910,7 +9910,7 @@ as might enable tliem to suppress, effectually the
 further progress of the enterprise. It wfts under  
 the same authority that President Jackso
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_allemande_ver01:data:sn85025570:00199919945:1879052201:0087/pct:68.67333991258988,74.30671566989642,11.899055406739038,6.5263392359951/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_allemande_ver01:data:sn85025570:00199919945:1879052201:0087/pct:60.08881944158888,65.02517459801851,10.42394835313952,5.717070001624168/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9941,7 +9941,7 @@ as might enable them to suppress effectually the
 further progress of the enterprise. It was under  
 the same authority that President Jackso
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_allemande_ver01:data:sn85025570:00199919945:1879052201:0088/pct:68.55765139696497,74.55237242614145,11.95575095731102,6.692032229185318/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_allemande_ver01:data:sn85025570:00199919945:1879052201:0088/pct:59.99172699069287,65.23924538155232,10.46535677352637,5.8587375155036225/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9977,7 +9977,7 @@ progress of the enterprise. It was under the
 a tme authority that President Jaclcs6n  
 crushed nulitleution in South Carolina, and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_hula_ver01:data:sn91059517:00383347695:1879052201:0258/pct:57.69286022123258,87.09574806489238,12.167791983910357,7.645000530166472/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_hula_ver01:data:sn91059517:00383347695:1879052201:0258/pct:57.70243738926399,87.09928250804086,12.17736915194177,7.6414660870179905/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10010,7 +10010,7 @@ the samo authority that President
 jacKsou crusucil nuuilication in  
 South Carolina, and that Presiden
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_gibson_ver01:data:sn84020109:00237285190:1879052201:0620/pct:37.21743810548978,85.00494559841741,14.975780409041981,13.283877349159248/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_gibson_ver01:data:sn84020109:00237285190:1879052201:0620/pct:27.927321668909826,63.75865479723046,11.238223418573352,9.960435212660732/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10053,7 +10053,7 @@ CRUSHED NULLIFICATION
   
 in South Carolina, and that President Lincol
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_hazen_ver01:data:sn85042404:00212478702:1879052201:0195/pct:76.03930461073318,28.580231698299237,16.232048374905517,11.745131870840522/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_hazen_ver01:data:sn85042404:00212478702:1879052201:0195/pct:76.03930461073318,28.58844795004519,16.250944822373395,11.753348122586477/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10078,7 +10078,7 @@ same authority that President Jackson
 crushed nullification in South Carolina,  
 and that President Lincoln issued his cal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_odoric_ver01:data:sn85038145:00415665817:1879052201:0524/pct:95.71385902031064,66.96219677379634,14.30704898446834,7.055781307720724/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_odoric_ver01:data:sn85038145:00415665817:1879052201:0524/pct:71.81057663579325,50.22780445757912,10.740962055572155,5.294914419406477/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10114,7 +10114,7 @@ was under same authority that President
 Jackson crushed nullification in South  
 Carolina, that President Lincoln issue
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551104:1879052201:0276/pct:38.62609219644471,59.28555822591217,11.88611027417897,10.563688005243609/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551104:1879052201:0276/pct:38.636135382143216,59.28919962129488,11.896153459877473,10.56732940062632/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10149,7 +10149,7 @@ was under sume authority that President
 Jackson crushed nullification in South  
 Carolina, that President Lincoln issue
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_evadeestruction_ver01:data:sn84026965:00294550847:1879052202:0578/pct:37.95393528331214,60.38762325739545,12.067260138476756,10.019267822736031/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_evadeestruction_ver01:data:sn84026965:00294550847:1879052202:0578/pct:37.95393528331214,60.39517926631154,12.07197023220762,10.019267822736031/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10186,7 +10186,7 @@ prise.&quot; And it was under the same
 authority that President Jackson  
 crushed the nullification is South Caro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn86053402:00280779283:1879052201:0547/pct:28.19494584837545,59.22254109052961,15.776173285198556,17.77980693973389/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn86053402:00280779283:1879052201:0547/pct:21.15905398086297,44.41690581789721,11.843293013179274,13.344638664231672/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10217,7 +10217,7 @@ them to suppress effectually the further
 der tho same authority that President  
 Jackson crushed nullification in Sout
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_duwamish_ver01:data:sn87093109:00200290999:1879052201:0159/pct:24.758023433520123,55.06868370718136,17.3713703515028,11.737089201877934/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_duwamish_ver01:data:sn87093109:00200290999:1879052201:0159/pct:24.758023433520123,55.081724917405666,17.39047376464595,11.728395061728396/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10276,7 +10276,7 @@ that President Jackson crushed nuli­
 fication in South Carolina, and that  
 President Lincoln issued his call fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn88078580:00280775216:1879052301:0174/pct:38.50871530019367,38.21794099939795,13.653970303421563,6.2974111980734495/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn88078580:00280775216:1879052301:0174/pct:28.894269572235675,28.669476219145093,10.250201775625504,4.720048163756773/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10297,7 +10297,7 @@ suppress effectually the further progress oi
 the enterprise. It was under the same au­  
 thority that President Jackson crushed th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016739:00295877613:1879052401:0188/pct:67.84217877094972,107.59796589889321,14.175977653631286,3.0361950344002393/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016739:00295877613:1879052401:0188/pct:50.917030567685586,80.70595273706252,10.637554585152838,2.2734071193538736/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

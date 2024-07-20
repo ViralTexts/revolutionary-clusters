@@ -35,7 +35,7 @@ ings oT &#x27;be governor, in his executive de­
 partment, cverv six months, to the Presi­  
 dent of the United States.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804040701:0085/pct:3.8365143628301523,43.10322156476003,18.064391748602276,5.9171597633136095/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804040701:0085/pct:3.835774865073246,43.097554562187746,18.067334875353378,5.920764308878955/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -59,7 +59,7 @@ everv six months to tbe President of the
 United States. The governor shall pul&gt;­  
 hsh throughout the said district, all th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804040701:0085/pct:60.902255639097746,26.298487836949377,17.94871794871795,6.850756081525312/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804040701:0085/pct:60.8905165767155,26.295030239284774,17.951683371883835,6.854237882373565/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -104,7 +104,7 @@ authentic copies of the same every six months
 to the President of the United States. In  
 case of a vacancy of the office of governour, th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805050301:0485/pct:50.837257980115126,47.77777777777778,22.39665096807954,5.0/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805050301:0485/pct:50.8239602406487,47.76997222676033,22.397331938268376,5.003267439960791/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -160,7 +160,7 @@ authentic copies of the fame every fix
 moaths to the President of the United  
 States. In case of a vacancy of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1805070901:0109/pct:60.00934725035052,45.57248157248157,16.20190060757127,6.083538083538084/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1805070901:0109/pct:60.00934725035052,45.57903357903358,16.217479358155476,6.083538083538084/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -188,7 +188,7 @@ Gfel.try.
 Sec. 4. And be It J art her enacted, That  
 the legislative power shall be vested in 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812062201:0194/pct:9.274193548387096,28.78037544627433,16.286816269284714,7.428308188414142/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812062201:0194/pct:9.272567922874671,28.777061262091202,16.289804265264387,7.431291263626593/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -241,7 +241,7 @@ the Governor, in his Executive Depariment,
 every six months, to the President of the Unit.  
 ed States. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1822052801:0501/pct:6.285056810010068,39.385310290652,16.510858622177476,4.723095051060487/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1822052801:0501/pct:6.294644997363249,39.385310290652,16.510858622177476,4.732914375490966/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -294,7 +294,7 @@ the Governor, in his Executive Department,
 every six months, to the President of the Unit­  
 ed States. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015143:1823042201:0061/pct:5.451895043731779,39.256198347107436,16.282798833819243,4.603113588314434/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015143:1823042201:0061/pct:5.461613216715257,39.256198347107436,16.2779397473275,4.603113588314434/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -347,7 +347,7 @@ the United States; he shall aid the governor, as may be
 necessary, in the execution of hi* official duties; and, in  
 case ol a vacancy in the office of governor, the duties an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850011301:0054/pct:63.786075330180985,39.96463306808134,15.799771726724279,3.4482758620689653/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850011301:0054/pct:63.786075330180985,39.96884341711928,15.805206804717647,3.452486211106901/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -391,7 +391,7 @@ every six months, to the President of the United States ; he
 shall aid the governor, as may be necessary, in the execution  
 of his official duties ; and. in case of a vacancy in the office o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1850011901:0060/pct:34.165197341651975,66.3690788782691,15.244812152448121,3.150929524209642/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1850011901:0060/pct:34.165197341651975,66.37257991107377,15.249333152493332,3.150929524209642/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

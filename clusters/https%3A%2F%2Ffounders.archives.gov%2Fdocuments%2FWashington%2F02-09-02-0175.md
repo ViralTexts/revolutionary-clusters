@@ -77,7 +77,7 @@ with very great respect and esteem, your
 m..si obedient and humble serv’t,  
 “Geo. Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_fletcher_ver01:data:sn86063034:00414182252:1898111801:0847/pct:2.7601641178664678,44.39190187675484,12.625885863483775,19.861090586670606/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_fletcher_ver01:data:sn86063034:00414182252:1898111801:0847/pct:2.7601641178664678,44.40175360819664,12.632102449334825,19.856164720949707/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -141,7 +141,7 @@ obedient serv’t.
 &quot;GEORGE WASHINGTON.  
 &quot;To Rev Dr. Cooper, president o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_jasper_ver01:data:sn90051300:00340586104:1899021601:0175/pct:12.370351631672147,24.09778812572759,23.728813559322035,72.66201008925107/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_jasper_ver01:data:sn90051300:00340586104:1899021601:0175/pct:12.370351631672147,24.107489328676756,23.75411080192259,72.66686069072566/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -206,7 +206,7 @@ great respect and estepm, your most
 obedient serv&#x27;t.  
 &quot;GEORGE WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283077:1899021601:0090/pct:55.43853591160221,43.08141657539248,43.50828729281768,99.63490324936109/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283077:1899021601:0090/pct:36.97116214816094,28.720944383594986,29.010533586599898,66.42326883290738/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -271,7 +271,7 @@ great respect and esteem, your most
 obedient serv&#x27;t.  
 &quot;GEORGE WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_franklin_ver01:data:sn96076641:00415669550:1899021601:0675/pct:34.51526032315979,47.038219841351605,42.72890484739677,96.5694859379829/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_franklin_ver01:data:sn96076641:00415669550:1899021601:0675/pct:23.013616639233877,31.358813227567733,28.490199012419573,64.38652518800865/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -332,7 +332,7 @@ great respect and esteem, your most
 obedient serv’t.  
 • GEORGE WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_americanrobin_ver01:data:2010270509:00517013857:1899021601:0397/pct:21.067629179331306,29.58108108108108,29.198328267477205,66.79729729729729/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_americanrobin_ver01:data:2010270509:00517013857:1899021601:0397/pct:21.063627730294396,29.57708417781381,29.19753086419753,66.79164977705716/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -475,7 +475,7 @@ great respect and esteem, your most
 obedient serv&#x27;t.  
 &quot;GEORGE WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_isabel_ver01:data:sn85030529:00212473893:1899021701:0869/pct:12.971311475409836,40.41899441340782,37.21311475409836,87.70949720670392/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_isabel_ver01:data:sn85030529:00212473893:1899021701:0869/pct:9.73560155769625,30.321229050279328,27.915556466489036,65.78212290502793/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -539,7 +539,7 @@ great respect and esteem , your most
 obedient serv&#x27;t.  
 &quot;GEORGE WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_indianola_ver01:data:sn94056415:00206536676:1899021701:0406/pct:30.23981603153745,38.661794930349394,36.5473061760841,85.00799269239552/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_indianola_ver01:data:sn94056415:00206536676:1899021701:0406/pct:22.69142293789024,29.002055263758848,27.423595136378573,63.75599451929664/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -601,7 +601,7 @@ Virginia, and that I am with very
 obedient eerv’t.  
 &quot;GEORGE WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_elkton_ver01:data:sn90051267:00383340913:1899021801:0709/pct:48.8169703562687,29.07385697538101,29.94288822409573,66.10003907776475/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_elkton_ver01:data:sn90051267:00383340913:1899021801:0709/pct:48.82376937720968,29.07874169597499,29.94288822409573,66.09515435717077/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -664,7 +664,7 @@ great respect and estuom, your most
 obedient servit.  
 &quot;GEORGE WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_james_ver01:data:sn85058217:00206534862:1899022401:0377/pct:0.0,87.81163434903047,109.05448717948718,190.63711911357342/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_james_ver01:data:sn85058217:00206534862:1899022401:0377/pct:0.0,29.270544783010155,36.37092463923036,63.54570637119114/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

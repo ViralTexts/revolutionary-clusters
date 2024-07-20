@@ -101,7 +101,7 @@ some port or place in America, where the {ame
 adopted by both parties, as shall from time to  
 time be found neceflary to enforce the due an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795071401:0470/pct:32.726734724071605,49.3134328358209,19.36677023228288,5.990049751243781/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795071401:0470/pct:32.736598116092125,49.3134328358209,19.361838536272625,6.0/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -234,7 +234,7 @@ carry on the said trade to the British terri­
 tories in the East Indies, and to import in­  
 to, and export from the said territories, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797111101:0002/pct:39.893246692968205,70.32786885245902,19.470874912972846,11.1177347242921/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797111101:0002/pct:39.91065212346252,70.33904619970194,19.459271292643304,11.10655737704918/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -288,7 +288,7 @@ the said British territories to any portor place ex­
 cept to some port or place in America, where the  
 same shall be unladen, and such regulations shall b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808041101:1075/pct:29.519156595525843,15.796281325788197,22.062226793520185,10.105092966855295/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808041101:1075/pct:29.511568123393317,15.793727772389266,22.06298200514139,10.107500808276754/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -309,7 +309,7 @@ said British territories to any port or place except
 to some port or place in America, where the same  
 shall he unladen, and such regulations shall be a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808041201:0442/pct:59.76181883796463,66.76506765067651,17.340310357271743,3.800738007380074/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808041201:0442/pct:59.75103734439834,66.7568564752183,17.34319562210596,3.804370106178002/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -366,7 +366,7 @@ p adopted by both parties, as shall, from
 time to time, be found necessary to ,  
 enforce the due and faithful obser
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808051601:0002/pct:58.26497128794094,27.756410256410255,18.170631665299425,11.26923076923077/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808051601:0002/pct:58.26497128794094,27.76068376068376,18.184304074377906,11.26923076923077/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -402,7 +402,7 @@ and such regulations shall be adopted by j
 both parties, us shall from time to time be |  
 found necessary to enforce the due and 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808090501:0460/pct:59.74821367812181,60.775862068965516,17.982306907111262,12.319566960705693/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808090501:0460/pct:59.73805068889267,60.769770472085796,17.983500595339343,12.320837927232635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -511,7 +511,7 @@ ing trade of tne said British territories,
 but the vessels of the U. States having^  
 in the first instance,-proceeded to on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216201:1815122501:0275/pct:18.547552137257803,52.314190707288574,17.734063008430706,13.399838231329198/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216201:1815122501:0275/pct:18.544809228039043,52.309489575844715,17.736369910282953,13.40162952312485/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -540,7 +540,7 @@ place in the U. States of America, where
 the same shall be unladen.  
 It is also understood, that the permissio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183906:1815122701:0132/pct:34.14830304005147,63.17141808393491,14.717709506192698,7.7939557078184265/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183906:1815122701:0132/pct:34.14281119330975,63.1636897479814,14.72070333440549,7.797080172905962/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -670,7 +670,7 @@ cept to some port or place in tlie IJnrteil States ol
 America, where the same shall be unladen.  
 It i- also understood, that the permission grante
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016082:00332895096:1816010201:0183/pct:4.424040066777963,16.778427735768297,17.696160267111853,6.734198887145099/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016082:00332895096:1816010201:0183/pct:4.423117045691634,16.776034236804566,17.697684122678908,6.736804564907275/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -703,7 +703,7 @@ any part of the coasting trade of the said Brit­
 ish territories, but the vessels of the United  
 States having, in the first instance, proceede
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1816010201:0442/pct:23.502370349087776,10.509711130829142,16.506249102140497,10.263235729074239/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1816010201:0442/pct:23.507158933103483,10.509711130829142,16.511037686156204,10.263235729074239/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -803,7 +803,7 @@ as aforesaid, to some porter place in Ame­
 rica, and there unlade the who(e «Tthe ar­  
 ticles exported, m the manner above men
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183906:1816011301:0159/pct:51.35976408912189,70.04394224733208,14.74442988204456,9.742623979912116/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183906:1816011301:0159/pct:51.351351351351354,70.03514938488577,14.747474747474747,9.74558540463637/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -872,7 +872,7 @@ said vessels shall proceed as aforesaid, to
 some port or place in America, and there  
 unlade the whole of the articles exported
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816012001:0027/pct:58.869760479041915,24.29471032745592,17.57110778443114,10.806045340050378/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816012001:0027/pct:58.858746492048645,24.291650925576125,17.574056750857498,10.808882172690257/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -1124,7 +1124,7 @@ But I&#x27;ll do my best a gude wife to be,
 For auld Robin Gray is kind unto me.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347910:1847102501:0103/pct:16.521233275159975,67.09950173637324,60.05429513282916,95.50052846142232/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347910:1847102501:0103/pct:4.129507561070183,16.772342995169083,15.010663047692905,23.87152777777778/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1639,7 +1639,7 @@ Auld Bob maintained them baith, and wi’ tears in his
 ee,  
 Said, “ Jenny, O, for their sakes, will you marry me ?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_flobberworm_ver01:data:sn85033019:00414215531:1872011201:0213/pct:55.14018691588785,59.855745479695685,11.98931909212283,6.906432170734117/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_flobberworm_ver01:data:sn85033019:00414215531:1872011201:0213/pct:55.14908767245216,59.85903896189441,11.984868713840676,6.9097256529328455/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1799,7 +1799,7 @@ BY JOSIAH Q. KERN.
 Ohio and the whole of tlie North western Ter­  
 ritory, once a part of the Province of Que
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280775022:1876012701:0465/pct:7.801573426573427,9.585423818325852,22.333916083916083,52.41616054924742/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280775022:1876012701:0465/pct:5.85792349726776,7.19566939529971,16.76502732240437,39.31872194349089/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1828,7 +1828,7 @@ But she looked in my face till my heart was like
 to break:  
 So they gied him my hand, tho my heart was o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_nejat_ver01:data:sn83026413:00212475567:1877050301:0271/pct:155.2601809954751,155.22051009564294,43.72171945701358,23.352816153028694/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_nejat_ver01:data:sn83026413:00212475567:1877050301:0271/pct:51.75339366515837,51.74017003188098,14.573906485671191,7.784272051009564/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1905,7 +1905,7 @@ the saich, &quot;I&#x27;m come hame, my love, to marry
 osair, sair did we greet, and mickle did we say;  
 Ac Kiss we took--nse mair-I bade him gang away
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_journey_ver01:data:sn84024738:00175030852:1884040601:0352/pct:129.02473168455435,207.88917089678512,39.77290402862032,50.042301184433164/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_journey_ver01:data:sn84024738:00175030852:1884040601:0352/pct:43.008243894851454,69.29639029892837,13.257634676206772,16.68076706147772/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1958,7 +1958,7 @@ I saw my Jamie&#x27;s ghaist-I couldna think it
 he.  
 Till he said, &quot;I m come h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:0028076226A:1884041501:0074/pct:60.920461834509304,17.903930131004365,11.000641436818473,17.03056768558952/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:0028076226A:1884041501:0074/pct:60.92847979474022,17.909995147986415,11.004650416933933,17.03360019408054/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2029,7 +2029,7 @@ beasin
 But Ill do my best a gude wife for to be  
 For Auld Robin Gray is kind unto met
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:206534588:1895120101:0289/pct:3.98851308232291,60.58201058201058,14.629865985960434,22.11870255348516/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:206534588:1895120101:0289/pct:3.98851308232291,60.589678705620734,14.629865985960434,22.11870255348516/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

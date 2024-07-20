@@ -52,7 +52,7 @@ themselves susceptible&quot; Cor. Vol. 2 page
 The word democratic as a party name, is  
 of very recent origin. The old division o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn87090028:00295877959:1844030901:0344/pct:49.03179190751445,54.12194564969171,20.59248554913295,8.472253939255538/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn87090028:00295877959:1844030901:0344/pct:36.79340754662426,40.591459237268786,15.454676883041781,6.359899520438456/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -76,7 +76,7 @@ Jefferson, &quot;I consider these laws as an experi­
 &quot;sion the transfer of the succession to his heirs,  
 &quot;and the establishment of the Senate for life.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530479:1855080101:0628/pct:51.45383438190784,137.22601509162774,48.580173439891176,19.17594921547491/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530479:1855080101:0628/pct:17.151278127302614,45.74200503054258,16.193391146630393,6.391983071824969/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -131,7 +131,7 @@ ilont&#x27;orther failqroj aVter tlie dupery
 of which pur co&#x27;unCi-ymeu havo shown  
 thomsclvcs suspop.tiblo.,&#x27; &#x27; j .&#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_flint_ver01:data:sn97063063:00296024314:1864101901:0186/pct:23.93252503953611,41.109199473737476,16.671059567738535,14.978241068717741/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_flint_ver01:data:sn97063063:00296024314:1864101901:0186/pct:15.963617189559715,27.406132982491652,11.112575797521751,9.988867523530008/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -204,7 +204,7 @@ determination by the republicans, who were
 silenced by the turmoil of the threatened Freuch  
 war. Nothing was left for that party but to mak
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743889:1874111601:0631/pct:52.742261103633915,48.19611470860315,46.80349932705249,16.14246068455134/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743889:1874111601:0631/pct:17.580753701211304,16.06537156953438,15.60116644235083,5.38082022818378/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -233,7 +233,7 @@ Alien and Sedition laws were fought
 against with determination by the Re­  
 publicans, who were silenced by the tur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_broadsheet_ver01:data:sn92053942:00295873644:1874112101:0491/pct:25.07363770250368,49.50547981823042,16.586892488954344,9.516172146484896/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_broadsheet_ver01:data:sn92053942:00295873644:1874112101:0491/pct:18.817897256490518,37.12910986367282,12.447063155956545,7.15049452018177/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

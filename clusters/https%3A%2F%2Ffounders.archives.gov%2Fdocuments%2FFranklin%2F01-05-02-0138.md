@@ -712,7 +712,7 @@ that different degrees of the vibration of this medium may cause the appearance
 
 ---
 
-## [From _Scientific American (1845-1908)_](https://archive.org/details/sim_scientific-american_1876-05-13_34_20/page/n5/mode/1up?view=theater)
+## [From _Scientific American_](https://archive.org/details/sim_scientific-american_1876-05-13_34_20/page/n5/mode/1up?view=theater)
 
 #### 1876-05-13 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -755,7 +755,7 @@ Then, as the volumes of spheres
 are to each other as the cubes of their  
 diameters, the volume of the moon i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_flareon_ver02:data:sn82015854:00279528980:1876052501:1072/pct:52.58817336374803,22.730942221197093,14.581505527285488,8.303540537423595/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_flareon_ver02:data:sn82015854:00279528980:1876052501:1072/pct:52.59402234310113,22.730942221197093,14.593203485991694,8.311229000884174/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

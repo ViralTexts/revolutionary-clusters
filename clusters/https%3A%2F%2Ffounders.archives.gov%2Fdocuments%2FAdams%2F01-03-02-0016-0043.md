@@ -155,7 +155,7 @@ appeal to effet.”’ On the od of April 1776,
 the form of a commission was agreed upons in  
 Congress ; by which, the delegates of the uni
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795092201:0509/pct:47.486033519553075,32.61022396304108,19.20023522493384,14.602792005624185/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795092201:0509/pct:47.486033519553075,32.61357169160724,19.21493678329903,14.612835191322688/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

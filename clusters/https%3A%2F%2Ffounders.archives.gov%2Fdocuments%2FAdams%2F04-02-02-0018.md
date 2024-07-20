@@ -144,7 +144,7 @@ I am, with much respect, esteem and
 gratitude, your friend and humble ser­  
 vant, John Adams
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_baggs_ver01:data:sn84022149:00393349943:1880011501:0968/pct:29.182795698924732,9.932118613790639,11.268817204301076,38.94247945694891/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_baggs_ver01:data:sn84022149:00393349943:1880011501:0968/pct:29.182795698924732,9.936584494462307,11.279569892473118,38.946945337620576/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -232,7 +232,7 @@ I am, with much respect, esteem and
 gratitude, your friend and humble ser­  
 vant. John Adams
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_katherine_ver01:data:sn86086852:00271769623:1880012301:0395/pct:7.077486272117144,16.456047771142895,18.690258287573723,44.882655186779616/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_katherine_ver01:data:sn86086852:00271769623:1880012301:0395/pct:5.4849217190291055,12.760538116591928,14.495114006514658,34.780269058295964/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -407,7 +407,7 @@ I am, with much respect, esteem and
 gratitude, your friend and /humble ser­  
 vants I JqjfnrADAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_peugeot_ver01:data:sn90059028:00212479184:1880012901:0104/pct:75.87995553908856,15.054294175715697,16.432011856243054,37.29022704837117/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_peugeot_ver01:data:sn90059028:00212479184:1880012901:0104/pct:75.87995553908856,15.06252056597565,16.438186982833148,37.2861138532412/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -454,7 +454,7 @@ Intelligence than 1 can get from a whole
 committee of gentlemen.   
 &quot;I was a little niortifi d at the unlucky
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_fornax_ver01:data:sn89053706:00393344672:1895081901:0287/pct:58.018105399288714,51.25176531005264,12.221144519883609,14.533316215175248/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_fornax_ver01:data:sn89053706:00393344672:1895081901:0287/pct:58.018105399288714,51.25176531005264,12.221144519883609,14.537595754696795/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -500,7 +500,7 @@ its Innocence they can find no r -st.
 gratitt.de, your friend and humble servant,  
 &quot;JOHN ADAMS.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_fornax_ver01:data:sn89053706:00393344672:1895081901:0287/pct:70.7888781118655,4.480677879060213,12.253475590042031,12.106817306457826/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_fornax_ver01:data:sn89053706:00393344672:1895081901:0287/pct:70.79965513525164,4.489236958103308,12.24269856665589,12.111096845979372/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

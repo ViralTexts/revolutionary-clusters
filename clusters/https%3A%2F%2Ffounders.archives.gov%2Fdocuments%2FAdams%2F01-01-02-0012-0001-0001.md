@@ -265,7 +265,7 @@ Such brethren is the spirit of thai
 friendship which your Order teaches  
 you to practice towards each other an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_antares_ver02:data:sn84026824:00271767778:1867051101:0079/pct:80.70893941533681,20.79749804534793,15.845219601751165,10.946051602814698/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_antares_ver02:data:sn84026824:00271767778:1867051101:0079/pct:80.71364684837359,20.804013552254364,15.84992703478793,10.94279384936148/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

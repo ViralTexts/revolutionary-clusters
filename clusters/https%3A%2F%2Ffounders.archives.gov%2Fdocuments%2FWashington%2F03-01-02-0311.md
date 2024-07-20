@@ -57,7 +57,7 @@ limits, the wise and good, however dis­
 persed and separated in space and dis­  
 tance. ______
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn84009409:00296028757:1881020301:0861/pct:36.060196797221685,87.938868236266,14.084507042253522,3.6761668731928956/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn84009409:00296028757:1881020301:0861/pct:36.06662807897614,87.9434577080178,14.09736960576243,3.6853458166964983/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -107,7 +107,7 @@ limits, the wise and good, however
 dispersed and separated in space and  
 distance.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_lyle_ver01:data:sn86092472:00514157790:1881031601:0037/pct:55.013333333333335,38.670284938941656,17.466666666666665,4.73202170963365/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_lyle_ver01:data:sn86092472:00514157790:1881031601:0037/pct:54.998667022127435,38.66372731897575,17.468675019994667,4.735458707817535/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -136,7 +136,7 @@ comprehends, within its capacious
 limits, the wise and good, however dii­  
 persed and separated in ipace anddistance.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn86053402:00280779283:1881031801:0903/pct:73.58078602620087,117.95811518324608,15.647743813682679,11.19109947643979/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn86053402:00280779283:1881031801:0903/pct:55.19563239308462,88.46858638743456,11.737943585077343,8.403141361256544/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -360,7 +360,7 @@ provinces leave them nothing to fear but
 the want of ammunitio&#x27;h.  
 Three things prompt meu to regular
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_kryptonite_ver01:data:sn86069180:00100481790:1899022501:0163/pct:42.630057803468205,118.50110619469027,16.419797687861273,3.747234513274336/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_kryptonite_ver01:data:sn86069180:00100481790:1899022501:0163/pct:31.984098301409468,88.88274336283186,12.323816407661727,2.8069690265486726/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

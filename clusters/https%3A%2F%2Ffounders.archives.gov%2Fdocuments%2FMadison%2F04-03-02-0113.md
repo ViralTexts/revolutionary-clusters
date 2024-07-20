@@ -84,7 +84,7 @@ on every celebration of this anniversary ;
 duties of which our national interests our  
 character as an enlightened people, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025001:00414216328:1823072901:0489/pct:36.907953529937444,82.21444479796372,17.12243074173369,5.143705589139888/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025001:00414216328:1823072901:0489/pct:36.901358112937814,82.20572640509013,17.12532761496307,5.146694945210322/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -177,7 +177,7 @@ Submitting the paper to the full committee, communi­
 cated it separately to Dr. Franklin and Mr. Adams, re­  
 questing their corrections, which were two or thre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dunbar_ver01:data:sn85026214:print0021111020A:1872052601:0004/pct:6.3920983973164365,26.11218568665377,12.262392843831531,1.4184397163120568/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dunbar_ver01:data:sn85026214:print0021111020A:1872052601:0004/pct:6.406075288855758,26.118633139909736,12.257733879985091,1.4184397163120568/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -199,7 +199,7 @@ Eventually agreed to draw it up, and he consented to re­
 port it, and then asserts, “I do not now remember that  
 I or suggested a single alteration.” In a letter t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dunbar_ver01:data:sn85026214:print0021111020A:1872052601:0004/pct:6.354826686544913,27.94326241134752,12.281028699217295,3.0303030303030303/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dunbar_ver01:data:sn85026214:print0021111020A:1872052601:0004/pct:6.359485650391353,27.9464861379755,12.285687663063735,3.0303030303030303/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -228,7 +228,7 @@ two or three only, and merely verbal. I then wrote a
 fair copy, reported it to the committee, and from them.  
 Unaltered, to Congress.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dunbar_ver01:data:sn85026214:print0021111020A:1872052601:0004/pct:6.354826686544913,32.57253384912959,12.355572120760343,5.519019987105094/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dunbar_ver01:data:sn85026214:print0021111020A:1872052601:0004/pct:6.359485650391353,32.57898130238556,12.350913156913903,5.525467440361058/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -267,7 +267,7 @@ and honesty is the only rule to secure
 permanent Democratic success.&quot; This  
 is, indeed lofty ground, but we fear tw
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280775034:1877071201:0124/pct:11.765994741454865,34.209830866807614,18.404907975460123,10.96723044397463/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280775034:1877071201:0124/pct:8.83578162683622,25.660676532769557,13.81276035957027,8.232029598308667/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -295,7 +295,7 @@ had gathered my ideas from reading, I do not
 know. I know only that I turned to neither  
 book nor pamphlet while writing it&quot; (Work
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_kobayashi_ver01:data:sn83030272:00175044784:1882061801:0511/pct:342.11309523809524,214.05046079468198,48.660714285714285,7.614443269376038/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_kobayashi_ver01:data:sn83030272:00175044784:1882061801:0511/pct:85.52827380952381,53.512615198670495,12.165178571428571,1.9036108173440096/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -317,7 +317,7 @@ tained in Otis’s pamphlet.” Richard Henry
 Lee charged that it was copied from Locke’s  
 Treatise on Government. In 1819 the Esse
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210041:1884043001:0904/pct:26.014418125643665,79.17228969860548,18.681771369721936,6.762633078422552/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210041:1884043001:0904/pct:20.16068958178142,61.36354832461747,14.483345748643185,5.252760023242301/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -359,7 +359,7 @@ my ideas from reading or reflection I do not know. I
 only know that I turned to neither book nor painphlet  
 while writing it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_dante_ver01:data:sn83030272:00175044905:1887052201:1012/pct:118.29723674383868,221.93666819642038,49.73861090365945,26.74009484473/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_dante_ver01:data:sn83030272:00175044905:1887052201:1012/pct:29.57430918595967,55.484167049105096,12.434652725914862,6.6850237111825/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

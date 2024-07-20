@@ -74,7 +74,7 @@ térs of the two armies remain as at pretent,
 I have the honour to be,  
 ~ your Excellency’s, &amp;c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1782061501:0164/pct:11.813725490196079,4.974093264248705,55.86601307189542,85.18134715025907/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1782061501:0164/pct:11.813725490196079,4.97754749568221,55.88779956427015,85.18825561312607/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

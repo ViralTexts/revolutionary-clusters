@@ -140,7 +140,7 @@ and vold; otherwise to remain in full force.
 &quot;ThoMas dEreeRsoN,  
 &quot;FRANcIs EPees.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00271742083:1875052901:0528/pct:6.975166236938526,248.11681222707423,42.70593024833763,30.813318777292576/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00271742083:1875052901:0528/pct:2.325055412312842,82.70560407569141,14.23531008277921,10.271106259097525/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -217,7 +217,7 @@ to remain io full force.
 &quot;Thomas Jefferson,  
 &quot;Francis Efpks.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_fezza_ver01:data:sn85025007:00415663729:1875060101:0534/pct:3.2951289398280803,8.796832753959057,16.088825214899714,11.481266898416377/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_fezza_ver01:data:sn85025007:00415663729:1875060101:0534/pct:3.2951289398280803,8.796832753959057,16.103151862464184,11.49092313634608/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -269,7 +269,7 @@ remain in full force.
 &quot;Thomas Jefferson,-&quot;Fkancis  
 Eppes.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879154:1875060401:0089/pct:90.13588324106694,113.41938127432903,13.751887267237041,15.212046711739397/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879154:1875060401:0089/pct:67.61892776239617,85.06453595574678,10.319657689403474,11.41159598442942/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -307,7 +307,7 @@ remain in full force.
 “ Thomas Jefferson,  
 Francis Epees.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349529:1875060401:0089/pct:39.12477631364894,9.868672701772281,11.094843012851797,9.970674486803519/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349529:1875060401:0089/pct:39.118412491867275,9.867414584395716,11.097104749512036,9.972590515043345/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -346,7 +346,7 @@ to remain in full force.
 &quot;T11 omas ,T KF F BRSO x,  
 &quot;Francis Kppks.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_enterprise_ver02:data:sn84026847:00415665209:1875060501:0524/pct:25.871026894865526,59.898196304083214,13.355745721271393,11.20947216996791/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_enterprise_ver02:data:sn84026847:00415665209:1875060501:0524/pct:25.88121434392828,59.90188484379034,13.350651996740016,11.213160709675039/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -390,7 +390,7 @@ obligation is to be null and vold; otherwise to re­
 main in full force. Thomas Jerserson,  
 &quot;FrANCIS EPPES.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558330:1875060701:0546/pct:242.67955801104972,268.2142857142857,43.646408839779006,23.877551020408163/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558330:1875060701:0546/pct:60.69084628670121,67.05357142857143,10.915371329879102,5.969387755102041/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -438,7 +438,7 @@ to remain in full force.
 Thomas Jkffekson,  
 Francis Eppe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_casper_ver01:data:sn84038206:00393349190:1875061201:0600/pct:22.39450441609421,65.86484983314794,14.700686947988224,14.349276974416018/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_casper_ver01:data:sn84038206:00393349190:1875061201:0600/pct:22.39010989010989,65.85569303489504,14.702708006279435,14.350757681078827/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -601,7 +601,7 @@ full force.
 THomas JeFFerSON,  
 FRANCIS EPPES
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477862:1875072801:0827/pct:219.14217633042097,296.4596633778294,39.952343129467835,45.56006964596634/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477862:1875072801:0827/pct:54.807310290027814,74.11491584445734,9.992054032578466,11.390017411491584/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -688,7 +688,7 @@ sued ; now, if there be no lawful cause to
 obstruct the said marriage, then this ob­  
 ligation to be void, else to remain in ful
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_galactic_ver01:data:sn84022982:00513688659:1883091501:0276/pct:33.48338692390139,46.03592443480954,12.32583065380493,11.02508516568597/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_galactic_ver01:data:sn84022982:00513688659:1883091501:0276/pct:33.490532332976066,46.04108599153505,12.318685244730261,11.019923608960463/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -742,7 +742,7 @@ obligation is to be nail sad void, otherwise to vj
 remain in full force.&quot; AfiJ  
 Tho bridegroom set out wltb bis bride il
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_milosz_ver01:data:sn83030272:00206533122:1890050401:0053/pct:333.11061618411287,144.2891859052248,66.29547141796586,40.88699878493317/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_milosz_ver01:data:sn83030272:00206533122:1890050401:0053/pct:83.32404828226555,36.0722964763062,16.58310120705664,10.221749696233292/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

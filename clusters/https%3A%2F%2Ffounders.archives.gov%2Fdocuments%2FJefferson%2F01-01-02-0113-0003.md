@@ -248,7 +248,7 @@ to expect lioin the same common ene
 my, than the humble favor of being  
 lat devoured
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271768527:1872071801:0278/pct:56.206225680933855,83.71047287496374,12.295719844357977,8.500145053669858/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271768527:1872071801:0278/pct:56.21919584954605,83.72014311962093,12.289234760051881,8.500145053669858/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -278,7 +278,7 @@ be that they have nothing more to expect from
 tho same enemy thantho bumble favor of being  
 tbo bust devoured.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_north_ver02:data:sn84031492:no_reel:1880012301:0007/pct:43.12567132116004,38.45223700120919,13.157894736842104,5.945183393792825/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_north_ver02:data:sn84031492:no_reel:1880012301:0007/pct:43.132384532760476,38.46735187424426,13.164607948442535,5.950221684804514/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -314,7 +314,7 @@ they must be that they have nothing more to
 expect from the same common enemy than the  
 humble favor of being last devoured.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_dante_ver01:data:sn83030272:00175044905:1887052301:1017/pct:339.33256172839504,17.012129586979885,51.25385802469136,33.225855980347/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_dante_ver01:data:sn83030272:00175044905:1887052301:1017/pct:84.88226211156147,4.253032396744971,12.820883999227949,8.30646399508675/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -351,7 +351,7 @@ must be, that they have nothing more to
 expect from the same common enemy than  
 the humble favor of being last devoured
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282346:1887052801:0455/pct:67.20061022120518,111.64265129682997,50.72463768115942,36.945244956772335/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282346:1887052801:0455/pct:16.800152555301295,27.910662824207492,12.681159420289855,9.236311239193084/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -424,7 +424,7 @@ nc thing more to expect from the same
 common enemy than the humble fay or  
 of being last devoured.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_antares_ver03:data:sn90059959:00271742800:1889051801:0589/pct:22.3950233281493,74.29035752979415,14.090202177293934,12.156013001083423/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_antares_ver03:data:sn90059959:00271742800:1889051801:0589/pct:22.3950233281493,74.29758035391838,14.100570243649559,12.152401589021308/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

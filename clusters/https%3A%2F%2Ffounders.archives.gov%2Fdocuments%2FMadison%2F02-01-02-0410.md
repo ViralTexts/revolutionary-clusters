@@ -153,7 +153,7 @@ no treaty stipulations upon the subject —
 The obhgalionsol neutrality, however, im­  
 pose upon them &#x27;.he obsei vance ot th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025001:00414216328:1823080901:0504/pct:63.08559351884466,19.058224626153358,17.259598450158506,14.094813872096722/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025001:00414216328:1823080901:0504/pct:63.074484944532486,19.056203605514316,17.262428831367025,14.096854012018381/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -378,7 +378,7 @@ hindrance. .
 treaty stipulations upon this subject. The ob­  
 ligations of neutrality, however, impose upo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015143:1823081901:0130/pct:44.020130254588516,35.330599179753925,16.133806986382474,16.334900470141044/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015143:1823081901:0130/pct:44.029998026445625,35.33393351338735,16.133806986382474,16.334900470141044/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -424,7 +424,7 @@ or private and of merchants, be forced through stress nl .
 weather, pursuit .of pirates or enemies, or any other or j  
 gent necessity, for seeking of shelter and harbor lo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1839091701:0144/pct:3.167420814479638,82.06035379812695,16.108597285067873,2.445369406867846/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1839091701:0144/pct:3.167420814479638,82.06035379812695,16.11362493715435,2.4523066250433576/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -534,7 +534,7 @@ whither they please, without any let or hin-
 Art, 9. Propertg Tuhen from Pirates to be Re  
 tored.  All ships and merchandise, of what
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_american_ver01:data:sn86053573:00237288920:1873112601:0523/pct:163.66197183098592,46.90327070285316,42.91079812206573,26.443980514961726/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_american_ver01:data:sn86053573:00237288920:1873112601:0523/pct:40.91549295774648,11.72581767571329,10.727699530516432,6.610995128740432/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -347,7 +347,7 @@ manoeuvres and encampment. The
 students are leqmred to attend these  
 exercises, and the roll is to be regula
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348914:1825052601:0512/pct:57.182735666738246,29.203782376319037,17.37169851835946,13.23831711662327/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348914:1825052601:0512/pct:57.17045942464577,29.199780761852562,17.373336195792184,13.239928747602082/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -390,7 +390,7 @@ Saturday. January g, 1847.
 Hie list of sluilenls of the University, who we&gt;e  
 distinguished in their respective classes, at the lat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn85025230:00414184108:1827010601:0050/pct:33.082151300236404,7.813932172318974,31.944444444444443,84.01695692025665/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn85025230:00414184108:1827010601:0050/pct:33.07726399763628,7.813037003093138,31.94464962820702,84.01115057089396/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -412,7 +412,7 @@ for which he shall receive one bundled and forty
 dollars yeaily fiom the funds of the University and  
 be furnished with a lodging room
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827011201:0319/pct:64.30842607313195,45.20268649556248,14.864864864864865,4.101703046294075/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827011201:0319/pct:64.29820378318233,45.19726585921573,14.867800561648917,4.105208458248391/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -442,7 +442,7 @@ sidered as students of the University, subject to the
 same regulations, and entitled to the same rights am^  
 privileges
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827011201:0319/pct:64.40381558028616,14.260014391940514,30.54054054054054,82.94555049172463/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827011201:0319/pct:64.3935781274837,14.258304353039932,30.540984475176177,82.93960107127154/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -471,7 +471,7 @@ tionm Greek unless qiialifiicd in ti.e same
 degree in that language. &#x27;  
 _No one shall enter a Rodent ,,f Uni­
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn85025230:00414184108:1827011301:0051/pct:70.60153776571687,55.93974666210202,16.28222523744912,8.889649663357298/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn85025230:00414184108:1827011301:0051/pct:70.59089538739825,55.933363760839796,16.284795497939907,8.892438764643238/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -500,7 +500,7 @@ may he. transmit by mail a list of these no­
 tations to the parent or guardian of each de­  
 liii(|iieut. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn85025230:00414184108:1827011301:0052/pct:13.909050511035403,12.996924478870032,15.612501851577544,8.770930629912291/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn85025230:00414184108:1827011301:0052/pct:13.906990521327014,12.995444191343964,15.615126382306476,8.773728170083523/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -522,7 +522,7 @@ punishments, at the discretion of the Facul­
 ty­  
 . Offences and misprisions of offences—-Tri
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn85025230:00414184108:1827011301:0052/pct:13.82017478892016,21.74507347078255,15.701377573692787,4.6816266089531835/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn85025230:00414184108:1827011301:0052/pct:13.818127962085308,21.74259681093394,15.703988941548182,4.684889901290813/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -543,7 +543,7 @@ Professor may, if refused, have the door
 broken open j and the expenses of repair  
 shall be levied on the students within
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn85025230:00414184108:1827011301:0052/pct:13.879425270330321,38.06811709761932,15.642127092282625,4.590500056954095/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn85025230:00414184108:1827011301:0052/pct:13.877369668246445,38.06378132118451,15.644747235387046,4.593773728170084/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -566,7 +566,7 @@ at least besides the one whose class is under
 v mmi.ition, shall be present on **aeh oe­  
 easion, and, if-convenient, more.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn85025230:00414184108:1827011301:0052/pct:13.82017478892016,42.73835288757262,15.508813509109762,5.42202984394578/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn85025230:00414184108:1827011301:0052/pct:13.818127962085308,42.73348519362187,15.511453396524487,5.425208807896735/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -617,7 +617,7 @@ the Enactments of the Visitors, may be sub­
 jected by the Faculty to any „r the punish­  
 ments permitted by these Enactments
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn85025230:00414184108:1827011301:0052/pct:13.923863131387943,8.167217222918328,31.743445415494,83.97311766716027/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn85025230:00414184108:1827011301:0052/pct:13.921800947867299,8.166287015945331,31.743680884676145,83.96735003796508/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -642,7 +642,7 @@ bute to, or be present at them there or elsewhere,
 out wit h * he consent of each of the Pi oleator* whose  
 school he attends; on pain of a mi-ioe punishmen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn85025230:00414184108:1827011301:0052/pct:29.995556213894236,61.601549151383985,15.538438749814842,5.934616698940654/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn85025230:00414184108:1827011301:0052/pct:29.99111374407583,61.594533029612755,15.541074249605055,5.937737281700835/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -665,7 +665,7 @@ sion from the school room for the day and insubor­
 dination to these sentence* shall be deemed and  
 punished as contumacy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn85025230:00414184108:1827011301:0052/pct:46.2005628795734,11.288301628887117,15.686564953340246,4.590500056954095/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn85025230:00414184108:1827011301:0052/pct:46.19372037914692,11.287015945330296,15.6891785150079,4.593773728170084/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -726,7 +726,7 @@ gratis in the mechanical and philosophical princi­
 ples ol his ait, so lar as taught by any of the  
 schools
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn85025230:00414184108:1827011301:0052/pct:46.14131239816324,18.179747123818203,15.701377573692787,22.34878687777651/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn85025230:00414184108:1827011301:0052/pct:46.13447867298578,18.17767653758542,15.703988941548182,22.350037965072133/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -746,7 +746,7 @@ that every student may be enabled &#x27;o attend those
 daysi and hours, that no two shall be hidden at the  
 same time.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827012001:0334/pct:4.533077046291847,47.93169793169793,15.185007208073042,2.861952861952862/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827012001:0334/pct:4.5323510570147345,47.92593483227125,15.187913730514627,2.8656166085527635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -783,7 +783,7 @@ Thursdays and Saturdays.
 Length of Session.— The next session of the  
 University shall commence
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827012001:0334/pct:4.30882588499119,62.16931216931217,15.281114848630466,11.471861471861471/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827012001:0334/pct:4.308135810377963,62.161837200913794,15.284005979073244,11.474490000400786/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -835,7 +835,7 @@ of the minor punishments, at the discretion of the
 Faculty.  
 Offences and misprisions of offences—Trial
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827012001:0334/pct:19.830209835015218,9.716209716209717,15.681563350953068,19.54064454064454/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827012001:0334/pct:19.82703395259449,9.715041481303354,15.684390348067478,19.542302913710873/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -855,7 +855,7 @@ or major punishment,* and the Professor may, if
 refused, have the door broken epeu; and the ex­  
 pense* of repairs shall be levied on the student
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827012001:0334/pct:35.816114047733464,5.459355459355459,15.024827807144002,3.1024531024531026/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827012001:0334/pct:35.81037796284433,5.458699050138271,15.027759982916933,3.106087932347401/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -874,7 +874,7 @@ chance, being obstructive to the acquisition of sci­
 ence by the student himself ar.d injurious, by ex­  
 ample, to others, shall be subject to any of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827012001:0334/pct:35.848149927919266,9.018759018759019,15.024827807144002,2.5613275613275612/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827012001:0334/pct:35.84240871236387,9.017674642298905,15.027759982916933,2.5650274538094666/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -905,7 +905,7 @@ designated in ilie Enactments of the Visitors, may
 be subjected by the Faculty to any of the punish­  
 ments permitted by these Enactments
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827012001:0334/pct:35.832131987826365,14.069264069264069,15.008809867051097,8.537758537758538/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827012001:0334/pct:35.8263933376041,14.067572441986293,15.011744608157164,8.540739850106208/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -931,7 +931,7 @@ but with the consent of each ol the Professors
 whose school he attends, on pain of a minor pun­  
 ishment
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827012001:0334/pct:35.92823962838379,52.06830206830207,15.024827807144002,6.361231361231361/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827012001:0334/pct:35.922485586162715,52.062041601539015,15.027759982916933,6.364474369764739/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -957,7 +957,7 @@ sity. The minoi punishments sht.ll be repioof by !
 a Profes*or privately, or in presence of the school J  
 of’he offender, or of all the schools; dismissio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827012001:0334/pct:35.60788082652571,84.74025974025975,15.345186609002083,5.507455507455507/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827012001:0334/pct:35.60217809096733,84.73007093904052,15.348067478112322,5.510801170293775/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -983,7 +983,7 @@ the school*, maybe suspended in the mean time.
 To be continued.  
 FOR THE fc-VQ UIR-E
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827012001:0334/pct:35.54380906615409,4.329004329004329,30.770462918468684,90.05531505531505/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827012001:0334/pct:35.53811659192825,4.328483828303475,30.770873371770232,90.04849505029858/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1006,7 +1006,7 @@ fifteen dollars, annually, for hi* pa\ licipaiijo in the
 use ol the public npatiments, during the session.  
 Every student shall lie rrrjuiicd
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn85025230:00414184108:1827012001:0053/pct:56.77020506634499,44.59412780656304,16.013268998793727,4.467472654001152/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn85025230:00414184108:1827012001:0053/pct:56.76164631388512,44.58899378309924,16.01588019498467,4.4707959168009825/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1040,7 +1040,7 @@ l,‘c ft°u,:, ,a. shall be appropriated to the gym
 na-;ic cxci • i&gt;cs and game; n the students; among  
 xx irh s.iall here, koned rnilitary cxci rise
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn85025230:00414184108:1827012001:0054/pct:29.17472118959108,38.39816933638444,15.717472118959108,10.446224256292906/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn85025230:00414184108:1827012001:0054/pct:29.170383586083855,38.39377645578309,15.720091188423035,10.448842619074858/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1100,7 +1100,7 @@ ical and philosophical ptinciples of his art, so far
 A* taught by at.y of the school*.  
 ~ Hoard uni accommodation of Students 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827013001:0350/pct:3.884892086330935,38.26965198345096,15.491606714628297,23.2173278169871/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827013001:0350/pct:3.8842710997442453,38.2649957415744,15.494458653026427,23.21855862432575/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1123,7 +1123,7 @@ paiionin the use of the public apartments, during
 the se-sion.  
 Every student shall he required to h ive
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827013001:0350/pct:19.520383693045563,54.44146994402531,15.107913669064748,4.5266488196641514/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827013001:0350/pct:19.517263427109974,54.434846088331916,15.11082693947144,4.530153708885915/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1147,7 +1147,7 @@ music.
 The Faculty -hall have tlie power, for offensive I  
 conduct, of removing f lie occupant from any dor-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827013001:0350/pct:19.50439648281375,67.1817960574349,15.379696243005595,5.585300559746897/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827013001:0350/pct:19.501278772378516,67.17362209514539,15.382566069906224,5.5886766435494994/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1181,7 +1181,7 @@ of the Rotunda, shall be appropriated to the gym­
 nastic exercises »nd games of the students; among  
 which shall be reckoned milita&gt;y exercises.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827020601:0362/pct:20.252961895613193,68.63030303030303,15.097662504002562,10.763636363636364/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827020601:0362/pct:20.249719865535457,68.62198521391346,15.100581612507337,10.766371752918838/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1312,7 +1312,7 @@ constitute the basis of a good education, and
 are indispensable to fill up the character of a  
 well educated man.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn84021903:00414187432:1831071601:0108/pct:18.00453514739229,67.0810542018896,14.943310657596372,10.09448035803083/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn84021903:00414187432:1831071601:0108/pct:18.000453411924735,67.06993702353331,14.945590569031966,10.096950613191913/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1335,7 +1335,7 @@ In- Rector ami V idiots—&quot; Should the Religion* sc is of
 • ing, and in time to meet thei. School in Hie Untvcr.ity  
 &quot; at its stateil hour.&#x27;* 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1833080201:0105/pct:64.27289048473968,63.41061421821778,15.039359204529761,3.8896824524777496/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1833080201:0105/pct:64.26401546534106,63.40364754998901,15.041885298720427,3.892917307551454/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1357,7 +1357,7 @@ j who has not a familiar acquaintance with &#x27;all
 mence reading the higher Litinor Greek cl is*  
 -ics. Any candidate who may desire to ente
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00279550304:1846071601:0269/pct:47.55963669028845,57.35654065814523,15.001497155404731,4.06581452270873/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00279550304:1846071601:0269/pct:47.554890219560875,57.35264124005711,15.003326679973387,4.06780429215673/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1380,7 +1380,7 @@ therefore, offer satisfactory testimonials going to shew that he pos
 sesses the requisite qualifications; and it is required that in all cases  
 applicants shall exhibit certificates of their ability to profit by th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184637:1846071701:0648/pct:256.19664409773327,162.87339971550497,38.7400647630262,9.400189663347557/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184637:1846071701:0648/pct:85.38631346578366,54.284698352494964,12.911454500858474,3.133025166923472/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1399,7 +1399,7 @@ with all the branches of numerical arithmetic; and none into the
 school of Ancient Languages unless qualified, in the judgment of  
 the professor, to commence reading the higher Latin or Greek cla
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184637:1846072101:0661/pct:49.249779346866724,218.71663959155256,38.67313915857605,5.163611046646554/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184637:1846072101:0661/pct:16.414178555669952,72.89708782921453,12.889150365249792,1.7210039834474224/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1419,7 +1419,7 @@ rithmetic, and none into the School of Ancient Languag
 es, unless qualified, in the judgement of the Professor, to  
  commence reading the higher Latin or Greck classics
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186464:1846072201:0598/pct:249.29463925836356,146.09271523178808,39.83608759908639,6.699779249448124/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186464:1846072201:0598/pct:83.08704997313272,48.69219732921311,13.276912054451012,2.233013280359048/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1440,7 +1440,7 @@ Ancient Languages, unless qualified, inthojud­
 ment of the Professor, to commence reading the  
 higher Latin or Greek classics. Any candidat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183712:1846073001:0105/pct:47.769219590175844,43.540561886494416,14.678099113500945,3.542818458761142/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183712:1846073001:0105/pct:47.762278407439695,43.53564981949459,14.680809842100164,3.546179302045728/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1463,7 +1463,7 @@ therefore, offer satisfactory testimonials going to shew that he pos­
 sesses the requisite qualifications; and it is required that in all cases  
 applicants shall exhibit certificates of their abisity to profit by th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184637:1846073101:0696/pct:214.15384615384616,204.22699673049976,38.73992673992674,9.504904250350304/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184637:1846073101:0696/pct:71.3741576325813,68.06771745475774,12.911417130579158,3.1679315041836933/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1484,7 +1484,7 @@ Ancient Languages, unless qualified, in the jhd­
 ment of the Professor, to commence reading tho  
 higher I-atm or (ircck classics. Any candidat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183712:1846080601:0109/pct:78.16849816849818,30.644798921590652,14.783882783882785,3.594697820714446/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183712:1846080601:0109/pct:78.15704658658072,30.641356846006964,14.786600253931049,3.598038114493242/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1505,7 +1505,7 @@ qilified, in the judgment of the Prolessor, to com­
 mence reading the higher Latin or (ireek clas­  
 sics. Any candidate w ho may desire to ente
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00279550304:1846080801:0349/pct:63.313369201096336,66.1991199119912,14.81067911887118,3.540979097909791/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00279550304:1846080801:0349/pct:63.30694275274056,66.19456858026814,14.812559209635946,3.5430273862724877/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1525,7 +1525,7 @@ rithmetic, and none into the School of Ancient Languag­
 dgement of the Professor, to  
  commence reading the higher Latin or Greek classics
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186464:1846081201:0658/pct:248.35209003215434,48.15575987020011,39.563236870310824,6.435911303407247/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186464:1846081201:0658/pct:82.77294038847957,16.050183863292233,13.185979013172583,2.145071742735597/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1546,7 +1546,7 @@ Ancient Languages, unless qualified, inthejud­
 ment of the Professor, to commence reading the  
 higher Latin or Greek classics. Any eandidnt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183712:1846081301:0113/pct:63.274785890550156,49.42320741913594,14.515894904920888,3.494684460529292/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183712:1846081301:0113/pct:63.26560232220609,49.41761845527536,14.518626028059991,3.498058728184251/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1566,7 +1566,7 @@ rithmetic, and none into the School of Ancient Languat
 es, unless qualitied, in the judgement of the Professor, to  
 commence reading the higher Latin or Greck classics
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186464:1846081301:0663/pct:89.98403830806066,161.69425087108013,39.27906358073956,6.445993031358885/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186464:1846081301:0663/pct:29.990690251363212,53.89221556886228,13.091279868776876,2.148430411903466/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1586,7 +1586,7 @@ rithmetic, and none into the School of Ancient Langua:­
 es, unless qualitled, in the judgement of the Professor, to  
 commence reading the higher Latin or Greek classics
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186464:1846081401:0667/pct:91.27845420857597,161.89940362326993,38.24775013234515,6.661415550804546/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186464:1846081401:0667/pct:30.42212518195051,53.960396039603964,12.747562965903578,2.22022202220222/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1606,7 +1606,7 @@ rithmetic, and none into the School of Ancient Languag
 es, unless qualified, in the judgement of the Professor, to  
 commence reading the higher Latin or Greek classies,­
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186464:1846081701:0675/pct:91.48685759121224,217.41850510372078,36.77259055838891,6.431785753484799/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186464:1846081701:0675/pct:30.49163179916318,72.46488147497806,12.255927475592747,2.1436932982148083/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1634,7 +1634,7 @@ considered as students of the University, subject
 to the same regulations, and entitled to the same  
 rights and privileges.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664291:1847072301:0472/pct:58.977461806080775,56.384421623716335,13.52291635153532,5.987211780662662/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664291:1847072301:0472/pct:58.977461806080775,56.39088032035135,13.527958453083246,5.983982432345153/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

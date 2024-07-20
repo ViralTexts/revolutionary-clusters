@@ -57,7 +57,7 @@ for other purposes.
 B&quot; w E it enacted by the Senate ar.d House ef Repre­  
 seniativcs of the United States tf America i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812071401:0082/pct:43.08928245389812,25.070284806258403,16.72448420668249,5.476103165872143/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812071401:0082/pct:43.08141657539248,25.067220728428257,16.727516125106487,5.4795078627882345/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -118,7 +118,7 @@ AP £ it enafled by the Senate and
 A D House of Representatives of the&#x27;U.  
 nfted States of dmevica in Congress af
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1812072101:0325/pct:42.161995688327686,62.3035607718321,16.522944256236524,10.781778396658046/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1812072101:0325/pct:42.17226157478698,62.31019163185465,16.533210142695822,10.775147536635501/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -156,7 +156,7 @@ of the United States, and for other
 purposcs. |  
 BE it enacted by the Senate and House o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812072301:0656/pct:76.0184727032822,77.28941363230479,23.503216229589313,16.49965274332771/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812072301:0656/pct:76.02397053164,77.29602804511029,23.50871405794711,16.49965274332771/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -245,7 +245,7 @@ American vessels from proceeding to, of trading:
 With the enemies of the United States, and for*  
 other purpose*:-’ passed the «th July last. Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1812100701:0136/pct:47.931206380857425,81.1333008605293,21.48554336989033,3.555772040915733/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1812100701:0136/pct:47.91926239720907,81.12012987012987,21.486419137802145,3.5592532467532467/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -355,7 +355,7 @@ lorfeiturc, as soon as a seizure con be
 made ; and this whether the arrival be v&lt;&gt;  
 Itimary, or whether it be the case of a brin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812102701:0199/pct:58.89724310776943,65.46478198370868,17.257429287504475,9.882606612362242/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812102701:0199/pct:58.88670127080723,65.4569409510121,17.260306664280176,9.885415419012258/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -428,7 +428,7 @@ can vessels from proceeding to or
 trading with the gnemie* of Aha U.  
 Halts and for other pur^&amp;io**’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216195:1815020201:0060/pct:25.469759248385202,92.37707817474354,18.115091015854375,5.1467987265652635/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216195:1815020201:0060/pct:25.46602084250697,92.36890971792377,18.117324722344538,5.149291125062635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -462,7 +462,7 @@ the United States,” and the same act makes
 it nenal to depart without giving such bond  
 and se
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184285:1815020801:0035/pct:40.011027384671934,31.567164179104477,17.717331372909392,11.430348258706468/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184285:1815020801:0035/pct:40.00367511944138,31.563238403183682,17.720200906529463,11.433072171786263/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -506,7 +506,7 @@ See. 2. And be it further enacted, That the
 ceeding to, or trading with, the enemies ot the  
 United .States, and for other purposes,” passe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184285:1815032901:0094/pct:42.91010194624653,86.24338624338624,17.757182576459684,5.593348450491308/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184285:1815032901:0094/pct:42.90214974054855,86.23252298778183,17.76006918705214,5.5968425914262925/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -538,7 +538,7 @@ to proliibit Amcericun vessels from proceeding to, or
 trading with, the enemies of the United States, and  
 for other purpeses,” possed the sizth day of July
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1815041901:0062/pct:51.566265060240966,24.308231173380037,22.08835341365462,4.693520140105079/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1815041901:0062/pct:51.57965194109772,24.308231173380037,22.10174029451138,4.705195563339171/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -577,7 +577,7 @@ sels from proceeding to or trading with
 the enemies of the United States, and  
 for other purposes&quot; is printed in full
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ash_ver01:data:sn84020358:00415621188:1898050401:0954/pct:6.624605678233438,16.679302501895375,16.324921135646687,2.6383623957543594/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ash_ver01:data:sn84020358:00415621188:1898050401:0954/pct:4.97139475241665,12.509476876421532,12.270664825409352,1.9863532979529948/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -100,7 +100,7 @@ Restore the commonwealth to liberty,
 Submit his actions to the public censure,  
 And stand the judgmentof a Roman Senate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1838100601:0626/pct:64.74380165289256,32.494885064388015,15.47107438016529,7.750631844987363/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1838100601:0626/pct:64.74931129476585,32.494885064388015,15.476584022038567,7.758655273398323/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -147,7 +147,7 @@ Restore the Commonwealth to liberty
 Submit his actions to the public censure,  
 And stand the judgment of a Roman Senate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777602:1846123101:0422/pct:268.4973302822273,160.11494252873564,38.59649122807018,5.804597701149425/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777602:1846123101:0422/pct:67.12433257055683,40.02873563218391,9.649122807017545,1.4511494252873562/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -184,7 +184,7 @@ Restore the common wealth to liberty;
 Submit his actions to the public censure,  
 And stand the judgment of a toman Senate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn84023649:0028077778A:1847011201:0227/pct:123.10606060606061,261.5206707140792,48.18181818181818,8.962127782596125/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn84023649:0028077778A:1847011201:0227/pct:30.788177339901477,65.3801676785198,12.05001894657067,2.2405319456490314/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -213,7 +213,7 @@ Submit his actions to the public censure
 &quot;And stand the judgement of a Roman  
 Senate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85026593:00202198065:1847012001:0466/pct:7.883016627078385,91.93548387096774,19.759501187648457,3.7486095661846495/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85026593:00202198065:1847012001:0466/pct:5.256124721603563,61.29032258064516,13.184855233853007,2.5027808676307006/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -231,7 +231,7 @@ restore the Commonwealth to liberty; submit
 his actions to the publlc censure.&quot; And so  
 the Ambassadors of Austria and Germany hav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743737:1871012601:0278/pct:151.3614262560778,97.44938808189409,45.81847649918963,7.869152464829006/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743737:1871012601:0278/pct:50.453808752025935,32.48312936063136,15.272825499729876,2.623050821609669/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -267,7 +267,7 @@ Restore the Commonwealth to liberty:
 Submit his actions to the public censure,  
 And stand the judgment of a Roman Senate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00271742113:1876120601:0544/pct:96.41364433059188,28.69726471951785,35.59390589187003,4.747334260547056/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00271742113:1876120601:0544/pct:32.13788144353063,9.56575490650595,11.86463529729001,1.5824447535156854/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

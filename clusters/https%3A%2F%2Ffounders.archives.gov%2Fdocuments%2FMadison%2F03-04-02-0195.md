@@ -64,7 +64,7 @@ ted on the high seas. It was in the trade be­
 tween the United States and the British do­  
 minions, that France had violated the neutra
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216146:1811110901:0390/pct:54.128137384412156,37.969052224371374,21.05350066050198,5.97678916827853/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216146:1811110901:0390/pct:54.11920092455011,37.96538052412726,21.055528039183315,5.979434613029043/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -89,7 +89,7 @@ him that the decrees of Berlin and Milan
 were revoked, the revocation to take effect  
 on the 1st of November following : that th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216146:1811110901:0390/pct:54.06208718626156,45.99613152804642,21.086525759577277,7.23404255319149/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216146:1811110901:0390/pct:54.053161631170546,45.991683589594814,21.088547685873095,7.23656641846372/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -166,7 +166,7 @@ ded to in this act were such as were commit­
 ted on tin* high seas. It was in the trade be­  
 tween the United States and the British do
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811111201:0216/pct:23.509933774834437,67.6654029595206,17.568064753495218,8.80518527577351/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811111201:0216/pct:23.505609711237813,67.65712888236733,17.570964379866346,8.808184560202168/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -184,7 +184,7 @@ ded to in this act were such as were commit­
 ted on the high seas. It was in the trade  
 between the United States and the Britis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811111401:0371/pct:57.574189095928226,16.91341940068696,16.356107660455486,2.1793201468672274/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811111401:0371/pct:57.56425737450405,16.911416390336335,16.359036283134955,2.1830096320858994/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -212,7 +212,7 @@ lin and Milan were revoked, the revocation
 to take effect on the 1st of November follow­  
 ing: that the measures had been taken h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811111401:0371/pct:57.53968253968254,20.217932014686724,16.390614216701174,7.734217695132062/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811111401:0371/pct:57.52975677074349,20.215537659876837,16.39353688689552,7.737249328912048/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

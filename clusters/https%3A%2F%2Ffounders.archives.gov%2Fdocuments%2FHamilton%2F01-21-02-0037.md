@@ -438,7 +438,7 @@ friendlhip. In t:*e yea&#x27; 1780, I marri­
 ed thefcCond daughter of Cie . Schuy­  
 er, a gen.leman of one of the belt -a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804110701:0002/pct:80.01326553172673,9.229490022172948,18.660181295600264,63.09589800443459/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804110701:0002/pct:80.01326553172673,9.229490022172948,18.660181295600264,63.11437546193644/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -521,7 +521,7 @@ mgsiiafe oi ids confidence and friendship. In the
 year 1- &amp;0,1 ui »rriet! the second daughter cf General  
 Schuy lei, a gentleman ot one of die h&gt;st families i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804111001:0205/pct:73.7410071942446,16.29677628381662,22.276464542651592,40.579944921432045/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804111001:0205/pct:73.7220652453121,16.29413670229997,22.277164140765475,40.57742144476838/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -546,7 +546,7 @@ to my res,am es as w ill render the eve of life easy and
 agreeable, so tar as may depend on this consitleiv*­  
 tian.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804111001:0205/pct:74.04933196300102,58.61007613802041,21.762589928057555,6.4150332091365625/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804111001:0205/pct:74.03031081428205,58.60058309037901,21.763421525815566,6.418043407839326/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -636,7 +636,7 @@ dition to r.iv refimrees as will render the eve of
 life eaty ai d agreeable, fo far as may depend on  
 this confideratioii.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804111001:0223/pct:6.005788712011578,2.3661270236612704,17.80028943560058,42.72727272727273/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804111001:0223/pct:6.004702477844095,2.365832399452123,17.803098812322904,42.72610301747395/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -758,7 +758,7 @@ AmtuiTATiov —A. P.ri« piper states that
 M Pauli, originally from Switzerland, has con  
 strutted a balloon winch can be dir: ed at wil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804111001:0347/pct:22.57387988560534,1.7511761630946159,36.41563393708294,94.75953998954522/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804111001:0347/pct:22.569576820434616,1.7509473409120606,36.415046384546955,94.75151356766409/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1408,7 +1408,7 @@ at Will rendor the eve of lile easy and agree*
 able, so far as may depend on this considera­  
 tions.1
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1829071301:0375/pct:8.584925035941671,3.4034034034034035,29.657013760525775,90.93379093379093/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1829071301:0375/pct:8.583162217659138,3.402916785816414,29.65605749486653,90.92436374034887/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1466,7 +1466,7 @@ every advantage I could desire.&quot;
 It is to be observed, however, that when Mr. Hamilton  
 did resume the practice of law in New-York city he uphel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ford_ver01:data:sn83030214:00175038036:1884110201:0307/pct:196.94607921107047,101.96948998178506,46.46095116907905,36.612021857923494/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ford_ver01:data:sn83030214:00175038036:1884110201:0307/pct:65.64869307035683,33.98982999392835,15.48698372302635,12.2040072859745/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

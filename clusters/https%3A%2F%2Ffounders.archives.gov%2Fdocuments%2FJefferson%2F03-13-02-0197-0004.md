@@ -364,7 +364,7 @@ I7L&gt;. Au act “ appropriating part of the
 revenue of the literary fund, and for oth­  
 er purposes.&quot; For tue purpose of dul
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:0041418392A:1818022401:0346/pct:20.317670416942423,42.855396650776186,15.28788881535407,2.811392250336145/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:0041418392A:1818022401:0346/pct:20.314309346567413,42.850158885358105,15.29087400055142,2.8151226269045875/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -395,7 +395,7 @@ professors, and that of the dormitories
 amt hotels, on tlie uuinher of students to  
 be lodged and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1818121001:0250/pct:82.00857519788919,29.03614457831325,15.138522427440634,8.44578313253012/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1818121001:0250/pct:81.99505358615004,29.032646669076016,15.14152239626271,8.448781271332772/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -501,7 +501,7 @@ These are the ohjrets of that limber
 grade of education, the h. nefitx and !.!•*­  
 sings of which lire legislature now pro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1818121001:0250/pct:82.15699208443272,45.54216867469879,14.759234828496043,49.75903614457831/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1818121001:0250/pct:82.14344600164881,45.53668232743043,14.762297334432537,49.75705738264466/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -664,7 +664,7 @@ Static*,
 t namic*.  
 A. Fhyslco Mattiunat.; Pneumatics.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1818121001:0251/pct:3.434739941118744,2.923338185346919,15.407262021589794,78.4691897137312/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1818121001:0251/pct:3.4341782502044156,2.9229836264402667,15.41019351321886,78.46371538306045/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -736,7 +736,7 @@ institution ; ami in general
 To direct ami do all matters and things  
 which, not being inconsistent with Un­
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1818121001:0251/pct:49.983644095518486,3.3114992721979624,15.080143931959437,31.80494905385735/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1818121001:0251/pct:49.97547015535568,3.3110976349302605,15.083128917961297,31.805134424903983/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1713,7 +1713,7 @@ tion by the board of public instruction, cither on
 the complaint of any individual aggrieved or  
 interested, or on the proper motion of the sai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184534:1825020101:0037/pct:19.222361024359774,73.42145639088871,14.834478450968145,1.5696919627050632/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184534:1825020101:0037/pct:19.21935987509758,73.41279206986076,14.83736664064533,1.5734403272755881/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1796,7 +1796,7 @@ tioi&#x27;, rendering themselves example
 of virtue tf) other?, and of hap- mess  
 within themselves
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_mitchell_ver01:data:sn92073907:00416156724:1890102301:0414/pct:73.75415282392026,25.411184210526315,17.84330011074197,54.44078947368421/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_mitchell_ver01:data:sn92073907:00416156724:1890102301:0414/pct:55.33859576235979,19.058388157894736,13.39149702257305,40.83059210526316/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1861,7 +1861,7 @@ itfl !nf oflonTrtn nA - nnir.f onftAn &#x27;
 dering themselves, examples . of virtue j  
 others, and of happiness &#x27; within them-&#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn91068247:00296023048:1890102401:0176/pct:90.4925701706109,24.13247547727033,17.542652724270777,35.46039447315684/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn91068247:00296023048:1890102401:0176/pct:67.9008947006194,18.099356607952746,13.158981417756365,26.60056956017298/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2171,7 +2171,7 @@ tible of other incitements to correct
 conduct more worthy of employ and  
 of better effect,&quot; and even planne
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_audi_ver01:data:sn86088296:00200297507:1894062801:0523/pct:110.69553805774278,44.53488372093023,19.31321084864392,5.625/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_audi_ver01:data:sn86088296:00200297507:1894062801:0523/pct:83.06345733041576,33.401162790697676,14.485776805251641,4.229651162790698/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2205,7 +2205,7 @@ in truth the best example for that of
 tutor and pupll, and the experlence or  
 other countries in this respect may b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_u2_ver01:data:sn85038614:00175031194:1895102801:0243/pct:172.05957014723305,179.78588695752273,41.360636317481806,25.762633820651548/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_u2_ver01:data:sn85038614:00175031194:1895102801:0243/pct:57.353190049077675,59.92862898584091,13.786878772493935,8.58754460688385/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2316,7 +2316,7 @@ ry restraint on individual action, shall
 leave us free to do whatever does not vio­  
 late the equal rights of another.&quot; Fr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042957:1897081901:0043/pct:126.02001539645882,322.6392251815981,51.03926096997691,25.847457627118644/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042957:1897081901:0043/pct:31.51106833493744,80.65980629539952,12.762271414821944,6.461864406779661/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2357,7 +2357,7 @@ not violate the equal rights of
   
 another.&quot; From every point o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_black_ver02:data:sn84020751:00415667851:1897082601:0369/pct:9.837962962962964,100.97015841827336,14.39525462962963,11.420852265749724/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_black_ver02:data:sn84020751:00415667851:1897082601:0369/pct:7.381676074685193,75.73375905685864,10.811984368215372,8.571779442465921/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2431,7 +2431,7 @@ anufactures, and commerce, and by well
 aformed views of political economy to  
 ive free scope to the public industry.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_u2_ver01:data:sn85038614:00175032897:1897091601:0606/pct:88.45093268450933,265.56919642857144,39.85401459854015,22.354910714285715/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_u2_ver01:data:sn85038614:00175032897:1897091601:0606/pct:29.483644228169776,88.52306547619048,13.284671532846716,7.451636904761905/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2472,7 +2472,7 @@ tures and commerce, and by well-in­
 formed views of political eoonomy to  
 give free eeoi&gt;e to the public industry 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_brown_ver01:data:sn86072192:00340583310:1897091901:0634/pct:3.218790778599391,6.994271932469099,29.83906046107003,18.31474223696111/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_brown_ver01:data:sn86072192:00340583310:1897091901:0634/pct:3.218090889323766,6.993217784476262,29.838008262665795,18.315749811605123/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2523,7 +2523,7 @@ scope to the public industry.”
 Fifty years ago, we are told, the South  
 wm still far in advance of the North i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:00332892150:1897092201:0011/pct:20.104347826086958,76.92214406985205,14.330434782608696,13.727868057239874/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:00332892150:1897092201:0011/pct:20.104347826086958,76.9261864338265,14.353623188405797,13.731910421214327/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

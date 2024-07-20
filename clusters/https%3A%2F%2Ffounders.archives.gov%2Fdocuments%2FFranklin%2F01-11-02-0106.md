@@ -337,7 +337,7 @@ dignity.
 Without a tomb tr even  
 A monumental Inscription
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665490:1894071501:0155/pct:93.75819851333625,74.1853790308965,16.418889374726717,17.33074455512409/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665490:1894071501:0155/pct:70.33675923901158,55.63903427317238,12.322326700196808,13.000168833361473/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

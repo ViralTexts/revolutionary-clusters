@@ -81,7 +81,7 @@ son, Jr., Francis Lightfoot Lee, Carter Braxton
 Harrison, Thomas Nelson, Jr., Francis  
 Lightfoot Lee, Carter Braxton.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn87070038:00296028058:1847070201:0009/pct:73.23420074349443,324.67496920760914,49.44237918215613,4.543588339947995/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn87070038:00296028058:1847070201:0009/pct:18.311953894775982,81.16874230190228,12.362892730990891,1.1358970849869987/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -97,7 +97,7 @@ Lightfoot Lee, Carter Braxton.
 Harrison, Thomas Nelson, Jr., Francis  
 Lightfoot Lee, Carter Braxton
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn87070038:00296028058:1850070501:0656/pct:176.5807962529274,225.31574515857423,49.88290398126464,4.602862756104407/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn87070038:00296028058:1850070501:0656/pct:44.171060339777384,56.32893628964356,12.478031634446397,1.1507156890261017/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -129,7 +129,7 @@ Lee, Thoma* Jefferson, Benjamin Harrison,
 Thomas Nelson, jr., Francis Lightfoot Lee,  
 Carter Braxton. . 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82014835:00415661514:1855070301:0213/pct:3.5984354628422426,26.32458982129794,12.894393741851369,8.652941791200753/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82014835:00415661514:1855070301:0213/pct:3.5984354628422426,26.33155676315881,12.903085614950022,8.649458320270318/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -183,7 +183,7 @@ Thomas Nelson, jr.,
 Francis Lightfoot Lee,  
 Carter Braxton
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855070401:0741/pct:50.73614557485525,81.40976967856238,15.798180314309347,15.51505947861301/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855070401:0741/pct:50.74717397298043,81.41398801991058,15.798180314309347,15.523496161309373/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -199,7 +199,7 @@ Carter Braxton
 ! Thomas Nelson, jr., Francis Lightfoot Lee,  
 ; Carter Braxton
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215932:1855070401:0488/pct:57.96666020546618,71.26477457711091,12.676875363442528,0.8988604996815062/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215932:1855070401:0488/pct:57.96104273669929,71.25973106864826,12.67887715217883,0.9011559330030667/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -254,7 +254,7 @@ Thomas Nelson, Jr.,
 Francis Lightfoot Lee,  
 Carter Braxton
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn87076863:00296028861:1857070201:0482/pct:13.307349665924276,109.35981863327216,48.14866369710467,16.161070927345353/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn87076863:00296028861:1857070201:0482/pct:9.984681799192312,82.02526179423513,36.137028269043306,12.12350210514952/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -293,7 +293,7 @@ Francis Lightfoot Lee,
 Carter Braxton.  
 New Jersey. North Garclina
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kuwait_ver02:data:sn85059716:00201293031:1857070301:0309/pct:15.054906128232377,38.99299098841367,14.098476797732909,15.806036332427407/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kuwait_ver02:data:sn85059716:00201293031:1857070301:0309/pct:15.068189868933759,39.00014304105278,14.107332624867162,15.813188385066514/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -337,7 +337,7 @@ Thomas Nelson, Jr,&quot;
 Francis Lightfoot Lee,  
 Carter Braxton
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668156:1857070701:0072/pct:68.51256575102279,60.58277297470381,41.64231443600234,36.31123919308357/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668156:1857070701:0072/pct:22.8375219170076,20.194257658234605,13.880771478667446,12.103746397694524/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -362,7 +362,7 @@ Carter Braxton,
 William Hooper,  
 Joseph Hewes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ethan_ver01:data:sn82016399:00517174324:1862070401:0290/pct:41.85008923259964,24.214949137549755,6.424747174301011,5.362671384343211/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ethan_ver01:data:sn82016399:00517174324:1862070401:0290/pct:41.84386617100372,24.212271973466002,6.428748451053284,5.365763773723972/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -378,7 +378,7 @@ Joseph Hewes
 Harrison, Thomas Nelson, Jr., Francis  
 Lightfoot Lee. Carter Braxton
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028822:00280775459:1863061101:0724/pct:120.76866223207686,343.07453853741015,49.297856614929785,4.283500070452304/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028822:00280775459:1863061101:0724/pct:30.203327171903883,85.76863463435254,12.32902033271719,1.070875017613076/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -423,7 +423,7 @@ Thomas Nelson, Jr.,
 Francis Lightfoot Lee,  
 Carter Braxton
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774698:1863070401:0029/pct:208.19397993311037,65.65096952908587,57.02341137123746,56.232686980609415/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774698:1863070401:0029/pct:52.059376960066906,16.412742382271468,14.258833368178967,14.058171745152354/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -479,7 +479,7 @@ Thomas Nelson, Jr.,
 Francis Lightfoot Lee  
 Carter Braxton
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774716:1865070401:0455/pct:335.30670470756064,137.51476184227792,50.07132667617689,56.055635743340765/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774716:1865070401:0455/pct:83.84162653825575,34.37869046056948,12.520064205457464,14.013908935835191/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -531,7 +531,7 @@ Thomas Nelson, Jr.,
 Francis Lightfoot Lee  
 Carter Braxton
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776051:1872062901:0093/pct:331.20926864590876,63.787750493931696,50.253439536567704,50.12701100762066/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776051:1872062901:0093/pct:82.81730943327902,15.946937623482924,12.565634618866557,12.531752751905165/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -580,7 +580,7 @@ Thomas Nelson, Jr.,
 Francis Lightfoot Lee  
 Carter Braxton
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776051:1875070201:0658/pct:342.04009433962267,140.33826638477802,44.51650943396226,40.12684989429175/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776051:1875070201:0658/pct:85.54785429877599,35.084566596194506,11.134051024922577,10.031712473572938/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -665,7 +665,7 @@ Wholesale ArresT.
 New York, June 30. The United  
 States detectives discovered th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_grange_ver01:data:sn84026409:00280776476:1876070501:0182/pct:302.3125,337.7390462357783,39.625,23.965141612200437/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_grange_ver01:data:sn84026409:00280776476:1876070501:0182/pct:75.61356886040332,84.43476155894457,9.91089573237455,5.991285403050109/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -691,7 +691,7 @@ States detectives discovered th
 Harrison, Thomas Nelson, Jr., Francis  
 Light foot Lee, Carter Braxton, Georg
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84020713:00296023000:1879091201:0357/pct:89.13746630727763,42.21563228129634,18.76010781671159,1.4827367083245075/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84020713:00296023000:1879091201:0357/pct:66.86885024935975,31.66701969921627,14.071977355438738,1.1120525312433807/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -709,7 +709,7 @@ Francis Lightfoot Lee, Carter Braxton.
 Wm.Hooper, Joseph Hewes, John Penn,  
 Edward Ruthledge, Thos. Hayward jr.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quiring_ver01:data:sn89064939:00206537978:1887072001:0227/pct:31.20122158126909,39.56069634303073,14.692908042076688,2.126416637457647/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quiring_ver01:data:sn89064939:00206537978:1887072001:0227/pct:31.20122158126909,39.56848541496281,14.709874448591789,2.1303111734236864/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -749,7 +749,7 @@ Thomas Nelson, Jr.,
 Francis Lightfoot Lee,  
 Carter Braxton
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685142:1892063001:0778/pct:74.41998810232005,24.830209182287422,21.356335514574656,12.360771529475686/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685142:1892063001:0778/pct:74.40523394131641,24.826836887138395,21.35871001850383,12.363619901308343/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -775,7 +775,7 @@ Thomas Nelson, Jr.,
 Francis Lightfoot Lee,  
 Carter Braxton
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685166:1898063001:0352/pct:22.061855670103093,57.915758896151054,19.355670103092784,6.35439360929557/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685166:1898063001:0352/pct:22.05617108992528,57.90524596115448,19.357124452460706,6.357778181158105/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -73,7 +73,7 @@ slaves whenever the question came to be agitated &#x27;
 in any Slate, that might be interested in the mea­  
 sure.&quot;.&#x27;)
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1839011201:0317/pct:22.20394736842105,47.941244506130005,18.799342105263158,6.141568355308813/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1839011201:0317/pct:22.20394736842105,47.941244506130005,18.80482456140351,6.149279050042408/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -108,7 +108,7 @@ ted in any State, that might be interested in the
 measure.&quot;  
 The following is one of the famous Fairra
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530339:1851022201:0356/pct:153.7005745184184,139.82228457851048,47.972287935113215,16.67251256868935/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530339:1851022201:0356/pct:51.23352483947279,46.60742819283682,15.990762645037737,5.557504189563116/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -133,7 +133,7 @@ the question came to he agitated in uny State, &#x27;
 that might he interested in the measure. J !  
 * In writing to Mr. John F Mercer on this subject, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1853051901:0766/pct:21.03738446682301,43.030129672006105,15.229686853359084,5.310831426392067/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1853051901:0766/pct:21.03738446682301,43.030129672006105,15.234285188761667,5.317187897279431/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -156,7 +156,7 @@ duse a total p obibition of the importation of slaves,
 whenever the ques ion came to be agitated in any  
 State thet might be interested in the mexsure.&quot; So
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530510:1856080201:0227/pct:195.73102230781575,247.10898259549117,46.65382763601348,12.685433944632637/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530510:1856080201:0227/pct:65.24367410260525,82.36966086516372,15.551275878671161,4.228477981544212/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -187,7 +187,7 @@ but that of every man who knew him well while in
 California. When Mayor of San Francisco, he was  
 accused of all kinds of malfeasance in offic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182987:1856091801:0364/pct:50.49278423090461,9.760389874103154,30.517423442449843,86.6928387708136/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182987:1856091801:0364/pct:50.483899348935424,9.759068760151598,30.516452577863806,86.6844883595019/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -215,7 +215,7 @@ agitated in any State that might be
 interested in the measure.&quot;  
 The following is one of the famou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1856091901:0151/pct:242.4731182795699,340.77367718986216,43.625192012288785,31.124944419742107/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1856091901:0151/pct:60.653218059558114,85.19341929746554,10.91258405379443,7.781236104935527/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -241,7 +241,7 @@ to be sgitated in any State that might be interested in
 the messure. Sarer lo, poge .t.  
 It will be seen that in &quot;the times that trie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530522:1856110401:0236/pct:152.70292610348818,263.75073486184596,47.97487187964953,20.693709582598473/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530522:1856110401:0236/pct:50.900975367829396,87.91691162061532,15.991623959883176,6.897903194199491/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -290,7 +290,7 @@ lperutea to produce a total prohibition of the importation
 &gt;f slaves, whenever the question came to be agitated in  
 my State that might be interested in the measure.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1858020401:0243/pct:63.94011976047904,74.86313007362658,12.191616766467066,2.671323390598452/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1858020401:0243/pct:63.94011976047904,74.86313007362658,12.199600798403194,2.6807626958655844/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -321,7 +321,7 @@ came to be agitated in any State that miht
   
 bo interested in the measure.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296027546:1858080301:0281/pct:22.194668319900806,102.79032686686155,15.871047737135772,9.659845867658783/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296027546:1858080301:0281/pct:16.651162790697676,77.09274515014616,11.906976744186046,7.254849853840021/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

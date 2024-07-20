@@ -55,7 +55,7 @@ and serene evening, to a life so gloriously
 devoted to the universal happiness of the  
 world. T. ERSKINE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_beachhaven_ver01:data:sn85025061:00513684939:1819022301:0102/pct:54.26739023186976,50.11965300628178,17.340897878638383,7.224050254262639/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_beachhaven_ver01:data:sn85025061:00513684939:1819022301:0102/pct:54.254007398273735,50.112157918349034,17.342786683107274,7.226708538956184/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -83,7 +83,7 @@ and serene evening, to a life so gloriously
 devoted to the universal happiness of the  
 world. T. ERSKINE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216249:1819022401:0728/pct:25.72841250220731,30.80758807588076,17.835069751015364,9.246612466124661/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216249:1819022401:0728/pct:25.723870056497177,30.804248861911987,17.83780602636535,9.249223209769491/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -378,7 +378,7 @@ grant a long and serene evening to a life
 so gloriously devoted to the universal hap­  
 piness of the world. T. ERSKINE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_palmer_ver02:data:sn84037834:print:1822060501:0105/pct:47.448053258018966,32.693285859613425,19.427072826306233,7.527975584944048/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_palmer_ver02:data:sn84037834:print:1822060501:0105/pct:47.438483259378785,32.689129052765416,19.429877638832863,7.531256622165713/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -459,7 +459,7 @@ long and serene evening, to a life so glori­
 ously devoted to the universal happiness  
 of the world. “ T. ERSKL\E.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn86071587:00542866561:1824052801:0336/pct:48.114998643883915,58.18723702664796,20.097640358014647,5.873071528751753/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn86071587:00542866561:1824052801:0336/pct:48.10195227765727,58.17703768624014,20.098969631236443,5.876424189307625/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -973,7 +973,7 @@ ever selt an awiul reverence. from Virginia, nor could he at command
 &quot;I sincerely pray to God to grant a long a ual ti taneon o er tir  
 and serene evening to a life so gloriously de lyears ago. He could say, however, that a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667693:1840031201:0921/pct:31.23877917414722,234.3698854337152,181.32854578096948,63.0263353667609/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667693:1840031201:0921/pct:7.813201616524473,58.5924713584288,45.35249214189493,15.756583841690224/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -997,7 +997,7 @@ grant a long and serene evening, to a life so glo­
 riously devoted to the universal happiness of the  
 world. T. EJ4SKINJ3
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016475:00296026402:1840072801:0365/pct:37.6061776061776,76.50319829424308,14.247104247104247,4.633972992181947/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016475:00296026402:1840072801:0365/pct:37.6061776061776,76.51267472162995,14.25997425997426,4.633972992181947/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1023,7 +1023,7 @@ whom I ever felt an awful reverence* I
 &#x27; ted to the universal happiness of the  
 0 world. T. ERSKINE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kershawhogjam_ver03:data:sn85042795:0029586185A:1840081901:0224/pct:17.46122100469617,88.97423432182791,16.564679094919597,7.9727758872143895/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kershawhogjam_ver03:data:sn85042795:0029586185A:1840081901:0224/pct:17.46122100469617,88.98071625344353,16.574166310896068,7.9727758872143895/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1090,7 +1090,7 @@ serene evening to a life so gloriously de­
 voted to the universal huppiness of the  
 world.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040303:00514151313:1840111001:0085/pct:19.002676433300465,26.437020128657398,14.537258768840681,6.422494293421872/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040303:00514151313:1840111001:0085/pct:19.012067427337183,26.437020128657398,14.527867774803964,6.422494293421872/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1123,7 +1123,7 @@ reverence. I sincerely pray God to grant a long
 and serene evening to a life so gloriously devoted  
 to the universal happiness of the world.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016867:00295877637:1840111401:0652/pct:210.69387755102042,164.13058325365387,62.36734693877551,20.379729545144105/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016867:00295877637:1840111401:0652/pct:52.70573820706555,41.03264581341347,15.601388605268532,5.094932386286026/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1192,7 +1192,7 @@ erence. I sincerely pray trod to grant a long and
 serene evening to a life so gloriously devoted to  
 the happiness of the world.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199252:1844100401:0117/pct:79.52105697770438,12.582417582417582,23.080099091659786,6.318681318681318/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199252:1844100401:0117/pct:59.65310757794755,9.436813186813186,17.323972744166838,4.739010989010989/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1252,7 +1252,7 @@ and serene evening to a life gloriomlv devoted |
 to the universal happiness of the world.”— j  
 j“T. ERSKINE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215762:1845080101:0448/pct:22.435048395313295,64.38940488476092,15.486500254712174,5.620915032679738/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215762:1845080101:0448/pct:22.43276283618582,64.38497523390204,15.488318391741375,5.622821500642084/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1286,7 +1286,7 @@ iawful reverence, I sincerely pray to God to
 j riously devoted to tho universal happiness of the  
 1 world. T. Ekski.ve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058217:00271744754:1845080601:0335/pct:36.47512263489839,103.93998878295008,23.808689558514367,8.09029725182277/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058217:00271744754:1845080601:0335/pct:27.36989661818819,77.95849691531127,17.85526546346592,6.071228266965788/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1319,7 +1319,7 @@ sincerely pray God to grant a long and serene evening to a life
 ?o gloriously devoted to the universal happiness ol the world.  
 44T. ERSKINE.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1845080901:0202/pct:48.16420539222327,63.81260096930533,14.767646660344127,5.180398492191707/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1845080901:0202/pct:48.17323759201553,63.81260096930533,14.767646660344127,5.1875785316819245/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1418,7 +1418,7 @@ screne evening to a life so glorious devoted
 o the universal happiness of the world.  
 T, ERSKiNE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn85025180:00212477606:1845083001:0138/pct:320.60461416070007,274.54697518817954,57.995226730310264,28.491775857262336/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn85025180:00212477606:1845083001:0138/pct:80.19900497512438,68.63674379704489,14.507462686567164,7.122943964315584/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1452,7 +1452,7 @@ reverence. I sincerely pray God to grant
 a long and serene evening to a life so glo­  
 riously devoted to the happiness of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82014769:00415661022:1846050601:0486/pct:4.833836858006042,35.792682926829265,18.84441087613293,8.195121951219512/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82014769:00415661022:1846050601:0486/pct:4.833836858006042,35.800813008130085,18.850704934541792,8.191056910569106/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1477,7 +1477,7 @@ grant a Ion r and serene evening to a I;Ie so glo­
 riously devoted to the universal happiness of the  
 world. T- LkSKlNK
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00279550304:1846052101:0087/pct:61.49380043298563,16.903654485049834,14.977366660106279,5.282392026578073/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00279550304:1846052101:0087/pct:61.48774968021254,16.902531393262905,14.979172816425596,5.284255752663167/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1504,7 +1504,7 @@ and serene evening to a life so gloriously
 devoted to the universal happiness of the  
 world. T. Erskine
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182963:1846062501:0253/pct:4.592860008022463,66.45024513051544,14.941837144003209,6.691400556512521/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182963:1846062501:0253/pct:4.591939041507921,66.44144144144144,14.943854020453179,6.693826179120297/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1550,7 +1550,7 @@ reverence. 1 sincerely pray God to grant a long
 Rtitl serene evening to a life so gloriously devoted  
 to the happiness of the world.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn86071753:00414184388:1846102401:0308/pct:82.0558263181214,50.07014136182152,14.872249298478806,4.489047156577102/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn86071753:00414184388:1846102401:0308/pct:82.04370939161252,50.06473888649115,14.874975388856074,4.492159401524961/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1727,7 +1727,7 @@ sincerely pray God to grant yon a long and serene
 evening to a light so gloriously devoted to the uni­  
 versal happiness of the world.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855010401:0182/pct:50.56882821387941,66.22245002562788,15.52901023890785,4.4592516658124035/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855010401:0182/pct:50.56882821387941,66.23099265334017,15.541650865882948,4.4592516658124035/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1825,7 +1825,7 @@ long and serene evening to a life so glori­
 ously devoted to the universal happiness of  
 the world.” &quot;What a volume does the char
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82014751:00513688246:1855082201:0113/pct:44.55066921606119,37.911595131326074,13.888406049017904,5.483664317745035/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82014751:00513688246:1855082201:0113/pct:44.56225737296483,37.911595131326074,13.882611970566082,5.48793508434764/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1869,7 +1869,7 @@ awful reverence. I sincerely pray to God to
 graut a long and serene evening to a life so glo­  
 riously devoted to the happiness of the world
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_belmont_ver02:data:sn82014511:no_reel:1859081701:0002/pct:23.262720253415164,33.14993122420908,9.998020194020986,3.591624637016659/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_belmont_ver02:data:sn82014511:no_reel:1859081701:0002/pct:23.2676697683627,33.16139385602934,10.007919223916057,3.587803759743237/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1892,7 +1892,7 @@ awful reverence. 1 pray God to grant u long
 und serene evening to u life so gloriously devot  
 ed to the universal happiness of the world.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn85025202:00279557293:1863022801:0661/pct:32.43193860771058,65.96920647453612,14.14215238443267,4.171601526516647/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn85025202:00279557293:1863022801:0661/pct:32.43650648638772,65.97907619423609,14.155856020464096,4.16502171338334/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1917,7 +1917,7 @@ to grant a long and serene evening to a
 life so gloriously devoted to the universal  
 happiness of the world.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014487:00279557244:1863041101:0266/pct:68.22936122525215,30.268566730611127,11.804258498319014,5.42614414908194/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014487:00279557244:1863041101:0266/pct:68.2340306313037,30.278843518772266,11.799589092267464,5.4227185530282265/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1941,7 +1941,7 @@ j a long and serene evening to a life so glorious­
 ly devoted to the universal happiness of the I  
 world.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn86058108:00279557360:1863041101:0278/pct:69.918375472825,70.29956345024839,13.577543300816245,5.991269004967635/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn86058108:00279557360:1863041101:0278/pct:69.9283296834561,70.29956345024839,13.572566195500697,5.995032364895379/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2029,7 +2029,7 @@ gloriously devoted to tho universal
 Happiness of tho world.  
 “T. Esskine.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016093:1878032801:0244/pct:30.135858377933307,50.31622297396676,12.494853849320709,7.324606559788204/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016093:1878032801:0244/pct:30.12965630788228,50.30882352941177,12.497427454208685,7.327205882352941/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2053,7 +2053,7 @@ sincerely prftr God to grant a lung and serene
 evening to a life so gloriously devoted to the  
 universal happiness of thu world.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pulaski_ver01:data:sn84031492:no_reel:1879032401:0010/pct:86.29308076821889,68.70090634441088,12.917653249144962,4.169184290030212/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pulaski_ver01:data:sn84031492:no_reel:1879032401:0010/pct:86.29308076821889,68.70090634441088,12.957116548276769,4.18932527693857/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2081,7 +2081,7 @@ serene evening to a lue so gloriously
 devoted to the universal happiness of  
 the world.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_allemande_ver01:data:sn85025570:00199919945:1879040301:0057/pct:70.91166077738517,88.36822864739116,12.014134275618375,6.214689265536723/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_allemande_ver01:data:sn85025570:00199919945:1879040301:0057/pct:62.05219112008905,77.32794830371567,10.516551923156202,5.434571890145396/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2116,7 +2116,7 @@ pray God to grant a long and serene
 evening to a lib&#x27; so gloriously devoted to  
 the universal happiness of the world.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_duwamish_ver01:data:sn87093109:00200290999:1879060501:0171/pct:59.2374616171955,27.68400904819906,17.349027635619244,7.673568818514007/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_duwamish_ver01:data:sn87093109:00200290999:1879060501:0171/pct:59.2374616171955,27.68400904819906,17.381013306038895,7.682269009918218/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2182,7 +2182,7 @@ God to grant a long and setene evening
 to a life so gloriously devoted to the uni­  
 versal happiness of tee world.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn90050009:00393342936:1885052301:0213/pct:37.37541528239203,65.76512455516014,14.721760797342192,4.854092526690391/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn90050009:00393342936:1885052301:0213/pct:37.367656217562796,65.75576430401367,14.72389454017023,4.856959863364645/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2202,7 +2202,7 @@ felt an awful reverence.&quot;
 In 1760 Frederick the Great, King  
 of 1&#x27;russia, eent Washington bis por
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn86053634:0021247776A:1888022201:0134/pct:77.5589330024814,72.79809021233824,13.740694789081886,3.3169996230682246/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn86053634:0021247776A:1888022201:0134/pct:58.20015515903801,54.604849855509485,10.318076027928626,2.4877497173011687/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2270,7 +2270,7 @@ pray God to grant you a long nml serene
 evening to a life so gloriously devoted  
 to thounivcrsal happiness of the world.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_azure_ver01:data:sn82015415:00237284148:1894022301:0185/pct:34.992283950617285,38.66018532583929,14.641203703703704,6.273735379006532/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_azure_ver01:data:sn82015415:00237284148:1894022301:0185/pct:26.258923403434306,28.998936655020508,10.978197954852401,4.709099194895944/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2296,7 +2296,7 @@ vou a long and serene evening to a
 life so gloriously devoted to the uni­  
 versal happiness of the world.&quot; Sai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_caliban_ver02:data:sn85047084:00202195738:1894022301:0373/pct:6.336853807670928,97.10702002832288,18.760422456920512,7.900060691887518/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_caliban_ver02:data:sn85047084:00202195738:1894022301:0373/pct:4.753300903405142,72.83026502124216,14.07922168172342,5.927574347562209/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2322,7 +2322,7 @@ you a long and serene evening to a
 life so gloriously devoted to the universal  
 happiness of the world.&quot; Sai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_cardinal_ver01:data:sn83025121:00211108988:1894022301:0109/pct:106.01851851851852,99.92498124531133,18.937389770723104,8.08702175543886/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_cardinal_ver01:data:sn83025121:00211108988:1894022301:0109/pct:79.53693495038588,74.94373593398349,14.200661521499448,6.0765191297824455/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2419,7 +2419,7 @@ sincerely pray God to grant a long and
 serene evening to a life so gloriously de­  
 voted to the universal happiness of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_jackrabbit_ver02:data:sn84036012:00294550264:1898022001:0924/pct:210.5935251798561,255.9278350515464,38.63309352517986,9.579037800687285/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_jackrabbit_ver02:data:sn84036012:00294550264:1898022001:0924/pct:70.1978417266187,85.30927835051547,12.877697841726619,3.1930126002290953/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2441,7 +2441,7 @@ grant a long and serene evening to a
 life so gloriously devoted to the uni­  
 versal happiness of the wold.”—Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00542865969:1898051201:0193/pct:50.97140362366296,31.976401179941004,14.05806592447064,4.985250737463127/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00542865969:1898051201:0193/pct:50.96027935399389,31.97168559209556,14.06045395024007,4.988202330039817/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

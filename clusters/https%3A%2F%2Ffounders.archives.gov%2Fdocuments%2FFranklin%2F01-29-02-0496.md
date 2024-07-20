@@ -334,7 +334,7 @@ care not lo mend the holes, they will come in
 time to be lace; and1 feathers, my dear girl, may  
 be had1 in America from every cock&#x27;s Jail.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn86053954:0023728236A:1846011501:0416/pct:106.28070175438596,41.853300154046686,23.859649122807017,4.9531935063396135/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn86053954:0023728236A:1846011501:0416/pct:79.74727974727975,31.389975115535016,17.9010179010179,3.720820002369949/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -353,7 +353,7 @@ they will come in time to be lace; and feathers,
 my dear girl may be had in America from  
 ry cock&#x27;s tail.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn85054702:00280776014:1846011701:0155/pct:253.84052670080467,356.79618459812036,56.40087783467447,12.792818067050078/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn85054702:00280776014:1846011701:0155/pct:63.494967978042084,89.19904614953009,14.107959743824336,3.1982045167625195/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -384,7 +384,7 @@ Committee, the delegates of the democracy of
 the State, met in convention, in the city of Co­  
 lumbus, on this, the morning of the 8th of Janu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn84028793:00296026669:1846012101:0404/pct:5.225330225330225,20.278132538668938,40.598290598290596,107.47835958563928/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn84028793:00296026669:1846012101:0404/pct:3.926141885325559,15.212147012913297,30.476190476190474,80.61586490705265/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -414,7 +414,7 @@ girl, may be had in America from every chicken
 tail,&quot;  
 Why don&#x27;t people stay on this side of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82014769:00415661010:1846091001:0112/pct:60.75019334880124,89.10014324781872,17.942768754833722,4.323479619742154/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82014769:00415661010:1846091001:0112/pct:60.75019334880124,89.10448409081043,17.94921371487497,4.332161305725572/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -452,7 +452,7 @@ on the Ist of January, 1848, at Houquang,
 during the prevalence of an inundation, The  
 New York Tribune translates some portion
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153280:1851042301:0445/pct:19.08713692946058,5.749486652977413,25.648340248962654,91.61190965092402/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153280:1851042301:0445/pct:19.091459197787,5.756331279945243,25.648340248962654,91.61190965092402/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -721,7 +721,7 @@ not to mend the holes, they will come in time
 to be lace; and feathers! my dear girl, may  
 be had in America from every cock&#x27;s tail.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776038:1855072101:0056/pct:216.4057181756297,75.50047664442326,47.85568413886998,93.96704344273458/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776038:1855072101:0056/pct:54.11063829787234,18.875119161105815,11.965957446808511,23.491760860683645/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -783,7 +783,7 @@ to mend the holes, they will come in time to lace ;
 and feathers, my dear girl, may be had in America  
 from every turkey&#x27;s tail.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022640:1857051301:0289/pct:47.476387249114524,100.10149994361115,20.026564344746163,8.97710612382993/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022640:1857051301:0289/pct:35.62149394744612,75.07612495770836,15.02804842043106,6.732829592872449/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -899,7 +899,7 @@ care not to mend t he holes, they will come in
 time to lace : and feathers, my dear girl, may  
 be had in America from every turkey&#x27;s tail.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn85054616:00212477783:1857062501:0010/pct:7.884748102139406,49.536371947237825,19.185645272601793,3.904923599320883/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn85054616:00212477783:1857062501:0010/pct:5.919917155678288,37.155543946715426,14.394200897480152,2.9254277132036046/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -947,7 +947,7 @@ eathers, my dear girl, may be had in Amer-
   
 ica from every turkey&#x27;s tail.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn84027096:00279529479:1857111401:0117/pct:20.056541542327626,134.88692457811962,33.39092194125962,14.062679370910343/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn84027096:00279529479:1857111401:0117/pct:6.685513847442542,44.96230819270654,11.130307313753207,4.687559790303448/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -963,7 +963,7 @@ ica from every turkey&#x27;s tail.&quot;
 istic note--&quot;If you wear your cambric ruf-­  
 fles as I do, and take care not to mend the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn84027096:00279529479:1857111401:0117/pct:19.91518768650856,142.92274136149695,32.80980053400346,2.3877855584892664/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn84027096:00279529479:1857111401:0117/pct:6.638395895502853,47.64091378716565,10.936600178001152,0.7959285194964222/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1077,7 +1077,7 @@ conrcin time to be lace; and feathers, my dear girl,
 may be had in America from every cock&#x27;s tail.&quot;  
 Sal Icy duly repented in a September Peccavi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026359:1859082301:0187/pct:74.0698825859386,51.73717555691805,10.991653699250248,5.9370529327610875/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026359:1859082301:0187/pct:74.07459801009101,51.73717555691805,11.001084547555052,5.94045915934328/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1110,7 +1110,7 @@ ace; and feathers, my dear girl, may be had
 in America from every cock&#x27;s tail.  
 Sally duly repented in a September peceamr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290070:1859090601:0227/pct:57.43016759776536,327.53590914152096,34.86033519553072,24.362543146642913/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290070:1859090601:0227/pct:14.36155350656608,81.88397728538024,8.717518860016764,6.090635786660728/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1289,7 +1289,7 @@ If you wear your cambric ruflles as I do, and
   
  take care not to mend the holes, they will
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296242:1864081901:0556/pct:114.543339150669,247.22364249923305,256.83536940081444,11.371305859494836/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296242:1864081901:0556/pct:28.648334060817692,61.80591062480826,64.2368689073185,2.842826464873709/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1346,7 +1346,7 @@ the holes, they will come in time to be
 lace; and feathers, my&#x27; dear girl, may be  
 bad in America from every Cock&#x27;s tail.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038244:00280775939:1864083001:0174/pct:81.11181301326594,59.07637655417407,14.466203411244473,26.891651865008882/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038244:00280775939:1864083001:0174/pct:60.86269552851952,44.31024274718769,10.854795386316953,20.165778567199528/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1416,7 +1416,7 @@ f you wear your cambric ruhles ns I
 lo, and take care not to mend tho  
 iole, they will come in time to be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_flint_ver01:data:sn97063063:00296024314:1864091401:0165/pct:125.53413236060449,102.6634382566586,17.131318394997393,33.75706214689266/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_flint_ver01:data:sn97063063:00296024314:1864091401:0165/pct:83.70032573289902,68.44229217110573,11.42671009771987,22.50807102502018/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1450,7 +1450,7 @@ come in time to be lace; and feathers, my
 dear girl, may be had In America from every  
 cock’s tail.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:0027952519A:1864100601:0052/pct:38.409725644816824,80.67681469367216,11.302776408739938,8.21486979494276/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:0027952519A:1864100601:0052/pct:38.40341655716163,80.66666666666667,11.305026281208935,8.216981132075471/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1508,7 +1508,7 @@ in time to be laoe; and feathers, my dear
 girl, may be had in America from every  
 cock&#x27;s tail.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347324:1864101401:0389/pct:75.12526264748666,70.14836795252225,13.496040084047197,23.12166172106825/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347324:1864101401:0389/pct:75.1360379289909,70.15232443125618,13.490652443295081,23.12166172106825/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1565,7 +1565,7 @@ in time to be lace ; and feathers, my dear
 girl, may be had in America from every  
 cock’s tail.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347324:1864101401:0390/pct:76.07887506061095,69.6379821958457,13.43138839502182,23.12166172106825/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347324:1864101401:0390/pct:76.07887506061095,69.64589515331355,13.442163676526048,23.125618199802176/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1612,7 +1612,7 @@ lace; and feathers, my dear girl, may
 be had in America from every cock&#x27;s  
 tall.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn84022367:0041562833A:1864102001:1128/pct:42.33076263924593,22.51693815770506,18.980291345329906,16.07323050309932/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn84022367:0041562833A:1864102001:1128/pct:31.76168024003429,16.8949113449618,14.252036005143593,12.05131901398299/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1801,7 +1801,7 @@ tail.
 Don’t Dance.  
 A plain unlettered man from th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn86086769:00271769799:1868031101:0314/pct:57.463600489862564,45.523101433882104,12.967750714382909,28.603292618162506/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn86086769:00271769799:1868031101:0314/pct:54.59990520101694,43.253060675366605,12.315249709139485,27.172743172339565/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2341,7 +2341,7 @@ black pins and laces and feathers dis­
 trusted me,&quot; he says, &quot;as much as if  
 you had put salt into my strawberries.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_antares_ver03:data:sn90059959:00271742800:1888041401:0155/pct:64.95699765441752,80.76630020681398,13.995308835027366,3.0804397518232283/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_antares_ver03:data:sn90059959:00271742800:1888041401:0155/pct:64.96221005994266,80.76992852218714,13.995308835027366,3.0768114364500563/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2406,7 +2406,7 @@ to be lace and feathers, my &#x27;dear girl,
 may be had in America from every  
 cock&#x27;s tail.&quot; Franklin was excessivel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_antares_ver03:data:sn90059959:00271742800:1888041401:0155/pct:64.76935105551212,2.7538913682377273,32.7130570758405,92.15195384782845/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_antares_ver03:data:sn90059959:00271742800:1888041401:0155/pct:64.77456346103727,2.7611479989840717,32.7234818868908,92.15195384782845/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2561,7 +2561,7 @@ finish his eduoatlon at Geneva,&quot; as &quot;I in
 tend him for a Presbyterian as well as a  
 republican.&quot; Here the boy remained four
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_fleming_ver01:data:sn84020630:0041562900A:1899012701:0094/pct:59.66828478964401,83.7055417700579,16.20145631067961,2.881169010201268/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_fleming_ver01:data:sn84020630:0041562900A:1899012701:0094/pct:44.77944152165115,62.779156327543426,12.161068393363012,2.1643231320650678/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

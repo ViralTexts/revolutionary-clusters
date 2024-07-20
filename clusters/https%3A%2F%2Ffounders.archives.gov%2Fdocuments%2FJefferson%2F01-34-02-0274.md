@@ -43,7 +43,7 @@ b ther perfons obnoxious to the laws, or
 &#x27;, removed.  
 r 5. Resolved, ) hat it is the opinion o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801011601:0004/pct:71.62703084530257,29.104145000742832,21.49752766658818,6.908334571386124/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801011601:0004/pct:71.64272820029825,29.104145000742832,21.49752766658818,6.923191204872976/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -63,7 +63,7 @@ by purchase, lands without the limit of this State,
 “to which persons obnoxious to the laws, or dan  
 gernus to the peace of society, may he removed.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184339:1831121301:0408/pct:35.330396475770925,67.63907734056988,15.40381791483113,2.8946178199909545/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184339:1831121301:0408/pct:35.3252092203788,67.63143018654607,15.406450349924143,2.8980591671377427/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -83,7 +83,7 @@ lands, without the limits ol&#x27; this Slate, ‘&quot;(o&#x27; which perrons
 obnoxious to (lie laws, or dangerous to tin- peace of society,  
 mav be removed,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184054:1831121301:0260/pct:79.5600111389585,66.0995803561302,15.093288777499303,2.5859135760462744/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184054:1831121301:0260/pct:79.54893498538215,66.09208437287367,15.095828112673441,2.589400468738187/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -529,7 +529,7 @@ bv purchase lands without the limit of this State to
 which iki&#x27;-ous obnoxious to the laws, or dangerous to  
 the peace of society, may be removed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851052701:0253/pct:1.5648510382184773,25.202546296296298,15.618417092988263,3.1635802469135803/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851052701:0253/pct:1.5648510382184773,25.20576131687243,15.623432641187682,3.1667952674897117/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -554,7 +554,7 @@ between them. In 1801, Monroe com munieated this cor­
 respondence, with a message, to the Legislature asking  
 fern full description of persons to be transported, or o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348409:1852032601:0281/pct:19.03213465952563,15.655039824224115,14.804896710022954,4.4630595990112605/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348409:1852032601:0281/pct:19.02849493210939,15.652890292461898,14.806846433352458,4.465879445283537/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -581,7 +581,7 @@ respondence, with a message, to the Leg­
 islature, asking for a full description of per  
 sons to be transported, or of the place t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1852040101:0427/pct:155.5513090005733,131.83607991833162,45.958341295623924,27.140148753099023/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1852040101:0427/pct:38.88039740160489,32.95421405657626,11.487390141383264,6.784047827354914/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -672,7 +672,7 @@ purchase of lands outside of the State,
 or dangerous to the peace of society, may  
 be removed.&quot; It will be seen that the word
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775629:1862112501:0301/pct:21.0139603232917,92.85922471582629,44.23218221895665,8.394054211600116/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775629:1862112501:0301/pct:5.253490080822925,23.21480617895657,11.058045554739163,2.098513552900029/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

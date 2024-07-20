@@ -136,7 +136,7 @@ theJlandard oi Common Sense.&quot;
   
 Sacred to the memory of thi lat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791051401:0003/pct:61.73065204143815,56.3809880239521,26.72151127361365,5.370508982035928/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791051401:0003/pct:61.75350396099939,56.3809880239521,26.706276660572822,5.393899700598802/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -275,7 +275,7 @@ own ! I f creditors and purckafe, j
 own the largest portions of the debt (and leveral  
 such there are) would not remain long boun
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792092901:0002/pct:14.950495049504951,4.707255397782532,36.336633663366335,90.58548920443494/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792092901:0002/pct:14.966996699669966,4.7121182649290025,36.336633663366335,90.6049406730208/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -445,7 +445,7 @@ c.ent complexion be imagined, that mav at
 &#x27;■east have operated to »;ve , n ■  
 otic zeal! Jt&#x27;tulms to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792092901:0002/pct:27.22772277227723,3.3067496595992996,64.88448844884489,93.42540361797316/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792092901:0002/pct:27.244224422442244,3.3067496595992996,64.9009900990099,93.43999221941256/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -466,7 +466,7 @@ Tory cf Rome ; such at least was the common
 cant of&quot;political harangues; the inlidious tale  
 of&quot; hypocritical demagogues.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792092901:0002/pct:74.38943894389439,51.00175063217273,19.735973597359735,3.9680995915191595/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792092901:0002/pct:74.41419141914191,51.00175063217273,19.72772277227723,3.977825325812099/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -486,7 +486,7 @@ publican. He shall not now, for the firft time, be
 &#x27; regarded as the intriguing incendiary—theafpiring  
 turbulent competitor, unless fa£ts (hall warrant th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796101901:0003/pct:27.52403846153846,44.57310483248418,20.072115384615383,3.798054654932839/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796101901:0003/pct:27.542067307692307,44.58468426740775,20.072115384615383,3.809634089856415/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -509,7 +509,7 @@ proffered diadem, is found to be Csefar rejeSinf the
 r trappings, &quot; but tenaciously grafptng the substance  
 of imperial domination.&quot; PHOCJON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796101901:0003/pct:27.52403846153846,57.95893160413772,20.120192307692307,5.743399722093562/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796101901:0003/pct:27.542067307692307,57.97051103906129,20.126201923076923,5.743399722093562/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -612,7 +612,7 @@ cious ambtian ; the vicious and the fanatical of eve- tl
 ry class, who are ever found the willing or the delttd- tl  
 .— f
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796110301:0002/pct:10.880440220110055,5.728185812931575,42.19609804902451,86.15819209039547/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796110301:0002/pct:10.8991995997999,5.728185812931575,42.18984492246123,86.17388575015694/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -647,7 +647,7 @@ e narchy—in national disgrace and humiliation ?
 e&quot; FOREIGN INTELLIGENCE, i  
 .J IV THE LATE ARRIVALS. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796110301:0002/pct:31.51575787893947,5.3829252981795355,42.64632316158079,86.86440677966101/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796110301:0002/pct:31.52201100550275,5.394695543000628,42.658829414707355,86.85655994978029/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -713,7 +713,7 @@ bave oo doubt our citizens will rally a sec­
 ond time, around the standard of common  
 sense.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1827082101:0342/pct:38.656338447787874,33.60680340170085,15.924325934753464,6.373186593296649/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1827082101:0342/pct:38.66130393763345,33.60680340170085,15.924325934753464,6.379856594964148/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

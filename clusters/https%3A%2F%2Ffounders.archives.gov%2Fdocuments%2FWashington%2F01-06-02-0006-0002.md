@@ -95,7 +95,7 @@ City, that the second
 LADIES&#x27; CONCERT  
 Will be on TUESDAY NEXT, the 3d of Januar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796123001:0003/pct:68.30655129789864,11.505567209940294,19.283065512978986,3.3564628045828626/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796123001:0003/pct:68.32509270704574,11.513635630143618,19.30160692212608,3.3524285944812005/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -112,7 +112,7 @@ Will be on TUESDAY NEXT, the 3d of Januar
 half past eight, the music will attend for the Ball.  
 Mrs. Grattan bigs leave to inform the Ladies an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796123001:0003/pct:68.20766378244747,21.10698725189608,19.35723114956737,1.7105050831047282/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796123001:0003/pct:68.20766378244747,21.119089882201067,19.38813349814586,1.698402452799742/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -144,7 +144,7 @@ Grand Chorum Pirate, Storage
 *4_* The Concert to bepin at h-alf part fix ;; and at  
 lialf past eight, the music w ill attend for the Ball
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797011601:0002/pct:13.498145859085291,73.99743342957973,19.72805933250927,11.421238370227783/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797011601:0002/pct:13.516687268232385,74.0054539621431,19.740420271940668,11.421238370227783/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -177,7 +177,7 @@ Quartett, Pleyel.
 halt patt eight, the music will attend for the Ball.  
 Mrs. Grattan brgs leave to inform the Ladies an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797011701:0002/pct:12.189727205701647,66.0563604521573,19.341361513885477,11.606432096799873/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797011701:0002/pct:12.189727205701647,66.06034071007801,19.365937576800196,11.622353128482725/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -199,7 +199,7 @@ only, at the Bar of Mr. Qellers&#x27;s Hotel.
 *4-* The Concert to begin at half past fix ; and at  
 half past eight, the music will attend for the Ball. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797012801:0003/pct:27.52003886324994,87.90155026370465,19.747388875394705,4.506952213520857/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797012801:0003/pct:27.538256011658977,87.90954131372862,19.741316492591693,4.510947738532844/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -218,7 +218,7 @@ City, that the third
 LADIES&#x27; CONCERT  
 Will be on Tuesday next, at the Aflembly Room
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797013001:0002/pct:14.760508308895405,59.900831733845166,19.428152492668623,3.2789507357645555/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797013001:0002/pct:14.778836754643207,59.904830454254636,19.428152492668623,3.2869481765834934/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -240,7 +240,7 @@ enly, at the Bar of Mr. Oellers&#x27;s Hotel.
 *4-* The Concert to. begin at half past fix ; and at  
 half past eight, the music will attend for the Ball
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797013001:0002/pct:14.833822091886608,74.5361484325016,19.30596285434995,4.5585412667946255/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797013001:0002/pct:14.833822091886608,74.54814459373,19.312072336265885,4.550543825975688/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -259,7 +259,7 @@ City, that the third
 LADIES&#x27; CONCERT  
 Will be on Tuesday next, at the Aflembly Room
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797013101:0001/pct:47.83366533864542,73.23989044627034,19.57171314741036,3.3027227323989043/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797013101:0001/pct:47.8523406374502,73.23989044627034,19.55926294820717,3.3107781536974383/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -325,7 +325,7 @@ of the &quot; Life and Correspondence of James Iredell,
 one of the Associate Justices of the Supreme Court  
 of the United States ; by Griffith J. McRee.&quot; W
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022640:1858041401:0480/pct:64.03314917127072,86.84295736643281,18.867403314917127,3.8640043173232597/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022640:1858041401:0480/pct:48.04476993229239,65.13761467889908,14.163327345585188,2.8926065839179707/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

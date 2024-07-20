@@ -432,7 +432,7 @@ pose any. taxation whatever upon them,.
 other than the laws, or ordinances of their­  
 general assembly
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802070801:0208/pct:30.111524163568774,39.90410711054822,22.401810247292712,28.731680839515107/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802070801:0208/pct:30.106658047834518,39.90049751243781,22.40357681534152,28.732097090306045/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -565,7 +565,7 @@ power in any other oei son or persons wii tfso­
 e&gt;ei,other than t!ie general assembly afore­  
 said, has a manifest tendency&#x27; to destroy Bri
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:0041418392A:1817111801:0199/pct:34.462999345121155,36.4172281039461,14.652914210870989,6.869586140519731/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:0041418392A:1817111801:0199/pct:34.457357996398756,36.412847347527965,14.655972063076335,6.872769557720839/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -627,7 +627,7 @@ whatsoever, ether than the general
 assembly aforesaid, has a manifest  
 tendency to destroy British as well a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216237:1817112201:0181/pct:3.377483443708609,5.046055266319583,33.37748344370861,91.08263249232412/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216237:1817112201:0181/pct:3.3767380269256235,5.045381740523225,33.37747369969838,91.07492436376579/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -784,7 +784,7 @@ Assembly aforesaid, has a manifest tendency, to
 destroy British as well as American freedom.,’  
 It seems that after the passage of these reso
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215609:1836011201:0264/pct:10.909884355225834,72.72998137802607,17.313986471743398,5.281191806331472/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215609:1836011201:0264/pct:10.908694229300753,72.72456427826604,17.31573397331006,5.283281195689955/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -850,7 +850,7 @@ nmy indemnify and eave harmless,
 all said officers on aecount of their con­  
 duct agreeable to this resolution 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1837091301:0722/pct:1.6100495399858457,60.394126738794434,14.631988676574665,34.15765069551777/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1837091301:0722/pct:1.6159471573484312,60.40271337798386,14.631988676574665,34.15765069551777/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -909,7 +909,7 @@ bly aforesaid, has a manifest tendency to destroy
 British as well as American freedom.  
 On the back of the paper contaming thes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015209:1842062101:0302/pct:67.53926701570681,63.7877534133223,14.958863126402393,8.316094331816302/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015209:1842062101:0302/pct:67.53926701570681,63.7877534133223,14.958863126402393,8.322989932423114/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -932,7 +932,7 @@ and power to lay taxes and impositions upon the
 inhabitants ol this colony.&quot; The Legislatures  
 of several other colonies&#x27; lolloweJ the lead o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664291:1846090801:0104/pct:58.74074074074074,48.50881372081944,13.451851851851853,3.620771796093378/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664291:1846090801:0104/pct:58.74074074074074,48.515165952040654,13.461728395061728,3.6175956804827694/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -965,7 +965,7 @@ ever, other than the General Assembly aforesaid, has a mani- &#x27;
 fest tendency to destroy British as well a* American freedom.&quot;  
 On the back of these resolutions, Mr. Wirt tells us, thei
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1847090401:0651/pct:33.80818053596615,88.02984062394032,15.853314527503526,4.905617723522098/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1847090401:0651/pct:33.81288199341796,88.03737613503635,15.862717442407146,4.905617723522098/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1034,7 +1034,7 @@ therefore of this colony have the sole and
 exclusive right to lay taxes and imposts  
 upon the inhabitants thereof
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021532:00340588009:1851102301:0050/pct:8.444267832306775,62.829961141632054,17.405126167295847,14.846576443789361/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021532:00340588009:1851102301:0050/pct:8.450890787469369,62.83889409978114,17.424995032783627,14.855509401938452/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1079,7 +1079,7 @@ whatsoever upon them, other than the laws
 1 and ordinances of the General Assembly afore&gt;  
 said
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1854091401:0156/pct:23.948140900195696,4.807963189031834,25.954011741682976,91.84899990609446/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1854091401:0156/pct:23.95221787345075,4.811093373399693,25.95808871493803,91.85526027483019/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1161,7 +1161,7 @@ ever, other than the General Assembly
 aforesaid, has a manifest tendency to de­  
 stroy Hritish and American freedom.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_forego_ver01:data:sn84024670:00280762374:1872011901:0076/pct:3.78817929393098,24.80791962174941,12.673542245140817,3.50177304964539/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_forego_ver01:data:sn84024670:00280762374:1872011901:0076/pct:3.793137643792146,24.8153073286052,12.678500595001983,3.505466903073286/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1513,7 +1513,7 @@ others boforO named were opposed to
 this fifth resolution but were not par­  
 ticularly excited over it not doubting
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_batman_ver01:data:sn86069675:00206533420:1892081601:0469/pct:29.712460063897762,29.194541075729195,19.44888178913738,13.018464008563019/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_batman_ver01:data:sn86069675:00206533420:1892081601:0469/pct:22.293248102277268,21.9025956649719,14.60247702756692,9.763848006422263/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1729,7 +1729,7 @@ boldness of the attack on Parliament,
 and opposed the radical resolutions with  
 all the force of their logic, but the young 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_joshuaTree_ver01:data:sn85066387:00175037895:1899102701:0427/pct:71.17610259618392,63.53387783273899,13.340631842352206,7.477280570574025/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_joshuaTree_ver01:data:sn85066387:00175037895:1899102701:0427/pct:71.18131581691169,63.53387783273899,13.34584506307997,7.48111507343073/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

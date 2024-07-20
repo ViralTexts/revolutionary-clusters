@@ -133,7 +133,7 @@ ved commissions from the iesident of
 Congress, and 1 have understood that  
 the decision of the War Office, whic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152755:1840013001:0810/pct:81.90489549726469,47.753530166880616,12.610464300743443,9.927257167308515/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152755:1840013001:0810/pct:81.9095712348623,47.76066181714449,12.615140038341048,9.920125517044644/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -279,7 +279,7 @@ m you shall deem wsufficient ;
 &#x27; ability you are to resist, expel  
 r in order to preserv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_efreeti_ver01:data:sn91070630:00514152883:1896031201:0933/pct:0.8632502055357633,87.24726200505476,13.688681830638531,4.970513900589722/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_efreeti_ver01:data:sn91070630:00514152883:1896031201:0933/pct:0.8632502055357633,87.24726200505476,13.702384214853385,4.977534400449312/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

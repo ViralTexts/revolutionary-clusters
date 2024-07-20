@@ -228,7 +228,7 @@ that if the above bounden obligors, their heirs,
 xecutors, administrators, or any of them, shall  
 and do well and truly pay, or cause to be paid
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deltaair_ver01:data:sn86053572:00237289018:1872040801:0351/pct:207.08215297450425,197.44084136722174,43.7204910292729,12.480280455740578/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deltaair_ver01:data:sn86053572:00237289018:1872040801:0351/pct:51.77053824362606,49.360210341805434,10.930122757318225,3.1200701139351446/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

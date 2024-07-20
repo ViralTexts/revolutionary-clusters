@@ -110,7 +110,7 @@ Committee, assurances of my respectful consi­
 deration, and of my best wishes.  
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826070601:0539/pct:43.453855043751034,8.591254543451923,17.781079742446757,25.134926754047804/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826070601:0539/pct:43.44668207329151,8.590308370044053,17.783646968196326,25.13582966226138/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -173,7 +173,7 @@ and tlie Committee assurances of my
 &quot;■Wishes.  
 &quot; JAMESMADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn84024505:00542866962:1826070701:0523/pct:4.136048708796976,56.954361999379074,13.730841906361537,24.666252716547657/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn84024505:00542866962:1826070701:0523/pct:4.135180520570949,56.94552227223343,13.73320738874895,24.666304516529568/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -229,7 +229,7 @@ Committee, assurances of tny respectful considera­
 tion, and of my best wishes.  
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826070701:0072/pct:7.480006272541948,6.146318176393365,28.461659087345147,90.02267573696145/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826070701:0072/pct:7.4788334901222955,6.145584725536993,28.462422912093654,90.01591089896579/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -386,7 +386,7 @@ irtitlee, assurances ot my respectful consideration, and
 bf nly best wishes.  
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826071101:0167/pct:39.913751796837566,31.435643564356436,18.144066443060215,18.87081565299387/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826071101:0167/pct:39.90737783455765,31.43193871538008,18.146492068561695,18.872520133569044/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

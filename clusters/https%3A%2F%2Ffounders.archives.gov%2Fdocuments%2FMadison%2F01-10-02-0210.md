@@ -90,7 +90,7 @@ lie Ottoman i epen lencies. It may bz
 aid that if ek&amp;i, us r to be attended  
 A&#x27;ith these difo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792092601:0001/pct:70.99782405968294,55.25238744884038,21.230960522225676,15.474566361333073/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792092601:0001/pct:71.00559527510103,55.267004482557006,21.25427416847995,15.469694016760865/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -146,7 +146,7 @@ moll f curity for the prcferv .tion of a due
 degree of liberty.&quot;  
 [To ll continued.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792092601:0002/pct:6.931924152937519,4.980392156862745,21.541809138949333,34.1764705882353/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792092601:0002/pct:6.93969536835561,4.980392156862745,21.557351569785514,34.181372549019606/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -162,7 +162,7 @@ degree of liberty.&quot;
 An incapacity to be elcCted a fecond time would  
 have been the only effectual preventative.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016081:00332895060:1804072301:0157/pct:26.236359414905966,64.10810810810811,22.869746923612723,1.3783783783783783/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016081:00332895060:1804072301:0157/pct:26.230269266480967,64.099446020808,22.87024141132776,1.3815700581002568/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -191,7 +191,7 @@ I office of prefident i—and is he then honeit iu
 , truth and hone fly greatly di/like that feature of  
 ithe conliitution which allowed the fam
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016081:00332895060:1804072301:0157/pct:25.864871140004645,65.47297297297297,23.33410726723938,10.445945945945946/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016081:00332895060:1804072301:0157/pct:25.85886722376973,65.46412646939602,23.334493964716806,10.447912444264288/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -217,7 +217,7 @@ tive. The power of removing him every fourth
 year by the votes of the people, is a power which will  
 not be exercised”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804110801:0202/pct:4.049522826928037,22.832604116026577,22.156306422491618,7.113919948144547/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804110801:0202/pct:4.048478597215059,22.828904731043423,22.157039711191334,7.1168178872326635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -246,7 +246,7 @@ The power of removing him every fourth year
 by the votes of the people, is a power whiyli  
 will not be excrcifcd 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016081:00332895060:1804111901:0223/pct:72.69172278948511,73.45179684391991,22.094286334998912,10.502585863943773/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016081:00332895060:1804111901:0223/pct:72.67593397046046,73.44205780959958,22.094917463075586,10.504508088040307/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -327,7 +327,7 @@ observed, it become of so much consequence to rertain
 initio!)# to have a friend c?r a foe at the head of our affairs  
 that they will interfere with tuoncy and arms.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851021801:0039/pct:37.13947640881526,3.405266283904177,31.223191835527288,91.45713720055434/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851021801:0039/pct:37.14440664595967,3.4118656371675575,31.228122072671695,91.45383752392266/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -371,7 +371,7 @@ that
 &quot;the people are entitled to against ev  
 ery &quot;government on earth.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_flint_ver01:data:sn97063063:00296024314:1866081601:0536/pct:60.14622883530016,114.46471531676022,15.55926115956901,1.6339214113873295/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_flint_ver01:data:sn97063063:00296024314:1866081601:0536/pct:40.11292185294495,76.31315156375301,10.381111253689209,1.0926222935044105/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

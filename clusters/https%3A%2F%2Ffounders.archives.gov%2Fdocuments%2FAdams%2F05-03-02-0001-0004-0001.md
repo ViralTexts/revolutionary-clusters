@@ -789,7 +789,7 @@ of the street where they had been stand­
 ing. gave three cheers, and passed along  
 the front of the soldiers, whose musket
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040305:00514151350:1854092901:0769/pct:14.499929268637715,90.89113257243196,11.260432875937191,3.424056189640035/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040305:00514151350:1854092901:0769/pct:14.504644692790116,90.89113257243196,11.269863724241995,3.4386889083991807/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -808,7 +808,7 @@ of the street where they had been standing,
 gave three cheers, and passed along the front  
 of the soldiers, whose muskets some of the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn84020104:0041566154A:1854100301:0333/pct:57.42929225866419,7.7247783875052765,13.145664586376311,2.691008864499789/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn84020104:0041566154A:1854100301:0333/pct:57.438144558048954,7.731813704798086,13.14123843668393,2.691008864499789/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -829,7 +829,7 @@ middle of the street where they had been
 standing, gave three echeers, and passed  
 along the front of the soldiers, whose mus
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83021380:00279523878:1854111001:0155/pct:239.26759017967356,44.845971563981045,36.88108627074475,10.02172195892575/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83021380:00279523878:1854111001:0155/pct:79.74492594624246,14.947181360450193,12.29200950813677,3.3402441833678878/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -868,7 +868,7 @@ had been standing, gave three cheers,
 and passed along the front of the sol­  
 diers, whose muskets some of the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn93052998:00279557347:1855060201:0326/pct:69.34902258493072,67.6794425087108,12.81078003416208,3.9442508710801394/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn93052998:00279557347:1855060201:0326/pct:69.35376731827671,67.68989547038328,12.825014234200038,3.9337979094076654/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -979,7 +979,7 @@ to and no more, Good men and true, stand together,
 and hearken to the evidence.&quot; During this proceeding,  
 the prisoner stood with his arms folded across his breast
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_euclid_ver01:data:sn83030214:0020653090a:1868122201:0783/pct:149.21970624235007,209.24849149753155,47.184822521419825,8.941305540318156/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_euclid_ver01:data:sn83030214:0020653090a:1868122201:0783/pct:49.73990208078335,69.74949716584385,15.728274173806609,2.9804351801060522/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1000,7 +1000,7 @@ no more. Good men and true, stand together and
 hearken to the evidence.&quot; During this proceeding  
 the prisoner stood with his arms folded across hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536093:1868122201:0601/pct:60.74766355140187,79.63990997749437,49.68847352024922,9.962490622655665/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536093:1868122201:0601/pct:15.192832099727308,19.909977494373592,12.42695753798208,2.490622655663916/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1049,7 +1049,7 @@ gullty you are to say so; if he is not gullty you are
 to say so and no more. Good men and true, stand  
 together and hearxen to the evidence.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743816:1873020501:0425/pct:7.845394736842105,4.372842347525892,93.76644736842105,286.92750287686994/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743816:1873020501:0425/pct:2.6151315789473686,1.457614115841964,31.25548245614035,95.64250095895666/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1075,7 +1075,7 @@ any of them, you must challenge them as they come
 to the book to be sworn, and before they are sworn,  
 and you shall be heard.&quot; The reading over the pris-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:0027174402A:1878062501:1122/pct:6.843667546174142,88.13753581661891,46.20712401055409,13.833810888252149/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:0027174402A:1878062501:1122/pct:2.2812225153913808,29.379178605539636,15.402374670184697,4.61127029608405/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1128,7 +1128,7 @@ find him guilty of murder in the second
 degree only, say so, and you are then fur-­  
 ther to ascertain the term of his confinemen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00415664424:1879032501:0295/pct:26.910656620021527,98.52144365873818,58.71905274488697,27.817063091192946/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00415664424:1879032501:0295/pct:8.97021887334051,32.840481219579395,19.573017581628992,9.272354363730983/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1149,7 +1149,7 @@ Prisoner?&quot;Hy God and my country.&quot;
 Clerk?&quot;God send thee a good deliverance.&quot;  
 The names of tho petit Jurors were callod
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287289:1889013001:0156/pct:30.56077694235589,12.993508566563797,13.612155388471178,2.7881238693199957/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287289:1889013001:0156/pct:30.56077694235589,13.000603029335604,13.617376775271513,2.7845766379340926/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1174,7 +1174,7 @@ as Court was formally opened, and were
  charged as good men and true, stand to  
   gether and hearken to your evidence.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_stein_ver01:data:sn83030193:00206535441:1893060601:0728/pct:0.0,205.79093734663832,50.76923076923077,22.705709144446264/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_stein_ver01:data:sn83030193:00206535441:1893060601:0728/pct:0.0,51.44773433665958,12.697191227395152,5.676427286111566/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1199,7 +1199,7 @@ as Court was formally opened, and were
 charged as &quot;good men and true, stand to  
 gether and hearken to your evidence.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_stein_ver01:data:sn83030193:00206535441:1893060602:0736/pct:339.6284829721362,198.7886515779407,58.126934984520126,21.357985336308577/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_stein_ver01:data:sn83030193:00206535441:1893060602:0736/pct:84.95643756050339,49.697162894485174,14.540174249757987,5.339496334077144/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1235,7 +1235,7 @@ will say so, and no more.” “Good men
 and true stand together and hearken to  
 your evidence.” Slowly and gravely th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_halfwayrock_ver01:data:sn83016025:00414210818:1893060701:0391/pct:56.45792563600783,33.55323718932188,12.602739726027398,10.248542497698681/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_halfwayrock_ver01:data:sn83016025:00414210818:1893060701:0391/pct:56.446879279984344,33.54809019788311,12.60516532968108,10.250805338242062/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1260,7 +1260,7 @@ together and hearken to your evidence.”
   
 Case Opened For the Governmment,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_deathkiss_ver01:data:sn92064071:00514153723:1893060701:0884/pct:15.922381711855396,23.049124788255224,11.004784688995215,5.2060982495765105/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_deathkiss_ver01:data:sn92064071:00514153723:1893060701:0884/pct:15.926811979443558,23.049124788255224,11.009214956583378,5.209862601166949/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1285,7 +1285,7 @@ opened, and were charged as “good men
 and true, stand together and hearken to  
 your evidence.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_ketchup_ver01:data:sn87068192:00279529662:1893060801:0606/pct:65.15318492395856,19.702881152460986,14.304606568216883,5.732292917166867/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_ketchup_ver01:data:sn87068192:00279529662:1893060801:0606/pct:65.13882767739092,19.69992498124531,14.306963420008815,5.735183795948987/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1378,7 +1378,7 @@ sticks in their hands, moved from the
 ! standing, gave three cheers, and passed  
 I along the front of the soldiers, whos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:00332895497:1896012301:0034/pct:18.949435444280805,92.053998632946,15.24300441826215,4.887218045112782/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:00332895497:1896012301:0034/pct:18.94478527607362,92.03827097215104,15.245398773006135,4.890654365282761/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1408,7 +1408,7 @@ prisoners at the bar arc guilty of the !
 feionv an  
 d murder whereof they stand 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_mitchell_ver01:data:sn92073907:0041615675A:1896020601:0273/pct:24.747191011235955,19.046607920161374,35.51966292134831,109.73564072619175/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_mitchell_ver01:data:sn92073907:0041615675A:1896020601:0273/pct:18.5726327620118,14.290264359273808,26.650744591177297,82.3017305446438/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

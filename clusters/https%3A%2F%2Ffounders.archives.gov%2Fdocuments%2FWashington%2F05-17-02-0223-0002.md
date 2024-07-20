@@ -78,7 +78,7 @@ parlies of Indians who may commit depre­
 dations on the persons or property of the  
 citizens of the United States, for the pur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794071201:0002/pct:9.976309555146091,42.264150943396224,16.583311397736246,16.89909762100082/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794071201:0002/pct:9.982890234272176,42.264150943396224,16.59647275598842,16.915504511894994/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -933,7 +933,7 @@ negatived, ayes 33, noes 35.
 The Huuie then took up the resolu­  
 tions. Various amendments were pro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1795022801:0002/pct:48.862246146317595,57.23562152133581,15.023244433569856,17.28509585652443/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1795022801:0002/pct:48.868363102520185,57.24721706864564,15.023244433569856,17.277365491651206/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

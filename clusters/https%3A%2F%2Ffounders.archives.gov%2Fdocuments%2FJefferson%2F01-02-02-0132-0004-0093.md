@@ -228,7 +228,7 @@ term be delivered to each judge time enough be­
 fore the hearing of the cause, and hat no error,  
 other than such as shall be pom e l out, and insis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804061301:0173/pct:3.701594533029613,55.136626379400944,19.381169324221716,8.49973725696269/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804061301:0173/pct:3.700892009869045,55.12938394850913,19.383817296134623,8.50299925565918/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -262,7 +262,7 @@ ed on in such statement, on the part of the plaintiff
 or appellant shall he (without ieavc ol the court)  
 admitted as a ground for argument on the hearin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804061601:0175/pct:59.704357842196195,18.503009683328973,18.333653292378575,11.292855273488616/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804061601:0175/pct:59.69289827255278,18.500588774041606,18.336532309660907,11.295739020454446/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -349,7 +349,7 @@ plaintiff or appellant, shall (without leave of the j
 Court) be admiited as a ground for argument, on j  
 the hearing of the cause. No cause will be pro- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1845020601:0069/pct:28.2009241317633,12.755053620575117,14.115367416902668,10.771566859637469/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1845020601:0069/pct:28.2009241317633,12.758217076334187,14.120335867243007,10.777893771155611/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -371,7 +371,7 @@ siatnd on in such statement, on the part of the phintiff or appeliant,
 thae tithout leave of the Court) be adialued as a ground for arge­  
 ment, on the bearing of the cause. No cause will be proceeded i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845020701:0117/pct:9.019896831245394,24.01400233372229,38.57037582903464,8.308051341890316/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845020701:0117/pct:3.0061892130857646,8.003733520009334,12.854897337655958,2.7690273402559016/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -422,7 +422,7 @@ plaintifr or appellant, shall (withouf leave of
 the court) be admitted as a ground for argu-­  
 ment on the hearing of the cause. No caus
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741984:1870041501:0366/pct:212.75257594005086,262.4260901699926,41.57634149605246,14.726533628972653/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741984:1870041501:0366/pct:70.91752531335028,87.47536338999754,13.858780498684151,4.9088445429908845/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -448,7 +448,7 @@ plaintiff or appellant, shall (without leave of
 the court) be admitted as a ground for argue­  
 ment on the hearing of the cause. No cals
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741984:1870042201:0391/pct:86.69539455965527,208.75698451955665,41.435496902774034,12.356874599248878/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741984:1870042201:0391/pct:28.89846485321842,69.58566150651889,13.81183230092468,4.118958199749626/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -468,7 +468,7 @@ to each of the judges of the court time enough be,­
 fore the hearing for his consideration; and  
 error other than such as shall b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741984:1870042901:0415/pct:130.54167229501553,231.94381513366562,41.03741726327165,6.40688717716357/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741984:1870042901:0415/pct:43.51389076500518,77.31460504455521,13.679139087757216,2.1356290590545233/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -497,7 +497,7 @@ the court) be admitted as a ground for argue
 ment on the hearing of the cause, No cause  
 shall be proceeded in without such statement. Bu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741984:1870050201:0423/pct:214.96598639455783,219.18883961566888,40.21608643457383,15.881374722838137/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741984:1870050201:0423/pct:71.65532879818593,73.06294653855629,13.405362144857943,5.293791574279379/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

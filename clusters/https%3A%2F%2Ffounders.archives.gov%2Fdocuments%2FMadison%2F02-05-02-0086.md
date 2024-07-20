@@ -110,7 +110,7 @@ jesty, it was—siagreedas follows :
 si&quot; highness the duke of Parma, the colony  
 &quot;&quot; or
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216018:1803102401:0256/pct:28.387194659384008,42.28949013304759,23.56243362160522,12.902937762300205/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216018:1803102401:0256/pct:28.382888349514563,42.285714285714285,23.563915857605178,12.904761904761905/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -212,7 +212,7 @@ j ently from what they were when France
 j before pott-fled it. And for what we J  
 know, fhe has done fo. Hence the im
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803110201:0002/pct:58.95292564892213,84.30369243534781,19.643642762868456,12.93043839026414/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803110201:0002/pct:58.96025810236105,84.30369243534781,19.643642762868456,12.935048172221453/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -233,7 +233,7 @@ siOlts herein, relative to his royal highness­
 W&#x27;Duke of Parma, the colony or province&#x27;  
 Qs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216018:1803110301:0293/pct:1.1766458147155199,55.82442815508257,22.311587727137326,5.281285878300804/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216018:1803110301:0293/pct:1.1764705882352942,55.81949841045567,22.313229089103995,5.283763099022725/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -263,7 +263,7 @@ sisuance of the said treaty, and Particularly
   
 the thirdarticle, the- French republic has a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216018:1803110401:0296/pct:29.538690476190474,84.30956798303737,23.18452380952381,9.41779309126248/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216018:1803110401:0296/pct:29.5342954917423,84.30212014134275,23.186033824331698,9.419905771495877/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -593,7 +593,7 @@ isto be made whether the cesd«»nby Fiance
 to the United Slates does or does not em­  
 brace that portion of county called Wes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804092901:0298/pct:77.79915352058484,76.69270833333333,17.776067718353215,6.002604166666667/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804092901:0298/pct:77.78418926716677,76.68272360369744,17.779060075655575,6.006162392049647/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -617,7 +617,7 @@ United States all the territory which, she ha thus
 acquired from Spain. ■ •&#x27; • . . /■ ,  
 These arc the facts on which a decision is to b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804100201:0138/pct:3.850129198966408,85.74671639370845,22.377260981912144,6.0321063726285065/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804100201:0138/pct:3.849134590545079,85.73281452658884,22.377938517179025,6.035181582360571/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -640,7 +640,7 @@ it was agreed as follows:
 II Royal Highness the Duke of Parma, the colony or  
 “
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804101301:0157/pct:73.78017462763225,51.058287202865515,21.956856702619415,5.047215890589385/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804101301:0157/pct:73.7612323491656,51.04997558196321,21.957637997432606,5.050463942699007/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -724,7 +724,7 @@ fo makes a part of the treaty of ceflion of April
 the United States, and is particularly referred  
 to as descriptive of boundaries. These under
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1806111401:0217/pct:40.77562326869806,74.28290040625384,17.746999076638964,9.060691862612336/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1806111401:0217/pct:40.76809453471196,74.27375677006401,17.74987690792713,9.063679632365009/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -760,7 +760,7 @@ royal highness the Duke of Parma, the
 “ stipulations herein relative lo his royal highness  
 “ the Duke of Parma, the Colony, or
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1810122801:0281/pct:51.50320354854608,62.35008103727715,20.847708230655495,2.739059967585089/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1810122801:0281/pct:51.49051490514905,62.339977313239345,20.848731214584873,2.7426673148598284/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -789,7 +789,7 @@ provision :
 &quot; Nis Catholic Majesty promises and engages  
 on his part, to cede
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1811011701:0325/pct:41.86932849364791,31.40202909179807,17.33212341197822,2.7136046938027136/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1811011701:0325/pct:41.86173108328797,31.39819115130775,17.33502691586524,2.7173470219180316/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -871,7 +871,7 @@ know n to the English, ceased.” .34]
 Statement on Vie pttri of Spain.  
 1.] “On the first of Oct. 1800, (the dat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216249:1819020201:0652/pct:26.3306309481847,21.61339421613394,17.818117729996477,35.24679278103935/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216249:1819020201:0652/pct:26.325991189427313,21.61104467876943,17.8208516886931,35.24658477370728/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1131,7 +1131,7 @@ the above conditions and stipulations, rela­
 tive to his royal highness the Duke of Parma  
 the colony or
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_hallock_ver01:data:sn90059523:00206537012:1899021401:0511/pct:44.112392398895565,26.044600938967136,12.652265713821667,2.112676056338028/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_hallock_ver01:data:sn90059523:00206537012:1899021401:0511/pct:44.12322018298955,26.044600938967136,12.657679605868658,2.124413145539906/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

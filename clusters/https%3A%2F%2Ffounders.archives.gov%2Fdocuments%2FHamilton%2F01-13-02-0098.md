@@ -85,7 +85,7 @@ Two quarts of Vinegar, ( IOQ ra^ons&gt;
 Two pounds of Soap, f  
 One pound of Candles, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790110301:0003/pct:64.14922656960873,76.0,26.478616924476796,13.408450704225352/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790110301:0003/pct:64.15680922050349,76.01408450704226,26.50894752805581,13.417840375586854/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -108,7 +108,7 @@ Two quarts of Vinejrar, (
 Two pounds of Soap, &gt; Pr&quot; 100 ratlOTls&#x27;  
 One pound of Candles, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790111701:0004/pct:38.788056206088996,63.90922401171303,25.32201405152225,4.79502196193265/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790111701:0004/pct:38.79537470725995,63.91837481698389,25.33665105386417,4.799597364568082/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -147,7 +147,7 @@ term, be fufficient for the consumption of jhe
 troops at each of the said pods, for the space of at  
 lead three mon hs in advance, in good and whole
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792082201:0004/pct:24.18343780930386,76.63934426229508,30.97987462883537,11.241217798594848/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792082201:0004/pct:24.19993401517651,76.64422326307572,30.97987462883537,11.246096799375488/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -169,7 +169,7 @@ One pound of beef, or £ of a pound of pork,
 Half a iill of rum, brandy or whiflcy,  
 One quart of fait,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792082501:0001/pct:5.534709193245779,24.58764863828155,20.45028142589118,3.6632144227080934/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792082501:0001/pct:5.542526579111945,24.602032988108938,20.45809881175735,3.6680092059838896/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -201,7 +201,7 @@ Two quarts of vinegar, (
 Two poundi nf snap, &gt; prr ,00 rations,  
 One pound of candles, )
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792100301:0004/pct:54.8440065681445,77.00744222483353,22.13464696223317,8.343125734430082/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792100301:0004/pct:54.8440065681445,77.00744222483353,22.151067323481115,8.348021934978457/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -235,7 +235,7 @@ dc&#x27;&quot; quantities,, as tha; there (hall at all times,
 iced&#x27; lO&#x27;ilumpt&#x27;o&quot; ofthe troops at each of the  
 j&quot;n&#x27; said polts, lor the term of at lead thte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794082601:0004/pct:25.57531380753138,71.33863485752154,18.200836820083683,11.000662690523525/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794082601:0004/pct:25.57531380753138,71.34277667329357,18.22044979079498,10.996520874751491/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -268,7 +268,7 @@ consumption of the troops at each of the
 n&#x27; said poih, for the term of at least three  
 &#x27; months in advance, in good and wholesom
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794082801:0004/pct:26.28676470588235,72.13606803401701,17.673319327731093,10.988827747206937/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794082801:0004/pct:26.29989495798319,72.14440553610139,17.67988445378151,10.988827747206937/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -292,7 +292,7 @@ the following article?, viz. {
 One pound of bread or flour, &lt;  
 One pound of beef, or I of a pound ofpoik
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794082901:0004/pct:25.66079295154185,73.03236797274276,17.51101321585903,5.945485519591141/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794082901:0004/pct:25.66079295154185,73.04088586030664,17.52477973568282,5.954003407155025/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -317,7 +317,7 @@ the following articles, viz.
 One pound of bread or flour,  
 One pound of beef, or of a pound of pot k
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794090201:0004/pct:29.36970338983051,71.09595875602861,15.995762711864407,5.238649592549476/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794090201:0004/pct:29.36970338983051,71.10427407284217,16.015625,5.246964909363046/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -340,7 +340,7 @@ the following articles, via!.
 One pound of bread or flour,  
 One pound of beef, or Jof a pound of poik
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794090301:0004/pct:29.55263157894737,72.0782477846514,15.921052631578947,5.166360140444742/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794090301:0004/pct:29.55921052631579,72.0782477846514,15.94078947368421,5.174719946497241/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -364,7 +364,7 @@ the following articles, viz.
 One pound of bread or flour,  
 One pound of beef, oi* of a pound of pVft!k
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794091301:0004/pct:27.119565217391305,73.13407914509935,16.358695652173914,4.658540657872766/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794091301:0004/pct:27.119565217391305,73.14660210385708,16.372282608695652,4.654366338286859/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -398,7 +398,7 @@ tonfumption of the troops at each of the
 said poltsj for the term of at least three  
 months in advance, in good and wholesom
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794093001:0004/pct:10.52060737527115,72.68325262982134,16.567245119305856,10.686258139923192/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794093001:0004/pct:10.53416485900217,72.69160126899315,16.587581344902386,10.6904324595091/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -453,7 +453,7 @@ Two quarts of Vinegar, ( _ , , , .
 Two, pounds of Soap, [ For one hundred Ration&quot;.  
 One pound of Candles, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795112601:0003/pct:69.93166287015946,54.92295214922952,19.21032649962035,4.4606650446066505/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795112601:0003/pct:69.95064540622627,54.92700729927007,19.191343963553532,4.4606650446066505/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -473,7 +473,7 @@ Half a gill of Rum, Brandy, or Whiskey.
 One quatt of Salt, &quot;)  
 Two For hundred Ration
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795113001:0001/pct:70.9946848899013,41.26363784399935,19.23563654770944,3.761602344894968/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795113001:0001/pct:70.9946848899013,41.27585083862563,19.25461908377626,3.765673343103729/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -500,7 +500,7 @@ Two&quot;qlia«s of Vinegar, ( hun(Jrrtl riltlon, a.
 Tw® pounds ot tooap, I n:  
 One pt&gt;und of Candles, &gt; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796100801:0004/pct:13.932038834951456,74.42587095766287,20.388349514563107,6.998906420871739/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796100801:0004/pct:13.932038834951456,74.43368223715045,20.388349514563107,6.995000781127949/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -527,7 +527,7 @@ Two quafts ef Vinegar, &lt; hundred m;en,
 1 wo pounds of boap, f r  
 One pound of Candles, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796102401:0004/pct:11.970443349753694,76.848,20.541871921182267,7.136/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796102401:0004/pct:11.982758620689655,76.856,20.541871921182267,7.128/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -554,7 +554,7 @@ Two quarts of Vinegar, ( hundred rations
 Two pounds of Soap, ( 1  
 One pound of Candles, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796110201:0004/pct:72.455552692605,73.4909872664131,22.313836640041227,7.540929386472631/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796110201:0004/pct:72.4619943313579,73.49925582933686,22.33960319505282,7.5574665123201585/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -582,7 +582,7 @@ Ths rations are to be furnifhed in such quanting as that
 there (hail at all times during the said term, b£ fofficient  
 for the consumption of the troops at MichiHmackicac, Dp
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796110301:0004/pct:73.79771938522558,71.4397864656932,19.360436291522063,8.808290155440414/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796110301:0004/pct:73.81011403073872,71.45156225467106,19.354238968765493,8.808290155440414/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -609,7 +609,7 @@ n, Two quarts ef Vinegar, ( , , , .
 Two pounds of Soap, (Fer hundred d  
 ,rr One pound of Candles, j 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796111601:0004/pct:49.82124616956077,77.69041769041769,22.854954034729314,7.387387387387387/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796111601:0004/pct:49.82763023493361,77.6945126945127,22.861338100102145,7.391482391482391/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -636,7 +636,7 @@ Two quarts of Vinegar, ( , . ,
 Two pounds of So»|, (P&quot; tuadred &quot;t,on&gt;  
 , One pound of Candles, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796112501:0004/pct:51.581809194265944,43.060669121178165,20.46465645081562,7.171442292300304/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796112501:0004/pct:51.581809194265944,43.06867296302225,20.489372219476024,7.1674403713782615/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -663,7 +663,7 @@ Two quarts ef Vinejrar, ( , . .
 Two pound, „f So»p, &gt; rcr hundred rations  
 One pound of Candles, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796112601:0004/pct:53.53260869565217,31.311706629055006,20.528656126482215,7.0365146528757245/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796112601:0004/pct:53.538784584980235,31.31954239147469,20.547183794466402,7.032596771665883/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -691,7 +691,7 @@ Two pounds of Soap, / Per hundred ration* dclai
 One pound of Candles, J uotit  
 The ration sure to befurnirtied in such quantities, as that
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796120801:0004/pct:52.42718446601942,74.12795244798998,21.990291262135923,7.695917409666823/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796120801:0004/pct:52.43325242718446,74.13968402940716,21.990291262135923,7.70373846394494/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -718,7 +718,7 @@ Two quarts of Vinegar, ( . . .
 Two pounds of Soap, ( Per hundred ratlsn»  
 One pound of Candles, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796122001:0004/pct:74.09638554216868,71.36319058515855,19.45281124497992,7.110166721150703/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796122001:0004/pct:74.11521084337349,71.37136319058516,19.45281124497992,7.122425629290618/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -745,7 +745,7 @@ Two quarts ef Vinegar, I hundred rations
 1 wo pounds of Soap, (  
 One pound of Candles. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797010701:0004/pct:53.62103174603175,75.36764705882354,19.444444444444443,7.001278772378517/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797010701:0004/pct:53.63343253968254,75.36764705882354,19.456845238095237,7.021259590792839/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -772,7 +772,7 @@ Two quarts of Vinegar, ( himd.cd rat;Qns
 1 wo pounds 01 ooap, I  
 One pound of Candles, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797010901:0004/pct:54.716981132075475,74.22973613525043,19.21097770154374,6.967925422657608/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797010901:0004/pct:54.729233031119826,74.23763627745299,19.217103651065916,6.960025280455048/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -799,7 +799,7 @@ Two quarts ef Vinegar, ( hundrod ration.
 Two pounds of Soap, (  
 One pound of Candles, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797011701:0004/pct:72.9171786679774,18.959167333867093,19.316785450970755,7.077662129703763/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797011701:0004/pct:72.9171786679774,18.971176941553242,19.329073482428115,7.089671737389912/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -827,7 +827,7 @@ Two pounds of Soap, un ration#
 One pound of Candles, j  
 The rations are to be furnilhed in fa: h quantities, as tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797021301:0002/pct:74.5575221238938,17.707332692923472,20.206489675516224,7.76496958053154/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797021301:0002/pct:74.5575221238938,17.719340377841817,20.237217305801376,7.7529618956131925/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

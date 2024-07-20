@@ -142,7 +142,7 @@ fhion which is the fame in both, the mutability
 of policy is another source of danger in the  
 former. March 20
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792032201:0002/pct:70.5414499847048,6.037662589788391,21.71918017742429,77.51892836342458/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792032201:0002/pct:70.56439278066686,6.0522228693457585,21.71918017742429,77.5043680838672/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -365,7 +365,7 @@ cipal officers of his household into hla pres*
 enco, and told them they most from that mo­  
 ment discard the use of shoe-strings: whil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_lake_ver02:data:sn82014064:no_reel:1870060501:0006/pct:51.30979498861048,2.8862745098039215,17.065299924069855,96.3921568627451/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_lake_ver02:data:sn82014064:no_reel:1870060501:0006/pct:51.319286256643885,2.8901960784313725,17.065299924069855,96.39607843137254/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

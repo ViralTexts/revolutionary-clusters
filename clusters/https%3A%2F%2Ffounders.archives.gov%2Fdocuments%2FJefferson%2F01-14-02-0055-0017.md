@@ -334,7 +334,7 @@ of a vessel of their nation, and shall have withdrawn theinfelves on
 board the said vessel they may be there seized and arrested by or er  
 of the Judges of the Country : these shall give notice thereot
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790041001:0002/pct:39.2991239048811,4.537487828627069,55.381727158948685,89.269717624148/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790041001:0002/pct:39.32259073842303,4.552093476144109,55.35826032540676,89.269717624148/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -401,7 +401,7 @@ Done at Versailles the 14th. of November one thousand fev«n
 hundred and eighty eight.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790041001:0003/pct:8.019894311470313,5.799648506151143,27.541187441715884,31.966412809998047/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790041001:0003/pct:8.043207957724588,5.814294083186877,27.533416226297792,31.966412809998047/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1405,7 +1405,7 @@ ment of his debts, and at the expiration of one year from his
 deceaie, the residue; and the balance of the estate they shall  
 tranOnit to the treasury of the United Stater, to be hoklen i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792042801:0001/pct:35.95679012345679,39.12698412698413,27.40740740740741,14.880952380952381/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792042801:0001/pct:35.97993827160494,39.13690476190476,27.415123456790123,14.880952380952381/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1469,7 +1469,7 @@ of&quot;the United States, to be holden in
 trust for the legal claimants. But if a:  
 any time 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792043001:0004/pct:8.958837772397095,5.559860519178613,39.46731234866828,87.33049205734211/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792043001:0004/pct:8.973970944309928,5.559860519178613,39.45974576271186,87.33533514141806/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1612,7 +1612,7 @@ summary judgment an d without co/!s &quot;No officer
 &quot; fere therein, or take any part whatever in the  
 matter.&quot;—This last elaufe alone would seem fnff
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797012801:0003/pct:7.748360456643187,30.637685791913057,19.213019188729657,8.949976026849928/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797012801:0003/pct:7.748360456643187,30.637685791913057,19.21909157153267,8.965958126897874/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1647,7 +1647,7 @@ fact to be produced to the Judge as the ground on
 which he shall issue hie warrant to arrest them.  
 And this is the conftruftion put on this article b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797012801:0003/pct:7.481175613310663,78.72782483618347,19.261598251153753,13.64871344094614/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797012801:0003/pct:7.487247996113675,78.73581588620745,19.25552586835074,13.644717915934153/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1680,7 +1680,7 @@ fel and hia crew ; and when he alledgcs that a- \
 t»y of them have deferted, the 9th article re- j  
 quires this original evidence of the fail to be 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184169:1797021401:0008/pct:50.52674230145867,4.2585656817866555,20.117504051863857,11.319184352892218/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184169:1797021401:0008/pct:50.516508000810205,4.257975034674064,20.12018094659375,11.322237632917245/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1711,7 +1711,7 @@ civil or military ; {hall interfere therein, or
 take any part whatever in the matter.”’~  
 This last clause alone would seem fuffici
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797030401:0246/pct:24.63903120633442,62.48632521133764,15.867101381773017,9.995027349577324/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797030401:0246/pct:24.64420638617192,62.489640311619425,15.872276561610516,9.995027349577324/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1753,7 +1753,7 @@ and for ought I know without any diversi­
 ty of opinion. The difference alledged by  
 Mr. Fauchet in one of his letters to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797030401:0246/pct:41.608445893494796,27.767279960218797,15.898152460798013,16.101442068622575/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797030401:0246/pct:41.6136210733323,27.767279960218797,15.892977280960514,16.101442068622575/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2083,7 +2083,7 @@ United Sta&#x27;es, to whom it m 17 appertain to take
 cognizance thereof.  
 }
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83045634:00332895059:1798070901:0042/pct:1.0354440461967345,37.79131045789905,23.257666268418955,18.842955849631103/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83045634:00332895059:1798070901:0042/pct:1.0352379056340832,37.78688524590164,23.258013139558035,18.84367681498829/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2136,7 +2136,7 @@ tences shall be carricd before the tribunals
 of France or of the United States to whom  
 it may appertain to take cognizance thereof.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798071001:0531/pct:60.15782144514931,25.234649980445834,16.199907163855794,22.585060617911616/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798071001:0531/pct:60.162979008716285,25.234649980445834,16.199907163855794,22.58831964541781/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2184,7 +2184,7 @@ States determined that the mandate of arrefd
 could not be iflued on the exhibition of a  
 *‘copy of the regifler of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798071001:0531/pct:59.910258393934704,15.97575283535393,34.3339006653257,79.82010168165819/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798071001:0531/pct:59.91541595750168,15.982270890366316,34.3339006653257,79.82010168165819/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2456,7 +2456,7 @@ pose the said Consuls and Vice gon­
 fuls shall address themselves to the  
 courts, judges, and officets competent
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1799022701:0034/pct:43.68462138953942,24.832940251572328,16.455893832943012,10.102201257861635/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1799022701:0034/pct:43.689825657038774,24.839491614255767,16.450689565443664,10.105476939203355/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2477,7 +2477,7 @@ proving by an exhibition of the regif­
 ‘ters of the veflels or ship’s roll, that  
 those ‘men were part of the sai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1799022701:0034/pct:43.68462138953942,53.5377358490566,16.612021857923498,4.697327044025157/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1799022701:0034/pct:43.689825657038774,53.54428721174004,16.622430392922197,4.690775681341719/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2525,7 +2525,7 @@ one year from his decease, the residue ; &amp; the balance
 of the estate they shall transmit to the treasury of  
 the United States, to be holden in trust for the lega
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1806072501:0017/pct:28.75718929732433,11.1417004048583,21.45536384096024,20.534412955465587/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1806072501:0017/pct:28.75,11.139896373056995,21.45625,20.535136010362695/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2902,7 +2902,7 @@ party, the extra duties specified in the
 1st and 2d articles, shall, from the ex­  
 piration of the said two years, b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025001:00414216316:1822062901:0467/pct:58.62381167949298,26.2791124151843,17.594688395955938,34.604804694663486/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025001:00414216316:1822062901:0467/pct:58.614966807483405,26.276703034748326,17.59706296519815,34.604688120778704/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3100,7 +3100,7 @@ tsa duties fpecified in the 1&amp; and 2 articles,
 shall from the expiration of the said two  
 years, be on 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1822070901:0525/pct:23.975003810394757,20.67252974650802,17.451607986587412,31.06052767718572/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1822070901:0525/pct:23.980084336737285,20.675978617002933,17.451607986587412,31.057078806690807/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3152,7 +3152,7 @@ months dbefure havd.
 And, 1 case (he present arrangement  
 shou!ld remain without such declaration of 1
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1822071001:0310/pct:25.29904306220096,26.532590259268233,21.471291866028707,22.231645262902834/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1822071001:0310/pct:25.305688463583202,26.540667151280186,21.471291866028707,22.22760681689686/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3386,7 +3386,7 @@ kept in the prisons of the country, at their re­
 - pested for the same cause.  
 Wt _ARTICLE 7. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015143:1823030401:0033/pct:5.873649948217192,72.4367119538657,17.265867731913005,19.255204769817222/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015143:1823030401:0033/pct:5.873649948217192,72.4367119538657,17.28559451595404,19.25846284169029/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3442,7 +3442,7 @@ at least six months before hand.
 And in ease tlic present arrangement  
 should remain without aurh declaration o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1823030401:0241/pct:51.070141979232886,2.757513860519405,31.616867980504345,93.872191421068/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1823030401:0241/pct:51.059322033898304,2.7571115973741795,31.615466101694917,93.86214442013129/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3508,7 +3508,7 @@ of its dis O&#x27;.tinu.ince by either party, the
 extra duties specified in the 1st anrl Cd  
 articles, shall, from the expiration of t^
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1823030501:0479/pct:73.20496670865575,45.94690265486726,18.049307180133166,33.88790560471976/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1823030501:0479/pct:73.20496670865575,45.954768928220254,18.073300941755143,33.88790560471976/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3554,7 +3554,7 @@ valne ceuse, i
   
 ARTICLE 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1823030501:0442/pct:24.933384088313666,14.181131184319282,20.555767034640272,20.699019955130474/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1823030501:0442/pct:24.93972846085522,14.189003030660842,20.56211140718183,20.695084031959695/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3664,7 +3664,7 @@ rest, they shall be set at libt rly, and shall
 be no more ariest* I *r the same cause.  
 article 7
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1823041201:0040/pct:22.78481012658228,12.020547945205479,18.718017775383785,26.660958904109588/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1823041201:0040/pct:22.778675282714055,12.01848998459168,18.719709208400648,26.660674542030474/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3938,7 +3938,7 @@ the Republic of Colombia, desiring to make as dura­
 ble as circumstances will permit, the relations which  
 are to be established between the two parties by
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183992:1825062101:0054/pct:51.47291732657586,5.24121500893389,14.855875831485587,16.79571173317451/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183992:1825062101:0054/pct:51.46476642913697,5.240590757503573,14.858801794668778,16.797681435604257/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3982,7 +3982,7 @@ cause.
 An. 30th. For the purpose of ni &gt;rc vf­  
 fectuaily protecting their coinmcice an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1825062201:0633/pct:37.06445206716014,50.55621301775148,24.89619064813143,19.27810650887574/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1825062201:0633/pct:37.06445206716014,50.56015779092702,24.908226515014743,19.28205128205128/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4021,7 +4021,7 @@ more arrested for the same cause.
   
 ARTICLI&#x27;. 0(7(11
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:0039334880A:1825062301:0341/pct:50.16522098306485,59.371819107168825,15.778603882693101,13.319761523920315/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:0039334880A:1825062301:0341/pct:50.15486268841627,59.36318697295726,15.780507949618006,13.321459726664727/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4268,7 +4268,7 @@ back within two months, to be counted
 from the day of their arrest, they shall be  
 set at libeny, and shall be no more ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898036:1825082701:0092/pct:75.75124118108178,75.94558725945588,17.454925529135092,16.124751161247513/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898036:1825082701:0092/pct:75.73145245559039,75.9329905456958,17.45689655172414,16.126223254271025/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4310,7 +4310,7 @@ their commerce and navigation, the two con­
 tracling parties do hereby ag&quot; mon here­  
 #er as circumstances will peSmit them, t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1826101001:0161/pct:56.221701795472285,71.72854534388314,16.424668227946917,15.185636031649421/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1826101001:0161/pct:56.23211033047099,71.72854534388314,16.424668227946917,15.189017380131196/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4480,7 +4480,7 @@ liberty, and shall be no more arrested tor the
 Bame cause,  
 Article 324
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1826112101:0186/pct:10.224948875255624,7.925835370823146,17.193644801006766,12.948247758761207/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1826112101:0186/pct:10.230192438781396,7.925835370823146,17.193644801006766,12.948247758761207/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4550,7 +4550,7 @@ others of the same nut ion. but il they be not
 sent kick within two months, to be counted  
 from the day of their arrest, they shall he set a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348811:1826112301:0129/pct:52.981260647359456,42.41820768136557,15.18313458262351,9.701280227596017/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348811:1826112301:0129/pct:52.9699808388333,42.412174655098845,15.18522461145412,9.703456122884369/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4609,7 +4609,7 @@ ARTICLE .
 For the pnrpose of more effectinlly pros  
 tecting their cumum&#x27;: and navigation, th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1826113001:1176/pct:76.8740340030912,61.2473473237444,17.928902627511594,20.160339542560717/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1826113001:1176/pct:76.88691396187532,61.251277214493435,17.922462648119527,20.160339542560717/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4823,7 +4823,7 @@ shall he set at liberty; and shall be no more
 arrested tor the same enuse. F  
 It ils understood, however, that ifthe d
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153188:1829020501:0226/pct:3.0906332954114526,44.83160470807598,17.235494880546074,16.874490152662858/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153188:1829020501:0226/pct:3.1032739223865504,44.8354892592161,17.235494880546074,16.886143806083208/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4952,7 +4952,7 @@ The present additional
 article shall have the same  
 force and value as if i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1829032401:0045/pct:6.977452772699573,33.01963993453355,7.891529555149299,27.5879705400982/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1829032401:0045/pct:6.982530977046516,33.023049645390074,7.891529555149299,27.594789961811237/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5056,7 +5056,7 @@ for the same cause.
 Articte XXXII.—For the purpose of more ef­  
 fectually protecting their commerce and naviga
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1829041401:0057/pct:58.19697923222152,49.95741962955078,17.039018250471994,12.912497338726848/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1829041401:0057/pct:58.202223620725825,49.95741962955078,17.044262638976296,12.923142431339153/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5107,7 +5107,7 @@ where the contrary is proved,) the delivery
 rested, shall be put a« the disposal of said Con­  
 suls, and may be put iu the public prison, a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1829061501:0343/pct:8.508897525056248,84.90974729241877,14.624667621190428,8.51985559566787/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1829061501:0343/pct:8.507157464212678,84.89748772740398,14.62678936605317,8.522235056309558/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5182,7 +5182,7 @@ Cut n they bo not sent back within two
 months, to he counted limn llie day of their  
 arrest, lliey shall be set at liberty, and shal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830082701:0224/pct:38.5034225264468,70.21569527306104,13.892345986309895,8.329508949059202/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830082701:0224/pct:38.49743350443304,70.20764024320293,13.89536993830041,8.33237734694658/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5293,7 +5293,7 @@ the day of their nreest, they shall b set at libe
 orty, and shall no more be arrested for the  
 sane caus
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153188:1830093001:0558/pct:68.39470861637469,53.063854715875806,16.392563460850912,11.587580550673696/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153188:1830093001:0558/pct:68.40662614706233,53.063854715875806,16.386604695507092,11.587580550673696/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5376,7 +5376,7 @@ For the oTmore effectually protecting
 their commerce and navigation, the two contract­  
 ing parties do hereby agrree, as soon hereafter a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn82015332:00332897925:1832050901:0025/pct:11.032977691561591,9.72573078311079,17.677012609117362,15.734391916275714/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn82015332:00332897925:1832050901:0025/pct:11.030303030303031,9.723976186180769,17.67878787878788,15.73606350351795/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5435,7 +5435,7 @@ liberty, and shall not be again’ arrested for the
 same cause. = - ;  
 Article XXXI. For the purpose of more ef
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1832052901:0069/pct:56.20462046204621,50.498338870431894,16.287128712871286,12.380952380952381/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1832052901:0069/pct:56.21012101210121,50.505721668512365,16.292629262926294,12.380952380952381/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5507,7 +5507,7 @@ rest, they shall bo set at liherty, and
 shall not, be again arrested for the same  
 cause
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn87062070:0039334295A:1832111401:0535/pct:4.4632894443204645,49.777297880955594,19.102878821691586,18.15359697665002/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn87062070:0039334295A:1832111401:0535/pct:4.462293618920125,49.770580296896085,19.10605384500967,18.15564552406658/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5613,7 +5613,7 @@ they shall be set at liberty, and shall no more be
 arrested for the same cavse. It is understood,  
 however, that if the deserter should be found t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1834061701:0409/pct:47.62642625721933,63.94374935373798,13.70615579659107,11.560335022231413/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1834061701:0409/pct:47.62642625721933,63.94719608451384,13.710851293609428,11.560335022231413/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5695,7 +5695,7 @@ shall be set at liberty, and shall be no raoro
 arrested for the same causo.  
 Article 33
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197954:1836072801:0367/pct:105.61604584527221,27.390480202190396,20.830945558739256,22.493681550126368/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197954:1836072801:0367/pct:79.22338443903138,20.545492839090144,15.632612122080527,16.870261162594776/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5727,7 +5727,7 @@ twelve years, to be counted from the day
 of the exchange of the ratifications, and  
 further, until the end of ono year afte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197954:1836072801:0367/pct:106.08882521489971,52.48525695029486,20.02865329512894,15.34330244313395/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197954:1836072801:0367/pct:79.58160194870325,39.36394271272115,15.03080670583178,11.51010951979781/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5880,7 +5880,7 @@ ces will permit the relations which are to be establish­
 ed between the two parties by virtue of this treaty  
 of peace, amity, cominer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1836091301:0351/pct:47.95417348608838,22.06334074780214,13.986013986013987,17.19097553225294/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1836091301:0351/pct:47.96409264494371,22.066871447233698,13.990973565441651,17.20156763054761/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5935,7 +5935,7 @@ liberty, am! shall be no more arrested for the
 HIM ci use.  
 Art. 33. For the purpose of more effectuall
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn85042796:00295863079:1836091701:0132/pct:1.308852935829849,8.131224370240188,22.486820578076713,15.266549502050381/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn85042796:00295863079:1836091701:0132/pct:1.3209719444949404,8.139035344659247,22.48076107374417,15.262644014840852/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6000,7 +6000,7 @@ arrested for the same cause.
 ARTICLE XXIX.  
 For the purpose of more effectually protecting thei
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1839052101:0289/pct:63.964358749634826,30.136273795901385,14.665498101080923,9.403932175179445/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1839052101:0289/pct:63.974096796182685,30.143208849127916,14.675236147628786,9.403932175179445/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6127,7 +6127,7 @@ of the same nation ; but if they should not be
 scut within two months, to be counted from  
 the day of their arrest, they shall be set at lib-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1839062601:1097/pct:8.604311289733285,19.244984160506863,15.03470953598831,16.011087645195353/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1839062601:1097/pct:8.604311289733285,19.249384019711368,15.046888320545609,16.02428722280887/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6176,7 +6176,7 @@ the day of theis qrrest, they shall be set ag ib-
 erty, and shall be no wore arrested for the  
 Shilue caupse,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153231:1839070301:1030/pct:46.40505308426287,14.885871704053523,29.915333960489182,82.48720975993703/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153231:1839070301:1030/pct:46.41401245352327,14.889151252787617,29.906374591228776,82.49048930867113/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6358,7 +6358,7 @@ the arrest, the deserters shall be set at liberty, and shall not
 again be arrested for the same cause. It is, however, un-  
 derstood, that seamen of the country in which the desertio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191241:1846112801:0274/pct:145.76788830715532,168.94863496805243,57.80977312390925,27.450004149033276/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191241:1846112801:0274/pct:36.44197207678883,42.23715874201311,14.452443280977313,6.862501037258319/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6391,7 +6391,7 @@ deserters shall be set at liberty, and shall not
 again be arre.&#x27;ted for the same cause. It is,  
 however, understood, that seamen of the coun
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn82014116:00279528530:1847012701:0030/pct:29.16406737367436,79.80644399858373,12.694946974422956,3.9655375899917384/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn82014116:00279528530:1847012701:0030/pct:29.174464545643584,79.80644399858373,12.700145560407568,3.9734057201306108/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6434,7 +6434,7 @@ officers comjietent, and shall demand in writing the said petei
 deserters, proving by an exhibition of the registers of the tore*  
 vessels, or ship&#x27;s roll,or other public documents, that buqi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848061601:0617/pct:62.042755344418055,90.54376491272133,16.943784639746635,5.073464774582444/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848061601:0617/pct:62.053312219583006,90.54795093976307,16.93850620216416,5.077650801624179/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6458,7 +6458,7 @@ Bnot sent tiack within two mouths, te be counted from the c&lt;
 day of their arrest, the) shall he set at liberty, and shall ft  
 be no more ariested lor the saine cause. d
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848061601:0618/pct:5.887969446212604,3.9108973547652197,17.1546785486951,5.682824958865966/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848061601:0618/pct:5.893273923191173,3.9151162300130786,17.159983025673668,5.691262709361684/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6519,7 +6519,7 @@ solemnly, and do agree to the following points:
 1st. For the better understanding of the preceding  
 a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271742976:1848061901:0716/pct:104.14701577492275,96.95425724637681,53.60221174174662,44.05570652173913/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271742976:1848061901:0716/pct:34.71567192497425,32.31808574879227,17.867403913915542,14.685235507246377/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6572,7 +6572,7 @@ which are to be established between the two
 parties by virtue of this treaty, have declared  
 solemnly, and do agree to the following poi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879063:1848070701:0109/pct:92.53490870032223,83.03873636705528,17.81686358754028,24.52049642722828/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879063:1848070701:0109/pct:69.4105008728347,62.27905227529146,13.374513226802739,18.39977435125987/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6631,7 +6631,7 @@ relations which are to be established between the two par­
 ties by vistue of this treaty, have declared solemnly, and do  
 agree to the following p
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191289:1848072201:0275/pct:200.34934497816593,55.94059405940594,57.99126637554585,74.0924092409241/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191289:1848072201:0275/pct:50.08733624454148,13.985148514851485,14.497816593886462,18.523102310231025/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6717,7 +6717,7 @@ public prisons, at the request and eM&#x27;ense of thoie
 who reclaim them, to be sent to.the ships to whi£»  
 they belonged, or to others of thc same nation. I**
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn82014116:00279528530:1848080901:0261/pct:67.04753199268738,86.72941176470589,25.167580743449115,6.694117647058824/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn82014116:00279528530:1848080901:0261/pct:67.04753199268738,86.73333333333333,25.187893560836887,6.698039215686275/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6754,7 +6754,7 @@ same cause,
 A o i icLit 31  
 For the purpose of morn effectually protectin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82007022:00393342894:1848081501:0351/pct:55.37841625788367,16.92622950819672,13.419761737911703,10.505464480874316/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82007022:00393342894:1848081501:0351/pct:55.368716062357684,16.923917497609615,13.421790155894202,10.507444338205163/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6808,7 +6808,7 @@ lumibln the relations which are to be extabliched
 yetween the two parties by virtue of this treaty,  
 have declared solemnly, and do agree
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153279:1848081601:0789/pct:69.15693904020752,45.565933514110675,12.607003891050583,15.426333232901476/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153279:1848081601:0789/pct:69.16126242974492,45.565933514110675,12.602680501513186,15.43637641859998/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6863,7 +6863,7 @@ so proved, fsaving, however,- where the contrary is
   
 proved by other testimonies,) the delivery shall not ; served and fulfilTed with- good faith : by tho Unite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022615:1849032801:0479/pct:65.05331088664423,49.851190476190474,41.133557800224466,5.697278911564626/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022615:1849032801:0479/pct:48.8140350877193,37.3937074829932,30.86315789473684,4.2729591836734695/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6882,7 +6882,7 @@ be set at liberty, and shall be no more arrested for the
 same cause. -  
 Art. XXXIV. For .the purpose of more effectu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022615:1849032801:0479/pct:65.03928170594837,58.673469387755105,20.15993265993266,3.125/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022615:1849032801:0479/pct:48.8,44.005102040816325,15.12982456140351,2.3490646258503403/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6925,7 +6925,7 @@ dominions of the Most Christian King and of the United
 States.&quot; As France is the &quot;most favored nation,&quot; the  
 ousuls of Spain are placed upon the same footing
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_diglett_ver01:data:sn82015378:00295872378:1849080301:0732/pct:111.81020066889631,165.0,42.45401337792642,11.991017964071856/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_diglett_ver01:data:sn82015378:00295872378:1849080301:0732/pct:37.270066889632105,55.0,14.15133779264214,3.997005988023952/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6981,7 +6981,7 @@ ter, and the appeals from the sald consular tribunals shall
 be carried before the tribunals of France or of the United  
 States.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530339:1851012501:0166/pct:8.168731168396384,26.881595732343733,49.28021426180114,26.348138698828713/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530339:1851012501:0166/pct:2.7229103894654614,8.960531910781244,16.426738087267047,8.782712899609571/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7031,7 +7031,7 @@ part whatever in the matter; and tlie appeals; :
 from tin* said consular tribunuU shall be carried i 1  
 before the tribunals of France and the United i 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661484:1851012701:0110/pct:19.346582354712435,18.309859154929576,13.821138211382113,13.30866555263786/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661484:1851012701:0110/pct:19.356619492120846,18.31781650354102,13.82615678008632,13.312644226943583/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7072,7 +7072,7 @@ I the matter unit the anrtenln from the eeM mr.Hn.
 lsr tribunals ahull be carrie I before Ihe tribunal*  
 of France or of the United States 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1851013001:0250/pct:30.558823529411764,25.12091600039483,14.529411764705882,11.045306485045899/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1851013001:0250/pct:30.558823529411764,25.12749646300135,14.534313725490197,11.042016253742638/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7111,7 +7111,7 @@ juntry, civil or military, sltall not interfere there
 w&gt; appeals from the said consular tribunals shall  
 a carried before the tribunals of France or of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661393:1851013101:0144/pct:42.00511218403862,14.67347175501682,13.973303038909402,10.439624173529753/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661393:1851013101:0144/pct:42.009845687778096,14.681204809960175,13.968569535169932,10.439624173529753/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7142,7 +7142,7 @@ of.&quot;
 By the Uih article of the treaty of alliance, France,  
 by guarantying
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851020401:0143/pct:79.34073107049609,23.78467803512344,15.600522193211487,6.566556375668109/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851020401:0143/pct:79.34073107049609,23.79316195808942,15.616840731070496,6.566556375668109/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7233,7 +7233,7 @@ cause.
 ARTICLE NNNII.  
 For the purpose of more effectually protect
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777791:1852090101:0566/pct:69.79560938682816,170.50987597611393,89.78046934140802,63.69621803705405/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777791:1852090101:0566/pct:17.452205186447095,42.62746899402848,22.449365890592468,15.924054509263513/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7259,7 +7259,7 @@ of the ratifications, and further until the end
 of one year after either of the contracting  
 parties shall have given notice to the other o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777791:1852090101:0566/pct:69.6442089326268,252.21252488133518,44.96593489780469,20.456285408053898/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777791:1852090101:0566/pct:17.414347908385388,63.053131220333796,11.243611584327088,5.114071352013474/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7474,7 +7474,7 @@ mitted to the Treasury of the United States, to
 be holden in trust for the legal claimants.  
 If at any time before closing the a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743087:1853080101:0251/pct:196.79054054054055,68.90929965556832,48.141891891891895,52.97359357060849/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743087:1853080101:0251/pct:65.59684684684684,22.969766551856104,16.0472972972973,17.657864523536166/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7499,7 +7499,7 @@ ducting the expenses from the value of the goods.
 Ac. deliver them over to the owner or owners.  
 He is not to take possession of the goods when th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743087:1853080101:0251/pct:196.58783783783784,139.98851894374283,47.98986486486486,20.10332950631458/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743087:1853080101:0251/pct:65.52927927927928,46.662839647914275,15.996621621621621,6.701109835438194/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7554,7 +7554,7 @@ Art. 10. The respective consuls-general, consuls, vice­
 consuls. or consular agents shall receive the declarations,  
 protests, and reports of all captains of vessels of their na
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1853082001:0719/pct:3.679802279280516,2.0364184893869197,30.852670602773582,93.01799375067341/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1853082001:0719/pct:3.688956016293652,2.0436016233882843,30.85724747128015,93.01799375067341/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7666,7 +7666,7 @@ to be established by virtue of this treaty, have de­
 clared solemnly, and do agree to the following  
 points
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293186:1854110501:0434/pct:228.01992528019926,240.523509452254,49.68866749688667,68.73485215705284/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293186:1854110501:0434/pct:57.004981320049815,60.1308773630635,12.422166874221668,17.18371303926321/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7722,7 +7722,7 @@ at liberty, and shall be no more arrested for the
 same cause.  
 Article 34. For the purpose of more effectu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn85029297:00212472840:1855022301:0096/pct:11.659494351802044,38.52922690131992,20.992469069392147,17.4732872407291/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn85029297:00212472840:1855022301:0096/pct:7.775087436104386,25.686151267546617,14.00322841000807,11.648858160486068/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7771,7 +7771,7 @@ Article X. The respective consuls general,
 consuls, vice-consuls, or consular agents, shall  
 receive the declarations, protests, and. reports o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn85029297:00212472840:1855030901:0103/pct:30.685527747551685,74.66821150200127,21.150707290533187,24.43648620181167/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn85029297:00212472840:1855030901:0103/pct:20.462585034013607,49.778807668000844,14.108843537414966,16.294501790604592/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7806,7 +7806,7 @@ from the day of arrest, they shall be set at liberty,
 and shall be no more arrested for the same cause.  
 Article 34. For the purpose of more effectuall
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn84022882:00414212426:1855050101:0198/pct:41.760450160771704,53.43268242548818,12.808145766345124,8.633093525179856/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn84022882:00414212426:1855050101:0198/pct:41.75485599464166,53.42719145000514,12.809778968519758,8.634775459870516/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7848,7 +7848,7 @@ Republic of San Salvador, desiring .&#x27;o make us durable as
 possible the relations which are to be cslublislud by vir­  
 tue of this treaty, have declared solemnly, and do agree to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014869:0027955727A:1855051201:0355/pct:36.53281096963761,75.46933667083854,16.767874632713028,12.209706577666527/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014869:0027955727A:1855051201:0355/pct:36.53281096963761,75.47281323877068,16.77277179236043,12.22013628146294/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7874,7 +7874,7 @@ vice-consuls, or consular agents, shull receive the declara­
 tions, protests, and reports of all captains of vessels of  
 their nation in reference to injuries experienced at sea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014869:0027955727A:1855051901:0362/pct:80.39177277179236,14.476428869420108,16.767874632713028,5.673758865248227/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014869:0027955727A:1855051901:0362/pct:80.39666993143976,14.486858573216521,16.777668952007836,5.680712001112502/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7928,7 +7928,7 @@ tions which are to be established by virtue of
 this treaty, have declared solemnly, and do a­  
 gree to, the following poin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_coyote_ver02:data:sn88071075:0029602515A:1856011901:0086/pct:179.5990566037736,129.474225038534,68.86792452830188,120.56859051207398/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_coyote_ver02:data:sn88071075:0029602515A:1856011901:0086/pct:44.9395101799941,32.3685562596335,17.23222189436412,30.142147628018495/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7973,7 +7973,7 @@ five, nor can they apity in cascs where the perind af limle
 for proceedings has expired according to the laws of  
 the country from which the extradition is asked, or wher
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743282:1858012201:0178/pct:102.41988227599738,176.71496490830881,53.20470896010465,34.684174779261944/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743282:1858012201:0178/pct:34.139960758665794,58.9049883027696,17.73490298670155,11.561391593087315/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8015,7 +8015,7 @@ period ol three months, counting troiu the day of
 arrest, the deserters shall be placed at liberty, and  
 shall not be again arrested for the same cause
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_lilac_ver02:data:sn82015408:00212471380:1858091101:0511/pct:64.71529110684581,34.48889944200403,19.94561740243122,19.589219992876647/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_lilac_ver02:data:sn82015408:00212471380:1858091101:0511/pct:48.56,25.869642645138313,14.96,14.697851121928053/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8066,7 +8066,7 @@ a. . t . 1 . a a as.
 urrcst, toe acscrters snau ne placed at liberty, and  
 shall not bo again arrested for the same cause
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_ariel_ver01:data:sn82015418:00212474216:1858091601:0262/pct:40.72802197802198,80.2784727510062,18.96978021978022,19.39519199390841/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_ariel_ver01:data:sn82015418:00212474216:1858091601:0262/pct:30.557845561967575,60.20885456325465,14.2346798571036,14.554552376808441/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8122,7 +8122,7 @@ Articles of all kinds, the transit of which is allowed in Bel­
 gium, coming from or going to the United States, shall be exempt  
 from all transit duty in Belgium, when the tracsportat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293307:1860092201:0291/pct:338.7567567567568,125.03553299492386,42.5945945945946,15.106598984771574/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293307:1860092201:0291/pct:84.72353656887927,31.258883248730964,10.65296741922401,3.7766497461928936/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8172,7 +8172,7 @@ same cause.
 Article XXXV.—For the purpose of more  
 effectually protecting their commerce an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172121:1863020301:0114/pct:7.508868742609381,44.33219432476601,15.84548679542767,15.317189124944287/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172121:1863020301:0114/pct:5.819459294333282,34.36192669353291,12.295707957843288,11.87488006140856/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8328,7 +8328,7 @@ their] arrest, they sltall be set at liberty, and
 shall (be no more arrested for the same cause.  
 t ARTICLE XXXV
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291049:1863032101:0513/pct:36.185511414704294,18.21998320738875,29.067050152795254,78.88329135180521/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291049:1863032101:0513/pct:36.19899334891246,18.230478589420656,29.062556174725866,78.87279596977329/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8416,7 +8416,7 @@ and virtue for the term of ton years, to be counted
 from the day of the exchange of the ratifications, ad  
 forther, un il the end of one yea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293769:1863081401:0745/pct:312.7375087966221,155.17693315858455,47.994370161857844,55.203145478374836/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293769:1863081401:0745/pct:78.18437719915552,38.79423328964614,11.998592540464461,13.800786369593709/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8468,7 +8468,7 @@ Cause.
   
 Article xxxV
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_coyote_ver02:data:sn88071076:00296025161:1863091201:0412/pct:213.12272174969624,89.43244792661953,118.1044957472661,277.6227785209249/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_coyote_ver02:data:sn88071076:00296025161:1863091201:0412/pct:53.28068043742406,22.358111981654883,29.526123936816525,69.40569463023122/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8525,7 +8525,7 @@ of their arrest, they shall beset at liberty, and
 ehall be no more arrested for the same cause.  
 abiiclx xxxv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn84022367:0041562833A:1863110501:0730/pct:60.84260051325919,29.537315570835123,19.204448246364414,11.574273026786994/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn84022367:0041562833A:1863110501:0730/pct:45.66659533490263,22.160148975791433,14.423282687780869,8.680704770090244/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8573,7 +8573,7 @@ the day ol their arrest, they shall be set at a oerty,
 and shall be no more arrested for the same clause.  
 ARTICLE XXXV
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn85042146:00296022834:1867012201:0041/pct:39.1747868453106,78.73536837273353,16.702192448233863,12.646316272664677/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn85042146:00296022834:1867012201:0041/pct:29.3983244478294,59.054395226072984,12.536176694592536,9.490475097544183/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8592,7 +8592,7 @@ for the space of ten years, counting from the
 ?lay of the exchange of the ratifications, which  
 shall be made in conformity with the respectiv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kuvasz_ver02:data:sn83045462:00280654346:1870032801:0047/pct:29.304139172165566,30.657177804959414,13.34733053389322,2.1127543645057267/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kuvasz_ver02:data:sn83045462:00280654346:1870032801:0047/pct:29.31163767246551,30.665517624819305,13.34733053389322,2.1127543645057267/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8740,7 +8740,7 @@ its intention not to renew this convention it shall
 remain in force one year longer, and so on from  
 year to year, until the expiration of a year from th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009571:00279523921:1870080501:0342/pct:119.57267211817462,18.519628408750375,33.6454761276708,12.476276096294077/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009571:00279523921:1870080501:0342/pct:39.85230120005275,6.172592888533759,11.21367972218559,4.158343321347716/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8906,7 +8906,7 @@ relating to injuries sustained at sea by
 effects and merchandise shipped in vessels  
 of the nation in whose service the consu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_quartz_ver02:data:sn84022643:00416152627:1874122501:1149/pct:88.42348284960423,23.83612662942272,14.87467018469657,7.688214950784783/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_quartz_ver02:data:sn84022643:00416152627:1874122501:1149/pct:66.34774001979545,17.877094972067038,11.167931375783569,5.772811918063315/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8944,7 +8944,7 @@ in the country where he died, and pay the
 debts due from his estate which he shall  
 have contracted : shall sell at auction, at-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_quartz_ver02:data:sn84022643:00416152627:1874122501:1149/pct:88.7862796833773,49.33492950252727,14.924142480211081,10.933758978451715/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_quartz_ver02:data:sn84022643:00416152627:1874122501:1149/pct:66.61167931375783,37.004522479382814,11.200923787528868,8.206969938813515/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8977,7 +8977,7 @@ or courts of the respective countries.
 Injuries sustained at sea by effects and merchan  
 dise shipped in vessels of the nation in whos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:00237283612:1875031801:0047/pct:102.46609124537608,106.19512798318289,12.885326757090013,7.716087547916409/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:00237283612:1875031801:0047/pct:76.86141513796825,79.64634598738716,9.665484815785417,5.799431185853839/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9004,7 +9004,7 @@ lect t&#x27;te debts due to tbe deceased in the country
 where be died, and pay the debts due from his  
 estate which he shall have contracted ; shall sell a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:00237283612:1875031801:0047/pct:116.12207151664612,19.957957215283788,12.839087546239211,5.242982564609868/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:00237283612:1875031801:0047/pct:87.11268691228611,14.974650673921108,9.634653923231077,3.932236923457401/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

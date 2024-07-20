@@ -104,7 +104,7 @@ gress assembled, for the permanent feat
 - propefed to the said Assembly, to unite  
 with this legislature in an application t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790012001:0527/pct:53.838725253500726,54.09885931558935,21.53549010140029,8.425855513307985/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790012001:0527/pct:53.838725253500726,54.10392902408112,21.551585385482053,8.430925221799747/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -245,7 +245,7 @@ diftricft accepted by the said Acft of Congress, for
 theipermnnent feat of the Government of the Uni­  
 ted States ; (hereby expressly relerviiig
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791012601:0002/pct:40.32974001268231,5.329702392530636,55.516804058338614,89.26278934059522/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791012601:0002/pct:40.32974001268231,5.329702392530636,55.54058338617629,89.27737794203462/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -274,7 +274,7 @@ By the President,
   
 THOMAS JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791012601:0002/pct:69.15028535193406,56.31200155611749,26.569435637285984,12.079361991830384/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791012601:0002/pct:69.16613823715916,56.31200155611749,26.585288522511096,12.10367632756273/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -625,7 +625,7 @@ act of Congress, for the permanent feat
 of theGovernment ofthe United States;  
 (hereby expreflly
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791021901:0751/pct:5.213385063045587,14.47070249271609,43.1619786614937,78.63386209129168/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791021901:0751/pct:5.229550598124798,14.476097982086975,43.15389589395409,78.63925758066257/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -657,7 +657,7 @@ G. Waflungton.
 By Tee PrEsiDENT. ‘  
 THO&#x27;s JEFFERSON. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791021901:0751/pct:27.449078564500486,45.33829718355455,20.9262851600388,16.91485917772742/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791021901:0751/pct:27.45716133204009,45.34908816229632,20.9262851600388,16.925650156469192/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -680,7 +680,7 @@ GEORGE WASHINGTON.
 By the Pr esident,  
 THOMAS JEFFERSO
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791032301:0003/pct:66.04708798017349,18.285497053792056,26.363073110285008,5.17011974909713/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791032301:0003/pct:66.04708798017349,18.29500095038966,26.378562577447337,5.18912754229234/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -698,7 +698,7 @@ BY THE PRESIDENT,
   
 THOMAS JEFFERSO
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791040901:0003/pct:36.40235910878113,60.35013466717968,24.246395806028833,2.8857252789534438/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791040901:0003/pct:36.41874180865007,60.35013466717968,24.26277850589777,2.8857252789534438/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -716,7 +716,7 @@ BY THE PR ESIDENT,
   
 THOMAS JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791041301:0004/pct:39.37823834196891,45.170563434266,24.64378238341969,2.6830203142966655/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791041301:0004/pct:39.39443005181347,45.1801456496742,24.627590673575128,2.673438098888463/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -749,7 +749,7 @@ and agree thereto.”
 to recede to the State of Maryland, the jurisdiction  
 of that part of the territory of Columbia, without th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805013001:0325/pct:26.817364500385306,80.17227368763204,22.013871050603647,11.604095563139932/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805013001:0325/pct:26.810477657935284,80.15924601884953,22.01463790446841,11.60627234319142/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -777,7 +777,7 @@ semlded, lor the permanent seat of the
 general governirvn&#x27;. Provided, the said  
 , state of Virginia shall consent and avjic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805013001:0046/pct:20.706069020230068,22.388059701492537,18.464894882982943,9.32505613525294/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805013001:0046/pct:20.701963117192147,22.385103011093502,18.467843215017517,9.328226800493045/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -874,7 +874,7 @@ the United .States : Provided, that nothing herein con­
 tamed shall be construccWo vast in the U 81sics any right  
 of properly in the soil, or to affect the rights of iuuividw
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184091:1836020401:0327/pct:80.8719723183391,82.30702515177796,15.03114186851211,5.72419774501301/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184091:1836020401:0327/pct:80.86078051480764,82.29810298102981,15.033674693237383,5.727190605239386/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -952,7 +952,7 @@ the United States, any right of property
 in the soil, or to effect the right of indivi  
 duals therein, othenvise than the sam
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215622:1837012701:0016/pct:7.157778999450247,15.080494196929989,14.97526113249038,12.265069262448522/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215622:1837012701:0016/pct:7.1569920844327175,15.079365079365079,14.97727939020815,12.266646700608964/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1076,7 +1076,7 @@ Nothing, therefore, as it 6cems to me, can lie clearer
 than that the States making the cession expected Congress  
 to exercise over (he District 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_armani_ver02:data:sn84024735:00415664230:1838012701:0052/pct:3.464405788627394,78.26860672040196,18.725332553720218,8.06029519522663/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_armani_ver02:data:sn84024735:00415664230:1838012701:0052/pct:3.474150952589777,78.2720960256813,18.715587389757832,8.06029519522663/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1250,7 +1250,7 @@ agree thereto.”
 Congress to recede to the Slate of Ma­  
 ryland. the jurisdiction of that part of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215610:1838041101:0628/pct:70.22361255937898,33.150027108667025,15.119916579770594,6.397645418635272/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215610:1838041101:0628/pct:70.21547729379054,33.147459727385375,15.1220265678097,6.39973151590252/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1413,7 +1413,7 @@ of territory with in the State to the Lnitcd
 States in Congress assembled for the perma- j  
 nent seat ol the General Government
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215683:1840082401:0012/pct:22.928515668562508,25.14233659758597,15.18902643024423,7.9708494648143935/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215683:1840082401:0012/pct:22.925958965209634,25.140428115986033,15.191049658043413,7.9727746571529785/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1602,7 +1602,7 @@ j as of persons residing or to reside thereon, pur-1
 isuanltothe tenor and effect of the eighth sec­  
 | tion of the fir-t article of the constitution of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215774:1846020501:0413/pct:48.336181763345735,12.554614964500272,15.451895043731778,12.015292190060077/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215774:1846020501:0413/pct:48.331322878970646,12.55375793569527,15.4536925345128,12.01674744578697/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1629,7 +1629,7 @@ in full and absolute right and jurisdiction, as
 well of soil as of persons residing or to reside  
 thereon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215774:1846030501:0508/pct:22.23434864569898,43.814989871708306,15.160234150213315,6.266036461850101/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215774:1846030501:0508/pct:22.232142857142858,43.81203159813652,15.162037037037036,6.267863974973555/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1670,7 +1670,7 @@ The assent of the people shall be given by
 vote to the act of cession, and the deed shall be  
 done when a majority of ihe people vote in favo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1846031001:0535/pct:13.903586125808348,83.14365671641791,13.71252204585538,7.164179104477612/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1846031001:0535/pct:13.903586125808348,83.14987562189054,13.717421124828531,7.164179104477612/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1699,7 +1699,7 @@ herein contained *1 all he construed to vest in the
 State of Virginia anv right of property in the  
 custom-house and po*t oflice of the United State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00279550304:1846051201:0056/pct:84.6747519294377,15.848259892392562,14.814072366442819,7.5188994074780355/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00279550304:1846051201:0056/pct:84.66626578472639,15.847180604739853,14.815928375760006,7.520657404885136/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1787,7 +1787,7 @@ within the town ol Alexandria, or in the soil of
 the territory hereby receded, so as to affect the  
 rights of individuals or corporations therein, oth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00279550304:1846070401:0232/pct:37.81680303332668,17.12136752136752,14.647774895230492,6.516239316239316/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00279550304:1846070401:0232/pct:37.813030030928864,17.120196909613018,14.64963916325784,6.518072838324445/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1827,7 +1827,7 @@ oftha government of the United States:” And ;
 whereat the congress ofthe United States, oid, un­  
 der the provisions of the said act, locate that pot 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00279550304:1846082201:0398/pct:7.437266955557795,7.953072778118819,15.509422553663207,13.007298274333266/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00279550304:1846082201:0398/pct:7.4365175332527205,7.952530350566089,15.511218594652695,13.008684581457736/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1862,7 +1862,7 @@ after the close of the late session of the Congress
 of the United States, 1 duly appointed five citi­  
 zens of the county or town of Alexandria, bein
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00279550304:1846090901:0456/pct:52.3838630806846,14.797958902220383,15.352485737571312,13.046476348089918/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00279550304:1846090901:0456/pct:52.37852704492207,14.796938564434944,15.35431734066755,13.047875152267347/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1895,7 +1895,7 @@ within the town of Alexandria, or in the soil of
 the territory hereby receded, so as to affect the  
 rights of individuals or corporations therein
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022603:1846100701:0591/pct:85.31420765027322,93.1734122371341,20.327868852459016,13.41012363943781/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022603:1846100701:0591/pct:64.01530681973486,69.88270104617986,15.252152521525215,10.060234597907641/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1913,7 +1913,7 @@ gima, tn lull and absolute right and jurisdic
 tion, as well of soil as of persons residing or  
 to reside thereon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879051:1846101601:0436/pct:2.3066666666666666,107.4067003913334,17.666666666666668,2.682065476758614/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879051:1846101601:0436/pct:1.7340269441109777,80.55741147274983,13.258636788048554,2.0139352868187457/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1944,7 +1944,7 @@ contained shall be construed to vest in the State of Virginia
 any right of property in the custom-house and post office of  
 the United States within the town of Alexandria, or in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191241:1846101701:0224/pct:205.3959965187119,79.59302810441164,116.79721496953873,22.783754482528565/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191241:1846101701:0224/pct:51.34899912967798,19.89825702610291,29.199303742384682,5.695938620632141/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1993,7 +1993,7 @@ close of the late session of the Congress of the United States,
 I duly appointed five citizens of the county or town of Alex-  
 andria, being
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191241:1846120501:0283/pct:206.72743055555554,202.40883238541318,57.161458333333336,22.448979591836736/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191241:1846120501:0283/pct:51.69307575428695,50.602208096353294,14.293466464076406,5.612244897959184/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2032,7 +2032,7 @@ after the close of the late session of the Congress
 of the United States, I duly appointed five citizens  
 of the county pr town of Alexandrie, being
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879051:1846121101:0471/pct:77.17565403096637,31.141803046069434,17.632140950347036,15.343865291836156/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879051:1846121101:0471/pct:57.91160368540526,23.356352284552077,13.232741353985846,11.51262889036042/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2088,7 +2088,7 @@ tity of territory within this State, to the United
 States in Congress assembled, for the permanent  
 seat of the Federal Government;&quot; and, by 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215816:1849011001:0549/pct:29.78888243269417,67.65320334261838,12.860739879914778,4.637883008356546/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215816:1849011001:0549/pct:29.78599786966205,67.64849244481582,12.862722313676125,4.639881159622124/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2110,7 +2110,7 @@ miles square, or a lesser quantity of territory within this
 State, to the United States in Congress aasembled, for  
 the permanent seat of the Federal Government,&quot; and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347922:1849011501:0189/pct:86.69733210671573,236.80634201585505,60.44158233670653,15.812570781426954/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347922:1849011501:0189/pct:21.670345842531272,59.1932059447983,15.107615894039736,3.9525831564048124/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2276,7 +2276,7 @@ the soil, or to affect the rights of individuals there-
 
 ---
 
-## [From _The American review : a Whig journal of politics, literature, art, and science_](https://archive.org/details/sim_american-whig-review_1850-04_11_28/page/n4/mode/1up?view=theater)
+## [From _The American Review: a Whig Journal Devoted to Politics and Literature (1848-1850)_](https://archive.org/details/sim_american-whig-review_1850-04_11_28/page/n4/mode/1up?view=theater)
 
 #### 1850-04-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -2298,7 +2298,7 @@ gress has the undoubted right to interfer
 
 ---
 
-## [From _The American review : a Whig journal of politics, literature, art, and science_](https://archive.org/details/sim_american-whig-review_1850-04_11_28/page/n4/mode/1up?view=theater)
+## [From _The American Review: a Whig Journal Devoted to Politics and Literature (1848-1850)_](https://archive.org/details/sim_american-whig-review_1850-04_11_28/page/n4/mode/1up?view=theater)
 
 #### 1850-04-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -2351,13 +2351,13 @@ to the terms of the fundamental law of its being,
 in consideration of their allegiance.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1850110701:0200/pct:17.616430431009547,38.25098814229249,14.289846687879665,6.353754940711463/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1850110701:0200/pct:17.621251566869155,38.25757575757576,14.294667823739273,6.357048748353096/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The American Whig review_](https://archive.org/details/sim_american-whig-review_1850-12_12_36/page/n39/mode/1up?view=theater)
+## [From _The American Whig Review (1850-1852)_](https://archive.org/details/sim_american-whig-review_1850-12_12_36/page/n39/mode/1up?view=theater)
 
 #### 1850-12-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -2488,7 +2488,7 @@ eee ee
 Tirt tt   
 of which prescribe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016867:00295877637:1851081601:1102/pct:243.04482225656878,142.54917811910536,59.42812982998454,54.43276744812719/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016867:00295877637:1851081601:1102/pct:60.761205564142195,35.63729452977634,14.857032457496135,13.608191862031797/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2563,7 +2563,7 @@ square, or any lesser quantity of territory within
 thw.state, to the United States in Congress aVsem  
 verninent. periDanent seat of tl&#x27; iicueral Go
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026384:1861050901:0460/pct:18.02252816020025,61.47186147186147,10.79126686135447,4.338842975206612/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026384:1861050901:0460/pct:18.02252816020025,61.47842056932966,10.800537709173504,4.338842975206612/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2602,7 +2602,7 @@ December, 1789, as follows:
 a tract of country not exceeding ten miles  
 square,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_braniff_ver01:data:sn82014760:00237288890:1862032501:0300/pct:80.73394495412845,96.08540925266904,50.091743119266056,45.836298932384345/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_braniff_ver01:data:sn82014760:00237288890:1862032501:0300/pct:20.188116540490938,24.02135231316726,12.525808671713696,11.459074733096086/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2622,7 +2622,7 @@ It passed the Senate&#x27;by a vote of
 16 to 10, the House by a vote of 32 to ^9.?  
 [he same act provided that Congress shoul
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ellis_ver01:data:sn85025007:00415663602:1866110101:0007/pct:0.7921772496596113,82.63538513286242,16.709988860007428,3.43087790110999/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ellis_ver01:data:sn85025007:00415663602:1866110101:0007/pct:0.7963031728349218,82.64099114250476,16.714114783182737,3.43087790110999/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2724,7 +2724,7 @@ that, “Afterduly examining and weighing tho
 advantages and disadvantages of the several sit­  
 uations within tho limits,’* ho had thrown th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fullerton_ver02:data:sn84031492:no_reel:1873032501:0005/pct:20.362537764350453,32.28606144766533,11.178247734138973,1.2671411213331019/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fullerton_ver02:data:sn84031492:no_reel:1873032501:0005/pct:20.362537764350453,32.29040097205346,11.183282980866062,1.2714806457212289/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2748,7 +2748,7 @@ Hie constitution of government, of the United
 States.&quot; This shows the construction, put  
 upon this clause, by the Legislature of Virginia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_fezza_ver01:data:sn85025007:00415663730:1874051201:0452/pct:67.2426001982722,44.71990915972748,15.606854553179437,5.384178652535957/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_fezza_ver01:data:sn85025007:00415663730:1874051201:0452/pct:67.2426001982722,44.72621751198587,15.61157531983194,5.381024476406763/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2771,7 +2771,7 @@ tbe people thereof, &#x27;-to the state of Virginia, in
 tull and absolute right and jurisdiction, as well  
 of soil as of persons residing or to resi le there
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kuvasz_ver02:data:sn83045462:00280654012:1874101201:0147/pct:14.87202786612146,32.62870780770542,13.448432530667878,3.773156040459143/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kuvasz_ver02:data:sn83045462:00280654012:1874101201:0147/pct:14.879600181735574,32.6315490396636,13.463577161896108,3.773156040459143/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2788,7 +2788,7 @@ Maryland cession aod .-uch portion of the Vir­
 ginia cession as lay &quot;above a line to be run from  
 the point of land forming the upper caue of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_fezza_ver01:data:sn85025007:00415663766:1876032001:0273/pct:0.9971910112359551,34.86360612109115,15.870786516853933,1.834426385324589/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_fezza_ver01:data:sn85025007:00415663766:1876032001:0273/pct:0.9971910112359551,34.869942654373794,15.875468164794007,1.8312581186832684/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2817,7 +2817,7 @@ absolute right and exclusive jurisdiction as
 well of soil as of persons residing or to re  
 side therein.&quot; It will seem, therefor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barack_ver01:data:sn82014424:00211102998:1881100101:0407/pct:64.30401366353544,136.49105848235862,50.72587532023911,27.06621556307395/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barack_ver01:data:sn82014424:00211102998:1881100101:0407/pct:16.079436258808457,34.122764620589656,12.684176809737348,6.7665538907684875/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2864,7 +2864,7 @@ clieque. Section 2 authorizes the President of
 the United States to appoint three commission­  
 ers to survey aud define the limits of the dis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_otterhound_ver01:data:sn83045462:00280654759:1890022601:0439/pct:29.217624392695594,56.2575794324521,13.503099346624225,1.8311908804268737/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_otterhound_ver01:data:sn83045462:00280654759:1890022601:0439/pct:29.2260010051935,56.2575794324521,13.507287652873178,1.8342226534077128/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2895,7 +2895,7 @@ any district in the state not exceeding ten miles
 squarea which Gongress might hi upon and ac­  
 cept for that purpose. The contest in Congres
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pug_ver01:data:sn83045462:00280654814:1891070901:0118/pct:13.10129699556723,46.946462200699486,12.083401740272533,7.559860102232983/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pug_ver01:data:sn83045462:00280654814:1891070901:0118/pct:13.113610244623215,46.946462200699486,12.079297323920539,7.580037664783427/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2941,7 +2941,7 @@ risdieiion, as well as of soil as or persons
 residing or to reside therein,&quot; by a cession  
 from the State or Virginia to the Unite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_earl_ver02:data:sn84024441:211102482:1895082301:0137/pct:8.900316455696203,54.05486433818018,15.72389240506329,4.856843052016189/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_earl_ver02:data:sn84024441:211102482:1895082301:0137/pct:6.68909558678013,40.54864338180183,11.7949732831981,3.642632289012142/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

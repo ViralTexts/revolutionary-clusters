@@ -123,7 +123,7 @@ erto devised, the longitude ofthe Capitol, in the
 City of Washington from Greenwich observato­  
 ry, in England, for the purpose of fixing a firs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810022701:0380/pct:58.284671532846716,43.72479530734449,17.2992700729927,1.661982158132714/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810022701:0380/pct:58.27403758438241,43.71945259042033,17.302195463115,1.6658520690778755/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -258,7 +258,7 @@ tion of the longitude of the Capitol in
 the City of Washington, from Green­  
 wich, or some other known msridiui
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn83026170:00414216316:1822011401:0052/pct:81.68949771689498,41.515837104072396,15.859969558599696,1.9042232277526394/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn83026170:00414216316:1822011401:0052/pct:81.67706589560188,41.51192383825054,15.86262872216304,1.907185722813963/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

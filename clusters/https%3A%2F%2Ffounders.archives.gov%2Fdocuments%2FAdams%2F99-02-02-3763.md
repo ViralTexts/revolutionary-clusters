@@ -50,7 +50,7 @@ of protecting the inhabitants of the frontiers of
 the United States from the hostile incursions of  
 the Indians, the Preiident is hereby authorize
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789112801:0004/pct:19.18000561639989,78.01881359186024,24.90873350182533,13.207909387598388/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789112801:0004/pct:19.201067115978656,78.02361297753887,24.91575400168492,13.217508158955654/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -74,7 +74,7 @@ of the oflicers appointed over me, ac­
 cording to the articles of war.”  
 dAnd be it further enaled, That th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790090201:0653/pct:50.169082125603865,51.27450980392157,20.386473429951693,8.431372549019608/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790090201:0653/pct:50.169082125603865,51.28540305010893,20.394524959742352,8.43681917211329/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -96,7 +96,7 @@ the orders of the President of the Unit­
 ed States and the orders of the officers  
 appointed over me, according to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1795040101:0002/pct:26.562898698647615,66.7786308381318,15.84587905077826,5.35828534868842/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1795040101:0002/pct:26.582036233733096,66.78262955854127,15.852258229140087,5.362284069097889/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -208,7 +208,7 @@ between Fiance and America. On the 11th. the
 American brig Banian, loaded with Turkish  
 produce lor Boston, set sail, and got beyond th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215634:1836111501:0535/pct:63.44328965205603,25.914935707220575,18.13149570718482,14.007456440690863/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215634:1836111501:0535/pct:63.436123348017624,25.912964090079125,18.133212846869235,14.008926759991885/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -429,7 +429,7 @@ with your request, being aware of its many im
 perfections that in my opinion render it unworthy  
 of publication. It is well known that I had bu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn92053237:00212472025:1841021201:0159/pct:138.99765074393108,257.71849381686815,60.219263899765075,53.91135195220231/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn92053237:00212472025:1841021201:0159/pct:34.76983349657199,64.42962345421704,15.063663075416258,13.477837988050577/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -459,7 +459,7 @@ af win wnme giade we hile in the command of the weate
 division, therefore, I could not but consider myself  
 as the constitutional representative of the President
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271742940:1846081301:0186/pct:50.45561930475869,135.80004617871163,53.729328383395206,18.52920803509582/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271742940:1846081301:0186/pct:16.818539768252897,45.266682059570535,17.909776127798402,6.176402678365274/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -488,7 +488,7 @@ given up, or desired to give up for a Commission in the
 Line of the Army of the same grade. While in command  
 of the Western Division, therefore, I could not but consi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184637:1846081701:0752/pct:135.38033123259564,38.29043903575172,39.366847427817675,17.375101898218237/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184637:1846081701:0752/pct:45.12016412661196,12.761993479273405,13.120359515435718,5.791026238161776/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -567,7 +567,7 @@ President of the United States, and the
 Recording to the rules and articles for the  
 government of the armies of the Unite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_irmookrastrut_ver01:data:sn84026900:00295862658:1861052201:0087/pct:0.07595321282090232,63.00328910060111,16.63375360777761,6.374050130429851/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_irmookrastrut_ver01:data:sn84026900:00295862658:1861052201:0087/pct:0.08101676034229581,63.00706967600469,16.643880702820397,6.381611281237004/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -594,7 +594,7 @@ without mental reservation or evasion whatsoever,
 and that I will support the Constitution of the Uni­  
 ted States.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026384:1861061001:0570/pct:29.57687473816506,49.4146581406788,10.780617232230135,3.3743236596163304/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026384:1861061001:0570/pct:29.57687473816506,49.42121659288408,10.780617232230135,3.37760288571897/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -653,7 +653,7 @@ against all their enemies or opposers what­
 soever.&quot; This oath and honor alike forbid  
 me to abandon their standard at the firs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279523994:1861062801:0109/pct:12.307464454976303,45.57077625570776,37.514810426540286,9.751395230847285/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279523994:1861062801:0109/pct:4.101880645638976,15.188717532467532,12.503085048620367,3.2501352813852815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -706,7 +706,7 @@ the United States. ouon of
 Sworn to and subscribed before me, ,  
 at , this day of , 18—. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026396:1861070101:0009/pct:14.01685393258427,86.7474667196503,11.320224719101123,5.016888535664614/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026396:1861070101:0009/pct:14.021535580524345,86.75077819723161,11.324906367041198,5.023511490827207/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -729,7 +729,7 @@ standard at tho first hour of danger.
 In the national service I have been for  
 thirty-four years a Western man, and i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015486:00294555614:1861071801:0188/pct:43.70909090909091,96.23306233062331,16.472727272727273,6.544715447154472/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015486:00294555614:1861071801:0188/pct:32.787779596290235,72.18157181571816,12.365884706310238,4.905149051490515/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -816,7 +816,7 @@ Sworn and subscribed before me, a
 ustice of the peace, at Annapolis, Md.,  
 this 24th day of October, 1860
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_tesla_ver01:data:sn85038614:00175030876:1885050601:0449/pct:44.81779460482726,148.2599626742782,35.13172424672661,57.20715775606543/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_tesla_ver01:data:sn85038614:00175030876:1885050601:0449/pct:14.939264868275753,49.41998755809273,11.71057474890887,19.069052585355145/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -849,7 +849,7 @@ JAMFS MORRIS MORGAN.
 Sworn and subscribed before me, a Justice of  
 the Peace, at Annapolis. Md.,lbis 24ihday o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524718:1885052101:0315/pct:75.29935523487872,87.77926993041143,9.947804728277555,6.64143572213405/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524718:1885052101:0315/pct:75.287797390637,87.7685546875,9.950115118956255,6.6436767578125/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

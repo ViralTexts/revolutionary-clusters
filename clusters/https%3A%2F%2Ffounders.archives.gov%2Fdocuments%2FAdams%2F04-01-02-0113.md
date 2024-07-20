@@ -702,7 +702,7 @@ Their hidden strength, and throw out into practice,
 Virtues that shun the day, and lie concealed  
 In the smooth scasons and the calms of life.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_continental_ver02:data:sn82014760:00237288804:1861030501:0220/pct:256.53742110009017,255.5461185663326,55.63570784490532,13.521318158654664/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_continental_ver02:data:sn82014760:00237288804:1861030501:0220/pct:64.14881623449831,63.88652964158315,13.91206313416009,3.380329539663666/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -774,7 +774,7 @@ into practice virtues that shun the day, and
 lie concealed in the smooth seasons and the  
 calms of life
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_dassel_ver01:data:sn90059522:00175035424:1884072701:0400/pct:62.5985401459854,31.333772797187432,11.635036496350365,3.911228301472204/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_dassel_ver01:data:sn90059522:00175035424:1884072701:0400/pct:62.60340632603406,31.333772797187432,11.630170316301703,3.911228301472204/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -821,7 +821,7 @@ The easiest places in life fail to draw out
 the richest part of our nature, we are even  
 capable of better things. The mos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_casablanca_ver01:data:sn85052141:00206533651:1887032501:0052/pct:125.65645514223195,153.28006728343146,40.97374179431072,16.862910008410427/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_casablanca_ver01:data:sn85052141:00206533651:1887032501:0052/pct:31.41841061414307,38.320016820857866,10.244836547667898,4.215727502102607/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -868,7 +868,7 @@ practice
 Virtues that si un the day, and lie concealed  
 In the smooth seasons and the calms of life.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_agate_ver01:data:sn86074058:00383343598:1887033101:0864/pct:30.66881258941345,54.28978745463971,12.804005722460658,3.408501814411612/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_agate_ver01:data:sn86074058:00383343598:1887033101:0864/pct:30.663329161451816,54.282752364908646,12.806186304308957,3.411299727873526/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

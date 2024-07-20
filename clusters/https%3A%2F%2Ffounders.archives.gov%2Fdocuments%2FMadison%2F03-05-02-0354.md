@@ -63,7 +63,7 @@ latter, 1 transmittlie sequel of the communica­
 tions on that subject, received from the late  
 charge d’affaires at London. • •&#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1812111601:0206/pct:49.24955482065632,54.42914979757085,21.72475197150852,4.728744939271255/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1812111601:0206/pct:49.23702950152594,54.420336787564764,21.72558494404883,4.732027202072539/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -85,7 +85,7 @@ I transmit the sequel of the communi­
 cations on that subject, received fiom  
 the late Charge dWffairs at London
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:0041421616A:1812111701:0178/pct:28.400531679220204,12.551748436536599,16.20144734898833,4.932616929445961/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:0041421616A:1812111701:0178/pct:28.396337861783817,12.550642945217545,16.203977160858436,4.935118313663319/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -107,7 +107,7 @@ the commnniaations on that subject, receiv­
 ed from the late Charge d’Affairs at Lon­  
 don
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812111701:0229/pct:22.8808864265928,57.215158622392295,17.303785780240073,4.30811010986298/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812111701:0229/pct:22.876661742983753,57.20809676623056,17.306745445593304,4.311692586192709/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -148,7 +148,7 @@ by the latter, I transmit the sequal ol com­
 munications on that subject, received from  
 the late Charge d’Affairs in London
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812112601:0729/pct:51.04506858262573,30.63973063973064,21.66884389288047,4.941572588631412/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812112601:0729/pct:51.04506858262573,30.64303162342378,21.67973002394949,4.9448735723245525/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -187,7 +187,7 @@ which they have been mut by the latter, I transmit the
 sequel of the commuaicacicns op that fuhje &amp;, regiav.  
 ed from the lace charge d&#x27;affuirs at Londo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1812120101:0409/pct:54.09433092640959,21.627724327508346,20.29497618681825,3.406636559984292/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1812120101:0409/pct:54.09945204076407,21.627724327508346,20.300097301172734,3.4197264218862493/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

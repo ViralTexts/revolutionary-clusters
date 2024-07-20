@@ -323,7 +323,7 @@ perhape not without cause, at the consequences
 of water trasottion to Georgetown of the  
 ~uine whch aally comes to their marke
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pug_ver01:data:sn83045462:00280654899:1893051301:0136/pct:1.073545906104791,61.93078324225865,12.514020189072264,22.06609419724174/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pug_ver01:data:sn83045462:00280654899:1893051301:0136/pct:1.0815574427175132,61.94054124381993,12.522031725684986,22.06934686442883/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

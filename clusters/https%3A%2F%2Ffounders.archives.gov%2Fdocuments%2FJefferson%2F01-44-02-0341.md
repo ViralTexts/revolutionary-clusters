@@ -342,7 +342,7 @@ for the Legislature and Executive in their
 spheres, would render the Judiciary a pes­  
 porie BRANCH.” These then are Jefferson’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1834111801:0497/pct:79.07214986096882,53.38927637314734,14.517781355188058,13.0231037489102/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1834111801:0497/pct:79.07214986096882,53.39290903807033,14.522659641933753,13.0231037489102/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -413,7 +413,7 @@ This argument in favor of the arbitrary pow?&#x27;r of the j
 Couit, is not sustainable even in England, where the i  
 flatterer of the Crown is often discerned through the 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1839071901:0077/pct:15.93684837652666,40.04075394803871,16.175156389633603,7.559857361181865/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1839071901:0077/pct:15.93684837652666,40.04075394803871,16.190050640452785,7.566649685854983/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -435,7 +435,7 @@ to me to hare preferred him to some who were
 named In Boston, In Wlat Was DeEMed  
 ThE SAME Line oF POLitiCS.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023294:00200296096:1841052101:0222/pct:19.86588432523051,127.93591760835359,59.932942162615255,19.224717493920757/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023294:00200296096:1841052101:0222/pct:4.969595302998532,31.983979402088398,14.992660935206542,4.806179373480189/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -470,7 +470,7 @@ hrii spheres, would make the judiciary a despotic
 jranc h.&#x27;  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1841083101:0869/pct:33.08863025962399,34.813384813384815,16.38316920322292,11.634491634491635/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1841083101:0869/pct:33.09459862727544,34.82196482196482,16.38316920322292,11.634491634491635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -510,7 +510,7 @@ luic and executive also, in their spheres,
 would inihu ths ju.iiciary a despotic  
 branch.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_kingsombra_ver01:data:sn83016863:00415662051:1843050601:0112/pct:43.95032051282051,16.162790697674417,19.431089743589745,20.566860465116278/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_kingsombra_ver01:data:sn83016863:00415662051:1843050601:0112/pct:32.99258368410503,12.122093023255815,14.572058528763279,15.436046511627907/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -553,7 +553,7 @@ the coordinate branches should l?e checks on
 each other; but to give one a right to control  
 the other, not only in its own sphere of action
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1854111601:0191/pct:14.39439681197923,10.869771412311486,13.959666706919455,8.280375604666604/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1854111601:0191/pct:14.39439681197923,10.869771412311486,13.963691985670007,8.286698915552183/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -589,7 +589,7 @@ That instrument meant that the co-ordinate
 branches should be checks on each other;  
 but to give one a right to control the other
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159336:1854121101:0301/pct:13.801526717557252,40.240206532719725,13.038167938931299,11.999102031653385/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159336:1854121101:0301/pct:13.801526717557252,40.24768960227485,13.053435114503817,12.00284356643095/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -672,7 +672,7 @@ in their own sphere of action, but for the
 Legislative and Executive in their spheres,  
 wouldmake the Judiciary adespotic branch.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026050:00280775940:1857032701:0484/pct:42.60333575054387,32.359994357455214,16.116751269035532,7.166031880378051/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026050:00280775940:1857032701:0484/pct:31.96736174070716,24.277048949076033,12.094288304623753,5.374523910283538/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -698,7 +698,7 @@ ecutive also iu their spheres, would make the
 Judiciary a despotic branch.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84037930:00415668880:1857040101:0358/pct:25.021872265966753,74.55332972387656,10.89238845144357,3.573362208987547/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84037930:00415668880:1857040101:0358/pct:25.031593273063088,74.55332972387656,10.887527947895402,3.584190579317813/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -733,7 +733,7 @@ Oihd Executive also in their spheres, would
 make the Judiciary a despotic branch.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027352:00279528566:1857062501:0728/pct:5.936203690459162,47.32045996962465,12.887998855671578,5.641136906053374/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027352:00279528566:1857062501:0728/pct:5.9457397606446385,47.324076083025965,12.887998855671578,5.648369132856006/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -755,7 +755,7 @@ than the Exceutive to decide for them
 Both magist, ites are equally indpenden  
 n the sphere assigned to them. Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:0027952939A:1858103001:1007/pct:111.61836049259858,132.6154775083023,32.39208856822988,7.77900774881755/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:0027952939A:1858103001:1007/pct:37.206120164199525,44.205159169434104,10.797362856076626,2.5930025829391834/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -801,7 +801,7 @@ his defeat in this district.
   
 ays: &quot;The Judiciary of the United the mocecament and the cserne
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:0027952939A:1858103001:1007/pct:80.88070655554174,148.2137466036027,94.45204627441224,88.16544228640434/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:0027952939A:1858103001:1007/pct:26.96023551851391,49.404582201200895,31.48401542480408,29.388480762134783/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -823,7 +823,7 @@ ative and Executive also, in their spheres, themiselves, thry do not tie un
   
 ould make the Judiclary a despotic hands, but they do very pronerly limr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:0027952939A:1858103001:1007/pct:111.36957333001617,160.62191808392876,65.45590247543227,6.168863842205897/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:0027952939A:1858103001:1007/pct:37.12319111000539,53.54063936130959,21.818634158477423,2.0562879474019655/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -875,7 +875,7 @@ sphere of act:on, but for the legislative and executive
 also, in their spheres, would make the  
 judiciary a despotic branch.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1859092901:0595/pct:27.52249550089982,14.260148817933503,13.377324535092981,2.8539135348968636/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1859092901:0595/pct:27.52649470105979,14.266428055634046,13.377324535092981,2.8539135348968636/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -963,7 +963,7 @@ and Frerutive ase in their spherrt would meke the Judtelw
 a despotic branch.&quot;  
 In a letser adoressed to Mr. Torrance on the 1t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530649:1860041801:0772/pct:148.44229217110572,47.71318282840098,47.02179176755448,37.58334308106211/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530649:1860041801:0772/pct:49.480764057035245,15.904394276133662,15.673930589184826,12.527781027020705/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1070,7 +1070,7 @@ been a pleasure to me to have pre­
 ferred him to some who were  
 named in Boston.1
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn82016419:00212472979:1873101701:0046/pct:30.029115934356803,87.3027962136873,11.8713605082054,3.264062670003264/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn82016419:00212472979:1873101701:0046/pct:22.52812706816678,65.47709716026547,8.908007941760424,2.4589272114024587/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1091,7 +1091,7 @@ him to some who were named in Boston,
 in what was deemed the same line of poli­  
 tics.&quot; To this evident offer of reconciliatio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kautsky_ver01:data:sn87056600:00271740578:1879122401:0387/pct:5.586370839936609,78.01196240387354,19.235340729001585,4.471660495585303/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kautsky_ver01:data:sn87056600:00271740578:1879122401:0387/pct:4.2013476020610385,58.51609228140131,14.427269124058661,3.3608658501851325/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

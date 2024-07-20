@@ -1501,7 +1501,7 @@ il-c law:, by the perspicuity, the
 j 3T,and the stability,, as well as by  
 r and equal spirit &quot; of which, th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn87065188:00295877935:1839060101:0066/pct:0.1803968731208659,74.62622351296118,19.452796151533374,23.502205012369583/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn87065188:00295877935:1839060101:0066/pct:0.13531799729364005,55.97504571367108,14.599308374680499,17.629342798752287/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1804,7 +1804,7 @@ popular government, without popular Informa­
 tion or the means of acquiring It, is but a pro­  
 log to a farce or a tragedy, or perhaps to tKilh.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_north_ver02:data:sn84031492:no_reel:1880090201:0005/pct:28.624733475479744,41.21224407054531,13.059701492537313,2.2906953172511657/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_north_ver02:data:sn84031492:no_reel:1880090201:0005/pct:28.644722814498934,41.22744780052706,13.06636460554371,2.2805594972633285/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1826,7 +1826,7 @@ Government, without popular information or the
 means of acquiring it, is but a prologue to a farce  
 or a tragedy, or perhaps both.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_charlie_ver01:data:sn83045160:00280779593:1880090201:0227/pct:150.98435133770823,26.757324267573242,35.28520949015649,7.2392760723927605/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_charlie_ver01:data:sn83045160:00280779593:1880090201:0227/pct:37.750851950018934,6.689331066893311,8.822415751609238,1.8098190180981901/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1847,7 +1847,7 @@ Information or the means of soqulring it,
 is but s prologue to a farce or a tragedy,  
 or perhaps to both.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_eritrea_ver01:data:sn84026844:00202193456:1880090201:0845/pct:23.78351539225422,83.12051775406682,12.189672293942403,3.445863214972888/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_eritrea_ver01:data:sn84026844:00202193456:1880090201:0845/pct:23.795928500496526,83.12489067692846,12.195878848063556,3.45898198355781/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1865,7 +1865,7 @@ formation or the means of acquiring it, is
 but a prologue to a farce or a tragedy, or  
 perhaps both.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348732:1880090901:0152/pct:5.112179487179487,77.07983696955166,11.057692307692308,1.8940302085830736/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348732:1880090901:0152/pct:5.111360358916841,77.07059810619681,11.059926293863162,1.8967997123336928/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1989,7 +1989,7 @@ or the means of acquiring it, is but a pro-
 logue to a farce or tragedy, or perhaps to  
 both.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_archives_ver01:data:sn87082573:00211101131:1880103101:0473/pct:79.27031509121062,82.00859291084855,59.3698175787728,16.27282491944146/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_archives_ver01:data:sn87082573:00211101131:1880103101:0473/pct:19.817578772802655,20.502148227712137,14.8424543946932,4.068206229860365/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2007,7 +2007,7 @@ ular information or the means of ac­
 quiring it, is but the prologue to a  
 farce or tragedy, or oerhaps to both.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159191:1880120901:0627/pct:44.035408177602925,70.06546100077665,9.652943656034846,1.8306890047708866/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159191:1880120901:0627/pct:44.035408177602925,70.06546100077665,9.66699452016299,1.8343873663966863/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2054,7 +2054,7 @@ public mind which i* the bet security
 again-! crafty and dangerous encroach­  
 ment* on the public liberty.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn82006687:00415623628:1881012001:0118/pct:84.39766495666018,49.77900552486188,16.20378560056607,9.530386740331492/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn82006687:00415623628:1881012001:0118/pct:65.41607640634282,38.585599086562475,12.562262943837682,7.382430600156997/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2135,7 +2135,7 @@ lar information, or tbe means of obtain­
 ing it, is but a prologue to a farce or  
 tragedy, or perhaps both!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762325:1881022201:0272/pct:60.51249403151361,17.066957787481805,10.75919146904345,1.6739446870451238/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762325:1881022201:0272/pct:60.51249403151361,17.076055312954875,10.771128441827152,1.6648471615720524/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2181,7 +2181,7 @@ tongues and lick the feet ol the strong­
 est.  
 The education of the 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_nova_ver02:data:sn86092518:00383341632:1881042701:0401/pct:24.53818181818182,7.4437332232087545,11.229090909090909,10.055750567829858/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_nova_ver02:data:sn86092518:00383341632:1881042701:0401/pct:24.534613147178593,7.442964798183132,11.232305604033353,10.058153539107394/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2218,7 +2218,7 @@ is but a prologue to a farce or a tragedy,
 or perhaps to both.  
 Many people regard religion ver
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_nova_ver02:data:sn86092518:00383341632:1881051601:0465/pct:36.11353711790393,10.054939359386339,11.149927219796215,11.25738571576656/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_nova_ver02:data:sn86092518:00383341632:1881051601:0465/pct:36.10828118177849,10.053897180762853,11.153155775481492,11.259673852957436/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2236,7 +2236,7 @@ ment without means or access to education
 was a prologue to a farce or a tragedy.  
 or perhaps both. Education does not make 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_willys_ver01:data:sn83030214:00175039855:1881052501:0478/pct:102.6398804582434,56.80631310200766,47.93292379213017,6.661251015434606/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_willys_ver01:data:sn83030214:00175039855:1881052501:0478/pct:34.213293486081135,18.93543770066922,15.97764126404339,2.220417005144869/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2275,7 +2275,7 @@ ormation, or the means of acquiring it, is
 but a prologue to a farce or a tragedy, or  
 perhaps both.&quot; Wilmington Star
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84020714:00296023012:1882032401:0276/pct:95.15027322404372,90.6755470980019,17.19945355191257,3.372449518976636/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84020714:00296023012:1882032401:0276/pct:71.39538062047288,68.00930330901787,12.915129151291513,2.537266095781795/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2321,7 +2321,7 @@ popular government without popular infor
 ation or the means of acquiring it is but a  
 prologue to a farce of tragedy, or both
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777067:1882080401:0358/pct:104.71380471380472,67.46339000168322,43.85521885521886,10.30129607810133/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777067:1882080401:0358/pct:26.189473684210526,16.865847500420806,10.968421052631578,2.5753240195253326/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2359,7 +2359,7 @@ ernment without popular Information or
 the means of acquiring it Is but a prologue  
 to a farce or tragedy or perhaps bot
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_dracula_ver01:data:sn86069309:00100481807:1883100301:0664/pct:41.54571843251089,124.41200324412003,15.910740203193033,3.0008110300081103/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_dracula_ver01:data:sn86069309:00100481807:1883100301:0664/pct:31.17967332123412,93.30900243309003,11.941923774954628,2.2539875642065423/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2382,7 +2382,7 @@ governors, must aim themseives with the
 power which knowledge gives. The hest  
 service
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eagle_ver01:data:sn83025733:00200297143:1884040801:0660/pct:177.36720554272517,229.3749129890018,50.50038491147036,14.92412640957817/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eagle_ver01:data:sn83025733:00200297143:1884040801:0660/pct:44.358875625721986,57.34372824725045,12.629957643434732,3.7310316023945425/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2430,7 +2430,7 @@ stability; as well as by the jest aud equal
 .spirit of which the great social purposes  
 are to be answered.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_berenice_ver01:data:sn90061066:00200291943:1885011301:0458/pct:45.069296375266525,101.0069345492543,19.363006396588485,24.707893986890852/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_berenice_ver01:data:sn90061066:00200291943:1885011301:0458/pct:33.81764862703279,75.75757575757575,14.529458810983737,18.533295335803174/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2467,7 +2467,7 @@ not only consults her owBiJ&amp;Jf are but is
 giving an impetus to any of her sisters  
 who may behind her in the noble career.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_berenice_ver01:data:sn90061066:00200291943:1885011301:0458/pct:65.53837953091684,36.00265982711124,19.20309168443497,10.686805357651753/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_berenice_ver01:data:sn90061066:00200291943:1885011301:0458/pct:49.17355371900826,27.006744561603497,14.409490802452678,8.017478863873848/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2492,7 +2492,7 @@ in the hands of a few in our land as dan
   
 gerous to the liberties of all. It so, the anti
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_berenice_ver01:data:sn90061066:00200291943:1885011301:0458/pct:65.45842217484008,49.62477438966467,19.21641791044776,4.920680155789873/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_berenice_ver01:data:sn90061066:00200291943:1885011301:0458/pct:49.1069048253799,37.2185807922485,14.422820581178353,3.6952598081124726/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2575,7 +2575,7 @@ ular information or the means of acquir­
 ing it, is but the prologue to a farce or  
 tragedy, or both.&quot; When the great end
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_ernie_ver01:data:sn83045160:00280779994:1885091101:0238/pct:197.69028871391077,258.27690870884896,33.59580052493438,5.696941396217604/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_ernie_ver01:data:sn83045160:00280779994:1885091101:0238/pct:49.435547387765816,64.56922717721224,8.40115515883434,1.424235349054401/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2592,7 +2592,7 @@ Madison, in 1826, added his warning voice in the declaration, &quot;That a
 popular government without popular information or the meansof acquiring  
 it, is but the prologue to a farce or tragedy, or both.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033429:00280779325:1885102901:0323/pct:5.618181818181818,98.57747020376779,29.618181818181817,2.550301166218121/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033429:00280779325:1885102901:0323/pct:4.219716260458348,73.93310265282584,22.22626409603492,1.9223375624759709/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2609,7 +2609,7 @@ Madison, in 1826, added his warning voice in the declaration, &quot;That a
 popular government without popular information or the means of acquiring  
 it, is but the prologue to a farce or tragedy, or both.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_frank_ver01:data:sn85033964:00296020552:1885102901:0608/pct:4.632693580410324,99.10336877161522,30.823957643944407,2.5874215447675164/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_frank_ver01:data:sn85033964:00296020552:1885102901:0608/pct:3.4762456546929315,74.3307288330985,23.141863929812946,1.9469706673498142/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2631,7 +2631,7 @@ A Sad Career­
 The divorced wife of a Bonanza  
 millionaire recently came to 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213042:1885111901:0206/pct:32.66413456321215,80.90981856990395,12.461566286851149,5.856456776947706/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213042:1885111901:0206/pct:32.65822784810127,80.89902627717754,12.46383363471971,5.859010270774976/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2669,7 +2669,7 @@ mation, or the means of acquiring
 it. is hut a prologue to a farce, or  
 a tragedy, or, perhaps, to both.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213042:1886050501:0296/pct:46.45422729784491,33.55669425831034,12.617424940136305,3.875968992248062/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213042:1886050501:0296/pct:46.445672191528544,33.55228586442459,12.619705340699817,3.8787440882816604/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2710,7 +2710,7 @@ tncm omor than a present warning more
 emphatic and Impressive when wo re­  
 member that in the last ten years illite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033429:00280779325:1886072901:0479/pct:86.69291338582677,28.14363143631436,16.08267716535433,4.159891598915989/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033429:00280779325:1886072901:0479/pct:65.05810518022454,21.11111111111111,12.074059483947213,3.116531165311653/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2739,7 +2739,7 @@ the power which knowledge gives.&quot; He
 said he would be a monarchist if he did not  
 believe in the education of the people; tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762283:1889061901:0265/pct:51.245019920318725,69.98198661863098,10.906374501992032,2.0972722593926916/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762283:1889061901:0265/pct:51.25332005312085,69.98198661863098,10.90222443559097,2.0972722593926916/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2859,7 +2859,7 @@ vicious kind, roust bo a good substitute
 for the amusement too apt to fill tho  
 leisure of tho idle
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_dracula_ver01:data:sn84037890:00206533791:1891021801:0262/pct:23.381421534130894,48.65889622244067,14.215341308937369,5.5891026541216124/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_dracula_ver01:data:sn84037890:00206533791:1891021801:0262/pct:17.546638507567756,36.49768290970369,10.665258711721226,4.195337733464401/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2935,7 +2935,7 @@ GLENGARY.
 The weather is unusually mild for  
 this season of the year
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059533:00393349116:1893123001:0209/pct:44.29809358752166,65.21167499342624,10.121317157712305,6.744675256376545/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059533:00393349116:1893123001:0209/pct:44.29041760526772,65.20310240567898,10.123895338762779,6.747075062442487/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2965,7 +2965,7 @@ people who mean to be their own governors must arm themselves with the power
   
 which knowledge gives.&quot;-James Madison
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_delta_ver01:data:sn86071197:00175034833:1896032301:1197/pct:17.40506329113924,96.05263157894737,91.53481012658227,10.131578947368421/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_delta_ver01:data:sn86071197:00175034833:1896032301:1197/pct:4.35126582278481,24.013157894736842,22.883702531645568,2.5328947368421053/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2983,7 +2983,7 @@ and the people who mean to be their own
 governors must arm themselves with the  
 power which knowledge gives.&quot; Thus al
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_charlie_ver01:data:sn86071197:00175034973:1899060201:1004/pct:197.01492537313433,55.739644970414204,51.92458758837392,7.337278106508876/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_charlie_ver01:data:sn86071197:00175034973:1899060201:1004/pct:49.28276675181765,13.934911242603551,12.98879937119277,1.834319526627219/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

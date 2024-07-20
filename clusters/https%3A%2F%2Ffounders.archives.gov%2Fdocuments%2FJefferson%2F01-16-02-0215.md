@@ -132,7 +132,7 @@ said so in direct terms, slid not left It to lie eff- rte.l hy s
 side-wind. It rould never mean to give them (he me ol  
 one power through the abuse of another
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:0041418408A:1834052001:0023/pct:2.5407346037006353,41.309106830122595,15.43772438552886,38.91199649737303/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:0041418408A:1834052001:0023/pct:2.5403838188595884,41.304585750246254,15.440195130931015,38.91138593995112/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -663,7 +663,7 @@ by the hand of General Washing­
 ton : &quot;Construction of the pow­  
 ers of the Senate with respect t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033395:00212470363:1868120301:0676/pct:43.3768115942029,21.268359330524877,31.884057971014492,24.21723784583855/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033395:00212470363:1868120301:0676/pct:32.540947963472966,15.951269497893659,23.91650963907813,18.171467607878856/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -699,7 +699,7 @@ to be acquainted with the concerns of the Executive
 Department. It was not intended that these should  
 be communioated to them.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043056:1899012801:0376/pct:123.26996197718631,27.275476262473543,54.06844106463878,49.41034169942546/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043056:1899012801:0376/pct:30.823350446853013,6.818869065618386,13.51968054763263,12.352585424856365/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -746,7 +746,7 @@ have no more to do with the future inten­
 tions of the Executive on any question  
 than they have with the secret policies o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043056:1899012801:0376/pct:124.10646387832699,95.07106138494103,52.01520912547529,69.67039612942244/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043056:1899012801:0376/pct:31.03251568739304,23.767765346235258,13.0062749572162,17.41759903235561/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -785,7 +785,7 @@ concerns cf the executive department.
 It was net intended that these should  
 be communicated to them.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_elk_ver01:data:sn84020558:0020219266A:1899020401:0038/pct:40.18826937002172,108.5298917074618,16.6183924692252,9.701824655095683/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_elk_ver01:data:sn84020558:0020219266A:1899020401:0038/pct:30.152118797537124,81.39741878059635,12.477363274176023,7.283785788458686/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -820,7 +820,7 @@ senate.&quot;
 And, he added, &quot;the transaction of  
 foreign business is executive alto
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_elk_ver01:data:sn84020558:0020219266A:1899020401:0038/pct:58.14627081824764,9.44963655244029,16.67270094134685,13.692330514760421/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_elk_ver01:data:sn84020558:0020219266A:1899020401:0038/pct:43.625498007968126,7.090936062898679,12.513582035494386,10.280373831775702/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

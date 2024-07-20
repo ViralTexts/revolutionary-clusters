@@ -454,7 +454,7 @@ In the 9th number, urging the utility
 of the Union, as a safeguard against do­  
 mestic faction and insurrection, he use
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867030501:0206/pct:104.94203782794386,171.0694597574421,37.58389261744966,4.013230429988974/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867030501:0206/pct:26.243515410436373,42.767364939360526,9.398840402807446,1.0033076074972436/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

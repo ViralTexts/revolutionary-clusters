@@ -70,7 +70,7 @@ rogues, just like their mama. Adieu,the bell
 rings, and I must go among the graze one*  
 and talk politics. B. F
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hershey_ver01:data:sn85025182:00296028393:1850020701:0014/pct:79.84524023753823,51.09335576114382,12.614720172755083,17.493692178301092/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hershey_ver01:data:sn85025182:00296028393:1850020701:0014/pct:79.85723711834923,51.10270068217923,12.60872173234959,17.484347257265675/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -164,7 +164,7 @@ pravers, or learning to cypher. You must
   
 1 practice addition to your husband&#x27;s estate j Female Academy, to be present at one o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058217:00271744766:1850021301:0438/pct:38.30233953209358,77.69249814310473,35.137972405518894,12.862094577865808/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058217:00271744766:1850021301:0438/pct:28.738563071846407,58.269373607328546,26.353682315884207,9.65585540975489/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -194,7 +194,7 @@ ters. nfumn. iuiev. bl.ihino-. nrttv little i
 ro-mes just like their mam  
 the bell rin and I mus
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058217:00271744766:1850021301:0438/pct:38.30233953209358,90.46793760831889,35.18296340731854,10.188165387472147/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058217:00271744766:1850021301:0438/pct:28.738563071846407,67.85095320623917,26.383680815959202,7.650408516959644/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -306,7 +306,7 @@ rogues, just like their mamma. Adieu;
 the bell rings, and I must go among the  
 grave ones and talk politics
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn86071377:00212477618:1850021401:0180/pct:49.910714285714285,30.891134588883784,19.88095238095238,26.171336701883327/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn86071377:00212477618:1850021401:0180/pct:37.45162250669842,23.1740927882407,14.915153319440309,19.625631603123566/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -355,7 +355,7 @@ their mamma. Adieu; the bell rings, and
 I must go among the grave ones and talk  
 olitics
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn87070038:00296028058:1850021501:0573/pct:177.6165011459129,271.0179141785863,50.496562261268146,74.71184557700319/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn87070038:00296028058:1850021501:0573/pct:44.42109285441345,67.75447854464657,12.628964463125717,18.677961394250797/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -484,7 +484,7 @@ blushing, pretty little, rogues, just like their
 mamma. Adieu--the bell rings, and I must  
 go among the grave ones and talk politics
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_harrison_ver01:data:sn82015672:00296021817:1850022201:0266/pct:108.15347721822542,306.2084257206208,66.98641087130295,66.18625277161863/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_harrison_ver01:data:sn82015672:00296021817:1850022201:0266/pct:27.049180327868854,76.5521064301552,16.753298680527788,16.546563192904657/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -516,7 +516,7 @@ you, I may find you like a grape vine, surround­
 ed with cluster*, plump, juicy, blushing, pretty  
 little rogues, ju*t like their mamma.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040303:00514151337:1850022201:0553/pct:55.483689538807646,39.360780065005414,12.4859392575928,8.559046587215601/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040303:00514151337:1850022201:0553/pct:55.488376452943385,39.360780065005414,12.490626171728534,8.562657999277718/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -557,7 +557,7 @@ I drd with clusters, plump, juicy, blushing, pretty
 : belt rings, aod 1 roust go among the grave ones  
 aud talk politics. B. F
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82007022:00393342894:1850022601:0585/pct:55.743068710177376,68.17076465820048,13.19097640778371,12.456092947851932/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82007022:00393342894:1850022601:0585/pct:55.73347107438016,68.1615561258949,13.193009641873278,12.457787383493178/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -608,7 +608,7 @@ From the Metropolitan.
 We are indebted to the courtesy of Col  
 E. B. Ewing, Secretary of State, for the fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn89066057:00200292121:1850030401:0741/pct:51.82546749777382,27.542640555906505,23.46393588601959,33.85975994946305/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn89066057:00200292121:1850030401:0741/pct:38.877755511022045,20.65698041692988,17.613003785348475,25.394819962097284/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -635,7 +635,7 @@ chilisen and lore like a Chnstian.
 your spare hours id sobr whist, pravers  
 or learning to cipher. Yo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279559836:1850030701:0166/pct:73.01661596068337,42.02059202059202,51.790311256728295,26.85006435006435/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279559836:1850030701:0166/pct:18.249883013570425,10.503458259610746,12.944548432381843,6.711436384108091/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -696,7 +696,7 @@ pretty little rogues, just like, their mama. Adieu;
 &quot; the bell rinevesd 1 most go home to the grave  
 4nes and talk politics
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ingstad_ver01:data:sn90068958:00296027017:1850030901:0097/pct:7.398697539797395,53.227466549036905,20.586107091172213,20.614615497720923/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ingstad_ver01:data:sn90068958:00296027017:1850030901:0097/pct:5.5565610859728505,39.92059991177768,15.457013574660634,15.468313483311277/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -747,7 +747,7 @@ rogues just like their mamma. Adieu, the
 bell rings, and I must go among the grave  
 Ones and talk politic, - &quot; b. &#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_icydrop_ver05:data:sn83016872:00295878502:1850031601:0827/pct:82.04022988505747,50.778063151533466,21.240421455938698,25.48723372110591/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_icydrop_ver05:data:sn83016872:00295878502:1850031601:0827/pct:61.571633924293245,38.087324369240065,15.931959750838525,19.11164828523946/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -794,7 +794,7 @@ muminu Adieu: tlio bell rings, and I must
 go among tho grave ones and talk politics.  
 i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035487:00237283776:1850031601:0051/pct:50.10195758564437,49.906191369606006,18.78058727569331,45.40337711069419/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035487:00237283776:1850031601:0051/pct:37.5968992248062,37.429643527204504,14.096287229702162,34.06816760475297/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -841,7 +841,7 @@ mamma. Adieu, the bell rings, an
 must go among ihe grave ones, and jaik  
 politics. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_antares_ver02:data:sn84026824:00271767742:1850031901:0065/pct:47.93411118737131,74.75167912212657,15.85449553877831,20.773815154668434/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_antares_ver02:data:sn84026824:00271767742:1850031901:0065/pct:47.93868679935942,74.75798568410431,15.859071150766415,20.773815154668434/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -888,7 +888,7 @@ mamma. Adieu; the bell rings, and I
 must go among the grave ones and talk  
 politics. F
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82014751:00513688222:1850032001:0199/pct:17.103816554107116,71.08731466227347,14.182503533846395,19.757590021181453/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82014751:00513688222:1850032001:0199/pct:17.114287210093714,71.08731466227347,14.177268205853096,19.773279987448028/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1054,7 +1054,7 @@ with clusters, plump, juicy, blushing, pretty little rogues,
 just like their mamma. Adieu, the bell rings, and I must  
 go among the grave ones and talk politics. B. F.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024718:00414183736:1850042401:0067/pct:50.28318828567482,17.505576568713025,15.347423677303494,12.995829696440694/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024718:00414183736:1850042401:0067/pct:50.27624309392265,17.50387897595035,15.349907918968693,12.997801913628136/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1127,7 +1127,7 @@ cv. bWuiiig, pretty little rogues, just like their
 mamma. Auieu, tne oeu rsuea, u iuu 6w  
 among the grave ones, and Uik politics
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn86071377:0021247762A:1853010601:0079/pct:84.03614457831326,69.13286546925181,19.698795180722893,23.920542405138576/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn86071377:0021247762A:1853010601:0079/pct:63.03660189787619,51.84964910193886,14.776321735201085,17.949327941001545/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1178,7 +1178,7 @@ among the grave ones, and talk poli
 ties. e e B  
 EipoRTeNT Decision of the S
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn86053240:00237288476:1853011101:0229/pct:251.5309155766944,144.9255751014885,44.32223543400713,67.34325665313487/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn86053240:00237288476:1853011101:0229/pct:83.8436385255648,48.3085250338295,14.774078478002378,22.44775221771162/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1220,7 +1220,7 @@ iust like their mama. Adieu, the bell rings, and I
 . V 1 11 T . &quot;  
 must go among uie grave ones, anu taiK pouues
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn86071264:00200293150:1853011101:0036/pct:48.74856156501726,87.59584077302804,18.944188722669736,17.634702237159964/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn86071264:00200293150:1853011101:0036/pct:36.57553956834533,65.69688057977103,14.215827338129497,13.233904001680497/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1312,7 +1312,7 @@ nicy blushing, pretty little rogues, just like their
 mamma. A dieu, the bell rings, and I must go  
 among thegrave ones, and talk politics
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn86092535:00202190522:1853011301:0487/pct:175.1246643651707,196.5433962264151,55.868814729574225,49.32830188679245/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn86092535:00202190522:1853011301:0487/pct:43.781166091292675,49.135849056603774,13.967203682393556,12.332075471698113/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1350,7 +1350,7 @@ As to division, I say with your brother Paul, profit of $80 000, in all $460 000
   
 your good sister Hubbard (my love to her) is England, drawing 2 per cent., producin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_harrison_ver01:data:sn82015672:00296021830:1853011801:0443/pct:140.42666666666668,282.5530171089028,112.16,45.3232250793976/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_harrison_ver01:data:sn82015672:00296021830:1853011801:0443/pct:35.10666666666667,70.6382542772257,28.04,11.3308062698494/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1369,7 +1369,7 @@ surrounded with clusters, plump, juicy, blush. The property falls to three heirs
 ing pretty little rogues just like their mamma.  
 Adien, the bell rings, and I must go among 00It is stated that at Nottingham, Eng
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_harrison_ver01:data:sn82015672:00296021830:1853011801:0443/pct:140.8,331.68732711812316,111.73333333333333,10.900522487450056/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_harrison_ver01:data:sn82015672:00296021830:1853011801:0443/pct:35.2,82.92183177953079,27.933333333333334,2.725130621862514/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1416,7 +1416,7 @@ just like their mamma.
 Adieu, the bell rii:e;s.  
 among the grave ones, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn86063325:00200292467:1853012001:0230/pct:93.07458143074581,32.25410464937855,17.04718417047184,27.8502378394967/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn86063325:00200292467:1853012001:0230/pct:69.83250856490294,24.198250728862973,12.79025504377617,20.883842258707993/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1510,7 +1510,7 @@ the grave ones, and talk
   
 politics. B. F.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn85038121:00280775514:1853012701:0020/pct:57.852807283763276,54.76258581235698,16.38846737481032,30.90675057208238/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn85038121:00280775514:1853012701:0020/pct:43.42379958246347,41.075514874141874,12.298348832795597,23.183638443935926/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1546,7 +1546,7 @@ juicy, Mashing, pretty little rogues; just like their m*ma.
 Adieu, the bell rings, apd I must go among the grave ones and  
 talk politics, * 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barnes_ver02:data:sn83030362:print00211110041:1853013001:0001/pct:65.52215415301325,87.14009454232918,9.787719048297479,5.113880532874946/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barnes_ver02:data:sn83030362:print00211110041:1853013001:0001/pct:65.52571591394785,87.14815212720241,9.791280809232084,5.113880532874946/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1592,7 +1592,7 @@ their mamma. A dieu, the bell rings, and I
 must go anmong the grave ones and tidk pol­  
 itics. -B F.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn84026897:00237288270:1853020201:0022/pct:43.20880393860411,69.06616704467015,14.219519258615696,17.16793215659205/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn84026897:00237288270:1853020201:0022/pct:43.21363065933005,69.07274101830852,14.224345979341635,17.164645169772868/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1636,7 +1636,7 @@ just like their mamma. Adien, the bell rings,
 and I must go among the grave ones to talk  
 politics
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776026:1853020501:0645/pct:320.109439124487,93.37098292322173,47.879616963064294,68.79117923894043/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776026:1853020501:0645/pct:80.06843455945253,23.342745730805433,11.976047904191617,17.197794809735107/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1681,7 +1681,7 @@ ing, pretty little rogues: just like tneir mama.
 Adieu, the bell rings, and I must go amoag  
 the grave ones and talk politics,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026050:00280775940:1853021201:0020/pct:110.50179211469533,7.74808075063975,17.275985663082437,21.310776229741258/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026050:00280775940:1853021201:0020/pct:82.92989062219831,5.814614728461757,12.963959117805272,15.993744668751777/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1773,7 +1773,7 @@ inr, pretty little rogues, like their mama.—
 Adit/u, tl.e bell rings,and I must go among &#x27;he  
 grave ones, and talk politics B. F
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn86083363:00415668831:1853030201:0332/pct:37.39887227261584,69.84068173397554,11.117921059083109,11.2078547610226/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn86083363:00415668831:1853030201:0332/pct:37.407044210182235,69.8437692972706,11.122007027866307,11.204767197727554/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1819,7 +1819,7 @@ just like their mamma. Adieu, the bell
 rings, and I must go among the grave ones  
 and talk politics. b. f
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ibizanhound_ver01:data:sn83045461:00280654000:1853041501:0386/pct:0.7424144609425436,11.580691941164284,20.077469335054875,25.139838408949657/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ibizanhound_ver01:data:sn83045461:00280654000:1853041501:0386/pct:0.7464493221433183,11.583281541330019,20.089573918657198,25.14760720944686/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1870,7 +1870,7 @@ the bell rings, and I must go among the
 i  
 grave ones and talk politics
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn86081965:00279528554:1853050501:0750/pct:55.6814961745537,50.87314662273476,12.822329271748371,19.46183415705656/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn86081965:00279528554:1853050501:0750/pct:55.6814961745537,50.880468606992494,12.836497591385662,19.45451217279883/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

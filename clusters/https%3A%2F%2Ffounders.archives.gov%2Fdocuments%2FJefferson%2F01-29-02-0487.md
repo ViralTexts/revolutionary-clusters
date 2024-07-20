@@ -224,7 +224,7 @@ from my having signed it j—.l have no reason to be-
 Leve or conjc&amp;ure, that ouu more favorable to uiis  
 attainable.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795081301:0002/pct:6.344974673420421,42.82403575566959,21.407624633431084,2.5658003641781164/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795081301:0002/pct:6.358304452146094,42.836450918722065,21.414289522793922,2.561661976493958/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -259,7 +259,7 @@ would, in future calvulat&#x27;e upon the new Hate of
 things,, but that in the mean time the care of go­  
 vernment ought not to be withdrawn from them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795081901:0002/pct:7.323568575233023,17.274857716772683,21.571238348868174,15.182457315031805/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795081901:0002/pct:7.330226364846871,17.279042517576162,21.577896138482025,15.182457315031805/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -291,7 +291,7 @@ In order to regulate what is in future to
 be esteemed contraband of war, it is agreed,  
 that under the said .denomination (hall b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797091901:0002/pct:43.05321454370335,35.006027727546716,17.023838189260776,11.738999397227245/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797091901:0002/pct:43.05923428846617,35.00979505726341,17.03587767878642,11.74653405666064/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -339,7 +339,7 @@ dualsof the other* nor ihares., nor monies,
 which they may have in public funds, or  
 in the public or private banks, lhall ever
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801122301:0002/pct:60.82160517306961,18.6625386996904,16.10878661087866,3.1826625386996903/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801122301:0002/pct:60.82794471915811,18.6625386996904,16.11512615696716,3.199174406604747/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -376,7 +376,7 @@ gether with the cost and charges of the trial.
 Art. 9- In order to regulate what is in future to  
 be esteemed contraband o1 war, it is agreed that un
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808041101:1075/pct:52.37850347132939,18.2053354890865,21.856518385188995,2.5545675020210186/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808041101:1075/pct:52.365038560411314,18.202392499191724,21.8573264781491,2.55819592628516/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -551,7 +551,7 @@ Hrfi- hy&#x27; &quot; .w will keep alive in the mind of the
 British minister that opinion which the solemnity of a  
 special mission must naluially inspire of the s/z-one&#x27; agi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661204:1852032501:0295/pct:16.179626877992405,24.313675648195222,16.080567937923064,1.614133197763091/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661204:1852032501:0295/pct:16.179626877992405,24.32214878834096,16.086071212371362,1.61836976783596/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -575,7 +575,7 @@ irritation of the&#x27; United States, at the vexations,
 spoliations, captures,&quot; &amp;c., &amp;c.  
 Such was the situation in which the Unite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661496:1852032901:0320/pct:44.950943396226414,35.80592488919991,14.581132075471698,5.073477956613016/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661496:1852032901:0320/pct:44.9559748427673,35.80592488919991,14.586163522012578,5.081253401757251/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -594,7 +594,7 @@ of a special mission must naturally inspire of
 in ;/mttg agitations excited in the fcojJo of  
 le United Siateri by the disturbed concitiol beweonlhe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014763:00415661460:1852033001:0385/pct:46.28531073446328,34.59652251448952,14.81638418079096,3.198840838163174/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014763:00415661460:1852033001:0385/pct:46.29472693032015,34.60023777678704,14.811676082862524,3.2062713627582107/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -648,7 +648,7 @@ shares in the public or in the public or private
 banks, or any other property whatever, be­  
 longing to the citizens of the party in the ter
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777791:1852081801:0558/pct:73.42549923195085,321.18226600985224,45.00768049155146,35.714285714285715/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777791:1852081801:0558/pct:18.36695485110471,80.29556650246306,11.258405379442843,8.928571428571429/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -707,7 +707,7 @@ ruption of friendly intercourse between the high contract­
 lug parties, the money, private debts, shares in the  
 pu .m funds or in the public or priv ate banks, or any othi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348410:1853061801:0577/pct:48.477751756440284,73.63573883161511,15.085870413739267,4.577319587628866/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348410:1853061801:0577/pct:48.46829268292683,73.62561847168774,15.08780487804878,4.580126443100605/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -742,7 +742,7 @@ form, October 28, 1795.
 The treaty restored the posts on the western fron­  
 tier t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743087:1853080401:0273/pct:187.93978349120434,244.54949310855451,59.99661705006766,27.383528875726164/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743087:1853080401:0273/pct:62.64659449706811,81.5164977028515,19.998872350022552,9.127842958575389/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -774,7 +774,7 @@ by raying of this Treaty as he sald of that  The door of
 conciliation is fairly and widely opened by the essential  
 justice done and the conveniences granted to each other.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fortran_ver01:data:sn83030214:00206531083:1871052301:0160/pct:105.85158548545276,282.7310155535224,47.548218372017,4.311527904849039/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fortran_ver01:data:sn83030214:00206531083:1871052301:0160/pct:35.283861828484255,94.24367185117414,15.849406124005666,1.4371759682830132/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -795,7 +795,7 @@ ences gi anted to each other.&quot;
 The democratic departure puts the  
 part&#x27; in the way of progress. It be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn85038238:00296028812:1871060101:0185/pct:25.123152709359605,87.18649118450459,13.931650246305418,5.078222001489943/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn85038238:00296028812:1871060101:0185/pct:18.848167539267017,65.39607648373479,10.455805358792732,3.8117705487956295/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -838,7 +838,7 @@ how little of the work afterward appears.’ It i
 know how little of the work afterward appears.&quot;  
 It is aiways easier to criticise a result than it i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777663:1871062101:0099/pct:114.0092879256966,207.95038060332675,45.27863777089783,4.116154496757823/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777663:1871062101:0099/pct:28.50783820398684,51.98759515083169,11.321850203212696,1.0290386241894558/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -952,7 +952,7 @@ money, private debts, shares in the
 public funds, or in the public or pri­  
 vate banks, or any other property wha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quasar_ver01:data:sn85025431:0021247972A:1874092401:0211/pct:78.05772994129158,61.52946906965416,11.472602739726028,10.560155869459328/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quasar_ver01:data:sn85025431:0021247972A:1874092401:0211/pct:70.25648552452941,55.38182774644183,10.321799434924596,9.498202647806647/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1042,7 +1042,7 @@ vate banks, or any other property whatever,
 belonging to the citizens of the one party in  
 the territories of the other, shall in no case be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_odoric_ver01:data:sn85038145:00415665805:1874110501:0509/pct:8.158682634730539,10.55135398877775,14.221556886227544,8.770431812637229/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_odoric_ver01:data:sn85038145:00415665805:1874110501:0509/pct:6.12367120826471,7.916565015857526,10.675250786045815,6.574774335203708/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1102,7 +1102,7 @@ friendly intercourse between the high contracting
 parties, the money, private debts, shares in the pub­  
 lic funds, or in the public or private banks, or an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_farmington_ver01:data:sn83016025:00279525383:1875020201:0194/pct:26.78835717809571,25.809909480705098,11.067258674560104,3.989995235826584/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_farmington_ver01:data:sn83016025:00279525383:1875020201:0194/pct:26.78395264715554,25.806835774681435,11.069549490299243,3.992497320471597/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

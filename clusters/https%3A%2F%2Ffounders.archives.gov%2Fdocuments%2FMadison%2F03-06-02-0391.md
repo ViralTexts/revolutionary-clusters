@@ -109,7 +109,7 @@ deemed consistent witii the principles of the const itu.­
 rfiou and the settled practice under it.  
 JAMES MADISON*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813081101:0568/pct:3.6536536536536537,17.95503036271131,21.796796796796798,32.28294764483834/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813081101:0568/pct:3.6527395546659993,17.952084017065967,21.797598198648988,32.281752543485396/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -201,7 +201,7 @@ piinciplct of the const:*u*ion, and the
 settled practice under »t.  
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813081201:0479/pct:80.74304322084073,9.807292137881118,16.88869153345175,46.8289152266353/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813081201:0479/pct:80.7310936806275,9.806404921295458,16.89112525282423,46.82769434895362/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -285,7 +285,7 @@ mode deemed • oirsistent with the principles of
 Hiu constitution and the settled practice under  
 JAMES MADISOfef
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813081201:0252/pct:57.7145961608113,14.023128423615338,35.02354219485694,81.97200243457091/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813081201:0252/pct:57.70414629730219,14.021421616358325,35.02323616392057,81.96608244076599/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -446,7 +446,7 @@ vi w pi the tnhj &lt;u t-inkesit my dnty not toa-c&#x27;-r •
 •«nd tb&#x27;t’h1 y &lt;»i!l be cheerfully furnished wit&#x27;, a’  
 ♦!•#* soita!’b- ifitormailnn In pon^s-ion of the r
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1813081301:0122/pct:23.57301704966642,66.24578072259033,18.161601186063752,28.34104263032879/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1813081301:0122/pct:23.568649249583103,66.2375,18.16441232783645,28.341666666666665/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -760,7 +760,7 @@ the senate passed a resolution, 22 to 14,
 “ that it is inexpedient at this time to  
 send a minister plenipotentiary to Swe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813091301:0576/pct:38.63636363636363,31.859154929577464,17.053291536050157,9.380281690140846/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813091301:0576/pct:38.630308729039335,31.85616374049385,17.055842866844277,9.382530591806717/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -822,7 +822,7 @@ ought Uierduic lobe maintained.’’
 It aeems to me a sufficient reply to the reasoning  
 of the President, which conducts him to this result, t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813111501:0364/pct:5.125368731563422,53.82247937953958,21.921091445427727,25.72941031638557/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813111501:0364/pct:5.124423963133641,53.81585425898572,21.923195084485407,25.730346299031677/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -853,7 +853,7 @@ the purpose, the objection to such a conference, being a
 gainst tlie principle as derogatory from the co-ordinate  
 relations of the tvv» Houses, would retain all its force. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813111501:0364/pct:27.710176991150444,35.725717099593744,22.123893805309734,9.10993475317001/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813111501:0364/pct:27.705069124423964,35.721319547021174,22.125960061443934,9.112916461513212/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -880,7 +880,7 @@ These conferees are not properly aud strictly speak­
 ing committees at all, nor are they so called iu the Jour  
 mils of either house, but managers on the fturt cf th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813111501:0364/pct:27.728613569321535,49.42755139726702,22.17920353982301,7.423365751569617/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813111501:0364/pct:27.723502304147466,49.42146725750862,22.18125960061444,7.426555063187264/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -913,7 +913,7 @@ rose, which could scarcely even happen in practice; he
 then makes a presumption from this supnosed iroogirt­  
 arv case. and then draw&lt;- big conclusion from some sup
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813111501:0364/pct:50.46091445427729,26.18490705404407,22.216076696165192,10.808814477409824/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813111501:0364/pct:50.45161290322581,26.18168389955687,22.218125960061442,10.81158706712621/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -967,7 +967,7 @@ the considerations that “the executive and seriate in
 cases of appointments to office, and treaties, are to be  
 considered independent, and eo-Ordinate with each o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813112001:0673/pct:28.733602421796167,44.500901491558764,21.796165489404643,22.389772168496968/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813112001:0673/pct:28.726355611601512,44.49360865290069,21.796973518284993,22.390199934447722/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -999,7 +999,7 @@ pose, the objection to such a conference, being against
 the principle, as derogatory from the co-oi-dmatc relati­  
 ons of the two houses, would retain all its force.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813112001:0673/pct:51.059535822401614,14.784461563678086,21.871846619576186,9.998360924438616/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813112001:0673/pct:51.04665825977301,14.782038675843985,21.872635561160152,10.00081940347427/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1022,7 +1022,7 @@ nal, with which each is to confer; but in fact fjura a
 principle of convenience, and reciprocal equality the  
 Conferees do confer with each other, bid expressly an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813112001:0673/pct:51.210898082744706,29.20832650385183,21.594349142280524,5.130306507129979/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813112001:0673/pct:51.19798234552333,29.20353982300885,21.595208070617907,5.133562766306129/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1060,7 +1060,7 @@ considerations respecting the nomination of Mr. Russell,
 hch it was the object of the Senate to ascertain. In re»  
 &#x27;using to meet the Executive committee, the committe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813112501:0376/pct:48.45470692717584,17.975689574567554,21.065719360568384,14.527816736792895/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813112501:0376/pct:48.44610193571302,17.973588874605586,21.06789794589475,14.530014413151026/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1089,7 +1089,7 @@ ever way Mr. Giles pursues his argument, he invaria*.
 bly halts at the piincipal question at issue, namely,  
 whether a committee of ’.he Senate is cO-ordinate, or e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813112501:0376/pct:48.93428063943162,47.62739597942964,20.74600355239787,8.087891538101918/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813112501:0376/pct:48.92559048126443,47.62183008063574,20.748238915527143,8.09084180592887/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1153,7 +1153,7 @@ senate ita-&#x27;lf, or between a com nittec
 v Ljng on the part of the Senate, and the  
 Executive upon subjects of tricir con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1813112701:0141/pct:6.646201074443591,5.6465116279069765,36.42363775901765,87.89767441860465/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1813112701:0141/pct:6.645181092694905,5.645986419867919,36.4231634949867,87.89259913806468/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1211,7 +1211,7 @@ f0rv from th** co-ordinate relations
 its force.”  
 &#x27;Phe reasoning of the Presiden
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1813112701:0141/pct:26.385264773599385,5.386046511627907,34.704528012279354,87.85116279069767/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1813112701:0141/pct:26.38121546961326,5.3855455306483115,34.70431757724575,87.84609183641832/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1295,7 +1295,7 @@ tween lke Senate iiself, or l-otweeu a
 commit.&#x27;a* acting on tha part of the  
 Senate, and the Executive upon *nb
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jumboshrimp_ver01:data:sn84025997:00414216596:1813120401:0076/pct:75.81566820276498,29.669248739702446,17.253456221198157,19.66064182958318/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jumboshrimp_ver01:data:sn84025997:00414216596:1813120401:0076/pct:75.80169553999262,29.66560118023113,17.256419707580783,19.662322760429472/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1336,7 +1336,7 @@ as derogatory from the co-ordinate re­
 lations ot the two Rousss, would retain  
 &#x27; ai! its force. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jumboshrimp_ver01:data:sn84025997:00414216596:1813120401:0077/pct:7.739602169981917,34.07398212512413,16.925858951175407,16.372889771598807/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jumboshrimp_ver01:data:sn84025997:00414216596:1813120401:0077/pct:7.738202856626288,34.06975300980514,16.928825408304707,16.374994828513508/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1369,7 +1369,7 @@ which ♦oobl scarcely even happen in
 practice : hi: then manes a presumption  
 horn this supposed imaginary case,an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jumboshrimp_ver01:data:sn84025997:00414216596:1813120401:0077/pct:25.66003616636528,72.0829195630586,16.329113924050635,12.301390268123138/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jumboshrimp_ver01:data:sn84025997:00414216596:1813120401:0077/pct:25.655396854095102,72.07397294278267,16.33218827216296,12.30400066195027/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1625,7 +1625,7 @@ loach other, If they agree, the appoint­
 ments or treaties are made. I they dis­  
 agree, they fail.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152743:1832051701:0456/pct:65.52789699570816,11.643835616438356,15.158798283261802,3.7858032378580324/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152743:1832051701:0456/pct:65.53361945636624,11.647986716479867,15.164520743919885,3.7858032378580324/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1652,7 +1652,7 @@ in substance, “that ho was rrrt/ sorry that the Se­
 nate had not taken the same view of the subject  
 lliat ho had done, and that he regretted that th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184340:1832073101:0260/pct:21.24411470965901,58.58663447821793,14.638322157226423,6.07922747723033/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184340:1832073101:0260/pct:21.24108416547789,58.58020627605881,14.640989063242985,6.082217833369907/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1673,7 +1673,7 @@ stating in his mes-age that &quot;the Executive and Senate, in cases
 independent and coordinate with cach other. If they agree, the  
 appointments or treaties are mader if the Senate isagree, the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_flavory_ver01:data:sn83030213:00206530625:1859052401:0162/pct:200.36496350364965,136.0,47.90975447909754,8.907462686567165/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_flavory_ver01:data:sn83030213:00206530625:1859052401:0162/pct:66.78832116788321,45.333333333333336,15.969918159699182,2.9691542288557216/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

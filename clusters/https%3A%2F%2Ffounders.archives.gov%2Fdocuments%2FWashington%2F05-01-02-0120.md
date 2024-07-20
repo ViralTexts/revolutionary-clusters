@@ -102,7 +102,7 @@ nial to the narural dispositions of mankind
 than any other.”  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802080301:0125/pct:58.482629693098616,6.67731310510031,16.96525938619723,10.060884319792395/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802080301:0125/pct:58.48782260996001,6.680640117110823,16.98083813678143,10.057557307781881/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -132,7 +132,7 @@ advantageous, an empioymert which is moie
 congenial t® the natural d f, oft ion cf mankind  
 than any other.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895060:1802080901:0043/pct:71.28414331323164,65.79493565794935,22.472507981553743,10.95890410958904/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895060:1802080901:0043/pct:71.27150203936868,65.78810833246861,22.47295619790743,10.960361108228701/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -403,7 +403,7 @@ Your mod obedient and obliged humble
 Prvant,  
 &lt;( G. Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_burmese_ver01:data:sn83045242:print:1802092901:0001/pct:6.223506743737958,10.909782057780031,63.564547206165706,81.98175367460719/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_burmese_ver01:data:sn83045242:print:1802092901:0001/pct:6.233140655105973,10.909782057780031,63.564547206165706,81.98492143943234/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -505,7 +505,7 @@ will think of me ? is not the inquiry of
 humility, but of vanity.  
 There is no life more fatiguing an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_beachhaven_ver01:data:sn85025061:00513684939:1818111701:0047/pct:27.145007526342198,55.64090977556861,17.887606623181135,8.450067781292363/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_beachhaven_ver01:data:sn85025061:00513684939:1818111701:0047/pct:27.13819914722849,55.63253012048193,17.88939051918736,8.452560240963855/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -775,7 +775,7 @@ which can be aequiettl from ravaging*
 ^ conquest. **  
 I he Kditor of the Resiling Journa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84024746:00414186920:1830072101:0117/pct:68.60447185813416,55.91447292792275,15.142636854279106,9.242441659960916/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84024746:00414186920:1830072101:0117/pct:68.59389454209065,55.9080459770115,15.14544146366533,9.245210727969349/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1001,7 +1001,7 @@ earth, than all the vain glory which ean be
 acquired from ravaging it by the most unin  
 terrupted carcer of conquest.—| Washington&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152743:1834121801:0998/pct:20.98893499308437,74.1545297457418,15.110650069156293,8.627499382868427/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152743:1834121801:0998/pct:20.994698017519593,74.1545297457418,15.110650069156293,8.631613593351435/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2185,7 +2185,7 @@ all the vain glory which can be acqui­
 red from ravaging it by the most un­  
 iute.rr.optc ) career of conquest. Was
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn87065654:00295878216:1839031601:0693/pct:63.236607142857146,86.31769497661789,20.379464285714285,13.259918539749584/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn87065654:00295878216:1839031601:0693/pct:47.4542206342117,64.74581384824258,15.297007592675302,9.941167596922613/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2239,7 +2239,7 @@ and advantageous an employment which is
 inorc congenial to the dispositions of man-  
 Kind than any other.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn85025180:00237287927:1839052501:0455/pct:7.578740157480315,99.10920488287694,23.941929133858267,14.896073903002309/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn85025180:00237287927:1839052501:0455/pct:5.688254124599852,74.3319036621577,17.975868012804728,11.18442758165622/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2309,7 +2309,7 @@ society, I feel myself obliged by employment
 which is more congenial to the natural disposi­  
 tions of mankind than any other
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1839061501:0406/pct:43.83916990920882,71.65517241379311,17.817769130998702,8.954022988505747/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1839061501:0406/pct:43.83916990920882,71.66283524904215,17.817769130998702,8.954022988505747/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2553,7 +2553,7 @@ making improvements on the earth, than all the
 vain glory which can be acquired from raging it  
 by the most uninterrupted career of conquests.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016475:00296026402:1841012101:0826/pct:37.078220858895705,89.53042984820542,14.091257668711657,4.908497659242446/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016475:00296026402:1841012101:0826/pct:37.078220858895705,89.53988745448527,14.09764826175869,4.917955265522297/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2585,7 +2585,7 @@ A white man was recently sold in Missouri
 under the a vagrant act.&quot; His purchaser was  
 a stable keeper, but the price is not given
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_arbok_ver04:data:sn82003383:00295874442:1841012301:0018/pct:213.66384522370012,77.64665444546287,35.95828295042322,28.872593950504125/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_arbok_ver04:data:sn82003383:00295874442:1841012301:0018/pct:71.22128174123337,25.882218148487627,11.986094316807739,9.624197983501375/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2945,7 +2945,7 @@ ravaging it by the most uninterrupted
   
 career ol conques
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn87065294:0029587806A:1843052701:0058/pct:87.53658536585365,112.75187104202648,28.317073170731707,15.3713298791019/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn87065294:0029587806A:1843052701:0058/pct:65.67455476945597,84.57109959700634,21.249085142717735,11.528497409326425/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3080,7 +3080,7 @@ provements on the eartn,than all the vain glory
 which can be accquired trom ravaging it by the  
 most uninterrupted career of conquest. V’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015210:1845051301:0285/pct:64.73444166544064,80.00207986688852,14.594674120935707,4.8668885191347755/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015210:1845051301:0285/pct:64.73444166544064,80.00207986688852,14.5995782453043,4.88075429839157/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3183,7 +3183,7 @@ earth, than all the vain glory which can bo
 acquired from ravaging it by the most un­  
 interrupted career of conquest
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_emerald_ver02:data:sn87090125:00414212621:1845072201:0056/pct:80.53189279035945,75.0520059435364,14.938707666735924,8.172362555720653/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_emerald_ver02:data:sn87090125:00414212621:1845072201:0056/pct:80.51516410469463,75.04085574208884,14.94079767345243,8.174862576140246/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3271,7 +3271,7 @@ glory which can be acquired from rava- I
 ging it by the most uninterrupted career [  
 of contets.” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624232:1845080701:0024/pct:27.61124845488257,70.58948939345485,17.22805933250927,8.815691290907154/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624232:1845080701:0024/pct:27.61639884631232,70.58948939345485,17.22805933250927,8.82990441672885/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3370,7 +3370,7 @@ than all the vain glory which can be ae­
 quired from ravaging it by the most unin.  
 eterrupted career of conquest.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:0041566770A:1845111401:0704/pct:92.08261617900172,109.7671694245131,59.72461273666093,24.77668765558647/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:0041566770A:1845111401:0704/pct:23.03552206673843,27.441792356128275,14.940796555435952,6.194171913896618/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3402,7 +3402,7 @@ provements on the earth, than nil the vain
 slery which can be acq lired from ravag  
 ing it by the most uninterrupted career o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn87065704:00295877571:1845112601:0494/pct:19.674185463659146,48.83432197544489,21.971595655806183,19.50613877776245/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn87065704:00295877571:1845112601:0494/pct:14.772252402841621,36.62574148158367,16.485582950271624,14.636501586425714/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3524,7 +3524,7 @@ uired from ravaging it by the roost unin
   
 terrupted career of conquests Washing
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn87065704:00295877571:1846031101:0548/pct:67.02334630350195,37.814551422319475,20.75875486381323,16.2609409190372/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn87065704:00295877571:1846031101:0548/pct:50.29194239003503,28.36433260393873,15.589723627870766,12.199124726477024/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3646,7 +3646,7 @@ than all the vain glory which can be ac
 quired from ravaging it by the most unin­  
 terrupted career of conquests. Washing
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn84023643:0028077778A:1849071701:0724/pct:13.023952095808383,343.5658914728682,51.122754491017965,33.99577167019027/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn84023643:0028077778A:1849071701:0724/pct:3.257816888223179,85.89147286821705,12.787867440554203,8.498942917547568/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3671,7 +3671,7 @@ on the earth, than all the vain glory which can be
 acquired from rav&amp;gingit by the most uninterrupted  
 career of conquests.&quot;?Washington&#x27;* letter! to Arthu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661368:1849092701:0383/pct:30.155482815057283,37.514691740570576,15.330060010911074,6.442996046586174/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661368:1849092701:0383/pct:30.155482815057283,37.514691740570576,15.343698854337152,6.450119314741603/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3746,7 +3746,7 @@ all the vain glory which can be acquired
 from ravaging, it by the most uninterrupted  
 career of conquests.&quot;-Washington&#x27;s let
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn84026897:00237288294:1849101001:0287/pct:0.7041072925398156,39.85598354097611,21.642917015926237,8.823865584638245/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn84026897:00237288294:1849101001:0287/pct:0.7152835987706063,39.863603459442984,21.63732886281084,8.820055625404809/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3814,7 +3814,7 @@ terrupted career of conquests.&quot;-Washing­
 ton&#x27;s letters to Arthur Young.  
 CULTIVATION OF WHEAT
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776014:1849101301:0931/pct:319.8581560283688,223.51797862001945,49.07801418439716,32.81965847563515/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776014:1849101301:0931/pct:79.9645390070922,55.87949465500486,12.26950354609929,8.204914618908788/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3877,7 +3877,7 @@ from ravaging it by the most uninterrupt-
 ed carcer of conquest.&quot;  
 a e oe  for t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667711:1849110201:0370/pct:329.8230834035383,300.9605734767025,58.635214827295705,33.54838709677419/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667711:1849110201:0370/pct:82.45577085088458,75.24014336917563,14.658803706823926,8.387096774193548/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3901,7 +3901,7 @@ ments on the earth, than all the vain gory which
 can be acquired from mvig ng it bv the most un­  
 interrupted career of conquests.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_eclipse_ver01:data:sn82016488:00513688039:1849110301:0404/pct:45.597280673357076,5.965648354529959,15.344771770799612,5.572308902582929/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_eclipse_ver01:data:sn82016488:00513688039:1849110301:0404/pct:45.60267616272796,5.965648354529959,15.344771770799612,5.576679340937896/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3929,7 +3929,7 @@ than all the vain glory which can be ac­
 quired from ravaging it by the most un­  
 interrupted ftueev of conquests.-—&#x27;Wash
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn86081965:00279528554:1849110901:0013/pct:42.97165760091612,88.0513495720869,12.65387918694532,6.451612903225806/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn86081965:00279528554:1849110901:0013/pct:42.97642904857334,88.0513495720869,12.65865063460254,6.451612903225806/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3957,7 +3957,7 @@ them; inasmuch that I can nowhere
 find so great satisfaction as in those  
 tinnecent and useful pursuits. In i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84022356:00200290148:1850011001:0007/pct:233.38632750397457,281.35593220338984,54.92845786963434,9.468147282291058/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84022356:00200290148:1850011001:0007/pct:58.38138794989064,70.33898305084746,13.740306223901372,2.3670368205727645/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3991,7 +3991,7 @@ glory which can be acquired from
 ravaging it by the most uninterrupt  
 ed career of conquests.  (Washington&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84022356:00200290148:1850012401:0015/pct:70.82997582594682,254.6153846153846,55.68090249798549,43.43195266272189/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84022356:00200290148:1850012401:0015/pct:17.71106185774733,63.65384615384615,13.92303042514608,10.857988165680473/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4083,7 +4083,7 @@ lUi- lumen ; auii, Indeed, in a lew years I intend to drive
 no other in my &lt;? image, having .pp.Dprmlod upwards ol  
 twenty of my best mates to breeding them.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661204:1852050501:0436/pct:32.436472346786246,25.511630863099022,15.960803853180535,9.851277488242024/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661204:1852050501:0436/pct:32.436472346786246,25.52010508029321,15.966340032109837,9.851277488242024/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4213,7 +4213,7 @@ We landed at the homestead, stopped to
 pay reverential homage to the tomb, ami  
 then halted at the old tomb, wherein ^ th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dior_ver01:data:sn85025007:0041566350A:1860070901:0241/pct:56.805830039525695,37.963124021568966,13.871047430830039,8.157940511393285/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dior_ver01:data:sn85025007:0041566350A:1860070901:0241/pct:56.805830039525695,37.963124021568966,13.879281949934123,8.163738621209486/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4495,7 +4495,7 @@ be acquired from ravaging it by the most
 uninterrupted career of conquest.&quot;  
 The Mount Vernon estate originall
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551153:1892091401:0224/pct:66.80206794682422,40.29545665706588,10.795174790743475,4.580507293505528/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551153:1892091401:0224/pct:66.81027408501559,40.301650716962435,10.795174790743475,4.580507293505528/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4579,7 +4579,7 @@ e pled much of my attention &#x27;this summer.
 .e It is constyucted according to the plan you  
 had the goodness to send me. but iirith som
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_havanese_ver01:data:sn83045462:00280655028:1895100701:0267/pct:70.21404280856171,77.63294326766405,14.322864572914582,1.7923270626573842/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_havanese_ver01:data:sn83045462:00280655028:1895100701:0267/pct:70.21904380876175,77.63664642275218,14.327865573114623,1.7960302177455192/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4691,7 +4691,7 @@ I intend to drive no other in my carriage, hav­
 ing appropriated for the sole purpose of breed­  
 ing them tpward of twenty of my best mares.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:0017504291A:1897021401:0595/pct:125.0,195.58263518659558,51.92307692307692,57.395277989337394/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:0017504291A:1897021401:0595/pct:31.25,48.895658796648895,12.98076923076923,14.348819497334349/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4744,7 +4744,7 @@ drive no other in my carriage, having ap­
 propriated for the sole purpose of breeding  
 them upward of twenty of my best mares.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665647:1897022101:0547/pct:75.17115472387037,84.24814909369415,17.04701049748973,18.78138030805889/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665647:1897022101:0547/pct:56.384799726121194,63.18611182027062,12.792422686294648,14.092417666581568/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

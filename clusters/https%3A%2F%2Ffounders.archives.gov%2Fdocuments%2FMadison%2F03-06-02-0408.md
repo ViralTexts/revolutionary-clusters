@@ -60,7 +60,7 @@ cline the proposed conference with
 the committee upon the mailer o*  
 that resolution
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813080401:0451/pct:81.50570342205323,73.94646409839031,16.304182509505704,8.645324651835775/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813080401:0451/pct:81.4933090024331,73.93977755674112,16.30677210056772,8.647557042529463/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -88,7 +88,7 @@ to the Senate, of the grounds on winch he wilt be- ob,.g.
 «d to U..e.ine the proposed conference with the eon mu.  
 tee upon &#x27;I t: matter of that resolution
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813080701:0564/pct:3.4570411794611084,52.01187335092348,21.708185053380785,7.734168865435357/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813080701:0564/pct:3.4561626429479033,52.00329760923331,21.70902160101652,7.7370156636438585/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -116,7 +116,7 @@ cline the proposed conference with the
 committee upon the matter of that resolu­  
 tion
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024513:00414184121:1813080901:0074/pct:28.397565922920894,82.92147974850124,22.041920216362406,10.951893551688844/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024513:00414184121:1813080901:0074/pct:28.391167192429023,82.9093567251462,22.044464473486556,10.955165692007798/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -140,7 +140,7 @@ grounds on which he will be obliged to de­
 fine the proposed cohference with the com- I  
 mittee upon the matter of tliat resolution
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813080901:0250/pct:5.553571428571429,50.60343776667073,16.857142857142858,5.54675118858954/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813080901:0250/pct:5.552579896447063,50.59726962457338,16.860084508718682,5.5501381439948/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

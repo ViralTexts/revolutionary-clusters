@@ -48,7 +48,7 @@ coin only, at the following ratfs, that is to fay, the gold coins
 of France, England, Spain, and Portugal,and all othergoid coin of  
 equal finenefs, at eighty-nine cents for every penny-weight. Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789081501:0004/pct:45.896482699456676,40.36959420842065,25.193022590792108,2.0194322728138694/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789081501:0004/pct:45.896482699456676,40.36959420842065,25.20017157563626,2.0241950847780528/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -66,7 +66,7 @@ Spain and Portugal, and all other
 gold coin of equal finenefs, at eighty­  
 nine cents for every penny weight. Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789091001:0455/pct:4.405712902444929,11.087628027962932,21.229726458484627,3.300276377824744/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789091001:0455/pct:4.421851044944727,11.087628027962932,21.229726458484627,3.300276377824744/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -94,7 +94,7 @@ this act dire&amp;ed to grant any license,
 certificate, permit or other documents,  
 the naval-officer, if there be one residin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789110501:0485/pct:24.24897861091084,62.83157038242474,21.12472963229993,11.798209926769731/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789110501:0485/pct:24.25698950572779,62.836994846758884,21.116718737482977,11.792785462435585/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -124,7 +124,7 @@ ther gold coins of equal finenefs, at
 eighty nine cents for every penny  
 weight : The Mexican dollar at on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791010101:0726/pct:29.504232164449817,63.99871423979428,20.435308343409915,5.07875281260045/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791010101:0726/pct:29.51229343006852,64.0094289081753,20.459492140266022,5.084110146790957/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -144,7 +144,7 @@ reasonable compensation therefor, out of the
 fe»s aforefaid, before any distribution thereof,  
 as aforefaid. And every collector, and nava
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793020601:0001/pct:49.40652818991098,49.46639206141172,19.762611275964392,4.418648193222243/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793020601:0001/pct:49.41394658753709,49.47107283280285,19.770029673590503,4.423328964613368/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -165,7 +165,7 @@ tion therefor, out of the fees aforefaid, be­
 fore any distribution thereof, as aforefaid ;  
 and every collector and naval officer, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793041301:0001/pct:72.19783435762365,71.94325182004853,19.051799824407375,4.386783647563935/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793041301:0001/pct:72.20515071700322,71.94325182004853,19.051799824407375,4.410117603136084/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -188,7 +188,7 @@ This act both recognizes the true currency, and the
 power of Congress to regulate the value thereof. It is  
 the very spccic. clause, against which the Whigs hav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1840111301:0035/pct:64.61332937509277,67.03199052132702,15.70431943001336,4.275276461295419/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1840111301:0035/pct:64.61332937509277,67.0385729331227,15.72411063282371,4.275276461295419/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

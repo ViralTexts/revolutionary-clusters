@@ -135,7 +135,7 @@ mread of Chapman&#x27;s wooden tubes bored ex
 :&gt;t handle.) to be turned bottom upwards ove, th  
 iouth of the pot, by way of ftill-hea?, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1791112401:0003/pct:49.36271906532129,24.830572289156628,17.711099309612322,58.96084337349398/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1791112401:0003/pct:49.36271906532129,24.83527861445783,17.71773765268189,58.96554969879518/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -287,7 +287,7 @@ hftheir success, be encouraged to hmi&#x27;^r
 [rials&#x27;, and pe banefitted byany impro&#x27;vemencs ( .  
 new idca3 which may occur to them :a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1791112401:0003/pct:50.05310674455656,6.758283132530121,36.1125862984599,85.82454819277109/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1791112401:0003/pct:50.05310674455656,6.758283132530121,36.125862984599046,85.82925451807229/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -495,7 +495,7 @@ of State, in-order that others may, by their fuccels, be encouraged
 to make similar trials, and be benefitted by any improvements or  
 new ideas which may occur to them in practice
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791113001:0001/pct:8.021223470661672,14.55462837182224,60.48689138576779,79.62352027944887/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791113001:0001/pct:8.036828963795257,14.55462837182224,60.48689138576779,79.62352027944887/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -791,7 +791,7 @@ that others may, bv their success, be encouraged to make fnnilar
 trials, and be benefited by any improvements or new ideas, which  
 may occur to them in prattice
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792053001:0001/pct:65.45848822800495,55.33730158730159,27.571251548946716,8.531746031746032/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792053001:0001/pct:65.45848822800495,55.35218253968254,27.586741016109045,8.526785714285714/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -841,7 +841,7 @@ nakc flmilar trials, ana be benefited by any im­
 irovements or new ideas, which may occur tc  
 hem irt practice
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792080101:0004/pct:30.950920245398773,45.36928487690504,19.969325153374232,9.026963657678781/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792080101:0004/pct:30.9739263803681,45.36928487690504,19.969325153374232,9.046502540054709/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

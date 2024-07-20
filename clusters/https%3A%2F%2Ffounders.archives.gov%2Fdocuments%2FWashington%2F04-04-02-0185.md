@@ -407,7 +407,7 @@ Washington in 1786?&quot;is as unproductive to
 holders. Yet,&quot; he added, &quot;it is pertinaciously  
 &#x27; adhered to.&quot; Professor Johnston, the emiinen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852042301:0410/pct:70.42042042042043,20.666736997573583,14.277914277914277,5.707353096318177/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852042301:0410/pct:70.42042042042043,20.670253542919436,14.287014287014287,5.710869641664029/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -429,7 +429,7 @@ be applied to it?which is in use in this part of the United
 ?&quot;tares is as unproductive to tho pr tctitioner&quot; as it is ruin­  
 ous to the landholders J&#x27;?I i( it puliKuctnutlf adluitii to 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661204:1852050501:0436/pct:32.40325527321043,14.223973560442355,15.960803853180535,3.5973051989322484/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661204:1852050501:0436/pct:32.40325527321043,14.23244777763654,15.966340032109837,3.601542307529342/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -485,7 +485,7 @@ and was ruined by u country smith, no plough a?
 could have done better work, or appeared to tli  
 have gone easier with two horses o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1852051301:0538/pct:4.1196877710320905,27.596701354800707,14.079213645562302,11.172197133320244/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1852051301:0538/pct:4.1196877710320905,27.603246285751684,14.079213645562302,11.172197133320244/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -508,7 +508,7 @@ in this part of the United States, is as urlprodue- a
 tivc to the prncf tinners as it is ruinous to the tei  
 landholders Yet it is pertinaciously adhered hfl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1852051301:0538/pct:4.090777681410812,38.611820145297465,14.122578779994218,4.250932652660515/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1852051301:0538/pct:4.090777681410812,38.618365076248445,14.132215476534643,4.254205118136004/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -651,7 +651,7 @@ but with the means you have been so obliging as to
 furnish me, I shall return to it, though rather late in  
 in the day, with more alacrity than e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530546:1857052701:0399/pct:149.0540989047461,279.1631898915246,47.079322933952874,12.0276552628442/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530546:1857052701:0399/pct:49.68469963491537,93.05439663050821,15.693107644650956,4.009218420948067/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -712,7 +712,7 @@ ous to the landholders. Yet is is pertinaclously adhered
 to.&quot;  
  o  o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1858050701:0499/pct:62.90824261275272,281.72496984318457,53.03265940902022,11.338962605548854/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1858050701:0499/pct:15.73317775184753,70.43124246079614,13.263321664721898,2.8347406513872135/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -939,7 +939,7 @@ cover from them whether one of the class I
 am speaking of would cost eight or eighteen  
 pounds a vear.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:0017504291A:1897021401:0595/pct:127.23076923076923,44.53922315308454,50.92307692307692,70.19040365575019/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:0017504291A:1897021401:0595/pct:31.807692307692307,11.134805788271136,12.73076923076923,17.547600913937547/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -968,7 +968,7 @@ States is as unproductive to the practition­
 ers as it is ruinous to the landholders. Yet  
 it is pertinaciously adhered to &quot; Re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665647:1897022101:0547/pct:75.36513007759014,20.951408390775253,17.04701049748973,9.735341673049103/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665647:1897022101:0547/pct:56.533150747460915,15.717811250106374,12.792422686294648,7.301506254786827/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1014,7 +1014,7 @@ them whether one of the class I am speakf­
 ing of would cost eight or eighteen pounds  
 a year.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665647:1897022101:0547/pct:75.26243724326791,30.788869032422774,17.0926517571885,19.215385924602163/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665647:1897022101:0547/pct:56.453269428277984,23.095906731342012,12.826657537373046,14.407284486426686/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -979,7 +979,7 @@ under iuy immediate command, is. in a manner done
 sway, hi having surf a inixfnr • &gt;,f troops -,y [,.,«/*. been  
 ■ailed together within Hits: few months.”_*■ RusxrU-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1815020801:0355/pct:3.675932699341624,55.06067809333167,17.611558156547183,13.699487051169774/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1815020801:0355/pct:3.6752605595172794,55.05379034275707,17.614432864021456,13.701943124009674/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1134,7 +1134,7 @@ I were called upon to declare upon oath, whether
 the Militia have been most serviceable or hurtful on  
 whole, I should subscribe to the latter.&quot;?From a let
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1838111701:0673/pct:34.49013157894737,87.00724548692128,15.37828947368421,2.0754021859265626/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1838111701:0673/pct:34.49013157894737,87.00724548692128,15.389254385964913,2.0835891767980677/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1489,7 +1489,7 @@ of a day; us the war must he carried on : i
 ly, nnd to do it, you inu*t have good oiiice;  
 in my judgment, no other possible in- o.them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664357:1856012901:0279/pct:84.28717052570263,57.230973619282594,13.979903888160768,18.42854431580945/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664357:1856012901:0279/pct:84.28717052570263,57.23413677484659,13.99446628804427,18.42854431580945/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1512,7 +1512,7 @@ uecesaary ho icquiris upon the beat terio?, : ,s
 former can scarcely pr&lt;K-ure tiicin at ni&gt;v r.t&#x27;&#x27;.  
 &#x27; The lew, then-tore, who aet upon toe pi: . 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664357:1856012901:0279/pct:84.24348332605213,77.20630100588347,13.761467889908257,3.4351869424938317/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664357:1856012901:0279/pct:84.24348332605213,77.21262731701145,13.766322023202758,3.4351869424938317/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1918,7 +1918,7 @@ lowed by a want of confidence in themselves when oj
 1 to troops regularly trained, disciplined, and appointei  
 rior in knowledge and superior In arms,) are timid a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661083:1857010901:0054/pct:16.992840095465393,1.5332411712957144,31.869530628480508,94.31946713585522/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661083:1857010901:0054/pct:16.992840095465393,1.5374303548238448,31.890745160434896,94.31946713585522/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1950,7 +1950,7 @@ m imnortnnate anneals of Washington obtained fro
 jress at this time resolutions for reforming the arn  
 ghty-eight battalions, to serre during the war, to 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661083:1857010901:0054/pct:33.15831344470963,36.26995098655272,13.778838504375496,7.804448912906874/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661083:1857010901:0054/pct:33.16892071068682,36.27832935360898,13.768231238398302,7.800259729378744/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2055,7 +2055,7 @@ exempt them from dnty, and often receiv­
 ing bribes to certify indispositions, with a  
 view to procure discharges or furlough
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84027060:00415668910:1864072301:0255/pct:16.71525753158406,36.79535360437308,14.382896015549077,2.459856508370345/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84027060:00415668910:1864072301:0255/pct:16.720656516574884,36.79535360437308,14.39369398553072,2.459856508370345/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2076,7 +2076,7 @@ receiving bribes to certify indispositions,
 with a view to procure discharges &#x27; orfurlougbs;&#x27;  
 and still further, they drew from th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:0028077540A:1864072801:0125/pct:76.42066420664207,93.47699475829936,16.383763837638377,4.644729178800233/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:0028077540A:1864072801:0125/pct:57.35647037105409,70.10774606872452,12.2946280228909,3.4944670937682005/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2095,7 +2095,7 @@ plaints to exempt them from duty, and often
 receiving bribes to certify indispositions, with  
 a view to procure discharges or furloughs.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009571:00279523908:1864091601:0363/pct:170.90806383279198,114.16064338796701,37.63592712893659,9.172350605721267/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009571:00279523908:1864091601:0363/pct:56.96131036430387,38.049674267100976,12.54353760707898,3.05713897937025/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2117,7 +2117,7 @@ sitions, with a view to procure discharges
 or furloughs.&quot; They also draw &quot;medicines  
 and stores in the most profuse and extrav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn85038443:00280776397:1864092001:0320/pct:10.38647342995169,245.28925619834712,50.1610305958132,20.616078136739294/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn85038443:00280776397:1864092001:0320/pct:2.5966183574879227,61.32231404958678,12.5402576489533,5.154019534184823/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2136,7 +2136,7 @@ to exempt them from duty, and often receiv­
 ing bribes to certify indispositions, with a view  
 to procure discharges or furloughs,&quot; The
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:0027952519A:1864092601:0015/pct:3.138350312191916,41.68031238191208,10.844561288202431,2.07834739891674/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:0027952519A:1864092601:0015/pct:3.1378347297519302,41.67506297229219,10.846886807951371,2.081234256926952/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2177,7 +2177,7 @@ tify indispositions, with a view to procure
 dischargescr furloughs. They also draw  
 medicines and stores in the most profus
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn86081096:00296028678:1864092801:0605/pct:76.66412795125666,40.90006618133686,14.211728865194212,4.533421575115818/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn86081096:00296028678:1864092801:0605/pct:76.66412795125666,40.90741966321053,14.226961157654227,4.533421575115818/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2228,7 +2228,7 @@ often receiving bribes to certify indisposi-
 tions, with a view to procure discharges or  
 furloughs. They also draw medicines an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn83035216:00280775162:1864111201:0360/pct:175.51020408163265,269.9670836076366,49.38775510204081,12.113232389730086/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn83035216:00280775162:1864111201:0360/pct:43.885014458241194,67.49177090190915,12.349038952202756,3.0283080974325216/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2346,7 +2346,7 @@ kind of military skill, nro timid and ready
 tolly from their own shadows. Ilcsidcstho  
 sudden change in their manner of livin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_dracula_ver01:data:sn84037890:00206533626:1888022201:0691/pct:35.50275482093664,29.425837320574164,14.307851239669422,3.349282296650718/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_dracula_ver01:data:sn84037890:00206533626:1888022201:0691/pct:26.64485015501206,22.076023391812864,10.730279021701689,2.511961722488038/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2367,7 +2367,7 @@ kind of military skill, are timid and ready
 to fly from their own ehadowa. Besides the  
 sudden change in their manner of livin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_fencing_ver02:data:sn83016589:00393340691:1888022401:0320/pct:40.004969561436205,20.938735177865613,10.67213318424649,2.5988142292490117/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_fencing_ver02:data:sn83016589:00393340691:1888022401:0320/pct:35.00742834366054,18.327232901979997,9.334347936369895,2.273971813125054/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2387,7 +2387,7 @@ kind of military skill, are timid and ready
 to fly from their own shadows. Besides the  
 sudden change in their manner of livin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_apple_ver01:data:sn2001063565:00279522758:1888022401:0398/pct:65.08411214953271,21.71856523452897,13.644859813084112,2.9299697805807385/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_apple_ver01:data:sn2001063565:00279522758:1888022401:0398/pct:65.08411214953271,21.727324486488854,13.657320872274143,2.9387290325406212/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2407,7 +2407,7 @@ kind of military skill, are timid and ready
 fly from their own shadowa. Besides the  
 sudden change in their manner of livin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_ferrari_ver02:data:sn86088181:00200296953:1888030101:0616/pct:270.7132018209408,66.41590542718968,101.36570561456753,311.12305212251476/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_ferrari_ver02:data:sn86088181:00200296953:1888030101:0616/pct:67.69114020110037,16.60397635679742,25.34623411117435,77.78076303062869/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2558,7 +2558,7 @@ world’s progjiftgs. There are some persons
 living, not many, but perhaps two or three  
 scores in the United States, who were aliv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:00271740554:1899010101:0014/pct:43.22334333242433,59.64965573106521,12.77611126261249,12.079789388416362/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:00271740554:1899010101:0014/pct:43.22334333242433,59.653030916700416,12.780656303972366,12.086539759686783/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

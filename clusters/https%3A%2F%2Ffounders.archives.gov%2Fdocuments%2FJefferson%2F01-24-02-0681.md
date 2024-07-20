@@ -49,7 +49,7 @@ States sue, and the matter in difputr amounts, exclusive of cods
 to the sum or value of one hundred dollars. And ffiall also have  
 juris Jidion exclufiveiy of the coarts of the several States, of al
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789110701:0004/pct:45.48030603570417,38.945155742403976,25.276282232927176,5.1595643034588194/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789110701:0004/pct:45.48030603570417,38.954710491114085,25.276282232927176,5.169119052168928/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -77,7 +77,7 @@ exclusive of costs, to the sum or value of
 one hundred dollars. And shall also  
 have jurisdiction exclusively of the court
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789123001:0513/pct:70.14674043781574,56.16117706069219,20.95261005532836,11.954522655074403/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789123001:0513/pct:70.1627776441344,56.16117706069219,20.944591452169032,11.954522655074403/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -108,7 +108,7 @@ The supreme court shall also have ap­
 pellate jurifdiGtion from the circuit courrs  
 and courts of the several States,in the ca
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789123001:0514/pct:31.82247403210576,30.48780487804878,20.797922568460812,14.433678583361177/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789123001:0514/pct:31.82247403210576,30.493373426884954,20.821529745042493,14.43924713219735/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -243,7 +243,7 @@ r value of $500; and where an alien is a party, or f
 here the suit is between a citizen of the State f  
 here the suit is brought, and a citizen of another 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661125:1845050501:0021/pct:18.283288791070586,83.25215436493069,13.50416601163339,6.469339328087923/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661125:1845050501:0021/pct:18.283288791070586,83.25631738895133,13.509406277838915,6.47766537612922/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -371,7 +371,7 @@ isters or their domestic ECrvauts ns a court of law
 can . have or exercise couslßtwtly with  
 the laws of nations, and original, bu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_edgewater_ver02:data:sn84031490:no_reel:1864031001:0003/pct:44.02468674022816,12.245483223401205,9.76248363568356,2.337252652710066/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_edgewater_ver02:data:sn84031490:no_reel:1864031001:0003/pct:44.02468674022816,12.245483223401205,9.76248363568356,2.3515916260395757/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -399,7 +399,7 @@ ing the constitutional declaration that the Supremo
 Court had original Jurisdiction in all cases aficctlng  
 embassadors and‘other public ministers and con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_edgewater_ver02:data:sn84031490:no_reel:1864031001:0003/pct:43.98728258836731,16.891310582162316,9.818589863474847,4.100946372239748/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_edgewater_ver02:data:sn84031490:no_reel:1864031001:0003/pct:44.00130914531513,16.90206481215945,9.809238825509631,4.100946372239748/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -460,7 +460,7 @@ eeeeee
      
 erroncons statements of the condition of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_apachetrout_ver01:data:sn82016242:00211105483:1866041101:0137/pct:218.5099846390169,43.284187745164346,175.1920122887865,26.40335452455025/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_apachetrout_ver01:data:sn82016242:00211105483:1866041101:0137/pct:54.65898174831892,10.821046936291086,43.823246878001925,6.600838631137562/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -675,7 +675,7 @@ Ambassadors or other public Ministers.
 WHAT ITJREALLY IS.  
 The Most Dangerous of Modern Disorder
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_eisenhower_ver01:data:sn84024546:00237282152:1892040901:0114/pct:79.72508591065292,94.39343350027823,15.223367697594501,13.049526989426823/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_eisenhower_ver01:data:sn84024546:00237282152:1892040901:0114/pct:59.82465188241361,70.7985531441291,11.432009626955475,9.794101279910963/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -692,7 +692,7 @@ Fifth : Of all suits or proceedings against Ambassadors or
 other Public Ministers, their attaches or servants as far as  
 any Court can have consistently with the Law of Nations an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_gold_ver01:data:sn82016412:00294552170:1892121301:0561/pct:41.89882697947214,72.89130746097666,29.36217008797654,3.0502649291135615/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_gold_ver01:data:sn82016412:00294552170:1892121301:0561/pct:31.444811147781444,54.67564084204496,22.02053538687202,2.291278819991408/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

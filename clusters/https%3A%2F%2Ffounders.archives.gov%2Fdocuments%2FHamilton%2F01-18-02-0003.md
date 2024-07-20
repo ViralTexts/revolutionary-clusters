@@ -98,7 +98,7 @@ ing the kind Author of these blessings to im­
 print on our hearts a deep and solemn sense  
 of our duty to Him; and above all, for the re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn87082162:00514159324:1846111401:0746/pct:66.69226339028604,61.770482603815935,18.890382031100017,2.833894500561167/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn87082162:00514159324:1846111401:0746/pct:51.68617337829796,47.872571759930416,14.644911723864313,2.210785734995651/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -119,7 +119,7 @@ ings to impiint on our hearts a deep and
 solemn sense of our duty to Him,and above  
 all.for the redemption of the world by ou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn86086768:0027176974A:1847111201:0043/pct:18.65424103617122,59.05269390171699,15.684725951666403,4.511545293072825/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn86086768:0027176974A:1847111201:0043/pct:17.7212024208473,56.10469476526173,14.91522032711449,4.289785510724464/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -237,7 +237,7 @@ der, morality and piety; and, finally, to impart all
 the blessings we possess, or ask for ourselves, to the  
 whole family of mankind.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879087:1855051801:0299/pct:88.9871382636656,46.730806989986256,20.685959271168276,6.459846848615747/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879087:1855051801:0299/pct:66.77389089934326,35.04810524248969,15.520707679935665,4.849793834675044/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -375,7 +375,7 @@ ope of the ited tates ire and to
 invite them to unite in a general thanks-  
 siving at the close of the Autumnal harvests
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777055:1879112801:0605/pct:263.76488095238096,321.53803287823905,38.98809523809524,43.800501532460295/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777055:1879112801:0605/pct:65.97803833984739,80.38450821955976,9.75246603387307,10.950125383115074/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -425,7 +425,7 @@ render this country more and more a t
 sufe and propitious asylum for theunfor- \
 tunate of other countries,&quot; and ndd
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_france_ver01:data:sn84026844:00202193687:1897112401:1032/pct:18.61604409063074,51.22965015587115,16.93202694427434,3.2732940768964323/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_france_ver01:data:sn84026844:00202193687:1897112401:1032/pct:18.63900796080833,51.23397990994111,16.93202694427434,3.2949428472462765/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -475,7 +475,7 @@ which so wantonly threatened the hap­
 py course of our public affairs.”  
 President Madison felt that the bles
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_miller_ver01:data:sn86092523:00514157911:1899112601:0488/pct:83.36203926972098,31.19114278442352,12.60764726145367,3.563247645711377/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_miller_ver01:data:sn86092523:00514157911:1899112601:0488/pct:83.34768382986051,31.187173940704923,12.609781298432926,3.565975314925563/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

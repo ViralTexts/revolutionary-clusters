@@ -667,7 +667,7 @@ As the rapt Seraph that adores and burns;
 To him no high, no low, no great, no small:  
 He fills, he bounds, connects, and equals all.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_angelou_ver01:data:sn83030362:print00211110028:1847103101:0001/pct:75.31172069825436,44.87810461256724,8.816194807099897,3.456564037999313/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_angelou_ver01:data:sn83030362:print00211110028:1847103101:0001/pct:75.31538800058676,44.88096600663843,8.816194807099897,3.462286826141696/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1133,7 +1133,7 @@ Glows in the stars and blossoms in the trees,
 Lives through all life, extends through all extent,  
 Spreads undivided, operates unspent/
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210089:1885030901:0593/pct:24.98661670235546,72.23711932579965,18.73661670235546,4.405286343612334/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210089:1885030901:0593/pct:19.371456230120316,55.98574998144529,14.52081316553727,3.4140669453996684/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1149,7 +1149,7 @@ Spreads undivided, operates unspent/
 To Him no high, no low, no great, no small,  
 He fills, He bounds, connects and equals allt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_jessie_ver01:data:sn84024777:00295863912:1885080601:0325/pct:114.23109600679695,282.2755054066761,45.00849617672048,3.3223632659457767/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_jessie_ver01:data:sn84024777:00295863912:1885080601:0325/pct:30.461625601812518,75.27268168331314,12.00226564712546,0.8859542814158552/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1285,7 +1285,7 @@ Lives through all life, extends through all extent,
 Spreads undivided, operates unspent;  
 Breathes in our soul, informs our mortal part
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685154:1894041201:0290/pct:28.42418235877106,61.26731586887944,20.971258671952427,5.499931422301468/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685154:1894041201:0290/pct:28.418549346016647,61.25891387822271,20.973708548024838,5.50374840007314/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

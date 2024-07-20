@@ -43,7 +43,7 @@ President and Directors of the South Carolina Insur­
 rnnee Company, mid of the nn reh Hits and others, in­  
 terested in the commerce of the city of Charleston 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805081601:0656/pct:5.5720653789004455,63.924963924963926,20.950965824665676,3.575436908770242/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805081601:0656/pct:5.570685813320129,63.91471625521,20.95196830898737,3.5788714331516513/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -190,7 +190,7 @@ ot the renewal of the outrages we have sustained, as
 bar the pel manent safety and protection of our com­  
 mercial.,ml navigating rights and interests
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805081601:0656/pct:4.70529965329371,2.6134359467692803,43.80881624566617,93.49046015712682/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805081601:0656/pct:4.704134686803664,2.6130169926258415,43.80415944540728,93.47948060275729/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -302,7 +302,7 @@ ges ac have full .&#x27;lined, as for the permanent
 I- Tet y and protesti of our commercial and ,.a- ]  
 vigatiiig lights and iiilercfts
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1805081601:0119/pct:5.542943624668937,1.5382643250865273,35.735906167234205,95.6159466735034/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1805081601:0119/pct:5.541895214677511,1.5380671622660855,35.73545173696488,95.60796376997351/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -623,7 +623,7 @@ r exports; for the merchants, not
 ving their goods from abroad, are  
 lacitated fro/ft purchasing the pro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805081901:0002/pct:78.51401260047795,58.76632397888302,19.009341733651965,40.33064740205613/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805081901:0002/pct:78.52125425447173,58.76632397888302,19.01658338764574,40.34454015004168/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -752,7 +752,7 @@ the permanent safety and protec­
 tion of our commercial and navigating  
 rights and interests. ,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805081901:0003/pct:2.2159461220942864,0.8891358710752987,18.87899196176407,75.6321200333426/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805081901:0003/pct:2.2231877760880585,0.8983977030656664,18.88623361575784,75.6321200333426/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1626,7 +1626,7 @@ nary capture has already been followed by events
 I. ) less alarming ; our harbour being at this moment  
 I completely, blockaded by three French privateers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806042101:1070/pct:70.25488740410789,32.01083492670491,21.925266023261567,7.233906947100063/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806042101:1070/pct:70.2375061850569,32.00573522383304,21.92602671944582,7.236737294886092/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1665,7 +1665,7 @@ w mlc waiting ?er a t-h. and with a pilot on beard, Is,
 in our own tiibunals, acknowledged to be without  
 the protection ot our government
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806042101:1070/pct:70.25488740410789,39.11727214786488,22.02425142291512,14.802421924792862/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806042101:1070/pct:70.2375061850569,39.1110403058786,22.024987629886194,14.804046519037756/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

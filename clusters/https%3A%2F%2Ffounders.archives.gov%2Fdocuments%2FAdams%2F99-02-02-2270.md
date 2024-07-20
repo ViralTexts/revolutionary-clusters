@@ -33,7 +33,7 @@ determined that the number of repreTtntatives in
 the union shall be as.one to thirty thousand citizens, &#x27;  
 and as it cannot be supposed that Congress wish to 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1796053001:0002/pct:33.35858585858586,60.789265982636145,20.454545454545453,5.240726124704025/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1796053001:0002/pct:33.37752525252525,60.79715864246251,20.460858585858585,5.240726124704025/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -126,7 +126,7 @@ France and the United States, when the fcirrner
 ceded CO tbs latter the Territory oi Louisiana,  
 provided, “That the inhabitants of the ceded ter
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn87062070:0039334295A:1835061901:0915/pct:44.69957081545064,49.37363834422658,17.72532188841202,10.498366013071895/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn87062070:0039334295A:1835061901:0915/pct:44.68998069083887,49.366916269571135,17.728670528498892,10.501474926253687/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -196,7 +196,7 @@ bly, by application to Congress, or otherwise, at
 their next session.   
 Now, therefore, I do recommend to the said fre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040303:00514151313:1842083101:0452/pct:36.02836879432624,26.79134058339262,14.52482269503546,7.51092590710438/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040303:00514151313:1842083101:0452/pct:36.02836879432624,26.79472846156452,14.543735224586289,7.50753802893248/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -236,7 +236,7 @@ Article the Sixth. Tiiehe shall he neither slavery
 NOR INVOLUNTARY SERVITUDE IN THE SAID TERRITORY,  
 OTHERWISlu THAN IN PUNISHMENT OF CRIMES WHEREOF TH
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1847082801:0649/pct:64.08169094544417,20.165900683779846,15.766923736075407,8.395919739939469/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1847082801:0649/pct:64.08645149005046,20.16963718566678,15.766923736075407,8.399656241826403/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -348,7 +348,7 @@ the confederacy, such admission shall be allowed at an
 earlier period, and when there may be a less number ot  
 free inhabitants in the State than sixty thousand.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850022201:0238/pct:32.23620522749274,20.269080849993713,15.601807034527267,1.798063623789765/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850022201:0238/pct:32.246961385393135,20.2774634309904,15.612563192427665,1.8022549142881092/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -402,7 +402,7 @@ Now, this article was simply an &quot;article of
 compact between the original States,&quot; and  
 &quot;the States in the said Territory.&quot; States l
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn85033711:00212470259:1859012601:0090/pct:109.91379310344827,46.18829299498881,45.9051724137931,32.54078259942425/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn85033711:00212470259:1859012601:0090/pct:27.482150074094033,11.547073248747202,11.477839148592214,8.135195649856062/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -460,7 +460,7 @@ Statutes at Large, volume 1, page 53.
 No such guarantee as this was evergiv®&quot; ,  
 ttie people ol me Territory ol iiansar; if there
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn82005159:00296028447:1859032501:0056/pct:19.346135534042215,46.26347305389221,14.80717346452944,5.532934131736527/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn82005159:00296028447:1859032501:0056/pct:19.346135534042215,46.26347305389221,14.817753795693806,5.544910179640719/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -483,7 +483,7 @@ as it can be consistent with the general interest,
 such admission shall be allowed with a less  
 number than sixty thousand inhabitants. Ther
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn82005159:00296028447:1859032501:0056/pct:19.28265354705602,69.42514970059881,14.505634026345025,5.089820359281437/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn82005159:00296028447:1859032501:0056/pct:19.293233878220388,69.42514970059881,14.500343860762841,5.089820359281437/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -616,7 +616,7 @@ ed from France, in 1803, it came under
 the original territorial laws. Then follow­  
 ed the different movements to brea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_leek_ver02:data:sn99068116:00340581192:1887030301:0697/pct:36.64188893747267,71.54835745462898,9.502987902638099,4.594532506317482/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_leek_ver02:data:sn99068116:00340581192:1887030301:0697/pct:36.64917650488267,71.55122903744544,9.506631686343098,4.5974040891339305/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

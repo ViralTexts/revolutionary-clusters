@@ -182,7 +182,7 @@ and generations from misery, want, and
 Contempt.&quot;  
 (ieiilietneu, intense domestic life i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_lyonsport_ver02:data:sn84022673:00200298421:1878060701:0095/pct:10.521380345086271,75.61148027711013,15.866466616654163,18.408030538668175/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_lyonsport_ver02:data:sn84022673:00200298421:1878060701:0095/pct:7.900168887220867,56.7086102078326,11.915931694501783,13.813092040152693/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -221,7 +221,7 @@ support of .he great principles of virtue and
 freedom in political regulations, might save na­  
 tions and generations from misery and contempt.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_graftonnotch_ver01:data:sn83016025:00414210569:1887022501:0446/pct:34.95288574793875,8.283741966198525,9.83510011778563,5.177338728874077/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_graftonnotch_ver01:data:sn83016025:00414210569:1887022501:0446/pct:34.94774032091859,8.282756158514816,9.837332548211394,5.179697727002261/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -258,7 +258,7 @@ political regulations might save na­
 tions and generations from want, mis­  
 ery and contempt.&quot; Does not th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291104:1887030401:0743/pct:41.054313099041536,77.67295597484276,10.878594249201278,10.87324625060474/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291104:1887030401:0743/pct:41.054313099041536,77.68202709240445,10.890575079872205,10.870222544750847/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -375,7 +375,7 @@ of political regulations, mi_:ht : Secure
 whole nations and generations from  
 misery, want and contempt.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_chaska_ver01:data:sn90059522:00175033270:1887100201:0391/pct:14.394265232974911,27.41244922604018,11.340501792114695,13.085958941706005/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_chaska_ver01:data:sn90059522:00175033270:1887100201:0391/pct:14.403823178016726,27.419767995023236,11.335722819593787,13.085958941706005/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -422,7 +422,7 @@ tue ana freedom of political rcgiilationsr|^H
 ^ might secure whole nations and genera- HH  
 tions from misery, want and contempt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00202194060:1887101901:0090/pct:70.4288589564948,1.609442060085837,30.12850286422047,96.7381974248927/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00202194060:1887101901:0090/pct:70.4288589564948,1.6130185979971388,30.1388243794189,96.741773962804/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -615,7 +615,7 @@ ask you, rather, if you are not of my
 opinion? Were not her talents and vir­  
 tues too much confined to private, so
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ash_ver01:data:sn84020358:00415621152:1896080101:0222/pct:73.91475927387529,91.34728773584905,16.397000789265984,5.807783018867925/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ash_ver01:data:sn84020358:00415621152:1896080101:0222/pct:55.45687783698441,68.51415094339623,12.29524373396487,4.363207547169812/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -642,7 +642,7 @@ freedom of political regulations, might
 save whole nations and generations  
 from misery, want and contempt.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ash_ver01:data:sn84020358:00415621152:1896080101:0222/pct:90.84451460142068,44.75235849056604,16.4956590370955,8.52004716981132/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ash_ver01:data:sn84020358:00415621152:1896080101:0222/pct:68.14683244523387,33.564268867924525,12.393921452536018,6.397405660377358/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -678,7 +678,7 @@ tions, might save whole nations and
 generations from misery, want and con  
 tempt.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_galloway_ver01:data:sn85035776:00513685592:1897040201:0251/pct:34.80255611994101,59.51012246938265,9.864001310830739,10.309922519370158/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_galloway_ver01:data:sn85035776:00513685592:1897040201:0251/pct:34.796854521625164,59.50268649256529,9.866480996068152,10.311758090715982/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

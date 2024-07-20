@@ -136,7 +136,7 @@ llcve such an idea never entered intoany Ameri
 can breast, nor do I believe it ever will,Unless it  
 | will enter into the heads of those gentlemen who
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183992:1825090201:0132/pct:83.12750601443464,62.197880700083346,14.931836407377707,8.203357542564591/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183992:1825090201:0132/pct:83.11417575368826,62.19047619047619,14.934787256788539,8.206349206349206/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -234,7 +234,7 @@ verted to their oppression, and every power not
 granted thereby, remains with the people, a ltd at  
 their will.”—Ihit Mr. (Jeorgc Nicholas explicitly de
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1833021401:0358/pct:81.19681964011717,82.19223537219334,15.092760496582509,3.085941820595067/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1833021401:0358/pct:81.18549511854951,82.18314532183145,15.09530450953045,3.08928703089287/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -301,7 +301,7 @@ possession made, and men s minds were calm and
 was dillicult, extremely ditlieult, to agree to any gene­  
 ral system.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1840012801:0323/pct:79.49947549827664,63.21176587498758,16.00479544432789,6.528868130776111/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1840012801:0323/pct:79.49947549827664,63.21176587498758,16.014785953344322,6.535493060386234/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -458,7 +458,7 @@ Whilst we might refer to some of the distinguished !
 men who have appeared in that State, from whose ar- j  
 chives we publish one of the noblest monuments of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850020901:0176/pct:48.88296098699566,40.41967213114754,16.572190730243413,7.213114754098361/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850020901:0176/pct:48.88296098699566,40.41967213114754,16.588862954318106,7.226229508196721/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -517,7 +517,7 @@ o a LTe Sta^.agree that they acted wrongly and could not
 ^ its Jfefects-&#x27;read back the steps which they have taken,  
 and come lorward and reduce it to uncwtam^ whetl1 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850120601:1294/pct:30.806529820591564,14.859896031444148,16.583158235008888,19.297578293394192/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850120601:1294/pct:30.81191746134368,14.859896031444148,16.583158235008888,19.306031021512194/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -578,7 +578,7 @@ ihould bind themselves to the defence of the
 Should it )? in the power of the minority to  
 deprive them of this and other advantages,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1853070701:0790/pct:20.735273638768973,75.15539829779095,14.468736944715221,20.990723916993403/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1853070701:0790/pct:20.739915517801606,75.16177361257212,14.464095065682589,20.990723916993403/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -635,7 +635,7 @@ will enter into the heads of those gentlemen e
 . ;?o substitute unsupported suspicious for rea- s  
 aons ?Page 452
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1853070701:0790/pct:33.37975212365966,4.523285837238213,14.134521654365686,91.66108826623315/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1853070701:0790/pct:33.37975212365966,4.523285837238213,14.13916353339832,91.66746358101432/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -758,7 +758,7 @@ w
   
 any former campaign, and what l.as i discourage and alienate the affection
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn87058042:00279529340:1864100701:1045/pct:64.11211924821775,38.2034632034632,29.2449773169151,7.527657527657528/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn87058042:00279529340:1864100701:1045/pct:64.11751998271765,38.2034632034632,29.25037805141499,7.535674202340869/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -789,7 +789,7 @@ $ strip them tSwir property^ and
   
 five-thirteenths of the Union?&#x27;&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn87058042:00279529340:1864100701:1045/pct:79.00194426441996,31.25300625300625,14.403758911211925,15.31986531986532/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn87058042:00279529340:1864100701:1045/pct:79.01274573341975,31.257014590347925,14.403758911211925,15.331890331890332/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -840,7 +840,7 @@ of five-thirteenths of the Union?&quot;
   
 was not in the pogession of the United j«ifuation as it was to the circumsttiu**
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn87058042:00279529340:1864100702:0853/pct:64.8220064724919,29.061480855175745,29.611650485436893,20.932479768087934/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn87058042:00279529340:1864100702:0853/pct:64.83279395900755,29.06953335749084,29.611650485436893,20.932479768087934/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -926,7 +926,7 @@ cal declaration of the principles of the
 adoption.&quot;, ; V  
 But it may be objected, as it has been
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_ireland_ver01:data:sn84022644:0029586753A:1866021701:0063/pct:58.20873205741627,82.54917749913724,16.04366028708134,6.407454273553434/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_ireland_ver01:data:sn84022644:0029586753A:1866021701:0063/pct:43.6668162105578,61.911883124352926,12.038283236129804,4.808466582307604/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

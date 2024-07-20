@@ -473,7 +473,7 @@ liowe *er distant, to the right of a state execu­
 tive, or a state iejislaturef to instruct the Sena­  
 te* itt Congress of its puiticular state,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812022701:0072/pct:60.897773101876204,76.61414524345457,16.95598807645099,14.476957706432888/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812022701:0072/pct:60.88709677419355,76.60506988865198,16.9588592800374,14.479191344862986/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -681,7 +681,7 @@ ander any system,and will suffics under the new
 as well as the old.” 1  
 That a Treasurer was considered indispen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1834052701:0397/pct:49.61318051575931,79.55053786345724,13.997134670487107,5.655554372137608/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1834052701:0397/pct:49.61318051575931,79.55408811730038,14.011461318051577,5.6520041182944585/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -858,7 +858,7 @@ public papers will be expeditious messenges |
 of intelligence to the most remote inhabitants  
 of the Union.” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215683:1840092101:0108/pct:22.62100757326309,88.75028698247493,14.927011305015915,5.487104920792837/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215683:1840092101:0108/pct:22.61852502194908,88.74349556167738,14.929031314018145,5.489235792266095/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -920,7 +920,7 @@ stand ready to sound the alarm when necessary,
 and to point out the actors in any pernicious pro-1  
 ject.&quot; Knowing that this duty is expected o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82016317:00415661642:1844011101:0266/pct:59.5211161387632,47.146103462103994,19.155354449472096,7.044512765673038/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82016317:00415661642:1844011101:0266/pct:59.5211161387632,47.1550149267032,19.161639014580192,7.040057033373435/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -956,7 +956,7 @@ Those who are at a distance, and will stand ready
 to sound the alarm when necessary, and to point  
 out the actors in any pernioious project.” Know 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215737:1844011201:0580/pct:37.06070287539936,35.002368225184384,14.896166134185304,5.879964814940117/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215737:1844011201:0580/pct:37.057003094738945,35.0,14.898006721906093,5.881822282363554/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1107,7 +1107,7 @@ fatal evil, he is everywhere pecullarly emphatical in his
 encomiums on the habeas corpus act, which in one place  
 calls the bulwark of the Sritish Constitution.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530340:1851040701:0044/pct:152.26693835965358,59.445086705202314,47.93683138053999,27.213872832369944/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530340:1851040701:0044/pct:50.75564611988453,19.815028901734102,15.97894379351333,9.071290944123314/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1152,7 +1152,7 @@ emphatical in his encomiums on the hubens
 corpus act, which in one place calls the &quot;bul­  
 wark of the British Constitution.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:0028077697A:1851041801:0275/pct:327.3049645390071,125.72884234361732,50.354609929078016,62.04358901783187/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:0028077697A:1851041801:0275/pct:81.85526782547002,31.43221058590433,12.593118126995389,15.510897254457968/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1179,7 +1179,7 @@ the first; such, also, was the declaration of right pre
 * by the Lords and Commons to the Prince of Orange, ii:  
 1 and afterwards thrown into an act of Parliament cal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:0041566123A:1854080501:0126/pct:66.96817961557099,72.43031908185144,14.650298820869004,7.806785218817001/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:0041566123A:1854080501:0126/pct:66.96817961557099,72.43452305881364,14.655682980670866,7.806785218817001/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1212,7 +1212,7 @@ re^u latin* power; but it is evident that it
 I Toll furnish, to men disposed to usurp, a  
 plausible pretence for claiming that powe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dior_ver01:data:sn85025007:00415663511:1861011501:0257/pct:2.035027133695116,11.835426128773712,14.109521460286137,10.838008727402261/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dior_ver01:data:sn85025007:00415663511:1861011501:0257/pct:2.035027133695116,11.841363137115207,14.109521460286137,10.84097723157301/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1229,7 +1229,7 @@ plausible pretence for claiming that powe
 shall not be restrained, when no po*er ? ,  
 given by which restrictions ma} be l
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dior_ver01:data:sn85025007:00415663511:1861011501:0257/pct:2.3063640848544646,26.743254074271974,13.788850518006907,1.9592127526939176/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dior_ver01:data:sn85025007:00415663511:1861011501:0257/pct:2.3145864167077783,26.746222578442723,13.78473935208025,1.962181256864666/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1256,7 +1256,7 @@ the happiness of our own Constitution is
 that it is not left to the Executive power  
 to determine when the danger of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn89060119:00415623495:1861060601:0078/pct:140.65239814337286,76.21749408983452,41.722537390407425,22.250591016548462/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn89060119:00415623495:1861060601:0078/pct:46.88413271445762,25.40583136327817,13.907512463469143,7.416863672182821/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1285,7 +1285,7 @@ happiness of our Constitution is, that it is not
 left to the Executive power to determine when  
 the danger of the State is so great as to rende
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774662:1861071301:0668/pct:174.43661971830986,300.2087682672234,49.50704225352113,26.931106471816285/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774662:1861071301:0668/pct:43.624515674533285,75.05219206680584,12.381120112715745,6.732776617954071/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1315,7 +1315,7 @@ the danger of the State is so great as to rende
 to the Executive power to determine when  
 &quot;the danger of the State is so great as to rende
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn82005159:00296028447:1861071901:0504/pct:20.733290071382218,10.729090465740063,14.73069435431538,8.92465252377469/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn82005159:00296028447:1861071901:0504/pct:20.74410555916072,10.733154515158905,14.741509842093878,8.92871657319353/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1341,7 +1341,7 @@ to the Executive power to determine when
 &quot;when the Siate is in real danger, even this  
 &quot;may be a necessary measure. Bat the happi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn82005159:00296028447:1861071902:0508/pct:22.327905852007092,11.002683581361307,14.557472190875384,6.79434008294706/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn82005159:00296028447:1861071902:0508/pct:22.338653339781825,11.006749613726925,14.552098446988017,6.802472147678295/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1503,7 +1503,7 @@ bitrary government
 And yet sometimes, when the State is  
 in real danger, even this may be a neces
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014489:00279557244:1862050301:0073/pct:16.951566951566953,57.3181998152303,11.235754985754985,6.11059786195064/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014489:00279557244:1862050301:0073/pct:16.951566951566953,57.3181998152303,11.249109686609687,6.11059786195064/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1527,7 +1527,7 @@ ing him to jail, where his sufferings are unknown
 or forgotten, is a less public, a less striking, and  
 therefore a more dangerous engine of arbitrar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295742:1862092601:0318/pct:17.45589600742804,174.31176418518191,49.535747446610955,17.632999911480923/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295742:1862092601:0318/pct:4.36397400185701,43.57794104629548,12.383936861652739,4.408249977870231/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1603,7 +1603,7 @@ forgotnfo, is a less public, a less striking,
 and therefore a more dangerous engine of  
 arbitrary government.’’—Lancaster Intel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_henson_ver01:data:sn88065733:00415625649:1862101101:0173/pct:76.62877131613467,8.061282932416953,22.278093572365545,9.178121420389461/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_henson_ver01:data:sn88065733:00415625649:1862101101:0173/pct:59.397944199706316,6.254854817828741,17.25968598215294,7.116700573330867/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1633,7 +1633,7 @@ a more dangerous engine of arbitrary
 overnment, and yet when the State is  
 even this is sometimes a neces-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn82014129:00279528724:1862102901:0451/pct:112.21351025331725,187.6598686484618,33.79071170084439,21.06233437031916/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn82014129:00279528724:1862102901:0451/pct:37.40450341777242,62.55328954948727,11.26357056694813,7.020778123439721/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1659,7 +1659,7 @@ j forgotten, is a le-s public, a le-S striking, and
 ry government.&quot;  
 &lt;.—
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn86081912:00296028617:1862102901:0049/pct:50.62868056660831,54.77066205106015,15.23157727200382,7.377758546083946/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn86081912:00296028617:1862102901:0049/pct:50.62868056660831,54.77066205106015,15.242187914478222,7.392182316457522/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1706,7 +1706,7 @@ e o e e e e e
 A More dangeroes form of Arbitrary  
 GOWVERNMENT
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_dillinger_ver02:data:sn87056248:00200295808:1862110601:0189/pct:69.3371483071054,48.118305052611625,52.36051502145923,70.2246658451038/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_dillinger_ver02:data:sn87056248:00200295808:1862110601:0189/pct:17.338421178154068,12.029576263152906,13.093250655854996,17.55616646127595/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1731,7 +1731,7 @@ known or forgotten, is a lesa public, a leas
 striking and therefore a more dangerous en­  
 gine of arbitrary government.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn85026002:00280775058:1862111701:0248/pct:84.21532846715328,239.39828080229228,55.93065693430657,24.498567335243553/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn85026002:00280775058:1862111701:0248/pct:21.05383211678832,59.84957020057307,13.982664233576642,6.124641833810888/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1774,7 +1774,7 @@ thors may be justified; if wrong, that the peo­
 ple may consider their remedies under the Con­  
 atitutton. t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774686:1863020401:0555/pct:260.43338683788124,173.46938775510205,55.858747993579456,54.45757250268529/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774686:1863020401:0555/pct:65.13448414291449,43.36734693877551,13.970293054997994,13.614393125671322/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1800,7 +1800,7 @@ more dangerous engine of arbitrary gov­
 ernment.  
 The reason womeh so seldom atasaisa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014487:00279557244:1863020701:0234/pct:81.35813953488372,74.27560876071283,12.111627906976745,6.33927356822201/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014487:00279557244:1863020701:0234/pct:81.36744186046512,74.27900965854985,12.130232558139534,6.346075363896069/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1951,7 +1951,7 @@ measure. Hut the happiness of the Constitu­
 tion is that it is not left to the Executive pow­  
 er to dcterminne when the danger of the Stat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn82005159:00296028459:1863040301:0367/pct:80.53993250843645,38.206205121257284,14.623172103487065,7.830917219888904/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn82005159:00296028459:1863040301:0367/pct:80.53993250843645,38.21072122115341,14.641919760029996,7.830917219888904/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1975,7 +1975,7 @@ of arbitrary imprisonments, have been in all ages
 the favorite and most formidable instruments of  
 Tyranny. The observations of the judicious
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295717:1863042101:0388/pct:75.03480278422273,328.856815981695,49.791183294663576,15.348059491331515/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295717:1863042101:0388/pct:18.760877131917855,82.21420399542374,12.449240051050007,3.837014872832879/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2016,7 +2016,7 @@ by common consent. She handed it over to the e in oe o ae io e o a a
 boys belonging to the batter an o do e ee in i a e a e e e  
 health was drank with three times three.I subject only to the power of the lan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295717:1863042101:0388/pct:23.665893271461716,346.669013464754,101.34570765661253,39.32060195370941/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295717:1863042101:0388/pct:5.9171597633136095,86.6672533661885,25.339366515837103,9.830150488427352/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2096,7 +2096,7 @@ the happiness of our coustitution is, that it
 not left to the exceutive power to determ.  
 ine when the danger of the State is so grea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1863050701:0607/pct:203.48742903487428,30.658946787979048,112.32765612327655,342.8728977116074/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1863050701:0607/pct:50.9028200446338,7.664736696994762,28.099005883546358,85.71822442790184/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2120,7 +2120,7 @@ The creation of crimes after the commis,
   
 ion of the fact, or, in other words, the su
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_abraham_ver02:data:sn84023963:00200295997:1863050901:0847/pct:4.119547657512117,75.51155115511551,68.17447495961228,22.97029702970297/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_abraham_ver02:data:sn84023963:00200295997:1863050901:0847/pct:1.0303030303030303,18.877887788778878,17.050505050505052,5.742574257425742/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2144,7 +2144,7 @@ awy anf the sractice of arbitary imyour Scandinavian Remedies, and the bene Mola
 prionsente have been in all ages the efit she derived from using them. Sha had Nadesg.  
 faverlte and most formidable in struments of been suffering from general prostration a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_abraham_ver02:data:sn84023963:00200295997:1863050901:0847/pct:4.361873990306947,95.26072607260726,167.6898222940226,17.584158415841586/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_abraham_ver02:data:sn84023963:00200295997:1863050901:0847/pct:1.0909090909090908,23.815181518151814,41.93939393939394,4.396039603960396/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2162,7 +2162,7 @@ siacketone, in ceference to the latter, areland ophthalmis and inflammation of t
 osif warthy of recital. To bereave a manstace. Various remedice were resorted tolp Lard,  
 of lits, or, by violence to confiscate his eewithout relief, when eome friends recom penches, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_abraham_ver02:data:sn84023963:00200295997:1863050901:0847/pct:5.008077544426494,112.15841584158416,161.55088852988692,12.092409240924093/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_abraham_ver02:data:sn84023963:00200295997:1863050901:0847/pct:1.2525252525252526,28.03960396039604,40.4040404040404,3.0231023102310233/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2241,7 +2241,7 @@ the public safety may require it.
 3. No bill of attainder, or ex post facto  
 law, shall be passed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027479:1863060301:0544/pct:58.45091122868901,20.948711774620755,16.064079952968843,17.33686491692752/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027479:1863060301:0544/pct:43.85474860335196,15.711533830965568,12.055277859453103,13.002648687695642/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2268,7 +2268,7 @@ accept of any present, emolument, office,
 or title of any kind whatever, from any  
 kind, prince, or foreign State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027479:1863060301:0544/pct:25.01469723691946,49.86756561521791,49.6031746031746,21.045027690825908/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027479:1863060301:0544/pct:18.773890032343427,37.406693956176255,37.209644222287565,15.783770768119432/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2293,7 +2293,7 @@ stop here.
 &quot;No person&#x27;  
 Says the Constitution
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1863061101:0626/pct:262.95081967213116,201.8221976808393,55.65573770491803,27.0568746548868/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1863061101:0626/pct:65.76465764657647,50.45554942020983,13.919639196391964,6.7642186637217/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2358,7 +2358,7 @@ be boasts of his power! Americans, men
 who claim that they are capable of self­  
 government, bow their heads in tho dust
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014487:00279557244:1863080801:0337/pct:8.51104707012488,34.93479752916953,12.44956772334294,25.024021962937542/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014487:00279557244:1863080801:0337/pct:8.51104707012488,34.9382292381606,12.459173871277617,25.034317089910775/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2458,7 +2458,7 @@ less striking, and therefore a more dan­
 gerous engine of arbitrary government.&quot;  
 When is it intended to restore to lib
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292960:1867071601:0044/pct:96.58172778123058,268.7520947380181,37.973896830329394,12.333817450564183/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292960:1867071601:0044/pct:24.149184149184148,67.18802368450453,9.494949494949495,3.0834543626410458/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2486,7 +2486,7 @@ more dangerous engine of arbitrary gov­
 ernment.”  
 That was written more than a hundre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_henson_ver01:data:sn83016107:00415625480:1870081901:0566/pct:6.555959176613043,63.103354240523586,15.637432970074382,8.931006272157077/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_henson_ver01:data:sn83016107:00415625480:1870081901:0566/pct:5.089820359281437,48.908066220500174,12.114576816516221,6.92497358224727/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2728,7 +2728,7 @@ this query: “Why declare that things
 shall not be done which there is no pow­  
 er to do? Now it cannot be denied ba
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346770:1876110201:0456/pct:32.85761154855643,29.916523447090597,13.238188976377952,1.497667566904002/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346770:1876110201:0456/pct:32.85761154855643,29.924707422866028,13.254593175853019,1.4894835911285702/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2849,7 +2849,7 @@ are discharged from any of their obligations
 by a change in the form of cieit government.&quot;  
 Vide Rutherford Inst., 2 vol, book 3, chapte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_omahoney_ver01:data:sn83026413:00212475476:1879022401:0209/pct:17.572741194486984,250.8742171189979,43.816998468606435,5.362734864300626/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_omahoney_ver01:data:sn83026413:00212475476:1879022401:0209/pct:5.857580398162328,83.62473903966597,14.605666156202144,1.7875782881002087/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2903,7 +2903,7 @@ been expressly granted to it, or such as is necessary
 or proi-cr for carrying into execution the powers  
 specified, and those vested by tbe Constitution i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lytton_ver01:data:sn82014381:00175037901:1880020401:0162/pct:57.37274794472626,39.77258682486713,11.64946650341088,2.632554690396737/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lytton_ver01:data:sn82014381:00175037901:1880020401:0162/pct:57.37274794472626,39.778766530713135,11.64946650341088,2.6263749845507354/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2949,7 +2949,7 @@ to determine when the danger of th
 included the declaration that &quot; The liberty  
 of the press shall be inviolably preserved.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_mojave_ver01:data:sn82014381:00175036507:1886071701:0189/pct:40.65428242643433,23.059194565744782,10.619759986848594,0.8127122755943716/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_mojave_ver01:data:sn82014381:00175036507:1886071701:0189/pct:40.65839224067072,23.06525958272683,10.640309058030576,0.8187772925764192/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2974,7 +2974,7 @@ are unknown or forgotten, is a less strik­
 ing, and therefore a more dangerous en­  
 gine of arbitrary government.” Stephens
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_fox_ver01:data:sn82016399:00517173514:1891101601:0758/pct:35.9070796460177,55.62831306516994,15.044247787610619,6.485812285625195/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_fox_ver01:data:sn82016399:00517173514:1891101601:0758/pct:35.899137358991375,55.61964146531567,15.046449900464498,6.488698363211224/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3017,7 +3017,7 @@ and of the Government. And here, after all, as
 intimated upon another occasion, must we seek  
 for the only solid basis of all our right
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175045193:1895040701:0281/pct:120.9104938271605,188.42473036609448,51.157407407407405,28.679933161172716/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175045193:1895040701:0281/pct:30.23345552768667,47.10618259152362,12.791819409608335,7.169983290293179/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3050,7 +3050,7 @@ forgotten, is a less public, a less strik­
 ing and therefore a more dangerotin en­  
 gine of arbitrary government.&quot; T
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_india_ver02:data:sn86071158:00206536391:1896032901:1104/pct:42.96619411123228,142.46128769356153,103.16248636859324,22.249388753056234/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_india_ver02:data:sn86071158:00206536391:1896032901:1104/pct:10.750341064120054,35.61532192339038,25.811732605729876,5.5623471882640585/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

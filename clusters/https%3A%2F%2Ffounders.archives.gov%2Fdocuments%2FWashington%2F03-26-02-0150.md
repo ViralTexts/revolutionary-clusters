@@ -110,7 +110,7 @@ proof. si
 td I leet in a very short spece ; and this  
 &quot;) widcad us in thejudgment we for
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1806030401:0277/pct:2.1725239616613417,41.72882004207305,20.159744408945688,25.970548862115127/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1806030401:0277/pct:2.1721769685353776,41.72483028970265,20.16184848000852,25.971252828504955/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -150,7 +150,7 @@ Of greater exertion: than that of :­
 WHEN&quot; into a diﬀerent position The  
 done &#x27;3 Of the present fiaauci&#x27;er hav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1806030401:0277/pct:1.3258785942492013,67.63243449990438,21.00638977635783,20.998278829604132/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1806030401:0277/pct:1.3256668263855613,67.62596806578067,21.008358622158333,20.99945820186761/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -261,7 +261,7 @@ sures ; nor has it been the case in this ;
 which has already been ao small detri­  
 ment to the common cause.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1806031401:0577/pct:4.964336661911555,4.235463029432879,41.59771754636234,91.02656137832017/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1806031401:0577/pct:4.962920707358814,4.234703032478019,41.59298345693097,91.01471379867218/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -285,7 +285,7 @@ phe biing near. I am persuaded it will at least last
 out the iear.”  
 Frederick called this illustrious man tho greates
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1829070701:0073/pct:81.03903727619607,38.1259353056291,15.482829468740828,4.512489927477841/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1829070701:0073/pct:81.02714600146736,38.12154696132597,15.485448764979212,4.515807243707796/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -406,7 +406,7 @@ and extraordinary expedients are nece
 I am decided in this opinion.&quot;  
 a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_kings_ver01:data:sn83025813:00415667115:1864022601:0060/pct:335.6664951106536,94.4733112895607,55.99588265568708,15.266887104393009/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_kings_ver01:data:sn83025813:00415667115:1864022601:0060/pct:83.9490281889561,23.618327822390174,14.00437636761488,3.816721776098252/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -785,7 +785,7 @@ and from that point of view America is more tha
 
 ---
 
-## [From _The Living Age (1897-1941)_](https://archive.org/details/sim_living-age_1898-05-14_217_2810/page/n28/mode/1up?view=theater)
+## [From _The Living age_](https://archive.org/details/sim_living-age_1898-05-14_217_2810/page/n28/mode/1up?view=theater)
 
 #### 1898-05-14 &middot; [Boston](http://dbpedia.org/resource/Boston)
 

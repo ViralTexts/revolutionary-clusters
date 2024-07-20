@@ -1309,7 +1309,7 @@ mighty, who art, and wast and art to
 come, because thou hast taken to thee thy  
 great power, and hast reigned.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016160:1894020101:0228/pct:37.666088965915655,78.6685962373372,11.188137877912574,1.939218523878437/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016160:1894020101:0228/pct:37.658837119753564,78.6572131384749,11.190797073546399,1.94255534654898/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1334,7 +1334,7 @@ think of the result.
 there any good thing come ou&lt; of Nazareth?  
 Philip saith unto him, Come and see.&quot; It i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:0023728737A:1894081501:0231/pct:42.675459255770136,50.924639230358096,13.612812058407913,5.024051309460182/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:0023728737A:1894081501:0231/pct:42.675459255770136,50.931765544272224,13.612812058407913,5.024051309460182/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1359,7 +1359,7 @@ think of the result.
 there any good thing come out of Nazareth?  
 Philip 9aith unto him, Come and see.” It i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn85035722:0051368518A:1894081801:0188/pct:35.67982456140351,57.951565633194505,14.035087719298245,4.997686256362795/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn85035722:0051368518A:1894081801:0188/pct:35.672001754001315,57.94262800740284,14.037491778118834,5.000771128932757/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1624,7 +1624,7 @@ now what we desired of Thee.&quot;—David ii.. 83.
 that regardeth not tho day. to the Lord he doth not regard it. llu  
 that eateth. c&amp;tcth to the Lord, for he giveth (lod thanks.&quot;—Roman
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_floyd_ver01:data:sn86092245:0027955033A:1899112301:0402/pct:30.073750341436767,42.851063829787236,21.906582900846765,5.648936170212766/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_floyd_ver01:data:sn86092245:0027955033A:1899112301:0402/pct:30.069643588693157,42.84650569088395,21.908143292821702,5.651881005566784/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

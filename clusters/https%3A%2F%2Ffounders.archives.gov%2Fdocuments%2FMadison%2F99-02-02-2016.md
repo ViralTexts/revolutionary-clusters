@@ -192,7 +192,7 @@ Isas at comi’i uni a puysic-il force lor executing the
 powers ciuniiiit&#x27;f.d o it. The concurrent operation  
 in certain cases, bone of Hie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830101301:0978/pct:7.565122445796288,36.038514442916096,17.594759007955076,12.34525447042641/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830101301:0978/pct:7.56394260761073,36.03438395415473,17.597213557912248,12.347659980897804/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -329,7 +329,7 @@ larly valued by a large majority, can have but -j
 one answer. a  
 The difficulty is not removed by limiting the 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661484:1851092901:0936/pct:58.68040005971041,34.255935147654895,13.987162263024333,3.1962941517081647/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661484:1851092901:0936/pct:58.685375926755235,34.26365566492955,13.992138130069165,3.1962941517081647/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -346,7 +346,7 @@ ernment within the sphere of its powers, as the
 governments of the States are within their re-  
 spective spheres, and operates as directly upo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026050:00280775848:1861092001:0717/pct:44.173492181682796,62.74065685164213,16.232315711094564,1.7695356738391845/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026050:00280775848:1861092001:0717/pct:33.140942096443865,47.0554926387316,12.176503444423757,1.3306908267270667/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -370,7 +370,7 @@ of both. The work of Mr. Rives owes its chief in
 terest to the political importance of its subject,  
 rather than to any peculiar attractions in its execu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_delphi_ver02:data:sn83030213:00206530820:1866031501:0572/pct:52.018495465054244,206.6183943089431,49.59985772719189,19.334349593495936/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_delphi_ver02:data:sn83030213:00206530820:1866031501:0572/pct:17.339498488351413,68.87279810298104,16.533285909063963,6.4447831978319785/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -1133,7 +1133,7 @@ is the place of him that knoweth not God.”—
 Such a description, like the lightning of heaven,  
 cannot be illuminated; its bolt, it cannot b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517016500:1843092901:0056/pct:33.88195232690125,49.49780732776913,14.661369655694287,3.932663743103692/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517016500:1843092901:0056/pct:33.87554378664649,49.49080622347949,14.663325137128806,3.9356435643564356/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1312,7 +1312,7 @@ Of its painted leaf and bel!
 Has thou entered into the treasures of the snow? or hast  
 thou seen the treasures of the hail?--Jon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777602:1848021001:0657/pct:10.912981455064195,94.08474339253252,49.001426533523535,2.5171304712627602/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777602:1848021001:0657/pct:2.7282453637660486,23.52118584813313,12.250356633380884,0.6292826178156901/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1368,7 +1368,7 @@ DIES and BODIES TERRESTRIAL, but the glory of
 the Celestial is one, and the glory of the Terrestrial is  
 another. So also in the resurrection of the dead ji
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_angelou_ver01:data:sn83030362:print00211110004:1849042201:0001/pct:36.528301886792455,35.79426172148356,9.630188679245283,1.1779799393515278/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_angelou_ver01:data:sn83030362:print00211110004:1849042201:0001/pct:36.528301886792455,35.80300909727082,9.645283018867925,1.1838115232097037/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1572,7 +1572,7 @@ glory of the stars; for one star differeth from another
 star in glory. So also is the resurrection of the dead.  
 it is sown in corruption; it is raised in incorruption it i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743208:1854111201:1112/pct:103.44429795649307,199.23889583096673,46.3744232036915,10.803135294785868/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743208:1854111201:1112/pct:34.48143265216436,66.4129652769889,15.458141067897165,3.601045098261956/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1595,7 +1595,7 @@ glory of the stars; for one star differeth from another
 star in glory. So also is the resurrection of the dead.  
 It is sown in corruption; it is raised in incorruption it i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743208:1854111201:1113/pct:102.23073081405028,197.9705848819975,47.17829199267521,10.865351727283093/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743208:1854111201:1113/pct:34.076910271350094,65.99019496066583,15.726097330891738,3.621783909094364/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1762,7 +1762,7 @@ for one star differeth from another star in glory. Soalso is the
 resurrection of the dead. It is sown in corruption; it is raised  
 in incorruption. It is sown in diskonor; it is raised in glory
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743257:1857020501:0311/pct:63.793918386639355,98.07282913165267,44.871592878525284,9.142857142857142/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743257:1857020501:0311/pct:21.26463946221312,32.69094304388422,14.957197626175097,3.0476190476190474/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1809,7 +1809,7 @@ cails it forth?
 We may not be permitted, even in imag­  
 ination, to aee heaven, this side of the grave
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279520944:1857030701:0308/pct:112.64786169244768,11.98080423630647,105.93721565059144,373.67201720999503/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279520944:1857030701:0308/pct:28.15556060950648,2.99470549305096,26.478280645894927,93.40254798146923/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1838,7 +1838,7 @@ ProliFiC. There is a man in White county,
 Illinois, who has a wife that has borne him sixteen  
 children; the first six came by twos, the succeedin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202191009:1857052201:0487/pct:102.27313729027603,208.9339611251962,44.235973299657225,17.795484727755642/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202191009:1857052201:0487/pct:34.09104576342534,69.64465370839874,14.745324433219075,5.9318282425852145/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2273,7 +2273,7 @@ we have by covenant with All-ruling Heaven,
 and our disenthraliment is as sure as the laws  
 of nature and the irreversible behests of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:0020029001A:1863121101:0529/pct:202.12249848392966,103.7216632319069,42.935112189205576,37.48333131288641/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:0020029001A:1863121101:0529/pct:50.5459508644222,25.930415807976726,10.737033666969973,9.370832828221603/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2361,7 +2361,7 @@ from another star n glory.
 So also is the resurrection of the dead; it is sown in  
 corruption, it is ralsed in incorruption
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743518:1865042001:0179/pct:196.310742727125,55.88168886881915,45.29497805948318,12.914879205238202/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743518:1865042001:0179/pct:65.436914242375,18.627229622939716,15.098326019827727,4.304959735079401/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2769,7 +2769,7 @@ bind him handaud foot and take him away and
 cast him into outer darkness; there shall he  
 weeping and gnashing of teeth.” I mast ad
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn97064666:0051701607A:1873030801:0041/pct:57.58876316816231,51.756569847856156,12.485368708544675,3.831258644536653/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn97064666:0051701607A:1873030801:0041/pct:57.577530719719135,51.74941225280044,12.487809635264288,3.8341861429954363/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2820,7 +2820,7 @@ the sermon on the mount, &quot;Seer ye first the
 ahtawiss on tid. otrive to entor int the aing-  
 dom of heaven. The parable from which th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_american_ver01:data:sn86053573:00237288920:1873112401:0517/pct:113.78986866791745,94.49365989230502,43.43339587242026,21.33055410804238/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_american_ver01:data:sn86053573:00237288920:1873112401:0517/pct:28.460816518066636,23.623414973076255,10.863444392304082,5.332638527010595/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2945,7 +2945,7 @@ servant of God, a disciple of the Savior. &quot;To me, per
 sonally,&quot; said the speaker, I he was a son and a brother.  
 and his memory is sweet and precious. The last word
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:0020653123A:1875110901:0320/pct:6.422315926046059,151.9362186788155,47.080765488160885,12.904328018223234/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:0020653123A:1875110901:0320/pct:2.1407719753486862,50.64540622627183,15.693588496053627,4.301442672741079/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2986,7 +2986,7 @@ why thou wast born? Hast thou entered into the
 treasures of the snow, or hail? By what way  
 is the light parted, which scattereth the eas
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84038582:00212471537:1878082401:1163/pct:33.410315627405694,255.95523581135092,58.27559661277906,21.849187316813214/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84038582:00212471537:1878082401:1163/pct:8.352578906851424,63.98880895283773,14.568899153194765,5.462296829203304/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3039,7 +3039,7 @@ Mute witness of the unequal strife-
 Thrills with the promise of the Sun.  
 The
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:00271744043:1878120201:0804/pct:198.64548494983276,110.44776119402985,46.92307692307692,24.695752009184844/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:00271744043:1878120201:0804/pct:66.21516164994426,36.81592039800995,15.64102564102564,8.231917336394948/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3071,7 +3071,7 @@ outer darkness ; there shall be weep-
   
 log and gnashing of teeth.&quot; (Mat.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_ida_ver01:data:sn85033681:00296021106:1879022601:0036/pct:98.01953336950623,90.34048457679582,14.378730330982094,7.450101398228199/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_ida_ver01:data:sn85033681:00296021106:1879022601:0036/pct:73.53140686474019,67.75536343259687,10.785510785510786,5.5929127975237485/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3100,7 +3100,7 @@ lecture I was satisfied and I was not satisfied. I
 was satisfied in the completeness, the thoroughness.  
 the mastery of the subject, the fearlessness and th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eucalyptus_ver01:data:sn83030313:00271744079:1879112501:0759/pct:194.5280211605224,80.25374855824683,53.512977351628365,21.24567474048443/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eucalyptus_ver01:data:sn83030313:00271744079:1879112501:0759/pct:64.84267372017413,26.75124951941561,17.837659117209455,7.081891580161477/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3200,7 +3200,7 @@ the service* the largest funeral procession
 ever seen in Half Moon Valley followed  
 the two bodie* to the place of interment a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn84009409:00296028757:1880051301:0574/pct:53.07424593967517,68.12149404843343,14.385150812064966,6.717745245587632/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn84009409:00296028757:1880051301:0574/pct:53.07424593967517,68.13061522324075,14.40448569218871,6.717745245587632/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3226,7 +3226,7 @@ tion. The guest was speechless. The command was given
 to &quot;bind him hand and foot and take him away and cast  
 him into outer darkness.&quot; The teaching of this passa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044747:1880051601:0366/pct:319.1818181818182,279.77818292312367,48.29090909090909,22.242479489516864/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044747:1880051601:0366/pct:79.79545454545455,69.94454573078092,12.072727272727272,5.560619872379216/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3367,7 +3367,7 @@ image of the heavenly.
 Now this I say, breihren, that flesh and blood cannot  
 inherit the Kingdom of God, helther doth corruption i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_rolls_ver01:data:sn83030214:00175039867:1881092701:0767/pct:52.01649862511457,128.68138087153366,47.18912312862817,15.891341256366724/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_rolls_ver01:data:sn83030214:00175039867:1881092701:0767/pct:17.338832875038193,42.89379362384456,15.729707709542723,5.297113752122241/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3391,7 +3391,7 @@ for one star differeth from another star in glory.
 So also is the resurrection of the dead. It is sown  
 in corruption, it is raised in incorruption; it i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_charlie_ver01:data:sn83045160:00280779611:1881092701:0297/pct:44.935344827586206,206.45296459249948,35.29094827586207,10.098470563586842/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_charlie_ver01:data:sn83045160:00280779611:1881092701:0297/pct:11.233836206896552,51.61324114812487,8.822737068965518,2.5246176408967105/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3441,7 +3441,7 @@ raised in power: it is sown a natural body; it is
 raised a spiritual lody ; and as we have borne tne  
 image ol the earthly, we shall also bear the im
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn84027490:0020219123A:1881100101:0342/pct:76.58749394086283,7.716077433427247,33.2040717401842,117.10442606561847/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn84027490:0020219123A:1881100101:0342/pct:57.45454545454545,5.7893301826774515,24.90909090909091,87.83059165682087/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3477,7 +3477,7 @@ ral body, it is raised a spiritual body
 and as we have borne the image of  
 the earthly we shall also bear th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quasar_ver01:data:sn85025431:00212479767:1881100501:0382/pct:86.65475886705792,38.108320251177396,11.265628986986476,10.292386185243329/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quasar_ver01:data:sn85025431:00212479767:1881100501:0382/pct:82.32870071105366,36.20320024856299,10.694085326438268,9.78095386049402/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3499,7 +3499,7 @@ glory of the moon, and another glo
 ry of the stars. For one star differ­  
 eth from another in glory.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_grange_ver01:data:sn84026409:00280776488:1881100501:0617/pct:129.8159509202454,102.11578702627295,40.67484662576687,15.345268542199488/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_grange_ver01:data:sn84026409:00280776488:1881100501:0617/pct:32.4639459957042,25.52894675656824,10.171831850260816,3.836317135549872/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3529,7 +3529,7 @@ ral body, it is raised a spiritual body
 and as we have borne the image of  
 the earthly we shall also bear th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_florence_ver01:data:sn85040344:00271769295:1881100801:0356/pct:83.84911674857219,9.692791239987834,12.086598485854696,7.796816384467201/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_florence_ver01:data:sn85040344:00271769295:1881100801:0356/pct:83.85354407402488,9.692791239987834,12.09102581130739,7.8069552874379/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3590,7 +3590,7 @@ albeit some would only keep them as they
 keep fossil specimens, on the sheges. The  
 old methods and the old teachrngs clai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282280:1882061601:0572/pct:223.53316326530611,320.9658140090844,49.234693877551024,46.56944776476213/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282280:1882061601:0572/pct:55.910033498165575,80.2414535022711,12.314563726272132,11.642361941190533/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3808,7 +3808,7 @@ ancient sea of ice, surrounding the North
 Pole had little effect, therefore God must  
 have had allusion to another place
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_ferrari_ver02:data:sn86088181:00200296941:1884022101:0916/pct:82.16175359032502,96.17749264902433,50.34013605442177,46.77893611333868/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_ferrari_ver02:data:sn86088181:00200296941:1884022101:0916/pct:20.540438397581255,24.044373162256083,12.585034013605442,11.69473402833467/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3861,7 +3861,7 @@ ural body; it is raised a spiritual body. In
 a moment, in the twinkling of an eye, wc  
 shall all be changed. For this corruptio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brockovich_ver02:data:sn85032575:00237281901:1884032001:0055/pct:78.20549513451631,28.496223392080566,11.419576416714367,10.631723506523231/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brockovich_ver02:data:sn85032575:00237281901:1884032001:0055/pct:58.67449184082451,21.377889677271686,8.574291440022902,7.976653696498055/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3936,7 +3936,7 @@ of the celestial is one, and the glory of
 the terrestrial is another.”  
 In conclusion, my brethren, the las
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016123:1885071601:0111/pct:28.907835972391393,64.63414634146342,12.362971985383679,1.9599303135888502/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016123:1885071601:0111/pct:28.9019687436574,64.6247641167078,12.365536837832352,1.9632747858905502/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3999,7 +3999,7 @@ urrection of the dead. It is sown in corruption,
 it is raised in incorraption; it is sown in  
 dishonor, it is raised in glory; it i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210132:1885120201:0272/pct:20.26805251641138,24.04800151185864,15.194201312910284,4.374940943021827/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210132:1885120201:0272/pct:20.26805251641138,24.04800151185864,15.203318745441283,4.374940943021827/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4086,7 +4086,7 @@ and foot and take him away and cast him in
 to outer darkness; there shall be weeping  
 and gnashing of teeth.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_elm_ver01:data:sn82015483:00271764261:1886092701:0310/pct:33.70118845500849,16.18612283169245,13.073005093378608,4.03187998124707/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_elm_ver01:data:sn82015483:00271764261:1886092701:0310/pct:25.293701344656757,12.142522269104548,9.80891719745223,3.0239099859353025/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4138,7 +4138,7 @@ the glory of the celestial is one nnd the
 glory of the terrestrial is another. So also  
 is the resurrection of the dead; it is sown i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_bobbsey_ver02:data:sn86063034:00414181958:1887092601:1240/pct:23.22742775085263,59.57446808510638,16.137138754263148,4.488675360329444/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_bobbsey_ver02:data:sn86063034:00414181958:1887092601:1240/pct:18.006028286575468,46.170212765957444,12.51101321585903,3.4858156028368796/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4370,7 +4370,7 @@ For many are called, but few ohosen.”
   
 CHRIST S LAST WARNING
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn90053049:00332897901:1888061601:0822/pct:5.080960357342267,41.951356670884294,12.134747813139773,5.2298608182201605/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn90053049:00332897901:1888061601:0822/pct:5.08001488649051,41.94545965701434,12.137141793822106,5.232639865054821/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4416,7 +4416,7 @@ raised a spiritual body. There is a natural body, and
 there is a spiritual body. Now, this I say, brethren, that  
 flesh and blood cannot inherit the kingdom of Ood
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_lorca_ver01:data:sn83030272:00206533109:1888102401:0643/pct:340.0,278.7108488424875,49.961977186311785,13.73884097442881/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_lorca_ver01:data:sn83030272:00206533109:1888102401:0643/pct:85.01616276858718,69.67771221062188,12.492869366799772,3.4347102436072023/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4543,7 +4543,7 @@ wrote: “Hast thou entered into the
 treasures of the snow? Or hast thou  
 seen-the treasures of the hail? Out o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348768:1890070301:0119/pct:61.52289006540018,29.560830180025228,10.650887573964496,1.123724343538585/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348768:1890070301:0119/pct:61.51331153666511,29.557440953909655,10.65312159427059,1.1264618206833295/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4673,7 +4673,7 @@ I large congregation this afternoon, I do
  so with considerable fear and trem  
  bling, and my trust is that God will hel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_james_ver01:data:sn83045555:00206539793:1892110501:1085/pct:0.23784355179704017,65.21002071953286,50.7399577167019,26.445658316067057/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_james_ver01:data:sn83045555:00206539793:1892110501:1085/pct:0.07932310946589106,21.736673573177622,16.922263352723427,8.815219438689018/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4710,7 +4710,7 @@ er star in glory. So also is the resur­
 rection of the dead. It is gown in cor­  
 ruption; it is rai$ed in incorruption; i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_holt_ver01:data:sn86092518:00414186713:1893031601:0088/pct:30.790035587188612,58.80369011010812,12.512455516014235,6.298978275964686/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_holt_ver01:data:sn86092518:00414186713:1893031601:0088/pct:30.785653287788215,58.79785756794287,12.515418920201158,6.301659723599815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4793,7 +4793,7 @@ from another star in glory. So, also, is th
 snow ? or hast thou seen the treasures of  
 the hail? Out of whose womb came th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kump_ver01:data:sn84026784:004141867109:1894042501:0274/pct:68.53614995537042,71.40060896041757,12.630169592383218,1.9573727707699/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kump_ver01:data:sn84026784:004141867109:1894042501:0274/pct:68.52595567455005,71.39284549309558,12.633249045564975,1.9607843137254901/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4827,7 +4827,7 @@ ago an ancient poet wrote: &quot;Hast thou entered
 into the treasure of the snow? Or hast thou  
 seen the treasures of the hail? Out of whos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_stein_ver01:data:sn83030272:00175045144:1894060301:0252/pct:78.69598180439728,143.63636363636363,50.11372251705838,4.363636363636363/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_stein_ver01:data:sn83030272:00175045144:1894060301:0252/pct:19.677725118483412,35.90909090909091,12.530805687203792,1.0909090909090908/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4862,7 +4862,7 @@ more centuries ago an ancient poet wrote:
 snow ? Or hast thou seen the treasures of  
 the hail? Out of whose womb came th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_oakland_ver01:data:sn82015104:00175036799:1894071401:0420/pct:30.935354691075514,27.90626902008521,12.542906178489703,1.5621829985798337/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_oakland_ver01:data:sn82015104:00175036799:1894071401:0420/pct:30.94488939740656,27.909650368566986,12.547673531655224,1.5621829985798337/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5115,7 +5115,7 @@ own in corruption, it is raised in incorruption
 It is not expedient for me doubtless to glory  
 I will come to visions and revelations of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_griffith_ver01:data:sn83045555:206534746:1897072401:0425/pct:76.91693290734824,223.42215988779805,37.61980830670927,17.852133840913645/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_griffith_ver01:data:sn83045555:206534746:1897072401:0425/pct:25.645805592543276,74.47405329593268,12.543275632490014,5.9507112803045485/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5177,7 +5177,7 @@ away and east him into outer darkness.
 Thero shall bo weeping and gnashing of  
 toeth.&quot; Only in soveu places do we iin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_dogwood_ver01:data:sn84026925:00295861496:1898042701:0032/pct:30.62575210589651,76.31826250391563,13.206979542719615,2.5582123838362745/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_dogwood_ver01:data:sn84026925:00295861496:1898042701:0032/pct:30.62575210589651,76.32174306498207,13.222021660649819,2.561692944902718/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5224,7 +5224,7 @@ away and cast him Into outer darkness.
 There shall be weeping and gnashing of  
 teeth.&quot; Only in soven plaoos do we fin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_gaylord_ver02:data:sn85033781:00296023826:1898050401:0102/pct:9.375,113.95015754798052,20.7521645021645,4.3922467296858585/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_gaylord_ver02:data:sn85033781:00296023826:1898050401:0102/pct:6.250845623055067,75.96677169865369,13.84115816533622,2.931347273942519/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5264,7 +5264,7 @@ away and cast him into outer darkness.
 There shall bo weeping and gnashing of  
 teeth.” Only in seven places do wo fin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_ketchup_ver01:data:sn87068192:00279529698:1898050501:0144/pct:20.87357330992098,79.17951881554596,14.288849868305531,3.053670573719926/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_ketchup_ver01:data:sn87068192:00279529698:1898050501:0144/pct:20.86899275839368,79.16730917501927,14.291200351108186,3.0570547417116423/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5284,7 +5284,7 @@ away and cast him into outer darkness.
 There shall be weeping and gnashing of  
 teeth.” Only in seven places do we fin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn85035722:00513685208:1898050701:0137/pct:75.22009321595029,76.72670047211051,16.49404453650958,3.007518796992481/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn85035722:00513685208:1898050701:0137/pct:75.20062127879886,76.7132867132867,16.496246440590216,3.0113636363636362/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5304,7 +5304,7 @@ away and cast him into outer darkness.
 There shall be weeping and gnashing of  
 teeth.&quot; Only in seven places do we fin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_ferrari_ver02:data:sn86064199:00200296667:1898050701:0440/pct:58.53333333333333,98.03602871461466,16.15,3.521603684139239/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_ferrari_ver02:data:sn86064199:00200296667:1898050701:0440/pct:43.92196098049025,73.53379385073818,12.122728030682008,2.6412027631044293/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5329,7 +5329,7 @@ called, but few are chosen.&quot;
 There are many interpretations of  
 this parable, and each one seeks t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_casper_ver01:data:sn85059533:00393349128:1898050701:0842/pct:78.11673784828147,37.39837398373984,14.622737441529388,7.597420801794224/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_casper_ver01:data:sn85059533:00393349128:1898050701:0842/pct:78.10085400569338,37.393132445690256,14.624847498983327,7.599859845830413/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5354,7 +5354,7 @@ called, but few are chosen.”
 There are many interpretations of  
 this parable, and each one seeks t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_duval_ver01:data:sn84038206:0039334927A:1898050701:0281/pct:84.03488177092068,31.037803997110522,10.833473084018111,6.38092944859138/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_duval_ver01:data:sn84038206:0039334927A:1898050701:0281/pct:84.02079141515762,31.034067653785964,10.835848423876593,6.383170819790538/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

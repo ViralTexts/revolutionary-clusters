@@ -1729,7 +1729,7 @@ wire, rising a foot or more above the wood.
 To the end of the twine next the hand he  
 tied a silk ribbon, (silk as we have sai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_chacha_ver03:data:sn87056247:00200294531:1857071601:0151/pct:42.76066350710901,97.8515625,16.682464454976305,8.723958333333334/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_chacha_ver03:data:sn87056247:00200294531:1857071601:0151/pct:32.07726033890271,73.39099702380952,12.513330963384288,6.5476190476190474/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1776,7 +1776,7 @@ And let the reader judge of the exqaisite pleasure
 he must have felt at that momeut, when  
 the discovery was complete! We owe t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1858082601:0357/pct:73.58856312091108,39.896030245746694,12.842258299006541,7.24007561436673/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1858082601:0357/pct:73.58856312091108,39.902331442974166,12.850335191018496,7.236925015752993/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1797,7 +1797,7 @@ before there was any appearance of its
 being electrified Ono promising cloud  
 bad passed over it without anv effect
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fireweed_ver01:data:sn83016209:00383342387:1859012101:0491/pct:99.04622157006602,110.08477053493131,14.398385913426266,4.750073078047355/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fireweed_ver01:data:sn83016209:00383342387:1859012101:0491/pct:76.7590618336887,85.31999244855578,11.167969675432362,3.692656220502171/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1833,7 +1833,7 @@ with the string by which the kite was
 raised, which was a hempen cord. At  
 the lower extremity of this cord, nea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_floyd_ver01:data:sn86092245:00414186580:1877100601:0026/pct:5.266022588107226,4.530306186211206,25.350387807865015,90.23120183295147/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_floyd_ver01:data:sn86092245:00414186580:1877100601:0026/pct:5.26530612244898,4.529834426741643,25.351473922902493,90.22527682321497/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1956,7 +1956,7 @@ wet the kite and twine you will find the
 electric fire stream out plentifully from the  
 key on the approach of your knuckle.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn86077146:00513685130:1888083101:0630/pct:6.533967979229771,60.98531211750306,14.041540458675899,16.401468788249694/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn86077146:00513685130:1888083101:0630/pct:6.532554618213282,60.97598286675845,14.043910880380706,16.40278415175157/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2673,7 +2673,7 @@ kite, with all the twmo, wM bo lec?rVed
 and tho loose filaments of tho twine wUl  
 stand out every way and be attracted b7a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_desalvo_ver01:data:sn99063952:00280760298:1890010801:0026/pct:330.37156704361877,244.37076546057372,53.95799676898223,57.31584258324924/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_desalvo_ver01:data:sn99063952:00280760298:1890010801:0026/pct:82.62626262626263,61.09269136514343,13.494949494949495,14.32896064581231/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2782,7 +2782,7 @@ approaching lingor, anil when tho ruin has
   
 wot tho ltito aud twino you will llud th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_desalvo_ver01:data:sn99063952:00280760298:1891033101:1124/pct:160.0,221.1209752219425,49.13669064748201,54.48522591758314/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_desalvo_ver01:data:sn99063952:00280760298:1891033101:1124/pct:40.00719553876596,55.280243805485625,12.286382442885412,13.621306479395786/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2834,7 +2834,7 @@ the earth came Into use et eryw boro as ft means
 or harmlessly drawing off the eleclilcltr of tile  
 clouds to tho ground or In oihur wonts o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_borges_ver01:data:sn83030272:00175044954:1891051001:0145/pct:218.7547456340167,331.98386614878996,52.239939255884586,40.34956677621751/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_borges_ver01:data:sn83030272:00175044954:1891051001:0145/pct:54.69906967913423,82.99596653719749,13.06246440098728,10.087391694054377/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3603,7 +3603,7 @@ has wet the kite and twine you will fina the
 electric fire stream out plentifully from the  
 key on the approach of your knuck.e.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_fredsplace_ver01:data:sn85066387:00175037627:1897111901:0279/pct:56.47482014388489,85.69280592181356,13.121676571786049,12.549155678926672/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_fredsplace_ver01:data:sn85066387:00175037627:1897111901:0279/pct:56.47482014388489,85.69666126918035,13.126889792513815,12.553011026293468/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3674,7 +3674,7 @@ people found that tho first lino was
 Let those refuse to sing who never  
 know our Lord The choir silentl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_batman_ver01:data:sn86069395:00206533213:1897112301:0782/pct:49.45355191256831,71.46181220914318,18.969555035128806,47.31727347385711/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_batman_ver01:data:sn86069395:00206533213:1897112301:0782/pct:37.107163771227796,53.596359156857375,14.229943392543431,35.49137695045168/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3722,7 +3722,7 @@ wet the kite and twine you will tind the
 electric fire stream out plentifully from the  
 key on the approach of your knuckle.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ibizanhound_ver01:data:sn83045462:00280655168:1897113001:0800/pct:84.7520355292376,62.45125348189415,13.823094004441154,14.540389972144848/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ibizanhound_ver01:data:sn83045462:00280655168:1897113001:0800/pct:84.76128793486306,62.45473537604457,13.818467801628424,14.557799442896936/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3771,7 +3771,7 @@ kite and twine you will find the
 fire stream out plentifully from the key  
 on the approach of your knuckle.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_rollingstone_ver01:data:sn85038614:00175032903:1897121201:0608/pct:254.83289646133682,225.38819875776397,41.92332896461337,44.98669032830524/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_rollingstone_ver01:data:sn85038614:00175032903:1897121201:0608/pct:84.94429882044561,75.12939958592132,13.974442988204457,14.995563442768411/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3823,7 +3823,7 @@ proach of your knuckle,
   
 Consumption is the chief cause o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn92064025:00514153504:1898010101:0627/pct:72.83359914938862,77.15162279993541,10.84529505582137,17.947682867753915/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn92064025:00514153504:1898010101:0627/pct:72.83714336345915,77.15162279993541,10.8488392698919,17.950374078260403/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3873,7 +3873,7 @@ will find the electric fire stream out
 plentifully from the key on the ap-  
 proach of your knuckle
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023296:0020029614A:1898010101:0472/pct:242.09059233449477,202.1184778344449,44.11149825783972,69.72669020530927/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023296:0020029614A:1898010101:0472/pct:60.554296670733834,50.52961945861122,11.033641275928186,17.431672551327317/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3923,7 +3923,7 @@ will And the electric fire stream out
 plentifully from tho key on the ap­  
 proach of your knuckle
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn84026497:00280776154:1898011901:1182/pct:91.82134570765662,86.04342046964997,15.97061098221191,24.974154482351203/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn84026497:00280776154:1898011901:1182/pct:68.8841616708567,64.53994978585142,11.989943918004254,18.726923644956432/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4029,7 +4029,7 @@ kite and twine you will find the elec­
 tric fire stream out plentifully from the  
 key on the approach of your knuckle.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_kathak_ver01:data:sn91059394:00383347816:1898031601:0063/pct:20.633590345289978,29.996591296443587,14.41501843781428,19.861379388705828/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_kathak_ver01:data:sn91059394:00383347816:1898031601:0063/pct:20.633590345289978,29.996591296443587,14.42619287071181,19.86895428549786/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4141,7 +4141,7 @@ pointed wire, rising a foot or more above
   
 the wood. To the end of the twine next
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_charlie_ver01:data:sn86071197:00175034936:1899080701:0430/pct:202.9595015576324,100.10079193664507,52.72585669781932,8.812095032397409/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_charlie_ver01:data:sn86071197:00175034936:1899080701:0430/pct:50.74975657254138,25.025197984161267,13.184031158714703,2.203023758099352/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4165,7 +4165,7 @@ The greatest temperature high wave of kerchief when extended. Tie the corners
   
 of the handkerchief to the extremities of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_charlie_ver01:data:sn86071197:00175034936:1899080701:0430/pct:96.41744548286604,83.15334773218143,211.37071651090343,8.020158387329014/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_charlie_ver01:data:sn86071197:00175034936:1899080701:0430/pct:24.109055501460563,20.788336933045358,52.852969814995134,2.0050395968322534/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4193,7 +4193,7 @@ Work for the City
   
 While the forecast was not as correct as the hand is to be tied a silk ribbon ando te o o e 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_charlie_ver01:data:sn86071197:00175034936:1899080701:0430/pct:149.61059190031153,95.37796976241901,158.15809968847353,14.917206623470122/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_charlie_ver01:data:sn86071197:00175034936:1899080701:0430/pct:37.409931840311586,23.844492440604753,39.547224926971765,3.7293016558675305/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4219,7 +4219,7 @@ be fastened. This kite is to be rised when
   
 a thunder gust appears to be coming o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_charlie_ver01:data:sn86071197:00175034936:1899080701:0430/pct:149.37694704049844,112.19582433405327,104.98442367601245,12.210223182145429/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_charlie_ver01:data:sn86071197:00175034936:1899080701:0430/pct:37.351509250243424,28.048956083513318,26.251217137293086,3.052555795536357/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4249,7 +4249,7 @@ European Plan. Hoom $100 a day. sometimes a month after the highest and wire wil
   
 Electric Lights, Steam Heat, Passenger and oes avere
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_charlie_ver01:data:sn86071197:00175034936:1899080701:0430/pct:98.13084112149532,112.19582433405327,209.26791277258567,19.29445644348452/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_charlie_ver01:data:sn86071197:00175034936:1899080701:0430/pct:24.537487828627068,28.048956083513318,52.327166504381694,4.82361411087113/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4272,7 +4272,7 @@ AtMospheric electricity
 By A. G. McAdie  
 One hundred and sixty years ago 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_charlie_ver01:data:sn86071197:00175034936:1899080701:0430/pct:152.02492211838006,129.3016558675306,155.14018691588785,11.691864650827934/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_charlie_ver01:data:sn86071197:00175034936:1899080701:0430/pct:38.01363193768257,32.32541396688265,38.792599805258035,2.9229661627069836/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

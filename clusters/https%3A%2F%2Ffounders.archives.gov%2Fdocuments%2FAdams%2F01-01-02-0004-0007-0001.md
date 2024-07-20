@@ -338,9 +338,9 @@ To make men happy, and to keep them so’
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1847-03_20_105/page/n73/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1847-03_20_105/page/n73/mode/1up?view=theater)
 
-#### 1847-03-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1847-03-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -491,7 +491,7 @@ Horace remarks:
 Not to admire is all the art I know  
 To make men happy and to keep them so.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_heron_ver02:data:sn88085722:00414189908:1891082101:0636/pct:28.911917098445596,21.840680587780355,12.455958549222798,12.900232018561486/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_heron_ver02:data:sn88085722:00414189908:1891082101:0636/pct:28.911917098445596,21.848414539829854,12.461139896373057,12.900232018561486/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

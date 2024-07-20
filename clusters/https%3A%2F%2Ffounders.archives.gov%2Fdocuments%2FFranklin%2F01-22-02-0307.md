@@ -946,7 +946,7 @@ of them legitimate causes of war) will all
 join to hide from her.eyes every view of  
 her true interest.&quot; Afterwards, consider
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805093001:0002/pct:41.471642420409026,83.35618316424458,18.11090027408813,10.72114066355909/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805093001:0002/pct:41.471642420409026,83.36075313042683,18.12495607562021,10.73028059592359/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -975,7 +975,7 @@ profits of no trade can ever be equal to 1
 the expence cf compelling it, and hold*?  
 | ing it by fleets and armies.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805093001:0002/pct:41.00780096985031,2.892788593364409,37.00189753320683,94.48862078420619/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805093001:0002/pct:41.00780096985031,2.892788593364409,37.02298123550496,94.50233068275294/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1407,7 +1407,7 @@ wbich I am sorry to find, as it must give your
 nrdship pain, to be sent ve far on 50 hope~  
 1e9% &amp; business.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1817112601:0596/pct:69.93741166969514,88.8057123114131,22.35009085402786,6.553034665438212/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1817112601:0596/pct:69.95087152567467,88.81339014933394,22.35009085402786,6.549195746477792/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1549,7 +1549,7 @@ honorable private station.
 epect, I have the hooor to be.” &amp;e.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1817112601:0597/pct:2.488367388225774,6.4672036823935555,23.629374873558568,81.92174913693901/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1817112601:0597/pct:2.488367388225774,6.471039509014193,23.63611841661609,81.92558496355964/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1812,7 +1812,7 @@ not save from some degree of dishonor, those who have
 voluntarily engaged to conduct it.&quot;  
 In another letter Franklin says
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026396:1861072201:0078/pct:30.740328416365156,10.85454904282613,11.258001669913721,25.79435563449773/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026396:1861072201:0078/pct:30.7449670655905,10.86112755739754,11.262640319139066,25.797644891783435/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1849,7 +1849,7 @@ would not accept the services of the opposition,
 because the opposition were ready to acknowledge  
 the Independence of tne United States. The re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dunbar_ver01:data:sn85026213:print00211110119:1863020801:0006/pct:4.0378319388868675,55.912973838761346,12.168061113132048,10.838227442605445/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dunbar_ver01:data:sn85026213:print00211110119:1863020801:0006/pct:4.0378319388868675,55.91631073144688,12.181702437249909,10.844901227976509/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2071,7 +2071,7 @@ that even success will not save rom some pienders. Young America is aglow with
 degree of dishonor those who have voluntarily  
 eng-ged to conduct it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn91068137:00415667310:1864041901:0042/pct:262.40520043336943,36.67566525260316,111.43011917659805,81.29579637485539/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn91068137:00415667310:1864041901:0042/pct:65.6101855614249,9.16891631315079,27.861302993363132,20.323949093713846/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2109,7 +2109,7 @@ andiseveuuow bringing tor* ign m-re. » &gt;ri-&lt;
 to deluge «.IH- M-til tu uts with blood. These  
 r t i c..*us injuries have 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82014751:00513688258:1864112301:0304/pct:55.66682562390717,60.97126573260508,13.193450961691305,10.6150558062218/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82014751:00513688258:1864112301:0304/pct:55.67212419859058,60.975223620676005,13.188152387007895,10.619013694292725/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2249,7 +2249,7 @@ by the severest tyranny, and obstfucting, by every
 means in your power, sour growing strength and  
 prosperity.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_indy_ver01:data:sn84024738:0028077795A:1865020901:0135/pct:55.76395902467176,39.31063649820258,88.47208195065647,249.46077394798056/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_indy_ver01:data:sn84024738:0028077795A:1865020901:0135/pct:18.587986341557254,13.10354549940086,29.490693983552156,83.15359131599351/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2721,7 +2721,7 @@ place. I had tne misfortune to find
 these expectations disappointed, and to  
 be treated as the cause
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_antares_ver03:data:sn90059959:00271742800:1888041401:0159/pct:36.46305264802375,10.729847494553377,14.16966099047024,11.013071895424837/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_antares_ver03:data:sn90059959:00271742800:1888041401:0159/pct:36.46826016768213,10.737109658678285,14.164453470811852,11.005809731299927/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2745,7 +2745,7 @@ men in that country, and, among the
 rest, some share in the regard of Lord  
 Ho e.&quot; It is not necessary to add an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_antares_ver03:data:sn90059959:00271742800:1888041401:0159/pct:36.33807217622247,21.143790849673202,13.997812841743478,4.891067538126362/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_antares_ver03:data:sn90059959:00271742800:1888041401:0159/pct:36.34848721553924,21.143790849673202,13.997812841743478,4.898329702251271/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2802,7 +2802,7 @@ it by tleets and armies.”
 As to meddling with foreign affairs,  
 the texts in this traitor’s hand book ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_griffin_ver01:data:sn85042104:00332892046:1899080301:0040/pct:35.121391076115486,43.946385409800044,14.320866141732283,7.042408261920457/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_griffin_ver01:data:sn85042104:00332892046:1899080301:0040/pct:35.13232720909886,43.946385409800044,14.315398075240594,7.042408261920457/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2829,7 +2829,7 @@ fit of no trade, can be equal to the ex-
 iiNe.df coiy p&quot;lhng it and of holding it  
 by fr-M and itriuWu. ...
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ira_ver01:data:sn84023416:0020219753A:1899081101:1011/pct:12.889733840304183,8.82829373650108,31.730038022813687,117.40010799136068/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ira_ver01:data:sn84023416:0020219753A:1899081101:1011/pct:9.680486877139597,6.627969762419006,23.811335108406237,88.05345572354211/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2870,7 +2870,7 @@ that the profits of no trade can be equal to
 the expense of compelling it and holding it  
 by fleets andfarmies
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jamaica_ver01:data:sn93063557:00280777900:1899081101:0255/pct:89.08450704225352,22.44835029293864,58.186619718309856,56.6759173604687/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jamaica_ver01:data:sn93063557:00280777900:1899081101:0255/pct:22.285840123320856,5.61208757323466,14.55626513983704,14.168979340117176/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2921,7 +2921,7 @@ Revere, Washington, Jefferson, and the ;
 other patriots of the Revolution alive,  
 they would not say much in praise o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_carlin_ver01:data:sn84022060:00332890633:1899082101:0781/pct:19.105466593042518,38.724769415853494,12.865819988956378,21.34741344740008/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_carlin_ver01:data:sn84022060:00332890633:1899082101:0781/pct:19.10195068089805,38.71959369152633,12.868052999631947,21.347901630580058/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2955,7 +2955,7 @@ profit of no trade can be equal to the
 expense of compelling it and of holding  
 it by fleets and armies.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_green_ver01:data:sn87093220:0020029032A:1899083101:0905/pct:61.288858633991374,30.096067247072952,14.953483095076015,6.064244971480036/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_green_ver01:data:sn87093220:0020029032A:1899083101:0905/pct:61.29453142727479,30.103572500750527,14.953483095076015,6.064244971480036/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2981,7 +2981,7 @@ be tqual to the expense of compelling it
 and of bolding It, by fleets and armies.  
 If Franklin was right Senator Carte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_jonesport_ver02:data:sn83016025:00414210740:1899091501:0792/pct:5.4700499168053245,52.321877619446774,12.416805324459235,5.532271584241408/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_jonesport_ver02:data:sn83016025:00414210740:1899091501:0792/pct:5.468912455812019,52.3131076097888,12.41942191723851,5.535534696614147/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3034,7 +3034,7 @@ no trade can ever be equal to the ex­
 pense of compelling it and of holding  
 It by fleets and armies Benjami
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_curry_ver01:data:sn85030687:00212473145:1899111601:0615/pct:68.60795454545455,86.63045118454806,18.986742424242426,25.92424928323525/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_curry_ver01:data:sn85030687:00212473145:1899111601:0615/pct:51.47999052806062,64.97661083446506,14.231588917830926,19.45073185453448/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3077,7 +3077,7 @@ no trade can ever be equal to the ex­
 pense of compelling it and of holding  
 It by fleets and armies. Benjami
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_goodnow_ver01:data:sn83040052:0021247373A:1899111701:0484/pct:30.0,85.96273291925466,18.31111111111111,26.040372670807454/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_goodnow_ver01:data:sn83040052:0021247373A:1899111701:0484/pct:22.516114692153813,64.472049689441,13.736385863525229,19.53416149068323/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

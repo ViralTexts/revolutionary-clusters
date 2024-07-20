@@ -63,7 +63,7 @@ day. So,708,045. Of this sum, a failure of
 payment op the days fixed by terms of the  
 loan, of about 1,900,0.0 della ns has take
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1814100101:0164/pct:61.16728756430726,16.5375,16.852935958843357,3.275/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1814100101:0164/pct:61.15643845335225,16.53543307086614,16.85585905167317,3.2787568220639085/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -81,7 +81,7 @@ account of the loan of ten millions, pri­
 or to the 1st of July, S 6 067.0 l. leav­  
 ing to be paid after that day. S3 708,( 4
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1814100401:0581/pct:60.85672082717873,28.228285933897002,17.528311176760216,2.536510376633359/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1814100401:0581/pct:60.84673449294388,28.225574022480547,17.530904715020238,2.539469049220226/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -121,7 +121,7 @@ the loan, of ten millions, prior to the 1st of July j
 on the days fixed by terms of the loan, of about  
 1,900,000 dols. Iras taken place ; and it is doubtfu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1814100601:0570/pct:9.189563611175249,14.176136363636363,21.10367120757331,3.508522727272727/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1814100601:0570/pct:9.187442289935365,14.174122993892913,21.104570637119114,3.511575060360744/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -164,7 +164,7 @@ the days fixed by terms of the loan, of about 1,900,000
 _ment on the days fixed by terms of the loan, of  
 } about 1,000.000 has taken place; and it i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814101101:0166/pct:24.200913242009133,71.33566297806252,16.95205479452055,3.6109493302271405/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814101101:0166/pct:24.200913242009133,71.34213421342135,16.966324200913242,3.607713712547725/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

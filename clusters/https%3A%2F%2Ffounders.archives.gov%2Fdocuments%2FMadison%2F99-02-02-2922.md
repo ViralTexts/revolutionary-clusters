@@ -40,7 +40,7 @@ intended by its Founders, to be perpetual; and had the Principles of self-preser
 says: This government was intended by  
 its founders to be perpetual and not to b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn82015672:00296021970:1860120501:0025/pct:280.4796802131912,65.17538054268697,50.03331112591606,4.076770350761086/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn82015672:00296021970:1860120501:0025/pct:70.1199200532978,16.29384513567174,12.508327781479014,1.0191925876902714/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -59,7 +59,7 @@ nance of South Carolina, and says this Govern­
 ment was intended by its founders to be perpetual  
 and not to be annulled at the pleasure of any on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775666:1860120501:0124/pct:62.50880902043693,220.93517534537725,43.90415785764623,6.9075451647183845/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775666:1860120501:0124/pct:15.629955947136564,55.23379383634431,10.977973568281937,1.7268862911795961/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -76,7 +76,7 @@ says this Government was intended by its
 founders to be perpetual, and not to be an­  
 nulled at the pleasure of any one of the co
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn84028745:00280775332:1860120501:0340/pct:92.18867924528301,84.58543619322278,16.037735849056602,1.6870944484498918/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn84028745:00280775332:1860120501:0340/pct:69.19010760808004,63.44628695025234,12.0256749103266,1.2689257390050468/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -127,7 +127,7 @@ and says this government was intended by
 its founders to be perpetual, and not be  
 annulled at the pleasure of any one of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347282:1860120701:0581/pct:47.27753578095831,25.7811625041998,12.663347853142502,1.5903236644641057/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347282:1860120701:0581/pct:47.28272142708982,25.784895658341732,12.668533499274009,1.5903236644641057/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -143,7 +143,7 @@ annulled at the pleasure of any one of th
 and says that government was intended by  
 its founders to be perpetual and not to be 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:0051415935A:1860120801:0158/pct:32.034192987539846,89.87802268350096,13.12662996232976,1.2090734003851915/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:0051415935A:1860120801:0158/pct:32.034192987539846,89.87802268350096,13.145948034386167,1.2126399885869177/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -159,7 +159,7 @@ its founders to be perpetual and not to be
 says this government was intended by its  
 founders to be perpetual, and not to be an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027238:0027952942A:1860121201:0896/pct:61.059073310853,82.43324633607709,10.853003621830897,0.9335474804256173/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027238:0027952942A:1860121201:0896/pct:61.06323633487365,82.43324633607709,10.865492693892843,0.936893528742555/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -176,7 +176,7 @@ olina, and says this Government was
 intended by its founders to be perpet­  
 ual, and not be annulled at the pleas-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn82014141:00279529455:1860121301:0833/pct:108.7851263128016,147.76568650150497,30.130570536474597,4.1676313961565175/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn82014141:00279529455:1860121301:0833/pct:36.261708770933865,49.25522883383499,10.043523512158199,1.389210465385506/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

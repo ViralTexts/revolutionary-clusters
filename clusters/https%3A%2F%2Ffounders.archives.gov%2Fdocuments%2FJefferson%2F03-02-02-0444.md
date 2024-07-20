@@ -284,7 +284,7 @@ I am, dear sir, with very great respect, your obe
 dient servant, &amp;•. &amp;c.  
 benjamin smith barton
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1810081701:0057/pct:9.858442871587462,3.8786108406361572,65.3943377148635,94.28756897111327/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1810081701:0057/pct:9.855951478392722,3.877981502515009,65.38412939095274,94.27632646438423/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1452,7 +1452,7 @@ VVi&#x27;h very great respect,
 \ air obedient servant, &amp;e &amp;c.  
 BENJAMIN SMITH BARTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810082401:0127/pct:58.414209851675515,12.106359514765348,36.18384911188427,84.2421271902953/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810082401:0127/pct:58.40351519589894,12.104876255819653,36.183327230562675,84.23588989626725/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

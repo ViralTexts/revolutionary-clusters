@@ -67,7 +67,7 @@ f«ry, cotimoilly cajlecf-registered certificates,
 Joans ofmoney obtained in foreign countries,  
 or certiicatc? ifiued pursuant to the ast, intii
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793042701:0001/pct:47.25700655933214,31.82751540041068,19.1711389385808,14.131043494493186/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793042701:0001/pct:47.25700655933214,31.836848982639538,19.19350029815146,14.135710285607615/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -97,7 +97,7 @@ such of.the said claim?, as fliall not be allowed
 to be valid, according to the usual forms of  
 the treasury
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793042701:0001/pct:47.49552772808587,55.553481426171366,19.37984496124031,9.5949225312675/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793042701:0001/pct:47.502981514609424,55.56281500840022,19.409660107334528,9.59025574015307/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -148,7 +148,7 @@ vision for the Debt of the United States.
 (£&gt; Gentlemen, in pojfejfwn of Swfcription  
 papers for this Gazette, flff requefled t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794010601:0004/pct:72.44094488188976,64.06570841889118,19.750656167979002,23.860369609856264/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794010601:0004/pct:72.46555118110236,64.07597535934292,19.758858267716537,23.865503080082135/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -178,7 +178,7 @@ tificates ..f final Settlements, Indents of ln­
 tereft, Balances entered in the books of the  
 regiftcr of t&gt;e treafuryconinioKly called regi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794010801:0004/pct:11.206622094874243,64.11824668705403,18.497293855460043,10.091743119266056/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794010801:0004/pct:11.206622094874243,64.12334352701325,18.505253104106973,10.091743119266056/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -211,7 +211,7 @@ tered certificates,loans of monies obtained in
 foreign countries, or certificates iflTued pu&#x27;&#x27;u­  
 ant to the Ast, intitled 44 An Ast, making pro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794010901:0004/pct:14.44759206798867,66.05210420841684,18.665407617248977,11.723446893787575/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794010901:0004/pct:14.46333018570979,66.062124248497,18.665407617248977,11.738476953907815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -244,7 +244,7 @@ tered certificate*,loans of monies obtained in
 foreign countries, or certificates ifTued pursu­  
 ant to the Ast, intitled &quot; An Ast, making pro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794011001:0004/pct:11.379986919555265,64.7142278070531,19.19555264879006,11.998378597486827/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794011001:0004/pct:11.396337475474166,64.72942845561411,19.19555264879006,11.993311714633158/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -291,7 +291,7 @@ tered certificates,loans oi monies obtained in
 foreign countries, or certificates issued purfg­  
 ant to the Art, intitled u An Art, making pre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794011401:0004/pct:71.82642487046633,66.42424242424242,19.397668393782382,20.78787878787879/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794011401:0004/pct:71.82642487046633,66.42929292929293,19.438147668393782,20.80808080808081/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -338,7 +338,7 @@ tered certificates,loans of monies obtained ur
 foreign countries, or certificates iiTned pu u­  
 aut to the Ast, intitled u An Ast, making pro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794011501:0004/pct:72.35852142623487,31.986190089358246,19.299967288191038,20.917952883834282/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794011501:0004/pct:72.36669937847563,31.996344435418358,19.316323192672556,20.917952883834282/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -385,7 +385,7 @@ tered certificates,loans of monies obtained in
 foreign countries, or certificates iflued pur la­  
 ant to the Ast, intitled u An Ast, making pro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794011601:0004/pct:72.70077720207254,33.13741386299149,19.300518134715027,20.794487231455207/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794011601:0004/pct:72.70887305699482,33.15261451155249,19.316709844559586,20.804620997162544/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -418,7 +418,7 @@ tered certificates,loans of monies obtained ii»
 foreign countries, or certificates iflued pu&#x27; i&#x27;B­  
 ant to the Ast, in titled 44 An Ast, making pro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794011701:0004/pct:71.83377308707124,41.07900585976965,19.426121372031663,12.063043038997778/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794011701:0004/pct:71.83377308707124,41.09416043645181,19.434366754617415,12.05293998787634/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -463,7 +463,7 @@ tificates of Final Settlements, Indents of In­
 terest, Balances entered in the books of the  
 regifler of the treasury commorly callcd regif
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794011801:0004/pct:71.84244791666667,33.0433023067584,19.53125,18.798057466612708/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794011801:0004/pct:71.85872395833333,33.053419668150546,19.53125,18.808174828004855/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -510,7 +510,7 @@ tered certificates,loans of monies obtained in
 foreign countries, or certificates iffned pnrtn­  
 ant to the Ast, intitied &quot; An Ast, making pro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794012001:0004/pct:71.97265625,32.02883625128733,19.140625,21.194644696189496/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794012001:0004/pct:71.97265625,32.03913491246138,19.148763020833332,21.189495365602472/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -543,7 +543,7 @@ tered certificates,loans of monies obtained in
 foreign countries, or certificates illued pu ln­  
 ant to the Ast, intitied 44 An Ast, making pro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794012201:0004/pct:72.82321899736148,40.65687474500204,19.49208443271768,12.097103223174214/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794012201:0004/pct:72.84795514511873,40.672174622603016,19.508575197889183,12.097103223174214/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -590,7 +590,7 @@ tered certificates,loans of monies obtained in
 foreign countries, or certificates ifTued pursu­  
 ant to the Ast, intitled u An Ast, making pro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794012301:0004/pct:73.26570680628272,31.99109672197491,19.273560209424083,20.700121408336706/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794012301:0004/pct:73.27388743455498,32.00121408336706,19.289921465968586,20.695062727640632/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -637,7 +637,7 @@ regrftfcr of tUftt&#x27; &quot;uty commonly called regif*
 tered certifW* &#x27; &lt;ns of monies obtained in  
 foreign coflr . ?»r certificates iflued pursu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794012401:0004/pct:71.85846560846561,32.92533659730722,19.874338624338623,20.195838433292533/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794012401:0004/pct:71.86673280423281,32.935536515707874,19.88260582010582,20.190738474092207/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -669,7 +669,7 @@ certificates, certificates of final settlements, in- j
 - the regijler of the treasury, regijlered certificafes, 1  
 - foreign loans, or certificates ijfued under the a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797121401:0002/pct:59.08982035928144,32.899461400359066,18.323353293413174,11.146020347097547/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797121401:0002/pct:59.09580838323353,32.90320167564333,18.335329341317365,11.149760622381807/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

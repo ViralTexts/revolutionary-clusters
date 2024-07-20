@@ -94,7 +94,7 @@ On the 31st, she writes again to Mr. Adams
 in Philadelphia:  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eliot_ver01:data:sn85026214:print00205958198:1872111001:0003/pct:42.18891096261513,40.67578024245551,11.919812172656673,4.307454217178231/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eliot_ver01:data:sn85026214:print00205958198:1872111001:0003/pct:42.19342604298357,40.68545266958989,11.924327253025103,4.310678359556358/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -150,7 +150,7 @@ profession, we want him in the field. We
 mourn for the citizen, the senator, the physi­  
 cian and the warrior.’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_asburypark_ver01:data:sn84026089:00514155872:1877081501:0134/pct:30.415455633441614,46.881606765327696,12.343990425713796,3.6733615221987317/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_asburypark_ver01:data:sn84026089:00514155872:1877081501:0134/pct:30.41025641025641,46.8754128682785,12.346153846153847,3.676179151803409/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -397,7 +397,7 @@ these aie some of the benefits coofi.
 dently anticipated from the present con  
 test.” Passed unanimously in bot
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1829061801:0107/pct:45.16129032258065,44.921875,17.916303400174368,17.243303571428573/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1829061801:0107/pct:45.15144911745478,44.915608871530196,17.91784702549575,17.24438554889106/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

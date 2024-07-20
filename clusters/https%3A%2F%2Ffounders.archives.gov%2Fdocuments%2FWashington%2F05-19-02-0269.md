@@ -141,7 +141,7 @@ States and France. That treaty was negotiated by Bi
 jam in Franklin, Silas l)eaiir, and Aithur l?ee, with i&gt;  
 Gerard, who was the first minister of France to this co
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848040401:0365/pct:21.43083254194365,69.23173645165346,14.86229819563153,13.604928957626052/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848040401:0365/pct:21.43610847314551,69.24011903265016,14.867574126833386,13.604928957626052/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -221,7 +221,7 @@ ing resolution.&quot;
 Now, sutler him (Mr. L) to add, that ha had understood  
 that the message of the President, as it hud been read in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848040801:0144/pct:81.41189866211215,58.36254664706548,15.769997153430117,10.482867805043536/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848040801:0144/pct:81.41664294525097,58.36254664706548,15.779485719707752,10.490406724716347/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -247,7 +247,7 @@ bility, tke communication of the Committee
   
 of Public Safety, dated the 21st of OcU-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn89066057:00200292121:1848042401:0392/pct:29.982517482517483,38.45177664974619,22.50874125874126,9.723984771573605/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn89066057:00200292121:1848042401:0392/pct:22.491803278688526,28.838832487309645,16.896174863387976,7.2969543147208125/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -285,7 +285,7 @@ ous, achievements which have beeftccom-
 plished under their influence, during the  
 present, afflicting war; and confidently
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn89066057:00200292121:1848042401:0392/pct:29.916958041958043,48.286802030456855,22.749125874125873,15.069796954314722/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn89066057:00200292121:1848042401:0392/pct:22.44808743169399,36.21510152284264,17.07103825136612,11.310279187817258/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -339,7 +339,7 @@ and Washington, in his Farewell Address, published
 a year later, declared, in language truly  
 quoted here, that the great rule of conduct fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1852032501:0506/pct:44.22575976845152,42.11506419680486,16.46888567293777,13.290208762128785/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1852032501:0506/pct:44.230583695127834,42.11506419680486,16.478533526290402,13.300009801038911/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -365,7 +365,7 @@ and affections of the two Republics,
 founded on their solid and reciprocal interests,  
 and that they rejoiced in the opportunity o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1852032501:0507/pct:44.13350823495117,41.933254344391784,16.33872613321673,5.70695102685624/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1852032501:0507/pct:44.14322499149784,41.93983675618747,16.33872613321673,5.703659820958399/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

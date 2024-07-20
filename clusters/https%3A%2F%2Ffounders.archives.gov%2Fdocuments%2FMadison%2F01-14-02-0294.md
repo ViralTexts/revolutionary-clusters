@@ -249,7 +249,7 @@ treme solicitude which | am bound to fee
 and which I can never cease to feel, for the  
 liberty, their prosperity and their happiness
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152755:1836080401:0134/pct:3.9917055469155,5.088383838383838,15.379298427509935,48.775252525252526/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152755:1836080401:0134/pct:3.997465583779736,5.088383838383838,15.379298427509935,48.77946127946128/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -310,7 +310,7 @@ juncture be deprived of the Inestimable
 advantage of haing you at the head of  
 its councils.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_havanese_ver01:data:sn83045462:00280655089:1896091901:0437/pct:2.736318407960199,66.30756800430919,13.57498223169865,2.0872609749528683/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_havanese_ver01:data:sn83045462:00280655089:1896091901:0437/pct:2.7452025586353943,66.31766765418799,13.579424307036247,2.0872609749528683/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -329,7 +329,7 @@ st:tution which is the work of your hands
 may be sacredly maintained; that its ad­  
 ministration
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_havanese_ver01:data:sn83045462:00280655089:1896091901:0439/pct:0.9435674106332789,57.12387028176502,13.95391036109599,2.4587985114300905/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_havanese_ver01:data:sn83045462:00280655089:1896091901:0439/pct:0.9481037924151696,57.12719298245614,13.95844674287788,2.4587985114300905/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

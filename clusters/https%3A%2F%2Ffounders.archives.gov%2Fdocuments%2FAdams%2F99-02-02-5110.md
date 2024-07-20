@@ -125,7 +125,7 @@ quired. It is never right deliberately to pre.
 are for it, and if resistance should be the  
 est thing wher the moment comes instruc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296229:1856072601:0540/pct:167.7548682703322,55.3125323934902,99.7709049255441,325.2824712345807/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296229:1856072601:0540/pct:41.93871706758305,13.82813309837255,24.942726231386025,81.32061780864518/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -180,7 +180,7 @@ Bulls aim their horns, and asses lift their heel
 “lt’s proper power to hurt each creature feels.  
 Bulls aim their horns, and asses lift their heels.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn84038763:0027955792A:1867112301:0400/pct:18.834507712816606,72.4391624221845,10.969339173490763,0.6791171477079796/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn84038763:0027955792A:1867112301:0400/pct:18.84879070653209,72.4391624221845,10.978861169301085,0.6861912846632711/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -210,7 +210,7 @@ field as a brave soldier and encountered
 the perils ot the greatest rebellion in his­  
 tory and retired with his full share of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_norgay_ver01:data:sn84028194:0029602899A:1876100701:0491/pct:48.99721448467967,74.00215749730313,12.869080779944289,9.06148867313916/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_norgay_ver01:data:sn84028194:0029602899A:1876100701:0491/pct:36.759994428193345,55.50761117104159,9.653155035520268,6.796116504854369/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -282,7 +282,7 @@ local of to-day&#x27;s issue, regarding
 the alleged attempt of the Japanese  
 to break out from the Quarantin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_brutus_ver02:data:sn85047084:00202195672:1892012601:0124/pct:26.434087148372864,9.699201964395334,32.942636514065086,116.11418047882137/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_brutus_ver02:data:sn85047084:00202195672:1892012601:0124/pct:19.837218926748516,7.274401473296501,24.720651124293006,87.08819316554123/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

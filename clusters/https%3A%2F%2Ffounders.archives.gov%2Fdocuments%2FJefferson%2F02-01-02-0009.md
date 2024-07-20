@@ -274,7 +274,7 @@ fear, for Logan never felt fear ; he will not torn on
 his heei to save his life.——Who is there to mocorn  
 for Logan I&#x27;Not one.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025586:0051701512A:1785050601:0077/pct:37.576861762696424,14.463572087304026,58.75654748348895,82.78512142637565/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025586:0051701512A:1785050601:0077/pct:37.58445304790101,14.473819038835947,58.77932133910271,82.78512142637565/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1755,7 +1755,7 @@ fear. . He will not torn on. his heel to save
 his life. Who ,is there to mourn for Lo­  
 gan? Not one
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027509:1854101801:0489/pct:60.16333938294011,19.073896353166987,33.06110102843315,106.5978886756238/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027509:1854101801:0489/pct:45.15055227719776,14.311420345489443,24.799515811771826,79.95441458733205/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1869,7 +1869,7 @@ legacy of one hundred pounds sterling to
 him, now standing in mv will, which was  
 made in consequence of that bargain.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn96027384:00393349451:1858013001:0020/pct:56.623272044020936,66.20077535196899,12.146020668366662,4.743929810242808/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn96027384:00393349451:1858013001:0020/pct:56.615673644659154,66.19402223809038,12.148863839685095,4.746846203543133/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1897,7 +1897,7 @@ a legacy of one hundred pounds sterling to
 him, now standing in my will, which was  
 ade in consequence of that bargain. S
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn83045160:0020029290A:1858013101:0105/pct:58.04235832856325,92.39118636708999,38.58042358328563,17.931184196244438/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn83045160:0020029290A:1858013101:0105/pct:14.512666380420782,23.097796591772497,9.64648633175898,4.482796049061109/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1935,7 +1935,7 @@ the joy of fear. Logan never felt fear. He
 will not turn bis heel to save his life. Who  
 is there to mourn for Logan? Not one.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775381:1858061001:0330/pct:90.86538461538461,49.50143423029641,16.77144970414201,17.08782953148477/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775381:1858061001:0330/pct:68.18349981502035,37.12607567272231,12.578616352201259,12.826116650730775/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1976,7 +1976,7 @@ er feit fear. He wiil not turn bn his
 heei to save his !ife. Who is there to  
 mourn for Logan ? Not one.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_galloway_ver01:data:sn83032308:00513685506:1858072201:0243/pct:41.27310061601643,26.91549642769155,23.961459485073448,67.7260408967726/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_galloway_ver01:data:sn83032308:00513685506:1858072201:0243/pct:41.266582438408086,26.912181303116146,23.961623499684144,67.72077842098781/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2112,7 +2112,7 @@ ain a over his expresie lace thene o ei e o o e a
   
  o aea eion ide in his cabin an adocate for peace.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023253:00200296254:1867072601:0546/pct:238.1118881118881,194.0443070582174,91.02564102564102,14.301906233900052/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023253:00200296254:1867072601:0546/pct:59.536645781728105,48.51107676455435,22.759726067317498,3.575476558475013/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2141,7 +2141,7 @@ pointing to his signatures pon their e toe e e i e oo
 &quot;Ater this. Mr. President, you Logan never felt icar. He will not turn  
 never deny that you endorse the on his hed to save hi . Whe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023253:00200296254:1867072601:0546/pct:237.87878787878788,230.23183925811438,90.9090909090909,14.837712519319938/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023253:00200296254:1867072601:0546/pct:59.47836223225995,57.557959814528594,22.73058429258342,3.7094281298299845/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2163,7 +2163,7 @@ he entered Logan&#x27;s cabin hungry and he
 gave him not meat; if ever he came cold  
 and naked and he clothed him not
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_coyote_ver02:data:sn84022168:00296025185:1868032801:0063/pct:32.28247162673392,45.02459326522891,115.25851197982345,12.334468407113128/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_coyote_ver02:data:sn84022168:00296025185:1868032801:0063/pct:8.073163040050458,11.256148316307227,28.82371491643015,3.083617101778282/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2180,7 +2180,7 @@ once said - Lord Buonioro r kfLogan never
 felt fear. He will not turn on his heel to save  
 his life. Who is there to mor.ru for L^gan ?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ellis_ver01:data:sn85025007:00415663638:1868050901:0038/pct:2.7224353421606238,25.23192645215211,16.02524440044549,1.7634768073547848/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ellis_ver01:data:sn85025007:00415663638:1868050901:0038/pct:2.7265602441942005,25.234712355481264,16.029369302479065,1.7662627106839393/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2252,7 +2252,7 @@ Logan never felt fear. He will not turn
 on his heel to save bis life. Who is  
 there to mourn for Logan? Not one!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033221:00514152378:1870021001:0395/pct:28.797047970479706,61.37595398739077,12.590405904059041,9.003428824245105/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033221:00514152378:1870021001:0395/pct:28.801968019680196,61.38332780297165,12.595325953259533,9.003428824245105/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2300,7 +2300,7 @@ He will not turn on his heel to save
 H8 He. Wnd is theio to moar iui  
 Logan? Not one.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477850:1870030201:0855/pct:152.10484511517078,247.34437464306112,45.353455123113584,54.42604226156482/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477850:1870030201:0855/pct:38.04131903059197,61.83609366076528,11.342868494239173,13.606510565391204/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2497,7 +2497,7 @@ gan never felt fear. He will not turn on his heel
 to save his life. Who is there to ocuru tor Lo­  
 gan? Notoac.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_clark_ver03:data:sn82014064:no_reel:1871021801:0006/pct:69.36459909228442,44.155446756425945,9.247352496217852,6.1658506731946146/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_clark_ver03:data:sn82014064:no_reel:1871021801:0006/pct:69.37405446293495,44.163096695226436,9.247352496217852,6.181150550795594/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2533,7 +2533,7 @@ gan never felt fear. Ho will not turn on bis heel
 to save hla life. Who is there to mourn lor Lo­  
 gan? Not one.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_clark_ver03:data:sn82014064:no_reel:1871021901:0006/pct:67.56857622690801,43.709022791133314,8.863593954095913,6.197315017171402/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_clark_ver03:data:sn82014064:no_reel:1871021901:0006/pct:67.57324127635754,43.716827973774585,8.863593954095913,6.193412425850765/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2585,7 +2585,7 @@ harbor a thonvl—&quot; xno JOJ’ o&lt; fcar- Mean
 never re.t fear. He will not turn on his heel to save his  
 life. Who is there to mourn for Logan ? Not one !” Hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eliot_ver01:data:sn85026214:print00211110211:1874072601:0004/pct:3.9660056657223794,47.37468588811004,12.445703493862133,6.731913768020103/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eliot_ver01:data:sn85026214:print00211110211:1874072601:0004/pct:3.9707271010387157,47.377992329057,12.445703493862133,6.735220208967068/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2650,7 +2650,7 @@ was held at Concord Wednesday evening.
 turn on his heel to save his life.&quot; We are  
 more than ever convinced of the truth o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84022473:00280777559:1875052201:0448/pct:72.55192878338279,242.37337192474675,43.84272997032641,16.960926193921853/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84022473:00280777559:1875052201:0448/pct:18.137982195845698,60.59334298118669,10.960682492581602,4.240231548480463/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2689,7 +2689,7 @@ t thought that mine it the Joy of fear. He
 y w ill not turn on his heel to save bis life.  
 „ Who is there to mourn for Lsgan ? No
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn83032058:00296028733:1875061701:0244/pct:45.44860911584171,37.768595041322314,10.05615776413739,11.62190082644628/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn83032058:00296028733:1875061701:0244/pct:45.45296243089113,37.77548209366391,10.05615776413739,11.615013774104684/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2737,7 +2737,7 @@ apon me for revenge. I have sought it.
 I have killed some of my party. I have  
 glutted my vengeance. But what r
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_abraham_ver02:data:sn84023963:00200295936:1877020901:0046/pct:223.52452202826268,222.75132275132276,71.07231920199501,44.76190476190476/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_abraham_ver02:data:sn84023963:00200295936:1877020901:0046/pct:55.892745790895866,55.68783068783069,17.77177302016213,11.19047619047619/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2817,7 +2817,7 @@ felt fear, llo will not turn en his heel tc
 save bis life. Who is there to mourn foi  
 Logan? Not one; not even John L. Bever
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_eritrea_ver01:data:sn84026844:00202193456:1880052701:0512/pct:27.320099255583127,29.78723404255319,12.233250620347395,12.074468085106384/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_eritrea_ver01:data:sn84026844:00202193456:1880052701:0512/pct:27.332506203473944,29.800531914893618,12.245657568238213,12.078900709219859/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2838,7 +2838,7 @@ peace.&quot; &quot;I had thought to have lived
 with you but for the injuries of one  
 man. Col. Cresap, the last spring,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_montpelier_ver01:data:sn84023253:00200296291:1880091001:0776/pct:51.59106296547055,64.5979492714517,33.36154366960054,9.875876956287103/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_montpelier_ver01:data:sn84023253:00200296291:1880091001:0776/pct:17.197020988490184,21.532649757150566,11.120514556533514,3.291958985429034/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2858,7 +2858,7 @@ not eat all he could gorge and carry away
 the rest in his pockets; if ever he came  
 cold and naked, and did not manage t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777067:1881042201:0281/pct:15.309200603318251,200.0,38.61236802413273,8.825978351373855/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777067:1881042201:0281/pct:3.828021874410711,50.0,9.65491231378465,2.206494587843464/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2886,7 +2886,7 @@ man; hair cut short and heap dlunk!&quot; I
 had even thought to have lived with you,  
 but your boarding houses were too hom
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777067:1881042201:0281/pct:15.535444947209653,211.82348043297253,38.68778280542986,21.09353316680544/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777067:1881042201:0281/pct:3.884593626249293,52.95587010824313,9.67376956439751,5.27338329170136/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2933,7 +2933,7 @@ gan never felt fear He will not turn on his heel
 to save his life who is there to mourn for Lo­  
 gan! Not one!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210016:1883050501:0046/pct:6.586695747001091,67.59016393442623,18.058887677208286,11.60655737704918/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210016:1883050501:0046/pct:5.1104349785891365,52.38216236818702,14.001577642551274,9.003515012916614/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2971,7 +2971,7 @@ fear. Ho will not turn on his heel to save his
 life.  
 &quot;Who is there to mourn for Logan t Not one.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_india_ver01:data:sn85038161:00237289432:1887022401:0389/pct:59.67110415035239,77.35107348049591,16.131558339859044,13.199274266706984/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_india_ver01:data:sn85038161:00237289432:1887022401:0389/pct:44.779627815866796,58.01330511037194,12.105778648383938,9.903235560931357/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3009,7 +3009,7 @@ fear. Ho will not turn on his heel to savo his
 lifo.  
 &quot;Who is there to mourn for Logan? Not one.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_foxtrot_ver01:data:sn87076843:00237282735:1887022501:0184/pct:53.637770897832816,36.97529928777087,14.4156346749226,12.032126079709046/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_foxtrot_ver01:data:sn87076843:00237282735:1887022501:0184/pct:40.24390243902439,27.731474465828157,10.820751064653503,9.031671465373542/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3029,7 +3029,7 @@ tear. He will not turn on his heel to savo his
 llfo.  
 &quot;Who is thoro to mourn for Logan? Not ono.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_delta_ver01:data:sn87075048:0023728950A:1887022601:0273/pct:59.60536113179449,85.18781006378455,16.008935219657484,3.69950389794472/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_delta_ver01:data:sn87075048:0023728950A:1887022601:0273/pct:44.72998137802607,63.8979447200567,12.011173184357542,2.7781715095676827/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3256,7 +3256,7 @@ will not turn on his heel to save his life.
 Who is there to mourn for Logan? Not  
 one.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_isner_ver01:data:sn86092523:00414186889:1896102501:0652/pct:68.71184848959149,75.78408363558779,13.131945531382064,18.231278002986986/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_isner_ver01:data:sn86092523:00414186889:1896102501:0652/pct:68.70109546165884,75.776,13.135106937923839,18.23288888888889/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3274,7 +3274,7 @@ fear. He would not turn on his heel
 to save his life. Who is there to  
 mourn for Logan? Net one.&quot; Some
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_betelgeuse_ver01:data:sn90059959:00271742861:1898012201:0269/pct:69.78134928050832,33.09331797235023,12.203326481031583,2.2609447004608296/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_betelgeuse_ver01:data:sn90059959:00271742861:1898012201:0269/pct:69.79069332834985,33.096918202764975,12.203326481031583,2.2609447004608296/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

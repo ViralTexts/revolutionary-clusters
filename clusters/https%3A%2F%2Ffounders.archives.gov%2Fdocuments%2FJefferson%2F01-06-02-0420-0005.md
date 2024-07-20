@@ -97,7 +97,7 @@ population requisite under the ordinance, to
 entitle her to admission into the Union as  
 a State. It is left to the Legislative Coun
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn87062070:0039334295A:1835010901:0849/pct:44.45683693954941,11.875589066918002,17.889805933526656,12.71038104214353/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn87062070:0039334295A:1835010901:0849/pct:44.44692239072257,11.873990306946688,17.89325007433839,12.713157422365823/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -305,7 +305,7 @@ dual State* to the United States, whensoever the same |
 shall have been purchased of the Indian inhabitants and  
 offered for sale by the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1847082801:0649/pct:1.3281919451585262,10.727496917385944,15.638389031705227,3.654298845420917/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1847082801:0649/pct:1.3281919451585262,10.73496992115981,15.64314957631153,3.654298845420917/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -422,7 +422,7 @@ ere organizing States?new States, in contradistinction
 i &quot;the original&quot; thirteen; to the admission of which, &quot;by  
 ? delegates, into Congress,&quot; the only obstacle seemed t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848051801:0517/pct:78.08961888056132,79.33759879563418,17.07861585074151,4.002007276376866/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848051801:0517/pct:78.08961888056132,79.34596244720444,17.07861585074151,4.006189102162004/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -630,7 +630,7 @@ vidua! Slates to the United Slates, whensoever the same
 P slmll have been purchased of the Indian Inhabitants, and  
 offered lor tale by the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661137:1849030901:0287/pct:5.4166002867611915,54.308290480371255,17.858849768997928,3.298632885990217/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661137:1849030901:0287/pct:5.4219106791991925,54.31665203394791,17.858849768997928,3.302813662778544/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -661,7 +661,7 @@ in them by Congress, according to the same eoinm
 ule and measure by which apportionments thereof si..  
 ie made oil the oilier States.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661137:1849032001:0326/pct:31.739749881272758,33.000499251123316,14.453063162893779,3.27009485771343/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661137:1849032001:0326/pct:31.745026647670308,33.008820103178564,14.45833992929133,3.27009485771343/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -686,7 +686,7 @@ shall have been purchased from the In
 dian inhabitants, and offered for salt;  
 by the United Slates,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn86063325:00200292455:1849041201:0116/pct:4.460183767228178,68.09777499216547,16.826186830015313,10.717643371983705/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn86063325:00200292455:1849041201:0116/pct:3.351206434316354,51.08116577875274,12.638835695135963,8.038232528987779/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -712,7 +712,7 @@ bled, and of the particular Stato with­
 in which such alteration is proposed to  
 bo mado. , 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn86063325:00200292455:1849041201:0116/pct:22.396630934150078,117.20463804450016,16.807044410413475,12.47257912879975/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn86063325:00200292455:1849041201:0116/pct:16.81348142474148,87.90347853337512,12.600536193029491,9.354434346599811/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -842,7 +842,7 @@ the United States, shall be promulgated, and shall stand as
 fundamental constitutions,&quot; &amp;c-, Ac. I presume this push­  
 ing compacts into constitutions for the new States by tbe sol
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1850012601:0068/pct:2.4719708226394705,69.20172033987203,15.37214642712414,2.9896150215042483/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1850012601:0068/pct:2.4809761808275925,69.20172033987203,15.37214642712414,2.996608273016539/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -863,7 +863,7 @@ mitted by its delegates into the Congress ot th®
 United States, on an equal footing w ith the said  
 original States.” Ohio was trained as it is call
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024652:00393348677:1850021101:0196/pct:77.51479289940828,56.25719217491369,14.670475413180984,3.4666283084004603/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024652:00393348677:1850021101:0196/pct:77.49898000815993,56.24910110743564,14.672582619339046,3.4697252984323312/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -900,7 +900,7 @@ distinct States. * * The settler? * shall,
 either on their own petition or on the order of Congress,  
 receive authority, with appointments
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1850041101:0069/pct:55.46658902314748,29.703645934880093,13.306158101615956,1.1600701891206864/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1850041101:0069/pct:55.46658902314748,29.703645934880093,13.311010821565487,1.1633196854487555/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -939,7 +939,7 @@ they might form a temporary government; adopt
 the constitution and laws of any one of the original  
 States, such laws, however, being subject to altera
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1853010801:0467/pct:35.23215523215523,76.41559545309678,15.287595287595288,3.112716455965155/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1853010801:0467/pct:35.23215523215523,76.41559545309678,15.301455301455302,3.1233400616169127/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1010,7 +1010,7 @@ dividual States to tbe United Sutes, whensoever the lauie I
 shall have been purchased of the Indian inhabitants and  
 oflered for sale by the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661617:1854062401:0209/pct:49.97115661955581,6.423649699933319,15.921546005191809,3.2785063347410537/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661617:1854062401:0209/pct:49.97596384962984,6.43105875379714,15.92635323526584,3.2785063347410537/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1033,7 +1033,7 @@ consent of the United States in&#x27;Congress assembled and of
 the particular .State within which such alteration is proposed I  
 to be inado.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661617:1854062401:0209/pct:49.89904816844534,51.85596799288731,15.921546005191809,4.33429651033563/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661617:1854062401:0209/pct:49.903855398519376,51.85967251981922,15.931160465339872,4.338001037267541/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1061,7 +1061,7 @@ That after the year 1500 of the Christian era,
 there shall be neither Slavery nor involuntary  
 uservitude in any of the said Stites, otherwis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530467:1855022801:0396/pct:152.01342281879195,9.806418746816098,47.59802190038855,26.43912379011717/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530467:1855022801:0396/pct:50.671140939597315,3.268806248938699,15.86600730012952,8.813041263372389/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1245,7 +1245,7 @@ for the government of the territory ceded,
 or to be ceded by individual States to the  
 Pnitel States&#x27; embracing all the territor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279523970:1856091201:0364/pct:52.350945225399904,76.36363636363636,37.825173695265796,13.78226711560045/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279523970:1856091201:0364/pct:17.447495961227787,25.451688923802042,12.606354334948842,4.59357348595369/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1274,7 +1274,7 @@ in force in any Mate until it shall have acquired twenty
 , thousand tree inhabitants, when, giving due proof thereof  
 lo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1856091801:0585/pct:14.555811416797964,16.785781455708108,13.525633256574961,4.842956554447997/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1856091801:0585/pct:14.55985133115178,16.788916055419723,13.529673170928776,4.842956554447997/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1326,7 +1326,7 @@ And then follows the anti-slavery restric
 tion. They deemed it no humiliation to  
 which these States, hereafter to be born
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668156:1857021701:0002/pct:111.1272515979082,128.99177388736553,41.96687972109239,28.00042185192997/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668156:1857021701:0002/pct:37.0477989248874,42.99725796245518,13.990992299869243,9.333473950643324/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1347,7 +1347,7 @@ United States, whenever the same shall
 have been purchased of the Iudian inhab­  
 itants, and offered for sale by the Unite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn88059517:00279529364:1858022501:0244/pct:31.16221426604241,23.516177415898863,25.158358578903883,5.27105206770945/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn88059517:00279529364:1858022501:0244/pct:31.166804369778756,23.516177415898863,25.162948682640227,5.285336761659882/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1438,7 +1438,7 @@ States on an equal footing with the said
 original States after which the assent of  
 two-thirds of the United States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn88059517:00279529364:1858022501:0244/pct:43.98237400165244,44.343261195628884,12.613605067474525,40.76494536104564/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn88059517:00279529364:1858022501:0244/pct:43.98237400165244,44.3504035426041,12.622785274947214,40.757803014070426/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1461,7 +1461,7 @@ those newly described, unalterable but
 by the joint&#x27;  
 consent of the United States!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn88059517:00279529364:1858022501:0244/pct:56.747452492426326,46.785943861152774,13.797851831451391,3.7925862438397258/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn88059517:00279529364:1858022501:0244/pct:56.756632699899015,46.78951503464038,13.793261727715047,3.7961574173273336/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1523,7 +1523,7 @@ and in conformity to the principles contained j
 in these articles: and so far as it can be consis- j  
 tent with the general interests
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn82005159:00296028447:1859032501:0056/pct:19.31439454054912,38.8502994011976,14.838914458022536,9.089820359281438/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn82005159:00296028447:1859032501:0056/pct:19.3196847061313,38.8502994011976,14.8494947891869,9.0938123752495/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1732,7 +1732,7 @@ the joint consent of the United States iu Congress
 assembled, and of the particular State  
 with which such alteration is proposed to b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1859090801:0581/pct:17.120114054888916,38.37776943297033,12.985624331709635,2.8351483289523096/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1859090801:0581/pct:17.12803453328581,38.38402803855301,12.993544810106531,2.8351483289523096/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1759,7 +1759,7 @@ fundamental principle of the Constitutions between
 the thirteen original States and each of  
 the States described in the said resolve of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1859090801:0581/pct:29.036473803017703,44.367254975591436,13.544018058690744,5.435598948554262/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1859090801:0581/pct:29.036473803017703,44.37038427838278,13.559859015484536,5.435598948554262/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1852,7 +1852,7 @@ erect subject to like alteration, counties or
 townships for the election of members for their  
 legislature.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290070:1859090901:0239/pct:132.31465761177137,139.39189947268036,34.80475382003396,17.861550544148997/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290070:1859090901:0239/pct:33.09271054493984,34.84797486817009,8.704883227176222,4.465387636037249/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1893,7 +1893,7 @@ son to be a citizen who holds any hereditary
   
 The fifth article, which relates to the pr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290070:1859090901:0239/pct:131.06960950764008,236.95725345001682,34.63497453310696,27.914282508695166/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290070:1859090901:0239/pct:32.78131634819533,59.239313362504205,8.662420382165605,6.9785706271737915/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1935,7 +1935,7 @@ that such laws, nevertheless, should be
 subject to alteration by their ordinary&#x27;  
 legislature. If this plan had declared
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85033611:00202198004:1859092201:0295/pct:124.49231613611416,54.85166872682324,18.976399560922065,7.622579316028018/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85033611:00202198004:1859092201:0295/pct:83.02223442217952,36.56777915121549,12.654405709580017,5.088586732591677/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1959,7 +1959,7 @@ same shall have been purchased of the Incian inhabi
 tants and offered for sale by the United States, shall be  
 formed into additional Sartes,&quot; etc., etc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472074:1859092401:0247/pct:343.1063590320765,319.9108138238573,43.612830613393356,15.16164994425864/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472074:1859092401:0247/pct:85.80073177596397,79.97770345596433,10.906276386152546,3.79041248606466/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1981,7 +1981,7 @@ or thetr free nrales of full age to mect together
 parpose of sstablishing a temporary govern­  
 endont the constitution and laws of any one of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472074:1859092401:0247/pct:343.3314575126618,342.9654403567447,42.82498593134496,8.561872909698996/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472074:1859092401:0247/pct:85.85702223473122,85.74136008918617,10.70925978046721,2.140468227424749/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2001,7 +2001,7 @@ nent constitution and Government for themselves.&quot;
 Having thus provided for the first set­  
 tlers &quot;a temporary government in thes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472074:1859092401:0248/pct:10.352546166759932,24.43901355254388,43.76049244543928,7.998222617196179/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472074:1859092401:0248/pct:2.589223233030091,6.10975338813597,10.944716585024493,1.9995556542990447/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2022,7 +2022,7 @@ States, and in the meantime shall keep a
 sitting member in Congress, with a right  
 of debating but not of voting, when the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472074:1859092401:0248/pct:10.744264129826526,46.38969117973784,43.76049244543928,12.086203065985337/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472074:1859092401:0248/pct:2.6871938418474457,11.59742279493446,10.944716585024493,3.0215507664963344/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2053,7 +2053,7 @@ republican form, and shall adsiit no person to be a citi­
 zen who holds any hereditary title.&quot;  
 The fifth article which relates to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472074:1859092401:0248/pct:10.968102965864578,96.20084425683181,44.82372691662003,24.52788269273495/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472074:1859092401:0248/pct:2.743177046885934,24.050211064207954,11.210636808957313,6.131970673183737/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2082,7 +2082,7 @@ and those newly described, unalterable but by the joint
 con-ent of the United States in Congress assembled.  
 and of the particular State within which such altratio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472074:1859092401:0248/pct:11.135982092893117,131.57076205287714,44.93564633463906,24.083536991779603/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472074:1859092401:0248/pct:2.7851644506648006,32.892690513219286,11.238628411476556,6.020884247944901/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2127,7 +2127,7 @@ to &quot;be formed into a charter of compact,&quot;
 and to remain forever &quot;unalterable,&quot; ex­  
 cept by the consent of sach States as well
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027480:1859092801:0334/pct:24.835131894484412,22.424242424242426,16.651678657074342,16.327272727272728/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027480:1859092801:0334/pct:18.63288862239544,16.824242424242424,12.501873782041672,12.242424242424242/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2161,7 +2161,7 @@ by the author of the declaration of In­
 dependence, and revised and adopted by  
 those who shaped the issues which pro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027480:1859092801:0334/pct:7.988609112709832,26.666666666666668,33.49820143884892,14.545454545454545/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027480:1859092801:0334/pct:5.99610253335332,20.0,25.123669614750412,10.921212121212122/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2184,7 +2184,7 @@ recognised the inalienable right of the and territory they shall be subject to t
   
 iato- - political &#x27; communities, to - govern cress assembled, and to the Articles of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027480:1859092801:0334/pct:7.449040767386091,41.36969696969697,34.08273381294964,6.072727272727272/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027480:1859092801:0334/pct:5.5913656123519715,31.03030303030303,25.57337730475191,4.557575757575758/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2217,7 +2217,7 @@ feint of the United States in Congress as- The fifth article, which relates to t
 &#x27;enabled, and of the particular State within prohibition of slavery after the year 1800,  
 which such alteration is proposed to be having been rejected bv Congress, neve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027480:1859092801:0334/pct:7.209232613908873,50.72727272727273,34.382494004796165,9.466666666666667/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027480:1859092801:0334/pct:5.411482536351372,38.04848484848485,25.79823114975266,7.1030303030303035/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2239,7 +2239,7 @@ age to meet together for the purpose of reign States) have an inalienable right
 -I? establishing a temporary, government to to govern themselves in respect to&#x27; their  
 6- adopt the Constitution and laws ofauy internal polity, and repudiates the dogma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027480:1859092801:0334/pct:6.9094724220623505,81.5030303030303,35.08693045563549,4.654545454545454/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027480:1859092801:0334/pct:5.186628691350622,61.127272727272725,26.322890121421075,3.503030303030303/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2256,7 +2256,7 @@ Thtrd &quot;That such temporary govern­
 .jf meat buly shall continue in force in any  
 State until it shall have
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027480:1859092801:0334/pct:6.624700239808154,102.8,18.55515587529976,2.1575757575757577/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027480:1859092801:0334/pct:4.976765102683256,77.10303030303031,13.910957877379703,1.6242424242424243/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2349,7 +2349,7 @@ shall bo subject in their persons, prop­
 erty and territory to Congress; that their  
 respective governments t-liall bo Repub
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:00237286911:1859100601:0563/pct:7.869415807560137,92.12485307561708,16.219931271477662,11.42745200470158/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:00237286911:1859100601:0563/pct:5.9137012205604265,69.10016977928693,12.171222279525528,8.567324017239127/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2614,7 +2614,7 @@ sent of the United States in Congress as
 sembled, and of the particular State within  
 which such alteration is proposed to b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347282:1860083101:0476/pct:75.90774505220509,84.81481481481481,12.872058594358734,3.1200897867564534/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347282:1860083101:0476/pct:75.90774505220509,84.81855592966704,12.882447665056361,3.1313131313131315/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2633,7 +2633,7 @@ erect, subject to like alteration, counties or
 townships for the election of members for their  
 legislature.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347282:1860083101:0477/pct:11.189029141343307,23.468013468013467,12.94997662459093,2.558922558922559/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347282:1860083101:0477/pct:11.189029141343307,23.471754582865692,12.960365695288557,2.562663673774785/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2672,7 +2672,7 @@ The fifth article, which relates to the pro­
 hibition of slavery after the year 1800,  
 having been rejected by Congress, neve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347282:1860083101:0477/pct:11.438366838086333,59.43883277216611,12.94997662459093,10.561167227833895/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347282:1860083101:0477/pct:11.438366838086333,59.43883277216611,12.955171159939743,10.568649457538346/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2697,7 +2697,7 @@ joint consent of the United States in Congress
 assembled, and of the particular State within  
 which such alteration is proposed to be made.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347282:1860083101:0477/pct:11.438366838086333,75.4320987654321,12.94997662459093,4.590347923681257/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347282:1860083101:0477/pct:11.438366838086333,75.43583988028432,12.955171159939743,4.594089038533483/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3058,7 +3058,7 @@ to point out the mode in which they
 may establish for themselves-&#x27;a perma­  
 nent constitution and government*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_bearcat_ver02:data:sn91099608:00415623021:1886061201:0163/pct:65.08691674290942,66.84873949579831,12.204940530649589,14.103641456582633/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_bearcat_ver02:data:sn91099608:00415623021:1886061201:0163/pct:65.09606587374199,66.85224089635854,12.21408966148216,14.11064425770308/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3101,7 +3101,7 @@ meantime shall keep a sitting member
 in congr.sB, with a right of debating,  
 but not of voting, when they shall be ad
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_bearcat_ver02:data:sn91099608:00415623021:1886061201:0163/pct:65.19670631290028,81.84873949579831,12.241537053979872,13.165266106442576/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_bearcat_ver02:data:sn91099608:00415623021:1886061201:0163/pct:65.19670631290028,81.85224089635854,12.259835315645013,13.17577030812325/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3141,7 +3141,7 @@ holdB any hereditary title.&quot;
 Tbe fifth article, whioh relates to tbe  
 prohibition of slavery after the yea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_bearcat_ver02:data:sn91099608:00415623021:1886061201:0163/pct:77.52973467520586,22.030812324929972,12.186642268984446,11.708683473389355/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_bearcat_ver02:data:sn91099608:00415623021:1886061201:0163/pct:77.52973467520586,22.034313725490197,12.200365965233303,11.719187675070028/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3168,7 +3168,7 @@ assembled, aud of the particular state
 within whioh such alteration is pro­  
 posed to be made
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_bearcat_ver02:data:sn91099608:00415623021:1886061201:0163/pct:77.548032936871,39.2436974789916,12.168344007319305,6.162464985994398/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_bearcat_ver02:data:sn91099608:00415623021:1886061201:0163/pct:77.55260750228729,39.25070028011204,12.177493138151876,6.17296918767507/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3246,7 +3246,7 @@ which ceded Dakota to the United
   
 States m lso:t, declared in Articl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_banana_ver02:data:sn00065129:00279522850:1886071001:0738/pct:59.39032936229853,21.17455975380407,11.691193646344312,15.814669174217816/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_banana_ver02:data:sn00065129:00279522850:1886071001:0738/pct:59.39032936229853,21.17455975380407,11.69897998909912,15.820368154100416/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3272,7 +3272,7 @@ government so to be formed, shall be re­
 publican, and in conformity to the prin­  
 ciples contained in these article&#x27;s; and s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_leek_ver02:data:sn99068116:00340581192:1887030301:0697/pct:36.64188893747267,66.36802205375604,9.488412767818103,5.593843326441535/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_leek_ver02:data:sn99068116:00340581192:1887030301:0697/pct:36.64917650488267,66.36802205375604,9.488412767818103,5.60245807489088/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3292,7 +3292,7 @@ ted, by its Delegates, into the- Oongreet
 (if the United States on an eqnal toot­  
 ing with-the original Statei1, i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_bearcat_ver02:data:sn91099608:00415623033:1887070501:0182/pct:5.092847949990807,55.93982848305919,11.638168781025923,2.7976943624349784/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_bearcat_ver02:data:sn91099608:00415623033:1887070501:0182/pct:5.092847949990807,55.95037255728947,11.651958080529509,2.7976943624349784/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

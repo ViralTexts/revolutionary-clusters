@@ -31,7 +31,7 @@ duties; we must do this if we mican to avoid direct taxs
 tion, which was always a means of revenue in the particu­  
 lar States.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184601:1842090801:0960/pct:55.821753713464304,237.34575087310827,38.68391630729916,4.5867287543655415/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184601:1842090801:0960/pct:18.60427978281699,79.10604120591316,12.8925795805387,1.5287316183602995/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -52,7 +52,7 @@ ways a means of revenuo in the particular
 States.”  
 I’he hill passed that year was approved b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183694:1843122801:0544/pct:80.82232893157263,68.80510440835266,15.081032412965186,3.6426914153132253/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183694:1843122801:0544/pct:80.81020255063765,68.79712330356107,15.083770942735685,3.6461354057920583/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -75,7 +75,7 @@ means of revenue in the particular
 States.&quot;  
 The bill passed that year was approve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186440:1844010301:0009/pct:88.45166809238665,84.73613395126327,59.046193327630455,21.54283151442667/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186440:1844010301:0009/pct:22.108189010049177,21.18086696562033,14.75839213170836,5.384902840059791/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -96,7 +96,7 @@ always a means of revenue in the particular
 8tfttGB?&quot;  
 The bill passed that year was approved b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82016317:00415661642:1844010901:0258/pct:41.63720930232558,74.62207357859532,18.493023255813952,4.735785953177258/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82016317:00415661642:1844010901:0258/pct:41.64341085271318,74.62207357859532,18.49922480620155,4.744704570791527/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -153,7 +153,7 @@ believe, under universal expectation that wo throughout tho whole period.) the b
 should collect higher duties. We must do this if an indispensable agent in tho restoration of specie  
 wo mean to avoid direct taxation, which was al- 1 payments, that without it, restoration could no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058217:00271744754:1844051701:0079/pct:27.978650137741045,88.99758777807558,47.05578512396694,2.4792280889841867/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058217:00271744754:1844051701:0079/pct:20.99190631995867,66.75154114178504,35.302221456862405,1.862771374966497/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

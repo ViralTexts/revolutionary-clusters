@@ -66,7 +66,7 @@ on kssshfiuld happily be could.-man.&#x27;: to &#x27;h—
 &#x27;senzinmctztb fifth: .im-ss-ricmg-Wcrnmem, (  
 czm suchj: tun-t w :chirjusucc, as well a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216031:1805021201:0064/pct:53.49087003222341,5.769230769230769,43.37629788757609,86.46408839779005/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216031:1805021201:0064/pct:53.481295865401826,5.768617868904706,43.37450032814271,86.45844399589221/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -155,7 +155,7 @@ consideration, Sir,
 Your most obedient humble servant,  
 (Signed) ANT. MERRY
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805021801:0358/pct:49.31079323797139,45.77821329413686,22.418725617685304,44.61865098807774/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805021801:0358/pct:49.297971918876755,45.77073807968648,22.419396775871036,44.615447419986936/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -254,7 +254,7 @@ j confideiation,—Sir,
 Your molt ohedt. humble fervant,  
 (Signed) ANT. MFRRY
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1805021901:0355/pct:5.733285406182603,2.8945726762320647,34.597411933860535,93.0255770430443/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1805021901:0355/pct:5.73225516621743,2.8942115768463075,34.59718478586403,93.01813040585496/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -362,7 +362,7 @@ ed States, who shall appear ta be con­
 cerned in them.&quot;  
 In a letter from the Charge d&#x27;Affaire
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805122501:0003/pct:21.47841255996511,2.0027434842249656,37.81072830353249,95.30864197530865/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805122501:0003/pct:21.492949556621603,2.007315957933242,37.81799680186074,95.30864197530865/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -439,7 +439,7 @@ ture at sea or by purchase in the parts to
 which they are destined, and are thus in  
 readiness to be converted immediately into
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1805122701:0061/pct:46.91650853889943,5.881803753150966,23.46616065781151,38.147698627579125/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1805122701:0061/pct:46.90909090909091,5.881254667662435,23.46772068511199,38.14724919093851/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -491,7 +491,7 @@ ings complained of onthe part of those in­
 dividuals, citizens of the United States,  
 who shall appear to be concerned in them.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1805122701:0061/pct:47.169512966476915,44.0948557557651,23.086654016445287,27.084305853795165/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1805122701:0061/pct:47.16205533596838,44.090739357729646,23.088274044795785,27.08488922081155/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -580,7 +580,7 @@ ings complained of on tint part of thow: indjvi
 duals, chiacns of the U &#x27;•dates, who shall ap  
 pear to be concerned in them *
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805123101:0456/pct:41.41569154037982,22.804274172530622,17.571455975446,41.49074798019286/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805123101:0456/pct:41.407748369773685,22.80130293159609,17.57447896688403,41.48968512486428/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -664,7 +664,7 @@ ings complained of on the part of those individuals,
 citizens of the United States, who shall appear to be  
 concerned in them.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806010101:0885/pct:30.4029304029304,43.99361022364217,21.416361416361415,40.5111821086262/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806010101:0885/pct:30.3955078125,43.9865836128414,21.417236328125,40.50870467976362/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -747,7 +747,7 @@ tizens of the United States, who Ihail appear
   
 In a letter from the Charge d* Affaires o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1806010201:0285/pct:42.360594795539036,9.634849455477259,36.87732342007435,87.3542600896861/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1806010201:0285/pct:42.352722542278386,9.633615167819626,36.87666480827603,87.34733965325817/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

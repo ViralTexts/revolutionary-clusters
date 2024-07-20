@@ -94,7 +94,7 @@ his action* in the hearts *of the people, that for
 their tongues to be silent and not confess so much,  
 were a kind of ungrateful injury
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216481:1833101601:0340/pct:25.713253882267967,31.214017521902377,18.273745034308416,2.5782227784730916/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216481:1833101601:0340/pct:25.70861166275501,31.21011137529721,18.276463862309683,2.5820714971009053/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -161,7 +161,7 @@ ti-.il- in their hearts, that for their tongues to be si
 lent, mid not confess so much, were a kind cd un­  
 grateful injury.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040307:00514151362:1856013101:0227/pct:17.226772098277323,68.62147753236862,12.694154193730585,2.0563594821020565/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040307:00514151362:1856013101:0227/pct:17.231478866610185,68.62147753236862,12.698860962063447,2.05998621840206/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

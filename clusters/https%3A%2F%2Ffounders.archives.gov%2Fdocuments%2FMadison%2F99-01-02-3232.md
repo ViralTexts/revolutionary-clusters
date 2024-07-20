@@ -115,7 +115,7 @@ Vlr. Livingston at Bordeaux, I must :
 •- close it here.&quot;  
 &quot;t With very higli respect sir, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808111601:0001/pct:23.66018261214768,49.43218900926772,18.459706232631998,14.658660749249446/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808111601:0001/pct:23.66018261214768,49.4365400513423,18.472938996956465,14.658660749249446/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -144,7 +144,7 @@ To give this a chance of finding Mr. Livingston
 at Bordeaux&#x27; I must close here.”  
 With very high respect, sir
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808112101:0219/pct:32.09088588205259,5.066622799802599,21.113096757722747,10.0345451554532/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808112101:0219/pct:32.08269525267994,5.065789473684211,21.114088820826954,10.037006578947368/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -177,7 +177,7 @@ Livingstonsi at Bordenux, I must close it
 ss&#x27;i&#x27;here. .  
 With very high respect, sir
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808112301:0592/pct:31.005010315355143,32.27451682176092,23.00324196875921,14.924838940586971/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808112301:0592/pct:31.000442021511713,32.27162923861501,23.004764009626246,14.926485938385374/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -207,7 +207,7 @@ I o give this a chance of finding Mr. Li­
 vingston at Bordeaux, 1 must close it here.”  
 \\ ith very high respect, sir
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808112501:0237/pct:42.16932163952031,63.7785501489573,16.967961338822267,9.148460774577954/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808112501:0237/pct:42.161775232641375,63.77063423110339,16.970890002386067,9.15146249637996/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -242,7 +242,7 @@ Your obedient servant,
 (Signed)  
 TOHN AR MSTRONG
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808112901:0389/pct:22.39433926180914,30.72044647387113,17.78542742398164,11.529680365296803/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808112901:0389/pct:22.390057361376673,30.716550412175017,17.78840025493945,11.532445571760727/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -130,7 +130,7 @@ Such a policy, strictly followed out,would secure men
 who would give character to the institution?would  
 I ensure its adaptation to the different tastes and wants
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1854062001:0264/pct:16.83718211049401,55.90340746396869,17.567962584039755,8.685692469218287/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1854062001:0264/pct:16.83718211049401,55.90977060863479,17.567962584039755,8.685692469218287/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -148,7 +148,7 @@ fort, that I never did appoint a relative to office, and
 that merely because I never saw the case in which  
 some one did not offer, or occur, better qualified.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536123:1871080901:0973/pct:133.2089552238806,150.67506750675068,49.40298507462686,5.9405940594059405/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536123:1871080901:0973/pct:33.31466965285554,37.66876687668767,12.355356476297127,1.4851485148514851/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -171,7 +171,7 @@ occur, better qualified.&quot;
 &#x27; Morton&#x27;s idea is that when a man is  
 elected President it is - equivalent t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035083:00296027169:1871081001:0129/pct:38.04682686383241,114.81938108741215,13.894023413431917,5.486376525705832/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035083:00296027169:1871081001:0129/pct:28.55161787365177,86.11761804956232,10.431432973805855,4.117864628282579/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -191,7 +191,7 @@ merely because I never saw the case in
 which some one did not offer, or occur,  
 better qualified.&quot; Fresident Grant ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027431:1871081501:0074/pct:6.94687682428488,121.89982347749338,14.52130764740222,3.8945278022947925/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027431:1871081501:0074/pct:5.211678832116788,91.42762577228596,10.905109489051094,2.9236540158870254/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -212,7 +212,7 @@ not offer, or occur, better qualified.
 Such was the uniform practice of our  
 Presidents in the better days of the Repub
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn83032041:00212477692:1871081701:0129/pct:23.760580411124547,51.63739914570479,17.38210399032648,5.208827717133365/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn83032041:00212477692:1871081701:0129/pct:17.828519582640254,38.72804935927859,13.050052926054741,3.9155196962505934/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -231,7 +231,7 @@ tive to office, and that merely because I never
 saw the ease in whieh some one did not offer,  
 or occur, better qualified.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn84022991:00513688076:1871082201:0476/pct:34.03409090909091,79.3822703569996,13.068181818181818,2.112581895975398/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn84022991:00513688076:1871082201:0476/pct:34.03409090909091,79.3822703569996,13.087121212121213,2.125952667468913/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -252,7 +252,7 @@ and that merely because I never saw
 the case in which scne one did not  
 oiler, or occur, better qualified
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033386:00200293873:1871092901:0415/pct:23.83048981838195,90.54592441046624,12.71326362135388,4.027134704425541/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033386:00200293873:1871092901:0415/pct:17.875326819870647,67.91213524281254,9.536259804596119,3.0257348982448584/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -297,7 +297,7 @@ haracter, and
 ori! In this  
 way it will honor us and 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grass_ver01:data:sn83030214:00206531113:1872032701:0624/pct:5.716625716625717,53.61549994233653,48.435708435708435,16.503286818129396/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grass_ver01:data:sn83030214:00206531113:1872032701:0624/pct:1.9055419055419056,17.871833314112173,16.145236145236144,5.501095606043132/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -346,7 +346,7 @@ I can say with truth, and with unspeak­
 able comfort, that I never did appoint a  
 relative to office.” Other l’rosidcnl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187158:1876081801:0296/pct:15.252217661856216,32.13340391741662,12.683701840328347,3.8856537850714665/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187158:1876081801:0296/pct:15.250198570293884,32.130002117298325,12.686435442591122,3.888771261204037/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -455,7 +455,7 @@ At the risk of being somewhat
 tedious, I have copied from Mr. Jeffer.­  
 son&#x27;s correspondence the foregoin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_tesla_ver01:data:sn85038614:00175030906:1886012401:0111/pct:76.64483941378235,128.37880543558413,36.654193950732775,106.76287791003898/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_tesla_ver01:data:sn85038614:00175030906:1886012401:0111/pct:25.548279804594117,42.792935145194704,12.218064650244257,35.58762597001299/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -472,7 +472,7 @@ I never appointed a relation to office, and that merely
 because I tlever saw the case in which some one did not?  
 offer, or occur, better quaiinied.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_lorca_ver01:data:sn83030272:00206533109:1888102101:0609/pct:283.4228702993093,177.8523489932886,51.80353031465848,3.9048200122025625/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_lorca_ver01:data:sn83030272:00206533109:1888102101:0609/pct:70.88291746641075,44.46308724832215,12.955854126679462,0.9762050030506406/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -493,7 +493,7 @@ er saw the case in which some one
 did not offer, or occur, better quali­  
 fied.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_neely_ver01:data:sn85059778:00340582135:1888102601:0356/pct:58.478873239436616,92.04511126774746,12.014084507042254,4.027791763165844/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_neely_ver01:data:sn85059778:00340582135:1888102601:0356/pct:58.470637938318546,92.03584373741442,12.01708679528705,4.0307423815277215/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -511,7 +511,7 @@ and that merely because I never saw the
 case in which some one did not offer, or  
 occur, better qualified.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn90061417:00294559966:1888110901:0609/pct:111.01754385964912,276.95554676164096,43.228070175438596,8.494921514312097/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn90061417:00294559966:1888110901:0609/pct:27.764127764127764,69.23888669041024,10.81081081081081,2.123730378578024/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -643,7 +643,7 @@ which some one did not offer or occur bettor
 auatlflsd  
 The people are tho
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_borges_ver01:data:sn83030272:00175044851:1889070401:0630/pct:11.277602523659306,349.7491257412194,52.28706624605678,12.604530941158583/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_borges_ver01:data:sn83030272:00175044851:1889070401:0630/pct:2.8194006309148265,87.43728143530485,13.071766561514195,3.1511327352896457/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -670,7 +670,7 @@ I never appointed a relation to office, and that
 merely because I never saw the case iu which some  
 one did not offer or oocur better outlined
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ingstad_ver01:data:sn84028296:00296029154:1889071101:0394/pct:51.07913669064748,68.01518913392727,18.705035971223023,1.3874689645100045/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ingstad_ver01:data:sn84028296:00296029154:1889071101:0394/pct:38.31796716887789,51.015043084562585,14.031931639307398,1.0369504892653716/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -702,7 +702,7 @@ declaration against nepotism as illus­
 trated in the case of President Harri­  
 son. How if Mr. Harrison finds in 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_corinth_ver01:data:sn86090439:00517176618:1889072401:0155/pct:7.29504400185271,77.99612922435611,16.85965724872626,5.62751228226887/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_corinth_ver01:data:sn86090439:00517176618:1889072401:0155/pct:7.300833719314498,77.9998511240137,16.877026401111625,5.62751228226887/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -851,7 +851,7 @@ merely because 1 never saw tbe case in
 which some one did not offer, or occur,  
 better qualified.&quot; That&#x27;s because the im
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_beveridge_ver01:data:sn82015679:00295871891:1893032901:0273/pct:66.12072999532054,108.97373932656679,18.179691155825925,2.0702432737232157/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_beveridge_ver01:data:sn82015679:00295871891:1893032901:0273/pct:49.607957870099476,81.73030449492508,13.645406670567583,1.5546963106170453/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -881,7 +881,7 @@ merely because I never saw the casein
 which some one did not offer, or occur,  
 better qualified,”” That&#x27;s because the im
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_displacerbeast_ver02:data:sn91070630:00514152822:1893041001:1269/pct:56.69649002064694,51.58847043972228,12.787336545079146,2.4931622133389437/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_displacerbeast_ver02:data:sn91070630:00514152822:1893041001:1269/pct:56.70566643725625,51.58847043972228,12.791924753383803,2.500175327863104/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -901,7 +901,7 @@ merely because I never saw the case in
 which some one did not offer, or occur  
 better qualified.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_audi_ver01:data:sn89081128:00280766203:1893041901:0069/pct:49.851485148514854,38.683033153607894,14.24092409240924,3.303888952621315/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_audi_ver01:data:sn89081128:00280766203:1893041901:0069/pct:49.86248624862486,38.690681044701925,14.22992299229923,3.3000650070742994/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -978,7 +978,7 @@ and that is merely because I never saw
 the case in which somo ono did not  
 offer, or occur, better qualified
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_dracula_ver01:data:sn84037890:00206533614:1897042801:0291/pct:67.82212885154061,45.31376245623485,14.705882352941176,3.447347158631834/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_dracula_ver01:data:sn84037890:00206533614:1897042801:0291/pct:50.893169877408056,33.98868839213574,11.033274956217163,2.5855103689738757/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1011,7 +1011,7 @@ and that merely because I never saw
 the cose In which borne ono did not offer,  
 or occur, better qualified
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_atherton_ver01:data:sn84026355:00211100242:1897100101:0017/pct:75.09578544061303,57.28684282211931,16.666666666666668,12.013075456278942/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_atherton_ver01:data:sn84026355:00211100242:1897100101:0017/pct:56.343426600229975,42.9719422500681,12.514373323112304,9.00299645873059/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1030,7 +1030,7 @@ and that merely because I never saw
 the case in which someone did not offer  
 or occur, better qualified
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_frank_ver01:data:sn96091104:00296020837:1898092301:1039/pct:48.442367601246104,41.56706507304117,18.399532710280372,3.9309428950863214/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_frank_ver01:data:sn96091104:00296020837:1898092301:1039/pct:36.34592910011687,31.181938911022577,13.809894818854694,2.948207171314741/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1065,7 +1065,7 @@ on the institution.&quot;
 If this standard has ever been over-­  
 poked in the past, may we not hope i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_rollingstone_ver01:data:sn85038614:00175032988:1898111301:0113/pct:87.52185662056907,193.8864154631339,42.77539341917024,89.22792919969595/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_rollingstone_ver01:data:sn85038614:00175032988:1898111301:0113/pct:29.173952206856356,64.62880515437796,14.258464473056748,29.742643066565318/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

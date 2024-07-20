@@ -212,7 +212,7 @@ havo wit and address enough to accomplish
 it&quot; Jefferson also used to hide, as for as  
 possible, in the rooms of the Philosophica
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_hickok_ver01:data:sn85032490:00237286601:1888071101:0087/pct:66.71704957678355,64.69807564698075,18.42503022974607,7.022782570227825/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_hickok_ver01:data:sn85032490:00237286601:1888071101:0087/pct:44.496522527970974,43.13205043132051,12.292107650438464,4.68922804689228/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -240,7 +240,7 @@ as far as possible, in the rooms of the
 philosophical society. Washington was  
 at least a member. It is curious tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_mustang_ver01:data:sn99067997:0041562508A:1888102601:0032/pct:59.17728126957611,102.04422194409679,18.166631864689915,10.888610763454318/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_mustang_ver01:data:sn99067997:0041562508A:1888102601:0032/pct:47.34116598919762,81.64355113847067,14.533103179464335,8.707260995327449/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

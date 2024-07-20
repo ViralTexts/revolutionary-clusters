@@ -177,7 +177,7 @@ portunity of retiring from them without cen­
 ???ire, and carrying with me the most consoling  
 proofs of public approbation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kuvasz_ver02:data:sn83045462:00280654085:1856101401:0227/pct:80.99250936329588,38.46856910734234,16.01123595505618,7.514979181476592/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kuvasz_ver02:data:sn83045462:00280654085:1856101401:0227/pct:81.00031210986268,38.47110795166041,16.015137328339577,7.514979181476592/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -247,7 +247,7 @@ tunity of retiring without censure, and car­
 rying with me the most consoling proofs of  
 public approbation.&quot; He retired to the peace
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn85054616:00212477783:1858080401:0235/pct:25.625,64.173959162026,19.479166666666668,6.682577565632458/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn85054616:00212477783:1858080401:0235/pct:19.222087167911095,48.13046937151949,14.620593853099496,5.011933174224343/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -442,7 +442,7 @@ the most consoling proofs of public ap­
 probation.”  
 Is history repeating itself
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn85044812:00340583243:1896101801:0361/pct:35.572782084409994,5.348629320619786,29.285099052540914,90.03277711561383/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn85044812:00340583243:1896101801:0361/pct:35.565123789020454,5.347832563682407,29.284176533907427,90.02308952778192/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

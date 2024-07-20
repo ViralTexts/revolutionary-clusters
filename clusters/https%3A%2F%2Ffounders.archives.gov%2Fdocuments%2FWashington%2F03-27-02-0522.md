@@ -542,7 +542,7 @@ than perhaps has ever been paralleled in the history of {
 human enthusiasm.&quot; I  
 In nS3 (vide same volume, poge 60S) the followin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661216:1853122801:1377/pct:52.41623711340206,4.58427530771163,31.394974226804123,91.50967093695051/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661216:1853122801:1377/pct:52.41623711340206,4.58427530771163,31.411082474226806,91.51804404253538/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -704,7 +704,7 @@ ihe nioititiculiou of i-eeing inviiing opa .r-uai-
 &quot; 1 here is every te.isnii to b -lu-ve. that the w.tr  
 &quot; ha been rotr.ieled on ihis ui count. U.ir op
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_ewing_ver01:data:sn83025925:00280776166:1864071901:0064/pct:25.36927621861152,68.26666666666667,17.15288035450517,25.473684210526315/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_ewing_ver01:data:sn83025925:00280776166:1864071901:0064/pct:19.046739331239607,51.2,12.876408645852576,19.11578947368421/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -753,7 +753,7 @@ to be reduced to the humiliating condition of
 seeing che cause of America, in America, upr  
 held by forsign arms. Vol I, P384
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn85026002:0028077506A:1865030801:1260/pct:136.8421052631579,327.1438695960312,58.94736842105263,30.900070871722182/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn85026002:0028077506A:1865030801:1260/pct:34.21871261067241,81.7859673990078,14.74036850921273,7.7250177179305455/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -883,7 +883,7 @@ But Washington possessed the power
 of recovering from these fits of the bines  
 and of putting forth every effort, afte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_inge_ver01:data:sn82016014:0029587126A:1895022101:0372/pct:28.276877761413843,119.4330880348869,18.685567010309278,4.306350504224584/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_inge_ver01:data:sn82016014:0029587126A:1895022101:0372/pct:21.21156324802062,89.57481602616517,14.030565273430307,3.2297628781684384/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -903,7 +903,7 @@ But Washington possessed the power
 of recovering from these fits of the bines  
 and of putting forth every effort, afte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_elliot_ver01:data:sn87068079:00332896490:1895022101:0032/pct:35.46034639927074,80.2464616886286,9.723488301428137,2.6232308443142998/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_elliot_ver01:data:sn87068079:00332896490:1895022101:0032/pct:35.45495974479721,80.23667195315359,9.725808901716542,2.6259607173356105/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -946,7 +946,7 @@ But Washington possessed tho power
 of recovering from thesofits of tho blues  
 and of putting forth every effort, afte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_annapolis_ver01:data:sn85025350:00415627671:1895030901:0485/pct:59.235545207605746,93.92564402810305,15.366705471478463,3.90807962529274/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_annapolis_ver01:data:sn85025350:00415627671:1895030901:0485/pct:45.917497869780966,72.79739847235876,11.909177484837853,3.036376011495122/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1008,7 +1008,7 @@ l...i.ri.i. In thuip m&#x27;naiml renin.&quot;
 But Washington possessed the power  
 of recovering from these fits of the blue
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_flycatcher_ver01:data:sn85033162:00200298500:1897021801:0877/pct:27.402135231316727,40.29712163416899,45.13641755634638,63.30547818012999/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_flycatcher_ver01:data:sn85033162:00200298500:1897021801:0877/pct:20.569902048085485,30.232126276694522,33.89729890175126,47.483751160631385/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1029,7 +1029,7 @@ But Washington possessed the power
 of recovering from these fits of the bines  
 and of putting forth every effort, afte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_kauai_ver01:data:sn84022137:00279523593:1897021801:0888/pct:51.402200922967694,68.26506024096386,14.589989350372736,3.2048192771084336/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_kauai_ver01:data:sn84022137:00279523593:1897021801:0888/pct:51.402200922967694,68.27309236947791,14.595905809963318,3.2008032128514055/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1049,7 +1049,7 @@ Hut Washington possessed the power
 of recovering from these fits of the blues  
 and of putting forth every effort, afte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_green_ver01:data:sn87093220:0020029032A:1897021801:0080/pct:65.05243088655862,62.4589715536105,12.411820781696854,2.74890590809628/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_green_ver01:data:sn87093220:0020029032A:1897021801:0080/pct:65.05719733079123,62.462390590809626,12.40705433746425,2.762582056892779/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1079,7 +1079,7 @@ But Washington possessed the power
 of recovering from these fits of the bines  
 and of putting forth every effort, afte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_pearsoll_ver01:data:sn84022650:00295868776:1897021901:0456/pct:84.16612589227775,41.86959937156324,14.568462037637897,3.534956794972506/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_pearsoll_ver01:data:sn84022650:00295868776:1897021901:0456/pct:63.14508276533593,31.408745744959415,10.938007140538787,2.6577638125163654/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -63,7 +63,7 @@ on, insidiously revived, as promising by its 8
 jens h the best security .igainst grievances c  
 f every kind Irom the North.&#x27; &quot; t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:0028077537A:1856052201:0734/pct:51.29716981132076,77.56568605434539,14.932193396226415,13.541432741971704/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:0028077537A:1856052201:0734/pct:38.48422294308464,58.17426454075904,11.206133883810086,10.161688749157872/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -94,7 +94,7 @@ frying pan.&quot;
 What was true when Madison expressed the  
 foregoing sentiment, is equally, if not more tru
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn86092535:00202190583:1856101301:0021/pct:61.827332559039874,258.79302215935877,56.03948896631823,34.04054691183404/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn86092535:00202190583:1856101301:0021/pct:15.456833139759969,64.69825553983969,14.009872241579558,8.51013672795851/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -121,7 +121,7 @@ tates of prudence, and favor the project of a Southern Convention,
 insiciously revived as promising by its councils the best securities  
 againtt grievances of every sort from the No
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_flavory_ver01:data:sn83030213:00206530595:1858072301:0147/pct:53.6407364405374,149.47181008902078,47.48714546359263,14.670623145400594/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_flavory_ver01:data:sn83030213:00206530595:1858072301:0147/pct:17.880245480179134,49.823936696340255,15.829048487864211,4.890207715133531/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -148,7 +148,7 @@ greater safety in disunion? The dangor feort the al
 is, that the pride and resentment excited by them may  
 be an overmatch for the dictates of prudence, and favor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1858073001:0550/pct:285.14150943396226,276.5037037037037,51.41509433962264,23.05185185185185/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1858073001:0550/pct:71.28537735849056,69.12592592592593,12.85377358490566,5.762962962962963/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -229,7 +229,7 @@ tion, insidiously revived, as promising, by
 its councils, the best securities against  
 grievances of every sort from the North.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn84026884:00279557505:1858100801:0041/pct:71.42334431028173,75.21210407239819,12.861324551774606,14.437217194570136/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn84026884:00279557505:1858100801:0041/pct:71.43706549579217,75.2227092760181,12.875045737285035,14.447822398190045/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -261,7 +261,7 @@ Let South Carolina table her disunion resolu­
 tions and move for the appointment of a com­  
 mittee to arrange for a convention to be com
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn85025750:00280774650:1859120501:0361/pct:6.019332161687171,63.666144423871245,18.98066783831283,14.057826520438685/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn85025750:00280774650:1859120501:0361/pct:4.526477697209405,47.756729810568295,14.238628872775214,10.539809143996582/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -325,7 +325,7 @@ sels the security against grievances ol every
 kinvl from the n &gt;rs li.  
 “Hell hath no Fury lik . a Woman Su irn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn86086769:00271769775:1860022101:0384/pct:48.61601884570082,56.89293212036389,12.956419316843345,9.353860508514112/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn86086769:00271769775:1860022101:0384/pct:46.19078701976874,54.05525188358694,12.313502424468481,8.88240508199143/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -367,7 +367,7 @@ abounds, and the demand for the oil keeps pace
 with the steadily increasing supply. The fol­  
 lowing account of the manner in which the oi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn84026881:00279557268:1860022901:0776/pct:63.875643715430094,47.624847746650424,14.457371733740224,13.655433752875897/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn84026881:00279557268:1860022901:0776/pct:63.88518024032043,47.634997969955336,14.46213999618539,13.648666937339287/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -384,7 +384,7 @@ Clay: &quot;It is paloful to see the unceasing efforts to
 alarm the South by imputations against the North of  
 unconstitutional designs on the subject of Slavery.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530662:1860100201:0232/pct:149.64250893727657,61.03104862331576,48.570035749106275,5.81136496777973/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530662:1860100201:0232/pct:49.88083631242552,20.343682874438585,16.190011916368757,1.937121655926577/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -423,7 +423,7 @@ for greater safety in disunion! The danger
 from alarm is, that the pride and resent-  
  o e o o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn82015672:00296021970:1860121201:0050/pct:63.06068601583114,306.1505832449629,49.736147757255935,38.17603393425239/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn82015672:00296021970:1860121201:0050/pct:15.770372814252722,76.53764581124072,12.438139227977565,9.544008483563097/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -463,7 +463,7 @@ To be Continued
 es  
 HeArT- Rending Tragedy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_gary_ver01:data:sn82016350:00202191496:1861010901:0247/pct:202.5113008538423,151.59186804756425,42.13962832747363,43.11469121595704/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_gary_ver01:data:sn82016350:00202191496:1861010901:0247/pct:50.6341830968228,37.89796701189106,10.536230064046213,10.77867280398926/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -515,7 +515,7 @@ painful to see the uncencing efforts to alarm
 the South by imputations against the North  
 of unconstitutional designs on the sobject of Slavery
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530674:1861022301:0377/pct:1.9762183888795846,50.69829039248736,48.333612460224415,13.508307247772695/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530674:1861022301:0377/pct:0.6587394629598615,16.89943013082912,16.11120415340814,4.502769082590898/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -606,7 +606,7 @@ of a Southern convention, insidiously revived, as
 promising, by its councils, the best securities  
 against grievances of every sort from the North.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_gastly_ver01:data:sn82015737:00279529121:1862021301:0577/pct:57.01729106628242,27.387330601953987,36.71469740634006,10.63136884126484/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_gastly_ver01:data:sn82015737:00279529121:1862021301:0577/pct:19.00576368876081,9.12911020065133,12.23823246878002,3.5437896137549463/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -643,7 +643,7 @@ promisiog by its counsels the best security
 against grievances of every kind from the  
 North.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058250:0027174478A:1862110101:0117/pct:6.831653823355068,7.5999504889218965,33.98043864848844,116.92041094194826/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058250:0027174478A:1862110101:0117/pct:5.128205128205129,5.706151751454388,25.49281161997925,87.68411932169823/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

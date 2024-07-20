@@ -225,7 +225,7 @@ States, both of them praying a removal of Alien McLane, the
 father of our present Minister to England, from the office of  
 Collector of the Customs at Wilmington It apyiears that Mr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830040701:0332/pct:43.14753057011275,14.385096097158353,17.53215817055741,3.537318712415989/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830040701:0332/pct:43.14067958081931,14.383400141476066,17.534667090081506,3.540831564882496/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -248,7 +248,7 @@ hn duty a* an officer, or as an agent of this administration,
 this would be It git r.late ground for iiniuiry, into which I should  
 consider myself freg to enter.* He takes a distinction betwee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830040701:0332/pct:43.211052882324914,19.679283103407617,17.436874702239162,3.9500058955311874/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830040701:0332/pct:43.204191806922836,19.676962980429145,17.43939875092622,3.9534700935313998/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -268,7 +268,7 @@ States, hoth of them praying a removal of Allen Me Lane, the
 lather of our present Minister to England, front die oflicc of  
 Collector of the Customs at Wilmington. It appears that Mr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830040901:0126/pct:41.75068010881741,12.180414857694164,17.554808769403106,2.73757838880849/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830040901:0126/pct:41.744,12.17894609911974,17.557333333333332,2.7412677358414728/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -296,7 +296,7 @@ ring his term, the Iasi of which be refuses to do:—{hits leaving
 your thousand removals from the Post&#x27;Office and other Depart­  
 ments of the government under the full reprobation of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830040901:0126/pct:41.76668266922707,16.220453449107573,17.554808769403106,6.25904486251809/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830040901:0126/pct:41.76,16.218497528035694,17.557333333333332,6.262309578359258/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -463,7 +463,7 @@ riot permitting the letter or anv enpv to go out of your
 hands. I pray you to accept assurances of mv high  
 consideration and respect. THOS: JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1839050101:0902/pct:48.87546156428331,19.73977259406869,15.760322255790534,26.76122377212519/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1839050101:0902/pct:48.87546156428331,19.74367991247607,15.760322255790534,26.765131090532567/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -496,7 +496,7 @@ race. The event of our experiment is
 to show whether man can be trusted  
 with self-government. The proble
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:00332891972:1896041601:0499/pct:21.39898024219248,33.033886740959744,13.973868706182282,4.810097793950421/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:00332891972:1896041601:0499/pct:21.404291480773317,33.04146766734895,13.97917994476312,4.817678720339625/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

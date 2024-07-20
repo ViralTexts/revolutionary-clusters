@@ -174,7 +174,7 @@ countrymen, my loving friends ; As wer
 How they seem to dive into their hearts,  
 With humble and familiar courtesy.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn87076863:00296028873:1853092201:0683/pct:76.28099173553719,109.36738370244781,13.581267217630854,1.949772173360178/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn87076863:00296028873:1853092201:0683/pct:57.23339763020116,82.02818692381054,10.181868283273628,1.4623291300201335/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -235,7 +235,7 @@ With humble and familiar courtesy.
 “Wooing poor craftsmen with&#x27;the craft of  
 smiles, and patient under bearing of bis for
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_frost_ver02:data:sn85026214:print00211110247:1877011401:0003/pct:56.18018677897821,62.97559695617948,12.049075260941219,0.7478352138546314/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_frost_ver02:data:sn85026214:print00211110247:1877011401:0003/pct:56.18934261124336,62.97559695617948,12.049075260941219,0.7609551298871687/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -433,7 +433,7 @@ And had the tribute of his suple knee
 With--thanks, my countrymen, my loving  
 friends.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_daisy_ver01:data:sn87065532:00295878836:1895041901:0687/pct:318.09045226130655,149.79149291075896,50.25125628140704,43.591882123992214/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_daisy_ver01:data:sn87065532:00295878836:1895041901:0687/pct:79.52261306532664,37.44787322768974,12.56281407035176,10.897970530998053/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

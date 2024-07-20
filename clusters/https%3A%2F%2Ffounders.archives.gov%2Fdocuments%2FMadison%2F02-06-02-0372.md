@@ -228,7 +228,7 @@ lioee Floridus was included in the eastern boundary, France eranct
 mde having strenuously insisted to have it extended to the Mo- &#x27;&#x27;Y1&#x27;1 &#x27;&#x27;  
 bile, which was peremptorily refused by Spain.&quot; New 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661150:1847031101:0252/pct:60.46107689878415,32.0351137487636,18.948365703458077,4.735410484668645/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661150:1847031101:0252/pct:60.46107689878415,32.039235080778106,18.969419443128587,4.739531816683152/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -250,7 +250,7 @@ ias the Doth deerec of north latitude, as its true boundary
 on that side.&quot;?(3 Foreign Relations, Ml.) The country  
 was claimed as n whole bv France and ourselves
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661150:1847031101:0255/pct:6.0630171865054105,75.81521739130434,17.23424570337365,4.076086956521739/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661150:1847031101:0255/pct:6.068321663483981,75.82345191040844,17.228941226395076,4.080204216073781/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -268,7 +268,7 @@ Lausatt hold a language most satisfactory. He considered
 the Kio Bravo, or Del Norte, as far as the 30th degree north  
 latitude, as the true boundary on that side.&quot;?Sit &#x27;id Ameri 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848021201:0178/pct:63.24186343331206,87.41680271254552,16.368857689853222,1.8962702499058144/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848021201:0178/pct:63.25249946819826,87.42098873958726,16.363539672410127,1.9046423039892837/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -287,7 +287,7 @@ tory. He considered the Rio bravo, or Del Norte,
 as far as the 30th degree north latitude, as the  
 true boundary on that side.&quot; See 2d America
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879063:1848022501:0034/pct:77.80461621041331,29.645976147995118,17.767042404723565,2.9861958869377405/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879063:1848022501:0034/pct:58.38367566116257,22.236829749272232,13.33064840918244,2.2443421917550945/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

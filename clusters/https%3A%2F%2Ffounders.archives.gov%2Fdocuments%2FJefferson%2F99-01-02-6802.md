@@ -62,7 +62,7 @@ During the fitting of the Houfe, Mr. Qu., -v r»
 ported from the faid committee, that they&#x27; ha i per­  
 formed the duty afltgned them, and that the Vrefi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1807112701:0251/pct:24.05086619977884,32.83143591626882,17.876889052709178,11.164157179581345/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1807112701:0251/pct:24.046434494195687,32.827417380660954,17.879737116884712,11.16687066503468/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -91,7 +91,7 @@ cy reported from the said committee, that
 ihey had performed the duty assigned  
 them, and that the President had stan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807112701:0395/pct:24.81103552532124,59.552257577663184,17.120181405895693,7.420450257829204/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807112701:0395/pct:24.806348006801436,59.54476861167002,17.123244536809622,7.423708920187793/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -112,7 +112,7 @@ tish armed vessels, S;c. referred to in hi:
 message of the 97th of October lust.  
 Mr 0itowwIMsa r ei d could net see an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807120101:0398/pct:58.523692656220504,74.84124968249937,16.95299225976968,4.152908305816611/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807120101:0398/pct:58.5126462816157,74.83174603174604,16.956084056876808,4.156613756613757/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -132,7 +132,7 @@ ing our harbors and waters to Britith arm­
 were appointed the {aid committee.  
 A meflage was received from the Senate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1807120801:0620/pct:40.61029053725045,47.0257472625037,17.123843531894174,3.373779224622669/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1807120801:0620/pct:40.61570091435373,47.0257472625037,17.123843531894174,3.3869323600013153/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -190,7 +190,7 @@ pp. 31--36, 43, 44, 49. President Jefferson,
 in his proclamation interdicting our harbors  
 and waters to British vessels, issued imme
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn84027096:00279529479:1857082201:0067/pct:122.49764668967681,156.42349162651985,33.68371509256354,11.585225969259005/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn84027096:00279529479:1857082201:0067/pct:40.83254889655894,52.141163875506614,11.227905030854513,3.8617419897530016/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -208,7 +208,7 @@ dicting our harbors &quot;and waters to British
 &quot;armed vessels, issued immediate after the  
 outrage, said: 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn87076863:00296028861:1857082701:0514/pct:75.8567415730337,97.69751200349192,16.235955056179776,3.3282409428197295/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn87076863:00296028861:1857082701:0514/pct:56.90405955892682,73.27586206896552,12.178676780446692,2.4989087734613706/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -225,7 +225,7 @@ ferson in his proclamation interdicting our
 harbors and waters to British vessels, issued  
 immediately after the outrage, said--
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1857090401:0355/pct:113.6006289308176,127.16067939275514,50.5503144654088,6.132571772132873/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1857090401:0355/pct:28.4001572327044,31.790169848188786,12.6375786163522,1.5331429430332182/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

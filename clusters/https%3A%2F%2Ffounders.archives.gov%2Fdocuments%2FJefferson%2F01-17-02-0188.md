@@ -1515,9 +1515,9 @@ God; and the earth was filled with violence. An
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1850-09_27_147/page/n20/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1850-09_27_147/page/n20/mode/1up?view=theater)
 
-#### 1850-09-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1850-09-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2072,7 +2072,7 @@ Adamate, etc and it re-­
 pented the Lord that he had made the  
 dfamite on the earth;an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271742010:1871110601:0446/pct:10.859481582537517,134.04274506267473,40.90040927694407,20.281359906213364/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271742010:1871110601:0446/pct:3.619827194179172,44.680915020891575,13.633469758981356,6.760453302071122/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2138,7 +2138,7 @@ men, and they bear children to them, the
 same because mighty men, which were of  
 old men of renown.” Here again must h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624530:1873042601:0577/pct:50.61790247160989,97.53208292201381,14.011356045424181,15.436821322803555/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624530:1873042601:0577/pct:39.23378920574658,75.58814153649985,10.86328141852539,11.97322282435448/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2263,7 +2263,7 @@ came mighty men, which were of old
 men of renown.&quot; Now the question is  
 whether &quot;sons of God&quot; and the daug
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668168:1876011801:0723/pct:168.16608996539793,49.49119373776908,29.288185862580328,18.581213307240706/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668168:1876011801:0723/pct:56.062291434927694,16.49706457925636,9.763935236682734,6.193737769080235/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2502,7 +2502,7 @@ short, to tho subject matter, and the thoy cho-ie. Tlieto&quot; were giants in t
   
 book will be read with increased in- earth iu those days, and also after
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn83032011:00237288014:1883060801:0555/pct:63.07639366827254,47.10711994868505,29.370268410185822,6.324567030147531/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn83032011:00237288014:1883060801:0555/pct:47.324040612631215,35.33033996151379,22.027189812424712,4.746632456703015/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2643,7 +2643,7 @@ giants and an agoof violence and corruption.
 In tho Book of Enoch, an apocryphal book,  
 it Is truo. but of high authority becauso o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_lorca_ver01:data:sn83030272:00206533109:1888081901:0139/pct:128.42835130970724,183.43987823439878,51.463790446841294,45.601217656012174/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_lorca_ver01:data:sn83030272:00206533109:1888081901:0139/pct:32.11327297245232,45.859969558599694,12.868426122134464,11.400304414003044/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2765,7 +2765,7 @@ and it is known to such as the Temple
 of Belus.  
 The following description of this his
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_james_ver01:data:sn83045555:00206539781:1892122401:0290/pct:126.39318885448917,32.90135396518375,75.38699690402477,119.36170212765957/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_james_ver01:data:sn83045555:00206539781:1892122401:0290/pct:42.14193548387097,10.967117988394584,25.135483870967743,39.787234042553195/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2846,7 +2846,7 @@ thor of Genesis doesn&#x27;t say that, and
 there is every leason to believe that he  
 means just what he says and nothin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_audi_ver01:data:sn89081128:00280766215:1894022801:0079/pct:21.886539107082914,77.23286406646665,14.350453172205437,10.246942072467112/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_audi_ver01:data:sn89081128:00280766215:1894022801:0079/pct:21.886539107082914,77.24055696592046,14.367237327962403,10.246942072467112/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2868,7 +2868,7 @@ vi, t we learn that when the sons of God came in
 unto the daughtern of men, and they bear chil­  
 dren to them, the same became mighty men.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_kobayashi_ver01:data:sn83030193:00206539811:1894091301:0093/pct:345.38852578068264,249.46442845723422,43.790849673202615,15.283772981614709/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_kobayashi_ver01:data:sn83030193:00206539811:1894091301:0093/pct:86.34713144517066,62.366107114308555,10.947712418300654,3.820943245403677/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2890,7 +2890,7 @@ vi., 4 we learn that &quot;when the sons of God came in
 unto the daughter of men, and they bear chil­  
 dren to them, the same became mighty men.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_kobayashi_ver01:data:sn83030193:00206539811:1894091302:0099/pct:261.64978292329954,254.2779465856389,43.487698986975396,14.584999200383816/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_kobayashi_ver01:data:sn83030193:00206539811:1894091302:0099/pct:65.42428080332911,63.56948664640972,10.873891803871901,3.646249800095954/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2912,7 +2912,7 @@ wives of all which they chose.&quot; Again in Gen.
 unto the daughter of men, and they bear chil­  
 dren to them, the same became mighty men.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_kobayashi_ver01:data:sn83030193:00206539811:1894091303:0109/pct:263.4005763688761,255.05563618771166,43.371757925072046,14.707305273343009/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_kobayashi_ver01:data:sn83030193:00206539811:1894091303:0109/pct:65.87387387387388,63.763909046927914,10.846846846846846,3.676826318335752/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2934,7 +2934,7 @@ vi., 4 we learn that &quot;when the sons of God came in
 unto the daughter of men, and they bear chil­  
 dren to them, the same became mighty men.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_kobayashi_ver01:data:sn83030193:00206539811:1894091304:0117/pct:261.96673897324655,244.98714652956298,43.45625451916124,14.652956298200515/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_kobayashi_ver01:data:sn83030193:00206539811:1894091304:0117/pct:65.5035255830772,61.246786632390744,10.866027843066353,3.6632390745501286/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3137,7 +3137,7 @@ turn out happily, for they tesultcd in the
 biith of great giants who spread wicked­  
 ness and desolation ever where, and Go
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_franklin_ver01:data:sn86063615:00211109014:1899052101:0403/pct:42.36481340441736,28.214836628803813,16.831683168316832,11.120459963539476/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_franklin_ver01:data:sn86063615:00211109014:1899052101:0403/pct:31.79047619047619,21.16112747160286,12.628571428571428,8.343850792315243/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

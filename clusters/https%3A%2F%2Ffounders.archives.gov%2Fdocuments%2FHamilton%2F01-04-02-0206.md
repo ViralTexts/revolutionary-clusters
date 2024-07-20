@@ -301,7 +301,7 @@ to control the most important brauch of for Representauves in Congress; those
 the National Legislature. This construeof Massachusetts are larger than will be  
 tion of the Constitution, as I undersiand necessary for that purpuse; and those of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156347:1842081801:1222/pct:131.95084485407065,202.68068331143232,114.28571428571429,58.975032851511166/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156347:1842081801:1222/pct:32.98771121351766,50.67017082785808,28.571428571428573,14.743758212877792/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -384,7 +384,7 @@ ernments have furnished exam?.!---: hut without which
 every government degenerates into tyranny.&quot; So es-&lt; n­  
 ti:tl is this principle to the maintenance oi a republica
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851031801:0099/pct:50.657020522663515,10.33586757771148,15.591318470397166,6.390145318063709/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851031801:0099/pct:50.657020522663515,10.342283386263754,15.591318470397166,6.390145318063709/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -414,7 +414,7 @@ government, or favors the elevation of the
 few on the ruin of the many?&quot; Had not  
 Madison ever heard of the many who ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:00279525267:1868122801:0523/pct:72.24080267558529,36.899613020714774,10.766045548654244,2.7771454586842705/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:00279525267:1868122801:0523/pct:72.22929936305732,36.89541367929896,10.768312101910828,2.7796745191760555/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -435,7 +435,7 @@ scrupulously impartial to the rights and pre­
 tensions of every class and description of  
 citizens ? But who are the citizens ? Ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:00279525267:1868122801:0523/pct:72.28858098423316,40.13202822672434,10.766045548654244,3.164124743910767/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:00279525267:1868122801:0523/pct:72.27707006369427,40.127461021964265,10.768312101910828,3.1666097644247184/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

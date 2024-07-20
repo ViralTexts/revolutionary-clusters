@@ -105,7 +105,7 @@ their most danng and effective chiefs, of &quot;beating down
 the Administration! &#x27; He calls litis person, afterwards,  
 &quot;the evil genius of this country.&quot; There are evil geniuse
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_armani_ver02:data:sn84024735:00415664229:1836121301:0580/pct:32.966257235634615,46.70060896475991,17.84554567273754,4.721972646500948/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_armani_ver02:data:sn84024735:00415664229:1836121301:0580/pct:32.97566944326792,46.70060896475991,17.85495788037084,4.728627999068251/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -139,7 +139,7 @@ nautical skill, that I cannot find it allied there to the other qualifications.
 
 ---
 
-## [From _The American review : a Whig journal of politics, literature, art, and science_](https://archive.org/details/sim_american-whig-review_1849-05_9_17/page/n41/mode/1up?view=theater)
+## [From _The American Review: a Whig Journal Devoted to Politics and Literature (1848-1850)_](https://archive.org/details/sim_american-whig-review_1849-05_9_17/page/n41/mode/1up?view=theater)
 
 #### 1849-05-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -159,7 +159,7 @@ not a little singular, he seems to hav
 
 ---
 
-## [From _The American review : a Whig journal of politics, literature, art, and science_](https://archive.org/details/sim_american-whig-review_1849-05_9_17/page/n41/mode/1up?view=theater)
+## [From _The American Review: a Whig Journal Devoted to Politics and Literature (1848-1850)_](https://archive.org/details/sim_american-whig-review_1849-05_9_17/page/n41/mode/1up?view=theater)
 
 #### 1849-05-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -224,7 +224,7 @@ character towards the new establishment of
 Rri&#x27;ubHcanism I soy forks now establub­  
 m&#x27;:.:! (or hitherto wo have only sesn its
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn85049908:00415668892:1859081301:0445/pct:5.130859086204347,58.175824175824175,12.183942037557298,15.362637362637363/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn85049908:00415668892:1859081301:0445/pct:5.135787865345754,58.17948717948718,12.188870816698703,15.366300366300367/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -318,7 +318,7 @@ ards the neve establishment *f Republicanism : G
 say for its new establishment; for hitherto ti  
 e have seen only its travestie. * * * 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1859102001:0605/pct:15.191402004588818,33.27049952874646,12.462263011713562,15.25918944392083/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1859102001:0605/pct:15.199452562089924,33.27678290920515,12.462263011713562,15.262331134150173/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -363,7 +363,7 @@ the purpose avowed by one of their most
 daring and effective chiefs, of beating down  
 the Administration.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528670:1859110201:0019/pct:63.883440739703,26.32537434237151,43.94788456150182,46.33751517604209/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528670:1859110201:0019/pct:21.294480246567666,8.775124780790502,14.64929485383394,15.445838392014029/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -384,7 +384,7 @@ RepueliCaNIse; I say for its new establish-­
 ment; for hitherto we have seen only its  
 travestie. THONAS JEFFERSON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528670:1859110201:0019/pct:64.26169795460913,74.21084581141238,43.513589240683665,11.280857952246054/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528670:1859110201:0019/pct:21.42056598486971,24.736948603804127,14.504529746894555,3.760285984082018/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -426,7 +426,7 @@ weight of your character towards (Ac sett eel ubliekment of
 Rtpuklicaniem; laay for its new establishment; for bilbvr­  
 lo we have seen only its irnsesfii
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026050:00280775848:1859111801:0194/pct:26.51912978244561,69.6852091418715,16.56039009752438,12.677878395860285/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026050:00280775848:1859111801:0194/pct:19.909926815537624,52.26390685640362,12.422593357102645,9.515595802788559/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -472,7 +472,7 @@ down the &quot;Administration. * * * This is
 my dear sir, acd give us the aii of your talents  
 uud the weight of your character towards th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn83032006:00296028551:1859112501:0619/pct:47.82195469665769,25.242948566010902,14.367178837319816,17.907086987437783/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn83032006:00296028551:1859112501:0619/pct:47.82195469665769,25.25084933238524,14.367178837319816,17.89918622106344/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -519,7 +519,7 @@ ter towards the new establishment of Republic­
 anism; I say for its new establishment; for  
 hitherto we have seen only its travestie. * 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85033123:00514151386:1862050101:0120/pct:84.4441352441909,44.221961870273724,11.159037150410464,13.132388965811055/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85033123:00514151386:1862050101:0120/pct:84.44877324799407,44.22906237796003,11.172951161819952,13.132388965811055/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

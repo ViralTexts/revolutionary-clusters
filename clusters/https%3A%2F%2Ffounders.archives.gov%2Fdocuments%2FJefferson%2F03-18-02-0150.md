@@ -320,7 +320,7 @@ patriotic efforts, and particularly for your
 own individual happiness and prosperity.  
 TT! IKFFEUSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184145:1822040501:0046/pct:7.240592930444698,62.44034567264285,17.57886735081718,28.027860183154907/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184145:1822040501:0046/pct:7.239217176515296,62.432293010059325,17.58186078915701,28.028544407187688/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -377,7 +377,7 @@ placing the com urn er by the side of the producer,
 nor more disposed to promote it by example.’ ’  
 Ibis letter was written in consetpience o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1829051801:0313/pct:51.4309415180423,88.90015939718882,14.765657403566985,5.042747427908998/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1829051801:0313/pct:51.420277835372175,88.88727904955086,14.7677793904209,5.045638945233265/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -490,7 +490,7 @@ shop of the world, will become the mis­
 tress of the world. The clear vision of  
 the 1st Napoleon, was scarcely ever bet
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777821:1870100401:0152/pct:291.98250728862973,172.62154967073,44.02332361516035,18.327028163093736/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777821:1870100401:0152/pct:73.0355515041021,43.1553874176825,11.011850501367366,4.581757040773434/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -542,7 +542,7 @@ otic efforts, and particularly for your own indi
 viual napplness and prospeity  
 IIIOML AS JEEE ERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn83045160:00280779647:1883042201:0374/pct:150.6637168141593,234.77881891479626,35.28761061946903,38.83198954020484/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn83045160:00280779647:1883042201:0374/pct:37.68156038179555,58.694704728699065,8.825563701756813,9.70799738505121/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -562,7 +562,7 @@ of the advantage of placing the consumer by the
 side of the producer, nor more disposed to encourage  
 it by example.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chrysler_ver01:data:sn83030214:00175039995:1884010501:0042/pct:202.2150931866789,138.68539325842696,44.51573479987779,8.910112359550562/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chrysler_ver01:data:sn83030214:00175039995:1884010501:0042/pct:67.4050310622263,46.22846441947566,14.838578266625928,2.9700374531835205/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -599,7 +599,7 @@ of the advantage of placing the consumer
 by tho side of the producer, nor more dis­  
 posed to encourage it by example.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685300:1884011701:0224/pct:14.838300570703868,78.4804039432556,10.77996195307546,2.5967780716518396/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685300:1884011701:0224/pct:14.835948644793152,78.47097006851786,10.78221588207323,2.5994710902752733/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -630,7 +630,7 @@ Tonsumer by the side of the producer,
 nor disponed to encourage it by exam­  
 ple.&quot; Pittsburgh Post.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_garwood_ver02:data:sn84029385:00237283442:1884013101:0155/pct:6.650246305418719,62.70863672006273,16.302339901477833,4.480788618796908/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_garwood_ver02:data:sn84029385:00237283442:1884013101:0155/pct:4.989989219159094,47.03707852582055,12.243955028492222,3.360591464097681/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -650,7 +650,7 @@ myself of the advantage of placing the
 consumer by the side of the producer,  
 nor dispored to encourage it by exam
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588290:1884020201:0451/pct:11.428571428571429,64.00060477774417,17.709923664122137,3.9764136679770186/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588290:1884020201:0451/pct:8.86297047554654,49.59965629027848,13.73675907144467,3.0816701167831893/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -728,7 +728,7 @@ consumer by the side of the producer,
 nor disposed to encourage it by exam­  
 ple.&quot; Pittsburgh Post.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_deadline_ver01:data:sn92053943:00295893681:1884040201:0285/pct:38.937351308485326,30.942372881355933,15.800951625693894,4.257627118644068/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_deadline_ver01:data:sn92053943:00295893681:1884040201:0285/pct:29.20880428316478,23.2135593220339,11.858021019234583,3.1864406779661016/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -773,7 +773,7 @@ nas left in his poet Mine are orad sicrere!y for
 the success of yonr n r.triotie efforts, and varticularly  
 for vour cwu inoiviJt al happiaosa ad prosperity
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_ashbel_ver01:data:sn82015679:00202191484:1888100701:0360/pct:67.1209117938553,35.444548631830195,18.334985133795836,14.636433381638394/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_ashbel_ver01:data:sn82015679:00202191484:1888100701:0360/pct:50.35935563816605,26.587673685107834,13.754646840148698,10.97945614184639/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -57,7 +57,7 @@ Given usder my hand this 15th
 January, 1803.  
 TH: JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803011901:0003/pct:74.2924067928948,20.553515215110178,16.142885028303727,18.99265477439664/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803011901:0003/pct:74.29891339709805,20.553515215110178,16.13637842410046,19.001399090591114/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -123,7 +123,7 @@ any brick or Hone houfe.
 Given under my hand this 15th  
 January, L6os
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803021101:0003/pct:2.422500513241634,45.38262174328195,18.517758160541984,37.33460646569363/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803021101:0003/pct:2.422500513241634,45.3917155458555,18.53144460411962,37.33460646569363/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -164,7 +164,7 @@ gulations aforefaid (hall be Conlidcrcd as
 more than 520 fquare  
 or higher than twelve Let from th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803022101:0001/pct:59.48446794448116,64.05237767057201,19.079092311081737,19.558924879393523/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803022101:0001/pct:59.49915546743042,64.05697220307833,19.086436072556364,19.558924879393523/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -219,7 +219,7 @@ ed until the firft day of January. 1.804,
 and that all houfes wh&#x27;ch (hall be i  
 ed in the Paid City of Wafiiii
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803030201:0001/pct:2.0865834633385334,12.736044107512061,17.706708268330733,29.441764300482426/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803030201:0001/pct:2.0865834633385334,12.740638640018378,17.726209048361934,29.455547898001377/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -247,7 +247,7 @@ Givkn under my hand, 28tk
 December, 1802.  
 TH: J Eh PERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804013001:0004/pct:74.7265625,75.4370063446847,16.640625,9.439337045189694/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804013001:0004/pct:74.73958333333333,75.44563856877724,16.647135416666668,9.439337045189694/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -268,7 +268,7 @@ of the United -i-atc on the 17th day
 of Ocfto\»er, 1791, for regulating the mate.  
 rtaL 6:sJ manner of and improve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805021801:0003/pct:80.11578712981519,42.72411396803336,18.347806724560233,4.8922863099374565/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805021801:0003/pct:80.12320938172641,42.72411396803336,18.37007348029392,4.901552003706278/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -311,7 +311,7 @@ from fuck fufpenfiona having !&gt;e&lt;n sxperienc­
 cd it is deemed proper to &quot;evrVe t c fame with  
 the exception Lev. loni d
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806032601:0004/pct:78.1466694683757,24.33657821042806,17.56671569657491,17.815708761168157/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806032601:0004/pct:78.1606780135883,24.34102324754412,17.5737199691812,17.829043872516337/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -351,7 +351,7 @@ j for which caui-e the tptratfan of the laid ar­
 J day of June in tbe yeur j Js6 to the tint day  
 of January left, aeul beneficial tf
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806040201:0004/pct:59.81814245507686,3.7632978723404253,18.965143970556397,15.558510638297872/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806040201:0004/pct:59.83257559356282,3.767730496453901,18.957927401313416,15.562943262411348/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -374,7 +374,7 @@ ins; the materials and manner ot build- !
 ings and improvements on the lots in ,  
 th&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808011801:0003/pct:4.483553320762623,34.972534658645046,17.557091975696625,5.8854302903478946/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808011801:0003/pct:4.490537048676583,34.972534658645046,17.550108247782667,5.889789868340745/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -397,7 +397,7 @@ DQentS on the Lots in the city of
 k Washington, it is provided &quot;that, the outer  
 d &quot; and party walls of all houses in the sai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809031701:0004/pct:57.66599597585513,3.3050293925538865,17.927565392354126,6.2050947093403/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809031701:0004/pct:57.66599597585513,3.3137382974091008,17.940979208584842,6.209449161767908/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -416,7 +416,7 @@ fluting the materials und manner of the building* and improvements
 on the lots in the city of Washington,&quot; und to such regulation*  
 therefor a* the corporation of VYaHhingion may adopt with the ap
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661204:1852110901:1089/pct:79.8625879273679,30.671414038657172,15.884181253067235,1.9710071210579858/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661204:1852110901:1089/pct:79.8625879273679,30.671414038657172,15.889634113092317,1.9752458460495084/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

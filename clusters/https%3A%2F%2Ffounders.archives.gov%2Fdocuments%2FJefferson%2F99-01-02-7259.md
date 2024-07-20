@@ -50,7 +50,7 @@ to a “prolongation beyond the second term
 of office” must stand forth to the world as  
 convicted of the most inexcusable ambition
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1807122401:0292/pct:39.19239904988124,30.460794297352344,17.43102503197515,11.965376782077392/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1807122401:0292/pct:39.185239313116554,30.456917398498156,17.43393009377664,11.968096389631327/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -149,7 +149,7 @@ All the proposed amendments to the
 Judicial department of the government,  
 in as far as I understand their force an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014489:00279557438:1861102601:1073/pct:25.682382133995038,26.73293225215799,11.113080467919177,5.558461940884122/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014489:00279557438:1861102601:1073/pct:25.686813186813186,26.739471619147267,11.113080467919177,5.56173162437876/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -214,7 +214,7 @@ longation beyond the second term of office.” j
 Thus spoke the Apostle of Democray when  
 appealed to by numerous bodies of his fel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624359:1874062601:0081/pct:19.249306265517745,10.772447183098592,12.64787498174383,12.984154929577464/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624359:1874062601:0081/pct:19.249306265517745,10.779782863849766,12.652743293900006,12.976819248826292/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -245,7 +245,7 @@ for life; and history shows how easily that
 degenerates into an inheritance.&quot; It was the  
 proclaimed idea of the great statesmen o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00271742071:1874070101:0008/pct:89.4170278204949,157.01420480920993,42.66741227457011,22.523442577290872/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00271742071:1874070101:0008/pct:29.805675940164967,52.33806826973664,14.222470758190036,7.507814192430291/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -290,7 +290,7 @@ how easily that degenerates into an
 inheritance.” It was the proclaimed  
 idea of the great statesmen ot Virginia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jennet_ver02:data:sn85026941:00393348458:1874070901:0518/pct:8.234434909622056,86.48966780015695,12.196457914916925,5.1922573894846975/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jennet_ver02:data:sn85026941:00393348458:1874070901:0518/pct:8.23293172690763,86.47835752582712,12.198795180722891,5.194847652674252/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -332,7 +332,7 @@ that decline which advancing years bring on, and
 feeling their physical I ought not to doubt their  
 secular effect.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558330:1875052801:0512/pct:5.751905751905752,357.03799098518994,44.005544005544,21.841596909207986/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558330:1875052801:0512/pct:1.438225610812684,89.25949774629748,11.003292323687402,5.460399227301997/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -367,7 +367,7 @@ dent set by an illustrious predecessor, should
 furnish the first example of prolongation  
 beyond the second term of office
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn84038328:00280763391:1875052801:0699/pct:332.3165704863974,104.13594100673292,43.11624072547403,40.01282462327669/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn84038328:00280763391:1875052801:0699/pct:83.13054237987214,26.03398525168323,10.785729016292018,10.003206155819173/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -401,7 +401,7 @@ my Illustrious predecessor, should furnish the first
 example of prolongation beyoud the second term of  
 olhco.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grand_ver02:data:sn84031492:no_reel:1875060701:0003/pct:43.484848484848484,44.281466798810705,12.6010101010101,6.164519326065411/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grand_ver02:data:sn84031492:no_reel:1875060701:0003/pct:43.484848484848484,44.29633300297324,12.619949494949495,6.154608523290387/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -432,7 +432,7 @@ prolongutton begond the second torm of office.&quot;
 In the sixty-seven years which have  
 elapsed since these sentiments were u
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206533468:1875062201:0846/pct:73.52941176470588,100.04413711931734,50.301659125188536,26.129174635868765/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206533468:1875062201:0846/pct:18.38235294117647,25.011034279829335,12.575414781297134,6.532293658967191/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -454,7 +454,7 @@ as to have borne in faithfully. If
   
 me teriaton to the erice o tee 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_kingler_ver01:data:sn83025167:00279528773:1875070201:0550/pct:118.84984025559105,198.1556546412647,40.08945686900959,7.367247669233888/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_kingler_ver01:data:sn83025167:00279528773:1875070201:0550/pct:39.61661341853035,66.05188488042157,13.363152289669861,2.4557492230779623/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -473,7 +473,7 @@ of prolongation beyond the sscond term
   
 of office.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_kingler_ver01:data:sn83025167:00279528773:1875070201:0550/pct:118.81150159744409,232.9448723145521,32.53674121405751,5.340494527766518/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_kingler_ver01:data:sn83025167:00279528773:1875070201:0550/pct:39.6038338658147,77.64829077151737,10.845580404685837,1.7801648425888394/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -505,7 +505,7 @@ an Illustrious predecessor.tihould furnihli
 the tirst example of prolongation teyond  
 the second, term of ofHce ( . j 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280775022:1875071501:0243/pct:23.977371627502176,82.39916186485071,18.342036553524803,11.262441068622316/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280775022:1875071501:0243/pct:18.00566078815589,61.79937139863803,13.760069671238842,8.459926663174437/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -537,7 +537,7 @@ trious predecessor, should furnish the first &lt; X­
 ample of prolongation beyond the second  
 term of office
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:0041562380A:1879041201:0075/pct:73.48668280871671,11.255539143279172,11.238902340597257,6.971935007385524/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:0041562380A:1879041201:0075/pct:73.50013451708367,11.260462826193994,11.245628194780737,6.976858690300345/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -596,7 +596,7 @@ admonition of nature, and to solicit a
 retreat from cares too great for the  
 wearied faculties of age
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_baggs_ver01:data:sn84022149:00393349943:1879042301:0062/pct:4.690831556503198,59.03281519861831,11.556503198294243,26.303972366148532/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_baggs_ver01:data:sn84022149:00393349943:1879042301:0062/pct:4.70682302771855,59.03281519861831,11.56183368869936,26.31692573402418/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -631,7 +631,7 @@ The trustees of DePanw College for
 oung I adies elected Rey. William R.  
 Halstead president of that institution
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_abraham_ver02:data:sn84023963:00200295936:1879072501:1039/pct:23.336141533277168,99.04559915164369,71.60909856781802,51.74973488865324/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_abraham_ver02:data:sn84023963:00200295936:1879072501:1039/pct:5.83526437750158,24.76139978791092,17.90604592374131,12.93743372216331/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -719,7 +719,7 @@ this admonition of nature, and to solicit a re­
 treat from cares too great for tbo wearied fac­  
 ulties of ago.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_north_ver02:data:sn84031492:no_reel:1880012101:0009/pct:71.8475073313783,24.347298117789922,13.009864036256998,9.370572758550901/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_north_ver02:data:sn84031492:no_reel:1880012101:0009/pct:71.85417222074113,24.357417526816434,13.009864036256998,9.370572758550901/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -761,7 +761,7 @@ second term of effice,&quot; the Grant
 boomers are prepared to write the great  
 American statesman down as a dem
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_audi_ver01:data:sn83021327:0020029712A:1880012901:0335/pct:31.367789834380353,58.68184804028903,13.263849229011994,5.298883293190278/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_audi_ver01:data:sn83021327:0020029712A:1880012901:0335/pct:23.539494357948865,44.01138603021677,9.955720611341237,3.9741624698927085/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -823,7 +823,7 @@ by an illustrious predecessor, should fur­
 nish the first example oi prolongation bo­  
 yond the second torm of oflice.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_eritrea_ver01:data:sn84026844:00202193456:1880020201:0116/pct:2.4630541871921183,57.773882559158636,12.31527093596059,2.506573181419807/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_eritrea_ver01:data:sn84026844:00202193456:1880020201:0116/pct:2.4753694581280787,57.778264680105174,12.30911330049261,2.506573181419807/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -864,7 +864,7 @@ it can be manufactured . the
 cheapest. &#x27;Absurd. as this may  
 seem, yet the same absurd
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn85033395:00212470399:1880021201:0656/pct:38.421052631578945,66.7354093627552,14.321329639889196,20.43720354712312/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn85033395:00212470399:1880021201:0656/pct:28.834695857004295,50.051557022066405,10.752390189829569,15.333058362548979/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -905,7 +905,7 @@ longation beyond the second term of office.
 In this position Mr. Jefferson was sustained  
 by the best clement of the country. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_north_ver02:data:sn84031492:no_reel:1880021501:0005/pct:29.566854990583803,65.93643937056464,13.182674199623353,10.598580684973774/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_north_ver02:data:sn84031492:no_reel:1880021501:0005/pct:29.58254865034526,65.94415303918544,13.172211759782382,10.602437519284171/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1042,7 +1042,7 @@ second term of office.”
 Judge Black shows that Madison,  
 Monroe, Jackson, and other presi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159191:1880030401:0462/pct:66.86496956281128,52.82392026578073,9.795240730492528,11.694352159468439/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159191:1880030401:0462/pct:66.86496956281128,52.82392026578073,9.804464121010884,11.701734957548911/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1120,7 +1120,7 @@ In reverence a moment, and then turned to viow
 tho felling of forests, to listen to tho tread of  
 Immigration, and to watch cities grow an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_north_ver02:data:sn84031492:no_reel:1880030801:0005/pct:30.57374901755305,83.06804615996816,13.099292638197538,11.699164345403899/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_north_ver02:data:sn84031492:no_reel:1880030801:0005/pct:30.57374901755305,83.07302029446876,13.118941577154834,11.704138479904497/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1158,7 +1158,7 @@ llrst to perceive and to obey this admonition of
 nature and to solicit a retreat from cures too  
 great for the wearied faculties of age.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_north_ver02:data:sn84031492:no_reel:1880031601:0012/pct:30.648535564853557,74.47147985640207,12.944560669456067,8.85520542481053/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_north_ver02:data:sn84031492:no_reel:1880031601:0012/pct:30.668148535564853,74.48643797367372,12.944560669456067,8.85520542481053/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1189,7 +1189,7 @@ prolongation beyond tho second term of
 At*another tlmo ho said: “Reason and  
 experience toll us that tho Chief Magistrat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_north_ver02:data:sn84031492:no_reel:1880031601:0009/pct:15.757575757575758,19.039074960127593,13.175230566534914,7.515948963317384/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_north_ver02:data:sn84031492:no_reel:1880031601:0009/pct:15.77733860342556,19.04904306220096,13.168642951251647,7.530901116427432/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1214,7 +1214,7 @@ the two ways named by Mr. Jefferson: It has
 been supplied by practice.  
 The business of the Pullman Palace Ca
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84038582:00212471549:1880032001:0634/pct:207.8866768759571,103.56846473029046,59.03522205206738,23.291839557399722/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84038582:00212471549:1880032001:0634/pct:51.98161975875934,25.892116182572614,14.76163124641011,5.822959889349931/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1275,7 +1275,7 @@ be not fixed by the Constitution or supplied by
 practice, his office, nominally for a term of  
 years, will in fact become for life. The reso
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044747:1880032701:0128/pct:221.47701582516956,266.4733006098468,49.434815373021856,7.437156031533542/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044747:1880032701:0128/pct:55.40056550424128,66.6183251524617,12.36569274269557,1.8592890078833855/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1308,7 +1308,7 @@ These are the words, tho precise words
 of him whom we honor as the author of  
 the declaration of our independence a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_ernie_ver01:data:sn86090474:00296020503:1880032701:0014/pct:44.42508710801394,5.8336670671472435,31.16724738675958,119.11627286076626/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_ernie_ver01:data:sn86090474:00296020503:1880032701:0014/pct:33.344953808610775,4.378587638499533,23.3920167334844,89.33386730743558/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1367,7 +1367,7 @@ prolongalif-u beyond the second
 tei m of tlrice.  
 Thomas Jefferson.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_adam_ver02:data:sn84026526:00295879671:1880040101:0074/pct:26.194371727748692,86.7557554908706,16.230366492146597,18.510187880391637/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_adam_ver02:data:sn84026526:00295879671:1880040101:0074/pct:19.659518742838436,65.07012437152686,12.178752660009822,13.892564170415454/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1386,7 +1386,7 @@ by the Constitution or supplied by practice,
 his office, nominally for years, will in fact become  
 one for life.&quot; It cordially approves th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295861915:1880040101:0002/pct:43.50194552529183,71.63652802893309,14.682230869001296,3.119349005424955/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295861915:1880040101:0002/pct:43.510592304366625,71.64255575647981,14.677907479463899,3.1223628691983123/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1434,7 +1434,7 @@ an illustrious predecessor, should furno
 ish the first example of a prolongatione  
 beyond the second term of office.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_angel_ver01:data:sn85034336:00211101039:1880040201:0637/pct:198.45319405383688,150.79910637566593,46.64523905182804,61.041416050867845/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_angel_ver01:data:sn85034336:00211101039:1880040201:0637/pct:66.1510646846123,50.26636879188864,15.548413017276015,20.347138683622614/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1479,7 +1479,7 @@ sumo place leaning toward tho oast wo can bo
 pretty sure that tbo prevailing winds In that  
 pla
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_north_ver02:data:sn84031492:no_reel:1880040701:0009/pct:16.493236212278877,61.28968253968254,12.929240374609781,10.833333333333334/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_north_ver02:data:sn84031492:no_reel:1880040701:0009/pct:16.499739854318417,61.304563492063494,12.935744016649323,10.823412698412698/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1531,7 +1531,7 @@ trious predecessor, should furnish the first ex­
 ample of prolongation beyond tho second term  
 of office.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_north_ver02:data:sn84031492:no_reel:1880042901:0003/pct:3.0660377358490565,55.749899477281865,12.735849056603774,5.50864495375955/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_north_ver02:data:sn84031492:no_reel:1880042901:0003/pct:3.0660377358490565,55.75492561318858,12.74895178197065,5.50864495375955/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1566,7 +1566,7 @@ the sound precedent set by an illustrious predeces­
 sor, should furnish the first example of prolongation  
 beyond the second term of office.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_avanti_ver01:data:sn83030214:0017503979A:1880043001:0258/pct:197.10213032581453,184.5908728803915,45.44172932330827,29.133947877546376/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_avanti_ver01:data:sn83030214:0017503979A:1880043001:0258/pct:65.70071010860485,61.53029096013049,15.147243107769423,9.711315959182125/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1598,7 +1598,7 @@ sor, should furnish tbe example of pro­
 longation beyond the second term of  
 office.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_eritrea_ver01:data:sn84026844:00202193456:1880050101:0425/pct:35.92137592137592,28.63644319971994,12.260442260442261,8.69945737791003/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_eritrea_ver01:data:sn84026844:00202193456:1880050101:0425/pct:35.93366093366093,28.63644319971994,12.260442260442261,8.712585331699632/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1627,7 +1627,7 @@ ous predecessor, should furnish the llrst exam­
 ple of prolongation beyond tbo second term of  
 office.’&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_north_ver02:data:sn84031492:no_reel:1880060201:0008/pct:44.743021132272375,25.05498900219956,12.94025567440647,5.498900219956009/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_north_ver02:data:sn84031492:no_reel:1880060201:0008/pct:44.743021132272375,25.05998800239952,12.94025567440647,5.498900219956009/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1742,7 +1742,7 @@ easily that degenerates into inheritance.&quot; j
 Mr. McMaster voices the idea that what ,  
 we want is &quot;a strong Government of the 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_joshuaTree_ver01:data:sn85066387:00175037391:1896061401:0245/pct:42.92106104186641,62.84204345273047,13.982102908277405,3.992953611274222/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_joshuaTree_ver01:data:sn85066387:00175037391:1896061401:0245/pct:42.93171407265367,62.84595811313368,13.987429423671035,3.992953611274222/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

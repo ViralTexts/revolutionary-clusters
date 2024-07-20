@@ -595,7 +595,7 @@ of their just and lawful actions, suits,
 accounts, damages, penalties, forfei­  
 tures and demands, not only to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216237:1817102901:0100/pct:5.845743498555234,64.81506209106689,18.07068237386086,7.611163039124048/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216237:1817102901:0100/pct:5.844444444444444,64.8064085447263,18.074074074074073,7.614597240765465/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1096,7 +1096,7 @@ be in writing, and signed by the parties to bheo
 charged therewith, or signed by sdme other  
 person thereunto lawfully autherized by wiil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1829081801:0129/pct:57.9963789981895,13.591746794871796,33.02655401327701,78.89623397435898/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1829081801:0129/pct:57.9963789981895,13.59508547008547,33.02655401327701,78.89957264957265/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1126,7 +1126,7 @@ fully authorized. v
 Sec.s. And be it further enacted. That no  
 contract for the sale of any good-, wares, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1829081801:0129/pct:74.98491249245625,17.928685897435898,16.083283041641522,8.523637820512821/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1829081801:0129/pct:74.98491249245625,17.935363247863247,16.08831221082277,8.51696047008547/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2104,7 +2104,7 @@ signed by the party to be charged there­
 by, or some person by him thereunto law­  
 fully authorized.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn83016802:00415668843:1840040201:0179/pct:18.71390666458561,19.723426696355325,13.21991571718433,9.539435134184929/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn83016802:00415668843:1840040201:0179/pct:18.71390666458561,19.723426696355325,13.21991571718433,9.551154341966484/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3868,7 +3868,7 @@ memorandum or note thereof shall be in writ­
 ing, and sigued by the party to be charged  
 therewith, or some other person by him au
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776026:1855040701:1007/pct:22.031473533619458,169.64873765093304,50.50071530758226,21.02085620197585/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776026:1855040701:1007/pct:5.5078683834048645,42.41218441273326,12.625178826895565,5.255214050493962/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3899,7 +3899,7 @@ and signed by the party to be charged therewith,
 or some other person thereunto by him lawfully  
 authorized
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855050701:0599/pct:2.6108189331329825,17.593058350100602,15.458302028549962,7.89738430583501/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855050701:0599/pct:2.6108189331329825,17.593058350100602,15.458302028549962,7.905767940979208/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3927,7 +3927,7 @@ three years.
 3. Upon any agreement which is not to be  
 performed within or.e year from the makin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hershey_ver01:data:sn85025182:00296028393:1855053101:0463/pct:6.372367934983377,17.585185185185185,12.68932397487994,8.459259259259259/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hershey_ver01:data:sn85025182:00296028393:1855053101:0463/pct:6.372367934983377,17.590123456790124,12.707794606575545,8.469135802469136/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3977,7 +3977,7 @@ performed within one year from the making
 thereof.  
 This act is to go into operation on the firs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776038:1855070701:0049/pct:74.53416149068323,256.6283006093433,47.89510006901311,30.06093432633717/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776038:1855070701:0049/pct:18.633540372670808,64.15707515233582,11.973775017253278,7.515233581584292/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4017,7 +4017,7 @@ to be performed within one year from the
 making thereof.  
 This act is to go into operation on th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn84026399:0023728172A:1855090601:0420/pct:65.53075995174909,103.1196016664973,19.104342581423403,12.285336856010568/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn84026399:0023728172A:1855090601:0420/pct:49.17785488007241,77.33970124987297,14.330969980389199,9.216543034244488/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4486,7 +4486,7 @@ npon which such actions shall be brought, or some memorandum
 or note thereof, shall be in writing, and be signed by the party  
 to be charged therewith, or by some person thereunto by hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_ariel_ver01:data:sn82015418:00212474216:1859092101:0500/pct:42.483836206896555,94.17102594213729,17.69935344827586,5.946407601152984/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_ariel_ver01:data:sn82015418:00212474216:1859092101:0500/pct:31.882495620536314,70.63093840076866,13.286619054035844,4.462474645030426/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5017,7 +5017,7 @@ performed within the space of one year
 from the making thereof,” uuless in wri­  
 ting. Nor can tks clergyman iu questio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ellsworth_ver01:data:sn84020071:00393347247:1869050601:0479/pct:42.36950458228184,69.05483028720627,12.206136273077433,5.493472584856397/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ellsworth_ver01:data:sn84020071:00393347247:1869050601:0479/pct:42.363877822045154,69.04761904761905,12.208942009738822,5.496379838485102/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5051,7 +5051,7 @@ uote thereof, shall be in writing, and
 be signed by the party to be charged  
 therewith, or some other person by hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_belgium_ver01:data:sn84026844:00202190844:1869090101:0170/pct:72.72042200452148,54.265975820379964,13.639788997739261,4.386873920552677/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_belgium_ver01:data:sn84026844:00202190844:1869090101:0170/pct:72.72042200452148,54.27892918825561,13.658628485305199,4.3782383419689115/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5075,7 +5075,7 @@ thereof shall be in writing, and be sign­
 ed by the party to bo charged there­  
 with, or some other person by him au
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jennet_ver02:data:sn85025691:00393348604:1869090701:0451/pct:8.612626656274356,51.933216168717045,11.96414653156664,5.330990041007616/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jennet_ver02:data:sn85025691:00393348604:1869090701:0451/pct:8.610948762906682,51.92561136330356,11.966686148451197,5.333870259188754/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5170,7 +5170,7 @@ pretense, color, feigned consideration ex­
 pressing of use or any other matter or  
 thing, to the contrary notwithstanding.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293435:1871021101:0146/pct:50.37197768133912,112.44544060398727,13.65468071915685,11.584286893948331/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293435:1871021101:0146/pct:37.792590296078124,84.33408045299045,10.246473414974423,8.694113483543706/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5394,7 +5394,7 @@ or some note or memorandum thereof,
 shall be in writing, and signed by the  
 party to be charged therewith, or hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brockovich_ver02:data:sn85032573:0023728186A:1875031101:0614/pct:70.6768038163387,49.43272067165872,12.9695885509839,5.1395507147719535/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brockovich_ver02:data:sn85032573:0023728186A:1875031101:0614/pct:53.01923363649918,37.07737690038575,9.736096615476368,3.8574994327206715/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6535,7 +6535,7 @@ property shall be taken to be with
 ssion, and such loan, reservation.  
 on void as to credito
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_heart_ver01:data:sn85038614:0017503111a:1894022501:0289/pct:39.98185392408892,160.46317546421866,36.21654317253894,27.6653452952222/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_heart_ver01:data:sn85038614:0017503111a:1894022501:0289/pct:13.327284641362972,53.48772515473955,12.07218105751298,9.221781765074066/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6622,7 +6622,7 @@ such character that either party there­
 to may perform his part thereof within  
 a year though the other party can no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_india_ver02:data:sn86071158:00206536378:1895042801:1109/pct:117.83659378596087,167.19751809720785,52.589182968929805,41.03412616339193/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_india_ver02:data:sn86071158:00206536378:1895042801:1109/pct:29.48459545061906,41.79937952430196,13.158652461848545,10.258531540847983/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6752,7 +6752,7 @@ signed by the party to be charged therewith,
 or by some person thereunto by  
 him lawfully authorized.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_cardinal_ver01:data:sn83025121:00294552418:1896080701:0118/pct:22.33877233877234,77.88714820463053,13.325563325563326,5.600998197698599/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_cardinal_ver01:data:sn83025121:00294552418:1896080701:0118/pct:22.33877233877234,77.88714820463053,13.325563325563326,5.611396090392347/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

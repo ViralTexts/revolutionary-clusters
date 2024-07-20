@@ -53,7 +53,7 @@ Irom J-arniville lour miles, and Raines&#x27; Tavern six miles.
 I Ins tract is considered to be not inferior in quality to any  
 tract of its size on the river. Persons disposed to pur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184091:1835101601:0184/pct:82.46681415929204,68.86823400765445,14.809181415929203,5.369054127938765/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184091:1835101601:0184/pct:82.45541269182911,68.8607041329543,14.811742476611826,5.372111669946789/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -79,7 +79,7 @@ from Farmvillc lour miles, and Raines’ Tavern six miles!
 I his tract is considered to be not inferior in quality to any  
 tract ol its size on the river. Persons disposed to pur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184091:1835102701:0191/pct:2.9480644716903153,61.3013698630137,14.905634384901502,5.424215642951834/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184091:1835102701:0191/pct:2.9476584022038566,61.29459847564343,14.908172635445363,5.427298501417578/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -106,7 +106,7 @@ I his tract is considered to be not inferior in quality to any
 tract of its size or, the river. Persons disposed to pur*  
 phase, can 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184091:1835110301:0199/pct:34.576459170941355,45.40999673309376,15.04228476362124,5.673527169770227/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184091:1835110301:0199/pct:34.57166620460216,45.40505226480836,15.044820256907864,5.676538908246226/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -132,7 +132,7 @@ from Farinville four miles, and llaincs’ Tavern six miles!
 This tract is considered to be not inferior in quality to any  
 tract of its size on the river. Persons disposed to pur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184091:1835110601:0203/pct:18.7015503875969,40.27701440035177,15.060908084163898,5.32043530834341/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184091:1835110601:0203/pct:18.698961937716263,40.272587381842165,15.063437139561707,5.323514325492782/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -158,7 +158,7 @@ from Farmville four miles, and Haines&#x27; Tavern six miles.
 This tract is considered to be not inferior in quality to any  
 tract of its size on the river. Persons disposed to pur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184091:1835111001:0207/pct:19.327731092436974,56.66920317425807,14.809202369472379,5.239699967387759/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184091:1835111001:0207/pct:19.325068870523417,56.66304347826087,14.811753902662993,5.242753623188406/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -184,7 +184,7 @@ from Farmvillc four miles, and Baines’ Tavern six miles.
 This tract is considered to be not inferior in quulity to any  
 tract of its size on the river. Persons disposed to pur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184091:1835111701:0215/pct:2.802441731409545,40.31991174848318,14.622641509433961,5.284059569773856/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184091:1835111701:0215/pct:2.802052989318907,40.31546437238032,14.62523697230314,5.2871534671667035/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -210,7 +210,7 @@ from 1 arniville four miles, and Baines&#x27; Tavern six miles.
 1 his tract is considered to be not inferior in quality to any  
 tract of its size on the river. Persons disposed to pur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184091:1835112401:0223/pct:18.60141804532184,22.875245794188334,15.139719171416655,5.276381909547739/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184091:1835112401:0223/pct:18.59883236030025,22.872747132714363,15.142248169771106,5.279446568359731/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -227,7 +227,7 @@ tract of its size on the river. Persons disposed to pur
 Cumberland, on the north side of Appomattox river, and  
 adjoining the lands of Messrs. James and Francis An
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184091:1835120101:0231/pct:34.33701657458563,23.15377932232841,14.972375690607734,1.3466550825369243/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184091:1835120101:0231/pct:34.332274547714405,23.151265066782496,14.974911384247111,1.350128497484345/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

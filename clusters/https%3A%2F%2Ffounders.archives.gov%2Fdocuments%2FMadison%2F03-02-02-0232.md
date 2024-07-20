@@ -169,7 +169,7 @@ my life will be in friendship with Ja.il* Ma­
 dison.  
 JOHN STARK
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810031601:0403/pct:22.87714127832013,3.8596491228070176,35.84453858905876,90.99818511796734/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810031601:0403/pct:22.87292817679558,3.859182192112267,35.844076120319215,90.9912089684652/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -237,7 +237,7 @@ of my life will be iu tiiendsuip wit i James
 . Mauiion,  
 .JOHN STARK
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810031601:0093/pct:2.284311874646026,8.352431881843646,19.48272607136115,32.098293862999746/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810031601:0093/pct:2.283880709701774,8.351368555060471,19.485340380017618,32.09845109272226/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -327,7 +327,7 @@ Mapison.
   
 | JOHN STARK
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1810032101:0193/pct:52.8921568627451,17.69494850416871,21.666666666666668,34.06571848945561/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1810032101:0193/pct:52.90305010893246,17.701487657348373,21.666666666666668,34.06244891286578/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -451,7 +451,7 @@ The few days or weeks of tbe remainder of my
 life will be in friendship with James Madison.  
 JOHN STARK
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810032301:0989/pct:51.23092072870507,39.74462582834977,21.22107336287543,29.206400517213513/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810032301:0989/pct:51.2183115924194,39.73820297349709,21.222003445729758,29.205720749838395/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -526,7 +526,7 @@ mainder of my life will be in Fiend­
 fhip with James Mapison.  
 JOHN STARK
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1810032701:0473/pct:25.57227971150831,9.076938838233788,35.74788334901223,84.67370146501383/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1810032701:0473/pct:25.577506010243546,9.083768739541714,35.753109647747465,84.67028651435987/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -763,7 +763,7 @@ watchful eye than our internal British
 faction.&quot; A remark in the same letter  
 would apply to the conduct of Grea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_montpelier_ver01:data:sn84022639:00200296333:1892021901:0376/pct:139.73451327433628,108.42030021443888,57.256637168141594,12.980700500357399/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_montpelier_ver01:data:sn84022639:00200296333:1892021901:0376/pct:34.956829754261676,27.10507505360972,14.323666150099625,3.2451751250893497/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -785,7 +785,7 @@ them treacherous and ungenerous as
 friends, and dishonorable as enemies.&quot;  
 This picture will apply to the future ef
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_montpelier_ver01:data:sn84022639:00200296333:1892021901:0376/pct:140.44247787610618,125.11794138670479,56.63716814159292,14.924946390278771/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_montpelier_ver01:data:sn84022639:00200296333:1892021901:0376/pct:35.13393845472659,31.279485346676196,14.168696037192827,3.731236597569693/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -317,7 +317,7 @@ fels the full value of all articles with areafonable
 freight, and also the demurrage incicent to such  
 detention
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795071401:0470/pct:52.71489865364699,64.91542288557214,19.662671992898357,12.26865671641791/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795071401:0470/pct:52.724762045667504,64.91873963515755,19.667603688908617,12.26865671641791/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -349,7 +349,7 @@ be restored to the owners or _ proprietors
 thereof. Sy  
 ) Art. XIX. And that more abund?nt car
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795071401:0470/pct:52.71489865364699,78.08955223880596,19.67746708092913,12.228855721393035/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795071401:0470/pct:52.724762045667504,78.09618573797678,19.667603688908617,12.222222222222221/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -379,7 +379,7 @@ the full value of all articles, with a reafonable mer­
 cantile profit thereon, together with the freight,  
 and alfo the demurrage incident to fuch detention
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_zarley_ver01:data:sn84038410:01000424529:1795071801:0053/pct:32.11845102505695,71.14028689521031,25.74031890660592,11.840505713591053/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_zarley_ver01:data:sn84038410:01000424529:1795071801:0053/pct:32.106261859582546,71.12299465240642,25.740037950664135,11.843704423918327/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -502,7 +502,7 @@ horses, and even provisions, in certain jun&amp;urcs,
 when there are hopes of reducing the enemy by  
 famine.&quot; Book 3,- ch. 7, Sc£t. 112.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795080501:0002/pct:28.047787130057017,25.210084033613445,21.53136030409992,4.823529411764706/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795080501:0002/pct:28.061363019277763,25.210084033613445,21.517784414879173,4.840336134453781/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -699,7 +699,7 @@ traband goods to be ‘¢ commoditics parti­
 ‘¢ when there are hopes of reducing the  
 ‘¢ enemy by famine.” lln the treaty be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797021101:0234/pct:25.65346689622789,35.890274314214466,15.792768821411801,4.638403990024938/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797021101:0234/pct:25.658684196796578,35.89359933499584,15.803203422549172,4.6350789692435574/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -737,7 +737,7 @@ band, proceeds in the fccond thus—&quot; and
 &quot; ther wiih tlie freight, aud alf&gt;&lt; the demur­  
 &quot; rage incident to the detention.&quot; Ou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797053001:0003/pct:6.880520688052068,6.4954236787717745,31.125058112505812,86.34484794803662/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797053001:0003/pct:6.892143189214319,6.502804842043106,31.130869363086937,86.34484794803662/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -770,7 +770,7 @@ with a reasonable mercantile profit thereon,
 together with the freight, and also the de­  
 murrage incident to such detention
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797091901:0002/pct:42.81242475319046,56.796262808921036,17.240549000722368,12.402049427365883/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797091901:0002/pct:42.83048398747893,56.796262808921036,17.234529255959547,12.420886075949367/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -801,7 +801,7 @@ after the reduction or surrender of such place,
 be liable to confifaation, but (hall b&#x27;e restored  
 to the owners or proprietors thereof
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797091901:0002/pct:42.788345774139174,69.83122362869199,16.80712737779918,10.57866184448463/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797091901:0002/pct:42.80038526366482,69.84252561784207,16.813147122562004,10.586196503918023/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1306,7 +1306,7 @@ a reasonable mercantile profit thereon, to- 1
 gether with the freight and also the de- 1  
 murrage incident to such detention.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798051101:0002/pct:7.380781212556913,25.080858571008527,17.661155044332613,11.790649808879742/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798051101:0002/pct:7.386772106398275,25.091884739782415,17.661155044332613,11.790649808879742/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1337,7 +1337,7 @@ tbtreon, together with the freight ind alio the demur­
 rage h cident to luch detection ’  
 J he admillions contained in rhi cafe are
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83045634:00332895059:1798052801:0023/pct:50.56135513098286,51.30220553730643,22.631475280677567,9.99530736743313/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83045634:00332895059:1798052801:0023/pct:50.55139818826309,51.29618768328446,22.631941709334384,9.997067448680351/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1355,7 +1355,7 @@ ores, umber, horses; and even provisions
 in certain jun€tures, where there are hopes  
 as redaciag the cncmny by famine?” Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798052901:0507/pct:6.23038292529818,68.68836291913215,16.55681104833647,2.366863905325444/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798052901:0507/pct:6.23038292529818,68.69165023011176,16.55681104833647,2.3767258382642997/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1393,7 +1393,7 @@ gether with the fr;igbt and allo the demur­
 rage incident to such detention,”” &quot;  
 - The admifions contpived in this case are
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798052901:0507/pct:41.44695543000628,59.25049309664694,16.8706842435656,14.280078895463511/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798052901:0507/pct:41.44695543000628,59.25049309664694,16.875915463486084,14.286653517422748/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1517,7 +1517,7 @@ t timber, horses and even provisions in
 certain junétures when there are  
 hopes of reducing an enemy by fam
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1801042801:0488/pct:24.127182044887782,49.33412252145605,16.973192019950126,3.9656703166617344/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1801042801:0488/pct:24.127182044887782,49.340699089145375,16.983582709891937,3.962382032817073/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1631,7 +1631,7 @@ the freight, antl also the demurrage, in­
 cident to such detention.**  
 by the 22nd article, &quot; It is expressl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805092301:0003/pct:1.896361631753032,44.1635585025556,19.206174200661522,16.521619008150296/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805092301:0003/pct:1.9110621095185594,44.1635585025556,19.206174200661522,16.53543307086614/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1673,7 +1673,7 @@ pulaled that neither of *he snd brnti str­
 ing parties will order or autlurite my ac 8  
 ol teprisai against tire other, hn C&#x27;-mplam
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805092801:0345/pct:77.15016728990356,50.07251153592617,18.874237354851406,18.86618325642716/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805092801:0345/pct:77.13498622589532,50.065910888478776,18.87708251344615,18.86809034185781/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1749,7 +1749,7 @@ instance, when they will be ordered away. But as
 France has declared the British islands to be in a  
 state of blockade, this article
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807022301:0382/pct:73.16952097294615,53.7658950114118,21.866468106229835,13.8408868601239/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807022301:0382/pct:73.151364764268,53.75713121434393,21.867245657568237,13.842705786471068/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1781,7 +1781,7 @@ was actually besieged, blockaded or in­
 vested by the oth r, be restrained from j  
 quitting such place with her cargo, nor 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1807120301:0224/pct:36.64772727272727,10.530085959885387,28.551136363636363,24.11652340019102/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1807120301:0224/pct:36.637318943481965,10.527572212938649,28.5524945564707,24.118723641282724/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1910,7 +1910,7 @@ place; be ilablc to confiscation ; but shall be restored to the
 owners or proprietors thereof.  
 Neither of the parties, when at war, shall, during th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808041101:1075/pct:52.30136281820519,37.138237671786584,21.95937258935459,7.61519805982215/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808041101:1075/pct:52.2879177377892,37.132234076947945,21.960154241645245,7.618008406078241/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1940,7 +1940,7 @@ liable to confiscation ; but shall be restored to the
 owners or proprietors thereof.  
 Neither of the parties, when at war* shall, du
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808041201:0442/pct:77.6975821003248,76.46986469864699,17.41248646697943,9.126691266912669/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808041201:0442/pct:77.68356485657586,76.46045996802361,17.41535871068615,9.129668347476736/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1973,7 +1973,7 @@ liable to confiscation,-but shall be restored
 to the owners or proprietors thereof. Nei­  
 ther of the parties w hen at War, shall du
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808090501:0461/pct:4.4421837911156326,12.848423194303153,18.345201763309596,11.027466937945066/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808090501:0461/pct:4.4414307509747415,12.847116264876412,18.346329886421426,11.028888210761876/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1997,7 +1997,7 @@ nor any pari of their cargo (not contraband)
 ade, or investment, they shall again attempt  
 to enter ; but they shall be permitted to go t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808120901:0250/pct:46.76042189854345,64.06905453372056,21.12004018081366,6.324620845434011/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808120901:0250/pct:46.748681898066785,64.05871914824972,21.12101431082099,6.327633489272463/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2029,7 +2029,7 @@ same was actually besieged, blockaded, or invested
 by die other, be restrained from quitting such place  
 with her cargo, nor if found therein after the r
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809081401:0623/pct:29.43508424182359,84.10339256865913,21.357779980178396,10.936995153473344/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809081401:0623/pct:29.427792915531334,84.08980778549507,21.35868218974486,10.939266677434986/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2280,7 +2280,7 @@ in their default, the government under whose authority
 they act, shall pay to the masters or owners of such vessels  
 the full value of all such articles.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855032301:0367/pct:21.074646074646076,9.13795279565821,15.685328185328185,7.030165341411082/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855032301:0367/pct:21.085371085371087,9.146367116832849,15.67996567996568,7.025958180823762/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2303,7 +2303,7 @@ freight, and also the demurrage incident to such deten­
 tion.&quot; This was the way in which the disputed cases of  
 contraband, growing out of the different principles of la
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855032301:0367/pct:21.090733590733592,25.205099078631832,15.733590733590734,5.0359712230215825/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855032301:0367/pct:21.096096096096097,25.21351339980647,15.73895323895324,5.0359712230215825/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2363,7 +2363,7 @@ even provisions, in certain junctures, when
 we have hopes of reducing the enemy by  
 famine.&quot; Most civilized nations, however
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202191046:1859053001:0505/pct:54.54685573366215,232.0477306626891,36.91430332922318,5.486895376092052/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202191046:1859053001:0505/pct:18.18228524455405,77.3492435542297,12.304767776407727,1.8289651253640173/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2389,7 +2389,7 @@ horses, and even provisions, in certain junc­
 tures, when we have hopes of reducing the  
 enemy by famine. Most civilized nations
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027253:00279528517:1859061001:0296/pct:62.11818441335998,54.48230234866027,11.090493862403655,4.939905171463226/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027253:00279528517:1859061001:0296/pct:62.12770006660957,54.48597787334142,11.085736035778856,4.943580696144375/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2410,7 +2410,7 @@ provisions, in certain junctures, when we
 have hopes of reducing the enemy by  
 famine.&#x27; Most civil:/, i nations, however
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_irmookrastrut_ver01:data:sn84026900:00295862646:1859061501:0732/pct:4.291654291654291,69.24922865958176,13.261063261063262,4.239515483944692/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_irmookrastrut_ver01:data:sn84026900:00295862646:1859061501:0732/pct:4.296604296604297,69.25303774806689,13.256113256113256,4.247133660914943/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2478,7 +2478,7 @@ such place shall such vessel or her cargo be
 iable to confiscation, but they shall be restored  
 to the owners thereof
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_continental_ver02:data:sn82014760:00237288804:1861101201:0963/pct:73.7918215613383,276.1952692501258,56.59851301115241,43.75104848179836/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_continental_ver02:data:sn82014760:00237288804:1861101201:0963/pct:18.460823064403627,69.04881731253145,14.159497791211345,10.93776212044959/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2512,7 +2512,7 @@ the reduction ami surrender of such place shall such
 vessel or her cargo be liable to confiscation, but they  
 shall be restored to the owners thereof
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172182:1861102901:0653/pct:20.627892936204468,28.331332533013207,15.91869591467096,8.97358943577431/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172182:1861102901:0653/pct:15.9916818299974,21.960769111490155,12.347283597608525,6.958443169483641/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2542,7 +2542,7 @@ parties that may have entered into such port orplace
 before the same was actually besieged, blockaded, or  
 invested by the other, be restrained liom quittin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172182:1861103001:0660/pct:22.501003613006823,33.83211132724824,15.917302288237655,7.13751309292234/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172182:1861103001:0660/pct:17.44360902255639,26.22342481638964,12.341197822141561,5.535369153459606/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2564,7 +2564,7 @@ that every vessel so circumstanced
   
 but she shall be permitted
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn82014140:00279529467:1861103101:0043/pct:158.07752632758235,196.5635420526121,30.170289043244455,15.700259355316785/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn82014140:00279529467:1861103101:0043/pct:52.69250877586078,65.52118068420403,10.056763014414818,5.233419785105594/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2587,7 +2587,7 @@ place, but she shall not be detained, nor any pail of
 her cargo, if not contraband, be confiscated, unless,  
 after notice of such blockade or investment, she shal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172182:1861103101:0664/pct:24.879518072289155,34.395473496128645,15.943775100401606,3.930911256700417/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172182:1861103101:0664/pct:19.287233490688386,26.660768550217334,12.351506977226746,3.0541985613724663/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2621,7 +2621,7 @@ the reduction ami sm render of such place shall such
 vessel or her cargo be liab&#x27;ie to confiscation, but  
 shall be restored to the owners thereof
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172182:1861110101:0668/pct:23.60549717057397,33.84592415646462,16.10751818916734,8.853389071364587/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172182:1861110101:0668/pct:18.304270648428528,26.238043813637766,12.47781142320142,6.869021906818883/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2668,7 +2668,7 @@ and surrender of such place, shall such vessel or
 her cargo be liable to confiscation, but they shall  
 be restored to the owners thereof
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn86059058:00296022007:1862103101:0358/pct:124.23230974632844,177.79501098617035,48.264352469959945,33.60475636551635/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn86059058:00296022007:1862103101:0358/pct:31.05807743658211,44.44875274654259,12.066088117489986,8.401189091379088/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2704,7 +2704,7 @@ redaction aad surrender of sach place, shall sach
 ve?*el or her cargo be liable to confiscation, but they  
 shal. be restored to the owners tbereo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn84026845:00202190704:1862110301:0423/pct:16.71587553940495,15.901639344262295,13.581648875766524,8.579234972677595/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn84026845:00202190704:1862110301:0423/pct:16.727231433113786,15.915300546448087,13.604360663184192,8.579234972677595/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2742,7 +2742,7 @@ ter the reduction and surrender of such place, shall
 such vessel or her cargo be liable to confiscation,  
 but they shall be restored to the owners thereof
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_coyote_ver02:data:sn88071076:00296025161:1862112901:0294/pct:210.49528301886792,220.46705904689577,58.25471698113208,50.57907727359028/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_coyote_ver02:data:sn88071076:00296025161:1862112901:0294/pct:52.65486725663717,55.11676476172394,14.572271386430678,12.64476931839757/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2778,7 +2778,7 @@ or place, but she .-hall not be detained, n«»r any pnrt
 of her cargo, not eouirahand.) be coufn«-*tcd,  
 unless, after noti«%c of such blockade or investment
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291049:1863021401:0493/pct:44.524918089325745,47.570977917981075,12.622866011381273,4.769716088328075/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291049:1863021401:0493/pct:44.524918089325745,47.570977917981075,12.644421451974479,4.769716088328075/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2832,7 +2832,7 @@ principles, to wit:
 I. That free ships make free goods, that is  
 to say, that the effects or goods belonging t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deltaair_ver01:data:sn86053570:0023728897A:1865072701:0086/pct:169.65317919075144,53.580516175936026,99.32562620423892,327.0083605961469/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deltaair_ver01:data:sn86053570:0023728897A:1865072701:0086/pct:42.423512406649,13.395129043984007,24.837388581064804,81.75209014903672/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2864,7 +2864,7 @@ ny vessel of either of the parties that may have
 entered into such port or place before the same  
 was actually besieged, blockaded, or invested b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn85042146:00296022822:1866112901:0434/pct:74.26425505824648,36.97499692080306,16.600245248313918,9.163690109619411/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn85042146:00296022822:1866112901:0434/pct:55.719104569150566,27.737406084493163,12.45016865992027,6.872767582214559/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2902,7 +2902,7 @@ and surrender of such place shall such vessel or
 her cargo be liable to confiscation, but they shall  
 be restored to the owners thereof
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053571:00237288579:1867111301:0473/pct:221.81274900398407,240.4090134444234,50.0996015936255,42.03749289907215/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053571:00237288579:1867111301:0473/pct:55.46699875466999,60.10225336110585,12.5280199252802,10.509373224768037/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2947,7 +2947,7 @@ such vessel or her cargo be liable to
 confiscation, but they shall be restored  
 to the owners therof.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn82014296:00296022160:1869062401:0129/pct:160.24705221785513,244.17890064868556,42.84110050533408,55.58210993513144/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn82014296:00296022160:1869062401:0129/pct:40.067387336796294,61.04472516217139,10.711778744910852,13.89552748378286/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3087,7 +3087,7 @@ to enter a harbor under blockade.
 In the case of the Lafayette the own­  
 ers might have given her warning, fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_hessel_ver01:data:sn82015104:00280768807:1898051501:0531/pct:31.43520415130411,32.395905793500944,12.385634302881332,18.682301500546558/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_hessel_ver01:data:sn82015104:00280768807:1898051501:0531/pct:31.439756019846147,32.395905793500944,12.39018617142337,18.685613965351617/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3133,7 +3133,7 @@ demurrage incident to such detention.&quot;
 lowers of Jerperson as a surrender to  
 Great Britain of the principle of neutra
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_rumi_ver01:data:sn83030272:00206539045:1899122701:0792/pct:77.94226498889711,168.56327878696894,50.55514433752776,65.69584146524546/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_rumi_ver01:data:sn83030272:00206539045:1899122701:0792/pct:19.496389557489355,42.140819696742234,12.645806332160712,16.423960366311366/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

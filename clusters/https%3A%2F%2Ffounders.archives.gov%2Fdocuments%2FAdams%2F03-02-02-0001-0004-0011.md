@@ -650,7 +650,7 @@ ones, will ye love simplicity V aud tbe
 scorners delight in their scorning, and fools  
 hate knowledge? &quot; It comes making wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn85033438:00200293575:1874040801:0546/pct:14.985727878211227,40.47151277013752,21.574690770694577,3.5690897184020955/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn85033438:00200293575:1874040801:0546/pct:11.256544502617801,30.35363457760314,16.18277010947168,2.685003274394237/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -781,7 +781,7 @@ light in their scorning, and fools hate
 knowledge? Turn you at my reproof;  
 behold, I will pour out my spirit unt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271769465:1882060801:0605/pct:31.82301355301621,40.63704605396632,11.985118256710072,8.297829174274701/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271769465:1882060801:0605/pct:31.82744264328107,40.6404274024481,11.98954734697493,8.30459187123825/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -872,7 +872,7 @@ therefore get wisdom” (iv, 7).
 course, in the openings of the gates. In the  
 city she uttereth her words, saying.” -Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_debaptiste_ver01:data:sn83016683:00211664241:1893042101:0172/pct:52.252252252252255,18.198445358939185,14.431412544620091,2.652034750800183/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_debaptiste_ver01:data:sn83016683:00211664241:1893042101:0172/pct:52.252252252252255,18.198445358939185,14.431412544620091,2.663465935070873/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -892,7 +892,7 @@ their downward road.
 love simplicity, and the scomers delight in  
 their scorning, and fools hate knowledge?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_debaptiste_ver01:data:sn83016683:00211664241:1893042101:0172/pct:52.252252252252255,25.52583447645176,14.431412544620091,2.629172382258802/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_debaptiste_ver01:data:sn83016683:00211664241:1893042101:0172/pct:52.252252252252255,25.52583447645176,14.431412544620091,2.6444139612863893/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -949,7 +949,7 @@ therefore get wisdom&quot; (iv, 7).
 course, in the openings of the gates. In the  
 city she uttereth her words, saying.&quot; Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_rolls_ver01:data:sn85025431:0021247986A:1893042601:0136/pct:37.74281586129395,17.40560154212496,13.870605233584845,2.698718675586801/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_rolls_ver01:data:sn85025431:0021247986A:1893042601:0136/pct:37.74281586129395,17.413160978191026,13.870605233584845,2.6911592395207315/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -968,7 +968,7 @@ their downward road.
 love simplicity, and the scorners delight in  
 their scorning, and fools hate knowledge?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_rolls_ver01:data:sn85025431:0021247986A:1893042601:0136/pct:37.75886980253652,24.651321011452545,13.902713116069995,2.8234493706769475/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_rolls_ver01:data:sn85025431:0021247986A:1893042601:0136/pct:37.76422111628405,24.658880447518616,13.91876705731257,2.815889934610878/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1062,7 +1062,7 @@ wisdom&quot; (iv. 7.
 course, in the openings of the gates. In the  
 city she uttereth her words, saying.&quot; Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn86081895:00280776592:1893042701:0704/pct:190.0,64.08163265306122,58.10344827586207,10.612244897959183/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn86081895:00280776592:1893042701:0704/pct:47.52048296679603,16.020408163265305,14.53212591634325,2.6530612244897958/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1080,7 +1080,7 @@ as they hurry along their downward road.
 love simplicity, and the scorners delight in  
 their scorning, and fools hate knowledge?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn86081895:00280776592:1893042701:0704/pct:190.25862068965517,88.74635568513119,58.01724137931034,7.230320699708455/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn86081895:00280776592:1893042701:0704/pct:47.58516601983614,22.186588921282798,14.510564898663217,1.8075801749271136/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1099,7 +1099,7 @@ therefore get wisdom” (iv, 7).
 course, in the openings of the gates. In the  
 city she uttereth her words, saying.” Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kensington_ver02:data:sn88065721:00279521717:1893042901:0446/pct:54.53653751839137,43.79950348740986,12.849435998038254,2.577136777396855/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kensington_ver02:data:sn88065721:00279521717:1893042901:0446/pct:54.544711459865944,43.79950348740986,12.861696910250123,2.5860030736493673/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1118,7 +1118,7 @@ their downward road.
 love simplicity, and the scorners delight in  
 their scorning, and fools hate knowledge!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kensington_ver02:data:sn88065721:00279521717:1893042901:0446/pct:54.52018963544221,50.632462466012534,12.898479646885729,2.529849864050124/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kensington_ver02:data:sn88065721:00279521717:1893042901:0446/pct:54.52836357691679,50.64132876226504,12.898479646885729,2.529849864050124/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1283,7 +1283,7 @@ love simplicity? and the scorners de?
 light in their scorning, and fools hate  
 knowledge? ? ? Because I have call
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hazel_ver01:data:sn86071779:00175031418:1899052701:0354/pct:34.309369951534734,23.20863309352518,15.953150242326332,4.9352517985611515/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hazel_ver01:data:sn86071779:00175031418:1899052701:0354/pct:34.32283252557889,23.213429256594726,15.96661281637049,4.940047961630696/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -114,7 +114,7 @@ the coast of Africa—exclusive of motives
 to be derived from it might defray all its  
 e\n nses
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1817041101:0449/pct:64.4950594540278,11.109695502611798,16.194942220733545,43.12651293158364/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1817041101:0449/pct:64.48425987943737,11.10828025477707,16.197812011609734,43.125265392781316/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -237,7 +237,7 @@ coast of Africa—exclusive of motives of
 humanity, die commercial advantages  
 to be derived from it, might dtlray all
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184133:1817041601:0269/pct:4.620716211012707,4.081366540618073,35.34847901424721,91.08097535532664/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184133:1817041601:0269/pct:4.619826756496631,4.080834419817471,35.34809111324992,91.07344632768361/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -549,7 +549,7 @@ of humanity, the commercial advan­
 tages to be derived, from it might de­  
 fray all its expenses
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216225:1817042101:0683/pct:44.321868916288125,19.395433316035287,17.434566298940084,57.550596782563574/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216225:1817042101:0683/pct:44.312283737024224,19.392917369308602,17.43800461361015,57.54745535521252/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1602,7 +1602,7 @@ lishment of their lands; but that in no event
 and turbulence, had kept the settlement in enn­  
 ‘ siant danger of dissolution.&quot; In a subsequen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183992:1825081901:0117/pct:33.74368686868687,71.46926180868739,14.551767676767676,7.168288630429623/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183992:1825081901:0117/pct:33.73836200094682,71.46078082354337,14.554731471253485,7.171393536648075/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1633,7 +1633,7 @@ inhabitants of Africa; and would thus carry hack to}
 the country of their origin the semis of civilization,!  
 which might render their’sojoiu rimenl here a blessing, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826111401:0273/pct:40.282181357006976,51.66825548141087,17.64426125554851,3.753574833174452/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826111401:0273/pct:40.275796481217306,51.66209936852139,17.646748031912082,3.757099169943207/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1667,7 +1667,7 @@ advantages to he derived fro.n it, might cl.-, v alt its !
   
 Acir York Eledions.—7 he genera! election for New 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826111401:0273/pct:40.139505389980975,55.850810295519544,18.040583386176284,10.772163965681601/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826111401:0273/pct:40.13314312886353,55.84415584415584,18.043007344005918,10.774852059255728/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1723,7 +1723,7 @@ would themselves undertake to make such
 fray all its expenses,’* &amp;c.  
 We do not pretend to explain the meaning o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826111401:0235/pct:17.94830630919891,73.55172829097917,15.556269064055225,21.42599060580513/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826111401:0235/pct:17.9454253611557,73.54287090558766,15.55912252541466,21.427424534360952/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1742,7 +1742,7 @@ sporting th&#x27; in among the inhabitants of
 ft &quot; Hid would linn carry back to the eouii­  
 in the teed&gt; ol t MUaali n, whi 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348811:1826112001:0126/pct:1.3093980992608236,14.62405478670281,14.530095036958818,2.4825224711085747/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348811:1826112001:0126/pct:1.3091216216216217,14.621968616262482,14.532305743243244,2.485734664764622/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1766,7 +1766,7 @@ tl/a ••real portion of its constituents. Indeed.
 aN&quot;, uv the Coast ok \i rica.  
 Kxeliisive of motives of humanity, the coni
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348811:1826112001:0126/pct:1.562829989440338,22.000285347410472,14.318901795142555,4.9365102011699244/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348811:1826112001:0126/pct:1.5625,21.997146932952923,14.321157094594595,4.939372325249644/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1831,7 +1831,7 @@ of Africa.
 mercial advantages to be derived from it, might  
 defray all its expenses,** Sec
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216365:1826121201:0404/pct:23.41431385423506,41.24867537972448,18.699934340118187,25.158954433062522/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216365:1826121201:0404/pct:23.41123949579832,41.24503311258278,18.701855742296917,25.159676232523914/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2536,7 +2536,7 @@ porting them among the inhabitants of Africa,and would
 thu* carry back to tbe country of their origin tbe eeed of  
 civilization, which might render their aoiourning here 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850091001:0995/pct:53.0933633295838,45.46601084626056,15.635545556805399,5.675368898978434/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850091001:0995/pct:53.09871980288178,45.47441880018498,15.65161497669934,5.671164922016227/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2556,7 +2556,7 @@ ca. Exclusive of motives of humanity, tbe commercial
 advantages to be derived from it might defray all it* ex­  
 pen net
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850091001:0995/pct:53.18977984894745,50.81346954218691,15.523059617547807,3.0394753436751167/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850091001:0995/pct:53.18977984894745,50.81767351914912,15.539129037441748,3.0394753436751167/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2597,7 +2597,7 @@ sive of motives of humanity the commercial advan­
 tages to be derived from it might defray all its ex­  
 penses.” We might proceed and quote, in ap
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153280:1850100201:0211/pct:57.37150292778139,11.660419410394084,12.674040338321406,15.094721912673489/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153280:1850100201:0211/pct:57.375840381695944,11.663796305676561,12.687052700065061,15.09134501739101/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2632,7 +2632,7 @@ of humanity, the commercial advantages to
 be derived from it might defray all its expenses.&quot;  
 Chief Justice Marshall, Mr. Madison, and Mr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661393:1851022001:0233/pct:69.76441682324035,2.4200116346713205,29.643011995953174,93.25189063408959/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661393:1851022001:0233/pct:69.76923447511683,2.423889858444832,29.643011995953174,93.2557688578631/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2712,7 +2712,7 @@ Delegates, and one in the Senate, the fol­
 lowing resolutions passed the Legislature  
 of Virginia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1852040101:0427/pct:154.86336709344545,206.73764036750765,46.72272119243264,22.59005395945749/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1852040101:0427/pct:38.70844478410394,51.67687372411782,11.678448605273214,5.646689997083698/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2998,7 +2998,7 @@ owner.
 ut ise botl to the slave and to the free  
 negro. It is highly important that there should b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293174:1854020301:0115/pct:75.39531941808981,258.26620175544065,51.739405439595195,62.42635565708789/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293174:1854020301:0115/pct:18.848829854522453,64.56655043886016,12.934851359898799,15.606588914271972/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3135,7 +3135,7 @@ I &quot;Whereas the General Assembly of Virginia has re
 5 , neatedly sought to obtain an asylum beyond the lim  
 its of the United States for such persons of color h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664369:1858020201:0479/pct:30.834429343855035,12.487002552226109,14.730381411661552,5.236789866717081/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664369:1858020201:0479/pct:30.834429343855035,12.487002552226109,14.749866043158459,5.24309165957715/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3156,7 +3156,7 @@ back to the country of their origin seeds of civill­
 zation which would render their sojourn here a  
 blessing in the end, to that countr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202191022:1858020601:0128/pct:17.190645810748027,74.49144333225702,37.54065355428217,7.469594230976213/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202191022:1858020601:0128/pct:5.730215270249341,24.83048111075234,12.513551184760725,2.489864743658738/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3210,7 +3210,7 @@ bly of Virginia again passed resolutions on the
 subject, and instructed the executive “to corres­  
 pond with the President,, for the purpose of ob
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517016536:1859033101:0176/pct:4.380616174582799,57.153284671532845,12.59627727856226,9.829683698296837/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517016536:1859033101:0176/pct:4.379913364351035,57.146332562948544,12.598267287020697,9.831529011069213/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

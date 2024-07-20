@@ -280,7 +280,7 @@ States Members of both Houfcs of Congress—
 a brilliant aflembly of Ladies and of the inoft re­  
 fpe(flable citizens. The Cincinnati dined a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790070701:0003/pct:64.52713178294573,45.05018697106869,27.131782945736433,8.620350324739224/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790070701:0003/pct:64.52713178294573,45.05018697106869,27.13953488372093,8.625270616020469/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -304,7 +304,7 @@ pafied.
 sident of the United States, informing  
 that he had given his assent to thre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790071501:0626/pct:9.05805829920501,23.45933926302414,20.741989881956155,8.767471410419313/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790071501:0626/pct:9.066088492732675,23.45933926302414,20.758050269011484,8.778060144006776/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -325,7 +325,7 @@ of the government of the United States.
 28. An ast further to provide for the payment of the invalid  
 pensioners of the United States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790081401:0002/pct:40.59748427672956,65.8753709198813,27.452830188679247,3.14540059347181/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790081401:0002/pct:40.59748427672956,65.89020771513353,27.48427672955975,3.1552917903066273/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -346,7 +346,7 @@ An ACT further to provide for
 the payment of the Invalid PENSI­  
 ONERS of the United States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790101401:0677/pct:25.47418967587035,44.10480349344978,20.984393757503,5.951803331715995/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790101401:0677/pct:25.48219287715086,44.11558574586231,20.984393757503,5.9571944579222595/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

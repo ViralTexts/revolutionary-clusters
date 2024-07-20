@@ -265,7 +265,7 @@ fcau left Detroit: and on his way between
 that place and Miami was murdered,&quot;  
 What Heckewelder has given as &#x27;&#x27;In
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_dunbar_ver01:data:sn83025287:00280768121:1878120101:0291/pct:31.288852051388314,22.728666326009197,11.949164249205692,23.587123147675012/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_dunbar_ver01:data:sn83025287:00280768121:1878120101:0291/pct:31.288852051388314,22.728666326009197,11.962978311921535,23.590529722364163/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -335,7 +335,7 @@ dian reports,&#x27;^concerning Logan&#x27;s &quot;reluc­
 tance in laying down the hatchet,&quot; and  
 his revengeful spirit, after the peace ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_alamo_ver01:data:sn85042331:0021247082A:1878120201:0069/pct:77.59365994236312,35.177539223782,16.012247838616716,30.84817742125752/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_alamo_ver01:data:sn85042331:0021247082A:1878120201:0069/pct:77.59966378482228,35.18540364122528,16.012247838616716,30.85210962997916/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -404,7 +404,7 @@ dian reports,&quot;.concerning Logan\ &quot;reluc­
 tance in laying down the hatche,&quot; and  
 his revengeful spirit, after the peace ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_goshen_ver01:data:sn83016758:00280767955:1878120401:0331/pct:77.28484088415112,21.95525184613689,14.202853111773004,28.413975531797643/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_goshen_ver01:data:sn83016758:00280767955:1878120401:0331/pct:77.28484088415112,21.958925750394943,14.213304070648482,28.413975531797643/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -444,7 +444,7 @@ ment, where I received every civility 1
 could expect from such of the family as  
 were at home.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_volvo_ver01:data:sn83025440:00295876475:1878120501:0563/pct:36.39404582706138,24.90494296577947,14.233149356079611,14.62690114068441/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_volvo_ver01:data:sn83025440:00295876475:1878120501:0563/pct:31.855212449387775,21.79171720672327,12.45426606175911,12.805406342055104/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -483,7 +483,7 @@ came of himself. In this condition he
 haa left Detroit: and on his way between  
 that place and Miami was murdered.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_volvo_ver01:data:sn83025440:00295876475:1878120501:0563/pct:36.37732062217762,39.62690114068441,14.132798126777052,13.509980988593156/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_volvo_ver01:data:sn83025440:00295876475:1878120501:0563/pct:31.8308210156593,34.67336683417086,12.366456900336601,11.824640443597296/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -547,7 +547,7 @@ came of himself. In this condition he
 haa left Detroit: and on his way between  
 that place and Miami was murdered.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_volvo_ver01:data:sn83025440:00295876475:1878120501:0565/pct:36.289108248285096,24.884300462798148,14.237911995984607,28.27815355405245/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_volvo_ver01:data:sn83025440:00295876475:1878120501:0565/pct:31.752305665349144,21.780362025404077,12.457912457912458,24.73609524798394/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -613,7 +613,7 @@ dian reports,&#x27;&#x27; concerning Logan&#x27;s &quot;reluc­
 tance in laying down the hatche*,&quot; and  
 his revensreful spirit, after the peace ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quiring_ver01:data:sn89064939:00280766690:1878121101:0349/pct:45.02189225204645,61.848760748609,16.60003807348182,31.29742033383915/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quiring_ver01:data:sn89064939:00280766690:1878121101:0349/pct:45.034583412653085,61.852975889394706,16.60003807348182,31.29742033383915/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -689,7 +689,7 @@ dian reports,” concerning Logan’s “reluc­
 tance in layiDg down the hatchet,” and  
 his revengeful spirit, after the peace ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878121201:0500/pct:64.39643024894316,6.888389158480294,25.818067950524505,85.08699254349627/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878121201:0500/pct:64.40164918323678,6.89627963861601,25.818067950524505,85.08699254349627/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -168,7 +168,7 @@ so slowly as to escape observation. There is one
 precept, however, in which I shall only be opposed  
 by the vain, the ignerant and the idle. lam no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn84023141:00517015234:1850082701:0137/pct:63.20686146242186,17.149708090075062,14.231719726704464,4.243119266055046/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn84023141:00517015234:1850082701:0137/pct:63.20686146242186,17.1566583263831,14.24141105780879,4.236169029747011/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -225,7 +225,7 @@ no small strength of mini to persevere in
 habits of industry without the plea u.o of  
 &#x27; perceiving those advances, which, like th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393349001:1851093001:0127/pct:68.72669152903569,77.88342290202563,13.088261410051501,2.9902163428413946/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393349001:1851093001:0127/pct:68.71448863636364,77.87269220170846,13.090376420454545,2.993248828878479/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -276,7 +276,7 @@ no small strength of mind to persevere in
 habits of industry without the pleasure of  
 perceiving those advances, which, like th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_flareon_ver02:data:sn82014073:00279529200:1851103001:0459/pct:243.76859504132233,245.51376597836776,39.421487603305785,13.655358898721731/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_flareon_ver02:data:sn82014073:00279529200:1851103001:0459/pct:81.25619834710744,81.83792199278925,13.140495867768594,4.5517862995739105/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -295,7 +295,7 @@ no small strength of mind to persevere in
 habits of industry without the pleasure  
 of perceiving those advances, which, lik
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182975:1851120401:0521/pct:79.24454062561479,47.435723030880155,14.51898485146567,3.0199972792817302/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182975:1851120401:0521/pct:79.22895357985838,47.42927094668118,14.521046420141621,3.022986942328618/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -417,7 +417,7 @@ It argues, indeed, no small strength of mind to
 persevere in habits of industry, without the pleas­  
 ure of perceiving these advantages, which, lik
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153280:1852090101:1010/pct:84.08884270684504,35.27903159622487,12.599038836212495,2.3697168649979483/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153280:1852090101:1010/pct:84.08884270684504,35.28245110108056,12.603368402822877,2.373136369853645/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -439,7 +439,7 @@ no small strength of mind to persevere
 in habits of industry without the pleas­  
 ure of perceiving those advances, which
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn86086768:00271769751:1853041401:0901/pct:73.50537634408602,76.91517296495034,13.275985663082437,4.863568900559424/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn86086768:00271769751:1853041401:0901/pct:69.84018886770181,73.06941431670282,12.607827113411423,4.631236442516269/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -459,7 +459,7 @@ persevere in habits of industry without the
 pleasure of perceiving those advances which,  
 like the hand of a clock, whilst they mak
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn84026897:00237288257:1858072101:0249/pct:56.77119954999297,57.13582677165354,13.387709182955984,3.001968503937008/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn84026897:00237288257:1858072101:0249/pct:56.7758871232363,57.13582677165354,13.387709182955984,3.0118110236220472/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -543,7 +543,7 @@ deed.no small strength of mind to persevere
 in habits of industry, without tho pleas­  
 ure of perceiving these advantages, which
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carlisle_ver01:data:sn86053370:00296027911:1863121601:0020/pct:57.936810049486105,48.37696335078534,12.219261515036163,3.2460732984293195/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carlisle_ver01:data:sn86053370:00296027911:1863121601:0020/pct:57.936810049486105,48.386935926202945,12.231950260119275,3.25105958613812/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -572,7 +572,7 @@ strength of mind to persevere in habits of in­
 dustry, without the pleasure of perceiving  
 those advantages, which, like the hands of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn97064666:00517016056:1870032401:0152/pct:6.167846309403438,36.54686398872445,15.166835187057634,2.7906976744186047/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn97064666:00517016056:1870032401:0152/pct:6.166599272139102,36.541713641488165,15.168823291548726,2.793827508455468/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -592,7 +592,7 @@ small strength of mind to persevere in
 habits of industry, without the pleasure  
 of perceiving those advantages, whic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jennet_ver02:data:sn85026941:00393348446:1870052601:0278/pct:68.65578865578865,85.07393177319828,11.965811965811966,4.086622424030737/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jennet_ver02:data:sn85026941:00393348446:1870052601:0278/pct:68.64512119328775,85.0640279394645,11.969131966024445,4.090027163368258/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -613,7 +613,7 @@ persevere in habits of industry with­
 out the pleasure of perceiving those  
 advantages, which, like the hand of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn83035174:00296027327:1871050301:0068/pct:7.1726190476190474,92.58974358974359,13.988095238095237,5.282051282051282/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn83035174:00296027327:1871050301:0068/pct:5.389310704183416,69.44871794871794,10.495757034390353,3.9615384615384617/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

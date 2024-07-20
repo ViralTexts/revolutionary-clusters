@@ -52,7 +52,7 @@ be the difference in principle between
 author! ing a foreign government to,  
 execute, and authorising it to mak
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809112901:0004/pct:6.1265618702136235,89.06454141625294,17.150342603788793,7.486281682780246/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809112901:0004/pct:6.1265618702136235,89.06889643759254,17.16377804648663,7.49063670411985/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -81,7 +81,7 @@ ti tions which might be made to you, not
 i than a surrender of an inalienable  
 &quot; function of the national sovereignly
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809112901:0004/pct:40.81015719467956,66.9845832244578,17.855703345425233,10.43898615103214/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809112901:0004/pct:40.81687491602848,66.993293267137,17.86913878812307,10.430276108352931/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -106,7 +106,7 @@ form, ©ur further discussions on this particu­
 lar occasion, into a general prohibition o, all  
 verbal communications whatever, and int
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809120501:0245/pct:59.04392764857881,80.0024021138602,17.404946474713917,6.029305789094403/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809120501:0245/pct:59.033031924709356,79.99279452383811,17.407885833794673,6.03258476442096/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -136,7 +136,7 @@ would touch one of those vital principles of so­
 vereignty, which no nation ought to have  
 been expected to impair. For where woul
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809120501:0246/pct:24.010079193664506,22.109337203676827,16.792656587473,8.74455732946299/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809120501:0246/pct:24.005758502789273,22.10666344177047,16.7956331353848,8.747530938847905/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -162,7 +162,7 @@ the other requiring nothing less than a sur­
 render «n in;.1,enable function of thenati  
 otmi sevore:gmv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809120501:0246/pct:41.52267818574514,52.237542331881954,16.864650827933765,6.579583938074504/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809120501:0246/pct:41.51520604642793,52.23122505744346,16.867614420250735,6.582819365501673/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -209,7 +209,7 @@ been expected to impair. For where would be the
 difference in principle between authorizing a foreign  
 government to execute, and authorizing it to mak
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809120601:0815/pct:29.315551082033217,59.13943707538014,21.16255661801711,4.901326431575542/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809120601:0815/pct:29.30817610062893,59.12987223030891,21.163522012578618,4.904577066149119/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -232,7 +232,7 @@ one altogether wrelevant t-i the subject, arid the other re­
 quiring m thing lc»s than a surrender of au unalienable  
 junction of ihc national sovereignty
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809120601:0815/pct:51.43432310015098,51.099967648010356,21.16255661801711,4.917502426399223/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809120601:0815/pct:51.42138364779874,51.09170305676856,21.163522012578618,4.920750444767912/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -251,7 +251,7 @@ discussion, on this particular odeasiony in­
 to a general prohibition of ail verbal com--  
 munications whatever, and intofa unpie- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809121201:0408/pct:33.27572663000785,51.35215748657785,19.073055773762764,3.4301053887452775/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809121201:0408/pct:33.27572663000785,51.35547159806456,19.078292746792354,3.4301053887452775/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -275,7 +275,7 @@ other requiring_nothing less than a surrender
 of an inalienabie function of the national sover­  
 eignty, s | i 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809121201:0409/pct:47.017268445839875,5.059257046110945,19.43485086342229,6.0850512897121805/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809121201:0409/pct:47.022501308215595,5.065896491053348,19.43485086342229,6.0850512897121805/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -425,7 +425,7 @@ ant to the fuhjcdt, and the other icquiring
 nothing lets than a luirender ot an inalien­  
 able function of the national fovreignty
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1809122501:0732/pct:23.542306006137657,47.93454935622318,17.09776413853573,6.893776824034335/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1809122501:0732/pct:23.53714661406969,47.92812122837602,17.099495945649792,6.896204908140002/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

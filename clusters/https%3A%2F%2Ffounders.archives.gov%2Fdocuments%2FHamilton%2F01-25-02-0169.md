@@ -125,7 +125,7 @@ friend Bayard, &quot;It is past all doubt that he (Burr)
 &quot;situation I once was in to change the Govern­  
 &quot;ment.&quot; He added, also in the profoundest co
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530571:1858011201:0069/pct:5.776826859776168,113.41434638980651,47.48189598420013,8.010854176498349/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530571:1858011201:0069/pct:1.9256089532587228,37.804782129935504,15.827298661400043,2.6702847254994495/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -302,7 +302,7 @@ Hamilton continued to pursue Burr, whom he
 denounced &quot;as true a Cataline as ever met in  
 midnight conclave. * * * Ho
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_otterhound_ver01:data:sn83045462:00280654772:1890072601:0168/pct:42.979990077724494,63.80258126195029,13.775425830990574,3.047323135755258/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_otterhound_ver01:data:sn83045462:00280654772:1890072601:0168/pct:42.992392922110135,63.80556883365201,13.775425830990574,3.0562858508604207/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -321,7 +321,7 @@ fish to a degree which excludes all
 social afflictions, and he is decidedly  
 profligate.&quot; It was in the course o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_goshen_ver01:data:sn83016758:00280767827:1895050201:0151/pct:49.073773155671105,30.039171796306658,13.860903477413064,2.5293788472299945/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_goshen_ver01:data:sn83016758:00280767827:1895050201:0151/pct:49.073773155671105,30.04290244357396,13.87715307117322,2.5256481999626934/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -340,7 +340,7 @@ fish to a degree which excludes all
 social afflictions, and he is decidedly  
 profligate.&quot; It was in the course o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_krypton_ver01:data:sn88076086:00199918382:1895051101:0017/pct:37.33226837060703,43.110015684517144,13.881789137380192,2.5879453282545373/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_krypton_ver01:data:sn88076086:00199918382:1895051101:0017/pct:37.33759318423855,43.113750093360224,13.887113951011715,2.5991485547837776/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -375,7 +375,7 @@ means of success, nor very mindful of
 truth, and that he is a contemptible  
 hypocrite.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:00332891996:1896092701:0196/pct:21.901692183722805,11.211064882491847,14.27880741337631,10.558866524232542/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:00332891996:1896092701:0196/pct:21.901692183722805,11.211064882491847,14.289551437013161,10.570111323512876/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -436,7 +436,7 @@ hypocrite.&quot;
 Hamilton continued to pursue Burr,  
 whom he denounced as hi ing &quot;as true 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_firebaugh_ver01:data:sn82015104:0028076873A:1896110101:0009/pct:57.34874429223744,84.3340668552866,12.100456621004566,10.038771874672534/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_firebaugh_ver01:data:sn82015104:0028076873A:1896110101:0009/pct:57.34874429223744,84.34105277865102,12.109969558599696,10.035278912990325/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

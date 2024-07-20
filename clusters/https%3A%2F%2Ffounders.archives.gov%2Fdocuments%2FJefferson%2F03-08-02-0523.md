@@ -85,7 +85,7 @@ more sound matter in this pamphlet,
 than is in the celebrated Farmers let­  
 ters
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348914:1824072201:0334/pct:26.045548654244307,16.717963066592052,16.853002070393376,16.57806379406827/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348914:1824072201:0334/pct:26.040157317325605,16.715624562875927,16.854688470296004,16.579241852007275/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -147,7 +147,7 @@ than is in the celebrated Farmers’ Let­
   
 tcrs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1826122101:0214/pct:39.66906161550185,69.32027813253868,17.72262138036142,13.679579963104867/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1826122101:0214/pct:39.66042664344798,69.31044267877412,17.72420548541576,13.681186152099887/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -343,7 +343,7 @@ feculum of beings, called overseers the
 most abject, degraded, unprincipled  
 race.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn82006863:00212472827:1856032901:0265/pct:119.81432360742706,77.44625648628613,19.03183023872679,3.8083765752409193/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn82006863:00212472827:1856032901:0265/pct:79.91243200212286,51.63083765752409,12.69735969218522,2.5389177168272794/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -445,7 +445,7 @@ bad broken him up $ but his misfor
   
 tunes were not to be tracea jeuner in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn83035174:00296027303:1868062401:0800/pct:80.66180935033394,77.07728831442891,14.31390406800243,4.787654972302822/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn83035174:00296027303:1868062401:0800/pct:60.53151100987092,57.80796623582168,10.736522399392559,3.600633078343445/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -506,7 +506,7 @@ ing a barrier over which none ventured
 to leap, and could still less venture to  
 settle among.&quot; Mr. Jefferson lived t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762337:1877032701:0061/pct:27.66196279666453,14.355231143552311,10.840282232200128,2.542579075425791/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762337:1877032701:0061/pct:27.669980756895445,14.355231143552311,10.83627325208467,2.542579075425791/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -542,7 +542,7 @@ ject?. Mr. Henry had a Uttl? befor?
 broken up hi? store--or. rather, it had  
 broken him up. But his misfortunes wer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ironmaiden_ver02:data:sn85038614:00175031054:1891111501:0603/pct:182.15635868743385,29.770831133171402,36.4736125812793,25.525398669342064/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ironmaiden_ver02:data:sn85038614:00175031054:1891111501:0603/pct:60.71878622914461,9.9236103777238,12.157870860426433,8.508466223114022/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -569,7 +569,7 @@ scientific suhjecte Mr. Honry had. a llttlo be­
 fore, broken up his store or rather.lt had  
 broken him up: but his misfortunes woro no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_milosz_ver01:data:sn83030272:0017504498A:1891112201:0675/pct:226.4797507788162,9.975520195838433,52.18068535825545,25.458996328029375/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_milosz_ver01:data:sn83030272:0017504498A:1891112201:0675/pct:56.630963972736126,2.4938800489596082,13.047711781888998,6.364749082007344/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

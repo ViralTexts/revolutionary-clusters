@@ -62,7 +62,7 @@ try my Gncere congratula &#x27; &#x27;&quot;is
 I*H : JEFFEIISON.  
 January IS, 1804
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804011801:0003/pct:4.884370015948964,42.86651791573697,17.842902711323763,21.118256989106182/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804011801:0003/pct:4.89766081871345,42.86651791573697,17.83625730994152,21.127007043794023/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -134,7 +134,7 @@ try my sincere congratulations.
 * , TH: JEFFERSON.  
 January It, 1804
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1804012701:0209/pct:26.379690949227374,29.46602802909349,20.198675496688743,36.72166045769026/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1804012701:0209/pct:26.372413793103448,29.460801702731466,20.2,36.719581411848175/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -265,7 +265,7 @@ gratulations, \
   
 January 16. 1804. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1804020201:0433/pct:54.7873337080757,35.09309718437784,19.673974142776842,23.864668483197093/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1804020201:0433/pct:54.79357941415277,35.09688162276718,19.686465554930987,23.868452921586435/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -386,7 +386,7 @@ lations. ‘ T
 , TH: JEFFERSON.  
 January 16, 1804
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804020701:0436/pct:41.77820267686425,22.834959187736413,17.096876991714467,34.90941668325702/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804020701:0436/pct:41.77820267686425,22.83827725794678,17.11281070745698,34.90941668325702/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -474,7 +474,7 @@ the pi .-sent session of Congress, for taking
 possession of Louisiana. Governor Claiborne,  
 being du&#x27;y inn sled with the putetrs heretofor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1821112001:0227/pct:79.91967871485944,24.853975444033853,15.068273092369479,2.157587316724282/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1821112001:0227/pct:79.90684227433344,24.851013110846246,15.071206767319842,2.1613031386571313/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -516,7 +516,7 @@ U. leans, l&lt;»&lt;od lire province alrea.lv delivered by the
 commissioners of hip n, that of Franc-, who de­  
 liverrd it over to them o-. lie S!0ib at |).,r 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183980:1824092801:0165/pct:33.03950375448906,61.214896950705075,14.985308521057787,7.990840062673255/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183980:1824092801:0165/pct:33.03411131059246,61.20751988430947,14.98830313911104,7.99389411103077/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

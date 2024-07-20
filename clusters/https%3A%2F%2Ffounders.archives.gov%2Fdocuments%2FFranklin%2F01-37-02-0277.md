@@ -214,7 +214,7 @@ are men. Devils never treat oue another
 in this cruel manner; they have more of  
 what men (vainly) call humanity.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_beachhaven_ver01:data:sn85025061:00513684939:1819111601:0248/pct:56.2374245472837,13.38199513381995,35.33702213279678,77.37226277372262/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_beachhaven_ver01:data:sn85025061:00513684939:1819111601:0248/pct:56.22328388232336,13.379960468298616,35.334422931858185,77.36429983275049/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -655,7 +655,7 @@ er treat one another in this manner; they
 have more sense, and more of what men  
 call humanity
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021206:00517171955:1826102501:0276/pct:7.7870480731029,22.01185142361613,19.36829558998808,19.17907212024859/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021206:00517171955:1826102501:0276/pct:6.035102124602279,17.059328678639435,15.010776968079647,14.867639920845312/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -921,7 +921,7 @@ earth, and these are the men ; devils Do­
 ver treat one another in this manner;  
 they have more sense, and more of wha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186944:1839100301:0368/pct:83.80417098062416,17.922348047145828,13.533500961396243,8.285186041137047/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186944:1839100301:0368/pct:83.79177758059745,17.920277296360485,13.536429064379375,8.288080107837473/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -978,7 +978,7 @@ ing:
   
 burning, or blown into the air and the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00416156888:1840031401:0219/pct:10.08801624915369,88.75065479308539,37.000677048070415,8.774227344159245/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00416156888:1840031401:0219/pct:7.567293042153377,66.56626506024097,27.76367022177078,6.587218438973284/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1007,7 +1007,7 @@ because it could-no longer be profitably em- uever treat one another in this man
   
 ployed, and meanwhile ine necessaries 01 me have more sense, and more of what men cal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00416156888:1840031401:0219/pct:4.485443466486121,98.96542692509168,42.48476641841571,6.534834992142483/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00416156888:1840031401:0219/pct:3.3688843744709667,74.22734415924567,31.87743355341121,4.897852278679937/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1034,7 +1034,7 @@ aro the. mon; devils never treat one another in
 thisManner ; they have more eons, and more  
 humanity.&#x27; Ben. Franklin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cousteau_ver02:data:sn84028888:00296027376:1840041701:0136/pct:8.383620689655173,96.47638098168949,19.073275862068964,9.078319741498692/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cousteau_ver02:data:sn84028888:00296027376:1840041701:0136/pct:6.295817162570073,72.36497922757347,14.316515739542906,6.801046314817664/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1357,7 +1357,7 @@ this cruel manner; they have more sense,
 and more of what men vainly call hu­  
 manity.&#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_green_ver02:data:sn84022687:00202199240:1843122801:0298/pct:48.447712418300654,31.35593220338983,19.505718954248366,25.189947399181765/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_green_ver02:data:sn84022687:00202199240:1843122801:0298/pct:36.35806253832005,23.52425482174167,14.653586756591048,18.892460549386325/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1408,7 +1408,7 @@ men. Devils never treat one another in
 this cruel manner; they have more sense,  
 and more of what men daily call humani
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472037:1844072601:0169/pct:193.69649805447472,309.58339062285165,58.36575875486381,70.50735597415097/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472037:1844072601:0169/pct:48.43354738275929,77.39584765571291,14.594279042615295,17.626838993537742/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1431,7 +1431,7 @@ When through the cloud of smoke hi: saw the
   
 fire of the guns, the decks covered with inagled
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_green_ver02:data:sn84022687:00202199240:1846102201:0881/pct:5.993563958165728,110.80805134189032,19.12711182622687,5.6446907817969665/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_green_ver02:data:sn84022687:00202199240:1846102201:0881/pct:4.506135586401126,83.10968494749125,14.343190504928586,4.229871645274212/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1450,7 +1450,7 @@ have made no mistake ; this isreall y earth, and &#x27; up, and seizing tho crea
 these are men. Devils nevertroatonc anoth- him let go his hold and defend himself. &#x27; Che­  
 er&#x27; in this manner, they, have more sense and ney sprang to his feet and began to look roun
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_green_ver02:data:sn84022687:00202199240:1846102201:0881/pct:5.83266291230893,120.79929988331389,38.79726468222044,3.748541423570595/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_green_ver02:data:sn84022687:00202199240:1846102201:0881/pct:4.385435526051096,90.60676779463243,29.108831221082276,2.8150525087514584/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1632,7 +1632,7 @@ these are men. Devils never treat one an­
 other in this cruel manner; they have more  
 sense, and more of what men call humanity.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn83035487:00211100473:1847021901:0333/pct:70.38950715421304,101.96319018404908,17.885532591414943,15.966257668711657/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn83035487:00211100473:1847021901:0333/pct:52.82306163021869,76.47239263803681,13.41948310139165,11.978527607361963/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1823,7 +1823,7 @@ co parent, is General Taylor a Whig?
 Yes, my son. Were Clay and Hardin  
 and Lincoln Whigs? They were. I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777602:1847052001:0506/pct:127.66111513396089,36.91034482758621,100.0724112961622,355.0344827586207/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777602:1847052001:0506/pct:31.915278783490223,9.227586206896552,25.01810282404055,88.75862068965517/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1945,7 +1945,7 @@ pensable to plants, which according to
 their respective nature admit one or an­  
 other into their circulation, and perishin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn87070038:00296028058:1847120301:0099/pct:178.22155237377544,40.91284025295573,99.32177844762623,342.97497937860874/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn87070038:00296028058:1847120301:0099/pct:44.55538809344386,10.228210063238933,24.830444611906557,85.74374484465218/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1997,7 +1997,7 @@ ed them on! Never now, or hereafter will they
 0  
 prodace any other consequences but decay, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn82015050:00280763366:1847121101:0109/pct:25.700062227753577,74.65060788546756,16.645924082140635,23.042836041358935/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn82015050:00280763366:1847121101:0109/pct:19.281045751633986,55.9936370866947,12.496109554933085,17.282127031019204/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2031,7 +2031,7 @@ Franklin Letter.
 just closed. The increase of Membership  
 during the rear is loM. The collections
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058217:00271744766:1848011901:0007/pct:107.37463126843657,95.93456819821986,17.227138643067846,15.227327399566995/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058217:00271744766:1848011901:0007/pct:80.56662239929172,71.9509261486649,12.926073483842409,11.426509502044745/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2098,7 +2098,7 @@ and you will be satisfied that you will
 receive proper attention and skillful  
 treatment
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn87058042:00279529340:1863103001:0841/pct:66.0032362459547,51.674698795180724,14.449838187702266,33.25301204819277/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn87058042:00279529340:1863103001:0841/pct:66.0032362459547,51.674698795180724,14.455231930960087,33.2570281124498/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2198,7 +2198,7 @@ these are men ; devils never treat one another ia
 this cruel manner they have more sense, and  
 more of what men vainly call humanity.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022810:1865020701:0437/pct:90.7442748091603,106.68822917869932,18.829516539440203,19.152131223287512/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022810:1865020701:0437/pct:68.07698425322093,80.01617188402449,14.124383648799109,14.369874090331523/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2292,7 +2292,7 @@ er in this cruel manner, they have
 more sense, and more of what men  
 vainly call humanity.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn91068137:00415667310:1865020801:0110/pct:14.01015228426396,250.790772640274,54.263959390862944,99.72801450589301/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn91068137:00415667310:1865020801:0110/pct:3.50253807106599,62.6976931600685,13.565989847715736,24.932003626473254/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

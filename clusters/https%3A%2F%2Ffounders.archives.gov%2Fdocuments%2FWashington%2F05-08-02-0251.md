@@ -124,7 +124,7 @@ could from any information.’”—p. 150.
 
 ---
 
-## [From _The American review : a Whig journal of politics, literature, art, and science_](https://archive.org/details/sim_american-whig-review_1845-05-01_1_5/page/n65/mode/1up?view=theater)
+## [From _The American Review: a Whig Journal Devoted to Politics and Literature (1848-1850)_](https://archive.org/details/sim_american-whig-review_1845-05-01_1_5/page/n65/mode/1up?view=theater)
 
 #### 1845-05-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -221,7 +221,7 @@ I we traveled, and to learn more accurately
 the disposition of tho people than I could  
 from any information.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_irmookrastrut_ver01:data:sn84026900:00295862634:1855010301:0611/pct:57.5961397865185,64.9290663147476,14.885217137008334,7.313317936874519/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_irmookrastrut_ver01:data:sn84026900:00295862634:1855010301:0611/pct:57.5961397865185,64.93639796180211,14.890091143929425,7.309652113347264/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -242,7 +242,7 @@ ple than I could have done from any ver­
 bal information.&quot; He made many simi­  
 lar journeys. and then were fixed the pre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027238:00279529443:1866100301:0178/pct:39.28156092518413,34.9139655862345,11.138389972864712,3.211284513805522/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027238:00279529443:1866100301:0178/pct:39.29017530258,34.91730025343471,11.138389972864712,3.2146191810057356/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -295,7 +295,7 @@ horses performed the whole tour, and although
 much reduced in flesh kept up their full spirits till  
 the last cay.&quot; The party retucned to Philadeiphi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_itchweed_ver01:data:sn83030313:00271743713:1870070201:0047/pct:9.785831960461286,222.12348528563186,49.86820428336079,29.394114252740913/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_itchweed_ver01:data:sn83030313:00271743713:1870070201:0047/pct:3.2619439868204285,74.04116176187729,16.622734761120263,9.79803808424697/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -335,7 +335,7 @@ do nut end here. Official maimers, cos-
   
 and exquisite than the tracery of the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_norgay_ver01:data:sn84028193:00296028988:1872020301:0124/pct:74.76676384839651,98.11138014527845,25.932944606413994,29.406779661016948/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_norgay_ver01:data:sn84028193:00296028988:1872020301:0124/pct:56.08689313310978,73.58353510895884,19.46347864120134,22.058111380145277/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -357,7 +357,7 @@ the disposition of the people, than he
 could have from any verbal information.”  
 “He hai’ looked around him, in fact” says 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_dyerbrook_ver01:data:sn82014248:00332895199:1873081801:1045/pct:6.235011990407674,65.1562060230791,12.709832134292565,4.911342527441598/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_dyerbrook_ver01:data:sn82014248:00332895199:1873081801:1045/pct:6.233862043526374,65.14703813141973,12.712098856510513,4.914169129027719/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -377,7 +377,7 @@ and to learn more accurately the disposition
 of the people than he could have  
 done from any verbal information. H
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kershawhogjam_ver03:data:sn92065401:0041562010A:1877101101:0162/pct:3.7508111615833872,89.77700284481968,14.510058403634003,3.9919243828576674/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kershawhogjam_ver03:data:sn92065401:0041562010A:1877101101:0162/pct:3.7508111615833872,89.78006179070692,14.510058403634003,3.9919243828576674/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

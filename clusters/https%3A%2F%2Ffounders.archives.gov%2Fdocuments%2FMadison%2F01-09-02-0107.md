@@ -533,7 +533,7 @@ vided, however, that prior to the 1st day of November,
 assent to the erection of said District into an indepen­  
 dent
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184698:1860030801:0236/pct:135.2014010507881,40.564590365142685,39.0251021599533,8.049503937813235/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184698:1860030801:0236/pct:45.06055742010798,13.52014726938024,13.006469186244468,2.682893570600668/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -226,7 +226,7 @@ row and dejectedness. The object of this early passion
 ir not I ositively known. I amition states that the  
 &quot;lowlasd beaury was a Miss Grimes of Westmore
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530479:1855052601:0182/pct:55.07039743361255,137.01181911613565,49.04651577258956,29.419321685508734/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530479:1855052601:0182/pct:18.356799144537515,45.67060637204522,16.348838590863185,9.806440561836245/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -259,7 +259,7 @@ some measure alleviate my sorrows by bury­
 ing that chaste and troublesome jiassion in the  
 grave of oblivion,&quot; Jfec
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn82014286:0020219168A:1855053101:0086/pct:96.92900513778608,102.52368804664724,14.058851004203643,10.796282798833818/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn82014286:0020219168A:1855053101:0086/pct:72.72514893119963,76.89504373177843,10.547833197056418,8.099489795918368/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -341,7 +341,7 @@ of Gen. Henry Lee, who figured in revolu
   
  e o e o a e e e e   
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_kingler_ver01:data:sn87058151:00279529212:1855060601:0822/pct:6.9784435513335765,69.62251201098147,69.14504932407746,54.39945092656143/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_kingler_ver01:data:sn87058151:00279529212:1855060601:0822/pct:2.3261478504445257,23.20750400366049,23.048349774692486,18.13315030885381/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -375,7 +375,7 @@ men, I might in some measure alleviate my
 sorrows by burying that chasteand trouble-­  
 some passion in the grave of oblivion,&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_kingler_ver01:data:sn87058151:00279529212:1855060601:0824/pct:39.05175533840029,69.90906585836319,38.798407528049225,29.04381372278865/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_kingler_ver01:data:sn87058151:00279529212:1855060601:0824/pct:13.017251779466763,23.303021952787727,12.93280250934974,9.681271240929549/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -403,7 +403,7 @@ l might in some mea-ure alleviate mv sor­
 ! rows by hurrying that c-haste and trouble- !  
 some passion in the grave of oblivion,” Ac. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215932:1855060601:0392/pct:72.25640007938082,48.15504764634234,13.34590196467553,6.985741921616393/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215932:1855060601:0392/pct:72.24923107451136,48.15159765009314,13.34788504150544,6.987629555332664/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -434,7 +434,7 @@ my former passion for your Lowland Beauty;
 whereas was I to live more retired from voun.r  
 Arrows L if m T TaSUr r1
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058249:00271744778:1855060701:0094/pct:2.53822629969419,110.7629601324672,17.01834862385321,11.667303528212967/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058249:00271744778:1855060701:0094/pct:1.9116072794005199,83.0722200993504,12.769536626395473,8.750477646159725/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -527,7 +527,7 @@ a
 The charms of Miss Carey, the sister of U Eep constantly on hand a large stock of  
 ide see een to ae ee a o in e i oe o a e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn83025182:00415668958:1855061101:0112/pct:13.266097750193948,249.41365831225568,88.13033359193173,42.53851460105771/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn83025182:00415668958:1855061101:0112/pct:4.422032583397983,83.13788610408523,29.376777863977242,14.179504867019238/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -554,7 +554,7 @@ meastife alleviate my sottows by buping that
 chaste and troublesome passion in the gtave of  
 oblivion,&quot; &amp;0
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_latvia_ver01:data:sn86092535:00202190509:1855061101:0538/pct:66.22251832111925,332.7649208282582,55.07439484787919,24.923873325213155/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_latvia_ver01:data:sn86092535:00202190509:1855061101:0538/pct:16.555629580279813,83.19123020706455,13.768598711969798,6.230968331303289/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -612,7 +612,7 @@ might in some measure alleviate my sorrows by
 burying that chaste and troublesome passion in  
 tire grave of oblivion,&quot; &amp;.c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82014835:00415661514:1855061201:0172/pct:72.66395058483376,38.723758054458536,13.010908135103167,7.7842444398254/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82014835:00415661514:1855061201:0172/pct:72.67271213913348,38.72722233769833,13.010908135103167,7.7842444398254/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -667,7 +667,7 @@ measure alleviate my sorrows by burying that
 chaste aod troublesome passion in the grave of ob­  
 livion,” &amp;i.c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024718:0041418375A:1855061301:0271/pct:69.44999334132375,46.361010157487655,12.425089892129444,5.852203895256733/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024718:0041418375A:1855061301:0271/pct:69.44074567243675,46.35669027208349,12.427873945849978,5.85476456702696/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -700,7 +700,7 @@ might in some measure alleviate my sorrows
 by burying that chaste and troublesome pas­  
 sion in the grave of oblivion,&quot; &amp;c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hershey_ver01:data:sn85025182:00296028393:1855061401:0471/pct:17.797069994574063,64.64468864468864,11.955145595948634,11.443223443223443/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hershey_ver01:data:sn85025182:00296028393:1855061401:0471/pct:17.803098812322904,64.65445665445665,11.961174413697474,11.448107448107448/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -738,7 +738,7 @@ sorrows by burying that chaste and troublesomo
 passion in the grave of oblivion,&quot; &amp;s.  
 Similar avowals he made to another of his
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199276:1855061401:0419/pct:22.317596566523605,105.16971279373368,16.201716738197426,10.326370757180158/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199276:1855061401:0419/pct:16.74418604651163,78.87728459530027,12.164579606440071,7.754569190600522/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -844,7 +844,7 @@ in some measure alleviate my sorrows by
 hurrying lliat chase and troublesome pus­  
 sion in the grave of obhv ion,” die
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024652:00393348689:1855061601:0280/pct:16.41255605381166,14.085267134376686,25.865470852017935,82.96006475984889/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024652:00393348689:1855061601:0280/pct:16.40961262553802,14.083367057871307,25.865315638450504,82.95224605422905/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -951,7 +951,7 @@ alleviate my sorrows by burying that
 chaste and trouble some passion in the  
 grave of oblivion,&quot; Ne
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774947:1855070601:0115/pct:255.51020408163265,247.90575916230367,56.0,70.26178010471205/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774947:1855070601:0115/pct:63.89058991630945,61.97643979057592,14.002857726066544,17.56544502617801/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -986,7 +986,7 @@ my sorrows by burying that chaste and
 troublesome passion in the grave of ob­  
 livion.&quot; &amp;c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777808:1855071101:0317/pct:69.78827361563518,157.45287501980042,46.82410423452769,44.85981308411215/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777808:1855071101:0317/pct:17.450621054774995,39.363218754950104,11.70840969252698,11.214953271028037/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1020,7 +1020,7 @@ leviate mv sorrows by burying that chaste
 and troublesome passion in the grave of ob­  
 livion,” &amp;c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624281:1855071201:0093/pct:19.412554048009543,47.52638522427441,14.581780229610855,11.752418645558487/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624281:1855071201:0093/pct:19.417523979921476,47.52638522427441,14.581780229610855,11.752418645558487/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1053,7 +1053,7 @@ whereas was I to live more retired from probably not during her widowhood, as
 women, I might in some measure allevi- during that time he bad. bcen.aliuo6t  
 ate my sorrows by burying that chaste continually on the frontier.- We hav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn83035173:00296027273:1855080101:0451/pct:37.88184438040346,54.45470426753182,28.544668587896254,11.055652607936112/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn83035173:00296027273:1855080101:0451/pct:28.41908055915838,40.841028200648864,21.415189508574723,8.29797853755927/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1123,7 +1123,7 @@ styled &quot;Dear Sally,” to whom he acknow­
 ledges that the company of the “ very agree­  
 able young lady, sister-in daw of Colone
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn85025203:00279557232:1855080401:0130/pct:18.945924764890282,14.617323252420745,14.47884012539185,11.062475129327497/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn85025203:00279557232:1855080401:0130/pct:18.95082288401254,14.617323252420745,14.488636363636363,11.075739487995756/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1184,7 +1184,7 @@ in some measure alleviate my sorrows,
 by burying that chaste and troublesome  
 passion in the grave of oblivion,&quot; &lt;fec
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kuwait_ver02:data:sn85059716:0020129302A:1855092601:0364/pct:56.48213034337772,71.75045768201662,13.665031534688158,11.815237290522461/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kuwait_ver02:data:sn85059716:0020129302A:1855092601:0364/pct:56.48213034337772,71.75045768201662,13.678170988086896,11.818757921419518/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1290,7 +1290,7 @@ troublesome passion in the grave of ob­
 livion.&quot; Thus wrote George Washington  
 before he was sixteen years of.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn82015672:00296021957:1859112901:0108/pct:174.77535301668806,243.42396253414856,49.35815147625161,38.9748926759464/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn82015672:00296021957:1859112901:0108/pct:43.71488200353187,60.85599063353714,12.345480815540215,9.7437231689866/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1409,7 +1409,7 @@ sure, alleviate my sorrows, by burying
 that chaste and troublesome passion in tbe  
 grave of oblivion,” etc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624347:1872011201:0014/pct:68.35131812593907,29.162756751120842,12.17046851523016,9.790428526743822/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624347:1872011201:0014/pct:68.36042435004326,29.162756751120842,12.175021627282247,9.800854968199353/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1438,7 +1438,7 @@ measure, alleviate my sorrows, by burying
 that chaste and troublesome passion in the  
 grave of oblivion,” etc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624530:1872021701:0328/pct:79.13057961359094,17.347316471314002,14.040639573617588,9.611351017890192/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624530:1872021701:0328/pct:61.33126801772729,13.44744055587429,10.877328858482853,7.452030343596609/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1467,7 +1467,7 @@ in some measure, alleviate my sorrows,
 by burying that: chaste and troublesome  
 . passion in tne grave ot oblivion,&quot; et
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn85038238:00296028812:1872031401:0347/pct:8.035714285714286,110.1429113443784,14.87563775510204,8.25850512204376/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn85038238:00296028812:1872031401:0347/pct:6.027746770849944,82.6103452636904,11.16249402009249,6.197040596939421/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1499,7 +1499,7 @@ Washington Irving says : &quot; It Is ditllcult
 to reconcile one&#x27;s self to the idea of the  
 coul and sedate Washington, the grea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn87076843:00280775745:1872031501:0425/pct:4.8172757475083055,110.74901445466492,14.83388704318937,10.302233902759527/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn87076843:00280775745:1872031501:0425/pct:3.621864097026084,83.06176084099869,11.131417178933377,7.739816031537451/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1529,7 +1529,7 @@ viate my sorrows, by burying that chaste
 and tioublesomc passion in the grave of  
 obl’vion,” etc.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85033123:00514151222:1872032801:0346/pct:64.42217768871076,47.36736936756919,14.468937875751504,9.19172744529923/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85033123:00514151222:1872032801:0346/pct:64.42217768871076,47.374030039631,14.477844578044978,9.188397109268324/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1579,7 +1579,7 @@ jmpaoy with her revives my form-i pa-.Mon
 lie wou&#x27;d when hi? feelings were almost mvi  
 owered hasten away, ride over to lielhaven
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_gabbana_ver01:data:sn85025007:0041566381A:1878061501:0492/pct:82.80554828578906,33.905841325196164,15.270871499607432,5.701830863121185/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_gabbana_ver01:data:sn85025007:0041566381A:1878061501:0492/pct:82.80554828578906,33.90874745713455,15.270871499607432,5.707643126997966/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1636,7 +1636,7 @@ alloviato my sorrows by burying that chaste
 and troublesome passion In tho gravo of  
 oblivion.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_dracula_ver01:data:sn84037890:00206533626:1888022201:0691/pct:50.72314049586777,74.26900584795321,14.307851239669422,7.243487506645401/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_dracula_ver01:data:sn84037890:00206533626:1888022201:0691/pct:38.064071650017226,55.70175438596491,10.730279021701689,5.445906432748538/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1704,7 +1704,7 @@ alleviate my sorrows by burying that chaste
 and troublesome passion in the grave of  
 Oblivion
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_ferrari_ver02:data:sn86088181:00200296953:1888022301:0612/pct:163.19018404907976,320.9232858112695,50.306748466257666,50.12898845892736/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_ferrari_ver02:data:sn86088181:00200296953:1888022301:0612/pct:40.80536912751678,80.23082145281738,12.579098753595398,12.53224711473184/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1745,7 +1745,7 @@ alleviate iny sorrows by burying that chaste
 and troublesome passion in the grave of  
 oblivion.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_fencing_ver02:data:sn83016589:00393340691:1888022401:0320/pct:51.13678717853149,65.25691699604744,10.585165859112934,12.025691699604742/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_fencing_ver02:data:sn83016589:00393340691:1888022401:0320/pct:44.75124107692865,57.1058016543217,9.261876290901185,10.52540565466755/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1826,7 +1826,7 @@ to attempt anything, I should only get a
 denial which would be only adding grief  
 to nneasiness.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gore_ver01:data:sn86092518:00279550377:1889043001:0413/pct:39.76853404897685,36.797997387897254,13.015766521301577,10.611667392250762/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gore_ver01:data:sn86092518:00279550377:1889043001:0413/pct:39.76186483313768,36.79399281749918,13.019173793951591,10.614140095041172/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1970,7 +1970,7 @@ gaged, pass my time very pleasantly, as theres a very
 atrecalle Yoning tecdy Jives in the seme houise iel  
 freorge fairfar a Wife&#x27;s Sister but as thats only ad
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175045181:1895012701:0337/pct:265.05514705882354,125.82500756887679,50.68014705882353,7.387223735997578/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175045181:1895012701:0337/pct:66.30034945742138,31.456251892219196,12.677027772668751,1.8468059339993945/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1999,7 +1999,7 @@ any cure or help to me as I am well convinced was I
 ever to attempt anything I should only get a denial  
 which would be only adding grief to uneasiness
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175045181:1895012701:0337/pct:264.98161764705884,131.07780805328488,49.1360294117647,16.24280956706025/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175045181:1895012701:0337/pct:66.28195696155969,32.76945201332122,12.290785359573293,4.060702391765062/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2085,7 +2085,7 @@ was I ever to attempt anything I should
 only get a denial which would be only add­  
 ing grief to uneasiness.” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_endeavour_ver01:data:sn86063034:00414182148:1895020301:0599/pct:36.6286675387778,67.88363636363637,16.05307419173986,13.803636363636363/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_endeavour_ver01:data:sn86063034:00414182148:1895020301:0599/pct:28.396253741430915,52.61714199827152,12.431205947668243,10.705294404990042/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2244,7 +2244,7 @@ is I ever to attempt anything I should on!y
 it a denial which would be only adding  
 ief to uneasiness
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287162:1897021701:0124/pct:44.11903637222485,63.14044282810996,14.485907731065973,8.835169536848861/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287162:1897021701:0124/pct:44.12953340681258,63.1475737155489,14.491156248359838,8.838734980568331/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2274,7 +2274,7 @@ assured, that is the only antidote or remedy
  that I shall he relleved by or only recess that  
 can administer any cure or help to me.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:0017504291A:1897022101:0685/pct:1.0124610591900312,333.03884234577305,68.38006230529595,23.57958872810358/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:0017504291A:1897022101:0685/pct:0.25316455696202533,83.25971058644326,17.0983446932814,5.894897182025895/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2394,7 +2394,7 @@ dote or remedy that I shall be relieved
 by or only recess that can administer  
 any cure or help to me.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_alcott_ver01:data:sn92066979:00513687394:1897030401:0818/pct:9.806081974438078,80.7509254362771,11.370647862494492,10.69980609906575/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_alcott_ver01:data:sn92066979:00513687394:1897030401:0818/pct:9.811591009255178,80.75973911510664,11.398193036579991,10.704212938480522/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2439,7 +2439,7 @@ or only recess that can administer any
 cure or help to me.&quot;  
 Who was this &quot;lowland beauty&quot; i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_gnomiemoore_ver01:data:sn84026965:00294551189:1897032401:0278/pct:23.519334312285853,27.98490288134033,10.854136074400392,10.070882813219184/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_gnomiemoore_ver01:data:sn84026965:00294551189:1897032401:0278/pct:23.52749224995921,27.991039921445886,10.850057105563714,10.070882813219184/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2478,7 +2478,7 @@ I ever to attempt anything I should only
 ijet a denial, which would only be add­  
 ing grief to uneasiness. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_garwood_ver02:data:sn83040340:00237285293:1897040901:0326/pct:10.923501033769814,77.94846981976534,20.744314266023434,20.769323817588/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_garwood_ver02:data:sn83040340:00237285293:1897040901:0326/pct:7.290589451913133,51.96564654651022,13.840055153395381,13.85024797387202/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2512,7 +2512,7 @@ edy that I shall be relieved by or only
 recess that can administer any cure or  
 help to me.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn86071719:00280777729:1897041401:0546/pct:13.855421686746988,132.22797927461139,50.0,42.04293116210215/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn86071719:00280777729:1897041401:0546/pct:3.4645076256825456,33.056994818652846,12.50235360572397,10.510732790525537/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2586,7 +2586,7 @@ remedy that I shall be relieved by or
 only recess that can administer any  
 cure or help to me.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_dogwood_ver01:data:sn84026925:00295861484:1897050101:0072/pct:56.257521058965104,32.05101400794481,16.395908543922985,10.955467279949822/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_dogwood_ver01:data:sn84026925:00295861484:1897050101:0072/pct:56.26754913758524,32.05798313471322,16.395908543922985,10.955467279949822/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2625,7 +2625,7 @@ such a thing I should only get a
 denial, which would be only addins  
 grief to my uneasiness.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_belle_ver01:data:sn85033078:00271768588:1898021701:0190/pct:56.97036223929747,33.48407195256758,12.445115257958287,13.465983318259472/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_belle_ver01:data:sn85033078:00271768588:1898021701:0190/pct:56.979509696304426,33.487421699661674,12.449688986461764,13.465983318259472/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2673,7 +2673,7 @@ any such a thing I should- only get a
 denial, which would&#x27; be only adding  
 grief to my uneasiness.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_eritrea_ver01:data:sn84026844:00202193699:1898022201:0371/pct:1.2845573862049706,48.388829215896884,14.549008656799776,12.262799856784818/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_eritrea_ver01:data:sn84026844:00202193699:1898022201:0371/pct:1.2845573862049706,48.388829215896884,14.57693381736945,12.276226279985679/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2789,7 +2789,7 @@ getfulness, for I am very well assured
 thats the only antidote or remedy that  
 I shall be releivd by.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fugazi_ver01:data:sn89051168:00393343084:1899021901:0933/pct:32.04588910133843,62.99055474258348,13.996175908221797,5.53412265531462/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fugazi_ver01:data:sn89051168:00393343084:1899021901:0933/pct:32.039762951634486,62.98217611066773,13.998279487669661,5.536711891460495/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

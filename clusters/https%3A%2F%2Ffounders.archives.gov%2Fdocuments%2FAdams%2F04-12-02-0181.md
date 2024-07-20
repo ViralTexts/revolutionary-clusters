@@ -46,7 +46,7 @@ his country; the firm but dignified oppo­
 nent to the trappings of royalty, and the  
 baubles of nobility ; the friend to merit i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793011601:0002/pct:29.967845659163988,81.66096923386286,20.418006430868168,7.741805751055701/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793011601:0002/pct:29.967845659163988,81.67605067363765,20.466237942122188,7.741805751055701/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -396,7 +396,7 @@ The whitest virtue strikes. What king so
 strong  
 Csn tie the gall up in the slanderous tongue.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_junebug_ver01:data:sn83016865:00415661939:1843082401:0128/pct:85.95528455284553,14.663827198052935,16.178861788617887,3.4529966534834196/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_junebug_ver01:data:sn83016865:00415661939:1843082401:0128/pct:64.51088061826317,10.997870398539701,12.141549725442342,2.601156069364162/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -619,7 +619,7 @@ Fortunes are made and lost, while
 one goes up, he who was up findB the  
 level. We are led to these remark
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237286856:1872103001:0281/pct:89.13587977457733,81.65266106442577,12.492172824045085,6.327985739750446/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237286856:1872103001:0281/pct:66.89115113547376,61.24267888973771,9.381362568519968,4.74917239623122/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -684,7 +684,7 @@ The whitest virtue strikes. What king so
 strong  
 Can tie the gall up in the slanderous tongue.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ike_ver01:data:sn82014424:00211102883:1882022701:0200/pct:31.486146095717885,154.07213970948263,48.530646515533164,7.3118981557042595/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ike_ver01:data:sn82014424:00211102883:1882022701:0200/pct:7.874842503149937,38.51803492737066,12.137757244855102,1.8279745389260649/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -753,7 +753,7 @@ Can censure scape; backwounding calumny
 The whitest virtue strikes. What king so strong  
 Can tie the gall up in the slanderous tongue
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ike_ver01:data:sn86053573:00211101945:1882022801:0236/pct:169.4928684627575,191.32466773769534,50.079239302694134,24.53629326712429/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ike_ver01:data:sn86053573:00211101945:1882022801:0236/pct:42.390011890606424,47.831166934423834,12.524772096710265,6.134073316781072/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -785,7 +785,7 @@ No might nor greatness in mortality
 The whitest vir ue strikes. What Kingso strong  
 Can tie the gall up in the slanderous tongue
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00383342077:1882022801:0197/pct:22.06887310732949,63.18630946317612,10.277368350529278,6.091473973719059/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00383342077:1882022801:0197/pct:22.07333958640404,63.18630946317612,10.277368350529278,6.098264914603918/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -816,7 +816,7 @@ Can censure ’scape; baekwounding calumbv
 xuc wuibcot vii tuc obiincs. it u&lt;*u mu^ bu auvug  
 Can tie the gall up in the slanderous tongue
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_farmington_ver01:data:sn83016025:00279525516:1882022801:0616/pct:39.696871976781686,22.82246549262256,10.528861657529829,5.306996668253213/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_farmington_ver01:data:sn83016025:00279525516:1882022801:0616/pct:39.6904723520877,22.819750148721,10.531194583266162,5.309339678762641/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -849,7 +849,7 @@ The «h&#x27;&lt;e&#x27;t virtue strikes. What King bo
 strong ..;.&quot;„-&#x27;:?;: .. - . . .  
 Can tie the gall up in the slanderous tongue
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_anoka_ver02:data:sn83025287:00100493998:1882022801:0282/pct:57.23043068217542,55.59647360785627,13.28198679660484,7.711192947215713/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_anoka_ver02:data:sn83025287:00100493998:1882022801:0282/pct:57.23043068217542,55.603913253729125,13.292465681651473,7.714912770152141/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -882,7 +882,7 @@ an censure &#x27;scape: back wounding calumny
 The whitest virtite strikes. What king so strong  
 tie the gall up in the slanderous tongu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044772:1882022801:1121/pct:71.22302158273381,283.5215754416449,50.35971223021583,42.0503909643788/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044772:1882022801:1121/pct:17.805755395683452,70.88039386041123,12.589928057553957,10.5125977410947/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -900,7 +900,7 @@ an censure&#x27;scape; back wounding calumny
 The whitest virtue strikes. What king so strong  
 an tie the gall up in the slanderous tongu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044772:1882022801:1122/pct:174.65900933237617,63.830405111078846,42.5699928212491,4.9949179613765065/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044772:1882022801:1122/pct:43.672590199246095,15.957601277769712,10.644408544246993,1.2487294903441266/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -919,7 +919,7 @@ lumny the whitest virtue strikes. What
 king so strong can tie the gall up in the  
 slanderous tongue? Under it all he wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_palisade_ver02:data:sn84022046:00279554036:1882022801:0192/pct:74.96643007864952,188.331418358228,49.203913293688856,9.357845014681477/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_palisade_ver02:data:sn84022046:00279554036:1882022801:0192/pct:18.73801304181051,47.07684452387031,12.298619102416572,2.339162624457493/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -952,7 +952,7 @@ The whitest virtue strikes. What king so
 strong  
 Can tie the gall up in the slanderous tongue
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kay_ver01:data:sn85033437:00296021064:1882022801:0198/pct:69.16092673763306,28.010440147111165,14.824671258609893,11.911258749555108/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kay_ver01:data:sn85033437:00296021064:1882022801:0198/pct:51.90289741581832,21.010796061217228,11.119812059514487,8.93344406216633/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1004,7 +1004,7 @@ a censure scape; back wounding calumny
 The whitest virtue strikes. What king so strong  
 Can tie the gall up in the slanderous tongue
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_chevy_ver01:data:sn83025733:00200294737:1882030101:0357/pct:25.101626016260163,227.52064827801152,61.483739837398375,35.40595293750974/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_chevy_ver01:data:sn83025733:00200294737:1882030101:0357/pct:6.2785968479918655,56.88016206950288,15.378749364514489,8.851488234377435/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1035,7 +1035,7 @@ Can censure &#x27;scape; backwounding calumny
 The whitest virtue strikes. What king so strong  
 Can tie the gall up in the slanderous tongue
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777687:1882030101:0035/pct:112.12814645308924,102.60160315004921,42.86803966437834,23.344114751792997/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777687:1882030101:0035/pct:28.048082427017746,25.650400787512304,10.723144438084335,5.836028687948249/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1067,7 +1067,7 @@ The whitest virtue strikes. What king so strong
 Can tio tho gall up In the slanderous tonguo?  
 Undor it all h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_peugeot_ver01:data:sn90059028:00212479196:1882030201:0163/pct:62.17680374292046,76.08778625954199,10.723959615858163,5.801526717557252/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_peugeot_ver01:data:sn90059028:00212479196:1882030201:0163/pct:62.17680374292046,76.09096692111959,10.73216777476812,5.811068702290076/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1085,7 +1085,7 @@ Can censure &#x27;scape baokwounding calumny
 The whitest virtue strikes. What king so strong  
 Can tie the gall up in the slanderous tongu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_avenger_ver01:data:sn91099608:00415665374:1882030201:0881/pct:42.269703688772424,16.724580752379513,14.956661963313849,1.8885027949841366/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_avenger_ver01:data:sn91099608:00415665374:1882030201:0881/pct:33.82068372393034,13.379799363442247,11.965168780907332,1.518875146045687/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1103,7 +1103,7 @@ Can cnsure seape; hack wounding calumny
 The whitest virtne strikes. What King so strong  
 Can tie the gall up in the slanderous tongu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eagle_ver01:data:sn84022279:02202296576:1882030201:0419/pct:172.10440456769985,367.51211171273866,49.59216965742251,5.585636933599316/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eagle_ver01:data:sn84022279:02202296576:1882030201:0419/pct:43.02610114192496,91.87802792818466,12.398042414355627,1.396409233399829/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1121,7 +1121,7 @@ Can censure &#x27;scape: backwounding calumny
 The whitest virtue strikes. What king so strong  
 Can tie the gall up In a slanderous tongue
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348732:1882030201:0460/pct:62.540244687701225,90.05626363531978,10.624597553122987,1.1712022046159145/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348732:1882030201:0460/pct:62.53017865765331,90.0459242250287,10.62691131498471,1.1739380022962111/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1140,7 +1140,7 @@ the whitest virtuo strikes. What King so
 strong can tie the gall up in the slanderous  
 tongue? Under it nil ho was carhn, aud strong
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_gaylord_ver02:data:sn85033781:00296023772:1882030301:0033/pct:74.7717508055854,96.43556965568723,21.01235230934479,3.228515442754502/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_gaylord_ver02:data:sn85033781:00296023772:1882030301:0033/pct:49.87239758226998,64.29037977045815,14.009402283411685,2.155453951665578/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1175,7 +1175,7 @@ Can censure &#x27;scape backwoundlng calumny
 The whitest virtue strikes. What king so strong  
 Can tie the gall up in the slanderous tongue?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_alamo_ver01:data:sn85042331:00212470843:1882030301:0070/pct:29.178674351585013,12.982723577235772,16.06628242074928,15.23119918699187/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_alamo_ver01:data:sn85042331:00212470843:1882030301:0070/pct:29.178674351585013,12.982723577235772,16.072286263208454,15.23119918699187/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1247,7 +1247,7 @@ Can censure scape; backwounding calumny
 The whitest virtue strikes. What king so strong  
 Can tie the gall up in the slanderous tongie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_baxter_ver01:data:sn83009653:0027952407a:1882030701:0060/pct:94.9820788530466,207.91675381719307,37.47013142174433,18.395733110227987/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_baxter_ver01:data:sn83009653:0027952407a:1882030701:0060/pct:31.655965357622815,69.29833734183833,12.488178786521328,6.1312698246714765/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1270,7 +1270,7 @@ strikes. What King so strong can tie
 the gall up in the slanderous tongue?  
 Under it all he wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quiring_ver01:data:sn89064939:00206537930:1882030801:0262/pct:50.79029247044182,72.47407407407407,10.87741132545115,3.891358024691358/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quiring_ver01:data:sn89064939:00206537930:1882030801:0262/pct:50.79858950425223,72.47736625514403,10.87741132545115,3.891358024691358/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1310,7 +1310,7 @@ The blackest virtue strike. What king so
 e e   
 Can tie the gall up in the slanderous tongue
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_grange_ver01:data:sn84026409:0028077649A:1882030801:0011/pct:212.62902246508804,15.471135085504418,168.00242865816637,103.93664639045105/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_grange_ver01:data:sn84026409:0028077649A:1882030801:0011/pct:53.15725561627201,3.8677837713761045,42.00060716454159,25.98416159761276/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1330,7 +1330,7 @@ strong
 Can tie the gall up in the slanderous  
 tongue?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_lyle_ver01:data:sn86092472:00514157790:1882030801:0434/pct:7.296248382923674,73.8365205618548,17.283311772315653,3.029277373498054/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_lyle_ver01:data:sn86092472:00514157790:1882030801:0434/pct:7.2943610967408175,73.82402707275804,17.28530781169167,3.032994923857868/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1399,7 +1399,7 @@ Can censure ’scape; hack wounding calumny
 The whitest virtue strikes. What Ring so strong  
 Can tie the gall up in the slanderous tongue
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_celebi_ver01:data:sn84027329:00279529005:1882030901:0443/pct:60.864722559740784,57.29888336457739,8.667476711219116,7.213301817589046/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_celebi_ver01:data:sn84027329:00279529005:1882030901:0443/pct:60.864722559740784,57.29888336457739,8.674227082489537,7.213301817589046/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1418,7 +1418,7 @@ the whitest virtue strikes. What King
 strong can tie the gall up in the slanderous  
 tongue? Under it all he was calm, and strong
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_lapras_ver01:data:sn83025167:00279528402:1882030901:0265/pct:185.5552776388194,146.21256038647343,31.70335167583792,5.594202898550725/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_lapras_ver01:data:sn83025167:00279528402:1882030901:0265/pct:61.851759212939804,48.73752012882448,10.567783891945973,1.8647342995169083/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1436,7 +1436,7 @@ Can censure seaper backwounding calumny
 The whitest virtue strikes. What king so strong  
 Can tie the gall up in the slanderous tongue
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_beetlebailey_ver01:data:sn89066350:0028077974A:1882030901:0926/pct:157.69881556683586,267.2510200997431,41.96277495769881,5.259180897687774/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_beetlebailey_ver01:data:sn89066350:0028077974A:1882030901:0926/pct:39.43304421408927,66.81275502493577,10.492913052676116,1.3147952244219434/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1458,7 +1458,7 @@ The whitest virtue strikes. What King so
 strong  
 Can tie the gall up in the slanderous tongue
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_hobbs_ver01:data:sn84024283:00294556813:1882030901:0081/pct:50.0,72.43914807302231,17.71180787191461,4.754056795131846/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_hobbs_ver01:data:sn84024283:00294556813:1882030901:0081/pct:37.51459549624687,54.335699797160245,13.29441201000834,3.56237322515213/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1510,7 +1510,7 @@ Can censure &#x27;scape; backwounding calumny
 The whitest virtue strikes. What king so strong  
 Can tie the gall up in the slanderous tongue
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn90061416:00294559954:1882031001:0506/pct:178.68601986249044,277.8723998324724,48.43391902215431,28.42384475778305/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn90061416:00294559954:1882031001:0506/pct:44.69711446588955,69.4680999581181,12.115421364418117,7.105961189445763/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1583,7 +1583,7 @@ strong
 Can tie tho gall up in the slanderous  
 tongu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_fisher_ver01:data:sn85058130:00206534357:1882040201:0023/pct:70.42008843967152,54.34291249596384,20.593809222994313,20.514476374986547/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_fisher_ver01:data:sn85058130:00206534357:1882040201:0023/pct:46.97424553641966,36.22860833064256,13.730447148048665,13.679905284684104/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1601,7 +1601,7 @@ Can censure ’scape; back-wounding calumny
 The whitest virtue strikes. What king so strong  
 Can tie the gall up in the slanderous tongue
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210077:1884061101:0074/pct:46.55601659751037,62.83450441022574,16.804979253112034,2.048138735236956/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210077:1884061101:0074/pct:36.081037624611426,48.69655891553702,13.039982849179976,1.5911636349592555/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1621,7 +1621,7 @@ The whitest virtue strikes. What kind so
 strong  
 (’an tie the gall up in the slanderous tongue
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:0041562458A:1884071201:0284/pct:3.8012618296529967,96.94711538461539,12.902208201892744,2.8365384615384617/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:0041562458A:1884071201:0284/pct:2.9459701735799855,75.1350679997516,10.011409013120366,2.2014531453766377/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1639,7 +1639,7 @@ Can censure &#x27;scape. Black-wounding calumny
 Tho whitest virtue strikes. What king so strong  
 Can tie the gall up in a slanderous tongue 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ginsberg_ver01:data:sn85026214:print00205958265:1884082401:0004/pct:31.78051924139201,17.57241732889003,12.00515558828945,1.2560881825173034/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ginsberg_ver01:data:sn85026214:print00205958265:1884082401:0004/pct:31.794328852881605,17.575621635478083,12.00515558828945,1.2592924891053576/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1718,7 +1718,7 @@ Can tie tho gall up in the slanderous tongue.
 In this connection it will be interest­  
 ing to call to mind one passage fro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ibo_ver01:data:sn91059394:00383347725:1884102201:0198/pct:41.00529100529101,41.59030446349394,10.468631897203325,10.76953394423096/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ibo_ver01:data:sn91059394:00383347725:1884102201:0198/pct:41.01368942638784,41.59358885932933,10.477030318300159,10.772818340066344/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1810,7 +1810,7 @@ strong
 Can tie the gall up in the slanderous  
 tongue 7&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_heron_ver02:data:sn88085722:00414189908:1891090601:0692/pct:22.80490738513351,39.40636274188258,14.361318258359393,3.181370941292227/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_heron_ver02:data:sn88085722:00414189908:1891090601:0692/pct:22.816935289872504,39.41456215152509,14.349290353620399,3.177271236470974/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -121,7 +121,7 @@ departure or destination, shall be
 decamd law I&#x27;ni prize :  
 more and more the expediency 0
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808031801:0003/pct:20.649895178197063,13.217054263565892,17.92452830188679,18.940568475452196/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808031801:0003/pct:20.6638714185884,13.22566752799311,17.93151642208246,18.940568475452196/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -169,7 +169,7 @@ be removed or lessened. -
 sssi TH: JEFFERSON.  
 March 17, 1808ct. &#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216079:1808031901:0401/pct:23.102211595935444,6.0306030603060305,46.578003586371786,93.06930693069307/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216079:1808031901:0401/pct:23.098759898401315,6.030060300603006,46.57602470242542,93.06393063930639/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -213,7 +213,7 @@ aie exposed, can be removed or lessened
 at , TH: JEFFERSON.’  
 March 17th, 1808
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808032201:0419/pct:40.89340838932268,19.630626223091976,17.305247866351916,16.768590998043052/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808032201:0419/pct:40.885984023238926,19.628225510578453,17.308157831033647,16.77061677061677/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -258,7 +258,7 @@ exposed, can be removed or lfssened
 TH : JErFEIiSON.  
 March 17, 1808
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808032201:0101/pct:57.69875256004468,67.806484295846,17.482777881213927,18.135764944275582/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808032201:0101/pct:57.68801191362621,67.79789793592504,17.48572846860263,18.137689417922417/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -311,7 +311,7 @@ or destination, shall be deem«di lawful
 the expediency of retaining our vessels,  
 our seamen and property within our own
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808032501:0932/pct:74.04853833425263,75.16351423015733,21.428571428571427,22.2379353013965/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808032501:0932/pct:74.02812241521919,75.1502297631672,21.42955610697546,22.238423471191233/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -360,7 +360,7 @@ pol~d, can be removed or lessened.
 , TH: JEFFERSON,  
 March 17, 1808. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808032901:0050/pct:77.44360902255639,15.939412177751029,16.1423968083474,23.77369846524225/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808032901:0050/pct:77.44872385044243,15.939412177751029,16.1423968083474,23.777042164041863/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

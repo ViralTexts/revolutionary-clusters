@@ -380,7 +380,7 @@ be left with Frence, in futuf, to the
 firstoverture ; thatif desirous of | b 7  
 she should evince the disposition, by V
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1809080901:0076/pct:50.645952575633686,9.058614564831261,47.17906786590352,88.75074008288928/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1809080901:0076/pct:50.65685472880894,9.058614564831261,47.17906786590352,88.7638971120321/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -632,7 +632,7 @@ many others, equally difficult, and infinitely
 more dangerous to my life, if not to my rep­  
 utation. JOIIN ADAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1809080901:0077/pct:3.145478374836173,3.108348134991119,47.55897771952818,93.24057627787646/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1809080901:0077/pct:3.145478374836173,3.108348134991119,47.58082131935343,93.24057627787646/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -905,7 +905,7 @@ oy waveting, is falfe. . My mind gev.
 er underwent any revolution or alcet.  
 ~ation at-all, after I left Quiney.—-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809081501:0335/pct:41.17188717469222,9.560800717060054,52.32974910394265,83.74663878099791/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809081501:0335/pct:41.18227624538985,9.567440162002457,52.319360033245026,83.74995850346912/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1085,7 +1085,7 @@ and so many others, equally difficult,
 life, if not to my reputation.  
 | JOHN ADAMS.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809081501:0336/pct:6.747617583768829,1.5083854321722734,34.99846295727021,90.8306043465317/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809081501:0336/pct:6.752741059534788,1.5150011577519764,35.00358643303617,90.8306043465317/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1106,7 +1106,7 @@ arc under oath of sccresy, and ours ought
 or and sense of propriety, ought, with them,  
 .to he obligations as sscred a* an oath.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1809100201:0686/pct:23.658318425760285,60.35477967056173,17.866726296958856,4.026467689708574/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1809100201:0686/pct:23.653029286832105,60.34628378378378,17.86832103733512,4.029420045045045/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1132,7 +1132,7 @@ Jor a declaration of war, without any recom­
 meandation from tue Presidenty as they had  
 woted the alien and sedition law, and the army.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1811040301:0386/pct:4.216094902212247,53.585461689587426,21.67361333760821,7.544204322200393/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1811040301:0386/pct:4.216094902212247,53.585461689587426,21.689644116704073,7.550753110674525/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1163,7 +1163,7 @@ to mount his hobby horse, the command of an
 ARMY OF FIFTY THOUSAND, IEN THOUSAND  
 of then: to be Horse 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1811040301:0386/pct:4.392433472266752,61.19842829076621,21.481243988457837,10.99214145383104/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1811040301:0386/pct:4.392433472266752,61.19842829076621,21.481243988457837,10.998690242305173/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

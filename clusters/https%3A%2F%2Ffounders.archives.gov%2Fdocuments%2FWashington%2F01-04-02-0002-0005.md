@@ -130,7 +130,7 @@ FROM THE
 FIRST SESSION or the LEGIL ATURE,  
 IN THE YEAH 1619
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810022001:0065/pct:59.79092775807355,7.012658227848101,17.491133096882585,6.481012658227848/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810022001:0065/pct:59.77976857036207,7.011770661941527,17.494089834515368,6.484411255959161/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -158,7 +158,7 @@ KichMoNd i By GoNe DaYs, WIIH A
 GLanCe at the present, being Reminis­  
 cences and Last Words of an old citizen. B
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_johnhenry_ver01:data:sn84024738:0028077800A:1860073101:0100/pct:101.61854768153981,140.11774600504626,36.78915135608049,3.9213624894869636/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_johnhenry_ver01:data:sn84024738:0028077800A:1860073101:0100/pct:33.872849227179934,46.70591533501542,12.26305045202683,1.307120829828988/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -174,7 +174,7 @@ cences and Last Words of an old citizen. B
 Richmond in Bg-gone Days, with a Glance at the Present, being  
 Reminiscences and Last Words of an old citizen. By Samuel Mor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024656:00414184704:1860080201:0112/pct:171.07711717394733,54.52397029034436,38.243179309257215,1.6993022732388026/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024656:00414184704:1860080201:0112/pct:57.016713970356356,18.172611679981998,12.745716388100494,0.5663703537001613/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -210,7 +210,7 @@ the price, will receive it post paid.
 Richmond in By-gone Days, with a Glance at the Present, being  
 Reminiscences and Last Words of an old citigen. By Famuel Mor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024656:00414184704:1860080701:0127/pct:132.0947515095216,215.31340620120454,37.451617897507354,24.905197412447023/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024656:00414184704:1860080701:0127/pct:44.024767801857585,71.76313148210103,12.481940144478845,8.3008066614624/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -230,7 +230,7 @@ With a Glance at the Present--being reminis­
 cences and last words of  
 AN OLD CITIEEN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_johnhenry_ver01:data:sn84024738:0028077800A:1860092801:0300/pct:139.89222254587824,122.46475195822454,36.89193125546169,6.318537859007833/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_johnhenry_ver01:data:sn84024738:0028077800A:1860092801:0300/pct:46.63074084862608,40.82158398607485,12.297310418487232,2.1061792863359443/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -249,7 +249,7 @@ IN BY-GONK DAYS.
 itli a glance at the present, being reminiscences and last th  
 irds of an Old Citizk.v. By .-.-.niuel Mordecal. &quot;/Ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664382:1860100501:0326/pct:25.85069902400422,82.37577639751552,12.120812450540754,1.8051242236024845/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664382:1860100501:0326/pct:25.855095401389256,82.3822463768116,12.129605205310824,1.8051242236024845/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -275,7 +275,7 @@ K. Lee. es, of Kichmend. 50 cents.
 RICHMONd IN&#x27; BY-GONE DAYs; With a glance at the prese-t,  
 being reminiscences and last words of an old cltizen. By Sam
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024656:00414184704:1860112601:0509/pct:14.163290744780305,9.986366734832993,38.15830476784045,13.031129288798/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024656:00414184704:1860112601:0509/pct:4.720361427013554,3.3284107690560036,12.71745339357117,4.343216327767049/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -310,7 +310,7 @@ BY-GoNE DayS; with a glance at the pre
 sent; being reminiscences and last words of  
 an old citizen. By Samuel Mordecal. Secon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_johnhenry_ver01:data:sn84024738:0028077800A:1860121701:0572/pct:93.60691144708423,180.05021445757924,36.861051115910726,3.7556229731143427/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_johnhenry_ver01:data:sn84024738:0028077800A:1860121701:0572/pct:31.202303815694744,60.016738152526415,12.28701703863691,1.2518743243714474/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -328,7 +328,7 @@ VIRGINIA. ESPECIALLY RICHMOND, IN BY­
 GONE DxiYS; with a glance at the present; being  
 remmiscenses and last words of an old citizen. B
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762453:1860122501:0219/pct:82.0340733092411,40.46974676203364,12.545172947857512,1.5464913976416006/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762453:1860122501:0219/pct:82.0340733092411,40.47296861911206,12.55807950438823,1.5561569688768606/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -346,7 +346,7 @@ VIRGINIA. ESPECIALLY RICHMOND, IN BY­
 GONE DAYS ; with a glance at ihe present; being  
 reminisct-nses and last words of an old citizen. B
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762453:1861010101:0225/pct:16.19244697361614,85.19020423966703,12.480600103466115,1.5487368115380893/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762453:1861010101:0225/pct:16.19244697361614,85.19665730971509,12.484911191584755,1.5551898815861647/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -365,7 +365,7 @@ at the present; being a reminiscence and last
 words of an old citizen. By Samuel Morde-  
 ca
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_indy_ver01:data:sn84024738:00280778084:1864110501:0224/pct:55.045083726921426,71.09666417989982,36.381852010877346,5.787061707343067/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_indy_ver01:data:sn84024738:00280778084:1864110501:0224/pct:18.348361242307142,23.698888059966606,12.127284003625782,1.9290205691143558/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -404,7 +404,7 @@ at the present; being a reminiscence and last
 words of an old citizen. By Samuel Morde­  
 ca
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_indy_ver01:data:sn84024738:00280778084:1864110701:0226/pct:60.11163589523401,57.60417776830438,37.05452984113354,33.68858574016839/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_indy_ver01:data:sn84024738:00280778084:1864110701:0226/pct:20.037211965078,19.201392589434793,12.35150994704451,11.22952858005613/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -420,7 +420,7 @@ ca
 was a very plain wooden edifice of two stories, with  
 only two moderate sized rooms on the first floor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024669:00414184765:1865041901:0225/pct:13.832642107831179,107.83266577659101,66.62600634301049,4.1981901794985905/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024669:00414184765:1865041901:0225/pct:4.609756097560975,35.93889053693266,22.203252032520325,1.399189162464155/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -221,7 +221,7 @@ this primary pursuit of society, are subjects
 which will readily engage our most serious at­  
 tention.” .
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021389:00340588022:1828091001:0596/pct:49.773223584747186,30.544794188861985,14.664874853015286,4.63680387409201/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021389:00340588022:1828091001:0596/pct:49.78442242006831,30.544794188861985,14.659275435354724,4.648910411622276/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -262,7 +262,7 @@ Cent Washington &quot;as the natural defence of the country,
 the most ellectual as well as economical preservative of  
 pesce.&quot; The tre of the army and navy for the pr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743245:1856120501:1307/pct:106.57114624505928,254.81900452488688,46.640316205533594,4.015837104072398/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743245:1856120501:1307/pct:35.523715415019765,84.93966817496229,15.5467720685112,1.3386123680241326/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -280,7 +280,7 @@ fence of the country, the most effectual as well as eco­
 nomical preservative of peace.&quot; The use of the^ army  
 and navy for the preservation of domestic order is, to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82003410:00415661071:1856121001:1276/pct:52.01764417578827,18.211422845691384,15.65103741218755,1.9914829659318638/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82003410:00415661071:1856121001:1276/pct:52.028535642324236,18.211422845691384,15.645591678919567,1.9956579826319305/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -307,7 +307,7 @@ and navy for the preservation of domestic order is, to
 ?f certain useful manufactures by tho intervention  
 of Legislative aid and protection
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mazda_ver01:data:sn83030214:00175038267:1888093001:0304/pct:10.792264504054897,142.2193464898091,45.835932626325636,4.507710557532621/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mazda_ver01:data:sn83030214:00175038267:1888093001:0304/pct:3.5974215013516324,47.40644882993637,15.278644208775214,1.502570185844207/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -325,7 +325,7 @@ irged upon Congress &quot;the necessity of ac
 ful manufactures by the intervention ol  
 ‘Legislative ail and protection 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_freeport_ver01:data:sn82014248:00332895151:1888100101:0312/pct:49.31406621547467,81.37001225657089,10.682275471007866,1.579735802805393/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_freeport_ver01:data:sn82014248:00332895151:1888100101:0312/pct:49.3050475493782,81.35893246187364,10.684893928310169,1.5829248366013071/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -343,7 +343,7 @@ the establishment of certain usef ulmannfac--&quot;
 tures tiy the&#x27; intervention of legislative aid  
 .- .and protection.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_abbott_ver01:data:sn95073194:00206539264:1888101001:0027/pct:7.904710341093665,64.83951646519382,15.092041147807254,2.2405168820341808/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_abbott_ver01:data:sn95073194:00206539264:1888101001:0027/pct:5.930138099106418,48.6348478532722,11.332250203086922,1.6777824093372238/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -380,7 +380,7 @@ celerating t he establishment use­
 ful manufactures by the intervention of  
 legislative aid and protection.” Jeffer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_leek_ver02:data:sn99068116:00340581210:1894032901:0641/pct:76.45514898872935,67.94627749576988,13.957078894549946,1.9352791878172588/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_leek_ver02:data:sn99068116:00340581210:1894032901:0641/pct:76.45900880037054,67.94892131979695,13.972518141114714,1.9352791878172588/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -398,7 +398,7 @@ celerating the establishment of certain use­
 ful manufactures by the intervention of  
 legislative aid and protection.&quot; Jeffer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_neon_ver01:data:sn89064525:00212479251:1894033001:0376/pct:27.14493456131847,46.650124069478906,10.518662142510907,1.7465165107845009/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_neon_ver01:data:sn89064525:00212479251:1894033001:0376/pct:25.109292680192805,43.15687255392402,9.741060419235511,1.6096283435835566/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -416,7 +416,7 @@ celerating the establishment of certain use­
 ful manufactures by the intervention of  
 legislative aid and protection.” Jeffer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_ellison_ver01:data:sn92066979:00517010145:1894033001:0311/pct:23.548228346456693,80.59563448020718,13.041338582677165,1.905290418054014/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_ellison_ver01:data:sn92066979:00517010145:1894033001:0311/pct:23.56668307086614,80.59563448020718,13.022883858267717,1.9237883832778395/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -436,7 +436,7 @@ celerating the establishment of certain use­
 ful manufactures by the Intervention of  
 legislative aid and protection.” Jeffer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_baseball_ver02:data:sn89064489:00393340149:1894040501:0072/pct:19.94058670627553,91.65964616680708,10.397326401782399,2.3682486193016943/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_baseball_ver02:data:sn89064489:00393340149:1894040501:0072/pct:19.94058670627553,91.65964616680708,10.40970417130833,2.37448906362133/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -454,7 +454,7 @@ the establishment of certain useful manu­
 factures by the Intervention of legislative  
 aid and protection.&quot; Jefferson, in Decem
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_interceptor_ver01:data:sn98062890:0041562475A:1894040501:0908/pct:21.116138763197586,30.783132530120483,13.96250808015514,1.536144578313253/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_interceptor_ver01:data:sn98062890:0041562475A:1894040501:0908/pct:21.12691230338289,30.786897590361445,13.978668390433096,1.5436746987951808/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -471,7 +471,7 @@ upon ongri ss the &quot;oeceMlty of accelerating
 the establishment of certain useful manufac­  
 tures by the intervention of legislative aid an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033255:00514152536:1894040501:0054/pct:35.20456707897241,84.80263157894737,9.59630284083186,0.8771929824561403/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033255:00514152536:1894040501:0054/pct:35.2136287436002,84.80263157894737,9.587241176204069,0.8808479532163743/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -506,7 +506,7 @@ the establishment of certain useful manufac­
 tures by the intervention of legislative aid and  
 protection.&quot; Jefferson, In December. 1811, i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_garwood_ver02:data:sn83040340:0023728527A:1894040601:0364/pct:28.027740189445197,11.462205700123915,17.743572395128552,2.057001239157373/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_garwood_ver02:data:sn83040340:0023728527A:1894040601:0364/pct:18.697123519458543,7.645600991325899,11.82741116751269,1.3754646840148699/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -524,7 +524,7 @@ the establishment of certain useful manu­
 factures by the Intervention of legislative  
 51d and.Protection.&quot; Jefferson, in Decem
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_argon_ver01:data:sn87096040:00199917948:1894040601:0690/pct:27.233782129742963,21.37102473498233,12.95389636882905,1.5123674911660778/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_argon_ver01:data:sn87096040:00199917948:1894040601:0690/pct:27.233782129742963,21.37809187279152,12.979396164830682,1.5123674911660778/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -550,7 +550,7 @@ upright, and energetio administration.&quot; In the
 corresponding address of the House of Repre­  
 sentatives occurs a memorable passage i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:00175042908:1896110801:0115/pct:81.03574033552152,310.0121359223301,48.57768052516411,22.75485436893204/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:00175042908:1896110801:0115/pct:20.262629947109247,77.50303398058253,12.146635053802664,5.68871359223301/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -575,7 +575,7 @@ primary pursuits of society, are objects
 w Inch wiH readily engage our most seri­  
 ous attention.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_earl_ver02:data:sn85054468:211102147:1898061201:0319/pct:7.0194057004245,113.99321266968326,18.147362037598544,4.796380090497737/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_earl_ver02:data:sn85054468:211102147:1898061201:0319/pct:4.686078252957234,75.99547511312217,12.101910828025478,3.2013574660633486/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -66,7 +66,7 @@ K. PATTERSON.
 James Madison.  
 President of the U. States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810011601:0317/pct:41.63286898254276,24.00975015234613,16.46975842003174,14.893357708714198/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810011601:0317/pct:41.62552891396333,24.00682427492079,16.472731546779503,14.89560484198554/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -105,7 +105,7 @@ nor is there any apprehension ol a doti.
 cicnty.  
 I have the honor to be, 8cc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810011901:0028/pct:22.478600669892074,37.337081523128035,17.231112765165612,16.291847687196526/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810011901:0028/pct:22.474418604651163,37.33231123035646,17.234108527131784,16.294024956347684/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

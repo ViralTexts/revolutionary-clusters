@@ -62,7 +62,7 @@ me with a blank book 1 will transcribe the mo&lt;t ]
 remarkable passages 1 meet with in my reading, !  
 which will serve to fix them upon mv mind
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215804:1848042601:0384/pct:31.46651270207852,77.76997119370478,12.62509622786759,13.096325440876836/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215804:1848042601:0384/pct:31.46348503800635,77.76450751721231,12.627088745630072,13.097747178118121/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -107,7 +107,7 @@ vor me with a blank book I will transcribe
 my reading, which will serve to fix them up­  
 on my mind
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186488:1848042801:0353/pct:122.92081898894727,301.9043917605907,50.317086428700854,55.61601243684415/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186488:1848042801:0353/pct:30.72463768115942,75.46632124352331,12.576992753623188,13.90220207253886/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -154,7 +154,7 @@ I transcribe the most remarkable passages
 f I meet with in my reading, which will  
 [serve to fix them upon my mind
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:0041562444A:1848050601:0167/pct:42.593811718235685,97.19861504564054,19.442615755979812,26.266918476550206/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:0041562444A:1848050601:0167/pct:33.02154195011338,75.33338754268986,15.056689342403628,20.361034314522687/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -195,7 +195,7 @@ with a blank book, 1 will transcribe the most remark­
 able passages I meet with in my reading, which will  
 serve to fix them upon my mind
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009597:00296026153:1848050601:0236/pct:34.38759065269944,79.33749257278669,14.766317485898469,11.58645276292335/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009597:00296026153:1848050601:0236/pct:34.38759065269944,79.34739552386611,14.786462530217566,11.58150128738364/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -290,7 +290,7 @@ most remarkable, passages I .meet with in my
 reading, which will serve lo fix them upon tily  
 mind.&#x27; . ,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn86053954:00237282358:1848052501:0199/pct:97.66355140186916,29.25755033557047,23.56697819314642,25.450922818791945/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn86053954:00237282358:1848052501:0199/pct:73.27827983795575,21.948406040268456,17.684636958554066,19.085570469798657/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -580,7 +580,7 @@ most remarkable passages I meet with in my
 reading, which will serve to fix them upon  
 my mind
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862750:1874101501:0180/pct:30.44656685596283,10.803795202291443,14.248838409912235,14.70640887934121/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862750:1874101501:0180/pct:30.44656685596283,10.809762501491825,14.257442780932713,14.703425229741018/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

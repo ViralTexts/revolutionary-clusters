@@ -95,7 +95,7 @@ I have the honor to he, gentlemen, wish
 great and sinrere :«-spect and esteem,  
 your very humble servant
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025001:00414216328:1823010701:0176/pct:25.63469675599436,52.526236070539866,18.1064880112835,27.0042194092827/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025001:00414216328:1823010701:0176/pct:25.63017803631236,52.520553872782344,18.10917210176861,27.004904081927016/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -144,7 +144,7 @@ on’s expedition wes (his spot. Every great
 powet ia Europe longs 10 have ity bat pooe is  
 witog Ihet another should acquiie ity To
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1823011501:0415/pct:57.77961205117623,17.280151497218604,22.18324391250516,23.541247484909455/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1823011501:0415/pct:57.77961205117623,17.280151497218604,22.197000962993535,23.55702844518089/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -427,7 +427,7 @@ thing in this.
 I have the honor to he, gcntl* men, with  
 great ami sincere respect mid esteem, you
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1823020701:0213/pct:67.03851820669333,29.453056449254166,15.807198484529573,25.95788242176075/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1823020701:0213/pct:67.02441077441077,29.44874981722474,15.809132996632997,25.95774235999415/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

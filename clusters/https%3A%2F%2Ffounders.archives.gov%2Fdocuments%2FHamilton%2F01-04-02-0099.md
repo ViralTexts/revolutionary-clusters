@@ -319,7 +319,7 @@ e under the sole and excluiive direction of the
 e United States, the officers of which to be  
 n appointed and comrr.iffioned by them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798011801:0002/pct:39.65677179962894,4.2427902763098295,33.92857142857143,89.83844179374906/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798011801:0002/pct:39.66256957328386,4.2427902763098295,33.93436920222634,89.84599124263929/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -965,7 +965,7 @@ j of the United Slates, the officers of which
 j ‘o &gt;»e appointed and commissioned by  
 I them.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804111701:0354/pct:59.407831900668576,19.25133689839572,18.548233046800384,59.54088952654232/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804111701:0354/pct:59.396485867074105,19.248826291079812,18.551056786350905,59.53747174404452/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1080,7 +1080,7 @@ clusive direction of the United States,
 the officers of which to be appointed  
 and commissioned by them.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808071301:0002/pct:39.69622331691297,4.314754098360655,36.69950738916256,91.35737704918033/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808071301:0002/pct:39.69622331691297,4.314754098360655,36.71319102353585,91.37049180327868/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1197,7 +1197,7 @@ der the sole and exclusive direction of the
 United States, the officers of which to be ap­  
 pointed and commissioned by them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808080201:0109/pct:22.96903460837887,10.837004405286343,35.77413479052823,85.77721837633732/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808080201:0109/pct:22.964851575305044,10.835640573873647,35.77369028106599,85.77061834046481/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1347,7 +1347,7 @@ siye direction of the United Stairs, tne oflicecs
 of which to be appointed and commissioned by  
 tliein
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810011301:0315/pct:41.54291923216226,5.010261982373536,17.873958710612097,31.039478449837016/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810011301:0315/pct:41.53539742893355,5.009657170449058,17.876757800712173,31.039755351681958/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1455,7 +1455,7 @@ President of each {hall beappointed
 have a negative npon the laws about  
 to be pafled in the slate of which h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1810071701:0538/pct:41.70972287458901,17.56743404801897,17.081571943009237,64.10433751605572/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1810071701:0538/pct:41.720160743176244,17.56743404801897,17.086790877302853,64.10763099825445/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1487,7 +1487,7 @@ cersy, and ambassadoure ie foreign nations, in­
 cluded ; o have the power of pardoning all  
 offences, e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1811032001:0378/pct:3.5714285714285716,78.24247195433969,22.276581865622962,12.52706160204684/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1811032001:0378/pct:3.5714285714285716,78.24575214852719,22.292889758643184,12.533621990421834/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1523,7 +1523,7 @@ and exclusive dirvectio n of the United States,
 the officers of which to be appointed and  
 commissioned by them. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1811032001:0378/pct:3.6692759295499022,3.1293052548710882,45.45009784735812,94.00708521944499/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1811032001:0378/pct:3.674711893889976,3.1293052548710882,45.455533811698196,94.00708521944499/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1560,7 +1560,7 @@ o have a NEGATIVE upon all laws about
 to be passed, and the execution of all laws  
 passed ; to have the direction of war, whep
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1811040301:0385/pct:74.25178147268409,82.8782651552489,21.425178147268408,15.564317397732873/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1811040301:0385/pct:74.26233834784904,82.8782651552489,21.425178147268408,15.567603088549367/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1580,7 +1580,7 @@ eign affuirs ; to have the nomination of all
 other officers, and ambassadors to foreign na­  
 tions inciuded ; to have thepower of pardon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1811040301:0386/pct:4.168002564924655,5.304518664047151,21.689644116704073,4.165029469548133/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1811040301:0386/pct:4.168002564924655,5.304518664047151,21.705674895799937,4.165029469548133/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1610,7 +1610,7 @@ menty, With a negative upob ihe laws of the
 State, would certainly * have given us the  
 substance of the British Constitution.” Au
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1811040301:0386/pct:4.168002564924655,10.422396856581532,21.59345944212889,10.530451866404714/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1811040301:0386/pct:4.168002564924655,10.4256712508186,21.604146628192797,10.537000654878847/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1827,7 +1827,7 @@ i Price of Labour in the Reign of Henry VIII.
 &#x27; VVe extract the following paragraph from the ,  
 Household Hooks of Henri/ VHI.: it relates to the 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216389:1827112101:0364/pct:62.07071561495517,41.518275538894095,19.269159194721706,21.97750702905342/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216389:1827112101:0364/pct:62.06021650879567,41.513412205692866,19.27153811456924,21.978837218382726/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1847,7 +1847,7 @@ good behaviour—his election to be ir-ade
 by electors, chosen by electors chosen  
 by the people in the election districts
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1828011001:0435/pct:39.34495959166312,93.93939393939394,17.630795406210122,4.128440366972477/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1828011001:0435/pct:39.33659366361897,93.92633773453787,17.632362321922177,4.131341209173037/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1884,7 +1884,7 @@ to preside a* Chief Magistrate, when,
 it the end of 8 years, no voluntarily  
 resigned, andretired to his estate o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1828011001:0435/pct:57.91152700978307,12.78843480678343,17.715865589111015,16.041145398943563/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1828011001:0435/pct:57.89921326812673,12.786657400972897,17.71741441633,16.042390548992355/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2212,7 +2212,7 @@ ved and referred to a committee, to provide, that
 “the jurisdiction of the Supreme Court shall ex­  
 tend to all controversies between tho Unite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184340:1832100201:0330/pct:35.83428246013668,47.151448879168946,14.777904328018224,5.992345544013122/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184340:1832100201:0330/pct:35.829181494661924,47.14629346162257,14.780545670225386,5.995334936948757/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2235,7 +2235,7 @@ wbte.i be is (lovernor, or President.”
 At a subsequent period, a proposition was moved and re­  
 f_ rre.| (oa CommUHe, to provide, that “the jurisdiction o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1832100201:0170/pct:3.7664519742369085,46.94597574421169,15.541865023802856,4.057331863285556/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1832100201:0170/pct:3.76592468150637,46.94080035277257,15.544355779551076,4.0605592915150845/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2355,7 +2355,7 @@ to be elected to serve DURING GOOD BEHA­
 VIOUR,”’ that is for life. “To have a NEGATIVE  
 upon all laws about to be passed. *’This is an ab
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1837092601:0559/pct:19.457617071724954,27.430661383724473,14.137522228808535,9.407700904195876/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1837092601:0559/pct:19.462556806955146,27.43743438653527,14.142461964038727,9.407700904195876/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2379,7 +2379,7 @@ Ibid. p. 226.
 Again. ““The Sapreme Judicial authority of the  
 United States to be vested in ——— judges to hol
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1837092601:0559/pct:19.62062833432128,37.30569948186528,14.078245406046236,4.592095905719801/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1837092601:0559/pct:19.625568069551473,37.309085983270684,14.09306461173681,4.592095905719801/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2431,7 +2431,7 @@ laws whatsoever, subject to the negative hereafter
 mentioned &quot; The negative he speaks of was to be ex­  
 ercised by a Governor, elected &quot;to serve wrj.n
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1841080601:0391/pct:19.68564016481001,73.7302624962285,16.099496413856247,3.6005229809916526/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1841080601:0391/pct:19.68564016481001,73.73696738073687,16.104583142581006,3.5971705387374704/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2488,13 +2488,13 @@ No State to have any forces, land or naval, and
 their militia to be under the sole and exclusive di­  
 rection of the United States.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153218:1844042701:0207/pct:30.401662049861496,65.91589925662932,12.326869806094184,5.680683457228448/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153218:1844042701:0207/pct:30.40627885503232,65.92329597988092,12.32225300092336,5.680683457228448/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The American review : a Whig journal of politics, literature, art, and science_](https://archive.org/details/sim_american-whig-review_1847-07_6_1/page/n10/mode/1up?view=theater)
+## [From _The American Review: a Whig Journal Devoted to Politics and Literature (1848-1850)_](https://archive.org/details/sim_american-whig-review_1847-07_6_1/page/n10/mode/1up?view=theater)
 
 #### 1847-07-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -2541,7 +2541,7 @@ ton, was rejected. The people had not become
 But this party did succeed in engrafting into  
 the Federal Constitution a judiciary for life, wit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024652:00393348677:1850051301:0249/pct:66.87066503467972,21.350731287639807,14.585883312933497,6.854029251505592/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024652:00393348677:1850051301:0249/pct:66.85702631042219,21.34767025089606,14.588007342443403,6.85663082437276/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2563,7 +2563,7 @@ or President of oa h State shall be appointed by
 the General Go eminent, and have n negative  
 on the laws of the State.&#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661472:1850082401:0244/pct:6.241482692831834,73.91998297510109,13.382393022621969,3.5539476484358374/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661472:1850082401:0244/pct:6.250567820477878,73.92707668298219,13.382393022621969,3.557494502376392/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2599,7 +2599,7 @@ laws passed. The -Senate to have the sole power of de­
 claring war.&quot; and the President, the &quot;entire direction,  
 when authorised or begun;&quot; and with a view of governin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664333:1853052701:0463/pct:16.57151222368614,39.260861388000755,16.673986239203632,10.833176603347752/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664333:1853052701:0463/pct:16.57151222368614,39.26399598771237,16.67886595422827,10.836311203059369/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2625,7 +2625,7 @@ and vested with power to rule a great empire. Thoy were
 given the sole power to declare and carry on war, and to  
 make and conclude treaties. The President could place h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664333:1853052701:0463/pct:17.03996486605182,50.441978559337976,16.395842482799004,5.858566861011849/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664333:1853052701:0463/pct:17.044844581076465,50.44511315904959,16.400722197823647,5.864836060435082/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2655,7 +2655,7 @@ the Legislature, with the general harmony and
 interest of the Union, provided that two-thirds  
 of the members of each house assent to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664382:1861050301:0618/pct:12.087469814864502,50.14679976512038,13.911993560504428,6.772362497553337/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664382:1861050301:0618/pct:12.087469814864502,50.14679976512038,13.911993560504428,6.778886931558687/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2854,7 +2854,7 @@ thority of the United States to be vested
 in a Governor, to be elected to serve du­  
 ring good behavior, i, e, for life
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn85025181:00237287952:1864012301:0464/pct:119.75218658892128,82.744702320888,50.72886297376093,19.316707510451202/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn85025181:00237287952:1864012301:0464/pct:29.94896099161502,20.686175580222,12.686839227123587,4.829176877612801/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2885,7 +2885,7 @@ a soven years&#x27; war for independence. I
 have a few more extracts from the wri­  
 tings of Mr. Jefferson, which will illustrat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn85025181:00237287952:1864012301:0464/pct:119.38775510204081,102.4073807121234,51.31195335276968,47.22502522704339/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn85025181:00237287952:1864012301:0464/pct:29.85781990521327,25.60184517803085,12.832664965366387,11.806256306760847/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2931,7 +2931,7 @@ dors to foreign nations included) subject to the appre
 tation or rejection of the Senate.&quot; This provision was  
 nodified, in his full plan of a constitution, to read
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_delphi_ver02:data:sn83030214:00206530832:1866052601:0186/pct:152.97297297297297,280.695873309444,47.583947583947584,11.281932724540516/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_delphi_ver02:data:sn83030214:00206530832:1866052601:0186/pct:50.990990990990994,93.565291103148,15.86131586131586,3.7606442415135053/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2953,7 +2953,7 @@ cers (ambassadors to foreign nations included)
 subject to the aporobatlon or rejection ot the  
 Senate.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_ewing_ver01:data:sn83025925:0028077618A:1866052801:0191/pct:8.048433048433049,58.59703164379726,18.928062678062677,4.844581349761971/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_ewing_ver01:data:sn83025925:0028077618A:1866052801:0191/pct:6.03739982190561,43.95127415289835,14.211932324131789,3.6404368524222908/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3007,7 +3007,7 @@ havior, and had a permanent salary. That plan was in­
 troduced in the Convention on the 1sth of June, 1781, and  
 is found in the first volume of Elliott&#x27;s Debates on th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_euclid_ver01:data:sn83030214:00206530881:1868042401:0789/pct:151.50569511624278,193.9509954058193,47.68294585738805,14.066943775978999/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_euclid_ver01:data:sn83030214:00206530881:1868042401:0789/pct:50.50189837208093,64.65033180193977,15.894315285796017,4.688981258659666/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3036,7 +3036,7 @@ the Convention on the 18th of June, 1787,
 ad is to be found in the first volume of Elliott&#x27;s  
 Debates on the Federal Constitution&quot; (page 108). Mr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743622:1868042401:0303/pct:149.43521594684384,18.063700126480395,51.69435215946844,16.49994250891112/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743622:1868042401:0303/pct:49.81173864894795,6.021233375493465,17.231450719822814,5.499980836303706/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3193,7 +3193,7 @@ Hamilton would thus have established
 a government modeled after the British  
 form. He had no confidence in the peo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:fu:batch_fu_frenchfries_ver01:data:sn82015289:00414180553:1880082401:0114/pct:14.701684270625178,16.43533123028391,12.789037967456466,14.773922187171399/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:fu:batch_fu_frenchfries_ver01:data:sn82015289:00414180553:1880082401:0114/pct:14.701684270625178,16.442341395022783,12.789037967456466,14.773922187171399/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3225,7 +3225,7 @@ of the executive to be as follows : To
 have a neaative on all laics about to be  
 passed, and the execution oj allm laic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_frank_ver01:data:sn85033964:00296020540:1880100701:0178/pct:42.76923076923077,17.16785128485511,49.8974358974359,106.3787133223984/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_frank_ver01:data:sn85033964:00296020540:1880100701:0178/pct:32.10161662817552,12.885000911244761,37.46471644855016,79.7885912156005/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3257,7 +3257,7 @@ party ? Read his speeches in the con­
 gress of the United States, He not only  
 enunciates the heresies referred to, bu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_frank_ver01:data:sn85033964:00296020540:1880100701:0178/pct:67.6923076923077,22.689994532531436,24.974358974358974,16.42063058137416/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_frank_ver01:data:sn85033964:00296020540:1880100701:0178/pct:50.80831408775982,17.022052123200293,18.758018988965873,12.32002915983233/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3343,7 +3343,7 @@ exeeeding 599,900,
 The question being divided on the  
 first part, &quot;shall the President be choe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477874:1881030201:0884/pct:218.50393700787401,355.81797235023043,39.68503937007874,35.944700460829495/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477874:1881030201:0884/pct:54.636739515652685,88.95449308755761,9.923213230950974,8.986175115207374/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3380,7 +3380,7 @@ appointed
 After two months of able discussion, a series  
 of resolutions was passed as the general sens
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044772:1881082401:0261/pct:183.20284697508896,128.7970140683319,49.9644128113879,42.434682744760266/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044772:1881082401:0261/pct:45.81701673193307,32.19925351708297,12.495550017799928,10.608670686190067/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3405,7 +3405,7 @@ and the militia , to be under the sole and
 exclusive direction f the United States.  
 This is manifestly a .consolidated n
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eeyore_ver01:data:sn87052143:00294556588:1884040501:0627/pct:100.19625603864735,25.570285441299415,13.194444444444445,7.47641227755882/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eeyore_ver01:data:sn87052143:00294556588:1884040501:0627/pct:75.16231315113997,19.180699868625343,9.904876943983089,5.61328078347068/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3460,7 +3460,7 @@ the Queen of England.
 “Xue President was to be elected by  
 electors chosen by the Senatorial district
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_ginger_ver02:data:sn87068097:00383340743:1890123101:0185/pct:16.05344295991778,41.973766396002496,12.600205549845837,7.21424109931293/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_ginger_ver02:data:sn87068097:00383340743:1890123101:0185/pct:16.05014385532265,41.967213114754095,12.60275380189067,7.2170179547228726/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3558,7 +3558,7 @@ that &quot;the supreme Executive should have, with
 the advice and approbation of the Senate, the  
 power of making all treaties.&quot; These variou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:0017504291A:1897022701:0747/pct:232.74674827850038,148.05115712545677,50.87987758224943,25.03045066991474/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:0017504291A:1897022701:0747/pct:58.186687069625094,37.01278928136419,12.719969395562357,6.257612667478685/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

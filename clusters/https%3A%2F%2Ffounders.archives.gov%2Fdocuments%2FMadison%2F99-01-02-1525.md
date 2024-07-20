@@ -330,7 +330,7 @@ ij_ on that subject, and which need not,
 m be repeated.  
 m I have, fee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808041501:0002/pct:58.24922760041195,2.847979474021809,38.10504634397528,95.63822963438102/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808041501:0002/pct:58.25609337452798,2.847979474021809,38.11191211809132,95.6425058798375/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -360,7 +360,7 @@ and that it could not be founded on any
 supposed illegality of the mark of neutrals ,  
 between these ports. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216079:1808050301:0536/pct:31.994665085951393,29.518449030644152,23.695909899229402,12.936656839095864/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216079:1808050301:0536/pct:31.98992443324937,29.515812042165447,23.697337877216377,12.93847894705497/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -382,7 +382,7 @@ Lv iiic nuiuu iuuAuuca, aa auiuoriscu u&gt; iuu taw
 Of nations.”  
 In the second letter, Mr, Madison enters into 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808052401:0034/pct:3.8716814159292037,12.322154471544716,17.699115044247787,4.28099593495935/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808052401:0034/pct:3.870967741935484,12.320589356026927,17.70199692780338,4.284686057834794/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -446,7 +446,7 @@ ses from 4. own order- ami measure*, mm­
 itestly uttau&#x27;.l; -vired by the ! -w of r.ati-.ns — l  
 The re-p&lt;c( i-l- h the I - 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808092701:0173/pct:23.923617366240318,11.136107986501687,35.95748513781301,85.76427946506686/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808092701:0173/pct:23.919308357348704,11.13471632091977,35.957012487992316,85.75772723485795/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -497,7 +497,7 @@ x iiu v l ^ c\. .
 (Signed)  
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808092701:0173/pct:42.17258151684381,27.109111361079865,17.63646189875698,20.39745031871016/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808092701:0173/pct:42.164985590778095,27.105723569107724,17.639289145052835,20.39906689994168/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -624,7 +624,7 @@ respect and consideration, sir, your
 moit obedient,  
 (Signed) JAMES MADISON. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808112301:0001/pct:6.342494714587738,9.220135628586332,62.86757639823179,89.5018257694314/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808112301:0001/pct:6.355307835223269,9.220135628586332,62.86757639823179,89.5018257694314/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -722,7 +722,7 @@ t t-l.s niidi i tl e observations alre,dy made on that
 -u-.j-ft, an&lt;J which need not he repeated.  
 1 am, 6c c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808112501:0227/pct:54.35056746532156,3.7256841411144084,43.20302648171501,94.0158259149357/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808112501:0227/pct:54.3368633383762,3.7250700510960937,43.19843671205245,94.0044503049283/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -796,7 +796,7 @@ ct the principle Osretaliation again:; the French
 (I)? made &quot;,on that subject, and which need  
 lnot be repeated.ss &quot; &#x27; &#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216092:1808120201:0012/pct:28.586217095533865,19.79826832098545,23.60248447204969,48.237079353744534/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216092:1808120201:0012/pct:28.5819902410173,19.79650124955373,23.60392330819656,48.2357491372129/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -900,7 +900,7 @@ principle of retaliation against the French decree
 on that subject, and which need not be repeat­  
 ed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808120201:0248/pct:4.6546266989387455,42.615403757621,18.65574380934649,48.58778151051387/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808120201:0248/pct:4.6537602382725245,42.610102015426726,18.65847604864731,48.58588371900141/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1034,7 +1034,7 @@ that subject, and which need not be
 repeated.  
 1 am, See
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808120901:0401/pct:39.9812030075188,12.477650063856961,35.75187969924812,81.72413793103448/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808120901:0401/pct:39.97368915617365,12.476056697739752,35.75142517070726,81.71795854084195/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1182,7 +1182,7 @@ which should be aimed at its adversary, thio’
 neutral tovnmerce, may be culpable, and ren­  
 der them accessaries.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809011101:0302/pct:68.77351392024079,30.12397359523426,20.767494356659142,6.826597971341169/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809011101:0302/pct:68.75626880641926,30.11912427559562,20.768555667001003,6.829523502897618/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1204,7 +1204,7 @@ tiun, have by measure- of active offence, or
 bv- the exclusion of British ships, taken a  
 part in the firesent w«rf* — .that our pr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810102601:0206/pct:23.659021130576125,9.276710316974667,17.80747697309012,4.564924733814711/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810102601:0206/pct:23.65474900686168,9.275575134605972,17.810280486336826,4.568445097079458/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1231,7 +1231,7 @@ the principle to a neutral trade between
 ports of different countries confessedly ope  
 in times of peace as well as of war.” I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810111601:0230/pct:40.78731547293603,29.489533602644144,17.149626389648258,7.259150446811115/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810111601:0230/pct:40.7798833819242,29.485924112607098,17.152575315840622,7.26234190126479/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -172,7 +172,7 @@ of legislation where a manufacturer of lin­
 en cloth-is forbidden to bury his own child  
 in a linen shroud, in order to favour h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792032901:0002/pct:71.16507838917921,32.1747572815534,21.241930525668614,61.80582524271845/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792032901:0002/pct:71.16507838917921,32.1747572815534,21.241930525668614,61.810679611650485/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -230,7 +230,7 @@ b&quot; repelling its example in violating the
 latter, will make their.feiyes a pattern to  
 tiiat and all other governments
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792032901:0003/pct:6.6057838660578385,7.998446903513881,22.678843226788434,30.98427489807804/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792032901:0003/pct:6.613394216133942,8.003300330033003,22.69406392694064,30.99883517763541/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -572,7 +572,7 @@ the external things of the world, in total ex
 elusion of the right of any other individual  
 in the universe. And yet there are rery few
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_lilac_ver02:data:sn82015408:00237289687:1851031501:0184/pct:13.927738927738927,122.33052724856003,18.312937062937063,3.699601240584847/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_lilac_ver02:data:sn82015408:00237289687:1851031501:0184/pct:10.448848732148061,91.74789543642002,13.742349169338386,2.7802392556490916/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -698,7 +698,7 @@ world. In total exclusion of the right of any
 other individual in the universe. And yet there  
 are few who rive themselves the trouble to con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_amethyst_ver01:data:sn89077510:00332897883:1870021201:0554/pct:5.327930361698934,19.770192632646165,11.331232177697734,1.9263264616424467/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_amethyst_ver01:data:sn89077510:00332897883:1870021201:0554/pct:5.327130852340936,19.767965758053617,11.33328331332533,1.928925433656229/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -770,7 +770,7 @@ external things of the world, in
 total exclusion of any other indi­  
 vidual, and yet there; are few tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_dogwood_ver01:data:sn88085488:00211108083:1896062001:0824/pct:12.24580017683466,45.462633451957295,20.225464190981434,4.300118623962041/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_dogwood_ver01:data:sn88085488:00211108083:1896062001:0824/pct:12.24580017683466,45.46634045077106,20.236516357206014,4.307532621589561/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -809,7 +809,7 @@ ernment, that alone is a just government which
 impartially secures to every man whatever is his  
 own.-JaMeS Madison, Fol, 4, dage 478
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:00175042933:1897041301:0388/pct:287.6119402985075,36.88413439807142,49.701492537313435,15.729998493295163/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:00175042933:1897041301:0388/pct:71.9298245614035,9.221033599517854,12.430011198208287,3.9324996233237908/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -831,7 +831,7 @@ ombraoes everything to which a man may at­
 tach a value and have a right, and which leaves  
 to every one else the like advantage.Jame
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:00175042933:1897041301:0388/pct:287.6865671641791,77.8665059514841,50.0,15.127316558686154/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:00175042933:1897041301:0388/pct:71.9484882418813,19.466626487871025,12.504665920119448,3.7818291396715384/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -901,7 +901,7 @@ ment that alone Is a just government
 which impartially necures to every man  
 whatever is his own James Madiso
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_airplane_ver01:data:sn86069309:00100481728:1897042101:0735/pct:42.64157973174367,20.690627202255108,16.151266766020864,6.032417195207893/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_airplane_ver01:data:sn86069309:00100481728:1897042101:0735/pct:31.997763697353708,15.517970401691333,12.113306000745434,4.538407329105003/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -925,7 +925,7 @@ thing to which a man may attach a value
 and have a right and which leaves to  
 every one else the like advantag
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_airplane_ver01:data:sn86069309:00100481728:1897042101:0735/pct:42.36214605067064,38.365045806906274,16.114008941877795,6.990838618745595/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_airplane_ver01:data:sn86069309:00100481728:1897042101:0735/pct:31.792769288110325,28.780831571529244,12.094670145359672,5.2431289640591965/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -950,7 +950,7 @@ ealue and have aright, and which leaves
   
 to every one else the like advantag
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn90061417:00294559991:1897050701:0076/pct:250.64935064935065,102.22993062438057,43.44155844155844,18.63230921704658/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn90061417:00294559991:1897050701:0076/pct:62.68268918480026,25.557482656095143,10.863916856122117,4.658077304261645/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

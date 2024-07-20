@@ -97,7 +97,7 @@ your fate is fixed.” Thus far and no faitber,
 I shall go in my opinions.  
 1 am, dear Lund, &amp;c.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215634:1836072501:0155/pct:43.83741258741259,14.286791314837153,17.559003496503497,26.093184559710494/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215634:1836072501:0155/pct:43.832623183655635,14.285714285714286,17.560726901926508,26.0937303681367/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -171,7 +171,7 @@ late is fixed. &#x27; Thus far and no farther
 I shill ;o in my opinions.  
 1 am. dear Lund. Jur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186932:1836080401:0528/pct:29.64130271649407,25.043864779506375,12.396818250037521,34.20283074043748/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186932:1836080401:0528/pct:29.63685474189676,25.04093567251462,12.399959983993597,34.20272904483431/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -415,7 +415,7 @@ nr not, the die being east, your fata ia fixed.” Thua
 far end no further I shall go in mv opinion*.  
 1 a in, dear Lund, your, Ac. Ac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182951:1841041501:0259/pct:39.33847850055127,36.310679611650485,16.979051819184125,18.670649738610905/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182951:1841041501:0259/pct:39.329805996472665,36.305256869773,16.980820105820104,18.671594982078854/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -476,7 +476,7 @@ the die being cast, your fate is fixed.&quot; Thus
 far and no farther I shall go in my opiions.  
 I am, dear Lund, your, &amp;c. c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00200290197:1841042301:0069/pct:69.74169741697418,112.33318668426456,50.996309963099634,109.57618419123038/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00200290197:1841042301:0069/pct:17.435424354243544,28.08329667106614,12.749077490774908,27.394046047807596/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -691,7 +691,7 @@ not, the die being cast, your fate is fixed.&quot; Thus
 far and no surther I shall go in my opinions.  
 I am, dear Lund, yours, &amp;c &amp;c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016867:00295877637:1841060501:0763/pct:130.09868421052633,227.60038371933672,61.92434210526316,105.90653693298616/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016867:00295877637:1841060501:0763/pct:32.53805018510901,56.90009592983418,15.48745372274784,26.47663423324654/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -758,7 +758,7 @@ fate is fixed. Thus far, and no further, I
 should go in my opinion. ”  
 -Aw th* “L
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_galena_ver02:data:sn88065721:00279521687:1891090301:0389/pct:55.27266754270696,61.840120663650076,12.910643889618923,17.855899756352244/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_galena_ver02:data:sn88065721:00279521687:1891090301:0389/pct:55.27814279456855,61.84785551301388,12.910643889618923,17.85203233167034/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -796,7 +796,7 @@ agreeable or not. the die being cast, you?
 fate is fixed. Thus far, aud no further, I  
 should go in my opinion, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_annapolis_ver01:data:sn85025350:00415627683:1891110701:0420/pct:27.33812949640288,73.6283185840708,15.224577095080692,15.79646017699115/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_annapolis_ver01:data:sn85025350:00415627683:1891110701:0420/pct:21.192485432991763,57.062297580491524,11.794253566405466,12.242331872737664/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -839,7 +839,7 @@ ly, because 1 know it is to no purpose
 to advise her to refrain, when she has  
 obtained, it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fugazi_ver01:data:sn89051168:00393343084:1899021901:0933/pct:46.90248565965583,38.71225222828256,13.996175908221797,5.441000399095384/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fugazi_ver01:data:sn89051168:00393343084:1899021901:0933/pct:46.89351940355573,38.70710295291301,13.998279487669661,5.443602021814312/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -948,7 +948,7 @@ fixed and I have gone too far to retract.’ &quot;
 What more could be said in dealing w.th  
 such a case? Men and women upon who
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_fletcher_ver01:data:sn86063034:00414182264:1899040901:1086/pct:31.431334622823986,5.464975845410628,26.228239845261122,91.03260869565217/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_fletcher_ver01:data:sn86063034:00414182264:1899040901:1086/pct:31.437782076079948,5.470008051529791,26.228239845261122,91.03260869565217/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -987,7 +987,7 @@ too far to retract.&quot;&quot;
 What more could be said in dealing  
 with such a case? Men and wome
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_nuthatch_ver01:data:sn84036012:0021247728A:1899042101:0280/pct:89.64041095890411,233.15436241610738,38.84845890410959,34.73154362416108/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_nuthatch_ver01:data:sn84036012:0021247728A:1899042101:0280/pct:29.88013698630137,77.71812080536913,12.949486301369863,11.577181208053691/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

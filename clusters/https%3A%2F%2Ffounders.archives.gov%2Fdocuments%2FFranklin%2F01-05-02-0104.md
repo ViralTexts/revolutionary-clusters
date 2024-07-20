@@ -1898,7 +1898,7 @@ pear most equal and just, considering the abil­
 ity and other circumstances of the inhabitants  
 ..&quot;in the general colonies.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_hemet_ver01:data:sn94052989:00175040341:1894040301:0041/pct:1.516348128257779,57.74598743893929,13.662928447322697,5.733891602698302/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_hemet_ver01:data:sn94052989:00175040341:1894040301:0041/pct:1.516348128257779,57.74986430952935,13.678723740325383,5.733891602698302/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1929,7 +1929,7 @@ equal and just considering the ability
 and other circumstances of the inhabi­  
 tants in the general colonie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_boozer_ver01:data:sn85058130:0017504842A:1894040601:0179/pct:65.1349614395887,10.498806953755254,19.28020565552699,10.37382115668674/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_boozer_ver01:data:sn85058130:0017504842A:1894040601:0179/pct:43.43564197332476,6.999204635836837,12.855535915153464,6.919668219520509/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

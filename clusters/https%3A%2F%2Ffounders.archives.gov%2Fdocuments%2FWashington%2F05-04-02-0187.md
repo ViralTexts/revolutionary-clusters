@@ -39,7 +39,7 @@ religious rights, true religion affords to govern­
 ment its surest support.  
 We implore the Lord God to be your fun an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789112501:0001/pct:60.32592592592592,70.50938337801608,26.103703703703705,3.159708923783991/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789112501:0001/pct:60.333333333333336,70.52374569130602,26.103703703703705,3.1644963615473/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -58,7 +58,7 @@ you that i»o circumstance of my life has affected me
 more sensibly, ofr produced more pleasing emotions  
 than the friendly congratulations and strong afliir
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789112501:0001/pct:60.20740740740741,90.36767522022214,26.192592592592593,4.136346227499042/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789112501:0001/pct:60.22962962962963,90.38203753351206,26.177777777777777,4.141133665262352/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -111,7 +111,7 @@ for my present and future happiness ; and I be­
 feecli the Almighty to take you under his special  
 care. G. WASHINGTON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789112501:0002/pct:20.574162679425836,5.595077869640454,25.049254151421334,31.051720822918668/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789112501:0002/pct:20.574162679425836,5.609498173428187,25.063326766113143,31.046914054989426/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -136,7 +136,7 @@ is gaining Strength and respectability among
 the citizens of this COURITy tn Propesidags  
 its operations are known, and its effelts felt,”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789120901:0502/pct:74.99395989369413,18.544414428730335,21.212853346218893,8.94644843476879/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789120901:0502/pct:74.99395989369413,18.544414428730335,21.228960296367884,8.95704221621908/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -158,7 +158,7 @@ heartily join with vou. While jii-t government
 protects ad in their religions right*, their religion nf  
 fords to government its surest support
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1855051501:0633/pct:69.36665230504093,84.60801226758673,13.988223466896452,3.2010734138393713/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1855051501:0633/pct:69.37622672219828,84.61440163567823,13.988223466896452,3.2010734138393713/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -186,7 +186,7 @@ rights, true religion affords to govern.
 ment its surest support. Page 495,  
 vol. NI
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn84020048:00295878034:1855101101:0009/pct:340.80645161290323,229.76072490443156,49.91935483870968,24.238991929774883/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn84020048:00295878034:1855101101:0009/pct:85.20161290322581,57.44018122610789,12.47983870967742,6.059747982443721/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -293,7 +293,7 @@ and trees, etc.; thus leaking use of com­
 mon and simple similitudes.  
 church that has grown up to take car
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_morrow_ver01:data:sn86081381:0029602871A:1880041001:0350/pct:9.661354581673306,30.471984543196246,20.1195219123506,23.84764007728402/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_morrow_ver01:data:sn86081381:0029602871A:1880041001:0350/pct:9.661354581673306,30.471984543196246,20.139442231075698,23.861440794921336/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

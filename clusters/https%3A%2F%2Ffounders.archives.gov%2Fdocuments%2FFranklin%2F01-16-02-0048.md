@@ -810,7 +810,7 @@ of the seeds thrown into the ground in a kind of
 continual miracle, wrought for his innocent lile  
 and his virtuous industry.FrANKLiN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1841020801:0265/pct:12.934220251293421,97.2810493236781,57.20620842572062,17.215466593796968/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1841020801:0265/pct:3.2335550628233554,24.320262330919526,14.301552106430155,4.303866648449242/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -910,7 +910,7 @@ to acquire wealth. The firsi is by war, as the
 Romansdid, in plunderingtheirconquered neigh­  
 bors ihis is robbery; ihe second by commerce,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn83035366:00296029099:1848122201:0647/pct:106.4405487804878,88.61446600624237,18.940548780487806,3.012620436965667/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn83035366:00296029099:1848122201:0647/pct:79.88560533841753,66.46763468584611,14.223069590085796,2.2526801465599133/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -930,7 +930,7 @@ wrought by the hand of God in his favor, as a
 reward for his innecem life and his virtuous in­  
 dustry. Franklin.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn83035366:00296029099:1848122201:0647/pct:106.51676829268293,92.60415253087257,18.978658536585368,4.152530872574298/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn83035366:00296029099:1848122201:0647/pct:79.94280266920877,69.45311439815443,14.242135367016205,3.1211833355950604/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -970,7 +970,7 @@ acle, wrought By the hand of God in his favor, as a
 reward for his innocent life and his virtuous indus­  
 try. -- Franklin. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ingstad_ver01:data:sn90068957:00296027005:1849032401:0026/pct:106.503920171062,72.30367252141095,21.632216678545973,11.540136449412106/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ingstad_ver01:data:sn90068957:00296027005:1849032401:0026/pct:79.89663161646766,54.23138336478444,16.23596506861522,8.65147336333285/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1288,7 +1288,7 @@ continunl miracle wrought by the hand
 of God w lus favor as a revward for his  
 innocent lite and virtuous industry.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021169:00514152792:1853111001:0190/pct:16.75322748182223,76.90382941688425,12.257011426027601,7.3433420365535245/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021169:00514152792:1853111001:0190/pct:16.75322748182223,76.90745575863069,12.271850422911411,7.350594720046417/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1328,7 +1328,7 @@ a kind of continued miracle wrought by the
 hand of God in his favor, as a reward for his  
 innocent life and virtuous industry.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340172:1855030301:0039/pct:27.536480686695278,51.112856768787644,12.49785407725322,13.197172034564023/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340172:1855030301:0039/pct:27.531754205286646,51.106165728498496,12.5,13.198717109569316/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1385,7 +1385,7 @@ wrought by the hand of God in his favor,
 as a reward for hit inooeeni life acd  
 virtuous industry.&#x27;*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn88059762:00279528566:1855081601:0329/pct:16.825723094993393,45.13821138211382,13.096461606225224,7.273712737127371/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn88059762:00279528566:1855081601:0329/pct:16.83551118289042,45.13821138211382,13.101355650173739,7.273712737127371/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1411,7 +1411,7 @@ of continual miracle, wrought by the hand of God
 in his favor, as a reward for his Innocent Lite and his  
 virtuous Industry
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182987:1856060501:0306/pct:4.093771868439468,66.84456304202801,14.940517844646607,6.270847231487658/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182987:1856060501:0306/pct:4.0930557984957145,66.83564567769477,14.942277418226343,6.273345784418357/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1488,7 +1488,7 @@ tinued miracle, wrought by the hand of
 God in his favor, as a reward for his inno­  
 cent life and his virtuous industry&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477837:1861040301:0504/pct:185.65471226021685,292.03515134607335,60.80066722268557,75.15692565211326/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477837:1861040301:0504/pct:46.413678065054214,73.00878783651834,15.200166805671392,18.789231413028315/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1514,7 +1514,7 @@ tinued miracle, wrought by the hand of
 God in his favor, as a reward for his inno­  
 cent life and his virtuous industry&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477849:1861040302:0340/pct:192.78169014084506,334.9773821683934,61.61971830985915,31.869254341164453/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477849:1861040302:0340/pct:48.195422535211264,83.74434554209834,15.404929577464788,7.967313585291113/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1540,7 +1540,7 @@ wrought by the hand of God in his favor as a
 reward for his innocent life and bis virtuous  
 industry
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn85054616:00212477795:1861042401:0261/pct:64.46188340807174,116.35570632420645,19.58680333119795,8.032469105888055/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn85054616:00212477795:1861042401:0261/pct:48.36590836270426,87.26677974315483,14.690804229413649,6.033438332929489/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1565,7 +1565,7 @@ in a kind of continued miracle, wrought bv the
 band of God iu favor as a reward for his inno­  
 cent life, and his virtuous industry
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn86058108:00279557360:1863071801:0337/pct:2.1887550200803214,67.33133433283358,13.313253012048193,6.926536731634183/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn86058108:00279557360:1863071801:0337/pct:2.2038152610441766,67.34257871064467,13.303212851405622,6.922788605697152/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1591,7 +1591,7 @@ acle, wrought by tiie hand of God in his
 favor, as a reward for his innocent life  
 and liis virtuous industry.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014487:00279557244:1865121601:0821/pct:33.562790697674416,60.74880871341048,12.427906976744186,7.120490129339687/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014487:00279557244:1865121601:0821/pct:33.57674418604651,60.75221238938053,12.413953488372092,7.123893805309734/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1652,7 +1652,7 @@ cle wrought by the hand of God, in his fa­
 vor, as a reward for his innocent life and his  
 virtuous industry,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349499:1868112001:0056/pct:73.20730117340287,80.55768738807879,11.359191655801824,11.882834484522895/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349499:1868112001:0056/pct:73.1953723317582,80.54738457603274,11.36141437184292,11.884512085944495/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1702,7 +1702,7 @@ of continual miracle wrought by the hand of
 God, in his favor, as a reward for his innocent  
 life and his virtuous industry
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762489:1868120101:0200/pct:17.53944054089885,77.59057265290222,12.687259710990322,4.869497467861317/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762489:1868120101:0200/pct:17.53944054089885,77.59057265290222,12.691678819214282,4.875990131151799/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1754,7 +1754,7 @@ wrought by the hand of God in his
 favor, as a reward for his innocent life  
 and his virtuous industry. Franklin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033386:00200293873:1872081601:0597/pct:34.12256267409471,91.31726642456256,13.119777158774374,7.351160999229669/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033386:00200293873:1872081601:0597/pct:25.602451594929654,68.4934521844393,9.834238751915308,5.5133707494222515/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1781,7 +1781,7 @@ the hand of God in his favor as a re-
 ward for his innocent life and his virtu  
 ous industry.--FraNkLIN.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn84038328:00280763391:1872090601:0127/pct:239.43217665615143,350.904312876797,44.16403785488959,30.607512753130315/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn84038328:00280763391:1872090601:0127/pct:59.85804416403786,87.72607821919925,11.041009463722398,7.651878188282579/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1802,7 +1802,7 @@ con taf miracle, wrought by the hand
 of God in  
 In his favor, as a reward for h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_cardinal_ver01:data:sn85052141:00202195301:1872090701:0541/pct:199.94815966822188,41.47375285295077,43.02747537584241,11.69438104553853/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_cardinal_ver01:data:sn85052141:00202195301:1872090701:0541/pct:50.0,10.368438213237692,10.75965776510241,2.9235952613846323/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1828,7 +1828,7 @@ kind of continued miracle wrought by the
 baud of Grou in his favor, as a reward for  
 Lis innocent life and his virtuous indus
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293460:1872092801:0307/pct:4.3836026331538,90.68309316906831,16.636744464392578,5.972940270597294/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293460:1872092801:0307/pct:3.291934759838396,68.01231987680123,12.47942540775101,4.487955120448795/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1898,7 +1898,7 @@ w rought by the hand of God in his
 favor, as a reward for his innocent li.c  
 and his virtuous industry.&quot; Wash
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_judaspriest_ver01:data:sn84037890:00280763573:1875031701:0050/pct:24.595588235294116,9.647025734777106,32.095588235294116,118.08465757277457/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_judaspriest_ver01:data:sn84037890:00280763573:1875031701:0050/pct:18.459275602132745,7.242300660947827,24.085309799595514,88.56700885951344/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1922,7 +1922,7 @@ continual miracle, wrought by the hand
 of God in his favor, as a reward for his  
 innocent life and his virtuous industry.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291074:1875050801:0065/pct:6.834951456310679,32.57079090528665,14.058252427184467,5.733017157204631/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291074:1875050801:0065/pct:6.834951456310679,32.57079090528665,14.058252427184467,5.736504393918259/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1963,7 +1963,7 @@ wrought by the hand of Gixl in his favor,
 as a reward for his innocent life und his  
 virtuous industry.&quot; Washington says
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033964:00212470181:1875070801:0538/pct:8.233041575492342,106.31924033461452,12.992341356673961,15.577662220212526/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033964:00212470181:1875070801:0538/pct:6.184156519359694,79.7422563870676,9.741414694212615,11.688898937372825/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1983,7 +1983,7 @@ wrought by the hand of God in his fa-
 yor, as a reward for his innocent life  
 and his virtuous industry.&quot; Washin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00280779167:1875071501:0117/pct:76.33525061626952,317.6893231786176,50.534100246507805,12.645495042391149/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00280779167:1875071501:0117/pct:19.08773371686871,79.4223307946544,12.6361208136429,3.161373760597787/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2033,7 +2033,7 @@ by the hand of God in his favor, as a re­
 ward for his innocent life and his virtuous  
 industry.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_celebi_ver01:data:sn84027329:00279529005:1881052601:0243/pct:20.018459645164597,41.61800795464162,8.788842170033842,5.314377591605314/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_celebi_ver01:data:sn84027329:00279529005:1881052601:0243/pct:20.025296550781118,41.61800795464162,8.785423717225584,5.317198386505317/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2060,7 +2060,7 @@ c!e wrouvbt by the hand of God in
 his favor, .is a reward foi his inno­  
 cent life and his virtuous industry.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_mazama_ver01:data:sn84022644:00295867504:1881060301:0079/pct:5.2898550724637685,120.59021436124195,14.879227053140097,8.978179371335191/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_mazama_ver01:data:sn84022644:00295867504:1881060301:0079/pct:3.973909892499094,90.44506392386812,11.16076820872086,6.7384408343747/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2116,7 +2116,7 @@ acle wrought by the hand of God in
 his favor as a reward for his innocent  
 life and virtuous industry.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_agate_ver01:data:sn86074058:00383343598:1887102001:0980/pct:47.32014388489208,32.02298550346089,12.805755395683454,8.084106046754604/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_agate_ver01:data:sn86074058:00383343598:1887102001:0980/pct:47.31163459809387,32.018803865238965,12.807948210753462,8.086314964742753/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2215,7 +2215,7 @@ by a kind of continual miracle, wrought
 by the hand of a beneficent God, springs  
 up to reward him for a life of innocenc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551141:1890052201:0247/pct:45.122995961326644,33.78940556531386,10.696365193978705,4.650087824720347/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551141:1890052201:0247/pct:45.122995961326644,33.78940556531386,10.704524130053441,4.656250962990355/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2250,7 +2250,7 @@ receives a real increase of the seed
 brown in the ground-&quot;  
 Jefferson, Jackson and a host o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_johns_ver01:data:sn92073049:00295879270:1890052701:0170/pct:70.36368684064409,11.998437957629601,38.92282065519156,117.63155325588207/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_johns_ver01:data:sn92073049:00295879270:1890052701:0170/pct:52.79089141905026,9.001269159425949,29.200222160510968,88.2261056331153/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2304,7 +2304,7 @@ miracle wrought by the hand of God in
 his favor as a reward for his innocent  
 life and virtuous industry.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_americanrobin_ver01:data:2010270509:00517013894:1890102301:0355/pct:35.98511281693417,43.994391649789684,14.956966736450337,6.792335254712572/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_americanrobin_ver01:data:2010270509:00517013894:1890102301:0355/pct:35.97674418604651,43.98753894080997,14.959302325581396,6.795171339563863/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -107,7 +107,7 @@ tions throwing light on the question, or worth communica­
 tion. 1 am ill, therefore only add assurance ofmy K^&#x27;lte­  
 spect and esteem. TH. J El- h ERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664333:1853070801:0512/pct:35.31319086219602,17.31266149870801,15.902726602800294,9.943535266532683/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664333:1853070801:0512/pct:35.31319086219602,17.319041694580022,15.907639400638663,9.943535266532683/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -151,7 +151,7 @@ or worth communication. I am ill, therefore only
 add assurance of my great respect and esteem.  
 TH. JEEEERSON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn86092535:00202190534:1853070801:0590/pct:67.7268475210477,203.05637982195844,57.56782039289055,53.26409495548961/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn86092535:00202190534:1853070801:0590/pct:16.931711880261926,50.76409495548961,14.391955098222638,13.316023738872403/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -192,7 +192,7 @@ communictiinn I am ill ; therefore only add arsnrance
 of my great respect and esteem.  
 TH. JEFFKRSON 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661216:1853071001:0800/pct:2.0966420966420967,71.42319749216301,15.593775593775593,12.677115987460816/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661216:1853071001:0800/pct:2.0966420966420967,71.42737722048066,15.604695604695605,12.677115987460816/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -238,7 +238,7 @@ I am ill, therefore only add assuranco of
 my great respect and esteem.  
 Th. Jefferson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014166:00415661459:1853071101:0034/pct:67.04053837526037,52.706422018348626,18.282326550232334,14.667431192660551/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014166:00415661459:1853071101:0034/pct:67.04053837526037,52.71406727828746,18.298349623457778,14.667431192660551/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -329,7 +329,7 @@ Chebituikly, and in at wrote this paper
 partcularly, So lar I state irom writ­  
 ,ten proois omy - possession. ‘The pro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021169:00514152792:1853071401:0123/pct:60.05349977708426,48.40654608096469,12.631891811561896,12.36003445305771/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021169:00514152792:1853071401:0123/pct:60.05349977708426,48.40654608096469,12.636845494625254,12.363623313235717/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -451,7 +451,7 @@ only house on that part of the street, I am ^ure
 there were few other* near it. 1 have some  
 idea that it was a corner h&#x27;use, but no othe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn86083363:00415668831:1853072001:0413/pct:63.73287248487841,42.579983210521405,10.899888902604618,11.015763454901595/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn86083363:00415668831:1853072001:0413/pct:63.73698720322594,42.58309237322389,10.904003620952146,11.021981780306563/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -497,7 +497,7 @@ communication. I am ill, therefore only add as­
 surance of mv great respect and esteem.  
 Til. JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn86053481:00212470090:1853072201:0093/pct:62.957222566646,65.93025774312324,18.10291382517049,20.02382499458523/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn86053481:00212470090:1853072201:0093/pct:47.24031007751938,49.44769330734243,13.581395348837209,15.020576131687243/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -589,7 +589,7 @@ corner hours, but no other recollection throw-
 cating. I am ill, therefore only add my as-  
 &#x27; surauce of respect and esteem.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026050:00280775940:1853072301:0113/pct:6.0830324909747295,94.36205931729155,17.707581227436823,23.726916620033577/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026050:00280775940:1853072301:0113/pct:4.568436258577104,70.77504196978175,13.289996388587937,17.795187465025183/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -625,7 +625,7 @@ rtween T.tKand 8th streets, an&lt;J if not the only
 &gt;use on that part of the street, I am sure there  
 ?rfe few others near it. . I have some idea tlutf
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn84027851:00295862270:1853072601:0116/pct:17.64983482774894,11.613759539873907,16.29699543809973,13.92545072447738/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn84027851:00295862270:1853072601:0116/pct:17.64983482774894,11.62113335545478,16.307482565151275,13.92545072447738/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -664,7 +664,7 @@ Market street, proluibly between 7th and sth st.. ■
 aril ii u &gt;t the only house on that part of the street.  
 lam sure there were lew other., near it. I have 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82014751:00513688234:1853072701:0111/pct:48.159910330655705,10.92001092001092,14.851485148514852,11.602511602511603/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82014751:00513688234:1853072701:0111/pct:48.159910330655705,10.92001092001092,14.851485148514852,11.611611611611611/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -758,7 +758,7 @@ tion, or worth : communication. ;I am ill, r
 therefore only add my assurance of my  
 great respect and esteem .&quot;... K ; &quot; ; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn87076863:00296028873:1853072801:0653/pct:106.43322475570032,78.78440366972477,17.56243213897937,30.35863219349458/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn87076863:00296028873:1853072801:0653/pct:79.8642226748133,59.09090909090909,13.18397827562797,22.768974145120936/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -778,7 +778,7 @@ soul of our country at that time. Small things
   
 may, perhaps, like the re ics of saints help to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn82014116:00279528542:1853080301:0290/pct:53.95954210443782,24.43577927448895,24.6510898541634,1.477017606049864/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn82014116:00279528542:1853080301:0290/pct:53.95954210443782,24.443656701721217,24.66677120903246,1.4809563196659972/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -875,7 +875,7 @@ any light on the question or worth communication,
 I will therefore only add assurance of my great  
 respect and esteem.TH JEFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202190959:1854122501:0605/pct:151.69994603345924,193.26958440603164,43.24518798345026,37.072453107760204/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202190959:1854122501:0605/pct:50.56664867781975,64.42319480201054,14.415062661150086,12.357484369253402/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -914,7 +914,7 @@ that his hose was on the sonth side of Market stret,
 orer oe ba o oter ecoetion toin an  
 light on the question or worth communication. I will
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_arbok_ver04:data:sn82015753:00212475361:1854122701:1250/pct:244.95469522240526,212.93992718446603,40.40362438220758,25.98604368932039/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_arbok_ver04:data:sn82015753:00212475361:1854122701:1250/pct:81.65156507413509,70.97997572815534,13.467874794069193,8.662014563106796/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -962,7 +962,7 @@ throwingany light on the question or worth
 communication. I will therefore only add  
 assurance of oiv great respect and esteem
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215920:1854122901:0542/pct:6.144230769230769,42.542300582966014,12.673076923076923,16.74960898620788/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215920:1854122901:0542/pct:6.143640034612057,42.53927632046634,12.675063295195974,16.75078789602142/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1007,7 +1007,7 @@ recollections throwing any light on tho question
 or worth communication. I will, therefore, only  
 | add assuranco of my great respect and esteem
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855011301:0214/pct:19.575427390569228,59.598300502124374,15.79936126244599,15.037981202523497/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855011301:0214/pct:19.575427390569228,59.598300502124374,15.811885528210908,15.046564525127677/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1070,7 +1070,7 @@ I bower Dr James Mease, Philadel
 eOh SYH Ae. A frien  
 rae the as from Smth and, under d
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_monroe_ver01:data:sn83045627:00200293617:1855012001:0420/pct:332.0336391437309,266.11620795107035,60.16819571865443,94.80122324159021/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_monroe_ver01:data:sn83045627:00200293617:1855012001:0420/pct:83.00840978593273,66.52905198776759,15.042048929663608,23.700305810397552/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1116,7 +1116,7 @@ the question, or worth communication. I will,
 therefore, only add assurance of my great respect  
 and esteem. Th. Jkffesson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199276:1855020801:0358/pct:105.74912891986062,47.66235429742539,16.21951219512195,24.15780709619572/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199276:1855020801:0358/pct:79.3620359072686,35.74996797745613,12.166637615478473,18.12475983092097/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1194,7 +1194,7 @@ tion or worth communicating.
   
 RIOT IN KANzAS TERRITORY.- We lear
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85026105:00296028046:1855022201:0502/pct:135.27675276752768,259.38900203665986,50.62730627306273,76.08961303462321/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85026105:00296028046:1855022201:0502/pct:33.83167220376523,64.84725050916497,12.661498708010337,19.022403258655803/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1469,7 +1469,7 @@ ration) particularly.&quot; This second floor is now used
 for the workshop and offices of a firm of lithographers,  
 who kindly exhibit it to the curious free of charge
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:0027174397A:1876040101:0021/pct:149.38875305623472,76.6789328426863,45.68867155664222,21.504139834406622/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:0027174397A:1876040101:0021/pct:49.796251018744904,25.55964428089543,15.229557185547405,7.168046611468875/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1507,7 +1507,7 @@ between Seventh and Eighth streets, and if not the only
  house on that part of the street, I am sure there were few  
  others near it. I have some idea that it was a corner house
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:0027174397A:1876040101:0021/pct:195.2241238793806,57.22171113155474,45.68867155664222,22.619595216191353/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:0027174397A:1876040101:0021/pct:65.07470795979353,19.073903710518245,15.229557185547405,7.539865072063784/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1604,7 +1604,7 @@ room ready furnished. In that parlor I
 wrote habitually, and in it wrote this paper  
 particularly.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_animals_ver01:data:sn84027718:00271763827:1876051901:0096/pct:81.51041666666667,100.83906304626501,14.424189814814815,5.220836732315581/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_animals_ver01:data:sn84027718:00271763827:1876051901:0096/pct:61.157742402315485,75.63221069805384,10.824891461649782,3.9156275492366857/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1628,7 +1628,7 @@ a parlor and bedroom ready furnished.
 In that parlor I wrote habitually, and  
 in it wrote this paper particularly.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_carrie_ver01:data:sn85033295:0027176876A:1876052401:0363/pct:78.96389324960754,15.28436018957346,14.154892726321298,5.103900838497995/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_carrie_ver01:data:sn85033295:0027176876A:1876052401:0363/pct:78.96825396825396,15.28436018957346,14.150532007674865,5.11301494713817/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1674,7 +1674,7 @@ worth communication. 1 will, therefore, only
 addoasurauccsofmy great respect aud esteem.  
 Thomas Jeffi-ksux
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555675:1882070601:0503/pct:98.92960812772134,90.05824190708384,14.658925979680697,14.84491399160233/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555675:1882070601:0503/pct:74.2152059517329,67.54706758770148,10.996189439303212,11.133685493701748/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1715,7 +1715,7 @@ house, but no other recollection throwing any light on
 the question, or worth communication.&quot; A that time  
 the corner house now being torn down had not bee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chrysler_ver01:data:sn83030214:00175039946:1883030901:0590/pct:202.83635283635283,45.722614642897184,43.77784377784378,36.82027133086669/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chrysler_ver01:data:sn83030214:00175039946:1883030901:0590/pct:67.61211761211761,15.240871547632395,14.592614592614593,12.273423776955562/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1821,7 +1821,7 @@ wrote this paper, particularly. So
 far I state from written proofs in my  
 possession
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_funston_ver01:data:sn84027670:00237283399:1883031501:0476/pct:153.90946502057614,282.09447088978396,43.27846364883402,45.94165751251068/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_funston_ver01:data:sn84027670:00237283399:1883031501:0476/pct:38.49716932578487,70.52361772244599,10.825184422714017,11.48541437812767/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1857,7 +1857,7 @@ sacrifices and the power of an idolatrous
 priesthood; a system of profligacy unparal­  
 leled in any other part of the world; infanti­
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:0027952533A:1883031501:0626/pct:4.052718286655684,60.675237294244866,11.219110378912685,10.957587408386399/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:0027952533A:1883031501:0626/pct:4.052050732992917,60.667948101874096,11.22138033272937,10.959274387313792/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1943,7 +1943,7 @@ now being torn down had not been built,
 and the one next to it, No. 702 Market  
 Street, was doubtless the house of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quasar_ver01:data:sn85025431:00212479779:1883032101:0274/pct:53.60208062418726,6.972071529033554,22.756827048114435,94.65541490857946/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quasar_ver01:data:sn85025431:00212479779:1883032101:0274/pct:50.9306539285126,6.6297639498632055,21.62740899357602,89.91855952153719/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2017,7 +2017,7 @@ events led to his selection witli the pre
 cision of fate At tho time when he  
 wrote tho Declaration tho idea of Ameri
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_airplane_ver01:data:sn86069309:00100481728:1894070401:0173/pct:9.686346863468634,73.41402337228715,16.476014760147603,6.051752921535893/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_airplane_ver01:data:sn86069309:00100481728:1894070401:0173/pct:7.270714153902934,55.06399554813578,12.36390477947961,4.549248747913189/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2045,7 +2045,7 @@ affords no finer illustration of the evo­
 lution of an idea than in that of the  
 idea of American independence. Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_rolls_ver01:data:sn85025431:00212479871:1894070401:0215/pct:49.198036006546644,33.61565754835756,13.944353518821604,7.302277669680668/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_rolls_ver01:data:sn85025431:00212479871:1894070401:0215/pct:49.198036006546644,33.61565754835756,13.960720130932897,7.30609286177559/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2072,7 +2072,7 @@ affords no finer illustration of the evo­
 lution of an idea than in that of the  
 idea of American independence. Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762313:1894070401:0118/pct:72.11902022028605,36.213786213786214,10.554002959066251,5.881618381618382/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762313:1894070401:0118/pct:72.13134966299523,36.22315184815185,10.545783330593457,5.872252747252747/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2089,7 +2089,7 @@ idea of American independence. Th
 and in it wrote this paper particularly.”  
 The choice of Jefferson to write the pape
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685154:1894071901:0363/pct:50.65398335315101,53.84091528193952,20.967102655568766,1.8114955053119042/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685154:1894071901:0363/pct:50.643946899148006,53.83358300422171,20.969552869691565,1.8157882790866584/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2108,7 +2108,7 @@ paper particularly. ”
 Thu choice of Jefferson to write the  
 ! paper was not accidental. The cours
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_gabbs_ver01:data:sn86076126:00332891066:1895070601:0205/pct:20.169851380042463,38.96285914505957,14.885586223165841,3.0308339173090397/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_gabbs_ver01:data:sn86076126:00332891066:1895070601:0205/pct:20.16509433962264,38.956034331756875,14.887971698113208,3.0346820809248554/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

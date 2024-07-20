@@ -191,7 +191,7 @@ fication the treaties
 &quot;Death is the worst;a fate which all must try;  
 And for our country, &#x27;tis a bliss to die!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296199:1846101701:0803/pct:8.250825082508252,149.45717732207478,58.4983498349835,4.463208685162847/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296199:1846101701:0803/pct:2.063983488132095,37.364294330518696,14.633642930856553,1.1158021712907118/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -248,7 +248,7 @@ And late posterity enjoy the deed.
 “ The gallant man, though slain in fight he be,  
 Yet leaves his nation safe and his children free.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_frost_ver02:data:sn85026214:print00205958204:1878081801:0003/pct:57.4487895716946,30.46824051128212,11.843575418994414,0.5999739141776445/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_frost_ver02:data:sn85026214:print00205958204:1878081801:0003/pct:57.4487895716946,30.471501239076563,11.852886405959032,0.6032346419720882/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

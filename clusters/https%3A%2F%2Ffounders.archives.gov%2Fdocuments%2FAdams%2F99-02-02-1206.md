@@ -49,7 +49,7 @@ Senate, informing that they have pafi-
   
 ed a bill for the relief of Thomas Jen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790062401:0613/pct:28.003852636648205,13.135048231511254,41.36768601011317,77.7491961414791/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790062401:0613/pct:28.019905289349065,13.140407288317256,41.3757123364636,77.7545551982851/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -144,7 +144,7 @@ lief in the payment of duties on goods imported
 from India and China, was read and referred to  
 the Secretary of the Treasury
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791030201:0002/pct:68.66898514068922,46.72192916352675,27.916534935188114,15.410700828937452/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791030201:0002/pct:68.66898514068922,46.72663903541824,27.932342712614606,15.424830444611906/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -162,7 +162,7 @@ supplemental to the a&lt;ft establishing the Treasury
 Department, and for a further compensation to  
 certain officers ; and an aiftto amend the adt fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791030501:0002/pct:9.559512652296158,36.03703703703704,27.585129646985315,2.925925925925926/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791030501:0002/pct:9.559512652296158,36.0462962962963,27.631990003124024,2.9305555555555554/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -198,7 +198,7 @@ others in their stead ; and also upon Spirits
 Distilled within the United States, and for ap­  
 propriating the fame
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791031601:0001/pct:34.588731545646276,59.72222222222222,26.755046700813498,17.203703703703702/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791031601:0001/pct:34.588731545646276,59.73148148148148,26.800241036456764,17.212962962962962/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -220,7 +220,7 @@ in their stead, and also upon fpinits distilled within the United
 States, and for appropriating the fame,&quot; together with the excess  
 of duties which may anfe from the duties imposed by the sai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791031601:0004/pct:10.285714285714286,55.02347417840375,28.158730158730158,4.92018779342723/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791031601:0004/pct:10.30952380952381,55.028169014084504,28.166666666666668,4.929577464788732/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -255,7 +255,7 @@ spirits distilled within the
 United States ; and for ap­  
 propriating the fame
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791043001:0791/pct:4.468188440990772,5.042970650235122,85.33268576979115,25.425652667423382/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791043001:0791/pct:4.47628298526793,5.053780876709367,85.35696940262264,25.436462893897627/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -337,7 +337,7 @@ ment of the United States, and for ma­
 king further provision for the protection  
 of the frontiers, Fune 2
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791061601:0819/pct:28.619447779111646,17.0364500792393,20.864345738295317,20.538827258320126/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791061601:0819/pct:28.619447779111646,17.047015319598522,20.87234893957583,20.538827258320126/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -367,7 +367,7 @@ After taking the neceflary oaths, they
 proceeded to the_choice of a Chairman,  
 when the Hon. Elisha Payne, Esq. wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791061601:0819/pct:28.883553421368546,48.335974643423135,20.600240096038416,13.771790808240887/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791061601:0819/pct:28.883553421368546,48.34125726360275,20.61624649859944,13.777073428420497/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -389,7 +389,7 @@ otheis in their stead, and also upon lpirits diltil­
 led within the United States and for appropria­  
 ting the lame.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792061101:0001/pct:50.37220843672456,43.35596508244423,20.471464019851116,5.21823472356935/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792061101:0001/pct:50.37220843672456,43.37051406401552,20.47921836228288,5.223084384093114/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -418,7 +418,7 @@ ment therein mentioned,” shall lie, and con­
 tinue in force for the term of three years,  
 and to the enr of the next session of Con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812051101:0151/pct:39.60825099670654,81.2704343764596,16.345987172820244,8.255488089677721/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812051101:0151/pct:39.60138648180243,81.26094570928196,16.34893125361063,8.258416034247908/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -447,7 +447,7 @@ laries of the officers of government therein
 mentioned,”” shall be and continue in force  
 for the term of three ycars, and to the end o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812061701:0636/pct:52.516129032258064,14.408115028560173,21.85483870967742,11.168012605869608/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812061701:0636/pct:52.526881720430104,14.408115028560173,21.844086021505376,11.181143720044647/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -491,7 +491,7 @@ the salaries of the officers of government therein
 mentioned,” shall be and •&lt; triune in force for the  
 term of three years, and to b’,e end of the next ses
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812081401:0115/pct:41.0734252702199,87.67376061016115,18.114051434960864,5.818673883626523/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812081401:0115/pct:41.06577231227874,87.66297662976629,18.116887149866468,5.822058220582206/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -592,7 +592,7 @@ tory northwest of the Ohio, and for confirming them in their
 posessions,” and several acts in aid of, and supplementary  
 thorcto
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014869:0027955727A:1854102101:0204/pct:2.6831179005092047,88.24512534818942,16.62749706227967,3.384401114206128/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014869:0027955727A:1854102101:0204/pct:2.6831179005092047,88.25208913649026,16.632393262828046,3.387883008356546/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -616,7 +616,7 @@ sessions,&quot; and the several acts in aid of, and supple­
 mentary thereto.  
 Sec. 2. And be it further enacted, That ever
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293186:1854102401:0390/pct:124.9690976514215,64.53301606186794,49.13473423980223,17.941701368233193/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293186:1854102401:0390/pct:31.25676302365126,16.133254015466985,12.28938012057505,4.485425342058298/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -639,7 +639,7 @@ posessions,” and several acts in aid of, and supplementary
 thereto.  
 Sec. 2. And be it further enacted, 1 hat every such
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014869:0027955727A:1854102801:0211/pct:80.16059537798668,11.086350974930362,16.588327457892674,3.871866295264624/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014869:0027955727A:1854102801:0211/pct:80.1752839796318,11.086350974930362,16.588327457892674,3.882311977715877/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -666,7 +666,7 @@ sessions&quot; and the .several acts in aid .off
 and supplementary jhereto.v &#x27;K-  
 Sec. 2. And be it futher enacted, Tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn85029297:00212472840:1854111001:0034/pct:32.51090512540894,8.588633002324107,43.42966194111232,133.80519754912316/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn85029297:00212472840:1854111001:0034/pct:21.679847286610308,5.725755334882738,28.96100354513226,89.20346503274878/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

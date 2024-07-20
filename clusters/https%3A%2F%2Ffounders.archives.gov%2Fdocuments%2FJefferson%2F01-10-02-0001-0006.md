@@ -141,7 +141,7 @@ hour of which is franght with more mise­
 ry than ages of that whicth he rose in re­  
 bellion to oppose.—J fforson’s Memotrs.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152743:1830071401:0072/pct:18.54742915323265,14.206368797827697,14.712370609197352,6.788447296963713/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152743:1830071401:0072/pct:18.54742915323265,14.210483008310705,14.723683466259404,6.800789928412738/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -565,7 +565,7 @@ on his fellow-man a bondage, one hour of which is fraught
 with more misery than ages of that which he rose in rebel­  
 lion to oppose.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_green_ver02:data:sn84022687:00202199240:1839020901:0014/pct:6.550580431177446,18.231804369845175,23.507462686567163,10.24453769353205/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_green_ver02:data:sn84022687:00202199240:1839020901:0014/pct:4.914973040232269,13.67385327738388,17.648278722521773,7.683403270149038/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -700,7 +700,7 @@ on the other. The parent storms, the
 child looks on, catches the lineaments of wrath,  
 puts on the same airs in circles of smaller slaves
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1842011001:0460/pct:321.09375,121.2051649928264,57.421875,37.70444763271162/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1842011001:0460/pct:80.32050029314051,30.3012912482066,14.36388508891929,9.426111908177905/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -835,7 +835,7 @@ Hear the honest testimony of the great
 orator, Patrick Henry, three years before  
 America sent up her shout of Liberty:
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_green_ver02:data:sn84022687:00202199240:1844022901:0334/pct:28.428571428571427,33.22632423756019,19.408163265306122,14.519188676492048/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_green_ver02:data:sn84022687:00202199240:1844022901:0334/pct:21.33959567081887,24.923391215526046,14.559934653869716,10.885743470013132/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -932,7 +932,7 @@ are not
 ty.&#x27;  
 tift to the guidance of blind fatal i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_green_ver02:data:sn84022687:00202199240:1844082201:0427/pct:68.63226863226863,32.79192273924495,19.533169533169534,16.300848697688032/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_green_ver02:data:sn84022687:00202199240:1844082201:0427/pct:51.50583896742471,24.5976002341235,14.669125179266544,12.232952882645595/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1184,7 +1184,7 @@ exterminating thunder, manifest his attention to
 things of this world, and that they be not left to the  
 guidance of blind fatality!&quot; Towards the close o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777602:1845021401:0026/pct:194.4700460829493,156.4095210782908,56.5284178187404,41.468310868941785/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777602:1845021401:0026/pct:48.63618901267768,39.1023802695727,14.137533615059546,10.367077717235446/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1427,7 +1427,7 @@ on his fellow man a bondage, one hour of which
 is fraught with more misery than ages ot that  
 which he rose in rebellion to oppose.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_bia_ver01:data:sn83021203:00517172066:1848102801:0262/pct:70.19165727170237,72.34944868532655,24.19391206313416,10.856658184902459/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_bia_ver01:data:sn83021203:00517172066:1848102801:0262/pct:54.40354147250699,56.07128510389658,18.767474370922645,8.421283277946172/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1473,7 +1473,7 @@ they are not left to the guidance of that blind
   
 fatalit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn82015050:00280763366:1849011301:0335/pct:28.09079201545396,8.529175742290496,16.902768834513843,11.888111888111888/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn82015050:00280763366:1849011301:0335/pct:21.07890499194847,6.3968818067178725,12.689210950080515,8.91894990255646/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1511,7 +1511,7 @@ his attention to things of this world, sua ion
 they ar not left to the gukianc of blind  
 fatality
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn82015050:00280763366:1849022401:0360/pct:58.392511297611364,5.426621160409557,34.828921885087155,124.00455062571103/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn82015050:00280763366:1849022401:0360/pct:43.82367188761505,4.072810011376564,26.14241886000323,93.00341296928327/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1552,7 +1552,7 @@ supp&lt; rted him through his trial, and inflict on his­
 fraught with more misery, than ages of tlia.  
 which he rose in reb Ilion to oppose!”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040303:00514151337:1849101901:0482/pct:47.15503023639362,61.52360515021459,12.383177570093459,7.982832618025751/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040303:00514151337:1849101901:0482/pct:47.15961150815466,61.52360515021459,12.383177570093459,7.989985693848355/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1577,7 +1577,7 @@ THAT WHICH HE ROSE IN REBELION
 TO OPPOSE.&quot;  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199264:1850031401:0028/pct:14.285714285714286,109.80845867078031,16.043671354552185,6.761794575138192/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199264:1850031401:0028/pct:10.718252499074417,82.36277156446845,12.05109218807849,5.077773492736855/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1752,7 +1752,7 @@ his exterminating thunder, mariiliest his attention
 to the things of this world, and that they  
 are not left to the guidance of blind fatality
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1852072201:0580/pct:57.669959325973274,26.435546875,14.976757699012202,6.083984375/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1852072201:0580/pct:57.6748014720124,26.442057291666668,14.981599845051326,6.080729166666667/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1811,7 +1811,7 @@ His attention to the things of this world, and
 that they are not left to the guidance of a blind  
 fatality.&quot; &quot; - . 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035044:00296027133:1852090101:0125/pct:76.86038270729979,40.41373715521904,16.45995747696669,13.656030286641428/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035044:00296027133:1852090101:0125/pct:57.67458348103509,30.31368307193077,12.353775257001063,10.248783126014061/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1889,7 +1889,7 @@ unfair dealing with the North, in reference to
 the Slavery queetion. If he is so ignorant of  
 Southern customs as he manifests in the abov
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1853072801:0804/pct:19.891651618280317,0.04782400765184122,39.852757327406586,96.45145863223338/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1853072801:0804/pct:19.900912163726442,0.05101227482863064,39.84812705468352,96.45464689941016/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1950,7 +1950,7 @@ his attention to tho things of this world,
 and that they are not left to the guidance of a  
 blind fatality.?Pages 427, 428
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1853072801:0804/pct:46.173079594388106,12.14729794356767,15.86331434921517,20.593017694882832/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1853072801:0804/pct:46.173079594388106,12.15367447792125,15.872574894661296,20.593017694882832/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1984,7 +1984,7 @@ he holds the following language:
 things of this world, and that they are not  
  the guidance of a blind fatality.&quot; Vol
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_harrison_ver01:data:sn82015672:00296021854:1854070801:0285/pct:147.97814207650273,63.4510595358224,58.14207650273224,23.249243188698284/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_harrison_ver01:data:sn82015672:00296021854:1854070801:0285/pct:37.00970343036764,15.8627648839556,14.541478748120815,5.812310797174571/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2021,7 +2021,7 @@ manifest his attention to the things of this
 world, and that they are not left to the  
 guidance of a blind fatality.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83021380:00279523878:1855020901:0207/pct:239.0961565535689,220.17116130958306,38.44854286921019,33.77450492586327/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83021380:00279523878:1855020901:0207/pct:79.6875,73.38308457711443,12.814376876876876,11.257048092868988/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2069,7 +2069,7 @@ things of this world, and that they are
 not left to the guidance of a blind fa  
 tality.&quot; ; &#x27; &#x27; ; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn82006863:00212472827:1855022401:0036/pct:44.686544342507645,60.90672612411743,16.666666666666668,25.08361204013378/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn82006863:00212472827:1855022401:0036/pct:29.798623502421616,40.60758082497213,11.11394341065511,16.722408026755854/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2143,7 +2143,7 @@ minating thunder, manifest his attention to
 the things of this world, and that they are  
 not left to the guidance of an blind fatality.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83021380:00279523878:1855082401:0319/pct:215.48770378557612,201.43560295324036,34.00110527770102,81.19360131255127/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83021380:00279523878:1855082401:0319/pct:71.81931205967675,67.13831641546192,11.332136114564626,27.061758775077752/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2249,7 +2249,7 @@ misery than ages ol ti.at which he rose in re­
 bellion to oppose.  
 “
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn85033189:00271769763:1856081201:0565/pct:61.84827182190978,14.929768917082011,14.045108377270065,10.534662437698232/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn85033189:00271769763:1856081201:0565/pct:58.765420647435306,14.183226917282445,13.342918096651516,10.018652701054595/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2287,7 +2287,7 @@ nating thunder, manifest attention to the
 things of this world, and they are not lef,  
 to the guidance of a blind fatality
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn85026279:00280775095:1856082901:0039/pct:23.412112259970456,215.41135573580533,49.18759231905465,52.95480880648899/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn85026279:00280775095:1856082901:0039/pct:5.853028064992614,53.85283893395133,12.296898079763663,13.238702201622248/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2308,7 +2308,7 @@ Mm through hi* trial, and inflict on his fellow men
 a bondage, one hour of which ts fraught with more misery  
 than ages of liist which he rose in rebtlboa to oppose 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1856101601:0602/pct:3.822574828705373,23.853820598006646,12.87414352686621,2.344565733270052/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1856101601:0602/pct:3.826581720559362,23.853820598006646,12.870136635012221,2.3508938459104574/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2326,7 +2326,7 @@ tiling Providence, and hope that that is preparing the deliverance
 of these our brethren.&quot;  
 Brethren! Brethren! do we hear from the grea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1856101601:0602/pct:4.014905637696838,33.33649738965354,14.184397163120567,1.6041765543426674/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1856101601:0602/pct:4.0189125295508275,33.33649738965354,14.184397163120567,1.6136687233032747/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2345,7 +2345,7 @@ their groans shall have involved Heaven itself in darkness,
 doubtless a (rod of justice will awaken to their  
 di*tr&lt; ks.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1856101601:0602/pct:3.6663060463998076,36.070242050308494,12.814040149056376,1.8224964404366397/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1856101601:0602/pct:3.6703129382537965,36.070242050308494,12.810033257202388,1.8256604967568422/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2471,7 +2471,7 @@ tneir quly firm basis—aeonviction in the
 minds of the people that these liberties  
 are of the gift of God ? that they are uu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn86081096:00296028666:1857102201:0071/pct:8.911636308896583,64.65880370682393,14.406141803402077,9.614574557708508/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn86081096:00296028666:1857102201:0071/pct:8.911636308896583,64.65880370682393,14.41617742987606,9.621595057568099/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2608,7 +2608,7 @@ length by his exterminating thunder, manifest
 his attention to the things of this world, and  
 show tlKat they are not lelt to a blind fatality.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn85054616:00212477783:1858072801:0231/pct:26.541095890410958,64.48867356291737,19.17808219178082,11.22168390729344/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn85054616:00212477783:1858072801:0231/pct:19.917794142832676,48.36977870891712,14.386025004281555,8.419536467199162/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2627,7 +2627,7 @@ imprisonment, and even death itself, in j of April 20ih. is one on which I do i.
 vindication of his own liberty, and, the ! Icr.nit myself to express an f.pinion. but  
 next moment be deaf to all those motives j when time, place, mid occasion may giv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296027546:1858081701:0289/pct:91.54838709677419,41.69324827219564,34.46774193548387,4.5321637426900585/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296027546:1858081701:0289/pct:68.67236651072754,31.273258904837853,25.859009517664138,3.4024455077086655/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2648,7 +2648,7 @@ over-ruling Providence, and hope that
   
 that is preparing tho deliverance of these,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296027546:1858081701:0289/pct:91.5,48.35194045720362,16.451612903225808,5.156831472620946/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296027546:1858081701:0289/pct:68.64010324245847,36.270600744284955,12.34070011292144,3.8676236044657095/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2669,7 +2669,7 @@ the next moment, be deaf to all those motives
 whose power supported him through his trial,  
 indict on his fellow men a bondase, ons
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_hypno_ver01:data:sn83025182:00279528657:1858081901:1169/pct:25.712466167807673,238.57900050479554,36.8253462824391,9.591115598182736/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_hypno_ver01:data:sn83025182:00279528657:1858081901:1169/pct:8.570822055935892,79.52633350159851,12.275115427479701,3.1970385327275785/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2700,7 +2700,7 @@ der, manifest his attention to the things of
 this world, and that they are not left to the  
 guidaase of a blind fatality
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_hypno_ver01:data:sn83025182:00279528657:1858081901:1169/pct:25.63286100939341,247.21100454316002,73.1093774876612,22.85461887935386/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_hypno_ver01:data:sn83025182:00279528657:1858081901:1169/pct:8.544287003131137,82.40366818105333,24.369792495887065,7.618206293117954/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2730,7 +2730,7 @@ States, that &quot;he thought it wrong to admit
 the idea in the Constitution that there could  
 be property in men,&quot; and that he did no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528669:1858111901:0213/pct:11.042340694893797,158.1099989236896,38.71149247432832,45.50640404692713/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528669:1858111901:0213/pct:3.6807802316312657,52.703332974563196,12.903830824776106,15.16880134897571/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2754,7 +2754,7 @@ A
   
 ot e to te adance of a in atit e e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528669:1858111901:0213/pct:11.295540863693908,174.42686470778173,46.77169784779856,6.888386610698525/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528669:1858111901:0213/pct:3.76518028789797,58.14228823592724,15.590565949266189,2.2961288702328417/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2851,7 +2851,7 @@ at length by bis exterminating thuuder, mani­
 fest bis attention to things ot thia world, and  
 that they are not left to a bliud fatality.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn83032006:00296028551:1859120201:0623/pct:49.50778024769768,70.35722734800095,14.03620196887901,10.586704518571091/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn83032006:00296028551:1859120201:0623/pct:49.50778024769768,70.35722734800095,14.05208002540489,10.598533238703572/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2873,7 +2873,7 @@ groans shall have involved He aven itself
 in darkness, doubtless a God of justice  
 will awaken to their distress. Nothing i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668156:1860011701:0600/pct:176.63934426229508,175.54307512980822,36.18852459016394,12.938433824308573/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668156:1860011701:0600/pct:58.90392237255706,58.514358376602736,12.067787344540113,4.312811274769524/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2928,7 +2928,7 @@ thunder, manifest his attention to the things
 of this world, and that they are not left the  
 guidance of, a blind fatality.&quot; P
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776993:1860012001:0223/pct:283.8287752675386,320.18150879183213,44.470868014268724,72.6942711287578/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776993:1860012001:0223/pct:70.98884758364312,80.04537719795803,11.12267657992565,18.17356778218945/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2979,7 +2979,7 @@ groans shall have involved Heaven itself
 in darkness, doubtless a God of justice  
 will awaken to their distress. Nothing i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn85038443:00280776385:1860012701:0016/pct:269.4467382328654,349.81595092024537,49.62840627580512,17.73006134969325/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn85038443:00280776385:1860012701:0016/pct:67.38950846757538,87.45398773006134,12.4122263527468,4.432515337423313/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3061,7 +3061,7 @@ His attention to the things of this world, and
 that they are not left to the guidance of a blind  
 fatality.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn83016318:00296024570:1860041001:0270/pct:123.39435774309725,41.69859514687101,39.43577430972389,23.05236270753512/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn83016318:00296024570:1860041001:0270/pct:41.13145258103241,13.89953171562367,13.145258103241297,7.684120902511707/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3083,7 +3083,7 @@ hope that that is preparing the deliverance of
 written in the Book of Fate than that this people  
 e shall be free.&quot; Would the utterance of thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530650:1860052101:0158/pct:153.32572546462342,47.6588823051005,47.668731659602216,15.905658185198094/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530650:1860052101:0158/pct:51.10857515487447,15.886294101700166,15.889577219867405,5.301886061732699/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3113,7 +3113,7 @@ when their groans shall have involv&#x27;d heaven
 itself in darkness, doubtless a God of justice wiil  
 awaken to their distress Nothing is more cer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn86086769:00271769775:1860052901:0441/pct:58.49536344600658,65.05001163061176,13.012264433143883,7.0481507327285415/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn86086769:00271769775:1860052901:0441/pct:55.57923652552809,61.80391868002357,12.351993937671686,6.699322333529758/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3145,7 +3145,7 @@ when their groans shall have involved Heaven
 itself in darkness, doubtless a God of justice will  
 awaken to their distress. Nothing ts more cer-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:00279529406:1860062801:0200/pct:239.6325043560906,170.66130367916716,37.5732615238397,18.845380338341418/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:00279529406:1860062801:0200/pct:79.8775014520302,56.887101226389056,12.524420507946566,6.281793446113806/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3170,7 +3170,7 @@ ten in the Book of Fate than that this peo
   
 ple shall be free.&quot; Would the utteranc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_gary_ver01:data:sn82016350:00202191496:1860071801:0140/pct:153.1664964249234,24.640339866756783,86.10827374872319,367.4423095490972/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_gary_ver01:data:sn82016350:00202191496:1860071801:0140/pct:38.30629710052369,6.160084966689196,21.53531740963086,91.8605773872743/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3207,7 +3207,7 @@ turts hi:n through bis trial, and intiict on bis
 fraught with more misery than ages of that &#x27;  
 F.:. aho roe in rebellion t.i oppose.—JctJer 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn83032276:00296028599:1860101801:0416/pct:0.962176509621765,36.68827342368886,14.283344392833444,12.692987625220978/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn83032276:00296028599:1860101801:0416/pct:0.9677062596770626,36.69220192496562,14.28887414288874,12.696916126497742/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3233,7 +3233,7 @@ or, at length, bv his exterminating
 thunder, manifest his attention to things  
 of this world.&quot;—[Notes on Virginia.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291049:1860120801:0015/pct:48.78787878787879,39.02877697841727,14.046345811051694,7.6508024349750965/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291049:1860120801:0015/pct:48.80124777183601,39.03915329275041,14.046345811051694,7.647343663530714/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3271,7 +3271,7 @@ have involved heaven itself in darkness, doubtless a God of
 justice will awake to their distress.&quot;  
 Again Mr. Jefferson say
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn83035216:00280775150:1861020901:0589/pct:178.7941787941788,217.7195485795823,51.004851004851005,6.485925541574782/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn83035216:00280775150:1861020901:0589/pct:44.6985446985447,54.429887144895574,12.751212751212751,1.6214813853936956/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3346,7 +3346,7 @@ tention to the things of this world, and that
 they are not left to the guidance of a blind  
 fatality.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279523994:1861041201:0064/pct:176.86764705882354,165.8662613981763,37.338235294117645,66.7274569402229/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279523994:1861041201:0064/pct:58.9472136450522,55.28315266943572,12.444248394843896,22.240232330395436/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3371,7 +3371,7 @@ involved Heaven itself in darkness, doubtless
 a God of justice will awaken to their dis-­  
 tress. Nothing is more certainly written i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528682:1861041301:0493/pct:20.295866168947878,64.59842841106236,43.85455550947048,18.695785284212675/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528682:1861041301:0493/pct:6.765288722982626,21.532809470354117,14.618185169823494,6.2319284280708915/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3571,7 +3571,7 @@ fest bis attention&#x27; to the things of this
 world, and that tliey arc not lull to the  
 guidanco of a blind fatality.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn84026845:00202190698:1862020301:0113/pct:42.47598719316969,12.061982743440746,13.575240128068303,18.453953160767743/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn84026845:00202190698:1862020301:0113/pct:42.48132337246531,12.066384926923755,13.575240128068303,18.475964078182777/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3618,7 +3618,7 @@ y smong their oppressors, or at length by his exter
 anifest his attention things of this world,  
 and that they are not left to the guidance of blind fatality
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basic_ver01:data:sn83030213:00206530728:1862091601:0117/pct:52.144702842377264,91.52165864494631,47.49354005167959,10.946563001357521/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basic_ver01:data:sn83030213:00206530728:1862091601:0117/pct:17.381567614125753,30.50721954831544,15.83118001722653,3.648854333785841/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3653,7 +3653,7 @@ volver
 a God  
 of justice will awaken to their distres
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn84038189:00202191228:1862091601:0380/pct:75.3170731707317,160.963058261349,49.170731707317074,33.22918581143172/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn84038189:00202191228:1862091601:0380/pct:18.8361595705746,40.24076456533725,12.297181895815543,8.30729645285793/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3672,7 +3672,7 @@ full, when their groans shall have involved
 Heaven itself in darkness, doubtless a God  
 of justice will awaken to their distres
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn84038189:00202191228:1862101001:0440/pct:130.16732283464566,270.1945808328787,48.375984251968504,8.692489543553373/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn84038189:00202191228:1862101001:0440/pct:32.541830708661415,67.54864520821968,12.093996062992126,2.1731223858883433/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3724,7 +3724,7 @@ Heaven itself in darkness, doubtless a
 God of justice will awaken to their dis­  
 tress. Nothing is more certainly writ
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271769428:1862122701:0121/pct:56.40487740920414,18.808653561197275,12.416415366461257,6.6185913266818135/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271769428:1862122701:0121/pct:56.40924784755911,18.808653561197275,12.412044928106289,6.628469821199249/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3823,7 +3823,7 @@ His attention to the things of this world, and that
 they are not left&#x27;to the guidance of a blind fatal­  
 ity*” - . 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_edgewater_ver02:data:sn84031490:no_reel:1863011301:0003/pct:33.131646497983134,16.096866096866098,9.68096809680968,3.4757834757834756/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_edgewater_ver02:data:sn84031490:no_reel:1863011301:0003/pct:33.131646497983134,16.10042735042735,9.68096809680968,3.482905982905983/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3852,7 +3852,7 @@ tion to the affairs of this world, and that they
 are not left to the guidance of a blind fatali­  
 ty
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027253:00279528529:1863011601:0390/pct:15.405367031094704,47.84094793209525,11.046429078517678,6.870229007633588/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027253:00279528529:1863011601:0390/pct:15.405367031094704,47.844745736964036,11.051161910170855,6.874026812502374/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3875,7 +3875,7 @@ our brethren.&quot;
 Perhaps the Journal did not see that  
 this proves too much for the Abolitionists
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn85026002:00280775058:1863011701:0443/pct:16.37372802960222,156.06957145418684,56.70675300647549,24.672763134301597/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn85026002:00280775058:1863011701:0443/pct:4.093432007400555,39.01739286354671,14.176688251618872,6.168190783575399/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3932,7 +3932,7 @@ efaall have involved Heaven itself ,iu-dark-nessj
 doubtless a God of justioe will awake  
 to thei&#x27;t distress. &#x27;&#x27; Nothing is more clearly
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775393:1863022601:0795/pct:24.701433121019107,105.77777777777777,16.441082802547772,3.9682539682539684/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775393:1863022601:0795/pct:18.53474019510253,79.33333333333333,12.343221182560223,2.984126984126984/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3956,7 +3956,7 @@ their oppressors, of at LaNorh BY HIs EYtErniwarie
 ThuNDer, manifest his attention to things of this world, tat  
 that they are not left to the guidancs of blind fatality
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basic_ver01:data:sn83030213:0020653073A:1863022701:0395/pct:249.76991150442478,24.538423153692616,48.26548672566372,15.94311377245509/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basic_ver01:data:sn83030213:0020653073A:1863022701:0395/pct:83.2566371681416,8.179474384564205,16.088495575221238,5.31437125748503/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4015,7 +4015,7 @@ inu TltrsnKK, manifest his attention to things of this
 this world, and that thoy are not left to the guid­  
 ance of blind fatality.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026193:00280775769:1863031101:1068/pct:107.43338008415147,54.80015422182239,16.304347826086957,6.001799254594525/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026193:00280775769:1863031101:1068/pct:80.60329708874079,41.10011566636679,12.241318835496317,4.510988304845136/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4104,7 +4104,7 @@ manifest his attention to the things of this world,
 and that they are not lefl to the guidance of a blint  
 fatalty.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basic_ver01:data:sn83030213:0020653073A:1863040201:0627/pct:249.13160250671442,111.38576779026218,49.3822739480752,96.34207240948814/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basic_ver01:data:sn83030213:0020653073A:1863040201:0627/pct:83.04386750223814,37.12858926342072,16.460757982691735,32.11402413649605/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4171,7 +4171,7 @@ pose. But we must await with patience the work­
 ings of an overruling Providence, and hope that  
 that is preparing the deliverance of those our tuf
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023210:0020219767A:1863040301:0312/pct:41.78338001867414,79.54952267303102,29.50513538748833,42.75059665871122/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023210:0020219767A:1863040301:0312/pct:31.363848668846334,59.665871121718375,22.139187295656235,32.07040572792363/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4260,7 +4260,7 @@ is not a man living, who wishes more sin
 cerely then you do, to see . a plan adppted  
 for the abolition of slavory.; but that ther
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775393:1863041601:0823/pct:59.37996820349762,65.60025340513145,16.116852146263913,9.613557174532785/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775393:1863041601:0823/pct:44.56154305030821,49.208108964206524,12.109763372439849,7.206208425720621/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4289,7 +4289,7 @@ shall have involved Heaven itself in
 darkness, doubtless a God of justice will  
 awaken to their distress.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293769:1863062501:0577/pct:112.31933929800412,197.91968400263332,47.075017205781144,9.321922317314023/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293769:1863062501:0577/pct:28.09433637459115,49.47992100065833,11.774832156997762,2.3304805793285057/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4384,7 +4384,7 @@ those into despots and these into ene­
 mies; destroys the morals of the one  
 part and the patriotism of the other
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293769:1863070401:0610/pct:242.10160055671537,35.55322496067121,47.529575504523315,23.911903513371787/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293769:1863070401:0610/pct:60.53593179049939,8.888306240167802,11.88446145815208,5.977975878342947/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4461,7 +4461,7 @@ those into despots and these into ene­
 mies; destroys the morals of the one  
 part and the patriotism of the other
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293769:1863071101:0629/pct:313.1891137473831,311.0531803962461,47.52267969295185,23.201251303441083/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293769:1863071101:0629/pct:78.29727843684577,77.76329509906152,11.880669923237962,5.800312825860271/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4497,7 +4497,7 @@ those into despots and these into ene
 mies; destroys the morals of the one  
 part and the patriotism of the other
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293769:1863072601:0683/pct:118.31955922865014,227.0509977827051,46.69421487603306,23.425068475283684/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293769:1863072601:0683/pct:29.584983640433958,56.76274944567628,11.675563974513517,5.856267118820921/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4523,7 +4523,7 @@ into despots and these into enemies;
 destroys the morals of the one part and  
 the patriotism of the other. Indeed, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn86059058:00296022019:1863073101:0597/pct:179.96018579960185,119.39989653388515,49.568679495686794,24.987066735644078/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn86059058:00296022019:1863073101:0597/pct:45.004978426817125,29.84997413347129,12.396282774643213,6.246766683911019/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4614,7 +4614,7 @@ fraught with more misery than ages of
 that which ho rose in rebellion &gt;u op­  
 pose,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624517:1863121901:0095/pct:7.212439115773698,93.72056514913658,15.96103409516673,7.849293563579278/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624517:1863121901:0095/pct:5.599380535256255,72.63309246423832,12.369936601655132,6.0942338888069605/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4675,7 +4675,7 @@ full, when their groans shall have involved
 Heaven itself in darkness, doubtless a God of  
 justice will awaken to their distress.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_damariscotta_ver02:data:sn83016025:00279525188:1864052301:0264/pct:19.06158357771261,28.69364475828354,12.463343108504398,8.77240630092341/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_damariscotta_ver02:data:sn83016025:00279525188:1864052301:0264/pct:19.058090525929998,28.689748811948405,12.465640461792194,8.774609640190087/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4706,7 +4706,7 @@ least by his exterminating thunder, may mani­
 fest to the wor Id that they are not left to the  
 guidance of blffld fatuity.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_damariscotta_ver02:data:sn83016025:00279525188:1864060101:0294/pct:2.683007618416694,8.481688708036623,23.815833057303742,87.98321464903357/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_damariscotta_ver02:data:sn83016025:00279525188:1864060101:0294/pct:2.682563338301043,8.480610298792117,23.816029143897996,87.97520661157024/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4740,7 +4740,7 @@ for its abolishment, show that tbey felt it.
 But as history shows that these ebbs  
 will be m
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn84026845:00202190741:1864072101:0072/pct:28.325907065563335,41.19438335307055,13.43093570973902,10.150566739976316/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn84026845:00202190741:1864072101:0072/pct:28.325907065563335,41.19861275587887,13.45745809463187,10.150566739976316/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4765,7 +4765,7 @@ IHs attention to the things oi this world, ui.d that
 they are nd lelt to the guidance oi a blind  
 lain uty.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_hera_ver01:data:sn83021205:00517171578:1864121501:1183/pct:3.860098101940712,115.39316918189039,15.952228620174877,4.956314535345513/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_hera_ver01:data:sn83021205:00517171578:1864121501:1183/pct:2.9915707123574458,89.43696651346028,12.368464547407857,3.8369993434011818/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4866,7 +4866,7 @@ terminating thunder, manifest hli attention to the
 things of this world, and that they are not left to  
 the guidance of a blind fatality.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn85038180:00296026724:1867041801:0067/pct:24.01290812452544,78.57720291026678,16.89445709946849,10.913500404203718/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn85038180:00296026724:1867041801:0067/pct:18.01784697171065,58.93290218270008,12.682741598632997,8.19186203179736/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4900,7 +4900,7 @@ Again he says, “ We must wait
 “doubtless a God of justice will  
 “awaken to their distress. Nothin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_diamondville_ver05:data:sn84022150:00514150102:1869081801:0773/pct:48.94206549118388,54.51270041433976,14.433249370277078,5.764727076202486/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_diamondville_ver05:data:sn84022150:00514150102:1869081801:0773/pct:48.94206549118388,54.51270041433976,14.458438287153653,5.769230769230769/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4932,7 +4932,7 @@ than ages of that which he rose in rebel
 lion to oppose !&quot; At that very time there  
 were in tbe colonies, chiefly at the South
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn84022367:00415628377:1870021001:0043/pct:100.82227351413734,91.01037684325505,14.945181765724177,10.540688148552704/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn84022367:00415628377:1870021001:0043/pct:75.64213564213564,68.25778263244129,11.212121212121213,7.908246859639541/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5129,7 +5129,7 @@ distress, and by diffusing light and liberality among their oppressors, or, at l
 by his exterminating thunder, manifest his attention to the things of this world  
 and that they are not left to the guidance of a blind fatality
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_echo_ver03:data:sn86071197:00175034869:1896041201:0115/pct:159.1169255928046,191.5151515151515,95.5028618152085,12.323232323232324/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_echo_ver03:data:sn86071197:00175034869:1896041201:0115/pct:39.803640826344854,47.878787878787875,23.890366128042544,3.080808080808081/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

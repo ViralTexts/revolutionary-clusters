@@ -64,7 +64,7 @@ petit jurors at leafl shall be summoned from thence. And jurors
 in all cases to serve in the cOurts of the United States shall be de­  
 signated by lot or otherwise in each State refpe&amp;ively accord
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789111101:0004/pct:45.51665243381725,26.426254531577943,25.220609165955025,3.7397443236023657/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789111101:0004/pct:45.52376885852548,26.435794695668765,25.213492741246796,3.7397443236023657/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -95,7 +95,7 @@ practifed, so far as the laws of the fame
 thall render such designation pradticable  
 by the courts or marthals of the Unite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790011301:0522/pct:5.607476635514018,5.849663644340451,41.210502892745886,89.17812225797017/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790011301:0522/pct:5.607476635514018,5.849663644340451,41.210502892745886,89.19762113678463/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -161,7 +161,7 @@ seif too it, or not I cannot recotiect, that
 my hand should never be tainted by receiv­  
 ing a prejudged opinion in any case 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:0041421602A:1804031201:0032/pct:53.54573484069887,57.223595902507945,22.625165173983262,2.4108089014482514/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:0041421602A:1804031201:0032/pct:53.53787433940106,57.21854304635762,22.626737130553924,2.4135393671817513/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -179,7 +179,7 @@ be had in the county where the oﬀence was s
 sscommittedctssor where that cannot be done:  
 without great inconvenience, twelve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:0041421602A:1804031401:0040/pct:51.849166062364034,21.650665022461023,23.538796229151558,4.166299656478464/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:0041421602A:1804031401:0040/pct:51.84164733178654,21.648758146908577,23.540216550657387,4.168868533850038/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -286,7 +286,7 @@ committed, or where that that cannot be done with­
 out great inconvenience, twelve jurors at leaft ftn||  
 be fnmmoned from thence.&quot;—Subfequent to this, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1807062701:0066/pct:75.76964867801522,15.392193079669992,17.222021006881565,8.05319541928334/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1807062701:0066/pct:75.75592974832519,15.390297956168432,17.224938137485665,8.056307970122301/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -379,7 +379,7 @@ was all the qualfication which Congress imposed on
 jurors. Is this a State? Are we now a portion of the  
 State of Maryland, and have we imposed on us th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_flavory_ver01:data:sn83030213:00206530613:1859040701:0661/pct:199.84884111521666,186.95809684820674,47.5310715485388,19.24888298514672/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_flavory_ver01:data:sn83030213:00206530613:1859040701:0661/pct:66.61628037173888,62.319365616068914,15.8436905161796,6.41629432838224/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -403,7 +403,7 @@ nquired for riris br the ama su mes on uror
 the qualification which Congrees imposed on jurors.  
 is this a State? Are we now a portion of the State o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743312:1859040701:0789/pct:193.21019326150162,83.24252330790652,45.20266803488969,15.29240828187432/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743312:1859040701:0789/pct:64.40339775383387,27.747507769302175,15.067556011629895,5.09746942729144/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

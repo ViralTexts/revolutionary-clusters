@@ -297,7 +297,7 @@ fubferibed the fame in bit f reft net% the words John B. Church being above inte
 GRAHAM NEWELL  
 THEO B V LI.EAU
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016081:00332895060:1804072301:0156/pct:51.228070175438596,62.7799016930639,46.030701754385966,28.54997269251775/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016081:00332895060:1804072301:0156/pct:51.21683841262881,62.77133105802048,46.02609076956808,28.549488054607508/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -378,7 +378,7 @@ Dominick F. Blake, &#x27;• ^
 yfyy Graham Burrell, s&#x27;;^  
 Theo. JJ. Valleau
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804072401:0018/pct:3.242277252999745,43.751997443272614,22.08322695940771,45.46180888462768/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804072401:0018/pct:3.2414497192445126,43.745007189646905,22.083971413986728,45.45853970282793/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -440,7 +440,7 @@ will ard teftament, in onr
 pretence who have fubcrib­  
 ed the fame in his prefence
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804072501:0001/pct:40.0,59.798714006150405,19.7979797979798,35.04333240145373/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804072501:0001/pct:40.0149644594089,59.80803280216196,19.7979797979798,35.04333240145373/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -516,7 +516,7 @@ Dominick F. Blake.
 Oka ham Newell.  
 Tmto. B. Vallkau
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804072501:0099/pct:24.274310595065312,2.272727272727273,36.01233671988389,93.76552409339294/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804072501:0099/pct:24.269907491384,2.27244505153359,36.01185077695145,93.75801978558715/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -598,7 +598,7 @@ Dominick F. Blaxk*
 On am am Bur a ill*  
 Thro. 11. Vallrau
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804072501:0224/pct:22.513891550105384,50.84523653518543,18.47097145046944,45.07928187655615/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804072501:0224/pct:22.509578544061302,50.83857442348008,18.473818646232438,45.0777428371768/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -657,7 +657,7 @@ In teftimony wherenf, I have hereto fub­
 feribed my hand. the gth day of July, in  
 the year of our Lodd, 1804
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1804072601:0529/pct:55.0236518448439,36.61288502764301,20.018921475875118,27.541464515401106/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1804072601:0529/pct:55.03626616209397,36.620406935198766,20.02522863450016,27.541464515401106/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -984,7 +984,7 @@ Dominick F. Bj.au*
 Graham Burrell,  
 Thro. B. Valikau
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1804080301:0315/pct:7.916666666666667,34.66390184897183,20.47222222222222,53.27458095731813/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1804080301:0315/pct:7.914468203276868,34.657912923289565,20.473479589003055,53.26969592259848/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1272,7 +1272,7 @@ In testimony whereof I have hereunto sub­
 scribed my hand, the 9th day of July, in the  
 year of our Lord 1804
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_angelou_ver01:data:sn83030362:print00211110004:1849021101:0001/pct:37.39603810675941,53.660245183887916,9.647663692726448,25.569176882661996/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_angelou_ver01:data:sn83030362:print00211110004:1849021101:0001/pct:37.39981853924089,53.66900175131349,9.643883260244973,25.569176882661996/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1352,7 +1352,7 @@ scribed mv hand, the Ufh day of July, in the
 year of our Lord I&gt;iM.  
 5 ALKXANDKR HAMILTON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215828:1849032601:0116/pct:83.6207727141343,27.14950997428234,12.949224395413816,29.825536943073608/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215828:1849032601:0116/pct:83.61271676300578,27.147623019182653,12.951188182402054,29.825780743211936/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1485,7 +1485,7 @@ In testimony whereof, I have hereunto
 subscribed my hand, the 9th day of July,  
 in the year of our Lord 1804
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn87070038:00296028058:1849033001:0379/pct:230.65749235474007,107.77546777546777,101.07033639143731,179.73665973665973/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn87070038:00296028058:1849033001:0379/pct:57.68642447418738,26.943866943866944,25.277246653919693,44.93416493416493/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1555,7 +1555,7 @@ In testimony whereof, I have hereunto subcribed my
 hand, the ninth day of July, in the year of our Lord, one  
 thousand eight hundred and four
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743208:1854111201:1112/pct:150.67567567567568,174.6336476201295,46.86882003955175,53.89071907304328/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743208:1854111201:1112/pct:50.22522522522522,58.2112158733765,15.622940013183916,17.96357302434776/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1614,7 +1614,7 @@ In testimony whereof, I have hereunto subcribed my
 hand, the ninth day of July, in the year of our Lord, one  
 thousand eight hundred and four
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743208:1854111201:1113/pct:150.15814882636923,173.21856116748376,47.62776760446146,54.08733325732528/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743208:1854111201:1113/pct:50.05271627545641,57.73952038916125,15.875922534820488,18.029111085775092/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1728,7 +1728,7 @@ tions they are charged to bear in mind, tb it
 site lias been to them the most devoted and  
 best of mothers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_farmington_ver01:data:sn83016025:00279525310:1871080101:0443/pct:84.39418416801293,21.639084107912037,10.953150242326332,7.107231920199501/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_farmington_ver01:data:sn83016025:00279525310:1871080101:0443/pct:84.38055241479567,21.636631531225206,10.955419156840575,7.109259888926669/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1766,7 +1766,7 @@ nce. jsut 111 all situations they are
 harged to bear in mind that she has  
 been to them the best of mothers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033386:00200293873:1871101301:0422/pct:73.19956019791094,48.20424058848983,12.740516767454645,12.256598874945912/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033386:00200293873:1871101301:0422/pct:54.921638713225185,36.153180441367375,9.554577948858949,9.195153613154478/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1807,7 +1807,7 @@ ence. But in all situations they are
 charged to bear in mind that she has  
 been to them the best of mothers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00280779155:1871102601:0176/pct:112.99756295694557,219.4675540765391,47.76604386677498,45.47975596228508/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00280779155:1871102601:0176/pct:28.26086956521739,54.866888519134775,11.94636326696465,11.36993899057127/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1846,7 +1846,7 @@ charged to bear
 in mind that she hfrs i  
 been to them the best of mothers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033306:00212470119:1871102701:0407/pct:53.58475479744136,61.54017857142857,14.458955223880597,13.058035714285714/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033306:00212470119:1871102701:0407/pct:40.19725443156071,46.160714285714285,10.848993735838997,9.787946428571429/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1888,7 +1888,7 @@ ence. But in all situations they are
 charged to bear in mind that she has  
 been to them the best of mothers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_applejack_ver01:data:sn83016943:00295877820:1871102801:0486/pct:141.6329830234438,186.73259167696744,45.51333872271625,44.88394451311633/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_applejack_ver01:data:sn83016943:00295877820:1871102801:0486/pct:35.42256368782855,46.68314791924186,11.382935705620703,11.220986128279083/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1907,7 +1907,7 @@ part and parcel thereof, with the appurtenances, to
 thein, their heirs, and assigns, as joint tenants, and not  
 as tenants in commion
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536159:1873051401:0163/pct:269.98491704374055,124.37810945273633,49.698340874811464,5.911618378694762/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536159:1873051401:0163/pct:67.53442746651575,31.09452736318408,12.43161667609885,1.4779045946736904/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1933,7 +1933,7 @@ thingf the support of their dear mother with the most ree
 and tender attention is a duty all the sacredness of  
 which they will feel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crowfoot_ver01:data:sn83030313:00271743907:1875080901:0459/pct:151.15539182853314,183.93688273356796,51.942397856664435,11.96503575888296/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crowfoot_ver01:data:sn83030313:00271743907:1875080901:0459/pct:50.38513060951105,61.31229424452265,17.314132618888145,3.988345252960987/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1959,7 +1959,7 @@ this account have the less claim to burthen my
 children, yet I trust in their magnanimity to appre-­  
 clate as they ought this, my request.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jaguar_ver01:data:sn83030214:00175038863:1895122901:0545/pct:251.3290113452188,201.83575928742124,48.0226904376013,13.349989137519009/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jaguar_ver01:data:sn83030214:00175038863:1895122901:0545/pct:83.77633711507293,67.27858642914042,16.00756347920043,4.449996379173003/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

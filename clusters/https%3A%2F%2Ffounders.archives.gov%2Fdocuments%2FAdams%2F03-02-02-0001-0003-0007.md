@@ -344,7 +344,7 @@ Who then is Paul, and who is Apollos,
 but ministers by whom ye believed, even  
 as the Lord gave to every man. So the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282279:1881102901:0412/pct:282.58354755784063,266.1847970124081,49.03598971722365,9.3964582580412/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282279:1881102901:0412/pct:70.67995499115898,66.54619925310203,12.26490917858865,2.3491145645103/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -466,7 +466,7 @@ as men? For while one saith I am of Paul, and
 another, I am of Apollos, are ye not carnal?&quot; The  
 preacher said in substanc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_universal_ver01:data:sn83030214:00175036891:1898080301:0040/pct:102.35723771580345,158.04441423068207,47.7589641434263,4.69068660774983/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_universal_ver01:data:sn83030214:00175036891:1898080301:0040/pct:34.11907923860115,52.68147141022736,15.919654714475431,1.5635622025832767/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -483,7 +483,7 @@ arnal,&quot; when he exclaims: &quot;For while
 one saith, I am of Paul; and another  
 I am of Apollos; are ye not carnal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_hornacek_ver01:data:sn83045555:206534709:1899070101:0287/pct:101.27795527156549,31.815421979356405,35.46325878594249,4.857316332726168/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_hornacek_ver01:data:sn83045555:206534709:1899070101:0287/pct:33.768308921438084,10.60514065978547,11.824234354194408,1.6191054442420563/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

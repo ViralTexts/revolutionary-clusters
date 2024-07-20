@@ -71,7 +71,7 @@ rejects all recompense &#x27;fo ina-estfjtous (^ejc^i^es he always
 spares them supplies.&quot;  
 In 1781 Mr. Morris, superintendent of finance, wrote 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82006534:00415661101:1859021601:0161/pct:17.110143525237866,74.84810126582279,17.626189324302533,4.2784810126582276/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82006534:00415661101:1859021601:0161/pct:17.110143525237866,74.84810126582279,17.631564801376122,4.286919831223629/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -102,7 +102,7 @@ preserve me from extremities; but I never re
 sort to it without great mortification, as he  
 obstinately rejects all recompense. To n
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_braniff_ver01:data:sn82014760:00237288890:1862011701:0069/pct:300.7469654528478,286.3361547762999,54.71521942110177,13.612022801865606/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_braniff_ver01:data:sn82014760:00237288890:1862011701:0069/pct:75.2218589444185,71.58403869407498,13.685193834656703,3.4030057004664016/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -121,7 +121,7 @@ out great mortification, as he obstinately re­
 iests all recompense.&quot; The money thus ad-  
 vanced by this Jew to help on the cause o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:0020653350A:1877090201:0014/pct:236.4844903988183,310.79826269282614,48.59675036927622,9.405421596525386/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:0020653350A:1877090201:0014/pct:59.1320406278855,77.69956567320654,12.151431209602954,2.3513553991313465/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -141,7 +141,7 @@ lutely rejects all recompense.
   
 THE COURTS.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_blaine_ver01:data:sn83025287:00100493901:1881030201:0285/pct:15.224208215741612,78.125,13.342740671056758,2.6690391459074734/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_blaine_ver01:data:sn83025287:00100493901:1881030201:0285/pct:15.234660813212082,78.12870699881375,13.332288073586286,2.676453143534994/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -189,7 +189,7 @@ serve me from extremity; but 1 never re­
 sort to it without great mortification, as  
 he obstinately rejects all recompense. T
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_beveridge_ver01:data:sn82015679:00295870503:1892041001:0392/pct:7.312338222605694,67.6399834093737,16.328731665228645,7.175445873081709/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_beveridge_ver01:data:sn82015679:00295870503:1892041001:0392/pct:5.491423022979825,50.73413521360431,12.255906786061063,5.383658233098299/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -210,7 +210,7 @@ jects all recompense.&quot; Haym Salomon died
 before he had taken any stops to secure a re­  
 imbursement by the Government of the larg
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_neruda_ver01:data:sn83030272:00175045107:1893102201:0734/pct:128.29606784888205,275.91711435149654,50.424055512721665,11.419800460475825/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_neruda_ver01:data:sn83030272:00175045107:1893102201:0734/pct:32.08020050125313,68.97927858787413,12.608444187391555,2.8549501151189562/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

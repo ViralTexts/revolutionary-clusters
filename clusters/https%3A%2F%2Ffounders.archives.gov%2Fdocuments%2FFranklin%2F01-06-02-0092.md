@@ -264,7 +264,7 @@ things as shall be needful and necessary to be done in
 and about the premises.  
 P. OreILLY
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743853:1874022301:0619/pct:100.91930541368744,280.9563261924488,46.90160027238679,7.278967925198248/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743853:1874022301:0619/pct:33.63976847122915,93.65210873081627,15.633866757462263,2.4263226417327495/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -285,7 +285,7 @@ things as shall be needful and necessary to be done in
 and about the premises.  
 P. OrEIllY
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743853:1874030201:0705/pct:237.14378238341968,267.41961507433444,45.62823834196891,7.341246974760862/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743853:1874030201:0705/pct:79.04792746113989,89.13987169144481,15.209412780656304,2.4470823249202875/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -311,7 +311,7 @@ hereof.
 In witness whereof, I have hereunto set my hand and  
 seal, the twenty third day of May, in the year one tho
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:0020653347A:1875121701:0410/pct:32.608695652173914,90.07995262066923,49.17541229385307,14.806040864672786/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:0020653347A:1875121701:0410/pct:8.152173913043478,22.519988155167308,12.293853073463268,3.7015102161681965/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -397,7 +397,7 @@ have hereunto set my hand and seal ; dated at
 Marion, S. C, tha 16th day of April, in th  
 year of our Lord, 1886, and in the 110th yea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_frankenbatch_ver01:data:sn84026526:00295879695:1886042901:0076/pct:80.86840545346769,35.60126582278481,14.65619442797866,22.723953261927946/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_frankenbatch_ver01:data:sn84026526:00295879695:1886042901:0076/pct:60.66399881428783,26.703992210321324,10.99748036164221,17.05209347614411/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -455,7 +455,7 @@ Marion, S. C, the 16th day of April, in the
 year of our Lord. 1S.S6, and&#x27;in the Until year  
 of the Sovereignly and Independence of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_frankenbatch_ver01:data:sn92073231:00295879695:1886050601:0083/pct:102.35745614035088,74.069355980184,18.073830409356724,26.53927813163482/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_frankenbatch_ver01:data:sn92073231:00295879695:1886050601:0083/pct:76.7866934746847,55.55555555555556,13.56242003290075,19.915074309978767/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -514,7 +514,7 @@ firm and ellectual, all and whatsoever said at­
 torney shall lawfully do in and jilxmt the prem­  
 ises,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_frankenbatch_ver01:data:sn92073231:00295879695:1886051301:0092/pct:100.8876811594203,85.82278481012658,17.880434782608695,27.29957805907173/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_frankenbatch_ver01:data:sn92073231:00295879695:1886051301:0092/pct:75.68400072476898,64.37412095639944,13.408226127921726,20.478199718706048/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -595,7 +595,7 @@ seven hundred and sixty-two.
 Walter Cane.  
 Signed, sealed and delivered in presence o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_freeport_ver01:data:sn82014248:00332895710:1888010301:0009/pct:28.737934802403934,34.085592404018165,10.981606264796941,2.463189761937526/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_freeport_ver01:data:sn82014248:00332895710:1888010301:0009/pct:28.732702112163146,34.08090258668134,10.984158776402039,2.466290588882774/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -647,7 +647,7 @@ and any act and things whatsoever requisite
 and necessary to be done in and about the  
 premises, as fully and t ail Intents and pur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn85032018:00280760961:1894121201:0590/pct:72.71414821944177,56.677836285303975,30.245428296438885,6.175203446625179/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn85032018:00280760961:1894121201:0590/pct:48.49578820697954,37.78522419020265,20.168471720818292,4.1168022977501195/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

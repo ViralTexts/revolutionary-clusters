@@ -45,7 +45,7 @@ shows that he held a conversation with Lord Har t in
 rowby, tha British Secretary of State, and used the tair  
 Utrecht treaty for both the purposes for which he no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846040101:0358/pct:32.487070992007524,22.43060765191298,14.37078827769942,7.139284821205301/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846040101:0358/pct:32.49229483362065,22.43894306910061,14.376012119312543,7.139284821205301/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -147,7 +147,7 @@ Mess submit it-&#x27;&quot; v .u .
 he held a conversation with Lord Harrowby, the British Sec­  
 retarr of State, and used th* Utrecht treaty for both the pur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1846040401:0340/pct:20.96153846153846,49.03618532296246,15.315934065934066,7.563972494645474/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1846040401:0340/pct:20.96153846153846,49.03994288505618,15.320512820512821,7.567730056739188/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -179,7 +179,7 @@ he held a conversation with Lord Harrowhy, the British Sec­
 retary of State, and used the Utrechltreaty for U?th the purjsiscs  
 for which he had lieen instructed to use it, and with perfec
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1846040401:0342/pct:36.94241126916172,77.72585669781931,15.31556414859826,9.034267912772586/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1846040401:0342/pct:36.94241126916172,77.73327399495624,15.32477098006721,9.030559264204124/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -214,7 +214,7 @@ In this extract (resumed Mr. B.) Mr Monroe
 1 Ilarrowby, the British Secretary of State, and  
 u*ed the UtrecJit treaty for both the purpose
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215774:1846040401:0612/pct:37.23340040241449,28.677725442009695,15.462776659959758,9.952897808724146/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215774:1846040401:0612/pct:37.22965496428931,28.675767918088738,15.464574321832142,9.954493742889648/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

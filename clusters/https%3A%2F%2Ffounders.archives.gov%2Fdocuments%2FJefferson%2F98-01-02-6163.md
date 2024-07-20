@@ -61,7 +61,7 @@ dient servant, R. C. WEIGH J MAN&lt;
 Mayor of Washington, and Chairman of the  
 Committee of Arrangement
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826070601:0539/pct:25.639755654614497,13.988324705364027,17.698530625722306,12.457319088005287/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826070601:0539/pct:25.635523275008254,13.986784140969164,17.701111477935513,12.459618208516886/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -88,7 +88,7 @@ the City with yourpresen.ee on the oc­
 casion,- / &#x27;&#x27;  
 I am further instructed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn84024505:00542866962:1826070701:0522/pct:84.76312419974391,68.70695053224796,12.910798122065728,6.574827802128992/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn84024505:00542866962:1826070701:0522/pct:84.74503947087689,68.69619658788542,12.913377426925539,6.577711691970574/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -113,7 +113,7 @@ the occasion.
 I am further instructed to inform vou, that, on recei­  
 ving your acceptance
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826070701:0165/pct:58.581673306772906,12.75749063670412,17.768924302788843,5.699906367041199/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826070701:0165/pct:58.572339069471,12.75599765944997,17.771404291480774,5.703140237955919/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -140,7 +140,7 @@ presence on the occasion. h
 II am further instructed to inform you,!  
 that, on receiving your acceptance
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826070701:0072/pct:8.295436725733103,12.614870509607352,12.717578798808217,11.624298842343956/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826070701:0072/pct:8.294136092819066,12.613365155131264,12.720811121563708,11.626889419252187/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -313,7 +313,7 @@ ence on the occasion.
 I am further instructed to inform you,  
 that, on receiving your acceptance
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn82014309:00414182926:1826071801:0016/pct:76.36830665876309,77.20179128782739,18.000395178818415,8.41362464377799/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn82014309:00414182926:1826071801:0016/pct:76.35322007111813,77.19131614654003,18.001777953378113,8.415875169606513/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -339,7 +339,7 @@ sence on the occasion.
 lam further instructed to inform you, that, on  
 receiving your acceptance
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1826071801:0113/pct:5.94433086963359,58.278414275575386,16.543481679509355,6.509175707188482/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1826071801:0113/pct:5.94433086963359,58.278414275575386,16.564449336897834,6.512555341512049/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -441,7 +441,7 @@ tive to this démand, but that by their offer­
 ing money, he thought he could prevent the  
 cffe&amp; of the arrette. M. Z. at the requei
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798041901:0484/pct:60.08070774483936,35.217476489028215,16.529566971907496,5.378134796238244/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798041901:0484/pct:60.08070774483936,35.220741901776385,16.54508769206891,5.384665621734587/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -479,7 +479,7 @@ impatient to read the letters, Mr.
 Gerry took leave of him imediately.  
 He followed to the door, and desire
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798041901:0484/pct:60.003104144032285,68.87735109717869,16.436442650939004,15.448667711598747/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798041901:0484/pct:60.003104144032285,68.88061650992685,16.44678979771328,15.45846394984326/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -631,7 +631,7 @@ j would exist on the parr of the Envoys relative rr.
 1 he thought he could ptev&#x27;ent the ess. &amp; of the  
 Jan cite. M. Z. at itie ri quest of Mr. Gerry, re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798090401:0002/pct:42.244897959183675,84.39093484419263,17.709750566893423,4.730878186968838/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798090401:0002/pct:42.26190476190476,84.40155807365439,17.70408163265306,4.734419263456091/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -658,7 +658,7 @@ voys relative to this demand ; but that by
 their offering money he thought he could pre­  
 vent the effedt of the arret. Mr. Z. (th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799012301:0002/pct:9.476490547746002,3.4999235824545316,33.90693165293262,90.67705945285037/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799012301:0002/pct:9.476490547746002,3.5037444597279537,33.92510906446922,90.68852208467064/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -695,7 +695,7 @@ United Statesfora loan Vow this matter
 of the MONEr that must be settled directly,  
 could only refer to the douceur ; tor a loan i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799012301:0002/pct:26.66020358700921,16.67430842121351,16.892874454677653,14.305364511691884/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799012301:0002/pct:26.67838099854581,16.678129298486933,16.886815317498787,14.313006266238729/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -736,7 +736,7 @@ demand ; but that by their offering
 money, he thought he could prevent  
 the effe@t of the arret. Mr. Z. (th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1799021301:0026/pct:25.11627906976744,4.840764331210191,34.06201550387597,90.76923076923077/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1799021301:0026/pct:25.121447028423773,4.844030703903315,34.06201550387597,90.77249714192389/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -773,7 +773,7 @@ thit if weé could adjult the difficulty
 respecting the speech, an application  
 wotuld nevertheless go to the Unite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1799021301:0026/pct:42.4031007751938,19.54924056834885,17.05426356589147,15.492405683488487/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1799021301:0026/pct:42.40826873385013,19.552506941041973,17.069767441860463,15.492405683488487/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -814,7 +814,7 @@ tho’t he could prevent the eff ft of the arret.—
 Mr. Z (the “ interpreter”) at the requed ot Mr.  
 Gerry, having dated that the Envoys have n
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83045634:00332895059:1799021801:0170/pct:25.46728971962617,17.772038971710295,23.03348909657321,7.266111045897405/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83045634:00332895059:1799021801:0170/pct:25.462332100447732,17.769953051643192,23.033871909674907,7.268192488262911/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

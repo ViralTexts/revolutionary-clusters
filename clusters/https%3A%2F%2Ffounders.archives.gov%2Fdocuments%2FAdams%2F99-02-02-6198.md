@@ -58,7 +58,7 @@ erative republic will last forever, govern the globe, and
 introduce the perfection of man.  
 The Marquis de Montealm was among th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hugo_ver01:data:sn83030214:00206531174:1874041801:0154/pct:55.90082112381259,77.31346758235362,48.108195137658996,28.55313700384123/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hugo_ver01:data:sn83030214:00206531174:1874041801:0154/pct:18.633607041270864,25.771155860784543,16.036065045886332,9.517712334613742/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -98,7 +98,7 @@ last forever, covern the clobe. and intro
 duce the perlection of man.&quot; There  
 were a few specks that John did not for
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280775010:1874052801:0405/pct:115.16713091922006,63.76446328330851,12.77158774373259,3.769045709703288/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280775010:1874052801:0405/pct:86.41493660303748,47.829075495474854,9.586178068830987,2.829648298774201/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -138,7 +138,7 @@ ever, govern the globe and introduce the
 perfection of man.” This is only one of  
 the unnumbered, “prophetic voices con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_celebi_ver01:data:sn84027329:00279528888:1876072002:0316/pct:19.736419157827065,62.68878961922995,13.72549019607843,3.2120825356307168/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_celebi_ver01:data:sn84027329:00279528888:1876072002:0316/pct:19.74177649201757,62.692334964192014,13.720132861887924,3.215627880592782/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

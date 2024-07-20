@@ -43,7 +43,7 @@ roughs; pursuant to law, the electors qualified to j
 vote tar members of th| Bouse &gt;f delegates,  
 caused to be chosen, oife pfersan, to wit, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813021701:0361/pct:31.50787696924231,2.7166050474200287,21.705426356589147,6.0922681240958045/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813021701:0361/pct:31.5,2.7161684345869497,21.70625,6.095306975249116/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -75,7 +75,7 @@ or ilHer&amp;tious and amendments to the CKistiog
 constitution of this Commonwealth.—Given under  
 our hands and seals (he day of on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1829021201:0380/pct:19.54983922829582,13.94541536988269,15.466237942122186,8.546803926262868/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1829021201:0380/pct:19.54669667256068,13.943746259724715,15.469110003750737,8.549770596449232/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -111,7 +111,7 @@ atrd amendments to the existing consti
 tution of this commonwealth.— Given  
 under our hands and seals the-da
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1829022601:0041/pct:44.52682075883123,14.555293464687109,18.14217182730048,15.290689607326211/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1829022601:0041/pct:44.517113581861786,14.553274139844618,18.14366688467408,15.292036625971143/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -131,7 +131,7 @@ mendmonts of the existing Constitution of this Com­
 monwealth, to bo submitted to the people, and to be  
 by them ratified or rejected:
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830010501:0012/pct:25.110410094637224,51.82446935368471,17.145110410094638,3.1838778917243022/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830010501:0012/pct:25.10645008673711,51.818290211040896,17.14766335488619,3.187472675966774/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -149,7 +149,7 @@ er, discuss and propose, a new Constitution, or alter­
 ations and amendments oft he existing Constitution  
 of this Commonwealth, to be submitted to the peo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830011601:0032/pct:42.250233426704014,19.82534812367241,17.16464363523187,2.218550861458579/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830011601:0032/pct:42.243659561226075,19.82300884955752,17.167159379700223,2.2222222222222223/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -167,7 +167,7 @@ ations and amendments of the existing Constitution
 of this Common wealth, to be submitted to the peo­  
 ple and to be by them ratified or rejected
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830011801:0062/pct:24.28525538066174,21.088595664467483,17.699967876646323,2.3091423185673894/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830011801:0062/pct:24.281355387827205,21.086111438331958,17.702478454044215,2.3127969529194643/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -196,7 +196,7 @@ ations and amendments of the existing Constitution
 of this Common wealth, to be submitted to the peo­  
 ple and to be by them ratified or rejected
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012101:0074/pct:23.653320469528865,20.880414312617702,17.880688213539155,2.6483050847457625/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012101:0074/pct:23.64951768488746,20.877956925973873,17.883172561629152,2.6519163626377935/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -213,7 +213,7 @@ discuss und propose a new Constitution, or
 alterations and amendments of the ending  
 ( &#x27;imlilulmu ot ties Coinmoneealih, to he su
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1830012101:0595/pct:52.59767248545303,86.9364161849711,14.567747298420615,1.5173410404624277/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1830012101:0595/pct:52.58674423436526,86.92385493425806,14.569914814045294,1.520733997977171/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -231,7 +231,7 @@ ations and amendments of the existing Constitution
 of this Commonwealth, to be submitted to the peo­  
 ple and to be by them ratified or rejected
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012301:0082/pct:23.497179693795328,33.31761932822628,17.888799355358582,2.2038892162639954/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012301:0082/pct:23.493393490170803,33.31369314164506,17.891288000859383,2.2075575457616465/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -249,7 +249,7 @@ and propose a new Constitution, or alterations and
 amendments to the existing Constitution of thiB Com­  
 monwealth,*’ have adjourned sine t/ie, after havia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830012601:0046/pct:6.1357494833889685,5.979307025986525,17.691940867906535,2.2256977863330123/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830012601:0046/pct:6.134774316592498,5.978587754120053,17.694426785335875,2.2294398331929908/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -296,7 +296,7 @@ and propose a new Constitution, or alterations and
 amendments to th existing Constitution of this Com­  
 monwealth,” have adjourned sine die, after havin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021301:0154/pct:6.325301204819277,58.431372549019606,17.580849714648068,2.1337946943483277/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021301:0154/pct:6.3242986210175935,58.42463383692769,17.58334654197707,2.1373928420405184/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -314,7 +314,7 @@ and propose a now Constitution, or alterations and
 amendments to the existing Con; litution of this Cora­  
 i non wealth,&quot; have adjourned sine (tie, after havin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022501:0194/pct:5.377741673436231,59.99293369450006,17.822908204711617,2.1905547049817455/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022501:0194/pct:5.3768680961663415,59.985869053226565,17.825427766948234,2.1942220128748624/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -332,7 +332,7 @@ nnd propose a ecvv Constitution, or alterations and
 amendments to the existing Constitution of this Com­  
 monwealth,” have adjourned sine, die, after havin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022601:0198/pct:6.88550840672538,59.29690302523018,17.614091273018413,2.2838694248475426/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022601:0198/pct:6.8844060198527055,59.28981348637016,17.61660796242929,2.287581699346405/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -351,7 +351,7 @@ ations and amendments of the existing Constitution
 of this Commonwealth, to be submitted to the peo­  
 ple and to be by them ratified or rejected
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022701:0202/pct:24.166132135984604,83.5308056872038,17.719692110327134,2.843601895734597/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022701:0202/pct:24.16225749559083,83.52090984480512,17.722195499973278,2.8472139951822455/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -369,7 +369,7 @@ njtd propose a new Constitution, or alterations and
 amendments to the existing Constitution of this Com­  
 monwealth,” have adjourned sine die, after havin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030501:0222/pct:5.162866449511401,60.9408410548824,17.89902280130293,2.1739130434782608/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030501:0222/pct:5.162025728708679,60.93360256562537,17.901536123324107,2.177614126776735/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -405,7 +405,7 @@ of Richmond, in general convention, to consider, discuss
 and propose a new constitution, or alterations and amend  
 ments to the existing constitution of this commonwealth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184637:1846011401:0052/pct:136.12742219612448,165.65525383707202,38.2413388138579,4.8288075560802834/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184637:1846011401:0052/pct:45.36914721855277,55.2118994215559,12.745241939429523,1.6094125054106165/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -444,7 +444,7 @@ new Constitution, or alterations and amend­
 | ments to the existing constitution of this Com­  
 monwealth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:0041421583A:1850031301:0637/pct:84.04095434905129,18.990299511435246,12.417809505917715,2.704807760390852/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:0041421583A:1850031301:0637/pct:84.03306095613787,18.988954970263382,12.419773958235497,2.7069763051071463/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -473,7 +473,7 @@ consider, discuss and propose a new constitution,
 or alterations and amendments to the existing con  
 etitution of this commonwealth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024652:00393348677:1850032501:0222/pct:2.493411717007906,88.4902411021814,14.595580782485303,7.878874856486797/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024652:00393348677:1850032501:0222/pct:2.492906364004864,88.47754340651457,14.597689501418728,7.881331611422012/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -491,7 +491,7 @@ October, -to discuss and propose a new
 constitution, or alterations and amend-  
 merits to the existing one.&quot; After th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058217:00271744766:1850032701:0464/pct:77.93237582286056,93.42428711897739,16.861160981448233,2.4705014749262535/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058217:00271744766:1850032701:0464/pct:58.47926957042359,70.07128810226155,12.662775033677594,1.8559488692232056/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -509,7 +509,7 @@ mond, in general Convention, to consider, discuss and
 propose a new Constitution, or alterations and amend­  
 ments to the existing Constitution of thiscommonwealth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024718:00414183736:1850040301:0056/pct:81.20265883444118,67.08780795957044,14.40717266965528,1.6529795746472942/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024718:00414183736:1850040301:0056/pct:81.19010819165379,67.0807453416149,14.41009788768676,1.6563146997929608/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -528,7 +528,7 @@ ations or amendments to the existing Consti­
 tution ot tins Commonwealth.*&#x27;  
 Distiict of Accomac and Northampton.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215841:1850091601:0605/pct:45.951210462851314,8.484931694926889,11.705778684723125,2.7665270817601426/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215841:1850091601:0605/pct:45.94694861806715,8.484349258649093,11.707784579237,2.7686252974556105/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -546,7 +546,7 @@ he law under which we are assembled, directs us to
 terations and amendments in the existing constitution of  
 the commonwealth. That we should have cometogeth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851071501:0352/pct:50.95062638172439,95.38731023744647,15.519528371407517,1.9560140132347217/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851071501:0352/pct:50.96045197740113,95.39379784611393,15.529353967084255,1.9560140132347217/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -563,7 +563,7 @@ Convention, to consider, discuss and propose a new
 Constitution or alterations and amendments to the ex­  
 isting Constitution of this Commonwealth, and by a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348379:1851080101:0101/pct:50.79735511474134,82.6192516423879,14.371839751069622,1.213938874607255/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348379:1851080101:0101/pct:50.78747812560762,82.60745394830786,14.373906280381101,1.2173354276738542/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -580,7 +580,7 @@ Convention, to consider, discuss and propose a new
 Constitution or alterations and amendments to tho ex­  
 isting Constitution of this Commonwealth; and by a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348379:1851080201:0104/pct:3.510492253383016,77.27533735285674,14.512649539125318,1.2776342233706575/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348379:1851080201:0104/pct:3.5098039215686274,77.26424572986939,14.514705882352942,1.2810391847280034/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -598,7 +598,7 @@ consider, discuss and propose a new Constitu­
 tion, or alterations and amendments to the ex­  
 isting Constitution of this Commonwealth; an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851080401:0309/pct:42.80425289538637,13.863383416805787,12.445414847161572,1.9407345575959933/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851080401:0309/pct:42.800189843379215,13.862419141684635,12.447397563676633,1.9429180867589437/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -616,7 +616,7 @@ pose a new Constitution or alterations and amend­
 ments to the existing Constitution of this Common­  
 wealth; and by an adt, passed on the thirteenth o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024718:00414183736:1851080601:0331/pct:56.468033120673276,6.941494497007144,12.868196009230351,1.9212203128016991/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024718:00414183736:1851080601:0331/pct:56.46036916395222,6.94082440389999,12.870973579442635,1.9242526627409338/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -637,7 +637,7 @@ to the existing Constitution of this Com­
 monwealth; and by an act, passed on the  
 thirteenth of March, in the year one thou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851080701:0180/pct:199.13744609038065,152.4485450674237,45.321582598912435,13.300212916962385/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851080701:0180/pct:49.775028121484816,38.10672722111836,11.328271466066742,3.324581322736304/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -654,7 +654,7 @@ thirteenth of March, in the year one thou
 Cl|ss and propose a new Constitution or alterations and  
 amendments to the existing Constitution of tlvis Common
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851080801:0393/pct:0.45394640503734074,75.85909003647534,15.609898960316299,1.3438279900172778/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851080801:0393/pct:0.4637086933177137,75.86548921738017,15.619661248596671,1.3470275804696998/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -672,7 +672,7 @@ discuss and propose a new Constitution or
 alterations and amendments to the exist­  
 ing Constitution of this Commonwealth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393349001:1851081201:0103/pct:15.544041450777202,58.57336956521739,11.917098445595855,2.1331521739130435/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393349001:1851081201:0103/pct:15.541357278535658,58.56541230811031,11.919357623899154,2.136258660508083/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -690,7 +690,7 @@ pose a new Constitution or alterations and amend­
 ments to the existing Constitution of this Common­  
 wealth ; and by an act, passed on the thirteenth o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024718:00414183736:1851081301:0334/pct:18.496322527921546,37.58650940637489,12.816671206755652,1.9495077492933035/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024718:00414183736:1851081301:0334/pct:18.493803622497616,37.58284600389864,12.81946525035181,1.9525666016894088/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -708,7 +708,7 @@ and propose a new constitution or alterations and
 amendments to the existing constitution of this  
 commonwealth,&quot; have adjourned sine dic, after hav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851081401:0188/pct:56.48883145652575,56.570218772053636,44.69263429942773,6.224417784050812/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851081401:0188/pct:14.119601328903654,14.14055884843353,11.17109634551495,1.5558848433530905/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -726,7 +726,7 @@ consider, discus* and propose a new Constitu­
 tion, or alterations and amendments to the ex­  
 isting Constitution of tins Commonwealth: an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851090201:0415/pct:32.03776899429074,50.18126450116009,14.448836187966624,1.8271461716937354/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851090201:0415/pct:32.03425183884071,50.17762633219749,14.450909357046145,1.829430387394572/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -774,7 +774,7 @@ discuss and propose a new Constitution, or al­
 terations anu amendments to the existing Con­  
 stitution of the Commonwealth,” terminate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215877:1852011501:0178/pct:35.58920965451964,4.899338307757286,25.37624230951254,93.8195128818809/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215877:1852011501:0178/pct:35.58584137800492,4.898993453931161,25.37699539403117,93.81525539053519/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -792,7 +792,7 @@ cuss and propose a new constitution, or al­
 terations and amendments to the existing j  
 constitution of the commonwealth, ’’tormina- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024718:00414183748:1852012101:0015/pct:5.025462342535513,21.683431391155818,13.280621817207184,2.125640539001708/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024718:00414183748:1852012101:0015/pct:5.024788958863728,21.681373944397002,13.283308767698424,2.128601701616219/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -813,7 +813,7 @@ gust last; and the instrument which was
 the work of its hands was on the fourth  
 Thurday of last October adopted by th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn85059716:00202193018:1852012101:0047/pct:3.2398536840271728,10.301650540694366,13.516808918306916,4.297097324985772/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn85059716:00202193018:1852012101:0047/pct:3.2398536840271728,10.312322140011384,13.516808918306916,4.297097324985772/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -832,7 +832,7 @@ propose a new Constitution, or alterations and
 amendments to the existing Constitution of  
 this Commonwealth; and by an act passed o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741947:1868012501:0095/pct:92.9266973221531,207.95287187039764,40.12713010549094,6.360456553755522/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741947:1868012501:0095/pct:30.97556577405103,69.31762395679921,13.375710035163646,2.1201521845851743/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -852,7 +852,7 @@ to the existing Constitution of this Common-­
 wealth; and by an act passed on the thir:­  
 teenth of March, in the year one thousan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741947:1868041801:0386/pct:1.554616118914496,149.23385625684057,41.96099822719214,7.1871579715432325/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741947:1868041801:0386/pct:0.5182053729714987,49.74461875228019,13.986999409064047,2.3957193238477443/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -871,7 +871,7 @@ propose a new constitution, or alterations
 and amendments to the existing Constitu­  
 tion of this Commonwealth; and by an ac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741960:1869051801:0485/pct:6.904857486953031,173.61850559941252,40.064231232436775,7.811639434551129/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741960:1869051801:0485/pct:2.301619162317677,57.87283519980417,13.35474374414559,2.603879811517043/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -905,7 +905,7 @@ and amendments to the existfc)&lt;; Consti­
 tution of this State. The Constitution  
 agreed upon by the Convention is to b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_deforest_ver02:data:sn84026847:0041566512A:1871022501:0192/pct:14.803670828945389,29.066399286987522,12.125771024522342,12.199197860962567/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_deforest_ver02:data:sn84026847:0041566512A:1871022501:0192/pct:14.80868562258663,29.070112893642307,12.130785818163583,12.20291146761735/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -923,7 +923,7 @@ sider, discuss and propose a new Consti­
 tution, or alterations and amendments  
 to the existing Constitution of thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_deforest_ver02:data:sn84026847:00415665131:1871081601:0161/pct:26.070846302060176,69.41099189840158,12.034978508966947,2.353842785198161/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_deforest_ver02:data:sn84026847:00415665131:1871081601:0161/pct:26.075786769428387,69.4146412670608,12.039918976335162,2.3611415225166046/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -942,7 +942,7 @@ and propose a new Constitution, or altera­
 tions and amendments to the existing Con­  
 stitution of West Virginia, meet at Char
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293459:1872011601:0054/pct:10.626822157434402,17.522824771752283,14.139941690962099,3.376966230337697/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293459:1872011601:0054/pct:7.977249526031792,13.144868551314486,10.616887851830246,2.5299747002529975/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -961,7 +961,7 @@ Constitution, or alterations and amend
 ments to the existing Constitution of the  
 Commonwealth,&quot; assembled at th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_whitesnake_ver01:data:sn85034438:00175049307:1895072801:0192/pct:4.28668248051508,44.26404361223039,40.54557777024738,6.529983408390614/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_whitesnake_ver01:data:sn85034438:00175049307:1895072801:0192/pct:1.4288941601716931,14.754681204076796,13.515192590082458,2.1766611361302046/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -980,7 +980,7 @@ propose a new Constitution, or alterations
 and amendments to the existing Constitution  
 of the Commonwealth,” assembled at th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024653:0039334961A:1895083001:0353/pct:26.108692146427995,44.26479949077021,10.965973230124174,2.2660725652450666/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024653:0039334961A:1895083001:0353/pct:26.104482425024187,44.259164969450104,10.968236052886166,2.2689663951120163/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

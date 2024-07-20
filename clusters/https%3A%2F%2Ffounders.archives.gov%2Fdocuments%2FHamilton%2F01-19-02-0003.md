@@ -164,7 +164,7 @@ the state judges then, as much as the federal judges are
 now, fworri and bound to conform to, and make theiji  
 the rule of their dcifiutl# ? He subjoins with becom
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795081401:0002/pct:30.42200854700855,6.879278677575555,21.314102564102566,6.628819502421106/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795081401:0002/pct:30.4420405982906,6.883452997161463,21.327457264957264,6.624645182835198/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -599,7 +599,7 @@ with no lawful impediment to the recovery
 of full value of all bona fide debts thereto­  
 fore contracted. The question was whethe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:0028076226A:1884062401:0117/pct:29.197080291970803,29.0291143866488,10.916463909164639,2.0830795468388352/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:0028076226A:1884062401:0117/pct:29.197080291970803,29.03520526251675,10.92051905920519,2.0861249847728103/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -623,7 +623,7 @@ this treaty. It is said that the countess
 of Huntington heard the speeches on  
 this case, and said that every one of t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_antelope_ver02:data:sn86075021:00294550410:1884070801:0655/pct:153.73695198329852,147.4147414741474,53.94572025052192,20.242024202420243/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_antelope_ver02:data:sn86075021:00294550410:1884070801:0655/pct:38.43423799582463,36.85368536853685,13.48643006263048,5.060506050605061/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -647,7 +647,7 @@ this treaty. It is said that the countess
 of Huntington heard the speeches on  
 this case, and said that every one of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_larch_ver01:data:sn93051662:00295867498:1884072601:0305/pct:38.28299776286354,53.99247491638796,16.05145413870246,6.469481605351171/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_larch_ver01:data:sn93051662:00295867498:1884072601:0305/pct:28.723255488742833,40.499581939799334,12.040274087540205,4.849498327759197/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

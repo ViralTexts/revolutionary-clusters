@@ -355,7 +355,7 @@ A further supplement to the act foramend­
 ing and reducing into system the laws and  
 regulations concerning last wills and testa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624244:1848032301:0106/pct:21.3757499651179,24.823962165002627,14.231896190874844,1.8497109826589595/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624244:1848032301:0106/pct:21.380400911585507,24.82746540550009,14.236547137342448,1.8532142231564197/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -393,7 +393,7 @@ or by some person in his presence and by his express direction, and
 shall be attested and subscribed in the presence of the said devisor  
 by three or more credible witnesses, or else shall be void and o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83025241:0038334721A:1850012301:0155/pct:58.428914377167246,86.97447039652363,22.219258468925048,2.9766431287343833/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83025241:0038334721A:1850012301:0155/pct:58.428914377167246,86.97809161687489,22.22370409887081,2.9766431287343833/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -417,7 +417,7 @@ other person in his presence and &quot;by his .
 express direction, and shall be attested and  
 subscribed in the presence of such part
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn85042199:00296026670:1852060201:0341/pct:109.61538461538461,29.568239540168427,16.96298984034833,7.057879962571849/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn85042199:00296026670:1852060201:0341/pct:82.25045372050816,22.17617965512632,12.722323049001815,5.306777168827697/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -477,7 +477,7 @@ making the same, or by some other person in
 his presenc and by his express direction, and  
 shall be attested and subscribed in the prca
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ingstad_ver01:data:sn85026051:00296027029:1852061901:0384/pct:41.177536231884055,30.851991858098284,16.77536231884058,6.280895609188717/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ingstad_ver01:data:sn85026051:00296027029:1852061901:0384/pct:30.89887640449438,23.14626344867694,12.595143167814426,4.710671706891538/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -506,7 +506,7 @@ same, or by some person fur him, in the
 office of the judge of the probate court,  
 in the county in which such testato
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85038078:00269026803:1852062501:1096/pct:104.35840707964601,43.251763999399486,18.960176991150444,12.235400090076565/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85038078:00269026803:1852062501:1096/pct:78.3263227806066,32.4425761897613,14.235111799867168,9.172796877345744/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -595,7 +595,7 @@ P By Mr. Berry to amend and reduce into
 system the laws and regulations concerning  
 last -wills and testaments, the duties of exe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624281:1856011701:0175/pct:35.61950201282242,28.8511466897447,14.879976144326823,1.6875811337083513/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624281:1856011701:0175/pct:35.61950201282242,28.858358574931486,14.889916008150688,1.6875811337083513/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -634,7 +634,7 @@ S. Government. Also, to reduce into system the
 laws and regulations concerning last wills and tes­  
 taments. Mr. Nuttle, for the promotion of corpo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026323:1858030401:0046/pct:30.722409098189974,10.77175697865353,12.526029152650969,2.1893814997263275/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026323:1858030401:0046/pct:30.722409098189974,10.77540594781974,12.542047092743873,2.1893814997263275/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -764,7 +764,7 @@ in the presence of the said devisor, by three or
 more creditable witnesses, or else they shall be  
 utterly void and of none effect
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:0029455127A:1872101001:0311/pct:50.685363163699385,78.69367417677643,15.59792027729636,4.560225303292894/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:0029455127A:1872101001:0311/pct:50.685363163699385,78.69728480647025,15.613675752323932,4.567446562680532/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -781,7 +781,7 @@ day of its date by Keefe, or by some other person
 in his presence and by his express directions, and  
 was attested and subscribed in the presence o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558330:1875060101:0529/pct:209.21690921690922,66.45169611763188,43.03534303534303,3.8694698826260803/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558330:1875060101:0529/pct:52.304227304227304,16.61292402940797,10.758835758835758,0.9673674706565201/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -949,7 +949,7 @@ rresence by three or four credible witness
 es, or &#x27;else they shall be utterly void and  
 of no effect.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_havanese_ver01:data:sn83045462:00280655089:1896091901:0441/pct:70.11227945107824,42.393345854574726,13.455711994296916,3.4209820230748593/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_havanese_ver01:data:sn83045462:00280655089:1896091901:0441/pct:70.11673498485119,42.403407566407296,13.477989663161647,3.4209820230748593/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1005,7 +1005,7 @@ almost impossible for tbe best lawyer in the
 oountry to write a will which will stand the  
 test or the Courts, and for this reason one o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287198:1899110101:0426/pct:2.7807486631016043,36.21822033898305,14.041252864782276,6.377118644067797/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287198:1899110101:0426/pct:2.7807486631016043,36.22528248587571,14.061624649859944,6.380649717514125/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1034,7 +1034,7 @@ void and of none effect.&quot;
 A layman would express tho idea  
 that it is almost impossible for th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_gnomiemoore_ver01:data:sn84026912:00294558640:1899121401:0696/pct:14.086193136472467,42.75237273511648,11.931364724660813,9.900776531492665/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_gnomiemoore_ver01:data:sn84026912:00294558640:1899121401:0696/pct:14.086193136472467,42.759562841530055,11.9357985279773,9.897181478285878/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

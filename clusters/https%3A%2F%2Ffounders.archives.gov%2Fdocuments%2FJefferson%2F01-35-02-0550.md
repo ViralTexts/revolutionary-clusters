@@ -435,7 +435,7 @@ on the surface.
 Hr then gives the preference to the West Indies,  
 and among these islands, to St Domingo, in co
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661381:1850090701:0258/pct:1.900709219858156,58.992562542258284,14.851063829787234,4.687852152355195/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661381:1850090701:0258/pct:1.900709219858156,58.99631883404703,14.860520094562649,4.691608444143941/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -506,7 +506,7 @@ ed these islands to become the receptacle of the
 blacks transplanted into this hemisphere.&quot;  
 If, then, Congress shall sustain the President i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762490:1873110401:0569/pct:5.991019884541372,62.524347487339305,12.22578576010263,3.4378652123100895/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762490:1873110401:0569/pct:5.999572375454351,62.52759381898455,12.22578576010263,3.4346188806648486/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -559,7 +559,7 @@ the receptacle, of the Blacks that have
 been transplanted into this hemis­  
 phere. Africa would offer a last, and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068245:00295878988:1899081001:0339/pct:53.348214285714285,86.38378720709309,15.025111607142858,14.291745830694532/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068245:00295878988:1899081001:0339/pct:40.016743407283386,64.78784040531983,11.273894237477327,10.724086974878615/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

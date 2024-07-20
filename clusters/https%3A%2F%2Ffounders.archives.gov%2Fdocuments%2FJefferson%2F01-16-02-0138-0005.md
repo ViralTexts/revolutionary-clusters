@@ -827,7 +827,7 @@ excefles of an irrational, unprincipled, profcrib­
 mg, confifcating, plundering, ferocious, bloody  
 and tyrannical democracy.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790050101:0001/pct:36.69218989280245,6.3271302644466205,55.4364471669219,89.99020568070519/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790050101:0001/pct:36.71516079632465,6.33692458374143,55.42113323124043,90.0/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1029,7 +1029,7 @@ vernment French freedom in the loathsome form of
 “ an irrational, unprincipled, proscribing, plunder­  
 ing, ferocious, bloody,and tyrannical Democracy.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1806102201:0171/pct:4.888233849177106,15.10256824422549,20.732006877916973,2.002907446293006/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1806102201:0171/pct:4.8870333988212185,15.100129198966409,20.733055009823183,2.0066214470284236/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1138,7 +1138,7 @@ irrational, unprincipled, proscribing,
 plundering, ferocious, bloody, and ty­  
 rannical Democracy.” Against s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1807041301:0168/pct:59.25352597179223,53.56331336500723,17.492260061919506,2.4271844660194173/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1807041301:0168/pct:59.24333619948409,53.557781679231645,17.493551160791057,2.4295156459774865/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

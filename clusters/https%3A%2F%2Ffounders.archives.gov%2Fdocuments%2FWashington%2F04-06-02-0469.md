@@ -152,7 +152,7 @@ that some very disagreeable consequences, must
 in all human probability result from the indulgence  
 of my wishes.” This letter was written whe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184017:1828040101:0443/pct:18.602029312288614,51.65962582981292,15.107102593010147,7.664453832226916/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184017:1828040101:0443/pct:18.59903381642512,51.65339126237026,15.11003757380569,7.66755169361976/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -286,7 +286,7 @@ to survive as an independent Republic, or
 decline from our federal dignity into insig­  
 nificant and wretched fragments of empire.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279523994:1861022201:0036/pct:95.3025122640107,172.8391264226392,37.609632822952285,8.56146826617451/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279523994:1861022201:0036/pct:31.7627824019025,57.60713553413984,12.534680935394372,2.8535301756544325/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -369,7 +369,7 @@ magnitude.”
 Washington, as well as other great men. was  
 ofeen vilely slandered by persons envious of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685154:1894030101:0266/pct:6.1995670143672506,76.34142994373542,21.098209013973626,6.669411280362289/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685154:1894030101:0266/pct:6.198347107438017,76.33095499451153,21.10061655516201,6.673069886571533/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -433,7 +433,7 @@ Again- &quot;I prize as I ought the good opin­
 ion of my fellow citizens; yet, if I know  
 myself, I would not seek popularity at th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_hoquiam_ver01:data:sn83045604:0020219946A:1898043001:0824/pct:122.45578428530008,236.80477369961721,37.53261815018846,3.940553929295204/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_hoquiam_ver01:data:sn83045604:0020219946A:1898043001:0824/pct:40.8185947617667,78.93492456653907,12.510872716729487,1.3135179764317346/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -474,7 +474,7 @@ retain popularity at the expense of
 one social duty or moral virtue.  
 The First Engraving of Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carlisle_ver01:data:sn86081854:00296026086:1899021601:0433/pct:81.29880805589806,66.44642344153979,14.097821619399918,4.35219764435507/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carlisle_ver01:data:sn86081854:00296026086:1899021601:0433/pct:81.29880805589806,66.45599923393661,14.104671872859296,4.34740974815666/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

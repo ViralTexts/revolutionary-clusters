@@ -663,7 +663,7 @@ or ought te have.”
 On the sth July, 1776, the people of this State  
 baving assumed and established a new form o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1820120501:0195/pct:22.932172447689933,20.144382911392405,16.00898750175537,3.8469145569620253/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1820120501:0195/pct:22.932172447689933,20.150975738396625,16.01366849225296,3.8469145569620253/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -698,7 +698,7 @@ ought to have.” i e
   
 In 1776, after the people of this stat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1821050801:0281/pct:23.5720498695274,27.99160251924423,16.396056828066108,13.58592422273318/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1821050801:0281/pct:23.581714506620276,27.99160251924423,16.391224509519667,13.58592422273318/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -793,7 +793,7 @@ are taken away in this case; but even their privileges are not such to
 cases of crime and tine. It is the necessity of the case, and the benent  
 of the revenuc, that justined this writ.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030212:00206530157:1841041001:0001/pct:239.7922752353132,50.97449470644851,58.13047711781889,5.762752646775746/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030212:00206530157:1841041001:0001/pct:79.93075841177107,16.991498235482837,19.37682570593963,1.9209175489252486/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -836,7 +836,7 @@ bars, and every thing in their way; and whether they break through
  malice or revenge, no man, no court, can inquire. Bare respicion  
  without outh iss vuficient.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030212:00206530157:1841041001:0001/pct:239.38656280428432,65.39942252165544,59.16910094125284,39.328681424446586/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030212:00206530157:1841041001:0001/pct:79.79552093476144,21.79980750721848,19.72303364708428,13.109560474815527/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -854,7 +854,7 @@ are taken away in this sase; but even their privileges are not sues in
 exses of crime and fine. It is the necessity of the case, and the bonofit  
 of the revenue, that justified this writ.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030212:00206530157:1841041201:0008/pct:179.41879713077066,178.71166431412806,57.34780209674453,5.838573078403695/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030212:00206530157:1841041201:0008/pct:59.80626571025688,59.570554771376024,19.115934032248177,1.9461910261345652/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -898,7 +898,7 @@ malice or revenre, no man, no court, can inquire. Bare suspicion
 without oath is supficient.&quot;  
 The elder loan Adams then a young man, was present at this moe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030212:00206530157:1841041201:0008/pct:179.19808718043038,191.40254074169127,58.690454294647786,40.31823431284486/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030212:00206530157:1841041201:0008/pct:59.73269572681013,63.80084691389709,19.563484764882595,13.439411437614954/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -989,7 +989,7 @@ health and applause, and even life, to the sacred calls of
 country. These principles, in private life, make the good  
 citizen; in public life, the patriot and the hero
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743397:1861112801:0536/pct:18.131030980192993,107.68141592920354,45.234467580836295,6.135693215339233/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743397:1861112801:0536/pct:6.043676993397664,35.89380530973451,15.078155860278764,2.045231071779744/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1119,7 +1119,7 @@ way ; and whether they break through malice
 ortevenge.no man. no court can enquire.  
 Bare surpicion without oath is sofficicient
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn86081912:00296028617:1863072901:0194/pct:62.72395750753132,39.81361074989164,14.919930236245442,16.135674035543996/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn86081912:00296028617:1863072901:0194/pct:62.72395750753132,39.81361074989164,14.930500502087627,16.14289842508308/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1152,7 +1152,7 @@ which our fathers enacted Lexington and
 Banker llill ? Shall we deliver up into the  
 hands of tyrrany tho Declaration of our In
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn86081912:00296028617:1863072901:0194/pct:62.739812906294596,56.09016038144777,14.967496432535278,11.855223233636758/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn86081912:00296028617:1863072901:0194/pct:62.745098039215684,56.09377257621731,14.983351831298558,11.8588354284063/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1290,7 +1290,7 @@ warehouse ; and for your so &#x27;doing thi
 laws cost one King of England his head and  
 another his throne, and these will cost Ulysse
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536135:1872061701:1042/pct:114.22053231939164,183.31843908251415,50.26615969581749,3.0980041703902295/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536135:1872061701:1042/pct:28.565994674781287,45.82960977062854,12.571319893495625,0.7745010425975574/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1310,7 +1310,7 @@ glish law book.&quot; The legal power, argues Judge Cooley,
 to examine &quot;books and papers with a vlew to discover  
 the evidences of crime&quot; is one which can properly h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hugo_ver01:data:sn83030214:00206531162:1874031301:0572/pct:53.17909723345737,37.737609329446066,47.8077980909238,9.492711370262391/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hugo_ver01:data:sn83030214:00206531162:1874031301:0572/pct:17.72636574448579,12.579203109815355,15.9359326969746,3.164237123420797/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1331,7 +1331,7 @@ way--on bare suspicion--suspicion without oath is sufn­
 cient.&quot; Lord Chatham said on the other side of the water  
 at about the same time that there was not a man to b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hugo_ver01:data:sn83030214:00206531162:1874032601:0679/pct:3.595358718744893,66.68979875086745,47.573132864847196,8.547305112190609/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hugo_ver01:data:sn83030214:00206531162:1874032601:0679/pct:1.1984529062482976,22.229932916955818,15.857710954949066,2.849101704063536/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1632,7 +1632,7 @@ ments of slavery on the one ban I and
 villiany on the other.&#x27;&quot; &quot;Then and  
 there,&quot; said John Adams, &quot;the trum
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_duwamish_ver01:data:sn87093109:00200290975:1877071201:0199/pct:24.076190476190476,48.466257668711656,16.590476190476192,6.007157464212679/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_duwamish_ver01:data:sn87093109:00200290975:1877071201:0199/pct:24.08888888888889,48.466257668711656,16.584126984126986,6.019938650306749/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1829,7 +1829,7 @@ slavery on the one hand and villiany
 on the other.&quot;  
 Every one is bound to admit tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_johns_ver01:data:sn92073049:00295879270:1890080501:0257/pct:65.41666666666667,57.32391640866873,19.458333333333332,15.296052631578947/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_johns_ver01:data:sn92073049:00295879270:1890080501:0257/pct:49.0830786329536,42.9953560371517,14.60127813281467,11.474458204334365/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

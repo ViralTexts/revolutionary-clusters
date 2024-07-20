@@ -588,7 +588,7 @@ the said sum of money above mentioned, or the in
 terest that may grow due thereon, or of any part  
 thereof, that then and from thencetorth it shall b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:0020653610A:1869102101:0495/pct:68.29652996845427,337.24639925662075,49.921135646687695,32.089205513396315/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:0020653610A:1869102101:0495/pct:17.084237522193728,84.31159981415519,12.487670151903728,8.022301378349079/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -615,7 +615,7 @@ and sold, allened, released and confirmed, and by
 these presents do grant, bargain and sell, alten, release and  
 confirm unto the said John Ropers, Joseph Trent, Willla
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_itchweed_ver01:data:sn83030313:00271743750:1871082801:0590/pct:52.88523533204384,169.26943699731905,50.77369439071567,13.6952636282395/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_itchweed_ver01:data:sn83030313:00271743750:1871082801:0590/pct:17.628411777347946,56.42314566577301,16.924564796905223,4.565087876079833/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -679,7 +679,7 @@ demand with iuterest thereon then these presents
 shall be void. And I the said party of the first  
 part, for myself, my executors, administrators an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_asburypark_ver01:data:sn88071311:00514155835:1886091901:0548/pct:51.288157609872265,28.71075891496495,14.4620047629357,6.491923194148126/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_asburypark_ver01:data:sn88071311:00514155835:1886091901:0548/pct:51.277056277056275,28.706384275483774,14.464285714285714,6.49474325765656/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -713,7 +713,7 @@ the said Doctor Burnett and John Speer in
 trust and to their successors, All that cer­  
 tain messuage, tenement and lot of lan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_islandbeach_ver03:data:sn87068108:00513685725:1892021301:0036/pct:68.06540298075532,22.382867703011197,12.603096512805672,14.175453853679748/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_islandbeach_ver03:data:sn87068108:00513685725:1892021301:0036/pct:68.05555555555556,22.380434782608695,12.606095679012345,14.177536231884059/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -77,7 +77,7 @@ thought cf our own death as tbe prospect of one
 friend after another dropping around us.  
 T. Fuller: As the sword of the best tempere
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn82015679:00415665672:1887110601:0056/pct:85.84527220630372,72.63003355704699,18.896848137535816,2.2546140939597317/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn82015679:00415665672:1887110601:0056/pct:64.402407566638,54.47776845637584,14.187446259673258,1.6883389261744965/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -114,7 +114,7 @@ pect of one friend after another drop
 ping around us.  
 All the means of action the shap
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_beatles_ver01:data:sn84027718:00271762689:1887112301:0440/pct:81.1915244909191,40.05082311346813,14.37809576224546,3.7454424925422605/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_beatles_ver01:data:sn84027718:00271762689:1887112301:0440/pct:60.92222986923606,30.040879460833057,10.791465932553338,2.8063197436747322/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -154,7 +154,7 @@ as the prospect of one friend
 after another dropping around  
 us
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_galena_ver02:data:sn88065721:00279521626:1887121501:0379/pct:6.445733222866611,28.33426808749299,14.946147473073736,3.2417274256870443/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_galena_ver02:data:sn88065721:00279521626:1887121501:0379/pct:6.445733222866611,28.33426808749299,14.951670809168737,3.2492054589642922/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -174,7 +174,7 @@ ping around us.---Seneca.
 We sometimes Congratulate our  
 selves at the moment of waking from 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eagle_ver01:data:sn83025733:0020029659A:1887122701:0888/pct:233.89651531151003,275.8394758394758,67.79303062302006,14.61097461097461/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eagle_ver01:data:sn83025733:0020029659A:1887122701:0888/pct:58.47412882787751,68.95986895986896,16.948257655755015,3.6527436527436525/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -201,7 +201,7 @@ owq inventions
   
 On Top of the Great Pyrami
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_juliet_ver02:data:sn84022097:00206536172:1888032301:0559/pct:67.09833187006146,29.204129204129202,13.871817383669885,7.192807192807193/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_juliet_ver02:data:sn84022097:00206536172:1888032301:0559/pct:50.35133948177427,21.91142191142191,10.408432147562582,5.394605394605395/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -244,7 +244,7 @@ ot death as the prospect of one friend af
 ter another dropping around us The de­  
 parture of sister McEuen teaches its les
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_airplane_ver01:data:sn87060004:00100481649:1893110901:0316/pct:50.87719298245614,87.31884057971014,14.614035087719298,3.3816425120772946/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_airplane_ver01:data:sn87060004:00100481649:1893110901:0316/pct:38.164590278996315,65.4958400429415,10.966836287067906,2.536231884057971/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -72,7 +72,7 @@ i blow to a conspiracy, which in in other
 I countr&#x27;es would bat e called for an ap­  
 pcul to ar:m, and has prov\ 1 that gov
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1807031201:0017/pct:63.52663342954605,56.46974408036355,26.134872736814483,36.354939009806266/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1807031201:0017/pct:63.5099685204617,56.45624103299856,26.13676110528157,36.354216483341304/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -104,7 +104,7 @@ Accept my salutations and assurances
 of great consideration and esteem.  
 (Signed) I&#x27;ll : J E E FERSO X.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1807031201:0018/pct:6.815096388813467,10.281724054900073,27.151778441487917,25.812665542980977/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1807031201:0018/pct:6.813246471226927,10.279248916706788,27.153456387984075,25.814476007061465/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -130,7 +130,7 @@ i; lUbns &#x27;vj.u. ■•;■ the pubifc safety, to
 1 i\x ver vi.iet untied  
 a doubt, i have seen With the greates
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807032301:0003/pct:21.911922663802365,80.28264709879059,17.78732545649839,6.984644652806088/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807032301:0003/pct:21.91908342284282,80.29170630067492,17.794486215538846,6.975585450921773/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -180,7 +180,7 @@ country.
 sideration and elleem,”  
 TH: JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1807032701:0403/pct:3.4495618124184224,17.874814448292923,19.261607309341787,19.272637308263235/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1807032701:0403/pct:3.448918717375093,17.8726035868893,19.264230673626646,19.27437641723356/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -234,7 +234,7 @@ devotion to his country
 great con«i&lt;teta»ion and e» rem.  
 8&#x27;g&#x27;ted, Til: J FFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807032701:0102/pct:39.94648318042813,16.264679883823714,18.138379204892967,21.719914130572043/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807032701:0102/pct:39.9388496082553,16.262626262626263,18.141282884260143,21.72138047138047/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -295,7 +295,7 @@ tion to his country. A _
 ces of great confidez ation and esteem.””  
 Signed, TH : JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1807040701:0476/pct:77.9115210254807,45.64066713272745,16.398311708613413,31.9284929591531/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1807040701:0476/pct:77.91673180136522,45.64066713272745,16.398311708613413,31.94180898165718/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -322,7 +322,7 @@ appeal to arms.&quot; The Executive, and the legisla­
 ture, were declared by him, &quot;to have deserved well  
 of their country.&quot; Coming from such a man, thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn85054702:00280776002:1842123101:0504/pct:259.4170403587444,27.279294899580986,114.87294469357249,350.81635601791646/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn85054702:00280776002:1842123101:0504/pct:64.8542600896861,6.8198237248952465,28.718236173393123,87.70408900447912/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -363,7 +363,7 @@ given of proving his devotion to his country. ^
 a iou and esteem,  
 &quot;THOMAS JEFFERSON.&quot; a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848110301:1095/pct:20.521487204249155,64.21729266448197,16.59423788829873,10.662969498361482/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848110301:1095/pct:20.526852298943076,64.21729266448197,16.60496807768657,10.671372153600538/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -387,7 +387,7 @@ ities all&#x27; that vigor which&#x27;: the Constitution
 foresaw Wonld be neoesaary, not only for their  
 own safety, but for that of thi whole.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn85025750:00280774650:1859121001:0380/pct:30.29054640069384,100.58164278621081,19.080659150043367,7.603915448999858/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn85025750:00280774650:1859121001:0380/pct:22.738121067476676,75.443325294368,14.319809069212411,5.702936586749893/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

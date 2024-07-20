@@ -38,7 +38,7 @@ flieso n re the true limits of manufactures and commerce.
 foreign nations and our liability to vs or.  
 Other quotations might bo mndo to show th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_lorca_ver01:data:sn83030272:00206533092:1888052101:0426/pct:227.53067484662577,296.70023237800154,50.4601226993865,14.93415956622773/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_lorca_ver01:data:sn83030272:00206533092:1888052101:0426/pct:56.91540379819681,74.17505809450039,12.622290427776711,3.7335398915569327/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -70,7 +70,7 @@ of manufactures and commerce. To go ba­
 yond them is to increase our dependence en  
 foreign, nations and our liability to war
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_elm_ver01:data:sn82015483:00271764303:1888091001:0237/pct:71.14399544678429,56.0476591647611,13.318155947638019,11.084366349741245/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_elm_ver01:data:sn82015483:00271764303:1888091001:0237/pct:53.380782918149464,42.03875315922494,9.99288256227758,8.316283547960044/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -100,7 +100,7 @@ bevond tliein is to increase our doponu­
 eiicoon foreign nations and our liabil­  
 ity to war.?From JcjJ&#x27;crsons Letter to 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_eritrea_ver01:data:sn84026844:00202193572:1892041401:1350/pct:17.591499409681226,48.930753564154784,16.41086186540732,8.706720977596742/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_eritrea_ver01:data:sn84026844:00202193572:1892041401:1350/pct:17.591499409681226,48.93499660556687,16.418240850059032,8.727936184657162/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -166,7 +166,7 @@ foreign nations and our liability to war
 ufactures and commerce is certainly be­  
 come essential to our independence
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_earhart_ver01:data:sn82015485:00237283314:1892050701:0424/pct:100.86147484493453,39.08433734939759,20.933838731909027,2.5903614457831323/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_earhart_ver01:data:sn82015485:00237283314:1892050701:0424/pct:67.2699069286453,26.06024096385542,13.960703205791107,1.7228915662650603/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -211,7 +211,7 @@ our dependence on foreign nat.ons sad our lia­
 bility to war—From Jefferson&#x27;s la-tler to  
 Governor Jay.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_imbe_ver01:data:sn98062948:00340581076:1892063001:1016/pct:59.82918789331735,28.75771335429037,10.443512136649685,4.645476772616137/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_imbe_ver01:data:sn98062948:00340581076:1892063001:1016/pct:59.83293377284986,28.76644545348702,10.443512136649685,4.648387472348353/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -238,7 +238,7 @@ commerce. To go beyond them Is to lno -ease
 our dependence on foreign nations and qur lia­  
 bility to war. From Jefferson&#x27;s Letter t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_gordon_ver01:data:sn89058370:00296021192:1892070601:0200/pct:68.18760611205433,46.63083918974783,18.208828522920204,7.261953975471958/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_gordon_ver01:data:sn89058370:00296021192:1892070601:0200/pct:51.15686690723838,34.973129392310874,13.670133729569093,5.456800330715171/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -295,7 +295,7 @@ our liability to war. These three important branches
 of human industry will then grow together and be  
 really handinaids to each other
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042945:1897080601:0846/pct:286.78380443086326,219.87841945288753,51.03132161955691,28.206686930091184/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042945:1897080601:0846/pct:71.70964660936008,54.96960486322188,12.760267430754537,7.051671732522796/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

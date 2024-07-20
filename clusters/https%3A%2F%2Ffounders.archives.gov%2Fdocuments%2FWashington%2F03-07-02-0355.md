@@ -1179,7 +1179,7 @@ their artillery, attempted to file off by a road lead
 of Hessians, amounting to about 1500 men,  
 and a troop of British light-horse. Division
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776038:1856020201:0172/pct:67.94258373205741,223.6088600756348,47.57347915242652,3.835764451647758/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776038:1856020201:0172/pct:16.98854896598872,55.9022150189087,11.89540249529995,0.9589411129119395/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1195,7 +1195,7 @@ and a troop of British light-horse. Division
 Hessians, amounting to about 1500 men, and  
 a troop of British light-horse. Divisious of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn84024558:00296028630:1856022301:0272/pct:31.307464547296245,30.877548721414893,14.648589683652798,1.1152416356877324/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn84024558:00296028630:1856022301:0272/pct:31.31265908264506,30.885058766099657,14.65378421900161,1.1152416356877324/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1228,7 +1228,7 @@ thrown in their way.
 Finding they were surrounded, they laid down  
 their arms. The number which submitted, wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_beachhaven_ver01:data:sn85035610:00513684964:1859051201:0109/pct:81.07380648817113,67.89718038727212,14.307975633942485,12.86377533688144/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_beachhaven_ver01:data:sn85035610:00513684964:1859051201:0109/pct:81.06232294617564,67.88949275362319,14.310670443814919,12.866092995169081/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1253,7 +1253,7 @@ volunteers from Massachusetts, the men of Marble-­
 head, under the command of Col. Glover. For ten  
 hours on that stormy nicht the work had gone on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:0020653123A:1875122501:0672/pct:151.74193548387098,132.04620088325217,47.435483870967744,18.11799343222738/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:0020653123A:1875122501:0672/pct:50.58064516129032,44.0154002944174,15.811827956989248,6.039331144075794/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1272,7 +1272,7 @@ push directly into the town, so that they might
 arge before the enemy had time to form. There  
 is an interesting story told of the Gene
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:0020653123A:1875122501:0672/pct:151.93548387096774,167.07054693692675,47.306451612903224,8.67398935567886/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:0020653123A:1875122501:0672/pct:50.645161290322584,55.69018231230891,15.768817204301076,2.891329785226286/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1296,7 +1296,7 @@ PuAeton above me, I thought it most prudent to
 return the same evening, with the prisoners and  
 artillery we had taken.&quot; Col Baylor, his first aid
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:0020653123A:1875122501:0672/pct:200.0483870967742,44.37776016306194,48.17741935483871,16.88370512965689/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:0020653123A:1875122501:0672/pct:66.68279569892474,14.792586721020648,16.059139784946236,5.62790170988563/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1331,7 +1331,7 @@ possible.
 Washington had formed his detachment  
 into 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685282:1876122101:0412/pct:50.916230366492144,16.818629866929523,11.06020942408377,8.871365204534253/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685282:1876122101:0412/pct:50.90790119417635,16.816557841567082,11.062489775887453,8.873352223727979/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1356,7 +1356,7 @@ ton sat in silence “on a bee-hive wrapped
 in his cloak,” and his words to his soldiers  
 then were, ‘ ‘I hope you will fight like men. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685282:1876122101:0412/pct:50.93259162303665,27.932479053721046,11.011125654450261,4.719073435189749/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685282:1876122101:0412/pct:50.924259774251595,27.929037821855367,11.013414035661704,4.721572009363065/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1378,7 +1378,7 @@ Three minutes after he knew from the fire
 on the lower road that the other division  
 had engaged. The Hessian outposts wer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685282:1876122101:0412/pct:50.94895287958115,36.91473632331198,11.06020942408377,3.42533267619517/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685282:1876122101:0412/pct:50.940618354326844,36.910188493285695,11.062489775887453,3.4279906369348283/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1403,7 +1403,7 @@ Princeton above me, I thought it most pru
 dent to return the same evening, with the  
 prisoners and artillery we had taken.” Col
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685282:1876122101:0412/pct:51.06348167539267,79.38639724001972,11.027486910994764,4.719073435189749/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685282:1876122101:0412/pct:51.05512841485359,79.37661697671554,11.029772615736954,4.721572009363065/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1745,7 +1745,7 @@ Finding they were surrounded, they
 laid down their arms. The number  
 which submitted was 23 officers an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_dunning_ver01:data:sn84022835:00237285050:1894071301:0883/pct:88.53658536585365,277.9235596120935,57.96747967479675,80.77581289218483/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_dunning_ver01:data:sn84022835:00237285050:1894071301:0883/pct:22.138646066273633,69.48088990302338,14.494816019516161,20.193953223046208/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -43,13 +43,13 @@ tal destruction of the colony.&quot; Would &quot;arch-traitor&quot;
 hare added any thing to the force of this description ?  
 And was It worth while to repeat a paragraph for the sak
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1852111301:0408/pct:18.265993265993266,70.42620106279145,15.488215488215488,3.036547012254636/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1852111301:0408/pct:18.27066965955855,70.43343093663016,15.488215488215488,3.036547012254636/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Continental monthly_](https://archive.org/details/sim_continental-monthly_1862-09_2_3/page/n72/mode/1up?view=theater)
+## [From _The Continental Monthly; Devoted to Literature and National Policy (1862-1864)_](https://archive.org/details/sim_continental-monthly_1862-09_2_3/page/n72/mode/1up?view=theater)
 
 #### 1862-09-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -120,7 +120,7 @@ vince the slaves and servants of the impotency
 of his designs.&quot; Washington thought that if  
 Dunmore was not crushed before Spring h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_braniff_ver01:data:sn82014760:00237288890:1862100901:0984/pct:222.12065813528338,354.9565525802447,48.90310786106033,11.06579180705799/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_braniff_ver01:data:sn82014760:00237288890:1862100901:0984/pct:55.55555555555556,88.73913814506118,12.231367169638775,2.7664479517644973/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -141,7 +141,7 @@ tency of his designs.” That such an appeal
 would be proper is admitted by Jefferson  
 while describing his owu individual losses fro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_damariscotta_ver02:data:sn83016025:00279525152:1862101101:0370/pct:16.12486147026228,59.24254853705223,12.855559660140377,3.0626196335794367/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_damariscotta_ver02:data:sn83016025:00279525152:1862101101:0370/pct:16.121883656509695,59.23444976076555,12.857802400738688,3.0656185919343812/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

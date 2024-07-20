@@ -91,7 +91,7 @@ ingenious, worthy young man,&quot; anxious to find a
 place as &quot;clerk, assistant tutor in a school &quot;or  
 assistant surveyor,&quot; &quot;of all of which I think hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743889:1874102601:0352/pct:8.880373208930356,284.35508170124,46.70109963345551,6.223200834395643/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743889:1874102601:0352/pct:2.9601244029767857,94.78502723374667,15.567033211151838,2.074400278131881/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -147,7 +147,7 @@ ence at least, till be can make acquaintance and
 obtain a knowledge of the conutry, yon will do  
 Well, and much obligo your affectionate father.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555651:1876061501:0631/pct:41.9906407487401,75.87368421052632,16.378689704823614,6.582456140350877/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555651:1876061501:0631/pct:31.514496668467494,56.91228070175438,12.2996578426076,4.940350877192983/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -231,7 +231,7 @@ a knowledge of the country, you will do well.
   
 and much oblige your affectionate father.&quot; I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_neruda_ver01:data:sn83030272:00175045053:1892111301:0169/pct:78.53403141361257,97.27272727272727,49.21465968586387,27.03030303030303/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_neruda_ver01:data:sn83030272:00175045053:1892111301:0169/pct:19.644527595884004,24.318181818181817,12.310570626753975,6.757575757575758/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

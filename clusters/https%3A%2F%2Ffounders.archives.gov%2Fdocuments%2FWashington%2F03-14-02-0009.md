@@ -172,7 +172,7 @@ their opposition lo G. Britain.
 De.tr sir, your most  
 obedient and affectionate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809022401:0001/pct:41.452648475120384,12.135858915741345,34.71107544141252,86.41410842586545/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809022401:0001/pct:41.452648475120384,12.135858915741345,34.731139646869984,86.42717178314827/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -463,7 +463,7 @@ its decrees appear to bear hard upon u® at
 times, they are nevertheless meant for gra­  
 cious purposes.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82014751:00513688246:1855082201:0113/pct:44.55066921606119,72.5560538116592,13.80149487224057,3.369634849455477/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82014751:00513688246:1855082201:0113/pct:44.56225737296483,72.5560538116592,13.80149487224057,3.369634849455477/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -530,7 +530,7 @@ of the creed I had adopted.&quot; Washington be­
 queathed to him an elegant Bible, in three vol­  
 umes, folio.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_fezza_ver01:data:sn85025007:00415663730:1874042001:0375/pct:17.79424098406486,45.07349454717876,15.739446463516913,4.817449027975344/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_fezza_ver01:data:sn85025007:00415663730:1874042001:0375/pct:17.79424098406486,45.079816658764024,15.753424657534246,4.817449027975344/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -549,7 +549,7 @@ on their arts, they, [the Englah] are practicing
 such low and dirty tricks that men of sentiment  
 and honor must blush for their tall.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346770:1876100501:0418/pct:18.290682414698164,58.83869383746624,13.205380577427821,1.7309108765038055/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346770:1876100501:0418/pct:18.290682414698164,58.846877813241676,13.227252843394576,1.7227269007283739/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -569,7 +569,7 @@ though its decrees appear to bear hard
 upon us at times, they are, neverthe­  
 less, meant for gracious purposes.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_galena_ver02:data:sn88065721:00279521572:1885022301:0002/pct:55.74504737295435,36.741805510181855,17.708871662360036,4.170750299466405/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_galena_ver02:data:sn88065721:00279521572:1885022301:0002/pct:55.75078954923916,36.74906530182584,17.714613838644848,4.167120403644415/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -620,7 +620,7 @@ less crowd la inextricable woe?&#x27;&quot; said
 Lollard.  
 &quot;That describes the situation of Irelan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn2006060001:00296023310:1890101001:0338/pct:10.819190600522193,61.77206551410373,20.904046997389035,5.232029117379436/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn2006060001:00296023310:1890101001:0338/pct:7.213970948261792,41.18516833484986,13.938305859311246,3.491810737033667/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -662,7 +662,7 @@ less crowd in inextricable woo?&#x27; &quot; said
 Lollard.  
 &quot;That describes the situation of Irelan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_jonesville_ver01:data:sn96077142:0041566994A:1890101801:0033/pct:16.272727272727273,62.584169737009276,20.30909090909091,5.081946385465633/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_jonesville_ver01:data:sn96077142:0041566994A:1890101801:0033/pct:10.858493997817389,41.72277982467285,13.5503819570753,3.3921992122983102/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -683,7 +683,7 @@ less crowd in inextricable woe?&#x27;&quot; said
 Lollard.  
 &quot;That describes the situation of Irelan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_marmaduke_ver02:data:sn89066695:00415661769:1890120401:0265/pct:31.411323896752705,49.822669882252804,15.299750208159868,4.114058731734998/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_marmaduke_ver02:data:sn89066695:00415661769:1890120401:0265/pct:23.573511037067888,37.367002411689604,11.474385672636402,3.0926372535111364/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -704,7 +704,7 @@ less crowd in inextricable woe?’ ” said
 Dollard.  
 “That describes the situation of Irelan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_bulbasaur_ver01:data:sn84022960:00414212001:1891022701:0324/pct:5.65631172562399,38.62533692722372,12.102711438319268,3.247978436657682/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_bulbasaur_ver01:data:sn84022960:00414212001:1891022701:0324/pct:5.655296229802514,38.62013205767417,12.105026929982047,3.250909580919014/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -725,7 +725,7 @@ less crowd in inextricable woe?’” said
 Lollard.  
 “That describes the situation of Irelan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_belle_ver01:data:sn85033078:00271768539:1891040901:0438/pct:31.526158850637028,34.005188585112755,12.266196801301165,3.202953502294951/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_belle_ver01:data:sn85033078:00271768539:1891040901:0438/pct:31.526158850637028,34.005188585112755,12.270714737507907,3.202953502294951/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -746,7 +746,7 @@ less crowd in inextricable woe?&#x27;&quot; said
 Lollard.  
 &quot;That describes the situation of Irelan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_bermuda_ver01:data:sn99062858:00415625121:1891041101:0548/pct:35.817465528562046,56.17320070216501,14.11687458962574,3.6863662960795787/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_bermuda_ver01:data:sn99062858:00415625121:1891041101:0548/pct:35.82840884219742,56.181002535595866,14.11687458962574,3.6863662960795787/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -808,7 +808,7 @@ less crowd in inextricable woe?&#x27;&quot; said
 Lollard.  
 &quot;That describes the situation of Irelan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_interceptor_ver01:data:sn98062890:0041562475A:1893050401:0589/pct:6.791720569210867,43.52480024121815,14.100905562742561,3.618272274988693/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_interceptor_ver01:data:sn98062890:0041562475A:1893050401:0589/pct:6.791720569210867,43.528569274837935,14.122466580422596,3.622041308608473/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -829,7 +829,7 @@ less crowd in inextricable woe!&#x27;&#x27;&quot; said
 Lollard.  
 &quot;That describes the situation of Irelan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_bermuda_ver01:data:sn99062858:00415625133:1893050501:0472/pct:5.734767025089606,42.95710025235146,14.043662430759206,3.613214039917412/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_bermuda_ver01:data:sn99062858:00415625133:1893050501:0472/pct:5.7401976756815465,42.96474726619255,14.054523731943087,3.613214039917412/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

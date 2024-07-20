@@ -352,7 +352,7 @@ distinguished heads, among which are the
 following—That it would secure the whole  
 of the fur-trade within the limits of the 17
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn86071587:00542866561:1824082701:0388/pct:49.7027027027027,6.1853863676187135,40.83783783783784,91.46661994042404/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn86071587:00542866561:1824082701:0388/pct:49.689273169413674,6.184302733006307,40.83355849770332,91.45497547302033/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -609,7 +609,7 @@ Ualfimorc American.
   
 From Ihr .Veto-Fort- F.venins Post, Drc. 15
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184522:1824122401:0344/pct:18.633343878519455,24.89978778589955,15.295792470737108,3.890591841546805/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184522:1824122401:0344/pct:18.63039696346671,24.896852528586585,15.298645157889188,3.8940626350740697/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

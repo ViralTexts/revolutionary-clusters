@@ -44,7 +44,7 @@ jealousy, and discontent, hoping thereby
 to effect some revolution in the govern­  
 ment, and were the tomenters of the in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216195:1815091801:0656/pct:63.424561403508775,36.25536386723881,17.83859649122807,3.4066030300376564/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216195:1815091801:0656/pct:63.415660959865285,36.25218914185639,17.840770885957525,3.409223584354933/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -388,7 +388,7 @@ rection.&quot;
  MOHNING LINE. For ALBaNY,  
 Proy, and intermediate landinss, from th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530182:1843062901:0420/pct:104.05007363770251,25.63158433057175,49.057437407952875,75.52418942415873/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530182:1843062901:0420/pct:34.683357879234165,8.543861443523916,16.35247913598429,25.174729808052913/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -464,7 +464,7 @@ any safeguard.— Washington.
   
 (7F” In the Fremont case the United States Su
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn85025594:00383347348:1855040301:0187/pct:43.80032206119163,70.65936337329475,12.359098228663447,2.542372881355932/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn85025594:00383347348:1855040301:0187/pct:43.80926820540347,70.66625327270222,12.359098228663447,2.5389279316521978/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -483,7 +483,7 @@ the turbulent and the vicious, no abilities
 exertions, nor the most unshaken in-  
 tegrity are any safeguard. WOSAINgTOn.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_kingler_ver01:data:sn87058151:00279529212:1855042701:0682/pct:46.267847460690405,283.9069514351789,38.80354238207121,5.781526322949259/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_kingler_ver01:data:sn87058151:00279529212:1855042701:0682/pct:15.422615820230135,94.63565047839296,12.934514127357069,1.9271754409830861/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -511,7 +511,7 @@ influence then, of the father of our coun
 try, secret political ^societies were pu  
 down. Lot the people of Virginia no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059861:00514157364:1855051601:0080/pct:1.1022768341163716,64.82561908466226,14.05854716299241,7.856865033061066/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059861:00514157364:1855051601:0080/pct:1.1020776874435412,64.81721545242416,14.06052393857272,7.85908737360643/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -561,7 +561,7 @@ timating that the arms they should take from
 them would soon become a magazine in their  
 hands
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774662:1861052301:0506/pct:215.21428571428572,246.95421366954213,49.285714285714285,64.60517584605176/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774662:1861052301:0506/pct:53.83241021976058,61.73855341738553,12.328032874754333,16.15129396151294/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -657,7 +657,7 @@ lieved to have been &quot;fomented by the self-created
 societies who were laboring to effect some revo­  
 lution in the Government,&quot; the president wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_psylocke_ver01:data:sn82015775:00200299899:1868032701:0595/pct:4.520865533230293,63.891726251276815,44.6870170015456,13.48314606741573/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_psylocke_ver01:data:sn82015775:00200299899:1868032701:0595/pct:1.5069551777434311,21.29724208375894,14.895672333848532,4.49438202247191/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -683,7 +683,7 @@ ington believed to have been &quot;fomented by
 the self-created societies who were laboring  
 to effect some revolution in the Government,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_apachetrout_ver01:data:sn82016242:00211105483:1868050901:0428/pct:73.93483709273183,140.21279696837195,63.909774436090224,27.692756157994463/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_apachetrout_ver01:data:sn82016242:00211105483:1868050901:0428/pct:18.483709273182956,35.05319924209299,15.977443609022556,6.923189039498616/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -701,7 +701,7 @@ to effect some revolution in the Government,
  lisE I exertions nor the most unshaken integrity are  
  itseany safeguard
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_milosz_ver01:data:sn83030272:00175044991:1892022201:0646/pct:0.0,53.33739713501981,69.79405034324942,8.899725693386163/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_milosz_ver01:data:sn83030272:00175044991:1892022201:0646/pct:0.0,13.334349283754953,17.458500286204924,2.2249314233465407/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

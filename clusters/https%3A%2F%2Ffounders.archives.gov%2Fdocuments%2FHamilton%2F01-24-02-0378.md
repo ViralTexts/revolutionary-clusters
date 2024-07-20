@@ -295,7 +295,7 @@ of electors by the people in districts.&quot; Hamil­
 ton thought this measure was justified by &quot;un­  
 equivocal reasons of public safety.&quot; There was
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_yorkie_ver01:data:sn83045462:00280654528:1879122301:0364/pct:2.6988125224901043,38.59649122807018,13.494062612450522,4.817813765182186/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_yorkie_ver01:data:sn83045462:00280654528:1879122301:0364/pct:2.6988125224901043,38.59986504723347,13.503058654192156,4.83468286099865/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -318,7 +318,7 @@ In religion and a fanatic in politics (Jefferson)
 from getting possession of the helm of state.,  
 Gov. Jay, though a strong Federalist, decline
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_yorkie_ver01:data:sn83045462:00280654528:1879122301:0364/pct:2.6628283555235694,43.27935222672065,13.476070528967254,4.372469635627531/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_yorkie_ver01:data:sn83045462:00280654528:1879122301:0364/pct:2.6763224181360203,43.28947368421053,13.480568549838072,4.375843454790823/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -471,7 +471,7 @@ good citizen,&quot; as the suggestions of wholeele bribery repeatedly offered by
 Oonserative togans in the present camraign abundantly show  
 It to rather entertaining to notict that not only in general principles, hut evet
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_echo_ver03:data:sn86071197:00175034869:1896072401:1226/pct:87.34729493891797,56.31868131868132,104.27574171029669,26.717032967032967/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_echo_ver03:data:sn86071197:00175034869:1896072401:1226/pct:21.85112420868806,14.07967032967033,26.08600742196027,6.679258241758242/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -521,7 +521,7 @@ stripping it of its due energies; others of them to a revolution,
 after the manner of Bonaparte. I speak from indubitable  
 facts, not from conjectures and inferences.” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024653:0039334961A:1896080701:0545/pct:71.78820854312166,10.785686998599262,22.73834659736885,9.9579778428626/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024653:0039334961A:1896080701:0545/pct:71.77655082819098,10.784313725490197,22.738713868139005,9.959893048128341/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

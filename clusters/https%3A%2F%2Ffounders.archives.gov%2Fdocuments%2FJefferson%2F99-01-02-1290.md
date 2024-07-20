@@ -329,7 +329,7 @@ Christ to break on their sins by right­
 eousness and their iniquities by turning  
 unto the Lord, and you are met at onc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_green_ver02:data:sn84022687:00202199240:1845032001:0547/pct:7.915993537964459,31.159846923756255,19.063004846526656,2.3255813953488373/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_green_ver02:data:sn84022687:00202199240:1845032001:0547/pct:5.9393939393939394,23.373564910214895,14.323232323232324,1.7515454813070357/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -472,7 +472,7 @@ true. Those who break off their sins by
 righteousness, and their iniquities by turning  
 unto the Lord their God, are exception
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295861939:1885080601:0228/pct:43.00545029846872,16.039783001808317,14.209706722034777,1.7269439421338155/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295861939:1885080601:0228/pct:43.009775932174065,16.045810729355033,14.20538108832944,1.7269439421338155/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

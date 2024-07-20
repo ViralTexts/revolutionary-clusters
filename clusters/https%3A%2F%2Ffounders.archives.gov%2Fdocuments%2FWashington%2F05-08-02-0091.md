@@ -84,7 +84,7 @@ in the general prosperity, aad iia inhabitants be mdividu­
 slly hsppN. in my sincere wiah.  
 0. WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661216:1853101501:1133/pct:16.156351791530945,76.19642634012246,15.814332247557003,7.872047982006747/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661216:1853101501:1133/pct:16.156351791530945,76.20059144487485,15.814332247557003,7.876213086759132/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -118,7 +118,7 @@ i&#x27;;rt*ci a’e in the general prosperity, and its in­
 habitants b? individually lianpv. t« nay -inceie  
 Wwh g Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215907:1853101501:0360/pct:19.733903982136212,69.14446002805049,12.299962783773726,8.583450210378682/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215907:1853101501:0360/pct:19.73206809935808,69.13961152794334,12.301919558408533,8.585185704602296/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -273,7 +273,7 @@ cere wish.
   
 G. WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn86083363:00415668831:1853102601:0469/pct:81.69288937675326,44.74320803870488,14.404195633613856,7.927056196501675/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn86083363:00415668831:1853102601:0469/pct:81.6969549132008,44.74320803870488,14.400130097166322,7.939461605259893/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -337,7 +337,7 @@ rrent nnd reThzTtio&quot;. , .
 Thnt the town of NvH-rn mnv eminently psTTlCl-  
 par
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_price_ver01:data:sn84026547:00296022962:1860071001:0132/pct:5.93089221248066,20.083519471690785,19.43011861784425,8.856948625813343/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_price_ver01:data:sn84026547:00296022962:1860071001:0132/pct:4.448742746615087,15.062639603768087,14.584139264990329,6.65242303583568/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -449,7 +449,7 @@ perity, and its inhabitants be individual­
 ly happy, is my sincere with.  
 (i. WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_grandfather_ver01:data:sn85042098:00415667449:1884052801:0499/pct:35.7379767827529,26.370306430729393,30.48645660585959,102.40612861458783/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_grandfather_ver01:data:sn85042098:00415667449:1884052801:0499/pct:26.81409813407049,19.777729823047043,22.874913614374567,76.81268882175226/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

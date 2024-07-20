@@ -48,7 +48,7 @@ thereon, to have and to hold the afore granted pre-­
 mises to the said Morris, his heirs and assigns to  
 his and their ure and behoof forever. And I do fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743038:1851062001:0938/pct:199.67137693066053,131.32405383642012,46.00722970752547,18.831243529276428/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743038:1851062001:0938/pct:66.5571256435535,43.774684612140035,15.335743235841823,6.277081176425477/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -138,7 +138,7 @@ unto the Lord Jesus, the Supreme Ruler of th
 I do hereby acknowledge, do hereby  
 give, grant and convey unto the Lor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dorothy_ver01:data:sn85033295:00279550055:1884073001:0103/pct:34.64078716808195,75.29756281881731,14.112414071977355,1.6058945777441904/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dorothy_ver01:data:sn85033295:00279550055:1884073001:0103/pct:34.64078716808195,75.30386044461238,14.116907040481646,1.609043390641728/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -173,7 +173,7 @@ numbered (our, bounded as follows; Beginning
 at Kennebec River In the North Line of Thomas  
 Bowman’s land; thence running Northerly by th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_graftonnotch_ver01:data:sn83016025:00414210909:1889012801:0157/pct:24.09725219392893,34.44022770398482,9.552582362250035,4.257590132827325/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_graftonnotch_ver01:data:sn83016025:00414210909:1889012801:0157/pct:24.09378596087457,34.436143721095696,9.554804372842348,4.260049804340093/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -195,7 +195,7 @@ ever, against, the lawful claims and de­
 mands of all persons whomsoever.  
 In witness whereof we have hercunti
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_oystercatcher_ver01:data:sn96061150:00202194564:1893122201:1070/pct:8.560794044665013,91.73871277617675,17.3904052936311,5.612735007547688/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_oystercatcher_ver01:data:sn96061150:00202194564:1893122201:1070/pct:6.432264736297828,68.8074653492521,13.050672182006204,4.212982022780293/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -303,7 +303,7 @@ said Benjamin Hinds ye and behoof for­
 ver, and I do covenant with the said  
 Benjamin Hinds,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_jackrabbit_ver02:data:sn84036012:00294550264:1898022101:0933/pct:91.46995708154506,164.6237172177879,39.86051502145923,39.63797035347776/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_jackrabbit_ver02:data:sn84036012:00294550264:1898022101:0933/pct:30.489985693848354,54.87457240592931,13.286838340486408,13.212656784492589/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

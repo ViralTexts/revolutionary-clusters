@@ -31,7 +31,7 @@ Treasury, wt»s read twice and referred to
 the committee on public lands.  
 The amendments of the S mate to the hil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812022901:0197/pct:23.5092101155167,41.30732063086881,22.68186075554168,4.403318442884492/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812022901:0197/pct:23.505540814733884,41.30355515041021,22.683523229800738,4.405955636584625/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -192,7 +192,7 @@ a line drawn with the general course there­
 of to the southern boundary of the said Mis­  
 sissippi territory, the lands within the sai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812051401:0155/pct:22.30340988169798,14.115606936416185,33.48990953375087,77.75722543352602/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812051401:0155/pct:22.29953035310489,14.113975262975378,33.48988229837073,77.75209031711171/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -292,7 +292,7 @@ the lunds within the said Hmit&lt; shall be laid off
 into two lands districts, bstwecn which Pearl  
 river shall be the boundacy 5 and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812061001:0633/pct:3.1044678055190538,5.004926108374384,22.601839684625492,15.793103448275861/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812061001:0633/pct:3.1044678055190538,5.011494252873563,22.60731493648708,15.796387520525451/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -320,7 +320,7 @@ the «laims filed as aforesaid, in which the
 claims shall be arranged into classcs, accord­  
 ing to their respective merits, and other cir
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812061001:0633/pct:26.659001314060447,12.64039408866995,22.24047306176084,9.605911330049262/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812061001:0633/pct:26.66995181778362,12.64367816091954,22.245948313622428,9.605911330049262/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -352,7 +352,7 @@ to lands in that part of Lou.siana wuich lies
 east of the i i» cr Mississippi and Island ofN.  
 Orleans
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812071101:0632/pct:77.88432267884323,39.35889263272926,20.8675799086758,5.646116018577543/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812071101:0632/pct:77.87246994369198,39.355308686942266,20.86947699487648,5.6486371638438655/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -428,7 +428,7 @@ BY AUTHORITY.
 AN ACT  
 For the better organization of the courts o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814042701:0092/pct:21.30697419000549,45.876226232287756,17.243272926963208,13.358362601429091/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814042701:0092/pct:21.30307467057101,45.87067086461613,17.24621766715471,13.360781464438524/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -495,7 +495,7 @@ the river Mississippi and island of N&gt;jw Or.
 |«»ns.  
 HE It enacted by the Senate, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814052101:0120/pct:3.8391224862888484,81.14341798552324,17.07495429616088,3.815482762851184/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814052101:0120/pct:3.838420764028514,81.13346418056919,17.077926034241152,3.819103696434413/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -546,7 +546,7 @@ Scc. 2. And be&#x27;it furtber ena¥ed, That it shall be
 the duty of the commissioners appointed under  
 the a&amp; aforefaid, to receive such evidences as t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814053101:0089/pct:23.59518754423213,78.73741285824941,17.0276008492569,7.881487219209915/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814053101:0089/pct:23.604623732012268,78.74064033049316,17.0276008492569,7.881487219209915/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -574,7 +574,7 @@ next, T WA . ‘
 Sec. 2.—. And be il Jhether enacted, That it shall be  
 the duty of the commistioners appointed under th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1814072701:1076/pct:27.408159810394448,12.892123119284099,22.803453529710513,7.522863605074245/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1814072701:1076/pct:27.408159810394448,12.898678991706822,22.82038259691891,7.5261415412856065/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -626,7 +626,7 @@ fippi and iflind of New-Orleans,” which
 are contained in the several repigts of the  
 commiffioners,and which are, in the opinion
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010832:1819052501:0449/pct:7.996051332675222,27.27715538236727,16.10492173177267,5.153433999025816/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010832:1819052501:0449/pct:7.996051332675222,27.27715538236727,16.123724909509708,5.156681279428478/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -658,7 +658,7 @@ and istapd of New-Orléans,” which are con
 tained in the several reports of the commis­  
 sioners, and which are, in the opinion of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1819081101:0950/pct:4.421094369547978,40.37985136251032,21.788263283108645,5.367464905037159/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1819081101:0950/pct:4.43431139307428,40.3877157799536,21.794871794871796,5.367464905037159/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -772,7 +772,7 @@ to Congress, or whose claims have not been
 heretofore presented to the said Comissioner ;  
 or to the Register and Receiv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015143:1824062201:0305/pct:22.66068759342302,47.40661892781111,16.352765321375188,10.179988387845945/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015143:1824062201:0305/pct:22.670652715495766,47.4098445261596,16.35774788241156,10.179988387845945/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

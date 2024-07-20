@@ -909,7 +909,7 @@ Shall know he conquer d. The firm patriot there
 I bough still, by faction, vice, and fortune Croat.  
 Shall find the generous labor was not lost
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kuvasz_ver02:data:sn83045462:00280654073:1856061701:0426/pct:1.619304651531989,19.000819000819,16.14541990792189,2.538902538902539/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kuvasz_ver02:data:sn83045462:00280654073:1856061701:0426/pct:1.627242419431656,19.00337837837838,16.14541990792189,2.5516994266994266/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -983,7 +983,7 @@ Who made the welfare of mankind his
 care,  
 Shall know he conquered.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_ahwahnee_ver01:data:sn85066387:00175037664:1898021301:0186/pct:70.41541620597062,86.1620617599257,12.083399147054179,11.144648247039703/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_ahwahnee_ver01:data:sn85066387:00175037664:1898021301:0186/pct:70.42068130363818,86.1620617599257,12.08866424472174,11.152387586100147/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

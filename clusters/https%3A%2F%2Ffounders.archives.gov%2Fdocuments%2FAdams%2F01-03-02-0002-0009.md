@@ -108,7 +108,7 @@ who adverti*e? it for aale. and, it ia aaid, a*k? forty-live
 thousand livrea lor it She declinea letting it,or 1 should  
 I liaVT- hired it. The principal |&gt;eople in thin village ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851081501:0830/pct:67.20641151455675,67.81949087168938,15.865227347072294,9.822576497814348/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851081501:0830/pct:67.20641151455675,67.81949087168938,15.870679315232799,9.831147681494814/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -148,7 +148,7 @@ Lords, if you do not kill him, he will kill you.&quot; Mr.
 West said to me that this was one of the finest fine­  
 ishings irthe picture of American Independence.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530510:1856092401:0590/pct:154.86055134612283,209.60307298335468,47.412542318233115,50.192061459667094/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530510:1856092401:0590/pct:51.62018378204095,69.86769099445156,15.80418077274437,16.730687153222366/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

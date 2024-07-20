@@ -1249,7 +1249,7 @@ sweet.”
 —** {weet is the breath of morn, her rising  
 sweet with charm of earliest birds.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802080301:0124/pct:42.65514532600157,11.344496185475082,16.433621366849962,1.2582978301793322/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802080301:0124/pct:42.65514532600157,11.344496185475082,16.449332285938727,1.2616004491561807/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1771,7 +1771,7 @@ After short showers; and sweet the coming on
 Of grateful evening mild.”  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:0041421647A:1833052401:0616/pct:18.311080284376626,51.41486220472441,18.50182070400555,7.65255905511811/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:0041421647A:1833052401:0616/pct:18.307905686546462,51.40853733546562,18.504392048081368,7.655718210521999/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2167,9 +2167,9 @@ Or glittering starlight, without thee are sweet!?
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1839-10_6_22/page/n2/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1839-10_6_22/page/n2/mode/1up?view=theater)
 
-#### 1839-10-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1839-10-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2553,7 +2553,7 @@ When first on this dididilfnl land he spreads •
 Disorient beams, on herb, tree, fruit and flower,  
 Glistening with dew.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624463:1851101101:0049/pct:6.32996632996633,83.88423216827455,19.10213243546577,4.064526332437135/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624463:1851101101:0049/pct:4.905769788344448,65.01062265075993,14.81588866338069,3.16228141853244/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2809,7 +2809,7 @@ Nor grateful evening mild ; nor silent Night
 With this her solemn bird ; nor walk by moon  
 Or glittering stnrlight, witlioutMee is sweet.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862725:1867010301:0001/pct:56.234231841720884,63.00572608654839,13.530739609613597,4.702900591382709/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862725:1867010301:0001/pct:56.234231841720884,63.01198410463406,13.535165759305979,4.702900591382709/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2870,7 +2870,7 @@ o
 Or glittering starlight, without thee is  
 sweet.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_drinksmall_ver01:data:sn84026923:00237288361:1869061601:0611/pct:252.64016612281222,137.64576457645765,41.76802135864729,41.496149614961496/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_drinksmall_ver01:data:sn84026923:00237288361:1869061601:0611/pct:84.21338870760407,45.88192152548588,13.922673786215762,13.832049871653831/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2958,7 +2958,7 @@ ing sweet with charm of earliest bird.—
 Milton.  
 Pleasures are the poppies spread
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_carrie_ver01:data:sn85033295:0027176876A:1875081801:0075/pct:79.5129698253044,17.51147842056933,14.293276866066702,2.369146005509642/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_carrie_ver01:data:sn85033295:0027176876A:1875081801:0075/pct:79.5129698253044,17.51147842056933,14.297688371272278,2.372206917661463/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2976,7 +2976,7 @@ rising sweet with charm of earliest
 bird.—Milton.  
 Pleasures are tho poppies spread 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159385:1875092301:0352/pct:61.129701512515055,44.033437826541274,10.58760540757596,2.0689655172413794/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159385:1875092301:0352/pct:61.129701512515055,44.03692093347266,10.600990496586803,2.072448624172762/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3198,7 +3198,7 @@ Witb this her solemn bird, nor walk by moon,
   
 Or sintering siarugui, wunout tnee is swee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eeyore_ver01:data:sn87052143:00294556588:1881052101:0082/pct:33.67531683765842,114.66380543633763,13.005431502715751,6.533142584644731/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eeyore_ver01:data:sn87052143:00294556588:1881052101:0082/pct:25.264111077573197,86.00381497377205,9.764563839420465,4.8998569384835475/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3216,7 +3216,7 @@ Milton: Sweet is the breath of morn;
 her rising sweet with charms of earliest  
 birds
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_chaska_ver01:data:sn83025287:00175035412:1883040801:0351/pct:29.66346885944876,17.440053285968027,13.23283082077052,2.064831261101243/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_chaska_ver01:data:sn83025287:00175035412:1883040801:0351/pct:29.66346885944876,17.447454114860864,13.237906705243388,2.0611308466548253/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3240,7 +3240,7 @@ Aftek soft showers; and sweet the
 COMING ON  
 Of grateful evening mild.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kite_ver01:data:sn86092182:00514157480:1883070701:0110/pct:56.82277318640955,88.66197183098592,12.157943067033976,5.619718309859155/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kite_ver01:data:sn86092182:00514157480:1883070701:0110/pct:56.81233933161954,88.64948598788904,12.160301138450238,5.622447542599634/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

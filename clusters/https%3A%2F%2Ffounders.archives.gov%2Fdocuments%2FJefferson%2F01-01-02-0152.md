@@ -484,7 +484,7 @@ cure substantial and equal liberty to the people
 EDMUXD PENDLETON, Prcs’t.  
 Jo!ai Pendleton, CIV of Gon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1816072401:0094/pct:19.71390989805985,52.38336713995943,15.02795133179875,32.251521298174445/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1816072401:0094/pct:19.710669077757686,52.37672708835087,15.030960600580853,32.251658427346094/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -692,7 +692,7 @@ be most likely to maintain peace and order in
 this colony, aud scenic substantial and equal  
 liberty to the people.*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:0041418392A:1817112501:0207/pct:3.4659184683941247,2.746987951807229,30.73114375309457,92.40963855421687/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:0041418392A:1817112501:0207/pct:3.4653465346534653,2.7466570292735817,30.731573157315733,92.40252178452396/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -780,7 +780,7 @@ peace a&#x27;id order in this colony, and nt
 cure substantial and equal iibeitv to the  
 people.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216237:1817112801:0200/pct:77.73214693132557,28.26897470039947,18.845539584759297,48.21571238348868/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216237:1817112801:0200/pct:77.71441605839416,28.265211023831714,18.848844282238442,48.21373097235166/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -828,7 +828,7 @@ respectable body to declare the United Colonies
 free and independent. States, absolved from all alle­  
 } giance to our dependance upon the crown of Grea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021391:00340588010:1826042201:0011/pct:39.68726731198809,38.15251084934904,17.44229337304542,3.384996900185989/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021391:00340588010:1826042201:0011/pct:39.693472325639114,38.15251084934904,17.44229337304542,3.3973961562306263/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -904,7 +904,7 @@ vernment ns will be most likely to maintain peace nnj oi­
 ler in this colony, and secure substantial and ciju.tl liberty  
 tn the People.” And a committee was appointed of tl.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184303:1828020601:0049/pct:58.93308080808081,2.4528972627088517,36.19002525252525,91.70517833866572/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184303:1828020601:0049/pct:58.92378096891274,2.4526066350710902,36.189574456893375,91.69826224328594/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -977,7 +977,7 @@ such a plan of Government as will be most likely
 to maintain peace and order in this Colony, and  
 sccu.e substantial and equal liberty to the People.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184017:1828031101:0421/pct:50.9190583682683,25.615942028985508,15.285391809093841,28.52657004830918/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184017:1828031101:0421/pct:50.91084958890859,25.612848689771766,15.288301359557204,28.527150505172482/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1023,7 +1023,7 @@ gress for forming foreign alliances and a &lt; online­
 i alien of the Colonies, at such time,and in the man  
 ncr, us to them shall seem best, 6m
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348847:1833042201:0280/pct:50.283400809716596,79.1306850892343,15.34412955465587,6.491076568796776/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348847:1833042201:0280/pct:50.27322404371585,79.11929774068211,15.34608378870674,6.493740106490143/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1473,7 +1473,7 @@ and secure substantial and equal liberty to lk.c
 people. EDMOND PENDLETON  
 % I Presiden
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157339:1853100601:0136/pct:1.5471167369901546,16.811003565970452,13.748241912798875,27.72542027508915/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157339:1853100601:0136/pct:1.5468447881877307,16.808862854959887,13.75021972227105,27.725073220425315/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1502,7 +1502,7 @@ ment for, and the reguhuious of the internal con­
 cerns ofihe colony, be lell to respective colonial  
 legislatures.&#x27;&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661538:1854031801:0276/pct:43.91634980988593,7.401507911224382,13.321564367191744,7.21036423489434/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661538:1854031801:0276/pct:43.91634980988593,7.408587306644012,13.335143943508962,7.21036423489434/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1519,7 +1519,7 @@ legislatures.&#x27;&#x27;
 the regulations of the internal concerns of the colony, be left  
 to the respective colonial legislatures.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854040101:0517/pct:32.544280748220494,90.57382333978079,15.841748054957788,1.5989684074790458/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854040101:0517/pct:32.54979859846604,90.57812164195143,15.847265905203333,1.6032667096496884/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1547,7 +1547,7 @@ ernment for, and the regulations of the inter­
 nal concerns of the colony, be left to resped­  
 tive colonial legislatures.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472062:1854041501:0005/pct:21.349862258953166,83.20788995587854,44.83471074380165,24.34466649364132/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472062:1854041501:0005/pct:5.339304168101964,20.801972488969636,11.212538753014123,6.08616662341033/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1575,7 +1575,7 @@ ment for, and the regulation of internal concerns
 of the colony, be left to respective colonial Leg  
 islatures
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035101:00296027078:1854052401:0202/pct:27.711738484398218,61.21902210314802,19.205052005943536,9.28332217012726/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035101:00296027078:1854052401:0202/pct:20.787664870889838,45.92096450100469,14.415753297417798,6.96584058941728/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1631,7 +1631,7 @@ i ing government for, and the regulation of the internal
 | concerns of the colony, be left to the respective colonial  
 j legislatures.&#x27; Would you deny to the people of Kansas 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82003410:00415661071:1856102401:1121/pct:31.9030148349019,49.82861495493208,15.345350135587813,2.5771232702805635/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82003410:00415661071:1856102401:1121/pct:31.90833200404105,49.83707841394778,15.345350135587813,2.5771232702805635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1654,7 +1654,7 @@ ernments for, and the regulations of the infer­
 nal concerns of the colony, be left to the re  
 spective colonial legislatures.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn85026002:00280775228:1860081401:1301/pct:83.64073777064957,282.8906365929663,49.79951884522855,15.966760646980264/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn85026002:00280775228:1860081401:1301/pct:20.91018444266239,70.72265914824158,12.449879711307137,3.991690161745066/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1675,7 +1675,7 @@ tions of the internal concerns of the
 colony, be left to the respective colo­  
 nial legislatures
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1860083001:0133/pct:80.69187449718423,162.06472757066777,53.74094931617056,17.096818243889118/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1860083001:0133/pct:20.18514791708593,40.51618189266694,13.443348762326425,4.274204560972279/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1695,7 +1695,7 @@ governments for, and the regulations of
 the internal concerns of the colony, be  
 left to the respective colonial legisla
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028822:00280775459:1860092701:0138/pct:231.63418290854574,274.03314917127074,49.77511244377811,13.14633800821646/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028822:00280775459:1860092701:0138/pct:57.9411213200825,68.50828729281768,12.450778173635852,3.286584502054115/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1713,7 +1713,7 @@ governments for, and the regulations of
 the internal concerns of the colony, be  
 left to the respective colonial legislatures.1
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027480:1860101001:0533/pct:59.72635336109459,81.56587080353897,16.35930993456276,3.1390134529147984/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027480:1860101001:0533/pct:44.80142793395805,61.18046297418495,12.271307452030344,2.3512301539207368/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1753,7 +1753,7 @@ States, absolved from all allegiance to,
 or dependence on, the Crown or parliament of  
 Great Britain,&quot; and on the 4th of July followin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045706:00296022664:1863080501:0338/pct:8.895705521472392,46.83654443753884,18.677573278800274,4.487259167184587/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045706:00296022664:1863080501:0338/pct:6.683716965046888,35.12740832815413,14.0153452685422,3.3685518955873213/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1801,7 +1801,7 @@ give them a decent pretext for the accom­
 plishment of their premeditated schemes.  
 The first effort was made in the days o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172121:1863081901:0773/pct:4.5796986518636,57.33691595760561,15.97938144329897,13.390058217644425/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172121:1863081901:0773/pct:3.554417413572343,44.43544655252198,12.389244558258643,10.384852691655098/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1845,7 +1845,7 @@ Colonies free and independent States, absolved from all al­
 legiance to or dependence on the Crown or Parliament of  
 Great Britain,&quot; and on the 4th of July following the eve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661630:1863082001:0168/pct:18.699413898967347,27.97375779737578,15.629360870778678,2.4736502473650246/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661630:1863082001:0168/pct:18.699413898967347,27.98092779809278,15.634012466275932,2.4736502473650246/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1863,7 +1863,7 @@ body to declare the United Colonies free and inde, endent
 States, absolved from all allegiance to or dependence on  
 the Crown or Parhament of Great Britain,&quot; and on th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743452:1863082101:0436/pct:17.972270363951473,119.08959188601787,44.922010398613516,4.829751267809708/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743452:1863082101:0436/pct:5.990756787983824,39.696530628672626,14.974003466204506,1.6099170892699026/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1888,7 +1888,7 @@ or dependence on, the Crown or Parlia
 ment of Great brittn; n  
 of the July following the ever memorabl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn86059058:00296022019:1863082201:0669/pct:168.9655172413793,227.78062532034855,47.41379310344828,14.24910302409021/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn86059058:00296022019:1863082201:0669/pct:42.25538971807629,56.94515633008714,11.85737976782753,3.5622757560225526/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1933,7 +1933,7 @@ made in the days of nullification by the
 Secessionists of South Carolina. The  
 grievance then complained of was the tar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293769:1863082301:0777/pct:16.09517144856543,272.9001172027608,47.51574527641707,60.94543560359422/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293769:1863082301:0777/pct:4.025201260063003,68.2250293006902,11.883094154707736,15.236358900898555/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1964,7 +1964,7 @@ States, absolved from all allegiance to, or de­
 pendence ou, the crown or parliament of  
 Great Britain,&quot; and on the 4th of July follow
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_edgewater_ver02:data:sn84031490:no_reel:1863082401:0002/pct:35.2575315840622,32.6338199513382,9.931972789115646,2.4635036496350367/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_edgewater_ver02:data:sn84031490:no_reel:1863082401:0002/pct:35.262390670553934,32.6338199513382,9.936831875607385,2.4787104622871046/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1995,7 +1995,7 @@ all allegiance to, or dependence on, the
 Crown or Parliament of Great Britain,”  
 and on the 4th of July following the eve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347312:1863082801:0359/pct:8.399744979279566,52.04770477047705,13.484220592923174,3.667866786678668/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347312:1863082801:0359/pct:8.410370842630964,52.05520552055206,13.478907661247476,3.667866786678668/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2064,7 +2064,7 @@ United Colonies free and independent States,
 the Crown or Parliament of Great Britain,&quot; and  
 on the 4th of July following the ever memorabl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn83016318:00296024582:1863090201:0141/pct:44.073966220151426,177.36453991663996,38.570180547466514,17.633857005450466/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn83016318:00296024582:1863090201:0141/pct:14.697742170429716,59.12151330554665,12.862345229424617,5.877952335150155/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2084,7 +2084,7 @@ alleianoe to, or dcosudouoe on, the
 Crown or Parliament of Great Britain ,  
 and on the 4th of July following th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:0023728690A:1863090301:0381/pct:56.74740484429066,42.40706564724493,16.003460207612456,5.1278671236488265/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:0023728690A:1863090301:0381/pct:42.56791832496972,31.808594779857632,12.008998096556498,3.8491958871605587/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2231,7 +2231,7 @@ may be convenient a regular and permanent
 plan of Union and Confederation of the Col­  
 onies for the preservation of their just right
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn82014998:00279558017:1867071301:0117/pct:78.91210090658258,37.62470958042914,14.84036263303114,20.29520295202952/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn82014998:00279558017:1867071301:0117/pct:78.91210090658258,37.628126281262816,14.850216791486007,20.305453054530545/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2252,7 +2252,7 @@ tal separation from the King of Great Britain and
 renunciation of all connection with that nation,  
 and a successful resistance to that force which i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477862:1872011701:0118/pct:157.09803921568627,341.2723373838456,44.23529411764706,10.293066476054324/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477862:1872011701:0118/pct:39.289917614750884,85.3180843459614,11.063162024323264,2.573266619013581/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2282,7 +2282,7 @@ nies free and independent States, absolved from
 all allegiance to the King of Great Rritain, and to  
 give the assent of this colony to such declaratio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477862:1872011701:0118/pct:157.2549019607843,351.9085060757684,44.470588235294116,23.78842030021444/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477862:1872011701:0118/pct:39.32914868575912,87.9771265189421,11.122008630835621,5.94710507505361/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2305,7 +2305,7 @@ and permanent plan of union and confederation
 of the colonies, for the security and preservation  
 of their just rights and libertier and for mutua
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477862:1872011701:0118/pct:157.5686274509804,375.92566118656185,44.15686274509804,13.895639742673339/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477862:1872011701:0118/pct:39.4076108277756,93.98141529664046,11.043546488819144,3.4739099356683347/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2325,7 +2325,7 @@ lice of each colony ought to be left
 and remain in the respective colonial  
 legislatures.&quot; How carefully was thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477862:1872011701:0118/pct:201.41176470588235,100.58613295210866,44.15686274509804,12.065761258041459/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477862:1872011701:0118/pct:50.37269517457827,25.146533238027164,11.043546488819144,3.0164403145103647/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2393,7 +2393,7 @@ Independence, it was probably, because
 they had a positive assurance thai the  
 delegates from the Province of Nort
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879142:1873092601:0156/pct:86.27400103788271,98.96657175999157,13.59626362221069,10.10228830538859/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879142:1873092601:0156/pct:64.73718364698247,74.2275651165243,10.201168072680078,7.58198882210271/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2426,7 +2426,7 @@ would &quot;concur with the delegates&quot; from
 the Province of Virginia in the &quot;proposi­  
 tion,&quot; from which a general concurrenc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84020713:00296022986:1873093001:0371/pct:90.58759521218715,25.213414634146343,20.03536452665941,13.99390243902439/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84020713:00296022986:1873093001:0371/pct:67.96843107905838,18.91260162601626,15.0360593277997,10.497967479674797/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2449,7 +2449,7 @@ ence on. the crown or parliament of
 &#x27; Great Britain.&quot; These instructions were  
 laid before the continental congress on th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_broadsheet_ver01:data:sn92053942:00295879877:1875052201:0133/pct:9.558823529411764,46.2012563707479,16.176470588235293,5.665520919758208/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_broadsheet_ver01:data:sn92053942:00295879877:1875052201:0133/pct:7.179405180684362,34.65686855517364,12.136232811000959,4.255066966931373/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2584,7 +2584,7 @@ colonies/Vec and independent States, absolved
 from all allegiance to, or dependence on the  
 crown or parliament of Great Britain. On th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348720:1876042001:0069/pct:69.95337592816439,22.35653560042508,12.346744949058884,2.1785334750265677/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348720:1876042001:0069/pct:69.94129834254143,22.353566210652144,12.348929558011049,2.181564616814982/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2613,7 +2613,7 @@ from all allegiance or dependence upon
 the crown or Parliament of Great Brit­  
 ain.&quot;The British flag, which, up to this tim
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280775022:1876052501:0611/pct:33.436123348017624,62.67892317793828,17.973568281938327,3.7294812869336833/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280775022:1876052501:0611/pct:25.104694732201896,47.01247537754432,13.48908970685475,2.797110965200263/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2723,7 +2723,7 @@ pressly proposing &quot;to declaro the United
 On tho 7th of Juno, 1776, Richard  
 Henry Lee a delegate from the colony o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_columnist_ver01:data:sn92053942:00295873218:1876070501:0323/pct:9.035409035409035,36.35016527983586,16.254578754578755,13.997492305938675/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_columnist_ver01:data:sn92053942:00295873218:1876070501:0323/pct:6.777591207449245,27.26547361221931,12.196611204396275,10.498119229454007/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2745,7 +2745,7 @@ tions of Virginia Convention to her Del­
 egates.We do hereby declare ourselves a free and  
 independent people; are, and of right ough
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:00237283612:1876070601:0332/pct:60.39987600743955,119.19242273180458,13.00371977681339,5.6580259222333/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:00237283612:1876070601:0332/pct:45.324856566909595,89.39431704885344,9.768956427353078,4.24975074775673/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2804,7 +2804,7 @@ aud the regulations of the internal con­
 cerns of each colony he left to the re­  
 spective colonial legislatures.’ Thu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jennet_ver02:data:sn85026941:0039334846A:1877071101:0508/pct:27.803016536434672,81.50178130994793,10.957659458477194,9.50945464510825/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jennet_ver02:data:sn85026941:0039334846A:1877071101:0508/pct:27.79796511627907,81.49061515276065,10.960210755813954,9.511576928346349/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2830,7 +2830,7 @@ dependent states, absolved from all al­
 legiance to or dependence upon the  
 Crown or parlianientof Great Britain.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762325:1880051101:0207/pct:39.26977040816327,31.06501698204755,10.682397959183673,4.90053372149442/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762325:1880051101:0207/pct:39.28172831632653,31.074114507520623,10.678411989795919,4.90053372149442/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2856,7 +2856,7 @@ the only sovereignty the Press, the Dem
 ooratic party and Dr. Laws ever spoke  
 of, External or true sovereignty was i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn90061416:00294559954:1882071401:0649/pct:278.7856071964018,264.8844333054859,48.05097451274363,30.242272347535504/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn90061416:00294559954:1882071401:0649/pct:69.69640179910046,66.22110832637148,12.012743628185907,7.560568086883876/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2920,7 +2920,7 @@ If any of the immortal signers were
 troubled by misgivings as to how the peo­  
 ple at home would take their proceedings
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_fox_ver01:data:sn82016399:00517173423:1883070601:0194/pct:3.886097152428811,5.598194130925508,30.217755443886098,93.12641083521444/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_fox_ver01:data:sn82016399:00517173423:1883070601:0194/pct:3.8854463238988446,5.59756235187902,30.218277228828224,93.11966294248204/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2981,7 +2981,7 @@ absolved f»om all allegiance to or depend­
 ence on the Crown or parliament of Great  
 Britain.&quot; It was a southern colony whic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762350:1887070601:0117/pct:5.188601548344589,73.13846541514427,10.838412123208697,3.263197681743732/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762350:1887070601:0117/pct:5.19271948608137,73.13846541514427,10.838412123208697,3.275796900592163/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

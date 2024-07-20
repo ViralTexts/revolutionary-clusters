@@ -159,7 +159,7 @@ together with the sentiments exprefled by
 me on theoccafion, in behalf of the United  
 Siates. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796012301:0014/pct:9.8033093974399,49.54910316123278,15.844520761785827,15.697155881478546/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796012301:0014/pct:9.808512852534083,49.54910316123278,15.860131127068373,15.700459155022628/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -289,7 +289,7 @@ incuts expressed by me on the occasion, in behalf of
 United States. They are herewith communicated.  
 &quot;G. WASHINGTON 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848040401:0365/pct:21.41500474833808,60.93298126493147,14.86229819563153,9.204073934364391/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848040401:0365/pct:21.42028067953994,60.93717255542982,14.86229819563153,9.208265224862735/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -362,7 +362,7 @@ pressed by me on the occasion, in behalf of the United States.
 &#x27; They are herewith communicated.  
 &quot;GttOltGE WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848040801:0144/pct:81.41189866211215,48.196313468279996,15.74153145459721,9.238946059029741/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848040801:0144/pct:81.41664294525097,48.20385238795281,15.74153145459721,9.235176599193336/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -394,7 +394,7 @@ casion, in behalf of the United States.
 They are herewith communicated. .  
 G. WASHINGTON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn89066057:00200292121:1848042401:0392/pct:30.026223776223777,22.049492385786802,22.63986013986014,14.942893401015228/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn89066057:00200292121:1848042401:0392/pct:22.53551912568306,16.54505076142132,16.983606557377048,11.21510152284264/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

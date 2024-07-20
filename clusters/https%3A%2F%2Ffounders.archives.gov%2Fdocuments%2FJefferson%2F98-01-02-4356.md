@@ -320,7 +320,7 @@ to unfold to view the salt springs, the various
   
 ores of iron and ether metals, the coal, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn82016416:00271744730:1837042201:0550/pct:9.467242620590353,61.02346000823158,120.21238300935926,35.46439840856085/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn82016416:00271744730:1837042201:0550/pct:7.111991357580123,45.767595006173686,90.18725243068059,26.601728632185484/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -413,7 +413,7 @@ ahich carried, in opposition to the old anil real Rcpuh­
 icans, the measures which were the subjects of consi­  
 leration in his letter.&quot; Surely, surely, if Mr. Jeff, ?rso
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1840031401:0405/pct:32.14819241111443,29.92605915267786,16.01434120107559,5.505595523581135/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1840031401:0405/pct:32.14819241111443,29.93272049027445,16.029279952195996,5.505595523581135/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -436,7 +436,7 @@ balmed, 111 entire oblivion of every temporary thing
   
 which mi^ht cloud tin* glories ol Ins splendid lilt*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1840051901:0483/pct:48.02386278896346,13.39501206757844,30.082028337061892,84.89541432019308/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1840051901:0483/pct:48.02386278896346,13.401716277822473,30.086999751429282,84.89541432019308/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -518,7 +518,7 @@ will forever remain emblemed, in entire oblivion of
 every temporary thing which might clond the glories  
 of his splendid life.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023294:00200296096:1840061901:0027/pct:251.26475548060708,299.0241832838354,59.6964586846543,19.799179748267573/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023294:00200296096:1840061901:0027/pct:62.82943284840818,74.75604582095885,14.927261227071474,4.949794937066893/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -542,7 +542,7 @@ forever remain embalmed, in entire oblivien of
 gloires of his splendid life.&quot;  
 THE REIGN OF TERROR.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1840070101:1301/pct:78.15884476534296,59.84808800419068,14.729241877256317,6.181246726034573/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1840070101:1301/pct:78.17087845968712,59.84808800419068,14.723225030084237,6.1856120132704735/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -566,7 +566,7 @@ it will forever remain embalmed, in entire obli-
 vinn of everv temoorarv thine which might  
 cloud the glories of his splendid life.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197966:1840070801:0529/pct:22.766370699223085,56.74253688665218,20.310765815760266,7.834839300011438/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197966:1840070801:0529/pct:17.085357390700903,42.559762095390596,15.23941707147814,5.878988905410043/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -590,7 +590,7 @@ appellation of the father of that Repuablic. which they
 were endeavoring to subvert, and the republicans to  
 maintain,’’ 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1840090801:0563/pct:50.29086678301338,22.069967818955675,14.572425828970331,4.733727810650888/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1840090801:0563/pct:50.29571456273027,22.069967818955675,14.586969168121001,4.7406484653448215/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -612,7 +612,7 @@ which carried, in opposition to the old and real Re
 publicans, the measures which were the subjects  
 of condemnation.&quot; Two years before the date o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530303:1850030201:0461/pct:129.3765182186235,240.95315967760774,42.526315789473685,13.37460577035393/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530303:1850030201:0461/pct:43.125506072874494,80.31771989253592,14.175438596491228,4.45820192345131/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -639,7 +639,7 @@ taken, and t?o course he had observed in compliance
 with it; thai a ptopcr occasion had now arrived fur revising  
 that course, and he desired them to consult together
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1853111501:0023/pct:17.574257425742573,54.24595285430276,18.0110658124636,6.854113414749597/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1853111501:0023/pct:17.58396427878082,54.24595285430276,18.001358959425353,6.857269083909243/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -656,7 +656,7 @@ Thcsp things were soon takcy to Indicute a change of principle,
 eveu not at all in character with tho simplicity of republican  
 government, and were mere imitations of thu llu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1853111501:0023/pct:18.273150844496215,62.45384833854019,18.0110658124636,1.6945943387295277/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1853111501:0023/pct:18.273150844496215,62.45384833854019,18.03047951854009,1.7040613462084635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -698,7 +698,7 @@ to any changes they should think for the better, and
 that he would willingly conform to what they should  
 advise. The Cabinet was divided, the influence o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:0029602272A:1853111901:0375/pct:48.92684401451028,59.3529903306673,20.253929866989118,18.861167482392265/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:0029602272A:1853111901:0375/pct:36.70445956160242,44.51474274800048,15.192743764172336,14.157813059567864/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -719,7 +719,7 @@ an Courts.
 So strongly was Mr. Jefferson impressed with the  
 folly and absurdity, and, in fact, their danger to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:0029602272A:1853111901:0375/pct:48.98730350665054,79.55115196371015,20.02720677146312,4.560105049540408/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:0029602272A:1853111901:0375/pct:36.74981103552532,59.66336397278262,15.026455026455027,3.4260475110421393/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -739,7 +739,7 @@ Were the levees, birth-days, the pompous cavalcades,
 to the State House, on the meeting of Congress, in a  
 body to re-echo the speech in answer,&quot; &amp;c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:0029602272A:1853111901:0375/pct:48.88149939540508,105.93291154351199,20.133010882708586,3.927420317536111/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:0029602272A:1853111901:0375/pct:36.674225245653815,79.45565238152084,15.10204081632653,2.9485496000954994/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -798,7 +798,7 @@ coming fancies as facts. But come the story
 from whomever it might, it is an unqualified  
 falsehood.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kuvasz_ver02:data:sn83045462:00280654085:1856101401:0227/pct:81.08614232209737,17.558647303747335,15.980024968789014,20.56463897633797/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kuvasz_ver02:data:sn83045462:00280654085:1856101401:0227/pct:81.09784644194757,17.558647303747335,15.987827715355806,20.574794353610237/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -817,7 +817,7 @@ ermine from its sanctity, to exaggerate, to
 record, and to sanction forgery.1&#x27; .&#x27;. .  
 These extracts are but a low examples o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn84028745:00280775344:1860051701:0683/pct:92.63643659711076,77.08878288967533,16.27207062600321,2.985074626865672/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn84028745:00280775344:1860051701:0683/pct:69.49628737708208,57.824280658562856,12.22155328115593,2.2464994614556084/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -835,7 +835,7 @@ draw over us the substance, as they had al­
 ready done the forms of the British govern­  
 ment.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016179:00296026189:1861070401:0510/pct:17.558224163027656,55.56657223796034,11.098981077147016,2.0538243626062322/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016179:00296026189:1861070401:0510/pct:17.564289180009705,55.56657223796034,11.117176128093158,2.072710103871577/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -860,7 +860,7 @@ General Washington, have ever done what
   
 THE DArKENED EARTH.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn85025181:00237287952:1864012301:0464/pct:172.37609329446065,49.76214501946086,94.89795918367346,335.41876892028256/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn85025181:00237287952:1864012301:0464/pct:43.1097338680277,12.440536254865215,23.733138899015675,83.85469223007064/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -917,7 +917,7 @@ lives, that no act of strong mark, during
 the remainder of his administration, exci­  
 ted much dissatisfaction.&quot;Vol. 4, p
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn85025181:00237287952:1864012301:0464/pct:225.72886297376093,64.58123107971745,51.822157434402335,116.53452501081159/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn85025181:00237287952:1864012301:0464/pct:56.45278891724389,16.145307769929364,12.960262486328837,29.133631252702898/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1122,7 +1122,7 @@ parade that caused much displeasure. Jefferson
 wrote that it was “not at all in character with  
 the simplicity of Republican Government.” Al
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fullerton_ver02:data:sn84031492:no_reel:1872102001:0005/pct:1.2663483495951837,45.565797838525114,13.161718912186007,3.9574062301335027/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fullerton_ver02:data:sn84031492:no_reel:1872102001:0005/pct:1.2767282541000622,45.577717736808644,13.166908864438447,3.9574062301335027/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1139,7 +1139,7 @@ the simplicity of Republican Government.” Al
 of republican government, and looking, as if  
 wishfully, to those of European courts.,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_felice_ver01:data:sn87052128:00200292170:1873032101:0050/pct:41.7870036101083,85.25674499564839,16.696750902527075,1.949521322889469/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_felice_ver01:data:sn87052128:00200292170:1873032101:0050/pct:31.361481146985774,63.95126196692776,12.553623842853918,1.4621409921671018/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1205,7 +1205,7 @@ of parade, &quot;and to General Humphreys
 who had resided some time at a for­  
 eign court.&quot; Near the beginning o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_moonstone_ver01:data:sn84038806:00280768935:1873101701:0055/pct:17.94624175116691,16.351977199857497,11.846129084178335,10.236313976962355/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_moonstone_ver01:data:sn84038806:00280768935:1873101701:0055/pct:17.94624175116691,16.354945968412302,11.8622243682601,10.251157819736374/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1249,7 +1249,7 @@ sion of his first inauguration, but at
 his levees and fetes. For this fault  
 he held Gen. Knox and Col. Hum
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_eridanus_ver02:data:sn83016235:00393344520:1893031701:0187/pct:35.637060353086085,52.52267573696145,13.411796907075408,17.73431594860166/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_eridanus_ver02:data:sn83016235:00393344520:1893031701:0187/pct:35.646184024451436,52.52267573696145,13.407235071392728,17.737465356512974/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -125,7 +125,7 @@ Br
 GERARD T. HOPKINS,  
 Clerk
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807111601:0003/pct:21.486892995272882,4.350800383089342,18.908465835840136,59.419893282254755/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807111601:0003/pct:21.486892995272882,4.350800383089342,18.91562813350523,59.42901445706207/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -241,7 +241,7 @@ Signed onbenalf of the Meeting
 I3u  
 GF.KAKD T. HOPKINS, Clerk-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807112401:0391/pct:42.386986949120484,4.971680302076778,35.7669756005296,89.490245437382/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807112401:0391/pct:42.37897125567322,4.971054618676064,35.76651538073626,89.48317811896972/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -349,7 +349,7 @@ ver us, we are thy friends.
 Signed on behalf of the meeting, by  
 GliRARD T. HOPKINS, Cleri
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1807112701:0251/pct:24.05086619977884,2.10552087158771,35.90121636564689,91.88395152405435/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1807112701:0251/pct:24.046434494195687,2.1052631578947367,35.900743197592284,91.87678498572012/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -391,7 +391,7 @@ pringiplc&#x27;s of made! justice and right.
 ; 4Amoggat the si&#x27;m&#x27;qsl prominent ssqfsixlmse  
 iacu which glaim ourapgrossbacion, wess ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216079:1807120301:0080/pct:30.8138711960368,68.90540660118573,22.37791932059448,21.449429254048315/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216079:1807120301:0080/pct:30.809510331163317,68.89930985666254,22.379469761298235,21.45048074087182/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -497,7 +497,7 @@ BY ss .
 _GERARD T. HOPKLNS,  
 CLERK
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216079:1807120301:0080/pct:30.828025477707005,3.6102999734536767,44.69922151450814,93.08910715865852/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216079:1807120301:0080/pct:30.82366260968016,3.609980534418687,44.69761298235682,93.08381997286617/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -578,7 +578,7 @@ upOi: s. \c.al imp: riant subjects agreea­
 bly t &gt; the pi incipji ; of e ternal Justice  
 ; and right.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1807120301:0220/pct:35.72429251891286,8.810572687224669,57.242925189128606,50.734214390602055/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1807120301:0220/pct:35.714285714285715,8.808416931734769,57.23622782446312,50.7299567735095/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -608,7 +608,7 @@ u t ; those who, .11 .!» or i ii ig of ;)i­
 j ihv 1 fiends.  
 ■ i on 1 f th ting, b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1807120301:0220/pct:64.55589801064724,55.531081742535484,28.38330064443822,20.58247674987763/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1807120301:0220/pct:64.53781512605042,55.51749449473942,28.38468720821662,20.58559660712829/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -625,7 +625,7 @@ jfom the calamities and ravages of war,
 h) cultivating a disposition and pursu­  
 ing a conduct conciliatory and 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1807120301:0221/pct:6.257208765859285,7.358351729212656,27.912341407151096,5.739514348785872/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1807120301:0221/pct:6.255405015854713,7.356547327121138,27.913904103007592,5.746280856629067/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -755,7 +755,7 @@ friends. 25 P
 _ Signéd on behalf of the Meeting, 57  
 GERARD T. HOPKINS, Clerk
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1807120801:0619/pct:43.66581141757537,15.461886941106952,34.910198845413724,79.04274177663974/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1807120801:0619/pct:43.66581141757537,15.461886941106952,34.92088945905495,79.05259011227102/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

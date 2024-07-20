@@ -318,7 +318,7 @@ nearer to mat urity when they shall have been
 sufficiently invigorated by the milder ways of  
 peace. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_igglybuff_ver01:data:sn84023017:00414212992:1889050901:0444/pct:15.436810856658186,36.05806957886477,11.212892281594572,9.455924666492283/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_igglybuff_ver01:data:sn84023017:00414212992:1889050901:0444/pct:15.434192672998643,36.053354256571204,11.21523066485753,9.457957368902838/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -356,7 +356,7 @@ nearer to mat urity when they shall have been
 sufficiently invigorated by the milder ways of  
 peace.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_hobbs_ver01:data:sn84024283:00294556849:1889050901:0587/pct:26.501766784452297,42.17702533802977,15.945229681978798,12.646290194296103/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_hobbs_ver01:data:sn84024283:00294556849:1889050901:0587/pct:19.879251951111765,31.632769003522327,11.971727286113975,9.487558232019088/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -420,7 +420,7 @@ nearer to mat urity when they shall have been
 sufficiently invigorated by the milder ways of  
 peace.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_hubble_ver01:data:sn84022982:00513688660:1889051101:0070/pct:59.11870124393844,36.62259993704753,12.186379928315413,4.689959080893925/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_hubble_ver01:data:sn84022982:00513688660:1889051101:0070/pct:59.13275704547052,36.63309201552828,12.186379928315413,4.679467002413178/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -492,7 +492,7 @@ bring them nearer to maturity when they shall
 have been sufficiently invigorated by the mild­  
 er rays of peace.&quot; Another fact iu the futur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_fencing_ver02:data:sn83016589:00393340708:1889090601:0143/pct:55.56519583539911,44.77256961648994,9.258800198314328,4.003567535427608/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_fencing_ver02:data:sn83016589:00393340708:1889090601:0143/pct:55.569327383903484,44.77256961648994,9.254668649809949,4.013477356059855/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -577,7 +577,7 @@ formity with &quot;the Influence which sound
 learning has on religion and manners, on  
 government, liberty and laws.&quot; Adam
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ibizanhound_ver01:data:sn83045462:00280655181:1898022201:0438/pct:57.45399924896733,62.45999721719772,13.912880210289147,3.868095171838041/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ibizanhound_ver01:data:sn83045462:00280655181:1898022201:0438/pct:57.45399924896733,62.47043272575483,13.926962072850168,3.878530680395158/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -605,7 +605,7 @@ influence which sound learning has on
 religion and manners, on government,  
 liberty and laws.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jesse_ver01:data:sn82016014:00295871386:1898022201:0362/pct:42.634709587123865,24.1835029621753,16.53254023792862,8.051040559015647/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jesse_ver01:data:sn82016014:00295871386:1898022201:0362/pct:31.986001749781277,18.137627221631476,12.405949256342957,6.045875740543825/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -628,7 +628,7 @@ with “the influence which sound learn­
 ing has on religion and manners, on  
 government, liberty and laws.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_frisco_ver01:data:sn86090439:00517175134:1898022201:0420/pct:39.77793869176925,46.901252179426216,15.882210958242819,5.024568077349818/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_frisco_ver01:data:sn86090439:00517175134:1898022201:0420/pct:39.7960415158098,46.91313995878903,15.882210958242819,5.016642891107941/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -681,7 +681,7 @@ learning has on religion and manners, on
 government, liberty and laws.&quot;  
 Liberal Educatio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_brown_ver01:data:sn86072192:00340583280:1898022301:0459/pct:20.305113880532875,82.50413347362093,14.245810055865922,3.968134676085976/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_brown_ver01:data:sn86072192:00340583280:1898022301:0459/pct:20.30075187969925,82.49173429516081,14.24812030075188,3.9712954613766156/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -698,7 +698,7 @@ tie- Influence which sound learning has
 on religion and manners, on govern­  
 ment, liberty and laws.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_hessel_ver01:data:sn82015104:00280768790:1898022301:0474/pct:31.82409952263851,77.13252499468199,12.151019817734703,1.2869602212295257/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_hessel_ver01:data:sn82015104:00280768790:1898022301:0474/pct:31.82409952263851,77.13252499468199,12.16548531751772,1.2869602212295257/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -720,7 +720,7 @@ their governments in conformity with
 has on religion and manners, on govern­  
 ment, liberty and laws.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_nicasio_ver01:data:sn85042461:00280769770:1898022301:0692/pct:30.10435125024611,36.680901192755115,12.423705453829495,3.754969812987778/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_nicasio_ver01:data:sn85042461:00280769770:1898022301:0692/pct:30.1141957078165,36.680901192755115,12.4187832250443,3.754969812987778/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -746,7 +746,7 @@ ments, in conformity with &quot;the influence which
 sound learning has on religion and manners,  
 on Government, liberty and laws.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_triumph_ver01:data:sn83030214:00175036817:1898022301:0439/pct:56.74175126903553,207.987505577867,48.06472081218274,15.316822846943328/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_triumph_ver01:data:sn83030214:00175036817:1898022301:0439/pct:18.91391708967851,69.32916852595568,16.021573604060915,5.105607615647776/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -768,7 +768,7 @@ formity with ‘the influence which sound learning
 hag on religion and manners, on government:, lib­  
 erty snd laws.’ Adams and Madison, Jefferson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:0041566574A:1898022301:0535/pct:71.57665030005455,5.518428513568246,25.79105291871249,45.52450384771162/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:0041566574A:1898022301:0535/pct:71.5857428623386,5.518428513568246,25.795599199854518,45.52450384771162/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -790,7 +790,7 @@ by their governments m conroramy wttn
 on religion and manners, on government,  
 liberty and laws
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_kurtis_ver01:data:sn82014635:00280760626:1898022301:0307/pct:46.15036231884058,126.25290408231,18.568840579710145,5.719659254342295/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_kurtis_ver01:data:sn82014635:00280760626:1898022301:0307/pct:30.776200543642403,84.16860272154,12.382965871337964,3.816793893129771/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -813,7 +813,7 @@ with “tho influence whioh sound learn­
 ing has on religion and manners, on gov­  
 ernment, liberty and laws.’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_isleboro_ver01:data:sn83016025:00414210697:1898022301:0344/pct:15.19903498190591,47.1660841817353,10.97708082026538,4.026743655979335/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_isleboro_ver01:data:sn83016025:00414210697:1898022301:0344/pct:15.196416264645073,47.158918261926466,10.979496898690558,4.0299301124278335/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -834,7 +834,7 @@ ernments, in conformity with &quot;the Influence
 which sound learning has on religion and  
 manners, on governmnet. liberty and laws.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_hallock_ver01:data:sn90059523:00206537486:1898022301:0524/pct:30.97936646323743,46.52224700010619,12.699796570764313,2.463629606031645/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_hallock_ver01:data:sn90059523:00206537486:1898022301:0524/pct:30.98421001646808,46.52224700010619,12.699796570764313,2.4742486991610915/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -856,7 +856,7 @@ by their government In conformity with
 religion and manners , on government , lib­  
 erty nnd las. . 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_alliance_ver01:data:sn99021999:00206539434:1898022301:1057/pct:27.977448907681467,10.403280929596718,16.666666666666668,3.896103896103896/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_alliance_ver01:data:sn99021999:00206539434:1898022301:1057/pct:20.99048290447656,7.805878332194122,12.513218188227,2.9254955570745045/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -882,7 +882,7 @@ conformity with the influence which sound
 learning has on religion and manners, on gov­  
 ernment, liberty, and laws.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042982:1898022301:0703/pct:69.4359756097561,89.76234003656307,50.38109756097561,17.73308957952468/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042982:1898022301:0703/pct:17.362302267962644,22.44058500914077,12.597674861825805,4.43327239488117/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -912,7 +912,7 @@ and no religion and
 manners, on govern  
 ment, liberty and law
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_delta_ver01:data:sn86071197:00175034912:1898022301:0504/pct:296.86242960579244,259.5037524888957,52.292839903459374,21.825700719865218/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_delta_ver01:data:sn86071197:00175034912:1898022301:0504/pct:74.24547283702213,64.87593812222393,13.078470824949699,5.456425179966304/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -934,7 +934,7 @@ iluence which sound learning has on re­
 ligion and manners, on governmet, lib­  
 erty and laws.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_eritrea_ver01:data:sn84026844:00202193699:1898022301:0379/pct:34.426761935693406,33.981101800677486,16.661253653783696,3.708325904795864/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_eritrea_ver01:data:sn84026844:00202193699:1898022301:0379/pct:34.426761935693406,33.98555892315921,16.677492692432608,3.7306115172044927/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1059,7 +1059,7 @@ conformity with the influence which sound
 learning has on religion and manners, on gov­  
 ernment. liberty and laws
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_alakazam_ver01:data:sn84022960:00414212025:1898022501:1398/pct:32.86056731921694,21.91707054388799,14.642429085097882,2.652127086698977/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_alakazam_ver01:data:sn84022960:00414212025:1898022501:1398/pct:32.85400439384861,21.9141203392112,14.644497703215498,2.6551352806568853/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1078,7 +1078,7 @@ formity with ’the influence which sound
 loaming lias on religion and manners, on  
 government, liberty and laws.’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_graco_ver01:data:sn89053706:00393344556:1898022801:0106/pct:18.25978481210042,10.59212945936006,11.960081085295494,1.9002084099546401/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_graco_ver01:data:sn89053706:00393344556:1898022801:0106/pct:18.27018036280472,10.600302398757714,11.960081085295494,1.8920354705569857/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1120,7 +1120,7 @@ their Governments in conformity with
 has on religion and manners, on gov  
 ernment, liberty and laws.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jordan_ver01:data:sn84026409:0023728804A:1898030201:0071/pct:167.7690920024053,67.8543061386588,40.88995790739627,15.658686031998185/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jordan_ver01:data:sn84026409:0023728804A:1898030201:0071/pct:41.954887218045116,16.9635765346647,10.225563909774436,3.914671507999546/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1152,7 +1152,7 @@ knowledge as essential to tiie highest and
 b°st citizenship.  
 Gherish the public credit.” How muc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_clabbert_ver01:data:sn85040451:00414215142:1898030201:0036/pct:58.924731182795696,65.48869786692136,12.594086021505376,9.423750397962433/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_clabbert_ver01:data:sn85040451:00414215142:1898030201:0036/pct:45.670138888888886,50.759403443360014,9.760416666666666,7.30343239390284/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1210,7 +1210,7 @@ conformity with &quot;the influence which sound
 learning has on religion and manners, on gov­  
 ernment, liberty and laws.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_hobbs_ver01:data:sn84024283:00294556886:1898030301:0714/pct:25.20933014354067,93.05619530170428,16.013755980861244,5.354675264854905/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_hobbs_ver01:data:sn84024283:00294556886:1898030301:0714/pct:18.92296185489903,69.79502533394749,12.011967090501122,4.018885306310456/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1243,7 +1243,7 @@ best citizenship.
   
 “Cherish the public credit.” How muc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_honeydew_ver01:data:sn99068086:0033289996A:1898030301:0497/pct:14.581005586592179,68.86451612903225,14.376163873370578,9.406451612903226/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_honeydew_ver01:data:sn99068086:0033289996A:1898030301:0497/pct:14.581005586592179,68.87096774193549,14.385474860335195,9.403225806451612/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1275,7 +1275,7 @@ knowledge as essential to the highest and
 best citizenship.  
 “Cherish the public eredit.”” How muc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_arbutus_ver01:data:sn85040614:00514152652:1898030301:0038/pct:68.28055048913944,65.499306518724,14.690764384015917,9.500693481276006/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_arbutus_ver01:data:sn85040614:00514152652:1898030301:0038/pct:68.28055048913944,65.50701186623516,14.701818382799978,9.500693481276006/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1296,7 +1296,7 @@ conformity with &quot;the influence which sound
 fearning has on religion and manners, on gov­  
 ernment, liberty and laws.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bird_ver02:data:sn84023963:00212470715:1898030401:0717/pct:207.04225352112675,340.8062930186824,58.71015567086731,10.373647984267453/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bird_ver02:data:sn84023963:00212470715:1898030401:0717/pct:51.77015755329008,85.2015732546706,14.680259499536607,2.5934119960668633/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1328,7 +1328,7 @@ knowledge as essential to the highest and
 best citizenship.  
 &#x27;Cherish the public credit.&quot; How muc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_corsair_ver06:data:sn96090259:0041562315A:1898030401:1347/pct:48.97208396450985,64.87758945386064,13.828175719541225,9.070935342121782/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_corsair_ver06:data:sn96090259:0041562315A:1898030401:1347/pct:48.9883142177018,64.88543628374137,13.833585803938542,9.070935342121782/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1360,7 +1360,7 @@ knowledge as essential to the highest and
 best citizenship.  
 &quot;Cherish the public credit.&quot; How muc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_goshawk_ver03:data:sn2001063112:00415624657:1898030401:0741/pct:36.84953610326745,71.87901269795977,15.409439290036305,9.801683549721787/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_goshawk_ver03:data:sn2001063112:00415624657:1898030401:0741/pct:34.092039800995025,66.49216962871722,14.259950248756219,9.070913250043992/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1392,7 +1392,7 @@ In conformity with the &quot;Influence whh h
 sound learning has on religion and man­  
 ners, on government, liberty and laws.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_daikon_ver02:data:sn97065763:00332899697:1898030502:0045/pct:21.582461887362985,67.06003559052168,11.704674310192768,2.5194342980237896/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_daikon_ver02:data:sn97065763:00332899697:1898030502:0045/pct:21.586661626979126,67.06627954169399,11.708874049808912,2.5225562736099403/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

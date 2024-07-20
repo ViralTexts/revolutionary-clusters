@@ -114,7 +114,7 @@ the Englifh brig of war Speedy, and the
 Mahon packet, both coming to this port.&quot;  
 Extract from another letter from Mr. Ga
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801090701:0002/pct:51.019006182734145,10.021849963583394,20.47171971605221,53.85287691187181/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801090701:0002/pct:51.026639187848254,10.026705511046371,20.486985726280437,53.85773245933479/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -461,7 +461,7 @@ ed a few lines iicm Conful Eaton, of Tunis, in
 anfwer to mine of the 17th May laft, incloling  
 one from Capt. Laughton, of the fliip Gran
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1801092101:0671/pct:36.48843930635838,8.425925925925926,43.966763005780344,83.16872427983539/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1801092101:0671/pct:36.48184937691891,8.42505915029318,43.963337547408344,83.16274045880054/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -545,7 +545,7 @@ Gavino, dated
 dore Dale fice his depaiture. On  
 the 13th io® Ire sived a few line
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1801092201:0572/pct:58.765279282067155,4.22631888605609,33.74593841869101,89.49794077270053/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1801092201:0572/pct:58.77043684563412,4.2295875008171535,33.74593841869101,89.50447800222265/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

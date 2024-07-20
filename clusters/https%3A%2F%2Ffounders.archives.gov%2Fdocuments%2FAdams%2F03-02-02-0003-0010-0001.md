@@ -128,7 +128,7 @@ Wilt weich my eye-lids down, and
 Steep my senses in forgetfulness? TShakspeare,  
 Spiair that hidest neath thy brooding win
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530194:1844022901:0536/pct:6.6995478832716815,11.539909638554217,45.71859158788875,6.937123493975903/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530194:1844022901:0536/pct:2.233182627757227,3.846636546184739,15.239530529296252,2.312374497991968/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -216,7 +216,7 @@ FGuardian.
 ThE FILL ELECTIONs--Recon  
 sTrpCTION OF CONGREss. The ele
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_drinksmall_ver01:data:sn84026923:00237288361:1870060801:0812/pct:248.18803667588415,100.97600183717992,39.99417843108718,17.25800895625215/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_drinksmall_ver01:data:sn84026923:00237288361:1870060801:0812/pct:82.72934555862805,33.658667279059976,13.331392810362393,5.752669652084051/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -411,7 +411,7 @@ down,
 And steep my senses in forget fulness?  
 Why. rather, sleep. Host thou In smok
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_nicasio_ver01:data:sn85042461:00280769812:1898091201:0158/pct:44.14748341786969,13.923487544483987,12.309793211080764,12.084816132858837/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_nicasio_ver01:data:sn85042461:00280769812:1898091201:0158/pct:44.14748341786969,13.923487544483987,12.329301599687867,12.099644128113878/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

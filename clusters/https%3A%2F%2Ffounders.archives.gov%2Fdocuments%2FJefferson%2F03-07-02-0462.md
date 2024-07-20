@@ -331,7 +331,7 @@ ire,
 /. Language. H. Mathenmttrt, tit. Vhitnaphij.  
 I. Language. Li the lit»t department,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183906:1816021701:0220/pct:82.38188976377953,22.25658790053198,15.649606299212598,71.3720153408388/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183906:1816021701:0220/pct:82.36837789076596,22.253834735279565,15.652506697282817,71.36730991258453/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -576,7 +576,7 @@ of Trustees, accept the assurance of my
 great esteem and consideration,  
 __TH : JEFFERSON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183906:1816021701:0221/pct:1.7235609103078982,0.22670025188916876,31.69344042838019,92.38035264483628/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183906:1816021701:0221/pct:1.7232725447548938,0.22667170381564034,31.693714795605377,92.37291692901817/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -769,7 +769,7 @@ attained.—- I hey are to be tha
 nt.iPepartfiient&#x27;tU* Fine Arts, tov.it  
 Civil Architecture, Gardening, ]*ftjI)(j 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816022801:0072/pct:60.040983606557376,5.9684824419903215,35.767511177347245,91.12793150514952/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816022801:0072/pct:60.02980070776681,5.967741935483871,35.7670578009561,91.12076095947063/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -966,7 +966,7 @@ Trustees, accept the assurance of my great
 esteem and consideration,  
 __TH. JEFFERSON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816022801:0073/pct:3.5786014241373016,4.575879274674455,34.90962205587,89.38785444809541/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816022801:0073/pct:3.5779481562614093,4.575322462886347,34.90933430692467,89.38103350369109/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

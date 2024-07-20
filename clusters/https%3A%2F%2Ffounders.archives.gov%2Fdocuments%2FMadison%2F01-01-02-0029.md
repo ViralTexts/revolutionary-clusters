@@ -69,7 +69,7 @@ squabbled and scolded, abused and ridiculed, se
 long about it to little purpose, that I am without  
 common patience.&quot; In a subsequent letter on th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_flavory_ver01:data:sn83030213:00206530637:1859101501:0316/pct:6.232388529753025,264.85785065471276,48.10210508867893,21.528842750973222/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_flavory_ver01:data:sn83030213:00206530637:1859101501:0316/pct:2.0774628432510083,88.28595021823759,16.034035029559643,7.1762809169910735/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -122,7 +122,7 @@ f ; ?rolded, abused and ridiculed * ? long n -out it r?? little pur*
 ?&#x27; i pov. that lam without common patience. Po I T;?i;.*t leg  
 &#x27; you to pity trie and pray for liberty of n?clence.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664370:1859111101:0596/pct:36.54522436348291,45.60792997996415,12.660008440005626,12.464409996836444/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664370:1859111101:0596/pct:36.54522436348291,45.614960104045835,12.66938622403526,12.46792505887729/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -142,7 +142,7 @@ teri.nl infamy , the clergy can furnish their &lt;|U&lt;da of imps
 for such purposes. Thvre are at this time m the adjacot  
 county not le*? than live or six well meaning men i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664370:1859111101:0596/pct:60.97904065269377,37.69904038806285,11.689407792938528,1.9930401771591268/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664370:1859111101:0596/pct:60.97904065269377,37.69904038806285,11.694096684953346,2.0000703012408168/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -320,7 +320,7 @@ irshing their religiotis sentiments which in
 the main, are very orthodox. These per  
 secutions extended to Lunenburg, Orange
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271742046:1873053001:0537/pct:88.88433702034685,60.92830882352941,42.15485456780008,15.634191176470589/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271742046:1873053001:0537/pct:29.628112340115617,20.309436274509803,14.051618189266694,5.211397058823529/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -345,7 +345,7 @@ sentiments, which, in the main, are very
 orthodox.&quot; These persecutions extended  
 to Lunenburg, Orange, Fauquier, Rich
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn97064666:0051701607A:1873061401:0096/pct:71.36590229312064,18.434134217067108,12.88135593220339,5.854736260701464/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn97064666:0051701607A:1873061401:0096/pct:71.35167464114832,18.431589120530166,12.883771929824562,5.8573795388651115/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -508,7 +508,7 @@ I am withouf common patience. Ho I
 must beg you to pity mo, and pray for  
 liberty of conscience to all.&quot; The calm
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016135:1888111501:0388/pct:68.20552443500097,38.373083475298124,11.840834460112035,12.606473594548552/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016135:1888111501:0388/pct:68.19235225955967,38.36763662171753,11.843375820780224,12.608232789212208/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -176,7 +176,7 @@ American Liberty.” So entirely unexpected was thi
 ginia, “ to command all the continental forces  
 raised for the defence of American Liberty.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826080701:0646/pct:21.74648840751396,78.7726918365074,17.769504146217635,1.1805323532687382/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826080701:0646/pct:21.74280879864636,78.76391982182628,17.772137619853357,1.184112843355605/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -220,7 +220,7 @@ osition, that Mr. Washington was, at the timo it was mad
 “ to command all the continental forces raised, for  
 the defence of American Liberty.*’ So entirel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826081501:0117/pct:48.205703300224286,36.20234955646128,14.738865748157641,1.078877966914409/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826081501:0117/pct:48.1979817395483,36.19801030804267,14.741844198836029,1.0827440169403493/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -484,7 +484,7 @@ gress 44 Resolved that a General be appointed to
 ? be raised for the defence of American liberty.&quot;  
 General Washington was appointed the same day
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1845110101:0250/pct:3.1752521122921777,38.2948759614343,15.044971381847915,2.7515978767197486/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1845110101:0250/pct:3.1752521122921777,38.30209800310548,15.049513945670936,2.7515978767197486/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -542,7 +542,7 @@ Continental forces raised or to be raised
 for the defence of American liberty.&quot;  
 General WasHiNoton was appointed, th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1845111301:0552/pct:158.86415963161934,134.15854622070054,55.87106676899463,11.798788517250461/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1845111301:0552/pct:39.73891341908236,33.539636555175136,13.975811096179688,2.9496971293126153/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -622,7 +622,7 @@ That a general be appointed to command all the
 continental forces raised, or to be raised, for the  
 defence of American liberty.&quot;?Journal! of Congreet
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:0041566140A:1851121801:0665/pct:28.400618933745957,58.77946684291694,14.882543255028837,2.7098479841374754/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:0041566140A:1851121801:0665/pct:28.405307825760772,58.78681060439157,14.87785436301402,2.713519864874789/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -702,7 +702,7 @@ that a general be appointed to command*
 all the continental forces raised, or to be  
 raised, for the defence of American liberty.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014434:00415661435:1853020901:0197/pct:84.72299944040292,12.467306015693113,14.395635142697259,2.757192676547515/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014434:00415661435:1853020901:0197/pct:84.72766274948704,12.474571345539088,14.400298451781383,2.753560011624528/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -747,7 +747,7 @@ pointed to commqnd all the Continental
 forces raised or to bo raised for tho de­  
 fense of American Liberty, and tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kuwait_ver02:data:sn86092163:00202192464:1854061001:0485/pct:56.68904958677686,88.20010875475802,13.481404958677686,2.718868950516585/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kuwait_ver02:data:sn86092163:00202192464:1854061001:0485/pct:56.701962809917354,88.21370309951061,13.50077479338843,2.709806054014863/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -778,7 +778,7 @@ of &quot;all the continental forces raised,
 or to be raised, for the defence of  
 American liberty.&quot; The appointmen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:0028077781A:1859122101:0199/pct:24.01921537229784,27.413186476977206,48.83907125700561,14.563255315894141/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:0028077781A:1859122101:0199/pct:6.0072086503804565,6.8532966192443014,12.214657589106928,3.6408138289735352/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -818,7 +818,7 @@ Washington was chosen Commanderin
 of &quot;all the continental forces raised or  
 to be raised for the defence of American lib
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296230:1860011301:0220/pct:171.06807511737088,342.89225727161,51.056338028169016,8.971732896353954/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296230:1860011301:0220/pct:42.77329420396185,85.7230643179025,12.76595744680851,2.2429332240884885/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -836,7 +836,7 @@ Washington was chosen Commander-in-Chief
 of &quot; all the continental forces raised, or to be  
 raised, for the defence of American liberty.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn84024558:00296028642:1860020901:0350/pct:18.242716934101885,71.14308553157474,14.675183050319365,2.226789996574169/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn84024558:00296028642:1860020901:0350/pct:18.253102767824686,71.14308553157474,14.669990133457963,2.226789996574169/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -931,7 +931,7 @@ town riflemen obeyed the summons with
 alacrity, and theirs was the first compa­  
 ny from the South that rallied to the sid
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_antares_ver02:data:sn84026824:00271767766:1865080501:0392/pct:50.964265456608054,72.80675901365557,15.754395916052184,6.906375871893113/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_antares_ver02:data:sn84026824:00271767766:1865080501:0392/pct:50.964265456608054,72.80675901365557,15.773303081868027,6.909650587811507/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -949,7 +949,7 @@ Re solved, Thas a General be appointed to command
 all the Contincatal forces raised, or to be raised for the  
 defence of American tiberty
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:00271743932:1875061501:1040/pct:151.53313550939663,150.06225240520658,45.56544675239037,4.1992076966610075/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:00271743932:1875061501:1040/pct:50.51104516979888,50.020750801735524,15.18848225079679,1.3997358988870026/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -967,7 +967,7 @@ pointed to command all the Continental
 forces raised, or to be raised, for the de­  
 fense of American liberty
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ira_ver01:data:sn84023416:00202197498:1875071001:0508/pct:74.01433691756273,72.58546730794228,16.415770609318997,2.9377356037956583/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ira_ver01:data:sn84023416:00202197498:1875071001:0508/pct:55.53961993546074,54.43910048095671,12.316242380781642,2.209801117899389/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1070,7 +1070,7 @@ ger month be allowed for the pay and expenses of the
 General  
 The Congress then proceeded to the choice o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044826:1883122401:0720/pct:229.75391498881433,44.282016141312624,48.993288590604024,17.176793056190043/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044826:1883122401:0720/pct:57.47062115277001,11.070504035328156,12.25517627308338,4.294198264047511/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

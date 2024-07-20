@@ -62,7 +62,7 @@ icst feelings, and will see the precipice to which they are
 ed before they take tho fatal leap, (iod gi ant it, and to you  
 icalth and happiness 1
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:0041566123A:1854091201:0255/pct:19.60269249712691,52.761044176706825,16.647512723690692,17.39457831325301/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:0041566123A:1854091201:0255/pct:19.613637607398896,52.7694109772423,16.647512723690692,17.39457831325301/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -110,7 +110,7 @@ their counsels with ours in devising some
 reasonable and practicable plan of getting  
 rid of it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn84028794:00296026670:1854110101:0858/pct:26.008492569002122,26.203836617512724,16.171266808209484,16.103353777893776/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn84028794:00296026670:1854110101:0858/pct:19.52212389380531,19.652877463134544,12.123893805309734,12.084040193135847/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -142,7 +142,7 @@ should direct their efforts to the true point of the diffi­
 culty and unite their counsels with ours in devising some  
 reasonable and practicable plan of getting rid of it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661617:1854110401:0330/pct:49.505230421260954,12.339359616641255,15.47921967769296,9.311696798083206/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661617:1854110401:0330/pct:49.509942512487044,12.346620198939956,15.47921967769296,9.311696798083206/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -361,7 +361,7 @@ true point of difficulty, and unite their coun
 cils with ours in devising some reasonable  
 and practicable plan of getting rid of it.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774947:1856072401:0390/pct:91.44951140065146,202.38159675236807,55.37459283387622,40.64952638700947/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774947:1856072401:0390/pct:22.876349562028928,50.59539918809202,13.852108372377266,10.162381596752368/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -457,7 +457,7 @@ pecting that this will assure them, upon local
 prinoiplns, the majority they conld never ob­  
 tain on principles of federalism.&quot; And, fi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hershey_ver01:data:sn85025182:0029602840A:1857080501:0278/pct:55.8828717586876,74.78113527252188,11.889222085023814,5.732843829426716/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hershey_ver01:data:sn85025182:0029602840A:1857080501:0278/pct:55.89463162227318,74.78113527252188,11.889222085023814,5.737550597759578/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -481,7 +481,7 @@ pecting that ibis will assure thm, upon local
 principles, the majority they could never ob­  
 tain oa principles of federalism.&quot; And. fi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hershey_ver01:data:sn85025182:00296028411:1857080502:0123/pct:56.96736340300697,75.5186132423984,12.66960029336267,6.038647342995169/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hershey_ver01:data:sn85025182:00296028411:1857080502:0123/pct:56.96736340300697,75.5186132423984,12.67571201564601,6.043383536989675/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -506,7 +506,7 @@ expecting that this will insure them, upon
 local principles, the majority they could  
 never obtain on principles of federalism.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn85025181:00237287939:1857080801:0402/pct:278.4902597402597,245.70877531340406,51.0551948051948,27.25811636129862/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn85025181:00237287939:1857080801:0402/pct:69.66497461928934,61.427193828351015,12.771573604060913,6.814529090324655/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -552,7 +552,7 @@ sure them upon local principles the majority
 they could never old tin on principles of Feder­  
 alism.&quot; And finally, his letter to Gen. La Fay
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn82005159:00296028435:1857081401:0498/pct:47.82471127986078,61.543892680630734,15.060908084163898,6.22499411626265/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn82005159:00296028435:1857081401:0498/pct:47.83525813426146,61.543892680630734,15.071454938564573,6.22499411626265/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -607,7 +607,7 @@ and will see the precipice to which they are ! j
 led, before they take the fatal leap.&quot; &#x27; i  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn85025007:0041566347A:1859041601:0249/pct:17.943661971830984,41.66838311019568,14.126760563380282,7.641606591143152/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn85025007:0041566347A:1859041601:0249/pct:17.943661971830984,41.675248884311706,14.131455399061032,7.641606591143152/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -628,7 +628,7 @@ this will ensure them on local principles the
 majority they never could obtain on princi­  
 ples of Federalism.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027238:0027952942A:1859050401:0548/pct:62.15180168668541,53.18956870611836,11.091234347048301,3.20962888665998/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027238:0027952942A:1859050401:0548/pct:62.156060993270295,53.19291206954196,11.091234347048301,3.219658976930792/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -658,7 +658,7 @@ sure them, upon local principles, the ma-,
 jority they could never obtain on princi­  
 ples of Federalism. . ..
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_chacha_ver03:data:sn87056247:00200294531:1859050501:0505/pct:93.02103250478011,16.944392435873432,34.33317399617591,109.23984272608126/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_chacha_ver03:data:sn87056247:00200294531:1859050501:0505/pct:69.78245278508248,12.7129750982962,25.759024623475973,81.9322224302565/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -679,7 +679,7 @@ the people to effect a division of parties byent prices. In other words, I want 
   
 ensure them on local principles of Federal-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn84031042:00279529303:1859051201:0159/pct:204.63926317584855,119.9795474881759,71.53334470407641,10.55860922919596/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn84031042:00279529303:1859051201:0159/pct:68.21308772528285,39.99318249605863,23.844448234692138,3.519536409731987/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -700,7 +700,7 @@ signing men were making of their best feel­
 ings, and see the precipice to which they  
 are led, before they take the final leap.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn83025141:no_reel:1859070801:1087/pct:140.88960342979635,202.45363214837712,41.90782422293676,12.036321483771252/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn83025141:no_reel:1859070801:1087/pct:46.96320114326545,67.48454404945905,13.969274740978921,4.0121071612570836/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -762,7 +762,7 @@ for obtaining power, were
 of the people to effect a division of parties  
 geographical line; they expect thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn83025141:no_reel:1860071301:1302/pct:28.41794251947354,77.80543852929912,42.143432715551974,10.130218307162007/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn83025141:no_reel:1860071301:1302/pct:9.472647506491182,25.93514617643304,14.047810905183992,3.376739435720669/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -790,7 +790,7 @@ making of their best feelings, and will see
 the precipice to which they are led, before  
 they take the fatal leap.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dior_ver01:data:sn85025007:00415663511:1860110601:0024/pct:44.20659614187928,31.671218394855078,13.976353453640323,7.3297506827592285/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dior_ver01:data:sn85025007:00415663511:1860110601:0024/pct:44.21489317568969,31.677091592517545,13.98050197054553,7.3297506827592285/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -911,7 +911,7 @@ in view its separation.&quot;
 In 1838. Henry Clav, in the Senate of  
 the United States, regarded the Abolitionist
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_bunting_ver01:data:sn86069123:00202195234:1864012801:0240/pct:64.32005494505495,60.86395873629916,19.162087912087912,6.898774983881367/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_bunting_ver01:data:sn86069123:00202195234:1864012801:0240/pct:48.27349252705721,45.64796905222437,14.378972685105651,5.183752417794971/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1064,7 +1064,7 @@ Federalism. Are our slaves to be
 presented with freedom and a dagger?&quot;  
 This was what Jefferson termed &quot;trea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_heart_ver01:data:sn85038614:00175031078:1892121401:0722/pct:15.720961281708945,168.96093270607486,40.720961281708945,31.1617917774596/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_heart_ver01:data:sn85038614:00175031078:1892121401:0722/pct:5.240320427236315,56.32031090202496,13.573653760569648,10.387263925819868/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1096,7 +1096,7 @@ termed &quot;treason against human hope.&quot;
 Never was truer sentence writte  
 one which has been often, but cannot b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_queen_ver01:data:sn85034438:00175048388:1892121401:0705/pct:242.8905988624958,235.49501931286846,46.03546336567414,23.531205529579182/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_queen_ver01:data:sn85034438:00175048388:1892121401:0705/pct:80.96353295416527,78.49833977095615,15.345154455224712,7.843735176526394/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1121,7 +1121,7 @@ government may lay for the pur­
 pose of revenue will so far place  
 them above equal competiloin.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_diamondback_ver02:data:sn87090065:00296024946:1896091701:1062/pct:31.22432210353328,49.310600444773904,17.378800328677073,10.037064492216457/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_diamondback_ver02:data:sn87090065:00296024946:1896091701:1062/pct:23.43268242548818,36.99036323202372,13.052415210688592,7.531504818383988/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1150,7 +1150,7 @@ which the government may lay for the
 purpose of revenue will 60 far place them  
 above equal competition.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_atherton_ver01:data:sn84026355:00211100229:1897060901:0648/pct:72.93178519593614,42.68392370572207,15.856313497822931,10.272479564032697/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_atherton_ver01:data:sn84026355:00211100229:1897060901:0648/pct:54.70876428960261,32.01634877384196,11.903465795681365,7.7111716621253406/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1183,7 +1183,7 @@ covers the case in the matter of
 the primary called by the Con-  
 gressional Committee for the Firs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_fargo_ver01:data:sn85052141:0020653378A:1898041501:0844/pct:120.59020791415158,293.0846930846931,42.79007377598927,43.24009324009324/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_fargo_ver01:data:sn85052141:0020653378A:1898041501:0844/pct:30.162724375104847,73.27117327117327,10.702902197617849,10.81002331002331/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

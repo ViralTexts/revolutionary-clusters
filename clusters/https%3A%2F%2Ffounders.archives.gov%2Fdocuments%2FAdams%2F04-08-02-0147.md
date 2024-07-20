@@ -68,7 +68,7 @@ Nature’s soft nuise, how have I frighted thee,
 That thou no more wilt weigh my eye-lids down,  
 And steep my senscs in forgettulness
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010832:1818111701:0360/pct:12.754524886877828,10.208931577383899,16.063348416289593,2.1487275967917614/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010832:1818111701:0360/pct:12.759238310708898,10.212232234214609,16.077488687782804,2.152028253622471/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -155,7 +155,7 @@ That thou wilt no more weigh mine eyelids down,
 And steep my senses la forgetfulness.”  
 Mr. Durham, from whose valuable paper o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:00279525218:1866011601:0228/pct:73.3024946307616,75.52885217173613,11.06889145878077,2.4909250219051193/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:00279525218:1866011601:0228/pct:73.29038652130822,75.51939924906132,11.071192599933928,2.4937421777221527/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -251,7 +251,7 @@ Why rattier, sleep, liest thou in smoky cribs
 Vpon uneasy pallets stretching thee,  
 A ml husked with buzzing night-flies to thy slumbe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn85038180:00296029051:1884111301:0396/pct:36.31268436578171,109.6218286261369,14.100294985250738,3.267113451412159/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn85038180:00296029051:1884111301:0396/pct:27.2539471742659,82.21637146960268,10.579902611775122,2.453326950694112/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -272,7 +272,7 @@ I frighted thee, that thou no more
 wilt weigh my eyelids down and  
 steep my senses in forgetfulness,&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn85034374:00295878009:1886052201:0953/pct:171.39344262295083,283.79554105492116,45.65573770491803,11.79989124524198/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn85034374:00295878009:1886052201:0953/pct:42.865928659286595,70.94888526373029,11.41861418614186,2.949972811310495/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

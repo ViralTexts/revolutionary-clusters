@@ -147,7 +147,7 @@ ther declares, that when any man was called into
 the public service to the prejudice of his private  
 affairs he has a right to a reasonable compensation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1842102801:0631/pct:195.50735863671574,314.9637629671735,55.92563903950426,5.741082847804462/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1842102801:0631/pct:48.89577683068578,78.74094074179338,13.986826811313444,1.4352707119511154/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -164,7 +164,7 @@ ther declares, that when any man is called into
 the public service to the prejudice of his private  
 affairs he has a right to a reasonable compensa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023294:00200296096:1842102801:0522/pct:134.9957734573119,252.54667662434653,58.41081994928149,6.034353995519044/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023294:00200296096:1842102801:0522/pct:33.756076939336296,63.13666915608663,14.60579158740224,1.508588498879761/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -240,7 +240,7 @@ now before our Courts tiro m m—well in
 years—charged with the horrible crime of  
 criminal intercourse with their own daugh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn82015099:00279556677:1866012001:0226/pct:22.93233082706767,59.108006448146156,13.25187969924812,9.511015583019882/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn82015099:00279556677:1866012001:0226/pct:22.93233082706767,59.118081676518,13.280075187969924,9.50429876410532/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -260,7 +260,7 @@ ho claims upon the grattinde of the people, nor ver
 confer an office within his patronage upon a son, a bro-  
 ther, or a friend.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536135:1872032601:0733/pct:74.4520030234316,122.72727272727273,50.34013605442177,8.500590318772137/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536135:1872032601:0733/pct:18.623558328606542,30.681818181818183,12.592172433352241,2.125147579693034/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -280,7 +280,7 @@ should make no claims upon the cratitude of the publie, ner ever
 an office within his patronage upon a son, a brother, a friend, upon pre­  
 tense that he is not paid for his services by the profits of his office.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grass_ver01:data:sn83030214:00206531101:1872060101:0241/pct:151.40685640362224,244.23431734317344,47.60672703751617,8.060424354243542/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grass_ver01:data:sn83030214:00206531101:1872060101:0241/pct:50.46895213454075,81.41143911439114,15.86890901250539,2.686808118081181/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -309,7 +309,7 @@ pleteness as an answer to one of the Presidential
 apologists. Sometimes the defender is more auda­  
 cious, insisting openly upon the Presidential pre-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743786:1872060101:0802/pct:153.88978930307943,206.8870838576822,45.235008103727715,17.629561835030316/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743786:1872060101:0802/pct:51.296596434359806,68.96236128589406,15.078336034575905,5.8765206116767725/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -333,7 +333,7 @@ fer an office within his patronage upon a son, a brother,
 friend, upon pretence that he is not pald for his ser  
 vices by the pronts of his office
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536135:1872060101:0984/pct:112.14450422751729,175.05522014430863,50.73020753266718,13.547342070387277/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536135:1872060101:0984/pct:28.046905036524414,43.76380503607716,12.687427912341407,3.3868355175968192/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -354,7 +354,7 @@ cnt&lt;f»r ai&lt; office wiiMn hia patronage to a son. a
 btother, a fii*-nd. upon pretence that UoU not paid for  
 til* service- bv the profits of ids office.—Letter (o Joh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_clark_ver03:data:sn82014064:no_reel:1872060301:0002/pct:38.65766779152606,74.8654772019258,11.286089238845145,1.968280940243557/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_clark_ver03:data:sn82014064:no_reel:1872060301:0002/pct:38.66235470566179,74.87609742282639,11.29546306711661,1.9576607193429623/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -379,7 +379,7 @@ tronage to a son, a brother, a friend, upon pre­
 tence that he is not paid for his services by the  
 profits of his office--Letter to doln Jebl, Aug
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212471513:1872060801:1062/pct:167.4037674037674,26.12202419669572,70.18837018837019,23.260049434109536/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212471513:1872060801:1062/pct:41.86808684965178,6.53050604917393,17.554281032363786,5.815012358527384/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -421,7 +421,7 @@ becomes so profitable as to occasion many to
 apply for it, the profits ought to be lessened  
 by the Legislature &quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_clark_ver03:data:sn82014064:no_reel:1872081001:0004/pct:72.84450994841562,56.474459865502936,11.182756079587325,1.788524824724567/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_clark_ver03:data:sn82014064:no_reel:1872081001:0004/pct:72.84911569638909,56.47803691515238,11.187361827560796,1.7921018743740162/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -484,7 +484,7 @@ fees, or otherwise, becomes so profitable as to
 occasion many to apply for it, the profit*  
 ought to be lessened by the Legislature.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346770:1876030901:0096/pct:10.086361414371844,37.80487804878049,13.280104285481505,1.8847006651884701/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346770:1876030901:0096/pct:10.086361414371844,37.808984150447564,13.290967356471674,1.8805945635213928/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -509,7 +509,7 @@ profitable as to occasion many to al for i a ao o a an a ao
   
 e o o o e ee e e e o o oe i e ii 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777055:1877042701:0067/pct:21.196063588190764,137.30844246308163,78.65253595760787,11.590972415714683/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777055:1877042701:0067/pct:5.301022340022719,34.32711061577041,19.670579326012874,2.8977431039286707/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -545,7 +545,7 @@ comes so profitable as to occasion many to
 apply for it, the profits ought to be lessened  
 by the Legislature
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777067:1881022501:0250/pct:105.66318926974665,141.2449743518647,38.07749627421759,8.59559129349785/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777067:1881022501:0250/pct:26.420719209986956,35.311243587966175,9.52114775479784,2.1488978233744627/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -569,7 +569,7 @@ Ointmont.
 A certain euro for Chronic Sore Eyes,  
 Tetter, Salt Rboum, Scald Head. Ol
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ira_ver01:data:sn84023416:00202197528:1890082901:0115/pct:60.00784929356358,63.45101258894363,16.581632653061224,9.400656814449919/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ira_ver01:data:sn84023416:00202197528:1890082901:0115/pct:45.04221480463381,47.59168035030104,12.448458668761045,7.060755336617405/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -701,7 +701,7 @@ draws to its conclusion. The miblic spirit
 and the persistent efforts of all these years  
 have round their reward in the structure tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_gonvick_ver01:data:sn90059522:00175033580:1891082001:0492/pct:26.987951807228917,23.302043070127002,10.616583982990786,7.3329652125897296/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_gonvick_ver01:data:sn90059522:00175033580:1891082001:0492/pct:26.987951807228917,23.30572427756304,10.6260335459485,7.340327627461807/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -780,7 +780,7 @@ DEGRADES FREE GOVERNMENT
 shall be likewise put in force by the  
 body of the American people
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_interceptor_ver01:data:sn98062890:0041562475A:1891082701:0215/pct:65.25550566602523,50.89692915779872,14.026085097284584,10.747947704469444/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_interceptor_ver01:data:sn98062890:0041562475A:1891082701:0215/pct:65.26619627966646,50.908330799635145,14.04212101774642,10.75554879902706/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -827,7 +827,7 @@ the time be not far off when its declar­
 ation against that other and more  
 widespread curse, which corrupts and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_carbon_ver01:data:sn88076144:00199918023:1891082801:1005/pct:39.13669064748201,35.05715082241427,10.683453237410072,7.178700864231948/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_carbon_ver01:data:sn88076144:00199918023:1891082801:1005/pct:39.14118705035971,35.06760524114859,10.678956834532373,7.189155282966267/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -860,7 +860,7 @@ DEGRADES FREE GOVERNMENT
 shall be likewise put in force by the  
 body of the American people
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_fennel_ver01:data:sn2001063544:00332899806:1891082801:0566/pct:36.65773011617516,76.93657851626492,16.532618409294013,12.134331851158437/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_fennel_ver01:data:sn2001063544:00332899806:1891082801:0566/pct:36.666666666666664,76.93950386145565,16.532618409294013,12.146033231921367/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -922,7 +922,7 @@ through increase of fees or otherwise, becomes so
 profitable as to occasion many to apply for it, the  
 profits ought to be lessened by the Legislatur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kaiser_ver01:data:sn83030214:00175037019:1899053001:0585/pct:4.658385093167702,192.08107210100786,48.8558352402746,8.195813489865987/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kaiser_ver01:data:sn83030214:00175037019:1899053001:0585/pct:1.5527950310559007,64.02702403366929,16.285278413424866,2.731937829955329/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -958,7 +958,7 @@ A copy of a curious newspaper ha
 ejudice of hfs private affairs he has  
 a right to a reasonable compensatio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_hydrogen_ver01:data:sn85000631:00199918242:1899071501:0451/pct:95.80108359133126,96.34861407249467,16.679566563467493,1.3992537313432836/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_hydrogen_ver01:data:sn85000631:00199918242:1899071501:0451/pct:76.65118679050568,77.07889125799574,13.338493292053663,1.1194029850746268/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -974,7 +974,7 @@ a right to a reasonable compensatio
 and whenever an office, through in­  
 crease of fees or otherwise, become*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_hydrogen_ver01:data:sn85000631:00199918242:1899071501:0451/pct:95.82043343653251,97.68123667377398,16.69891640866873,1.3992537313432836/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_hydrogen_ver01:data:sn85000631:00199918242:1899071501:0451/pct:76.66666666666667,78.14498933901919,13.348813209494324,1.1194029850746268/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1005,7 +1005,7 @@ an appealing plaintheness in their ex­
 pression which drags at your sympa­  
 thies like the hook in the eyes of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_india_ver01:data:sn85038161:00237289328:1899072001:0071/pct:27.980852915578765,92.97297297297297,18.711923411662315,14.1003861003861/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_india_ver01:data:sn85038161:00237289328:1899072001:0071/pct:21.010232963204878,69.72972972972973,14.04310907903331,10.579150579150578/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1024,7 +1024,7 @@ crease of fees or otherwise, becomes
 apply for It, the profits ought to be  
 lessened by the legislature.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_irving_ver01:data:sn92067221:00514150126:1899072001:1015/pct:40.26166378671933,83.45436702649657,12.58948407800543,2.590775269872424/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_irving_ver01:data:sn92067221:00514150126:1899072001:1015/pct:40.26166378671933,83.45436702649657,12.595655393729944,2.5956820412168793/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1058,7 +1058,7 @@ chickens one after the other, and the
 third roosted so high that it took the  
 admiral&#x27;s glass to find him.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_james_ver01:data:sn85058217:00206534862:1899072101:0515/pct:64.73509933774834,230.1795963710424,42.63245033112583,33.49379744491761/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_james_ver01:data:sn85058217:00206534862:1899072101:0515/pct:21.5962441314554,76.7265321236808,14.222590444628556,11.16459914830587/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1105,7 +1105,7 @@ Signature of
 ACCIDENT  
 AND
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_kittitas_ver01:data:sn84022770:00200291141:1899090101:0459/pct:83.63550370487151,22.63812485051423,10.704713857795996,10.224826596508013/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_kittitas_ver01:data:sn84022770:00200291141:1899090101:0459/pct:83.64338641021598,22.64111456589333,10.708655210468233,10.227816311887109/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

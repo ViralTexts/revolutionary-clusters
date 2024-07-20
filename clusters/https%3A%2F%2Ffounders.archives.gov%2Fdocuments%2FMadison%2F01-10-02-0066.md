@@ -242,7 +242,7 @@ That with a view to the exercise of the
 power of impeachment, the House of Repre  
 sentatives have a right to investigate th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:0028077604A:1867100501:0508/pct:119.60646521433591,269.47823736144903,48.840477863668305,11.138145444714787/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:0028077604A:1867100501:0508/pct:29.91212653778559,67.36955934036226,12.214411247803163,2.784536361178697/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -262,7 +262,7 @@ That with a view to the exercise of
 the power of impeachment, the House  
 of Representatives have a right to in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_osceola_ver01:data:sn84022046:00279554140:1867100801:0344/pct:131.74277726001864,328.27025654051306,46.46784715750233,10.833121666243333/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_osceola_ver01:data:sn84022046:00279554140:1867100801:0344/pct:32.92955646664182,82.05714285714286,11.614796869176296,2.707936507936508/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -282,7 +282,7 @@ the incapacity, negligence or perfidy of
 the chief magistrate. His duties are  
 made plain in the Constitution. H
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023253:00200296254:1867101101:0592/pct:161.6871704745167,176.55655037563034,44.63971880492091,14.243079139652156/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023253:00200296254:1867101101:0592/pct:40.42771349055222,44.139137593907584,11.161564376739417,3.560769784913039/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -371,7 +371,7 @@ more within the compass of probable
 events, and either of them might be  
 fatal to the republic.” (Madison papers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00383342065:1881082001:0174/pct:33.482201497438595,72.3242688558235,9.812163404702483,6.115956900974859/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00383342065:1881082001:0174/pct:33.490958448268316,72.33110997092525,9.803406453872762,6.109115785873097/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

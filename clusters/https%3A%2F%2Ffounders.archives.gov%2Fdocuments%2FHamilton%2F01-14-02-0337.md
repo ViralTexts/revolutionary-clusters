@@ -77,7 +77,7 @@ But the fame privilege will not extend to
 contrary lo the 17th and 22d articles of our  
 Treaty with France. I am, &amp;c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793061501:0003/pct:4.786744400122737,53.2865223327482,20.43571647744707,28.02808660035108/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793061501:0003/pct:4.786744400122737,53.2865223327482,20.443387542190855,28.05246732982251/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -95,7 +95,7 @@ by law on goods* wares and merchandize
 imported into the United States, and on the  
 tonnage of ships and vessels.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797061601:0002/pct:23.754601226993866,61.25100240577386,17.20245398773006,2.6303127506014436/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797061601:0002/pct:23.766871165644172,61.26303127506014,17.220858895705522,2.6303127506014436/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -157,7 +157,7 @@ the tonnage of ships and vessels, approv­
 ed the fourth of August, seventeen hun­  
 dred and ninety,” be, and the same ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_palmer_ver02:data:sn84037834:print:1822012201:0037/pct:49.286878565607175,41.588541666666664,19.580277098614506,8.346354166666666/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_palmer_ver02:data:sn84037834:print:1822012201:0037/pct:49.27683845997148,41.58312719697956,19.583078698988253,8.349607255999652/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -230,7 +230,7 @@ imposed by law on goods, wares, and merchandize
 il? pot ted into the United Statys, and on the tonnage  
 of ships and vessels, and the laws respecting the revenu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014405:00415660923:1847123101:0432/pct:17.173625543170225,37.850948111127444,15.737766861893066,4.21872703219168/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014405:00415660923:1847123101:0432/pct:17.186220794760374,37.850948111127444,15.737766861893066,4.223626831299916/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

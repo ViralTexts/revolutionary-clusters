@@ -124,7 +124,7 @@ tion, and a full possession of his reason, he
 closed his wéll spent life. = )  
 I have the honor to be, &amp;c. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1800010101:0211/pct:5.4768943519527,4.3568260226712665,34.30838649447643,90.2020699852144/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1800010101:0211/pct:5.487267257922307,4.363397404304255,34.30320004149162,90.2020699852144/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -566,7 +566,7 @@ possession of his reason, he closed his well spent life. I
 have the honor to be, sir, your most obedient and very  
 humble servant, Tobias Lear
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879099:1858030501:0251/pct:3.6101083032490973,79.64967526077544,19.520371325425476,11.424916355048218/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879099:1858030501:0251/pct:2.708628917838256,59.742176736862824,14.652392622210757,8.571147411926786/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -600,7 +600,7 @@ treme distress. With perfect resignation, and
 a full possession of his reason, be closed his  
 well spent life. I have the honor to lie, &amp;c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_bia_ver01:data:sn83021205:00517172042:1859022201:0176/pct:74.66666666666667,10.372452565003513,15.864734299516908,11.243851018973999/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_bia_ver01:data:sn83021205:00517172042:1859022201:0176/pct:57.87739616613418,8.045893544404908,12.285343450479234,8.713964127514341/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -630,7 +630,7 @@ in extreme distress. With perfect resignation,
 and with full possession of his reason, he closed  
 his well-spent life.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_braniff_ver01:data:sn86053573:00294558317:1874060501:0364/pct:23.8029146426093,106.65640631011928,43.02567661346287,7.028344234962165/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_braniff_ver01:data:sn86053573:00294558317:1874060501:0364/pct:5.950728660652325,26.66410157752982,10.756419153365718,1.7570860587405412/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -669,7 +669,7 @@ I have the honor to be, with the highest
 respect, sir, your most obedient and very  
 humble servant, Tonias LEAr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84022473:00280777559:1875121401:1066/pct:154.86988847583643,46.627523986825146,44.014869888475836,47.94500930832021/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84022473:00280777559:1875121401:1066/pct:38.72467001301357,11.656880996706287,11.005763153002416,11.986252327080052/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -706,7 +706,7 @@ I have the honor to be, sir, your ni03t obe
 dient and very humble servant,  
 Tobias Leah
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_dayton_ver01:data:sn86076999:00415627336:1879022201:0362/pct:34.45499587118084,16.429170159262362,22.58464079273328,17.113718915898296/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_dayton_ver01:data:sn86076999:00415627336:1879022201:0362/pct:25.857083849648905,12.321877619446774,16.95580338703015,12.838781782620844/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -740,7 +740,7 @@ With perfect resignation and a full poss:ssion
 of his reason he closed his well spent life.  
 I have the honor to be, &amp;c.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_yorkie_ver01:data:sn83045462:00280654528:1880013101:0517/pct:16.815449079978137,16.53127538586515,13.645472763709236,7.744381261846737/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_yorkie_ver01:data:sn83045462:00280654528:1880013101:0517/pct:16.82455820732374,16.53466016788519,13.645472763709236,7.761305171946927/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -760,7 +760,7 @@ reme distress. With perfect resignation and
 in full possession of his reason he closed his  
 well-spent life.&quot; This letter, written at Moun
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044851:1885022201:0684/pct:232.66518188567187,33.05735360529881,49.96288047512992,11.440614180340209/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044851:1885022201:0684/pct:58.18789454140364,8.264338401324702,12.495358336427776,2.860153545085052/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -781,7 +781,7 @@ Vith perfect resignation snd in full pos­
 session of his reason he closed his well­  
 spent life.” This letter, written at Moun
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_fleshgolem_ver02:data:sn92063989:00514153565:1885032101:0378/pct:65.54359526372444,19.337435724521622,10.0,2.8997724015847592/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_fleshgolem_ver02:data:sn92063989:00514153565:1885032101:0378/pct:65.5507714388231,19.3402455814999,10.003588087549335,2.8969625446064797/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -956,7 +956,7 @@ I hate the honor to le, with the highest re­
 Siieet. rir, jui iikK obedient ami ery humble  
 naiit, TOBIAS LKAK
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_earl_ver02:data:sn85054468:211102214:1899121001:0557/pct:84.36768149882904,77.08891867739052,18.179156908665107,11.729222520107239/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_earl_ver02:data:sn85054468:211102214:1899121001:0557/pct:56.258234519104086,51.396336014298484,12.121212121212121,7.819481680071492/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1039,7 +1039,7 @@ highest respect, sir, your most obedient
 and very humble servant,  
 &#x27;:Tobias Lear.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jimmy_ver02:data:sn96091104:00296020849:1899122201:0412/pct:32.28768171384851,76.74575357239148,18.056618209640398,17.969803181450526/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jimmy_ver02:data:sn96091104:00296020849:1899122201:0412/pct:24.220394107518654,57.562685359935294,13.545054524583891,13.480722566729577/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

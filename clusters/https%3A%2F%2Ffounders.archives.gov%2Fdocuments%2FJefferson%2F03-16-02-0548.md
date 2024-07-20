@@ -109,7 +109,7 @@ never would have been an infidel.”
 son: &quot;I never suffered a political to be  
 come a personal difference.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775290:1888110801:0319/pct:7.397444519166107,84.84770595039198,14.408204438466711,1.4394036756201003/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775290:1888110801:0319/pct:5.549016310744913,63.64220537206015,10.812174205481755,1.0795527567150751/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -150,7 +150,7 @@ That I carried in my belt,
 For my enemy is finished  
 And I&#x27;ve got his scalp and pelt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn86071719:00280777699:1888111401:1207/pct:264.5979020979021,24.238805970149254,116.34615384615384,358.44776119402985/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn86071719:00280777699:1888111401:1207/pct:66.17839965019677,6.059701492537314,29.09925666812418,89.61194029850746/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -194,7 +194,7 @@ Sors.
 I never suffered a political to become a  
 personal difference.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn84024448:0029602076A:1888111801:1219/pct:180.1857585139319,51.63797890061077,49.76780185758514,41.86563020544142/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn84024448:0029602076A:1888111801:1219/pct:45.055157731759245,12.909494725152692,12.444358428488485,10.466407551360355/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -214,7 +214,7 @@ It was an up Hill fight in New York,
 and rough Hewitt as you may, everybody  
 Grants it has been a long time since w
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84038582:00212471574:1888112401:0761/pct:14.10459587955626,154.15683189089955,58.16164817749604,12.483608707054813/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84038582:00212471574:1888112401:0761/pct:3.5275465715418153,38.53920797272489,14.546175188267934,3.1209021767637033/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -230,7 +230,7 @@ Grants it has been a long time since w
 1 never suffered apolitical to become  
 a personal difference.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271768515:1889020701:0206/pct:82.2658126501201,9.60373423378687,11.982919669068588,0.9534213923924918/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271768515:1889020701:0206/pct:82.27026065296681,9.60373423378687,11.978471666221866,0.9534213923924918/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -260,7 +260,7 @@ A respectable minority la useful as censor.
 I never suffered a political to become a per­  
 sonal difference
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ingstad_ver01:data:sn84028296:00296029154:1889071101:0394/pct:51.169064748201436,38.52782240397254,18.884892086330936,11.333430699576457/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ingstad_ver01:data:sn84028296:00296029154:1889071101:0394/pct:38.385428378682256,28.90316927121367,14.166854058916122,8.500073024682342/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -294,7 +294,7 @@ publican Government, said, “I never
 suffered a political to become a per­  
 sonal difference.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kite_ver01:data:sn86092182:00514157492:1889071301:0309/pct:13.99930867611476,66.04452739634715,9.937780850328378,1.47980269297427/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kite_ver01:data:sn86092182:00514157492:1889071301:0309/pct:13.996889580093313,66.0357238069848,9.940383618455158,1.4829378832311384/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -451,7 +451,7 @@ been Christian.
 Had there never been a commentator,  
 there never would have been an infidel.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_heart_ver01:data:sn85038614:0017503111a:1894040101:0528/pct:47.32419283502875,167.8999692528441,35.05823381984373,21.03105462744696/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_heart_ver01:data:sn85038614:0017503111a:1894040101:0528/pct:15.774730945009583,55.9666564176147,11.686077939947909,7.01035154248232/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -769,7 +769,7 @@ and qualifications of such grants, which
 ought not to be changed or altered by the  
 House of Lords.&quot;errall page 10
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_hypno_ver01:data:sn83025182:00279528657:1858061901:0967/pct:136.62646621509995,97.04097116843703,37.46902362464893,7.081436519979768/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_hypno_ver01:data:sn83025182:00279528657:1858061901:0967/pct:45.54215540503332,32.34699038947901,12.489674541549645,2.360478839993256/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -794,7 +794,7 @@ desations, conditions, limitations, and anee endo
 grants, which ought not to be changed and aly  
 tugud li tha Houee of Lords,-FERrALL POGE 103.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85026105:00296028046:1858062401:0788/pct:332.1830457614404,318.063112078346,52.13803450862716,13.166485310119695/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85026105:00296028046:1858062401:0788/pct:83.0457614403601,79.5157780195865,13.03450862715679,3.2916213275299238/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -820,7 +820,7 @@ conditions, limitations and qualifications of such
 ants, which ought not to be changed or altered  
 S he House of Lords.&quot;&quot;-Ferrall, page 105
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776981:1858062501:0955/pct:19.52054794520548,341.884159106769,43.42465753424658,19.09281228192603/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776981:1858062501:0955/pct:4.880972769309813,85.47103977669225,10.858023634183935,4.773203070481507/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1570,7 +1570,7 @@ rations, limitations, and qualifications of such grant,
 which ought not to be changed or altered by the House  
 of Lords.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:00206533523:1879050201:0846/pct:77.80285929270129,109.6850861556744,49.736644093303234,30.243612596553774/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:00206533523:1879050201:0846/pct:19.461697722567287,27.4212715389186,12.441182006399398,7.5609031491384435/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1669,7 +1669,7 @@ limitations and qualifications of such
 grant, which ought not to be changed  
 or altered by the House of Lord
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_norgay_ver01:data:sn84028194:00296029002:1879051701:0325/pct:61.089275687815835,16.340566820822957,12.91409320606401,10.684216767461164/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_norgay_ver01:data:sn84028194:00296029002:1879051701:0325/pct:45.82982308340354,12.261354203723467,9.702330805953384,8.016127119648997/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

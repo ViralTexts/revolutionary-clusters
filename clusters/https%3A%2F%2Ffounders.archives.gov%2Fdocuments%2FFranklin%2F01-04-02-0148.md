@@ -151,7 +151,7 @@ Nothing humbler than ambition when it is
 about to climb.  
 The discontented man finds no easy chair.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn85025180:00212477606:1849030301:0502/pct:260.9168609168609,258.0436540016168,55.63325563325564,15.575316626246295/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn85025180:00212477606:1849030301:0502/pct:65.25456665371162,64.5109135004042,13.913719393703847,3.8938291565615737/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -209,7 +209,7 @@ is about to climb. ot toc ald boik
 The discontented man finds no easy  
 chair.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776014:1849031001:0810/pct:171.91091954022988,158.61778339654447,50.64655172413793,19.83424638291895/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776014:1849031001:0810/pct:42.99317283507007,39.65444584913612,12.666187567373338,4.958561595729737/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -229,7 +229,7 @@ Nothing is humbler than ambition when it is about
 to climb.  
 The discontented man finds no easy chair.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347922:1849031201:0253/pct:210.41279285979917,265.36668079694783,59.52026775753068,11.996608732513778/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347922:1849031201:0253/pct:52.59341885108756,66.33229725911275,14.877300613496933,2.99872845436564/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -247,7 +247,7 @@ Nothing is humbler than ambition when it is
 about to climb.  
 The discontented man finds no easy chair.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215828:1849031601:0086/pct:2.898550724637681,30.36630809252619,13.18057187622405,1.8209941643816354/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215828:1849031601:0086/pct:2.8982669147165376,30.364173228346456,13.182545122229838,1.82320959880015/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -275,7 +275,7 @@ Nothing humbler than ambition when it is about
 to climb.  
 . The discontented man finds no easy chair
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_eclipse_ver01:data:sn82016488:00513688039:1849051201:0302/pct:60.93979441997063,79.3217207706519,15.467449828683309,2.2169437846397466/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_eclipse_ver01:data:sn82016488:00513688039:1849051201:0302/pct:60.945233045086205,79.3217207706519,15.467449828683309,2.225741180610539/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -308,7 +308,7 @@ Nothing is humbler than ambition when
 it is about to climb.  
 The discontented man finds no easy chair
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn85042796:00295863080:1849053001:0309/pct:34.02140672782875,31.175213675213676,15.4434250764526,5.641025641025641/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn85042796:00295863080:1849053001:0309/pct:34.02140672782875,31.175213675213676,15.4434250764526,5.648148148148148/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -407,7 +407,7 @@ with n wire from the Hod reaching down, round
 one of the Mirouds, to the iVufr, will not bo hurt  
 by Lightning
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn83035487:00211100497:1858100901:0883/pct:32.193732193732195,12.392241379310345,36.93019943019943,112.99838362068965/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn83035487:00211100497:1858100901:0883/pct:24.15820416889364,9.294181034482758,27.7213611259576,84.7521551724138/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -437,7 +437,7 @@ the size of a common Knitting-needle, sharpened to
 Lmrr tvT Bma&quot; Staples. If the House or Barn be  
 andKk mIMra&gt;&#x27;b-ealfodandPoint at ach End
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026335:1858101401:0376/pct:14.587248807286397,88.1459883370199,11.493422003758855,4.956766539312286/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026335:1858101401:0376/pct:14.592067852151704,88.1459883370199,11.498241048624163,4.956766539312286/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -478,7 +478,7 @@ Mast, with a Wire from the Foot of the lto;
 reaching down, round one of the Shrouds, to  
 the Water, will not be hurt by Lightning
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn89060119:00415623483:1858102101:0343/pct:184.8086586780054,224.44671750046496,40.96121633810076,38.91575227822206/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn89060119:00415623483:1858102101:0343/pct:61.60288622600181,74.81557250015499,13.65373877936692,12.971917426074018/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -521,7 +521,7 @@ ing a sharp pointed Rod, fix&#x27;d on the Top of their Masts, with
 Whe from the Foot of the Rod reaching down, round one of th  
 Shrouds to the Water, will not be hurt by Lightning.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530650:1860061601:0350/pct:151.4924128731032,139.62862851098836,47.106886776721694,21.095310847338112/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530650:1860061601:0350/pct:50.497470957701076,46.54287617032946,15.702295592240565,7.031770282446038/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -577,7 +577,7 @@ Wire from the Foot of the Rod reaching down
 round one of the Shrouds, to the Water, will  
 not be hurt by Lightning.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_bia_ver01:data:sn83021205:00517172017:1860061901:0577/pct:6.164251207729468,80.83982202447163,15.78743961352657,24.026696329254726/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_bia_ver01:data:sn83021205:00517172017:1860061901:0577/pct:4.7873402555910545,62.6544540229885,12.24041533546326,18.63146551724138/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -842,7 +842,7 @@ yith a Wirs from the Foot of the Rod reaching
 own, round one of the shrouds, to the Water, will  
 not be hurt by Leghtuing
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:00206539902:1862061201:0187/pct:319.57236842105266,188.0234128770824,51.39802631578947,34.81915053279304/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:00206539902:1862061201:0187/pct:79.90952087188978,47.0058532192706,12.852148879292617,8.70478763319826/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -883,7 +883,7 @@ the Foot of the Rod reaching down, round one
 of the Shrouds, to the Water, will not bo hurt  
 by Lightning
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_frost_ver02:data:sn85026213:print00211110090:1862061501:0002/pct:43.88817832998355,79.24248551017658,12.826603325415677,11.578379835557353/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_frost_ver02:data:sn85026213:print00211110090:1862061501:0002/pct:43.8927462086607,79.24922496293301,12.840306961447103,11.591858741070226/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -970,7 +970,7 @@ Wire from the Foot of the Rod reaching
 down, round one of the Shrouds, to the  
 Water well not be hurt by Lightuing
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472086:1862071201:0175/pct:337.3024830699774,79.00291938019313,45.93679458239278,51.02178306759488/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472086:1862071201:0175/pct:84.36132674664785,19.750729845048284,11.489061397318277,12.75544576689872/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1080,7 +1080,7 @@ Water, will not be hurt by Lightning
 at length to discover to them a means to protect  
 their habitations and other buildings from mischie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777651:1867092001:0374/pct:60.4559748427673,74.87179487179488,50.471698113207545,5.007541478129713/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777651:1867092001:0374/pct:15.119937082186395,18.71794871794872,12.622886354699174,1.2518853695324283/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1102,7 +1102,7 @@ Nothing is humbler than ambition when
 it is about to climb.  
 The discontented man finds no easy chai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348707:1870033101:0226/pct:4.019659469896436,50.29687293838237,12.480252764612954,4.195804195804196/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348707:1870033101:0226/pct:4.018954018954019,50.29023746701847,12.482449982449982,4.1985488126649075/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1325,7 +1325,7 @@ all.
 Who is powerful? He that governs his  
 passions
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685142:1891080601:0591/pct:50.129611166500496,17.488422773086352,21.475573280159523,10.828112230999727/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685142:1891080601:0591/pct:50.119617224880386,17.486041127604523,21.47793726741095,10.831177084751918/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1343,7 +1343,7 @@ a diamond and to know one’s self.
 If you would reap praise you must sow the  
 seeds, gentle words and useful deeds.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685142:1891080601:0591/pct:50.30907278165503,62.01307545627894,21.375872382851444,2.438027785344593/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685142:1891080601:0591/pct:50.29904306220096,62.00463026011167,21.3782562466773,2.4422352353715557/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1397,7 +1397,7 @@ requited.
 everything may well be suspected of  
 doing every thing for mone
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_corsair_ver06:data:sn96090259:00415623148:1892042201:0251/pct:78.26999790048289,62.50952889159933,13.352928826369935,1.7685622808354933/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_corsair_ver06:data:sn96090259:00415623148:1892042201:0251/pct:78.27524669326056,62.52096356151852,13.37917279025824,1.772373837475225/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1474,7 +1474,7 @@ Benjamin Franklin, America&#x27;s
 Ignorance leads men into a party, and  
 shame keeps them from getting out again
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_annapolis_ver01:data:sn85025350:0041562766A:1897041001:0284/pct:23.692427790788447,8.428180377467223,17.07650273224044,17.9080824088748/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_annapolis_ver01:data:sn85025350:0041562766A:1897041001:0284/pct:18.366523821527604,6.539377698377252,13.244265187799344,13.875241923477743/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

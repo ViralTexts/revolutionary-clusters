@@ -295,7 +295,7 @@ buried in oblivion. &#x27; Ihey recommend a
 State convention to nominate delegates to  
 the first American Congress and appoi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016942:00295878216:1843100701:0036/pct:70.80035180299032,74.74240780911063,22.647317502198767,14.357375271149674/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016942:00295878216:1843100701:0036/pct:53.135313531353134,56.060195227765725,17.007700770077008,10.77819956616052/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -431,7 +431,7 @@ Great Britain by propagating the mosst malevolent
 falschoods, particilarly that there is an intention in the  
 Inerican colonies to set up for independent State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347910:1847082601:0034/pct:73.04280755881219,33.22799097065463,61.183956806787506,24.815650865312264/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347910:1847082601:0034/pct:18.25718141507615,8.305747818236533,15.293040293040294,6.202979235630455/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -460,7 +460,7 @@ Ministry are artffflffPrejudicing our sovereign, and iiiflam­
 &#x27; there ban intention in the American cotonks tote! upfor  
 &#x27; independent State*.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1847090401:0651/pct:65.3737658674189,91.05911608454844,15.35966149506347,3.164914660336837/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1847090401:0651/pct:65.3737658674189,91.06665159564447,15.3737658674189,3.161146904788817/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -482,7 +482,7 @@ earnest wishes to see an entire stop forever put
 to such a wicked, cruel, and unnatural trade.  
 Resolved, That it ia the opinlcn of this uwet
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn82015050:00280763366:1847111301:0093/pct:78.76022655758338,48.46639603067208,16.614222781623663,5.525484889490302/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn82015050:00280763366:1847111301:0093/pct:59.08733280881196,36.35543527289129,12.462627852084973,4.138475417230492/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -519,7 +519,7 @@ Resolved, That it ia the opinlcn of this uwet
 ting, that a solemn covenant and association  
 should be entered into by el! the Colonics,&quot; die.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn83035366:00296029099:1848081801:0575/pct:104.73384030418251,79.000546149645,18.878326996197718,2.2665210267613327/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn83035366:00296029099:1848081801:0575/pct:78.59996195548793,59.25723648279629,14.171580749476888,1.7067176406335336/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -567,7 +567,7 @@ trade.
 ing, that a solemn covenant and association  
 should be entered into by all the Colonies,&quot; &amp;c.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn89080032:00415668132:1848090501:0450/pct:96.3392391870766,129.89558917536758,37.324127149557064,15.725548689537609/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn89080032:00415668132:1848090501:0450/pct:32.12144904873599,43.29852972512252,12.444618191295282,5.241849563179203/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -598,7 +598,7 @@ avery. earnest wishes to see an entire slop lor ever put to such a s
 Jilte to | wicked, cruel, and unnatural truJe. c  
 eedo.rn i &quot; Resolved, That it is the opinion of this meeting, that a 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848120501:1198/pct:44.590780809031045,73.73611284483835,17.96801505174036,2.9709149918861564/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848120501:1198/pct:44.590780809031045,73.74027379020514,17.973241350475593,2.975075937252944/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -623,13 +623,13 @@ on this continent; and we take this opportunity of de­
 &quot;claring our most earnest wishes to see an entire stop for  
 &quot;ever, put to such a wicked, crue and unnatural trade.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530339:1851022201:0356/pct:153.73436971949982,159.55804980708524,47.634335924298746,16.16976499473869/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530339:1851022201:0356/pct:51.244789906499946,53.18601660236175,15.87811197476625,5.3899216649128965/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The International Monthly Magazine of Literature, Science and Art (1850-1852)_](https://archive.org/details/sim_international-monthly-magazine-of-literature-science_1852-02-01_5_2/page/n19/mode/1up?view=theater)
+## [From _The International magazine of literature, art, and science_](https://archive.org/details/sim_international-monthly-magazine-of-literature-science_1852-02-01_5_2/page/n19/mode/1up?view=theater)
 
 #### 1852-02-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -661,7 +661,7 @@ ko take this opportunity o( declaring our most
 s&amp;rncat wishes to see an entire stop forever put  
 to Mioh a wicked, cruel, and unnatural trade.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1853051201:0762/pct:20.52898451418391,56.21002386634845,13.868713169795807,3.2744630071599046/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1853051201:0762/pct:20.53355260152574,56.21002386634845,13.868713169795807,3.2808273667462213/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -683,7 +683,7 @@ take this opportunity of declaring our most earnest
 cruel, and unnatural trade&quot; HLoud applause.! They  
 had no idea of putting it under the perpetual safe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530492:1856043001:0841/pct:199.89988319706325,84.50465707027942,46.98815284498582,11.805975565501392/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530492:1856043001:0841/pct:66.63329439902108,28.168219023426474,15.662717614995271,3.935325188500464/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -718,7 +718,7 @@ wicked, cruel, and unnatural trade.&quot; [Loud applause.
 j They had no idea of putting it under  
 the perpetual safeguard of the Union?[lighte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1856050801:0507/pct:51.02905569007264,33.0307328605201,13.922518159806295,4.595744680851064/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1856050801:0507/pct:51.03712671509282,33.03703703703704,13.914447134786117,4.595744680851064/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -742,7 +742,7 @@ pat lorwer to such a wicked, cruel and on­
 utTfaraf tride &quot;&#x27;TLoiid &quot;up)lauV. They&#x27;  
 1(1 npj(dfif putting it under, perpet
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cousteau_ver02:data:sn84028817:00296027352:1856052101:0324/pct:8.297872340425531,109.9753086419753,16.54255319148936,8.012345679012345/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cousteau_ver02:data:sn84028817:00296027352:1856052101:0324/pct:6.225611919120255,82.48148148148148,12.415750266051791,6.012345679012346/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -786,7 +786,7 @@ the opportunity of declaring our most earne t with to
 see al entire stop put to such a wicked, cruel and un­  
 natural tiade.&quot; No di-tinct provi ion in refer nee t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530510:1856080201:0227/pct:196.11619322741134,132.69477864735427,46.20446156315198,9.893704006541292/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530510:1856080201:0227/pct:65.37206440913711,44.23159288245143,15.401487187717327,3.297901335513764/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -837,7 +837,7 @@ claring our most earnest wishes to
 see an entire stop forever put to such  
 a wicked, cruel and unnatural trade.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1856091901:0151/pct:285.8678955453149,49.97776789684304,43.54838709677419,30.947087594486437/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1856091901:0151/pct:71.50816522574448,12.49444197421076,10.893371757925072,7.736771898621609/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -858,7 +858,7 @@ j Colonies ; and in this connection, we take the op
 i an entire stop put to such a wicked and unnatural  
 ! trade.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182987:1856100901:0376/pct:36.33385066390757,60.523106111939285,14.95085359544749,4.417942810678954/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182987:1856100901:0376/pct:36.327586206896555,60.51490514905149,14.952586206896552,4.420731707317073/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -890,7 +890,7 @@ th day of Jaly, 1t5, at the Court Hlouse, George
 Washirigton, Chairman, and Robert Harrison, Clerk of  
 said meetirg
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530522:1856110401:0236/pct:152.81864771036535,129.5002939447384,48.14018846090263,33.521457965902414/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530522:1856110401:0236/pct:50.93954923678845,43.16676464824613,16.046729486967543,11.17381932196747/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -912,7 +912,7 @@ tire stop put to such a wicked, cruel, and unnatural
 trade.&quot;  
 The doings of that meeting are known in histor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530522:1856110401:0236/pct:153.2484708216234,163.86831275720164,47.71036534964457,12.486772486772487/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530522:1856110401:0236/pct:51.0828236072078,54.622770919067214,15.903455116548189,4.162257495590829/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -928,7 +928,7 @@ The doings of that meeting are known in histor
 and adopted &quot;at a general meeting of the freehold.­  
 &quot;ers and inhabitants of the County of Fairfax,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530534:1857022301:0356/pct:152.65170407315046,225.44266191325013,46.79966749792186,4.194890077243018/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530534:1857022301:0356/pct:50.883901357716816,75.14755397108338,15.599889165973954,1.3982966924143394/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -948,7 +948,7 @@ onies on this continent, and we take this opportuuity
 of declaring our wost earneet wishes to see an entire  
 step put to such a wicked, cruel and unnaterat trad
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530534:1857022301:0356/pct:152.76807980049875,231.43196672608437,46.999168744804656,9.138443256090316/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530534:1857022301:0356/pct:50.922693266832916,77.1439889086948,15.666389581601551,3.046147752030105/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1016,7 +1016,7 @@ and they declared that no slaves ought to be
 imported into any of the British colonies  
 on this continent. They express their wis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn85030219:00212472803:1859021901:0330/pct:96.2856276531231,102.18269125832151,22.073984232868405,2.3463931026956235/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn85030219:00212472803:1859021901:0330/pct:64.20015163002275,68.12179417221434,14.723275208491282,1.5715377059914875/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1039,7 +1039,7 @@ claring our most earnest wishes to see an
 entire stop forever put to such a cruel and  
 wicked and unnatural trade.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528670:1860100301:1161/pct:61.96924813090704,36.143717464529956,43.99774298208492,12.55486373379606/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528670:1860100301:1161/pct:20.65641604363568,12.047905821509985,14.66591432736164,4.18495457793202/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1071,7 +1071,7 @@ portunity of declaring our most carnest wishes to
 see an entire stop forever put to such a cruel and  
 wicked and unnatural trade,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528293:1862030801:0267/pct:72.35600390497885,127.08757637474542,42.19004230393752,10.12339762789026/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528293:1862030801:0267/pct:24.11866796832628,42.36252545824847,14.06334743464584,3.37446587596342/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1141,7 +1141,7 @@ into an absolute and despotic monarchy, or
 a tyrannical aristoctrey, and the freedom of  
 the people be annihilated.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293812:1866042601:0397/pct:138.97727272727272,90.69212410501193,37.72727272727273,83.26242606620318/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293812:1866042601:0397/pct:34.75913031121216,22.673031026252982,9.435839135995453,20.815606516550794/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1199,7 +1199,7 @@ falsehoods are propagated, particularly that
 there is an intention in the American colo­  
 nies to set up for independent States.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293812:1866042601:0397/pct:138.92045454545453,174.1620836359863,37.32954545454545,57.528276434575076/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293812:1866042601:0397/pct:34.74491971010374,43.54052090899658,9.336364928236465,14.382069108643769/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1256,7 +1256,7 @@ our most earnest wishes to see an entire
 stop forever put to such a wicked, cruel and  
 unnatural trade.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293812:1866042601:0397/pct:138.75,231.73186676351563,37.5,56.61512918958182/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293812:1866042601:0397/pct:34.70228790677846,57.93296669087891,9.378996731561745,14.153782297395455/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1281,7 +1281,7 @@ tural trade.&quot; In 1766 he wrote to Kobert
 Morris in such terms as these: I can only  
 say that there is not a man liclng tofio wishe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_ewing_ver01:data:sn83025925:00280776191:1866120501:0693/pct:7.939308398023995,100.38781163434903,19.213126323218066,9.418282548476455/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_ewing_ver01:data:sn83025925:00280776191:1866120501:0693/pct:5.964355037938945,75.29085872576178,14.416799011822834,7.077562326869806/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

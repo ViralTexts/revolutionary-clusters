@@ -107,7 +107,7 @@ this extract from the Message refers: n
 &#x27; number may adjourn from day to day, and may be ,  
 &#x27; authorised to compel the attendance of absent mem
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661332:1844031601:0261/pct:18.95117540687161,54.99173343507567,16.491862567811935,6.689558692610963/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661332:1844031601:0261/pct:18.95117540687161,54.99173343507567,16.49789029535865,6.69803722073848/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -131,7 +131,7 @@ nounce upon the very threshold of the Capitol, it can
 scarcely be doubted that such an occasion is sufficiently  
 extraordinary to demand the assistance of the Legislature
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271742915:1845062101:0714/pct:148.46480067854114,240.17467248908298,47.58269720101781,11.985750402206389/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271742915:1845062101:0714/pct:49.488266892847044,80.05822416302766,15.860899067005937,3.9952501340687965/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -186,7 +186,7 @@ think proper; so tho Senate could fix the
 time of adjournment, and if the Ilouse  
 1-1 ? -
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_idacox_ver02:data:sn85026945:00202194278:1856051501:0410/pct:29.722814498933904,18.928291755229893,13.375977256574272,3.5462579706902337/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_idacox_ver02:data:sn85026945:00202194278:1856051501:0410/pct:29.732290926320776,18.935749711004213,13.371239042880834,3.5425289928030725/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -207,7 +207,7 @@ the slaveholding States of America, is forbid.­
 den, and Congress is required to pass such  
 laws as shall effectually prevent the same. Con-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530674:1861031601:0518/pct:55.635813875356966,152.63724434876212,47.33747690240215,13.694534146633178/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530674:1861031601:0518/pct:18.545271291785653,50.87908144958737,15.779158967467383,4.5648447155443925/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -280,7 +280,7 @@ were not meant to comprehend it; or to pro­
 tide for its exercise by others, when they can­  
 not exercise It themselves.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_ewing_ver01:data:sn83025925:00280776221:1867111901:0546/pct:68.974175035868,64.48348559381589,19.44045911047346,14.307800421644414/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_ewing_ver01:data:sn83025925:00280776221:1867111901:0546/pct:51.74887892376682,48.362614195361914,14.582959641255606,10.73787772312017/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -305,7 +305,7 @@ ferson&#x27;s; he had no occasion to allude to that
 &quot;point. It is true that the day was appointed  
 by the Congress of the Confederation; but su
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_ewing_ver01:data:sn83025925:00280776221:1867111901:0546/pct:68.74103299856527,85.31271960646521,19.709469153515066,7.772312016865777/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_ewing_ver01:data:sn83025925:00280776221:1867111901:0546/pct:51.5695067264574,63.99156711173577,14.780269058295964,5.832747716092761/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -330,7 +330,7 @@ teea eeo oe oe o e e o i a ie ta on te oa
 assrane of that eaetion i oo e o i e e ee o ee  
 the right where it would be too narrow; to re-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn83025182:00279528384:1867112601:0490/pct:12.414777231647376,61.00458769556523,68.60631044870779,9.293024350076461/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn83025182:00279528384:1867112601:0490/pct:4.138259077215792,20.33486256518841,22.86877014956926,3.0976747833588205/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -349,7 +349,7 @@ where the se were not meant to comprehend it; or
 to provide for its exercise by others, when they  
 cannot exercise it themselves.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn83025182:00279528384:1867112601:0490/pct:47.67718408117964,72.76790965768733,33.375614396702076,4.199505940477591/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn83025182:00279528384:1867112601:0490/pct:15.892394693726548,24.255969885895777,11.125204798900691,1.3998353134925303/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -369,7 +369,7 @@ ing and separation depend on their own will; they
 make a pert of the natural right of self-governs­  
 ment.&quot; It was in the exercise of this right tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn83025182:00279528384:1867112601:0490/pct:47.75646107499604,86.1075167627338,33.21706040906929,6.3521938595459355/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn83025182:00279528384:1867112601:0490/pct:15.918820358332011,28.70250558757793,11.072353469689762,2.1173979531819787/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -392,7 +392,7 @@ jority is the natural law of every society of
 men, and of every collection of men who are  
 to transact together a particular business.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:0027174397A:1876041201:0168/pct:56.597279134568105,152.219053051911,47.320111457138175,16.77124928693668/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:0027174397A:1876041201:0168/pct:18.865759711522703,50.739684350637006,15.773370485712725,5.590416428978894/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -455,7 +455,7 @@ journment , the president may adjourn
 them to such tirno as ho shall think  
 proper. Unless the two houses shall soo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_chadron_ver01:data:sn99021999:00206538156:1886072201:0239/pct:2.99860529986053,70.67836746064911,16.317991631799163,9.277058086084413/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_chadron_ver01:data:sn99021999:00206538156:1886072201:0239/pct:2.249346120313862,53.01225797464828,12.258064516129032,6.964758322886196/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -482,7 +482,7 @@ Congress will have been in session nearly
 tbu of the twelve months of the year, and  
 surely no right-thinking citizen of the coun
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_pink_ver01:data:sn85025007:0017503433A:1888090601:0662/pct:1.4550745725718444,22.455267211754947,16.55147326300473,8.614764782557176/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_pink_ver01:data:sn85025007:0017503433A:1888090601:0662/pct:1.4611373832908936,22.455267211754947,16.55147326300473,8.626614527787652/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -581,7 +581,7 @@ journment the President may adjourn
 them to such time as he shall think pro-  
 per
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_heart_ver01:data:sn85038614:00175031108:1893080801:0178/pct:45.487528344671205,12.145325096848497,36.17535903250189,16.36477855721914/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_heart_ver01:data:sn85038614:00175031108:1893080801:0178/pct:15.162509448223734,4.0484416989495,12.058453010833963,5.454926185739713/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -600,7 +600,7 @@ to the time of adjournment, the President
 may adjourn them to such time as he may  
 think proper. This power has never bee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn82015679:00296029865:1893101401:0438/pct:29.092191909689557,70.69090324137376,18.39134524929445,3.723960427893509/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn82015679:00296029865:1893101401:0438/pct:21.832725561698624,53.02018820879916,13.798376661569227,2.790959543151291/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -671,7 +671,7 @@ the present purpose of the President
 to do what never yet in the history  
 of the republic has been done a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_garfield_ver01:data:sn89067274:00294556989:1893101901:0390/pct:78.93590541381457,40.38391446968777,13.550093341630367,11.79686550844369/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_garfield_ver01:data:sn89067274:00294556989:1893101901:0390/pct:59.22813569872393,30.287935852265825,10.161842514783691,8.856761025391812/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -699,7 +699,7 @@ operative and it is the present purpose
 of the president to do what never yet  
 in the history of the republic has bee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:okhi:batch_okhi_ellis_ver01:data:sn86063952:00237281226:1893101901:0158/pct:129.35647143890094,155.70580930040018,48.300795372378886,25.941769007865325/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:okhi:batch_okhi_ellis_ver01:data:sn86063952:00237281226:1893101901:0158/pct:32.344964744169225,38.926452325100044,12.077382028566262,6.485442251966331/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -720,7 +720,7 @@ operative and it is the present purpose of
 the president to do what never yet in the  
 history of the republic has been done ad
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_earhart_ver01:data:sn82015485:00237283326:1893102801:0343/pct:7.263814616755793,93.38743612864442,21.093285799168154,4.608756637611462/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_earhart_ver01:data:sn82015485:00237283326:1893102801:0343/pct:4.843262516713713,62.258290752429616,14.06923191204873,3.075844103797215/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -769,7 +769,7 @@ their majority; for the law of the
 majority is the natural law of every  
 society of men.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_frankenbatch_ver01:data:sn92073232:00295879737:1897040801:0286/pct:37.670842824601365,78.4423828125,14.009111617312072,6.494140625/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_frankenbatch_ver01:data:sn92073232:00295879737:1897040801:0286/pct:28.272325879504344,58.837890625,10.511323173337132,4.87060546875/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -858,7 +858,7 @@ of tbo people. Enablo tbem to see that
 it is to their interest to preserve peaco  
 and order, and they will preserve them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_dracula_ver01:data:sn84037890:00206533614:1897042801:0291/pct:67.8921568627451,53.285752760570965,14.740896358543417,7.271747912739025/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_dracula_ver01:data:sn84037890:00206533614:1897042801:0291/pct:50.94570928196147,39.96431457042822,11.06830122591944,5.4538109345542685/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -895,7 +895,7 @@ for the law of tho majority is the general
 law of every society of men.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_atherton_ver01:data:sn84026355:00211100242:1897100101:0017/pct:75.09578544061303,68.80958866793789,16.666666666666668,8.321983110868974/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_atherton_ver01:data:sn84026355:00211100242:1897100101:0017/pct:56.343426600229975,51.60719150095342,12.514373323112304,6.251702533369654/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -922,7 +922,7 @@ for the law of the majority is the
 netural law of every society of  
 men.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_fargo_ver01:data:sn85052141:0020653378A:1898041501:0844/pct:121.12676056338029,241.3234913234913,42.32059020791415,27.415177415177414/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_fargo_ver01:data:sn85052141:0020653378A:1898041501:0844/pct:30.296930045294413,60.33087283087283,10.58547223620198,6.8537943537943535/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -948,7 +948,7 @@ tions of men by that of their majority­
 for the law of majority is the natural  
 law of every society of men.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_frank_ver01:data:sn96091104:00296020837:1898092301:1039/pct:48.481308411214954,47.02523240371846,18.38006230529595,7.383798140770252/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_frank_ver01:data:sn96091104:00296020837:1898092301:1039/pct:36.38488507985976,35.27224435590969,13.790416828983249,5.53784860557769/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1139,7 +1139,7 @@ j jri&#x27;.y ; for the law of the m? j i3
 the natural law of every society of  
 men. Thomaa Jefferson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_johns_ver01:data:sn92073049:00295879361:1899110701:0359/pct:112.07650273224044,79.68857114876114,18.770491803278688,24.25815297228479/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_johns_ver01:data:sn92073049:00295879361:1899110701:0359/pct:84.08034982235583,59.76887670159632,14.088548783820716,18.196063069239056/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1190,7 +1190,7 @@ their majority; for the law of the
 majority is the natural law of every  
 society of men.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068402:00295878691:1899120701:0404/pct:80.41428571428571,58.78501663625631,14.8,7.566813351937319/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068402:00295878691:1899120701:0404/pct:60.32290327189599,44.09144574433831,11.101585940848693,5.677793281099066/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

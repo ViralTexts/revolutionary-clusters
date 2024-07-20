@@ -76,7 +76,7 @@ Mount Vernon, Washington frankly in­
 formed his nephew that in a will which  
 he had made, and then had by him, h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_funston_ver01:data:sn84027670:00237283387:1879032001:0299/pct:226.24309392265192,170.74137703184883,49.033149171270715,45.777719043213956/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_funston_ver01:data:sn84027670:00237283387:1879032001:0299/pct:56.5705404938698,42.68534425796221,12.260404075289243,11.444429760803489/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -96,7 +96,7 @@ sites for a house than Gray&#x27;s Hill and
 that range,&quot; he said, &#x27;are to be found in  
 this country or elsewhere.&#x27; Little di
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_funston_ver01:data:sn84027670:00237283387:1879032001:0299/pct:226.38121546961327,220.80084577771905,48.89502762430939,12.475221355887406/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_funston_ver01:data:sn84027670:00237283387:1879032001:0299/pct:56.60507684337765,55.20021144442976,12.225867725781384,3.1188053389718515/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -162,7 +162,7 @@ should not be able to support the for- j
 mer without involving myself in debt ■  
 and difficulties.” As Nelly had ex
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_deepspace_ver01:data:sn87091045:00513688155:1879041001:0287/pct:27.086383601756953,4.754470621629293,36.7252318204002,91.45614533068408/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_deepspace_ver01:data:sn87091045:00513688155:1879041001:0287/pct:27.094517650886612,4.759201438168228,36.733365869529855,91.45614533068408/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -216,7 +216,7 @@ Bj do jjaetka to otl.ers it behooves me to take care of
 niyself by heeplii&quot;. the t-taff lu mv own hand-s.&quot;  
 A letter that ls more generully known rontalns th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eagle_ver01:data:sn83030214:00175038437:1890112801:0386/pct:56.8598798506251,75.48987047492527,47.92985874330248,19.749806265913872/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eagle_ver01:data:sn83030214:00175038437:1890112801:0386/pct:18.9532932835417,25.163290158308424,15.976619581100827,6.583268755304624/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -254,7 +254,7 @@ Washington has written: &quot;I have just re­
 ceived an account of the death of my  
 brother, which is the occasion ot my sealin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_franco_ver01:data:sn84024546:00237280167:1890121101:0465/pct:3.4679089026915113,77.0364192382541,14.92408557625949,1.7792604948568251/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_franco_ver01:data:sn84024546:00237280167:1890121101:0465/pct:2.606594165372001,57.78426466499861,11.203176247194891,1.3344453711426187/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -364,7 +364,7 @@ Aa Washington died ia less than three
 months after the above letter was writtes,  
 Lawrence Lewie then came into full posses
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_quartz_ver01:data:sn85025007:00175033610:1891101501:0293/pct:17.418323863636363,44.2464477055672,16.281960227272727,50.069881201956676/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_quartz_ver01:data:sn85025007:00175033610:1891101501:0293/pct:17.430160984848484,44.250329994564794,16.270123106060606,50.069881201956676/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -387,7 +387,7 @@ Washington says in one of his letters
 cumstances—productive of no good even  
 when unaccompanied by vicious habits
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:00332895485:1899021501:0472/pct:5.939629990262902,20.52245176711627,14.629990262901655,5.190370496841386/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:00332895485:1899021501:0472/pct:5.938184473107812,20.518948446568796,14.632513993672426,5.193752133834073/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -413,7 +413,7 @@ stances—productive of no good even
 when unaccompanied hy vijcious  
 habits,!&quot; Like a sane man, he par
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_alta_ver01:data:sn90051344:00340586116:1899021601:0408/pct:32.95580110497237,51.07484076433121,14.171270718232044,9.335191082802547/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_alta_ver01:data:sn90051344:00340586116:1899021601:0408/pct:32.95580110497237,51.08479299363057,14.191988950276244,9.335191082802547/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -437,7 +437,7 @@ able under any circumstances produc
 tive of no good even when unaccom  
 panied by vicious habits. Like a san
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_mitchell_ver01:data:sn92073908:00416156761:1899021601:0433/pct:30.885093167701864,35.38497818653461,16.195652173913043,6.779860865463978/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_mitchell_ver01:data:sn92073908:00416156761:1899021601:0433/pct:23.171299891287468,26.541681405494636,12.14474297251126,5.081947883504304/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -463,7 +463,7 @@ any circumstances—productive of
 no good even when unaccnmpa- |  
 nied by vicious habits.” Like 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_frederick_ver03:data:sn89060092:00279521912:1899021701:0070/pct:59.01444686324955,36.33857182244279,16.663368296061744,8.974358974358974/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_frederick_ver03:data:sn89060092:00279521912:1899021701:0070/pct:45.74642126789366,28.165954415954417,12.924335378323109,6.962250712250713/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -487,7 +487,7 @@ circumstances—productive of no
 good even when unaccompanied by  
 vicious habits.” Like a sane man
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_hubble_ver01:data:sn84022982:00513688672:1899021801:0920/pct:8.032128514056225,27.960371127535776,16.253248287266715,7.611259632017613/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_hubble_ver01:data:sn84022982:00513688672:1899021801:0920/pct:8.032128514056225,27.960371127535776,16.261122923064807,7.626985375058972/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -511,7 +511,7 @@ der any circumstances productive of
 no good even when unaccompanied by  
 vicious habits.&quot; Like a sane man, h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_inskip_ver01:data:sn82015104:00280768844:1899022001:0449/pct:56.44622578490314,28.22759812392002,12.29124916499666,4.6038015304863/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_inskip_ver01:data:sn82015104:00280768844:1899022001:0449/pct:56.45040080160321,28.236855097506787,12.29124916499666,4.606887188348556/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -533,7 +533,7 @@ is disreputable under any circum­
 stances—productive of no good even  
 when unaccompanied by vicious hab
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588496:1899022301:0467/pct:5.152587350729766,42.015410182807074,18.000884564352056,6.254721256987461/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588496:1899022301:0467/pct:3.993144815766924,32.56186090078838,13.95601256783776,4.8512996643509485/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -557,7 +557,7 @@ circumstances productive of no good
 even when unaccompanied by vicious  
 habits.&quot; Like a sane man, he partao
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_odoric_ver01:data:sn85038153:00415665830:1899022801:0204/pct:65.28952504879635,76.6093229744728,14.232270657124268,7.3668146503884575/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_odoric_ver01:data:sn85038153:00415665830:1899022801:0204/pct:48.98324385879291,57.46392896781354,10.671872458109647,5.5216426193118755/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

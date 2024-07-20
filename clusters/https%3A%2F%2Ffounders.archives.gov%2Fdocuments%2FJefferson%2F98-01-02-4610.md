@@ -50,7 +50,7 @@ reviewing a scene whicn his military manomvies co*
 veieil from the robberies mill • ivagra of an unsparing  
 euniay. H.*re tli*n I shall huve me welcome oppor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183980:1824101401:0185/pct:64.18370658876988,5.788903598507642,15.335929892891919,8.412564688891564/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183980:1824101401:0185/pct:64.17329222781113,5.78820697954272,15.338850127102601,8.415563578018451/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -116,7 +116,7 @@ The expected visit of General La Fay­
 ette to this place awakens the most lively  
 joy in our citizens; and his reception, al
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn86071587:00542866561:1824102201:0415/pct:27.967257844474762,32.51576734407848,20.491132332878582,31.832515767344077/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn86071587:00542866561:1824102201:0415/pct:27.95962902345881,32.5100718164302,20.492362247681395,31.831318970047295/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -271,7 +271,7 @@ with my distant brethren by sincerely sympa­
 thising in their warmest expressions of grati­  
 tude and respect to this our country’s guest
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015143:1824110201:0382/pct:44.90459991125573,26.895551257253384,16.13666617364295,15.667311411992262/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015143:1824110201:0382/pct:44.90953014840014,26.895551257253384,16.141596410787358,15.673758865248226/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -290,7 +290,7 @@ Companies, I pray you to accept for them and
 yourself the assurance of my high respect and  
 consideration
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015143:1824110201:0382/pct:44.91939062268895,42.18568665377176,16.033131193610412,3.0560928433268857/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015143:1824110201:0382/pct:44.929251096977765,42.18891038039974,16.028200956466005,3.0593165699548677/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

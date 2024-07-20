@@ -61,7 +61,7 @@ tfttions and assurances of great respect
 and esteem.  
 TH : _EFFBR-o_s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806012901:0003/pct:22.620837808807735,14.958599158409122,18.603651987110634,17.84987104655898/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806012901:0003/pct:22.63515932688865,14.963123840550201,18.603651987110634,17.84987104655898/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -112,7 +112,7 @@ I pray you to&#x27;accept my friendly
 {peft and esteem... . . _ |  
 =5 PR IEFRFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1806021101:0234/pct:59.48369145153811,20.890615660490138,16.571340238058433,18.151026100816896/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1806021101:0234/pct:59.49399701138764,20.89725708972571,16.58164579790797,18.151026100816896/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -147,7 +147,7 @@ gation will permit my attention to them.
 assurance* of great respect and esteem.  
 p , . n _ Thomas Jefferson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kuvasz_ver02:data:sn83045462:00280654103:1857091901:0173/pct:0.6238003838771593,35.929312647693415,16.474728087012156,8.77427309154423/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kuvasz_ver02:data:sn83045462:00280654103:1857091901:0173/pct:0.6317978246960972,35.93701839104079,16.478726807421626,8.77427309154423/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -228,7 +228,7 @@ obligation will permit my attention to them.
 and assurances of great respect and esteem.  
 &quot;ThoMAS JEFFERSON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_klm_ver01:data:sn86053573:00237288944:1872120901:0560/pct:151.03383458646616,48.56025595449698,112.68796992481202,339.6373977959474/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_klm_ver01:data:sn86053573:00237288944:1872120901:0560/pct:37.767332549941244,12.140063988624245,28.1786133960047,84.90934944898684/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -257,7 +257,7 @@ my, just acknowledgments. Sincerely bellevingto assume position in any departmen
 that knowledge promotes the happiness of men, Ige. in a word, that the possessbr of suchd  
 Shall ever be disposed to contribate mvendeavorspoma shall be a natent of scholsrantn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_klm_ver01:data:sn86053573:00237288944:1872120901:0560/pct:194.83082706766916,62.566654816921435,90.31954887218045,226.09313899751155/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_klm_ver01:data:sn86053573:00237288944:1872120901:0560/pct:48.71915393654524,15.641663704230359,22.585193889541717,56.523284749377886/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -285,7 +285,7 @@ undertake the duties proposed to me so far as
 others of paramount obligation will permit my  
 attention to them.&quot; Subsequently, Rober
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_newfoundland_ver04:data:sn83045462:00280654632:1884110101:0133/pct:3.522184300341297,26.227556790000992,13.365187713310581,1.785537149092352/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_newfoundland_ver04:data:sn83045462:00280654632:1884110101:0133/pct:3.532423208191126,26.227556790000992,13.361774744027304,1.7880170617994247/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -321,7 +321,7 @@ my attention to them.
 and my assurance oi great respect and esteem.  
 &quot;1 BO*AS JXIFkKSO.*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_rottweiler_ver01:data:sn83045462:00280654681:1887111701:0218/pct:1.4193933960854623,21.7449501095157,12.132078290751531,7.933803845217814/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_rottweiler_ver01:data:sn83045462:00280654681:1887111701:0218/pct:1.4231286418646347,21.7449501095157,12.14701927386822,7.936845947919202/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -343,7 +343,7 @@ dertake the duties proposed to me. so far as
 others of paramount obligation will permit my  
 attention to them.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_otterhound_ver01:data:sn83045462:00280654760:1890062801:0677/pct:2.1304490331039005,31.81386514719848,13.372664700098328,3.3119658119658117/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_otterhound_ver01:data:sn83045462:00280654760:1890062801:0677/pct:2.1427400852179614,31.816832858499524,13.376761717469682,3.3119658119658117/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -392,7 +392,7 @@ tations and my assurance of great re­
 spect and esteem.  
 &quot;THOMAS JEFrKKSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dutch_ver02:data:sn87062244:211103127:1895061901:0680/pct:6.677671068427371,20.615692376083572,37.09483793517407,123.82751722605023/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dutch_ver02:data:sn87062244:211103127:1895061901:0680/pct:4.458789971475754,13.74749944432096,24.741029875394084,82.55167815070016/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -411,7 +411,7 @@ shall ever be disponed to contribute my
 endeavors to its extension.&quot;  
 In lo20 the schools were declared to li
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ike_ver01:data:sn84024441:00211102421:1897111301:0632/pct:84.43738656987296,117.61710794297352,17.891712038717483,3.054989816700611/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ike_ver01:data:sn84024441:00211102421:1897111301:0632/pct:56.317143289453774,78.41140529531569,11.938266000907852,2.0366598778004072/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

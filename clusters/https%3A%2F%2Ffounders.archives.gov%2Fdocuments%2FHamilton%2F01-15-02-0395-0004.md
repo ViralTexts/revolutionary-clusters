@@ -10491,7 +10491,7 @@ regulation of pilots, and the fuperintendance of
 the beacons, buoys, and public piers in the bay  
 and river of Delaware, and in the bay of Chesa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791111201:0002/pct:65.81818181818181,68.32781779248589,28.826446280991735,2.374927000194666/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791111201:0002/pct:65.82644628099173,68.33268444617481,28.859504132231404,2.3895269612614367/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10508,7 +10508,7 @@ of Oliver Pollock, late commeicial agent of the United States, at
 New-Orleans, for supplies of clothing, arms, and military (lores,  
 during the late war, one hundred and eight thousand fix hundre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791122801:0002/pct:35.928328699413036,64.95226962789792,26.691380908248377,1.9481784531463082/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791122801:0002/pct:35.94377510040161,64.95714007403078,26.70682730923695,1.953048899279174/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10527,7 +10527,7 @@ U. States, at Neworleans, for supplies
 of cloathing, arms, and military stores,  
 during the late war, one hundred an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1792012501:0948/pct:30.73699778161203,17.22972972972973,21.000739462657137,4.198841698841699/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1792012501:0948/pct:30.745214033357982,17.22972972972973,21.000739462657137,4.2042042042042045/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10546,7 +10546,7 @@ prupofed by the Senate, to the &quot; Bill for
 the relief of certain widows, orphans, inva­  
 lids,-and other persons;&quot; and after havin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792031201:0002/pct:27.903375658098483,6.163717674509042,21.121090120780426,3.4610149718063385/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792031201:0002/pct:27.911117993186746,6.178300602761034,21.136574790956953,3.4658759478903365/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10568,7 +10568,7 @@ AN ACT for the relief of certain widows, or-
   
 phans, invalids and other persons
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792040701:0001/pct:6.74827369742624,27.52075919335706,27.526679221594478,4.68564650059312/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792040701:0001/pct:6.74827369742624,27.530644523527087,27.54237288135593,4.695531830763147/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10601,7 +10601,7 @@ klirticd.
 orphans, invalids and other pet lons.  
 14. An Ast fuppUmental 10 the ast for ma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792051001:0003/pct:50.78517587939699,8.081202420456764,20.728643216080403,2.9474917040796407/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792051001:0003/pct:50.78517587939699,8.090962326761662,20.736494974874372,2.9523716572320904/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10619,7 +10619,7 @@ affairs in the southern department, it appears
 that the Chiefs of the Creek nation are not  
 unfriendly to any part of the United States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792112401:0003/pct:48.536895674300254,50.360413013832066,20.419847328244273,2.59107734268459/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792112401:0003/pct:48.536895674300254,50.3701539060978,20.435750636132315,2.6008182349503213/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13859,7 +13859,7 @@ cluding the salary of the Librarian four hundred
 and eighty seven dollars and fifty cents.  
 For compensation to the President of ih
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1829042801:0065/pct:6.2011871290221805,19.253795167842632,16.854108091221494,5.505666025229848/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1829042801:0065/pct:6.2011871290221805,19.26092224360345,16.869728209934397,5.505666025229848/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

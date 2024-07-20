@@ -2259,7 +2259,7 @@ arrests ordered by the Manchester magisj
 trates, that the procuriag of more than tw enty  
 signatures to petitions was illegal ; and w
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn83026170:00414216262:1819111701:0143/pct:61.337711717939854,40.41110404746768,18.510197027307292,12.884085611358339/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn83026170:00414216262:1819111701:0143/pct:61.327112493519955,40.40682275664795,18.512758481654284,12.88625207472543/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2512,7 +2512,7 @@ of the said premises, ought in any wise to he
 h an  
 s THE PROSPECTS OF COTTOW c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn85042796:00295863080:1849102401:0394/pct:17.471547216241156,28.874300473525615,17.70224546293448,3.519156263452432/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn85042796:00295863080:1849102401:0394/pct:17.476673843945452,28.874300473525615,17.697118835230185,3.5263308939589613/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2621,7 +2621,7 @@ ments of America.&quot; Only in the absence
   
 of the General and Brigadiers, the Civi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867060101:0509/pct:62.52252252252252,174.29972752043597,37.47747747747748,20.141689373297/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867060101:0509/pct:15.635325923700812,43.57493188010899,9.372183838990688,5.03542234332425/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2880,7 +2880,7 @@ British Tories, who brought on the Revolu­
 tionary War? Have they not brought back  
 the principles of the Br
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ike_ver01:data:sn85042682:00211103401:1880091901:0127/pct:119.32536893886156,18.626929217668973,87.28039353478566,362.00106439595527/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ike_ver01:data:sn85042682:00211103401:1880091901:0127/pct:29.84182776801406,4.656732304417243,21.827768014059753,90.50026609898882/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

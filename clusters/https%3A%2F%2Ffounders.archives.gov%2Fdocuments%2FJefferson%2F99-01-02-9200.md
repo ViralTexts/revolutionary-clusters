@@ -970,7 +970,7 @@ the earth. Corruption of morals 111 the mafcof cuU
 tion has furniftied an example. It is the mark set  
 on those who, not lookiirg up lo heaven, to thei
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796102801:0002/pct:72.50554323725055,51.16204519955121,23.651145602365116,6.779932681519474/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796102801:0002/pct:72.51170238975116,51.1700593043757,23.65730475486573,6.7759256291072285/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1099,7 +1099,7 @@ the earth, modest and virtaotts man !]—H­
 goes on, •« This is the focus, in which he  
 keeps alive that; ftcred fire whiih-otherwife&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800080101:0002/pct:24.993868040225657,72.55505181347151,17.36571008094187,5.812823834196891/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800080101:0002/pct:25.0,72.55505181347151,17.3841059602649,5.833063471502591/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1233,7 +1233,7 @@ and thefe into enemies, deftroys the mo­
 Trias ef the other. For if a flavt: can  
 have a country in this world, it muff b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800121901:0004/pct:28.45979329468112,65.53672316384181,22.082177968237964,6.5128688010043945/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800121901:0004/pct:28.45979329468112,65.54195438376229,22.115788589194185,6.523331240845365/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1254,7 +1254,7 @@ alio is deftroyed. For in a warm cli­
 mate, no man will labour for himfelf who  
 can make another labour for him. Thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800121901:0004/pct:28.485001260398285,76.14563716258631,22.309049659692462,5.618330194601381/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800121901:0004/pct:28.501806570876397,76.14563716258631,22.309049659692462,5.634023854362837/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1416,7 +1416,7 @@ Love fill our throats,
 Love fwell our notes.  
 Our fong is Love and I.&#x27;berty !
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1805012201:0324/pct:59.98902305159166,45.27524653601298,14.105378704720088,15.978030208463363/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1805012201:0324/pct:59.97805011889519,45.269595606590116,14.108895799036643,15.980196372108503/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1445,7 +1445,7 @@ the chosen people of God, if ever he
 Ihe has made his peculiar eleposit for  
 j substantial and genuine virtue.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805082301:0002/pct:60.67366579177603,33.42000821130423,18.700787401574804,3.284521691528671/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805082301:0002/pct:60.68824730242053,33.42913188266959,18.708078156897056,3.2936453628940288/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1468,7 +1468,7 @@ fire, which otberwife might efcape from
 the fare of the earth. Corruption of  
 morals in the mafs of cultivators is 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805082301:0002/pct:80.38057742782152,36.14342411386342,18.285214348206473,6.226905706856439/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805082301:0002/pct:80.39515893846603,36.14342411386342,18.292505103528725,6.231467542539118/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1492,7 +1492,7 @@ from the principles winch ensure happiness
 | which arc the fundamental principles of re  
 igion
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807010901:0016/pct:60.63169768753525,80.95541401273886,17.315284827975184,5.719745222929936/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807010901:0016/pct:60.6203007518797,80.94510253470895,17.318295739348372,5.723262429414512/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1518,7 +1518,7 @@ fare happincfs—which are the causes of
 prosperity—which are the fundamental  
 princigles of religion
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1807012001:0431/pct:77.00484602157262,31.601558597262464,17.164295763639206,8.212608652213008/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1807012001:0431/pct:77.00484602157262,31.608219269324273,17.185138867177322,8.215938988243915/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1535,7 +1535,7 @@ who do not profit by it. We are,
 thank providence, the only * nation  
 that has yet profited by our educatio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1807061601:0516/pct:24.661583942741558,27.644135188866798,16.32176754317722,2.0675944333996026/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1807061601:0516/pct:24.671956848711165,27.644135188866798,16.32176754317722,2.0675944333996026/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1696,7 +1696,7 @@ their only firm basis, a conviction in the
 minds of the people that these liberties  
 arc of the gift of God ? That they ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898000:1819061201:0014/pct:75.57781201848998,30.037960059415745,17.180277349768875,9.67156296418551/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898000:1819061201:0014/pct:75.5584082156611,30.033003300330034,17.182284980744544,9.674092409240924/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1745,7 +1745,7 @@ industry also is defiroyed. For in a warm
 climate, no man will labor for himfelf who&#x27;  
 can make another labor for him. Thisi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1820022901:0033/pct:77.60995113282985,40.99686583763017,16.733303716866576,5.813365685977151/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1820022901:0033/pct:77.60995113282985,40.99686583763017,16.74317587245175,5.826845954234489/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1883,7 +1883,7 @@ in a warm climate, no man will labor for
 himself who can make another labor tor  
 him. This is so true, that of the pro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1823031501:0032/pct:59.78378378378378,34.35833629576964,17.81081081081081,6.27444009953786/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1823031501:0032/pct:59.767630370170224,34.352230318109115,17.81275330991624,6.277767904744979/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1954,7 +1954,7 @@ has made his peculiar deposit for substantial
 he keeps alive that sacred fire which ofher­  
 * Corrim/’o T*P* i™!&quot; *?* face of the •■rlh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183980:1824121801:0259/pct:79.31818181818181,17.03553056585716,15.064935064935066,3.4932408182796983/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183980:1824121801:0259/pct:79.30530757993832,17.033492822966508,15.067900232646215,3.496810207336523/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2590,7 +2590,7 @@ furnished an example.” Itseems to have
 &#x27;the king and nobility were every thing,?  
 ;thut the people should be nothing. Bu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152743:1831122901:0375/pct:21.19490358126722,52.820053715308866,15.237603305785123,11.753421153600204/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152743:1831122901:0375/pct:21.200642791551882,52.828579954810934,15.243342516069788,11.761947393102272/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2814,7 +2814,7 @@ tivators, is a phenomenon of which no age nor na­
 tion has found an example. It is the murk set on  
 those, who not looking up to heaven, but their ow
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1835051301:0270/pct:39.487274068609366,68.53499800770355,18.941350055330137,6.800371895338026/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1835051301:0270/pct:39.49956965449404,68.54385265860894,18.935202262387804,6.800371895338026/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2867,7 +2867,7 @@ sacred fire, which otherwise might esgape
 from the face of the earth. Corruptiod of  
 morals in the mass of cultivators, is a phe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1835060901:0092/pct:22.030681638462756,21.485754650341416,14.37608730033212,5.20367318106899/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1835060901:0092/pct:22.041225156834837,21.48967898909034,14.37608730033212,5.20759751981791/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2985,7 +2985,7 @@ nomenon of which no age nor nation has fur­
 nished an example. [t is the mark set on  
 those, who, not Jooking up to heaven, to thei
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1835081101:0127/pct:22.67768079800499,12.665684830633284,14.011845386533667,5.638544077424784/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1835081101:0127/pct:22.67768079800499,12.672697945157445,14.017040731504572,5.6350375201627045/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3115,7 +3115,7 @@ is a pnenomenon in which no age nor na­
 tion has found an example. It is the  
 mark set on those, who not looking up t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn84026897:00237288336:1839021401:0008/pct:18.917937545388526,5.029400725634931,15.867828612926653,7.469035405980232/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn84026897:00237288336:1839021401:0008/pct:18.917937545388526,5.029400725634931,15.879932219801502,7.477376037366029/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3491,7 +3491,7 @@ tion of morals in the mass of the cultivators is a
 phenomenon of which no age nor nation has fur-  
 nisnea an example, it is the mark set on those
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197978:1843042601:0495/pct:45.87729039422543,26.86820652173913,20.474736257634646,8.423913043478262/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197978:1843042601:0495/pct:34.42099416828659,20.153985507246375,15.356845320744238,6.317934782608695/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3614,7 +3614,7 @@ a little of the coarsest of tho provision, which their own
 industry produces; looking quietly on, while they see  
 the fruits of all their labors spent or spoiled.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn84028793:00296026669:1844061201:0060/pct:7.159090909090909,97.98392781615678,19.450757575757574,2.9747638516847594/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn84028793:00296026669:1844061201:0060/pct:5.380826070481243,73.49499506555759,14.588859416445624,2.227548287043564/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3661,7 +3661,7 @@ alive that sacred fi
 escape the mass of the earth. Corruption of  
 morals m the mass of the cultivators, is 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_mustard_ver01:data:sn82015408:00212471367:1844081001:0375/pct:40.73190135242641,106.97736351531292,28.440731901352425,9.547270306258323/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_mustard_ver01:data:sn82015408:00212471367:1844081001:0375/pct:30.567164179104477,80.23968042609853,21.35323383084577,7.163781624500666/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3682,7 +3682,7 @@ also is destroyed. For in a warm climate
 no man will labor for himself who can  
 make another labor for him. This is s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_green_ver02:data:sn84022687:00202199240:1844082201:0427/pct:68.50941850941851,12.481709101551068,19.533169533169534,5.545800409716125/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_green_ver02:data:sn84022687:00202199240:1844082201:0427/pct:51.4238885474288,9.364940005853088,14.648637574267568,4.170324846356453/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3718,7 +3718,7 @@ cultivators, is a phenom miou of which no age
 nor nation has furnished tin example. It is  
 ihe mark set on those, who, not looking ti
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85038078:00269026803:1845090901:0107/pct:54.00485436893204,88.34046454767726,22.597087378640776,9.62713936430318/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85038078:00269026803:1845090901:0107/pct:40.53922759290746,66.25916870415648,16.95409278600923,7.22799511002445/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3760,7 +3760,7 @@ breasts he has made a deposit fir genuine
 and substantial virtue. , Depend-  
 ence (such as exists in large manufacturin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn87065704:00295877571:1846090901:0626/pct:63.634435962680236,52.211777716339505,22.455470737913487,6.400331766657451/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn87065704:00295877571:1846090901:0626/pct:47.74125132555673,39.16228918993641,16.861081654294804,4.796792922311307/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3886,7 +3886,7 @@ stroyed. For in a warm climate, no man
 will labor for himself who can make another  
 labor for him. This is so frue, that of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn84023649:0028077778A:1847041301:0281/pct:333.88305847076464,102.329619447258,50.97451274362819,11.228476342063377/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn84023649:0028077778A:1847041301:0281/pct:83.47076461769116,25.5824048618145,12.743628185907047,2.8071190855158443/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3916,7 +3916,7 @@ to labor. And can the liberties of a nation be
 thought secure when we have removed their  
 only firm basis, a conviction in the minds o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296199:1847041701:0909/pct:187.37541528239203,92.5473427000611,59.136212624584715,31.948686621869275/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296199:1847041701:0909/pct:46.87305215042593,23.136835675015273,14.793268231872013,7.987171655467319/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3945,7 +3945,7 @@ their own industry produces; looking quicily |
 on while they see fraits of their labor spent or  
 spoiled 3 and if one of the number tuke a parti
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153279:1847050101:0271/pct:31.327962577962577,27.538148524923702,12.474012474012474,7.365208545269583/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153279:1847050101:0271/pct:31.327962577962577,27.538148524923702,12.482674982674983,7.371990505256019/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4087,7 +4087,7 @@ no man will labor for himself who can make an-
 other labor for him. This is so true, that of  
 proprietors ot slaves, a small portion indeed ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn82015050:00280763366:1848102101:0287/pct:97.45400788436268,98.08420328094527,17.59198423127464,7.169897900653894/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn82015050:00280763366:1848102101:0287/pct:73.10662066699524,73.56888837902949,13.192048628224084,5.380291384650683/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4109,7 +4109,7 @@ rals of the poople, their industry also is destroyed.
 For in a warm climate, no man will labor for him­  
 self who can make another labor for him. This i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851111301:0293/pct:252.0044960659423,286.5967696231227,46.40314724615961,12.595636157551715/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851111301:0293/pct:62.98932384341637,71.6390423572744,11.598613972654055,3.148462955092789/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4201,7 +4201,7 @@ Love fill our throats,
 Love swell our notes,  
 Our song be love and liberty
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_diglett_ver01:data:sn82015378:00295872354:1851112701:1141/pct:9.514925373134329,49.45454545454545,41.48009950248756,39.86363636363637/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_diglett_ver01:data:sn82015378:00295872354:1851112701:1141/pct:3.171641791044776,16.484848484848484,13.82669983416252,13.287878787878787/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4244,7 +4244,7 @@ Love fill our throsts,
 Love swell our notes,  
 Our song be love and libert
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_arbok_ver04:data:sn82003383:00295874429:1851121301:0226/pct:17.270992366412212,132.88934426229508,33.06297709923664,32.20628415300546/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_arbok_ver04:data:sn82003383:00295874429:1851121301:0226/pct:5.756997455470738,44.29644808743169,11.020992366412214,10.735428051001822/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4281,7 +4281,7 @@ I)ve till our throats,
 Love swell our notes,  
 Our song be love and liberty
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_applejack_ver01:data:sn84020023:00295878460:1852010601:0324/pct:90.67906574394463,6.699129408292755,18.966262975778548,19.77276080861738/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_applejack_ver01:data:sn84020023:00295878460:1852010601:0324/pct:68.05886171824281,5.031724952043677,14.239342133737287,14.829570606463037/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4301,7 +4301,7 @@ morais of the people theirindustry also is destroved;
 for in a warm climate no man will labor for himself  
 Who can make another labor for him. This is s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530376:1852031901:0328/pct:101.63652024117141,22.71170426361167,47.47631352282515,8.527223337663871/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530376:1852031901:0328/pct:33.87884008039047,7.570568087870556,15.825437840941717,2.8424077792212903/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4322,7 +4322,7 @@ enemies, destroys the morals of the one part,
 and the amor patria of the other.&quot; * * *  
 &quot;Can the liberties of a nation he thought se
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1852072201:0580/pct:57.62638001162115,18.681640625,14.540964555490994,3.88671875/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1852072201:0580/pct:57.62638001162115,18.688151041666668,14.545806701530118,3.8899739583333335/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4374,7 +4374,7 @@ must be any other in preference to that in
 which ho is born to live and labor for another;  
 in which he must look up the faculties of hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1853072101:0799/pct:46.350671140939596,55.9511310489644,12.989373601789708,4.591008876586809/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1853072101:0799/pct:46.35999254287845,55.9511310489644,12.984712900820284,4.594190448919856/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4395,7 +4395,7 @@ industry also is dostroyed; for, in a warm climate,
 no man will labor for himself who can  
 make another labor for him. This is so true
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1853072101:0799/pct:46.378635346756155,60.78075785052973,14.723154362416107,3.2261143457096497/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1853072101:0799/pct:46.38329604772558,60.78712099519583,14.727815063385533,3.2261143457096497/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4482,7 +4482,7 @@ is so true, that of the proprietors of slaves
 a small proportion indeed are ever seen  
 to labor. And can the liberties of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn84028880:00296027558:1855022001:0401/pct:175.2688172043011,315.3777777777778,49.155145929339476,38.28148148148148/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn84028880:00296027558:1855022001:0401/pct:43.842459173871276,78.84444444444445,12.295869356388089,9.57037037037037/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4527,7 +4527,7 @@ ple, their industry also is destroyed. For in a
 warm elimate, no man will labor for himself  
 who can make another labor for him. An
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668144:1855081401:0796/pct:109.765625,194.53273998728545,40.97222222222222,12.809917355371901/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668144:1855081401:0796/pct:36.59913169319827,64.84424666242847,13.66136034732272,4.2699724517906334/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4562,7 +4562,7 @@ is destroyed. For in a warm climate, no
 man will labor for himself who can make  
 another labor for him. This is so true, tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83021380:00279523878:1855082401:0319/pct:215.81928709588283,102.71739130434783,33.172147001934235,28.37366694011485/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83021380:00279523878:1855082401:0319/pct:71.9298245614035,34.235619809289446,11.055854860247733,9.456919238524899/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4617,7 +4617,7 @@ in the mass of cultivators, is a phenomena of
 which no age nor nation has furnished an ex­  
 smple. It is the mark set on those, who, not
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn84028880:00296027558:1855121801:0563/pct:28.339483394833948,269.45004319032535,48.85608856088561,21.767923985027355/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn84028880:00296027558:1855121801:0563/pct:7.084870848708487,67.36251079758134,12.214022140221402,5.441980996256839/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4641,7 +4641,7 @@ so true, that of the proprietors of slaves, a
 very small proportion, indeed, are ever seen  
 to labor. And can the liberties of the na
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:0028077537A:1855122001:0637/pct:59.43636363636364,100.86455331412104,16.6,7.1037463976945245/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:0028077537A:1855122001:0637/pct:44.58992544098927,75.64841498559078,12.456810329150755,5.3314121037463975/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4698,7 +4698,7 @@ warm climate, no man will labor for
 himself who can make another labor for  
 him. This is so true, that of the pro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237283703:1856011601:0230/pct:8.160703075957313,40.69992734318237,14.344005021971123,6.623879874061516/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237283703:1856011601:0230/pct:6.123410268487989,30.527972874788084,10.770921651750667,4.964882538144829/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4722,7 +4722,7 @@ have a country in this world, it must be
 any other in preference to that in which he  
 is born to live and labor for another: i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn85055197:00280776361:1856062701:0663/pct:157.55860953920777,160.32931849367282,50.606305578011316,21.40570208873304/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn85055197:00280776361:1856062701:0663/pct:39.41354903943377,40.082329623418204,12.659251769464106,5.35142552218326/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4743,7 +4743,7 @@ destroyed. For in a warm climate, no
 man will labor for himself who can make  
 another labor for him. This is so true, tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn85055197:00280776361:1856062701:0663/pct:157.8011317704123,186.49184326879097,50.28294260307195,15.36819637139808/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn85055197:00280776361:1856062701:0663/pct:39.474216380182,46.62296081719774,12.578361981799798,3.84204909284952/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4784,7 +4784,7 @@ people their industry also is destroyed. For in a
 warm climate no man will labor for himself who  
 can make another labor for him. This is so true
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022755:1856100401:0319/pct:28.180619644034277,73.00687492461705,19.792353328938695,2.5449282354360148/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022755:1856100401:0319/pct:21.147189714850832,54.75817151127729,14.850832371847702,1.9056808587625136/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4802,7 +4802,7 @@ their industry also is destroyed. For in a warm climate
 no man will labor for himself who can make  
 another labor for him. This is so true that o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743245:1856101301:0870/pct:149.6330887258172,141.1313408908737,45.9472981987992,4.832245505553647/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743245:1856101301:0870/pct:49.87769624193907,47.0437802969579,15.3157660662664,1.6107485018512158/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4834,7 +4834,7 @@ labor for him. This is so true, that of
 the proprietors of slaves a very small proportion  
 indeed are ever seen to labor.&quot; What wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1856101601:0601/pct:12.269938650306749,13.118602685698187,13.160110670034886,3.67170626349892/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1856101601:0601/pct:12.273948434179397,13.124863054433906,13.172140021652833,3.67170626349892/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4854,7 +4854,7 @@ of the other.transforms those into despots, and
 these into enemies, destroy the moral of one  
 part and the amor patria of the other. Tho
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn83035366:00296029105:1856101601:0611/pct:88.54813664596273,82.57628054673478,19.351708074534162,5.356896313682176/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn83035366:00296029105:1856101601:0611/pct:66.44660194174757,61.93566201850062,14.524271844660195,4.017672235261632/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4889,7 +4889,7 @@ the proprietors of slaves a very small pro-­
 portion indeed are ever seen to labor.&quot;  
 What wss
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_kingler_ver01:data:sn87058152:00279529224:1856102101:1013/pct:50.27331189710611,159.75399471203588,66.2379421221865,16.978963099206805/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_kingler_ver01:data:sn87058152:00279529224:1856102101:1013/pct:16.757770632368704,53.25133157067862,22.079314040728832,5.659654366402268/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4912,7 +4912,7 @@ This is so true, that of the proprietors
 of slaves a very small proportion in­  
 deed are ever seen to labor.&quot; Wha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_gary_ver01:data:sn84023881:0020219137A:1856102401:0200/pct:179.8442064264849,295.9310959310959,38.80233690360273,17.82001782001782/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_gary_ver01:data:sn84023881:0020219137A:1856102401:0200/pct:44.961051606621226,73.98277398277398,9.700584225900682,4.455004455004455/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4953,7 +4953,7 @@ in a warm climate, no man will labor for him
 self who can make another labor for him.  
 This is so true, that of the proprietors of slave
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668156:1857022401:0006/pct:21.83323649041255,81.07596931806242,41.53108657757118,11.474204055899968/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668156:1857022401:0006/pct:7.279860505666957,27.025323106020807,13.847718686428363,3.8247346852999895/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4985,7 +4985,7 @@ For in a warm climate no man will labor
 for himself who can make another labor  
 for him. This, is so true that, of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn84022548:00202194928:1857060501:0293/pct:25.37174721189591,28.05466237942122,16.821561338289964,10.45016077170418/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn84022548:00202194928:1857060501:0293/pct:19.036995724112288,21.04769560557342,12.623164156906489,7.837620578778135/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5139,7 +5139,7 @@ face of the earth. Corruption of morals
 in the mass of cultivators, is a phenom­  
 enon of which no age nor nation ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn90052434:00296023103:1858071001:0323/pct:30.776014109347443,104.90971205466082,40.476190476190474,11.30307467057101/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn90052434:00296023103:1858071001:0323/pct:23.092753197118917,78.68228404099561,30.354255475525502,8.482186432406051/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5165,7 +5165,7 @@ if a slave can have it country in this world,
 it must be any other in preference to that  
 in which he is born to live and labor fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296027546:1858081001:0283/pct:92.03105196451205,49.093091491064285,16.6191381495564,8.762336623099493/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296027546:1858081001:0283/pct:69.04912836767036,36.82315284075754,12.472266244057053,6.575086689783943/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5197,7 +5197,7 @@ also is destroyed; for, in a warm climate,
 no man will labor for himself who can make  
 another labor for him. This is so true, that o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1858123001:0433/pct:39.861583292860615,81.06261859582543,12.603205439533754,4.278937381404175/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1858123001:0433/pct:39.861583292860615,81.06894370651486,12.61129998381091,4.275774826059456/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5219,7 +5219,7 @@ also is destroyed; for, in a warm climate,
 uu nun will labor tor himself who can make  
 another labor for him. This is so true, that o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1858123001:0434/pct:39.61188599151001,80.97990902198636,12.480291085506368,4.198256254738438/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1858123001:0434/pct:39.619971700020216,80.98622693960071,12.476248231251263,4.198256254738438/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5284,7 +5284,7 @@ warm climate, no man will labor for
 himself who can make another labor for  
 him. This is so true, that of the pro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040308:00514151374:1859010601:0118/pct:3.9362571506401527,38.26020851433536,10.991555434486516,7.428323197219809/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040308:00514151374:1859010601:0118/pct:3.945337328611641,38.26020851433536,10.987015345500772,7.435563278308717/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5324,7 +5324,7 @@ industry is also destroyed for in a warm
 climate, no man will labor for himself who  
 can make another labor for him. This i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_datsun_ver01:data:sn83016836:00212472517:1859090101:0213/pct:67.737636955878,30.075271197697585,13.81403612673971,3.9849457604604828/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_datsun_ver01:data:sn83016836:00212472517:1859090101:0213/pct:67.737636955878,30.078960962290605,13.818971473694601,3.9849457604604828/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5459,7 +5459,7 @@ the morals of the people their industry is also destroy­
 ed. For in a warm climate, no man will labor for him­  
 self who can ike another labor for hlin. This is s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027352:00279528578:1860030801:0463/pct:16.832953249714937,28.382702033233564,12.713797035347776,2.724739395190422/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027352:00279528578:1860030801:0463/pct:16.842455340174837,28.382702033233564,12.709045990117826,2.731620050228782/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5485,7 +5485,7 @@ have a country in this world, it must be any
 other in preference to that in which he is born  
 to live and labor for another; in which h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035045:00296027157:1860032101:0053/pct:68.28478964401295,17.750230779374917,14.88673139158576,6.527759461954371/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035045:00296027157:1860032101:0053/pct:51.23846527440505,13.319266780957404,11.170471102476931,4.89252274825267/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5508,7 +5508,7 @@ also is destroyed ; for. in a warm climate no
 man will labor for himself who can make an  
 other labor for him. &#x27; This is so true that o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035045:00296027157:1860032101:0053/pct:68.2200647249191,24.264802848476855,15.016181229773462,5.485955426612159/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035045:00296027157:1860032101:0053/pct:51.189898008742105,18.198602136357643,11.267605633802816,4.127653962811552/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5592,7 +5592,7 @@ also destroyed; for, in a warm climate, no man will ta-
 bor for himself who can make another labor for him.­  
 This is so true, that of the proprietors of slaves a ver
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:00279529406:1860062801:0200/pct:239.47410106130206,87.25896131550928,38.00095041976873,14.314444575890217/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:00279529406:1860062801:0200/pct:79.82470035376735,29.086320438503094,12.666983473256243,4.771481525296739/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5625,7 +5625,7 @@ morals of the people, their industry it
   
 Iso destroye
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn86058541:00202191472:1860062801:0535/pct:10.822701275846898,82.70270270270271,44.962604487461505,32.567567567567565/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn86058541:00202191472:1860062801:0535/pct:2.706270627062706,20.675675675675677,11.243124312431243,8.141891891891891/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5671,7 +5671,7 @@ morals of the one part, and the amtor patriad, of the
 other!  With the morals of the people,  
 their industry also is destroyed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775678:1860070201:0115/pct:150.8595988538682,152.88677500330294,44.84240687679083,13.264632051790198/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775678:1860070201:0115/pct:37.71489971346705,38.221693750825736,11.210601719197708,3.3161580129475494/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5728,7 +5728,7 @@ enemies, destroys the morals of the one part, and the
 anor pir of the other! $7  with the morals of  
 the people, their industry also is destroyed.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn83016318:00296024570:1860070401:0319/pct:95.75694855115316,29.50397251449431,38.675340035481966,8.696585784840027/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn83016318:00296024570:1860070401:0319/pct:31.928423543330375,9.834657504831437,12.895593019816623,2.8988619282800085/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5746,7 +5746,7 @@ try is also destroyed. For in a warm cli
 mate no man will labor tor himself who can  
 make another labor for him This is s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058250:00271744778:1860100401:0710/pct:38.387660069848664,52.51914052852556,15.963329452852154,2.5808841689306004/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058250:00271744778:1860100401:0710/pct:28.802212196186872,39.392442578414425,11.977878038131276,1.938750308718202/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5822,7 +5822,7 @@ country in this world, it must be any other in pref
 orence to that in which he is born to live and labor  
 for another; in which he must loek up the facul-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528293:1862040101:0347/pct:69.72098398547135,34.016786570743406,42.62836387650652,12.529976019184652/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528293:1862040101:0347/pct:23.24032799515712,11.33892885691447,14.209454625502174,4.176658673061551/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5903,7 +5903,7 @@ For in a warm climate no man will labor
 for himself, who can make another labor  
 for him. This is so true, that of the pr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775630:1862080501:0441/pct:158.75,122.25274725274726,43.541666666666664,36.53846153846154/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775630:1862080501:0441/pct:39.70128516846127,30.563186813186814,10.889197638068774,9.134615384615385/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5948,7 +5948,7 @@ peojde their industry is also destroyed. For In a
 warm climate, no man will labor for himself who  
 can make another labor for him. This is so true,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_edgewater_ver02:data:sn84031490:no_reel:1863012401:0002/pct:13.506541367237885,10.845249893812827,9.931822369633315,2.2794846382556986/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_edgewater_ver02:data:sn84031490:no_reel:1863012401:0002/pct:13.51575456053068,10.852329038652131,9.945642159572508,2.275945065836047/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5971,7 +5971,7 @@ one part, and the amor patria: of the other.
 destroyed ; for in a warm climate, no man will labor for  
 himself who can make another labor for him
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn84024558:00296028654:1863040901:0160/pct:47.67958339715117,41.119670174677225,14.902741614336039,3.5043940544645764/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn84024558:00296028654:1863040901:0160/pct:47.684688824220146,41.12690318614155,14.907847041405013,3.500777548732415/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5993,7 +5993,7 @@ warm climate, no man will labor for him­
 self who can make another labor for  
 him. This is so true, that of the pr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293769:1863111901:1078/pct:105.60875512995896,160.86729362591433,46.92202462380301,19.278996865203762/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293769:1863111901:1078/pct:26.41122134793021,40.21682340647858,11.734519329456038,4.8197492163009406/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6018,7 +6018,7 @@ ellmate, no man will labor for&#x27; himself
 who can make another labor for him.  
 This is so true, thai of the. proprietors of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn84022367:0041562833A:1863121001:0771/pct:94.31423611111111,93.58381502890174,19.249131944444443,8.265895953757225/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn84022367:0041562833A:1863121001:0771/pct:70.77724706904038,70.1878612716763,14.437689969604863,6.199421965317919/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6039,7 +6039,7 @@ also is destroyed. For in a warm climate, 110
 man will labor lor himself who can make another  
 labor for him. This is so true, that of tbe pro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn83032006:00296028563:1864061001:0315/pct:62.28291758762236,19.646388274979643,14.287969687401326,3.477957427009422/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn83032006:00296028563:1864061001:0315/pct:62.28291758762236,19.654142918072196,14.293232291337754,3.4818347485556975/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6062,7 +6062,7 @@ dustrv also is destroyed. For in a warm
 ..climate no man will labor for himself who !  
 can make another labor for him. This i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026050:00280775836:1864061701:0315/pct:5.453216374269005,53.042328042328045,15.511695906432749,5.753968253968254/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026050:00280775836:1864061701:0315/pct:4.095363463507386,39.78174603174603,11.642533274828141,4.320987654320987/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6092,7 +6092,7 @@ proportion indeed ara ever seen to labor.&quot;
 thought secure when we have removed their  
 only firm basis, a conviction in the minds o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_national_ver01:data:sn84022046:0027955419A:1864062801:0667/pct:173.15852682145717,289.1006711409396,51.54123298638911,27.63758389261745/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_national_ver01:data:sn84022046:0027955419A:1864062801:0667/pct:43.28963170536429,72.2751677852349,12.885308246597278,6.909395973154362/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6112,7 +6112,7 @@ Mr. Jefferson, in his Notes on Virginia, said
 destroyed; for, in a warm climate, no man will labor for  
 himself who can make another labor for him. This is s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024669:00414184765:1865041201:0173/pct:146.91011235955057,65.06130890825824,62.66385767790262,10.252622248485745/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024669:00414184765:1865041201:0173/pct:48.95857711209923,21.68389955686854,20.883064201575785,3.417035942885278/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6185,7 +6185,7 @@ that to secure these rights, governments ore
 instituted among men, deriving their just  
 powers from the consent of the governed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:00237283612:1876070601:0332/pct:46.838189708617485,84.3469591226321,13.00371977681339,5.0348953140578265/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:00237283612:1876070601:0332/pct:35.152736858427666,63.26021934197408,9.75345014730966,3.7886340977068795/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6242,7 +6242,7 @@ the earth. Corruption of morals in the
 mass of cultivators is a phenomenon of  
 which no age or Nation has furnishe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_allemande_ver01:data:sn85025570:00199919933:1878010301:0209/pct:55.92114799246268,82.98922800718132,12.291636469053486,5.150359066427289/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_allemande_ver01:data:sn85025570:00199919933:1878010301:0209/pct:48.9346410755052,72.61659302896416,10.759279614441532,4.516445753559156/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6267,7 +6267,7 @@ escape from the earth. Corruption
 of morals in the mass of cultivators  
 is a phenomenon of which no age no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eeyore_ver01:data:sn87052143:00294556576:1878051801:0074/pct:32.47563946406821,48.470873786407765,13.124238733252131,6.043689320388349/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eeyore_ver01:data:sn87052143:00294556576:1878051801:0074/pct:24.371667936024373,36.359223300970875,9.855293221629855,4.538834951456311/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6301,7 +6301,7 @@ organs, have you not all received the
 same right to enjoy its benefits?  
 The time is dawning when there wil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn90053038:00332897974:1881030401:1115/pct:23.46874342243738,77.35113244337784,16.10187328983372,6.1946902654867255/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn90053038:00332897974:1881030401:1115/pct:23.463804713804713,77.33953209358128,16.105499438832773,6.19876024795041/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6324,7 +6324,7 @@ The writer explains the historical causes
 which have developed the character and  
 the habits of life of the Israelites of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn90053038:00332897974:1881030401:1115/pct:23.38455062092191,83.56082195890205,16.207114291728058,6.344682765861707/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn90053038:00332897974:1881030401:1115/pct:23.37962962962963,83.54829034193162,16.210718294051627,6.34873025394921/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6346,7 +6346,7 @@ all received the same life, the same or­
 gans, have you not all received the same  
 right to enjoy its benefits? 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn90053038:00332897974:1881031101:1123/pct:40.8285287209054,32.936219671654804,16.46380525304292,4.838006683132355/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn90053038:00332897974:1881031101:1123/pct:40.8198121263877,32.931435212085994,16.467406774836324,4.84214603912454/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6364,7 +6364,7 @@ there exist in future but one law—that
 of nature: but one throne, that of jus­  
 tice; but one altar, that of man.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn90053038:00332897974:1881031101:1123/pct:40.8285287209054,37.77422635478716,16.506512919068975,2.3972105186691848/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn90053038:00332897974:1881031101:1123/pct:40.8198121263877,37.76873910517141,16.510105323085682,2.401704435405772/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6390,7 +6390,7 @@ non of which no age nor nation has fur­
 nished an example &quot; Then he nerved  
 his spirit with tho strength of the pas
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_inskip_ver01:data:sn85042459:0028076906A:1883101901:0557/pct:35.78808942325756,49.32975871313673,9.411985722337027,5.686468181176803/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_inskip_ver01:data:sn85042459:0028076906A:1883101901:0557/pct:35.800613689022484,49.32975871313673,9.405723589454569,5.691171628803914/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6520,7 +6520,7 @@ ment, that of justice; but one altar,
 that of union.—Labor Advocate, Bir­  
 mingham, Ala.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059299:00383346848:1890060601:0280/pct:80.82957619477007,14.148029161003336,14.697926059513074,13.913258371432102/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059299:00383346848:1890060601:0280/pct:80.82957619477007,14.148029161003336,14.70994890291554,13.929733514559908/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6556,7 +6556,7 @@ morals in the mass of cultivators is a phe­
 nomenon of which no age or nation has fur­  
 nished an example. It is the mark set o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_hotel_ver02:data:sn86071158:00206536482:1892032101:0589/pct:206.88073394495413,263.43882164211755,59.44954128440367,18.82747557240776/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_hotel_ver02:data:sn86071158:00206536482:1892032101:0589/pct:51.72018348623853,65.85970541052939,14.862385321100918,4.70686889310194/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6582,7 +6582,7 @@ morals in the mass of cultivators is a phe
 nomenon of which no age or nation has fur­  
 nished an example. It is the mark set o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_hotel_ver02:data:sn86071158:00206536482:1892032401:0621/pct:271.23655913978496,170.66666666666666,58.064516129032256,18.71014492753623/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_hotel_ver02:data:sn86071158:00206536482:1892032401:0621/pct:67.82433340802152,42.666666666666664,14.519381581895585,4.677536231884058/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6656,7 +6656,7 @@ put a little of the coarsest of the pro­
 vision which their own industry pro­  
 luces; looking quietly on while the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059533:00393349116:1895051801:0489/pct:35.74123989218329,23.060913001248785,9.865229110512129,4.2736228666574165/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059533:00393349116:1895051801:0489/pct:35.73481854114265,23.057713651498336,9.867948257276321,4.27649833518313/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6726,7 +6726,7 @@ ample. * * * Corruption is the
 mark set on those who, not lookiue up  
 to Heaven, to their own soil and in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_red_ver01:data:sn85025007:00175033737:1896090401:0142/pct:1.4326647564469914,19.355575868372945,14.107534131130963,6.3528336380255945/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_red_ver01:data:sn85025007:00175033737:1896090401:0142/pct:1.4382830496095287,19.363193174893357,14.107534131130963,6.3528336380255945/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6773,7 +6773,7 @@ the face of the earth. Corruption of mor­
 als in the mass of cultivators Is a phe­  
 nomenon of which no age nor nation ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn85044812:00340583243:1896101801:0355/pct:21.238748392627517,53.724672228843865,14.3591941705958,4.380214541120381/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn85044812:00340583243:1896101801:0355/pct:21.234197557317334,53.71666914941159,14.361474180415685,4.3832861611798/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6850,7 +6850,7 @@ ments of Senator Cannon, of Utah, in
 favor of a bouuty on the exports pro­  
 ducts of the farmers the price of whic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_irene_ver02:data:sn85035524:00332896817:1897061801:0871/pct:3.516581348764745,10.63573883161512,10.794569330068997,4.398625429553265/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_irene_ver02:data:sn85035524:00332896817:1897061801:0871/pct:3.5157988429016465,10.633911699020787,10.797730307076101,4.402164576533242/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6874,7 +6874,7 @@ senuine and substantial virtue. It is the close the fact that in no State can no
 focus in which he has kept alive that found a majority of white men of Anglo  
 facred fire which otherwise might escape American lineage, except in the Souther
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_charlie_ver01:data:sn86071197:00175034948:1898061801:0638/pct:5.980861244019139,236.98714023270054,101.8341307814992,12.369871402327005/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_charlie_ver01:data:sn86071197:00175034948:1898061801:0638/pct:1.4955134596211366,59.246785058175135,25.463609172482553,3.0924678505817513/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

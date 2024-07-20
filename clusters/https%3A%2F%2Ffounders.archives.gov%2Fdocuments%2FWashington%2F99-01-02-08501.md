@@ -121,7 +121,7 @@ from your mind, and never communicate, as from
 yourself, or any one else, a sentiment of the like  
 nature
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197966:1838101701:0165/pct:45.6064008983717,66.40537513997761,20.94329028635598,24.244120940649495/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197966:1838101701:0165/pct:34.213112452618276,49.80963045912654,15.709672890635968,18.18589025755879/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -334,7 +334,7 @@ thuug it from your min Land never communi­
 cate as from yourself, or any o:s • *•! c,  
 ment n! the like nature f : m, .kc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215683:1841022601:0642/pct:68.69504858861639,83.38499690018598,15.62933826931976,12.72473651580905/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215683:1841022601:0642/pct:68.6871023713129,83.37853545137544,15.631386157701947,12.726333462482241/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -435,7 +435,7 @@ hanish these thoughts from your mind, and
 never communicate as from yourself, or any  
 one else, a sentiment of the like nature. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn85025180:00237287939:1841030601:0053/pct:167.51269035532994,72.95807583096709,73.09644670050761,72.62401870719893/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn85025180:00237287939:1841030601:0053/pct:41.899441340782126,18.239518957741772,18.28339258506856,18.156004676799732/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -485,7 +485,7 @@ from your mind, and never communicate as from
 yourself, or any one else, a sentiment of the like na­  
 ture. I am, &amp;c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn85054702:00280776002:1841030601:0122/pct:13.72549019607843,196.92307692307693,60.633484162895925,63.41880341880342/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn85054702:00280776002:1841030601:0122/pct:3.4313725490196076,49.23076923076923,15.158371040723981,15.854700854700855/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -557,7 +557,7 @@ I from your mind, and never communicate, a* from
 youtself, or any one else, u sentiment of the like  
 nature. I urn, &amp;&lt;*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348975:1841031101:0043/pct:30.357142857142858,48.576145274453154,14.631336405529954,11.04691154216536/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348975:1841031101:0043/pct:30.351315031675945,48.56946354883081,14.633326934152429,11.048830811554334/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -601,7 +601,7 @@ end never con«tndftfi as Irom yourself]
 or any one else, a sentiment of tbe like  
 ■•«wre. | am, be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186944:1841031101:0667/pct:2.860061287027579,51.79505054025793,12.899460090471326,16.39363308934588/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186944:1841031101:0667/pct:2.859644003501605,51.78903345724907,12.90244139675129,16.3956009913259/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -701,7 +701,7 @@ thoughts Iroin your mind, and never conimn­
 : mcate as from yourself, or any one else, a  
 sentiment of the like nature. I ain, &amp;c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183694:1841031801:0039/pct:77.30650154798762,15.521780756342748,14.78328173374613,14.779798946864528/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183694:1841031801:0039/pct:77.29453644946602,15.519923417494317,14.786152814321829,14.782019065852978/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -789,7 +789,7 @@ minds, and never cornmuicate from
 yourself or any one else, a sentiment of  
 &quot;the like nature. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kershawhogjam_ver03:data:sn85042795:0029586185A:1841032401:0342/pct:18.04332634521314,78.19154107924162,19.20335429769392,18.38599902771026/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kershawhogjam_ver03:data:sn85042795:0029586185A:1841032401:0342/pct:18.05264383880736,78.19802301085724,19.198695550896808,18.38599902771026/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -839,7 +839,7 @@ from your mind, and never communicate as from
 yourself, or any one else, a sentiment of the like  
 nature. I am, &amp;c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667693:1841032501:1139/pct:294.8306595365419,88.00238166120869,71.4795008912656,50.967549866031554/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667693:1841032501:1139/pct:73.72409182081569,22.000595415302172,17.873857811455316,12.741887466507889/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -964,7 +964,7 @@ thoughts from your mind, and never cottimnairt.,
 cate as from yourself, or any one else, a scat**  
 ment of the like nature. I ain, &amp;&lt;*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn85050801:00279528499:1841040201:0027/pct:80.80072793448589,77.70949720670392,15.4079466181377,14.379888268156424/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn85050801:00279528499:1841040201:0027/pct:80.8057830350824,77.71694599627561,15.4028915175412,14.379888268156424/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -997,7 +997,7 @@ Terson to whom your schemes are more disagree.
 Let me conjure you, then, if you have any regard  
 your country, concern for yourself of posterity, o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186427:1841040601:0672/pct:211.1452215696743,214.26702997275206,39.415376401494925,28.065395095367847/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186427:1841040601:0672/pct:70.37234752435606,71.41455972101133,13.136705369455937,9.354112176692821/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1041,7 +1041,7 @@ to banish these thoughts from your mind, and never commul­
 aicate as from yourselt, or any onc clse, a seatiment of a like  
 nature. I am, &amp;e. GeoRge wasliNoron.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030212:00206530157:1841041501:0017/pct:238.63301400147384,258.50091407678246,58.60353721444363,34.99608252807521/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030212:00206530157:1841041501:0017/pct:79.54433800049128,86.16697135892748,19.534512404814542,11.665360842691738/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1078,7 +1078,7 @@ or respect for me, to banish these thoughts from
 your mind, and never communicate as from your­  
 self or any one else, a sentiment of the like nature
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023294:00200296096:1841042301:0206/pct:326.17283950617286,169.05702992659513,58.02469135802469,45.059288537549406/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023294:00200296096:1841042301:0206/pct:81.54320987654322,42.264257481648784,14.506172839506172,11.264822134387352/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1239,7 +1239,7 @@ sumption of responsibility for the artack upon the
 Caroline had been officially made known to the  
 Government of the United States, through Mr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1841050301:0312/pct:316.74074074074076,60.569715142428784,57.77777777777778,64.11339784653129/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1841050301:0312/pct:79.21452389773991,15.142428785607196,14.449796220822527,16.02834946163282/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1362,7 +1362,7 @@ for me, to banish these thoughts from your mind,
 and nev?r communicate, as from yourself or any one  
 else, a sentiment of the like nature
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82014039:00415660972:1841120401:0154/pct:20.96170457817449,61.524692008002525,16.613878491217967,13.604296093503212/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82014039:00415660972:1841120401:0154/pct:20.97130242825607,61.524692008002525,16.62347634129955,13.607805973816292/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1381,7 +1381,7 @@ of the writer of it.
 &quot; D. Humphreys, A. D. C.  
 &quot;Jonathan Trumbull, Jr., Secretary.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82014039:00415660972:1841120401:0154/pct:21.292830405989058,78.05622828261556,16.613878491217967,2.516584184479309/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82014039:00415660972:1841120401:0154/pct:21.30242825607064,78.05973816292864,16.613878491217967,2.5236039451054717/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1427,7 +1427,7 @@ else, a sentiment of the like nature. ^
 &#x27; I am sir your most ob&#x27;l werv t,  
 &#x27; ,y GEORGE WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1841120401:1035/pct:18.05008944543828,61.86939820742638,15.652951699463328,14.7247119078105/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1841120401:1035/pct:18.05008944543828,61.87793427230047,15.6768038163387,14.728979940247546/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1475,7 +1475,7 @@ these thoughts Irom your mind, and never
 communicate, as from yourself or any one  
 else, a sentiment of the like nature
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215701:1841120701:0031/pct:65.7783042147863,36.76271645021645,14.806040864672786,16.81547619047619/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215701:1841120701:0031/pct:65.77181208053692,36.76022996280013,14.807869456507435,16.81659339420584/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1675,7 +1675,7 @@ i extend, they shall be employed to the utmost of mv
 &#x27; mind, and never communicate, as trom yourself or  
 &lt; any one else, a sentiment of the like nature
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1841121401:0543/pct:34.77529807398349,74.37190999899101,16.0959951085295,13.086469579255374/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1841121401:0543/pct:34.77529807398349,74.37527326539535,16.111280953836747,13.089832845659705/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1694,7 +1694,7 @@ of the writer of it.
 &quot;D. HUMPHREYS, A. D. C.  
 &quot;JONATHAN TRUMBULL, Jr.,Secretary.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1841121401:0543/pct:35.004585753592174,90.35415195237614,15.866707428920819,2.320653818989002/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1841121401:0543/pct:35.004585753592174,90.36087848518481,15.8718027106899,2.3172905525846703/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1839,7 +1839,7 @@ spect for me, to banish these thoughts from your
 mind, and never communicate as for yourself or  
 any one else, a sentiment of the like nature
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn84023647:00280777778:1841122101:0175/pct:196.0515713134569,54.140127388535035,122.6430298146656,332.5998841922409/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn84023647:00280777778:1841122101:0175/pct:49.04253174763153,13.535031847133759,30.679298528522477,83.14997104806022/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1859,7 +1859,7 @@ at the request of the writer of it.
   
 &quot;JONATHAN TRUMBULL, Jr. SeC.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn84023647:00280777778:1841122101:0175/pct:258.42062852538277,99.4209612044007,59.951651893634164,10.19108280254777/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn84023647:00280777778:1841122101:0175/pct:64.64422495464625,24.855240301100174,14.996976416045152,2.5477707006369426/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1923,7 +1923,7 @@ minteer shall make a disclosure necessary.
   
 to conceive what part o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1841122701:0450/pct:132.42846661775496,295.87585628407663,56.05282465150403,25.89123444708514/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1841122701:0450/pct:33.125344099834834,73.96896407101916,14.02092126995779,6.472808611771285/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1958,7 +1958,7 @@ ish these thoughts from your mind, and never
 communicate, as from yourself or any one else, a  
 sentiment of the like nature
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1841122701:0450/pct:132.79530447542186,321.04012302530407,112.69258987527513,35.285894030476726/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1841122701:0450/pct:33.21710405579005,80.26003075632602,28.188658469443936,8.821473507619181/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1977,7 +1977,7 @@ request of the writer of it.
 &quot;D. HuMPHrErS, A. D. C.  
 &quot;JonaTHAN TRUMRULL, dr. Secretary.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1841122701:0450/pct:133.08877476155538,372.9903536977492,55.97945707997065,10.065706696490983/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1841122701:0450/pct:33.29051202055423,93.2475884244373,14.002569278766746,2.5164266741227457/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2109,7 +2109,7 @@ tbe like nature. n
 NOTICE.  
 THE Creditors of James H. Co&#x27;e, whos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kershawhogjam_ver03:data:sn85042795:00295861824:1842011202:0148/pct:3.7156027378125436,2.991944764096663,46.64059226148903,95.83812811660913/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kershawhogjam_ver03:data:sn85042795:00295861824:1842011202:0148/pct:3.7156027378125436,2.991944764096663,46.654560692834195,95.84452116097685/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2129,7 +2129,7 @@ of it.
 &quot; D. HUMPHREYS. A. D. C.  
 4&#x27;J&lt;?NA. TRUMBULL, Jr..Secretary
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kershawhogjam_ver03:data:sn85042795:00295861824:1842011202:0148/pct:19.513898589188432,8.601841196777906,16.63640173208549,4.16187188339087/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kershawhogjam_ver03:data:sn85042795:00295861824:1842011202:0148/pct:19.513898589188432,8.601841196777906,16.641057875867208,4.1650684055747345/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2185,7 +2185,7 @@ the like nature. i
 &quot;I am, sir, vonr most obedient servant,  
 11 GEORGE WASHINGTON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kershawhogjam_ver03:data:sn85042795:0029586185A:1842011201:0512/pct:3.3698279539314657,3.6197791646663466,30.61282525238163,94.67114738358137/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kershawhogjam_ver03:data:sn85042795:0029586185A:1842011201:0512/pct:3.3698279539314657,3.6197791646663466,30.62230437461491,94.6743478956633/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2258,7 +2258,7 @@ nd never communicate, as from your­
 self or any one else, a sentiment of the  
 like nature
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035312:00296026864:1842012501:0349/pct:8.602378929481734,77.92606227949072,19.05267629566695,31.308482896149716/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035312:00296026864:1842012501:0349/pct:6.461211477151966,58.44454670961804,14.303931987247609,23.485197116122105/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2278,7 +2278,7 @@ terofit,
 ,4D. Humphreys, A. D. C.  
 . &quot;Jobnathao Trumbull, jr., Sec&#x27;y.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035312:00296026864:1842012501:0349/pct:8.942225998300765,115.98404663291916,18.26677994902294,4.770670348212916/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035312:00296026864:1842012501:0349/pct:6.716259298618491,86.99186991869918,13.708820403825717,3.5741678171498696/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2414,7 +2414,7 @@ I ; s and influence in a constitutional way extends they shall be
 employed to the utmost of my ability to effect it should there  
 JJe any occasion.&quot;?8 Sparks, p. 300
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661083:1857010901:0055/pct:5.55112458127293,35.11807046344235,17.403094592438986,4.74807425179947/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661083:1857010901:0055/pct:5.55644175041208,35.11807046344235,17.403094592438986,4.752283537483689/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2696,7 +2696,7 @@ those thoughts from your mind, and never communi­
 sate, as from yourself or any one else, a sentiment  
 of the like nature.&quot; How pure and lofty wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743373:1861030901:0597/pct:21.351568785197102,107.08024275118004,46.38777152051488,12.002697235333782/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743373:1861030901:0597/pct:7.117189595065701,35.693414250393346,15.462590506838295,4.000899078444594/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2724,7 +2724,7 @@ mind, and neter communicate, as
 from yourself ir any one else, a  
 sentiment of the like nature.&quot; Ho
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gorn_ver01:data:sn85059652:00415664953:1861032301:0007/pct:149.04963614641034,112.87285386502097,34.7887476919735,24.47978479310072/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gorn_ver01:data:sn85059652:00415664953:1861032301:0007/pct:49.68321204880345,37.62428462167365,11.596249230657833,8.159928264366906/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2771,7 +2771,7 @@ This retter of Washington should be kept before the
 eyes of all men at this time. Throughout the world  
 Washington was honored and ravered in his life time
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743439:1863022301:0437/pct:142.08695652173913,161.64596273291926,46.208695652173915,9.806497849976111/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743439:1863022301:0437/pct:47.36231884057971,53.88198757763975,15.402898550724638,3.2688326166587034/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2874,7 +2874,7 @@ thess thoughts froa, your mind and nev-
 er communicate, as for yourself or any  
 one else, a sentiment of the like nature.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dorothea_ver01:data:sn90061771:00200292790:1868012301:0441/pct:17.831541218637994,280.88833281201124,59.587813620071685,31.654676258992804/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dorothea_ver01:data:sn90061771:00200292790:1868012301:0441/pct:4.457885304659499,70.22208320300281,14.896953405017921,7.913669064748201/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2979,7 +2979,7 @@ from your mind, and never communicate,
 as from yourself or anyone else, a senti­  
 ment of like nature-&quot; What a strikin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016739:00295877509:1872033001:0028/pct:51.43472022955524,85.56561085972851,14.687948350071736,4.057315233785822/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016739:00295877509:1872033001:0028/pct:38.59680602906872,64.17797888386124,11.035349004127042,3.046757164404223/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3040,7 +3040,7 @@ of Indian Affairs in this Territory has
 been abolished, and Gen Milroy has  
 been directed by the Department t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291062:1874070401:1100/pct:35.905329998075814,37.335183900069396,14.277467769867231,31.894517696044414/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291062:1874070401:1100/pct:35.910140465653264,37.34212352532963,14.272657302289783,31.90145732130465/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3104,7 +3104,7 @@ tet.
 I am, etc., eo WanlingcoNs  
 That the sentiment of the army wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn85034039:00294559929:1875070201:0110/pct:148.1283422459893,201.21243389655618,45.52139037433155,73.57152070166387/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn85034039:00294559929:1875070201:0110/pct:37.04446673353394,50.303108474139044,11.384152457372116,18.392880175415968/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3127,7 +3127,7 @@ could not have found a person to whom
 your schemes are more disagreeable.&quot;  
 These were his words. With them h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_juliet_ver01:data:sn85033413:00211101179:1875070701:0222/pct:217.98010711553175,222.20307338790752,49.655700076511096,20.221169036334913/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_juliet_ver01:data:sn85033413:00211101179:1875070701:0222/pct:54.49502677888294,55.55076834697688,12.413925019127774,5.055292259083728/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3196,7 +3196,7 @@ and never communicate, as from your
 self or any one else, a sentiment of tbe  
 like nature.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033673:00280779441:1876052201:0482/pct:111.17455138662316,71.3446296802405,16.333605220228385,7.8300081989614645/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033673:00280779441:1876052201:0482/pct:83.41493268053856,53.51188849412408,12.260301917584659,5.8759223831647995/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3253,7 +3253,7 @@ communicate as from yourself or any
   
 one else a sentiment of the like nature.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eadweard_ver01:data:sn85034076:0020029239A:1876062901:0141/pct:10.938712179984485,18.905034492881256,87.04422032583398,363.36415675913696/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eadweard_ver01:data:sn85034076:0020029239A:1876062901:0141/pct:2.735208535402522,4.726258623220314,21.765276430649855,90.84103918978424/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3291,7 +3291,7 @@ thoughts from your mind, and never
 communicate as from yourself or any  
 one else a sentiment of the like nature.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_gordon_ver01:data:sn87052181:00200292510:1876062901:0108/pct:119.50248756218906,75.8971101937123,65.4726368159204,64.40139726897428/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_gordon_ver01:data:sn87052181:00200292510:1876062901:0108/pct:29.89793378142893,18.974277548428073,16.380383370674632,16.10034931724357/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3419,7 +3419,7 @@ your mind, and never communicate, as from
 yourself or any one else, a sentiment of the  
 like nature.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_asburypark_ver01:data:sn84026089:00514155860:1876071201:0788/pct:32.074829931972786,53.01940561813,12.210884353741497,19.622743927262857/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_asburypark_ver01:data:sn84026089:00514155860:1876071201:0788/pct:32.06937595646999,53.01221166892809,12.213059003570821,19.62347354138399/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3480,7 +3480,7 @@ these thoughts from your mind, and never
 communicate, as from vourself or any  
 one else, a sentiment of the like nature. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_antares_ver02:data:sn84026824:0027176781A:1880031301:0253/pct:23.810860109442963,25.750823483820966,18.619334923530236,16.673125363301686/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_antares_ver02:data:sn84026824:0027176781A:1880031301:0253/pct:23.810860109442963,25.757282180455984,18.624011973247274,16.673125363301686/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3536,7 +3536,7 @@ mind, and never communicate, as
 from yourself or any one else, a  
 sentiment of the like nature
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291086:1880070201:0505/pct:51.15838247683235,43.28014948972258,14.532434709351305,29.294236021273537/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291086:1880070201:0505/pct:51.16891322662173,43.290929998562596,14.527169334456614,29.28704901538019/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3563,7 +3563,7 @@ country. If I am not deceived in the knowledge of my
  selt, you could not have tound a person to whom your  
  sohemes are mote diragreeable, Let me confure you
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_kobayashi_ver01:data:sn83030272:00175044784:1882031201:0063/pct:0.0,305.65006075334145,76.51458489154824,23.086269744835967/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_kobayashi_ver01:data:sn83030272:00175044784:1882031201:0063/pct:0.0,76.41251518833536,19.139382600561273,5.771567436208992/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3649,7 +3649,7 @@ then, as you have regard for your country,
 for yourself, or posterity, or respect for me,  
 to banish these thoughts from your .mind.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_elm_ver01:data:sn82015483:00271764200:1883101001:0343/pct:87.93785310734464,102.03794799718904,13.036723163841808,9.053642539236355/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_elm_ver01:data:sn82015483:00271764200:1883101001:0343/pct:65.96976974148892,76.52846099789178,9.775392004520413,6.793159990630124/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3682,7 +3682,7 @@ are more disagreeable.&quot; He expressed, what
 all his acts had shown, a sincere wish to see  
 ample justice done to the army, pledged th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn86071719:00280777687:1883101001:0468/pct:198.3221476510067,145.6617751816498,55.95637583892618,31.400484399487105/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn86071719:00280777687:1883101001:0468/pct:49.59093769666457,36.41544379541245,13.992028529473464,7.850121099871776/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3708,7 +3708,7 @@ of myself, you could not have found a person to whom
 your schemes are more disagreeable  
 In no part of his career, not even in hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044826:1883101501:0371/pct:128.72887582659808,20.241553279315088,48.34680382072006,21.342302400244613/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044826:1883101501:0371/pct:32.19996324205109,5.060388319828772,12.093365190222386,5.335575600061153/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3748,7 +3748,7 @@ know ledge of myself, you could not have
 found a person to whom your schemes are  
 more disagreeable.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00383342107:1883101801:0382/pct:15.782458011197015,41.40973736115436,9.89069581444948,6.8306861829129035/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00383342107:1883101801:0382/pct:15.786901270772239,41.40973736115436,9.886252554874256,6.83414651025987/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3787,7 +3787,7 @@ posterity, or respect for me, to banish these thoughts
 from your mind, and never communieate as from yourself  
 or any one else, a sentiment of the like nature.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chrysler_ver01:data:sn83030214:00175039983:1883101901:0161/pct:103.63607744372737,19.345470791913325,46.403274043758856,16.73182173573104/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chrysler_ver01:data:sn83030214:00175039983:1883101901:0161/pct:34.545359147909124,6.448490263971109,15.467758014586284,5.577273911910346/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3823,7 +3823,7 @@ yourself, or posterity, or respect for me,
 to banish these thoughts from your  
 mind
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280774856:1883102401:0910/pct:28.252923976608187,43.10970081595648,15.734649122807017,13.372620126926565/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280774856:1883102401:0910/pct:21.202705172728933,32.336053188274406,11.807713397916286,10.033242671501965/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3860,7 +3860,7 @@ thoughts from your mind.&quot; Harper&#x27;s
 for October. &#x27;  
 There was a novel trial of speed on th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_caliente_ver02:data:sn86091346:00415668466:1883102701:0171/pct:24.469557195571955,79.46792883956259,18.45018450184502,20.989064795168925/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_caliente_ver02:data:sn86091346:00415668466:1883102701:0171/pct:18.37064389568428,59.605026929982046,13.84721901684745,15.7499591969969/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3911,7 +3911,7 @@ country, for yourself, or posterity, or
 respect lor me, to banish these  
 thoughts from your mind.’ 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_gabbs_ver01:data:sn84022047:00340582585:1883110301:0569/pct:8.035500119932838,57.79642235238246,17.342288318541616,29.127750514484724/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_gabbs_ver01:data:sn84022047:00340582585:1883110301:0569/pct:8.03357314148681,57.78727445394112,17.344124700239806,29.127097182652737/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3962,7 +3962,7 @@ dressed Washington, not only contin­
 ued to exist and daily increased when  
 the famous anonymous letter, sinc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_volvo_ver01:data:sn83025440:00295876499:1884011701:0210/pct:33.2776617954071,52.624880687241486,10.006958942240779,7.158765510658607/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_volvo_ver01:data:sn83025440:00295876499:1884011701:0210/pct:33.2776617954071,52.62841588008626,10.006958942240779,7.169371089192915/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3981,7 +3981,7 @@ encouragement to an address, which to
 me seems big with^e greatest miscUef  
 .that can befall the * ** J *
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_americanrobin_ver01:data:2010270509:00517013869:1884011701:0416/pct:85.10175854574194,47.807288449660284,10.49199762892709,2.1000617665225447/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_americanrobin_ver01:data:2010270509:00517013869:1884011701:0416/pct:85.08494666139866,47.799907364520614,10.494863690241012,2.103597344449591/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4006,7 +4006,7 @@ from his mind and never communicate
 them as coming from himself or anyone  
 else. The same circumstances of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159208:1884011701:0228/pct:45.29191512966302,31.323851203501093,9.624185272500346,4.540481400437637/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159208:1884011701:0228/pct:45.29191512966302,31.323851203501093,9.633430407248186,4.547775346462436/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4030,7 +4030,7 @@ to banish these thoughts from his mind
 and never communicate them as coming  
 from himself or anyone else.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_fleshgolem_ver02:data:sn92063989:00514153565:1884011901:0134/pct:85.42022184300342,57.0739141478283,9.726962457337883,5.122343578020489/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_fleshgolem_ver02:data:sn92063989:00514153565:1884011901:0134/pct:85.42377701934016,57.07955860356165,9.726962457337883,5.122343578020489/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4051,7 +4051,7 @@ saving, &quot;I am at a loss to conceive
 what part of my conduct could have  
 given encouragement to an addre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_bermuda_ver01:data:sn99062858:00415625108:1884012601:0241/pct:48.34878802667968,40.10398613518198,14.153245485602733,11.288272674754477/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_bermuda_ver01:data:sn99062858:00415625108:1884012601:0241/pct:48.35421072609945,40.11168881186212,14.158668185022504,11.284421336414404/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4107,7 +4107,7 @@ tuiud, and never communicate, as
 from yourself or any one else, a  
 sentiment of the like nature
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291104:1885070301:0389/pct:27.4601686972821,44.63075276489476,10.684161199625118,20.299678915447736/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291104:1885070301:0389/pct:27.471883786316777,44.63669877512189,10.684161199625118,20.296705910334165/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4196,7 +4196,7 @@ yourself, or posterity, or respect for me,
 to banish these thoughts from your  
 mind.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:fu:batch_fu_albert_ver01:data:sn96027724:00271761466:1889022001:0126/pct:7.966754510439895,91.38615316772012,26.96128116764646,24.151109804498017/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:fu:batch_fu_albert_ver01:data:sn96027724:00271761466:1889022001:0126/pct:6.184865147944488,70.8285866180603,20.90599633411888,18.71345029239766/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4237,7 +4237,7 @@ myself, you could uot have found a per­
 son to whom your schemas are more dis  
 agreeable.’ Tbe man who looks at th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_galena_ver02:data:sn88065721:00279521651:1889042901:0096/pct:16.494321071368027,33.68766255795545,15.511103576877437,3.0758792265068418/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_galena_ver02:data:sn88065721:00279521651:1889042901:0096/pct:16.49997174662372,33.69520147762825,15.511103576877437,3.079648686343247/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4314,7 +4314,7 @@ recite to their children with new and
 immeasurable profit. To put aside a  
 crown was, with such a man, bred as h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_napa_ver01:data:sn82015104:00175036696:1892022201:0608/pct:19.32633903920486,58.88,12.36885698509111,7.95/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_napa_ver01:data:sn82015104:00175036696:1892022201:0608/pct:19.32633903920486,58.88333333333333,12.373458494386158,7.95/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4394,7 +4394,7 @@ could not have found a person
 to whom your schein^ is more  
 iBsagreeaMe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ichabod_ver01:data:sn86063815:00279555624:1895071001:0661/pct:17.13791113675707,13.342011064106735,12.233121754183497,3.6771884152294176/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ichabod_ver01:data:sn86063815:00279555624:1895071001:0661/pct:17.142719753798808,13.342011064106735,12.228313137141757,3.6771884152294176/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4415,7 +4415,7 @@ your minds.” Glorious character. It
 was a Ilameses who dreamed of uni­  
 versal dominion, and with a hal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_disco_ver01:data:sn90060762:00199919763:1895071801:0283/pct:60.7300703879522,76.78818643285648,14.143067605172696,4.326257498846331/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_disco_ver01:data:sn90060762:00199919763:1895071801:0283/pct:60.73552681835543,76.79587755729888,14.153980465979156,4.326257498846331/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4744,7 +4744,7 @@ conceive what part of my conduct could
 have given encouragement to an ad­  
 dress which to me seems big with th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ash_ver01:data:sn84020358:00415621164:1897022301:0370/pct:57.00240770465489,86.84886003321758,16.492776886035312,3.895515627359203/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ash_ver01:data:sn84020358:00415621164:1897022301:0370/pct:42.773986350863105,65.13664502491318,12.384584504215175,2.929186169409633/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4787,7 +4787,7 @@ your mlnd.and never communicate.from
 yourself or anyone else, a sentiment of  
 like nature.&quot; He could not be dismay
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ash_ver01:data:sn84020358:00415621164:1897022301:0370/pct:57.18298555377207,33.91212441491771,33.56741573033708,93.73395742110826/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ash_ver01:data:sn84020358:00415621164:1897022301:0370/pct:42.914492171818544,25.441642760078516,25.19068647129667,70.3004680658312/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4877,7 +4877,7 @@ from your mind and never communi­
 cate from yourself or anyone else a  
 sentiment of the like nature.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_nuthatch_ver01:data:sn84036012:00212477254:1899022201:0696/pct:10.025380710659899,209.67043941411453,38.515228426395936,25.765645805592545/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_nuthatch_ver01:data:sn84036012:00212477254:1899022201:0696/pct:3.3417935702199664,69.89014647137151,12.838409475465314,8.588548601864181/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4929,7 +4929,7 @@ found a person to whom your schemes are
 more disagreeable.&quot; He held every mau  
 In ths republlo to be a king. Hls Idea o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_isleboro_ver01:data:sn83016025:00414210752:1899121501:0464/pct:42.73136773136773,70.29486099410278,12.203112203112203,2.746419545071609/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_isleboro_ver01:data:sn83016025:00414210752:1899121501:0464/pct:42.72262026612078,70.28301886792453,12.205731832139202,2.75016846361186/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

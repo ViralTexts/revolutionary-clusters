@@ -195,7 +195,7 @@ dr pat tin e, be considered as having exercised
 his light of expjtr;ation,Hnd shall thenceforth  
 be deemed no citizen.” Cl VI.S
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:0041418392A:1818030601:0363/pct:19.226940942269408,57.07405177603853,14.648307896483079,6.815171583383504/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:0041418392A:1818030601:0363/pct:19.223751865981093,57.06718035155309,14.651407087963731,6.818364234689782/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -213,7 +213,7 @@ in all the privileges of trade and commarce,
 subject to the same duties, impositions, and  
 restrictions, as the inhabitants thereof respec
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1821013001:0225/pct:21.398459078354414,33.67860313702279,16.528565198430005,2.663509914175792/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1821013001:0225/pct:21.403304743906574,33.68189142086745,16.528565198430005,2.6700864818651144/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -367,7 +367,7 @@ executive power of the State from which he fled, be
 delivered up and removed to the State having jurisdic­  
 tion of his offence.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1840012801:0323/pct:79.39457515360408,36.55967405346318,15.75003746440881,4.034582132564841/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1840012801:0323/pct:79.3995704081123,36.55967405346318,15.75003746440881,4.041207062174965/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -392,7 +392,7 @@ tive power of the State from which he fled, be deliver- j
 ed up and removed to the State having jurisdiction of  
 his offence.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1840022201:0370/pct:19.954887218045112,38.7945755901557,15.924812030075188,4.9422400803616275/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1840022201:0370/pct:19.954887218045112,38.801272392432615,15.93984962406015,4.938891679223171/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -445,7 +445,7 @@ In the articles of confederation, the provision rnn&#x27;Uius:
 &quot;If any person guilty ot, or charged with treason, fe­  
 lony, or other high misdemeanor in anv State,&quot; Ac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1841013001:0146/pct:36.876976358982084,92.51110213968511,15.705466044270441,2.149777957206298/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1841013001:0146/pct:36.88701500777995,92.51783070919123,15.710485368669378,2.149777957206298/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -541,7 +541,7 @@ of to the person taking the same, and shall, on or before
 the first day of October, annually, transmit to the Executive  
 a list of the persons who shall have taken said oaths o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845012201:0072/pct:14.66897446992644,74.65857359635812,38.439348045579116,16.47017625773316/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845012201:0072/pct:4.888952985289876,24.88328664799253,12.811268147293529,5.48941798941799/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -575,7 +575,7 @@ lation between the government and the governed,
 from which citizenship is supposed to result.  
 By virtue of the stipulation in the compact, th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022603:1845032601:0266/pct:8.643473570658037,48.10520665593129,40.142934196332256,14.020397208803006/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022603:1845032601:0266/pct:6.488601106164846,36.081588835212024,30.12275731822474,10.520665593129362/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -608,7 +608,7 @@ By virtue of the stipulation in the compact, th
 &#x27; leges of trade and commerce, subject to the same duties, im­  
 &#x27; positions, and restrictions as the inhabitants thereof respec
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1845052401:0159/pct:35.59133814547474,45.71616150563519,15.33870072182121,5.164678848889375/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1845052401:0159/pct:35.60059226355728,45.71980887770361,15.334073662779938,5.1683262209578/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -819,7 +819,7 @@ State, an&lt;! shall enjoy therein all the privileges of trade and
 commerce, subject to the same duties, impositions, and re -  
 studious, as the inUabitnntsthereof respectively; provided
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850050701:0560/pct:47.51452550032279,37.37602008788449,15.719819238218205,5.411173885750157/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850050701:0560/pct:47.51452550032279,37.38020506382088,15.725199053152572,5.415358861686546/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -851,7 +851,7 @@ pe sous as citizens. With these authorities I will I
 once more take leave of the qiiesiio.i, and not Ires- i  
 pass further-upon the lime of the Senute* 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661472:1850091901:0332/pct:31.535438406288115,8.841948837703004,15.096896598455075,8.120157095849697/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661472:1850091901:0332/pct:31.544473054162715,8.849025227329017,15.096896598455075,8.123695290662704/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -930,7 +930,7 @@ tionable, as if the Confederation had never been
 brought into existence.  
 A third clause of the same article is in thes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199264:1852070801:0459/pct:105.77474892395983,80.8685596813568,16.158536585365855,12.463060516510343/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199264:1852070801:0459/pct:79.36849659131683,60.657844019015805,12.127735916756368,9.340871129384556/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -948,7 +948,7 @@ and shall enjoy therein nil the privileges of
 trade and commerce, subject to the same duI  
 ties, impositions, and restrictions as the iulmbitant
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn84020104:0041566154A:1854122401:0618/pct:7.944887973216585,60.57321521625847,13.829513262941026,3.137050547159979/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn84020104:0041566154A:1854122401:0618/pct:7.944887973216585,60.57321521625847,13.838097690788908,3.1439986103873547/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -989,7 +989,7 @@ therein all the privileges of trade and commerce, sub­
 ject to the same duties, impositions, and restrictions  
 as the inhabitants thereof respectively.&quot; It woul
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879087:1855010501:0222/pct:87.01248049921998,107.52688172043011,19.890795631825274,4.5141916109658045/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879087:1855010501:0222/pct:65.28807387176487,80.64516129032258,14.930420080634672,3.3904872614550032/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1029,7 +1029,7 @@ reciting their nation and occupation (if any) to be
 by them entered in a book to be kept for that pur­  
 pose, for which lie shall receivo the fee of one dol
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855041001:0506/pct:4.048659950579737,25.494394760045346,15.58639042007223,12.318931855397405/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855041001:0506/pct:4.054995881644808,25.50279212327329,15.58639042007223,12.323130537011378/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1056,7 +1056,7 @@ ficate thereof to the person taking the same,
 | and shall on or before the first day of Ucto­  
 j her annually transmit to the Lxeoutive a lG
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215932:1855041001:0196/pct:46.67184164564331,28.232189973614776,12.614011255579275,6.4893389431648005/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215932:1855041001:0196/pct:46.66731347627826,28.230176839703365,12.616021474079105,6.491253089941053/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1089,7 +1089,7 @@ by affirmation.) that they intend to reside there­
 in, and also take the legal oath or affirmation for  
 giving assurance of fidelity to the Commonwealth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393347971:1855041001:0789/pct:204.19795879067976,11.991810470897923,120.87425380319661,373.281661304475/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393347971:1855041001:0789/pct:51.03966114747786,2.9975142564702444,30.21274547554871,93.3067699956134/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1222,7 +1222,7 @@ the privilege of trade and commerce, aubjeel to the
 same duties, imposition, and restrictions as the citizens  
 of the Commonwealth. Hrni&#x27;i StaUt$ r I.nrgt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn82014286:0020219168A:1855061401:0093/pct:38.504672897196265,20.89966679007775,14.240654205607477,18.761569788967048/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn82014286:0020219168A:1855061401:0093/pct:28.881878724150017,15.67937800814513,10.69050122677883,14.068863383931877/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1243,7 +1243,7 @@ preveut from voting or holding office the Cat ho- ricate i hereof, for which hes
 lie and foreigner, or the slaveholder of the South, j one dollar. And, in ruder to preserve to the citi­  
 and he will tell yo i the slaveholder. Indeed, this j zens of this Commonwealth that natural righ
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84020712:00295879166:1855072701:0289/pct:23.714365567356065,36.486933509758515,40.888764673001674,20.079391333112802/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84020712:00295879166:1855072701:0289/pct:17.79424098406486,27.36795677582975,30.682135868045847,15.062300143345462/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1308,7 +1308,7 @@ commerce snlilect tit lim same duties imrto-mio r.a ! In.iln nuriiirv I
   
 and restrictions as the citizens of the Commo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84020712:00295879166:1855072701:0289/pct:44.060927892677476,39.66258683427059,40.97261039686976,38.19605248649245/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84020712:00295879166:1855072701:0289/pct:33.05842885099245,29.749696769213806,30.73804864411518,28.647039364869336/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1340,7 +1340,7 @@ of Confederation referred to by me is the counterpart
 of section I of Article t of the present Constitution,  
 relative to the credit to be given in one State to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530480:1855110901:0478/pct:249.09698996655518,128.3669012375637,47.591973244147155,25.406454743994175/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530480:1855110901:0478/pct:83.03232998885173,42.7889670791879,15.863991081382386,8.468818247998058/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1367,7 +1367,7 @@ poy therein all the privileges of trade and
 cemmeroe, subject to the same dutles, impositions and  
 restrictions, as the inhabitants thereof respectively, pro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743245:1856122701:1485/pct:110.58166283273086,247.63590680676108,45.9250739401906,15.452261306532664/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743245:1856122701:1485/pct:36.86055427757695,82.54530226892037,15.308357980063533,5.150753768844221/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1389,7 +1389,7 @@ halitants of every of the States, parties to the ameri
 &quot;All free white persons, born within the territories of  
 &quot;this Comn onwealth, shall be deemed citizens of thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530546:1857040801:0058/pct:202.45439469320067,220.84262410515197,47.33001658374793,11.336697570707663/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530546:1857040801:0058/pct:67.48479823106689,73.61420803505067,15.776672194582643,3.778899190235888/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1418,7 +1418,7 @@ enjoy therein all the privilege* of trade and
 commerce, subject tq the same duties, im­  
 positions, and restrictions as the inhabitant
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hershey_ver01:data:sn85025182:0029602840A:1857052701:0243/pct:30.80954101915432,73.04360176111348,12.106975063245391,8.677744638545661/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hershey_ver01:data:sn85025182:0029602840A:1857052701:0243/pct:30.82158776051078,73.04833593713015,12.09492832188893,8.677744638545661/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1447,7 +1447,7 @@ enjoy therein all the privileges of trade and
 commerce, subject to the same duties, im­  
 positions, and restrictions as the inhabitant
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hershey_ver01:data:sn85025182:00296028411:1857052702:0081/pct:29.785264716771565,73.99267399267399,12.902628656053313,9.016624401239786/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hershey_ver01:data:sn85025182:00296028411:1857052702:0081/pct:29.791435270887327,73.99267399267399,12.914969764284832,9.030712876866723/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1514,7 +1514,7 @@ nowhere in the whole thirteen articles i
 
 ---
 
-## [From _The United States democratic review_](https://archive.org/details/sim_united-states-democratic-review_1859-10_43/page/n116/mode/1up?view=theater)
+## [From _The United States Democratic Review (1856-1859)_](https://archive.org/details/sim_united-states-democratic-review_1859-10_43/page/n116/mode/1up?view=theater)
 
 #### 1859-10-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -1567,7 +1567,7 @@ with his finger pointing to Slavery, in order
 to arrest the attention of mankind, and  
 draw the gaxe and concentrate the scene o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn84027096:00279529480:1860010701:0003/pct:79.31480284421461,31.5265745726996,34.64770523594053,31.5265745726996/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn84027096:00279529480:1860010701:0003/pct:26.4382676147382,10.508858190899867,11.549235078646843,10.508858190899867/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1587,7 +1587,7 @@ by affirmation, that they intend to reside therein, and
 also take the legal oath or aflirmation for giving assur­  
 ance of fidelity to the Commonwealth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024656:00414184704:1860101001:0348/pct:15.787044160640098,159.67523680649526,38.42129558393599,8.536310329273794/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024656:00414184704:1860101001:0348/pct:5.2615384615384615,53.219077686323146,12.805128205128206,2.8451159469312586/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1668,7 +1668,7 @@ zen of this State, being twenty*one years
 of age, shall reside elsewhere, and in good  
 faith become the citizen of some other Stat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn84026845:00202190716:1863020401:0122/pct:56.75967986156176,29.08456843940715,13.519359723123513,10.88055797733217/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn84026845:00202190716:1863020401:0122/pct:56.77049534934026,29.08456843940715,13.513951979234264,10.893635571054926/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1703,7 +1703,7 @@ of Confederation.
 These articles of Confederation were  
 the organic law of the land until the Con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_debaptiste_ver01:data:sn83016710:00211664198:1865070401:0216/pct:25.034602076124568,24.459252785667466,18.304498269896193,15.599737819532445/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_debaptiste_ver01:data:sn83016710:00211664198:1865070401:0216/pct:25.040369088811996,24.462894181050178,18.31026528258362,15.603379214915156/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1730,7 +1730,7 @@ merce,&quot; &amp;c. - .
 When this article was under consideration  
 it was excepted to by the delegates from Sout
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:00279525206:1865071401:0296/pct:3.4085295570558207,48.729184925503944,11.36176519018607,4.958056842368849/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:00279525206:1865071401:0296/pct:3.407968389858413,48.72308462694041,11.364010536713863,4.96056584877316/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1784,7 +1784,7 @@ ing twenty-one years of age, shall reside
 elsewhere, and in good faith become the  
 citizen of some other State of this Union
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741935:1867123101:0648/pct:9.178809750783058,93.07003108429329,42.966090153888054,26.421649296032182/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741935:1867123101:0648/pct:3.0596032502610195,31.02334369476443,14.32203005129602,8.807216432010728/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1832,7 +1832,7 @@ unconstitutional. It is submitted that a corporation
 created by the laws of one of the States, or com­  
 posed of citizens of that State, is a citizen of tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743683:1869101001:0125/pct:242.24892703862662,255.98249027237355,46.3862660944206,15.49124513618677/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743683:1869101001:0125/pct:80.74964234620887,85.32749675745785,15.4620886981402,5.163748378728924/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1888,7 +1888,7 @@ both these provisions is the same, and that the priyi
 leges and immunities intended are the same in each. In  
 the article of the confederation we have some of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grass_ver01:data:sn83030214:00206531137:1873041501:0768/pct:102.18032786885246,12.797720797720798,48.557377049180324,25.663817663817664/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grass_ver01:data:sn83030214:00206531137:1873041501:0768/pct:34.060109289617486,4.265906932573599,16.185792349726775,8.554605887939221/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1929,7 +1929,7 @@ same, and that the privileges and immuni
 ties intended are tho same in each. In the  
 article of the confederation we have som
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293472:1873041901:0377/pct:22.676139727649495,31.14263548708855,14.224393132030787,14.706860246037904/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293472:1873041901:0377/pct:17.01466015104398,23.362518009531197,10.676736265363543,11.027374487421035/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1951,7 +1951,7 @@ enjoy therein all the privileges of trado and ,
 commerce, subject to the same duties, impo- j1  
 sltlous, and restrictions as the inhabitants 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026753:00415620391:1873062601:0326/pct:2.4977538185085355,68.13335132946416,13.548966756513927,4.278580105277365/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026753:00415620391:1873062601:0326/pct:2.5097334531296793,68.13335132946416,13.542976939203355,4.287578170693301/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2213,7 +2213,7 @@ tions as the inhabitants thereof. respectively.
 banking and currency throughout the confed­  
 ert Povinces or States shall be empowere
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_neruda_ver01:data:sn83030272:00175045053:1892110501:0065/pct:123.6842105263158,222.5463384989365,50.0,17.74536615010635/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_neruda_ver01:data:sn83030272:00175045053:1892110501:0065/pct:30.93849915365808,55.63658462473413,12.507052849351139,4.436341537526587/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2343,7 +2343,7 @@ felony or other crime, who shall flee from
 justice and be found in another State, snail.  
 on demand of the executive authority of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_ahwahnee_ver01:data:sn85066387:00175037779:1898102501:0388/pct:1.3611755607115237,50.2791346824843,13.25599381283836,8.548499651081647/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_ahwahnee_ver01:data:sn85066387:00175037779:1898102501:0388/pct:1.3663315287445217,50.2791346824843,13.250837844805362,8.552376521671707/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

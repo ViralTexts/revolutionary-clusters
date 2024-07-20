@@ -89,7 +89,7 @@ irg frem us the true fiicat&#x27;on of the eremy,
 cbliged us 10 2@ with mo&#x27;e cavtion, asd  
 lefs expediii-n, .h-n we cculd have withed,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021183:00340587960:1777112001:0136/pct:52.140998343979184,42.05136813832466,20.93683463449255,43.176095350008396/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021183:00340587960:1777112001:0136/pct:52.15676997082249,42.0625594538638,20.944720447914204,43.17049969223882/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

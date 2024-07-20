@@ -52,7 +52,7 @@ be construed to operate contrary to former
 and existing public treaties with other so­  
 vereigns or States.” - The treaty wit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798052201:0504/pct:42.220847510052586,10.086088828018001,16.115063408598825,3.541381334376834/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798052201:0504/pct:42.23115785132488,10.089349768473229,16.12537374987112,3.5446422748320616/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -74,7 +74,7 @@ sustained injuries, still {he was sure of
 redress by the provisions thereof, as  
 well as by heér own treaty with th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1799020601:0021/pct:59.66799877036581,83.08559215000486,16.185059944666463,5.324006606431555/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1799020601:0021/pct:59.66799877036581,83.09206904368665,16.190183420432422,5.324006606431555/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -94,7 +94,7 @@ _ to former and existing public treaties
   
 with other sovereigns or states: Bu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215981:1801010101:0080/pct:54.6249184605349,18.414322250639387,21.06979778212655,4.1841432225063935/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215981:1801010101:0080/pct:54.61779285155231,18.412438625204583,21.071397512827204,4.187124931805783/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -134,7 +134,7 @@ Ly contained shall however be construed to ope-1
 rate contrary to the forme r and existing public  
 treaties with other sovereigns or states : Hut 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808041201:0443/pct:22.92232482346551,32.18799852742668,17.762085822922323,2.6383605350349737/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808041201:0443/pct:22.91817523533671,32.1840490797546,17.764904658460054,2.642126789366053/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -159,7 +159,7 @@ construed to operate contrary to (he j
 former and existing public treaties I J  
 with othc-i sovereigns or states. Put
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808051801:0001/pct:60.036682290605256,49.6732863549007,18.483798654982678,8.14862267777066/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808051801:0001/pct:60.04347530738401,49.6732863549007,18.49059167176143,8.152893444373264/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -275,7 +275,7 @@ ture hereof, or sooner if possible.
 In faith whereof, We, the Plenipotentiaries of  
 the United States of America and of the Repub
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183992:1825062101:0054/pct:51.647133354450425,37.832042882668254,14.681659803611023,8.731387730792138/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183992:1825062101:0054/pct:51.63895486935867,37.827536922343974,14.684613354447084,8.734317929172622/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -294,7 +294,7 @@ erate contrary to former and existing j
 pniil&#x27;c treaties with other sovereigns or }  
 S&#x27;.atcs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1825062201:0633/pct:61.906481314316665,12.828402366863905,18.107961725943312,3.3136094674556213/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1825062201:0633/pct:61.906481314316665,12.83629191321499,18.113979659384967,3.3136094674556213/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -398,7 +398,7 @@ ble.
 In faith whereof, We, the Plenipoten­  
 tiaries of the United States of America
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898036:1825082701:0093/pct:6.096595407759303,35.70831242682723,17.682765901293216,12.895132965378826/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898036:1825082701:0093/pct:6.094986807387863,35.702341137123746,17.684696569920845,12.897157190635452/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -497,7 +497,7 @@ however, be construed, or operate contrary to
 former and existing public Treaties with other  
 Sovercigns or States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1826112101:0186/pct:10.602485449111215,46.006519967400166,16.595878559068744,2.7302363488182557/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1826112101:0186/pct:10.602485449111215,46.013311600108665,16.601122122594514,2.726840532464004/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -543,7 +543,7 @@ however, he construed or operate contrary to
 former and existing Public Treaties with other  
 Sovereigns or States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348811:1826112301:0129/pct:53.10902896081772,75.41963015647227,15.055366269165248,1.9203413940256044/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348811:1826112301:0129/pct:53.09772195018097,75.40890342767743,15.057483500106452,1.923623951073816/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -700,7 +700,7 @@ shall however be construed to operate contrary to
 former and existing public treaties with other  
 Sovereigns or Slates
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn82015332:00332897925:1832050901:0025/pct:28.928225024248302,7.506315409599423,16.39185257032008,2.634428004330567/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn82015332:00332897925:1832050901:0025/pct:28.921212121212122,7.5049612123398886,16.393939393939394,2.6384629262132417/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -761,7 +761,7 @@ practicable.
 In faith whereof, we, the underwritten pleni­  
 potentiaries of the United States of America.an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1834061701:0409/pct:61.86786871390337,24.361493123772103,13.70615579659107,8.230793092751526/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1834061701:0409/pct:61.86786871390337,24.361493123772103,13.715546790627789,8.237686554303243/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -806,7 +806,7 @@ possible.
 In faith whereof, wo, the plenipotentia­  
 ries of the United States of America and o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197954:1836072801:0367/pct:106.30372492836676,96.8407750631845,20.37249283667622,17.091406908171862/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197954:1836072801:0367/pct:79.73921765295887,72.63058129738837,15.288723312795529,12.826453243470935/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -876,7 +876,7 @@ however, be construed or operate contrary to
 to former and exisiting public treaties with  
 other sovereigns or States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777791:1852090101:0566/pct:70.17411052233156,331.09784106568674,43.75473126419379,6.920839075179911/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777791:1852090101:0566/pct:17.546848381601365,82.77446026642168,10.940753359833428,1.7302097687949778/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -924,7 +924,7 @@ be construed or operate contrary to former
 and existing public treaties with other sover­  
 eigns and states
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172121:1863020301:0114/pct:7.528577059519117,89.58549992571683,15.825778478517934,3.9221512405288963/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172121:1863020301:0114/pct:5.844916246626954,69.43005181347151,12.270251005549616,3.0473997313375554/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -974,7 +974,7 @@ er, lie construed or operate contrary to former
 and existing public treaties with other Sover­  
 eigns and States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291049:1863032101:0513/pct:51.051590868236566,56.81500139938427,14.057163401042603,4.198152812762385/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291049:1863032101:0513/pct:51.060578824375334,56.82549678141618,14.057163401042603,4.198152812762385/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1019,7 +1019,7 @@ construed or operate contrary to former and exis
 ting public treaties with other sovereigns and  
 states
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_coyote_ver02:data:sn88071076:00296025161:1863091201:0412/pct:273.39003645200484,249.11140836995986,59.53827460510328,14.599656029046436/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_coyote_ver02:data:sn88071076:00296025161:1863091201:0412/pct:68.34750911300121,62.277852092489965,14.88456865127582,3.649914007261609/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1054,7 +1054,7 @@ and navigation shall be ratified by the President
 of the. United States of America, by and with the  
 advice aud consent ol the Senate thereof, and b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn85042146:00296022834:1867012201:0041/pct:38.687576126674784,118.01698416341519,16.56516443361754,5.56575625430342/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn85042146:00296022834:1867012201:0041/pct:29.03274942878903,88.5127381225614,12.42955064737243,4.177186137250402/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -5059,7 +5059,7 @@ gar-
 Grove nods at grove, each alley has a brother,  
 And half the platform just reflects the othe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282334:1886061201:0403/pct:74.33823529411765,40.19512195121951,49.11764705882353,7.303135888501743/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282334:1886061201:0403/pct:18.594813316167002,10.048780487804878,12.286187235607873,1.8257839721254356/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5188,7 +5188,7 @@ ter, the ceilings and walla showing an
 elaborate and delicate decorative scheme in  
 gold and cream. On all sides are marbl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665568:1895102301:0527/pct:56.827538883806035,78.6999217867385,16.708600182982618,6.005040410185105/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665568:1895102301:0527/pct:42.62838842502573,59.02494134005388,12.5357428800183,4.510298079429912/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

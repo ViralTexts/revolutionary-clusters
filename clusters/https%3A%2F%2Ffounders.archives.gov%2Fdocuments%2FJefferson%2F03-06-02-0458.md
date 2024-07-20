@@ -763,7 +763,7 @@ of thofe traders bad recourfe to an ex­
 p dient, which. for a time&gt; f_:v.d their  
 purpofe, though -it a much greater ex
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804082401:0001/pct:7.4559686888454015,48.54090672225117,15.949119373776908,13.288170922355393/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804082401:0001/pct:7.4559686888454015,48.54090672225117,15.962165688193085,13.292513461872502/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -781,7 +781,7 @@ withdraw gradually, and upon that ac- ;
 count making every day greater and grea­  
 ter difficulties about difcounting, in or- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804082401:0001/pct:24.246575342465754,19.072433559145388,16.49706457925636,2.6706618030224076/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804082401:0001/pct:24.253098499673843,19.081118638179607,16.49054142204827,2.6663192635052977/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -813,7 +813,7 @@ great an extent as they might wilh to
 borrow. The banks, however, by refus­  
 ing in this manner to give moie ere- i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804082401:0001/pct:24.207436399217222,29.05158936946326,16.027397260273972,12.66284523189161/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804082401:0001/pct:24.220482713633398,29.05158936946326,16.027397260273972,12.67587285044294/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -854,7 +854,7 @@ dollars—vide Coojx-r’s Political Arithmetic, 47. Ac­
 cording to the same estimate for our present population  
 it would he 300 millions. This estimate would be 63,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1814021601:0773/pct:30.917384693360365,23.03793328973185,21.66751140395337,3.9404839764551993/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1814021601:0773/pct:30.909551558145427,23.03416707536374,21.668355713199897,3.943926761484388/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -875,7 +875,7 @@ cal Arithmetic, 47. According to the same
 &lt; stimate for our present population it would  
 be 300 millions. This estimate would h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1814021601:0360/pct:24.147986149079642,77.67846058348852,17.350100236923637,4.047175667287399/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1814021601:0360/pct:24.143586005830905,77.66881827209534,17.35301263362488,4.050810989738498/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1040,7 +1040,7 @@ Lui, i-« t mg authority apart, ivj will . x turns wh- hor
 he legislature ought to con.ply with i , even f tlitu  
 hail the power 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184054:1831072901:0099/pct:51.19184376794946,46.037269869779976,14.948305571510627,9.238886394252358/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184054:1831072901:0099/pct:51.18449389806174,46.03210236839151,14.950945202201483,9.24159090058742/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1077,7 +1077,7 @@ morial as answered. But, setting authority apart,
 we will examine whether the legislature ought to*  
 comply with it, even if they had the potter.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn84021903:00414187432:1831090301:0137/pct:81.85982592762254,6.229124916499666,15.59780119102153,10.788243152972612/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn84021903:00414187432:1831090301:0137/pct:81.84108083352416,6.228084822173986,15.599954201969314,10.79061612957088/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1178,7 +1178,7 @@ ject, a great proportion of these Legislatures would
 cede to Congress their power of establishing banks,  
 saving the charter rights already granted.” This
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1833082701:0132/pct:82.04171846940186,21.07342772472835,14.767233043238017,5.07079354626276/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1833082701:0132/pct:82.0303867403315,21.071115013169447,14.769797421731123,5.073895229733685/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1347,7 +1347,7 @@ ed &quot;Bank notes become -active capital, and ali­
 ment the whole commerce, manulaeturers and  
 -agriculture of&#x27; the United Siates.” So tra
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1834111801:0498/pct:21.844095404304827,84.17093644391149,14.74694589877836,7.718303717431593/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1834111801:0498/pct:21.848943184021717,84.17457029688579,14.751793678495249,7.72557142338021/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1449,7 +1449,7 @@ but by express instructions from different
 organs of their will.”  
 Here the writer proceeds to an examina
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1837090501:0547/pct:5.312977099236641,20.73915699450214,14.702290076335878,17.980044797393607/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1837090501:0547/pct:5.312977099236641,20.745944478381865,14.717557251908397,17.97325731351388/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1497,7 +1497,7 @@ gress only, but by express instructions from different
 organs of their will.”  
 That the laws meum and fuum, and o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1838061901:0098/pct:66.0271546635183,69.11582852431987,14.152892561983471,15.406018136850783/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1838061901:0098/pct:66.0271546635183,69.11582852431987,14.152892561983471,15.416323165704863/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1524,7 +1524,7 @@ hanlr his no means oi canine- ior tne casu. auu
 1 , , . , , . . ,  
 while these calls are lmpracticaoie ior tne cou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197966:1839091101:0353/pct:63.448753462603875,77.11391828838056,20.373961218836566,8.330488221235917/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197966:1839091101:0353/pct:47.609810170430926,57.835438716285424,15.283358736317028,6.259246614316604/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1548,7 +1548,7 @@ condemned it, not by their representatives in
 Congress only, but by express instrustions from  
 different organs oftheir will.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1839102901:0382/pct:66.2221570926143,33.72491943029421,14.74208675263775,5.405967356274041/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1839102901:0382/pct:66.23192653380227,33.72491943029421,14.746971473231731,5.419828811033718/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1574,7 +1574,7 @@ or corruption, have betrayed the fruits of their
 industry, into the hands of projectors and swin  
 dlers.” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1839102901:0382/pct:66.2221570926143,43.55962158228506,14.74208675263775,7.162906747063104/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1839102901:0382/pct:66.23192653380227,43.5665523096649,14.746971473231731,7.169837474442943/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1603,7 +1603,7 @@ with our eyes open,&quot; into the toils of Bank despotism.
 Shall the President of a I*. S. Bank, to be chartered by  
 City Log Cabin Whigs, be the absolute king of this na
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1840091801:0626/pct:68.15391525677497,79.9354708610607,15.780805509806857,2.3996773543053034/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1840091801:0626/pct:68.15890602385586,79.94219264636688,15.780805509806857,2.396316461652215/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1648,7 +1648,7 @@ wis over!vni :in,l the me ns nr.irliel fur
   
 o&#x27;taiain2 it.cann .t he already t&quot;..ruoMen. j , ,n &quot;&#x27; the p.rt exHian-ed for pr.nliictiv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn83016924:00200292091:1840092601:0148/pct:5.066371681415929,37.60063141278611,46.902654867256636,24.90923441199684/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn83016924:00200292091:1840092601:0148/pct:3.806151803496349,28.208366219415943,35.184775392786015,18.689818468823994/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1669,7 +1669,7 @@ Congress only, but hv express instruction ;S&#x27;at-s it must be less than in a
 fro.n different orni of their will. Herejof the c.vnmerci il world; localise the mas  
 then we mL&#x27;ht stop, and consider the me iio.:of t&#x27;&quot;&#x27;,r inhabitant l-ein-r in responsible cir
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn83016924:00200292091:1840092601:0148/pct:4.977876106194691,65.88792423046567,46.969026548672566,6.314127861089187/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn83016924:00200292091:1840092601:0148/pct:3.7397654348307148,49.423835832675614,35.25116176145165,4.73559589581689/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1797,7 +1797,7 @@ nvi&#x27;eri Is. tool-
 dition d industry,! part, also, may le la en  
 tu ck in loreiL&#x27;n wiaes, silks, Sz.r. to be co
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn83016924:00200292091:1840092601:0148/pct:4.513274336283186,16.17995264404104,47.876106194690266,110.07103393843725/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn83016924:00200292091:1840092601:0148/pct:3.3857048019473335,12.138910812943962,35.9371542376632,82.55722178374113/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1866,7 +1866,7 @@ this being gross, we may infer from it the
 value of the capital by considering that the  
 rent of lands is generally fixed at one thir
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn83016924:00200292091:1840092601:0148/pct:28.25221238938053,72.26519337016575,24.13716814159292,47.27703235990529/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn83016924:00200292091:1840092601:0148/pct:21.199380393892454,54.20678768745067,18.10134985616287,35.453827940015785/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1889,7 +1889,7 @@ PoitletbwsytjteM, Ctth.
 prom, ana twenty tunes ui.n us ice simple uiiiuuui vt iuc niiuic vuue ui nil uie lauu&quot;  
 value. The profits on landed capital may, in the country, he proposed to remedy tiii
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn83016924:00200292091:1840092601:0148/pct:28.716814159292035,16.195737963693766,71.3716814159292,109.78689818468824/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn83016924:00200292091:1840092601:0148/pct:21.553441026775836,12.154696132596685,53.551670723611416,82.336227308603/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2026,7 +2026,7 @@ bank of a particalar kind, which, he seems nor other difference than that there 
 &quot;Within are month) after thl they were enmnell­  
 ed, by the eeeeiiitiet of the wer, to abandon th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn83016924:00200292091:1840092601:0148/pct:52.52212389380531,19.605367008681927,47.58849557522124,103.99368587213891/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn83016924:00200292091:1840092601:0148/pct:39.41137419783138,14.711917916337805,35.69373755255587,77.99526440410418/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2073,7 +2073,7 @@ tures, and agriculture. This paradox was
   
 well adapted to the minds of believers in Ua 1 803, there were thirty-four banks, whos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn83016924:00200292091:1840092601:0148/pct:76.46017699115045,16.195737963693766,47.47787610619469,31.17600631412786/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn83016924:00200292091:1840092601:0148/pct:57.357822527107764,12.154696132596685,35.62735118389024,23.378058405682715/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2302,7 +2302,7 @@ to do this. A farmer , having a . net .of
 Boston or Charleston bank, distant fctue j  
 of miles, ha no mean of calling fef -.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn83016924:00200292091:1840092601:0148/pct:76.39380530973452,16.306235201262826,48.1858407079646,110.3078137332281/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn83016924:00200292091:1840092601:0148/pct:57.31356494799734,12.2336227308603,36.15844213321531,82.73086029992108/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2517,7 +2517,7 @@ that the cash could be redemanded on return
 ing the note. Tii: Jefferson.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn83016924:00200292091:1840092601:0149/pct:10.431338028169014,6.345973049200878,47.79929577464789,118.58351613914134/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn83016924:00200292091:1840092601:0149/pct:7.8396828892314465,4.7633970542149795,35.87315569257873,88.937637104356/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2535,7 +2535,7 @@ its paper to be fraudulently re issued, or is- gR OF ms COUNf RY did, and that n
 ued without deposit, ,t wm1. rrn,,,,e &#x27;&#x27;1 j in CRtal,iis,in. t!,i5 system, we are only  
 and strict, regulation. This would d.uer from Lh.irHn ,,r:,cticcs silently introduced b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn83016924:00200292091:1840092601:0149/pct:34.793133802816904,55.81322469445315,46.85299295774648,2.8831087433406455/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn83016924:00200292091:1840092601:0149/pct:26.11759524333847,41.867753055468505,35.16846509579388,2.162331557505484/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2592,7 +2592,7 @@ bug&quot; this &quot;ufopian&quot; measure of an exclusive me
 talic currency did not vegetiate in the brain of  
 Mr. Beston, but in the sound heads and ho
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016867:00295877637:1840100302:0631/pct:321.82985553772073,56.98675044392842,62.92134831460674,93.9762327550881/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016867:00295877637:1840100302:0631/pct:80.50592250552099,14.246687610982105,15.739811282874925,23.494058188772026/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2641,7 +2641,7 @@ of the measure, and to deprecate the paper system, and
 to expose the nature and extent of the oppression and  
 taxation imposed upon the people by the banking sys
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1841070601:0354/pct:63.59398496240601,54.466772781536015,15.819548872180452,11.20175089534421/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1841070601:0354/pct:63.60401002506266,54.466772781536015,15.814536340852131,11.205066985011275/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2670,7 +2670,7 @@ of the United States, and the grounds of that
   
 decision (the want of constitutional power,)
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00416156888:1841071001:0498/pct:3.6154708520179373,41.398732691856374,19.29652466367713,3.4381600563248065/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00416156888:1841071001:0498/pct:2.7197532594981073,31.04904951889228,14.4819851394925,2.581553625909411/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2717,7 +2717,7 @@ paper system, and to expose the nature aud
 extent of the oppression and taxation imposed  
 upon the. people by the banking system
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00416156888:1841071001:0498/pct:3.587443946188341,45.96338887585074,39.55997757847533,20.546819995306265/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00416156888:1841071001:0498/pct:2.69171456610122,34.47547524055386,29.69297630730408,15.407181412813893/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2772,7 +2772,7 @@ Furthermore, Mr. Van Buren&#x27;s Admin­
 istration assume J tho position that the  
 question, whether or not McLeod shoul
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035312:00296026864:1841071301:0232/pct:31.082251082251084,91.83392063735253,37.72727272727273,35.590623563658646/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035312:00296026864:1841071301:0232/pct:23.32683560753736,68.88310096522139,28.33008447043535,26.689137429140494/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2817,7 +2817,7 @@ as their consent might be obtained.
 I will not undertake to decide, said Mr Rives,  
 how far this suggestion of Mr Jefferson could h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184595:1841071401:0628/pct:130.2475950165589,34.19206440483036,39.80444724806813,13.018976423231742/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184595:1841071401:0628/pct:43.40901923683381,11.396044158233671,13.266056974666245,4.339159766942656/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2840,7 +2840,7 @@ Banks.
  e t i  Pesident that this moted que  
 tion has received different decisions, at the hands o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184595:1841071401:0628/pct:169.56316038479736,27.56756756756757,41.365715186879044,10.638297872340425/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184595:1841071401:0628/pct:56.5121412803532,9.188132474701012,13.786397561231999,3.545691505673106/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2877,7 +2877,7 @@ sillanimily, or corruption, hare betrayed the fruits
 of their industry into the hands of projectors and  
 swindlers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023294:00200296096:1841071601:0253/pct:319.28934010152284,61.268011527377524,59.13705583756345,43.40057636887608/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023294:00200296096:1841071601:0253/pct:79.87301587301587,15.317002881844381,14.793650793650794,10.85014409221902/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2989,7 +2989,7 @@ nothing could be done; but accepted trom
 them one by one, singly, as their consent  
 might be obtained.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156347:1841072901:1049/pct:89.78622327790974,229.99475616151022,57.957244655581945,26.009438909281595/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156347:1841072901:1049/pct:22.450999802019403,57.498689040377556,14.492179766382895,6.502359727320399/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3016,7 +3016,7 @@ mooted question has received different
   
 reat names militate against each other.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156347:1841072901:1049/pct:209.26365795724465,165.60041950707918,119.31908155186065,69.32354483481909/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156347:1841072901:1049/pct:52.32627202534152,41.400104876769795,29.835676103741832,17.330886208704772/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3042,7 +3042,7 @@ Woeld Be Made to theM for Tie
 ixcorporaations oF Banks.&quot; And fur­  
 ther on he contends that the nation had condemne
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023294:00200296096:1841073001:0261/pct:13.169073916737467,261.2990720913633,59.64316057774002,29.064953604568167/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023294:00200296096:1841073001:0261/pct:3.2936676583085425,65.32476802284083,14.917127071823204,7.266238401142042/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3100,7 +3100,7 @@ dred millions they will have lost. It is lime, then,
 for the public funclionaries to look to this. Per­  
 haps it may not be too late.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023294:00200296096:1841073001:0261/pct:13.678844519966015,59.671663097787295,119.96601529311809,318.2298358315489/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023294:00200296096:1841073001:0261/pct:3.4211644708882276,14.917915774446824,30.004249893752657,79.55745895788722/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3123,7 +3123,7 @@ made to them lor the incorporation of Banks
 The truth is, Mr. President, that this mooted  
 question has received different decisions, at th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1841073101:0285/pct:31.394899536321482,48.09194711538461,18.56646058732612,6.775841346153846/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1841073101:0285/pct:23.56466267156389,36.07271634615385,13.937753721244926,5.078125/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3164,7 +3164,7 @@ per system, and to expose the nature and ex
 tent of the oppression and taxation imposed upon  
 the people by the banking system
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016867:00295877637:1841073101:0796/pct:24.979854955680903,114.57451167873242,60.676873489121675,62.83294631880891/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016867:00295877637:1841073101:0796/pct:6.248740173352147,28.643627919683105,15.17839145333602,15.708236579702227/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3434,7 +3434,7 @@ we see in circalation have been lent to somebody on
 k an interest whica is lavied agam on us, through the  
 medium of commerce,”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015209:1843012401:0422/pct:20.437956204379564,6.570926748631057,29.970802919708028,89.44105796053312/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015209:1843012401:0422/pct:20.437956204379564,6.5743706305747835,29.980535279805352,89.43761407858939/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3459,7 +3459,7 @@ they have given us two hundired millions of froth and
 bubble, on which we are to pay them heavy interest,  
 unul it shall vanish into air, as Morris’s&#x27;notes did.’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015209:1843012401:0422/pct:35.67883211678832,11.61276991424734,14.72992700729927,5.1038330406033685/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015209:1843012401:0422/pct:35.67883211678832,11.616213796191067,14.739659367396595,5.110720804490822/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3479,7 +3479,7 @@ might bave it, but a general application would seon
 exhaust their vaults, and leave a Ininous proportion of  
 their paper in its intrinsic worthless form,”’ 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015209:1843012401:0422/pct:35.76642335766423,16.76826118400661,14.642335766423358,2.768881082756483/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015209:1843012401:0422/pct:35.771289537712896,16.775148947894067,14.64720194647202,2.765437200812756/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3502,7 +3502,7 @@ be saved from the general wreck.”
 The foregoing are the opinions of the illustri­  
 ous JEFFERSON, and they bear upon one of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015209:1843012401:0422/pct:35.67883211678832,21.489823328856286,14.72992700729927,4.452939353238971/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015209:1843012401:0422/pct:35.67883211678832,21.493267210800013,14.739659367396595,4.456383235182698/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3586,7 +3586,7 @@ morial as answer-d. But. setting authority apart, we
 will examine whether the Legislature ought to comph &#x27;  
 with it, e?en if they had the power.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664278:1844041801:0365/pct:19.994044960547864,45.86711489025114,15.929730534464792,9.066640300573463/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664278:1844041801:0365/pct:19.999007493424642,45.87041065190166,15.934693067341572,9.073231823874497/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3618,7 +3618,7 @@ stitute for it paper, with all its train of evils,
 moral, political, and physical, which 1 will  
 not pretend to enumerate?&quot; Do they fin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85038078:00269026803:1846022601:0208/pct:54.715127701375245,68.1740746476692,22.740667976424362,6.473594548551959/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85038078:00269026803:1846022601:0208/pct:41.046425939572586,51.13829951990088,17.071972488332104,4.862939445562955/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3636,7 +3636,7 @@ duced by industry and nccumulpted by econ­
 omy, but jugglers only will propose to create  
 it by legerdemain tricks wilh paper.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85038078:00269026803:1846022601:0208/pct:101.69449901768174,69.28914356512313,22.740667976424362,3.3761808889577205/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85038078:00269026803:1846022601:0208/pct:76.29575042986981,51.97460120799133,17.071972488332104,2.5243921325693046/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3713,7 +3713,7 @@ try, and accumulated by economy; but
 jugglers only will propose to create it  
 by legerdemain tricks with paper.&quot;., 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027510:1847100201:0166/pct:106.43322475570032,46.20679764807113,18.973941368078176,3.4992112433672737/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027510:1847100201:0166/pct:79.87370136484009,34.66226875089632,14.25952332450601,2.6244084325254553/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3767,7 +3767,7 @@ the insecurity is greatly increased.and
 2reat con usion Dossible where the cir-  
 cuatinn is for the&#x27; ereater part ia paper
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027510:1847100201:0166/pct:106.10749185667753,50.53778861322243,20.39902280130293,29.155313351498638/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027510:1847100201:0166/pct:79.62925239356284,37.903341459916824,15.318802200040741,21.87007027104546/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3799,7 +3799,7 @@ from the towns; because their inhabi
 tants are mostly on their boqks, and  
 there on sufferance only and durin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027510:1847100201:0166/pct:105.74104234527687,82.23146421913093,19.0757328990228,16.234045604474403/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027510:1847100201:0166/pct:79.36443267467916,61.68076867919117,14.32063556732532,12.1755342033558/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3816,7 +3816,7 @@ there on sufferance only and durin
 can have specie for our paper wben-  
 ever demanded.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027510:1847100201:0166/pct:105.61889250814332,99.42635881256274,18.8314332247557,2.4092929872364834/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027510:1847100201:0166/pct:79.26257893664697,74.57335436684355,14.137298838867386,1.8069697404273626/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3853,7 +3853,7 @@ excepted, whose dreadful catastrophe
 should be a warning against the instru  
 ment which produced it,&quot; : vw
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027510:1847100201:0166/pct:105.06921824104235,102.16549548257565,19.299674267100976,21.454180410153448/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027510:1847100201:0166/pct:78.85516398451823,76.62412161193174,14.483601548176818,16.090635307615088/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3903,7 +3903,7 @@ i dreams, and gulis of that size entered bona fide iuto
 i it.&quot; It would seem from the rapid increase of public  
 I debt in Virginia during the last few years, that ther
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664357:1856040401:0354/pct:57.34356894553882,91.87879939209726,15.280996523754345,3.514437689969605/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664357:1856040401:0354/pct:57.34356894553882,91.88513171225937,15.290652761684047,3.511271529888551/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3968,7 +3968,7 @@ silver money, replaces a very expensive in­
 strument of.commerce with one much less­  
 . costly,and sometimes equally convenient.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1861062501:0002/pct:3.28683355627747,89.4805761676124,10.319128606917639,2.400698384984723/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1861062501:0002/pct:3.2963883049875786,89.4805761676124,10.338238104337856,2.4043358067801543/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4077,7 +4077,7 @@ mutation into the blessings of private in­
 stead of public debts, is as ridiculous as  
 the original principle itself.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84024082:00212471616:1862061701:0303/pct:287.5812743823147,52.333251893476664,45.123537061118334,26.337649645736622/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84024082:00212471616:1862061701:0303/pct:71.89531859557867,13.083312973369166,11.280884265279584,6.584412411434156/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4104,7 +4104,7 @@ public blessing and its mutation into the blessings
 of private instead of public debts, is as ridiculous  
 as the original principle itself.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028822:00280775459:1862061901:0516/pct:131.55159613956943,251.06084024167487,49.74016332590943,23.155824083181116/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028822:00280775459:1862061901:0516/pct:32.8940040839057,62.76521006041872,12.437349173937257,5.788956020795279/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4192,7 +4192,7 @@ this. A farmer having a note of a Boston or
 Charleston bank, distant hundreds of miles  
 has no means of calling for thewcash, and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84038582:00212471525:1874022801:0432/pct:132.34142521534847,52.43207422133864,60.45418950665623,27.620941020543405/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84038582:00212471525:1874022801:0432/pct:33.10479921645446,13.10801855533466,15.122428991185112,6.905235255135851/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4221,7 +4221,7 @@ suffrance only and during good behavior.  a po aner whi Missisi
   
 The intelligent reader will hot need to ehas inst elected a steamboat porter to the U
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84038582:00212471525:1874022801:0432/pct:71.41738449490994,80.0,184.0250587314017,95.16235917826376/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84038582:00212471525:1874022801:0432/pct:17.864838393731635,20.0,46.03330068560235,23.79058979456594/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4289,7 +4289,7 @@ stitute for it paper, with all its train of evils,
 moral, political and physical, which I will not pre­  
 tend to enumerate.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743865:1874040601:0095/pct:5.431309904153355,133.47260909935005,47.334790650748275,41.82915506035283/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743865:1874040601:0095/pct:1.810436634717785,44.490869699783346,15.778263550249426,13.943051686784278/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4320,7 +4320,7 @@ advocates of inflation as on their side of the paper-­
 money question. It is true, indeed, that Frankiin,  
 when in his twenty-third year, wrote and printed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743865:1874040601:0095/pct:5.279973095678494,179.9326833797586,47.990583487472676,22.075208913649025/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743865:1874040601:0095/pct:1.7599910318928311,59.977561126586195,15.996861162490891,7.358402971216342/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4339,7 +4339,7 @@ corruption, have betrayed the fruits of their
 industry into the hands of projectors and  
 swindlers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743865:1874040601:0091/pct:145.13140161725067,102.75733146395606,47.52358490566038,9.24173384741208/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743865:1874040601:0091/pct:48.37713387241689,34.25244382131869,15.84119496855346,3.08057794913736/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4394,7 +4394,7 @@ mean. Morc money is doubtless one
 of the prime needs of this country­  
 Even John A. Logan shows in his firs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84038582:00212471525:1874050201:0504/pct:19.558359621451103,25.74970011995202,124.44794952681389,364.3875783020125/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84038582:00212471525:1874050201:0504/pct:4.890554131335042,6.437425029988005,31.11812265825281,91.09689457550313/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4435,7 +4435,7 @@ means as may give time to private for
 lanes to preserve their poise and settle  
 down with tbe subsiding medium.&quot;. Le
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280775010:1874052801:0406/pct:18.317522321428573,69.8178068064627,12.848772321428571,3.6896986364157214/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280775010:1874052801:0406/pct:13.743546811776197,52.36621977770139,9.641412027347565,2.773003323020511/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4457,7 +4457,7 @@ tricks with paper.&quot;
 If the currency were at once greatly in­  
 flated, who wonld get it? Would they wh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn87056600:00202191642:1874070701:0237/pct:49.199014171287736,87.6718554709692,18.853974121996302,5.044881263492785/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn87056600:00202191642:1874070701:0237/pct:36.91833590138675,65.7538916032269,14.144838212634824,3.783660947619589/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4495,7 +4495,7 @@ to negin tho work or reducing it by such
 &quot;gradual means us may give tuno to pri-  
 &quot;vato fortunes to preservo their pois
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280775010:1874091701:0494/pct:8.790697674418604,47.63729246487867,18.837209302325583,14.985100042571307/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280775010:1874091701:0494/pct:6.606187485461735,35.7315169575706,14.11956268899744,11.23882503192848/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4536,7 +4536,7 @@ In li&#x27;37 .Mr. Calhoun, a Democratic lead
 er, saiJ of paper money issued by national  
 (tanks, &quot;Never was an engine invented 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_broadsheet_ver01:data:sn92053942:00295873644:1874092901:0307/pct:7.619926199261992,60.933985976981084,16.752767527675278,16.74824712263527/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_broadsheet_ver01:data:sn92053942:00295873644:1874092901:0307/pct:5.722724755399668,45.70710411430083,12.571534059442495,12.567799973541474/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4562,7 +4562,7 @@ when it steals over the flowers, it is en­
 chanting; but when it whistles through  
 the key-hole, it is unpleasant
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn86053634:00280776671:1874093001:0202/pct:110.33834586466165,34.67795265176564,14.200273410799726,7.72384605210951/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn86053634:00280776671:1874093001:0202/pct:82.80047871431015,26.01507737071816,10.668490340229098,5.792884539082132/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4591,7 +4591,7 @@ lated by economy; but jugglers only will
 &quot;propose to create it by legerdemain tricks  
 &quot;with paper.&quot; And yet that is the ver
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558329:1874102101:0399/pct:65.53672316384181,29.676925041501725,44.35028248587571,30.289873579364066/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558329:1874102101:0399/pct:16.39286345168698,7.419231260375431,11.093446387564034,7.5724683948410165/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4614,7 +4614,7 @@ which opinion experience approve!, for I behove g],
 to Doon« of UiiiNO cases where inemnttlo clamor will  
 bear down reason until It ia corroded hy ruin. , 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grand_ver02:data:sn84031492:no_reel:1875080901:0004/pct:85.47008547008546,9.238802972484434,13.14102564102564,2.972484434625427/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grand_ver02:data:sn84031492:no_reel:1875080901:0004/pct:85.49011752136752,9.253866238200441,13.12767094017094,2.9624422574814218/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4631,7 +4631,7 @@ ago, their &quot;splendid but visionary ideas still
 continue to make an impression upon many  
 &quot;people.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:00206531228:1875090601:0552/pct:103.22476620445018,239.45352692351665,47.936149629151885,6.253572653481194/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:00206531228:1875090601:0552/pct:34.408255401483395,79.81784230783887,15.978716543050629,2.0845242178270644/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4742,7 +4742,7 @@ economy, but jugglers only will propose to
 create it by legerdemain tricks with paper.”  
 This remark is commended to the atteutio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_farmington_ver01:data:sn83016025:00279525449:1878031401:0179/pct:72.92430278884463,74.5933014354067,10.756972111553784,2.727272727272727/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_farmington_ver01:data:sn83016025:00279525449:1878031401:0179/pct:72.91268323773104,74.58437985886856,10.759241555130657,2.729936610453295/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4761,7 +4761,7 @@ and accumulated by economy, but jugglers
 only will propose to create it by legerde  
 main tricks with paper.”&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_celebi_ver01:data:sn84027329:00279528992:1878042501:0067/pct:59.35812837432513,81.23480797277588,8.698260347930415,1.7015070491006319/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_celebi_ver01:data:sn84027329:00279528992:1878042501:0067/pct:59.35812837432513,81.24020958245558,8.708258348330334,1.6988062442607896/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4781,7 +4781,7 @@ accumulated by economy, but jugglers only
 will propose to create it by legerdemain  
 tricks with paper.--Jeserson.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn83032231:00237287472:1878061501:0330/pct:315.18737672583825,304.1483979763912,55.42406311637081,11.602023608768972/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn83032231:00237287472:1878061501:0330/pct:78.8357178095708,76.0370994940978,13.862851504686729,2.900505902192243/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4808,7 +4808,7 @@ sious motals; that it is Hable to be ahusod, has been, is,
 and forever will be abused, in every country in which it is  
 sermitted
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:00271744043:1878101701:0214/pct:9.059175531914894,240.25055098016472,46.17686170212766,12.81753856861153/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:00271744043:1878101701:0214/pct:3.0197251773049647,80.08351699338824,15.392287234042554,4.272512856203844/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4834,7 +4834,7 @@ die in our ifanus, and it is the surest res aree of reitance in
 time of war; that the trifling economy of paper as a  
 che aper medium, or its convenience fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:00271744043:1878101701:0216/pct:8.362602441879913,234.1542374841022,47.533032279645425,14.487223956526766/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:00271744043:1878101701:0216/pct:2.787534147293304,78.05141249470074,15.844344093215142,4.8290746521755885/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4862,7 +4862,7 @@ elvantages of the precious metals; that it is liable
  be inised has been, is, and ctet 140  
 ainied in every country in which it is permitl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558391:1878101701:0391/pct:118.44660194174757,348.5560261840585,48.737864077669904,20.485175202156334/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558391:1878101701:0391/pct:29.63322807869808,87.13900654601463,12.1933446684479,5.121293800539084/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4887,7 +4887,7 @@ ion to the advantages of the precious
  that it is hiable to be abused, has I  
 forever will be abused, in every country i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_java_ver01:data:sn83030214:00206531332:1878101701:0354/pct:3.1777557100297913,199.08119903525898,47.89804700430321,13.322613988744688/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_java_ver01:data:sn83030214:00206531332:1878101701:0354/pct:1.059251903343264,66.36039967841967,15.96601566810107,4.4408713295815625/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4906,7 +4906,7 @@ omy; but jugglers only will propose to create
 it by legendermain tricks with paper money.  
 James Madison: The loss which Ameri
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340688:1878101701:0379/pct:39.463043829856055,20.137328339575532,10.949377324923177,2.9213483146067416/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340688:1878101701:0379/pct:39.456662354463134,20.13481462988391,10.951649417852522,2.924104356509799/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4935,7 +4935,7 @@ ictals; that it is liable to be abused, has been, j
 , and forever will be abusod io every country I  
 i which it is permitted.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_gabbana_ver01:data:sn85025007:00415663808:1878101701:0272/pct:51.458990536277604,57.358326068003485,15.523133543638275,7.663469921534437/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_gabbana_ver01:data:sn85025007:00415663808:1878101701:0272/pct:51.458990536277604,57.36413833188027,15.531896249561864,7.663469921534437/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5011,7 +5011,7 @@ to be abused, has been, is, and forever will be
 abused in every country in which it is permit­  
 ted.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348720:1878103101:0567/pct:17.411971830985916,46.30916480923037,10.809859154929578,4.641405532974957/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348720:1878103101:0567/pct:17.408906882591094,46.30309386470897,10.812356979405035,4.644074462506555/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5085,7 +5085,7 @@ her copyist, the United States, there is
 not a nation existing, I believe, which  
 tolerates a paper circulation.&quot; And ye
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_baxter_ver01:data:sn83009653:00279524056:1879020401:0253/pct:14.614096513929061,11.835007932310946,77.97229410869234,281.95663670015864/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_baxter_ver01:data:sn83009653:00279524056:1879020401:0253/pct:4.87062404870624,3.944585448392555,25.986808726534754,93.97560631697688/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5153,7 +5153,7 @@ son in support of the Greenback socialism
 of to-day. The Democratic statesmet  
 of the era in which Jefferson wrote thor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_baxter_ver01:data:sn83009653:00279524056:1879020401:0253/pct:54.80286192723398,48.89476467477525,38.19455015984168,73.90798519301957/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_baxter_ver01:data:sn83009653:00279524056:1879020401:0253/pct:18.264840182648403,16.29653130287648,12.729578893962456,24.633389734912576/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5214,7 +5214,7 @@ for paper.”
 Yet in tbe lace of these declarations of Jef­  
 ferson the New Era has the eflrontery t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_farmington_ver01:data:sn83016025:00279525462:1879032201:0167/pct:49.4883872015592,42.865693081158724,10.946889719019003,18.960976777591572/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_farmington_ver01:data:sn83016025:00279525462:1879032201:0167/pct:49.48035076323482,42.86056253740275,10.949171809028906,18.961699581089167/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5267,7 +5267,7 @@ of establishing banks of discount for paper.”
 That is the kind of “Greeubacker” Thom­  
 as Jefferson was. Is that the kind the Ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_farmington_ver01:data:sn83016025:00279525462:1879073101:0619/pct:48.84547069271758,27.19298245614035,10.89940255126756,14.960346070656092/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_farmington_ver01:data:sn83016025:00279525462:1879073101:0619/pct:48.837584759444624,27.189715246906164,10.901679044236358,14.961552324882854/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5291,7 +5291,7 @@ was well adapted to the minds of be-­
 lievers in dreams, and the gulls of  
 of that size entered bona fide int
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_lapras_ver01:data:sn83025167:00279528402:1883030801:0486/pct:50.82479380154961,43.82566585956417,32.029492626843286,14.169491525423728/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_lapras_ver01:data:sn83025167:00279528402:1883030801:0486/pct:16.94159793384987,14.608555286521389,10.676497542281096,4.72316384180791/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5313,7 +5313,7 @@ This paradox was well adapted to the minds of
 bellevers in dreams, and the gulls of that size  
 entered bona fide into it.&quot;-Jeferson&#x27;s Works
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_lapras_ver01:data:sn83025167:00279528402:1883032201:0494/pct:52.934621099554235,189.86610153164435,31.797919762258545,10.557749735092958/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_lapras_ver01:data:sn83025167:00279528402:1883032201:0494/pct:17.644873699851413,63.28870051054812,10.599306587419514,3.5192499116976528/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5332,7 +5332,7 @@ try, and accumulated by economy;
 I but juyglers only propose to create  
 it by legerdemain tricks with pa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887090801:0160/pct:31.73755483501812,59.126344086021504,12.931527751287431,2.8091397849462365/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887090801:0160/pct:31.731502669717774,59.11839806477624,12.933829138062547,2.8121220266093268/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5369,7 +5369,7 @@ nation to overweigh the train ot
 evils (lowing from paper circula­  
 tion. .1 eft’er&#x27;son&#x27;s works, v. (i, p 237.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887090801:0160/pct:31.73755483501812,62.68817204301075,12.931527751287431,12.150537634408602/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887090801:0160/pct:31.731502669717774,62.67974734578686,12.933829138062547,12.152264480580568/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5394,7 +5394,7 @@ stitute for it pii|a*r. with all it&#x27; train of evils,
 moral, political ami phi sical, which I will  
 not protend to enumerate.’’- .JetFersoii’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887090801:0160/pct:31.7947739843601,75.21505376344086,12.740797253480832,4.462365591397849/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887090801:0160/pct:31.788710907704044,75.20494557183174,12.743135011441648,4.465125655153877/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5413,7 +5413,7 @@ capital may be produced by indus­
 try, mid accumulated by economy;  
 but only propose to creat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887091501:0163/pct:42.083644510828975,67.38249594813614,12.37864077669903,2.2015126958400866/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887091501:0163/pct:42.07578868769834,67.373396353815,12.380996826582042,2.2045914922349765/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5449,7 +5449,7 @@ nation to overweigh the train ot
 evils (lowing from paper circula­  
 tion.—Jefferson’s works, v. fi, p‘237
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887091501:0163/pct:42.064973861090365,70.92112371690978,12.41598207617625,12.142085359265263/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887091501:0163/pct:42.05712152324062,70.91154625253208,12.41833115549748,12.143821742066171/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5466,7 +5466,7 @@ tion.—Jefferson’s works, v. fi, p‘237
 capital may be produced by indus­  
 try , and aeeiiniulated by economy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887092201:0167/pct:55.29323590031853,67.20757268424612,12.403972269065017,1.6362407031778228/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887092201:0167/pct:55.28287748220307,67.19848566792861,12.406331959535407,1.6393996755002704/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5502,7 +5502,7 @@ nation to overweign the train of
 evils flowing from paper circula­  
 tion.—Jefferson’s works, v. ft, p2.17
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887092201:0167/pct:55.03091624508151,70.70993914807302,12.797451751920555,12.129817444219068/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887092201:0167/pct:55.02060696890221,70.70037858301785,12.799737729486699,12.131557598702/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5526,7 +5526,7 @@ stitute for it paper. with all its train of evil*,
 morn), political and physical, which l will  
 hot protend to enumerate/1- .letferso
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887092201:0167/pct:55.368184373243395,83.20486815415822,12.478920741989882,4.4489519945909395/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887092201:0167/pct:55.35781191457475,83.19361817198485,12.48126639190708,4.451730665224446/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5556,7 +5556,7 @@ minimum of ten millions and
 strengthens out respect for that  
 estimate. * • • From eight t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887092201:0168/pct:19.654714475431607,67.55205552589429,12.824890912540315,10.477843032568073/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887092201:0168/pct:19.650986342943856,67.5430401708261,12.827200303490137,10.479781129053784/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5575,7 +5575,7 @@ try, and accumulated by economy;
 but juijylvrs only propose to create  
 it by legerdemain tricks with pa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887092901:0171/pct:56.11577964519141,67.10330857528697,12.380952380952381,2.7548953409858203/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887092901:0171/pct:56.105302464525764,67.09424790710234,12.383308439133682,2.757899000810154/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5621,7 +5621,7 @@ stitute for it paper, with all it* train of evil*,
 moral, political and physical. which l will  
 not pretend to enumerate.”—.letl&#x27;ersun’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887092901:0171/pct:56.11577964519141,70.64145847400405,12.530345471521942,16.853477380148547/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887092901:0171/pct:56.105302464525764,70.63192006481232,12.532673637042569,16.854577369700245/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5668,7 +5668,7 @@ stitute for it paper, with nil its train of evils,
 moral, political and physical, which I wit!  
 not pretend to c*miinerato/,*-.Jetft,rson&gt;i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887100601:0175/pct:57.09166352319879,70.84457636265515,12.655601659751037,16.851052347544524/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887100601:0175/pct:57.080897605129174,70.83501956023203,12.657929473882708,16.85215162552273/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5687,7 +5687,7 @@ try, mid accumulated by economy;
 but jui/ylrrn only propose to create  
 it by legerdemain tricks with pa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887101301:0179/pct:55.04169825625474,66.77911213061665,12.8316906747536,2.8336256915396034/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887101301:0179/pct:55.03126776577601,66.77010253642742,12.833996588971006,2.836616297895305/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5722,7 +5722,7 @@ ously, and too unimportant to the
 nation to overweigh the train of  
 i evils flowing from paper circula
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887101301:0179/pct:55.04169825625474,70.39535825124814,12.88855193328279,11.523411145594388/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887101301:0179/pct:55.03126776577601,70.38586076632488,12.890847072200113,11.525229357798166/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5746,7 +5746,7 @@ stitute for it paper, with all its train of evils,
 moral, political mid physical, which 1 will  
 not protend to enumerate.&#x27;9—detterson’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887101301:0179/pct:55.04169825625474,82.57994872486844,12.964366944655042,4.614761840507354/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887101301:0179/pct:55.03126776577601,82.56880733944953,12.966647716505591,4.617512142471668/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5765,7 +5765,7 @@ try, and accumulated by economy;
 but juyylax only propose to create  
 it by legerdemain tricks with pa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887102001:0183/pct:55.905810862134445,67.14825816905211,12.590201291302696,2.7815284904131783/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887102001:0183/pct:55.89519650655022,67.13919265559606,12.592557433073855,2.7845281490481977/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5801,7 +5801,7 @@ ously, ami too unimportant to the
 nation to overweigh the train of  
 evils Mowing from paper circula
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887102001:0183/pct:55.8108621344474,70.83445854712396,12.742119255601976,11.558196057250878/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887102001:0183/pct:55.80026580596165,70.82489536924531,12.74444655401557,11.560010800594032/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5825,7 +5825,7 @@ its saving |lowers in time of war, and to suh­
 moral, political and physical. which I will  
 not pretend to unnmeyalo.’’--.letf’erson’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887102001:0183/pct:55.98176984428409,83.31082905752093,12.666160273452336,4.401836348906293/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887102001:0183/pct:55.97114106702107,83.29958147698123,12.668501993544712,4.404617253948968/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5861,7 +5861,7 @@ ously, and too unimportant to the
 nation to o\erweigh tlie train ot  
 evils Mowing from papm circula
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887102601:0187/pct:55.0531914893617,71.09850020267531,12.93693009118541,11.538981218754222/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887102601:0187/pct:55.042735042735046,71.08889489327208,12.939221272554606,11.540799783842205/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5880,7 +5880,7 @@ try, and accumulated by economy;
 Uutjuyylers only propose to create  
 it by legerdemain tricks with pa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887110201:0191/pct:56.40589569160998,67.14673913043478,12.585034013605442,2.7717391304347827/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887110201:0191/pct:56.395238994898925,67.13761717157995,12.587379557906669,2.774758864284744/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5927,7 +5927,7 @@ stitute for it paper, with all its train of evil#,
 moral, political and physical, which l will  
 not pretend to enumerate.*’—Jefferson&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887110201:0191/pct:56.42479213907785,70.8288043478261,12.717309145880574,17.03804347826087/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887110201:0191/pct:56.41413187228415,70.81918217633473,12.71962969960325,17.03912511886972/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5947,7 +5947,7 @@ try, and accumulated by economy;
 but jui/t/lci-H only propose to create  
 it by legerdemain tricks with pa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887110901:0195/pct:55.36830145805719,67.68143517260125,12.55444044688506,2.8132644740418593/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887110901:0195/pct:55.357819007951534,67.67223807582552,12.556796667928815,2.816279385786112/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5982,7 +5982,7 @@ ously, and too unimportant to the
 nation to overweigh the train ot  
 evils (lowing from paper ciicula
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887110901:0195/pct:55.387237265669384,71.37809187279152,12.59231206210945,11.66077738515901/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887110901:0195/pct:55.37675123059447,71.36839244462563,12.594661113214691,11.662590025818725/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6006,7 +6006,7 @@ stitute for it paper, w ith all its train of evils
 moral, political and physical, which I wil  
 not pretend to enumerate.’’—Jefferson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887110901:0195/pct:55.500852111342546,84.05816798042946,12.47869721643628,4.41696113074205/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887110901:0195/pct:55.4903445664521,84.04674548172306,12.481067777357062,4.419758119309689/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6041,7 +6041,7 @@ ously, and too unimportant to the
 nation to overweigh the train of  
 evils flowing from paper circula
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887111601:0199/pct:55.54064417177914,71.05764002175096,12.806748466257668,11.636759108210985/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887111601:0199/pct:55.529998083189575,71.04798151420415,12.809085681426106,11.63857550632051/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6065,7 +6065,7 @@ stitute for it pii|M)r. with all its train of evils,
 moral, politieal and physical, which I will  
 not pretend to enumerate.&quot;—Jefferson’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887111601:0199/pct:55.61733128834356,83.605220228385,12.787576687116564,4.418162044589451/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887111601:0199/pct:55.60667050028752,83.59385619138236,12.78991757715162,4.4209596302840835/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6085,7 +6085,7 @@ try, and accumulated by economy:
 tmt jiuijihrx (mil/ propose to create  
 it by legerdemain tricks with pa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887120701:0211/pct:68.90392931002069,64.92808173141552,12.408347433728144,3.616077429762065/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887120701:0211/pct:68.89097744360902,64.91935483870968,12.410714285714286,3.618951612903226/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6121,7 +6121,7 @@ nation to overweigh the train of
 evils (lowing from paper circular  
 tiou. Jell&#x27;ci son’s works, v. t»,p237
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887120701:0211/pct:68.88512878360594,69.44481785186181,12.502350065801842,12.179056324774836/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887120701:0211/pct:68.87218045112782,69.43548387096774,12.5046992481203,12.180779569892474/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6145,7 +6145,7 @@ stitute for it paper, with all its train of evils,
 moral, political and physical, which 1 will  
 not pretend to enumerate.’’—Jelferson’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887120701:0211/pct:68.90392931002069,81.97338351929022,12.483549539387102,4.409194784245194/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887120701:0211/pct:68.89097744360902,81.96236559139786,12.485902255639099,4.411962365591398/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6164,7 +6164,7 @@ I capital may be produced by iudus­
 ! but juyylers only propose to create  
 &#x27;it by legerdemain tiicks with pa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887121401:0215/pct:67.6638719512195,66.68923493568043,12.919207317073171,2.775897088693297/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887121401:0215/pct:67.65098113926462,66.68020579474681,12.921508858830254,2.7789060384511237/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6201,7 +6201,7 @@ ously, and too unimportant to the
 evils Mowing from paper circular  
 tion.—Jefferson’s works, v. 6,p237
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887121401:0215/pct:67.6638719512195,70.37237643872714,12.919207317073171,12.200406228842247/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887121401:0215/pct:67.65098113926462,70.36284863254807,12.921508858830254,12.202139182236664/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6225,7 +6225,7 @@ stitute for it paper, with all it- train of evils,
 moral, politieal and physical, which l wil!  
 not pretend to enumerate.’’—Jcfferson’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887121401:0215/pct:68.04496951219512,82.92484766418416,12.538109756097562,4.441435341909275/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887121401:0215/pct:68.03200609639931,82.91362036284863,12.540483901695561,4.444218792309775/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6262,7 +6262,7 @@ nation to o\erxveigh the train ol
 evils flowing from paper circular  
 tion. Jefferson’s works, v. 6, p*2J7
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888011101:0227/pct:69.5346628679962,70.12269111500606,12.820512820512821,12.147768639611703/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888011101:0227/pct:69.52145841245728,70.11323806956052,12.822825674135967,12.149501213265031/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6286,7 +6286,7 @@ stitute for it paper, with all its train of evils,
 moral, political and physical. wliieli 1 will  
 not pretend t*» enumerate.**- .Jelterson’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888011101:0227/pct:69.5346628679962,82.64797087771336,12.630579297245964,4.395308076041526/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888011101:0227/pct:69.52145841245728,82.63682933405231,12.632928218761869,4.398085737395524/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6322,7 +6322,7 @@ nation to ov erweigh the train of
 evils flowing from paper circular  
 f ion. .1 cfl’erson’s works, v. 0, p 2.’I7.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888011801:0231/pct:68.9010574018127,70.53486797562627,12.726586102719033,12.186865267433987/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888011801:0231/pct:68.88804983953182,70.52531816950989,12.728903152727959,12.188600054156513/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6357,7 +6357,7 @@ ously, and too unimportant to the
 nation to overweigli the train ot  
 I evils flowing from paper circula
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888012501:0235/pct:68.50692468222348,70.54535637149029,12.843862644659458,11.62257019438445/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888012501:0235/pct:68.49393019726858,70.53583479551897,12.846168437025797,11.62437575921177/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6393,7 +6393,7 @@ nation to ovcrweigii the train ol
 evils (lowing from paper circular  
 tion. .1 eft&#x27;erson’s works, v. G,p237
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888020101:0239/pct:68.75353573448992,70.91671173607355,12.502357156326607,12.195781503515414/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888020101:0239/pct:68.74057315233786,70.90712450993647,12.50471342383107,12.197512505069623/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6417,7 +6417,7 @@ stitute for it paper, with all its train of evils,
 moral, polilionl and physical. which I will  
 not protend to enumerate.&#x27;’--Jefferson’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888020101:0239/pct:68.77239298510277,83.58572201189833,12.57778615877805,4.380746349378042/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888020101:0239/pct:68.75942684766214,83.57442206299851,12.580128205128204,4.383533865080438/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6460,7 +6460,7 @@ nation to overweigh the train ol
 evils (lowing from paper circular  
 lion. Jefferson’s works, v. ft. p2.17.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888020801:0243/pct:69.70494267994738,66.1808367071525,12.460063897763579,16.666666666666668/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888020801:0243/pct:69.69184517098834,66.17190662528674,12.462420142803458,16.667791121306166/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6485,7 +6485,7 @@ stitute for it paper, with all it&quot; train of evils,
 moral, political and physical, which I will  
 not pretend to enumerate.**- Jefferson&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888020801:0243/pct:69.74252959969931,83.306342780027,12.497650817515504,4.412955465587045/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888020801:0243/pct:69.72942502818489,83.29510187559033,12.5,4.415733369315882/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6519,7 +6519,7 @@ port ant to the nation to overweigh
 the train of evils flowing from paper]  
 circulation.”—-Jefferson&#x27;s works, v
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888021501:0247/pct:68.92836892836893,70.81643687483104,12.852012852012852,10.962422276290889/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888021501:0247/pct:68.91534391534391,70.80686579267469,12.854308390022675,10.964319502635492/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6544,7 +6544,7 @@ its saving powers in time of war. and to soli
 moral, political and physical, which l will  
 not pretend to enumerate.**—Jefferson&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888021501:0247/pct:68.92836892836893,82.40064882400648,12.833112833112834,4.852662881859962/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888021501:0247/pct:68.91534391534391,82.38951209622923,12.8354119425548,4.855385862954454/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6579,7 +6579,7 @@ the train of ev ils flowing from paper
 circulation.&quot; Jefferson&#x27;s works, v.  
 ti. p. if17.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888022201:0251/pct:68.65783087549,70.96947693962619,12.394997199925331,11.469678633857738/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888022201:0251/pct:68.64501679731244,70.95993546652326,12.397349757372154,11.471497714439366/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6604,7 +6604,7 @@ stitute tot it paper, w ith nil it* train of evil*,
 moral, pi itit-al ami physical, which I will  
 not premia! to enumerate.&quot;—.Jefferson’i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888022201:0251/pct:68.69516520440546,82.80220519026489,12.394997199925331,4.3565954013715205/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888022201:0251/pct:68.68234415826801,82.79107286905082,12.397349757372154,4.359370798601774/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6638,7 +6638,7 @@ portant to the nation to overweigh
 the train of evil- Mowing from paper  
 circulation.&quot; Jefferson&#x27;s works, v
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888022901:0255/pct:66.8293598648395,70.95474687793742,12.727614041674489,10.796293809587754/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888022901:0255/pct:66.81681681681681,70.94522019334049,12.729917417417417,10.798200859291084/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6663,7 +6663,7 @@ its intrinsic solidity, it- nniveisal value, and
 moral, political and phy -ical. which 1 will  
 i not pretend to enumerate.&quot;- .b tt&#x27;er-on’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888022901:0255/pct:66.8293598648395,81.91217940110111,12.746386333771353,5.196723512823956/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888022901:0255/pct:66.81681681681681,81.90118152524168,12.748686186186186,5.19938238453276/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6709,7 +6709,7 @@ stitute for it paper, with all its train of evils,
 moral, politival and physical, which I nil!  
 not pretend to enumerate.&#x27;&#x27;- .Jefferson&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888030701:0259/pct:68.09839167455061,71.49016437617892,12.526017029328287,16.329830234438155/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888030701:0259/pct:68.08550889141128,71.48053347703085,12.528376844494892,16.330998248686516/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6743,7 +6743,7 @@ portant to the nation to overweigh
 the train of evils flowing from paper  
 circulation.&quot; Jefferson’s works, v
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888031401:0263/pct:67.11306676870097,71.48648648648648,12.665008609144826,10.878378378378379/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888031401:0263/pct:67.10022953328233,71.47682745574922,12.667368018362662,10.880286447777328/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6762,7 +6762,7 @@ try. and accumulated by economy,
 hut .it&#x27;uiii.Kns only propose to cre­  
 ate it by legerdemain tricks wit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888032101:0267/pct:67.70174429748897,66.62622995012805,12.650948821161586,2.695781102574471/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888032101:0267/pct:67.68876964354159,66.61725067385444,12.653315446531238,2.6987870619946093/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6808,7 +6808,7 @@ its intrinsic solidity, it-unit, isal value, and
 moral, political and physical, which I will  
 not pretend to enumerate.M—JetlersonV
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888032101:0267/pct:67.56756756756756,70.9394797142472,12.880966072455434,16.336433481601293/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888032101:0267/pct:67.55461862782676,70.92991913746631,12.883288616328095,16.337601078167115/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6843,7 +6843,7 @@ I portant to the nation to merweigh
 the train of evils (lowing from paper  
 circulation.”—Jefferson’s works, v
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888032801:0271/pct:67.83018867924528,71.23195250303603,12.81132075471698,10.86223181756848/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888032801:0271/pct:67.81739294472742,71.22234214786832,12.813620071684587,10.864139233675122/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6867,7 +6867,7 @@ stitute for it paper, with all its train of evils,
 I moral, politiiml and physical, which 1 will  
 not pretrial to enumerate.”—Jetl&#x27;erson’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888032801:0271/pct:67.86792452830188,83.18715423019836,12.79245283018868,4.371879638375388/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888032801:0271/pct:67.85512167515563,83.17593092282785,12.794755706470477,4.374662709120345/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6902,7 +6902,7 @@ portant to the nation to ovcrwcigh
 tiie train of evils (lowing from paper  
 circulation.”—Jeffers m’s works, v
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888040401:0275/pct:67.33993902439025,69.9878657139005,12.576219512195122,10.880409869219362/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888040401:0275/pct:67.32710992570013,69.97843084389324,12.57858639740903,10.882313291992451/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6926,7 +6926,7 @@ and to substitute lor it paper, with all its
 train &lt;-f cvi: -. moral, politir&#x27;a! and physical,  
 vliieh I will not pretend to enumerate.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888040401:0275/pct:67.35899390243902,82.25697721450722,12.557164634146341,4.408790616152083/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888040401:0275/pct:67.34616117355687,82.24588837961714,12.559535149552296,4.411566459962254/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6961,7 +6961,7 @@ the train of ev ils Mowing front paper
 circulation.” Jeffers art&#x27;s works, v.  
 7. p. .i:!7
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888041101:0279/pct:67.53395829347618,69.52483510566698,12.645877176200498,11.46856912101225/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888041101:0279/pct:67.52104055087987,69.51547779273217,12.6482402448355,11.470390309555855/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6986,7 +6986,7 @@ uml to substitute tor it paper, with all its
 train of evils, moral, political and physical,  
 which I will not pretmul to enumerate.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888041101:0279/pct:67.53395829347618,81.78758917754745,12.588482877367515,4.3478260869565215/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888041101:0279/pct:67.52104055087987,81.77658142664872,12.590856924254016,4.350605652759085/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7021,7 +7021,7 @@ the train of evils Hotting from paper
 circulation. &quot;—leffers in’s works, v.  
 7. p. u.H7­
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888041801:0283/pct:67.35355848120588,70.55885529157668,12.76473955352032,11.555075593952484/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888041801:0283/pct:67.34070965280428,70.54933189364287,12.767073636016788,11.556890268592253/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7046,7 +7046,7 @@ and to substitute lor it paper, with all u*
 train of evils, moral, political and physical,  
 which I will not pretend to enumerate.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888041801:0283/pct:67.39171913756917,82.91036717062634,12.974623163518412,4.4006479481641465/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888041801:0283/pct:67.3788630293781,82.89917667701444,12.976917207172836,4.403428262923471/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7080,7 +7080,7 @@ portant to the nation to oicrwciglt
 the train of evils flowing from paper  
 circulation.”- Jeffers.m’s work-, v
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888042501:0287/pct:69.00341038272073,70.65584854631508,12.959454338764683,10.9263015551048/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888042501:0287/pct:68.9903390793711,70.64629529475393,12.961735177116879,10.928204434829638/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7104,7 +7104,7 @@ and to substitute tor it paper, with all its
 train of evils, moral, political and physical,  
 which 1 will not pretend to enumerate.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888042501:0287/pct:69.23076923076923,83.05611899932387,12.637362637362637,4.394861392832995/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888042501:0287/pct:69.21765485887478,83.04488912925906,12.639704489486645,4.397647376960519/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7139,7 +7139,7 @@ rectly or circuitously, and too iiuim­
 the train of evils (lowing from paper  
 circulation.” Jefferson&#x27;s works, v
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888050201:0291/pct:67.49190630356122,70.78681909885675,13.026090268520282,10.894418291862811/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888050201:0291/pct:67.47905559786749,70.77729962345347,13.028370144706779,10.8963152232383/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7163,7 +7163,7 @@ value, and it- saving powers in time of war,
 1 train of evils, moral, political and physical,  
 which l w ill not pretend to enumerate.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888050201:0291/pct:67.49190630356122,83.13382649630128,13.235574176347363,4.398117014122394/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888050201:0291/pct:67.47905559786749,83.12264658418505,13.237814166031988,4.400887573964497/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7208,7 +7208,7 @@ and to substitute tor it paper, with all its
 train of evils, moral, political and physical,  
 v liieh I w ill not pretend to enumerate.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888050901:0295/pct:69.14590070382347,71.01996762007555,12.706867034430283,16.81057744198597/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888050901:0295/pct:69.13275009509319,71.01038715769594,12.709205020920502,16.811682179954136/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7228,7 +7228,7 @@ I but .ii i.i.lkiis only propose to cre­
 ate it by legerdemain tricks with  
 paper.&quot; .leffersons&#x27;s works, Vol
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888051601:0299/pct:68.59440827269246,66.09117885082277,13.040980467253926,3.2775829511734558/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888051601:0299/pct:68.58127512923608,66.08226567768038,13.043270151254069,3.2805124747134187/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7274,7 +7274,7 @@ I and to substitute tor it paper, with all its
 train of evils, moral, political and physical,  
 I whieh I will not pretend to enumerate.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888051601:0299/pct:68.55610877058598,70.54221742649042,13.098429720413634,16.77906663069868/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888051601:0299/pct:68.54298295998468,70.53270397842212,13.10070840513115,16.780175320296696/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7308,7 +7308,7 @@ portant to the nation to overweigi.
 tin1 train of evils (lowing from papei  
 circulation.&quot; .leffcrsm’s works, v
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888052301:0303/pct:68.4572739437966,70.27863777089783,12.94207608487861,10.862834836451743/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888052301:0303/pct:68.44418960244649,70.26917900403768,12.944380733944953,10.864737550471062/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7333,7 +7333,7 @@ and to substitute tor it paper, with all in
 train of evils, moral, politea! and physical  
 which I will not pretend to enumerate.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888052301:0303/pct:68.47639074746702,81.30300174989904,12.922959281208183,5.545833894198411/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888052301:0303/pct:68.46330275229357,81.29205921938089,12.92526758409786,5.548452220726784/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7382,7 +7382,7 @@ try and accumulated by economy, but jugglers
 only will propose to create It by legerdemain  
 tricks with money.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drew_ver02:data:sn86063034:00414182070:1892050101:0262/pct:23.538065465244575,103.77490878473196,15.833026848105922,2.3856300870053326/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drew_ver02:data:sn86063034:00414182070:1892050101:0262/pct:18.247030878859857,80.42776871488128,12.275534441805226,1.848830886351278/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7424,7 +7424,7 @@ Now, Mr. Editor, I submit that in the
 tight of these plain truths Air. Watson owes  
 it to himseif and the people whom he I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drew_ver02:data:sn86063034:00414182082:1892092801:0253/pct:19.886578449905482,9.393459155741247,16.351606805293006,10.315516496182106/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drew_ver02:data:sn86063034:00414182082:1892092801:0253/pct:15.412413927821458,7.280035730236713,12.692288909508228,7.998362364150663/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7504,7 +7504,7 @@ sons might have it, but a general de­
 mand would exhaust their vaults and  
 leave a ruinous proportion of their pape
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn85031982:0028076095A:1893092001:0738/pct:11.70064874884152,24.044508950169327,29.309545875810937,94.14610546686018/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn85031982:0028076095A:1893092001:0738/pct:7.8135868305124045,16.029672633446218,19.54555993507999,62.764070311240125/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7527,7 +7527,7 @@ tation of the subject, these legislatures
 would cede to congress their power of es­  
 tablishing banks, and this should b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn85031982:0028076095A:1893092001:0738/pct:11.886005560704357,128.30188679245282,29.240037071362373,12.64312207708434/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn85031982:0028076095A:1893092001:0738/pct:7.929515418502203,85.53459119496856,19.52237421748203,8.434123528463152/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7592,7 +7592,7 @@ writings, which I commend to the con­
 sideration of the people today  
 in a letter to Dr. Thomas Cooper, Ja
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_hotel_ver02:data:sn86071158:00206536536:1893100101:0275/pct:183.27526132404182,248.40918244059606,54.00696864111498,53.96697543294402/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_hotel_ver02:data:sn86071158:00206536536:1893100101:0275/pct:45.818815331010455,62.102295610149014,13.501742160278745,13.491743858236005/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7645,7 +7645,7 @@ to represent any partienlar article of pro
 duce than in the other countries.  
 The best possible standard value
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_hotel_ver02:data:sn86071158:00206536536:1893100101:0274/pct:326.06324972737184,221.7006382540663,49.94547437295529,66.79019971175623/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_hotel_ver02:data:sn86071158:00206536536:1893100101:0274/pct:81.58253751705321,55.42515956351657,12.496589358799454,16.697549927939058/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7731,7 +7731,7 @@ that letter were to bank issues and not
 to treasury notes. His strong prefer­  
 ence for the latter we will show b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_belair_ver01:data:sn89060136:00279522564:1893101301:0412/pct:6.82964687621265,70.95886442641947,15.948777648428406,52.67960602549247/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_belair_ver01:data:sn89060136:00279522564:1893101301:0412/pct:5.302992331211468,54.99719363891487,12.360282692596863,40.834424695977546/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7767,7 +7767,7 @@ instead of paying, they receive
 interest on what they owe from  
 those whom they owe.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_belair_ver01:data:sn89060136:00279522564:1894092101:0617/pct:38.91073535194652,97.1519907003778,15.98505701926858,10.60738157512351/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_belair_ver01:data:sn89060136:00279522564:1894092101:0617/pct:30.165583096302317,75.30030030030031,12.383177570093459,8.228228228228229/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7863,7 +7863,7 @@ hereafter. An Old Democrat.
   
 The Chicago Searchlight, Henry Vi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn85032018:00280760961:1895031301:0804/pct:81.4430501930502,49.1694887921303,31.153474903474905,91.79164650862764/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn85032018:00280760961:1895031301:0804/pct:54.32158377595365,32.78503467182713,20.787059391598262,61.19980648282535/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7898,7 +7898,7 @@ it is too high into parts where it is
 jower.&quot; Gold is the common measure  
 of value of the people with whom w
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_india_ver02:data:sn86071158:0020653638A:1895091101:0873/pct:113.67323290845887,341.95317443577306,51.91193511008111,19.405188778738662/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_india_ver02:data:sn86071158:0020653638A:1895091101:0873/pct:28.426543031005505,85.48829360894327,12.981744421906694,4.8512971946846655/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7922,7 +7922,7 @@ flowing out from where it is too high
 into parts where it is lower.&quot; Gold is  
 the common measure of value of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_audi_ver01:data:sn86088296:00200297507:1895091201:1053/pct:49.668727915194346,105.0223053676788,19.45671378091873,6.0440351129658945/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_audi_ver01:data:sn86088296:00200297507:1895091201:1053/pct:37.28176795580111,78.77392430565548,14.607734806629834,4.533026334724421/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7955,7 +7955,7 @@ eral level, flowing out from where it is too high
 into parts where it is lower.&quot;  
 Lroiu is tne common measure oi value or tn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_hobbs_ver01:data:sn84024283:00294556874:1895091901:0527/pct:74.07957244655582,82.24021900307973,15.914489311163896,3.9123987681076766/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_hobbs_ver01:data:sn84024283:00294556874:1895091901:0527/pct:55.58360558360558,61.68586745751112,11.93941193941194,2.931447473480096/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7978,7 +7978,7 @@ keep itself on a general level, flowing
 out from where it is too high into parts  
 where it is lower. ’ Gold is the commo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_frederick_ver03:data:sn89060092:00279521882:1895092001:0338/pct:57.737975447776215,56.12675098599211,16.66331253773395,5.9703522371821025/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_frederick_ver03:data:sn89060092:00279521882:1895092001:0338/pct:44.75175461398492,43.505603766293085,12.919157785287236,4.630573024628465/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8002,7 +8002,7 @@ out from where it is too high into parts
 where it is lower. &#x27; Gold is the common  
 measure of value of tho people wit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_detroit_ver02:data:sn96077385:00296023619:1895092001:0041/pct:54.79299363057325,98.44908968307485,20.50955414012739,8.22656776803776/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_detroit_ver02:data:sn96077385:00296023619:1895092001:0041/pct:36.53448001274088,65.63272645538324,13.680522376174551,5.484378512025174/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8026,7 +8026,7 @@ out from whoro it is too high into parts
 where it is lower.&#x27; Gold is tho common  
 tnoosnroof value of tho people wit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_orange_ver01:data:sn85025715:00175031509:1895092001:0814/pct:2.383053839364519,52.52415082580243,13.486319505736981,6.622000623247118/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_orange_ver01:data:sn85025715:00175031509:1895092001:0814/pct:2.3889379229185055,52.53453827776047,13.486319505736981,6.622000623247118/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8049,7 +8049,7 @@ keep itself on a general level, flowing
 out from where it is too high into parts  
 where it is lower. &#x27; (?old is the commo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ozzyosbourne_ver01:data:sn85026941:00175034018:1895092001:0360/pct:28.351681496003618,37.07781103035485,11.506560096516363,4.350149636596837/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ozzyosbourne_ver01:data:sn85026941:00175034018:1895092001:0360/pct:28.351681496003618,37.07781103035485,11.511586990398632,4.357275188827134/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8105,7 +8105,7 @@ keep itself on a general level, flowing
 out from where it is too high into parts  
 where it is lower. ’ Gold is the commo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn89051168:00393343047:1895100201:0117/pct:14.44399677679291,65.148158404874,14.726027397260275,5.081694821379119/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn89051168:00393343047:1895100201:0117/pct:14.441087613293051,65.13913886196872,14.72809667673716,5.0844524435829985/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8129,7 +8129,7 @@ on a general level, flowing out from
 where it is too high iuto parts where  
 it is lower.’ Gold is the commo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kump_ver01:data:sn84026784:004141867110:1895100201:0173/pct:32.85827395091053,53.525398028809704,12.604908946951703,5.122928625582151/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kump_ver01:data:sn84026784:004141867110:1895100201:0173/pct:32.853071564281194,53.51960147281785,12.608190838083175,5.125983683488557/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8176,7 +8176,7 @@ keep itself on a general level, flowing
 out from where it is too high into parts  
 where it is lower. ’ Gold is the commo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_alvarez_ver01:data:sn84026688:00296029956:1895100301:0518/pct:43.65473539989724,67.50725003152188,11.782839527316321,4.425671415962678/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_alvarez_ver01:data:sn84026688:00296029956:1895100301:0518/pct:43.66615288005937,67.51145294834615,11.782839527316321,4.429874332786954/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8199,7 +8199,7 @@ keep itself on a general level, flowing
 out from where it is too high into parts  
 where it is lower.’ Hold is’ the commo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_lucretia_ver01:data:sn86086852:00271768953:1895100301:0730/pct:63.7093536732236,84.05420202573228,18.265756724207147,6.364631809471667/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_lucretia_ver01:data:sn86086852:00271768953:1895100301:0730/pct:49.38553279751102,65.14974718008557,14.166450609281826,4.929104345673774/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8223,7 +8223,7 @@ on a general level, flowing out from
 where it is too high into parts where  
 it is lower.’ Gold is the commo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_irving_ver01:data:sn89060124:00415625698:1895100401:0182/pct:32.19353735681313,53.76682178342347,11.899469994870918,4.967928562444976/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_irving_ver01:data:sn89060124:00415625698:1895100401:0182/pct:32.19923633669573,53.77520647298034,11.905168974753519,4.9721209072234105/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8264,7 +8264,7 @@ where it is lower Gold is the common
 measure i f value of the people with  
 Whom we carry on nine tenths of on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_batman_ver01:data:sn86069161:00100481881:1895100901:0640/pct:91.09783845278726,35.624417520969246,12.85551763367463,15.738583410997204/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_batman_ver01:data:sn86069161:00100481881:1895100901:0640/pct:68.34992887624466,26.724137931034484,9.644381223328592,11.80102516309413/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8333,7 +8333,7 @@ keep itself on a general level, flowing
 out from where it is too high into parts  
 where it is lower.&#x27; Gold is the commo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn89066818:00200292339:1895101201:0319/pct:51.87605396290051,84.53667675457558,17.811973018549747,6.22568093385214/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn89066818:00200292339:1895101201:0319/pct:38.92872205820329,63.409713215160686,13.369886123998313,4.669260700389105/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8357,7 +8357,7 @@ out from whore it is too high into parts
 where it is lower.&#x27; Gold is tho common  
 measure of value of tho peoplo wit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_green_ver01:data:sn87093220:00200290318:1895101701:0420/pct:67.68720029509406,66.81614349775785,12.025082995204722,5.082212257100149/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_green_ver01:data:sn87093220:00200290318:1895101701:0420/pct:67.70103282921431,66.81614349775785,12.029693839911472,5.085609457806767/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8380,7 +8380,7 @@ keep itself ou a general level, flowing
 out from whero it is too high into parts  
 where it is lower.&#x27; Gold is the commo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_green_ver01:data:sn87093220:00200290318:1895110701:0433/pct:47.58391737366286,63.20152194591657,11.895979343415714,4.525071341214839/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_green_ver01:data:sn87093220:00200290318:1895110701:0433/pct:47.597749907783104,63.20491914662318,11.895979343415714,4.525071341214839/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8404,7 +8404,7 @@ out from where it is too high into parts
 where it is lower.&#x27; Gold is the common 1  
 measure cf value of the people wit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_green_ver01:data:sn87093220:00200290318:1895111401:0437/pct:59.12947251936555,56.189699687457534,12.689044632976762,5.109389862753091/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_green_ver01:data:sn87093220:00200290318:1895111401:0437/pct:59.1433050534858,56.189699687457534,12.679822943563261,5.119581464872945/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8439,7 +8439,7 @@ of w’hich they have given us two hundred
 millions of froth and bubble on which we  
 are to pay them a heavy interest.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346812:1896031101:0497/pct:44.455266453318494,64.8040482342808,11.966049812160845,5.0818260120585705/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346812:1896031101:0497/pct:44.45990445712165,64.8040482342808,11.966049812160845,5.085414872236577/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8463,7 +8463,7 @@ out from whero it is too high into parts
 Where it is lower.&#x27; Gold is tho common  
 measure of value of tho people wit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_green_ver01:data:sn87093220:00200290318:1896032601:0512/pct:51.70232558139535,45.9367792701126,12.093023255813954,5.0332383665717/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_green_ver01:data:sn87093220:00200290318:1896032601:0512/pct:51.70697674418604,45.94017094017094,12.106976744186046,5.046805046805047/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8487,7 +8487,7 @@ out from whero it is too high into parts
 where it is lower.&#x27; Gold is tho common  
 measure of value of tho peoplo wit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_green_ver01:data:sn87093220:00200290318:1896040201:0516/pct:53.89767441860465,46.465879799213134,12.111627906976745,5.046805046805047/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_green_ver01:data:sn87093220:00200290318:1896040201:0516/pct:53.902325581395345,46.46927146927147,12.130232558139534,5.046805046805047/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8540,7 +8540,7 @@ abused, has been, is and forever will be
 abused in every country in which it is  
 permitted.&quot; Yet Mr. Johnson quote
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665593:1896041501:0461/pct:22.137317518248175,74.4656622284513,16.640054744525546,25.88472319551507/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665593:1896041501:0461/pct:16.611523103251567,55.851436580238264,12.481460353679406,19.41135248773651/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8687,7 +8687,7 @@ more of it is required to represent any particu­
 lar article of jiroduce than in the other coun­  
 tries. It may be seen, therefore, that Jefferson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_carlsbad_ver01:data:sn85066387:00175037421:1896083001:0541/pct:56.748564135290366,23.153342683496962,13.43331206126356,8.824216923796167/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_carlsbad_ver01:data:sn85066387:00175037421:1896083001:0541/pct:56.75388215273346,23.153342683496962,13.443948096149756,8.835904628330995/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8805,7 +8805,7 @@ have given us two hundred millions of
 froth and bubble on which we are to pay  
 them heavy interest.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_belair_ver01:data:sn89060136:00279522576:1897061101:0335/pct:22.280701754385966,89.4744399770247,15.964912280701755,8.07007466973004/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_belair_ver01:data:sn89060136:00279522576:1897061101:0335/pct:17.27263571356632,69.3474793189153,12.37284721522812,6.2618243869866825/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8847,7 +8847,7 @@ In another letter Mr. Jefferson said:
 &quot;The power to issue money should be  
 taken from the banks and restored t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_garfield_ver01:data:sn89067274:00294556977:1898020301:0652/pct:23.669018601667737,45.55019185542765,13.293778062860808,10.768659487560342/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_garfield_ver01:data:sn89067274:00294556977:1898020301:0652/pct:17.760308037862988,34.16264389157074,9.979143269693566,8.082683500433221/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8894,7 +8894,7 @@ ver because we may nave Silver for it
 at the bank where it issue This1s not  
 truA
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_dantley_ver01:data:sn85058130:00206534825:1899032201:0211/pct:23.873148744365743,5.3315260363718515,40.48615582743078,137.8515757370383/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_dantley_ver01:data:sn85058130:00206534825:1899032201:0211/pct:15.928490900306008,3.558115892917655,27.009180222258014,91.89728528935578/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8946,7 +8946,7 @@ si&#x27;ver not locked tip in vaults and
 hoards and depreciates itself.&quot;  
 It is evident that as a believer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_irmookrastrut_ver01:data:sn84026900:0029586199A:1899040801:0210/pct:63.3991192301419,52.73069679849341,20.045669548197683,22.4105461393597/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_irmookrastrut_ver01:data:sn84026900:0029586199A:1899040801:0210/pct:63.40455608111782,52.73069679849341,20.051106399173598,22.418392969240426/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8981,7 +8981,7 @@ spending nations , whose medium Is In ji
 sound state. &quot; Ho had no demagogic  
 notion about &quot;financial independence , 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_beatrice_ver01:data:sn99021999:00206538934:1899041301:0905/pct:22.81121751025992,26.172138900148628,16.176470588235293,16.30860694500743/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_beatrice_ver01:data:sn99021999:00206538934:1899041301:0905/pct:17.122819021553198,19.632482097013916,12.127950735545673,12.228077286853129/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9021,7 +9021,7 @@ cut from where it is too high into parts
 where it is lower.  
 Those who favor the Bryan scheme o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_beveridge_ver01:data:sn82015679:00295871908:1899041401:0442/pct:39.314882032667875,68.7867678403956,16.583484573502723,16.57430300963424/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_beveridge_ver01:data:sn82015679:00295871908:1899041401:0442/pct:29.49517867271696,51.5900758802967,12.433352240499149,12.439253133259442/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

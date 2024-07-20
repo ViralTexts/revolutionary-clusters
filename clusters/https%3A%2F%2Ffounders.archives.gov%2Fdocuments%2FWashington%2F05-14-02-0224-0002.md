@@ -463,7 +463,7 @@ between these places is now opening, if not completed; from
 the Great-Falls to tide water, following the course of the river,  
 is fourteen miles, and by land only eleven ; from the Great-Fall
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790011301:0004/pct:9.378806333739343,62.803811005249855,27.22289890377588,23.87711452459654/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790011301:0004/pct:9.386419001218027,62.80867198133385,27.22289890377588,23.886836476764536/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -490,7 +490,7 @@ ty-four miles. Opecan, one hundred and five miles be ow, is
 navigable twenty-five miles from its mouth, and within a ew  
 miles of Winchester, a flourifhing inland town. anarx
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790011301:0004/pct:9.987819732034104,5.580400544429321,53.440925700365405,88.1197744507097/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790011301:0004/pct:9.99543239951279,5.580400544429321,53.448538367844094,88.1392183550457/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -513,7 +513,7 @@ merica, if any in the world ; perhaps no part of America can
 boast of being more healthy than the Potomack in general ; and  
 we have been more aftoniftied at the objections which have bee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790011301:0004/pct:36.78440925700365,9.410849698619483,26.796589524969548,5.774839587789228/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790011301:0004/pct:36.79202192448234,9.415710674703481,26.827040194884287,5.784561539957223/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -537,7 +537,7 @@ is «yi inexhaustible quantity near Cumberland, convenient to wa­
 ter carriage, from whence the towns in future may be tupplied—  
 With regard to fifh the ir plenty is too well known to require 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790011301:0004/pct:37.119366626065776,22.068831421349408,26.827040194884287,6.474820143884892/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790011301:0004/pct:37.119366626065776,22.068831421349408,26.827040194884287,6.47968111996889/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -562,7 +562,7 @@ equally exposed, for about the fame distance ; the middle of the
 channel there is not more than two hundred yards from the point.  
 Having now enumerated the particular advantages of the Po
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790011301:0004/pct:37.241169305724725,29.671398016721756,26.887941534713764,7.058137273964612/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790011301:0004/pct:37.256394640682096,29.671398016721756,26.872716199756393,7.072720202216605/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -627,7 +627,7 @@ the year one thousand eight hundred, the feat of the government
 of the United States shall, b/ virtue of th;, atl, be transferred to  
 tbe dift.ift and place afor&#x27;faid, and ail offices at ached to the fa 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790071701:0003/pct:36.0132490213791,20.239732756926706,26.558265582655828,32.34427195912753/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790071701:0003/pct:36.02830472749172,20.239732756926706,26.565793435712134,32.35409707211633/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -648,7 +648,7 @@ should include the town of Baltimore,
 in lieu thereof. This motion brought  
 on a debate, which lasted until a?te
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790072201:0630/pct:12.888677901732732,30.615826419910658,20.294327082838834,5.615826419910658/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790072201:0630/pct:12.896589920088614,30.62646245479685,20.294327082838834,5.605190385024463/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1004,7 +1004,7 @@ be defrayed out of the duties on im­
 posts and:tonnage, of which a fuffici­  
 ent sum is hereby appropriated
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790101401:0677/pct:3.697478991596639,13.34303736050461,42.56902761104442,78.87756752385573/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790101401:0677/pct:3.705482192877151,13.348428486710874,42.57703081232493,78.87756752385573/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1039,7 +1039,7 @@ mouth of the Eastern Branch, be and is
 hereby repealed, and it shall be lawful  
 for the President
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791051201:0799/pct:28.065526379185737,67.724445861904,20.597446398458203,17.39754425131558/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791051201:0799/pct:28.073556572713404,67.7297613352469,20.605476591985866,17.40285972465848/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1113,7 +1113,7 @@ of thii State: Provided, That no foreigner JhaUy
 in virtue hereof, be entitled to any further or othct  
 privilege of a citizen,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793011901:0003/pct:51.72004744958482,86.2989670629507,19.63226571767497,7.893198206977197/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793011901:0003/pct:51.73487544483986,86.2989670629507,19.61743772241993,7.893198206977197/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1164,7 +1164,7 @@ mory, and embarrass their practice.
   
 Pncc, to Subscribers, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793012301:0001/pct:8.365470186888164,65.19955240581872,19.37110649658855,21.484520701230885/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793012301:0001/pct:8.372886383862355,65.19955240581872,19.37852269356274,21.498508019395747/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1196,7 +1196,7 @@ rpHE Suhfcribers having been appointed a
 X committee of the Board of theTrufteesof  
 the University of North-Carolina, for the pur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793013001:0004/pct:29.924242424242426,65.97222222222223,20.549242424242426,12.114197530864198/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793013001:0004/pct:29.940025252525253,65.98186728395062,20.54135101010101,12.119020061728396/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1223,7 +1223,7 @@ of thu State: Provided, That no foreigner
 in virtue hereof be entitled to any further or other  
 privilege of a citize
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793020201:0001/pct:8.484493856056174,65.02527616551208,19.338794616734933,7.3020033701554015/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793020201:0001/pct:8.49912229373903,65.03463770829433,19.35342305441779,7.320726455719902/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1250,7 +1250,7 @@ hts heirs or relations, as if he and they were citizen r
 in virtue hereof be entitled to anyfuither or other  
 privilege of a citizen.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793020601:0001/pct:8.071216617210682,81.52031454783749,19.16913946587537,7.3020033701554015/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793020601:0001/pct:8.09347181008902,81.53435686201085,19.16913946587537,7.297322598764277/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1276,7 +1276,7 @@ of this State: Provided, That no foreigner J.&#x27;hall,
 in virtue hereof, be entitled to any further or other  
 privilege 0f # citize
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793020901:0004/pct:52.212661339889365,14.823747680890538,19.791026429010447,7.346938775510204/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793020901:0004/pct:52.2280270436386,14.833024118738404,19.783343577135835,7.365491651205937/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1303,7 +1303,7 @@ of this State : Provided, That no foreigner shall,
 in virtue hereof, be entitled to any further or other  
 privilege of a citizen,&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793021301:0004/pct:56.3928350833848,61.16287737607156,20.012353304508956,7.528885575847932/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793021301:0004/pct:56.3928350833848,61.167536339918,20.027794935145153,7.528885575847932/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1343,7 +1343,7 @@ country of Maryland and Virginia,&#x27;for many
 miles ; about 45 or 50 acres of Land) lying dt­  
 re£lly ou the river, will he fold, with the im
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793021601:0004/pct:31.59528243327126,15.681902638424377,20.391061452513966,14.45559271646228/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793021601:0004/pct:31.59528243327126,15.691192865105908,20.391061452513966,14.460237829803047/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1372,7 +1372,7 @@ of thi, State; Provided, Thai no foreigner {hall,
 in virtue hereof b, entitled to any fu, the, or other  
 privilege of a citieen.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793022001:0004/pct:52.90519877675841,83.83177570093459,20.428134556574925,9.439252336448599/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793022001:0004/pct:52.91284403669725,83.84579439252336,20.45107033639144,9.453271028037383/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1402,7 +1402,7 @@ of thit Statt: Provided, That no foreigner f/iatly
 in virtue hereof , be entitled to any further or other  
 privilege of a citize
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793022301:0004/pct:53.1038721573448,61.9496855345912,19.698832206515057,9.156492785793562/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793022301:0004/pct:53.1038721573448,61.958934517203105,19.706515058389673,9.156492785793562/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1428,7 +1428,7 @@ of tills State : Piovidfd, That no foreigner
 T&quot; virtue hereof, be entitled to any further or oth&#x27;r  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793022701:0004/pct:75.04643962848297,15.844155844155845,19.318885448916408,6.975881261595547/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793022701:0004/pct:75.06965944272446,15.844155844155845,19.311145510835914,6.989795918367347/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1470,7 +1470,7 @@ ceiving them in America,
 RESOLVED, That any proprietor of the  
 Capital Stock of the Bank of the United State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793030201:0004/pct:51.03721781574131,41.24127800220345,20.0732153752288,14.4693352919574/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793030201:0004/pct:51.05247101891397,41.25045905251561,20.0732153752288,14.487697392581712/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1498,7 +1498,7 @@ tfthi, State: Provided, That no foreigner /b*U,
 in Virtue hereof, be (ntit/ed to any further or other  
 privilege of « citizen.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793030601:0004/pct:11.314984709480122,58.584169453734674,19.69418960244648,8.56558900037161/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793030601:0004/pct:11.337920489296636,58.5934596804162,19.686544342507645,8.560943887030843/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1531,7 +1531,7 @@ AT a general meeting (by adjournment} of
 the Insurance Company of   
 on Wedncfday the 16th inllant,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793030901:0004/pct:77.03363914373088,71.56680312616301,18.837920489296636,11.276516561220692/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793030901:0004/pct:77.04128440366972,71.580759211016,18.86085626911315,11.276516561220692/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1560,7 +1560,7 @@ o/thii State : Provided, That no foreigner shall,
 \n Virtue hereof be entitled to any further or other  
 privilege of a citizen.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793031301:0004/pct:11.922365988909426,67.34276144398957,19.839802834257547,8.708596948269445/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793031301:0004/pct:11.93776956253851,67.34276144398957,19.832101047443008,8.722553033122441/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1589,7 +1589,7 @@ of thu State : Provided, That no foreigner flail,
 in virtue hereof be entitled to any further or other  
 privilege of &amp;citize
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793031601:0004/pct:31.191806331471135,28.608534322820038,20.11173184357542,8.7012987012987/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793031601:0004/pct:31.191806331471135,28.617810760667904,20.135009310986966,8.696660482374767/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1620,7 +1620,7 @@ Insurance Company.
 AT a general meeting (by adjournment) ofj  
 the Insurance Company of North-America
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793032001:0004/pct:9.09899229401304,62.23191566703017,19.590989922940132,10.468920392584515/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793032001:0004/pct:9.09899229401304,62.23191566703017,19.605809128630707,10.478007997091966/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1646,7 +1646,7 @@ of this State : Provided, That no foreigner Jhall,
 in virtue hereof, be entitled to any further or other  
 privilege of a citize
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793032301:0004/pct:10.43822276323798,61.74953959484346,19.841752891052952,7.16390423572744/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793032301:0004/pct:10.461046865489957,61.75414364640884,19.841752891052952,7.177716390423573/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1674,7 +1674,7 @@ if thii State i Provided, That no foreigner Jhall,
 \n virtue hereof be entitled to any further or other  
 Itivilegetya citizen/*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793032701:0004/pct:12.293071735131821,82.82231252308829,19.589209074187615,8.625785001847063/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793032701:0004/pct:12.308399754751687,82.83616549685999,19.589209074187615,8.61193202807536/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1701,7 +1701,7 @@ his heirs or relations, as if he and they were citizen f
 in virtue hereof \ be entitled to any further or other  
 privilege of* citizcn.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793033001:0004/pct:10.685608400247066,53.53834753612449,20.074119827053735,7.391626528343831/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793033001:0004/pct:10.685608400247066,53.542978881067064,20.09728227300803,7.396257873286403/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1729,7 +1729,7 @@ of thti Stat* : Proved,, That no&#x27; foreignirjhall,
 in virtue hereof, be entitled to any further or other  
 privilege of * citizen.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793040301:0004/pct:12.844036697247706,64.18793932667407,19.571865443425075,8.472068072512023/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793040301:0004/pct:12.859327217125383,64.18793932667407,19.579510703363916,8.47669256381798/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1769,7 +1769,7 @@ Thomas Dobson, of the said DistriCt, hath dr.
 pofitcd in tins Office, the Title of a Book, the  
 Right whereof he claims as Proprietor, in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793041301:0004/pct:56.89655172413793,24.86208164766458,20.282131661442005,14.012504597278411/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793041301:0004/pct:56.90438871473354,24.866678926075764,20.29780564263323,14.012504597278411/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1797,7 +1797,7 @@ of thii State : Provided, That no foreigner
 in virtue hereof be entitled ta any further or othtf  
 privilege of a citize
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793042401:0004/pct:77.04363859864782,84.81714074621352,19.45298094652735,8.736608792020688/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793042401:0004/pct:77.05900430239706,84.82175840413743,19.45298094652735,8.74584410786849/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1826,7 +1826,7 @@ of thu State : Provided, That no foreigner (hall,
 m virtue hereof, be entitled to any further or other (  
 privilege of u citizen.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793050101:0004/pct:33.34373050530256,12.743297833272127,20.679975046787273,8.575100991553434/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793050101:0004/pct:33.34373050530256,12.752478883584281,20.70336868371803,8.565919941241278/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1854,7 +1854,7 @@ of thi) State : Provided, That no foreigner fltall,
 in virtue hereof, be entitled to anyfutther or other  
 privilege of. a citize
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793051501:0004/pct:56.34771732332708,66.90821256038647,20.825515947467167,8.825715347454478/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793051501:0004/pct:56.35553470919324,66.91285767372725,20.833333333333332,8.821070234113712/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1881,7 +1881,7 @@ of thi\ State : Provided, That no foreigner shall,
 in virtue hereof be entitled to any further or other  
 privilege of a citizen.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793052501:0004/pct:11.54309825195901,82.2064703744093,20.01205545509343,7.088331515812432/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793052501:0004/pct:11.565702230259193,82.21555797891676,20.004520795660035,7.1065067248273355/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1907,7 +1907,7 @@ of thii State : Provided, That no foreigner fhally
 in virtue hereof be entitled to any further or other   
 privilege of a citize
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793052901:0004/pct:74.43700547778454,13.48210992253781,19.65916007303713,7.15603098487643/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793052901:0004/pct:74.43700547778454,13.48210992253781,19.66676810712112,7.169863518996681/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1934,7 +1934,7 @@ in virtue hereof, be entitled to any fmthei or other
 privilege 0/ * citizen.&#x27;*  
 tf
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793060801:0004/pct:31.40625,85.8424336973479,20.46875,8.170826833073322/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793060801:0004/pct:31.40625,85.8424336973479,20.484375,8.175702028081123/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1957,7 +1957,7 @@ zen o.f this State ; and the Jame lands in&amp;x be con­
 veyed by him, and transmitted to and be inherited by  
 1c I 1
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793061201:0001/pct:27.377696748708598,45.77751892836343,19.99392281981161,5.1640458163463405/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793061201:0001/pct:27.38529322394409,45.79207920792079,19.986326344576117,5.178606095903708/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1986,7 +1986,7 @@ of this State: Piovided, That no foreigner Ji&gt;all%
 in*virtue hereof, be entitled te anyfu&gt;thet ot other  
 privilege of a citizen.&#x27;* •
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793061901:0004/pct:74.30080795525171,71.50390625,20.571783716594158,9.27734375/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793061901:0004/pct:74.32411435674332,71.513671875,20.54847731510255,9.2724609375/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2012,7 +2012,7 @@ of this State: Provided, That no foreigner JhaU,
 in virtue hereof, be entitled to. any furrier or otiter  
 privilege of a citizen.7
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793070601:0004/pct:54.746136865342166,65.69484936831876,20.43519394512772,7.482993197278912/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793070601:0004/pct:54.75402081362346,65.69970845481049,20.45096184169032,7.487852283770651/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2038,7 +2038,7 @@ of thu State : Provided, That no foreigner Jhall\
 in virtue hereof, be entitled to any furtktJ or other  
 privilege of a citize
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793072001:0004/pct:30.76923076923077,68.05744226664079,20.03076923076923,7.451969726372987/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793072001:0004/pct:30.784615384615385,68.07199689501262,20.023076923076925,7.451969726372987/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2066,7 +2066,7 @@ of thi) State : Provided, That no foreigner ft,air,
 in virtue hereof be entitled to any further or other  
 privilege of a citizen.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793072301:0004/pct:33.96618214179769,76.86311787072243,19.074458617620884,8.612167300380229/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793072301:0004/pct:33.98843073272026,76.86311787072243,19.089291011569266,8.62167300380228/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2118,7 +2118,7 @@ Dollars 350,000
 r&quot;T,HE Editor of the Gazette of the Uniteb  
 Statf.s, proposes publilhing the Paper
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793072701:0004/pct:40.55431666135712,42.78761923301538,30.423701815864924,16.371423009538642/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793072701:0004/pct:40.562280981204204,42.78761923301538,30.439630455559094,16.39575627798326/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2147,7 +2147,7 @@ of thu State : Provided, That no foreigner Jhah&#x27;,
 in virtue hereof be entitled to any further or other  
 privilege of a citizen.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793073101:0004/pct:72.42658423493044,29.880401234567902,20.463678516228747,9.25925925925926/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793073101:0004/pct:72.43431221020093,29.890046296296298,20.479134466769708,9.249614197530864/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2174,7 +2174,7 @@ ofthn State: Providrd That, no foreigner Jhall,
 ,n virtue hereof, be entitled to anyj&#x27;,,,her or other  
 privilege of &amp; citizen.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793080701:0004/pct:53.12205836209601,84.1347089741094,20.64637590210229,7.708779443254818/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793080701:0004/pct:53.1455914653279,84.14930893517618,20.638531534358332,7.703912789565894/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2202,7 +2202,7 @@ of th?\ State ; Provided, That no joreigner fa/fy
 ;n virtue hereof\ he entitled to any futthei or other  
 Privilege of a citize
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793081401:0004/pct:29.86439608956165,83.49458204334366,20.498265531378113,9.210526315789474/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793081401:0004/pct:29.872280037842952,83.50909442724458,20.521917376222014,9.210526315789474/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2242,7 +2242,7 @@ ca, that the Dirc&amp;ors have declared a dividend
 fir ft instalment, and of one per cent per month,  
 on the Turns paid towards the second &#x27; and thu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793082101:0004/pct:73.35041639974375,67.13532513181019,21.204356181934656,15.407147041593438/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793082101:0004/pct:73.35842408712364,67.14020699082211,21.220371556694428,15.431556336652998/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2306,7 +2306,7 @@ in virtue hereof be entitled to any further or other
 brivilege of a citizen.&quot;  
 tf
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793090401:0004/pct:52.388242498469076,86.06870229007633,20.20820575627679,7.977099236641221/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793090401:0004/pct:52.403551745254134,86.08301526717557,20.20820575627679,7.972328244274809/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2370,7 +2370,7 @@ of thi&gt; State: Provided, That no foreigner fhal!y
 in virtue hereof be entitled to any jue thei or other  
 privilege of a citizen.*&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793091101:0004/pct:31.146053825219234,75.17387944358578,20.199576655579076,8.867851622874808/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793091101:0004/pct:31.146053825219234,75.18836939721793,20.21469609918355,8.853361669242659/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2486,7 +2486,7 @@ calculate, and the profits of which were to
 many doubtful.—General Walhington,  
 I however, kept the object steadily in view,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794010101:0001/pct:49.88490628082867,43.16795445302969,20.059191055573823,42.374949166327774/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794010101:0001/pct:49.9095692206511,43.17812118747458,20.042749095692205,42.36986579910533/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2608,7 +2608,7 @@ tide-water, and the distances to which
 they are navigahle in their natural (late,  
 from their conflux with the Potowmack
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794010101:0001/pct:64.41959881617889,14.47742984953233,26.603091088457745,74.56283041886945/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794010101:0001/pct:64.43604077606051,14.482513216754779,26.603091088457745,74.5679137860919/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2660,7 +2660,7 @@ world; and few parts of America can
 boast of being equally healthy with the  
 banks of this river, and the adjacent coun­
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794010101:0002/pct:11.747382198952879,3.792537925379254,19.339005235602095,29.253792537925378/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794010101:0002/pct:11.747382198952879,3.8027880278802786,19.3717277486911,29.248667486674865/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2740,7 +2740,7 @@ The city of Washington lays in latitude
 53&#x27;.—It is situated on the east fide  
 of* the Potomack, about four miles below
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794010201:0001/pct:42.724368283473716,43.26448546883568,26.110949753122277,46.46316943885944/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794010201:0001/pct:42.74615161196631,43.26448546883568,26.103688643624746,46.48144763297386/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2863,7 +2863,7 @@ Senate and House of Representatives of
 the United States of America m Catigreis  
 assembled, That a thrift of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794010201:0001/pct:68.74818472262562,17.090111496984097,20.273017717107173,71.595686346189/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794010201:0001/pct:68.74818472262562,17.099250594041308,20.30932326459483,71.58654724913178/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2949,7 +2949,7 @@ of which a fufficient sum is hereby appro­
 priated.&quot;  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794010201:0002/pct:10.660205935796487,5.52124274752012,20.442156268927924,54.42635223657121/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794010201:0002/pct:10.660205935796487,5.525921766797679,20.464869775893398,54.449747332959014/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2976,7 +2976,7 @@ But the eastern branch being made one
 of the boundaries, within which the diftridl  
 of ten miles square was to be laid out, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794010301:0001/pct:27.425538189324683,82.95706883789785,18.991447950457093,8.308660251665433/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794010301:0001/pct:27.447655558832203,82.96632124352331,18.97670303745208,8.327165062916357/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3202,7 +3202,7 @@ with the country Weft of the Allegany
 mountains, through the Potomack, which  
 offers itfelf as the most natural, aad the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794010301:0001/pct:43.173105278678854,7.031828275351591,43.5564730168092,84.30792005921539/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794010301:0001/pct:43.18785019168387,7.036454478164322,43.54172810380419,84.3217986676536/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3259,7 +3259,7 @@ wifely provided for
   
 The writer&#x27;s opinion and inferences are
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794010301:0002/pct:12.237037037037037,5.908096280087527,19.644444444444446,28.792851932895697/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794010301:0002/pct:12.251851851851852,5.921772428884026,19.666666666666668,28.797410649161197/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3414,7 +3414,7 @@ pointed by the CommilTioners to superin­
 tend the buildings within the city, who  
 will afterwards
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794010401:0001/pct:49.70472440944882,11.318433463194587,39.5997375328084,79.9671929464835/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794010401:0001/pct:49.71292650918635,11.333811769530449,39.60793963254593,79.9671929464835/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3653,7 +3653,7 @@ with the coufifry Weft of the Allegany
 mountains, through the Potomack, which  
 offers itfelf as the molt natural, and the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794013101:0001/pct:27.75800711743772,7.059693217519867,59.63819691577699,84.2542968028091/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794013101:0001/pct:27.772835112692764,7.073553871742746,59.65302491103203,84.2542968028091/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3710,7 +3710,7 @@ wifely provided for
   
 The writer&#x27;s opinion and inferences are
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794013101:0002/pct:12.154531946508172,6.01640838650866,19.821693907875186,28.86052871467639/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794013101:0002/pct:12.176820208023774,6.030082041932543,19.836552748885588,28.855970829535096/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5192,7 +5192,7 @@ Great force was attached to that part of
 ihe conllitution that gave Congrefs exrh&quot;-  
 ive Icjris&#x27;atioh over the territory,- Bi:t th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801010501:0001/pct:72.72510150465727,59.85239852398524,21.20850250776212,17.00369003690037/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801010501:0001/pct:72.74102380383728,59.85239852398524,21.20850250776212,17.01353013530135/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5221,7 +5221,7 @@ vit.-{3 .
 Great force was attached to that part (If  
 the consiirution that gave Congress exi/u
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215981:1801010701:0099/pct:70.7000524383849,37.15638834551632,22.1814368117462,9.513023782559456/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215981:1801010701:0099/pct:70.69078516188229,37.15256331068561,22.182898588718487,9.515475945370943/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5243,7 +5243,7 @@ te] States-—and in March 1791, an act wa­
 pa.T-J, in part repealing- the ,formor, and  
 declaring that it fhould be lawful for th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801042401:0004/pct:3.0724018167245526,3.9870863599677158,23.96473417045151,6.650524616626312/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801042401:0004/pct:3.0724018167245526,3.992467043314501,23.982545195476,6.655905299973097/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5268,7 +5268,7 @@ day in December, in the year 1800, the i
 feat of the government of the United States  
 was by law transferred to the ditlridl and 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801042401:0004/pct:2.8586695164306706,21.468926553672315,24.392198771039272,9.152542372881356/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801042401:0004/pct:2.8586695164306706,21.479687920365887,24.410009796063765,9.152542372881356/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5375,7 +5375,7 @@ duties on impctst s and tonnage, of which -
   
 a/ufficzmt sum it hereby appzaþssrialku. ] &quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802092001:0385/pct:46.096239643084765,46.12720976854383,22.163798597833015,10.734463276836157/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802092001:0385/pct:46.08889596941214,46.123006833712985,22.165578036216875,10.736522399392559/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5423,7 +5423,7 @@ provide.&quot; aware that it might
 not be convenient, immediately to orga­  
 niie a government for this diftrift, mad
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805013001:0001/pct:1.5697545876630554,55.145738361652164,19.21291178421402,7.459593866556154/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805013001:0001/pct:1.5697545876630554,55.145738361652164,19.2202815240622,7.464198554128102/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5449,7 +5449,7 @@ Connogochegue, he, and the fame is hereby ac­
 cepted for the permanent feat of the govern­  
 ment of the United States.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1805020101:0333/pct:41.139474657787645,72.47014456316782,17.795042545320015,6.825895663104966/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1805020101:0333/pct:41.13186609950065,72.46103569632982,17.797916281363666,6.829227417462712/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5517,7 +5517,7 @@ and is hereby accepted&quot; - for what ?
 nient of the U. States,&quot; &amp;c. And in  
 succeeding laws on this subject th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808021001:0002/pct:25.928967357832068,19.89413891040537,16.91644426195853,9.488768396591789/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808021001:0002/pct:25.928967357832068,19.90274550305534,16.936973927324985,9.49737498924176/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5544,7 +5544,7 @@ branch and Connogchegue, be and is hereby
 accepted”—for what ? “ for a permanent seat  
 of the government of the United States,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808022201:0994/pct:72.63184843830005,14.308681672025724,22.606246799795187,9.421221864951768/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808022201:0994/pct:72.61325825441516,14.306381610673526,22.606859482979267,9.423726089053208/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5564,7 +5564,7 @@ P conditions, it is declined &quot; that the wall of
 is &quot; the roof in any part of the city, nor shall  
 is &quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809031701:0004/pct:57.66599597585513,8.804702808621816,17.987927565392354,3.8406270411495753/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809031701:0004/pct:57.66599597585513,8.804702808621816,18.00134138162307,3.844981493577183/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5582,7 +5582,7 @@ Maryland, entitled &quot; A further supplement
 to the. act concerning the Territory of Co­  
 lumbia and the city of Washington,&quot; and o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809083001:0004/pct:40.91545072956226,66.76266527032334,16.789926044373377,2.3301479251210893/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809083001:0004/pct:40.92211339862749,66.77139241611032,16.80325138250383,2.3301479251210893/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5730,7 +5730,7 @@ time fixed for the removal of the govern­
 ment thereto, and until congress shal  
 otherwise by law/trovide.** It is plain
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184157:1823060601:0240/pct:79.03987903987904,17.02371843917368,17.01001701001701,8.416220351951033/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184157:1823060601:0240/pct:79.02494331065759,17.021547877087848,17.013101536911062,8.41939733945344/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5759,7 +5759,7 @@ Section 1st. Be it enacted by the Senate and
 House of Representatives of the United States of  
 America in Congress assembled, That the *&#x27;sys
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216377:1827021301:0145/pct:3.0028518704915284,41.52394267738553,17.950008387854385,3.2156588605382734/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216377:1827021301:0145/pct:3.0023482053002346,41.51910531220876,17.95258861679526,3.2191674433053743/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5781,7 +5781,7 @@ tance, until the time fixed for the removal of the
 Stth Fob. IftOI.) *  
 That the inhabitant*? of the coded territory, eve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:0041418456A:1829062301:0697/pct:4.313662604233483,75.62087582483504,17.831943553559974,4.379124175164967/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:0041418456A:1829062301:0697/pct:4.3129709796376465,75.61180422264876,17.834428945540058,4.3825975687779914/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5801,7 +5801,7 @@ tance, until the time fixed for the removal «&gt;f the
 :,Scnt of Government thereto, and until Congress  
 ; shall otherwise by law provide.” (Sre also act o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184315:1829062301:0169/pct:4.3044785567336605,77.31870810481414,17.930052223453078,3.363802559414991/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184315:1829062301:0169/pct:4.30379746835443,77.30928588837436,17.932489451476794,3.3674547079372816/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6178,7 +6178,7 @@ the United State* should not be affected by such acceptance
 until the time fixed fi&gt;r the removal of the Government there­  
 to, &quot;and until Congress shall otherwise-by law provide,&quot; an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848030401:0099/pct:2.069857697283312,76.97547683923706,15.955153083225529,4.5526793823796545/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848030401:0099/pct:2.069857697283312,76.98304571601574,15.964735757749988,4.5488949439903115/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6239,7 +6239,7 @@ seat of Government to the said District,
 ami until Congress shall otherwise by law  
 I provide.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:0041562444A:1849040701:0364/pct:44.274977895667554,20.385283435970315,18.94341290893015,4.673930206852992/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:0041562444A:1849040701:0364/pct:34.31361352215624,15.802569855190699,14.704202832343535,3.626351213542729/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6438,7 +6438,7 @@ States, until the time fixed for the removal of tho
 seat of Government to the said District, ami until  
 Congress shall otherwise by law provide,&#x27;&#x27; s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1850110701:0200/pct:31.428984668787965,11.73913043478261,14.955163436505641,3.9624505928853755/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1850110701:0200/pct:31.433805804647577,11.742424242424242,14.955163436505641,3.9657444005270093/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6472,7 +6472,7 @@ removal of the Government thereto, &quot;and until Congress
 thall otherwise by law provide,&quot; and the act of Congress  
 en titled &quot;An act concerning the District of Columbia,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:0027174304A:1851103001:0680/pct:247.06077165093558,160.3559870550162,50.10763371419109,23.370319001386964/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:0027174304A:1851103001:0680/pct:82.35359055031186,53.45199568500539,16.70254457139703,7.790106333795654/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6493,7 +6493,7 @@ and manner of the buildings and improvements
 on the lota in the city of Washington,&quot; and  
 to such regulations therefor as the Corporation o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014434:00415661423:1852103001:0441/pct:14.942528735632184,80.81949058693245,14.516815666240953,2.7021040974529345/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014434:00415661423:1852103001:0441/pct:14.942528735632184,80.82318198597268,14.535736247102786,2.7057954964931707/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6514,7 +6514,7 @@ ington,&quot; and to such regulations therefor as the Corpora
 tlon of Washington may adopt with the approbation of the  
 President of the United States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82014593:00415661034:1852110801:1100/pct:66.525755440739,79.74947807933194,14.999217159855958,2.7835768963117604/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82014593:00415661034:1852110801:1100/pct:66.525755440739,79.75721023737725,14.999217159855958,2.787442975334416/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6532,7 +6532,7 @@ water. ? Tbia watrr, &#x27; he says, &quot;may not only
 be carried wTer llie highestground in the city,  
 but, if necessary, over the tops of the houses.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kuvasz_ver02:data:sn83045461:00280654048:1854072801:0105/pct:1.1471990464839095,10.112593828190159,13.930274135876044,2.0016680567139282/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kuvasz_ver02:data:sn83045461:00280654048:1854072801:0105/pct:1.158373063170441,10.115200166805671,13.93772348033373,2.0146997497914927/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6581,7 +6581,7 @@ be located, as hereafter directed, on the
 river &#x27;Potomac&#x27; a district since - and  
 nowknown as the District of Colam
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn82006863:00212472827:1855090101:0142/pct:75.85669781931465,31.95728858804462,16.446002076843197,3.489369815997712/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn82006863:00212472827:1855090101:0142/pct:50.577697001168374,21.30803699113357,10.969752044657925,2.3262465439984745/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6609,7 +6609,7 @@ the United States,&quot; ac., because it will be observed that
 the grant of power here is to &quot;exercise legislation,&quot; and  
 not to select a seat 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743221:1855090301:0514/pct:67.73697694278394,214.9658260664624,45.9265584970111,16.144237567758662/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743221:1855090301:0514/pct:22.578992314261313,71.65527535548748,15.308852832337035,5.381412522586221/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6639,7 +6639,7 @@ nage?oi which a sufficient sura 13 hereby ap­
 propriated. See. fi, act of July 16. 1790.  
 bee. 194. And he it further enacted, Tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kuvasz_ver02:data:sn83045462:00280654061:1855100401:0191/pct:50.358908916892645,35.69941715237302,16.222683043547615,7.878850957535387/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kuvasz_ver02:data:sn83045462:00280654061:1855100401:0191/pct:50.36688467060137,35.707223147377185,16.21470728983889,7.873646960865945/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6656,7 +6656,7 @@ lion is described as a &quot;district of territory not exceeding ten
 miles square, to be located, as hereafter directed, on the river i  
 Potomac,&quot; a district since and now known ax the District of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855100701:1061/pct:19.18701906992305,17.67657275183327,16.142522582803615,1.6081307088640164/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855100701:1061/pct:19.18701906992305,17.68086110039024,16.159250585480095,1.6124190574209871/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6749,7 +6749,7 @@ States.&quot;
 The same act provided that Congress should  
 hold its sessions at Philadelphia until the firs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393348008:1859010801:0524/pct:199.29217459693277,305.43093270365995,58.06134486826583,17.074970484061392/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393348008:1859010801:0524/pct:49.81324945940633,76.34646598790025,14.512482799292314,4.268112734248192/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6780,7 +6780,7 @@ Government of the United State*.&quot;
 The same act provided that Congress should  
 hold its sessions at Philadelphia until the firs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664370:1859011101:0251/pct:16.1104069849317,58.53402040172468,12.040557667934094,2.9866442317804185/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664370:1859011101:0251/pct:16.11510115946111,58.53752585270095,12.040557667934094,2.9901496827566865/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6805,7 +6805,7 @@ ment of the United States. 141711 ilt would be a pleasing task to pursue many
 The same act progided that Congress should trains of thought not wholly foreign to this oc  
 its sessions at Philadelphia until the first casion, but the temptation to enter the wi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290082:1859011201:0035/pct:13.90284757118928,212.1567275652074,68.95589056393077,12.501436286338045/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290082:1859011201:0035/pct:3.4771679932970256,53.03918189130185,17.246194665549503,3.125359071584511/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6906,7 +6906,7 @@ eminent of the U. States.&quot;
 The same act provided that Congress should &#x27;  
 hold its sessions at Philadelphia until the firs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn83032006:00296028551:1859012801:0518/pct:33.05863708399366,79.24595201512824,14.73851030110935,5.046684789032029/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn83032006:00296028551:1859012801:0518/pct:33.06920232435288,79.25383130441634,14.749075541468569,5.042745144387976/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6963,7 +6963,7 @@ ment of the United States.”
 The same act provided that Congress should  
 hold its sessions at Philadelphia until the firs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn84026881:00279557268:1859030201:0557/pct:34.33874709976798,74.59371614301192,14.443155452436194,4.428494041170097/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn84026881:00279557268:1859030201:0557/pct:34.348414539829854,74.60387323943662,14.452822892498066,4.428494041170097/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6998,7 +6998,7 @@ he, and the same is hereby accepted for tlie j
 permanent seat of government of the I&#x27;nited  
 States.&quot; The Conccogeague is a stream i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016179:00296026189:1859051901:0046/pct:60.41364296081277,78.51893725268513,11.320754716981131,4.9745618993781795/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016179:00296026189:1859051901:0046/pct:60.42573778422835,78.51893725268513,11.314707305273343,4.983983418127002/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7049,7 +7049,7 @@ leeiing whien pervaded the many communie
 tions with which the city papers were then  
 flooded, in relation to the removal of the Gov
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_continental_ver02:data:sn82014760:00237288804:1861013101:0109/pct:11.247637051039698,127.12423979148566,58.69565217391305,34.12684622067767/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_continental_ver02:data:sn82014760:00237288804:1861013101:0109/pct:2.813238770685579,31.781059947871416,14.680851063829786,8.531711555169418/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7072,7 +7072,7 @@ vide.&quot; As no provision for changing the
 statuB of the enslaved population has since  
 been&#x27; made, this would seem to render tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn84026845:00202190698:1862031501:0245/pct:27.959751659173623,41.51997291807719,13.48747591522158,4.773188896411646/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn84026845:00202190698:1862031501:0245/pct:27.970456005138086,41.52420446851726,13.498180261186041,4.785883547731889/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7098,7 +7098,7 @@ this language the utmost latitude, it would
 only &#x27;permit slavery to remain there  
 w until Congress shall otherwise pro-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1862032201:0002/pct:3.7582903463522475,87.98153224642908,9.985261606484894,5.222911556773914/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1862032201:0002/pct:3.7628960943257184,87.98153224642908,9.989867354458363,5.2301255230125525/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7260,7 +7260,7 @@ the State of Maryland
 The owners of the so) hereabouts gave to the  
 General Government ant only esough for t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deltaair_ver01:data:sn86053570:00237288853:1864061301:0639/pct:235.86459286367796,301.3081395348837,51.052150045745655,44.549418604651166/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deltaair_ver01:data:sn86053570:00237288853:1864061301:0639/pct:59.00663767452507,75.32703488372093,12.771801327534906,11.137354651162791/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7296,7 +7296,7 @@ Tbe owners of tbe soil hereabouts gave to the
 General Government not only enough tor the  
 streets and avenues of sueh unparalleled widt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_englishsetter_ver01:data:sn83045462:0028065422A:1864061301:0100/pct:49.729729729729726,44.12254412254412,15.937755937755938,9.07980907980908/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_englishsetter_ver01:data:sn83045462:0028065422A:1864061301:0100/pct:49.73382473382473,44.13086913086913,15.945945945945946,9.088134088134089/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7321,7 +7321,7 @@ plan as the President shall a]&gt;prowf, to provide
 suitable r-nildinge lor the accommodation of  
 Congress, for the President, and tbe publi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_englishsetter_ver01:data:sn83045462:0028065422A:1864090101:0369/pct:66.69454667112747,17.064439140811455,16.04215456674473,4.556302885658495/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_englishsetter_ver01:data:sn83045462:0028065422A:1864090101:0369/pct:66.7029106724657,17.064439140811455,16.04633656741385,4.572575395964417/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7396,7 +7396,7 @@ part of the district, not exceeding ten miles
 square, for the permanent seat of the Cover  
 ment of the United Statss
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_klm_ver01:data:sn86053571:00237289006:1869082001:0176/pct:29.433962264150942,124.10916043803233,45.094339622641506,45.61098557274465/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_klm_ver01:data:sn86053571:00237289006:1869082001:0176/pct:7.363700731649752,31.027290109508083,11.281567146565967,11.402746393186163/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7434,7 +7434,7 @@ for the permanent teat of t*? Oovernmeni of the
 United St*te?.&quot;  
 The same act provided for th? seat of Gov
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_leonberger_ver03:data:sn83045462:00280654334:1869082001:0071/pct:55.60446009389671,40.24747639205471,15.859741784037558,8.976446325843916/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_leonberger_ver03:data:sn83045462:00280654334:1869082001:0071/pct:55.60446009389671,40.24747639205471,15.859741784037558,8.987300553565614/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7548,7 +7548,7 @@ UiZDch and LotcgoctK&#x27;ipuc, be, and the tame is
 hereby, atr. j t&lt;-~. /.,r ih* i&lt;rmaneni teat ot the Gov­  
 ernment of the United States.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_lake_ver02:data:sn82014064:no_reel:1869082501:0003/pct:13.121118012422361,73.85090141302582,8.850931677018634,5.55465324021439/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_lake_ver02:data:sn82014064:no_reel:1869082501:0003/pct:13.13567546583851,73.85496183206106,8.850931677018634,5.566834497320124/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7624,7 +7624,7 @@ of said district, not exceeding ten miles
 square, for the permanent seat of Govern­  
 ment of the United States.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn85026955:0020029354A:1869082701:0231/pct:143.5158501440922,234.85934914506342,44.164265129682995,37.23110865968009/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn85026955:0020029354A:1869082701:0231/pct:35.87896253602305,58.714837286265855,11.041066282420749,9.307777164920022/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7661,7 +7661,7 @@ was, by act of Congress, accepted for the
 permanent seadt of the Government of the  
 United States.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_cardinal_ver01:data:sn85052141:00202195301:1869091801:0208/pct:56.88720173535792,112.6133909287257,44.63123644251627,42.89416846652268/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_cardinal_ver01:data:sn85052141:00202195301:1869091801:0208/pct:14.225657716300516,28.153347732181427,11.160835367507458,10.72354211663067/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7784,7 +7784,7 @@ pectivo holders, and snau, auer tuo w
 day, cease to be exercised elsewhere.&quot; The  
 President-, ami the. heads of departments an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293460:1872100301:0317/pct:68.15773984696881,59.75609756097561,14.199529134785168,7.055749128919861/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293460:1872100301:0317/pct:51.140880317974386,44.81707317073171,10.658030325334904,5.291811846689895/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7868,7 +7868,7 @@ such -juantityof land within said district &quot;as
 the President shall deem proper fortht w? of  
 tKe t utted Statet.&quot; Under the authority ot thu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mastiff_ver01:data:sn83045462:00280654413:1874060501:0435/pct:56.73844300557145,66.17926107824535,13.41665411835567,3.995981694385534/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mastiff_ver01:data:sn83045462:00280654413:1874060501:0435/pct:56.74973648546906,66.18763254827547,13.427947598253276,3.99877218439558/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7892,7 +7892,7 @@ cept such quantity af land within said district &quot;as
 the President shall deem proper for the use of the  
 United States.&quot; Under the authority of this ac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_braniff_ver01:data:sn86053573:00294558317:1874060601:0368/pct:27.84286698828394,205.58199356913184,42.5223983459683,12.192926045016078/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_braniff_ver01:data:sn86053573:00294558317:1874060601:0368/pct:6.964316497155663,51.39549839228296,10.636097224616446,3.0482315112540195/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7912,7 +7912,7 @@ accepted for the permanent seat of the Govern­
 ment of the United States.&quot; General Washing­  
 ton favored this site, and it was supposed that hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558329:1874110601:0458/pct:20.32011134307585,292.20478518137384,43.63256784968685,7.357859531772576/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558329:1874110601:0458/pct:5.080027835768963,73.05119629534346,10.908141962421713,1.839464882943144/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7934,7 +7934,7 @@ Columbia. &quot;And all offices attached to the
 &quot;holders, and shall, after the said - day,  
 &quot;cease to be exercised elsewhere.&quot; I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_broadsheet_ver01:data:sn92053942:00295879877:1875063001:0268/pct:7.551413881748072,48.690110927543074,16.131105398457585,4.2954920934623555/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_broadsheet_ver01:data:sn92053942:00295879877:1875063001:0268/pct:5.673416907746705,36.52348359688459,12.10221793635487,3.2216190700967666/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7972,7 +7972,7 @@ thereto by their respective holders, and
 frhall, after the said da-, cease to be exer­  
 cised elsewhere.&quot; In compliance with this
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn83032041:00212477709:1875070201:0190/pct:80.36714374611077,30.48869438366156,17.859365276913504,15.48747872599076/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn83032041:00212477709:1875070201:0190/pct:60.301898537192656,22.866520787746172,13.398692810457517,11.62168733284707/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8004,7 +8004,7 @@ ient shall accordingly be removed thereto by their re-
 snective holders, and shall, after the said day, cease to  
 be exercised elsewhere
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:0020653347A:1875090101:0008/pct:137.29446935724962,140.9675987572126,49.10313901345292,26.15771563840805/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:0020653347A:1875090101:0008/pct:34.33644859813084,35.24189968930315,12.280373831775702,6.539428909602012/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8036,7 +8036,7 @@ government shall accordingly be removed thereto
 by their respective holders, and shall, after the  
 said day, cease to be exercised alsewhere.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477862:1875111001:0891/pct:185.65799842395586,213.35636154289003,39.952718676122934,27.86413356361543/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477862:1875111001:0891/pct:46.4327946393378,53.33909038572251,9.992116673236106,6.966033390903857/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8067,7 +8067,7 @@ act, be transferred to the district and
  respective holders, and shall, after the  
 said day, cease to be exercised els
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_oddish_ver01:data:sn88064616:00295878605:1876051501:0075/pct:111.5,239.73629782833507,45.72222222222222,32.225956566701136/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_oddish_ver01:data:sn88064616:00295878605:1876051501:0075/pct:37.166666666666664,79.91209927611169,15.24074074074074,10.741985522233712/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8100,7 +8100,7 @@ be strictly unconstitutional and without force
 In this connection the President referred to  
 the resolution of the House of Representativ
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:00206531289:1877010901:0067/pct:149.33834340793987,144.34915413533835,47.377879431465445,29.041353383458645/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:00206531289:1877010901:0067/pct:49.77944780264663,48.116384711779446,15.79262647715515,9.680451127819548/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8132,7 +8132,7 @@ be strictly unconstitutional and without
 force. In this connection the President re­  
 ferred to the resolution of the House o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340688:1877011101:0012/pct:27.52035065748278,53.93396342211857,10.770194113963681,9.156744814041978/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340688:1877011101:0012/pct:27.51604319924871,53.9273441335297,10.772421349193927,9.158689248895435/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8179,7 +8179,7 @@ he and they we. citizens. Provided. That no
 foreigner shall. 1,- virture hereof, be entitled to  
 any further or (ter privilege as a citizen.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_yorkie_ver01:data:sn83045462:00280654528:1879110801:0188/pct:18.348787446504993,37.45262587980509,13.302425106990015,5.1570113697888464/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_yorkie_ver01:data:sn83045462:00280654528:1879110801:0188/pct:18.348787446504993,37.46164952174698,13.308368996671422,5.161523190759791/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8303,7 +8303,7 @@ this act.&quot; A subsequent section says: &quot;The
 seat of Government shall be transferred to  
 the district&#x27; and place aforesaid.&quot; Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chester_ver02:data:sn86053573:00211102044:1887030701:0250/pct:23.867996930161166,292.69884638737096,43.36147352264006,11.490588949605343/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chester_ver02:data:sn86053573:00211102044:1887030701:0250/pct:5.968144310113222,73.17471159684274,10.842448666282863,2.8726472374013357/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8341,7 +8341,7 @@ provision. But the land was taken as
 offered without rendering this condition  
 cited inoperative. At the time the lan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dutch_ver02:data:sn82000205:00211103590:1887120701:1227/pct:23.23008849557522,148.34733893557424,53.8716814159292,44.51914098972922/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dutch_ver02:data:sn82000205:00211103590:1887120701:1227/pct:5.809128630705394,37.08683473389356,13.4716459197787,11.129785247432306/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8425,7 +8425,7 @@ mouths of the E.is:ern ISrauch and Connogo­
 clieque. Section 2 authorizes the President of  
 the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_otterhound_ver01:data:sn83045462:00280654759:1890022601:0439/pct:29.050092142737476,52.91050206160563,13.787904171553024,4.656803298569003/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_otterhound_ver01:data:sn83045462:00280654759:1890022601:0439/pct:29.062657061484337,52.91353383458647,13.787904171553024,4.6658986175115205/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8461,7 +8461,7 @@ tion C provides that on the first Monday in De­
 cember, 1800. the seat of government shall be  
 transferred to the district aforesaid. Thes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_otterhound_ver01:data:sn83045462:00280654759:1890022601:0439/pct:29.16736471770816,57.5187969924812,13.687384821578155,9.616783895221927/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_otterhound_ver01:data:sn83045462:00280654759:1890022601:0439/pct:29.16736471770816,57.5187969924812,13.712514659071871,9.625879214164444/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8481,7 +8481,7 @@ that the remainder of the land should ba di­
 vided between the United States and the re­  
 spective proprietors. On the 13th of Decem
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_otterhound_ver01:data:sn83045462:00280654760:1890052401:0407/pct:43.67312552653749,14.053342901566799,13.816343723673125,2.6791053701710323/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_otterhound_ver01:data:sn83045462:00280654760:1890052401:0407/pct:43.685762426284754,14.053342901566799,13.816343723673125,2.688075589044373/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8508,7 +8508,7 @@ y the 1st of June, 1790. The vote on its pasig
 was 14 to 12, and in the House four differe  
 propositions were made in the shape of amen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pug_ver01:data:sn83045462:00280654814:1891072501:0247/pct:37.5,11.542062324461682,12.598425196850394,6.526681824261067/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pug_ver01:data:sn83045462:00280654814:1891072501:0247/pct:37.504101049868765,11.552093085462083,12.598425196850394,6.536712585261468/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8586,7 +8586,7 @@ of much removal shall be defrayed out of the
 duties om import and teenage, of which a suE  
 eat sum is hereby appropriated
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pug_ver01:data:sn83045462:00280654826:1891101701:0202/pct:12.811151676070361,38.87180858174041,12.296714238300696,26.560620237936106/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pug_ver01:data:sn83045462:00280654826:1891101701:0202/pct:12.811151676070361,38.87515038096511,12.300862927314968,26.57732923405962/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8623,7 +8623,7 @@ gentlemen of the town he set out to view the
 adjacent country in order to flt upon a future  
 situation for &quot;The Grand Columbian Federa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pug_ver01:data:sn83045462:00280654887:1893033001:0392/pct:25.43554006968641,26.10469068660775,12.327857972457275,10.156356220258328/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pug_ver01:data:sn83045462:00280654887:1893033001:0392/pct:25.447984071677453,26.10469068660775,12.327857972457275,10.16995241332427/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8674,7 +8674,7 @@ the assembling for the first amne of the
 Congress in the Capitol President Aams=  
 appeared before the Senate anad the Ilotae
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pug_ver01:data:sn83045462:00280654905:1893091801:0554/pct:13.299150777119051,37.029369905550524,12.321743310366928,40.72971923922888/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pug_ver01:data:sn83045462:00280654905:1893091801:0554/pct:13.311168082038135,37.0326044766464,12.321743310366928,40.73295381032475/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8696,7 +8696,7 @@ Congress entitled, &quot;An act for establishing
 the temporary and permanent seat of the  
 government of the United States,&quot; approv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pug_ver01:data:sn83045462:00280654905:1893091801:0551/pct:24.996009577015165,58.37326771143634,12.482043096568237,4.015023960626862/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pug_ver01:data:sn83045462:00280654905:1893091801:0551/pct:24.996009577015165,58.37650563398523,12.498004788507583,4.018261883175755/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8727,7 +8727,7 @@ otherwise provide. Then Mr. Lee said: &quot;My
 colleague is wrong in supposing that that bill  
 will cure the evil which some have supposed t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175045193:1895040701:0283/pct:69.88416988416988,251.17163724893487,51.196911196911195,24.66524650030432/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175045193:1895040701:0283/pct:17.474415910407416,62.79290931223372,12.801699169723886,6.16631162507608/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8786,7 +8786,7 @@ sion of
 pursuant to thadelphia, and Congress continued  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175045193:1895040901:0318/pct:4.015151515151516,323.9015551864714,54.39393939393939,55.48844934319795/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175045193:1895040901:0318/pct:1.004358537047565,80.97538879661785,13.606215652833049,13.872112335799487/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8840,7 +8840,7 @@ extension plan and the system of sewage
 disposal are necessary and essential parts  
 of one and the same great system an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_havanese_ver01:data:sn83045462:00280655090:1896111001:0345/pct:42.82767672979561,37.68493150684932,13.950871929495593,6.63013698630137/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_havanese_ver01:data:sn83045462:00280655090:1896111001:0345/pct:42.82767672979561,37.68493150684932,13.974310894430902,6.633561643835616/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8888,7 +8888,7 @@ prietors agreed to convey their lands to the
 President of the I&#x27;nited States, or commis­  
 sioners. or to such person or persons ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ibizanhound_ver01:data:sn83045462:0028065517A:1897120101:0008/pct:15.208411565903116,15.141868512110726,14.00675929402929,6.782006920415225/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ibizanhound_ver01:data:sn83045462:0028065517A:1897120101:0008/pct:15.222493428464139,15.145328719723183,14.011453248216297,6.788927335640138/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8962,7 +8962,7 @@ and place aforesaid.&quot;
 &quot;At a public meeting- of citizens, held  
 on the 24th of October, tho chairman wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_harry_ver01:data:sn85054468:211102160:1898121801:0695/pct:76.37779552715655,99.624680978832,16.034345047923324,5.059300405344543/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_harry_ver01:data:sn85054468:211102160:1898121801:0695/pct:57.3112265281662,74.71851073412401,12.045545345585298,3.798228494220087/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8982,7 +8982,7 @@ first Monday in December, in the year
 act, be transferred to the District and  
 place aforesaid.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ibizanhound_ver01:data:sn83045462:00280655235:1898121901:0711/pct:69.58753761727739,79.86559139784946,12.8518321826872,2.4596774193548385/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ibizanhound_ver01:data:sn83045462:00280655235:1898121901:0711/pct:69.58753761727739,79.87231182795699,12.8518321826872,2.463037634408602/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9006,7 +9006,7 @@ that the samo&#x27; !ands might be conveyed by
 him and transmitted to and be Inherited  
 by his heirs and relations
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_japanesechin_ver01:data:sn83045462:00280655260:1899052001:0451/pct:15.133420414256392,21.30308479734403,13.659264788206755,4.136118411951861/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_japanesechin_ver01:data:sn83045462:00280655260:1899052001:0451/pct:15.147415562604964,21.310001383317196,13.66392983765628,4.139576704938443/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9039,7 +9039,7 @@ the erection of the public buildings other­
 wise than on the Maryland side of the  
 river Potomac. as required by the afire
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_japanesechin_ver01:data:sn83045462:00280655296:1899110701:0357/pct:15.96993032636597,58.682717586827174,13.458012467913457,3.7083160370831605/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_japanesechin_ver01:data:sn83045462:00280655296:1899110701:0357/pct:15.96993032636597,58.68617683686177,13.471763843050972,3.725612287256123/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9060,7 +9060,7 @@ tached to. thie se-at of government shall he
 T&#x27;emov&#x27;edi thereto, and after the said date  
 shall (&#x27;ease to be exercised elsewhere. Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_japanesechin_ver01:data:sn83045462:00280655296:1899110701:0357/pct:16.024935826916025,76.90604676906047,13.403006967363403,2.9472810294728102/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_japanesechin_ver01:data:sn83045462:00280655296:1899110701:0357/pct:16.02951961862853,76.91296526912966,13.407590759075907,2.954199529541995/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9084,7 +9084,7 @@ all the offices attached to the seat of gov­
 ernment should cease to be exercised else­  
 w her-e.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_japanesechin_ver01:data:sn83045462:00280655296:1899110701:0357/pct:16.153281994866152,92.61104192611042,13.384671800513384,3.9712190397121905/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_japanesechin_ver01:data:sn83045462:00280655296:1899110701:0357/pct:16.157865786578657,92.6214196762142,13.384671800513384,3.981596789815968/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

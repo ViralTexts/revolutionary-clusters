@@ -45,7 +45,7 @@ of individuals of either nation, during the
 late war, contrary to the existing treaty  
 or law of nations. The convention to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802101801:0469/pct:47.49010292953286,11.726384364820847,22.327790973871736,6.342743394860658/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802101801:0469/pct:47.48258391386954,11.725323441599565,22.329533459995776,6.345185319219518/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -76,7 +76,7 @@ viduals of either nation during the late
 war, contrary tothe exilting tredty or  
 the law of nations. KA
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804020701:0437/pct:23.997483881113382,38.34481381651193,16.716464852964304,4.9316162523709695/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804020701:0437/pct:23.997483881113382,38.34481381651193,16.716464852964304,4.938271604938271/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -126,7 +126,7 @@ of Ind vidiul*. of dth-t nation dnii-&#x27;g
 tlie late war, cor-raryto the exifting  
 treaty, or tlie law... of nation:*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804022201:0001/pct:21.051473823141222,10.081819442518375,37.791465024197095,89.16932464290667/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804022201:0001/pct:21.058806276580142,10.091064577266213,37.798797477636015,89.16470207553274/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -148,7 +148,7 @@ rxcriTes ot foreign cruisers) agents, Con­
 ftils, or triSuiials, in their refper&#x27;tive ter­  
 ritories, which mightbeimpu*abetothei
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804022201:0001/pct:40.7391113066432,77.50658715850784,18.301803783545974,5.81056718901678/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804022201:0001/pct:40.7391113066432,77.50658715850784,18.323801143862738,5.81056718901678/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -173,7 +173,7 @@ quence of the exc&#x27;esles of individuzils of either
 &quot;nation during the late war, contrar) co&#x27;the ex­  
 &#x27;rsting treaty, nr thelaws of nations
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216018:1804022201:0573/pct:24.70210815765353,49.744234048281434,22.79254506568897,7.206317867719645/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216018:1804022201:0573/pct:24.698335115319995,49.73977027997128,22.794155083753374,7.208662359416128/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -217,7 +217,7 @@ claims originating from the rxcefTes of
 foreign cruisers, agents, consuls orlri­  
 butw/s, in tiie«r retpeftive temtoric
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804091701:0001/pct:57.82773025661428,35.86062899647658,16.43127113586632,20.214015398668927/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804091701:0001/pct:57.82773025661428,35.86062899647658,16.451163715933955,20.22271521162295/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -254,7 +254,7 @@ the crceases of individuals of either nati.
 on, during the late war, contrai y to the  
 existing treaty of the laws of nations
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804100301:0303/pct:22.275518035303147,38.625097834594314,18.169608595548734,17.127576310983564/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804100301:0303/pct:22.271244964511798,38.620059997391415,18.17251742438775,17.129690013477674/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -274,7 +274,7 @@ of Commissioners should arbitra»e the
 j claims originating from the excesses of  
 foreign utilizers,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804100301:0303/pct:40.828856485034535,12.94025567440647,18.150422102839602,3.93947299765197/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804100301:0303/pct:40.82102436217149,12.938567888352681,18.15333461218748,3.943306812747272/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -306,7 +306,7 @@ have sustained losses, d tmagesor injuries, in con­
 sequence of the excesses of individuals of either  
 nation, during the late war, contrary to the treat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804100401:0142/pct:4.238578680203045,33.789219629927594,21.85279187817259,11.391794046661303/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804100401:0142/pct:4.237503171783811,33.78378378378378,21.853590459274297,11.39398326898327/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -322,7 +322,7 @@ nation, during the late war, contrary to the treat
 Sixth.—It not having been possible for the said  
 plenipotentiaries
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804100401:0142/pct:4.16243654822335,82.25261464199518,21.95431472081218,1.2228479485116652/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804100401:0142/pct:4.161380360314641,82.23938223938224,21.95508754123319,1.2266731016731016/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -358,7 +358,7 @@ fluence of the excefTes of individu als of either na­
 tion, during the late war, contrary to the exifting  
 treaty or the law* of nations
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804100601:0183/pct:5.391272989542013,70.75295581829496,17.598269022719077,14.959551960174238/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804100601:0183/pct:5.390301063638002,70.74415131906422,17.601105702782284,14.961838393894142/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -375,7 +375,7 @@ Sixth—It not having been poffible for the faid ple­
 nipotentiaries to agree upon a inode by which the a­  
 bove mentioned board of coinmiflioners (hnuld
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804100601:0183/pct:23.458348359177787,23.771001866832606,16.96718355571583,1.505911636589919/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804100601:0183/pct:23.454119343789436,23.768043802887007,16.97013400636981,1.5098722415795587/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -472,7 +472,7 @@ injuries, in coseqnence of individuals of either nati­
 on, during the late war, contrary to existing treaty,  
 or the laws of nations.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804100901:0150/pct:26.97969543147208,2.074288470815244,21.928934010152282,3.5214664737095998/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804100901:0150/pct:26.972849530575996,2.0739549839228295,21.929713270743466,3.52491961414791/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -494,7 +494,7 @@ or the laws of nations.
 nation, doring i• ,e late war, contrary to  
 i tlic existing treaty or the laws of nations.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804101701:0318/pct:77.04071879181801,70.9271870089052,18.46683234563181,5.35620743844945/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804101701:0318/pct:77.02599388379205,70.91789969883462,18.46967380224261,5.359870804417092/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -513,7 +513,7 @@ the said plenipotentiaries to agree noon .
 » nv.c; hy which the Above mentioned  
 board r f commissioners should arbitrate 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804101701:0319/pct:4.523580365736285,31.42744479495268,18.132820019249277,2.8785488958990535/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804101701:0319/pct:4.5227097767513476,31.42331449599159,18.13574544521427,2.882551364612082/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -586,7 +586,7 @@ Urn excesses ol individuals of either nation,
 • lilting the laie War,contrary to the existing  
 treaty, or tin* laws of nation*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1818122901:0278/pct:36.924859318106584,87.01143946615825,14.5316120489904,3.145853193517636/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1818122901:0278/pct:36.91874896574549,87.00107232217324,14.5347233713939,3.149449938440764/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -609,7 +609,7 @@ consuls ov tribunals, in their tespeeiive teni­
 toiies, wi icli might he imputable lo their two  
 govemmants, they have, expressly agreed tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1818122901:0278/pct:52.13505461767627,28.741658722592945,14.713670969877525,3.932316491897045/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1818122901:0278/pct:52.1264272712229,28.7382342428214,14.71675216503944,3.9358195321498073/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -738,7 +738,7 @@ dividuals of either nation during the lati
 war, contrary to the existing treaty, or  
 • he laws of nations
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_beachhaven_ver01:data:sn85025061:00513684939:1819010501:0073/pct:63.57388316151203,48.34467120181406,17.378497790868924,15.026455026455027/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_beachhaven_ver01:data:sn85025061:00513684939:1819010501:0073/pct:63.558282208588956,48.33736396614268,17.380368098159508,15.027962515114874/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -759,7 +759,7 @@ the claims originating from the excesses of
 foreign cruisers, agents, consuls or tribit­  
 nals, in their respective
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_beachhaven_ver01:data:sn85025061:00513684939:1819010501:0073/pct:81.61512027491409,26.74225245653817,16.372115856651938,4.444444444444445/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_beachhaven_ver01:data:sn85025061:00513684939:1819010501:0073/pct:81.59509202453988,26.73821039903265,16.374233128834355,4.447551390568319/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -781,7 +781,7 @@ als of cither nation, during the late war,
 contrary to the existing treaty, or the laws  
 of nations
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184133:1819010601:0324/pct:42.36085849399782,40.49629061140957,16.587850127319026,5.129189050908161/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184133:1819010601:0324/pct:42.353155119112564,40.491111395319095,16.59089531429957,5.132796180244703/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -797,7 +797,7 @@ of nations
 6 It not having been possible for the  
 said plenipotentiaries
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184133:1819010601:0324/pct:42.506365951255,90.3939626502942,16.44234267006184,1.3174724993604503/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184133:1819010601:0324/pct:42.49863611565739,90.38240184166773,16.445414317754743,1.32156712282048/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -845,7 +845,7 @@ the late war, contrary
 to the existing treaty,  
 or the laws of natiens
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010832:1819011201:0389/pct:15.379901960784315,38.48297213622291,8.363970588235293,7.750257997936017/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010832:1819011201:0389/pct:15.390114379084967,38.48297213622291,8.36907679738562,7.753697970416237/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -862,7 +862,7 @@ or the laws of natiens
 possible for the said  
 Plenipotentiaries
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010832:1819011201:0389/pct:33.884803921568626,38.85448916408669,8.272058823529411,1.6408668730650156/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010832:1819011201:0389/pct:33.89501633986928,38.85792913656691,8.272058823529411,1.6408668730650156/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

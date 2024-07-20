@@ -245,7 +245,7 @@ jOgMHHMhftpl&#x27;ily subsist between Great ltrltaln and
 BPTlio Hawaiian Islands; and having the  
 fullest confidence In the fidelity and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_gold_ver01:data:sn82016412:00294552170:1892090101:0212/pct:3.671071953010279,30.957230142566193,21.696035242290748,4.5756958587915815/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_gold_ver01:data:sn82016412:00294552170:1892090101:0212/pct:2.7548209366391183,23.217922606924642,16.290174471992653,3.435166327223354/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -294,7 +294,7 @@ Ireland, defender of the faith, king of
 Hanover, to the United States of Amer­  
 ica sendeth greetings. Our good friends!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_halfwayrock_ver01:data:sn83016025:00414210818:1893060801:0404/pct:18.32001559150263,5.822862396567576,12.395244591697525,2.7888446215139444/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_halfwayrock_ver01:data:sn83016025:00414210818:1893060801:0404/pct:18.316445830085737,5.821970277309637,12.397700701480904,2.7922475869465297/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

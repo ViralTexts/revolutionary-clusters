@@ -93,7 +93,7 @@ in this rtspert, for the better.”
 With vety high consideration I am, * sir, your  
 most obedient servant
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808112101:0219/pct:31.810058718406943,86.98799144596151,21.062037273423538,7.468333607501234/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808112101:0219/pct:31.80193976518632,86.97368421052632,21.063042368555386,7.4712171052631575/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -120,7 +120,7 @@ and under circumstances which by no n&#x27;ilt-sans
 indicate an} change, in this respect, for the  
 bettei.&quot;__ 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808112301:0592/pct:54.31771293840259,54.724409448818896,22.988505747126435,8.894058697208303/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808112301:0592/pct:54.30970973920731,54.71951328621276,22.990029959235795,8.89624526557514/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -144,7 +144,7 @@ tailed, and under circumstances which by no
 means indicate anv change, in this respect for the  
 better
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808112501:0237/pct:59.6205477000179,57.12512413108242,17.146948272776086,5.1266137040715/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808112501:0237/pct:59.609878310665714,57.11803400769517,17.149844905750417,5.130114600140664/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -172,7 +172,7 @@ tor the better.”
 With eery high consideration, I am,  
 Sir, your m*&#x27;tt obt. cerrant
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808112901:0389/pct:40.715241920061196,33.82800608828006,17.995792694587877,7.52156265854896/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808112901:0389/pct:40.70745697896749,33.82371591629676,17.9987253027406,7.524836186852673/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -332,7 +332,7 @@ and under circumetaneee which by no meane
 ss indicate any change in thie reepect for the  
 ! better.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216110:1810061801:0593/pct:52.40555376170487,68.79268879268879,21.58540523086858,10.12987012987013/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216110:1810061801:0593/pct:52.39709443099274,68.78607156598692,21.58730158730159,10.132102090547647/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -363,7 +363,7 @@ ed. and under circumstances, which, by no
 means, indicate any change, in this resfiect.  
 for the better.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810062901:0064/pct:23.85388127853881,71.24016938898971,17.36986301369863,3.750756200846945/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810062901:0064/pct:23.849525200876553,71.23155093152674,17.372778183588995,3.754335027018308/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

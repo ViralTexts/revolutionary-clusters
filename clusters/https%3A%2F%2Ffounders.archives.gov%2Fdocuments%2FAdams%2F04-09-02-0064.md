@@ -316,7 +316,7 @@ and John Gibson, aged three months.
 &quot;Tis God that lifts our comforts high,  
 Or sinks them in the grave.&quot; Com
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296199:1847031301:0891/pct:255.14096185737978,191.3677811550152,61.02819237147595,6.504559270516717/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296199:1847031301:0891/pct:63.81169639153878,47.8419452887538,15.263376192451265,1.6261398176291793/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -364,7 +364,7 @@ He gives and (hles-ed be his name,)
 He takes but what he gave.&quot;  
 In West Brownsville Washington County
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn82005159:00296028435:1855012601:0075/pct:83.52996696554979,89.86534372785259,11.546326883750197,2.5513819985825656/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn82005159:00296028435:1855012601:0075/pct:83.53521052907556,89.86534372785259,11.541083320224425,2.563193952279707/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -403,7 +403,7 @@ Or sinks them in the grave;
 He gives--and when he takes away  
 He takes but what he gave
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202190984:1856060601:0544/pct:159.70309425862993,227.4758822811088,29.65480236093722,4.506044694101844/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202190984:1856060601:0544/pct:53.234364752876644,75.82529409370294,9.884934120312407,1.502014898033948/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -469,7 +469,7 @@ Or sinks them in the grave,
 He gives, and blessed be his name,  
 He takes but what he gave.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340597:1860071401:0318/pct:59.68165121567255,94.21476510067114,8.430995277243309,1.3825503355704698/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340597:1860071401:0318/pct:59.671213711087795,94.20212052073548,8.43389296956978,1.3857200375788485/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -540,7 +540,7 @@ Or sinks them in the grave;
 He gives, and blessed be his name,  
 He takes but what he gave
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_dakin_ver03:data:sn84023253:00202197061:1888041901:0062/pct:337.0822281167109,278.236316246742,32.09549071618037,5.25629887054735/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_dakin_ver03:data:sn84023253:00202197061:1888041901:0062/pct:84.29291589280976,69.5590790616855,8.0260015919342,1.3140747176368375/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -616,7 +616,7 @@ He give, and blessed be his name,
 He takes but what he gives.  
 His funeral will take place this u
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_heart_ver01:data:sn85038614:00175031145:1894123001:0713/pct:115.49378200438917,187.02038369304557,33.54791514264814,6.205035971223022/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_heart_ver01:data:sn85038614:00175031145:1894123001:0713/pct:38.497927334796394,62.34012789768185,11.182638380882711,2.068345323741007/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -675,7 +675,7 @@ Or sinks them in the grave.
 He gives, He takes, blest be His name,  
 Ha takes but what He gave
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ash_ver01:data:sn84020358:00415621139:1895110601:0893/pct:7.632398753894081,8.037162660374577,32.982866043613704,118.69930688688984/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ash_ver01:data:sn84020358:00415621139:1895110601:0893/pct:5.726529022204908,6.03155876714349,24.756525126606935,89.02816693702994/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

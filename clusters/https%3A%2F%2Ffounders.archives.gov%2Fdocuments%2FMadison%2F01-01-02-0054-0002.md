@@ -49,7 +49,7 @@ ion of this Convention no amendment, shall be pre­
 fixed to this Constitution, and hive the same rela­  
 tion thereto as it had to the former Constitution o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012201:0078/pct:23.75140517102939,25.49786628733997,17.954070981210855,5.2513039355144615/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012201:0078/pct:23.747591522157997,25.494844138911937,17.956540355384288,5.254632373276441/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -73,7 +73,7 @@ ment. shall be prefixed to this Constitu­
 tion, and have the samn relation thereto as  
 it had to the former Constitution of thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn84038587:00414187389:1830012701:0125/pct:21.78409825468649,81.96812043391631,15.303813833225599,6.497675448306398/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn84038587:00414187389:1830012701:0125/pct:21.78057844562934,81.95904814609851,15.306726988743469,6.500645637336285/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -98,7 +98,7 @@ Convention no amendment, shall be jiretixed
 to this Constitution, and have the same re la  
 tion thereto as it Lad to the former Constiiu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1830012801:0234/pct:21.040339702760086,73.96067415730337,17.8343949044586,6.573033707865169/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1830012801:0234/pct:21.035873487582254,73.9502878809156,17.835915941413713,6.575621401488555/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -117,7 +117,7 @@ aid free Convention; tehtch rights do pertain to
 tfyern, and their posterity, as he bail&#x27; and four. Jn­  
 Cicm of frorrmment
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830020101:0110/pct:7.389470395250742,19.38751746623195,17.262927667551946,2.6432231020027945/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830020101:0110/pct:7.3883161512027495,19.38526021655606,17.265437883994586,2.6467962898280746/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -139,7 +139,7 @@ the diciatoa of conscience; and that it w tho mutual
 duty of all to practice Christian forbearance, love,  
 Charity towards each other
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830020201:0114/pct:5.667566280361962,74.09454374412041,17.558342594062548,4.17450611476952/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830020201:0114/pct:5.666666666666667,74.08583186360964,17.56084656084656,4.177934548304918/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -159,7 +159,7 @@ chrf free Convention; trhich rights do pertain to
 frpzn, and their posterity, as he basis (U.dfoundn­  
 iDm of government
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830020501:0126/pct:7.070063694267516,18.663051167177553,17.356687898089174,3.2303701957085593/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830020501:0126/pct:7.068938067186754,18.660851113992692,17.359231544870774,3.2339188180282132/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -178,7 +178,7 @@ in full and free Convention; ivhich rights do per­
 tain to them, amt their Posterity, as the basis and  
 foundation of Government
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830020601:0284/pct:35.28715216104204,15.485442524069134,15.304914150384842,2.23871940610138/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830020601:0284/pct:35.28192985052538,15.483646485734168,15.30758226037196,2.2423258331400295/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -200,7 +200,7 @@ j entitled to the free exercise of religion, according to
 j duty of all to practice Christian forbearance, love &amp;.  
 j charity towards each &lt;‘ther
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830020901:0138/pct:24.644398273933195,33.99078776426125,18.043790954131374,4.27542222747136/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830020901:0138/pct:24.64046021093001,33.98677373641946,18.046234153616705,4.27885372382302/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -233,7 +233,7 @@ OJld free Convention; which rights do pertain to
 Cten. and their posterity, as he basis and fhunda­  
 tibn of Government
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021001:0142/pct:5.746569814366424,61.924882629107984,17.966101694915253,10.363849765258216/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021001:0142/pct:5.7456423499031635,61.91761530336815,17.9685818807833,10.366545397645034/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -256,7 +256,7 @@ of religion, according t«» the dictate* of ron.
 practice Christian forbearance, love and cha i  
 \y towards each other
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1830021101:0621/pct:6.6455696202531644,79.90181923187987,14.556962025316455,4.374819520646838/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1830021101:0621/pct:6.6441678970681295,79.89028439439873,14.559164733178655,4.377797026129637/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -275,7 +275,7 @@ ami free Convention; which rights do pertain to
 tjt:n. and their posterity, as he basis n,tU farnda­  
 Ihn of Government
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021301:0154/pct:6.357006975269499,70.81891580161476,17.422320862396955,2.6528258362168398/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021301:0154/pct:6.355999365985101,70.81074847191789,17.424842817139535,2.656364125629493/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -296,7 +296,7 @@ ninnt ; requiring in the opinion of this Conven­
 tion no amendment, shall bo profixed to this  
 Constitution, and have tho same relation theiot
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830021901:0143/pct:34.27944174376666,22.521164327960108,15.116826093774502,3.3630986895512/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830021901:0143/pct:34.27406710567576,22.518552875695732,15.119682241036898,3.366573902288188/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -315,7 +315,7 @@ nf the good People of Virginia, assembled in fall
 &#x27;pinand their posterity, as he basis and founda­  
 tion of Government
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022601:0198/pct:6.9975980784627705,71.92395073538204,17.46997598078463,2.7023795288771972/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022601:0198/pct:6.996477745757285,71.91535150645625,17.472515743409115,2.706041766300016/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -335,7 +335,7 @@ free Convention; which rights do pertain to
 and their posterity, as the basis and founda­  
 tion &lt;f Government
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022701:0202/pct:5.484284797947402,71.95497630331754,18.056446440025656,2.6303317535545023/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022701:0202/pct:5.483405483405483,71.9464518421988,18.058895836673614,2.6339691189827428/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -352,7 +352,7 @@ the dictates of conscience; and that it is the mutual
 duty of all to practice Christian forbearance, love. &amp;  
 chanty towards each other
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022701:0202/pct:24.134060295060937,38.518957345971565,17.623476587556127,1.5165876777251184/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022701:0202/pct:24.130190796857462,38.51439402914347,17.62599540377318,1.5203569877186747/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -373,7 +373,7 @@ the good people of Virginia, assembled in full and
 free Convention, June 12, 1776,” in these words:  
 &quot;All power is vested in, mid consequently de
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn86071753:00414184376:1845102101:0324/pct:24.465264274350364,30.434782608695652,17.641859642920277,4.763067904250122/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn86071753:00414184376:1845102101:0324/pct:24.46094026157653,30.431066064232507,17.644632968068812,4.766556763137542/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -396,7 +396,7 @@ ind that it is the mutual duty of all to practice j
 :hristian forbearance, love ami charity toward*  
 each other
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851081201:0336/pct:72.20774206004441,69.70891239715135,12.868037455352834,3.9825762289981332/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851081201:0336/pct:72.2007722007722,69.70409292035399,12.87001287001287,3.9846054572271385/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -418,7 +418,7 @@ science ; and that it is the mutual duty of all to practice
 chriftian forbearaube, love and chanty towards each  
 other
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157327:1851082801:0418/pct:43.644844244544394,67.81679764243614,12.110611360986173,2.762770137524558/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157327:1851082801:0418/pct:43.63757495003331,67.80847145488029,12.11275816122585,2.765500306936771/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -450,7 +450,7 @@ dictates of conscience; and that it is the mutual duty
 of all, to practise christian forbearance, love aud  
 charity towards each other.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1854090101:0343/pct:14.385049978270317,72.25279939267413,15.326669563957699,8.768267223382045/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1854090101:0343/pct:14.385049978270317,72.25596254823812,15.34115601912212,8.774593534510027/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -474,7 +474,7 @@ that it is the mutual duty of all to
 christian forhearance, love and charity to­  
 wards each other.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202190959:1854102601:0400/pct:20.99002973587546,253.9146121467228,42.48731852370124,16.764882742032473/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202190959:1854102601:0400/pct:6.996676578625153,84.6382040489076,14.162439507900414,5.588294247344157/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -491,7 +491,7 @@ the dictates of conscience; and that it is the mutual
 duty of all to practice christian forbearance, tore and  
 charity toirarits each other,&quot; T
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1854102701:0407/pct:27.47773628267739,76.3314728975499,13.702958919850618,1.3243780153249456/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1854102701:0407/pct:27.47773628267739,76.33777945952764,13.72211050464426,1.3243780153249456/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -513,7 +513,7 @@ according to the dictates of conscience; and that
 it is the mutual duty of all to practice Christian  
 forbearance, love, and charity toward each other
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82014835:00415661514:1855073101:0254/pct:70.57124097176624,20.693310717693205,12.908732764281025,3.8799957595674757/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82014835:00415661514:1855073101:0254/pct:70.57999562267455,20.696844411463303,12.908732764281025,3.883529453337574/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -536,7 +536,7 @@ man disturb the public happiness or safety of
 society.&quot; Mr. Madison did not like the word tol  
 eration. It seemed to grant as a privilege wha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_flavory_ver01:data:sn83030213:00206530637:1859101501:0316/pct:55.096966683242165,118.82741535920727,47.96950107740759,17.43541347174708/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_flavory_ver01:data:sn83030213:00206530637:1859101501:0316/pct:18.36565556108072,39.609138453069086,15.989833692469198,5.81180449058236/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -590,7 +590,7 @@ duty of all to practice christian
 forbearance, love and charity  
 towards each other.&quot; Thes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_lincoln_ver01:data:sn86092339:00279550262:1860030901:0016/pct:1.4751982297621242,35.30571992110453,16.20874054951134,10.34922844877596/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_lincoln_ver01:data:sn86092339:00279550262:1860030901:0016/pct:1.4874915483434754,35.31345477046835,16.20874054951134,10.353095873457864/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -641,7 +641,7 @@ assembled in full and free convention, which
 rights do pertain to us and our posterit,  
 as the basis and foundation of gover
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_journey_ver01:data:sn84024738:00206531034:1881101501:0373/pct:125.7936507936508,38.43005561968727,40.12515262515262,28.292580543603737/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_journey_ver01:data:sn84024738:00206531034:1881101501:0373/pct:41.93121693121693,12.810018539895756,13.375050875050874,9.430860181201245/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -751,7 +751,7 @@ should enjoy the fullest toleration in the
 exercise of religion, according to the dic­  
 tates of conscience, Madison pointed ou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_eigg_ver01:data:sn99062034:00279523313:1893061701:0331/pct:22.497241053129436,54.45490367775832,14.046980923853067,2.419001751313485/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_eigg_ver01:data:sn99062034:00279523313:1893061701:0331/pct:22.507751326922065,54.45490367775832,14.052236060749383,2.419001751313485/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -787,7 +787,7 @@ which proposed that. &quot;All men
 men should enjoy the fullest tolera  
 tion in the exercise of religion,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_charlie_ver01:data:sn84024055:00280761023:1898031901:0238/pct:24.59481361426256,51.468211206896555,19.6515397082658,5.2532327586206895/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_charlie_ver01:data:sn84024055:00280761023:1898031901:0238/pct:18.467464017839042,38.60452586206897,14.737482262315021,3.9466594827586206/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -807,7 +807,7 @@ which proposed that, &quot;All men
 men should enjoy the fullest tolera­  
 tion in the exercise of religion,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_charlie_ver01:data:sn84024055:00280761023:1898031901:0240/pct:26.28928283642224,51.0952828920844,19.52054794520548,5.2815481790081975/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_charlie_ver01:data:sn84024055:00280761023:1898031901:0240/pct:19.72994760177348,38.3281816960086,14.651350261991132,3.9645208977288/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -856,7 +856,7 @@ exercise of religion, according to the dic­
 tates of conscience&quot;; but rather &quot;all men  
 are equally entitled to the free exercise o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_carlsbad_ver01:data:sn85066387:00175047505:1899120101:0239/pct:70.97066827940732,32.006707657909445,13.15391593589356,2.358859698155394/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_carlsbad_ver01:data:sn85066387:00175047505:1899120101:0239/pct:70.97570809394215,32.006707657909445,13.148876121358734,2.358859698155394/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -876,7 +876,7 @@ the dlctqte of con5iece but rather
 oil men are equally entitled to the  
 a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_dantley_ver01:data:sn85058130:00206534266:1899120101:0310/pct:66.46341463414635,90.30031948881789,18.992109038737446,3.6038338658146967/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_dantley_ver01:data:sn85058130:00206534266:1899120101:0310/pct:44.33877624259824,60.20447284345048,12.668221783599497,2.402555910543131/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

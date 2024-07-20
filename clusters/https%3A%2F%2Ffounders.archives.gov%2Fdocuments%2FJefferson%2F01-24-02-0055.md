@@ -60,7 +60,7 @@ ber, 1792, Mr. Jeffe rsonj writing to Mr,
 Pinckney on the same subject, says “ It is  
 unnecessary to dcvelope
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812081401:0115/pct:77.43197912784197,33.28822733423545,17.722698471859857,7.811538934678312/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812081401:0115/pct:77.41755170486306,33.284132841328415,17.72560710514875,7.814678146781468/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -91,7 +91,7 @@ ton, for the sake of peace, approved and
 signed an act, the fourth section of which  
 authorised the collectors of every district t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812081401:0115/pct:77.5624301155423,58.75261409767499,17.666790905702573,9.546069627260426/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812081401:0115/pct:77.54797838643563,58.745387453874535,17.66970995590336,9.5489954899549/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -163,7 +163,7 @@ irvitation excited on the last occasion, and rée
 difficul&#x27;y of aveiding cur makinyg inimediate res  
 prisals un therr sramdn here”” On the sixt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812090301:0681/pct:28.780012978585333,35.26905163016549,21.72290720311486,6.817956594985631/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812090301:0681/pct:28.790828466363834,35.26905163016549,21.72290720311486,6.8212598685297126/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -192,7 +192,7 @@ for the suke of peace, approved and signed an
 ~act, the fourth section of which authorized the  
 ~collectors of every district to grant certifi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812090301:0681/pct:28.763789746917585,66.52462590427113,22.063595068137573,10.494500049549103/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812090301:0681/pct:28.769197490806835,66.52792917781521,22.069002812026824,10.501106596637268/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -395,7 +395,7 @@ can shall be evidence that the seamen on board
 are such.&quot;  
 &quot;Fifty years&#x27; experience, the utter failure o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530170:1842091501:0164/pct:6.0112525910571515,283.37866108786613,47.92715427894581,9.069037656903765/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530170:1842091501:0164/pct:2.0037508636857173,94.45955369595536,15.975718092981937,3.0230125523012554/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -435,7 +435,7 @@ plest rule will be, that the vessel being American
 shall be evidence that the seamen on board are  
 such.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184601:1842092101:1000/pct:49.61628817541112,139.90384615384616,38.40250587314017,4.4793621013133205/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184601:1842092101:1000/pct:16.536172878170998,46.62914761402275,12.798830775655079,1.4929456364560127/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -506,7 +506,7 @@ that the vessel being American shall be evidence that
 the seamen on board a:e such.&quot;  
 Fifty years&#x27; &lt; xperience, the uttrr failure of man
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664266:1842092701:0253/pct:19.299575500303213,69.91213008786991,15.97938144329897,2.343197656802343/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664266:1842092701:0253/pct:19.299575500303213,69.91886341446993,15.98948857893673,2.3465643201023467/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -555,7 +555,7 @@ rule w ill be, that the vessel being American shall be
 evidence that the seamen on board are such.&quot;  
 Fifty years&#x27; experience, the utter failure of man
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661290:1842112501:0507/pct:17.19846841097639,23.962306484182186,15.57115507338864,2.4568095131254206/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661290:1842112501:0507/pct:17.19846841097639,23.96604592027522,15.576473090831739,2.460548949218458/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -687,7 +687,7 @@ The simplest rule will be that the vesrel being American
 shall be evidence that the seamen on board her are such.  
 in another letter to the same Minister, dated Octobe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271743403:1862011001:0088/pct:143.6231884057971,261.4875841262474,49.210950080515296,16.419122766303087/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271743403:1862011001:0088/pct:47.8743961352657,87.16252804208246,16.40365002683843,5.4730409221010285/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -726,7 +726,7 @@ dence that the seamen on board are such
 and fifty years afterward it was restated  
 with no less precision by one of the mos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn85042437:00280775551:1866081601:0575/pct:67.0945945945946,84.15974269632807,38.108108108108105,9.327258107745912/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn85042437:00280775551:1866081601:0575/pct:16.77364864864865,21.039935674082017,9.527027027027026,2.331814526936478/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -755,7 +755,7 @@ ment thereof oy Mr. Webster, &quot;in every regular.
 ly documented American merchant vessel the crew  
 who navigate it will find their protection in the fla
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743646:1868110201:0402/pct:89.09001956947162,56.75115207373272,61.93737769080235,17.62672811059908/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743646:1868110201:0402/pct:29.696673189823876,18.91705069124424,20.645792563600782,5.875576036866359/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -141,7 +141,7 @@ yet definitively condemned, or which may
 be captured before the exchange of rati­  
 fications (contrsband goods deftined t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801122301:0002/pct:27.04450361354127,77.88235294117646,16.641308482312667,5.7708978328173375/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801122301:0002/pct:27.04450361354127,77.890608875129,16.653987574489665,5.775025799793601/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -216,7 +216,7 @@ demned, or which may be captured before tlie exchange
 of ratifications, shall lie mutually restored. Proofs ol  
 ownership to be sjiecified in the convention
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851020401:0144/pct:37.688358999834406,35.88310038119441,15.582050008279516,2.0838627700127064/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851020401:0144/pct:37.69939835513606,35.891571368064376,15.57653033062869,2.0880982634476917/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

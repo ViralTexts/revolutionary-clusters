@@ -472,7 +472,7 @@ And God saw their works that they turned from their
 evil way; and God repented of the evil that He had said  
 that He would do unto them; and He did it not
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024669:00414184753:1864040801:0175/pct:202.89017341040463,44.46265511589792,44.50867052023121,8.124560992741747/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024669:00414184753:1864040801:0175/pct:67.61889035667107,14.819150181435093,14.833773667987671,2.7078699910257913/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -491,7 +491,7 @@ turned from their evil way; and God repented him
 of the evil that he had said that he would do unto  
 sthem; and he did it not.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024669:00414184765:1865031001:0122/pct:106.68604651162791,72.4659784138902,44.34754521963824,10.077428437353355/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024669:00414184765:1865031001:0122/pct:35.556273211690616,24.1524926686217,14.78012810162011,3.358748778103617/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -676,7 +676,7 @@ from their evil way ; and God repented ot the
 evil, that he had said that he would do unto  
 them : and he did it not
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn85038180:00296029063:1885111201:0118/pct:67.53554502369668,30.338557243689436,14.188388625592417,3.517167125254217/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn85038180:00296029063:1885111201:0118/pct:50.674173951696545,22.753917932767077,10.653430137798193,2.6438569206842923/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -715,7 +715,7 @@ He did it not.&quot;
   
 See His promise to act thus given at 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_rolls_ver01:data:sn85025431:00212479846:1891042201:0122/pct:66.81265206812652,79.28795342588447,13.83617193836172,2.0376175548589344/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_rolls_ver01:data:sn85025431:00212479846:1891042201:0122/pct:66.81805893484726,79.28795342588447,13.852392538523926,2.0413494551425586/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -750,7 +750,7 @@ had said that He would do unto them, and
 He did it not.”  
 See His promise to act thus given at 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn85035722:00513685178:1891042301:0209/pct:42.26901916144944,73.59452374016895,11.971162967178904,1.8642586658898923/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn85035722:00513685178:1891042301:0209/pct:42.26100151745068,73.58380661132955,11.973634294385432,1.8676277850589778/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -787,7 +787,7 @@ He did it not.” |
   
 See His promise to act thus given at 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_heron_ver02:data:sn88085722:00414189908:1891042601:0191/pct:3.311735061195104,76.7691798941799,14.494840412766978,6.001984126984127/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_heron_ver02:data:sn88085722:00414189908:1891042601:0191/pct:3.3177345812335015,76.7691798941799,14.51283897288217,6.014384920634921/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -1069,7 +1069,7 @@ jury may assess, provided that the person
 J claiming the property shall give re isona­  
 ! ble notice to the plaintiff, his attorney or u
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808021201:0057/pct:22.840437570728028,58.11153358681876,17.76688042248208,4.752851711026616/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808021201:0057/pct:22.83613049217424,58.10416930680522,17.769815827519015,4.756473619735564/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1470,7 +1470,7 @@ the creditor of any such debtor shall
 have a right to appear before said judge  
 and contest the truth of such schedule
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898012:1821030601:0032/pct:22.124352331606218,36.9153584722447,17.33160621761658,25.360090629551706/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898012:1821030601:0032/pct:22.11862211862212,36.909385113268605,17.333592333592332,25.360032362459545/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1501,7 +1501,7 @@ judgment rendered in any action for the neglect
 of military duty, and who shall have remained  
 a prisoner for and during the term of thirt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1821073101:0329/pct:53.33139365725924,79.16461916461917,16.32237416351469,3.7542997542997543/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1821073101:0329/pct:53.33139365725924,79.16461916461917,16.336921734070412,3.764127764127764/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1692,7 +1692,7 @@ of February, the same power to admit
 such defendant to bail, as is vested in the  
 r &gt;r judge by whose order the capias i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:0039334894A:1832040501:0060/pct:8.665254237288135,27.525499510968285,17.35169491525424,10.786642447953053/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:0039334894A:1832040501:0060/pct:8.663418767210336,27.52165409332216,17.353314975640753,10.78862810841017/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1962,7 +1962,7 @@ ter the forthcoming bond shull be torfeited, sucli
 sheriff or other officer, his executors or adminis­  
 trators, shall be liable to the same fine arid pe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215725:1843031801:0266/pct:22.114368092263334,24.224449444330812,14.435367611725132,11.481557237335515/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215725:1843031801:0266/pct:22.11224293676725,24.22279792746114,14.43718367608431,11.483046995727662/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2005,7 +2005,7 @@ or advantage therefrom, or to defraud or de­
 ceive any creditor to whom I am indebted in  
 any wise w hatsoevcr. So help me (Jod !
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_lilac_ver02:data:sn82015408:00237289699:1848062401:0434/pct:69.9807568954458,116.1106590724166,19.45157152020526,8.857375334185749/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_lilac_ver02:data:sn82015408:00237289699:1848062401:0434/pct:52.510829456120646,87.0859002673486,14.599711214503449,6.648843426711612/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2177,7 +2177,7 @@ whom. I am indented in anywise whatsoever : bo help me God.
 See. 985. The debtor, if afterwards sued for any of  
 his debts, shall have no benefit of the said discharge
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_ariel_ver01:data:sn82015418:00212474216:1859092101:0500/pct:6.007543103448276,57.43567844560692,17.510775862068964,5.316536778050603/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_ariel_ver01:data:sn82015418:00212474216:1859092101:0500/pct:4.5142164128823605,43.07675883420519,13.138391052418811,3.9927404718693285/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2280,7 +2280,7 @@ the same, or to receive, or expect any profit, or ad­
 vantage therefrom, or to defraud or deceive your  
 creditors ; so help you God.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ellsworth_ver01:data:sn84020071:00393347259:1871051801:0292/pct:31.96461579086348,26.50713772209099,12.371270134671244,5.699907569066448/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ellsworth_ver01:data:sn84020071:00393347259:1871051801:0292/pct:31.96039603960396,26.504415691107003,12.374037403740374,5.702745259122339/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2314,7 +2314,7 @@ cutors or administrators, to whom the
 money was to be paid by the said order or  
 decree, shall have the same remedy agaius
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685282:1876060801:0297/pct:50.03172588832487,67.20469552457814,10.75507614213198,8.535094155050135/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685282:1876060801:0297/pct:50.02379064234734,67.19647878713779,10.757335448057098,8.537107225822227/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2444,7 +2444,7 @@ The oath she takes is:
 God, solemnly swear that this application  
 was made in good faith, tor the purpos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_ahwahnee_ver01:data:sn85066387:00175037780:1898111301:0203/pct:84.66748768472907,59.209614051305756,13.377463054187192,3.258608735844696/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_ahwahnee_ver01:data:sn85066387:00175037780:1898111301:0203/pct:84.67775041050903,59.21346583468146,13.382594417077176,3.258608735844696/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

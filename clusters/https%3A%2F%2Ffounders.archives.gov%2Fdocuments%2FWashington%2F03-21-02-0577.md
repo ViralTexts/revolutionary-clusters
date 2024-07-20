@@ -535,7 +535,7 @@ do, punish soldiers tor offence* of this
 kind, it could not tail of having us in­  
 tended tffect
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1823101101:0117/pct:5.2204490127130105,4.761904761904762,36.489045171760885,91.3464696223317/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1823101101:0117/pct:5.219037317468902,4.761122968313906,36.48593834505138,91.33557708093909/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -654,7 +654,7 @@ rule t&lt;&gt; reprimand, and if that does not do,
 punish SukLers for offences of this kind, it couki  
 not fail of having its intended effect
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348914:1824120901:0413/pct:4.100084104289318,2.009273570324575,35.55508830950379,92.10341435998313/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348914:1824120901:0413/pct:4.0992221988648305,2.008991289688115,35.5528694555392,92.09398707502108/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1342,7 +1342,7 @@ punish soldiers for offences of this kind,
 it would not fail of having the desired  
 efl&#x27;ecl.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn86063325:00200292455:1850011001:0272/pct:92.73008507347255,102.40126382306477,17.266047950502706,24.218009478672986/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn86063325:00200292455:1850011001:0272/pct:69.58792803250145,76.8088467614534,12.961888179531824,18.167456556082147/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1377,7 +1377,7 @@ to reprimand, and if that does not d°, punish
 #oIdiere tor offences ot this kind, it count not  
 lad of having the desired effect.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_emeralds_ver02:data:sn85025007:00414215889:1852091801:0333/pct:5.896577380952381,44.50602743522239,12.527901785714286,9.442981848413469/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_emeralds_ver02:data:sn85025007:00414215889:1852091801:0333/pct:5.89602901515856,44.502944232767575,12.529836634737592,9.444636877958665/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1411,7 +1411,7 @@ and, if that does not do, punish, soldiers for of­
 fences of this kind, it could not fail of having  
 the desired effect.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82014593:00415661034:1852092001:0949/pct:81.21697357886309,59.1594703511802,15.724579663730985,10.259067357512953/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82014593:00415661034:1852092001:0949/pct:81.21697357886309,59.167146421032434,15.740592473979182,10.255229322586835/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1445,7 +1445,7 @@ reprimand, and if that does not do, punish soldiers
 for offences of this kind, it could not fail of having  
 the desired effect.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn86092535:00202190522:1852092101:0096/pct:231.97211155378486,357.76476175399716,56.254980079681275,36.93208801646351/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn86092535:00202190522:1852092101:0096/pct:57.993027888446214,89.44119043849929,14.063745019920319,9.233022004115877/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1518,7 +1518,7 @@ reprimand, and if that does not do, punish soldiers
 for offences of this kind, it could not fail of hav­  
 ing the desired effect.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624268:1852092901:0308/pct:36.315228966986155,37.66459897703776,14.331355545413054,9.59843290891283/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624268:1852092901:0308/pct:36.3203002180638,37.66822650270251,14.331355545413054,9.59843290891283/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1551,7 +1551,7 @@ reprimand, and if that does not do, punish soldiers
 for offfnees of this kind, it could not fail of having  
 the desired effect.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879075:1852100101:0400/pct:69.72428419936374,97.39766081871345,20.824496288441146,12.046783625730994/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879075:1852100101:0400/pct:52.31401670865933,73.05068226120858,15.634531229279936,9.035087719298245/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1629,7 +1629,7 @@ do, punish soldiers for offences of this kind
 it could not fail of having the desired ef­  
 fect.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_arbok_ver04:data:sn82003383:00295874429:1852102301:0404/pct:243.92023346303503,51.330275229357795,37.9863813229572,36.88073394495413/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_arbok_ver04:data:sn82003383:00295874429:1852102301:0404/pct:81.30674448767834,17.110091743119266,12.662127107652399,12.293577981651376/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1809,7 +1809,7 @@ reprimand, and if that doe not do, punish soidieW
 for o&amp;nces of this kind, it cculd not fail of havin-&#x27;  
 tb dwired fleet.&quot; V 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024518:0029602272A:1853031201:0086/pct:8.627392344497608,112.73095720586483,19.632177033492823,14.387888902133746/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024518:0029602272A:1853031201:0086/pct:6.4771877337322366,84.55119799737751,14.734480179506358,10.78793658362141/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1842,7 +1842,7 @@ officers would make it an invariable rnlto
 V ?Pnmwid nd if Uiat docs not do, punish soldiers,  
 V r ?ence of this kind, it eould not fail of having
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022639:1853031601:0045/pct:5.46158256880734,113.46990765311538,22.00401376146789,13.905105615115168/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022639:1853031601:0045/pct:4.101534490176395,85.10773803205605,16.5065251685071,10.423521919116867/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1878,7 +1878,7 @@ rule to reprimand, and if that does not do, I
 punish soldiers for offences of kind, it could j &#x27;  
 not fail of huving the desired eflect.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn84028479:0028077537A:1853031801:0047/pct:41.111111111111114,67.21944245889921,17.22222222222222,16.025732666190137/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn84028479:0028077537A:1853031801:0047/pct:30.85888470503855,50.421729807005,12.928097543482158,12.022873481057898/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1912,7 +1912,7 @@ reprimand, and if that does not do, punish soldiers
 for offences of this kind, it could not fail of hav­  
 ing the desired efiect.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016866:00295877625:1853032601:0123/pct:89.86325802615933,70.36111741994095,20.228894173602853,14.467408585055644/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016866:00295877625:1853032601:0123/pct:67.42491822777282,52.77083806495571,15.179898899791853,10.85623438564615/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1948,7 +1948,7 @@ rule to reprimand, and if that does nof do,
 punish soldiers for offences of this kind, it  
 could not fail of having the desired effect.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn83025143:no_reel:1853051401:0141/pct:56.45021645021645,107.34811165845649,44.473304473304474,39.367816091954026/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn83025143:no_reel:1853051401:0141/pct:18.816738816738816,35.78270388615216,14.824434824434825,13.122605363984674/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2097,7 +2097,7 @@ mand, nnd, if that would not do,punish soldiers
 for offences of this kind, it could not fail of hav­  
 ing the desired effect.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn85025594:00383347348:1855052201:0214/pct:30.91419406575782,63.65853658536585,12.309542902967122,8.695652173913043/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn85025594:00383347348:1855052201:0214/pct:30.918649202530517,63.65853658536585,12.31399803973982,8.702721809826794/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2121,7 +2121,7 @@ The reign of flirtation has set in furiously, and come
 pels all, from the full-fledged officer to the lowliest  
 &quot;caddy.&quot; This is the epoch most glorious to the cadet
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fortran_ver01:data:sn83030214:00206531083:1871060301:0239/pct:53.02734375,158.0675203725262,48.258463541666664,15.355064027939465/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fortran_ver01:data:sn83030214:00206531083:1871060301:0239/pct:17.67578125,52.68917345750873,16.08615451388889,5.1183546759798215/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2213,7 +2213,7 @@ reprimand, and if that does not dbPpunish
 soldiers for offences&#x27;of this kind, it could not  
 fail of having the desired effect.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862749:1871110901:0008/pct:61.60515524311658,40.9693196976434,14.715875805506737,14.468652734548689/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862749:1871110901:0008/pct:61.612966217535636,40.9693196976434,14.711970318297208,14.471617014969617/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2386,7 +2386,7 @@ rule to reprimand, and, if that does not do,
 punish soldiers for offences of this kind, it  
 could not fail of having the desired effect
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777055:1879080101:0541/pct:181.65548098434004,117.59822910902048,37.88217747949292,32.98284449363586/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777055:1879080101:0541/pct:45.422338243520414,29.39955727725512,9.472310274100318,8.245711123408965/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2421,7 +2421,7 @@ nnd, if that does not do, punish soldiers fur of­
 fenses of thin Kind, it could not full of having  
 the desired effect. George Wahiiikgton
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pulaski_ver01:data:sn84031492:no_reel:1879080201:0015/pct:57.428872497365646,40.74298405007067,13.0927291886196,8.762366242681203/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pulaski_ver01:data:sn84031492:no_reel:1879080201:0015/pct:57.4354583772392,40.75307894205532,13.105900948366703,8.752271350696548/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2472,7 +2472,7 @@ that does not do, punish soldiers for
 offenses of this kind, it could not  
 fail of having the desired effect.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159191:1879080701:0337/pct:85.35339199545841,64.76793248945148,9.849560034061879,12.835887186320232/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159191:1879080701:0337/pct:85.35812281199735,64.76793248945148,9.854290850600814,12.835887186320232/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2511,7 +2511,7 @@ not do, punish soldiers for offences of this
 kind, it could not fail of having iho de­  
 sired effect.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ira_ver01:data:sn84023416:00202197504:1879080801:0337/pct:8.145863570391873,112.10404326551635,16.418722786647315,14.885397888230749/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ira_ver01:data:sn84023416:00202197504:1879080801:0337/pct:6.1172626611000185,84.08447077002317,12.32528589580686,11.164048416173062/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2567,7 +2567,7 @@ not do, punish soldiers for offenses of
 this kind, it would not fail of having  
 the desired effect
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85026455:0020219803A:1879080901:0193/pct:49.93191721132898,36.19216033009136,17.59259259259259,30.95588957657923/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85026455:0020219803A:1879080901:0193/pct:33.2970175677516,24.128106886727576,11.725452812202096,20.64053443363788/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2623,7 +2623,7 @@ does not do, punish soldiers for of
  fenses of this kind, it could not fail of  
 having the desired effect
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415669197:1879081201:0438/pct:192.16893972723273,208.1441087073127,29.135503739551254,55.86447344895405/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415669197:1879081201:0438/pct:64.07040704070407,69.38136956910424,9.713971397139714,18.62149114965135/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2671,7 +2671,7 @@ kind, it could not fail of having the desir
   
 ed effect.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_funston_ver01:data:sn84027670:00237283387:1879081401:0415/pct:230.4698972099853,233.06999306999307,46.69603524229075,45.516285516285514/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_funston_ver01:data:sn84027670:00237283387:1879081401:0415/pct:57.617474302496326,58.26749826749827,11.674008810572687,11.379071379071378/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2772,7 +2772,7 @@ that does not. do, punish wddiers for
 offences of this kind, it could not fail  
 of having the desired effect
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_elk_ver01:data:sn93061632:0029602482A:1879082101:0044/pct:50.1890756302521,34.57233660356501,21.19747899159664,12.40845654276634/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_elk_ver01:data:sn93061632:0029602482A:1879082101:0044/pct:37.6708009249527,25.936161392842337,15.913390792516292,9.299433466906176/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2850,7 +2850,7 @@ not do, punish soldiers for offence* of this
 kind, it eouln not fail of having the de­  
 sired effect.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn84009409:00296028757:1879082801:0280/pct:51.16417910447761,70.54661487236405,14.64676616915423,12.444506104328523/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn84009409:00296028757:1879082801:0280/pct:51.17744610281924,70.54661487236405,14.640132669983416,12.453755086940436/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2974,7 +2974,7 @@ does not do, pnnish soldier- ‘ r offs,
 of this kino, it could not fail of having  
 the desired effect
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_chert_ver01:data:sn86053968:00383343781:1879091801:0300/pct:72.19277906591587,62.357693720161585,10.698906922822127,13.979679275309095/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_chert_ver01:data:sn86053968:00383343781:1879091801:0300/pct:72.18082463984103,62.35006119951041,10.70127504553734,13.981028151774785/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3029,7 +3029,7 @@ not do, punish soldiers for offenses of
 this kind, it could not fail of having the  
 desired effect
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_ida_ver01:data:sn85033681:00296021106:1879092401:0153/pct:35.96443965517241,53.6559594251902,14.682112068965518,25.824175824175825/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_ida_ver01:data:sn85033681:00296021106:1879092401:0153/pct:26.98733495014821,40.247252747252745,11.0078146052277,19.36813186813187/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3079,7 +3079,7 @@ not do, punish soldiers for offences of
 this kind, it could not fail of having the  
 desired effect
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_nova_ver02:data:sn86092518:00383341607:1879092901:0305/pct:26.39451978190969,3.4486256212597626,23.067244512791834,93.68090069986815/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_nova_ver02:data:sn86092518:00383341607:1879092901:0305/pct:26.39083030472463,3.4482758620689653,23.068679526605163,93.67478025693036/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3113,7 +3113,7 @@ ufluenee and authority to check a vice
 vhioh is as unprofitable as it is wicked and  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024653:00393349542:1879100301:0163/pct:74.19721050924424,44.48284690220174,11.709373986376905,40.43778801843318/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024653:00393349542:1879100301:0163/pct:74.1851791795038,44.47715346217842,11.711529106534782,40.43581210802509/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3150,7 +3150,7 @@ tot do, punish soldiers for offences of this
 cind, it could not fail of having the de­  
 lired effect
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024653:00393349542:1879100301:0163/pct:74.19721050924424,73.86072708653354,11.709373986376905,14.336917562724015/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024653:00393349542:1879100301:0163/pct:74.1851791795038,73.85127351849482,11.711529106534782,14.338282349929605/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3220,7 +3220,7 @@ fenses of this kind, it could not
   
 fail to have the desired effect
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_felice_ver01:data:sn86063662:00200292406:1880021901:0149/pct:299.29128277817154,117.74353174042132,38.69596031183558,67.07196380602291/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_felice_ver01:data:sn86063662:00200292406:1880021901:0149/pct:74.83608009923799,29.43588293510533,9.675704412546517,16.767990951505727/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3274,7 +3274,7 @@ rule
 l.hi  
 fail of having the desired effect.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555675:1883022201:0631/pct:68.71366279069767,107.59853718000812,14.680232558139535,9.846945686035488/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555675:1883022201:0631/pct:51.56306797528172,80.69890288500609,11.014176663031625,7.3953677366924016/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3300,7 +3300,7 @@ will use their influence and authority to check
 a vice which is as unprofitable as it is wicked  
 and shameful.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hughes_ver01:data:sn85026214:print00205958289:1886082901:0003/pct:5.94614133381529,71.45616067979915,11.98264955720224,5.304493369383288/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hughes_ver01:data:sn85026214:print00205958289:1886082901:0003/pct:5.955178022772456,71.45616067979915,11.99620459063799,5.307712115359855/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3335,7 +3335,7 @@ if that does not do. punish soldiers for offenses
 of this kind, it could not fail of having the &gt;Il­  
 sired effect. GKOBGE Wasiii.nc.ton
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_mojave_ver01:data:sn82014381:00175036544:1887121201:0379/pct:15.677224255928696,47.72239446696876,10.743275505331848,6.606248509420463/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_mojave_ver01:data:sn82014381:00175036544:1887121201:0379/pct:15.677224255928696,47.7313379441927,10.75123348718765,6.606248509420463/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3375,7 +3375,7 @@ do» net do, panieb eoldie.s for offenses o&#x27;
 this kiad, it coald not fail of having tat  
 dêîired f£T ct.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_odona_ver04:data:sn86092523:00279550274:1888111101:0021/pct:70.81618655692729,79.2939039618572,13.580246913580247,12.907253944829153/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_odona_ver04:data:sn86092523:00279550274:1888111101:0021/pct:70.8040459454826,79.28490351872871,13.58363335047717,12.909572455542943/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3488,7 +3488,7 @@ at the home altar and in the closet was
 reverently studious of God&#x27;s word, and  
 bent his knee at the table of the sacra
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_gonvick_ver01:data:sn90059522:00175033543:1891022401:0538/pct:73.2011645639817,32.97997644287397,10.716761403022321,4.925580897312346/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_gonvick_ver01:data:sn90059522:00175033543:1891022401:0538/pct:73.20578584962337,32.98354570439376,10.721382688663986,4.922011635792555/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3529,7 +3529,7 @@ and uf that wont do) to pimnish soldiers for of
 of this kind, it would not fall of havins  
 the desired effect.&quot;    
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jaguar_ver01:data:sn83030214:00175038826:1895092901:0459/pct:245.17374517374517,37.255330781848,49.14736164736165,33.898305084745765/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jaguar_ver01:data:sn83030214:00175038826:1895092901:0459/pct:81.72458172458172,12.418443593949334,16.382453882453884,11.299435028248588/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3601,7 +3601,7 @@ and if that does not do to punish soldiers for
 offenses of the kind, it could not fail of having  
 its intended effect.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685166:1898022401:0256/pct:72.0,64.07360174895246,21.263157894736842,11.969393332118782/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685166:1898022401:0256/pct:71.98105761641673,64.06193078324226,21.26414101552223,11.97176684881603/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

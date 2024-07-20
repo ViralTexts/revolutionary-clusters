@@ -94,7 +94,7 @@ States, at the requcft of the mafter, be
 furnifhed by the collector of the difrrict  
 were fuch veffel maybe, with a paffpor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803031601:0001/pct:78.86143931256713,38.31068777139655,17.91621911922664,25.283653172713265/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803031601:0001/pct:78.86143931256713,38.315356959424754,17.930540637307555,25.283653172713265/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -185,7 +185,7 @@ eign country, be, and the same is hereby, repeal­
 ed, to take effect from and after the thirty-first  
 day of March of the present year
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1831040501:0472/pct:4.692260816575259,38.584590462691104,16.514320536258378,3.9890655057203603/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1831040501:0472/pct:4.702417225269145,38.584590462691104,16.504164127564493,4.002564881374236/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -218,7 +218,7 @@ hereby, repealed, to take effect from and
 after the thirty first day of March of the  
 present year
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153139:1831042101:0059/pct:16.91149467499082,15.120681495504023,15.754682335659199,4.8982489351632745/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153139:1831042101:0059/pct:16.917615375198924,15.12856917494873,15.760803035867303,4.902192774885629/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -286,7 +286,7 @@ the United States, entitled to the beuefits and
 privileges nppenalning tosuch ships or vessels.” |  
 It seems, then, to have been the intention o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1839071001:1103/pct:22.98416126709863,77.38016638056253,14.938804895608351,10.801531757559752/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1839071001:1103/pct:22.98416126709863,77.38016638056253,14.938804895608351,10.810334961926142/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -323,7 +323,7 @@ foreigu jurisdiction, is the chief &quot;benefit and
 &quot;privilege appertaining&quot; to it, and such &quot;benefit  
 &quot;and privilege&quot; attaches only because of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026347:1859062401:0601/pct:16.077261752591962,12.633703329969727,11.12057946314444,5.741675075681131/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026347:1859062401:0601/pct:16.081995928608627,12.633703329969727,11.115845287127776,5.751765893037336/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -387,7 +387,7 @@ and privileges appertaining to such ships. Section
  of the same act provides for an oath by which,  
 among other things, to obtain the registry of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743841:1873122301:1060/pct:102.56368651630699,249.23129484113426,45.5784520525718,16.76346657556087/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743841:1873122301:1060/pct:34.18789550543566,83.0770982803781,15.192817350857267,5.587822191853624/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -411,7 +411,7 @@ ships.
 Section 4 of the same ret provides  
 for an oath by which, among othe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn85038088:00296028903:1873122601:0053/pct:33.3134684147795,34.27512145231399,12.574493444576877,6.737407312707747/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn85038088:00296028903:1873122601:0053/pct:24.988824318283417,25.709537202761442,9.432275368797496,5.062643825108668/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -451,7 +451,7 @@ States registry, and if one is obtained by
 false oath as to that point, and the fact is  
 that the ve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:0027176943A:1874010101:0002/pct:32.361477572559366,16.35092695775504,11.860158311345646,10.475129166244555/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:0027176943A:1874010101:0002/pct:32.3702726473175,16.354303853037518,11.864555848724715,10.478506061527032/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -491,7 +491,7 @@ interested is entitled to n United States regis­
 try, and if one is obtained by false oath as to  
 that point, aud the fact is that the vessel 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_allemande_ver01:data:sn85025570:0019991991A:1874010801:0126/pct:21.688500727802037,69.73158195316962,12.620087336244541,11.079383209594518/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_allemande_ver01:data:sn85025570:0019991991A:1874010801:0126/pct:18.443518785829173,59.27831715210356,10.722976038272776,9.420711974110032/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -640,7 +640,7 @@ States, and none others, shall bo entitled to be
 registered.” In many ways a vessel may forfeit  
 its registry: among others by a sale to foreig
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210041:1884010401:0031/pct:83.7290935370638,37.06598526980309,18.686764402230022,8.6276867578536/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210041:1884010401:0031/pct:64.8903824611938,28.725634852838393,14.492985544353763,6.697988661955424/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

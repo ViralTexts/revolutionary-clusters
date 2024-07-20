@@ -40,7 +40,7 @@ of State.
 In!!! ADAMS,  
 President of the L&#x27;; Statcs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216134:1811031901:0254/pct:54.283897631537116,77.88580688208941,20.489588300747098,5.728719855113908/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216134:1811031901:0254/pct:54.27527018436109,77.87838353030881,20.491629582538675,5.731350870504511/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -62,7 +62,7 @@ fr many farther service as Secretary ot State.
 John A bams,  
 President of the U. S
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1811032201:0414/pct:24.140401146131804,27.586627623230843,16.941260744985673,4.087359687652514/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1811032201:0414/pct:24.136078782452998,27.58326216908625,16.944195762458968,4.090927575129112/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -95,7 +95,7 @@ as Secretary of State.
 John Aj&gt;ams.  
 President of the U. States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1811032901:0064/pct:27.097078228086712,82.67433501078361,22.38454288407163,6.671459381739756/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1811032901:0064/pct:27.090694935217904,82.66244968372628,22.385159010600706,6.67409430707303/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -205,7 +205,7 @@ further service as Secretary of State.
 &quot; &#x27; John Adams,  
 &quot; &#x27; President of tho United Stales.&#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038521:0020029337A:1868031401:0255/pct:51.960495283018865,62.93628808864266,14.209905660377359,4.332409972299169/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038521:0020029337A:1868031401:0255/pct:38.991299218404365,47.202216066481995,10.662144226515263,3.257617728531856/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -257,7 +257,7 @@ discharged from any further service as Secre­
 tary of State. Jons Adams,  
 &quot;President of the United States.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_iceland_ver01:data:sn84026788:00202192324:1868031701:0048/pct:43.340857787810386,71.24164001163129,13.17937141864907,3.852864204710672/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_iceland_ver01:data:sn84026788:00202192324:1868031701:0048/pct:43.34519881923945,71.24890956673451,13.188053481507206,3.860133759813899/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -323,7 +323,7 @@ discharged from any further service as
 Secretary of State. JOHN ADAMS.  
 President of the United States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_empath_ver01:data:sn88064630:00280761515:1868032601:0067/pct:148.43830005120327,82.1947360851431,44.34203789042499,13.850136631669782/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_empath_ver01:data:sn88064630:00280761515:1868032601:0067/pct:49.479433350401095,27.398245361714366,14.780679296808328,4.616712210556594/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -344,7 +344,7 @@ discharged from any further aervice as Sec-­
 retary of State. &quot;Jonn Anaes,  
 &quot;President of the United States.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_hypno_ver01:data:sn83045646:00279528621:1868033101:0482/pct:42.32745452020553,46.56454156341518,30.231912234411887,8.932191935120523/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_hypno_ver01:data:sn83045646:00279528621:1868033101:0482/pct:14.109151506735175,15.521513854471728,10.077304078137296,2.977397311706841/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -429,7 +429,7 @@ change in the Department of State, vou are hereby discharged
 from any further service as Secretary of State.  
 OHN ADAMs, President of the United States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743622:1868042601:0327/pct:98.46230158730158,115.4292343387471,54.24933862433863,5.533642691415313/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743622:1868042601:0327/pct:32.820767195767196,38.47641144624903,18.08311287477954,1.8445475638051043/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -480,7 +480,7 @@ Pickering, used this language, &quot;You are
 hereby discharged from any further service as secre  
 tary of State.&quot; Here was a positive dismissal of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743622:1868051801:0603/pct:53.51787773933103,158.37587006960558,54.391168231998684,5.162412993039443/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743622:1868051801:0603/pct:17.83929257977701,52.79195668986852,18.130389410666226,1.7208043310131478/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -115,7 +115,7 @@ ted States, and to pass all laws necessary to carry
 
 ---
 
-## [From _The American Whig review_](https://archive.org/details/sim_american-whig-review_1851-03_13_75/page/n16/mode/1up?view=theater)
+## [From _The American Whig Review (1850-1852)_](https://archive.org/details/sim_american-whig-review_1851-03_13_75/page/n16/mode/1up?view=theater)
 
 #### 1851-03-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -154,7 +154,7 @@ the supreme law of the laud, and the
 judges in every State shall be bound there­  
 by, any thing in the constitution or law
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn84026845:00202190662:1860111201:0456/pct:29.83580296355627,13.319607222046246,14.21706047256708,5.479885967690846/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn84026845:00202190662:1860111201:0456/pct:29.84080897076492,13.32752613240418,14.21205446535843,5.4838454228698135/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -259,7 +259,7 @@ that of regulating trade between the States,
 and to those of raising and maintaining  
 fleets and armies.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_stein_ver01:data:sn83030272:00175042994:1898052601:0960/pct:123.32075471698113,74.46257051379783,50.64150943396226,19.332215276719012/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_stein_ver01:data:sn83030272:00175042994:1898052601:0960/pct:30.83600679373467,18.615642628449457,12.66276655972825,4.833053819179753/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

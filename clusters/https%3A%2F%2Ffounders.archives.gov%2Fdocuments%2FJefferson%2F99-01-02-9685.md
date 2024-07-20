@@ -118,7 +118,7 @@ pleasure the patriotic!; and spirited conduct of the
 citizens of Norfolk, Portsmouth and their vicinities,  
 before the orders of the government were know
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807072701:0642/pct:7.193890120719389,57.53050738599872,21.21212121212121,7.369942196531792/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807072701:0642/pct:7.192118226600985,57.52127147214641,21.213054187192117,7.372772515652593/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -140,7 +140,7 @@ in affording effectual support to such mea­
 sures as our government may further a­  
 dopt, in the present crivsbf our affairs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807072901:0246/pct:22.55866767600303,64.14217533283094,17.354277062831187,4.6219542828435065/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807072901:0246/pct:22.554399243140963,64.13412030641717,17.357300536108482,4.625559881116832/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -204,7 +204,7 @@ ijiliteti states — Major Oliver Johon­
 not chosen as presiding officer, and  
 Capi. Sumuet ttcioes, secretary fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809021001:0003/pct:26.326366559485532,72.29228968924717,16.860932475884244,8.88050968664673/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809021001:0003/pct:26.333065380493032,72.30095782949768,16.867631296891748,8.884843756771984/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -313,7 +313,7 @@ I effectual support to such measeres as our i
 gevernm*-:tn&gt; n v further adopt in the pre­  
 . sent crisis of our affair.&quot; We, therefore, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809021001:0003/pct:25.542604501607716,3.458587959953192,35.20900321543408,95.59225068261604/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809021001:0003/pct:25.542604501607716,3.458587959953192,35.22240085744909,95.60525289299181/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -615,7 +615,7 @@ j general government may adopt in the P
 ; present crisis ot our affairs.  
 Resolved, That the minority of the&#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809051001:0001/pct:59.509823779623254,45.785364562657136,18.634798460603605,11.750694720127035/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809051001:0001/pct:59.52332725676862,45.785364562657136,18.628046722030923,11.76833840589299/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -639,7 +639,7 @@ affairs. t 1
 ‘Resolved, that we shall remember with pride  
 and pleasure the patriotic and spirited conduct 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216377:1827072701:0692/pct:23.25542570951586,4.954150291770871,18.497495826377296,6.549958318447064/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216377:1827072701:0692/pct:23.251543982640626,4.953560371517028,18.49997218049296,6.553147574819401/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

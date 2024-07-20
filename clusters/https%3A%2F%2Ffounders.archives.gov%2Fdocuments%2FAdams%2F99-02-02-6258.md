@@ -683,7 +683,7 @@ estate, but left their own habitation, he hath
 reserved in everlasting chains, under dark­  
 ness, unto the judgment of the great day.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033306:00212470107:1868082201:0782/pct:26.395089285714285,67.2686230248307,16.768973214285715,6.523702031602709/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033306:00212470107:1868082201:0782/pct:19.80460572226099,50.45146726862303,12.58897418004187,4.89841986455982/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1003,7 +1003,7 @@ to execute judgement upon all, and to convince
 all that are ungodly among them of all their un­  
 godly deeds” etc. In these quotations we hav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_fox_ver01:data:sn82016399:00517173435:1884011801:0025/pct:3.135479543930248,44.31523089082082,14.872568745808183,3.296827368183358/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_fox_ver01:data:sn82016399:00517173435:1884011801:0025/pct:3.134953897736798,44.310228042447505,14.875663593182454,3.300218258448107/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

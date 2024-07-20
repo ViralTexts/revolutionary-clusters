@@ -198,7 +198,7 @@ a other reason existed for making them,
 of here, none have been oi&#x27;t&#x27;eiv ti.&quot;  
 a (To be Continued.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808111401:0002/pct:74.83627703909505,29.437908496732025,17.741615399880928,34.07843137254902/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808111401:0002/pct:74.84950717735,29.437908496732025,17.754845538135875,34.091503267973856/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -232,7 +232,7 @@ the United States from a failure on the part of Franco
 to recal them. To tbie note I hove not yet received  
 an answer, nor have 1 reason to expect one soon ;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808112101:0218/pct:70.12820512820512,83.26257348138472,21.974358974358974,13.471587197909862/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808112101:0218/pct:70.11022814662907,83.24897959183673,21.9751345808767,13.473469387755102/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -261,7 +261,7 @@ stood ; but as neither the same, nor any other iea­
 inn existed for making them here, none have been  
 offered.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808112101:0219/pct:9.931069696196069,3.01036354663596,21.291804952769976,10.544497450238525/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808112101:0219/pct:9.928534966819806,3.0098684210526314,21.292751403777437,10.546875/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -342,7 +342,7 @@ oﬀcrc *. &quot; ct ,
   
 CO N G R E 3 8
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808112101:0584/pct:51.845264562027566,12.636282394995531,23.64013635689936,38.27524575513851/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808112101:0584/pct:51.8375815056313,12.635153248145832,23.641572811697294,38.27480415810324/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -369,7 +369,7 @@ thei the same, nor any other reason existed for
 making them here, none have beeen offered.”  
 1 bus it seems that Mr. Armstrong did not dee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808112501:0228/pct:46.35204081632653,84.98611338016664,20.994897959183675,8.838425093938898/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808112501:0228/pct:46.34021933180311,84.97223129696178,20.995919408314204,8.841065011434171/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -423,7 +423,7 @@ misunderstood; but as neither the same, nor
 any other reason existed for making them  
 here, none hu\e been offered.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808112501:0237/pct:24.324324324324323,42.37835153922542,17.16484696617147,22.492552135054616/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808112501:0237/pct:24.319971367215462,42.37309172148442,17.167740396086852,22.49389764593935/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -483,7 +483,7 @@ but as neither the 3a ne, nor any other rea­
 son existed for in iking them here, none  
 hive been off*-red 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808112501:0386/pct:41.23024185869358,43.523118074130686,17.653780232336697,26.391542478665137/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808112501:0386/pct:41.222391469916225,43.517575140091694,17.656765676567655,26.39242655798947/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -729,7 +729,7 @@ for making them bera, nooe hhve
 teen offered*  
 ( . [ThAr crntihnwf&#x27;J 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808120901:1079/pct:55.70256681661815,51.549809381733795,16.432918761577138,40.991214984253276/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808120901:1079/pct:55.68783068783069,51.54126615843553,16.435185185185187,40.98856479946967/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -903,7 +903,7 @@ at no time before he set out, indicated any
 duetd the d cr ees in question.” What could  
 I be more admonitory 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810062901:0064/pct:23.54337899543379,65.66243194192377,17.698630136986303,3.411978221415608/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810062901:0064/pct:23.539079620160702,65.65448826518268,17.701485269052835,3.415598032099363/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

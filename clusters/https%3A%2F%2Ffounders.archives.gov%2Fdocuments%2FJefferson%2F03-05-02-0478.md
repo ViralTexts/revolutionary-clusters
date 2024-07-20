@@ -52,7 +52,7 @@ gle who should be permitted to administer the
 government, according to its genuine republican  
 principles With institutions hke those of qu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816060501:0181/pct:56.077057793345006,30.06228699024562,16.07705779334501,4.653895874955929/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816060501:0181/pct:56.067238662230785,30.058754406580494,16.080079378976244,4.6572659616137875/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -72,7 +72,7 @@ vorite prototype, is daily diminishing—that the
 difference which has been said to exist be­  
 tween the leading politicians of the East an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816061501:0193/pct:41.04818853323953,33.9464493597206,16.056982061202955,3.0151338766006983/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816061501:0193/pct:41.04097063478108,33.94249796298452,16.060019928491883,3.018662941838358/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -488,7 +488,7 @@ than we could make ourselves of other necessaries.
 Hut other considerations entering into the question have  
 se&#x27;tled my donhts ”—1813 Vol. iv. p. 186—7
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184054:1831070801:0074/pct:36.86558839933073,62.830273175100764,14.584495259341885,5.810568741603224/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184054:1831070801:0074/pct:36.86044890561829,62.82323967312213,14.587109066406432,5.81364976305086/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -510,7 +510,7 @@ R/ . °
 Mechanic Anniversary.  
 On Thursday lust, the 33th anniversary o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1840102001:0587/pct:19.090506422560164,34.26195875175467,14.897386682415473,4.168016412914372/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1840102001:0587/pct:19.090506422560164,34.265558075081884,14.902308184457896,4.1644170895871575/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -544,7 +544,7 @@ they perfectly reconciled to it, as Mr.Jefforson
 asserts, when amended; the amendments adopted  
 not being those proposed by them. The Virgini
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530182:1843052201:0288/pct:5.444427733493758,220.96623376623376,49.1352083020003,33.84935064935065/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530182:1843052201:0288/pct:1.8148092444979196,73.65541125541125,16.378402767333434,11.283116883116882/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -567,7 +567,7 @@ e.ninii the senatorial term, and devising a process
 tor ihe responsibility ot judges more practicable  
 ihan that ot impeachment 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664308:1848100301:0341/pct:3.731567860367138,37.06695212144803,13.587120072223895,3.931490852471779/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664308:1848100301:0341/pct:3.7415989567659746,37.06695212144803,13.582104524024476,3.9412222654729465/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -603,7 +603,7 @@ with fewer concessions than would hav
 
 ---
 
-## [From _The Continental monthly_](https://archive.org/details/sim_continental-monthly_1864-02_5_2/page/n4/mode/1up?view=theater)
+## [From _The Continental Monthly; Devoted to Literature and National Policy (1862-1864)_](https://archive.org/details/sim_continental-monthly_1864-02_5_2/page/n4/mode/1up?view=theater)
 
 #### 1864-02-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -813,7 +813,7 @@ the monarchists, to associate General W ash
   
 ington with their principles.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kautsky_ver01:data:sn87056600:00271740578:1879122401:0387/pct:65.49128367670365,91.44118484762176,19.076862123613314,16.391341498148677/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kautsky_ver01:data:sn87056600:00271740578:1879122401:0387/pct:49.147839873166866,68.5844488749644,14.308363059849386,12.28994588436343/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -832,7 +832,7 @@ ure in the exercise of power
 over his fellow citizens.  
 FOREIGN INTERMEDDLING
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_coldplay_ver02:data:sn83007654:00393342754:1898082601:0051/pct:12.885760693015701,60.88884509262909,11.28857606930157,3.9613716988569174/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_coldplay_ver02:data:sn83007654:00393342754:1898082601:0051/pct:12.884016781702531,60.882845600551775,11.290431722831235,3.9634446743521528/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

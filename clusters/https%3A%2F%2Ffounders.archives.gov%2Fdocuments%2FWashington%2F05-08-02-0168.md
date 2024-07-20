@@ -51,7 +51,7 @@ dered. My best wishes for the prosperity of your village, and for
 your individual happiness, are fincerelv offered.  
 GEOR E WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791062201:0003/pct:6.106194690265487,17.028443113772454,26.194690265486727,10.946856287425149/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791062201:0003/pct:6.128318584070796,17.04247754491018,26.209439528023598,10.9562125748503/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

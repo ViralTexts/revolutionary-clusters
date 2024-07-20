@@ -486,7 +486,7 @@ sions, because, as he said, they &quot;implied that I was guilty
 either of disobedience to orders, want of conduct, or want  
 of courage. How absurd to suppose, now, that Le
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184674:1856081901:0554/pct:131.08465608465607,55.69547134935305,38.68312757201646,4.8290203327171906/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184674:1856081901:0554/pct:43.68846436443791,18.56301259096685,12.892481018858682,1.609487505294367/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -565,7 +565,7 @@ obedience of orders, of want of conduct, or
 want of courage.&quot; Washington replied: &quot;I re­  
 ceived your letter,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043056:1899021901:0678/pct:238.37638376383765,33.398761890382005,49.298892988929886,7.609844481352861/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043056:1899021901:0678/pct:59.605093190625574,8.349690472595501,12.326997601033401,1.9024611203382154/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

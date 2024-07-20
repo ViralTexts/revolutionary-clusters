@@ -239,7 +239,7 @@ fomed Goods, were by A&amp; of Parliament appf)xnte:_d to be tried by
 the Admiral, the Nation would think their Libertics irrecoverably  
 lolt,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015076:1769051901:0283/pct:5.468582457645293,23.669614750412233,28.222174565730217,72.8826262929096/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015076:1769051901:0283/pct:5.468582457645293,23.679608254634488,28.236471513331903,72.87263278868735/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -340,7 +340,7 @@ to the Assemblies of any or all the other Colonies, and to unite
 with them in humble, dutiful and loyal Petitions for Redress of a  
 general Grievance
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015076:1769051901:0283/pct:34.78447351490457,20.086943486733624,27.900493244692257,62.3894468595413/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015076:1769051901:0283/pct:34.78447351490457,20.086943486733624,27.900493244692257,62.39944036376355/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1127,7 +1127,7 @@ They put the denial anti delay of justice on the
 same loot.  
 W ell might Lord Chatham, in the greatest of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184017:1828031801:0428/pct:64.98252303781379,28.74063330916123,15.443279313632031,5.37829344935944/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184017:1828031801:0428/pct:64.97220015885624,28.73716012084592,15.446121260259465,5.381671701913394/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

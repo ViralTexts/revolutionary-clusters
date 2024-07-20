@@ -135,7 +135,7 @@ support them, it is said they are to bo
 tried again the next warm weather  
 naked
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898012:1822040901:0231/pct:60.75749605470805,3.6324786324786325,36.007364544976326,90.77909270216962/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898012:1822040901:0231/pct:60.74151985274783,3.6318816762530814,36.00447015514068,90.7682826622843/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -395,7 +395,7 @@ tho women a shits, and garters witli w hic’i they w ere
 bound helped to support them; it is said they are to be  
 tried a gam the next warm weather, naked
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:0041418456A:1829092801:1024/pct:23.336532309660907,4.483362521891419,36.69225847728727,90.70636310566258/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:0041418456A:1829092801:1024/pct:23.332800255877178,4.482839131449918,36.69172130710592,90.69966534360651/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -505,7 +505,7 @@ upon Ihe back of the man accused, thinking to
   
 drive him to the bottom ; but the person bound,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199264:1850013101:0015/pct:72.12406015037594,23.905943827563682,16.785714285714285,43.540169823644675/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199264:1850013101:0015/pct:54.118089507333586,17.935989549314172,12.598721323805941,32.65839320705421/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -545,7 +545,7 @@ clothing which the accused had on helped to
 support them, it is said they are to be tried again  
 the first warm weather, entirely divested of it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199264:1850013101:0015/pct:72.80075187969925,63.984323971260615,32.80075187969925,18.027433050293926/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199264:1850013101:0015/pct:54.625799172621285,47.99477465708687,24.61451673561489,13.520574787720443/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -575,7 +575,7 @@ Value of Coal Mimes. The London Times
 in a recent article, speaks of tho coal beds of  
 England in the followii g terms:
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199264:1850013101:0015/pct:56.61654135338346,82.83474853037231,32.59398496240601,43.61854996734161/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199264:1850013101:0015/pct:42.47837532907108,62.129327237099936,24.464084242196314,32.7106466361855/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -682,7 +682,7 @@ the little clothing which the accused had on
 helpel to support them, it is said they are to be  
 tried again the next warm weather entirely di
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:0041421583A:1850032001:0663/pct:7.004259346900142,18.634764250527798,12.73071462375769,41.65376495425757/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:0041421583A:1850032001:0663/pct:7.003596441415862,18.633452958975443,12.73266452142091,41.65317946191917/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -789,7 +789,7 @@ the little clothing which the accused had on
 helped to support them, it is said they are to be  
 trie 1 again the next warm weather, entirely di
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024652:00393348677:1850040801:0228/pct:32.61138613861386,15.161569532602423,30.012376237623762,81.63589151759953/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024652:00393348677:1850040801:0228/pct:32.6046607547948,15.15938266262801,30.01134254485461,81.62772248665802/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -889,7 +889,7 @@ ing which the accused had on helped to support
 them, it is said they are to be tried again the next  
 warm weather, entirely divested of it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn86053954:00237282358:1850051601:0592/pct:32.050528789659225,40.200271200584126,23.237367802585194,77.51121310107438/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn86053954:00237282358:1850051601:0592/pct:24.05584129316679,30.15541879628664,17.428361498897868,58.13080212788151/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1017,7 +1017,7 @@ port them, it is said thev are to be
 tried again the nex* warm weather  
 naked
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_junior_ver01:data:sn85035800:00332896921:1885063001:0441/pct:15.175928970733311,22.796016230173368,9.848733969089116,44.399360629533994/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_junior_ver01:data:sn85035800:00332896921:1885063001:0441/pct:15.173434160775933,22.793213671010573,9.851224724642446,44.39697565773297/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

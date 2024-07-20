@@ -520,7 +520,7 @@ miralty which may or shall be appointed
 ‘over “all America, at the Eleétion of the  
 Informer or prosecutor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015064:1764100501:0296/pct:35.62386980108499,29.0260792691911,27.48643761301989,12.199793723294533/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015064:1764100501:0296/pct:35.63140446051838,29.0260792691911,27.4789029535865,12.204705073424684/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -548,7 +548,7 @@ A. D. 1764, all the Fo;[eitures, and gmaltfgs,
 &lt; determine the Jame) at the Eleétion of the Informer.  
 or Profecutort .. o 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015064:1764112301:0323/pct:9.21639413888299,9.91262428442302,27.8615417286048,14.130762277794517/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015064:1764112301:0323/pct:9.230551426346713,9.917645877272271,27.8615417286048,14.14080546349302/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -576,7 +576,7 @@ AD. 1764, ““ all the .ﬂfitu?‘e&amp;, -and - Penaltics, -
 ¢ determine the fame) at the Eleftion of the Informer  
 ¢ or ‘Profecutor ; _ 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015064:1764113001:0327/pct:9.502262443438914,10.774410774410775,28.65761689291101,13.697581879400062/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015064:1764113001:0327/pct:9.502262443438914,10.774410774410775,28.671981613158085,13.712886440159167/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -604,7 +604,7 @@ AD. 1764, ““ all the .ﬂfitu?‘e&amp;, -and - Penaltics, -
 ¢ determine the fame) at the Election of thelnformer  
 “ or Profzcutor.: ; &quot;, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015064:1764120701:0331/pct:5.946180555555555,10.688433697828431,29.1015625,13.891883566918219/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015064:1764120701:0331/pct:5.946180555555555,10.693567431592998,29.11603009259259,13.902151034447353/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -632,7 +632,7 @@ $&amp; for; and recovered in any Court of Record, or in
 &lt;¢.determine the fame) at the El:lion of the Informer  
 ¢ or Prosecutor 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015064:1764121401:0335/pct:8.672913488777512,32.211904399451974,28.045325779036826,13.609377378596438/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015064:1764121401:0335/pct:8.680177235418029,32.222053077586644,28.045325779036826,13.614451717663774/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -648,7 +648,7 @@ $&amp; for; and recovered in any Court of Record, or in
 several Ats of Parliament relating to the Trade and  
 Revenues of the said Colonies and Plactations, as dire
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015064:1765083001:0459/pct:68.24994722398142,69.67514331912392,27.401308845260715,1.8521240629134206/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015064:1765083001:0459/pct:68.24994722398142,69.67514331912392,27.401308845260715,1.857023862021657/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -678,7 +678,7 @@ Plaatations in America, towards further defraying
 the Expences of defending, protecting, and fecur­  
 _ing the fame ; and for amending such Parts of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015064:1766053001:0595/pct:5.508196721311475,13.635694301281108,29.15846994535519,15.005153880135474/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015064:1766053001:0595/pct:5.508196721311475,13.635694301281108,29.18761384335155,15.005153880135474/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1084,7 +1084,7 @@ allowed fufficient time to receive and confider
 this 26k, before another, well known by the  
 name of theStamp-A¢é, and pafled in the st
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775030301:0411/pct:8.63626349416171,84.60153084196308,27.605199383124035,8.659762869578268/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775030301:0411/pct:8.63626349416171,84.61153634498974,27.61988690607329,8.654760118064935/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1401,7 +1401,7 @@ or penaltics in civil mattere; thase which prescribe
 Seriain formalitics, the laws which appear to have  
 any hardship in them; those which perinit disinherit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530479:1855071801:0533/pct:3.3107101473266014,44.36712657468507,48.12117199139215,11.75764847030594/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530479:1855071801:0533/pct:1.1035700491088671,14.789042191561688,16.040390663797385,3.919216156768646/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1419,7 +1419,7 @@ manner as not to be applied beyond what is clearly
 expressed in the law to any consequences to which  
 the laws do not extend
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530479:1855071801:0533/pct:3.4100314517463994,54.9370125974805,47.98874358549909,6.23875224955009/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530479:1855071801:0533/pct:1.1366771505821331,18.3123375324935,15.99624786183303,2.0795840831833634/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1436,7 +1436,7 @@ And os the contrary we ought to give to such laws
 alf the temperament of equity and humanity that they  
 are capable of Is not this act one to which thisrul
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530479:1855071801:0533/pct:3.2279423936434366,60.39592081583683,48.31981460023175,5.170965806838632/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530479:1855071801:0533/pct:1.0759807978811455,20.131973605278944,16.10660486674392,1.7236552689462108/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1474,7 +1474,7 @@ we ought to give to such lawg all the tempers­
 ment of equity and humanity that they are  
 capable of.&quot; Is not this act one to which this rul
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743221:1855071801:0153/pct:92.75636613902272,224.29706964052676,57.31245698554714,28.390081860244393/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743221:1855071801:0153/pct:30.918788713007572,74.76568988017559,19.104152328515713,9.463360620081465/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1604,7 +1604,7 @@ Deut., ch 19.y 15: One witness shall not
 rise up against a man for any sin, at the mouth  
 of two witnesses, or at the mouth of three wit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295778:1864012501:0091/pct:15.704387990762125,127.92745662219897,49.42263279445727,8.405266370215363/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295778:1864012501:0091/pct:3.9265504099780575,31.981864155549744,12.357085113754476,2.101316592553841/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1650,7 +1650,7 @@ super eum mittemus, nisi per legale judici­
 um parium suorum, vel per legem terrn.&quot;  
 The great commoner of England declare
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774728:1866010901:0135/pct:282.6304503216583,188.83463112049623,50.17869907076483,25.2342615811007/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774728:1866010901:0135/pct:70.69551224745217,47.20865778012406,12.55140354013946,6.308565395275175/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1671,7 +1671,7 @@ aut exuht, aut aliquo modo destruatur nec super
 cum ibimus, nec super eum mittemus nisi per legale  
 judicium parium suorum vel per legem terra. Null
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477850:1867072501:0323/pct:226.2135922330097,194.058229352347,52.78022947925861,12.180629827688652/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477850:1867072501:0323/pct:56.55339805825243,48.51455733808675,13.195057369814652,3.045157456922163/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1762,7 +1762,7 @@ astical law. We do not aspire to become
 de fucto heads of the church, and, by con­  
 struction, or otherwise, abrogate its law
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_juliet_ver01:data:sn88074142:00280761473:1871020701:1020/pct:63.322884012539184,258.3404619332763,52.03761755485893,23.781009409751924/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_juliet_ver01:data:sn88074142:00280761473:1871020701:1020/pct:15.836926695413563,64.58511548331907,13.014504116032928,5.945252352437981/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1980,7 +1980,7 @@ sin, in any sin that he sinneth; at the mouth of two
 withesses, or at the mouth of three withesses, shall  
 the matter be established.&quot; From this basts they e-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:00271744006:1877110201:0428/pct:243.49112426035504,224.0309209052207,45.857988165680474,5.926506833968183/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:00271744006:1877110201:0428/pct:81.16370808678501,74.67697363507357,15.285996055226825,1.9755022779893943/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2009,7 +2009,7 @@ sin that he sinneth; at the mouth of two wit­
 nesses or at the mouth of three witnesses, shall  
 the matter be established.’’ From this basi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1877111801:0009/pct:43.04621848739496,17.331670822942645,12.710084033613445,2.119700748129676/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1877111801:0009/pct:43.0514705882353,17.339463840399002,12.704831932773109,2.119700748129676/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2320,7 +2320,7 @@ the mouth of two witnesses, or
 at the mouth of three witnesses,  
 shall the matter be established.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_denton_ver01:data:sn84026758:00279522357:1895062201:0102/pct:4.93642483171279,46.760866962040474,9.81301421091997,4.694048616932104/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_denton_ver01:data:sn84026758:00279522357:1895062201:0102/pct:4.946397407130392,46.76885003791961,9.822986786337571,4.694048616932104/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2358,7 +2358,7 @@ eum mittemus nisi per legale judi­
 cium parium suorum, vel per  
 legem terrae.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn84026817:00202192245:1897090101:0328/pct:38.36498229803669,50.796667153924865,11.731573865465078,4.2099108317497445/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn84026817:00202192245:1897090101:0328/pct:38.36900547151593,50.80032159041076,11.7436433859028,4.2208741412074255/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

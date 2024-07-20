@@ -124,7 +124,7 @@ River Miami of Lake Erie to the
 Western line of tbe Connecticut  
 Reserve.” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216201:1816032601:0578/pct:25.061107117181884,27.881990312637605,18.447160316319195,15.772787318361955/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216201:1816032601:0578/pct:25.05750431282346,27.879535047551954,18.44930036419398,15.774333685570037/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -141,7 +141,7 @@ eul from the foot of the rapid* of the River Mi­
 ami of Lake Erie, to the western line of the  
 Connecticut Reserve.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1816032801:0878/pct:3.465722236276246,57.62630312750601,21.426764482671388,1.8444266238973537/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1816032801:0878/pct:3.464845725847243,57.61706221937139,21.427668184117348,1.8481398332264272/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -222,7 +222,7 @@ Lake Erie, to thie western line of the Connect­
 icut reserve. - ;  
 Be it enacted by the Senate and House of Re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1816061101:0530/pct:9.749857873791926,59.00029460866149,16.2166003411029,3.2112344102916626/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1816061101:0530/pct:9.759332954330112,59.00029460866149,16.226075421641085,3.217781269435988/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -242,7 +242,7 @@ ticut reserve.
 Be it enacted by tie Senate end House of Rep­  
 resentatives of the United States of America i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1816070201:0541/pct:59.83150078537769,70.25952073182857,15.993145794659432,3.3011832554439695/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1816070201:0541/pct:59.84102051501738,70.25952073182857,15.988385929839593,3.3044976964634913/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -283,7 +283,7 @@ necticut reserve.
 Be it enacted by the Senate and house of  
 representatives of the United Syr $ of A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816073101:0243/pct:75.77100319035803,55.14083690738379,16.820276497695854,4.196128433986322/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816073101:0243/pct:75.75757575757575,55.134445989800646,16.82320278811507,4.199505486014527/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -324,7 +324,7 @@ of the&#x27; Connecticut reserve.
 Be it/ enacted by the Semate and Nouse of  
 Represmratives of the Uniced Siates of Ame
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1816092501:0356/pct:24.305835010060363,10.288683602771362,44.7887323943662,83.59122401847576/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1816092501:0356/pct:24.305835010060363,10.29253271747498,44.802146210596916,83.59507313317937/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -490,7 +490,7 @@ Erie, to the western line of the Connecticut
 Reserve, and all the lund within one mile  
 of suid road on each side thereof for th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn87076843:00280775733:1876070701:0307/pct:39.14342629482072,104.74610870119929,14.47543160690571,3.317172748150038/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn87076843:00280775733:1876070701:0307/pct:29.375622716705415,78.56596070426129,10.86017934241116,2.487879561112529/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

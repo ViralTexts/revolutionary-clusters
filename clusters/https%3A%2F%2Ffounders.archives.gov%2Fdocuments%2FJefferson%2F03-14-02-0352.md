@@ -119,7 +119,7 @@ pu poLs of enfl.ving usiitoexecution ; 1 dure
 venture to allure you the llnlteft atten tort will  
 I be given on our parts to the/e grand puimt.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1773040801:0409/pct:88.049361333622,43.97573752412462,27.213682615284693,19.65811965811966/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1773040801:0409/pct:68.24944071588367,34.08831908831909,21.090604026845636,15.242165242165242/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -159,7 +159,7 @@ execution ; I dare venture to assure you the
 firiGeft attention will be given on our parts  
 to these grand points. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1773042301:0063/pct:4.602692140686061,22.642053648687625,27.116804168475902,24.098644361119124/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1773042301:0063/pct:4.617166015342307,22.642053648687625,27.116804168475902,24.098644361119124/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -219,7 +219,7 @@ powerful engine of resistant e, coi re­
 sponding committees between u« le­  
 gislatures of the different colonie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216237:1817112501:0188/pct:61.92522561237645,74.2917659518136,17.66222604211431,15.30315064866296/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216237:1817112501:0188/pct:61.911922663802365,74.2819324950364,17.665592552810597,15.30553717185087/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -311,7 +311,7 @@ BE. were not matured for falling from the parent
  state, it was thought prudent to wait a while  
  for them.&quot; On July I the delegates fro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042970:1897121901:0648/pct:0.0,90.04884004884005,62.471740768651095,8.058608058608058/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042970:1897121901:0648/pct:0.0,22.512210012210012,15.62087808554739,2.0146520146520146/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

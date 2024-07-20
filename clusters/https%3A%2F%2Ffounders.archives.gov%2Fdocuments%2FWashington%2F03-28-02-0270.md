@@ -825,7 +825,7 @@ well to have it clearly understood that the reduced oflicers
 are to have tbe depreciation of their pay made good, lest any  
 doubts should arise on that bead.&quot; * * * 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661083:1857010901:0054/pct:77.7406523468576,27.15847681286917,17.724741447891805,18.260650999120273/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661083:1857010901:0054/pct:77.7406523468576,27.15847681286917,17.724741447891805,18.273218549704662/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -854,7 +854,7 @@ I in retirement. In the cue of the Amorican officers, ttia mill- i
 tary character has been suddenly taken np, and is to end 1  
 with the war.&quot;?7 Sparks, p. 247
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661083:1857010901:0054/pct:77.86793953858393,45.306019856729925,16.929196499602227,6.308910393364333/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661083:1857010901:0054/pct:77.87324317157253,45.314398223786185,16.94510739856802,6.304721209836203/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

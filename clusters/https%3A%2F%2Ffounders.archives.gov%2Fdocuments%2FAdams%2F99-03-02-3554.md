@@ -837,7 +837,7 @@ hear tho voice of the Son of God and shall come
 forth.&quot; It is the declaration of Him who created  
 us, and by whose authority the life of the body i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862749:1873100201:0384/pct:83.6863570582818,9.941149841557266,13.353506117616103,2.227252150294251/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862749:1873100201:0384/pct:83.69074244616937,9.9471857552437,13.353506117616103,2.2242341934510335/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

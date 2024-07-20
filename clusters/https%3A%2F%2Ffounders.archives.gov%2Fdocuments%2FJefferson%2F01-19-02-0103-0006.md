@@ -36,7 +36,7 @@ of the Commonwealth of Virginia, and admit­
 ted into this Union, by the name of the State  
 .of Kentucky.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791020901:0003/pct:8.955650929899857,35.90554109334325,25.26466380543634,5.745630345853477/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791020901:0003/pct:8.955650929899857,35.90554109334325,25.278969957081546,5.75492748233544/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -69,7 +69,7 @@ fund seven hundred and eighty-nine,
 have consented, that the district of Ken­  
 tucky, within the jurifdiion of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791022601:0755/pct:48.28076831870998,24.795377948964852,20.014228124258953,16.25742256459637/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791022601:0755/pct:48.28867283218718,24.795377948964852,20.014228124258953,16.273471352912853/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -90,7 +90,7 @@ and Vermont,
 BE it enatted by the Senate and House of Representatives of  
 the United States of America in Congress afTcmbled, That, un
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791030201:0001/pct:62.819329024315174,78.42878673700075,26.93136349646045,4.182366239638282/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791030201:0001/pct:62.819329024315174,78.43820648078372,26.969836872883963,4.182366239638282/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -176,7 +176,7 @@ one, and for other purposes, 85
 An ast for the admiflion of the state of Vermont into this  
 nion, 8
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791042001:0004/pct:9.265075376884422,61.15384615384615,27.701005025125628,6.9423076923076925/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791042001:0004/pct:9.272927135678392,61.16826923076923,27.708856783919597,6.947115384615385/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -196,7 +196,7 @@ of Virginia, and admitted into this U­
 nion, by the name of the State of Ken.  
 tucky, February 26
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791061601:0819/pct:6.914765906362545,34.69096671949287,20.64825930372149,4.992076069730587/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791061601:0819/pct:6.922769107643057,34.69096671949287,20.64825930372149,5.013206550449023/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -326,7 +326,7 @@ and resumed die consideration of the various propo­
 sitions for the annexation of Texas.  
 Mr. E B. Smith, \&gt;ho wis entitled to the floor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn84020566:00414187468:1845011701:0051/pct:19.375591296121097,14.918963845407951,12.261116367076632,6.4967447014822/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn84020566:00414187468:1845011701:0051/pct:19.371925841846387,14.916897506925208,12.263526295875899,6.499307479224377/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -355,7 +355,7 @@ extend to, and have force in, the State of Texat, and all
 the tarritory properly elsimed and belonging to the same,  
 in the same manner as if that State, with its claims to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271742915:1845012301:0111/pct:9.961621892207576,271.012832263978,47.588853662606375,17.564161319890008/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271742915:1845012301:0111/pct:3.3205406307358585,90.33761075465934,15.86295122086879,5.854720439963336/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

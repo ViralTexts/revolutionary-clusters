@@ -107,7 +107,7 @@ ple, through channels having no commu­
 nication whatever, with one auother.”  
 These just principles maybe consider
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216201:1815111101:0128/pct:63.11619718309859,37.78235926855504,17.899061032863848,17.694514162782358/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216201:1815111101:0128/pct:63.10693853601291,37.77897284216187,17.901325118576107,17.69591586746736/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -184,7 +184,7 @@ md “ that the different governments trill cun­
 1 trot each other, at the same time that each  
 ‘ &quot;id be controlled hy itself.” The sam
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1821052901:0029/pct:33.80464813911913,9.495868758232547,14.708272387453276,8.633696563285834/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1821052901:0029/pct:33.79915502112447,9.494731800766283,14.711298884194562,8.636653895274584/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -208,7 +208,7 @@ lumber of interests and sects/wij—1 will
 mre say, with a writer before quoted/ooj  
 -hut if the jurisdiction of the supreme cour
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1821052901:0029/pct:33.80464813911913,18.62052448808526,14.383227693807898,5.448449287510478/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1821052901:0029/pct:33.79915502112447,18.618295019157088,14.386307008991443,5.451787994891443/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -266,7 +266,7 @@ nature? If men were angels, no government would h«
 necessary. If angels were to govern men, neither ex  
 ternal nor internal control* on government would l&gt;e n
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830010901:0235/pct:65.19940915805022,84.59169708029196,15.199409158050221,10.903284671532846/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830010901:0235/pct:65.1897799438783,84.58205040483521,15.202087333234875,10.90584255141217/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -293,7 +293,7 @@ rights of the people. The diff«rent government* will
 control rack other, at the same time each will be con­  
 trolled by it*elf.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830031901:0337/pct:65.68988366956266,81.04042259990813,15.240759829185686,5.983004134129536/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830031901:0337/pct:65.68021201413427,81.0311172350442,15.243423635649783,5.98614460137023/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -362,7 +362,7 @@ a do.ilde security a.isrs to the rights of the people. The
 different governments will eontrovl each other, at the i  
 same time that each will be confronted by itself.”_P. 282. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1833080601:0109/pct:18.048442906574394,73.41436464088397,15.07266435986159,3.2596685082872927/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1833080601:0109/pct:18.045945197896486,73.40625345265717,15.075191438324568,3.262991198026001/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -546,7 +546,7 @@ the other part. Different interests necessarily exist in
 different classes of citizens. If a majority he united by  
 a common interest, the rights of the minority Kill be in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn87062070:0039334295A:1836010801:1028/pct:39.701492537313435,3.337950138504155,18.059701492537314,13.587257617728532/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn87062070:0039334295A:1836010801:1028/pct:39.69302920486037,3.3374878825647416,18.062957436225396,13.589992152518118/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -576,7 +576,7 @@ will protect ail parties, the weaker as well a? the more
 powerful.”  
 If the reader will recur to the lines which
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn87062070:0039334295A:1836010801:1028/pct:40.21321961620469,22.022160664819946,17.420042643923242,7.686980609418282/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn87062070:0039334295A:1836010801:1028/pct:40.20464719675975,22.019110926464478,17.42343494635117,7.690532243918201/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -776,7 +776,7 @@ of suf hardsi eter in
   
 ol intereststone, and if one tithe of the energy were
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477837:1864033001:1125/pct:36.82403433476395,110.92436974789916,187.38197424892704,40.78431372549019/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477837:1864033001:1125/pct:9.206008583690988,27.73109243697479,46.84549356223176,10.196078431372548/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -804,7 +804,7 @@ terest, the rights of the minority w
   
 insecure. There are but two methods of the rights of the people, at which the for help. This alarmed the neighbors, on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477837:1864033001:1125/pct:36.738197424892704,149.6358543417367,187.21030042918454,17.759103641456583/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477837:1864033001:1125/pct:9.184549356223176,37.40896358543417,46.802575107296136,4.439775910364146/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -840,7 +840,7 @@ lay of innovation and fanaticism, that the
 authors of the redcralist understood the  
 nature of the Government they were s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477837:1864033001:1125/pct:37.081545064377686,188.68347338935575,63.261802575107296,38.319327731092436/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477837:1864033001:1125/pct:9.270386266094421,47.17086834733894,15.815450643776824,9.579831932773109/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -874,7 +874,7 @@ I am also opposed to the propositione  e e a an o a o ei
 contained in the remaining &#x27;amenimentsas to the ea purpos o their noctura  
 They are in substance a restraint upon visit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477837:1864033001:1125/pct:37.51072961373391,170.92436974789916,185.23605150214593,96.58263305322129/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477837:1864033001:1125/pct:9.377682403433477,42.73109243697479,46.30901287553648,24.14565826330532/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -890,7 +890,7 @@ They are in substance a restraint upon visit
 ment which will protect all parties, th  
 weaker as well as the more powerful.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477837:1864033001:1125/pct:38.283261802575105,289.5238095238095,58.54077253218884,3.9215686274509802/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477837:1864033001:1125/pct:9.570815450643776,72.38095238095238,14.63519313304721,0.9803921568627451/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -926,7 +926,7 @@ fiald county, Pa. IAcol int
   
 If there were any means by which thee ti do
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477837:1864033001:1125/pct:37.93991416309013,268.1232492997199,186.1802575107296,28.011204481792717/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477837:1864033001:1125/pct:9.484978540772532,67.03081232492997,46.5450643776824,7.002801120448179/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -956,7 +956,7 @@ n than one of the counties of Illinois from the State
 I lilinois.  
 Barnum.  When you prove that the several counties o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024669:00414184765:1865012501:0048/pct:59.942038319111255,133.74495095210617,43.34245693125101,19.607616849394113/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024669:00414184765:1865012501:0048/pct:19.977462974887313,44.57650588506808,14.445159905559132,6.535118086006616/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -975,7 +975,7 @@ sonal motives, to resist encroachments of one or
 either of the others. Thus ambition would  
 be made to counteract ambition, and the de-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741923:1867010801:0035/pct:168.30711308323248,114.52944913331518,40.74223477208552,6.016879934658317/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741923:1867010801:0035/pct:56.10237102774416,38.17648304443839,13.580744924028506,2.0056266448861058/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1059,7 +1059,7 @@ of the Executive may require, on the
 other hand, that it should be fortified.&quot;  
 One of the means relied on to fortif
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292960:1867082301:0146/pct:97.97172710510141,258.3398502960563,38.35279655808236,64.30566417160094/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292960:1867082301:0146/pct:24.50422751729439,64.58496257401407,9.592621060722522,16.076416042900235/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1078,7 +1078,7 @@ society. It ever has been and ever will
 be pursued until it be obtained, or un  
 til liberty be lost in the pursuit.&quot; On
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn83035595:00296026645:1867102501:0396/pct:59.264620729588884,35.24620974815186,12.651997683844817,3.0196717203357974/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn83035595:00296026645:1867102501:0396/pct:44.46213985811496,26.437789750657814,9.483133053424062,2.267886229795765/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1110,7 +1110,7 @@ in tho pursuit. If wo may judgo of the
 national mind l&gt;y tho demonstrations now  
 be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551256:1868093001:0341/pct:34.96952197625922,74.66083150984683,16.089188322104587,10.75492341356674/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551256:1868093001:0341/pct:34.97486899796813,74.66812545587163,16.08384130039568,10.75127644055434/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1132,7 +1132,7 @@ in their grant to New-York of a municipal government,
 provided that the Common Counell should consist of the  
 Mayor, Recorder, and the major part of seven Alderme
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grass_ver01:data:sn83030214:00206531137:1873031501:0546/pct:53.970826580226905,263.82390227036996,48.29821717990276,12.342975682839691/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grass_ver01:data:sn83030214:00206531137:1873031501:0546/pct:17.990275526742302,87.94130075678999,16.099405726634252,4.1143252276132305/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1193,7 +1193,7 @@ against the violence of the strong.
 Is not this the acknowledged condition of  
 South Carolina by the evidence adduced fro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551281:1874043001:0138/pct:1.2695600826690285,73.61485474693022,16.563330380868024,8.116202455825098/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551281:1874043001:0138/pct:1.2794016336974707,73.62151009949753,16.558409605353805,8.116202455825098/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1222,7 +1222,7 @@ ot na tu re when the weaker individual is
 not secured against the violonce of tbe  
 strong
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_heddalettuce_ver01:data:sn93067790:00294558755:1874043001:0513/pct:34.31669590177005,43.052813425468905,16.153723489076704,11.784304047384008/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_heddalettuce_ver01:data:sn93067790:00294558755:1874043001:0513/pct:34.31669590177005,43.052813425468905,16.159038962419604,11.792530437643961/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

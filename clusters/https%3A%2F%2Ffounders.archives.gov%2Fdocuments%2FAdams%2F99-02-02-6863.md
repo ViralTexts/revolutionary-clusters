@@ -640,7 +640,7 @@ reply. He will tell them, that “even the /egi//ative power it-
 ¢ The supreme Power cannot&#x27;take from any Man, any Part  
 of his Property, without his own Consent ;&gt; and B. 1L p. 13
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1773061101:0083/pct:34.0181660899654,54.24817518248175,26.557093425605537,1.5182481751824817/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1773061101:0083/pct:34.02537485582468,54.257907542579076,26.564302191464822,1.5182481751824817/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -657,7 +657,7 @@ flups leave to read a little of his book.—“ The
 supreme power cannot take from any man any  
 part of his property without his own consent;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1774051901:0589/pct:39.760372753494565,34.46296036969612,26.95806523186155,2.884750035009102/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1774051901:0589/pct:30.81508655279147,26.71200665629635,20.90450533073484,2.2392649133596207/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -677,7 +677,7 @@ Again : the supreme Power cannot take
 from any Man any part of his Property with­  
 out his own Consent : for the Preservation o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774102101:0335/pct:35.95978489595511,18.36975782634377,28.922141688099135,4.444772593030124/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774102101:0335/pct:35.97537214558491,18.36975782634377,28.906554438469332,4.444772593030124/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1463,7 +1463,7 @@ thank von, bad imf at onset] me. With »&lt;mip
 pa n* soid ax great si favor,! nave obtained the  
 •mot of it. from V. m.SinitiiShaxv,cs«|. tin- inde
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1818062301:0058/pct:18.80552813425469,44.28434197886647,15.383349786113854,43.539865513928916/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1818062301:0058/pct:18.80243461095575,44.27902509304838,15.386302571694905,43.53864009284828/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1496,7 +1496,7 @@ leges, which, *s we have never foririted them, «. a
 in Coinuioil will* our lellou subjects, w li*» ate n. lives of  
 Mi stain. I [ taxes are laid upon us, in am shape, with
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1818062301:0058/pct:34.53438631128661,0.9245917387127762,14.988483053636065,8.03314121037464/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1818062301:0058/pct:34.528705379174205,0.9244807299795894,14.99150079508691,8.036178812982751/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2016,7 +2016,7 @@ duce of our lands, and every thing we possess?
 Cheraw Bla rket Sept. 12.  
 Cotton. We note the receipt of two additiona
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00416156888:1843091601:0683/pct:86.23470522803115,53.04683947248749,19.396551724137932,4.47930877671669/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00416156888:1843091601:0683/pct:64.70997357073307,39.79081400636653,14.550006955070247,3.3651659845384265/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2077,7 +2077,7 @@ ish colonies asserted and proved,” embodied
 in a pamphlet, advanced doctrins in contrar­  
 iety to those advocated by Great Britian an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340184:1858070301:0315/pct:18.801827720426466,61.4601243221796,12.117109493992215,2.0764449146938238/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340184:1858070301:0315/pct:18.79864636209814,61.451996826236446,12.119289340101522,2.0794763290134886/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2106,7 +2106,7 @@ porses of by represratatien.
 &quot;Tanes are not to be laid on the people, but by their cone­  
 sent in person, or by representation.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_delphi_ver02:data:sn83030214:00206530832:1866051501:0110/pct:54.13337681395728,129.38049006010172,47.57867275395402,6.368469717984281/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_delphi_ver02:data:sn83030214:00206530832:1866051501:0110/pct:18.04445893798576,43.12683002003391,15.85955758465134,2.1228232393280937/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2140,7 +2140,7 @@ those who are not represented appears to me to
 deprive them ol uue of their most essential  
 rights as freemen, and If continued seems to b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_ewing_ver01:data:sn83025925:00280776208:1867012401:0150/pct:3.799715909090909,98.2160143825197,19.122869318181817,6.181717604757295/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_ewing_ver01:data:sn83025925:00280776208:1867012401:0150/pct:2.8596802841918296,73.66892545982574,14.351687388987566,4.632830867099986/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2188,7 +2188,7 @@ To-day, while ten Southern States have
 no legal representation where the taxes  
 are laid, they are oppressed with a Stamp
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867060101:0509/pct:63.42342342342342,65.08991825613079,37.77777777777778,18.267029972752045/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867060101:0509/pct:15.86061880444578,16.272479564032697,9.447281465905677,4.566757493188011/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2267,7 +2267,7 @@ hath a right to take their substance,
 or any part of it, from them, with  
 ut their own 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eagle_ver01:data:sn84022278:00200296540:1869030601:0252/pct:17.61148904006047,238.71681415929203,44.14210128495843,50.88495575221239/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eagle_ver01:data:sn84022278:00200296540:1869030601:0252/pct:4.4053696350916995,59.67920353982301,11.041784836453015,12.721238938053098/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2594,7 +2594,7 @@ where they are laid, we are reduced from
 the character of subjects to the miserable  
 state of tributary slaves.&quot; Adams ad
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_joshuaTree_ver01:data:sn85066387:00175037895:1899101601:0268/pct:29.545454545454547,87.63927576601671,13.119122257053291,4.236304549675023/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_joshuaTree_ver01:data:sn85066387:00175037895:1899101601:0268/pct:29.545454545454547,87.64314453729496,13.12957157784744,4.240173320953265/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2651,7 +2651,7 @@ sentation where they are laid we are re­
 duced from the character of subjects to  
 &#x27; the miserable state of tributary slave.?.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_joshuaTree_ver01:data:sn85066387:00175037895:1899102001:0317/pct:70.33463035019456,78.46681922196797,13.75875486381323,4.450800915331808/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_joshuaTree_ver01:data:sn85066387:00175037895:1899102001:0317/pct:70.34500648508431,78.47063310450038,13.748378728923475,4.450800915331808/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2686,7 +2686,7 @@ parliament had no right to legislate1
 for the colonies in America The at­  
 tempt of the Brttlsh to seize him an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_dantley_ver01:data:sn85058130:00206534850:1899102001:0508/pct:56.6043425814234,17.93349168646081,35.55488540410133,130.48693586698337/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_dantley_ver01:data:sn85058130:00206534850:1899102001:0508/pct:37.7526395173454,11.959619952494062,23.710407239819006,86.99129057798892/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

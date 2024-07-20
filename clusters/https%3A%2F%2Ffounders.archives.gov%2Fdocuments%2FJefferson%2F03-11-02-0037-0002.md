@@ -185,7 +185,7 @@ of the centre of gravity (of the bob) from the point of suspension
 of the centre of oscillation from the point of suspension, and a  
 the distance of the centre of gravity of the bob from the sam
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barnes_ver02:data:sn83030362:print00211110041:1853101601:0001/pct:5.621758026075985,11.486849168008588,9.589233141735596,2.5120772946859904/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barnes_ver02:data:sn83030362:print00211110041:1853101601:0001/pct:5.6287676994252065,11.486849168008588,9.589233141735596,2.522812667740204/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -185,7 +185,7 @@ peace, and constable, in the several townships,
 shall be entitled to receive from the clerk of  
 the county court, previous to the first electio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898000:1819072401:0033/pct:61.4517819706499,75.9629690857993,17.50524109014675,5.43891552322698/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898000:1819072401:0033/pct:61.43568247314645,75.9504132231405,17.507204610951007,5.4421487603305785/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -367,7 +367,7 @@ $500, and $1,000, and are to be numbered
 from one upwards, in accordance with the  
 order of issue. They shall be signed b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84020713:00296023000:1879031401:0253/pct:49.007510729613735,33.643200334238564,18.8975321888412,14.706496762063923/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84020713:00296023000:1879031401:0253/pct:36.76727028839705,25.235011489450596,14.178403755868544,11.029872571547942/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -422,7 +422,7 @@ year in excess of the amounts to be paid, by direct assess­
 ment upon the lands specially benefitted.  
 2. And be it enacted, That this act shall take effec
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00279529601:1881041401:0059/pct:17.028407277369933,46.806399603125385,10.88413661027769,5.655463227086693/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00279529601:1881041401:0059/pct:17.025690122865804,46.80059523809524,10.88638902186054,5.657862103174603/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

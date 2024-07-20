@@ -1934,7 +1934,7 @@ did, snd as every eniighteped friend of his coun- Samuel Adams, Mavhew, Hancock.
 try c id, that he sooght thatcff.ee with the deter- j and thousands of others were laboring for several  
 mined purpose of ..e&#x27;.erminii g ail causes in fa- years at the whetl. before the name of Mr. Hen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058217:00271744754:1847070601:0724/pct:49.09027291812456,6.526871267879462,61.02169349195241,121.26093598111373/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058217:00271744754:1847070601:0724/pct:36.839341967098356,4.902096930981808,45.78228911445572,90.9457019858353/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2029,7 +2029,7 @@ iiptly c.iiiei lite Huston icero. M r. Tha iebe r&#x27;s
 frame was slender, bis constitution del teat&quot;;  
 wh&#x27;-ther his physicians ov&#x27;crst rai ued I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058217:00271744754:1847070601:0724/pct:69.71658502449266,9.901402582974587,40.3778866340098,51.45118733509235/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058217:00271744754:1847070601:0724/pct:52.310115505775286,7.4295236772670465,30.294014700735037,38.591862241355365/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2153,7 +2153,7 @@ ball cf ia-.eper;;crj
 aaa tail ut;s, i nat-.-.er,  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058217:00271744754:1847070601:0724/pct:69.80405878236529,60.65824191084572,20.206438068579427,67.06013053742535/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058217:00271744754:1847070601:0724/pct:52.3801190059503,45.493681433134284,15.155757787889394,50.298569643105125/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2523,7 +2523,7 @@ olution waa in the minda and heart* of the people.
 Thia radical change in the principle*, opinion*,  
 aentimenta and affection* ol the people, waa th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661484:1851081901:0796/pct:31.998193043216382,82.99528301886792,13.160668574009938,3.3372641509433962/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661484:1851081901:0796/pct:32.00321236761532,82.99528301886792,13.160668574009938,3.345125786163522/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -78,7 +78,7 @@ Spain, of their present Hand ard, at the rate ol
 one hundred cents for every twenty-seven grains  
 and two fifths of a grain, of the actual weight
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793022301:0001/pct:6.572354848216917,3.1547507933544896,73.88741526672561,36.96098562628337/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793022301:0001/pct:6.579722959033304,3.1547507933544896,73.90215148835838,36.97031920851223/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -291,7 +291,7 @@ shall pass current as money within the Untted States, and
 be a legal tender for the payment of all debts, &amp;c., at the  
  several and respective rates following,&quot; &amp;c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:0027174349A:1864111301:0615/pct:109.83948635634029,143.5827354515431,45.73033707865169,4.953877690468056/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:0027174349A:1864111301:0615/pct:36.613162118780096,47.860911817181034,15.243445692883896,1.651292563489352/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -312,7 +312,7 @@ tender for the payment of all debts, &amp;c, at
 the several and respective rates following,  
 Again, by act of 28th June, 1834, &quot;Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774704:1864111601:0705/pct:114.30646332607117,285.77505982451476,50.108932461873636,12.337144376495614/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774704:1864111601:0705/pct:28.576615831517792,71.44376495612869,12.527233115468409,3.0842860941239034/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -353,7 +353,7 @@ The act of June 25, 1844, makes the
 silver dollar of Mexico, Peru, Chili and  
 Central America a legal tender whe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_cardinal_ver01:data:sn85052141:00202195192:1878020801:0447/pct:101.6268429079817,196.10188718160256,38.68835790543976,11.261214808703723/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_cardinal_ver01:data:sn85052141:00202195192:1878020801:0447/pct:25.40994025676878,49.02547179540064,9.673318927164104,2.815303702175931/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -405,7 +405,7 @@ gold coins shall be copper and silver, provid­
 ed that the silver do not exceed one-half the  
 alloy.&quot; It then fixes the weight of the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_bittern_ver01:data:sn86072040:no_reel:1878021601:0649/pct:167.47746215342747,109.52776459420977,37.45534954924307,23.825344091124823/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_bittern_ver01:data:sn86072040:no_reel:1878021601:0649/pct:55.82582071780915,36.50925486473659,12.485116516414356,7.941781363708274/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -476,7 +476,7 @@ United States, and be a legal tender for
 all debts and demands at theseveral and  
 respective rates following, etc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_jackinthepulpit_ver01:data:2017270205:00279527768:1896031201:0711/pct:7.154811715481172,83.03436943721758,19.497907949790793,3.3684787073805285/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_jackinthepulpit_ver01:data:2017270205:00279527768:1896031201:0711/pct:5.37769407825905,62.27577707791318,14.62649089767734,2.5332055319731617/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

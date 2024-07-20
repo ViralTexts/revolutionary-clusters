@@ -182,7 +182,7 @@ lhey tbo advantages of education equal to us,
 they would be guilty of less than ourselves. 1  
 Tbe soul is placed in the body like a rough 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_gaylord_ver02:data:sn85033781:00296023747:1876011401:1162/pct:53.840406455469214,89.22589869281046,21.578003586371786,6.096813725490196/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_gaylord_ver02:data:sn85033781:00296023747:1876011401:1162/pct:35.90970249663627,59.48733660130719,14.396770817760503,4.064542483660131/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -224,7 +224,7 @@ What has the woman done to forfeit the
 priviiege of being taught ? Shaii we up­  
 braid women with fotiy when it is only th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_galloway_ver01:data:sn91064052:00513685579:1888081001:0988/pct:42.06474536123174,46.92712906057945,12.850375049348598,9.277143693298214/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_galloway_ver01:data:sn91064052:00513685579:1888081001:0988/pct:42.0564436550227,46.920263350402344,12.852772843891849,9.279444038039502/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -348,7 +348,7 @@ world, considering us as a civilized and
 Christian country, that we deny the ad­  
 vantage of learning to women
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_jackinthepulpit_ver01:data:2017270209:00279527756:1890030801:0152/pct:42.25201072386059,55.76320840488938,16.541554959785522,3.7175472269926253/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_jackinthepulpit_ver01:data:2017270209:00279527756:1890030801:0152/pct:31.693256468695537,41.82240630366704,12.414532779192921,2.788160420244469/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -391,7 +391,7 @@ ing, what is a man (a gentleman, I
 mean) good for that is taught no  
 more? I need not give instances
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00542865969:1898030301:0113/pct:6.903353057199211,20.794117647058822,14.201183431952662,18.264705882352942/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00542865969:1898030301:0113/pct:6.901840490797546,20.79106013821497,14.203549517966696,18.265696221143948/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -437,7 +437,7 @@ when ’tis only the error of this in­
 human custom that hindered them  
 from being made wiser ?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00542865969:1898030301:0113/pct:6.88143765066842,40.94117647058823,14.179268025421871,19.764705882352942/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00542865969:1898030301:0113/pct:6.879929886064855,40.93515659461844,14.181638913234005,19.76547566534333/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -481,7 +481,7 @@ woman’s education.” This “project,” lik
 
 ---
 
-## [From _The Living Age (1897-1941)_](https://archive.org/details/sim_living-age_1898-07-02_218_2817/page/n34/mode/1up?view=theater)
+## [From _The Living age_](https://archive.org/details/sim_living-age_1898-07-02_218_2817/page/n34/mode/1up?view=theater)
 
 #### 1898-07-02 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -502,7 +502,7 @@ think that God Almighty ever mad
 
 ---
 
-## [From _The Living Age (1897-1941)_](https://archive.org/details/sim_living-age_1898-07-02_218_2817/page/n34/mode/1up?view=theater)
+## [From _The Living age_](https://archive.org/details/sim_living-age_1898-07-02_218_2817/page/n34/mode/1up?view=theater)
 
 #### 1898-07-02 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -553,7 +553,7 @@ ny the advantages of learning to
 women. ... I cannot think that  
 God Almighty ever made them s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00542865969:1898090101:0321/pct:21.323042998897463,35.41605410173479,14.22271223814774,15.554248750367538/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00542865969:1898090101:0321/pct:21.318342151675484,35.410848155225636,14.225088183421517,15.555637218874026/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -573,7 +573,7 @@ perhaps to write their names or so;
 and that is the height of a woman’s  
 education.” This “project,” like th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00542865969:1898090101:0321/pct:21.323042998897463,67.06850926198177,14.22271223814774,3.704792708027051/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00542865969:1898090101:0321/pct:21.318342151675484,67.05865059532559,14.225088183421517,3.7079229751580187/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

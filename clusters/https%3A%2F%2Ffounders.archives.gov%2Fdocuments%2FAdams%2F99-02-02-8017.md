@@ -71,7 +71,7 @@ tiansmitted to you hereafter.
 With the utmost respect, we subscribe our­  
 selves your obedient servants
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826062701:0511/pct:25.012357884330203,58.40608909782852,17.251606524962927,17.8531452876651/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826062701:0511/pct:25.00823723228995,58.39955232232792,17.254255903349808,17.854877821301997/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -174,7 +174,7 @@ first CauaUBoat. the Seneca Chief.
 1 A memoir on the New-York Canals,  
 will be transmitted ^oyou hereafter. i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn84024505:00542866962:1826070401:0518/pct:44.01863222528054,8.74163944625914,12.97903874655939,14.154611914761238/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn84024505:00542866962:1826070401:0518/pct:44.00931414055885,8.740279937791602,12.981583403895005,14.156298600311041/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -212,7 +212,7 @@ ted to you hereafter.
 W ith the utmost respect, we  
 subscribe ourselves your ob&#x27;t serv’ts
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826070401:0159/pct:59.43396226415094,22.60514018691589,18.100415733930284,12.605140186915888/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826070401:0159/pct:59.42446043165467,22.60249970797804,18.10285105249134,12.607561421952264/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

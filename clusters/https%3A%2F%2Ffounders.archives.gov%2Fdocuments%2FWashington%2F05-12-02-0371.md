@@ -211,7 +211,7 @@ G. Washington.
   
 By the President
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793040401:0004/pct:30.881440099317196,13.65149833518313,20.2048417132216,30.096189419163892/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793040401:0004/pct:30.90471756672874,13.656122826489087,20.197082557417755,30.105438401775803/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -272,7 +272,7 @@ States of America, the seventeenth
 By the President  
 Th : Jefferson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793042401:0003/pct:73.57816054598635,35.64851881505204,21.87195320116997,32.746196957566056/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793042401:0003/pct:73.58628534286643,35.64851881505204,21.87195320116997,32.771216973578866/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -341,7 +341,7 @@ G. Washington.
 By the President,  
 Th: JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793042401:0003/pct:67.21213924427254,14.277726001863932,20.410592085688783,32.58154706430569/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793042401:0003/pct:67.22701576911633,14.287045666356011,20.410592085688783,32.58154706430569/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -404,7 +404,7 @@ G. Washington,.
 By V%S*S»#&gt;snT,.  
 Tb: JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793042701:0001/pct:5.128205128205129,30.371476572708605,19.558735837805607,31.155497479932798/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793042701:0001/pct:5.143112701252236,30.380810154937464,19.581097197376266,31.155497479932798/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -473,7 +473,7 @@ By the President,
   
 Th: JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793050101:0004/pct:11.135371179039302,13.404333455747338,20.6487835308796,31.52772677194271/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793050101:0004/pct:11.158764815970056,13.404333455747338,20.633187772925766,31.53231729709879/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -536,7 +536,7 @@ Geo. Washington,
 By the PresipEnT,  
 TH: JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1793050701:0015/pct:8.478726660544842,10.782049994980424,21.21212121212121,39.202891275976306/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1793050701:0015/pct:8.483828180797877,10.782049994980424,21.21212121212121,39.209584044439985/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -591,7 +591,7 @@ G. Washington.
   
 By the President
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793051101:0004/pct:78.57592942659105,19.70534069981584,18.777567737870196,24.732965009208105/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793051101:0004/pct:78.59168241965973,19.70534069981584,18.793320730938877,24.732965009208105/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -757,7 +757,7 @@ ers refpeftively, &amp;c.&#x27;&quot; The terms adopi
 and pursue, in the firft paragraph, argue  
 an unsettled itate ot things, and that some
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793092101:0001/pct:6.749840051183622,54.56539074960128,20.825335892514396,8.313397129186603/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793092101:0001/pct:6.749840051183622,54.56539074960128,20.85732565579015,8.320042530568847/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -833,7 +833,7 @@ Damped with candor and good faith ?
 &quot; privateers to its couris of jtiftice.&quot; Abandoned  
 them to its courts of jujlice ! Sir, yon know man
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797012501:0002/pct:53.572311495673674,17.54497691450406,19.35723114956737,15.538926922464576/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797012501:0002/pct:53.57849196538937,17.54497691450406,19.35723114956737,15.550867696226716/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -880,7 +880,7 @@ dened French - privateers to its
 Courts of juftice.”’ déandoned them to  
 its Courts of Fuftice ! Sir, you kno
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797021801:0238/pct:58.67680608365019,54.49272512780181,15.726235741444867,21.43138025953598/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797021801:0238/pct:58.68187579214195,54.49600209726045,15.736375158428391,21.428103290077335/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -951,7 +951,7 @@ cerning the insurrections in Pennsylvania, say
 to the insurrectionists or the sympathizers,  
 that their plans were &quot; impracticable icithou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1838112401:0682/pct:49.853085210577866,37.41802283215934,15.475024485798237,11.124605295117805/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1838112401:0682/pct:49.8639677875721,37.41802283215934,15.469583197301121,11.13270180552182/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -971,7 +971,7 @@ or the one part, and France on the other,
 President Washington caused instructions  
 to be issued to the collectors of the customs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661368:1849061901:0044/pct:30.336021505376344,34.33658329800763,15.040322580645162,4.334463755828741/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661368:1849061901:0044/pct:30.336021505376344,34.34364843860393,15.049283154121865,4.330931185530592/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1004,7 +1004,7 @@ the belligeient power*. I fiave, therefore, (bought bt, by
 these presents, to declare the disposition of the United  
 States to obsei ve the conduct aforesaid.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851012301:0096/pct:38.25525040387722,6.480648064806481,15.476575121163167,4.2175646136042175/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851012301:0096/pct:38.25525040387722,6.480648064806481,15.492730210016155,4.226136899404226/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1058,7 +1058,7 @@ ent powers, I have therefore thought fit, by these
 presents, to declare the disposition of the United  
 States to observe the conduct aforesaid.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530339:1851012501:0166/pct:9.022430532306663,66.67053229734431,47.65651155005022,14.693262205728864/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530339:1851012501:0166/pct:3.0074768441022206,22.223510765781437,15.88550385001674,4.897754068576289/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1093,7 +1093,7 @@ it, by these presents, to declare the disposition a
 af the United States to observe the conduct r  
 aforesaid.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661484:1851012701:0110/pct:19.497139415838603,37.02554308904273,13.685636856368564,5.645738839818573/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661484:1851012701:0110/pct:19.507176553247014,37.033500437654176,13.680618287664359,5.645738839818573/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1117,7 +1117,7 @@ Powers, 1 have therefore thought fit, by
 these presents, to declare the disposition of the  
 United States to observe the conduct aforesaid 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1851013001:0250/pct:30.735294117647058,40.32178462145889,15.0,4.313493238574671/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1851013001:0250/pct:30.745098039215687,40.32836508406541,14.990196078431373,4.3102030072714115/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1143,15 +1143,15 @@ ave therefore thought lit, by these presents, to dearc
 the disposition of the United States to observe  
 le couduct aforesaid.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661393:1851013101:0144/pct:42.09031525134905,29.172949773808142,13.135472877023572,4.62823338359819/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661393:1851013101:0144/pct:42.09504875508852,29.172949773808142,13.135472877023572,4.632099911069868/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1851-02_28_152/page/n25/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1851-02_28_152/page/n25/mode/1up?view=theater)
 
-#### 1851-02-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1851-02-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1180,7 +1180,7 @@ of the one part, and France, on the other.&quot;
 Why was the aggressor the last party to be  
 named? But History has determined the characte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1851020601:0254/pct:16.92352854836342,21.715976331360945,15.411712901805371,3.145956607495069/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1851020601:0254/pct:16.92842115563384,21.715976331360945,15.411712901805371,3.155818540433925/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1246,7 +1246,7 @@ delphia, the 22d day of April, 1793, and of the Independence
 of the United States of America the seventeenth.  
 &quot;GEORGE WASHINGTON.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_diglett_ver01:data:sn82015378:00295872354:1851050501:0436/pct:49.81971153846154,96.98124267291911,37.68028846153846,35.0820633059789/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_diglett_ver01:data:sn82015378:00295872354:1851050501:0436/pct:16.606570512820515,32.327080890973036,12.560096153846153,11.694021101992966/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1312,7 +1312,7 @@ proclamation, saye:
 &quot;This measure derives importance irom tbe considera­  
 tion ihst it was the commencement ot that system to whic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661204:1852021101:0147/pct:79.86947791164658,35.82839474362278,16.06425702811245,13.30842566348879/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661204:1852021101:0147/pct:79.86947791164658,35.82839474362278,16.0698348951361,13.317014515159324/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1360,7 +1360,7 @@ f them.
 &quot;Tm. JtrrsaaoK.&quot;  
 Marshall, in hi* life of Washington, spsaking of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852021301:0169/pct:43.300540390744075,51.87445510026155,14.133296383538866,13.873147340889277/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852021301:0169/pct:43.300540390744075,51.87808776518454,14.133296383538866,13.876780005812265/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1401,7 +1401,7 @@ any of them.
 By the President: Th. Jkffkrson.&quot;  
 Marshall, in his Life of Washington, speaking of thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1852021401:0090/pct:18.097479922459154,38.53595614317962,15.577402381611742,11.705901322154144/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1852021401:0090/pct:18.097479922459154,38.53953921674012,15.58201790824333,11.709484395714645/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1456,7 +1456,7 @@ GEORGE WASHINGTON.
 By the President:  
 Thomas Jefferson, Secretary of State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82014593:00415661034:1852022001:0219/pct:79.48316366483947,44.387288523090994,16.225528582615507,20.930498399634203/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82014593:00415661034:1852022001:0219/pct:79.48838423388149,44.39109891784789,16.235969720699558,20.938119189147997/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1489,7 +1489,7 @@ of State, the great champion of neutrality,
 was compelled to denounce them as “setting  
 np a system of espionage destructive to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_damariscotta_ver02:data:sn83016025:00279525164:1863033101:0240/pct:3.1510658016682114,71.08203870264377,12.548656163113995,9.007904061052058/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_damariscotta_ver02:data:sn83016025:00279525164:1863033101:0240/pct:3.150481838398814,71.07235318163238,12.550963676797627,9.010083117590952/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1628,7 +1628,7 @@ conduct in the war between Austria, Prussia,
 Sardinia, Great Britain, and the United  
 Netherlands, combined against France
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_ewing_ver01:data:sn83025925:00280776269:1869051101:0068/pct:49.22994269340974,95.75707154742096,19.197707736389685,2.093732667775929/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_ewing_ver01:data:sn83025925:00280776269:1869051101:0068/pct:36.94678373051425,71.82473655019412,14.406020426446874,1.5668330560177481/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1670,7 +1670,7 @@ Sarah was fitting out as a French privateer,she was seized, an
 
 ---
 
-## [From _Putnam's magazine of literature, science, art, and national interests_](https://archive.org/details/sim_putnams-magazine_1870-04_5_28/page/n105/mode/1up?view=theater)
+## [From _Putnam's Magazine.  Original Papers on Literature, Science, Art and National Interests (1868-1870)_](https://archive.org/details/sim_putnams-magazine_1870-04_5_28/page/n105/mode/1up?view=theater)
 
 #### 1870-04-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -1720,7 +1720,7 @@ respectively, and to ethort and warn the citizens of the United States
 carefully to avoid all acts and proceedir gs whatsoever which may in any  
 manner tend to contravene such disposi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fortran_ver01:data:sn83030214:0020653106A:1870121401:0747/pct:245.3003875968992,45.577451879010084,47.39987080103359,10.368927589367553/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fortran_ver01:data:sn83030214:0020653106A:1870121401:0747/pct:81.76679586563307,15.192483959670028,15.799956933677864,3.4563091964558508/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1742,7 +1742,7 @@ draft, and designate it twice by the circumlocution of
 Powers,&quot; and &quot; the conduct aforesaid.&quot; But nobody  
 was deceived as to what this meant from that day t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fortran_ver01:data:sn83030214:0020653106A:1870121401:0747/pct:245.21963824289406,60.87305224564619,47.7390180878553,9.303391384051329/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fortran_ver01:data:sn83030214:0020653106A:1870121401:0747/pct:81.73987941429802,20.2910174152154,15.9130060292851,3.101130461350443/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1782,7 +1782,7 @@ ever which may in any manner tend to contravene such dise­
 position.  
 It is to be particularly observed that throughou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743725:1870121401:0932/pct:56.19360131255127,75.84862385321101,45.69319114027892,29.621559633027523/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743725:1870121401:0932/pct:18.731200437517092,25.282874617737004,15.231063713426305,9.873853211009175/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1985,7 +1985,7 @@ declaration that the United States did not pro
 pose to be bound by it. While they did not  
 object to that part of the proclamation whic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_goethe_ver01:data:sn83030272:00175042878:1896070901:0505/pct:171.4939024390244,98.92211932594505,50.53353658536585,28.905419766206165/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_goethe_ver01:data:sn83030272:00175042878:1896070901:0505/pct:42.8898208158597,24.730529831486262,12.638200533739992,7.226354941551541/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2013,7 +2013,7 @@ from their Government into whatever dif­
 ficulties they may be thrown by the viola­  
 tions of the laws of their country and th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ike_ver01:data:sn84024441:00211102433:1897040301:0106/pct:24.42002442002442,104.73660411485417,18.13186813186813,9.80104001808727/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ike_ver01:data:sn84024441:00211102433:1897040301:0106/pct:16.290076335877863,69.82817092471173,12.091603053435115,6.534026678724848/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

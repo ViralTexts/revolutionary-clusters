@@ -94,7 +94,7 @@ mediately liberated, and that persons hon­
 ored with his majesty&#x27;s commifiions do in  
 future abitain from similar violences. It i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794102001:0003/pct:40.847682119205295,71.87396351575455,16.079470198675498,4.096185737976783/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794102001:0003/pct:40.86092715231788,71.88640132669984,16.079470198675498,4.092039800995025/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -264,7 +264,7 @@ should be evidence that the seamen on board
   
 are such.. But, (let the reader mark !) i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812081801:0122/pct:5.615709304459534,29.17589175891759,17.54450357863828,3.886838868388684/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812081801:0122/pct:5.614678899082569,29.172303529701143,17.547400611620795,3.8904603779772886/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -284,7 +284,7 @@ ly liberated, and that persons honored with
 his majesty** commissions do in future ab­  
 stain from similar violences.&quot; This gentl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812081801:0122/pct:23.729124610020186,91.73431734317343,17.379335657918883,3.4071340713407134/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812081801:0122/pct:23.724770642201836,91.72303529701144,17.382262996941897,3.4108145779526913/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -303,7 +303,7 @@ service and of suffering, is no compensation
 for the past, and no security for the future.”  
 44 It is impossible not to believe that the de
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812081801:0122/pct:41.78748394200771,15.387453874538746,17.085703798862177,2.7552275522755227/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812081801:0122/pct:41.77981651376147,15.385561431558234,17.08868501529052,2.7589882343295207/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -356,7 +356,7 @@ plest rule would be, that rhe vensel being A­
 board her are such, But (let the reader mark!)  
 it will be an important point galned, if on th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812091001:0685/pct:3.9047310434219056,14.886699507389162,22.699287103046014,4.315270935960591/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812091001:0685/pct:3.9047310434219056,14.893267651888342,22.710088572045798,4.315270935960591/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -376,7 +376,7 @@ ed, 4nd that persons, henored with his ma­
 jesty’s commissions do in future abstain from  
 similar violeoces.”” This gentle tone, how
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812091001:0685/pct:50.48606610499028,5.990147783251231,21.14387556707712,4.088669950738916/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812091001:0685/pct:50.496867573990066,5.990147783251231,21.149276301577014,4.095238095238095/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -394,7 +394,7 @@ release othe’ injured, after a long course of
 serviceand of suffering, is no compensation  
 for the past, and no security for the future.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812091701:0689/pct:6.842698438254709,12.354220201620874,21.33311866044115,2.7969954536469657/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812091701:0689/pct:6.848065260559223,12.357514660341305,21.34385230505018,2.800289912367398/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -461,7 +461,7 @@ spi^&gt; in their hands, and forced by violence
 them to serve, tin&#x27;ll conclusive tostinv&#x27;iiiitls  
 ot their birth can l&gt;e obtained These mus
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812111401:0225/pct:23.380697545672632,4.798914384406612,35.15408747001292,92.51171971379225/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812111401:0225/pct:23.376383763837637,4.798322437399778,35.153751537515376,92.50442004851774/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -485,7 +485,7 @@ jured, after a long course of service and of
 sell ting, is no compensation for the past,  
 and no security f r tlie figure. I* is im
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812111401:0225/pct:41.02232884295996,11.460646434739699,17.71544565417974,5.539106834443622/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812111401:0225/pct:41.01476014760148,11.459232761810782,17.718327183271832,5.542535257596316/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -575,7 +575,7 @@ ah! forced by violence thereto serve, until
 conclusive testimonials of thFr birth could be  
 obtained ; that many must p rish unrelieved
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1815032201:0404/pct:23.916238060249817,18.41182364729459,17.468772961058047,9.105711422845692/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1815032201:0404/pct:23.911845730027547,18.409517845961176,17.471686562595654,9.108745564600293/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -629,7 +629,7 @@ the law oi nations to incite tho e subjects to revolt who
 actually pay obedience to their sovereign, though they  
 compla in of his government.”—&#x27;p 150
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348379:1851082801:0193/pct:7.884615384615385,82.43772739994402,14.423076923076923,1.7212426532325777/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348379:1851082801:0193/pct:7.8830994039607765,82.42619280817127,14.425110555662373,1.7244997901217294/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

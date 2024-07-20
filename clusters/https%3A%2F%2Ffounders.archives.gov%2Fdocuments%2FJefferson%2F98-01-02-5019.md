@@ -208,7 +208,7 @@ Well! so are the beasts of the forest ; so
 are the shoals ol fish that stupidly swim  
 into the tisherman&#x27;s net, so are the mus.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216018:1803091301:0136/pct:34.363556466969385,76.91745799853908,19.920902299692397,8.975529583637691/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216018:1803091301:0136/pct:34.3585237258348,76.91043549712407,19.922866627611796,8.977753431327795/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -248,7 +248,7 @@ conformity with that of tile concluding para­
 graph of the “ Essay concerning the true ori­  
 ginal extent, and end of civil government,” th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812022001:0063/pct:56.99628515832301,75.42654028436019,16.451441712365117,3.0924170616113744/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812022001:0063/pct:56.98620445702158,75.41760454922402,16.454427543921707,3.095999684081665/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -304,7 +304,7 @@ K&#x27;nvCn&quot;;*,^rnon-v 19 r«&lt;iuiretl from a student, it
 &quot; &quot;® voluntary and not on oath, and the oblige*  
 t&#x27;on to give it shall be left to his own sense of tight
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn85025230:00414184108:1827011301:0052/pct:46.25981336098356,9.784713520902153,15.597689231225004,1.6288871169837111/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn85025230:00414184108:1827011301:0052/pct:46.252962085308056,9.783599088838269,15.600315955766193,1.6324981017463933/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -343,7 +343,7 @@ ol Liw which ireateaon the subject ol civil polity, these
 shall be u«e-.l as (lie lexis and documents ol the School.*  
 &quot; hilst then in every other department, and in this o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1833091701:0158/pct:21.042524005486968,15.840175150519977,14.77366255144033,10.892172961138478/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1833091701:0158/pct:21.03963790975175,15.838441330998249,14.776208110455814,10.894629305312318/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -400,7 +400,7 @@ be used as the texts and documents of the School.&quot;
 We learn, moreover, that the twenty dollar ex­  
 tra fee in the Senior Class of Law has been abo­
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1845080101:0280/pct:18.018419489007723,55.059409735530856,13.72549019607843,17.650440781908777/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1845080101:0280/pct:18.028322440087145,55.059409735530856,13.72549019607843,17.656828925514244/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

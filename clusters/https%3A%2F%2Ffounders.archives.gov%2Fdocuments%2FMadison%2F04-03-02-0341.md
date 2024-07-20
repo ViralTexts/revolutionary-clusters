@@ -39,7 +39,7 @@ are threatened, on the high seas and else­
 where, from the belligerent powers of Ey­  
 rope,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808010501:0002/pct:44.89671931956258,12.360335195530727,15.780680437424058,5.666400638467677/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808010501:0002/pct:44.89671931956258,12.36366054801809,15.785743215876874,5.673051343442405/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -95,7 +95,7 @@ as being the safest course: It
 cons l the best means that  
 could be resorted to, For the protec
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808011801:0004/pct:23.59298531810767,59.937565036420395,17.883360522022837,21.774193548387096/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808011801:0004/pct:23.59978249048396,59.937565036420395,17.89015769439913,21.774193548387096/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -131,7 +131,7 @@ certain prostration of neutral commerce. The
 [embargo was laid as being the safest course : it  
 w
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808011901:0333/pct:21.960569550930998,1.9915883226125681,17.96276013143483,11.058881741712023/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808011901:0333/pct:21.956561416316845,1.9913419913419914,17.965565492486462,11.06163677592249/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -171,7 +171,7 @@ their ports, for the purpose of pieserving them as
 resources to meet u state of war, if that should ulti­  
 mately come, was all that the president prof essed t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808030701:1020/pct:3.8869257950530036,63.84454120303177,21.958606764260473,9.869375907111756/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808030701:1020/pct:3.885944991168307,63.83424701709126,21.959374211455966,9.871815543373106/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -221,7 +221,7 @@ to have in view, all that he wished to do,
 at least at that time. 1 state it to the  
 everlasting honour of the minority o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808031801:0927/pct:66.89080150618612,14.526206178410273,20.414201183431953,20.027768136063866/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808031801:0927/pct:66.87281527292284,14.52368558042686,20.41543425652057,20.028630921395106/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -258,7 +258,7 @@ Chesapeake should be separated from j
 all other subjects ; and it is attempted J  
 to support this charge by tlie follow-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808041301:0002/pct:42.28269699431357,39.997418688693855,17.56701868399675,15.771812080536913/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808041301:0002/pct:42.28269699431357,40.001720874204096,17.587327376116978,15.771812080536913/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -286,7 +286,7 @@ rent powers ot Europe, says “ 1 deem it my duty to
 isalt which the President mentions in recommenda­  
 tion ot the embargo, Tht inhibition of the depar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808050901:1122/pct:50.06346788525006,64.18582221507796,21.62985529322163,9.564378717248031/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808050901:1122/pct:50.0507614213198,64.17550626808101,21.630710659898476,9.566859530697524/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -308,7 +308,7 @@ seamen and merchandize were threatened on the
 high seas and elsewhere, from the belligerent pow­  
 ers of Europe.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808122101:0271/pct:54.292929292929294,78.51077726975832,20.833333333333332,5.355976485956891/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808122101:0271/pct:54.27922241858116,78.49795918367347,20.83438525624842,5.359183673469388/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -328,7 +328,7 @@ merchandise, were threatened on the high
 . of Europe.&quot;  
 . As to the proclamation of the king of G
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216092:1809012101:0160/pct:6.428997613365155,36.726023682545424,25.193914081145586,4.917291873813613/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216092:1809012101:0160/pct:6.428038777032065,36.722704266088215,25.19512801391996,4.919860207278862/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -348,7 +348,7 @@ sels, our Seaitien and our merchandize were
 threatened on the high seas and elsewhere,&quot;  
 from the French decree and its extended o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216092:1809012101:0160/pct:33.114558472553696,23.935641326945674,22.538782816229116,4.619000271174184/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216092:1809012101:0160/pct:33.1096196868009,23.93347794649313,22.540392741735022,4.621595565196433/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -368,7 +368,7 @@ on the high seas and eiscWhusc srom thehctf
 ligercnt pozvers, {53 -.&quot; XVhat&#x27; bellz&#x27;gem! ,  
 power: ? Who were the beiligerents (mon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216109:1809062201:0040/pct:77.01538461538462,46.091425480119014,22.692307692307693,4.977008385177171/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216109:1809062201:0040/pct:77.0035379172435,46.08727010457988,22.69394452135569,4.979564851544657/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -393,7 +393,7 @@ seas and &amp;c. he seems to hav&lt;
 been animated witH a “ prophet’s fire.”  
 Yet what opposition did it meet ’ wit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810060101:0033/pct:22.34767025089606,43.7150498419645,16.881720430107528,6.078288353999514/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810060101:0033/pct:22.343666009675687,43.70973623435031,16.88466821955444,6.081601231716705/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -418,7 +418,7 @@ French: and these, then, if any, must show the
 “ great and increasing dangers” mentioned by Mr.  
 Jefferson. Now take his own opinion of the Berli
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811053101:0545/pct:52.03653418908912,51.90530241608562,20.957788200444334,7.442840927517431/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811053101:0545/pct:52.02369200394867,51.89688715953307,20.95878578479763,7.445687418936446/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -449,7 +449,7 @@ time; to its second reading on that dav an
 objection is made as violating a rule of the  
 Seni «te, adopted for the protection of Ihe mi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183979:1823091901:0161/pct:33.79523964786436,71.53135867610025,15.047277469840235,9.233721069672622/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183979:1823091901:0161/pct:33.789731051344745,71.52278177458034,15.050258082042923,9.236610711430854/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -472,7 +472,7 @@ on the lugn sms and elsewhere, from the bcligercut
 powers of Europe, and it being of the greatest im­  
 poi tnnee to keep i„
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184522:1824092101:0276/pct:50.53098747820574,73.78878940267386,14.931050879695674,4.955231203238072/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184522:1824092101:0276/pct:50.5229793977813,73.77974000490556,14.933967247754886,4.9587114708527515/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

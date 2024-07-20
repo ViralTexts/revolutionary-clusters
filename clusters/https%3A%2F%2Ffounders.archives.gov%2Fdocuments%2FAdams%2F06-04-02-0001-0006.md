@@ -172,7 +172,7 @@ lives, liberties and properties against the hos­
 tile invasions and cruel depredations of their  
 enemies; therefore resolved,” &amp;c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021206:00517171955:1826072601:0225/pct:4.219922905254616,93.69693481076413,19.435991073240007,18.650165491437615/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021206:00517171955:1826072601:0225/pct:3.270440251572327,72.62351760288486,15.073375262054507,14.45778653481542/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

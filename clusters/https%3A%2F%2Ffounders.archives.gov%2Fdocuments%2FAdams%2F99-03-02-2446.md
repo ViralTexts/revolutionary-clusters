@@ -301,7 +301,7 @@ It he accepted the.title hb should be sover­
 eign of a mean state, instead of a stgdthol.  
 der of a great republic.” William, in con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1814030201:0378/pct:22.571692876965773,23.28159645232816,17.72432932469935,7.785168760778517/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1814030201:0378/pct:22.56751757306696,23.278728907500923,17.727216672832654,7.78831547399105/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

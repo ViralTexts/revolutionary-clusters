@@ -325,7 +325,7 @@ embassy to, or receive any embassy from, or en­
 ter into any conference, agreement, alliance, or  
 treaty with any king, prince, or State; nor kee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024657:00414184583:1833040401:0012/pct:32.33024691358025,20.02755511022044,12.716049382716049,3.970440881763527/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024657:00414184583:1833040401:0012/pct:32.32525844777041,20.02504696305573,12.719230571413876,3.974118138175746/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -484,7 +484,7 @@ sending and receiving ambassadors,?enter,as
 into treaties and alliances,&quot; \c.  
 ! And such continued to be the practice of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1845013001:0056/pct:58.05379268661227,27.653871924954533,13.946811725596858,3.8384225136402796/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1845013001:0056/pct:58.06386622343105,27.660253342267318,13.94177495718747,3.8384225136402796/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -514,7 +514,7 @@ meh imposts or duties on foreigners as their
 the exportation or importation of any spejies  
 of goods or merchandise whatsoever.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1854022301:0037/pct:63.41434215252005,92.54464707549845,12.582305758410152,3.316639894169895/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1854022301:0037/pct:63.42232331697195,92.5509464865035,12.582305758410152,3.316639894169895/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -562,7 +562,7 @@ Prince or State: &quot;No two or more States
 shall form any treaty or aldance between  
 themselves, without theconsent of longress
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn88078724:00296028034:1860122701:0214/pct:177.82874617737002,164.12471318666488,49.235474006116206,22.8910784181401/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn88078724:00296028034:1860122701:0214/pct:44.474187380497135,41.03117829666622,12.31357552581262,5.722769604535025/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -696,7 +696,7 @@ ment, alliance, or treaty with, any king,
 prince or State; nor keep up any vessels  
 of war, or body of forces, in time of peace
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00212470491:1870120101:0767/pct:244.75806451612902,119.58106854036855,51.04838709677419,17.075434177383006/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00212470491:1870120101:0767/pct:61.21419927390077,29.895267135092137,12.767244856797095,4.268858544345751/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -798,7 +798,7 @@ are subjected to, or from prohibiting
 the exportation or importation of any  
 species of goods or commodities what
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_elkweed_ver01:data:sn92070464:00280773797:1893060301:0273/pct:115.33834586466165,306.09806917627446,50.150375939849624,35.4493679677733/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_elkweed_ver01:data:sn92070464:00280773797:1893060301:0273/pct:28.84543061301241,76.52451729406862,12.542309138773975,8.862341991943325/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

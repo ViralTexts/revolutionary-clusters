@@ -108,7 +108,7 @@ al control will very probably never be exercised.
 The power appears to me satisfactory, and as un  
 likely to be abused as any part of the Constitution.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184601:1842050701:0548/pct:92.00251889168766,210.3688239387613,39.782745591939545,55.996288564138254/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184601:1842050701:0548/pct:30.662679049268064,70.11480923112606,13.25882785035941,18.66326491167034/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -154,7 +154,7 @@ that &quot;it was thought that the regulation of times,
 piaces, and manner of electing Representatives  
 should be uniform throughout the continent,&quot; an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184601:1842050901:0552/pct:129.24380294948227,181.6759388038943,40.91622215249451,40.97125637459435/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184601:1842050901:0552/pct:43.07450980392157,60.55162823038591,13.636601307189542,13.655502762004094/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -209,7 +209,7 @@ e exereised.he
 power appears to me salisfactory, and as unlikely to be  
 abused as any part of the Constitutio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347892:1842051201:0327/pct:71.17241379310344,64.12483438834094,63.23152709359606,81.86368320329751/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347892:1842051201:0327/pct:17.789598108747043,16.028848984398,15.804767533490939,20.462908448631143/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -339,7 +339,7 @@ he situation?of the people, subject to the control
 if the General Government, in order to produce  
 uniformity and prevent its own dissolution.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kershawhogjam_ver03:data:sn85042795:00295861848:1842080201:0092/pct:17.4971363115693,44.362060664419836,15.807560137457045,5.132402503610978/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kershawhogjam_ver03:data:sn85042795:00295861848:1842080201:0092/pct:17.501909125620465,44.36848017974643,15.807560137457045,5.135612261274273/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -381,7 +381,7 @@ Stat* Governments, ie being best acquainted with
 the situation of the people, subject to the control  
 f&#x27;f the (it ner.il Government, in order to produc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kershawhogjam_ver03:data:sn85042795:00295861848:1842092001:0118/pct:18.493150684931507,94.28152492668622,15.953196347031964,4.58455522971652/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kershawhogjam_ver03:data:sn85042795:00295861848:1842092001:0118/pct:18.493150684931507,94.28478331704139,15.957952815829529,4.587813620071684/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -413,7 +413,7 @@ place, to the State Governments, as being best acquainted
 with the asation of the people, subject to the controt of the  
 Geeral Governmeat in order to produce urntformity, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530194:1843121501:0272/pct:4.767138343179008,203.68406099062412,49.12762742134909,10.04830002841178/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530194:1843121501:0272/pct:1.5890461143930028,67.89468699687471,16.375875807116362,3.3494333428039273/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -452,7 +452,7 @@ Were they exclosively under the control of the State Goy.
 eraments the General Government might easily be dissoly.  
 ed. The power of regulating th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184613:1843121801:1150/pct:12.571022727272727,252.644369864599,39.38920454545455,30.146973729892373/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184613:1843121801:1150/pct:4.189745774747905,84.20504512844249,13.127870094210103,10.047828434775901/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -632,7 +632,7 @@ the right of immediate representation, by
 transferring that right to the whole Slate,  
 or rather to that central power which i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:00200292431:1844021701:0029/pct:25.469483568075116,73.42835708927232,19.561815336463223,16.534133533383347/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:00200292431:1844021701:0029/pct:19.119373776908024,55.07876969242311,14.677103718199609,12.408102025506377/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -696,7 +696,7 @@ der to enable it to produce uniformity, nnd pre-
 nt US own UHSMUtlon. ;inu conquering ine  
 State Governments and General U ivernmcnt a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058217:00271744754:1844030801:0039/pct:27.05739972337483,100.39687970439304,23.029045643153527,7.9923361160530995/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058217:00271744754:1844030801:0039/pct:20.304392943618126,75.29765977829479,17.277758561051538,6.007937594087861/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -815,7 +815,7 @@ very probably never be exercised. The power ap­
 pears to me taUrihetory, and as uuUkclt to be  
 abased aa any part of the Constitution.’ Thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_illinois_ver02:data:sn82014064:no_reel:1866011101:0001/pct:22.721390275466813,9.958133971291867,17.48936956923646,85.37679425837321/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_illinois_ver02:data:sn82014064:no_reel:1866011101:0001/pct:22.73063412830468,9.961872009569378,17.48936956923646,85.38427033492823/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -858,7 +858,7 @@ ably never be exercised. The power ap­
 pears to me satisfactory, and as unlikely  
 to be abused as any part of the Constit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn85042437:00280775563:1866011501:0469/pct:135.08771929824562,145.06172839506172,38.92137751786875,47.22222222222222/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn85042437:00280775563:1866011501:0469/pct:33.78839590443686,36.26543209876543,9.735088574679018,11.805555555555555/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -928,7 +928,7 @@ that the Constifution under the word manner had the
 firht to prescribe the quallfication of electors when it  
 fications to vote for members of the Hons
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_delphi_ver02:data:sn83030213:00206530820:1866011601:0112/pct:99.46770759403833,188.9749777721326,49.8403122782115,16.334307125619205/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_delphi_ver02:data:sn83030213:00206530820:1866011601:0112/pct:33.15590253134611,62.991659257377535,16.6134374260705,5.4447690418730685/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -952,7 +952,7 @@ that the constitution under the word &quot;manner had the
 right to prescribe the qualification of elcotors, when it  
 said the qualifications to vote for members of the Hous
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743543:1866011601:0131/pct:197.93887704335467,39.05006732770229,48.169864960909734,11.776227200391725/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743543:1866011601:0131/pct:65.97962568111822,13.016689109234097,16.05662165363658,3.9254090667972417/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -997,7 +997,7 @@ of the Copperhead party Is destroyed. The
 doctrine that Congress cannot extend the  
 right to vote to the colored race, or an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_illinois_ver02:data:sn82014064:no_reel:1866011601:0002/pct:11.13214691404771,26.188327316486163,9.409314653540326,10.78519855595668/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_illinois_ver02:data:sn82014064:no_reel:1866011601:0002/pct:11.136879969708444,26.188327316486163,9.41404770920106,10.800240673886883/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1071,7 +1071,7 @@ tetyprobaly never be exereited. The power ap­
 pears to me satisfactory and as unlikely to be  
 abused as any part of the Constitution.’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_illinois_ver02:data:sn82014064:no_reel:1866011601:0002/pct:60.07194244604317,73.63116726835139,9.201060204468005,16.621540312876053/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_illinois_ver02:data:sn82014064:no_reel:1866011601:0002/pct:60.08140855736463,73.64244885679904,9.210526315789474,16.610258724428398/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1091,7 +1091,7 @@ by the General Government, etc.
 Mr. Kasson replied that was the repetition of  
 the assertion the gentleman made the othe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_leonberger_ver03:data:sn83045462:00280654255:1866011601:0363/pct:65.23563589412524,75.71163703784491,15.477727566171724,2.573890282473552/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_leonberger_ver03:data:sn83045462:00280654255:1866011601:0363/pct:65.23967075532602,75.71163703784491,15.489832149774047,2.590249754607918/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1115,7 +1115,7 @@ most numerous bransh of the Legislature. If suffrage
 were made universal in some portions of the country  
 there would be no sscurity for the permanence o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:0020653607A:1866011601:0055/pct:170.17738359201775,239.9398835243284,68.73614190687361,16.757467593462334/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:0020653607A:1866011601:0055/pct:42.57975034674064,59.9849708810821,17.198335644937586,4.189366898365583/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1151,7 +1151,7 @@ tbe Congressional control will very probably never be
 exercised. The power appears to me satisfactory  
 and as unlikely to be abused as any part of the Con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058250:00271744791:1866011801:0013/pct:24.35370152761457,43.74007572981556,16.392479435957696,14.229876633687553/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058250:00271744791:1866011801:0013/pct:18.28067597354886,32.808110418956886,12.299779573842763,10.675461096860877/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1224,7 +1224,7 @@ never be exercised. The power appears to me
 satisfactory and as unlikely to be abüsed as  
 any part of the Constitution.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn85042437:00280775563:1866011801:0480/pct:141.31853785900782,117.48797295540241,40.33942558746736,99.80496684436355/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn85042437:00280775563:1866011801:0480/pct:35.3469387755102,29.371993238850603,10.089795918367347,24.951241711090887/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1256,7 +1256,7 @@ ably never be exercised. The power appears
 to me Srttisfactory,-and as unlikely to benbused  
 as any part of the Constitution. .&#x27; This iuo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85038184:00296026797:1866011801:0465/pct:43.21753515301902,7.635009310986964,33.89164598842018,124.50341402855369/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85038184:00296026797:1866011801:0465/pct:32.430196483971045,5.726256983240224,25.418821096173733,93.38919925512104/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1283,7 +1283,7 @@ members. bh&lt;tdd the people of any titled by any
 mtoju be deprived of the right of suffrage, ti toietn­  
 deed proper that it nhouid be rerouted by the general
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_illinois_ver02:data:sn82014064:no_reel:1866011901:0002/pct:1.6272469252601702,43.520782396088016,9.290444654683066,3.4841075794621026/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_illinois_ver02:data:sn82014064:no_reel:1866011901:0002/pct:1.6319772942289499,43.532243276283616,9.295175023651845,3.4841075794621026/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1333,7 +1333,7 @@ ated tlfC italicised clause of Section JV., Art­
 sow arisen. The regulation of the elective  
 franchise was left to the States until suc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_illinois_ver02:data:sn82014064:no_reel:1866012301:0002/pct:1.2245666917859834,56.39108984900583,9.495101733232856,13.290476902377037/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_illinois_ver02:data:sn82014064:no_reel:1866012301:0002/pct:1.2245666917859834,56.39856480789356,9.499811605124341,13.2942143818209/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1447,7 +1447,7 @@ and if Mr.&#x27;Kelly is to be denied the claim
 to practical statesmanship, then indeed are  
 we deficient in a true appreciation of tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_datsun_ver01:data:sn83016836:00212472530:1866020101:0419/pct:4.772425983208131,79.34154584105526,12.697009868905582,8.950179875722228/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_datsun_ver01:data:sn83016836:00212472530:1866020101:0419/pct:4.772425983208131,79.34881354700389,12.697009868905582,8.950179875722228/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1488,7 +1488,7 @@ power appears to me satisfactory, and as un­
 likely to be abused as any pan of the Con­  
 stitution.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:00279525218:1866020501:0296/pct:84.91547464239272,34.26294820717131,11.76853055916775,10.620019920318725/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:00279525218:1866020501:0296/pct:84.90167398017228,34.25868293290178,11.770680968633187,10.621810033611354/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1518,7 +1518,7 @@ Shold the people of any State, by any means, be deprived of
 the right of sustrags, if was judped prppir that if showlf be  
 resgdied by the Geseral Gererumenf.4 If the election
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_delphi_ver02:data:sn83030213:00206530820:1866020701:0283/pct:108.33187467180116,282.5424145561839,47.87327148608437,8.458323088271452/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_delphi_ver02:data:sn83030213:00206530820:1866020701:0283/pct:36.110624890600384,94.1808048520613,15.957757162028123,2.819441029423818/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1576,7 +1576,7 @@ the power appears to mo satisfactory,
 and is unlikely to be abused as any  
 part of the Constitution.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn84024207:00296028022:1866020801:0242/pct:24.51662799690642,185.60794044665013,49.72931167826759,69.80976013234078/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn84024207:00296028022:1866020801:0242/pct:6.132714258076997,46.40198511166253,12.439543431998452,17.452440033085196/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1609,7 +1609,7 @@ ontrol will very probably never be exercised.
 Piis power appeart to be fatisfactory and unlikely to be  
 abused as any part of the Constitution.&quot; IEllot&#x27;s Bebates
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_delphi_ver02:data:sn83030213:00206530820:1866021001:0306/pct:196.8096419709323,173.74845869297164,49.75186104218362,23.526510480887794/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_delphi_ver02:data:sn83030213:00206530820:1866021001:0306/pct:65.60321399031076,57.91615289765721,16.583953680727873,7.842170160295931/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1637,7 +1637,7 @@ Constitution,” LUioi’e Debates, voi. iU., p.547.i
 framers of the Constitution,backed by the reason  
 of ibe case. I dlemiis fob objection to the Hide con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_illinois_ver02:data:sn82014064:no_reel:1866021201:0001/pct:39.83972524327418,91.35990264679039,9.024995229917955,3.924551262549437/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_illinois_ver02:data:sn82014064:no_reel:1866021201:0001/pct:39.8444953253196,91.35990264679039,9.034535394008778,3.935959841801034/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1796,7 +1796,7 @@ gressional control will very probuhly never be
 exercised.  
 If the power which I claim lo l&gt;c in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:00279525243:1867103001:0383/pct:72.95253419147224,82.026291931097,11.037811745776347,13.973254759746148/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:00279525243:1867103001:0383/pct:72.94079794079794,82.01699716713881,11.040057915057915,13.974504249291785/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1835,7 +1835,7 @@ exercised. This power nppeats to be Haliifuc-
 tory, and unlikely to be utilised l;i any purl of  
 the Constitution.&quot; tLllt Licoults, vol, in. p
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_ewing_ver01:data:sn83025925:00280776221:1867103001:0407/pct:67.79295470884256,34.680851063829785,19.734004313443567,16.113475177304963/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_ewing_ver01:data:sn83025925:00280776221:1867103001:0407/pct:50.86299892125135,26.01418439716312,14.814814814814815,12.085106382978724/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1903,7 +1903,7 @@ power appears to be satisfactory, and
 unlikely to be abused in any part of  
 the Constitution.&quot;Eot&#x27;s D
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn87076793:00280775113:1867112801:0259/pct:56.87409551374819,227.216664382623,44.64544138929088,75.70234342880636/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn87076793:00280775113:1867112801:0259/pct:14.226244343891402,56.80416609565575,11.167420814479637,18.92558585720159/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1959,7 +1959,7 @@ manner of holding elections.
 Mr. Woodward remarked that that related to the  
 regulation of elections, not to the qualification o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743610:1868031901:0735/pct:237.5563425627817,169.47800319124687,45.55698647778493,15.295190335080921/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743610:1868031901:0735/pct:79.18544752092724,56.49266773041562,15.185662159261645,5.098396778360307/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1989,7 +1989,7 @@ elections.
 Mr. WoODWArD remarked that that  
 related to the regulation of elections, no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741947:1868032001:0284/pct:130.10489034191528,164.85317131547455,41.32951913908187,23.860811930405966/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741947:1868032001:0284/pct:43.368296780638424,54.951057105158185,13.776506379693956,7.953603976801989/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2153,7 +2153,7 @@ be deprived of the right of suffrage, ft was jadge-i
 pn that it should be remedied by the Genera&#x27;  
 Government.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_lake_ver02:data:sn82014064:no_reel:1870101901:0002/pct:11.130169620735659,19.576059850374065,9.033733562035449,1.1066084788029926/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_lake_ver02:data:sn82014064:no_reel:1870101901:0002/pct:11.14446350295407,19.587749376558605,9.024204307223176,1.102711970074813/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2401,7 +2401,7 @@ trol of the General Government, in
 order to enable it to produce uniformity,  
 and prevent its own dissolution. (
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477874:1880032401:0696/pct:255.46813532651456,218.98606922303605,39.65381589299764,19.933936521614246/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477874:1880032401:0696/pct:63.90474316079512,54.74651730575901,9.919307222987602,4.9834841304035615/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2478,7 +2478,7 @@ trol of the General Government in or­
 der to enable it to produce uniformity and  
 nnvpnl its nwn t iscrt 1 1 1 inn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_batman_ver01:data:sn86069161:00100481881:1890070901:0137/pct:62.14798453892877,92.882716719106,12.755383765875207,5.8261907345123145/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_batman_ver01:data:sn86069161:00100481881:1890070901:0137/pct:46.62432693635234,69.6620375393295,9.567858622117907,4.375067809482478/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2514,7 +2514,7 @@ control will very probably never be ex­
 ercised  
 Hon John Jay who was afterward
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_batman_ver01:data:sn86069161:00100481881:1890070901:0137/pct:48.96466040861402,99.22968427904958,25.98012147984539,25.442117825756753/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_batman_ver01:data:sn86069161:00100481881:1890070901:0137/pct:36.73546872842745,74.4249755885863,19.4843296976391,19.084300748616688/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2534,7 +2534,7 @@ gress. &quot;The power,&quot; he added, &quot;appears
 to be satisfactory and as unlikely to be &#x27;?  
 abused as any part of the Constitution.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jade_ver01:data:sn87060150:00175033828:1890081501:0004/pct:51.476342938456064,29.75255769688318,15.528281750266808,4.139900071377587/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jade_ver01:data:sn87060150:00175033828:1890081501:0004/pct:51.476342938456064,29.756523118407486,15.534210838373058,4.143865492901895/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2590,7 +2590,7 @@ never have been exercised.
 me satisfactory, and as unlikely to be  
 abused as any part of the constitution.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_mankato_ver01:data:sn90059522:00206538661:1892092501:0253/pct:16.431216568371966,3.105189642204792,57.042929639281304,46.19103900290104/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_mankato_ver01:data:sn90059522:00206538661:1892092501:0253/pct:16.435788414940795,3.112352709430178,57.042929639281304,46.19462053651373/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2616,7 +2616,7 @@ satisfac
 tory and as unlikely to be abused as any part  
 of the Constitutio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_fernandez_ver01:data:sn83030272:00175044905:1892092501:0484/pct:126.31178707224335,208.14837336576468,50.342205323193916,14.65491030708422/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_fernandez_ver01:data:sn83030272:00175044905:1892092501:0484/pct:31.577946768060837,52.03709334144117,12.585551330798479,3.663727576771055/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

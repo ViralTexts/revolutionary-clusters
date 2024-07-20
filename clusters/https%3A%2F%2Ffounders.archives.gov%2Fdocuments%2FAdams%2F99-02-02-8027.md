@@ -69,7 +69,7 @@ city, and the constant health of its inhabitants.
 I am, sir, with much respect, your friend and  
 humble servant, J. ADAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826070601:0539/pct:25.573716361234936,36.622976098689286,17.516922568928514,10.199361163123692/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826070601:0539/pct:25.569494882799603,36.618942731277535,17.519533399361727,10.201908957415565/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -94,7 +94,7 @@ an escort ... ... _, ..._
 ^celebrate with, you the approachir,  
 • j Fiftieth. Annivehiany of our Nation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn84024505:00542866962:1826070701:0522/pct:84.46436192915066,91.07701941139636,13.935125906956893,5.275516593613024/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn84024505:00542866962:1826070701:0522/pct:84.44634094303392,91.06276412584128,13.937486665244293,5.27860385036782/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -119,7 +119,7 @@ lam,Sir, with much respect, your
 - ffierfd and humble Servant,  
 3. ADAMS.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn84024505:00542866962:1826070701:0523/pct:4.136048708796976,4.719031356721515,13.751837077472182,6.193728655696988/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn84024505:00542866962:1826070701:0523/pct:4.135180520570949,4.718298929070309,13.754198152812762,6.196647524445134/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -152,7 +152,7 @@ or t-he loci rasing prosperity of your city,
 (m friend and .iinuble tenant,  
 J. ADAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826070701:0072/pct:8.295436725733103,34.849027330230335,12.717578798808217,9.655090106217926/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826070701:0072/pct:8.294136092819066,34.84486873508353,12.720811121563708,9.65791567223548/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -217,7 +217,7 @@ tants.
 I am, Sir, with much respect, your friend and humble !  
 -servent, . JOIJN ADAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826071101:0167/pct:39.81792045999042,16.525223950966524,18.399616674652613,8.038661008958039/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826071101:0167/pct:39.811561801341426,16.52327637006482,18.402001490471626,8.041642113533687/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -286,7 +286,7 @@ and the constant health of its inhabitants.”
   
 Mr. Carrollsays—“ 1 am much oblige
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1826071301:1092/pct:3.375444137386498,4.995885741154344,36.99170943545203,91.5951569295874/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1826071301:1092/pct:3.388603763653112,4.999804082912112,36.99170943545203,91.5951569295874/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -453,7 +453,7 @@ constant health of its inhabitants.
 I am, Sir, with much respect, your fritjuid  
 and humble servant, J. ADAIVIS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn82014309:00414182926:1826071801:0017/pct:4.042214257268021,11.819444444444445,17.722023098367185,13.125/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn82014309:00414182926:1826071801:0017/pct:4.041409516225364,11.817803082905153,17.723472028668127,13.12664907651715/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -487,7 +487,7 @@ inhabitants.
 I am, sir, with much respect, your friend and  
 humble servant, 4 J. ADAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1826071801:0113/pct:5.692718980971851,79.12399878333164,16.795093568171097,11.031126432120045/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1826071801:0113/pct:5.69796089531897,79.13075805197877,16.789851653823977,11.03450606644361/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

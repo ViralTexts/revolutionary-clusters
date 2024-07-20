@@ -57,7 +57,7 @@ the Commissary of Prisoners for the same,
 I will repair to such place or places as they  
 or either of them may require
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271742046:1873031801:0273/pct:209.5501077586207,141.63317500913408,41.08297413793103,39.52320058458166/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271742046:1873031801:0273/pct:69.85003591954023,47.21105833637803,13.694324712643677,13.174400194860553/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -167,7 +167,7 @@ army, or the Commissary of Prisoners for
 the same, I will repair fo such place or .  
 places as they or either of thera may require, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84020713:00296022986:1873040101:0264/pct:105.19516217702034,93.76222336592897,20.450797141286422,17.73546062789501/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84020713:00296022986:1873040101:0264/pct:78.93578990787846,70.3242408646423,15.344424584078098,13.299022130725682/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -274,7 +274,7 @@ ces.&quot; Do acknowledge myself a prisoner of
 war to the States of America, and hav  
 ing permission from his Excellency Ge
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_animals_ver01:data:sn84027718:00271763827:1876070701:0125/pct:94.6092413006275,121.18761552680222,14.10439247005134,2.1256931608133085/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_animals_ver01:data:sn84027718:00271763827:1876070701:0125/pct:70.97418342604479,90.89648798521257,10.583368991584653,1.5942698706099816/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -298,7 +298,7 @@ faith and word of honor that I will not
 say or do anything injuries to the said  
 United States or armies, &amp;c. Given un
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_gabbs_ver01:data:sn84022047:00340582573:1876071501:0158/pct:33.22022943932784,80.083857442348,13.669413475521086,5.009378792894185/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_gabbs_ver01:data:sn84022047:00340582573:1876071501:0158/pct:33.21486268174475,80.07502206531333,13.672590199246097,5.012503677552221/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -321,7 +321,7 @@ Charleston^ or either, and to Europe.
 ig that I will not do or say anything injuI  
 rious to the said U. S., or armies, Ac.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kershawhogjam_ver03:data:sn85026954:0041562010A:1876072001:0134/pct:16.40239147387575,92.57577161924182,14.673771770210553,5.005097784780795/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kershawhogjam_ver03:data:sn85026954:0041562010A:1876072001:0134/pct:16.40239147387575,92.58195075230945,14.678104150420241,5.008187351314611/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -355,7 +355,7 @@ and word of Honor that i wilt not do
 or say anything injurious to tho said  
 U. S., or armies, Ac.,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn84026817:0020219378A:1876083101:0132/pct:80.80055852920643,30.904137578750213,13.544333255759833,6.197854588796186/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn84026817:0020219378A:1876083101:0132/pct:80.80637654177333,30.912651115273285,13.544333255759833,6.2021113570577215/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -378,7 +378,7 @@ De pledgs my faith and word of honor
 that I will not do or say anything init­  
 rious to the said 6. 5. or armies,a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn84022761:no_reel:1876092201:0158/pct:188.97473997028231,245.7379636937648,48.439821693907874,17.34411996842936/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn84022761:no_reel:1876092201:0158/pct:62.9915799900941,81.91265456458827,16.146607231302625,5.781373322809787/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -402,7 +402,7 @@ Do pledge my faith and word of honor
 that I will not do or say anything inju­  
 rious to the said U. S., or armies, ice
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_duwamish_ver01:data:sn87093109:00200290963:1876093001:0184/pct:59.921363040629096,85.72897036148707,17.195281782437746,5.3623436696933355/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_duwamish_ver01:data:sn87093109:00200290963:1876093001:0184/pct:59.93446920052425,85.73325338358745,17.18872870249017,5.36662669179373/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -478,7 +478,7 @@ Ar the i ouimissary of prisoners of t!ie &gt;ame. i w .1
 i repair l«» such place or places as they or either oi  
 them may require
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524688:1879021301:0257/pct:60.019646365422396,83.38253382533826,11.2475442043222,3.5301353013530137/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524688:1879021301:0257/pct:60.00982157472581,83.37227893248063,11.24979538385988,3.532775796335014/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -525,7 +525,7 @@ they or either of them may require.
 Given under my band at Yorktown, the  
 28th day of October, 1781
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ira_ver01:data:sn84023209:00202197486:1879052801:0278/pct:94.77503628447025,73.6556898707795,14.259796806966618,11.143532027233569/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ira_ver01:data:sn84023209:00202197486:1879052801:0278/pct:71.11998547830822,55.24524107266917,10.709747685605373,8.364596359594275/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -554,7 +554,7 @@ Army, or the Commissary of Prisoners for
 the same, I will repair to such Place or  
  on te  e then 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00415664412:1879102301:0401/pct:69.90278152849041,191.78375360565738,58.23656494733999,22.797059644551968/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00415664412:1879102301:0401/pct:23.30092717616347,63.92791786855246,19.41218831578,7.599019881517322/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -588,7 +588,7 @@ them may require.&quot;
 of  
 t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_forest_ver01:data:sn82015483:00271764066:1891080501:0128/pct:47.793670115642115,49.11138923654568,12.97930614729154,9.16145181476846/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_forest_ver01:data:sn82015483:00271764066:1891080501:0128/pct:35.859969558599694,36.833541927409264,9.74124809741248,6.871088861076346/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

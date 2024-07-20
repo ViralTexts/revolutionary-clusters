@@ -149,7 +149,7 @@ jjufuce, but of great public inconvenience.
 I have the honor to b&#x27;\ See. Bcc«  
 CSigned) J. NICHOLL
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801072701:0002/pct:8.69967607589079,5.935672514619883,41.64738546968996,88.66959064327486/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801072701:0002/pct:8.707388554681474,5.940545808966862,41.655097948480645,88.6842105263158/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -343,7 +343,7 @@ public inconvenience. :
 I have the homnor to be, &amp;e.  
 (Signed) J. NICHOLL
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1801081101:0548/pct:6.932676012940995,6.025979099521438,34.7404097981821,91.09288016407852/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1801081101:0548/pct:6.937811328506137,6.029234625777257,34.74554511374724,91.09613569033434/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -460,7 +460,7 @@ that this Government may avail itself of the
 pretence Spain had given it to take possession. It  
 would be best to treat with the subject in our ow
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014434:00415661435:1853012601:0129/pct:57.35790658413056,19.47728012146188,14.434440067529545,3.4378050103025704/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014434:00415661435:1853012601:0129/pct:57.35790658413056,19.48450999530058,14.443819170887263,3.441419947221921/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -483,7 +483,7 @@ delved that snin gancenr tringston
 itself of the pretence Spain had given it, to take posses­  
 sion. It wouls be best to treat with the subject in ou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743075:1853012601:0192/pct:42.67761394101877,240.6487232574189,55.57975871313673,11.099608925695883/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743075:1853012601:0192/pct:14.225871313672922,80.2162410858063,18.526586237712245,3.699869641898627/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -529,7 +529,7 @@ marks that 44 It is happy for trading Powers that God
 ton, then our Minister to France, is still more restless  
 than Mr. King himself. While industriously engaged i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1853020501:0499/pct:81.80808221080406,53.20223511712874,15.733925843632829,5.8349451966473245/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1853020501:0499/pct:81.81734018423367,53.2093989540798,15.738554830347637,5.83852711512286/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

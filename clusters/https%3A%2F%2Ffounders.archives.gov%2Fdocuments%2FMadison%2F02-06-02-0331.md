@@ -158,7 +158,7 @@ been very small, if all the inhabitants
 attended, for the sermon was delivered  
 in 1809, some time in the summer. It i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn83035216:00280775186:1870032601:0276/pct:118.65136298421808,295.5459969474122,50.07173601147776,16.92798667961704/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn83035216:00280775186:1870032601:0276/pct:29.668161434977577,73.88649923685306,12.52017937219731,4.23199666990426/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -244,7 +244,7 @@ my lord taketh away from me the
 stewardship; I cannot dig, to beg I  
 am ashamed.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_funston_ver01:data:sn84027670:00237283429:1888112901:0032/pct:20.463847203274216,117.34580819894128,42.701227830832195,7.780376708112766/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_funston_ver01:data:sn84027670:00237283429:1888112901:0032/pct:5.115961800818554,29.33645204973532,10.675306957708049,1.9450941770281915/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -262,7 +262,7 @@ within himself. What shall I do? for my lord
 taketh away from me the stewardship: 1 cannot  
 dig; to beg lam ashamed.” The chaplain said, i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_disco_ver01:data:sn86063465:00199919751:1891062501:0105/pct:49.48816915589864,15.201514741682445,14.901829165967444,2.299161482282932/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_disco_ver01:data:sn86063465:00199919751:1891062501:0105/pct:49.49935671533255,15.206022901451627,14.901829165967444,2.299161482282932/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -281,7 +281,7 @@ my lord taketh away from me the
 stewardship: I cannot dig; to beg I  
 am ashamed.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_denton_ver02:data:sn86090439:00517175468:1891090701:0463/pct:59.57943925233645,68.1885342789598,16.939252336448597,2.689125295508274/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_denton_ver02:data:sn86090439:00517175468:1891090701:0463/pct:59.57943925233645,68.19961583924349,16.968457943925234,2.6854314420803784/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -317,7 +317,7 @@ what shall I do, for my lord taketh
 away from me the stewardship, I  
 cannot dig, to beg I am ashamed, I a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_india_ver02:data:sn86071158:00206536366:1894121701:0988/pct:131.42523364485982,32.66311038161674,54.08878504672897,48.99466557242511/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_india_ver02:data:sn86071158:00206536366:1894121701:0988/pct:32.885121309558606,8.165777595404185,13.534054370067231,12.248666393106278/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -336,7 +336,7 @@ What shall I do? for my Lord takes from
 me the stewardship. I cannot dig; to  
 beg I am ashamed. I am resolved wha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_endeavour_ver01:data:sn86063034:00414182173:1896011301:0128/pct:74.54381210478772,31.86624749928551,16.043360433604335,3.215204344098314/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_endeavour_ver01:data:sn86063034:00414182173:1896011301:0128/pct:57.77093251190143,24.696371220790727,12.43815924577616,2.4917863339362842/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -546,7 +546,7 @@ have committed themselves against us—even
 Shelburne and Buckingham. I bad almost  
 said the f iends of America are reduced to I*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215683:1840122501:0430/pct:53.83165132527448,72.46444392632316,14.583564378396362,2.3781767311727675/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215683:1840122501:0430/pct:53.825681969394545,72.45881255828411,14.585643527759297,2.380582323075329/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

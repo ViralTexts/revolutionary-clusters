@@ -52,7 +52,7 @@ Itures ot American yewds, and defending
 causes elsewhere, twenty-nine thousand  
 dollars
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184169:1802062301:0194/pct:27.870876697830305,31.805769915706993,16.669606632563063,4.582690252879022/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184169:1802062301:0194/pct:27.86596119929453,31.801994301994302,16.67254556143445,4.5861031972143085/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -129,7 +129,7 @@ Madrid, for prosecuting claims in relation
 to captures, three thousand three hundred  
 and fifty dollars
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804032801:0069/pct:61.31372923429444,69.5070791819612,17.681878938323468,4.653906659674882/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804032801:0069/pct:61.30202367315769,69.49796827893564,17.684866997581775,4.657665923886923/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -210,7 +210,7 @@ For expences of prosecuting claims and
 appeals in the courts of Great-Britain, in  
 relation to captures of American veflels an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1810041001:0481/pct:40.43963148537256,76.60696517412936,17.132697591724583,4.039800995024875/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1810041001:0481/pct:40.44501912612467,76.61028192371477,17.12730995097247,4.039800995024875/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -230,7 +230,7 @@ Forexpencea of prosecuting claims and appeals
 in the courts of Great Britain, in relation to cap­  
 lures ol American vessels, and defending cause
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810070601:0074/pct:42.56781193490054,7.446161333495559,17.414104882459313,3.114734152573306/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810070601:0074/pct:42.56011571144459,7.445255474452555,17.416983065147953,3.1184103811841037/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -253,7 +253,7 @@ appeals in the courts of Great Britain, in re­
 lation to capfures of American vessels, and de­  
 fending causes elsewhere, lour thousand dol
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811070201:0070/pct:40.79295154185022,19.603008260387128,16.951541850220263,4.746640364936506/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811070201:0070/pct:40.78576462297393,19.600591715976332,16.95442800093963,4.750164365548981/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -276,7 +276,7 @@ tor expenses of prosecuting claims and
 appeals in the courts of Great Britain, in  
 relating to captures of American vessels, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812033001:0107/pct:73.48869809006483,40.10392609699769,16.330821797792186,4.318706697459584/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812033001:0107/pct:73.47582340574633,40.09929569333795,16.333800513898623,4.322056729399992/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

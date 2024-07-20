@@ -393,7 +393,7 @@ in which it is taken, and that, in vio­
 lation of the treaty between France  
 and the U. S. the commerce of the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808041501:0002/pct:76.58084449021626,64.22065426555484,18.78475798146241,34.11161000641437/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808041501:0002/pct:76.58084449021626,64.22493051101134,18.78475798146241,34.12443874278384/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -513,7 +513,7 @@ the U. S. and the:r goyternmeht. I j «r&#x27;
 have the honor to be, he. j tl!  
 (Signed) nt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808041501:0003/pct:4.297205757832345,1.628622723775327,19.43268416596105,72.2492946909464/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808041501:0003/pct:4.297205757832345,1.6371719244250662,19.439740333051088,72.25356929127126/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -664,7 +664,7 @@ I , as is I
 felt and evinced by the U. S and their go­  
 vernment. I have the 101 ir to be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808092701:0173/pct:41.75824175824176,11.236095488063992,35.84939650513421,87.26409198850143/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808092701:0173/pct:41.7507204610951,11.234691327168209,35.848943323727184,87.25735232858452/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -838,7 +838,7 @@ the United States and tucir-aoveni-&#x27;
 : ment.  
 ! I have th&lt; ■ be, &amp;.c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808112301:0001/pct:22.775321929655966,10.511215440792906,34.59542571593312,87.96296296296296/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808112301:0001/pct:22.788135050291498,10.515562510867674,34.59542571593312,87.96296296296296/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -940,7 +940,7 @@ irpoaed of, partly at one nnrkei, and partly at
 another, i he return cargoes are still more Ire.  
 qucntly collected tit different ports; and sot uo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808112501:0227/pct:76.11601513240858,39.3010220903396,21.28625472887768,58.47345862182657/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808112501:0227/pct:76.09682299546142,39.29454425581012,21.28719112455875,58.46794132190539/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -981,7 +981,7 @@ cial intercourse, as is felt and evinced by the United
 States and their government.  
 I have the honour to be, &amp;c.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808112501:0228/pct:2.6020408163265305,3.659532756085607,21.377551020408163,18.461035778467572/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808112501:0228/pct:2.6013771996939554,3.658934988565828,21.378474878857435,18.462103887618426/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1114,7 +1114,7 @@ is felt and evinced by the United Slates and their
 government.  
 I have the honor to be, Stc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808120201:0248/pct:23.459318562651276,3.707851188254324,17.91100353751629,62.150055991041434/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808120201:0248/pct:23.454951600893523,3.7073898979845734,17.913874410523704,62.14647092975035/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1185,7 +1185,7 @@ si an end to the WQualsigty&#x27;wmnglully _Ps0dL!C*
 French decree is tdsibe unset-ced is} she_$c_rxsi_se&#x27;  
 Pin which it is taken, and that in vlqlanon-Q
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216092:1808120301:0016/pct:4.972782109754303,15.475121250224538,23.789907312049433,38.71923836895994/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216092:1808120301:0016/pct:4.972050603118564,15.473731477323755,23.791311169951946,38.7187546774435/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1245,7 +1245,7 @@ si-sisiss &#x27;lnudity given to ossur Reg,_ss.ct&#x27;isigss_ctt_zonseqnence .o
 British r , ,siand-sihsiot sisi;&#x27;si&#x27; ,&quot;si&#x27; .y yt e  
 Mozpsigenemiesgf fhksﬄxisherto bee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216092:1808120301:0016/pct:4.972782109754303,57.634273396802584,23.789907312049433,31.884318304293156/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216092:1808120301:0016/pct:4.972050603118564,57.62909744050292,23.791311169951946,31.884448435862893/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1415,7 +1415,7 @@ vinced by the United States and their
 government.  
 I have the honor to be, &amp;c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808120901:0401/pct:58.026315789473685,12.592592592592593,36.203007518796994,81.59642401021712/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808120901:0401/pct:58.01541063709829,12.590984548588942,36.20246820773038,81.5902609287873/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -1925,7 +1925,7 @@ tem of internal commerce would create
 a certain proportion, or level, in all the  
 departments of industry, that could no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898012:1822022601:0207/pct:7.712215320910973,2.233989740195267,35.09316770186335,91.84180043024988/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898012:1822022601:0207/pct:7.710219922380336,2.2336201191264062,35.090556274256144,91.83074123097286/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2212,7 +2212,7 @@ i subject, are understood to mean, due pro­
 icess of law; that is. by indictment, or  
 • presentment of good and lawful men; an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040305:00514151350:1854072801:0734/pct:51.72806144218461,16.42544597778526,11.491964158725644,2.5468416919106924/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040305:00514151350:1854072801:0734/pct:51.73754326079742,16.4329256890684,11.491964158725644,2.5431018362691202/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2232,7 +2232,7 @@ ject, are understood to mean, due p rocess
 of law; that is. by indictment, or pre­  
 sentment of good and lawful men ; an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn85033189:00271769763:1854080201:0176/pct:84.00286944045911,36.41481815110911,13.45767575322812,3.366737979957212/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn85033189:00271769763:1854080201:0176/pct:79.80100858661578,34.60153325013371,12.793603198400799,3.201996790871813/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2259,7 +2259,7 @@ scriptions, it may soon confine all the votes
 to a small number of partisans and establish  
 an aristocracy or oligarchy.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn85026002:00280775071:1865060801:0126/pct:147.46543778801842,74.71446143032858,57.142857142857146,28.747144614303284/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn85026002:00280775071:1865060801:0126/pct:36.891860733225734,18.678615357582146,14.295596034124971,7.186786153575821/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2314,7 +2314,7 @@ condemns or punishes no man without regular
 trial and conviction of some ctime declared by  
 antecedent laws.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00202191435:1865070801:0240/pct:72.6935558646268,317.21708498458827,49.698655540101996,54.67195068251871/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00202191435:1865070801:0240/pct:18.179710144927537,79.30427124614707,12.428985507246377,13.667987670629678/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2351,7 +2351,7 @@ a time when no hostile druin-head was heard
 and no armed soldier lifted his head against  
 the government within all our borders
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn86081912:00296028617:1865091301:0626/pct:37.25243634077334,9.20428208806975,14.602326312480352,3.75234521575985/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn86081912:00296028617:1865091301:0626/pct:37.25243634077334,9.211639627708495,14.602326312480352,3.75234521575985/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2582,7 +2582,7 @@ conititution, without tha judgment of
 their peers, and contrary to the law of  
 the land.&quot; - 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn85033673:00280779350:1867122001:1192/pct:8.442354865085855,6.473789745058722,16.905151267375306,15.597250071612718/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn85033673:00280779350:1867122001:1192/pct:6.339468302658487,4.855342308794042,12.699386503067485,11.701518189630479/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2652,7 +2652,7 @@ demns or punishes no man without reg­
 ular trial and conviction of some crime  
 declared by antecedent laws, repudiates
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292984:1868082001:0228/pct:24.056895485466914,277.6115887410199,41.37291280148423,10.976327876575198/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292984:1868082001:0228/pct:6.014223871366728,69.40289718525497,10.343228200371058,2.7440819691437994/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2705,7 +2705,7 @@ eral And eoual JustiCe, or FrOM
 the true Prinoieles oF Univeesal  
 LIBERTY.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292984:1868082001:0228/pct:23.00556586270872,304.2751148274644,85.21954236239951,45.13013779295725/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292984:1868082001:0228/pct:5.75139146567718,76.0687787068661,21.304885590599877,11.282534448239312/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2751,7 +2751,7 @@ condemns or punishes no man without
 regular trial and conviction of some crimo  
 declared by antecedent law.&quot; Thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293381:1868111001:0274/pct:33.405797101449274,16.755733689601424,13.289855072463768,22.433756401692275/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293381:1868111001:0274/pct:25.061603130888535,12.56958361166778,9.972459776779244,16.83366733466934/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2773,7 +2773,7 @@ noxious, no man can be safe against a pre­
 vailing fiction. The namo of libe ty  
 applied to such a government was 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293381:1868112901:0337/pct:101.5868436237738,15.856141144537435,12.723600692440854,4.512553720877629/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293381:1868112901:0337/pct:76.20833934497186,11.897760687627233,9.551291299956716,3.3815878760461433/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2802,7 +2802,7 @@ elapsed between the treaty of peace in
 in 1787, the popular judgment became  
 settled against the policy, and th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn85033673:00280779362:1868120301:1152/pct:7.8861788617886175,38.490081347224205,16.6260162601626,9.661766804623948/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn85033673:00280779362:1868120301:1152/pct:5.917039446929646,28.87112887112887,12.484749898332655,7.249892964178678/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2864,7 +2864,7 @@ principles of universanibertv.&quot; rHlston
 stood to mean due process of law; that is, by  
 indictment or presentment of good and lawfu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558354:1876032201:0286/pct:246.7799009200283,247.04476026032674,43.59518754423213,2.603267366184088/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558354:1876032201:0286/pct:61.694975230007074,61.761190065081685,10.898796886058033,0.650816841546022/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2880,7 +2880,7 @@ indictment or presentment of good and lawfu
 stood to mean due process of law; that is, by  
 indictment or presentment of good and lawfu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558354:1876041701:0377/pct:156.03085553997195,111.23193210449543,43.61851332398317,2.599124784511338/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558354:1876041701:0377/pct:39.02824065953342,27.807983026123857,10.910366602350464,0.6497811961278345/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2905,7 +2905,7 @@ Bill of Rights, &quot;by the laws of the land&quot; mean
 the same as due process of law--that is by indict­  
 ment or presentment of good and lawful men
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777675:1880122201:0936/pct:295.4861111111111,64.81376441671394,64.23611111111111,19.209680468897712/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777675:1880122201:0936/pct:73.89290882778582,16.203441104178484,16.063675832127352,4.802420117224428/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2939,7 +2939,7 @@ one of her triumph—the prayer for forgiveness
 of her enemies went up to heaven from the black  
 walls of the tower, the sun of England’s glory be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_disco_ver01:data:sn86063465:00199919751:1891073001:0126/pct:16.613525759355596,78.11739248038951,14.935391844269173,5.95077089532053/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_disco_ver01:data:sn86063465:00199919751:1891073001:0126/pct:16.624713318789507,78.12190064015869,14.929798064552218,5.959787214858895/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

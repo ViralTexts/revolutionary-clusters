@@ -280,7 +280,7 @@ in this country lav &lt;
 of Ihe orders, and,  
 the offensive language an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808111401:0001/pct:74.87169364390051,33.57683276806679,16.837741808132648,47.95199582572398/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808111401:0001/pct:74.88485327016713,33.58552917645012,16.850901434399262,47.947647621532305/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -366,7 +366,7 @@ avoio a stile of proieeoore which might co-operate
 with the policy of the British government, by sti­  
 mulating the p .ssions ol the French.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808111801:0215/pct:75.67221510883483,11.615663047054952,21.382842509603073,47.35110233629484/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808111801:0215/pct:75.65284178187405,11.613752261885178,21.383768561187917,47.34742556341504/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -492,7 +492,7 @@ ctcy of the British government, by stimulat­
   
 i - . . 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808111901:0580/pct:6.695052121568052,2.90831707749601,47.02686830127735,94.30750133002306/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808111901:0580/pct:6.6940692894891365,2.908059225108609,47.02485809356038,94.30209533942134/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -517,7 +517,7 @@ is bum.
 1 o make any appeal indeed to the justice  
 or- reason of either of the belligerents, is al
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808112201:0235/pct:41.15732368896926,89.47434449880818,17.21518987341772,6.536193702170368/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808112201:0235/pct:41.149882480564095,89.46312092323132,17.21810401976737,6.539555109550092/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -614,7 +614,7 @@ might co-operate with the policy of the Bri­
 tish government, by btimulatiug the passions  
 of the French.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808112201:0236/pct:23.398835516739446,12.04063715038254,17.467248908296945,47.47272043145617/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808112201:0236/pct:23.394578861197015,12.039127163280662,17.470135225274394,47.47094724521361/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -720,7 +720,7 @@ allmv, to av iid a s ite of procedure which
 British government, by stimulating the  
 passions of the French 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808112501:0385/pct:40.58767772511848,11.96000512754775,36.2654028436019,81.88693757210613/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808112501:0385/pct:40.579984836997724,11.958472186618815,36.26484710639373,81.8807143467487/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1045,7 +1045,7 @@ vestment, by stimulating the pan*
 siona of the French.” &#x27;.**  
 .a M. &gt;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808120201:1073/pct:37.75067750677507,13.960876107674302,34.3089430894309,81.9762581508109/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808120201:1073/pct:37.74044974261718,13.958542293547309,34.30642102411271,81.96673353393514/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1178,7 +1178,7 @@ nish to her adversary the pretext for
 taii-itory measures. It -..  
 seem t»s if the imperial cabinet \i;&lt;&lt;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809081801:0001/pct:60.228411140052096,83.10740354535974,17.451412542576637,6.869134515119916/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809081801:0001/pct:60.23508982835771,83.11174834897463,17.44473385427102,6.8778241223496694/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

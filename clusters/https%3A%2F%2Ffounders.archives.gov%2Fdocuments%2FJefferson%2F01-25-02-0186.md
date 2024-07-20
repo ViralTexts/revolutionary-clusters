@@ -102,7 +102,7 @@ taken me in once, but by Heaven you shall neve
 take me in a second time.”  
 A good wrriter in a late number of t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215737:1843112701:0428/pct:54.48161513703306,51.55320996726568,14.122695796352287,11.16975081835794/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215737:1843112701:0428/pct:54.476301930953774,51.5497661990648,14.124569273779338,11.171231351592073/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -256,7 +256,7 @@ time.&#x27;&quot;
 The inauguration of President Washington  
 took place at New-York, on the 30th April, 1789
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_minuette_ver01:data:sn87065704:00415662038:1853042701:0357/pct:65.386803185438,77.02673331884372,20.87599544937429,27.841773527494023/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_minuette_ver01:data:sn87065704:00415662038:1853042701:0357/pct:49.06814625124484,57.7700499891328,15.663679043960734,20.886763747011518/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -292,7 +292,7 @@ you­
 lime shall  
 never lake me in a secon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn83035172:00296027273:1853091401:0082/pct:25.540657439446367,46.414683465546744,16.34948096885813,15.523409550474414/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn83035172:00296027273:1853091401:0082/pct:19.165044343499893,34.81101259916006,12.264763140817651,11.650334422149635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -327,7 +327,7 @@ me in once, but you shall never take me
 in a second time.&quot;- VoL. 4. P.477.  
 Says the same writer: 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn85025181:00237287952:1864012301:0464/pct:225.9475218658892,235.08721349286435,51.457725947521865,58.23843159867378/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn85025181:00237287952:1864012301:0464/pct:56.507473569084944,58.77180337321609,12.869121399927087,14.559607899668444/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -355,7 +355,7 @@ he said to Humphreys, ‘Well, you have taken
 me in once, bnt by-, you shall never take  
 me in a second time.’ ”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414183414:1866082301:0476/pct:55.35399788657978,70.13661202185793,12.433955618175414,6.6530054644808745/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414183414:1866082301:0476/pct:55.344250748371195,70.12703182625324,12.43616833949639,6.655511542139052/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -416,7 +416,7 @@ me in once, but, you shall never take&#x27;
 me in a second time.&quot; Sunday Com  
 mereial.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn83035174:00296027327:1871080901:0119/pct:96.38118214716526,23.87964961279675,29.41797346200241,104.5829630570014/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn83035174:00296027327:1871080901:0119/pct:72.3076923076923,17.91291100672845,22.081447963800905,78.44356988701283/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -491,7 +491,7 @@ never take me in
   
 Cincinnati Commercial
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn83035216:00280775186:1871090201:0578/pct:228.9492494639028,163.5898892360125,49.60686204431737,51.51945470036922/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn83035216:00280775186:1871090201:0578/pct:57.24754244861484,40.89747230900313,12.403932082216265,12.879863675092304/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

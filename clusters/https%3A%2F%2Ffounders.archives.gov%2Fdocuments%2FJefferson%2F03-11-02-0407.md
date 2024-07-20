@@ -110,7 +110,7 @@ the assurance of my great refpe&amp;t and con.
 fideration, A Ll  
 TH : JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010832:1817081201:0086/pct:8.989407386200973,46.56838330511007,16.389922702547953,15.509512899691204/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010832:1817081201:0086/pct:8.994178833858193,46.57502407278282,16.389922702547953,15.516153667363946/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -504,7 +504,7 @@ tender to yourself the assurance of my great
 respect and consideration.  
 Thomas Jefferson.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021206:00517171955:1830072101:1056/pct:6.86961746445023,81.5183833847881,19.327057881033447,13.906820095425203/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021206:00517171955:1830072101:1056/pct:5.329056291390729,63.17926409280406,14.983443708609272,10.78847199564981/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -550,7 +550,7 @@ tender tu yourself the assurance of iny great
 respect and consideration.  
 THOMAS JEFFERSON 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1830080201:0816/pct:2.932066900681396,51.018050541516246,14.433202560396449,10.96028880866426/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1830080201:0816/pct:2.9314616019818334,51.01068437770719,14.435383980181667,10.962315911059775/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -698,7 +698,7 @@ by the establishment of manufactories
 which will create a market at home and  
 render us independent of the capriciou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84024746:00414186920:1830101301:0165/pct:53.66636113657195,35.66689544726607,14.421020470516346,8.407687028140014/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84024746:00414186920:1830101301:0165/pct:53.65816404460058,35.66281596705936,14.423909169594216,8.410537954172861/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -859,7 +859,7 @@ phere under a eyetem of ite own--essentially peacable, and
 indestrions, and not needing to extract its comforts out of  
 the fires irging in the Old World.&quot; This is all right, i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845083001:0743/pct:4.592064199732501,11.000232072406591,79.01619854361718,275.1218380134602/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845083001:0743/pct:1.5304606240713223,3.666318598445295,26.334819217434372,91.69663920795142/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -896,7 +896,7 @@ yourself the assurance of my great respect
 and consideration.  
 THOMAS JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296199:1847010201:0851/pct:70.58823529411765,70.68150632718402,61.971830985915496,49.27580423845098/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296199:1847010201:0851/pct:17.650714729645742,17.670376581796006,15.496167391754714,12.318951059612745/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -930,7 +930,7 @@ to the Society my just acknowledgements for
 this mark of attention, I tender to yourself the  
 assurance of my great respect and consideration
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777602:1847012801:0440/pct:175.3265602322206,220.17943409247758,50.58055152394775,36.99102829537612/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777602:1847012801:0440/pct:43.83959354019234,55.044858523119395,12.64743240791145,9.24775707384403/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -975,7 +975,7 @@ lesson for us all to depend for necessaries on
 ourselves alone.”  
 * • * It is now 71 years the 26t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_freeport_ver01:data:sn82014248:00332895151:1888082401:0185/pct:28.777510634362862,73.03994583615437,11.02274828925467,1.976980365605958/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_freeport_ver01:data:sn82014248:00332895151:1888082401:0185/pct:28.772189349112427,73.03005686433794,11.025332840236686,1.980097481722177/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1000,7 +1000,7 @@ out of.tho oternal lires raging in tho Old
 World.?From JeJJtrson&#x27;s Letter -Acccptimj  
 Membership in the Socicty for the Encouraye
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_eritrea_ver01:data:sn84026844:00202193572:1892041401:1350/pct:17.68004722550177,81.82281059063136,16.174734356552538,5.974202308214529/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_eritrea_ver01:data:sn84026844:00202193572:1892041401:1350/pct:17.702184179456907,81.83129667345553,16.1525974025974,5.982688391038696/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1044,7 +1044,7 @@ I ssentlallv peaceable and Industrious, and not
 ! sternal tires raging In the old world - From  
 Jefferson&#x27;s Letter Acceptln r Membership in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_imbe_ver01:data:sn98062948:00340581076:1892063001:1016/pct:59.52951753071621,48.24775876120619,10.623314354210368,3.2366981022237744/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_imbe_ver01:data:sn98062948:00340581076:1892063001:1016/pct:59.53326341024873,48.25358016067062,10.619568474677854,3.233787402491559/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1067,7 +1067,7 @@ needing to extract Its comforts out of the
 eternal nres raging In tho old world. FroR,  
 Jefferson&#x27; Letter Accepting Membership tn th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_gordon_ver01:data:sn89058370:00296021192:1892070601:0200/pct:68.2937181663837,77.58026732809701,18.251273344651953,5.015846768637178/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_gordon_ver01:data:sn89058370:00296021192:1892070601:0200/pct:51.24177457015496,58.19209039548023,13.691360645298237,3.7618850764778835/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1111,7 +1111,7 @@ The undersigned will sell on Saturday,
 the 13th of October 1892 in public Auc­  
 tion commencing at 10 o&#x27;clock a. m
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_audi_ver01:data:sn89081128:00280766318:1892100501:0307/pct:48.138213947617544,78.29474621549421,14.468286525717891,12.967497773820124/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_audi_ver01:data:sn89081128:00280766318:1892100501:0307/pct:48.14873251288524,78.29474621549421,14.463027243084044,12.974918373404572/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1167,7 +1167,7 @@ out of the eternal fires raging in the
 old world.”  
 In view of the experience of the re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_alcott_ver01:data:sn92066979:00513687394:1896042301:0178/pct:9.241975870703392,58.312742675608895,11.768722968358752,6.6537239675255915/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_alcott_ver01:data:sn92066979:00513687394:1896042301:0178/pct:9.247666742544958,58.32597952700318,11.780104712041885,6.649311683727498/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

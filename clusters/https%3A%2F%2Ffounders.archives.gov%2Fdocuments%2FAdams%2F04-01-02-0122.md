@@ -215,7 +215,7 @@ in our property,— that we cannot be secure in
 our property; if, without our eonfent; others  
 may, as by right, take it away~—that taxes impose
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015076:1768050601:0077/pct:35.46511627906977,63.53172375070185,27.60551248923342,9.124087591240876/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015076:1768050601:0077/pct:35.47229399942578,63.53172375070185,27.598334768877404,9.128766610518435/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -388,7 +388,7 @@ being secure in our property ; we cannot be senat e
 »n car property, if, without our consent, others may.  
 as or right, take it away.&quot; To obtain security
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809032001:0394/pct:3.5696329813976875,72.41152263374485,20.81447963800905,2.5349794238683128/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809032001:0394/pct:3.5687358632822317,72.39960500329164,20.815531540588086,2.5386767610269914/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -521,7 +521,7 @@ of a simple, and what has been with us a
 most effectual preventive, if not a positive  
 cure, of sore throat. For many years past
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn82016419:00212472931:1863021401:0050/pct:98.07162534435261,96.27906976744185,21.267217630853995,20.540832882639265/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn82016419:00212472931:1863021401:0050/pct:65.41270497450738,64.18604651162791,14.179412980570484,13.693888588426177/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -781,7 +781,7 @@ not be secure In our property if, without
 our consent, citherns may, os by right,  
 take 1; away.” The whole series of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn86072192:00340583267:1897110401:0287/pct:65.4085352777182,24.17018708509354,14.282650654085353,2.1424260712130354/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn86072192:00340583267:1897110401:0287/pct:65.39451114922814,24.16654095640368,14.284948542024013,2.145874189168804/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

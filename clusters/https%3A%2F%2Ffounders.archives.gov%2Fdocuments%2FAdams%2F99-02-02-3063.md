@@ -39,7 +39,7 @@ Ail of Congress above recited.
 Now therefore, the undersigned, Secretary  
 of the Treasury, in pursuance of the Ail o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799011401:0002/pct:79.96949669547534,25.435865504358656,17.946110828673106,5.27708592777086/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799011401:0002/pct:79.98220640569394,25.447540473225406,17.95246568378241,5.273194271481943/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -72,7 +72,7 @@ Ail of Congrtfs above recited.
 A&#x27;oxo thereftfr, the tinderfigned, Secretary  
 of the Trealury, in pursuance of the Ail o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799011501:0002/pct:78.42746951978104,17.892768079800497,17.54167703408808,11.393391521197007/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799011501:0002/pct:78.43368997263,17.892768079800497,17.54789748693705,11.397288029925187/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -95,7 +95,7 @@ Ail of Congress above recited.
 A&#x27;ow therefore, the undersigned, Secretary !  
 of the Treasury, in pursuance of the iiifl o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799011701:0004/pct:9.331071255453223,25.8996138996139,16.868637905962192,5.235521235521236/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799011701:0004/pct:9.331071255453223,25.903474903474905,16.892874454677653,5.231660231660232/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -118,7 +118,7 @@ Ail of Congress above recited.
 A&#x27;onto therefore, the undfrfigned, Secretary  
 of the Treasury, in pursuance of the Ail o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799011901:0004/pct:23.757993113625183,25.917959748041174,17.06837186424004,5.192809955446305/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799011901:0004/pct:23.764141662567635,25.929482255338762,17.08066896212494,5.192809955446305/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -151,7 +151,7 @@ Ail of Congress above recited.
 AW therefore, the undersigned, Secretary  
 of the Trealury, in pursuance of the Ail o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799012101:0004/pct:31.13883113883114,18.705810021518598,16.054516054516053,11.189671072855825/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799012101:0004/pct:31.156156156156158,18.71733784199201,16.042966042966043,11.181985859206886/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -171,7 +171,7 @@ any sum not exceeding 111 the whole, five mil­
 contraas as (honld be necessary, and for the in­  
 terest of the United States, in purluance ot th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799012201:0004/pct:25.229579507008218,23.336918113381472,17.76220396326728,3.364572130895683/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799012201:0004/pct:25.229579507008218,23.336918113381472,17.78637022716288,3.3722538024274082/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -201,7 +201,7 @@ Aft of Congress above recited.
 AW&gt; therefore, the uhderfigoed, Secretary  
 of the Treasury, in pursuance of the A&lt;£t o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799012401:0004/pct:9.7799511002445,20.478026214340787,17.04156479217604,9.113338473400153/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799012401:0004/pct:9.792176039119804,20.48959136468774,17.035452322738386,9.105628373168852/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -225,7 +225,7 @@ exceeding five millions of dollars, so however,
 that no contrail or engagement be made which  
 (hall preclude the United States from reimfeurf
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799012501:0004/pct:7.380073800738008,9.738863287250384,17.244772447724475,5.622119815668203/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799012501:0004/pct:7.380073800738008,9.742703533026114,17.263222632226324,5.625960061443933/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -258,7 +258,7 @@ Ail of Congress above recited.
 Now therefore, the undersigned, Se-cretary  
 of the Treal&#x27;ury, in pursuance of the Ail o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799012501:0004/pct:7.8966789667896675,21.84331797235023,17.121771217712176,11.321044546850999/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799012501:0004/pct:7.902829028290283,21.84331797235023,17.146371463714637,11.321044546850999/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -288,7 +288,7 @@ Ail of above recited.
 .Vow therefore, the umlerfigned, Secretary  
 of the Treasury, in pursuance of the o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799012601:0004/pct:6.138420151626314,22.58953168044077,19.17339202739056,9.090909090909092/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799012601:0004/pct:6.150648080215212,22.597183960820324,19.18561995597946,9.090909090909092/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -321,7 +321,7 @@ Ail of Congress above recited.
 .Void therefore, the undersigned, Secretary  
 of the Treasury, in purluance of the Ai\ o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799012801:0004/pct:9.697402906838217,17.775387924412353,16.75005956635692,11.276693808572745/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799012801:0004/pct:9.70931617822254,17.783069595944077,16.773886109125566,11.26901213704102/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -354,7 +354,7 @@ Aifl of Congress above recited.
 A&#x27;aou therefore, the undtrfigned, Secretary  
 of the Treasury, in pursuance of the Adl o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799012901:0004/pct:10.621576565849011,20.656698011407432,16.71826625386997,11.392014798828425/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799012901:0004/pct:10.633484162895927,20.664405734546015,16.71231245534651,11.39972252196701/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -381,7 +381,7 @@ United States, 2 sum not exceeding five
 millions of dollars, so however, that no con­  
 ra@ or engagement be ‘made which shal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1799013001:0019/pct:59.81426097906501,82.71143054051393,16.559105934204315,7.600669489022349/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1799013001:0019/pct:59.81426097906501,82.7179941583801,16.559105934204315,7.597387680089265/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -401,7 +401,7 @@ body or bodies politic or corporate, or from
 any person or persons, and upon such terms  
 and conditions as be (hall
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799020101:0004/pct:25.62900838677849,6.624750805091244,16.872224962999507,3.235700046005214/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799020101:0004/pct:25.635175135668476,6.628584572918264,16.872224962999507,3.2433675816592547/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -424,7 +424,7 @@ AA of Congress above recited.
 Xo&lt;w therefore, the undersigned, Secretary  
 of the Treasury, in pursuance of the Adl o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799020101:0004/pct:25.62900838677849,24.70479987731943,16.896891958559447,5.1679190308234935/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799020101:0004/pct:25.635175135668476,24.70479987731943,16.903058707449432,5.179420334304554/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -447,7 +447,7 @@ Ail of Congress above recited.
 Notu therefore, the underlined, Secretary  
 of the Trealury, in pursuance of the Afl o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799020701:0004/pct:62.74265803882528,24.891026604539306,17.446490791438528,5.035322410942432/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799020701:0004/pct:62.76132404181185,24.891026604539306,17.458934793429567,5.042837817525928/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -480,7 +480,7 @@ A(£l of Congress above recited.
 A&#x27;ow therefore, the underfigoed, Secretary  
 of the Treasury, in pursuance of the A&lt;£l o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799020801:0004/pct:61.90359075258239,19.020172910662826,17.265125430398427,11.102684665554376/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799020801:0004/pct:61.90359075258239,19.023964811163356,17.283571077225776,11.106476566054907/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -530,7 +530,7 @@ Aft of Congress above recited.
 Noiv therefore, the undersigned, Secretary  
 of the Trealury, in pursuance of the Afl o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799020901:0004/pct:62.0971620971621,24.4335122242099,16.907166907166907,4.994036970781157/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799020901:0004/pct:62.0971620971621,24.437239117471677,16.925204425204424,5.001490757304711/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -563,7 +563,7 @@ Ail of Congress above recited.
 Now therefore, the undersigned, Secretary  
 of the Treasury, in pursuance of the Adl o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799021101:0004/pct:61.7704280155642,19.33024368365974,16.950389105058367,10.748990880550156/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799021101:0004/pct:61.78258754863813,19.3339811631036,16.950389105058367,10.75272835999402/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -587,7 +587,7 @@ Now therefore, the undersigned, Secretary si
 of the Trealury, in pursuance of the Afl ot  
 Congress, and the authority from the Prefidsnt 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799021201:0004/pct:44.70079307858688,24.248766631783525,17.591925018024515,5.725818507998206/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799021201:0004/pct:44.706801249699595,24.259979070115115,17.597933189137226,5.722081028554343/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -620,7 +620,7 @@ Ail*of Congress above recited. I
 Kow therefore, the undersigned, Secretary I  
 of the Trealury, in pursuance of the Afl o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799021301:0004/pct:43.05354558610709,19.865319865319865,17.63145200192957,11.371288644015916/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799021301:0004/pct:43.07163531114327,19.865319865319865,17.637481910274964,11.386593204775023/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -656,7 +656,7 @@ Now therefore, the undeifigned, Secreta­
 ry of the Treasury, in purfoance of the A&amp;  
 of Congress, and the authority from the Pre.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1799021301:0028/pct:43.339006653257,22.440406408753418,16.261797926659447,12.846815162172724/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1799021301:0028/pct:43.349321780390945,22.446919369545395,16.251482799525505,12.846815162172724/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -689,7 +689,7 @@ Aft of Congref9 above reciutf.
 &#x27; Kotu therefore, the undersigned, Secretary  
 of the Treasury, in pursuance of the Ail o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799021501:0004/pct:80.0,19.281635106702737,16.945454545454545,11.030958821761347/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799021501:0004/pct:80.0,19.292906522392546,16.951515151515153,11.023444544634806/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -723,7 +723,7 @@ AW therefore, the undersigned, Secretary
 of the Treasury, in pursuance of the Ail at  
 Congress, and the authority from the Prefidsn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799021901:0004/pct:78.51590106007068,18.904726181545385,16.96113074204947,11.567891972993248/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799021901:0004/pct:78.51590106007068,18.90847711927982,16.972909305064782,11.571642910727682/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -746,7 +746,7 @@ Ail of Congress above recited.
 Xow therefore, the undersigned, Secretary  
 of the Treasury, in pursuance of the Ail o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799022001:0004/pct:77.38524393174717,23.870675328599486,16.96707522230233,5.151835624716725/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799022001:0004/pct:77.40326844508532,23.874452334189456,16.973083393415045,5.1593896358966616/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -778,7 +778,7 @@ lions of dollars and to make such contra&amp;
 or contrasts as should be necessary, and for  
 the interest of the United States, in pur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1799022001:0032/pct:43.77141077545936,20.97422326766637,16.287760822173777,11.026168773890033/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1799022001:0032/pct:43.77141077545936,20.97422326766637,16.30852278625558,11.035969812800158/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -803,7 +803,7 @@ AiSl of Congrcfs above recited.
 A&#x27;ow therefore, the undersigned, Secretary  
 of the Treal&#x27;ury, in purfuanee of the Adl o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799022201:0004/pct:79.93715252598501,24.26239329039988,17.597292724196276,6.15545903849034/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799022201:0004/pct:79.93715252598501,24.269881683390743,17.615421803239062,6.15545903849034/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -827,7 +827,7 @@ terest of the United States, in pijrluance of the
 Ao&lt;m therefore, the undersigned, Secretary  
 of the Treasury, in pursuance of the A&lt;!l of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799022501:0004/pct:79.76850735471425,26.15040953090097,17.50663129973475,5.033507073715562/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799022501:0004/pct:79.77453580901857,26.154132539091584,17.512659754039063,5.029784065524944/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -859,7 +859,7 @@ AToiu therefore, the undersigned, Secretary
 of the Treasury, in puriuance of the A&lt;sl of  
 Congress, and the authority from the Presiden
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799030401:0004/pct:9.60136120563928,22.19170160474194,17.06368497812348,9.512794564117392/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799030401:0004/pct:9.619591638308217,22.1989301720399,17.051531356344192,9.509180280468412/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -884,7 +884,7 @@ Thousand Dollars, &gt;fo however, that no
 coutrail or engagement be made, which  
 (hall preclude the United States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800072201:0001/pct:59.90794573643411,13.862502012558364,16.787790697674417,7.277411044920303/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800072201:0001/pct:59.914001937984494,13.862502012558364,16.793846899224807,7.285461278377073/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

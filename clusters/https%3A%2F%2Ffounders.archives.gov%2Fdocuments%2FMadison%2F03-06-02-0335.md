@@ -50,7 +50,7 @@ Rnode Island to be minister plenipoten­
 tiary of the U State* to Sweden.  
 tamks \umsnv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813070101:0339/pct:24.638336347197107,53.85241454150841,16.48583484026522,6.438777355760536/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813070101:0339/pct:24.634624077143286,53.847544985984264,16.4883732610115,6.441209271483256/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -69,7 +69,7 @@ period to make a correspondent &#x27; ap­
 pointment, &amp;e. fco/ The term * in*  
 urination,’ rotates exclusively t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813070101:0339/pct:59.47860156720916,8.075601374570446,16.455696202531644,3.3098209441128597/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813070101:0339/pct:59.46963989754407,8.074871145673207,16.45823916428105,3.3125357928685535/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -112,7 +112,7 @@ and, to be minister plenipotentiary of the United States
 to Sweden.  
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813081101:0567/pct:52.57214554579674,67.13000817661488,21.355081555834378,5.004088307440719/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813081101:0567/pct:52.55895634721525,67.1190320470896,21.355995985950827,5.007357750163505/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -129,7 +129,7 @@ The Senate resumed the consideration of the nomina­
 tion of Jonathan Russell, of Rhode-Island, to be minis­  
 ter plenipotentiary to Sweden, together with the moti
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813081101:0568/pct:26.4014014014014,10.257672739208928,20.895895895895897,1.788938125718037/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813081101:0568/pct:26.394796097072806,10.255989497866754,20.896922692019015,1.7927469642271086/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -154,7 +154,7 @@ minister plenipotentiary of the U. States
 •« Sweden.  
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024513:00414184121:1813081101:0077/pct:49.464763603925064,41.06961197500363,22.123104371097234,8.109286440924285/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024513:00414184121:1813081101:0077/pct:49.45373467112598,41.06364428945074,22.1256038647343,8.112951661338759/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -201,7 +201,7 @@ and, to he minister plenipotentiary
 of the United States to Sweden.  
 JAMES MADISOX
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813081201:0479/pct:29.721728833629367,25.540577218854608,16.45944345766726,21.595946801773273/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813081201:0479/pct:29.71733017611366,25.538266690790664,16.46194070346801,21.59700862432905/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -245,7 +245,7 @@ ter pleoipotcniiaiy of the United States to
 Sweden.  
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813081201:0252/pct:22.14777254617892,32.53804017041996,16.986599058312205,16.810712111990263/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813081201:0252/pct:22.143762447944958,32.534079844206424,16.989558814653872,16.812723141837065/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -271,7 +271,7 @@ considered the xorrespondence wf two
 obscure individuals, the one a commis­  
 sary of prisoners at London, «tnd the ©
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813081701:0496/pct:36.73076923076923,65.02609321576391,16.316568047337277,7.189130825985244/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813081701:0496/pct:36.72533648868511,65.02024291497976,16.319084947986,7.191482980956665/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -316,7 +316,7 @@ Rhode Island, tube minister plenipotentiary ot
 the United States to-Sweden.  
 JAMBS MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813111101:0360/pct:41.18613138686131,44.31372549019608,17.554744525547445,5.196078431372549/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813111101:0360/pct:41.17861704068601,44.308295552015686,17.557623304749743,5.199526201854348/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -350,7 +350,7 @@ j derations eoncnrimg to&#x27;renderit adviseable at
 •States to Sweden.  
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813111701:0668/pct:25.763407749550936,52.421887915357914,22.350526045676162,6.877169780128947/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813111701:0668/pct:25.756798358132375,52.413223140495866,22.351205746536685,6.880165289256198/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -391,7 +391,7 @@ Rhode Idfa&#x27;id&#x27;, to be minister plenipoten­
 tiary oi (hid U ^States to Sweden.  
 JAM&amp;S MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1813112301:0133/pct:28.269028674373217,42.05225911812738,16.393934844617924,17.129377608419524/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1813112301:0133/pct:28.264785349744823,42.048444162206295,16.39647753427399,17.130847621639603/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -410,7 +410,7 @@ visable at this period to make a corres­
 pondent appointment.* Mr. Russell is  
 thorefoie nominated 4 minuter plenrpo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1813112301:0133/pct:45.56372916979433,25.866448920341135,16.363909322924485,2.9667936853565595/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1813112301:0133/pct:45.556889822876016,25.864102331488706,16.366456519563695,2.96954851976171/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

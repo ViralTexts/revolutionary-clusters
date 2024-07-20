@@ -55,7 +55,7 @@ By virtue of the above decretal order, the
 land therein mentioned, will be Sold, on !  
 the premises, to the highest bidder, fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807022401:0066/pct:58.63687570409313,69.6208951439077,17.74314682688697,8.431596297705084/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807022401:0066/pct:58.62586821850948,69.61206896551724,17.746073462236406,8.434753211629479/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -80,7 +80,7 @@ Christ one thousand eight hundred and
 three, until paid; and also their costs by  
 them about their suit in this behalf expenri
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807030301:0075/pct:78.48484848484848,66.68346139312256,20.132575757575758,6.57513540748205/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807030301:0075/pct:78.46998674493467,66.6750629722922,20.135075427633655,6.578505457598657/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -110,7 +110,7 @@ ready money, on Saturday, the 28th of
 March next.  
 Cornelius Buck
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807030601:0079/pct:4.975124378109452,70.45367899351888,17.85304247990815,10.090227474901512/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807030601:0079/pct:4.974172565525158,70.44472681067344,17.85600408137236,10.093180855569674/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -144,7 +144,7 @@ Copy, teste,
 Thomas Watkins, Clk,  
 By virtue of the above decretal order, th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807031001:0083/pct:77.93103448275862,17.099430018999367,18.026819923371647,12.425585813806206/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807031001:0083/pct:77.91610802528251,17.09726443768997,18.029751644001788,12.428233704829449/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -163,7 +163,7 @@ cd ; and the over-plus, if any, return to the !
 defendant. And the said commissioners &#x27;  
 arc ordered to make report of their pro- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807031301:0087/pct:60.011474469305796,84.00252525252525,18.416523235800344,3.0176767676767677/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807031301:0087/pct:60.0,83.99192021209443,18.419375398342893,3.0215040188528386/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -190,7 +190,7 @@ TV virtue of the above decretal order, the 1
 land therein mentioned, will be Sold, on !  
 the premises, to the highest bidder, for 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807031701:0091/pct:59.42139322421013,83.58152448258456,18.462124095926914,8.518425037859666/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807031701:0091/pct:59.410085632730734,83.57097791798107,18.464954012052015,8.52155625657203/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -226,7 +226,7 @@ Rv virtue of the above decretal order, the i
 land therein mentioned, will he Sold, on I  
 the premises, to the highest bidder, for 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807032001:0095/pct:59.63337788810388,77.62908723646004,18.46476990643498,13.723014770862266/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807032001:0095/pct:59.62199312714777,77.61928805857107,18.467608501972762,13.72549019607843/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -253,7 +253,7 @@ Br virtue of the shove decretal order, the
 land therein mentioned, will be Sold, on  
 the premises, to the highest bidder, fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807032401:0099/pct:41.25261755187512,82.80856423173803,17.666095564439367,8.488664987405542/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807032401:0099/pct:41.24476589265322,82.79813625487974,17.669077528232457,8.491793644797045/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -282,7 +282,7 @@ and their costs by them about their suit in this be
 half expended : And it is further decreed and art  
 dertd, that the TWKnri shakes held by the de
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1812020501:0968/pct:49.34738955823293,41.93233571893299,21.460843373493976,9.173715029277814/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1812020501:0968/pct:49.33500627352572,41.92551634412099,21.461731493099123,9.176288827451618/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -300,7 +300,7 @@ rvpfom the 25tb day of September, 1805, until paid,
 half expended : And it ia further decreed and sr­  
 dered, that the twenty sxarks held by the de
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1812021701:0989/pct:7.861866274797943,62.39274728832767,21.503796228263532,2.444552371701473/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1812021701:0989/pct:7.859941234084231,62.38264810618323,21.504652301665033,2.448203302039495/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -416,7 +416,7 @@ Bedford County on a Court day, and at the most publ
 places in the neighbourhood, do proceed, upon the prem  
 ises, to sell the tract of Land in the procee lings me tio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347892:1842070401:0387/pct:325.7953238788808,52.4647375309001,63.87504791107704,31.947069943289225/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347892:1842070401:0387/pct:81.43322475570032,13.114277406222739,15.965702241808776,7.985606280895609/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -442,7 +442,7 @@ ed Commissisnets for the purpose, either of whom may
 act, do, after advertising the time and place of sale at  
 least thirty days in one of the newspapers printed i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347892:1842071101:0395/pct:202.73544353262994,285.7227138643068,62.85658460336069,24.144542772861357/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347892:1842071101:0395/pct:50.67395975776519,71.42014452145702,15.71107638210588,6.035245539006047/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -536,7 +536,7 @@ the Plaintiffs, Whitehead and Garland and Pamplin,
 their costs by them about their suit in this behalf expen­  
 ded; then and in that case, or either of them, the Cour
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347922:1848110601:0113/pct:257.38099648082977,289.9928825622776,61.51139099833303,25.750889679715304/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347922:1848110601:0113/pct:64.33333333333333,72.48790207799601,15.375,6.436806148590948/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -561,7 +561,7 @@ mises, to sell to the highest bidder, upon a credit of six,
 twelve and eigh&#x27;een monins.  
 chase moncy, all, or so much of the Defendant
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347922:1848110901:0115/pct:11.100832562442184,296.969696969697,59.44495837187789,22.02687249857061/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347922:1848110901:0115/pct:2.774694783573807,74.23181363441475,14.858490566037736,5.505931113334286/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -591,7 +591,7 @@ the Sheriff of Am
 a Commissioner for that purpose do, after advertising the  
 time and place of sale for thirty days in the &quot;Lynchbur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347922:1848111601:0123/pct:68.59473489061921,217.39499363597793,60.456062291434925,33.616178758308585/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347922:1848111601:0123/pct:17.145505097312327,54.34106334841629,15.111214087117702,8.402856334841628/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -617,7 +617,7 @@ the Plaintiffs, Whitehead and Garland and Pamplin,
 their costs by them about their suit in this behalf expen  
 ded; then and in that case, or either of them, the Cour
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347922:1848112001:0127/pct:131.6229782487451,216.13691931540342,60.996467744934,26.247662879332662/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347922:1848112001:0127/pct:32.899628252788105,54.026459591601956,15.246282527881041,6.560972102387115/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -652,7 +652,7 @@ twelve and eighteen months, for equal portions of the pur­
 chase money, all, or so much of the Defendant, William  
 W. Hudson&#x27;s, reversionary interest in the tract of lan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347922:1848112301:0134/pct:332.02853484543624,136.33001422475107,57.38064752149259,43.99715504978663/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347922:1848112301:0134/pct:82.9919531821507,34.077656094438915,14.342538405267009,10.997724363532926/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -678,7 +678,7 @@ the Plaintiffs, Whitehead and Garland and Pamplin,
 their costs by them about their suit in this behalf expen­  
 ded: then and in that case, or either of them, the Cour
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347922:1848113001:0142/pct:326.6940818880744,139.2792034777731,56.58859288396209,25.53639040807741/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347922:1848113001:0142/pct:81.6589202717197,34.81491867638811,14.14461923489453,6.383202467750982/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -708,7 +708,7 @@ signed by us this -day of-- in the year of our
 Lord one thousand eight hundred and sixty  
 The condition of the foregoing obligation is such, That
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271743385:1861091001:0814/pct:112.22721972347159,268.2672233820459,47.80942861902382,17.640918580375782/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271743385:1861091001:0814/pct:37.4090732411572,89.42240779401531,15.936476206341274,5.880306193458594/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -757,7 +757,7 @@ to the finding of the court, and that they recover
 also their costs by them about their suit in this  
 behalf expended. IIUGH L. BOND
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_fezza_ver01:data:sn85025007:00415663729:1875030601:0236/pct:35.28989667049368,17.369847106638282,15.800803673938002,2.5062899167795627/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_fezza_ver01:data:sn85025007:00415663729:1875030601:0236/pct:35.29946421737466,17.37629830333527,15.810371220818983,2.503064318431069/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

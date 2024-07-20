@@ -327,7 +327,7 @@ they by no means fail vigouroufly to aifol and
 support their committees, in discharging this as  
 well as the other duties of their offices, and t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1774120801:0675/pct:7.516059957173447,6.716519374575119,55.71734475374733,114.77906186267845/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1774120801:0675/pct:5.83061348675112,5.208808963506726,43.198539580682635,88.96069684942573/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -403,7 +403,7 @@ mittees, in discharging this as well as the other Dautics of theis
 Offices, and to cause this Resolution to be executed by everyMaea­  
 fure which they fhail think necessary. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774121601:0370/pct:7.878128400435256,41.615094339622644,27.61697497279652,43.41132075471698/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774121601:0370/pct:7.885382662314109,41.62012578616352,27.624229234675372,43.4062893081761/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -617,7 +617,7 @@ and will neither hire our vessels, nor sell
 our commodities or manufactures to those  
 who are concerned in it.&quot; This was th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_green_ver02:data:sn84022687:00202199240:1844092601:0444/pct:46.78197908286404,94.49035812672176,19.086886564762672,5.451645643033203/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_green_ver02:data:sn84022687:00202199240:1844092601:0444/pct:35.117729925538335,70.87139335943164,14.328838800563494,4.088734232274902/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -695,7 +695,7 @@ neither be oonoeinsd in It ourselves, nor will we hire our
 resse&#x27;s, nor sell our commodities or manufactures, to those  
 ho are consented in it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1850030701:0052/pct:84.76679503637142,16.240484091352723,13.222079589216944,3.3769275814952175/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1850030701:0052/pct:84.77630390338992,16.243737393454357,13.217325155707698,3.380180883596851/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -718,7 +718,7 @@ no trade, commerce, dealing*, or intercourse whatever, with
 any colony or provinne in North America, which shall not.  
 accede to, or which shall hereafter violate thin Association
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1850030701:0052/pct:84.76679503637142,22.62346281475698,14.477250035658251,3.4062073004099163/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1850030701:0052/pct:84.77154946988067,22.62671611685861,14.477250035658251,3.4062073004099163/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -882,7 +882,7 @@ association, but will hold them unworthy of the
 rights of freemen, and as inimical to the  
 liberties of this country.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1855072601:0339/pct:38.45223700120919,52.115728960512676,13.022974607013301,3.600037696729809/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1855072601:0339/pct:38.45223700120919,52.122011748814124,13.031035872632003,3.603179090880533/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -909,7 +909,7 @@ our vessels nor sell our commodities or manufactures
 to those who are concerned in it.&quot; * *  
 &quot;II. That a committee l
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1855092001:0371/pct:1.4664548454112183,53.04175325902135,13.576927777098863,5.866238428112601/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1855092001:0371/pct:1.474601816774614,53.048050884816426,13.576927777098863,5.8693872410101395/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -948,7 +948,7 @@ agree, and associate, under the sacred ties of virtue,
 honor and love of country, that we will neither im­  
 port or purchase any slaves,” Ac. Ac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182987:1856100901:0376/pct:36.644249008449734,70.10435018295162,14.640455250905328,2.561322672448841/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182987:1856100901:0376/pct:36.63793103448276,70.09485094850949,14.642241379310345,2.5643631436314362/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -971,7 +971,7 @@ noia mem as unworthy ot ttie rights ol trceinen, ;
 and as inimical to the liberties of this country.&quot;  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn83035487:00211100497:1856101101:0466/pct:81.62865288667142,46.16533188543505,18.389166072701354,5.524636894258179/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn83035487:00211100497:1856101101:0466/pct:61.24777183600713,34.627392425682096,13.796791443850267,4.1536582055110625/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -994,7 +994,7 @@ trade, and will neither he concerned in it ourselves, nor
 will we hire our vessels, nor sell our couiiiiodinef or :  
 manufactures to those who arc concerned in it.? Pa^sDl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1856101601:0599/pct:84.72255584914726,29.37719215091478,16.33437424933942,3.090340316617689/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1856101601:0599/pct:84.7305628953479,29.37719215091478,16.33037072623909,3.093500173792145/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1036,7 +1036,7 @@ ale this association, but will bold tbem as unworthy of
 he right* of frftraen, and as inimical to the liberties of ]  
 his country.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1858020401:0243/pct:64.02395209580838,66.35831602794035,12.071856287425149,2.3220690957145553/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1858020401:0243/pct:64.02794411177645,66.36460889811843,12.071856287425149,2.3189226606255113/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1135,7 +1135,7 @@ inces aforesaid, the States lately existing
 under the same names, and providing  
 for the Government and administratio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867031301:0235/pct:22.57668711656442,108.68745145900367,38.03680981595092,34.39476311993787/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867031301:0235/pct:5.646769986189964,27.171862864750917,9.513579868037441,8.598690779984468/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1189,7 +1189,7 @@ and blood, to those who have again de
   
 clared war against us, and whose repr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867031301:0235/pct:62.20858895705521,120.13757905247975,37.97546012269939,37.36824586708088/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867031301:0235/pct:15.559306429338653,30.034394763119938,9.498235384379315,9.34206146677022/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1225,7 +1225,7 @@ age the immigration into our Provinces
   
 and the States aforesaid, of artizans, me
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867031301:0235/pct:62.08588957055215,161.2781537778764,38.03680981595092,20.19305447686675/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867031301:0235/pct:15.528617462022403,40.3195384444691,9.513579868037441,5.048263619216687/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1341,7 +1341,7 @@ freemen, and as inimical to the lib­
 erties of this country.” This I as­  
 sure you was signed by as good me
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_earnhardt_ver01:data:sn84024516:00332891911:1890050801:0384/pct:57.81134310676736,26.58033362598771,12.749888938249667,6.529850746268656/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_earnhardt_ver01:data:sn84024516:00332891911:1890050801:0384/pct:57.81134310676736,26.58033362598771,12.754825016042252,6.533508925958443/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

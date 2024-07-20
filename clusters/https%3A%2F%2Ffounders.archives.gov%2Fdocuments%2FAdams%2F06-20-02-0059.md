@@ -97,7 +97,7 @@ thus known to have been entertained by him at the very tim
 when he decided by lus casting vote, he went far, wc now find  
 to destroy tlie rights of the b&#x27;enate, and to reduce it to a me
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830040901:0126/pct:23.25172027524404,58.465991316931984,17.92286765882541,4.618909792571153/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830040901:0126/pct:23.248,58.45894127577475,17.925333333333334,4.622372281844125/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -209,7 +209,7 @@ or Arizona could hardly reach the state
 and be pounted between the day of elec­  
 tion and the session ofthe legislature i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn84022367:0041562833A:1864051201:0941/pct:30.901287553648068,75.34985422740525,18.798283261802574,24.096209912536445/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn84022367:0041562833A:1864051201:0941/pct:23.1809401159047,56.51603498542274,14.123202403949346,18.075801749271136/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -248,7 +248,7 @@ ive, and this defect in our Constitution will have
 an unhappy tendency to introduce corruption of the­  
 groasest kinds, both of ambition and avarice, into a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_willys_ver01:data:sn83030214:00175039855:1881040901:0078/pct:152.78955954323,243.89795449321994,47.81402936378466,41.74902321305447/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_willys_ver01:data:sn83030214:00175039855:1881040901:0078/pct:50.92985318107667,81.29931816440666,15.938009787928221,13.916341071018156/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -288,7 +288,7 @@ tion will have an unhappy tendency to Introduce
 corruption of tbo grossest kinds, both of ambi­  
 tion and avarice, into nil our oleoUons.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ogden_ver03:data:sn84031492:no_reel:1881041101:0005/pct:57.74798927613941,75.28501628664495,13.297587131367292,9.710912052117264/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ogden_ver03:data:sn84031492:no_reel:1881041101:0005/pct:57.75469168900804,75.28501628664495,13.304289544235925,9.741449511400651/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -361,7 +361,7 @@ troduce corruption of the grossest kind,
 both of ambition and avarice, into all  
 our elections.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_engledinger_ver02:data:sn85033123:00514151283:1881052001:0373/pct:51.7092866756393,49.121911374310805,10.659488559892328,22.61588727792526/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_engledinger_ver02:data:sn85033123:00514151283:1881052001:0373/pct:51.718259309107225,49.121911374310805,10.659488559892328,22.622694166496494/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -440,7 +440,7 @@ both of ambition and avarice, Into all our
 elections. • ,  
 U Is from the tendencies that John Adams
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ogden_ver03:data:sn84031492:no_reel:1881062801:0004/pct:58.06367432150313,47.50443874531466,12.96972860125261,10.613533241270467/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ogden_ver03:data:sn84031492:no_reel:1881062801:0004/pct:58.07019832985386,47.50937068455317,12.97625260960334,10.623397119747485/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -500,7 +500,7 @@ unhappy tendency to introduce corruption
 *rid svai ice, into all our elections.  
 It ia from the tendencies that Joh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_france_ver01:data:sn84026844:00202193468:1881063001:0624/pct:14.8756339048539,7.374378322757675,14.779038879497707,23.117818555993825/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_france_ver01:data:sn84026844:00202193468:1881063001:0624/pct:14.893745472108186,7.387240610529926,14.785076068582468,23.122105985251242/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

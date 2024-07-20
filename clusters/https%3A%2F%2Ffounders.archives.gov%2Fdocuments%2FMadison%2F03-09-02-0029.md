@@ -200,7 +200,7 @@ with copy of a letter which I have this
 day addressed to the honorable secretary  
 of agriculture
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_gaylord_ver02:data:sn85033781:00296023826:1898041301:0078/pct:6.580396475770925,78.85345482156416,21.50330396475771,2.44874715261959/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_gaylord_ver02:data:sn85033781:00296023826:1898041301:0078/pct:4.392124466473909,52.57213363705391,14.33292028087567,1.6324981017463933/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

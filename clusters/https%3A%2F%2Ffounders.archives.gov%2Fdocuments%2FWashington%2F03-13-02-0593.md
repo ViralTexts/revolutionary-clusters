@@ -80,7 +80,7 @@ and be sure that with unfelgned regard I am, dear
 sir, your affectionate friend  
 GEORGE WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jaguar_ver01:data:sn83030214:00175038851:1895110601:0107/pct:150.69184437571218,241.9072906294944,48.722122741331596,31.496846996349152/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jaguar_ver01:data:sn83030214:00175038851:1895110601:0107/pct:50.23061479190407,80.6357635431648,16.240707580443864,10.498948998783051/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -122,7 +122,7 @@ matters to light which by getting me out
 of the way some of them thought to con­  
 ceal.&quot; Dr. Morgan explained that Was
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_ephemera_ver01:data:sn92053934:00212471811:1895110601:0120/pct:42.43396226415094,98.96037366279946,16.528301886792452,18.065390989905076/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_ephemera_ver01:data:sn92053934:00212471811:1895110601:0120/pct:31.842204605511515,74.2202802470996,12.400906002265005,13.560343528702727/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -166,7 +166,7 @@ andria, and be assured that with unreigned re
 gard I am, dear sir, your affectionate friend  
 Go. WAshinGTo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175042830:1895110601:0081/pct:185.41510845175767,33.805390589310186,51.009723261032164,49.885792599360435/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175042830:1895110601:0081/pct:46.37111859334082,8.451347647327546,12.757201646090534,12.471448149840109/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -324,7 +324,7 @@ with unfeigned regard, I am, dear sir,
 your affectionate friend.  
 &quot;Go Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn91068247:0029602305A:1895121301:0632/pct:109.51072017592084,32.84534142005647,17.619571192963168,21.332217923245842/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn91068247:0029602305A:1895121301:0632/pct:82.16691874054723,24.636620307434907,13.227003987350475,15.999163442434382/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -79,7 +79,7 @@ peace be disappointed, would necessarily
 have the most injurious consequences.  
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1814010801:0209/pct:64.11270390509145,13.68143363958883,18.40500906244851,11.088874738469935/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1814010801:0209/pct:64.10214168039539,13.680189194105877,18.407468423942888,11.090898065611546/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -128,7 +128,7 @@ restoration ol the blessings of peace be dianp*
 pointed, would necessarily have the most inju­  
 rious consequences. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814011001:0012/pct:59.23344947735192,15.65238558909445,16.981478085457546,7.874878286270691/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814011001:0012/pct:59.22258892555922,15.650480710721675,16.984476225400318,7.877976552675348/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -159,7 +159,7 @@ be disappointed, would necessarily have the
 most injurious cons-quenres.  
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1814011101:0300/pct:4.680616740088106,12.703542573026725,17.621145374449338,9.47172156619018/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1814011101:0300/pct:4.679757753716278,12.701963708675118,17.624028873799475,9.474687215179385/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -198,7 +198,7 @@ the blessings of peace be disappointed, would ne­
 cessarily have the most injurious eouseqtienees.  
 JAMBS MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1814011201:0733/pct:52.7436732648459,80.4358432265409,21.498371335504885,10.050414701577493/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1814011201:0733/pct:52.73046092184369,80.42276422764228,21.49924849699399,10.052845528455284/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -219,7 +219,7 @@ execution of the embargo law.
   
 The Pc Jcrsl Republican, of the 6th instan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814011301:0017/pct:40.17627616599339,4.188805140244656,34.814542783694456,90.55974298776721/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814011301:0017/pct:40.1689003120984,4.1882876204596,34.81427085245701,90.5526727617165/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -249,7 +249,7 @@ peace be disappointed, would necessari ]
 have the most injurious consequences.  
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1814011301:0438/pct:75.51066727190195,85.56172575822298,20.35860190649115,11.006692296739285/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1814011301:0438/pct:75.49353301565691,85.54954441913439,20.359655094168367,11.00868451025057/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -373,7 +373,7 @@ pointed, would necessarily have the most in­
 jurious consequences.  
 January 6, 1814, JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814011801:0010/pct:25.90182486914698,17.572533849129595,16.933088131277408,9.274661508704062/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814011801:0010/pct:25.906540293299383,17.575757575757574,16.933088131277408,9.277885235332043/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -414,7 +414,7 @@ be disappointed, would necessarily have the
 most injurious cunscquences,  
 Jan. 6. JAMLES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1814012001:0969/pct:27.380753138075313,14.458772958186792,22.393305439330543,10.785463071512309/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1814012001:0969/pct:27.386331938633194,14.46202943858278,22.404463040446306,10.785463071512309/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -585,7 +585,7 @@ United States for a speedy restoration of the blessings of
 peace be disappointed, would necessarily have the most  
 injurious consequences. JAMES MADISON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_armani_ver02:data:sn84024735:00415664229:1836020201:0182/pct:16.39275179098188,41.885595320709825,17.46031746031746,6.007732725289977/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_armani_ver02:data:sn84024735:00415664229:1836020201:0182/pct:16.39275179098188,41.885595320709825,17.474364377019246,6.014341892204488/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -613,7 +613,7 @@ United States for a speedy restoration of the blessings of
 peace be disappointed, would necessarily have tlip most  
 injurious cMiserpicnces. JAMES AIADISON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_armani_ver02:data:sn84024735:00415664229:1836020201:0183/pct:15.749257110513655,42.00294550810015,18.140653742747983,6.0873834069710355/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_armani_ver02:data:sn84024735:00415664229:1836020201:0183/pct:15.749257110513655,42.00294550810015,18.159520777321823,6.090656193748977/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -636,7 +636,7 @@ preparations, should the wishes of the United Slates for
 ft speedy restoration of the blessings of peace be dioap­  
 pointed, would necessarily hnvc the most injurious con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184091:1836020401:0329/pct:33.53692393114936,24.515988688274962,14.894503053858967,4.024363715466609/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184091:1836020401:0329/pct:33.5322692574601,24.51332245785753,14.8970622253065,4.027551205365235/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

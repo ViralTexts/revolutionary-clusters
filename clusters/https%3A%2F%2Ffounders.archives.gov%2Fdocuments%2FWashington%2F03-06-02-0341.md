@@ -480,7 +480,7 @@ unless it is on mere matters of public
 business. * * * I am, with truth and  
 sincerity, dear Lund, your affectionat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_carrie_ver01:data:sn85033295:0027176876A:1876070501:0411/pct:63.91006589998708,7.5977753857194115,14.226644269285437,61.66128453534266/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_carrie_ver01:data:sn85033295:0027176876A:1876070501:0411/pct:63.91437308868502,7.600765458677191,14.226644269285437,61.66128453534266/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -674,7 +674,7 @@ tho that in the Parlour must, I should
   
 tbiuk, stand as it does ; tot so much on ?ide in the ranks, or followed each ot
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_grandfather_ver01:data:sn85042098:00415667437:1881012001:0356/pct:55.002704164413196,50.776164246369554,67.19848566792861,47.1607411116675/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_grandfather_ver01:data:sn85042098:00415667437:1881012001:0356/pct:41.26876775328013,38.08713069604406,50.42607872311646,35.37305958938408/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -704,7 +704,7 @@ i t l r i
   
 nave neen long connned uv; ciaim ve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_grandfather_ver01:data:sn85042098:00415667437:1881012001:0356/pct:54.79989183342347,108.00200300450676,16.495402920497565,6.950425638457687/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_grandfather_ver01:data:sn85042098:00415667437:1881012001:0356/pct:41.11997835790613,81.00150225338007,12.376572433382929,5.217826740110166/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -726,7 +726,7 @@ TO HE CONTIVUKD.
 eLTS .itfore ! ? this time, to comply with his desires  
 etfully recomuienJ ir to the public ami ; I am with truth and sincerit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_grandfather_ver01:data:sn85042098:00415667437:1881012001:0356/pct:39.64305029745809,114.95242864296445,46.38994050838291,2.6840260390585877/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_grandfather_ver01:data:sn85042098:00415667437:1881012001:0356/pct:29.744352766130124,86.21932899349024,34.81671851751657,2.013019529293941/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -825,7 +825,7 @@ thatr hospitality. Thrice welcome did
 they make him When they learned that  
 he was the great general that they ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn85035722:00513685178:1892022001:0459/pct:35.912379421221864,5.191972076788831,28.114951768488744,79.43571844095405/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn85035722:00513685178:1892022001:0459/pct:35.90516375326502,5.191217100479861,28.114325899136027,79.42780282099753/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -848,7 +848,7 @@ my stead with my feelings.&quot;
 &quot;It was at this time,&quot; continued my  
 informant, &quot;that Washington stoppe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn83032231:00237287915:1892022001:0491/pct:345.1981707317073,266.9743293914047,38.56707317073171,14.652437265647533/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn83032231:00237287915:1892022001:0491/pct:86.3489037178265,66.74358234785117,9.647283126787416,3.6631093164118833/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -876,7 +876,7 @@ jury to the other troops who never had of­
 ficers except in a few instances worth the  
 bread they cat.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623926:1892040201:0065/pct:48.807908509401045,23.05389221556886,11.436324869160691,7.285429141716567/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623926:1892040201:0065/pct:48.807908509401045,23.05864461553084,11.449247270142793,7.2949339416405286/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

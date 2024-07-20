@@ -134,7 +134,7 @@ u*:n litres, in the tr u will gain by beating 1
 &#x27;(&gt;••, ii tin compctit&#x27; ii of oiiix in our own mar- s  
 kets, xv.” f,V.|/# /«/, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1817021501:0380/pct:35.408496732026144,76.71512369293548,15.637254901960784,13.606222902320836/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1817021501:0380/pct:35.402711975167456,76.70534234349101,15.640145945651582,13.608738152917676/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -405,7 +405,7 @@ and manufactures, in the mass, wilt
 g un &#x27;ey beating down the competition  
 of uu.&#x27;siii cu&gt; market&#x27;... Sec.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184133:1817022401:0229/pct:21.285377358490567,46.0586319218241,17.708333333333332,24.58631921824104/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184133:1817022401:0229/pct:21.281194733739436,46.05263157894737,17.711403681142333,24.58745874587459/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -747,7 +747,7 @@ catastrophe, he a, ceded to the ul.sertalion, hut demau.i
 •d, if those who made the icnhces would not icn-iiie  
 some political reform iln.it iii ret-irn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1818110301:0208/pct:36.24116970593067,37.9124175164967,15.26203384261541,14.289142171565686/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1818110301:0208/pct:36.23521681997372,37.907869481765836,15.265002190100745,14.291426743442099/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -783,7 +783,7 @@ ever ; and uollii.ig but iliisirpirsi matiui,. or p.m.il
 accounts of M, *ill ever he reeweted.&quot;  
 1 nepf a n-gliiat AionMe.-iio,in,&#x27; up, si ,- morning
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1818110301:0208/pct:36.48759651716774,56.91661667666467,14.884179398718581,9.070185962807438/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1818110301:0208/pct:36.48160315374507,56.90978886756238,14.887209811651337,9.073096609085093/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1644,7 +1644,7 @@ late immense importations, but British con­
 merce and manufactures in the mass  
 gain by beating down the competition of ours
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_arbok_ver04:data:sn82003383:00295874442:1842060401:0297/pct:204.21974522292993,185.3780487804878,37.8343949044586,39.40243902439025/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_arbok_ver04:data:sn82003383:00295874442:1842060401:0297/pct:68.0732484076433,61.792682926829265,12.611464968152866,13.134146341463415/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1686,7 +1686,7 @@ ahy the late immense importutions,
 mmnerce and mannfucfures in te  
 by beating down the competitio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:0041566770A:1842070701:0110/pct:65.32045654082529,271.0537759095521,60.842844600526774,46.61545151471228/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:0041566770A:1842070701:0110/pct:16.340874148912803,67.76344397738802,15.220733582253459,11.65386287867807/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1756,7 +1756,7 @@ that mine was but half the question : the other
 half is. whether dollars and cents are to hej  
 weighed in the scale against null independence
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215804:1848071701:0648/pct:57.427979664846546,12.563573883161512,12.728299755225004,5.683848797250859/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215804:1848071701:0648/pct:57.42257366092441,12.562710466634595,12.730239417615865,5.685748974869997/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1786,7 +1786,7 @@ periods of Dr. Witherspoon, of New Jersey, printed
 in his works. I consider the true history of the  
 American Revolution and the establishment of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743087:1853070401:0040/pct:11.920969616470197,254.05158639580006,47.45143616138137,10.009130335539831/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743087:1853070401:0040/pct:3.9736565388233993,84.68386213193335,15.817145387127123,3.336376778513277/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1921,7 +1921,7 @@ And then he proceeds at length to argue in
 favor of the policy of fostering manufac­  
 tures. Evidently Mr. Jefferson had no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_graftonnotch_ver01:data:sn83016025:00414210594:1888081101:0262/pct:4.469914040114613,92.28692181263207,9.641833810888253,2.2423104015027002/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_graftonnotch_ver01:data:sn83016025:00414210594:1888081101:0262/pct:4.4692737430167595,92.27608874281019,9.644033806044979,2.244981805376218/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1945,7 +1945,7 @@ Simpson.
 DII&gt; HE MEAN RECIPROCITY?  
 The history of tho Inst twenty year
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_eritrea_ver01:data:sn84026844:00202193572:1892041401:1350/pct:17.798110979929163,77.2233536999321,16.115702479338843,5.346232179226069/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_eritrea_ver01:data:sn84026844:00202193572:1892041401:1350/pct:17.805489964580875,77.23608282416836,16.1525974025974,5.350475220638153/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2006,7 +2006,7 @@ down the competition of ours in our own mar­
 kets. From Jefferson&#x27; Letter to William  
 Simpson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_gordon_ver01:data:sn89058370:00296021192:1892070601:0200/pct:68.27249575551782,72.99159432272289,18.18760611205433,3.927242662257131/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_gordon_ver01:data:sn89058370:00296021192:1892070601:0200/pct:51.220547654425815,54.7471406917459,13.648906813839949,2.9488769463965827/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2039,7 +2039,7 @@ ner idea was but half tho quoation; the Loi
 ire to be weighed in tho scale against .  
 real independence.&quot; PPresiden
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_denmark_ver01:data:sn84026844:00202193626:1894103001:0844/pct:16.825885978428353,57.21695582185656,17.65793528505393,9.551064210338044/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_denmark_ver01:data:sn84026844:00202193626:1894103001:0844/pct:16.84899845916795,57.22142729386514,17.65793528505393,9.560007154355214/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -65,7 +65,7 @@ destitution, is an incutitesMi.le right of the lawfully
 commissioned cruisers of a b-Migerent nation.*  
 “ That the authority uf the sovereign of the neu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810031601:0977/pct:30.98068350668648,60.82407854498632,20.901436354631006,3.9755351681957185/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810031601:0977/pct:30.973013122059914,60.81429031219826,20.902451101757862,3.97891857096878/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -88,7 +88,7 @@ thirtv-nine thousand dollars!
 Mr. U. after some suggestions respecting t lie customs,;  
 said that in no possible way could the revenue fur th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1841022301:0184/pct:51.08433734939759,35.21611499139589,15.993975903614459,3.745318352059925/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1841022301:0184/pct:51.08433734939759,35.22286331275095,16.004016064257026,3.7486925127374566/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -199,7 +199,7 @@ ships, or the destination are; it is for the
 purpose of ascertaining these points that  
 the necessity of this right of visitatio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84037932:00415668934:1843031101:0138/pct:130.32381997804612,48.23467230443975,37.87047200878156,38.731501057082454/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84037932:00415668934:1843031101:0138/pct:43.44127332601537,16.078224101479915,12.623490669593853,12.910500352360817/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -233,7 +233,7 @@ be the ships, the cargoes or the desti
   
 nation what they may; because, till
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn87065355:00295878216:1843031801:0998/pct:121.67235494880546,253.125,64.84641638225256,30.711206896551722/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn87065355:00295878216:1843031801:0998/pct:30.418088737201366,63.28125,16.21160409556314,7.677801724137931/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -305,7 +305,7 @@ cargoes, or their destinations, is an incontestabl
 ships on the high seas, whatever be the ships, their  
 cargoes, or their destinations, is an incontestibl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530698:1861111901:0571/pct:197.9760647659275,41.81410416147521,48.134459697289685,5.083478694243708/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530698:1861111901:0571/pct:65.9920215886425,13.938034720491736,16.044819899096563,1.694492898081236/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -344,7 +344,7 @@ board. If a neutral vessel engages in the
 ing contraband goods, and vessels so en­  
  gaged in the service of one belligerent ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn82015672:00296021982:1861112001:0521/pct:129.05317769131,80.09429020429545,50.843060959792474,52.80251440544788/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn82015672:00296021982:1861112001:0521/pct:32.26852602562024,20.023572551073862,12.712826333711691,13.20062860136197/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -393,7 +393,7 @@ tionably of the same nature with carrying con­
 traband goods, and vessels so engaged in the i  
 service of one belligerent is subject to capture 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85033123:00514151386:1861112101:0029/pct:49.182161330910105,86.34031637451902,11.198098699846218,6.0602821718683195/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85033123:00514151386:1861112101:0029/pct:49.182161330910105,86.34744192674933,11.207418798639265,6.0602821718683195/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -411,7 +411,7 @@ merchant ships on the high seas, whatever
 be the ships, their cargoes, or their desti­  
 nations, iB an incontestible right of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn84026845:00202190686:1861112101:0489/pct:30.088945362134687,34.15922014622258,13.646759847522237,2.39642567018684/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn84026845:00202190686:1861112101:0489/pct:30.088945362134687,34.15922014622258,13.678526048284626,2.4116571892770104/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -429,7 +429,7 @@ merchant ships on the high seas, whatever
 be the ships, their cargoes, or their dest­  
 nations, is an incontestible right of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477837:1861112701:0647/pct:69.88636363636364,192.70891755468313,57.71103896103896,8.412787436904095/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477837:1861112701:0647/pct:17.47159090909091,48.17722938867078,14.42775974025974,2.1031968592260237/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -447,7 +447,7 @@ merchant ships on the high seas, whatever
 be the ships, their cargoes, or their deste­  
 nations, is an incontestible right of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477849:1861112702:0473/pct:64.29809358752166,195.1645790853481,59.96533795493934,8.272647829886397/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477849:1861112702:0473/pct:16.081491114000865,48.791144771337024,14.997832683138276,2.0681619574715993/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -465,7 +465,7 @@ on the high seas, whatever be the ships, their cargoes,
 or their destinations, is an incontestable right of the  
 lawiully commissioned cruisers of a belligerent nation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn86071866:00414184728:1861112801:0506/pct:150.67604110329907,112.71565495207668,43.33874166215973,5.763578274760383/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn86071866:00414184728:1861112801:0506/pct:50.21629416005768,37.567084078711986,14.443643354962749,1.9209472697844792/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -494,7 +494,7 @@ contestable right of lawfully commissioned
 cruisers of a beligerent nation. A purely  
 beligerent right is essential to such capture
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347294:1861112901:0468/pct:36.529534176404674,38.18376832320343,13.094285256923323,3.229650816350852/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347294:1861112901:0468/pct:36.529534176404674,38.19171334366186,13.110292940611494,3.229650816350852/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -525,7 +525,7 @@ cruisers of a belligerent nation. I say, be the
 ebips, tbe cargoes, ind tbe destinstions wbat  
 tbey. may, because, till they are visited sn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84027060:00415668909:1861113001:0181/pct:36.383796570076875,49.05804203419362,11.147250147841515,2.8204290536861594/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84027060:00415668909:1861113001:0181/pct:36.383796570076875,49.061671930015606,11.147250147841515,2.824058949508149/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -562,7 +562,7 @@ merchants ships on the high seas, whatev­
 er be the ships, their carr -s, or their des- !  
 tination, is an incontesuole right of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn82014282:0041421244A:1861121201:0338/pct:18.880628419133117,41.68605881108525,12.55435544957217,2.115506663845991/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn82014282:0041421244A:1861121201:0338/pct:18.87798036465638,41.68164992067689,12.55610098176718,2.1179270227392912/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -590,7 +590,7 @@ on the high seas, whatever be the ships, the cargoes,
 the destination, is an incontestible right of the lawfully  
 commissioned cruisers of a belligerent nation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_lilac_ver02:data:sn82015408:00212471379:1862020101:0369/pct:106.65829145728644,76.95099818511797,19.566582914572866,2.382032667876588/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_lilac_ver02:data:sn82015408:00212471379:1862020101:0369/pct:80.01885014137606,57.71324863883847,14.687401822180332,1.7921960072595282/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

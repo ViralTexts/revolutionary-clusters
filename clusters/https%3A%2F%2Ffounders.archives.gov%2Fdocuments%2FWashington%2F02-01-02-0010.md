@@ -137,7 +137,7 @@ shortly having some Minutes of your transac­
 tions m your Parts which will be very welcome­  
 ly receiv’d by You
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_graftonnotch_ver01:data:sn83016025:0041421096A:1892022301:0315/pct:31.551423590935503,24.187725631768952,12.395893860158822,18.020457280385077/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_graftonnotch_ver01:data:sn83016025:0041421096A:1892022301:0315/pct:31.545313710302093,24.184087832756806,12.398334624322231,18.021506993532864/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -187,7 +187,7 @@ self where I am with hopes of shortly having some
 Minutes of your transactions in your parts which will  
 be very welcomely received by You
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175045181:1895012701:0337/pct:264.55882352941177,166.57584014532245,50.716911764705884,46.01877081441114/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175045181:1895012701:0337/pct:66.17620011035497,41.64396003633061,12.686224020599596,11.504692703602785/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -279,7 +279,7 @@ some Minutes of your transactions in
 your parts which will be very welcomely  
 received by Your.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_endeavour_ver01:data:sn86063034:00414182148:1895020301:0599/pct:36.5539151560456,99.59272727272727,16.07176228742291,14.865454545454545/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_endeavour_ver01:data:sn86063034:00414182148:1895020301:0599/pct:28.32866660229796,77.18784052906474,12.474654822825142,11.520685379325894/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -321,7 +321,7 @@ o
 transactions In you.mImmmrts which wilt \Je\
 very welcomely received by You
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_alliance_ver01:data:sn99021999:00206539203:1895021701:0628/pct:76.14035087719299,75.66258576617786,16.912280701754387,11.556572043589398/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_alliance_ver01:data:sn99021999:00206539203:1895021701:0628/pct:57.11528338304966,56.746939324633395,12.703983154939463,8.67415579173954/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -426,7 +426,7 @@ with hopes of shortly having some Minute
 of your transactions in your parts which wil  
 be very welcomely received by You
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287162:1897021701:0124/pct:44.276491891040784,3.540485613434592,26.358053849787435,93.96726922665526/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287162:1897021701:0124/pct:44.276491891040784,3.540485613434592,26.358053849787435,93.97796555781368/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -520,7 +520,7 @@ hopes of shortly having some Minutes of
 your transactions in your Parts which will  
 be weicomely received by Your.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_fletcher_ver01:data:sn86063034:00414182252:1898101801:0503/pct:55.234185482366115,67.02174877940524,12.707594700503826,11.836070424619027/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_fletcher_ver01:data:sn86063034:00414182252:1898101801:0503/pct:55.24662561423151,67.03161217142575,12.695154568638428,11.841002120629284/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -599,7 +599,7 @@ shortly having some Minutes of your
 transactions in your Parts which will  
 be very welcomely received.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_bobidosh_ver01:data:sn85040613:00514150953:1899121801:0531/pct:62.606273819994136,34.66680170143812,14.467897977132806,7.869151306461414/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_bobidosh_ver01:data:sn85040613:00514150953:1899121801:0531/pct:62.606273819994136,34.6735534400108,14.472784129776214,7.8623995678887315/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -637,7 +637,7 @@ shortly having some Minutes of your
 transactions in your Parts which will  
 be very welcoraely received.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_belle_ver01:data:sn85033078:0027176859A:1899122101:0297/pct:19.288663913680566,25.14660570519829,12.095377647528974,7.096710068581652/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_belle_ver01:data:sn85033078:0027176859A:1899122101:0297/pct:19.297544514009147,25.153231951760926,12.08649704720039,7.090083822019017/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -665,7 +665,7 @@ shortly having some Minutes of your
 transactions in your Parts which will  
 be very welcomely received.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_imp_ver01:data:sn85040705:00414214848:1899122101:0242/pct:68.4967585089141,43.54033823121708,18.213128038897892,9.800388134183532/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_imp_ver01:data:sn85040705:00414214848:1899122101:0242/pct:53.085256712199715,33.75111906893465,14.120479405453498,7.598925693822739/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

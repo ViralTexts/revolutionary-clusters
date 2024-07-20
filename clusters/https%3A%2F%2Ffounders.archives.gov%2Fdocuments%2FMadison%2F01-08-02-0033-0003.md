@@ -187,7 +187,7 @@ benafide debts thcreteford contracted.&quot;
 But such impediments were thrown in  
 the way in several ef tha states, but par
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813042001:0092/pct:52.0241593209272,5.95956944079811,39.65066927848515,87.26699921239171/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813042001:0092/pct:52.0156683531908,5.95904795239762,39.649638213372505,87.2622797806557/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

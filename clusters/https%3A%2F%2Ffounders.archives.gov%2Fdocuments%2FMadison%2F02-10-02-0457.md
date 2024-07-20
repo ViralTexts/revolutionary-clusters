@@ -68,7 +68,7 @@ eomniis«irm all officeis in the same, below the rauk of
 General officer-.”  
 Hie second section of the act of Congress of 1789
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184339:1831081501:0275/pct:50.8769322235434,58.46572855197458,14.863258026159334,4.8683613254652744/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184339:1831081501:0275/pct:50.86937137761926,58.45909451945989,14.866002873136177,4.871591209954991/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -108,7 +108,7 @@ the proceedings of the Governor in his executive department,
 and transmit authentic copies of such acts and proceedings  
 every six months to the Secretary of Congress
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1847082801:0649/pct:16.952299343044846,54.22037888129133,15.709797200799771,3.149871090684901/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1847082801:0649/pct:16.952299343044846,54.22037888129133,15.719318290012378,3.161080596345701/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -200,7 +200,7 @@ governor in his executive department; and trans­
 mit authentic copies of such acts and proceedings  
 every six month*, to the Secretary of Congress
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83025241:0038334721A:1851122501:0560/pct:16.941649899396378,32.48130371693269,11.911468812877263,3.315102131934368/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83025241:0038334721A:1851122501:0560/pct:16.941649899396378,32.48502437027942,11.915940084954169,3.322543438627823/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

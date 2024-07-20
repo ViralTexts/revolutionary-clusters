@@ -48,7 +48,7 @@ j ed, and the amount authorised lobe ,
 j brought basis to the United Slates in  
 each of such vessels
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808111401:0003/pct:23.316582914572866,26.949706074461137,17.467336683417084,10.058785107772698/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808111401:0003/pct:23.32998324958124,26.949706074461137,17.474036850921273,10.058785107772698/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -96,7 +96,7 @@ ed, and the amount authorised to be brought
 back to the U. State: in each of such ves­  
 sels. s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808111701:0572/pct:52.94117647058823,60.00353794445427,23.823529411764707,24.56217937378383/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808111701:0572/pct:52.9333921482135,59.99823118422216,23.824927706709797,24.562955101559506/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -121,7 +121,7 @@ wl irb they were destined, and the amount autho­
 rised to be brought hack to the Uuited Stales in  
 each of such vessels
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808111801:0216/pct:45.81231079717457,60.39815728858177,20.787083753784056,7.1898650871997365/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808111801:0216/pct:45.80075662042875,60.388221746997864,20.788146279949558,7.192794867576904/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -146,7 +146,7 @@ the ports or places for which they were m stmed’,
 at .I the amount authorised to he hr.iugl.t back to  
 tho LT. States m each ot such vessel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808111801:0229/pct:58.582154705779644,63.398129921259844,16.81508643268727,5.868602362204724/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808111801:0229/pct:58.57192737430167,63.390330914011564,16.817970204841714,5.871980973469471/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -176,7 +176,7 @@ ed, and the amount authorised to he
 brought back to the United States in  
 each of such vessels
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808111801:0377/pct:41.32168628940372,12.086934417895272,35.491834409418914,80.9989832231825/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808111801:0377/pct:41.31384089614581,12.085398398780024,35.49142459338017,80.99292582708519/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -228,7 +228,7 @@ they were destined, and the amount
 authorised to be brought hack to the  
 U. S. in*each of such vessels.-— Tfii
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808112801:0509/pct:25.653650254668932,19.25150005084918,17.40237691001698,7.779924743211634/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808112801:0509/pct:25.64929553556272,19.24954240390482,17.403666610083178,7.78167581858857/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -264,7 +264,7 @@ U. S. in*each of such vessels.-— Tfii
 &quot; Ordered. That the Secretary lay this resolution  
 before the President of the United States.!&#x27; See E
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022615:1848070501:0321/pct:65.54656999442275,33.04006783972864,20.231455660903514,1.1871952512189952/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022615:1848070501:0321/pct:49.18398660901102,24.782700869196525,15.176454177709584,0.8903964384142463/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

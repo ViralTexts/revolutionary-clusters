@@ -31,7 +31,7 @@ before the General Assembly when called for hy them. The
 council shall appoint their own clerk, w ho shall take an oath to  
 keep secret such matters as he shall lie ordered hy the Hoard t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012301:0082/pct:60.386784850926674,77.52504419563937,18.08219178082192,1.8738951090159104/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012301:0082/pct:60.377054463422496,77.5159085552675,18.08464926415297,1.877602325398696/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -56,7 +56,7 @@ before the General Assembly when railed for hy them The
 c-’iidc.iI shall appoint their own clerk, who shall take an oath to  
 keep secret such matters as lie shall he prdered by tire llonrd t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012801:0098/pct:59.89347966429955,73.55196413825647,18.18915429309232,5.367464905037159/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012801:0098/pct:59.88381474907213,73.54328851144138,18.191598085094938,5.37076354486121/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -92,7 +92,7 @@ bi-loro the General A* eodily when called for hy thorn The
 council shall appoint their own clerk, who shall take an oath to  
 keep secret such matters ns ho shall be ordered hy tbo Hoard t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830020101:0110/pct:60.70926417747227,75.81509082440614,17.387908139353225,1.3507219375873312/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830020101:0110/pct:60.69978131833802,75.80626382582373,17.3903988336978,1.3544456087243373/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -112,7 +112,7 @@ th, members present and consenting thereto
 their own Clerk, who shall take an oath to keep  
 secret such matters as he shall be ordered b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830020501:0135/pct:79.43042872620337,22.30928785434432,14.595263891038538,2.9960820465545055/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830020501:0135/pct:79.4181367997524,22.306717363751584,14.598163623233262,2.999577524292353/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -131,7 +131,7 @@ called for by them. The Council sliull appoint
 their own Clerk, who shall take an oath to keep  
 secret such matters as he shall bo ordered by
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830021201:0139/pct:80.02419476788144,22.460690921611384,14.320278239830637,2.5020084930563526/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830021201:0139/pct:80.01209555488359,22.458113380766584,14.323152907972986,2.5055466299441513/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -149,7 +149,7 @@ before the General Assembly w lieu called (or by them. The
 council shall appoint their own clerk, who shall take an oath to  
 keep secret such matters as he shall he ordered by the lioard t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021801:0170/pct:60.89722675367047,76.26334519572954,18.091353996737357,1.9217081850533808/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021801:0170/pct:60.88729407926929,76.25429960858736,18.09384004784429,1.9254339145218045/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -167,7 +167,7 @@ The-council shall appoint their own -clerk, who
 shall take an oath to keep secret such matters  
 as lie shall be ordered by die board In conceal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1830021801:0249/pct:61.51843817787419,49.538073908174695,18.177874186550977,2.1836506159014557/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1830021801:0249/pct:61.505096508349595,49.53114065780266,18.17935371936673,2.186843946815955/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -185,7 +185,7 @@ before the General Assembly when caller! lor by them. The
 council shall appoint their own clerk, who shall take an oath to  
 keep secret such matters as he shall tie ordered by tho Hoard t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021901:0174/pct:60.838936919628566,74.91115849324805,17.65930195325008,1.847903340440654/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021901:0174/pct:60.829198015047226,74.90228591732796,17.661811002614588,1.8516325160882783/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -203,7 +203,7 @@ before the General Assembly when called for by them. Tho
 council shall appoint their own clerk, who shall take an oath to  
 keep secret such matters as he shall be ordered by the Hoard t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022501:0194/pct:78.96019496344435,36.09704392886586,18.09910641754671,1.8961253091508656/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022501:0194/pct:78.94736842105263,36.09279321714555,18.10158111327702,1.8998272884283247/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -220,7 +220,7 @@ before the General Assembly when called for by them. The
 council shall appoint their own clerk, who shall take an oath to  
 keep secret such matters as he shall be ordered by the Board t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030201:0210/pct:78.82736156351791,35.900783289817234,18.192182410423452,1.5309755518632804/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030201:0210/pct:78.81452532160885,35.89652308057435,18.19464799435488,1.5347494165578894/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -237,7 +237,7 @@ hetore the General Assembly when called for by them. The
 council shall appoint their own clerk, who shall take an oath to  
 keep secret such matters as he shall be ordered by the Board t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030401:0218/pct:79.26513434768533,36.74049508468554,18.17740369051473,1.4212957479568873/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030401:0218/pct:79.25230619841398,36.73614400757935,18.1798565032098,1.4250750039475761/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -255,7 +255,7 @@ Itelnrc the General Assembly when called for by them. The
 council shall appoint their own clerk, who shall take an oath to  
 keep secret such matters as he shall he ordered by the Board t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030501:0222/pct:79.3485342019544,36.01805654549774,18.175895765472312,1.9600855310049894/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030501:0222/pct:79.33561309233023,36.01377835847488,18.17836400151984,1.963812012511383/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

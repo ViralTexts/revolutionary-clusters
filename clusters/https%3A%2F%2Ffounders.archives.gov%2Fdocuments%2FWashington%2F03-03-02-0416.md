@@ -311,7 +311,7 @@ heaven, revered by all good men, and
 dreaded by those tyrants who claim  
 their fellow men as their property.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_dunning_ver01:data:sn84022835:00237285050:1894060801:0843/pct:207.13114754098362,293.0872959545777,57.21311475409836,30.660042583392478/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_dunning_ver01:data:sn84022835:00237285050:1894060801:0843/pct:51.8040180401804,73.27182398864443,14.309143091430915,7.6650106458481195/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

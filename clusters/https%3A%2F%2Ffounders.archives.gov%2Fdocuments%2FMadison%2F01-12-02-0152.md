@@ -75,7 +75,7 @@ the language of the learned Judge is:
 That the powcer of the President to remore offt­  
 cers appointed with the concarrence of the Nenote
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477850:1868031201:0455/pct:78.15491731940818,41.03733257338273,51.43603133159269,13.679110857794244/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477850:1868031201:0455/pct:19.5472355245973,10.259333143345682,12.864606007836308,3.419777714448561/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -165,7 +165,7 @@ ion in the main case,-has denied .Watson&#x27;s
 | petition for a writ of mandate compelling  
 I the Auditor to sign his salary d
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_dogtown_ver01:data:sn85066387:00175037342:1896021101:0191/pct:28.985282726568553,84.75750577367205,13.508907823392718,10.704387990762125/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_dogtown_ver01:data:sn85066387:00175037342:1896021101:0191/pct:28.985282726568553,84.75750577367205,13.5140717789827,10.712086220169361/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -197,7 +197,7 @@ arose in the case of Cole. It appears
 that in addition to the bond of $40,000  
 prescribed by the statutes as the bon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gecko_ver01:data:sn84020558:00202192191:1896063001:0620/pct:100.27262813522356,39.85051809070834,23.36423118865867,13.385425513844064/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gecko_ver01:data:sn84020558:00202192191:1896063001:0620/pct:75.27967257844475,29.896381858331917,17.544338335607094,10.039069135383047/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -220,7 +220,7 @@ directly to dismiss such officer himself
 law that the power of removal Is incident  
 to the power of appointment, and, there
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ibizanhound_ver01:data:sn83045462:00280655156:1897091401:0506/pct:29.385307346326837,74.04824989541207,13.718140929535233,3.918560870171524/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ibizanhound_ver01:data:sn83045462:00280655156:1897091401:0506/pct:29.399362818590706,74.05173615953144,13.708770614692654,3.9255333984102636/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -242,7 +242,7 @@ grin, and they are rushing back with
 fervent haste to the pie counter. This  
 decision will be received with eclat b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_bentonite_ver02:data:sn95060797:00517019264:1897100201:0116/pct:27.852120662281695,86.5040650406504,20.43547289634838,5.558019216555802/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_bentonite_ver02:data:sn95060797:00517019264:1897100201:0116/pct:27.859680955621076,86.5040650406504,20.43547289634838,5.562946538556295/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -261,7 +261,7 @@ Is a natural consequence of such power.
 Numerous eminent authorities are cited  
 by both gentlemen in support of their re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_fletcher_ver01:data:sn86063034:00414182227:1897102501:0548/pct:31.471238938053098,51.89566704675028,12.776548672566372,2.1664766248574687/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_fletcher_ver01:data:sn86063034:00414182227:1897102501:0548/pct:31.471238938053098,51.89566704675028,12.776548672566372,2.1807297605473206/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -281,7 +281,7 @@ legislature to confer the authority to both
 appoint end remove members of the force.  
 Thu brief contends that the question Is on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_alliance_ver01:data:sn99021999:00206539434:1897120901:0067/pct:4.68299711815562,80.62101469365123,17.002881844380404,3.2991405600221793/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_alliance_ver01:data:sn99021999:00206539434:1897120901:0067/pct:3.51288056206089,60.465761020238425,12.772473428211134,2.481286387579706/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -301,7 +301,7 @@ tribunal for removal.
 This can be sustained without reversing  
 Hoke vs. Henderson. That case Jut
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_griffin_ver01:data:sn85042104:00332892058:1899112401:0490/pct:35.52327500825355,55.77715877437326,14.592274678111588,2.896935933147632/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_griffin_ver01:data:sn85042104:00332892058:1899112401:0490/pct:35.534279740288326,55.78087279480037,14.581269946076812,2.89322191272052/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

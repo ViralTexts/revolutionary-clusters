@@ -140,7 +140,7 @@ from instructions to cur minister at Lon­
 don, now communicated.  
 TH: JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806012201:0002/pct:59.8471615720524,1.638206302929335,37.467248908296945,96.16826322365681/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806012201:0002/pct:59.861717612809315,1.638206302929335,37.48180494905386,96.17751862649821/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -205,7 +205,7 @@ ail exirail from in ft r«(9 ions to our minifeerat Lon­
 don, now communicated.  
 TH: JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1806012801:0325/pct:60.98463816398297,15.759825886570221,18.04553026096613,27.640506977339648/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1806012801:0325/pct:60.97335307179867,15.757808499743984,18.048359240069086,27.641235705751836/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -285,7 +285,7 @@ structions to our m mister at London,
 , now communicated.  
 TH t JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806012801:0037/pct:41.06261859582543,34.8761830675483,18.25426944971537,41.6699079476209/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806012801:0037/pct:41.05482830582432,34.8716619134042,18.257130209321446,41.66882724051508/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -371,7 +371,7 @@ si have been urged, will appear in-an e-Xtract&#x27;
 adonssnow communicated.  
 &#x27; . Tli: ]EFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1806012901:0168/pct:4.052520667855406,4.305674365554605,25.15804830604636,55.28942115768463/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1806012901:0168/pct:4.051863857374392,4.305265158715073,25.159373311723392,55.287334473800925/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -452,7 +452,7 @@ inftructions to our minider at London,
 now communicated.  
 TH : YEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1806013001:0690/pct:24.87213487402917,3.772889271230183,40.53798067815874,91.16381958952931/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1806013001:0690/pct:24.878449201237608,3.772889271230183,40.53798067815874,91.17610913112941/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -722,7 +722,7 @@ imiructions to our minifter at Lon­
 tlou, new communicated.  
 Th JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895060:1806020301:0773/pct:1.1158072696534236,4.348750664540138,36.26373626373626,92.2488038277512/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895060:1806020301:0773/pct:1.1156186612576064,4.348288326600042,36.26183231913455,92.24165426323623/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -893,7 +893,7 @@ Tins Mr. President, ia the prospect
 presensedtn our view, whereby thou­  
 brands of ourun seamen, Hin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806021901:0001/pct:4.149556948346661,80.07211205103314,17.851739788199698,8.376092081542089/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806021901:0001/pct:4.149556948346661,80.08135718578099,17.86614797204812,8.366846946794249/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -929,7 +929,7 @@ This, Mr. President is the prospect presented to
 men, that hardy and invaluable class of citizens, are  
 consigned to the most intolerable bondage, (by th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806022601:0979/pct:31.580222976248184,44.5460378569137,20.84343189529811,7.154315046519089/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806022601:0979/pct:31.572570874727404,44.53889334402566,20.84443905984977,7.157177225340818/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1171,7 +1171,7 @@ Will appear in an extract
 1 from instructions to our minister at Lon­  
 i, now communicated.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806041101:0001/pct:2.3112480739599386,5.436139231729302,76.33722209993397,94.34197753432257/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806041101:0001/pct:2.3259226649057156,5.436139231729302,76.32988480446107,94.34660010169648/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1472,7 +1472,7 @@ in distant seas, has been constantly pursued in
 our neighborhood.” Congress took up the  
 President’s Messsage, with the memorials o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814080201:0125/pct:57.880512091038405,57.53649811466693,16.82788051209104,4.486125882239196/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814080201:0125/pct:57.88525367472736,57.539720906248995,16.823138928402088,4.489348673821264/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1494,7 +1494,7 @@ passed away, and the practice, though relaxed
 at times in the distant seas, has been constantly  
 pursued in those in our neighborhood. Specia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042945:1897070401:0439/pct:157.58258258258257,324.8937462052216,49.92492492492492,14.754098360655737/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042945:1897070401:0439/pct:39.395645645645644,81.2234365513054,12.48123123123123,3.6885245901639343/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

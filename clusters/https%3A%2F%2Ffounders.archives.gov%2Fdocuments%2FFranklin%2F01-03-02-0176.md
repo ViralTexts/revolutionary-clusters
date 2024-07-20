@@ -5377,7 +5377,7 @@ Of high determined spirit roughly brave*
 By ancient learning to th&#x27; enlightened love*  
 Of ancient freedom warm&#x27;d. Thompson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021193:00517172169:1771121901:0153/pct:6.274681878016674,32.22268499236429,27.468187801667398,5.525475496320977/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021193:00517172169:1771121901:0153/pct:4.87417819088642,24.975791701036474,21.282022217184313,4.285765520209447/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9603,7 +9603,7 @@ mingled with that of Charles: he has
 left a name at which the world grew1  
 pale, literally, and substantially, “t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021201:00517172108:1821091901:0069/pct:99.60929021054916,32.02247191011236,22.596049489906665,33.55337078651685/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021201:00517172108:1821091901:0069/pct:77.19524503756868,24.821305467871266,17.511494897387013,26.004136279525415/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10168,7 +10168,7 @@ G16,73$, 107,661,000 ways, and will express all
 things in a very narrow compass. It seems the  
 author of this miracle is lost, and is put dow 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215609:1835112601:0120/pct:26.75626835328665,83.3171024046745,17.84504178902191,4.314929957300173/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215609:1835112601:0120/pct:26.753246753246753,83.31086142322097,17.84679089026915,4.317103620474407/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10393,9 +10393,9 @@ And winter barricades the realms of frost.
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_april-may-1840_7_28-29/page/n118/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_april-may-1840_7_28-29/page/n118/mode/1up?view=theater)
 
-#### 1840-04-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1840-04-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -10472,7 +10472,7 @@ table perseverance; like Sweedish Charles, i t
 A frame of adamant, a soul of fire  
 No dangers fright him, and no labors tire
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215749:1844021601:0024/pct:20.979575649415033,5.957787870691958,29.26829268292683,90.87630243120492/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215749:1844021601:0024/pct:20.977495786656092,5.957389968610165,29.26869568090942,90.87245931565707/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10536,7 +10536,7 @@ Ai.u shews his miseries in distant lands;
 Condemned a needy suppliant to wait,  
 While ladies interpose and .-laves debate.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661344:1844110201:0433/pct:19.338933528122716,16.039553101322717,15.577063550036524,6.279696930782072/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661344:1844110201:0433/pct:19.345020696372046,16.043833739994007,15.577063550036524,6.279696930782072/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10726,7 +10726,7 @@ The mission of Art has ever been held a sacred
 one. From the earliest times, when the benighted  
 mind began to emerge from the shadows of barbar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_diglett_ver01:data:sn82015378:00295872354:1851022401:0198/pct:53.32125603864734,116.35182998819363,38.405797101449274,35.773317591499406/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_diglett_ver01:data:sn82015378:00295872354:1851022401:0198/pct:17.773752012882447,38.78394332939787,12.801932367149758,11.92443919716647/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10971,7 +10971,7 @@ Of happiness, nor know it is a shade ;
 But gaze, and touch, and peep and peep again,  
 And wish, and wonder it is absent still
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn82015099:00279556653:1858121801:0150/pct:49.53703703703704,50.73048559899819,12.518518518518519,5.120356198692083/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn82015099:00279556653:1858121801:0150/pct:49.541666666666664,50.73048559899819,12.51388888888889,5.1273132043968275/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11065,7 +11065,7 @@ Who strive to grasp it, as they touch, destroy:
 &#x27;I is the world&#x27;s debt to deeds of high degree;  
 But if you pay yourself, the world is free.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296242:1863021301:0237/pct:129.3594306049822,269.92694805194805,49.22894424673784,6.452922077922078/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296242:1863021301:0237/pct:32.33985765124555,67.48173701298701,12.30723606168446,1.6132305194805194/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11085,7 +11085,7 @@ Uuconquertd lord of pleasare and of pain.
 No joys to him pacific sceptres yipld;  
 War sounds the trump, he rushes to the field &quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762465:1863051901:0107/pct:69.4291212315587,46.853684311653375,11.007055805003207,2.1904121433374963/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762465:1863051901:0107/pct:69.43767372247167,46.853684311653375,11.011332050459696,2.1936145002722003/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11339,7 +11339,7 @@ Hide, Muhiiiit glor-, hide I&#x27;uliowa&#x27;s day :
 The vaiiqiiisl.i&#x27;d hero leavi Ins l.rokcii lianiW,  
 And shuws hu mi-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280775010:1874092401:0505/pct:10.850773430391264,44.87702037947997,17.925386715195632,12.24174279690794/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280775010:1874092401:0505/pct:8.149328477122696,33.66127898805341,13.453221033462327,9.177793394237526/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11731,7 +11731,7 @@ As men of wealth may venture to go plain.
 1 find the fool when 1 behold the screen.  
 For &#x27;tis the wise man&#x27;s interest to be seen.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_avenger_ver01:data:sn91099608:00415665398:1883100801:0859/pct:68.50152905198777,65.99670016499175,14.311926605504587,1.7849107544622769/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_avenger_ver01:data:sn91099608:00415665398:1883100801:0859/pct:54.800478416875066,52.80188792448302,11.45482222463847,1.4399424023039078/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11793,7 +11793,7 @@ To breed new wants, and beggar us the
 more.&quot;  
 IThe True Test
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_chaska_ver01:data:sn83025287:00175035576:1883120901:0351/pct:16.905005107252297,77.1238549378843,12.342526387470208,3.89007403689296/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_chaska_ver01:data:sn83025287:00175035576:1883120901:0351/pct:16.916354556803995,77.12803781319279,12.33685166269436,3.894256912201447/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11887,7 +11887,7 @@ Mcch learning shows how little mor­
 tals know; much wealth how little world­  
 lings enjoy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_beatles_ver01:data:sn84027718:00271762677:1885021801:0275/pct:110.658124635993,38.92167071618651,13.70122306348282,2.753673493000116/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_beatles_ver01:data:sn84027718:00271762677:1885021801:0275/pct:83.00567933595457,29.191253037139884,10.281054317751565,2.0710401480967255/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11967,7 +11967,7 @@ tals know; much wealth, how little
 worldlings enjoy.  
 To an honest mind the best perquisite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_elliot_ver01:data:sn87068079:00332896465:1885070901:0112/pct:86.18719542933961,81.99119627136199,10.939337926398924,3.9875712066286897/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_elliot_ver01:data:sn87068079:00332896465:1885070901:0112/pct:86.17271505376344,81.98058252427184,10.941700268817204,3.9902912621359223/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11993,7 +11993,7 @@ To an honest mind the best perquisite
 &quot;Heaven his great soul does claim  
 In storms, as loud as his immortal fame.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_geo_ver01:data:sn83030214:00175038061:1885080201:0286/pct:161.2,213.5287356321839,33.552,2.9195402298850577/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_geo_ver01:data:sn83030214:00175038061:1885080201:0286/pct:53.733333333333334,71.17624521072797,11.184,0.9731800766283525/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12031,7 +12031,7 @@ tals know; much wealth, how little
  worldlings enjoy.  
 To an honest mind the best perquisite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_licklog_ver01:data:sn85042052:00416157170:1885091901:0106/pct:197.11425206124852,200.10140959334754,57.95053003533569,65.51059730250482/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_licklog_ver01:data:sn85042052:00416157170:1885091901:0106/pct:49.27856301531213,50.025352398336885,14.487632508833922,16.377649325626205/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12061,7 +12061,7 @@ Much learning shows how little mor­
 tals know; much wealth how little  
 worldlings enjoy.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn87068192:00279529625:1885112601:0793/pct:77.7043401630315,30.34871326328613,14.562679004185943,3.7460027409776155/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn87068192:00279529625:1885112601:0793/pct:77.68722466960352,30.34409257003654,14.564977973568283,3.7492387332521315/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12080,7 +12080,7 @@ Much learning shows how little mortals
 know; much wealth, how little worldlings  
 enjoy.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00202194059:1886011301:0335/pct:43.5599778883361,69.05559276624247,15.008291873963516,3.1097502631327147/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00202194059:1886011301:0335/pct:43.5599778883361,69.06197174114119,15.02211166390271,3.1097502631327147/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12099,7 +12099,7 @@ Much learning shows how little mor­
 tals know; much wealth, how little  
 worldlings enjoy.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_larch_ver01:data:sn93051663:00295867711:1887012101:0197/pct:7.3712507074136955,118.80894933099364,14.134125636672326,4.233384514147839/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_larch_ver01:data:sn93051663:00295867711:1887012101:0197/pct:5.532757888778831,89.10945382759377,10.612706947785481,3.1805220443079625/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12293,7 +12293,7 @@ Much learning shows how little mortals
 know; much wealth how little worldings  
 enjoy.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_gargoyle_ver02:data:sn92064114:00514153292:1888071401:0445/pct:72.07006369426752,45.6244348437657,20.191082802547772,2.5318999296694464/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_gargoyle_ver02:data:sn92064114:00514153292:1888071401:0445/pct:72.07006369426752,45.63113299172779,20.212314225053078,2.5318999296694464/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12361,7 +12361,7 @@ that he bought a cow to rido on. Tho
 wolf sheds his coat once a year, his dis  
 position never. The eaglo snatches 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_middlebury_ver01:data:sn84022871:0020219641A:1891011901:0222/pct:66.62735849056604,83.95943988411395,14.66194968553459,4.249154997585707/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_middlebury_ver01:data:sn84022871:0020219641A:1891011901:0222/pct:49.98689384010485,62.97440849831,11.009174311926605,3.1868662481892804/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12382,7 +12382,7 @@ that he bought a cow to ride on. The
 wolf sheds his coat once a year, his dis­  
 position never. The eagle snatches 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_beatles_ver01:data:sn84027718:00271762707:1891012101:0249/pct:50.04100601421542,117.53354774315183,14.37944231820667,4.657868470666519/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_beatles_ver01:data:sn84027718:00271762707:1891012101:0249/pct:37.549569260221524,88.15570588887657,10.789005879939833,3.4934013529998893/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12443,7 +12443,7 @@ that he bought a cow to ride on. The
 wolf sheds his coat once a year, his dis  
 position never. The eagle snatches 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jay_ver01:data:sn97067613:00202197309:1891021201:0029/pct:22.831293241085685,103.2258064516129,12.320383182543907,3.9867109634551494/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jay_ver01:data:sn97067613:00202197309:1891021201:0029/pct:17.1303074670571,77.41935483870968,9.250632237455077,3.000750187546887/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12578,7 +12578,7 @@ either hold or drive.
 You can bear your own faults, and why not  
 a fault in your wife ?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685142:1891080601:0591/pct:50.388833499501494,51.78425497139744,21.3160518444666,3.010078997548352/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685142:1891080601:0591/pct:50.378787878787875,51.77720277815607,21.318447634237106,3.014208543283853/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12668,7 +12668,7 @@ know much wealth how little worldlngs
 enjoyJ3 Young  
 What n death In life i must bean ex
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_dantley_ver01:data:sn85058130:00175048613:1894090201:0184/pct:86.81672025723472,121.97678350050715,19.228295819935692,2.671024456215485/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_dantley_ver01:data:sn85058130:00175048613:1894090201:0184/pct:57.90574231944668,81.32161238213307,12.83577288081068,1.7844396859386153/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12721,7 +12721,7 @@ mortals know; much wealth, how
 ; little worldlings enjoy.  
 The poorest education that teache
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_carlin_ver01:data:sn84022060:0033289058A:1894101101:0960/pct:2.4229074889867843,12.26231471777212,36.34361233480176,84.41383440634826/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_carlin_ver01:data:sn84022060:0033289058A:1894101101:0960/pct:2.422373926447919,12.260479041916168,36.34111429200617,84.40494011976048/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12741,7 +12741,7 @@ tals know; much wealth, how little
 worldlings enjoy. E. Young.  
 It is not so much the being exemp
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_caliente_ver02:data:sn86091346:00415668545:1894101801:0168/pct:93.38709677419355,81.00172711571675,16.29032258064516,4.418537708693149/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_caliente_ver02:data:sn86091346:00415668545:1894101801:0168/pct:70.05444646098003,60.751295336787564,12.220205686630369,3.324697754749568/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12829,7 +12829,7 @@ mortals know; much wealth, how
 little worldlings enjoy.—The South-  
 West.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lydia_ver01:data:sn87080287:00296028782:1896112301:1051/pct:55.447016351667024,18.312020460358056,12.125716712677852,12.310315430520035/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lydia_ver01:data:sn87080287:00296028782:1896112301:1051/pct:55.447016351667024,18.312020460358056,12.139874000141573,12.327365728900256/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12847,7 +12847,7 @@ Much learning shows how little
 mortals know; much wealth, how little  
 wordltngs enjoy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_nittany_ver01:data:sn86053634:00212478040:1896121601:0514/pct:33.907085561497325,73.883070396394,14.572192513368984,2.452605064298025/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_nittany_ver01:data:sn86053634:00212478040:1896121601:0514/pct:25.447249623808727,55.415617128463474,10.934626316669453,1.8427681293914888/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12866,7 +12866,7 @@ mortals know; much wealth, how
 little worldlings enjoy.—The South-  
 West.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lydia_ver01:data:sn87080287:00296028782:1897011801:1117/pct:55.26483726866624,28.004807692307693,12.06126356094448,2.7472527472527473/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lydia_ver01:data:sn87080287:00296028782:1897011801:1117/pct:55.27192795859037,28.010531135531135,12.06126356094448,2.764423076923077/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12964,7 +12964,7 @@ that he bought a. cow to ride on,&quot; one of the
 compliments which especially pleased him was  
 the recognition of his contributions to scienc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_franklin_ver01:data:sn84024441:211103176:1898122801:0106/pct:84.02001177163037,131.6792601781888,17.70158917010006,2.7179429344761474/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_franklin_ver01:data:sn84024441:211103176:1898122801:0106/pct:56.03473653223433,87.78617345212587,11.80453341183397,1.8157212134882148/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13065,7 +13065,7 @@ Much learning shows how little mor­
 tals know; much wealth, how little  
 wi. ridings enjoy.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_pipit_ver04:data:sn85042400:00202194333:1899110501:1051/pct:93.59683794466403,104.31726907630522,15.988142292490119,3.82960413080895/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_pipit_ver04:data:sn85042400:00202194333:1899110501:1051/pct:70.21150424985174,78.24153757888698,11.998418659814192,2.8686173264486516/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

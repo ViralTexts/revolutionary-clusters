@@ -155,7 +155,7 @@ tfitain, but of their cunn :cnce th a‘lie mi-,
 .his p iper w..s rent i;»e . hatefy after the.  
 ^/tka .ago Oi tub bill lUl mK.KII.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808042201:0455/pct:75.58097962102252,36.91382273508471,18.430461208437613,58.065308126687945/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808042201:0455/pct:75.5674709562109,36.90929176383945,18.433124813821866,58.062272411112474/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -185,7 +185,7 @@ With great respect and festOcm,
 Your very obedient servant,  
 (Signed) JAMES MONROE.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808042201:0456/pct:5.50098231827112,2.355798421372192,17.288801571709232,9.435336976320583/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808042201:0456/pct:5.5,2.355512384652744,17.291666666666668,9.43823862716529/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -211,7 +211,7 @@ confidence, that, tbe mated
 with the same desire. I cannot help remark- &#x27;  
 ing likewise the fact, that r wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808122301:0001/pct:59.084632077332806,54.08004158004158,16.768593410929178,6.730769230769231/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808122301:0001/pct:59.091207996317486,54.084372834372836,16.775169329913854,6.730769230769231/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -264,7 +264,7 @@ correctly, in all respects, of the light in
 which the incident of this day ought to be  
 viewed.*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809011001:0310/pct:23.568125222340804,5.340838023764853,17.36036997509783,21.88868042526579/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809011001:0310/pct:23.56393384314423,5.340170085042521,17.363210623036338,21.89011172252793/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -294,7 +294,7 @@ every
 44 but the direct route between the colony and the parent  
 “ country ” “&#x27;i - ■ = - 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1810121701:0266/pct:25.318989241931448,80.16181229773463,21.341005754315738,9.142394822006473/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1810121701:0266/pct:25.31265632816408,80.14884322925093,21.34192096048024,9.144960362400907/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -334,7 +334,7 @@ lonics, in every buc che: direct roun- be- .
   
 tween the coluny and the parent country.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216122:1810122401:0569/pct:24.853715623171446,65.77217469608284,23.22995904037449,17.217469608284556/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216122:1810122401:0569/pct:24.850080444639463,65.76625247613903,23.231436790015113,17.218920703523622/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -426,7 +426,7 @@ of the mouth of the Seine, ** except in articles
 Contraband of war and enemies property  
 which are seizihle without blockade. ” Ani
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812062201:0192/pct:8.665966386554622,7.055503292568203,16.719187675070028,2.246001881467545/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812062201:0192/pct:8.664449501137756,7.054673721340388,16.722095804889435,2.2496570644718794/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -509,7 +509,7 @@ i “ that the note was drawn hy the government, in reference to the ques­
 i “tion, and if intended as the foundation of a treaty must be viewed in  
 i “a favorable light.” On the 20th of May, Mr Monroe, writes to Mr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1812071701:0278/pct:35.287138111058376,78.84362680683311,30.398671096345517,8.307782157979267/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1812071701:0278/pct:35.27876631079478,78.83211678832117,30.397390272835114,8.31021897810219/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -557,7 +557,7 @@ Mr.To* is authorised to form fiteeaty, and Ob­
 tained by him for that purpose, it muit bn vie w­  
 ed i*a veryfiteurifote ItehtX ,, „ 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813030101:0376/pct:25.46237648847226,61.36660143509459,21.81403597669116,16.291585127201564/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813030101:0376/pct:25.455927051671733,61.356595467144956,21.81484295845998,16.293005054622533/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -228,7 +228,7 @@ and Contentment at home—Prosperity, Order, Justice, Peace and
 Liberty . And may Cod Almighty&#x27;s Providcnce aflift you to anf­  
 v-cr their just expectations
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789042201:0003/pct:2.8708133971291865,30.071277210556733,26.435406698564595,63.186283952995566/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789042201:0003/pct:2.8932416267942584,30.080909266037374,26.420454545454547,63.20554806395685/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -366,7 +366,7 @@ Peace and Liberty ;=—Andmay GOD
 Almighty’s Providence aflit you to  
 an{wer their just expetations
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789050601:0382/pct:49.53522504892368,4.7718845719813,42.83268101761252,87.2158632919555/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789050601:0382/pct:49.54337899543379,4.7718845719813,42.840834964122635,87.2319845236176/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -775,7 +775,7 @@ cenmon blessing to the Country that possesses
  teen seen by all men and mistaken by none.&quot;  
 of the other persons voted for by the Plectors
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530170:1842113001:0423/pct:1.2287194670614359,215.12281432139883,49.5780903034789,28.455453788509576/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530170:1842113001:0423/pct:0.4095731556871453,71.70760477379962,16.526030101159634,9.485151262836526/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -812,7 +812,7 @@ dtsiineily visible, as lo have been seen
 I by all men and mistaken by none &quot;  
 Of the other persons voted tor bv th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn83035366:00296029087:1842123001:0486/pct:65.84380610412926,11.424196018376723,39.63195691202873,118.19295558958652/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn83035366:00296029087:1842123001:0486/pct:49.405162738496074,8.575803981623277,29.74186307519641,88.63705972434916/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -897,7 +897,7 @@ It Iron Ita true esuse and not from ?ny
 #tnt of respect, and excuse and pardon  
 inc. Gentlemen ol the Legislature, H 1&gt;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_france_ver01:data:sn84026844:00202193444:1879010901:0036/pct:13.564746430329887,3.215713540761342,25.849335302806498,93.84668868416479/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_france_ver01:data:sn84026844:00202193444:1879010901:0036/pct:13.583210241260463,3.2200590996002085,25.837026095519448,93.85972536068138/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -916,7 +916,7 @@ gerous to his reputation, or disproportionate
 to his talents.&quot; These words of Mr. Adams  
 have been wonderfully comforting to m
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777067:1880082001:0135/pct:138.05637982195844,175.2002209334438,37.982195845697326,6.95940347970174/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777067:1880082001:0135/pct:34.52049712483769,43.80005523336095,9.497310332034873,1.739850869925435/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

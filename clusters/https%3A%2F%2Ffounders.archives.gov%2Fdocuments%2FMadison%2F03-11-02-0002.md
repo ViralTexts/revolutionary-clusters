@@ -149,7 +149,7 @@ inhabitants of the province of Canada, and who
 during the said war, joined the armies of the  
 United States, as voluateers, &amp; were slain, die
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1816042301:0501/pct:41.51932873838777,10.469276094276093,17.126161222655078,14.993686868686869/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1816042301:0501/pct:41.529317750474476,10.472783389450056,17.126161222655078,14.997194163860831/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -171,7 +171,7 @@ United States shall prescrile.
 ~ Sec. 2. nd beit further enacted, That the  
 Secretary of the Department of War for th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1816042301:0501/pct:41.354510038957145,37.02651515151515,17.141144740785137,4.619107744107744/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1816042301:0501/pct:41.36449905104385,37.03352974186308,17.13115572869843,4.622615039281706/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -304,7 +304,7 @@ V
 the ler i t.n i\, i  
 to be rrn r at Jefl&#x27;. js
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183906:1816050801:0316/pct:63.452646001027574,2.612886859462202,34.28669292687104,93.79756468797565/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183906:1816050801:0316/pct:63.44178082191781,2.6125554850982877,34.2865296803653,93.78989642781653/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -352,7 +352,7 @@ By the President,
 JOSHH MEIGS,  
 Com&#x27;r Gen Lund office
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816051101:0151/pct:56.82451253481894,30.653089887640448,16.678272980501394,16.56132958801498/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816051101:0151/pct:56.81462140992167,30.649502633118782,16.68117203365245,16.56329237370782/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -396,7 +396,7 @@ foayille to be made at Jefferfonville, SR
 ©[iGijén under my hand, the firk day of.  
 © | &#x27; Moy, oce thousand eight hundred&#x27;and fix=
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1816051401:0515/pct:79.01515151515152,73.62828241544906,17.59090909090909,17.24736895882293/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1816051401:0515/pct:79.02525252525253,73.63168829399544,17.585858585858585,17.24736895882293/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -441,7 +441,7 @@ By the President, ,
 JOSIAH MEIGS, 1  
 Com&#x27;r of the Gen. Land Office
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1816051501:0282/pct:73.86317083162638,17.825613738057807,22.83900040966817,17.934453984762367/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1816051501:0282/pct:73.86999863443944,17.825613738057807,22.83900040966817,17.942516225259/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -487,7 +487,7 @@ thousand eight hundred and s.xteon
 ly the President,  
 | • J URIAH MR ICR
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816051501:0158/pct:41.52601969057665,75.42138074347726,16.736990154711673,15.977834218425306/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816051501:0158/pct:41.518720337493406,75.41267459309708,16.739907423683132,15.979837623609988/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -561,7 +561,7 @@ By the Pres dent,
 JOSI !l .MEIGS,  
 Com’r Gen Land office
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816051801:0162/pct:43.71813546977422,74.57289960215306,17.297887836853604,16.569155160308917/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816051801:0162/pct:43.71017658838522,74.56417456417456,17.300807087808725,16.571116571116573/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -663,7 +663,7 @@ Pythke Prefideaty - .- . LTy V 2
 } &#x27; JOsSiAH MEIGS, on s  
 Com’r. of the Gen. Land Office. L R 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1816052101:0517/pct:23.859386686611817,66.53494176372712,17.412116679132385,20.50748752079867/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1816052101:0517/pct:23.864372974320617,66.53840820854133,17.412116679132385,20.504021075984472/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -706,7 +706,7 @@ the locations in the district of Jeffersonville.
 Given under my hand the firsi day of ;\iay. one  
 thousand eight hundred and sixteen.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1816052201:0287/pct:3.751013787510138,60.208717004297114,23.13463098134631,15.850214855739718/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1816052201:0287/pct:3.7645309543119763,60.208717004297114,23.14814814814815,15.854307346020054/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -754,7 +754,7 @@ JOS1AII MEIGS,
 Com&#x27;r (icn Land office.  
 The printers of the Laws of the Unite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816052201:0163/pct:6.855184233076264,60.904129093497865,16.10968294772922,17.346938775510203/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816052201:0163/pct:6.854009595613434,60.896903547277255,16.11263422435458,17.34883536995294/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -859,7 +859,7 @@ Bv tlie President,
 JOSIAH MEIGS,  
 Cotn’r Gen l.nnil office
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816052501:0167/pct:6.153032440056418,61.89303307529909,16.53737658674189,16.619751348815388/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816052501:0167/pct:6.151947823021329,61.8857745983347,16.540337270109877,16.621711426449316/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1052,7 +1052,7 @@ fonyille to: be made at Jefferfonville, -~~~
 ~ Given under, my hand the firk day of  
 . May, one thoufsnd cight hundred and fix
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1816052801:0521/pct:5.296706632265898,73.07455960671855,17.498861739262406,17.33920524375256/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1816052801:0521/pct:5.3068245054889465,73.07797350812508,17.493802802650883,17.33920524375256/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1098,7 +1098,7 @@ By the President,
 JOSIAH MEIGS,  
 1 Coi&#x27;r of the Gen. Land Office
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1816052901:0291/pct:0.7336458121051559,63.86906226925917,25.249643366619114,18.779227172040365/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1816052901:0291/pct:0.7404388288839073,63.877266387726635,25.256436383397865,18.775125112806627/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1248,7 +1248,7 @@ act granting twunties in land and extra
 pay to certain Canadian volunteers.  
 lie it enacted bu the Senate and house o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816071701:0230/pct:26.470588235294116,87.90068772584218,16.526610644257705,2.5177759645646347/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816071701:0230/pct:26.327703290962912,87.89044289044288,16.443206222067445,2.5213675213675213/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1304,7 +1304,7 @@ AN ACT suppletnentary to an act entitled ¢ An &quot;
 act granting bounties in land and extra pay  
 to certain Canadiafi volunteers.” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1816082701:0573/pct:77.54760091393754,55.41538461538462,17.06016755521706,1.764102564102564/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1816082701:0573/pct:77.55267834475755,55.41538461538462,17.06016755521706,1.764102564102564/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1578,7 +1578,7 @@ to certain Canadian volunteers,’’ approved March 5
 and amend the act granting bounties in land, and  
 extra pay to certain Canadian volunteers, approve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_diglett_ver01:data:sn82015378:0029587238A:1848070601:0021/pct:12.480650154798761,130.24839743589743,43.421052631578945,2.8044871794871793/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_diglett_ver01:data:sn82015378:0029587238A:1848070601:0021/pct:4.160216718266254,43.41613247863248,14.473684210526315,0.9348290598290598/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

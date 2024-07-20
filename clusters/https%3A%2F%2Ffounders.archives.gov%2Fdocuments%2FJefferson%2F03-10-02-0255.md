@@ -77,7 +77,7 @@ Action by the people, will be «!• ireand it as* ic
 t bvicl by fheinselvi and .a i»r&lt; • ut-.tii u will  
 thus b&lt; viibstjfuit d v ie * j . r* omd .n f&#x27; be.-. me
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348811:1826120401:0141/pct:36.15336528443426,78.58361774744027,15.148989372785998,13.708759954493743/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348811:1826120401:0141/pct:36.145833333333336,78.57244419166786,15.151041666666666,13.710365420162093/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -157,7 +157,7 @@ claiming icprem illation !*»r them hum tlie o­
 Accept the renewal of assurances ofmy respect  
 TH : JEKTEHSGN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348811:1826120401:0141/pct:51.53156907689102,7.949374288964733,15.065638674723902,32.33788395904437/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348811:1826120401:0141/pct:51.520833333333336,7.948243992606285,15.067708333333334,32.33684060855965/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -299,7 +299,7 @@ Accept the renewal of assurances of
 my respect.  
 _’ TH: JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn84024505:00542866962:1826120501:0694/pct:44.227047946678134,3.122058362096015,26.42442485486992,93.31659868214622/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn84024505:00542866962:1826120501:0694/pct:44.217540842648326,3.1215686274509804,26.424118658641444,93.30588235294118/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -416,7 +416,7 @@ the other states, and refusing it within our own.
 Accept the renewal of assurances of my respect.  
 TH: JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826120501:0262/pct:35.30559167750325,4.411051866214251,31.323146944083224,94.26805622879301/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826120501:0262/pct:35.29985372988786,4.410517387616625,31.323473644292758,94.26067288662709/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -539,7 +539,7 @@ in our own.
 Accept the renewal of assurances of mv re­  
 spect. TH: JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216365:1826121201:0404/pct:3.7294812869336833,3.7972447898269164,38.568614576493765,90.1006711409396/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216365:1826121201:0404/pct:3.7289915966386555,3.7969094922737305,38.567927170868344,90.09565857247976/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -812,7 +812,7 @@ us to Correct cdnclusion. Were ourB state a
 pure democracy, in which all it. .nh.bijao.s  
 should meet together to transact all their hue
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1829040601:0269/pct:7.398222773300269,63.00043358866888,15.065096094234345,32.70703858939153/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1829040601:0269/pct:7.396694214876033,62.99132947976879,15.067148760330578,32.70592485549133/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -857,7 +857,7 @@ tatiou for them from lit* other stairs, find ie­
 /using il within our own.  
 Accept llto lei,rival of »l*mance
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1829040601:0269/pct:22.89729282909692,10.0881630293395,14.651787559413101,15.508021390374331/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1829040601:0269/pct:22.892561983471076,10.086705202312139,14.65392561983471,15.509393063583815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -965,7 +965,7 @@ refusing it within our own.
 Accept the renewal of asturancc* of mv respect,­  
 _ TH: JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1829070701:0071/pct:80.50546851906591,18.6962010788477,15.710907478569316,42.212785492941585/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1829070701:0071/pct:80.49357174523422,18.694055542804684,15.71351164967243,42.21176650600566/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1032,7 +1032,7 @@ state of things with us takes away the
   
 lights ol will and of property.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016942:00295878204:1837102401:0575/pct:3.003613369467028,90.35258189894503,22.606142728093946,8.828428650749583/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016942:00295878204:1837102401:0575/pct:2.2593764121102575,67.76790671848973,16.967916854948033,6.621321488062188/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1116,7 +1116,7 @@ But this view shews there is no inconsistency in claim­
 ing representation for them from the other States and ,  
 refusing it within our own.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348367:1851010801:0029/pct:20.422948893675347,52.99662352279122,15.410221264930488,17.093415869442882/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348367:1851010801:0029/pct:20.418950665622553,52.989168659445774,15.412098668754894,17.094528063018707/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1181,7 +1181,7 @@ consistency in claiming representation for them
 1 from other Stales and refusing it within our  
 own.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215853:1851011001:0281/pct:59.31718481785237,32.85342108871521,12.94106427617776,22.514740161798986/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215853:1851011001:0281/pct:59.311528559168494,32.851168848975114,12.943008804551667,22.515481821713397/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1200,7 +1200,7 @@ slaves. But everv one knows that that constitution was
 a matter of compromise?a capitulation between con­  
 flicting interests and opinions.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851041501:0150/pct:49.68096156699807,85.04277612227241,15.595785724884998,2.5761799480918968/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851041501:0150/pct:49.68590789929267,85.0491845301035,15.610624721768808,2.5761799480918968/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1228,7 +1228,7 @@ whom, the unfortunate state of thing
 with us takes away all rights of will and  
 property.&quot; Jefferson shewed his wisdo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn84026884:00279557487:1853012801:0438/pct:6.69718140207179,39.94700748129676,15.658877378944833,9.850374064837906/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn84026884:00279557487:1853012801:0438/pct:6.713241789127118,39.95739817123857,15.674937766000161,9.845178719866999/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1311,7 +1311,7 @@ refusing it within our own. Accept the renewal
 of assurances of my respect. 1  
 Thomas Jkkvkkson. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1853080401:0808/pct:33.016862689528125,9.089154766499421,16.08332152472722,31.455036665380163/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1853080401:0808/pct:33.02630957441784,9.095587289334878,16.08332152472722,31.451820403962433/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1359,7 +1359,7 @@ ings of those committed to their
   
 charge.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00280779155:1871060801:0093/pct:236.7816091954023,46.39161403037226,53.20197044334975,15.320521435290955/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00280779155:1871060801:0093/pct:59.195402298850574,11.597903507593065,13.300492610837438,3.8301303588227387/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1382,7 +1382,7 @@ all which taken together compose the State,
 and will make of the whole a true Democra­  
 cy.” Again he says ; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fireweed_ver01:data:sn83016209:00383342417:1879010301:0219/pct:42.20791168353266,31.371724814347765,15.124195032198712,4.9460557657278965/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fireweed_ver01:data:sn83016209:00383342417:1879010301:0219/pct:32.71543324302486,24.316791544503566,11.72108940538999,3.8332066456727114/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1408,7 +1408,7 @@ did not end In converting to their own
 profit the earnings of those committed to  
 their charge
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_atherton_ver01:data:sn84026355:00211100229:1897061101:0672/pct:55.7510885341074,63.323312380431815,15.947024673439767,7.488384804591418/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_atherton_ver01:data:sn84026355:00211100229:1897061101:0672/pct:41.84062443274642,47.49931675321126,11.96224360137956,5.6162886034435635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1429,7 +1429,7 @@ earnings of those committed to
 their charge.  
 A Government is republican i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_fargo_ver01:data:sn85052141:0020653378A:1898041501:0844/pct:121.12676056338029,182.68583268583268,42.052313883299796,15.591815591815593/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_fargo_ver01:data:sn85052141:0020653378A:1898041501:0844/pct:30.296930045294413,45.67145817145817,10.518369401107197,3.897953897953898/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1475,7 +1475,7 @@ which&quot; did not end in converting to
 their own profit the earnings of those  
 committed to thete charge.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_hawk_ver01:data:2015270501:00415623069:1899080401:0408/pct:49.90332559938128,78.88456897707468,14.133797370456303,3.445502078026545/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_hawk_ver01:data:2015270501:00415623069:1899080401:0408/pct:49.90815931941222,78.88456897707468,14.128963650425368,3.4622603566161683/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1593,7 +1593,7 @@ culture is worth more to a nation
 than all the victories of the most  
 splendid battles of their history.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068402:00295878691:1899120701:0404/pct:80.41428571428571,53.75120747021573,14.785714285714286,6.890630031125899/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068402:00295878691:1899120701:0404/pct:60.32290327189599,40.3134056026618,11.087298185455065,5.1733390576365785/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

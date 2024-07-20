@@ -163,7 +163,7 @@ particular Circumstance should compel me to it, to possess
 another slave by purchase, it being among my fust wishes  
 to see some plan ado;,red hy which jlavery in this eountr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1839011201:0317/pct:22.351973684210527,27.804765209345362,18.157894736842106,2.162849872773537/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1839011201:0317/pct:22.357456140350877,27.80862055671216,18.152412280701753,2.1667052201403347/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -211,9 +211,9 @@ i Mh of May, 1786, he confirms the above sentrments:
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1843-11_13_65/page/n107/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1843-11_13_65/page/n107/mode/1up?view=theater)
 
-#### 1843-11-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1843-11-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -319,7 +319,7 @@ slavery in this country msy be abolished by
 law.T The Father of his country was not  
 satisfied wiih awaiting the slow and saf
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn82015050:00280763366:1849040701:0383/pct:57.46124031007752,109.09400544959128,17.11886304909561,6.505449591280654/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn82015050:00280763366:1849040701:0383/pct:43.110967533516394,81.82334241598546,12.841221127443063,4.881925522252498/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -377,7 +377,7 @@ should compel me to it, to possess another
 slave by purchase, it being among my first wishes  
 to see some plan adopttd by which slavery in thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1850071101:0124/pct:4.538296349319971,58.787346221441126,15.089477451682177,2.2847100175746924/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1850071101:0124/pct:4.547840610832737,58.79060079411573,15.089477451682177,2.291219162923908/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -415,7 +415,7 @@ cumstances should compel me to it, to possess
 another slave by purchase, it being among my  
 first teishes to see some plan adopted by tehic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668144:1854032101:0519/pct:72.16734456711214,278.5281293204296,41.09529343404997,5.742848027225354/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668144:1854032101:0519/pct:24.066269437581745,92.84270977347656,13.70440342973405,1.9142826757417846/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -441,7 +441,7 @@ The Governor of our State has set before the People,
 whose chosen servant he is, the considerations by  
 which he justifies his Veto of the bill Prohibiting th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_airy_ver01:data:sn83030213:00206530431:1854042401:0772/pct:151.9090305444887,92.43133021470553,48.323373173970786,23.67758186397985/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_airy_ver01:data:sn83030213:00206530431:1854042401:0772/pct:50.63634351482957,30.810443404901843,16.107791057990262,7.892527287993283/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -461,7 +461,7 @@ cumstances compel me to it, to possess another
 slave by purchase, it being among my first  
 withes to see some plan adopted by which slar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776981:1854050501:0075/pct:14.387464387464387,341.5126050420168,42.87749287749288,10.30812324929972/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776981:1854050501:0075/pct:3.5987885266345985,85.3781512605042,10.725102440762516,2.57703081232493/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -481,7 +481,7 @@ sess another slave by purchase, it being
 amongst my first wishes to see some plan  
 adopted by which slavery in this country ma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_harrison_ver01:data:sn82015672:00296021854:1854070701:0281/pct:147.6457399103139,163.18025490592757,57.7914798206278,12.623912603681974/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_harrison_ver01:data:sn82015672:00296021854:1854070701:0281/pct:36.92178301093356,40.79506372648189,14.451920381272778,3.1559781509204936/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -524,7 +524,7 @@ stances should compel me to it, to possess another
 slave by purchase, it being among my first wishes to  
 see some plan adopted by which Slavery in thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530455:1854101001:0268/pct:248.99316792520676,121.91032643210974,47.554836389787845,9.792963292264702/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530455:1854101001:0268/pct:82.99772264173559,40.636775477369916,15.851612129929283,3.2643210974215675/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -545,7 +545,7 @@ possess another slave by purchase, it being
 among my first wishes to see some plan  
 adopted by which Slavery in this countr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83021380:00279523878:1854102701:0149/pct:14.826320248517368,140.36911121903836,38.774357526122564,8.780961631860126/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83021380:00279523878:1854102701:0149/pct:4.941409007482705,46.78515928515929,12.922961080521436,2.9267029267029265/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -566,7 +566,7 @@ circumstance should compel me to it, to possess
 another slave by purchase ; it being among my  
 first wishes to see some plan adopted, by whic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021205:00517171931:1856051301:0408/pct:5.979498861047836,54.945992040932346,15.622627182991648,4.5196134167140425/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021205:00517171931:1856051301:0408/pct:4.634170262848175,42.58334557203701,12.117497057669674,3.5063886033191363/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -627,7 +627,7 @@ purchase, it being among my first wishes to see some
 plan adopted, by which slavery in this country may  
 be abolished by law.&quot; In 1792, he writes to Gen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182987:1856091801:0364/pct:50.59838085181274,83.6604846351699,15.029919042590636,4.995261946663057/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182987:1856091801:0364/pct:50.58947738870315,83.6491608012994,15.031673411930319,4.997969680563076/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -645,7 +645,7 @@ should compel me to it, to possess another slave by
 purch ase. it being among my first wishes to see soe  
 an adepted by which oavery in this country may b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530522:1856110401:0236/pct:153.77748388163332,238.82422104644326,47.04909902463217,6.901822457378013/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530522:1856110401:0236/pct:51.259161293877774,79.60807368214776,15.683033008210723,2.300607485792671/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -664,7 +664,7 @@ stances should compel me to it, to possess an­
 other slave by purchase it being among my first  
 wishes to see some plan adopted by which Sla
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84037930:00415668880:1857012801:0327/pct:63.63369101866824,29.97364953886693,11.098044980155814,1.976284584980237/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84037930:00415668880:1857012801:0327/pct:63.63369101866824,29.977309325135412,11.112744377480523,1.987263943785683/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -683,7 +683,7 @@ stance should compel me to it, to possess another
 slave by purchase; it being among my first wishes  
 to sne some plan adopted by which slavery in thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776981:1857040301:0693/pct:158.47826086956522,94.6516334200636,42.971014492753625,7.921364556230125/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776981:1857040301:0693/pct:39.619565217391305,23.6629083550159,10.742753623188406,1.9803411390575312/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -732,7 +732,7 @@ compel me to it. to possess another slave
 by purchase, it being among my first  
 wishes to see some plan adopted, by whic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296027546:1858080301:0281/pct:21.20272783632982,47.43555673664629,16.181029138251706,9.088493223491895/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296027546:1858080301:0281/pct:15.906976744186046,35.58331118788201,12.155038759689923,6.816369917618921/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -754,7 +754,7 @@ ished by law.&quot;
   
 If the doctrines held by the Republica
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027253:00279528517:1859100701:0366/pct:37.31827805222301,26.865836181236908,11.093860268172195,3.2190497188843565/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027253:00279528517:1859100701:0366/pct:37.31827805222301,26.873185609818837,11.107974594213127,3.2227244331753204/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -773,7 +773,7 @@ me to it, to possess another slave by purchase,
 it being among m/ first wishes to see some  
 plan adopted by which slavery in this countr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_belmont_ver02:data:sn82014511:no_reel:1859122601:0002/pct:35.58002658059616,50.74900642005503,9.531042339092462,1.803729746254968/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_belmont_ver02:data:sn82014511:no_reel:1859122601:0002/pct:35.58951965065502,50.74900642005503,9.531042339092462,1.803729746254968/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -805,7 +805,7 @@ stalices compel me to it, to possess another slave
 by purchase, it being among my first wishes to  
 see some plun adopted by which slavery in thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn83016318:00296024570:1860010301:0214/pct:95.48245614035088,184.29347247364498,38.421052631578945,29.070386540304547/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn83016318:00296024570:1860010301:0214/pct:31.8367943843229,61.431157491215,12.810763381105586,9.690128846768182/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -886,7 +886,7 @@ ces should compel me to it, to possess another slave
 by purchase, it being among my irst wishes to see some  
 plan adopted by which slavery it t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668156:1860050801:0663/pct:96.66035694970255,42.18994880367778,37.80421849648459,6.989865217845575/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668156:1860050801:0663/pct:32.23319356147707,14.063316267892592,12.606519680779115,2.3299550726151916/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -910,7 +910,7 @@ another slave by purchase, it being among my
   
 first wishes to see some plan adopted by which
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn83016318:00296024570:1860053001:0298/pct:83.94332939787485,106.41340305196884,39.138134592680046,8.675701632696617/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn83016318:00296024570:1860053001:0298/pct:27.993503617304,35.47113435065628,13.051823416506718,2.8919005442322057/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -940,7 +940,7 @@ cumstances compel me to it, to possess an-­
 other slave by purchase, it being among my  
 first wishes to see some plan adopted b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528670:1860100301:1161/pct:152.58851742135704,45.50372563029499,66.52560304697418,15.106665305705828/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528670:1860100301:1161/pct:50.862839140452344,15.167908543431663,22.17520101565806,5.035555101901942/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -979,7 +979,7 @@ possess another slave by purchase, it being
 among my first wishes to see some plan  
 adopted by which slavery, in this countr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_melon_ver01:data:sn84022549:00415628407:1861051701:0537/pct:10.308056872037914,87.12899543378995,16.824644549763033,3.567351598173516/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_melon_ver01:data:sn84022549:00415628407:1861051701:0537/pct:7.74244519059846,65.35388127853881,12.620975706103101,2.6683789954337898/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1056,7 +1056,7 @@ among my first wishes to see some plan
 adopted by which Slavery, in this country,  
 may be abolished by law.&quot; in a letter t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624517:1864070901:0209/pct:5.630331753554502,71.84161800313346,16.113744075829384,3.5322603617718276/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624517:1864070901:0209/pct:4.37337773642196,55.677386121127384,12.493266075713796,2.748546618588564/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1075,7 +1075,7 @@ chase, it being among my first wishes to see some plan
 adopted by which Slavery may be abolished by law.&quot;  
 He writes in this spirit many letters to Lafay-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_cobol_ver01:data:sn83030213:00206530777:1864081301:0730/pct:55.983131259884026,282.84455632473254,47.88262168335969,8.03020767778477/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_cobol_ver01:data:sn83030213:00206530777:1864081301:0730/pct:18.661043753294678,94.28151877491085,15.960873894453231,2.6767358925949236/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1100,7 +1100,7 @@ Lsfayette and other dear friends, express­
 ing kis ardent desires for tho emancipa­  
 tion of &quot;the blsck people in this oooutry,&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84027060:00415668910:1864082001:0292/pct:47.47357992073976,88.00136348142257,14.580581241743726,4.647199181911146/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84027060:00415668910:1864082001:0292/pct:47.4845882870982,88.00515092981858,14.575077058564508,4.658561527099193/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1162,7 +1162,7 @@ wishes to see some plan adopted by the Legisieture
 whereby slavery in this country may be abolished by  
 slow, sure and imperceptible deg
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_java_ver01:data:sn83030214:00206531307:1877100601:0260/pct:247.73563770203234,57.287472679167145,46.807489198271725,11.69906821580582/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_java_ver01:data:sn83030214:00206531307:1877100601:0260/pct:82.57854590067744,19.09582422638905,15.602496399423908,3.899689405268607/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1238,7 +1238,7 @@ by the Legislature whereby slavery in this
 country may be abolished by slow, sure and  
 imperoeptibU degrees,”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685282:1877101801:0585/pct:83.92652123995407,92.3324264160277,11.153026078399213,5.911451892159287/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685282:1877101801:0585/pct:83.91275828140374,92.3210090268332,11.15529681862906,5.913812291331767/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1265,7 +1265,7 @@ s.avery in this country may be abolished
 by slow, sure ana lnipercepuoic uegrees.  
 A.so they keep insisting thai th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_enterprise_ver02:data:sn84026847:00271767511:1877101901:0372/pct:15.474660956459672,50.340274250888775,12.119914346895074,7.313357034027425/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_enterprise_ver02:data:sn84026847:00271767511:1877101901:0372/pct:15.474660956459672,50.34704587777213,12.129431358553415,7.316742847469104/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1288,7 +1288,7 @@ tho Legislature whereby slavery in this
 country may be abolished by slow, sure and  
 imperceptible degrees.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_iceland_ver01:data:sn84026788:0020219235A:1877110601:0179/pct:57.13517389745429,82.85671282360025,13.67873789888849,5.282962071041541/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_iceland_ver01:data:sn84026788:0020219235A:1877110601:0179/pct:57.13517389745429,82.85671282360025,13.692183578343492,5.29425045153522/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1444,7 +1444,7 @@ to possess another slave by purchase
 it being among my first wishes to see  
 some plan adopted by which slaver
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588484:1897022501:0892/pct:102.35777633571274,80.03345498783455,17.650876054510057,4.638077858880779/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588484:1897022501:0892/pct:79.33500977926795,62.027106658809664,13.67421067337245,3.602435670791593/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

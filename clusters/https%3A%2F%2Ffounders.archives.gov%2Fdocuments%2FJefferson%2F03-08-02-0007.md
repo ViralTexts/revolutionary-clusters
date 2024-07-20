@@ -48,7 +48,7 @@ The information imparted by Dr. B. in worth
 many times the value of the-sinaU fee of fifteen  
 cents charged for admission
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021205:00517171931:1856101401:0830/pct:41.87759727993956,114.8747537292429,15.489233094068757,3.7714607374050098/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021205:00517171931:1856101401:0830/pct:32.45986434392231,89.03551823172283,12.013858390669984,2.922892354673356/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -79,7 +79,7 @@ any time do for our country all the good that we would
 wish, we must be satisfied with doig for her all the  
 good that we can. Baving submitted my own opinl u
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743373:1861011301:0129/pct:110.78180070490228,201.06945851626702,45.54629926305671,19.655521783181356/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743373:1861011301:0129/pct:36.92726690163409,67.02315283875568,15.182099754352237,6.551840594393786/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -196,7 +196,7 @@ cannot at any time do for our country all the good that
 we would wish, we must be satisfied with doing for her  
 all the good that wc can
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026384:1861011401:0053/pct:50.12733446519525,70.52747693541917,11.049801924165251,4.6831127156036905/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026384:1861011401:0053/pct:50.132050556498776,70.52747693541917,11.05451801546878,4.689798101350448/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -223,7 +223,7 @@ lead, and if we cannot at any time do for oar coun­
 try all the good that we would wish, we must be  
 satisfied with doing for her all the good wc can
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1861011501:0004/pct:12.215045592705167,16.575539568345324,10.087386018237082,3.841726618705036/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1861011501:0004/pct:12.229293313069908,16.586330935251798,10.07313829787234,3.838129496402878/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -258,7 +258,7 @@ any time do for our country all the good that
 we would wish, we must be satisfied with  
 doing for her all the good that we can
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775666:1861011501:0253/pct:341.48862853204685,37.19063545150502,43.55616815988973,37.51170568561873/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775666:1861011501:0253/pct:85.41630753318394,9.297658862876254,10.894673332184107,9.377926421404682/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -291,7 +291,7 @@ the Arsenals, Dock-yards, &amp;c., of the Government; that
 it pretermits entirely the question of the commerce in  
 slaves between the States; that it offers no constitution
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184716:1861011501:0052/pct:92.61371738200485,109.56495528986235,39.49807500356481,27.710238119160053/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184716:1861011501:0052/pct:30.866837753065298,36.51798272051437,13.164147894686817,9.23581809657759/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -401,7 +401,7 @@ country all the good that we would wish,
 we must be satisfied with doing for her all  
 the good we ca
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279523994:1861011801:0016/pct:252.4913442721662,83.02503832396525,38.53680566009333,31.037301992846192/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279523994:1861011801:0016/pct:84.15111378687537,27.67218475372982,12.843668472807545,10.344710130117855/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -462,7 +462,7 @@ tice. We must be contented to lead when we
 can, and to follow when we cannot lead, and if  
 we cannot at any time do for our countrv all th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84027060:00415668909:1861011901:0011/pct:75.6508875739645,39.32210899424014,11.21301775147929,6.668143553389455/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84027060:00415668909:1861011901:0011/pct:75.6508875739645,39.325801211047114,11.222879684418146,6.675527987003397/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -531,7 +531,7 @@ for our country all the good tint we would
 wish, we must be satisfied with doing for  
 hur all the good that we can
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027238:0027952942A:1861012301:0921/pct:6.17544731610338,6.690105474635861,10.984095427435388,10.015067805123055/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027238:0027952942A:1861012301:0921/pct:6.179589131875415,6.690105474635861,10.979953611663353,10.02846140967688/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -567,7 +567,7 @@ all the good that we would wish, we must be
 satisfied with doing for her all the good that  
 we can
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156384:1861012301:0017/pct:146.53626731866342,83.04618502968003,59.168704156479215,48.58838859128421/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156384:1861012301:0017/pct:36.649001222992254,20.761546257420008,14.798206278026905,12.147097147821052/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -600,7 +600,7 @@ entertaining different views, have t e
 power and the right.of carrying them  
 into practice We must be conten
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237283508:1861012301:0245/pct:23.009404388714735,108.61459729499208,14.341692789968652,12.696478615815767/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237283508:1861012301:0245/pct:17.259758582849976,81.4670403314244,10.769713121178869,9.516266601681492/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -640,7 +640,7 @@ satisfied with doing for her all the good
 we can. . . ; .&#x27; ; :. . ..  
 Having submitted my own opinio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85033611:00202198004:1861012401:0587/pct:26.167843563280826,109.10811947833403,18.373166757197176,21.66596550273454/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85033611:00202198004:1861012401:0587/pct:17.454496060853028,72.73874631888935,12.252105406139636,14.4509886411443/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -666,7 +666,7 @@ r* wohld’wish, we must
 be satisfied with doing for her all the good  
 that we can.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347294:1861012501:0039/pct:71.92118226600985,7.502641775272983,24.61465119974575,87.90653986145357/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347294:1861012501:0039/pct:71.92118226600985,7.506555516418144,24.625244981196037,87.9026261203084/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -701,7 +701,7 @@ any time do for our country all the good that
 we would wish we must be satisfied with do­  
 ing for her all the good that we can
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn85038443:00280776385:1861012501:0298/pct:326.68918918918916,216.5745856353591,51.266891891891895,39.41068139963168/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn85038443:00280776385:1861012501:0298/pct:81.6895459345301,54.14364640883978,12.819429778247097,9.85267034990792/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -731,7 +731,7 @@ with whom we must necessarily act, enter­
 taining different views, have the power and  
 the right of carrying them into practice. W
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296230:1861012501:0442/pct:25.77259475218659,99.31625676089396,50.029154518950435,31.350137769160117/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296230:1861012501:0442/pct:6.44408805948389,24.82906419022349,12.509112115468728,7.837534442290029/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -767,7 +767,7 @@ for our conntry all the good that we wish,
 we must be satisfied with doing her all the  
 good that we can
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn83035216:00280775150:1861012601:0579/pct:73.96978021978022,105.75192382939872,50.27472527472528,25.564105908438762/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn83035216:00280775150:1861012601:0579/pct:18.492445054945055,26.43798095734968,12.56868131868132,6.3910264771096905/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -859,7 +859,7 @@ when we can, and to follow when we
 lead; and it we cannot at any time do for  
 country all the good that we would wish, w
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn84028083:00280775241:1861020801:0460/pct:25.801640566741238,229.02943748178373,49.515287099179716,20.985135529000292/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn84028083:00280775241:1861020801:0460/pct:6.452816113390526,57.25735937044593,12.383439015292801,5.246283882250073/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -889,7 +889,7 @@ try all the good that we would wish, we
 must be satisfied with doing for her  
 the good we ca
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279520944:1861020901:1117/pct:23.73725934314836,90.42194769773785,51.3929784824462,32.937590245467675/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279520944:1861020901:1117/pct:5.932971014492754,22.6018607635547,12.845335144927537,8.233076676291306/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -927,7 +927,7 @@ all the good that we wish, we must be
 satisfied with doing for her all the good  
 that we can
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291049:1861030201:0064/pct:53.106831395348834,59.54602423060855,14.607558139534884,14.607993315694193/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291049:1861030201:0064/pct:53.11137354651163,59.55646845843197,14.612100290697674,14.607993315694193/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

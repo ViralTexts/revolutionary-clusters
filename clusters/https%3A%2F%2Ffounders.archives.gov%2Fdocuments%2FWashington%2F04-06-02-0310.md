@@ -65,7 +65,7 @@ TO BE.&quot;
 PHILADELPHIA, JULY 24.  
 In the begining of the late revolution we wer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789072901:0002/pct:71.638353008926,60.03798670465337,23.841059602649008,24.539411206077872/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789072901:0002/pct:71.65274978404837,60.05223171889838,23.841059602649008,24.544159544159545/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -693,7 +693,7 @@ frightful is that false ambition
 which desolates the world with fire  
 and sword !” Jefferson, the illus
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_celebi_ver01:data:sn84027329:00279528864:1871011901:0296/pct:45.4233409610984,24.10118757117293,9.319742042854172,1.268911664226452/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_celebi_ver01:data:sn84027329:00279528864:1871011901:0296/pct:45.4233409610984,24.1066102705927,9.319742042854172,1.268911664226452/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

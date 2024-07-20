@@ -163,7 +163,7 @@ should be as wide as the furrow, and of
 a length suited to the construction of  
 the plow. His journal also contain
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn82016419:00212472955:1870040801:0533/pct:32.83699059561128,86.88524590163935,12.826541274817137,8.724832214765101/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn82016419:00212472955:1870040801:0533/pct:24.64393048477721,65.1666850038508,9.630210375016333,6.546374738695126/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -191,7 +191,7 @@ pen di oui ar. It should bo ns wide as tho fur
 row, and? of a longth suited to thc construc­  
 tion bf tho plow.&quot; His journal also contain
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_gnomiemoore_ver01:data:sn84026912:00294558627:1870052701:0781/pct:1.0734549915657108,77.20460090623911,17.696672289526145,8.737074474265134/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_gnomiemoore_ver01:data:sn84026912:00294558627:1870052701:0781/pct:1.0734549915657108,77.21234653963828,17.701783979962173,8.737074474265134/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -266,7 +266,7 @@ over; the intermediate surface chacg
 ing gradually from the horizontal to  
 the perpendicular.&quot; A short tim
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_johns_ver01:data:sn92073049:00295879257:1888022801:0072/pct:11.480815347721823,13.902318697582634,45.143884892086334,108.29797730636409/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_johns_ver01:data:sn92073049:00295879257:1888022801:0072/pct:8.619397391695397,10.429205722742969,33.86298905711288,81.22348297977307/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -316,7 +316,7 @@ ants as a badge or proof that he had
 fought in defense of the liberties of the  
 ((doilies.&quot; It i- said too that Washing
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_grandfather_ver01:data:sn99061556:00415667450:1898022201:0167/pct:85.69428891377379,91.47867205201457,19.288913773796192,4.502019505467442/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_grandfather_ver01:data:sn99061556:00415667450:1898022201:0167/pct:64.29571548585831,68.61392966210225,14.463735648277794,3.3789774406462416/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -618,7 +618,7 @@ and That myself Am Blind
 I Teach me but this that thou art good,  
 And that myself am blind
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159348:1857032101:0050/pct:32.69704433497537,59.46291560102302,13.069581280788178,2.5342943501511277/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159348:1857032101:0050/pct:32.70217569786535,59.46291560102302,13.069581280788178,2.542044485778501/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -647,7 +647,7 @@ Te know but this, that thou art good,
 And that myself am blind;  
 Wat gave me ih this dark estate.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156384:1864012701:0622/pct:39.06976744186046,54.45544554455446,71.06976744186046,19.16132789749563/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156384:1864012701:0622/pct:9.77198697068404,13.613861386138614,17.775709632387155,4.790331974373908/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -773,7 +773,7 @@ Who all my sense confined
 To know but this, that thou art good,  
 And that myself am blind
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn83032231:00237287903:1887030501:0049/pct:154.2575650950035,51.10647181628392,87.6847290640394,333.4725121781489/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn83032231:00237287903:1887030501:0049/pct:38.57796550510383,12.77661795407098,21.928898275255193,83.36812804453723/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -882,7 +882,7 @@ Yet gave me ln this dark estate
 To see the good from ill,  
 And binding nature fast In fate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_nicasio_ver01:data:sn85042461:00280769794:1898051901:0278/pct:18.92937105638103,60.094757756380865,12.35497659271321,12.318508329512456/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_nicasio_ver01:data:sn85042461:00280769794:1898051901:0278/pct:18.94463667820069,60.094757756380865,12.35497659271321,12.3261500840593/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -317,7 +317,7 @@ prove to us your vigilant care, in
 recommending ‘to our attention ef­  
 feCtual meafires
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797060601:0300/pct:7.854612659787463,15.507704464638483,17.002926228245805,57.35875148162781/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797060601:0300/pct:7.85974639355203,15.507704464638483,17.002926228245805,57.3686290003951/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

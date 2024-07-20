@@ -61,7 +61,7 @@ cept, for the society ar.J yourself, the assurances
 ol my high consideration.  
 ^ TH. JEFFEIISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827020801:0366/pct:35.81222777867398,46.72749391727494,15.163736086465558,16.56934306569343/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827020801:0366/pct:35.806451612903224,46.721809998783606,15.166666666666666,16.57138223249402/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -108,7 +108,7 @@ for thr socieiy mrt yourself, the assurances of
 my high consideration.  
 TH; JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216377:1827021201:0140/pct:6.723963599595551,75.45464943383278,18.132794068082237,20.35914445842388/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216377:1827021201:0140/pct:6.722830665543387,75.44602012808784,18.135355237292895,20.36062824031717/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -312,7 +312,7 @@ o| ie;&gt;o»nd^p men, disgusting and revolting !
 instead ol peisuading. Speer hr.* mensured by the \
 hour &gt;ft trifh the hvur- &#x27; Tlese wonts sh.ufd 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348811:1827022301:0229/pct:69.39788950962135,45.0402144772118,15.456238361266294,4.374206293212925/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348811:1827022301:0229/pct:69.38353330575093,45.033860045146724,15.458212660322713,4.37711625282167/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

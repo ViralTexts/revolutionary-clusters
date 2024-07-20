@@ -431,7 +431,7 @@ the country into civil war. The powers of Con­
 gross are confined to the express delegations of  
 the constitution. In what part of that instrumen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184339:1831122601:0424/pct:2.3901425178147266,45.32374100719424,15.20190023752969,9.523809523809524/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184339:1831122601:0424/pct:2.3897877393498588,45.318565882621606,15.204591559052002,9.526528126665145/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -547,7 +547,7 @@ circulation ol foreign coin. The one lias uoparticle ofspi­
 I ritual jurisdiction: Hie other, is the eupicuie head and go­  
 vernor ot the national church
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:0041418408A:1834090201:0150/pct:19.899665551839465,25.06578947368421,15.426421404682275,12.094298245614034/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:0041418408A:1834090201:0150/pct:19.896892852166644,25.06304133318715,15.428916446054526,12.096626831853232/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -566,7 +566,7 @@ or the art of gaining a majority in one or the &lt;
   
 other of the two houses” for constitutional 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183682:1839110701:0180/pct:6.6517070043276165,6.396079416938929,30.629908639205002,88.6152299572757/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183682:1839110701:0180/pct:6.6506410256410255,6.39527578841563,30.63034188034188,88.608284122796/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -585,7 +585,7 @@ dent, following the example of the British Crown
 authority, or the art of gaining a majority in one o  
 the other of the two houses” for constitution
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348963:1839110701:0391/pct:32.699029126213595,85.71428571428571,14.87378640776699,2.4284357617690953/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348963:1839110701:0391/pct:32.69268103280916,85.70265870862724,14.875752281110463,2.431497558328812/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -609,7 +609,7 @@ that &quot; the President can prescribe no rules
 concerning the commerce or currency of the  
 nation.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1839122801:1186/pct:66.58882402001669,20.486864304651725,15.61301084236864,6.7486141238852735/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1839122801:1186/pct:66.59438420906311,20.490881336868323,15.629691409507924,6.752631156101872/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -672,7 +672,7 @@ Ten were sent by the Tamnroo, and the remainder by other
 vessels. The ten by the Tamaroo arrived and were used?  
 the others did not arrive. The Secretary saya the reason i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1847041701:0536/pct:67.29444834855938,84.71620570920804,15.713281799016164,10.751971565033877/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1847041701:0536/pct:67.29444834855938,84.71990817875523,15.722651674865308,10.759376504128253/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -722,7 +722,7 @@ and regulating of Hoots and armies ; all which, by the o
 stitution under consideration, would appertain to the I  
 islature.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661150:1847042301:0401/pct:37.78692417286687,33.86537985647117,14.611366154820326,6.421677802524128/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661150:1847042301:0401/pct:37.78692417286687,33.87362863977563,14.616642921217878,6.421677802524128/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -753,7 +753,7 @@ mies, so that44 both or either House of Parliament
 cannot, nor ought to, pretend to the same,&quot; is the  
 sole Prerogatire of the King, they are in our Go
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1847042401:0539/pct:32.730308934038405,85.42064472649669,15.878096298357919,11.063686397843423/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1847042401:0539/pct:32.730308934038405,85.42064472649669,15.892012246033955,11.071174510464637/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -796,7 +796,7 @@ dent has undertaken to exercise, and which to
 bring in question is, according to the Executive and  
 its organ, nothing less than treason 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1847042401:0539/pct:48.093515168382964,49.10704256992025,15.794600612301698,18.65663259575424/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1847042401:0539/pct:48.102792466833655,49.114530682541464,15.794600612301698,18.65663259575424/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -826,7 +826,7 @@ sing and regulating of fleets and armies: all
 which, by the constitution under consideration, I  
 would appertatn to the Legislature.&#x27; &#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85026593:00202198065:1847042801:0515/pct:76.28498001142205,127.43895880391524,20.57395773843518,12.111433795848123/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85026593:00202198065:1847042801:0515/pct:50.871179662953445,84.96289125524363,13.724650099971436,8.07787458319888/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -847,7 +847,7 @@ erength, ever was and is the undoubted right ot his Majesty
 nor ought to, pretorul to the same.&quot; and  
 It there be any meaning in the language of the conati- ch
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661150:1847082101:0810/pct:1.0718789407313998,28.60850222441918,16.598360655737704,3.7815126050420167/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661150:1847082101:0810/pct:1.0718789407313998,28.616740813972648,16.608869272803698,3.785631899818751/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -890,13 +890,13 @@ I ? ray and Nary of the United States. In this respect his au­
 4 stitution under consideration, would appertain to the i.egis­  
 4 lature.&#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1847082801:0646/pct:36.39307334928903,47.56478999106345,15.373785724341827,11.338248436103664/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1847082801:0646/pct:36.40245905485945,47.57223711647304,15.378478577127035,11.338248436103664/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The American review : a Whig journal of politics, literature, art, and science_](https://archive.org/details/sim_american-whig-review_1847-12_6_6/page/n3/mode/1up?view=theater)
+## [From _The American Review: a Whig Journal Devoted to Politics and Literature (1848-1850)_](https://archive.org/details/sim_american-whig-review_1847-12_6_6/page/n3/mode/1up?view=theater)
 
 #### 1847-12-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -958,7 +958,7 @@ it turns out that the Executive in this Government,
 under the present Administration, as endured by  
 both the People and their Representatives, is no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848080501:0278/pct:82.57630032956011,31.234399818470614,16.119787935234275,10.358520535511685/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848080501:0278/pct:82.58585279648469,31.2419635428485,16.115011701771984,10.358520535511685/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -985,7 +985,7 @@ Art. 6. He shall have power to convene, on ex
 traordinary occasions, both houses of the legisla­  
 ture, or either of them, at the scat ot government
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_lilac_ver02:data:sn82015408:00237289687:1851112901:0339/pct:85.16129032258064,85.16833484986351,19.967741935483872,1.910828025477707/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_lilac_ver02:data:sn82015408:00237289687:1851112901:0339/pct:63.891577928363986,63.87625113739763,14.988706034204583,1.4444949954504094/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1130,7 +1130,7 @@ worse ground than the Governors of Maryland
 and Delaware.&quot;  The FeleruLiS, No. 68.  
 And thus much must suitioe for the lagal a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_cobol_ver01:data:sn83030213:00206530777:1864081501:0738/pct:102.29784248377477,247.3443675889328,49.18435362217155,46.4550395256917/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_cobol_ver01:data:sn83030213:00206530777:1864081501:0738/pct:34.09928082792493,82.44812252964427,16.39478454072385,15.485013175230566/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1255,7 +1255,7 @@ htn­
 Then, again, after showing that a treaty is a contract  
 with a foreigh nation, having the force of law, The Fed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fortran_ver01:data:sn83030214:00206531071:1871032801:0601/pct:3.382971835545484,114.61643213799364,47.717707996115244,13.753971856559238/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fortran_ver01:data:sn83030214:00206531071:1871032801:0601/pct:1.1276572785151613,38.205477379331214,15.90590266537175,4.584657285519746/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1325,7 +1325,7 @@ The purchase system had been made
 from time to time by royal warrant; and now  
 the Queon, at the instance of the Ministry
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fortran_ver01:data:sn83030214:00206531083:1871072101:0582/pct:58.319818358741486,138.63636363636363,48.880960103795005,24.651215121512152/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fortran_ver01:data:sn83030214:00206531083:1871072101:0582/pct:19.43993945291383,46.21212121212121,16.293653367931668,8.217071707170717/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1345,7 +1345,7 @@ the Queon, at the instance of the Ministry
 &quot;of the Houses of Parliament cannot, nor  
 &quot;ought not, to pretend to the same.&quot; So
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271742010:1871072401:0084/pct:6.41601961585615,185.46007744790705,40.77101212368887,9.828508205790152/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271742010:1871072401:0084/pct:2.1386732052853836,61.82002581596902,13.590337374562957,3.276169401930051/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1495,7 +1495,7 @@ this upon Congress cannot fail to be benefl
 cial to the interests of the entire com­  
 munit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chester_ver02:data:sn86053573:00211102391:1880012301:0085/pct:27.90519877675841,20.479041916167663,99.31192660550458,350.6437125748503/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chester_ver02:data:sn86053573:00211102391:1880012301:0085/pct:6.980302161025053,5.119760479041916,24.842226047045322,87.66092814371258/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1518,7 +1518,7 @@ o ea ritan wo i an eeer on a ee e e ei o o o
 for him any way, as they most undoubtedly  
 arch, possessing the crown as a patrimony
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chester_ver02:data:sn86053573:00211102391:1880012301:0085/pct:27.522935779816514,371.49700598802394,102.29357798165138,13.877245508982035/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chester_ver02:data:sn86053573:00211102391:1880012301:0085/pct:6.884681583476764,92.87425149700599,25.588066551921973,3.469311377245509/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1550,7 +1550,7 @@ enumerates the following: &quot;The President of
 the United States would be amenable to per­  
 sonal punishment and disgrace;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044838:1884062201:0584/pct:117.8264268960125,139.18075224607887,52.07193119624707,35.023602862798846/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044838:1884062201:0584/pct:29.462365591397848,34.79518806151972,13.020527859237538,8.755900715699712/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1567,7 +1567,7 @@ the King of Great Britain is sacred and in­
 violable.&quot; Now, it was predicted at the date at  
 which Hamilton was writing, what has boe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044838:1884062201:0584/pct:117.98279906176701,172.55976853966803,51.915559030492574,8.771128369118319/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044838:1884062201:0584/pct:29.501466275659823,43.13994213491701,12.981427174975561,2.1927820922795798/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1586,7 +1586,7 @@ have a qualified negative upon the acts
 of the legislative body; the other has an  
 absolute negative.&quot; The President&#x27;s vet
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044838:1884062201:0584/pct:118.1391712275215,206.18242728795494,51.83737294761532,9.425917466118472/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044838:1884062201:0584/pct:29.540566959921797,51.545606821988734,12.961876832844574,2.356479366529618/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1614,7 +1614,7 @@ most rigorous and exhaustive meaning of the
 words, command our army and navy through  
 the so-called Secretaries of War and of the Nav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044838:1884062201:0584/pct:118.29554339327599,233.89675650982184,52.931978107896796,27.592507994518044/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044838:1884062201:0584/pct:29.579667644183772,58.47418912745546,13.235581622678398,6.898126998629511/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1756,7 +1756,7 @@ where the sovereignty has been ques-
 tioned, as one of extreme delicacy, and  
 requiring the utmost caution and de
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_hoquiam_ver01:data:sn83045604:0020219946A:1898042001:0637/pct:56.18125824901012,37.57049402210693,38.4660507405778,33.78073539363862/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_hoquiam_ver01:data:sn83045604:0020219946A:1898042001:0637/pct:18.72708608300337,12.523498007368975,12.822016913525932,11.260245131212873/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

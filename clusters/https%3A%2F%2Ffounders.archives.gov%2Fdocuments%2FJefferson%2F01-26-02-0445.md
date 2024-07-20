@@ -52,7 +52,7 @@ but I deny it with a bleeding Heart. It be­
 longs to the State governments. Pray mge  
 ours ta be liberal.&quot; In bis French packag
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_damariscotta_ver02:data:sn83016025:00279525346:1873032001:0495/pct:85.45012165450122,77.16954362733507,10.900243309002432,4.161740364152282/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_damariscotta_ver02:data:sn83016025:00279525346:1873032001:0495/pct:85.43626337982485,77.16042085352879,10.902530003243594,4.164203806596524/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -76,7 +76,7 @@ a purpose, but I deny it with a bleeding
 tieart It belong* to the State tfovrrn- I  
 neots. Prav urge ours to be liberal.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_deforest_ver02:data:sn84026847:00415665167:1873032001:0267/pct:74.12628487518356,47.4392646093237,11.923641703377386,5.296563799518494/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_deforest_ver02:data:sn84026847:00415665167:1873032001:0267/pct:74.12628487518356,47.442912380535496,11.9285364659814,5.3002115707302835/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -127,7 +127,7 @@ pose, but I deny it with a bleeding heart.
 It belongs to the State governments. Pray  
 urge ours to be liberal.” In his French pack
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85033123:00514151234:1873040301:0248/pct:5.039223507512299,82.16848520593729,14.918228958915037,6.812149808316131/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85033123:00514151234:1873040301:0248/pct:5.048087577006604,82.16848520593729,14.909364889420733,6.825256397653921/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -151,7 +151,7 @@ a purpose, but I deny it with a bleeding
 heart. It belongs to the state govern&#x27;  
 ments. Pray urge ours to be liberal.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ira_ver01:data:sn84023416:00202197498:1873041201:0054/pct:56.6571224051539,107.10128055878928,16.23120973514674,6.545078256370457/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ira_ver01:data:sn84023416:00202197498:1873041201:0054/pct:42.52461951656222,80.32596041909197,12.175470008952551,4.9152761609106195/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -175,7 +175,7 @@ Meedirg heart. It bciorgi la tba State
 (iorerrmenta. Pray urge nri U be  
 l.iyftral.&quot; In his French fnr. ce cam
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn85033673:00280779416:1873042101:0369/pct:21.213389121338913,122.5570383125269,16.820083682008367,6.313674845745444/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn85033673:00280779416:1873042101:0369/pct:15.923833437957732,91.92136604964844,12.617702448210922,4.735256134309083/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -199,7 +199,7 @@ a purpose, but I deny it with a bleeding X1
 heart. It belongs to the state govern- ?  
 monfa Prnv iiroro oilrs to be lihprftl.&quot; .
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grandamericancoonhunt_ver01:data:sn84026857:00295862166:1873042401:0037/pct:42.33167082294264,81.80213962721959,14.214463840399002,5.117458916951582/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grandamericancoonhunt_ver01:data:sn84026857:00295862166:1873042401:0037/pct:42.33686616791355,81.80949229807727,14.219659185369908,5.113782581522738/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -241,7 +241,7 @@ ing heart. It belongs to the
 State Governments. Pray, urge  
 ours to be liberal.&quot; In hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075167:00280774893:1873072301:0979/pct:111.54381084840055,202.26187484292535,43.741307371349095,22.618748429253582/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075167:00280774893:1873072301:0979/pct:27.895652173913042,50.56546871073134,10.939130434782609,5.6546871073133955/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

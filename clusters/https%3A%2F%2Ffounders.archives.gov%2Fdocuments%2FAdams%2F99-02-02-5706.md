@@ -100,7 +100,7 @@ pleasure.
 Given at Our Court at St Fames, the Twenty-  
 Jixth Day of November; in the Third Year o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025581:00517015052:1763021101:0961/pct:61.49870801033592,53.97406989853439,27.239448751076658,19.95490417136415/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025581:00517015052:1763021101:0961/pct:61.51306345104795,53.97406989853439,27.232271030720643,19.97369409996242/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -566,7 +566,7 @@ the putting an end to the*ea!amities of
 war as (won and as far as may he possible,  
 it hath been agreed between us and th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215981:1801112701:0580/pct:78.11511701454775,52.838299951148024,20.683111954459203,7.2105520273571075/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215981:1801112701:0580/pct:78.10276679841897,52.83313794450957,20.685111989459816,7.213104077113456/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -613,7 +613,7 @@ tioned, and under the penalty of in­
 curring our highest displeasure. ;  
 Given at Windsor, Te. oé2. 12, 1801,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1801120801:0616/pct:60.80332409972299,45.4341244262135,16.635887965527854,21.945502490477587/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1801120801:0616/pct:60.80845388324613,45.4341244262135,16.646147532574126,21.948758016733404/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

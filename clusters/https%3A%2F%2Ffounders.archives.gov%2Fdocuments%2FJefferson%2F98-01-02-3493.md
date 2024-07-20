@@ -50,7 +50,7 @@ same sen iments, in nearly the same words, we have
 deemed needless to give in fill!.  
 Wo think we are hilly borne out in pronouncing th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184042:1830072701:0092/pct:65.90606015706031,71.6841385597083,15.26152022521855,2.791704649042844/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184042:1830072701:0092/pct:65.8962962962963,71.67597128859519,15.264197530864198,2.7951843834263794/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -77,7 +77,7 @@ fatuation under which he is destroying his
 health, his morals, his family and his use­  
 fulness to society.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn85055197:00280776361:1856031401:0605/pct:219.40418679549114,204.45665445665446,50.32206119162641,33.943833943833944/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn85055197:00280776361:1856031401:0605/pct:54.862089792631366,51.114163614163616,12.583048117576002,8.485958485958486/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -102,7 +102,7 @@ the fatal infatuation under which be is destroying hi
 bealth, lis morals, his fammily, and his uscfulness to  
 society.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530492:1856033101:0618/pct:247.98461281150693,214.7783251231527,48.77069744104365,16.1360086507269/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530492:1856033101:0618/pct:82.66153760383564,71.5927750410509,16.25689914701455,5.3786695502423/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -129,7 +129,7 @@ fatuation under which ho is destroying his
 health, his morals, his family, and his use­  
 fulness to society.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026050:00280775782:1856041101:0280/pct:109.99262536873157,9.89765876910136,16.44542772861357,9.378942941258938/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026050:00280775782:1856041101:0280/pct:82.51890097731882,7.4302537501752415,12.336345196385764,7.037712042618814/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -175,7 +175,7 @@ ation under which he is destroving his
 health, his morals, his family, and his use­  
 tulness to society.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1856041101:0058/pct:146.96734059097977,170.291146761735,44.7900466562986,61.61616161616162/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1856041101:0058/pct:36.74183514774494,42.57278669043375,11.19751166407465,15.404040404040405/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -214,7 +214,7 @@ the taste or necessary to health, and will, there­
 fore, be bought, is in that particular a tyranny  
 Jefferson was combating the theory tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barack_ver01:data:sn86053573:00211101982:1884041801:0758/pct:85.13145965548505,75.55555555555556,57.29827742520399,55.111111111111114/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barack_ver01:data:sn86053573:00211101982:1884041801:0758/pct:21.292517006802722,18.88888888888889,14.331065759637188,13.777777777777779/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -310,7 +310,7 @@ ly opposo the tax on whisky, hut he
 could not, without stultifying himself,  
 act with Mr. Morrison in favor of sing
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn90061417:00294559917:1884050201:1006/pct:37.718023255813954,345.76271186440675,48.18313953488372,27.710519235942964/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn90061417:00294559917:1884050201:1006/pct:9.432933478735006,86.44067796610169,12.050163576881134,6.927629808985741/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -331,7 +331,7 @@ which he is destroying his health, his
 morals, his family, etc. You quoted just  
 enough to make your hearers suppos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_audi_ver01:data:sn86088296:00200297672:1887061601:0785/pct:51.58924205378973,79.65912265996089,18.459657701711492,4.791841296451523/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_audi_ver01:data:sn86088296:00200297672:1887061601:0785/pct:38.69981658854697,59.751327186364904,13.857754228652945,3.59038837664152/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -366,7 +366,7 @@ As a sanita&#x27;y measure, therefore, it be­
 comes o.ie of duty in the publio guar­  
 dians.&quot; On this reasoning he ndvocitts 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_audi_ver01:data:sn86088296:00200297672:1887061601:0785/pct:51.5281173594132,99.27354009499861,18.602281988590057,13.327745180217939/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_audi_ver01:data:sn86088296:00200297672:1887061601:0785/pct:38.65905848787447,74.4621402626432,13.959649480334216,9.98882369376921/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -394,7 +394,7 @@ a tyranny.&quot;
 I do not question your right without  
 critio.sm of the propriety of its exeucis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_audi_ver01:data:sn86088296:00200297672:1887061601:0785/pct:51.60961695191524,113.94244202291142,18.561532192339037,9.611623358480022/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_audi_ver01:data:sn86088296:00200297672:1887061601:0785/pct:38.720195638883226,85.45683151718357,13.918891379661709,7.208717518860016/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -499,7 +499,7 @@ petence. Asa sanitary measure, there­
 fore,&quot; he added, It becomes one of duty  
 in public guardians.&quot; Mr. Blaine, i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn85034374:00295878010:1888080401:0152/pct:236.4227642276423,277.50617962098323,45.203252032520325,32.02416918429003/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn85034374:00295878010:1888080401:0152/pct:59.12972753151688,69.37654490524581,11.305408702724685,8.006042296072508/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -598,7 +598,7 @@ his competence. As a sanitary meas
 ure, there-lore, it becomes one oi duty m  
 the public guardians.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:0028077487A:1888082301:0939/pct:84.0748898678414,35.11142061281337,18.12775330396476,11.072423398328691/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:0028077487A:1888082301:0939/pct:63.07556730557391,26.337047353760447,13.593302489535139,8.300835654596101/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -625,7 +625,7 @@ ferent principle. One of Lis important duties is
 a- guardian of those who, from causes susceptiblo  
 ofpriiise definition, ctuuot take care of them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_pink_ver01:data:sn85025007:0017503433A:1888082501:0622/pct:1.2729587197672303,22.328244274809162,16.62120385524641,7.788645038167939/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_pink_ver01:data:sn85025007:0017503433A:1888082501:0622/pct:1.2729587197672303,22.328244274809162,16.627265563435778,7.796596692111959/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -696,7 +696,7 @@ important duties is as guardian of thoso
 who, from causes susceptible of prcclso  
 defiultlou, cannot td:o ecro of themselves
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_casablanca_ver01:data:sn85052020:00206533833:1888090401:0772/pct:30.43647700701481,93.24126941973178,18.92049883086516,10.09162129863232/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_casablanca_ver01:data:sn85052020:00206533833:1888090401:0772/pct:22.84155135451179,69.93427167706812,14.188267394270122,7.56871597397424/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -735,7 +735,7 @@ n yond his competence. As a san tary meae­
 ire. therefore, it becomes one of duty in the  
 tiblic guardians.&#x27;&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_lapras_ver01:data:sn83025167:00279528414:1888090601:0814/pct:251.04808877928483,81.794500723589,31.652281134401974,26.811384466956103/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_lapras_ver01:data:sn83025167:00279528414:1888090601:0814/pct:83.68269625976161,27.264833574529668,10.55076037813399,8.937128155652035/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -773,7 +773,7 @@ beyond his competence. Asa santary meas­
 ure, therefore, it becomes one of duty In the  
 public guardians.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_hobbs_ver01:data:sn84024283:00294556849:1888090601:0296/pct:43.1657848324515,24.87448653582839,15.770135214579659,12.562756732085806/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_hobbs_ver01:data:sn84024283:00294556849:1888090601:0296/pct:32.392295250698425,18.65586490187129,11.836494633142184,9.424920127795527/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -812,7 +812,7 @@ are therefore, it becomes one of duty in the
 public guardians.&quot; . &quot;  
 This is 3 Jefferson ian doctrin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_finney_ver02:data:sn83040198:00212473467:1888091301:0018/pct:95.86496746203905,32.34716044274335,21.55639913232104,16.7270094134685/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_finney_ver02:data:sn83040198:00212473467:1888091301:0018/pct:63.91864406779661,21.568221785455673,14.372881355932204,11.151339608979/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -849,7 +849,7 @@ petence. As a sanitary ineuiisuro.
 thereioie, it becomes one of duty in  
 the public guurdiauo.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_felice_ver01:data:sn86063662:00200292418:1888091301:0795/pct:174.21937550040033,210.80819487014034,39.31144915932746,48.33037586707533/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_felice_ver01:data:sn86063662:00200292418:1888091301:0795/pct:43.572286744092914,52.702048717535085,9.831798157789347,12.082593966768833/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -889,7 +889,7 @@ ure, thorcforc, It becomes ono of duly In the
 public guardians.&quot;  
 This is a JofTersonlan doctrln
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_delta_ver01:data:sn87075048:0023728950A:1888091501:0939/pct:73.79679144385027,25.51446251259174,16.386554621848738,13.742984602101021/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_delta_ver01:data:sn87075048:0023728950A:1888091501:0939/pct:55.36874283530761,19.139444524391998,12.3041650745128,10.303640811627572/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -922,7 +922,7 @@ beyond his competence. As a sanitary measure,
 therefore, it becomes one of duty in the publio  
 guardians
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_gary_ver01:data:sn87056600:00202191526:1888092601:0331/pct:76.26128518321826,112.8901087729999,15.878916622411046,10.145369523228627/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_gary_ver01:data:sn87056600:00202191526:1888092601:0331/pct:57.211155378486055,84.67012300498119,11.912350597609562,7.61410999288401/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -957,7 +957,7 @@ beyond his competence. As a sanitary
 measure, therefore, it becomes ouo of  
 duty in the public guardians.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn84026817:0020219221A:1888100301:0338/pct:74.14541037654,57.10153312120335,11.851466250216902,9.299971073184842/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn84026817:0020219221A:1888100301:0338/pct:74.14541037654,57.10153312120335,11.855804268610099,9.32166618455308/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1066,7 +1066,7 @@ As a sanitary measure, therefore, it be-
 comes one of duty in the public guardi  
 ans.&quot;--Letter to Genr Samuel Smith, da
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn93063557:00280777869:1888110201:0769/pct:94.91071428571429,182.37547892720306,179.375,132.5977011494253/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn93063557:00280777869:1888110201:0769/pct:23.738276016078608,45.593869731800766,44.86377847253238,33.14942528735632/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1104,7 +1104,7 @@ sle hisco ooa&#x27;tence. As a sanitary mess­
 mI thesrefore, it becomes one of duty m the  
 peies gurauaras.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_lila_ver02:data:sn88064176:00211100850:1888111001:0605/pct:2.728764874846122,19.06963305403063,16.02379975379565,11.470673215833575/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_lila_ver02:data:sn88064176:00211100850:1888111001:0605/pct:2.728764874846122,19.07238838318162,16.02379975379565,11.472330588065308/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1124,7 +1124,7 @@ of taxation. Mr. Jefferson said: &#x27;Taxes
 on consumption like those on capital or  
 income, to be just, must be uuifoim.&#x27; An
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chester_ver02:data:sn85054468:00211102081:1897032901:0137/pct:47.8623408126137,125.90744101633393,17.96543359611886,4.094827586206897/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chester_ver02:data:sn85054468:00211102081:1897032901:0137/pct:31.927802214469892,83.9382940108893,11.982405581677536,2.733666061705989/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1146,7 +1146,7 @@ taste, or necessary to the health, and will
 therefore be bought, is in that particu­  
 lar a tyranny.&#x27; NOW, these sayings of Mr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chester_ver02:data:sn85054468:00211102081:1897032901:0137/pct:47.816858702243785,130.10435571687842,18.086719223771983,5.546733212341198/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chester_ver02:data:sn85054468:00211102081:1897032901:0137/pct:31.897467010465647,86.74001814882033,12.058243591688154,3.6978221415607986/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1169,7 +1169,7 @@ Taxes on consumption, like those
 on capital or income, to be just, must  
 be uniform
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_frankenbatch_ver01:data:sn92073232:00295879737:1897040801:0286/pct:37.485763097949885,51.6357421875,14.009111617312072,6.005859375/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_frankenbatch_ver01:data:sn92073232:00295879737:1897040801:0286/pct:28.129896026207092,38.73291015625,10.511323173337132,4.50439453125/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1225,7 +1225,7 @@ make other branches of industry support
 them.  
 Tho great principles
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_atherton_ver01:data:sn84026355:00211100229:1897060901:0648/pct:72.80478955007257,24.168937329700274,15.965166908563136,9.768392370572206/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_atherton_ver01:data:sn84026355:00211100229:1897060901:0648/pct:54.6180366539648,18.13351498637602,11.976047904191617,7.329700272479564/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1244,7 +1244,7 @@ ment,&quot; and that &quot;taxes on consumption,
 like those on capital or income, to be just  
 must be uniform.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042945:1897070201:0408/pct:126.42526964560862,187.30110622821638,51.00154083204931,10.183361115320503/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042945:1897070201:0408/pct:31.624590479861244,46.825276557054096,12.75775679321642,2.5458402788301258/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1262,7 +1262,7 @@ Taxes on consumption, like those on
 capital or Income, to bo just, must lie  
 uniform
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_atherton_ver01:data:sn84026355:00211100242:1897100101:0017/pct:75.03831417624521,93.44865159357123,16.628352490421456,2.6831925905747753/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_atherton_ver01:data:sn84026355:00211100242:1897100101:0017/pct:56.30509773859716,70.08989376191774,12.476044461479495,2.0157995096703893/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1304,7 +1304,7 @@ would be a price beyond his competence. As a sani­
 tary measure, therefore, it becomes one of duty in the  
 public guardians.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042957:1897100801:0669/pct:132.56161314413743,230.52884615384616,49.663928304705,49.93990384615385/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042957:1897100801:0669/pct:33.152782966006725,57.63221153846154,12.420620097123646,12.484975961538462/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1433,7 +1433,7 @@ would be a price beyond this compet ence.
 comes one of duty in the public guard­  
 ians.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn86072192:00340583267:1897101201:0099/pct:6.102783725910064,54.83481671443656,14.411134903640257,16.005430683360988/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn86072192:00340583267:1897101201:0099/pct:6.101477199743096,54.82654600301659,14.413401841147506,16.006787330316744/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1499,7 +1499,7 @@ through the mass of our citizens
   
 now calls the attention of the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_black_ver02:data:sn84020751:00415667851:1897101401:0397/pct:66.17298578199052,73.28058429701765,14.60308056872038,18.454047474132683/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_black_ver02:data:sn84020751:00415667851:1897101401:0397/pct:49.63709080136276,54.96043822276324,10.961339060879869,13.840535605599513/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1553,7 +1553,7 @@ one of duty in the public guar
   
 dians.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_black_ver02:data:sn84020751:00415667851:1897101401:0397/pct:66.30627962085308,91.89287888009738,14.529028436018958,14.181375532562386/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_black_ver02:data:sn84020751:00415667851:1897101401:0397/pct:49.740779143830544,68.92270237370663,10.902088579469709,10.639074863055386/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1590,7 +1590,7 @@ ams r of duy o the puc o
 Throush raisr. f feison wanted t  
 o en  aene te 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_elk_ver01:data:sn84036012:00294550252:1897101501:0634/pct:121.35887242500904,172.27440933674922,47.48825442717745,98.71904355251921/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_elk_ver01:data:sn84036012:00294550252:1897101501:0634/pct:30.33971810625226,43.068602334187304,11.872063606794363,24.679760888129803/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1611,7 +1611,7 @@ The time to guard against
 1 corruption and tyranny is  
 before they have gotten-hol
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_deepspace_ver01:data:sn87091045:00513688167:1898041501:0725/pct:15.426078028747433,25.404905136510873,15.888090349075975,6.35508252352306/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_deepspace_ver01:data:sn87091045:00513688167:1898041501:0725/pct:15.44318959616701,25.410046789037995,15.888090349075975,6.365365828577305/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1629,7 +1629,7 @@ capital or income, to be just must be
 uniform.  
 I place economv among the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_frank_ver01:data:sn96091104:00296020837:1898092301:1039/pct:48.637071651090345,70.5179282868526,18.360591900311526,4.621513944223108/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_frank_ver01:data:sn96091104:00296020837:1898092301:1039/pct:36.50175301908843,52.89508632138114,13.770938839111803,3.4661354581673307/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1970,7 +1970,7 @@ will never be so, it is against right to
 make the other branches of industry  
 supjrort
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068402:00295878691:1899120701:0404/pct:65.2,22.260384243855317,30.02857142857143,104.88354620586026/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068402:00295878691:1899120701:0404/pct:48.906986712387486,16.700654717183642,22.53179025575082,78.66265965439518/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1991,7 +1991,7 @@ Taxes on consumption, like those
 on capital or income, to be just,  
 must be uniform
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068402:00295878691:1899120701:0404/pct:80.54285714285714,96.00729848663732,14.814285714285715,4.9372115487817965/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068402:00295878691:1899120701:0404/pct:60.42291755965138,72.00815713212407,11.11587369624232,3.7029086615863473/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

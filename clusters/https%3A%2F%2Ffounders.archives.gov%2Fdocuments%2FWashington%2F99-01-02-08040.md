@@ -160,7 +160,7 @@ have been taken fur the security of those gentle­
 men, by augmenting the guards, and to render  
 their persons as little exposed as possib&#x27;e.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216444:1831071201:0648/pct:26.446140797285835,68.80559838690547,18.26972010178117,8.848297948048867/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216444:1831071201:0648/pct:26.441655359565807,68.79743833017078,18.2722749886929,8.851201771030993/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -255,7 +255,7 @@ other illustrious personages.&quot;
 , It was the custom with Gen. Clinton to have two  
 sentinels stationed at bis door, but, on bearing o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:0041566137A:1850042201:0530/pct:28.232382061735585,22.81288309372562,15.550378567268492,4.714142427281845/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:0041566137A:1850042201:0530/pct:28.232382061735585,22.81659794197407,15.560085420306736,4.717857275530295/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -352,7 +352,7 @@ posed as possible.&quot;
 From Newburgh, on April 2, 1782, Washing­  
 ton wrote again to Col. Ogden, saying that h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_goethe_ver01:data:sn83030272:00175042878:1896071301:0571/pct:283.12883435582825,308.70219813309245,50.920245398773005,41.79464016862391/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_goethe_ver01:data:sn83030272:00175042878:1896071301:0571/pct:70.78220858895706,77.17554953327311,12.730061349693251,10.448660042155977/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

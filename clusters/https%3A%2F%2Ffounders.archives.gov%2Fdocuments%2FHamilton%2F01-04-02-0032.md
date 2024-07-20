@@ -103,7 +103,7 @@ eration as the representatives met in such convention shall
 ju^g* proper and uecessary to rendc- them adequate to the  
 preeerand support of the Union.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855092301:1017/pct:19.927356777282483,35.128565946015094,15.816410764404822,4.528591531277984/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855092301:1017/pct:19.93286005173078,35.137094366977955,15.810907489956524,4.524327320796554/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -132,7 +132,7 @@ such Convention shall judge proper and
 necessary to render them adequate to the  
 preservation and support of the Union.&quot; Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775617:1863060901:0345/pct:24.72567666422824,171.7168804958916,44.03803950256035,33.443851809139396/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775617:1863060901:0345/pct:6.1825498445216756,42.9292201239729,11.011523687580025,8.360962952284849/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -155,7 +155,7 @@ met in such Convention shell judge proper
 and necessary to render them adequate to the  
 preservation and support of the union.*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_edgewater_ver02:data:sn84031490:no_reel:1863092901:0002/pct:12.50956388676358,80.92608326253186,10.022953328232594,2.987822146700651/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_edgewater_ver02:data:sn84031490:no_reel:1863092901:0002/pct:12.514345830145372,80.92962333616539,10.032517214996174,2.9949022939677143/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -204,7 +204,7 @@ i in sifeh convention shall judge proper and
 | necessary to render them adequate to the  
 preservation ami support of the Union.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_debaptiste_ver01:data:sn83016710:00211664198:1865072801:0295/pct:18.120456905503634,18.785077583360845,18.258913118726202,6.624848684934522/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_debaptiste_ver01:data:sn83016710:00211664198:1865072801:0295/pct:18.12622591438791,18.785077583360845,18.258913118726202,6.639521660980888/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

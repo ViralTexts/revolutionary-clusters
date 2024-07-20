@@ -91,7 +91,7 @@ Approved, June 18, 1807,
 wAd TRUE COPY — Attf, &#x27;  
 ‘PHILIP CARRIGAIN,. Secretary
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1807072801:0539/pct:59.093034128097244,49.055283414975506,17.00171419666511,7.757672698190543/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1807072801:0539/pct:59.093034128097244,49.055283414975506,17.006908732013923,7.761005031823786/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -115,7 +115,7 @@ Approved, Fune 17, 1807.
 i TRUE COPTillttefly A 5 17  
 PHILIP CARRIGAIN, Secretary. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1807080401:0543/pct:41.561314791403284,84.07796101949026,16.561314791403287,5.727136431784108/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1807080401:0543/pct:41.561314791403284,84.08462435448942,16.571849978929624,5.727136431784108/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -135,7 +135,7 @@ CHARLES CUTTS, Speaker,
 was enacted,  
 SAMUEL BELL, President of the Senate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1807090101:0561/pct:41.90890719726411,45.52587148674149,16.07337167728898,3.3767007647234086/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1807090101:0561/pct:41.90890719726411,45.529181977687294,16.083734908544486,3.3767007647234086/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -160,7 +160,7 @@ JOHN A. HARPER, Secretary of the Senate.
 Zo the Honorable the Senate and House of Repres  
 Jematives of the State of Newhampfbire to b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808032901:0051/pct:75.115562403698,32.70971635485818,15.993836671802773,6.155703077851539/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808032901:0051/pct:75.12583461736004,32.70971635485818,15.98870056497175,6.162408636759874/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -184,7 +184,7 @@ JOHN A. HARPER, Secretary of the Senate.
 To the Honorable the Senate and House of Repre-  
 Jentatives of the State of Newbampfbire 1o b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808040501:0056/pct:26.396711828284367,31.88057308886885,16.090729182523976,6.231840496944194/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808040501:0056/pct:26.396711828284367,31.887252446314665,16.105952199725987,6.231840496944194/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -408,7 +408,7 @@ from this world, that you may rec?e the
 plaudit- of Gob, is Sir, the wish, and  
 prayer of the People of New-Hapresaire,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808062101:0099/pct:5.827183271832718,2.6862392650289593,51.39913899138991,92.690233672858/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808062101:0099/pct:5.837433374333743,2.6895679382198256,51.40426404264043,92.690233672858/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -649,7 +649,7 @@ world, that you may receive the plau­
 dit of Goo, is, sir, the wish, and pray­  
 er of the people of New* Hampshire
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808070401:0001/pct:5.567973989026621,9.189811852041469,72.13980898191424,84.76897478561372/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808070401:0001/pct:5.567973989026621,9.189811852041469,72.1601300548669,84.77750757284868/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -713,7 +713,7 @@ exit from this world, that you may receive
 tiie plaudit of God, is sir, the wish, and  
 prayer of the people of New-Hampshire.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808070501:0080/pct:77.30393928442356,32.13028169014085,17.275027105168054,28.609154929577464/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808070501:0080/pct:77.289972899729,32.126241669810135,17.277928334838904,28.60974894169915/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -736,7 +736,7 @@ CHARLES CUTTS, Speaker.
 &quot; In Senate, Fune 13, 1368— .  
 Read and concurred. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808091301:0147/pct:76.60964230171074,44.89592670052784,16.080870917573872,5.049297878697341/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808091301:0147/pct:76.60964230171074,44.90256614547024,16.091238983929497,5.052617601168542/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -760,7 +760,7 @@ CHARLES CUTTS, Speaker.
 ; Read and concurred.  
 JOHN A. HARPER, Clert
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808092001:0152/pct:60.41731547804422,6.041415359871331,15.976331360946746,5.629272215520707/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808092001:0152/pct:60.42250596906467,6.048116874413617,15.986712342987646,5.632622972791851/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -793,7 +793,7 @@ In Senate the fame day. This bill having
 becn read a third time, was enated.  
 » WILLIAM PLUMLER . President
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1810100201:0583/pct:32.63406940063091,55.643070787637086,16.466876971608833,11.375872382851446/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1810100201:0583/pct:32.63932702418507,55.643070787637086,16.466876971608833,11.385842472582253/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -847,7 +847,7 @@ and patriots of the Revolution. The con­
 flicts in which the nations of Europe were  
 engaged during a great part of this peri
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197954:1837031501:0496/pct:2.6271186440677967,81.45813635886122,19.562146892655367,2.4687467170921313/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197954:1837031501:0496/pct:1.9779598756710934,61.09885492173547,14.679287934444758,1.8489337115243198/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

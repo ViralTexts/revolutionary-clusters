@@ -117,7 +117,7 @@ Ids majesty’s island ot Jamaica, and other the ter­
 ritories thereon depending, in America, chancel­  
 lor and vice-admiral of the same
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805090901:0693/pct:52.77298496425931,12.20574008384392,20.18733053980774,2.3218316672041275/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805090901:0693/pct:52.7599802858551,12.20377236820893,20.188516510596354,2.3254876672577787/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -136,7 +136,7 @@ and other Territories thereon depending in
 America, Chancellor and Vice Admiral of the  
 fame
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1806013001:0330/pct:41.95086175284195,36.49312996344384,16.17161716171617,2.6723811924870793/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1806013001:0330/pct:41.943171402383136,36.48853037559869,16.174763214176597,2.67624569363919/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -155,7 +155,7 @@ ty’s island of Jamaica, and other the territories
 thereon depending in America, chancellor, and  
 vice-admiral of the same. • \ 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1806122701:0283/pct:52.90542183321177,11.36035891684025,18.794067590566495,3.1885915718634834/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1806122701:0283/pct:52.892561983471076,11.358538929830182,18.795576081672337,3.1920858699134893/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -174,7 +174,7 @@ ty&#x27;s [(land of Jamaica, and other the territo­
 ries thereon depending in America, chancellor,  
 and vice-admiral of the fame
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1807010601:0293/pct:58.12872023809524,75.27376804380289,16.871279761904763,2.8745644599303137/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1807010601:0293/pct:58.11790961502697,75.26440214010202,16.874341330357698,2.8783542781303137/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -235,7 +235,7 @@ fo de la Vega, the Eighteenth day of
 une, Annoque Domini, One Thousand  
 .Eight Hundred and Thirty.Ei?ht, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_kirby_ver02:data:sn83025661:00202197371:1838081501:0399/pct:2.698511166253102,68.343678536426,20.6575682382134,7.339649352063596/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_kirby_ver02:data:sn83025661:00202197371:1838081501:0399/pct:2.0322680732237046,51.2577589023195,15.497983245423518,5.510181857780681/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -273,7 +273,7 @@ Governor in Chief of the Provinces of New
 A ork, New Jersey, and Territories thereon  
 depending in America, and Vice Admira
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn84038814:00279557190:1859101601:0377/pct:32.60944501895898,70.05211643574425,12.082040675629093,1.8304309139443244/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn84038814:00279557190:1859101601:0377/pct:32.61375387797311,70.05211643574425,12.09065839365736,1.8304309139443244/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -309,7 +309,7 @@ Chief, in and over the Province of NEW-jErSEY,
 and Territories thereon depending in America, Chane­  
 cellor and Vice Admiral of the same, &amp;c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:00271743932:1875041901:0290/pct:173.16067304519962,61.184135329751975,48.64731111844276,6.435021145273746/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:00271743932:1875041901:0290/pct:57.72022434839987,20.39471177658399,16.21577037281425,2.145007048424582/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -328,7 +328,7 @@ Chief, in and over the Province of NeW-JERSEY,
 and Territories thercon depending in America, Chan­  
 cellor and Vice Admiral of the same, &amp;c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:00271743932:1875041901:0298/pct:123.52048558421852,65.6152512998267,51.879952790423204,7.972270363951473/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:00271743932:1875041901:0298/pct:41.1734951947395,21.87175043327556,17.293317596807732,2.657423454650491/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -345,7 +345,7 @@ Esq., President of His Majesty’s Prov­
 ince of New Jersey, and Territories  
 thereon depending in Americ
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_ketchup_ver01:data:sn87068192:00279529637:1886070801:0222/pct:51.58482142857143,29.232419181859967,14.397321428571429,1.5014554925693273/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_ketchup_ver01:data:sn87068192:00279529637:1886070801:0222/pct:51.573309529122966,29.227941176470587,14.399687569738898,1.5050551470588236/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -413,7 +413,7 @@ and Territories thereon denending in
 America, Chancellor and Vice Ad­  
 miral in the same, &amp;e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:0051368535A:1897040101:0104/pct:6.453028972783143,63.45917740945365,14.31079894644425,3.0540208717004296/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:0051368535A:1897040101:0104/pct:6.451612903225806,63.44943992634648,14.313144612683784,3.057388368881387/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -437,7 +437,7 @@ This city and vicinity was visited
 by a very heavy downpour of rain  
 early on Thursday evening of las
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_asburypark_ver01:data:sn84026089:00514155914:1899080201:0548/pct:15.677590788308237,38.27211445866006,10.611160318866252,5.282707387536112/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_asburypark_ver01:data:sn84026089:00514155914:1899080201:0548/pct:15.67481402763018,38.26685006877579,10.613708820403826,5.285419532324622/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

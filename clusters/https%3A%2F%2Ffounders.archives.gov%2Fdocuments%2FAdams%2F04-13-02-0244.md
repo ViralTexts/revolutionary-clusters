@@ -257,7 +257,7 @@ What a beautiful thought this of Mil ton&#x27;s is :—
 He that has light within his own clear breast  
 May sit in the centre and enjoy bright day
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762337:1878070201:0288/pct:7.066687887951615,25.304136253041364,10.29762852140697,1.2530413625304135/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762337:1878070201:0288/pct:7.066687887951615,25.304136253041364,10.301607512334872,1.2621654501216546/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -286,7 +286,7 @@ He that has light within his .own
 clear breast may sit in the center and  
 enjoy bright day
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_elliot_ver01:data:sn87068079:00332896453:1883072601:0120/pct:85.39923954372624,58.966745843230406,10.817490494296578,2.998812351543943/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_elliot_ver01:data:sn87068079:00332896453:1883072601:0120/pct:85.38300703288348,58.95799317203503,10.820186276373313,3.0020780762950867/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -327,7 +327,7 @@ He that has light within his own
 clear breast may sit in the center and  
 enjoy bright day
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_alvarez_ver01:data:sn84026688:00415623471:1883080901:0723/pct:74.78974769723668,22.173274596182086,13.67641169403284,5.12615138165799/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_alvarez_ver01:data:sn84026688:00415623471:1883080901:0723/pct:74.79642237351489,22.177724380367554,13.68976104658924,5.130601165843457/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -389,7 +389,7 @@ Wordsworth.
 He that has light within his own clear breast,  
 May siti the center and enjoy bright day
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_harry_ver01:data:sn86053573:00211102020:1886010201:0013/pct:63.755795981452856,306.1871380676623,43.66306027820711,14.568729046022554/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_harry_ver01:data:sn86053573:00211102020:1886010201:0013/pct:15.948192538179006,76.54678451691558,10.922095495843804,3.6421822615056385/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -543,7 +543,7 @@ etiindind
 breast  
 May sit in darkness and enjoy bright day
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn90053049:00332897913:1897021301:0981/pct:43.34542677105213,80.14510952978931,12.182547259881611,1.506906655504395/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn90053049:00332897913:1897021301:0981/pct:43.337151584574265,80.13392857142857,12.184994272623138,1.5101841517857142/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

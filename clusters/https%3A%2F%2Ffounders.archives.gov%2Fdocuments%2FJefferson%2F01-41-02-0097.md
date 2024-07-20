@@ -177,7 +177,7 @@ upon me.”
 
 ---
 
-## [From _Scientific American (1845-1908)_](https://archive.org/details/sim_scientific-american_1848-09-30_4_2/page/n5/mode/1up?view=theater)
+## [From _Scientific American_](https://archive.org/details/sim_scientific-american_1848-09-30_4_2/page/n5/mode/1up?view=theater)
 
 #### 1848-09-30 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -321,7 +321,7 @@ mnke of one flesh all the children of men, it be­
 comes them to consult and promote each other&#x27;s  
 happiness, as members of one family, however di
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn83035487:00211100497:1858111301:0900/pct:64.91291727140784,28.98827379329152,18.124092888243833,2.877011180801745/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn83035487:00211100497:1858111301:0900/pct:48.72027591214376,21.748022907008455,13.595933926302415,2.1543496045814017/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -367,13 +367,13 @@ Jerusalem, as the tents of Kedar, as the cur.
 tains of Solomon. Look not upon me because  
 I am black, because the sun hath looked upo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kikideville_ver02:data:sn83025783:00294558494:1866010601:0013/pct:197.28234336859236,281.1603322426378,45.874694873881204,5.474452554744525/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kikideville_ver02:data:sn83025783:00294558494:1866010601:0013/pct:65.76078112286412,93.72011074754593,15.291564957960402,1.8248175182481752/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Scientific American (1845-1908)_](https://archive.org/details/sim_scientific-american_1870-01-01_22_1/page/n8/mode/1up?view=theater)
+## [From _Scientific American_](https://archive.org/details/sim_scientific-american_1870-01-01_22_1/page/n8/mode/1up?view=theater)
 
 #### 1870-01-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -446,7 +446,7 @@ Bible &quot;Look not upon me, because
 I am black, because the sun hath looked  
 upon me.&quot; Solomon Song i. 6
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ira_ver01:data:sn84023416:00202197504:1878021501:0020/pct:40.59985369422092,104.88683127572017,16.532553035844916,1.941872427983539/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ira_ver01:data:sn84023416:00202197504:1878021501:0020/pct:30.455460032924822,78.66512345679013,12.401682824218035,1.4660493827160495/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -480,7 +480,7 @@ Bible—&quot;Look not upon me, because I
 am black, because the sun hath looked  
 upon me.&quot;—Solomon Song i, 6
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762337:1878030501:0217/pct:61.08160309029454,71.8906996691582,10.735554482536617,1.2743536331331944/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762337:1878030501:0217/pct:61.08160309029454,71.89988971939714,10.755673587638821,1.2743536331331944/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -497,7 +497,7 @@ Bible--&quot;Look not upon me, because
 I am black, because the sun hath looked  
 upon me.&quot; Solomon Song 1., 6
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_funston_ver01:data:sn84027670:00237283387:1878030701:0025/pct:314.6090534979424,190.558615263572,44.787379972565155,6.031995803829006/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_funston_ver01:data:sn84027670:00237283387:1878030701:0025/pct:78.69274318064848,47.639653815893,11.202607651398182,1.5079989509572516/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -514,7 +514,7 @@ Bible &#x27;Look not upon me, because I
 am black; because the sun hath looked  
 upon me.&#x27; Solomon Soug i, 6
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775253:1878030701:0048/pct:6.146728354263054,109.15806903579161,14.507600793126239,1.757737867787543/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775253:1878030701:0048/pct:4.610808130887457,81.8749203923067,10.890761857544208,1.3246720163036556/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -532,7 +532,7 @@ cause I am black, because the sun
 hath looked upon me.&quot;-(Solomon,  
 Song, 1, 6
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn84038328:00280763391:1878051001:1330/pct:159.51585976627712,60.28187059577194,43.40567612687813,9.673286354900705/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn84038328:00280763391:1878051001:1330/pct:39.88728866624922,15.070467648942985,10.853683990816114,2.4183215887251763/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -550,7 +550,7 @@ cause I am black, because the sun
 hath looked upon me.&quot;--Solomon,  
 Song, 1, 6
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn84038328:00280763391:1878051001:1334/pct:161.14333057166527,61.320906315282016,43.496271748135875,9.57737425678933/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn84038328:00280763391:1878051001:1334/pct:40.29417857882743,15.330226578820504,10.876320696084525,2.3943435641973325/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -567,7 +567,7 @@ Bible. &quot;Look not upon me, because
 I am black, because the sun hath looked  
 upon me.&quot; Solomon Song i. 6
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:00237283600:1878053001:0261/pct:48.20210787352759,73.3857874359935,12.802231866088034,1.8733608092918697/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:00237283600:1878053001:0261/pct:36.17054263565891,55.03934057699513,9.5968992248062,1.411265142999875/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -584,7 +584,7 @@ Bible—“ Look not upon me, because
 I am black, because the sun hath looked  
 upon me.”—Solomon Song i. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fireweed_ver01:data:sn83016209:00383342417:1878080901:0134/pct:87.07360861759426,61.342075892857146,14.703770197486534,2.0786830357142856/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fireweed_ver01:data:sn83016209:00383342417:1878080901:0134/pct:67.48759333982653,47.540274624283704,11.395575344371782,1.6181929577972394/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

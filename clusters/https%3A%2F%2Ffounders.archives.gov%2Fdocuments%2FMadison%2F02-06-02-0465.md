@@ -69,7 +69,7 @@ the French Republic ; and for other fiur- l
 flOSrS.  
 ft F. it enacted by the Senate and Hous
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804031401:0047/pct:22.40479412333269,9.287029729018679,18.171273922288808,20.50776111549592/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804031401:0047/pct:22.40046385775029,9.285808233592004,18.174204355108877,20.50944802490245/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -114,7 +114,7 @@ of April, one thoufand, eight hundred .and
 three, between the United States and the  
 French republic, or to any perfon or per
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804052601:0029/pct:6.505542431401054,44.641076769690926,16.10030892240596,3.9631106679960117/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804052601:0029/pct:6.504360465116279,44.63551401869159,16.10343992248062,3.9667705088265834/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -136,7 +136,7 @@ eight bundled and three, between the
 United States ar.d the French republic,  
 and for other purpofes,&quot; as refutes th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804113001:0002/pct:60.650553422182064,11.720838609821303,19.064829455613282,5.754889545518503/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804113001:0002/pct:60.650553422182064,11.720838609821303,19.07235900911076,5.764269968575583/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -157,7 +157,7 @@ eight hundred and three, between the U. States
 and the French republic, and for other purpo­  
 fes,” as refufes the drawback on goods, ware
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804120601:0254/pct:23.713170039048634,14.850018516232565,16.968406105786297,3.8637205283298357/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804120601:0254/pct:23.70896184560781,14.848185633176993,16.97131026323573,3.867357854027812/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -178,7 +178,7 @@ find eight hundred .and three, between the
 United States and the French Republic, and for  
 other purpofes,” ns prohibits the allow ance o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1805012201:0324/pct:77.16794731064763,22.032205717138932,17.508232711306256,4.006990388216202/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1805012201:0324/pct:77.15383208340955,22.029455816275586,17.5111273702823,4.010650690630721/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -200,7 +200,7 @@ tween the United States and the
 Fiench Republic ; and for other pur­  
 poses,&quot; and that they have leav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808020501:0002/pct:42.30142566191446,51.91074634521672,16.761710794297354,5.334701205437292/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808020501:0002/pct:42.30142566191446,51.91929554586646,16.775288526816023,5.330426605112422/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -220,7 +220,7 @@ of the 30 h of April, 1«03. between the U­
 nited States and the French republic, and  
 for other purposes,” and that they hav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808021201:0056/pct:5.145797598627787,14.568276911373145,17.362302267962644,3.499429440852035/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808021201:0056/pct:5.1448170731707314,14.566430020283976,17.365345528455286,3.503211629479378/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -243,7 +243,7 @@ ie between the United States and the J
 .y French republic, and for other pur- d  
 IS poses ;&quot; which were twice read 1
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808021901:0002/pct:58.96860986547085,53.17490737191772,19.486343253159397,6.017631276351092/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808021901:0002/pct:58.96860986547085,53.17916613432136,19.486343253159397,6.013372513947447/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -266,7 +266,7 @@ sand eight hundred and three, between the
 LI States and tht French republic, and for  
 other purposeswhich were twice rea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808022601:0072/pct:5.2911056324672865,33.50367692882961,17.618054238573865,4.561884581827247/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808022601:0072/pct:5.290102389078498,33.49950149551346,17.621034003286564,4.56547025589897/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -318,7 +318,7 @@ ticth of April, one thousand eight hundred
 and three, between the United States and the  
 French Republic ; and for other purposes ;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812052701:0625/pct:4.4672454617206,5.112354037876558,21.54696132596685,4.896477283877932/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812052701:0625/pct:4.472507234938174,5.115624897785628,21.552223099184424,4.896477283877932/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -379,7 +379,7 @@ _eth of April, one thousand eight hundred and
 three, between the U. States and the French  
 republic and for othet purposes,” as is ¢pntrar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1816052801:0521/pct:59.79663074821673,68.55796804588283,17.45333130975869,3.379762392462106/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1816052801:0521/pct:59.79663074821673,68.56138194728936,17.45333130975869,3.390004096681688/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -400,7 +400,7 @@ one thousand eight hundred and three, between
 the United States aedthe French Republic, and  
 tor other purposes,’* as is contrary to this act,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816070601:0218/pct:7.823691460055096,65.64364876385336,17.098255280073463,3.7510656436487637/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816070601:0218/pct:7.8222548659566655,65.63565513882124,17.101236381442035,3.7546679655788275/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -420,7 +420,7 @@ April, one thousand eight hundred and three
 beiween the United Btates and the Freoch  
 Republic, and for other purposes,’” as is con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1816092501:0357/pct:7.02755905511811,10.325774145274549,21.5748031496063,3.9138943248532287/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1816092501:0357/pct:7.034120734908137,10.3334484478723,21.581364829396325,3.9138943248532287/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -41,7 +41,7 @@ essential liberty to obtain a little tempo-
 rary safety, deserne neither liberty nor  
 sofety.&quot; In the same month he wrot
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867060101:0509/pct:101.62162162162163,179.66212534059946,37.35735735735736,6.670299727520436/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867060101:0509/pct:25.413036948032442,44.915531335149865,9.342144788224692,1.667574931880109/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -58,7 +58,7 @@ They that can give up essential liber­
 ty to obtain a attle temporary safety  
 deserve neither liberty nor safety
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn86053488:00212470028:1879030601:0277/pct:110.1904090267983,44.417506698991964,16.167136812411847,1.9267576878907746/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn86053488:00212470028:1879030601:0277/pct:82.69536073381549,33.31632002041597,12.136179220321043,1.4546382544340948/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -76,7 +76,7 @@ ty to obtain a .lltie temporary safety
 deserve neither liberty not safety.  
 A povnuol energy with an ounce o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_galactic_ver01:data:sn84022982:00513688647:1879030801:0746/pct:81.45285935085008,42.000311575011686,12.916758666372267,2.118710079451628/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_galactic_ver01:data:sn84022982:00513688647:1879030801:0746/pct:81.46757930374623,42.000311575011686,12.902038713476117,2.134288830035831/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -97,7 +97,7 @@ ty to obtain a iittle temporary aafety
 deserve neither liberty nor safety.  
 A pound of energy with an ounce o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033306:00212470132:1879031301:0237/pct:112.54805052169138,43.85401124756112,14.373970345963755,3.9825548031676803/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033306:00212470132:1879031301:0237/pct:84.45268507073204,32.893377711465625,10.781486059607197,2.9955239297601284/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -155,7 +155,7 @@ liberty to obtain a little temporary
 safety, deserve neither liberty nor  
 Buftcy*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn84026817:00202193791:1879072301:0124/pct:16.105137395459977,84.17362270450751,13.596176821983274,4.073455759599332/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn84026817:00202193791:1879072301:0124/pct:16.105137395459977,84.18196994991652,13.602150537634408,4.081803005008347/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -203,7 +203,7 @@ to obtain a little temporary safety,
 deserve neither liberty nor safety.  
 Franklin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775253:1880012901:0454/pct:112.56501950585175,85.63057324840764,14.53185955786736,9.579617834394904/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775253:1880012901:0454/pct:84.45528455284553,64.22929936305732,10.910569105691057,7.1847133757961785/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -224,7 +224,7 @@ They who can give up essential liberty to
 obtain a little temporary safety, deserve neither  
 liberty nor safety
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295861915:1880072201:0068/pct:42.7395111750098,86.93770846479762,13.723696248856358,3.786171459478951/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295861915:1880072201:0068/pct:42.743867903977694,86.94371826076505,13.723696248856358,3.7831665614952374/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -244,7 +244,7 @@ to obtain a little temporary safety deserv
   
 neither liberty nor safety.-PrunctiN.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777687:1882020801:0022/pct:162.78890600924498,368.0386034629577,42.449922958397536,4.938972466647743/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777687:1882020801:0022/pct:40.697226502311246,92.00965086573943,10.612480739599384,1.2347431166619358/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -273,7 +273,7 @@ They that can give up essential liberty
 to obtain a little temporary safety de­  
 serves neither liberty nor safety
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_cardinal_ver01:data:sn85052141:00202195052:1882022401:0359/pct:234.87394957983193,88.46111295497289,42.64705882352941,26.684367739794226/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_cardinal_ver01:data:sn85052141:00202195052:1882022401:0359/pct:58.73391121618072,22.115278238743223,10.664565274494352,6.6710919349485565/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -299,7 +299,7 @@ They that can give up essential liberty
 to obtain a little temporary safety de­  
 serves neither liberty nor safety
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kay_ver01:data:sn85033437:00296021064:1882031001:0235/pct:33.240396530359355,16.803718269574546,14.48265179677819,7.412704087713026/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kay_ver01:data:sn85033437:00296021064:1882031001:0235/pct:24.9419054996127,12.60874746752473,10.85979860573199,5.56548683112859/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -325,7 +325,7 @@ They that can give up essential liberty
 to obtain a little temporary safety deserves  
 neither liberty nor safety
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_ishtar_ver01:data:sn86069125:00206534242:1882041801:0502/pct:18.293157076205286,26.47307583873696,25.972006220839813,12.757259656047363/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_ishtar_ver01:data:sn86069125:00206534242:1882041801:0502/pct:13.72739646120941,19.86185508880744,19.48279214466265,9.571468846912884/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -381,7 +381,7 @@ a.. &#x27; .
 safety deserve neither liberty nor  
 safety .Franklin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_garfield_ver01:data:sn89067274:0029455628A:1883120601:0196/pct:100.67859346082665,32.612332695984705,13.556446637877853,19.478967495219884/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_garfield_ver01:data:sn89067274:0029455628A:1883120601:0196/pct:75.5438975466749,24.46223709369025,10.18361363987039,14.615200764818356/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -417,7 +417,7 @@ They that can give up essential liberty to obtain
 a little temporary safety, deserve neither lil»erty  
 nor safety.— Franklin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn90050009:00393342948:1889042701:0342/pct:36.67841592369894,56.56813266041817,27.82500518349575,11.968276856524874/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn90050009:00393342948:1889042701:0342/pct:36.67081260364842,56.55997693194925,27.824419568822552,11.97015570934256/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -442,7 +442,7 @@ erty to obtain a little temporary safety
 deserve neither liberty nor safety.  
 Franklin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_curry_ver01:data:sn85029677:00212473066:1889062801:0145/pct:72.67992424242425,92.07059107941497,20.94381313131313,8.884322494862806/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_curry_ver01:data:sn85029677:00212473066:1889062801:0145/pct:48.46093133385951,61.38039405294331,13.970007892659826,5.9228816632418715/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -463,7 +463,7 @@ erty toobtain a little tempo:ary safety
 deserve neither liberty nor safety.—  
 Franklin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_annapolis_ver01:data:sn85025350:00415627695:1889070601:0552/pct:58.12136991788504,68.08542637990675,15.722010815141198,4.421717551511506/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_annapolis_ver01:data:sn85025350:00415627695:1889070601:0552/pct:45.04863410596027,52.77410832232497,12.199917218543046,3.430724998057347/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -502,7 +502,7 @@ Franklin.
 —When wo desire any thing, our  
 minds run wholly on the circum
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033255:00514152512:1889080101:0749/pct:74.93465401018021,15.62430447362564,9.506121887467327,2.770977075450701/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033255:00514152512:1889080101:0749/pct:74.93923969367634,15.631723421618814,9.510707570963453,2.770977075450701/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -575,7 +575,7 @@ erty to obtain a little temporary safety,
 deserves neither liberty nor safety.—  
 Frank lip. -
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_lopez_ver03:data:sn88085081:00202199756:1889080901:0108/pct:54.81809883948363,93.19351393339159,11.787716781849003,2.0681619574715993/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_lopez_ver03:data:sn88085081:00202199756:1889080901:0108/pct:54.826791845959924,93.19675049357542,11.787716781849003,2.0649253972877624/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -594,7 +594,7 @@ deserves neither liberty nor safety.
 Franklin.  
 This Is one of the sad conditions o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_dove_ver02:data:sn86069395:00202195040:1889102201:0348/pct:38.10025273799494,81.74717041288059,14.132266217354676,3.204208512673362/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_dove_ver02:data:sn86069395:00202195040:1889102201:0348/pct:28.58647566884348,61.31037780966045,10.596165999578682,2.407141718476008/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -661,7 +661,7 @@ that give up essential liberty to obtain a
 little temporary safety deserve neither lib­  
 erty nor safety.&quot; Perhaps it was becaus
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:0017504291A:1897011601:0204/pct:74.68944099378882,334.91751172998335,51.24223602484472,12.895413954896322/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:0017504291A:1897011601:0204/pct:18.68323946397359,83.72937793249584,12.818022917071277,3.2238534887240804/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -704,7 +704,7 @@ deserv, neither liberty nor safetv
 Benjamin Franklin.&quot;  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_jayhawk_ver01:data:sn97065832:00415624839:1898040801:0402/pct:73.49225753871231,90.79805690492714,15.933170334148329,2.4149895905621097/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_jayhawk_ver01:data:sn97065832:00415624839:1898040801:0402/pct:73.49225753871231,90.80499653018737,15.95354523227384,2.4288688410825814/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -797,7 +797,7 @@ to obtain a little temporary safety de­
 serve neither liberty nor safety.&quot;  
 Franklin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_hobbs_ver01:data:sn84024283:00294556886:1898052601:0810/pct:91.88869153345175,51.030869119489694,15.748963883955003,3.23499259596765/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_hobbs_ver01:data:sn84024283:00294556886:1898052601:0810/pct:68.9471346068414,38.27315183961727,11.81697023545091,2.4262444469757374/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -816,7 +816,7 @@ to obtain a little temporary safety de­
 serve neither liberty nor safety.&#x27;V­  
 Franklin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_manhattan_ver01:data:sn84020355:00279554875:1898062301:0588/pct:42.32032854209446,52.91594047459445,20.472279260780287,3.552755061000134/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_manhattan_ver01:data:sn84020355:00279554875:1898062301:0588/pct:42.32546201232033,52.91929213031237,20.482546201232033,3.552755061000134/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -843,7 +843,7 @@ j neither liberty nor safety.—Franklin.
   
 COMMERCIAL.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_firebaugh_ver01:data:sn82015104:0028076890A:1898072001:0441/pct:57.64407684098186,44.18097033435857,12.766808964781216,6.806230776862784/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_firebaugh_ver01:data:sn82015104:0028076890A:1898072001:0441/pct:57.648523657061546,44.187584747164074,12.77570259694059,6.812845189668288/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -874,7 +874,7 @@ jamin Franklin.
 PRACTICAL  
 FARM NOTE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346824:1899010401:0621/pct:31.342865152789457,4.660129998898315,24.40426128399215,90.66872314641401/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346824:1899010401:0621/pct:31.347537613307168,4.667474569424553,24.413606205027566,90.66872314641401/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

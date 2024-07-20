@@ -224,7 +224,7 @@ troduce,|, for l&gt;, ioging to view the actual state of them i„
 «ll parts of the kingdom; by which good and had habits arc  
 exhibited in a manner too plain to be inisriiuccived.” Thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826062701:0157/pct:58.993491030322275,20.342361355375775,17.891728845848547,4.03329815922148/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826062701:0157/pct:58.98412698412698,20.33997655334115,17.894179894179896,4.036733098866745/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -246,7 +246,7 @@ troduced, for bringing to view the actual state of them, in
 &gt;11 parts of the kingdom; by which goud and bad habits arc  
 exhibited in a manner too plain to he misconceived.” Thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826070401:0162/pct:59.57446808510638,19.636150234741784,18.141097424412095,4.084507042253521/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826070401:0162/pct:59.564939219449776,19.63384579274733,18.143527404563873,4.087939600203419/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -268,7 +268,7 @@ troduced, for bringing to view the actual state of them, ii;
 all pails of the kingdom; by which good and bad-habits are  
 exhibited in a manner ten plain to be misconceived.” Thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826070701:0166/pct:60.956493921944976,20.552616108171662,17.73832373640435,3.974132863021752/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826070701:0166/pct:60.946745562130175,20.55019985892311,17.74081774081774,3.9775844501920212/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -290,7 +290,7 @@ troduced, for bringing to view the Hctual state of them, in
 all parts of the king Inin; by which good and bad habits are  
 exhibited in a manner too pl.-.in to be iuivonceived.” Thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826071401:0174/pct:58.63326462660536,65.88152161111765,17.488504835896624,3.8864680249676127/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826071401:0174/pct:58.62396956246037,65.87376354215732,17.491016698372437,3.889935625686921/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -898,7 +898,7 @@ ed them, affording at the same time a fund of in­
 formation useful in political economy, and ser­  
 viceable in all countries. * * * 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215737:1844011201:0579/pct:64.2234198922097,32.074212493326215,14.434100930916218,8.14201815269621/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215737:1844011201:0579/pct:64.21712718009015,32.072072072072075,14.435952707557647,8.143699254810366/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -932,7 +932,7 @@ tie, sheep, &amp;c. are not inferior to the best of!
 iheir respective kinds which have been imp u ted  
 from England. * * * * 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215737:1844011201:0579/pct:64.14502694757472,40.34970635344367,14.708476237138658,9.610250934329953/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215737:1844011201:0579/pct:64.13874191651969,40.34701368034701,14.710301130054216,9.6118340562785/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1407,7 +1407,7 @@ so alow iu maturation as older uutioua have been.&quot;
 He mentions that aii attempt waa then maturing to  
 establish a State society in Pennsylvania
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661368:1849092601:0378/pct:31.736364866693734,3.542759285026223,13.181756665313303,4.377608905062614/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661368:1849092601:0378/pct:31.736364866693734,3.549894751864141,13.186267875671042,4.377608905062614/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1461,7 +1461,7 @@ not he arslow in maturation as older nations have twhall
 lis mentions that an attempt was then mhatari tsete  
 tablish a State society in Pennsylvania
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347934:1850013101:0195/pct:17.158385093167702,349.7749774977498,59.80201863354037,10.276027602760276/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347934:1850013101:0195/pct:4.288763826896953,87.43062846857657,14.94760333786144,2.568621568921554/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1497,7 +1497,7 @@ subject immediately before the people; they 1
 can conveniently attend and participate in  
 the exhibitions and discussions ; and seein
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624256:1850111301:0177/pct:21.362229102167184,78.06577194959533,14.719954967632987,13.328552402417785/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624256:1850111301:0177/pct:21.362229102167184,78.06918690024929,14.738718453888733,13.328552402417785/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1527,7 +1527,7 @@ fore we can run. S-nall societies must prepare the way
 for greater ; but, wuh the lights befo-e us, 1 hope we sh*ll  
 not be so Ionic in maturation as older nations have been 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661204:1852050501:0436/pct:32.469689420362066,45.55739163594763,15.910978242816809,6.813270624126097/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661204:1852050501:0436/pct:32.469689420362066,45.565865853141815,15.916514421746111,6.813270624126097/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1776,7 +1776,7 @@ my excellent triend at my side Ghion. J C. Gray) tsI
 sident. That rociety, tounde in 1792, has done much,  
 silent. That reclety foumdea in itit, has ione mac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743221:1855102701:0951/pct:143.53694410797715,189.1729684311607,46.53054161619657,29.900372104189174/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743221:1855102701:0951/pct:47.84564803599238,63.057656143720244,15.510180538732191,9.966790701396391/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1816,7 +1816,7 @@ arc at this moment stimulating the invention of
 the whole country to fbmlsh us with even a better  
 mowi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855102901:1191/pct:34.36550151975684,52.67749295396591,15.672492401215806,13.098912897597637/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855102901:1191/pct:34.37816616008105,52.68644029884132,15.666160081053699,13.103386570035342/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1838,7 +1838,7 @@ for greater; but. with tho lights before ns. I
 hope we shall not be so slow in maturation as  
 other nations have been.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kuvasz_ver02:data:sn83045462:00280654061:1856010901:0519/pct:17.56841774142812,5.424214512332412,15.932683233721296,3.7969501586326886/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kuvasz_ver02:data:sn83045462:00280654061:1856010901:0519/pct:17.57628184963825,5.431890287585713,15.932683233721296,3.7918329751304882/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1888,7 +1888,7 @@ run. Sutaller societies must prepare the way for the grea­
 ter; but with the lights before us I hope we shall not be  
 so slow as older nations have been.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184674:1856011601:0026/pct:13.54381823546769,22.754281719678435,38.433166125700794,7.806128393335664/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184674:1856011601:0026/pct:4.513940109160643,7.5838769804287045,12.809165560308797,2.601739670705188/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2076,7 +2076,7 @@ convention which met at Washington
 and organized what they called &quot;the  
 Chio? States Society,&quot; and made stren
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_funston_ver01:data:sn84027670:00237283363:1871030201:0001/pct:75.60975609756098,301.1261582323592,52.402069475240204,31.019244476122594/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_funston_ver01:data:sn84027670:00237283363:1871030201:0001/pct:18.909426987061,75.2815395580898,13.10536044362292,7.754811119030649/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2113,7 +2113,7 @@ J.I it succeeds, it win do a Bip in tne lad­
 der ; at present, it is too much in embryo  
 to decide upon the result.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280775010:1871060101:0087/pct:73.74141876430205,60.05896226415094,13.286613272311213,11.910377358490566/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280775010:1871060101:0087/pct:55.313975110856816,45.04716981132076,9.969961378915748,8.93867924528302/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2131,7 +2131,7 @@ of no pursuit in which more real and important
   
 service can be rendered to any country than by
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_azure_ver01:data:sn83025121:0021110885A:1872121101:0367/pct:2.9082774049217,89.12075681691708,16.778523489932887,2.1702838063439067/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_azure_ver01:data:sn83025121:0021110885A:1872121101:0367/pct:2.1820216337187617,66.84752365052866,12.58858634837747,1.6277128547579298/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2151,7 +2151,7 @@ farming, and taxes are heavy deductions from the
 profit thereon. Of these we have none, or so light  
 as hardly to be felt.&quot; This last remark is cruell
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_azure_ver01:data:sn83025121:0021110885A:1872121101:0367/pct:2.7777777777777777,92.93266555370062,16.92766592095451,3.7006121313299944/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_azure_ver01:data:sn83025121:0021110885A:1872121101:0367/pct:2.088772845953003,69.69949916527545,12.700484893696382,2.782415136338342/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2187,7 +2187,7 @@ and important service can be rendered to
 any country than by improving its agricul­  
 ture and its breed of useful animals
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_pearsoll_ver01:data:sn84022650:00295868740:1879040401:0079/pct:61.719253058596266,17.85759775824736,15.421764327108821,16.252706661571775/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_pearsoll_ver01:data:sn84022650:00295868740:1879040401:0079/pct:46.31985827025286,13.399566934148517,11.579964567563215,12.18952999617883/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2372,7 +2372,7 @@ must walk, as other countries have
 done, before we can run. Smaller societies  
 must prepare the way for greater, but
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_earl_ver02:data:sn85054468:211102147:1898061201:0319/pct:6.882959369314737,87.90723981900453,18.101879927228623,6.165158371040724/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_earl_ver02:data:sn85054468:211102147:1898061201:0319/pct:4.5950864422202,58.60859728506787,12.071580224446466,4.106334841628959/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

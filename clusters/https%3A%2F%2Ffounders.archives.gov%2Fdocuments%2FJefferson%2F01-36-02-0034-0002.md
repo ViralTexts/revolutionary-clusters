@@ -171,7 +171,7 @@ them, the homage of my high relped
 -and confideration.  
 Tn. JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801120901:0003/pct:4.576528674515761,17.633061991233564,16.616027345233572,17.64558547276143/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801120901:0003/pct:4.576528674515761,17.633061991233564,16.628687175591846,17.649759966604048/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -235,7 +235,7 @@ confideration.
   
 Tu. JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1801121901:0044/pct:48.28490718321227,52.98839219560385,21.832122679580305,26.17930353173623/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1801121901:0044/pct:48.298358891579234,52.99250843829752,21.832122679580305,26.17930353173623/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -348,7 +348,7 @@ you to accept, for yourfelf and thrm, the hom­
 age cf my high rcfpetf and confidei ation.  
 Thj JEFFERSON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1801122101:0721/pct:11.779538904899136,7.642310514729007,42.34510086455332,85.65887409581717/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1801122101:0721/pct:11.777417612101567,7.6415094339622645,42.341977309562395,85.65251572327044/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -435,7 +435,7 @@ cept, for yourielf and them, the hom­
 age of my high refpet and cenfidera­  
 tion. Tu : JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1801122201:0624/pct:9.065376813855515,35.318275154004105,16.3051958183804,18.666275545125647/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1801122201:0624/pct:9.065376813855515,35.324793846354424,16.32079887657981,18.66301619895049/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -706,7 +706,7 @@ cept, Hr yourfelf and them, the hom­
 age of my high refpe&amp; and considera­  
 tion, Tu : JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802112301:0183/pct:24.09787827164318,32.88804705413219,16.33885705435961,19.070880271159407/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802112301:0183/pct:24.09787827164318,32.89137008606653,16.33885705435961,19.070880271159407/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -743,7 +743,7 @@ I nation, I beg leave through you, sir,
 Ito communicate the inclosed mes­  
 sage, Sec.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809053101:0001/pct:41.415150909454326,25.905845014546415,17.849290425744552,16.067177995239355/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809053101:0001/pct:41.421813578519554,25.905845014546415,17.849290425744552,16.075994005113287/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -779,7 +779,7 @@ swer was to be expected, was taken by. the house ;
 and from that day no answers have been given to  
 the messages of the president at the opening of con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809060501:0513/pct:51.21341005754316,4.49438202247191,21.391043282461847,13.190034196384953/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809060501:0513/pct:51.20060030015007,4.493650276782807,21.391945972986495,13.191957017258222/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -815,7 +815,7 @@ inclosed message, &amp;c.”
 It is unnecessary, 1 believe, (said Mr. R.)  
 to state that the hint contained in the mes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809060601:0036/pct:23.690205011389523,47.90492526341583,17.13684948309094,12.190639549130115/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809060601:0036/pct:23.68605466012614,47.89905671934338,17.139686989021257,12.193229613295765/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -851,7 +851,7 @@ motives will meet their approbation, T
 neg leave through you, mi-, to commu­  
 nicate tnc enclosed message, &amp;c.’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809060601:0171/pct:76.34045744281964,27.17489952029042,18.18522684664417,15.635939323220537/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809060601:0171/pct:76.3261480787254,27.17137671765621,18.18806622930334,15.638233514821536/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1013,7 +1013,7 @@ subjects not yet fully before them, and to the
 benefits thence resulting to the public af­  
 fairs.&quot; Mr. Benton says
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156372:1857042901:0484/pct:37.22627737226277,232.64395179288798,56.609894566098944,17.854485939592323/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156372:1857042901:0484/pct:9.308456702494423,58.160987948221994,14.155343743662543,4.463621484898081/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1107,7 +1107,7 @@ Senate. and pray you to accept for yourself and
 them the homage of my high respect and con­  
 aideratlon.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_yorkie_ver01:data:sn83045462:00280654528:1879121301:0326/pct:1.8053800324968405,49.371536694147856,13.59451164470121,7.690228409244493/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_yorkie_ver01:data:sn83045462:00280654528:1879121301:0326/pct:1.8144069326593248,49.371536694147856,13.599025094782451,7.703743749155291/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1136,7 +1136,7 @@ the President. It was not, however, the
 mud and swamps ol the District of Columbia  
 that induced President Jefferson to depar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fireweed_ver01:data:sn83016209:00383342417:1880022701:0458/pct:65.85190510424155,58.432972288648195,13.677210639827463,9.90293993529329/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fireweed_ver01:data:sn83016209:00383342417:1880022701:0458/pct:51.04466524282663,45.288709618808824,10.590584083944655,7.674697481739889/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1194,7 +1194,7 @@ them, the homage of my hIgh respect anc
 consideration.  
 &quot;(Signed) &quot;THtOS. JEF&#x27;FERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_havanese_ver01:data:sn83045462:00280655028:1895110401:0646/pct:58.54103343465046,68.79659211927583,13.576494427558258,9.828084588467975/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_havanese_ver01:data:sn83045462:00280655028:1895110401:0646/pct:58.554542384329615,68.80166337035347,13.58324890239784,9.828084588467975/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1234,7 +1234,7 @@ Ill IIHI IIOIKiniIMn din II&#x27;III&#x27;U &quot;II i?n|ii &lt;?
 nailIntlvo?, niiiI firnjr you to ncuntit, for  
 ynttrfinlf and for lliotn, llio hom?no o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_france_ver01:data:sn84026844:0020219364A:1895110601:0895/pct:16.39962299717248,80.32378580323785,18.881558278353754,11.937377690802348/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_france_ver01:data:sn84026844:0020219364A:1895110601:0895/pct:16.423185673892554,80.33268101761253,18.88941250392711,11.932930083615014/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1270,7 +1270,7 @@ s if message, with the documents accompanying
 slor in honorable the House of Representatives.  
 and pray you to accept, for yourself and for them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jaguar_ver01:data:sn83030214:00175038851:1895111701:0298/pct:150.99081681971967,7.016769638128862,47.78475914290318,13.007502206531333/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jaguar_ver01:data:sn83030214:00175038851:1895111701:0298/pct:50.33027227323989,2.3389232127096204,15.92825304763439,4.335834068843778/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1294,7 +1294,7 @@ sage, as used on all subsequent occas ons through
 home interests, a condition of things never pos.­  
 sible all the years that my office was at my resle
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jaguar_ver01:data:sn83030214:00175038851:1895111701:0298/pct:102.3038504913807,119.79258605472198,94.81230868374416,174.7352162400706/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jaguar_ver01:data:sn83030214:00175038851:1895111701:0298/pct:34.1012834971269,39.93086201824066,31.604102894581388,58.24507208002353/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1345,7 +1345,7 @@ yourself and for them, the homage of
 my high respect and consideration.  
 &quot;—Thos. Jefferson. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_sebeka_ver01:data:sn90059522:00206536895:1895122401:0586/pct:61.387133831131536,53.10106784597131,10.827110855829982,9.330169345270198/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_sebeka_ver01:data:sn90059522:00206536895:1895122401:0586/pct:61.39670687344438,53.10106784597131,10.831897376986406,9.340955668212706/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1374,7 +1374,7 @@ swers on subjects not yet full before
 them, and to the benefits thence resulting  
 to the public affairs.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn85044812:00340583255:1897031201:0542/pct:33.21888412017167,63.43328335832084,14.484978540772532,6.446776611694153/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn85044812:00340583255:1897031201:0542/pct:33.2117571336623,63.42377454654475,14.487234499034543,6.449557787438165/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

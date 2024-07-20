@@ -8739,7 +8739,7 @@ Its country next; and next all human race ;
 Wide and more wide, th&#x27; overflowings of the mind  
 Takes ev&#x27;ry creaturc in of, ev&#x27;rv kind 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789072501:0004/pct:72.25566064775008,48.77864040901344,19.46116365720837,4.961181594395001/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789072501:0004/pct:72.27715677844655,48.77864040901344,19.46116365720837,4.965915546298049/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12743,7 +12743,7 @@ Of life oppress, when sober sense conducts,
 EAnd virtue, thro’ this labyrinth we tread.  
 Virtue and sense 1 mean not to disjoin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152743:1830042801:0026/pct:49.089659910683615,45.53659742828882,12.744761250429406,3.2270029673590503/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152743:1830042801:0026/pct:49.09538532005038,45.54071876030333,12.739035841062636,3.2311242993735574/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12766,7 +12766,7 @@ Kuaves fuin would laugh atit; some great ones dure;
 Bt at his heart the most undaunted son  
 Offomunc dreads its name and awful charms
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152743:1830042801:0026/pct:48.98660254208176,48.788328387734914,14.94331844726898,5.736894164193868/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152743:1830042801:0026/pct:48.98660254208176,48.79244971974942,14.960494675369288,5.745136828222882/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13051,7 +13051,7 @@ the poet, that . l
 «‘One self approving heur whole years outweighs |  
 Of stupid starers and of loud huzzas’’— &#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152743:1832120601:0571/pct:37.20289355838788,26.953271028037385,15.328970031002411,2.5919003115264796/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152743:1832120601:0571/pct:37.214375932942936,26.96157840083074,15.323228843724882,2.5919003115264796/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13322,7 +13322,7 @@ A man without ceremony has need of
 great merit in its place.  
 All men think their enemies ill men
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn87062070:0039334295A:1835030601:0864/pct:72.82608695652173,39.71688034188034,18.921916592724045,14.636752136752136/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn87062070:0039334295A:1835030601:0864/pct:72.80993568418718,39.71157697957003,18.925112737487986,14.63924867583567/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14205,7 +14205,7 @@ Another still, amt still another spreads;
 1 rirud, parent, neighbour, lir.-i it wii! embrace  
 His country next and next all liamnr race
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183700:1845071701:0315/pct:74.43575748635492,48.75014011882076,12.730491222894232,3.060195045398498/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183700:1845071701:0315/pct:74.42477876106194,48.744676081596054,12.733529990167158,3.0635881342001046/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14342,7 +14342,7 @@ Than Caesar with a senate at his heels.”
 
 ---
 
-## [From _The American review : a Whig journal of politics, literature, art, and science_](https://archive.org/details/sim_american-whig-review_1846-03_3_3/page/n29/mode/1up?view=theater)
+## [From _The American Review: a Whig Journal Devoted to Politics and Literature (1848-1850)_](https://archive.org/details/sim_american-whig-review_1846-03_3_3/page/n29/mode/1up?view=theater)
 
 #### 1846-03-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -14560,7 +14560,7 @@ All mu’t be false that thwart this one great end;
 And all of God that bless mankind or mend,  
 Man, like the generous
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_angelou_ver01:data:sn83030362:print00211110016:1848012301:0001/pct:64.24150943396226,29.48673386629591,8.875471698113207,2.015988877302746/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_angelou_ver01:data:sn83030362:print00211110016:1848012301:0001/pct:64.25283018867924,29.48963040203916,8.875471698113207,2.024678484532499/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14629,7 +14629,7 @@ And heaven beholds its image in his breast.”
 &quot;One self-approving hour, whole years outweighs,  
 Of stupid starers.-and of loud huzzahs.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271742976:1848050501:0534/pct:7.520755331271366,205.56064073226545,41.13625264528732,2.734553775743707/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271742976:1848050501:0534/pct:2.506918443757122,68.52021357742181,13.712084215095773,0.9115179252479023/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14736,7 +14736,7 @@ Is worth a pound that is taught.
   
 a oe o i e i ie e ee o e o a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472049:1849021601:0314/pct:289.1089108910891,294.14831981460026,100.99009900990099,5.677867902665121/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472049:1849021601:0314/pct:72.3047619047619,73.53707995365006,25.257142857142856,1.4194669756662803/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14753,7 +14753,7 @@ a oe o i e i ie e ee o e o a
 Is worth a pound that is taught.  
 A ploughman on his legs is higher tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776014:1849031001:0810/pct:172.1264367816092,148.11068970361006,50.21551724137931,5.955892681556398/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776014:1849031001:0810/pct:43.04707150556953,37.027672425902516,12.558390226374415,1.4889731703890996/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14835,7 +14835,7 @@ worth a pound that is taught.
   
 For the Daily Gurette
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn87070038:00296028058:1850011801:0559/pct:26.27511591962906,29.771841958820257,94.28129829984545,358.98720089037283/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn87070038:00296028058:1850011801:0559/pct:6.572588439976802,7.442960489705064,23.58399381403441,89.74680022259321/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14890,7 +14890,7 @@ His country next, and next all human race.
 I have for a long time been expecting some  
 movement would be made by law to make the selle
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279523969:1850071601:0098/pct:54.674498286833085,14.464168310322156,78.43041279164628,272.7920227920228/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279523969:1850071601:0098/pct:18.221859706362153,4.820861181110989,26.13920609026645,90.92071144224097/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15008,7 +15008,7 @@ dare;
 But at his heart the most undaunted son  
 i Of fortune dreads its name and awful charms
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn93067980:00295862270:1852092801:0137/pct:-0.6581352833638026,28.61477418601937,21.681901279707496,10.339596218928696/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn93067980:00295862270:1852092801:0137/pct:-0.664229128580134,28.622554168125415,21.712370505789153,10.339596218928696/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15081,7 +15081,7 @@ Then drop into thyself sod be a fool.
 &quot;One self-approving hour, whole years outweighs,  
 Of stupid starers, and of loud hurras
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279523969:1854042101:0464/pct:177.17109526895658,244.76917967452673,38.22099805573558,2.701206686593601/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279523969:1854042101:0464/pct:59.04746476591609,81.58069515164932,12.738268805011069,0.9003025606966275/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15159,7 +15159,7 @@ I Knaves fain would laugh at it; some great ones dare;
 But at his heart the most undaunted son  
 Of fortune dreads its name and awful charms
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn84027851:00295862282:1855082801:0277/pct:-0.7685213648939441,13.998444617264749,18.736550876114357,8.09910009998889/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn84027851:00295862282:1855082801:0277/pct:-0.7685213648939441,13.998444617264749,18.746797827646276,8.10280339221568/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15264,7 +15264,7 @@ Correct old rime, and regulate the sun,
 Go teach eternal wisdom how to rule  
 Then drop into thyself and be a foo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn84027096:00279529479:1857121901:0135/pct:52.175278781215646,124.31966930761281,29.605779802104603,5.8560110230795726/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn84027096:00279529479:1857121901:0135/pct:17.39175959373855,41.43988976920427,9.868593267368201,1.9520036743598577/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15324,7 +15324,7 @@ One may be more cunning than
 another, but not more cunning than  
 all the world.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn82014141:00279529455:1858091601:0408/pct:228.71342573148536,43.97611520899192,29.469410611787765,4.624751200093666/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn82014141:00279529455:1858091601:0408/pct:76.23780857716179,14.658705069663974,9.82313687059592,1.5415837333645552/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15351,7 +15351,7 @@ One may be more cunning than anoth­
 er, but not more cunning than all the  
 world.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279523982:1858100101:0164/pct:14.720407838139238,45.35270629991127,37.86840847538633,27.096273291925467/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279523982:1858100101:0164/pct:4.906021025804396,15.115892203615394,12.620792184347456,9.031089423681195/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15650,7 +15650,7 @@ season. We turn from the
 Groves that shine with silver frost,  
 Their beauty withered and their verdure lost
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028822:00280775459:1860111501:0168/pct:77.5617053103964,195.8057705840957,49.88780852655198,10.527797325826883/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028822:00280775459:1860111501:0168/pct:19.394052739854125,48.95144264602393,12.474284645595661,2.631949331456721/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15718,7 +15718,7 @@ Friend, paient, neighbor, first it will embrace;
   
 His country next, and next all nuraan race.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_black_ver02:data:sn84026561:00415667826:1861071701:0391/pct:77.36656596173212,108.11324339730191,16.075025176233634,15.409462283868516/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_black_ver02:data:sn84026561:00415667826:1861071701:0391/pct:58.038524486969656,81.08493254797644,12.060934155860506,11.561846855405662/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15740,7 +15740,7 @@ An ounce of wit that is bought is worth
 a pound that is taught.  
 A p&#x27;oughman on his legs is higher tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016179:00296026189:1861081501:0533/pct:49.11732254505333,65.82422263240096,10.867966164030893,4.671304841686781/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016179:00296026189:1861081501:0533/pct:49.11732254505333,65.82895546405415,10.886355277675616,4.671304841686781/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15759,7 +15759,7 @@ An ounce of wit that is bought is worth a
 pound that is taught.  
 A plowman on his legs is higher than 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn84028745:00280775320:1862012401:0528/pct:11.513157894736842,32.29988726042841,16.10014619883041,4.213641488162345/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn84028745:00280775320:1862012401:0528/pct:8.648747485829219,24.224915445321308,12.086304626074236,3.1708004509582866/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15842,7 +15842,7 @@ An ounce of wit that is bought,
 Is worth a pound that is taught.  
 A ploughman on his legs is highe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn86081096:00296028678:1862100101:0285/pct:8.018648018648019,27.893926056338028,14.39005439005439,5.721830985915493/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn86081096:00296028678:1862100101:0285/pct:8.029008029008029,27.897593896713616,14.384874384874385,5.718163145539906/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15875,7 +15875,7 @@ An ounce of wit that is bought is worth
 a pound that is taught.  
 A ploughman on his legs is higher tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_dillinger_ver02:data:sn87056248:00200295808:1862103001:0184/pct:168.81467544684855,220.47335000962093,49.905926622765755,54.5699441985761/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_dillinger_ver02:data:sn87056248:00200295808:1862103001:0184/pct:42.20863224744208,55.11833750240523,12.477948959190874,13.642486049644026/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15911,7 +15911,7 @@ An ounce of wit that is bought is worth a
 pound that is taught.  
 A plowman on his legs is higher than 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624505:1862120601:0506/pct:72.01422688131785,93.17925591882751,16.510670160988393,13.105975197294251/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624505:1862120601:0506/pct:55.81507809855409,72.22222222222223,12.795589728710286,10.164555118683559/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16013,7 +16013,7 @@ But all mankind&#x27;s concern i charity;
 All must be false that thwart this one great end,  
 And all of God that bless mankind or mond.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023246:00280777511:1865012701:0174/pct:110.31976744186046,121.6012896292316,104.06976744186046,85.86781300376141/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023246:00280777511:1865012701:0174/pct:27.579941860465116,30.4003224073079,26.017441860465116,21.466953250940353/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16039,7 +16039,7 @@ And all of God that bless mankind or mond.
 All must be false that thwarts this one great end,  
 And all of God that bless mankind, or mend.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hawaiian_ver01:data:sn86053571:00237288968:1866041601:0372/pct:85.81752484191509,45.26105148262689,46.070460704607044,3.56558122612334/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hawaiian_ver01:data:sn86053571:00237288968:1866041601:0372/pct:21.464075915047445,11.315262870656722,11.522819701762314,0.891395306530835/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16222,7 +16222,7 @@ And all of God that bless mankind or mend.&quot;
 ShIPMENT OF FLOUR.-Mr. Chas. Russ  
 sell, of the &quot;Pioneer Mill,&quot; informs us tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_bittern_ver01:data:sn86072040:no_reel:1867060701:0336/pct:35.32920394585914,92.03252032520325,41.31681578343657,34.959349593495936/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_bittern_ver01:data:sn86072040:no_reel:1867060701:0336/pct:11.77640131528638,30.67750677506775,13.77227192781219,11.653116531165312/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16322,7 +16322,7 @@ Another still, and still another spreads.
 Kriend, neighbor first it will embrace,  
 His conn try next, and next all Unman race
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_belgium_ver01:data:sn84026844:00202190819:1868062601:0602/pct:49.622763526622116,82.5285787408292,12.093123517999569,2.3204231359836207/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_belgium_ver01:data:sn84026844:00202190819:1868062601:0602/pct:49.63354171157577,82.53710970824092,12.103901702953223,2.3246886196894727/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16356,7 +16356,7 @@ Odd Felloweship in its relation to the Charch:
 It makes no crusade against religion. It  
 would be impossible for it to do so. I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774765:1868070601:0344/pct:183.36827393431167,338.5353535353535,48.2879105520615,33.23232323232323/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774765:1868070601:0344/pct:45.84206848357792,84.63383838383838,12.071977638015374,8.308080808080808/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16412,7 +16412,7 @@ Part paya, and justly, the deserving steer,
 The tog, that ploughs wot, nor obeys thy call,  
 Uvea ou the labours of this lord of all.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027239:00279529443:1869021701:0677/pct:4.392631714543347,7.522168993986342,10.31817596290094,2.752013046580369/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027239:00279529443:1869021701:0677/pct:4.401219459830822,7.528964087928515,10.326763708188414,2.752013046580369/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16461,7 +16461,7 @@ Correct old time, and regulate the Sun.
 Go teach eternal wisdom how to rule.  
 Then drop into thyself, and be a fool.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058250:00271744808:1870040501:0544/pct:6.388738494856524,50.45401629802095,16.580942068218732,6.204889406286379/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058250:00271744808:1870040501:0544/pct:4.79285134037368,37.84633294528521,12.442458705659355,4.656577415599535/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16598,7 +16598,7 @@ menu.
 The recommendations of the Grand Mas­  
 ter having been referred to a special com
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016926:00295877479:1871033001:0433/pct:6.964686098654709,91.75122749590835,15.106502242152466,6.7539552645935625/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016926:00295877479:1871033001:0433/pct:5.228483319315952,68.81614839061648,11.340061676478834,5.062738679759956/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16614,7 +16614,7 @@ ter having been referred to a special com
 All must be fake that thwart this one great end ;  
 And all of God, that bless mankind, or mend
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dunbar_ver01:data:sn85026214:print00211110181:1871091701:0005/pct:31.636964909057504,36.395484624367455,10.545654969685835,0.5579343454002854/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dunbar_ver01:data:sn85026214:print00211110181:1871091701:0005/pct:31.636964909057504,36.395484624367455,10.568620246187765,0.5676657584014533/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16710,7 +16710,7 @@ that can with safety exclude the sympa­
 thy of the gentle sex? Is there an aim  
 of life that hits a nobler incentive tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_heddalettuce_ver01:data:sn93067790:00294558755:1872031301:0022/pct:59.52243404583093,24.18866886688669,19.295205083766607,6.023102310231023/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_heddalettuce_ver01:data:sn93067790:00294558755:1872031301:0022/pct:59.53527184029784,24.18866886688669,19.30804287823352,6.0276861019435275/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16779,7 +16779,7 @@ The Atmospheric Phenone-­
 non that Produced Epie­  
 demie.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn83025167:00279529352:1872120601:0869/pct:47.16162775864269,174.37100638977637,32.86133435387167,44.73841853035144/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn83025167:00279529352:1872120601:0869/pct:15.720542586214227,58.12366879659212,10.953778117957222,14.912806176783812/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16797,7 +16797,7 @@ guides;
 Go, measure earth, weigh air, and state the  
 tide
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn83045160:00200293071:1873052701:0596/pct:223.8067520372526,68.25325550067355,38.18393480791618,4.400538841490794/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn83045160:00200293071:1873052701:0596/pct:55.95983117450153,17.063313875168387,9.54737301702809,1.1001347103726986/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16830,7 +16830,7 @@ Loves of his own and raptures swell the note.
 All must be faise that thwart this one great end,  
 And all of God that bless mankind or mend
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743853:1874012801:0303/pct:59.70004837929366,256.31168235024097,37.316561844863735,2.3984392930915766/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743853:1874012801:0303/pct:19.900016126431222,85.43722745008033,12.43885394828791,0.7994797643638589/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16867,7 +16867,7 @@ Correct old time aud regulate tiicsun;
 (io teach eternal wisdom how to rule,  
 Then siuk into thyself and be a fool
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jimmy_ver02:data:sn86053406:00296020709:1874071001:0329/pct:70.38300104931794,82.66057091882249,12.460650577124868,11.061552185548617/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jimmy_ver02:data:sn86053406:00296020709:1874071001:0329/pct:52.80073461891644,61.99821587867975,9.340154794700249,8.296164139161464/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16913,7 +16913,7 @@ worth a pound that is taught.
 is, I was getting short of shirts.&quot;  
 I Boyd&#x27;s Arcadia iron furnace, in Bote
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_antares_ver02:data:sn84026824:00271767791:1875050101:0484/pct:39.31121377572448,15.899664230693265,17.877642447151057,13.490025676476398/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_antares_ver02:data:sn84026824:00271767791:1875050101:0484/pct:39.31121377572448,15.906247942590031,17.886975593821457,13.493317532424781/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16934,7 +16934,7 @@ Correct old Time and regulate the sun;
 Go, teach Eternal Wisdomn how to rule,  
 Then drop into thyself and be--a fool.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00271742095:1875102101:0390/pct:46.35245901639344,110.72210065645514,40.669398907103826,7.731582786287381/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00271742095:1875102101:0390/pct:15.450819672131148,36.90736688548505,13.556466302367943,2.577194262095794/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17061,7 +17061,7 @@ Part pays, and justly, the deserving steer;
 The hog, that plows not, nor obeys thy call,  
 Lives on the labors of this lord of all
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777675:1878062601:0318/pct:159.5695618754804,49.56722446624351,35.664873174481166,21.92729371032891/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777675:1878062601:0318/pct:39.8923904688701,12.391806116560877,8.916218293620291,5.481823427582228/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17085,7 +17085,7 @@ Take every creature in of every kind;
 Erth snines around, with boun diess beauty ble st.  
 And he aven beholds its image in his breast.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:0027174402A:1878063001:1174/pct:149.99181803305515,169.00921658986175,43.69170348551792,10.011520737327189/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:0027174402A:1878063001:1174/pct:49.99727267768505,56.336405529953915,14.563901161839306,3.337173579109063/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17170,7 +17170,7 @@ of stupid star-era and of loud huzuu*; c
 And inora true joy Marcel ins exiled feels  
 Than Cwaar with a senate at his heels.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:0041562380A:1879021501:0036/pct:26.868013335948223,19.26646045072912,11.021768974308689,4.1832375902194725/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:0041562380A:1879021501:0036/pct:26.868013335948223,19.27628025727893,11.028306203830816,4.178327686944567/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17187,7 +17187,7 @@ All must be false that thwarts this one great
 end;  
 And all of God that bless mankind or mend
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_omahoney_ver01:data:sn83026413:00212475488:1879050401:0287/pct:193.68440779610194,135.0,47.17016491754123,4.585492227979275/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_omahoney_ver01:data:sn83026413:00212475488:1879050401:0287/pct:64.56146926536732,45.0,15.723388305847076,1.528497409326425/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17241,7 +17241,7 @@ Them drop into thyself and be a fool.&quot;
 Button.  
 S
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn82006687:00415623537:1880102101:0559/pct:52.696934419868064,75.63751317175975,11.641443538998836,6.469968387776607/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn82006687:00415623537:1880102101:0559/pct:52.696934419868064,75.63751317175975,11.654378476264391,6.473480857042501/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17349,7 +17349,7 @@ Of stupid starers, and of loud huzzas.&quot;
 Perhaps the New Year has better things in  
 store for us than any that has passed. It ma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_elm_ver01:data:sn82015483:00271764170:1881010101:0005/pct:113.12178387650086,75.10248372317338,13.121783876500858,2.9901133349409212/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_elm_ver01:data:sn82015483:00271764170:1881010101:0005/pct:84.87274806977409,56.32987701953219,9.837003145553332,2.2425850012056907/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17422,7 +17422,7 @@ Go, soar with Plato to empyreal sphere,
 To thc first good, first perfect, and first fair;.  
 Go, tuioh eternal wisdom how to ruto
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_gnomiemoore_ver01:data:sn84026912:00294558639:1881063001:0820/pct:82.64855131772794,54.03926234384295,15.81273530856114,5.580011897679952/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_gnomiemoore_ver01:data:sn84026912:00294558639:1881063001:0820/pct:82.65400774813118,54.03926234384295,15.81273530856114,5.587943684314892/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17629,7 +17629,7 @@ And Heav&#x27;n beholds its image in his
 breast.&quot;  
 No, my young friends. Society is a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_dungeness_ver03:data:sn83045611:00202198892:1883062701:0100/pct:27.0926517571885,234.72091932457786,42.95527156549521,32.5281425891182/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_dungeness_ver03:data:sn83045611:00202198892:1883062701:0100/pct:6.773162939297125,58.680229831144466,10.738817891373802,8.13203564727955/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17677,7 +17677,7 @@ Take every creature in i f every kind ;
 Earth sanies around, with boundless bounty blest,  
 And btaven beholds its image in bis breast.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lytton_ver01:data:sn82014381:00175036428:1883113001:0130/pct:28.686503370047674,93.23671497584542,10.899227354923557,3.248792270531401/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lytton_ver01:data:sn82014381:00175036428:1883113001:0130/pct:28.698832812756862,93.2457729468599,10.891007726450765,3.239734299516908/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17728,7 +17728,7 @@ Wide and more wide, th&#x27; o&#x27;erflowings of the
 mind  
 Take every creature of every kind
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn92064025:00514153383:1883121201:0317/pct:6.537931034482758,78.68589743589743,12.179310344827586,4.086538461538462/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn92064025:00514153383:1883121201:0317/pct:6.537931034482758,78.69257478632478,12.188505747126436,4.083199786324786/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17811,7 +17811,7 @@ Wide and more wide, th&#x27; o&#x27;erilowings of the
 minu  
 Talte every creature in of every kind
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jay_ver01:data:sn97067613:00202197474:1884010301:0344/pct:48.21140398063475,75.41384290634375,12.547068316299086,14.16509276747028/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jay_ver01:data:sn97067613:00202197474:1884010301:0344/pct:36.17651015740616,56.5603821797578,9.417462666487287,10.632151983112987/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17856,7 +17856,7 @@ Earth smites around, with boundless bounty
 DIC&#x27;Ht,  
 And heaven beholds its image in his breast.&#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_detroit_ver02:data:sn96077385:00296023565:1884011101:0178/pct:11.519766688269605,35.369400814426996,21.06286454957874,22.827225130890053/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_detroit_ver02:data:sn96077385:00296023565:1884011101:0178/pct:7.681088964511424,23.58347876672484,14.049586776859504,15.218150087260035/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17901,7 +17901,7 @@ Wide anO more w,de, th* o&#x27;erflowinirs of the
 mind  
 Take every creature in of everykin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quiring_ver01:data:sn89064939:00206537942:1884013001:0251/pct:40.325610519724485,16.751417954234306,10.807764558547277,16.154899276354392/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quiring_ver01:data:sn89064939:00206537942:1884013001:0251/pct:40.325610519724485,16.7579372840472,10.824462533917762,16.151639611447944/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17998,7 +17998,7 @@ And heaven beholds
 breast.&quot;  
 its image i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_ferrari_ver02:data:sn86088181:00200296941:1885043001:1175/pct:162.80864197530863,284.2606448102299,50.617283950617285,67.20174125969255/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_ferrari_ver02:data:sn86088181:00200296941:1885043001:1175/pct:40.70216049382716,71.06516120255748,12.654320987654321,16.80043531492314/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18252,7 +18252,7 @@ and died
 &#x27;One self-approving hour whole years out­  
 weighsOf stupid starers and of loud huzzaa.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_forest_ver01:data:sn82015483:00271764078:1892062701:0539/pct:73.03254437869822,68.67947178871549,10.680473372781066,1.3205282112845138/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_forest_ver01:data:sn82015483:00271764078:1892062701:0539/pct:54.78621097795532,51.51260504201681,8.01893771267939,0.9963985594237695/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18291,7 +18291,7 @@ And all of God that bless mankind, or
 mend.&quot;  
 Suchxwas Popo&#x27;a opinion of charity;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_foxtrot_ver01:data:sn87076843:00237282784:1894022401:0015/pct:83.68113522537563,79.63267134537853,18.65609348914858,6.1669404210840675/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_foxtrot_ver01:data:sn87076843:00237282784:1894022401:0015/pct:62.79749478079332,59.72823652381663,13.987473903966597,4.628938330595789/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18452,7 +18452,7 @@ mend,&quot;
 The Grand Army of the nepubllo Is a  
 patriotic oignnlzntion. Its members are Im
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_edwards_ver01:data:sn86063624:0021110935A:1895091401:0126/pct:40.41882876204596,100.65799093434713,16.215715344699777,3.0706243602865917/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_edwards_ver01:data:sn86063624:0021110935A:1895091401:0126/pct:30.329996292176492,75.49349320076034,12.161661104931405,2.3102792805965784/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18484,7 +18484,7 @@ And all of God that bless mankind or mend.&quot;
 The Grand Army of the Republic is a patri­  
 otic organization. Its members are imbue
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_douglas_ver01:data:sn84029671:00212473285:1895092001:0544/pct:9.259879437374414,72.16026970954357,18.536503683858005,11.721991701244812/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_douglas_ver01:data:sn84029671:00212473285:1895092001:0544/pct:6.179869368614972,48.106846473029044,12.359738737229945,7.818983402489627/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18590,7 +18590,7 @@ Pope.
 That is, in a great degree, true of all men,  
 which was said of the Athenians, that the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685154:1895102401:0668/pct:49.706112852664575,29.946450638473156,20.92476489028213,3.9544143896745845/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685154:1895102401:0668/pct:49.69637610186092,29.942339373970345,20.927195559908586,3.9584477393373603/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18686,7 +18686,7 @@ In air castles. Puck.
 He that resolves to mend hereafter re­  
 solves not to mend now. Poor Richard
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665659:1897032101:0206/pct:109.86363636363636,96.5954892376297,16.65909090909091,2.2982591544464452/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665659:1897032101:0206/pct:82.4070917149676,72.44661692822228,12.501420615979088,1.7322699596947089/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18814,7 +18814,7 @@ And all of God, that bless mankind, or mend.
 Now or Never.—He that resolves to  
 mend hereafter resolves not to mend a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_junior_ver01:data:sn85035801:00332896945:1897122801:0295/pct:44.97506422850234,9.772779967539995,9.928970832703643,0.7883143983306283/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_junior_ver01:data:sn85035801:00332896945:1897122801:0295/pct:44.968268359020854,9.771647154283064,9.931248111211847,0.7911208995015648/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18919,7 +18919,7 @@ One man may be more cunning
 than another, but not more cun­  
 ning than everybody else
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn84026817:00202192245:1898122101:0561/pct:49.59216965742251,46.25691814739295,11.908646003262643,4.01980774832508/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn84026817:00202192245:1898122101:0561/pct:49.59216965742251,46.2678415380134,11.924959216965743,4.01980774832508/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

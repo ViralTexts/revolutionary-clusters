@@ -40,7 +40,7 @@ they will become the tools of opulence and ambition; in
 which case there will be equal dunger on another side.&quot;  
 This is true. Look at England
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530248:1846090201:0317/pct:48.11585175957646,103.3070317939197,41.20211772033635,12.636342538872128/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530248:1846090201:0317/pct:16.03861725319215,34.4356772646399,13.734039240112114,4.212114179624042/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -96,7 +96,7 @@ opulence and ambition.&quot; Gouverneur Morris again
 said, &quot;give the votes to the people who have no pro  
 perty, and they will sell them to the rich who wil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293253:1858052801:0503/pct:71.92008879023308,33.890020366598776,44.28412874583796,17.311608961303463/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293253:1858052801:0503/pct:17.987508674531576,8.472505091649694,11.075641915336572,4.327902240325866/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -119,7 +119,7 @@ become the tools of opulence snd ambition.&#x27; Oouvsrneor Morris
 again said, &#x27;give the votes to tho people who have no property, and  
 they will sell them to the rich who will be able to buy them. W
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82006534:00415661095:1858100601:0343/pct:5.901116427432217,70.2471003530005,17.6555023923445,3.567826525466465/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82006534:00415661095:1858100601:0343/pct:5.906432748538012,70.25550512691208,17.66613503455609,3.567826525466465/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -152,7 +152,7 @@ on the reception such a charge would meet
 with by the people,&quot; &amp;c. &quot;In several of the  
 States a freehold was now the qualification.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn85033711:00212470259:1859012601:0090/pct:157.70474137931035,89.98827167075382,44.55818965517241,14.415182855315065/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn85033711:00212470259:1859012601:0090/pct:39.43149669944766,22.497067917688454,11.14104809376263,3.603795713828766/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -250,7 +250,7 @@ ture. A gradual abridgement of this right hu
 been the mode tn which oriaiocreeiu* have been  
 built on the ruin* of popular forms.’&#x27; Mr. Butle
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_halsted_ver02:data:sn82014064:no_reel:1865092901:0003/pct:21.770872332459753,46.180296008371954,8.947959565705728,4.096277470473912/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_halsted_ver02:data:sn82014064:no_reel:1865092901:0003/pct:21.78023212280045,46.191508446703544,8.952639460876076,4.096277470473912/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -268,7 +268,7 @@ certainly one of the fundamental articles of re­
 publican government, and ought not to be left to  
 be regulated by thß legislature;” of Franklin wh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_hera_ver01:data:sn83021205:00517171694:1866020701:0132/pct:7.219973009446694,44.04524284763806,16.036887089518668,2.6447105788423153/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_hera_ver01:data:sn83021205:00517171694:1866020701:0132/pct:5.601394538059268,34.14403575111722,12.434631028471818,2.049673427294603/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -287,7 +287,7 @@ nrticies of republican government, and ought not to be left to
 thiatihl has been the mode in which aristocracies have  
 been built on the rums of popular forms.&quot; (M.liot&#x27;s Ltesate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202197589:1866022001:0033/pct:8.809234507897935,102.5908600215905,16.72235722964763,2.2550077965695094/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202197589:1866022001:0033/pct:6.607929515418502,76.94614369677342,12.547470758013064,1.691255847427132/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -333,7 +333,7 @@ The authority of the Fathers of our coun­
 try is however of no weight with tho Radical  
 party who, whilo they prate of tho Declara
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_iceland_ver01:data:sn84026788:00202192324:1869021601:0242/pct:16.225165562913908,38.65558688232675,13.14046706169397,8.265321264282534/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_iceland_ver01:data:sn84026788:00202192324:1869021601:0242/pct:16.22952248170094,38.659296631547704,13.15353781805507,8.276450511945393/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -356,7 +356,7 @@ said :
 to the Constitution of the United States to reg­  
 ulate the elect ons lor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn83032041:00212477680:1869032501:0334/pct:25.640279394644935,89.67757174914374,16.70547147846333,5.917089878351246/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn83032041:00212477680:1869032501:0334/pct:19.243085880640464,67.26113145151766,12.532751091703057,4.440770048423291/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -381,7 +381,7 @@ in which aristocracies have
 been built on the ruins of pop.  
 ular forms.--Elliots Debates
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn85038222:00280774923:1870020301:0844/pct:26.122448979591837,335.04779857277504,49.46938775510204,32.152955432880034/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn85038222:00280774923:1870020301:0844/pct:6.530612244897959,83.76194964319376,12.36734693877551,8.038238858220009/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -507,7 +507,7 @@ sings. In future times, a
 great majority of the people will not only be without property in land,  
 but property of any sort,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn85032018:00280760961:1894090501:0355/pct:85.6283422459893,108.63557858376511,43.761140819964346,3.0774061862144766/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn85032018:00280760961:1894090501:0355/pct:57.09828393135725,72.42895273983356,29.19545353242701,2.056837808133145/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -541,7 +541,7 @@ come true. He feared that these pen­
 niless people would combine political­  
 ly, In which case the rights of proper
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_larkspur_ver01:data:2017270212:0027952746A:1898011401:1010/pct:9.031979256698358,41.34488327705183,18.863439930855662,17.36896197327852/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_larkspur_ver01:data:2017270212:0027952746A:1898011401:1010/pct:6.789189189189189,31.00866245778887,14.162162162162161,13.037733078843049/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -563,7 +563,7 @@ true. Ho feared that these penniless
 peopla would combine politically, in  
 which case the rights of property woul
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346824:1898020901:0385/pct:32.22781024874269,82.70495396755808,11.458474921843143,4.504603244191144/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346824:1898020901:0385/pct:32.236871913370486,82.70860733596376,11.453944089529246,4.504603244191144/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

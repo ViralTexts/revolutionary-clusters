@@ -131,7 +131,7 @@ between his Britannic Majelty and the U­
 nited States of America, as relates to the  
 reltoration of [laves. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010832:1817021101:0022/pct:43.31412103746398,14.60575229896302,16.38328530259366,5.018587360594796/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010832:1817021101:0022/pct:43.318924111431315,14.60575229896302,16.38328530259366,5.021848301050023/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -219,7 +219,7 @@ is supposed to he wanted.
 All which is respectfully submitted,  
 JAS. MONROE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1817030401:0403/pct:48.0893300248139,53.88361958472186,14.88833746898263,3.4478338887464752/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1817030401:0403/pct:48.08137611644062,53.876714084326544,14.89138824567207,3.4516638899568544/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -351,7 +351,7 @@ and the United States of America, as re­
 lates to the restitution of slaves, and which  
 has not heretofore been communicated
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010832:1817123001:0174/pct:43.53111432706223,80.51870916650168,16.584659913169318,6.9788160760245495/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010832:1817123001:0174/pct:43.53111432706223,80.51870916650168,16.589483839845634,6.98211575265624/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -577,7 +577,7 @@ the late treaty of peace between his Britan­
 nic Majelty and the United States, as re­  
 lates to the restitution of slaves
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010832:1818120101:0366/pct:27.554744525547445,8.606719367588934,15.932060640089837,7.025691699604743/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010832:1818120101:0366/pct:27.564102564102566,8.606719367588934,15.941418678644956,7.032279314888011/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -604,7 +604,7 @@ of the late treaty of peace between his
 Britannic majesty and the United States,  
 aB relates to the restitution of slaves
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_beachhaven_ver01:data:sn85025061:00513684939:1818120101:0053/pct:45.680238331678254,71.64537941397445,17.52730883813307,8.054094665664914/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_beachhaven_ver01:data:sn85025061:00513684939:1818120101:0053/pct:45.66890047158104,71.63461538461539,17.52916356415984,8.056640625/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -770,7 +770,7 @@ restitution of slaves, and which has not
 heretofore beeu communicated, I lay b(­  
 fore the Senate a report made by the Sec
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_beachhaven_ver01:data:sn85025061:00513684939:1818121501:0061/pct:47.11964549483013,35.890865239674405,17.454455933037913,9.436237564063914/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_beachhaven_ver01:data:sn85025061:00513684939:1818121501:0061/pct:47.10804824021659,35.885455915599096,17.456313069160718,9.438583270535041/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1018,7 +1018,7 @@ President extracts of two despatches from
 the Minister of thv United States at Lon­  
 don, containing the inhumation desired
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183943:1820041801:0433/pct:49.09663517321399,26.797623378198132,15.017404276479363,4.923002303868073/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183943:1820041801:0433/pct:49.088498508452105,26.794374393792435,15.020439730416529,4.926446815389589/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

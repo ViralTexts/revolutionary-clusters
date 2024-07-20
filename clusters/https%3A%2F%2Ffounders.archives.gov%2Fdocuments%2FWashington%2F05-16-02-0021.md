@@ -213,7 +213,7 @@ ted States ot America.
 EDMUND RANDOLPH,  
 Secretary of Srate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_zarley_ver01:data:sn84038410:01000424529:1796031001:0094/pct:9.935205183585314,44.902425679372605,29.620487503856836,47.07277038117819/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_zarley_ver01:data:sn84038410:01000424529:1796031001:0094/pct:9.932140653917335,44.89423778264041,29.619062307217767,47.06874544128373/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -479,7 +479,7 @@ most complete manner, with ample power and
 authority, in the name of the United States, to  
 meet and confer with anv neTsnii nr Tvrw
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn86058890:00296029828:1847101101:0111/pct:35.739856801909305,55.89895568727067,22.295147175815433,8.227490826982782/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn86058890:00296029828:1847101101:0111/pct:26.815197931171674,41.927744848998024,16.729659836880842,6.167090036692069/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -527,7 +527,7 @@ manner which by them maybe deemed expedient; the said
 treaty to be transmitted to the President of the United States  
 fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1853090301:0735/pct:50.52924791086351,50.59671003117944,15.75208913649025,10.719277497043329/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1853090301:0735/pct:50.52924791086351,50.60029387521055,15.75208913649025,10.726445185105543/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -573,7 +573,7 @@ for and in the name of the United States, to meet and
 confer with the plenipotentiartes representing the Gove­  
 ernment of her Britannic Majesty, for the purpose o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ford_ver01:data:sn83030214:00175038218:1888022201:0526/pct:10.004675081813932,106.60734149054505,45.92488701885616,18.865406006674082/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ford_ver01:data:sn83030214:00175038218:1888022201:0526/pct:3.334891693937977,35.53578049684835,15.308295672952054,6.288468668891361/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -593,7 +593,7 @@ confer with the plenipotentiaries rep­
 resenting the government of Her  
 Brittanic Majesty for the purpos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_graftonnotch_ver01:data:sn83016025:00414210582:1888022201:0345/pct:34.76733977172959,10.719424460431656,9.686859818554288,2.194244604316547/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_graftonnotch_ver01:data:sn83016025:00414210582:1888022201:0345/pct:34.762253108997804,10.718139311833113,9.689100219458668,2.196978779522839/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

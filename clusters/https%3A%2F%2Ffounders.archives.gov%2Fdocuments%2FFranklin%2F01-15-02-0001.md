@@ -3636,7 +3636,7 @@ V
 &quot;Gur fears will be excited; our hopes will  
 be awakened. It will be Insinuated to us
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_goodnow_ver01:data:sn85032801:00212473650:1894051101:0266/pct:31.870385561936015,36.25478927203065,20.877768662838392,5.244252873563219/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_goodnow_ver01:data:sn85032801:00212473650:1894051101:0266/pct:21.260004104247898,24.173850574712645,13.933921608865175,3.496168582375479/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

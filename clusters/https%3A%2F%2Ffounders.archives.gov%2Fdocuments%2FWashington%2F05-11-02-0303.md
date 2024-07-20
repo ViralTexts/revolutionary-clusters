@@ -88,7 +88,7 @@ thousand, seVen hundred and ninety!
 vvo, and of the Independence of the  
 United States the seventeent
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792121501:0003/pct:71.03574702108158,15.384615384615385,22.150931866788877,45.691150954308846/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792121501:0003/pct:71.0510235258173,15.394254867939079,22.158570119156735,45.70079043763254/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -146,7 +146,7 @@ of the United States the Seventeenth.
 , *  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792121501:0002/pct:2.9926774912448266,65.55705214546855,27.379815345431393,21.99345776409467/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792121501:0002/pct:3.008595988538682,65.56667308062343,27.379815345431393,21.998268231672117/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -202,7 +202,7 @@ G. WASHINGTON.
 By the President,  
 Th. Jefferson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792121901:0001/pct:4.0154192097655,27.25287812624057,20.7516864760681,25.526002381897577/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792121901:0001/pct:4.023450048185031,27.262802699483924,20.7516864760681,25.53592695514093/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -456,7 +456,7 @@ ed&quot; citizens of Georgia aro now invading and
 plundering the same Cherokee nation, murder­  
 ing their people, and incarcerating their friends
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021207:0051717192A:1832011101:0054/pct:59.29319371727749,94.9434278530521,15.50112191473448,8.422964101131443/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021207:0051717192A:1832011101:0054/pct:45.96174282678002,73.58184180138568,12.003671142884745,6.527857967667437/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

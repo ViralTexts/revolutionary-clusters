@@ -62,7 +62,7 @@ cept the service of a number of volunteer
 companies not: exceeding thirty thoafand:  
 meo. L ART 5 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1807021701:0448/pct:6.234335839598997,70.46853285685924,17.089598997493734,2.481635894381576/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1807021701:0448/pct:6.239557226399332,70.47184170471841,17.100041771094403,2.4849447422407516/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -83,7 +83,7 @@ ed States to accept the service of a
 number of volunteer companies not  
 exceeding thirty thousand men
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807030901:0002/pct:21.685441941074522,31.3970888314515,18.2842287694974,4.815671337233029/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807030901:0002/pct:21.699884459849798,31.406157892350247,18.2842287694974,4.820205867682401/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -105,7 +105,7 @@ thirty thousand men.
 1H To continue in form for a further  
 time, “ An act to suspend the commercia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807031001:0082/pct:41.207056638811515,86.78234243429446,17.251624883936863,4.733350344475632/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807031001:0082/pct:41.19940586706276,86.77127184589871,17.25461071914841,4.7369987668495135/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -125,7 +125,7 @@ States to acre&#x27;ll the service of a num­
 ber of volunteer companies not exceed­  
 ing thirty thousand men
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807041401:0122/pct:40.44410704118429,15.322990844354019,17.707344847219588,4.501525940996948/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807041401:0122/pct:40.43643263757116,15.321042593769867,17.710309930423783,4.505191777919051/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -167,7 +167,7 @@ Authorizing the President of the Ustited
 of volunteer companies not exceeding  
 thirty thousand men. - 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1807072801:0539/pct:42.07573632538569,14.165750274917524,16.22253389434315,5.508347495751274/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1807072801:0539/pct:42.08612539608332,14.169082608550768,16.227728429691965,5.508347495751274/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -185,7 +185,7 @@ Stages to accept the service of a number l
 of volunteer companies, not exceeding |  
 thirty thousand men. P : 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1807090101:0559/pct:59.08947700063012,52.58637906930298,16.88720856962823,2.5464349910125823/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1807090101:0559/pct:59.094727998319684,52.58637906930298,16.89245956731779,2.5497636642034487/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -210,7 +210,7 @@ our naval affairs, which \ ere : lnptcd.
 The house resolved itse&#x27;t into a com­  
 mittee of the whole on the second re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1807121701:0238/pct:8.494946735864518,56.823642479577124,27.26031139033051,14.58433445458914/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1807121701:0238/pct:8.492626979792464,56.80999279365842,27.261969779719642,14.588838177596285/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -284,7 +284,7 @@ the sign of the Bible, in Second street, where ad­
 vertisements are taken in. and all persons may be  
 supplied with the papers.&quot; The editorial was a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn86076422:00279557372:1865112501:0402/pct:44.63169854194281,89.71525711857204,12.459761408824086,1.4307975633942485/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn86076422:00279557372:1865112501:0402/pct:44.64116644574891,89.71525711857204,12.455027456921037,1.441422297775889/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -467,7 +467,7 @@ to be handled in another manner than
 th&#x27;s advertisement for his so free charges  
 of villainy, forgery, counterfeit, et
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_delta_ver01:data:sn86071197:00175034912:1898010201:0015/pct:107.02341137123746,251.10311375371617,54.8494983277592,26.146143013612893/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_delta_ver01:data:sn86071197:00175034912:1898010201:0015/pct:26.767043078209955,62.77577843842904,13.718109577582602,6.536535753403223/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -486,7 +486,7 @@ handled in another manner than this
 advertisement for his so frcochanrcs  
 of villainy, forgery, counterfeit, etc.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_fargo_ver01:data:sn85052118:00206534230:1898020901:0122/pct:64.33625336927224,67.74540083255002,10.545822102425875,2.7796428091849066/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_fargo_ver01:data:sn85052118:00206534230:1898020901:0122/pct:64.34888814016172,67.75547200214852,10.533187331536388,2.7695716395864105/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -570,7 +570,7 @@ another manner than this advertisement for
 his so free charges of villainy, forgery, coun­  
 terfeit, etc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_duval_ver01:data:sn84038206:0039334927A:1898031201:0252/pct:27.010135135135137,11.918220084185208,10.72635135135135,10.655441972339146/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_duval_ver01:data:sn84038206:0039334927A:1898031201:0252/pct:27.005573382874516,11.916786916786917,10.728762033440297,10.657166907166907/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

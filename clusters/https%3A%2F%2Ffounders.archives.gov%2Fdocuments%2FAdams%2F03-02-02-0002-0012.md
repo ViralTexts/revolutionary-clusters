@@ -241,7 +241,7 @@ But like a thrifty Goddess, she determines
 Herself the glory of a creditor,—  
 Both thanks—and u?e.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215737:1843111701:0396/pct:9.098845668833059,92.09464909922022,12.49393733630808,2.4267276149502552/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215737:1843111701:0396/pct:9.097963142580019,92.0884586946293,12.495958616230197,2.4288050906320717/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -628,7 +628,7 @@ once that
 Herself the glory of a creditor,  
 lloth thanks and us
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ulan_ver01:data:sn90059522:0017503531A:1885092701:0308/pct:29.221709374502627,4.268943436499466,13.43307337259271,3.7246531483457845/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ulan_ver01:data:sn90059522:0017503531A:1885092701:0308/pct:29.227014695739825,4.268943436499466,13.43307337259271,3.728210601209534/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -675,7 +675,7 @@ But like a thrifty godless she determine)
 Herself the glory of a creditor.  
 Both thanks and use.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_columbo_ver02:data:sn86063034:00414182021:1890042401:0199/pct:37.90189233878376,20.29834100097588,15.230571376079368,2.5651749616617874/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_columbo_ver02:data:sn86063034:00414182021:1890042401:0199/pct:29.373516848599905,15.738673197435713,11.813004271476032,1.991644457249874/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

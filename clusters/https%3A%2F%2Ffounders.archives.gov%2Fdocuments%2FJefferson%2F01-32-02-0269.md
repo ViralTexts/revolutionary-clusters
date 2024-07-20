@@ -141,7 +141,7 @@ the said tribunal being exactly that of the crectors of the
 Drerion l..He it enucted, acrr that whenamever the quem  
 bers of the Senate and House of Repreantatives shall te a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271743944:1877012501:0264/pct:198.23984207928936,145.6451612903226,50.94587925645666,38.45622119815668/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271743944:1877012501:0264/pct:66.07994735976312,48.54838709677419,16.981959752152218,12.818740399385561/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -165,7 +165,7 @@ of our recent controversy, &quot;that the
 &quot;number of votes has been given for each  
 elector named by him as such,&quot; and by thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kite_ver01:data:sn83030214:00206531290:1877081601:0792/pct:54.44770283479961,157.16100716100715,48.19159335288368,18.572418572418574/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kite_ver01:data:sn83030214:00206531290:1877081601:0792/pct:18.149234278266537,52.38700238700239,16.063864450961226,6.190806190806191/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -241,7 +241,7 @@ ind no longer
 I no other certficate shalf be opened or proceeded  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kite_ver01:data:sn83030214:00206531290:1877081601:0793/pct:201.54748330346962,40.54054054054054,48.24890047238964,75.41002541002541/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kite_ver01:data:sn83030214:00206531290:1877081601:0793/pct:67.18249443448987,13.513513513513514,16.08296682412988,25.136675136675137/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -260,7 +260,7 @@ conclusive that the requisite uuraber of votes had
 been given for each elector named by him, as  
 such. When the vote of the elector or elector
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_dyerbrook_ver01:data:sn82014248:0033289593A:1877081601:1126/pct:56.1764705882353,82.92511261261261,12.720588235294118,1.9707207207207207/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_dyerbrook_ver01:data:sn82014248:0033289593A:1877081601:1126/pct:56.16614592905716,82.91344123856439,12.722845065245359,1.9739619985925405/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -356,7 +356,7 @@ term of fone hour) and no longer, during
 which no other certifieste shall be offered  
 or proceeded on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00271742137:1877081701:0174/pct:6.490899357601713,8.567751424894283,82.53479657387581,286.19231476374335/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00271742137:1877081701:0174/pct:2.163633119200571,2.8559171416314273,27.5115988579586,95.39743825458112/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -385,7 +385,7 @@ the disestablishment of the Cronin College, while s
 few miles away slept a reinforcement which woule  
 have put to rout the hosts which were beleaguerin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kite_ver01:data:sn83030214:00206531290:1877081801:0808/pct:200.24545900834562,5.292896678966789,97.72541318933071,291.54750922509226/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kite_ver01:data:sn83030214:00206531290:1877081801:0808/pct:66.7484863361152,1.7642988929889298,32.575137729776905,97.18250307503075/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -417,7 +417,7 @@ lowed the term of one hour and no longer,
 during which no other certificate shall be  
 offered or proceeded on.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_farmington_ver01:data:sn83016025:00279525437:1877081801:0119/pct:63.05370760993023,75.8291577189215,11.017361674509168,8.589835361488905/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_farmington_ver01:data:sn83016025:00279525437:1877081801:0119/pct:63.04347826086956,75.8201121316951,11.019630110317975,8.591792914231181/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -498,7 +498,7 @@ allowed the term of Joue hour| aDd no longer,
 during which do other certificate shall be opened  
 or prooeeded on. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_gabbana_ver01:data:sn85025007:00415663791:1877081801:0080/pct:18.977049180327867,64.71516213847502,19.095081967213115,33.11130587204207/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_gabbana_ver01:data:sn85025007:00415663791:1877081801:0080/pct:18.977049180327867,64.72100496640374,19.103825136612024,33.11130587204207/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -592,7 +592,7 @@ term of one hour and no longer, during
 which no other certificate shall be opened  
 proceeded on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn84022473:00280777936:1877081801:0777/pct:28.653061224489797,215.81679389312978,48.57142857142857,153.64885496183206/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn84022473:00280777936:1877081801:0777/pct:7.1647274954072255,53.954198473282446,12.145335782812818,38.412213740458014/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -677,7 +677,7 @@ I vote? shall be given; for which purpose ,
 other certificate shall be opened or pr&gt;&gt;  
 i ceeded on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_enterprise_ver02:data:sn84026847:00271767511:1877081801:0161/pct:36.707211120764555,41.03856041131105,13.857515204170287,33.07969151670951/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_enterprise_ver02:data:sn84026847:00271767511:1877081801:0161/pct:36.707211120764555,41.04541559554413,13.871995366348104,33.07626392459297/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -751,7 +751,7 @@ shall be allowed the term of sone hour, and
 no longer, during which no other certificate  
 shall be offered or proceeded on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_charlie_ver01:data:sn83045160:00280779532:1877081901:0175/pct:184.2642059252064,177.23101744479177,39.29091792132103,88.01048704245235/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_charlie_ver01:data:sn83045160:00280779532:1877081901:0175/pct:46.0660514813016,44.307754361197944,9.822729480330258,22.00262176061309/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -781,7 +781,7 @@ He rlectoral Coinminsion, eacept that they atided
 that the Governor&#x27;s certificate should be in har­  
 mony with the declaration of the canvassin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_braniff_ver01:data:sn86053573:00294558378:1877082001:0867/pct:183.7864077669903,268.0108569212873,49.029126213592235,17.68127181077937/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_braniff_ver01:data:sn86053573:00294558378:1877082001:0867/pct:45.94660194174757,67.00271423032183,12.257281553398059,4.420317952694843/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -804,7 +804,7 @@ votes has been given for each elector named
 by him as such.” Wo print tho whole of  
 this paper, and direct attention to tho com
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1877082001:0004/pct:2.7061855670103094,69.32429738887781,12.835051546391753,4.983057604145904/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1877082001:0004/pct:2.7061855670103094,69.32928044648196,12.847938144329897,4.993023719354196/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -874,7 +874,7 @@ allowed the term of [one hour), and no longer,
 daring which no certificate shall be opened or pro­  
 ceeded on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1877082001:0007/pct:43.22597137014315,25.345345345345347,12.781186094069529,20.66066066066066/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1877082001:0007/pct:43.232361963190186,25.35035035035035,12.774795501022496,20.665665665665667/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -898,7 +898,7 @@ leaders held the same ground until it was neces­
 sary to repudiate that sensible doctrine iu order  
 to elect Mr. Tildcn. The majority af the Com
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_dyerbrook_ver01:data:sn82014248:0033289593A:1877082101:1141/pct:5.469039673711531,82.46210511403882,12.550982573229515,4.193228502620768/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_dyerbrook_ver01:data:sn82014248:0033289593A:1877082101:1141/pct:5.4680259499536605,82.45042492917847,12.553290083410566,4.196175637393767/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1262,7 +1262,7 @@ term of (one hour,) and no longer, during
 which no other certificate shall be opened  
 or proceeded on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340688:1877082301:0139/pct:38.311688311688314,21.64795855433576,10.785555907507128,34.72307882077217/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340688:1877082301:0139/pct:38.305621536025335,21.64528860384805,10.787806809184481,34.72187962506167/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1351,7 +1351,7 @@ the term of one hour anil no longer,
 during which no other certificate ehail  
 be offered or proceeded on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn83032058:00296028745:1877082301:0019/pct:26.22759158222915,13.442791174961519,9.76877110937906,29.676757311441765/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn83032058:00296028745:1877082301:0019/pct:26.22759158222915,13.446211732512399,9.77743136745475,29.687018984094408/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1552,7 +1552,7 @@ term of one hour and loniror. durinp whieh
 no other certificate shall ho offered or proceed,  
 ed on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn83032041:00212477709:1877082401:0620/pct:63.80272952853598,68.96635491315438,17.78846153846154,39.75464593708247/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn83032041:00212477709:1877082401:0620/pct:47.882079131109386,51.73083930523503,13.343677269200931,29.819021012996476/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1643,7 +1643,7 @@ be allowed the term of ono hour and uo
 longer, duriog which uo other certifi­  
 cate shall bo offered or proceeded on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn84038198:00202192506:1877082501:0434/pct:4.003813155386082,17.74056803730394,13.695583095011122,53.92115303094531/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn84038198:00202192506:1877082501:0434/pct:4.011757229107086,17.75646460364561,13.719415316174134,53.92645188639254/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1792,7 +1792,7 @@ the term of one hour and no longer,
 during which no other certificate shall  
 be offered or proceeded on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_nejat_ver01:data:sn83026413:00212475580:1877082701:0216/pct:11.986301369863014,17.677436440677965,89.15525114155251,274.2981991525424/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_nejat_ver01:data:sn83026413:00212475580:1877082701:0216/pct:3.9954337899543377,5.892478813559322,29.71841704718417,91.43273305084746/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1824,7 +1824,7 @@ State shall be conclusive evidence that the
 requisite number of Votes has been given  
 for each election named by him as such.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_felice_ver01:data:sn87052128:00200292182:1877083101:0697/pct:34.61187214611872,106.48162269330487,22.73972602739726,6.26811041634894/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_felice_ver01:data:sn87052128:00200292182:1877083101:0697/pct:25.976696367374913,79.86884245844136,17.06648389307745,4.697270093030349/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1934,7 +1934,7 @@ longer, during which no other cer­
 tificate shall bo ojiened or proceeded  
 on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jimmy_ver02:data:sn88061082:00296020606:1877090101:0354/pct:101.74385363064609,40.642552235452705,13.264722698684963,54.45967198382386/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jimmy_ver02:data:sn88061082:00296020606:1877090101:0354/pct:76.33686016585645,30.487530891934398,9.951386903059765,40.8447539878679/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2030,7 +2030,7 @@ term of one hour and no longer, during
 which no other certificate shall be offered  
 or proceeded o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016926:00295877492:1877090501:0390/pct:97.04746136865342,81.5909816016165,15.2317880794702,44.54961182601298/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016926:00295877492:1877090501:0390/pct:72.80253898164757,61.19323620121238,11.425417414102387,33.414867595448264/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

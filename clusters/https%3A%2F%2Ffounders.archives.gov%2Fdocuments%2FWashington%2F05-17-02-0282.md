@@ -96,7 +96,7 @@ is heard and often repeated, the human
 mind becomes impressed by it insensibly.”  
 Luckily the President is in earnest in hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_dyerbrook_ver01:data:sn82014248:00332895175:1871031001:0289/pct:18.190315946905965,65.60676779463243,13.011777902411666,4.346557759626604/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_dyerbrook_ver01:data:sn82014248:00332895175:1871031001:0289/pct:18.186915887850468,65.59719994166545,13.014018691588785,4.3495697827038065/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -137,7 +137,7 @@ of a story is heard and often repeuted the hu­
 man mind becomes impressed with its insen­  
 sibility.” (Speech in Congress anil letter t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_dyerbrook_ver01:data:sn82014248:00332895199:1872121201:0209/pct:6.047278724573942,88.56125356125357,12.845886017958586,8.091168091168091/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_dyerbrook_ver01:data:sn82014248:00332895199:1872121201:0209/pct:6.0461707585196045,88.548639794901,12.848112861854158,8.093576413616294/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -158,7 +158,7 @@ human mind becomes impressed with it
 insensibly.&quot; Logan&#x27;s speech, in&#x27; Jeffer?  
 son&#x27;s &quot;Notes on Virginia,&quot; is a monu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84027008:00294551499:1873020801:0359/pct:2.4891961970613656,12.179144385026738,16.05877268798617,6.096256684491979/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84027008:00294551499:1873020801:0359/pct:2.4891961970613656,12.188057040998217,16.06453471622011,6.096256684491979/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -301,7 +301,7 @@ Earted, liberty and property better secured, or
 appiness more effectually dispensed to man­  
 kind.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210089:1885022101:0448/pct:26.239807512364656,57.07605687565607,18.82101323352493,4.971848458822406/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210089:1885022101:0448/pct:20.342553264960806,44.23380337244848,14.586139024137573,3.855635538901489/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -325,7 +325,7 @@ kind.
   
 The spirit of party seems always t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_corsair_ver06:data:sn96090256:00415623136:1888012001:0144/pct:5.605682472643502,63.69115958668198,11.883278940295643,4.176234213547646/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_corsair_ver06:data:sn96090256:00415623136:1888012001:0144/pct:5.615281244000768,63.70192307692308,11.888078325974275,4.179822043628014/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -392,7 +392,7 @@ better supported, liberty and property
 secured or happiness more effectually  
 dispensed to mankind.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_kryptonite_ver01:data:sn86069180:00100481790:1899022501:0163/pct:42.52167630057804,23.561946902654867,16.383670520231213,6.042588495575221/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_kryptonite_ver01:data:sn86069180:00100481790:1899022501:0163/pct:31.91181785327069,17.67146017699115,12.287676183592339,4.535398230088496/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

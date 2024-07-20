@@ -318,7 +318,7 @@ oR ¢ o
 &#x27; &quot; Your obedient, ‘  
 &#x27; Go.WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797040101:0261/pct:41.1017597551645,27.86625779008804,16.495791889824023,48.263923236719755/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797040101:0261/pct:41.11196123437899,27.869555181851155,16.48559041060954,48.26062584495664/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -747,7 +747,7 @@ dict Calvert&#x27;s, Esq, Mount Airy, Md., June 18,
   
 July 8th, 1776. Te Mr. Lun
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667711:1849113001:0386/pct:151.57384987893462,184.02777777777777,57.869249394673126,55.6712962962963/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667711:1849113001:0386/pct:37.893462469733656,46.00694444444444,14.467312348668282,13.917824074074074/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -803,7 +803,7 @@ Population,
 Wheat,  
 Barley
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667711:1849113001:0386/pct:136.88458434221147,215.50925925925927,87.24778046811944,95.37037037037037/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667711:1849113001:0386/pct:34.22114608555287,53.87731481481482,21.81194511702986,23.84259259259259/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -962,7 +962,7 @@ solemn declaration that the letters herein de-­
 &quot;saw or heard of them till they appeared in  
 &quot;print.&quot; In the first draft of Washington&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chrysler_ver01:data:sn83030214:00175038012:1884061601:0692/pct:105.78537627843077,59.91653854601362,45.44344374904595,31.243136393586646/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chrysler_ver01:data:sn83030214:00175038012:1884061601:0692/pct:35.26179209281026,19.97217951533787,15.147814583015316,10.414378797862215/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -980,7 +980,7 @@ in described aret a base forgery, and that I
 never saw or hearh of them till they appeared  
 in print.&quot; In the first draft of Washington&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_franklin_ver01:data:sn82014424:00211102858:1884061601:0583/pct:117.96157059314955,179.23124612523247,49.03926482873851,6.0136391816491015/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_franklin_ver01:data:sn82014424:00211102858:1884061601:0583/pct:29.490392648287386,44.80781153130812,12.259816207184628,1.5034097954122754/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1023,7 +1023,7 @@ Wsshma-toa&#x27;s Fsrewell Address, with
 burning indignation be wrote that  
 &quot;some of the gazettes of the Unite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn85030221:00212473017:1884062601:0164/pct:29.11158117398202,20.069922429804436,11.89846641988366,4.031465093411996/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn85030221:00212473017:1884062601:0164/pct:21.846072467601164,15.055173167267563,8.926209997355198,3.026330164973233/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1061,7 +1061,7 @@ ment of State, as a testimony
 of the truth of the present gen­  
 eration and prosperity.&quot; And ther
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn84024448:00296020734:1887050101:0729/pct:66.16541353383458,230.45629466739967,48.78863826232247,44.09015942825729/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn84024448:00296020734:1887050101:0729/pct:16.541353383458645,57.61407366684992,12.197159565580618,11.022539857064322/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1109,7 +1109,7 @@ in the office of the department of State as a
 testimony of the truth to the present genera­  
 tion and to posterity. And what a characte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_graftonnotch_ver01:data:sn83016025:00414210909:1889050101:0487/pct:35.02654613287416,66.80390542289142,9.556607834696512,1.3998353134925303/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_graftonnotch_ver01:data:sn83016025:00414210909:1889050101:0487/pct:35.02152080344333,66.79604798870854,9.558823529411764,1.4026111503175724/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

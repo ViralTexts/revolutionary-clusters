@@ -758,7 +758,7 @@ ples of reason, and who prosecute them with
 ty in their power, they may with the greater  
 facility enslave you. _
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774112501:0356/pct:8.179476170030055,4.424908424908425,27.35079433233147,56.0/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774112501:0356/pct:8.179476170030055,4.42979242979243,27.35795047946186,56.0/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1611,7 +1611,7 @@ a design, that by naving our lives and property in their
 pwer, they may with the more facility enslave you  
 e.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347910:1847082601:0034/pct:10.41264944080216,15.951843491346878,61.183956806787506,24.334085778781038/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347910:1847082601:0034/pct:2.6026604973973395,3.987360818537466,15.293040293040294,6.082606078844417/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1646,7 +1646,7 @@ soM reigns, should refuse to surrender them to men who found
 their clauns on no principle* of reason, and who prosecute  
 them with a design that, \jy having our lives artd property i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1847090401:0651/pct:49.66149506346967,87.8376850909913,15.472496473906912,5.775969255114728/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1847090401:0651/pct:49.66619652092149,87.84522060208734,15.477197931358722,5.772201499566708/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1669,7 +1669,7 @@ support to Freedom, turns advocate for Slavery
 and Oppression, there is reason to suspect she  
 has cither ceased to he virtuous, or l?een extremel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1853051201:0762/pct:33.30135672194052,66.07159904534606,14.595039057146773,4.639618138424821/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1853051201:0762/pct:33.30592480928235,66.07796340493238,14.599607144488603,4.636435958631663/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1690,7 +1690,7 @@ turns advocate for slavery and oppression, there is great reason
 to suspect she has ceased ie be virtuous, of has been extremely  
 slizent in the sprointment of her rulert
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530510:1856091801:0549/pct:199.81898963304263,31.893966654671946,47.02978443310844,9.187957298788533/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530510:1856091801:0549/pct:66.60632987768088,10.631322218223982,15.676594811036146,3.062652432929511/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1711,7 +1711,7 @@ her tr.ends and children, and. insli ad ol giving support
 to Freedom, turns aihorati fur Slartry and Oppression,  
 there it reason to suspeet she lias either ceased to be virtuous
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1856101601:0599/pct:84.7585875570502,54.109394255379655,13.127552245976458,2.6258413119726987/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1856101601:0599/pct:84.7585875570502,54.112554112554115,13.131555769076787,2.6258413119726987/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1788,13 +1788,13 @@ negligent in the appointment of her rulers.
 And in Georgia, land of the sunny  
 South, nqw one of the ultra pro-slaver
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:00279529406:1860062801:0200/pct:201.2830666877871,192.34591269371822,37.034690321558685,13.131432627469538/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:00279529406:1860062801:0200/pct:67.09435556259571,64.1153042312394,12.344896773852897,4.377144209156513/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Continental monthly_](https://archive.org/details/sim_continental-monthly_1864-09_6_3/page/n104/mode/1up?view=theater)
+## [From _The Continental Monthly; Devoted to Literature and National Policy (1862-1864)_](https://archive.org/details/sim_continental-monthly_1864-09_6_3/page/n104/mode/1up?view=theater)
 
 #### 1864-09-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -1839,7 +1839,7 @@ ed to be virtuous, or been extremely negligent in
 the appointment of her rulers.&quot;  
 It was John Jay who wrote thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477850:1869080401:0737/pct:163.69529983792543,189.7025171624714,45.05672609400324,17.620137299771166/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477850:1869080401:0737/pct:40.93211752786221,47.42562929061785,11.26646403242148,4.4050343249427915/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

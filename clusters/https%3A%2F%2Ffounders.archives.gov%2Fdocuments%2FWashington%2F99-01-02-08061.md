@@ -603,7 +603,7 @@ embarked in the following u^ci:
 4» Second—The guides and boatmen.  
 44 Third—The subaltern and fourteen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216444:1831071201:0648/pct:26.191687871077185,13.901079350017792,18.52417302798982,46.02063812121931/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216444:1831071201:0648/pct:26.187245590230663,13.899430740037952,18.526684758028043,46.019133459835544/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -971,7 +971,7 @@ forcing the doors, should they be fast, and to be
 followed by four men entering the house and  
 seizing the young Prince, the young noblemen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_goethe_ver01:data:sn83030272:00175042878:1896071301:0571/pct:283.12883435582825,277.38632941884975,50.61349693251534,18.78952122854562/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_goethe_ver01:data:sn83030272:00175042878:1896071301:0571/pct:70.78220858895706,69.34658235471244,12.653374233128835,4.697380307136405/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -582,7 +582,7 @@ from a well by a horse.&quot;
 What would the simplest mechanic of  
 the present day thiuk of an applicatio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293435:1871052301:0507/pct:8.479119638826186,54.51851851851852,12.570541760722348,10.042328042328043/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293435:1871052301:0507/pct:6.365561044460127,40.888888888888886,9.442484121383204,7.534391534391534/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -644,7 +644,7 @@ and in many parts of France the people
 were literally dying of starvation.  
 From his observations during his tou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn90050009:00393342924:1884030801:0747/pct:53.80434782608695,22.062552831783602,15.050167224080267,8.058608058608058/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn90050009:00393342924:1884030801:0747/pct:53.793103448275865,22.05944499225243,15.052246603970742,8.06099450626849/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

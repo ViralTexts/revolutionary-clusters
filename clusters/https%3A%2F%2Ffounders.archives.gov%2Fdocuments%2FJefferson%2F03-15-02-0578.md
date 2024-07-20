@@ -42,7 +42,7 @@ go iuto further detalls, had I time. I have thought that
 these might afford you some satistaction. When we  
 in Albemarle we will communicate further on the subject
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530212:1845022001:0379/pct:3.0210997442455243,228.51284525388976,41.751918158567776,14.425280424556748/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530212:1845022001:0379/pct:1.0070332480818414,76.17094841796326,13.917306052855926,4.808426808185582/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -59,7 +59,7 @@ in? that the diliiculty was not with the foreign I
 power, but was &#x27;&#x27;altogether internal, and of the |  
 most distressing nature and dangerous tendency,&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1845022001:0095/pct:44.73526772360155,43.39025326170376,13.745139096619802,1.59247889485802/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1845022001:0095/pct:44.740253265529965,43.39025326170376,13.75012463854821,1.5988743924277309/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -209,7 +209,7 @@ that these might afford you some satisfaction.?
 When we meet in Albemarle, we will communi­  
 cate further on the subject
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1845022201:0098/pct:41.34431534049125,18.04246405788822,13.810854537431975,54.95572693516138/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1845022201:0098/pct:41.34431534049125,18.048811450696626,13.825562582732754,54.95572693516138/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -257,7 +257,7 @@ j but was &quot; altogether internal, and of the most dis
 tressing nature and dangerous tendency,&quot; and in  
 conclusion, Colonel Monroe apologizes to Mr.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022603:1845022601:0250/pct:49.768139661756685,97.00827498408657,20.458265139116204,2.2278803309993633/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022603:1845022601:0250/pct:37.33460646569363,72.75620623806493,15.345791842859091,1.6762147252280926/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -440,7 +440,7 @@ r? founded as would destroy, bv perpetual excitement, the BU
 t stance in unceasing opposition and hostility with each other (,r  
 . To what account this project, hud it succeeded to the ex- n*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661125:1845061101:0149/pct:31.83187946074544,60.494912699409625,15.828707375099128,24.331114181635474/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661125:1845061101:0149/pct:31.83187946074544,60.50328685676004,15.828707375099128,24.335301260310683/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -537,15 +537,15 @@ in alavcholding States, who preferred the sacrifice of then
 lat, aelrea at home to a violation of the ohvioua principles of tli  
 f,pn | constitution and the risk of the Union.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661125:1845061101:0151/pct:31.08602321513754,60.64475347661188,14.485609794879949,30.012642225031605/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661125:1845061101:0151/pct:31.08602321513754,60.64896755162242,14.485609794879949,30.01685630004214/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1847-05_20_107/page/n46/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1847-05_20_107/page/n46/mode/1up?view=theater)
 
-#### 1847-05-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1847-05-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -559,9 +559,9 @@ to the Union, as would secure the dominion over it to its Eastern section.’ �
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1847-10_21_112/page/n5/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1847-10_21_112/page/n5/mode/1up?view=theater)
 
-#### 1847-10-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1847-10-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -610,7 +610,7 @@ Jefferson as &quot; an effort to give such a shape to our Union
 as would secure the dominion over it to its eastern sec_  
 tion.&quot; That patriot statesman, in the same letter, as 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848082601:0858/pct:6.3136132315521625,43.629246116933956,15.473918575063614,2.5887106957949237/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848082601:0858/pct:6.3136132315521625,43.637664688302394,15.47921967769296,2.584501410110704/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -627,7 +627,7 @@ tion.&quot; That patriot statesman, in the same letter, as
 South involves difficulties of an internal nature which  
 menace the Union itself.&quot; This letter of Mr. Monroe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848082601:0858/pct:6.25,48.12476322768026,15.521628498727736,1.5532264174769541/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848082601:0858/pct:6.260602205258694,48.12476322768026,15.516327396098388,1.561644988845393/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -723,7 +723,7 @@ ol territory to the West and South involves difficulties ot un
 When we meet in Albemarle we will communicate fur1  
 ther on the subjec
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848082601:0858/pct:52.68765903307888,2.904407122111378,32.44274809160305,92.08233362798333/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848082601:0858/pct:52.68765903307888,2.904407122111378,32.448049194232404,92.09075219935177/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -840,7 +840,7 @@ which menace the Union itself. When
 we meet in Albemarle, we will corfiiriunicate  
 further on this subject
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879063:1848092901:0158/pct:60.704679935449164,5.032546390750996,35.83916083916084,123.60827747012533/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879063:1848092901:0158/pct:45.5536122696085,3.7792674633245897,26.893582671868693,92.70377926746332/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1046,7 +1046,7 @@ to the west, and thus &quot; give such a shape
 to the Union as would secure the dominion  
 over it to its eastern section
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00415667279:1848102801:0175/pct:47.0933482392398,24.488878903617163,19.48015651201789,3.763199281060436/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00415667279:1848102801:0175/pct:35.3319357092942,18.366659177712872,14.605171208944794,2.8308245338126263/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1075,7 +1075,7 @@ rison Gray Otis,, ruled Boston. Jay&#x27;s
 object was to make New York a New  
 England State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn89060119:00415623495:1861031401:0114/pct:99.83380209665047,112.49056603773585,40.16875479417029,24.69811320754717/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn89060119:00415623495:1861031401:0114/pct:33.27793403221683,37.496855345911946,13.389584931390097,8.232704402515724/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1101,7 +1101,7 @@ destroy, by perpetuol ecitement the usnol
 feets proceeding from difference in the  
 pursuits and circumestinces of the peoph
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn89060119:00415623495:1861031401:0114/pct:98.6959856814114,160.6320754716981,41.06366658143697,20.27358490566038/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn89060119:00415623495:1861031401:0114/pct:32.8986618938038,53.5440251572327,13.68788886047899,6.7578616352201255/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1158,7 +1158,7 @@ Monroe, in one of his letters on this euljocl: &quot;Tho
 difficulty i altogether internal and of the most  
 distressing nature and dangerous tendoncy.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn83035487:00211100485:1861042701:0251/pct:14.620938628158845,26.369444066875086,18.465703971119133,2.242761995378551/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn83035487:00211100485:1861042701:0251/pct:10.980675456023118,19.777083050156314,13.852266570344952,1.6854696207693354/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1182,7 +1182,7 @@ tor in Faneuil Hall (Harrison Gray Ottis)
 ruled Boston. &quot;Jay&#x27;s object was to make New  
 York a New England State.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774662:1861053001:0528/pct:218.2145428365731,284.75383800952886,49.46004319654428,17.84012705134992/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774662:1861053001:0528/pct:54.5831082297857,71.18845950238222,12.371690977849811,4.46003176283748/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1206,7 +1206,7 @@ ual excitement, the usual effects proceeding
 from difference in the pursuits and circumstan­  
 ces of the people, and marshal the States, dif-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774662:1861053001:0528/pct:218.28653707703384,327.7924827951297,49.388048956083516,18.051879301217575/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774662:1861053001:0528/pct:54.60111651359625,81.94812069878242,12.353682694039257,4.512969825304394/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1224,7 +1224,7 @@ ject: &quot;The difficulty is altogether internal and
 of the most distressing nature and dangerous  
 tendency
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774662:1861053001:0528/pct:269.1864650827934,111.85812599258867,49.24406047516199,7.146638433033351/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774662:1861053001:0528/pct:67.33297316765712,27.964531498147167,12.317666126418152,1.7866596082583377/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1284,7 +1284,7 @@ in anul a aon e Oti
 ruled Boston. Jay&#x27;s object was to make  
 New York a New England State.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028822:00280775459:1861062001:0296/pct:85.14115898959881,52.53032204098704,102.00594353640416,332.8593336121567/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028822:00280775459:1861062001:0296/pct:21.289243916031953,13.13258051024676,25.506223295560098,83.21483340303918/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1306,7 +1306,7 @@ destroy, by perpetual excitements, the usnol
 effects proceeding from difference in the  
 pursuits and circumstances of the people
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028822:00280775459:1861062001:0296/pct:136.4041604754829,114.15028579394954,50.52005943536404,16.952460616199637/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028822:00280775459:1861062001:0296/pct:34.10737506966375,28.537571448487384,12.632361136912502,4.238115154049909/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1323,7 +1323,7 @@ this subject: &quot;The difficulty is altogether
 internal and of the most distressing na­  
 ture and dangerous tendency
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028822:00280775459:1861062001:0296/pct:136.62704309063892,306.482643245504,49.405646359583955,6.357172731074864/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028822:00280775459:1861062001:0296/pct:34.16310607467955,76.620660811376,12.35370611183355,1.589293182768716/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

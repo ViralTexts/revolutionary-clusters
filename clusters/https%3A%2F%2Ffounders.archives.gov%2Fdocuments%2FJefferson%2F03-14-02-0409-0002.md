@@ -701,7 +701,7 @@ ther our mutual co-operation, our lives,
 our fortunes, and our most sacred honor,”  
 , The resolutions forming the declaratio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn84024505:00542866962:1825061001:0086/pct:2.5982392097917115,9.702298318679624,14.343998282155894,11.445318525374056/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn84024505:00542866962:1825061001:0086/pct:2.5976814083297555,9.700801974090068,14.34628595963933,11.447409006785934/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1122,7 +1122,7 @@ vise ways and means, to assist their suffering
 brethren of Boston.” On the 19th of May  
 they met, deliberated that day, next night
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn84021903:00414187432:1831091701:0144/pct:48.13466787989081,91.85098952270081,14.854413102820747,4.423748544819557/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn84021903:00414187432:1831091701:0144/pct:48.12372071867182,91.83571666112404,14.85672049124403,4.4271699368141/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1139,7 +1139,7 @@ ry process. Its jurisdiction was unlimited as
 toryism, and its decrees as final as the confi­  
 dence and patriotism of the country.” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn84021903:00414187432:1831091701:0144/pct:63.44404003639672,16.547480459005488,14.558689717925386,1.729585897222684/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn84021903:00414187432:1831091701:0144/pct:63.42961109847624,16.544728965746593,14.561064362065045,1.7334552710342535/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1201,7 +1201,7 @@ ry nnd fire of freedom throughout America, uatj| a
 nore general and organized government be t .»ab.  
 ished in this province
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn84021903:00414187432:1831091701:0144/pct:63.53503184713376,9.645767503741892,30.118289353958144,87.09462830533843/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn84021903:00414187432:1831091701:0144/pct:63.52058221514669,9.644163618224143,30.117125312713213,87.08430329231793/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1835,7 +1835,7 @@ doin throughout America, until a mor*
 general and organized government be cs.  
 tublished in this province.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_hookandcook_ver03:data:sn88084131:00295861800:1839053101:0115/pct:34.375,3.305157184917846,35.46736725663717,92.4874157089942/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_hookandcook_ver03:data:sn88084131:00295861800:1839053101:0115/pct:34.375,3.308323044290373,35.46736725663717,92.49058156836674/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1974,7 +1974,7 @@ her m ral treasures in the intellect ana vaior oi that all, eacn ana every niiiu
 her sons, and the good sense and virtue of her conty is hereby reinstated in his former com- A J. kter iod we have seen  
 ,1aurhlers are equal ed by few and surpassed by mand and authority, he acting conformibly o . A,uJr.nnianl.n&#x27;i,inn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197966:1839060501:0300/pct:10.067204301075268,110.04394897631043,60.67204301075269,12.455783042126702/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197966:1839060501:0300/pct:7.556810541885168,82.5383213634902,45.52911120075299,9.336477650337656/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2010,7 +2010,7 @@ ne nnJ nnr mnst s:irrerl honor.
 4th. Resolved, That as we now acknow  
 ledge the existence and control ot no law or l
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197966:1839060501:0300/pct:30.833333333333332,95.62654089398649,21.626344086021504,19.56265408939865/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197966:1839060501:0300/pct:23.141051499260456,71.72258548611856,16.229662498319215,14.674670382677672/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2032,7 +2032,7 @@ country and fire of freedom throughout America,
 until a more general and organized government  
 be established in this province.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197966:1839060501:0300/pct:50.65860215053763,10.847893664915853,20.201612903225808,5.949190695680137/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197966:1839060501:0300/pct:38.01263950517682,8.13592024868689,15.153959930079333,4.4699324686461575/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2246,7 +2246,7 @@ F, and to use every exertion to rest, immediate or remote, upon the altar
 a love of country and fire of of freedom. Around such an one let us  
 freedom throughout America until a a eea 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1843081001:0112/pct:32.06106870229008,121.88639916623241,123.12977099236642,64.40854611776967/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1843081001:0112/pct:8.01526717557252,30.471599791558102,30.782442748091604,16.10213652944242/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2320,7 +2320,7 @@ freedom throughout America, until a
 more general and organized government  
 lie established in llos province.-ABRAHA
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn87090028:00295877959:1844040601:0359/pct:24.401368301026224,50.77625570776256,20.524515393386544,53.550228310502284/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn87090028:00295877959:1844040601:0359/pct:18.303635067712044,38.082191780821915,15.40983606557377,40.17123287671233/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2340,7 +2340,7 @@ e ae  ae atee an a e iao o o
   
 ers,P.-Srish.Mebane, 1691; Leath rights, as claimed by Great bri  hare
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:0041566770A:1844080901:0518/pct:26.50494159928122,359.837962962963,118.3288409703504,6.1342592592592595/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:0041566770A:1844080901:0518/pct:6.626235399820305,89.95949074074075,29.5822102425876,1.5335648148148149/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2610,7 +2610,7 @@ of freedom throughout Amenca, until a more general
 and organized government be established in tin*  
 province
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661344:1844090401:0229/pct:66.74481514878269,13.833291107170002,18.863841298467086,21.16797567772992/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661344:1844090401:0229/pct:66.74481514878269,13.833291107170002,18.875864141869553,21.172198294063/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2633,7 +2633,7 @@ a copy of the procicdinga was sent to Hugh HilLam
 II. Daiit.  
 (Signed) J. McKNITT.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661344:1844090401:0229/pct:66.92515779981966,48.55586521408665,15.63570784490532,4.218393716746896/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661344:1844090401:0229/pct:66.92515779981966,48.564310446752806,15.63570784490532,4.218393716746896/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2696,7 +2696,7 @@ spread the love of country and tbe fire of freedom
 throughout America, until a more general &amp; organ­  
 ized government be established in this province
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022603:1844091801:0153/pct:22.30644288034651,57.69148251448187,20.74986464537087,30.347564900236/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022603:1844091801:0153/pct:16.736628300609343,43.27397554172924,15.572105619498984,22.76335550311092/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2719,7 +2719,7 @@ of North Carolina, and that a copy was sent to (Jen.
 Wm. R. Davie.  
 &quot;(signed) J. McKNITT.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022603:1844091801:0153/pct:22.428262046561994,110.64149324179361,19.964807796426637,6.071658442394336/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022603:1844091801:0153/pct:16.831415030467163,82.98648358721304,14.989844278943805,4.559107487663591/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2748,7 +2748,7 @@ political, contract or association with that na­
 tion, who have wantonly trampled on onr rights j  
 and liberties, and inhumanly slisd the blood uf
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624426:1845070501:0413/pct:49.00260190806591,33.902863470969784,18.451864700780572,9.492168960607499/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624426:1845070501:0413/pct:37.97681062006385,26.27922184077162,14.3113202262925,7.356547327121138/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2784,7 +2784,7 @@ lof freedom throughout America, until a more
 | general ami organized government be eslablish­  
 i cd in tliiv province
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624426:1845070501:0413/pct:48.894189071986126,50.371776617623794,18.668690372940155,13.826926119284924/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624426:1845070501:0413/pct:37.89279112754159,39.04283145332679,14.47935921133703,10.716037273173123/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3040,7 +3040,7 @@ nd fire of freedom throughout America, until a
 wore general nnd organized gpvernmentibe. gstab­  
 &amp;hed in this province&quot;ov.. . . , .. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022615:1847101301:0165/pct:2.197052401746725,81.8572927597062,20.60589519650655,33.85099685204617/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022615:1847101301:0165/pct:1.651877133105802,61.39559286463798,15.467576791808874,25.39349422875131/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3066,7 +3066,7 @@ Williamson, in New York, then writing a His­
 tory of North Carolina, and that a copy was sent  
 to Gen. W. R. Davie. . J.. M&#x27;KNITT,)
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022615:1847101301:0165/pct:22.993995633187772,83.32633788037775,20.42849344978166,6.40083945435467/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022615:1847101301:0165/pct:17.255972696245735,62.497376705141654,15.331058020477816,4.805876180482686/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3105,7 +3105,7 @@ emnly pledge to each other our mutual co-operation,
 our lives, our fortunes and our moat sacred honor.  
 AURAHAM ALEXANDER, Chairma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82014405:00415660935:1849013001:0114/pct:42.857142857142854,66.43262623244696,13.314285714285715,10.322677024200777/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82014405:00415660935:1849013001:0114/pct:42.857142857142854,66.43760581615376,13.333333333333334,10.33263619161438/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3205,7 +3205,7 @@ throughout America, until a more general
 and organized Government be established in  
 this province.   ont
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776014:1849021001:0792/pct:226.59420289855072,141.84076792772444,52.028985507246375,122.19085262563523/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776014:1849021001:0792/pct:56.65881500271789,35.46019198193111,13.009603188983512,30.547713156408808/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3315,7 +3315,7 @@ of
 the unchartered and dangerous invasion of our ee  ee ee e ea e o e i e o a o e  
 rights as claimed by Great Britain, is an enemya i oter e ta tes onge the honor of hain made the t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667711:1849030201:0240/pct:210.55900621118013,128.2375422607673,183.4072759538598,8.231662501837425/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667711:1849030201:0240/pct:52.63975155279503,32.059385565191825,45.85181898846495,2.0579156254593562/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3345,7 +3345,7 @@ control of no law nor legal officer, civil or mili
 tary, within this county, we do hereby ordain  
 and adopt, as a rule of life, all, each, and every
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667711:1849030201:0240/pct:210.02661934338954,155.75481405262383,183.85093167701862,27.399676613258855/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667711:1849030201:0240/pct:52.506654835847385,38.93870351315596,45.962732919254655,6.849919153314714/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3365,7 +3365,7 @@ e acin conora to te egon aeo e ao o  te o
   
 that every member present of this delegationn o so o a o a 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667711:1849030201:0240/pct:147.2049689440994,192.7384977215934,186.86779059449867,7.643686608849038/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667711:1849030201:0240/pct:36.80124223602485,48.18462443039835,46.71694764862467,1.9109216522122594/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3399,7 +3399,7 @@ matters of controverey, according to said adop o ee o a e o o o a eo a teo
 ted laws; and to preseive peace, union and haro o an o ate onor e begiin this et moe men an ti  
 mony in said county, and to use every exertion words in brackets were not in Mr. Jeffer a o e acori t e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667711:1849030201:0240/pct:146.9387755102041,189.56342789945612,247.02750665483586,23.225047773041304/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667711:1849030201:0240/pct:36.734693877551024,47.39085697486403,61.756876663708965,5.806261943260326/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3679,7 +3679,7 @@ and harmiony
   
 ae o e e a    e i o e ee an a ee i 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667711:1850072401:0504/pct:129.5751633986928,208.9666323680729,175.16339869281046,44.333382331324415/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667711:1850072401:0504/pct:32.3937908496732,52.24165809201823,43.790849673202615,11.083345582831104/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3985,7 +3985,7 @@ America, until a more general and organ­
 ized Government be established in this pro-  
 vince
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84020712:00295879178:1857051901:0082/pct:3.6699779249448126,5.1983734476316075,33.11258278145695,121.59577975601715/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84020712:00295879178:1857051901:0082/pct:2.7601435274634283,3.901527640400044,24.841291747170853,91.19683481701286/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4057,7 +4057,7 @@ try and fire of freedom throughout America, until a
 more general and organized Government be estab­  
 lished in this province
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022767:1857052301:0166/pct:64.0604467805519,9.905086395716719,19.743758212877793,37.807252372840104/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022767:1857052301:0166/pct:48.053228191227205,7.434899002190314,14.818465582388697,28.352397176928694/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4115,7 +4115,7 @@ try and fire of freedom throughout America, until a
 more general and organized Government be estab­  
 lished in this provinc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022640:1857052701:0296/pct:64.81906950028718,25.763097949886106,19.9310740953475,29.38496583143508/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022640:1857052701:0296/pct:48.64243643154719,19.328018223234626,14.954747881051572,22.03872437357631/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4173,7 +4173,7 @@ use every exertion to spread the love of country and fire
 of freedom throughout America, until a more general and  
 organized government be estabkshed in this province
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271743269:1857053101:0287/pct:8.728139904610494,12.577502214348982,96.77265500794913,280.6465899025686/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271743269:1857053101:0287/pct:2.9093799682034978,4.192500738116327,32.25755166931638,93.54886330085621/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4252,7 +4252,7 @@ and tire of freedom throughout America,
 until a more general and organised Cor.  
 ernment be established in this province.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_antares_ver02:data:sn84026824:00271767754:1857060601:0256/pct:59.383284498395426,58.689981644285574,22.1292032928701,35.45551154477828/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_antares_ver02:data:sn84026824:00271767754:1857060601:0256/pct:59.383284498395426,58.693201945061666,22.133854239337705,35.458731845554375/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4310,7 +4310,7 @@ and lire of freedom throughout America, until a inure
 [eneral and organized government lie established in tins  
 irovincc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82006534:00415661083:1857061101:0203/pct:83.96241439719701,61.74683544303797,17.08870839305622,21.088607594936708/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82006534:00415661083:1857061101:0203/pct:83.96241439719701,61.755274261603375,17.094017094017094,21.08438818565401/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4370,7 +4370,7 @@ exertion to spread the lave of country twid (lie of tree
 rioni throughout America, until a mare general ana or- &#x27;  
 ganized government be established in this province
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664369:1857061201:0211/pct:15.675439872037225,58.34817661948064,15.442780282099752,16.480734977031968/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664369:1857061201:0211/pct:15.675439872037225,58.34817661948064,15.45247443168048,16.48385987937877/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4429,7 +4429,7 @@ meaning in the word “lady,” and the word, it
 not in the Bible as Col. Benton, understand- it.  
 is there as the world understands it, and ver
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215968:1857061301:0708/pct:80.42918454935622,16.18896332619656,12.999523128278494,21.96974929207818/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215968:1857061301:0708/pct:80.42151440015259,16.1878453038674,13.00146226714985,21.970534069981582/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4463,7 +4463,7 @@ our God and the general government of Congress;
 to the maintenance of which independence, we  
 solemnly pledge to each other our most sacred honor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_pearse_ver01:data:sn82015753:00212475397:1857061801:0697/pct:91.47254575707154,60.77261306532663,38.498336106489184,26.66457286432161/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_pearse_ver01:data:sn82015753:00212475397:1857061801:0697/pct:30.490848585690514,20.257537688442213,12.832778702163061,8.888190954773869/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4610,7 +4610,7 @@ freedom throughout America, until a more area-:&quot;&#x27;
 jnil ond organized govermont be established ?ili  
 this province. . . .
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_idacox_ver02:data:sn85026945:00202194278:1857070201:0626/pct:83.02583025830258,39.437917530522924,15.88135112120352,21.458189357290948/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_idacox_ver02:data:sn85026945:00202194278:1857070201:0626/pct:83.02583025830258,39.44175689165323,15.89081275428139,21.462028718421255/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4757,7 +4757,7 @@ and organized Government be established io this
   
 province
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879099:1857071701:0118/pct:89.5449763282483,71.63385826771653,20.265649658074697,38.838582677165356/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879099:1857071701:0118/pct:67.17085361041694,53.73031496062992,15.204524529790872,29.133858267716537/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4863,7 +4863,7 @@ gress; to the maintainance of which inde
 pendence we solemnly pledge to each other  
 our most sacred honor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn83025141:no_reel:1857112001:0747/pct:51.54528352593389,117.9895206675723,42.300456866433755,50.88298078789055/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn83025141:no_reel:1857112001:0747/pct:17.181761175311298,39.3298402225241,14.100152288811252,16.960993595963515/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4909,7 +4909,7 @@ with that nation, who have wantonly trampled
 on our rights and liberties, and inhumanly shed  
 the blood of American patriots at Lexington.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290069:1860061401:0512/pct:131.4458493677845,118.20465217866114,34.35953820780649,14.196789341487387/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290069:1860061401:0512/pct:32.87049766290899,29.551163044665284,8.592246356887545,3.5491973353718467/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4934,7 +4934,7 @@ each other our mutual co-operation, our lives,
   
 our fortunes and our sacred honer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290069:1860061401:0512/pct:131.390874106652,137.59965054057005,34.46948873007147,9.304357322267117/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290069:1860061401:0512/pct:32.85675006873797,34.39991263514251,8.619741545229585,2.3260893305667794/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5293,7 +5293,7 @@ Williamson in JNw York, then writing a history
 of North Carolina, and that a copy was sent to Gen.  
 W . it. uavie.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84020713:00296022986:1873071501:0327/pct:42.639734366353075,45.54506261547937,19.728832318760375,5.224799835762677/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84020713:00296022986:1873071501:0327/pct:31.99114431991144,34.16136316978033,14.79175314791753,3.9211660849928145/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5739,7 +5739,7 @@ the crown of Great Bntam never can be
 considered as holding rights, privileges im­  
 munities or authority therein
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn85033699:00200293514:1875030701:0229/pct:7.3391812865497075,68.20361892304338,14.312865497076023,20.154785262698933/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn85033699:00200293514:1875030701:0229/pct:5.512501827752596,51.15543928493569,10.7325632402398,15.11881403967735/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5807,7 +5807,7 @@ of the preceding montn. Every delegate felt that
 an awful and solemn crisis had at length come,  
 that the supreme hour of American destiny wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:00271743932:1875042401:0356/pct:8.42911877394636,163.90667886550779,47.6928202565384,47.79277218664227/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:00271743932:1875042401:0356/pct:2.80970625798212,54.635559621835924,15.897606752179465,15.930924062214089/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5825,7 +5825,7 @@ John McKnitt Alexander clerk. After a free and
 full deliberation upon the various objects for which  
 the delegation had been convened the subjoine
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:00271743932:1875042401:0356/pct:8.145927036481758,214.61573650503203,47.34299516908212,6.061299176578225/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:00271743932:1875042401:0356/pct:2.7153090121605863,71.53857883501067,15.780998389694043,2.020433058859408/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5887,7 +5887,7 @@ ireedom throughont America until a more general
 and organized government be established in this  
 province
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:00271743932:1875042401:0356/pct:8.179243711477595,223.4903934126258,47.17641179410295,55.50091491308326/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:00271743932:1875042401:0356/pct:2.7264145704925316,74.4967978042086,15.725470598034317,18.500304971027752/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5946,7 +5946,7 @@ tion to spread the love of country and fire of freedom
 throughout America, until a more general and organ­  
 ized Government be established in thla Province.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grand_ver02:data:sn84031492:no_reel:1875042601:0004/pct:29.49468085106383,49.70047923322684,13.563829787234043,19.50878594249201/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grand_ver02:data:sn84031492:no_reel:1875042601:0004/pct:29.49468085106383,49.715455271565496,13.577127659574469,19.50379392971246/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5999,7 +5999,7 @@ arrived of the battle of Lexington on
 the same day of the preceding month.  
 Every delegate felt that an awful an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn85033699:00200293514:1875042701:0406/pct:23.07921381774866,70.5682689149239,14.383561643835616,23.179678090441257/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn85033699:00200293514:1875042701:0406/pct:17.319434102755025,52.928939012372716,10.781831720029784,17.38749589401073/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6018,7 +6018,7 @@ they were all passed, sanctioned and
 decreed unanimously about 2 o&#x27;clock  
 A. m., May 20
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn85033699:00200293514:1875042701:0406/pct:23.168552709946397,99.69341946786379,14.29422275163788,2.9782108836088907/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn85033699:00200293514:1875042701:0406/pct:17.379002233804915,74.77280192707764,10.722263588979896,2.2336581627066683/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6215,7 +6215,7 @@ Great Britain never can be considered
 as holding rights, privileges, immuni­  
 ties or authority therein.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn83045160:00200293113:1875042801:0369/pct:79.21998781230957,19.26729986431479,42.900670322973795,58.29941203075531/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn83045160:00200293113:1875042801:0369/pct:19.811033221578786,4.8168249660786975,10.728436452301128,14.574853007688828/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6591,7 +6591,7 @@ throughout America, until a more general
 and organized government be established in  
 this province
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_gary_ver01:data:sn87056600:00202191575:1875050601:0167/pct:84.04514948139109,75.83559168925022,18.837705918242833,43.92502258355917/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_gary_ver01:data:sn87056600:00202191575:1875050601:0167/pct:63.060726274031126,56.87669376693767,14.1287763198047,32.94941282746161/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6709,7 +6709,7 @@ government to meet immediate exigencies
 &quot;until a more general and organized govern­  
 ment be established in this province.&quot; The
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777043:1875050701:0289/pct:60.31406138472519,345.15015974440894,39.61456102783726,9.303514376996805/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777043:1875050701:0289/pct:15.078515346181298,86.28753993610223,9.903640256959315,2.3258785942492013/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6844,7 +6844,7 @@ that &quot;In the spring of 1775, the leading
 ters of Mecklenburg county, stimulated,&quot;  
  &quot;held several detached meetings,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:00271743932:1875050801:0547/pct:16.19979750253122,147.3030970885048,40.921363482956465,7.412133163206125/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:00271743932:1875050801:0547/pct:5.3999325008437395,49.101032362834935,13.64045449431882,2.4707110544020416/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6865,7 +6865,7 @@ on that day of the preceding month,&quot; &amp;c.
 Aoe auer will at once recognize this as the style  
 of the historian, or chronicier, and not that of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:00271743932:1875050801:0547/pct:10.074249071886602,159.21586822874377,46.89503881201485,10.671615821830414/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:00271743932:1875050801:0547/pct:3.3580830239622004,53.07195607624792,15.63167960400495,3.557205273943471/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6886,7 +6886,7 @@ it was deemed premature to lay them before the
 House,&quot; and that &quot;a joint letter from said three  
 members of Congress- Caswell, Hooper an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:00271743932:1875050801:0547/pct:9.46675666554168,193.94501797935274,47.55315558555518,10.764412481150679/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:00271743932:1875050801:0547/pct:3.15558555518056,64.64833932645091,15.851051861851726,3.588137493716893/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6910,7 +6910,7 @@ Deciaration of independence of May, 175, to
 Richard Caswell and William Hooper, the dele-­  
 sates to Congress from the State of North Caro-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:00271743932:1875050801:0547/pct:9.46675666554168,206.04338243823221,47.654404319946,15.369446699918804/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:00271743932:1875050801:0547/pct:3.15558555518056,68.68112747941075,15.884801439982,5.123148899972934/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6935,7 +6935,7 @@ Wilmtagton, alternately, and who confirmed the
 nomination and acts of the delegation in their  
 official capacity.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:00271743932:1875050801:0547/pct:8.994262571717854,222.72358195104977,48.11002362470469,17.062985732513628/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:00271743932:1875050801:0547/pct:2.998087523905951,74.24119398368326,16.03667454156823,5.6876619108378765/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6956,7 +6956,7 @@ place of Colonel Adam Alexander. No explana-­
 tion is given of this alteration of an official report  
 of the proceedings firty-five years after the dat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:00271743932:1875050801:0547/pct:57.964900438744515,64.2500869968681,47.030037124535944,10.69481498666048/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:00271743932:1875050801:0547/pct:19.321633479581504,21.416695665622704,15.676679041511981,3.564938328886827/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7306,7 +7306,7 @@ ance of whicli independence we solemnly pledge
 to each other our mutual co-operation, our lives  
 our fortunes, and our most sacred honor.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524676:1875051301:0080/pct:26.602775941837407,64.93758332323355,11.384666226040979,3.211731911283481/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524676:1875051301:0080/pct:26.598380968114984,64.92971400872516,11.38691557905171,3.2143722733882694/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7359,7 +7359,7 @@ spreid the love of country and fire of rreatow theouohout
 Dneriva, until a more general and organized government  
 be established in this prortne
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:00271743932:1875051401:0623/pct:54.40734557595993,211.74242424242425,46.52754590984975,37.52295684113866/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:00271743932:1875051401:0623/pct:18.13578185865331,70.58080808080808,15.509181969949916,12.507652280379553/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7424,7 +7424,7 @@ y and fire of freedom throughout America, until a
 more general and organized government be established  
 in this province
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hugo_ver01:data:sn83030214:00206531216:1875051501:0466/pct:151.8954670108082,54.08631772268136,48.298112598806256,61.662075298438936/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hugo_ver01:data:sn83030214:00206531216:1875051501:0466/pct:50.63182233693607,18.02877257422712,16.099370866268753,20.554025099479645/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7448,7 +7448,7 @@ wantonly trampled on our rights and liberties
 and inhumanly shed the blood of American  
 patriots at Lexington.&quot;&quot; He proceeds to say
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:00271743932:1875051501:0635/pct:10.181033050988209,246.1388410786001,46.93572496263079,15.261044176706827/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:00271743932:1875051501:0635/pct:3.393677683662736,82.04628035953337,15.645241654210263,5.087014725568943/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7469,7 +7469,7 @@ pending storm,&quot; the news from Lexington cil­
 maxed their proceedings. And as you, on this day,  
 wipe the lichens and the moss from the grave-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:00271743932:1875051501:0635/pct:10.363726955655206,270.1090074584051,46.902507889054974,10.464716006884682/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:00271743932:1875051501:0635/pct:3.4545756518850688,90.03633581946835,15.634169296351658,3.4882386689615603/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7529,7 +7529,7 @@ country and fire of freedom throughout America, until a
 more gencral and organized government be established  
 in this province
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hugo_ver01:data:sn83030214:00206531216:1875051701:0477/pct:6.590763309813983,28.76995520845297,48.46055163566389,53.73837142529/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hugo_ver01:data:sn83030214:00206531216:1875051701:0477/pct:2.1969211032713276,9.589985069484323,16.153517211887962,17.912790475096667/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7553,7 +7553,7 @@ ings was send to hugh williamson, then writing a
 tory of North Carolina, and that a copy was sent to  
 General W. R. Davie.J. MENIeT
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:00271743932:1875051701:0662/pct:56.01790450928382,8.755601516718373,93.66710875331565,279.48983109272666/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:00271743932:1875051701:0662/pct:18.67263483642794,2.918533838906124,31.22236958443855,93.16327703090889/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8154,7 +8154,7 @@ What Mecklenburg patriot has decided which of
 the two is the true copy?  
 It is not denied that the statements of the four
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558330:1875052001:0484/pct:59.72318339100346,134.23331635252165,43.59861591695502,28.069281711665816/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558330:1875052001:0484/pct:14.930795847750865,33.558329088130414,10.899653979238755,7.017320427916454/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8176,7 +8176,7 @@ tain&#x27;s company in the sounty of Mecklenburg,&quot;
 19th of May, 1775, the said delegation met in  
 Charlotte, &amp;c. T Abraham Alerander wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558330:1875052001:0484/pct:59.377162629757784,193.83596535914415,43.25259515570934,10.443199184921038/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558330:1875052001:0484/pct:14.844290657439446,48.45899133978604,10.813148788927336,2.6107997962302596/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8199,7 +8199,7 @@ Hugh Williamson, then writing a history of
 North Carolina, and that a copy was sent to Gen.  
 W. R. Davie.J. MCKNITT.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558330:1875052001:0484/pct:59.44636678200692,206.72440142638817,43.32179930795848,10.748853795211412/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558330:1875052001:0484/pct:14.86159169550173,51.68110035659704,10.83044982698962,2.687213448802853/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8218,7 +8218,7 @@ tion from confusion and to requlate their general
 conduct as citizens.&quot; That in this he refers  
 to the regulations of May 31 is made certai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:00271743932:1875052001:0703/pct:52.786505705308414,152.55658968171895,46.94890028113114,9.410548086866598/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:00271743932:1875052001:0703/pct:17.595501901769474,50.852196560572985,15.649633427043714,3.136849362288866/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8242,7 +8242,7 @@ power to devise ways and means to aid and assist
 their suffering brethren iu Boston, and to secure  
 unimpaired their inalienable rights aud libertie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555651:1875052001:0399/pct:42.935578330893115,108.29088851160158,16.599560761347,5.588568194680249/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555651:1875052001:0399/pct:32.222629073599414,81.22524052065648,12.449652142072502,4.1878890775325415/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8263,7 +8263,7 @@ been convened, a series of resolutions was offer­
 ed and passed. By these resolutions the citizens  
 of Mecklenberg unreservedly dissolved their con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555651:1875052001:0399/pct:42.935578330893115,116.01584606677986,16.50805270863836,3.9756649688737973/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555651:1875052001:0399/pct:32.222629073599414,87.01188455008489,12.376418894177958,2.985285795132994/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8340,7 +8340,7 @@ and tire of freedom throughout America, until
 a more general and organized government bo  
 established in this province
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_farmington_ver01:data:sn83016025:00279525383:1875052001:0551/pct:74.0234053074007,28.92708950800237,11.158727542442723,23.568464730290458/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_farmington_ver01:data:sn83016025:00279525383:1875052001:0551/pct:74.0112063282795,28.92366050260787,11.161008569545155,23.56863442389758/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8395,7 +8395,7 @@ ington on the same day of the preced­
 ing month. Every delegate felt that  
 an awful and solemn crisis had a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_quartz_ver01:data:sn84022044:00279554826:1875052001:1202/pct:7.073732718894009,54.805271731082485,15.161290322580646,25.499777876499333/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_quartz_ver01:data:sn84022044:00279554826:1875052001:1202/pct:7.072103202027183,54.797157240153986,15.163556784151117,25.499703879182707/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8416,7 +8416,7 @@ which the delegation had been conven­
 ed, the subjoined resolutions were offer­  
 ed, and, after thorough discussina of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_quartz_ver01:data:sn84022044:00279554826:1875052001:1202/pct:7.1658986175115205,82.98533984895602,15.276497695852534,4.279579446172072/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_quartz_ver01:data:sn84022044:00279554826:1875052001:1202/pct:7.164247869154573,82.9730530056263,15.278737618060354,4.282647320106603/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8491,7 +8491,7 @@ I harmony in said county: and to use
 ; ami organized government be estab­  
 lished in tiiis province
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_quartz_ver01:data:sn84022044:00279554826:1875052001:1202/pct:7.28110599078341,7.685473123056419,30.806451612903224,87.84244039686065/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_quartz_ver01:data:sn84022044:00279554826:1875052001:1202/pct:7.27942870306381,7.684335208765177,30.80511402902557,87.83313591945513/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8523,7 +8523,7 @@ nty, do hereby dis olve the political
   
 hich have connected us to the mother
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn83045160:00200293113:1875052001:0448/pct:19.671132764920827,44.74545659781014,38.06333739342266,23.704707077548257/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn83045160:00200293113:1875052001:0448/pct:4.917783191230207,11.186364149452535,9.515834348355664,5.926176769387064/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8595,7 +8595,7 @@ Britain never can be considered as hold­
 ing rights, privileges, immunities or  
 authority therein
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn83045160:00200293113:1875052101:0452/pct:60.390006093845216,228.89647326507395,42.29128580134065,94.37997724687145/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn83045160:00200293113:1875052101:0452/pct:15.099801919853725,57.22411831626849,10.574432424196251,23.594994311717862/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8618,7 +8618,7 @@ from Lexington climaxed their proceed­
 ings. And as you on this day wipe the  
 lichens and the moss from the grave
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn83045160:00200293113:1875052101:0452/pct:193.23583180987202,301.06939704209327,41.49908592321755,14.152445961319682/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn83045160:00200293113:1875052101:0452/pct:48.316318756666156,75.26734926052332,10.376352277921683,3.5381114903299204/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8735,7 +8735,7 @@ and organized government be established
   
 m this provmco.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn85033699:00200293514:1875052101:0491/pct:21.77705499704317,76.46930779277318,14.562389118864576,31.30169786678276/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn85033699:00200293514:1875052101:0491/pct:16.341319136350194,57.35118075960387,10.928719313812481,23.47371857655893/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8807,7 +8807,7 @@ out America, until a more general and
 organized government be established in  
 this province.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033306:00212470120:1875052101:0292/pct:28.73547315993359,11.824442628691491,14.831211953514112,36.93241508112525/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033306:00212470120:1875052101:0292/pct:21.561029615278162,8.87125014590872,11.126487683365625,27.699311310843935/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9194,7 +9194,7 @@ ica, until a more general and or
 ganized government be established  
 in this province
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_johnwooden_ver01:data:sn86058250:00271744821:1875052601:0081/pct:51.77699403147043,37.102966841186735,14.365165491047206,44.57242582897033/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_johnwooden_ver01:data:sn86058250:00271744821:1875052601:0081/pct:38.851947346994166,27.830133798720187,10.774867688967296,33.43804537521815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9433,7 +9433,7 @@ and fire of freedom throughout America, un­
 til a more general and organized government  
 he established in this province
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_henson_ver01:data:sn83016107:00415625509:1875052801:0296/pct:4.107981220657277,31.622231065128002,14.65459423205902,32.0997479771853/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_henson_ver01:data:sn83016107:00415625509:1875052801:0296/pct:3.192410985012562,24.51084535517253,11.357532703803171,24.880923825514856/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9503,7 +9503,7 @@ dom throughout America, until a more
 general and oranlzed covernmnnt K oo.  
 tiiblished in this province. Charlotte Cor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_felice_ver01:data:sn87052128:00200292170:1875052801:0803/pct:103.6144578313253,9.46199829205807,23.443775100401606,44.42356959863365/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_felice_ver01:data:sn87052128:00200292170:1875052801:0803/pct:77.76940467219292,7.105038428693424,17.608641044963576,33.32194705380017/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9584,7 +9584,7 @@ throughout America, until a more general and
 organized government be established in this  
 province
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_carrie_ver01:data:sn85033295:0027176876A:1875060201:0002/pct:48.1709768189736,19.88451150228183,14.833177006565725,32.131880413523334/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_carrie_ver01:data:sn85033295:0027176876A:1875060201:0002/pct:48.17544329804815,19.887616031790383,14.833177006565725,32.138089472540436/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9675,7 +9675,7 @@ out America, until a more general and
 organized government be established in  
 this province
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn85038088:00296028903:1875060401:0354/pct:23.513831665685696,6.046273808002045,25.029429075927016,121.11721845839192/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn85038088:00296028903:1875060401:0354/pct:17.650522596790815,4.53790106097405,18.78404239658472,90.83471813882143/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9716,7 +9716,7 @@ tenanccd the unchartered tied
 , 1 j 1111: isi ui u uuu, uiiu miiiuuu aim ,  
 who have wantonly trampled on! f ., 4l 4 f country, or town, without mean
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033395:00212470387:1875061701:0491/pct:5.561643835616438,42.82709763117113,44.56164383561644,19.11667035643126/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033395:00212470387:1875061701:0491/pct:4.179799917774428,32.123090546823114,33.438399342195424,14.33473544387868/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9760,7 +9760,7 @@ treneral and organized government
 V .... ... -  
 be established in Ibis province
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033395:00212470387:1875061701:0491/pct:4.726027397260274,81.3814478636263,45.273972602739725,21.197697586893955/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033395:00212470387:1875061701:0491/pct:3.5494038646018913,61.03608589771972,33.97286556118953,15.90657516050476/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9866,7 +9866,7 @@ dom throughout America, until a more gen­
 eral and organized government he estab  
 lished in this province.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:00237283612:1876070601:0332/pct:46.77619342839429,31.181455633100697,13.174209547427154,25.598205383848455/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:00237283612:1876070601:0332/pct:35.10621801829741,23.392323030907278,9.877500387657001,19.192422731804587/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9908,7 +9908,7 @@ t I deuce, we solemnly pledge to each other
 ! our lives, our fortunes, and our most sacred  
 f honor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624542:1876070801:0420/pct:49.28666224286662,27.4448735517628,14.814200398142004,14.899713467048711/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624542:1876070801:0420/pct:38.20605125567841,21.269953656024718,11.481100539984572,11.557028836251288/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10164,7 +10164,7 @@ claimed by tirnit Driiian. is :n enemy to this ,
 country, to America and to the intierciii and un­  
 deni;tMc riuht ot man. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn83032041:00212477710:1879071801:0254/pct:23.189655172413794,71.78491587245558,30.229885057471265,45.92304977056124/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn83032041:00212477710:1879071801:0254/pct:17.40192556401782,53.84162842687375,22.675671791924128,34.45111189551712/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10199,7 +10199,7 @@ country and fire of freedom throughout America
 1 until a more ueneral and organized irovernment be  
 established in this province
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn83032041:00212477710:1879071801:0254/pct:38.160919540229884,84.25697140840099,15.474137931034482,8.742204965290034/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn83032041:00212477710:1879071801:0254/pct:28.624802414139964,63.195670078832805,11.610863629831872,6.553712201435463/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10442,7 +10442,7 @@ America, until a mure general and organ
 ized government be established in this  
 Province;&quot; and, by the very terms of thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84020714:00296023012:1883112301:0637/pct:25.84566596194503,96.24289623237213,16.437632135306554,8.103557145864029/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84020714:00296023012:1883112301:0637/pct:19.38681115369367,72.18480319932645,12.343068587286904,6.082929909492738/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10476,7 +10476,7 @@ out America, until a more general and
 organized government be established iu  
 this Province;&#x27;&#x27; aud, by the very term
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_grandfather_ver01:data:sn85042098:00415667449:1883112801:0396/pct:53.85450597176982,49.80761008978196,14.79370249728556,12.644292432663532/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_grandfather_ver01:data:sn85042098:00415667449:1883112801:0396/pct:40.40733197556008,37.35570756733647,11.106585200271555,9.491235570756734/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10494,7 +10494,7 @@ power than that of our God and the gen­
 eral government of the Congress.&quot;  
 TO HE CONTINUED
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_grandfather_ver01:data:sn85042098:00415667449:1883112801:0396/pct:53.88165038002172,63.10389055151774,14.780130293159608,2.287302265925609/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_grandfather_ver01:data:sn85042098:00415667449:1883112801:0396/pct:40.43448744059742,47.32791791363831,11.093007467752885,1.7208208636169302/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10534,7 +10534,7 @@ the duty of every delegate &quot;to use every
 exertion to spread the love ol country  
 and fire of freedom throughout America.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_grandfather_ver01:data:sn85042098:00415667449:1884022001:0444/pct:34.402292576419214,42.44286330314791,15.07914847161572,2.511858559724019/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_grandfather_ver01:data:sn85042098:00415667449:1884022001:0444/pct:25.81569965870307,31.834842604570937,11.31740614334471,1.8865890470030184/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10670,7 +10670,7 @@ and fire of freedom throughout America, un­
 til a more general and organized govern­  
 ment be established in this province
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ulan_ver01:data:sn90059522:00175035382:1884052501:0211/pct:30.13250731371537,52.45710283646551,13.078643951127173,23.10026847204389/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ulan_ver01:data:sn90059522:00175035382:1884052501:0211/pct:30.138243561062353,52.46099373565231,13.084380198474157,23.108050270417493/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10780,7 +10780,7 @@ which independence we solemnly pledge to each other our
 meituol cooperation, our lives, our forttines, and our most  
 sücred honor.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_dante_ver01:data:sn83030272:00175044905:1887052201:1012/pct:118.52128454070201,177.20666972617408,49.96265870052278,29.355973688236194/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_dante_ver01:data:sn83030272:00175044905:1887052201:1012/pct:29.630321135175503,44.30166743154352,12.490664675130695,7.3389934220590485/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11030,7 +11030,7 @@ freedom throughout America, until a
 more general and organized government  
 be established in this province
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn91068247:00296023048:1890051601:0085/pct:37.39010989010989,13.553614648005892,17.431318681318682,36.23066400084184/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn91068247:00296023048:1890051601:0085/pct:28.053304025278198,10.16521098600442,13.078719604341256,27.18089024518573/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11173,7 +11173,7 @@ nation which has wantonly trampled en
 our rights and liberties and Inhumanly  
 shed the Innocent bleed of patriots a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282395:1890052001:0871/pct:67.39299610894942,130.71293033342369,52.06225680933852,27.270262943887232/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282395:1890052001:0871/pct:16.848249027237355,32.67823258335592,13.01556420233463,6.817565735971808/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11425,7 +11425,7 @@ county is hereby reinstated in his former
 command arid authority, he acting con­  
 formably to these regulations.&quot; This wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn91068247:00296023048:1891052201:0303/pct:7.952622673434856,110.75234441602728,16.779469825155104,4.784739982949701/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn91068247:00296023048:1891052201:0303/pct:5.966991112991959,83.06692242114237,12.59698123853858,3.5912190963341857/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11619,7 +11619,7 @@ independence we solemnly pledge to each
 other our mutual co-operation, our lives,  
 our fortunes and our most sacred honor.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_lopez_ver03:data:sn88085523:00202199744:1892071401:0906/pct:24.50405141100866,37.642015005359056,11.958647666946074,26.45230439442658/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_lopez_ver03:data:sn88085523:00202199744:1892071401:0906/pct:24.51802179379715,37.647374062165056,11.95166247555183,26.463022508038584/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11943,7 +11943,7 @@ of our former laws, wherein, I
 he crow of Great Britain nev  
 be considered as holding rights, priv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_heart_ver01:data:sn85038614:00175031145:1894092001:0109/pct:182.0204449789537,20.75749605470805,72.03848466626579,274.97106785902156/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_heart_ver01:data:sn85038614:00175031145:1894092001:0109/pct:60.67348165965123,6.919165351569349,24.012828222088594,91.65702261967385/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12046,7 +12046,7 @@ as holding rights, privileges, or author­
 ity therein.&quot;  
 From the spirit of these resolution
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_mitchell_ver01:data:sn92073907:00416156748:1894100401:0386/pct:57.35052111903456,33.50285417747794,16.77180471749863,30.09859885832901/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_mitchell_ver01:data:sn92073907:00416156748:1894100401:0386/pct:43.03745369735218,25.127140633108457,12.580600905474002,22.584327970939285/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12088,7 +12088,7 @@ Richmond Dispatch.
 Following is the address which was  
 delivered by the late Professor Edward
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068402:00295878678:1894110801:0637/pct:20.24793388429752,22.674293114612563,29.517906336088153,11.191452622490827/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068402:00295878678:1894110801:0637/pct:15.199118092875844,17.008417871789337,22.144136695604246,8.396287502698035/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12135,7 +12135,7 @@ to America, and to the inherent and
 inalienable rights of man.  
 2. Resolved, That we do hereb
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068402:00295878678:1894110801:0637/pct:7.245179063360881,106.38894884524066,78.05785123966942,22.03755665875243/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068402:00295878678:1894110801:0637/pct:5.443020531900234,79.79710770559034,58.564144963483535,16.52277142240449/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12495,7 +12495,7 @@ unimpaired their inalienable rights, privl-
 and liberties from the dominant  
 gra§p of British imposition and tyranny.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_fletcher_ver01:data:sn86063034:00414182239:1898041001:1073/pct:15.656565656565656,10.259721624336347,12.476618032173588,4.189984215812886/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_fletcher_ver01:data:sn86063034:00414182239:1898041001:1073/pct:15.669036039406409,10.259721624336347,12.464147649332835,4.204333476825943/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

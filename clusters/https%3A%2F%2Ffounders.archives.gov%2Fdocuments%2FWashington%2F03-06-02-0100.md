@@ -312,7 +312,7 @@ uer or dis, anu trusting in the smies er heabed
 upch so just a cause, will behave with bravery  
 and resolution
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_monroe_ver01:data:sn82014371:00212470211:1864112101:0780/pct:128.94290559638213,234.7462686567164,51.66760881854155,32.286567164179104/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_monroe_ver01:data:sn82014371:00212470211:1864112101:0780/pct:32.24028268551237,58.6865671641791,12.918727915194346,8.071641791044776/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -429,7 +429,7 @@ ample.&quot; And so they went off, as Washington says
 The British troops were under the command of  
 Sir Henry Clinton, who led the first division. The
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:00206531265:1876082601:0425/pct:200.1152073732719,129.7773114142474,47.333772218564846,15.238428354902647/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:00206531265:1876082601:0425/pct:66.70506912442396,43.25910380474914,15.77792407285495,5.0794761183008825/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -549,7 +549,7 @@ honor.
 To be Continued.!  
 RERUMATISM CUrEd iN A DAY.-&quot;Mysti
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_dunning_ver01:data:sn84022835:00237285050:1894061501:0851/pct:200.1628664495114,247.09062455541329,58.14332247557003,119.90325793142695/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_dunning_ver01:data:sn84022835:00237285050:1894061501:0851/pct:50.050906129097946,61.77265613885332,14.538790470372632,29.975814482856737/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -566,7 +566,7 @@ Be cool but determined. Do not fire at
 a distance, but wait for orders from your&#x27;  
 officers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_kryptonite_ver01:data:sn86069180:00100481790:1899022501:0163/pct:42.66618497109827,116.16426991150442,16.49205202312139,2.862278761061947/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_kryptonite_ver01:data:sn86069180:00100481790:1899022501:0163/pct:32.02023852547886,87.1266592920354,12.378026743765812,2.1570796460176993/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

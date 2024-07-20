@@ -131,7 +131,7 @@ of the Governor or Commander; and that re­
 ciprocally, the subjects of Russia shall not re­  
 sort without permission to any establishment o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015143:1825011801:0426/pct:28.561046511627907,43.252861402327596,16.11918604651163,3.270174088679427/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015143:1825011801:0426/pct:28.565891472868216,43.25927350838383,16.114341085271317,3.273380141707544/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -172,7 +172,7 @@ search or detention of the vessels, eeizure of
 the merchadise, or in fine any measure of con­  
 straint whatever towards the merchants or th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015143:1825011801:0426/pct:28.677325581395348,50.81273444262768,15.973837209302326,14.302202558430317/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015143:1825011801:0426/pct:28.68217054263566,50.815940495655795,15.978682170542635,14.302202558430317/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -202,7 +202,7 @@ Governor or Commander; and that reciprocally,:
 the subjects of Russia shall not report without i  
 permission to any establishment of the U. States 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184534:1825012101:0023/pct:50.67492456725425,54.74188273767811,15.261235508972527,3.2001868722261153/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184534:1825012101:0023/pct:50.66687837408701,54.7354898984001,15.264105006880492,3.203705866324108/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -251,7 +251,7 @@ been duly ratified by the President :&gt;f the Uni­
 ted States with the advice and consent of the  
 Senate, on the one part, and on the other bv hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184534:1825012101:0023/pct:50.62728283309512,63.73510861948143,15.30887724313165,18.255080588647512/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184534:1825012101:0023/pct:50.61924420450937,63.72766553777882,15.311739176458135,18.25684144964771/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -440,7 +440,7 @@ It is moreover agreed that hereafter there shall not
 he formed by the citicens of the United States, or under  
 the authority of the said States, any establishmnent upo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_dante_ver01:data:sn83030272:00175044899:1886092001:0611/pct:233.50439882697947,82.38788238788239,49.56011730205279,14.256014256014256/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_dante_ver01:data:sn83030272:00175044899:1886092001:0611/pct:58.40821566110398,20.596970596970596,12.396845772969009,3.564003564003564/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -530,7 +530,7 @@ it of having taking the lead in the affair.&#x27;’
 it is curious, after the lapse of more than  
 sixty years, to find another Administratio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fireweed_ver01:data:sn83016209:00383342430:1890080101:0543/pct:35.28214616096207,80.22455089820359,13.413506012950972,4.221556886227545/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fireweed_ver01:data:sn83016209:00383342430:1890080101:0543/pct:27.343115232041296,62.17418207131255,10.409597094106964,3.2717147497873/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

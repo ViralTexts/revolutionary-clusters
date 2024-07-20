@@ -92,7 +92,7 @@ your agency in this good work may receive its
 compensation here and hereafter.  
 G. WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789121201:0001/pct:32.90457672749028,11.839604713036868,54.202811845647624,81.10984416571645/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789121201:0001/pct:32.92701166616811,11.849106803496769,54.19533353275501,81.11934625617636/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -393,7 +393,7 @@ rewarder of virtue that your agency in this
 good work may receive its reward here and  
 hereafter.—National Gnz.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215658:1839081401:0677/pct:17.416897506925206,34.0228118905502,15.347991689750693,12.073754506234856/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215658:1839081401:0677/pct:17.415389942006406,34.0208013237206,15.34954845783202,12.075010834022772/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -429,7 +429,7 @@ I pray the munificent Hawarder of virtue that your
 agency in this good work may receive its reward  
 here and hereafter.’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348963:1839082901:0351/pct:80.60968551032221,72.73225541244176,15.396488520162068,10.879693066593587/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348963:1839082901:0351/pct:80.59413580246914,72.72229072475682,15.398341049382717,10.881627620221948/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -613,7 +613,7 @@ may confidently expect the advauccmeni
 ot turc religion and th,ecompletion ol our  
 happiness.” To this answer from ti
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85033123:00514151210:1870042801:0200/pct:52.444101773323055,8.553157474020784,14.880493446414803,15.176430284343953/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85033123:00514151210:1870042801:0200/pct:52.45438190696479,8.560770431274028,14.885633513235671,15.176430284343953/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -732,7 +732,7 @@ your agency in this work may receive its com­
 pensation here and hereafter.  
 G. WASIIISGTOK
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_clark_ver03:data:sn82014064:no_reel:1872011201:0006/pct:37.44696550451946,33.414494414207965,11.41855746172293,12.43196791750215/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_clark_ver03:data:sn82014064:no_reel:1872011201:0006/pct:37.45157719977864,33.42523632197078,11.41855746172293,12.42122600973933/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -788,7 +788,7 @@ that your agency in this work may receive its
 compensation here and hereafter.  
 &quot;G. WAsHIngroN.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271742022:1872011201:0050/pct:6.131946345469477,74.3160956102881,42.622502053107034,56.98445878396801/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271742022:1872011201:0050/pct:2.0439821151564925,24.772031870096033,14.207500684369013,18.994819594656004/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -967,7 +967,7 @@ tue that your agency in this work may re
 ceive its compensation here and hereatter,  
 G. WASHINGTON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293459:1872011401:0051/pct:22.87359716479622,51.432060390763766,14.45658594211459,24.911190053285967/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293459:1872011401:0051/pct:17.16142371880077,38.576820603907635,10.840348545266577,18.683392539964476/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1018,7 +1018,7 @@ Ir is tbe opinion of the Cincinnati Ga-I
 zette that the late C. L. Vallandigham 1  
 was a much worse man, in every respect, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn85033673:00280779404:1872011701:0056/pct:10.662358642972537,93.19535015593989,16.498384491114702,27.573008222285228/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn85033673:00280779404:1872011701:0056/pct:7.998384164815189,69.90360079387581,12.381337103615431,20.68330025517437/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1120,7 +1120,7 @@ A
   
 G. WASHiNGTON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn87076794:00280775125:1872011801:0327/pct:57.31912507010656,130.41237113402062,38.64273696017947,125.0/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn87076794:00280775125:1872011801:0327/pct:14.335811474260064,32.603092783505154,9.664749614251647,31.25/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1192,7 +1192,7 @@ and hereafter.
   
 G. WAsntxoro*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn87058333:00279528943:1872012501:0437/pct:73.71709058456047,4.002306805074971,22.832069016807974,93.48327566320646/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn87058333:00279528943:1872012501:0437/pct:73.72700679260251,4.009996155324875,22.841985224850017,93.48327566320646/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1268,7 +1268,7 @@ virtue that your agency in this work
 may receive its compensation here and  
 hereafter. G. WAsHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn83025167:00279529352:1872020201:0688/pct:220.00536336819522,119.07374195590252,52.855993563958165,97.72127861588775/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn83025167:00279529352:1872020201:0688/pct:73.33512112273175,39.691247318634176,17.61866452131939,32.573759538629254/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1343,7 +1343,7 @@ i o i iee o o aieein ei er e­
 public concils wit wisdom and firea  
 ness to complete the national consti
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn83025167:00279529352:1872020201:0688/pct:220.47465808527755,92.69965186201075,70.72941807455082,67.83415972148961/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn83025167:00279529352:1872020201:0688/pct:73.49155269509252,30.899883954003588,23.57647269151694,22.61138657382987/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1401,7 +1401,7 @@ tue that your agency in this work may re­
 ceive its compensation hero and hereafter.  
 &quot;G. Washinoton.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_danby_ver01:data:sn98060050:00280777377:1872020201:0018/pct:112.12349397590361,67.60288374887354,14.269578313253012,28.83748873535596/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_danby_ver01:data:sn98060050:00280777377:1872020201:0018/pct:84.14013938594839,50.7059176930009,10.717649274816349,21.62811655151697/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1491,7 +1491,7 @@ ilf.ni! v evnectthe advancement of
 true religion and the completion ot  
 .-inr iinmiiitpss.&#x27; J. iiuso arts &quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn82016419:00212472967:1872032901:0394/pct:19.623089088033737,93.90813334781193,11.72904586188719,8.567705505483765/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn82016419:00212472967:1872032901:0394/pct:14.724492486158713,70.43110001085894,8.805694700764567,6.428493864697579/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1525,7 +1525,7 @@ sonality of the individual conscience.&quot; Gover­
 ment is a political organism, and it is of the  
 essence of American liberty that the Governmen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grass_ver01:data:sn83030214:00206531150:1873101001:0325/pct:105.04080652904464,58.12307341020664,46.42342774843975,11.485329375499486/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grass_ver01:data:sn83030214:00206531150:1873101001:0325/pct:35.013602176348215,19.374357803402216,15.474475916146583,3.8284431251664954/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1545,7 +1545,7 @@ tions respecting religion from the Magna
 Charta of our country.” Liberty of worship  
 was not regarded by the framers of our Gov
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn89053987:00414184418:1873102201:0242/pct:17.955834439483528,27.359863072314933,12.380837456256788,3.1578947368421053/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn89053987:00414184418:1873102201:0242/pct:17.953667953667953,27.357521820982374,12.38336550836551,3.1604769239545893/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1606,7 +1606,7 @@ virtue that your agency in this work may
 receive its compensation here and her af­  
 ter- O. Washington.’ 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn97064666:00517016081:1876091401:0346/pct:16.322438339683178,6.286612373196171,25.085221576097855,90.78439777111016/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn97064666:00517016081:1876091401:0346/pct:16.31916599839615,6.285714285714286,25.085204490777866,90.775/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

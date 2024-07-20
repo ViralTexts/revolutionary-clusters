@@ -137,7 +137,7 @@ soul, why art thou disquieted within me?
 hope thou in God.&quot; She lifted her heart to  
 God for hope and strength but could d
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_idacox_ver02:data:sn93067882:0020219428A:1858110501:0846/pct:246.96684522947734,127.49831574219627,47.12610395251195,11.16101504603638/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_idacox_ver02:data:sn93067882:0020219428A:1858110501:0846/pct:82.32228174315911,42.49943858073209,15.708701317503982,3.7203383486787933/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -154,7 +154,7 @@ waited there, the words came over him.
 &quot;Why art thou cast down, O my soul, why art  
 thou disquieted within me? hope thou i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290094:1858112001:0484/pct:29.801324503311257,224.68085106382978,37.69315673289183,4.085106382978723/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290094:1858112001:0484/pct:7.450331125827814,56.170212765957444,9.423289183222957,1.0212765957446808/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -207,7 +207,7 @@ over him: &quot;Why art thou cast down, O
 my soul, why art thou disquieted within  
 me? Hope thou in God.&quot; She lifted he
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279520944:1859060301:0749/pct:115.45268890401634,64.81113320079523,53.02927161334241,8.764082173624917/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279520944:1859060301:0749/pct:28.856624319419236,16.200099387112804,13.254310344827585,2.190657611396389/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -226,7 +226,7 @@ why art thou disquieted within mel?
 hope thou in God.&quot; She lifted her heart  
 to God for hope and strength, but coul
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_gastly_ver01:data:sn82015737:00279529091:1860020601:0342/pct:140.1378122308355,14.964370546318289,36.57766293425208,6.618440941481322/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_gastly_ver01:data:sn82015737:00279529091:1860020601:0342/pct:46.71260407694516,4.98812351543943,12.19255431141736,2.2061469804937737/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -259,7 +259,7 @@ there thc words came over him, &quot; Why art
 thou cast down, O my soul, why art thou dis­  
 quieted within mc ? hope thou in God/&#x27; Sh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_gnomiemoore_ver01:data:sn84026912:00294558627:1867092101:0429/pct:81.86060983198506,26.192179303767286,16.101431238332296,2.0743919885550786/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_gnomiemoore_ver01:data:sn84026912:00294558627:1867092101:0429/pct:81.86579547811657,26.192179303767286,16.106616884463804,2.0863137815927515/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -276,7 +276,7 @@ there, the words came over him: &quot;Why art
 thou cast down, O my soul, why art thou dis-  
 quieted within me? hope thou in God.&quot; Sh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777651:1868092301:0599/pct:19.53307392996109,306.3392347230154,46.30350194552529,5.596801827527127/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777651:1868092301:0599/pct:4.884218719595252,76.58480868075385,11.5781280404748,1.3992004568817817/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -294,7 +294,7 @@ came over him : &quot;Why art thou cast
 down, O my soul, why art thou dis­  
 quieted within me? hope thou i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn84022548:00202194953:1868100601:0559/pct:110.24198086662915,39.67693624304664,14.786156443444007,2.941805733846812/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn84022548:00202194953:1868100601:0559/pct:82.71639690358901,29.760376551133934,11.104855735397607,2.2036799315361573/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -314,7 +314,7 @@ art thou cast down, O my soul, why art
 thou disquieted within me? hope thou  
 in God.&quot; She lifted her heart to Go
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774777:1868101001:0146/pct:178.78151260504202,38.278969412361974,98.38935574229691,350.04442188094936/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774777:1868101001:0146/pct:44.718864950078824,9.569742353090493,24.610264494657557,87.51110547023734/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -334,7 +334,7 @@ thou in God.&quot; She lifted her heart
 to God for hope and strength, but  
 could do nothing more for her hus
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_kirby_ver02:data:sn84022552:0020219722A:1868101601:0386/pct:108.08543096872616,159.4873223739203,49.96186117467582,12.984118138757314/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_kirby_ver02:data:sn84022552:0020219722A:1868101601:0386/pct:27.02135774218154,39.87183059348008,12.490465293668954,3.2460295346893284/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -353,7 +353,7 @@ O my soul, why art thou disquieted with­
 in me ? hope thou in God?&quot; She lifted  
 her heart to God for hope and strengt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn85054846:00212477679:1869052701:0601/pct:42.54055619930475,77.47228381374723,18.96002317497103,3.8802660753880267/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn85054846:00212477679:1869052701:0601/pct:31.918284555201392,58.10421286031042,14.22776006954506,2.915742793791574/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -411,7 +411,7 @@ soul? Why art thou disquieted withi
 Why art thou cast down. O my soul? Why  
 art thou disquieted within me? Hope thou i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn90053049:00332897913:1895011201:0109/pct:5.793742757821553,8.8914384052775,12.553109308613363,0.9895310483292701/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn90053049:00332897913:1895011201:0109/pct:5.792624058698591,8.890163464295956,12.555512647229195,0.9929739030685403/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -136,7 +136,7 @@ violence very often occurred. On one occasion an
 inspector of the revenue was attacked in his house  
 and several of the inmates were wounded. A mar-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743245:1856072301:0193/pct:156.2478949141125,130.9411899575834,46.71606601549343,18.0786426688066/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743245:1856072301:0193/pct:52.0826316380375,43.647063319194466,15.572022005164477,6.026214222935534/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -168,7 +168,7 @@ the execution of their functions.
 Tbe total receipts of the Treasury hr 4,051 war­  
 rants for tbe year ending June an, ISGS, will b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_halsted_ver02:data:sn82014064:no_reel:1865112401:0001/pct:11.9194180190263,56.442278403898875,8.878940496176087,2.299725860493451/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_halsted_ver02:data:sn82014064:no_reel:1865112401:0001/pct:11.9194180190263,56.446085897045386,8.897593732512592,2.3035333536399634/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -209,7 +209,7 @@ isws, and to the supp rting and alding the
 civil authorities in the execution of these  
 iuactions
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293800:1865112601:0552/pct:14.677804295942721,191.356783919598,36.45584725536993,46.36515912897823/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293800:1865112601:0552/pct:3.6710938665870767,47.8391959798995,9.118042083271154,11.591289782244557/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -247,7 +247,7 @@ laws, and to the supporting and aiding of
 the civil officers in the eaceution of ther  
 functions.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn85042437:00280775563:1865112801:0315/pct:99.86996098829648,248.61329147043432,39.01170351105332,23.338566195709053/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn85042437:00280775563:1865112801:0315/pct:24.9796714912994,62.15332286760858,9.757684176288828,5.834641548927263/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -269,7 +269,7 @@ rest to be admonished and sent home,
 except such as may have been particu-  
 larly violent. Gov. Lee was als
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292923:1865113001:0373/pct:127.66685681688534,136.80898876404495,34.74044495151169,11.820224719101123/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292923:1865113001:0373/pct:31.925820256776035,34.20224719101124,8.68758915834522,2.955056179775281/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -290,7 +290,7 @@ laws, and to the supporting and aiding
 the civil authorities in the execution of  
 these functions
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292923:1865113001:0373/pct:127.83799201369082,148.67415730337078,34.79749001711352,11.640449438202246/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292923:1865113001:0373/pct:31.96861626248217,37.168539325842694,8.7018544935806,2.9101123595505616/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

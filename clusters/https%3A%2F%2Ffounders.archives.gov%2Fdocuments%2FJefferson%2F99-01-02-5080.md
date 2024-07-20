@@ -72,7 +72,7 @@ of the prosecution, as well as what the
 prisoner, col. Thomas Butler, hath urg­  
 eel in his defence, are eif opinion that h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805112001:0002/pct:60.3731674811195,55.17869656622285,18.28076410484229,7.652417659425368/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805112001:0002/pct:60.3731674811195,55.17869656622285,18.29557233822005,7.661761270731137/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -103,7 +103,7 @@ secution, as well as what the prisoner, co­
 lonel &#x27;lhomas Butler, hath urged in his  
 defence, are of opinion that he is guilty q
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216031:1805112001:0698/pct:47.62057362602147,46.02076124567474,23.089248517865727,22.117272982324884/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216031:1805112001:0698/pct:47.61294456904838,46.01645782681878,23.09088967211364,22.11832180038651/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -126,7 +126,7 @@ ring the courle of the profecotion, as well as what
 the prifoner, Colonel Thomas Butter, hath ur-o&#x27;d  
 in his defence, are of opinion that he is ruilty &gt;f svrful
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1805120301:0242/pct:59.50874581317454,56.10409491006506,17.789356159285447,5.153718586554407/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1805120301:0242/pct:59.49767441860465,56.0969387755102,17.792248062015503,5.157312925170068/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -146,7 +146,7 @@ is well as what the Prisoner* Colonel Thomas
 BvTLF.lt hath urged in 1 is defence, are of op­  
 inion that he is guilty of toilful, obstinate, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895060:1805120901:0743/pct:45.151879183113095,80.96602972399151,20.593787540758537,4.10828025477707/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895060:1805120901:0743/pct:45.144131777625255,80.95743551639953,20.594543582704187,4.11049782401019/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

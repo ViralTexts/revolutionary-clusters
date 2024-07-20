@@ -190,7 +190,7 @@ RESOURCES AND MEANS with which j
 ii has pleased the Almighty to endow ns, to  
 sustain to. the last extremity the war/’ &amp;c— 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812052601:0481/pct:1.7307397763822945,15.582084193519433,22.683412467452904,6.839601472040211/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812052601:0481/pct:1.7304747320061256,15.580685693771315,22.68504338948443,6.841979297552803/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -219,7 +219,7 @@ to sustain to the last extremity, the war
 they may cause to be waged against Great  
 Britain.’4
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812052601:0024/pct:23.194669547992078,28.74083129584352,17.107869620025212,8.679706601466993/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812052601:0024/pct:23.19049333813468,28.73731817626207,17.110791021486015,8.682720123864238/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -324,7 +324,7 @@ lation. nil hoop /ViKtinoriM&#x27;.lir./l 1-1,0. a.
   
 of the American federation ; and with cer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812052801:0172/pct:29.225852272727273,6.352363125877398,34.39275568181818,86.3944782405241/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812052801:0172/pct:29.220663944612106,6.351620072523102,34.392567607550745,86.38827153273287/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -366,7 +366,7 @@ successive cmlitiojjs she subsidized, finally
 in 1806, was left clone to maintain the un­  
 equal conflict against all her former auxili
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812052801:0172/pct:46.27130681818182,35.493682732802995,16.779119318181817,15.395414131960692/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812052801:0172/pct:46.263092490679924,35.48953093929114,16.782058109947336,15.39751237961555/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -395,7 +395,7 @@ others, always recoil with their worst re-ac­
 tion on their authors. The ministry of G.  
 Britain, behind the rampart of a navy deem
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812052801:0172/pct:46.27130681818182,51.3804398689752,16.814630681818183,8.177351427234441/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812052801:0172/pct:46.263092490679924,51.374429757866416,16.81756316941831,8.18029399149998/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -418,7 +418,7 @@ ca, fellow-citizens, was instantaneously rais­
 ed against this infamous inroad on the com­  
 ity and usages of sovereign and neutral states
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812052801:0172/pct:46.27130681818182,59.46420215255031,16.761363636363637,4.913430042115115/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812052801:0172/pct:46.263092490679924,59.45724646157446,16.764305580211847,4.916754396225679/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -442,7 +442,7 @@ appear on the accustomed domains of all
 nations.  
 We were the happiest people on the earth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812052801:0172/pct:46.27130681818182,74.19279363593823,16.70809659090909,5.638745905474965/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812052801:0172/pct:46.263092490679924,74.18411510118142,16.711047991005383,5.641985417397747/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -477,7 +477,7 @@ mil not despairing of pacific redress, stayed !
 he noble ardor of the country—that coun- i  
 ry which is always foil of noble ardor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812052801:0172/pct:46.27130681818182,80.86102012166589,17.347301136363637,11.382779597566682/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812052801:0172/pct:46.263092490679924,80.85156158615042,17.350139061482928,11.385347214099115/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -518,7 +518,7 @@ country, their families—scourged like ma­
 lefactors—chained like galley .slaves to the  
 sides of British ships—exposed and slaugh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812052801:0172/pct:63.74289772727273,7.065980346279831,16.441761363636363,14.892372484791764/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812052801:0172/pct:63.731581750399435,7.065153819160136,16.444760044973076,14.894529574609116/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -574,7 +574,7 @@ ed in the left. We hare deprecated long
 enough nur u nap peas Bile, insidious assail­  
 au’s, more dreadful, more pernicious in thei
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812052801:0172/pct:63.81392045454545,24.064108563406645,16.637073863636363,22.0987365465606/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812052801:0172/pct:63.802591869341384,24.061293718563576,16.640037872063434,22.10005068818965/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -598,7 +598,7 @@ and energy of their aroused .endeavours.
 We call to mind, fellow-citizens, the former  
 struggle with Great Britain ; when, withou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812052801:0172/pct:63.83167613636363,53.05334581188582,16.264204545454547,5.42817033224146/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812052801:0172/pct:63.820344399076866,53.04714001637618,16.267234747618204,5.431434475767146/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -698,7 +698,7 @@ Congress, followed by cooperative mea­
 sures of preparation for the “ armour and  
 attitude demanded by the crisis,M(lrrevistibl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812052801:0172/pct:63.74289772727273,6.481048198408985,33.64701704545455,86.62845109967243/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812052801:0172/pct:63.731581750399435,6.4802900924084685,33.64696135866028,86.62221702343354/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -752,7 +752,7 @@ derick Hoeckly, A. Hargesheimer, R bert
 McMullen, Jacob Hoi ,r.e, T D. Andersen.  
 Jacob Richards, and G. G. f.eip« r
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812052801:0172/pct:80.82386363636364,26.286850725315862,16.40625,21.080954609265326/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812052801:0172/pct:80.80951535593822,26.28377588021991,16.409254985502102,21.08238780364175/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -914,7 +914,7 @@ of society together, the perfection of polity
 was accomplished, and the visions of phi­  
 lanthropists realized in the establishment
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812052901:0027/pct:22.533920058672535,32.98830979055042,17.913458012467913,52.5815879201169/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812052901:0027/pct:22.529789184234648,32.98429319371728,17.916284754048274,52.57924428751167/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -976,7 +976,7 @@ ously and unanimously raised against this
 infamous inroad on the comity and usages of  
 sovereign and neutral states. Not r. tow
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812052901:0027/pct:22.588925559222588,11.93375547978568,36.08360836083608,84.43740867023868/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812052901:0027/pct:22.584784601283225,11.932302447339584,36.083104185762295,84.43118633061407/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1013,7 +1013,7 @@ with. Our policy was neiltral. Our sys­
 tem was pacific and precautionary.—We  
 shut our own gates and denied ourselve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812052901:0027/pct:40.575724239090576,34.400876765708716,17.63843050971764,12.652216268874817/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812052901:0027/pct:40.56828597616865,34.39668817727992,17.64130766880538,12.654734364219328/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1042,7 +1042,7 @@ not despairing of pacific redress, stayed the &#x27;
 noble ardor of the country-that country I  
 which is always full of noble ardor—whos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812052901:0027/pct:40.68573524019069,47.01656113005358,17.766776677667767,7.598636142230881/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812052901:0027/pct:40.678276810265814,47.0108364787532,17.769630308585395,7.601769552335728/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1083,7 +1083,7 @@ country, their families—scourged like mal­
 efactors—chained like galley slaves to the  
 sides of British ships—exposed and slaugh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812052901:0027/pct:40.374037403740374,55.723331709693134,17.675100843417674,15.09985387238188/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812052901:0027/pct:40.366636113657194,55.716546937781565,17.677971280171096,15.102073947806323/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1110,7 +1110,7 @@ already overcharged : end it i« necessary to
 break off the narrative, which has been so!  
 often so much mure strikingly unfolded, tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812052901:0027/pct:40.465713237990464,72.97856794934242,17.84011734506784,7.160253287871408/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812052901:0027/pct:40.45829514207149,72.9696822111287,17.842957531316834,7.1634400746783555/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1163,7 +1163,7 @@ of our national existence, fellow&#x27;-citizens, is
 gliding out of view, while we linger on the  
 shore, vainly imploring the monsters of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812052901:0027/pct:40.42904290429043,12.067705796395519,36.28529519618628,83.69459327812956/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812052901:0027/pct:40.421631530705774,12.066236454401558,36.284754048273754,83.6884613823613/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1188,7 +1188,7 @@ lacvity, ami energy ot their aroused endea­
 vors. We call to mind, fellow-citizens, the  
 former struggle With Great Britain ; when
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812052901:0027/pct:58.947561422808946,18.631271310277643,17.62009534286762,6.076473453482708/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812052901:0027/pct:58.93675527039414,18.62900280043833,17.622975863122516,6.0797921993587405/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1330,7 +1330,7 @@ mer, Robert McMullen, Jocob Ilolgate, T*
 D. Anderson, Jacob Richards, Ft G?G. Lci­  
 per
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812052901:0027/pct:58.83755042170884,12.152946906965417,35.84525119178585,83.7554797856795/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812052901:0027/pct:58.826764436296976,12.15146718616827,35.84479071188512,83.74934047648037/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2903,7 +2903,7 @@ grandiscment has contributed, but which will
 low pure from the rock of self-defence-—a  
 war, without which, or the rights it is to b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812060501:0629/pct:29.106163278476927,28.9799149104581,21.95869635366247,27.030770752943504/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812060501:0629/pct:29.116919436377326,28.9799149104581,21.953318274712274,27.034068797203258/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2991,7 +2991,7 @@ cessive coalitions she subsidised, finally, in
 1806, was left alone to maintain the unequal  
 conflict against all her former auxiliaries 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812060501:0629/pct:29.170700225879315,2.0975561492035224,45.06292352371733,95.06282774314832/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812060501:0629/pct:29.170700225879315,2.10415223772303,45.073679681617726,95.06282774314832/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3029,7 +3029,7 @@ ly raised against this infamous inroad on the
 comity and usuages of sovereign and neutral  
 states, ‘Not a town of any conscquence o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812060501:0629/pct:52.43626976444014,12.060947857920253,21.668280090351725,16.63203720193925/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812060501:0629/pct:52.44164784339034,12.060947857920253,21.673658169301927,16.63863329045876/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3075,7 +3075,7 @@ despairing of pacific redress, stayed the no­
 ble ardor ol the country=—that country which  
 is wlways full of noble ardor=—whose firs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812060501:0629/pct:52.53307518554372,39.96240229543881,21.74895127460471,21.697833184921343/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812060501:0629/pct:52.54383134344412,39.96570033969856,21.74895127460471,21.704429273440848/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3114,7 +3114,7 @@ sous ; and not less than SEVEN THOU­
 SAND American citizens have been dragged  
 from their occupations, their country, thei
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812060501:0629/pct:52.742820264601484,63.83694469179776,21.942562116811875,16.186801226872465/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812060501:0629/pct:52.748198343551685,63.83694469179776,21.947940195762072,16.186801226872465/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3130,7 +3130,7 @@ from their occupations, their country, thei
 families—scourged like malefactors——chained  
 like galley slaves to the sides of British ship
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812060501:0629/pct:53.000968054211036,79.97427525477391,21.63601161665053,1.454437518551499/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812060501:0629/pct:53.000968054211036,79.97757329903368,21.64676777455093,1.451139474291745/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3196,7 +3196,7 @@ feliow-citizens, is gliding out of view, while
 we linger on the shore, vainly imploring the  
 monsters of the deep to spare us
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812060501:0629/pct:53.000968054211036,2.1767092114376174,45.11132623426912,94.7264272286534/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812060501:0629/pct:53.000968054211036,2.1800072556973715,45.12208239216952,94.72312918439366/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3220,7 +3220,7 @@ atoused endeavors, We call to mind,fellow­
 citizens, the former struggle with Great-  
 Britain 3 when without arms or ammunition
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812060501:0629/pct:75.45982575024202,25.84347481943208,22.087770248467248,7.005046007717423/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812060501:0629/pct:75.45982575024202,25.850070907951586,22.109282564268042,7.0116420962369315/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3315,7 +3315,7 @@ Congress, followed by co-operative measures
 of preparation for the *“ armor and attitude  
 demanded by the crisis,” (irresistably impel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812060501:0629/pct:75.41142303969022,40.5857326605323,22.765408196192322,54.89264865934501/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812060501:0629/pct:75.41142303969022,40.58903070479206,22.765408196192322,54.895946703604764/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3369,7 +3369,7 @@ A. Hargesheimer, Rober:i M&#x27;Mullen, Jucob
 Holegate, T&#x27;. D. Anderson, Jacob Richards,  
 and G. G. Leiper
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812060501:0630/pct:4.966677245318946,3.711683478601508,21.866074262139005,25.550876505729114/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812060501:0630/pct:4.971966571458796,3.7182123853360753,21.866074262139005,25.5541409590964/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3736,7 +3736,7 @@ all example, all calculation, all hope,
 diffinguithed the deltinies of the Am­  
 erican federation : and with certainl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1812061601:0305/pct:43.96887159533074,13.064275037369208,34.24124513618677,81.0762331838565/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1812061601:0305/pct:43.974059662775616,13.07091845208437,34.24124513618677,81.07291147649892/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3781,7 +3781,7 @@ raliinng. Bie foblidineds. sy
 %}f’% of her predominant  
 ag my. At this conjunéure, foiled
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1812061601:0305/pct:61.27626459143969,66.32785251619332,16.93385214007782,24.86297957149975/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1812061601:0305/pct:61.27626459143969,66.33449593090849,16.939040207522698,24.859657864142168/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3810,7 +3810,7 @@ this infamous intoad oa the comity
 and uiages of sovereign and neutval  
 Bates. Not a town cf any ccni
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1812061601:0305/pct:79.31517509727627,18.734429496761337,16.171206225680933,10.054808171400099/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1812061601:0305/pct:79.31517509727627,18.73775120411892,16.17639429312581,10.058129878757681/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3869,7 +3869,7 @@ flayed the noble ardor of the coun
 try—thadt country which is always  
 fall of noble ardor~—wholc firlt buri
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1812061601:0305/pct:79.15953307392996,39.1230692575984,16.420233463035018,30.692575984055804/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1812061601:0305/pct:79.16990920881972,39.1230692575984,16.420233463035018,30.692575984055804/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3913,7 +3913,7 @@ by foree of Britifl lersice and Britilh law
 et compelied 1o become denizens of that  
 e “whih probibit &lt;xpatiatio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1812061601:0305/pct:79.15953307392996,71.77877428998505,16.43579766536965,18.35575485799701/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1812061601:0305/pct:79.16990920881972,71.77877428998505,16.425421530479895,18.362398272712174/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3971,7 +3971,7 @@ exifteace fellow citizens, is gliding out of
 view, while we linger on the shore, vainly  
 implering the monsters of the deep to spar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1812061601:0308/pct:6.541911537271884,2.6848986924842797,17.058459635013918,25.44166084439565/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1812061601:0308/pct:6.55222187854418,2.6882257044947933,17.048149293741623,25.448314868416674/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3992,7 +3992,7 @@ of confidence in the people of the United
 States,ia the rightecufncfs of their cause, in  
 the alacrity and encrgy of their arouse
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1812061601:0308/pct:6.959480358799876,30.881325481584987,16.39344262295082,4.142129953089131/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1812061601:0308/pct:6.964635529436024,30.884652493595503,16.38828745231467,4.148783977110157/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4069,7 +4069,7 @@ dice and party passions, on the altar of
 Buicn,at the thrine of our country; bas from  
 a viruleat faction, thefungus of party opp
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1812061601:0308/pct:6.541911537271884,43.47739295338856,17.058459635013918,36.40083840702665/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1812061601:0308/pct:6.55222187854418,43.47739295338856,17.048149293741623,36.40416541903716/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4124,7 +4124,7 @@ William Weflt, Frederick Hoekly, A Har:
 gafheiner, Robert McMullan, Jacob Rich.  
 ards,” Jacob Holgate, T 1) Anderson, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1812061601:0308/pct:24.280853696257346,1.2376484679109692,17.182183730281473,23.156003593172972/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1812061601:0308/pct:24.280853696257346,1.2409754799214825,17.197649242189918,23.152676581162456/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4142,7 +4142,7 @@ dragged from their occupations, their country, and
 their families?scourged like malefactors?chain­  
 ed like galley slaves to the masts of British ship
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82016317:00415661642:1844022801:0426/pct:22.47004608294931,83.43655290552115,18.4147465437788,2.714455132428515/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82016317:00415661642:1844022801:0426/pct:22.482334869431643,83.4409452277419,18.4147465437788,2.714455132428515/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4162,7 +4162,7 @@ reclaim wherever found the fugitives from its im­
 pressments, its taxation, and its injurious hard­  
 ship* of enlistments?adorning with all th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82016317:00415661642:1844022801:0426/pct:22.56221198156682,87.57412043747529,18.341013824884794,3.939913032020029/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82016317:00415661642:1844022801:0426/pct:22.56221198156682,87.5829050819168,18.365591397849464,3.9443053542407873/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

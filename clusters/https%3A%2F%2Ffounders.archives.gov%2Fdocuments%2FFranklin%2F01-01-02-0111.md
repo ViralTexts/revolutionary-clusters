@@ -357,7 +357,7 @@ In witness whereof the parties to these presents have here.
 untointerchangeably set their hands and seals, the day and year  
 first abeve written
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530492:1856013001:0195/pct:200.98006644518273,139.34660784547515,47.12624584717608,12.602837725050673/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530492:1856013001:0195/pct:66.99335548172758,46.44886928182505,15.70874861572536,4.200945908350224/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -401,7 +401,7 @@ and quietly have, hold, use, occupy, possess and erdoy
 the said premises and every part and parcel thereof,  
 with the appurtenances, without any let, suft, trouble
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_geo_ver01:data:sn83030214:0017503805A:1885020901:0346/pct:103.54575163398692,70.5014409221902,47.76143790849673,10.789625360230547/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_geo_ver01:data:sn83030214:0017503805A:1885020901:0346/pct:34.51525054466231,23.500480307396735,15.920479302832245,3.596541786743516/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -443,7 +443,7 @@ and enjoy the said premises and every
 parcel thereof with the appurten­  
 ances, without any let, suit, trouble
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685324:1890073101:0667/pct:8.29070758738278,85.72702943800178,14.066496163682864,3.9548022598870056/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685324:1890073101:0667/pct:8.288940975921586,85.71428571428571,14.068825910931174,3.9579307269213615/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -461,7 +461,7 @@ possess and enjoy the eaid premises and
 every part andjparcel thereof with the ap­  
 purtenances, without any let, suit, troubl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_falcon_ver01:data:sn99068076:00415623367:1890082201:0893/pct:7.21755528887365,63.7881483508964,10.183439053660209,1.9707130149172027/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_falcon_ver01:data:sn99068076:00415623367:1890082201:0893/pct:7.2218412480713186,63.79156972765841,10.192010972055545,1.9775557684412208/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

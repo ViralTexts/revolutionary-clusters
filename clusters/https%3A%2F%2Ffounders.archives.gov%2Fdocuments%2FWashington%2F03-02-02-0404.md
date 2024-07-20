@@ -73,7 +73,7 @@ having got possession of Montreal. I con­
 gratulate you thereon. He has trouble  
 with his troops as well as I have.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_fairbanks_ver02:data:sn86086342:00202196895:1840061001:0240/pct:11.130742049469964,239.40843845150064,70.58303886925795,13.571117877337972/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_fairbanks_ver02:data:sn86086342:00202196895:1840061001:0240/pct:2.783300198807157,59.85210961287516,17.649657609896177,3.392779469334493/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -106,7 +106,7 @@ time Those that have enlisted must have a turlough, which
 1 bave been obliged to grant to titty at a time, from each  
 regimeut.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82003410:00415661071:1856071701:0779/pct:45.981786227831925,40.19804462271246,15.242051445917879,3.835547756329907/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82003410:00415661071:1856071701:0779/pct:45.981786227831925,40.19804462271246,15.24737711029451,3.843904069524526/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -178,7 +178,7 @@ stead of pressing to be engaged in the cause of their
 country, I find we are likely to be deserted at a most  
 critleal tin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044851:1885010401:0460/pct:283.6322869955157,302.09463532248344,50.82212257100149,7.956600361663653/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044851:1885010401:0460/pct:70.9478407178912,75.52365883062086,12.712656571321743,1.9891500904159132/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -219,7 +219,7 @@ al disrespect for them. On the contrary. 1 see in
 the printed list persons for whom i cherish senti­  
 ments of sincere f.icndship, and others, for whos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184017:1828020501:0364/pct:17.179111761835042,18.36511599659905,15.796323409793395,73.30256285679582/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184017:1828020501:0364/pct:17.176317501626546,18.36288559630799,15.799175883756234,73.29770868755567/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -237,7 +237,7 @@ be estimated at 8000, the residue of this Society at
 400; but if the former number bo h &gt;* ve&lt;h tho rea­  
 soning &quot; &#x27;!! be ‘he ‘•am-.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184017:1828020501:0364/pct:17.292988449650235,92.11708976071905,15.275744265495364,1.9069597959431557/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184017:1828020501:0364/pct:17.29017566688354,92.10590235608453,15.278681414009975,1.910776455347745/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -276,7 +276,7 @@ coil Jdeiation.
 (Signed)  
 THOM AS JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184017:1828020501:0364/pct:32.99170326988775,3.4616786104700594,15.714982918496828,11.453905016397425/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184017:1828020501:0364/pct:32.98633702016916,3.4612581977167842,15.717848622858382,11.456562221682455/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

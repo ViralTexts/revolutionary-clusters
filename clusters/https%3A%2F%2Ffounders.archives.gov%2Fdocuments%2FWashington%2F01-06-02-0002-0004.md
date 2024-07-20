@@ -999,7 +999,7 @@ Propeity belonging to the Inhabitants. Tney 2!fo burnt the Goal
 Mill, and several other Houses, and left the Towa little better  
 than a Heap of Rubbith. They left_all our Men, wounded, e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1781070201:0510/pct:5.939368942049907,17.03222312483076,26.72716023922458,4.589764419171406/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1781070201:0510/pct:5.946243211658762,17.036736167524143,26.72716023922458,4.585251376478022/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1051,7 +1051,7 @@ Sound, found your trumpets, beat, beat, your drums:
 From port to port let cannons roar,  
 He&#x27;s welcome to New-England &#x27;s,fhore
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789111401:0002/pct:72.82022152797501,31.25358851674641,23.317239420619142,12.861244019138756/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789111401:0002/pct:72.82732178358421,31.263157894736842,23.33854018744675,12.861244019138756/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1110,7 +1110,7 @@ aflociation of lingers ; and upwards of forty
 boats attended with anxious fpecftators, which  
 formed a molt beautiful appearance
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791052101:0002/pct:11.107711138310894,7.597765363128492,57.43574051407589,83.83612662942272/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791052101:0002/pct:11.130660954712363,7.611731843575419,57.4280905752754,83.84078212290503/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1127,7 +1127,7 @@ where he received the honors of the proceflion,
 to whom he politely and gracefully bowed as  
 they pafled in review before him. The orde
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791052101:0002/pct:40.82007343941248,33.64990689013035,27.050183598531213,2.197392923649907/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791052101:0002/pct:40.843023255813954,33.64990689013035,27.03488372093023,2.2206703910614527/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1143,7 +1143,7 @@ they pafled in review before him. The orde
 drank, followed by a discharge from the field  
 pieces of the Charleston battalion of artillery 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791052101:0002/pct:40.54467564259486,48.08193668528864,26.988984088127296,1.601489757914339/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791052101:0002/pct:40.55232558139535,48.08193668528864,26.996634026927783,1.606145251396648/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1183,7 +1183,7 @@ very pleafingappearance. In ftiort every circum­
 stance of the evening&#x27;s entertainment was truly  
 pi(Surefque of the moftlplendid elegance.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791052101:0002/pct:39.99388004895961,64.17132216014897,27.11138310893513,18.156424581005588/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791052101:0002/pct:40.009179926560584,64.1806331471136,27.10373317013464,18.147113594040967/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1203,7 +1203,7 @@ inscribed in different parrs of the hall •
 &quot; With grateful praifrs of the hero&#x27;s fame,  
 &quot; We&#x27;ll teach oir infants&#x27; tongues to lisp his name.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791052101:0002/pct:68.88004895960832,51.06145251396648,26.1015911872705,4.543761638733706/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791052101:0002/pct:68.88769889840881,51.0707635009311,26.093941248470014,4.553072625698324/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1222,7 +1222,7 @@ lent band of nuific played in the orchestra, and
 were accompanied in the vocal itrain by the choir  
 of St. Philip&#x27;s church
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791052101:0002/pct:68.66585067319461,59.14338919925512,26.040391676866584,3.7430167597765363/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791052101:0002/pct:68.66585067319461,59.14338919925512,26.055691554467565,3.7616387337057726/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1240,7 +1240,7 @@ this society, we, the Grand-Lodge of the State of South-Caro­
 lina Ancient York Masons, beg leave to offer our sincere congra­  
 tulations on your arrival in this State.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791060101:0001/pct:6.740232627497763,54.059590316573555,26.185505517447062,2.4208566108007448/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791060101:0001/pct:6.76260065612884,54.064245810055866,26.20787354607814,2.4394785847299816/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1266,7 +1266,7 @@ porters,
   
 The Vice-President and mk&#x27;tribers of the fenat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791060101:0001/pct:34.267819862809425,28.65921787709497,25.917089173874142,6.834264432029795/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791060101:0001/pct:34.27527587235312,28.65921787709497,25.924545183417834,6.843575418994414/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1284,7 +1284,7 @@ was illuminated with lanthorns ; aniidft thein
 the letters V. W. (Vivac Waihington) were  
 strikingly conspicuous.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791060101:0001/pct:34.267819862809425,65.53072625698324,26.036385326573217,3.0726256983240225/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791060101:0001/pct:34.27527587235312,65.54469273743017,26.058753355204296,3.058659217877095/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1313,7 +1313,7 @@ prefled into the vellels, evinced the general jov
 which had been inspired by the visit of this molt  
 beloved of men, and the ardent desire of all rank
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791060101:0001/pct:61.31822248732478,33.1657355679702,26.51356993736952,11.266294227188082/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791060101:0001/pct:61.32567849686848,33.1657355679702,26.528481956456904,11.28491620111732/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1331,7 +1331,7 @@ the harbor he was fainted from the wharves and
 by the shipping, and particularly by the ihipTlio­  
 tnas Wilson, Capt. Whire, which was beautifull
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791060101:0001/pct:61.4971667163734,45.232774674115454,26.424097822845212,2.998137802607076/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791060101:0001/pct:61.50462272591709,45.242085661080075,26.45392186101998,3.0121042830540037/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1489,7 +1489,7 @@ flipper room was opened, ai.d the Indies partook
 of a repalt, after which dances continued till 5  
 o&#x27;clock. The company retired with the happ
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791060401:0001/pct:7.681117253418679,41.15797262301147,25.894675589176607,13.522012578616351/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791060401:0001/pct:7.695664823974396,41.16259711431743,25.88012801862089,13.545135035146133/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1522,7 +1522,7 @@ boih above and below the town. But the prin­
 cipal advantage which resulted from its lunation  
 and ftruftnre was the opportunity which -it af
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791060401:0001/pct:7.710212394530114,60.72881982981872,26.127436718068083,13.503514613392527/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791060401:0001/pct:7.732033750363689,60.73806881243063,26.120162932790222,13.503514613392527/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1539,7 +1539,7 @@ uniformed. At the skirt of the town he was falutedby about forty
 boys in uniform, who had chosen officers, and arranged themfclves  
 for that purpose. At the Court-house he was saluted by the a,tl 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791062201:0002/pct:66.67673716012085,78.83469843633657,26.61631419939577,2.0290394638868205/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791062201:0002/pct:66.69184290030212,78.8440059568131,26.61631419939577,2.024385703648548/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1631,7 +1631,7 @@ gentlemen sung tlie popular song, &quot;lie
 comes, the hero comes !&#x27; As tliey drew  
 near the harlmr every vessel and all th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_irmookrastrut_ver01:data:sn84026900:00295862634:1855010301:0611/pct:44.83111566018424,46.5852853843616,13.189062728469075,5.586715055537226/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_irmookrastrut_ver01:data:sn84026900:00295862634:1855010301:0611/pct:44.83111566018424,46.588951207888854,13.193936735390164,5.590380879064482/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1652,7 +1652,7 @@ hundred and fifty or two hundred miles
 of heavy sand to pass before 1 fairly get  
 into the upper ami firmer roads.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_irmookrastrut_ver01:data:sn84026900:00295862634:1855010301:0611/pct:57.947068284836966,25.74507863191466,15.499342009065654,4.025074232926427/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_irmookrastrut_ver01:data:sn84026900:00295862634:1855010301:0611/pct:57.947068284836966,25.748744455441916,15.499342009065654,4.028740056453683/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1749,7 +1749,7 @@ black satin breeches, white silk stock
   
 ings, and round hats, with black ribbons,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_norgay_ver01:data:sn84028193:00296028988:1872020301:0124/pct:74.16909620991254,78.8498789346247,12.900874635568513,3.1476997578692494/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_norgay_ver01:data:sn84028193:00296028988:1872020301:0124/pct:55.63493220586091,59.14043583535109,9.680711473975798,2.360774818401937/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1793,7 +1793,7 @@ State, Wardens of the eity and Cincin­
 nati. Dined at the Governor’s and lodged  
 at the Exchange. ..
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn97064666:00517016081:1875061001:0088/pct:3.123756466374851,13.544835578733883,25.169120573020294,83.60133275387513/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn97064666:00517016081:1875061001:0088/pct:3.1231350706186594,13.542873696407879,25.169086930574895,83.59284472769409/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1860,7 +1860,7 @@ two at each place, goes over the most miserable
 pine barren I ever saw, being quite a  
 white sand, and very hilly.&quot; &quot;We copy th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295861927:1883022201:0149/pct:43.55643044619423,88.93756845564074,14.973753280839896,5.4399415845198975/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295861927:1883022201:0149/pct:43.56517935258093,88.94365340148472,14.969378827646544,5.442984057441889/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1924,7 +1924,7 @@ part of the 40,000 acres which was secured to j
 them by treaty, and which is bounded by ,  
 this road.&quot; &#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295861927:1883022201:0149/pct:43.59580052493438,10.332238043081416,30.616797900262466,87.0938298649142/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295861927:1883022201:0149/pct:43.60017497812773,10.335280516003408,30.62554680664917,87.09991481075818/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1952,7 +1952,7 @@ voices. As the procession of boats ap­
 proached the city there was a grand  
 demonstration on the bluff and among tb
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00414181922:1886021301:0104/pct:4.602660913340525,22.137085539147396,12.603380079108234,5.809417665087768/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00414181922:1886021301:0104/pct:4.6146470094690155,22.137085539147396,12.597387031043988,5.814061484164577/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1977,7 +1977,7 @@ and his suite retired, about 11 o’clock. At
 2 o’olock the supper room was opened.  
 After the repast dancing was continue
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00414181922:1886021301:0104/pct:4.98022294138799,37.26664809139036,12.046026609133405,4.876010030649206/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00414181922:1886021301:0104/pct:4.98022294138799,37.275935729543974,12.064005753326141,4.871366211572397/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2020,7 +2020,7 @@ took of a public dinner given by the citi­
 zens at tbe coffee room. At Turysburgh  
 1 parted with Gen. Moultrie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00414181922:1886021301:0104/pct:4.836389787846098,61.27054889941488,12.028047464940668,12.928392309835608/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00414181922:1886021301:0104/pct:4.842382835910344,61.27519271849169,12.034040513004914,12.9237484907588/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2040,7 +2040,7 @@ went to a daucing asscmblv at which
 there lwas about 100 well diessed and  
 handsome ladies
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00414181922:1886021301:0104/pct:4.890327220424308,74.19894120925049,11.974110032362459,2.6191139593201447/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00414181922:1886021301:0104/pct:4.896320268488553,74.19894120925049,11.980103080426705,2.633045416550571/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2096,7 +2096,7 @@ At that time there were no houses beyond
 South Broad street and only five on that  
 I street, all being on the north side. Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00414181922:1886021301:0104/pct:4.494786048184107,5.391473948174979,25.656238763034878,90.6798551128448/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00414181922:1886021301:0104/pct:4.500779096248352,5.396117767251788,25.656238763034878,90.675211293768/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2133,7 +2133,7 @@ your drums
 From post to post let cannons roar, etc.  
 The lines in this verse which call fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quiring_ver01:data:sn89064939:00206537966:1886051201:0155/pct:49.69889595182335,34.81540747514001,14.586818333890934,15.41890501771631/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quiring_ver01:data:sn89064939:00206537966:1886051201:0155/pct:49.71004795360767,34.823027393606885,14.592394334783094,15.426524936183183/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2152,7 +2152,7 @@ drums;
 From post to post let eannons roar,” etc.  
 The lines in this verse winch call for th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00414181922:1886051801:0857/pct:57.956204379562045,45.163554682016006,12.299270072992702,1.8812298188965324/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00414181922:1886051801:0857/pct:57.962287104622874,45.16823435818242,12.299270072992702,1.876550142730123/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2234,7 +2234,7 @@ ished; the town contains about 300 in­
 habitants, among them a great number of  
 children. The weather this day uncom
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn91068247:00296023036:1888062201:0321/pct:8.24742268041237,12.834457254731346,16.88144329896907,16.521644550793997/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn91068247:00296023036:1888062201:0321/pct:6.188225182638591,9.62584294104851,12.677266867211001,12.399390907113334/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2254,7 +2254,7 @@ to decay. There is a good tavern kept
 by Mason, where, however, I paid the  
 dearest bill on the road. On buuda
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn91068247:00296023036:1888062201:0321/pct:8.27605956471936,50.88100935392647,16.895761741122566,3.959103763323907/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn91068247:00296023036:1888062201:0321/pct:6.216874373298954,38.16619534479008,12.677266867211001,2.96932782249293/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2284,7 +2284,7 @@ evinced the general joy which had been
 iusp.ied by the visit of this  
 most beloved of men am
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_bobbsey_ver02:data:sn86063034:00414181995:1889042901:0950/pct:58.9282535161118,85.92112520683949,16.00498486736692,9.018201875344733/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_bobbsey_ver02:data:sn86063034:00414181995:1889042901:0950/pct:45.67446994434991,66.59304645198063,12.408591270753806,6.985608435451696/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2326,7 +2326,7 @@ of a public dinner given by the Citizens at
 tie On fee Room. At Purisburga I parted  
 w.th Genera M rnltr -e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_bobbsey_ver02:data:sn86063034:00414181995:1889042901:0950/pct:75.71657468399502,30.722559293987864,15.987181769627915,15.719801434087149/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_bobbsey_ver02:data:sn86063034:00414181995:1889042901:0950/pct:58.690153152738816,23.813764605300655,12.380996182679484,12.18652037617555/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2406,7 +2406,7 @@ to accommodate rae, and who was paid in tbe
 same way as any other letter of lodgings  
 would have been paid
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_danastjames_ver01:data:sn93067846:00294551360:1889050101:0231/pct:25.201072386058982,43.01006550567183,12.365951742627345,28.61479469563828/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_danastjames_ver01:data:sn93067846:00294551360:1889050101:0231/pct:25.204795948763778,43.01539117004847,12.365951742627345,28.61479469563828/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2442,7 +2442,7 @@ I tied that (he defence was noble and honorable,
 i altin/ the measure was nndertuki-n upon  
 j wrong principles and impolitic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_danastjames_ver01:data:sn93067846:00294551360:1889050101:0231/pct:25.245755138516532,71.58491771848539,12.388293118856122,9.753954305799649/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_danastjames_ver01:data:sn93067846:00294551360:1889050101:0231/pct:25.253202263926124,71.59024338286201,12.388293118856122,9.751291473611333/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2467,7 +2467,7 @@ al the Kxchan^r, at iv &quot;ch lhere wero at least i
 which exceeded anything of the kind I had  
 ever seen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_danastjames_ver01:data:sn93067846:00294551360:1889050101:0231/pct:25.25692582663092,81.4027799968046,12.332439678284182,4.7851094424029395/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_danastjames_ver01:data:sn93067846:00294551360:1889050101:0231/pct:25.25692582663092,81.40810566118124,12.34361036639857,4.7851094424029395/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2520,7 +2520,7 @@ cipal exports from this place is rice, indigo
 have been exported, and of the first from 80  
 to 120.000 barrels
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_danastjames_ver01:data:sn93067846:00294551360:1889050101:0231/pct:25.25692582663092,2.9078127496405175,24.06166219839142,96.34925706981946/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_danastjames_ver01:data:sn93067846:00294551360:1889050101:0231/pct:25.260649389335715,2.910475581828833,24.069109323801012,96.35458273419609/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2548,7 +2548,7 @@ ed to Col. V,&quot;. Washington&#x27;s at Sandy Hill,
 with a select party of particular friends ; dis?  
 tant from Charleston 2S mues
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_danastjames_ver01:data:sn93067846:00294551360:1889050101:0231/pct:36.94146559428061,6.846141556159131,12.388293118856122,5.967406934015019/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_danastjames_ver01:data:sn93067846:00294551360:1889050101:0231/pct:36.94146559428061,6.846141556159131,12.395740244265713,5.975395430579965/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2571,7 +2571,7 @@ boats.) and breakfasted at Judge Bee&#x27;s Iii
 miles from Sandy flill; lodged at Mr.  
 O&#x27;Brian Smith&#x27;s, 18 or 20 further on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_danastjames_ver01:data:sn93067846:00294551360:1889050101:0231/pct:37.34361036639857,12.781594503914363,11.952636282394996,3.9782712893433456/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_danastjames_ver01:data:sn93067846:00294551360:1889050101:0231/pct:37.34361036639857,12.784257336102678,11.956359845099792,3.9782712893433456/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2634,7 +2634,7 @@ lic dinner given by the citizens at the Coffee
 Room. At Purisburg I parted with Gen&#x27;l  
 Moultree
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_danastjames_ver01:data:sn93067846:00294551360:1889050101:0231/pct:37.34361036639857,16.640038344783513,12.064343163538874,21.073653938328807/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_danastjames_ver01:data:sn93067846:00294551360:1889050101:0231/pct:37.35105749180816,16.640038344783513,12.060619600834078,21.07631677051712/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2760,7 +2760,7 @@ miles from Augusta, and lodged at
 one Odern&#x27;e, about twenty miles  
 farther.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_danastjames_ver01:data:sn93067846:00294551372:1891022501:0180/pct:61.78094799815923,47.967280163599185,12.160607455131155,9.39877300613497/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_danastjames_ver01:data:sn93067846:00294551372:1891022501:0180/pct:61.784782942169045,47.97273346966598,12.156772511121337,9.396046353101568/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2799,7 +2799,7 @@ of the river OD the North side by a
 number of others, who escorted me to  
 Colombia.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_danastjames_ver01:data:sn93067846:00294551372:1891022501:0180/pct:61.78094799815923,57.38241308793456,12.13759779107225,13.668711656441717/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_danastjames_ver01:data:sn93067846:00294551372:1891022501:0180/pct:61.78094799815923,57.387866394001364,12.15293756711152,13.67143830947512/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2871,7 +2871,7 @@ ferry at this place, at which there
 tobacco warehouse.&quot;  
 ? - ? ? ? mm 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_danastjames_ver01:data:sn93067846:00294551372:1891022501:0180/pct:61.516336861481825,9.423312883435583,23.044178554993096,89.34151329243353/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_danastjames_ver01:data:sn93067846:00294551372:1891022501:0180/pct:61.52017180549164,9.428766189502387,23.044178554993096,89.33878663940014/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2971,7 +2971,7 @@ sixty hbd8 of tobacco oome op to
 ferry at this place, at which there  
 tobacco warehouse.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_danastjames_ver01:data:sn93067846:00294551372:1891022501:0181/pct:61.24219292158224,9.746620254189265,22.935461485079806,88.68291103375698/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_danastjames_ver01:data:sn93067846:00294551372:1891022501:0181/pct:61.24604826894903,9.752017053887045,22.935461485079806,88.6802126339081/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3047,7 +3047,7 @@ banks of the river on the North side
 by a number of others, who escorted  
 me to Columbia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_floydcouncil_ver01:data:sn93067777:00237287010:1891030501:0444/pct:1.8848029524186107,65.82617530248453,12.350072492421248,14.011268125981342/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_floydcouncil_ver01:data:sn93067777:00237287010:1891030501:0444/pct:1.8848029524186107,65.82617530248453,12.358859452572382,14.014346848927065/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3069,7 +3069,7 @@ amount of more than one hundred and
 fifty, of which fifty or sixty were of the  
 lat ter
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_floydcouncil_ver01:data:sn93067777:00237287010:1891030501:0444/pct:1.9902464742322394,79.97598596102337,12.033741926980362,4.479541886025676/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_floydcouncil_ver01:data:sn93067777:00237287010:1891030501:0444/pct:1.999033434383375,79.97598596102337,12.038135407055929,4.479541886025676/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3136,7 +3136,7 @@ come up to the ferry at this place, at
 which there is a tobacco warehouse.&quot;  
 To the Sunday-School WorLers of the State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_floydcouncil_ver01:data:sn93067777:00237287010:1891030501:0444/pct:1.0676156583629892,4.304054678119516,25.16146039277712,92.49099473538377/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_floydcouncil_ver01:data:sn93067777:00237287010:1891030501:0444/pct:1.0720091384385573,4.3102121240109605,25.16146039277712,92.48483728949232/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3175,7 +3175,7 @@ banks of the river on the North side
 by a number of others, who escorted  
 mec to Columbia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_floydcouncil_ver01:data:sn93067777:00237287022:1891030502:0037/pct:1.7873816193143923,66.57924316223304,12.27157529678538,13.95653802922443/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_floydcouncil_ver01:data:sn93067777:00237287022:1891030502:0037/pct:1.7918278422480103,66.58236543024853,12.27157529678538,13.95653802922443/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3242,7 +3242,7 @@ come up to the ferry at this place, at
 which there is a tobacco warehouse.&quot;  
 To the Sunday-School WorLers of the State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_floydcouncil_ver01:data:sn93067777:00237287022:1891030502:0037/pct:1.7740429505135387,4.73960284750843,24.329731892757103,92.8812289246909/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_floydcouncil_ver01:data:sn93067777:00237287022:1891030502:0037/pct:1.7829353963807746,4.73960284750843,24.329731892757103,92.8812289246909/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3383,7 +3383,7 @@ be much on the increase there are about
 three hundred souls in it, and trades­  
 men of different kinds.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn91068247:00296023048:1891031301:0259/pct:25.11261261261261,59.0508546554836,16.962274774774773,23.47382949357681/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn91068247:00296023048:1891031301:0259/pct:18.842416561047738,44.293449410765476,12.730601323757217,17.60271791060622/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3515,7 +3515,7 @@ kind of artisans. The number of
 souls does not exceed 200.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_frankenbatch_ver01:data:sn92073232:00295879713:1891060401:0510/pct:51.076833527357394,39.327232253277266,14.406286379511059,14.964135542913677/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_frankenbatch_ver01:data:sn92073232:00295879713:1891060401:0510/pct:38.32605531295488,29.49542418995795,10.800582241630277,11.229285184269107/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4117,7 +4117,7 @@ pressed into the vessels evinced the gen­
 eral Joy which had been inspired by the  
 visit of this most beloved of men and th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_endeavour_ver01:data:sn86063034:00414182173:1896022301:0506/pct:6.183680936699598,61.40857266560831,16.22758873033297,7.92322124404676/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_endeavour_ver01:data:sn86063034:00414182173:1896022301:0506/pct:4.801739212628196,47.591529341585264,12.571482584243112,6.147938259637611/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4138,7 +4138,7 @@ dred lights, arranged in a beautiful sym­
 metry, with fifteen lights contained in  
 the form of a \V in front.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_endeavour_ver01:data:sn86063034:00414182173:1896022301:0506/pct:6.073911452616173,78.42401500938087,16.319063300402487,3.478135373069707/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_endeavour_ver01:data:sn86063034:00414182173:1896022301:0506/pct:4.711942908455031,60.78592200432481,12.656552767144005,2.695548430392961/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4174,7 +4174,7 @@ and the ladies partook of a repast, after
 which dancing continued until three  
 o’clock.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_endeavour_ver01:data:sn86063034:00414182173:1896022301:0506/pct:6.0373216245883645,81.97431086736903,25.79582875960483,20.883244335401933/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_endeavour_ver01:data:sn86063034:00414182173:1896022301:0506/pct:4.688312302093672,63.53366639325927,19.982040739165367,16.18820371336962/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4192,7 +4192,7 @@ his sense of the attention shown him by
 the corporation and every denomination  
 of people during his stay in Savannah
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_endeavour_ver01:data:sn86063034:00414182173:1896022301:0506/pct:6.311745334796926,111.74772694472507,16.3739480424442,1.977197286765767/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_endeavour_ver01:data:sn86063034:00414182173:1896022301:0506/pct:4.891535516801361,86.60800835135336,12.703813979866723,1.5323242114681976/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4235,7 +4235,7 @@ a public dinner given by the Citizens at
 the Coffee Room. At Purisburgh I parted  
 with Gen. Mouitree.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_endeavour_ver01:data:sn86063034:00414182173:1896022301:0506/pct:23.216245883644348,8.745850772117189,16.428832784485913,14.619714244479724/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_endeavour_ver01:data:sn86063034:00414182173:1896022301:0506/pct:17.99706980481119,6.781746327641488,12.727444586228083,11.326523003504585/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4257,7 +4257,7 @@ jackets, black satin breeches, white
 silk stockings, and round bats with  
 black ribbons, inscribed, “Long liv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_duval_ver01:data:sn84038206:0039334927A:1898060401:0297/pct:83.36423394572729,64.76945244956772,10.820832631046688,4.598943323727186/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_duval_ver01:data:sn84038206:0039334927A:1898060401:0297/pct:83.35018537243006,64.7616760715572,10.823222109875294,4.601392724216593/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4281,7 +4281,7 @@ body of the people, not partaking of the
 dinner, were enabled to see Its progress  
 and feast their eyes on the &quot;Father o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_fletcher_ver01:data:sn86063034:00414182252:1898121801:1183/pct:2.863518036444775,44.67020023557126,12.644105615470435,4.681978798586573/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_fletcher_ver01:data:sn86063034:00414182252:1898121801:1183/pct:2.8697161274327505,44.68001570475069,12.650303706458411,4.681978798586573/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4306,7 +4306,7 @@ sion of boats met them, with a brass band.
 As the President passed the band played  
 “ib Comes, the Hero Comes,” and th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_fletcher_ver01:data:sn86063034:00414182252:1898121801:1183/pct:2.9564894012644105,68.30094228504123,12.662699888434362,5.138398115429918/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_fletcher_ver01:data:sn86063034:00414182252:1898121801:1183/pct:2.9564894012644105,68.30585001963094,12.68129416139829,5.148213584609344/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

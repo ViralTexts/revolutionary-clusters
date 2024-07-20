@@ -43,7 +43,7 @@ vey of Pennsylvania before the said 22d day of
 August last past, excepting and excluding there­  
 from, nevertheless, every person who refused o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_edgewater_ver02:data:sn84031490:no_reel:1863122201:0003/pct:44.5046439628483,36.980467028932296,10.294117647058824,5.4633573211925395/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_edgewater_ver02:data:sn84031490:no_reel:1863122201:0003/pct:44.51915634674923,36.980467028932296,10.284442724458204,5.4670289322954915/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -62,7 +62,7 @@ or other offence against the United States, hereby
 remitting all penalties Incurred, or ennpoied to be  
 Incurred, for or on account of the promises 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_edgewater_ver02:data:sn84031490:no_reel:1863122201:0003/pct:44.48529411764706,42.82567190483184,10.0812693498452,1.7036275517697166/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_edgewater_ver02:data:sn84031490:no_reel:1863122201:0003/pct:44.494969040247675,42.829343515934795,10.0812693498452,1.6999559406667646/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -93,7 +93,7 @@ by remitting all penalties incurred, or sup­
 posed to be incurred, for or on account of the  
 premises
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009571:00279523908:1863122501:0212/pct:13.482193329564726,162.48629249327087,39.99434708875071,22.7096002392583/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009571:00279523908:1863122501:0212/pct:4.493429419245443,54.1566985645933,13.32956525834864,7.5691121743753325/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -119,7 +119,7 @@ day of August last past, excepting and ex­
 cluding therefrom, nevertheless, every per­  
 son who refused or neglected to give an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84027060:00415668909:1863122601:0910/pct:64.20802175390891,20.89588377723971,14.157036029911625,5.49636803874092/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84027060:00415668909:1863122601:0910/pct:64.21368683435304,20.903954802259886,14.174031271244052,5.49636803874092/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -139,7 +139,7 @@ ted States, hereby remitting all penalties
 incurred, or supposed to be incurred, for or  
 on account of the premises.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84027060:00415668909:1863122601:0910/pct:64.24201223657376,27.227602905569007,14.140040788579197,2.7966101694915255/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84027060:00415668909:1863122601:0910/pct:64.25334239746205,27.227602905569007,14.140040788579197,2.804681194511703/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -165,7 +165,7 @@ from, nevertheless, every person who re­
 fused or neglected to give and subscribe  
 the said assurances in the manner afore
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774741:1867092501:0473/pct:125.59943582510579,104.41025641025641,48.66008462623413,20.46153846153846/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774741:1867092501:0473/pct:31.4164755688834,26.102564102564102,12.171458811077791,5.115384615384615/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -187,7 +187,7 @@ all penalties incurred, or supposed to be
 incurred, for, or on account of the premi­  
 ses
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774741:1867092501:0473/pct:125.45839210155148,126.66666666666667,49.083215796897036,12.41025641025641/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774741:1867092501:0473/pct:31.381195978126655,31.666666666666668,12.277297583348034,3.1025641025641026/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -264,7 +264,7 @@ August last past, excepting and exclud­
 ing therefrom, nevertheless, every person  
 who refused or neglected to give an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn85033673:00280779350:1867101201:0957/pct:57.55380794701987,89.98565279770445,17.01158940397351,8.335724533715926/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn85033673:00280779350:1867101201:0957/pct:43.18840579710145,67.48923959827833,12.77432712215321,6.255380200860833/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -286,7 +286,7 @@ except as before excepted, all penalties,
 incurred, or supposed to be incurred, for  
 or on account of the premises. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn85033673:00280779350:1867101201:0957/pct:57.491721854304636,99.64131994261119,16.97019867549669,5.121951219512195/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn85033673:00280779350:1867101201:0957/pct:43.14699792960663,74.73457675753228,12.732919254658386,3.8450502152080346/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -327,7 +327,7 @@ persons except as before excepted, all penalties,
 incurred, or- supposed to be incurred ,for or on  
 account of the premises. - ;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_article_ver01:data:sn84038628:00295879932:1867110801:0083/pct:10.93346253229974,6.843829632326174,32.38049095607235,119.80342191481617/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_article_ver01:data:sn84038628:00295879932:1867110801:0083/pct:8.206785137318255,5.132872224244631,24.297253634894993,89.8556000485378/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -444,7 +444,7 @@ thereby remedying and releasing unto all such persons all
 pains and penalties incurred, or supposed to be incurred,  
 for or on account of the premises.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_euclid_ver01:data:sn83030214:00206530911:1869011901:0127/pct:56.76298801106671,234.15792379900608,47.2333230863818,7.377139701822197/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_euclid_ver01:data:sn83030214:00206530911:1869011901:0127/pct:18.920996003688902,78.05264126633536,15.744441028793934,2.459046567274066/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -462,7 +462,7 @@ leasing unto all such persons all pains and penaities
 incurred, or supnosed to be incurred, for or on ac-­  
 count of the premises
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743658:1869011901:0210/pct:105.78526754690758,51.288139617713405,45.48297428769979,5.1763029799358895/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743658:1869011901:0210/pct:35.261755848969194,17.0960465392378,15.160991429233263,1.7254343266452965/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -483,7 +483,7 @@ leasing unto all such persons all pains and
 penalties incurred, or supposed to be incurred,  
 for or on account of the premises. Thiid, th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:00279525267:1869011901:0601/pct:14.636140637775961,25.504587155963304,10.923957481602617,2.31651376146789/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:00279525267:1869011901:0601/pct:14.633747547416613,25.50166265336544,10.926258992805755,2.3191147804150902/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -520,7 +520,7 @@ such persons all pains and penalties incurred
 or supposed to be incurred for or on account  
 of the premises
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_juliet_ver01:data:sn88074143:00280761461:1869012001:0083/pct:32.10526315789474,143.9020919311228,68.94736842105263,47.75864522555856/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_juliet_ver01:data:sn88074143:00280761461:1869012001:0083/pct:8.026315789473685,35.9755229827807,17.236842105263158,11.93966130638964/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -542,7 +542,7 @@ all pains and penalties incurred, or sup­
 posed to be incurred, for or on account of  
 the premises
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741960:1869012001:0074/pct:90.38409152819395,107.75885872066267,40.87442113865432,12.71974229176254/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741960:1869012001:0074/pct:30.128030509397984,35.91961957355423,13.624807046218105,4.2399140972541804/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -597,7 +597,7 @@ persons all pains and penalties incurred, or
 supposed to he incurred, for or on account of  
 the premises
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186981:1869012101:0013/pct:44.8559670781893,36.85748295639,12.49265138154027,11.503084081809329/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186981:1869012101:0013/pct:44.849375459221164,36.85349491452067,12.495713935831496,11.505446151626632/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -634,7 +634,7 @@ gust last passed, excepting and excluding
 therefrom, nevertheless, overy person  
 who refused or neglected to givo an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293393:1869012201:0069/pct:101.44759698899826,63.74537711531996,12.796757382744644,7.22851059060854/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293393:1869012201:0069/pct:76.10773240660295,47.80903283648997,9.600347523892268,5.424184691247338/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -660,7 +660,7 @@ incurred, or supposed to be incurred, for.
   
 or on account of the premises.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293393:1869012201:0069/pct:101.40416907932831,72.12820800179311,12.753329473074697,4.482797265493668/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293393:1869012201:0069/pct:76.07877208224733,54.09615600134484,9.571387199536634,3.373304942283985/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -716,7 +716,7 @@ such persons all pains and penalties incurred or
 supposed to be incurred for or on account of the  
 reises.eo ee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_psylocke_ver01:data:sn82015775:0020029953A:1869012301:0166/pct:15.220588235294118,136.82120901639345,48.143382352941174,7.914959016393443/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_psylocke_ver01:data:sn82015775:0020029953A:1869012301:0166/pct:5.073529411764706,45.607069672131146,16.047794117647058,2.6383196721311477/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -757,7 +757,7 @@ to all such persons all pains and - penal­
 ties incurred, or supposed to be incurred,  
 for or on account of the premises
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027443:1869012601:0097/pct:67.17125382262996,44.389364578639025,14.541284403669724,5.813429472735466/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027443:1869012601:0097/pct:50.38996788499771,33.29202343397927,10.91910077993577,4.371338440739072/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -779,7 +779,7 @@ persons all pains and penalties incur
 red or supposed to be Incurred for or  
 on account of the premises. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280775009:1869012701:0138/pct:47.12676056338028,74.05379671506785,13.126760563380282,5.617710069031183/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280775009:1869012701:0138/pct:35.35709254824623,55.54629850035706,9.846457247499648,4.213282551773387/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -801,7 +801,7 @@ all such persons all pains and penalties
 incurred, or supposed to be mcurred,  
 for or on account of tbe premises
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84026522:00296023139:1869012801:0230/pct:68.3390508862207,28.946188340807176,14.365351629502573,5.504484304932736/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84026522:00296023139:1869012801:0230/pct:51.27251930225908,21.7152466367713,10.780669144981413,4.125560538116592/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -826,7 +826,7 @@ incurred, for or on account of these
   
 premises.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477850:1869012801:0633/pct:335.6620633631194,159.70041768687886,45.735174654752235,19.760910269336023/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477850:1869012801:0633/pct:83.9496139780577,39.925104421719716,11.438439658675335,4.940227567334006/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -845,7 +845,7 @@ and p?nal ties incut rod, or supposed to be
 incurred, for or on account of the premi?  
 ses
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551268:1869012801:0013/pct:66.23065879725634,53.64151766245094,15.568671239432126,3.0745747928477978/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551268:1869012801:0013/pct:66.23065879725634,53.64878616077918,15.573988408571276,3.0745747928477978/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -867,7 +867,7 @@ such persons all pains and penalties
 incurred or supposed to be incurred  
 for or on account of the premises
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn83025167:00279529352:1869012901:0261/pct:9.164059007599464,165.1175271009982,36.70093875726419,13.384136524632392/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn83025167:00279529352:1869012901:0261/pct:3.0546863358664877,55.03917570033273,12.233646252421398,4.461378841544131/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -900,7 +900,7 @@ alties incurred, or supposed to be ine
 curred for or on account of the premi  
 ses
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_drinksmall_ver01:data:sn84026923:00237288361:1869020301:0532/pct:51.773356401384085,82.01749529398738,41.378316032295274,15.723618646882958/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_drinksmall_ver01:data:sn84026923:00237288361:1869020301:0532/pct:17.257785467128027,27.339165097995792,13.79277201076509,5.241206215627653/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -923,7 +923,7 @@ ties incurred, or supposed to be incur­
 red, tor or on account ot the premi­  
 ses.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn87058333:00279528931:1869020401:0415/pct:85.00580046403712,50.70018365472911,10.730858468677495,4.499540863177227/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn87058333:00279528931:1869020401:0415/pct:85.01063418406805,50.70783593510866,10.730858468677495,4.50719314355678/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -993,7 +993,7 @@ penalties incurred, or supposed to
 be incurred, for or on account of the  
 premises.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eagle_ver01:data:sn84022278:00200296540:1869021301:0239/pct:247.2768532526475,217.8650442477876,44.402420574886534,20.6858407079646/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eagle_ver01:data:sn84022278:00200296540:1869021301:0239/pct:61.819213313161875,54.4662610619469,11.100605143721634,5.17146017699115/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1027,7 +1027,7 @@ aud releasing onto all persons, except as
 before excepted, all penalties incurred,  
 or supp scd to lie incurred, lor or on ac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293435:1871022401:0189/pct:41.005621486570895,83.62816098777158,13.803872579637726,12.264038940994896/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293435:1871022401:0189/pct:30.77163386441737,62.72112074082868,10.356138706654171,9.200997269381455/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1062,7 +1062,7 @@ sons, except as Liclorc excepted, all patns
 and penalties incurred or supp ised to be  
 incurred for or oa account of the prem
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293435:1871022401:0189/pct:40.92754528419738,99.44200403656654,13.72579637726421,12.15718865012466/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293435:1871022401:0189/pct:30.70915338956576,74.5815030274249,10.309278350515465,9.129763742134632/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

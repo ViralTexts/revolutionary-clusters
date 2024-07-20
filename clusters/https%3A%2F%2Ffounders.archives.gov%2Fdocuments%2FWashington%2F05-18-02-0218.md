@@ -358,7 +358,7 @@ important trading districts of Dublin—
 -When bard words, jealousies and fears  
 . .. Set folks together by the ears,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn85033395:00212470399:1880042201:0699/pct:8.647026732133115,55.48900134255913,13.584288052373159,1.3425591242383559/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn85033395:00212470399:1880042201:0699/pct:6.4947468958930274,41.61933285138903,10.192386410151453,1.012083032118145/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -374,7 +374,7 @@ important trading districts of Dublin—
 &quot;W hen hard words, jealousies and fears  
 Set folks together by the ears,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn85033395:00212470399:1880050601:0708/pct:8.44994617868676,98.94573643410853,12.809472551130247,1.1266149870801034/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn85033395:00212470399:1880050601:0708/pct:6.340018845066631,74.21188630490956,9.624444743572486,0.8475452196382429/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

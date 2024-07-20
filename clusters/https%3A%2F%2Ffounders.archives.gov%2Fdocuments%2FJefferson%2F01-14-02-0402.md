@@ -180,7 +180,7 @@ afrer I had read the Constitution, to one or two
 friends in America.”  
 • .. . % a ta • i . j
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:0041421647A:1833010301:0148/pct:6.6963521150882,17.51608114794656,19.455386196266485,48.04552201880257/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:0041421647A:1833010301:0148/pct:6.695205479452055,17.5139146567718,19.457762557077626,48.04370232941662/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -362,7 +362,7 @@ Permanent Military; ami a Trial
 by Jury in all caes determinable  
 by the Law of the Land
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016867:00295877637:1837101401:0066/pct:69.22160444797458,45.0,19.976171564733917,12.540760869565217/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016867:00295877637:1837101401:0066/pct:51.9364448857994,33.75,14.975173783515393,9.415760869565217/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -397,7 +397,7 @@ Permanent Military; and a Trial
 by Jury in all eases determinable  
 by the Law of the Lund
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016867:00295877637:1837102801:0072/pct:47.586342229199374,47.53831547538316,20.192307692307693,19.67991319679913/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016867:00295877637:1837102801:0072/pct:35.7156881994895,35.65712735657127,15.15806008246613,14.75654414756544/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -429,7 +429,7 @@ led States on the 4th of July, 1644; may he have (t
 the pleasure of knowing that Ins son, Robert Tyler, a  
 assisted at the writing of epitaph of Robert Emrnett
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661320:1843071201:0041/pct:20.017809439002672,22.239031770045386,16.260017809439002,8.333333333333334/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661320:1843071201:0041/pct:20.02374591867023,22.24743654395697,16.260017809439002,8.333333333333334/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -510,7 +510,7 @@ manent military, and trial by jury in all
 cases determinable by the laws of the  
 land.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84024082:00212471628:1863081101:0124/pct:333.88952819332565,227.6543784160949,42.86536248561565,19.025468077683453/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84024082:00212471628:1863081101:0124/pct:83.48439073514602,56.91359460402372,10.717882319090778,4.756367019420863/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -567,7 +567,7 @@ of all opposition.&quot; And the accom­
 plished wife of John Adams writes of  
 him to her husband: &quot;Dignity,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_echo_ver03:data:sn86064205:00206536524:1884021701:0904/pct:326.486013986014,32.08524493118248,55.15734265734266,22.376794435400324/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_echo_ver03:data:sn86064205:00206536524:1884021701:0904/pct:81.65719282903366,8.02131123279562,13.79536510712724,5.594198608850081/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -594,7 +594,7 @@ of all opposition.&quot; And the accom­
 plished wife of John Adams writes of  
 him to her husband: &quot;Dignity,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_echo_ver03:data:sn86064205:00206536524:1884021801:0912/pct:335.5043859649123,25.148986889153754,55.10964912280702,20.67938021454112/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_echo_ver03:data:sn86064205:00206536524:1884021801:0912/pct:83.93131446126837,6.2872467222884385,13.786482334869431,5.16984505363528/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -619,7 +619,7 @@ of all epposition.&quot; And the accom­
 plished wife of John Adams writes of  
 him to her husband: &quot;Dignity,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_echo_ver03:data:sn86064205:00206536524:1884022001:0928/pct:323.3570159857904,25.119331742243435,55.59502664298402,18.73508353221957/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_echo_ver03:data:sn86064205:00206536524:1884022001:0928/pct:80.8572063069065,6.279832935560859,13.901843215634022,4.683770883054892/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -650,7 +650,7 @@ of all epposition.&quot; And the accom­
 plished wife of John Adams writes of  
 him to her husband: &quot;Dignlty,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_echo_ver03:data:sn86064205:00206536524:1884022201:0944/pct:205.8303886925795,3.3187509428269726,174.91166077738515,385.02036506260373/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_echo_ver03:data:sn86064205:00206536524:1884022201:0944/pct:51.46896399381489,0.8296877357067431,43.737574552683895,96.25509126565093/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -676,7 +676,7 @@ of all epposition.&quot; And the accom­
 plished wife of John Adams writes of  
 him to her husband: &quot;Dignity,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_echo_ver03:data:sn86064205:00206536524:1884022301:0952/pct:325.97173144876325,25.203854707190512,55.30035335689046,22.35730170496664/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_echo_ver03:data:sn86064205:00206536524:1884022301:0952/pct:81.51093439363817,6.300963676797628,13.828142257565716,5.58932542624166/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -715,7 +715,7 @@ and by the authority of his name, and the confidence reposed in his perfect inte
 to put the new Government so under way as to secure it against the efforts of all opposition  
 Martha Washington was a cultured, rood woman. Upon her marriage day she gave to her husban
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_hotel_ver02:data:sn86064205:00175035138:1884063001:0732/pct:53.52622061482821,22.066869300911854,225.31645569620252,367.1580547112462/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_hotel_ver02:data:sn86064205:00175035138:1884063001:0732/pct:13.390635602804796,5.5167173252279635,56.367337706401266,91.78951367781156/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -741,7 +741,7 @@ and by the authority of his name, and the confidence reposed in his perfect inte
 to put the new Government so under way as to secure it against the efforts of all opposition  
 MMartha Washington was a cultured good woman. Upon her marriage day she gave to her hushan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_hotel_ver02:data:sn86064205:00175035138:1884070201:0749/pct:51.52041702867072,14.023166023166024,198.52302345786273,133.3127413127413/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_hotel_ver02:data:sn86064205:00175035138:1884070201:0749/pct:12.88010425716768,3.505791505791506,49.630755864465684,33.32818532818533/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -776,7 +776,7 @@ to put the new Government so under way as to secure it against the efforts of al
   
 Martha Washington was a cultured, good woman. Upon her marriage day she gave to her hushan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_hotel_ver02:data:sn86064205:00175035138:1884070501:0773/pct:45.851528384279476,126.12333436628448,162.62008733624455,128.16857762627828/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_hotel_ver02:data:sn86064205:00175035138:1884070501:0773/pct:11.470395455538563,31.53083359157112,40.68166921564343,32.04214440656957/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -893,7 +893,7 @@ go there at all.&quot;
 At the opposite pole stood Hamilton,  
 representative and typical of paternal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_sebeka_ver01:data:sn90059522:0020653686A:1895051201:0131/pct:15.427691446171076,52.2017866526537,10.821783564328713,7.146610614818707/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_sebeka_ver01:data:sn90059522:0020653686A:1895051201:0131/pct:15.432358019506276,52.2017866526537,10.826450137663914,7.150113855316167/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -944,7 +944,7 @@ party X would not go there at alL ” Are
 you, my friends, you bistorie Democrats,  
 if I may oall you suoh, yon Demoorats o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_isleboro_ver01:data:sn83016025:00414210648:1896091001:0085/pct:39.152981849611066,16.450617283950617,11.04580812445981,5.046296296296297/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_isleboro_ver01:data:sn83016025:00414210648:1896091001:0085/pct:39.14621500172831,16.448079000154298,11.048219840995506,5.049375096435735/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -980,7 +980,7 @@ The Rockingham Register says that
 about one-fifth of the excursionists  
 were ex Confederates, and these hav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_annapolis_ver01:data:sn85025350:0041562766A:1896102401:0182/pct:20.69165378670788,8.069164265129682,32.30293663060278,117.36311239193084/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_annapolis_ver01:data:sn85025350:0041562766A:1896102401:0182/pct:16.036134957077262,6.260934301135306,25.03992812936714,90.95477386934674/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1005,7 +1005,7 @@ that is
 et te  
 collar about our neck, nelther th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_vanhalen_ver01:data:sn85034438:00175049538:1899100701:0062/pct:5.796862097440132,141.94035047000116,40.49545829892651,19.159800394568876/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_vanhalen_ver01:data:sn85034438:00175049538:1899100701:0062/pct:1.9322873658133775,47.31345015666705,13.49848609964217,6.386600131522958/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

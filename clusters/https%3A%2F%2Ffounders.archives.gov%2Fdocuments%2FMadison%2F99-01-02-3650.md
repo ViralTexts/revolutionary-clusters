@@ -134,7 +134,7 @@ steps have been tak n .sisinr the pinpossiz. On
 the contraiy it will be sc,(ssn in th- my).  
 m nt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808110901:0544/pct:75.75446820978611,28.930265238011593,20.58306475241723,22.474969260495346/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808110901:0544/pct:75.74337190566867,28.927724598226046,20.58493237634881,22.475922835982555/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -209,7 +209,7 @@ Amzricans. The British government
 bave refufed to rescind their, Tributary j  
 orders in councily even though the Ameri
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808112201:0187/pct:7.108638541183743,42.9676221901423,17.12254674702519,14.76593111981852/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808112201:0187/pct:7.108638541183743,42.9676221901423,17.132849121722558,14.776242524231801/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -272,7 +272,7 @@ ito &quot; the change produced by a compli­
 irr. &quot; other, in the relations between this  
 it &quot; other and the United States.&quot; W
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809032901:0001/pct:75.16470353363945,11.559034572733204,18.626472349770413,12.159165035877365/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809032901:0001/pct:75.17135822186731,11.567732115677321,18.646436414453984,12.163513807349425/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -353,7 +353,7 @@ j would le opened with, her, and remain shut to her
 I cnrmi/, in cascoj his failure to rescind hu &#x27;Octrees,&#x27;  
 j also.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1845013001:0056/pct:71.89483227561196,42.99798985354647,14.022363251737685,3.1492294438594812/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1845013001:0056/pct:71.89483227561196,43.00118056220286,14.037473556965852,3.152420152515874/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

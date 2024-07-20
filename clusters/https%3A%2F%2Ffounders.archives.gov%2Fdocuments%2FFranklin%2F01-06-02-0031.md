@@ -44,7 +44,7 @@ May the SOD «f Merciee,
 Bless the Undertaking.  
 UK. FENNO
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798012501:0003/pct:41.17783445397635,42.59505844059772,14.21284488754927,7.723035952063915/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798012501:0003/pct:41.18942731277533,42.60245598461311,14.21284488754927,7.723035952063915/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -341,7 +341,7 @@ For the Relief of the Sick and Miserable ;
 Hay the God of Mercies  
 Bless the Undertaking.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn85054846:00212477679:1867112801:0715/pct:17.23172169811321,35.966916965937536,19.516509433962263,8.314288823593428/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn85054846:00212477679:1867112801:0715/pct:12.931288705396637,26.97790836870171,14.641698613978178,6.23571661769507/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -491,7 +491,7 @@ For the relief of the sick and miserable :
 May the God of Mercies  
 Bless the undertaking
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_graftonnotch_ver01:data:sn83016025:00279525498:1880101301:0205/pct:28.232232883395675,4.557575757575758,9.188485932671979,4.048484848484849/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_graftonnotch_ver01:data:sn83016025:00279525498:1880101301:0205/pct:28.227642276422763,4.557023391104108,9.191056910569106,4.051024118288693/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

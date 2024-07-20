@@ -115,7 +115,7 @@ thing which can tend to support propriety
 of character without partaking ot the lollies  
 of luxury and ostentation. I tic whol
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215944:1856010301:0392/pct:5.768264496030549,68.5335828953999,13.275047733896091,2.0588870491685265/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215944:1856010301:0392/pct:5.767684887459807,68.52864958249351,13.27706323687031,2.0611383050196754/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -134,7 +134,7 @@ ten.I t*&gt; support propriety of character \x
 out partaking of the follies of luxury ami  
 tentation.” It was a reception in ev rv 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215944:1856010301:0392/pct:86.30288413224801,19.897775538118207,11.516430509496534,2.5196170182132316/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215944:1856010301:0392/pct:86.29421221864952,19.89634321911892,11.518622722400858,2.5218351089355986/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -154,7 +154,7 @@ tend to support propriety of character without
 partaking of the follies of luxury and ostenta­  
 tion.&quot; It was a reception in every way befittin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn86092535:0020219056A:1856010501:0506/pct:118.47485724811199,276.3729977116705,54.74304660158408,12.72883295194508/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn86092535:0020219056A:1856010501:0506/pct:29.618714312027997,69.09324942791763,13.68576165039602,3.18220823798627/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -222,7 +222,7 @@ to simplicity of dress and everything which can
 lend to support proprisly of character without pare  
 of the follies of luxury and ostentation.&quot; Ye
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743282:1858030901:0553/pct:53.33769633507853,196.96695337256676,53.45222513089005,5.986871887732005/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743282:1858030901:0553/pct:17.779232111692846,65.65565112418892,17.81740837696335,1.995623962577335/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -265,7 +265,7 @@ That the Government, though not ac­
 tually perfect, is one of the best in the  
 world, I have little doubt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293757:1862100301:0584/pct:74.36456063907045,38.94875164257556,49.23747276688453,29.17214191852825/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293757:1862100301:0584/pct:18.591140159767612,9.73718791064389,12.309368191721132,7.293035479632063/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -298,7 +298,7 @@ American people.
 SiTuAtioN And prospects or the  
 a ee CounTRY.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293757:1862100401:0589/pct:63.36047372316802,73.92894461859979,49.66691339748335,51.20167189132707/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293757:1862100401:0589/pct:15.84598296927064,18.482236154649947,12.421325435024064,12.800417972831767/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -318,7 +318,7 @@ which can tend to support propriety of charac­
 ter without partaking of the follies ol luxury  
 and ostentation.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_indianhead_ver01:data:sn83016368:0041562749A:1870021901:0009/pct:38.13817980022198,39.126077370214475,10.724195338512764,2.144718380436961/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_indianhead_ver01:data:sn83016368:0041562749A:1870021901:0009/pct:38.14742878283389,39.126077370214475,10.72881982981872,2.148059063272533/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -359,7 +359,7 @@ erything which can lend to support pro­
 priety of character without partaking of  
 the follies of luxury end ostestauon.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_antares_ver02:data:sn84026824:0027176778A:1870032601:0055/pct:57.142857142857146,77.44360902255639,13.14950810586116,3.452710724178868/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_antares_ver02:data:sn84026824:0027176778A:1870032601:0055/pct:57.15209459147383,77.44360902255639,13.158745554477854,3.459306160137185/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -398,7 +398,7 @@ pillar on which the preservation of American freedom
 must depend.—Washington .  
 PARTY SPIRIT NOT TO BE ENCOURAGED.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685270:1874101501:0370/pct:38.57302118171683,16.15262708765086,22.0576524924351,79.87321711568939/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685270:1874101501:0370/pct:38.56687898089172,16.15065821550463,22.05812101910828,79.86652852267187/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -453,7 +453,7 @@ ferent in their habits in many respeets as the Amcricans
 The remainder of the letter is occupled by a  
 statement of the condition of the country and topics of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:00206531265:1876092701:0665/pct:202.5012341615929,121.9766081871345,48.03356919532664,24.608187134502923/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:00206531265:1876092701:0665/pct:67.50041138719763,40.6588693957115,16.01118973177555,8.202729044834308/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -488,7 +488,7 @@ Tmel Phtial, reedom must depend. It was
 AAmerican f, o a miracle that there should  
 idee nest t uch unanimity in points o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00271742113:1876092801:0310/pct:2.202283849918434,62.66074567490055,44.99728113104948,30.19705800721621/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00271742113:1876092801:0310/pct:0.734094616639478,20.88691522496685,14.999093710349827,10.065686002405403/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -517,7 +517,7 @@ spects as the Americans were
 remainder of the letter is occupied by a  
 statement of the condition of tile coun
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_himilco_ver01:data:sn85025759:0029602711A:1876093001:0216/pct:68.84225092250922,52.890218932115296,18.980627306273064,9.418806111198615/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_himilco_ver01:data:sn85025759:0029602711A:1876093001:0216/pct:51.649365628604386,39.675539455032286,14.232987312572087,7.056229327453142/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -678,7 +678,7 @@ Mountain-Meadow Fame.
 John W. Young Seated ou the  
 Right Hand of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1876101401:0009/pct:70.86782376502002,3.1470647569094212,26.889185580774367,95.70304619729676/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1876101401:0009/pct:70.86782376502002,3.1470647569094212,26.895861148197596,95.73330643534396/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -722,7 +722,7 @@ as the Americans were.&quot; The remain­
 der of the letter is occupied by a state­  
 ment of the condition of the countr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_dunning_ver01:data:sn84022835:00237285001:1876110901:0430/pct:138.411316648531,200.11923688394276,47.17083786724701,66.05723370429253/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_dunning_ver01:data:sn84022835:00237285001:1876110901:0430/pct:34.61224489795919,50.02980922098569,11.795918367346939,16.514308426073132/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -302,7 +302,7 @@ power in our country that it is sedition
 and treason to dispute the power of the  
 creature in the presidential chair. JAMe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn85026002:00280775058:1863022601:0575/pct:73.84196185286103,93.56809198706432,55.131698455949135,31.189363995688108/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn85026002:00280775058:1863022601:0575/pct:18.460490463215258,23.39202299676608,13.782924613987284,7.797340998922027/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

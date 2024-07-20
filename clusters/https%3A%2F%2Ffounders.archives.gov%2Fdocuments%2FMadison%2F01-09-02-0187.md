@@ -200,7 +200,7 @@ property in men.&quot;?Page 1480.
 Every intelligent reader knows that the idea  
 of property in man is not in the Constitution
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1855072601:0337/pct:50.907770515613656,62.15756659739278,12.90244492858872,4.9121481201587/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1855072601:0337/pct:50.907770515613656,62.16386422318786,12.910513999838619,4.9121481201587/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -235,7 +235,7 @@ the third place, -tchere slavery exists, the
 repub&#x27;ican theory becomes still more falla­  
 cious.&quot; 6th Elliot, page 209
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296027546:1858083101:0298/pct:62.29662077596996,88.96863370547581,15.816645807259073,19.5906432748538/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296027546:1858083101:0298/pct:46.73759974964794,66.73312068048911,11.860428727898608,14.686337054758107/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -384,7 +384,7 @@ in mlit be more iikely to join the standard of seaition
 slavery exists, the republican theory becomes still more  
 fallacions.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:0028077764A:1862050201:0303/pct:77.20820189274448,139.57831325301206,51.813880126182966,30.481927710843372/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:0028077764A:1862050201:0303/pct:19.313474057999606,34.894578313253014,12.961136318800552,7.620481927710843/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -428,7 +428,7 @@ that of the eaiahlij T
 Where slavery exists, iuS?&quot;  
 ot,-becomes dl more fH,U
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn84022367:0041562833A:1862051501:0157/pct:88.93476465730801,6.958904109589041,40.441783649876136,118.61643835616438/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn84022367:0041562833A:1862051501:0157/pct:66.72862453531599,5.219178082191781,30.359355638166047,88.97260273972603/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -464,7 +464,7 @@ the Constitution, it ceases to be a constitu­
 tional State. The very case contemplated by  
 the ConetUuiionhas arrived, and the Nationa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_edgewater_ver02:data:sn84031490:no_reel:1863092901:0002/pct:65.11094108645753,28.77371849334466,10.23335883703137,7.278391390540923/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_edgewater_ver02:data:sn84031490:no_reel:1863092901:0002/pct:65.11094108645753,28.784338714245255,10.23335883703137,7.274851316907392/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

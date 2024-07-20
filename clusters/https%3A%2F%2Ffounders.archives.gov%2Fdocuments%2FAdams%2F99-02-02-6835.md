@@ -383,7 +383,7 @@ LiEE and character of Patrick Henry, by wil.
 liam Wirt, of Richmond, Va. Revised edition with headings  
 to each chapter, and such an arrangement of the Notes containe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845082601:0728/pct:174.41962973846606,109.38309394866965,38.49544519541581,3.437720744054627/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845082601:0728/pct:58.131335390039666,36.45673925838729,12.829929974046324,1.1457720227584853/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -400,7 +400,7 @@ to each chapter, and such an arrangement of the Notes containe
 liam Wirt, of Richmond, Va. Revised edition with headings  
 to each chapter, and such an arrangement of the Notes containe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845082701:0732/pct:177.12389380530973,110.28893587033122,38.37758112094395,3.6058256988489545/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845082701:0732/pct:59.032591063265,36.7586611861421,12.790640515164922,1.2018007437854765/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -417,7 +417,7 @@ to each chapter, and such an arrangement of the Notes containe
 liam Wirt, of Richmond, Va. Revised edition with headings  
 to each chapter, and such an arrangement of the Notes containe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845090201:0752/pct:174.58871915393655,108.82937668108993,38.70446533490012,3.3797216699801194/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845090201:0752/pct:58.1876927595829,36.27221702525725,12.89959367503794,1.1264421577798565/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -449,7 +449,7 @@ LifE and character of Patrick Henry, by wil­
 liam Wirt, of Richmond, Va. Rtevised edition with headings  
 to each chapter, and such an arrangement of the Notes containe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845090901:0772/pct:178.66213821618427,27.31142113974935,38.68871825162434,20.867817450934027/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845090901:0772/pct:59.545253211280084,9.102730819245775,12.89433535114917,6.955116838081728/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -466,7 +466,7 @@ IieE and character of Patrick Henry, by Wil­
 liam Wirt, of Richmond, Va. Revised edition with headings  
 to each chapter, and such an arrangement of the Notes containe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845091001:0776/pct:174.7305563646956,42.390158172231985,38.24643169239732,3.4915055653192737/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845091001:0776/pct:58.2350371341197,14.128397375820056,12.746954031357701,1.1636988441112153/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

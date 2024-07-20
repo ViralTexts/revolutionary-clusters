@@ -79,7 +79,7 @@ whole debt of the United States. For a better un­
 derstanding of the subject, a recapitulation of the se­  
 veral species of stock, which on the first day of thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806051201:1106/pct:48.79238838741156,11.54451085246933,21.005123200780677,6.747404844290657/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806051201:1106/pct:48.78048780487805,11.542695392357288,21.00609756097561,6.750275200503224/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -129,7 +129,7 @@ States, and of its office of Discount an..
 Dcpofit as the Secretary of the Trcafury  
 (ball defignate, be the gents under hi* &#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807060101:0004/pct:22.17724755006391,72.95248409367808,18.27865360034086,12.373087857046162/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807060101:0004/pct:22.17724755006391,72.95248409367808,18.285754864365856,12.382112720545102/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -160,7 +160,7 @@ Cent Stock at private fale . and that fuch of
 ( the Cafliiers of the Bank of tbe United  
 I States, and of its office of Discount an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807071701:0004/pct:21.639697950377563,72.39950269374224,18.985976267529665,10.45724547589446/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807071701:0004/pct:21.639697950377563,72.39950269374224,19.000359582883856,10.466454851038357/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -190,7 +190,7 @@ J St&#x27;itcs, and of its office of Discount and
 Dep; fit as the Secretary of the Treafury  
 fiiail defignate, be the .&#x27;gents tmder his it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807072201:0004/pct:78.02567880446222,22.176759410801964,18.10145232582614,9.738134206219312/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807072201:0004/pct:78.02567880446222,22.185851973086017,18.10145232582614,9.729041643935261/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -222,7 +222,7 @@ cut Stick at private fale ...and that fuch ot
 the Caftliers ol the Bank ot ihe United  
 States, and of its office of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807072401:0004/pct:41.190323271248126,78.85480572597137,17.726396917148364,11.002044989775051/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807072401:0004/pct:41.1974595018911,78.8593501476937,17.740669378434312,11.011133833219723/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -255,7 +255,7 @@ Dep&#x27;fit as the Secretary of the Treafury
 faall defignate, be the .-gents under his lu­  
 p*rintend»nce for nuking the faid pur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807090201:0002/pct:21.93866609478876,78.78829509548015,18.207162770748447,12.281906855337272/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807090201:0002/pct:21.95296304239045,78.79287447909512,18.2000142969476,12.291065622567203/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -288,7 +288,7 @@ Be p fit as tbe Secretary of the Treafury
 fhall deUgnate, be the -gents under his fu­  
 perintendance for making the faid pur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807090401:0004/pct:41.62447721769756,62.410851629142776,17.785604226282192,12.166130611103343/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807090401:0004/pct:41.63181451317045,62.410851629142776,17.785604226282192,12.180114669277025/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -321,7 +321,7 @@ i I&gt;ep&#x27; fit as the Secretary of the Trtsfury
 Anil designate, be the agents under his lv  
 ! perl n tend Mice lor making the faid pur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807090901:0004/pct:40.797476909213785,80.62633451957295,18.923180896598332,11.84341637010676/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807090901:0004/pct:40.797476909213785,80.63582443653618,18.945708492903808,11.833926453143535/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -354,7 +354,7 @@ I Dep fit as the Secretary of the Tresfury
 cfignatc, be the &#x27;gents under his fu­  
 j pet it? tendance for nuking the faid pur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807101901:0004/pct:78.39691384483497,20.98129574410409,18.281183026146593,11.859582542694497/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807101901:0004/pct:78.40405772253179,20.98129574410409,18.29547078154022,11.868618415107978/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -386,7 +386,7 @@ I Depofit as the Secretary of the Treafury
 ! {hall dcAgnate, be the sgents &#x27;under his fu­  
 ,&#x27; perintendance for making the faid pur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807102301:0004/pct:78.74594594594595,39.76744186046512,18.464864864864865,11.395348837209303/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807102301:0004/pct:78.76036036036037,39.76744186046512,18.45045045045045,11.399908800729595/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -418,7 +418,7 @@ States, and of its office cf Discount and
 Pep fit as the Secretary of the Trctdury  
 fh?ll ricfignste, he the . gents under his f
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807110401:0004/pct:59.93527508090615,75.33051655990187,17.820927723840345,11.271636908818317/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807110401:0004/pct:59.93527508090615,75.33960292580983,17.84250269687163,11.26709372586434/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -449,7 +449,7 @@ States, and of Its office of Disccunt and j
 Depifit as the Secretary cf the Treefury  
 fhall defignate, be the agents under his fu- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807110601:0004/pct:59.18544194107452,76.05556319625911,18.652512998266896,10.741301059001513/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807110601:0004/pct:59.192663200462164,76.0647320405263,18.659734257654534,10.741301059001513/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -511,7 +511,7 @@ cent, deferred and three per cent stocks, it
 is desirable that the authority should be ex­  
 pressly extended by law to that case. An
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809060901:0041/pct:6.046257512292843,21.876140649714078,17.264614824257876,5.000608346514174/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809060901:0041/pct:6.045156591405681,21.873479318734795,17.267540665210003,5.004055150040552/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -535,7 +535,7 @@ and three per cent stocks, it is desirable j
 that the authority should be expressly ex­  
 tended by law to that case. And on othe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809060901:0176/pct:60.162902628656056,32.299246776458574,17.84524250277675,6.4726158559938725/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809060901:0176/pct:60.15176753655377,32.295123819249426,17.848109075205134,6.476044591949622/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -610,7 +610,7 @@ bursement of the six per cent, and deferred
 stocks, were estimated at  
 4,396,000
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809070301:0557/pct:50.96757979391807,29.8464025869038,21.337019351595877,5.836701697655618/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809070301:0557/pct:50.95477386934673,29.84157775622373,21.337939698492463,5.8397995473650175/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

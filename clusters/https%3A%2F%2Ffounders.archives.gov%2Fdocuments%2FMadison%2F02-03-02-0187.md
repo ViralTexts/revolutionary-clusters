@@ -60,7 +60,7 @@ this claufe fhall not extend to indemnities
 claimed on account of captures or con­  
 fiscations.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800122201:0002/pct:28.137450199203187,58.971668415529905,21.887450199203187,2.90810972867636/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800122201:0002/pct:28.154050464807437,58.971668415529905,21.887450199203187,2.9230999850097437/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -77,7 +77,7 @@ fiscations.
 claimed on account of captures or confis­  
 cations
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801041501:0001/pct:26.984505363528008,75.67809239940388,21.358760429082242,2.2056631892697465/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801041501:0001/pct:26.992451330949542,75.68802781917536,21.358760429082242,2.2056631892697465/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -96,7 +96,7 @@ by one of the two nations with indi­
 vidily 5 cme wh ihe indivislonh of  
 Oe R e 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802041301:0060/pct:41.48606811145511,86.93783729762143,16.70278637770898,4.117529482310614/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802041301:0060/pct:41.49122807017544,86.94116863215405,16.70278637770898,4.120860816843227/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -133,7 +133,7 @@ vided that‘the debts contracted by one of the two na­
 tions with individuals ol il.e other, or by individuals of  
 theoue
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184534:1825101401:0228/pct:58.98786717752235,4.336231884057971,36.49425287356322,92.01159420289855/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184534:1825101401:0228/pct:58.97845171588188,4.335729190818456,36.49374833732376,92.00479171497024/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -149,7 +149,7 @@ theoue
 slates, but this clause shill not extend to indemnities  
 claimed on account of captures or confiscations.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184534:1825101401:0228/pct:77.72988505747126,6.098550724637681,17.768199233716476,1.4956521739130435/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184534:1825101401:0228/pct:77.71747805267358,6.09784372826339,17.7706836924714,1.4993430713347244/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -193,7 +193,7 @@ transmitted to the United States, and submitted by the presiden
 two States. But this clause shall not extend to indemnities claimed  
 on account of captures or confiscations 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851020401:0143/pct:48.3355091383812,89.34843471621278,15.388381201044387,0.9417154492237211/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851020401:0143/pct:48.3355091383812,89.35691863917876,15.393820713664056,0.9459574107067108/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -213,7 +213,7 @@ on, and he w. Ites ine liat ho has made a proposition to purliase
 them, which lies before the minister, with whom lie is &#x27;&#x27;  
 ) have a conference on the subject.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:0041566123A:1854070901:0033/pct:33.18649045521292,56.24685138539043,16.80535160711372,2.632241813602015/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:0041566123A:1854070901:0033/pct:33.197367705444066,56.25524769101595,16.80535160711372,2.632241813602015/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -236,7 +236,7 @@ istructions as to the utmost ainount, if, as you will he better . &#x27;
 blc to judge than i can, tho affaire of St. Domingo are likely *  
 ?be protracted.&quot; a?a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:0041566123A:1854070901:0033/pct:33.18649045521292,59.09319899244333,16.93587860988742,3.9924433249370277/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:0041566123A:1854070901:0033/pct:33.197367705444066,59.10159529806885,16.93043998477185,3.9966414777497903/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -258,7 +258,7 @@ chase them, which lies before the minister, with ,
   
 wnoin ne is 10 nave a conference on me subject
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn84020104:0041566154A:1854071901:0073/pct:44.22196047637744,14.192185850052798,13.506085590891244,3.1890179514255546/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn84020104:0041566154A:1854071901:0073/pct:44.23068533787026,14.199225624780007,13.501723160144833,3.18549806406195/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -283,7 +283,7 @@ most amount, if, as you will be better able to I
 judge than I can, the affairs of St. Domingo are ]  
 likely to be protracted.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn84020104:0041566154A:1854071901:0073/pct:44.195785891898964,17.602956705385427,13.545347467608952,5.036958817317846/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn84020104:0041566154A:1854071901:0073/pct:44.195785891898964,17.609996480112635,13.558434759848188,5.036958817317846/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -330,7 +330,7 @@ On this convention being submitted to the&#x27;.Sen­
 ate of the United Slates, they consented and ad­  
 vised to its ratiiication with the following pro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661551:1855022001:0184/pct:43.727696953060665,14.858540736013614,13.381828163601428,2.807913209955329/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661551:1855022001:0184/pct:43.727696953060665,14.865631425937744,13.390978131576539,2.807913209955329/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -348,7 +348,7 @@ claimed on account of captures or confiscations.&quot;
 On this convention being submitted to the Senate of  
 the United States, they consented and advised to it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:0027174321A:1855022001:0421/pct:108.87026366334905,124.98480243161094,46.74349572201851,6.37082066869301/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:0027174321A:1855022001:0421/pct:36.29008788778302,41.66160081053698,15.581165240672837,2.1236068895643365/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -365,7 +365,7 @@ extend to indemnities claimed on account of
 captures or confiscations.’’  
 Ou this convention being submitted to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215932:1855022001:0032/pct:60.635933120711314,89.85393658710368,12.448052575625786,1.4392589953687212/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215932:1855022001:0032/pct:60.6300734441438,89.84753491023083,12.450070867156294,1.4415313004654697/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -387,7 +387,7 @@ stated tli*t, &quot; this clause shall not extend to indeiu­
 nl tie* claimed on account of captures and confisca­  
 tions.&quot; Why make this exception in favor of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855022401:0353/pct:80.76338777060387,50.229826353421856,15.343714394227117,3.792134831460674/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855022401:0353/pct:80.76971768578301,50.23833844058563,15.343714394227117,3.787878787878788/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -409,7 +409,7 @@ this clause shall not extend to indemnities claim­
 ed on account of captures or confiscations.&quot; In  
 our Senate the second clause, postponing th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393347971:1855022401:0637/pct:22.987616099071207,279.9353226517713,59.15247678018576,19.30030868734382/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393347971:1855022401:0637/pct:5.745792222867093,69.97354497354497,14.785258270458502,4.824368018812463/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

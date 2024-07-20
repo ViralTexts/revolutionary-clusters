@@ -64,7 +64,7 @@ bills or otherwise.
 Agreeably to the order of the day, the Se­  
 nate resumed the consideration of the bill fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811120901:0402/pct:4.190617467086964,35.710698141637366,17.467086964583718,5.700652938221999/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811120901:0402/pct:4.189840563589173,35.706214689265536,17.47002842664689,5.704122201297342/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -112,7 +112,7 @@ half; the commanding officer for the time
 being shall have full power of pardoning  
 or mitigating any penalty ordered to be in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296027546:1857042101:0034/pct:91.84226369656834,73.36163438577871,16.917519566526188,2.2685062350756167/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296027546:1857042101:0034/pct:68.8995935571278,55.02785884850093,12.690049676351046,1.6980631467232687/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -138,7 +138,7 @@ Sec. 6&#x27;2. Tho rules and articles of war, and
 tho rules and customs which govern a court mar­  
 tial, composed of officers, of the army of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn83035366:00296029105:1857042301:0722/pct:88.59073359073359,116.73595279603057,19.44015444015444,10.527021590451925/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn83035366:00296029105:1857042301:0722/pct:66.48638207456055,87.55531715166957,14.583735754297855,7.8986187474855845/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -167,7 +167,7 @@ of the army of the United States, shall
 in all respects govern all court martial  
 held under the provisions of this act, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn85026279:00280775095:1857042401:0149/pct:129.44199706314242,123.23550465282749,50.14684287812041,37.16535433070866/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn85026279:00280775095:1857042401:0149/pct:32.360499265785606,30.80887616320687,12.536710719530102,9.291338582677165/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -222,7 +222,7 @@ war. and the rules and customs which
 govern a court mariial, composed of offi  
 cers of the army of the United States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn84028794:00296026682:1857043001:0388/pct:43.30453563714903,55.32470926434078,15.676745860331174,8.807003789363648/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn84028794:00296026682:1857043001:0388/pct:32.49324932493249,41.50006533385601,11.755175517551756,6.598719456422318/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -86,7 +86,7 @@ duced. In hope thatthe mode I mean to pur­
 sue, will be adopted by you, and prevent all  
 future enormities, I remain &amp;ec. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1782060101:0156/pct:65.29323807941519,25.674518201284798,28.227280279116133,44.29336188436831/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1782060101:0156/pct:65.30431411640915,25.678087080656674,28.232818297613115,44.29336188436831/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -610,7 +610,7 @@ enquiry to be made in all its circumstancas,
 and shall bring the perpetrators of it to an  
 immediately trial.”jSir Henry Clinton, th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685300:1883070501:0110/pct:50.023950183618076,79.32853717026379,10.953217307999362,5.071942446043166/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685300:1883070501:0110/pct:50.01596424010217,79.31902649562403,10.955459770114942,5.0743316149142785/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -116,7 +116,7 @@ others will follow under due precau­
 tions, by the earliest opportunies which  
 may present
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807012301:0003/pct:60.2045164039199,29.846804014791335,17.72475500639114,27.81299524564184/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807012301:0003/pct:60.21871893196989,29.846804014791335,17.717653742366142,27.82620179609086/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -149,7 +149,7 @@ constitution of my country, I should in­
 deed be most grievously disappointed  
 did 1 incur its censure
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807012301:0003/pct:60.2045164039199,60.1162176439514,17.5969322539412,11.397253037506603/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807012301:0003/pct:60.21871893196989,60.12502201091741,17.58272972589121,11.397253037506603/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -182,7 +182,7 @@ mouths of the Mississippi and the pas­
 ses from Lake l&#x27;enchartraiti will be  
 liecevs try. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807012301:0003/pct:60.28973157221986,71.60591653460116,17.533020877716233,11.687797147385103/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807012301:0003/pct:60.28973157221986,71.60591653460116,17.547223405766225,11.69219933086811/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -226,7 +226,7 @@ ssctbe the bearerþof Strong testimony against
 fctwlll soilssw under due precautions. by the  
 earli&#x27;cst opponunicies which mayctpscscnt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216055:1807012401:0401/pct:21.9824378627772,22.841663753932192,23.00937639529692,23.304788535477105/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216055:1807012401:0401/pct:21.979166666666668,22.839667977282655,23.0109126984127,23.305664773554682/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -275,7 +275,7 @@ Mississippi and the passes sromlakc Pon-si
   
 chaxtrain will be necessary
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216055:1807012401:0401/pct:21.9824378627772,53.040894792030755,22.934960559607084,22.256204124432017/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216055:1807012401:0401/pct:21.979166666666668,53.036260375709915,22.936507936507937,22.257171981942623/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -327,7 +327,7 @@ colonel Burr, and the others will follow under
 due precautions, by the carlieft opportunities  
 which may prefent.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1807012701:0330/pct:60.133136094674555,4.175,17.899408284023668,21.3625/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1807012701:0330/pct:60.12201885745979,4.174478190226222,17.902261662660997,21.363996167145775/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -356,7 +356,7 @@ boats and bomb ketche?, with floating battercs
 at the mouths of the Mifliflippi, and rhe pafTes j  
 from lake Ponchartrain, will be ncceflary.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1807012701:0330/pct:60.133136094674555,36.225,17.825443786982248,8.5/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1807012701:0330/pct:60.12201885745979,36.22047244094488,17.828310839958096,8.50310377869433/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -377,7 +377,7 @@ palHs from lake Poncliartrain, will be nccclfi­
 ry.”  
 If this augmentation of the (landing force h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1807012701:0331/pct:41.19307489649981,38.37680425424158,17.764395935265338,4.140288680678653/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1807012701:0331/pct:41.18532455315146,38.37194581592607,17.767325180307306,4.1439844706080935/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -429,7 +429,7 @@ col Burr, and the others will follow under due
 precautions, by the earliest opportunities which  
 may present
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807012701:0035/pct:39.666919000757005,38.26925517066362,17.751703255109767,20.784164446136277/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807012701:0035/pct:39.659413434247874,38.264399898502916,17.754651529485965,20.785756576165102/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -473,7 +473,7 @@ and bomb ketches, with floating batteries at the
 mouths of the Mississippi, and the passes from  
 lake Ponchartrain, will lie necessary
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807012701:0035/pct:39.96971990915973,62.377870828575055,17.29750189250568,15.378759040730872/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807012701:0035/pct:39.962157048249765,62.369956863740164,17.30053610848313,15.381036961854013/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -552,7 +552,7 @@ mony against him and also Col. Burr, and the
 others will follow under due precautions, by the  
 earliest opportunities which may present
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807013001:0342/pct:51.404151404151406,61.97791646663466,21.343101343101342,23.475756120979355/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807013001:0342/pct:51.3916015625,61.968,21.343994140625,23.476/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -597,7 +597,7 @@ and bomb ketches, with floating batteries at the
 mouths of the Mississippi, and the passes from  
 lake Ponchartrain, will be necessaiy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807013001:0342/pct:51.672771672771674,2.816450632101136,42.78388278388278,93.4069451112178/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807013001:0342/pct:51.66015625,2.816,42.779541015625,93.396/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -792,7 +792,7 @@ Burr, and the others wiH follow under
 due precautions, .by the earliest oppor­  
 tunities.wbVch.miy present
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1807020601:0712/pct:73.6842105263158,33.44319167389419,20.507226615762203,32.66261925411969/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1807020601:0712/pct:73.66412213740458,33.437391605966006,20.50845147219193,32.66129032258065/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -843,7 +843,7 @@ floating batteries at the mouths of tlje
 -Mississippi and the passes from lakb  
 Poochsrtriio will be Bectasafy. &lt; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1807020601:0712/pct:73.4115080447232,69.12402428447528,21.843468775565857,28.256721595836947/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1807020601:0712/pct:73.39149400218102,69.11203607353451,21.84432933478735,28.256156781130766/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1027,7 +1027,7 @@ the others will follow under due precautions,
 by the eartieft opportunities which may jsre­  
 fent
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1807020901:0132/pct:40.3176748901656,15.057185479860765,36.19466035822913,77.97115862754848/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1807020901:0132/pct:40.310863321507014,15.05568814638027,36.19276904882582,77.96589101034209/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1068,7 +1068,7 @@ wi h floating batteries at the mouths of the
 Mifliffippi and the patties from Lake Poucbar­  
 train will be liecefTary.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1807020901:0132/pct:58.19533626225076,27.240179015415215,18.01284217641095,15.037294878170064/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1807020901:0132/pct:58.18550430816016,27.23747016706444,18.014022638959283,15.038285600636437/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1123,7 +1123,7 @@ the otners will follow under duf precau­
 tions, by the ecarlieft oppostanities which  
 mey prelent
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1807021001:0443/pct:41.58322903629537,54.97099419883977,16.59887359198999,24.2748549709942/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1807021001:0443/pct:41.588443888193574,54.97099419883977,16.604088443888195,24.288190971527637/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1149,7 +1149,7 @@ flicition of miy country, 1 fhou&#x27;d indeed be
 most grevioudly disappointed did 1 incur ins  
 genfase.. Ul SR e e B
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1807021001:0443/pct:41.66145181476846,84.56691338267653,16.551939924906133,7.001400280056012/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1807021001:0443/pct:41.66145181476846,84.56691338267653,16.55715477680434,7.008068280322731/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1173,7 +1173,7 @@ bomb ketches with finating bacteries at the
 mouths of the Mifliflippi 2nd the »vafles  
 fien Lake Ponchartrain will be necellary.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1807021001:0443/pct:41.58322903629537,15.793158631726346,34.26157697121402,80.59611922384477/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1807021001:0443/pct:41.588443888193574,15.799826631993065,34.27200667501043,80.59611922384477/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

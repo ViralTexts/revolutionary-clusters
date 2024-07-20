@@ -124,7 +124,7 @@ con It a lit prayers for their welfare. With a
 friendly folicdnde for your Majefly&#x27;s per foil, f  
 pray God that he may always
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1807080401:0109/pct:44.85387547649301,77.30247212796898,17.117444182247233,12.675714978187106/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1807080401:0109/pct:44.84573502722323,77.29310553738034,17.120387174833635,12.678218021729473/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -160,7 +160,7 @@ prayers tor their welfare. With a friendly solicitude
 for your majesty’s person, I pray God that he may  
 always
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807080501:0657/pct:73.0827447023209,75.79422673762296,21.796165489404643,14.836316723109176/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807080501:0657/pct:73.06431273644388,75.78200580457917,21.796973518284993,14.837955498226378/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -193,7 +193,7 @@ their welfare. With a friendly sofeitude
 for your majesty’s person, I pray f» d yli;.t  
 he may always have you, great hnd
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807080501:0256/pct:41.010598031794096,4.761904761904762,17.354277062831187,10.567863509039979/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807080501:0256/pct:41.00283822138127,4.761298535964354,17.357300536108482,10.570761722894122/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -267,7 +267,7 @@ With a friendly solicitude for your
 Majesty’s person, I pray God that lie  
 may always
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1807081001:0237/pct:25.932804322134054,1.5620182920563148,35.218639203106534,88.16154557599424/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1807081001:0237/pct:25.928426738690074,1.5618577887381833,35.21691424713032,88.15505548705302/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -357,7 +357,7 @@ citude for your majescy&#x27;s person, I PKAY
 God, that he lnilyaivmysinn&#x27;e you GREAT  
 and GOOD Isi&#x27;RIEND in his holy keep
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808101501:0461/pct:46.049457177322076,12.139412139412139,23.371531966224367,21.13022113022113/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808101501:0461/pct:46.04251469923112,12.138307552320292,23.373033820795015,21.13133151349712/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -404,7 +404,7 @@ keeping.
 Written at the city cr Washington,  
 the 28t!i day of Feb. 1 807
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808102401:0491/pct:6.5587590625526895,66.41624365482234,17.34951947395043,21.705583756345177/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808102401:0491/pct:6.557653405259609,66.40950157344432,17.350809170600137,21.705918180895342/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

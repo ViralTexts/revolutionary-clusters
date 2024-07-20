@@ -144,7 +144,7 @@ election as Giverftor, without reference
 to any particular inftanee of paft con­  
 duct, or to private character.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804072301:0002/pct:57.18811881188119,20.82092451120031,16.85148514851485,13.919461349216625/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804072301:0002/pct:57.194719471947195,20.82092451120031,16.871287128712872,13.923777461262894/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -189,7 +189,7 @@ ticular instance of past conduct, or to pri­
   
 vate cnaracter. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804072401:0017/pct:7.364244978923878,55.58359621451104,22.712620877758493,13.911671924290221/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804072401:0017/pct:7.362419434804164,55.574830468380384,22.71318790282598,13.913420596120485/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -221,7 +221,7 @@ t&#x27;d from them, in the event of 2ns election as go­
 ■ n-itr. ;ut rilerencs ro any nantcucir ;n­  
 lance ofpiilt conduit, or to private character.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804072501:0098/pct:58.402752625860195,2.261369315342329,35.07787033683448,94.36531734132933/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804072501:0098/pct:58.39217816404128,2.2610868207370394,35.07755446918945,94.35769310847387/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -255,7 +255,7 @@ of his election as Governor, without re
 Terence to any particular instance of past  
 conduct, or to private c haracter.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804072501:0223/pct:42.665645346610496,72.05343111576742,17.63692072003064,13.383970665269775/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804072501:0223/pct:42.65747654604633,72.04399633363886,17.63992596847278,13.386582864126401/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -286,7 +286,7 @@ from them in the event of his ele€tion as Gov.
 ernor, withot reference to any particular in­  
 faace of paft condull, or to private charaller.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1804072601:0528/pct:46.58596557594099,59.12725611149189,19.803291091356158,10.829335161069226/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1804072601:0528/pct:46.58596557594099,59.131063894600565,19.8095958640691,10.829335161069226/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -369,7 +369,7 @@ pected from them iu tl.•* event of los e lection a*­
 governor, without reference to any particular  
 inftance of pall conduct, or to private character 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016081:00332895060:1804073001:0159/pct:48.882990488829904,20.431115276476103,22.73833222738332,12.00963984469139/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016081:00332895060:1804073001:0159/pct:48.87218045112782,20.428380187416334,22.738832375055285,12.011378848728246/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -405,7 +405,7 @@ nor, without referefice to any particu­
 lar instance of palt condué, or to pri­  
 vate chara@er.’’ 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804073101:0535/pct:5.497748097530672,63.36405529953917,17.161049852461563,14.71774193548387/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804073101:0535/pct:5.5029248848164825,63.36405529953917,17.16622663974737,14.727342549923195/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -440,7 +440,7 @@ vernor, without reference to any parti,
 cular instance of past conduct or of pri*  
 rate character.’ :t.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1804080301:0311/pct:48.8453276047261,66.07173800034656,19.817400644468314,15.803153699532144/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1804080301:0311/pct:48.83221476510067,66.06029106029106,19.818791946308725,15.804747054747054/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

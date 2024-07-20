@@ -141,7 +141,7 @@ of the said Penitentiary, and other purposes, on
 a plan to be approved by the President of the  
 United St
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826040501:0237/pct:21.083430864403947,8.072858106588711,17.772947667614112,18.41691027659096/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826040501:0237/pct:21.07990638582414,8.07195053400787,17.775548868828707,18.418587221285367/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -183,7 +183,7 @@ District of Columbia, on which to erect a Peni­
 tentiary for the said District, and “to select  
 a site in the county of Alexandria for a Coum
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826060201:0428/pct:40.18379281537176,7.698324022346369,17.727652464494568,5.4860335195530725/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826060201:0428/pct:40.17707985299031,7.697463970506089,17.730259494375765,5.4891446020928765/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -202,7 +202,7 @@ select a proper site in il.e District of Columbia, on which
 to erect a Penitentiary for th? saiil Distrirf,” ami ‘‘to s*­  
 It-Ci a silo in the roomy of Alexandria for a County Jail,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826060601:0133/pct:5.139220365950676,72.59380097879283,17.740652346857598,2.563505010487066/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826060601:0133/pct:5.138402799872733,72.58534312012117,17.743132887899034,2.5670899840770516/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -222,7 +222,7 @@ the Dis&#x27;rict of Columbia, on which to erect a
 penitentiary fot the said District,” and “ to select  
 a site in the county of Alexandria for a Count
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826060901:0042/pct:51.04828462515883,87.4955041361947,14.787166454891995,3.2729888502577626/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826060901:0042/pct:51.040177862474195,87.48501558379286,14.790111693398973,3.276592343962279/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -303,7 +303,7 @@ Penitentiary, for the said Distriet.
 Sec. d Aad be it further epacted, That  
 us sgon as the said commisstoners shal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1826062901:1082/pct:39.13638139898398,13.634198618718743,35.560765924189134,84.7463681829007/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1826062901:1082/pct:39.13638139898398,13.634198618718743,35.57379184577309,84.75827577994761/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -320,7 +320,7 @@ the said Commigsioners shall also select a
 site in the county of Alexandria, for a coun­  
 ty jail, on which it shall be the dutvof th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1826062901:1082/pct:56.91676436107855,38.06858775899023,17.897616256350137,1.774231959990474/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1826062901:1082/pct:56.92327732187052,38.06858775899023,17.91064217793409,1.7821703580217512/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -434,7 +434,7 @@ itentiary, f a the said District.
 Sec. 2 tnd hr it further enacted, That,  
 a* somi as the s ml commissioners shall hav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348811:1826100201:0069/pct:21.54601751014307,59.37187723054961,15.011744608157164,10.892219842969308/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348811:1826100201:0069/pct:21.541417591801878,59.363402797602056,15.013877028181042,10.894233514130745/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -465,7 +465,7 @@ proper site ia the District of Columbia, on which
 to erect a Penitentiary, for the said District,  
 Sec. 2. And be it furthrr enacted, That, a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1826100301:0157/pct:4.906542056074766,72.40183579806221,16.61993769470405,9.821519632840388/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1826100301:0157/pct:4.906542056074766,72.40523542410335,16.63032191069574,9.828318884922659/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -509,7 +509,7 @@ select B site for the erection of a Penitentiary for
 tiie Distuct, and also a site in the county of Alex­  
 andria for a county Jail: both of which obiec’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826120701:0264/pct:82.10892970234326,50.92670094463709,14.772007599746676,5.225397584598828/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826120701:0264/pct:82.09593161310748,50.920612147297945,14.774945913144425,5.228758169934641/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -581,7 +581,7 @@ appointed to select a site for the erection of
 a Penitentiary for the District, and also a site  
 in the county of Alexandria for a county Jail 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1826121201:0199/pct:22.732189769741925,53.70836268491497,16.334415082676557,5.2631578947368425/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1826121201:0199/pct:22.732189769741925,53.70836268491497,16.355019832071292,5.2631578947368425/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -194,7 +194,7 @@ The British war has left us in debt, but that is a cheap price
 for the good it has done; the establishment of the necessary  
 manufactures amiong ourselves;&quot; &amp;c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184613:1843042001:0364/pct:51.70611296645855,247.76119402985074,39.785102366777984,4.905704037949786/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184613:1843042001:0364/pct:17.232868757259002,82.57751041184636,13.259775454897406,1.635045503624865/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -233,7 +233,7 @@ ment of the necessary mannfactures among ourselves;
 the proof that our Government is solld, can stand the  
 shock of war, and is superior even to civil chism.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_lorca_ver01:data:sn83030272:00206533109:1888102101:0609/pct:283.34612432847274,300.3050640634533,50.575594781273985,6.528370957901159/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_lorca_ver01:data:sn83030272:00206533109:1888102101:0609/pct:70.8637236084453,75.07626601586333,12.648752399232245,1.6320927394752898/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -255,7 +255,7 @@ that our Government is solid, can
 stand the shock of war, and is supe­  
 rior even to civil schism.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_neely_ver01:data:sn85059778:00340582135:1888110901:0364/pct:46.18192026951151,91.38978930307941,11.987647389107243,4.6089951377633716/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_neely_ver01:data:sn85059778:00340582135:1888110901:0364/pct:46.175438596491226,91.38053276612985,11.9906432748538,4.611904520746818/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -275,7 +275,7 @@ factures among ourselves the proof that our
 Government is solid can stand the shock of  
 war and Is superior oven to civil schis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_borges_ver01:data:sn83030272:00175044851:1889070401:0630/pct:66.40378548895899,252.19705032689677,51.89274447949527,13.866504485327656/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_borges_ver01:data:sn83030272:00175044851:1889070401:0630/pct:16.600946372239747,63.04926258172419,12.973186119873818,3.466626121331914/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -355,7 +355,7 @@ is solid and can stand the shock of war, and is
 superior even to civil schism, are precious facts  
 for us.&quot;-To MarqUIS De LafavEttE G1817.)
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042945:1897070401:0439/pct:208.93393393393393,168.24529447480268,49.92492492492492,17.729204614450516/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042945:1897070401:0439/pct:52.23348348348348,42.06132361870067,12.48123123123123,4.432301153612629/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -447,7 +447,7 @@ from their priests and advancement in
 in information shall prepare them for  
 complete indepeneduce.?Jefferso
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_manhattan_ver01:data:sn84020355:00279554875:1898101701:0981/pct:17.655172413793103,8.099730458221025,36.63054187192118,84.33962264150944/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_manhattan_ver01:data:sn84020355:00279554875:1898101701:0981/pct:17.669950738916256,8.10309973045822,36.6256157635468,84.33962264150944/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -512,7 +512,7 @@ from their priests and advancement in
 in information shall prepare them for  
 complete indepenednce.-Jefferso
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_keystone_ver03:data:sn86076366:00279555132:1898102101:0379/pct:175.12044046799724,93.86162190765974,95.54370268410186,274.9437756316973/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_keystone_ver03:data:sn86076366:00279555132:1898102101:0379/pct:43.78011011699931,23.465405476914935,23.885925671025465,68.73594390792432/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

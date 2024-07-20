@@ -323,7 +323,7 @@ with observations upon and answers to the several ob
 lections made by the agents en the part of New York  
 This document embraces 12s folio pages. it contain
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:0027174318A:1843110801:0545/pct:109.59974485727955,29.249634379570256,49.720937649497685,9.652379345258185/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:0027174318A:1843110801:0545/pct:36.533248285759846,9.749878126523418,16.573645883165895,3.217459781752728/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

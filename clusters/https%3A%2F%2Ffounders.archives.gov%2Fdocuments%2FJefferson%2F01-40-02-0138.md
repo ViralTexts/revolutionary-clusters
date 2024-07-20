@@ -32,7 +32,7 @@ resignation none. Can any other inode
 than removal be proposed ? I shall pro­  
 ceed with deliberation, that It mar b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1804081701:0321/pct:30.937240807298867,54.27974947807933,20.016588332872548,3.7404314544189283/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1804081701:0321/pct:30.928689883913766,54.27030787963124,20.017965726920952,3.7441294138110974/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -49,7 +49,7 @@ vacancicH to be obtained ? TIiohc by deutii are lew,
 by resignation none. Can any other mode than that  
 of removal he proposed f
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661368:1849080201:0192/pct:71.27337733773378,11.31629804595233,13.256325632563255,2.093622503757784/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661368:1849080201:0192/pct:71.27337733773378,11.319876887839095,13.274660799413274,2.0972013456445495/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -89,7 +89,7 @@ fice is a matter of right, how are vacancies to
 be obtained? Those by death are few; by  
 resignation none
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ulan_ver01:data:sn90059522:00175035382:1884062901:0526/pct:70.65427118049465,31.142355008787348,13.225749868444133,4.510837727006444/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ulan_ver01:data:sn90059522:00175035382:1884062901:0526/pct:70.66011810793428,31.146260495996877,13.231596795883764,4.518648701425503/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -108,7 +108,7 @@ tow are vacancies to be obtained? Those by
 death are few, by resignation none.&quot; The  
 policy thus indicated was also carried ou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044851:1884120301:0300/pct:67.62048192771084,181.49992455107892,51.05421686746988,11.46823600422514/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044851:1884120301:0300/pct:16.914673196458843,45.37498113776973,12.770766622716142,2.867059001056285/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -127,7 +127,7 @@ j I matter of right how are vacancies to be
 obtained Those by death are few by  
 i resignation none There has been 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_eaton_ver01:data:sn85058130:00206535106:1885061401:0566/pct:3.145559210526316,64.60164643504953,34.86842105263158,4.590484163527278/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_eaton_ver01:data:sn85058130:00206535106:1885061401:0566/pct:2.097902097902098,43.072415236500625,23.262032085561497,3.055671829217246/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -161,7 +161,7 @@ vacancies to be obtained? Those by death are few, by
 resignation none Can any other mode than that erre  
 movat be proposed?&quot; But of rotation in office, h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_milosz_ver01:data:sn83030272:00175044978:1891091301:0699/pct:327.61538461538464,76.94849076437903,71.92307692307692,6.847875056314762/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_milosz_ver01:data:sn83030272:00175044978:1891091301:0699/pct:81.93535975375144,19.237122691094758,17.98768757214313,1.7119687640786905/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -191,7 +191,7 @@ of office Is a matter of right, how are
 vacancies to bo obtained? Those b)  
 death are few; by resignation none.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_garwood_ver02:data:sn84029386:00237285256:1892120101:0382/pct:27.3224043715847,15.736815329828726,15.98360655737705,12.599626928946922/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_garwood_ver02:data:sn84029386:00237285256:1892120101:0382/pct:20.50113895216401,11.802611497371545,12.004555808656036,9.462438528065118/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -212,7 +212,7 @@ matter of right, how are vacancies to be
 obtained? Those by death are fetf; by  
 resignation, none.” But the system o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_ketchup_ver01:data:sn87068192:00279529662:1893062901:0630/pct:66.56346749226006,17.099002302379127,14.396284829721361,4.466615502686109/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_ketchup_ver01:data:sn87068192:00279529662:1893062901:0630/pct:66.54875082909574,17.0963781461019,14.398629228388238,4.4697667280540205/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -241,7 +241,7 @@ is a matter of right, how are vacancies
 to be created? Those by death are  
 few, by resignation none,&quot; which sen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_blackwidow_ver01:data:sn84021913:00211105148:1897040101:0265/pct:85.36036036036036,152.1001390820584,47.147147147147145,12.072322670375522/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_blackwidow_ver01:data:sn84021913:00211105148:1897040101:0265/pct:21.34810364250845,38.0250347705146,11.791212917761923,3.0180806675938805/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

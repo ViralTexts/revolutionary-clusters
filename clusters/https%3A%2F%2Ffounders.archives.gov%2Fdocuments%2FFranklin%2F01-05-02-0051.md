@@ -345,7 +345,7 @@ she let go the bridle and soon come tum­
 bling out of the saddles.  
 The master&#x27;s eye will do more wor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn89080032:00415668132:1849022701:0539/pct:18.013946280991735,104.9011269402509,38.00361570247934,38.62428237295343/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn89080032:00415668132:1849022701:0539/pct:6.0046487603305785,34.96704231341697,12.667871900826446,12.874760790984478/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -386,7 +386,7 @@ The master&#x27;s eye will do more work than both
 A change of future hurts a wise man no more  
  than a change in the moon.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn85025180:00212477606:1849030301:0502/pct:259.2074592074592,271.6787927782269,57.18725718725719,16.760980867690648/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn85025180:00212477606:1849030301:0502/pct:64.82705013602798,67.91969819455673,14.302370773416246,4.190245216922662/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -422,7 +422,7 @@ When prosperity was well mounted, she
 let go the bridle, and soon came tumbling  
 out of the saddle
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776014:1849031001:0810/pct:171.83908045977012,176.54164910802078,50.7183908045977,9.102402022756005/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776014:1849031001:0810/pct:42.97520661157025,44.135412277005194,12.68415379087316,2.275600505689001/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -439,7 +439,7 @@ When prosperity was well mounted, she let go the
 bridle, and soon came tumbling out of the saddle.  
 The master&#x27;s eyes will do more work than both hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347922:1849031201:0253/pct:210.5615470435106,275.3709198813056,59.44589066567497,7.927087749046206/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347922:1849031201:0253/pct:52.63060048336122,68.83300367335406,14.858709797360104,1.981491946877649/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -458,7 +458,7 @@ The saddle.
 The master&#x27;s eyes will do more work than  
 both his hands.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215828:1849031601:0086/pct:2.8397963180571875,31.716234268438445,13.219741480611045,2.6154819658299937/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215828:1849031601:0086/pct:2.839518261039851,31.71400449943757,13.221710891347628,2.617641544806899/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -487,7 +487,7 @@ thought afraid: the rest is counterfeit.
 When prosperity was well mounted, she let go the  
 bridle and soon came tumbling out of the saddle.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82014405:00415660935:1849033101:0319/pct:43.03966437833715,89.92469879518072,13.672768878718536,7.725903614457831/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82014405:00415660935:1849033101:0319/pct:43.05237732011187,89.93473895582329,13.666412407831173,7.725903614457831/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -518,7 +518,7 @@ climb.
 When prosperity was well mounted, she let go the  
 bridle, and tumbled out of the saddle.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191265:1849041801:0148/pct:261.7058311575283,224.91830749895266,57.57180156657964,15.11520737327189/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191265:1849041801:0148/pct:65.42645778938207,56.229576874738164,14.39295039164491,3.7788018433179724/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -583,7 +583,7 @@ When prosperity was well mounted,
 she let go the bridle and soon came tumb­  
 ling out of the saddle.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn86071377:00212477618:1849053101:0032/pct:30.33791866028708,56.650585802894554,19.52751196172249,8.867447737192741/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn86071377:00212477618:1849053101:0032/pct:22.767389678384443,42.48793935217092,14.659685863874346,6.650585802894556/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -644,7 +644,7 @@ than a change in the Moon, . •
 go the bridle and soon came tumbling out of the  
 r saddle
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:0041562444A:1849061601:0404/pct:101.8237749945067,71.03764631445745,18.940892111623818,1.8506801645049036/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:0041562444A:1849061601:0404/pct:78.9237668161435,55.058842759071595,14.667650564795368,1.4302059496567505/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -706,7 +706,7 @@ out of the saddle.
 &quot;t3r When Prosperity was well mounted she let  
 i . go the brille, and soon came tumbling out of the saddle
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ingstad_ver01:data:sn90068957:00296027005:1849092201:0123/pct:9.294871794871796,49.11173102334459,20.512820512820515,1.3654382616355896/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ingstad_ver01:data:sn90068957:00296027005:1849092201:0123/pct:6.982543640897756,36.83746880046983,15.390096188101175,1.027749229188078/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -758,7 +758,7 @@ When prosperity wns well mounted, she let
 go the bridle and soon came tumbling out of  
 the saddle.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn85042796:00202193973:1850061401:0187/pct:1.7295308187672493,60.932244113407016,18.87764489420423,2.114368092263335/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn85042796:00202193973:1850061401:0187/pct:1.7417969947868752,60.94025308345347,18.889911070223857,2.118372577286561/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -801,7 +801,7 @@ When&#x27; Prosperity was well mounted
 she let go the bridle, and soon came  
 tumbling out of the saddle
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82014751:00513688222:1851032601:0395/pct:61.82728410513141,78.63146679294424,14.565081351689612,13.649816502900437/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82014751:00513688222:1851032601:0395/pct:61.83771380892782,78.6393591413125,14.565081351689612,13.64587032871631/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -847,7 +847,7 @@ When prosperity was well mounted, sh
 go the bridle, and soon came tumbling  
 out of the saddle.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_flareon_ver02:data:sn82014073:00279529200:1852012901:0512/pct:21.082854799015585,261.7351371478218,37.210828547990154,21.422365644780935/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_flareon_ver02:data:sn82014073:00279529200:1852012901:0512/pct:7.0276182663385285,87.24504571594059,12.403609515996719,7.1407885482603115/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -867,7 +867,7 @@ When prosperity was well mounted, she let
 go the bridle, and soon came tumbling out of  
 the saddle.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:0020219090A:1852042801:0359/pct:233.59429366736256,162.2280900289199,41.59707724425887,7.607192254495159/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:0020219090A:1852042801:0359/pct:77.86476455578752,54.076030009639965,13.865692414752958,2.5357307514983862/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -902,7 +902,7 @@ the saddle.
 The Aldermen of Boston have unanimously  
 concurred in the resolution of the Council, in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1852051301:0475/pct:235.27197440240917,324.6621621621622,50.23527197440241,50.07038288288288/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1852051301:0475/pct:58.80692510350019,81.15411681914145,12.55645464809936,12.515833919774806/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -961,7 +961,7 @@ Despatch and bkili, but neither of them ever
 learned their master’s trade.  
 The improving man may start in life with 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn93051028:00279557931:1857050901:0329/pct:5.309917355371901,72.0257716511837,15.309917355371901,5.858555588852263/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn93051028:00279557931:1857050901:0329/pct:5.320247933884297,72.0257716511837,15.304752066115702,5.877284986514834/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -984,7 +984,7 @@ When prosperity was well mounted, she
 let go the bridle, and soon came tumbling  
 out of the saddle.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn93051028:00279557931:1857082901:0392/pct:49.51656037852294,89.93870533712065,15.284920798189672,6.129466287935417/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn93051028:00279557931:1857082901:0392/pct:49.51656037852294,89.94618029600838,15.284920798189672,6.129466287935417/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1010,7 +1010,7 @@ prosperity was well mounted, she
 let go the bridle, and soon came tumbling out  
 of the saddle.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn85025090:00279557463:1857090501:0208/pct:51.113617141246124,88.78261773573136,14.082323089935157,6.507953009668364/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn85025090:00279557463:1857090501:0208/pct:51.12301475425242,88.78261773573136,14.07292547692886,6.5183491007381225/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1045,7 +1045,7 @@ When prosperity was well mounted,
 fcho let go tho bridle, and soon came  
 tumbling out of the saddle.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:00237286911:1860030801:0652/pct:7.243633860977289,88.08722573697672,16.431520991052995,16.71826625386997/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:00237286911:1860030801:0652/pct:5.438898450946644,66.06541930273254,12.323580034423408,12.545430071342038/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1095,7 +1095,7 @@ of the saddle.
 The master&#x27;s eyes will do more than both  
 his hands.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn82015672:00296021969:1860072701:0272/pct:178.35120643431637,338.4697414022927,50.603217158176946,11.570247933884298/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn82015672:00296021969:1860072701:0272/pct:44.60274891049279,84.61743535057317,12.655045256453235,2.8925619834710745/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1121,7 +1121,7 @@ A false friend and a shadow attccd only
 while the sua shines.  
 He is a fool who makes the doctor his hei
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn86071378:00212477643:1860092601:0171/pct:78.50902737332557,96.94795581368865,18.724519510774606,9.452226397904568/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn86071378:00212477643:1860092601:0171/pct:58.89892222545878,72.71381391641043,14.054762598310516,7.094863910716319/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1158,7 +1158,7 @@ it is about to climb.
 When prosperity was well mounted, she  
 let go the bridle and tumbled off the saddle.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn84028745:00280775320:1862012401:0528/pct:11.62280701754386,37.99323562570462,16.045321637426902,3.4808342728297634/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn84028745:00280775320:1862012401:0528/pct:8.721886999451455,28.494926719278467,12.04973486926312,2.62119503945885/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1243,7 +1243,7 @@ the saddle. _
   
 i }sgJf Fof the West Jersey Pioueer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340603:1862080201:0327/pct:44.05114899925871,19.915254237288135,23.313565604151222,77.44968220338983/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340603:1862080201:0327/pct:44.042986844543265,19.91261750297895,23.313878080415044,77.44273798490666/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1274,7 +1274,7 @@ no more thuu a change of the moon.
 He that has a trade has uo office of  
 profit and honor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn86081096:00296028678:1862100101:0285/pct:7.940947940947941,32.350352112676056,14.467754467754467,11.399647887323944/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn86081096:00296028678:1862100101:0285/pct:7.951307951307951,32.350352112676056,14.467754467754467,11.40331572769953/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1343,7 +1343,7 @@ hen prosperity was well mounted
 she let go the bridle, and soon came  
 tumbling out of the saddle.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_iceberg_ver01:data:sn83025668:00415629217:1862122301:0328/pct:20.520915548539858,377.98992309732165,50.51302288871349,7.319013524264121/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_iceberg_ver01:data:sn83025668:00415629217:1862122301:0328/pct:5.130228887134964,94.49748077433041,12.628255722178373,1.8297533810660302/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1376,7 +1376,7 @@ If you would not bo forgotten as
 soon as you are dead and rotten, oither  
 write something worth reading or d
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_flint_ver01:data:sn97063063:00296024314:1865122701:0426/pct:128.16210635002582,42.645726366656596,16.313887454827054,15.433403805496829/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_flint_ver01:data:sn97063063:00296024314:1865122701:0426/pct:85.45243319994837,28.430484244437732,10.881631599328772,10.288935870331219/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1417,7 +1417,7 @@ A lalsehood and a shadow attend only when
 the sun shines.  
 Plough deep while sluggards sleep
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348707:1870033101:0226/pct:4.072318764261892,54.00448607995778,12.480252764612954,5.739543475392532/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348707:1870033101:0226/pct:4.071604071604072,53.99736147757256,12.482449982449982,5.742084432717678/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1548,7 +1548,7 @@ tumbling out of the saddle.
 It would only be a slight mispronun  
 ciation to call cremation the &quot; bourn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn87076843:00280775745:1874052201:0893/pct:110.5461085676913,47.69707134563282,14.20863309352518,3.4576183718229907/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn87076843:00280775745:1874052201:0893/pct:82.95435956159005,35.776028899496836,10.665794209062653,2.593213778867243/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1571,7 +1571,7 @@ IT ia one of the curiosities of natural
 history that a horse enjoys his food  
 most when he hasn&#x27;t a bit in his mouth.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quasar_ver01:data:sn85025431:0021247972A:1874060401:0113/pct:92.3663198645052,21.317342102717863,10.561335591579967,3.491633620272754/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quasar_ver01:data:sn85025431:0021247972A:1874060401:0113/pct:83.13069357238776,19.18869512230508,9.519834500780314,3.142500652874097/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1594,7 +1594,7 @@ is one of the curiosities of natural
 history that a horse enjoys his food  
 most when he hasn&#x27;t a bit in his mouth.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quasar_ver01:data:sn85025431:0021247972A:1874060401:0114/pct:92.52699259978164,21.757200850570268,10.57867281329613,2.8900057993427413/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quasar_ver01:data:sn85025431:0021247972A:1874060401:0114/pct:83.27692251701423,19.58419114448923,9.520690031662845,2.603879722794096/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1635,7 +1635,7 @@ I’he bread of life is love ; the salt of
 life is work; the sweetness of life,  
 poetry ; the water of life, faith.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033255:0051415238A:1874060901:0747/pct:82.63851290380798,7.1258907363420425,34.416170366359864,116.67986276062285/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033255:0051415238A:1874060901:0747/pct:64.05426826425474,5.52260175905093,26.67257214788568,90.43430831117475/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1657,7 +1657,7 @@ would be very silent if no birds sang there
 but those who sing best.  
 Think before you speak, and think befor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685270:1874070201:0310/pct:84.56321653479735,51.83129855715871,11.02858065557888,3.4406215316315207/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685270:1874070201:0310/pct:84.54956409428479,51.8249075215783,11.030836293186955,3.44327990135635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1674,7 +1674,7 @@ Think before you speak, and think befor
 You may give aman.an office, but you  
 cannot give him discretion.—Poor Ric
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quasar_ver01:data:sn85025431:0021247972A:1875040801:0340/pct:45.936308865117425,46.715328467153284,11.619328661010696,1.2360097323600974/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quasar_ver01:data:sn85025431:0021247972A:1875040801:0340/pct:41.35005533013648,42.043795620437955,10.464773146440427,1.1182481751824818/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1860,7 +1860,7 @@ by visiting seldom.
 He that doth what he should not shall feel  
 what he would not.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685142:1891080601:0591/pct:50.20937188434696,40.95614274039771,21.435692921236292,8.934895123944429/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685142:1891080601:0591/pct:50.1993620414673,40.95056516410187,21.43806485911749,8.938217803804076/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1881,7 +1881,7 @@ USELESS REMONSTRANCE.
 Two of the best-known hunters of California  
 are the two Aris, Ari Hopper, father and son, o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685142:1891080601:0591/pct:50.32901296111665,68.07409425224735,21.435692921236292,4.957777172432579/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685142:1891080601:0591/pct:50.31897926634769,68.0648236415634,21.43806485911749,4.961641472604295/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1899,7 +1899,7 @@ In the affairs of this world men
 are saved not by faith but by the  
 want of i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_airplane_ver01:data:sn87060004:00100481649:1893081001:0285/pct:6.948324022346369,45.976700081278786,14.50768156424581,3.156326198862097/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_airplane_ver01:data:sn87060004:00100481649:1893081001:0285/pct:5.221795319594831,34.48929829314549,10.880195599022004,2.3706312652397723/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1995,7 +1995,7 @@ No morning sun lasts a whole day,
 &quot;For age and want save while you may  
 &quot;No morning sun lasts a whole day.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043020:1898091201:0372/pct:80.0601956358164,24.313123561013047,40.78254326561324,3.131235610130468/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043020:1898091201:0372/pct:20.022581859239743,6.078280890253262,10.199473089951073,0.782808902532617/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2011,7 +2011,7 @@ No morning sun lasts a whole day,
 &quot;For age and want save while you may.  
 &quot;No morning sun lasts a whole day
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043020:1898091401:0387/pct:339.95433789954336,173.56516387136483,42.694063926940636,3.2004923834436068/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043020:1898091401:0387/pct:85.02093642938713,43.39129096784121,10.677578987438142,0.8001230958609017/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -116,7 +116,7 @@ Le produced, aworn and examined on the part of Jonn Charles
 Fitmont, the defendant in a certain action on promises now  
 sending is our Court, before the Barons of out Exchequer a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530510:1856092001:0565/pct:3.91541384437469,104.70135324311713,47.001486866016855,8.80774615025665/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530510:1856092001:0565/pct:1.3051379481248968,34.900451081039044,15.667162288672284,2.9359153834188834/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -325,7 +325,7 @@ commissisners, and direct the same to the clerk of the
 court oat of which the same issued at the place of hold­  
 ing the said court, and may place the same in any pos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685282:1877041901:0481/pct:15.263417035942885,85.4395265688571,11.160347940259314,4.980890149180126/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685282:1877041901:0481/pct:15.26091237282573,85.42899408284023,11.162618969478176,4.983357988165681/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -381,7 +381,7 @@ dence of your prudence and fidelity, have
 appointed and by these presents do ap­  
 point that the testimony of said witness b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_firebaugh_ver01:data:sn82015104:0028076873A:1896111901:0164/pct:66.54435226547542,49.07172995780591,13.497128270580728,4.4831223628691985/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_firebaugh_ver01:data:sn82015104:0028076873A:1896111901:0164/pct:66.55498830036163,49.07172995780591,13.491810253137631,4.486638537271449/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

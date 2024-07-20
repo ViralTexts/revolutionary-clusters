@@ -50,7 +50,7 @@ of the belligerent power?, having in force
 [orders or decrees violating the lawful com­  
 merce and neutral rights of the U. States 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808112901:0242/pct:40.87323426894148,3.528087076191668,17.684828471840028,1.739021643938446/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808112901:0242/pct:40.86573734409391,3.5276457343007257,17.68769870383957,1.7429738970894837/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -68,7 +68,7 @@ the beliigerent powers, haviag in force
 orders or decrees violating the lawful  
 commerce and neutral riclits of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808120601:0194/pct:25.413510588962744,23.341350972138706,16.07667336528057,2.705953096812989/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808120601:0194/pct:25.413510588962744,23.341350972138706,16.09213170505488,2.715975145319703/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -85,7 +85,7 @@ get-ent powers&#x27;, having inss force orders or de­
 crees violating the lawful Commerce &quot;and  
 neutrzd rights of&#x27; the United States—ands
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216092:1808122001:0057/pct:46.77513073794306,15.349827081670657,22.414294015107497,2.403121397534805/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216092:1808122001:0057/pct:46.7683369644154,15.348466040078028,22.415879932219802,2.4058639238635693/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -112,7 +112,7 @@ of the beltigerent powers, having in force
 orders or decrees violating the lawful com­  
 merce and neutral ru*lit«. of tlw IT
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808122301:0419/pct:5.78927773641102,62.15251211425657,17.609828741623232,7.4470798265748535/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808122301:0419/pct:5.7882002605620695,62.14458753028178,17.612755133693156,7.450380381656679/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -130,7 +130,7 @@ erent powers, having in force orders
 - or decrees violating the lawful com­  
 mercé and neutral rights of the U
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808122701:0207/pct:3.58502538071066,12.868794683314873,17.020939086294415,2.7590373577686034/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808122701:0207/pct:3.595600676818951,12.875507669586815,17.01565143824027,2.762393850904575/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -161,7 +161,7 @@ navigation ofthe high sees against any na­
 tion or nations haying-ill force edicts, orders  
 or decrees,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809012501:0002/pct:58.72952457051538,19.394018545122112,16.5601278465841,4.988899046624004/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809012501:0002/pct:58.72952457051538,19.394018545122112,16.58010387534958,4.9976056767228245/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -184,7 +184,7 @@ orders or decrees} violating the lawful
 eommerce and neutral rights of the Unitetl  
 ,States. &#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216092:1809012601:0177/pct:47.70404271548436,67.12690176765456,23.142639206712435,6.965086623867734/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216092:1809012601:0177/pct:47.696766320927395,67.12099894477664,23.14419361399227,6.967405323015594/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -210,7 +210,7 @@ nation or nations, having in force edicts,
 orders or decrees, violating the lawful com­  
 merce and neutrai rights of)&quot; the U. States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216092:1809013001:0189/pct:46.69464847848898,39.976689976689975,22.950082446409834,7.270934194011117/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216092:1809013001:0189/pct:46.687649880095925,39.97310623038996,22.95163868904876,7.273270581204243/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -232,7 +232,7 @@ tion or nations haVifig m force edicts, orders
 °r decrees, violating thl lawful commerce  
 and neutral rights ot the LI. States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809013101:0342/pct:23.96576319543509,77.95954045954046,16.79743223965763,4.57042957042957/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809013101:0342/pct:23.96149046175789,77.94980646772382,16.80038034111844,4.57402089316186/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -255,7 +255,7 @@ edicts, orders or decrees, violat ngfthe law
 ful commerce and neutral righ a of the U.  
 States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809013101:0040/pct:6.042921686746988,44.488900361383585,17.846385542168676,5.278781621063501/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809013101:0040/pct:6.041784302653868,44.48315911730546,17.84930045799611,5.28240203036951/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -279,7 +279,7 @@ orders or decree*, violating the lawful com­
 merce and ucuiral rights of the United  
 States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809013101:0040/pct:24.077560240963855,39.98451213216314,17.789909638554217,5.756324212700052/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809013101:0040/pct:24.07302842085451,39.97935217447412,17.79283518413953,5.759882995655353/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -330,7 +330,7 @@ cies, and all other powers, having in
 force orders or decrees, violating the  
 lawful commerce and neutral right
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809020301:0002/pct:41.78651002633178,3.062151291034125,16.872594693133482,1.9722330349033346/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809020301:0002/pct:41.78651002633178,3.0664763634790884,16.872594693133482,1.976558107348298/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -375,7 +375,7 @@ defend the navigation of the high seas a­
 gainst any nation or nations having in force  
 edidls, orders or decrees,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809020701:0226/pct:76.02961591855622,66.70305676855895,16.44300478173685,3.930131004366812/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809020701:0226/pct:76.02961591855622,66.70636495964007,16.448146434263972,3.936747386529046/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -397,7 +397,7 @@ tion of the high seas against any pation or
 nations; having in force edicls, orders ot  
 &#x27;~ decrees,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809020701:0227/pct:22.164236377590175,62.73025988250523,17.099002302379127,4.600219058050383/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809020701:0227/pct:22.164236377590175,62.736898005244115,17.11435149654643,4.596899996680938/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -417,7 +417,7 @@ sume, maintain and d-fend the navigation of the
 high seas against any nation or nations having in  
 force edicts, orders or decrees,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809020801:0340/pct:3.5173299101412066,28.96201702685003,21.463414634146343,3.945645055664702/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809020801:0340/pct:3.5164271047227924,28.957276149942707,21.464322381930184,3.9490915043378623/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -465,7 +465,7 @@ pation or natioms baving im force edifts
 orders or decrees violating the fawful com.  
 merce and neutral rights of the U States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809021401:0230/pct:58.639308855291574,74.12831241283124,15.890157358839865,4.592548316397688/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809021401:0230/pct:58.649593746785975,74.12831241283124,15.890157358839865,4.595869031015474/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -592,7 +592,7 @@ the government of the U. S. for a withdrawal
 of their decrees and orders, violating the  
 lawful commerce and neutral rights of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810031301:0397/pct:60.20710059171598,36.48011604013055,17.696005917159763,2.7922156412425965/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810031301:0397/pct:60.19596968016269,36.47570703408267,17.698896900228014,2.7959068568205625/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

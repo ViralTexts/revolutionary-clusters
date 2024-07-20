@@ -78,7 +78,7 @@ any manner, with the rights of self govern­
 ment, possessed by the Cherokee Nation with­  
 in t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn84021903:00414187432:1831012601:0017/pct:19.109293342422177,31.71864631718646,14.860259032038174,14.333112143331121/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn84021903:00414187432:1831012601:0017/pct:19.104952294411632,31.713385304362248,14.862562471603816,14.33488140653508/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -211,7 +211,7 @@ answer all and singular the premises.
 And that the sold defendant, Michael Evans, and  
 his agents may be enjoined and restrained by the in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1876010901:0016/pct:72.1631590366674,66.60593009773066,13.169885007593837,4.522113632598973/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1876010901:0016/pct:72.1631590366674,66.61835348683121,13.175309177695812,4.5179725028987905/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -245,7 +245,7 @@ In tender consideration whereof, and
 forasmuch as your orators are remediless  
 save in a court of chancery, where m
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_journey_ver01:data:sn84024738:00206531034:1881081601:0165/pct:170.0438530167851,142.64909110237056,39.0594283986088,5.719145317316892/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_journey_ver01:data:sn84024738:00206531034:1881081601:0165/pct:56.68128433892837,47.549697034123525,13.019809466202934,1.9063817724389638/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -268,7 +268,7 @@ other and further relief as the nature of the
 case may require.  
 May it please your Honor to grant unt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00383342077:1882020801:0132/pct:47.03009503695882,22.237804267254333,9.939281942977825,3.235500350596013/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00383342077:1882020801:0132/pct:47.03889475536783,22.24114327690407,9.934882083773319,3.235500350596013/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

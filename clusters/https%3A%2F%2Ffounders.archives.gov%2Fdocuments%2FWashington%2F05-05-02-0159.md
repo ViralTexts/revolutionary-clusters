@@ -42,7 +42,7 @@ ute which I owe as a son to my adopted
 father, as an aid-de-camp to my general,  
 as a missionary of liberty to its patri
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472037:1844111501:0233/pct:195.23809523809524,333.2774986041318,58.704137392661984,21.273031825795645/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472037:1844111501:0233/pct:48.81905133710716,83.31937465103294,14.678899082568808,5.318257956448911/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -67,7 +67,7 @@ It is a tribute, which 1 owe as a son to my ado
 ted father, as an aid-do camp to my general, as  
 a missionary of liberty to its patriarch.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn84028793:00296026669:1844121101:0172/pct:67.59969325153374,106.2508701099819,19.516871165644172,8.1303076708896/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn84028793:00296026669:1844121101:0172/pct:50.72880705792098,79.68815258248642,14.652857690832374,6.0977307531672/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -300,7 +300,7 @@ to my adopted father, as an aid-de-camp to !
 my general, as a missionary of litM-rty to its  
 |*trian:li.” This key was for a long time in 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fireweed_ver01:data:sn83016209:00383342417:1879110701:0394/pct:80.1024011299435,106.342123056119,13.71822033898305,2.447599729546991/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fireweed_ver01:data:sn83016209:00383342417:1879110701:0394/pct:62.07981755986317,82.421574792147,10.645381984036488,1.896876964996856/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -359,7 +359,7 @@ lution, in which nothing will be
 wanting but energy of government,  
 as it was in America, will implan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_ferrari_ver02:data:sn86088181:00200296953:1888071901:0695/pct:132.34375,53.272896947073725,50.859375,35.03532862285029/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_ferrari_ver02:data:sn86088181:00200296953:1888071901:0695/pct:33.09240085954288,13.318224236768431,12.71732760304747,8.758832155712572/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -385,7 +385,7 @@ as a son to my adoped father as an
 aiJ-decarup to my goueral as a mis-  
 sionarv of libortv to its patriarch
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_ferrari_ver02:data:sn86088181:00200296953:1888071901:0695/pct:130.9375,101.74643380882549,52.265625,21.437141714438074/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_ferrari_ver02:data:sn86088181:00200296953:1888071901:0695/pct:32.740769681578435,25.43660845220637,13.068958781011917,5.359285428609518/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -417,7 +417,7 @@ It is a tribute which I owe to my
 adopted father; as an aide-de-camp  
 to my General; as a missionary t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_iceland_ver01:data:sn84026788:00202192397:1890042201:0276/pct:27.961504811898514,35.715314796138884,11.758530183727034,4.394179513038467/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_iceland_ver01:data:sn84026788:00202192397:1890042201:0276/pct:27.970253718285214,35.72612015559718,11.758530183727034,4.394179513038467/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -439,7 +439,7 @@ my adopted father; a-* an aide-de-camp to
 my General; as a missionary of liberty to  
 its patriarch.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kump_ver01:data:sn84026784:004141867080:1890042301:0273/pct:32.858414959928766,26.900140951967906,12.659542891065598,4.738154613466334/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kump_ver01:data:sn84026784:004141867080:1890042301:0273/pct:32.85353910075679,26.89722463139636,12.662610674185093,4.7412546978895636/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -584,7 +584,7 @@ my adopted father, as an atcre-de-camp
 to my Genera], as a missionary of liberty  
 to its patriarch.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_horseradish_ver02:data:sn87068097:00383340214:1895040601:0334/pct:73.78756830601093,48.26560951437067,11.133879781420765,3.5254141299730994/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_horseradish_ver02:data:sn87068097:00383340214:1895040601:0334/pct:73.77497012122247,48.258776896942244,11.136247225542087,3.528454133635334/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -609,7 +609,7 @@ my general, as a missionary of liberty to
 its Patriarch.”  
 Washington replied, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016172:1895050901:0079/pct:14.840313635494358,64.89870568373664,11.187607573149743,4.98030388294879/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016172:1895050901:0079/pct:14.837476099426386,64.88957659305106,11.190248565965582,4.983119988746659/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -706,7 +706,7 @@ which I owe as a son of my adopted father,
 as an Aid-de-Camp to my General, as a mis­  
 sionary of liberty to it3 patriarch.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ike_ver01:data:sn82016187:00211102354:1897102801:0527/pct:112.29551451187335,110.72480848556276,16.728232189973614,5.028481634256531/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ike_ver01:data:sn82016187:00211102354:1897102801:0527/pct:84.254982182922,83.04851699076802,12.564339448330474,3.7713612256923983/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -730,7 +730,7 @@ e father, as an aide-de-camp to my gen.
 lI eral, as a missionary of liberty to its &#x27;  
 lpatriarch.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_juggernaut_ver01:data:sn88064237:0021110093A:1897103001:0388/pct:55.81234908589169,62.501554146462766,14.091065884787858,5.0603008827551905/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_juggernaut_ver01:data:sn88064237:0021110093A:1897103001:0388/pct:55.81234908589169,62.49378418697166,14.091065884787858,5.059671805072103/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -757,7 +757,7 @@ I owe as a son to my adopted father,
 as an aide-de-camp to my general, as  
 a missionary of liberty to its patr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_griffith_ver01:data:sn83045555:206534710:1898021901:0720/pct:39.05419766206164,92.35860409145607,38.33687566418703,17.388688327316487/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_griffith_ver01:data:sn83045555:206534710:1898021901:0720/pct:13.024986709197236,30.78620136381869,12.78575225943647,5.796229442438829/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

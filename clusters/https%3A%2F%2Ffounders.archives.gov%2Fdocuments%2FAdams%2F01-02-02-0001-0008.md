@@ -134,7 +134,7 @@ JPIA, or the Happy Republic, a philosophical
 romance, by Sir Thomas More; to which  
 d, &quot;The New Atlantis,&quot; by Lord Bacon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846021401:0187/pct:81.4989765391277,69.25852202040309,12.5019681939852,1.6670813635232644/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846021401:0187/pct:81.50947357371543,69.26681595753504,12.49147115939747,1.6670813635232644/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -242,7 +242,7 @@ he won&#x27;t eat so much hay; maybe he drink as mudi
 water.&quot;  
 This was sheer wit, pure satire, and tree humour
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879075:1851050901:0082/pct:46.661764705882355,107.28740336516599,27.897058823529413,22.226011823556163/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879075:1851050901:0082/pct:35.005147815855274,80.46839472487494,20.929548463009265,16.666666666666668/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -386,7 +386,7 @@ This was sheer wit, pure satire, and true J
 humor. Humor, wit and satire in one very  
 short sentence.—John Adams.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024718:00414183736:1851061101:0301/pct:17.380043620501635,52.39431169584986,13.181570338058888,11.22182451388217/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024718:00414183736:1851061101:0301/pct:17.377674798964154,52.38924356742116,13.184316932442869,11.223963371380666/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -546,7 +546,7 @@ drink as much water&#x27; This was sheer wit, pure
 satire and true humor. Humor wit, and sa­  
 tire, rn one verv short repartee.’ —John Adam&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851111001:0652/pct:5.13189448441247,30.11093502377179,12.853717026378897,9.44670295597051/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851111001:0652/pct:5.1314022635718395,30.108860410638005,12.855681309546647,9.448348720775343/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -695,7 +695,7 @@ horse.&quot; &quot;Th,&quot; says the Indian, I see
 through that; he no cat so much hay, he  
 drink so much water.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_dillinger_ver02:data:sn84038005:0020029581A:1869091601:0006/pct:55.221158230734154,300.72457442164995,46.87642498860009,37.50327367961589/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_dillinger_ver02:data:sn84038005:0020029581A:1869091601:0006/pct:13.810012544189759,75.18114360541249,11.723115520583875,9.375818419903972/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

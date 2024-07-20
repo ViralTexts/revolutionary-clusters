@@ -151,7 +151,7 @@ I&#x27;ll say no more, and leave you to guess the rest.&quot;o
 Then followed the general news of the cam  
 ai ien i e dei an ii e 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_psylocke_ver01:data:sn82015775:0020029953A:1869010301:0020/pct:198.65326251896812,91.88461538461539,50.41729893778452,9.115384615384615/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_psylocke_ver01:data:sn82015775:0020029953A:1869010301:0020/pct:66.21775417298937,30.628205128205128,16.80576631259484,3.0384615384615383/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -170,7 +170,7 @@ the company you mention, and myself doubly
 happy in being the Juba to such a ffarcia as pone  
 must make.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_psylocke_ver01:data:sn82015775:0020029953A:1869010301:0020/pct:198.82397572078906,104.57692307692308,50.24658573596358,6.5/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_psylocke_ver01:data:sn82015775:0020029953A:1869010301:0020/pct:66.27465857359635,34.85897435897436,16.74886191198786,2.1666666666666665/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -207,7 +207,7 @@ mine by this. Adieu, dear Madam, you will pot
 sibly hear something of me or from me before wee  
 a e  e e te ae o o o 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_psylocke_ver01:data:sn82015775:0020029953A:1869010301:0020/pct:195.80804248861912,172.53846153846155,53.262518968133534,29.76923076923077/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_psylocke_ver01:data:sn82015775:0020029953A:1869010301:0020/pct:65.26934749620638,57.51282051282051,17.754172989377846,9.923076923076923/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -230,7 +230,7 @@ say no more, and leave you to guess the
 rest.&quot;  
 Then followed the general news of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009571:00279523921:1869010801:0011/pct:114.1891891891892,183.8423645320197,33.67779544250133,11.921182266009852/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009571:00279523921:1869010801:0011/pct:38.058020929924496,61.27475125603389,11.224444738817503,3.9733359603323155/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -249,7 +249,7 @@ bly spent, believe me, in playing a part in
 and myself doubly happy in being the Juba to  
 such a Marcia as you must make.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009571:00279523921:1869010801:0011/pct:114.1891891891892,204.29556650246306,33.67779544250133,6.571428571428571/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009571:00279523921:1869010801:0011/pct:38.058020929924496,68.09181361442222,11.224444738817503,2.1902604012740947/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -282,7 +282,7 @@ asunder to bring you in haste to the end
 of the Paper, you may be tired of mine b­  
 Adlen, dear Madan,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009571:00279523921:1869010801:0011/pct:113.95071542130366,270.5024630541872,33.79703232644409,24.807881773399014/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009571:00279523921:1869010801:0011/pct:37.97854020400053,90.15860506354053,11.264185101779486,8.268479295964273/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -304,7 +304,7 @@ but I&#x27;ll say no more, aud leave you
 to guess the rest.&quot;  
 Then followed the general news ofth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_forego_ver01:data:sn94051044:00280762623:1869012901:0254/pct:28.41046277665996,77.39754964089565,12.374245472837021,3.633291085762569/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_forego_ver01:data:sn94051044:00280762623:1869012901:0254/pct:28.420523138832998,77.40811153358682,12.38430583501006,3.6262498239684553/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -345,7 +345,7 @@ am nvi*tiiual_(.vr.blv,
 &quot;Y&#x27;r most obed&#x27;t and oblig&#x27;d  
 QTO. WifUIXUTOX.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_forego_ver01:data:sn94051044:00280762623:1869012901:0254/pct:40.945674044265594,33.27700323898043,12.756539235412475,12.477115899169132/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_forego_ver01:data:sn94051044:00280762623:1869012901:0254/pct:40.945674044265594,33.28404450077454,12.761569416498993,12.487677791860301/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -531,7 +531,7 @@ at the length of your letter. No, madam, I
 am not, nor never can be,&quot; Ke.  
 Miss Cary&#x27;s father was like Cato in Addi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00271742125:1877041201:0359/pct:46.04335682936561,25.269111476008028,84.04043090836548,270.46159459952565/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00271742125:1877041201:0359/pct:15.347785609788536,8.423037158669343,28.01347696945516,90.15386486650854/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -586,7 +586,7 @@ madam, I am not, nor never can be,”
 etc.  
 Miss Cary’s futher was like Cato i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_igglybuff_ver01:data:sn84023017:00414213005:1877050301:0455/pct:32.5,41.208408742865096,12.631578947368421,11.346234163998329/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_igglybuff_ver01:data:sn84023017:00414213005:1877050301:0455/pct:32.49389212554031,41.202672605790646,12.633903401616237,11.348134743875278/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -669,7 +669,7 @@ and believe me that I am most unalterably
 your most ob’t and oblig’d, G&quot; Washing­  
 ton.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gore_ver01:data:sn86092518:00279550377:1889043001:0413/pct:53.03589399530359,43.90509360034828,13.267359946326737,12.723117109272964/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gore_ver01:data:sn86092518:00279550377:1889043001:0413/pct:53.026999832299175,43.90031559473283,13.27072502655263,12.725360031922225/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -734,7 +734,7 @@ after. The widow was a wee bit afraid of
 her young lover. She did not know him as  
 well as we do now. She hadn&#x27;t heard th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_ashbel_ver01:data:sn82015679:00295870382:1890031601:0158/pct:9.694570135746606,89.82727055639576,17.975113122171944,12.186579638621348/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_ashbel_ver01:data:sn82015679:00295870382:1890031601:0158/pct:7.2762249632228135,67.37244288784525,13.488740522801855,9.137944758417575/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -754,7 +754,7 @@ fain believe the contrary as I cannot
 speak plainer but Ill say no more aud  
 leave you to guess the rest Mark th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_golf_ver01:data:sn86064205:00206536597:1890031601:0197/pct:285.8608893956671,204.45100612423448,51.011972633979475,11.461067366579178/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_golf_ver01:data:sn86064205:00206536597:1890031601:0197/pct:71.4856002281152,51.11275153105862,12.756629597946963,2.8652668416447944/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -784,7 +784,7 @@ know him as weU as we do now She
 hadnt heard her story of the little  
 hatchet Hence the caution that blu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_golf_ver01:data:sn86064205:00206536597:1890031601:0197/pct:285.57582668187,216.2182852143482,51.31128848346636,31.714785651793527/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_golf_ver01:data:sn86064205:00206536597:1890031601:0197/pct:71.41431422868548,54.05457130358705,12.83147989734816,7.928696412948382/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

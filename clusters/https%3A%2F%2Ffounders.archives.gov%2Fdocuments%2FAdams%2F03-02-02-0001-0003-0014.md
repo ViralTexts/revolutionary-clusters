@@ -170,7 +170,7 @@ know not where they have laid him. And
 when she bad thus said she turned herself  
 back and saw Jesus standing, and knew no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_farmington_ver01:data:sn83016025:00279525310:1871041001:0085/pct:26.847370119393354,27.759312320916905,10.890609874152952,3.3696275071633237/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_farmington_ver01:data:sn83016025:00279525310:1871041001:0085/pct:26.843039199870947,27.75613110245244,10.892885949346669,3.3721063488425393/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

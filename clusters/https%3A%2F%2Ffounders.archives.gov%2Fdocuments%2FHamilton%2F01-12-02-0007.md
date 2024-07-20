@@ -49,7 +49,7 @@ accruing on Madeira wines, in twelve months; if accruing upon
 any other good&#x27;s, wares or merchandize, other than teas imported  
 from China in fix months ; which bond at the like option of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790092501:0001/pct:6.44765121277249,74.16127133608005,26.61958857844642,3.9238767902687854/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790092501:0001/pct:6.45532698802579,74.17598587404356,26.61958857844642,3.9140670982931134/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -73,7 +73,7 @@ than teas imported from China, in fix
 months ; which bound at the like op­  
 tion of the said proprietor or proprie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791010101:0723/pct:27.237820974322055,35.52890932982917,20.830333573314135,8.42641261498029/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791010101:0723/pct:27.24582033437325,35.53985983355234,20.830333573314135,8.431887866841874/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -96,7 +96,7 @@ such collector, without surety, upon the terms following : that
 is to fay : The teas, for the duties whereof the said bond (hall be  
 accepted, shall
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791040201:0004/pct:7.67479674796748,45.37444933920705,28.747967479674795,6.320628232139437/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791040201:0004/pct:7.682926829268292,45.37923769392837,28.772357723577237,6.334993296303391/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -128,7 +128,7 @@ the fourth and forty-firft fetions of the
 a&amp;, entitled, *“ An a&amp; to provide more  
 effe@ually for the collettion of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791051901:0803/pct:4.042604696199468,21.73218280600831,21.181312030985232,15.196548418024928/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791051901:0803/pct:4.042604696199468,21.742835836795567,21.19745017348503,15.196548418024928/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -157,7 +157,7 @@ terms following—tbat is to fay, The
 Teas, for the duties whereof the said  
 bond shall be accepted, shall
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791051901:0803/pct:3.776325344952796,39.37360178970917,21.326555313483418,12.352189197826782/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791051901:0803/pct:3.776325344952796,39.38425482049643,21.342693455983216,12.352189197826782/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -217,7 +217,7 @@ are informed, has been to fecure the duties
 thereonhpon&#x27;the same terms as on other  
 goods imported ; that is, at six, nine an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803030801:0180/pct:31.753855938941008,32.35215413433235,22.292892351725236,17.812862367317813/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803030801:0180/pct:31.748807631160574,32.34926864074206,22.294647588765237,17.814246640504223/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

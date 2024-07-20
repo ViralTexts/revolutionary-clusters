@@ -173,7 +173,7 @@ such manner and form as the President of
 the United State* may direct.  
 LANGDON CURVES
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814041601:0079/pct:38.99716513111269,56.59469608073222,16.53082919914954,29.26543065008214/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814041601:0079/pct:38.99025686448184,56.588055848879506,16.5338057277827,29.265907935390512/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -205,7 +205,7 @@ New-York and their fuccefTors forever, 21l the
 right, title and interest of the United States in  
 and to a certain lot or parcel of land iying inih
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814042601:0069/pct:4.1890744409849985,4.281994406403704,82.02660628361166,89.95081492911564/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814042601:0069/pct:4.1890744409849985,4.281994406403704,82.0407585621285,89.95724435014627/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -235,7 +235,7 @@ money, the respective valuation torbe ascertain­
 ed in {uch manner and form as the President of  
 the United States may direct. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814042601:0069/pct:23.068213982451173,16.260005786478928,16.841211435041043,8.969042337737486/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814042601:0069/pct:23.068213982451173,16.266435207509563,16.8506462873856,8.975471758768123/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -269,7 +269,7 @@ if the ports and harbors of the United
 States, Sir.  
 An act declaring the assent of Congrcis t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814042701:0092/pct:3.166758191469888,75.4147995640063,17.188358045030203,10.645512898147027/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814042701:0092/pct:3.166178623718887,75.40566723177525,17.191312835529526,10.648260272866715/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -479,7 +479,7 @@ same In manner and form as aforesaid ; that the
 said premises are free from all incumbrances, and  
 mai me aouve uarganieu premises, la the quie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_columnist_ver01:data:sn92053942:00295873206:1876111401:0049/pct:43.0947897049592,93.614853390694,16.43126177024482,6.271934789992075/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_columnist_ver01:data:sn92053942:00295873206:1876111401:0049/pct:32.33908948194662,70.21397033850334,12.323390894819466,4.7096116834597535/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -520,7 +520,7 @@ President of the United States, hath here­
 unto set his hand and caused the seal of the  
 Unite,! States to he hereunto affixed, thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_eisenhower_ver01:data:sn84024546:00237282085:1892011601:0174/pct:18.42747559274756,61.59977625506922,15.115062761506277,4.209201510278283/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_eisenhower_ver01:data:sn84024546:00237282085:1892011601:0174/pct:13.832199546485262,46.20332820584534,11.355311355311356,3.1603971472521324/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

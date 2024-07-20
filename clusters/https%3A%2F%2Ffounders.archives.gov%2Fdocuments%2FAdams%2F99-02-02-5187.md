@@ -69,7 +69,7 @@ the pacific part assigned to us 1
 &quot; The Eastern nations sink, their glory ends.  
 And Empire rises where the sun descends.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1854081001:0136/pct:12.659768715763846,56.45375284306293,12.185027388922702,3.1557998483699774/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1854081001:0136/pct:12.663826333941977,56.46007076067728,12.180969770744573,3.1526408895628/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -91,7 +91,7 @@ sublime the pacific part assigned to us!
 &quot;The Eastern nations sink, their glory ends,  
 And Empire rises where the sun descends.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83021380:00279523878:1854081101:0111/pct:240.3380978559648,85.748124753257,36.50357339197361,12.12001579155152/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83021380:00279523878:1854081101:0111/pct:80.10169025697402,28.57988749629922,12.166185699235033,4.03960656600546/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -238,7 +238,7 @@ outh,—an unlikely story, for the Mayflower’s
 passengers had no time to spare for such  
 sentimentality. Jefferson, by the way, alway
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fullerton_ver02:data:sn84031492:no_reel:1874042401:0004/pct:57.24759111855886,91.2258473234083,13.070800167574362,5.986696230598669/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fullerton_ver02:data:sn84031492:no_reel:1874042401:0004/pct:57.24759111855886,91.22980677858726,13.091746962714705,5.986696230598669/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -295,7 +295,7 @@ Berkeley wrote
 The Eastern nations sink, their glory ends,  
 Andempire rises where the sun descends
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282322:1885040101:0745/pct:120.93362509117432,157.7012120386763,51.93289569657185,28.544191747242273/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282322:1885040101:0745/pct:30.249954387885424,39.42530300966907,12.990330231709542,7.136047936810568/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -329,7 +329,7 @@ And empire riC3 w here the tun descends.
 Knight.  
 Inasmuch as we have given space t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_larch_ver01:data:sn93051663:00295867498:1885090401:0507/pct:44.311034877072615,71.97302544191274,16.76672384219554,18.473485235516502/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_larch_ver01:data:sn93051663:00295867498:1885090401:0507/pct:33.23802716225875,53.979769081434554,12.580414581844174,13.855113926637376/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -346,7 +346,7 @@ by saying;
 The eastern nations sink, their glory ends,  
 And empire rises where the sun descends
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chester_ver02:data:sn86053573:00211102056:1887112501:0521/pct:13.040181956027293,166.00814356808928,40.86429112964367,4.705172673804856/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chester_ver02:data:sn86053573:00211102056:1887112501:0521/pct:3.2600454890068233,41.50203589202232,10.216072782410917,1.176293168451214/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -405,7 +405,7 @@ And empire rises where the sun descends.
 Adam Smith, in his “Wealth of Na­  
 tions,” predicts the transfer of empir
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_fencing_ver02:data:sn83016589:00393340757:1895053101:0178/pct:35.51724137931034,71.24449339207048,13.369905956112852,1.8612334801762114/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_fencing_ver02:data:sn83016589:00393340757:1895053101:0178/pct:35.51724137931034,71.24816446402349,13.385579937304076,1.8575624082232012/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

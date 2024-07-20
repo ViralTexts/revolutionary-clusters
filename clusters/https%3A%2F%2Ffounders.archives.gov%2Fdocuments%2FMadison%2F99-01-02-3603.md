@@ -87,7 +87,7 @@ of inconvenient restriction upon the Ame-
 l as a measure of inconve­  
 nient restriction upon the American people.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808122001:0273/pct:5.088779059125023,47.720708275775465,17.33479773018488,1.1176692201431622/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808122001:0273/pct:5.087847730600293,47.714716223003514,17.337725719863347,1.1217143813828896/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -103,7 +103,7 @@ oval as a meas­
 ure of inconvenient restriction upon the A­  
 merican people.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808122701:0421/pct:59.116755117513264,18.796319959110658,17.475360121304018,1.6866854076156401/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808122701:0421/pct:59.105552397195375,18.793918487287595,17.478365232771147,1.6907286742472638/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -145,7 +145,7 @@ the American people.—The undersigned i
 tttin considered it only “ as a measure of in­  
 convenient restriction upon the American peo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812072201:0668/pct:55.08171206225681,74.6212812557036,22.007782101167315,1.405365942690272/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812072201:0668/pct:55.07314036725801,74.61447212336893,22.009544558564166,1.4082793442224046/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

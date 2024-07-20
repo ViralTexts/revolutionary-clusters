@@ -45,7 +45,7 @@ Columbia, and the city of Wafliington —Pro­
 vided, The faid flate of Maryland, fhall con­  
 fetit and agree thereto.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1805012501:0325/pct:23.793165792804196,65.66811684275947,17.50135599349123,10.068365444375388/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1805012501:0325/pct:23.78886478669559,65.6599552572707,17.50421788382743,10.071256939265888/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -70,7 +70,7 @@ an act passed the 19th day of December, In the year
 Columbia, and the city of Washington ;—Provided,  
 The said State of Maryland, shall consent and agre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805013001:0325/pct:26.79167736963781,88.20087762067284,21.93680965836116,7.215992198927353/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805013001:0325/pct:26.784797123780173,88.18654533636659,21.937596302003083,7.218882027949301/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -222,7 +222,7 @@ as those conveyed by Notley Young and others
 ir trust to Beali and Gant.  
 These acts ot Congress, tbe act of the Legis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_englishsetter_ver01:data:sn83045462:0028065422A:1864090101:0369/pct:66.77818668450988,37.69798220872207,15.941786550685848,4.133217617704491/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_englishsetter_ver01:data:sn83045462:0028065422A:1864090101:0369/pct:66.782368685179,37.69798220872207,15.941786550685848,4.135929702755479/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

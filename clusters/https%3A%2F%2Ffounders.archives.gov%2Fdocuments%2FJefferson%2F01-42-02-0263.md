@@ -55,7 +55,7 @@ interest on any sum or sums which may be
 so borrowed, either by diretft loans, or by  
 the sale of certificates of flock, the interes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1795033001:0002/pct:42.338398145763584,15.17094017094017,16.3018284831316,13.658777120315582/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1795033001:0002/pct:42.338398145763584,15.179158448389218,16.308266804017514,13.666995397764628/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -93,7 +93,7 @@ secretaiy of the treacjury shall caussae to be paid,
 at the-treasisur&#x27;y of the Unitetl Statcs. in coxsifss.  
 mity to the conventiOn nfnresaid, the ainousit o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216018:1803102901:0277/pct:48.39237868413218,63.91590013140605,22.908603751116402,18.93999123959702/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216018:1803102901:0277/pct:48.38517636553058,63.91030133146461,22.910155281043806,18.94125204391497/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -157,7 +157,7 @@ given on the book* ot the Treafury, in
 in like manner as for the prefent donsef­  
 tic lunded debt, which faid credits o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803111801:0003/pct:21.2977267711322,18.133778334028648,19.002427720150077,35.961618690029205/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803111801:0003/pct:21.30508349885971,18.133778334028648,19.009784447877585,35.98016038566727/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -370,7 +370,7 @@ the proprietors thereof, {ball thereupon be entered
 and given oh -the books ot the tyealury, to  
 nSboner as for the prefvnt domcftic funded debt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016081:00332895060:1803121001:0030/pct:28.39894144889183,2.7484360578402214,45.28613959642739,95.19023689877962/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016081:00332895060:1803121001:0030/pct:28.39424508020506,2.7481542247744053,45.28278485199272,95.18303937653815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -558,7 +558,7 @@ States ; and credit, or credits, to the
 proprietors thereof, fhall&#x27;therenpon be  
 entered and given on the books of the 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804020701:0435/pct:4.833597464342314,19.477033207397096,18.114104595879557,37.651620600517/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804020701:0435/pct:4.844162704701532,19.477033207397096,18.119387216059167,37.658248823490425/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -634,7 +634,7 @@ of the treaty afore fa id, arid after Lmiifinna
 fhall he taken pofieflion of in the r;.rnc  
 ofthe government of the United State?; &amp;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804050901:0009/pct:71.68044077134986,5.64771432189439,16.492194674012858,24.224389008484234/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804050901:0009/pct:71.66727873668748,5.6469992403140035,16.49528706083976,24.225542331391914/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -655,7 +655,7 @@ United States, by virtue of the author­
 ity aforefaid, do hereby {ufpend the  
 operation of the a&amp; entitled ¢ An aé
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1807040701:0476/pct:77.92715335313429,13.162888245281135,16.304517742691885,4.773794067711974/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1807040701:0476/pct:77.93757490490334,13.162888245281135,16.299306966807357,4.7804520789640135/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -698,7 +698,7 @@ rised by this act, to the holders of the exchanged
 six per cent, stock, created by virtue of the second  
 section of the art passed on the eleventh day o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810051401:1078/pct:26.41557128412538,62.379788101059496,21.814964610717897,12.290138549307253/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810051401:1078/pct:26.408895628001012,62.36962190352021,21.81576952236543,12.292209908735332/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -728,7 +728,7 @@ authori: cd, with the approbation of tho President
 of the United States, to give the preference, in  
 the subscriptions which may he made to the lo-i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810060801:0042/pct:59.54308328836122,42.94655753490611,17.089404569167115,8.208955223880597/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810060801:0042/pct:59.53237410071942,42.94138885545794,17.09232613908873,8.211978978617564/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -779,7 +779,7 @@ this ac», the holders of the ex­
 changed six per &#x27;cmt. stock, created  
 by virtue of the second section of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810071001:0223/pct:21.50742291587362,32.98075697718873,18.176627331556908,25.105135720657575/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810071001:0223/pct:21.503330161750714,32.976554536187564,18.17951157627656,25.106184165817194/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -839,7 +839,7 @@ so much of the binds constituting the
 t dollars, for the payment of the prin­  
 cipal and interest of the public deb
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811040101:0115/pct:57.04199182460052,36.663693131132916,17.68859160163508,14.056327258825029/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811040101:0115/pct:57.031395132825565,36.65902140672783,17.691497925568147,14.058783554196399/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -916,7 +916,7 @@ public debt of the Uuitud States, as may b
 wanted tor that purpose, afler satisfying th  
 sums necessary lor the payment of the intern
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812032601:0103/pct:40.39562727745966,12.631330421437847,32.43102550754815,79.17601227718097/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812032601:0103/pct:40.388619014573216,12.629839471199245,32.43118204950266,79.17060119609695/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -974,7 +974,7 @@ Treasury, or by a Commissioner of Loans, for
 the sum to be borrowed by this a&amp;, or for any  
 part thereof, and the fame to be fold. And th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814041201:0061/pct:5.783475783475783,27.83804726850058,17.22222222222222,7.78767919411081/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814041201:0061/pct:5.788224121557455,27.83804726850058,17.226970560303894,7.794136639545396/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1103,7 +1103,7 @@ Secretary of the Treasury be, and he is hereby,
 authorized, with the approbation of the Presi­  
 dent es the United States, to employ a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1820060601:0089/pct:38.73219771013683,46.95777351247601,16.40603183468305,7.7831094049904035/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1820060601:0089/pct:38.74150609699339,46.95777351247601,16.40603183468305,7.795905310300704/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1167,7 +1167,7 @@ and he is hereby, authorized, with the
 approbation of the President of the Unit­  
 ed States, to employ an agent, or agents
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898000:1820071101:0211/pct:74.8765913224214,33.25669239612416,17.485061054819433,13.483330596157005/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898000:1820071101:0211/pct:74.85714285714286,33.251231527093594,17.48701298701299,13.485221674876847/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1410,7 +1410,7 @@ of the united States, to cause to be constituted
 certificates of stock, signed by the Register of the  
 Treasury or by a Commissioner of Loans, for th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1829021001:0376/pct:51.37718729747245,39.413249969941084,15.26247569669475,2.9217265841048454/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1829021001:0376/pct:51.36886440952535,39.408511661457084,15.265403099519412,2.9253827041756835/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1429,7 +1429,7 @@ the United States, to cause to be constituted certifi­
 cates of stock, signed by the Register of the Trea­  
 sury, for the sum borrowed, or for any part thereof
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1838051901:0439/pct:65.77762960493416,51.80396502893732,15.5692615435906,2.4381233838197267/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1838051901:0439/pct:65.7887425682058,51.81217419857981,15.574818025226426,2.442227968640972/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
